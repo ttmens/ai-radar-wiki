@@ -471,9 +471,12 @@
       if (node.type) metaHtml.push('<div class="source-meta-item">类型：<span>' + node.type + '</span></div>');
       document.getElementById('source-meta').innerHTML = metaHtml.join('');
 
-      // Original text preview (full content, original language)
+      // Original text preview (wiki raw content, fallback to summary)
       const preview = document.getElementById('panel-source-preview');
-      if (summary && summary.length > 0) {
+      const rawContent = currentNode.raw_content || '';
+      if (rawContent && rawContent.length > 0) {
+        preview.textContent = rawContent.length > 200 ? rawContent.substring(0, 200) + '…' : rawContent;
+      } else if (summary && summary.length > 0) {
         preview.textContent = summary;
       } else {
         preview.textContent = '暂无原文内容';
@@ -509,14 +512,21 @@
       if (!currentNode) return;
       
       if (showingRaw) {
-        // Back to summary view: show first 120 chars
+        // Back to summary view: show first 120 chars of Chinese summary
         const summary = currentNode.summary || '';
-        preview.textContent = summary.length > 120 ? summary.substring(0, 120) + '…' : summary || '暂无原文内容';
+        preview.textContent = summary.length > 120 ? summary.substring(0, 120) + '…' : summary || '暂无摘要';
         btn.textContent = '📋 完整原文';
         showingRaw = false;
       } else {
-        // Show full text
-        preview.textContent = currentNode.summary || '暂无原文内容';
+        // Show full raw content from wiki file
+        const rawContent = currentNode.raw_content || '';
+        if (rawContent && rawContent.length > 0) {
+          preview.textContent = rawContent;
+        } else if (currentNode.summary) {
+          preview.textContent = currentNode.summary;
+        } else {
+          preview.textContent = '暂无原文内容';
+        }
         btn.textContent = '📝 返回摘要';
         showingRaw = true;
       }
