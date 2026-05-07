@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# State files (not needed in repo)
+cache/
+tmp/

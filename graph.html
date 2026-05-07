@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Radar Knowledge Graph</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #0d1117; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+  #header { padding: 16px 24px; border-bottom: 1px solid #21262d; display: flex; justify-content: space-between; align-items: center; }
+  #header h1 { font-size: 18px; color: #58a6ff; }
+  #stats { font-size: 13px; color: #8b949e; }
+  #graph { width: 100%; height: calc(100vh - 60px); }
+  .legend { position: fixed; bottom: 16px; left: 16px; background: rgba(13,17,23,0.9); padding: 12px; border-radius: 8px; font-size: 12px; border: 1px solid #21262d; }
+  .legend div { margin: 4px 0; }
+  .legend .dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 6px; }
+</style>
+</head>
+<body>
+<div id="header">
+  <h1>🔗 AI Radar Knowledge Graph</h1>
+  <div id="stats">Nodes: 0 | Edges: 0</div>
+</div>
+<div id="graph"></div>
+<div class="legend">
+  <div><span class="dot" style="background:#58a6ff"></span> Project</div>
+  <div><span class="dot" style="background:#3fb950"></span> Concept</div>
+  <div><span class="dot" style="background:#f0883e"></span> Paper</div>
+  <div><span class="dot" style="background:#bc8cff"></span> Company</div>
+</div>
+<script src="https://unpkg.com/vis-network@9.1.6/standalone/umd/vis-network.min.js"></script>
+<script>
+const nodesData = [];
+const edgesData = [];
+const typeColors = { project: '#58a6ff', concept: '#3fb950', paper: '#f0883e', company: '#bc8cff' };
+const networkNodes = nodesData.map(n => ({
+  id: n.id, label: n.label, color: { background: typeColors[n.type] || '#8b949e', border: 'transparent' },
+  font: { color: '#c9d1d9', size: 14 }, shape: 'dot', size: Math.max(10, Math.min(30, (n.stars || 0) / 100 + 10)),
+  title: n.url ? `<a href="${n.url}" target="_blank" style="color:#58a6ff">${n.label}</a>` : n.label
+}));
+const networkEdges = edgesData.map(e => ({
+  from: e.source, to: e.target, label: e.relation, color: { color: 'rgba(139,148,158,0.3)' },
+  font: { color: '#8b949e', size: 10, align: 'horizontal' }, smooth: { type: 'curvedCW', roundness: 0.15 }
+}));
+const container = document.getElementById('graph');
+const data = { nodes: new vis.DataSet(networkNodes), edges: new vis.DataSet(networkEdges) };
+const options = {
+  physics: { enabled: true, stabilization: { iterations: 100 } },
+  interaction: { hover: true, tooltipDelay: 100, zoomView: true, dragView: true },
+  layout: { improvedLayout: true }
+};
+new vis.Network(container, data, options);
+</script>
+</body>
+</html>
