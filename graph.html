@@ -91,7 +91,7 @@ let allNodes = [];
 let allEdges = [];
 
 // Load data
-fetch('./graph.json')
+fetch('./graph.json?t=' + Date.now())
   .then(r => r.json())
   .then(graphData => {
     document.getElementById('node-count').textContent = `Nodes: ${graphData.nodes.length}`;
