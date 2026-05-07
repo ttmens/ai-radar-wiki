@@ -1,0 +1,14 @@
+{
+  "title": "Agents need control flow, not more prompts",
+  "score": 133,
+  "comments": 65,
+  "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+  "hn_url": "https://news.ycombinator.com/item?id=48051562",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "本文指出AI智能体开发正从“提示词堆砌”转向引入结构化控制流（如条件分支、循环与状态机）。对PM而言，该架构演进可通过标准化工作流编排大幅提升Agent的稳定性与可预测性，显著降低提示词维护成本。它支持复杂业务逻辑的模块化拆解，加速产品迭代与企业级落地，是构建高可靠、可扩展AI应用的核心设计范式。",
+  "pm_relevance": 8
+}

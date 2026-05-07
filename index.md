@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-07 | Total pages: 209
+> Last updated: 2026-05-08 | Total pages: 228
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -28,6 +28,7 @@
 - [[huggingfacetransformers.md]] huggingface/transformers `pillar:capabilities` `score:0.405`
 - [[humansignallabel-studio.md]] HumanSignal/label-studio `pillar:capabilities` `score:0.615`
 - [[interpretmlinterpret.md]] interpretml/interpret `pillar:capabilities` `score:0.53`
+- [[is-xai-a-neocloud-now.md]] Is xAI a neocloud now? `pillar:capabilities` `score:0.3`
 - [[jingyaogongminimind-v.md]] jingyaogong/minimind-v `pillar:capabilities` `score:0.53`
 - [[jingyaogongminimind.md]] jingyaogong/minimind `pillar:capabilities` `score:0.545`
 - [[juliusbrusseecaveman.md]] JuliusBrussee/caveman `pillar:capabilities` `score:0.455`
@@ -49,7 +50,6 @@
 - [[sgl-projectsglang.md]] sgl-project/sglang `pillar:capabilities` `score:0.615`
 - [[shapshap.md]] shap/shap `pillar:capabilities` `score:0.615`
 - [[spmallicklearnopencv.md]] spmallick/learnopencv `pillar:capabilities` `score:0.58`
-- [[spotify-wants-to-become-the-home-for-ai-generated.md]] Spotify wants to become the home for AI-generated personal audio `pillar:capabilities` `score:0.33`
 - [[srbhrresume-matcher.md]] srbhr/Resume-Matcher `pillar:capabilities` `score:0.58`
 - [[supabasesupabase.md]] supabase/supabase `pillar:capabilities` `score:0.58`
 - [[tencentncnn.md]] Tencent/ncnn `pillar:capabilities` `score:0.58`
@@ -91,12 +91,14 @@
 - [[daytonaiodaytona.md]] daytonaio/daytona `pillar:patterns` `score:0.58`
 - [[dbeaverdbeaver.md]] dbeaver/dbeaver `pillar:patterns` `score:0.545`
 - [[deepset-aihaystack.md]] deepset-ai/haystack `pillar:patterns` `score:0.615`
+- [[ethos-raises-2275m-from-a16z-for-its-expert-netw.md]] Ethos raises $22.75M from a16z for its expert network with voice onboarding `pillar:patterns` `score:0.3`
 - [[fincept-corporationfinceptterminal.md]] Fincept-Corporation/FinceptTerminal `pillar:patterns` `score:0.58`
 - [[firecrawlfirecrawl.md]] firecrawl/firecrawl `pillar:patterns` `score:0.405`
 - [[fission-aiopenspec.md]] Fission-AI/OpenSpec `pillar:patterns` `score:0.405`
 - [[flowiseaiflowise.md]] FlowiseAI/Flowise `pillar:patterns` `score:0.615`
 - [[githubspec-kit.md]] github/spec-kit `pillar:patterns` `score:0.58`
 - [[google-researchgoogle-research.md]] google-research/google-research `pillar:patterns` `score:0.58`
+- [[google-updates-ai-search-to-include-quotes-from-re.md]] Google updates AI search to include quotes from Reddit and other sources `pillar:patterns` `score:0.3`
 - [[handsonllmhands-on-large-language-models.md]] HandsOnLLM/Hands-On-Large-Language-Models `pillar:patterns` `score:0.58`
 - [[harry0703moneyprinterturbo.md]] harry0703/MoneyPrinterTurbo `pillar:patterns` `score:0.615`
 - [[hkudslightrag.md]] HKUDS/LightRAG `pillar:patterns` `score:0.615`
@@ -136,6 +138,8 @@
 - [[significant-gravitasautogpt.md]] Significant-Gravitas/AutoGPT `pillar:patterns` `score:0.615`
 - [[sillytavernsillytavern.md]] SillyTavern/SillyTavern `pillar:patterns` `score:0.58`
 - [[simstudioaisim.md]] simstudioai/sim `pillar:patterns` `score:0.58`
+- [[snap-says-its-400m-deal-with-perplexity-8216am.md]] Snap says its $400M deal with Perplexity &#8216;amicably ended&#8217; `pillar:patterns` `score:0.3`
+- [[sqlite-is-a-library-of-congress-recommended-storag.md]] SQLite Is a Library of Congress Recommended Storage Format `pillar:patterns` `score:0.4`
 - [[tauricresearchtradingagents.md]] TauricResearch/TradingAgents `pillar:patterns` `score:0.58`
 - [[thedotmackclaude-mem.md]] thedotmack/claude-mem `pillar:patterns` `score:0.58`
 - [[unstructured-iounstructured.md]] Unstructured-IO/unstructured `pillar:patterns` `score:0.615`
@@ -196,6 +200,7 @@
 - [[pytorchpytorch.md]] pytorch/pytorch `pillar:ecosystem` `score:0.615`
 - [[sansan0trendradar.md]] sansan0/TrendRadar `pillar:ecosystem` `score:0.58`
 - [[scikit-learnscikit-learn.md]] scikit-learn/scikit-learn `pillar:ecosystem` `score:0.615`
+- [[show-hn-explore-color-palettes-inspired-by-3000-m.md]] Show HN: Explore color palettes inspired by 3000 master painter artworks `pillar:ecosystem` `score:0.45`
 - [[spring-projectsspring-ai.md]] spring-projects/spring-ai `pillar:ecosystem` `score:0.53`
 - [[steven2358awesome-generative-ai.md]] steven2358/awesome-generative-ai `pillar:ecosystem` `score:0.58`
 - [[tensorflowtensorflow.md]] tensorflow/tensorflow `pillar:ecosystem` `score:0.615`
@@ -207,10 +212,18 @@
 
 ## 💰 Business (商业与趋势)
 > Funding, Moat, Growth, Ethics, Regulation
+- [[3-days-left-to-lock-in-50-off-a-second-ticket-to.md]] 3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026 `pillar:business` `score:0.15`
+- [[ai-boom-pushes-samsung-to-1t.md]] AI boom pushes Samsung to $1T `pillar:business` `score:0.3`
 - [[ai4finance-foundationfingpt.md]] AI4Finance-Foundation/FinGPT `pillar:business` `score:0.405`
-- [[china8217s-moonshot-ai-raises-2b-at-20b-valua.md]] China&#8217;s Moonshot AI raises $2B at $20B valuation as demand for open-source `pillar:business` `score:0.33`
+- [[apple-to-pay-250m-to-settle-lawsuit-over-siri82.md]] Apple to pay $250M to settle lawsuit over Siri&#8217;s delayed AI features `pillar:business` `score:0.15`
+- [[at-techcrunch-disrupt-2026-all-your-m038a-ques.md]] At TechCrunch Disrupt 2026, all your M&#038;A questions will be answered `pillar:business` `score:0.1`
+- [[barry-diller-trusts-sam-altman-but-8216trust-i.md]] Barry Diller trusts Sam Altman. But &#8216;trust is irrelevant&#8217; as AGI nea `pillar:business` `score:0.15`
+- [[deepseek-could-hit-45b-valuation-from-its-first-i.md]] DeepSeek could hit $45B valuation from its first investment round `pillar:business` `score:0.3`
 - [[di-sukharevopencommit.md]] di-sukharev/opencommit `pillar:business` `score:0.355`
 - [[dyad-shdyad.md]] dyad-sh/dyad `pillar:business` `score:0.405`
+- [[five-architects-of-the-ai-economy-explain-where-th.md]] Five architects of the AI economy explain where the wheels are coming off `pillar:business` `score:0.15`
+- [[how-elon-musk-left-openai-according-to-greg-brock.md]] How Elon Musk left OpenAI, according to Greg Brockman `pillar:business` `score:0.3`
+- [[khosla-backed-robotics-startup-genesis-ai-has-gone.md]] Khosla-backed robotics startup Genesis AI has gone full stack, demo shows `pillar:business` `score:0.3`
 - [[mage-aimage-ai.md]] mage-ai/mage-ai `pillar:business` `score:0.355`
 - [[microsoftai-for-beginners.md]] microsoft/AI-For-Beginners `pillar:business` `score:0.405`
 - [[mintplex-labsanything-llm.md]] Mintplex-Labs/anything-llm `pillar:business` `score:0.405`
@@ -218,10 +231,15 @@
 - [[photoprismphotoprism.md]] photoprism/photoprism `pillar:business` `score:0.405`
 - [[programbench-can-language-models-rebuild-programs.md]] ProgramBench: Can Language Models Rebuild Programs from Scratch? `pillar:business` `score:0.205`
 - [[ray-projectray.md]] ray-project/ray `pillar:business` `score:0.405`
+- [[spacex-may-spend-up-to-119b-on-8216terafab82.md]] SpaceX may spend up to $119B on &#8216;Terafab&#8217; chip factory in Texas `pillar:business` `score:0.1`
 - [[spotify8217s-ai-dj-now-supports-french-german.md]] Spotify&#8217;s AI DJ now supports French, German, Italian and Brazilian Portugu `pillar:business` `score:0.33`
 - [[streamlitstreamlit.md]] streamlit/streamlit `pillar:business` `score:0.405`
+- [[tinder-owner-match-group-is-slowing-hiring-to-pay.md]] Tinder owner Match Group is slowing hiring to pay for its increased use of AI to `pillar:business` `score:0.15`
 - [[wasmedgewasmedge.md]] WasmEdge/WasmEdge `pillar:business` `score:0.405`
 - [[zhulinsendaily_stock_analysis.md]] ZhuLinsen/daily_stock_analysis `pillar:business` `score:0.405`
 
 ## 📚 Concepts (未分类)
-> 暂无内容
+- [[a-theory-of-deep-learning.md]] A Theory of Deep Learning `pillar:unknown` `score:0.35`
+- [[apple-is-enforcing-an-old-app-store-rule-against-a.md]] Apple is enforcing an old App Store rule against a new kind of software `pillar:unknown` `score:0.3`
+- [[learning-the-integral-of-a-diffusion-model.md]] Learning the Integral of a Diffusion Model `pillar:unknown` `score:0.3`
+- [[show-hn-i-built-an-open-source-email-builder-alt.md]] Show HN: I built an open-source email builder, alternative to Beefree/Unlayer `pillar:unknown` `score:0.35`

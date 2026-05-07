@@ -1,0 +1,12 @@
+{
+  "title": "How Cloudflare responded to the “Copy Fail” Linux vulnerability",
+  "score": 65,
+  "comments": 55,
+  "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
+  "hn_url": "https://news.ycombinator.com/item?id=48049160",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [],
+  "summary_cn": "本文解析Cloudflare应对Linux“Copy Fail”漏洞的应急响应机制，突出其自动化漏洞扫描、灰度发布与边缘节点热修复能力。对AI产品经理而言，该案例展示了基础设施安全韧性设计，以及将安全流程产品化、自动化的商业价值。可为AI平台构建自动化运维、智能威胁检测提供工程参考，强化产品可靠性与合规竞争力。",
+  "pm_relevance": 6
+}

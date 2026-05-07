@@ -1,0 +1,25 @@
+---
+title: Show HN: I made a vertical-pedalling bike with a novel drivetrain [video]
+created: 2026-05-08
+updated: 2026-05-08
+type: entity
+pillar: ecosystem
+pm_score: 0.19
+tags: ["show-hn", "product", "ecosystem"]
+sources: ["raw/showhn/show-hn-i-made-a-vertical-pedalling-bike-with-a-n.json"]
+---
+
+# Show HN: I made a vertical-pedalling bike with a novel drivetrain [video]
+
+## 中文摘要
+该项目展示了一款采用垂直踩踏设计与新型传动系统的自行车，核心创新在于机械结构优化，显著提升空间利用率与传动效率。对AI产品经理而言，该硬件可作为智能健身或物联网终端载体，结合传感器与AI算法实现运动姿态识别、个性化训练推荐及能耗动态优化。其模块化与结构创新思路为AI驱动的软硬协同设计提供跨界参考，具备在智慧出行与健康科技生态中商业化落地的潜力。
+
+## PM 关注指标
+- 🔥 HN Score: 17
+- 💬 Comments: 0
+- 🎯 PM Score: 0.19
+- 🏷️ Pillar: ecosystem
+
+## 链接
+- 🔗 HN: https://news.ycombinator.com/item?id=48048452
+- 🔗 原文: https://www.youtube.com/watch?v=4HLOsi2gWXQ

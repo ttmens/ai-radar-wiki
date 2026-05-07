@@ -1,35 +1,10 @@
 {
   "daily_summary": {
-    "date": "2026-05-07",
-    "headline": "智能体基建标准化，工程化重降本增效",
-    "insights": [
-      {
-        "title": "Agent架构走向标准化",
-        "summary": "AI产品正从单轮对话向具备长期记忆与自主规划的智能体演进。开源生态已沉淀出可插拔的记忆模块与标准化编排框架，大幅降低复杂工作流的构建门槛。PM需将设计重心从Prompt调优转向上下文管理与工具链路由。",
-        "evidence": [
-          "MemPalace/mempalace",
-          "microsoft/semantic-kernel",
-          "Significant-Gravitas/AutoGPT"
-        ]
-      },
-      {
-        "title": "AI工程化聚焦降本增效",
-        "summary": "大模型落地已进入深水区，研发焦点从跑通Demo全面转向生产级交付。全链路工具链在训练加速、跨端推理与生命周期监控上日益成熟。PM必须在规划初期纳入算力成本评估与迭代效率指标，以平衡体验与商业可行性。",
-        "evidence": [
-          "mlflow/mlflow",
-          "microsoft/onnxruntime",
-          "hpcaitech/ColossalAI"
-        ]
-      }
-    ],
-    "watch_list": [
-      {
-        "title": "Unstructured-IO/unstructured",
-        "reason": "解决非结构化文档转LLM友好数据的痛点，是构建高质量RAG与行业知识库的隐形基建。"
-      }
-    ],
-    "stats": "今日共15条情报，技术底层与工具生态11条，产品模式4条。",
-    "date_bj": "2026-05-07 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-07 22:26:59"
+    "date": "2026-05-08",
+    "date_bj": "2026-05-08 (北京时区 UTC+8)",
+    "headline": "今日暂无新情报",
+    "insights": [],
+    "watch_list": [],
+    "stats": "今日未采集到新情报"
   }
 }

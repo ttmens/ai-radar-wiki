@@ -247,3 +247,24 @@
 ## [2026-05-07 22:16] sync v3 | 2 new | pillars: {'business': 1, 'capabilities': 1}
 - create: china8217s-moonshot-ai-raises-2b-at-20b-valua.md
 - create: spotify-wants-to-become-the-home-for-ai-generated.md
+
+## [2026-05-08 03:43] sync v3 | 19 new | pillars: {'patterns': 4, 'unknown': 6, 'capabilities': 2, 'business': 5, 'ecosystem': 2}
+- create: agents-need-control-flow-not-more-prompts.md
+- create: natural-language-autoencoders-turning-claudes-th.md
+- create: alphaevolve-gemini-powered-coding-agent-scaling-i.md
+- create: deepseek-4-flash-local-inference-engine-for-metal.md
+- create: ai-slop-is-killing-online-communities.md
+- create: chrome-removes-claim-of-on-device-al-not-sending-d.md
+- create: mpeg-2-transport-stream-packaging-for-media-over-q.md
+- create: motherboard-sales-collapse-amid-unprecedented-sh.md
+- create: how-cloudflare-responded-to-the-copy-fail-linux.md
+- create: elon-musk8217s-lawsuit-is-putting-openai8217.md
+- create: bumble-is-getting-rid-of-the-swipe-ceo-says.md
+- create: how-anthropics-mythos-has-rewritten-firefoxs-app.md
+- create: startup-battlefield-200-applications-close-may-27.md
+- create: exhibit-at-techcrunch-disrupt-2026-get-in-front-o.md
+- create: aurora8217s-chris-urmson-on-why-self-driving-tr.md
+- create: 2-days-left-get-50-off-a-second-pass-to-techcrun.md
+- create: show-hn-stage-cli-an-easier-way-of-reading-your.md
+- create: show-hn-i-made-a-vertical-pedalling-bike-with-a-n.md
+- create: show-hn-new-benchmark-from-swe-bench-team-is-0-s.md
