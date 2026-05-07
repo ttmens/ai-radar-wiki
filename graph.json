@@ -1,6 +1,66 @@
 {
   "nodes": [
     {
+      "id": "show-hn-explore-color-palettes-inspired-by-3000-m",
+      "label": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+      "type": "showhn",
+      "pillar": "ecosystem",
+      "pm_score": 0.45,
+      "tags": [
+        "showhn",
+        "ecosystem"
+      ],
+      "summary": "",
+      "source_type": "showhn",
+      "date": "2026-05-07",
+      "url": "https://paletteinspiration.com/"
+    },
+    {
+      "id": "sqlite-is-a-library-of-congress-recommended-storag",
+      "label": "SQLite Is a Library of Congress Recommended Storage Format",
+      "type": "hn",
+      "pillar": "patterns",
+      "pm_score": 0.4,
+      "tags": [
+        "hn",
+        "patterns"
+      ],
+      "summary": "这是一个 Hacker News 热门讨论，反映了社区对该话题的关注度。",
+      "source_type": "hn",
+      "date": "2026-05-07",
+      "url": "https://news.ycombinator.com/item?id=48042434"
+    },
+    {
+      "id": "show-hn-i-built-an-open-source-email-builder-alt",
+      "label": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+      "type": "hn",
+      "pillar": "business",
+      "pm_score": 0.35,
+      "tags": [
+        "hn",
+        "business"
+      ],
+      "summary": "这是一个 Hacker News 热门讨论，反映了社区对该话题的关注度。",
+      "source_type": "hn",
+      "date": "2026-05-07",
+      "url": "https://news.ycombinator.com/item?id=48038019"
+    },
+    {
+      "id": "a-theory-of-deep-learning",
+      "label": "A Theory of Deep Learning",
+      "type": "hn",
+      "pillar": "business",
+      "pm_score": 0.35,
+      "tags": [
+        "hn",
+        "business"
+      ],
+      "summary": "这是一个 Hacker News 热门讨论，反映了社区对该话题的关注度。",
+      "source_type": "hn",
+      "date": "2026-05-07",
+      "url": "https://news.ycombinator.com/item?id=48027455"
+    },
+    {
       "id": "product-hunt-ai-topics",
       "label": "Product Hunt — AI Topics",
       "type": "products",
@@ -16,6 +76,156 @@
       "url": ""
     },
     {
+      "id": "snap-says-its-400m-deal-with-perplexity-8216am",
+      "label": "Snap says its $400M deal with Perplexity &#8216;amicably ended&#8217;",
+      "type": "techcrunch",
+      "pillar": "patterns",
+      "pm_score": 0.3,
+      "tags": [
+        "techcrunch",
+        "patterns"
+      ],
+      "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+      "source_type": "techcrunch",
+      "date": "2026-05-07",
+      "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/"
+    },
+    {
+      "id": "khosla-backed-robotics-startup-genesis-ai-has-gone",
+      "label": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+      "type": "techcrunch",
+      "pillar": "business",
+      "pm_score": 0.3,
+      "tags": [
+        "techcrunch",
+        "business"
+      ],
+      "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
+      "source_type": "techcrunch",
+      "date": "2026-05-07",
+      "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/"
+    },
+    {
+      "id": "how-elon-musk-left-openai-according-to-greg-brock",
+      "label": "How Elon Musk left OpenAI, according to Greg Brockman",
+      "type": "techcrunch",
+      "pillar": "business",
+      "pm_score": 0.3,
+      "tags": [
+        "techcrunch",
+        "business"
+      ],
+      "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
+      "source_type": "techcrunch",
+      "date": "2026-05-07",
+      "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/"
+    },
+    {
+      "id": "is-xai-a-neocloud-now",
+      "label": "Is xAI a neocloud now?",
+      "type": "techcrunch",
+      "pillar": "capabilities",
+      "pm_score": 0.3,
+      "tags": [
+        "techcrunch",
+        "capabilities"
+      ],
+      "summary": "xAI's real business may be more about building data centers than training AI models.",
+      "source_type": "techcrunch",
+      "date": "2026-05-07",
+      "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/"
+    },
+    {
+      "id": "learning-the-integral-of-a-diffusion-model",
+      "label": "Learning the Integral of a Diffusion Model",
+      "type": "hn",
+      "pillar": "business",
+      "pm_score": 0.3,
+      "tags": [
+        "hn",
+        "business"
+      ],
+      "summary": "这是一个 Hacker News 热门讨论，反映了社区对该话题的关注度。",
+      "source_type": "hn",
+      "date": "2026-05-07",
+      "url": "https://news.ycombinator.com/item?id=48040002"
+    },
+    {
+      "id": "ai-boom-pushes-samsung-to-1t",
+      "label": "AI boom pushes Samsung to $1T",
+      "type": "techcrunch",
+      "pillar": "business",
+      "pm_score": 0.3,
+      "tags": [
+        "techcrunch",
+        "business"
+      ],
+      "summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
+      "source_type": "techcrunch",
+      "date": "2026-05-07",
+      "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/"
+    },
+    {
+      "id": "ethos-raises-2275m-from-a16z-for-its-expert-netw",
+      "label": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
+      "type": "techcrunch",
+      "pillar": "patterns",
+      "pm_score": 0.3,
+      "tags": [
+        "techcrunch",
+        "patterns"
+      ],
+      "summary": "Ethos says it is onboarding 35,000 experts per week.",
+      "source_type": "techcrunch",
+      "date": "2026-05-07",
+      "url": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/"
+    },
+    {
+      "id": "apple-is-enforcing-an-old-app-store-rule-against-a",
+      "label": "Apple is enforcing an old App Store rule against a new kind of software",
+      "type": "hn",
+      "pillar": "business",
+      "pm_score": 0.3,
+      "tags": [
+        "hn",
+        "business"
+      ],
+      "summary": "这是一个 Hacker News 热门讨论，反映了社区对该话题的关注度。",
+      "source_type": "hn",
+      "date": "2026-05-07",
+      "url": "https://news.ycombinator.com/item?id=48042099"
+    },
+    {
+      "id": "deepseek-could-hit-45b-valuation-from-its-first-i",
+      "label": "DeepSeek could hit $45B valuation from its first investment round",
+      "type": "techcrunch",
+      "pillar": "business",
+      "pm_score": 0.3,
+      "tags": [
+        "techcrunch",
+        "business"
+      ],
+      "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
+      "source_type": "techcrunch",
+      "date": "2026-05-07",
+      "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/"
+    },
+    {
+      "id": "google-updates-ai-search-to-include-quotes-from-re",
+      "label": "Google updates AI search to include quotes from Reddit and other sources",
+      "type": "techcrunch",
+      "pillar": "patterns",
+      "pm_score": 0.3,
+      "tags": [
+        "techcrunch",
+        "patterns"
+      ],
+      "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
+      "source_type": "techcrunch",
+      "date": "2026-05-07",
+      "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/"
+    },
+    {
       "id": "programbench-can-language-models-rebuild-programs",
       "label": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
       "type": "hn",
@@ -29,23 +239,6 @@
       "source_type": "hn",
       "date": "2026-05-07",
       "url": "https://news.ycombinator.com/item?id=48045174"
-    },
-    {
-      "id": "programbench-can-language-models-rebuil",
-      "label": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
-      "type": "discussion",
-      "pillar": "business",
-      "pm_score": 0.205,
-      "tags": [
-        "hn",
-        "business"
-      ],
-      "summary": "HN 热门讨论，45 分，28 条评论",
-      "date": "",
-      "url": "https://arxiv.org/abs/2605.03546",
-      "stars": null,
-      "score": 45,
-      "comments": 28
     },
     {
       "id": "show-hn-agent-skills-eval-test-whether-agent-sk",
@@ -78,38 +271,109 @@
       "url": "https://news.ycombinator.com/item?id=48046397"
     },
     {
-      "id": "making-llm-training-faster-with-unsloth",
-      "label": "Making LLM Training Faster with Unsloth and NVIDIA",
-      "type": "discussion",
-      "pillar": "capabilities",
-      "pm_score": 0.155,
+      "id": "barry-diller-trusts-sam-altman-but-8216trust-i",
+      "label": "Barry Diller trusts Sam Altman. But &#8216;trust is irrelevant&#8217; as AGI nea",
+      "type": "techcrunch",
+      "pillar": "business",
+      "pm_score": 0.15,
       "tags": [
-        "hn",
-        "capabilities"
+        "techcrunch",
+        "business"
       ],
-      "summary": "HN 热门讨论，36 分，2 条评论",
-      "date": "",
-      "url": "https://unsloth.ai/blog/nvidia-collab",
-      "stars": null,
-      "score": 36,
-      "comments": 2
+      "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+      "source_type": "techcrunch",
+      "date": "2026-05-07",
+      "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/"
     },
     {
-      "id": "show-hn-agent-skills-eval-test-whethe",
-      "label": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
-      "type": "project",
-      "pillar": "patterns",
-      "pm_score": 0.155,
+      "id": "apple-to-pay-250m-to-settle-lawsuit-over-siri82",
+      "label": "Apple to pay $250M to settle lawsuit over Siri&#8217;s delayed AI features",
+      "type": "techcrunch",
+      "pillar": "business",
+      "pm_score": 0.15,
       "tags": [
-        "showhn",
-        "patterns"
+        "techcrunch",
+        "business"
       ],
-      "summary": "Show HN 项目，19 分",
-      "date": "",
-      "url": "https://github.com/darkrishabh/agent-skills-eval",
-      "stars": null,
-      "score": 19,
-      "comments": 1
+      "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
+      "source_type": "techcrunch",
+      "date": "2026-05-07",
+      "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/"
+    },
+    {
+      "id": "tinder-owner-match-group-is-slowing-hiring-to-pay",
+      "label": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI to",
+      "type": "techcrunch",
+      "pillar": "business",
+      "pm_score": 0.15,
+      "tags": [
+        "techcrunch",
+        "business"
+      ],
+      "summary": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
+      "source_type": "techcrunch",
+      "date": "2026-05-07",
+      "url": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/"
+    },
+    {
+      "id": "five-architects-of-the-ai-economy-explain-where-th",
+      "label": "Five architects of the AI economy explain where the wheels are coming off",
+      "type": "techcrunch",
+      "pillar": "business",
+      "pm_score": 0.15,
+      "tags": [
+        "techcrunch",
+        "business"
+      ],
+      "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tec",
+      "source_type": "techcrunch",
+      "date": "2026-05-07",
+      "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/"
+    },
+    {
+      "id": "3-days-left-to-lock-in-50-off-a-second-ticket-to",
+      "label": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
+      "type": "techcrunch",
+      "pillar": "business",
+      "pm_score": 0.15,
+      "tags": [
+        "techcrunch",
+        "business"
+      ],
+      "summary": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends May 8 at 11:59 p.m. PT.",
+      "source_type": "techcrunch",
+      "date": "2026-05-07",
+      "url": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/"
+    },
+    {
+      "id": "at-techcrunch-disrupt-2026-all-your-m038a-ques",
+      "label": "At TechCrunch Disrupt 2026, all your M&#038;A questions will be answered",
+      "type": "techcrunch",
+      "pillar": "business",
+      "pm_score": 0.1,
+      "tags": [
+        "techcrunch",
+        "business"
+      ],
+      "summary": "Leaders from Coinbase, M13, and Mignano Law Group talk about how M&#038;A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live.",
+      "source_type": "techcrunch",
+      "date": "2026-05-07",
+      "url": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/"
+    },
+    {
+      "id": "spacex-may-spend-up-to-119b-on-8216terafab82",
+      "label": "SpaceX may spend up to $119B on &#8216;Terafab&#8217; chip factory in Texas",
+      "type": "techcrunch",
+      "pillar": "business",
+      "pm_score": 0.1,
+      "tags": [
+        "techcrunch",
+        "business"
+      ],
+      "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
+      "source_type": "techcrunch",
+      "date": "2026-05-07",
+      "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/"
     },
     {
       "id": "business",
@@ -134,6 +398,17 @@
       "summary": "概念标签: patterns"
     },
     {
+      "id": "ecosystem",
+      "label": "ecosystem",
+      "type": "concept",
+      "pillar": "ecosystem",
+      "pm_score": 0.1,
+      "tags": [
+        "concept"
+      ],
+      "summary": "概念标签: ecosystem"
+    },
+    {
       "id": "capabilities",
       "label": "capabilities",
       "type": "concept",
@@ -146,6 +421,153 @@
     }
   ],
   "edges": [
+    {
+      "source": "barry-diller-trusts-sam-altman-but-8216trust-i",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.075
+    },
+    {
+      "source": "snap-says-its-400m-deal-with-perplexity-8216am",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "show-hn-explore-color-palettes-inspired-by-3000-m",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "apple-to-pay-250m-to-settle-lawsuit-over-siri82",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.075
+    },
+    {
+      "source": "tinder-owner-match-group-is-slowing-hiring-to-pay",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.075
+    },
+    {
+      "source": "khosla-backed-robotics-startup-genesis-ai-has-gone",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "show-hn-i-built-an-open-source-email-builder-alt",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.175
+    },
+    {
+      "source": "how-elon-musk-left-openai-according-to-greg-brock",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "five-architects-of-the-ai-economy-explain-where-th",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.075
+    },
+    {
+      "source": "is-xai-a-neocloud-now",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "learning-the-integral-of-a-diffusion-model",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "ai-boom-pushes-samsung-to-1t",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "at-techcrunch-disrupt-2026-all-your-m038a-ques",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "3-days-left-to-lock-in-50-off-a-second-ticket-to",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.075
+    },
+    {
+      "source": "sqlite-is-a-library-of-congress-recommended-storag",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2
+    },
+    {
+      "source": "ethos-raises-2275m-from-a16z-for-its-expert-netw",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "apple-is-enforcing-an-old-app-store-rule-against-a",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "deepseek-could-hit-45b-valuation-from-its-first-i",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "google-updates-ai-search-to-include-quotes-from-re",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "a-theory-of-deep-learning",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.175
+    },
+    {
+      "source": "spacex-may-spend-up-to-119b-on-8216terafab82",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
     {
       "source": "programbench-can-language-models-rebuild-programs",
       "target": "business",
@@ -175,77 +597,70 @@
       "pm_relevance": 0.0775
     },
     {
-      "source": "making-llm-training-faster-with-unsloth",
-      "target": "capabilities",
-      "relation": "belongs_to",
-      "type": "KEYWORD",
-      "pm_relevance": 0.0775
-    },
-    {
-      "source": "programbench-can-language-models-rebuil",
-      "target": "business",
-      "relation": "belongs_to",
-      "type": "KEYWORD",
-      "pm_relevance": 0.1025
-    },
-    {
-      "source": "show-hn-agent-skills-eval-test-whethe",
-      "target": "patterns",
-      "relation": "belongs_to",
-      "type": "KEYWORD",
-      "pm_relevance": 0.0775
-    },
-    {
-      "source": "programbench-can-language-models-rebuild-programs",
-      "target": "programbench-can-language-models-rebuil",
+      "source": "barry-diller-trusts-sam-altman-but-8216trust-i",
+      "target": "apple-to-pay-250m-to-settle-lawsuit-over-siri82",
       "relation": "same_pillar:business",
       "type": "PILLAR",
       "pm_relevance": 0.3
     },
     {
-      "source": "programbench-can-language-models-rebuil",
-      "target": "business",
+      "source": "apple-to-pay-250m-to-settle-lawsuit-over-siri82",
+      "target": "tinder-owner-match-group-is-slowing-hiring-to-pay",
       "relation": "same_pillar:business",
       "type": "PILLAR",
       "pm_relevance": 0.3
     },
     {
-      "source": "show-hn-agent-skills-eval-test-whether-agent-sk",
-      "target": "product-hunt-ai-topics",
+      "source": "tinder-owner-match-group-is-slowing-hiring-to-pay",
+      "target": "khosla-backed-robotics-startup-genesis-ai-has-gone",
+      "relation": "same_pillar:business",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "snap-says-its-400m-deal-with-perplexity-8216am",
+      "target": "sqlite-is-a-library-of-congress-recommended-storag",
       "relation": "same_pillar:patterns",
       "type": "PILLAR",
       "pm_relevance": 0.3
     },
     {
-      "source": "product-hunt-ai-topics",
-      "target": "show-hn-agent-skills-eval-test-whethe",
+      "source": "sqlite-is-a-library-of-congress-recommended-storag",
+      "target": "ethos-raises-2275m-from-a16z-for-its-expert-netw",
       "relation": "same_pillar:patterns",
       "type": "PILLAR",
       "pm_relevance": 0.3
     },
     {
-      "source": "show-hn-agent-skills-eval-test-whethe",
-      "target": "patterns",
+      "source": "ethos-raises-2275m-from-a16z-for-its-expert-netw",
+      "target": "google-updates-ai-search-to-include-quotes-from-re",
       "relation": "same_pillar:patterns",
       "type": "PILLAR",
       "pm_relevance": 0.3
     },
     {
-      "source": "making-llm-training-faster-with-unsloth-and-nvidia",
-      "target": "making-llm-training-faster-with-unsloth",
+      "source": "show-hn-explore-color-palettes-inspired-by-3000-m",
+      "target": "ecosystem",
+      "relation": "same_pillar:ecosystem",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "is-xai-a-neocloud-now",
+      "target": "making-llm-training-faster-with-unsloth-and-nvidia",
       "relation": "same_pillar:capabilities",
       "type": "PILLAR",
       "pm_relevance": 0.3
     },
     {
-      "source": "making-llm-training-faster-with-unsloth",
+      "source": "making-llm-training-faster-with-unsloth-and-nvidia",
       "target": "capabilities",
       "relation": "same_pillar:capabilities",
       "type": "PILLAR",
       "pm_relevance": 0.3
     }
   ],
-  "generated_at": "2026-05-07T17:55:19.518135",
+  "generated_at": "2026-05-07T17:59:21.658560",
   "generator": "ai-radar-explorer-v3",
   "schema_version": "4-pillar-pm-focused"
 }
