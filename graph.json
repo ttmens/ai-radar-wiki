@@ -3256,23 +3256,6 @@
       "url": "https://news.ycombinator.com/item?id=48047826"
     },
     {
-      "id": "agent-harness-kit-scaffolding-for-multi",
-      "label": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
-      "type": "discussion",
-      "pillar": "patterns",
-      "pm_score": 0.33,
-      "tags": [
-        "hn",
-        "patterns"
-      ],
-      "summary": "该工具提供基于MCP协议的多智能体工作流脚手架，支持跨大模型供应商的无缝集成。技术上通过标准化接口解耦底层模型，降低开发复杂度；产品层面为AI应用提供可复用的多Agent协同架构，显著缩短从原型到落地的周期。对PM而言，其核心价值在于打破厂商锁定、提升系统扩展性，并为企业快速构建复杂自动化业务流提供标准化底座，加速AI产品商业化迭代。",
-      "date": "",
-      "url": "https://ahk.cardor.dev",
-      "stars": null,
-      "score": 33,
-      "comments": 5
-    },
-    {
       "id": "product-hunt-ai-topics",
       "label": "Product Hunt — AI Topics",
       "type": "products",
@@ -5594,13 +5577,6 @@
       "pm_relevance": 0.225
     },
     {
-      "source": "agent-harness-kit-scaffolding-for-multi",
-      "target": "patterns",
-      "relation": "belongs_to",
-      "type": "KEYWORD",
-      "pm_relevance": 0.165
-    },
-    {
       "source": "barry-diller-trusts-sam-altman-but-8216trust-i",
       "target": "apple-to-pay-250m-to-settle-lawsuit-over-siri82",
       "relation": "same_pillar:business",
@@ -5685,7 +5661,7 @@
       "pm_relevance": 0.3
     }
   ],
-  "generated_at": "2026-05-07T21:12:56.750750",
+  "generated_at": "2026-05-07T21:17:14.212972",
   "generator": "ai-radar-explorer-v3",
   "schema_version": "4-pillar-pm-focused"
 }
