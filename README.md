@@ -1,28 +1,45 @@
-# 🧠 AI Radar Wiki — AI 产品设计雷达
+# 🧠 AI Radar — AI 产品设计雷达
 
-> Automated AI Knowledge Base for Product Managers — 4-pillar system with self-evolving knowledge graph
+> 自动化 AI 技术情报系统，面向 AI 产品经理的 4 支柱知识图谱
 
-[![Graph](https://img.shields.io/badge/📊_Graph-Live-blue)](https://ttmens.github.io/ai-radar-wiki/graph.html)
-[![Update](https://img.shields.io/badge/🔄_Every_4h-green)]()
+[![Graph](https://img.shields.io/badge/📊_Knowledge_Graph-Live-blue)](https://ttmens.github.io/ai-radar-wiki/graph.html)
+[![Update](https://img.shields.io/badge/🔄_Every_6h-green)]()
+[![RSS](https://img.shields.io/badge/📡_RSS_Feed-orange)](https://ttmens.github.io/ai-radar-wiki/feed.xml)
+[![Chinese](https://img.shields.io/badge/🇨🇳_177_中文摘要-red)]()
 
-## 4 Pillars
-| Pillar | Focus | Example |
-|--------|-------|---------|
-| 🤖 Capabilities | Context, Latency, Cost, Multimodal | vLLM, GGUF, RLHF |
-| 📱 Patterns | Chat, Copilot, Agent Workflow | AutoGen, CrewAI |
-| 🔧 Ecosystem | Orchestration, VectorDB, Eval | LangGraph, Chroma |
-| 💰 Business | Funding, Moat, Growth, Ethics | 商业化分析 |
+---
 
-## Quick Access
-| What | Link |
+## 📊 实时统计
+
+| 指标 | 数值 |
 |------|------|
-| 📊 Graph | [Open](https://ttmens.github.io/ai-radar-wiki/graph.html) |
-| 📋 Graph Data | [graph.json](https://ttmens.github.io/ai-radar-wiki/graph.json) |
-| 📚 Index | [index.md](https://ttmens.github.io/ai-radar-wiki/index.md) |
+| 总节点 | 256 |
+| 总边 | 262 |
+| 中文摘要 | 177 (69%) |
+| 最后更新 | 2026-05-07 21:51 |
 
-## Stats
-| Nodes | Edges | Last Update |
-|-------|-------|-------------|
-| 256 | 262 | 2026-05-07 21:36 |
+### 四支柱分布
 
-*AI Radar Explorer v3 · Self-evolving · Last: 2026-05-07 21:36*
+| 支柱 | 节点数 | 说明 |
+|------|--------|------|
+| 🤖 技术能力 | 78 | 新模型、算法、技术突破 |
+| 📱 产品模式 | 87 | 交互方式、工作流、AI 应用 |
+| 🔧 工具生态 | 59 | 框架、SDK、库、平台 |
+| 💰 商业动态 | 30 | 融资、产品发布、市场 |
+
+---
+
+## 🚀 快速访问
+
+| 资源 | 链接 |
+|------|------|
+| 📊 交互式知识图谱 | [Open Graph](https://ttmens.github.io/ai-radar-wiki/graph.html) |
+| 📋 图谱数据 | [graph.json](https://ttmens.github.io/ai-radar-wiki/graph.json) |
+| 📚 Wiki 索引 | [index.md](https://ttmens.github.io/ai-radar-wiki/index.md) |
+| 📡 RSS 订阅 | [feed.xml](https://ttmens.github.io/ai-radar-wiki/feed.xml) |
+| 📅 今日日报 | [daily_summary.json](https://ttmens.github.io/ai-radar-wiki/daily_summary.json) |
+| 📖 设计文档 | [DESIGN.md](https://ttmens.github.io/ai-radar-wiki/DESIGN.md) |
+
+---
+
+*AI Radar Explorer v3 · Self-evolving Knowledge Graph · Last updated: 2026-05-07 21:51*
