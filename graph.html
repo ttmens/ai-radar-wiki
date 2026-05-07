@@ -47,7 +47,12 @@
     <div class="item"><span class="dot" style="background:#bc8cff"></span> Company</div>
   </div>
 
-  <!-- 内联脚本，解决 CDN 拦截问题 -->
+  <!-- Shim to force browser UMD branch -->
+  <script>
+  var module=undefined; var exports=undefined; var define=undefined;
+  </script>
+
+  <!-- 内联脚本 -->
   <script>
   /**
  * vis-network
