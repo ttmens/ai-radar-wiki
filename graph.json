@@ -523,17 +523,6 @@
       "summary": ""
     },
     {
-      "id": "techcrunch",
-      "label": "techcrunch",
-      "type": "concept",
-      "pillar": "techcrunch",
-      "pm_score": 0.1,
-      "tags": [
-        "concept"
-      ],
-      "summary": "概念标签: techcrunch"
-    },
-    {
       "id": "business",
       "label": "business",
       "type": "concept",
@@ -556,17 +545,6 @@
       "summary": "概念标签: patterns"
     },
     {
-      "id": "showhn",
-      "label": "showhn",
-      "type": "concept",
-      "pillar": "showhn",
-      "pm_score": 0.1,
-      "tags": [
-        "concept"
-      ],
-      "summary": "概念标签: showhn"
-    },
-    {
       "id": "ecosystem",
       "label": "ecosystem",
       "type": "concept",
@@ -576,17 +554,6 @@
         "concept"
       ],
       "summary": "概念标签: ecosystem"
-    },
-    {
-      "id": "hn",
-      "label": "hn",
-      "type": "concept",
-      "pillar": "hn",
-      "pm_score": 0.1,
-      "tags": [
-        "concept"
-      ],
-      "summary": "概念标签: hn"
     },
     {
       "id": "capabilities",
@@ -600,26 +567,59 @@
       "summary": "概念标签: capabilities"
     },
     {
-      "id": "papers",
-      "label": "papers",
+      "id": "techcrunch",
+      "label": "techcrunch",
       "type": "concept",
-      "pillar": "papers",
-      "pm_score": 0.1,
+      "pillar": "unknown",
+      "pm_score": 0.05,
       "tags": [
         "concept"
       ],
-      "summary": "概念标签: papers"
+      "summary": "标签: techcrunch"
+    },
+    {
+      "id": "showhn",
+      "label": "showhn",
+      "type": "concept",
+      "pillar": "unknown",
+      "pm_score": 0.05,
+      "tags": [
+        "concept"
+      ],
+      "summary": "标签: showhn"
+    },
+    {
+      "id": "hn",
+      "label": "hn",
+      "type": "concept",
+      "pillar": "unknown",
+      "pm_score": 0.05,
+      "tags": [
+        "concept"
+      ],
+      "summary": "标签: hn"
+    },
+    {
+      "id": "papers",
+      "label": "papers",
+      "type": "concept",
+      "pillar": "unknown",
+      "pm_score": 0.05,
+      "tags": [
+        "concept"
+      ],
+      "summary": "标签: papers"
     },
     {
       "id": "concept",
       "label": "concept",
       "type": "concept",
-      "pillar": "concept",
-      "pm_score": 0.1,
+      "pillar": "unknown",
+      "pm_score": 0.05,
       "tags": [
         "concept"
       ],
-      "summary": "概念标签: concept"
+      "summary": "标签: concept"
     }
   ],
   "edges": [
@@ -1132,7 +1132,7 @@
       "target": "concept",
       "relation": "belongs_to",
       "type": "KEYWORD",
-      "pm_relevance": 0.05
+      "pm_relevance": 0.025
     },
     {
       "source": "business",
@@ -1153,7 +1153,7 @@
       "target": "concept",
       "relation": "belongs_to",
       "type": "KEYWORD",
-      "pm_relevance": 0.05
+      "pm_relevance": 0.025
     },
     {
       "source": "ecosystem",
@@ -1167,7 +1167,7 @@
       "target": "concept",
       "relation": "belongs_to",
       "type": "KEYWORD",
-      "pm_relevance": 0.05
+      "pm_relevance": 0.025
     },
     {
       "source": "capabilities",
@@ -1181,14 +1181,14 @@
       "target": "concept",
       "relation": "belongs_to",
       "type": "KEYWORD",
-      "pm_relevance": 0.05
+      "pm_relevance": 0.025
     },
     {
       "source": "concept",
       "target": "concept",
       "relation": "belongs_to",
       "type": "KEYWORD",
-      "pm_relevance": 0.05
+      "pm_relevance": 0.025
     },
     {
       "source": "barry-diller-trusts-sam-altman-but-8216trust-i",
@@ -1261,7 +1261,7 @@
       "pm_relevance": 0.3
     }
   ],
-  "generated_at": "2026-05-07T13:27:08.951795",
+  "generated_at": "2026-05-07T13:31:39.161655",
   "generator": "ai-radar-explorer-v3",
   "schema_version": "4-pillar-pm-focused"
 }
