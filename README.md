@@ -49,10 +49,10 @@ git clone https://github.com/ttmens/ai-radar-wiki.git
 ## 图谱统计
 | 指标 | 数值 |
 |------|------|
-| 节点数 | 22 |
-| 边数 | 39 |
+| 节点数 | 0 |
+| 边数 | 0 |
 | Schema | 4-pillar-pm-focused |
-| 最后更新 | 2026-05-07 12:24 |
+| 最后更新 | 2026-05-07 12:25 |
 
 ## 自进化机制
 - **pm_score**: 基于信号强度 + 时效性 + 用户反馈的动态权重
@@ -60,4 +60,4 @@ git clone https://github.com/ttmens/ai-radar-wiki.git
 - **趋势检测**: 新标签涌现自动上报
 
 ---
-*AI Radar Explorer v3 | 4-Pillar PM System | Last: 2026-05-07 12:24*
+*AI Radar Explorer v3 | 4-Pillar PM System | Last: 2026-05-07 12:25*
