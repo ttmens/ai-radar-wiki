@@ -1,0 +1,27 @@
+{
+  "name": "HKUDS/LightRAG",
+  "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+  "stars": 34854,
+  "language": "Python",
+  "topics": [
+    "genai",
+    "gpt",
+    "gpt-4",
+    "graphrag",
+    "knowledge-graph",
+    "large-language-models",
+    "llm",
+    "rag",
+    "retrieval-augmented-generation"
+  ],
+  "url": "https://github.com/HKUDS/LightRAG",
+  "created": "2024-10-02T11:57:54Z",
+  "tag": "GitHub",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "rag",
+    "retrieval"
+  ],
+  "summary_cn": "LightRAG是一款主打“轻量高效”的检索增强生成框架。其核心采用图结构索引与双层检索机制，显著提升上下文召回准确率并大幅降低推理延迟。对AI产品经理而言，该方案能有效压缩RAG系统的开发与算力成本，优化端到端响应体验。适用于企业知识库、智能客服等对实时性要求高的场景，开源架构便于快速集成，助力产品团队低成本落地高可用AI应用。",
+  "pm_relevance": 9
+}

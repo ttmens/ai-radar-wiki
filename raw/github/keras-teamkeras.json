@@ -1,0 +1,23 @@
+{
+  "name": "keras-team/keras",
+  "description": "Deep Learning for humans",
+  "stars": 64061,
+  "language": "Python",
+  "topics": [
+    "data-science",
+    "deep-learning",
+    "jax",
+    "machine-learning",
+    "neural-networks",
+    "python",
+    "pytorch",
+    "tensorflow"
+  ],
+  "url": "https://github.com/keras-team/keras",
+  "created": "2015-03-28T00:35:42Z",
+  "tag": "GitHub",
+  "pillar": "ecosystem",
+  "pillar_keywords": [],
+  "summary_cn": "Keras是一款面向开发者的高阶深度学习框架，以“人性化”设计为核心，提供模块化API，支持TensorFlow、JAX与PyTorch多后端无缝切换。对AI产品经理而言，其核心价值在于大幅降低算法开发门槛，缩短从原型验证到生产部署的迭代周期。统一接口与跨平台特性有助于团队快速构建标准化AI能力，降低工程维护成本，加速产品商业化落地。",
+  "pm_relevance": 8
+}

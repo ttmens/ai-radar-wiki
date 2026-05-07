@@ -1,0 +1,26 @@
+{
+  "name": "wkentaro/labelme",
+  "description": "Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.",
+  "stars": 15825,
+  "language": "Python",
+  "topics": [
+    "annotations",
+    "classification",
+    "computer-vision",
+    "deep-learning",
+    "image-annotation",
+    "instance-segmentation",
+    "python",
+    "semantic-segmentation",
+    "video-annotation"
+  ],
+  "url": "https://github.com/wkentaro/labelme",
+  "created": "2016-05-09T12:30:26Z",
+  "tag": "GitHub",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision"
+  ],
+  "summary_cn": "LabelMe是一款基于Python的开源图像标注工具，支持多边形、矩形、圆、线段及关键点等基础标注，并集成AI辅助标注功能。对AI产品经理而言，其核心价值在于显著降低数据预处理成本与周期，提升标注效率与一致性。该工具轻量易部署，可无缝嵌入企业数据流水线，为模型迭代提供高质量训练数据支撑，是构建计算机视觉产品数据闭环的关键基础设施。",
+  "pm_relevance": 8
+}

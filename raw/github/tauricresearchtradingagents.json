@@ -1,0 +1,24 @@
+{
+  "name": "TauricResearch/TradingAgents",
+  "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+  "stars": 70753,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "finance",
+    "llm",
+    "multiagent",
+    "trading"
+  ],
+  "url": "https://github.com/TauricResearch/TradingAgents",
+  "created": "2024-12-28T03:31:08Z",
+  "tag": "GitHub",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent",
+    "search",
+    "multi-agent"
+  ],
+  "summary_cn": "该项目是基于大语言模型的多智能体金融交易框架，采用角色分工协同架构。技术上通过多Agent编排实现策略生成、风控与执行的自动化，有效降低单模型幻觉。商业上为量化产品提供可插拔底层，大幅缩短策略研发周期，适合快速构建智能投顾或自动化交易SaaS。产品创新在于将黑盒量化流程模块化，支持PM按场景灵活配置Agent工作流，具备高商业化潜力。",
+  "pm_relevance": 8
+}

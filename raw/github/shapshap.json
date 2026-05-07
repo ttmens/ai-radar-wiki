@@ -1,0 +1,22 @@
+{
+  "name": "shap/shap",
+  "description": "A game theoretic approach to explain the output of any machine learning model.",
+  "stars": 25392,
+  "language": "Jupyter Notebook",
+  "topics": [
+    "deep-learning",
+    "explainability",
+    "gradient-boosting",
+    "interpretability",
+    "machine-learning",
+    "shap",
+    "shapley"
+  ],
+  "url": "https://github.com/shap/shap",
+  "created": "2016-11-22T19:17:08Z",
+  "tag": "GitHub",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "SHAP是基于博弈论的机器学习可解释性工具，通过计算特征贡献值为任意黑盒模型提供精准解释。对AI产品经理而言，它能有效破解算法“黑盒”难题，提升模型透明度与用户信任，满足金融、医疗等强监管场景的合规审计需求。其标准化接口易于集成至产品管线，辅助特征优化与业务归因，是构建可信AI、降低落地风险的核心基础设施。",
+  "pm_relevance": 9
+}

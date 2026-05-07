@@ -1,0 +1,24 @@
+{
+  "name": "mlc-ai/web-llm",
+  "description": "High-performance In-browser LLM Inference Engine ",
+  "stars": 17929,
+  "language": "TypeScript",
+  "topics": [
+    "chatgpt",
+    "deep-learning",
+    "language-model",
+    "llm",
+    "tvm",
+    "webgpu",
+    "webml"
+  ],
+  "url": "https://github.com/mlc-ai/web-llm",
+  "created": "2023-04-13T18:11:59Z",
+  "tag": "GitHub",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference"
+  ],
+  "summary_cn": "该项目是基于WebGPU的高性能浏览器端大模型推理引擎，支持主流LLM在客户端直接运行。技术核心为模型量化编译与Web原生加速，实现零服务器依赖与数据本地化。对AI产品经理而言，其商业价值在于大幅削减云端算力成本，满足隐私合规要求，并赋能离线AI助手、隐私优先型SaaS及轻量化Web应用等创新形态，是端侧AI产品落地的关键基础设施。",
+  "pm_relevance": 9
+}

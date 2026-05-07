@@ -1,0 +1,28 @@
+{
+  "name": "datawhalechina/self-llm",
+  "description": "《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程",
+  "stars": 30289,
+  "language": "Jupyter Notebook",
+  "topics": [
+    "chatglm",
+    "chatglm3",
+    "gemma-2b-it",
+    "glm-4",
+    "internlm2",
+    "llama3",
+    "llm",
+    "lora",
+    "minicpm",
+    "q-wen",
+    "qwen",
+    "qwen1-5",
+    "qwen2"
+  ],
+  "url": "https://github.com/datawhalechina/self-llm",
+  "created": "2023-11-16T02:31:29Z",
+  "tag": "GitHub",
+  "pillar": "ecosystem",
+  "pillar_keywords": [],
+  "summary_cn": "该项目提供面向中文开发者的开源大模型微调与部署指南，涵盖全参数及LoRA技术，支持主流LLM/MLLM在Linux环境快速落地。对AI产品经理而言，该教程显著降低模型定制与工程化门槛，可加速垂直场景POC验证与原型迭代。其标准化流程与本土化适配，为团队构建低成本、高可控的私有化AI能力提供可复用基座，极具工程落地参考价值。",
+  "pm_relevance": 8
+}

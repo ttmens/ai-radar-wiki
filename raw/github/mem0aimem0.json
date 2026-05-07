@@ -1,0 +1,34 @@
+{
+  "name": "mem0ai/mem0",
+  "description": "Universal memory layer for AI Agents",
+  "stars": 54984,
+  "language": "Python",
+  "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "application",
+    "chatbots",
+    "chatgpt",
+    "genai",
+    "llm",
+    "long-term-memory",
+    "memory",
+    "memory-management",
+    "python",
+    "rag",
+    "state-management"
+  ],
+  "url": "https://github.com/mem0ai/mem0",
+  "created": "2023-06-20T08:58:36Z",
+  "tag": "GitHub",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent",
+    "chatbot",
+    "rag",
+    "memory"
+  ],
+  "summary_cn": "Mem0为AI智能体提供标准化记忆层，通过自动提取、向量化存储与动态更新机制，解决大模型“无状态”痛点。产品侧可快速实现跨会话个性化交互与用户画像沉淀，显著降低长上下文调用成本。其模块化架构支持多智能体记忆共享，大幅缩短Agent产品从原型到落地的周期，为打造高粘性、拟人化的AI应用提供核心基础设施，具备极高的商业化扩展潜力。",
+  "pm_relevance": 9
+}

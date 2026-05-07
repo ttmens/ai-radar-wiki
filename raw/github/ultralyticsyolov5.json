@@ -1,0 +1,28 @@
+{
+  "name": "ultralytics/yolov5",
+  "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+  "stars": 57336,
+  "language": "Python",
+  "topics": [
+    "coreml",
+    "deep-learning",
+    "ios",
+    "machine-learning",
+    "ml",
+    "object-detection",
+    "onnx",
+    "pytorch",
+    "tflite",
+    "ultralytics",
+    "yolo",
+    "yolov3",
+    "yolov5"
+  ],
+  "url": "https://github.com/ultralytics/yolov5",
+  "created": "2020-05-18T03:45:11Z",
+  "tag": "GitHub",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "YOLOv5是业界领先的实时目标检测开源框架，以高精度、低延迟和极简部署著称。其核心优势在于提供从PyTorch训练到ONNX、CoreML及TFLite的一站式跨平台导出链路，大幅降低模型在云端、移动端及边缘设备的落地门槛。该技术可快速赋能安防、工业质检等场景，显著缩短AI产品从原型到量产的周期，具备极高的工程化价值与商业化潜力。",
+  "pm_relevance": 9
+}

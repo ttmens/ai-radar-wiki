@@ -1,0 +1,39 @@
+{
+  "name": "xorbitsai/inference",
+  "description": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+  "stars": 9286,
+  "language": "Python",
+  "topics": [
+    "artificial-intelligence",
+    "chatglm",
+    "deployment",
+    "flan-t5",
+    "gemma",
+    "ggml",
+    "glm4",
+    "inference",
+    "llama",
+    "llama3",
+    "llamacpp",
+    "llm",
+    "machine-learning",
+    "mistral",
+    "openai-api",
+    "pytorch",
+    "qwen",
+    "vllm",
+    "whisper",
+    "wizardlm"
+  ],
+  "url": "https://github.com/xorbitsai/inference",
+  "created": "2023-06-14T07:05:04Z",
+  "tag": "GitHub",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "multimodal",
+    "vllm"
+  ],
+  "summary_cn": "Xinference提供统一推理API，支持LLM、语音及多模态模型无缝切换。其“单行代码替换模型”设计大幅降低集成成本与厂商锁定风险。支持云端、本地及边缘灵活部署，兼顾数据隐私与算力优化。作为生产级框架，它为AI产品快速迭代、多模型策略落地提供高可用底座，显著提升商业化效率与架构灵活性。",
+  "pm_relevance": 9
+}

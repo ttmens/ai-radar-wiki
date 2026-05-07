@@ -1,0 +1,37 @@
+{
+  "name": "flwrlabs/flower",
+  "description": "Flower: A Friendly Federated AI Framework",
+  "stars": 6883,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "android",
+    "artificial-intelligence",
+    "cpp",
+    "deep-learning",
+    "federated-analytics",
+    "federated-learning",
+    "federated-learning-framework",
+    "fleet-intelligence",
+    "fleet-learning",
+    "flower",
+    "framework",
+    "grpc",
+    "ios",
+    "machine-learning",
+    "python",
+    "pytorch",
+    "raspberry-pi",
+    "scikit-learn",
+    "tensorflow"
+  ],
+  "url": "https://github.com/flwrlabs/flower",
+  "created": "2020-02-17T11:51:29Z",
+  "tag": "GitHub",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "framework"
+  ],
+  "summary_cn": "Flower 是一款开源联邦学习框架，主打跨平台兼容与低门槛接入。其核心创新在于解耦模型训练与通信，提供灵活的联邦策略，大幅降低隐私计算落地难度。对 AI 产品经理而言，该工具能快速构建合规数据协作网络，在医疗、金融等强监管场景实现“数据可用不可见”，有效缩短隐私 AI 产品商业化周期，并凭借开放生态支撑多端协同与规模化部署。",
+  "pm_relevance": 8
+}

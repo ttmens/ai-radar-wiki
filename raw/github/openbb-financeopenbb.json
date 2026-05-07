@@ -1,0 +1,30 @@
+{
+  "name": "OpenBB-finance/OpenBB",
+  "description": "Financial data platform for analysts, quants and AI agents.",
+  "stars": 67139,
+  "language": "Python",
+  "topics": [
+    "ai",
+    "crypto",
+    "derivatives",
+    "economics",
+    "equity",
+    "finance",
+    "fixed-income",
+    "machine-learning",
+    "openbb",
+    "options",
+    "python",
+    "quantitative-finance",
+    "stocks"
+  ],
+  "url": "https://github.com/OpenBB-finance/OpenBB",
+  "created": "2020-12-20T10:46:38Z",
+  "tag": "GitHub",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "OpenBB是面向分析师、量化团队与AI智能体的开源金融数据平台。其采用模块化架构与统一API，聚合多源数据并标准化输出，显著降低数据获取与清洗成本。核心创新在于原生适配AI Agent，提供结构化接口供大模型直接调用，加速智能投研与量化应用落地。对AI产品经理而言，该平台是低成本、高扩展的金融数据基础设施，具备明确的商业化与生态集成价值。",
+  "pm_relevance": 8
+}

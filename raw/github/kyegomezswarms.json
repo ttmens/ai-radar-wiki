@@ -1,0 +1,37 @@
+{
+  "name": "kyegomez/swarms",
+  "description": "The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+  "stars": 6638,
+  "language": "Python",
+  "topics": [
+    "agentic-ai",
+    "agentic-workflow",
+    "agents",
+    "ai",
+    "artificial-intelligence",
+    "chatgpt",
+    "claude-code",
+    "gpt4all",
+    "huggingface",
+    "langchain",
+    "langchain-python",
+    "machine-learning",
+    "multi-agent-systems",
+    "prompt-engineering",
+    "prompt-toolkit",
+    "prompting",
+    "swarms",
+    "tree-of-thoughts"
+  ],
+  "url": "https://github.com/kyegomez/swarms",
+  "created": "2023-05-11T01:09:00Z",
+  "tag": "GitHub",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent",
+    "workflow",
+    "multi-agent"
+  ],
+  "summary_cn": "Swarms是面向企业级生产环境的多智能体编排框架，专注解决复杂AI工作流的协同调度难题。技术上支持动态路由、容错机制与异构模型集成，降低多Agent开发门槛。对PM而言，其模块化架构可快速支撑自动化客服、数据分析等场景落地，提升交付效率与系统稳定性。该框架将Agent协作模式工程化，为构建高可用AI应用提供标准化底座，具备明确的商业化潜力。",
+  "pm_relevance": 8
+}

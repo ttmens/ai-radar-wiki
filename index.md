@@ -1,23 +1,222 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-07 | Total pages: 4
+> Last updated: 2026-05-07 | Total pages: 204
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
+- [[2noisechattts.md]] 2noise/ChatTTS `pillar:capabilities` `score:0.58`
+- [[alibabamnn.md]] alibaba/MNN `pillar:capabilities` `score:0.615`
+- [[bee-sanciphey.md]] bee-san/Ciphey `pillar:capabilities` `score:0.545`
+- [[blinkdlrwkv-lm.md]] BlinkDL/RWKV-LM `pillar:capabilities` `score:0.405`
+- [[cvat-aicvat.md]] cvat-ai/cvat `pillar:capabilities` `score:0.615`
+- [[cvhub520x-anylabeling.md]] CVHub520/X-AnyLabeling `pillar:capabilities` `score:0.565`
+- [[data-centric-ai-communityfg-data-profiling.md]] Data-Centric-AI-Community/fg-data-profiling `pillar:capabilities` `score:0.58`
+- [[daviskingdlib.md]] davisking/dlib `pillar:capabilities` `score:0.545`
+- [[deepfakesfaceswap.md]] deepfakes/faceswap `pillar:capabilities` `score:0.58`
+- [[deeplearning4jdeeplearning4j.md]] deeplearning4j/deeplearning4j `pillar:capabilities` `score:0.58`
+- [[deepspeedaideepspeed.md]] deepspeedai/DeepSpeed `pillar:capabilities` `score:0.615`
+- [[docling-projectdocling.md]] docling-project/docling `pillar:capabilities` `score:0.615`
+- [[geeeekexplorernano-vllm.md]] GeeeekExplorer/nano-vllm `pillar:capabilities` `score:0.58`
+- [[google-ai-edgemediapipe.md]] google-ai-edge/mediapipe `pillar:capabilities` `score:0.615`
+- [[googlemagika.md]] google/magika `pillar:capabilities` `score:0.58`
+- [[hacksiderdeep-live-cam.md]] hacksider/Deep-Live-Cam `pillar:capabilities` `score:0.58`
+- [[harvard-edgecs249r_book.md]] harvard-edge/cs249r_book `pillar:capabilities` `score:0.58`
+- [[hiyougallamafactory.md]] hiyouga/LlamaFactory `pillar:capabilities` `score:0.615`
+- [[hpcaitechcolossalai.md]] hpcaitech/ColossalAI `pillar:capabilities` `score:0.615`
+- [[huggingfacedatasets.md]] huggingface/datasets `pillar:capabilities` `score:0.615`
+- [[huggingfacediffusers.md]] huggingface/diffusers `pillar:capabilities` `score:0.615`
+- [[huggingfacetransformers.md]] huggingface/transformers `pillar:capabilities` `score:0.405`
+- [[humansignallabel-studio.md]] HumanSignal/label-studio `pillar:capabilities` `score:0.615`
+- [[interpretmlinterpret.md]] interpretml/interpret `pillar:capabilities` `score:0.53`
+- [[jingyaogongminimind-v.md]] jingyaogong/minimind-v `pillar:capabilities` `score:0.53`
+- [[jingyaogongminimind.md]] jingyaogong/minimind `pillar:capabilities` `score:0.545`
+- [[juliusbrusseecaveman.md]] JuliusBrussee/caveman `pillar:capabilities` `score:0.455`
+- [[korniakornia.md]] kornia/kornia `pillar:capabilities` `score:0.58`
+- [[lightning-ailitgpt.md]] Lightning-AI/litgpt `pillar:capabilities` `score:0.58`
+- [[lightning-aipytorch-lightning.md]] Lightning-AI/pytorch-lightning `pillar:capabilities` `score:0.615`
+- [[lucidrainsvit-pytorch.md]] lucidrains/vit-pytorch `pillar:capabilities` `score:0.615`
 - [[making-llm-training-faster-with-unsloth-and-nvidia.md]] Making LLM Training Faster with Unsloth and NVIDIA `pillar:capabilities` `score:0.155`
+- [[marimo-teammarimo.md]] marimo-team/marimo `pillar:capabilities` `score:0.58`
+- [[microsoftonnxruntime.md]] microsoft/onnxruntime `pillar:capabilities` `score:0.615`
+- [[milvus-iomilvus.md]] milvus-io/milvus `pillar:capabilities` `score:0.615`
+- [[mlc-aiweb-llm.md]] mlc-ai/web-llm `pillar:capabilities` `score:0.615`
+- [[mlfoundationsopen_clip.md]] mlfoundations/open_clip `pillar:capabilities` `score:0.615`
+- [[mudlerlocalai.md]] mudler/LocalAI `pillar:capabilities` `score:0.405`
+- [[paddlepaddlepaddle.md]] PaddlePaddle/Paddle `pillar:capabilities` `score:0.615`
+- [[qdrantqdrant.md]] qdrant/qdrant `pillar:capabilities` `score:0.615`
+- [[rtk-airtk.md]] rtk-ai/rtk `pillar:capabilities` `score:0.58`
+- [[screenpipescreenpipe.md]] screenpipe/screenpipe `pillar:capabilities` `score:0.615`
+- [[sgl-projectsglang.md]] sgl-project/sglang `pillar:capabilities` `score:0.615`
+- [[shapshap.md]] shap/shap `pillar:capabilities` `score:0.615`
+- [[spmallicklearnopencv.md]] spmallick/learnopencv `pillar:capabilities` `score:0.58`
+- [[srbhrresume-matcher.md]] srbhr/Resume-Matcher `pillar:capabilities` `score:0.58`
+- [[supabasesupabase.md]] supabase/supabase `pillar:capabilities` `score:0.58`
+- [[tencentncnn.md]] Tencent/ncnn `pillar:capabilities` `score:0.58`
+- [[tensorflowtfjs.md]] tensorflow/tfjs `pillar:capabilities` `score:0.58`
+- [[the-art-of-hackingh4cker.md]] The-Art-of-Hacking/h4cker `pillar:capabilities` `score:0.58`
+- [[ultralyticsyolov5.md]] ultralytics/yolov5 `pillar:capabilities` `score:0.615`
+- [[unity-technologiesml-agents.md]] Unity-Technologies/ml-agents `pillar:capabilities` `score:0.58`
+- [[unslothaiunsloth.md]] unslothai/unsloth `pillar:capabilities` `score:0.58`
+- [[vllm-projectvllm.md]] vllm-project/vllm `pillar:capabilities` `score:0.615`
+- [[voxel51fiftyone.md]] voxel51/fiftyone `pillar:capabilities` `score:0.58`
+- [[wkentarolabelme.md]] wkentaro/labelme `pillar:capabilities` `score:0.58`
+- [[xorbitsaiinference.md]] xorbitsai/inference `pillar:capabilities` `score:0.565`
 
 ## 📱 Patterns (产品与交互模式)
 > Chat, Copilot, Agent Workflow, Background Automation
+- [[0x4m4hexstrike-ai.md]] 0x4m4/hexstrike-ai `pillar:patterns` `score:0.355`
+- [[0xplaygroundsrig.md]] 0xPlaygrounds/rig `pillar:patterns` `score:0.495`
+- [[accumulatemorecv.md]] AccumulateMore/CV `pillar:patterns` `score:0.51`
+- [[affaan-meverything-claude-code.md]] affaan-m/everything-claude-code `pillar:patterns` `score:0.58`
+- [[agno-agiagno.md]] agno-agi/agno `pillar:patterns` `score:0.58`
+- [[alibabaspring-ai-alibaba.md]] alibaba/spring-ai-alibaba `pillar:patterns` `score:0.53`
+- [[apacheairflow.md]] apache/airflow `pillar:patterns` `score:0.405`
+- [[astrbotdevsastrbot.md]] AstrBotDevs/AstrBot `pillar:patterns` `score:0.58`
+- [[browser-usebrowser-use.md]] browser-use/browser-use `pillar:patterns` `score:0.615`
+- [[bytedancedeer-flow.md]] bytedance/deer-flow `pillar:patterns` `score:0.405`
+- [[camel-aicamel.md]] camel-ai/camel `pillar:patterns` `score:0.58`
+- [[camel-aiowl.md]] camel-ai/owl `pillar:patterns` `score:0.58`
+- [[carla-simulatorcarla.md]] carla-simulator/carla `pillar:patterns` `score:0.405`
+- [[ccfddlccf-deadlines.md]] ccfddl/ccf-deadlines `pillar:patterns` `score:0.355`
+- [[code-yeongyuoh-my-openagent.md]] code-yeongyu/oh-my-openagent `pillar:patterns` `score:0.405`
+- [[composiohqcomposio.md]] ComposioHQ/composio `pillar:patterns` `score:0.615`
+- [[continuedevcontinue.md]] continuedev/continue `pillar:patterns` `score:0.58`
+- [[copilotkitcopilotkit.md]] CopilotKit/CopilotKit `pillar:patterns` `score:0.615`
+- [[crewaiinccrewai.md]] crewAIInc/crewAI `pillar:patterns` `score:0.615`
+- [[datawhalechinahappy-llm.md]] datawhalechina/happy-llm `pillar:patterns` `score:0.58`
+- [[datawhalechinahello-agents.md]] datawhalechina/hello-agents `pillar:patterns` `score:0.405`
+- [[daytonaiodaytona.md]] daytonaio/daytona `pillar:patterns` `score:0.58`
+- [[dbeaverdbeaver.md]] dbeaver/dbeaver `pillar:patterns` `score:0.545`
+- [[deepset-aihaystack.md]] deepset-ai/haystack `pillar:patterns` `score:0.615`
+- [[fincept-corporationfinceptterminal.md]] Fincept-Corporation/FinceptTerminal `pillar:patterns` `score:0.58`
+- [[firecrawlfirecrawl.md]] firecrawl/firecrawl `pillar:patterns` `score:0.405`
+- [[fission-aiopenspec.md]] Fission-AI/OpenSpec `pillar:patterns` `score:0.405`
+- [[flowiseaiflowise.md]] FlowiseAI/Flowise `pillar:patterns` `score:0.615`
+- [[githubspec-kit.md]] github/spec-kit `pillar:patterns` `score:0.58`
+- [[google-researchgoogle-research.md]] google-research/google-research `pillar:patterns` `score:0.58`
+- [[handsonllmhands-on-large-language-models.md]] HandsOnLLM/Hands-On-Large-Language-Models `pillar:patterns` `score:0.58`
+- [[harry0703moneyprinterturbo.md]] harry0703/MoneyPrinterTurbo `pillar:patterns` `score:0.615`
+- [[hkudslightrag.md]] HKUDS/LightRAG `pillar:patterns` `score:0.615`
+- [[hkudsnanobot.md]] HKUDS/nanobot `pillar:patterns` `score:0.405`
+- [[infiniflowragflow.md]] infiniflow/ragflow `pillar:patterns` `score:0.615`
+- [[itzcrazyknsvane.md]] ItzCrazyKns/Vane `pillar:patterns` `score:0.58`
+- [[jeecgbootjeecgboot.md]] jeecgboot/JeecgBoot `pillar:patterns` `score:0.615`
+- [[kyegomezswarms.md]] kyegomez/swarms `pillar:patterns` `score:0.53`
+- [[labringfastgpt.md]] labring/FastGPT `pillar:patterns` `score:0.615`
+- [[langchain-ailangchain.md]] langchain-ai/langchain `pillar:patterns` `score:0.405`
+- [[langgeniusdify.md]] langgenius/dify `pillar:patterns` `score:0.615`
+- [[leon-aileon.md]] leon-ai/leon `pillar:patterns` `score:0.405`
+- [[linshenkxprompt-optimizer.md]] linshenkx/prompt-optimizer `pillar:patterns` `score:0.58`
+- [[liyupiai-guide.md]] liyupi/ai-guide `pillar:patterns` `score:0.405`
+- [[lobehublobehub.md]] lobehub/lobehub `pillar:patterns` `score:0.615`
+- [[meilisearchmeilisearch.md]] meilisearch/meilisearch `pillar:patterns` `score:0.615`
+- [[mem0aimem0.md]] mem0ai/mem0 `pillar:patterns` `score:0.615`
+- [[microsoftgenerative-ai-for-beginners.md]] microsoft/generative-ai-for-beginners `pillar:patterns` `score:0.58`
+- [[microsoftgraphrag.md]] microsoft/graphrag `pillar:patterns` `score:0.615`
+- [[microsoftqlib.md]] microsoft/qlib `pillar:patterns` `score:0.58`
+- [[mindsdbmindsdb.md]] mindsdb/mindsdb `pillar:patterns` `score:0.615`
+- [[nirdiamantrag_techniques.md]] NirDiamant/RAG_Techniques `pillar:patterns` `score:0.615`
+- [[nousresearchhermes-agent.md]] NousResearch/hermes-agent `pillar:patterns` `score:0.405`
+- [[onyx-dot-apponyx.md]] onyx-dot-app/onyx `pillar:patterns` `score:0.58`
+- [[openbb-financeopenbb.md]] OpenBB-finance/OpenBB `pillar:patterns` `score:0.58`
+- [[openclawopenclaw.md]] openclaw/openclaw `pillar:patterns` `score:0.58`
+- [[patchy631ai-engineering-hub.md]] patchy631/ai-engineering-hub `pillar:patterns` `score:0.58`
+- [[pingcaptidb.md]] pingcap/tidb `pillar:patterns` `score:0.58`
 - [[product-hunt-ai-topics.md]] Product Hunt — AI Topics `pillar:patterns` `score:0.305`
+- [[rasbtllms-from-scratch.md]] rasbt/LLMs-from-scratch `pillar:patterns` `score:0.545`
+- [[recommenders-teamrecommenders.md]] recommenders-team/recommenders `pillar:patterns` `score:0.615`
+- [[rssnextfolo.md]] RSSNext/Folo `pillar:patterns` `score:0.58`
+- [[run-llamallama_index.md]] run-llama/llama_index `pillar:patterns` `score:0.405`
+- [[shanraisshanclaude-code-best-practice.md]] shanraisshan/claude-code-best-practice `pillar:patterns` `score:0.58`
+- [[shareai-lablearn-claude-code.md]] shareAI-lab/learn-claude-code `pillar:patterns` `score:0.405`
 - [[show-hn-agent-skills-eval-test-whether-agent-sk.md]] Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs `pillar:patterns` `score:0.155`
+- [[significant-gravitasautogpt.md]] Significant-Gravitas/AutoGPT `pillar:patterns` `score:0.615`
+- [[sillytavernsillytavern.md]] SillyTavern/SillyTavern `pillar:patterns` `score:0.58`
+- [[simstudioaisim.md]] simstudioai/sim `pillar:patterns` `score:0.58`
+- [[tauricresearchtradingagents.md]] TauricResearch/TradingAgents `pillar:patterns` `score:0.58`
+- [[thedotmackclaude-mem.md]] thedotmack/claude-mem `pillar:patterns` `score:0.58`
+- [[unstructured-iounstructured.md]] Unstructured-IO/unstructured `pillar:patterns` `score:0.615`
+- [[usestrixstrix.md]] usestrix/strix `pillar:patterns` `score:0.58`
+- [[vectifyaipageindex.md]] VectifyAI/PageIndex `pillar:patterns` `score:0.615`
+- [[x1xhlolsystem-prompts-and-models-of-ai-tools.md]] x1xhlol/system-prompts-and-models-of-ai-tools `pillar:patterns` `score:0.615`
+- [[yamadashyrepomix.md]] yamadashy/repomix `pillar:patterns` `score:0.58`
+- [[zhayujiecowagent.md]] zhayujie/CowAgent `pillar:patterns` `score:0.405`
 
 ## 🔧 Ecosystem (工具与生态)
 > Orchestration, VectorDB, Evaluation, Open Source
-> 暂无内容
+- [[aaif-goosegoose.md]] aaif-goose/goose `pillar:ecosystem` `score:0.58`
+- [[ai-collectionai-collection.md]] ai-collection/ai-collection `pillar:ecosystem` `score:0.53`
+- [[aliasroboticscai.md]] aliasrobotics/cai `pillar:ecosystem` `score:0.53`
+- [[apachetvm.md]] apache/tvm `pillar:ecosystem` `score:0.58`
+- [[asgeirtjsystem_prompts_leaks.md]] asgeirtj/system_prompts_leaks `pillar:ecosystem` `score:0.58`
+- [[berriailitellm.md]] BerriAI/litellm `pillar:ecosystem` `score:0.615`
+- [[clickhouseclickhouse.md]] ClickHouse/ClickHouse `pillar:ecosystem` `score:0.58`
+- [[comfy-orgcomfyui.md]] Comfy-Org/ComfyUI `pillar:ecosystem` `score:0.615`
+- [[d4vinciscrapling.md]] D4Vinci/Scrapling `pillar:ecosystem` `score:0.405`
+- [[danielmiesslerfabric.md]] danielmiessler/Fabric `pillar:ecosystem` `score:0.58`
+- [[danny-avilalibrechat.md]] danny-avila/LibreChat `pillar:ecosystem` `score:0.615`
+- [[datawhalechinaself-llm.md]] datawhalechina/self-llm `pillar:ecosystem` `score:0.58`
+- [[dmlcxgboost.md]] dmlc/xgboost `pillar:ecosystem` `score:0.615`
+- [[ethicalmlawesome-production-machine-learning.md]] EthicalML/awesome-production-machine-learning `pillar:ecosystem` `score:0.58`
+- [[fastaifastai.md]] fastai/fastai `pillar:ecosystem` `score:0.58`
+- [[flwrlabsflower.md]] flwrlabs/flower `pillar:ecosystem` `score:0.53`
+- [[fpromptschat.md]] f/prompts.chat `pillar:ecosystem` `score:0.58`
+- [[google-deepmindsonnet.md]] google-deepmind/sonnet `pillar:ecosystem` `score:0.495`
+- [[google-geminigemini-cli.md]] google-gemini/gemini-cli `pillar:ecosystem` `score:0.58`
+- [[googlelangextract.md]] google/langextract `pillar:ecosystem` `score:0.405`
+- [[gradio-appgradio.md]] gradio-app/gradio `pillar:ecosystem` `score:0.615`
+- [[hesreallyhimawesome-claude-code.md]] hesreallyhim/awesome-claude-code `pillar:ecosystem` `score:0.58`
+- [[invoke-aiinvokeai.md]] invoke-ai/InvokeAI `pillar:ecosystem` `score:0.58`
+- [[janhqjan.md]] janhq/jan `pillar:ecosystem` `score:0.405`
+- [[jeinlee1991chinese-llm-benchmark.md]] jeinlee1991/chinese-llm-benchmark `pillar:ecosystem` `score:0.53`
+- [[keras-teamkeras.md]] keras-team/keras `pillar:ecosystem` `score:0.58`
+- [[koala73worldmonitor.md]] koala73/worldmonitor `pillar:ecosystem` `score:0.58`
+- [[langchain-ailanggraph.md]] langchain-ai/langgraph `pillar:ecosystem` `score:0.405`
+- [[langfuselangfuse.md]] langfuse/langfuse `pillar:ecosystem` `score:0.615`
+- [[lukasmasuchbest-of-ml-python.md]] lukasmasuch/best-of-ml-python `pillar:ecosystem` `score:0.58`
+- [[lutzroedernetron.md]] lutzroeder/netron `pillar:ecosystem` `score:0.58`
+- [[mempalacemempalace.md]] MemPalace/mempalace `pillar:ecosystem` `score:0.63`
+- [[microsoftautogen.md]] microsoft/autogen `pillar:ecosystem` `score:0.615`
+- [[microsoftml-for-beginners.md]] microsoft/ML-For-Beginners `pillar:ecosystem` `score:0.545`
+- [[microsoftsemantic-kernel.md]] microsoft/semantic-kernel `pillar:ecosystem` `score:0.615`
+- [[mishushakovllm-scraper.md]] mishushakov/llm-scraper `pillar:ecosystem` `score:0.53`
+- [[mlflowmlflow.md]] mlflow/mlflow `pillar:ecosystem` `score:0.615`
+- [[modularmodular.md]] modular/modular `pillar:ecosystem` `score:0.58`
+- [[n8n-ion8n.md]] n8n-io/n8n `pillar:ecosystem` `score:0.615`
+- [[netdatanetdata.md]] netdata/netdata `pillar:ecosystem` `score:0.58`
+- [[nvidiatensorrt.md]] NVIDIA/TensorRT `pillar:ecosystem` `score:0.615`
+- [[ollamaollama.md]] ollama/ollama `pillar:ecosystem` `score:0.615`
+- [[onnxonnx.md]] onnx/onnx `pillar:ecosystem` `score:0.615`
+- [[open-webuiopen-webui.md]] open-webui/open-webui `pillar:ecosystem` `score:0.405`
+- [[punkpeyeawesome-mcp-servers.md]] punkpeye/awesome-mcp-servers `pillar:ecosystem` `score:0.58`
+- [[pyg-teampytorch_geometric.md]] pyg-team/pytorch_geometric `pillar:ecosystem` `score:0.58`
+- [[pytorchpytorch.md]] pytorch/pytorch `pillar:ecosystem` `score:0.615`
+- [[sansan0trendradar.md]] sansan0/TrendRadar `pillar:ecosystem` `score:0.58`
+- [[scikit-learnscikit-learn.md]] scikit-learn/scikit-learn `pillar:ecosystem` `score:0.615`
+- [[spring-projectsspring-ai.md]] spring-projects/spring-ai `pillar:ecosystem` `score:0.53`
+- [[steven2358awesome-generative-ai.md]] steven2358/awesome-generative-ai `pillar:ecosystem` `score:0.58`
+- [[tensorflowtensorflow.md]] tensorflow/tensorflow `pillar:ecosystem` `score:0.615`
+- [[tensorzerotensorzero.md]] tensorzero/tensorzero `pillar:ecosystem` `score:0.615`
+- [[tesseract-ocrtesseract.md]] tesseract-ocr/tesseract `pillar:ecosystem` `score:0.58`
+- [[tracel-aiburn.md]] tracel-ai/burn `pillar:ecosystem` `score:0.58`
+- [[upstashcontext7.md]] upstash/context7 `pillar:ecosystem` `score:0.58`
+- [[vercelai.md]] vercel/ai `pillar:ecosystem` `score:0.405`
 
 ## 💰 Business (商业与趋势)
 > Funding, Moat, Growth, Ethics, Regulation
+- [[ai4finance-foundationfingpt.md]] AI4Finance-Foundation/FinGPT `pillar:business` `score:0.405`
+- [[di-sukharevopencommit.md]] di-sukharev/opencommit `pillar:business` `score:0.355`
+- [[dyad-shdyad.md]] dyad-sh/dyad `pillar:business` `score:0.405`
+- [[mage-aimage-ai.md]] mage-ai/mage-ai `pillar:business` `score:0.355`
+- [[microsoftai-for-beginners.md]] microsoft/AI-For-Beginners `pillar:business` `score:0.405`
+- [[mintplex-labsanything-llm.md]] Mintplex-Labs/anything-llm `pillar:business` `score:0.405`
+- [[openhandsopenhands.md]] OpenHands/OpenHands `pillar:business` `score:0.405`
+- [[photoprismphotoprism.md]] photoprism/photoprism `pillar:business` `score:0.405`
 - [[programbench-can-language-models-rebuild-programs.md]] ProgramBench: Can Language Models Rebuild Programs from Scratch? `pillar:business` `score:0.205`
+- [[ray-projectray.md]] ray-project/ray `pillar:business` `score:0.405`
+- [[streamlitstreamlit.md]] streamlit/streamlit `pillar:business` `score:0.405`
+- [[wasmedgewasmedge.md]] WasmEdge/WasmEdge `pillar:business` `score:0.405`
+- [[zhulinsendaily_stock_analysis.md]] ZhuLinsen/daily_stock_analysis `pillar:business` `score:0.405`
 
 ## 📚 Concepts (未分类)
 > 暂无内容

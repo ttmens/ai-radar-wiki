@@ -1,0 +1,39 @@
+{
+  "name": "hiyouga/LlamaFactory",
+  "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+  "stars": 71003,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "ai",
+    "deepseek",
+    "fine-tuning",
+    "gemma",
+    "gpt",
+    "instruction-tuning",
+    "large-language-models",
+    "llama",
+    "llama3",
+    "llm",
+    "lora",
+    "moe",
+    "nlp",
+    "peft",
+    "qlora",
+    "quantization",
+    "qwen",
+    "rlhf",
+    "transformers"
+  ],
+  "url": "https://github.com/hiyouga/LlamaFactory",
+  "created": "2023-05-28T10:09:12Z",
+  "tag": "GitHub",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "fine-tuning",
+    "quantization",
+    "rlhf"
+  ],
+  "summary_cn": "LlamaFactory是开源的大模型高效微调框架，统一支持100+主流LLM与VLM。其核心提供低代码可视化流程与LoRA等高效算法，显著降低算力门槛。对AI产品经理而言，该工具能大幅缩短垂直模型定制周期，加速行业应用落地；同时内置标准化评估与多模态扩展能力，为企业构建专属AI提供高ROI、易迭代的底层设施，极具商业化潜力。",
+  "pm_relevance": 9
+}

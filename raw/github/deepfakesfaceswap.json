@@ -1,0 +1,29 @@
+{
+  "name": "deepfakes/faceswap",
+  "description": "Deepfakes Software For All",
+  "stars": 55218,
+  "language": "Python",
+  "topics": [
+    "deep-face-swap",
+    "deep-learning",
+    "deep-neural-networks",
+    "deepface",
+    "deepfakes",
+    "deeplearning",
+    "face-swap",
+    "faceswap",
+    "fakeapp",
+    "machine-learning",
+    "myfakeapp",
+    "neural-nets",
+    "neural-networks",
+    "openfaceswap"
+  ],
+  "url": "https://github.com/deepfakes/faceswap",
+  "created": "2017-12-19T09:44:13Z",
+  "tag": "GitHub",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该项目是基于深度学习的开源换脸工具，核心采用自编码器与生成对抗网络实现高精度人脸特征提取与替换。对AI产品经理而言，其技术成熟度高且开源生态活跃，可快速集成至内容创作、娱乐互动或虚拟形象产品中。但需重点关注深度伪造带来的合规风险与伦理挑战，产品设计应内置内容审核、水印标识及用户授权机制，以平衡创新与安全性。",
+  "pm_relevance": 8
+}

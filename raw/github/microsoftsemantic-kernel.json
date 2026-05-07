@@ -1,0 +1,22 @@
+{
+  "name": "microsoft/semantic-kernel",
+  "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+  "stars": 27851,
+  "language": "C#",
+  "topics": [
+    "ai",
+    "artificial-intelligence",
+    "llm",
+    "openai",
+    "sdk"
+  ],
+  "url": "https://github.com/microsoft/semantic-kernel",
+  "created": "2023-02-27T17:39:42Z",
+  "tag": "GitHub",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "sdk"
+  ],
+  "summary_cn": "Semantic Kernel 是微软开源的轻量级 AI 编排框架，旨在帮助开发者快速将大语言模型集成至现有应用。其核心提供插件化架构、智能规划器与上下文记忆管理，实现传统代码与 AI 能力的无缝融合。对 AI 产品经理而言，该框架显著降低大模型落地门槛，支持多模型切换与企业级安全管控，可大幅缩短 AI 功能从原型到量产的周期，是构建可维护、可扩展 AI 原生应用的关键基础设施。",
+  "pm_relevance": 9
+}

@@ -1,0 +1,32 @@
+{
+  "name": "deepspeedai/DeepSpeed",
+  "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+  "stars": 42272,
+  "language": "Python",
+  "topics": [
+    "billion-parameters",
+    "compression",
+    "data-parallelism",
+    "deep-learning",
+    "gpu",
+    "inference",
+    "machine-learning",
+    "mixture-of-experts",
+    "model-parallelism",
+    "pipeline-parallelism",
+    "pytorch",
+    "trillion-parameters",
+    "zero"
+  ],
+  "url": "https://github.com/deepspeedai/DeepSpeed",
+  "created": "2020-01-23T18:35:18Z",
+  "tag": "GitHub",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "training",
+    "compression"
+  ],
+  "summary_cn": "DeepSpeed是微软开源的深度学习优化库，核心解决大模型分布式训练与推理的算力瓶颈。其ZeRO技术可大幅降低显存占用，支持千亿参数模型高效训练；推理加速模块显著降低延迟与云成本。对AI产品经理而言，该技术直接提升模型迭代效率、缩短产品上线周期，并有效压缩算力基础设施开支，是构建高性能、低成本大模型应用的核心底层能力。",
+  "pm_relevance": 9
+}

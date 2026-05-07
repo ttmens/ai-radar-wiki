@@ -1,0 +1,25 @@
+{
+  "name": "PaddlePaddle/Paddle",
+  "description": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+  "stars": 23873,
+  "language": "C++",
+  "topics": [
+    "deep-learning",
+    "distributed-training",
+    "efficiency",
+    "machine-learning",
+    "neural-network",
+    "paddlepaddle",
+    "python",
+    "scalability"
+  ],
+  "url": "https://github.com/PaddlePaddle/Paddle",
+  "created": "2016-08-15T06:59:08Z",
+  "tag": "GitHub",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training"
+  ],
+  "summary_cn": "飞桨是百度开源的工业级深度学习框架，主打高性能分布式训练与跨平台部署。对AI产品经理而言，其核心价值在于提供从研发到落地的全链路工具链，大幅降低工程化门槛与算力成本。内置产业级模型库与自动调优机制，支持端边云无缝部署，助力企业快速构建高可用AI应用，缩短商业化周期，是打造自主可控AI产品的核心基础设施。",
+  "pm_relevance": 9
+}

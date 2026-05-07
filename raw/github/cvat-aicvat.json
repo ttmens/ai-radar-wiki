@@ -1,0 +1,37 @@
+{
+  "name": "cvat-ai/cvat",
+  "description": "Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.",
+  "stars": 15782,
+  "language": "Python",
+  "topics": [
+    "annotation",
+    "annotation-tool",
+    "annotations",
+    "boundingbox",
+    "computer-vision",
+    "computer-vision-annotation",
+    "dataset",
+    "deep-learning",
+    "image-annotation",
+    "image-classification",
+    "image-labeling",
+    "image-labelling-tool",
+    "imagenet",
+    "labeling",
+    "labeling-tool",
+    "object-detection",
+    "pytorch",
+    "semantic-segmentation",
+    "tensorflow",
+    "video-annotation"
+  ],
+  "url": "https://github.com/cvat-ai/cvat",
+  "created": "2018-06-29T14:02:45Z",
+  "tag": "GitHub",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision"
+  ],
+  "summary_cn": "CVAT是行业领先的开源计算机视觉数据标注引擎，支持图像与视频的高效处理。核心亮点为内置AI辅助标注、支持大规模团队协作及云/本地灵活部署，可无缝对接MLOps流水线。对AI产品经理而言，该工具显著降低数据准备成本与周期，提升数据集质量，是构建数据驱动AI产品、实现数据闭环的核心基础设施，具备极高的工程落地价值。",
+  "pm_relevance": 9
+}

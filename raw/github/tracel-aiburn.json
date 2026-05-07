@@ -1,0 +1,36 @@
+{
+  "name": "tracel-ai/burn",
+  "description": "Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
+  "stars": 15012,
+  "language": "Rust",
+  "topics": [
+    "autodiff",
+    "cross-platform",
+    "cuda",
+    "deep-learning",
+    "kernel-fusion",
+    "machine-learning",
+    "metal",
+    "ndarray",
+    "neural-network",
+    "onnx",
+    "pytorch",
+    "rocm",
+    "rust",
+    "scientific-computing",
+    "tensor",
+    "vulkan",
+    "wasm",
+    "webgpu"
+  ],
+  "url": "https://github.com/tracel-ai/burn",
+  "created": "2022-07-18T23:11:45Z",
+  "tag": "GitHub",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "framework",
+    "library"
+  ],
+  "summary_cn": "Burn是新一代张量库与深度学习框架，主打灵活性、高效率与跨平台移植性。基于Rust构建，支持动静图无缝切换及多硬件后端原生适配。对AI产品经理而言，该框架能大幅降低模型部署的硬件适配成本，加速边缘AI与定制化产品的落地迭代。其模块化开源架构为构建垂直行业AI基础设施提供了高扩展底座，具备显著的商业集成与降本增效价值。",
+  "pm_relevance": 8
+}

@@ -1,0 +1,37 @@
+{
+  "name": "unslothai/unsloth",
+  "description": "Web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.",
+  "stars": 63742,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "deepseek",
+    "fine-tuning",
+    "gemma",
+    "gemma3",
+    "gpt-oss",
+    "llama",
+    "llama3",
+    "llm",
+    "llms",
+    "mistral",
+    "openai",
+    "qwen",
+    "reinforcement-learning",
+    "self-hosted",
+    "text-to-speech",
+    "tts",
+    "ui",
+    "unsloth"
+  ],
+  "url": "https://github.com/unslothai/unsloth",
+  "created": "2023-11-29T16:50:09Z",
+  "tag": "GitHub",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "fine-tuning",
+    "training"
+  ],
+  "summary_cn": "该项目提供开源大模型本地训练与推理的Web UI，支持Gemma 4、Qwen3.6、DeepSeek等前沿模型。其核心价值在于大幅降低本地化部署与微调门槛，通过可视化交互与底层算力优化，帮助团队在低硬件成本下快速完成模型原型验证与私有化部署。对AI产品经理而言，该工具可显著缩短从算法选型到产品落地的周期，兼顾数据隐私与研发效率，是构建垂直领域AI应用的高效基础设施。",
+  "pm_relevance": 8
+}

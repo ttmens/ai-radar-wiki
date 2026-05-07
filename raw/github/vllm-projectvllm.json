@@ -1,0 +1,39 @@
+{
+  "name": "vllm-project/vllm",
+  "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+  "stars": 79255,
+  "language": "Python",
+  "topics": [
+    "amd",
+    "blackwell",
+    "cuda",
+    "deepseek",
+    "deepseek-v3",
+    "gpt",
+    "gpt-oss",
+    "inference",
+    "kimi",
+    "llama",
+    "llm",
+    "llm-serving",
+    "model-serving",
+    "moe",
+    "openai",
+    "pytorch",
+    "qwen",
+    "qwen3",
+    "tpu",
+    "transformer"
+  ],
+  "url": "https://github.com/vllm-project/vllm",
+  "created": "2023-02-09T11:23:20Z",
+  "tag": "GitHub",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "vllm",
+    "throughput"
+  ],
+  "summary_cn": "vLLM是专为大模型打造的高吞吐、低显存推理服务引擎。核心采用PagedAttention技术优化显存分配与请求调度，大幅降低算力成本并提升并发性能。对AI产品经理而言，它能显著缩短模型部署周期，优化接口响应延迟，支持灵活扩缩容，是构建商业化LLM应用、平衡性能与成本的核心基础设施，具备极高的产品落地价值。",
+  "pm_relevance": 9
+}

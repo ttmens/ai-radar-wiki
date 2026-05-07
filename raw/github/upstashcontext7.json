@@ -1,0 +1,21 @@
+{
+  "name": "upstash/context7",
+  "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+  "stars": 54656,
+  "language": "TypeScript",
+  "topics": [
+    "llm",
+    "mcp",
+    "mcp-server",
+    "vibe-coding"
+  ],
+  "url": "https://github.com/upstash/context7",
+  "created": "2025-03-26T23:40:39Z",
+  "tag": "GitHub",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "mcp"
+  ],
+  "summary_cn": "Context7 是专为 LLM 与 AI 代码编辑器打造的实时文档服务平台。其核心通过动态索引与结构化处理，将易过时的开源文档转化为标准化 API，为 AI 提供精准上下文，显著降低代码生成幻觉。对 AI 产品经理而言，该方案是优化 RAG 架构的关键数据源，能直接提升编程助手的准确率与开发者体验。其“文档即服务”模式具备高集成度与商业化潜力，可大幅降低企业自建检索链路的成本。",
+  "pm_relevance": 8
+}

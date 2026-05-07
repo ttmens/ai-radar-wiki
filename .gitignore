@@ -6,3 +6,9 @@ __pycache__/
 # State files (not needed in repo)
 cache/
 tmp/
+
+# Secrets - NEVER commit
+.env
+.env.*
+*.key
+*.pem
