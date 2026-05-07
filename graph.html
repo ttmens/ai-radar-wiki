@@ -30,6 +30,34 @@
     position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
     color: #58a6ff; font-size: 18px; z-index: 20;
   }
+
+  /* Modal for Node Details */
+  #node-modal {
+    position: absolute; top: 0; right: -400px; width: 380px; height: 100%;
+    background: rgba(13,17,23,0.95); border-left: 1px solid #21262d;
+    padding: 20px; z-index: 20; transition: right 0.3s ease;
+    backdrop-filter: blur(10px); overflow-y: auto;
+    box-shadow: -5px 0 20px rgba(0,0,0,0.5);
+  }
+  #node-modal.active { right: 0; }
+  #node-modal h2 { color: #58a6ff; font-size: 18px; margin-bottom: 15px; line-height: 1.4; }
+  #node-modal .meta { color: #8b949e; font-size: 12px; margin-bottom: 20px; }
+  #node-modal .tag { display: inline-block; background: #21262d; padding: 2px 8px; border-radius: 10px; margin-right: 5px; font-size: 11px; color: #58a6ff; }
+  #node-modal .desc { font-size: 14px; line-height: 1.6; margin-bottom: 20px; }
+  #node-modal .actions { display: flex; gap: 10px; margin-top: 20px; }
+  #node-modal .btn {
+    padding: 8px 16px; border-radius: 6px; border: 1px solid #30363d;
+    background: #21262d; color: #c9d1d9; cursor: pointer; font-size: 14px;
+    text-decoration: none; text-align: center;
+  }
+  #node-modal .btn:hover { background: #30363d; }
+  #node-modal .btn-primary { background: #238636; border-color: #2ea043; color: #fff; }
+  #node-modal .btn-primary:hover { background: #2ea043; }
+  #close-modal {
+    position: absolute; top: 15px; right: 15px; background: none; border: none;
+    color: #8b949e; cursor: pointer; font-size: 20px;
+  }
+  #close-modal:hover { color: #fff; }
 </style>
 </head>
 <body>
@@ -47,12 +75,20 @@
     <div class="item"><span class="dot" style="background:#bc8cff"></span> Company</div>
   </div>
 
-  <!-- Shim to force browser UMD branch -->
-  <script>
-  var module=undefined; var exports=undefined; var define=undefined;
-  </script>
+  <!-- Detail Modal -->
+  <div id="node-modal">
+    <button id="close-modal">×</button>
+    <h2 id="modal-title">Node Title</h2>
+    <div id="modal-meta">Tags</div>
+    <p id="modal-desc" class="desc">Description</p>
+    <div class="actions" id="modal-actions">
+      <!-- Buttons injected here -->
+    </div>
+  </div>
 
-  <!-- 内联脚本 -->
+
+
+
   <script>
   /**
  * vis-network
@@ -90,59 +126,101 @@
 
   </script>
   <script>
+    // Note: The actual script tag below will contain the full vis-network library
+    // This block is just for our application logic
     const colors = { project: '#58a6ff', concept: '#3fb950', paper: '#f0883e', company: '#bc8cff' };
     
-    // 加载数据
+    function renderGraph(data) {
+      document.getElementById('node-count').textContent = `Nodes: ${data.nodes.length}`;
+      document.getElementById('edge-count').textContent = `Edges: ${data.edges.length}`;
+      document.getElementById('loading').style.display = 'none';
+      
+      const nodes = new vis.DataSet(data.nodes.map(n => ({
+        id: n.id,
+        label: n.label.length > 25 ? n.label.slice(0, 25) + '...' : n.label,
+        shape: 'dot',
+        size: n.type === 'paper' ? 25 : (n.stars ? n.stars / 50 + 15 : 20),
+        color: { background: colors[n.type] || '#8b949e', border: 'rgba(255,255,255,0.3)', highlight: { background: colors[n.type] || '#8b949e', border: '#fff' } },
+        font: { color: '#fff', size: 14, face: 'sans-serif', strokeWidth: 0 },
+        borderWidth: 2
+      })));
+      
+      const edges = new vis.DataSet(data.edges.map(e => ({
+        from: e.source,
+        to: e.target,
+        color: { color: 'rgba(139,148,158,0.2)', highlight: '#58a6ff' },
+        width: 2,
+        smooth: { type: 'curvedCW', roundness: 0.1 },
+        label: e.relation && e.relation.startsWith('shared') ? e.relation.split(':')[1] : '',
+        font: { color: '#8b949e', size: 10, align: 'top', strokeWidth: 0 }
+      })));
+      
+      const container = document.getElementById('mynetwork');
+      const network = new vis.Network(container, { nodes, edges }, {
+        physics: {
+          barnesHut: { gravitationalConstant: -4000, springLength: 180, springConstant: 0.02 },
+          stabilization: { iterations: 200, fit: true }
+        },
+        interaction: { hover: true, tooltipDelay: 50, zoomView: true, dragView: true, dragNodes: true },
+        layout: { improvedLayout: true }
+      });
+      
+      // Click interaction
+      network.on('click', function(params) {
+        if (params.nodes.length > 0) {
+          const nodeId = params.nodes[0];
+          const node = data.nodes.find(n => n.id === nodeId);
+          if (node) showNodeDetails(node);
+        } else {
+          hideModal();
+        }
+      });
+
+      network.on('hoverNode', function(params) {
+        const node = data.nodes.find(n => n.id === params.node);
+        if (node) {
+          container.title = `${node.label}\nClick for details`;
+        }
+      });
+    }
+
+    function showNodeDetails(node) {
+      const modal = document.getElementById('node-modal');
+      document.getElementById('modal-title').textContent = node.label;
+      
+      // Meta tags
+      const metaHtml = (node.tags || []).map(t => `<span class="tag">${t}</span>`).join('');
+      document.getElementById('modal-meta').innerHTML = metaHtml;
+      
+      // Description
+      let desc = node.summary || "No summary available yet.";
+      // For now, we use the label or try to infer from data
+      if (node.type === 'paper') desc = `Research Paper published on arXiv. ${node.authors ? 'Authors: ' + node.authors.join(', ') : ''}`;
+      else if (node.type === 'project') desc = `Open Source Project on GitHub. ${node.stars ? '⭐ ' + node.stars + ' stars' : ''}`;
+      
+      document.getElementById('modal-desc').textContent = desc;
+      
+      // Actions
+      const actions = document.getElementById('modal-actions');
+      actions.innerHTML = '';
+      if (node.url) {
+        actions.innerHTML += `<a href="${node.url}" target="_blank" class="btn btn-primary">View Source ↗</a>`;
+      }
+      actions.innerHTML += `<a href="https://ttmens.github.io/ai-radar-wiki/concepts/${node.id}.md" class="btn">View Wiki ↗</a>`;
+      
+      modal.classList.add('active');
+    }
+
+    function hideModal() {
+      document.getElementById('node-modal').classList.remove('active');
+    }
+
+    document.getElementById('close-modal').addEventListener('click', hideModal);
+    
+    // Load Data
     fetch('./graph.json?' + Date.now())
-      .then(r => {
-        if (!r.ok) throw new Error('Failed to load graph data');
-        return r.json();
-      })
-      .then(data => {
-        document.getElementById('node-count').textContent = `Nodes: ${data.nodes.length}`;
-        document.getElementById('edge-count').textContent = `Edges: ${data.edges.length}`;
-        document.getElementById('loading').style.display = 'none';
-        
-        // 准备数据
-        const nodes = new vis.DataSet(data.nodes.map(n => ({
-          id: n.id,
-          label: n.label.length > 25 ? n.label.slice(0, 25) + '...' : n.label,
-          shape: 'dot',
-          size: n.type === 'paper' ? 25 : (n.stars ? n.stars / 50 + 15 : 20),
-          color: { background: colors[n.type] || '#8b949e', border: 'rgba(255,255,255,0.3)', highlight: { background: colors[n.type] || '#8b949e', border: '#fff' } },
-          font: { color: '#fff', size: 14, face: 'sans-serif', strokeWidth: 0 },
-          borderWidth: 2
-        })));
-        
-        const edges = new vis.DataSet(data.edges.map(e => ({
-          from: e.source,
-          to: e.target,
-          color: { color: 'rgba(139,148,158,0.2)', highlight: '#58a6ff' },
-          width: 2,
-          smooth: { type: 'curvedCW', roundness: 0.1 },
-          label: e.relation && e.relation.startsWith('shared') ? e.relation.split(':')[1] : '',
-          font: { color: '#8b949e', size: 10, align: 'top', strokeWidth: 0 }
-        })));
-        
-        // 初始化网络
-        const container = document.getElementById('mynetwork');
-        const network = new vis.Network(container, { nodes, edges }, {
-          physics: {
-            barnesHut: { gravitationalConstant: -4000, springLength: 180, springConstant: 0.02 },
-            stabilization: { iterations: 200, fit: true }
-          },
-          interaction: { hover: true, tooltipDelay: 50, zoomView: true, dragView: true, dragNodes: true },
-          layout: { improvedLayout: true }
-        });
-        
-        // Tooltip
-        network.on('hoverNode', function(params) {
-          const node = data.nodes.find(n => n.id === params.node);
-          if (node) {
-            container.title = `${node.label}\n${node.url || ''}`;
-          }
-        });
-      })
+      .then(r => r.json())
+      .then(renderGraph)
       .catch(err => {
         console.error(err);
         document.getElementById('loading').innerHTML = `❌ Load Failed: ${err.message}`;
