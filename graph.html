@@ -4,239 +4,83 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AI Radar Knowledge Graph</title>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
-  :root {
-    --bg: #08090a;
-    --panel-bg: #0f1011;
-    --surface: #191a1b;
-    --border: rgba(255,255,255,0.08);
-    --border-solid: #23252a;
-    --text-primary: #f7f8f8;
-    --text-secondary: #d0d6e0;
-    --text-tertiary: #8a8f98;
-    --text-quaternary: #62666d;
-    --accent: #7170ff;
-    --accent-bg: #5e6ad2;
-    --accent-hover: #828fff;
-    --green: #27a644;
-    --emerald: #10b981;
-    --pillars: { "capabilities": "#58a6ff", "patterns": "#3fb950", "ecosystem": "#a371f7", "business": "#f0883e" };
-  }
+  :root { --bg: #0d1117; --panel-bg: #161b22; --border: #30363d; --text: #c9d1d9; --accent: #58a6ff; }
   * { margin: 0; padding: 0; box-sizing: border-box; }
-  body {
-    background: var(--bg); color: var(--text-primary);
-    font-family: 'Inter', system-ui, -apple-system, sans-serif;
-    font-feature-settings: "cv01", "ss03";
-    overflow: hidden;
-    font-size: 14px;
-  }
-
-  /* ===== HEADER ===== */
-  #header {
-    position: absolute; top: 0; left: 0; right: 0; height: 52px;
-    padding: 0 20px;
-    background: rgba(8,9,10,0.9); backdrop-filter: blur(12px);
-    z-index: 100; display: flex; align-items: center; justify-content: space-between;
-    border-bottom: 1px solid var(--border);
-  }
-  #header h1 {
-    font-size: 15px; font-weight: 600; color: var(--text-primary);
-    display: flex; align-items: center; gap: 8px;
-    letter-spacing: -0.2px;
-  }
-  #header h1 .logo { font-size: 18px; }
-  #header-controls { display: flex; align-items: center; gap: 8px; }
-  #stats span {
-    background: rgba(255,255,255,0.04); padding: 4px 10px; border-radius: 4px;
-    font-size: 12px; font-family: 'Inter', monospace; color: var(--text-tertiary);
-    border: 1px solid var(--border);
-  }
-  .header-btn {
-    background: rgba(255,255,255,0.04); border: 1px solid var(--border-solid);
-    color: var(--text-secondary); padding: 6px 12px; border-radius: 6px;
-    cursor: pointer; font-size: 13px; font-weight: 500; transition: all 0.15s;
-    font-family: inherit; display: flex; align-items: center; gap: 6px;
-  }
-  .header-btn:hover { background: rgba(255,255,255,0.08); color: var(--text-primary); }
-  .header-btn.primary { background: var(--accent-bg); border-color: var(--accent-bg); color: #fff; }
-  .header-btn.primary:hover { background: var(--accent-hover); border-color: var(--accent-hover); }
-
-  /* ===== NETWORK AREA ===== */
+  body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; overflow: hidden; }
+  
+  /* Header */
+  #header { position: absolute; top: 0; left: 0; right: 0; height: 56px; padding: 0 20px; background: rgba(13,17,23,0.95); backdrop-filter: blur(10px); z-index: 20; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #21262d; }
+  #header h1 { font-size: 18px; color: var(--accent); font-weight: 700; display: flex; align-items: center; gap: 8px; }
+  #header-controls { display: flex; align-items: center; gap: 12px; }
+  #stats span { background: #21262d; padding: 4px 10px; border-radius: 12px; font-size: 12px; font-family: monospace; border: 1px solid #30363d; }
+  #toggle-btn { background: #21262d; border: 1px solid var(--border); color: var(--text); padding: 6px 14px; border-radius: 6px; cursor: pointer; font-size: 13px; font-weight: 500; transition: all 0.2s; display: flex; align-items: center; gap: 6px; }
+  #toggle-btn:hover { background: var(--border); color: #fff; }
+  
+  /* Network Area */
   #mynetwork { width: 100%; height: 100vh; cursor: grab; }
   #mynetwork:active { cursor: grabbing; }
-
-  /* ===== DASHBOARD - LEFT PANEL ===== */
+  
+  /* Dashboard - Left Side */
   #dashboard {
-    position: absolute; top: 56px; left: 12px; bottom: 12px; width: 340px;
+    position: absolute; top: 64px; left: 20px; width: 300px; max-height: calc(100vh - 80px); overflow-y: auto;
     background: var(--panel-bg); border: 1px solid var(--border); border-radius: 8px;
-    z-index: 50; display: flex; flex-direction: column;
-    box-shadow: 0 0 0 1px rgba(0,0,0,0.2), 0 4px 20px rgba(0,0,0,0.5);
+    padding: 16px; z-index: 15; box-shadow: 0 4px 20px rgba(0,0,0,0.5);
     transition: transform 0.3s ease, opacity 0.3s ease;
-    overflow: hidden;
   }
-  #dashboard.hidden { transform: translateX(calc(-100% - 20px)); opacity: 0; pointer-events: none; }
-
-  .dash-header {
-    display: flex; justify-content: space-between; align-items: center;
-    padding: 14px 16px 10px; border-bottom: 1px solid var(--border);
-    flex-shrink: 0;
-  }
-  .dash-header-title { font-size: 13px; font-weight: 600; color: var(--text-primary); letter-spacing: -0.1px; }
-  .dash-close-btn {
-    background: none; border: none; color: var(--text-quaternary); cursor: pointer;
-    font-size: 16px; padding: 4px 6px; border-radius: 4px; transition: all 0.15s;
-  }
-  .dash-close-btn:hover { background: rgba(255,255,255,0.06); color: var(--text-primary); }
-
-  .dash-content { flex: 1; overflow-y: auto; padding: 12px 14px; }
-  .dash-content::-webkit-scrollbar { width: 4px; }
-  .dash-content::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 4px; }
-
-  /* Summary headline */
-  .summary-headline {
-    font-size: 14px; font-weight: 600; color: var(--text-primary);
-    margin-bottom: 12px; line-height: 1.4; padding: 10px 12px;
-    background: linear-gradient(135deg, rgba(94,106,210,0.12), rgba(113,112,255,0.08));
-    border-radius: 6px; border-left: 2px solid var(--accent-bg);
-    letter-spacing: -0.1px;
-  }
-
-  /* Watch list */
-  .section-label {
-    font-size: 11px; font-weight: 600; color: var(--text-quaternary);
-    text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 8px; margin-top: 14px;
-  }
-  .summary-watch { background: var(--surface); border-radius: 6px; padding: 10px 12px; margin-bottom: 8px; border: 1px solid var(--border); }
-  .watch-item { font-size: 12px; margin-bottom: 8px; }
-  .watch-item:last-child { margin-bottom: 0; }
-  .watch-item-title { color: var(--text-primary); font-weight: 500; margin-bottom: 2px; cursor: pointer; }
-  .watch-item-title:hover { color: var(--accent); }
-  .watch-item-reason { color: var(--text-tertiary); font-size: 11px; line-height: 1.4; }
-
-  /* Stats */
-  .summary-stats {
-    font-size: 11px; color: var(--text-tertiary); padding: 8px 10px;
-    background: var(--surface); border-radius: 6px; border: 1px solid var(--border);
-    line-height: 1.5; margin-bottom: 12px;
-  }
-
-  /* Insight sections (collapsible by pillar) */
-  .insight-section { margin-bottom: 6px; }
-  .insight-header {
-    padding: 8px 10px; cursor: pointer; display: flex; justify-content: space-between;
-    align-items: center; font-size: 12px; font-weight: 600; color: var(--text-secondary);
-    border-radius: 6px; transition: background 0.15s; user-select: none;
-  }
-  .insight-header:hover { background: rgba(255,255,255,0.04); }
-  .insight-arrow { font-size: 10px; color: var(--text-quaternary); transition: transform 0.2s; }
-  .insight-header.expanded .insight-arrow { transform: rotate(90deg); }
-  .insight-body { display: none; padding: 4px 10px 8px; }
-  .insight-body.show { display: block; }
-  .insight-summary { font-size: 11px; color: var(--text-tertiary); line-height: 1.5; margin-bottom: 6px; }
-  .insight-evidence { list-style: none; padding: 0; }
-  .insight-evidence li {
-    font-size: 11px; color: var(--accent); padding: 3px 0 3px 14px; position: relative;
-    cursor: pointer; border-radius: 3px; transition: background 0.15s; line-height: 1.4;
-  }
-  .insight-evidence li:hover { background: rgba(113,112,255,0.08); }
-  .insight-evidence li::before { content: "↗"; position: absolute; left: 0; color: var(--text-quaternary); font-size: 10px; }
-
-  /* ===== LEGEND ===== */
-  #legend {
-    position: absolute; bottom: 12px; left: 372px; z-index: 40;
-    background: rgba(15,16,17,0.92); padding: 10px 12px; border-radius: 6px;
-    font-size: 11px; border: 1px solid var(--border); backdrop-filter: blur(8px);
-    transition: left 0.3s ease;
-    box-shadow: 0 0 0 1px rgba(0,0,0,0.2);
-  }
-  #legend.shifted { left: 12px; }
-  .legend-title { font-weight: 600; margin-bottom: 6px; color: var(--text-tertiary); font-size: 10px; text-transform: uppercase; letter-spacing: 0.5px; }
-  .legend-item { display: flex; align-items: center; gap: 6px; margin: 3px 0; color: var(--text-tertiary); }
-  .dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
-
-  /* ===== DETAIL PANEL - RIGHT ===== */
+  #dashboard.hidden { transform: translateX(-120%); opacity: 0; pointer-events: none; }
+  
+  .dash-header { font-size: 15px; font-weight: 700; color: var(--accent); margin-bottom: 12px; border-bottom: 1px solid #21262d; padding-bottom: 8px; }
+  
+  .dash-item { background: #0d1117; padding: 10px; border-radius: 6px; margin-bottom: 8px; border-left: 3px solid var(--accent); cursor: pointer; transition: background 0.2s; }
+  .dash-item:hover { background: #1c2128; }
+  .item-title { font-size: 13px; color: var(--text); margin-bottom: 4px; font-weight: 500; line-height: 1.3; }
+  .item-meta { display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px; font-size: 11px; color: #8b949e; }
+  .item-score { color: var(--accent); background: rgba(88,166,255,0.15); padding: 2px 6px; border-radius: 4px; font-weight: 500; }
+  .item-summary { font-size: 12px; color: #8b949e; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  
+  /* Legend - Bottom Left */
+  #legend { position: absolute; bottom: 20px; left: 20px; z-index: 10; background: rgba(22,27,34,0.9); padding: 10px 14px; border-radius: 8px; font-size: 12px; border: 1px solid #30363d; backdrop-filter: blur(8px); }
+  .legend-title { font-weight: 600; margin-bottom: 6px; color: #c9d1d9; font-size: 11px; text-transform: uppercase; }
+  .legend-item { display: flex; align-items: center; gap: 8px; margin: 4px 0; color: #8b949e; }
+  .dot { width: 10px; height: 10px; border-radius: 50%; }
+  
+  /* Detail Panel - Right Side */
   #detail-panel {
-    position: absolute; top: 0; right: -460px; width: 460px; height: 100%;
-    background: var(--panel-bg); border-left: 1px solid var(--border);
-    z-index: 80; transition: right 0.3s ease; overflow-y: auto;
-    display: flex; flex-direction: column;
-    box-shadow: -5px 0 30px rgba(0,0,0,0.5);
+    position: absolute; top: 0; right: -400px; width: 380px; height: 100%; background: var(--panel-bg);
+    border-left: 1px solid var(--border); z-index: 20; transition: right 0.3s ease; overflow-y: auto;
+    display: flex; flex-direction: column; box-shadow: -5px 0 30px rgba(0,0,0,0.5);
   }
   #detail-panel.active { right: 0; }
-
-  .panel-header { padding: 20px; border-bottom: 1px solid var(--border); position: relative; }
-  .panel-close {
-    position: absolute; top: 16px; right: 16px;
-    background: rgba(255,255,255,0.04); border: 1px solid var(--border-solid);
-    color: var(--text-tertiary); width: 28px; height: 28px; border-radius: 6px;
-    cursor: pointer; font-size: 14px; display: flex; align-items: center; justify-content: center;
-    transition: all 0.15s;
-  }
-  .panel-close:hover { background: rgba(255,255,255,0.08); color: var(--text-primary); }
-  .panel-title { font-size: 15px; color: var(--text-primary); line-height: 1.4; margin-right: 36px; font-weight: 600; letter-spacing: -0.1px; }
+  
+  .panel-header { padding: 20px; border-bottom: 1px solid #21262d; position: relative; }
+  .panel-close { position: absolute; top: 15px; right: 15px; background: none; border: none; color: #8b949e; font-size: 24px; cursor: pointer; }
+  .panel-close:hover { color: #fff; }
+  .panel-title { font-size: 16px; color: var(--accent); line-height: 1.4; margin-right: 30px; font-weight: 600; }
   .panel-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
-  .tag {
-    background: rgba(255,255,255,0.04); padding: 3px 8px; border-radius: 4px;
-    font-size: 11px; color: var(--text-secondary); border: 1px solid var(--border);
-  }
-  .tag.pillar { border-color: rgba(39,166,68,0.3); color: var(--green); background: rgba(39,166,68,0.1); }
-  .tag.score { border-color: rgba(113,112,255,0.3); color: var(--accent); background: rgba(113,112,255,0.08); }
-
+  .tag { background: #21262d; padding: 3px 8px; border-radius: 12px; font-size: 11px; color: #c9d1d9; border: 1px solid #30363d; }
+  .tag.pillar { background: rgba(63,185,80,0.2); color: #3fb950; border-color: #238636; }
+  .tag.date { background: rgba(255,255,255,0.05); color: #c9d1d9; }
+  .tag.score { background: rgba(88,166,255,0.1); color: #58a6ff; border-color: rgba(88,166,255,0.3); }
+  
   .panel-body { padding: 20px; flex: 1; }
   .panel-section { margin-bottom: 20px; }
-  .section-title {
-    font-size: 11px; color: var(--text-quaternary); text-transform: uppercase;
-    letter-spacing: 0.5px; margin-bottom: 8px; font-weight: 600;
-  }
-
-  /* Chinese summary */
-  .panel-summary {
-    font-size: 13px; line-height: 1.7; color: var(--text-primary);
-    white-space: pre-wrap; word-break: break-word;
-  }
-
-  /* Source info */
-  .source-meta { display: flex; gap: 16px; margin-bottom: 12px; }
-  .source-meta-item { font-size: 12px; color: var(--text-tertiary); }
-  .source-meta-item span { color: var(--text-secondary); }
-
-  /* Original text preview */
-  .panel-source-preview {
-    background: var(--surface); border: 1px solid var(--border); border-radius: 6px;
-    padding: 14px; font-size: 12px; line-height: 1.6; color: var(--text-secondary);
-    max-height: 200px; overflow-y: auto; white-space: pre-wrap; word-break: break-word;
-    font-family: 'Inter', system-ui, sans-serif;
-  }
-  .panel-source-preview::-webkit-scrollbar { width: 4px; }
-  .panel-source-preview::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 4px; }
-
-  /* Actions */
-  .panel-actions {
-    padding: 16px 20px; border-top: 1px solid var(--border);
-    background: var(--panel-bg); display: flex; gap: 8px;
-    flex-shrink: 0;
-  }
-  .action-btn {
-    flex: 1; padding: 10px 16px; border-radius: 6px; font-weight: 500;
-    font-size: 13px; transition: all 0.15s; border: none; cursor: pointer;
-    text-align: center; text-decoration: none; font-family: inherit;
-    display: flex; align-items: center; justify-content: center; gap: 6px;
-  }
-  .action-btn.primary { background: var(--accent-bg); color: #fff; }
-  .action-btn.primary:hover { background: var(--accent-hover); }
-  .action-btn.secondary { background: rgba(255,255,255,0.04); border: 1px solid var(--border-solid); color: var(--text-secondary); }
-  .action-btn.secondary:hover { background: rgba(255,255,255,0.08); color: var(--text-primary); }
+  .section-title { font-size: 12px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 8px; font-weight: 600; }
+  .section-content { font-size: 14px; line-height: 1.6; color: var(--text); white-space: pre-wrap; word-break: break-word; }
+  
+  .panel-actions { padding: 16px; border-top: 1px solid #21262d; background: #161b22; }
+  .action-btn { display: block; width: 100%; padding: 12px; border-radius: 6px; background: #238636; color: #fff; text-align: center; text-decoration: none; font-weight: 500; font-size: 14px; transition: background 0.2s; }
+  .action-btn:hover { background: #2ea043; }
+  .action-btn.disabled { background: #30363d; color: #8b949e; cursor: not-allowed; pointer-events: none; }
 </style>
 </head>
 <body>
 
   <!-- Header -->
   <div id="header">
-    <h1><span class="logo">🧠</span> AI Radar Knowledge Graph</h1>
+    <h1>🧠 AI Radar Knowledge Graph</h1>
     <div id="header-controls">
-      <button id="global-toggle-btn" class="header-btn" onclick="toggleDashboard()">📅 收起</button>
-      <a href="./feed.xml" class="header-btn primary" target="_blank">📡 RSS</a>
+      <button id="toggle-btn" onclick="toggleDashboard()">📅 收起摘要</button>
       <div id="stats">
         <span id="node-count">0</span> <span id="edge-count">0</span>
       </div>
@@ -245,20 +89,17 @@
 
   <!-- Dashboard (Left) -->
   <div id="dashboard">
-    <div class="dash-header">
-      <span class="dash-header-title">📅 今日情报摘要</span>
-      <button class="dash-close-btn" onclick="toggleDashboard()">✕</button>
-    </div>
-    <div class="dash-content" id="dash-content">Loading...</div>
+    <div class="dash-header">📅 今日情报摘要 (Top 10)</div>
+    <div id="dash-list">Loading...</div>
   </div>
 
-  <!-- Legend -->
+  <!-- Legend (Bottom Left) -->
   <div id="legend">
     <div class="legend-title">知识分类</div>
-    <div class="legend-item"><span class="dot" style="background:#58a6ff"></span> 技术能力</div>
-    <div class="legend-item"><span class="dot" style="background:#3fb950"></span> 产品模式</div>
-    <div class="legend-item"><span class="dot" style="background:#a371f7"></span> 工具生态</div>
-    <div class="legend-item"><span class="dot" style="background:#f0883e"></span> 商业趋势</div>
+    <div class="legend-item"><span class="dot" style="background:#58a6ff"></span> 技术能力 (Model/Tech)</div>
+    <div class="legend-item"><span class="dot" style="background:#3fb950"></span> 产品模式 (Patterns)</div>
+    <div class="legend-item"><span class="dot" style="background:#a371f7"></span> 工具生态 (Ecosystem)</div>
+    <div class="legend-item"><span class="dot" style="background:#f0883e"></span> 商业趋势 (Business)</div>
   </div>
 
   <!-- Graph Canvas -->
@@ -267,281 +108,158 @@
   <!-- Detail Panel (Right) -->
   <div id="detail-panel">
     <div class="panel-header">
-      <button class="panel-close" onclick="hidePanel()">✕</button>
+      <button class="panel-close" onclick="hidePanel()">×</button>
       <div class="panel-title" id="panel-title">节点详情</div>
       <div class="panel-tags" id="panel-tags"></div>
     </div>
     <div class="panel-body">
       <div class="panel-section">
-        <div class="section-title">📝 摘要总结</div>
-        <div class="panel-summary" id="panel-summary">点击图谱节点查看摘要</div>
-      </div>
-      <div class="panel-section">
-        <div class="section-title">📄 原文</div>
-        <div class="source-meta" id="source-meta"></div>
-        <div class="panel-source-preview" id="panel-source-preview">加载中...</div>
+        <div class="section-title">📝 摘要详情</div>
+        <div class="section-content" id="panel-summary">点击图谱节点查看摘要</div>
       </div>
     </div>
     <div class="panel-actions">
-      <a href="#" id="panel-link" class="action-btn primary" target="_blank">🔗 查看原文</a>
-      <button class="action-btn secondary" onclick="toggleRawSource()">📋 完整原文</button>
+      <a href="#" id="panel-link" class="action-btn" target="_blank">🔗 查看原文</a>
     </div>
   </div>
 
   <!-- Data & Libs -->
-  <script id="graph-data" type="application/json">{"nodes": [{"id": "show-hn-explore-color-palettes-inspired-by-3000-m", "label": "Show HN: Explore color palettes inspired by 3000 master painter artworks", "type": "showhn", "pillar": "ecosystem", "pm_score": 0.45, "tags": ["showhn", "ecosystem"], "summary": "", "source_type": "showhn", "date": "2026-05-07", "url": "https://paletteinspiration.com/"}, {"id": "estimating-the-expected-output-of-wide-random-mlps-more-effi", "label": "Estimating the expected output of wide random MLPs more efficiently than samplin", "type": "paper", "pillar": "capabilities", "pm_score": 0.45, "tags": ["papers", "capabilities"], "summary": "By far the most common way to estimate an expected loss in machine learning is to draw samples, compute the loss on each one, and take the empirical average. However, sampling is not necessarily optimal. Given an MLP at initialization, we show how to estimate its expected output over Gaussian inputs", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "when-life-gives-you-bc-make-q-functions-extracting-q-value", "label": "When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Clon", "type": "paper", "pillar": "capabilities", "pm_score": 0.45, "tags": ["papers", "capabilities"], "summary": "Behavior Cloning (BC) has emerged as a highly effective paradigm for robot learning. However, BC lacks a self-guided mechanism for online improvement after demonstrations have been collected. Existing offline-to-online learning methods often cause policies to replace previously learned good actions", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "geometry-aware-state-space-model-a-new-paradigm-for-whole-s", "label": "Geometry-Aware State Space Model: A New Paradigm for Whole-Slide Image Represent", "type": "paper", "pillar": "patterns", "pm_score": 0.45, "tags": ["papers", "patterns"], "summary": "Accurate analysis of histopathological images is critical for disease diagnosis and treatment planning. Whole-slide images (WSIs), which digitize tissue specimens at gigapixel resolution, are fundamental to this process but require aggregating thousands of patches for slide-level predictions. Multip", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "understanding-in-context-learning-for-nonlinear-regression-w", "label": "Understanding In-Context Learning for Nonlinear Regression with Transformers: At", "type": "paper", "pillar": "capabilities", "pm_score": 0.45, "tags": ["papers", "capabilities"], "summary": "Pre-trained transformers are able to learn from examples provided as part of the prompt without any weight updates, a remarkable ability known as in-context learning (ICL). Despite its demonstrated efficacy across various domains, the theoretical understanding of ICL is still developing. Whereas mos", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "taming-outlier-tokens-in-diffusion-transformers", "label": "Taming Outlier Tokens in Diffusion Transformers", "type": "paper", "pillar": "capabilities", "pm_score": 0.45, "tags": ["papers", "capabilities"], "summary": "We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract disproportionate attention while carrying limited local information, but their role in generative models rem", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "design-conductor-20-an-agent-builds-a-turboquant-inference", "label": "Design Conductor 2.0: An agent builds a TurboQuant inference accelerator in 80 h", "type": "paper", "pillar": "patterns", "pm_score": 0.45, "tags": ["papers", "patterns"], "summary": "Driven by a rapid co-evolution of both harness and underlying models, LLM agents are improving at a dizzying pace. In our prior work (performed in Dec. 2025), we introduced \"Design Conductor\" (or just \"Conductor\"), a system capable of building a 5-stage Linux-capable RISC-V CPU in 12 hours. In this", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "psk-at-semeval-2026-task-9-multilingual-polarization-detect", "label": "PSK at SemEval-2026 Task 9: Multilingual Polarization Detection Using Ensemble G", "type": "paper", "pillar": "capabilities", "pm_score": 0.45, "tags": ["papers", "capabilities"], "summary": "We present our system for SemEval-2026 Task 9: Multilingual Polarization Detection, a binary classification task spanning 22 languages. Our approach fine-tunes separate Gemma~3 models (12B and 27B parameters) per language using Low-Rank Adaptation (LoRA), augmented with synthetic data generated by a", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "sharp-capacity-thresholds-in-linear-associative-memory-from", "label": "Sharp Capacity Thresholds in Linear Associative Memory: From Winner-Take-All to", "type": "paper", "pillar": "patterns", "pm_score": 0.45, "tags": ["papers", "patterns"], "summary": "How many key-value associations can a $d\\times d$ linear memory store? We show that the answer depends not only on the $d^2$ degrees of freedom in the memory matrix, but also on the retrieval criterion. In an isotropic Gaussian model for the stored pairs, we show that top-1 retrieval, where every si", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "the-first-token-knows-single-decode-confidence-for-hallucin", "label": "The First Token Knows: Single-Decode Confidence for Hallucination Detection", "type": "paper", "pillar": "capabilities", "pm_score": 0.45, "tags": ["papers", "capabilities"], "summary": "Self-consistency detects hallucinations by generating multiple sampled answers to a question and measuring agreement, but this requires repeated decoding and can be sensitive to lexical variation. Semantic self-consistency improves this by clustering sampled answers by meaning using natural language", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "longseeker-elastic-context-orchestration-for-long-horizon-s", "label": "LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents", "type": "paper", "pillar": "patterns", "pm_score": 0.45, "tags": ["papers", "patterns"], "summary": "Long-horizon search agents must manage a rapidly growing working context as they reason, call tools, and observe information. Naively accumulating all intermediate content can overwhelm the agent, increasing costs and the risk of errors. We propose that effective context management should be adaptiv", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "sqlite-is-a-library-of-congress-recommended-storag", "label": "SQLite Is a Library of Congress Recommended Storage Format", "type": "hn", "pillar": "patterns", "pm_score": 0.4, "tags": ["hn", "patterns"], "summary": "这是一个 Hacker News 热门讨论，反映了社区对该话题的关注度。", "source_type": "hn", "date": "2026-05-07", "url": "https://news.ycombinator.com/item?id=48042434"}, {"id": "show-hn-i-built-an-open-source-email-builder-alt", "label": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer", "type": "hn", "pillar": "business", "pm_score": 0.35, "tags": ["hn", "business"], "summary": "这是一个 Hacker News 热门讨论，反映了社区对该话题的关注度。", "source_type": "hn", "date": "2026-05-07", "url": "https://news.ycombinator.com/item?id=48038019"}, {"id": "a-theory-of-deep-learning", "label": "A Theory of Deep Learning", "type": "hn", "pillar": "business", "pm_score": 0.35, "tags": ["hn", "business"], "summary": "这是一个 Hacker News 热门讨论，反映了社区对该话题的关注度。", "source_type": "hn", "date": "2026-05-07", "url": "https://news.ycombinator.com/item?id=48027455"}, {"id": "snap-says-its-400m-deal-with-perplexity-8216am", "label": "Snap says its $400M deal with Perplexity &#8216;amicably ended&#8217;", "type": "techcrunch", "pillar": "patterns", "pm_score": 0.3, "tags": ["techcrunch", "patterns"], "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.", "source_type": "techcrunch", "date": "2026-05-07", "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/"}, {"id": "khosla-backed-robotics-startup-genesis-ai-has-gone", "label": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows", "type": "techcrunch", "pillar": "business", "pm_score": 0.3, "tags": ["techcrunch", "business"], "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.", "source_type": "techcrunch", "date": "2026-05-07", "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/"}, {"id": "how-elon-musk-left-openai-according-to-greg-brock", "label": "How Elon Musk left OpenAI, according to Greg Brockman", "type": "techcrunch", "pillar": "business", "pm_score": 0.3, "tags": ["techcrunch", "business"], "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.", "source_type": "techcrunch", "date": "2026-05-07", "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/"}, {"id": "is-xai-a-neocloud-now", "label": "Is xAI a neocloud now?", "type": "techcrunch", "pillar": "capabilities", "pm_score": 0.3, "tags": ["techcrunch", "capabilities"], "summary": "xAI's real business may be more about building data centers than training AI models.", "source_type": "techcrunch", "date": "2026-05-07", "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/"}, {"id": "learning-the-integral-of-a-diffusion-model", "label": "Learning the Integral of a Diffusion Model", "type": "hn", "pillar": "business", "pm_score": 0.3, "tags": ["hn", "business"], "summary": "这是一个 Hacker News 热门讨论，反映了社区对该话题的关注度。", "source_type": "hn", "date": "2026-05-07", "url": "https://news.ycombinator.com/item?id=48040002"}, {"id": "ai-boom-pushes-samsung-to-1t", "label": "AI boom pushes Samsung to $1T", "type": "techcrunch", "pillar": "business", "pm_score": 0.3, "tags": ["techcrunch", "business"], "summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.", "source_type": "techcrunch", "date": "2026-05-07", "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/"}, {"id": "ethos-raises-2275m-from-a16z-for-its-expert-netw", "label": "Ethos raises $22.75M from a16z for its expert network with voice onboarding", "type": "techcrunch", "pillar": "patterns", "pm_score": 0.3, "tags": ["techcrunch", "patterns"], "summary": "Ethos says it is onboarding 35,000 experts per week.", "source_type": "techcrunch", "date": "2026-05-07", "url": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/"}, {"id": "apple-is-enforcing-an-old-app-store-rule-against-a", "label": "Apple is enforcing an old App Store rule against a new kind of software", "type": "hn", "pillar": "business", "pm_score": 0.3, "tags": ["hn", "business"], "summary": "这是一个 Hacker News 热门讨论，反映了社区对该话题的关注度。", "source_type": "hn", "date": "2026-05-07", "url": "https://news.ycombinator.com/item?id=48042099"}, {"id": "deepseek-could-hit-45b-valuation-from-its-first-i", "label": "DeepSeek could hit $45B valuation from its first investment round", "type": "techcrunch", "pillar": "business", "pm_score": 0.3, "tags": ["techcrunch", "business"], "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.", "source_type": "techcrunch", "date": "2026-05-07", "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/"}, {"id": "google-updates-ai-search-to-include-quotes-from-re", "label": "Google updates AI search to include quotes from Reddit and other sources", "type": "techcrunch", "pillar": "patterns", "pm_score": 0.3, "tags": ["techcrunch", "patterns"], "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.", "source_type": "techcrunch", "date": "2026-05-07", "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/"}, {"id": "almost-orthogonality-in-lp-spaces-a-case-study-with-grok", "label": "Almost-Orthogonality in Lp Spaces: A Case Study with Grok", "type": "paper", "pillar": "business", "pm_score": 0.3, "tags": ["papers", "business"], "summary": "Carbery proposed the following sharpened form of triangle inequality for many functions: for any $p\\ge 2$ and any finite sequence $(f_j)_j\\subset L^p$ we have \\[ \\Big\\|\\sum_j f_j\\Big\\|_p \\ \\le\\ \\left(\\sup_{j} \\sum_{k} α_{jk}^{\\,c}\\right)^{1/p'} \\Big(\\sum_j \\|f_j\\|_p^p\\Big)^{1/p}, \\] where $c=2$, $1/", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "grokability-in-five-inequalities", "label": "Grokability in five inequalities", "type": "paper", "pillar": "business", "pm_score": 0.25, "tags": ["papers", "business"], "summary": "In this note, we report five mathematical discoveries made in collaboration with Grok, all of which have been subsequently verified by the authors. These include an improved lower bound on the maximal Gaussian perimeter of convex sets in $\\mathbb{R}^n$, sharper $L_2$-$L_1$ moment comparison inequali", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "barry-diller-trusts-sam-altman-but-8216trust-i", "label": "Barry Diller trusts Sam Altman. But &#8216;trust is irrelevant&#8217; as AGI nea", "type": "techcrunch", "pillar": "business", "pm_score": 0.15, "tags": ["techcrunch", "business"], "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.", "source_type": "techcrunch", "date": "2026-05-07", "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/"}, {"id": "apple-to-pay-250m-to-settle-lawsuit-over-siri82", "label": "Apple to pay $250M to settle lawsuit over Siri&#8217;s delayed AI features", "type": "techcrunch", "pillar": "business", "pm_score": 0.15, "tags": ["techcrunch", "business"], "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.", "source_type": "techcrunch", "date": "2026-05-07", "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/"}, {"id": "tinder-owner-match-group-is-slowing-hiring-to-pay", "label": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI to", "type": "techcrunch", "pillar": "business", "pm_score": 0.15, "tags": ["techcrunch", "business"], "summary": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"", "source_type": "techcrunch", "date": "2026-05-07", "url": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/"}, {"id": "five-architects-of-the-ai-economy-explain-where-th", "label": "Five architects of the AI economy explain where the wheels are coming off", "type": "techcrunch", "pillar": "business", "pm_score": 0.15, "tags": ["techcrunch", "business"], "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tec", "source_type": "techcrunch", "date": "2026-05-07", "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/"}, {"id": "3-days-left-to-lock-in-50-off-a-second-ticket-to", "label": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026", "type": "techcrunch", "pillar": "business", "pm_score": 0.15, "tags": ["techcrunch", "business"], "summary": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends May 8 at 11:59 p.m. PT.", "source_type": "techcrunch", "date": "2026-05-07", "url": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/"}, {"id": "at-techcrunch-disrupt-2026-all-your-m038a-ques", "label": "At TechCrunch Disrupt 2026, all your M&#038;A questions will be answered", "type": "techcrunch", "pillar": "business", "pm_score": 0.1, "tags": ["techcrunch", "business"], "summary": "Leaders from Coinbase, M13, and Mignano Law Group talk about how M&#038;A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live.", "source_type": "techcrunch", "date": "2026-05-07", "url": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/"}, {"id": "spacex-may-spend-up-to-119b-on-8216terafab82", "label": "SpaceX may spend up to $119B on &#8216;Terafab&#8217; chip factory in Texas", "type": "techcrunch", "pillar": "business", "pm_score": 0.1, "tags": ["techcrunch", "business"], "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.", "source_type": "techcrunch", "date": "2026-05-07", "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/"}, {"id": "flow-sampling-learning-to-sample-from-unnormalized-densitie", "label": "Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Cond", "type": "paper", "pillar": "ecosystem", "pm_score": 0.1, "tags": ["papers", "ecosystem"], "summary": "Sampling from unnormalized densities is analogous to the generative modeling problem, but the target distribution is defined by a known energy function instead of data samples. Because evaluating the energy function is often costly, a primary challenge is to learn an efficient sampler. We introduce", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "large-scale-high-quality-3d-gaussian-head-reconstruction-fro", "label": "Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Capture", "type": "paper", "pillar": "business", "pm_score": 0.1, "tags": ["papers", "business"], "summary": "We propose HeadsUp, a scalable feed-forward method for reconstructing high-quality 3D Gaussian heads from large-scale multi-camera setups. Our method employs an efficient encoder-decoder architecture that compresses input views into a compact latent representation. This latent representation is then", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "from-intent-to-execution-composing-agentic-workflows-with-a", "label": "From Intent to Execution: Composing Agentic Workflows with Agent Recommendation", "type": "paper", "pillar": "patterns", "pm_score": 0.1, "tags": ["papers", "patterns"], "summary": "Multi-Agent Systems (MAS) built using AI agents fulfill a variety of user intents that may be used to design and build a family of related applications. However, the creation of such MAS currently involves manual composition of the plan, manual selection of appropriate agents, and manual creation of", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "openseeker-v2-pushing-the-limits-of-search-agents-with-info", "label": "OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Dif", "type": "paper", "pillar": "patterns", "pm_score": 0.1, "tags": ["papers", "patterns"], "summary": "Deep search capabilities have become an indispensable competency for frontier Large Language Model (LLM) agents, yet their development remains dominated by industrial giants. The typical industry recipe involves a highly resource-intensive pipeline spanning pre-training, continual pre-training (CPT)", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "a-closed-form-adaptive-landmark-kernel-for-certified-point-c", "label": "A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Class", "type": "paper", "pillar": "business", "pm_score": 0.1, "tags": ["papers", "business"], "summary": "We introduce PALACE (Persistence Adaptive-Landmark Analytic Classification Engine), the data-adaptive companion to PLACE, paying a small cross-validation tier on three knobs (budget, radii, bandwidth; $\\leq 5$ choices each). A cover-theoretic core (Lebesgue-number criterion on the landmark cover) yi", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "redefining-ai-red-teaming-in-the-agentic-era-from-weeks-to", "label": "Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours", "type": "paper", "pillar": "patterns", "pm_score": 0.1, "tags": ["papers", "patterns"], "summary": "AI systems are entering critical domains like healthcare, finance, and defense, yet remain vulnerable to adversarial attacks. While AI red teaming is a primary defense, current approaches force operators into manual, library-specific workflows. Operators spend weeks hand-crafting workflows - assembl", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "symptomai-towards-a-conversational-ai-agent-for-everyday-sy", "label": "SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment", "type": "paper", "pillar": "patterns", "pm_score": 0.1, "tags": ["papers", "patterns"], "summary": "Language models excel at diagnostic assessments on currated medical case-studies and vignettes, performing on par with, or better than, clinical professionals. However, existing studies focus on complex scenarios with rich context making it difficult to draw conclusions about how these systems perfo", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "physics-grounded-multi-agent-architecture-for-traceable-ris", "label": "Physics-Grounded Multi-Agent Architecture for Traceable, Risk-Aware Human-AI Dec", "type": "paper", "pillar": "patterns", "pm_score": 0.1, "tags": ["papers", "patterns"], "summary": "High-precision CNC machining of free-form aerospace components requires bounded compensations informed by inspection, simulation, and process knowledge. Off-the-shelf large language model (LLM) assistants can generate text, but they do not reliably execute risk-constrained multi-step numerical workf", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "enhanced-3d-brain-tumor-segmentation-using-assorted-precisio", "label": "Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training", "type": "paper", "pillar": "capabilities", "pm_score": 0.1, "tags": ["papers", "capabilities"], "summary": "A brain tumor is a medical disorder faced by individuals of all demographics. Medically, it is described as the spread of non-essential cells close to or throughout the brain. Symptoms of this ailment include headaches, seizures, and sensory changes. This research explores two main categories of bra", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "an-agent-oriented-pluggable-experience-rag-skill-for-experie", "label": "An Agent-Oriented Pluggable Experience-RAG Skill for Experience-Driven Retrieval", "type": "paper", "pillar": "patterns", "pm_score": 0.1, "tags": ["papers", "patterns"], "summary": "Retrieval-augmented generation systems often assume that one fixed retrieval pipeline is sufficient across heterogeneous tasks, yet factoid question answering, multi-hop reasoning, and scientific verification exhibit different retrieval preferences. We present Experience-RAG Skill, an agent-oriented", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "conditional-diffusion-sampling", "label": "Conditional Diffusion Sampling", "type": "paper", "pillar": "ecosystem", "pm_score": 0.1, "tags": ["papers", "ecosystem"], "summary": "Sampling from unnormalized multimodal distributions with limited density evaluations remains a fundamental challenge in machine learning and natural sciences. Successful approaches construct a bridge between a tractable reference and the target distribution. Parallel Tempering (PT) serves as the gol", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "safety-and-accuracy-follow-different-scaling-laws-in-clinica", "label": "Safety and accuracy follow different scaling laws in clinical large language mod", "type": "paper", "pillar": "capabilities", "pm_score": 0.1, "tags": ["papers", "capabilities"], "summary": "Clinical LLMs are often scaled by increasing model size, context length, retrieval complexity, or inference-time compute, with the implicit expectation that higher accuracy implies safer behavior. This assumption is incomplete in medicine, where a few confident, high-risk, or evidence-contradicting", "source_type": "papers", "date": "2026-05-07", "url": ""}, {"id": "business", "label": "business", "type": "concept", "pillar": "business", "pm_score": 0.1, "tags": ["concept"], "summary": "概念标签: business"}, {"id": "patterns", "label": "patterns", "type": "concept", "pillar": "patterns", "pm_score": 0.1, "tags": ["concept"], "summary": "概念标签: patterns"}, {"id": "ecosystem", "label": "ecosystem", "type": "concept", "pillar": "ecosystem", "pm_score": 0.1, "tags": ["concept"], "summary": "概念标签: ecosystem"}, {"id": "capabilities", "label": "capabilities", "type": "concept", "pillar": "capabilities", "pm_score": 0.1, "tags": ["concept"], "summary": "概念标签: capabilities"}, {"id": "techcrunch", "label": "techcrunch", "type": "concept", "pillar": "unknown", "pm_score": 0.05, "tags": ["concept"], "summary": "标签: techcrunch"}, {"id": "showhn", "label": "showhn", "type": "concept", "pillar": "unknown", "pm_score": 0.05, "tags": ["concept"], "summary": "标签: showhn"}, {"id": "hn", "label": "hn", "type": "concept", "pillar": "unknown", "pm_score": 0.05, "tags": ["concept"], "summary": "标签: hn"}, {"id": "papers", "label": "papers", "type": "concept", "pillar": "unknown", "pm_score": 0.05, "tags": ["concept"], "summary": "标签: papers"}, {"id": "concept", "label": "concept", "type": "concept", "pillar": "unknown", "pm_score": 0.05, "tags": ["concept"], "summary": "标签: concept"}], "edges": [{"source": "barry-diller-trusts-sam-altman-but-8216trust-i", "target": "techcrunch", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.075}, {"source": "barry-diller-trusts-sam-altman-but-8216trust-i", "target": "business", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.075}, {"source": "snap-says-its-400m-deal-with-perplexity-8216am", "target": "techcrunch", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.15}, {"source": "snap-says-its-400m-deal-with-perplexity-8216am", "target": "patterns", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.15}, {"source": "show-hn-explore-color-palettes-inspired-by-3000-m", "target": "showhn", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.225}, {"source": "show-hn-explore-color-palettes-inspired-by-3000-m", "target": "ecosystem", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.225}, {"source": "apple-to-pay-250m-to-settle-lawsuit-over-siri82", "target": "techcrunch", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.075}, {"source": "apple-to-pay-250m-to-settle-lawsuit-over-siri82", "target": "business", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.075}, {"source": "tinder-owner-match-group-is-slowing-hiring-to-pay", "target": "techcrunch", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.075}, {"source": "tinder-owner-match-group-is-slowing-hiring-to-pay", "target": "business", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.075}, {"source": "khosla-backed-robotics-startup-genesis-ai-has-gone", "target": "techcrunch", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.15}, {"source": "khosla-backed-robotics-startup-genesis-ai-has-gone", "target": "business", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.15}, {"source": "show-hn-i-built-an-open-source-email-builder-alt", "target": "hn", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.175}, {"source": "show-hn-i-built-an-open-source-email-builder-alt", "target": "business", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.175}, {"source": "how-elon-musk-left-openai-according-to-greg-brock", "target": "techcrunch", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.15}, {"source": "how-elon-musk-left-openai-according-to-greg-brock", "target": "business", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.15}, {"source": "five-architects-of-the-ai-economy-explain-where-th", "target": "techcrunch", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.075}, {"source": "five-architects-of-the-ai-economy-explain-where-th", "target": "business", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.075}, {"source": "is-xai-a-neocloud-now", "target": "techcrunch", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.15}, {"source": "is-xai-a-neocloud-now", "target": "capabilities", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.15}, {"source": "learning-the-integral-of-a-diffusion-model", "target": "hn", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.15}, {"source": "learning-the-integral-of-a-diffusion-model", "target": "business", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.15}, {"source": "ai-boom-pushes-samsung-to-1t", "target": "techcrunch", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.15}, {"source": "ai-boom-pushes-samsung-to-1t", "target": "business", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.15}, {"source": "at-techcrunch-disrupt-2026-all-your-m038a-ques", "target": "techcrunch", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "at-techcrunch-disrupt-2026-all-your-m038a-ques", "target": "business", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "3-days-left-to-lock-in-50-off-a-second-ticket-to", "target": "techcrunch", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.075}, {"source": "3-days-left-to-lock-in-50-off-a-second-ticket-to", "target": "business", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.075}, {"source": "sqlite-is-a-library-of-congress-recommended-storag", "target": "hn", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.2}, {"source": "sqlite-is-a-library-of-congress-recommended-storag", "target": "patterns", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.2}, {"source": "ethos-raises-2275m-from-a16z-for-its-expert-netw", "target": "techcrunch", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.15}, {"source": "ethos-raises-2275m-from-a16z-for-its-expert-netw", "target": "patterns", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.15}, {"source": "apple-is-enforcing-an-old-app-store-rule-against-a", "target": "hn", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.15}, {"source": "apple-is-enforcing-an-old-app-store-rule-against-a", "target": "business", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.15}, {"source": "deepseek-could-hit-45b-valuation-from-its-first-i", "target": "techcrunch", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.15}, {"source": "deepseek-could-hit-45b-valuation-from-its-first-i", "target": "business", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.15}, {"source": "google-updates-ai-search-to-include-quotes-from-re", "target": "techcrunch", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.15}, {"source": "google-updates-ai-search-to-include-quotes-from-re", "target": "patterns", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.15}, {"source": "a-theory-of-deep-learning", "target": "hn", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.175}, {"source": "a-theory-of-deep-learning", "target": "business", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.175}, {"source": "spacex-may-spend-up-to-119b-on-8216terafab82", "target": "techcrunch", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "spacex-may-spend-up-to-119b-on-8216terafab82", "target": "business", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "flow-sampling-learning-to-sample-from-unnormalized-densitie", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "flow-sampling-learning-to-sample-from-unnormalized-densitie", "target": "ecosystem", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "almost-orthogonality-in-lp-spaces-a-case-study-with-grok", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.15}, {"source": "almost-orthogonality-in-lp-spaces-a-case-study-with-grok", "target": "business", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.15}, {"source": "large-scale-high-quality-3d-gaussian-head-reconstruction-fro", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "large-scale-high-quality-3d-gaussian-head-reconstruction-fro", "target": "business", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "estimating-the-expected-output-of-wide-random-mlps-more-effi", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.225}, {"source": "estimating-the-expected-output-of-wide-random-mlps-more-effi", "target": "capabilities", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.225}, {"source": "when-life-gives-you-bc-make-q-functions-extracting-q-value", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.225}, {"source": "when-life-gives-you-bc-make-q-functions-extracting-q-value", "target": "capabilities", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.225}, {"source": "geometry-aware-state-space-model-a-new-paradigm-for-whole-s", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.225}, {"source": "geometry-aware-state-space-model-a-new-paradigm-for-whole-s", "target": "patterns", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.225}, {"source": "understanding-in-context-learning-for-nonlinear-regression-w", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.225}, {"source": "understanding-in-context-learning-for-nonlinear-regression-w", "target": "capabilities", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.225}, {"source": "taming-outlier-tokens-in-diffusion-transformers", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.225}, {"source": "taming-outlier-tokens-in-diffusion-transformers", "target": "capabilities", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.225}, {"source": "grokability-in-five-inequalities", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.125}, {"source": "grokability-in-five-inequalities", "target": "business", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.125}, {"source": "design-conductor-20-an-agent-builds-a-turboquant-inference", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.225}, {"source": "design-conductor-20-an-agent-builds-a-turboquant-inference", "target": "patterns", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.225}, {"source": "psk-at-semeval-2026-task-9-multilingual-polarization-detect", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.225}, {"source": "psk-at-semeval-2026-task-9-multilingual-polarization-detect", "target": "capabilities", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.225}, {"source": "from-intent-to-execution-composing-agentic-workflows-with-a", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "from-intent-to-execution-composing-agentic-workflows-with-a", "target": "patterns", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "openseeker-v2-pushing-the-limits-of-search-agents-with-info", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "openseeker-v2-pushing-the-limits-of-search-agents-with-info", "target": "patterns", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "a-closed-form-adaptive-landmark-kernel-for-certified-point-c", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "a-closed-form-adaptive-landmark-kernel-for-certified-point-c", "target": "business", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "redefining-ai-red-teaming-in-the-agentic-era-from-weeks-to", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "redefining-ai-red-teaming-in-the-agentic-era-from-weeks-to", "target": "patterns", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "symptomai-towards-a-conversational-ai-agent-for-everyday-sy", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "symptomai-towards-a-conversational-ai-agent-for-everyday-sy", "target": "patterns", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "physics-grounded-multi-agent-architecture-for-traceable-ris", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "physics-grounded-multi-agent-architecture-for-traceable-ris", "target": "patterns", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "sharp-capacity-thresholds-in-linear-associative-memory-from", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.225}, {"source": "sharp-capacity-thresholds-in-linear-associative-memory-from", "target": "patterns", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.225}, {"source": "enhanced-3d-brain-tumor-segmentation-using-assorted-precisio", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "enhanced-3d-brain-tumor-segmentation-using-assorted-precisio", "target": "capabilities", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "the-first-token-knows-single-decode-confidence-for-hallucin", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.225}, {"source": "the-first-token-knows-single-decode-confidence-for-hallucin", "target": "capabilities", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.225}, {"source": "an-agent-oriented-pluggable-experience-rag-skill-for-experie", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "an-agent-oriented-pluggable-experience-rag-skill-for-experie", "target": "patterns", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "conditional-diffusion-sampling", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "conditional-diffusion-sampling", "target": "ecosystem", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "safety-and-accuracy-follow-different-scaling-laws-in-clinica", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "safety-and-accuracy-follow-different-scaling-laws-in-clinica", "target": "capabilities", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "longseeker-elastic-context-orchestration-for-long-horizon-s", "target": "papers", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.225}, {"source": "longseeker-elastic-context-orchestration-for-long-horizon-s", "target": "patterns", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.225}, {"source": "techcrunch", "target": "concept", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.025}, {"source": "business", "target": "concept", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "patterns", "target": "concept", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "showhn", "target": "concept", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.025}, {"source": "ecosystem", "target": "concept", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "hn", "target": "concept", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.025}, {"source": "capabilities", "target": "concept", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.05}, {"source": "papers", "target": "concept", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.025}, {"source": "concept", "target": "concept", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.025}, {"source": "barry-diller-trusts-sam-altman-but-8216trust-i", "target": "apple-to-pay-250m-to-settle-lawsuit-over-siri82", "relation": "same_pillar:business", "type": "PILLAR", "pm_relevance": 0.3}, {"source": "apple-to-pay-250m-to-settle-lawsuit-over-siri82", "target": "tinder-owner-match-group-is-slowing-hiring-to-pay", "relation": "same_pillar:business", "type": "PILLAR", "pm_relevance": 0.3}, {"source": "tinder-owner-match-group-is-slowing-hiring-to-pay", "target": "khosla-backed-robotics-startup-genesis-ai-has-gone", "relation": "same_pillar:business", "type": "PILLAR", "pm_relevance": 0.3}, {"source": "snap-says-its-400m-deal-with-perplexity-8216am", "target": "sqlite-is-a-library-of-congress-recommended-storag", "relation": "same_pillar:patterns", "type": "PILLAR", "pm_relevance": 0.3}, {"source": "sqlite-is-a-library-of-congress-recommended-storag", "target": "ethos-raises-2275m-from-a16z-for-its-expert-netw", "relation": "same_pillar:patterns", "type": "PILLAR", "pm_relevance": 0.3}, {"source": "ethos-raises-2275m-from-a16z-for-its-expert-netw", "target": "google-updates-ai-search-to-include-quotes-from-re", "relation": "same_pillar:patterns", "type": "PILLAR", "pm_relevance": 0.3}, {"source": "show-hn-explore-color-palettes-inspired-by-3000-m", "target": "flow-sampling-learning-to-sample-from-unnormalized-densitie", "relation": "same_pillar:ecosystem", "type": "PILLAR", "pm_relevance": 0.3}, {"source": "flow-sampling-learning-to-sample-from-unnormalized-densitie", "target": "conditional-diffusion-sampling", "relation": "same_pillar:ecosystem", "type": "PILLAR", "pm_relevance": 0.3}, {"source": "conditional-diffusion-sampling", "target": "ecosystem", "relation": "same_pillar:ecosystem", "type": "PILLAR", "pm_relevance": 0.3}, {"source": "is-xai-a-neocloud-now", "target": "estimating-the-expected-output-of-wide-random-mlps-more-effi", "relation": "same_pillar:capabilities", "type": "PILLAR", "pm_relevance": 0.3}, {"source": "estimating-the-expected-output-of-wide-random-mlps-more-effi", "target": "when-life-gives-you-bc-make-q-functions-extracting-q-value", "relation": "same_pillar:capabilities", "type": "PILLAR", "pm_relevance": 0.3}, {"source": "when-life-gives-you-bc-make-q-functions-extracting-q-value", "target": "understanding-in-context-learning-for-nonlinear-regression-w", "relation": "same_pillar:capabilities", "type": "PILLAR", "pm_relevance": 0.3}], "generated_at": "2026-05-07T15:34:14.594037", "generator": "ai-radar-explorer-v3", "schema_version": "4-pillar-pm-focused"}</script>
-  <script src="./assets/vis-network.min.js"></script>
+  <script id="graph-data" type="application/json">{"nodes": [{"id": "product-hunt-ai-topics", "label": "Product Hunt — AI Topics", "type": "products", "pillar": "patterns", "pm_score": 0.305, "tags": ["products", "patterns"], "summary": "AI products on Product Hunt. Top titles: Artificial Intelligence | Product Hunt, Artificial intelligence powers products that can write, reason, analyze data, and take action for you. These categories cover the main ways AI is being built and used today.\n\n- **[AI Agents](https://www.producthunt.com/", "source_type": "products", "date": "2026-05-07", "url": ""}, {"id": "programbench-can-language-models-rebuild-programs", "label": "ProgramBench: Can Language Models Rebuild Programs from Scratch?", "type": "hn", "pillar": "business", "pm_score": 0.205, "tags": ["hn", "business"], "summary": "", "source_type": "hn", "date": "2026-05-07", "url": "https://news.ycombinator.com/item?id=48045174"}, {"id": "programbench-can-language-models-rebuil", "label": "ProgramBench: Can Language Models Rebuild Programs from Scratch?", "type": "discussion", "pillar": "business", "pm_score": 0.205, "tags": ["hn", "business"], "summary": "HN 热门讨论，45 分，28 条评论", "date": "", "url": "https://arxiv.org/abs/2605.03546", "stars": null, "score": 45, "comments": 28}, {"id": "show-hn-agent-skills-eval-test-whether-agent-sk", "label": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs", "type": "showhn", "pillar": "patterns", "pm_score": 0.155, "tags": ["showhn", "patterns"], "summary": "", "source_type": "showhn", "date": "2026-05-07", "url": "https://github.com/darkrishabh/agent-skills-eval"}, {"id": "making-llm-training-faster-with-unsloth-and-nvidia", "label": "Making LLM Training Faster with Unsloth and NVIDIA", "type": "hn", "pillar": "capabilities", "pm_score": 0.155, "tags": ["hn", "capabilities"], "summary": "", "source_type": "hn", "date": "2026-05-07", "url": "https://news.ycombinator.com/item?id=48046397"}, {"id": "making-llm-training-faster-with-unsloth", "label": "Making LLM Training Faster with Unsloth and NVIDIA", "type": "discussion", "pillar": "capabilities", "pm_score": 0.155, "tags": ["hn", "capabilities"], "summary": "HN 热门讨论，36 分，2 条评论", "date": "", "url": "https://unsloth.ai/blog/nvidia-collab", "stars": null, "score": 36, "comments": 2}, {"id": "show-hn-agent-skills-eval-test-whethe", "label": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs", "type": "project", "pillar": "patterns", "pm_score": 0.155, "tags": ["showhn", "patterns"], "summary": "Show HN 项目，19 分", "date": "", "url": "https://github.com/darkrishabh/agent-skills-eval", "stars": null, "score": 19, "comments": 1}, {"id": "business", "label": "business", "type": "concept", "pillar": "business", "pm_score": 0.1, "tags": ["concept"], "summary": "概念标签: business"}, {"id": "patterns", "label": "patterns", "type": "concept", "pillar": "patterns", "pm_score": 0.1, "tags": ["concept"], "summary": "概念标签: patterns"}, {"id": "capabilities", "label": "capabilities", "type": "concept", "pillar": "capabilities", "pm_score": 0.1, "tags": ["concept"], "summary": "概念标签: capabilities"}], "edges": [{"source": "programbench-can-language-models-rebuild-programs", "target": "business", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.1025}, {"source": "show-hn-agent-skills-eval-test-whether-agent-sk", "target": "patterns", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.0775}, {"source": "product-hunt-ai-topics", "target": "patterns", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.1525}, {"source": "making-llm-training-faster-with-unsloth-and-nvidia", "target": "capabilities", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.0775}, {"source": "making-llm-training-faster-with-unsloth", "target": "capabilities", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.0775}, {"source": "programbench-can-language-models-rebuil", "target": "business", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.1025}, {"source": "show-hn-agent-skills-eval-test-whethe", "target": "patterns", "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": 0.0775}, {"source": "programbench-can-language-models-rebuild-programs", "target": "programbench-can-language-models-rebuil", "relation": "same_pillar:business", "type": "PILLAR", "pm_relevance": 0.3}, {"source": "programbench-can-language-models-rebuil", "target": "business", "relation": "same_pillar:business", "type": "PILLAR", "pm_relevance": 0.3}, {"source": "show-hn-agent-skills-eval-test-whether-agent-sk", "target": "product-hunt-ai-topics", "relation": "same_pillar:patterns", "type": "PILLAR", "pm_relevance": 0.3}, {"source": "product-hunt-ai-topics", "target": "show-hn-agent-skills-eval-test-whethe", "relation": "same_pillar:patterns", "type": "PILLAR", "pm_relevance": 0.3}, {"source": "show-hn-agent-skills-eval-test-whethe", "target": "patterns", "relation": "same_pillar:patterns", "type": "PILLAR", "pm_relevance": 0.3}, {"source": "making-llm-training-faster-with-unsloth-and-nvidia", "target": "making-llm-training-faster-with-unsloth", "relation": "same_pillar:capabilities", "type": "PILLAR", "pm_relevance": 0.3}, {"source": "making-llm-training-faster-with-unsloth", "target": "capabilities", "relation": "same_pillar:capabilities", "type": "PILLAR", "pm_relevance": 0.3}], "generated_at": "2026-05-07T17:55:19.518135", "generator": "ai-radar-explorer-v3", "schema_version": "4-pillar-pm-focused"}</script>
+  <script src="./vis-network.min.js"></script>
   <script>
     const data = JSON.parse(document.getElementById('graph-data').textContent);
     const pillarColors = { capabilities: '#58a6ff', patterns: '#3fb950', ecosystem: '#a371f7', business: '#f0883e', unknown: '#8b949e' };
     const pillarNames = { capabilities: '🤖 技术能力', patterns: '📱 产品模式', ecosystem: '🔧 工具生态', business: '💰 商业趋势', unknown: '未分类' };
-    const pillarKeys = ['capabilities', 'patterns', 'ecosystem', 'business'];
     let network;
-    let dailySummary = null;
-    let currentNode = null;
-    let showingRaw = false;
 
-    // ===== 1. STRUCTURED DAILY SUMMARY =====
-    async function renderStructuredSummary() {
-      const container = document.getElementById('dash-content');
-      try {
-        const resp = await fetch('./daily_summary.json');
-        if (!resp.ok) throw new Error('Not found');
-        const summaryData = await resp.json();
-        dailySummary = summaryData.daily_summary;
-      } catch (e) {
-        dailySummary = generateFallbackSummary();
-      }
-
-      if (!dailySummary || !dailySummary.insights || dailySummary.insights.length === 0) {
-        container.innerHTML = '<div style="color:var(--text-quaternary); font-size:12px; text-align:center; padding:40px 20px;">今日暂无新情报</div>';
+    // 1. Render Dashboard
+    function renderDashboard() {
+      const today = new Date().toISOString().slice(0, 10);
+      // Filter nodes created/updated today or having today's date
+      const todayNodes = data.nodes.filter(n => n.date && n.date.startsWith(today));
+      const topNodes = [...todayNodes].sort((a, b) => (b.pm_score || 0) - (a.pm_score || 0)).slice(0, 10);
+      
+      const list = document.getElementById('dash-list');
+      if (topNodes.length === 0) {
+        list.innerHTML = '<div style="color:#8b949e; font-size:12px; text-align:center; padding:20px;">今日暂无新情报</div>';
         return;
       }
-
-      let html = '';
-
-      // 1. Headline (always at top)
-      html += '<div class="summary-headline">' + dailySummary.headline + '</div>';
-
-      // 2. Watch List
-      if (dailySummary.watch_list && dailySummary.watch_list.length > 0) {
-        html += '<div class="section-label">🎯 值得关注</div>';
-        html += '<div class="summary-watch">';
-        dailySummary.watch_list.forEach(w => {
-          html += '<div class="watch-item">' +
-            '<div class="watch-item-title" onclick="searchArticle(\'' + w.title.replace(/'/g, "\\'") + '\')">' + w.title + '</div>' +
-            '<div class="watch-item-reason">' + w.reason + '</div>' +
-            '</div>';
-        });
-        html += '</div>';
-      }
-
-      // 3. Stats
-      if (dailySummary.stats) {
-        html += '<div class="summary-stats">' + dailySummary.stats + '</div>';
-      }
-
-      // 4. Insights grouped by pillar (all expanded by default)
-      html += '<div class="section-label">📊 趋势洞察</div>';
-
-      // Group insights by pillar keywords or use the existing structure
-      dailySummary.insights.forEach((insight, idx) => {
-        html += '<div class="insight-section">' +
-          '<div class="insight-header expanded" onclick="toggleInsight(this)">' +
-            '<span>' + insight.title + '</span>' +
-            '<span class="insight-arrow">▶</span>' +
-          '</div>' +
-          '<div class="insight-body show">' +
-            '<div class="insight-summary">' + insight.summary + '</div>' +
-            '<ul class="insight-evidence">';
-
-        insight.evidence.forEach(e => {
-          html += '<li onclick="searchArticle(\'' + e.replace(/'/g, "\\'") + '\')">' + e + '</li>';
-        });
-
-        html += '</ul></div></div>';
-      });
-
-      container.innerHTML = html;
+      
+      list.innerHTML = topNodes.map(n => {
+        const color = pillarColors[n.pillar] || '#8b949e';
+        const name = pillarNames[n.pillar] || n.pillar;
+        const summary = (n.summary || "暂无中文摘要").substring(0, 100);
+        const score = (n.pm_score || 0).toFixed(2);
+        return `
+          <div class="dash-item" style="border-left-color: ${color}" onclick="focusNode('${n.id}')">
+            <div class="item-title">${n.label}</div>
+            <div class="item-meta">
+              <span>${name}</span>
+              <span class="item-score">PM ${score}</span>
+            </div>
+            <div class="item-summary">${summary}</div>
+          </div>`;
+      }).join('');
     }
 
-    function generateFallbackSummary() {
-      const today = new Date().toISOString().slice(0, 10);
-      const todayNodes = data.nodes.filter(n => n.date && n.date.startsWith(today) && n.type !== 'concept');
-      if (todayNodes.length === 0) return null;
-      return {
-        headline: '今日 ' + todayNodes.length + ' 条 AI 情报速递',
-        insights: [{ title: '📊 技术动态', summary: '今日 AI 领域有多项进展。', evidence: todayNodes.slice(0, 3).map(n => n.label) }],
-        watch_list: [],
-        stats: '今日共 ' + todayNodes.length + ' 条情报'
-      };
-    }
-
-    function toggleInsight(header) {
-      header.classList.toggle('expanded');
-      const body = header.nextElementSibling;
-      body.classList.toggle('show');
-    }
-
-    function searchArticle(title) {
-      const match = data.nodes.find(n => n.label.includes(title) || title.includes(n.label));
-      if (match) focusNode(match.id);
-    }
-
-    // ===== 2. NETWORK RENDER =====
+    // 2. Render Network
     function renderNetwork() {
       const nodes = new vis.DataSet(data.nodes.map(n => ({
-        id: n.id,
-        label: n.label.length > 20 ? n.label.slice(0, 20) + '...' : n.label,
-        shape: 'dot',
-        size: Math.max(10, Math.min(28, (n.pm_score || 0.1) * 30 + 10)),
-        color: {
-          background: pillarColors[n.pillar] || '#8b949e',
-          border: 'rgba(255,255,255,0.3)',
-          highlight: { background: pillarColors[n.pillar] || '#fff', border: '#fff' }
+        id: n.id, 
+        label: n.label.length > 18 ? n.label.slice(0, 18) + '...' : n.label,
+        shape: 'dot', // Force circular dots
+        size: Math.max(10, Math.min(25, (n.pm_score || 0.1) * 30 + 10)),
+        color: { 
+          background: pillarColors[n.pillar] || '#8b949e', 
+          border: 'rgba(255,255,255,0.3)', 
+          highlight: { background: pillarColors[n.pillar] || '#fff', border: '#fff' } 
         },
-        font: { color: '#f7f8f8', size: 11, strokeWidth: 2, strokeColor: '#08090a' },
+        font: { color: '#fff', size: 11, strokeWidth: 1.5, strokeColor: '#0d1117' },
         borderWidth: 2
       })));
-
+      
       const edges = new vis.DataSet(data.edges.map(e => ({
         from: e.source, to: e.target,
-        color: { color: e.type === 'PILLAR' ? 'rgba(39,166,68,0.2)' : 'rgba(255,255,255,0.06)' },
-        width: e.type === 'PILLAR' ? 1.5 : 0.5,
+        color: { color: e.type === 'PILLAR' ? 'rgba(63,185,80,0.25)' : 'rgba(139,148,158,0.15)' },
+        width: e.type === 'PILLAR' ? 2 : 1,
         smooth: { type: 'curvedCW', roundness: 0.1 }
       })));
-
+      
       network = new vis.Network(document.getElementById('mynetwork'), { nodes, edges }, {
         physics: { barnesHut: { gravitationalConstant: -3000, springLength: 150, springConstant: 0.04 }, stabilization: { iterations: 200 } },
         interaction: { hover: true, zoomView: true, dragView: true, dragNodes: true }
       });
-
+      
       network.on('click', function(params) {
         if (params.nodes.length > 0) showPanel(params.nodes[0]);
         else hidePanel();
       });
-
-      document.getElementById('node-count').textContent = data.nodes.filter(n => n.type !== 'concept').length + ' nodes';
-      document.getElementById('edge-count').textContent = data.edges.length + ' edges';
+      
+      document.getElementById('node-count').textContent = data.nodes.length;
+      document.getElementById('edge-count').textContent = data.edges.length;
     }
 
-    // ===== 3. DETAIL PANEL =====
+    // 3. Show Panel Logic
     function showPanel(nodeId) {
       const node = data.nodes.find(n => n.id === nodeId);
       if (!node) return;
-      currentNode = node;
-      showingRaw = false;
-
+      
       // Title
       document.getElementById('panel-title').textContent = node.label;
-
+      
       // Tags
       const tagsHtml = [];
-      if (node.pillar) tagsHtml.push('<span class="tag pillar">' + (pillarNames[node.pillar] || node.pillar) + '</span>');
-      if (node.date) tagsHtml.push('<span class="tag">📅 ' + node.date + '</span>');
-      if (node.pm_score) tagsHtml.push('<span class="tag score">🎯 PM ' + node.pm_score.toFixed(1) + '</span>');
-      if (node.type && node.type !== 'concept') tagsHtml.push('<span class="tag">' + node.type + '</span>');
+      if (node.pillar) tagsHtml.push(`<span class="tag pillar">${pillarNames[node.pillar] || node.pillar}</span>`);
+      if (node.date) tagsHtml.push(`<span class="tag date">📅 ${node.date}</span>`);
+      if (node.pm_score) tagsHtml.push(`<span class="tag score">🎯 ${node.pm_score}</span>`);
       document.getElementById('panel-tags').innerHTML = tagsHtml.join('');
-
-      // Chinese summary (精炼版, 120 chars max)
-      let summary = node.summary || '';
-      let conciseSummary = '';
-      if (!summary || summary.length === 0) {
-        if (node.type === 'paper') conciseSummary = '📚 学术研究论文\n\n建议点击"查看原文"查看完整学术摘要和实验数据。';
-        else if (node.type === 'hn' || node.type === 'showhn') conciseSummary = '💬 Hacker News 社区讨论\n\n点击"查看原文"查看社区观点和讨论内容。';
-        else if (node.type === 'news' || node.type === 'techcrunch') conciseSummary = '📰 科技新闻报道\n\n点击"查看原文"查看完整新闻内容。';
-        else conciseSummary = '暂无摘要信息，建议点击"查看原文"查看详情。';
-      } else {
-        // 精炼版摘要 (120 chars max)
-        conciseSummary = summary.length > 120 ? summary.substring(0, 120) + '…' : summary;
+      
+      // Summary - ensure it's populated
+      let summary = node.summary;
+      if (!summary || summary === "") {
+        // Fallback if summary is missing
+        if (node.type === 'paper') summary = "这是一篇学术研究论文。摘要暂缺，建议点击原文查看。";
+        else if (node.type === 'hn') summary = "这是一个 Hacker News 讨论话题。摘要暂缺。";
+        else summary = "暂无详细摘要信息，建议点击原文查看详细内容。";
       }
-      document.getElementById('panel-summary').textContent = conciseSummary;
-
-      // Source metadata
-      const metaHtml = [];
-      if (node.url) {
-        try {
-          const domain = new URL(node.url).hostname.replace('www.', '');
-          metaHtml.push('<div class="source-meta-item">来源：<span>' + domain + '</span></div>');
-        } catch(e) { metaHtml.push('<div class="source-meta-item">来源：<span>外部链接</span></div>'); }
-      } else {
-        metaHtml.push('<div class="source-meta-item">来源：<span>无原始链接</span></div>');
-      }
-      if (node.date) metaHtml.push('<div class="source-meta-item">日期：<span>' + node.date + '</span></div>');
-      if (node.type) metaHtml.push('<div class="source-meta-item">类型：<span>' + node.type + '</span></div>');
-      document.getElementById('source-meta').innerHTML = metaHtml.join('');
-
-      // Original text preview (full content, original language)
-      const preview = document.getElementById('panel-source-preview');
-      if (summary && summary.length > 0) {
-        preview.textContent = summary;
-      } else {
-        preview.textContent = '暂无原文内容';
-      }
-
-      // Link button
+      document.getElementById('panel-summary').textContent = summary;
+      
+      // Link Button
       const linkBtn = document.getElementById('panel-link');
-      if (node.url) {
-        linkBtn.href = node.url;
-        linkBtn.style.display = 'flex';
-      } else {
-        linkBtn.style.display = 'none';
+      if (node.url) { 
+        linkBtn.href = node.url; 
+        linkBtn.classList.remove('disabled');
+        linkBtn.style.display = 'block'; 
+      } else { 
+        linkBtn.style.display = 'none'; 
       }
-
-      // Reset toggle button
-      document.querySelector('.action-btn.secondary').textContent = '📋 完整原文';
-
+      
       document.getElementById('detail-panel').classList.add('active');
     }
 
     function hidePanel() { document.getElementById('detail-panel').classList.remove('active'); }
-
-    function focusNode(id) {
-      network.selectNodes([id]);
-      network.focus(id, { scale: 1.2, animation: { duration: 500, easingFunction: 'easeInOutQuad' } });
-      showPanel(id);
+    
+    function focusNode(id) { 
+      network.selectNodes([id]); 
+      network.focus(id, { scale: 1.2, animation: { duration: 500, easingFunction: 'easeInOutQuad' } }); 
+      showPanel(id); 
     }
-
-    // Toggle raw source
-    function toggleRawSource() {
-      const preview = document.getElementById('panel-source-preview');
-      const btn = document.querySelector('.action-btn.secondary');
-      if (!currentNode) return;
-      
-      if (showingRaw) {
-        // Back to summary view: show first 120 chars
-        const summary = currentNode.summary || '';
-        preview.textContent = summary.length > 120 ? summary.substring(0, 120) + '…' : summary || '暂无原文内容';
-        btn.textContent = '📋 完整原文';
-        showingRaw = false;
-      } else {
-        // Show full text
-        preview.textContent = currentNode.summary || '暂无原文内容';
-        btn.textContent = '📝 返回摘要';
-        showingRaw = true;
-      }
-    }
-
-    // ===== 4. TOGGLE DASHBOARD =====
+    
+    // Toggle Dashboard
     function toggleDashboard() {
       const dash = document.getElementById('dashboard');
-      const legend = document.getElementById('legend');
-      const globalBtn = document.getElementById('global-toggle-btn');
-      const isHidden = dash.classList.contains('hidden');
-
-      if (isHidden) {
+      const btn = document.getElementById('toggle-btn');
+      if (dash.classList.contains('hidden')) {
         dash.classList.remove('hidden');
-        legend.classList.remove('shifted');
-        globalBtn.textContent = '📅 收起';
+        btn.innerHTML = '📅 收起摘要';
       } else {
         dash.classList.add('hidden');
-        legend.classList.add('shifted');
-        globalBtn.textContent = '📅 展开';
+        btn.innerHTML = '📅 展开摘要';
       }
     }
 
-    // ===== INIT =====
-    renderStructuredSummary();
+    // Init
+    renderDashboard();
     renderNetwork();
   </script>
 </body>
