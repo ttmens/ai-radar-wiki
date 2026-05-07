@@ -49,3 +49,6 @@
 - create: a-theory-of-deep-learning.md
 - create: show-hn-i-built-an-open-source-email-builder-alt.md
 - create: apple-is-enforcing-an-old-app-store-rule-against-a.md
+
+## [2026-05-07 13:23] sync v3 | 1 new | pillars: {'ecosystem': 1}
+- create: show-hn-explore-color-palettes-inspired-by-3000-m.md

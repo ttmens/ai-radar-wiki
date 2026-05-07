@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-07 | Total pages: 29
+> Last updated: 2026-05-07 | Total pages: 30
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -21,7 +21,7 @@
 
 ## 🔧 Ecosystem (工具与生态)
 > Orchestration, VectorDB, Evaluation, Open Source
-> 暂无内容
+- [[show-hn-explore-color-palettes-inspired-by-3000-m.md]] Show HN: Explore color palettes inspired by 3000 master painter artworks `pillar:ecosystem` `score:0.45`
 
 ## 💰 Business (商业与趋势)
 > Funding, Moat, Growth, Ethics, Regulation

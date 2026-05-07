@@ -1,6 +1,18 @@
 {
   "nodes": [
     {
+      "id": "show-hn-explore-color-palettes-inspired-by-3000-m",
+      "label": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+      "type": "showhn",
+      "pillar": "ecosystem",
+      "pm_score": 0.45,
+      "tags": [
+        "showhn",
+        "ecosystem"
+      ],
+      "summary": ""
+    },
+    {
       "id": "estimating-the-expected-output-of-wide-random-mlps-more-effi",
       "label": "Estimating the expected output of wide random MLPs more efficiently than samplin",
       "type": "paper",
@@ -331,6 +343,28 @@
       "summary": ""
     },
     {
+      "id": "showhn",
+      "label": "showhn",
+      "type": "concept",
+      "pillar": "showhn",
+      "pm_score": 0.1,
+      "tags": [
+        "concept"
+      ],
+      "summary": "概念标签: showhn"
+    },
+    {
+      "id": "ecosystem",
+      "label": "ecosystem",
+      "type": "concept",
+      "pillar": "ecosystem",
+      "pm_score": 0.1,
+      "tags": [
+        "concept"
+      ],
+      "summary": "概念标签: ecosystem"
+    },
+    {
       "id": "hn",
       "label": "hn",
       "type": "concept",
@@ -387,6 +421,20 @@
     }
   ],
   "edges": [
+    {
+      "source": "show-hn-explore-color-palettes-inspired-by-3000-m",
+      "target": "showhn",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "show-hn-explore-color-palettes-inspired-by-3000-m",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
     {
       "source": "show-hn-i-built-an-open-source-email-builder-alt",
       "target": "hn",
@@ -668,6 +716,20 @@
       "pm_relevance": 0.225
     },
     {
+      "source": "showhn",
+      "target": "concept",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "ecosystem",
+      "target": "concept",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
       "source": "hn",
       "target": "concept",
       "relation": "belongs_to",
@@ -701,6 +763,13 @@
       "relation": "belongs_to",
       "type": "KEYWORD",
       "pm_relevance": 0.05
+    },
+    {
+      "source": "show-hn-explore-color-palettes-inspired-by-3000-m",
+      "target": "ecosystem",
+      "relation": "same_pillar:ecosystem",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
     },
     {
       "source": "sqlite-is-a-library-of-congress-recommended-storag",
@@ -745,7 +814,7 @@
       "pm_relevance": 0.3
     }
   ],
-  "generated_at": "2026-05-07T13:09:15.606547",
+  "generated_at": "2026-05-07T13:23:42.011452",
   "generator": "ai-radar-explorer-v3",
   "schema_version": "4-pillar-pm-focused"
 }
