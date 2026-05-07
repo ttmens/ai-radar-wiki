@@ -14,6 +14,8 @@
   #header h1 { font-size: 18px; color: var(--accent); font-weight: 700; display: flex; align-items: center; gap: 8px; }
   #header-controls { display: flex; align-items: center; gap: 12px; }
   #stats span { background: #21262d; padding: 4px 10px; border-radius: 12px; font-size: 12px; font-family: monospace; border: 1px solid #30363d; }
+  .subscribe-btn { background: #238636; border: 1px solid #2ea043; color: #fff; padding: 6px 14px; border-radius: 6px; cursor: pointer; font-size: 13px; font-weight: 500; transition: all 0.2s; text-decoration: none; display: flex; align-items: center; gap: 6px; }
+  .subscribe-btn:hover { background: #2ea043; }
   #toggle-btn { background: #21262d; border: 1px solid var(--border); color: var(--text); padding: 6px 14px; border-radius: 6px; cursor: pointer; font-size: 13px; font-weight: 500; transition: all 0.2s; display: flex; align-items: center; gap: 6px; }
   #toggle-btn:hover { background: var(--border); color: #fff; }
   
@@ -96,6 +98,7 @@
   <div id="header">
     <h1>🧠 AI Radar Knowledge Graph</h1>
     <div id="header-controls">
+      <a href="./feed.xml" class="subscribe-btn" target="_blank">📡 RSS 订阅</a>
       <div id="stats">
         <span id="node-count">0</span> <span id="edge-count">0</span>
       </div>

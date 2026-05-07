@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Radar - 每日情报摘要</title>
+    <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+    <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 07 May 2026 07:46:07 +0000</lastBuildDate>
+    <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
+      <title>AI Radar - 每日情报摘要</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+    </image>
+    <item>
+      <title>Show HN: Explore color palettes inspired by 3000 master painter artworks</title>
+      <link>https://paletteinspiration.com/</link>
+      <guid isPermaLink="false">show-hn-explore-color-palettes-inspired-by-3000-m</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> showhn</p><hr/><p></p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Estimating the expected output of wide random MLPs more efficiently than samplin</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">estimating-the-expected-output-of-wide-random-mlps-more-effi</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> paper</p><hr/><p>By far the most common way to estimate an expected loss in machine learning is to draw samples, compute the loss on each one, and take the empirical average. However, sampling is not necessarily optimal. Given an MLP at initialization, we show how to estimate its expected output over Gaussian inputs</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Clon</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">when-life-gives-you-bc-make-q-functions-extracting-q-value</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> paper</p><hr/><p>Behavior Cloning (BC) has emerged as a highly effective paradigm for robot learning. However, BC lacks a self-guided mechanism for online improvement after demonstrations have been collected. Existing offline-to-online learning methods often cause policies to replace previously learned good actions</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Geometry-Aware State Space Model: A New Paradigm for Whole-Slide Image Represent</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">geometry-aware-state-space-model-a-new-paradigm-for-whole-s</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> paper</p><hr/><p>Accurate analysis of histopathological images is critical for disease diagnosis and treatment planning. Whole-slide images (WSIs), which digitize tissue specimens at gigapixel resolution, are fundamental to this process but require aggregating thousands of patches for slide-level predictions. Multip</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Understanding In-Context Learning for Nonlinear Regression with Transformers: At</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">understanding-in-context-learning-for-nonlinear-regression-w</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> paper</p><hr/><p>Pre-trained transformers are able to learn from examples provided as part of the prompt without any weight updates, a remarkable ability known as in-context learning (ICL). Despite its demonstrated efficacy across various domains, the theoretical understanding of ICL is still developing. Whereas mos</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Taming Outlier Tokens in Diffusion Transformers</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">taming-outlier-tokens-in-diffusion-transformers</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> paper</p><hr/><p>We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract disproportionate attention while carrying limited local information, but their role in generative models rem</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Design Conductor 2.0: An agent builds a TurboQuant inference accelerator in 80 h</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">design-conductor-20-an-agent-builds-a-turboquant-inference</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> paper</p><hr/><p>Driven by a rapid co-evolution of both harness and underlying models, LLM agents are improving at a dizzying pace. In our prior work (performed in Dec. 2025), we introduced "Design Conductor" (or just "Conductor"), a system capable of building a 5-stage Linux-capable RISC-V CPU in 12 hours. In this</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>PSK at SemEval-2026 Task 9: Multilingual Polarization Detection Using Ensemble G</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">psk-at-semeval-2026-task-9-multilingual-polarization-detect</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> paper</p><hr/><p>We present our system for SemEval-2026 Task 9: Multilingual Polarization Detection, a binary classification task spanning 22 languages. Our approach fine-tunes separate Gemma~3 models (12B and 27B parameters) per language using Low-Rank Adaptation (LoRA), augmented with synthetic data generated by a</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Sharp Capacity Thresholds in Linear Associative Memory: From Winner-Take-All to</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">sharp-capacity-thresholds-in-linear-associative-memory-from</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> paper</p><hr/><p>How many key-value associations can a $d\times d$ linear memory store? We show that the answer depends not only on the $d^2$ degrees of freedom in the memory matrix, but also on the retrieval criterion. In an isotropic Gaussian model for the stored pairs, we show that top-1 retrieval, where every si</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>The First Token Knows: Single-Decode Confidence for Hallucination Detection</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">the-first-token-knows-single-decode-confidence-for-hallucin</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> paper</p><hr/><p>Self-consistency detects hallucinations by generating multiple sampled answers to a question and measuring agreement, but this requires repeated decoding and can be sensitive to lexical variation. Semantic self-consistency improves this by clustering sampled answers by meaning using natural language</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">longseeker-elastic-context-orchestration-for-long-horizon-s</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> paper</p><hr/><p>Long-horizon search agents must manage a rapidly growing working context as they reason, call tools, and observe information. Naively accumulating all intermediate content can overwhelm the agent, increasing costs and the risk of errors. We propose that effective context management should be adaptiv</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>SQLite Is a Library of Congress Recommended Storage Format</title>
+      <link>https://news.ycombinator.com/item?id=48042434</link>
+      <guid isPermaLink="false">sqlite-is-a-library-of-congress-recommended-storag</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>这是一个 Hacker News 热门讨论，反映了社区对该话题的关注度。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Show HN: I built an open-source email builder, alternative to Beefree/Unlayer</title>
+      <link>https://news.ycombinator.com/item?id=48038019</link>
+      <guid isPermaLink="false">show-hn-i-built-an-open-source-email-builder-alt</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>这是一个 Hacker News 热门讨论，反映了社区对该话题的关注度。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>A Theory of Deep Learning</title>
+      <link>https://news.ycombinator.com/item?id=48027455</link>
+      <guid isPermaLink="false">a-theory-of-deep-learning</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>这是一个 Hacker News 热门讨论，反映了社区对该话题的关注度。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Snap says its $400M deal with Perplexity &amp;#8216;amicably ended&amp;#8217;</title>
+      <link>https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/</link>
+      <guid isPermaLink="false">snap-says-its-400m-deal-with-perplexity-8216am</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Khosla-backed robotics startup Genesis AI has gone full stack, demo shows</title>
+      <link>https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/</link>
+      <guid isPermaLink="false">khosla-backed-robotics-startup-genesis-ai-has-gone</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>How Elon Musk left OpenAI, according to Greg Brockman</title>
+      <link>https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/</link>
+      <guid isPermaLink="false">how-elon-musk-left-openai-according-to-greg-brock</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Is xAI a neocloud now?</title>
+      <link>https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/</link>
+      <guid isPermaLink="false">is-xai-a-neocloud-now</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>xAI's real business may be more about building data centers than training AI models.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Learning the Integral of a Diffusion Model</title>
+      <link>https://news.ycombinator.com/item?id=48040002</link>
+      <guid isPermaLink="false">learning-the-integral-of-a-diffusion-model</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>这是一个 Hacker News 热门讨论，反映了社区对该话题的关注度。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>AI boom pushes Samsung to $1T</title>
+      <link>https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/</link>
+      <guid isPermaLink="false">ai-boom-pushes-samsung-to-1t</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Ethos raises $22.75M from a16z for its expert network with voice onboarding</title>
+      <link>https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/</link>
+      <guid isPermaLink="false">ethos-raises-2275m-from-a16z-for-its-expert-netw</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Ethos says it is onboarding 35,000 experts per week.</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Apple is enforcing an old App Store rule against a new kind of software</title>
+      <link>https://news.ycombinator.com/item?id=48042099</link>
+      <guid isPermaLink="false">apple-is-enforcing-an-old-app-store-rule-against-a</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>这是一个 Hacker News 热门讨论，反映了社区对该话题的关注度。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>DeepSeek could hit $45B valuation from its first investment round</title>
+      <link>https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/</link>
+      <guid isPermaLink="false">deepseek-could-hit-45b-valuation-from-its-first-i</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Google updates AI search to include quotes from Reddit and other sources</title>
+      <link>https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/</link>
+      <guid isPermaLink="false">google-updates-ai-search-to-include-quotes-from-re</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Almost-Orthogonality in Lp Spaces: A Case Study with Grok</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">almost-orthogonality-in-lp-spaces-a-case-study-with-grok</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> paper</p><hr/><p>Carbery proposed the following sharpened form of triangle inequality for many functions: for any $p\ge 2$ and any finite sequence $(f_j)_j\subset L^p$ we have \[ \Big\|\sum_j f_j\Big\|_p \ \le\ \left(\sup_{j} \sum_{k} α_{jk}^{\,c}\right)^{1/p'} \Big(\sum_j \|f_j\|_p^p\Big)^{1/p}, \] where $c=2$, $1/</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Grokability in five inequalities</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">grokability-in-five-inequalities</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> paper</p><hr/><p>In this note, we report five mathematical discoveries made in collaboration with Grok, all of which have been subsequently verified by the authors. These include an improved lower bound on the maximal Gaussian perimeter of convex sets in $\mathbb{R}^n$, sharper $L_2$-$L_1$ moment comparison inequali</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Barry Diller trusts Sam Altman. But &amp;#8216;trust is irrelevant&amp;#8217; as AGI nea</title>
+      <link>https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/</link>
+      <guid isPermaLink="false">barry-diller-trusts-sam-altman-but-8216trust-i</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Apple to pay $250M to settle lawsuit over Siri&amp;#8217;s delayed AI features</title>
+      <link>https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/</link>
+      <guid isPermaLink="false">apple-to-pay-250m-to-settle-lawsuit-over-siri82</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Tinder owner Match Group is slowing hiring to pay for its increased use of AI to</title>
+      <link>https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/</link>
+      <guid isPermaLink="false">tinder-owner-match-group-is-slowing-hiring-to-pay</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Match Group said that it's slowing its hiring plans for the rest of the year because AI tools "cost a lot of money."</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Five architects of the AI economy explain where the wheels are coming off</title>
+      <link>https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/</link>
+      <guid isPermaLink="false">five-architects-of-the-ai-economy-explain-where-th</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tec</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026</title>
+      <link>https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="false">3-days-left-to-lock-in-50-off-a-second-ticket-to</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends May 8 at 11:59 p.m. PT.</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>At TechCrunch Disrupt 2026, all your M&amp;#038;A questions will be answered</title>
+      <link>https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/</link>
+      <guid isPermaLink="false">at-techcrunch-disrupt-2026-all-your-m038a-ques</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Leaders from Coinbase, M13, and Mignano Law Group talk about how M&amp;#038;A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live.</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>SpaceX may spend up to $119B on &amp;#8216;Terafab&amp;#8217; chip factory in Texas</title>
+      <link>https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/</link>
+      <guid isPermaLink="false">spacex-may-spend-up-to-119b-on-8216terafab82</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>The project would be a "multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility," according to the proposal.</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Cond</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">flow-sampling-learning-to-sample-from-unnormalized-densitie</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> paper</p><hr/><p>Sampling from unnormalized densities is analogous to the generative modeling problem, but the target distribution is defined by a known energy function instead of data samples. Because evaluating the energy function is often costly, a primary challenge is to learn an efficient sampler. We introduce</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Capture</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">large-scale-high-quality-3d-gaussian-head-reconstruction-fro</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> paper</p><hr/><p>We propose HeadsUp, a scalable feed-forward method for reconstructing high-quality 3D Gaussian heads from large-scale multi-camera setups. Our method employs an efficient encoder-decoder architecture that compresses input views into a compact latent representation. This latent representation is then</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>From Intent to Execution: Composing Agentic Workflows with Agent Recommendation</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">from-intent-to-execution-composing-agentic-workflows-with-a</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> paper</p><hr/><p>Multi-Agent Systems (MAS) built using AI agents fulfill a variety of user intents that may be used to design and build a family of related applications. However, the creation of such MAS currently involves manual composition of the plan, manual selection of appropriate agents, and manual creation of</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Dif</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">openseeker-v2-pushing-the-limits-of-search-agents-with-info</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> paper</p><hr/><p>Deep search capabilities have become an indispensable competency for frontier Large Language Model (LLM) agents, yet their development remains dominated by industrial giants. The typical industry recipe involves a highly resource-intensive pipeline spanning pre-training, continual pre-training (CPT)</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Class</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">a-closed-form-adaptive-landmark-kernel-for-certified-point-c</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> paper</p><hr/><p>We introduce PALACE (Persistence Adaptive-Landmark Analytic Classification Engine), the data-adaptive companion to PLACE, paying a small cross-validation tier on three knobs (budget, radii, bandwidth; $\leq 5$ choices each). A cover-theoretic core (Lebesgue-number criterion on the landmark cover) yi</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">redefining-ai-red-teaming-in-the-agentic-era-from-weeks-to</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> paper</p><hr/><p>AI systems are entering critical domains like healthcare, finance, and defense, yet remain vulnerable to adversarial attacks. While AI red teaming is a primary defense, current approaches force operators into manual, library-specific workflows. Operators spend weeks hand-crafting workflows - assembl</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">symptomai-towards-a-conversational-ai-agent-for-everyday-sy</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> paper</p><hr/><p>Language models excel at diagnostic assessments on currated medical case-studies and vignettes, performing on par with, or better than, clinical professionals. However, existing studies focus on complex scenarios with rich context making it difficult to draw conclusions about how these systems perfo</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Physics-Grounded Multi-Agent Architecture for Traceable, Risk-Aware Human-AI Dec</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">physics-grounded-multi-agent-architecture-for-traceable-ris</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> paper</p><hr/><p>High-precision CNC machining of free-form aerospace components requires bounded compensations informed by inspection, simulation, and process knowledge. Off-the-shelf large language model (LLM) assistants can generate text, but they do not reliably execute risk-constrained multi-step numerical workf</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">enhanced-3d-brain-tumor-segmentation-using-assorted-precisio</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> paper</p><hr/><p>A brain tumor is a medical disorder faced by individuals of all demographics. Medically, it is described as the spread of non-essential cells close to or throughout the brain. Symptoms of this ailment include headaches, seizures, and sensory changes. This research explores two main categories of bra</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>An Agent-Oriented Pluggable Experience-RAG Skill for Experience-Driven Retrieval</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">an-agent-oriented-pluggable-experience-rag-skill-for-experie</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> paper</p><hr/><p>Retrieval-augmented generation systems often assume that one fixed retrieval pipeline is sufficient across heterogeneous tasks, yet factoid question answering, multi-hop reasoning, and scientific verification exhibit different retrieval preferences. We present Experience-RAG Skill, an agent-oriented</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Conditional Diffusion Sampling</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">conditional-diffusion-sampling</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> paper</p><hr/><p>Sampling from unnormalized multimodal distributions with limited density evaluations remains a fundamental challenge in machine learning and natural sciences. Successful approaches construct a bridge between a tractable reference and the target distribution. Parallel Tempering (PT) serves as the gol</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Safety and accuracy follow different scaling laws in clinical large language mod</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">safety-and-accuracy-follow-different-scaling-laws-in-clinica</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> paper</p><hr/><p>Clinical LLMs are often scaled by increasing model size, context length, retrieval complexity, or inference-time compute, with the implicit expectation that higher accuracy implies safer behavior. This assumption is incomplete in medicine, where a few confident, high-risk, or evidence-contradicting</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+  </channel>
+</rss>
