@@ -1,7 +1,7 @@
 # AI Radar 系统设计文档 (System Design Document)
 
-> **版本**: v3.4.0  
-> **最后更新**: 2026-05-07 20:00  
+> **版本**: v3.5.0  
+> **最后更新**: 2026-05-07 21:00  
 > **维护者**: Hermes Agent  
 > **在线地址**: https://ttmens.github.io/ai-radar-wiki/graph.html
 
@@ -449,4 +449,5 @@ data_json = json.dumps(graph_data, indent=2, ensure_ascii=False)
 | v3.1.0 | 2026-05-07 | 结构化摘要 + 图例跟随：图例放画布上跟随面板滑动 + 左侧面板改为 LLM 结构化摘要 + 摘要和预览区分内容 |
 | v3.2.0 | 2026-05-07 | Linear 风格重构：面板撑满高度 + 内容重排 + 图例间距 + 右侧详情增加来源/日期 + 摘要精炼版 vs 完整原文 |
 | v3.3.0 | 2026-05-07 | Pipeline 修复：LLM 分析限制 30 条 + GitHub OR 查询拆分 + JSON 控制字符修复 + .gitignore 防泄露 + 模板自动提取 |
+| v3.5.0 | 2026-05-07 | 系统修复完成：中文摘要链路修复 + 每日摘要恢复 + 仓库清理 + pipeline 优化
 | v3.4.0 | 2026-05-07 | 设计文档整合：汇总所有需求、修复、配置到 DESIGN.md + LLM API 配置 (qwen3.6-plus) + 完整安全规范 |
