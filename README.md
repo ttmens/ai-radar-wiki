@@ -5,7 +5,7 @@
 [![Graph](https://img.shields.io/badge/📊_Knowledge_Graph-Live-blue)](https://ttmens.github.io/ai-radar-wiki/graph.html)
 [![Update](https://img.shields.io/badge/🔄_Every_6h-green)]()
 [![RSS](https://img.shields.io/badge/📡_RSS_Feed-orange)](https://ttmens.github.io/ai-radar-wiki/feed.xml)
-[![Chinese](https://img.shields.io/badge/🇨🇳_196_中文摘要-red)]()
+[![Chinese](https://img.shields.io/badge/🇨🇳_185_中文摘要-red)]()
 
 ---
 
@@ -13,19 +13,19 @@
 
 | 指标 | 数值 |
 |------|------|
-| 总节点 | 275 |
-| 总边 | 281 |
-| 中文摘要 | 196 (71%) |
-| 最后更新 | 2026-05-08 03:43 |
+| 总节点 | 264 |
+| 总边 | 270 |
+| 中文摘要 | 185 (70%) |
+| 最后更新 | 2026-05-08 07:55 |
 
 ### 四支柱分布
 
 | 支柱 | 节点数 | 说明 |
 |------|--------|------|
-| 🤖 技术能力 | 81 | 新模型、算法、技术突破 |
+| 🤖 技术能力 | 79 | 新模型、算法、技术突破 |
 | 📱 产品模式 | 91 | 交互方式、工作流、AI 应用 |
-| 🔧 工具生态 | 63 | 框架、SDK、库、平台 |
-| 💰 商业动态 | 38 | 融资、产品发布、市场 |
+| 🔧 工具生态 | 60 | 框架、SDK、库、平台 |
+| 💰 商业动态 | 32 | 融资、产品发布、市场 |
 
 ---
 
@@ -42,4 +42,4 @@
 
 ---
 
-*AI Radar Explorer v3 · Self-evolving Knowledge Graph · Last updated: 2026-05-08 03:43*
+*AI Radar Explorer v3 · Self-evolving Knowledge Graph · Last updated: 2026-05-08 07:55*

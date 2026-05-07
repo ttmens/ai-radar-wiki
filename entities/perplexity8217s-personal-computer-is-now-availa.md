@@ -1,0 +1,27 @@
+---
+title: Perplexity&#8217;s Personal Computer is now available to everyone on Mac
+created: 2026-05-08
+updated: 2026-05-08
+type: entity
+pillar: patterns
+pm_score: 0.365
+tags: ["news", "techcrunch", "patterns"]
+sources: ["raw/techcrunch/perplexity8217s-personal-computer-is-now-availa.json"]
+---
+
+# Perplexity&#8217;s Personal Computer is now available to everyone on Mac
+
+## 中文摘要
+Perplexity推出面向Mac的“Personal Computer”应用，将AI智能体深度集成至桌面端，标志着AI交互从网页向本地化、系统级操作系统的范式转移。该产品通过原生Agent架构实现跨应用任务自动化与上下文感知，显著降低操作摩擦。对AI产品经理而言，其核心价值在于验证了“AI原生桌面”的商业可行性，为构建以智能体为中心的工作流产品提供新范式，并凸显系统级权限整合在下一代AI入口竞争中的战略地位。
+
+## PM 关注指标
+- 🎯 PM Score: 0.365
+- 🏷️ Pillar: patterns
+- 🔑 Keywords: agent
+
+## 新闻摘要
+Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.
+
+## 链接
+- 🔗 Source: https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/
+- 📅 Published: Thu, 07 May 2026 19:57:59 +0000

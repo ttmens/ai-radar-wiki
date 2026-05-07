@@ -1,10 +1,44 @@
 {
   "daily_summary": {
     "date": "2026-05-08",
+    "headline": "智能体告别提示词时代，端云协同与治理前置成产品新基线",
+    "insights": [
+      {
+        "title": "智能体架构告别“提示词堆砌”",
+        "summary": "AI Agent 开发正从脆弱的 Prompt 工程转向结构化控制流与状态机。面对复杂长链路任务，PM 需将确定性工作流编排、自动化评估基准与人机协同审查纳入核心架构，以突破当前模型在自主规划上的能力瓶颈。",
+        "evidence": [
+          "Agents need control flow, not more prompts",
+          "AlphaEvolve: Gemini-powered coding agent scaling impact acro",
+          "Show HN: New Benchmark from SWE-bench team is 0% solved"
+        ]
+      },
+      {
+        "title": "算力瓶颈倒逼“端云协同”务实落地",
+        "summary": "硬件供应链短缺与端侧算力天花板，正终结纯本地 AI 的幻想。产品策略需转向“云端重计算+边缘轻量化”的混合架构，在保障数据隐私与降低 API 成本的同时，利用底层传输优化维持流畅体验。",
+        "evidence": [
+          "Chrome removes claim of On-device Al not sending data to Goo",
+          "Motherboard sales 'collapse' amid unprecedented shortages fu",
+          "DeepSeek 4 Flash local inference engine for Metal"
+        ]
+      },
+      {
+        "title": "AI 治理与可解释性成为产品护城河",
+        "summary": "低质内容泛滥与安全诉讼频发，标志着“信任”已从合规选项升级为产品核心竞争力。PM 必须在设计初期集成自动化内容过滤、模型思维可视化与 DevSecOps 流程，用透明度换取用户留存。",
+        "evidence": [
+          "AI Slop Is Killing Online Communities",
+          "Natural Language Autoencoders: Turning Claude's Thoughts int",
+          "Elon Musk's lawsuit is putting OpenAI's safety r"
+        ]
+      }
+    ],
+    "watch_list": [
+      {
+        "title": "Show HN: Stage CLI – an easier way of reading your AI genera",
+        "reason": "为 AI 生成代码提供轻量级交互式审查流，是构建 Human-in-the-loop 开发工作流的标杆实践，可直接复用于 AI 辅助创作类产品。"
+      }
+    ],
+    "stats": "今日共15条情报，技术3条，商业5条，产品模式4条，工具生态3条。",
     "date_bj": "2026-05-08 (北京时区 UTC+8)",
-    "headline": "今日暂无新情报",
-    "insights": [],
-    "watch_list": [],
-    "stats": "今日未采集到新情报"
+    "generated_at_bj": "2026-05-08 07:54:16"
   }
 }

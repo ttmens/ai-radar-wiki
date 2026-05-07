@@ -268,3 +268,13 @@
 - create: show-hn-stage-cli-an-easier-way-of-reading-your.md
 - create: show-hn-i-made-a-vertical-pedalling-bike-with-a-n.md
 - create: show-hn-new-benchmark-from-swe-bench-team-is-0-s.md
+
+## [2026-05-08 07:55] sync v3 | 8 new | pillars: {'patterns': 4, 'unknown': 1, 'business': 2, 'ecosystem': 1}
+- create: dirtyfrag-universal-linux-lpe.md
+- create: two-home-affairs-officials-suspended-after-ai-hal.md
+- create: principles-for-agent-native-clis.md
+- create: openai-launches-new-voice-intelligence-features-in.md
+- create: voi-founders8217-new-ai-startup-pit-has-become.md
+- create: openai-introduces-new-8216trusted-contact8217.md
+- create: perplexity8217s-personal-computer-is-now-availa.md
+- create: show-hn-kstack-skill-pack-for-monitoringtroubl.md
