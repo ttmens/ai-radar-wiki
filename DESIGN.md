@@ -126,6 +126,9 @@ graph.json 节点实际字段（v3.6.0）：
 | `type` | string | 节点类型：`github`/`paper`/`hn`/`techcrunch`/`products`/`showhn`/`news`/`concept` |
 | `tags` | array | 标签数组（如 `["github", "ecosystem"]`） |
 | `source_type` | string | 数据来源类型（与 type 类似，保留以兼容） |
+| `stars` | int | GitHub Star 数（仅 github 类型） |
+| `score` | int | HN 得分（仅 hn/showhn 类型） |
+| `comments` | int | 评论数（GitHub discussions / HN） |
 
 **已移除字段**（v3.6.0 起）：
 - ~~`group`~~ — 已合并到 `pillar`
