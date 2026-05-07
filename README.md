@@ -4,7 +4,6 @@
 
 [![Graph](https://img.shields.io/badge/📊_Graph-Live-blue)](https://ttmens.github.io/ai-radar-wiki/graph.html)
 [![Update](https://img.shields.io/badge/🔄_Every_4h-green)]()
-[![Agent](https://img.shields.io/badge/🤖_Agent-Ready-9cf)](https://ttmens.github.io/ai-radar-wiki/ai-agent.json)
 
 ## 4 Pillars
 | Pillar | Focus | Example |
@@ -20,7 +19,6 @@
 | 📊 Graph | [Open](https://ttmens.github.io/ai-radar-wiki/graph.html) |
 | 📋 Graph Data | [graph.json](https://ttmens.github.io/ai-radar-wiki/graph.json) |
 | 📚 Index | [index.md](https://ttmens.github.io/ai-radar-wiki/index.md) |
-| 🤖 Agent API | [ai-agent.json](https://ttmens.github.io/ai-radar-wiki/ai-agent.json) |
 
 ## Stats
 | Nodes | Edges | Last Update |

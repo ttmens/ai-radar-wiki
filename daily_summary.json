@@ -1,33 +1,33 @@
 {
   "daily_summary": {
     "date": "2026-05-07",
-    "headline": "AI 产品迈入智能体标准化与工程化深水区",
+    "headline": "AI产品竞争转向记忆架构与工程标准化",
     "insights": [
       {
-        "title": "智能体基建走向标准化",
-        "summary": "智能体开发正告别“手工作坊”时代。记忆模块、任务编排与数据清洗管道加速走向标准化与可插拔，PM 无需从零搭建底层架构，即可将重心转向复杂工作流设计与用户体验打磨。",
+        "title": "记忆与上下文成体验分水岭",
+        "summary": "基座模型能力趋同后，决定AI产品上限的已转向长期记忆、混合检索与非结构化数据清洗。PM需将“上下文连贯性”与“精准召回”作为核心体验指标，摆脱单纯依赖Prompt调优的路径依赖。",
         "evidence": [
           "MemPalace/mempalace",
-          "microsoft/semantic-kernel",
-          "Significant-Gravitas/AutoGPT"
+          "meilisearch/meilisearch",
+          "Unstructured-IO/unstructured"
         ]
       },
       {
-        "title": "模型工程化与降本增效",
-        "summary": "算力成本与部署效率正成为产品落地的生死线。全生命周期管控、跨端推理加速与显存优化技术密集涌现，标志着 AI 产品竞争已从“拼模型参数”全面转向“拼工程化下限”。",
+        "title": "智能体编排迈向低成本标准化",
+        "summary": "从单点调用到复杂工作流自动化，行业正通过插件化架构、智能规划器与全生命周期管理平台，大幅降低Agent开发与运维门槛。PM应优先采用成熟开源编排范式，将资源聚焦于业务闭环与ROI验证。",
         "evidence": [
-          "mlflow/mlflow",
-          "microsoft/onnxruntime",
-          "hpcaitech/ColossalAI"
+          "microsoft/semantic-kernel",
+          "Significant-Gravitas/AutoGPT",
+          "mlflow/mlflow"
         ]
       }
     ],
     "watch_list": [
       {
-        "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
-        "reason": "头部 AI 编程工具的系统提示词逆向库，为 PM 提供竞品 Prompt 设计范式与上下文管理基准，极具实战参考价值。"
+        "title": "LibreChat 全面兼容 MCP 协议",
+        "reason": "模型上下文协议（MCP）正成为AI工具互操作新标准，其多模型热切换与统一接入能力将大幅降低企业级AI应用的集成成本。"
       }
     ],
-    "stats": "今日共15条情报，技术基建与工程化类9条，产品模式与工具生态类6条。"
+    "stats": "今日共15条情报，技术能力4条，工具生态7条，产品模式4条。"
   }
 }
