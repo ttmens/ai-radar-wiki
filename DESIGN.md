@@ -1,7 +1,7 @@
 # AI Radar 系统设计文档 (System Design Document)
 
-> **版本**: v3.2.0  
-> **最后更新**: 2026-05-07  
+> **版本**: v3.3.0  
+> **最后更新**: 2026-05-07 18:47  
 > **维护者**: Hermes Agent  
 > **在线地址**: https://ttmens.github.io/ai-radar-wiki/graph.html
 
