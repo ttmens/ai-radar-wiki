@@ -183,7 +183,204 @@
       ]
     }
   ],
-  "edges": [],
+  "edges": [
+    {
+      "source": "openseeker-v2-pushing-the-limits-of-sea",
+      "target": "redefining-ai-red-teaming-in-the-agentic",
+      "relation": "shared:agent",
+      "type": "INFERRED",
+      "evidence": "keyword:agent"
+    },
+    {
+      "source": "openseeker-v2-pushing-the-limits-of-sea",
+      "target": "symptomai-towards-a-conversational-ai-a",
+      "relation": "shared:agent",
+      "type": "INFERRED",
+      "evidence": "keyword:agent"
+    },
+    {
+      "source": "openseeker-v2-pushing-the-limits-of-sea",
+      "target": "physics-grounded-multi-agent-architectur",
+      "relation": "shared:agent",
+      "type": "INFERRED",
+      "evidence": "keyword:agent"
+    },
+    {
+      "source": "openseeker-v2-pushing-the-limits-of-sea",
+      "target": "an-agent-oriented-pluggable-experience-r",
+      "relation": "shared:agent",
+      "type": "INFERRED",
+      "evidence": "keyword:agent"
+    },
+    {
+      "source": "openseeker-v2-pushing-the-limits-of-sea",
+      "target": "from-intent-to-execution-composing-agen",
+      "relation": "shared:agent",
+      "type": "INFERRED",
+      "evidence": "keyword:agent"
+    },
+    {
+      "source": "redefining-ai-red-teaming-in-the-agentic",
+      "target": "symptomai-towards-a-conversational-ai-a",
+      "relation": "shared:agent",
+      "type": "INFERRED",
+      "evidence": "keyword:agent"
+    },
+    {
+      "source": "redefining-ai-red-teaming-in-the-agentic",
+      "target": "physics-grounded-multi-agent-architectur",
+      "relation": "shared:agent",
+      "type": "INFERRED",
+      "evidence": "keyword:agent"
+    },
+    {
+      "source": "redefining-ai-red-teaming-in-the-agentic",
+      "target": "an-agent-oriented-pluggable-experience-r",
+      "relation": "shared:agent",
+      "type": "INFERRED",
+      "evidence": "keyword:agent"
+    },
+    {
+      "source": "redefining-ai-red-teaming-in-the-agentic",
+      "target": "from-intent-to-execution-composing-agen",
+      "relation": "shared:agent",
+      "type": "INFERRED",
+      "evidence": "keyword:agent"
+    },
+    {
+      "source": "symptomai-towards-a-conversational-ai-a",
+      "target": "physics-grounded-multi-agent-architectur",
+      "relation": "shared:agent",
+      "type": "INFERRED",
+      "evidence": "keyword:agent"
+    },
+    {
+      "source": "symptomai-towards-a-conversational-ai-a",
+      "target": "an-agent-oriented-pluggable-experience-r",
+      "relation": "shared:agent",
+      "type": "INFERRED",
+      "evidence": "keyword:agent"
+    },
+    {
+      "source": "symptomai-towards-a-conversational-ai-a",
+      "target": "from-intent-to-execution-composing-agen",
+      "relation": "shared:agent",
+      "type": "INFERRED",
+      "evidence": "keyword:agent"
+    },
+    {
+      "source": "physics-grounded-multi-agent-architectur",
+      "target": "an-agent-oriented-pluggable-experience-r",
+      "relation": "shared:agent",
+      "type": "INFERRED",
+      "evidence": "keyword:agent"
+    },
+    {
+      "source": "physics-grounded-multi-agent-architectur",
+      "target": "from-intent-to-execution-composing-agen",
+      "relation": "shared:agent",
+      "type": "INFERRED",
+      "evidence": "keyword:agent"
+    },
+    {
+      "source": "an-agent-oriented-pluggable-experience-r",
+      "target": "from-intent-to-execution-composing-agen",
+      "relation": "shared:agent",
+      "type": "INFERRED",
+      "evidence": "keyword:agent"
+    },
+    {
+      "source": "conditional-diffusion-sampling",
+      "target": "flow-sampling-learning-to-sample-from-u",
+      "relation": "shared:sampling",
+      "type": "INFERRED",
+      "evidence": "keyword:sampling"
+    },
+    {
+      "source": "large-scale-high-quality-3d-gaussian-hea",
+      "target": "enhanced-3d-brain-tumor-segmentation-usi",
+      "relation": "shared:3d",
+      "type": "INFERRED",
+      "evidence": "keyword:3d"
+    },
+    {
+      "source": "safety-and-accuracy-follow-different-sca",
+      "target": "redefining-ai-red-teaming-in-the-agentic",
+      "relation": "shared:security",
+      "type": "INFERRED",
+      "evidence": "keyword:security"
+    },
+    {
+      "source": "safety-and-accuracy-follow-different-sca",
+      "target": "physics-grounded-multi-agent-architectur",
+      "relation": "shared:security",
+      "type": "INFERRED",
+      "evidence": "keyword:security"
+    },
+    {
+      "source": "a-closed-form-adaptive-landmark-kernel-f",
+      "target": "safety-and-accuracy-follow-different-sca",
+      "relation": "co-crawled",
+      "type": "INFERRED",
+      "evidence": "same-run"
+    },
+    {
+      "source": "safety-and-accuracy-follow-different-sca",
+      "target": "openseeker-v2-pushing-the-limits-of-sea",
+      "relation": "co-crawled",
+      "type": "INFERRED",
+      "evidence": "same-run"
+    },
+    {
+      "source": "openseeker-v2-pushing-the-limits-of-sea",
+      "target": "large-scale-high-quality-3d-gaussian-hea",
+      "relation": "co-crawled",
+      "type": "INFERRED",
+      "evidence": "same-run"
+    },
+    {
+      "source": "large-scale-high-quality-3d-gaussian-hea",
+      "target": "redefining-ai-red-teaming-in-the-agentic",
+      "relation": "co-crawled",
+      "type": "INFERRED",
+      "evidence": "same-run"
+    },
+    {
+      "source": "redefining-ai-red-teaming-in-the-agentic",
+      "target": "conditional-diffusion-sampling",
+      "relation": "co-crawled",
+      "type": "INFERRED",
+      "evidence": "same-run"
+    },
+    {
+      "source": "conditional-diffusion-sampling",
+      "target": "symptomai-towards-a-conversational-ai-a",
+      "relation": "co-crawled",
+      "type": "INFERRED",
+      "evidence": "same-run"
+    },
+    {
+      "source": "symptomai-towards-a-conversational-ai-a",
+      "target": "enhanced-3d-brain-tumor-segmentation-usi",
+      "relation": "co-crawled",
+      "type": "INFERRED",
+      "evidence": "same-run"
+    },
+    {
+      "source": "enhanced-3d-brain-tumor-segmentation-usi",
+      "target": "physics-grounded-multi-agent-architectur",
+      "relation": "co-crawled",
+      "type": "INFERRED",
+      "evidence": "same-run"
+    },
+    {
+      "source": "from-intent-to-execution-composing-agen",
+      "target": "flow-sampling-learning-to-sample-from-u",
+      "relation": "co-crawled",
+      "type": "INFERRED",
+      "evidence": "same-run"
+    }
+  ],
   "generated_at": "2026-05-07T10:05:58.776540",
   "generator": "ai-radar-explorer-v2"
 }
