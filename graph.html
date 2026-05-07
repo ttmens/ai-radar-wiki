@@ -5,83 +5,43 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AI Radar Knowledge Graph</title>
 <meta name="description" content="AI Radar Wiki — Automated knowledge base for AI product managers. 4-pillar system with interactive graph.">
-<meta property="og:type" content="website">
-<meta property="og:title" content="AI Radar Knowledge Graph">
-<meta property="og:url" content="https://ttmens.github.io/ai-radar-wiki/graph.html">
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body { background: #0d1117; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; overflow: hidden; }
   
-  /* Header */
-  #header { position: absolute; top: 0; left: 0; right: 0; height: 56px; padding: 0 20px; background: rgba(13,17,23,0.95); backdrop-filter: blur(10px); z-index: 10; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #21262d; }
+  #header { position: absolute; top: 0; left: 0; right: 0; height: 56px; padding: 0 20px; background: rgba(13,17,23,0.95); backdrop-filter: blur(10px); z-index: 20; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #21262d; }
   #header h1 { font-size: 18px; color: #58a6ff; font-weight: 700; display: flex; align-items: center; gap: 8px; }
   #stats span { background: #21262d; padding: 3px 10px; border-radius: 12px; font-size: 12px; margin-left: 8px; font-family: monospace; }
   
-  /* Network Container */
   #mynetwork { width: 100%; height: 100vh; }
   
-  /* Legend */
   #legend { position: absolute; bottom: 20px; left: 20px; z-index: 10; background: rgba(13,17,23,0.9); padding: 12px; border-radius: 8px; font-size: 12px; border: 1px solid #21262d; backdrop-filter: blur(8px); }
   .legend-item { display: flex; align-items: center; gap: 10px; margin: 5px 0; }
   .dot { width: 12px; height: 12px; border-radius: 50%; }
   
-  /* Dashboard / Today's Digest */
+  /* Dashboard - Default Visible */
   #dashboard {
-    position: absolute; top: 64px; left: 20px; width: 280px; max-height: calc(100vh - 100px); overflow-y: auto;
-    background: rgba(13,17,23,0.95); border: 1px solid #21262d; border-radius: 8px;
-    padding: 16px; z-index: 10; backdrop-filter: blur(10px); display: none;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    position: absolute; top: 64px; left: 20px; width: 300px; max-height: calc(100vh - 100px); overflow-y: auto;
+    background: #0d1117; border: 1px solid #30363d; border-radius: 8px;
+    padding: 16px; z-index: 15; box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+    transition: opacity 0.3s ease;
   }
-  #dashboard.visible { display: block; }
-  .dash-title { font-size: 14px; font-weight: 700; color: #58a6ff; margin-bottom: 12px; display: flex; align-items: center; gap: 6px; cursor: pointer; }
-  .dash-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 12px; }
-  .dash-stat { background: #161b22; padding: 8px; border-radius: 6px; text-align: center; font-size: 12px; }
+  #dashboard.hidden { display: none; }
+  
+  .dash-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; border-bottom: 1px solid #21262d; padding-bottom: 8px; }
+  .dash-title { font-size: 14px; font-weight: 700; color: #58a6ff; cursor: default; }
+  .dash-toggle { background: #21262d; border: 1px solid #30363d; color: #c9d1d9; padding: 4px 8px; border-radius: 4px; cursor: pointer; font-size: 11px; }
+  .dash-toggle:hover { background: #30363d; color: #fff; }
+  
+  .dash-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 16px; }
+  .dash-stat { background: #161b22; padding: 8px; border-radius: 6px; text-align: center; }
   .dash-stat .val { font-size: 16px; font-weight: 700; color: #c9d1d9; }
-  .dash-stat .label { color: #8b949e; margin-top: 2px; }
-  .dash-item { background: #161b22; padding: 10px; border-radius: 6px; margin-bottom: 8px; border-left: 3px solid #58a6ff; }
-  .dash-item h4 { font-size: 13px; color: #c9d1d9; margin-bottom: 4px; line-height: 1.4; }
-  .dash-item .meta { font-size: 11px; color: #8b949e; margin-bottom: 4px; }
-  .dash-item p { font-size: 12px; color: #8b949e; line-height: 1.5; margin: 0; }
-  .dash-item a { color: #58a6ff; text-decoration: none; font-size: 11px; }
+  .dash-stat .label { font-size: 10px; color: #8b949e; margin-top: 2px; }
   
-  /* Detail Panel */
-  #detail-panel {
-    position: absolute; top: 0; right: -420px; width: 400px; height: 100%; background: #0d1117;
-    border-left: 1px solid #30363d; z-index: 20; transition: right 0.3s ease; overflow-y: auto;
-    box-shadow: -5px 0 30px rgba(0,0,0,0.5); display: flex; flex-direction: column;
-  }
-  #detail-panel.active { right: 0; }
-  
-  .panel-header { padding: 20px; border-bottom: 1px solid #21262d; background: #161b22; }
-  .panel-header h2 { color: #58a6ff; font-size: 16px; line-height: 1.4; margin-bottom: 8px; }
-  .panel-close { background: none; border: none; color: #8b949e; font-size: 24px; cursor: pointer; position: absolute; top: 15px; right: 20px; }
-  .panel-close:hover { color: #fff; }
-  
-  .panel-body { padding: 20px; flex: 1; }
-  .panel-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
-  .panel-tag { background: #21262d; padding: 3px 10px; border-radius: 12px; font-size: 11px; color: #58a6ff; border: 1px solid #30363d; }
-  .panel-tag.pillar { background: #1a3a2a; color: #3fb950; border-color: #238636; }
-  .panel-tag.score { background: #3a2a1a; color: #f0883e; border-color: #bd5000; }
-  .panel-tag.date { background: #21262d; color: #c9d1d9; border-color: #30363d; }
-  
-  .panel-metrics { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 16px; }
-  .metric { background: #21262d; padding: 12px; border-radius: 8px; text-align: center; }
-  .metric-value { font-size: 20px; font-weight: 700; color: #58a6ff; }
-  .metric-label { font-size: 11px; color: #8b949e; margin-top: 4px; }
-  
-  .panel-section { margin-bottom: 16px; }
-  .panel-section h3 { font-size: 13px; color: #8b949e; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px; }
-  .panel-section p { font-size: 14px; line-height: 1.6; color: #c9d1d9; }
-  
-  .panel-actions { padding: 16px 20px; border-top: 1px solid #21262d; background: #161b22; }
-  .panel-btn { display: block; width: 100%; padding: 12px; border-radius: 6px; border: 1px solid #30363d; background: #21262d; color: #c9d1d9; cursor: pointer; font-size: 14px; text-decoration: none; text-align: center; font-weight: 500; margin-bottom: 8px; }
-  .panel-btn:last-child { margin-bottom: 0; }
-  .panel-btn:hover { background: #30363d; }
-  .panel-btn.primary { background: #238636; border-color: #2ea043; color: #fff; }
-  .panel-btn.primary:hover { background: #2ea043; }
+  .dash-item { background: #161b22; padding: 10px; border-radius: 6px; margin-bottom: 10px; border-left: 3px solid #58a6ff; transition: transform 0.2s; }
+  .dash-item:hover { transform: translateX(2px); background: #1c2128; }
   
   #loading { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #58a6ff; font-size: 18px; z-index: 20; }
-  #toggle-dash { position: absolute; top: 64px; left: 20px; z-index: 15; background: #21262d; border: 1px solid #30363d; color: #58a6ff; padding: 8px 12px; border-radius: 6px; cursor: pointer; font-size: 12px; }
 </style>
 </head>
 <body>
@@ -93,18 +53,114 @@
     </div>
   </div>
   
-  <button id="toggle-dash" onclick="toggleDashboard()">📅 今日摘要</button>
-  
+  <!-- Dashboard -->
   <div id="dashboard">
-    <div class="dash-title" onclick="toggleDashboard()">📅 今日摘要 · <span id="dash-date">--</span></div>
+    <div class="dash-header">
+      <div class="dash-title">📅 今日摘要</div>
+      <button class="dash-toggle" onclick="toggleDashboard()">收起 ▲</button>
+    </div>
+    
     <div class="dash-stats">
       <div class="dash-stat"><div class="val" id="dash-total">0</div><div class="label">新增</div></div>
-      <div class="dash-stat"><div class="val" id="dash-cap">0</div><div class="label">技术能力</div></div>
-      <div class="dash-stat"><div class="val" id="dash-pat">0</div><div class="label">产品模式</div></div>
-      <div class="dash-stat"><div class="val" id="dash-eco">0</div><div class="label">工具生态</div></div>
+      <div class="dash-stat"><div class="val" id="dash-cap">0</div><div class="label">技术</div></div>
+      <div class="dash-stat"><div class="val" id="dash-pat">0</div><div class="label">产品</div></div>
+      <div class="dash-stat"><div class="val" id="dash-eco">0</div><div class="label">生态</div></div>
     </div>
-    <h3 style="font-size: 13px; color: #8b949e; margin-bottom: 8px;">🔥 今日高价值</h3>
-    <div id="dash-top-list"></div>
+    
+    <div style="font-size: 12px; color: #8b949e; margin-bottom: 8px; font-weight: 600;">🔥 高价值情报 Top 10</div>
+    <div id="dash-top-list">
+      
+        <div class="dash-item" style="border-left-color: #a371f7">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
+            <h4 style="flex:1; font-size:12px; color:#c9d1d9; margin:0;">Show HN: Explore color palettes inspired by 3000 master pain</h4>
+            <span style="font-size:10px; color:#8b949e; background:#21262d; padding:2px 6px; border-radius:4px;">0.45</span>
+          </div>
+          <div style="font-size:11px; color:#8b949e; margin-bottom:4px;">🔧 生态</div>
+          <p style="font-size:12px; color:#8b949e; line-height:1.4; margin:0;">暂无摘要</p>
+          <a href="https://paletteinspiration.com/" target="_blank" style="display:inline-block; margin-top:6px; color:#58a6ff; font-size:11px; text-decoration:none;">查看原文 ↗</a>
+        </div>
+        <div class="dash-item" style="border-left-color: #58a6ff">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
+            <h4 style="flex:1; font-size:12px; color:#c9d1d9; margin:0;">Estimating the expected output of wide random MLPs more effi</h4>
+            <span style="font-size:10px; color:#8b949e; background:#21262d; padding:2px 6px; border-radius:4px;">0.45</span>
+          </div>
+          <div style="font-size:11px; color:#8b949e; margin-bottom:4px;">🤖 技术</div>
+          <p style="font-size:12px; color:#8b949e; line-height:1.4; margin:0;">By far the most common way to estimate an expected loss in machine learning is to draw samples, compute the loss on each one, and take the empirical a</p>
+          
+        </div>
+        <div class="dash-item" style="border-left-color: #58a6ff">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
+            <h4 style="flex:1; font-size:12px; color:#c9d1d9; margin:0;">When Life Gives You BC, Make Q-functions: Extracting Q-value</h4>
+            <span style="font-size:10px; color:#8b949e; background:#21262d; padding:2px 6px; border-radius:4px;">0.45</span>
+          </div>
+          <div style="font-size:11px; color:#8b949e; margin-bottom:4px;">🤖 技术</div>
+          <p style="font-size:12px; color:#8b949e; line-height:1.4; margin:0;">Behavior Cloning (BC) has emerged as a highly effective paradigm for robot learning. However, BC lacks a self-guided mechanism for online improvement </p>
+          
+        </div>
+        <div class="dash-item" style="border-left-color: #3fb950">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
+            <h4 style="flex:1; font-size:12px; color:#c9d1d9; margin:0;">Geometry-Aware State Space Model: A New Paradigm for Whole-S</h4>
+            <span style="font-size:10px; color:#8b949e; background:#21262d; padding:2px 6px; border-radius:4px;">0.45</span>
+          </div>
+          <div style="font-size:11px; color:#8b949e; margin-bottom:4px;">📱 模式</div>
+          <p style="font-size:12px; color:#8b949e; line-height:1.4; margin:0;">Accurate analysis of histopathological images is critical for disease diagnosis and treatment planning. Whole-slide images (WSIs), which digitize tiss</p>
+          
+        </div>
+        <div class="dash-item" style="border-left-color: #58a6ff">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
+            <h4 style="flex:1; font-size:12px; color:#c9d1d9; margin:0;">Understanding In-Context Learning for Nonlinear Regression w</h4>
+            <span style="font-size:10px; color:#8b949e; background:#21262d; padding:2px 6px; border-radius:4px;">0.45</span>
+          </div>
+          <div style="font-size:11px; color:#8b949e; margin-bottom:4px;">🤖 技术</div>
+          <p style="font-size:12px; color:#8b949e; line-height:1.4; margin:0;">Pre-trained transformers are able to learn from examples provided as part of the prompt without any weight updates, a remarkable ability known as in-c</p>
+          
+        </div>
+        <div class="dash-item" style="border-left-color: #58a6ff">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
+            <h4 style="flex:1; font-size:12px; color:#c9d1d9; margin:0;">Taming Outlier Tokens in Diffusion Transformers</h4>
+            <span style="font-size:10px; color:#8b949e; background:#21262d; padding:2px 6px; border-radius:4px;">0.45</span>
+          </div>
+          <div style="font-size:11px; color:#8b949e; margin-bottom:4px;">🤖 技术</div>
+          <p style="font-size:12px; color:#8b949e; line-height:1.4; margin:0;">We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a smal</p>
+          
+        </div>
+        <div class="dash-item" style="border-left-color: #3fb950">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
+            <h4 style="flex:1; font-size:12px; color:#c9d1d9; margin:0;">Design Conductor 2.0: An agent builds a TurboQuant inference</h4>
+            <span style="font-size:10px; color:#8b949e; background:#21262d; padding:2px 6px; border-radius:4px;">0.45</span>
+          </div>
+          <div style="font-size:11px; color:#8b949e; margin-bottom:4px;">📱 模式</div>
+          <p style="font-size:12px; color:#8b949e; line-height:1.4; margin:0;">Driven by a rapid co-evolution of both harness and underlying models, LLM agents are improving at a dizzying pace. In our prior work (performed in Dec</p>
+          
+        </div>
+        <div class="dash-item" style="border-left-color: #58a6ff">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
+            <h4 style="flex:1; font-size:12px; color:#c9d1d9; margin:0;">PSK at SemEval-2026 Task 9: Multilingual Polarization Detect</h4>
+            <span style="font-size:10px; color:#8b949e; background:#21262d; padding:2px 6px; border-radius:4px;">0.45</span>
+          </div>
+          <div style="font-size:11px; color:#8b949e; margin-bottom:4px;">🤖 技术</div>
+          <p style="font-size:12px; color:#8b949e; line-height:1.4; margin:0;">We present our system for SemEval-2026 Task 9: Multilingual Polarization Detection, a binary classification task spanning 22 languages. Our approach f</p>
+          
+        </div>
+        <div class="dash-item" style="border-left-color: #3fb950">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
+            <h4 style="flex:1; font-size:12px; color:#c9d1d9; margin:0;">Sharp Capacity Thresholds in Linear Associative Memory: From</h4>
+            <span style="font-size:10px; color:#8b949e; background:#21262d; padding:2px 6px; border-radius:4px;">0.45</span>
+          </div>
+          <div style="font-size:11px; color:#8b949e; margin-bottom:4px;">📱 模式</div>
+          <p style="font-size:12px; color:#8b949e; line-height:1.4; margin:0;">How many key-value associations can a $d\times d$ linear memory store? We show that the answer depends not only on the $d^2$ degrees of freedom in the</p>
+          
+        </div>
+        <div class="dash-item" style="border-left-color: #58a6ff">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
+            <h4 style="flex:1; font-size:12px; color:#c9d1d9; margin:0;">The First Token Knows: Single-Decode Confidence for Hallucin</h4>
+            <span style="font-size:10px; color:#8b949e; background:#21262d; padding:2px 6px; border-radius:4px;">0.45</span>
+          </div>
+          <div style="font-size:11px; color:#8b949e; margin-bottom:4px;">🤖 技术</div>
+          <p style="font-size:12px; color:#8b949e; line-height:1.4; margin:0;">Self-consistency detects hallucinations by generating multiple sampled answers to a question and measuring agreement, but this requires repeated decod</p>
+          
+        </div>
+    </div>
   </div>
 
   <div id="mynetwork"><div id="loading">Loading Graph...</div></div>
@@ -133,39 +189,25 @@
   <script>
     const pillarLabels = { 'capabilities': '🤖 技术能力', 'patterns': '📱 产品模式', 'ecosystem': '🔧 工具生态', 'business': '💰 商业趋势', 'unknown': '未分类' };
     const pillarColors = { 'capabilities': '#58a6ff', 'patterns': '#3fb950', 'ecosystem': '#a371f7', 'business': '#f0883e', 'unknown': '#8b949e' };
-    const todaySummary = {"date": "2026-05-07", "total_new": 45, "pillars": {"capabilities": 9, "patterns": 14, "ecosystem": 3, "business": 19}, "top_nodes": [{"label": "Show HN: Explore color palettes inspired by 3000 master painter artworks", "pillar": "ecosystem", "pm_score": 0.45, "summary": "", "url": "https://paletteinspiration.com/"}, {"label": "Estimating the expected output of wide random MLPs more efficiently than samplin", "pillar": "capabilities", "pm_score": 0.45, "summary": "By far the most common way to estimate an expected loss in machine learning is to draw samples, comp", "url": ""}, {"label": "When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Clon", "pillar": "capabilities", "pm_score": 0.45, "summary": "Behavior Cloning (BC) has emerged as a highly effective paradigm for robot learning. However, BC lac", "url": ""}, {"label": "Geometry-Aware State Space Model: A New Paradigm for Whole-Slide Image Represent", "pillar": "patterns", "pm_score": 0.45, "summary": "Accurate analysis of histopathological images is critical for disease diagnosis and treatment planni", "url": ""}, {"label": "Understanding In-Context Learning for Nonlinear Regression with Transformers: At", "pillar": "capabilities", "pm_score": 0.45, "summary": "Pre-trained transformers are able to learn from examples provided as part of the prompt without any ", "url": ""}]};
     let network, graphData;
     
-    // Init Dashboard
-    function initDashboard() {
-      document.getElementById('dash-date').textContent = todaySummary.date;
-      document.getElementById('dash-total').textContent = todaySummary.total_new;
-      document.getElementById('dash-cap').textContent = todaySummary.pillars.capabilities || 0;
-      document.getElementById('dash-pat').textContent = todaySummary.pillars.patterns || 0;
-      document.getElementById('dash-eco').textContent = todaySummary.pillars.ecosystem || 0;
-      document.getElementById('dash-business').textContent = todaySummary.pillars.business || 0;
-      
-      var list = document.getElementById('dash-top-list');
-      if (todaySummary.top_nodes.length === 0) {
-        list.innerHTML = '<div style="color: #8b949e; font-size: 12px;">今日暂无新数据</div>';
-      } else {
-        list.innerHTML = todaySummary.top_nodes.map(function(n) {
-          return '<div class="dash-item" style="border-left-color: ' + (pillarColors[n.pillar] || '#8b949e') + '">' +
-                 '<h4>' + n.label + '</h4>' +
-                 '<div class="meta">' + (pillarLabels[n.pillar] || n.pillar) + ' · 🎯 ' + n.pm_score + '</div>' +
-                 '<p>' + n.summary + '</p>' +
-                 (n.url ? '<a href="' + n.url + '" target="_blank">查看原文 ↗</a>' : '') +
-                 '</div>';
-        }).join('');
-      }
-    }
-    
     function toggleDashboard() {
-      document.getElementById('dashboard').classList.toggle('visible');
+      const dash = document.getElementById('dashboard');
+      const btn = dash.querySelector('.dash-toggle');
+      if (dash.classList.contains('hidden')) {
+        dash.classList.remove('hidden');
+        btn.textContent = '收起 ▲';
+      } else {
+        dash.classList.add('hidden');
+        btn.textContent = '展开 ▼';
+      }
     }
 
     function loadGraphData() {
-      fetch('./graph.json?' + Date.now()).then(r => r.json()).then(renderGraph).catch(err => { document.getElementById('loading').innerHTML = '加载失败: ' + err.message; });
+      fetch('./graph.json?' + Date.now())
+        .then(r => r.json())
+        .then(renderGraph)
+        .catch(err => { document.getElementById('loading').innerHTML = '加载失败: ' + err.message; console.error(err); });
     }
     
     function renderGraph(data) {
@@ -173,17 +215,33 @@
       document.getElementById('node-count').textContent = '节点: ' + data.nodes.length;
       document.getElementById('edge-count').textContent = '关联: ' + data.edges.length;
       document.getElementById('loading').style.display = 'none';
-      initDashboard();
+      
+      // Update dashboard stats
+      document.getElementById('dash-total').textContent = {"date": "2026-05-07", "total_new": 45, "pillars": {"capabilities": 9, "patterns": 14, "ecosystem": 3, "business": 19}, "top_nodes": [{"label": "Show HN: Explore color palettes inspired by 3000 master painter artworks", "pillar": "ecosystem", "pm_score": 0.45, "summary": "暂无摘要", "url": "https://paletteinspiration.com/"}, {"label": "Estimating the expected output of wide random MLPs more efficiently than samplin", "pillar": "capabilities", "pm_score": 0.45, "summary": "By far the most common way to estimate an expected loss in machine learning is to draw samples, compute the loss on each one, and take the empirical a", "url": ""}, {"label": "When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Clon", "pillar": "capabilities", "pm_score": 0.45, "summary": "Behavior Cloning (BC) has emerged as a highly effective paradigm for robot learning. However, BC lacks a self-guided mechanism for online improvement ", "url": ""}, {"label": "Geometry-Aware State Space Model: A New Paradigm for Whole-Slide Image Represent", "pillar": "patterns", "pm_score": 0.45, "summary": "Accurate analysis of histopathological images is critical for disease diagnosis and treatment planning. Whole-slide images (WSIs), which digitize tiss", "url": ""}, {"label": "Understanding In-Context Learning for Nonlinear Regression with Transformers: At", "pillar": "capabilities", "pm_score": 0.45, "summary": "Pre-trained transformers are able to learn from examples provided as part of the prompt without any weight updates, a remarkable ability known as in-c", "url": ""}, {"label": "Taming Outlier Tokens in Diffusion Transformers", "pillar": "capabilities", "pm_score": 0.45, "summary": "We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a smal", "url": ""}, {"label": "Design Conductor 2.0: An agent builds a TurboQuant inference accelerator in 80 h", "pillar": "patterns", "pm_score": 0.45, "summary": "Driven by a rapid co-evolution of both harness and underlying models, LLM agents are improving at a dizzying pace. In our prior work (performed in Dec", "url": ""}, {"label": "PSK at SemEval-2026 Task 9: Multilingual Polarization Detection Using Ensemble G", "pillar": "capabilities", "pm_score": 0.45, "summary": "We present our system for SemEval-2026 Task 9: Multilingual Polarization Detection, a binary classification task spanning 22 languages. Our approach f", "url": ""}, {"label": "Sharp Capacity Thresholds in Linear Associative Memory: From Winner-Take-All to", "pillar": "patterns", "pm_score": 0.45, "summary": "How many key-value associations can a $d\\times d$ linear memory store? We show that the answer depends not only on the $d^2$ degrees of freedom in the", "url": ""}, {"label": "The First Token Knows: Single-Decode Confidence for Hallucination Detection", "pillar": "capabilities", "pm_score": 0.45, "summary": "Self-consistency detects hallucinations by generating multiple sampled answers to a question and measuring agreement, but this requires repeated decod", "url": ""}]}.total_new;
+      var caps = {"date": "2026-05-07", "total_new": 45, "pillars": {"capabilities": 9, "patterns": 14, "ecosystem": 3, "business": 19}, "top_nodes": [{"label": "Show HN: Explore color palettes inspired by 3000 master painter artworks", "pillar": "ecosystem", "pm_score": 0.45, "summary": "暂无摘要", "url": "https://paletteinspiration.com/"}, {"label": "Estimating the expected output of wide random MLPs more efficiently than samplin", "pillar": "capabilities", "pm_score": 0.45, "summary": "By far the most common way to estimate an expected loss in machine learning is to draw samples, compute the loss on each one, and take the empirical a", "url": ""}, {"label": "When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Clon", "pillar": "capabilities", "pm_score": 0.45, "summary": "Behavior Cloning (BC) has emerged as a highly effective paradigm for robot learning. However, BC lacks a self-guided mechanism for online improvement ", "url": ""}, {"label": "Geometry-Aware State Space Model: A New Paradigm for Whole-Slide Image Represent", "pillar": "patterns", "pm_score": 0.45, "summary": "Accurate analysis of histopathological images is critical for disease diagnosis and treatment planning. Whole-slide images (WSIs), which digitize tiss", "url": ""}, {"label": "Understanding In-Context Learning for Nonlinear Regression with Transformers: At", "pillar": "capabilities", "pm_score": 0.45, "summary": "Pre-trained transformers are able to learn from examples provided as part of the prompt without any weight updates, a remarkable ability known as in-c", "url": ""}, {"label": "Taming Outlier Tokens in Diffusion Transformers", "pillar": "capabilities", "pm_score": 0.45, "summary": "We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a smal", "url": ""}, {"label": "Design Conductor 2.0: An agent builds a TurboQuant inference accelerator in 80 h", "pillar": "patterns", "pm_score": 0.45, "summary": "Driven by a rapid co-evolution of both harness and underlying models, LLM agents are improving at a dizzying pace. In our prior work (performed in Dec", "url": ""}, {"label": "PSK at SemEval-2026 Task 9: Multilingual Polarization Detection Using Ensemble G", "pillar": "capabilities", "pm_score": 0.45, "summary": "We present our system for SemEval-2026 Task 9: Multilingual Polarization Detection, a binary classification task spanning 22 languages. Our approach f", "url": ""}, {"label": "Sharp Capacity Thresholds in Linear Associative Memory: From Winner-Take-All to", "pillar": "patterns", "pm_score": 0.45, "summary": "How many key-value associations can a $d\\times d$ linear memory store? We show that the answer depends not only on the $d^2$ degrees of freedom in the", "url": ""}, {"label": "The First Token Knows: Single-Decode Confidence for Hallucination Detection", "pillar": "capabilities", "pm_score": 0.45, "summary": "Self-consistency detects hallucinations by generating multiple sampled answers to a question and measuring agreement, but this requires repeated decod", "url": ""}]}.pillars.capabilities || 0;
+      var pats = {"date": "2026-05-07", "total_new": 45, "pillars": {"capabilities": 9, "patterns": 14, "ecosystem": 3, "business": 19}, "top_nodes": [{"label": "Show HN: Explore color palettes inspired by 3000 master painter artworks", "pillar": "ecosystem", "pm_score": 0.45, "summary": "暂无摘要", "url": "https://paletteinspiration.com/"}, {"label": "Estimating the expected output of wide random MLPs more efficiently than samplin", "pillar": "capabilities", "pm_score": 0.45, "summary": "By far the most common way to estimate an expected loss in machine learning is to draw samples, compute the loss on each one, and take the empirical a", "url": ""}, {"label": "When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Clon", "pillar": "capabilities", "pm_score": 0.45, "summary": "Behavior Cloning (BC) has emerged as a highly effective paradigm for robot learning. However, BC lacks a self-guided mechanism for online improvement ", "url": ""}, {"label": "Geometry-Aware State Space Model: A New Paradigm for Whole-Slide Image Represent", "pillar": "patterns", "pm_score": 0.45, "summary": "Accurate analysis of histopathological images is critical for disease diagnosis and treatment planning. Whole-slide images (WSIs), which digitize tiss", "url": ""}, {"label": "Understanding In-Context Learning for Nonlinear Regression with Transformers: At", "pillar": "capabilities", "pm_score": 0.45, "summary": "Pre-trained transformers are able to learn from examples provided as part of the prompt without any weight updates, a remarkable ability known as in-c", "url": ""}, {"label": "Taming Outlier Tokens in Diffusion Transformers", "pillar": "capabilities", "pm_score": 0.45, "summary": "We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a smal", "url": ""}, {"label": "Design Conductor 2.0: An agent builds a TurboQuant inference accelerator in 80 h", "pillar": "patterns", "pm_score": 0.45, "summary": "Driven by a rapid co-evolution of both harness and underlying models, LLM agents are improving at a dizzying pace. In our prior work (performed in Dec", "url": ""}, {"label": "PSK at SemEval-2026 Task 9: Multilingual Polarization Detection Using Ensemble G", "pillar": "capabilities", "pm_score": 0.45, "summary": "We present our system for SemEval-2026 Task 9: Multilingual Polarization Detection, a binary classification task spanning 22 languages. Our approach f", "url": ""}, {"label": "Sharp Capacity Thresholds in Linear Associative Memory: From Winner-Take-All to", "pillar": "patterns", "pm_score": 0.45, "summary": "How many key-value associations can a $d\\times d$ linear memory store? We show that the answer depends not only on the $d^2$ degrees of freedom in the", "url": ""}, {"label": "The First Token Knows: Single-Decode Confidence for Hallucination Detection", "pillar": "capabilities", "pm_score": 0.45, "summary": "Self-consistency detects hallucinations by generating multiple sampled answers to a question and measuring agreement, but this requires repeated decod", "url": ""}]}.pillars.patterns || 0;
+      var ecos = {"date": "2026-05-07", "total_new": 45, "pillars": {"capabilities": 9, "patterns": 14, "ecosystem": 3, "business": 19}, "top_nodes": [{"label": "Show HN: Explore color palettes inspired by 3000 master painter artworks", "pillar": "ecosystem", "pm_score": 0.45, "summary": "暂无摘要", "url": "https://paletteinspiration.com/"}, {"label": "Estimating the expected output of wide random MLPs more efficiently than samplin", "pillar": "capabilities", "pm_score": 0.45, "summary": "By far the most common way to estimate an expected loss in machine learning is to draw samples, compute the loss on each one, and take the empirical a", "url": ""}, {"label": "When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Clon", "pillar": "capabilities", "pm_score": 0.45, "summary": "Behavior Cloning (BC) has emerged as a highly effective paradigm for robot learning. However, BC lacks a self-guided mechanism for online improvement ", "url": ""}, {"label": "Geometry-Aware State Space Model: A New Paradigm for Whole-Slide Image Represent", "pillar": "patterns", "pm_score": 0.45, "summary": "Accurate analysis of histopathological images is critical for disease diagnosis and treatment planning. Whole-slide images (WSIs), which digitize tiss", "url": ""}, {"label": "Understanding In-Context Learning for Nonlinear Regression with Transformers: At", "pillar": "capabilities", "pm_score": 0.45, "summary": "Pre-trained transformers are able to learn from examples provided as part of the prompt without any weight updates, a remarkable ability known as in-c", "url": ""}, {"label": "Taming Outlier Tokens in Diffusion Transformers", "pillar": "capabilities", "pm_score": 0.45, "summary": "We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a smal", "url": ""}, {"label": "Design Conductor 2.0: An agent builds a TurboQuant inference accelerator in 80 h", "pillar": "patterns", "pm_score": 0.45, "summary": "Driven by a rapid co-evolution of both harness and underlying models, LLM agents are improving at a dizzying pace. In our prior work (performed in Dec", "url": ""}, {"label": "PSK at SemEval-2026 Task 9: Multilingual Polarization Detection Using Ensemble G", "pillar": "capabilities", "pm_score": 0.45, "summary": "We present our system for SemEval-2026 Task 9: Multilingual Polarization Detection, a binary classification task spanning 22 languages. Our approach f", "url": ""}, {"label": "Sharp Capacity Thresholds in Linear Associative Memory: From Winner-Take-All to", "pillar": "patterns", "pm_score": 0.45, "summary": "How many key-value associations can a $d\\times d$ linear memory store? We show that the answer depends not only on the $d^2$ degrees of freedom in the", "url": ""}, {"label": "The First Token Knows: Single-Decode Confidence for Hallucination Detection", "pillar": "capabilities", "pm_score": 0.45, "summary": "Self-consistency detects hallucinations by generating multiple sampled answers to a question and measuring agreement, but this requires repeated decod", "url": ""}]}.pillars.ecosystem || 0;
+      document.getElementById('dash-cap').textContent = caps;
+      document.getElementById('dash-pat').textContent = pats;
+      document.getElementById('dash-eco').textContent = ecos;
       
       const nodes = new vis.DataSet(data.nodes.map(function(n) {
-        return { id: n.id, label: n.label.length > 18 ? n.label.slice(0, 18) + '...' : n.label, shape: 'dot', size: Math.max(12, Math.min(30, (n.pm_score || 0) * 30 + 10)), color: { background: pillarColors[n.pillar] || '#8b949e', border: 'rgba(255,255,255,0.4)', highlight: { background: pillarColors[n.pillar] || '#fff', border: '#fff' } }, font: { color: '#fff', size: 12, strokeWidth: 2, strokeColor: '#0d1117' }, borderWidth: 2, title: n.label + '\nPM Score: ' + (n.pm_score || 'N/A') };
+        return { id: n.id, label: n.label.length > 18 ? n.label.slice(0, 18) + '...' : n.label, shape: 'dot', size: Math.max(12, Math.min(30, (n.pm_score || 0) * 30 + 10)), color: { background: pillarColors[n.pillar] || '#8b949e', border: 'rgba(255,255,255,0.4)', highlight: { background: pillarColors[n.pillar] || '#fff', border: '#fff' } }, font: { color: '#fff', size: 12, strokeWidth: 2, strokeColor: '#0d1117' }, borderWidth: 2 };
       }));
       const edges = new vis.DataSet(data.edges.map(function(e) {
         return { from: e.source, to: e.target, color: { color: e.type === 'PILLAR' ? 'rgba(63,185,80,0.2)' : 'rgba(139,148,158,0.15)' }, width: e.type === 'PILLAR' ? 2 : 1, smooth: { type: 'curvedCW', roundness: 0.1 } };
       }));
-      network = new vis.Network(document.getElementById('mynetwork'), { nodes: nodes, edges: edges }, { physics: { barnesHut: { gravitationalConstant: -3000, springLength: 150, springConstant: 0.02 }, stabilization: { iterations: 200, fit: true } }, interaction: { hover: true, tooltipDelay: 50, zoomView: true, dragView: true, dragNodes: true } });
+      
+      network = new vis.Network(document.getElementById('mynetwork'), { nodes: nodes, edges: edges }, {
+        physics: { barnesHut: { gravitationalConstant: -3000, springLength: 150, springConstant: 0.02 }, stabilization: { iterations: 200, fit: true } },
+        interaction: { hover: true, tooltipDelay: 50, zoomView: true, dragView: true, dragNodes: true }
+      });
+      
       network.on('click', function(params) {
-        if (params.nodes.length > 0) { const node = data.nodes.find(function(n) { return n.id === params.nodes[0]; }); if (node) showPanel(node); } else { hidePanel(); }
+        if (params.nodes.length > 0) { 
+          const node = data.nodes.find(function(n) { return n.id === params.nodes[0]; }); 
+          if (node) showPanel(node); 
+        } else { hidePanel(); }
       });
     }
     
@@ -201,12 +259,10 @@
       if (node.comments) metrics.push('<div class="metric"><div class="metric-value">💬 ' + node.comments + '</div><div class="metric-label">评论</div></div>');
       document.getElementById('panel-metrics').innerHTML = metrics.join('') || '<div style="grid-column: span 2; color: #8b949e; font-size: 12px;">暂无指标数据</div>';
       
-      var summary = node.summary || "暂无摘要。该节点信息将在下次数据同步时更新。";
-      document.getElementById('panel-desc').textContent = summary;
+      document.getElementById('panel-desc').textContent = node.summary || "暂无摘要。该节点信息将在下次数据同步时更新。";
       
       var actions = document.getElementById('panel-actions'); actions.innerHTML = '';
       if (node.url) actions.innerHTML += '<a href="' + node.url + '" target="_blank" class="panel-btn primary">🔗 查看原文</a>';
-      
       document.getElementById('detail-panel').classList.add('active');
     }
     
