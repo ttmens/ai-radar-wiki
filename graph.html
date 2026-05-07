@@ -297,42 +297,6 @@
     }
 
     // 3. Show Panel Logic
-    function showPanel(nodeId) {
-      const node = data.nodes.find(n => n.id === nodeId);
-      if (!node) return;
-      
-      // Title
-      document.getElementById('panel-title').textContent = node.label;
-      
-      // Tags
-      const tagsHtml = [];
-      if (node.pillar) tagsHtml.push(`<span class="tag pillar">${pillarNames[node.pillar] || node.pillar}</span>`);
-      if (node.date) tagsHtml.push(`<span class="tag date">📅 ${node.date}</span>`);
-      if (node.pm_score) tagsHtml.push(`<span class="tag score">🎯 ${node.pm_score}</span>`);
-      document.getElementById('panel-tags').innerHTML = tagsHtml.join('');
-      
-      // Summary - ensure it's populated
-      let summary = node.summary;
-      if (!summary || summary === "") {
-        // Fallback if summary is missing
-        if (node.type === 'paper') summary = "这是一篇学术研究论文。摘要暂缺，建议点击原文查看。";
-        else if (node.type === 'hn') summary = "这是一个 Hacker News 讨论话题。摘要暂缺。";
-        else summary = "暂无详细摘要信息，建议点击原文查看详细内容。";
-      }
-      document.getElementById('panel-summary').textContent = summary;
-      
-      // Link Button
-      const linkBtn = document.getElementById('panel-link');
-      if (node.url) { 
-        linkBtn.href = node.url; 
-        linkBtn.classList.remove('disabled');
-        linkBtn.style.display = 'block'; 
-      } else { 
-        linkBtn.style.display = 'none'; 
-      }
-      
-      document.getElementById('detail-panel').classList.add('active');
-    }
 
     function hidePanel() { document.getElementById('detail-panel').classList.remove('active'); }
     
