@@ -52,3 +52,20 @@
 
 ## [2026-05-07 13:23] sync v3 | 1 new | pillars: {'ecosystem': 1}
 - create: show-hn-explore-color-palettes-inspired-by-3000-m.md
+
+## [2026-05-07 13:27] sync v3 | 15 new | pillars: {'business': 11, 'patterns': 3, 'capabilities': 1}
+- create: five-architects-of-the-ai-economy-explain-where-th.md
+- create: barry-diller-trusts-sam-altman-but-8216trust-i.md
+- create: snap-says-its-400m-deal-with-perplexity-8216am.md
+- create: is-xai-a-neocloud-now.md
+- create: how-elon-musk-left-openai-according-to-greg-brock.md
+- create: spacex-may-spend-up-to-119b-on-8216terafab82.md
+- create: deepseek-could-hit-45b-valuation-from-its-first-i.md
+- create: google-updates-ai-search-to-include-quotes-from-re.md
+- create: khosla-backed-robotics-startup-genesis-ai-has-gone.md
+- create: tinder-owner-match-group-is-slowing-hiring-to-pay.md
+- create: apple-to-pay-250m-to-settle-lawsuit-over-siri82.md
+- create: ethos-raises-2275m-from-a16z-for-its-expert-netw.md
+- create: at-techcrunch-disrupt-2026-all-your-m038a-ques.md
+- create: 3-days-left-to-lock-in-50-off-a-second-ticket-to.md
+- create: ai-boom-pushes-samsung-to-1t.md
