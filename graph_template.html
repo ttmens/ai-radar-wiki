@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Radar Knowledge Graph</title>
+<style>
+  :root { --bg: #0d1117; --panel-bg: #161b22; --border: #30363d; --text: #c9d1d9; --accent: #58a6ff; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; overflow: hidden; }
+  
+  /* Header */
+  #header { position: absolute; top: 0; left: 0; right: 0; height: 56px; padding: 0 20px; background: rgba(13,17,23,0.95); backdrop-filter: blur(10px); z-index: 20; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #21262d; }
+  #header h1 { font-size: 18px; color: var(--accent); font-weight: 700; display: flex; align-items: center; gap: 8px; }
+  #header-controls { display: flex; align-items: center; gap: 12px; }
+  #stats span { background: #21262d; padding: 4px 10px; border-radius: 12px; font-size: 12px; font-family: monospace; border: 1px solid #30363d; }
+  #global-toggle-btn { background: #21262d; border: 1px solid var(--border); color: var(--text); padding: 6px 14px; border-radius: 6px; cursor: pointer; font-size: 13px; font-weight: 500; transition: all 0.2s; }
+  #global-toggle-btn:hover { background: var(--border); color: #fff; }
+  .subscribe-btn { background: #238636; border: 1px solid #2ea043; color: #fff; padding: 6px 14px; border-radius: 6px; cursor: pointer; font-size: 13px; font-weight: 500; transition: all 0.2s; text-decoration: none; display: flex; align-items: center; gap: 6px; }
+  .subscribe-btn:hover { background: #2ea043; }
+  
+  /* Network Area */
+  #mynetwork { width: 100%; height: 100vh; cursor: grab; }
+  #mynetwork:active { cursor: grabbing; }
+  
+  /* Dashboard - Left Side */
+  #dashboard {
+    position: absolute; top: 64px; left: 20px; width: 320px; max-height: calc(100vh - 80px); overflow-y: auto;
+    background: var(--panel-bg); border: 1px solid var(--border); border-radius: 8px;
+    padding: 16px; z-index: 15; box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+  #dashboard.hidden { transform: translateX(-120%); opacity: 0; pointer-events: none; }
+  
+  .dash-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; border-bottom: 1px solid #21262d; padding-bottom: 8px; }
+  .dash-header-title { font-size: 15px; font-weight: 700; color: var(--accent); }
+  .dash-toggle-btn { background: #21262d; border: 1px solid var(--border); color: var(--text); padding: 4px 10px; border-radius: 4px; cursor: pointer; font-size: 12px; transition: all 0.2s; }
+  .dash-toggle-btn:hover { background: var(--border); color: #fff; }
+  
+  .dash-item { background: #0d1117; padding: 10px; border-radius: 6px; margin-bottom: 8px; border-left: 3px solid var(--accent); cursor: pointer; transition: background 0.2s; }
+  .dash-item:hover { background: #1c2128; }
+  .item-title { font-size: 13px; color: var(--text); margin-bottom: 4px; font-weight: 500; line-height: 1.3; }
+  .item-meta { display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px; font-size: 11px; color: #8b949e; }
+  .item-score { color: var(--accent); background: rgba(88,166,255,0.15); padding: 2px 6px; border-radius: 4px; font-weight: 500; }
+  .item-summary { font-size: 12px; color: #8b949e; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  
+  /* Legend - Bottom Left, follows dashboard position */
+  #legend { 
+    position: absolute; bottom: 20px; left: 20px; z-index: 15; 
+    background: rgba(22,27,34,0.95); padding: 10px 14px; border-radius: 8px; font-size: 12px; 
+    border: 1px solid #30363d; backdrop-filter: blur(8px);
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+  #legend.hidden { transform: translateX(-120%); opacity: 0; pointer-events: none; }
+  .legend-title { font-weight: 600; margin-bottom: 6px; color: #c9d1d9; font-size: 11px; text-transform: uppercase; }
+  .legend-item { display: flex; align-items: center; gap: 8px; margin: 4px 0; color: #8b949e; }
+  .dot { width: 10px; height: 10px; border-radius: 50%; }
+  
+  /* Detail Panel - Right Side */
+  #detail-panel {
+    position: absolute; top: 0; right: -450px; width: 420px; height: 100%; background: var(--panel-bg);
+    border-left: 1px solid var(--border); z-index: 20; transition: right 0.3s ease; overflow-y: auto;
+    display: flex; flex-direction: column; box-shadow: -5px 0 30px rgba(0,0,0,0.5);
+  }
+  #detail-panel.active { right: 0; }
+  
+  .panel-header { padding: 20px; border-bottom: 1px solid #21262d; position: relative; }
+  .panel-close { position: absolute; top: 15px; right: 15px; background: none; border: none; color: #8b949e; font-size: 24px; cursor: pointer; }
+  .panel-close:hover { color: #fff; }
+  .panel-title { font-size: 16px; color: var(--accent); line-height: 1.4; margin-right: 30px; font-weight: 600; }
+  .panel-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+  .tag { background: #21262d; padding: 3px 8px; border-radius: 12px; font-size: 11px; color: #c9d1d9; border: 1px solid #30363d; }
+  .tag.pillar { background: rgba(63,185,80,0.2); color: #3fb950; border-color: #238636; }
+  .tag.date { background: rgba(255,255,255,0.05); color: #c9d1d9; }
+  .tag.score { background: rgba(88,166,255,0.1); color: #58a6ff; border-color: rgba(88,166,255,0.3); }
+  
+  .panel-body { padding: 20px; flex: 1; }
+  .panel-section { margin-bottom: 20px; }
+  .section-title { font-size: 12px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 8px; font-weight: 600; }
+  .section-content { font-size: 14px; line-height: 1.7; color: var(--text); white-space: pre-wrap; word-break: break-word; }
+  
+  .panel-source-preview { 
+    background: #0d1117; border: 1px solid #21262d; border-radius: 6px; padding: 12px; 
+    font-size: 13px; line-height: 1.5; color: #8b949e; max-height: 150px; overflow-y: auto;
+  }
+  
+  .panel-actions { padding: 16px; border-top: 1px solid #21262d; background: #161b22; display: flex; gap: 10px; }
+  .action-btn { flex: 1; padding: 12px; border-radius: 6px; background: #238636; color: #fff; text-align: center; text-decoration: none; font-weight: 500; font-size: 14px; transition: background 0.2s; border: none; cursor: pointer; }
+  .action-btn:hover { background: #2ea043; }
+  .action-btn.secondary { background: #21262d; border: 1px solid var(--border); }
+  .action-btn.secondary:hover { background: var(--border); }
+  .action-btn.disabled { background: #30363d; color: #8b949e; cursor: not-allowed; pointer-events: none; }
+</style>
+</head>
+<body>
+
+  <!-- Header -->
+  <div id="header">
+    <h1>🧠 AI Radar Knowledge Graph</h1>
+    <div id="header-controls">
+      <button id="global-toggle-btn" onclick="toggleDashboard()">📅 收起摘要</button>
+      <a href="./feed.xml" class="subscribe-btn" target="_blank">📡 RSS 订阅</a>
+      <div id="stats">
+        <span id="node-count">253</span> <span id="edge-count">259</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Dashboard (Left) -->
+  <div id="dashboard">
+    <div class="dash-header">
+      <span class="dash-header-title">📅 今日情报摘要</span>
+      <button class="dash-toggle-btn" onclick="toggleDashboard()">收起</button>
+    </div>
+    <div id="dash-list">Loading...</div>
+  </div>
+
+  <!-- Legend (Bottom Left) -->
+  <div id="legend">
+    <div class="legend-title">知识分类</div>
+    <div class="legend-item"><span class="dot" style="background:#58a6ff"></span> 技术能力 (Model/Tech)</div>
+    <div class="legend-item"><span class="dot" style="background:#3fb950"></span> 产品模式 (Patterns)</div>
+    <div class="legend-item"><span class="dot" style="background:#a371f7"></span> 工具生态 (Ecosystem)</div>
+    <div class="legend-item"><span class="dot" style="background:#f0883e"></span> 商业趋势 (Business)</div>
+  </div>
+
+  <!-- Graph Canvas -->
+  <div id="mynetwork"></div>
+
+  <!-- Detail Panel (Right) -->
+  <div id="detail-panel">
+    <div class="panel-header">
+      <button class="panel-close" onclick="hidePanel()">×</button>
+      <div class="panel-title" id="panel-title">节点详情</div>
+      <div class="panel-tags" id="panel-tags"></div>
+    </div>
+    <div class="panel-body">
+      <div class="panel-section">
+        <div class="section-title">📝 摘要总结</div>
+        <div class="section-content" id="panel-summary">点击图谱节点查看摘要</div>
+      </div>
+      <div class="panel-section">
+        <div class="section-title">📄 原文预览</div>
+        <div class="panel-source-preview" id="panel-source-preview">加载中...</div>
+      </div>
+    </div>
+    <div class="panel-actions">
+      <a href="#" id="panel-link" class="action-btn" target="_blank">🔗 查看原文</a>
+      <button class="action-btn secondary" onclick="toggleRawSource()">📋 完整原文</button>
+    </div>
+  </div>
+
+  <!-- Data & Libs -->
+  <script id="graph-data" type="application/json">{{DATA}}</script>
+  <script src="./assets/vis-network.min.js"></script>
+  <script>
+    const data = JSON.parse(document.getElementById('graph-data').textContent);
+    const pillarColors = { capabilities: '#58a6ff', patterns: '#3fb950', ecosystem: '#a371f7', business: '#f0883e', unknown: '#8b949e' };
+    const pillarNames = { capabilities: '🤖 技术能力', patterns: '📱 产品模式', ecosystem: '🔧 工具生态', business: '💰 商业趋势', unknown: '未分类' };
+    let network;
+
+    // 1. Render Dashboard
+    function renderDashboard() {
+      const today = new Date().toISOString().slice(0, 10);
+      // Filter nodes created/updated today or having today's date
+      const todayNodes = data.nodes.filter(n => n.date && n.date.startsWith(today));
+      const topNodes = [...todayNodes].sort((a, b) => (b.pm_score || 0) - (a.pm_score || 0)).slice(0, 10);
+      
+      const list = document.getElementById('dash-list');
+      if (topNodes.length === 0) {
+        list.innerHTML = '<div style="color:#8b949e; font-size:12px; text-align:center; padding:20px;">今日暂无新情报</div>';
+        return;
+      }
+      
+      list.innerHTML = topNodes.map(n => {
+        const color = pillarColors[n.pillar] || '#8b949e';
+        const name = pillarNames[n.pillar] || n.pillar;
+        const summary = (n.summary || "暂无中文摘要").substring(0, 100);
+        const score = (n.pm_score || 0).toFixed(2);
+        return `
+          <div class="dash-item" style="border-left-color: ${color}" onclick="focusNode('${n.id}')">
+            <div class="item-title">${n.label}</div>
+            <div class="item-meta">
+              <span>${name}</span>
+              <span class="item-score">PM ${score}</span>
+            </div>
+            <div class="item-summary">${summary}</div>
+          </div>`;
+      }).join('');
+    }
+
+    // 2. Render Network
+    function renderNetwork() {
+      const nodes = new vis.DataSet(data.nodes.map(n => ({
+        id: n.id, 
+        label: n.label.length > 18 ? n.label.slice(0, 18) + '...' : n.label,
+        shape: 'dot', // Force circular dots
+        size: Math.max(10, Math.min(25, (n.pm_score || 0.1) * 30 + 10)),
+        color: { 
+          background: pillarColors[n.pillar] || '#8b949e', 
+          border: 'rgba(255,255,255,0.3)', 
+          highlight: { background: pillarColors[n.pillar] || '#fff', border: '#fff' } 
+        },
+        font: { color: '#fff', size: 11, strokeWidth: 1.5, strokeColor: '#0d1117' },
+        borderWidth: 2
+      })));
+      
+      const edges = new vis.DataSet(data.edges.map(e => ({
+        from: e.source, to: e.target,
+        color: { color: e.type === 'PILLAR' ? 'rgba(63,185,80,0.25)' : 'rgba(139,148,158,0.15)' },
+        width: e.type === 'PILLAR' ? 2 : 1,
+        smooth: { type: 'curvedCW', roundness: 0.1 }
+      })));
+      
+      network = new vis.Network(document.getElementById('mynetwork'), { nodes, edges }, {
+        physics: { barnesHut: { gravitationalConstant: -3000, springLength: 150, springConstant: 0.04 }, stabilization: { iterations: 200 } },
+        interaction: { hover: true, zoomView: true, dragView: true, dragNodes: true }
+      });
+      
+      network.on('click', function(params) {
+        if (params.nodes.length > 0) showPanel(params.nodes[0]);
+        else hidePanel();
+      });
+      
+      document.getElementById('node-count').textContent = data.nodes.length;
+      document.getElementById('edge-count').textContent = data.edges.length;
+    }
+
+    // 3. Show Panel Logic
+    function showPanel(nodeId) {
+      const node = data.nodes.find(n => n.id === nodeId);
+      if (!node) return;
+      
+      // Title
+      document.getElementById('panel-title').textContent = node.label;
+      
+      // Tags
+      const tagsHtml = [];
+      if (node.pillar) tagsHtml.push(`<span class="tag pillar">${pillarNames[node.pillar] || node.pillar}</span>`);
+      if (node.date) tagsHtml.push(`<span class="tag date">📅 ${node.date}</span>`);
+      if (node.pm_score) tagsHtml.push(`<span class="tag score">🎯 ${node.pm_score}</span>`);
+      document.getElementById('panel-tags').innerHTML = tagsHtml.join('');
+      
+      // Summary - ensure it's populated
+      let summary = node.summary;
+      if (!summary || summary === "") {
+        // Fallback if summary is missing
+        if (node.type === 'paper') summary = "这是一篇学术研究论文。摘要暂缺，建议点击原文查看。";
+        else if (node.type === 'hn') summary = "这是一个 Hacker News 讨论话题。摘要暂缺。";
+        else summary = "暂无详细摘要信息，建议点击原文查看详细内容。";
+      }
+      document.getElementById('panel-summary').textContent = summary;
+      
+      // Link Button
+      const linkBtn = document.getElementById('panel-link');
+      if (node.url) { 
+        linkBtn.href = node.url; 
+        linkBtn.classList.remove('disabled');
+        linkBtn.style.display = 'block'; 
+      } else { 
+        linkBtn.style.display = 'none'; 
+      }
+      
+      document.getElementById('detail-panel').classList.add('active');
+    }
+
+    function hidePanel() { document.getElementById('detail-panel').classList.remove('active'); }
+    
+    function focusNode(id) { 
+      network.selectNodes([id]); 
+      network.focus(id, { scale: 1.2, animation: { duration: 500, easingFunction: 'easeInOutQuad' } }); 
+      showPanel(id); 
+    }
+    
+    // Toggle Dashboard (also toggles legend and global button)
+    function toggleDashboard() {
+      const dash = document.getElementById('dashboard');
+      const legend = document.getElementById('legend');
+      const globalBtn = document.getElementById('global-toggle-btn');
+      const isHidden = dash.classList.contains('hidden');
+      
+      if (isHidden) {
+        dash.classList.remove('hidden');
+        legend.classList.remove('hidden');
+        globalBtn.textContent = '📅 收起摘要';
+      } else {
+        dash.classList.add('hidden');
+        legend.classList.add('hidden');
+        globalBtn.textContent = '📅 展开摘要';
+      }
+    }
+
+    // Toggle raw source view
+    let showingRaw = false;
+    function toggleRawSource() {
+      const preview = document.getElementById('panel-source-preview');
+      const btn = document.querySelector('.action-btn.secondary');
+      
+      if (showingRaw) {
+        // 恢复为带元数据的预览
+        buildSourcePreview(currentNode);
+        btn.textContent = '📋 完整原文';
+        showingRaw = false;
+      } else {
+        // 显示纯摘要（无元数据）
+        if (currentNode && currentNode.summary) {
+          preview.textContent = currentNode.summary;
+        }
+        btn.textContent = '📝 返回预览';
+        showingRaw = true;
+      }
+    }
+    
+    function buildSourcePreview(node) {
+      const preview = document.getElementById('panel-source-preview');
+      let content = '';
+      if (node.url) {
+        try {
+          const domain = new URL(node.url).hostname.replace('www.', '');
+          content += `🔗 来源：${domain}\n`;
+        } catch(e) { content += `🔗 来源：外部链接\n`; }
+      } else { content += `🔗 来源：无原始链接\n`; }
+      content += `📂 类型：${node.type || '未知'}\n`;
+      content += `📅 日期：${node.date || '未知'}\n\n`;
+      content += node.summary || "暂无详细内容";
+      preview.textContent = content;
+    }
+
+    let currentNode = null;
+    
+    // 3. Show Panel Logic
+    function showPanel(nodeId) {
+      const node = data.nodes.find(n => n.id === nodeId);
+      if (!node) return;
+      currentNode = node;
+      showingRaw = false;
+      
+      // Title
+      document.getElementById('panel-title').textContent = node.label;
+      
+      // Tags
+      const tagsHtml = [];
+      if (node.pillar) tagsHtml.push(`<span class="tag pillar">${pillarNames[node.pillar] || node.pillar}</span>`);
+      if (node.date) tagsHtml.push(`<span class="tag date">📅 ${node.date}</span>`);
+      if (node.pm_score) tagsHtml.push(`<span class="tag score">🎯 PM ${node.pm_score.toFixed(1)}</span>`);
+      if (node.type) tagsHtml.push(`<span class="tag">${node.type}</span>`);
+      document.getElementById('panel-tags').innerHTML = tagsHtml.join('');
+      
+      // Summary - User perspective (concise, highlights value)
+      let summary = node.summary;
+      if (!summary || summary === "") {
+        if (node.type === 'paper') summary = "📚 学术研究论文\n\n建议点击原文查看完整摘要和实验数据。";
+        else if (node.type === 'hn' || node.type === 'showhn') summary = "💬 Hacker News 讨论话题\n\n点击原文查看社区讨论和观点。";
+        else if (node.type === 'techcrunch') summary = "📰 科技新闻报道\n\n点击原文查看完整新闻内容。";
+        else summary = "暂无摘要信息，建议点击原文查看详情。";
+      } else {
+        // 提取核心摘要（前 150 字作为精炼版）
+        summary = summary.length > 150 ? summary.substring(0, 150) + '...' : summary;
+      }
+      document.getElementById('panel-summary').textContent = summary;
+      
+      // Source Preview - detailed content + metadata
+      const preview = document.getElementById('panel-source-preview');
+      let previewContent = '';
+      
+      // 来源信息
+      if (node.url) {
+        try {
+          const domain = new URL(node.url).hostname.replace('www.', '');
+          previewContent += `🔗 来源：${domain}\n`;
+        } catch(e) {
+          previewContent += `🔗 来源：外部链接\n`;
+        }
+      } else {
+        previewContent += `🔗 来源：无原始链接\n`;
+      }
+      previewContent += `📂 类型：${node.type || '未知'}\n`;
+      previewContent += `📅 日期：${node.date || '未知'}\n\n`;
+      
+      // 完整内容（如果有）
+      if (node.summary && node.summary.length > 0) {
+        previewContent += node.summary;
+      } else {
+        previewContent += "暂无详细内容";
+      }
+      preview.textContent = previewContent;
+      
+      // Link Button
+      const linkBtn = document.getElementById('panel-link');
+      if (node.url) { 
+        linkBtn.href = node.url; 
+        linkBtn.classList.remove('disabled');
+        linkBtn.style.display = 'block'; 
+      } else { 
+        linkBtn.style.display = 'none'; 
+      }
+      
+      // Build source preview
+      buildSourcePreview(node);
+      
+      // Reset toggle button
+      document.querySelector('.action-btn.secondary').textContent = '📋 完整原文';
+      showingRaw = false;
+      
+      document.getElementById('detail-panel').classList.add('active');
+    }
+
+    // Init
+    renderDashboard();
+    renderNetwork();
+  </script>
+</body>
+</html>
