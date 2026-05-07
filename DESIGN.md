@@ -1,6 +1,6 @@
 # AI Radar 系统设计文档 (System Design Document)
 
-> **版本**: v2.0.0  
+> **版本**: v3.0.0  
 > **最后更新**: 2026-05-07  
 > **维护者**: Hermes Agent  
 > **在线地址**: https://ttmens.github.io/ai-radar-wiki/graph.html
@@ -186,6 +186,30 @@ pm_score = (
 | `ai-daily-briefing` | 每日 08:00 | 生成并推送早报 | Feishu 群聊 |
 | `ai-radar-weekly-digest` | 每周一 10:00 | 生成周报 | Feishu + 本地文件 |
 | `github-ai-trending-digest` | 每周一 09:00 | GitHub 趋势分析 | 本地文件 |
+| `ai-radar-rss-feed` | 每 4h | 生成 RSS Feed | feed.xml + Git Push |
+
+---
+
+## 5.5 订阅系统 (Subscription)
+
+### 5.5.1 RSS 订阅
+- **Feed 地址**: `https://ttmens.github.io/ai-radar-wiki/feed.xml`
+- **格式**: RSS 2.0 标准格式
+- **内容**: Top 50 最新情报，包含标题、摘要、分类、PM Score、原文链接
+- **更新频率**: 每 4 小时自动生成
+- **兼容**: Feedly, Inoreader, Reeder, Tiny Tiny RSS 等所有标准 RSS 阅读器
+
+### 5.5.2 邮件订阅
+- **订阅页面**: `https://ttmens.github.io/ai-radar-wiki/subscribe.html`
+- **表单后端**: Formspree (需配置 FORM_ID)
+- **推送频率**: 可选每日 (08:00) 或每周 (周一)
+- **待集成**: 配置 Formspree 或 Resend API Key 后激活
+
+### 5.5.3 RSS 生成脚本
+- **路径**: `~/.hermes/scripts/generate_rss.py`
+- **输入**: `~/ai-radar-wiki/graph.json`
+- **输出**: `~/ai-radar-wiki/feed.xml`
+- **Cron**: `ai-radar-rss-feed` (每 4h)
 
 ### 5.2 飞书集成
 - **文档结构**:
@@ -232,8 +256,8 @@ pm_score = (
 - [ ] 导出功能 (PNG/SVG 图谱截图)
 - [ ] 节点关系强度可视化 (边的粗细/颜色)
 - [ ] 历史版本对比 (本周 vs 上周)
-- [ ] RSS/Atom Feed 输出
 - [ ] 用户收藏/书签功能
+- [ ] 邮件订阅后端集成 (Formspree/Resend)
 - [ ] 更多数据源接入 (HackerNews, ProductHunt, arXiv daily)
 
 ### 6.3 已知问题/限制 ⚠️
@@ -313,3 +337,4 @@ pm_score = (
 |------|------|----------|
 | v1.0.0 | 2026-05-06 | 初始版本：基础图谱 + 飞书集成 + Cron 任务 |
 | v2.0.0 | 2026-05-07 | 架构重构：模板分离 + 四象限分类 + 左侧仪表盘 + 右侧详情面板 + 图例恢复 + 节点圆形化 + 中文摘要回退 |
+| v3.0.0 | 2026-05-07 | UI 重构 + 订阅功能：仓库根目录整理 + 图例随滑窗移动 + 摘要按钮移至左侧 + 右侧显示原文预览 + RSS Feed 生成 + 邮件订阅页面 |
