@@ -37,21 +37,35 @@
   .dash-toggle-btn { background: #21262d; border: 1px solid var(--border); color: var(--text); padding: 4px 10px; border-radius: 4px; cursor: pointer; font-size: 12px; transition: all 0.2s; }
   .dash-toggle-btn:hover { background: var(--border); color: #fff; }
   
-  .dash-item { background: #0d1117; padding: 10px; border-radius: 6px; margin-bottom: 8px; border-left: 3px solid var(--accent); cursor: pointer; transition: background 0.2s; }
-  .dash-item:hover { background: #1c2128; }
-  .item-title { font-size: 13px; color: var(--text); margin-bottom: 4px; font-weight: 500; line-height: 1.3; }
-  .item-meta { display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px; font-size: 11px; color: #8b949e; }
-  .item-score { color: var(--accent); background: rgba(88,166,255,0.15); padding: 2px 6px; border-radius: 4px; font-weight: 500; }
-  .item-summary { font-size: 12px; color: #8b949e; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  /* Structured Summary Styles */
+  .summary-headline { font-size: 14px; font-weight: 700; color: #f0f6fc; margin-bottom: 10px; line-height: 1.3; padding: 8px 10px; background: linear-gradient(135deg, rgba(88,166,255,0.1), rgba(63,185,80,0.1)); border-radius: 6px; border-left: 3px solid var(--accent); }
+  .summary-insight { background: #0d1117; border-radius: 6px; margin-bottom: 10px; overflow: hidden; border: 1px solid #21262d; }
+  .insight-header { padding: 10px 12px; cursor: pointer; display: flex; justify-content: space-between; align-items: center; font-size: 13px; font-weight: 600; color: var(--text); }
+  .insight-header:hover { background: #161b22; }
+  .insight-arrow { font-size: 10px; color: #8b949e; transition: transform 0.2s; }
+  .insight-header.expanded .insight-arrow { transform: rotate(90deg); }
+  .insight-body { display: none; padding: 0 12px 10px; }
+  .insight-body.show { display: block; }
+  .insight-summary { font-size: 12px; color: #8b949e; line-height: 1.5; margin-bottom: 6px; }
+  .insight-evidence { list-style: none; padding: 0; }
+  .insight-evidence li { font-size: 11px; color: #58a6ff; padding: 3px 0 3px 12px; position: relative; cursor: pointer; border-radius: 3px; transition: background 0.15s; }
+  .insight-evidence li:hover { background: rgba(88,166,255,0.08); }
+  .insight-evidence li::before { content: "↗"; position: absolute; left: 0; color: #8b949e; }
+  .summary-watch { background: #0d1117; border-radius: 6px; padding: 10px 12px; margin-bottom: 10px; border: 1px solid #21262d; }
+  .watch-title { font-size: 12px; font-weight: 600; color: var(--accent); margin-bottom: 6px; }
+  .watch-item { font-size: 12px; margin-bottom: 6px; }
+  .watch-item-title { color: var(--text); font-weight: 500; }
+  .watch-item-reason { color: #8b949e; font-size: 11px; margin-top: 2px; }
+  .summary-stats { font-size: 11px; color: #8b949e; padding: 8px 10px; background: #0d1117; border-radius: 6px; border: 1px solid #21262d; }
   
-  /* Legend - Bottom Left, follows dashboard position */
+  /* Legend - On canvas, follows dashboard slide */
   #legend { 
-    position: absolute; bottom: 20px; left: 20px; z-index: 15; 
+    position: absolute; bottom: 20px; left: 340px; z-index: 15; 
     background: rgba(22,27,34,0.95); padding: 10px 14px; border-radius: 8px; font-size: 12px; 
     border: 1px solid #30363d; backdrop-filter: blur(8px);
-    transition: transform 0.3s ease, opacity 0.3s ease;
+    transition: left 0.3s ease;
   }
-  #legend.hidden { transform: translateX(-120%); opacity: 0; pointer-events: none; }
+  #legend.shifted { left: 20px; }
   .legend-title { font-weight: 600; margin-bottom: 6px; color: #c9d1d9; font-size: 11px; text-transform: uppercase; }
   .legend-item { display: flex; align-items: center; gap: 8px; margin: 4px 0; color: #8b949e; }
   .dot { width: 10px; height: 10px; border-radius: 50%; }
@@ -112,7 +126,7 @@
       <span class="dash-header-title">📅 今日情报摘要</span>
       <button class="dash-toggle-btn" onclick="toggleDashboard()">收起</button>
     </div>
-    <div id="dash-list">Loading...</div>
+    <div id="dash-summary">Loading...</div>
   </div>
 
   <!-- Legend (Bottom Left) -->
@@ -158,35 +172,91 @@
     const pillarColors = { capabilities: '#58a6ff', patterns: '#3fb950', ecosystem: '#a371f7', business: '#f0883e', unknown: '#8b949e' };
     const pillarNames = { capabilities: '🤖 技术能力', patterns: '📱 产品模式', ecosystem: '🔧 工具生态', business: '💰 商业趋势', unknown: '未分类' };
     let network;
+    let dailySummary = null;
 
-    // 1. Render Dashboard
-    function renderDashboard() {
-      const today = new Date().toISOString().slice(0, 10);
-      // Filter nodes created/updated today or having today's date
-      const todayNodes = data.nodes.filter(n => n.date && n.date.startsWith(today));
-      const topNodes = [...todayNodes].sort((a, b) => (b.pm_score || 0) - (a.pm_score || 0)).slice(0, 10);
+    // 1. Render Structured Daily Summary
+    async function renderStructuredSummary() {
+      const container = document.getElementById('dash-summary');
+      try {
+        // Try loading daily_summary.json
+        const resp = await fetch('./daily_summary.json');
+        if (!resp.ok) throw new Error('Not found');
+        const summaryData = await resp.json();
+        dailySummary = summaryData.daily_summary;
+      } catch (e) {
+        // Fallback: generate simple summary from data
+        dailySummary = generateFallbackSummary();
+      }
       
-      const list = document.getElementById('dash-list');
-      if (topNodes.length === 0) {
-        list.innerHTML = '<div style="color:#8b949e; font-size:12px; text-align:center; padding:20px;">今日暂无新情报</div>';
+      if (!dailySummary || !dailySummary.insights || dailySummary.insights.length === 0) {
+        container.innerHTML = '<div style="color:#8b949e; font-size:12px; text-align:center; padding:20px;">今日暂无新情报</div>';
         return;
       }
       
-      list.innerHTML = topNodes.map(n => {
-        const color = pillarColors[n.pillar] || '#8b949e';
-        const name = pillarNames[n.pillar] || n.pillar;
-        const summary = (n.summary || "暂无中文摘要").substring(0, 100);
-        const score = (n.pm_score || 0).toFixed(2);
-        return `
-          <div class="dash-item" style="border-left-color: ${color}" onclick="focusNode('${n.id}')">
-            <div class="item-title">${n.label}</div>
-            <div class="item-meta">
-              <span>${name}</span>
-              <span class="item-score">PM ${score}</span>
-            </div>
-            <div class="item-summary">${summary}</div>
-          </div>`;
-      }).join('');
+      let html = '';
+      
+      // Headline
+      html += `<div class="summary-headline">${dailySummary.headline}</div>`;
+      
+      // Insights (collapsible)
+      dailySummary.insights.forEach((insight, idx) => {
+        const isExpanded = idx === 0 ? 'expanded' : '';
+        const isShown = idx === 0 ? 'show' : '';
+        html += `<div class="summary-insight">
+          <div class="insight-header ${isExpanded}" onclick="toggleInsight(this)">
+            <span>${insight.title}</span>
+            <span class="insight-arrow">▶</span>
+          </div>
+          <div class="insight-body ${isShown}">
+            <div class="insight-summary">${insight.summary}</div>
+            <ul class="insight-evidence">
+              ${insight.evidence.map(e => `<li onclick="searchArticle('${e.replace(/'/g, "\\'")}')">${e}</li>`).join('')}
+            </ul>
+          </div>
+        </div>`;
+      });
+      
+      // Watch list
+      if (dailySummary.watch_list && dailySummary.watch_list.length > 0) {
+        html += `<div class="summary-watch">
+          <div class="watch-title">🎯 值得关注</div>
+          ${dailySummary.watch_list.map(w => `<div class="watch-item">
+            <div class="watch-item-title">${w.title}</div>
+            <div class="watch-item-reason">${w.reason}</div>
+          </div>`).join('')}
+        </div>`;
+      }
+      
+      // Stats
+      if (dailySummary.stats) {
+        html += `<div class="summary-stats">${dailySummary.stats}</div>`;
+      }
+      
+      container.innerHTML = html;
+    }
+    
+    function generateFallbackSummary() {
+      const today = new Date().toISOString().slice(0, 10);
+      const todayNodes = data.nodes.filter(n => n.date && n.date.startsWith(today) && n.type !== 'concept');
+      if (todayNodes.length === 0) return null;
+      return {
+        headline: `今日 ${todayNodes.length} 条 AI 情报速递`,
+        insights: [{ title: '📊 技术动态', summary: '今日 AI 领域有多项进展，涵盖技术、产品、商业等多个维度。', evidence: todayNodes.slice(0, 3).map(n => n.label) }],
+        watch_list: [],
+        stats: `今日共 ${todayNodes.length} 条情报`
+      };
+    }
+    
+    function toggleInsight(header) {
+      header.classList.toggle('expanded');
+      const body = header.nextElementSibling;
+      body.classList.toggle('show');
+    }
+    
+    function searchArticle(title) {
+      // Find matching node and focus
+      const match = data.nodes.find(n => n.label.includes(title) || title.includes(n.label));
+      if (match) focusNode(match.id);
     }
 
     // 2. Render Network
@@ -272,7 +342,7 @@
       showPanel(id); 
     }
     
-    // Toggle Dashboard (also toggles legend and global button)
+    // Toggle Dashboard (legend follows by sliding)
     function toggleDashboard() {
       const dash = document.getElementById('dashboard');
       const legend = document.getElementById('legend');
@@ -281,11 +351,11 @@
       
       if (isHidden) {
         dash.classList.remove('hidden');
-        legend.classList.remove('hidden');
+        legend.classList.remove('shifted');
         globalBtn.textContent = '📅 收起摘要';
       } else {
         dash.classList.add('hidden');
-        legend.classList.add('hidden');
+        legend.classList.add('shifted');
         globalBtn.textContent = '📅 展开摘要';
       }
     }
@@ -406,7 +476,7 @@
     }
 
     // Init
-    renderDashboard();
+    renderStructuredSummary();
     renderNetwork();
   </script>
 </body>
