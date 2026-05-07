@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>订阅 AI Radar 每日摘要</title>
+  <style>
+    :root { --bg: #0d1117; --panel-bg: #161b22; --border: #30363d; --text: #c9d1d9; --accent: #58a6ff; --green: #238636; }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; min-height: 100vh; display: flex; align-items: center; justify-content: center; padding: 20px; }
+    .container { max-width: 500px; width: 100%; }
+    .card { background: var(--panel-bg); border: 1px solid var(--border); border-radius: 12px; padding: 32px; box-shadow: 0 8px 30px rgba(0,0,0,0.5); }
+    h1 { font-size: 24px; color: var(--accent); margin-bottom: 8px; }
+    .subtitle { color: #8b949e; margin-bottom: 24px; line-height: 1.5; }
+    .features { list-style: none; margin-bottom: 24px; }
+    .features li { padding: 8px 0; border-bottom: 1px solid #21262d; font-size: 14px; }
+    .features li:last-child { border-bottom: none; }
+    .features li::before { content: "✓ "; color: var(--green); font-weight: bold; }
+    .form-group { margin-bottom: 16px; }
+    label { display: block; margin-bottom: 6px; font-size: 14px; font-weight: 500; }
+    input[type="email"], select { width: 100%; padding: 12px; border-radius: 6px; border: 1px solid var(--border); background: #0d1117; color: var(--text); font-size: 14px; }
+    input[type="email"]:focus, select:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px rgba(88,166,255,0.2); }
+    .submit-btn { width: 100%; padding: 14px; background: var(--green); color: #fff; border: none; border-radius: 6px; font-size: 16px; font-weight: 500; cursor: pointer; transition: background 0.2s; }
+    .submit-btn:hover { background: #2ea043; }
+    .back-link { text-align: center; margin-top: 16px; }
+    .back-link a { color: var(--accent); text-decoration: none; }
+    .back-link a:hover { text-decoration: underline; }
+    .rss-option { margin-top: 24px; padding: 16px; background: #0d1117; border-radius: 8px; border: 1px solid var(--border); }
+    .rss-option h3 { font-size: 14px; color: var(--accent); margin-bottom: 8px; }
+    .rss-option p { font-size: 13px; color: #8b949e; margin-bottom: 8px; }
+    .rss-option code { background: #21262d; padding: 2px 6px; border-radius: 4px; font-size: 12px; }
+    .rss-link { color: var(--accent); text-decoration: none; }
+    .rss-link:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="card">
+      <h1>📡 订阅 AI Radar 每日摘要</h1>
+      <p class="subtitle">每天早晨 8:00 自动接收 AI 领域最新情报，包括技术突破、产品创新、商业动态。</p>
+      
+      <ul class="features">
+        <li>每日 Top 10 高价值情报精选</li>
+        <li>中文摘要 + PM Score 评分</li>
+        <li>四象限分类（技术/模式/生态/商业）</li>
+        <li>直达原文链接</li>
+      </ul>
+
+      <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+        <div class="form-group">
+          <label for="email">📧 邮箱地址</label>
+          <input type="email" id="email" name="email" placeholder="your@email.com" required>
+        </div>
+        <div class="form-group">
+          <label for="frequency">📅 推送频率</label>
+          <select id="frequency" name="frequency">
+            <option value="daily">每日推送 (08:00)</option>
+            <option value="weekly">每周汇总 (周一)</option>
+          </select>
+        </div>
+        <input type="hidden" name="_subject" value="AI Radar 新订阅确认">
+        <input type="hidden" name="_next" value="https://ttmens.github.io/ai-radar-wiki/subscribe-success.html">
+        <button type="submit" class="submit-btn">立即订阅</button>
+      </form>
+
+      <div class="rss-option">
+        <h3>🔗 使用 RSS 阅读器订阅</h3>
+        <p>如果你使用 Feedly、Inoreader 等 RSS 阅读器，可以直接添加以下链接：</p>
+        <p><code>https://ttmens.github.io/ai-radar-wiki/feed.xml</code></p>
+        <p><a href="./feed.xml" class="rss-link" target="_blank">查看 RSS Feed →</a></p>
+      </div>
+
+      <div class="back-link">
+        <a href="./graph.html">← 返回知识图谱</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
