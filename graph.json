@@ -3136,23 +3136,6 @@
       "url": "https://news.ycombinator.com/item?id=48047082"
     },
     {
-      "id": "zaya1-8b-an-8b-moe-model-with-760m-acti",
-      "label": "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
-      "type": "discussion",
-      "pillar": "capabilities",
-      "pm_score": 0.38,
-      "tags": [
-        "hn",
-        "capabilities"
-      ],
-      "summary": "ZAYA1-8B采用MoE架构，总参数量8B但推理仅激活760M，数学推理能力媲美DeepSeek-R1。对AI产品经理而言，其核心价值在于“极致能效”与“低成本高性能”：极低活跃参数大幅削减算力成本与推理延迟，适合边缘端部署或高并发SaaS。该模型为教育、逻辑推理类应用提供了高性价比基座，助力产品在严控预算下实现性能对标，加速垂直场景商业化落地。",
-      "date": "",
-      "url": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
-      "stars": null,
-      "score": 41,
-      "comments": 38
-    },
-    {
       "id": "ccfddlccf-deadlines",
       "label": "ccfddl/ccf-deadlines",
       "type": "github",
@@ -3258,21 +3241,36 @@
       "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/"
     },
     {
-      "id": "spotify8217s-ai-dj-now-supports-frenc",
-      "label": "Spotify&#8217;s AI DJ now supports French, German, Italian and Brazilian Portugu",
-      "type": "news",
-      "pillar": "business",
+      "id": "agent-harness-kit-scaffolding-for-multi-agent-work",
+      "label": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
+      "type": "hn",
+      "pillar": "patterns",
       "pm_score": 0.33,
       "tags": [
-        "techcrunch",
-        "business"
+        "hn",
+        "patterns"
       ],
-      "summary": "Spotify AI DJ新增法、德、意及巴西葡语支持，标志着其AI语音交互向全球化本地化迈出关键一步。技术上依托LLM与TTS的跨语言适配，实现个性化推荐与拟人播报无缝融合。商业上精准切入欧美拉美高潜市场，降低语言门槛以提升留存与付费转化。对AI PM而言，该案例验证了“核心AI功能+多语言本地化”的规模化路径，为内容产品全球化迭代提供标准化范式。",
+      "summary": "该工具提供基于MCP协议的多智能体工作流脚手架，支持跨大模型供应商的无缝集成。技术上通过标准化接口解耦底层模型，降低开发复杂度；产品层面为AI应用提供可复用的多Agent协同架构，显著缩短从原型到落地的周期。对PM而言，其核心价值在于打破厂商锁定、提升系统扩展性，并为企业快速构建复杂自动化业务流提供标准化底座，加速AI产品商业化迭代。",
+      "source_type": "hn",
+      "date": "2026-05-07",
+      "url": "https://news.ycombinator.com/item?id=48047826"
+    },
+    {
+      "id": "agent-harness-kit-scaffolding-for-multi",
+      "label": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
+      "type": "discussion",
+      "pillar": "patterns",
+      "pm_score": 0.33,
+      "tags": [
+        "hn",
+        "patterns"
+      ],
+      "summary": "该工具提供基于MCP协议的多智能体工作流脚手架，支持跨大模型供应商的无缝集成。技术上通过标准化接口解耦底层模型，降低开发复杂度；产品层面为AI应用提供可复用的多Agent协同架构，显著缩短从原型到落地的周期。对PM而言，其核心价值在于打破厂商锁定、提升系统扩展性，并为企业快速构建复杂自动化业务流提供标准化底座，加速AI产品商业化迭代。",
       "date": "",
-      "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
+      "url": "https://ahk.cardor.dev",
       "stars": null,
-      "score": null,
-      "comments": null
+      "score": 33,
+      "comments": 5
     },
     {
       "id": "product-hunt-ai-topics",
@@ -4490,6 +4488,13 @@
       "pm_relevance": 0.0775
     },
     {
+      "source": "agent-harness-kit-scaffolding-for-multi-agent-work",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
       "source": "kyegomezswarms",
       "target": "patterns",
       "relation": "belongs_to",
@@ -5589,15 +5594,8 @@
       "pm_relevance": 0.225
     },
     {
-      "source": "zaya1-8b-an-8b-moe-model-with-760m-acti",
-      "target": "capabilities",
-      "relation": "belongs_to",
-      "type": "KEYWORD",
-      "pm_relevance": 0.19
-    },
-    {
-      "source": "spotify8217s-ai-dj-now-supports-frenc",
-      "target": "business",
+      "source": "agent-harness-kit-scaffolding-for-multi",
+      "target": "patterns",
       "relation": "belongs_to",
       "type": "KEYWORD",
       "pm_relevance": 0.165
@@ -5687,7 +5685,7 @@
       "pm_relevance": 0.3
     }
   ],
-  "generated_at": "2026-05-07T20:42:46.854919",
+  "generated_at": "2026-05-07T21:12:56.750750",
   "generator": "ai-radar-explorer-v3",
   "schema_version": "4-pillar-pm-focused"
 }
