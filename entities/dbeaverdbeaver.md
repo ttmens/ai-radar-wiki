@@ -14,6 +14,9 @@ sources: ["raw/github/dbeaverdbeaver.json"]
 ## 概览
 Free universal database tool and SQL client
 
+## 中文摘要
+DBeaver是开源通用数据库管理与SQL客户端，支持全量主流关系型及NoSQL数据库。其采用插件化架构，提供跨平台操作、可视化建模与高效数据流转能力。对AI产品经理而言，它是数据预处理、样本提取与多源整合的关键基础设施。其“开源+企业增值”模式验证了通用数据工具的商业潜力，开放插件架构更为AI辅助SQL生成、智能数据探查等场景提供了标准化集成范式。
+
 ## PM 关注指标
 - ⭐ Stars: 49914
 - 🎯 PM Score: 0.545

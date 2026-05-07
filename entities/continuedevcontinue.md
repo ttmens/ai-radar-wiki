@@ -14,6 +14,9 @@ sources: ["raw/github/continuedevcontinue.json"]
 ## 概览
 ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 
+## 中文摘要
+该项目将AI代码审查深度集成至CI/CD流水线，实现基于版本控制的AI质量检查与强制拦截。技术上依托开源CLI，使AI评估规则代码化、可追溯。对AI产品经理而言，其核心价值在于解决AI辅助开发的质量不可控与合规风险，提供工程化治理方案。创新点在于将AI检查从本地插件升级为团队级CI门禁，显著提升AI编码工具在企业场景的规模化落地潜力。
+
 ## PM 关注指标
 - ⭐ Stars: 33019
 - 🎯 PM Score: 0.58

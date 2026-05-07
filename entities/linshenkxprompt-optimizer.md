@@ -14,6 +14,9 @@ sources: ["raw/github/linshenkxprompt-optimizer.json"]
 ## 概览
 An AI prompt optimizer for writing better prompts and getting better AI results.
 
+## 中文摘要
+该项目是一款专注于提示词自动优化的开源工具，通过结构化重构与迭代反馈机制提升大模型输出质量与稳定性。对AI产品经理而言，其核心价值在于降低用户编写门槛、缩短调优周期，并可作为中间件集成至产品中，显著提升交互体验与生成可控性。该工具为Prompt工程提供标准化方案，助力产品快速落地高质量AI能力并降低试错成本。
+
 ## PM 关注指标
 - ⭐ Stars: 28300
 - 🎯 PM Score: 0.58

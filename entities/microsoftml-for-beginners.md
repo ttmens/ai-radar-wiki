@@ -14,6 +14,9 @@ sources: ["raw/github/microsoftml-for-beginners.json"]
 ## 概览
 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
+## 中文摘要
+该项目为微软开源的经典机器学习入门课程，含12周26节课程与52道测验，系统覆盖数据预处理、传统算法与模型评估。对AI产品经理而言，可借此快速补齐算法底层认知，提升与技术团队的需求对齐效率，降低AI功能落地沟通成本。其模块化实战设计亦为内部AI素养培训或开发者生态运营提供标准化模板，助力构建可持续的AI产品人才梯队。
+
 ## PM 关注指标
 - ⭐ Stars: 85675
 - 🎯 PM Score: 0.545

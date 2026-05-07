@@ -14,6 +14,9 @@ sources: ["raw/github/microsoftgraphrag.json"]
 ## 概览
 A modular graph-based Retrieval-Augmented Generation (RAG) system
 
+## 中文摘要
+GraphRAG是微软开源的图谱增强型RAG架构。其核心利用大模型自动抽取实体关系构建知识图谱，结合社区发现算法实现全局语义聚合，有效突破传统向量检索的碎片化瓶颈。对AI产品经理而言，该方案显著提升复杂查询的推理深度与答案可解释性，高度契合企业知识库与合规分析场景。模块化设计降低集成门槛，为构建高准确率、强逻辑的智能问答产品提供标准化范式，商业落地价值明确。
+
 ## PM 关注指标
 - ⭐ Stars: 32821
 - 🎯 PM Score: 0.615

@@ -14,6 +14,9 @@ sources: ["raw/github/mlfoundationsopen_clip.json"]
 ## 概览
 An open source implementation of CLIP.
 
+## 中文摘要
+OpenCLIP是CLIP模型的开源实现，支持多模态图文对比学习与零样本分类。对AI产品经理而言，它提供了免授权、可定制的多模态基座能力，可快速赋能图像检索、内容审核、推荐系统及AIGC文本引导等场景。其模块化架构与丰富预训练权重降低了研发门槛，助力企业低成本构建垂直领域多模态产品，加速商业化落地与生态创新。
+
 ## PM 关注指标
 - ⭐ Stars: 13774
 - 🎯 PM Score: 0.615

@@ -14,6 +14,9 @@ sources: ["raw/github/mishushakovllm-scraper.json"]
 ## 概览
 Turn any webpage into structured data using LLMs
 
+## 中文摘要
+该工具利用大语言模型将任意网页内容自动转化为结构化数据，突破传统爬虫依赖固定规则的局限。技术上支持自定义Schema与Prompt驱动解析，显著提升复杂动态页面的数据提取准确率。商业价值在于大幅降低数据采集与清洗成本，加速RAG知识库构建与竞品监控等场景落地。产品创新体现为“自然语言定义数据结构”的零代码范式，为AI应用提供高效、灵活的数据供给层。
+
 ## PM 关注指标
 - ⭐ Stars: 6368
 - 🎯 PM Score: 0.53

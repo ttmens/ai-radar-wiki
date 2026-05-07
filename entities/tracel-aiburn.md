@@ -14,6 +14,9 @@ sources: ["raw/github/tracel-aiburn.json"]
 ## 概览
 Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 
+## 中文摘要
+Burn是新一代张量库与深度学习框架，主打灵活性、高效率与跨平台移植性。基于Rust构建，支持动静图无缝切换及多硬件后端原生适配。对AI产品经理而言，该框架能大幅降低模型部署的硬件适配成本，加速边缘AI与定制化产品的落地迭代。其模块化开源架构为构建垂直行业AI基础设施提供了高扩展底座，具备显著的商业集成与降本增效价值。
+
 ## PM 关注指标
 - ⭐ Stars: 15012
 - 🎯 PM Score: 0.58

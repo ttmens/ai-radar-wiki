@@ -14,6 +14,9 @@ sources: ["raw/github/langfuselangfuse.json"]
 ## 概览
 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
 
+## 中文摘要
+Langfuse是开源LLM工程平台，提供可观测性、指标监控、自动化评估、提示词管理与数据集管理。技术上兼容OpenTelemetry及LangChain等主流框架，支持低侵入集成。对AI产品经理而言，其全链路追踪与标准化评测能力大幅降低模型调优门槛，加速产品从原型到生产的迭代闭环，显著提升研发效率与商业化落地确定性。
+
 ## PM 关注指标
 - ⭐ Stars: 26727
 - 🎯 PM Score: 0.615

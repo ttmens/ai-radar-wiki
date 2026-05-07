@@ -14,6 +14,9 @@ sources: ["raw/github/fpromptschat.json"]
 ## 概览
 f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
+## 中文摘要
+该项目是开源的提示词共享与发现平台，支持社区协作与企业私有化部署。技术上提供完整自托管方案，确保企业数据隐私安全。商业价值在于降低提示词工程门槛，加速AI应用落地，并可作为企业内部Prompt知识库基座。产品创新体现在将静态列表升级为动态社区生态，结合开源特性，为AI产品经理提供可复用的提示词管理范式，助力标准化AI工作流构建。
+
 ## PM 关注指标
 - ⭐ Stars: 161756
 - 🎯 PM Score: 0.58

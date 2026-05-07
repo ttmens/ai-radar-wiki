@@ -14,6 +14,9 @@ sources: ["raw/github/cvat-aicvat.json"]
 ## 概览
 Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 
+## 中文摘要
+CVAT是行业领先的开源计算机视觉数据标注引擎，支持图像与视频的高效处理。核心亮点为内置AI辅助标注、支持大规模团队协作及云/本地灵活部署，可无缝对接MLOps流水线。对AI产品经理而言，该工具显著降低数据准备成本与周期，提升数据集质量，是构建数据驱动AI产品、实现数据闭环的核心基础设施，具备极高的工程落地价值。
+
 ## PM 关注指标
 - ⭐ Stars: 15782
 - 🎯 PM Score: 0.615

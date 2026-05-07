@@ -14,6 +14,9 @@ sources: ["raw/github/microsoftonnxruntime.json"]
 ## 概览
 ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 
+## 中文摘要
+ONNX Runtime是微软开源的跨平台高性能ML推理与训练加速引擎。它基于ONNX标准打破框架壁垒，实现模型跨平台无缝部署。对AI产品经理而言，其核心价值在于大幅降低落地门槛与算力成本，支持云边端协同与异构硬件加速，显著缩短交付周期。作为通用推理底座，它有效屏蔽底层复杂度，提升服务稳定性与可扩展性，是构建企业级AI产品的关键基础设施。
+
 ## PM 关注指标
 - ⭐ Stars: 20429
 - 🎯 PM Score: 0.615

@@ -14,6 +14,9 @@ sources: ["raw/github/recommenders-teamrecommenders.json"]
 ## 概览
 Best Practices on Recommendation Systems
 
+## 中文摘要
+该项目为微软主导的开源推荐系统最佳实践库，集成协同过滤、深度学习等主流算法及标准化评估体系。面向AI产品经理，其提供模块化架构与MLOps流水线参考，显著降低算法选型与冷启动成本。通过内置实验评估与部署模板，可加速个性化推荐产品从原型到商业落地的迭代，有效提升用户留存与转化率，是电商、内容平台构建推荐引擎的高效技术底座。
+
 ## PM 关注指标
 - ⭐ Stars: 21672
 - 🎯 PM Score: 0.615

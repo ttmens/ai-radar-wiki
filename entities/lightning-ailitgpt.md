@@ -14,6 +14,9 @@ sources: ["raw/github/lightning-ailitgpt.json"]
 ## 概览
 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 
+## 中文摘要
+LitGPT是由Lightning AI开源的高性能大模型工具库，内置20+主流LLM及标准化训练/微调/部署流水线。对AI产品经理而言，其核心价值在于大幅降低大模型落地门槛：通过模块化“配方”实现从预训练到规模化部署的快速迭代，支持多硬件适配与成本优化。产品创新体现在将复杂工程流程封装为可复用组件，助力团队聚焦业务场景创新，加速AI应用商业化闭环。
+
 ## PM 关注指标
 - ⭐ Stars: 13345
 - 🎯 PM Score: 0.58

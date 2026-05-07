@@ -14,6 +14,9 @@ sources: ["raw/github/rasbtllms-from-scratch.json"]
 ## 概览
 Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
+## 中文摘要
+该项目提供基于PyTorch从零构建类ChatGPT大模型的完整教程。技术上，透明拆解了Transformer架构、预训练、指令微调及RLHF等核心链路。对AI产品经理而言，该实现有助于精准评估自研模型的技术可行性、算力成本与研发周期。其模块化设计支持快速定制垂直领域模型，为打造差异化AI应用或私有化部署提供了高价值的工程蓝图与决策依据。
+
 ## PM 关注指标
 - ⭐ Stars: 92078
 - 🎯 PM Score: 0.545

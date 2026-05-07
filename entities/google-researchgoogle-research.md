@@ -14,6 +14,9 @@ sources: ["raw/github/google-researchgoogle-research.json"]
 ## 概览
 Google Research
 
+## 中文摘要
+该仓库是Google Research官方开源代码库，集中收录了自然语言处理、计算机视觉、强化学习等前沿AI项目的论文与实现代码。对AI产品经理而言，它是技术风向标与原型验证库，可快速追踪学界最新突破，评估算法落地可行性。通过复用高质量基线模型，能显著降低自研成本，加速AI功能从概念到产品的转化，为构建差异化AI应用提供底层技术支撑与创新灵感。
+
 ## PM 关注指标
 - ⭐ Stars: 37852
 - 🎯 PM Score: 0.58

@@ -14,6 +14,9 @@ sources: ["raw/github/asgeirtjsystem_prompts_leaks.json"]
 ## 概览
 Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated regularly.
 
+## 中文摘要
+该仓库持续收集并开源主流大模型的系统提示词。对AI产品经理而言，这是极具价值的竞品分析资产：可深度拆解头部厂商在安全对齐、角色设定与推理引导上的Prompt工程策略，反哺自身产品的指令优化与体验设计。定期更新机制使其成为动态行业基准，助力团队快速迭代Prompt架构、降低试错成本，并挖掘差异化产品创新方向。
+
 ## PM 关注指标
 - ⭐ Stars: 39791
 - 🎯 PM Score: 0.58

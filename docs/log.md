@@ -236,3 +236,7 @@
 - create: apachetvm.md
 - create: geeeekexplorernano-vllm.md
 - create: nvidiatensorrt.md
+
+## [2026-05-07 20:42] sync v3 | 2 new | pillars: {'unknown': 1, 'business': 1}
+- create: zaya1-8b-an-8b-moe-model-with-760m-active-params.md
+- create: spotify8217s-ai-dj-now-supports-french-german.md

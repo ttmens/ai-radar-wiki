@@ -14,6 +14,9 @@ sources: ["raw/github/google-ai-edgemediapipe.json"]
 ## 概览
 Cross-platform, customizable ML solutions for live and streaming media.
 
+## 中文摘要
+MediaPipe是谷歌开源的跨平台ML框架，专注实时音视频处理。采用图计算架构，内置人脸/手势/姿态等预训练模型，支持移动端、Web及边缘设备高效部署。对AI产品经理而言，它能大幅降低端侧AI落地门槛，助力快速集成AR特效、体感交互等创新功能，缩短研发周期。开源生态与跨平台特性使企业能以低成本构建低延迟AI媒体应用，加速产品商业化。
+
 ## PM 关注指标
 - ⭐ Stars: 35088
 - 🎯 PM Score: 0.615

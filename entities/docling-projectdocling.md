@@ -14,6 +14,9 @@ sources: ["raw/github/docling-projectdocling.json"]
 ## 概览
 Get your documents ready for gen AI
 
+## 中文摘要
+Docling是IBM开源的文档解析引擎，专为生成式AI优化。支持PDF/Office等格式输入，精准输出结构化Markdown/JSON，深度还原版面、表格与公式。对AI产品经理而言，它直击RAG应用的数据预处理瓶颈，显著降低文档清洗与知识库构建成本，提升模型检索准确率。开源架构便于快速集成，可大幅缩短企业级AI产品上市周期，商业落地价值突出。
+
 ## PM 关注指标
 - ⭐ Stars: 59309
 - 🎯 PM Score: 0.615

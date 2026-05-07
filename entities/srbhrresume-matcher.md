@@ -14,6 +14,9 @@ sources: ["raw/github/srbhrresume-matcher.json"]
 ## 概览
 Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
 
+## 中文摘要
+该项目是基于NLP与大模型的简历-JD智能匹配工具，核心涵盖文本解析、关键词提取、语义对齐及优化建议生成。对AI产品经理而言，其技术栈可直接集成至招聘SaaS或ATS系统，商业化路径清晰。产品创新在于自动化对齐非结构化简历与岗位需求，提供数据驱动的调优反馈，显著提升人岗匹配效率，是HR Tech领域高潜力的垂直AI能力模块。
+
 ## PM 关注指标
 - ⭐ Stars: 26951
 - 🎯 PM Score: 0.58

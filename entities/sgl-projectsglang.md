@@ -14,6 +14,9 @@ sources: ["raw/github/sgl-projectsglang.json"]
 ## 概览
 SGLang is a high-performance serving framework for large language models and multimodal models.
 
+## 中文摘要
+SGLang是专为大语言与多模态模型设计的高性能推理服务框架。其核心采用RadixAttention技术实现KV Cache高效复用，显著提升吞吐量并降低显存成本；内置结构化输出与多步工作流编排，简化复杂Agent开发。对AI产品经理而言，该框架能大幅压缩推理成本、加速产品上线，并保障高并发下的稳定体验，是打造高性能AI应用的关键底层设施。
+
 ## PM 关注指标
 - ⭐ Stars: 27173
 - 🎯 PM Score: 0.615

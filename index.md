@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-07 | Total pages: 204
+> Last updated: 2026-05-07 | Total pages: 206
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -61,6 +61,7 @@
 - [[voxel51fiftyone.md]] voxel51/fiftyone `pillar:capabilities` `score:0.58`
 - [[wkentarolabelme.md]] wkentaro/labelme `pillar:capabilities` `score:0.58`
 - [[xorbitsaiinference.md]] xorbitsai/inference `pillar:capabilities` `score:0.565`
+- [[zaya1-8b-an-8b-moe-model-with-760m-active-params.md]] ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math `pillar:capabilities` `score:0.38`
 
 ## 📱 Patterns (产品与交互模式)
 > Chat, Copilot, Agent Workflow, Background Automation
@@ -214,6 +215,7 @@
 - [[photoprismphotoprism.md]] photoprism/photoprism `pillar:business` `score:0.405`
 - [[programbench-can-language-models-rebuild-programs.md]] ProgramBench: Can Language Models Rebuild Programs from Scratch? `pillar:business` `score:0.205`
 - [[ray-projectray.md]] ray-project/ray `pillar:business` `score:0.405`
+- [[spotify8217s-ai-dj-now-supports-french-german.md]] Spotify&#8217;s AI DJ now supports French, German, Italian and Brazilian Portugu `pillar:business` `score:0.33`
 - [[streamlitstreamlit.md]] streamlit/streamlit `pillar:business` `score:0.405`
 - [[wasmedgewasmedge.md]] WasmEdge/WasmEdge `pillar:business` `score:0.405`
 - [[zhulinsendaily_stock_analysis.md]] ZhuLinsen/daily_stock_analysis `pillar:business` `score:0.405`

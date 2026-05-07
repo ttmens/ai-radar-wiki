@@ -14,6 +14,9 @@ sources: ["raw/github/cvhub520x-anylabeling.json"]
 ## 概览
 Effortless data labeling with AI support from Segment Anything and other awesome models.
 
+## 中文摘要
+X-AnyLabeling 是一款集成 SAM 等视觉大模型的智能标注工具。其核心创新在于将基础模型与交互流程融合，支持自动分割与多模态预标注，大幅压缩人工标注周期。对 AI 产品经理而言，该工具可直接嵌入数据生产管线，提升高质量训练数据供给效率，加速模型迭代；开源架构便于定制集成，为构建企业级 AI 数据平台提供低成本、高扩展的技术基座。
+
 ## PM 关注指标
 - ⭐ Stars: 9006
 - 🎯 PM Score: 0.565

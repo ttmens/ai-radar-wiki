@@ -14,6 +14,9 @@ sources: ["raw/github/flowiseaiflowise.json"]
 ## 概览
 Build AI Agents, Visually
 
+## 中文摘要
+Flowise是一款开源低代码平台，通过可视化拖拽快速构建大模型工作流与AI智能体。其核心将LangChain等底层能力封装为可复用节点，支持多模型接入、向量库集成与自定义扩展。对产品经理而言，它显著降低AI应用原型验证门槛，缩短MVP开发周期，提供标准化部署方案，助力企业低成本探索业务场景，是AI产品敏捷编排与快速落地的典型工具。
+
 ## PM 关注指标
 - ⭐ Stars: 52615
 - 🎯 PM Score: 0.615

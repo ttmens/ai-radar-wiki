@@ -14,6 +14,9 @@ sources: ["raw/github/meilisearchmeilisearch.json"]
 ## 概览
 A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 
+## 中文摘要
+Meilisearch 是一款开源高性能搜索引擎 API，核心创新在于引入 AI 驱动的混合搜索，将关键词匹配与向量语义检索深度融合。对 AI 产品经理而言，其轻量架构与开箱即用 API 可大幅降低检索功能开发成本，快速提升应用内容发现效率与用户体验。该方案提供低延迟、易集成的搜索基础设施，广泛适用于电商、内容及 SaaS 场景，具备显著的商业落地价值与产品迭代潜力。
+
 ## PM 关注指标
 - ⭐ Stars: 57442
 - 🎯 PM Score: 0.615

@@ -14,6 +14,9 @@ sources: ["raw/github/danielmiesslerfabric.json"]
 ## 概览
 Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 
+## 中文摘要
+Fabric是开源AI增强框架，核心创新在于提示词工程的模块化与社区化。技术上提供标准化接口与可插拔架构，支持跨平台无缝调用众包Prompt库。对AI产品经理而言，其商业价值在于大幅降低垂直场景的Prompt调试与迭代成本，加速AI功能落地；同时，众包生态可沉淀高质量提示词资产，为构建标准化AI工作流或SaaS化工具提供底层支撑，具备显著的平台化与商业化延展潜力。
+
 ## PM 关注指标
 - ⭐ Stars: 41584
 - 🎯 PM Score: 0.58

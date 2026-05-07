@@ -14,6 +14,9 @@ sources: ["raw/github/supabasesupabase.json"]
 ## 概览
 The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
+## 中文摘要
+Supabase是基于PostgreSQL的开源后端平台，为AI产品提供开箱即用的数据基础设施。技术层面深度集成pgvector，原生支持向量检索与RAG架构，结合实时同步与边缘计算，大幅降低全栈开发成本。商业价值上，其标准化数据层与自动化运维显著缩短AI应用上线周期，使团队能聚焦核心业务逻辑，是构建高扩展性AI产品的理想底层支撑。
+
 ## PM 关注指标
 - ⭐ Stars: 101985
 - 🎯 PM Score: 0.58

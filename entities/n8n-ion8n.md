@@ -14,6 +14,9 @@ sources: ["raw/github/n8n-ion8n.json"]
 ## 概览
 Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
+## 中文摘要
+n8n是一款Fair-code工作流自动化平台，原生集成AI能力，支持可视化编排与自定义代码混合开发。平台提供自托管与云端双部署，内置400+连接器，显著降低AI Agent与企业系统的集成门槛。对AI产品经理而言，其“低代码+代码+原生AI”架构为构建复杂业务流、快速验证场景及保障数据合规提供了高灵活度的基础设施，具备极高的产品参考与商业落地价值。
+
 ## PM 关注指标
 - ⭐ Stars: 186942
 - 🎯 PM Score: 0.615

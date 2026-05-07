@@ -14,6 +14,9 @@ sources: ["raw/github/camel-aicamel.json"]
 ## 概览
 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
 
+## 中文摘要
+CAMEL是领先的多智能体协作框架，聚焦探索智能体“规模扩展定律”。技术上通过标准化通信协议实现多Agent自主协同与任务分解，显著降低复杂工作流编排成本。对产品经理而言，该框架为构建可横向扩展的AI应用（如客服矩阵、自动化流水线）提供标准化底层架构。其开源生态与扩展规律研究，能加速团队验证多Agent架构可行性，推动产品从单点工具向系统化智能体演进。
+
 ## PM 关注指标
 - ⭐ Stars: 16887
 - 🎯 PM Score: 0.58

@@ -14,6 +14,9 @@ sources: ["raw/github/aaif-goosegoose.json"]
 ## 概览
 an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 
+## 中文摘要
+Goose是开源可扩展的AI智能体，突破代码补全局限，支持自主完成安装、执行、编辑与测试。其采用模型无关架构，可无缝接入任意大模型并支持插件扩展。对PM而言，该产品代表从“辅助编码”向“自主执行”的范式升级，研发提效显著。其开放架构与BYO-LLM策略降低集成成本，适合嵌入DevOps流程或打造企业级AI开发平台，商业化路径清晰。
+
 ## PM 关注指标
 - ⭐ Stars: 44252
 - 🎯 PM Score: 0.58

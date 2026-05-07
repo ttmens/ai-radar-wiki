@@ -14,6 +14,9 @@ sources: ["raw/github/apachetvm.json"]
 ## 概览
 Open Machine Learning Compiler Framework
 
+## 中文摘要
+Apache TVM是开源机器学习编译器框架，核心解决AI模型跨硬件高效部署难题。它通过自动调优与算子优化，将主流模型无缝编译至CPU/GPU及边缘芯片，显著提升推理性能并降低算力成本。对AI产品经理而言，TVM提供“一次开发、多端部署”的底层设施，大幅缩短落地周期，增强异构硬件兼容性，是构建高性能、低成本AI产品的关键技术底座。
+
 ## PM 关注指标
 - ⭐ Stars: 13334
 - 🎯 PM Score: 0.58

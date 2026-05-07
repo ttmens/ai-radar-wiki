@@ -14,6 +14,9 @@ sources: ["raw/github/lutzroedernetron.json"]
 ## 概览
 Visualizer for neural network, deep learning and machine learning models
 
+## 中文摘要
+Netron是一款开源AI模型可视化工具，全面兼容ONNX、PyTorch等主流框架。它通过解析模型文件，将复杂计算图与网络参数转化为直观的交互式图形。对AI产品经理而言，该工具有效打破模型黑盒，大幅降低技术理解门槛，便于跨团队架构评审、合规审计与需求对齐。其轻量化与跨平台特性可无缝集成至模型管理流程，显著提升AI产品迭代透明度与研发协同效率。
+
 ## PM 关注指标
 - ⭐ Stars: 32848
 - 🎯 PM Score: 0.58

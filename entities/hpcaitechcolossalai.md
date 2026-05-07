@@ -14,6 +14,9 @@ sources: ["raw/github/hpcaitechcolossalai.json"]
 ## 概览
 Making large AI models cheaper, faster and more accessible
 
+## 中文摘要
+ColossalAI是开源的大模型统一训练与推理加速框架，核心提供多维并行策略与显存优化技术。对AI产品经理而言，其商业价值在于显著降低GPU算力成本、缩短训练周期并降低落地门槛。产品创新体现在开箱即用的并行调度与异构硬件兼容能力，可直接集成至企业AI平台，支撑大模型快速迭代、微调与低成本部署，是构建高效AI基础设施的关键底座。
+
 ## PM 关注指标
 - ⭐ Stars: 41374
 - 🎯 PM Score: 0.615

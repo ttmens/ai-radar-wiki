@@ -14,6 +14,9 @@ sources: ["raw/github/ultralyticsyolov5.json"]
 ## 概览
 YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
 
+## 中文摘要
+YOLOv5是业界领先的实时目标检测开源框架，以高精度、低延迟和极简部署著称。其核心优势在于提供从PyTorch训练到ONNX、CoreML及TFLite的一站式跨平台导出链路，大幅降低模型在云端、移动端及边缘设备的落地门槛。该技术可快速赋能安防、工业质检等场景，显著缩短AI产品从原型到量产的周期，具备极高的工程化价值与商业化潜力。
+
 ## PM 关注指标
 - ⭐ Stars: 57336
 - 🎯 PM Score: 0.615

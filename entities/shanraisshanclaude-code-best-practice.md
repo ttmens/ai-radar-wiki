@@ -14,6 +14,9 @@ sources: ["raw/github/shanraisshanclaude-code-best-practice.json"]
 ## 概览
 from vibe coding to agentic engineering - practice makes claude perfect
 
+## 中文摘要
+该仓库系统梳理了从“随性提示词编程”向“智能体工程化”演进的最佳实践，聚焦Claude在代码生成与工作流中的标准化应用。通过沉淀可复用的提示词模板、任务拆解策略与质量校验机制，将AI编码转化为稳定可靠的生产力工具。对AI产品经理而言，其核心价值在于提供可落地的Agent工作流设计范式，助力构建高可用AI辅助开发产品，显著提升研发效能与交付确定性。
+
 ## PM 关注指标
 - ⭐ Stars: 51511
 - 🎯 PM Score: 0.58

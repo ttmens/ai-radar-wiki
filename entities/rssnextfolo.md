@@ -14,6 +14,9 @@ sources: ["raw/github/rssnextfolo.json"]
 ## 概览
 🧡 Folo is the AI RSS Reader
 
+## 中文摘要
+Folo是开源AI原生RSS阅读器，重构传统信息订阅体验。技术上融合大模型，实现智能摘要、自动分类、跨源去重与个性化推荐，支持多端同步。商业上聚焦知识工作者，以开源社区驱动增长，具备Freemium向SaaS转化潜力。产品创新在于将被动信息流升级为AI驱动的知识管理中枢，为内容聚合类应用提供AI增强交互范式。
+
 ## PM 关注指标
 - ⭐ Stars: 38238
 - 🎯 PM Score: 0.58

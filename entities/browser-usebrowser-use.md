@@ -14,6 +14,9 @@ sources: ["raw/github/browser-usebrowser-use.json"]
 ## 概览
 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 
+## 中文摘要
+该项目为AI智能体提供标准化浏览器交互框架，底层集成Playwright，支持LLM驱动的网页导航与数据提取。技术核心在于将非结构化DOM转化为Agent可理解的状态，实现意图驱动的自动化工作流。对AI产品经理而言，它大幅降低Web Agent开发门槛，可快速落地智能客服、RPA升级与数据采集场景，是连接大模型与现实Web服务的关键中间件，商业化潜力显著。
+
 ## PM 关注指标
 - ⭐ Stars: 92642
 - 🎯 PM Score: 0.615

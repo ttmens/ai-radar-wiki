@@ -14,6 +14,9 @@ sources: ["raw/github/korniakornia.json"]
 ## 概览
 🐍 Geometric Computer Vision Library for Spatial AI
 
+## 中文摘要
+Kornia是基于PyTorch的开源几何视觉库，专注空间AI场景。其核心将传统图像处理与几何变换（如相机标定、3D重建）全面可微化，支持端到端训练。对AI产品经理而言，该库能大幅降低AR/VR、机器人及自动驾驶等空间计算产品的算法开发门槛，加速原型迭代。通过提供标准化、GPU加速的视觉模块，可快速集成高鲁棒性的空间感知能力，显著提升研发效率与产品落地速度。
+
 ## PM 关注指标
 - ⭐ Stars: 11198
 - 🎯 PM Score: 0.58

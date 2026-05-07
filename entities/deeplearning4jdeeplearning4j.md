@@ -14,6 +14,9 @@ sources: ["raw/github/deeplearning4jdeeplearning4j.json"]
 ## 概览
 Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learn...
 
+## 中文摘要
+该项目是基于JVM的深度学习训练与部署工具集，核心解决Python模型向Java企业架构迁移的痛点。支持主流框架模型无缝导入，内置轻量C++计算内核与Java封装，并提供类PyTorch的SameDiff API。对AI产品经理而言，其价值在于大幅降低AI集成至现有Java系统的成本，提升生产环境部署效率，适用于企业级AI中台及传统业务智能化改造。
+
 ## PM 关注指标
 - ⭐ Stars: 14229
 - 🎯 PM Score: 0.58
