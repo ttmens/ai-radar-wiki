@@ -16,6 +16,156 @@
       "url": "https://paletteinspiration.com/"
     },
     {
+      "id": "estimating-the-expected-output-of-wide-random-mlps-more-effi",
+      "label": "Estimating the expected output of wide random MLPs more efficiently than samplin",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.45,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "By far the most common way to estimate an expected loss in machine learning is to draw samples, compute the loss on each one, and take the empirical average. However, sampling is not necessarily optimal. Given an MLP at initialization, we show how to estimate its expected output over Gaussian inputs",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/estimating-the-expec"
+    },
+    {
+      "id": "when-life-gives-you-bc-make-q-functions-extracting-q-value",
+      "label": "When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Clon",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.45,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "Behavior Cloning (BC) has emerged as a highly effective paradigm for robot learning. However, BC lacks a self-guided mechanism for online improvement after demonstrations have been collected. Existing offline-to-online learning methods often cause policies to replace previously learned good actions",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/when-life-gives-you-"
+    },
+    {
+      "id": "geometry-aware-state-space-model-a-new-paradigm-for-whole-s",
+      "label": "Geometry-Aware State Space Model: A New Paradigm for Whole-Slide Image Represent",
+      "type": "paper",
+      "pillar": "patterns",
+      "pm_score": 0.45,
+      "tags": [
+        "papers",
+        "patterns"
+      ],
+      "summary": "Accurate analysis of histopathological images is critical for disease diagnosis and treatment planning. Whole-slide images (WSIs), which digitize tissue specimens at gigapixel resolution, are fundamental to this process but require aggregating thousands of patches for slide-level predictions. Multip",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/geometry-aware-state"
+    },
+    {
+      "id": "understanding-in-context-learning-for-nonlinear-regression-w",
+      "label": "Understanding In-Context Learning for Nonlinear Regression with Transformers: At",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.45,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "Pre-trained transformers are able to learn from examples provided as part of the prompt without any weight updates, a remarkable ability known as in-context learning (ICL). Despite its demonstrated efficacy across various domains, the theoretical understanding of ICL is still developing. Whereas mos",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/understanding-in-con"
+    },
+    {
+      "id": "taming-outlier-tokens-in-diffusion-transformers",
+      "label": "Taming Outlier Tokens in Diffusion Transformers",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.45,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract disproportionate attention while carrying limited local information, but their role in generative models rem",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/taming-outlier-token"
+    },
+    {
+      "id": "design-conductor-20-an-agent-builds-a-turboquant-inference",
+      "label": "Design Conductor 2.0: An agent builds a TurboQuant inference accelerator in 80 h",
+      "type": "paper",
+      "pillar": "patterns",
+      "pm_score": 0.45,
+      "tags": [
+        "papers",
+        "patterns"
+      ],
+      "summary": "Driven by a rapid co-evolution of both harness and underlying models, LLM agents are improving at a dizzying pace. In our prior work (performed in Dec. 2025), we introduced \"Design Conductor\" (or just \"Conductor\"), a system capable of building a 5-stage Linux-capable RISC-V CPU in 12 hours. In this",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/design-conductor-20-"
+    },
+    {
+      "id": "psk-at-semeval-2026-task-9-multilingual-polarization-detect",
+      "label": "PSK at SemEval-2026 Task 9: Multilingual Polarization Detection Using Ensemble G",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.45,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "We present our system for SemEval-2026 Task 9: Multilingual Polarization Detection, a binary classification task spanning 22 languages. Our approach fine-tunes separate Gemma~3 models (12B and 27B parameters) per language using Low-Rank Adaptation (LoRA), augmented with synthetic data generated by a",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/psk-at-semeval-2026-"
+    },
+    {
+      "id": "sharp-capacity-thresholds-in-linear-associative-memory-from",
+      "label": "Sharp Capacity Thresholds in Linear Associative Memory: From Winner-Take-All to",
+      "type": "paper",
+      "pillar": "patterns",
+      "pm_score": 0.45,
+      "tags": [
+        "papers",
+        "patterns"
+      ],
+      "summary": "How many key-value associations can a $d\\times d$ linear memory store? We show that the answer depends not only on the $d^2$ degrees of freedom in the memory matrix, but also on the retrieval criterion. In an isotropic Gaussian model for the stored pairs, we show that top-1 retrieval, where every si",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/sharp-capacity-thres"
+    },
+    {
+      "id": "the-first-token-knows-single-decode-confidence-for-hallucin",
+      "label": "The First Token Knows: Single-Decode Confidence for Hallucination Detection",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.45,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "Self-consistency detects hallucinations by generating multiple sampled answers to a question and measuring agreement, but this requires repeated decoding and can be sensitive to lexical variation. Semantic self-consistency improves this by clustering sampled answers by meaning using natural language",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/the-first-token-know"
+    },
+    {
+      "id": "longseeker-elastic-context-orchestration-for-long-horizon-s",
+      "label": "LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents",
+      "type": "paper",
+      "pillar": "patterns",
+      "pm_score": 0.45,
+      "tags": [
+        "papers",
+        "patterns"
+      ],
+      "summary": "Long-horizon search agents must manage a rapidly growing working context as they reason, call tools, and observe information. Naively accumulating all intermediate content can overwhelm the agent, increasing costs and the risk of errors. We propose that effective context management should be adaptiv",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/longseeker-elastic-c"
+    },
+    {
       "id": "sqlite-is-a-library-of-congress-recommended-storag",
       "label": "SQLite Is a Library of Congress Recommended Storage Format",
       "type": "hn",
@@ -226,6 +376,36 @@
       "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/"
     },
     {
+      "id": "almost-orthogonality-in-lp-spaces-a-case-study-with-grok",
+      "label": "Almost-Orthogonality in Lp Spaces: A Case Study with Grok",
+      "type": "paper",
+      "pillar": "unknown",
+      "pm_score": 0.3,
+      "tags": [
+        "papers",
+        "unknown"
+      ],
+      "summary": "Carbery proposed the following sharpened form of triangle inequality for many functions: for any $p\\ge 2$ and any finite sequence $(f_j)_j\\subset L^p$ we have \\[ \\Big\\|\\sum_j f_j\\Big\\|_p \\ \\le\\ \\left(\\sup_{j} \\sum_{k} α_{jk}^{\\,c}\\right)^{1/p'} \\Big(\\sum_j \\|f_j\\|_p^p\\Big)^{1/p}, \\] where $c=2$, $1/",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/almost-orthogonality"
+    },
+    {
+      "id": "grokability-in-five-inequalities",
+      "label": "Grokability in five inequalities",
+      "type": "paper",
+      "pillar": "unknown",
+      "pm_score": 0.25,
+      "tags": [
+        "papers",
+        "unknown"
+      ],
+      "summary": "In this note, we report five mathematical discoveries made in collaboration with Grok, all of which have been subsequently verified by the authors. These include an improved lower bound on the maximal Gaussian perimeter of convex sets in $\\mathbb{R}^n$, sharper $L_2$-$L_1$ moment comparison inequali",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/grokability-in-five-"
+    },
+    {
       "id": "programbench-can-language-models-rebuild-programs",
       "label": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
       "type": "hn",
@@ -374,6 +554,186 @@
       "source_type": "techcrunch",
       "date": "2026-05-07",
       "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/"
+    },
+    {
+      "id": "flow-sampling-learning-to-sample-from-unnormalized-densitie",
+      "label": "Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Cond",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.1,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "Sampling from unnormalized densities is analogous to the generative modeling problem, but the target distribution is defined by a known energy function instead of data samples. Because evaluating the energy function is often costly, a primary challenge is to learn an efficient sampler. We introduce",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/flow-sampling-learni"
+    },
+    {
+      "id": "large-scale-high-quality-3d-gaussian-head-reconstruction-fro",
+      "label": "Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Capture",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.1,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "We propose HeadsUp, a scalable feed-forward method for reconstructing high-quality 3D Gaussian heads from large-scale multi-camera setups. Our method employs an efficient encoder-decoder architecture that compresses input views into a compact latent representation. This latent representation is then",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/large-scale-high-qua"
+    },
+    {
+      "id": "from-intent-to-execution-composing-agentic-workflows-with-a",
+      "label": "From Intent to Execution: Composing Agentic Workflows with Agent Recommendation",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.1,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "Multi-Agent Systems (MAS) built using AI agents fulfill a variety of user intents that may be used to design and build a family of related applications. However, the creation of such MAS currently involves manual composition of the plan, manual selection of appropriate agents, and manual creation of",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/from-intent-to-execu"
+    },
+    {
+      "id": "openseeker-v2-pushing-the-limits-of-search-agents-with-info",
+      "label": "OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Dif",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.1,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "Deep search capabilities have become an indispensable competency for frontier Large Language Model (LLM) agents, yet their development remains dominated by industrial giants. The typical industry recipe involves a highly resource-intensive pipeline spanning pre-training, continual pre-training (CPT)",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/openseeker-v2-pushin"
+    },
+    {
+      "id": "a-closed-form-adaptive-landmark-kernel-for-certified-point-c",
+      "label": "A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Class",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.1,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "We introduce PALACE (Persistence Adaptive-Landmark Analytic Classification Engine), the data-adaptive companion to PLACE, paying a small cross-validation tier on three knobs (budget, radii, bandwidth; $\\leq 5$ choices each). A cover-theoretic core (Lebesgue-number criterion on the landmark cover) yi",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/a-closed-form-adapti"
+    },
+    {
+      "id": "redefining-ai-red-teaming-in-the-agentic-era-from-weeks-to",
+      "label": "Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.1,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "AI systems are entering critical domains like healthcare, finance, and defense, yet remain vulnerable to adversarial attacks. While AI red teaming is a primary defense, current approaches force operators into manual, library-specific workflows. Operators spend weeks hand-crafting workflows - assembl",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/redefining-ai-red-te"
+    },
+    {
+      "id": "symptomai-towards-a-conversational-ai-agent-for-everyday-sy",
+      "label": "SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.1,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "Language models excel at diagnostic assessments on currated medical case-studies and vignettes, performing on par with, or better than, clinical professionals. However, existing studies focus on complex scenarios with rich context making it difficult to draw conclusions about how these systems perfo",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/symptomai-towards-a-"
+    },
+    {
+      "id": "physics-grounded-multi-agent-architecture-for-traceable-ris",
+      "label": "Physics-Grounded Multi-Agent Architecture for Traceable, Risk-Aware Human-AI Dec",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.1,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "High-precision CNC machining of free-form aerospace components requires bounded compensations informed by inspection, simulation, and process knowledge. Off-the-shelf large language model (LLM) assistants can generate text, but they do not reliably execute risk-constrained multi-step numerical workf",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/physics-grounded-mul"
+    },
+    {
+      "id": "enhanced-3d-brain-tumor-segmentation-using-assorted-precisio",
+      "label": "Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.1,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "A brain tumor is a medical disorder faced by individuals of all demographics. Medically, it is described as the spread of non-essential cells close to or throughout the brain. Symptoms of this ailment include headaches, seizures, and sensory changes. This research explores two main categories of bra",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/enhanced-3d-brain-tu"
+    },
+    {
+      "id": "an-agent-oriented-pluggable-experience-rag-skill-for-experie",
+      "label": "An Agent-Oriented Pluggable Experience-RAG Skill for Experience-Driven Retrieval",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.1,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "Retrieval-augmented generation systems often assume that one fixed retrieval pipeline is sufficient across heterogeneous tasks, yet factoid question answering, multi-hop reasoning, and scientific verification exhibit different retrieval preferences. We present Experience-RAG Skill, an agent-oriented",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/an-agent-oriented-pl"
+    },
+    {
+      "id": "conditional-diffusion-sampling",
+      "label": "Conditional Diffusion Sampling",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.1,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "Sampling from unnormalized multimodal distributions with limited density evaluations remains a fundamental challenge in machine learning and natural sciences. Successful approaches construct a bridge between a tractable reference and the target distribution. Parallel Tempering (PT) serves as the gol",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/conditional-diffusio"
+    },
+    {
+      "id": "safety-and-accuracy-follow-different-scaling-laws-in-clinica",
+      "label": "Safety and accuracy follow different scaling laws in clinical large language mod",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.1,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "Clinical LLMs are often scaled by increasing model size, context length, retrieval complexity, or inference-time compute, with the implicit expectation that higher accuracy implies safer behavior. This assumption is incomplete in medicine, where a few confident, high-risk, or evidence-contradicting",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "https://arxiv.org/abs/safety-and-accuracy-"
     },
     {
       "id": "business",
@@ -597,6 +957,160 @@
       "pm_relevance": 0.0775
     },
     {
+      "source": "flow-sampling-learning-to-sample-from-unnormalized-densitie",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "large-scale-high-quality-3d-gaussian-head-reconstruction-fro",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "estimating-the-expected-output-of-wide-random-mlps-more-effi",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "when-life-gives-you-bc-make-q-functions-extracting-q-value",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "geometry-aware-state-space-model-a-new-paradigm-for-whole-s",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "understanding-in-context-learning-for-nonlinear-regression-w",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "taming-outlier-tokens-in-diffusion-transformers",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "design-conductor-20-an-agent-builds-a-turboquant-inference",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "psk-at-semeval-2026-task-9-multilingual-polarization-detect",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "from-intent-to-execution-composing-agentic-workflows-with-a",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "openseeker-v2-pushing-the-limits-of-search-agents-with-info",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "a-closed-form-adaptive-landmark-kernel-for-certified-point-c",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "redefining-ai-red-teaming-in-the-agentic-era-from-weeks-to",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "symptomai-towards-a-conversational-ai-agent-for-everyday-sy",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "physics-grounded-multi-agent-architecture-for-traceable-ris",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "sharp-capacity-thresholds-in-linear-associative-memory-from",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "enhanced-3d-brain-tumor-segmentation-using-assorted-precisio",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "the-first-token-knows-single-decode-confidence-for-hallucin",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "an-agent-oriented-pluggable-experience-rag-skill-for-experie",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "conditional-diffusion-sampling",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "safety-and-accuracy-follow-different-scaling-laws-in-clinica",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "longseeker-elastic-context-orchestration-for-long-horizon-s",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
       "source": "barry-diller-trusts-sam-altman-but-8216trust-i",
       "target": "apple-to-pay-250m-to-settle-lawsuit-over-siri82",
       "relation": "same_pillar:business",
@@ -654,13 +1168,20 @@
     },
     {
       "source": "making-llm-training-faster-with-unsloth-and-nvidia",
-      "target": "capabilities",
+      "target": "flow-sampling-learning-to-sample-from-unnormalized-densitie",
+      "relation": "same_pillar:capabilities",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "flow-sampling-learning-to-sample-from-unnormalized-densitie",
+      "target": "large-scale-high-quality-3d-gaussian-head-reconstruction-fro",
       "relation": "same_pillar:capabilities",
       "type": "PILLAR",
       "pm_relevance": 0.3
     }
   ],
-  "generated_at": "2026-05-07T17:59:21.658560",
+  "generated_at": "2026-05-07T18:05:18.865016",
   "generator": "ai-radar-explorer-v3",
   "schema_version": "4-pillar-pm-focused"
 }
