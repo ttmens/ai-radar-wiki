@@ -1,243 +1,280 @@
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AI Radar Knowledge Graph</title>
-<style>
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body { background: #0d1117; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
-  
-  #header {
-    position: absolute; top: 0; left: 0; right: 0; height: 56px; padding: 0 20px;
-    background: rgba(13,17,23,0.9); backdrop-filter: blur(10px); z-index: 10;
-    display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #21262d;
-  }
-  #header h1 { font-size: 18px; color: #58a6ff; font-weight: 700; }
-  #stats span { background: #21262d; padding: 3px 10px; border-radius: 12px; font-size: 12px; margin-left: 10px; font-family: monospace; }
-  
-  #mynetwork { width: 100%; height: 100vh; }
-  
-  #legend {
-    position: absolute; bottom: 20px; left: 20px; z-index: 10;
-    background: rgba(13,17,23,0.9); padding: 12px; border-radius: 8px; font-size: 12px; border: 1px solid #21262d;
-    backdrop-filter: blur(8px);
-  }
-  .legend-item { display: flex; align-items: center; gap: 10px; margin: 5px 0; }
-  .dot { width: 12px; height: 12px; border-radius: 50%; }
-  
-  /* Node Detail Panel */
-  #detail-panel {
-    position: absolute; top: 0; right: -420px; width: 400px; height: 100%;
-    background: #161b22; border-left: 1px solid #30363d;
-    z-index: 20; transition: right 0.3s ease; overflow-y: auto;
-    box-shadow: -5px 0 30px rgba(0,0,0,0.5);
-  }
-  #detail-panel.active { right: 0; }
-  
-  .panel-header {
-    padding: 20px; border-bottom: 1px solid #21262d;
-    display: flex; justify-content: space-between; align-items: start;
-  }
-  .panel-header h2 { color: #58a6ff; font-size: 18px; line-height: 1.4; margin-right: 10px; }
-  .panel-close {
-    background: none; border: none; color: #8b949e; font-size: 24px;
-    cursor: pointer; padding: 0 5px; line-height: 1;
-  }
-  .panel-close:hover { color: #fff; }
-  
-  .panel-body { padding: 20px; }
-  
-  .panel-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
-  .panel-tag {
-    background: #21262d; padding: 3px 10px; border-radius: 12px;
-    font-size: 11px; color: #58a6ff; border: 1px solid #30363d;
-  }
-  .panel-tag.pillar { background: #1a3a2a; color: #3fb950; border-color: #238636; }
-  .panel-tag.score { background: #3a2a1a; color: #f0883e; border-color: #bd5000; }
-  
-  .panel-section { margin-bottom: 16px; }
-  .panel-section h3 { font-size: 13px; color: #8b949e; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px; }
-  .panel-section p { font-size: 14px; line-height: 1.6; color: #c9d1d9; }
-  
-  .panel-metrics { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 16px; }
-  .metric { background: #21262d; padding: 12px; border-radius: 8px; text-align: center; }
-  .metric-value { font-size: 20px; font-weight: 700; color: #58a6ff; }
-  .metric-label { font-size: 11px; color: #8b949e; margin-top: 4px; }
-  
-  .panel-actions { display: flex; gap: 10px; padding: 16px 20px; border-top: 1px solid #21262d; }
-  .panel-btn {
-    flex: 1; padding: 10px; border-radius: 6px; border: 1px solid #30363d;
-    background: #21262d; color: #c9d1d9; cursor: pointer; font-size: 13px;
-    text-decoration: none; text-align: center; font-weight: 500;
-  }
-  .panel-btn:hover { background: #30363d; }
-  .panel-btn.primary { background: #238636; border-color: #2ea043; color: #fff; }
-  .panel-btn.primary:hover { background: #2ea043; }
-  
-  #loading {
-    position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
-    color: #58a6ff; font-size: 18px; z-index: 20;
-  }
-</style>
-</head>
-<body>
-  <div id="header">
-    <h1>🧠 AI Radar Knowledge Graph</h1>
-    <div id="stats">
-      <span id="node-count">Nodes: 0</span>
-      <span id="edge-count">Edges: 0</span>
-    </div>
-  </div>
-  
-  <div id="mynetwork"><div id="loading">Loading Graph...</div></div>
-  
-  <div id="legend">
-    <div class="legend-item"><span class="dot" style="background:#58a6ff"></span> Project / Repo</div>
-    <div class="legend-item"><span class="dot" style="background:#3fb950"></span> Concept / Topic</div>
-    <div class="legend-item"><span class="dot" style="background:#f0883e"></span> Paper / Research</div>
-    <div class="legend-item"><span class="dot" style="background:#bc8cff"></span> Company</div>
-    <div class="legend-item"><span class="dot" style="background:#f778ba"></span> Discussion / Product</div>
-  </div>
+     1|<!DOCTYPE html>
+     2|<html lang="zh">
+     3|<head>
+<!-- SEO & Social Sharing -->
+<meta name="description" content="AI Radar Wiki — Automated knowledge base for AI product managers. 4-pillar system with interactive graph. Updated every 4 hours.">
+<meta name="keywords" content="AI radar, knowledge graph, AI product management, AI trends, machine learning, LLM, agent, open source">
+<meta name="author" content="ttmens">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://ttmens.github.io/ai-radar-wiki/graph.html">
 
-  <!-- Detail Panel -->
-  <div id="detail-panel">
-    <div class="panel-header">
-      <h2 id="panel-title">Node Title</h2>
-      <button class="panel-close" onclick="hidePanel()">×</button>
-    </div>
-    <div class="panel-body">
-      <div class="panel-tags" id="panel-tags"></div>
-      <div class="panel-metrics" id="panel-metrics"></div>
-      <div class="panel-section">
-        <h3>Summary</h3>
-        <p id="panel-desc">No summary available.</p>
-      </div>
-      <div class="panel-section" id="panel-authors-section" style="display:none">
-        <h3>Authors</h3>
-        <p id="panel-authors"></p>
-      </div>
-    </div>
-    <div class="panel-actions" id="panel-actions"></div>
-  </div>
+<!-- Open Graph (Facebook, LinkedIn, Discord) -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="🧠 AI Radar Knowledge Graph — AI Product Manager Wiki">
+<meta property="og:description" content="Automated AI knowledge base. 4-pillar system covering capabilities, patterns, ecosystem, and business. Updated every 4 hours with interactive graph.">
+<meta property="og:url" content="https://ttmens.github.io/ai-radar-wiki/graph.html">
+<meta property="og:site_name" content="AI Radar Wiki">
+<meta property="og:locale" content="zh_CN">
 
-  <script>
-  // Load vis-network library inline (700KB minified)
-  const visScript = document.createElement('script');
-  visScript.src = 'https://unpkg.com/vis-network@9.1.6/standalone/umd/vis-network.min.js';
-  visScript.onload = () => loadGraphData();
-  document.head.appendChild(visScript);
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="🧠 AI Radar Knowledge Graph">
+<meta name="twitter:description" content="Automated AI knowledge base for product managers — 4 pillars, interactive graph, self-evolving.">
 
-  const pillarColors = {
-    'capabilities': '#58a6ff', 'patterns': '#3fb950',
-    'ecosystem': '#a371f7', 'business': '#f0883e',
-    'unknown': '#8b949e'
-  };
-  const typeColors = { project: '#58a6ff', concept: '#3fb950', paper: '#f0883e', company: '#bc8cff', discussion: '#f778ba', product: '#f778ba' };
-
-  let network, graphData;
-
-  function loadGraphData() {
-    fetch('./graph.json?' + Date.now())
-      .then(r => r.json())
-      .then(renderGraph)
-      .catch(err => {
-        document.getElementById('loading').innerHTML = `❌ Load Failed: ${err.message}`;
-      });
-  }
-
-  function renderGraph(data) {
-    graphData = data;
-    document.getElementById('node-count').textContent = `Nodes: ${data.nodes.length}`;
-    document.getElementById('edge-count').textContent = `Edges: ${data.edges.length}`;
-    document.getElementById('loading').style.display = 'none';
-    
-    const nodes = new vis.DataSet(data.nodes.map(n => ({
-      id: n.id,
-      label: n.label.length > 20 ? n.label.slice(0, 20) + '...' : n.label,
-      shape: 'dot',
-      size: n.type === 'paper' ? 25 : (n.stars ? Math.max(12, Math.min(35, n.stars / 300 + 12)) : 18),
-      color: { 
-        background: pillarColors[n.pillar] || typeColors[n.type] || '#8b949e',
-        border: 'rgba(255,255,255,0.4)',
-        highlight: { background: pillarColors[n.pillar] || typeColors[n.type] || '#fff', border: '#fff' }
-      },
-      font: { color: '#fff', size: 13, strokeWidth: 2, strokeColor: '#0d1117' },
-      borderWidth: 2,
-      title: `${n.label}\nPM Score: ${n.pm_score || 'N/A'}`
-    })));
-    
-    const edges = new vis.DataSet(data.edges.map(e => ({
-      from: e.source, to: e.target,
-      color: { color: e.type === 'PILLAR' ? 'rgba(63,185,80,0.15)' : 'rgba(139,148,158,0.12)' },
-      width: e.type === 'PILLAR' ? 1.5 : 1,
-      label: e.relation && !e.relation.startsWith('same') ? '' : '',
-      smooth: { type: 'curvedCW', roundness: 0.1 }
-    })));
-    
-    const container = document.getElementById('mynetwork');
-    network = new vis.Network(container, { nodes, edges }, {
-      physics: {
-        barnesHut: { gravitationalConstant: -4000, springLength: 160, springConstant: 0.015 },
-        stabilization: { iterations: 200, fit: true }
-      },
-      interaction: { hover: true, tooltipDelay: 50, zoomView: true, dragView: true, dragNodes: true }
-    });
-    
-    network.on('click', function(params) {
-      if (params.nodes.length > 0) {
-        const node = data.nodes.find(n => n.id === params.nodes[0]);
-        if (node) showPanel(node);
-      } else {
-        hidePanel();
-      }
-    });
-  }
-
-  function showPanel(node) {
-    document.getElementById('panel-title').textContent = node.label;
-    
-    // Tags
-    const tags = (node.tags || []).map(t => `<span class="panel-tag">${t}</span>`).join('');
-    const pillarTag = node.pillar && node.pillar !== 'unknown' ? `<span class="panel-tag pillar">🏷️ ${node.pillar}</span>` : '';
-    const scoreTag = node.pm_score ? `<span class="panel-tag score">🎯 ${node.pm_score}</span>` : '';
-    document.getElementById('panel-tags').innerHTML = pillarTag + scoreTag + tags;
-    
-    // Metrics
-    const metrics = [];
-    if (node.stars) metrics.push(`<div class="metric"><div class="metric-value">⭐ ${node.stars}</div><div class="metric-label">Stars</div></div>`);
-    if (node.score) metrics.push(`<div class="metric"><div class="metric-value">🔥 ${node.score}</div><div class="metric-label">HN Score</div></div>`);
-    if (node.comments) metrics.push(`<div class="metric"><div class="metric-value">💬 ${node.comments}</div><div class="metric-label">Comments</div></div>`);
-    document.getElementById('panel-metrics').innerHTML = metrics.join('');
-    
-    // Description
-    document.getElementById('panel-desc').textContent = node.summary || "No summary available.";
-    
-    // Authors
-    const authorsSection = document.getElementById('panel-authors-section');
-    if (node.authors && node.authors.length > 0) {
-      authorsSection.style.display = 'block';
-      document.getElementById('panel-authors').textContent = node.authors.join(', ');
-    } else {
-      authorsSection.style.display = 'none';
-    }
-    
-    // Actions
-    const actions = document.getElementById('panel-actions');
-    actions.innerHTML = '';
-    if (node.url) {
-      actions.innerHTML += `<a href="${node.url}" target="_blank" class="panel-btn primary">View Source ↗</a>`;
-    }
-    // Wiki link (entities or concepts based on type)
-    const wikiDir = (node.type === 'paper') ? 'concepts' : 'entities';
-    actions.innerHTML += `<a href="https://ttmens.github.io/ai-radar-wiki/${wikiDir}/${node.id}.md" target="_blank" class="panel-btn">View Wiki ↗</a>`;
-    
-    document.getElementById('detail-panel').classList.add('active');
-  }
-
-  function hidePanel() {
-    document.getElementById('detail-panel').classList.remove('active');
-  }
+<!-- Structured Data (JSON-LD) for Google -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "AI Radar Knowledge Graph",
+  "description": "Automated AI knowledge base for product managers covering model capabilities, product patterns, ecosystem tools, and business trends.",
+  "url": "https://ttmens.github.io/ai-radar-wiki/graph.html",
+  "keywords": "AI, knowledge graph, product management, LLM, agents, trends",
+  "creator": { "@type": "Organization", "name": "AI Radar" },
+  "distribution": "https://ttmens.github.io/ai-radar-wiki/graph.json",
+  "temporalCoverage": "2026-05",
+  "license": "https://opensource.org/licenses/MIT"
+}
 </script>
-</body>
-</html>
+
+     4|<meta charset="UTF-8">
+     5|<meta name="viewport" content="width=device-width, initial-scale=1.0">
+     6|<title>AI Radar Knowledge Graph</title>
+     7|<style>
+     8|  * { margin: 0; padding: 0; box-sizing: border-box; }
+     9|  body { background: #0d1117; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    10|  
+    11|  #header {
+    12|    position: absolute; top: 0; left: 0; right: 0; height: 56px; padding: 0 20px;
+    13|    background: rgba(13,17,23,0.9); backdrop-filter: blur(10px); z-index: 10;
+    14|    display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #21262d;
+    15|  }
+    16|  #header h1 { font-size: 18px; color: #58a6ff; font-weight: 700; }
+    17|  #stats span { background: #21262d; padding: 3px 10px; border-radius: 12px; font-size: 12px; margin-left: 10px; font-family: monospace; }
+    18|  
+    19|  #mynetwork { width: 100%; height: 100vh; }
+    20|  
+    21|  #legend {
+    22|    position: absolute; bottom: 20px; left: 20px; z-index: 10;
+    23|    background: rgba(13,17,23,0.9); padding: 12px; border-radius: 8px; font-size: 12px; border: 1px solid #21262d;
+    24|    backdrop-filter: blur(8px);
+    25|  }
+    26|  .legend-item { display: flex; align-items: center; gap: 10px; margin: 5px 0; }
+    27|  .dot { width: 12px; height: 12px; border-radius: 50%; }
+    28|  
+    29|  /* Node Detail Panel */
+    30|  #detail-panel {
+    31|    position: absolute; top: 0; right: -420px; width: 400px; height: 100%;
+    32|    background: #161b22; border-left: 1px solid #30363d;
+    33|    z-index: 20; transition: right 0.3s ease; overflow-y: auto;
+    34|    box-shadow: -5px 0 30px rgba(0,0,0,0.5);
+    35|  }
+    36|  #detail-panel.active { right: 0; }
+    37|  
+    38|  .panel-header {
+    39|    padding: 20px; border-bottom: 1px solid #21262d;
+    40|    display: flex; justify-content: space-between; align-items: start;
+    41|  }
+    42|  .panel-header h2 { color: #58a6ff; font-size: 18px; line-height: 1.4; margin-right: 10px; }
+    43|  .panel-close {
+    44|    background: none; border: none; color: #8b949e; font-size: 24px;
+    45|    cursor: pointer; padding: 0 5px; line-height: 1;
+    46|  }
+    47|  .panel-close:hover { color: #fff; }
+    48|  
+    49|  .panel-body { padding: 20px; }
+    50|  
+    51|  .panel-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
+    52|  .panel-tag {
+    53|    background: #21262d; padding: 3px 10px; border-radius: 12px;
+    54|    font-size: 11px; color: #58a6ff; border: 1px solid #30363d;
+    55|  }
+    56|  .panel-tag.pillar { background: #1a3a2a; color: #3fb950; border-color: #238636; }
+    57|  .panel-tag.score { background: #3a2a1a; color: #f0883e; border-color: #bd5000; }
+    58|  
+    59|  .panel-section { margin-bottom: 16px; }
+    60|  .panel-section h3 { font-size: 13px; color: #8b949e; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px; }
+    61|  .panel-section p { font-size: 14px; line-height: 1.6; color: #c9d1d9; }
+    62|  
+    63|  .panel-metrics { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 16px; }
+    64|  .metric { background: #21262d; padding: 12px; border-radius: 8px; text-align: center; }
+    65|  .metric-value { font-size: 20px; font-weight: 700; color: #58a6ff; }
+    66|  .metric-label { font-size: 11px; color: #8b949e; margin-top: 4px; }
+    67|  
+    68|  .panel-actions { display: flex; gap: 10px; padding: 16px 20px; border-top: 1px solid #21262d; }
+    69|  .panel-btn {
+    70|    flex: 1; padding: 10px; border-radius: 6px; border: 1px solid #30363d;
+    71|    background: #21262d; color: #c9d1d9; cursor: pointer; font-size: 13px;
+    72|    text-decoration: none; text-align: center; font-weight: 500;
+    73|  }
+    74|  .panel-btn:hover { background: #30363d; }
+    75|  .panel-btn.primary { background: #238636; border-color: #2ea043; color: #fff; }
+    76|  .panel-btn.primary:hover { background: #2ea043; }
+    77|  
+    78|  #loading {
+    79|    position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+    80|    color: #58a6ff; font-size: 18px; z-index: 20;
+    81|  }
+    82|</style>
+    83|</head>
+    84|<body>
+    85|  <div id="header">
+    86|    <h1>🧠 AI Radar Knowledge Graph</h1>
+    87|    <div id="stats">
+    88|      <span id="node-count">Nodes: 0</span>
+    89|      <span id="edge-count">Edges: 0</span>
+    90|    </div>
+    91|  </div>
+    92|  
+    93|  <div id="mynetwork"><div id="loading">Loading Graph...</div></div>
+    94|  
+    95|  <div id="legend">
+    96|    <div class="legend-item"><span class="dot" style="background:#58a6ff"></span> Project / Repo</div>
+    97|    <div class="legend-item"><span class="dot" style="background:#3fb950"></span> Concept / Topic</div>
+    98|    <div class="legend-item"><span class="dot" style="background:#f0883e"></span> Paper / Research</div>
+    99|    <div class="legend-item"><span class="dot" style="background:#bc8cff"></span> Company</div>
+   100|    <div class="legend-item"><span class="dot" style="background:#f778ba"></span> Discussion / Product</div>
+   101|  </div>
+   102|
+   103|  <!-- Detail Panel -->
+   104|  <div id="detail-panel">
+   105|    <div class="panel-header">
+   106|      <h2 id="panel-title">Node Title</h2>
+   107|      <button class="panel-close" onclick="hidePanel()">×</button>
+   108|    </div>
+   109|    <div class="panel-body">
+   110|      <div class="panel-tags" id="panel-tags"></div>
+   111|      <div class="panel-metrics" id="panel-metrics"></div>
+   112|      <div class="panel-section">
+   113|        <h3>Summary</h3>
+   114|        <p id="panel-desc">No summary available.</p>
+   115|      </div>
+   116|      <div class="panel-section" id="panel-authors-section" style="display:none">
+   117|        <h3>Authors</h3>
+   118|        <p id="panel-authors"></p>
+   119|      </div>
+   120|    </div>
+   121|    <div class="panel-actions" id="panel-actions"></div>
+   122|  </div>
+   123|
+   124|  <script>
+   125|  // Load vis-network library inline (700KB minified)
+   126|  const visScript = document.createElement('script');
+   127|  visScript.src = 'https://unpkg.com/vis-network@9.1.6/standalone/umd/vis-network.min.js';
+   128|  visScript.onload = () => loadGraphData();
+   129|  document.head.appendChild(visScript);
+   130|
+   131|  const pillarColors = {
+   132|    'capabilities': '#58a6ff', 'patterns': '#3fb950',
+   133|    'ecosystem': '#a371f7', 'business': '#f0883e',
+   134|    'unknown': '#8b949e'
+   135|  };
+   136|  const typeColors = { project: '#58a6ff', concept: '#3fb950', paper: '#f0883e', company: '#bc8cff', discussion: '#f778ba', product: '#f778ba' };
+   137|
+   138|  let network, graphData;
+   139|
+   140|  function loadGraphData() {
+   141|    fetch('./graph.json?' + Date.now())
+   142|      .then(r => r.json())
+   143|      .then(renderGraph)
+   144|      .catch(err => {
+   145|        document.getElementById('loading').innerHTML = `❌ Load Failed: ${err.message}`;
+   146|      });
+   147|  }
+   148|
+   149|  function renderGraph(data) {
+   150|    graphData = data;
+   151|    document.getElementById('node-count').textContent = `Nodes: ${data.nodes.length}`;
+   152|    document.getElementById('edge-count').textContent = `Edges: ${data.edges.length}`;
+   153|    document.getElementById('loading').style.display = 'none';
+   154|    
+   155|    const nodes = new vis.DataSet(data.nodes.map(n => ({
+   156|      id: n.id,
+   157|      label: n.label.length > 20 ? n.label.slice(0, 20) + '...' : n.label,
+   158|      shape: 'dot',
+   159|      size: n.type === 'paper' ? 25 : (n.stars ? Math.max(12, Math.min(35, n.stars / 300 + 12)) : 18),
+   160|      color: { 
+   161|        background: pillarColors[n.pillar] || typeColors[n.type] || '#8b949e',
+   162|        border: 'rgba(255,255,255,0.4)',
+   163|        highlight: { background: pillarColors[n.pillar] || typeColors[n.type] || '#fff', border: '#fff' }
+   164|      },
+   165|      font: { color: '#fff', size: 13, strokeWidth: 2, strokeColor: '#0d1117' },
+   166|      borderWidth: 2,
+   167|      title: `${n.label}\nPM Score: ${n.pm_score || 'N/A'}`
+   168|    })));
+   169|    
+   170|    const edges = new vis.DataSet(data.edges.map(e => ({
+   171|      from: e.source, to: e.target,
+   172|      color: { color: e.type === 'PILLAR' ? 'rgba(63,185,80,0.15)' : 'rgba(139,148,158,0.12)' },
+   173|      width: e.type === 'PILLAR' ? 1.5 : 1,
+   174|      label: e.relation && !e.relation.startsWith('same') ? '' : '',
+   175|      smooth: { type: 'curvedCW', roundness: 0.1 }
+   176|    })));
+   177|    
+   178|    const container = document.getElementById('mynetwork');
+   179|    network = new vis.Network(container, { nodes, edges }, {
+   180|      physics: {
+   181|        barnesHut: { gravitationalConstant: -4000, springLength: 160, springConstant: 0.015 },
+   182|        stabilization: { iterations: 200, fit: true }
+   183|      },
+   184|      interaction: { hover: true, tooltipDelay: 50, zoomView: true, dragView: true, dragNodes: true }
+   185|    });
+   186|    
+   187|    network.on('click', function(params) {
+   188|      if (params.nodes.length > 0) {
+   189|        const node = data.nodes.find(n => n.id === params.nodes[0]);
+   190|        if (node) showPanel(node);
+   191|      } else {
+   192|        hidePanel();
+   193|      }
+   194|    });
+   195|  }
+   196|
+   197|  function showPanel(node) {
+   198|    document.getElementById('panel-title').textContent = node.label;
+   199|    
+   200|    // Tags
+   201|    const tags = (node.tags || []).map(t => `<span class="panel-tag">${t}</span>`).join('');
+   202|    const pillarTag = node.pillar && node.pillar !== 'unknown' ? `<span class="panel-tag pillar">🏷️ ${node.pillar}</span>` : '';
+   203|    const scoreTag = node.pm_score ? `<span class="panel-tag score">🎯 ${node.pm_score}</span>` : '';
+   204|    document.getElementById('panel-tags').innerHTML = pillarTag + scoreTag + tags;
+   205|    
+   206|    // Metrics
+   207|    const metrics = [];
+   208|    if (node.stars) metrics.push(`<div class="metric"><div class="metric-value">⭐ ${node.stars}</div><div class="metric-label">Stars</div></div>`);
+   209|    if (node.score) metrics.push(`<div class="metric"><div class="metric-value">🔥 ${node.score}</div><div class="metric-label">HN Score</div></div>`);
+   210|    if (node.comments) metrics.push(`<div class="metric"><div class="metric-value">💬 ${node.comments}</div><div class="metric-label">Comments</div></div>`);
+   211|    document.getElementById('panel-metrics').innerHTML = metrics.join('');
+   212|    
+   213|    // Description
+   214|    document.getElementById('panel-desc').textContent = node.summary || "No summary available.";
+   215|    
+   216|    // Authors
+   217|    const authorsSection = document.getElementById('panel-authors-section');
+   218|    if (node.authors && node.authors.length > 0) {
+   219|      authorsSection.style.display = 'block';
+   220|      document.getElementById('panel-authors').textContent = node.authors.join(', ');
+   221|    } else {
+   222|      authorsSection.style.display = 'none';
+   223|    }
+   224|    
+   225|    // Actions
+   226|    const actions = document.getElementById('panel-actions');
+   227|    actions.innerHTML = '';
+   228|    if (node.url) {
+   229|      actions.innerHTML += `<a href="${node.url}" target="_blank" class="panel-btn primary">View Source ↗</a>`;
+   230|    }
+   231|    // Wiki link (entities or concepts based on type)
+   232|    const wikiDir = (node.type === 'paper') ? 'concepts' : 'entities';
+   233|    actions.innerHTML += `<a href="https://ttmens.github.io/ai-radar-wiki/${wikiDir}/${node.id}.md" target="_blank" class="panel-btn">View Wiki ↗</a>`;
+   234|    
+   235|    document.getElementById('detail-panel').classList.add('active');
+   236|  }
+   237|
+   238|  function hidePanel() {
+   239|    document.getElementById('detail-panel').classList.remove('active');
+   240|  }
+   241|</script>
+   242|</body>
+   243|</html>
+   244|

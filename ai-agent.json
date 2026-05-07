@@ -1,0 +1,43 @@
+{
+  "name": "AI Radar Wiki",
+  "description": "Automated AI knowledge base for product managers — 4-pillar system covering model capabilities, product patterns, ecosystem tools, and business trends.",
+  "version": "3.0",
+  "type": "knowledge-base",
+  "url": "https://ttmens.github.io/ai-radar-wiki/",
+  "api": {
+    "graph_data": "https://ttmens.github.io/ai-radar-wiki/graph.json",
+    "index": "https://ttmens.github.io/ai-radar-wiki/index.md",
+    "schema": "https://ttmens.github.io/ai-radar-wiki/SCHEMA.md",
+    "raw_data": "https://ttmens.github.io/ai-radar-wiki/raw/"
+  },
+  "data_format": {
+    "graph": "JSON (nodes + edges)",
+    "pages": "Markdown with YAML frontmatter",
+    "raw": "JSON"
+  },
+  "update_frequency": "every 4 hours",
+  "last_updated": "2026-05-07",
+  "pillars": [
+    "capabilities",
+    "patterns",
+    "ecosystem",
+    "business"
+  ],
+  "sources": [
+    "GitHub",
+    "arXiv",
+    "Hacker News",
+    "Product Hunt"
+  ],
+  "usage": {
+    "clone": "git clone https://github.com/ttmens/ai-radar-wiki.git",
+    "raw_json": "curl https://ttmens.github.io/ai-radar-wiki/graph.json",
+    "api_docs": "https://github.com/ttmens/ai-radar-wiki/blob/main/SCHEMA.md"
+  },
+  "license": "MIT",
+  "contact": {
+    "github": "https://github.com/ttmens/ai-radar-wiki"
+  },
+  "agent_instructions": "This is a self-evolving AI knowledge base. To consume: 1) Fetch graph.json for the full knowledge graph (nodes + edges with pm_score weights). 2) Fetch index.md for categorized content listing. 3) Fetch individual .md files from entities/ or concepts/ for detailed pages. 4) Each page has YAML frontmatter with pillar, pm_score, tags metadata. 5) Data updates every 4 hours automatically.",
+  "_well_known_path": "/.well-known/ai-agent.json"
+}

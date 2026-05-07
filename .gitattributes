@@ -1,0 +1,6 @@
+# Auto-detect language
+*.md linguist-documentation=true
+*.json linguist-generated=true
+
+# Markdown rendering
+*.md diff=astextplain

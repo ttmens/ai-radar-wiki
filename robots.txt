@@ -1,0 +1,23 @@
+# AI Radar Wiki — robots.txt
+User-agent: *
+Allow: /
+Allow: /graph.html
+Allow: /index.md
+Allow: /entities/
+Allow: /concepts/
+Allow: /SCHEMA.md
+Allow: /README.md
+
+# Allow AI crawlers full access
+User-agent: GPTBot
+Allow: /
+User-agent: CCBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://ttmens.github.io/ai-radar-wiki/sitemap.xml
