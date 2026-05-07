@@ -5,173 +5,124 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AI Radar Knowledge Graph</title>
 <style>
-  :root {
-    --bg: #0d1117;
-    --fg: #c9d1d9;
-    --accent: #58a6ff;
-    --muted: #8b949e;
-    --border: #21262d;
-    --panel-bg: rgba(13,17,23,0.85);
-  }
   * { margin: 0; padding: 0; box-sizing: border-box; }
-  body { background: var(--bg); color: var(--fg); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; overflow: hidden; }
-  
-  #app { display: flex; flex-direction: column; height: 100vh; }
+  body { background: #0d1117; color: #c9d1d9; font-family: sans-serif; overflow: hidden; }
   
   #header {
-    height: 56px; padding: 0 20px; border-bottom: 1px solid var(--border);
-    display: flex; align-items: center; justify-content: space-between;
-    background: var(--panel-bg); backdrop-filter: blur(8px); z-index: 10;
+    position: absolute; top: 0; left: 0; right: 0; height: 56px; padding: 0 20px;
+    background: rgba(13,17,23,0.8); backdrop-filter: blur(8px); z-index: 10;
+    display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #21262d;
   }
-  #header h1 { font-size: 16px; font-weight: 600; color: var(--accent); display: flex; align-items: center; gap: 8px; }
-  #header .stats { font-size: 13px; color: var(--muted); display: flex; gap: 16px; }
-  .badge { background: var(--border); padding: 2px 8px; border-radius: 12px; font-size: 12px; }
+  #header h1 { font-size: 16px; color: #58a6ff; font-weight: 600; }
+  #stats span { background: #21262d; padding: 2px 8px; border-radius: 12px; font-size: 12px; margin-left: 10px; }
   
-  #search-box {
-    position: absolute; top: 70px; left: 20px; z-index: 20;
-    background: var(--panel-bg); border: 1px solid var(--border); border-radius: 8px; padding: 8px 12px;
-    display: flex; align-items: center; gap: 8px; backdrop-filter: blur(8px);
-  }
-  #search-input { background: transparent; border: none; color: var(--fg); font-size: 14px; outline: none; width: 200px; }
-  #search-input::placeholder { color: var(--muted); }
-  
-  #graph-container { flex: 1; position: relative; }
+  #graph { width: 100%; height: 100vh; }
   
   #legend {
-    position: absolute; bottom: 20px; left: 20px; z-index: 20;
-    background: var(--panel-bg); padding: 12px; border-radius: 8px; font-size: 12px; border: 1px solid var(--border);
-    backdrop-filter: blur(8px);
+    position: absolute; bottom: 20px; left: 20px; z-index: 10;
+    background: rgba(13,17,23,0.8); padding: 10px; border-radius: 8px; font-size: 12px; border: 1px solid #21262d;
   }
-  .legend-item { display: flex; align-items: center; gap: 8px; margin: 4px 0; }
-  .dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
-  
-  #tooltip {
-    position: absolute; z-index: 30; pointer-events: none; display: none;
-    background: var(--panel-bg); border: 1px solid var(--border); border-radius: 8px; padding: 10px;
-    max-width: 300px; backdrop-filter: blur(8px); font-size: 13px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);
-  }
-  #tooltip a { color: var(--accent); text-decoration: none; }
-  #tooltip a:hover { text-decoration: underline; }
-  #tooltip .title { font-weight: 600; margin-bottom: 4px; }
-  #tooltip .meta { color: var(--muted); font-size: 11px; }
+  .item { display: flex; align-items: center; gap: 8px; margin: 4px 0; }
+  .dot { width: 10px; height: 10px; border-radius: 50%; }
 </style>
 </head>
 <body>
-<div id="app">
   <div id="header">
-    <h1><span style="font-size:20px">🧠</span> AI Radar Knowledge Graph</h1>
-    <div class="stats">
-      <span class="badge" id="node-count">Nodes: 0</span>
-      <span class="badge" id="edge-count">Edges: 0</span>
-    </div>
+    <h1>🧠 AI Radar Knowledge Graph</h1>
+    <div id="stats">Loading...</div>
   </div>
   
-  <div id="search-box">
-    <span>🔍</span>
-    <input type="text" id="search-input" placeholder="Search nodes... (e.g., Agent, LLM)">
-  </div>
-
-  <div id="graph-container"></div>
+  <div id="graph"></div>
   
   <div id="legend">
-    <div class="legend-item"><span class="dot" style="background:#58a6ff"></span> Project / Repo</div>
-    <div class="legend-item"><span class="dot" style="background:#3fb950"></span> Concept / Topic</div>
-    <div class="legend-item"><span class="dot" style="background:#f0883e"></span> Paper / Research</div>
-    <div class="legend-item"><span class="dot" style="background:#bc8cff"></span> Company</div>
+    <div class="item"><span class="dot" style="background:#58a6ff"></span> Project</div>
+    <div class="item"><span class="dot" style="background:#3fb950"></span> Concept</div>
+    <div class="item"><span class="dot" style="background:#f0883e"></span> Paper</div>
+    <div class="item"><span class="dot" style="background:#bc8cff"></span> Company</div>
   </div>
-</div>
 
-<div id="tooltip"></div>
-
-<script src="https://unpkg.com/vis-network@9.1.6/standalone/umd/vis-network.min.js"></script>
-<script>
-const typeColors = { project: '#58a6ff', concept: '#3fb950', paper: '#f0883e', company: '#bc8cff' };
-let network = null;
-let allNodes = [];
-let allEdges = [];
-
-// Load data
-fetch('./graph.json?t=' + Date.now())
-  .then(r => r.json())
-  .then(graphData => {
-    document.getElementById('node-count').textContent = `Nodes: ${graphData.nodes.length}`;
-    document.getElementById('edge-count').textContent = `Edges: ${graphData.edges.length}`;
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+  <script>
+    const chart = echarts.init(document.getElementById('graph'));
+    const colors = { project: '#58a6ff', concept: '#3fb950', paper: '#f0883e', company: '#bc8cff' };
     
-    allNodes = graphData.nodes;
-    allEdges = graphData.edges;
-    
-    const nodes = new vis.DataSet(
-      graphData.nodes.map(n => ({
-        id: n.id,
-        label: n.label.length > 30 ? n.label.slice(0, 28) + '...' : n.label,
-        color: { background: typeColors[n.type] || '#8b949e', border: 'rgba(255,255,255,0.2)', highlight: typeColors[n.type] || '#8b949e' },
-        font: { color: '#c9d1d9', size: 14, face: 'sans-serif' },
-        shape: 'dot',
-        size: n.type === 'paper' ? 15 : Math.max(10, Math.min(25, (n.stars || 100) / 100 + 10)),
-        borderWidth: 2,
-        shadow: { enabled: true, color: typeColors[n.type] || '#8b949e', size: 10, x: 0, y: 0 }
-      }))
-    );
-    
-    const edges = new vis.DataSet(
-      graphData.edges.map(e => ({
-        from: e.source, to: e.target,
-        label: e.relation.replace('shared:', '').replace('co-crawled', 'same run'),
-        color: { color: 'rgba(139,148,158,0.15)' },
-        font: { color: '#8b949e', size: 9, align: 'top' },
-        smooth: { type: 'curvedCW', roundness: 0.15 },
-        width: e.relation.startsWith('shared') ? 2 : 1,
-        dashes: e.relation === 'co-crawled'
-      }))
-    );
-    
-    const container = document.getElementById('graph-container');
-    const data = { nodes, edges };
-    const options = {
-      physics: { enabled: true, barnesHut: { gravitationalConstant: -3000, springLength: 150, springConstant: 0.04 } },
-      interaction: { hover: true, tooltipDelay: 50, zoomView: true, dragView: true, dragNodes: true, navigationButtons: true, keyboard: true },
-      layout: { improvedLayout: true }
-    };
-    
-    network = new vis.Network(container, data, options);
-    
-    // Tooltip
-    const tooltip = document.getElementById('tooltip');
-    network.on('hoverNode', function(params) {
-      const nodeId = params.node;
-      const node = graphData.nodes.find(n => n.id === nodeId);
-      if (!node) return;
-      tooltip.innerHTML = `<div class="title">${node.label}</div>`;
-      if (node.url) tooltip.innerHTML += `<a href="${node.url}" target="_blank">Open Link ↗</a><br>`;
-      if (node.tags) tooltip.innerHTML += `<span class="meta">Tags: ${node.tags.join(', ')}</span>`;
-      tooltip.style.display = 'block';
-    });
-    network.on('hideNode', function() { tooltip.style.display = 'none'; });
-    network.on('afterDrawing', function(ctx) {
-      const pos = network.canvasToDOM({ x: tooltip.offsetLeft, y: tooltip.offsetTop });
-    });
-    
-    // Tooltip positioning
-    network.on('hoverNode', function(params) {
-      const pos = network.canvasToDOM(params.pointer.canvas);
-      tooltip.style.left = (pos.x + 15) + 'px';
-      tooltip.style.top = (pos.y + 15) + 'px';
-    });
-    
-    // Search
-    const input = document.getElementById('search-input');
-    input.addEventListener('input', (e) => {
-      const q = e.target.value.toLowerCase();
-      if (!q) { network.fit(); return; }
-      const matches = graphData.nodes.filter(n => n.label.toLowerCase().includes(q)).map(n => n.id);
-      const view = new vis.DataView(nodes, { filter: n => matches.includes(n.id) || graphData.edges.some(e => matches.includes(e.source) && matches.includes(e.target) && (e.source === n.id || e.target === n.id)) });
-      // 高亮搜索节点
-      nodes.update(graphData.nodes.map(n => {
-        const match = n.label.toLowerCase().includes(q);
-        return { id: n.id, opacity: match ? 1 : 0.2, label: match ? n.label : (n.label.length > 30 ? n.label.slice(0, 28) + '...' : n.label) };
-      }));
-    });
-  });
-</script>
+    // Force refresh graph.json
+    fetch('./graph.json?t=' + Date.now())
+      .then(r => {
+        if (!r.ok) throw new Error('Network response was not ok');
+        return r.json();
+      })
+      .then(data => {
+        document.getElementById('stats').innerHTML = 
+          `<span>Nodes: ${data.nodes.length}</span><span>Edges: ${data.edges.length}</span>`;
+        
+        // Convert to ECharts format
+        const nodes = data.nodes.map(n => ({
+          id: n.id,
+          name: n.label.length > 25 ? n.label.slice(0, 25) + '...' : n.label,
+          symbolSize: n.type === 'paper' ? 25 : (n.stars ? n.stars / 50 + 10 : 20),
+          itemStyle: { color: colors[n.type] || '#8b949e' },
+          category: n.type,
+          value: n.label, // For tooltip
+          url: n.url
+        }));
+        
+        const links = data.edges.map(e => ({
+          source: e.source,
+          target: e.target,
+          label: { show: false } // Hide edge labels to reduce clutter
+        }));
+        
+        const option = {
+          tooltip: {
+            trigger: 'item',
+            formatter: function(p) {
+              if (p.dataType === 'node') {
+                return `<div style="max-width:200px"><b>${p.data.value}</b><br><a href="${p.data.url}" target="_blank" style="color:#58a6ff">View Details ↗</a></div>`;
+              }
+              return p.data.source + ' → ' + p.data.target;
+            }
+          },
+          legend: [{
+            data: ['Project', 'Concept', 'Paper', 'Company'],
+            orient: 'vertical',
+            right: 10,
+            top: 60,
+            textStyle: { color: '#c9d1d9' }
+          }],
+          series: [{
+            type: 'graph',
+            layout: 'force',
+            force: { repulsion: 400, edgeLength: 100, gravity: 0.1 },
+            data: nodes,
+            links: links,
+            categories: [
+              { name: 'Project' }, { name: 'Concept' }, { name: 'Paper' }, { name: 'Company' }
+            ],
+            roam: true,
+            label: { show: true, position: 'right', color: '#c9d1d9', fontSize: 12 },
+            lineStyle: { color: '#484f58', width: 2, curveness: 0.3 },
+            emphasis: { focus: 'adjacency', lineStyle: { width: 4 } }
+          }]
+        };
+        
+        chart.setOption(option);
+        
+        // Handle resize
+        window.addEventListener('resize', () => chart.resize());
+        
+        // Click open link
+        chart.on('click', function(params) {
+          if (params.dataType === 'node' && params.data.url) {
+            window.open(params.data.url, '_blank');
+          }
+        });
+      })
+      .catch(err => {
+        console.error(err);
+        document.getElementById('stats').innerHTML = '<span style="color:red">Load Failed</span>';
+        document.getElementById('graph').innerHTML = '<p style="color:red;text-align:center;padding:50px">Failed to load graph data. Check console.</p>';
+      });
+  </script>
 </body>
 </html>
