@@ -1,6 +1,189 @@
 {
-  "nodes": [],
+  "nodes": [
+    {
+      "id": "a-closed-form-adaptive-landmark-kernel-f",
+      "label": "A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Class",
+      "type": "paper",
+      "tags": [
+        "research"
+      ],
+      "url": "http://arxiv.org/abs/2605.04046v1",
+      "authors": [
+        "Sushovan Majhi",
+        "Atish Mitra",
+        "Žiga Virk",
+        "Pramita Bagchi"
+      ]
+    },
+    {
+      "id": "safety-and-accuracy-follow-different-sca",
+      "label": "Safety and accuracy follow different scaling laws in clinical large language mod",
+      "type": "paper",
+      "tags": [
+        "research"
+      ],
+      "url": "http://arxiv.org/abs/2605.04039v1",
+      "authors": [
+        "Sebastian Wind",
+        "Tri-Thien Nguyen",
+        "Jeta Sopa",
+        "Mahshad Lotfinia",
+        "Sebastian Bickelhaup"
+      ]
+    },
+    {
+      "id": "openseeker-v2-pushing-the-limits-of-sea",
+      "label": "OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Dif",
+      "type": "paper",
+      "tags": [
+        "research"
+      ],
+      "url": "http://arxiv.org/abs/2605.04036v1",
+      "authors": [
+        "Yuwen Du",
+        "Rui Ye",
+        "Shuo Tang",
+        "Keduan Huang",
+        "Xinyu Zhu"
+      ]
+    },
+    {
+      "id": "large-scale-high-quality-3d-gaussian-hea",
+      "label": "Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Capture",
+      "type": "paper",
+      "tags": [
+        "research"
+      ],
+      "url": "http://arxiv.org/abs/2605.04035v1",
+      "authors": [
+        "Evangelos Ntavelis",
+        "Sean Wu",
+        "Mohamad Shahbazi",
+        "Fabio Maninchedda",
+        "Dmitry Kostiaev"
+      ]
+    },
+    {
+      "id": "redefining-ai-red-teaming-in-the-agentic",
+      "label": "Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours",
+      "type": "paper",
+      "tags": [
+        "research"
+      ],
+      "url": "http://arxiv.org/abs/2605.04019v1",
+      "authors": [
+        "Raja Sekhar Rao Dheekonda",
+        "Will Pearce",
+        "Nick Landers"
+      ]
+    },
+    {
+      "id": "conditional-diffusion-sampling",
+      "label": "Conditional Diffusion Sampling",
+      "type": "paper",
+      "tags": [
+        "research"
+      ],
+      "url": "http://arxiv.org/abs/2605.04013v1",
+      "authors": [
+        "Francisco M. Castro-Macías",
+        "Pablo Morales-Álvarez",
+        "Saifuddin Syed",
+        "Daniel Hernández-Lobato",
+        "Rafael Molina"
+      ]
+    },
+    {
+      "id": "symptomai-towards-a-conversational-ai-a",
+      "label": "SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment",
+      "type": "paper",
+      "tags": [
+        "research"
+      ],
+      "url": "http://arxiv.org/abs/2605.04012v1",
+      "authors": [
+        "Joseph Breda",
+        "Fadi Yousif",
+        "Beszel Hawkins",
+        "Marinela Cotoi",
+        "Miao Liu"
+      ]
+    },
+    {
+      "id": "enhanced-3d-brain-tumor-segmentation-usi",
+      "label": "Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training",
+      "type": "paper",
+      "tags": [
+        "research"
+      ],
+      "url": "http://arxiv.org/abs/2605.04008v1",
+      "authors": [
+        "Adwaitt Pandya",
+        "Ozioma C. Oguine",
+        "Harita Bhargava",
+        "Shrikant Zade"
+      ]
+    },
+    {
+      "id": "physics-grounded-multi-agent-architectur",
+      "label": "Physics-Grounded Multi-Agent Architecture for Traceable, Risk-Aware Human-AI Dec",
+      "type": "paper",
+      "tags": [
+        "research"
+      ],
+      "url": "http://arxiv.org/abs/2605.04003v1",
+      "authors": [
+        "Danny Hoang",
+        "Ryan Matthiessen",
+        "Christopher Miller",
+        "Nasir Mannan",
+        "Ruby ElKharboutly"
+      ]
+    },
+    {
+      "id": "an-agent-oriented-pluggable-experience-r",
+      "label": "An Agent-Oriented Pluggable Experience-RAG Skill for Experience-Driven Retrieval",
+      "type": "paper",
+      "tags": [
+        "research"
+      ],
+      "url": "http://arxiv.org/abs/2605.03989v1",
+      "authors": [
+        "Dutao Zhang",
+        "Tian Liao"
+      ]
+    },
+    {
+      "id": "from-intent-to-execution-composing-agen",
+      "label": "From Intent to Execution: Composing Agentic Workflows with Agent Recommendation",
+      "type": "paper",
+      "tags": [
+        "research"
+      ],
+      "url": "http://arxiv.org/abs/2605.03986v1",
+      "authors": [
+        "Kishan Athrey",
+        "Ramin Pishehvar",
+        "Brian Riordan",
+        "Mahesh Viswanathan"
+      ]
+    },
+    {
+      "id": "flow-sampling-learning-to-sample-from-u",
+      "label": "Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Cond",
+      "type": "paper",
+      "tags": [
+        "research"
+      ],
+      "url": "http://arxiv.org/abs/2605.03984v1",
+      "authors": [
+        "Aaron Havens",
+        "Brian Karrer",
+        "Neta Shaul"
+      ]
+    }
+  ],
   "edges": [],
-  "generated_at": "2026-05-07T09:37:24.834872",
+  "generated_at": "2026-05-07T10:05:58.776540",
   "generator": "ai-radar-explorer-v2"
 }

@@ -45,9 +45,9 @@ git clone https://github.com/ttmens/ai-radar-wiki.git
 ## 图谱统计
 | 指标 | 数值 |
 |------|------|
-| 节点数 | 0 |
+| 节点数 | 12 |
 | 边数 | 0 |
-| 最后更新 | 2026-05-07 09:37 |
+| 最后更新 | 2026-05-07 10:05 |
 
 ## 自动化
 - 数据采集：Python 爬虫（每4小时）
@@ -56,4 +56,4 @@ git clone https://github.com/ttmens/ai-radar-wiki.git
 - GitHub 推送：自动 commit + push
 
 ---
-*由 AI Radar Explorer 自动生成 | 最后更新: 2026-05-07 09:37*
+*由 AI Radar Explorer 自动生成 | 最后更新: 2026-05-07 10:05*
