@@ -8,3 +8,10 @@
 - GitHub 仓库同步: https://github.com/ttmens/ai-radar-wiki
 
 ## [2026-05-07 09:19] sync | 6 新条目
+
+## [2026-05-07 09:37] sync | 5 新条目
+- create: vibe-coding-and-agentic-engineering-are-getting-cl.json
+- create: show-hn-tilderun-agent-sandbox-with-a-transact.json
+- create: higher-usage-limits-for-claude-and-a-compute-deal.json
+- create: agents-can-now-create-cloudflare-accounts-buy-dom.json
+- create: google-chrome-silently-installs-a-4-gb-ai-model-on.json
