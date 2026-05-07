@@ -4,13 +4,10 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AI Radar Knowledge Graph</title>
-<!-- SEO & Social -->
 <meta name="description" content="AI Radar Wiki — Automated knowledge base for AI product managers. 4-pillar system with interactive graph.">
 <meta property="og:type" content="website">
 <meta property="og:title" content="AI Radar Knowledge Graph">
-<meta property="og:description" content="Automated AI knowledge base for product managers — 4 pillars, interactive graph, self-evolving.">
 <meta property="og:url" content="https://ttmens.github.io/ai-radar-wiki/graph.html">
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","name":"AI Radar Knowledge Graph","url":"https://ttmens.github.io/ai-radar-wiki/graph.html"}</script>
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body { background: #0d1117; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
@@ -24,7 +21,7 @@
   #detail-panel { position: absolute; top: 0; right: -420px; width: 400px; height: 100%; background: #161b22; border-left: 1px solid #30363d; z-index: 20; transition: right 0.3s ease; overflow-y: auto; box-shadow: -5px 0 30px rgba(0,0,0,0.5); }
   #detail-panel.active { right: 0; }
   .panel-header { padding: 20px; border-bottom: 1px solid #21262d; display: flex; justify-content: space-between; align-items: start; }
-  .panel-header h2 { color: #58a6ff; font-size: 18px; line-height: 1.4; margin-right: 10px; }
+  .panel-header h2 { color: #58a6ff; font-size: 16px; line-height: 1.4; margin-right: 10px; }
   .panel-close { background: none; border: none; color: #8b949e; font-size: 24px; cursor: pointer; padding: 0 5px; line-height: 1; }
   .panel-close:hover { color: #fff; }
   .panel-body { padding: 20px; }
@@ -45,70 +42,74 @@
   .panel-btn.primary { background: #238636; border-color: #2ea043; color: #fff; }
   .panel-btn.primary:hover { background: #2ea043; }
   #loading { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #58a6ff; font-size: 18px; z-index: 20; }
+  .pillar-label { font-size: 12px; color: #3fb950; margin-bottom: 8px; font-weight: 600; }
 </style>
 </head>
 <body>
   <div id="header"><h1>🧠 AI Radar Knowledge Graph</h1><div id="stats"><span id="node-count">Nodes: 0</span><span id="edge-count">Edges: 0</span></div></div>
   <div id="mynetwork"><div id="loading">Loading Graph...</div></div>
   <div id="legend">
-    <div class="legend-item"><span class="dot" style="background:#58a6ff"></span> Project</div>
-    <div class="legend-item"><span class="dot" style="background:#3fb950"></span> Concept</div>
-    <div class="legend-item"><span class="dot" style="background:#f0883e"></span> Paper</div>
-    <div class="legend-item"><span class="dot" style="background:#bc8cff"></span> Company</div>
-    <div class="legend-item"><span class="dot" style="background:#f778ba"></span> Discussion</div>
+    <div class="legend-item"><span class="dot" style="background:#58a6ff"></span> 技术能力</div>
+    <div class="legend-item"><span class="dot" style="background:#3fb950"></span> 产品模式</div>
+    <div class="legend-item"><span class="dot" style="background:#a371f7"></span> 工具生态</div>
+    <div class="legend-item"><span class="dot" style="background:#f0883e"></span> 商业趋势</div>
   </div>
   <div id="detail-panel">
     <div class="panel-header"><h2 id="panel-title">Node</h2><button class="panel-close" onclick="hidePanel()">×</button></div>
     <div class="panel-body">
+      <div class="pillar-label" id="panel-pillar-label"></div>
       <div class="panel-tags" id="panel-tags"></div>
       <div class="panel-metrics" id="panel-metrics"></div>
-      <div class="panel-section"><h3>Summary</h3><p id="panel-desc">No summary available.</p></div>
-      <div class="panel-section" id="panel-authors-section" style="display:none"><h3>Authors</h3><p id="panel-authors"></p></div>
+      <div class="panel-section"><h3>摘要</h3><p id="panel-desc">暂无摘要。</p></div>
     </div>
     <div class="panel-actions" id="panel-actions"></div>
   </div>
   <script src="./vis-network.min.js"></script>
   <script>
+    const pillarLabels = { 'capabilities': '🤖 模型与技术能力', 'patterns': '📱 产品与交互模式', 'ecosystem': '🔧 工具与生态', 'business': '💰 商业与趋势', 'unknown': '未分类' };
     const pillarColors = { 'capabilities': '#58a6ff', 'patterns': '#3fb950', 'ecosystem': '#a371f7', 'business': '#f0883e', 'unknown': '#8b949e' };
-    const typeColors = { project: '#58a6ff', concept: '#3fb950', paper: '#f0883e', company: '#bc8cff', discussion: '#f778ba', product: '#f778ba' };
     let network, graphData;
     function loadGraphData() {
-      fetch('./graph.json?' + Date.now()).then(r => r.json()).then(renderGraph).catch(err => { document.getElementById('loading').innerHTML = 'Failed: ' + err.message; });
+      fetch('./graph.json?' + Date.now()).then(r => r.json()).then(renderGraph).catch(err => { document.getElementById('loading').innerHTML = '加载失败: ' + err.message; });
     }
     function renderGraph(data) {
       graphData = data;
-      document.getElementById('node-count').textContent = 'Nodes: ' + data.nodes.length;
-      document.getElementById('edge-count').textContent = 'Edges: ' + data.edges.length;
+      document.getElementById('node-count').textContent = '节点: ' + data.nodes.length;
+      document.getElementById('edge-count').textContent = '关联: ' + data.edges.length;
       document.getElementById('loading').style.display = 'none';
       const nodes = new vis.DataSet(data.nodes.map(function(n) {
-        return { id: n.id, label: n.label.length > 20 ? n.label.slice(0, 20) + '...' : n.label, shape: 'dot', size: n.type === 'paper' ? 25 : (n.stars ? Math.max(12, Math.min(35, n.stars / 300 + 12)) : 18), color: { background: pillarColors[n.pillar] || typeColors[n.type] || '#8b949e', border: 'rgba(255,255,255,0.4)', highlight: { background: pillarColors[n.pillar] || typeColors[n.type] || '#fff', border: '#fff' } }, font: { color: '#fff', size: 13, strokeWidth: 2, strokeColor: '#0d1117' }, borderWidth: 2, title: n.label + '\nPM Score: ' + (n.pm_score || 'N/A') };
+        return { id: n.id, label: n.label.length > 18 ? n.label.slice(0, 18) + '...' : n.label, shape: 'dot', size: Math.max(12, Math.min(30, (n.pm_score || 0) * 30 + 10)), color: { background: pillarColors[n.pillar] || '#8b949e', border: 'rgba(255,255,255,0.4)', highlight: { background: pillarColors[n.pillar] || '#fff', border: '#fff' } }, font: { color: '#fff', size: 12, strokeWidth: 2, strokeColor: '#0d1117' }, borderWidth: 2, title: n.label + '\nPM Score: ' + (n.pm_score || 'N/A') };
       }));
       const edges = new vis.DataSet(data.edges.map(function(e) {
-        return { from: e.source, to: e.target, color: { color: e.type === 'PILLAR' ? 'rgba(63,185,80,0.15)' : 'rgba(139,148,158,0.12)' }, width: e.type === 'PILLAR' ? 1.5 : 1, smooth: { type: 'curvedCW', roundness: 0.1 } };
+        return { from: e.source, to: e.target, color: { color: e.type === 'PILLAR' ? 'rgba(63,185,80,0.2)' : 'rgba(139,148,158,0.15)' }, width: e.type === 'PILLAR' ? 2 : 1, smooth: { type: 'curvedCW', roundness: 0.1 } };
       }));
-      network = new vis.Network(document.getElementById('mynetwork'), { nodes: nodes, edges: edges }, { physics: { barnesHut: { gravitationalConstant: -4000, springLength: 160, springConstant: 0.015 }, stabilization: { iterations: 200, fit: true } }, interaction: { hover: true, tooltipDelay: 50, zoomView: true, dragView: true, dragNodes: true } });
+      network = new vis.Network(document.getElementById('mynetwork'), { nodes: nodes, edges: edges }, { physics: { barnesHut: { gravitationalConstant: -3000, springLength: 150, springConstant: 0.02 }, stabilization: { iterations: 200, fit: true } }, interaction: { hover: true, tooltipDelay: 50, zoomView: true, dragView: true, dragNodes: true } });
       network.on('click', function(params) {
         if (params.nodes.length > 0) { const node = data.nodes.find(function(n) { return n.id === params.nodes[0]; }); if (node) showPanel(node); } else { hidePanel(); }
       });
     }
     function showPanel(node) {
       document.getElementById('panel-title').textContent = node.label;
+      // Pillar label
+      var pillarLabel = pillarLabels[node.pillar] || node.pillar;
+      document.getElementById('panel-pillar-label').textContent = pillarLabel;
+      // Tags
       var tags = (node.tags || []).map(function(t) { return '<span class="panel-tag">' + t + '</span>'; }).join('');
-      var pillarTag = (node.pillar && node.pillar !== 'unknown') ? '<span class="panel-tag pillar">🏷️ ' + node.pillar + '</span>' : '';
       var scoreTag = node.pm_score ? '<span class="panel-tag score">🎯 ' + node.pm_score + '</span>' : '';
-      document.getElementById('panel-tags').innerHTML = pillarTag + scoreTag + tags;
+      document.getElementById('panel-tags').innerHTML = scoreTag + tags;
+      // Metrics
       var metrics = [];
       if (node.stars) metrics.push('<div class="metric"><div class="metric-value">⭐ ' + node.stars + '</div><div class="metric-label">Stars</div></div>');
-      if (node.score) metrics.push('<div class="metric"><div class="metric-value">🔥 ' + node.score + '</div><div class="metric-label">HN Score</div></div>');
-      if (node.comments) metrics.push('<div class="metric"><div class="metric-value">💬 ' + node.comments + '</div><div class="metric-label">Comments</div></div>');
-      document.getElementById('panel-metrics').innerHTML = metrics.join('');
-      document.getElementById('panel-desc').textContent = node.summary || "No summary available.";
-      var as = document.getElementById('panel-authors-section');
-      if (node.authors && node.authors.length > 0) { as.style.display = 'block'; document.getElementById('panel-authors').textContent = node.authors.join(', '); } else { as.style.display = 'none'; }
+      if (node.score) metrics.push('<div class="metric"><div class="metric-value">🔥 ' + node.score + '</div><div class="metric-label">热度</div></div>');
+      if (node.comments) metrics.push('<div class="metric"><div class="metric-value">💬 ' + node.comments + '</div><div class="metric-label">评论</div></div>');
+      document.getElementById('panel-metrics').innerHTML = metrics.join('') || '<div style="grid-column: span 2; color: #8b949e; font-size: 12px;">暂无指标数据</div>';
+      // Summary
+      var summary = node.summary || "暂无摘要。该节点信息将在下次数据同步时更新。";
+      document.getElementById('panel-desc').textContent = summary;
+      // Actions
       var actions = document.getElementById('panel-actions'); actions.innerHTML = '';
-      if (node.url) actions.innerHTML += '<a href="' + node.url + '" target="_blank" class="panel-btn primary">View Source ↗</a>';
-      var wd = (node.type === 'paper') ? 'concepts' : 'entities';
-      actions.innerHTML += '<a href="https://ttmens.github.io/ai-radar-wiki/' + wd + '/' + node.id + '.md" target="_blank" class="panel-btn">View Wiki ↗</a>';
+      if (node.url) actions.innerHTML += '<a href="' + node.url + '" target="_blank" class="panel-btn primary">查看原文 ↗</a>';
+      actions.innerHTML += '<a href="https://ttmens.github.io/ai-radar-wiki/ai-readable.jsonl" target="_blank" class="panel-btn">导出数据 ↗</a>';
       document.getElementById('detail-panel').classList.add('active');
     }
     function hidePanel() { document.getElementById('detail-panel').classList.remove('active'); }

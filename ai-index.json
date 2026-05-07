@@ -1,0 +1,25 @@
+{
+  "name": "AI Radar Wiki",
+  "version": "3.0",
+  "last_updated": "2026-05-07T13:48:23.727620",
+  "stats": {
+    "total_nodes": 54,
+    "total_edges": 111,
+    "pillars": {
+      "capabilities": 10,
+      "patterns": 15,
+      "ecosystem": 4,
+      "business": 20
+    }
+  },
+  "endpoints": {
+    "graph_json": "https://ttmens.github.io/ai-radar-wiki/graph.json",
+    "ai_readable_jsonl": "https://ttmens.github.io/ai-radar-wiki/ai-readable.jsonl",
+    "reports": {
+      "capabilities": "https://ttmens.github.io/ai-radar-wiki/reports/capabilities.md",
+      "patterns": "https://ttmens.github.io/ai-radar-wiki/reports/patterns.md",
+      "ecosystem": "https://ttmens.github.io/ai-radar-wiki/reports/ecosystem.md",
+      "business": "https://ttmens.github.io/ai-radar-wiki/reports/business.md"
+    }
+  }
+}
