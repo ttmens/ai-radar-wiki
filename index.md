@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-07 | Total pages: 207
+> Last updated: 2026-05-07 | Total pages: 209
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -49,6 +49,7 @@
 - [[sgl-projectsglang.md]] sgl-project/sglang `pillar:capabilities` `score:0.615`
 - [[shapshap.md]] shap/shap `pillar:capabilities` `score:0.615`
 - [[spmallicklearnopencv.md]] spmallick/learnopencv `pillar:capabilities` `score:0.58`
+- [[spotify-wants-to-become-the-home-for-ai-generated.md]] Spotify wants to become the home for AI-generated personal audio `pillar:capabilities` `score:0.33`
 - [[srbhrresume-matcher.md]] srbhr/Resume-Matcher `pillar:capabilities` `score:0.58`
 - [[supabasesupabase.md]] supabase/supabase `pillar:capabilities` `score:0.58`
 - [[tencentncnn.md]] Tencent/ncnn `pillar:capabilities` `score:0.58`
@@ -207,6 +208,7 @@
 ## 💰 Business (商业与趋势)
 > Funding, Moat, Growth, Ethics, Regulation
 - [[ai4finance-foundationfingpt.md]] AI4Finance-Foundation/FinGPT `pillar:business` `score:0.405`
+- [[china8217s-moonshot-ai-raises-2b-at-20b-valua.md]] China&#8217;s Moonshot AI raises $2B at $20B valuation as demand for open-source `pillar:business` `score:0.33`
 - [[di-sukharevopencommit.md]] di-sukharev/opencommit `pillar:business` `score:0.355`
 - [[dyad-shdyad.md]] dyad-sh/dyad `pillar:business` `score:0.405`
 - [[mage-aimage-ai.md]] mage-ai/mage-ai `pillar:business` `score:0.355`

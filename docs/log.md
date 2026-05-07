@@ -243,3 +243,7 @@
 
 ## [2026-05-07 21:12] sync v3 | 1 new | pillars: {'patterns': 1}
 - create: agent-harness-kit-scaffolding-for-multi-agent-work.md
+
+## [2026-05-07 22:16] sync v3 | 2 new | pillars: {'business': 1, 'capabilities': 1}
+- create: china8217s-moonshot-ai-raises-2b-at-20b-valua.md
+- create: spotify-wants-to-become-the-home-for-ai-generated.md
