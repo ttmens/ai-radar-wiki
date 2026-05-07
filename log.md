@@ -30,3 +30,22 @@
 - create: from-intent-to-execution-composing-agentic-workflows-with-a.md
 - create: flow-sampling-learning-to-sample-from-unnormalized-densitie.md
 - create: show-hn-airbyte-agents-context-for-agents-acros.json
+
+## [2026-05-07 12:24] sync v3 | 17 new | pillars: {'capabilities': 6, 'unknown': 6, 'patterns': 5}
+- create: taming-outlier-tokens-in-diffusion-transformers.md
+- create: grokability-in-five-inequalities.md
+- create: almost-orthogonality-in-lp-spaces-a-case-study-with-grok.md
+- create: longseeker-elastic-context-orchestration-for-long-horizon-s.md
+- create: sharp-capacity-thresholds-in-linear-associative-memory-from.md
+- create: estimating-the-expected-output-of-wide-random-mlps-more-effi.md
+- create: understanding-in-context-learning-for-nonlinear-regression-w.md
+- create: when-life-gives-you-bc-make-q-functions-extracting-q-value.md
+- create: design-conductor-20-an-agent-builds-a-turboquant-inference.md
+- create: the-first-token-knows-single-decode-confidence-for-hallucin.md
+- create: geometry-aware-state-space-model-a-new-paradigm-for-whole-s.md
+- create: psk-at-semeval-2026-task-9-multilingual-polarization-detect.md
+- create: sqlite-is-a-library-of-congress-recommended-storag.md
+- create: learning-the-integral-of-a-diffusion-model.md
+- create: a-theory-of-deep-learning.md
+- create: show-hn-i-built-an-open-source-email-builder-alt.md
+- create: apple-is-enforcing-an-old-app-store-rule-against-a.md

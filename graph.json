@@ -1,386 +1,679 @@
 {
   "nodes": [
     {
-      "id": "a-closed-form-adaptive-landmark-kernel-f",
-      "label": "A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Class",
+      "id": "taming-outlier-tokens-in-diffusion-trans",
+      "label": "Taming Outlier Tokens in Diffusion Transformers",
       "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.45,
       "tags": [
-        "research"
+        "paper",
+        "capabilities"
       ],
-      "url": "http://arxiv.org/abs/2605.04046v1",
+      "url": "http://arxiv.org/abs/2605.05206v1",
+      "summary": "We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract dispropo",
+      "stars": null,
+      "score": null,
+      "comments": null,
       "authors": [
-        "Sushovan Majhi",
-        "Atish Mitra",
-        "Žiga Virk",
-        "Pramita Bagchi"
+        "Xiaoyu Wu",
+        "Yifei Wang",
+        "Tsu-Jui Fu",
+        "Liang-Chieh Chen",
+        "Zhe Gan"
       ]
     },
     {
-      "id": "safety-and-accuracy-follow-different-sca",
-      "label": "Safety and accuracy follow different scaling laws in clinical large language mod",
+      "id": "longseeker-elastic-context-orchestratio",
+      "label": "LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents",
       "type": "paper",
+      "pillar": "patterns",
+      "pm_score": 0.45,
       "tags": [
-        "research"
+        "paper",
+        "patterns"
       ],
-      "url": "http://arxiv.org/abs/2605.04039v1",
+      "url": "http://arxiv.org/abs/2605.05191v1",
+      "summary": "Long-horizon search agents must manage a rapidly growing working context as they reason, call tools, and observe information. Naively accumulating all intermediate content can overwhelm the agent, inc",
+      "stars": null,
+      "score": null,
+      "comments": null,
       "authors": [
-        "Sebastian Wind",
-        "Tri-Thien Nguyen",
-        "Jeta Sopa",
-        "Mahshad Lotfinia",
-        "Sebastian Bickelhaup"
-      ]
-    },
-    {
-      "id": "openseeker-v2-pushing-the-limits-of-sea",
-      "label": "OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Dif",
-      "type": "paper",
-      "tags": [
-        "research"
-      ],
-      "url": "http://arxiv.org/abs/2605.04036v1",
-      "authors": [
-        "Yuwen Du",
+        "Yijun Lu",
         "Rui Ye",
-        "Shuo Tang",
-        "Keduan Huang",
-        "Xinyu Zhu"
+        "Yuwen Du",
+        "Jiajun Wang",
+        "Songhua Liu"
       ]
     },
     {
-      "id": "large-scale-high-quality-3d-gaussian-hea",
-      "label": "Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Capture",
+      "id": "sharp-capacity-thresholds-in-linear-asso",
+      "label": "Sharp Capacity Thresholds in Linear Associative Memory: From Winner-Take-All to ",
       "type": "paper",
+      "pillar": "patterns",
+      "pm_score": 0.45,
       "tags": [
-        "research"
+        "paper",
+        "patterns"
       ],
-      "url": "http://arxiv.org/abs/2605.04035v1",
+      "url": "http://arxiv.org/abs/2605.05189v1",
+      "summary": "How many key-value associations can a $d\\times d$ linear memory store? We show that the answer depends not only on the $d^2$ degrees of freedom in the memory matrix, but also on the retrieval criterio",
+      "stars": null,
+      "score": null,
+      "comments": null,
       "authors": [
-        "Evangelos Ntavelis",
-        "Sean Wu",
-        "Mohamad Shahbazi",
-        "Fabio Maninchedda",
-        "Dmitry Kostiaev"
+        "Nicholas Barnfield",
+        "Juno Kim",
+        "Eshaan Nichani",
+        "Jason D. Lee",
+        "Yue M. Lu"
       ]
     },
     {
-      "id": "redefining-ai-red-teaming-in-the-agentic",
-      "label": "Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours",
+      "id": "estimating-the-expected-output-of-wide-r",
+      "label": "Estimating the expected output of wide random MLPs more efficiently than samplin",
       "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.45,
       "tags": [
-        "research"
+        "paper",
+        "capabilities"
       ],
-      "url": "http://arxiv.org/abs/2605.04019v1",
+      "url": "http://arxiv.org/abs/2605.05179v1",
+      "summary": "By far the most common way to estimate an expected loss in machine learning is to draw samples, compute the loss on each one, and take the empirical average. However, sampling is not necessarily optim",
+      "stars": null,
+      "score": null,
+      "comments": null,
       "authors": [
-        "Raja Sekhar Rao Dheekonda",
-        "Will Pearce",
-        "Nick Landers"
+        "Wilson Wu",
+        "Victor Lecomte",
+        "Michael Winer",
+        "George Robinson",
+        "Jacob Hilton"
       ]
     },
     {
-      "id": "conditional-diffusion-sampling",
-      "label": "Conditional Diffusion Sampling",
+      "id": "understanding-in-context-learning-for-no",
+      "label": "Understanding In-Context Learning for Nonlinear Regression with Transformers: At",
       "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.45,
       "tags": [
-        "research"
+        "paper",
+        "capabilities"
       ],
-      "url": "http://arxiv.org/abs/2605.04013v1",
+      "url": "http://arxiv.org/abs/2605.05176v1",
+      "summary": "Pre-trained transformers are able to learn from examples provided as part of the prompt without any weight updates, a remarkable ability known as in-context learning (ICL). Despite its demonstrated ef",
+      "stars": null,
+      "score": null,
+      "comments": null,
       "authors": [
-        "Francisco M. Castro-Macías",
-        "Pablo Morales-Álvarez",
-        "Saifuddin Syed",
-        "Daniel Hernández-Lobato",
-        "Rafael Molina"
+        "Alexander Hsu",
+        "Zhaiming Shen",
+        "Wenjing Liao",
+        "Rongjie Lai"
       ]
     },
     {
-      "id": "symptomai-towards-a-conversational-ai-a",
-      "label": "SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment",
+      "id": "when-life-gives-you-bc-make-q-functions",
+      "label": "When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Clon",
       "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.45,
       "tags": [
-        "research"
+        "paper",
+        "capabilities"
       ],
-      "url": "http://arxiv.org/abs/2605.04012v1",
+      "url": "http://arxiv.org/abs/2605.05172v1",
+      "summary": "Behavior Cloning (BC) has emerged as a highly effective paradigm for robot learning. However, BC lacks a self-guided mechanism for online improvement after demonstrations have been collected. Existing",
+      "stars": null,
+      "score": null,
+      "comments": null,
       "authors": [
-        "Joseph Breda",
-        "Fadi Yousif",
-        "Beszel Hawkins",
-        "Marinela Cotoi",
-        "Miao Liu"
+        "Lakshita Dodeja",
+        "Ondrej Biza",
+        "Shivam Vats",
+        "Stephen Hart",
+        "Stefanie Tellex"
       ]
     },
     {
-      "id": "enhanced-3d-brain-tumor-segmentation-usi",
-      "label": "Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training",
+      "id": "design-conductor-20-an-agent-builds-a",
+      "label": "Design Conductor 2.0: An agent builds a TurboQuant inference accelerator in 80 h",
       "type": "paper",
+      "pillar": "patterns",
+      "pm_score": 0.45,
       "tags": [
-        "research"
+        "paper",
+        "patterns"
       ],
-      "url": "http://arxiv.org/abs/2605.04008v1",
+      "url": "http://arxiv.org/abs/2605.05170v1",
+      "summary": "Driven by a rapid co-evolution of both harness and underlying models, LLM agents are improving at a dizzying pace. In our prior work (performed in Dec. 2025), we introduced \"Design Conductor\" (or just",
+      "stars": null,
+      "score": null,
+      "comments": null,
       "authors": [
-        "Adwaitt Pandya",
-        "Ozioma C. Oguine",
-        "Harita Bhargava",
-        "Shrikant Zade"
+        " The Verkor Team",
+        "Ravi Krishna",
+        "Suresh Krishna",
+        "David Chin"
       ]
     },
     {
-      "id": "physics-grounded-multi-agent-architectur",
-      "label": "Physics-Grounded Multi-Agent Architecture for Traceable, Risk-Aware Human-AI Dec",
+      "id": "the-first-token-knows-single-decode-con",
+      "label": "The First Token Knows: Single-Decode Confidence for Hallucination Detection",
       "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.45,
       "tags": [
-        "research"
+        "paper",
+        "capabilities"
       ],
-      "url": "http://arxiv.org/abs/2605.04003v1",
+      "url": "http://arxiv.org/abs/2605.05166v1",
+      "summary": "Self-consistency detects hallucinations by generating multiple sampled answers to a question and measuring agreement, but this requires repeated decoding and can be sensitive to lexical variation. Sem",
+      "stars": null,
+      "score": null,
+      "comments": null,
       "authors": [
-        "Danny Hoang",
-        "Ryan Matthiessen",
-        "Christopher Miller",
-        "Nasir Mannan",
-        "Ruby ElKharboutly"
+        "Mina Gabriel"
       ]
     },
     {
-      "id": "an-agent-oriented-pluggable-experience-r",
-      "label": "An Agent-Oriented Pluggable Experience-RAG Skill for Experience-Driven Retrieval",
+      "id": "geometry-aware-state-space-model-a-new",
+      "label": "Geometry-Aware State Space Model: A New Paradigm for Whole-Slide Image Represent",
       "type": "paper",
+      "pillar": "patterns",
+      "pm_score": 0.45,
       "tags": [
-        "research"
+        "paper",
+        "patterns"
       ],
-      "url": "http://arxiv.org/abs/2605.03989v1",
+      "url": "http://arxiv.org/abs/2605.05164v1",
+      "summary": "Accurate analysis of histopathological images is critical for disease diagnosis and treatment planning. Whole-slide images (WSIs), which digitize tissue specimens at gigapixel resolution, are fundamen",
+      "stars": null,
+      "score": null,
+      "comments": null,
       "authors": [
-        "Dutao Zhang",
-        "Tian Liao"
+        "Enhui Chai",
+        "Sicheng Chen",
+        "Tianyi Zhang",
+        "Chad Wong",
+        "Kecheng Huang"
       ]
     },
     {
-      "id": "from-intent-to-execution-composing-agen",
-      "label": "From Intent to Execution: Composing Agentic Workflows with Agent Recommendation",
+      "id": "psk-at-semeval-2026-task-9-multilingual",
+      "label": "PSK at SemEval-2026 Task 9: Multilingual Polarization Detection Using Ensemble G",
       "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.45,
       "tags": [
-        "research"
+        "paper",
+        "capabilities"
       ],
-      "url": "http://arxiv.org/abs/2605.03986v1",
+      "url": "http://arxiv.org/abs/2605.05159v1",
+      "summary": "We present our system for SemEval-2026 Task 9: Multilingual Polarization Detection, a binary classification task spanning 22 languages. Our approach fine-tunes separate Gemma~3 models (12B and 27B par",
+      "stars": null,
+      "score": null,
+      "comments": null,
       "authors": [
-        "Kishan Athrey",
-        "Ramin Pishehvar",
-        "Brian Riordan",
-        "Mahesh Viswanathan"
+        "Srikar Kashyap Pulipaka"
       ]
     },
     {
-      "id": "flow-sampling-learning-to-sample-from-u",
-      "label": "Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Cond",
-      "type": "paper",
+      "id": "sqlite-is-a-library-of-congress-recommen",
+      "label": "SQLite Is a Library of Congress Recommended Storage Format",
+      "type": "discussion",
+      "pillar": "patterns",
+      "pm_score": 0.4,
       "tags": [
-        "research"
+        "hn",
+        "patterns"
       ],
-      "url": "http://arxiv.org/abs/2605.03984v1",
+      "url": "https://sqlite.org/locrsf.html",
+      "summary": "HN 讨论 (69 分, 18 评论)",
+      "stars": null,
+      "score": 69,
+      "comments": 18,
+      "authors": []
+    },
+    {
+      "id": "a-theory-of-deep-learning",
+      "label": "A Theory of Deep Learning",
+      "type": "discussion",
+      "pillar": "unknown",
+      "pm_score": 0.35,
+      "tags": [
+        "hn"
+      ],
+      "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
+      "summary": "HN 讨论 (147 分, 30 评论)",
+      "stars": null,
+      "score": 147,
+      "comments": 30,
+      "authors": []
+    },
+    {
+      "id": "show-hn-i-built-an-open-source-email-bu",
+      "label": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+      "type": "discussion",
+      "pillar": "unknown",
+      "pm_score": 0.35,
+      "tags": [
+        "hn"
+      ],
+      "url": "https://play.templatical.com",
+      "summary": "HN 讨论 (113 分, 29 评论)",
+      "stars": null,
+      "score": 113,
+      "comments": 29,
+      "authors": []
+    },
+    {
+      "id": "almost-orthogonality-in-lp-spaces-a-cas",
+      "label": "Almost-Orthogonality in Lp Spaces: A Case Study with Grok",
+      "type": "paper",
+      "pillar": "unknown",
+      "pm_score": 0.3,
+      "tags": [
+        "paper"
+      ],
+      "url": "http://arxiv.org/abs/2605.05192v1",
+      "summary": "Carbery proposed the following sharpened form of triangle inequality for many functions: for any $p\\ge 2$ and any finite sequence $(f_j)_j\\subset L^p$ we have \\[ \\Big\\|\\sum_j f_j\\Big\\|_p \\ \\le\\ \\left(",
+      "stars": null,
+      "score": null,
+      "comments": null,
       "authors": [
-        "Aaron Havens",
-        "Brian Karrer",
-        "Neta Shaul"
+        "Ziang Chen",
+        "Jaume de Dios Pont",
+        "Paata Ivanisvili",
+        "Jose Madrid",
+        "Haozhu Wang"
       ]
+    },
+    {
+      "id": "learning-the-integral-of-a-diffusion-mod",
+      "label": "Learning the Integral of a Diffusion Model",
+      "type": "discussion",
+      "pillar": "unknown",
+      "pm_score": 0.3,
+      "tags": [
+        "hn"
+      ],
+      "url": "https://sander.ai/2026/05/06/flow-maps.html",
+      "summary": "HN 讨论 (117 分, 19 评论)",
+      "stars": null,
+      "score": 117,
+      "comments": 19,
+      "authors": []
+    },
+    {
+      "id": "apple-is-enforcing-an-old-app-store-rule",
+      "label": "Apple is enforcing an old App Store rule against a new kind of software",
+      "type": "discussion",
+      "pillar": "unknown",
+      "pm_score": 0.3,
+      "tags": [
+        "hn"
+      ],
+      "url": "https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code",
+      "summary": "HN 讨论 (66 分, 29 评论)",
+      "stars": null,
+      "score": 66,
+      "comments": 29,
+      "authors": []
+    },
+    {
+      "id": "grokability-in-five-inequalities",
+      "label": "Grokability in five inequalities",
+      "type": "paper",
+      "pillar": "unknown",
+      "pm_score": 0.25,
+      "tags": [
+        "paper"
+      ],
+      "url": "http://arxiv.org/abs/2605.05193v1",
+      "summary": "In this note, we report five mathematical discoveries made in collaboration with Grok, all of which have been subsequently verified by the authors. These include an improved lower bound on the maximal",
+      "stars": null,
+      "score": null,
+      "comments": null,
+      "authors": [
+        "Paata Ivanisvili",
+        "Xinyuan Xie"
+      ]
+    },
+    {
+      "id": "paper",
+      "label": "paper",
+      "type": "concept",
+      "pillar": "paper",
+      "pm_score": 0.1,
+      "tags": [
+        "concept"
+      ],
+      "summary": "概念标签: paper"
+    },
+    {
+      "id": "capabilities",
+      "label": "capabilities",
+      "type": "concept",
+      "pillar": "capabilities",
+      "pm_score": 0.1,
+      "tags": [
+        "concept"
+      ],
+      "summary": "概念标签: capabilities"
+    },
+    {
+      "id": "patterns",
+      "label": "patterns",
+      "type": "concept",
+      "pillar": "patterns",
+      "pm_score": 0.1,
+      "tags": [
+        "concept"
+      ],
+      "summary": "概念标签: patterns"
+    },
+    {
+      "id": "hn",
+      "label": "hn",
+      "type": "concept",
+      "pillar": "hn",
+      "pm_score": 0.1,
+      "tags": [
+        "concept"
+      ],
+      "summary": "概念标签: hn"
+    },
+    {
+      "id": "concept",
+      "label": "concept",
+      "type": "concept",
+      "pillar": "concept",
+      "pm_score": 0.1,
+      "tags": [
+        "concept"
+      ],
+      "summary": "概念标签: concept"
     }
   ],
   "edges": [
     {
-      "source": "openseeker-v2-pushing-the-limits-of-sea",
-      "target": "redefining-ai-red-teaming-in-the-agentic",
-      "relation": "shared:agent",
-      "type": "INFERRED",
-      "evidence": "keyword:agent"
+      "source": "taming-outlier-tokens-in-diffusion-trans",
+      "target": "paper",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
     },
     {
-      "source": "openseeker-v2-pushing-the-limits-of-sea",
-      "target": "symptomai-towards-a-conversational-ai-a",
-      "relation": "shared:agent",
-      "type": "INFERRED",
-      "evidence": "keyword:agent"
+      "source": "taming-outlier-tokens-in-diffusion-trans",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
     },
     {
-      "source": "openseeker-v2-pushing-the-limits-of-sea",
-      "target": "physics-grounded-multi-agent-architectur",
-      "relation": "shared:agent",
-      "type": "INFERRED",
-      "evidence": "keyword:agent"
+      "source": "grokability-in-five-inequalities",
+      "target": "paper",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.125
     },
     {
-      "source": "openseeker-v2-pushing-the-limits-of-sea",
-      "target": "an-agent-oriented-pluggable-experience-r",
-      "relation": "shared:agent",
-      "type": "INFERRED",
-      "evidence": "keyword:agent"
+      "source": "almost-orthogonality-in-lp-spaces-a-cas",
+      "target": "paper",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
     },
     {
-      "source": "openseeker-v2-pushing-the-limits-of-sea",
-      "target": "from-intent-to-execution-composing-agen",
-      "relation": "shared:agent",
-      "type": "INFERRED",
-      "evidence": "keyword:agent"
+      "source": "longseeker-elastic-context-orchestratio",
+      "target": "paper",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
     },
     {
-      "source": "redefining-ai-red-teaming-in-the-agentic",
-      "target": "symptomai-towards-a-conversational-ai-a",
-      "relation": "shared:agent",
-      "type": "INFERRED",
-      "evidence": "keyword:agent"
+      "source": "longseeker-elastic-context-orchestratio",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
     },
     {
-      "source": "redefining-ai-red-teaming-in-the-agentic",
-      "target": "physics-grounded-multi-agent-architectur",
-      "relation": "shared:agent",
-      "type": "INFERRED",
-      "evidence": "keyword:agent"
+      "source": "sharp-capacity-thresholds-in-linear-asso",
+      "target": "paper",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
     },
     {
-      "source": "redefining-ai-red-teaming-in-the-agentic",
-      "target": "an-agent-oriented-pluggable-experience-r",
-      "relation": "shared:agent",
-      "type": "INFERRED",
-      "evidence": "keyword:agent"
+      "source": "sharp-capacity-thresholds-in-linear-asso",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
     },
     {
-      "source": "redefining-ai-red-teaming-in-the-agentic",
-      "target": "from-intent-to-execution-composing-agen",
-      "relation": "shared:agent",
-      "type": "INFERRED",
-      "evidence": "keyword:agent"
+      "source": "estimating-the-expected-output-of-wide-r",
+      "target": "paper",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
     },
     {
-      "source": "symptomai-towards-a-conversational-ai-a",
-      "target": "physics-grounded-multi-agent-architectur",
-      "relation": "shared:agent",
-      "type": "INFERRED",
-      "evidence": "keyword:agent"
+      "source": "estimating-the-expected-output-of-wide-r",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
     },
     {
-      "source": "symptomai-towards-a-conversational-ai-a",
-      "target": "an-agent-oriented-pluggable-experience-r",
-      "relation": "shared:agent",
-      "type": "INFERRED",
-      "evidence": "keyword:agent"
+      "source": "understanding-in-context-learning-for-no",
+      "target": "paper",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
     },
     {
-      "source": "symptomai-towards-a-conversational-ai-a",
-      "target": "from-intent-to-execution-composing-agen",
-      "relation": "shared:agent",
-      "type": "INFERRED",
-      "evidence": "keyword:agent"
+      "source": "understanding-in-context-learning-for-no",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
     },
     {
-      "source": "physics-grounded-multi-agent-architectur",
-      "target": "an-agent-oriented-pluggable-experience-r",
-      "relation": "shared:agent",
-      "type": "INFERRED",
-      "evidence": "keyword:agent"
+      "source": "when-life-gives-you-bc-make-q-functions",
+      "target": "paper",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
     },
     {
-      "source": "physics-grounded-multi-agent-architectur",
-      "target": "from-intent-to-execution-composing-agen",
-      "relation": "shared:agent",
-      "type": "INFERRED",
-      "evidence": "keyword:agent"
+      "source": "when-life-gives-you-bc-make-q-functions",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
     },
     {
-      "source": "an-agent-oriented-pluggable-experience-r",
-      "target": "from-intent-to-execution-composing-agen",
-      "relation": "shared:agent",
-      "type": "INFERRED",
-      "evidence": "keyword:agent"
+      "source": "design-conductor-20-an-agent-builds-a",
+      "target": "paper",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
     },
     {
-      "source": "conditional-diffusion-sampling",
-      "target": "flow-sampling-learning-to-sample-from-u",
-      "relation": "shared:sampling",
-      "type": "INFERRED",
-      "evidence": "keyword:sampling"
+      "source": "design-conductor-20-an-agent-builds-a",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
     },
     {
-      "source": "large-scale-high-quality-3d-gaussian-hea",
-      "target": "enhanced-3d-brain-tumor-segmentation-usi",
-      "relation": "shared:3d",
-      "type": "INFERRED",
-      "evidence": "keyword:3d"
+      "source": "the-first-token-knows-single-decode-con",
+      "target": "paper",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
     },
     {
-      "source": "safety-and-accuracy-follow-different-sca",
-      "target": "redefining-ai-red-teaming-in-the-agentic",
-      "relation": "shared:security",
-      "type": "INFERRED",
-      "evidence": "keyword:security"
+      "source": "the-first-token-knows-single-decode-con",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
     },
     {
-      "source": "safety-and-accuracy-follow-different-sca",
-      "target": "physics-grounded-multi-agent-architectur",
-      "relation": "shared:security",
-      "type": "INFERRED",
-      "evidence": "keyword:security"
+      "source": "geometry-aware-state-space-model-a-new",
+      "target": "paper",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
     },
     {
-      "source": "a-closed-form-adaptive-landmark-kernel-f",
-      "target": "safety-and-accuracy-follow-different-sca",
-      "relation": "co-crawled",
-      "type": "INFERRED",
-      "evidence": "same-run"
+      "source": "geometry-aware-state-space-model-a-new",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
     },
     {
-      "source": "safety-and-accuracy-follow-different-sca",
-      "target": "openseeker-v2-pushing-the-limits-of-sea",
-      "relation": "co-crawled",
-      "type": "INFERRED",
-      "evidence": "same-run"
+      "source": "psk-at-semeval-2026-task-9-multilingual",
+      "target": "paper",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
     },
     {
-      "source": "openseeker-v2-pushing-the-limits-of-sea",
-      "target": "large-scale-high-quality-3d-gaussian-hea",
-      "relation": "co-crawled",
-      "type": "INFERRED",
-      "evidence": "same-run"
+      "source": "psk-at-semeval-2026-task-9-multilingual",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
     },
     {
-      "source": "large-scale-high-quality-3d-gaussian-hea",
-      "target": "redefining-ai-red-teaming-in-the-agentic",
-      "relation": "co-crawled",
-      "type": "INFERRED",
-      "evidence": "same-run"
+      "source": "sqlite-is-a-library-of-congress-recommen",
+      "target": "hn",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2
     },
     {
-      "source": "redefining-ai-red-teaming-in-the-agentic",
-      "target": "conditional-diffusion-sampling",
-      "relation": "co-crawled",
-      "type": "INFERRED",
-      "evidence": "same-run"
+      "source": "sqlite-is-a-library-of-congress-recommen",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2
     },
     {
-      "source": "conditional-diffusion-sampling",
-      "target": "symptomai-towards-a-conversational-ai-a",
-      "relation": "co-crawled",
-      "type": "INFERRED",
-      "evidence": "same-run"
+      "source": "learning-the-integral-of-a-diffusion-mod",
+      "target": "hn",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
     },
     {
-      "source": "symptomai-towards-a-conversational-ai-a",
-      "target": "enhanced-3d-brain-tumor-segmentation-usi",
-      "relation": "co-crawled",
-      "type": "INFERRED",
-      "evidence": "same-run"
+      "source": "a-theory-of-deep-learning",
+      "target": "hn",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.175
     },
     {
-      "source": "enhanced-3d-brain-tumor-segmentation-usi",
-      "target": "physics-grounded-multi-agent-architectur",
-      "relation": "co-crawled",
-      "type": "INFERRED",
-      "evidence": "same-run"
+      "source": "show-hn-i-built-an-open-source-email-bu",
+      "target": "hn",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.175
     },
     {
-      "source": "from-intent-to-execution-composing-agen",
-      "target": "flow-sampling-learning-to-sample-from-u",
-      "relation": "co-crawled",
-      "type": "INFERRED",
-      "evidence": "same-run"
+      "source": "apple-is-enforcing-an-old-app-store-rule",
+      "target": "hn",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "paper",
+      "target": "concept",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "capabilities",
+      "target": "concept",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "patterns",
+      "target": "concept",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "hn",
+      "target": "concept",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "concept",
+      "target": "concept",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "taming-outlier-tokens-in-diffusion-trans",
+      "target": "estimating-the-expected-output-of-wide-r",
+      "relation": "same_pillar:capabilities",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "estimating-the-expected-output-of-wide-r",
+      "target": "understanding-in-context-learning-for-no",
+      "relation": "same_pillar:capabilities",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "understanding-in-context-learning-for-no",
+      "target": "when-life-gives-you-bc-make-q-functions",
+      "relation": "same_pillar:capabilities",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "longseeker-elastic-context-orchestratio",
+      "target": "sharp-capacity-thresholds-in-linear-asso",
+      "relation": "same_pillar:patterns",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "sharp-capacity-thresholds-in-linear-asso",
+      "target": "design-conductor-20-an-agent-builds-a",
+      "relation": "same_pillar:patterns",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "design-conductor-20-an-agent-builds-a",
+      "target": "geometry-aware-state-space-model-a-new",
+      "relation": "same_pillar:patterns",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
     }
   ],
-  "generated_at": "2026-05-07T10:05:58.776540",
-  "generator": "ai-radar-explorer-v2"
+  "generated_at": "2026-05-07T12:24:10.281849",
+  "generator": "ai-radar-explorer-v3",
+  "schema_version": "4-pillar-pm-focused"
 }
