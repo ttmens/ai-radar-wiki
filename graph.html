@@ -464,22 +464,51 @@
     border: 1px solid rgba(113,112,255,0.15);
     border-left: 3px solid var(--accent-bg);
     border-radius: 8px;
-    padding: 12px 14px;
+    padding: 14px 16px;
     margin-bottom: 10px;
+    transition: background 0.15s;
   }
+  .narrative-card:hover {
+    background: linear-gradient(135deg, rgba(94,106,210,0.12), rgba(113,112,255,0.08));
+  }
+  .narrative-card-header {
+    display: flex; justify-content: space-between; align-items: flex-start;
+    margin-bottom: 8px;
+  }
+  .narrative-card-header .narrative-type {
+    margin-bottom: 0; margin-right: 8px; flex-shrink: 0;
+  }
+  .narrative-card-header .narrative-title {
+    flex: 1; margin-bottom: 0;
+  }
+  .narrative-toggle {
+    font-size: 10px; color: var(--text-quaternary);
+    transition: transform 0.2s; flex-shrink: 0; margin-left: 8px; margin-top: 2px;
+  }
+  .narrative-card.collapsed .narrative-toggle { transform: rotate(-90deg); }
+  .narrative-card.collapsed .narrative-body-wrapper { display: none; }
+  .narrative-card.collapsed { cursor: pointer; }
   .narrative-type {
     font-size: 10px; font-weight: 600; color: var(--accent);
     text-transform: uppercase; letter-spacing: 0.5px;
-    margin-bottom: 4px;
   }
   .narrative-title {
     font-size: 13px; font-weight: 700; color: var(--text-primary);
-    line-height: 1.4; margin-bottom: 6px;
-    letter-spacing: -0.1px;
+    line-height: 1.4; letter-spacing: -0.1px;
+  }
+  .narrative-body-wrapper {
+    margin-top: 8px;
   }
   .narrative-body {
     font-size: 12px; color: var(--text-secondary);
     line-height: 1.7;
+  }
+  .narrative-action {
+    font-size: 11px; color: var(--green);
+    background: rgba(39, 166, 68, 0.06);
+    padding: 8px 10px; border-radius: 4px;
+    border-left: 2px solid var(--green);
+    margin-top: 10px; line-height: 1.6;
   }
 
   /* ===== Insight divider ===== */
@@ -635,7 +664,7 @@
       // ===== Narratives: 跨节点叙事主线 =====
       if (dailySummary.narratives && dailySummary.narratives.length > 0) {
         html += '<div class="narrative-section">';
-        dailySummary.narratives.forEach(function(narrative) {
+        dailySummary.narratives.forEach(function(narrative, idx) {
           var typeLabels = {
             'paradigm_shift': '🔄 范式转移',
             'bottleneck': '⚠️ 核心瓶颈',
@@ -643,10 +672,20 @@
             'validation': '💡 模式验证'
           };
           var typeLabel = typeLabels[narrative.type] || '📌 趋势';
-          html += '<div class="narrative-card">';
+          var actionHtml = '';
+          if (narrative.action) {
+            actionHtml = '<div class="narrative-action">' + narrative.action + '</div>';
+          }
+          html += '<div class="narrative-card" onclick="toggleNarrative(this)" style="cursor:pointer">';
+          html += '<div class="narrative-card-header">';
           html += '<div class="narrative-type">' + typeLabel + '</div>';
           html += '<div class="narrative-title">' + (narrative.title || '') + '</div>';
+          html += '<span class="narrative-toggle">▼</span>';
+          html += '</div>';
+          html += '<div class="narrative-body-wrapper">';
           html += '<div class="narrative-body">' + (narrative.body || '') + '</div>';
+          html += actionHtml;
+          html += '</div>';
           html += '</div>';
         });
         html += '</div>';
@@ -935,7 +974,12 @@
       }
     }
 
-    // ===== 4. TOGGLE DASHBOARD =====
+    // ===== 4b. TOGGLE NARRATIVE CARD =====
+    function toggleNarrative(card) {
+      card.classList.toggle('collapsed');
+    }
+
+    // ===== 5. TOGGLE DASHBOARD =====
     function toggleDashboard() {
       const dash = document.getElementById('dashboard');
       const legend = document.getElementById('legend');
