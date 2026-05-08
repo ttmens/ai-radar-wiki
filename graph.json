@@ -2529,6 +2529,24 @@
       "url": "https://github.com/flwrlabs/flower"
     },
     {
+      "id": "dirtyfrag-universal-linux-lpe",
+      "label": "Dirtyfrag: Universal Linux LPE",
+      "type": "discussion",
+      "pillar": "patterns",
+      "pm_score": 0.53,
+      "tags": [
+        "hn",
+        "patterns"
+      ],
+      "summary": "Dirtyfrag是新型Linux通用本地提权漏洞，可突破权限隔离获取Root权限。对AI产品经理而言，该技术警示底层基础设施安全直接关乎AI服务稳定性与数据合规。AI模型部署高度依赖Linux云环境，产品规划需前置安全设计，集成自动化漏洞扫描与热补丁机制，强化零信任架构。将基础设施韧性纳入产品核心指标，有助于构建高可靠、符合企业级安全标准的AI解决方案。",
+      "raw_content": "Dirtyfrag是新型Linux通用本地提权漏洞，可突破权限隔离获取Root权限。对AI产品经理而言，该技术警示底层基础设施安全直接关乎AI服务稳定性与数据合规。AI模型部署高度依赖Linux云环境，产品规划需前置安全设计，集成自动化漏洞扫描与热补丁机制，强化零信任架构。将基础设施韧性纳入产品核心指标，有助于构建高可靠、符合企业级安全标准的AI解决方案。",
+      "date": "2026-05-08",
+      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "stars": null,
+      "score": 333,
+      "comments": 159
+    },
+    {
       "id": "accumulatemorecv",
       "label": "AccumulateMore/CV",
       "type": "github",
@@ -2767,6 +2785,24 @@
       "source_type": "papers",
       "date": "2026-05-07",
       "url": "https://arxiv.org/abs/longseeker-elastic-c"
+    },
+    {
+      "id": "principles-for-agent-native-clis",
+      "label": "Principles for agent-native CLIs",
+      "type": "discussion",
+      "pillar": "patterns",
+      "pm_score": 0.43,
+      "tags": [
+        "hn",
+        "patterns"
+      ],
+      "summary": "本文提出面向AI智能体原生设计的CLI核心原则。技术上强调结构化输出、机器可读性与确定性交互，替代传统人类文本范式。产品创新在于将CLI升级为Agent工作流基础设施，大幅提升自动化执行效率与系统集成度。对AI产品经理而言，该范式可优化开发者体验，助力构建高可用AI自动化平台，抢占企业级智能体生态入口，具备明确的商业化潜力。",
+      "raw_content": "本文提出面向AI智能体原生设计的CLI核心原则。技术上强调结构化输出、机器可读性与确定性交互，替代传统人类文本范式。产品创新在于将CLI升级为Agent工作流基础设施，大幅提升自动化执行效率与系统集成度。对AI产品经理而言，该范式可优化开发者体验，助力构建高可用AI自动化平台，抢占企业级智能体生态入口，具备明确的商业化潜力。",
+      "date": "2026-05-08",
+      "url": "https://twitter.com/trevin/status/2051316002730991795",
+      "stars": null,
+      "score": 50,
+      "comments": 29
     },
     {
       "id": "bytedancedeer-flow",
@@ -3345,6 +3381,24 @@
       "url": "https://news.ycombinator.com/item?id=48047082"
     },
     {
+      "id": "perplexity8217s-personal-computer-is",
+      "label": "Perplexity&#8217;s Personal Computer is now available to everyone on Mac",
+      "type": "news",
+      "pillar": "patterns",
+      "pm_score": 0.365,
+      "tags": [
+        "techcrunch",
+        "patterns"
+      ],
+      "summary": "Perplexity推出面向Mac的“Personal Computer”应用，将AI智能体深度集成至桌面端，标志着AI交互从网页向本地化、系统级操作系统的范式转移。该产品通过原生Agent架构实现跨应用任务自动化与上下文感知，显著降低操作摩擦。对AI产品经理而言，其核心价值在于验证了“AI原生桌面”的商业可行性，为构建以智能体为中心的工作流产品提供新范式，并凸显系统级权限整合在下一代AI入口竞争中的战略地位。",
+      "raw_content": "Perplexity推出面向Mac的“Personal Computer”应用，将AI智能体深度集成至桌面端，标志着AI交互从网页向本地化、系统级操作系统的范式转移。该产品通过原生Agent架构实现跨应用任务自动化与上下文感知，显著降低操作摩擦。对AI产品经理而言，其核心价值在于验证了“AI原生桌面”的商业可行性，为构建以智能体为中心的工作流产品提供新范式，并凸显系统级权限整合在下一代AI入口竞争中的战略地位。",
+      "date": "2026-05-08",
+      "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+      "stars": null,
+      "score": null,
+      "comments": null
+    },
+    {
       "id": "ccfddlccf-deadlines",
       "label": "ccfddl/ccf-deadlines",
       "type": "github",
@@ -3471,6 +3525,78 @@
       "source_type": "hn",
       "date": "2026-05-07",
       "url": "https://news.ycombinator.com/item?id=48047826"
+    },
+    {
+      "id": "two-home-affairs-officials-suspended-aft",
+      "label": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+      "type": "discussion",
+      "pillar": "patterns",
+      "pm_score": 0.33,
+      "tags": [
+        "hn",
+        "patterns"
+      ],
+      "summary": "该事件揭示了大模型“幻觉”在政务等高敏感场景落地时的重大合规与信任风险。对AI产品经理而言，核心启示在于：必须将事实核查、置信度评估与人工复核机制深度嵌入产品工作流，而非仅依赖模型原生输出。商业价值上，凸显了“可解释AI”与“安全护栏”技术的市场需求；产品创新应聚焦于构建闭环验证体系、明确AI辅助边界，并建立完善的问责与容错机制，以平衡效率与可靠性。",
+      "raw_content": "该事件揭示了大模型“幻觉”在政务等高敏感场景落地时的重大合规与信任风险。对AI产品经理而言，核心启示在于：必须将事实核查、置信度评估与人工复核机制深度嵌入产品工作流，而非仅依赖模型原生输出。商业价值上，凸显了“可解释AI”与“安全护栏”技术的市场需求；产品创新应聚焦于构建闭环验证体系、明确AI辅助边界，并建立完善的问责与容错机制，以平衡效率与可靠性。",
+      "date": "2026-05-08",
+      "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+      "stars": null,
+      "score": 31,
+      "comments": 9
+    },
+    {
+      "id": "openai-launches-new-voice-intelligence-f",
+      "label": "OpenAI launches new voice intelligence features in its API",
+      "type": "news",
+      "pillar": "capabilities",
+      "pm_score": 0.33,
+      "tags": [
+        "techcrunch",
+        "capabilities"
+      ],
+      "summary": "OpenAI在API中推出全新语音智能功能，支持高保真语音交互与实时语义理解。该更新显著降低了语音应用的开发门槛，为智能客服、在线教育及创作者平台提供开箱即用的底层能力。对AI产品经理而言，这意味着可快速构建低延迟、多场景适配的语音交互产品，缩短MVP验证周期，并探索基于自然语音流的新商业模式与用户体验创新。",
+      "raw_content": "OpenAI在API中推出全新语音智能功能，支持高保真语音交互与实时语义理解。该更新显著降低了语音应用的开发门槛，为智能客服、在线教育及创作者平台提供开箱即用的底层能力。对AI产品经理而言，这意味着可快速构建低延迟、多场景适配的语音交互产品，缩短MVP验证周期，并探索基于自然语音流的新商业模式与用户体验创新。",
+      "date": "2026-05-08",
+      "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+      "stars": null,
+      "score": null,
+      "comments": null
+    },
+    {
+      "id": "openai-introduces-new-8216trusted-con",
+      "label": "OpenAI introduces new &#8216;Trusted Contact&#8217; safeguard for cases of possi",
+      "type": "news",
+      "pillar": "business",
+      "pm_score": 0.33,
+      "tags": [
+        "techcrunch",
+        "business"
+      ],
+      "summary": "OpenAI推出“可信联系人”机制，利用实时对话风险识别技术，在检测到潜在自残倾向时自动预警并通知用户预设联系人。该功能将AI安全从被动过滤升级为主动干预，强化交互安全边界。对PM而言，此举显著提升产品合规性与用户信任，为大模型在心理、客服等高敏场景落地提供可复用安全架构，构建差异化商业护城河。",
+      "raw_content": "OpenAI推出“可信联系人”机制，利用实时对话风险识别技术，在检测到潜在自残倾向时自动预警并通知用户预设联系人。该功能将AI安全从被动过滤升级为主动干预，强化交互安全边界。对PM而言，此举显著提升产品合规性与用户信任，为大模型在心理、客服等高敏场景落地提供可复用安全架构，构建差异化商业护城河。",
+      "date": "2026-05-08",
+      "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+      "stars": null,
+      "score": null,
+      "comments": null
+    },
+    {
+      "id": "show-hn-kstack-skill-pack-for-monitor",
+      "label": "Show HN: Kstack – Skill pack for monitoring/troubleshooting K8s in Claude Code",
+      "type": "project",
+      "pillar": "ecosystem",
+      "pm_score": 0.33,
+      "tags": [
+        "showhn",
+        "ecosystem"
+      ],
+      "summary": "Kstack是专为Claude Code设计的K8s监控排障技能包，通过模块化Prompt与工具链集成，赋予AI直接诊断集群异常的能力。技术上依托大模型工具调用与上下文工程，实现日志分析与修复建议闭环。商业价值在于降低SRE门槛并缩短故障恢复时间。产品创新在于将复杂运维知识封装为可插拔“AI技能包”，为垂直Agent落地提供标准化范式，具备高企业集成潜力。",
+      "raw_content": "Kstack是专为Claude Code设计的K8s监控排障技能包，通过模块化Prompt与工具链集成，赋予AI直接诊断集群异常的能力。技术上依托大模型工具调用与上下文工程，实现日志分析与修复建议闭环。商业价值在于降低SRE门槛并缩短故障恢复时间。产品创新在于将复杂运维知识封装为可插拔“AI技能包”，为垂直Agent落地提供标准化范式，具备高企业集成潜力。",
+      "date": "2026-05-08",
+      "url": "https://github.com/kubetail-org/kstack",
+      "stars": null,
+      "score": 14,
+      "comments": 5
     },
     {
       "id": "product-hunt-ai-topics",
@@ -3663,6 +3789,24 @@
       "source_type": "papers",
       "date": "2026-05-07",
       "url": "https://arxiv.org/abs/almost-orthogonality"
+    },
+    {
+      "id": "voi-founders8217-new-ai-startup-pit-h",
+      "label": "Voi founders&#8217; new AI startup Pit has become the latest rising star out of ",
+      "type": "news",
+      "pillar": "business",
+      "pm_score": 0.26,
+      "tags": [
+        "techcrunch",
+        "business"
+      ],
+      "summary": "Voi联合创始人创立的AI公司Pit获a16z领投1600万美元种子轮。项目依托团队在共享出行与线下规模化运营的产业积累，聚焦AI在实体资产调度与自动化决策场景的落地。对AI产品经理而言，其商业价值在于验证了“AI+重运营”的变现路径，凸显头部资本对具备产业Know-how与强工程化落地能力产品的偏好，为垂直场景AI产品化提供重要参考。",
+      "raw_content": "Voi联合创始人创立的AI公司Pit获a16z领投1600万美元种子轮。项目依托团队在共享出行与线下规模化运营的产业积累，聚焦AI在实体资产调度与自动化决策场景的落地。对AI产品经理而言，其商业价值在于验证了“AI+重运营”的变现路径，凸显头部资本对具备产业Know-how与强工程化落地能力产品的偏好，为垂直场景AI产品化提供重要参考。",
+      "date": "2026-05-08",
+      "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+      "stars": null,
+      "score": null,
+      "comments": null
     },
     {
       "id": "grokability-in-five-inequalities",
@@ -5841,6 +5985,62 @@
       "pm_relevance": 0.225
     },
     {
+      "source": "dirtyfrag-universal-linux-lpe",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "two-home-affairs-officials-suspended-aft",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "principles-for-agent-native-clis",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.215
+    },
+    {
+      "source": "openai-launches-new-voice-intelligence-f",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "voi-founders8217-new-ai-startup-pit-h",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.13
+    },
+    {
+      "source": "openai-introduces-new-8216trusted-con",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "perplexity8217s-personal-computer-is",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1825
+    },
+    {
+      "source": "show-hn-kstack-skill-pack-for-monitor",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
       "source": "microsoftsemantic-kernel",
       "target": "tesseract-ocrtesseract",
       "relation": "same_pillar:ecosystem",
@@ -5925,7 +6125,7 @@
       "pm_relevance": 0.3
     }
   ],
-  "generated_at": "2026-05-08T10:08:27.923800",
+  "generated_at": "2026-05-08T07:55:52.595316",
   "generator": "ai-radar-explorer-v3",
   "schema_version": "4-pillar-pm-focused"
 }

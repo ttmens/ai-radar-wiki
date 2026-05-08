@@ -1,15 +1,141 @@
 {
   "daily_summary": {
     "date": "2026-05-08",
-    "headline": "今日暂无新情报",
-    "overview": "",
-    "insights": [],
-    "narratives": [],
-    "stats": "",
-    "total_items": 0,
-    "high_value_count": 0,
-    "all_today_ids": [],
+    "headline": "今日 AI 情报 · 2026-05-08",
+    "overview": "AI从对话式向自主操作系统级控制演进",
+    "narratives": [
+      {
+        "title": "AI从对话式向自主操作系统级控制演进",
+        "body": "今日多条情报指向同一趋势：AI正从聊天界面走向系统级自主控制。CLI被重新设计为Agent原生接口，Perplexity推出桌面级Personal Computer将Agent深度嵌入操作系统。这意味着AI产品经理需要将产品思维从「人机对话」转向「Agent自主执行」，重新审视交互范式、权限模型和用户体验边界。",
+        "type": "paradigm_shift"
+      },
+      {
+        "title": "AI部署的基础设施安全与信任正成为核心瓶颈",
+        "body": "从Linux LPE漏洞到政务AI幻觉事件，再到OpenAI推出Trusted Contact安全机制，今日情报清晰表明：AI规模化部署的最大障碍已从「模型能力」转向「基础设施安全与信任」。对PM而言，安全不再是非功能性需求，而是产品的核心竞争力——谁能率先解决可信执行、容错机制和合规审计，谁就能获得企业市场准入权。",
+        "type": "bottleneck"
+      },
+      {
+        "title": "AI工具链专业化与产业老兵跨界获资本认可",
+        "body": "Kstack专为Claude Code设计K8s监控技能包、Voi联合创始人创立的AI公司Pit获a16z 1600万美元种子轮——AI行业正从「大模型通用能力竞赛」转向「垂直场景深度优化」。专用工具包和有产业积累的创业团队获得青睐，说明行业成熟度在提升。PM应关注这种「工具链分层」趋势，在通用模型之上构建场景化壁垒。",
+        "type": "maturation"
+      }
+    ],
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "今日🤖 技术能力方向的核心信号集中在语音交互。",
+        "evidence": [
+          {
+            "id": "openai-launches-new-voice-intelligence-f",
+            "title": "OpenAI launches new voice intelligence features in its API",
+            "score": 0.33,
+            "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/"
+          }
+        ]
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日多条情报指向同一趋势：AI正从聊天界面走向系统级自主控制。CLI被重新设计为Agent原生接口，Perplexity推出桌面级Personal Computer将Agent深度嵌入操作系统。这意味着AI产品经理需要将产品思维从「人机对话」转向「Agent自主执行」，重新审视交互范式、权限模型和用户体验边界。",
+        "evidence": [
+          {
+            "id": "dirtyfrag-universal-linux-lpe",
+            "title": "Dirtyfrag: Universal Linux LPE",
+            "score": 0.53,
+            "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8"
+          },
+          {
+            "id": "principles-for-agent-native-clis",
+            "title": "Principles for agent-native CLIs",
+            "score": 0.43,
+            "url": "https://twitter.com/trevin/status/2051316002730991795"
+          },
+          {
+            "id": "perplexity8217s-personal-computer-is",
+            "title": "Perplexity&#8217;s Personal Computer is now available to everyone on M",
+            "score": 0.36,
+            "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/"
+          },
+          {
+            "id": "two-home-affairs-officials-suspended-aft",
+            "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+            "score": 0.33,
+            "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/"
+          }
+        ]
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日多条情报指向同一趋势：AI正从聊天界面走向系统级自主控制。CLI被重新设计为Agent原生接口，Perplexity推出桌面级Personal Computer将Agent深度嵌入操作系统。这意味着AI产品经理需要将产品思维从「人机对话」转向「Agent自主执行」，重新审视交互范式、权限模型和用户体验边界。",
+        "evidence": [
+          {
+            "id": "show-hn-kstack-skill-pack-for-monitor",
+            "title": "Show HN: Kstack – Skill pack for monitoring/troubleshooting K8s in Cla",
+            "score": 0.33,
+            "url": "https://github.com/kubetail-org/kstack"
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "今日多条情报指向同一趋势：AI正从聊天界面走向系统级自主控制。CLI被重新设计为Agent原生接口，Perplexity推出桌面级Personal Computer将Agent深度嵌入操作系统。这意味着AI产品经理需要将产品思维从「人机对话」转向「Agent自主执行」，重新审视交互范式、权限模型和用户体验边界。",
+        "evidence": [
+          {
+            "id": "openai-introduces-new-8216trusted-con",
+            "title": "OpenAI introduces new &#8216;Trusted Contact&#8217; safeguard for case",
+            "score": 0.33,
+            "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/"
+          },
+          {
+            "id": "voi-founders8217-new-ai-startup-pit-h",
+            "title": "Voi founders&#8217; new AI startup Pit has become the latest rising st",
+            "score": 0.26,
+            "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/"
+          }
+        ]
+      }
+    ],
+    "stats": "📱 产品模式: 4 | 🤖 技术能力: 1 | 💰 商业趋势: 2 | 🔧 工具生态: 1",
+    "total_items": 8,
+    "high_value_count": 7,
+    "all_today_ids": [
+      {
+        "id": "dirtyfrag-universal-linux-lpe",
+        "label": "Dirtyfrag: Universal Linux LPE"
+      },
+      {
+        "id": "principles-for-agent-native-clis",
+        "label": "Principles for agent-native CLIs"
+      },
+      {
+        "id": "perplexity8217s-personal-computer-is",
+        "label": "Perplexity&#8217;s Personal Computer is now available to everyone on Mac"
+      },
+      {
+        "id": "two-home-affairs-officials-suspended-aft",
+        "label": "Two Home Affairs officials suspended after AI 'hallucinations' found"
+      },
+      {
+        "id": "openai-launches-new-voice-intelligence-f",
+        "label": "OpenAI launches new voice intelligence features in its API"
+      },
+      {
+        "id": "openai-introduces-new-8216trusted-con",
+        "label": "OpenAI introduces new &#8216;Trusted Contact&#8217; safeguard for cases of possi"
+      },
+      {
+        "id": "show-hn-kstack-skill-pack-for-monitor",
+        "label": "Show HN: Kstack – Skill pack for monitoring/troubleshooting K8s in Claude Code"
+      },
+      {
+        "id": "voi-founders8217-new-ai-startup-pit-h",
+        "label": "Voi founders&#8217; new AI startup Pit has become the latest rising star out of "
+      }
+    ],
     "date_bj": "2026-05-08 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-08 10:02:45"
+    "generated_at_bj": "2026-05-08 10:21:35"
   }
 }
