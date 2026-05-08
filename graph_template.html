@@ -712,12 +712,20 @@
 
     function renderWeekView(container) {
       if (!container) return;
+      
+      // Calculate current week number
+      const now = new Date();
+      const startOfYear = new Date(now.getFullYear(), 0, 1);
+      const weekNum = Math.ceil((((now - startOfYear) / 86400000) + startOfYear.getDay() + 1) / 7);
+      
       let html = '';
       
       if (!weeklyTrends || weeklyTrends.status === 'empty') {
-        html = '<div style="padding:20px; text-align:center; color:var(--text-quaternary);">📊 趋势数据收集中...<br><span style="font-size:11px">需要至少 2 天历史数据</span></div>';
+         html = '<div class="brief-headline"><span>📊 趋势数据收集中...</span><button class="dash-close-btn" onclick="switchView('day')" title="关闭">✕</button></div>';
+         html += '<div style="padding:20px; text-align:center; color:var(--text-quaternary);">需要至少 2 天历史数据</div>';
       } else {
-        html = '<div class="week-view-content active" id="week-view-content-inner">';
+        html = '<div class="brief-headline"><span>📈 本周情报趋势 (第 ' + weekNum + ' 周)</span><button class="dash-close-btn" onclick="switchView('day')" title="关闭">✕</button></div>';
+        html += '<div class="week-view-content active" id="week-view-content-inner">';
         
         // 2B: Weekly Summary with Markdown parsing
         if (weeklyTrends.weekly_summary) {
