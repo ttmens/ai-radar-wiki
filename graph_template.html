@@ -609,10 +609,7 @@
 
   <!-- Dashboard (Left) -->
   <div id="dashboard">
-    <div class="view-toggle" id="view-toggle-bar">
-      <button class="active" id="btn-day-view" onclick="switchView(\'day\')">日视图</button>
-      <button id="btn-week-view" onclick="switchView(\'week\')">周视图</button>
-    </div>
+    
     <div class="dash-content" id="dash-content">Loading...</div>
     <div id="week-view-content" style="display:none"></div>
   </div>
@@ -694,20 +691,28 @@
 
       if (view === 'week') {
         isWeekView = true;
-        btnWeek.classList.add('active');
-        btnDay.classList.remove('active');
+        if (btnWeek) btnWeek.classList.add('active');
+        if (btnDay) btnDay.classList.remove('active');
         if (headline) headline.textContent = '📈 本周情报趋势';
         renderWeekView(weekContent);
-        weekContent.style.display = 'block';
-        dashContent.style.display = 'none';
+        if (weekContent) weekContent.style.display = 'block';
+        if (dashContent) dashContent.style.display = 'none';
       } else {
         isWeekView = false;
-        btnDay.classList.add('active');
-        btnWeek.classList.remove('active');
+        if (btnDay) btnDay.classList.add('active');
+        if (btnWeek) btnWeek.classList.remove('active');
         if (headline && dailySummary) headline.textContent = dailySummary.headline || '今日 AI 情报';
-        weekContent.style.display = 'none';
-        dashContent.style.display = 'block';
+        if (weekContent) weekContent.style.display = 'none';
+        if (dashContent) dashContent.style.display = 'block';
       }
+    };
+    
+    // Attach listeners to toggle buttons safely
+    function attachToggleListeners() {
+       const btnDay = document.getElementById('btn-day-view');
+       const btnWeek = document.getElementById('btn-week-view');
+       if (btnDay) btnDay.onclick = () => switchView('day');
+       if (btnWeek) btnWeek.onclick = () => switchView('week');
     }
 
     function renderWeekView(container) {
@@ -721,10 +726,10 @@
       let html = '';
       
       if (!weeklyTrends || weeklyTrends.status === 'empty') {
-         html = '<div class="brief-headline"><span>📊 趋势数据收集中...</span><button class="dash-close-btn" onclick="switchView(\'day\')" title="关闭">✕</button></div>';
+         html = '<div class="brief-headline"><span>📊 趋势数据收集中...</span><button class="dash-close-btn" onclick="switchView('day')" title="关闭">✕</button></div>';
          html += '<div style="padding:20px; text-align:center; color:var(--text-quaternary);">需要至少 2 天历史数据</div>';
       } else {
-        html = '<div class="brief-headline"><span>📈 本周情报趋势 (第 ' + weekNum + ' 周)</span><button class="dash-close-btn" onclick="switchView(\'day\')" title="关闭">✕</button></div>';
+        html = '<div class="brief-headline"><span>📈 本周情报趋势 (第 ' + weekNum + ' 周)</span><button class="dash-close-btn" onclick="switchView('day')" title="关闭">✕</button></div>';
         html += '<div class="week-view-content active" id="week-view-content-inner">';
         
         // 2B: Weekly Summary with Markdown parsing
@@ -806,9 +811,18 @@
 
       let html = '';
 
-      // Headline
+      // Headline with Toggle
       const headlineText = dailySummary.headline || '今日 AI 情报';
-      html += '<div class="brief-headline"><span id="main-headline-text">' + headlineText + '</span><button class="dash-close-btn" onclick="toggleDashboard()" title="收起">✕</button></div>';
+      html += '<div class="brief-headline">';
+      html += '<div class="headline-row">';
+      html += '<span id="main-headline-text">' + headlineText + '</span>';
+      html += '<div class="view-toggle" id="view-toggle-bar">';
+      html += '<button id="btn-day-view" class="active">日视图</button>';
+      html += '<button id="btn-week-view">周视图</button>';
+      html += '</div>';
+      html += '</div>';
+      html += '<button class="dash-close-btn" onclick="toggleDashboard()" title="收起">✕</button>';
+      html += '</div>';
 
       // Overview (主叙事 / 一句话概括)
       if (dailySummary.overview) {
@@ -909,6 +923,7 @@
       }
 
       container.innerHTML = html;
+      attachToggleListeners(); // Re-bind buttons after rendering
     }
 
     function generateFallbackSummary() {
@@ -1190,6 +1205,7 @@
 
     // ===== INIT =====
     (async function init() {
+      attachToggleListeners(); // Ensure buttons work
       // Add version badge for debugging
       const header = document.querySelector('#header h1');
       if (header) {
