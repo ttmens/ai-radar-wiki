@@ -37,7 +37,7 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "今日多条情报指向同一趋势：AI正从聊天界面走向系统级自主控制。CLI被重新设计为Agent原生接口，Perplexity推出桌面级Personal Computer将Agent深度嵌入操作系统。这意味着AI产品经理需要将产品思维从「人机对话」转向「Agent自主执行」，重新审视交互范式、权限模型和用户体验边界。",
+        "insight": "AI从对话式向自主操作系统级控制演进。该方向的具体信号：安全/漏洞, AI Agent, 信任/合规, 桌面/本地化, CLI/终端交互。",
         "evidence": [
           {
             "id": "dirtyfrag-universal-linux-lpe",
@@ -68,7 +68,7 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "今日多条情报指向同一趋势：AI正从聊天界面走向系统级自主控制。CLI被重新设计为Agent原生接口，Perplexity推出桌面级Personal Computer将Agent深度嵌入操作系统。这意味着AI产品经理需要将产品思维从「人机对话」转向「Agent自主执行」，重新审视交互范式、权限模型和用户体验边界。",
+        "insight": "AI工具链专业化与产业老兵跨界获资本认可。该方向的具体信号：基础设施, AI Agent。",
         "evidence": [
           {
             "id": "show-hn-kstack-skill-pack-for-monitor",
@@ -81,7 +81,7 @@
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "insight": "今日多条情报指向同一趋势：AI正从聊天界面走向系统级自主控制。CLI被重新设计为Agent原生接口，Perplexity推出桌面级Personal Computer将Agent深度嵌入操作系统。这意味着AI产品经理需要将产品思维从「人机对话」转向「Agent自主执行」，重新审视交互范式、权限模型和用户体验边界。",
+        "insight": "今日💰 商业趋势方向的核心信号集中在信任/合规, 融资/投资, AI Agent。",
         "evidence": [
           {
             "id": "openai-introduces-new-8216trusted-con",
@@ -136,6 +136,6 @@
       }
     ],
     "date_bj": "2026-05-08 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-08 10:21:35"
+    "generated_at_bj": "2026-05-08 10:24:53"
   }
 }
