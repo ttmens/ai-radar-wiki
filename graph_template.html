@@ -792,8 +792,10 @@
     }
 
     // ===== INIT =====
-    renderStructuredSummary();
-    renderNetwork();
+    (async function init() {
+      await renderStructuredSummary();
+      renderNetwork();
+    })();
   </script>
 </body>
 </html>

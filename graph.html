@@ -391,7 +391,7 @@
     let showingRaw = false;
 
     // ===== 1. STRUCTURED DAILY SUMMARY =====
-    async async function renderStructuredSummary() {
+    async function renderStructuredSummary() {
       const container = document.getElementById('dash-content');
       try {
         const resp = await fetch('./daily_summary.json');
