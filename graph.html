@@ -610,8 +610,8 @@
   <!-- Dashboard (Left) -->
   <div id="dashboard">
     <div class="view-toggle" id="view-toggle-bar">
-      <button class="active" id="btn-day-view" onclick="switchView('day')">日视图</button>
-      <button id="btn-week-view" onclick="switchView('week')">周视图</button>
+      <button class="active" id="btn-day-view" onclick="switchView(\'day\')">日视图</button>
+      <button id="btn-week-view" onclick="switchView(\'week\')">周视图</button>
     </div>
     <div class="dash-content" id="dash-content">Loading...</div>
     <div id="week-view-content" style="display:none"></div>
@@ -721,10 +721,10 @@
       let html = '';
       
       if (!weeklyTrends || weeklyTrends.status === 'empty') {
-         html = '<div class="brief-headline"><span>📊 趋势数据收集中...</span><button class="dash-close-btn" onclick="switchView('day')" title="关闭">✕</button></div>';
+         html = '<div class="brief-headline"><span>📊 趋势数据收集中...</span><button class="dash-close-btn" onclick="switchView(\'day\')" title="关闭">✕</button></div>';
          html += '<div style="padding:20px; text-align:center; color:var(--text-quaternary);">需要至少 2 天历史数据</div>';
       } else {
-        html = '<div class="brief-headline"><span>📈 本周情报趋势 (第 ' + weekNum + ' 周)</span><button class="dash-close-btn" onclick="switchView('day')" title="关闭">✕</button></div>';
+        html = '<div class="brief-headline"><span>📈 本周情报趋势 (第 ' + weekNum + ' 周)</span><button class="dash-close-btn" onclick="switchView(\'day\')" title="关闭">✕</button></div>';
         html += '<div class="week-view-content active" id="week-view-content-inner">';
         
         // 2B: Weekly Summary with Markdown parsing
@@ -821,9 +821,7 @@
       }
 
       // Week View Toggle & Contradictions (Phase 2)
-      html += '<div class="week-controls">';
-      html += '<button class="header-btn" id="btn-week-view" onclick="toggleWeekView()">📅 周视图</button>';
-      html += '</div>';
+      
 
       if (weeklyTrends && weeklyTrends.contradictions && weeklyTrends.contradictions.length > 0) {
         html += '<div class="contradiction-box">';
