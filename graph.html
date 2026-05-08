@@ -508,7 +508,7 @@
     async function renderStructuredSummary() {
       const container = document.getElementById('dash-content');
       try {
-        const resp = await fetch('./daily_summary.json');
+        const resp = await fetch('./daily_summary.json?t=' + Date.now());
         if (!resp.ok) throw new Error('Not found');
         const summaryData = await resp.json();
         dailySummary = summaryData.daily_summary;
