@@ -3665,24 +3665,6 @@
       "url": "https://arxiv.org/abs/almost-orthogonality"
     },
     {
-      "id": "researchers-discover-advanced-language-p",
-      "label": "Researchers discover advanced language processing in the unconscious human brain",
-      "type": "discussion",
-      "pillar": "patterns",
-      "pm_score": 0.26,
-      "tags": [
-        "hn",
-        "patterns"
-      ],
-      "summary": "该研究揭示人类大脑在无意识状态下仍具高级语言处理能力，为AI架构提供新范式。技术上可启发隐式上下文学习机制，降低对显式指令的依赖。产品层面有望推动AI向环境感知型交互演进，实现意图预判与无感服务，适用于智能助手与穿戴设备。PM可聚焦隐式意图识别与背景融合，布局下一代自然交互产品。",
-      "raw_content": "该研究揭示人类大脑在无意识状态下仍具高级语言处理能力，为AI架构提供新范式。技术上可启发隐式上下文学习机制，降低对显式指令的依赖。产品层面有望推动AI向环境感知型交互演进，实现意图预判与无感服务，适用于智能助手与穿戴设备。PM可聚焦隐式意图识别与背景融合，布局下一代自然交互产品。",
-      "date": "2026-05-08",
-      "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
-      "stars": null,
-      "score": 38,
-      "comments": 9
-    },
-    {
       "id": "grokability-in-five-inequalities",
       "label": "Grokability in five inequalities",
       "type": "paper",
@@ -5859,13 +5841,6 @@
       "pm_relevance": 0.225
     },
     {
-      "source": "researchers-discover-advanced-language-p",
-      "target": "patterns",
-      "relation": "belongs_to",
-      "type": "KEYWORD",
-      "pm_relevance": 0.13
-    },
-    {
       "source": "microsoftsemantic-kernel",
       "target": "tesseract-ocrtesseract",
       "relation": "same_pillar:ecosystem",
@@ -5950,7 +5925,7 @@
       "pm_relevance": 0.3
     }
   ],
-  "generated_at": "2026-05-08T09:49:19.621482",
+  "generated_at": "2026-05-08T09:55:34.751358",
   "generator": "ai-radar-explorer-v3",
   "schema_version": "4-pillar-pm-focused"
 }

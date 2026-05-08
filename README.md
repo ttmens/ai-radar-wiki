@@ -5,7 +5,7 @@
 [![Graph](https://img.shields.io/badge/📊_Knowledge_Graph-Live-blue)](https://ttmens.github.io/ai-radar-wiki/graph.html)
 [![Update](https://img.shields.io/badge/🔄_Every_6h-green)]()
 [![RSS](https://img.shields.io/badge/📡_RSS_Feed-orange)](https://ttmens.github.io/ai-radar-wiki/feed.xml)
-[![Chinese](https://img.shields.io/badge/🇨🇳_178_中文摘要-red)]()
+[![Chinese](https://img.shields.io/badge/🇨🇳_177_中文摘要-red)]()
 
 ---
 
@@ -13,17 +13,17 @@
 
 | 指标 | 数值 |
 |------|------|
-| 总节点 | 257 |
-| 总边 | 263 |
-| 中文摘要 | 178 (69%) |
-| 最后更新 | 2026-05-08 09:49 |
+| 总节点 | 256 |
+| 总边 | 262 |
+| 中文摘要 | 177 (69%) |
+| 最后更新 | 2026-05-08 09:55 |
 
 ### 四支柱分布
 
 | 支柱 | 节点数 | 说明 |
 |------|--------|------|
 | 🤖 技术能力 | 78 | 新模型、算法、技术突破 |
-| 📱 产品模式 | 88 | 交互方式、工作流、AI 应用 |
+| 📱 产品模式 | 87 | 交互方式、工作流、AI 应用 |
 | 🔧 工具生态 | 59 | 框架、SDK、库、平台 |
 | 💰 商业动态 | 30 | 融资、产品发布、市场 |
 
@@ -42,4 +42,4 @@
 
 ---
 
-*AI Radar Explorer v3 · Self-evolving Knowledge Graph · Last updated: 2026-05-08 09:49*
+*AI Radar Explorer v3 · Self-evolving Knowledge Graph · Last updated: 2026-05-08 09:55*

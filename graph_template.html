@@ -426,6 +426,74 @@
     background: rgba(255,255,255,0.04); padding: 1px 5px; border-radius: 3px;
   }
 
+  /* ===== Narrative cards (cross-cutting trends) ===== */
+  .narrative-section {
+    margin-bottom: 14px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--border);
+  }
+  .narrative-section:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+  .narrative-card {
+    background: linear-gradient(135deg, rgba(94,106,210,0.08), rgba(113,112,255,0.04));
+    border: 1px solid rgba(113,112,255,0.15);
+    border-left: 3px solid var(--accent-bg);
+    border-radius: 8px;
+    padding: 12px 14px;
+    margin-bottom: 10px;
+  }
+  .narrative-type {
+    font-size: 10px; font-weight: 600; color: var(--accent);
+    text-transform: uppercase; letter-spacing: 0.5px;
+    margin-bottom: 4px;
+  }
+  .narrative-title {
+    font-size: 13px; font-weight: 700; color: var(--text-primary);
+    line-height: 1.4; margin-bottom: 6px;
+    letter-spacing: -0.1px;
+  }
+  .narrative-body {
+    font-size: 12px; color: var(--text-secondary);
+    line-height: 1.7;
+  }
+
+  /* ===== Insight divider ===== */
+  .insight-divider {
+    font-size: 11px; font-weight: 600; color: var(--text-quaternary);
+    text-transform: uppercase; letter-spacing: 0.5px;
+    padding: 10px 0 6px; border-bottom: 1px solid var(--border);
+    margin-bottom: 8px; margin-top: 12px;
+  }
+  .insight-divider:first-of-type {
+    margin-top: 0;
+  }
+
+  /* ===== GitHub buttons ===== */
+  .github-btn-group {
+    display: flex; align-items: center; gap: 6px;
+  }
+  .github-btn {
+    display: inline-flex; align-items: center; gap: 4px;
+    background: rgba(255,255,255,0.04); border: 1px solid var(--border-solid);
+    color: var(--text-secondary); padding: 5px 10px; border-radius: 6px;
+    cursor: pointer; font-size: 12px; font-weight: 500;
+    transition: all 0.15s; text-decoration: none; font-family: inherit;
+  }
+  .github-btn:hover {
+    background: rgba(255,255,255,0.08); color: var(--text-primary);
+    border-color: rgba(255,255,255,0.15);
+  }
+  .github-btn svg {
+    width: 14px; height: 14px; fill: currentColor;
+  }
+  .github-btn .count {
+    font-family: 'Inter', monospace; font-size: 11px;
+    color: var(--text-tertiary);
+  }
+
 </style>
 </head>
 <body>
@@ -434,6 +502,16 @@
   <div id="header">
     <h1><span class="logo">🧠</span> AI Radar Knowledge Graph</h1>
     <div id="header-controls">
+      <div class="github-btn-group">
+        <a href="https://github.com/ttmens/ai-radar-wiki" class="github-btn" target="_blank" title="Star on GitHub">
+          <svg viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 1.2-.27.36.03.72.15.72.15s.3-.09.55-.38c.3-.06.48-.17.48-.17s.18-.09.48.17c.3.06.55.21.55.21.28.06.55.17.55.17.3.06.48.17.48.17s.18.09.48-.17c.25-.29.43-.38.55-.38.3.06.55.21.55.21.28.06.55.17.55.17s.18-.09.48-.17c.3-.06.55-.21.55-.21.28-.06.55-.17.55-.17s.18.09.48.17c.3.06.55.21.55.21.28.06.55.17.55.17s.18-.09.48-.17c.25-.29.43-.38.55-.38.3-.06.55-.21.55-.21.28.06.55.17.55.17s.18-.09.48-.17c.3-.06.55-.21.55-.21.28.06.55-.17.55-.17s.18-.09.48.17c.25.29.43.38.55.38.12 0 .3-.09.55-.38.25-.29.43-.38.55-.38.3-.06.55-.21.55-.21.28.06.55.17.55.17s.18-.09.48-.17c.3-.06.55-.21.55-.21.28-.06.55-.17.55-.17s.18-.09.48.17c.25-.29.43-.38.55-.38.3-.06.55-.21.55-.21.28.06.55.17.55.17s.18-.09.48-.17c.3-.06.55-.21.55-.21.28-.06.55-.17.55-.17s.18-.09.48.17c.25.29.43.38.55.38.12 0 .3-.09.55-.38.25-.29.43-.38.55-.38.3-.06.55-.21.55-.21.28.06.55.17.55.17s.18-.09.48-.17c.3-.06.55-.21.55-.21.28-.06.55-.17.55-.17s.18-.09.48.17c.25.29.43.38.55.38.12 0 .3-.09.55-.38.25-.29.43-.38.55-.38.3-.06.55-.21.55-.21.28.06.55.17.55.17s.18-.09.48-.17c.3-.06.55-.21.55-.21.28-.06.55-.17.55-.17s.18-.09.48.17c.25-.29.43-.38.55-.38.3-.06.55-.21.55-.21.28.06.55.17.55.17s.18-.09.48-.17c.3-.06.55-.21.55-.21.28-.06.55-.17.55-.17s.18-.09.48.17c.25.29.43.38.55.38.12 0 .3-.09.55-.38z"/></svg>
+          <span class="count">Star</span>
+        </a>
+        <a href="https://github.com/ttmens/ai-radar-wiki/fork" class="github-btn" target="_blank" title="Fork on GitHub">
+          <svg viewBox="0 0 16 16"><path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"/></svg>
+          <span class="count">Fork</span>
+        </a>
+      </div>
       <button id="global-toggle-btn" class="header-btn" onclick="toggleDashboard()">📅 收起</button>
       <a href="./feed.xml" class="header-btn primary" target="_blank">📡 RSS</a>
       <div id="stats">
@@ -526,7 +604,7 @@
       // Headline
       html += '<div class="brief-headline">' + (dailySummary.headline || '') + '</div>';
 
-      // Overview
+      // Overview (主叙事 / 一句话概括)
       if (dailySummary.overview) {
         html += '<div class="brief-overview">' + dailySummary.overview + '</div>';
       }
@@ -536,13 +614,34 @@
         html += '<div class="brief-stats">' + dailySummary.stats + '</div>';
       }
 
-      // Insights with evidence (观点 + 证据)
+      // ===== Narratives: 跨节点叙事主线 =====
+      if (dailySummary.narratives && dailySummary.narratives.length > 0) {
+        html += '<div class="narrative-section">';
+        dailySummary.narratives.forEach(function(narrative) {
+          var typeLabels = {
+            'paradigm_shift': '🔄 范式转移',
+            'bottleneck': '⚠️ 核心瓶颈',
+            'maturation': '📈 行业成熟',
+            'validation': '💡 模式验证'
+          };
+          var typeLabel = typeLabels[narrative.type] || '📌 趋势';
+          html += '<div class="narrative-card">';
+          html += '<div class="narrative-type">' + typeLabel + '</div>';
+          html += '<div class="narrative-title">' + (narrative.title || '') + '</div>';
+          html += '<div class="narrative-body">' + (narrative.body || '') + '</div>';
+          html += '</div>';
+        });
+        html += '</div>';
+      }
+
+      // ===== Insights: 按pillar分组，观点 + 证据 =====
       if (dailySummary.insights && dailySummary.insights.length > 0) {
+        html += '<div class="insight-divider">📊 分领域证据</div>';
         dailySummary.insights.forEach(function(insight) {
           html += '<div class="insight-block">';
           html += '<div class="insight-header-pillar">' + (insight.pillar || '') + '</div>';
           html += '<div class="insight-text">' + (insight.insight || '') + '</div>';
-          
+
           if (insight.evidence && insight.evidence.length > 0) {
             html += '<div class="evidence-list">';
             insight.evidence.forEach(function(ev, i) {
@@ -556,7 +655,7 @@
             });
             html += '</div>';
           }
-          
+
           html += '</div>';
         });
       }

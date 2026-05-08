@@ -2,88 +2,38 @@
   "daily_summary": {
     "date": "2026-05-08",
     "headline": "今日 AI 情报 · 2026-05-08",
-    "overview": "今日共采集 8 条情报，其中 7 条高价值信号（PM Score ≥ 0.3）。",
-    "insights": [
+    "overview": "神经科学突破正推动AI交互从显式指令向隐式意图预判演进",
+    "narratives": [
       {
-        "pillar": "🤖 技术能力",
-        "pillar_key": "capabilities",
-        "insight": "语音交互能力有新突破，低延迟、高保真语音API降低产品集成门槛。",
-        "evidence": [
-          {
-            "id": "openai-launches-new-voice-intelligence-f",
-            "title": "OpenAI launches new voice intelligence features in its API",
-            "score": 0.33,
-            "summary": "OpenAI在API中推出全新语音智能功能，支持高保真语音交互与实时语义理解。该更新显著降低了语音应用的开发门槛，为智能客服、在线教育及创作者平台提供开箱即用的底层能力。对AI产品经理而言，这意味着可",
-            "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/"
-          }
-        ]
-      },
+        "title": "交互范式跃迁：从“显式指令”走向“隐式意图感知”",
+        "body": "脑科学对无意识语言处理机制的揭示，标志着AI产品正跨越“提示词工程”瓶颈，迈向环境感知与意图预判的新阶段。对PM而言，核心竞争点将从Prompt优化转向上下文隐式建模与无感服务设计，未来产品将更依赖多模态环境信号而非用户主动输入。",
+        "type": "paradigm_shift"
+      }
+    ],
+    "insights": [
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "Agent相关产品和交互模式持续演进，从概念验证走向实际应用落地。",
+        "insight": "当前AI产品高度依赖显式交互（Prompt/按钮），导致认知摩擦高、场景割裂。该研究指向“环境即输入”的新范式：通过隐式上下文学习捕捉用户无意识意图，产品形态将从“对话式工具”蜕变为“伴随式智能体”。PM需重构交互指标，从“任务完成率”转向“意图命中率”与“无感介入率”，并优先在穿戴设备与空间计算场景验证隐式意图模型。",
         "evidence": [
           {
-            "id": "dirtyfrag-universal-linux-lpe",
-            "title": "Dirtyfrag: Universal Linux LPE",
-            "score": 0.53,
-            "summary": "Dirtyfrag是新型Linux通用本地提权漏洞，可突破权限隔离获取Root权限。对AI产品经理而言，该技术警示底层基础设施安全直接关乎AI服务稳定性与数据合规。AI模型部署高度依赖Linux云环境",
-            "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8"
-          },
-          {
-            "id": "principles-for-agent-native-clis",
-            "title": "Principles for agent-native CLIs",
-            "score": 0.43,
-            "summary": "本文提出面向AI智能体原生设计的CLI核心原则。技术上强调结构化输出、机器可读性与确定性交互，替代传统人类文本范式。产品创新在于将CLI升级为Agent工作流基础设施，大幅提升自动化执行效率与系统集成",
-            "url": "https://twitter.com/trevin/status/2051316002730991795"
-          },
-          {
-            "id": "perplexity8217s-personal-computer-is",
-            "title": "Perplexity&#8217;s Personal Computer is now available to eve",
-            "score": 0.36,
-            "summary": "Perplexity推出面向Mac的“Personal Computer”应用，将AI智能体深度集成至桌面端，标志着AI交互从网页向本地化、系统级操作系统的范式转移。该产品通过原生Agent架构实现跨",
-            "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/"
-          },
-          {
-            "id": "two-home-affairs-officials-suspended-aft",
-            "title": "Two Home Affairs officials suspended after AI 'hallucination",
-            "score": 0.33,
-            "summary": "该事件揭示了大模型“幻觉”在政务等高敏感场景落地时的重大合规与信任风险。对AI产品经理而言，核心启示在于：必须将事实核查、置信度评估与人工复核机制深度嵌入产品工作流，而非仅依赖模型原生输出。商业价值上",
-            "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/"
-          }
-        ]
-      },
-      {
-        "pillar": "🔧 工具生态",
-        "pillar_key": "ecosystem",
-        "insight": "Kubernetes和云原生方向的AI工具链在完善，可观测性和排障能力被重视。",
-        "evidence": [
-          {
-            "id": "show-hn-kstack-skill-pack-for-monitor",
-            "title": "Show HN: Kstack – Skill pack for monitoring/troubleshooting ",
-            "score": 0.33,
-            "summary": "Kstack是专为Claude Code设计的K8s监控排障技能包，通过模块化Prompt与工具链集成，赋予AI直接诊断集群异常的能力。技术上依托大模型工具调用与上下文工程，实现日志分析与修复建议闭环",
-            "url": "https://github.com/kubetail-org/kstack"
-          }
-        ]
-      },
-      {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "insight": "商业方向有新的融资、产品发布或战略动态。",
-        "evidence": [
-          {
-            "id": "openai-introduces-new-8216trusted-con",
-            "title": "OpenAI introduces new &#8216;Trusted Contact&#8217; safeguar",
-            "score": 0.33,
-            "summary": "OpenAI推出“可信联系人”机制，利用实时对话风险识别技术，在检测到潜在自残倾向时自动预警并通知用户预设联系人。该功能将AI安全从被动过滤升级为主动干预，强化交互安全边界。对PM而言，此举显著提升产",
-            "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/"
+            "id": "researchers-discover-advanced-language-p",
+            "title": "Researchers discover advanced language processing in the unconscious h",
+            "score": 0.26
           }
         ]
       }
     ],
-    "stats": "📱 产品模式: 4 | 🤖 技术能力: 1 | 💰 商业趋势: 2 | 🔧 工具生态: 1",
+    "stats": "技术能力: 0 | 产品模式: 1 | 工具生态: 0 | 商业趋势: 0",
+    "total_items": 1,
+    "high_value_count": 0,
+    "all_today_ids": [
+      {
+        "id": "researchers-discover-advanced-language-p",
+        "label": "Researchers discover advanced language processing in the unconscious human brain"
+      }
+    ],
     "date_bj": "2026-05-08 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-08 09:47:18"
+    "generated_at_bj": "2026-05-08 09:52:55"
   }
 }
