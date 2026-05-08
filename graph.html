@@ -447,6 +447,16 @@
     font-size: 10px; color: var(--text-quaternary); flex-shrink: 0;
     background: rgba(255,255,255,0.04); padding: 1px 5px; border-radius: 3px;
   }
+  .evidence-reason {
+    font-size: 11px; cursor: help; flex-shrink: 0;
+    margin-left: 4px; opacity: 0.6; transition: opacity 0.15s;
+  }
+  .evidence-reason:hover { opacity: 1; }
+
+  /* Trend badge */
+  .trend-badge {
+    font-size: 12px; margin-left: 4px;
+  }
 
   /* ===== Narrative cards (cross-cutting trends) ===== */
   .narrative-section {
@@ -696,7 +706,11 @@
         html += '<div class="insight-divider">📊 分领域证据</div>';
         dailySummary.insights.forEach(function(insight) {
           html += '<div class="insight-block">';
-          html += '<div class="insight-header-pillar">' + (insight.pillar || '') + '</div>';
+          // Pillar name with trend arrow
+          var trendIcon = '';
+          var trendMap = { 'up': '📈', 'down': '📉', 'stable': '➡️', 'new': '🆕' };
+          trendIcon = trendMap[insight.trend] || '';
+          html += '<div class="insight-header-pillar">' + (insight.pillar || '') + ' <span class="trend-badge">' + trendIcon + '</span></div>';
           html += '<div class="insight-text">' + (insight.insight || '') + '</div>';
 
           if (insight.evidence && insight.evidence.length > 0) {
@@ -707,6 +721,10 @@
               html += '<div class="evidence-content">';
               html += '<div class="evidence-title">' + (ev.title || '') + '</div>';
               html += '<span class="evidence-score">PM ' + (ev.score || 0).toFixed(2) + '</span>';
+              // Score reason tooltip
+              if (ev.reason) {
+                html += '<span class="evidence-reason" title="' + ev.reason + '">💡</span>';
+              }
               html += '</div>';
               html += '</div>';
             });
