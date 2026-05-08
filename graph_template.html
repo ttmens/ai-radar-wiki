@@ -246,6 +246,72 @@
     white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
   }
   .related-meta { font-size: 10px; color: var(--text-quaternary); margin-top: 2px; }
+
+  /* ===== Viewpoint-driven summary styles ===== */
+  .value-overview {
+    background: rgba(113, 112, 255, 0.06);
+    border: 1px solid rgba(113, 112, 255, 0.15);
+    border-radius: 8px;
+    padding: 12px 14px;
+    font-size: 13px;
+    line-height: 1.6;
+    color: var(--text-primary);
+    margin-bottom: 16px;
+  }
+
+  /* Signal cards */
+  .signal-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 10px;
+    transition: all 0.15s;
+  }
+  .signal-card:hover { border-color: rgba(255,255,255,0.15); }
+  
+  .signal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+  .signal-value { font-size: 11px; padding: 2px 8px; border-radius: 4px; font-weight: 600; }
+  .signal-value.high { background: rgba(248, 81, 73, 0.12); color: #f85149; border: 1px solid rgba(248, 81, 73, 0.25); }
+  .signal-value.medium { background: rgba(210, 153, 34, 0.12); color: #d29922; border: 1px solid rgba(210, 153, 34, 0.25); }
+  .signal-value.low { background: rgba(139, 148, 158, 0.12); color: #8b949e; border: 1px solid rgba(139, 148, 158, 0.25); }
+  .signal-context { font-size: 10px; color: var(--text-quaternary); }
+  
+  .signal-title {
+    font-size: 13px; font-weight: 600; color: var(--text-primary);
+    cursor: pointer; margin-bottom: 6px; line-height: 1.4;
+  }
+  .signal-title:hover { color: var(--accent); }
+  .signal-judgment { font-size: 12px; color: var(--text-secondary); margin-bottom: 6px; line-height: 1.5; }
+  .signal-insight { font-size: 12px; color: var(--text-primary); line-height: 1.6; margin-bottom: 6px; }
+  .signal-action {
+    font-size: 11px; color: var(--green); background: rgba(39, 166, 68, 0.08);
+    padding: 6px 10px; border-radius: 4px; border-left: 2px solid var(--green);
+  }
+
+  /* Trend cards */
+  .trend-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 10px;
+  }
+  .trend-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+  .trend-name { font-size: 13px; font-weight: 600; color: var(--text-primary); }
+  .trend-direction { font-size: 11px; color: var(--text-secondary); }
+  .trend-summary { font-size: 12px; color: var(--text-secondary); margin-bottom: 8px; line-height: 1.5; }
+  .trend-evidence { display: flex; flex-direction: column; gap: 4px; }
+  .trend-evidence-item {
+    font-size: 11px; color: var(--text-tertiary); padding: 4px 8px;
+    border-radius: 4px; background: rgba(255,255,255,0.02); cursor: pointer;
+    border: 1px solid transparent; transition: all 0.15s;
+  }
+  .trend-evidence-item:hover {
+    color: var(--text-primary); background: rgba(255,255,255,0.05);
+    border-color: var(--border);
+  }
+
 </style>
 </head>
 <body>
@@ -336,59 +402,119 @@
         dailySummary = generateFallbackSummary();
       }
 
-      if (!dailySummary || !dailySummary.insights || dailySummary.insights.length === 0) {
+      if (!dailySummary) {
         container.innerHTML = '<div style="color:var(--text-quaternary); font-size:12px; text-align:center; padding:40px 20px;">今日暂无新情报</div>';
         return;
       }
 
       let html = '';
 
-      // 1. Headline (always at top)
-      html += '<div class="summary-headline">' + dailySummary.headline + '</div>';
+      // 1. Headline
+      html += '<div class="summary-headline">' + (dailySummary.headline || '今日情报速递') + '</div>';
 
-      // 2. Watch List
+      // 2. Value overview (NEW: 整体价值判断)
+      if (dailySummary.value_overview) {
+        html += '<div class="value-overview">' + dailySummary.value_overview + '</div>';
+      }
+
+      // 3. Watch List
       if (dailySummary.watch_list && dailySummary.watch_list.length > 0) {
         html += '<div class="section-label">🎯 值得关注</div>';
         html += '<div class="summary-watch">';
         dailySummary.watch_list.forEach(w => {
+          const clickAction = w.id ? 'focusNode(\'' + w.id + '\')' : 'searchArticle(\'' + (w.title || '').replace(/'/g, "\\'") + '\')';
           html += '<div class="watch-item">' +
-            '<div class="watch-item-title" onclick="' + (w.id ? 'focusNode(\'' + w.id + '\')' : 'searchArticle(\'' + w.title.replace(/'/g, "\\'") + '\')') + '">' + w.title + '</div>' +
+            '<div class="watch-item-title" onclick="' + clickAction + '">' + w.title + '</div>' +
             '<div class="watch-item-reason">' + w.reason + '</div>' +
             '</div>';
         });
         html += '</div>';
       }
 
-      // 3. Stats
+      // 4. Stats
       if (dailySummary.stats) {
         html += '<div class="summary-stats">' + dailySummary.stats + '</div>';
       }
 
-      // 4. Insights grouped by pillar (all expanded by default)
-      html += '<div class="section-label">📊 趋势洞察</div>';
-
-      // Group insights by pillar keywords or use the existing structure
-      dailySummary.insights.forEach((insight, idx) => {
-        html += '<div class="insight-section">' +
-          '<div class="insight-header expanded" onclick="toggleInsight(this)">' +
-            '<span>' + insight.title + '</span>' +
-            '<span class="insight-arrow">▶</span>' +
-          '</div>' +
-          '<div class="insight-body show">' +
-            '<div class="insight-summary">' + insight.summary + '</div>' +
-            '<ul class="insight-evidence">';
-
-        insight.evidence.forEach(e => {
-          // evidence can be string (legacy) or object {id, title}
-          if (typeof e === 'object' && e.id) {
-            html += '<li onclick="focusNode(\'' + e.id + '\')">' + e.title + '</li>';
-          } else {
-            html += '<li onclick="searchArticle(\'' + String(e).replace(/'/g, "\\'") + '\')">' + e + '</li>';
-          }
+      // 5. Signals with value judgments (NEW: 替代旧的 insights)
+      if (dailySummary.signals && dailySummary.signals.length > 0) {
+        html += '<div class="section-label">🔥 高价值信号</div>';
+        
+        dailySummary.signals.forEach(sig => {
+          const valueClass = sig.value_level === 'high' ? 'high' : (sig.value_level === 'medium' ? 'medium' : 'low');
+          const valueLabel = sig.value_level === 'high' ? '🔴 高价值' : (sig.value_level === 'medium' ? '🟡 中价值' : '⚪ 低价值');
+          const contextLabel = sig.context || '';
+          
+          html += '<div class="signal-card">' +
+            '<div class="signal-header">' +
+              '<span class="signal-value ' + valueClass + '">' + valueLabel + '</span>' +
+              '<span class="signal-context">' + contextLabel + '</span>' +
+            '</div>' +
+            '<div class="signal-title" onclick="' + (sig.id ? 'focusNode(\'' + sig.id + '\')' : '') + '">' + sig.title + '</div>' +
+            '<div class="signal-judgment">💡 ' + sig.judgment + '</div>' +
+            '<div class="signal-insight">' + sig.insight + '</div>' +
+            (sig.action ? '<div class="signal-action">👉 ' + sig.action + '</div>' : '') +
+            '</div>';
         });
+      }
 
-        html += '</ul></div></div>';
-      });
+      // 6. Trends with direction (NEW)
+      if (dailySummary.trends && dailySummary.trends.length > 0) {
+        html += '<div class="section-label">📈 趋势追踪</div>';
+        
+        dailySummary.trends.forEach(trend => {
+          const dirIcons = {
+            'emerging': '🌱 新兴',
+            'accelerating': '🚀 加速',
+            'peaking': '📊 见顶',
+            'declining': '📉 衰退'
+          };
+          const dirIcon = dirIcons[trend.direction] || trend.direction;
+          
+          html += '<div class="trend-card">' +
+            '<div class="trend-header">' +
+              '<span class="trend-name">' + trend.name + '</span>' +
+              '<span class="trend-direction">' + dirIcon + '</span>' +
+            '</div>' +
+            '<div class="trend-summary">' + trend.summary + '</div>';
+          
+          if (trend.evidence && trend.evidence.length > 0) {
+            html += '<div class="trend-evidence">';
+            trend.evidence.forEach(e => {
+              const clickAction = e.id ? 'focusNode(\'' + e.id + '\')' : 'searchArticle(\'' + (e.title || '').replace(/'/g, "\\'") + '\')';
+              html += '<div class="trend-evidence-item" onclick="' + clickAction + '">' + e.title + '</div>';
+            });
+            html += '</div>';
+          }
+          
+          html += '</div>';
+        });
+      }
+
+      // 7. Fallback: old-style insights (backward compat)
+      if (!dailySummary.signals && dailySummary.insights && dailySummary.insights.length > 0) {
+        html += '<div class="section-label">📊 趋势洞察</div>';
+        dailySummary.insights.forEach((insight, idx) => {
+          html += '<div class="insight-section">' +
+            '<div class="insight-header expanded" onclick="toggleInsight(this)">' +
+              '<span>' + insight.title + '</span>' +
+              '<span class="insight-arrow">▶</span>' +
+            '</div>' +
+            '<div class="insight-body show">' +
+              '<div class="insight-summary">' + insight.summary + '</div>' +
+              '<ul class="insight-evidence">';
+
+          insight.evidence.forEach(e => {
+            if (typeof e === 'object' && e.id) {
+              html += '<li onclick="focusNode(\'' + e.id + '\')">' + e.title + '</li>';
+            } else {
+              html += '<li onclick="searchArticle(\'' + String(e).replace(/'/g, "\\'") + '\')">' + e + '</li>';
+            }
+          });
+
+          html += '</ul></div></div>';
+        });
+      }
 
       container.innerHTML = html;
     }
