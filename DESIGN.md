@@ -1,6 +1,6 @@
 # AI Radar 系统设计文档 (System Design Document)
 
-> **版本**: v3.7.0  
+> **版本**: v3.9.0  
 > **最后更新**: 2026-05-08 11:00  
 > **维护者**: Hermes Agent  
 > **在线地址**: https://ttmens.github.io/ai-radar-wiki/graph.html
@@ -532,6 +532,7 @@ data_json = json.dumps(graph_data, indent=2, ensure_ascii=False)
 
 | 版本 | 日期 | 变更内容 |
 |------|------|----------|
+| v3.9.0 | 2026-05-08 | Phase 2 趋势分析框架：周视图、叙事生命周期追踪、矛盾信号检测、摘要历史存档 |
 | v3.7.0 | 2026-05-08 | UI/UX 重构 + 数据持久化修复：左侧面板去掉独立标题栏 + Sticky Headline + 竖向展开按钮 + 两侧面板高度对齐 + Header 移除收起按钮 + Star/Fork 按钮 + `build_graph_json()` 合并模式 + `daily_summary.json` 叙事主线深度分析 |
 | v3.6.0 | 2026-05-08 | Schema 标准化 + 日报 Digest 数据源说明 |
 | v3.5.0 | 2026-05-07 | 系统修复完成：中文摘要链路修复 + 每日摘要恢复 + 仓库清理 + pipeline 优化 |
