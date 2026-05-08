@@ -609,6 +609,10 @@
 
   <!-- Dashboard (Left) -->
   <div id="dashboard">
+    <div class="view-toggle" id="view-toggle-bar">
+      <button class="active" id="btn-day-view" onclick="switchView('day')">日视图</button>
+      <button id="btn-week-view" onclick="switchView('week')">周视图</button>
+    </div>
     <div class="dash-content" id="dash-content">Loading...</div>
     <div id="week-view-content" style="display:none"></div>
   </div>
@@ -680,29 +684,29 @@
       } catch (e) { /* No trends yet */ }
     }
 
-    // 2C: Week View Toggle
-    function toggleWeekView() {
-      isWeekView = !isWeekView;
-      const btn = document.getElementById('btn-week-view');
+    // 2C: View Switching
+    function switchView(view) {
+      const btnDay = document.getElementById('btn-day-view');
+      const btnWeek = document.getElementById('btn-week-view');
+      const dashContent = document.getElementById('dash-content');
+      const weekContent = document.getElementById('week-view-content');
       const headline = document.getElementById('main-headline-text');
-      
-      if (btn) btn.classList.toggle('active', isWeekView);
-      
-      if (isWeekView) {
-         if (btn) btn.textContent = '📅 切换至日视图';
-         if (headline) {
-             const days = weeklyTrends ? weeklyTrends.days_analyzed : 0;
-             headline.textContent = '📈 本周 AI 情报趋势 (追踪 ' + days + ' 天)';
-         }
-         const weekDiv = document.getElementById('week-view-content');
-         renderWeekView(weekDiv);
-         weekDiv.style.display = 'block';
-         document.getElementById('dash-content').style.display = 'none';
+
+      if (view === 'week') {
+        isWeekView = true;
+        btnWeek.classList.add('active');
+        btnDay.classList.remove('active');
+        if (headline) headline.textContent = '📈 本周情报趋势';
+        renderWeekView(weekContent);
+        weekContent.style.display = 'block';
+        dashContent.style.display = 'none';
       } else {
-         if (btn) btn.textContent = '📅 切换至周视图';
-         if (headline && dailySummary) headline.textContent = dailySummary.headline || '今日 AI 情报';
-         document.getElementById('week-view-content').style.display = 'none';
-         document.getElementById('dash-content').style.display = 'block';
+        isWeekView = false;
+        btnDay.classList.add('active');
+        btnWeek.classList.remove('active');
+        if (headline && dailySummary) headline.textContent = dailySummary.headline || '今日 AI 情报';
+        weekContent.style.display = 'none';
+        dashContent.style.display = 'block';
       }
     }
 
@@ -745,9 +749,17 @@
             const icons = { 'emerging': '🌱', 'rising': '🔥', 'hot': '⚡', 'declining': '📉' };
             const icon = icons[chain.lifecycle] || '📌';
             const instances = chain.instances || [];
-            const detailHtml = instances.map(i => 
-              `<div class="narrative-detail-item"><span class="narrative-detail-date">${i.date}</span>${i.title}</div>`
-            ).join('');
+            const uniqueTitles = [...new Set(instances.map(i => i.title))];
+            const dates = instances.map(i => i.date).join(', ');
+            
+            let detailHtml = '';
+            if (uniqueTitles.length === 1) {
+               detailHtml = `<div class="narrative-detail-item" style="color:var(--text-tertiary);">在以下日期出现: <b>${dates}</b></div>`;
+            } else {
+               detailHtml = instances.map(i => 
+                 `<div class="narrative-detail-item"><span class="narrative-detail-date">${i.date}</span>${i.title}</div>`
+               ).join('');
+            }
             
             html += `<div style="margin-bottom:10px;">`;
             html += `<div style="font-size:11px; font-weight:500;">${icon} ${chain.title}</div>`;
@@ -786,15 +798,9 @@
 
       let html = '';
 
-      // Headline with sticky close button
+      // Headline
       const headlineText = dailySummary.headline || '今日 AI 情报';
-      html += '<div class="brief-headline">';
-      html += '<div class="headline-row">';
-      html += '<span id="main-headline-text">' + headlineText + '</span>';
-      html += '<button id="btn-week-view" class="week-toggle-btn" onclick="toggleWeekView()">📅 切换至周视图</button>';
-      html += '</div>';
-      html += '<button class="dash-close-btn" onclick="toggleDashboard()" title="收起" style="position:absolute; right:12px; top:12px;">✕</button>';
-      html += '</div>';
+      html += '<div class="brief-headline"><span id="main-headline-text">' + headlineText + '</span><button class="dash-close-btn" onclick="toggleDashboard()" title="收起">✕</button></div>';
 
       // Overview (主叙事 / 一句话概括)
       if (dailySummary.overview) {
