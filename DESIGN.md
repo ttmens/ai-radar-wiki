@@ -317,7 +317,7 @@ graph.json 节点实际字段（v3.6.0）：
 ### 6.2 LLM API 配置
 ```bash
 # ~/.hermes/.env
-DASHSCOPE_API_KEY=sk-sp-940aa5d66c4d428c97951320394d54f6
+DASHSCOPE_API_KEY=******
 DASHSCOPE_BASE_URL=https://coding.dashscope.aliyuncs.com/v1
 ```
 
