@@ -227,6 +227,25 @@
   .action-btn.primary:hover { background: var(--accent-hover); }
   .action-btn.secondary { background: rgba(255,255,255,0.04); border: 1px solid var(--border-solid); color: var(--text-secondary); }
   .action-btn.secondary:hover { background: rgba(255,255,255,0.08); color: var(--text-primary); }
+
+  /* Related items section */
+  #related-section { border-top: 1px solid var(--border); padding-top: 16px; margin-top: 8px; }
+  .related-item {
+    display: flex; align-items: flex-start; gap: 10px;
+    padding: 8px; margin-bottom: 6px; border-radius: 6px;
+    background: rgba(255,255,255,0.02); border: 1px solid var(--border);
+    cursor: pointer; transition: all 0.15s;
+  }
+  .related-item:hover { background: rgba(255,255,255,0.05); border-color: rgba(255,255,255,0.15); }
+  .related-dot {
+    width: 8px; height: 8px; border-radius: 50%; margin-top: 5px; flex-shrink: 0;
+  }
+  .related-info { flex: 1; min-width: 0; }
+  .related-title {
+    font-size: 12px; color: var(--text-primary); line-height: 1.4;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  }
+  .related-meta { font-size: 10px; color: var(--text-quaternary); margin-top: 2px; }
 </style>
 </head>
 <body>
@@ -280,6 +299,10 @@
         <div class="section-title">📄 原文</div>
         <div class="source-meta" id="source-meta"></div>
         <div class="panel-source-preview" id="panel-source-preview">加载中...</div>
+      </div>
+      <div class="panel-section" id="related-section" style="display:none">
+        <div class="section-title">🔗 相关情报</div>
+        <div id="related-items"></div>
       </div>
     </div>
     <div class="panel-actions">
@@ -384,8 +407,40 @@
     }
 
     function searchArticle(title) {
-      const match = data.nodes.find(n => n.label.includes(title) || title.includes(n.label));
-      if (match) focusNode(match.id);
+      // Try multiple matching strategies
+      let match = null;
+      
+      // 1. Exact match on id (for direct node IDs)
+      const byId = data.nodes.find(n => n.id === title);
+      if (byId) { match = byId; }
+      
+      // 2. Exact match on label
+      if (!match) {
+        const byLabel = data.nodes.find(n => n.label === title);
+        if (byLabel) match = byLabel;
+      }
+      
+      // 3. Partial match: label includes title
+      if (!match) {
+        const byIncludes = data.nodes.find(n => n.label.toLowerCase().includes(title.toLowerCase()));
+        if (byIncludes) match = byIncludes;
+      }
+      
+      // 4. Partial match: title includes label
+      if (!match) {
+        const byReverse = data.nodes.find(n => title.toLowerCase().includes(n.label.toLowerCase()));
+        if (byReverse) match = byReverse;
+      }
+      
+      // 5. Match on summary content
+      if (!match) {
+        const bySummary = data.nodes.find(n => n.summary && n.summary.includes(title));
+        if (bySummary) match = bySummary;
+      }
+      
+      if (match) {
+        focusNode(match.id);
+      }
     }
 
     // ===== 2. NETWORK RENDER =====
@@ -471,12 +526,15 @@
       if (node.type) metaHtml.push('<div class="source-meta-item">类型：<span>' + node.type + '</span></div>');
       document.getElementById('source-meta').innerHTML = metaHtml.join('');
 
-      // Original text preview (full content, original language)
+      // Original text preview (use raw_content, not summary)
       const preview = document.getElementById('panel-source-preview');
-      if (summary && summary.length > 0) {
-        preview.textContent = summary;
+      const rawContent = currentNode.raw_content || '';
+      if (rawContent && rawContent.length > 0) {
+        // Show first 300 chars of raw_content as preview
+        preview.textContent = rawContent.length > 300 ? rawContent.substring(0, 300) + '\n\n...' : rawContent;
       } else {
-        preview.textContent = '暂无原文内容';
+        // Fallback: show summary if no raw_content
+        preview.textContent = summary || '暂无原文内容';
       }
 
       // Link button
@@ -491,14 +549,66 @@
       // Reset toggle button
       document.querySelector('.action-btn.secondary').textContent = '📋 完整原文';
 
+      // Related items (same pillar, excluding self)
+      renderRelatedItems(node);
+
       document.getElementById('detail-panel').classList.add('active');
+    }
+
+    function renderRelatedItems(currentNode) {
+      const section = document.getElementById('related-section');
+      const container = document.getElementById('related-items');
+      
+      const pillar = currentNode.pillar || '';
+      const currentId = currentNode.id;
+      
+      // Find nodes in same pillar, sorted by pm_score, excluding self
+      const related = data.nodes
+        .filter(n => n.pillar === pillar && n.id !== currentId && n.type !== 'concept')
+        .sort((a, b) => (b.pm_score || 0) - (a.pm_score || 0))
+        .slice(0, 5);
+      
+      if (related.length === 0) {
+        section.style.display = 'none';
+        return;
+      }
+      
+      section.style.display = 'block';
+      const pillarColor = pillarColors[pillar] || '#8b949e';
+      
+      let html = '';
+      related.forEach(r => {
+        const score = (r.pm_score || 0).toFixed(2);
+        html += '<div class="related-item" onclick="focusNode(\'' + r.id + '\')">' +
+          '<div class="related-dot" style="background:' + pillarColor + '"></div>' +
+          '<div class="related-info">' +
+            '<div class="related-title">' + r.label + '</div>' +
+            '<div class="related-meta">PM ' + score + ' · ' + (r.date || '') + '</div>' +
+          '</div></div>';
+      });
+      
+      container.innerHTML = html;
     }
 
     function hidePanel() { document.getElementById('detail-panel').classList.remove('active'); }
 
     function focusNode(id) {
+      const node = data.nodes.find(n => n.id === id);
+      if (!node) return;
+      
+      // Select the node
       network.selectNodes([id]);
-      network.focus(id, { scale: 1.2, animation: { duration: 500, easingFunction: 'easeInOutQuad' } });
+      
+      // Get node position from the network body
+      const pos = network.getPositions([id])[id];
+      if (pos) {
+        network.moveTo({
+          position: { x: pos.x, y: pos.y },
+          scale: 1.2,
+          animation: { duration: 500, easingFunction: 'easeInOutQuad' }
+        });
+      }
+      
       showPanel(id);
     }
 
@@ -508,16 +618,26 @@
       const btn = document.querySelector('.action-btn.secondary');
       if (!currentNode) return;
       
+      const summary = currentNode.summary || '';
+      const rawContent = currentNode.raw_content || '';
+      
       if (showingRaw) {
-        // Back to summary view: show first 120 chars
-        const summary = currentNode.summary || '';
-        preview.textContent = summary.length > 120 ? summary.substring(0, 120) + '…' : summary || '暂无原文内容';
+        // Back to raw_content preview (first 300 chars)
+        if (rawContent && rawContent.length > 0) {
+          preview.textContent = rawContent.length > 300 ? rawContent.substring(0, 300) + '\n\n...' : rawContent;
+        } else {
+          preview.textContent = summary || '暂无原文内容';
+        }
         btn.textContent = '📋 完整原文';
         showingRaw = false;
       } else {
-        // Show full text
-        preview.textContent = currentNode.summary || '暂无原文内容';
-        btn.textContent = '📝 返回摘要';
+        // Show full raw_content
+        if (rawContent && rawContent.length > 0) {
+          preview.textContent = rawContent;
+        } else {
+          preview.textContent = summary || '暂无原文内容';
+        }
+        btn.textContent = '📝 返回预览';
         showingRaw = true;
       }
     }
