@@ -1,142 +1,58 @@
 {
   "daily_summary": {
     "date": "2026-05-08",
-    "headline": "今日 8 条情报 · 7 条高价值信号",
-    "value_overview": "今日情报价值密度高：7 条高价值信号（PM Score ≥ 0.3），核心聚焦📱 产品模式, 💰 商业趋势方向。",
-    "signals": [
+    "headline": "今日 8 条情报，7 条值得关注",
+    "overview": "今日共采集 8 条 AI 情报，其中 7 条 PM Score ≥ 0.3。核心信号集中在📱 产品模式方向。",
+    "stories": [
       {
         "id": "dirtyfrag-universal-linux-lpe",
         "title": "Dirtyfrag: Universal Linux LPE",
-        "value_level": "high",
-        "judgment": "PM Score 0.53，📱 产品模式方向高价值信号",
-        "insight": "Dirtyfrag是新型Linux通用本地提权漏洞，可突破权限隔离获取Root权限。对AI产品经理而言，该技术警示底层基础设施安全直接关乎AI服务稳定性与数据合规。AI模型部署高度依赖Linux云环境，产品规划需前置安全设计，集成自动化漏洞扫描与热补丁机制，强化零信任架构。将基础设施韧性纳入产品核心",
-        "action": "建议点击查看详情，评估是否可复用到当前产品",
-        "context": "新信号"
+        "pillar": "📱 产品模式",
+        "summary": "Dirtyfrag是新型Linux通用本地提权漏洞，可突破权限隔离获取Root权限。对AI产品经理而言，该技术警示底层基础设施安全直接关乎AI服务稳定性与数据合规。AI模型部署高度依赖Linux云环境，产品规划需前置安全设计，集成自动化漏洞扫描与热补丁机制，强化零信任架构。将基础设施韧性纳入产品核心指标，有助于构建高可靠、符合企业级安全标准的AI解决方案。",
+        "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+        "score": 0.53
       },
       {
         "id": "principles-for-agent-native-clis",
         "title": "Principles for agent-native CLIs",
-        "value_level": "high",
-        "judgment": "PM Score 0.43，📱 产品模式方向高价值信号",
-        "insight": "本文提出面向AI智能体原生设计的CLI核心原则。技术上强调结构化输出、机器可读性与确定性交互，替代传统人类文本范式。产品创新在于将CLI升级为Agent工作流基础设施，大幅提升自动化执行效率与系统集成度。对AI产品经理而言，该范式可优化开发者体验，助力构建高可用AI自动化平台，抢占企业级智能体生态入",
-        "action": "建议点击查看详情，评估是否可复用到当前产品",
-        "context": "新信号"
+        "pillar": "📱 产品模式",
+        "summary": "本文提出面向AI智能体原生设计的CLI核心原则。技术上强调结构化输出、机器可读性与确定性交互，替代传统人类文本范式。产品创新在于将CLI升级为Agent工作流基础设施，大幅提升自动化执行效率与系统集成度。对AI产品经理而言，该范式可优化开发者体验，助力构建高可用AI自动化平台，抢占企业级智能体生态入口，具备明确的商业化潜力。",
+        "url": "https://twitter.com/trevin/status/2051316002730991795",
+        "score": 0.43
       },
       {
         "id": "perplexity8217s-personal-computer-is",
-        "title": "Perplexity&#8217;s Personal Computer is now available to eve",
-        "value_level": "high",
-        "judgment": "PM Score 0.36，📱 产品模式方向高价值信号",
-        "insight": "Perplexity推出面向Mac的“Personal Computer”应用，将AI智能体深度集成至桌面端，标志着AI交互从网页向本地化、系统级操作系统的范式转移。该产品通过原生Agent架构实现跨应用任务自动化与上下文感知，显著降低操作摩擦。对AI产品经理而言，其核心价值在于验证了“AI原生桌面",
-        "action": "建议点击查看详情，评估是否可复用到当前产品",
-        "context": "新信号"
+        "title": "Perplexity&#8217;s Personal Computer is now available to everyone on M",
+        "pillar": "📱 产品模式",
+        "summary": "Perplexity推出面向Mac的“Personal Computer”应用，将AI智能体深度集成至桌面端，标志着AI交互从网页向本地化、系统级操作系统的范式转移。该产品通过原生Agent架构实现跨应用任务自动化与上下文感知，显著降低操作摩擦。对AI产品经理而言，其核心价值在于验证了“AI原生桌面”的商业可行性，为构建以智能体为中心的工作流产品提供新范式，并凸显系统级权限整合在下一代AI入口竞争",
+        "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+        "score": 0.365
       },
       {
         "id": "two-home-affairs-officials-suspended-aft",
-        "title": "Two Home Affairs officials suspended after AI 'hallucination",
-        "value_level": "high",
-        "judgment": "PM Score 0.33，📱 产品模式方向高价值信号",
-        "insight": "该事件揭示了大模型“幻觉”在政务等高敏感场景落地时的重大合规与信任风险。对AI产品经理而言，核心启示在于：必须将事实核查、置信度评估与人工复核机制深度嵌入产品工作流，而非仅依赖模型原生输出。商业价值上，凸显了“可解释AI”与“安全护栏”技术的市场需求；产品创新应聚焦于构建闭环验证体系、明确AI辅助边",
-        "action": "建议点击查看详情，评估是否可复用到当前产品",
-        "context": "新信号"
+        "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+        "pillar": "📱 产品模式",
+        "summary": "该事件揭示了大模型“幻觉”在政务等高敏感场景落地时的重大合规与信任风险。对AI产品经理而言，核心启示在于：必须将事实核查、置信度评估与人工复核机制深度嵌入产品工作流，而非仅依赖模型原生输出。商业价值上，凸显了“可解释AI”与“安全护栏”技术的市场需求；产品创新应聚焦于构建闭环验证体系、明确AI辅助边界，并建立完善的问责与容错机制，以平衡效率与可靠性。",
+        "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+        "score": 0.33
       },
       {
         "id": "openai-launches-new-voice-intelligence-f",
         "title": "OpenAI launches new voice intelligence features in its API",
-        "value_level": "high",
-        "judgment": "PM Score 0.33，🤖 技术能力方向高价值信号",
-        "insight": "OpenAI在API中推出全新语音智能功能，支持高保真语音交互与实时语义理解。该更新显著降低了语音应用的开发门槛，为智能客服、在线教育及创作者平台提供开箱即用的底层能力。对AI产品经理而言，这意味着可快速构建低延迟、多场景适配的语音交互产品，缩短MVP验证周期，并探索基于自然语音流的新商业模式与用户",
-        "action": "建议点击查看详情，评估是否可复用到当前产品",
-        "context": "新信号"
+        "pillar": "🤖 技术能力",
+        "summary": "OpenAI在API中推出全新语音智能功能，支持高保真语音交互与实时语义理解。该更新显著降低了语音应用的开发门槛，为智能客服、在线教育及创作者平台提供开箱即用的底层能力。对AI产品经理而言，这意味着可快速构建低延迟、多场景适配的语音交互产品，缩短MVP验证周期，并探索基于自然语音流的新商业模式与用户体验创新。",
+        "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+        "score": 0.33
       },
       {
-        "id": "voi-founders8217-new-ai-startup-pit-h",
-        "title": "Voi founders&#8217; new AI startup Pit has become the latest",
-        "value_level": "medium",
-        "judgment": "PM Score 0.26，值得关注但非优先",
-        "insight": "Voi联合创始人创立的AI公司Pit获a16z领投1600万美元种子轮。项目依托团队在共享出行与线下规模化运营的产业积累，聚焦AI在实体资产调度与自动化决策场景的落地。对AI产品经理而言，其商业价值在于验证了“AI+重运营”的变现路径，凸显",
-        "action": "可放入观察列表，持续跟踪",
-        "context": "新信号"
+        "id": "openai-introduces-new-8216trusted-con",
+        "title": "OpenAI introduces new &#8216;Trusted Contact&#8217; safeguard for case",
+        "pillar": "💰 商业趋势",
+        "summary": "OpenAI推出“可信联系人”机制，利用实时对话风险识别技术，在检测到潜在自残倾向时自动预警并通知用户预设联系人。该功能将AI安全从被动过滤升级为主动干预，强化交互安全边界。对PM而言，此举显著提升产品合规性与用户信任，为大模型在心理、客服等高敏场景落地提供可复用安全架构，构建差异化商业护城河。",
+        "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+        "score": 0.33
       }
     ],
-    "trends": [
-      {
-        "name": "🤖 技术能力",
-        "direction": "emerging",
-        "summary": "今日 1 条进展，保持平稳",
-        "evidence": [
-          {
-            "id": "openai-launches-new-voice-intelligence-f",
-            "title": "OpenAI launches new voice intelligence features in"
-          }
-        ]
-      },
-      {
-        "name": "📱 产品模式",
-        "direction": "emerging",
-        "summary": "今日 4 条进展，保持平稳",
-        "evidence": [
-          {
-            "id": "dirtyfrag-universal-linux-lpe",
-            "title": "Dirtyfrag: Universal Linux LPE"
-          },
-          {
-            "id": "principles-for-agent-native-clis",
-            "title": "Principles for agent-native CLIs"
-          },
-          {
-            "id": "perplexity8217s-personal-computer-is",
-            "title": "Perplexity&#8217;s Personal Computer is now availa"
-          }
-        ]
-      },
-      {
-        "name": "🔧 工具生态",
-        "direction": "emerging",
-        "summary": "今日 1 条进展，保持平稳",
-        "evidence": [
-          {
-            "id": "show-hn-kstack-skill-pack-for-monitor",
-            "title": "Show HN: Kstack – Skill pack for monitoring/troubl"
-          }
-        ]
-      },
-      {
-        "name": "💰 商业趋势",
-        "direction": "emerging",
-        "summary": "今日 2 条进展，保持平稳",
-        "evidence": [
-          {
-            "id": "openai-introduces-new-8216trusted-con",
-            "title": "OpenAI introduces new &#8216;Trusted Contact&#8217"
-          },
-          {
-            "id": "voi-founders8217-new-ai-startup-pit-h",
-            "title": "Voi founders&#8217; new AI startup Pit has become "
-          }
-        ]
-      }
-    ],
-    "watch_list": [
-      {
-        "title": "Dirtyfrag: Universal Linux LPE",
-        "reason": "PM Score 0.53",
-        "id": "dirtyfrag-universal-linux-lpe"
-      },
-      {
-        "title": "Principles for agent-native CLIs",
-        "reason": "PM Score 0.43",
-        "id": "principles-for-agent-native-clis"
-      },
-      {
-        "title": "Perplexity&#8217;s Personal Computer is now availa",
-        "reason": "PM Score 0.36",
-        "id": "perplexity8217s-personal-computer-is"
-      }
-    ],
-    "stats": "今日共 8 条情报，高价值 7 条，📱 产品模式4条, 🤖 技术能力1条, 💰 商业趋势2条, 🔧 工具生态1条",
-    "date_bj": "2026-05-08 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-08 08:41:41",
-    "generated_by": "viewpoint-fallback"
+    "stats": "技术能力: 1 | 产品模式: 4 | 工具生态: 1 | 商业趋势: 2"
   }
 }
