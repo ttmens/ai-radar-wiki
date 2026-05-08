@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 07 May 2026 23:52:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 03:53:14 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -13,155 +13,67 @@
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
     <item>
-      <title>Chrome removes claim of On-device Al not sending data to Google Servers</title>
-      <link>https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/</link>
-      <guid isPermaLink="false">chrome-removes-claim-of-on-device-al-not</guid>
+      <title>Dirtyfrag: Universal Linux LPE</title>
+      <link>https://www.openwall.com/lists/oss-security/2026/05/07/8</link>
+      <guid isPermaLink="false">dirtyfrag-universal-linux-lpe</guid>
       <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> discussion</p><hr/><p>Chrome已悄然移除其端侧AI“数据不上传至Google服务器”的隐私声明，暗示端侧处理可能已转向或混合云端协同。对AI产品经理而言，这揭示了当前端侧AI在算力、模型更新与数据闭环上的现实瓶颈，纯本地化承诺难以长期维持。产品策略需重新权衡隐私合规、用户体验与云端能力扩展，未来端云混合架构将成为主流，同时需加强数据透明化设计以维系用户信任。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>AlphaEvolve: Gemini-powered coding agent scaling impact across fields</title>
-      <link>https://deepmind.google/blog/alphaevolve-impact/</link>
-      <guid isPermaLink="false">alphaevolve-gemini-powered-coding-agent</guid>
-      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> discussion</p><hr/><p>AlphaEvolve是DeepMind基于Gemini的自主编程智能体，融合大模型与进化算法实现代码自动生成与迭代优化。该技术突破单一场景限制，可跨学科解决复杂计算问题，显著降低研发成本。对AI产品经理而言，其“生成+进化搜索”范式为构建自动化研发工具提供了新架构参考，具备高商业化潜力与平台扩展价值。</p></description>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> discussion</p><hr/><p>Dirtyfrag是新型Linux通用本地提权漏洞，可突破权限隔离获取Root权限。对AI产品经理而言，该技术警示底层基础设施安全直接关乎AI服务稳定性与数据合规。AI模型部署高度依赖Linux云环境，产品规划需前置安全设计，集成自动化漏洞扫描与热补丁机制，强化零信任架构。将基础设施韧性纳入产品核心指标，有助于构建高可靠、符合企业级安全标准的AI解决方案。</p></description>
       <category>📱 产品模式</category>
     </item>
     <item>
-      <title>Motherboard sales 'collapse' amid unprecedented shortages fueled by AI</title>
-      <link>https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers</link>
-      <guid isPermaLink="false">motherboard-sales-collapse-amid-unprec</guid>
+      <title>Principles for agent-native CLIs</title>
+      <link>https://twitter.com/trevin/status/2051316002730991795</link>
+      <guid isPermaLink="false">principles-for-agent-native-clis</guid>
       <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> discussion</p><hr/><p>AI算力需求激增引发主板等核心硬件供应链短缺，传统PC主板销量骤降。对AI产品经理而言，底层算力瓶颈正直接推高部署成本并拉长交付周期。商业层面，短缺加速算力向云端集中，倒逼AI产品向“云原生+轻量化”架构转型。PM需强化算力调度优化、软硬件解耦设计及供应链弹性预案，确保在资源受限下实现产品稳定迭代与商业化落地。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Agents need control flow, not more prompts</title>
-      <link>https://bsuh.bearblog.dev/agents-need-control-flow/</link>
-      <guid isPermaLink="false">agents-need-control-flow-not-more-promp</guid>
-      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> discussion</p><hr/><p>本文指出AI智能体开发正从“提示词堆砌”转向引入结构化控制流（如条件分支、循环与状态机）。对PM而言，该架构演进可通过标准化工作流编排大幅提升Agent的稳定性与可预测性，显著降低提示词维护成本。它支持复杂业务逻辑的模块化拆解，加速产品迭代与企业级落地，是构建高可靠、可扩展AI应用的核心设计范式。</p></description>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> discussion</p><hr/><p>本文提出面向AI智能体原生设计的CLI核心原则。技术上强调结构化输出、机器可读性与确定性交互，替代传统人类文本范式。产品创新在于将CLI升级为Agent工作流基础设施，大幅提升自动化执行效率与系统集成度。对AI产品经理而言，该范式可优化开发者体验，助力构建高可用AI自动化平台，抢占企业级智能体生态入口，具备明确的商业化潜力。</p></description>
       <category>📱 产品模式</category>
     </item>
     <item>
-      <title>DeepSeek 4 Flash local inference engine for Metal</title>
-      <link>https://github.com/antirez/ds4</link>
-      <guid isPermaLink="false">deepseek-4-flash-local-inference-engine</guid>
+      <title>Perplexity&amp;#8217;s Personal Computer is now available to everyone on Mac</title>
+      <link>https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/</link>
+      <guid isPermaLink="false">perplexity8217s-personal-computer-is</guid>
       <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> discussion</p><hr/><p>该工具为DeepSeek模型提供基于Apple Metal的本地推理引擎。技术上深度适配苹果芯片架构，显著降低推理延迟与显存占用，支持完全离线运行。商业层面可大幅削减云端API调用成本，满足数据隐私合规要求，拓宽移动端与桌面端AI应用边界。产品创新在于打通苹果生态的端侧大模型部署链路，为开发者提供开箱即用的高性能方案，助力消费级AI产品实现低成本、高隐私的差异化落地。</p></description>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> news</p><hr/><p>Perplexity推出面向Mac的“Personal Computer”应用，将AI智能体深度集成至桌面端，标志着AI交互从网页向本地化、系统级操作系统的范式转移。该产品通过原生Agent架构实现跨应用任务自动化与上下文感知，显著降低操作摩擦。对AI产品经理而言，其核心价值在于验证了“AI原生桌面”的商业可行性，为构建以智能体为中心的工作流产品提供新范式，并凸显系统级权限整合在下一代AI入口竞争中的战略地位。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Two Home Affairs officials suspended after AI 'hallucinations' found</title>
+      <link>https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/</link>
+      <guid isPermaLink="false">two-home-affairs-officials-suspended-aft</guid>
+      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> discussion</p><hr/><p>该事件揭示了大模型“幻觉”在政务等高敏感场景落地时的重大合规与信任风险。对AI产品经理而言，核心启示在于：必须将事实核查、置信度评估与人工复核机制深度嵌入产品工作流，而非仅依赖模型原生输出。商业价值上，凸显了“可解释AI”与“安全护栏”技术的市场需求；产品创新应聚焦于构建闭环验证体系、明确AI辅助边界，并建立完善的问责与容错机制，以平衡效率与可靠性。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>OpenAI launches new voice intelligence features in its API</title>
+      <link>https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/</link>
+      <guid isPermaLink="false">openai-launches-new-voice-intelligence-f</guid>
+      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> news</p><hr/><p>OpenAI在API中推出全新语音智能功能，支持高保真语音交互与实时语义理解。该更新显著降低了语音应用的开发门槛，为智能客服、在线教育及创作者平台提供开箱即用的底层能力。对AI产品经理而言，这意味着可快速构建低延迟、多场景适配的语音交互产品，缩短MVP验证周期，并探索基于自然语音流的新商业模式与用户体验创新。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
-      <title>AI Slop Is Killing Online Communities</title>
-      <link>https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/</link>
-      <guid isPermaLink="false">ai-slop-is-killing-online-communities</guid>
+      <title>OpenAI introduces new &amp;#8216;Trusted Contact&amp;#8217; safeguard for cases of possi</title>
+      <link>https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/</link>
+      <guid isPermaLink="false">openai-introduces-new-8216trusted-con</guid>
       <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> discussion</p><hr/><p>本文探讨低质量AI生成内容泛滥对在线社区的破坏性影响。对AI产品经理而言，核心在于将内容质量评估与反垃圾机制深度集成至产品架构，利用多模态检测与行为分析构建自动化治理管线。商业上，平台需从“流量优先”转向“信任优先”，通过优化推荐权重、引入创作者认证与社区共治，重塑用户留存与生态健康，为内容平台的产品创新与合规设计提供关键方向。</p></description>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> news</p><hr/><p>OpenAI推出“可信联系人”机制，利用实时对话风险识别技术，在检测到潜在自残倾向时自动预警并通知用户预设联系人。该功能将AI安全从被动过滤升级为主动干预，强化交互安全边界。对PM而言，此举显著提升产品合规性与用户信任，为大模型在心理、客服等高敏场景落地提供可复用安全架构，构建差异化商业护城河。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Show HN: Kstack – Skill pack for monitoring/troubleshooting K8s in Claude Code</title>
+      <link>https://github.com/kubetail-org/kstack</link>
+      <guid isPermaLink="false">show-hn-kstack-skill-pack-for-monitor</guid>
+      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> project</p><hr/><p>Kstack是专为Claude Code设计的K8s监控排障技能包，通过模块化Prompt与工具链集成，赋予AI直接诊断集群异常的能力。技术上依托大模型工具调用与上下文工程，实现日志分析与修复建议闭环。商业价值在于降低SRE门槛并缩短故障恢复时间。产品创新在于将复杂运维知识封装为可插拔“AI技能包”，为垂直Agent落地提供标准化范式，具备高企业集成潜力。</p></description>
       <category>🔧 工具生态</category>
     </item>
     <item>
-      <title>How Cloudflare responded to the “Copy Fail” Linux vulnerability</title>
-      <link>https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/</link>
-      <guid isPermaLink="false">how-cloudflare-responded-to-the-copy-fa</guid>
+      <title>Voi founders&amp;#8217; new AI startup Pit has become the latest rising star out of </title>
+      <link>https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/</link>
+      <guid isPermaLink="false">voi-founders8217-new-ai-startup-pit-h</guid>
       <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> discussion</p><hr/><p>本文解析Cloudflare应对Linux“Copy Fail”漏洞的应急响应机制，突出其自动化漏洞扫描、灰度发布与边缘节点热修复能力。对AI产品经理而言，该案例展示了基础设施安全韧性设计，以及将安全流程产品化、自动化的商业价值。可为AI平台构建自动化运维、智能威胁检测提供工程参考，强化产品可靠性与合规竞争力。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Natural Language Autoencoders: Turning Claude's Thoughts into Text</title>
-      <link>https://www.anthropic.com/research/natural-language-autoencoders</link>
-      <guid isPermaLink="false">natural-language-autoencoders-turning-c</guid>
-      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> discussion</p><hr/><p>该技术探索利用自然语言自编码器将大模型（如Claude）的内部隐状态转化为可读文本，实现模型“思维过程”的可视化与解码。对AI产品经理而言，其核心价值在于提升模型可解释性与调试效率，为构建透明化AI产品、优化提示工程及合规审查提供新工具。未来可衍生出模型行为监控、推理过程可视化等创新功能，助力企业级AI应用的安全落地与体验升级。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Elon Musk&amp;#8217;s lawsuit is putting OpenAI&amp;#8217;s safety record under the micr</title>
-      <link>https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/</link>
-      <guid isPermaLink="false">elon-musk8217s-lawsuit-is-putting-ope</guid>
-      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> news</p><hr/><p>马斯克诉讼将OpenAI的安全治理置于聚光灯下，核心探讨超级智能开发中的企业责任与透明度。对AI产品经理而言，安全合规已从技术附属转为产品商业化与用户信任的基石。产品需在架构设计、风险披露与数据治理中嵌入可验证的安全机制，平衡创新与监管。将“安全即产品”纳入核心路线图，是应对法律审查、建立长期商业壁垒的关键。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Bumble is getting rid of the swipe, CEO says</title>
-      <link>https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/</link>
-      <guid isPermaLink="false">bumble-is-getting-rid-of-the-swipe-ceo</guid>
-      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> news</p><hr/><p>Bumble宣布将取消标志性的“滑动匹配”机制，转向更注重意图与质量的新型交互模式。对AI产品经理而言，此举标志着社交产品从“流量驱动”向“算法精准匹配”的战略转型。通过引入AI推荐与意图识别技术，可有效缓解用户滑动疲劳，提升匹配转化率与长期留存。该创新为社交类产品突破增长瓶颈、重构核心交互范式提供了重要商业参考。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity</title>
-      <link>https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/</link>
-      <guid isPermaLink="false">how-anthropics-mythos-has-rewritten-fir</guid>
-      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> news</p><hr/><p>Anthropic的Mythos系统利用AI自动化代码审计，在Firefox中精准挖掘高危漏洞，推动安全测试向智能防御转型。该案例验证了大模型在DevSecOps场景的落地能力，商业价值显著：可大幅降低人工排查成本、缩短修复周期并提升产品安全基线。PM可借鉴此模式，将AI安全代理嵌入研发流水线，打造自动化安全SaaS产品。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Aurora&amp;#8217;s Chris Urmson on why self-driving trucks are finally ready to scal</title>
-      <link>https://techcrunch.com/podcast/auroras-chris-urmson-on-why-self-driving-trucks-are-finally-ready-to-scale/</link>
-      <guid isPermaLink="false">aurora8217s-chris-urmson-on-why-self</guid>
-      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> news</p><hr/><p>本文解析Aurora自动驾驶卡车规模化落地的核心逻辑。技术上，依托高速干线ODD收敛、感知规划算法迭代与高保真仿真体系，有效攻克长尾场景难题。商业上，达拉斯-休斯顿常态化货运验证了降本增效的物流模型。对AI PM而言，该案例展示了L4产品从技术验证迈向商业化的关键路径：通过限定场景构建数据闭环、强化系统安全冗余，并打通合规与运营框架，为自动驾驶产品规模化提供范式。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Show HN: New Benchmark from SWE-bench team is 0% solved</title>
-      <link>https://programbench.com/</link>
-      <guid isPermaLink="false">show-hn-new-benchmark-from-swe-bench-te</guid>
-      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> project</p><hr/><p>SWE-bench团队发布全新代码基准，当前AI模型解决率为0%，标志着编程能力评估迈入高阶复杂任务阶段。该测试聚焦真实长链路开发与跨模块调试，凸显现有AI助手在自主规划与复杂推理上的瓶颈。对AI产品经理而言，此基准划定了从“代码补全”向“自主Agent”演进的分水岭，有助于合理设定产品预期，聚焦工作流优化，并为下一代AI编程工具的商业化迭代提供明确方向。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Stage CLI – an easier way of reading your AI generated changes locally</title>
-      <link>https://github.com/ReviewStage/stage-cli</link>
-      <guid isPermaLink="false">show-hn-stage-cli-an-easier-way-of-re</guid>
-      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> project</p><hr/><p>Stage CLI 是一款优化本地审查 AI 生成代码变更的命令行工具。其核心创新在于提供轻量级差异对比与交互式确认机制，帮助开发者高效验证 AI 输出质量后再提交版本控制。对 AI 产品经理而言，该工具填补了“AI 生成”与“人工审核”间的体验断层，有效降低盲目合并的安全风险，为 AI 辅助开发工作流提供了标准化的交互范式，显著提升开发者体验与代码交付可靠性。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>MPEG-2 Transport Stream Packaging for Media over QUIC Transport</title>
-      <link>https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html</link>
-      <guid isPermaLink="false">mpeg-2-transport-stream-packaging-for-me</guid>
-      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> discussion</p><hr/><p>该技术将MPEG-2传输流封装至基于QUIC的MoQ协议，实现低延迟、高可靠且抗弱网的音视频传输。对AI产品经理而言，底层传输优化可显著提升AI实时视频生成、云端渲染与交互式媒体产品的端到端体验，有效降低卡顿率与CDN成本。虽属基础设施层，但为AI流媒体产品提供了更稳定的传输范式，助力构建低延迟、高并发的下一代实时AI应用。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Startup Battlefield 200 applications close May 27: A shot at VC access, global v</title>
-      <link>https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/</link>
-      <guid isPermaLink="false">startup-battlefield-200-applications-clo</guid>
-      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> news</p><hr/><p>TechCrunch Startup Battlefield 200 报名将于5月27日截止。该赛事为早期AI创业团队提供无股权稀释的10万美元奖金、顶级风投对接及全球媒体曝光机会。对AI产品经理而言，参与此类赛事不仅是验证产品市场契合度（PMF）与获取早期资金的关键路径，更能通过行业曝光洞察前沿AI应用趋势、拓展生态合作网络，加速产品商业化落地与规模化增长。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers befor</title>
-      <link>https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/</link>
-      <guid isPermaLink="false">exhibit-at-techcrunch-disrupt-2026-get</guid>
-      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> news</p><hr/><p>本文推介TechCrunch Disrupt 2026展会参展机会，核心聚焦初创企业的高曝光平台与万名决策者精准对接的商业价值。对AI产品经理而言，该活动虽无具体技术披露，但直击产品市场化、早期获客、融资对接与生态卡位等关键环节。参展有助于AI团队验证市场需求、拓展B端渠道、加速商业化落地，并洞察行业趋势，是AI产品从技术验证走向规模增长的重要跳板。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Show HN: I made a vertical-pedalling bike with a novel drivetrain [video]</title>
-      <link>https://www.youtube.com/watch?v=4HLOsi2gWXQ</link>
-      <guid isPermaLink="false">show-hn-i-made-a-vertical-pedalling-bik</guid>
-      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> project</p><hr/><p>该项目展示了一款采用垂直踩踏设计与新型传动系统的自行车，核心创新在于机械结构优化，显著提升空间利用率与传动效率。对AI产品经理而言，该硬件可作为智能健身或物联网终端载体，结合传感器与AI算法实现运动姿态识别、个性化训练推荐及能耗动态优化。其模块化与结构创新思路为AI驱动的软硬协同设计提供跨界参考，具备在智慧出行与健康科技生态中商业化落地的潜力。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>2 days left: Get 50% off a second pass to TechCrunch Disrupt 2026</title>
-      <link>https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="false">2-days-left-get-50-off-a-second-pass-t</guid>
-      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> news</p><hr/><p>本文为TechCrunch Disrupt 2026大会的限时购票促销。对AI产品经理而言，该峰会是追踪行业商业化落地路径、洞察前沿产品创新模式及拓展技术生态人脉的核心场景。虽未涉及具体技术架构，但参会能直接获取一线市场反馈、竞品动态与资本风向，有助于优化产品路线图与GTM策略。建议结合业务规划评估参会ROI，利用折扣低成本接入行业创新网络。</p></description>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> news</p><hr/><p>Voi联合创始人创立的AI公司Pit获a16z领投1600万美元种子轮。项目依托团队在共享出行与线下规模化运营的产业积累，聚焦AI在实体资产调度与自动化决策场景的落地。对AI产品经理而言，其商业价值在于验证了“AI+重运营”的变现路径，凸显头部资本对具备产业Know-how与强工程化落地能力产品的偏好，为垂直场景AI产品化提供重要参考。</p></description>
       <category>💰 商业趋势</category>
     </item>
     <item>
@@ -410,6 +322,94 @@
       <guid isPermaLink="false">qdrantqdrant</guid>
       <pubDate>2026-05-07T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>Qdrant是专为AI打造的高性能大规模向量数据库。基于Rust开发，具备低延迟、高吞吐及精准过滤能力，支持混合检索与动态分片。对AI产品经理而言，其提供云托管与私有化双模式，显著降低RAG、语义搜索等场景的底层基建成本。凭借标准化API与开箱即用特性，可加速AI应用从原型验证到商业化落地，是构建企业级AI数据底座的核心能力组件。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>NVIDIA/TensorRT</title>
+      <link>https://github.com/NVIDIA/TensorRT</link>
+      <guid isPermaLink="false">nvidiatensorrt</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>TensorRT是NVIDIA专为GPU深度学习推理打造的高性能SDK，核心聚焦模型压缩、算子融合与精度校准等底层优化技术。对AI产品经理而言，其商业价值在于显著降低推理延迟与云端算力成本，提升产品并发处理能力与用户体验。开源组件的开放进一步降低了部署门槛，加速了从算法到生产环境的标准化落地，是构建高性能AI应用不可或缺的底层基础设施。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>crewAIInc/crewAI</title>
+      <link>https://github.com/crewAIInc/crewAI</link>
+      <guid isPermaLink="false">crewaiinccrewai</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>CrewAI是一款开源多智能体协同编排框架，支持基于角色扮演的自主AI代理无缝协作。技术上提供标准化任务分发、上下文共享与流程控制，大幅降低复杂Agent系统开发门槛。商业层面可快速构建客服、研发等自动化工作流，提升企业人效。其创新在于将“群体智能”工程化，为PM提供可复用、易扩展的多Agent架构范式，加速高可靠企业级AI产品落地。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>mindsdb/mindsdb</title>
+      <link>https://github.com/mindsdb/mindsdb</link>
+      <guid isPermaLink="false">mindsdbmindsdb</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>MindsDB定位为“AI数据保险库”，是一款专为AI智能体设计的统一查询引擎。技术上，它通过抽象层无缝对接任意数据源，提供安全可控的访问接口，内置权限与审计机制。商业价值在于大幅降低AI应用对接多源数据的集成成本与合规风险，加速智能体商业化落地。产品创新在于将传统数据管道升级为面向Agent的声明式查询中间件，为企业级AI数据基建提供标准化范式。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>NirDiamant/RAG_Techniques</title>
+      <link>https://github.com/NirDiamant/RAG_Techniques</link>
+      <guid isPermaLink="false">nirdiamantrag_techniques</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>该仓库系统梳理了RAG前沿架构与优化策略，涵盖高级检索、上下文压缩及多模态检索等核心模块，并附可运行教程。对AI产品经理而言，该资源可直接指导企业知识库与智能客服的技术选型，显著降低研发试错成本。通过模块化组合RAG模式，产品团队能快速验证复杂场景下的准确率与延迟，加速原型验证与商业落地，是构建高可用AI应用的关键参考。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>deepset-ai/haystack</title>
+      <link>https://github.com/deepset-ai/haystack</link>
+      <guid isPermaLink="false">deepset-aihaystack</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>Haystack是开源AI编排框架，专注构建生产级大模型应用。其核心提供模块化流水线与智能体工作流，赋予团队对检索、路由、记忆与生成的显式控制。对AI产品经理而言，该框架大幅降低RAG、多模态及语义搜索的落地门槛，支持快速原型验证与规模化部署。通过标准化上下文工程架构，有效缩短研发周期，提升系统可维护性与交付效率，是企业级AI产品落地的关键基础设施。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>sgl-project/sglang</title>
+      <link>https://github.com/sgl-project/sglang</link>
+      <guid isPermaLink="false">sgl-projectsglang</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>SGLang是专为大语言与多模态模型设计的高性能推理服务框架。其核心采用RadixAttention技术实现KV Cache高效复用，显著提升吞吐量并降低显存成本；内置结构化输出与多步工作流编排，简化复杂Agent开发。对AI产品经理而言，该框架能大幅压缩推理成本、加速产品上线，并保障高并发下的稳定体验，是打造高性能AI应用的关键底层设施。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>n8n-io/n8n</title>
+      <link>https://github.com/n8n-io/n8n</link>
+      <guid isPermaLink="false">n8n-ion8n</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>n8n是一款Fair-code工作流自动化平台，原生集成AI能力，支持可视化编排与自定义代码混合开发。平台提供自托管与云端双部署，内置400+连接器，显著降低AI Agent与企业系统的集成门槛。对AI产品经理而言，其“低代码+代码+原生AI”架构为构建复杂业务流、快速验证场景及保障数据合规提供了高灵活度的基础设施，具备极高的产品参考与商业落地价值。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>deepspeedai/DeepSpeed</title>
+      <link>https://github.com/deepspeedai/DeepSpeed</link>
+      <guid isPermaLink="false">deepspeedaideepspeed</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>DeepSpeed是微软开源的深度学习优化库，核心解决大模型分布式训练与推理的算力瓶颈。其ZeRO技术可大幅降低显存占用，支持千亿参数模型高效训练；推理加速模块显著降低延迟与云成本。对AI产品经理而言，该技术直接提升模型迭代效率、缩短产品上线周期，并有效压缩算力基础设施开支，是构建高性能、低成本大模型应用的核心底层能力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>langfuse/langfuse</title>
+      <link>https://github.com/langfuse/langfuse</link>
+      <guid isPermaLink="false">langfuselangfuse</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>Langfuse是开源LLM工程平台，提供可观测性、指标监控、自动化评估、提示词管理与数据集管理。技术上兼容OpenTelemetry及LangChain等主流框架，支持低侵入集成。对AI产品经理而言，其全链路追踪与标准化评测能力大幅降低模型调优门槛，加速产品从原型到生产的迭代闭环，显著提升研发效率与商业化落地确定性。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>milvus-io/milvus</title>
+      <link>https://github.com/milvus-io/milvus</link>
+      <guid isPermaLink="false">milvus-iomilvus</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>Milvus是一款高性能云原生向量数据库，专为大规模近似最近邻搜索设计。对AI产品经理而言，它是构建RAG、语义检索等LLM应用的核心基础设施。其分布式架构支持弹性扩缩容与高并发查询，有效降低海量向量数据的存储与检索成本。产品通过标准化API封装复杂计算，提供开箱即用的检索能力，助力团队快速落地AI场景，大幅缩短商业化周期。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>screenpipe/screenpipe</title>
+      <link>https://github.com/screenpipe/screenpipe</link>
+      <guid isPermaLink="false">screenpipescreenpipe</guid>
+      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>该项目提供本地化、全天候的屏幕与麦克风录制能力，为AI Agent构建持续的个人行为上下文数据流。技术核心在于端侧多模态采集与隐私保护。产品创新在于将被动记录转化为Agent主动感知的基础设施，使AI能基于真实操作流提供自动化服务。对PM而言，它是打造个性化助手与记忆型Agent的关键底层能力，兼具高商业潜力与数据合规优势。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
