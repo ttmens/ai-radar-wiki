@@ -94,8 +94,16 @@
   .dash-content::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 4px; }
 
   /* Week Controls & Phase 2 UI */
-  .week-controls { padding: 8px 0; display: flex; gap: 8px; border-bottom: 1px solid var(--border); margin-bottom: 12px; }
-  .week-controls .header-btn { font-size: 11px; padding: 4px 8px; width: 100%; justify-content: center; }
+  /* Week View Toggle integrated into Headline */
+  .headline-row { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px solid var(--border); }
+  .week-toggle-btn { font-size: 10px; padding: 3px 8px; background: var(--surface); border: 1px solid var(--border); border-radius: 4px; color: var(--text-secondary); cursor: pointer; }
+  .week-toggle-btn.active { background: var(--accent-bg); color: white; border-color: var(--accent-bg); }
+  
+  /* Narrative Details in Week View */
+  .narrative-detail { font-size: 10px; color: var(--text-quaternary); margin-top: 4px; padding-left: 8px; border-left: 1px solid var(--border); }
+  .narrative-detail-item { margin-bottom: 2px; }
+  .narrative-detail-date { color: var(--text-tertiary); margin-right: 4px; font-family: monospace; }
+  .expand-chain-btn { font-size: 9px; color: var(--accent); cursor: pointer; margin-left: 8px; text-decoration: underline; }
   .week-controls .header-btn.active { background: var(--accent-bg); color: #fff; border-color: var(--accent-bg); }
   
   .contradiction-box { background: rgba(240, 136, 62, 0.08); border: 1px solid rgba(240, 136, 62, 0.3); border-radius: 6px; padding: 10px; margin-bottom: 12px; }
@@ -676,21 +684,25 @@
     function toggleWeekView() {
       isWeekView = !isWeekView;
       const btn = document.getElementById('btn-week-view');
-      if (btn) {
-        btn.classList.toggle('active', isWeekView);
-        btn.textContent = isWeekView ? '📅 切换至日视图' : '📅 周视图';
-      }
+      const headline = document.getElementById('main-headline-text');
       
-      const content = document.getElementById('dash-content');
-      const weekDiv = document.getElementById('week-view-content');
+      if (btn) btn.classList.toggle('active', isWeekView);
       
       if (isWeekView) {
-        renderWeekView(weekDiv);
-        weekDiv.style.display = 'block';
-        content.style.display = 'none';
+         if (btn) btn.textContent = '📅 切换至日视图';
+         if (headline) {
+             const days = weeklyTrends ? weeklyTrends.days_analyzed : 0;
+             headline.textContent = '📈 本周 AI 情报趋势 (追踪 ' + days + ' 天)';
+         }
+         const weekDiv = document.getElementById('week-view-content');
+         renderWeekView(weekDiv);
+         weekDiv.style.display = 'block';
+         document.getElementById('dash-content').style.display = 'none';
       } else {
-        weekDiv.style.display = 'none';
-        content.style.display = 'block';
+         if (btn) btn.textContent = '📅 切换至周视图';
+         if (headline && dailySummary) headline.textContent = dailySummary.headline || '今日 AI 情报';
+         document.getElementById('week-view-content').style.display = 'none';
+         document.getElementById('dash-content').style.display = 'block';
       }
     }
 
@@ -703,27 +715,49 @@
       } else {
         html = '<div class="week-view-content active" id="week-view-content-inner">';
         
-        // 2B: Weekly Summary
+        // 2B: Weekly Summary with Markdown parsing
         if (weeklyTrends.weekly_summary) {
+           let summaryText = weeklyTrends.weekly_summary.replace(/\*\*(.*?)\*\*/g, '<b>$1</b>');
            html += '<div class="week-stat-card" style="border-left: 3px solid var(--accent);"><div class="week-stat-title">📋 本周情报总结</div>';
-           html += '<div style="font-size:12px; color:var(--text-secondary); line-height:1.5;">' + weeklyTrends.weekly_summary + '</div>';
+           html += '<div style="font-size:12px; color:var(--text-secondary); line-height:1.5;">' + summaryText + '</div>';
            html += '</div>';
         }
         
-        html += '<div class="week-stat-card"><div class="week-stat-title">📈 Pillar 趋势</div>';
+        // 2B: Pillar Trends - Human Readable
+        html += '<div class="week-stat-card"><div class="week-stat-title">📊 Pillar 趋势概览</div>';
         const pt = weeklyTrends.pillar_trends || {};
-        const names = { capabilities: '🤖 技术能力', patterns: '📱 产品模式', ecosystem: '🔧 工具生态', business: '💰 商业趋势' };
+        const names = { capabilities: '🤖 技术能力', patterns: '📱 产品模式', ecosystem: '🔧 工具生态', business: '💰 商业动态' };
+        const trendDesc = { 'up': '🔥 升温', 'down': '❄️ 降温', 'stable': '➡️ 平稳', 'new': '🆕 新' };
         for (const [key, val] of Object.entries(pt)) {
-          const icons = { 'up': '📈', 'down': '📉', 'stable': '➡️', 'new': '🆕' };
-          html += `<div class="week-stat-row"><span>${names[key] || key}</span><span>${icons[val.trend] || ''} ${val.current || 0} (${val.trend === 'up' ? '+' : ''}${val.delta || 0})</span></div>`;
+          const desc = trendDesc[val.trend] || val.trend;
+          // Display: [Pillar] | [Status]
+          html += `<div class="week-stat-row" style="display:flex; justify-content:space-between; align-items:center;">
+                     <span>${names[key] || key}</span>
+                     <span style="font-size:11px;">${desc}</span>
+                   </div>`;
         }
         html += '</div>';
         
+        // 2B: Narrative Chains with Evidence Details
         if (weeklyTrends.narrative_chains && weeklyTrends.narrative_chains.length > 0) {
           html += '<div class="week-stat-card"><div class="week-stat-title">🔗 叙事主线追踪</div>';
-          weeklyTrends.narrative_chains.slice(0, 5).forEach(chain => {
+          weeklyTrends.narrative_chains.forEach((chain, idx) => {
             const icons = { 'emerging': '🌱', 'rising': '🔥', 'hot': '⚡', 'declining': '📉' };
-            html += `<div class="week-chain"><b>${icons[chain.lifecycle] || ''}</b> ${chain.title} <span style="color:var(--text-quaternary)">(${chain.days.length}天)</span></div>`;
+            const icon = icons[chain.lifecycle] || '📌';
+            const instances = chain.instances || [];
+            const detailHtml = instances.map(i => 
+              `<div class="narrative-detail-item"><span class="narrative-detail-date">${i.date}</span>${i.title}</div>`
+            ).join('');
+            
+            html += `<div style="margin-bottom:10px;">`;
+            html += `<div style="font-size:11px; font-weight:500;">${icon} ${chain.title}</div>`;
+            html += `<div class="narrative-detail">
+                      <details>
+                        <summary style="cursor:pointer; font-size:9px; color:var(--text-tertiary);">🔍 查看 ${instances.length} 条追踪记录</summary>
+                        <div style="margin-top:4px;">${detailHtml}</div>
+                      </details>
+                    </div>`;
+            html += `</div>`;
           });
           html += '</div>';
         }
@@ -753,7 +787,14 @@
       let html = '';
 
       // Headline with sticky close button
-      html += '<div class="brief-headline">' + (dailySummary.headline || '') + '<button class="dash-close-btn" onclick="toggleDashboard()" title="收起">✕</button></div>';
+      const headlineText = dailySummary.headline || '今日 AI 情报';
+      html += '<div class="brief-headline">';
+      html += '<div class="headline-row">';
+      html += '<span id="main-headline-text">' + headlineText + '</span>';
+      html += '<button id="btn-week-view" class="week-toggle-btn" onclick="toggleWeekView()">📅 切换至周视图</button>';
+      html += '</div>';
+      html += '<button class="dash-close-btn" onclick="toggleDashboard()" title="收起" style="position:absolute; right:12px; top:12px;">✕</button>';
+      html += '</div>';
 
       // Overview (主叙事 / 一句话概括)
       if (dailySummary.overview) {
