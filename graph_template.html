@@ -227,6 +227,39 @@
   .tag.pillar { border-color: rgba(39,166,68,0.3); color: var(--green); background: rgba(39,166,68,0.1); }
   .tag.score { border-color: rgba(113,112,255,0.3); color: var(--accent); background: rgba(113,112,255,0.08); }
 
+  /* 概念节点关联列表样式 */
+  .concept-related-header {
+    font-size: 13px; font-weight: 600; color: var(--accent);
+    margin-bottom: 10px; padding-bottom: 8px; border-bottom: 1px solid var(--border);
+  }
+  .concept-related-list { display: flex; flex-direction: column; gap: 4px; }
+  .concept-related-item {
+    display: flex; align-items: center; gap: 8px;
+    padding: 6px 8px; border-radius: 6px; cursor: pointer;
+    background: rgba(255,255,255,0.02); border: 1px solid transparent;
+    transition: all 0.15s;
+  }
+  .concept-related-item:hover {
+    background: rgba(255,255,255,0.06); border-color: var(--border);
+  }
+  .concept-rank {
+    width: 20px; height: 20px; border-radius: 50%;
+    background: var(--accent-bg); color: #fff; font-size: 11px;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 600; flex-shrink: 0;
+  }
+  .concept-item-label {
+    flex: 1; font-size: 12px; color: var(--text-primary);
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  .concept-item-meta {
+    font-size: 10px; color: var(--text-tertiary); white-space: nowrap;
+  }
+  .concept-more {
+    font-size: 11px; color: var(--text-quaternary); text-align: center;
+    padding: 8px 0;
+  }
+
   .panel-body { padding: 20px; flex: 1; }
   .panel-section { margin-bottom: 20px; }
   .section-title {
@@ -622,6 +655,8 @@
     <div class="legend-item"><span class="dot" style="background:#3fb950"></span> 产品模式</div>
     <div class="legend-item"><span class="dot" style="background:#a371f7"></span> 工具生态</div>
     <div class="legend-item"><span class="dot" style="background:#f0883e"></span> 商业趋势</div>
+    <div style="border-top: 1px solid var(--border); margin: 8px 0;"></div>
+    <div class="legend-item"><span class="dot" style="background:#ffd700; clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%); width: 10px; height: 10px;"></span> 概念聚合</div>
   </div>
 
   <!-- Graph Canvas -->
@@ -659,7 +694,7 @@
   <script id="graph-data" type="application/json">{{DATA}}</script>
   <script src="./assets/vis-network.min.js"></script>
   <script>
-    console.log('AI Radar v3.9.1 Phase 2 Loaded');
+    console.log('AI Radar v3.11.0 Concept Layer Loaded');
     const data = JSON.parse(document.getElementById('graph-data').textContent);
     const pillarColors = { capabilities: '#58a6ff', patterns: '#3fb950', ecosystem: '#a371f7', business: '#f0883e', unknown: '#8b949e' };
     const pillarNames = { capabilities: '🤖 技术能力', patterns: '📱 产品模式', ecosystem: '🔧 工具生态', business: '💰 商业趋势', unknown: '未分类' };
@@ -983,26 +1018,56 @@
 
     // ===== 2. NETWORK RENDER =====
     function renderNetwork() {
-      const nodes = new vis.DataSet(data.nodes.map(n => ({
-        id: n.id,
-        label: n.label.length > 20 ? n.label.slice(0, 20) + '...' : n.label,
-        shape: 'dot',
-        size: Math.max(10, Math.min(28, (n.pm_score || 0.1) * 30 + 10)),
-        color: {
-          background: pillarColors[n.pillar] || '#8b949e',
-          border: 'rgba(255,255,255,0.3)',
-          highlight: { background: pillarColors[n.pillar] || '#fff', border: '#fff' }
-        },
-        font: { color: '#f7f8f8', size: 11, strokeWidth: 2, strokeColor: '#08090a' },
-        borderWidth: 2
-      })));
+      const nodes = new vis.DataSet(data.nodes.map(n => {
+        const isConcept = n.type === 'concept';
+        return {
+          id: n.id,
+          label: n.label.length > (isConcept ? 25 : 20) ? n.label.slice(0, isConcept ? 25 : 20) + '...' : n.label,
+          shape: isConcept ? 'hexagon' : 'dot',  // 概念节点用六边形
+          size: isConcept
+            ? Math.max(15, Math.min(35, (n.node_count || 2) * 5 + 10))  // 概念节点大小基于关联数
+            : Math.max(10, Math.min(28, (n.pm_score || 0.1) * 30 + 10)),
+          color: {
+            background: isConcept
+              ? adjustColor(pillarColors[n.pillar] || '#8b949e', -30)  // 概念节点颜色稍暗
+              : pillarColors[n.pillar] || '#8b949e',
+            border: isConcept ? 'rgba(255,255,255,0.6)' : 'rgba(255,255,255,0.3)',
+            highlight: {
+              background: pillarColors[n.pillar] || '#fff',
+              border: '#fff'
+            }
+          },
+          font: {
+            color: isConcept ? '#ffd700' : '#f7f8f8',  // 概念节点用金色字体
+            size: isConcept ? 12 : 11,
+            strokeWidth: 2,
+            strokeColor: '#08090a'
+          },
+          borderWidth: isConcept ? 3 : 2,
+          // 概念节点特有：存储关联节点信息
+          _isConcept: isConcept,
+          _relatedNodes: n.related_nodes || [],
+          _nodeCount: n.node_count || 0
+        };
+      }));
 
-      const edges = new vis.DataSet(data.edges.map(e => ({
-        from: e.source, to: e.target,
-        color: { color: e.type === 'PILLAR' ? 'rgba(39,166,68,0.2)' : 'rgba(255,255,255,0.06)' },
-        width: e.type === 'PILLAR' ? 1.5 : 0.5,
-        smooth: { type: 'curvedCW', roundness: 0.1 }
-      })));
+      const edges = new vis.DataSet(data.edges.map(e => {
+        const isBelongsTo = e.type === 'BELONGS_TO' || e.relation === 'belongs_to';
+        return {
+          from: e.source || e.from,
+          to: e.target || e.to,
+          color: {
+            color: isBelongsTo
+              ? 'rgba(255,215,0,0.15)'  // BELONGS_TO 边用金色半透明
+              : e.type === 'PILLAR'
+                ? 'rgba(39,166,68,0.2)'
+                : 'rgba(255,255,255,0.06)'
+          },
+          width: isBelongsTo ? 1 : e.type === 'PILLAR' ? 1.5 : 0.5,
+          smooth: { type: 'curvedCW', roundness: 0.1 },
+          _isBelongsTo: isBelongsTo
+        };
+      }));
 
       network = new vis.Network(document.getElementById('mynetwork'), { nodes, edges }, {
         physics: { barnesHut: { gravitationalConstant: -3000, springLength: 150, springConstant: 0.04 }, stabilization: { iterations: 200 } },
@@ -1014,8 +1079,23 @@
         else hidePanel();
       });
 
-      document.getElementById('node-count').textContent = data.nodes.filter(n => n.type !== 'concept').length + ' nodes';
+      // 统计节点数时排除概念节点
+      const realNodeCount = data.nodes.filter(n => n.type !== 'concept').length;
+      const conceptCount = data.nodes.filter(n => n.type === 'concept').length;
+      document.getElementById('node-count').textContent = realNodeCount + ' nodes';
       document.getElementById('edge-count').textContent = data.edges.length + ' edges';
+      // 更新概念计数（如果有这个元素）
+      const conceptCountEl = document.getElementById('concept-count');
+      if (conceptCountEl) conceptCountEl.textContent = conceptCount + ' concepts';
+    }
+
+    // 辅助函数：调整颜色亮度
+    function adjustColor(hex, amount) {
+      hex = hex.replace('#', '');
+      const r = Math.max(0, Math.min(255, parseInt(hex.substring(0, 2), 16) + amount));
+      const g = Math.max(0, Math.min(255, parseInt(hex.substring(2, 4), 16) + amount));
+      const b = Math.max(0, Math.min(255, parseInt(hex.substring(4, 6), 16) + amount));
+      return '#' + [r, g, b].map(x => x.toString(16).padStart(2, '0')).join('');
     }
 
     // ===== 3. DETAIL PANEL =====
@@ -1033,46 +1113,76 @@
       if (node.pillar) tagsHtml.push('<span class="tag pillar">' + (pillarNames[node.pillar] || node.pillar) + '</span>');
       if (node.date) tagsHtml.push('<span class="tag">📅 ' + node.date + '</span>');
       if (node.pm_score) tagsHtml.push('<span class="tag score">🎯 PM ' + node.pm_score.toFixed(1) + '</span>');
-      if (node.type && node.type !== 'concept') tagsHtml.push('<span class="tag">' + node.type + '</span>');
+      if (node.type === 'concept') {
+        tagsHtml.push('<span class="tag">🔷 概念</span>');
+        if (node.node_count) tagsHtml.push('<span class="tag">📊 关联 ' + node.node_count + ' 个项目</span>');
+      } else if (node.type) {
+        tagsHtml.push('<span class="tag">' + node.type + '</span>');
+      }
       document.getElementById('panel-tags').innerHTML = tagsHtml.join('');
 
-      // Chinese summary (精炼版, 120 chars max)
-      let summary = node.summary || '';
-      let conciseSummary = '';
-      if (!summary || summary.length === 0) {
-        if (node.type === 'paper') conciseSummary = '📚 学术研究论文\n\n建议点击"查看原文"查看完整学术摘要和实验数据。';
-        else if (node.type === 'hn' || node.type === 'showhn') conciseSummary = '💬 Hacker News 社区讨论\n\n点击"查看原文"查看社区观点和讨论内容。';
-        else if (node.type === 'news' || node.type === 'techcrunch') conciseSummary = '📰 科技新闻报道\n\n点击"查看原文"查看完整新闻内容。';
-        else conciseSummary = '暂无摘要信息，建议点击"查看原文"查看详情。';
-      } else {
-        // 精炼版摘要 (120 chars max)
-        conciseSummary = summary.length > 120 ? summary.substring(0, 120) + '…' : summary;
-      }
-      document.getElementById('panel-summary').textContent = conciseSummary;
+      // 概念节点特殊处理：显示关联项目列表
+      if (node.type === 'concept' && node.related_nodes && node.related_nodes.length > 0) {
+        let conceptHtml = '<div class="concept-related-header">🔗 关联项目 (' + node.related_nodes.length + ')</div>';
+        conceptHtml += '<div class="concept-related-list">';
+        // 找到关联节点的详细信息
+        const relatedDetails = node.related_nodes
+          .map(id => data.nodes.find(n => n.id === id))
+          .filter(n => n && n.type !== 'concept')
+          .sort((a, b) => (b.pm_score || 0) - (a.pm_score || 0));
 
-      // Source metadata
-      const metaHtml = [];
-      if (node.url) {
-        try {
-          const domain = new URL(node.url).hostname.replace('www.', '');
-          metaHtml.push('<div class="source-meta-item">来源：<span>' + domain + '</span></div>');
-        } catch(e) { metaHtml.push('<div class="source-meta-item">来源：<span>外部链接</span></div>'); }
+        relatedDetails.slice(0, 10).forEach((n, idx) => {
+          const score = n.pm_score ? n.pm_score.toFixed(1) : 'N/A';
+          const pillarIcon = pillarNames[n.pillar] || n.pillar;
+          conceptHtml += '<div class="concept-related-item" onclick="showPanel(\'' + n.id + '\')">' +
+            '<span class="concept-rank">' + (idx + 1) + '</span>' +
+            '<span class="concept-item-label">' + n.label + '</span>' +
+            '<span class="concept-item-meta">' + pillarIcon + ' PM ' + score + '</span>' +
+            '</div>';
+        });
+        conceptHtml += '</div>';
+        if (relatedDetails.length > 10) {
+          conceptHtml += '<div class="concept-more">... 还有 ' + (relatedDetails.length - 10) + ' 个关联项目</div>';
+        }
+        document.getElementById('panel-summary').innerHTML = conceptHtml;
+        document.getElementById('source-meta').innerHTML = '<div class="source-meta-item">类型：<span>概念聚合节点</span></div>';
+        document.getElementById('panel-source-preview').textContent = '概念节点聚合了 ' + node.related_nodes.length + ' 个相关项目，点击上方项目可查看详情。';
       } else {
-        metaHtml.push('<div class="source-meta-item">来源：<span>无原始链接</span></div>');
-      }
-      if (node.date) metaHtml.push('<div class="source-meta-item">日期：<span>' + node.date + '</span></div>');
-      if (node.type) metaHtml.push('<div class="source-meta-item">类型：<span>' + node.type + '</span></div>');
-      document.getElementById('source-meta').innerHTML = metaHtml.join('');
+        // 普通节点处理
+        let summary = node.summary || '';
+        let conciseSummary = '';
+        if (!summary || summary.length === 0) {
+          if (node.type === 'paper') conciseSummary = '📚 学术研究论文\n\n建议点击"查看原文"查看完整学术摘要和实验数据。';
+          else if (node.type === 'hn' || node.type === 'showhn') conciseSummary = '💬 Hacker News 社区讨论\n\n点击"查看原文"查看社区观点和讨论内容。';
+          else if (node.type === 'news' || node.type === 'techcrunch') conciseSummary = '📰 科技新闻报道\n\n点击"查看原文"查看完整新闻内容。';
+          else conciseSummary = '暂无摘要信息，建议点击"查看原文"查看详情。';
+        } else {
+          conciseSummary = summary.length > 120 ? summary.substring(0, 120) + '…' : summary;
+        }
+        document.getElementById('panel-summary').textContent = conciseSummary;
 
-      // Original text preview (use raw_content, not summary)
-      const preview = document.getElementById('panel-source-preview');
-      const rawContent = currentNode.raw_content || '';
-      if (rawContent && rawContent.length > 0) {
-        // Show first 300 chars of raw_content as preview
-        preview.textContent = rawContent.length > 300 ? rawContent.substring(0, 300) + '\n\n...' : rawContent;
-      } else {
-        // Fallback: show summary if no raw_content
-        preview.textContent = summary || '暂无原文内容';
+        // Source metadata
+        const metaHtml = [];
+        if (node.url) {
+          try {
+            const domain = new URL(node.url).hostname.replace('www.', '');
+            metaHtml.push('<div class="source-meta-item">来源：<span>' + domain + '</span></div>');
+          } catch(e) { metaHtml.push('<div class="source-meta-item">来源：<span>外部链接</span></div>'); }
+        } else {
+          metaHtml.push('<div class="source-meta-item">来源：<span>无原始链接</span></div>');
+        }
+        if (node.date) metaHtml.push('<div class="source-meta-item">日期：<span>' + node.date + '</span></div>');
+        if (node.type) metaHtml.push('<div class="source-meta-item">类型：<span>' + node.type + '</span></div>');
+        document.getElementById('source-meta').innerHTML = metaHtml.join('');
+
+        // Original text preview
+        const preview = document.getElementById('panel-source-preview');
+        const rawContent = currentNode.raw_content || '';
+        if (rawContent && rawContent.length > 0) {
+          preview.textContent = rawContent.length > 300 ? rawContent.substring(0, 300) + '\n\n...' : rawContent;
+        } else {
+          preview.textContent = summary || '暂无原文内容';
+        }
       }
 
       // Link button
@@ -1087,7 +1197,7 @@
       // Reset toggle button
       document.querySelector('.action-btn.secondary').textContent = '📋 完整原文';
 
-      // Related items (same pillar, excluding self)
+      // Related items (same pillar, excluding self and concepts)
       renderRelatedItems(node);
 
       document.getElementById('detail-panel').classList.add('active');
@@ -1211,7 +1321,7 @@
       if (header) {
          const v = document.createElement('span');
          v.style.cssText = 'font-size:10px; background:rgba(255,255,255,0.1); padding:2px 6px; border-radius:4px; margin-left:8px;';
-         v.textContent = 'v3.9.1';
+         v.textContent = 'v3.11.0';
          header.appendChild(v);
       }
       

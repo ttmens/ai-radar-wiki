@@ -1,0 +1,25 @@
+{
+  "title": "GPT-5.5 Price Increase: What It Costs",
+  "score": 35,
+  "comments": 2,
+  "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+  "hn_url": "https://news.ycombinator.com/item?id=48057209",
+  "tag": "HN",
+  "pillar": "business",
+  "pillar_keywords": [],
+  "summary_cn": "本文聚焦GPT-5.5潜在API调价策略及其对AI产品商业化的影响。PM需重点评估模型性能跃升与调用成本的ROI平衡，判断复杂推理等高价值场景是否值得升级基座。建议通过提示词优化、请求缓存与智能路由对冲成本压力，并采用大小模型协同架构实现体验与毛利的最优解，为AI SaaS定价与单位经济模型设计提供决策参考。",
+  "pm_relevance": 8,
+  "concepts": [
+    "API Pricing Strategy",
+    "Unit Economics",
+    "Model Routing"
+  ],
+  "entities": [
+    "OpenAI",
+    "GPT-5.5"
+  ],
+  "patterns": [
+    "Usage-Based Pricing",
+    "Model Routing & Caching"
+  ]
+}

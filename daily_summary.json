@@ -7,8 +7,64 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "今日🤖 技术能力方向的核心信号集中在语音交互。",
+        "insight": "AI从对话式向自主操作系统级控制演进。该方向的具体信号：模型能力, 信任/合规, AI Agent, 语音交互。",
         "evidence": [
+          {
+            "id": "superintelligent-retrieval-agent-the-next-frontier-of-infor",
+            "title": "Superintelligent Retrieval Agent: The Next Frontier of Information Ret",
+            "score": 0.52,
+            "url": "",
+            "reason": "高价值信号"
+          },
+          {
+            "id": "actcam-zero-shot-joint-camera-and-3d-motion-control-for-vid",
+            "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generat",
+            "score": 0.48,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "bami-training-free-bias-mitigation-in-gui-grounding",
+            "title": "BAMI: Training-Free Bias Mitigation in GUI Grounding",
+            "score": 0.48,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "unipool-a-globally-shared-expert-pool-for-mixture-of-expert",
+            "title": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+            "score": 0.48,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "optimizer-model-consistency-full-finetuning-with-the-same-o",
+            "title": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer a",
+            "score": 0.48,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "when-no-benchmark-exists-validating-comparative-llm-safety",
+            "title": "When No Benchmark Exists: Validating Comparative LLM Safety Scoring Wi",
+            "score": 0.48,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "edge-specific-signal-propagation-on-mature-chromophore-regio",
+            "title": "Edge-specific signal propagation on mature chromophore-region 3D mecha",
+            "score": 0.45,
+            "url": "",
+            "reason": "里程碑式进展"
+          },
+          {
+            "id": "inductive-venn-abers-and-related-regressors",
+            "title": "Inductive Venn-Abers and related regressors",
+            "score": 0.45,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
           {
             "id": "openai-launches-new-voice-intelligence-f",
             "title": "OpenAI launches new voice intelligence features in its API",
@@ -22,14 +78,42 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "AI从对话式向自主操作系统级控制演进。该方向的具体信号：AI Agent, 信任/合规, 桌面/本地化, 安全/漏洞, CLI/终端交互。",
+        "insight": "AI从对话式向自主操作系统级控制演进。该方向的具体信号：模型能力, 信任/合规, AI Agent, CLI/终端交互, 桌面/本地化, 安全/漏洞。",
         "evidence": [
+          {
+            "id": "hardening-firefox-with-claude-mythos-preview",
+            "title": "Hardening Firefox with Claude Mythos Preview",
+            "score": 0.53,
+            "url": "https://news.ycombinator.com/item?id=48051079",
+            "reason": "高价值信号"
+          },
+          {
+            "id": "hardening-firefox-with-claude-mythos-pre",
+            "title": "Hardening Firefox with Claude Mythos Preview",
+            "score": 0.53,
+            "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+            "reason": "高价值信号"
+          },
           {
             "id": "dirtyfrag-universal-linux-lpe",
             "title": "Dirtyfrag: Universal Linux LPE",
             "score": 0.53,
             "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
             "reason": "里程碑式进展；高价值信号"
+          },
+          {
+            "id": "ai-co-mathematician-accelerating-mathematicians-with-agenti",
+            "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+            "score": 0.48,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "why-global-llm-leaderboards-are-misleading-small-portfolios",
+            "title": "Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heter",
+            "score": 0.48,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
             "id": "principles-for-agent-native-clis",
@@ -58,13 +142,69 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "AI从对话式向自主操作系统级控制演进。该方向的具体信号：基础设施, AI Agent, 开源发布。",
+        "insight": "AI从对话式向自主操作系统级控制演进。该方向的具体信号：基础设施, 信任/合规, AI Agent, 模型能力, 开源发布。",
         "evidence": [
+          {
+            "id": "verifier-backed-hard-problem-generation-for-mathematical-rea",
+            "title": "Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
+            "score": 0.48,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "are-we-making-progress-in-multimodal-domain-generalization",
+            "title": "Are We Making Progress in Multimodal Domain Generalization? A Comprehe",
+            "score": 0.45,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "komai-a-fine-matrix-chat-app-you-can-get-to-love",
+            "title": "Komai: a fine Matrix chat app you can get to love",
+            "score": 0.34,
+            "url": "https://news.ycombinator.com/item?id=48056804",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "komai-a-fine-matrix-chat-app-you-can-ge",
+            "title": "Komai: a fine Matrix chat app you can get to love",
+            "score": 0.34,
+            "url": "https://etke.cc/blog/introducing-komai",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
           {
             "id": "show-hn-kstack-skill-pack-for-monitor",
             "title": "Show HN: Kstack – Skill pack for monitoring/troubleshooting K8s in Cla",
             "score": 0.33,
             "url": "https://github.com/kubetail-org/kstack",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "tools-in-the-grass-raising-the-next-generation-of",
+            "title": "Tools in the Grass: Raising the next generation of crafts person",
+            "score": 0.29,
+            "url": "https://news.ycombinator.com/item?id=48027275",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "tools-in-the-grass-raising-the-next-gen",
+            "title": "Tools in the Grass: Raising the next generation of crafts person",
+            "score": 0.29,
+            "url": "https://www.popularwoodworking.com/editors-blog/tools-in-the-grass/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "blaise-a-modern-self-hosting-zero-legacy-object",
+            "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targ",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=48058644",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "blaise-a-modern-self-hosting-zero-lega",
+            "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targ",
+            "score": 0.15,
+            "url": "https://github.com/graemeg/blaise",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -73,8 +213,15 @@
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "insight": "AI从对话式向自主操作系统级控制演进。该方向的具体信号：AI Agent, 融资/投资, 信任/合规。",
+        "insight": "AI从对话式向自主操作系统级控制演进。该方向的具体信号：融资/投资, 语音交互, AI Agent, 信任/合规。",
         "evidence": [
+          {
+            "id": "why-you-can-never-get-your-doctor-to-call-you-back",
+            "title": "Why you can never get your doctor to call you back",
+            "score": 0.48,
+            "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
           {
             "id": "openai-introduces-new-8216trusted-con",
             "title": "OpenAI introduces new &#8216;Trusted Contact&#8217; safeguard for case",
@@ -119,13 +266,73 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "📱 产品模式: 4 | 🤖 技术能力: 1 | 💰 商业趋势: 2 | 🔧 工具生态: 1",
-    "total_items": 8,
-    "high_value_count": 7,
+    "stats": "📱 产品模式: 8 | 🤖 技术能力: 9 | 💰 商业趋势: 3 | 🔧 工具生态: 9",
+    "total_items": 29,
+    "high_value_count": 24,
     "all_today_ids": [
+      {
+        "id": "hardening-firefox-with-claude-mythos-preview",
+        "label": "Hardening Firefox with Claude Mythos Preview"
+      },
+      {
+        "id": "hardening-firefox-with-claude-mythos-pre",
+        "label": "Hardening Firefox with Claude Mythos Preview"
+      },
       {
         "id": "dirtyfrag-universal-linux-lpe",
         "label": "Dirtyfrag: Universal Linux LPE"
+      },
+      {
+        "id": "superintelligent-retrieval-agent-the-next-frontier-of-infor",
+        "label": "Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval"
+      },
+      {
+        "id": "why-you-can-never-get-your-doctor-to-call-you-back",
+        "label": "Why you can never get your doctor to call you back"
+      },
+      {
+        "id": "actcam-zero-shot-joint-camera-and-3d-motion-control-for-vid",
+        "label": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation"
+      },
+      {
+        "id": "ai-co-mathematician-accelerating-mathematicians-with-agenti",
+        "label": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI"
+      },
+      {
+        "id": "bami-training-free-bias-mitigation-in-gui-grounding",
+        "label": "BAMI: Training-Free Bias Mitigation in GUI Grounding"
+      },
+      {
+        "id": "unipool-a-globally-shared-expert-pool-for-mixture-of-expert",
+        "label": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts"
+      },
+      {
+        "id": "verifier-backed-hard-problem-generation-for-mathematical-rea",
+        "label": "Verifier-Backed Hard Problem Generation for Mathematical Reasoning"
+      },
+      {
+        "id": "optimizer-model-consistency-full-finetuning-with-the-same-o",
+        "label": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretrain"
+      },
+      {
+        "id": "why-global-llm-leaderboards-are-misleading-small-portfolios",
+        "label": "Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous S"
+      },
+      {
+        "id": "when-no-benchmark-exists-validating-comparative-llm-safety",
+        "label": "When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Grou"
+      },
+      {
+        "id": "are-we-making-progress-in-multimodal-domain-generalization",
+        "label": "Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benc"
+      },
+      {
+        "id": "edge-specific-signal-propagation-on-mature-chromophore-regio",
+        "label": "Edge-specific signal propagation on mature chromophore-region 3D mechanism graph"
+      },
+      {
+        "id": "inductive-venn-abers-and-related-regressors",
+        "label": "Inductive Venn-Abers and related regressors"
       },
       {
         "id": "principles-for-agent-native-clis",
@@ -134,6 +341,14 @@
       {
         "id": "perplexity8217s-personal-computer-is",
         "label": "Perplexity&#8217;s Personal Computer is now available to everyone on Mac"
+      },
+      {
+        "id": "komai-a-fine-matrix-chat-app-you-can-get-to-love",
+        "label": "Komai: a fine Matrix chat app you can get to love"
+      },
+      {
+        "id": "komai-a-fine-matrix-chat-app-you-can-ge",
+        "label": "Komai: a fine Matrix chat app you can get to love"
       },
       {
         "id": "two-home-affairs-officials-suspended-aft",
@@ -152,11 +367,27 @@
         "label": "Show HN: Kstack – Skill pack for monitoring/troubleshooting K8s in Claude Code"
       },
       {
+        "id": "tools-in-the-grass-raising-the-next-generation-of",
+        "label": "Tools in the Grass: Raising the next generation of crafts person"
+      },
+      {
+        "id": "tools-in-the-grass-raising-the-next-gen",
+        "label": "Tools in the Grass: Raising the next generation of crafts person"
+      },
+      {
         "id": "voi-founders8217-new-ai-startup-pit-h",
         "label": "Voi founders&#8217; new AI startup Pit has become the latest rising star out of "
+      },
+      {
+        "id": "blaise-a-modern-self-hosting-zero-legacy-object",
+        "label": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE"
+      },
+      {
+        "id": "blaise-a-modern-self-hosting-zero-lega",
+        "label": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE"
       }
     ],
     "date_bj": "2026-05-08 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-08 15:42:16"
+    "generated_at_bj": "2026-05-08 17:00:53"
   }
 }

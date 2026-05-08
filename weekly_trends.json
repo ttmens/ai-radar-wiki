@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T13:23:47.403264+08:00",
+  "generated_at": "2026-05-08T15:59:30.563578+08:00",
   "days_analyzed": 2,
   "pillar_trends": {
     "capabilities": {
@@ -72,24 +72,52 @@
       "title": "AI工具链专业化与产业老兵跨界获资本认可",
       "type": "maturation",
       "days": [
-        "2026-05-08",
         "2026-05-08"
       ],
       "instances": [
         {
           "date": "2026-05-08",
           "title": "AI工具链专业化与产业老兵跨界获资本认可"
-        },
-        {
-          "date": "2026-05-08",
-          "title": "AI工具链专业化与产业老兵跨界获资本认可"
         }
       ],
-      "latest_type": "maturation",
-      "lifecycle": "rising"
+      "lifecycle": "emerging"
+    },
+    {
+      "title": "AI工具链从通用走向垂直专业化",
+      "type": "maturation",
+      "days": [
+        "2026-05-08"
+      ],
+      "instances": [
+        {
+          "date": "2026-05-08",
+          "title": "AI工具链从通用走向垂直专业化"
+        }
+      ],
+      "lifecycle": "emerging"
+    },
+    {
+      "title": "产业老兵跨界AI创业获顶级资本认可",
+      "type": "validation",
+      "days": [
+        "2026-05-08"
+      ],
+      "instances": [
+        {
+          "date": "2026-05-08",
+          "title": "产业老兵跨界AI创业获顶级资本认可"
+        }
+      ],
+      "lifecycle": "emerging"
     }
   ],
-  "contradictions": [],
+  "contradictions": [
+    {
+      "date": "2026-05-08",
+      "type": "growth_vs_risk",
+      "description": "Growth validation detected alongside infrastructure/trust bottlenecks."
+    }
+  ],
   "emerging_tags": [],
   "weekly_summary": "本周共追踪 **2** 天，累计 **16** 条情报。 当前焦点领域：**📱 产品模式**。 核心叙事主线：**AI从对话式向自主操作系统级控制演进**。"
 }

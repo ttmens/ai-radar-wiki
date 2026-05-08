@@ -1,10 +1,11 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-08 | Total pages: 245
+> Last updated: 2026-05-08 | Total pages: 247
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
 - [[2noisechattts.md]] 2noise/ChatTTS `pillar:capabilities` `score:0.58`
+- [[a-polynomial-autoencoder-beats-pca-on-transformer.md]] A polynomial autoencoder beats PCA on transformer embeddings `pillar:capabilities` `score:0.155`
 - [[alibabamnn.md]] alibaba/MNN `pillar:capabilities` `score:0.615`
 - [[bee-sanciphey.md]] bee-san/Ciphey `pillar:capabilities` `score:0.545`
 - [[blinkdlrwkv-lm.md]] BlinkDL/RWKV-LM `pillar:capabilities` `score:0.405`
@@ -238,6 +239,7 @@
 - [[di-sukharevopencommit.md]] di-sukharev/opencommit `pillar:business` `score:0.355`
 - [[dyad-shdyad.md]] dyad-sh/dyad `pillar:business` `score:0.405`
 - [[five-architects-of-the-ai-economy-explain-where-th.md]] Five architects of the AI economy explain where the wheels are coming off `pillar:business` `score:0.15`
+- [[gpt-55-price-increase-what-it-costs.md]] GPT-5.5 Price Increase: What It Costs `pillar:business` `score:0.33`
 - [[how-elon-musk-left-openai-according-to-greg-brock.md]] How Elon Musk left OpenAI, according to Greg Brockman `pillar:business` `score:0.3`
 - [[khosla-backed-robotics-startup-genesis-ai-has-gone.md]] Khosla-backed robotics startup Genesis AI has gone full stack, demo shows `pillar:business` `score:0.3`
 - [[mage-aimage-ai.md]] mage-ai/mage-ai `pillar:business` `score:0.355`

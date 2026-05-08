@@ -300,3 +300,7 @@
 - create: komai-a-fine-matrix-chat-app-you-can-get-to-love.md
 - create: tools-in-the-grass-raising-the-next-generation-of.md
 - create: why-you-can-never-get-your-doctor-to-call-you-back.md
+
+## [2026-05-08 17:02] sync v3 | 2 new | pillars: {'capabilities': 1, 'unknown': 1}
+- create: a-polynomial-autoencoder-beats-pca-on-transformer.md
+- create: gpt-55-price-increase-what-it-costs.md
