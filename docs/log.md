@@ -307,3 +307,10 @@
 
 ## [2026-05-08 17:11] sync v3 | 1 new | pillars: {'unknown': 1}
 - create: clojurescript-gets-asyncawait.md
+
+## [2026-05-09 00:03] sync v3 | 5 new | pillars: {'unknown': 2, 'business': 2, 'patterns': 1}
+- create: podman-rootless-containers-and-the-copy-fail-explo.md
+- create: claude-code-cve-2026-39861sandbox-escape-via-syml.md
+- create: the-peoples-airline-and-the-enterprise-ai-gold.md
+- create: last-24-hours-to-get-50-off-a-second-pass-to-tech.md
+- create: show-hn-git-for-ai-agents.md
