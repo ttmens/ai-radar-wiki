@@ -68,7 +68,7 @@
 
   /* ===== DASHBOARD - LEFT PANEL ===== */
   #dashboard {
-    position: absolute; top: 56px; left: 12px; bottom: 12px; width: 340px;
+    position: absolute; top: 12px; left: 12px; bottom: 12px; width: 340px;
     background: var(--panel-bg); border: 1px solid var(--border); border-radius: 8px;
     z-index: 50; display: flex; flex-direction: column;
     box-shadow: 0 0 0 1px rgba(0,0,0,0.2), 0 4px 20px rgba(0,0,0,0.5);
@@ -92,6 +92,23 @@
   .dash-content { flex: 1; overflow-y: auto; padding: 12px 14px; }
   .dash-content::-webkit-scrollbar { width: 4px; }
   .dash-content::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 4px; }
+
+  /* Dashboard expand button (vertical tab on left edge) */
+  #dashboard-expand-btn {
+    position: absolute; top: 50%; left: 0; z-index: 55;
+    transform: translateY(-50%);
+    background: var(--panel-bg); border: 1px solid var(--border);
+    border-left: none; border-radius: 0 6px 6px 0;
+    padding: 12px 8px; cursor: pointer;
+    display: none; /* hidden when dashboard is visible */
+    transition: all 0.3s ease;
+    box-shadow: 2px 0 12px rgba(0,0,0,0.3);
+    writing-mode: vertical-lr;
+    font-size: 12px; font-weight: 600; color: var(--text-tertiary);
+    letter-spacing: 2px;
+  }
+  #dashboard-expand-btn:hover { color: var(--text-primary); background: var(--surface); }
+  #dashboard-expand-btn.show { display: flex; }
 
   /* Summary headline */
   .summary-headline {
@@ -157,7 +174,7 @@
 
   /* ===== DETAIL PANEL - RIGHT ===== */
   #detail-panel {
-    position: absolute; top: 0; right: -460px; width: 460px; height: 100%;
+    position: absolute; top: 56px; right: -460px; width: 460px; height: calc(100vh - 56px);
     background: var(--panel-bg); border-left: 1px solid var(--border);
     z-index: 80; transition: right 0.3s ease; overflow-y: auto;
     display: flex; flex-direction: column;
@@ -522,12 +539,9 @@
 
   <!-- Dashboard (Left) -->
   <div id="dashboard">
-    <div class="dash-header">
-      <span class="dash-header-title">📅 今日情报摘要</span>
-      <button class="dash-close-btn" onclick="toggleDashboard()">✕</button>
-    </div>
     <div class="dash-content" id="dash-content">Loading...</div>
   </div>
+  <button id="dashboard-expand-btn" onclick="toggleDashboard()">📅 情报摘要</button>
 
   <!-- Legend -->
   <div id="legend">
@@ -595,11 +609,14 @@
       }
 
       if (!dailySummary) {
-        container.innerHTML = '<div style="color:var(--text-quaternary); font-size:12px; text-align:center; padding:40px 20px;">今日暂无新情报</div>';
+        container.innerHTML = '<div style="text-align: right; padding: 8px 4px 4px;"><button class="dash-close-btn" onclick="toggleDashboard()" title="收起">✕</button></div><div style="color:var(--text-quaternary); font-size:12px; text-align:center; padding:40px 20px;">今日暂无新情报</div>';
         return;
       }
 
       let html = '';
+
+      // Close button (top-right inside content)
+      html += '<div style="text-align: right; padding: 8px 4px 4px;"><button class="dash-close-btn" onclick="toggleDashboard()" title="收起">✕</button></div>';
 
       // Headline
       html += '<div class="brief-headline">' + (dailySummary.headline || '') + '</div>';
@@ -922,15 +939,18 @@
       const dash = document.getElementById('dashboard');
       const legend = document.getElementById('legend');
       const globalBtn = document.getElementById('global-toggle-btn');
+      const expandBtn = document.getElementById('dashboard-expand-btn');
       const isHidden = dash.classList.contains('hidden');
 
       if (isHidden) {
         dash.classList.remove('hidden');
         legend.classList.remove('shifted');
+        expandBtn.classList.remove('show');
         globalBtn.textContent = '📅 收起';
       } else {
         dash.classList.add('hidden');
         legend.classList.add('shifted');
+        expandBtn.classList.add('show');
         globalBtn.textContent = '📅 展开';
       }
     }
