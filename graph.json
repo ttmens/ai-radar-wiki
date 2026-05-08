@@ -4878,6 +4878,295 @@
       "date": "2026-05-08",
       "url": "",
       "raw_content": ""
+    },
+    {
+      "id": "llm",
+      "label": "LLM",
+      "type": "concept",
+      "pillar": "patterns",
+      "pm_score": 0.61,
+      "tags": [
+        "concept",
+        "patterns"
+      ],
+      "summary": "关联项目: mlflow/mlflow, Unstructured-IO/unstructured, hiyouga/LlamaFactory, BerriAI/litellm, vllm-project/vllm",
+      "raw_content": "",
+      "date": "2026-05-07",
+      "url": "",
+      "related_nodes": [
+        "mlflowmlflow",
+        "unstructured-iounstructured",
+        "hiyougallamafactory",
+        "berriailitellm",
+        "vllm-projectvllm",
+        "mlc-aiweb-llm",
+        "langfuselangfuse",
+        "milvus-iomilvus",
+        "tensorzerotensorzero",
+        "harry0703moneyprinterturbo",
+        "browser-usebrowser-use",
+        "labringfastgpt",
+        "infiniflowragflow",
+        "datawhalechinahappy-llm",
+        "sillytavernsillytavern",
+        "upstashcontext7",
+        "patchy631ai-engineering-hub",
+        "aaif-goosegoose",
+        "geeeekexplorernano-vllm",
+        "onyx-dot-apponyx",
+        "astrbotdevsastrbot",
+        "yamadashyrepomix",
+        "rtk-airtk",
+        "handsonllmhands-on-large-language-models",
+        "lightning-ailitgpt",
+        "datawhalechinaself-llm",
+        "clickhouseclickhouse",
+        "xorbitsaiinference",
+        "rasbtllms-from-scratch",
+        "jingyaogongminimind",
+        "jeinlee1991chinese-llm-benchmark",
+        "mishushakovllm-scraper",
+        "0xplaygroundsrig",
+        "why-global-llm-leaderboards-are-misleading-small-portfolios",
+        "when-no-benchmark-exists-validating-comparative-llm-safety",
+        "why-global-llm-leaderboards-are-misleadi",
+        "when-no-benchmark-exists-validating-com",
+        "design-conductor-20-an-agent-builds-a-turboquant-inference",
+        "zhulinsendaily_stock_analysis",
+        "mintplex-labsanything-llm",
+        "mudlerlocalai",
+        "googlelangextract",
+        "blinkdlrwkv-lm",
+        "di-sukharevopencommit",
+        "0x4m4hexstrike-ai",
+        "spotify8217s-ai-dj-now-supports-french-german",
+        "making-llm-training-faster-with-unsloth-and-nvidia",
+        "openseeker-v2-pushing-the-limits-of-search-agents-with-info",
+        "physics-grounded-multi-agent-architecture-for-traceable-ris",
+        "safety-and-accuracy-follow-different-scaling-laws-in-clinica"
+      ],
+      "node_count": 50
+    },
+    {
+      "id": "ai-agent",
+      "label": "AI Agent",
+      "type": "concept",
+      "pillar": "patterns",
+      "pm_score": 0.61,
+      "tags": [
+        "concept",
+        "patterns"
+      ],
+      "summary": "关联项目: x1xhlol/system-prompts-and-mod, ComposioHQ/composio, n8n-io/n8n, screenpipe/screenpipe, CopilotKit/CopilotKit",
+      "raw_content": "",
+      "date": "2026-05-07",
+      "url": "",
+      "related_nodes": [
+        "x1xhlolsystem-prompts-and-models-of-ai-tools",
+        "composiohqcomposio",
+        "n8n-ion8n",
+        "screenpipescreenpipe",
+        "copilotkitcopilotkit",
+        "microsoftautogen",
+        "sansan0trendradar",
+        "google-geminigemini-cli",
+        "openbb-financeopenbb",
+        "pingcaptidb",
+        "astrbotdevsastrbot",
+        "agno-agiagno",
+        "punkpeyeawesome-mcp-servers",
+        "hkudsnanobot",
+        "0x4m4hexstrike-ai",
+        "komai-a-fine-matrix-chat-app-you-can-get-to-love",
+        "komai-a-fine-matrix-chat-app-you-can-ge",
+        "product-hunt-ai-topics",
+        "from-intent-to-execution-composing-agentic-workflows-with-a",
+        "symptomai-towards-a-conversational-ai-agent-for-everyday-sy"
+      ],
+      "node_count": 20
+    },
+    {
+      "id": "prompt",
+      "label": "Prompt",
+      "type": "concept",
+      "pillar": "ecosystem",
+      "pm_score": 0.61,
+      "tags": [
+        "concept",
+        "ecosystem"
+      ],
+      "summary": "关联项目: x1xhlol/system-prompts-and-mod, tensorzero/tensorzero, asgeirtj/system_prompts_leaks, linshenkx/prompt-optimizer, f/prompts.chat",
+      "raw_content": "",
+      "date": "2026-05-07",
+      "url": "",
+      "related_nodes": [
+        "x1xhlolsystem-prompts-and-models-of-ai-tools",
+        "tensorzerotensorzero",
+        "asgeirtjsystem_prompts_leaks",
+        "linshenkxprompt-optimizer",
+        "fpromptschat",
+        "danielmiesslerfabric",
+        "mishushakovllm-scraper",
+        "understanding-in-context-learning-for-nonlinear-regression-w",
+        "liyupiai-guide",
+        "show-hn-kstack-skill-pack-for-monitor"
+      ],
+      "node_count": 10
+    },
+    {
+      "id": "rag",
+      "label": "RAG",
+      "type": "concept",
+      "pillar": "patterns",
+      "pm_score": 0.61,
+      "tags": [
+        "concept",
+        "patterns"
+      ],
+      "summary": "关联项目: Unstructured-IO/unstructured, docling-project/docling, HKUDS/LightRAG, qdrant/qdrant, NirDiamant/RAG_Techniques",
+      "raw_content": "",
+      "date": "2026-05-07",
+      "url": "",
+      "related_nodes": [
+        "unstructured-iounstructured",
+        "docling-projectdocling",
+        "hkudslightrag",
+        "qdrantqdrant",
+        "nirdiamantrag_techniques",
+        "deepset-aihaystack",
+        "milvus-iomilvus",
+        "microsoftgraphrag",
+        "vectifyaipageindex",
+        "labringfastgpt",
+        "langgeniusdify",
+        "infiniflowragflow",
+        "supabasesupabase",
+        "upstashcontext7",
+        "patchy631ai-engineering-hub",
+        "itzcrazyknsvane",
+        "microsoftgenerative-ai-for-beginners",
+        "handsonllmhands-on-large-language-models",
+        "mishushakovllm-scraper",
+        "dirtyfrag-universal-linux-lpe",
+        "superintelligent-retrieval-agent-the-next-frontier-of-infor",
+        "superintelligent-retrieval-agent-the-ne",
+        "estimating-the-expected-output-of-wide-random-mlps-more-effi",
+        "bytedancedeer-flow",
+        "liyupiai-guide",
+        "sqlite-is-a-library-of-congress-recommended-storag",
+        "an-agent-oriented-pluggable-experience-rag-skill-for-experie"
+      ],
+      "node_count": 27
+    },
+    {
+      "id": "transformer",
+      "label": "Transformer",
+      "type": "concept",
+      "pillar": "capabilities",
+      "pm_score": 0.61,
+      "tags": [
+        "concept",
+        "capabilities"
+      ],
+      "summary": "关联项目: lucidrains/vit-pytorch, rasbt/LLMs-from-scratch, Understanding In-Context Learn, Taming Outlier Tokens in Diffu, huggingface/transformers",
+      "raw_content": "",
+      "date": "2026-05-07",
+      "url": "",
+      "related_nodes": [
+        "lucidrainsvit-pytorch",
+        "rasbtllms-from-scratch",
+        "understanding-in-context-learning-for-nonlinear-regression-w",
+        "taming-outlier-tokens-in-diffusion-transformers",
+        "huggingfacetransformers",
+        "blinkdlrwkv-lm",
+        "a-polynomial-autoencoder-beats-pca-on-transformer",
+        "a-polynomial-autoencoder-beats-pca-on-tr"
+      ],
+      "node_count": 8
+    },
+    {
+      "id": "nlp",
+      "label": "NLP",
+      "type": "concept",
+      "pillar": "capabilities",
+      "pm_score": 0.58,
+      "tags": [
+        "concept",
+        "capabilities"
+      ],
+      "summary": "关联项目: srbhr/Resume-Matcher, koala73/worldmonitor, bee-san/Ciphey, AccumulateMore/CV",
+      "raw_content": "",
+      "date": "2026-05-07",
+      "url": "",
+      "related_nodes": [
+        "srbhrresume-matcher",
+        "koala73worldmonitor",
+        "bee-sanciphey",
+        "accumulatemorecv"
+      ],
+      "node_count": 4
+    },
+    {
+      "id": "benchmark",
+      "label": "Benchmark",
+      "type": "concept",
+      "pillar": "capabilities",
+      "pm_score": 0.53,
+      "tags": [
+        "concept",
+        "capabilities"
+      ],
+      "summary": "关联项目: jeinlee1991/chinese-llm-benchm, When No Benchmark Exists: Vali, When No Benchmark Exists: Vali",
+      "raw_content": "",
+      "date": "2026-05-07",
+      "url": "",
+      "related_nodes": [
+        "jeinlee1991chinese-llm-benchmark",
+        "when-no-benchmark-exists-validating-comparative-llm-safety",
+        "when-no-benchmark-exists-validating-com"
+      ],
+      "node_count": 3
+    },
+    {
+      "id": "multi-agent",
+      "label": "Multi-Agent",
+      "type": "concept",
+      "pillar": "capabilities",
+      "pm_score": 0.33,
+      "tags": [
+        "concept",
+        "capabilities"
+      ],
+      "summary": "关联项目: Agent-harness-kit scaffolding , From Intent to Execution: Comp, Physics-Grounded Multi-Agent A",
+      "raw_content": "",
+      "date": "2026-05-07",
+      "url": "",
+      "related_nodes": [
+        "agent-harness-kit-scaffolding-for-multi-agent-work",
+        "from-intent-to-execution-composing-agentic-workflows-with-a",
+        "physics-grounded-multi-agent-architecture-for-traceable-ris"
+      ],
+      "node_count": 3
+    },
+    {
+      "id": "embedding",
+      "label": "Embedding",
+      "type": "concept",
+      "pillar": "capabilities",
+      "pm_score": 0.15,
+      "tags": [
+        "concept",
+        "capabilities"
+      ],
+      "summary": "关联项目: A polynomial autoencoder beats, A polynomial autoencoder beats",
+      "raw_content": "",
+      "date": "2026-05-08",
+      "url": "",
+      "related_nodes": [
+        "a-polynomial-autoencoder-beats-pca-on-transformer",
+        "a-polynomial-autoencoder-beats-pca-on-tr"
+      ],
+      "node_count": 2
     }
   ],
   "edges": [
@@ -12790,6 +13079,895 @@
       "relation": "same_pillar:patterns",
       "type": "PILLAR",
       "pm_relevance": 0.3
+    },
+    {
+      "id": "edge_mlflowmlflow_llm",
+      "from": "mlflowmlflow",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_unstructured-iounstructured_llm",
+      "from": "unstructured-iounstructured",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_hiyougallamafactory_llm",
+      "from": "hiyougallamafactory",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_berriailitellm_llm",
+      "from": "berriailitellm",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_vllm-projectvllm_llm",
+      "from": "vllm-projectvllm",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_mlc-aiweb-llm_llm",
+      "from": "mlc-aiweb-llm",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_langfuselangfuse_llm",
+      "from": "langfuselangfuse",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_milvus-iomilvus_llm",
+      "from": "milvus-iomilvus",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_tensorzerotensorzero_llm",
+      "from": "tensorzerotensorzero",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_harry0703moneyprinterturbo_llm",
+      "from": "harry0703moneyprinterturbo",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_browser-usebrowser-use_llm",
+      "from": "browser-usebrowser-use",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_labringfastgpt_llm",
+      "from": "labringfastgpt",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_infiniflowragflow_llm",
+      "from": "infiniflowragflow",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_datawhalechinahappy-llm_llm",
+      "from": "datawhalechinahappy-llm",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_sillytavernsillytavern_llm",
+      "from": "sillytavernsillytavern",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_upstashcontext7_llm",
+      "from": "upstashcontext7",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_patchy631ai-engineering-hub_llm",
+      "from": "patchy631ai-engineering-hub",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_aaif-goosegoose_llm",
+      "from": "aaif-goosegoose",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_geeeekexplorernano-vllm_llm",
+      "from": "geeeekexplorernano-vllm",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_onyx-dot-apponyx_llm",
+      "from": "onyx-dot-apponyx",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_astrbotdevsastrbot_llm",
+      "from": "astrbotdevsastrbot",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_yamadashyrepomix_llm",
+      "from": "yamadashyrepomix",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_rtk-airtk_llm",
+      "from": "rtk-airtk",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_handsonllmhands-on-large-language-models_llm",
+      "from": "handsonllmhands-on-large-language-models",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_lightning-ailitgpt_llm",
+      "from": "lightning-ailitgpt",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_datawhalechinaself-llm_llm",
+      "from": "datawhalechinaself-llm",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_clickhouseclickhouse_llm",
+      "from": "clickhouseclickhouse",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_xorbitsaiinference_llm",
+      "from": "xorbitsaiinference",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_rasbtllms-from-scratch_llm",
+      "from": "rasbtllms-from-scratch",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_jingyaogongminimind_llm",
+      "from": "jingyaogongminimind",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_jeinlee1991chinese-llm-benchmark_llm",
+      "from": "jeinlee1991chinese-llm-benchmark",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_mishushakovllm-scraper_llm",
+      "from": "mishushakovllm-scraper",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_0xplaygroundsrig_llm",
+      "from": "0xplaygroundsrig",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_why-global-llm-leaderboards-are-misleading-small-portfolios_llm",
+      "from": "why-global-llm-leaderboards-are-misleading-small-portfolios",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_when-no-benchmark-exists-validating-comparative-llm-safety_llm",
+      "from": "when-no-benchmark-exists-validating-comparative-llm-safety",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_why-global-llm-leaderboards-are-misleadi_llm",
+      "from": "why-global-llm-leaderboards-are-misleadi",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_when-no-benchmark-exists-validating-com_llm",
+      "from": "when-no-benchmark-exists-validating-com",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_design-conductor-20-an-agent-builds-a-turboquant-inference_llm",
+      "from": "design-conductor-20-an-agent-builds-a-turboquant-inference",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_zhulinsendaily_stock_analysis_llm",
+      "from": "zhulinsendaily_stock_analysis",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_mintplex-labsanything-llm_llm",
+      "from": "mintplex-labsanything-llm",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_mudlerlocalai_llm",
+      "from": "mudlerlocalai",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_googlelangextract_llm",
+      "from": "googlelangextract",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_blinkdlrwkv-lm_llm",
+      "from": "blinkdlrwkv-lm",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_di-sukharevopencommit_llm",
+      "from": "di-sukharevopencommit",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_0x4m4hexstrike-ai_llm",
+      "from": "0x4m4hexstrike-ai",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_spotify8217s-ai-dj-now-supports-french-german_llm",
+      "from": "spotify8217s-ai-dj-now-supports-french-german",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_making-llm-training-faster-with-unsloth-and-nvidia_llm",
+      "from": "making-llm-training-faster-with-unsloth-and-nvidia",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_openseeker-v2-pushing-the-limits-of-search-agents-with-info_llm",
+      "from": "openseeker-v2-pushing-the-limits-of-search-agents-with-info",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_physics-grounded-multi-agent-architecture-for-traceable-ris_llm",
+      "from": "physics-grounded-multi-agent-architecture-for-traceable-ris",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_safety-and-accuracy-follow-different-scaling-laws-in-clinica_llm",
+      "from": "safety-and-accuracy-follow-different-scaling-laws-in-clinica",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_x1xhlolsystem-prompts-and-models-of-ai-tools_ai-agent",
+      "from": "x1xhlolsystem-prompts-and-models-of-ai-tools",
+      "to": "ai-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_composiohqcomposio_ai-agent",
+      "from": "composiohqcomposio",
+      "to": "ai-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_n8n-ion8n_ai-agent",
+      "from": "n8n-ion8n",
+      "to": "ai-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_screenpipescreenpipe_ai-agent",
+      "from": "screenpipescreenpipe",
+      "to": "ai-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_copilotkitcopilotkit_ai-agent",
+      "from": "copilotkitcopilotkit",
+      "to": "ai-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_microsoftautogen_ai-agent",
+      "from": "microsoftautogen",
+      "to": "ai-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_sansan0trendradar_ai-agent",
+      "from": "sansan0trendradar",
+      "to": "ai-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_google-geminigemini-cli_ai-agent",
+      "from": "google-geminigemini-cli",
+      "to": "ai-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_openbb-financeopenbb_ai-agent",
+      "from": "openbb-financeopenbb",
+      "to": "ai-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_pingcaptidb_ai-agent",
+      "from": "pingcaptidb",
+      "to": "ai-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_astrbotdevsastrbot_ai-agent",
+      "from": "astrbotdevsastrbot",
+      "to": "ai-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_agno-agiagno_ai-agent",
+      "from": "agno-agiagno",
+      "to": "ai-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_punkpeyeawesome-mcp-servers_ai-agent",
+      "from": "punkpeyeawesome-mcp-servers",
+      "to": "ai-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_hkudsnanobot_ai-agent",
+      "from": "hkudsnanobot",
+      "to": "ai-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_0x4m4hexstrike-ai_ai-agent",
+      "from": "0x4m4hexstrike-ai",
+      "to": "ai-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_komai-a-fine-matrix-chat-app-you-can-get-to-love_ai-agent",
+      "from": "komai-a-fine-matrix-chat-app-you-can-get-to-love",
+      "to": "ai-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_komai-a-fine-matrix-chat-app-you-can-ge_ai-agent",
+      "from": "komai-a-fine-matrix-chat-app-you-can-ge",
+      "to": "ai-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_product-hunt-ai-topics_ai-agent",
+      "from": "product-hunt-ai-topics",
+      "to": "ai-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_from-intent-to-execution-composing-agentic-workflows-with-a_ai-agent",
+      "from": "from-intent-to-execution-composing-agentic-workflows-with-a",
+      "to": "ai-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_symptomai-towards-a-conversational-ai-agent-for-everyday-sy_ai-agent",
+      "from": "symptomai-towards-a-conversational-ai-agent-for-everyday-sy",
+      "to": "ai-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_x1xhlolsystem-prompts-and-models-of-ai-tools_prompt",
+      "from": "x1xhlolsystem-prompts-and-models-of-ai-tools",
+      "to": "prompt",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_tensorzerotensorzero_prompt",
+      "from": "tensorzerotensorzero",
+      "to": "prompt",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_asgeirtjsystem_prompts_leaks_prompt",
+      "from": "asgeirtjsystem_prompts_leaks",
+      "to": "prompt",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_linshenkxprompt-optimizer_prompt",
+      "from": "linshenkxprompt-optimizer",
+      "to": "prompt",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_fpromptschat_prompt",
+      "from": "fpromptschat",
+      "to": "prompt",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_danielmiesslerfabric_prompt",
+      "from": "danielmiesslerfabric",
+      "to": "prompt",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_mishushakovllm-scraper_prompt",
+      "from": "mishushakovllm-scraper",
+      "to": "prompt",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_understanding-in-context-learning-for-nonlinear-regression-w_prompt",
+      "from": "understanding-in-context-learning-for-nonlinear-regression-w",
+      "to": "prompt",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_liyupiai-guide_prompt",
+      "from": "liyupiai-guide",
+      "to": "prompt",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_show-hn-kstack-skill-pack-for-monitor_prompt",
+      "from": "show-hn-kstack-skill-pack-for-monitor",
+      "to": "prompt",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_unstructured-iounstructured_rag",
+      "from": "unstructured-iounstructured",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_docling-projectdocling_rag",
+      "from": "docling-projectdocling",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_hkudslightrag_rag",
+      "from": "hkudslightrag",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_qdrantqdrant_rag",
+      "from": "qdrantqdrant",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_nirdiamantrag_techniques_rag",
+      "from": "nirdiamantrag_techniques",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_deepset-aihaystack_rag",
+      "from": "deepset-aihaystack",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_milvus-iomilvus_rag",
+      "from": "milvus-iomilvus",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_microsoftgraphrag_rag",
+      "from": "microsoftgraphrag",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_vectifyaipageindex_rag",
+      "from": "vectifyaipageindex",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_labringfastgpt_rag",
+      "from": "labringfastgpt",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_langgeniusdify_rag",
+      "from": "langgeniusdify",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_infiniflowragflow_rag",
+      "from": "infiniflowragflow",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_supabasesupabase_rag",
+      "from": "supabasesupabase",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_upstashcontext7_rag",
+      "from": "upstashcontext7",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_patchy631ai-engineering-hub_rag",
+      "from": "patchy631ai-engineering-hub",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_itzcrazyknsvane_rag",
+      "from": "itzcrazyknsvane",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_microsoftgenerative-ai-for-beginners_rag",
+      "from": "microsoftgenerative-ai-for-beginners",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_handsonllmhands-on-large-language-models_rag",
+      "from": "handsonllmhands-on-large-language-models",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_mishushakovllm-scraper_rag",
+      "from": "mishushakovllm-scraper",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_dirtyfrag-universal-linux-lpe_rag",
+      "from": "dirtyfrag-universal-linux-lpe",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_superintelligent-retrieval-agent-the-next-frontier-of-infor_rag",
+      "from": "superintelligent-retrieval-agent-the-next-frontier-of-infor",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_superintelligent-retrieval-agent-the-ne_rag",
+      "from": "superintelligent-retrieval-agent-the-ne",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_estimating-the-expected-output-of-wide-random-mlps-more-effi_rag",
+      "from": "estimating-the-expected-output-of-wide-random-mlps-more-effi",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_bytedancedeer-flow_rag",
+      "from": "bytedancedeer-flow",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_liyupiai-guide_rag",
+      "from": "liyupiai-guide",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_sqlite-is-a-library-of-congress-recommended-storag_rag",
+      "from": "sqlite-is-a-library-of-congress-recommended-storag",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_an-agent-oriented-pluggable-experience-rag-skill-for-experie_rag",
+      "from": "an-agent-oriented-pluggable-experience-rag-skill-for-experie",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_lucidrainsvit-pytorch_transformer",
+      "from": "lucidrainsvit-pytorch",
+      "to": "transformer",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_rasbtllms-from-scratch_transformer",
+      "from": "rasbtllms-from-scratch",
+      "to": "transformer",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_understanding-in-context-learning-for-nonlinear-regression-w_transformer",
+      "from": "understanding-in-context-learning-for-nonlinear-regression-w",
+      "to": "transformer",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_taming-outlier-tokens-in-diffusion-transformers_transformer",
+      "from": "taming-outlier-tokens-in-diffusion-transformers",
+      "to": "transformer",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_huggingfacetransformers_transformer",
+      "from": "huggingfacetransformers",
+      "to": "transformer",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_blinkdlrwkv-lm_transformer",
+      "from": "blinkdlrwkv-lm",
+      "to": "transformer",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_a-polynomial-autoencoder-beats-pca-on-transformer_transformer",
+      "from": "a-polynomial-autoencoder-beats-pca-on-transformer",
+      "to": "transformer",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_a-polynomial-autoencoder-beats-pca-on-tr_transformer",
+      "from": "a-polynomial-autoencoder-beats-pca-on-tr",
+      "to": "transformer",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_srbhrresume-matcher_nlp",
+      "from": "srbhrresume-matcher",
+      "to": "nlp",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_koala73worldmonitor_nlp",
+      "from": "koala73worldmonitor",
+      "to": "nlp",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_bee-sanciphey_nlp",
+      "from": "bee-sanciphey",
+      "to": "nlp",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_accumulatemorecv_nlp",
+      "from": "accumulatemorecv",
+      "to": "nlp",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_jeinlee1991chinese-llm-benchmark_benchmark",
+      "from": "jeinlee1991chinese-llm-benchmark",
+      "to": "benchmark",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_when-no-benchmark-exists-validating-comparative-llm-safety_benchmark",
+      "from": "when-no-benchmark-exists-validating-comparative-llm-safety",
+      "to": "benchmark",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_when-no-benchmark-exists-validating-com_benchmark",
+      "from": "when-no-benchmark-exists-validating-com",
+      "to": "benchmark",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_agent-harness-kit-scaffolding-for-multi-agent-work_multi-agent",
+      "from": "agent-harness-kit-scaffolding-for-multi-agent-work",
+      "to": "multi-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_from-intent-to-execution-composing-agentic-workflows-with-a_multi-agent",
+      "from": "from-intent-to-execution-composing-agentic-workflows-with-a",
+      "to": "multi-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_physics-grounded-multi-agent-architecture-for-traceable-ris_multi-agent",
+      "from": "physics-grounded-multi-agent-architecture-for-traceable-ris",
+      "to": "multi-agent",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_a-polynomial-autoencoder-beats-pca-on-transformer_embedding",
+      "from": "a-polynomial-autoencoder-beats-pca-on-transformer",
+      "to": "embedding",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_a-polynomial-autoencoder-beats-pca-on-tr_embedding",
+      "from": "a-polynomial-autoencoder-beats-pca-on-tr",
+      "to": "embedding",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
     }
   ],
   "generated_at": "2026-05-08T17:11:40.804550",
