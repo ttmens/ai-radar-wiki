@@ -650,6 +650,7 @@
   <script id="graph-data" type="application/json">{{DATA}}</script>
   <script src="./assets/vis-network.min.js"></script>
   <script>
+    console.log('AI Radar v3.9.1 Phase 2 Loaded');
     const data = JSON.parse(document.getElementById('graph-data').textContent);
     const pillarColors = { capabilities: '#58a6ff', patterns: '#3fb950', ecosystem: '#a371f7', business: '#f0883e', unknown: '#8b949e' };
     const pillarNames = { capabilities: '🤖 技术能力', patterns: '📱 产品模式', ecosystem: '🔧 工具生态', business: '💰 商业趋势', unknown: '未分类' };
@@ -1136,6 +1137,15 @@
 
     // ===== INIT =====
     (async function init() {
+      // Add version badge for debugging
+      const header = document.querySelector('#header h1');
+      if (header) {
+         const v = document.createElement('span');
+         v.style.cssText = 'font-size:10px; background:rgba(255,255,255,0.1); padding:2px 6px; border-radius:4px; margin-left:8px;';
+         v.textContent = 'v3.9.1';
+         header.appendChild(v);
+      }
+      
       await renderStructuredSummary();
       await loadWeeklyTrends(); // Phase 2
       renderNetwork();
