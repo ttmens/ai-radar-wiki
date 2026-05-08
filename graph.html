@@ -1297,18 +1297,19 @@
       cursor: grab;
     }
 
-    /* 列表滚动：sticky 顶栏 + 实底 + 高层级，压住下方 narrative-card */
+    /* 窄屏：标题与日/周切换随正文滚动（不做 sticky），桌面仍用默认样式 */
     .dash-content .brief-headline,
     #week-view-content .brief-headline {
-      position: sticky;
-      top: 0;
-      z-index: 100;
-      background-color: var(--panel-bg);
-      background-image: linear-gradient(180deg, var(--panel-bg) 0%, #fafafa 100%);
-      box-shadow: 0 4px 12px rgba(255, 255, 255, 0.98), 0 1px 0 var(--hairline-soft);
+      position: static;
+      top: auto;
+      z-index: auto;
       transform: none;
       -webkit-backface-visibility: visible;
       backface-visibility: visible;
+      background-color: var(--panel-bg);
+      background-image: none;
+      box-shadow: none;
+      border-bottom: 1px solid var(--hairline-soft);
     }
 
     /* 情报栏：视口高度 3/5，贴屏幕底；图谱在上方未遮挡区域 */
