@@ -1,0 +1,22 @@
+{
+  "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
+  "summary": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot method for video generation that jointly transfers character motion from a driving video into a new scene and enables per-frame control of intrinsic and extrinsic camera parameters. ActCam builds on any pretrained image-to-video diffusion model that accepts conditioning in terms of scene depth and character pose. Given a source video with a moving character and a target camera motion, ActCam generates pose and depth conditions that remain geometrically consistent across frames. We then run a single sampling process with a two-phase conditioning schedule: early denoising steps condition on both pose and sparse depth to enforce scene structure, after which depth is dropped and pose-only guidance refines high-frequency details without over-constraining the generation. We evaluate ActCam on multiple benchmarks spanning diverse character motions and challenging viewpoint changes. We find that, compared to pose-only control and other pose and camera methods, ActCam improves camera adherence and motion fidelity, and is preferred in human evaluations, especially under large viewpoint changes. Our results highlight that careful camera-consistent conditioning and staged guidance can enable strong joint camera and motion control without training. Project page: https://elkhomar.github.io/actcam/.",
+  "url": "http://arxiv.org/abs/2605.06667v1",
+  "authors": [
+    "Omar El Khalifi",
+    "Thomas Rossi",
+    "Oscar Fossey",
+    "Thibault Fouque",
+    "Ulysse Mizrahi"
+  ],
+  "published": "2026-05-07T17:59:58Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "video generation",
+    "training"
+  ],
+  "summary_cn": "ActCam提出零样本视频生成技术，可联合控制角色3D动作与摄像机运镜。仅需驱动视频即可将表演精准迁移至新场景，无需微调。该技术为AI视频产品提供“动作+运镜”双维度精细化控制，大幅降低影视级内容创作门槛。零样本特性便于快速集成至现有生成平台，显著提升短视频、虚拟制片及游戏动画的生产效率，具备明确的商业化落地价值。",
+  "pm_relevance": 8
+}

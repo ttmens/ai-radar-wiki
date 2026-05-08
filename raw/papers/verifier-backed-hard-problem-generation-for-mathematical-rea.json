@@ -1,0 +1,21 @@
+{
+  "title": "Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
+  "summary": "Large Language Models (LLMs) demonstrate strong capabilities for solving scientific and mathematical problems, yet they struggle to produce valid, challenging, and novel problems - an essential component for advancing LLM training and enabling autonomous scientific research. Existing problem generation approaches either depend on expensive human expert involvement or adopt naive self-play paradigms, which frequently yield invalid problems due to reward hacking. This work introduces VHG, a verifier-enhanced hard problem generation framework built upon three-party self-play. By integrating an independent verifier into the conventional setter-solver duality, our design constrains the setter's reward to be jointly determined by problem validity (evaluated by the verifier) and difficulty (assessed by the solver). We instantiate two verifier variants: a Hard symbolic verifier and a Soft LLM-based verifier, with evaluations conducted on indefinite integral tasks and general mathematical reasoning tasks. Experimental results show that VHG substantially outperforms all baseline methods by a clear margin.",
+  "url": "http://arxiv.org/abs/2605.06660v1",
+  "authors": [
+    "Yuhang Lai",
+    "Jiazhan Feng",
+    "Yee Whye Teh",
+    "Ning Miao"
+  ],
+  "published": "2026-05-07T17:58:32Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "framework",
+    "evaluation",
+    "eval"
+  ],
+  "summary_cn": "该研究提出基于验证器的数学难题自动生成方法，通过引入验证模型对生成题目进行有效性、难度与新颖性过滤，解决大模型“解题强、出题弱”的痛点。该技术可大幅降低高质量合成数据生产成本，构建自动化数据飞轮以加速推理模型迭代。可落地于AI教育题库、科研辅助平台及模型训练管线，具备显著的数据资产化与产品化潜力。",
+  "pm_relevance": 8
+}

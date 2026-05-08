@@ -1,0 +1,20 @@
+{
+  "title": "When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels",
+  "summary": "Many deployments must compare candidate language models for safety before a labeled benchmark exists for the relevant language, sector, or regulatory regime. We formalize this setting as benchmarkless comparative safety scoring and specify the contract under which a scenario-based audit can be interpreted as deployment evidence. Scores are valid only under a fixed scenario pack, rubric, auditor, judge, sampling configuration, and rerun budget. Because no labels are available, we replace ground-truth agreement with an instrumental-validity chain: responsiveness to a controlled safe-versus-abliterated contrast, dominance of target-driven variance over auditor and judge artifacts, and stability across reruns.\n  We instantiate the chain in SimpleAudit, a local-first scoring instrument, and validate it on a Norwegian safety pack. Safe and abliterated targets separate with AUROC values between 0.89 and 1.00, target identity is the dominant variance component ($η^2 \\approx 0.52$), and severity profiles stabilize by ten reruns. Applying the same chain to Petri shows that it admits both tools. The substantial differences arise upstream of the chain, in claim-contract enforcement and deployment fit. A Norwegian public-sector procurement case comparing Borealis and Gemma 3 demonstrates the resulting evidence in practice: the safer model depends on scenario category and risk measure. Consequently, scores, matched deltas, critical rates, uncertainty, and the auditor and judge used must be reported together rather than collapsed into a single ranking.",
+  "url": "http://arxiv.org/abs/2605.06652v1",
+  "authors": [
+    "Sushant Gautam",
+    "Finn Schwall",
+    "Annika Willoch Olstad",
+    "Fernando Vallecillos Ruiz",
+    "Birk Torpmann-Hagen"
+  ],
+  "published": "2026-05-07T17:56:41Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark"
+  ],
+  "summary_cn": "该论文提出“无基准对比安全评分”方法，解决在缺乏标注数据的新语言、垂直行业或监管场景下，如何快速评估大模型安全性的难题。技术上通过场景化审计与相对评分契约，实现无需绝对真值标签的模型横向对比。对AI产品经理而言，该方案可大幅降低安全评测的数据准备成本与周期，支持在合规要求严格或新兴市场快速验证模型安全性，加速垂直领域大模型产品的合规落地与商业化部署。",
+  "pm_relevance": 8
+}

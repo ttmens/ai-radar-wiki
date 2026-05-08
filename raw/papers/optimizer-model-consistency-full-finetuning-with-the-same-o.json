@@ -1,0 +1,20 @@
+{
+  "title": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less",
+  "summary": "Optimizers play an important role in both pretraining and finetuning stages when training large language models (LLMs). In this paper, we present an observation that full finetuning with the same optimizer as in pretraining achieves a better learning-forgetting tradeoff, i.e., forgetting less while achieving the same or better performance on the new task, than other optimizers and, possibly surprisingly, LoRA, during the supervised finetuning (SFT) stage. We term this phenomenon optimizer-model consistency. To better understand it, through controlled experiments and theoretical analysis, we show that: 1) optimizers can shape the models by having regularization effects on the activations, leading to different landscapes around the pretrained checkpoints; 2) in response to this regularization effect, the weight update in SFT should follow some specific structures to lower forgetting of the knowledge learned in pretraining, which can be obtained by using the same optimizer. Moreover, we specifically compare Muon and AdamW when they are employed throughout the pretraining and SFT stages and find that Muon performs worse when finetuned for reasoning tasks. With a synthetic language modeling experiment, we demonstrate that this can come from Muon's strong tendency towards rote memorization, which may hurt pattern acquisition with a small amount of data, as for SFT.",
+  "url": "http://arxiv.org/abs/2605.06654v1",
+  "authors": [
+    "Yuxing Liu",
+    "Jianyu Wang",
+    "Tong Zhang"
+  ],
+  "published": "2026-05-07T17:57:02Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "reasoning",
+    "training",
+    "sft"
+  ],
+  "summary_cn": "该研究指出，在大模型全量微调阶段沿用预训练时的优化器，能显著提升“学习-遗忘”平衡，有效缓解灾难性遗忘问题。对AI产品经理而言，该技术可简化微调流程，降低为保留通用能力而引入额外策略的成本，提升垂直领域模型迭代的稳定性与效率。产品端可借此实现更平滑的定制化升级，缩短上线周期，同时保障核心功能体验的一致性，具有较高的工程落地价值。",
+  "pm_relevance": 8
+}

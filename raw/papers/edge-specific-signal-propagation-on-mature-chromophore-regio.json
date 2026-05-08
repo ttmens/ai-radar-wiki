@@ -1,0 +1,19 @@
+{
+  "title": "Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction",
+  "summary": "Fluorescent protein quantum yield (QY) is governed by the mature chromophore and its three-dimensional microenvironment rather than sequence identity alone. Protein language models and emission-band averages capture global trends, but do not model how local physical signals act on specific chromophore regions.\n  We present a chromophore-centred mechanism graph algorithm for QY prediction. Each PDB structure is converted into a typed 3D residue graph, registered to a mature-CRO state, partitioned into phenolate, bridge and imidazolinone regions, and transformed by channel-signal-region propagation. The representation contains 121 enrichment features; after removing identity shortcuts, 52 non-identity features are used for band-specific ExtraTrees regression. Because each feature encodes a contact channel, seed signal and target CRO region, interpretation is intrinsic rather than post hoc. On a 531-protein benchmark, the method achieved the best random-CV performance among model-based baselines (R = 0.772 +/- 0.008, MAE = 0.131 +/- 0.002), exceeding Band mean (R = 0.632), ESM-C (R = 0.734) and SaProt (R = 0.731), and ranked first in bright screening (Bright P@5 = 0.704). Under homology control, the advantage was clearest in the remote bucket (<50% similarity; R = 0.697 versus 0.633, 0.575 and 0.408), with the strongest overall bright/dark Top-K screening. Stable selected features recovered band-specific mechanisms: aromatic packing and clamp asymmetry in GFP-like proteins, charge/clamp balance in Red proteins, and flexibility-risk/bulky-contact features in Far-red proteins.\n  Source code, feature tables and evaluation scripts are available from the first author upon request. Contact: yuchenak05@gmail.com",
+  "url": "http://arxiv.org/abs/2605.06644v1",
+  "authors": [
+    "Yuchen Xiong",
+    "Swee Keong Yeap",
+    "Steven Aw Yoong Kit"
+  ],
+  "published": "2026-05-07T17:51:41Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "evaluation",
+    "eval"
+  ],
+  "summary_cn": "该研究提出基于发色团3D机制图的荧光蛋白量子产率预测模型。通过边特异性信号传播技术，精准建模局部物理微环境作用，突破传统蛋白语言模型仅依赖序列的局限。对AI产品经理而言，该技术验证了结构感知与物理机制图网络在AI4Science的落地价值，可大幅降低生物探针研发试错成本，为构建高精度、可解释的AI蛋白设计平台提供核心算法模块。",
+  "pm_relevance": 7
+}

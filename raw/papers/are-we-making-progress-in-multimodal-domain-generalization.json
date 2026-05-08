@@ -1,0 +1,22 @@
+{
+  "title": "Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study",
+  "summary": "Despite the growing popularity of Multimodal Domain Generalization (MMDG) for enhancing model robustness, it remains unclear whether reported performance gains reflect genuine algorithmic progress or are artifacts of inconsistent evaluation protocols. Current research is fragmented, with studies varying significantly across datasets, modality configurations, and experimental settings. Furthermore, existing benchmarks focus predominantly on action recognition, often neglecting critical real-world challenges such as input corruptions, missing modalities, and model trustworthiness. This lack of standardization obscures a reliable assessment of the field's advancement. To address this issue, we introduce MMDG-Bench, the first unified and comprehensive benchmark for MMDG, which standardizes evaluation across six datasets spanning three diverse tasks: action recognition, mechanical fault diagnosis, and sentiment analysis. MMDG-Bench encompasses six modality combinations, nine representative methods, and multiple evaluation settings. Beyond standard accuracy, it systematically assesses corruption robustness, missing-modality generalization, misclassification detection, and out-of-distribution detection. With 7, 402 neural networks trained in total across 95 unique cross-domain tasks, MMDG-Bench yields five key findings: (1) under fair comparisons, recent specialized MMDG methods offer only marginal improvements over ERM baseline; (2) no single method consistently outperforms others across datasets or modality combinations; (3) a substantial gap to upper-bound performance persists, indicating that MMDG remains far from solved; (4) trimodal fusion does not consistently outperform the strongest bimodal configurations; and (5) all evaluated methods exhibit significant degradation under corruption and missing-modality scenarios, with some methods further compromising model trustworthiness.",
+  "url": "http://arxiv.org/abs/2605.06643v1",
+  "authors": [
+    "Hao Dong",
+    "Hongzhao Li",
+    "Shupan Li",
+    "Muhammad Haris Khan",
+    "Eleni Chatzi"
+  ],
+  "published": "2026-05-07T17:51:16Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "evaluation",
+    "eval",
+    "protocol"
+  ],
+  "summary_cn": "本文针对多模态域泛化（MMDG）缺乏统一评估标准的问题，构建全面基准测试体系，揭示当前性能提升多源于协议不一致而非算法真实进步。该研究为多模态AI鲁棒性评估提供标准化参考。对AI产品经理而言，有助于在跨场景产品中科学选型、规避“刷榜”风险，指导建立可靠的内部评测流程，提升模型落地稳定性与商业化可信度。",
+  "pm_relevance": 7
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Inductive Venn-Abers and related regressors",
+  "summary": "Venn-Abers predictors are probabilistic predictors that enjoy appealing properties of validity, but their major limitation is that they are applicable only to the case of binary classification, with a recent extension to bounded regression. We generalize them to the case of unbounded regression, which requires adding an element of conformal prediction. In our simulation and empirical studies we investigate the predictive efficiency of point regressors derived from Venn-Abers regressors and argue that they somewhat improve the predictive efficiency of standard regressors for larger training sets.",
+  "url": "http://arxiv.org/abs/2605.06646v1",
+  "authors": [
+    "Ivan Petej",
+    "Vladimir Vovk"
+  ],
+  "published": "2026-05-07T17:52:08Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training"
+  ],
+  "summary_cn": "本文提出归纳型Venn-Abers回归器，将具备严格有效性保证的概率预测方法从二分类扩展至无界回归场景。该技术核心在于提供高可靠性的不确定性量化输出。对AI产品经理而言，可赋能金融、医疗等高风险场景产品，快速构建置信区间提示与风险预警功能，在保障预测可信度的同时，大幅拓宽连续值预测模型的商业落地边界。",
+  "pm_relevance": 7
+}

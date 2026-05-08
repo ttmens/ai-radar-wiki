@@ -281,3 +281,22 @@
 
 ## [2026-05-08 09:49] sync v3 | 1 new | pillars: {'patterns': 1}
 - create: researchers-discover-advanced-language-processing.md
+
+## [2026-05-08 15:44] sync v3 | 17 new | pillars: {'capabilities': 7, 'ecosystem': 3, 'patterns': 2, 'unknown': 4, 'business': 1}
+- create: actcam-zero-shot-joint-camera-and-3d-motion-control-for-vid.md
+- create: unipool-a-globally-shared-expert-pool-for-mixture-of-expert.md
+- create: bami-training-free-bias-mitigation-in-gui-grounding.md
+- create: verifier-backed-hard-problem-generation-for-mathematical-rea.md
+- create: why-global-llm-leaderboards-are-misleading-small-portfolios.md
+- create: optimizer-model-consistency-full-finetuning-with-the-same-o.md
+- create: when-no-benchmark-exists-validating-comparative-llm-safety.md
+- create: ai-co-mathematician-accelerating-mathematicians-with-agenti.md
+- create: superintelligent-retrieval-agent-the-next-frontier-of-infor.md
+- create: inductive-venn-abers-and-related-regressors.md
+- create: edge-specific-signal-propagation-on-mature-chromophore-regio.md
+- create: are-we-making-progress-in-multimodal-domain-generalization.md
+- create: blaise-a-modern-self-hosting-zero-legacy-object.md
+- create: hardening-firefox-with-claude-mythos-preview.md
+- create: komai-a-fine-matrix-chat-app-you-can-get-to-love.md
+- create: tools-in-the-grass-raising-the-next-generation-of.md
+- create: why-you-can-never-get-your-doctor-to-call-you-back.md

@@ -1,0 +1,19 @@
+{
+  "title": "Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
+  "summary": "Ranking LLMs via pairwise human feedback underpins current leaderboards for open-ended tasks, such as creative writing and problem-solving. We analyze ~89K comparisons in 116 languages from 52 LLMs from Arena, and show that the best-fit global Bradley-Terry (BT) ranking is misleading. Nearly 2/3 of the decisive votes cancel out, and even the top 50 models according to the global BT ranking are statistically indistinguishable (pairwise win probabilities are at most 0.53 within the top 50 models). We trace this failure to strong, structured heterogeneity of opinions across language, task, and time. Moreover, we find an important characteristic - *language* plays a key role. Grouping by language (and families) increases the agreement of votes massively, resulting in two orders of magnitude higher spread in the ELO scores (i.e., very consistent rankings). What appears as global noise is in fact a mixture of coherent but conflicting subpopulations.\n  To address such heterogeneity in supervised machine learning, we introduce the framework of $(λ, ν)$-portfolios, which are small sets of models that achieve a prediction error at most $λ$, \"covering\" at least a $ν$ fraction of users. We formulate this as a variant of the set cover problem and provide guarantees using the VC dimension of the underlying set system. On the Arena data, our algorithms recover just 5 distinct BT rankings that cover over 96% of votes at a modest $λ$, compared to the 21% coverage by the global ranking. We also provide a portfolio of 6 LLMs that cover twice as many votes as the top-6 LLMs from a global ranking. We further construct portfolios for a classification problem on the COMPAS dataset using an ensemble of fairness-regularized classification models and show that these portfolios can be used to detect blind spots in the data, which might be of independent interest to policymakers.",
+  "url": "http://arxiv.org/abs/2605.06656v1",
+  "authors": [
+    "Jai Moondra",
+    "Ayela Chughtai",
+    "Bhargavi Lanka",
+    "Swati Gupta"
+  ],
+  "published": "2026-05-07T17:57:58Z",
+  "tag": "Paper",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "rag"
+  ],
+  "summary_cn": "本文揭示当前LLM全局排行榜（基于BT模型）存在严重误导。研究证实大模型能力高度异构，单一总分无法反映真实场景表现。对AI产品经理而言，模型选型与竞品对标应摒弃“唯榜单论”，转向构建垂直场景的“小模型组合”评估体系。该结论为产品侧建立定制化评测基准、优化动态模型路由提供了关键依据，能有效提升AI应用的实际体验与商业化落地效率。",
+  "pm_relevance": 8
+}
