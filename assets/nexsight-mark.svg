@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="NexSight">
+  <defs>
+    <linearGradient id="nx" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5b9cff"/>
+      <stop offset="100%" stop-color="#ff385c"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="8" fill="#0c0f14"/>
+  <path d="M16 5.5a10.5 10.5 0 1 0 0 21 10.5 10.5 0 0 0 0-21Z" stroke="url(#nx)" stroke-width="1.25" stroke-dasharray="3.2 2.4" fill="none" opacity="0.95"/>
+  <path d="M16 9.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z" stroke="url(#nx)" stroke-width="1" fill="none" opacity="0.55"/>
+  <circle cx="16" cy="16" r="2.4" fill="url(#nx)"/>
+  <path d="M16 7v3M16 22v3M7 16h3M22 16h3" stroke="url(#nx)" stroke-width="1" stroke-linecap="round" opacity="0.35"/>
+</svg>
