@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-08 | Total pages: 247
+> Last updated: 2026-05-08 | Total pages: 248
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -235,6 +235,7 @@
 - [[apple-to-pay-250m-to-settle-lawsuit-over-siri82.md]] Apple to pay $250M to settle lawsuit over Siri&#8217;s delayed AI features `pillar:business` `score:0.15`
 - [[at-techcrunch-disrupt-2026-all-your-m038a-ques.md]] At TechCrunch Disrupt 2026, all your M&#038;A questions will be answered `pillar:business` `score:0.1`
 - [[barry-diller-trusts-sam-altman-but-8216trust-i.md]] Barry Diller trusts Sam Altman. But &#8216;trust is irrelevant&#8217; as AGI nea `pillar:business` `score:0.15`
+- [[clojurescript-gets-asyncawait.md]] ClojureScript Gets Async/Await `pillar:business` `score:0.155`
 - [[deepseek-could-hit-45b-valuation-from-its-first-i.md]] DeepSeek could hit $45B valuation from its first investment round `pillar:business` `score:0.3`
 - [[di-sukharevopencommit.md]] di-sukharev/opencommit `pillar:business` `score:0.355`
 - [[dyad-shdyad.md]] dyad-sh/dyad `pillar:business` `score:0.405`

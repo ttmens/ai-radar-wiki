@@ -7,7 +7,7 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI从对话式向自主操作系统级控制演进。该方向的具体信号：模型能力, 信任/合规, AI Agent, 语音交互。",
+        "insight": "AI从对话式向自主操作系统级控制演进。该方向的具体信号：AI Agent, 语音交互, 信任/合规, 模型能力。",
         "evidence": [
           {
             "id": "superintelligent-retrieval-agent-the-next-frontier-of-infor",
@@ -71,6 +71,20 @@
             "score": 0.33,
             "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
             "reason": "里程碑式进展"
+          },
+          {
+            "id": "a-polynomial-autoencoder-beats-pca-on-transformer",
+            "title": "A polynomial autoencoder beats PCA on transformer embeddings",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=48021023",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "a-polynomial-autoencoder-beats-pca-on-tr",
+            "title": "A polynomial autoencoder beats PCA on transformer embeddings",
+            "score": 0.15,
+            "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
         "trend": "new"
@@ -78,7 +92,7 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "AI从对话式向自主操作系统级控制演进。该方向的具体信号：模型能力, 信任/合规, AI Agent, CLI/终端交互, 桌面/本地化, 安全/漏洞。",
+        "insight": "AI从对话式向自主操作系统级控制演进。该方向的具体信号：CLI/终端交互, AI Agent, 安全/漏洞, 信任/合规, 模型能力, 桌面/本地化。",
         "evidence": [
           {
             "id": "hardening-firefox-with-claude-mythos-preview",
@@ -142,7 +156,7 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "AI从对话式向自主操作系统级控制演进。该方向的具体信号：基础设施, 信任/合规, AI Agent, 模型能力, 开源发布。",
+        "insight": "AI从对话式向自主操作系统级控制演进。该方向的具体信号：开源发布, 基础设施, AI Agent, 信任/合规, 模型能力。",
         "evidence": [
           {
             "id": "verifier-backed-hard-problem-generation-for-mathematical-rea",
@@ -213,13 +227,20 @@
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "insight": "AI从对话式向自主操作系统级控制演进。该方向的具体信号：融资/投资, 语音交互, AI Agent, 信任/合规。",
+        "insight": "AI从对话式向自主操作系统级控制演进。该方向的具体信号：融资/投资, AI Agent, 信任/合规, 语音交互, 模型能力。",
         "evidence": [
           {
             "id": "why-you-can-never-get-your-doctor-to-call-you-back",
             "title": "Why you can never get your doctor to call you back",
             "score": 0.48,
             "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "gpt-55-price-increase-what-it-costs",
+            "title": "GPT-5.5 Price Increase: What It Costs",
+            "score": 0.33,
+            "url": "https://news.ycombinator.com/item?id=48057209",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
@@ -266,9 +287,9 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "📱 产品模式: 8 | 🤖 技术能力: 9 | 💰 商业趋势: 3 | 🔧 工具生态: 9",
-    "total_items": 29,
-    "high_value_count": 24,
+    "stats": "📱 产品模式: 8 | 🤖 技术能力: 11 | 💰 商业趋势: 4 | 🔧 工具生态: 9",
+    "total_items": 32,
+    "high_value_count": 25,
     "all_today_ids": [
       {
         "id": "hardening-firefox-with-claude-mythos-preview",
@@ -351,6 +372,10 @@
         "label": "Komai: a fine Matrix chat app you can get to love"
       },
       {
+        "id": "gpt-55-price-increase-what-it-costs",
+        "label": "GPT-5.5 Price Increase: What It Costs"
+      },
+      {
         "id": "two-home-affairs-officials-suspended-aft",
         "label": "Two Home Affairs officials suspended after AI 'hallucinations' found"
       },
@@ -383,11 +408,19 @@
         "label": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE"
       },
       {
+        "id": "a-polynomial-autoencoder-beats-pca-on-transformer",
+        "label": "A polynomial autoencoder beats PCA on transformer embeddings"
+      },
+      {
+        "id": "a-polynomial-autoencoder-beats-pca-on-tr",
+        "label": "A polynomial autoencoder beats PCA on transformer embeddings"
+      },
+      {
         "id": "blaise-a-modern-self-hosting-zero-lega",
         "label": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE"
       }
     ],
     "date_bj": "2026-05-08 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-08 17:00:53"
+    "generated_at_bj": "2026-05-08 17:09:38"
   }
 }
