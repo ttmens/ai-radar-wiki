@@ -352,7 +352,7 @@
         html += '<div class="summary-watch">';
         dailySummary.watch_list.forEach(w => {
           html += '<div class="watch-item">' +
-            '<div class="watch-item-title" onclick="searchArticle(\'' + w.title.replace(/'/g, "\\'") + '\')">' + w.title + '</div>' +
+            '<div class="watch-item-title" onclick="' + (w.id ? 'focusNode(\'' + w.id + '\')' : 'searchArticle(\'' + w.title.replace(/'/g, "\\'") + '\')') + '">' + w.title + '</div>' +
             '<div class="watch-item-reason">' + w.reason + '</div>' +
             '</div>';
         });
@@ -379,7 +379,12 @@
             '<ul class="insight-evidence">';
 
         insight.evidence.forEach(e => {
-          html += '<li onclick="searchArticle(\'' + e.replace(/'/g, "\\'") + '\')">' + e + '</li>';
+          // evidence can be string (legacy) or object {id, title}
+          if (typeof e === 'object' && e.id) {
+            html += '<li onclick="focusNode(\'' + e.id + '\')">' + e.title + '</li>';
+          } else {
+            html += '<li onclick="searchArticle(\'' + String(e).replace(/'/g, "\\'") + '\')">' + e + '</li>';
+          }
         });
 
         html += '</ul></div></div>';
