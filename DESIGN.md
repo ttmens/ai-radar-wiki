@@ -201,7 +201,7 @@ graph.json 节点实际字段（v3.6.0）：
 - **LLM 缓存**: `llm_cache.json` 存储 LLM 分析结果，避免重复调用
 - **raw/ TTL**: `clean_old_raw(ttl_days=30)` 自动清理 30 天前的原始文件
 
-### 3.7 graph.json 数据持久化（v3.7.0 修复）
+### 3.8 graph.json 数据持久化（v3.7.0 修复）
 
 **问题**（v3.6.0 及之前）：`build_graph_json(all_items)` 每次运行都用**本次新增的 items** 重新构建整个 graph.json。当某次采集到 0 条新数据时，graph.json 被覆盖为只剩概念节点，**历史数据全部丢失**。
 
