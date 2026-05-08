@@ -675,7 +675,10 @@
     function toggleWeekView() {
       isWeekView = !isWeekView;
       const btn = document.getElementById('btn-week-view');
-      if (btn) btn.classList.toggle('active', isWeekView);
+      if (btn) {
+        btn.classList.toggle('active', isWeekView);
+        btn.textContent = isWeekView ? '📅 切换至日视图' : '📅 周视图';
+      }
       
       const content = document.getElementById('dash-content');
       const weekDiv = document.getElementById('week-view-content');
@@ -698,6 +701,14 @@
         html = '<div style="padding:20px; text-align:center; color:var(--text-quaternary);">📊 趋势数据收集中...<br><span style="font-size:11px">需要至少 2 天历史数据</span></div>';
       } else {
         html = '<div class="week-view-content active" id="week-view-content-inner">';
+        
+        // 2B: Weekly Summary
+        if (weeklyTrends.weekly_summary) {
+           html += '<div class="week-stat-card" style="border-left: 3px solid var(--accent);"><div class="week-stat-title">📋 本周情报总结</div>';
+           html += '<div style="font-size:12px; color:var(--text-secondary); line-height:1.5;">' + weeklyTrends.weekly_summary + '</div>';
+           html += '</div>';
+        }
+        
         html += '<div class="week-stat-card"><div class="week-stat-title">📈 Pillar 趋势</div>';
         const pt = weeklyTrends.pillar_trends || {};
         const names = { capabilities: '🤖 技术能力', patterns: '📱 产品模式', ecosystem: '🔧 工具生态', business: '💰 商业趋势' };
