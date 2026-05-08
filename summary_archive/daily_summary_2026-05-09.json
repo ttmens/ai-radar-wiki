@@ -1,15 +1,80 @@
 {
   "daily_summary": {
     "date": "2026-05-09",
-    "headline": "今日暂无新情报",
-    "overview": "",
-    "insights": [],
-    "narratives": [],
-    "stats": "",
-    "total_items": 0,
-    "high_value_count": 0,
-    "all_today_ids": [],
+    "headline": "今日 AI 情报 · 2026-05-09",
+    "overview": "企业级AI迈入工程化深水区，安全与版本控制成规模化落地核心瓶颈",
+    "narratives": [
+      {
+        "title": "AI Agent从‘能力涌现’转向‘工程可控’",
+        "body": "资本重注企业部署与“Git for AI Agents”等基础设施的涌现，标志着行业正跨越Demo阶段，直面生产环境的复杂性。多智能体协作的状态追溯需求与沙箱逃逸漏洞频发，暴露出当前AI系统在可维护性与安全性上的结构性短板。PM需将重心从模型调优转向Agent生命周期管理、权限隔离与合规架构设计，以工程化确定性对冲模型随机性。",
+        "type": "maturation"
+      }
+    ],
+    "insights": [
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "AI开发范式正经历从‘提示词实验’向‘状态机工程’的跃迁。传统Git逻辑被引入Agent流，本质是对抗大模型非确定性输出的必然选择。未来AI产品将内置版本控制、分支测试与回滚机制，PM需将‘可观测性’与‘可复现性’作为核心体验指标，而非仅关注单次交互准确率。",
+        "evidence": [
+          {
+            "id": "show-hn-git-for-ai-agents",
+            "title": "Show HN: Git for AI Agents",
+            "score": 0.33
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "企业级AI市场正从‘单点模型采购’转向‘生态化合约与合规基建’的捆绑竞争。头部厂商合资专攻部署，叠加沙箱逃逸漏洞的暴露，表明B端客户的核心诉求已演变为‘安全可控的私有化集成’。PM在规划商业化路径时，必须将安全审计、权限沙箱与现有IT架构的无缝对接作为产品护城河，而非单纯比拼参数规模。",
+        "evidence": [
+          {
+            "id": "the-peoples-airline-and-the-enterprise-ai-gold",
+            "title": "The “people’s airline” and the enterprise AI gold rush",
+            "score": 0.48
+          },
+          {
+            "id": "claude-code-cve-2026-39861sandbox-escape-via-syml",
+            "title": "Claude Code CVE-2026-39861:sandbox escape via symlink",
+            "score": 0.15
+          }
+        ]
+      }
+    ],
+    "stats": "技术能力: 0.15 | 产品模式: 0.33 | 工具生态: 0.15 | 商业趋势: 0.48",
+    "total_items": 7,
+    "high_value_count": 3,
+    "all_today_ids": [
+      {
+        "id": "the-peoples-airline-and-the-enterprise-ai-gold",
+        "label": "The “people’s airline” and the enterprise AI gold rush"
+      },
+      {
+        "id": "show-hn-git-for-ai-agents",
+        "label": "Show HN: Git for AI Agents"
+      },
+      {
+        "id": "last-24-hours-to-get-50-off-a-second-pass-to-tech",
+        "label": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026"
+      },
+      {
+        "id": "claude-code-cve-2026-39861sandbox-escape-via-syml",
+        "label": "Claude Code CVE-2026-39861:sandbox escape via symlink"
+      },
+      {
+        "id": "podman-rootless-containers-and-the-copy-fail-explo",
+        "label": "Podman rootless containers and the Copy Fail exploit"
+      },
+      {
+        "id": "podman-rootless-containers-and-the-copy",
+        "label": "Podman rootless containers and the Copy Fail exploit"
+      },
+      {
+        "id": "claude-code-cve-2026-39861sandbox-escap",
+        "label": "Claude Code CVE-2026-39861:sandbox escape via symlink"
+      }
+    ],
     "date_bj": "2026-05-09 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-09 00:03:01"
+    "generated_at_bj": "2026-05-09 06:04:00"
   }
 }

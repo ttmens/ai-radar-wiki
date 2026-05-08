@@ -314,3 +314,11 @@
 - create: the-peoples-airline-and-the-enterprise-ai-gold.md
 - create: last-24-hours-to-get-50-off-a-second-pass-to-tech.md
 - create: show-hn-git-for-ai-agents.md
+
+## [2026-05-09 06:05] sync v3 | 6 new | pillars: {'unknown': 2, 'business': 2, 'patterns': 1, 'ecosystem': 1}
+- create: ai-is-breaking-two-vulnerability-cultures.md
+- create: canvas-online-again-as-shinyhunters-threatens-to-l.md
+- create: intel8217s-comeback-story-is-even-wilder-than-i.md
+- create: cloudflare-says-ai-made-1100-jobs-obsolete-even.md
+- create: show-hn-crit-local-review-tool-for-agent-plans.md
+- create: show-hn-anamdb-an-ai-native-differentiable-dat.md
