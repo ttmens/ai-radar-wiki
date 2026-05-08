@@ -174,7 +174,7 @@
 
   /* ===== DETAIL PANEL - RIGHT ===== */
   #detail-panel {
-    position: absolute; top: 56px; right: -460px; width: 460px; height: calc(100vh - 56px);
+    position: absolute; top: 64px; right: -460px; width: 460px; height: calc(100vh - 76px);
     background: var(--panel-bg); border-left: 1px solid var(--border);
     z-index: 80; transition: right 0.3s ease; overflow-y: auto;
     display: flex; flex-direction: column;
@@ -350,11 +350,11 @@
   /* Stories list */
   .dash-stories { display: flex; flex-direction: column; }
 
-  /* Brief headline with close button */
+  /* Brief headline with close button (sticky) */
   .brief-headline {
     font-size: 15px; font-weight: 700; color: var(--text-primary);
-    padding-bottom: 8px; border-bottom: 1px solid var(--border);
-    margin-bottom: 8px; letter-spacing: -0.2px;
+    padding: 0 2px 12px; border-bottom: 1px solid var(--border);
+    letter-spacing: -0.2px;
     position: sticky; top: 0; z-index: 10;
     background: var(--panel-bg);
     display: flex; justify-content: space-between; align-items: center;
