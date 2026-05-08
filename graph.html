@@ -93,6 +93,25 @@
   .dash-content::-webkit-scrollbar { width: 4px; }
   .dash-content::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 4px; }
 
+  /* Week Controls & Phase 2 UI */
+  .week-controls { padding: 8px 0; display: flex; gap: 8px; border-bottom: 1px solid var(--border); margin-bottom: 12px; }
+  .week-controls .header-btn { font-size: 11px; padding: 4px 8px; width: 100%; justify-content: center; }
+  .week-controls .header-btn.active { background: var(--accent-bg); color: #fff; border-color: var(--accent-bg); }
+  
+  .contradiction-box { background: rgba(240, 136, 62, 0.08); border: 1px solid rgba(240, 136, 62, 0.3); border-radius: 6px; padding: 10px; margin-bottom: 12px; }
+  .contradiction-title { font-size: 12px; font-weight: 600; color: #f0883e; margin-bottom: 4px; }
+  .contradiction-item { font-size: 11px; color: var(--text-secondary); line-height: 1.4; }
+  
+  .lifecycle-badge { font-size: 10px; background: rgba(255,255,255,0.06); padding: 2px 6px; border-radius: 4px; color: var(--text-tertiary); margin-left: 8px; white-space: nowrap; }
+  
+  .week-view-content { display: none; padding: 10px; }
+  .week-view-content.active { display: block; }
+  .week-stat-card { background: var(--surface); border-radius: 8px; padding: 12px; margin-bottom: 10px; border: 1px solid var(--border); }
+  .week-stat-title { font-size: 12px; font-weight: 600; margin-bottom: 8px; color: var(--text-primary); }
+  .week-stat-row { display: flex; justify-content: space-between; font-size: 11px; color: var(--text-secondary); padding: 4px 0; border-bottom: 1px dashed rgba(255,255,255,0.05); }
+  .week-stat-row:last-child { border-bottom: none; }
+  .week-chain { font-size: 11px; margin-bottom: 6px; padding-left: 10px; border-left: 2px solid var(--accent-bg); }
+
   /* Dashboard expand button (vertical tab on left edge) */
   #dashboard-expand-btn {
     position: absolute; top: 50%; left: 0; z-index: 55;
@@ -583,6 +602,7 @@
   <!-- Dashboard (Left) -->
   <div id="dashboard">
     <div class="dash-content" id="dash-content">Loading...</div>
+    <div id="week-view-content" style="display:none"></div>
   </div>
   <button id="dashboard-expand-btn" onclick="toggleDashboard()">📅 情报摘要</button>
 
@@ -636,8 +656,70 @@
     const pillarKeys = ['capabilities', 'patterns', 'ecosystem', 'business'];
     let network;
     let dailySummary = null;
+    let weeklyTrends = null;
     let currentNode = null;
     let showingRaw = false;
+    let isWeekView = false;
+
+    // 2A/B: Load weekly trends
+    async function loadWeeklyTrends() {
+      try {
+        const resp = await fetch('./weekly_trends.json?t=' + Date.now());
+        if (resp.ok) {
+          weeklyTrends = await resp.json();
+        }
+      } catch (e) { /* No trends yet */ }
+    }
+
+    // 2C: Week View Toggle
+    function toggleWeekView() {
+      isWeekView = !isWeekView;
+      const btn = document.getElementById('btn-week-view');
+      if (btn) btn.classList.toggle('active', isWeekView);
+      
+      const content = document.getElementById('dash-content');
+      const weekDiv = document.getElementById('week-view-content');
+      
+      if (isWeekView) {
+        renderWeekView(weekDiv);
+        weekDiv.style.display = 'block';
+        content.style.display = 'none';
+      } else {
+        weekDiv.style.display = 'none';
+        content.style.display = 'block';
+      }
+    }
+
+    function renderWeekView(container) {
+      if (!container) return;
+      let html = '';
+      
+      if (!weeklyTrends || weeklyTrends.status === 'empty') {
+        html = '<div style="padding:20px; text-align:center; color:var(--text-quaternary);">📊 趋势数据收集中...<br><span style="font-size:11px">需要至少 2 天历史数据</span></div>';
+      } else {
+        html = '<div class="week-view-content active" id="week-view-content-inner">';
+        html += '<div class="week-stat-card"><div class="week-stat-title">📈 Pillar 趋势</div>';
+        const pt = weeklyTrends.pillar_trends || {};
+        const names = { capabilities: '🤖 技术能力', patterns: '📱 产品模式', ecosystem: '🔧 工具生态', business: '💰 商业趋势' };
+        for (const [key, val] of Object.entries(pt)) {
+          const icons = { 'up': '📈', 'down': '📉', 'stable': '➡️', 'new': '🆕' };
+          html += `<div class="week-stat-row"><span>${names[key] || key}</span><span>${icons[val.trend] || ''} ${val.current || 0} (${val.trend === 'up' ? '+' : ''}${val.delta || 0})</span></div>`;
+        }
+        html += '</div>';
+        
+        if (weeklyTrends.narrative_chains && weeklyTrends.narrative_chains.length > 0) {
+          html += '<div class="week-stat-card"><div class="week-stat-title">🔗 叙事主线追踪</div>';
+          weeklyTrends.narrative_chains.slice(0, 5).forEach(chain => {
+            const icons = { 'emerging': '🌱', 'rising': '🔥', 'hot': '⚡', 'declining': '📉' };
+            html += `<div class="week-chain"><b>${icons[chain.lifecycle] || ''}</b> ${chain.title} <span style="color:var(--text-quaternary)">(${chain.days.length}天)</span></div>`;
+          });
+          html += '</div>';
+        }
+        
+        html += '</div>';
+      }
+      container.innerHTML = html;
+    }
 
     // ===== 1. STRUCTURED DAILY SUMMARY =====
     async function renderStructuredSummary() {
@@ -671,6 +753,20 @@
         html += '<div class="brief-stats">' + dailySummary.stats + '</div>';
       }
 
+      // Week View Toggle & Contradictions (Phase 2)
+      html += '<div class="week-controls">';
+      html += '<button class="header-btn" id="btn-week-view" onclick="toggleWeekView()">📅 周视图</button>';
+      html += '</div>';
+
+      if (weeklyTrends && weeklyTrends.contradictions && weeklyTrends.contradictions.length > 0) {
+        html += '<div class="contradiction-box">';
+        html += '<div class="contradiction-title">⚠️ 矛盾信号</div>';
+        weeklyTrends.contradictions.forEach(c => {
+           html += '<div class="contradiction-item">' + c.description + '</div>';
+        });
+        html += '</div>';
+      }
+
       // ===== Narratives: 跨节点叙事主线 =====
       if (dailySummary.narratives && dailySummary.narratives.length > 0) {
         html += '<div class="narrative-section">';
@@ -682,6 +778,17 @@
             'validation': '💡 模式验证'
           };
           var typeLabel = typeLabels[narrative.type] || '📌 趋势';
+          
+          // 2C-2: Lifecycle badge from weeklyTrends
+          var lifecycleBadge = '';
+          if (weeklyTrends && weeklyTrends.narrative_chains) {
+            var match = weeklyTrends.narrative_chains.find(c => c.title === narrative.title);
+            if (match) {
+              var icons = { 'emerging': '🌱 新兴', 'rising': '🔥 升温', 'hot': '⚡ 高峰', 'declining': '📉 衰退' };
+              lifecycleBadge = '<span class="lifecycle-badge">' + (icons[match.lifecycle] || '') + ' 追踪' + match.days.length + '天</span>';
+            }
+          }
+          
           var actionHtml = '';
           if (narrative.action) {
             actionHtml = '<div class="narrative-action">' + narrative.action + '</div>';
@@ -690,6 +797,7 @@
           html += '<div class="narrative-card-header">';
           html += '<div class="narrative-type">' + typeLabel + '</div>';
           html += '<div class="narrative-title">' + (narrative.title || '') + '</div>';
+          html += lifecycleBadge; // Insert badge
           html += '<span class="narrative-toggle">▼</span>';
           html += '</div>';
           html += '<div class="narrative-body-wrapper">';
@@ -1018,6 +1126,7 @@
     // ===== INIT =====
     (async function init() {
       await renderStructuredSummary();
+      await loadWeeklyTrends(); // Phase 2
       renderNetwork();
     })();
   </script>
