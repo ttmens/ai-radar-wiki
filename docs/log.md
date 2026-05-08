@@ -278,3 +278,6 @@
 - create: openai-introduces-new-8216trusted-contact8217.md
 - create: perplexity8217s-personal-computer-is-now-availa.md
 - create: show-hn-kstack-skill-pack-for-monitoringtroubl.md
+
+## [2026-05-08 09:49] sync v3 | 1 new | pillars: {'patterns': 1}
+- create: researchers-discover-advanced-language-processing.md
