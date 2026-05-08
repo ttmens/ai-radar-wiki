@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 08 May 2026 07:53:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 11:54:31 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -181,6 +181,14 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>GPT-5.5 Price Increase: What It Costs</title>
+      <link>https://news.ycombinator.com/item?id=48057209</link>
+      <guid isPermaLink="false">gpt-55-price-increase-what-it-costs</guid>
+      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文聚焦GPT-5.5潜在API调价策略及其对AI产品商业化的影响。PM需重点评估模型性能跃升与调用成本的ROI平衡，判断复杂推理等高价值场景是否值得升级基座。建议通过提示词优化、请求缓存与智能路由对冲成本压力，并采用大小模型协同架构实现体验与毛利的最优解，为AI SaaS定价与单位经济模型设计提供决策参考。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>Two Home Affairs officials suspended after AI 'hallucinations' found</title>
       <link>https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/</link>
       <guid isPermaLink="false">two-home-affairs-officials-suspended-aft</guid>
@@ -243,6 +251,30 @@
       <pubDate>2026-05-08T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>Blaise是一款面向Object Pascal的现代化自托管编译器，采用“零历史包袱”架构并直连轻量级QBE后端。其核心价值在于摆脱传统技术债，实现高效跨平台代码生成。对AI产品经理而言，该工具虽非AI模型，但为边缘计算与嵌入式AI提供了轻量级系统语言支持，可优化特定硬件的推理部署链路，降低底层工具链维护成本，具备垂直生态整合潜力。</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>A polynomial autoencoder beats PCA on transformer embeddings</title>
+      <link>https://news.ycombinator.com/item?id=48021023</link>
+      <guid isPermaLink="false">a-polynomial-autoencoder-beats-pca-on-transformer</guid>
+      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>ClojureScript Gets Async/Await</title>
+      <link>https://news.ycombinator.com/item?id=48059662</link>
+      <guid isPermaLink="false">clojurescript-gets-asyncawait</guid>
+      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>A polynomial autoencoder beats PCA on transformer embeddings</title>
+      <link>https://ivanpleshkov.dev/blog/polynomial-autoencoder/</link>
+      <guid isPermaLink="false">a-polynomial-autoencoder-beats-pca-on-tr</guid>
+      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，33 分，7 条评论</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE</title>
@@ -378,38 +410,6 @@
       <guid isPermaLink="false">hiyougallamafactory</guid>
       <pubDate>2026-05-07T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>LlamaFactory是开源的大模型高效微调框架，统一支持100+主流LLM与VLM。其核心提供低代码可视化流程与LoRA等高效算法，显著降低算力门槛。对AI产品经理而言，该工具能大幅缩短垂直模型定制周期，加速行业应用落地；同时内置标准化评估与多模态扩展能力，为企业构建专属AI提供高ROI、易迭代的底层设施，极具商业化潜力。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Lightning-AI/pytorch-lightning</title>
-      <link>https://github.com/Lightning-AI/pytorch-lightning</link>
-      <guid isPermaLink="false">lightning-aipytorch-lightning</guid>
-      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>PyTorch Lightning 是一款深度学习训练框架，核心创新在于“零代码修改”即可实现从单卡到万卡集群的无缝扩展。对AI产品经理而言，该技术大幅降低了模型预训练与微调的工程门槛，显著缩短研发周期并节约算力成本。其标准化流程与高兼容性，使团队能快速验证算法并平滑过渡至生产环境，是构建规模化AI产品、提升研发ROI的关键基础设施。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>BerriAI/litellm</title>
-      <link>https://github.com/BerriAI/litellm</link>
-      <guid isPermaLink="false">berriailitellm</guid>
-      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>LiteLLM是一款开源AI网关与SDK，核心创新在于将100+大模型API统一封装为OpenAI格式，有效打破供应商锁定。内置成本追踪、安全护栏、负载均衡与全链路日志，为PM提供开箱即用的模型路由与运维能力。其商业价值在于灵活调度算力、显著优化Token成本，并加速AI应用从原型到生产的标准化落地，是企业构建多模型架构的核心中间件。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>lobehub/lobehub</title>
-      <link>https://github.com/lobehub/lobehub</link>
-      <guid isPermaLink="false">lobehublobehub</guid>
-      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>LobeHub定位为多智能体协作平台，核心创新是将“智能体”重构为工作交互基本单元。技术上突破单点局限，提供低门槛的团队编排与多智能体协同能力，支持按需发现与动态协作。对AI产品经理而言，其价值在于降低复杂工作流开发成本，推动产品从“单点工具”向“团队化智能协作”范式升级，具备构建Agent生态市场与企业级自动化方案的商业潜力。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>docling-project/docling</title>
-      <link>https://github.com/docling-project/docling</link>
-      <guid isPermaLink="false">docling-projectdocling</guid>
-      <pubDate>2026-05-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>Docling是IBM开源的文档解析引擎，专为生成式AI优化。支持PDF/Office等格式输入，精准输出结构化Markdown/JSON，深度还原版面、表格与公式。对AI产品经理而言，它直击RAG应用的数据预处理瓶颈，显著降低文档清洗与知识库构建成本，提升模型检索准确率。开源架构便于快速集成，可大幅缩短企业级AI产品上市周期，商业落地价值突出。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
