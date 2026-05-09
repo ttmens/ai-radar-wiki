@@ -322,3 +322,11 @@
 - create: cloudflare-says-ai-made-1100-jobs-obsolete-even.md
 - create: show-hn-crit-local-review-tool-for-agent-plans.md
 - create: show-hn-anamdb-an-ai-native-differentiable-dat.md
+
+## [2026-05-09 12:05] sync v3 | 6 new | pillars: {'unknown': 5, 'business': 1}
+- create: openais-webrtc-problem.md
+- create: can-llms-model-real-world-systems-in-tla.md
+- create: teaching-claude-why.md
+- create: meta-shuts-down-end-to-end-encryption-for-instagra.md
+- create: tesla-model-y-passes-nhtsas-new-advanced-driver.md
+- create: laid-off-oracle-workers-tried-to-negotiate-better.md
