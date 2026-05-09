@@ -345,3 +345,6 @@
 - create: aids-creeps-back-in-parts-of-zambia-a-year-after.md
 - create: nvidia-has-already-committed-40b-to-equity-ai-dea.md
 - create: show-hn-nanocorp-create-autonomous-companies-ru.md
+
+## [2026-05-10 06:05] sync v3 | 1 new | pillars: {'business': 1}
+- create: so-you8217ve-heard-these-ai-terms-and-nodded-al.md
