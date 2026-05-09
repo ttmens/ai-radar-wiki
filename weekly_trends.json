@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-05-09T18:04:34.727873+08:00",
-  "days_analyzed": 2,
+  "generated_at": "2026-05-10T00:03:29.950124+08:00",
+  "days_analyzed": 3,
   "pillar_trends": {
     "capabilities": {
-      "trend": "down",
-      "delta": -11,
+      "trend": "stable",
+      "delta": 0,
       "current": 0,
-      "previous": 11,
+      "previous": 0,
       "has_data": false
     },
     "patterns": {
-      "trend": "down",
-      "delta": -5,
-      "current": 3,
-      "previous": 8,
-      "has_data": true
+      "trend": "data_missing",
+      "delta": -3,
+      "current": 0,
+      "previous": 3,
+      "has_data": false
     },
     "ecosystem": {
-      "trend": "down",
-      "delta": -7,
-      "current": 2,
-      "previous": 9,
-      "has_data": true
+      "trend": "data_missing",
+      "delta": -2,
+      "current": 0,
+      "previous": 2,
+      "has_data": false
     },
     "business": {
-      "trend": "down",
-      "delta": -1,
-      "current": 3,
-      "previous": 4,
-      "has_data": true
+      "trend": "data_missing",
+      "delta": -3,
+      "current": 0,
+      "previous": 3,
+      "has_data": false
     }
   },
   "narrative_chains": [
@@ -49,30 +49,40 @@
               "id": "hardening-firefox-with-claude-mythos-preview",
               "title": "Hardening Firefox with Claude Mythos Preview",
               "score": 0.53,
+              "url": "https://news.ycombinator.com/item?id=48051079",
+              "reason": "高价值信号",
               "pillar": "patterns"
             },
             {
               "id": "dirtyfrag-universal-linux-lpe",
               "title": "Dirtyfrag: Universal Linux LPE",
               "score": 0.53,
+              "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+              "reason": "里程碑式进展；高价值信号",
               "pillar": "patterns"
             },
             {
               "id": "superintelligent-retrieval-agent-the-next-frontier-of-infor",
               "title": "Superintelligent Retrieval Agent: The Next Frontier of Information Ret",
               "score": 0.52,
+              "url": "",
+              "reason": "高价值信号",
               "pillar": "capabilities"
             },
             {
               "id": "actcam-zero-shot-joint-camera-and-3d-motion-control-for-vid",
               "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generat",
               "score": 0.48,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "capabilities"
             },
             {
               "id": "bami-training-free-bias-mitigation-in-gui-grounding",
               "title": "BAMI: Training-Free Bias Mitigation in GUI Grounding",
               "score": 0.48,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "capabilities"
             }
           ]
@@ -94,44 +104,44 @@
           "type": "bottleneck",
           "evidence": [
             {
-              "id": "hardening-firefox-with-claude-mythos-preview",
-              "title": "Hardening Firefox with Claude Mythos Preview",
-              "score": 0.53,
-              "url": "https://news.ycombinator.com/item?id=48051079",
-              "reason": "高价值信号",
-              "pillar": "patterns"
-            },
-            {
-              "id": "dirtyfrag-universal-linux-lpe",
-              "title": "Dirtyfrag: Universal Linux LPE",
-              "score": 0.53,
-              "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-              "reason": "里程碑式进展；高价值信号",
-              "pillar": "patterns"
-            },
-            {
-              "id": "ai-co-mathematician-accelerating-mathematicians-with-agenti",
-              "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+              "id": "verifier-backed-hard-problem-generation-for-mathematical-rea",
+              "title": "Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
               "score": 0.48,
               "url": "",
               "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
+              "pillar": "ecosystem"
             },
             {
-              "id": "why-global-llm-leaderboards-are-misleading-small-portfolios",
-              "title": "Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heter",
-              "score": 0.48,
+              "id": "are-we-making-progress-in-multimodal-domain-generalization",
+              "title": "Are We Making Progress in Multimodal Domain Generalization? A Comprehe",
+              "score": 0.45,
               "url": "",
               "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
+              "pillar": "ecosystem"
             },
             {
-              "id": "principles-for-agent-native-clis",
-              "title": "Principles for agent-native CLIs",
-              "score": 0.43,
-              "url": "https://twitter.com/trevin/status/2051316002730991795",
+              "id": "komai-a-fine-matrix-chat-app-you-can-get-to-love",
+              "title": "Komai: a fine Matrix chat app you can get to love",
+              "score": 0.34,
+              "url": "https://news.ycombinator.com/item?id=48056804",
               "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
+              "pillar": "ecosystem"
+            },
+            {
+              "id": "show-hn-kstack-skill-pack-for-monitor",
+              "title": "Show HN: Kstack – Skill pack for monitoring/troubleshooting K8s in Cla",
+              "score": 0.33,
+              "url": "https://github.com/kubetail-org/kstack",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
+            },
+            {
+              "id": "tools-in-the-grass-raising-the-next-generation-of",
+              "title": "Tools in the Grass: Raising the next generation of crafts person",
+              "score": 0.29,
+              "url": "https://news.ycombinator.com/item?id=48027275",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
             }
           ]
         }
@@ -152,44 +162,44 @@
           "type": "maturation",
           "evidence": [
             {
-              "id": "hardening-firefox-with-claude-mythos-preview",
-              "title": "Hardening Firefox with Claude Mythos Preview",
-              "score": 0.53,
-              "url": "https://news.ycombinator.com/item?id=48051079",
+              "id": "superintelligent-retrieval-agent-the-next-frontier-of-infor",
+              "title": "Superintelligent Retrieval Agent: The Next Frontier of Information Ret",
+              "score": 0.52,
+              "url": "",
               "reason": "高价值信号",
-              "pillar": "patterns"
+              "pillar": "capabilities"
             },
             {
-              "id": "dirtyfrag-universal-linux-lpe",
-              "title": "Dirtyfrag: Universal Linux LPE",
-              "score": 0.53,
-              "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-              "reason": "里程碑式进展；高价值信号",
-              "pillar": "patterns"
-            },
-            {
-              "id": "ai-co-mathematician-accelerating-mathematicians-with-agenti",
-              "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+              "id": "actcam-zero-shot-joint-camera-and-3d-motion-control-for-vid",
+              "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generat",
               "score": 0.48,
               "url": "",
               "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
+              "pillar": "capabilities"
             },
             {
-              "id": "why-global-llm-leaderboards-are-misleading-small-portfolios",
-              "title": "Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heter",
+              "id": "bami-training-free-bias-mitigation-in-gui-grounding",
+              "title": "BAMI: Training-Free Bias Mitigation in GUI Grounding",
               "score": 0.48,
               "url": "",
               "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
+              "pillar": "capabilities"
             },
             {
-              "id": "principles-for-agent-native-clis",
-              "title": "Principles for agent-native CLIs",
-              "score": 0.43,
-              "url": "https://twitter.com/trevin/status/2051316002730991795",
+              "id": "unipool-a-globally-shared-expert-pool-for-mixture-of-expert",
+              "title": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+              "score": 0.48,
+              "url": "",
               "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
+              "pillar": "capabilities"
+            },
+            {
+              "id": "optimizer-model-consistency-full-finetuning-with-the-same-o",
+              "title": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer a",
+              "score": 0.48,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
             }
           ]
         }
@@ -208,48 +218,7 @@
           "title": "产业老兵跨界AI创业获顶级资本认可",
           "body": "Voi联合创始人创立的AI公司Pit获a16z 1600万美元种子轮，验证了「AI+重运营」模式的资本吸引力。这表明顶级VC正在寻找有产业积累的AI团队，而非纯算法背景。对PM的启示：在AI同质化竞争中，行业Know-how和运营壁垒可能比技术本身更具护城河价值。",
           "type": "validation",
-          "evidence": [
-            {
-              "id": "hardening-firefox-with-claude-mythos-preview",
-              "title": "Hardening Firefox with Claude Mythos Preview",
-              "score": 0.53,
-              "url": "https://news.ycombinator.com/item?id=48051079",
-              "reason": "高价值信号",
-              "pillar": "patterns"
-            },
-            {
-              "id": "dirtyfrag-universal-linux-lpe",
-              "title": "Dirtyfrag: Universal Linux LPE",
-              "score": 0.53,
-              "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-              "reason": "里程碑式进展；高价值信号",
-              "pillar": "patterns"
-            },
-            {
-              "id": "ai-co-mathematician-accelerating-mathematicians-with-agenti",
-              "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
-              "score": 0.48,
-              "url": "",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
-            },
-            {
-              "id": "why-global-llm-leaderboards-are-misleading-small-portfolios",
-              "title": "Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heter",
-              "score": 0.48,
-              "url": "",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
-            },
-            {
-              "id": "principles-for-agent-native-clis",
-              "title": "Principles for agent-native CLIs",
-              "score": 0.43,
-              "url": "https://twitter.com/trevin/status/2051316002730991795",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
-            }
-          ]
+          "evidence": []
         }
       ],
       "lifecycle": "emerging"
@@ -365,5 +334,5 @@
     }
   ],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-09**（2天），累计 **49** 条情报。 焦点领域：**🤖 技术能力**。 核心叙事：**AI从对话式向自主操作系统级控制演进**。"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-10**（3天），累计 **49** 条情报。 焦点领域：**🤖 技术能力**。 核心叙事：**AI从对话式向自主操作系统级控制演进**。"
 }

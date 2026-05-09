@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-09 | Total pages: 270
+> Last updated: 2026-05-10 | Total pages: 276
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -144,6 +144,7 @@
 - [[product-hunt-ai-topics.md]] Product Hunt — AI Topics `pillar:patterns` `score:0.305`
 - [[rasbtllms-from-scratch.md]] rasbt/LLMs-from-scratch `pillar:patterns` `score:0.545`
 - [[recommenders-teamrecommenders.md]] recommenders-team/recommenders `pillar:patterns` `score:0.615`
+- [[removing-fsync-from-our-local-storage-engine.md]] Removing fsync from our local storage engine `pillar:patterns` `score:0.155`
 - [[rssnextfolo.md]] RSSNext/Folo `pillar:patterns` `score:0.58`
 - [[run-llamallama_index.md]] run-llama/llama_index `pillar:patterns` `score:0.405`
 - [[shanraisshanclaude-code-best-practice.md]] shanraisshan/claude-code-best-practice `pillar:patterns` `score:0.58`
@@ -151,6 +152,7 @@
 - [[show-hn-agent-skills-eval-test-whether-agent-sk.md]] Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs `pillar:patterns` `score:0.155`
 - [[show-hn-crit-local-review-tool-for-agent-plans.md]] Show HN: Crit – local review tool for agent plans and code diffs `pillar:patterns` `score:0.155`
 - [[show-hn-git-for-ai-agents.md]] Show HN: Git for AI Agents `pillar:patterns` `score:0.33`
+- [[show-hn-nanocorp-create-autonomous-companies-ru.md]] Show HN: NanoCorp – Create autonomous companies run by AI `pillar:patterns` `score:0.155`
 - [[significant-gravitasautogpt.md]] Significant-Gravitas/AutoGPT `pillar:patterns` `score:0.615`
 - [[sillytavernsillytavern.md]] SillyTavern/SillyTavern `pillar:patterns` `score:0.58`
 - [[simstudioaisim.md]] simstudioai/sim `pillar:patterns` `score:0.58`
@@ -172,6 +174,7 @@
 - [[aaif-goosegoose.md]] aaif-goose/goose `pillar:ecosystem` `score:0.58`
 - [[ai-collectionai-collection.md]] ai-collection/ai-collection `pillar:ecosystem` `score:0.53`
 - [[ai-is-breaking-two-vulnerability-cultures.md]] AI is breaking two vulnerability cultures `pillar:ecosystem` `score:0.53`
+- [[aids-creeps-back-in-parts-of-zambia-a-year-after.md]] Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance `pillar:ecosystem` `score:0.12`
 - [[aliasroboticscai.md]] aliasrobotics/cai `pillar:ecosystem` `score:0.53`
 - [[apachetvm.md]] apache/tvm `pillar:ecosystem` `score:0.58`
 - [[asgeirtjsystem_prompts_leaks.md]] asgeirtj/system_prompts_leaks `pillar:ecosystem` `score:0.58`
@@ -258,10 +261,13 @@
 - [[khosla-backed-robotics-startup-genesis-ai-has-gone.md]] Khosla-backed robotics startup Genesis AI has gone full stack, demo shows `pillar:business` `score:0.3`
 - [[laid-off-oracle-workers-tried-to-negotiate-better.md]] Laid-off Oracle workers tried to negotiate better severance. Oracle said no. `pillar:business` `score:0.305`
 - [[last-24-hours-to-get-50-off-a-second-pass-to-tech.md]] Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026 `pillar:business` `score:0.305`
+- [[llms-corrupt-your-documents-when-you-delegate.md]] LLMs Corrupt Your Documents When You Delegate `pillar:business` `score:0.305`
 - [[mage-aimage-ai.md]] mage-ai/mage-ai `pillar:business` `score:0.355`
+- [[mathfoundationrlbook-mathematical-foundation-of-reinforcement-learning.md]] MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning `pillar:business` `score:0.405`
 - [[meta-shuts-down-end-to-end-encryption-for-instagra.md]] Meta Shuts Down End-to-End Encryption for Instagram Messaging `pillar:business` `score:0.375`
 - [[microsoftai-for-beginners.md]] microsoft/AI-For-Beginners `pillar:business` `score:0.405`
 - [[mintplex-labsanything-llm.md]] Mintplex-Labs/anything-llm `pillar:business` `score:0.405`
+- [[nvidia-has-already-committed-40b-to-equity-ai-dea.md]] Nvidia has already committed $40B to equity AI deals this year `pillar:business` `score:0.48`
 - [[openais-webrtc-problem.md]] OpenAI's WebRTC problem `pillar:business` `score:0.305`
 - [[openhandsopenhands.md]] OpenHands/OpenHands `pillar:business` `score:0.405`
 - [[photoprismphotoprism.md]] photoprism/photoprism `pillar:business` `score:0.405`

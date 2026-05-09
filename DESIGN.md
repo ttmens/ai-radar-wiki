@@ -659,6 +659,7 @@ data_json = json.dumps(graph_data, indent=2, ensure_ascii=False)
 
 | 版本 | 日期 | 变更内容 |
 |------|------|----------|
+| v3.11.1 | 2026-05-09 | **graph.html 模板注入修复**：① generate_graph_html() 优先使用 graph.html 并仅替换内嵌 JSON，不再用 graph_template.html 覆盖自定义 UI ② 恢复周视图全部功能（view-toggle、叙事卡片、折叠功能） ③ 数据同步到最新 graph.json（318 节点，2738 边） |
 | v3.11.0 | 2026-05-09 | **叙事→证据全链路修复**：① 叙事生成从硬编码模板改为动态生成（引用当天真实数据） ② 叙事→证据精确匹配（4 层策略：精确匹配→字符重叠→信号关键词→无匹配） ③ 证据按 title 去重（解决同文章多 ID 问题） ④ graph.json 标题去重（341→310 节点） ⑤ Pillar 分类优化（capabilities 关键词库扩展 + ×1.2 权重） ⑥ 噪音过滤层（is_noise 过滤促销/招聘/会议广告） ⑦ narrative→pillar 1:1 分配（assigned_narratives 集合） |
 | v3.10.1 | 2026-05-08 | 前端设计文档对齐：`graph_template.html` 浅色主题、窄屏底栏与节点详情 Bottom Sheet、设计 Token、无障碍与 `prefers-reduced-motion`、RSS 弱强调与中文 HUD 等 |
 | v3.10.0 | 2026-05-08 | 保活监控机制：健康检查脚本 + 自动恢复 + 停滞检测 + 告警阈值 |

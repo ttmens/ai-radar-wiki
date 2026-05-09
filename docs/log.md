@@ -337,3 +337,11 @@
 - create: the-soul-of-maintaining-a-new-machine.md
 - create: all-my-clients-wanted-a-carousel-now-its-an-ai-c.md
 - create: all-means-are-fair-except-solving-the-problem.md
+
+## [2026-05-10 00:03] sync v3 | 6 new | pillars: {'unknown': 3, 'patterns': 2, 'business': 1}
+- create: mathfoundationrlbook-mathematical-foundation-of-reinforcement-learning.md
+- create: llms-corrupt-your-documents-when-you-delegate.md
+- create: removing-fsync-from-our-local-storage-engine.md
+- create: aids-creeps-back-in-parts-of-zambia-a-year-after.md
+- create: nvidia-has-already-committed-40b-to-equity-ai-dea.md
+- create: show-hn-nanocorp-create-autonomous-companies-ru.md
