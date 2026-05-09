@@ -1,7 +1,7 @@
 # AI Radar 系统设计文档 (System Design Document)
 
-> **版本**: v3.10.1  
-> **最后更新**: 2026-05-08  
+> **版本**: v3.11.0  
+> **最后更新**: 2026-05-09  
 > **维护者**: Hermes Agent  
 
 > **在线地址**: https://ttmens.github.io/ai-radar-wiki/graph.html
@@ -194,20 +194,38 @@ graph.json 节点实际字段（v3.10.0）：
 ```
 
 **分析模式**：
-- **LLM 模式**：跨节点综合研判（需 DashScope API key），参考 Stratechery 风格
+- **LLM 模式**：跨节点综合研判（需 DashScope API key），参考 Stratechery 风格，生成动态叙事（基于当天真实数据，非硬编码模板）
 - **Fallback 模式**：基于 8 种信号主题的自动模式识别，检测 4 种叙事类型
   - 🔄 范式转移、⚠️ 核心瓶颈、📈 行业成熟、💡 模式验证
-- **Insight 去重**：每个叙事主线一对一分配到最佳匹配的 pillar，避免多 pillar 重复相同文本
+- **Insight 去重**（v3.11.0）：每个叙事主线一对一分配到最佳匹配的 pillar（`assigned_narratives` 集合），避免多 pillar 重复相同文本
+- **证据去重**（v3.11.0）：按 article title 去重（而非 ID），同一文章从不同来源产生时只保留一次
+- **叙事生成**（v3.11.0 重大更新）：叙事正文不再使用硬编码模板，而是基于当天真实数据动态生成，引用实际证据项目名称和信号指标
 
 ### 3.6 周趋势分析（Phase 2 - v3.9.0 新增）
 
 **文件**: `weekly_trends.json` + `summary_archive/`
 
 **功能**：
-- **支柱趋势**：计算 4 大支柱的日环比变化（`delta`），标记趋势状态（`🔥 升温`/`➡️ 平稳`/`❄️ 降温`）
+- **支柱趋势**：计算 4 大支柱的日环比变化（`delta`），标记趋势状态（`🔥 升温`/`➡️ 平稳`/`❄️ 降温`/`⚠️ 数据不足`）
 - **叙事链追踪**：跨天匹配相同叙事标题，合并为"出现在 [日期列表]"的紧凑形式
 - **矛盾信号检测**：识别同一天内相互矛盾的叙事（如"A 公司成功" vs "A 公司失败"）
-- **叙事生命周期**：标记叙事阶段（`rising`/`stable`/`declining`）
+- **叙事生命周期**：标记叙事阶段（`emerging`/`rising`/`hot`/`declining`）
+- **叙事→证据匹配**（v3.11.0 重构）：每个叙事只关联到与其相关的证据，不再共享同一份证据
+
+**叙事→证据匹配策略**（v3.11.0）：
+
+1. **精确匹配**：如果 insight 文本以叙事标题开头（`insight.startswith(narrative_title)`），直接提取该 insight 的证据
+2. **关键词重叠匹配**：计算叙事正文与 insight 文本的字符级重叠（中文分词不准确，使用字符集交集），取最佳匹配
+3. **信号关键词 fallback**：维护叙事标题→信号关键词的映射表，匹配证据标题中的关键词
+4. **去重**：按 article title 去重（同一文章从不同来源可能有不同 ID）
+
+```python
+# 匹配优先级
+1. insight.startswith(narrative_title) → 直接提取
+2. char_overlap(narrative_body, insight_text) > threshold → 最佳匹配
+3. SIGNAL_THEMES_FALLBACK 关键词匹配 → fallback
+4. 无匹配 → 证据列表为空（不强行关联不相关内容）
+```
 
 **数据结构**：
 ```json
@@ -244,16 +262,38 @@ graph.json 节点实际字段（v3.10.0）：
 ### 3.7 四象限分类体系 (4-Pillar Framework)
 | Pillar | 中文 | 颜色 | 覆盖范围 |
 |--------|------|------|----------|
-| `capabilities` | 🤖 技术能力 | `#58a6ff` (蓝) | 新模型、算法、工具、技术突破 |
-| `patterns` | 📱 模式/范式 | `#3fb950` (绿) | 新交互方式、工作流、AI 应用模式 |
-| `ecosystem` | 🔧 开发生态 | `#a371f7` (紫) | 框架、SDK、库、平台、开源社区 |
-| `business` | 💰 商业动态 | `#f0883e` (橙) | 融资、产品发布、公司战略、市场 |
+| `capabilities` | 🤖 技术能力 | `#58a6ff` (蓝) | 新模型、算法、工具、技术突破、benchmark、安全研究、模型架构、神经网络、训练/推理 |
+| `patterns` | 📱 模式/范式 | `#3fb950` (绿) | 新交互方式、工作流、AI 应用模式、Agent、Copilot、RAG、语音交互、多智能体 |
+| `ecosystem` | 🔧 开发生态 | `#a371f7` (紫) | 框架、SDK、库、平台、开源社区、DevTool、CI/CD、版本控制、基础设施 |
+| `business` | 💰 商业动态 | `#f0883e` (橙) | 融资、产品发布、公司战略、市场、裁员、数据泄露、反垄断、专利纠纷 |
+
+**分类逻辑**（v3.11.0 优化）：
+1. 关键词匹配：`classify_pillar()` 扫描文本匹配各 pillar 关键词
+2. **capabilities 加权**：技术类关键词权重 ×1.2（避免被 business 的通用词覆盖）
+3. 返回匹配数量最多的 pillar（加权后）
 
 ### 3.8 去重与缓存机制
-- **去重 Hash**: 持久化在 `state.json` 的 `seen` 数组
+- **URL 去重 Hash**: 持久化在 `state.json` 的 `seen` 数组，基于 URL MD5
+- **标题去重**（v3.11.0 新增）：`build_graph_json()` 中增加 `seen_titles` 字典，同一文章因不同来源产生多个 entry 时，保留 score/star 最高的一个
 - **重建机制**: `rebuild_seen_from_raw()` 从 `raw/` 目录重建去重 hash
 - **LLM 缓存**: `llm_cache.json` 存储 LLM 分析结果，避免重复调用
 - **raw/ TTL**: `clean_old_raw(ttl_days=30)` 自动清理 30 天前的原始文件
+
+### 3.8.1 噪音过滤（v3.11.0 新增）
+
+**问题**：TechCrunch 促销广告（"50% off"）、会议注册（"Register now"）、招聘等非情报内容混入数据。
+
+**方案**：`is_noise()` 函数在采集后、去重前过滤：
+```python
+NOISE_PATTERNS = [
+    "get 50% off", "discount", "early bird", "last day", "register now",
+    "join us at", "coming to", "conference 2026", "summit 2026",
+    "we're hiring", "job opening", "career opportunity",
+    "ad:", "sponsored", "promoted",
+    "newsletter:", "subscribe to", "sign up for",
+]
+```
+过滤后统计输出：`{name}: {len(items)} found, {len(clean_items)} clean, {new_count} new`
 
 ### 3.9 graph.json 数据持久化（v3.7.0 修复）
 
@@ -498,6 +538,12 @@ DASHSCOPE_BASE_URL=https://coding.dashscope.aliyuncs.com/v1
 - [x] 移动端：情报底栏（≈60vh）+ 节点详情 Bottom Sheet + 顶栏/FAB 布局
 - [x] 图谱页无障碍基础：详情 Escape、焦点 preventScroll、dialog 语义、RSS 可访问名称
 - [x] prefers-reduced-motion 下降动效强度
+- [x] graph.json 标题去重（v3.11.0）
+- [x] 噪音过滤层：is_noise() 过滤促销/招聘/会议广告（v3.11.0）
+- [x] 叙事生成动态化：从硬编码模板改为基于真实数据生成（v3.11.0）
+- [x] 叙事→证据精确匹配：4 层匹配策略（v3.11.0）
+- [x] evidence 按 title 去重（v3.11.0）
+- [x] Pillar 分类优化：capabilities 关键词扩展 + ×1.2 权重（v3.11.0）
 
 ### 8.2 待实现/优化 🚧
 - [ ] 移动端体验持续优化（如首次使用引导、图例说明入口等增量）
@@ -519,6 +565,8 @@ DASHSCOPE_BASE_URL=https://coding.dashscope.aliyuncs.com/v1
 - DashScope coding 端点仅支持 `qwen3.6-plus`，标准端点 Key 无效
 - 浏览器截图环境中文字体缺失（显示为方块），但实际访问正常
 - `weekly_trends.json` 需要 7+ 天数据才能生成有意义的趋势分析（当前仅 2 天）
+- **Pillar 分类仍可能倾斜**：business 关键词包含大量通用词（safety/ethics/alignment），部分技术类文章可能被误分。v3.11.0 已增加 capabilities 关键词库和 ×1.2 权重，但需观察后续运行效果
+- **Fallback 模式叙事**：LLM 失败时 fallback 生成的叙事正文较模板化，不如 LLM 模式深度
 
 ---
 
@@ -611,6 +659,7 @@ data_json = json.dumps(graph_data, indent=2, ensure_ascii=False)
 
 | 版本 | 日期 | 变更内容 |
 |------|------|----------|
+| v3.11.0 | 2026-05-09 | **叙事→证据全链路修复**：① 叙事生成从硬编码模板改为动态生成（引用当天真实数据） ② 叙事→证据精确匹配（4 层策略：精确匹配→字符重叠→信号关键词→无匹配） ③ 证据按 title 去重（解决同文章多 ID 问题） ④ graph.json 标题去重（341→310 节点） ⑤ Pillar 分类优化（capabilities 关键词库扩展 + ×1.2 权重） ⑥ 噪音过滤层（is_noise 过滤促销/招聘/会议广告） ⑦ narrative→pillar 1:1 分配（assigned_narratives 集合） |
 | v3.10.1 | 2026-05-08 | 前端设计文档对齐：`graph_template.html` 浅色主题、窄屏底栏与节点详情 Bottom Sheet、设计 Token、无障碍与 `prefers-reduced-motion`、RSS 弱强调与中文 HUD 等 |
 | v3.10.0 | 2026-05-08 | 保活监控机制：健康检查脚本 + 自动恢复 + 停滞检测 + 告警阈值 |
 | v3.9.1 | 2026-05-08 | 日/周视图切换修复：转义修复 + 事件绑定优化 + 零边距布局 |
