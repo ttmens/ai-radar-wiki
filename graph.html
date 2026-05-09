@@ -1849,9 +1849,12 @@
     function renderWeekView(container) {
       if (!container) return;
 
+      // Calculate date range from actual archive data instead of ISO week number
+      const daysAnalyzed = weeklyTrends ? weeklyTrends.days_analyzed || 0 : 0;
       const now = new Date();
-      const startOfYear = new Date(now.getFullYear(), 0, 1);
-      const weekNum = Math.ceil((((now - startOfYear) / 86400000) + startOfYear.getDay() + 1) / 7);
+      const startDate = new Date(now);
+      startDate.setDate(startDate.getDate() - Math.max(daysAnalyzed - 1, 0));
+      const dateRange = (startDate.getMonth() + 1) + '/' + startDate.getDate() + ' – ' + (now.getMonth() + 1) + '/' + now.getDate();
 
       function weekBriefHeader(primary, secondary, statsHtml) {
         var h = '<div class="brief-headline">';
@@ -1877,7 +1880,7 @@
       } else {
         var meta = parseWeeklySummaryText(weeklyTrends.weekly_summary || '');
         var chipsHtml = meta.chips.map(function(c) { return '<span class="stat-chip">' + escapeHtml(c) + '</span>'; }).join('');
-        html = weekBriefHeader('本周情报趋势', '第 ' + weekNum + ' 周', chipsHtml);
+        html = weekBriefHeader('本周情报趋势', dateRange, chipsHtml);
         html += '<div class="week-view-body">';
 
         if (weeklyTrends.weekly_summary) {
@@ -1887,7 +1890,7 @@
         html += '<div class="week-stat-card"><div class="week-stat-title">📊 Pillar 趋势概览</div>';
         const pt = weeklyTrends.pillar_trends || {};
         const names = { capabilities: '🤖 技术能力', patterns: '📱 产品模式', ecosystem: '🔧 工具生态', business: '💰 商业动态' };
-        const trendDesc = { 'up': '🔥 升温', 'down': '❄️ 降温', 'stable': '➡️ 平稳', 'new': '🆕 新' };
+        const trendDesc = { 'up': '🔥 升温', 'down': '❄️ 降温', 'stable': '➡️ 平稳', 'new': '🆕 新', 'data_missing': '⚠️ 数据不足', 'insufficient_data': '⚠️ 数据不足' };
         for (const [key, val] of Object.entries(pt)) {
           const desc = trendDesc[val.trend] || val.trend;
           html += `<div class="week-stat-row" style="display:flex; justify-content:space-between; align-items:center;">
