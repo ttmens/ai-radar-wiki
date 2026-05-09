@@ -1,0 +1,22 @@
+{
+  "title": "The soul of maintaining a new machine",
+  "score": 51,
+  "comments": 5,
+  "url": "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3",
+  "hn_url": "https://news.ycombinator.com/item?id=48032014",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "本文探讨AI系统长期运行中的状态保持与记忆管理机制，聚焦如何通过动态上下文维护、个性化参数微调及持续学习架构，赋予AI“灵魂”般的连贯性与适应性。对AI产品经理而言，该方向直接关联智能体产品留存率与用户体验升级，提示在架构设计中需优先规划记忆层与状态同步模块，以支撑高粘性、可进化的AI应用商业化落地。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI Memory",
+    "Long-term Context",
+    "Agent State Management"
+  ],
+  "entities": [],
+  "patterns": [
+    "Memory-Augmented Architecture",
+    "Stateful Agent Pattern"
+  ]
+}

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-09T15:34:41.433629+08:00",
+  "generated_at": "2026-05-09T18:04:34.727873+08:00",
   "days_analyzed": 2,
   "pillar_trends": {
     "capabilities": {
-      "trend": "data_missing",
+      "trend": "down",
       "delta": -11,
       "current": 0,
       "previous": 11,
@@ -17,16 +17,16 @@
       "has_data": true
     },
     "ecosystem": {
-      "trend": "data_missing",
-      "delta": -9,
-      "current": 0,
+      "trend": "down",
+      "delta": -7,
+      "current": 2,
       "previous": 9,
-      "has_data": false
+      "has_data": true
     },
     "business": {
-      "trend": "stable",
-      "delta": 0,
-      "current": 4,
+      "trend": "down",
+      "delta": -1,
+      "current": 3,
       "previous": 4,
       "has_data": true
     }
@@ -255,7 +255,7 @@
       "lifecycle": "emerging"
     },
     {
-      "title": "智能体工程化：从实验性Prompt到可审计的工业级管线",
+      "title": "Agent开发从提示词工程迈向分布式系统工程",
       "type": "maturation",
       "days": [
         "2026-05-09"
@@ -263,8 +263,8 @@
       "instances": [
         {
           "date": "2026-05-09",
-          "title": "智能体工程化：从实验性Prompt到可审计的工业级管线",
-          "body": "Git版本控制、本地审查工具与可微分数据引擎的涌现，标志着Agent开发正告别黑盒试错，进入标准化、可追溯的软件工程阶段。PM需将可观测性、版本管理与沙箱隔离作为Agent产品的核心架构，以应对复杂协作中的状态漂移与调试瓶颈。",
+          "title": "Agent开发从提示词工程迈向分布式系统工程",
+          "body": "随着Git版本控制、本地审查工具与形式化验证的引入，Agent开发正告别单点实验，进入多状态协同与可追溯的工程化阶段。PM需将Agent视为分布式系统，内置状态管理、分支合并与可解释性审查机制，以支撑复杂场景的规模化交付。",
           "type": "maturation",
           "evidence": [
             {
@@ -280,8 +280,8 @@
               "pillar": "patterns"
             },
             {
-              "id": "show-hn-anamdb-an-ai-native-differentiable-dat",
-              "title": "Show HN: AnamDB – An AI-native, differentiable Datalog engine",
+              "id": "can-llms-model-real-world-systems-in-tla",
+              "title": "Can LLMs model real-world systems in TLA+?",
               "score": 0.15,
               "pillar": "patterns"
             }
@@ -291,7 +291,7 @@
       "lifecycle": "emerging"
     },
     {
-      "title": "企业级AI的“效率-合规”双刃剑：ROI驱动下的安全重构",
+      "title": "企业级AI进入ROI兑现与组织架构重构期",
       "type": "paradigm_shift",
       "days": [
         "2026-05-09"
@@ -299,20 +299,14 @@
       "instances": [
         {
           "date": "2026-05-09",
-          "title": "企业级AI的“效率-合规”双刃剑：ROI驱动下的安全重构",
-          "body": "头部厂商合资锁定企业部署与云厂商规模化裁员印证AI已进入降本深水区，而沙箱逃逸漏洞与自动化漏洞扫描则暴露安全架构滞后。企业AI产品必须在自动化交付与可解释合规间建立平衡，将安全左移与ROI量化作为B端采购硬门槛。",
+          "title": "企业级AI进入ROI兑现与组织架构重构期",
+          "body": "头部厂商合资深耕B端部署，叠加Cloudflare等公司利用AI实现千人级岗位优化，标志着AI已从能力展示转向财务与组织重构工具。PM必须将合规架构、私有化集成与可量化的降本增效指标作为产品设计的北极星，而非单纯追求模型能力。",
           "type": "paradigm_shift",
           "evidence": [
             {
               "id": "the-peoples-airline-and-the-enterprise-ai-gold",
               "title": "The “people’s airline” and the enterprise AI gold rush",
               "score": 0.48,
-              "pillar": "business"
-            },
-            {
-              "id": "meta-shuts-down-end-to-end-encryption-for-instagra",
-              "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
-              "score": 0.38,
               "pillar": "business"
             },
             {
@@ -326,6 +320,36 @@
               "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle sa",
               "score": 0.3,
               "pillar": "business"
+            }
+          ]
+        }
+      ],
+      "lifecycle": "emerging"
+    },
+    {
+      "title": "AI原生安全范式与数据合规的博弈升级",
+      "type": "bottleneck",
+      "days": [
+        "2026-05-09"
+      ],
+      "instances": [
+        {
+          "date": "2026-05-09",
+          "title": "AI原生安全范式与数据合规的博弈升级",
+          "body": "AI自动化漏洞扫描重塑了安全响应周期，但Agent沙箱逃逸与数据泄露威胁同步暴露了新型攻击面。PM需在检测-评估-修复闭环中内嵌可解释决策模型，并在产品设计初期平衡自动化效率与隐私合规，抢占企业级安全基础设施市场。",
+          "type": "bottleneck",
+          "evidence": [
+            {
+              "id": "ai-is-breaking-two-vulnerability-cultures",
+              "title": "AI is breaking two vulnerability cultures",
+              "score": 0.53,
+              "pillar": "ecosystem"
+            },
+            {
+              "id": "claude-code-cve-2026-39861sandbox-escape-via-syml",
+              "title": "Claude Code CVE-2026-39861:sandbox escape via symlink",
+              "score": 0.15,
+              "pillar": "ecosystem"
             }
           ]
         }

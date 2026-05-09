@@ -330,3 +330,10 @@
 - create: meta-shuts-down-end-to-end-encryption-for-instagra.md
 - create: tesla-model-y-passes-nhtsas-new-advanced-driver.md
 - create: laid-off-oracle-workers-tried-to-negotiate-better.md
+
+## [2026-05-09 18:04] sync v3 | 5 new | pillars: {'unknown': 4, 'patterns': 1}
+- create: a-recent-experience-with-chatgpt-55-pro.md
+- create: using-claude-code-the-unreasonable-effectiveness.md
+- create: the-soul-of-maintaining-a-new-machine.md
+- create: all-my-clients-wanted-a-carousel-now-its-an-ai-c.md
+- create: all-means-are-fair-except-solving-the-problem.md
