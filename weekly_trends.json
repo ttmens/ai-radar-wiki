@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T12:05:51.886092+08:00",
+  "generated_at": "2026-05-09T14:33:17.180185+08:00",
   "days_analyzed": 2,
   "pillar_trends": {
     "capabilities": {
@@ -47,6 +47,18 @@
           "type": "paradigm_shift",
           "evidence": [
             {
+              "id": "hardening-firefox-with-claude-mythos-preview",
+              "title": "Hardening Firefox with Claude Mythos Preview",
+              "score": 0.53,
+              "pillar": "patterns"
+            },
+            {
+              "id": "dirtyfrag-universal-linux-lpe",
+              "title": "Dirtyfrag: Universal Linux LPE",
+              "score": 0.53,
+              "pillar": "patterns"
+            },
+            {
               "id": "superintelligent-retrieval-agent-the-next-frontier-of-infor",
               "title": "Superintelligent Retrieval Agent: The Next Frontier of Information Ret",
               "score": 0.52,
@@ -63,18 +75,6 @@
               "title": "BAMI: Training-Free Bias Mitigation in GUI Grounding",
               "score": 0.48,
               "pillar": "capabilities"
-            },
-            {
-              "id": "unipool-a-globally-shared-expert-pool-for-mixture-of-expert",
-              "title": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
-              "score": 0.48,
-              "pillar": "capabilities"
-            },
-            {
-              "id": "optimizer-model-consistency-full-finetuning-with-the-same-o",
-              "title": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer a",
-              "score": 0.48,
-              "pillar": "capabilities"
             }
           ]
         },
@@ -84,6 +84,12 @@
           "body": "今日多条情报指向同一趋势：AI正从聊天界面走向系统级自主控制。CLI被重新设计为Agent原生接口，Perplexity推出桌面级Personal Computer将Agent深度嵌入操作系统。这意味着AI产品经理需要将产品思维从「人机对话」转向「Agent自主执行」，重新审视交互范式、权限模型和用户体验边界。",
           "type": "paradigm_shift",
           "evidence": [
+            {
+              "id": "ai-is-breaking-two-vulnerability-cultures",
+              "title": "AI is breaking two vulnerability cultures",
+              "score": 0.53,
+              "pillar": "ecosystem"
+            },
             {
               "id": "show-hn-git-for-ai-agents",
               "title": "Show HN: Git for AI Agents",
@@ -95,24 +101,6 @@
               "title": "Show HN: Crit – local review tool for agent plans and code diffs",
               "score": 0.15,
               "pillar": "patterns"
-            },
-            {
-              "id": "show-hn-crit-local-review-tool-for-ag",
-              "title": "Show HN: Crit – local review tool for agent plans and code diffs",
-              "score": 0.15,
-              "pillar": "patterns"
-            },
-            {
-              "id": "ai-is-breaking-two-vulnerability-cultures",
-              "title": "AI is breaking two vulnerability cultures",
-              "score": 0.53,
-              "pillar": "ecosystem"
-            },
-            {
-              "id": "ai-is-breaking-two-vulnerability-culture",
-              "title": "AI is breaking two vulnerability cultures",
-              "score": 0.53,
-              "pillar": "ecosystem"
             }
           ]
         }
@@ -135,34 +123,36 @@
           "type": "bottleneck",
           "evidence": [
             {
-              "id": "superintelligent-retrieval-agent-the-next-frontier-of-infor",
-              "title": "Superintelligent Retrieval Agent: The Next Frontier of Information Ret",
-              "score": 0.52,
+              "id": "dirtyfrag-universal-linux-lpe",
+              "title": "Dirtyfrag: Universal Linux LPE",
+              "score": 0.53,
+              "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+              "reason": "里程碑式进展；高价值信号",
+              "pillar": "patterns"
+            },
+            {
+              "id": "when-no-benchmark-exists-validating-comparative-llm-safety",
+              "title": "When No Benchmark Exists: Validating Comparative LLM Safety Scoring Wi",
+              "score": 0.48,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "capabilities"
             },
             {
-              "id": "actcam-zero-shot-joint-camera-and-3d-motion-control-for-vid",
-              "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generat",
-              "score": 0.48,
-              "pillar": "capabilities"
+              "id": "two-home-affairs-officials-suspended-aft",
+              "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+              "score": 0.33,
+              "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
             },
             {
-              "id": "bami-training-free-bias-mitigation-in-gui-grounding",
-              "title": "BAMI: Training-Free Bias Mitigation in GUI Grounding",
-              "score": 0.48,
-              "pillar": "capabilities"
-            },
-            {
-              "id": "unipool-a-globally-shared-expert-pool-for-mixture-of-expert",
-              "title": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
-              "score": 0.48,
-              "pillar": "capabilities"
-            },
-            {
-              "id": "optimizer-model-consistency-full-finetuning-with-the-same-o",
-              "title": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer a",
-              "score": 0.48,
-              "pillar": "capabilities"
+              "id": "openai-introduces-new-8216trusted-con",
+              "title": "OpenAI introduces new &#8216;Trusted Contact&#8217; safeguard for case",
+              "score": 0.33,
+              "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "business"
             }
           ]
         },
@@ -173,34 +163,34 @@
           "type": "bottleneck",
           "evidence": [
             {
-              "id": "show-hn-git-for-ai-agents",
-              "title": "Show HN: Git for AI Agents",
-              "score": 0.33,
-              "pillar": "patterns"
+              "id": "canvas-online-again-as-shinyhunters-threatens-to-l",
+              "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
+              "score": 0.51,
+              "pillar": "business"
             },
             {
-              "id": "show-hn-crit-local-review-tool-for-agent-plans",
-              "title": "Show HN: Crit – local review tool for agent plans and code diffs",
-              "score": 0.15,
-              "pillar": "patterns"
+              "id": "the-peoples-airline-and-the-enterprise-ai-gold",
+              "title": "The “people’s airline” and the enterprise AI gold rush",
+              "score": 0.48,
+              "pillar": "business"
             },
             {
-              "id": "show-hn-crit-local-review-tool-for-ag",
-              "title": "Show HN: Crit – local review tool for agent plans and code diffs",
-              "score": 0.15,
-              "pillar": "patterns"
+              "id": "last-24-hours-to-get-50-off-a-second-pass-to-tech",
+              "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
+              "score": 0.3,
+              "pillar": "business"
             },
             {
-              "id": "ai-is-breaking-two-vulnerability-cultures",
-              "title": "AI is breaking two vulnerability cultures",
-              "score": 0.53,
-              "pillar": "ecosystem"
+              "id": "cloudflare-says-ai-made-1100-jobs-obsolete-even",
+              "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a rec",
+              "score": 0.3,
+              "pillar": "business"
             },
             {
-              "id": "ai-is-breaking-two-vulnerability-culture",
-              "title": "AI is breaking two vulnerability cultures",
-              "score": 0.53,
-              "pillar": "ecosystem"
+              "id": "intel8217s-comeback-story-is-even-wilder-than-i",
+              "title": "Intel&#8217;s comeback story is even wilder than it seems",
+              "score": 0.3,
+              "pillar": "business"
             }
           ]
         }
@@ -223,34 +213,12 @@
           "type": "maturation",
           "evidence": [
             {
-              "id": "superintelligent-retrieval-agent-the-next-frontier-of-infor",
-              "title": "Superintelligent Retrieval Agent: The Next Frontier of Information Ret",
-              "score": 0.52,
-              "pillar": "capabilities"
-            },
-            {
-              "id": "actcam-zero-shot-joint-camera-and-3d-motion-control-for-vid",
-              "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generat",
-              "score": 0.48,
-              "pillar": "capabilities"
-            },
-            {
-              "id": "bami-training-free-bias-mitigation-in-gui-grounding",
-              "title": "BAMI: Training-Free Bias Mitigation in GUI Grounding",
-              "score": 0.48,
-              "pillar": "capabilities"
-            },
-            {
-              "id": "unipool-a-globally-shared-expert-pool-for-mixture-of-expert",
-              "title": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
-              "score": 0.48,
-              "pillar": "capabilities"
-            },
-            {
-              "id": "optimizer-model-consistency-full-finetuning-with-the-same-o",
-              "title": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer a",
-              "score": 0.48,
-              "pillar": "capabilities"
+              "id": "show-hn-kstack-skill-pack-for-monitor",
+              "title": "Show HN: Kstack – Skill pack for monitoring/troubleshooting K8s in Cla",
+              "score": 0.33,
+              "url": "https://github.com/kubetail-org/kstack",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
             }
           ]
         },
@@ -264,31 +232,33 @@
               "id": "show-hn-git-for-ai-agents",
               "title": "Show HN: Git for AI Agents",
               "score": 0.33,
+              "url": "https://github.com/regent-vcs/re_gent",
+              "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "patterns"
+            },
+            {
+              "id": "cloudflare-says-ai-made-1100-jobs-obsolete-even",
+              "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a rec",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "business"
             },
             {
               "id": "show-hn-crit-local-review-tool-for-agent-plans",
               "title": "Show HN: Crit – local review tool for agent plans and code diffs",
               "score": 0.15,
+              "url": "https://crit.md/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "patterns"
             },
             {
-              "id": "show-hn-crit-local-review-tool-for-ag",
-              "title": "Show HN: Crit – local review tool for agent plans and code diffs",
+              "id": "show-hn-anamdb-an-ai-native-differentiable-dat",
+              "title": "Show HN: AnamDB – An AI-native, differentiable Datalog engine written ",
               "score": 0.15,
-              "pillar": "patterns"
-            },
-            {
-              "id": "ai-is-breaking-two-vulnerability-cultures",
-              "title": "AI is breaking two vulnerability cultures",
-              "score": 0.53,
-              "pillar": "ecosystem"
-            },
-            {
-              "id": "ai-is-breaking-two-vulnerability-culture",
-              "title": "AI is breaking two vulnerability cultures",
-              "score": 0.53,
-              "pillar": "ecosystem"
+              "url": "https://github.com/jam5991/anam",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "business"
             }
           ]
         }
@@ -310,34 +280,12 @@
           "type": "validation",
           "evidence": [
             {
-              "id": "superintelligent-retrieval-agent-the-next-frontier-of-infor",
-              "title": "Superintelligent Retrieval Agent: The Next Frontier of Information Ret",
-              "score": 0.52,
-              "pillar": "capabilities"
-            },
-            {
-              "id": "actcam-zero-shot-joint-camera-and-3d-motion-control-for-vid",
-              "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generat",
-              "score": 0.48,
-              "pillar": "capabilities"
-            },
-            {
-              "id": "bami-training-free-bias-mitigation-in-gui-grounding",
-              "title": "BAMI: Training-Free Bias Mitigation in GUI Grounding",
-              "score": 0.48,
-              "pillar": "capabilities"
-            },
-            {
-              "id": "unipool-a-globally-shared-expert-pool-for-mixture-of-expert",
-              "title": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
-              "score": 0.48,
-              "pillar": "capabilities"
-            },
-            {
-              "id": "optimizer-model-consistency-full-finetuning-with-the-same-o",
-              "title": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer a",
-              "score": 0.48,
-              "pillar": "capabilities"
+              "id": "voi-founders8217-new-ai-startup-pit-h",
+              "title": "Voi founders&#8217; new AI startup Pit has become the latest rising st",
+              "score": 0.26,
+              "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "business"
             }
           ]
         }
