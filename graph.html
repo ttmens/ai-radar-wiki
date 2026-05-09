@@ -1908,7 +1908,7 @@
             const instances = chain.instances || [];
 
             // Collapsible narrative chain header
-            html += `<details class="narrative-chain" style="margin-bottom:8px; border:1px solid var(--hairline-soft); border-radius:8px; overflow:hidden;">`;
+            html += `<details class="narrative-chain" open style="margin-bottom:8px; border:1px solid var(--hairline-soft); border-radius:8px; overflow:hidden;">`;
             html += `<summary style="cursor:pointer; padding:10px 12px; font-size:12px; font-weight:600; background:var(--surface); user-select:none;">`;
             html += `${icon} ${escapeHtml(chain.title)} <span style="font-size:10px; font-weight:400; color:var(--text-tertiary); margin-left:4px;">(${instances.length}天 · ${chain.lifecycle})</span>`;
             html += `</summary>`;
@@ -1939,7 +1939,7 @@
                   const pillarColors = {'capabilities':'#58a6ff','patterns':'#3fb950','ecosystem':'#a371f7','business':'#f0883e'};
                   const pc = pillarColors[e.pillar] || '#8b949e';
                   const nodeId = e.id || '';
-                  const onclick = nodeId ? `onclick="switchView('day'); focusNode('${nodeId}');"` : '';
+                  const onclick = nodeId ? `onclick=\"focusNode('${nodeId}');\"` : '';
                   html += `<div class="evidence-item" style="display:flex; align-items:center; gap:6px; padding:4px 6px; margin-bottom:2px; border-radius:4px; background:var(--canvas); cursor:${nodeId ? 'pointer' : 'default'};" ${onclick} title="点击在图谱中定位">`;
                   html += `<span style="width:6px; height:6px; border-radius:50%; background:${pc}; flex-shrink:0;"></span>`;
                   html += `<span style="font-size:11px; color:var(--text); flex:1; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">${escapeHtml(e.title)}</span>`;
