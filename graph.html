@@ -1901,32 +1901,52 @@
         html += '</div>';
 
         if (weeklyTrends.narrative_chains && weeklyTrends.narrative_chains.length > 0) {
-          html += '<div class="week-stat-card"><div class="week-stat-title">🔗 叙事主线追踪</div>';
+          html += '<div class=\"week-stat-card\"><div class=\"week-stat-title\">🔗 叙事主线追踪</div>';
           weeklyTrends.narrative_chains.forEach((chain, idx) => {
-            const icons = { 'emerging': '🌱', 'rising': '🔥', 'hot': '⚡', 'declining': '📉' };
+            const icons = { 'emerging': '🌱', 'rising': '🔥', 'hot': '⚡', 'declining': '📉', 'stable': '📌' };
             const icon = icons[chain.lifecycle] || '📌';
             const instances = chain.instances || [];
-            const uniqueTitles = [...new Set(instances.map(i => i.title))];
-            const dates = instances.map(i => i.date).join(', ');
 
-            let detailHtml = '';
-            if (uniqueTitles.length === 1) {
-               detailHtml = `<div class="narrative-detail-item" style="color:var(--text-tertiary);">在以下日期出现: <b>${dates}</b></div>`;
-            } else {
-               detailHtml = instances.map(i =>
-                 `<div class="narrative-detail-item"><span class="narrative-detail-date">${i.date}</span>${i.title}</div>`
-               ).join('');
-            }
+            html += `<div class=\"narrative-chain\" style=\"margin-bottom:16px;\">`;
+            html += `<div style=\"font-size:12px; font-weight:600; margin-bottom:6px;\">${icon} ${chain.title}</div>`;
 
-            html += `<div style="margin-bottom:10px;">`;
-            html += `<div style="font-size:11px; font-weight:500;">${icon} ${chain.title}</div>`;
-            html += `<div class="narrative-detail">
-                      <details>
-                        <summary style="cursor:pointer; font-size:9px; color:var(--text-tertiary);">🔍 查看 ${instances.length} 条追踪记录</summary>
-                        <div style="margin-top:4px;">${detailHtml}</div>
-                      </details>
-                    </div>`;
-            html += `</div>`;
+            // Render each instance (day) as an event card with evidence
+            instances.forEach((inst, iIdx) => {
+              const ev = inst.evidence || [];
+              html += `<div class=\"narrative-event-card\" style=\"background:var(--canvas); border-radius:8px; padding:10px; margin-bottom:8px; border-left:3px solid var(--text-quaternary);\">`;
+              html += `<div style=\"display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;\">`;
+              html += `<span style=\"font-size:11px; font-weight:500; color:var(--text-secondary);\">📅 ${inst.date}</span>`;
+              if (inst.type) {
+                const typeLabels = {'paradigm_shift':'范式转移','bottleneck':'瓶颈','maturation':'成熟','validation':'验证'};
+                const typeColors = {'paradigm_shift':'#58a6ff','bottleneck':'#f0883e','maturation':'#3fb950','validation':'#a371f7'};
+                const tc = typeColors[inst.type] || '#8b949e';
+                html += `<span style=\"font-size:9px; padding:2px 6px; border-radius:8px; background:${tc}22; color:${tc}; border:1px solid ${tc}44;\">${typeLabels[inst.type] || inst.type}</span>`;
+              }
+              html += `</div>`;
+
+              // Narrative body (深度分析)
+              if (inst.body) {
+                html += `<div style=\"font-size:11px; line-height:1.5; color:var(--text-secondary); margin-bottom:6px;\">${escapeHtml(inst.body)}</div>`;
+              }
+
+              // Evidence items (具体事件)
+              if (ev.length > 0) {
+                html += `<div style=\"font-size:10px; font-weight:500; color:var(--text-tertiary); margin-bottom:4px;\">关联事件 (${ev.length})</div>`;
+                ev.forEach((e, eIdx) => {
+                  const pillarColors = {'capabilities':'#58a6ff','patterns':'#3fb950','ecosystem':'#a371f7','business':'#f0883e'};
+                  const pc = pillarColors[e.pillar] || '#8b949e';
+                  html += `<div class=\"evidence-item\" style=\"display:flex; align-items:center; gap:6px; padding:4px 6px; margin-bottom:2px; border-radius:4px; background:var(--surface);\">`;
+                  html += `<span style=\"width:6px; height:6px; border-radius:50%; background:${pc}; flex-shrink:0;\"></span>`;
+                  html += `<span style=\"font-size:11px; color:var(--text); flex:1; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;\">${escapeHtml(e.title)}</span>`;
+                  html += `<span style=\"font-size:10px; color:var(--text-tertiary);\">${(e.score || 0).toFixed(2)}</span>`;
+                  html += `</div>`;
+                });
+              }
+
+              html += `</div>`; // .narrative-event-card
+            });
+
+            html += `</div>`; // .narrative-chain
           });
           html += '</div>';
         }

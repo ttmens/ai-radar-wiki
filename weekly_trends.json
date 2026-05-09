@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T08:30:38.880808+08:00",
+  "generated_at": "2026-05-09T08:37:27.706148+08:00",
   "days_analyzed": 2,
   "pillar_trends": {
     "capabilities": {
@@ -41,7 +41,41 @@
       "instances": [
         {
           "date": "2026-05-08",
-          "title": "AI从对话式向自主操作系统级控制演进"
+          "title": "AI从对话式向自主操作系统级控制演进",
+          "body": "今日多条情报指向同一趋势：AI正从聊天界面走向系统级自主控制。CLI被重新设计为Agent原生接口，Perplexity推出桌面级Personal Computer将Agent深度嵌入操作系统。这意味着AI产品经理需要将产品思维从「人机对话」转向「Agent自主执行」，重新审视交互范式、权限模型和用户体验边界。",
+          "type": "paradigm_shift",
+          "evidence": [
+            {
+              "id": "superintelligent-retrieval-agent-the-next-frontier-of-infor",
+              "title": "Superintelligent Retrieval Agent: The Next Frontier of Information Ret",
+              "score": 0.52,
+              "pillar": "capabilities"
+            },
+            {
+              "id": "actcam-zero-shot-joint-camera-and-3d-motion-control-for-vid",
+              "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generat",
+              "score": 0.48,
+              "pillar": "capabilities"
+            },
+            {
+              "id": "bami-training-free-bias-mitigation-in-gui-grounding",
+              "title": "BAMI: Training-Free Bias Mitigation in GUI Grounding",
+              "score": 0.48,
+              "pillar": "capabilities"
+            },
+            {
+              "id": "unipool-a-globally-shared-expert-pool-for-mixture-of-expert",
+              "title": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+              "score": 0.48,
+              "pillar": "capabilities"
+            },
+            {
+              "id": "optimizer-model-consistency-full-finetuning-with-the-same-o",
+              "title": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer a",
+              "score": 0.48,
+              "pillar": "capabilities"
+            }
+          ]
         }
       ],
       "lifecycle": "emerging"
@@ -55,7 +89,41 @@
       "instances": [
         {
           "date": "2026-05-08",
-          "title": "AI部署的基础设施安全与信任正成为核心瓶颈"
+          "title": "AI部署的基础设施安全与信任正成为核心瓶颈",
+          "body": "从Linux LPE漏洞到政务AI幻觉事件，再到OpenAI推出Trusted Contact安全机制，今日情报清晰表明：AI规模化部署的最大障碍已从「模型能力」转向「基础设施安全与信任」。对PM而言，安全不再是非功能性需求，而是产品的核心竞争力——谁能率先解决可信执行、容错机制和合规审计，谁就能获得企业市场准权。",
+          "type": "bottleneck",
+          "evidence": [
+            {
+              "id": "superintelligent-retrieval-agent-the-next-frontier-of-infor",
+              "title": "Superintelligent Retrieval Agent: The Next Frontier of Information Ret",
+              "score": 0.52,
+              "pillar": "capabilities"
+            },
+            {
+              "id": "actcam-zero-shot-joint-camera-and-3d-motion-control-for-vid",
+              "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generat",
+              "score": 0.48,
+              "pillar": "capabilities"
+            },
+            {
+              "id": "bami-training-free-bias-mitigation-in-gui-grounding",
+              "title": "BAMI: Training-Free Bias Mitigation in GUI Grounding",
+              "score": 0.48,
+              "pillar": "capabilities"
+            },
+            {
+              "id": "unipool-a-globally-shared-expert-pool-for-mixture-of-expert",
+              "title": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+              "score": 0.48,
+              "pillar": "capabilities"
+            },
+            {
+              "id": "optimizer-model-consistency-full-finetuning-with-the-same-o",
+              "title": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer a",
+              "score": 0.48,
+              "pillar": "capabilities"
+            }
+          ]
         }
       ],
       "lifecycle": "emerging"
@@ -69,7 +137,41 @@
       "instances": [
         {
           "date": "2026-05-08",
-          "title": "AI工具链从通用走向垂直专业化"
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "Kstack专为Claude Code设计K8s监控技能包、OpenAI推出语音专用API——AI工具链正从「什么都能做」的大模型，转向「在特定场景做到极致」的垂直工具。这反映了AI行业成熟度提升：开发者不再满足于通用能力，而是需要针对具体工作流深度优化的专用工具。PM应当关注这种「工具链分层」趋势，在通用模型之上构建场景化壁垒。",
+          "type": "maturation",
+          "evidence": [
+            {
+              "id": "superintelligent-retrieval-agent-the-next-frontier-of-infor",
+              "title": "Superintelligent Retrieval Agent: The Next Frontier of Information Ret",
+              "score": 0.52,
+              "pillar": "capabilities"
+            },
+            {
+              "id": "actcam-zero-shot-joint-camera-and-3d-motion-control-for-vid",
+              "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generat",
+              "score": 0.48,
+              "pillar": "capabilities"
+            },
+            {
+              "id": "bami-training-free-bias-mitigation-in-gui-grounding",
+              "title": "BAMI: Training-Free Bias Mitigation in GUI Grounding",
+              "score": 0.48,
+              "pillar": "capabilities"
+            },
+            {
+              "id": "unipool-a-globally-shared-expert-pool-for-mixture-of-expert",
+              "title": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+              "score": 0.48,
+              "pillar": "capabilities"
+            },
+            {
+              "id": "optimizer-model-consistency-full-finetuning-with-the-same-o",
+              "title": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer a",
+              "score": 0.48,
+              "pillar": "capabilities"
+            }
+          ]
         }
       ],
       "lifecycle": "emerging"
@@ -83,7 +185,41 @@
       "instances": [
         {
           "date": "2026-05-08",
-          "title": "产业老兵跨界AI创业获顶级资本认可"
+          "title": "产业老兵跨界AI创业获顶级资本认可",
+          "body": "Voi联合创始人创立的AI公司Pit获a16z 1600万美元种子轮，验证了「AI+重运营」模式的资本吸引力。这表明顶级VC正在寻找有产业积累的AI团队，而非纯算法背景。对PM的启示：在AI同质化竞争中，行业Know-how和运营壁垒可能比技术本身更具护城河价值。",
+          "type": "validation",
+          "evidence": [
+            {
+              "id": "superintelligent-retrieval-agent-the-next-frontier-of-infor",
+              "title": "Superintelligent Retrieval Agent: The Next Frontier of Information Ret",
+              "score": 0.52,
+              "pillar": "capabilities"
+            },
+            {
+              "id": "actcam-zero-shot-joint-camera-and-3d-motion-control-for-vid",
+              "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generat",
+              "score": 0.48,
+              "pillar": "capabilities"
+            },
+            {
+              "id": "bami-training-free-bias-mitigation-in-gui-grounding",
+              "title": "BAMI: Training-Free Bias Mitigation in GUI Grounding",
+              "score": 0.48,
+              "pillar": "capabilities"
+            },
+            {
+              "id": "unipool-a-globally-shared-expert-pool-for-mixture-of-expert",
+              "title": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+              "score": 0.48,
+              "pillar": "capabilities"
+            },
+            {
+              "id": "optimizer-model-consistency-full-finetuning-with-the-same-o",
+              "title": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer a",
+              "score": 0.48,
+              "pillar": "capabilities"
+            }
+          ]
         }
       ],
       "lifecycle": "emerging"
@@ -97,7 +233,29 @@
       "instances": [
         {
           "date": "2026-05-09",
-          "title": "AI Agent从‘能力涌现’转向‘工程可控’"
+          "title": "AI Agent从‘能力涌现’转向‘工程可控’",
+          "body": "资本重注企业部署与“Git for AI Agents”等基础设施的涌现，标志着行业正跨越Demo阶段，直面生产环境的复杂性。多智能体协作的状态追溯需求与沙箱逃逸漏洞频发，暴露出当前AI系统在可维护性与安全性上的结构性短板。PM需将重心从模型调优转向Agent生命周期管理、权限隔离与合规架构设计，以工程化确定性对冲模型随机性。",
+          "type": "maturation",
+          "evidence": [
+            {
+              "id": "show-hn-git-for-ai-agents",
+              "title": "Show HN: Git for AI Agents",
+              "score": 0.33,
+              "pillar": "patterns"
+            },
+            {
+              "id": "the-peoples-airline-and-the-enterprise-ai-gold",
+              "title": "The “people’s airline” and the enterprise AI gold rush",
+              "score": 0.48,
+              "pillar": "business"
+            },
+            {
+              "id": "claude-code-cve-2026-39861sandbox-escape-via-syml",
+              "title": "Claude Code CVE-2026-39861:sandbox escape via symlink",
+              "score": 0.15,
+              "pillar": "business"
+            }
+          ]
         }
       ],
       "lifecycle": "emerging"
