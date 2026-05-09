@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-09T15:02:13.185264+08:00",
+  "generated_at": "2026-05-09T15:34:41.433629+08:00",
   "days_analyzed": 2,
   "pillar_trends": {
     "capabilities": {
-      "trend": "down",
+      "trend": "data_missing",
       "delta": -11,
       "current": 0,
       "previous": 11,
@@ -11,93 +11,27 @@
     },
     "patterns": {
       "trend": "down",
-      "delta": -6,
-      "current": 2,
+      "delta": -5,
+      "current": 3,
       "previous": 8,
       "has_data": true
     },
     "ecosystem": {
-      "trend": "down",
-      "delta": -8,
-      "current": 1,
+      "trend": "data_missing",
+      "delta": -9,
+      "current": 0,
       "previous": 9,
-      "has_data": true
+      "has_data": false
     },
     "business": {
-      "trend": "up",
-      "delta": 10,
-      "current": 14,
+      "trend": "stable",
+      "delta": 0,
+      "current": 4,
       "previous": 4,
       "has_data": true
     }
   },
   "narrative_chains": [
-    {
-      "title": "AI工具链从通用走向垂直专业化",
-      "type": "maturation",
-      "days": [
-        "2026-05-08",
-        "2026-05-09"
-      ],
-      "instances": [
-        {
-          "date": "2026-05-08",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "Kstack专为Claude Code设计K8s监控技能包、OpenAI推出语音专用API——AI工具链正从「什么都能做」的大模型，转向「在特定场景做到极致」的垂直工具。这反映了AI行业成熟度提升：开发者不再满足于通用能力，而是需要针对具体工作流深度优化的专用工具。PM应当关注这种「工具链分层」趋势，在通用模型之上构建场景化壁垒。",
-          "type": "maturation",
-          "evidence": [
-            {
-              "id": "show-hn-kstack-skill-pack-for-monitor",
-              "title": "Show HN: Kstack – Skill pack for monitoring/troubleshooting K8s in Cla",
-              "score": 0.33,
-              "url": "https://github.com/kubetail-org/kstack",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "ecosystem"
-            }
-          ]
-        },
-        {
-          "date": "2026-05-09",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日6条情报涉及AI工具链与基础设施。包括：Cloudflare says AI made 1,100 jobs obsol, Show HN: Git for AI Agents, Show HN: Crit – local review tool for ag。信号：基础设施, 开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-          "type": "maturation",
-          "evidence": [
-            {
-              "id": "canvas-online-again-as-shinyhunters-threatens-to-l",
-              "title": "Canvas online again as ShinyHunters threatens to leak schools’ data",
-              "score": 0.51,
-              "pillar": "business"
-            },
-            {
-              "id": "the-peoples-airline-and-the-enterprise-ai-gold",
-              "title": "The “people’s airline” and the enterprise AI gold rush",
-              "score": 0.48,
-              "pillar": "business"
-            },
-            {
-              "id": "meta-shuts-down-end-to-end-encryption-for-instagra",
-              "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
-              "score": 0.38,
-              "pillar": "business"
-            },
-            {
-              "id": "laid-off-oracle-workers-tried-to-negotiate-better",
-              "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle sa",
-              "score": 0.3,
-              "pillar": "business"
-            },
-            {
-              "id": "teaching-claude-why",
-              "title": "Teaching Claude Why",
-              "score": 0.3,
-              "pillar": "business"
-            }
-          ]
-        }
-      ],
-      "latest_type": "maturation",
-      "lifecycle": "rising"
-    },
     {
       "title": "AI从对话式向自主操作系统级控制演进",
       "type": "paradigm_shift",
@@ -160,6 +94,14 @@
           "type": "bottleneck",
           "evidence": [
             {
+              "id": "hardening-firefox-with-claude-mythos-preview",
+              "title": "Hardening Firefox with Claude Mythos Preview",
+              "score": 0.53,
+              "url": "https://news.ycombinator.com/item?id=48051079",
+              "reason": "高价值信号",
+              "pillar": "patterns"
+            },
+            {
               "id": "dirtyfrag-universal-linux-lpe",
               "title": "Dirtyfrag: Universal Linux LPE",
               "score": 0.53,
@@ -168,28 +110,86 @@
               "pillar": "patterns"
             },
             {
-              "id": "when-no-benchmark-exists-validating-comparative-llm-safety",
-              "title": "When No Benchmark Exists: Validating Comparative LLM Safety Scoring Wi",
+              "id": "ai-co-mathematician-accelerating-mathematicians-with-agenti",
+              "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
               "score": 0.48,
               "url": "",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "capabilities"
-            },
-            {
-              "id": "two-home-affairs-officials-suspended-aft",
-              "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-              "score": 0.33,
-              "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
               "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "patterns"
             },
             {
-              "id": "openai-introduces-new-8216trusted-con",
-              "title": "OpenAI introduces new &#8216;Trusted Contact&#8217; safeguard for case",
-              "score": 0.33,
-              "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+              "id": "why-global-llm-leaderboards-are-misleading-small-portfolios",
+              "title": "Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heter",
+              "score": 0.48,
+              "url": "",
               "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "business"
+              "pillar": "patterns"
+            },
+            {
+              "id": "principles-for-agent-native-clis",
+              "title": "Principles for agent-native CLIs",
+              "score": 0.43,
+              "url": "https://twitter.com/trevin/status/2051316002730991795",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            }
+          ]
+        }
+      ],
+      "lifecycle": "emerging"
+    },
+    {
+      "title": "AI工具链从通用走向垂直专业化",
+      "type": "maturation",
+      "days": [
+        "2026-05-08"
+      ],
+      "instances": [
+        {
+          "date": "2026-05-08",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "Kstack专为Claude Code设计K8s监控技能包、OpenAI推出语音专用API——AI工具链正从「什么都能做」的大模型，转向「在特定场景做到极致」的垂直工具。这反映了AI行业成熟度提升：开发者不再满足于通用能力，而是需要针对具体工作流深度优化的专用工具。PM应当关注这种「工具链分层」趋势，在通用模型之上构建场景化壁垒。",
+          "type": "maturation",
+          "evidence": [
+            {
+              "id": "hardening-firefox-with-claude-mythos-preview",
+              "title": "Hardening Firefox with Claude Mythos Preview",
+              "score": 0.53,
+              "url": "https://news.ycombinator.com/item?id=48051079",
+              "reason": "高价值信号",
+              "pillar": "patterns"
+            },
+            {
+              "id": "dirtyfrag-universal-linux-lpe",
+              "title": "Dirtyfrag: Universal Linux LPE",
+              "score": 0.53,
+              "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+              "reason": "里程碑式进展；高价值信号",
+              "pillar": "patterns"
+            },
+            {
+              "id": "ai-co-mathematician-accelerating-mathematicians-with-agenti",
+              "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+              "score": 0.48,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "why-global-llm-leaderboards-are-misleading-small-portfolios",
+              "title": "Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heter",
+              "score": 0.48,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "principles-for-agent-native-clis",
+              "title": "Principles for agent-native CLIs",
+              "score": 0.43,
+              "url": "https://twitter.com/trevin/status/2051316002730991795",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
             }
           ]
         }
@@ -210,12 +210,44 @@
           "type": "validation",
           "evidence": [
             {
-              "id": "voi-founders8217-new-ai-startup-pit-h",
-              "title": "Voi founders&#8217; new AI startup Pit has become the latest rising st",
-              "score": 0.26,
-              "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+              "id": "hardening-firefox-with-claude-mythos-preview",
+              "title": "Hardening Firefox with Claude Mythos Preview",
+              "score": 0.53,
+              "url": "https://news.ycombinator.com/item?id=48051079",
+              "reason": "高价值信号",
+              "pillar": "patterns"
+            },
+            {
+              "id": "dirtyfrag-universal-linux-lpe",
+              "title": "Dirtyfrag: Universal Linux LPE",
+              "score": 0.53,
+              "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+              "reason": "里程碑式进展；高价值信号",
+              "pillar": "patterns"
+            },
+            {
+              "id": "ai-co-mathematician-accelerating-mathematicians-with-agenti",
+              "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+              "score": 0.48,
+              "url": "",
               "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "business"
+              "pillar": "patterns"
+            },
+            {
+              "id": "why-global-llm-leaderboards-are-misleading-small-portfolios",
+              "title": "Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heter",
+              "score": 0.48,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "principles-for-agent-native-clis",
+              "title": "Principles for agent-native CLIs",
+              "score": 0.43,
+              "url": "https://twitter.com/trevin/status/2051316002730991795",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
             }
           ]
         }
@@ -223,17 +255,17 @@
       "lifecycle": "emerging"
     },
     {
-      "title": "AI Agent 工具链与协作流程快速成熟",
-      "type": "paradigm_shift",
+      "title": "智能体工程化：从实验性Prompt到可审计的工业级管线",
+      "type": "maturation",
       "days": [
         "2026-05-09"
       ],
       "instances": [
         {
           "date": "2026-05-09",
-          "title": "AI Agent 工具链与协作流程快速成熟",
-          "body": "今日8条情报涉及AI Agent及相关工具生态。典型项目包括：AI is breaking two vulnerability culture, Show HN: Git for AI Agents。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
-          "type": "paradigm_shift",
+          "title": "智能体工程化：从实验性Prompt到可审计的工业级管线",
+          "body": "Git版本控制、本地审查工具与可微分数据引擎的涌现，标志着Agent开发正告别黑盒试错，进入标准化、可追溯的软件工程阶段。PM需将可观测性、版本管理与沙箱隔离作为Agent产品的核心架构，以应对复杂协作中的状态漂移与调试瓶颈。",
+          "type": "maturation",
           "evidence": [
             {
               "id": "show-hn-git-for-ai-agents",
@@ -246,6 +278,12 @@
               "title": "Show HN: Crit – local review tool for agent plans and code diffs",
               "score": 0.15,
               "pillar": "patterns"
+            },
+            {
+              "id": "show-hn-anamdb-an-ai-native-differentiable-dat",
+              "title": "Show HN: AnamDB – An AI-native, differentiable Datalog engine",
+              "score": 0.15,
+              "pillar": "patterns"
             }
           ]
         }
@@ -253,23 +291,41 @@
       "lifecycle": "emerging"
     },
     {
-      "title": "AI安全与信任正成为规模化部署的关键挑战",
-      "type": "bottleneck",
+      "title": "企业级AI的“效率-合规”双刃剑：ROI驱动下的安全重构",
+      "type": "paradigm_shift",
       "days": [
         "2026-05-09"
       ],
       "instances": [
         {
           "date": "2026-05-09",
-          "title": "AI安全与信任正成为规模化部署的关键挑战",
-          "body": "今日8条情报涉及AI安全与信任议题。关键事件包括：AI is breaking two vulnerability culture, Podman rootless containers and the Copy 。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
-          "type": "bottleneck",
+          "title": "企业级AI的“效率-合规”双刃剑：ROI驱动下的安全重构",
+          "body": "头部厂商合资锁定企业部署与云厂商规模化裁员印证AI已进入降本深水区，而沙箱逃逸漏洞与自动化漏洞扫描则暴露安全架构滞后。企业AI产品必须在自动化交付与可解释合规间建立平衡，将安全左移与ROI量化作为B端采购硬门槛。",
+          "type": "paradigm_shift",
           "evidence": [
             {
-              "id": "ai-is-breaking-two-vulnerability-cultures",
-              "title": "AI is breaking two vulnerability cultures",
-              "score": 0.53,
-              "pillar": "ecosystem"
+              "id": "the-peoples-airline-and-the-enterprise-ai-gold",
+              "title": "The “people’s airline” and the enterprise AI gold rush",
+              "score": 0.48,
+              "pillar": "business"
+            },
+            {
+              "id": "meta-shuts-down-end-to-end-encryption-for-instagra",
+              "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
+              "score": 0.38,
+              "pillar": "business"
+            },
+            {
+              "id": "cloudflare-says-ai-made-1100-jobs-obsolete-even",
+              "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a rec",
+              "score": 0.3,
+              "pillar": "business"
+            },
+            {
+              "id": "laid-off-oracle-workers-tried-to-negotiate-better",
+              "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle sa",
+              "score": 0.3,
+              "pillar": "business"
             }
           ]
         }
@@ -285,5 +341,5 @@
     }
   ],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-09**（2天），累计 **57** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI工具链从通用走向垂直专业化**。 值得关注：💰 商业动态呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-09**（2天），累计 **49** 条情报。 焦点领域：**🤖 技术能力**。 核心叙事：**AI从对话式向自主操作系统级控制演进**。"
 }
