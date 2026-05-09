@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T00:03:29.950124+08:00",
+  "generated_at": "2026-05-10T04:59:56.659621+08:00",
   "days_analyzed": 3,
   "pillar_trends": {
     "capabilities": {
@@ -10,11 +10,11 @@
       "has_data": false
     },
     "patterns": {
-      "trend": "data_missing",
-      "delta": -3,
-      "current": 0,
+      "trend": "down",
+      "delta": -1,
+      "current": 2,
       "previous": 3,
-      "has_data": false
+      "has_data": true
     },
     "ecosystem": {
       "trend": "data_missing",
@@ -24,17 +24,18 @@
       "has_data": false
     },
     "business": {
-      "trend": "data_missing",
-      "delta": -3,
-      "current": 0,
+      "trend": "down",
+      "delta": -1,
+      "current": 2,
       "previous": 3,
-      "has_data": false
+      "has_data": true
     }
   },
   "narrative_chains": [
     {
       "title": "AI从对话式向自主操作系统级控制演进",
       "type": "paradigm_shift",
+      "latest_type": "paradigm_shift",
       "days": [
         "2026-05-08"
       ],
@@ -93,6 +94,7 @@
     {
       "title": "AI部署的基础设施安全与信任正成为核心瓶颈",
       "type": "bottleneck",
+      "latest_type": "bottleneck",
       "days": [
         "2026-05-08"
       ],
@@ -151,6 +153,7 @@
     {
       "title": "AI工具链从通用走向垂直专业化",
       "type": "maturation",
+      "latest_type": "maturation",
       "days": [
         "2026-05-08"
       ],
@@ -209,6 +212,7 @@
     {
       "title": "产业老兵跨界AI创业获顶级资本认可",
       "type": "validation",
+      "latest_type": "validation",
       "days": [
         "2026-05-08"
       ],
@@ -226,6 +230,7 @@
     {
       "title": "Agent开发从提示词工程迈向分布式系统工程",
       "type": "maturation",
+      "latest_type": "maturation",
       "days": [
         "2026-05-09"
       ],
@@ -262,6 +267,7 @@
     {
       "title": "企业级AI进入ROI兑现与组织架构重构期",
       "type": "paradigm_shift",
+      "latest_type": "paradigm_shift",
       "days": [
         "2026-05-09"
       ],
@@ -298,6 +304,7 @@
     {
       "title": "AI原生安全范式与数据合规的博弈升级",
       "type": "bottleneck",
+      "latest_type": "bottleneck",
       "days": [
         "2026-05-09"
       ],
@@ -324,6 +331,68 @@
         }
       ],
       "lifecycle": "emerging"
+    },
+    {
+      "title": "AI自主代理的规模化落地遭遇“可靠性衰减”瓶颈",
+      "type": "bottleneck",
+      "latest_type": "bottleneck",
+      "days": [
+        "2026-05-10"
+      ],
+      "instances": [
+        {
+          "date": "2026-05-10",
+          "title": "AI自主代理的规模化落地遭遇“可靠性衰减”瓶颈",
+          "body": "随着AI从单点工具向自主运行系统演进，任务委托过程中的信息失真与文档损坏问题凸显，暴露出当前大模型在长链路执行中的不可靠性。对PM而言，产品架构需从“功能堆叠”转向“容错与验证机制”设计，引入确定性工作流与人类反馈闭环，否则自主化将沦为高风险实验。",
+          "type": "bottleneck",
+          "evidence": [
+            {
+              "id": "llms-corrupt-your-documents-when-you-delegate",
+              "title": "LLMs Corrupt Your Documents When You Delegate",
+              "score": 0.3,
+              "pillar": "patterns"
+            },
+            {
+              "id": "show-hn-nanocorp-create-autonomous-companies-ru",
+              "title": "Show HN: NanoCorp – Create autonomous companies run by AI",
+              "score": 0.15,
+              "pillar": "patterns"
+            }
+          ]
+        }
+      ],
+      "lifecycle": "emerging"
+    },
+    {
+      "title": "资本与底层理论正为AI生态构筑“确定性基建”",
+      "type": "validation",
+      "latest_type": "validation",
+      "days": [
+        "2026-05-10"
+      ],
+      "instances": [
+        {
+          "date": "2026-05-10",
+          "title": "资本与底层理论正为AI生态构筑“确定性基建”",
+          "body": "巨头以百亿美元级股权交易深度绑定算力供应链，同时强化学习等核心算法的数学基础被系统化梳理，标志着行业从“应用层狂热”转向“底层确定性投资”。PM需重新评估技术栈选型，优先拥抱具备资本背书与理论支撑的基础设施，以规避技术路线迭代带来的沉没成本。",
+          "type": "validation",
+          "evidence": [
+            {
+              "id": "nvidia-has-already-committed-40b-to-equity-ai-dea",
+              "title": "Nvidia has already committed $40B to equity AI deals this year",
+              "score": 0.48,
+              "pillar": "business"
+            },
+            {
+              "id": "mathfoundationrlbook-mathematical-foundation-of-reinforcement-learning",
+              "title": "MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learnin",
+              "score": 0.41,
+              "pillar": "business"
+            }
+          ]
+        }
+      ],
+      "lifecycle": "emerging"
     }
   ],
   "contradictions": [
@@ -331,8 +400,13 @@
       "date": "2026-05-08",
       "type": "growth_vs_risk",
       "description": "Growth validation detected alongside infrastructure/trust bottlenecks."
+    },
+    {
+      "date": "2026-05-10",
+      "type": "growth_vs_risk",
+      "description": "Growth validation detected alongside infrastructure/trust bottlenecks."
     }
   ],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-10**（3天），累计 **49** 条情报。 焦点领域：**🤖 技术能力**。 核心叙事：**AI从对话式向自主操作系统级控制演进**。"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-10**（3天），累计 **59** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI从对话式向自主操作系统级控制演进**。"
 }
