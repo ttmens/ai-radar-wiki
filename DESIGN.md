@@ -1,7 +1,7 @@
 # AI Radar 系统设计文档 (System Design Document)
 
-> **版本**: v3.11.0  
-> **最后更新**: 2026-05-09  
+> **版本**: v3.12.0  
+> **最后更新**: 2026-05-10  
 > **维护者**: Hermes Agent  
 
 > **在线地址**: https://ttmens.github.io/ai-radar-wiki/graph.html
@@ -95,7 +95,27 @@ queries = [
 ```
 每个查询最多 2 页 (per_page=30)，使用 `seen_repos` 集合去重。
 
-### 3.3 LLM 分析策略
+### 3.3 Explorer 执行顺序（v3.12.0 修复）
+
+`ai_radar_explorer.py` 的 `main()` 函数按以下顺序执行：
+
+```
+1. batch_analyze_items(all_items)         — LLM 分析（翻译、分类、PM Score）
+2. build_wiki_pages(all_items)            — 写入 wiki/entities/ 和 wiki/concepts/
+3. build_graph_json(all_items)            — 合并新节点到 graph.json（保留历史数据）
+4. generate_daily_summary.py              — 从 graph.json 读取今日节点生成日报
+5. generate_graph_html(graph_data)        — 数据注入 graph_template.html → graph.html
+6. update_index() / update_readme()       — 更新 Wiki 索引和 README
+7. run_self_evolution()                   — 自我进化（更新旧 wiki 页面）
+8. generate_daily_digest(all_items)       — 生成 daily-digest/ 目录的 Markdown 日报
+9. save_state(state)                      — 保存采集状态（seen URLs、统计）
+10. clean_old_raw(ttl_days=30)            — 清理 30 天前的原始数据文件
+11. weekly_trends.py                      — 从 summary_archive 计算周趋势
+```
+
+**关键修复**（v3.12.0）：`generate_daily_summary.py` 必须在 `build_graph_json()` **之后**运行，因为它从 graph.json 中读取带有 `date` 字段的今日节点。之前顺序反了，导致日报读到的是旧 graph.json（无今日数据），输出 `total_items: 0`。
+
+### 3.4 LLM 分析策略
 
 **API 配置**：
 - **端点**: `https://coding.dashscope.aliyuncs.com/v1`
@@ -120,7 +140,7 @@ pm_score = (
 ) / 4.0
 ```
 
-### 3.4 数据 Schema
+### 3.5 数据 Schema
 
 graph.json 节点实际字段（v3.10.0）：
 
@@ -153,7 +173,7 @@ graph.json 节点实际字段（v3.10.0）：
 { "id": "edge_id", "from": "node_id", "to": "node_id", "type": "PILLAR" }
 ```
 
-### 3.5 日报 Digest 数据源
+### 3.6 日报 Digest 数据源
 
 每日情报 Digest 由两个数据源组成：
 
@@ -197,9 +217,11 @@ graph.json 节点实际字段（v3.10.0）：
 - **LLM 模式**：跨节点综合研判（需 DashScope API key），参考 Stratechery 风格，生成动态叙事（基于当天真实数据，非硬编码模板）
 - **Fallback 模式**：基于 8 种信号主题的自动模式识别，检测 4 种叙事类型
   - 🔄 范式转移、⚠️ 核心瓶颈、📈 行业成熟、💡 模式验证
+- **LLM 输出去重**（v3.12.0）：`generate_daily_summary.py` 增加后处理去重层，按 `title|id` 键去重 LLM 返回的 evidence
 - **Insight 去重**（v3.11.0）：每个叙事主线一对一分配到最佳匹配的 pillar（`assigned_narratives` 集合），避免多 pillar 重复相同文本
 - **证据去重**（v3.11.0）：按 article title 去重（而非 ID），同一文章从不同来源产生时只保留一次
 - **叙事生成**（v3.11.0 重大更新）：叙事正文不再使用硬编码模板，而是基于当天真实数据动态生成，引用实际证据项目名称和信号指标
+- **f-string 转义修复**（v3.12.0）：`build_llm_prompt()` 中 `{narrative_title}` 转义为 `{{narrative_title}}`，防止 Python 当作变量解析导致 NameError
 
 ### 3.6 周趋势分析（Phase 2 - v3.9.0 新增）
 
@@ -227,32 +249,39 @@ graph.json 节点实际字段（v3.10.0）：
 4. 无匹配 → 证据列表为空（不强行关联不相关内容）
 ```
 
-**数据结构**：
+**数据结构**（v3.12.0 更新）：
 ```json
 {
-  "generated_at": "2026-05-08T15:59:30",
-  "days_analyzed": 2,
+  "generated_at": "2026-05-10T04:59:56",
+  "days_analyzed": 3,
   "pillar_trends": {
-    "capabilities": {"trend": "stable", "delta": 0, "current": 1, "previous": 1},
-    "patterns": {"trend": "stable", "delta": 0, "current": 1, "previous": 1},
-    "ecosystem": {"trend": "stable", "delta": 0, "current": 1, "previous": 1},
-    "business": {"trend": "stable", "delta": 0, "current": 1, "previous": 1}
+    "capabilities": {"trend": "stable", "delta": 0, "current": 0, "previous": 0, "has_data": false},
+    "patterns": {"trend": "down", "delta": -1, "current": 2, "previous": 3, "has_data": true},
+    "ecosystem": {"trend": "data_missing", "delta": -2, "current": 0, "previous": 2, "has_data": false},
+    "business": {"trend": "down", "delta": -1, "current": 2, "previous": 3, "has_data": true}
   },
   "narrative_chains": [
     {
       "title": "AI从对话式向自主操作系统级控制演进",
       "type": "paradigm_shift",
-      "days": ["2026-05-08"],
-      "instances": [{"date": "2026-05-08", "title": "..."}],
       "latest_type": "paradigm_shift",
-      "lifecycle": "rising"
+      "days": ["2026-05-08"],
+      "instances": [{"date": "2026-05-08", "title": "...", "evidence": [...]}],
+      "lifecycle": "emerging"
     }
   ],
   "contradictions": [
-    {"narrative_a": "...", "narrative_b": "...", "reason": "矛盾描述"}
-  ]
+    {"date": "2026-05-08", "type": "growth_vs_risk", "description": "..."}
+  ],
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-10**（3天），累计 **59** 条情报。..."
 }
 ```
+
+**叙事链字段说明**（v3.12.0 修复）：
+- `latest_type`：叙事最新一次的类型（`paradigm_shift`/`bottleneck`/`maturation`/`validation`），v3.12.0 修复了创建时未初始化的 bug
+- `lifecycle`：根据出现天数计算：1 天=`emerging`、≤3天=`rising`、≤7天=`hot`、>7天=`declining`
+- `instances`：每天出现的具体实例，包含 date、title、body、type、evidence
+- `days`：该叙事出现过的日期列表
 
 **前端集成**：
 - 日/周视图切换按钮（透明 tab 风格，固定在面板顶部）
@@ -543,7 +572,11 @@ DASHSCOPE_BASE_URL=https://coding.dashscope.aliyuncs.com/v1
 - [x] 叙事生成动态化：从硬编码模板改为基于真实数据生成（v3.11.0）
 - [x] 叙事→证据精确匹配：4 层匹配策略（v3.11.0）
 - [x] evidence 按 title 去重（v3.11.0）
-- [x] Pillar 分类优化：capabilities 关键词扩展 + ×1.2 权重（v3.11.0）
+|- [x] Pillar 分类优化：capabilities 关键词扩展 + ×1.2 权重（v3.11.0）
+|- [x] 日报执行顺序修复：`generate_daily_summary` 移到 `build_graph_json` 之后（v3.12.0）
+|- [x] `build_llm_prompt` f-string 转义修复（v3.12.0）
+|- [x] `generate_daily_summary` 后处理去重层（v3.12.0）
+|- [x] `weekly_trends` 叙事链 `latest_type` 初始化修复（v3.12.0）
 
 ### 8.2 待实现/优化 🚧
 - [ ] 移动端体验持续优化（如首次使用引导、图例说明入口等增量）
@@ -564,8 +597,8 @@ DASHSCOPE_BASE_URL=https://coding.dashscope.aliyuncs.com/v1
 - LLM 分析有 Token 成本，已控制频率（Top 30 + 缓存）
 - DashScope coding 端点仅支持 `qwen3.6-plus`，标准端点 Key 无效
 - 浏览器截图环境中文字体缺失（显示为方块），但实际访问正常
-- `weekly_trends.json` 需要 7+ 天数据才能生成有意义的趋势分析（当前仅 2 天）
-- **Pillar 分类仍可能倾斜**：business 关键词包含大量通用词（safety/ethics/alignment），部分技术类文章可能被误分。v3.11.0 已增加 capabilities 关键词库和 ×1.2 权重，但需观察后续运行效果
+- **Pillar 趋势仅对比最后两天**：当某天缺少某 pillar 的 insight 时，会显示"平稳"或"数据不足"。这是"最后两天对比"的设计取舍，不是 bug
+- **叙事链跨天连接率较低**：每天叙事标题用词差异大，模糊匹配要求 >50% 词重叠，目前 9 条叙事链均为 `emerging`（单天）。数据积累后叙事标题趋同会自然改善
 - **Fallback 模式叙事**：LLM 失败时 fallback 生成的叙事正文较模板化，不如 LLM 模式深度
 
 ---
@@ -659,6 +692,7 @@ data_json = json.dumps(graph_data, indent=2, ensure_ascii=False)
 
 | 版本 | 日期 | 变更内容 |
 |------|------|----------|
+| v3.12.0 | 2026-05-10 | **Pipeline 执行顺序 + Bug 修复**：① `generate_daily_summary` 移到 `build_graph_json` 之后（解决日视图数据为空） ② `build_llm_prompt` f-string `{narrative_title}` 转义修复 ③ `generate_daily_summary` 增加 LLM 输出后处理去重层 ④ `weekly_trends` 叙事链 `latest_type` 初始化修复 ⑤ 数据状态：329 节点，3053 边，3 天摘要存档 |
 | v3.11.1 | 2026-05-09 | **graph.html 模板注入修复**：① generate_graph_html() 优先使用 graph.html 并仅替换内嵌 JSON，不再用 graph_template.html 覆盖自定义 UI ② 恢复周视图全部功能（view-toggle、叙事卡片、折叠功能） ③ 数据同步到最新 graph.json（318 节点，2738 边） |
 | v3.11.0 | 2026-05-09 | **叙事→证据全链路修复**：① 叙事生成从硬编码模板改为动态生成（引用当天真实数据） ② 叙事→证据精确匹配（4 层策略：精确匹配→字符重叠→信号关键词→无匹配） ③ 证据按 title 去重（解决同文章多 ID 问题） ④ graph.json 标题去重（341→310 节点） ⑤ Pillar 分类优化（capabilities 关键词库扩展 + ×1.2 权重） ⑥ 噪音过滤层（is_noise 过滤促销/招聘/会议广告） ⑦ narrative→pillar 1:1 分配（assigned_narratives 集合） |
 | v3.10.1 | 2026-05-08 | 前端设计文档对齐：`graph_template.html` 浅色主题、窄屏底栏与节点详情 Bottom Sheet、设计 Token、无障碍与 `prefers-reduced-motion`、RSS 弱强调与中文 HUD 等 |
