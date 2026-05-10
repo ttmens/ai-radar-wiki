@@ -2014,10 +2014,22 @@
       return html;
     }
 
+    // Cache buster: 使用 graph.json 的 generated_at 作为版本号，同一天内命中浏览器缓存
+    function getCacheBuster() {
+      try {
+        var dataEl = document.getElementById('graph-data');
+        if (dataEl) {
+          var d = JSON.parse(dataEl.textContent);
+          return d.generated_at || new Date().toISOString().slice(0, 10);
+        }
+      } catch(e) {}
+      return new Date().toISOString().slice(0, 10);
+    }
+
     // 2A/B: Load weekly trends
     async function loadWeeklyTrends() {
       try {
-        const resp = await fetch('./weekly_trends.json?t=' + Date.now());
+        const resp = await fetch('./weekly_trends.json?v=' + getCacheBuster());
         if (resp.ok) {
           weeklyTrends = await resp.json();
         }
@@ -2201,15 +2213,20 @@
     // ===== 1. STRUCTURED DAILY SUMMARY =====
     async function renderStructuredSummary() {
       const container = document.getElementById('dash-content');
+      // P0 性能优化：如果数据已加载（并行 init 二次调用），跳过 fetch 直接渲染
+      var needFetch = !dailySummary;
       var summaryFromFallback = false;
-      try {
-        const resp = await fetch('./daily_summary.json?t=' + Date.now());
-        if (!resp.ok) throw new Error('Not found');
-        const summaryData = await resp.json();
-        dailySummary = summaryData.daily_summary;
-      } catch (e) {
-        dailySummary = generateFallbackSummary();
-        summaryFromFallback = true;
+
+      if (needFetch) {
+        try {
+          const resp = await fetch('./daily_summary.json?v=' + getCacheBuster());
+          if (!resp.ok) throw new Error('Not found');
+          const summaryData = await resp.json();
+          dailySummary = summaryData.daily_summary;
+        } catch (e) {
+          dailySummary = generateFallbackSummary();
+          summaryFromFallback = true;
+        }
       }
 
       if (!dailySummary) {
@@ -2459,9 +2476,12 @@
 
       const edges = new vis.DataSet(data.edges.map(e => {
         const isBelongsTo = e.type === 'BELONGS_TO' || e.relation === 'belongs_to';
+        const isKeyword = e.type === 'KEYWORD';
+        // P0 性能优化：隐藏 KEYWORD 概念边（占 93%），减少视觉噪音和物理计算
         return {
           from: e.source || e.from,
           to: e.target || e.to,
+          hidden: isKeyword,
           color: {
             color: isBelongsTo
               ? 'rgba(180, 140, 0, 0.4)'
@@ -2471,7 +2491,8 @@
           },
           width: isBelongsTo ? 1 : e.type === 'PILLAR' ? 1.5 : 0.5,
           smooth: { type: 'curvedCW', roundness: 0.1 },
-          _isBelongsTo: isBelongsTo
+          _isBelongsTo: isBelongsTo,
+          _isKeyword: isKeyword
         };
       }));
 
@@ -2547,7 +2568,7 @@
       network = new vis.Network(document.getElementById('mynetwork'), { nodes, edges }, {
         physics: {
           barnesHut: graphPhysicsBarnes,
-          stabilization: { iterations: 400, updateInterval: 50 }
+          stabilization: { iterations: 200, updateInterval: 25 }  // P0: 400→200 加速初始化
         },
         interaction: { hover: true, zoomView: true, dragView: true, dragNodes: true }
       });
@@ -3022,14 +3043,29 @@
     (async function init() {
       attachToggleListeners(); // Ensure buttons work
 
-      await renderStructuredSummary();
-      await loadWeeklyTrends(); // Phase 2
+      // P0 性能优化：先渲染图谱（数据已内联，无需等待），再并行加载摘要和趋势
       renderNetwork();
       applyMobileBriefDefaultLayout();
       setupMobileBriefSwipeToDismiss();
       syncHeaderHeight();
       requestAnimationFrame(syncHeaderHeight);
       syncPanelScrim();
+
+      // 并行 fetch 摘要和趋势（不阻塞图谱渲染）
+      Promise.allSettled([
+        renderStructuredSummary(),
+        loadWeeklyTrends()
+      ]).then(function(results) {
+        // 数据加载完后，如果周视图已打开则重新渲染
+        if (isWeekView && weeklyTrends) {
+          var weekContent = document.getElementById('week-view-content');
+          if (weekContent) renderWeekView(weekContent);
+        } else if (dailySummary && weeklyTrends) {
+          // 日视图：重新渲染以注入矛盾信号和生命周期标签
+          var dashContent = document.getElementById('dash-content');
+          if (dashContent && !isWeekView) renderStructuredSummary();
+        }
+      });
 
       document.addEventListener('keydown', function(ev) {
         if (ev.key !== 'Escape' || ev.defaultPrevented) return;
