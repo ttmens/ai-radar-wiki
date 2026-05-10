@@ -1,7 +1,7 @@
 # AI Radar 系统设计文档 (System Design Document)
 
-> **版本**: v3.12.0  
-> **最后更新**: 2026-05-10  
+> **版本**: v3.12.4  
+> **最后更新**: 2026-05-11  
 > **维护者**: Hermes Agent  
 
 > **在线地址**: https://ttmens.github.io/ai-radar-wiki/graph.html
@@ -365,7 +365,7 @@ all_edges = list(new_edges) + existing.edges
 | **正文** | `--ink` / `--body-ink`，次要文字 `--muted` 体系 |
 | **圆角** | `--radius-sm` 8px → `--radius-lg` 20px |
 | **阴影层级** | `--shadow-sm` / `--shadow-md` / `--shadow-lg`；桌面左栏与右侧详情以 **`shadow-md`** 为主，避免多层重阴影堆叠 |
-| **移动端再上提一层** | 节点详情底栏（modal 层）阴影略重于情报底栏；顶栏 RSS 为次要入口（`.header-rss` 灰阶弱强调，非主色满铺） |
+| **移动端再上提一层** | 节点详情底栏（modal 层）阴影略重于情报底栏；顶栏 **「订阅」** 使用与其它 `header-btn` 一致的主按钮样式；RSS 仅在订阅面板的「进阶」项中链接 `feed.xml` |
 
 ### 4.3 页面布局（桌面 vs 移动）
 
@@ -394,7 +394,7 @@ all_edges = list(new_edges) + existing.edges
 
 #### 无障碍与动效
 - **`prefers-reduced-motion: reduce`**：`#dashboard`、`#detail-panel`、`#legend`、FAB、主要按钮等 **transition 近似关闭**；骨架 pulse 关闭。
-- **RSS**：`title` + `aria-label` 标明订阅含义。
+- **订阅面板**：`#header-subscribe-btn` 打开 `#subscribe-panel`；**Escape** 与点击外部关闭。窄屏下面板为 **`position: fixed`**（`top: calc(var(--header-h) + 8px)`），避免顶栏 `overflow-x: auto` 裁切下拉层。
 
 ### 4.5 节点与边（vis-network）
 
@@ -413,7 +413,7 @@ all_edges = list(new_edges) + existing.edges
 | 区域 | 内容 |
 |------|------|
 | 品牌 | Logo（`nexsight-mark.svg`）+ **智瞰 NexSight** + 副标题 **面向产品经理的AI全景情报**（单行省略） |
-| RSS | 文案「RSS」，样式 **`.header-rss`**（次要灰阶按钮，非主色 CTA） |
+| 订阅 | **「订阅」** 按钮（`.header-btn`），展开含收藏链接、GitHub Watch、**RSS（feed.xml）**、邮件/微信说明 |
 | 统计 | 桌面：`N 节点` / `M 边`（中文）；窄屏：`#stats` 隐藏，由 HUD 展示 |
 | GitHub | Star / Fork（窄屏可缩为图标优先级） |
 
@@ -465,6 +465,20 @@ all_edges = list(new_edges) + existing.edges
   - ✅ 读取文件夹、创建文档、写入 Bitable、移动文件
   - ❌ 创建文件夹 (CDN 404)、删除文档 (无权限)
 
+### 5.3 公开访客订阅方式（RSS 与其它渠道）
+
+- **背景**: RSS 对非技术用户不友好；静态站无账号系统，「订阅」需拆成多种低门槛入口。
+- **站内实现**（`graph.html` / `graph_template.html`）:
+  - 顶栏 **「订阅」** 浮层：**复制本页链接**、书签/「添加到主屏幕」说明、**GitHub Watch** 说明与入口、`feed.xml` 链接（RSS，进阶）、邮件/微信说明指向本文档。
+  - **RSS** 入口并入「订阅」面板，不再单独占用顶栏（减少按钮数量）。
+- **可选扩展**（需运营或第三方，不改动核心数据管线也可逐步上线）:
+  | 方式 | 说明 |
+  |------|------|
+  | **邮件简报** | 通过 Formspree、Resend、Buttondown、MailerLite 等托管表单或 API 收集邮箱；Cron 或手工转発摘要链接。**密钥与 endpoint 不得写入仓库**。 |
+  | **微信公众号** | 菜单/自动回复/推文放 `graph.html` 或定制域名；内容由运营维护，本站仍为静态页。 |
+  | **Telegram Channel** | 每日转发 `feed.xml` 或早报链接，适合跨境读者。 |
+  | **飞书** | 与 §5.1 已存在之群内推送同源，面向团队而非匿名访客。 |
+
 ---
 
 ## 6. 安全与配置管理
@@ -493,6 +507,41 @@ DASHSCOPE_BASE_URL=https://coding.dashscope.aliyuncs.com/v1
 - **模板路径**: `~/ai-radar-wiki/graph_template.html`
 - **降级逻辑**: 模板不存在时，自动从 `graph.html` 提取并生成 `graph_template.html`
 - **自动创建目录**: `build_wiki_pages()` 启动时自动创建 `wiki/entities/`、`wiki/concepts/`、`daily-digest/`、`summary_archive/`
+- **图谱页数据写入（强制）**: 更新 `graph.html` 内图数据时，须使用仓库 **`tools/inject_graph_data.py`** 所实现的「**仅替换 `#graph-data` 内联 JSON**」方式，或与该脚本**逐行等价**的逻辑；详见 §6.4
+
+### 6.4 graph.html 注入规范（防「同步任务覆盖」线上 UI）
+
+#### 根因说明
+
+- **现象**: GitHub Pages 上 `graph.html` 的交互/UI 在 Cron 自动同步后**反复回退**，与本地或历史修复（如 **debd0e5**「仅更新内联 JSON、保留 graph.html 自定义 UI / 周视图逻辑」）不一致。
+- **原因**: Hermes 侧 `generate_graph_html()` 若仍采用 **`graph_template.html` 读入 → `{{DATA}}` 替换 → 整文件覆盖写入 `graph.html`**，则：
+  1. 任何**仅存在于** `graph.html`、尚未合并进 `graph_template.html` 的 JS/CSS 改动会被**抹掉**；
+  2. 若模板版本**落后于** `graph.html`，每次 **auto-sync / explorer** 推送都会在远程复现「回退」。
+- **结论**: **禁止**用模板整页覆盖已作为线上壳的 `graph.html`；**唯一安全的常规更新**是替换 **`<script id="graph-data" type="application/json">…</script>`** 内部的 JSON 正文。
+
+#### 规范（Hermes / 本地必须遵守）
+
+1. **默认路径**（`graph.html` 已存在且含 `id="graph-data"`）  
+   - 从 `graph.json` 序列化 JSON（`json.dumps(..., ensure_ascii=False, separators=(',', ':'))`，见 §9.3），经 **非法控制字符清理**（避免内联脚本解析失败，参见 **95f10bb** 一类问题）后，**仅替换**上述 script 标签内文本，**其余字节不动**。  
+   - 仓库提供可直接调用的参考实现：**`tools/inject_graph_data.py`**（支持 `--wiki-root`、`--dry-run`；推送前若刚改完模板、需要让 `graph.html` 与 **`graph_template.html` 完全对齐**，可本地执行一次 **`--from-template`**，仍由 `graph.json` 写入 `{{DATA}}`；**定时任务 / Hermes 日常同步不得使用该标志**，应继续用默认「仅替换 `#graph-data`」）。
+
+2. **Hermes 集成方式（二选一）**  
+   - **推荐**: `generate_graph_html()` 内 `subprocess.run` 调用  
+     `python3 ~/ai-radar-wiki/tools/inject_graph_data.py --wiki-root ~/ai-radar-wiki`  
+     便于与仓库行为锁定、可 diff。  
+   - **或**: 将 `inject_graph_data.py` 中 `inject_into_html` / `load_graph` 逻辑**内联**到 `ai_radar_explorer.py`，并保持与仓库脚本**行为一致**（评审时对照 diff）。
+
+3. **仅当 `graph.html` 不存在或缺少 `#graph-data` 时**  
+   - 允许**一次性**由 `graph_template.html` + `{{DATA}}` 生成首版 `graph.html`；之后长期仍须走 §6.4 规范 1。
+
+4. **防漂移**  
+   - 所有面向用户的 UI/逻辑修改应**优先写入 `graph_template.html`**，推送前在仓库根执行 **`python3 tools/inject_graph_data.py --from-template`**，使 `graph.html` 与模板一致、数据来自 `graph.json`。  
+   - **自动化任务不得**使用 `--from-template`，也不得用旧模板整页覆盖线上壳；日常仍只替换 JSON（规范 1）。
+
+#### 验收（deploy / 改 explorer 后）
+
+- 在仓库执行: `python3 tools/inject_graph_data.py --dry-run` 应返回 0。  
+- grep `generate_graph_html`：确认无「仅用 `graph_template` 整页写 `graph.html`」且未 `git pull` 最新模板的分支路径。
 
 ---
 
@@ -590,6 +639,69 @@ DASHSCOPE_BASE_URL=https://coding.dashscope.aliyuncs.com/v1
 - [ ] 中文字体本地化 (解决截图中文本方块问题)
 - [ ] 飞书告警推送 (健康检查告警)
 - [ ] 数据源扩展 (更多商业/生态数据源)
+- [ ] **图谱页加载性能优化**（见 §8.2.1：分阶段、明确风险；**勿在未评审前改动数据注入契约**，以免 Explorer / GitHub Pages / 定时任务链路异常）
+
+### 8.2.1 图谱页加载性能优化（待实现 · 方案与修改建议）
+
+> **背景**：`graph.html` 内联约 1MB 级 `{{DATA}}` + 同步 `JSON.parse`，`init()` 串行等待 `daily_summary.json` 与 `weekly_trends.json`，且 fetch 使用 `?t=Date.now()` 导致缓存失效；`<head>` 对整页 `no-cache`。上述组合拉长首屏可交互时间（TTI）。**下列方案按风险分层**：可先落低风险纯前端项；涉及「数据接口 / 注入方式 / graph.json 形态」的须与 `ai_radar_explorer.py`、回滚策略一并评审后再做。
+
+#### 现状摘要（便于对齐）
+
+| 因素 | 说明 |
+|------|------|
+| 内联图数据 | 与 `graph.json` 同量级 JSON 嵌入 HTML，首包大；`JSON.parse` 占用主线程 |
+| 初始化顺序 | `renderStructuredSummary()` → `loadWeeklyTrends()` → `renderNetwork()` 串行；图谱与摘要无硬依赖 |
+| 缓存 | `daily_summary` / `weekly_trends` 请求带时间戳查询参数，难以命中浏览器缓存 |
+| 整页缓存策略 | `no-cache` / `no-store` 使 HTML 难以复用；静态资源（如 `vis-network.min.js`）可独立长缓存 |
+| 节点体积 | `raw_content` 与 `summary` 等并存，放大 JSON；详情面板可改为按需加载以瘦身 |
+
+#### P0 — 低风险（**不改数据文件形态、不改 Explorer 注入契约**）
+
+仅改 `graph_template.html` / 同步到 `graph.html`，本地与 Pages 验证通过后上线。
+
+1. **并行化 `init()`**  
+   - **建议**：`Promise.all([renderStructuredSummary(), loadWeeklyTrends()])` 与 `renderNetwork()` **并行**，或 **先调用 `renderNetwork()`**，左栏摘要用骨架/占位后异步填充。  
+   - **目的**：消除「等两轮 fetch 才画图」的瀑布。  
+   - **注意**：若周视图首次渲染依赖 `weeklyTrends`，需确认 `renderStructuredSummary` 内对 `weeklyTrends` 的引用顺序；必要时「日视图先出、周视图切换时再拉/再渲染」。
+
+2. **弱化 fetch 缓存穿透**  
+   - **现状**：`'./daily_summary.json?t=' + Date.now()`（周趋势同理）每次唯一 URL。  
+   - **建议**：改为 **`?v=<构建版本>`**（由 Explorer 注入或令与 `graph.json` 同次 commit 的短 hash）、或去掉查询参数依赖 **ETag/Last-Modified**（依赖托管对 JSON 的响应头）。  
+   - **目的**：重复访问命中磁盘/HTTP 缓存，**不改变 JSON 路径与内容契约**。
+
+3. **分层缓存 meta（可选）**  
+   - **建议**：HTML 可维持较短 revalidate；对 **`vis-network.min.js`、`feed.xml`、版本化后的 `graph.json`**（若未来外置）使用 **长 `max-age` + 文件名/查询参数版本号**。  
+   - **目的**：减少重复下载脚本与子资源。
+
+#### P1 — 中风险（**可能触碰「页面如何拿到图数据」；须回归 Explorer 与注入脚本**）
+
+实施前在分支上完整跑通：`inject-only`、全量 explorer、GitHub Pages 预览、Hermes Cron 推送。
+
+1. **图数据外置 + 轻量壳页**  
+   - **建议**：HTML 仅保留壳与脚本；运行时 **`fetch('./graph.json')`**（或与站点同源的压缩格式，若托管支持）。注入脚本改为 **不写内联 JSON** 或 **双模式**（内联/外置开关，便于灰度）。  
+   - **收益**：首包缩小、下载可与脚本解析并行；可单独缓存 `graph.json`。  
+   - **风险**：首屏白屏时间取决于二次请求；需错误处理与 CORS/路径一致性；**须更新 `generate_graph_html()` 与文档 §9.3**。
+
+2. **主线程减负**  
+   - **建议**：大块 `JSON.parse` 或 DataSet 构建放入 **Web Worker**（或分片 `parse`），主线程只做 `postMessage` 结果挂载。  
+   - **风险**：与 vis-network 的数据结构对接、调试复杂度上升。
+
+#### P2 — 高收益 / 高改动（**Pipeline + 前端契约**）
+
+1. **「列表图」与「详情」分离**  
+   - **建议**：生成 **`graph-lite.json`（或裁剪字段的 `graph.json`**）：布局与列表所需字段保留；**去掉或缩短 `raw_content`**。用户打开节点详情时再 **`fetch`** 单页 Markdown/JSON（如 `wiki/entities/xxx.md` 或专用 API）。  
+   - **收益**：显著降低传输与 parse 成本。  
+   - **风险**：`showPanel` / 离线打开逻辑须改；Explorer `build_graph_json` 需增加产物或裁剪步骤；**必须**端到端测试。
+
+2. **vis-network 按需加载**  
+   - **建议**：首屏后用动态 `import` 或 `defer` 脚本chunk再 `renderNetwork`。  
+   - **风险**：首屏闪烁、加载失败重试；弱网体验需设计。
+
+#### 验收建议（任一发版）
+
+- Lighthouse / Performance：FCP、TTI、Main-thread 时间；弱网 3G 节流  
+- 冷启动与**二次进入**（验证缓存策略）  
+- 左侧摘要 / 周视图 / 节点详情 / RSS 链接无回归
 
 ### 8.3 已知问题/限制 ⚠️
 - 飞书 API 无法创建文件夹和删除文档
@@ -608,7 +720,7 @@ DASHSCOPE_BASE_URL=https://coding.dashscope.aliyuncs.com/v1
 ### 9.1 前端修改流程
 1. 修改 `graph_template.html` (纯 HTML/CSS/JS)
 2. 本地测试: `cd ~/ai-radar-wiki && python3 -m http.server 8080`
-3. 运行数据注入: `python3 explorer.py --inject-only`
+3. 运行数据注入: `python3 tools/inject_graph_data.py`（或 Hermes 等价逻辑）；勿用整页模板覆盖 `graph.html`（§6.4）
 4. 验证 `graph.html` 输出（JSON 合法性检查）
 5. Git Commit + Push
 
@@ -622,8 +734,11 @@ DASHSCOPE_BASE_URL=https://coding.dashscope.aliyuncs.com/v1
 ### 9.3 JSON 注入规则
 ```python
 # ✅ 正确：使用 json.dumps 序列化
-data_json = json.dumps(graph_data, ensure_ascii=False)
+data_json = json.dumps(graph_data, ensure_ascii=False, separators=(',', ':'))
 html = html_template.replace("{{DATA}}", data_json)
+
+# ✅ graph.html 已存在时：禁止整页覆盖；应只替换 #graph-data 内联 JSON（见 §6.4、tools/inject_graph_data.py）
+# html = inject_into_html(existing_graph_html, data_json)
 
 # ❌ 错误：直接嵌入格式化 JSON（包含控制字符）
 data_json = json.dumps(graph_data, indent=2, ensure_ascii=False)
@@ -636,6 +751,7 @@ data_json = json.dumps(graph_data, indent=2, ensure_ascii=False)
 - 定时任务 → 更新 Section 5
 - 安全配置 → 更新 Section 6
 - 需求清单 → 更新 Section 8
+- 图谱页性能与缓存策略 → 更新 Section 8.2.1（**动数据契约须与 Explorer/注入流程一并评审**）
 
 ---
 
@@ -661,7 +777,9 @@ data_json = json.dumps(graph_data, indent=2, ensure_ascii=False)
 ├── graph.html              # 最终部署文件 (数据已注入)
 ├── graph_template.html     # 前端模板 (开发用, 含 {{DATA}} 占位符)
 ├── graph.json              # 图谱数据 (节点/边)
-├── vis-network.min.js      # 本地化图谱渲染库
+├── tools/
+│   └── inject_graph_data.py  # 仅替换 graph.html 内 #graph-data JSON（防 Cron 覆盖 UI）
+├── vis-network.min.js      # 本地化图谱渲染库（或见 assets/）
 ├── wiki/                   # Markdown 知识库
 │   ├── entities/           # 实体页面 (GitHub/HN/TC 等)
 │   └── concepts/           # 概念页面 (arXiv 论文)
@@ -692,6 +810,10 @@ data_json = json.dumps(graph_data, indent=2, ensure_ascii=False)
 
 | 版本 | 日期 | 变更内容 |
 |------|------|----------|
+| v3.12.4 | 2026-05-11 | **UI**：顶栏「跟进」改为「订阅」、移除独立 RSS 按钮（RSS 留在订阅面板）；订阅按钮与顶栏 `header-btn` 统一样式；窄屏订阅面板改为 `fixed` 避免被顶栏横向滚动裁切 |
+| v3.12.3 | 2026-05-11 | **跟进/订阅**：顶栏「跟进」浮层（复制链接、GitHub Watch、RSS、邮件/微信说明）；DESIGN §5.3 列可选邮件/公众号/Telegram 等扩展路径 |
+| v3.12.2 | 2026-05-11 | **防覆盖**: 新增 `tools/inject_graph_data.py`（仅替换 `graph.html` 内 `#graph-data` JSON）；新增 §6.4 说明 debd0e5 根因与 Hermes `generate_graph_html` 强制规范 |
+| v3.12.1 | 2026-05-11 | **文档**：§8.2 新增「图谱页加载性能优化」待办；新增 §8.2.1（分 P0/P1/P2 的修改建议、风险与验收；**明确不得在未评审前擅自改数据注入契约**） |
 | v3.12.0 | 2026-05-10 | **Pipeline 执行顺序 + Bug 修复**：① `generate_daily_summary` 移到 `build_graph_json` 之后（解决日视图数据为空） ② `build_llm_prompt` f-string `{narrative_title}` 转义修复 ③ `generate_daily_summary` 增加 LLM 输出后处理去重层 ④ `weekly_trends` 叙事链 `latest_type` 初始化修复 ⑤ 数据状态：329 节点，3053 边，3 天摘要存档 |
 | v3.11.1 | 2026-05-09 | **graph.html 模板注入修复**：① generate_graph_html() 优先使用 graph.html 并仅替换内嵌 JSON，不再用 graph_template.html 覆盖自定义 UI ② 恢复周视图全部功能（view-toggle、叙事卡片、折叠功能） ③ 数据同步到最新 graph.json（318 节点，2738 边） |
 | v3.11.0 | 2026-05-09 | **叙事→证据全链路修复**：① 叙事生成从硬编码模板改为动态生成（引用当天真实数据） ② 叙事→证据精确匹配（4 层策略：精确匹配→字符重叠→信号关键词→无匹配） ③ 证据按 title 去重（解决同文章多 ID 问题） ④ graph.json 标题去重（341→310 节点） ⑤ Pillar 分类优化（capabilities 关键词库扩展 + ×1.2 权重） ⑥ 噪音过滤层（is_noise 过滤促销/招聘/会议广告） ⑦ narrative→pillar 1:1 分配（assigned_narratives 集合） |
