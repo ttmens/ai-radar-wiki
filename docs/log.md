@@ -352,3 +352,7 @@
 ## [2026-05-10 12:03] sync v3 | 2 new | pillars: {'unknown': 1, 'patterns': 1}
 - create: france-moves-to-break-encrypted-messaging.md
 - create: voice-ai-in-india-is-hard-wispr-flow-is-betting-o.md
+
+## [2026-05-10 18:05] sync v3 | 2 new | pillars: {'capabilities': 1, 'unknown': 1}
+- create: gemini-api-file-search-is-now-multimodal.md
+- create: metas-embrace-of-ai-is-making-its-employees-miser.md

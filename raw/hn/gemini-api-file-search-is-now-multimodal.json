@@ -1,0 +1,27 @@
+{
+  "title": "Gemini API File Search is now multimodal",
+  "score": 93,
+  "comments": 13,
+  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+  "hn_url": "https://news.ycombinator.com/item?id=48080702",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "multimodal"
+  ],
+  "summary_cn": "谷歌Gemini API的File Search功能现已支持多模态检索，开发者可直接对图像、音频、视频及文档进行统一索引与语义搜索。该更新大幅降低了构建跨媒体RAG应用的技术门槛，无需额外部署多模态解析管线。对AI产品经理而言，这意味着可快速打造支持富媒体知识库的智能助手，显著提升信息召回率与用户体验，加速多模态AI产品的商业化落地。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Multimodal Retrieval",
+    "RAG Architecture",
+    "API-First AI"
+  ],
+  "entities": [
+    "Google",
+    "Gemini API"
+  ],
+  "patterns": [
+    "RAG Pattern",
+    "Multimodal Search"
+  ]
+}

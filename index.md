@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-10 | Total pages: 279
+> Last updated: 2026-05-10 | Total pages: 281
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -19,6 +19,7 @@
 - [[deepspeedaideepspeed.md]] deepspeedai/DeepSpeed `pillar:capabilities` `score:0.615`
 - [[docling-projectdocling.md]] docling-project/docling `pillar:capabilities` `score:0.615`
 - [[geeeekexplorernano-vllm.md]] GeeeekExplorer/nano-vllm `pillar:capabilities` `score:0.58`
+- [[gemini-api-file-search-is-now-multimodal.md]] Gemini API File Search is now multimodal `pillar:capabilities` `score:0.38`
 - [[google-ai-edgemediapipe.md]] google-ai-edge/mediapipe `pillar:capabilities` `score:0.615`
 - [[googlemagika.md]] google/magika `pillar:capabilities` `score:0.58`
 - [[hacksiderdeep-live-cam.md]] hacksider/Deep-Live-Cam `pillar:capabilities` `score:0.58`
@@ -267,6 +268,7 @@
 - [[mage-aimage-ai.md]] mage-ai/mage-ai `pillar:business` `score:0.355`
 - [[mathfoundationrlbook-mathematical-foundation-of-reinforcement-learning.md]] MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning `pillar:business` `score:0.405`
 - [[meta-shuts-down-end-to-end-encryption-for-instagra.md]] Meta Shuts Down End-to-End Encryption for Instagram Messaging `pillar:business` `score:0.375`
+- [[metas-embrace-of-ai-is-making-its-employees-miser.md]] Meta's embrace of AI is making its employees miserable `pillar:business` `score:0.455`
 - [[microsoftai-for-beginners.md]] microsoft/AI-For-Beginners `pillar:business` `score:0.405`
 - [[mintplex-labsanything-llm.md]] Mintplex-Labs/anything-llm `pillar:business` `score:0.405`
 - [[nvidia-has-already-committed-40b-to-equity-ai-dea.md]] Nvidia has already committed $40B to equity AI deals this year `pillar:business` `score:0.48`
