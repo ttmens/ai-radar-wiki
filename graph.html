@@ -2195,36 +2195,8 @@
       }));
 
       network = new vis.Network(document.getElementById('mynetwork'), { nodes, edges }, {
-        physics: {
-          enabled: true,
-          barnesHut: {
-            gravitationalConstant: -2000,
-            springLength: 120,
-            springConstant: 0.1,
-            damping: 0.4
-          },
-          stabilization: {
-            iterations: 500,
-            fit: true
-          }
-        },
+        physics: { barnesHut: { gravitationalConstant: -3000, springLength: 150, springConstant: 0.04 }, stabilization: { iterations: 200 } },
         interaction: { hover: true, zoomView: true, dragView: true, dragNodes: true }
-      });
-
-      // 稳定后关闭物理引擎，消除节点抖动
-      network.once('afterDrawing', function() {
-        setTimeout(function() {
-          network.setOptions({ physics: { enabled: false } });
-        }, 1000);
-        
-        // 备选：如果 stabilizationIterationsDone 未触发，也在 3 秒后隐藏 loading
-        const loadingOverlay = document.getElementById('graph-loading-overlay');
-        if (loadingOverlay) {
-          setTimeout(() => {
-            loadingOverlay.style.opacity = '0';
-            setTimeout(() => loadingOverlay.remove(), 300);
-          }, 3000);
-        }
       });
 
       function handleNetworkTap(params) {
@@ -2249,12 +2221,6 @@
       });
 
       network.once('stabilizationIterationsDone', function() {
-        // 隐藏 loading overlay
-        const loadingOverlay = document.getElementById('graph-loading-overlay');
-        if (loadingOverlay) {
-          loadingOverlay.style.opacity = '0';
-          setTimeout(() => loadingOverlay.remove(), 300);
-        }
         requestAnimationFrame(runInitialGraphCameraOnce);
       });
       setTimeout(function() {
@@ -2636,23 +2602,6 @@
 
     // ===== INIT =====
     (async function init() {
-      // 显示 loading 状态 — 使用 CSS 控制 overlay，不修改 #mynetwork 的 position
-      const networkEl = document.getElementById('mynetwork');
-      const loadingEl = document.createElement('div');
-      loadingEl.id = 'graph-loading-overlay';
-      loadingEl.innerHTML = '<div class="loading-spinner"></div><div class="loading-text">正在加载图谱...</div>';
-      loadingEl.style.cssText = 'position:fixed;top:0;left:0;right:0;bottom:0;display:flex;flex-direction:column;align-items:center;justify-content:center;background:var(--graph-canvas,#ebebeb);z-index:1000;transition:opacity 0.3s;';
-      document.body.appendChild(loadingEl);
-
-      // 添加 loading 样式
-      const style = document.createElement('style');
-      style.textContent = `
-        @keyframes spin { to { transform: rotate(360deg); } }
-        .loading-spinner { width: 40px; height: 40px; border: 3px solid var(--hairline, #ddd); border-top-color: var(--rausch, #ff385c); border-radius: 50%; animation: spin 1s linear infinite; }
-        .loading-text { margin-top: 12px; font-size: 14px; color: var(--muted, #666); }
-      `;
-      document.head.appendChild(style);
-
       attachToggleListeners(); // Ensure buttons work
 
       await renderStructuredSummary();
