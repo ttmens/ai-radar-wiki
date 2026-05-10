@@ -356,3 +356,9 @@
 ## [2026-05-10 18:05] sync v3 | 2 new | pillars: {'capabilities': 1, 'unknown': 1}
 - create: gemini-api-file-search-is-now-multimodal.md
 - create: metas-embrace-of-ai-is-making-its-employees-miser.md
+
+## [2026-05-11 00:05] sync v3 | 4 new | pillars: {'unknown': 3, 'business': 1}
+- create: task-paralysis-and-ai.md
+- create: llmorphism-when-humans-come-to-see-themselves-as.md
+- create: openaicom-was-once-the-personal-homepage-of-a-g.md
+- create: were-feeling-cynical-about-xais-big-deal-with-an.md

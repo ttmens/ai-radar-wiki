@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-10 | Total pages: 281
+> Last updated: 2026-05-11 | Total pages: 285
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -207,6 +207,7 @@
 - [[komai-a-fine-matrix-chat-app-you-can-get-to-love.md]] Komai: a fine Matrix chat app you can get to love `pillar:ecosystem` `score:0.345`
 - [[langchain-ailanggraph.md]] langchain-ai/langgraph `pillar:ecosystem` `score:0.405`
 - [[langfuselangfuse.md]] langfuse/langfuse `pillar:ecosystem` `score:0.615`
+- [[llmorphism-when-humans-come-to-see-themselves-as.md]] LLMorphism: When humans come to see themselves as language models `pillar:ecosystem` `score:0.43`
 - [[lukasmasuchbest-of-ml-python.md]] lukasmasuch/best-of-ml-python `pillar:ecosystem` `score:0.58`
 - [[lutzroedernetron.md]] lutzroeder/netron `pillar:ecosystem` `score:0.58`
 - [[mempalacemempalace.md]] MemPalace/mempalace `pillar:ecosystem` `score:0.63`
@@ -272,6 +273,7 @@
 - [[microsoftai-for-beginners.md]] microsoft/AI-For-Beginners `pillar:business` `score:0.405`
 - [[mintplex-labsanything-llm.md]] Mintplex-Labs/anything-llm `pillar:business` `score:0.405`
 - [[nvidia-has-already-committed-40b-to-equity-ai-dea.md]] Nvidia has already committed $40B to equity AI deals this year `pillar:business` `score:0.48`
+- [[openaicom-was-once-the-personal-homepage-of-a-g.md]] "openai.com" was once the personal homepage of a guy named glenn `pillar:business` `score:0.155`
 - [[openais-webrtc-problem.md]] OpenAI's WebRTC problem `pillar:business` `score:0.305`
 - [[openhandsopenhands.md]] OpenHands/OpenHands `pillar:business` `score:0.405`
 - [[photoprismphotoprism.md]] photoprism/photoprism `pillar:business` `score:0.405`
@@ -283,11 +285,13 @@
 - [[spacex-may-spend-up-to-119b-on-8216terafab82.md]] SpaceX may spend up to $119B on &#8216;Terafab&#8217; chip factory in Texas `pillar:business` `score:0.1`
 - [[spotify8217s-ai-dj-now-supports-french-german.md]] Spotify&#8217;s AI DJ now supports French, German, Italian and Brazilian Portugu `pillar:business` `score:0.33`
 - [[streamlitstreamlit.md]] streamlit/streamlit `pillar:business` `score:0.405`
+- [[task-paralysis-and-ai.md]] Task Paralysis and AI `pillar:business` `score:0.355`
 - [[teaching-claude-why.md]] Teaching Claude Why `pillar:business` `score:0.305`
 - [[tesla-model-y-passes-nhtsas-new-advanced-driver.md]] Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests `pillar:business` `score:0.255`
 - [[the-peoples-airline-and-the-enterprise-ai-gold.md]] The “people’s airline” and the enterprise AI gold rush `pillar:business` `score:0.48`
 - [[tinder-owner-match-group-is-slowing-hiring-to-pay.md]] Tinder owner Match Group is slowing hiring to pay for its increased use of AI to `pillar:business` `score:0.15`
 - [[wasmedgewasmedge.md]] WasmEdge/WasmEdge `pillar:business` `score:0.405`
+- [[were-feeling-cynical-about-xais-big-deal-with-an.md]] We’re feeling cynical about xAI’s big deal with Anthropic `pillar:business` `score:0.305`
 - [[why-you-can-never-get-your-doctor-to-call-you-back.md]] Why you can never get your doctor to call you back `pillar:business` `score:0.48`
 - [[zhulinsendaily_stock_analysis.md]] ZhuLinsen/daily_stock_analysis `pillar:business` `score:0.405`
 
