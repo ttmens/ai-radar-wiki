@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 10 May 2026 08:00:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 12:00:39 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -69,12 +69,36 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>Meta's embrace of AI is making its employees miserable</title>
+      <link>https://news.ycombinator.com/item?id=48077126</link>
+      <guid isPermaLink="false">metas-embrace-of-ai-is-making-its-employees-miser</guid>
+      <pubDate>2026-05-10T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Meta's embrace of AI is making its employees miserable</title>
+      <link>https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html</link>
+      <guid isPermaLink="false">metas-embrace-of-ai-is-making-its-emplo</guid>
+      <pubDate>2026-05-10T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，393 分，430 条评论</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning</title>
       <link>https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning</link>
       <guid isPermaLink="false">mathfoundationrlbook-mathematical-foundation-of-reinforcement-learning</guid>
       <pubDate>2026-05-10T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> github</p><hr/><p>This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Gemini API File Search is now multimodal</title>
+      <link>https://news.ycombinator.com/item?id=48080702</link>
+      <guid isPermaLink="false">gemini-api-file-search-is-now-multimodal</guid>
+      <pubDate>2026-05-10T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>谷歌Gemini API的File Search功能现已支持多模态检索，开发者可直接对图像、音频、视频及文档进行统一索引与语义搜索。该更新大幅降低了构建跨媒体RAG应用的技术门槛，无需额外部署多模态解析管线。对AI产品经理而言，这意味着可快速打造支持富媒体知识库的智能助手，显著提升信息召回率与用户体验，加速多模态AI产品的商业化落地。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>LLMs Corrupt Your Documents When You Delegate</title>
@@ -386,30 +410,6 @@
       <guid isPermaLink="false">actcam-zero-shot-joint-camera-and-3d-motion-control-for-vid</guid>
       <pubDate>2026-05-08T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>ActCam提出零样本视频生成技术，可联合控制角色3D动作与摄像机运镜。仅需驱动视频即可将表演精准迁移至新场景，无需微调。该技术为AI视频产品提供“动作+运镜”双维度精细化控制，大幅降低影视级内容创作门槛。零样本特性便于快速集成至现有生成平台，显著提升短视频、虚拟制片及游戏动画的生产效率，具备明确的商业化落地价值。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>AI Co-Mathematician: Accelerating Mathematicians with Agentic AI</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">ai-co-mathematician-accelerating-mathematicians-with-agenti</guid>
-      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出“AI合作数学家”工作台，基于Agentic AI架构，专为数学研究的探索性与迭代性流程设计。其核心创新在于将AI升级为“人机协同”伙伴，深度支持灵感激发与文献梳理等开放工作流。对PM而言，该方案展示了如何针对高复杂度场景构建交互式Agent工作流，具备向科研研发等高价值领域复制的商业潜力，为专家级AI产品设计提供范式。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>BAMI: Training-Free Bias Mitigation in GUI Grounding</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">bami-training-free-bias-mitigation-in-gui-grounding</guid>
-      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>BAMI提出免训练的GUI定位偏差缓解技术，通过掩码预测分布机制，无需微调即可显著提升智能体在复杂界面中的点击与拖拽准确率。该方案以插件形式无缝接入现有模型，大幅降低算力与标注成本，缩短落地周期。对PM而言，它直接提升了GUI自动化产品的鲁棒性与用户体验，为构建高可靠性的智能助手提供了低成本、即插即用的底层能力支撑。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>UniPool: A Globally Shared Expert Pool for Mixture-of-Experts</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">unipool-a-globally-shared-expert-pool-for-mixture-of-expert</guid>
-      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>UniPool提出全局共享专家池架构，打破传统MoE每层独立专家的刚性限制。该技术实现专家资源跨层复用，解耦模型深度与参数量的线性增长，显著提升参数利用率与计算效率。对AI产品经理而言，这意味着同等算力下可部署更深更强的模型，大幅压降训练与推理成本，为构建高性价比、易扩展的大模型服务提供底层架构创新，具备明确的工程落地与商业化降本价值。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
