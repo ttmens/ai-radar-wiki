@@ -1666,42 +1666,24 @@ def generate_graph_html(graph_data):
     clean_data = _strip_illegal_controls(graph_data)
     data_json = json.dumps(clean_data, ensure_ascii=False, separators=(',', ':'))
     
-    # Strategy: prefer graph.html (preserves custom UI), only replace JSON data.
-    # Fall back to graph_template.html only if graph.html doesn't exist.
-    
-    if os.path.exists(graph_html_path):
-        # Replace only the JSON data inside <script id="graph-data"> tag
-        # Pattern: everything between the opening and closing script tags
-        import re
-        pattern = re.compile(r'(<script id="graph-data" type="application/json">)(.*?)(</script>)', re.DOTALL)
-        html_content = open(graph_html_path).read()
-        match = pattern.search(html_content)
-        if match:
-            # CRITICAL: use lambda to avoid re.sub backslash interpretation (\\n → literal newline)
-            new_html = pattern.sub(lambda m: m.group(1) + data_json + m.group(3), html_content, count=1)
-            with open(graph_html_path, "w") as f:
-                f.write(new_html)
-            print(f"  ✅ graph.html data updated: {len(graph_data['nodes'])} nodes, {len(graph_data['edges'])} edges (UI preserved)")
-            return graph_html_path
-        else:
-            print(f"  ⚠️ graph.html exists but missing graph-data script tag, falling back to template")
-    
-    # Fallback: generate from template
+    # ALWAYS regenerate from template — graph_template.html is the single source of truth for UI.
+    # The old "prefer graph.html, only replace JSON" logic was a bug: template CSS/HTML updates
+    # were silently ignored because graph.html always existed. Fix v3.13.0.
     if not os.path.exists(template_path):
         print(f"  ⚠️ graph_template.html not found at {template_path}")
         return
-    
+
     with open(template_path) as f:
         html_template = f.read()
-    
+
     if "{{DATA}}" not in html_template:
-        print(f"  ⚠️ graph_template.html missing {{DATA}} placeholder")
+        print(f"  ⚠️ graph_template.html missing {{DATA}} placeholder — cannot generate")
         return
-    
+
     html = html_template.replace("{{DATA}}", data_json)
     with open(graph_html_path, "w") as f:
         f.write(html)
-    print(f"  ✅ graph.html generated from template: {len(graph_data['nodes'])} nodes, {len(graph_data['edges'])} edges")
+    print(f"  ✅ graph.html regenerated from template: {len(graph_data['nodes'])} nodes, {len(graph_data['edges'])} edges")
     return graph_html_path
 
 

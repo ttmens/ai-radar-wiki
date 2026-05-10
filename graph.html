@@ -123,6 +123,15 @@
     letter-spacing: -0.03em;
     min-width: 0;
     line-height: 1.2;
+    margin: 0;
+  }
+  /* 桌面/通用：品牌区可伸缩；窄屏下由 media query 开启横向滚动，避免整栏 overflow 吞掉按钮 click */
+  .header-brand-scroll {
+    flex: 1 1 auto;
+    min-width: 0;
+    display: flex;
+    align-items: center;
+    overflow: visible;
   }
   #header h1 .header-brand-block {
     display: flex;
@@ -219,18 +228,105 @@
     background: var(--surface-soft);
     border-color: var(--border-strong);
   }
-  /* RSS：次要入口，避免与主视觉同色强调 */
-  .header-rss {
-    font-weight: 500;
-    background: var(--surface-soft);
-    border: 1px solid var(--hairline-soft);
-    color: var(--muted);
-    box-shadow: none;
+
+  .subscribe-wrap {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    flex-shrink: 0;
   }
-  .header-rss:hover {
-    background: var(--surface-strong);
+  #header-subscribe-btn[aria-expanded="true"] {
+    background: var(--surface-soft);
+    border-color: var(--border-strong);
+  }
+  .subscribe-panel {
+    position: absolute;
+    top: calc(100% + 8px);
+    right: 0;
+    width: min(320px, calc(100vw - 24px));
+    padding: 14px 16px;
+    background: var(--panel-bg);
+    border: 1px solid var(--hairline-soft);
+    border-radius: var(--radius-md, 14px);
+    box-shadow: var(--shadow-lg);
+    z-index: 200;
+    text-align: left;
+  }
+  .subscribe-panel[hidden] {
+    display: none !important;
+  }
+  .subscribe-panel-title {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--ink);
+    margin: 0 0 10px;
+  }
+  .subscribe-row {
+    padding: 10px 0;
+    border-top: 1px solid var(--hairline-soft);
+    font-size: 12px;
+    line-height: 1.45;
     color: var(--body-ink);
-    border-color: var(--hairline);
+  }
+  .subscribe-row:first-of-type {
+    border-top: none;
+    padding-top: 0;
+  }
+  .subscribe-row p {
+    margin: 0 0 8px;
+    color: var(--muted);
+    font-size: 11px;
+  }
+  .subscribe-row .action-link {
+    display: inline-block;
+    margin-top: 4px;
+    font-size: 12px;
+    color: var(--legal-link);
+    text-decoration: none;
+    font-weight: 500;
+  }
+  .subscribe-row .action-link:hover {
+    text-decoration: underline;
+  }
+  .subscribe-copy-btn {
+    width: 100%;
+    margin-top: 4px;
+    padding: 8px 12px;
+    border-radius: var(--radius-sm, 8px);
+    border: 1px solid var(--hairline);
+    background: var(--canvas);
+    color: var(--ink);
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+    font-family: inherit;
+  }
+  .subscribe-copy-btn:hover {
+    background: var(--surface-soft);
+  }
+  #subscribe-toast {
+    position: fixed;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%) translateY(12px);
+    padding: 10px 18px;
+    background: var(--ink);
+    color: #fff;
+    font-size: 13px;
+    border-radius: 999px;
+    opacity: 0;
+    pointer-events: none;
+    z-index: 300;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+  }
+  #subscribe-toast.show {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+  @media (prefers-reduced-motion: reduce) {
+    #subscribe-toast {
+      transition: none;
+    }
   }
 
   /* Dashboard 标题区：Linear 式分段 + Airbnb 留白/圆角 */
@@ -550,6 +646,11 @@
   /* Narrative Details in Week View */
   .narrative-detail { font-size: 10px; color: var(--text-quaternary); margin-top: 4px; padding-left: 8px; border-left: 1px solid var(--border); }
   .narrative-detail-item { margin-bottom: 2px; }
+  .narrative-detail-item--clickable { cursor: pointer; }
+  .narrative-detail-item--clickable:hover { color: var(--text-secondary); }
+  .narrative-chain-week-details { margin-top: 4px; }
+  .narrative-chain-week-details > summary { user-select: none; list-style: none; }
+  .narrative-chain-week-details > summary::-webkit-details-marker { display: none; }
   .narrative-detail-date { color: var(--text-tertiary); margin-right: 4px; font-family: monospace; }
   .expand-chain-btn { font-size: 9px; color: var(--rausch); cursor: pointer; margin-left: 8px; text-decoration: underline; }
   .week-controls .header-btn.active { background: var(--rausch); color: #fff; border-color: var(--rausch); }
@@ -557,6 +658,7 @@
   .contradiction-box { background: rgba(240, 136, 62, 0.08); border: 1px solid rgba(240, 136, 62, 0.3); border-radius: 6px; padding: 10px; margin-bottom: 12px; }
   .contradiction-title { font-size: 12px; font-weight: 600; color: #f0883e; margin-bottom: 4px; }
   .contradiction-item { font-size: 11px; color: var(--text-secondary); line-height: 1.4; }
+  .contradiction-dates { color: var(--text-quaternary); font-size: 10px; font-weight: 400; }
   
   .lifecycle-badge { font-size: 11px; background: var(--surface-soft); padding: 3px 8px; border-radius: var(--radius-full); color: var(--muted); margin-left: 8px; white-space: nowrap; border: 1px solid var(--hairline-soft); }
   
@@ -606,6 +708,53 @@
 
   .week-stat-card { background: var(--canvas); border-radius: var(--radius-md); padding: 14px; margin-bottom: 12px; border: 1px solid var(--hairline-soft); box-shadow: var(--shadow-sm); }
   .week-stat-title { font-size: 12px; font-weight: 600; margin-bottom: 8px; color: var(--text-primary); }
+  .week-stat-title--row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .week-narrative-chain-actions {
+    display: inline-flex;
+    align-items: center;
+    gap: 0;
+    margin-left: auto;
+    flex-shrink: 0;
+  }
+  .week-narrative-chain-action-sep {
+    color: var(--text-quaternary);
+    font-size: 10px;
+    line-height: 1;
+    padding: 0 5px;
+    user-select: none;
+    opacity: 0.65;
+    pointer-events: none;
+  }
+  .week-narrative-chain-action-btn {
+    font: inherit;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 1.35;
+    letter-spacing: 0.03em;
+    padding: 2px 5px;
+    margin: 0;
+    border: none;
+    border-radius: 4px;
+    background: transparent;
+    color: var(--text-quaternary);
+    cursor: pointer;
+    white-space: nowrap;
+    transition: color 0.12s ease, background 0.12s ease;
+  }
+  .week-narrative-chain-action-btn:hover {
+    color: var(--text-tertiary);
+    background: rgba(0, 0, 0, 0.035);
+  }
+  .week-narrative-chain-action-btn:focus-visible {
+    outline: 2px solid var(--rausch);
+    outline-offset: 1px;
+  }
   .week-stat-row { display: flex; justify-content: space-between; font-size: 12px; color: var(--text-secondary); padding: 6px 0; border-bottom: 1px dashed var(--hairline); }
   .week-stat-row:last-child { border-bottom: none; }
   .week-chain { font-size: 11px; margin-bottom: 6px; padding-left: 10px; border-left: 2px solid var(--accent-bg); }
@@ -1245,18 +1394,23 @@
       line-height: 1.3;
     }
 
-    /* 顶栏单行：标题 + 控件横滑，统计改到 graph-stats-hud */
+    /* 顶栏：仅品牌区横向滚动，#header-controls 不参与滚动，避免 WebKit 把触摸吞给 scroll 导致按钮无响应 */
     #header {
       flex-wrap: nowrap;
+      overflow-x: visible;
+      overflow-y: visible;
+      gap: 8px;
+      box-shadow: var(--shadow-sm), inset -20px 0 18px -14px rgba(255, 255, 255, 0.92);
+    }
+    .header-brand-scroll {
       overflow-x: auto;
       overflow-y: hidden;
       -webkit-overflow-scrolling: touch;
       scrollbar-width: none;
-      gap: 8px;
-      /* 右侧内阴影暗示可横向滑动查看更多操作 */
-      box-shadow: var(--shadow-sm), inset -20px 0 18px -14px rgba(255, 255, 255, 0.92);
+      flex: 1 1 auto;
+      min-width: 0;
     }
-    #header::-webkit-scrollbar { display: none; }
+    .header-brand-scroll::-webkit-scrollbar { display: none; }
     #header h1 {
       flex: 1 1 auto;
       min-width: 0;
@@ -1274,6 +1428,20 @@
       flex-wrap: nowrap;
       margin-left: auto;
       gap: 6px;
+      touch-action: manipulation;
+      -webkit-tap-highlight-color: transparent;
+    }
+    /* 窄屏：顶栏 overflow-x 会裁切 absolute 下拉；改为 fixed 贴在标题栏下方 */
+    .subscribe-panel {
+      position: fixed;
+      left: max(12px, var(--safe-left));
+      right: max(12px, var(--safe-right));
+      top: calc(var(--header-h) + 8px);
+      width: auto;
+      max-height: min(72vh, 520px);
+      overflow-y: auto;
+      -webkit-overflow-scrolling: touch;
+      z-index: 220;
     }
     #stats { display: none !important; }
     .graph-stats-hud {
@@ -1497,8 +1665,7 @@
     .github-btn,
     .dash-close-btn--icon,
     .panel-close,
-    .header-btn,
-    .header-rss {
+    .header-btn {
       transition-duration: 0.01ms !important;
       transition-delay: 0s !important;
     }
@@ -1517,6 +1684,7 @@
 
   <!-- Header -->
   <div id="header">
+    <div class="header-brand-scroll">
     <h1>
       <span class="header-brand-block">
         <img class="brand-mark" src="./assets/nexsight-mark.svg" width="30" height="30" alt="" decoding="async" aria-hidden="true" />
@@ -1526,9 +1694,34 @@
         </span>
       </span>
     </h1>
+    </div>
     <div id="header-controls">
       <button type="button" id="header-brief-btn" class="header-brief-btn" onclick="toggleDashboard()" aria-controls="dashboard" aria-expanded="true">摘要</button>
-      <a href="./feed.xml" class="header-btn header-rss" target="_blank" rel="noopener" title="订阅情报 RSS" aria-label="订阅情报 RSS 源">RSS</a>
+      <div class="subscribe-wrap">
+        <button type="button" id="header-subscribe-btn" class="header-btn" aria-expanded="false" aria-haspopup="dialog" aria-controls="subscribe-panel" onclick="toggleSubscribePanel(event)" title="收藏本页、GitHub 提醒、RSS 等">订阅</button>
+        <div id="subscribe-panel" class="subscribe-panel" role="dialog" aria-label="订阅与更新方式" hidden>
+          <div class="subscribe-panel-title">选择适合你的更新方式</div>
+          <div class="subscribe-row">
+            <strong>收藏本页</strong>
+            <p>用手机或电脑把本页加入书签；iPhone 可在 Safari 里用分享 →「添加到主屏幕」，像 App 一样打开。</p>
+            <button type="button" class="subscribe-copy-btn" onclick="copyGraphPageLink()">复制本页链接</button>
+          </div>
+          <div class="subscribe-row">
+            <strong>GitHub 更新提醒</strong>
+            <p>打开仓库后点右上角 Watch，可收到 Push 或 Release 邮件（适合偶尔看一眼的读者）。</p>
+            <a class="action-link" href="https://github.com/ttmens/ai-radar-wiki" target="_blank" rel="noopener">打开仓库 ttmens/ai-radar-wiki</a>
+          </div>
+          <div class="subscribe-row">
+            <strong>RSS（进阶）</strong>
+            <p>适合使用 Feedly、Reeder 等阅读器的用户。</p>
+            <a class="action-link" href="./feed.xml" target="_blank" rel="noopener">打开 feed.xml</a>
+          </div>
+          <div class="subscribe-row">
+            <strong>邮件 / 微信推送</strong>
+            <p>需接第三方邮件列表或公众号；详见 DESIGN.md §5.3。</p>
+          </div>
+        </div>
+      </div>
       <div id="stats"><span id="node-count">0</span><span id="edge-count">0</span></div>
       <div class="github-btn-group" style="margin-left: 12px;">
         <a href="https://github.com/ttmens/ai-radar-wiki" class="github-btn" target="_blank" rel="noopener" aria-label="在 GitHub 上 Star 本仓库">
@@ -1724,6 +1917,15 @@
         .replace(/>/g, '&gt;')
         .replace(/"/g, '&quot;');
     }
+    /** Safe inside onclick="...focusNode('HERE')..." (HTML double-quoted attr, JS single-quoted string). */
+    function escapeJsSingleQuoted(s) {
+      if (s == null) return '';
+      return String(s)
+        .replace(/\\/g, '\\\\')
+        .replace(/'/g, "\\'")
+        .replace(/\r/g, '\\r')
+        .replace(/\n/g, '\\n');
+    }
     function splitHeadlineTitleDate(full) {
       var t = (full || '今日 AI 情报').trim();
       var sep = t.indexOf(' · ');
@@ -1812,10 +2014,22 @@
       return html;
     }
 
+    // Cache buster: 使用 graph.json 的 generated_at 作为版本号，同一天内命中浏览器缓存
+    function getCacheBuster() {
+      try {
+        var dataEl = document.getElementById('graph-data');
+        if (dataEl) {
+          var d = JSON.parse(dataEl.textContent);
+          return d.generated_at || new Date().toISOString().slice(0, 10);
+        }
+      } catch(e) {}
+      return new Date().toISOString().slice(0, 10);
+    }
+
     // 2A/B: Load weekly trends
     async function loadWeeklyTrends() {
       try {
-        const resp = await fetch('./weekly_trends.json?t=' + Date.now());
+        const resp = await fetch('./weekly_trends.json?v=' + getCacheBuster());
         if (resp.ok) {
           weeklyTrends = await resp.json();
         }
@@ -1839,6 +2053,17 @@
         if (dashContent) dashContent.style.display = 'block';
       }
       syncViewToggleState(view);
+    };
+
+    window.expandAllWeekNarrativeDetails = function() {
+      var root = document.getElementById('week-view-content');
+      if (!root) return;
+      root.querySelectorAll('details.narrative-chain-week-details').forEach(function(d) { d.open = true; });
+    };
+    window.collapseAllWeekNarrativeDetails = function() {
+      var root = document.getElementById('week-view-content');
+      if (!root) return;
+      root.querySelectorAll('details.narrative-chain-week-details').forEach(function(d) { d.open = false; });
     };
 
     function attachToggleListeners() {
@@ -1898,32 +2123,84 @@
         html += '</div>';
 
         if (weeklyTrends.narrative_chains && weeklyTrends.narrative_chains.length > 0) {
-          html += '<div class="week-stat-card"><div class="week-stat-title">🔗 叙事主线追踪</div>';
+          html += '<div class="week-stat-card"><div class="week-stat-title week-stat-title--row">';
+          html += '<span>🔗 叙事主线追踪</span>';
+          html += '<span class="week-narrative-chain-actions" role="group" aria-label="叙事线展开或收起">';
+          html += '<button type="button" class="week-narrative-chain-action-btn" onclick="expandAllWeekNarrativeDetails()">展开全部</button>';
+          html += '<span class="week-narrative-chain-action-sep" aria-hidden="true">·</span>';
+          html += '<button type="button" class="week-narrative-chain-action-btn" onclick="collapseAllWeekNarrativeDetails()">收起全部</button>';
+          html += '</span></div>';
           weeklyTrends.narrative_chains.forEach((chain, idx) => {
             const icons = { 'emerging': '🌱', 'rising': '🔥', 'hot': '⚡', 'declining': '📉' };
             const icon = icons[chain.lifecycle] || '📌';
             const instances = chain.instances || [];
-            const uniqueTitles = [...new Set(instances.map(i => i.title))];
-            const dates = instances.map(i => i.date).join(', ');
 
-            let detailHtml = '';
-            if (uniqueTitles.length === 1) {
-               detailHtml = `<div class="narrative-detail-item" style="color:var(--text-tertiary);">在以下日期出现: <b>${dates}</b></div>`;
-            } else {
-               detailHtml = instances.map(i =>
-                 `<div class="narrative-detail-item"><span class="narrative-detail-date">${i.date}</span>${i.title}</div>`
-               ).join('');
+            const allEvidence = [];
+            const seenEvidence = new Set();
+            instances.forEach(inst => {
+              (inst.evidence || []).forEach(ev => {
+                const key = ev.id || ev.title;
+                if (key && !seenEvidence.has(key)) {
+                  seenEvidence.add(key);
+                  allEvidence.push(ev);
+                }
+              });
+            });
+
+            let bodyHtml = '';
+            if (instances.length > 0) {
+              bodyHtml += '<div class="narrative-instance-list" style="margin-bottom:8px;">';
+              instances.forEach(i => {
+                const withId = (i.evidence || []).filter(e => e && e.id);
+                let focusId = '';
+                if (withId.length) {
+                  const sorted = withId.slice().sort((a, b) => (b.score || 0) - (a.score || 0));
+                  focusId = sorted[0].id;
+                }
+                const clickable = !!focusId;
+                bodyHtml += '<div class="narrative-detail-item' + (clickable ? ' narrative-detail-item--clickable' : '') + '"';
+                if (clickable) {
+                  bodyHtml += ' onclick="focusNode(\'' + escapeJsSingleQuoted(focusId) + '\')"';
+                }
+                bodyHtml += '><span class="narrative-detail-date">' +
+                  escapeHtml(i.date || '') + '</span>' + escapeHtml(i.title || '') + '</div>';
+              });
+              bodyHtml += '</div>';
+            }
+            if (allEvidence.length > 0) {
+              allEvidence.forEach((ev, i) => {
+                const evId = ev.id || '';
+                const evTitle = ev.title || '';
+                const evScore = ev.score != null ? ev.score.toFixed(2) : '';
+                const evLinked = !!evId;
+                bodyHtml += '<div class="evidence-item"' +
+                  (evLinked
+                    ? ' style="cursor:pointer;margin-bottom:4px;" onclick="focusNode(\'' + escapeJsSingleQuoted(evId) + '\')"'
+                    : ' style="margin-bottom:4px;"') + '>';
+                bodyHtml += '<span class="evidence-num">' + (i + 1) + '</span>';
+                bodyHtml += '<div class="evidence-content">';
+                bodyHtml += '<div class="evidence-title">' + escapeHtml(evTitle) + '</div>';
+                if (evScore) bodyHtml += '<span class="evidence-score">PM ' + evScore + '</span>';
+                bodyHtml += '</div></div>';
+              });
+            } else if (instances.length === 0) {
+              bodyHtml += '<div class="narrative-detail-item" style="color:var(--text-tertiary);">暂无追踪记录</div>';
             }
 
-            html += `<div style="margin-bottom:10px;">`;
-            html += `<div style="font-size:11px; font-weight:500;">${icon} ${chain.title}</div>`;
-            html += `<div class="narrative-detail">
-                      <details>
-                        <summary style="cursor:pointer; font-size:9px; color:var(--text-tertiary);">🔍 查看 ${instances.length} 条追踪记录</summary>
-                        <div style="margin-top:4px;">${detailHtml}</div>
-                      </details>
-                    </div>`;
-            html += `</div>`;
+            const instN = instances.length;
+            const evN = allEvidence.length;
+            let sumLabel = '展开查看实践与证据';
+            if (instN && evN) sumLabel = '展开查看（' + instN + ' 条实践 · ' + evN + ' 条图谱证据）';
+            else if (instN) sumLabel = '展开查看（' + instN + ' 条实践）';
+            else if (evN) sumLabel = '展开查看（' + evN + ' 条图谱证据）';
+
+            html += '<div class="narrative-chain-week" style="margin-bottom:12px;border-bottom:1px solid var(--hairline-soft);padding-bottom:10px;">';
+            html += '<div style="font-size:12px; font-weight:600;margin-bottom:6px;">' + icon + ' ' + escapeHtml(chain.title || '') + '</div>';
+            html += '<details class="narrative-chain-week-details">';
+            html += '<summary style="cursor:pointer; font-size:11px; color:var(--text-tertiary);">🔍 ' + sumLabel + '</summary>';
+            html += '<div class="narrative-evidence-list" style="margin-top:8px;">' + bodyHtml + '</div>';
+            html += '</details>';
+            html += '</div>';
           });
           html += '</div>';
         }
@@ -1936,15 +2213,20 @@
     // ===== 1. STRUCTURED DAILY SUMMARY =====
     async function renderStructuredSummary() {
       const container = document.getElementById('dash-content');
+      // P0 性能优化：如果数据已加载（并行 init 二次调用），跳过 fetch 直接渲染
+      var needFetch = !dailySummary;
       var summaryFromFallback = false;
-      try {
-        const resp = await fetch('./daily_summary.json?t=' + Date.now());
-        if (!resp.ok) throw new Error('Not found');
-        const summaryData = await resp.json();
-        dailySummary = summaryData.daily_summary;
-      } catch (e) {
-        dailySummary = generateFallbackSummary();
-        summaryFromFallback = true;
+
+      if (needFetch) {
+        try {
+          const resp = await fetch('./daily_summary.json?v=' + getCacheBuster());
+          if (!resp.ok) throw new Error('Not found');
+          const summaryData = await resp.json();
+          dailySummary = summaryData.daily_summary;
+        } catch (e) {
+          dailySummary = generateFallbackSummary();
+          summaryFromFallback = true;
+        }
       }
 
       if (!dailySummary) {
@@ -1995,13 +2277,29 @@
       // Week View Toggle & Contradictions (Phase 2)
       
 
+      /* 周数据里同日/多日可能重复同类矛盾，合并同文案避免日视图刷两遍 */
       if (weeklyTrends && weeklyTrends.contradictions && weeklyTrends.contradictions.length > 0) {
-        html += '<div class="contradiction-box">';
-        html += '<div class="contradiction-title">⚠️ 矛盾信号</div>';
-        weeklyTrends.contradictions.forEach(c => {
-           html += '<div class="contradiction-item">' + c.description + '</div>';
+        var mergedContra = {};
+        weeklyTrends.contradictions.forEach(function(c) {
+          var desc = (c.description || '').trim();
+          if (!desc) return;
+          if (!mergedContra[desc]) mergedContra[desc] = [];
+          if (c.date && mergedContra[desc].indexOf(c.date) < 0) mergedContra[desc].push(c.date);
         });
-        html += '</div>';
+        var contraKeys = Object.keys(mergedContra);
+        if (contraKeys.length > 0) {
+          html += '<div class="contradiction-box">';
+          html += '<div class="contradiction-title">⚠️ 矛盾信号</div>';
+          contraKeys.forEach(function(desc) {
+            var dates = mergedContra[desc].filter(Boolean).sort();
+            var line = escapeHtml(desc);
+            if (dates.length > 0) {
+              line += ' <span class="contradiction-dates">（' + dates.map(function(d) { return escapeHtml(d); }).join('、') + '）</span>';
+            }
+            html += '<div class="contradiction-item">' + line + '</div>';
+          });
+          html += '</div>';
+        }
       }
 
       // ===== Narratives: 跨节点叙事主线 =====
@@ -2178,9 +2476,12 @@
 
       const edges = new vis.DataSet(data.edges.map(e => {
         const isBelongsTo = e.type === 'BELONGS_TO' || e.relation === 'belongs_to';
+        const isKeyword = e.type === 'KEYWORD';
+        // P0 性能优化：隐藏 KEYWORD 概念边（占 93%），减少视觉噪音和物理计算
         return {
           from: e.source || e.from,
           to: e.target || e.to,
+          hidden: isKeyword,
           color: {
             color: isBelongsTo
               ? 'rgba(180, 140, 0, 0.4)'
@@ -2190,13 +2491,97 @@
           },
           width: isBelongsTo ? 1 : e.type === 'PILLAR' ? 1.5 : 0.5,
           smooth: { type: 'curvedCW', roundness: 0.1 },
-          _isBelongsTo: isBelongsTo
+          _isBelongsTo: isBelongsTo,
+          _isKeyword: isKeyword
         };
       }));
 
+      var graphPhysicsBarnes = { gravitationalConstant: -3000, springLength: 150, springConstant: 0.04 };
+      /* 拖拽阶段：更软弹簧 + 限速，邻居会跟动但不易「炸开」 */
+      var graphPhysicsBarnesInteract = {
+        gravitationalConstant: -2200,
+        springLength: 165,
+        springConstant: 0.018,
+        damping: 0.22,
+        centralGravity: 0.12
+      };
+      var graphPhysicsDragEndHandler = null;
+      var graphPhysicsDragEndSafetyTimer = null;
+      var graphPhysicsNodeDrag = false;
+
+      function freezeGraphPhysics() {
+        network.setOptions({ physics: { enabled: false } });
+      }
+
+      function clearDragEndPhysicsWatch() {
+        if (graphPhysicsDragEndSafetyTimer) {
+          clearTimeout(graphPhysicsDragEndSafetyTimer);
+          graphPhysicsDragEndSafetyTimer = null;
+        }
+        if (graphPhysicsDragEndHandler) {
+          network.off('stabilizationIterationsDone', graphPhysicsDragEndHandler);
+          graphPhysicsDragEndHandler = null;
+        }
+      }
+
+      function enableGraphPhysicsForDrag() {
+        clearDragEndPhysicsWatch();
+        network.setOptions({
+          physics: {
+            enabled: true,
+            maxVelocity: 18,
+            minVelocity: 0.45,
+            timestep: 0.28,
+            barnesHut: graphPhysicsBarnesInteract,
+            stabilization: { enabled: false }
+          }
+        });
+      }
+
+      function settleGraphPhysicsAfterDrag() {
+        clearDragEndPhysicsWatch();
+        if (typeof network.stopSimulation === 'function') {
+          try { network.stopSimulation(); } catch (e) {}
+        }
+        graphPhysicsDragEndHandler = function () {
+          clearDragEndPhysicsWatch();
+          freezeGraphPhysics();
+        };
+        network.on('stabilizationIterationsDone', graphPhysicsDragEndHandler);
+        network.setOptions({
+          physics: {
+            enabled: true,
+            maxVelocity: 12,
+            minVelocity: 0.35,
+            timestep: 0.22,
+            barnesHut: graphPhysicsBarnesInteract,
+            stabilization: { enabled: true, iterations: 85, updateInterval: 35 }
+          }
+        });
+        graphPhysicsDragEndSafetyTimer = setTimeout(function () {
+          graphPhysicsDragEndSafetyTimer = null;
+          clearDragEndPhysicsWatch();
+          freezeGraphPhysics();
+        }, 2200);
+      }
+
       network = new vis.Network(document.getElementById('mynetwork'), { nodes, edges }, {
-        physics: { barnesHut: { gravitationalConstant: -3000, springLength: 150, springConstant: 0.04 }, stabilization: { iterations: 200 } },
+        physics: {
+          barnesHut: graphPhysicsBarnes,
+          stabilization: { iterations: 200, updateInterval: 25 }  // P0: 400→200 加速初始化
+        },
         interaction: { hover: true, zoomView: true, dragView: true, dragNodes: true }
+      });
+
+      network.on('dragStart', function (params) {
+        if (!params.nodes || params.nodes.length === 0) return;
+        graphPhysicsNodeDrag = true;
+        enableGraphPhysicsForDrag();
+      });
+      network.on('dragEnd', function () {
+        if (!graphPhysicsNodeDrag) return;
+        graphPhysicsNodeDrag = false;
+        settleGraphPhysicsAfterDrag();
       });
 
       function handleNetworkTap(params) {
@@ -2221,6 +2606,7 @@
       });
 
       network.once('stabilizationIterationsDone', function() {
+        freezeGraphPhysics();
         requestAnimationFrame(runInitialGraphCameraOnce);
       });
       setTimeout(function() {
@@ -2576,6 +2962,59 @@
       card.classList.toggle('collapsed');
     }
 
+    function toggleSubscribePanel(ev) {
+      if (ev) ev.stopPropagation();
+      var p = document.getElementById('subscribe-panel');
+      var btn = document.getElementById('header-subscribe-btn');
+      if (!p || !btn) return;
+      p.hidden = !p.hidden;
+      var open = !p.hidden;
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      document.removeEventListener('click', closeSubscribePanelOnOutside, true);
+      if (open) {
+        setTimeout(function() {
+          document.addEventListener('click', closeSubscribePanelOnOutside, true);
+        }, 200);
+      }
+    }
+
+    function closeSubscribePanelOnOutside(ev) {
+      var p = document.getElementById('subscribe-panel');
+      var btn = document.getElementById('header-subscribe-btn');
+      if (!p || p.hidden) return;
+      if (btn && (ev.target === btn || btn.contains(ev.target))) return;
+      if (p.contains(ev.target)) return;
+      p.hidden = true;
+      if (btn) btn.setAttribute('aria-expanded', 'false');
+      document.removeEventListener('click', closeSubscribePanelOnOutside, true);
+    }
+
+    function copyGraphPageLink() {
+      var url = window.location.href.split('#')[0];
+      var toast = document.getElementById('subscribe-toast');
+      function show(msg) {
+        if (!toast) return;
+        toast.textContent = msg;
+        toast.classList.add('show');
+        setTimeout(function() { toast.classList.remove('show'); }, 2200);
+      }
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(url).then(function() { show('链接已复制'); }).catch(function() { show('请手动复制地址栏链接'); });
+      } else {
+        try {
+          var ta = document.createElement('textarea');
+          ta.value = url;
+          document.body.appendChild(ta);
+          ta.select();
+          document.execCommand('copy');
+          document.body.removeChild(ta);
+          show('链接已复制');
+        } catch (e) {
+          show('请手动复制地址栏链接');
+        }
+      }
+    }
+
     // ===== 5. TOGGLE DASHBOARD =====
     function toggleDashboard() {
       const dash = document.getElementById('dashboard');
@@ -2604,8 +3043,7 @@
     (async function init() {
       attachToggleListeners(); // Ensure buttons work
 
-      await renderStructuredSummary();
-      await loadWeeklyTrends(); // Phase 2
+      // P0 性能优化：先渲染图谱（数据已内联，无需等待），再并行加载摘要和趋势
       renderNetwork();
       applyMobileBriefDefaultLayout();
       setupMobileBriefSwipeToDismiss();
@@ -2613,8 +3051,33 @@
       requestAnimationFrame(syncHeaderHeight);
       syncPanelScrim();
 
+      // 并行 fetch 摘要和趋势（不阻塞图谱渲染）
+      Promise.allSettled([
+        renderStructuredSummary(),
+        loadWeeklyTrends()
+      ]).then(function(results) {
+        // 数据加载完后，如果周视图已打开则重新渲染
+        if (isWeekView && weeklyTrends) {
+          var weekContent = document.getElementById('week-view-content');
+          if (weekContent) renderWeekView(weekContent);
+        } else if (dailySummary && weeklyTrends) {
+          // 日视图：重新渲染以注入矛盾信号和生命周期标签
+          var dashContent = document.getElementById('dash-content');
+          if (dashContent && !isWeekView) renderStructuredSummary();
+        }
+      });
+
       document.addEventListener('keydown', function(ev) {
         if (ev.key !== 'Escape' || ev.defaultPrevented) return;
+        var sub = document.getElementById('subscribe-panel');
+        if (sub && !sub.hidden) {
+          ev.preventDefault();
+          sub.hidden = true;
+          var hb = document.getElementById('header-subscribe-btn');
+          if (hb) hb.setAttribute('aria-expanded', 'false');
+          document.removeEventListener('click', closeSubscribePanelOnOutside, true);
+          return;
+        }
         var panel = document.getElementById('detail-panel');
         if (!panel || !panel.classList.contains('active')) return;
         ev.preventDefault();
@@ -2622,5 +3085,6 @@
       });
     })();
   </script>
+  <div id="subscribe-toast" role="status" aria-live="polite"></div>
 </body>
 </html>
