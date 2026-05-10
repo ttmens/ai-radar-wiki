@@ -1,0 +1,25 @@
+{
+  "title": "Academic Research Skills for Claude Code",
+  "score": 70,
+  "comments": 24,
+  "url": "https://github.com/Imbad0202/academic-research-skills",
+  "hn_url": "https://news.ycombinator.com/item?id=48083919",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该项目为Claude Code注入学术研究能力，通过结构化提示词、文献检索工具集成与自动化工作流编排，实现论文解析、综述生成与引用校验。技术上依托Agent工具调用与长上下文管理，显著降低科研场景AI使用门槛。对PM而言，验证了“基础模型+场景化技能包”的落地路径，凸显垂直工作流Agent在学术与研发市场的商业化潜力，为SaaS订阅与开发者生态扩展提供明确方向。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Domain-specific Skills",
+    "Agentic Workflow",
+    "Tool Integration"
+  ],
+  "entities": [
+    "Anthropic",
+    "Claude Code"
+  ],
+  "patterns": [
+    "Skill-based Agent",
+    "Vertical Copilot"
+  ]
+}

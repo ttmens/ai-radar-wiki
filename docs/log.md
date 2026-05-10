@@ -362,3 +362,12 @@
 - create: llmorphism-when-humans-come-to-see-themselves-as.md
 - create: openaicom-was-once-the-personal-homepage-of-a-g.md
 - create: were-feeling-cynical-about-xais-big-deal-with-an.md
+
+## [2026-05-11 06:06] sync v3 | 7 new | pillars: {'unknown': 3, 'patterns': 2, 'business': 2}
+- create: local-ai-needs-to-be-the-norm.md
+- create: spain-has-become-one-of-europes-cheapest-power-ma.md
+- create: chromes-ai-features-may-be-hogging-4gb-of-your-co.md
+- create: academic-research-skills-for-claude-code.md
+- create: get-ready-for-the-whisper-filled-office-of-the-fut.md
+- create: anthropic-says-evil-portrayals-of-ai-were-respon.md
+- create: show-hn-modafinil-let-agents-continue-running-w.md
