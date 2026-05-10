@@ -5,13 +5,21 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 09 May 2026 20:01:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 00:06:40 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>So you&amp;#8217;ve heard these AI terms and nodded along; let&amp;#8217;s fix that</title>
+      <link>https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</link>
+      <guid isPermaLink="false">so-you8217ve-heard-these-ai-terms-and</guid>
+      <pubDate>Sat, 09 May 2026 21:45:00 T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> news</p><hr/><p>The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.</p></description>
+      <category>💰 商业趋势</category>
+    </item>
     <item>
       <title>Nvidia has already committed $40B to equity AI deals this year</title>
       <link>https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/</link>
@@ -42,6 +50,14 @@
       <guid isPermaLink="false">llms-corrupt-your-documents-when-you-delegate</guid>
       <pubDate>2026-05-10T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>So you&amp;#8217;ve heard these AI terms and nodded along; let&amp;#8217;s fix that</title>
+      <link>https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</link>
+      <guid isPermaLink="false">so-you8217ve-heard-these-ai-terms-and-nodded-al</guid>
+      <pubDate>2026-05-10T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.</p></description>
       <category>💰 商业趋势</category>
     </item>
     <item>
@@ -394,22 +410,6 @@
       <guid isPermaLink="false">when-no-benchmark-exists-validating-comparative-llm-safety</guid>
       <pubDate>2026-05-08T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出“无基准对比安全评分”方法，解决在缺乏标注数据的新语言、垂直行业或监管场景下，如何快速评估大模型安全性的难题。技术上通过场景化审计与相对评分契约，实现无需绝对真值标签的模型横向对比。对AI产品经理而言，该方案可大幅降低安全评测的数据准备成本与周期，支持在合规要求严格或新兴市场快速验证模型安全性，加速垂直领域大模型产品的合规落地与商业化部署。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benc</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">are-we-making-progress-in-multimodal-domain-generalization</guid>
-      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文针对多模态域泛化（MMDG）缺乏统一评估标准的问题，构建全面基准测试体系，揭示当前性能提升多源于协议不一致而非算法真实进步。该研究为多模态AI鲁棒性评估提供标准化参考。对AI产品经理而言，有助于在跨场景产品中科学选型、规避“刷榜”风险，指导建立可靠的内部评测流程，提升模型落地稳定性与商业化可信度。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Edge-specific signal propagation on mature chromophore-region 3D mechanism graph</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">edge-specific-signal-propagation-on-mature-chromophore-regio</guid>
-      <pubDate>2026-05-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该研究提出基于发色团3D机制图的荧光蛋白量子产率预测模型。通过边特异性信号传播技术，精准建模局部物理微环境作用，突破传统蛋白语言模型仅依赖序列的局限。对AI产品经理而言，该技术验证了结构感知与物理机制图网络在AI4Science的落地价值，可大幅降低生物探针研发试错成本，为构建高精度、可解释的AI蛋白设计平台提供核心算法模块。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
