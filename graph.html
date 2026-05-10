@@ -2636,14 +2636,13 @@
 
     // ===== INIT =====
     (async function init() {
-      // 显示 loading 状态
+      // 显示 loading 状态 — 使用 CSS 控制 overlay，不修改 #mynetwork 的 position
       const networkEl = document.getElementById('mynetwork');
       const loadingEl = document.createElement('div');
       loadingEl.id = 'graph-loading-overlay';
       loadingEl.innerHTML = '<div class="loading-spinner"></div><div class="loading-text">正在加载图谱...</div>';
-      loadingEl.style.cssText = 'position:absolute;top:0;left:0;right:0;bottom:0;display:flex;flex-direction:column;align-items:center;justify-content:center;background:var(--graph-canvas,#ebebeb);z-index:1000;transition:opacity 0.3s;';
-      networkEl.style.position = 'relative';
-      networkEl.appendChild(loadingEl);
+      loadingEl.style.cssText = 'position:fixed;top:0;left:0;right:0;bottom:0;display:flex;flex-direction:column;align-items:center;justify-content:center;background:var(--graph-canvas,#ebebeb);z-index:1000;transition:opacity 0.3s;';
+      document.body.appendChild(loadingEl);
 
       // 添加 loading 样式
       const style = document.createElement('style');
