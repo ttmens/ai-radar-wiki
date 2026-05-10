@@ -1,0 +1,26 @@
+{
+  "title": "France moves to break encrypted messaging",
+  "score": 106,
+  "comments": 60,
+  "url": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
+  "hn_url": "https://news.ycombinator.com/item?id=48078811",
+  "tag": "HN",
+  "pillar": "ecosystem",
+  "pillar_keywords": [],
+  "summary_cn": "法国推动立法要求破解端到端加密通信，拟强制引入AI客户端扫描技术以识别非法内容。该政策将重塑隐私计算与合规AI的产品架构，推动端侧AI检测模型成为刚需。对AI产品经理而言，需提前布局“合规优先”设计，平衡数据隐私与安全审查，探索联邦学习、同态加密等隐私增强技术在消息类AI产品中的落地，以应对欧盟监管带来的市场准入挑战。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Client-Side Scanning",
+    "End-to-End Encryption",
+    "AI Regulatory Compliance"
+  ],
+  "entities": [
+    "French Government",
+    "Signal",
+    "WhatsApp"
+  ],
+  "patterns": [
+    "On-Device AI Detection",
+    "Compliance-by-Design"
+  ]
+}

@@ -348,3 +348,7 @@
 
 ## [2026-05-10 06:05] sync v3 | 1 new | pillars: {'business': 1}
 - create: so-you8217ve-heard-these-ai-terms-and-nodded-al.md
+
+## [2026-05-10 12:03] sync v3 | 2 new | pillars: {'unknown': 1, 'patterns': 1}
+- create: france-moves-to-break-encrypted-messaging.md
+- create: voice-ai-in-india-is-hard-wispr-flow-is-betting-o.md

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T06:05:21.754427+08:00",
+  "generated_at": "2026-05-10T12:03:17.362647+08:00",
   "days_analyzed": 3,
   "pillar_trends": {
     "capabilities": {
@@ -17,11 +17,11 @@
       "has_data": true
     },
     "ecosystem": {
-      "trend": "data_missing",
-      "delta": -2,
-      "current": 0,
+      "trend": "down",
+      "delta": -1,
+      "current": 1,
       "previous": 2,
-      "has_data": false
+      "has_data": true
     },
     "business": {
       "trend": "down",
@@ -333,23 +333,48 @@
       "lifecycle": "emerging"
     },
     {
-      "title": "AI自主代理迈向企业级运营，但“委托信任”与数据完整性成为产品化瓶颈",
-      "type": "bottleneck",
-      "latest_type": "bottleneck",
+      "title": "监管合规与隐私计算重塑AI产品架构边界",
+      "type": "paradigm_shift",
+      "latest_type": "paradigm_shift",
       "days": [
         "2026-05-10"
       ],
       "instances": [
         {
           "date": "2026-05-10",
-          "title": "AI自主代理迈向企业级运营，但“委托信任”与数据完整性成为产品化瓶颈",
-          "body": "随着AI从单点工具向自主运营实体演进，产品架构正面临“黑盒委托”带来的数据篡改与流程失控风险。PM需将“可验证性”与“防退化机制”作为核心设计原则，从追求功能覆盖转向构建信任边界。未来产品将围绕“人机协同审计”与“确定性工作流”展开重构。",
-          "type": "bottleneck",
+          "title": "监管合规与隐私计算重塑AI产品架构边界",
+          "body": "法国拟强制破解端到端加密的立法动向，标志着AI产品正从“技术优先”转向“合规优先”。PM需将联邦学习、同态加密等隐私增强技术纳入核心架构，以应对全球数据主权收紧带来的准入壁垒。",
+          "type": "paradigm_shift",
           "evidence": [
             {
-              "id": "llms-corrupt-your-documents-when-you-delegate",
-              "title": "LLMs Corrupt Your Documents When You Delegate",
-              "score": 0.3,
+              "id": "france-moves-to-break-encrypted-messaging",
+              "title": "France moves to break encrypted messaging",
+              "score": 0.53,
+              "pillar": "ecosystem"
+            }
+          ]
+        }
+      ],
+      "lifecycle": "emerging"
+    },
+    {
+      "title": "垂直场景本地化与自主代理成为增长新引擎",
+      "type": "validation",
+      "latest_type": "validation",
+      "days": [
+        "2026-05-10"
+      ],
+      "instances": [
+        {
+          "date": "2026-05-10",
+          "title": "垂直场景本地化与自主代理成为增长新引擎",
+          "body": "Wispr Flow在印度市场的成功与NanoCorp的自主公司构想，揭示了AI正从通用对话向“深度本地化”与“高自主性”演进。PM应放弃一刀切模型，转向区域语言混合微调与Agent工作流设计，以突破新兴市场渗透瓶颈。",
+          "type": "validation",
+          "evidence": [
+            {
+              "id": "voice-ai-in-india-is-hard-wispr-flow-is-betting-o",
+              "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+              "score": 0.48,
               "pillar": "patterns"
             },
             {
@@ -364,18 +389,18 @@
       "lifecycle": "emerging"
     },
     {
-      "title": "巨头资本重仓底层算力与理论基建，AI生态进入“软硬协同+强绑定”阶段",
-      "type": "validation",
-      "latest_type": "validation",
+      "title": "算力资本重注生态与LLM委托可靠性风险并存",
+      "type": "bottleneck",
+      "latest_type": "bottleneck",
       "days": [
         "2026-05-10"
       ],
       "instances": [
         {
           "date": "2026-05-10",
-          "title": "巨头资本重仓底层算力与理论基建，AI生态进入“软硬协同+强绑定”阶段",
-          "body": "英伟达巨额股权布局与强化学习数学基础的体系化沉淀，标志着AI产业正从“模型竞赛”转向“基础设施与理论标准化”的深水区。PM需重新评估技术栈选型，关注算力供应链成本传导与底层框架的兼容性，提前卡位软硬协同的生态节点，避免在封闭生态中被边缘化。",
-          "type": "validation",
+          "title": "算力资本重注生态与LLM委托可靠性风险并存",
+          "body": "英伟达400亿美元股权布局印证了软硬协同生态的长期价值，但“LLM委托导致文档损坏”的讨论暴露出当前自主化产品的可靠性短板。PM需在追求自动化效率的同时，建立强校验与人工兜底机制，平衡创新与风险控制。",
+          "type": "bottleneck",
           "evidence": [
             {
               "id": "nvidia-has-already-committed-40b-to-equity-ai-dea",
@@ -384,9 +409,9 @@
               "pillar": "business"
             },
             {
-              "id": "mathfoundationrlbook-mathematical-foundation-of-reinforcement-learning",
-              "title": "MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learnin",
-              "score": 0.41,
+              "id": "llms-corrupt-your-documents-when-you-delegate",
+              "title": "LLMs Corrupt Your Documents When You Delegate",
+              "score": 0.3,
               "pillar": "business"
             }
           ]
@@ -408,5 +433,5 @@
     }
   ],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-10**（3天），累计 **60** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI从对话式向自主操作系统级控制演进**。"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-10**（3天），累计 **63** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI从对话式向自主操作系统级控制演进**。"
 }
