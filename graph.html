@@ -1903,26 +1903,43 @@
             const icons = { 'emerging': '🌱', 'rising': '🔥', 'hot': '⚡', 'declining': '📉' };
             const icon = icons[chain.lifecycle] || '📌';
             const instances = chain.instances || [];
-            const uniqueTitles = [...new Set(instances.map(i => i.title))];
-            const dates = instances.map(i => i.date).join(', ');
+
+            // 收集所有证据（去重）
+            const allEvidence = [];
+            const seenEvidence = new Set();
+            instances.forEach(inst => {
+              (inst.evidence || []).forEach(ev => {
+                const key = ev.id || ev.title;
+                if (key && !seenEvidence.has(key)) {
+                  seenEvidence.add(key);
+                  allEvidence.push(ev);
+                }
+              });
+            });
 
             let detailHtml = '';
-            if (uniqueTitles.length === 1) {
-               detailHtml = `<div class="narrative-detail-item" style="color:var(--text-tertiary);">在以下日期出现: <b>${dates}</b></div>`;
+            // 渲染证据卡片
+            if (allEvidence.length > 0) {
+              allEvidence.forEach((ev, i) => {
+                const evId = ev.id || '';
+                const evTitle = ev.title || '';
+                const evScore = ev.score != null ? ev.score.toFixed(2) : '';
+                detailHtml += `<div class="evidence-item" style="cursor:pointer;margin-bottom:4px;" onclick="switchView('day');setTimeout(()=>focusNode('${evId}'),300)">`;
+                detailHtml += `<span class="evidence-num">${i + 1}</span>`;
+                detailHtml += `<div class="evidence-content">`;
+                detailHtml += `<div class="evidence-title">${evTitle}</div>`;
+                if (evScore) detailHtml += `<span class="evidence-score">PM ${evScore}</span>`;
+                detailHtml += `</div></div>`;
+              });
             } else {
-               detailHtml = instances.map(i =>
-                 `<div class="narrative-detail-item"><span class="narrative-detail-date">${i.date}</span>${i.title}</div>`
-               ).join('');
+              // 无证据时显示日期信息
+              const dates = instances.map(i => i.date).join(', ');
+              detailHtml = `<div class="narrative-detail-item" style="color:var(--text-tertiary);">在以下日期出现: <b>${dates}</b></div>`;
             }
 
-            html += `<div style="margin-bottom:10px;">`;
-            html += `<div style="font-size:11px; font-weight:500;">${icon} ${chain.title}</div>`;
-            html += `<div class="narrative-detail">
-                      <details>
-                        <summary style="cursor:pointer; font-size:9px; color:var(--text-tertiary);">🔍 查看 ${instances.length} 条追踪记录</summary>
-                        <div style="margin-top:4px;">${detailHtml}</div>
-                      </details>
-                    </div>`;
+            html += `<div style="margin-bottom:12px;border-bottom:1px solid var(--hairline-soft);padding-bottom:10px;">`;
+            html += `<div style="font-size:12px; font-weight:600;margin-bottom:6px;">${icon} ${chain.title}</div>`;
+            html += `<div class="narrative-evidence-list">${detailHtml}</div>`;
             html += `</div>`;
           });
           html += '</div>';
