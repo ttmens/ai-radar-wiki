@@ -1,0 +1,27 @@
+{
+  "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+  "score": 80,
+  "comments": 4,
+  "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+  "hn_url": "https://news.ycombinator.com/item?id=48085685",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training"
+  ],
+  "summary_cn": "本文探讨使用Swift语言进行大模型训练，核心聚焦于将矩阵乘法性能从Gflop/s提升至Tflop/s量级。对AI产品经理而言，该技术突破意味着利用Apple Silicon等消费级硬件即可实现高效模型训练，大幅降低云端算力依赖与成本。它为端侧AI开发、快速原型迭代及垂直领域模型微调提供了新路径，有望推动“本地优先”AI产品生态的落地，加速开发者工具链创新。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Matrix Multiplication Optimization",
+    "Swift for ML",
+    "On-Device Training"
+  ],
+  "entities": [
+    "Swift",
+    "Apple"
+  ],
+  "patterns": [
+    "Hardware-Software Co-design",
+    "Local-First AI"
+  ]
+}

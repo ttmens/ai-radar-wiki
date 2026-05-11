@@ -394,3 +394,8 @@
 - create: show-hn-adamsreview-better-multi-agent-pr-revie.md
 - create: how-fast-does-claude-acting-as-a-user-space-ip-st.md
 - create: show-hn-i-trained-a-chess-engine-to-play-like-hum.md
+
+## [2026-05-12 00:05] sync v3 | 3 new | pillars: {'capabilities': 1, 'unknown': 1, 'business': 1}
+- create: training-an-llm-in-swift-part-1-taking-matrix-mu.md
+- create: gmail-registration-now-requires-scanning-a-qr-code.md
+- create: there-aren8217t-enough-rockets-for-space-data-c.md

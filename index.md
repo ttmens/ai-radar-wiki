@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-11 | Total pages: 320
+> Last updated: 2026-05-12 | Total pages: 323
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -62,6 +62,7 @@
 - [[the-art-of-hackingh4cker.md]] The-Art-of-Hacking/h4cker `pillar:capabilities` `score:0.58`
 - [[the-greatest-shot-in-television-james-burke-had-o.md]] The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene `pillar:capabilities` `score:0.155`
 - [[the-soul-of-maintaining-a-new-machine.md]] The soul of maintaining a new machine `pillar:capabilities` `score:0.38`
+- [[training-an-llm-in-swift-part-1-taking-matrix-mu.md]] Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s `pillar:capabilities` `score:0.38`
 - [[ultralyticsyolov5.md]] ultralytics/yolov5 `pillar:capabilities` `score:0.615`
 - [[unity-technologiesml-agents.md]] Unity-Technologies/ml-agents `pillar:capabilities` `score:0.58`
 - [[unslothaiunsloth.md]] unslothai/unsloth `pillar:capabilities` `score:0.58`
@@ -212,6 +213,7 @@
 - [[flwrlabsflower.md]] flwrlabs/flower `pillar:ecosystem` `score:0.53`
 - [[fpromptschat.md]] f/prompts.chat `pillar:ecosystem` `score:0.58`
 - [[france-moves-to-break-encrypted-messaging.md]] France moves to break encrypted messaging `pillar:ecosystem` `score:0.53`
+- [[gmail-registration-now-requires-scanning-a-qr-code.md]] Gmail registration now requires scanning a QR code and sending a text message `pillar:ecosystem` `score:0.53`
 - [[google-deepmindsonnet.md]] google-deepmind/sonnet `pillar:ecosystem` `score:0.495`
 - [[google-geminigemini-cli.md]] google-gemini/gemini-cli `pillar:ecosystem` `score:0.58`
 - [[googlelangextract.md]] google/langextract `pillar:ecosystem` `score:0.405`
@@ -314,6 +316,7 @@
 - [[teaching-claude-why.md]] Teaching Claude Why `pillar:business` `score:0.305`
 - [[tesla-model-y-passes-nhtsas-new-advanced-driver.md]] Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests `pillar:business` `score:0.255`
 - [[the-peoples-airline-and-the-enterprise-ai-gold.md]] The “people’s airline” and the enterprise AI gold rush `pillar:business` `score:0.48`
+- [[there-aren8217t-enough-rockets-for-space-data-c.md]] There aren&#8217;t enough rockets for space data centers. Cowboy Space raised $2 `pillar:business` `score:0.305`
 - [[tinder-owner-match-group-is-slowing-hiring-to-pay.md]] Tinder owner Match Group is slowing hiring to pay for its increased use of AI to `pillar:business` `score:0.15`
 - [[wasmedgewasmedge.md]] WasmEdge/WasmEdge `pillar:business` `score:0.405`
 - [[were-feeling-cynical-about-xais-big-deal-with-an.md]] We’re feeling cynical about xAI’s big deal with Anthropic `pillar:business` `score:0.305`
