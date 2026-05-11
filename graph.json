@@ -1025,74 +1025,6 @@
       "url": "https://github.com/infiniflow/ragflow"
     },
     {
-      "id": "llm",
-      "label": "LLM",
-      "type": "concept",
-      "pillar": "patterns",
-      "pm_score": 0.61,
-      "tags": [
-        "concept",
-        "patterns"
-      ],
-      "summary": "关联项目: mlflow/mlflow, Unstructured-IO/unstructured, hiyouga/LlamaFactory, BerriAI/litellm, vllm-project/vllm",
-      "raw_content": "",
-      "date": "2026-05-07",
-      "url": "",
-      "related_nodes": [
-        "mlflowmlflow",
-        "unstructured-iounstructured",
-        "hiyougallamafactory",
-        "berriailitellm",
-        "vllm-projectvllm",
-        "mlc-aiweb-llm",
-        "langfuselangfuse",
-        "milvus-iomilvus",
-        "tensorzerotensorzero",
-        "harry0703moneyprinterturbo",
-        "browser-usebrowser-use",
-        "labringfastgpt",
-        "infiniflowragflow",
-        "datawhalechinahappy-llm",
-        "sillytavernsillytavern",
-        "upstashcontext7",
-        "patchy631ai-engineering-hub",
-        "aaif-goosegoose",
-        "geeeekexplorernano-vllm",
-        "onyx-dot-apponyx",
-        "astrbotdevsastrbot",
-        "yamadashyrepomix",
-        "rtk-airtk",
-        "handsonllmhands-on-large-language-models",
-        "lightning-ailitgpt",
-        "datawhalechinaself-llm",
-        "clickhouseclickhouse",
-        "xorbitsaiinference",
-        "rasbtllms-from-scratch",
-        "jingyaogongminimind",
-        "jeinlee1991chinese-llm-benchmark",
-        "mishushakovllm-scraper",
-        "0xplaygroundsrig",
-        "why-global-llm-leaderboards-are-misleading-small-portfolios",
-        "when-no-benchmark-exists-validating-comparative-llm-safety",
-        "why-global-llm-leaderboards-are-misleadi",
-        "when-no-benchmark-exists-validating-com",
-        "design-conductor-20-an-agent-builds-a-turboquant-inference",
-        "zhulinsendaily_stock_analysis",
-        "mintplex-labsanything-llm",
-        "mudlerlocalai",
-        "googlelangextract",
-        "blinkdlrwkv-lm",
-        "di-sukharevopencommit",
-        "0x4m4hexstrike-ai",
-        "spotify8217s-ai-dj-now-supports-french-german",
-        "making-llm-training-faster-with-unsloth-and-nvidia",
-        "openseeker-v2-pushing-the-limits-of-search-agents-with-info",
-        "physics-grounded-multi-agent-architecture-for-traceable-ris",
-        "safety-and-accuracy-follow-different-scaling-laws-in-clinica"
-      ],
-      "node_count": 50
-    },
-    {
       "id": "ai-agent",
       "label": "AI Agent",
       "type": "concept",
@@ -1129,105 +1061,6 @@
         "symptomai-towards-a-conversational-ai-agent-for-everyday-sy"
       ],
       "node_count": 20
-    },
-    {
-      "id": "prompt",
-      "label": "Prompt",
-      "type": "concept",
-      "pillar": "ecosystem",
-      "pm_score": 0.61,
-      "tags": [
-        "concept",
-        "ecosystem"
-      ],
-      "summary": "关联项目: x1xhlol/system-prompts-and-mod, tensorzero/tensorzero, asgeirtj/system_prompts_leaks, linshenkx/prompt-optimizer, f/prompts.chat",
-      "raw_content": "",
-      "date": "2026-05-07",
-      "url": "",
-      "related_nodes": [
-        "x1xhlolsystem-prompts-and-models-of-ai-tools",
-        "tensorzerotensorzero",
-        "asgeirtjsystem_prompts_leaks",
-        "linshenkxprompt-optimizer",
-        "fpromptschat",
-        "danielmiesslerfabric",
-        "mishushakovllm-scraper",
-        "understanding-in-context-learning-for-nonlinear-regression-w",
-        "liyupiai-guide",
-        "show-hn-kstack-skill-pack-for-monitor"
-      ],
-      "node_count": 10
-    },
-    {
-      "id": "rag",
-      "label": "RAG",
-      "type": "concept",
-      "pillar": "patterns",
-      "pm_score": 0.61,
-      "tags": [
-        "concept",
-        "patterns"
-      ],
-      "summary": "关联项目: Unstructured-IO/unstructured, docling-project/docling, HKUDS/LightRAG, qdrant/qdrant, NirDiamant/RAG_Techniques",
-      "raw_content": "",
-      "date": "2026-05-07",
-      "url": "",
-      "related_nodes": [
-        "unstructured-iounstructured",
-        "docling-projectdocling",
-        "hkudslightrag",
-        "qdrantqdrant",
-        "nirdiamantrag_techniques",
-        "deepset-aihaystack",
-        "milvus-iomilvus",
-        "microsoftgraphrag",
-        "vectifyaipageindex",
-        "labringfastgpt",
-        "langgeniusdify",
-        "infiniflowragflow",
-        "supabasesupabase",
-        "upstashcontext7",
-        "patchy631ai-engineering-hub",
-        "itzcrazyknsvane",
-        "microsoftgenerative-ai-for-beginners",
-        "handsonllmhands-on-large-language-models",
-        "mishushakovllm-scraper",
-        "dirtyfrag-universal-linux-lpe",
-        "superintelligent-retrieval-agent-the-next-frontier-of-infor",
-        "superintelligent-retrieval-agent-the-ne",
-        "estimating-the-expected-output-of-wide-random-mlps-more-effi",
-        "bytedancedeer-flow",
-        "liyupiai-guide",
-        "sqlite-is-a-library-of-congress-recommended-storag",
-        "an-agent-oriented-pluggable-experience-rag-skill-for-experie"
-      ],
-      "node_count": 27
-    },
-    {
-      "id": "transformer",
-      "label": "Transformer",
-      "type": "concept",
-      "pillar": "capabilities",
-      "pm_score": 0.61,
-      "tags": [
-        "concept",
-        "capabilities"
-      ],
-      "summary": "关联项目: lucidrains/vit-pytorch, rasbt/LLMs-from-scratch, Understanding In-Context Learn, Taming Outlier Tokens in Diffu, huggingface/transformers",
-      "raw_content": "",
-      "date": "2026-05-07",
-      "url": "",
-      "related_nodes": [
-        "lucidrainsvit-pytorch",
-        "rasbtllms-from-scratch",
-        "understanding-in-context-learning-for-nonlinear-regression-w",
-        "taming-outlier-tokens-in-diffusion-transformers",
-        "huggingfacetransformers",
-        "blinkdlrwkv-lm",
-        "a-polynomial-autoencoder-beats-pca-on-transformer",
-        "a-polynomial-autoencoder-beats-pca-on-tr"
-      ],
-      "node_count": 8
     },
     {
       "id": "a-recent-experience-with-chatgpt-55-pro",
@@ -3607,6 +3440,50 @@
       "url": "https://news.ycombinator.com/item?id=48082021"
     },
     {
+      "id": "rubric-grounded-rl-structured-judge-rewards-for-generalizab",
+      "label": "Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning",
+      "type": "papers",
+      "pillar": "capabilities",
+      "pm_score": 0.43,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "该论文提出“基于量表的强化学习”，将传统单一奖励拆解为多维度、可验证的加权标准，并引入大模型裁判进行细粒度打分。该技术提供“部分得分”优化信号，显著提升复杂推理任务的训练效率与泛化能力。对AI产品经理而言，该方案可大幅降低人工标注成本，实现更透明可控的模型评估与迭代，适用于智能评测、代码助手及复杂Agent开发，是构建高可靠推理产品的关键技术路径。",
+      "raw_content": "# Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning\n\n该论文提出“基于量表的强化学习”，将传统单一奖励拆解为多维度、可验证的加权标准，并引入大模型裁判进行细粒度打分。该技术提供“部分得分”优化信号，显著提升复杂推理任务的训练效率与泛化能力。对AI产品经理而言，该方案可大幅降低人工标注成本，实现更透明可控的模型评估与迭代，适用于智能评测、代码助手及复杂Agent开发，是构建高可靠推理产品的关键技术路径。\n\n## 作者\nManish Bhattarai, Ismael Boureima, Nishath Rajiv Ranasinghe, Scott Pakin, Dan O'Malley\n\n## 摘要\nWe argue that decomposing reward into weighted, verifiable criteria and using an LLM judge to score them provides a partial-credit optimization sig",
+      "source_type": "papers",
+      "date": "2026-05-11",
+      "url": ""
+    },
+    {
+      "id": "rubric-grounded-rl-structured-judge-rew",
+      "label": "Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.43,
+      "tags": [
+        "paper",
+        "capabilities"
+      ],
+      "summary": "该论文提出“基于量表的强化学习”，将传统单一奖励拆解为多维度、可验证的加权标准，并引入大模型裁判进行细粒度打分。该技术提供“部分得分”优化信号，显著提升复杂推理任务的训练效率与泛化能力。对AI产品经理而言，该方案可大幅降低人工标注成本，实现更透明可控的模型评估与迭代，适用于智能评测、代码助手及复杂Agent开发，是构建高可靠推理产品的关键技术路径。",
+      "raw_content": "该论文提出“基于量表的强化学习”，将传统单一奖励拆解为多维度、可验证的加权标准，并引入大模型裁判进行细粒度打分。该技术提供“部分得分”优化信号，显著提升复杂推理任务的训练效率与泛化能力。对AI产品经理而言，该方案可大幅降低人工标注成本，实现更透明可控的模型评估与迭代，适用于智能评测、代码助手及复杂Agent开发，是构建高可靠推理产品的关键技术路径。",
+      "date": "2026-05-08",
+      "url": "http://arxiv.org/abs/2605.08061v1",
+      "stars": null,
+      "score": null,
+      "comments": null,
+      "_concepts": [
+        "Rubric-Grounded RL",
+        "LLM-as-a-Judge",
+        "Partial-Credit Reward"
+      ],
+      "_entities": [],
+      "_patterns": [
+        "Structured Reward Modeling",
+        "LLM-as-a-Judge Evaluation"
+      ]
+    },
+    {
       "id": "llmorphism-when-humans-come-to-see-them",
       "label": "LLMorphism: When humans come to see themselves as language models",
       "type": "discussion",
@@ -4261,6 +4138,52 @@
       "url": "https://news.ycombinator.com/item?id=48083919"
     },
     {
+      "id": "graphlcp-structure-aware-localized-conformal-prediction-on",
+      "label": "GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs",
+      "type": "papers",
+      "pillar": "capabilities",
+      "pm_score": 0.395,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "GRAPHLCP提出一种面向图神经网络的局部化共形预测框架，有效解决图数据预测置信度不足与分布偏移难题。该技术通过结构感知机制实现细粒度不确定性量化，为图AI提供可验证的置信区间。对PM而言，可显著提升推荐、风控等场景的决策透明度与容错能力，降低误判业务损失，是构建高可靠、可解释AI产品的关键底层能力。",
+      "raw_content": "# GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs\n\nGRAPHLCP提出一种面向图神经网络的局部化共形预测框架，有效解决图数据预测置信度不足与分布偏移难题。该技术通过结构感知机制实现细粒度不确定性量化，为图AI提供可验证的置信区间。对PM而言，可显著提升推荐、风控等场景的决策透明度与容错能力，降低误判业务损失，是构建高可靠、可解释AI产品的关键底层能力。\n\n## 作者\nPeyman Baghershahi, Fangxin Wang, Debmalya Mandal, Sourav Medya\n\n## 摘要\nConformal prediction (CP) provides a distribution-free approach to uncertainty quantification with finite-sample guarantees. However, applying CP to graph neural networks (GNNs) remains challenging a",
+      "source_type": "papers",
+      "date": "2026-05-11",
+      "url": ""
+    },
+    {
+      "id": "graphlcp-structure-aware-localized-conf",
+      "label": "GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.395,
+      "tags": [
+        "paper",
+        "capabilities"
+      ],
+      "summary": "GRAPHLCP提出一种面向图神经网络的局部化共形预测框架，有效解决图数据预测置信度不足与分布偏移难题。该技术通过结构感知机制实现细粒度不确定性量化，为图AI提供可验证的置信区间。对PM而言，可显著提升推荐、风控等场景的决策透明度与容错能力，降低误判业务损失，是构建高可靠、可解释AI产品的关键底层能力。",
+      "raw_content": "GRAPHLCP提出一种面向图神经网络的局部化共形预测框架，有效解决图数据预测置信度不足与分布偏移难题。该技术通过结构感知机制实现细粒度不确定性量化，为图AI提供可验证的置信区间。对PM而言，可显著提升推荐、风控等场景的决策透明度与容错能力，降低误判业务损失，是构建高可靠、可解释AI产品的关键底层能力。",
+      "date": "2026-05-08",
+      "url": "http://arxiv.org/abs/2605.08074v1",
+      "stars": null,
+      "score": null,
+      "comments": null,
+      "_concepts": [
+        "Uncertainty Quantification",
+        "Graph Neural Networks",
+        "Conformal Prediction"
+      ],
+      "_entities": [
+        "GRAPHLCP"
+      ],
+      "_patterns": [
+        "Uncertainty-Aware Prediction",
+        "Structure-Aware Modeling"
+      ]
+    },
+    {
       "id": "zaya1-8b-an-8b-moe-model-with-760m-active-params",
       "label": "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
       "type": "hn",
@@ -4375,6 +4298,22 @@
       "url": "https://news.ycombinator.com/item?id=48085330"
     },
     {
+      "id": "ps3-emulator-devs-politely-ask-that-people-stop-fl",
+      "label": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+      "type": "hn",
+      "pillar": "business",
+      "pm_score": 0.355,
+      "tags": [
+        "hn",
+        "business"
+      ],
+      "summary": "暂无中文摘要",
+      "raw_content": "# PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs\n\n暂无中文摘要\n\n## 链接\n- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48089263\n- 🔗 原文: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
+      "source_type": "hn",
+      "date": "2026-05-11",
+      "url": "https://news.ycombinator.com/item?id=48089263"
+    },
+    {
       "id": "ccfddlccf-deadlines",
       "label": "ccfddl/ccf-deadlines",
       "type": "github",
@@ -4407,6 +4346,22 @@
       "url": "https://github.com/mage-ai/mage-ai"
     },
     {
+      "id": "running-local-models-on-an-m4-with-24gb-memory",
+      "label": "Running local models on an M4 with 24GB memory",
+      "type": "hn",
+      "pillar": "patterns",
+      "pm_score": 0.355,
+      "tags": [
+        "hn",
+        "patterns"
+      ],
+      "summary": "暂无中文摘要",
+      "raw_content": "# Running local models on an M4 with 24GB memory\n\n暂无中文摘要\n\n## 链接\n- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48089091\n- 🔗 原文: https://jola.dev/posts/running-local-models-on-m4",
+      "source_type": "hn",
+      "date": "2026-05-11",
+      "url": "https://news.ycombinator.com/item?id=48089091"
+    },
+    {
       "id": "di-sukharevopencommit",
       "label": "di-sukharev/opencommit",
       "type": "github",
@@ -4423,6 +4378,22 @@
       "url": "https://github.com/di-sukharev/opencommit"
     },
     {
+      "id": "maryland-citizens-hit-with-2b-power-grid-upgrade",
+      "label": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+      "type": "hn",
+      "pillar": "business",
+      "pm_score": 0.355,
+      "tags": [
+        "hn",
+        "business"
+      ],
+      "summary": "暂无中文摘要",
+      "raw_content": "# Maryland citizens hit with $2B power grid upgrade for out-of-state AI\n\n暂无中文摘要\n\n## 链接\n- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48088151\n- 🔗 原文: https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+      "source_type": "hn",
+      "date": "2026-05-11",
+      "url": "https://news.ycombinator.com/item?id=48088151"
+    },
+    {
       "id": "0x4m4hexstrike-ai",
       "label": "0x4m4/hexstrike-ai",
       "type": "github",
@@ -4437,6 +4408,71 @@
       "source_type": "github",
       "date": "2026-05-07",
       "url": "https://github.com/0x4m4/hexstrike-ai"
+    },
+    {
+      "id": "running-local-models-on-an-m4-with-24gb",
+      "label": "Running local models on an M4 with 24GB memory",
+      "type": "discussion",
+      "pillar": "patterns",
+      "pm_score": 0.355,
+      "tags": [
+        "hn",
+        "patterns"
+      ],
+      "summary": "HN 热门讨论，165 分，60 条评论",
+      "raw_content": "HN 热门讨论，165 分，60 条评论",
+      "date": "2026-05-11",
+      "url": "https://jola.dev/posts/running-local-models-on-m4",
+      "stars": null,
+      "score": 165,
+      "comments": 60,
+      "_concepts": [
+        "Memory"
+      ],
+      "_entities": [],
+      "_patterns": []
+    },
+    {
+      "id": "maryland-citizens-hit-with-2b-power-gri",
+      "label": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+      "type": "discussion",
+      "pillar": "business",
+      "pm_score": 0.355,
+      "tags": [
+        "hn",
+        "business"
+      ],
+      "summary": "HN 热门讨论，185 分，97 条评论",
+      "raw_content": "HN 热门讨论，185 分，97 条评论",
+      "date": "2026-05-11",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+      "stars": null,
+      "score": 185,
+      "comments": 97,
+      "_concepts": [],
+      "_entities": [],
+      "_patterns": []
+    },
+    {
+      "id": "ps3-emulator-devs-politely-ask-that-peop",
+      "label": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+      "type": "discussion",
+      "pillar": "business",
+      "pm_score": 0.355,
+      "tags": [
+        "hn",
+        "business"
+      ],
+      "summary": "HN 热门讨论，108 分，75 条评论",
+      "raw_content": "HN 热门讨论，108 分，75 条评论",
+      "date": "2026-05-11",
+      "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
+      "stars": null,
+      "score": 108,
+      "comments": 75,
+      "_concepts": [],
+      "_entities": [],
+      "_patterns": []
     },
     {
       "id": "spain-has-become-one-of-europes-cheapes",
@@ -4490,6 +4526,28 @@
       "source_type": "hn",
       "date": "2026-05-07",
       "url": "https://news.ycombinator.com/item?id=48027455"
+    },
+    {
+      "id": "memory",
+      "label": "Memory",
+      "type": "concept",
+      "pillar": "capabilities",
+      "pm_score": 0.35,
+      "tags": [
+        "concept",
+        "capabilities"
+      ],
+      "summary": "关联项目: EmambaIR: Efficient Visual Sta, The Memory Curse: How Expanded, Fast Byte Latent Transformer, Running local models on an M4 ",
+      "raw_content": "",
+      "date": "2026-05-11",
+      "url": "",
+      "related_nodes": [
+        "emambair-efficient-visual-state-space-m",
+        "the-memory-curse-how-expanded-recall-er",
+        "fast-byte-latent-transformer",
+        "running-local-models-on-an-m4-with-24gb"
+      ],
+      "node_count": 4
     },
     {
       "id": "komai-a-fine-matrix-chat-app-you-can-get-to-love",
@@ -5156,6 +5214,108 @@
       "url": "https://news.ycombinator.com/item?id=48027275"
     },
     {
+      "id": "diffusion",
+      "label": "Diffusion",
+      "type": "concept",
+      "pillar": "capabilities",
+      "pm_score": 0.26,
+      "tags": [
+        "concept",
+        "capabilities"
+      ],
+      "summary": "关联项目: Normalizing Trajectory Models, Flow-OPD: On-Policy Distillati, Fast Byte Latent Transformer",
+      "raw_content": "",
+      "date": "2026-05-11",
+      "url": "",
+      "related_nodes": [
+        "normalizing-trajectory-models",
+        "flow-opd-on-policy-distillation-for-flo",
+        "fast-byte-latent-transformer"
+      ],
+      "node_count": 3
+    },
+    {
+      "id": "rag",
+      "label": "RAG",
+      "type": "concept",
+      "pillar": "capabilities",
+      "pm_score": 0.26,
+      "tags": [
+        "concept",
+        "capabilities"
+      ],
+      "summary": "关联项目: Zero-Shot Imagined Speech Deco, Flow-OPD: On-Policy Distillati, CA-SQL: Complexity-Aware Infer",
+      "raw_content": "",
+      "date": "2026-05-11",
+      "url": "",
+      "related_nodes": [
+        "zero-shot-imagined-speech-decoding-via-i",
+        "flow-opd-on-policy-distillation-for-flo",
+        "ca-sql-complexity-aware-inference-time"
+      ],
+      "node_count": 3
+    },
+    {
+      "id": "transformer",
+      "label": "Transformer",
+      "type": "concept",
+      "pillar": "capabilities",
+      "pm_score": 0.26,
+      "tags": [
+        "concept",
+        "capabilities"
+      ],
+      "summary": "关联项目: EmambaIR: Efficient Visual Sta, Fast Byte Latent Transformer",
+      "raw_content": "",
+      "date": "2026-05-11",
+      "url": "",
+      "related_nodes": [
+        "emambair-efficient-visual-state-space-m",
+        "fast-byte-latent-transformer"
+      ],
+      "node_count": 2
+    },
+    {
+      "id": "llm",
+      "label": "LLM",
+      "type": "concept",
+      "pillar": "capabilities",
+      "pm_score": 0.26,
+      "tags": [
+        "concept",
+        "capabilities"
+      ],
+      "summary": "关联项目: VecCISC: Improving Confidence-, CA-SQL: Complexity-Aware Infer",
+      "raw_content": "",
+      "date": "2026-05-11",
+      "url": "",
+      "related_nodes": [
+        "veccisc-improving-confidence-informed-s",
+        "ca-sql-complexity-aware-inference-time"
+      ],
+      "node_count": 2
+    },
+    {
+      "id": "prompt",
+      "label": "Prompt",
+      "type": "concept",
+      "pillar": "capabilities",
+      "pm_score": 0.26,
+      "tags": [
+        "concept",
+        "capabilities"
+      ],
+      "summary": "关联项目: The Memory Curse: How Expanded, CA-SQL: Complexity-Aware Infer",
+      "raw_content": "",
+      "date": "2026-05-11",
+      "url": "",
+      "related_nodes": [
+        "the-memory-curse-how-expanded-recall-er",
+        "ca-sql-complexity-aware-inference-time"
+      ],
+      "node_count": 2
+    },
+    {
       "id": "voi-founders8217-new-ai-startup-pit-h",
       "label": "Voi founders&#8217; new AI startup Pit has become the latest rising star out of ",
       "type": "news",
@@ -5220,6 +5380,319 @@
       "source_type": "hn",
       "date": "2026-05-09",
       "url": "https://news.ycombinator.com/item?id=48070115"
+    },
+    {
+      "id": "normalizing-trajectory-models",
+      "label": "Normalizing Trajectory Models",
+      "type": "papers",
+      "pillar": "capabilities",
+      "pm_score": 0.255,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "Diffusion-based models decompose sampling into many small Gaussian denoising steps -- an assumption that breaks down when generation is compressed to a few coarse transitions. Existing few-step methods address this through distillation, consistency training, or adversarial objectives, but sacrifice",
+      "raw_content": "# Normalizing Trajectory Models\n\n暂无中文摘要\n\n## 作者\nJiatao Gu, Tianrong Chen, Ying Shen, David Berthelot, Shuangfei Zhai\n\n## 摘要\nDiffusion-based models decompose sampling into many small Gaussian denoising steps -- an assumption that breaks down when generation is compressed to a few coarse transitions. Existing few-step methods address this through distillation, consistency training, or adversarial objectives, but sacrifice ...\n\n暂无中文摘要\n\n## 链接\n- 📄 arXiv: http://arxiv.org/abs/2605.08078v1\n\n## PM 视角解读\n>",
+      "source_type": "papers",
+      "date": "2026-05-11",
+      "url": ""
+    },
+    {
+      "id": "the-memory-curse-how-expanded-recall-erodes-cooperative-int",
+      "label": "The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents",
+      "type": "papers",
+      "pillar": "capabilities",
+      "pm_score": 0.255,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "Context window expansion is often treated as a straightforward capability upgrade for LLMs, but we find it systematically fails in multi-agent social dilemmas. Across 7 LLMs and 4 games over 500 rounds, expanding accessible history degrades cooperation in 18 of 28 model--game settings, a pattern we",
+      "raw_content": "# The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents\n\n暂无中文摘要\n\n## 作者\nJiayuan Liu, Tianqin Li, Shiyi Du, Xin Luo, Haoxuan Zeng\n\n## 摘要\nContext window expansion is often treated as a straightforward capability upgrade for LLMs, but we find it systematically fails in multi-agent social dilemmas. Across 7 LLMs and 4 games over 500 rounds, expanding accessible history degrades cooperation in 18 of 28 model--game settings, a pattern we ...\n\n暂无中文摘要\n\n## 链接\n- 📄 arXiv: http://arxi",
+      "source_type": "papers",
+      "date": "2026-05-11",
+      "url": ""
+    },
+    {
+      "id": "a-note-on-non-negative-l_1-approximating-polynomials",
+      "label": "A Note on Non-Negative $L_1$-Approximating Polynomials",
+      "type": "papers",
+      "pillar": "business",
+      "pm_score": 0.255,
+      "tags": [
+        "papers",
+        "business"
+      ],
+      "summary": "$L_1$-Approximating polynomials, i.e., polynomials that approximate indicator functions in $L_1$-norm under certain distributions, are widely used in computational learning theory. We study the existence of \\textit{non-negative} $L_1$-approximating polynomials with respect to Gaussian distributions.",
+      "raw_content": "# A Note on Non-Negative $L_1$-Approximating Polynomials\n\n暂无中文摘要\n\n## 作者\nJane H. Lee, Anay Mehrotra, Manolis Zampetakis\n\n## 摘要\n$L_1$-Approximating polynomials, i.e., polynomials that approximate indicator functions in $L_1$-norm under certain distributions, are widely used in computational learning theory. We study the existence of \\textit{non-negative} $L_1$-approximating polynomials with respect to Gaussian distributions....\n\n暂无中文摘要\n\n## 链接\n- 📄 arXiv: http://arxiv.org/abs/2605.08072v1\n\n## PM 视角解",
+      "source_type": "papers",
+      "date": "2026-05-11",
+      "url": ""
+    },
+    {
+      "id": "ca-sql-complexity-aware-inference-time-reasoning-for-text-t",
+      "label": "CA-SQL: Complexity-Aware Inference Time Reasoning for Text-to-SQL via Exploratio",
+      "type": "papers",
+      "pillar": "capabilities",
+      "pm_score": 0.255,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "While recent advancements in inference-time learning have improved LLM reasoning on Text-to-SQL tasks, current solutions still struggle to perform well on the most challenging tasks in the Bird-Bench (BIRD) benchmark. This is due to inadequate solution space exploration, which is necessary to uncove",
+      "raw_content": "# CA-SQL: Complexity-Aware Inference Time Reasoning for Text-to-SQL via Exploration and Compute Budget Allocation\n\n暂无中文摘要\n\n## 作者\nJames Petullo, Nianwen Xue\n\n## 摘要\nWhile recent advancements in inference-time learning have improved LLM reasoning on Text-to-SQL tasks, current solutions still struggle to perform well on the most challenging tasks in the Bird-Bench (BIRD) benchmark. This is due to inadequate solution space exploration, which is necessary to uncove...\n\n暂无中文摘要\n\n## 链接\n- 📄 arXiv: http://",
+      "source_type": "papers",
+      "date": "2026-05-11",
+      "url": ""
+    },
+    {
+      "id": "veccisc-improving-confidence-informed-self-consistency-with",
+      "label": "VecCISC: Improving Confidence-Informed Self-Consistency with Reasoning Trace Clu",
+      "type": "papers",
+      "pillar": "capabilities",
+      "pm_score": 0.255,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "A standard technique for scaling inference-time reasoning is Self-Consistency, whereby multiple candidate answers are sampled from an LLM and the most common answer is selected. More recently, it has been shown that weighted majority voting (e.g. Confidence-Informed Self Consistency (CISC)), which a",
+      "raw_content": "# VecCISC: Improving Confidence-Informed Self-Consistency with Reasoning Trace Clustering and Candidate Answer Selection\n\n暂无中文摘要\n\n## 作者\nJames Petullo, Sonny George, Dylan Cashman, Nianwen Xue\n\n## 摘要\nA standard technique for scaling inference-time reasoning is Self-Consistency, whereby multiple candidate answers are sampled from an LLM and the most common answer is selected. More recently, it has been shown that weighted majority voting (e.g. Confidence-Informed Self Consistency (CISC)), which a.",
+      "source_type": "papers",
+      "date": "2026-05-11",
+      "url": ""
+    },
+    {
+      "id": "flow-opd-on-policy-distillation-for-flow-matching-models",
+      "label": "Flow-OPD: On-Policy Distillation for Flow Matching Models",
+      "type": "papers",
+      "pillar": "capabilities",
+      "pm_score": 0.255,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "Existing Flow Matching (FM) text-to-image models suffer from two critical bottlenecks under multi-task alignment: the reward sparsity induced by scalar-valued rewards, and the gradient interference arising from jointly optimizing heterogeneous objectives, which together give rise to a 'seesaw effect",
+      "raw_content": "# Flow-OPD: On-Policy Distillation for Flow Matching Models\n\n暂无中文摘要\n\n## 作者\nZhen Fang, Wenxuan Huang, Yu Zeng, Yiming Zhao, Shuang Chen\n\n## 摘要\nExisting Flow Matching (FM) text-to-image models suffer from two critical bottlenecks under multi-task alignment: the reward sparsity induced by scalar-valued rewards, and the gradient interference arising from jointly optimizing heterogeneous objectives, which together give rise to a 'seesaw effect...\n\n暂无中文摘要\n\n## 链接\n- 📄 arXiv: http://arxiv.org/abs/2605.08",
+      "source_type": "papers",
+      "date": "2026-05-11",
+      "url": ""
+    },
+    {
+      "id": "zero-shot-imagined-speech-decoding-via-imagined-to-listened",
+      "label": "Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping",
+      "type": "papers",
+      "pillar": "capabilities",
+      "pm_score": 0.255,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "Decoding imagined speech from non-invasive brain recordings is challenging because imagined datasets are scarce and difficult to align temporally across subjects and sessions In this work, we propose a new approach to the decoding of imagined speech that leverages the richer and more reliably labele",
+      "raw_content": "# Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping\n\n暂无中文摘要\n\n## 作者\nMaryam Maghsoudi, Shihab Shamma\n\n## 摘要\nDecoding imagined speech from non-invasive brain recordings is challenging because imagined datasets are scarce and difficult to align temporally across subjects and sessions In this work, we propose a new approach to the decoding of imagined speech that leverages the richer and more reliably labele...\n\n暂无中文摘要\n\n## 链接\n- 📄 arXiv: http://arxiv.org/abs/2605.08075v1\n\n## PM 视",
+      "source_type": "papers",
+      "date": "2026-05-11",
+      "url": ""
+    },
+    {
+      "id": "emambair-efficient-visual-state-space-model-for-event-guide",
+      "label": "EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstructi",
+      "type": "papers",
+      "pillar": "capabilities",
+      "pm_score": 0.255,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "Recent event-based image reconstruction methods predominantly rely on Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs) to process complementary event information. However, these architectures face fundamental limitations: CNNs often fail to capture global feature correlations, whe",
+      "raw_content": "# EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction\n\n暂无中文摘要\n\n## 作者\nWei Yu, Yunhang Qian\n\n## 摘要\nRecent event-based image reconstruction methods predominantly rely on Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs) to process complementary event information. However, these architectures face fundamental limitations: CNNs often fail to capture global feature correlations, whe...\n\n暂无中文摘要\n\n## 链接\n- 📄 arXiv: http://arxiv.org/abs/2605.08073v1\n\n## PM 视",
+      "source_type": "papers",
+      "date": "2026-05-11",
+      "url": ""
+    },
+    {
+      "id": "fast-byte-latent-transformer",
+      "label": "Fast Byte Latent Transformer",
+      "type": "papers",
+      "pillar": "capabilities",
+      "pm_score": 0.255,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "Recent byte-level language models (LMs) match the performance of token-level models without relying on subword vocabularies, yet their utility is limited by slow, byte-by-byte autoregressive generation. We address this bottleneck in the Byte Latent Transformer (BLT) through new training and generati",
+      "raw_content": "# Fast Byte Latent Transformer\n\n暂无中文摘要\n\n## 作者\nJulie Kallini, Artidoro Pagnoni, Tomasz Limisiewicz, Gargi Ghosh, Luke Zettlemoyer\n\n## 摘要\nRecent byte-level language models (LMs) match the performance of token-level models without relying on subword vocabularies, yet their utility is limited by slow, byte-by-byte autoregressive generation. We address this bottleneck in the Byte Latent Transformer (BLT) through new training and generati...\n\n暂无中文摘要\n\n## 链接\n- 📄 arXiv: http://arxiv.org/abs/2605.08044v1\n",
+      "source_type": "papers",
+      "date": "2026-05-11",
+      "url": ""
+    },
+    {
+      "id": "zero-shot-imagined-speech-decoding-via-i",
+      "label": "Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.255,
+      "tags": [
+        "paper",
+        "capabilities"
+      ],
+      "summary": "Decoding imagined speech from non-invasive brain recordings is challenging because imagined datasets are scarce and difficult to align temporally across subjects and sessions In this work, we propose a new approach to the decoding of imagined speech that leverages the richer and more reliably labele",
+      "raw_content": "Decoding imagined speech from non-invasive brain recordings is challenging because imagined datasets are scarce and difficult to align temporally across subjects and sessions In this work, we propose a new approach to the decoding of imagined speech that leverages the richer and more reliably labele",
+      "date": "2026-05-08",
+      "url": "http://arxiv.org/abs/2605.08075v1",
+      "stars": null,
+      "score": null,
+      "comments": null,
+      "_concepts": [
+        "RAG",
+        "Embedding"
+      ],
+      "_entities": [],
+      "_patterns": []
+    },
+    {
+      "id": "emambair-efficient-visual-state-space-m",
+      "label": "EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstructi",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.255,
+      "tags": [
+        "paper",
+        "capabilities"
+      ],
+      "summary": "Recent event-based image reconstruction methods predominantly rely on Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs) to process complementary event information. However, these architectures face fundamental limitations: CNNs often fail to capture global feature correlations, whe",
+      "raw_content": "Recent event-based image reconstruction methods predominantly rely on Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs) to process complementary event information. However, these architectures face fundamental limitations: CNNs often fail to capture global feature correlations, whe",
+      "date": "2026-05-08",
+      "url": "http://arxiv.org/abs/2605.08073v1",
+      "stars": null,
+      "score": null,
+      "comments": null,
+      "_concepts": [
+        "Memory",
+        "Transformer"
+      ],
+      "_entities": [],
+      "_patterns": []
+    },
+    {
+      "id": "a-note-on-non-negative-l_1-approximati",
+      "label": "A Note on Non-Negative $L_1$-Approximating Polynomials",
+      "type": "paper",
+      "pillar": "business",
+      "pm_score": 0.255,
+      "tags": [
+        "paper",
+        "business"
+      ],
+      "summary": "$L_1$-Approximating polynomials, i.e., polynomials that approximate indicator functions in $L_1$-norm under certain distributions, are widely used in computational learning theory. We study the existence of \\textit{non-negative} $L_1$-approximating polynomials with respect to Gaussian distributions.",
+      "raw_content": "$L_1$-Approximating polynomials, i.e., polynomials that approximate indicator functions in $L_1$-norm under certain distributions, are widely used in computational learning theory. We study the existence of \\textit{non-negative} $L_1$-approximating polynomials with respect to Gaussian distributions.",
+      "date": "2026-05-08",
+      "url": "http://arxiv.org/abs/2605.08072v1",
+      "stars": null,
+      "score": null,
+      "comments": null,
+      "_concepts": [],
+      "_entities": [],
+      "_patterns": []
+    },
+    {
+      "id": "veccisc-improving-confidence-informed-s",
+      "label": "VecCISC: Improving Confidence-Informed Self-Consistency with Reasoning Trace Clu",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.255,
+      "tags": [
+        "paper",
+        "capabilities"
+      ],
+      "summary": "A standard technique for scaling inference-time reasoning is Self-Consistency, whereby multiple candidate answers are sampled from an LLM and the most common answer is selected. More recently, it has been shown that weighted majority voting (e.g. Confidence-Informed Self Consistency (CISC)), which a",
+      "raw_content": "A standard technique for scaling inference-time reasoning is Self-Consistency, whereby multiple candidate answers are sampled from an LLM and the most common answer is selected. More recently, it has been shown that weighted majority voting (e.g. Confidence-Informed Self Consistency (CISC)), which a",
+      "date": "2026-05-08",
+      "url": "http://arxiv.org/abs/2605.08070v1",
+      "stars": null,
+      "score": null,
+      "comments": null,
+      "_concepts": [
+        "LLM"
+      ],
+      "_entities": [],
+      "_patterns": []
+    },
+    {
+      "id": "flow-opd-on-policy-distillation-for-flo",
+      "label": "Flow-OPD: On-Policy Distillation for Flow Matching Models",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.255,
+      "tags": [
+        "paper",
+        "capabilities"
+      ],
+      "summary": "Existing Flow Matching (FM) text-to-image models suffer from two critical bottlenecks under multi-task alignment: the reward sparsity induced by scalar-valued rewards, and the gradient interference arising from jointly optimizing heterogeneous objectives, which together give rise to a 'seesaw effect",
+      "raw_content": "Existing Flow Matching (FM) text-to-image models suffer from two critical bottlenecks under multi-task alignment: the reward sparsity induced by scalar-valued rewards, and the gradient interference arising from jointly optimizing heterogeneous objectives, which together give rise to a 'seesaw effect",
+      "date": "2026-05-08",
+      "url": "http://arxiv.org/abs/2605.08063v1",
+      "stars": null,
+      "score": null,
+      "comments": null,
+      "_concepts": [
+        "RAG",
+        "Fine-tuning",
+        "Diffusion"
+      ],
+      "_entities": [],
+      "_patterns": []
+    },
+    {
+      "id": "the-memory-curse-how-expanded-recall-er",
+      "label": "The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.255,
+      "tags": [
+        "paper",
+        "capabilities"
+      ],
+      "summary": "Context window expansion is often treated as a straightforward capability upgrade for LLMs, but we find it systematically fails in multi-agent social dilemmas. Across 7 LLMs and 4 games over 500 rounds, expanding accessible history degrades cooperation in 18 of 28 model--game settings, a pattern we ",
+      "raw_content": "Context window expansion is often treated as a straightforward capability upgrade for LLMs, but we find it systematically fails in multi-agent social dilemmas. Across 7 LLMs and 4 games over 500 rounds, expanding accessible history degrades cooperation in 18 of 28 model--game settings, a pattern we ",
+      "date": "2026-05-08",
+      "url": "http://arxiv.org/abs/2605.08060v1",
+      "stars": null,
+      "score": null,
+      "comments": null,
+      "_concepts": [
+        "LLM",
+        "Memory",
+        "Multi-Agent",
+        "Fine-tuning",
+        "Prompt"
+      ],
+      "_entities": [],
+      "_patterns": []
+    },
+    {
+      "id": "ca-sql-complexity-aware-inference-time",
+      "label": "CA-SQL: Complexity-Aware Inference Time Reasoning for Text-to-SQL via Exploratio",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.255,
+      "tags": [
+        "paper",
+        "capabilities"
+      ],
+      "summary": "While recent advancements in inference-time learning have improved LLM reasoning on Text-to-SQL tasks, current solutions still struggle to perform well on the most challenging tasks in the Bird-Bench (BIRD) benchmark. This is due to inadequate solution space exploration, which is necessary to uncove",
+      "raw_content": "While recent advancements in inference-time learning have improved LLM reasoning on Text-to-SQL tasks, current solutions still struggle to perform well on the most challenging tasks in the Bird-Bench (BIRD) benchmark. This is due to inadequate solution space exploration, which is necessary to uncove",
+      "date": "2026-05-08",
+      "url": "http://arxiv.org/abs/2605.08057v1",
+      "stars": null,
+      "score": null,
+      "comments": null,
+      "_concepts": [
+        "LLM",
+        "RAG",
+        "Prompt"
+      ],
+      "_entities": [],
+      "_patterns": []
     },
     {
       "id": "chromes-ai-features-may-be-hogging-4gb",
@@ -5312,6 +5785,43 @@
       "source_type": "showhn",
       "date": "2026-05-11",
       "url": "https://github.com/narcotic-sh/modafinil"
+    },
+    {
+      "id": "an-ai-coding-agent-used-to-write-code-needs-to-r",
+      "label": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+      "type": "hn",
+      "pillar": "patterns",
+      "pm_score": 0.205,
+      "tags": [
+        "hn",
+        "patterns"
+      ],
+      "summary": "暂无中文摘要",
+      "raw_content": "# An AI coding agent, used to write code, needs to reduce your maintenance costs\n\n暂无中文摘要\n\n## 链接\n- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48089289\n- 🔗 原文: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+      "source_type": "hn",
+      "date": "2026-05-11",
+      "url": "https://news.ycombinator.com/item?id=48089289"
+    },
+    {
+      "id": "an-ai-coding-agent-used-to-write-code",
+      "label": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+      "type": "discussion",
+      "pillar": "patterns",
+      "pm_score": 0.205,
+      "tags": [
+        "hn",
+        "patterns"
+      ],
+      "summary": "HN 热门讨论，69 分，11 条评论",
+      "raw_content": "HN 热门讨论，69 分，11 条评论",
+      "date": "2026-05-11",
+      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+      "stars": null,
+      "score": 69,
+      "comments": 11,
+      "_concepts": [],
+      "_entities": [],
+      "_patterns": []
     },
     {
       "id": "show-hn-modafinil-let-agents-continue",
@@ -5413,6 +5923,22 @@
       "source_type": "showhn",
       "date": "2026-05-07",
       "url": "https://github.com/darkrishabh/agent-skills-eval"
+    },
+    {
+      "id": "the-greatest-shot-in-television-james-burke-had-o",
+      "label": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene",
+      "type": "hn",
+      "pillar": "capabilities",
+      "pm_score": 0.155,
+      "tags": [
+        "hn",
+        "capabilities"
+      ],
+      "summary": "暂无中文摘要",
+      "raw_content": "# The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene\n\n暂无中文摘要\n\n## 链接\n- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48090521\n- 🔗 原文: https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "source_type": "hn",
+      "date": "2026-05-11",
+      "url": "https://news.ycombinator.com/item?id=48090521"
     },
     {
       "id": "show-hn-nanocorp-create-autonomous-companies-ru",
@@ -5541,6 +6067,27 @@
       "source_type": "showhn",
       "date": "2026-05-09",
       "url": "https://github.com/jam5991/anam"
+    },
+    {
+      "id": "the-greatest-shot-in-television-james-b",
+      "label": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene",
+      "type": "discussion",
+      "pillar": "capabilities",
+      "pm_score": 0.155,
+      "tags": [
+        "hn",
+        "capabilities"
+      ],
+      "summary": "HN 热门讨论，31 分，7 条评论",
+      "raw_content": "HN 热门讨论，31 分，7 条评论",
+      "date": "2026-05-11",
+      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "stars": null,
+      "score": 31,
+      "comments": 7,
+      "_concepts": [],
+      "_entities": [],
+      "_patterns": []
     },
     {
       "id": "openaicom-was-once-the-personal-homep",
@@ -5756,6 +6303,102 @@
       ]
     },
     {
+      "id": "design-extract",
+      "label": "design-extract",
+      "type": "unknown",
+      "pillar": "business",
+      "pm_score": 0.1,
+      "tags": [
+        "unknown",
+        "business"
+      ],
+      "summary": "",
+      "raw_content": "",
+      "source_type": "unknown",
+      "date": "2026-05-11",
+      "url": ""
+    },
+    {
+      "id": "mcp-use-mcp-use",
+      "label": "mcp-use-mcp-use",
+      "type": "unknown",
+      "pillar": "ecosystem",
+      "pm_score": 0.1,
+      "tags": [
+        "unknown",
+        "ecosystem"
+      ],
+      "summary": "",
+      "raw_content": "",
+      "source_type": "unknown",
+      "date": "2026-05-11",
+      "url": ""
+    },
+    {
+      "id": "onlook-dev-onlook",
+      "label": "onlook-dev-onlook",
+      "type": "unknown",
+      "pillar": "business",
+      "pm_score": 0.1,
+      "tags": [
+        "unknown",
+        "business"
+      ],
+      "summary": "",
+      "raw_content": "",
+      "source_type": "unknown",
+      "date": "2026-05-11",
+      "url": ""
+    },
+    {
+      "id": "openai-symphony",
+      "label": "openai-symphony",
+      "type": "unknown",
+      "pillar": "business",
+      "pm_score": 0.1,
+      "tags": [
+        "unknown",
+        "business"
+      ],
+      "summary": "",
+      "raw_content": "",
+      "source_type": "unknown",
+      "date": "2026-05-11",
+      "url": ""
+    },
+    {
+      "id": "obra-superpowers",
+      "label": "obra-superpowers",
+      "type": "unknown",
+      "pillar": "business",
+      "pm_score": 0.1,
+      "tags": [
+        "unknown",
+        "business"
+      ],
+      "summary": "",
+      "raw_content": "",
+      "source_type": "unknown",
+      "date": "2026-05-11",
+      "url": ""
+    },
+    {
+      "id": "golutra-golutra",
+      "label": "golutra-golutra",
+      "type": "unknown",
+      "pillar": "business",
+      "pm_score": 0.1,
+      "tags": [
+        "unknown",
+        "business"
+      ],
+      "summary": "",
+      "raw_content": "",
+      "source_type": "unknown",
+      "date": "2026-05-11",
+      "url": ""
+    },
+    {
       "id": "at-techcrunch-disrupt-2026-all-your-m038a-ques",
       "label": "At TechCrunch Disrupt 2026, all your M&#038;A questions will be answered",
       "type": "techcrunch",
@@ -5770,6 +6413,54 @@
       "source_type": "techcrunch",
       "date": "2026-05-07",
       "url": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/"
+    },
+    {
+      "id": "bytedance-ui-tars-desktop",
+      "label": "bytedance-ui-tars-desktop",
+      "type": "unknown",
+      "pillar": "business",
+      "pm_score": 0.1,
+      "tags": [
+        "unknown",
+        "business"
+      ],
+      "summary": "",
+      "raw_content": "",
+      "source_type": "unknown",
+      "date": "2026-05-11",
+      "url": ""
+    },
+    {
+      "id": "ruvnet-ruflo",
+      "label": "ruvnet-ruflo",
+      "type": "unknown",
+      "pillar": "business",
+      "pm_score": 0.1,
+      "tags": [
+        "unknown",
+        "business"
+      ],
+      "summary": "",
+      "raw_content": "",
+      "source_type": "unknown",
+      "date": "2026-05-11",
+      "url": ""
+    },
+    {
+      "id": "insforge-insforge",
+      "label": "insforge-insforge",
+      "type": "unknown",
+      "pillar": "business",
+      "pm_score": 0.1,
+      "tags": [
+        "unknown",
+        "business"
+      ],
+      "summary": "",
+      "raw_content": "",
+      "source_type": "unknown",
+      "date": "2026-05-11",
+      "url": ""
     },
     {
       "id": "spacex-may-spend-up-to-119b-on-8216terafab82",
@@ -6037,6 +6728,2715 @@
     }
   ],
   "edges": [
+    {
+      "id": "edge_normalizing-trajectory-models_diffusion",
+      "from": "normalizing-trajectory-models",
+      "to": "diffusion",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_flow-opd-on-policy-distillation-for-flo_diffusion",
+      "from": "flow-opd-on-policy-distillation-for-flo",
+      "to": "diffusion",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_fast-byte-latent-transformer_diffusion",
+      "from": "fast-byte-latent-transformer",
+      "to": "diffusion",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_zero-shot-imagined-speech-decoding-via-i_rag",
+      "from": "zero-shot-imagined-speech-decoding-via-i",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_flow-opd-on-policy-distillation-for-flo_rag",
+      "from": "flow-opd-on-policy-distillation-for-flo",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_ca-sql-complexity-aware-inference-time_rag",
+      "from": "ca-sql-complexity-aware-inference-time",
+      "to": "rag",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_emambair-efficient-visual-state-space-m_transformer",
+      "from": "emambair-efficient-visual-state-space-m",
+      "to": "transformer",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_fast-byte-latent-transformer_transformer",
+      "from": "fast-byte-latent-transformer",
+      "to": "transformer",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_emambair-efficient-visual-state-space-m_memory",
+      "from": "emambair-efficient-visual-state-space-m",
+      "to": "memory",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_the-memory-curse-how-expanded-recall-er_memory",
+      "from": "the-memory-curse-how-expanded-recall-er",
+      "to": "memory",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_fast-byte-latent-transformer_memory",
+      "from": "fast-byte-latent-transformer",
+      "to": "memory",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_running-local-models-on-an-m4-with-24gb_memory",
+      "from": "running-local-models-on-an-m4-with-24gb",
+      "to": "memory",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_veccisc-improving-confidence-informed-s_llm",
+      "from": "veccisc-improving-confidence-informed-s",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_ca-sql-complexity-aware-inference-time_llm",
+      "from": "ca-sql-complexity-aware-inference-time",
+      "to": "llm",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_the-memory-curse-how-expanded-recall-er_prompt",
+      "from": "the-memory-curse-how-expanded-recall-er",
+      "to": "prompt",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "id": "edge_ca-sql-complexity-aware-inference-time_prompt",
+      "from": "ca-sql-complexity-aware-inference-time",
+      "to": "prompt",
+      "type": "BELONGS_TO",
+      "relation": "belongs_to"
+    },
+    {
+      "source": "microsoftsemantic-kernel",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "interpretmlinterpret",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "programbench-can-language-models-rebuild-programs",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1025
+    },
+    {
+      "source": "design-extract",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "bytedancedeer-flow",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "meilisearchmeilisearch",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "tesseract-ocrtesseract",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "sansan0trendradar",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "task-paralysis-and-ai",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "spain-has-become-one-of-europes-cheapest-power-ma",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "openclawopenclaw",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "photoprismphotoprism",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "ps3-emulator-devs-politely-ask-that-people-stop-fl",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "daviskingdlib",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2725
+    },
+    {
+      "source": "the-art-of-hackingh4cker",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "lukasmasuchbest-of-ml-python",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "barry-diller-trusts-sam-altman-but-8216trust-i",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.075
+    },
+    {
+      "source": "asgeirtjsystem_prompts_leaks",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "ultralyticsyolov5",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "show-hn-crit-local-review-tool-for-agent-plans",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "mlflowmlflow",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "local-ai-needs-to-be-the-norm",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2125
+    },
+    {
+      "source": "get-ready-for-the-whisper-filled-office-of-the-fut",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "firecrawlfirecrawl",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "ccfddlccf-deadlines",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "hacksiderdeep-live-cam",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "huggingfacediffusers",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "huggingfacetransformers",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "ethicalmlawesome-production-machine-learning",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "marimo-teammarimo",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "mempalacemempalace",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.315
+    },
+    {
+      "source": "x1xhlolsystem-prompts-and-models-of-ai-tools",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "snap-says-its-400m-deal-with-perplexity-8216am",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "why-you-can-never-get-your-doctor-to-call-you-back",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "mcp-use-mcp-use",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "blaise-a-modern-self-hosting-zero-legacy-object",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "datawhalechinahappy-llm",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "google-deepmindsonnet",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2475
+    },
+    {
+      "source": "show-hn-explore-color-palettes-inspired-by-3000-m",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "onlook-dev-onlook",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "dbeaverdbeaver",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2725
+    },
+    {
+      "source": "hardening-firefox-with-claude-mythos-preview",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "linshenkxprompt-optimizer",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "academic-research-skills-for-claude-code",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1975
+    },
+    {
+      "source": "apple-to-pay-250m-to-settle-lawsuit-over-siri82",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.075
+    },
+    {
+      "source": "llms-corrupt-your-documents-when-you-delegate",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "unstructured-iounstructured",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "tinder-owner-match-group-is-slowing-hiring-to-pay",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.075
+    },
+    {
+      "source": "fastaifastai",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "spotify8217s-ai-dj-now-supports-french-german",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "microsoftonnxruntime",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "significant-gravitasautogpt",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "dmlcxgboost",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "openai-symphony",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "gradio-appgradio",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "hpcaitechcolossalai",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "claude-code-cve-2026-39861sandbox-escape-via-syml",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "google-geminigemini-cli",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "khosla-backed-robotics-startup-genesis-ai-has-gone",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "mage-aimage-ai",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "a-polynomial-autoencoder-beats-pca-on-transformer",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "thedotmackclaude-mem",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "pytorchpytorch",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "show-hn-i-built-an-open-source-email-builder-alt",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.175
+    },
+    {
+      "source": "jingyaogongminimind-v",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "bee-sanciphey",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2725
+    },
+    {
+      "source": "jeinlee1991chinese-llm-benchmark",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "a-recent-experience-with-chatgpt-55-pro",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "spring-projectsspring-ai",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "chromes-ai-features-may-be-hogging-4gb-of-your-co",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "canvas-online-again-as-shinyhunters-threatens-to-l",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2525
+    },
+    {
+      "source": "mishushakovllm-scraper",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "danny-avilalibrechat",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "hiyougallamafactory",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "wkentarolabelme",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "lightning-aipytorch-lightning",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "obra-superpowers",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "zhulinsendaily_stock_analysis",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "unslothaiunsloth",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "laid-off-oracle-workers-tried-to-negotiate-better",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "deeplearning4jdeeplearning4j",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "hesreallyhimawesome-claude-code",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "sillytavernsillytavern",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "openbb-financeopenbb",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "berriailitellm",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "lobehublobehub",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "running-local-models-on-an-m4-with-24gb-memory",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "golutra-golutra",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "2noisechattts",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "teaching-claude-why",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "using-claude-code-the-unreasonable-effectiveness",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "langchain-ailanggraph",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "how-elon-musk-left-openai-according-to-greg-brock",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "keras-teamkeras",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "accumulatemorecv",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.255
+    },
+    {
+      "source": "docling-projectdocling",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "deepfakesfaceswap",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "hkudslightrag",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "mintplex-labsanything-llm",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "srbhrresume-matcher",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "onnxonnx",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "gpt-55-price-increase-what-it-costs",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "all-means-are-fair-except-solving-the-problem",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2325
+    },
+    {
+      "source": "cvat-aicvat",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "meta-shuts-down-end-to-end-encryption-for-instagra",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1875
+    },
+    {
+      "source": "supabasesupabase",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "five-architects-of-the-ai-economy-explain-where-th",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.075
+    },
+    {
+      "source": "liyupiai-guide",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "france-moves-to-break-encrypted-messaging",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "show-hn-agent-skills-eval-test-whether-agent-sk",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "is-xai-a-neocloud-now",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "agent-harness-kit-scaffolding-for-multi-agent-work",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "learning-the-integral-of-a-diffusion-model",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "ai-boom-pushes-samsung-to-1t",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "kyegomezswarms",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "modularmodular",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "were-feeling-cynical-about-xais-big-deal-with-an",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "di-sukharevopencommit",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "at-techcrunch-disrupt-2026-all-your-m038a-ques",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "3-days-left-to-lock-in-50-off-a-second-ticket-to",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.075
+    },
+    {
+      "source": "upstashcontext7",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "janhqjan",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "voice-ai-in-india-is-hard-wispr-flow-is-betting-o",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "camel-aicamel",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "maryland-citizens-hit-with-2b-power-grid-upgrade",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "the-peoples-airline-and-the-enterprise-ai-gold",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "ai-is-breaking-two-vulnerability-cultures",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "the-greatest-shot-in-television-james-burke-had-o",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "xorbitsaiinference",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2825
+    },
+    {
+      "source": "alibabaspring-ai-alibaba",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "tensorflowtensorflow",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "patchy631ai-engineering-hub",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "zaya1-8b-an-8b-moe-model-with-760m-active-params",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.19
+    },
+    {
+      "source": "flowiseaiflowise",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "vllm-projectvllm",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "invoke-aiinvokeai",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "anthropic-says-evil-portrayals-of-ai-were-respon",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "run-llamallama_index",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "rssnextfolo",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "shapshap",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "show-hn-nanocorp-create-autonomous-companies-ru",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "carla-simulatorcarla",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "product-hunt-ai-topics",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "openhandsopenhands",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "komai-a-fine-matrix-chat-app-you-can-get-to-love",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1725
+    },
+    {
+      "source": "sqlite-is-a-library-of-congress-recommended-storag",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2
+    },
+    {
+      "source": "mlc-aiweb-llm",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "tools-in-the-grass-raising-the-next-generation-of",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1475
+    },
+    {
+      "source": "the-soul-of-maintaining-a-new-machine",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.19
+    },
+    {
+      "source": "apacheairflow",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "googlemagika",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "nousresearchhermes-agent",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "microsoftqlib",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "composiohqcomposio",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "itzcrazyknsvane",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "llmorphism-when-humans-come-to-see-themselves-as",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.215
+    },
+    {
+      "source": "ethos-raises-2275m-from-a16z-for-its-expert-netw",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "recommenders-teamrecommenders",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "tauricresearchtradingagents",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "so-you8217ve-heard-these-ai-terms-and-nodded-al",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "qdrantqdrant",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "d4vinciscrapling",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "google-researchgoogle-research",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "show-hn-modafinil-let-agents-continue-running-w",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1025
+    },
+    {
+      "source": "metas-embrace-of-ai-is-making-its-employees-miser",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2275
+    },
+    {
+      "source": "microsoftml-for-beginners",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2725
+    },
+    {
+      "source": "aliasroboticscai",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "aaif-goosegoose",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "korniakornia",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "voxel51fiftyone",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "ai-collectionai-collection",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "tracel-aiburn",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "nvidiatensorrt",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "cvhub520x-anylabeling",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2825
+    },
+    {
+      "source": "last-24-hours-to-get-50-off-a-second-pass-to-tech",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "tensorflowtfjs",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "crewaiinccrewai",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "fpromptschat",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "open-webuiopen-webui",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "an-ai-coding-agent-used-to-write-code-needs-to-r",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1025
+    },
+    {
+      "source": "datawhalechinahello-agents",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "rasbtllms-from-scratch",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2725
+    },
+    {
+      "source": "mindsdbmindsdb",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "koala73worldmonitor",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "nirdiamantrag_techniques",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "shanraisshanclaude-code-best-practice",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "deepset-aihaystack",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "geeeekexplorernano-vllm",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "can-llms-model-real-world-systems-in-tla",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "cloudflare-says-ai-made-1100-jobs-obsolete-even",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "clojurescript-gets-asyncawait",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "sgl-projectsglang",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "n8n-ion8n",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "aids-creeps-back-in-parts-of-zambia-a-year-after",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.06
+    },
+    {
+      "source": "onyx-dot-apponyx",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "dyad-shdyad",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "deepspeedaideepspeed",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "pingcaptidb",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "apple-is-enforcing-an-old-app-store-rule-against-a",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "0xplaygroundsrig",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2475
+    },
+    {
+      "source": "langfuselangfuse",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "continuedevcontinue",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "show-hn-git-for-ai-agents",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "wasmedgewasmedge",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "fincept-corporationfinceptterminal",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "mudlerlocalai",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "milvus-iomilvus",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "astrbotdevsastrbot",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "agno-agiagno",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "affaan-meverything-claude-code",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "yamadashyrepomix",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "mathfoundationrlbook-mathematical-foundation-of-reinforcement-learning",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "all-my-clients-wanted-a-carousel-now-its-an-ai-c",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "juliusbrusseecaveman",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2275
+    },
+    {
+      "source": "screenpipescreenpipe",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "copilotkitcopilotkit",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "vercelai",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "punkpeyeawesome-mcp-servers",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "camel-aiowl",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "microsoftgenerative-ai-for-beginners",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "hkudsnanobot",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "rtk-airtk",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "tensorzerotensorzero",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "googlelangextract",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "daytonaiodaytona",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "comfy-orgcomfyui",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "steven2358awesome-generative-ai",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "code-yeongyuoh-my-openagent",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "ai4finance-foundationfingpt",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "langchain-ailangchain",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "harry0703moneyprinterturbo",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "bytedance-ui-tars-desktop",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "openais-webrtc-problem",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "jingyaogongminimind",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2725
+    },
+    {
+      "source": "harvard-edgecs249r_book",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "google-ai-edgemediapipe",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "microsoftai-for-beginners",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "intel8217s-comeback-story-is-even-wilder-than-i",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "gemini-api-file-search-is-now-multimodal",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.19
+    },
+    {
+      "source": "openaicom-was-once-the-personal-homepage-of-a-g",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "ruvnet-ruflo",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "removing-fsync-from-our-local-storage-engine",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "lutzroedernetron",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "leon-aileon",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "pyg-teampytorch_geometric",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "handsonllmhands-on-large-language-models",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "making-llm-training-faster-with-unsloth-and-nvidia",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "ray-projectray",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "netdatanetdata",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "paddlepaddlepaddle",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "unity-technologiesml-agents",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "tesla-model-y-passes-nhtsas-new-advanced-driver",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "githubspec-kit",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "nvidia-has-already-committed-40b-to-equity-ai-dea",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "microsoftgraphrag",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "blinkdlrwkv-lm",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "vectifyaipageindex",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "deepseek-could-hit-45b-valuation-from-its-first-i",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "flwrlabsflower",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "lightning-ailitgpt",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "microsoftautogen",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "scikit-learnscikit-learn",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "lucidrainsvit-pytorch",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "simstudioaisim",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "mem0aimem0",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "usestrixstrix",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "fission-aiopenspec",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "huggingfacedatasets",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "datawhalechinaself-llm",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "podman-rootless-containers-and-the-copy-fail-explo",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "jeecgbootjeecgboot",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "google-updates-ai-search-to-include-quotes-from-re",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "browser-usebrowser-use",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "apachetvm",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "insforge-insforge",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "a-theory-of-deep-learning",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.175
+    },
+    {
+      "source": "mlfoundationsopen_clip",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "danielmiesslerfabric",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "streamlitstreamlit",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "labringfastgpt",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "tencentncnn",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "ollamaollama",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "spacex-may-spend-up-to-119b-on-8216terafab82",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "show-hn-anamdb-an-ai-native-differentiable-dat",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "shareai-lablearn-claude-code",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "alibabamnn",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "spmallicklearnopencv",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "humansignallabel-studio",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "langgeniusdify",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "data-centric-ai-communityfg-data-profiling",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "zhayujiecowagent",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "infiniflowragflow",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "clickhouseclickhouse",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "0x4m4hexstrike-ai",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "normalizing-trajectory-models",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "the-memory-curse-how-expanded-recall-erodes-cooperative-int",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "are-we-making-progress-in-multimodal-domain-generalization",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "edge-specific-signal-propagation-on-mature-chromophore-regio",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "inductive-venn-abers-and-related-regressors",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "actcam-zero-shot-joint-camera-and-3d-motion-control-for-vid",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "ai-co-mathematician-accelerating-mathematicians-with-agenti",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "bami-training-free-bias-mitigation-in-gui-grounding",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "a-note-on-non-negative-l_1-approximating-polynomials",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "graphlcp-structure-aware-localized-conformal-prediction-on",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1975
+    },
+    {
+      "source": "ca-sql-complexity-aware-inference-time-reasoning-for-text-t",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "veccisc-improving-confidence-informed-self-consistency-with",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "unipool-a-globally-shared-expert-pool-for-mixture-of-expert",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "rubric-grounded-rl-structured-judge-rewards-for-generalizab",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.215
+    },
+    {
+      "source": "verifier-backed-hard-problem-generation-for-mathematical-rea",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "optimizer-model-consistency-full-finetuning-with-the-same-o",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "flow-opd-on-policy-distillation-for-flow-matching-models",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "zero-shot-imagined-speech-decoding-via-imagined-to-listened",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "why-global-llm-leaderboards-are-misleading-small-portfolios",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "emambair-efficient-visual-state-space-model-for-event-guide",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "when-no-benchmark-exists-validating-comparative-llm-safety",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "superintelligent-retrieval-agent-the-next-frontier-of-infor",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2575
+    },
+    {
+      "source": "fast-byte-latent-transformer",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "flow-sampling-learning-to-sample-from-unnormalized-densitie",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "large-scale-high-quality-3d-gaussian-head-reconstruction-fro",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "estimating-the-expected-output-of-wide-random-mlps-more-effi",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "when-life-gives-you-bc-make-q-functions-extracting-q-value",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "geometry-aware-state-space-model-a-new-paradigm-for-whole-s",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "understanding-in-context-learning-for-nonlinear-regression-w",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "taming-outlier-tokens-in-diffusion-transformers",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "design-conductor-20-an-agent-builds-a-turboquant-inference",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "psk-at-semeval-2026-task-9-multilingual-polarization-detect",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "from-intent-to-execution-composing-agentic-workflows-with-a",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "openseeker-v2-pushing-the-limits-of-search-agents-with-info",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "a-closed-form-adaptive-landmark-kernel-for-certified-point-c",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "redefining-ai-red-teaming-in-the-agentic-era-from-weeks-to",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "symptomai-towards-a-conversational-ai-agent-for-everyday-sy",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "physics-grounded-multi-agent-architecture-for-traceable-ris",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "sharp-capacity-thresholds-in-linear-associative-memory-from",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "enhanced-3d-brain-tumor-segmentation-using-assorted-precisio",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "the-first-token-knows-single-decode-confidence-for-hallucin",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "an-agent-oriented-pluggable-experience-rag-skill-for-experie",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "conditional-diffusion-sampling",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "safety-and-accuracy-follow-different-scaling-laws-in-clinica",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "longseeker-elastic-context-orchestration-for-long-horizon-s",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "zero-shot-imagined-speech-decoding-via-i",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "graphlcp-structure-aware-localized-conf",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1975
+    },
+    {
+      "source": "emambair-efficient-visual-state-space-m",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "a-note-on-non-negative-l_1-approximati",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "veccisc-improving-confidence-informed-s",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "flow-opd-on-policy-distillation-for-flo",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "rubric-grounded-rl-structured-judge-rew",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.215
+    },
+    {
+      "source": "the-memory-curse-how-expanded-recall-er",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "ca-sql-complexity-aware-inference-time",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "running-local-models-on-an-m4-with-24gb",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "the-greatest-shot-in-television-james-b",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "an-ai-coding-agent-used-to-write-code",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1025
+    },
+    {
+      "source": "maryland-citizens-hit-with-2b-power-gri",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "ps3-emulator-devs-politely-ask-that-peop",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "diffusion",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.13
+    },
+    {
+      "source": "rag",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.13
+    },
+    {
+      "source": "transformer",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.13
+    },
+    {
+      "source": "memory",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.175
+    },
+    {
+      "source": "llm",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.13
+    },
+    {
+      "source": "prompt",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.13
+    },
+    {
+      "source": "microsoftsemantic-kernel",
+      "target": "tesseract-ocrtesseract",
+      "relation": "same_pillar:ecosystem",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "tesseract-ocrtesseract",
+      "target": "sansan0trendradar",
+      "relation": "same_pillar:ecosystem",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "sansan0trendradar",
+      "target": "lukasmasuchbest-of-ml-python",
+      "relation": "same_pillar:ecosystem",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "interpretmlinterpret",
+      "target": "daviskingdlib",
+      "relation": "same_pillar:capabilities",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "daviskingdlib",
+      "target": "the-art-of-hackingh4cker",
+      "relation": "same_pillar:capabilities",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "the-art-of-hackingh4cker",
+      "target": "ultralyticsyolov5",
+      "relation": "same_pillar:capabilities",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "programbench-can-language-models-rebuild-programs",
+      "target": "design-extract",
+      "relation": "same_pillar:business",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "design-extract",
+      "target": "task-paralysis-and-ai",
+      "relation": "same_pillar:business",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "task-paralysis-and-ai",
+      "target": "spain-has-become-one-of-europes-cheapest-power-ma",
+      "relation": "same_pillar:business",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "bytedancedeer-flow",
+      "target": "meilisearchmeilisearch",
+      "relation": "same_pillar:patterns",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "meilisearchmeilisearch",
+      "target": "openclawopenclaw",
+      "relation": "same_pillar:patterns",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "openclawopenclaw",
+      "target": "show-hn-crit-local-review-tool-for-agent-plans",
+      "relation": "same_pillar:patterns",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
     {
       "source": "microsoftsemantic-kernel",
       "target": "ecosystem",
@@ -38581,7 +41981,7 @@
       "relation": "belongs_to"
     }
   ],
-  "generated_at": "2026-05-11T06:04:15.868023",
+  "generated_at": "2026-05-11T12:05:02.288492",
   "generator": "ai-radar-explorer-v3",
   "schema_version": "4-pillar-pm-focused"
 }

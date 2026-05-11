@@ -7,13 +7,90 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 模型能力, 桌面/本地化, 语音交互。",
         "evidence": [
+          {
+            "id": "rubric-grounded-rl-structured-judge-rewards-for-generalizab",
+            "title": "Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoni",
+            "score": 0.43,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
           {
             "id": "academic-research-skills-for-claude-code",
             "title": "Academic Research Skills for Claude Code",
             "score": 0.4,
             "url": "https://news.ycombinator.com/item?id=48083919",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "graphlcp-structure-aware-localized-conformal-prediction-on",
+            "title": "GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs",
+            "score": 0.4,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "normalizing-trajectory-models",
+            "title": "Normalizing Trajectory Models",
+            "score": 0.26,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "the-memory-curse-how-expanded-recall-erodes-cooperative-int",
+            "title": "The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM",
+            "score": 0.26,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "ca-sql-complexity-aware-inference-time-reasoning-for-text-t",
+            "title": "CA-SQL: Complexity-Aware Inference Time Reasoning for Text-to-SQL via ",
+            "score": 0.26,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "veccisc-improving-confidence-informed-self-consistency-with",
+            "title": "VecCISC: Improving Confidence-Informed Self-Consistency with Reasoning",
+            "score": 0.26,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "flow-opd-on-policy-distillation-for-flow-matching-models",
+            "title": "Flow-OPD: On-Policy Distillation for Flow Matching Models",
+            "score": 0.26,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "zero-shot-imagined-speech-decoding-via-imagined-to-listened",
+            "title": "Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mappin",
+            "score": 0.26,
+            "url": "",
+            "reason": "里程碑式进展"
+          },
+          {
+            "id": "emambair-efficient-visual-state-space-model-for-event-guide",
+            "title": "EmambaIR: Efficient Visual State Space Model for Event-guided Image Re",
+            "score": 0.26,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "fast-byte-latent-transformer",
+            "title": "Fast Byte Latent Transformer",
+            "score": 0.26,
+            "url": "",
+            "reason": "里程碑式进展"
+          },
+          {
+            "id": "the-greatest-shot-in-television-james-burke-had-o",
+            "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail Th",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=48090521",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -22,8 +99,15 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：AI Agent, 开源发布, 桌面/本地化。",
+        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：AI Agent, 开源发布, 模型能力, 桌面/本地化。",
         "evidence": [
+          {
+            "id": "running-local-models-on-an-m4-with-24gb-memory",
+            "title": "Running local models on an M4 with 24GB memory",
+            "score": 0.35,
+            "url": "https://news.ycombinator.com/item?id=48089091",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
           {
             "id": "chromes-ai-features-may-be-hogging-4gb-of-your-co",
             "title": "Chrome's AI features may be hogging 4GB of your computer storage",
@@ -36,6 +120,13 @@
             "title": "Show HN: Modafinil - Let agents continue running while MacBook lid is ",
             "score": 0.2,
             "url": "https://github.com/narcotic-sh/modafinil",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "an-ai-coding-agent-used-to-write-code-needs-to-r",
+            "title": "An AI coding agent, used to write code, needs to reduce your maintenan",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=48089289",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -51,6 +142,13 @@
             "title": "LLMorphism: When humans come to see themselves as language models",
             "score": 0.43,
             "url": "https://news.ycombinator.com/item?id=48082021",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "mcp-use-mcp-use",
+            "title": "mcp-use-mcp-use",
+            "score": 0.1,
+            "url": "",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -83,6 +181,20 @@
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
+            "id": "ps3-emulator-devs-politely-ask-that-people-stop-fl",
+            "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PR",
+            "score": 0.35,
+            "url": "https://news.ycombinator.com/item?id=48089263",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "maryland-citizens-hit-with-2b-power-grid-upgrade",
+            "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+            "score": 0.35,
+            "url": "https://news.ycombinator.com/item?id=48088151",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
             "id": "get-ready-for-the-whisper-filled-office-of-the-fut",
             "title": "Get ready for the whisper-filled office of the future",
             "score": 0.3,
@@ -104,10 +216,73 @@
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
+            "id": "a-note-on-non-negative-l_1-approximating-polynomials",
+            "title": "A Note on Non-Negative $L_1$-Approximating Polynomials",
+            "score": 0.26,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
             "id": "openaicom-was-once-the-personal-homepage-of-a-g",
             "title": "\"openai.com\" was once the personal homepage of a guy named glenn",
             "score": 0.15,
             "url": "https://news.ycombinator.com/item?id=48082617",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "design-extract",
+            "title": "design-extract",
+            "score": 0.1,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "onlook-dev-onlook",
+            "title": "onlook-dev-onlook",
+            "score": 0.1,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "openai-symphony",
+            "title": "openai-symphony",
+            "score": 0.1,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "obra-superpowers",
+            "title": "obra-superpowers",
+            "score": 0.1,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "golutra-golutra",
+            "title": "golutra-golutra",
+            "score": 0.1,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "bytedance-ui-tars-desktop",
+            "title": "bytedance-ui-tars-desktop",
+            "score": 0.1,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "ruvnet-ruflo",
+            "title": "ruvnet-ruflo",
+            "score": 0.1,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "insforge-insforge",
+            "title": "insforge-insforge",
+            "score": 0.1,
+            "url": "",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -117,7 +292,7 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日6条情报涉及AI Agent及相关工具生态。典型项目包括：Academic Research Skills for Claude Code, Show HN: Modafinil - Let agents continue。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日15条情报涉及AI Agent及相关工具生态。典型项目包括：Rubric-Grounded RL: Structured Judge Rew, Academic Research Skills for Claude Code, The Memory Curse: How Expanded Recall Er。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
@@ -128,13 +303,17 @@
         "action": "建议：关注工具链发展，考虑引入专用工具或评估自研可行性。行业成熟意味着标准化窗口接近。"
       }
     ],
-    "stats": "🔧 工具生态: 2 | 💰 商业趋势: 9 | 🤖 技术能力: 1 | 📱 产品模式: 4",
-    "total_items": 16,
-    "high_value_count": 10,
+    "stats": "🔧 工具生态: 3 | 🤖 技术能力: 13 | 💰 商业趋势: 22 | 📱 产品模式: 8",
+    "total_items": 46,
+    "high_value_count": 18,
     "all_today_ids": [
       {
         "id": "llmorphism-when-humans-come-to-see-themselves-as",
         "label": "LLMorphism: When humans come to see themselves as language models"
+      },
+      {
+        "id": "rubric-grounded-rl-structured-judge-rewards-for-generalizab",
+        "label": "Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning"
       },
       {
         "id": "llmorphism-when-humans-come-to-see-them",
@@ -149,12 +328,40 @@
         "label": "Academic Research Skills for Claude Code"
       },
       {
+        "id": "graphlcp-structure-aware-localized-conformal-prediction-on",
+        "label": "GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs"
+      },
+      {
         "id": "task-paralysis-and-ai",
         "label": "Task Paralysis and AI"
       },
       {
         "id": "spain-has-become-one-of-europes-cheapest-power-ma",
         "label": "Spain has become one of Europe’s cheapest power markets"
+      },
+      {
+        "id": "ps3-emulator-devs-politely-ask-that-people-stop-fl",
+        "label": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs"
+      },
+      {
+        "id": "running-local-models-on-an-m4-with-24gb-memory",
+        "label": "Running local models on an M4 with 24GB memory"
+      },
+      {
+        "id": "maryland-citizens-hit-with-2b-power-grid-upgrade",
+        "label": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI"
+      },
+      {
+        "id": "running-local-models-on-an-m4-with-24gb",
+        "label": "Running local models on an M4 with 24GB memory"
+      },
+      {
+        "id": "maryland-citizens-hit-with-2b-power-gri",
+        "label": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI"
+      },
+      {
+        "id": "ps3-emulator-devs-politely-ask-that-peop",
+        "label": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs"
       },
       {
         "id": "spain-has-become-one-of-europes-cheapes",
@@ -177,6 +384,42 @@
         "label": "Chrome's AI features may be hogging 4GB of your computer storage"
       },
       {
+        "id": "normalizing-trajectory-models",
+        "label": "Normalizing Trajectory Models"
+      },
+      {
+        "id": "the-memory-curse-how-expanded-recall-erodes-cooperative-int",
+        "label": "The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents"
+      },
+      {
+        "id": "a-note-on-non-negative-l_1-approximating-polynomials",
+        "label": "A Note on Non-Negative $L_1$-Approximating Polynomials"
+      },
+      {
+        "id": "ca-sql-complexity-aware-inference-time-reasoning-for-text-t",
+        "label": "CA-SQL: Complexity-Aware Inference Time Reasoning for Text-to-SQL via Exploratio"
+      },
+      {
+        "id": "veccisc-improving-confidence-informed-self-consistency-with",
+        "label": "VecCISC: Improving Confidence-Informed Self-Consistency with Reasoning Trace Clu"
+      },
+      {
+        "id": "flow-opd-on-policy-distillation-for-flow-matching-models",
+        "label": "Flow-OPD: On-Policy Distillation for Flow Matching Models"
+      },
+      {
+        "id": "zero-shot-imagined-speech-decoding-via-imagined-to-listened",
+        "label": "Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping"
+      },
+      {
+        "id": "emambair-efficient-visual-state-space-model-for-event-guide",
+        "label": "EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstructi"
+      },
+      {
+        "id": "fast-byte-latent-transformer",
+        "label": "Fast Byte Latent Transformer"
+      },
+      {
         "id": "chromes-ai-features-may-be-hogging-4gb",
         "label": "Chrome's AI features may be hogging 4GB of your computer storage"
       },
@@ -185,19 +428,71 @@
         "label": "Show HN: Modafinil - Let agents continue running while MacBook lid is closed"
       },
       {
+        "id": "an-ai-coding-agent-used-to-write-code-needs-to-r",
+        "label": "An AI coding agent, used to write code, needs to reduce your maintenance costs"
+      },
+      {
+        "id": "an-ai-coding-agent-used-to-write-code",
+        "label": "An AI coding agent, used to write code, needs to reduce your maintenance costs"
+      },
+      {
         "id": "show-hn-modafinil-let-agents-continue",
         "label": "Show HN: Modafinil - Let agents continue running while MacBook lid is closed"
+      },
+      {
+        "id": "the-greatest-shot-in-television-james-burke-had-o",
+        "label": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene"
       },
       {
         "id": "openaicom-was-once-the-personal-homepage-of-a-g",
         "label": "\"openai.com\" was once the personal homepage of a guy named glenn"
       },
       {
+        "id": "the-greatest-shot-in-television-james-b",
+        "label": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene"
+      },
+      {
         "id": "openaicom-was-once-the-personal-homep",
         "label": "\"openai.com\" was once the personal homepage of a guy named glenn"
+      },
+      {
+        "id": "design-extract",
+        "label": "design-extract"
+      },
+      {
+        "id": "mcp-use-mcp-use",
+        "label": "mcp-use-mcp-use"
+      },
+      {
+        "id": "onlook-dev-onlook",
+        "label": "onlook-dev-onlook"
+      },
+      {
+        "id": "openai-symphony",
+        "label": "openai-symphony"
+      },
+      {
+        "id": "obra-superpowers",
+        "label": "obra-superpowers"
+      },
+      {
+        "id": "golutra-golutra",
+        "label": "golutra-golutra"
+      },
+      {
+        "id": "bytedance-ui-tars-desktop",
+        "label": "bytedance-ui-tars-desktop"
+      },
+      {
+        "id": "ruvnet-ruflo",
+        "label": "ruvnet-ruflo"
+      },
+      {
+        "id": "insforge-insforge",
+        "label": "insforge-insforge"
       }
     ],
     "date_bj": "2026-05-11 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-11 06:04:15"
+    "generated_at_bj": "2026-05-11 12:05:02"
   }
 }

@@ -371,3 +371,21 @@
 - create: get-ready-for-the-whisper-filled-office-of-the-fut.md
 - create: anthropic-says-evil-portrayals-of-ai-were-respon.md
 - create: show-hn-modafinil-let-agents-continue-running-w.md
+
+## [2026-05-11 12:07] sync v3 | 16 new | pillars: {'capabilities': 11, 'unknown': 3, 'patterns': 2}
+- create: normalizing-trajectory-models.md
+- create: zero-shot-imagined-speech-decoding-via-imagined-to-listened.md
+- create: graphlcp-structure-aware-localized-conformal-prediction-on.md
+- create: emambair-efficient-visual-state-space-model-for-event-guide.md
+- create: a-note-on-non-negative-l_1-approximating-polynomials.md
+- create: veccisc-improving-confidence-informed-self-consistency-with.md
+- create: flow-opd-on-policy-distillation-for-flow-matching-models.md
+- create: rubric-grounded-rl-structured-judge-rewards-for-generalizab.md
+- create: the-memory-curse-how-expanded-recall-erodes-cooperative-int.md
+- create: ca-sql-complexity-aware-inference-time-reasoning-for-text-t.md
+- create: fast-byte-latent-transformer.md
+- create: running-local-models-on-an-m4-with-24gb-memory.md
+- create: the-greatest-shot-in-television-james-burke-had-o.md
+- create: an-ai-coding-agent-used-to-write-code-needs-to-r.md
+- create: maryland-citizens-hit-with-2b-power-grid-upgrade.md
+- create: ps3-emulator-devs-politely-ask-that-people-stop-fl.md

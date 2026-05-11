@@ -1,0 +1,34 @@
+{
+  "title": "Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning",
+  "summary": "We argue that decomposing reward into weighted, verifiable criteria and using an LLM judge to score them provides a partial-credit optimization signal: instead of a binary outcome or a single holistic score, each response is graded along multiple task-specific criteria. We formalize \\emph{rubric-grounded reinforcement learning (RL)}: a framework in which the policy is optimized against a structured, multi-criterion reward produced by a frozen LLM judge that conditions on auxiliary grounding the policy never sees. We instantiate the framework by deriving rubrics from an Office of Scientific and Technical Information (OSTI)-derived corpus of roughly 100,000 scientific and technical documents and training Llama-3.1-8B-Instruct with Group Relative Policy Optimization (GRPO). With GRPO-based training, the model achieves $71.7\\%$ normalized reward on held-out rubric evaluation. The GRPO-tuned policy also improves over the base model on four reasoning benchmarks not derived from the training corpus -- GSM8K, MATH, GPQA Main, and GPQA Diamond. These results provide evidence that structured, document-grounded rewards can improve held-out rubric performance and induce transferable reasoning behaviors beyond the corpus used to construct the training environment.",
+  "url": "http://arxiv.org/abs/2605.08061v1",
+  "authors": [
+    "Manish Bhattarai",
+    "Ismael Boureima",
+    "Nishath Rajiv Ranasinghe",
+    "Scott Pakin",
+    "Dan O'Malley"
+  ],
+  "published": "2026-05-08T17:48:58Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "reasoning",
+    "training",
+    "grpo",
+    "optimization"
+  ],
+  "summary_cn": "该论文提出“基于量表的强化学习”，将传统单一奖励拆解为多维度、可验证的加权标准，并引入大模型裁判进行细粒度打分。该技术提供“部分得分”优化信号，显著提升复杂推理任务的训练效率与泛化能力。对AI产品经理而言，该方案可大幅降低人工标注成本，实现更透明可控的模型评估与迭代，适用于智能评测、代码助手及复杂Agent开发，是构建高可靠推理产品的关键技术路径。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Rubric-Grounded RL",
+    "LLM-as-a-Judge",
+    "Partial-Credit Reward"
+  ],
+  "entities": [],
+  "patterns": [
+    "Structured Reward Modeling",
+    "LLM-as-a-Judge Evaluation"
+  ]
+}
