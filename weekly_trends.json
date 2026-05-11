@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-05-12T00:05:30.888837+08:00",
+  "generated_at": "2026-05-12T06:07:45.176915+08:00",
   "days_analyzed": 5,
   "pillar_trends": {
     "capabilities": {
       "trend": "down",
-      "delta": -12,
-      "current": 1,
+      "delta": -10,
+      "current": 3,
       "previous": 13,
       "has_data": true
     },
     "patterns": {
-      "trend": "data_missing",
-      "delta": -5,
-      "current": 0,
+      "trend": "down",
+      "delta": -4,
+      "current": 1,
       "previous": 5,
-      "has_data": false
+      "has_data": true
     },
     "ecosystem": {
-      "trend": "down",
-      "delta": -1,
-      "current": 1,
+      "trend": "stable",
+      "delta": 0,
+      "current": 2,
       "previous": 2,
       "has_data": true
     },
     "business": {
-      "trend": "data_missing",
-      "delta": -19,
-      "current": 0,
+      "trend": "down",
+      "delta": -3,
+      "current": 16,
       "previous": 19,
-      "has_data": false
+      "has_data": true
     }
   },
   "narrative_chains": [
@@ -38,7 +38,8 @@
       "latest_type": "maturation",
       "days": [
         "2026-05-08",
-        "2026-05-11"
+        "2026-05-11",
+        "2026-05-12"
       ],
       "instances": [
         {
@@ -134,6 +135,114 @@
               "url": "https://news.ycombinator.com/item?id=48089289",
               "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "patterns"
+            }
+          ]
+        },
+        {
+          "date": "2026-05-12",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日4条情报涉及AI工具链与基础设施。包括：Can Someone Please Explain Whether Cloud, Show HN: SLayer, a semantic layer mainta。信号：基础设施, 开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": [
+            {
+              "id": "show-hn-slayer-a-semantic-layer-maintained-by-yo",
+              "title": "Show HN: SLayer, a semantic layer maintained by your agent",
+              "score": 0.33,
+              "url": "https://github.com/MotleyAI/slayer",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            }
+          ]
+        }
+      ],
+      "lifecycle": "rising"
+    },
+    {
+      "title": "AI Agent 工具链与协作流程快速成熟",
+      "type": "paradigm_shift",
+      "latest_type": "paradigm_shift",
+      "days": [
+        "2026-05-11",
+        "2026-05-12"
+      ],
+      "instances": [
+        {
+          "date": "2026-05-11",
+          "title": "AI Agent 工具链与协作流程快速成熟",
+          "body": "今日19条情报涉及AI Agent及相关工具生态。典型项目包括：Rubric-Grounded RL: Structured Judge Rew, Academic Research Skills for Claude Code, How Fast Does Claude, Acting as a User S。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "type": "paradigm_shift",
+          "evidence": [
+            {
+              "id": "rubric-grounded-rl-structured-judge-rewards-for-generalizab",
+              "title": "Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoni",
+              "score": 0.43,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "academic-research-skills-for-claude-code",
+              "title": "Academic Research Skills for Claude Code",
+              "score": 0.4,
+              "url": "https://news.ycombinator.com/item?id=48083919",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "graphlcp-structure-aware-localized-conformal-prediction-on",
+              "title": "GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs",
+              "score": 0.4,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "how-fast-does-claude-acting-as-a-user-space-ip-st",
+              "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Ping",
+              "score": 0.36,
+              "url": "https://news.ycombinator.com/item?id=48089049",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "normalizing-trajectory-models",
+              "title": "Normalizing Trajectory Models",
+              "score": 0.26,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            }
+          ]
+        },
+        {
+          "date": "2026-05-12",
+          "title": "AI Agent 工具链与协作流程快速成熟",
+          "body": "今日7条情报涉及AI Agent及相关工具生态。典型项目包括：Gmail registration now requires scanning, Show HN: SLayer, a semantic layer mainta。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "type": "paradigm_shift",
+          "evidence": [
+            {
+              "id": "training-an-llm-in-swift-part-1-taking-matrix-mu",
+              "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to T",
+              "score": 0.38,
+              "url": "https://news.ycombinator.com/item?id=48085685",
+              "reason": "里程碑式进展",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "digg-tries-again-this-time-as-an-ai-news-aggregat",
+              "title": "Digg tries again, this time as an AI news aggregator",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+              "reason": "里程碑式进展",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "interfaze-a-new-model-architecture-built-for-high",
+              "title": "Interfaze: A new model architecture built for high accuracy at scale",
+              "score": 0.2,
+              "url": "https://news.ycombinator.com/item?id=48097078",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
             }
           ]
         }
@@ -430,37 +539,6 @@
         }
       ],
       "lifecycle": "emerging"
-    },
-    {
-      "title": "本地化深耕与自主代理突破交互瓶颈",
-      "type": "validation",
-      "latest_type": "validation",
-      "days": [
-        "2026-05-10"
-      ],
-      "instances": [
-        {
-          "date": "2026-05-10",
-          "title": "本地化深耕与自主代理突破交互瓶颈",
-          "body": "通用大模型在垂直市场遭遇水土不服，而精准适配区域语言混合特征（如Hinglish）与场景微调的策略被验证为破局关键。同时，AI全权运营公司的探索表明，交互范式正从“人指令机器”向“高自主性代理协同”跨越，本地化与Agent化成为增长双引擎。",
-          "type": "validation",
-          "evidence": [
-            {
-              "id": "voice-ai-in-india-is-hard-wispr-flow-is-betting-o",
-              "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-              "score": 0.48,
-              "pillar": "patterns"
-            },
-            {
-              "id": "show-hn-nanocorp-create-autonomous-companies-ru",
-              "title": "Show HN: NanoCorp – Create autonomous companies run by AI",
-              "score": 0.15,
-              "pillar": "patterns"
-            }
-          ]
-        }
-      ],
-      "lifecycle": "emerging"
     }
   ],
   "contradictions": [
@@ -471,5 +549,5 @@
     }
   ],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-12**（5天），累计 **132** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI工具链从通用走向垂直专业化**。"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-12**（5天），累计 **150** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI工具链从通用走向垂直专业化**。"
 }

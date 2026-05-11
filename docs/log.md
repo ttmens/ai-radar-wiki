@@ -399,3 +399,15 @@
 - create: training-an-llm-in-swift-part-1-taking-matrix-mu.md
 - create: gmail-registration-now-requires-scanning-a-qr-code.md
 - create: there-aren8217t-enough-rockets-for-space-data-c.md
+
+## [2026-05-12 06:07] sync v3 | 10 new | pillars: {'unknown': 7, 'capabilities': 2, 'patterns': 1}
+- create: google-says-criminal-hackers-used-ai-to-find-a-maj.md
+- create: i-let-ai-build-a-tool-to-help-me-figure-out-what-w.md
+- create: ucla-discovers-first-stroke-rehabilitation-drug-to.md
+- create: can-someone-please-explain-whether-cloudflare-blac.md
+- create: interfaze-a-new-model-architecture-built-for-high.md
+- create: amália-and-the-future-of-european-portuguese-llms.md
+- create: what-a-japanese-cooking-principle-taught-me-about.md
+- create: if-ai-writes-your-code-why-use-python.md
+- create: digg-tries-again-this-time-as-an-ai-news-aggregat.md
+- create: show-hn-slayer-a-semantic-layer-maintained-by-yo.md

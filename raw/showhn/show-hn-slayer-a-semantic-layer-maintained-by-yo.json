@@ -1,0 +1,26 @@
+{
+  "title": "Show HN: SLayer, a semantic layer maintained by your agent",
+  "score": 11,
+  "comments": 3,
+  "url": "https://github.com/MotleyAI/slayer",
+  "hn_url": "https://news.ycombinator.com/item?id=48095686",
+  "tag": "ShowHN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "SLayer是一款由AI Agent自主维护的语义层工具，旨在解决传统数据建模人工成本高、指标口径不一的痛点。其核心利用Agent自动解析业务逻辑并动态更新数据字典，实现语义模型自演进。该产品大幅降低企业AI应用的数据接入门槛，提升Agent在复杂场景下的推理准确率与可解释性，为构建AI原生数据分析平台提供了高效的架构范式。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Agent-Maintained Metadata",
+    "Dynamic Semantic Layer",
+    "AI-Native Data Modeling"
+  ],
+  "entities": [
+    "SLayer"
+  ],
+  "patterns": [
+    "Agent-Driven Architecture",
+    "Semantic Abstraction"
+  ]
+}
