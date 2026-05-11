@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 11 May 2026 12:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 16:08:15 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -58,6 +58,126 @@
       <guid isPermaLink="false">nvidia-has-already-committed-40b-to-equ</guid>
       <pubDate>Sat, 09 May 2026 14:43:30 T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> news</p><hr/><p>英伟达年内已承诺投入400亿美元用于AI股权交易，持续加码AI生态布局。对AI产品经理而言，此举不仅验证了底层算力基础设施的长期商业价值，更预示着硬件巨头正通过资本纽带深度绑定上下游企业，构建软硬协同的闭环生态。PM需关注由此带来的技术栈整合机会、潜在合作路径，以及算力供应链对产品落地节奏与成本结构的影响，以便提前规划生态位与商业化策略。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>There aren&amp;#8217;t enough rockets for space data centers. Cowboy Space raised $2</title>
+      <link>https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/</link>
+      <guid isPermaLink="false">there-aren8217t-enough-rockets-for-sp</guid>
+      <pubDate>Mon, 11 May 2026 13:00:00 T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> news</p><hr/><p>Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Gmail registration now requires scanning a QR code and sending a text message</title>
+      <link>https://news.ycombinator.com/item?id=48092028</link>
+      <guid isPermaLink="false">gmail-registration-now-requires-scanning-a-qr-code</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>谷歌近期调整Gmail注册流程，强制引入二维码扫描与短信验证双重机制。该举措旨在通过增加交互摩擦有效拦截自动化脚本与黑产批量注册，全面升级账号安全基线。对AI产品经理而言，平台级反爬与风控策略升级将直接影响依赖Gmail进行OAuth授权或数据抓取的AI应用集成方案。团队需提前适配多因子认证链路，并在保障安全的前提下优化新用户引导体验，精准平衡风控强度与转化漏斗。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Gmail registration now requires scanning a QR code and sending a text message</title>
+      <link>https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082</link>
+      <guid isPermaLink="false">gmail-registration-now-requires-scanning</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> discussion</p><hr/><p>谷歌近期调整Gmail注册流程，强制引入二维码扫描与短信验证双重机制。该举措旨在通过增加交互摩擦有效拦截自动化脚本与黑产批量注册，全面升级账号安全基线。对AI产品经理而言，平台级反爬与风控策略升级将直接影响依赖Gmail进行OAuth授权或数据抓取的AI应用集成方案。团队需提前适配多因子认证链路，并在保障安全的前提下优化新用户引导体验，精准平衡风控强度与转化漏斗。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s</title>
+      <link>https://news.ycombinator.com/item?id=48085685</link>
+      <guid isPermaLink="false">training-an-llm-in-swift-part-1-taking-matrix-mu</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨使用Swift语言进行大模型训练，核心聚焦于将矩阵乘法性能从Gflop/s提升至Tflop/s量级。对AI产品经理而言，该技术突破意味着利用Apple Silicon等消费级硬件即可实现高效模型训练，大幅降低云端算力依赖与成本。它为端侧AI开发、快速原型迭代及垂直领域模型微调提供了新路径，有望推动“本地优先”AI产品生态的落地，加速开发者工具链创新。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s</title>
+      <link>https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html</link>
+      <guid isPermaLink="false">training-an-llm-in-swift-part-1-taking</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> discussion</p><hr/><p>本文探讨使用Swift语言进行大模型训练，核心聚焦于将矩阵乘法性能从Gflop/s提升至Tflop/s量级。对AI产品经理而言，该技术突破意味着利用Apple Silicon等消费级硬件即可实现高效模型训练，大幅降低云端算力依赖与成本。它为端侧AI开发、快速原型迭代及垂直领域模型微调提供了新路径，有望推动“本地优先”AI产品生态的落地，加速开发者工具链创新。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>There aren&amp;#8217;t enough rockets for space data centers. Cowboy Space raised $2</title>
+      <link>https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/</link>
+      <guid isPermaLink="false">there-aren8217t-enough-rockets-for-space-data-c</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>design-extract</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">design-extract</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>mcp-use-mcp-use</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">mcp-use-mcp-use</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>onlook-dev-onlook</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">onlook-dev-onlook</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>openai-symphony</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">openai-symphony</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>obra-superpowers</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">obra-superpowers</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>golutra-golutra</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">golutra-golutra</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>bytedance-ui-tars-desktop</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">bytedance-ui-tars-desktop</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>ruvnet-ruflo</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">ruvnet-ruflo</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>insforge-insforge</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">insforge-insforge</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
       <category>💰 商业趋势</category>
     </item>
     <item>
@@ -291,126 +411,6 @@
       <pubDate>2026-05-11T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Existing Flow Matching (FM) text-to-image models suffer from two critical bottlenecks under multi-task alignment: the reward sparsity induced by scalar-valued rewards, and the gradient interference arising from jointly optimizing heterogeneous objectives, which together give rise to a 'seesaw effect</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">zero-shot-imagined-speech-decoding-via-imagined-to-listened</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Decoding imagined speech from non-invasive brain recordings is challenging because imagined datasets are scarce and difficult to align temporally across subjects and sessions In this work, we propose a new approach to the decoding of imagined speech that leverages the richer and more reliably labele</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstructi</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">emambair-efficient-visual-state-space-model-for-event-guide</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Recent event-based image reconstruction methods predominantly rely on Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs) to process complementary event information. However, these architectures face fundamental limitations: CNNs often fail to capture global feature correlations, whe</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Fast Byte Latent Transformer</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">fast-byte-latent-transformer</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Recent byte-level language models (LMs) match the performance of token-level models without relying on subword vocabularies, yet their utility is limited by slow, byte-by-byte autoregressive generation. We address this bottleneck in the Byte Latent Transformer (BLT) through new training and generati</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Chrome's AI features may be hogging 4GB of your computer storage</title>
-      <link>https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features</link>
-      <guid isPermaLink="false">chromes-ai-features-may-be-hogging-4gb</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，87 分，43 条评论</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Show HN: Modafinil - Let agents continue running while MacBook lid is closed</title>
-      <link>https://github.com/narcotic-sh/modafinil</link>
-      <guid isPermaLink="false">show-hn-modafinil-let-agents-continue-running-w</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>暂无中文摘要</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>An AI coding agent, used to write code, needs to reduce your maintenance costs</title>
-      <link>https://news.ycombinator.com/item?id=48089289</link>
-      <guid isPermaLink="false">an-ai-coding-agent-used-to-write-code-needs-to-r</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>An AI coding agent, used to write code, needs to reduce your maintenance costs</title>
-      <link>https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs</link>
-      <guid isPermaLink="false">an-ai-coding-agent-used-to-write-code</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，69 分，11 条评论</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Show HN: Modafinil - Let agents continue running while MacBook lid is closed</title>
-      <link>https://github.com/narcotic-sh/modafinil</link>
-      <guid isPermaLink="false">show-hn-modafinil-let-agents-continue</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> project</p><hr/><p>Show HN 项目，13 分</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene</title>
-      <link>https://news.ycombinator.com/item?id=48090521</link>
-      <guid isPermaLink="false">the-greatest-shot-in-television-james-burke-had-o</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: I trained a chess engine to play like humans</title>
-      <link>https://news.ycombinator.com/item?id=48088819</link>
-      <guid isPermaLink="false">show-hn-i-trained-a-chess-engine-to-play-like-hum</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>"openai.com" was once the personal homepage of a guy named glenn</title>
-      <link>https://news.ycombinator.com/item?id=48082617</link>
-      <guid isPermaLink="false">openaicom-was-once-the-personal-homepage-of-a-g</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Show HN: I trained a chess engine to play like humans</title>
-      <link>https://news.ycombinator.com/item?id=48088819</link>
-      <guid isPermaLink="false">show-hn-i-trained-a-chess-engine-to-pla</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> project</p><hr/><p>Show HN 项目，10 分</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene</title>
-      <link>https://www.openculture.com/2024/10/the-greatest-shot-in-television.html</link>
-      <guid isPermaLink="false">the-greatest-shot-in-television-james-b</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，31 分，7 条评论</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>"openai.com" was once the personal homepage of a guy named glenn</title>
-      <link>https://bsky.app/profile/annierau.bsky.social/post/3mkzrvrn44c2h</link>
-      <guid isPermaLink="false">openaicom-was-once-the-personal-homep</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，31 分，5 条评论</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>design-extract</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">design-extract</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>💰 商业趋势</category>
     </item>
   </channel>
 </rss>
