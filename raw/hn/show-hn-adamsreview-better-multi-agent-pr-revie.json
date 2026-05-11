@@ -1,0 +1,29 @@
+{
+  "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+  "score": 35,
+  "comments": 10,
+  "url": "https://github.com/adamjgmiller/adamsreview",
+  "hn_url": "https://news.ycombinator.com/item?id=48090276",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent",
+    "multi-agent"
+  ],
+  "summary_cn": "该项目针对 Claude Code 环境，引入多智能体架构优化 PR 审查流程。通过调度不同角色的 AI Agent 并行协作，实现多维度自动化代码评估。对 AI 产品经理而言，其核心价值在于将单点模型调用升级为可编排的智能工作流，显著提升研发效能。该方案为 AI 原生 DevOps 提供了多智能体协同范式，具备明确的提效场景与商业化潜力。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Multi-Agent Orchestration",
+    "Automated Code Review",
+    "AI-Driven DevOps"
+  ],
+  "entities": [
+    "adamsreview",
+    "Claude Code",
+    "Anthropic"
+  ],
+  "patterns": [
+    "Agent Orchestration",
+    "AI Code Review"
+  ]
+}

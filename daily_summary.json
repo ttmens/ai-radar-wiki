@@ -7,7 +7,7 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 模型能力, 桌面/本地化, 语音交互。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：桌面/本地化, AI Agent, 模型能力, 语音交互。",
         "evidence": [
           {
             "id": "rubric-grounded-rl-structured-judge-rewards-for-generalizab",
@@ -28,6 +28,13 @@
             "title": "GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs",
             "score": 0.4,
             "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "how-fast-does-claude-acting-as-a-user-space-ip-st",
+            "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Ping",
+            "score": 0.36,
+            "url": "https://news.ycombinator.com/item?id=48089049",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
@@ -99,13 +106,20 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：AI Agent, 开源发布, 模型能力, 桌面/本地化。",
+        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：AI Agent, 桌面/本地化, 模型能力, 开源发布。",
         "evidence": [
           {
             "id": "running-local-models-on-an-m4-with-24gb-memory",
             "title": "Running local models on an M4 with 24GB memory",
             "score": 0.35,
             "url": "https://news.ycombinator.com/item?id=48089091",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-adamsreview-better-multi-agent-pr-revie",
+            "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+            "score": 0.33,
+            "url": "https://news.ycombinator.com/item?id=48090276",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
@@ -157,7 +171,7 @@
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "insight": "今日💰 商业趋势方向的核心信号集中在模型能力, 桌面/本地化。",
+        "insight": "今日💰 商业趋势方向的核心信号集中在桌面/本地化, 模型能力, 开源发布。",
         "evidence": [
           {
             "id": "local-ai-needs-to-be-the-norm",
@@ -220,6 +234,13 @@
             "title": "A Note on Non-Negative $L_1$-Approximating Polynomials",
             "score": 0.26,
             "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-i-trained-a-chess-engine-to-play-like-hum",
+            "title": "Show HN: I trained a chess engine to play like humans",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=48088819",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
@@ -292,20 +313,20 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日15条情报涉及AI Agent及相关工具生态。典型项目包括：Rubric-Grounded RL: Structured Judge Rew, Academic Research Skills for Claude Code, The Memory Curse: How Expanded Recall Er。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日19条情报涉及AI Agent及相关工具生态。典型项目包括：Rubric-Grounded RL: Structured Judge Rew, Academic Research Skills for Claude Code, How Fast Does Claude, Acting as a User S。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
       {
         "title": "AI工具链从通用走向垂直专业化",
-        "body": "今日2条情报涉及AI工具链与基础设施。包括：Show HN: Modafinil - Let agents continue。信号：开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+        "body": "今日6条情报涉及AI工具链与基础设施。包括：Show HN: adamsreview – better multi-agen, Show HN: Modafinil - Let agents continue。信号：开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
         "type": "maturation",
         "action": "建议：关注工具链发展，考虑引入专用工具或评估自研可行性。行业成熟意味着标准化窗口接近。"
       }
     ],
-    "stats": "🔧 工具生态: 3 | 🤖 技术能力: 13 | 💰 商业趋势: 22 | 📱 产品模式: 8",
-    "total_items": 46,
-    "high_value_count": 18,
+    "stats": "🔧 工具生态: 3 | 🤖 技术能力: 15 | 💰 商业趋势: 24 | 📱 产品模式: 10",
+    "total_items": 52,
+    "high_value_count": 22,
     "all_today_ids": [
       {
         "id": "llmorphism-when-humans-come-to-see-themselves-as",
@@ -330,6 +351,14 @@
       {
         "id": "graphlcp-structure-aware-localized-conformal-prediction-on",
         "label": "GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs"
+      },
+      {
+        "id": "how-fast-does-claude-acting-as-a-user-space-ip-st",
+        "label": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?"
+      },
+      {
+        "id": "how-fast-does-claude-acting-as-a-user-s",
+        "label": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?"
       },
       {
         "id": "task-paralysis-and-ai",
@@ -366,6 +395,14 @@
       {
         "id": "spain-has-become-one-of-europes-cheapes",
         "label": "Spain has become one of Europe’s cheapest power markets"
+      },
+      {
+        "id": "show-hn-adamsreview-better-multi-agent-pr-revie",
+        "label": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code"
+      },
+      {
+        "id": "show-hn-adamsreview-better-multi-agen",
+        "label": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code"
       },
       {
         "id": "get-ready-for-the-whisper-filled-office-of-the-fut",
@@ -444,8 +481,16 @@
         "label": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene"
       },
       {
+        "id": "show-hn-i-trained-a-chess-engine-to-play-like-hum",
+        "label": "Show HN: I trained a chess engine to play like humans"
+      },
+      {
         "id": "openaicom-was-once-the-personal-homepage-of-a-g",
         "label": "\"openai.com\" was once the personal homepage of a guy named glenn"
+      },
+      {
+        "id": "show-hn-i-trained-a-chess-engine-to-pla",
+        "label": "Show HN: I trained a chess engine to play like humans"
       },
       {
         "id": "the-greatest-shot-in-television-james-b",
@@ -493,6 +538,6 @@
       }
     ],
     "date_bj": "2026-05-11 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-11 12:05:02"
+    "generated_at_bj": "2026-05-11 18:03:16"
   }
 }

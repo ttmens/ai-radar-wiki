@@ -389,3 +389,8 @@
 - create: an-ai-coding-agent-used-to-write-code-needs-to-r.md
 - create: maryland-citizens-hit-with-2b-power-grid-upgrade.md
 - create: ps3-emulator-devs-politely-ask-that-people-stop-fl.md
+
+## [2026-05-11 18:05] sync v3 | 3 new | pillars: {'patterns': 1, 'unknown': 1, 'ecosystem': 1}
+- create: show-hn-adamsreview-better-multi-agent-pr-revie.md
+- create: how-fast-does-claude-acting-as-a-user-space-ip-st.md
+- create: show-hn-i-trained-a-chess-engine-to-play-like-hum.md

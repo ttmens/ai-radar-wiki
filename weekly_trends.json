@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-05-11T12:07:04.449826+08:00",
+  "generated_at": "2026-05-11T18:05:17.183981+08:00",
   "days_analyzed": 4,
   "pillar_trends": {
     "capabilities": {
       "trend": "up",
-      "delta": 11,
-      "current": 12,
+      "delta": 12,
+      "current": 13,
       "previous": 1,
       "has_data": true
     },
     "patterns": {
       "trend": "up",
-      "delta": 2,
-      "current": 4,
+      "delta": 3,
+      "current": 5,
       "previous": 2,
       "has_data": true
     },
@@ -25,8 +25,8 @@
     },
     "business": {
       "trend": "up",
-      "delta": 15,
-      "current": 18,
+      "delta": 16,
+      "current": 19,
       "previous": 3,
       "has_data": true
     }
@@ -92,7 +92,7 @@
         {
           "date": "2026-05-11",
           "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日2条情报涉及AI工具链与基础设施。包括：Show HN: Modafinil - Let agents continue。信号：开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "body": "今日6条情报涉及AI工具链与基础设施。包括：Show HN: adamsreview – better multi-agen, Show HN: Modafinil - Let agents continue。信号：开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
           "type": "maturation",
           "evidence": [
             {
@@ -100,6 +100,14 @@
               "title": "Running local models on an M4 with 24GB memory",
               "score": 0.35,
               "url": "https://news.ycombinator.com/item?id=48089091",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "show-hn-adamsreview-better-multi-agent-pr-revie",
+              "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+              "score": 0.33,
+              "url": "https://news.ycombinator.com/item?id=48090276",
               "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "patterns"
             },
@@ -463,5 +471,5 @@
     }
   ],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-11**（4天），累计 **112** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI工具链从通用走向垂直专业化**。 值得关注：🤖 技术能力呈上升趋势；📱 产品模式呈上升趋势；🔧 工具生态呈上升趋势；💰 商业动态呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-11**（4天），累计 **118** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI工具链从通用走向垂直专业化**。 值得关注：🤖 技术能力呈上升趋势；📱 产品模式呈上升趋势；🔧 工具生态呈上升趋势；💰 商业动态呈上升趋势"
 }
