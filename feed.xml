@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 11 May 2026 00:05:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 04:08:05 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -69,6 +69,14 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">rubric-grounded-rl-structured-judge-rewards-for-generalizab</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出“基于量表的强化学习”，将传统单一奖励拆解为多维度、可验证的加权标准，并引入大模型裁判进行细粒度打分。该技术提供“部分得分”优化信号，显著提升复杂推理任务的训练效率与泛化能力。对AI产品经理而言，该方案可大幅降低人工标注成本，实现更透明可控的模型评估与迭代，适用于智能评测、代码助手及复杂Agent开发，是构建高可靠推理产品的关键技术路径。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>LLMorphism: When humans come to see themselves as language models</title>
       <link>https://arxiv.org/abs/2605.05419</link>
       <guid isPermaLink="false">llmorphism-when-humans-come-to-see-them</guid>
@@ -93,6 +101,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">graphlcp-structure-aware-localized-conformal-prediction-on</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>GRAPHLCP提出一种面向图神经网络的局部化共形预测框架，有效解决图数据预测置信度不足与分布偏移难题。该技术通过结构感知机制实现细粒度不确定性量化，为图AI提供可验证的置信区间。对PM而言，可显著提升推荐、风控等场景的决策透明度与容错能力，降低误判业务损失，是构建高可靠、可解释AI产品的关键底层能力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Task Paralysis and AI</title>
       <link>https://news.ycombinator.com/item?id=48081469</link>
       <guid isPermaLink="false">task-paralysis-and-ai</guid>
@@ -106,6 +122,54 @@
       <guid isPermaLink="false">spain-has-become-one-of-europes-cheapest-power-ma</guid>
       <pubDate>2026-05-11T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs</title>
+      <link>https://news.ycombinator.com/item?id=48089263</link>
+      <guid isPermaLink="false">ps3-emulator-devs-politely-ask-that-people-stop-fl</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Running local models on an M4 with 24GB memory</title>
+      <link>https://news.ycombinator.com/item?id=48089091</link>
+      <guid isPermaLink="false">running-local-models-on-an-m4-with-24gb-memory</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Maryland citizens hit with $2B power grid upgrade for out-of-state AI</title>
+      <link>https://news.ycombinator.com/item?id=48088151</link>
+      <guid isPermaLink="false">maryland-citizens-hit-with-2b-power-grid-upgrade</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Running local models on an M4 with 24GB memory</title>
+      <link>https://jola.dev/posts/running-local-models-on-m4</link>
+      <guid isPermaLink="false">running-local-models-on-an-m4-with-24gb</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，165 分，60 条评论</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Maryland citizens hit with $2B power grid upgrade for out-of-state AI</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises</link>
+      <guid isPermaLink="false">maryland-citizens-hit-with-2b-power-gri</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，185 分，97 条评论</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs</title>
+      <link>https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656</link>
+      <guid isPermaLink="false">ps3-emulator-devs-politely-ask-that-peop</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，108 分，75 条评论</p></description>
       <category>💰 商业趋势</category>
     </item>
     <item>
@@ -149,6 +213,78 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>Normalizing Trajectory Models</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">normalizing-trajectory-models</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Diffusion-based models decompose sampling into many small Gaussian denoising steps -- an assumption that breaks down when generation is compressed to a few coarse transitions. Existing few-step methods address this through distillation, consistency training, or adversarial objectives, but sacrifice</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">the-memory-curse-how-expanded-recall-erodes-cooperative-int</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Context window expansion is often treated as a straightforward capability upgrade for LLMs, but we find it systematically fails in multi-agent social dilemmas. Across 7 LLMs and 4 games over 500 rounds, expanding accessible history degrades cooperation in 18 of 28 model--game settings, a pattern we</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>A Note on Non-Negative $L_1$-Approximating Polynomials</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">a-note-on-non-negative-l_1-approximating-polynomials</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>$L_1$-Approximating polynomials, i.e., polynomials that approximate indicator functions in $L_1$-norm under certain distributions, are widely used in computational learning theory. We study the existence of \textit{non-negative} $L_1$-approximating polynomials with respect to Gaussian distributions.</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>CA-SQL: Complexity-Aware Inference Time Reasoning for Text-to-SQL via Exploratio</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">ca-sql-complexity-aware-inference-time-reasoning-for-text-t</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>While recent advancements in inference-time learning have improved LLM reasoning on Text-to-SQL tasks, current solutions still struggle to perform well on the most challenging tasks in the Bird-Bench (BIRD) benchmark. This is due to inadequate solution space exploration, which is necessary to uncove</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>VecCISC: Improving Confidence-Informed Self-Consistency with Reasoning Trace Clu</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">veccisc-improving-confidence-informed-self-consistency-with</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>A standard technique for scaling inference-time reasoning is Self-Consistency, whereby multiple candidate answers are sampled from an LLM and the most common answer is selected. More recently, it has been shown that weighted majority voting (e.g. Confidence-Informed Self Consistency (CISC)), which a</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Flow-OPD: On-Policy Distillation for Flow Matching Models</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">flow-opd-on-policy-distillation-for-flow-matching-models</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Existing Flow Matching (FM) text-to-image models suffer from two critical bottlenecks under multi-task alignment: the reward sparsity induced by scalar-valued rewards, and the gradient interference arising from jointly optimizing heterogeneous objectives, which together give rise to a 'seesaw effect</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">zero-shot-imagined-speech-decoding-via-imagined-to-listened</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Decoding imagined speech from non-invasive brain recordings is challenging because imagined datasets are scarce and difficult to align temporally across subjects and sessions In this work, we propose a new approach to the decoding of imagined speech that leverages the richer and more reliably labele</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstructi</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">emambair-efficient-visual-state-space-model-for-event-guide</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Recent event-based image reconstruction methods predominantly rely on Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs) to process complementary event information. However, these architectures face fundamental limitations: CNNs often fail to capture global feature correlations, whe</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Fast Byte Latent Transformer</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">fast-byte-latent-transformer</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Recent byte-level language models (LMs) match the performance of token-level models without relying on subword vocabularies, yet their utility is limited by slow, byte-by-byte autoregressive generation. We address this bottleneck in the Byte Latent Transformer (BLT) through new training and generati</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Chrome's AI features may be hogging 4GB of your computer storage</title>
       <link>https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features</link>
       <guid isPermaLink="false">chromes-ai-features-may-be-hogging-4gb</guid>
@@ -165,12 +301,36 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>An AI coding agent, used to write code, needs to reduce your maintenance costs</title>
+      <link>https://news.ycombinator.com/item?id=48089289</link>
+      <guid isPermaLink="false">an-ai-coding-agent-used-to-write-code-needs-to-r</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>An AI coding agent, used to write code, needs to reduce your maintenance costs</title>
+      <link>https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs</link>
+      <guid isPermaLink="false">an-ai-coding-agent-used-to-write-code</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，69 分，11 条评论</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>Show HN: Modafinil - Let agents continue running while MacBook lid is closed</title>
       <link>https://github.com/narcotic-sh/modafinil</link>
       <guid isPermaLink="false">show-hn-modafinil-let-agents-continue</guid>
       <pubDate>2026-05-11T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> project</p><hr/><p>Show HN 项目，13 分</p></description>
       <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene</title>
+      <link>https://news.ycombinator.com/item?id=48090521</link>
+      <guid isPermaLink="false">the-greatest-shot-in-television-james-burke-had-o</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>"openai.com" was once the personal homepage of a guy named glenn</title>
@@ -181,6 +341,14 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene</title>
+      <link>https://www.openculture.com/2024/10/the-greatest-shot-in-television.html</link>
+      <guid isPermaLink="false">the-greatest-shot-in-television-james-b</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，31 分，7 条评论</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>"openai.com" was once the personal homepage of a guy named glenn</title>
       <link>https://bsky.app/profile/annierau.bsky.social/post/3mkzrvrn44c2h</link>
       <guid isPermaLink="false">openaicom-was-once-the-personal-homep</guid>
@@ -189,228 +357,60 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
-      <title>France moves to break encrypted messaging</title>
-      <link>https://news.ycombinator.com/item?id=48078811</link>
-      <guid isPermaLink="false">france-moves-to-break-encrypted-messaging</guid>
-      <pubDate>2026-05-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>法国推动立法要求破解端到端加密通信，拟强制引入AI客户端扫描技术以识别非法内容。该政策将重塑隐私计算与合规AI的产品架构，推动端侧AI检测模型成为刚需。对AI产品经理而言，需提前布局“合规优先”设计，平衡数据隐私与安全审查，探索联邦学习、同态加密等隐私增强技术在消息类AI产品中的落地，以应对欧盟监管带来的市场准入挑战。</p></description>
+      <title>design-extract</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">design-extract</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>mcp-use-mcp-use</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">mcp-use-mcp-use</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
       <category>🔧 工具生态</category>
     </item>
     <item>
-      <title>France moves to break encrypted messaging</title>
-      <link>https://reclaimthenet.org/france-moves-to-break-encrypted-messaging</link>
-      <guid isPermaLink="false">france-moves-to-break-encrypted-messagin</guid>
-      <pubDate>2026-05-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> discussion</p><hr/><p>法国推动立法要求破解端到端加密通信，拟强制引入AI客户端扫描技术以识别非法内容。该政策将重塑隐私计算与合规AI的产品架构，推动端侧AI检测模型成为刚需。对AI产品经理而言，需提前布局“合规优先”设计，平衡数据隐私与安全审查，探索联邦学习、同态加密等隐私增强技术在消息类AI产品中的落地，以应对欧盟监管带来的市场准入挑战。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Voice AI in India is hard. Wispr Flow is betting on it anyway.</title>
-      <link>https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/</link>
-      <guid isPermaLink="false">voice-ai-in-india-is-hard-wispr-flow-is-betting-o</guid>
-      <pubDate>2026-05-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Wispr Flow 针对印度市场推出“Hinglish”（印地语与英语混合）语音交互功能，成功突破当地语音AI面临的口音复杂、语码转换频繁等技术瓶颈，实现用户增长显著加速。该案例凸显了垂直市场本地化策略的商业价值：通过精准适配区域性语言混合特征，优化语音识别与意图理解模型，可有效提升产品渗透率。对AI产品经理而言，这验证了“语言混合支持+场景化微调”在新兴市场落地中的关键作用，为全球化语音产品的差异化竞争提供可复用路径。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Nvidia has already committed $40B to equity AI deals this year</title>
-      <link>https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/</link>
-      <guid isPermaLink="false">nvidia-has-already-committed-40b-to-equity-ai-dea</guid>
-      <pubDate>2026-05-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>英伟达年内已承诺投入400亿美元用于AI股权交易，持续加码AI生态布局。对AI产品经理而言，此举不仅验证了底层算力基础设施的长期商业价值，更预示着硬件巨头正通过资本纽带深度绑定上下游企业，构建软硬协同的闭环生态。PM需关注由此带来的技术栈整合机会、潜在合作路径，以及算力供应链对产品落地节奏与成本结构的影响，以便提前规划生态位与商业化策略。</p></description>
+      <title>onlook-dev-onlook</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">onlook-dev-onlook</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
       <category>💰 商业趋势</category>
     </item>
     <item>
-      <title>Meta's embrace of AI is making its employees miserable</title>
-      <link>https://news.ycombinator.com/item?id=48077126</link>
-      <guid isPermaLink="false">metas-embrace-of-ai-is-making-its-employees-miser</guid>
-      <pubDate>2026-05-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <title>openai-symphony</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">openai-symphony</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
       <category>💰 商业趋势</category>
     </item>
     <item>
-      <title>Meta's embrace of AI is making its employees miserable</title>
-      <link>https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html</link>
-      <guid isPermaLink="false">metas-embrace-of-ai-is-making-its-emplo</guid>
-      <pubDate>2026-05-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，393 分，430 条评论</p></description>
+      <title>obra-superpowers</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">obra-superpowers</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
       <category>💰 商业趋势</category>
     </item>
     <item>
-      <title>MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning</title>
-      <link>https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning</link>
-      <guid isPermaLink="false">mathfoundationrlbook-mathematical-foundation-of-reinforcement-learning</guid>
-      <pubDate>2026-05-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> github</p><hr/><p>This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."</p></description>
+      <title>golutra-golutra</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">golutra-golutra</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
       <category>💰 商业趋势</category>
     </item>
     <item>
-      <title>Gemini API File Search is now multimodal</title>
-      <link>https://news.ycombinator.com/item?id=48080702</link>
-      <guid isPermaLink="false">gemini-api-file-search-is-now-multimodal</guid>
-      <pubDate>2026-05-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>谷歌Gemini API的File Search功能现已支持多模态检索，开发者可直接对图像、音频、视频及文档进行统一索引与语义搜索。该更新大幅降低了构建跨媒体RAG应用的技术门槛，无需额外部署多模态解析管线。对AI产品经理而言，这意味着可快速打造支持富媒体知识库的智能助手，显著提升信息召回率与用户体验，加速多模态AI产品的商业化落地。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>LLMs Corrupt Your Documents When You Delegate</title>
-      <link>https://news.ycombinator.com/item?id=48073246</link>
-      <guid isPermaLink="false">llms-corrupt-your-documents-when-you-delegate</guid>
-      <pubDate>2026-05-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <title>bytedance-ui-tars-desktop</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">bytedance-ui-tars-desktop</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
       <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>So you&amp;#8217;ve heard these AI terms and nodded along; let&amp;#8217;s fix that</title>
-      <link>https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</link>
-      <guid isPermaLink="false">so-you8217ve-heard-these-ai-terms-and-nodded-al</guid>
-      <pubDate>2026-05-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>LLMs Corrupt Your Documents When You Delegate</title>
-      <link>https://arxiv.org/abs/2604.15597</link>
-      <guid isPermaLink="false">llms-corrupt-your-documents-when-you-del</guid>
-      <pubDate>2026-05-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，131 分，43 条评论</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Show HN: NanoCorp – Create autonomous companies run by AI</title>
-      <link>https://www.nanocorp.so</link>
-      <guid isPermaLink="false">show-hn-nanocorp-create-autonomous-companies-ru</guid>
-      <pubDate>2026-05-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>暂无中文摘要</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Removing fsync from our local storage engine</title>
-      <link>https://news.ycombinator.com/item?id=48047280</link>
-      <guid isPermaLink="false">removing-fsync-from-our-local-storage-engine</guid>
-      <pubDate>2026-05-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Removing fsync from our local storage engine</title>
-      <link>https://fractalbits.com/blog/remove-fsync/</link>
-      <guid isPermaLink="false">removing-fsync-from-our-local-storage-en</guid>
-      <pubDate>2026-05-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，32 分，13 条评论</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Show HN: NanoCorp – Create autonomous companies run by AI</title>
-      <link>https://www.nanocorp.so</link>
-      <guid isPermaLink="false">show-hn-nanocorp-create-autonomous-co</guid>
-      <pubDate>2026-05-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> project</p><hr/><p>Show HN 项目，10 分</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance</title>
-      <link>https://news.ycombinator.com/item?id=48073978</link>
-      <guid isPermaLink="false">aids-creeps-back-in-parts-of-zambia-a-year-after</guid>
-      <pubDate>2026-05-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文报道赞比亚因美国削减HIV援助资金导致疫情反弹，属公共卫生与政策新闻，无直接AI技术内容。对AI产品经理而言，该场景凸显了AI在公共卫生领域的潜在价值：可利用多模态数据构建疫情预测模型、优化医疗资源动态分配算法。产品创新可聚焦“AI+全球健康”数据平台，通过实时监测与智能决策辅助，提升援助资金使用效率与疾病防控响应速度。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance</title>
-      <link>https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html</link>
-      <guid isPermaLink="false">aids-creeps-back-in-parts-of-zambia-a-y</guid>
-      <pubDate>2026-05-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> discussion</p><hr/><p>本文报道赞比亚因美国削减HIV援助资金导致疫情反弹，属公共卫生与政策新闻，无直接AI技术内容。对AI产品经理而言，该场景凸显了AI在公共卫生领域的潜在价值：可利用多模态数据构建疫情预测模型、优化医疗资源动态分配算法。产品创新可聚焦“AI+全球健康”数据平台，通过实时监测与智能决策辅助，提升援助资金使用效率与疾病防控响应速度。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>A recent experience with ChatGPT 5.5 Pro</title>
-      <link>https://news.ycombinator.com/item?id=48071262</link>
-      <guid isPermaLink="false">a-recent-experience-with-chatgpt-55-pro</guid>
-      <pubDate>2026-05-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文基于社区实测反馈，剖析传闻中ChatGPT 5.5 Pro的核心体验。重点聚焦模型在复杂逻辑推理、长上下文记忆及多模态对齐上的技术突破，评估其对B端SaaS集成与分层订阅定价的商业价值。对AI产品经理而言，该迭代印证了“能力分层+场景深耕”的演进逻辑，建议优先布局API性能调优、垂直工作流重构及差异化付费策略，以抢占下一代AI原生应用生态位。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Using Claude Code: The unreasonable effectiveness of HTML</title>
-      <link>https://news.ycombinator.com/item?id=48071940</link>
-      <guid isPermaLink="false">using-claude-code-the-unreasonable-effectiveness</guid>
-      <pubDate>2026-05-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了Claude Code在生成与操作HTML时的显著效能。对AI产品经理而言，该实践揭示了利用成熟标记语言作为AI输出载体的优势：HTML结构清晰、容错率高且易于渲染，能大幅降低AI生成代码的调试成本。结合大模型的上下文理解能力，可快速实现前端原型构建与自动化UI生成。该模式为AI辅助开发提供了高性价比的落地路径，有助于缩短产品迭代周期并降低技术门槛。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>AI is breaking two vulnerability cultures</title>
-      <link>https://news.ycombinator.com/item?id=48066524</link>
-      <guid isPermaLink="false">ai-is-breaking-two-vulnerability-cultures</guid>
-      <pubDate>2026-05-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>AI正重塑传统软件漏洞管理文化：一方面通过自动化代码分析与智能模糊测试，将漏洞发现从“专家驱动”转向“AI持续扫描”，大幅缩短修复周期；另一方面打破封闭的漏洞披露机制，推动安全研究向开放协作与实时响应演进。对AI产品经理而言，这意味着安全类AI工具需聚焦“检测-评估-修复”闭环设计，将AI能力嵌入DevSecOps流程，以自动化降低合规成本，并构建可解释的安全决策模型，抢占企业级安全市场先机。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Using Claude Code: The unreasonable effectiveness of HTML</title>
-      <link>https://twitter.com/trq212/status/2052809885763747935</link>
-      <guid isPermaLink="false">using-claude-code-the-unreasonable-effe</guid>
-      <pubDate>2026-05-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> discussion</p><hr/><p>本文探讨了Claude Code在生成与操作HTML时的显著效能。对AI产品经理而言，该实践揭示了利用成熟标记语言作为AI输出载体的优势：HTML结构清晰、容错率高且易于渲染，能大幅降低AI生成代码的调试成本。结合大模型的上下文理解能力，可快速实现前端原型构建与自动化UI生成。该模式为AI辅助开发提供了高性价比的落地路径，有助于缩短产品迭代周期并降低技术门槛。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Canvas online again as ShinyHunters threatens to leak schools’ data</title>
-      <link>https://news.ycombinator.com/item?id=48055913</link>
-      <guid isPermaLink="false">canvas-online-again-as-shinyhunters-threatens-to-l</guid>
-      <pubDate>2026-05-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>The “people’s airline” and the enterprise AI gold rush</title>
-      <link>https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/</link>
-      <guid isPermaLink="false">the-peoples-airline-and-the-enterprise-ai-gold</guid>
-      <pubDate>2026-05-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>本文聚焦企业级AI市场的资本与技术布局。Anthropic与OpenAI合资专攻企业部署，SAP重金投资Prior Labs。对AI产品经理而言，这标志大模型加速迈向规模化落地。核心启示：企业级AI需强化安全合规、私有化部署及与业务系统的深度集成；头部厂商的生态结盟正重塑B端格局，PM应聚焦联合解决方案设计与垂直场景深耕。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>All means are fair except solving the problem</title>
-      <link>https://news.ycombinator.com/item?id=48037655</link>
-      <guid isPermaLink="false">all-means-are-fair-except-solving-the-problem</guid>
-      <pubDate>2026-05-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该文批判当前AI行业过度沉迷基准测试刷分、融资叙事与功能堆砌，却忽视真正解决用户核心痛点。对AI产品经理而言，提示需回归“问题驱动”而非“技术自嗨”，强调以实际业务场景验证模型能力，避免陷入指标内卷。建议聚焦可衡量的用户价值交付，通过MVP快速迭代，将技术优势转化为可持续的商业闭环，而非盲目追逐SOTA。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>All means are fair except solving the problem</title>
-      <link>https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html</link>
-      <guid isPermaLink="false">all-means-are-fair-except-solving-the-pr</guid>
-      <pubDate>2026-05-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> discussion</p><hr/><p>该文批判当前AI行业过度沉迷基准测试刷分、融资叙事与功能堆砌，却忽视真正解决用户核心痛点。对AI产品经理而言，提示需回归“问题驱动”而非“技术自嗨”，强调以实际业务场景验证模型能力，避免陷入指标内卷。建议聚焦可衡量的用户价值交付，通过MVP快速迭代，将技术优势转化为可持续的商业闭环，而非盲目追逐SOTA。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>The soul of maintaining a new machine</title>
-      <link>https://news.ycombinator.com/item?id=48032014</link>
-      <guid isPermaLink="false">the-soul-of-maintaining-a-new-machine</guid>
-      <pubDate>2026-05-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨AI系统长期运行中的状态保持与记忆管理机制，聚焦如何通过动态上下文维护、个性化参数微调及持续学习架构，赋予AI“灵魂”般的连贯性与适应性。对AI产品经理而言，该方向直接关联智能体产品留存率与用户体验升级，提示在架构设计中需优先规划记忆层与状态同步模块，以支撑高粘性、可进化的AI应用商业化落地。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Meta Shuts Down End-to-End Encryption for Instagram Messaging</title>
-      <link>https://news.ycombinator.com/item?id=48069192</link>
-      <guid isPermaLink="false">meta-shuts-down-end-to-end-encryption-for-instagra</guid>
-      <pubDate>2026-05-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Show HN: Git for AI Agents</title>
-      <link>https://github.com/regent-vcs/re_gent</link>
-      <guid isPermaLink="false">show-hn-git-for-ai-agents</guid>
-      <pubDate>2026-05-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该项目将Git版本控制理念引入AI Agent开发，提供针对智能体状态、提示词与执行流的分支、合并与追溯能力。对AI产品经理而言，它有效解决多Agent协作中的状态混乱与迭代不可复现痛点，显著提升团队协同效率与交付质量。通过标准化Agent生命周期管理，降低调试与试错成本，加速实验到生产转化，为构建复杂可维护的AI应用提供关键工程化基础设施。</p></description>
-      <category>📱 产品模式</category>
     </item>
   </channel>
 </rss>
