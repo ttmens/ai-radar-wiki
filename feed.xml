@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 11 May 2026 08:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 12:00:59 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -109,6 +109,22 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?</title>
+      <link>https://news.ycombinator.com/item?id=48089049</link>
+      <guid isPermaLink="false">how-fast-does-claude-acting-as-a-user-space-ip-st</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨将Claude大模型作为用户态IP协议栈的实验性应用，重点测试其对网络Ping请求的响应延迟。技术层面揭示了LLM在模拟底层网络协议时的实时性瓶颈与推理开销，为AI产品经理评估大模型在基础设施、边缘计算及实时系统集成的可行性提供关键参考。该实验虽非生产级方案，但拓展了AI Agent向系统级组件演进的边界，提示PM在规划低延迟AI原生应用时需权衡模型推理速度与架构设计。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?</title>
+      <link>https://dunkels.com/adam/claude-user-space-ip-stack-ping/</link>
+      <guid isPermaLink="false">how-fast-does-claude-acting-as-a-user-s</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> discussion</p><hr/><p>本文探讨将Claude大模型作为用户态IP协议栈的实验性应用，重点测试其对网络Ping请求的响应延迟。技术层面揭示了LLM在模拟底层网络协议时的实时性瓶颈与推理开销，为AI产品经理评估大模型在基础设施、边缘计算及实时系统集成的可行性提供关键参考。该实验虽非生产级方案，但拓展了AI Agent向系统级组件演进的边界，提示PM在规划低延迟AI原生应用时需权衡模型推理速度与架构设计。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Task Paralysis and AI</title>
       <link>https://news.ycombinator.com/item?id=48081469</link>
       <guid isPermaLink="false">task-paralysis-and-ai</guid>
@@ -179,6 +195,22 @@
       <pubDate>2026-05-11T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，117 分，95 条评论</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Show HN: adamsreview – better multi-agent PR reviews for Claude Code</title>
+      <link>https://news.ycombinator.com/item?id=48090276</link>
+      <guid isPermaLink="false">show-hn-adamsreview-better-multi-agent-pr-revie</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该项目针对 Claude Code 环境，引入多智能体架构优化 PR 审查流程。通过调度不同角色的 AI Agent 并行协作，实现多维度自动化代码评估。对 AI 产品经理而言，其核心价值在于将单点模型调用升级为可编排的智能工作流，显著提升研发效能。该方案为 AI 原生 DevOps 提供了多智能体协同范式，具备明确的提效场景与商业化潜力。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Show HN: adamsreview – better multi-agent PR reviews for Claude Code</title>
+      <link>https://github.com/adamjgmiller/adamsreview</link>
+      <guid isPermaLink="false">show-hn-adamsreview-better-multi-agen</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> discussion</p><hr/><p>该项目针对 Claude Code 环境，引入多智能体架构优化 PR 审查流程。通过调度不同角色的 AI Agent 并行协作，实现多维度自动化代码评估。对 AI 产品经理而言，其核心价值在于将单点模型调用升级为可编排的智能工作流，显著提升研发效能。该方案为 AI 原生 DevOps 提供了多智能体协同范式，具备明确的提效场景与商业化潜力。</p></description>
+      <category>📱 产品模式</category>
     </item>
     <item>
       <title>Get ready for the whisper-filled office of the future</title>
@@ -333,11 +365,27 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Show HN: I trained a chess engine to play like humans</title>
+      <link>https://news.ycombinator.com/item?id=48088819</link>
+      <guid isPermaLink="false">show-hn-i-trained-a-chess-engine-to-play-like-hum</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>暂无中文摘要</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>"openai.com" was once the personal homepage of a guy named glenn</title>
       <link>https://news.ycombinator.com/item?id=48082617</link>
       <guid isPermaLink="false">openaicom-was-once-the-personal-homepage-of-a-g</guid>
       <pubDate>2026-05-11T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Show HN: I trained a chess engine to play like humans</title>
+      <link>https://news.ycombinator.com/item?id=48088819</link>
+      <guid isPermaLink="false">show-hn-i-trained-a-chess-engine-to-pla</guid>
+      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> project</p><hr/><p>Show HN 项目，10 分</p></description>
       <category>💰 商业趋势</category>
     </item>
     <item>
@@ -360,54 +408,6 @@
       <title>design-extract</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
       <guid isPermaLink="false">design-extract</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>mcp-use-mcp-use</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">mcp-use-mcp-use</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>onlook-dev-onlook</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">onlook-dev-onlook</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>openai-symphony</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">openai-symphony</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>obra-superpowers</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">obra-superpowers</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>golutra-golutra</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">golutra-golutra</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>bytedance-ui-tars-desktop</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">bytedance-ui-tars-desktop</guid>
       <pubDate>2026-05-11T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
       <category>💰 商业趋势</category>
