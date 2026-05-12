@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 12 May 2026 08:01:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 12:00:46 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -61,6 +61,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Equivariant Reinforcement Learning for Clifford Quantum Circuit Synthesis</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">equivariant-reinforcement-learning-for-clifford-quantum-circ</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出利用等变强化学习自动化合成Clifford量子电路。该技术将量子门序列优化建模为强化学习任务，通过引入对称性先验提升训练效率与泛化能力，可显著降低全连接量子设备的电路编译成本。对AI产品经理而言，该研究展示了AI在底层编译器优化中的落地潜力，有望加速量子软件栈自动化，为未来量子云平台提供高效电路生成能力，具备较高的技术前瞻性与工具链商业价值。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>On Characterizing Learnability for Adversarial Noisy Bandits</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
       <guid isPermaLink="false">on-characterizing-learnability-for-adversarial-noisy-bandits</guid>
@@ -82,6 +90,14 @@
       <guid isPermaLink="false">training-an-llm-in-swift-part-1-taking</guid>
       <pubDate>2026-05-12T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> discussion</p><hr/><p>本文探讨使用Swift语言进行大模型训练，核心聚焦于将矩阵乘法性能从Gflop/s提升至Tflop/s量级。对AI产品经理而言，该技术突破意味着利用Apple Silicon等消费级硬件即可实现高效模型训练，大幅降低云端算力依赖与成本。它为端侧AI开发、快速原型迭代及垂直领域模型微调提供了新路径，有望推动“本地优先”AI产品生态的落地，加速开发者工具链创新。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Quantifying Concentration Phenomena of Mean-Field Transformers in the Low-Temper</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">quantifying-concentration-phenomena-of-mean-field-transforme</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文基于平均场理论与统计物理方法，量化了深度Transformer在推理阶段的Token演化与聚集现象。对AI产品经理而言，该研究揭示了模型在低温参数下的确定性行为边界，为优化推理稳定性、防止输出退化提供了理论支撑。成果可指导产品侧的温度参数调优策略与架构迭代，提升大模型生成的可控性与可靠性，夯实底层技术底座。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -157,6 +173,14 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>Thinking Machines wants to build an AI that actually listens while it talks</title>
+      <link>https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/</link>
+      <guid isPermaLink="false">thinking-machines-wants-to-build-an-ai-that-actual</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>GM just laid off hundreds of IT workers to hire those with stronger AI skills</title>
       <link>https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/</link>
       <guid isPermaLink="false">gm-just-laid-off-hundreds-of-it-workers-to-hire-th</guid>
@@ -178,6 +202,94 @@
       <guid isPermaLink="false">riding-an-ai-rally-robinhood-preps-second-retail</guid>
       <pubDate>2026-05-12T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Confidence-Guided Diffusion Augmentation for Enhanced Bangla Compound Character</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">confidence-guided-diffusion-augmentation-for-enhanced-bangla</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Recognition of handwritten Bangla compound characters remains a challenging problem due to complex character structures, large intra-class variation, and limited availability of high-quality annotated data. Existing Bangla handwritten character recognition systems often struggle to generalize across</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side De</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">deco-sparse-mixture-of-experts-with-dense-comparable-perfor</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>While Mixture-of-Experts (MoE) scales model capacity without proportionally increasing computation, its massive total parameter footprint creates significant storage and memory-access bottlenecks, which hinder efficient end-side deployment that simultaneously requires high performance, low computati</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Variational Inference for Lévy Process-Driven SDEs via Neural Tilting</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">variational-inference-for-lévy-process-driven-sdes-via-neura</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Modelling extreme events and heavy-tailed phenomena is central to building reliable predictive systems in domains such as finance, climate science, and safety-critical AI. While Lévy processes provide a natural mathematical framework for capturing jumps and heavy tails, Bayesian inference for Lévy-d</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">shepherd-a-runtime-substrate-empowering-meta-agents-with-a</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>We introduce Shepherd, a functional programming model that formalizes meta-agent operations on target agents as functions, with core operations mechanized in Lean. Shepherd records every agent-environment interaction as a typed event in a Git-like execution trace, enabling any past state to be forke</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Engineering Robustness into Personal Agents with the AI Workflow Store</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">engineering-robustness-into-personal-agents-with-the-ai-work</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>The dominant paradigm for AI agents is an "on-the-fly" loop in which agents synthesize plans and execute actions within seconds or minutes in response to user prompts. We argue that this paradigm short-circuits disciplined software engineering (SE) processes -- iterative design, rigorous testing, ad</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>DataMaster: Towards Autonomous Data Engineering for Machine Learning</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">datamaster-towards-autonomous-data-engineering-for-machine</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>As model families, training recipes, and compute budgets become increasingly standardized, further gains in machine learning systems depend increasingly on data. Yet data engineering remains largely manual and ad hoc: practitioners repeatedly search for external datasets, adapt them to existing pipe</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">dynamic-skill-lifecycle-management-for-agentic-reinforcement</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Large language model agents increasingly rely on external skills to solve complex tasks, where skills act as modular units that extend their capabilities beyond what parametric memory alone supports. Existing methods assume external skills either accumulate as persistent guidance or internalized int</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Revisiting Policy Gradients for Restricted Policy Classes: Escaping Myopic Local</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">revisiting-policy-gradients-for-restricted-policy-classes-e</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>This work revisits standard policy gradient methods used on restricted policy classes, which are known to get stuck in suboptimal critical points. We identify an important cause for this phenomenon to be that the policy gradient is itself fundamentally myopic, i.e. it only improves the policy based</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger B</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">optimal-and-scalable-mapf-via-multi-marginal-optimal-transpo</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>We consider anonymous multi-agent path finding (MAPF) where a set of robots is tasked to travel to a set of targets on a finite, connected graph. We show that MAPF can be cast as a special class of multi-marginal optimal transport (MMOT) problems with an underlying Markovian structure, under which t</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>ELF: Embedded Language Flows</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">elf-embedded-language-flows</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Diffusion and flow-based models have become the de facto approaches for generating continuous data, e.g., in domains such as images and videos. Their success has attracted growing interest in applying them to language modeling. Unlike their image-domain counterparts, today's leading diffusion langua</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Thinking Machines wants to build an AI that actually listens while it talks</title>
+      <link>https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/</link>
+      <guid isPermaLink="false">thinking-machines-wants-to-build-an-ai-t</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> news</p><hr/><p>Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.</p></description>
       <category>💰 商业趋势</category>
     </item>
     <item>
@@ -298,118 +410,6 @@
       <guid isPermaLink="false">ucla-discovers-first-stroke-rehabilitati</guid>
       <pubDate>2026-05-12T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，94 分，24 条评论</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>I let AI build a tool to help me figure out what was waking me up at night</title>
-      <link>https://news.ycombinator.com/item?id=48100662</link>
-      <guid isPermaLink="false">i-let-ai-build-a-tool-to-help-me-figure-out-what-w</guid>
-      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Interfaze: A new model architecture built for high accuracy at scale</title>
-      <link>https://news.ycombinator.com/item?id=48097078</link>
-      <guid isPermaLink="false">interfaze-a-new-model-architecture-built-for-high</guid>
-      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>I let AI build a tool to help me figure out what was waking me up at night</title>
-      <link>https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/</link>
-      <guid isPermaLink="false">i-let-ai-build-a-tool-to-help-me-figure</guid>
-      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，31 分，23 条评论</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Interfaze: A new model architecture built for high accuracy at scale</title>
-      <link>https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale</link>
-      <guid isPermaLink="false">interfaze-a-new-model-architecture-buil</guid>
-      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，86 分，19 条评论</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Fake building: Claude wrote 3k lines instead of import pywikibot</title>
-      <link>https://news.ycombinator.com/item?id=48103459</link>
-      <guid isPermaLink="false">fake-building-claude-wrote-3k-lines-instead-of-im</guid>
-      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Google says criminal hackers used AI to find a major software flaw</title>
-      <link>https://news.ycombinator.com/item?id=48094641</link>
-      <guid isPermaLink="false">google-says-criminal-hackers-used-ai-to-find-a-maj</guid>
-      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>What a Japanese cooking principle taught me about overcoming AI fatigue</title>
-      <link>https://news.ycombinator.com/item?id=48093466</link>
-      <guid isPermaLink="false">what-a-japanese-cooking-principle-taught-me-about</guid>
-      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Fake building: Claude wrote 3k lines instead of import pywikibot</title>
-      <link>https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/</link>
-      <guid isPermaLink="false">fake-building-claude-wrote-3k-lines-ins</guid>
-      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，32 分，16 条评论</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Google says criminal hackers used AI to find a major software flaw</title>
-      <link>https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html</link>
-      <guid isPermaLink="false">google-says-criminal-hackers-used-ai-to</guid>
-      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，38 分，17 条评论</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>What a Japanese cooking principle taught me about overcoming AI fatigue</title>
-      <link>https://www.devas.life/what-a-japanese-cooking-principle-taught-me-about-overcoming-ai-fatigue/</link>
-      <guid isPermaLink="false">what-a-japanese-cooking-principle-taught</guid>
-      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，35 分，0 条评论</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>design-extract</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">design-extract</guid>
-      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>mcp-use-mcp-use</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">mcp-use-mcp-use</guid>
-      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>onlook-dev-onlook</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">onlook-dev-onlook</guid>
-      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>openai-symphony</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">openai-symphony</guid>
-      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
       <category>💰 商业趋势</category>
     </item>
   </channel>
