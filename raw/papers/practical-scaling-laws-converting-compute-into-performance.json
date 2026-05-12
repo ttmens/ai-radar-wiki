@@ -1,0 +1,34 @@
+{
+  "title": "Practical Scaling Laws: Converting Compute into Performance in a Data-Constrained World",
+  "summary": "The scaling laws guiding modern model training were calibrated for a single regime: data-rich, single-epoch pretraining. The dominant such scaling law form, Chinchilla's $L = E + A/N^α+ B/D^β$, has three structural limitations outside that regime: it diverges as unique data shrinks instead of saturating at the uninformed baseline; it cannot represent overfitting when capacity exceeds the data; and it conflates total examples seen with unique examples available. We propose a closed-form extension, $L(N, D, T) = E + (L_0 - E)\\,h/(1+h)$ with $h = a/N^α+ b/T^β+ c\\,N^γ/D^δ$, that decomposes loss into undercapacity, undertraining, and overfitting terms. It saturates between the irreducible loss $E$ and an uninformed baseline $L_0$ fixed by the loss type, and reduces to Chinchilla in the data-rich, single-epoch limit. We validate it on four multi-epoch experiments spanning four architecture families (MLPs, ResNets, Fourier neural operators, and transformers) across vision, scientific ML, and language domains, and refit it to five published LLM scaling-law grids. Extrapolating to higher compute and larger unique data than seen at fit time, our form achieves state-of-the-art RMSE on every published LLM grid we evaluate and on most cells of our constructed experiments. Once calibrated, the form admits a cost-aware allocation that recovers Chinchilla's optimum when data is free and shifts toward smaller corpora and more epochs as data grows expensive.",
+  "url": "http://arxiv.org/abs/2605.09189v1",
+  "authors": [
+    "Christopher M. Bryant",
+    "Hao Liu"
+  ],
+  "published": "2026-05-09T22:07:01Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision",
+    "training",
+    "transformer",
+    "model training",
+    "scaling law"
+  ],
+  "summary_cn": "本文针对高质量数据稀缺现状，提出适用于数据受限环境的实用扩展定律，突破传统Chinchilla定律在多轮训练与数据饱和时的失效局限。技术上，建立了算力与性能转化的精准映射，优化多轮预训练策略。对AI产品经理而言，该成果可直接指导训练预算分配与数据策略制定，在算力成本高企背景下，为打造高性价比、可快速迭代的基座模型提供核心决策依据。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Scaling Laws",
+    "Data-Constrained Training",
+    "Compute-Performance Mapping"
+  ],
+  "entities": [
+    "DeepMind",
+    "Chinchilla"
+  ],
+  "patterns": [
+    "Data-Centric AI",
+    "Compute-Efficient Training"
+  ]
+}

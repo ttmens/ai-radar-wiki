@@ -1,0 +1,26 @@
+{
+  "title": "Show HN: E2a – Open-source email gateway for AI agents",
+  "score": 27,
+  "comments": 3,
+  "url": "https://github.com/Mnexa-AI/e2a",
+  "hn_url": "https://news.ycombinator.com/item?id=48100227",
+  "tag": "ShowHN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "E2a是一款专为AI智能体设计的开源邮件网关，提供标准化API使Agent能安全高效地收发与解析邮件。该产品解决了AI与企业现有通信设施对接的痛点，内置身份验证、内容过滤与结构化提取能力，大幅降低集成门槛。对AI产品经理而言，它为自动化客服、日程协同等场景提供了即插即用的通信中间件，具备显著的商业落地价值与生态扩展潜力。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI Agent Communication",
+    "Email Infrastructure",
+    "Open-source Middleware"
+  ],
+  "entities": [
+    "E2a"
+  ],
+  "patterns": [
+    "Agent Gateway Pattern",
+    "AI-to-Human Interface"
+  ]
+}

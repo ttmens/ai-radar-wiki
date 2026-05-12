@@ -1,0 +1,25 @@
+{
+  "title": "Postmortem: TanStack npm supply-chain compromise",
+  "score": 613,
+  "comments": 232,
+  "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+  "hn_url": "https://news.ycombinator.com/item?id=48100706",
+  "tag": "HN",
+  "pillar": "ecosystem",
+  "pillar_keywords": [],
+  "summary_cn": "本文复盘了TanStack在npm生态遭遇的供应链安全事件，揭示开源依赖在发布流程与权限管控中的漏洞。对AI产品经理而言，该案例警示构建AI应用时需强化第三方依赖审计与供应链治理，防范底层篡改导致的数据泄露或服务中断。落实依赖白名单、自动化安全扫描与应急响应机制，是保障AI产品稳定性与合规性的关键基础设施。",
+  "pm_relevance": 6,
+  "concepts": [
+    "Supply Chain Security",
+    "Open Source Governance",
+    "Dependency Management"
+  ],
+  "entities": [
+    "TanStack",
+    "npm"
+  ],
+  "patterns": [
+    "DevSecOps Integration",
+    "Zero-Trust Dependency"
+  ]
+}

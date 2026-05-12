@@ -411,3 +411,24 @@
 - create: if-ai-writes-your-code-why-use-python.md
 - create: digg-tries-again-this-time-as-an-ai-news-aggregat.md
 - create: show-hn-slayer-a-semantic-layer-maintained-by-yo.md
+
+## [2026-05-12 12:07] sync v3 | 19 new | pillars: {'capabilities': 9, 'unknown': 5, 'ecosystem': 2, 'business': 1, 'patterns': 2}
+- create: lbi-parallel-scan-backpropagation-via-latent-bounded-interf.md
+- create: on-characterizing-learnability-for-adversarial-noisy-bandits.md
+- create: rigidformer-learning-rigid-dynamics-using-transformers.md
+- create: the-geometry-of-forgetting-temporal-knowledge-drift-as-an-i.md
+- create: evidence-over-plans-online-trajectory-verification-for-skil.md
+- create: practical-scaling-laws-converting-compute-into-performance.md
+- create: dare-difficulty-adaptive-reinforcement-learning-with-co-evo.md
+- create: emergent-semantic-role-understanding-in-language-models.md
+- create: agentic-mip-research-accelerated-constraint-handler-generat.md
+- create: open-ontologies-tool-augmented-ontology-engineering-with-st.md
+- create: learning-when-to-stop-selective-imitation-learning-under-ar.md
+- create: navigating-llm-valley-from-adamw-to-memory-efficient-and-ma.md
+- create: postmortem-tanstack-npm-supply-chain-compromise.md
+- create: claude-platform-on-aws.md
+- create: interaction-models.md
+- create: fake-building-claude-wrote-3k-lines-instead-of-im.md
+- create: riding-an-ai-rally-robinhood-preps-second-retail.md
+- create: gm-just-laid-off-hundreds-of-it-workers-to-hire-th.md
+- create: show-hn-e2a-open-source-email-gateway-for-ai-ag.md

@@ -1,0 +1,20 @@
+{
+  "title": "Open Ontologies: Tool-Augmented Ontology Engineering with Stable Matching Alignment",
+  "summary": "We present Open Ontologies, an open-source ontology engineering system implemented in Rust that integrates LLM-driven construction with formal OWL reasoning and ontology alignment via the Model Context Protocol. Our primary finding is that stable 1-to-1 matching is the dominant factor in ontology alignment quality: on the OAEI Anatomy track, it achieves F1 = 0.832 (P = 0.963, R = 0.733), competitive with state-of-the-art systems and exceeding all in precision. Ablation across five weight configurations shows that signal weights are irrelevant when stable matching is applied (F1 varies by less than 0.004), while removing stable matching drops F1 to 0.728. On the Conference track, the same method achieves F1 = 0.438. On tool-augmented ontology interaction, we find a surprising result: an LLM reading a raw OWL file (F1 = 0.323) performs worse than the same LLM with no file at all (F1 = 0.431), while structured MCP tool access achieves F1 = 0.717. This demonstrates that tool structure provides a qualitatively different mode of access that the LLM cannot replicate by reading raw syntax. The system ships as a single binary under the MIT licence.",
+  "url": "http://arxiv.org/abs/2605.09184v1",
+  "authors": [
+    "Fabio Rovai"
+  ],
+  "published": "2026-05-09T21:49:21Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "reasoning",
+    "precision"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

@@ -1,0 +1,23 @@
+{
+  "title": "LBI: Parallel Scan Backpropagation via Latent Bounded Interfaces",
+  "summary": "Backpropagation is inherently sequential across depth, creating an $O(K)$-deep dependency chain that bottlenecks parallel training. While parallel-scan formulations theoretically reduce this depth to $O(\\log K)$, they are computationally prohibitive for modern architectures due to the $O(d^3)$ cost of composing full-rank $d\\times d$ Jacobians over the entire hidden state. We introduce Latent Bounded Interfaces (LBI), an algorithmic formulation that makes scan-based backpropagation tractable by restricting inter-region communication to a low-dimensional latent interface, $ m_k \\in \\mathbb{R}^{r}$, where $r \\ll d$. This reduces the adjoint recursion to a suffix scan over $r \\times r$ Jacobians, cutting per-combine cost from $O(d^3)$ to $O(r^3)$ while preserving exact gradients under the bounded-interface model. We demonstrate that LBI maintains model quality across four architectures (Mamba-2, Mamba-3, Transformer, and a Mamba--Transformer hybrid) at 47--61M block parameters. Interfaces of dimension $r=16$ suffice to preserve training quality within 0.16--0.35 cross entropy of dense baselines. The resulting framework provides an algorithmic foundation for region-parallel training, reducing cross-device backward communication to a single scan over $K$ fixed-size matrices, of approximately 56 KB for our experimental configurations.",
+  "url": "http://arxiv.org/abs/2605.09204v1",
+  "authors": [
+    "Shaun Christopher Lee",
+    "Sangeetha Abdu Jyothi"
+  ],
+  "published": "2026-05-09T22:46:46Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "transformer",
+    "parameter",
+    "gradient"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

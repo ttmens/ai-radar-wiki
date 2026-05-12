@@ -1,0 +1,25 @@
+{
+  "title": "On Characterizing Learnability for Adversarial Noisy Bandits",
+  "summary": "We study adversarial noisy bandits given a known function class $\\mathcal{F}$. In each round, the adversary selects a function $f \\in \\mathcal{F}$, the learner chooses an arm, and then observes a noisy reward determined by the chosen arm and the function $f$. The goal is to minimize the cumulative regret $R(T)$, defined as the difference between the learner's performance and that of the best fixed arm in hindsight over $T$ rounds. We say that a function class $\\mathcal{F}$ is learnable if there exists an algorithm achieving sublinear regret. Our main results concern characterizing learnability. The main quantity appearing in our characterization is a convexified variant of the generalized maximin volume introduced by Hanneke and Wang (2025). For oblivious adversaries, we characterize learnability in terms of this convexified generalized maximin volume. For adaptive adversaries, we show that the same quantity characterizes learnability when the arm space is countable. Our analysis builds on a connection between convexified generalized maximin volume and the existence of simple hitting sets. We further conjecture that the same quantity also characterizes learnability when the arm space is uncountable, via its relation to a new complexity measure, which we call the distribution covering number. This notion can be viewed as a strengthened form of the hitting set that still admits efficient learning via the multiplicative weights algorithm. We also pose a number of relevant open questions regarding this problem.",
+  "url": "http://arxiv.org/abs/2605.09200v1",
+  "authors": [
+    "Steve Hanneke",
+    "Kun Wang"
+  ],
+  "published": "2026-05-09T22:40:40Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该论文聚焦对抗性噪声环境下的多臂老虎机算法，通过引入已知函数类先验，提升模型在动态对抗与数据噪声干扰下的决策鲁棒性。对AI产品经理而言，该技术可显著优化推荐系统、动态定价与自动化A/B测试的长期收益，降低试错成本。其核心价值在于将理论可学习性转化为实际业务中的稳定决策能力，适用于高波动场景的智能策略引擎构建，助力产品实现收益最大化。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Adversarial Bandits",
+    "Online Decision Optimization",
+    "Regret Minimization"
+  ],
+  "entities": [],
+  "patterns": [
+    "Adaptive Experimentation",
+    "Dynamic Decision Engine"
+  ]
+}

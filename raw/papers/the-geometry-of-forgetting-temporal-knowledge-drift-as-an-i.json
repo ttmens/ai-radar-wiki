@@ -1,0 +1,27 @@
+{
+  "title": "The Geometry of Forgetting: Temporal Knowledge Drift as an Independent Axis in LLM Representations",
+  "summary": "Large language models confidently produce outdated answers, and no existing method can detect them. We show this is not an engineering failure but a structural one: temporal drift, whether a stored fact has changed since training, is encoded as a direction in the residual stream geometrically orthogonal to both correctness and uncertainty. Any method operating on correctness or uncertainty signals is therefore blind to drift by construction. We verify this across six instruction-tuned models. A linear probe trained directly on drift labels achieves AUROC $0.83$--$0.95$; methods based on token entropy, semantic entropy, CCS, and SAPLMA all remain near chance ($0.49$--$0.57$). Five tests confirm the geometric orthogonality: weight cosines ($|\\cos| \\leq 0.14$), score correlations ($|r| \\leq 0.20$), bidirectional null-space projection ($|Δ| \\leq 0.008$), iterative null-space projection with $k{=}10$, and difference-of-means dissociation. Mechanistically, the MLP retrieval circuit produces identical dynamics for stale recall and confabulation ($r > 0.81$, six models), explaining why output confidence cannot separate them. A cross-cutoff experiment holds inputs constant and varies only the model: the probe fires on the model whose training predates the fact's transition and stays silent otherwise ($P(A{>}B) = 0.975$--$0.998$, twelve model pairs), confirming it reads model-internal knowledge state rather than input properties. Our code and datasets will be publicly released.",
+  "url": "http://arxiv.org/abs/2605.09195v1",
+  "authors": [
+    "Rania Elbadry",
+    "Ahmed Heakl",
+    "Fan Zhang",
+    "Dani Bouch",
+    "Yuxia Wang"
+  ],
+  "published": "2026-05-09T22:27:31Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "training",
+    "recall",
+    "dataset",
+    "retrieval"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

@@ -7,8 +7,22 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：桌面/本地化, 语音交互, 模型能力。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：模型能力, AI Agent, 语音交互, 桌面/本地化。",
         "evidence": [
+          {
+            "id": "practical-scaling-laws-converting-compute-into-performance",
+            "title": "Practical Scaling Laws: Converting Compute into Performance in a Data-",
+            "score": 0.43,
+            "url": "",
+            "reason": "里程碑式进展"
+          },
+          {
+            "id": "on-characterizing-learnability-for-adversarial-noisy-bandits",
+            "title": "On Characterizing Learnability for Adversarial Noisy Bandits",
+            "score": 0.4,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
           {
             "id": "training-an-llm-in-swift-part-1-taking-matrix-mu",
             "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to T",
@@ -24,6 +38,62 @@
             "reason": "里程碑式进展"
           },
           {
+            "id": "emergent-semantic-role-understanding-in-language-models",
+            "title": "Emergent Semantic Role Understanding in Language Models",
+            "score": 0.26,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "the-geometry-of-forgetting-temporal-knowledge-drift-as-an-i",
+            "title": "The Geometry of Forgetting: Temporal Knowledge Drift as an Independent",
+            "score": 0.26,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "lbi-parallel-scan-backpropagation-via-latent-bounded-interf",
+            "title": "LBI: Parallel Scan Backpropagation via Latent Bounded Interfaces",
+            "score": 0.26,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "dare-difficulty-adaptive-reinforcement-learning-with-co-evo",
+            "title": "DARE: Difficulty-Adaptive Reinforcement Learning with Co-Evolved Diffi",
+            "score": 0.26,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "rigidformer-learning-rigid-dynamics-using-transformers",
+            "title": "RigidFormer: Learning Rigid Dynamics using Transformers",
+            "score": 0.26,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "evidence-over-plans-online-trajectory-verification-for-skil",
+            "title": "Evidence Over Plans: Online Trajectory Verification for Skill Distilla",
+            "score": 0.26,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "navigating-llm-valley-from-adamw-to-memory-efficient-and-ma",
+            "title": "Navigating LLM Valley: From AdamW to Memory-Efficient and Matrix-Based",
+            "score": 0.26,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "open-ontologies-tool-augmented-ontology-engineering-with-st",
+            "title": "Open Ontologies: Tool-Augmented Ontology Engineering with Stable Match",
+            "score": 0.26,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
             "id": "interfaze-a-new-model-architecture-built-for-high",
             "title": "Interfaze: A new model architecture built for high accuracy at scale",
             "score": 0.2,
@@ -36,7 +106,7 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：开源发布, AI Agent, 模型能力。",
+        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：模型能力, AI Agent, 开源发布, 基础设施。",
         "evidence": [
           {
             "id": "show-hn-slayer-a-semantic-layer-maintained-by-yo",
@@ -44,6 +114,20 @@
             "score": 0.33,
             "url": "https://github.com/MotleyAI/slayer",
             "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-e2a-open-source-email-gateway-for-ai-ag",
+            "title": "Show HN: E2a – Open-source email gateway for AI agents",
+            "score": 0.33,
+            "url": "https://github.com/Mnexa-AI/e2a",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "gm-just-laid-off-hundreds-of-it-workers-to-hire-th",
+            "title": "GM just laid off hundreds of IT workers to hire those with stronger AI",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+            "reason": "里程碑式进展"
           }
         ],
         "trend": "new"
@@ -51,14 +135,42 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "今日🔧 工具生态方向的核心信号集中在AI Agent。",
+        "insight": "AI安全与信任正成为规模化部署的关键挑战。该方向的具体信号：模型能力, AI Agent, 安全/漏洞, 信任/合规, 开源发布。",
         "evidence": [
+          {
+            "id": "postmortem-tanstack-npm-supply-chain-compromise",
+            "title": "Postmortem: TanStack npm supply-chain compromise",
+            "score": 0.61,
+            "url": "https://news.ycombinator.com/item?id=48100706",
+            "reason": "里程碑式进展；高价值信号"
+          },
           {
             "id": "gmail-registration-now-requires-scanning-a-qr-code",
             "title": "Gmail registration now requires scanning a QR code and sending a text ",
             "score": 0.53,
             "url": "https://news.ycombinator.com/item?id=48092028",
             "reason": "高价值信号"
+          },
+          {
+            "id": "claude-platform-on-aws",
+            "title": "Claude Platform on AWS",
+            "score": 0.47,
+            "url": "https://news.ycombinator.com/item?id=48103042",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "learning-when-to-stop-selective-imitation-learning-under-ar",
+            "title": "Learning When to Stop: Selective Imitation Learning Under Arbitrary Dy",
+            "score": 0.26,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "agentic-mip-research-accelerated-constraint-handler-generat",
+            "title": "Agentic MIP Research: Accelerated Constraint Handler Generation",
+            "score": 0.26,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
             "id": "mcp-use-mcp-use",
@@ -73,7 +185,7 @@
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：基础设施, 桌面/本地化, 融资/投资, 模型能力。",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：模型能力, 融资/投资, 桌面/本地化, 基础设施。",
         "evidence": [
           {
             "id": "can-someone-please-explain-whether-cloudflare-blac",
@@ -97,10 +209,24 @@
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
+            "id": "riding-an-ai-rally-robinhood-preps-second-retail",
+            "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
             "id": "if-ai-writes-your-code-why-use-python",
             "title": "If AI writes your code, why use Python?",
             "score": 0.26,
             "url": "https://news.ycombinator.com/item?id=48100433",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "interaction-models",
+            "title": "Interaction Models",
+            "score": 0.26,
+            "url": "https://news.ycombinator.com/item?id=48100524",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
@@ -115,6 +241,13 @@
             "title": "I let AI build a tool to help me figure out what was waking me up at n",
             "score": 0.2,
             "url": "https://news.ycombinator.com/item?id=48100662",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "fake-building-claude-wrote-3k-lines-instead-of-im",
+            "title": "Fake building: Claude wrote 3k lines instead of import pywikibot",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=48103459",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
@@ -194,27 +327,41 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日7条情报涉及AI Agent及相关工具生态。典型项目包括：Gmail registration now requires scanning, Show HN: SLayer, a semantic layer mainta。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日16条情报涉及AI Agent及相关工具生态。典型项目包括：Postmortem: TanStack npm supply-chain co, Gmail registration now requires scanning。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
       {
+        "title": "AI安全与信任正成为规模化部署的关键挑战",
+        "body": "今日5条情报涉及AI安全与信任议题。关键事件包括：Postmortem: TanStack npm supply-chain co。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+        "type": "bottleneck",
+        "action": "建议：审查当前产品的安全/信任/合规设计，是否需要升级。这是获取企业客户的关键竞争力。"
+      },
+      {
         "title": "AI工具链从通用走向垂直专业化",
-        "body": "今日4条情报涉及AI工具链与基础设施。包括：Can Someone Please Explain Whether Cloud, Show HN: SLayer, a semantic layer mainta。信号：基础设施, 开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+        "body": "今日9条情报涉及AI工具链与基础设施。包括：Can Someone Please Explain Whether Cloud, GM just laid off hundreds of IT workers 。信号：基础设施, 开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
         "type": "maturation",
         "action": "建议：关注工具链发展，考虑引入专用工具或评估自研可行性。行业成熟意味着标准化窗口接近。"
       },
       {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日1条情报涉及AI商业动态。包括：There aren&#8217;t enough rockets for sp。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日3条情报涉及AI商业动态。包括：There aren&#8217;t enough rockets for sp, Riding an AI rally, Robinhood preps seco。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🔧 工具生态: 3 | 🤖 技术能力: 5 | 💰 商业趋势: 22 | 📱 产品模式: 2",
-    "total_items": 32,
-    "high_value_count": 12,
+    "stats": "🔧 工具生态: 8 | 🤖 技术能力: 15 | 💰 商业趋势: 27 | 📱 产品模式: 5",
+    "total_items": 55,
+    "high_value_count": 22,
     "all_today_ids": [
+      {
+        "id": "postmortem-tanstack-npm-supply-chain-compromise",
+        "label": "Postmortem: TanStack npm supply-chain compromise"
+      },
+      {
+        "id": "postmortem-tanstack-npm-supply-chain-co",
+        "label": "Postmortem: TanStack npm supply-chain compromise"
+      },
       {
         "id": "gmail-registration-now-requires-scanning-a-qr-code",
         "label": "Gmail registration now requires scanning a QR code and sending a text message"
@@ -222,6 +369,18 @@
       {
         "id": "gmail-registration-now-requires-scanning",
         "label": "Gmail registration now requires scanning a QR code and sending a text message"
+      },
+      {
+        "id": "claude-platform-on-aws",
+        "label": "Claude Platform on AWS"
+      },
+      {
+        "id": "practical-scaling-laws-converting-compute-into-performance",
+        "label": "Practical Scaling Laws: Converting Compute into Performance in a Data-Constraine"
+      },
+      {
+        "id": "on-characterizing-learnability-for-adversarial-noisy-bandits",
+        "label": "On Characterizing Learnability for Adversarial Noisy Bandits"
       },
       {
         "id": "training-an-llm-in-swift-part-1-taking-matrix-mu",
@@ -252,6 +411,14 @@
         "label": "Show HN: SLayer, a semantic layer maintained by your agent"
       },
       {
+        "id": "show-hn-e2a-open-source-email-gateway-for-ai-ag",
+        "label": "Show HN: E2a – Open-source email gateway for AI agents"
+      },
+      {
+        "id": "show-hn-e2a-open-source-email-gateway",
+        "label": "Show HN: E2a – Open-source email gateway for AI agents"
+      },
+      {
         "id": "show-hn-slayer-a-semantic-layer-mainta",
         "label": "Show HN: SLayer, a semantic layer maintained by your agent"
       },
@@ -260,16 +427,72 @@
         "label": "There aren&#8217;t enough rockets for space data centers. Cowboy Space raised $2"
       },
       {
+        "id": "gm-just-laid-off-hundreds-of-it-workers-to-hire-th",
+        "label": "GM just laid off hundreds of IT workers to hire those with stronger AI skills"
+      },
+      {
         "id": "digg-tries-again-this-time-as-an-ai-news-aggregat",
         "label": "Digg tries again, this time as an AI news aggregator"
+      },
+      {
+        "id": "riding-an-ai-rally-robinhood-preps-second-retail",
+        "label": "Riding an AI rally, Robinhood preps second retail venture IPO"
+      },
+      {
+        "id": "riding-an-ai-rally-robinhood-preps-seco",
+        "label": "Riding an AI rally, Robinhood preps second retail venture IPO"
       },
       {
         "id": "if-ai-writes-your-code-why-use-python",
         "label": "If AI writes your code, why use Python?"
       },
       {
+        "id": "interaction-models",
+        "label": "Interaction Models"
+      },
+      {
         "id": "ucla-discovers-first-stroke-rehabilitation-drug-to",
         "label": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)"
+      },
+      {
+        "id": "emergent-semantic-role-understanding-in-language-models",
+        "label": "Emergent Semantic Role Understanding in Language Models"
+      },
+      {
+        "id": "the-geometry-of-forgetting-temporal-knowledge-drift-as-an-i",
+        "label": "The Geometry of Forgetting: Temporal Knowledge Drift as an Independent Axis in L"
+      },
+      {
+        "id": "lbi-parallel-scan-backpropagation-via-latent-bounded-interf",
+        "label": "LBI: Parallel Scan Backpropagation via Latent Bounded Interfaces"
+      },
+      {
+        "id": "learning-when-to-stop-selective-imitation-learning-under-ar",
+        "label": "Learning When to Stop: Selective Imitation Learning Under Arbitrary Dynamics Shi"
+      },
+      {
+        "id": "dare-difficulty-adaptive-reinforcement-learning-with-co-evo",
+        "label": "DARE: Difficulty-Adaptive Reinforcement Learning with Co-Evolved Difficulty Esti"
+      },
+      {
+        "id": "rigidformer-learning-rigid-dynamics-using-transformers",
+        "label": "RigidFormer: Learning Rigid Dynamics using Transformers"
+      },
+      {
+        "id": "evidence-over-plans-online-trajectory-verification-for-skil",
+        "label": "Evidence Over Plans: Online Trajectory Verification for Skill Distillation"
+      },
+      {
+        "id": "agentic-mip-research-accelerated-constraint-handler-generat",
+        "label": "Agentic MIP Research: Accelerated Constraint Handler Generation"
+      },
+      {
+        "id": "navigating-llm-valley-from-adamw-to-memory-efficient-and-ma",
+        "label": "Navigating LLM Valley: From AdamW to Memory-Efficient and Matrix-Based Optimizer"
+      },
+      {
+        "id": "open-ontologies-tool-augmented-ontology-engineering-with-st",
+        "label": "Open Ontologies: Tool-Augmented Ontology Engineering with Stable Matching Alignm"
       },
       {
         "id": "ucla-discovers-first-stroke-rehabilitati",
@@ -292,12 +515,20 @@
         "label": "Interfaze: A new model architecture built for high accuracy at scale"
       },
       {
+        "id": "fake-building-claude-wrote-3k-lines-instead-of-im",
+        "label": "Fake building: Claude wrote 3k lines instead of import pywikibot"
+      },
+      {
         "id": "google-says-criminal-hackers-used-ai-to-find-a-maj",
         "label": "Google says criminal hackers used AI to find a major software flaw"
       },
       {
         "id": "what-a-japanese-cooking-principle-taught-me-about",
         "label": "What a Japanese cooking principle taught me about overcoming AI fatigue"
+      },
+      {
+        "id": "fake-building-claude-wrote-3k-lines-ins",
+        "label": "Fake building: Claude wrote 3k lines instead of import pywikibot"
       },
       {
         "id": "google-says-criminal-hackers-used-ai-to",
@@ -345,6 +576,6 @@
       }
     ],
     "date_bj": "2026-05-12 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-12 06:05:44"
+    "generated_at_bj": "2026-05-12 12:05:24"
   }
 }

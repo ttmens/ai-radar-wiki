@@ -1,0 +1,22 @@
+{
+  "title": "Learning When to Stop: Selective Imitation Learning Under Arbitrary Dynamics Shift",
+  "summary": "Behavior cloning provides strong imitation learning guarantees when training and test environments share the same dynamics. However, in many deployment settings the test environment's transitions differ from training, and classical offline IL offers no recourse: the learner must commit to an action at every state, even when its demonstrations are uninformative and could lead to arbitrary degradation of performance. This motivates the study of selective imitation, where the learner may choose to stop when it cannot act reliably. We introduce a model for selective imitation under arbitrary dynamics shift: given labeled expert demonstrations from a training environment and unlabeled state trajectories from the same expert in a test environment, the learner outputs a selective policy that is complete (rarely stops in training) and sound (incurs low regret before stopping in test). Our algorithm, SeqRejectron, constructs a stopping rule using a small set of validator policies whose size is independent of the horizon or policy class. For deterministic policies, this yields horizon-free $\\tilde{O}(\\log|Π|/ε^2)$ sample complexity, assuming sparse costs. For stochastic policies, we obtain analogous horizon-free guarantees using a cumulative Hellinger stopping time. We extend the framework to misspecified experts and different expert policies across train and test and obtain results that gracefully degrade with the amount of misspecification.",
+  "url": "http://arxiv.org/abs/2605.09183v1",
+  "authors": [
+    "Surbhi Goel",
+    "Jonathan Pei",
+    "James Wang"
+  ],
+  "published": "2026-05-09T21:48:04Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "framework",
+    "deployment"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

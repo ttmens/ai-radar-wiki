@@ -1,0 +1,24 @@
+{
+  "title": "Evidence Over Plans: Online Trajectory Verification for Skill Distillation",
+  "summary": "Agent skills can remarkably improve task success rates by using human-written procedural documents, but their quality is difficult to assess without environment-grounded verification. Existing skill generation methods heavily rely on preference logs rather than direct environment interaction, often yielding negligible or even degraded gains. We identify that it is a fundamental timing bottleneck: robust skills should be posterior-based, distilled from empirical environment interaction rather than prior plans. In this study, we introduce the Posterior Distillation Index (PDI), a trajectory-level metric that quantifies how well a distilled skill is grounded in the task-environment evidence. To operationalize PDI, we present SPARK (Structured Pipelines for Autonomous Runnable tasKs and sKill generation) for preserving task execution evidence towards full trajectory-level analysis. SPARK generates environment-verified trajectories used to compute PDI, and it applies PDI as an online diagnostic and intervention signal to ensure posterior skill formation. Across 86 runnable tasks, SPARK-generated skills consistently surpass no-skill baselines and outperform human-written skills on student models (inference cost up to 1,000x cheaper than teacher models). These findings show that PDI-guided distillation produces efficient and transferable skills grounded in the task-environment interaction. We release our code at https://github.com/EtaYang10th/spark-skills .",
+  "url": "http://arxiv.org/abs/2605.09192v1",
+  "authors": [
+    "Yang Zhou",
+    "Zihan Dong",
+    "Zhenting Wang",
+    "Can Jin",
+    "Shiyu Zhao"
+  ],
+  "published": "2026-05-09T22:15:13Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "distillation"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}
