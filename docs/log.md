@@ -447,3 +447,9 @@
 - create: engineering-robustness-into-personal-agents-with-the-ai-work.md
 - create: datamaster-towards-autonomous-data-engineering-for-machine.md
 - create: thinking-machines-wants-to-build-an-ai-that-actual.md
+
+## [2026-05-13 00:06] sync v3 | 4 new | pillars: {'patterns': 2, 'capabilities': 1, 'business': 1}
+- create: pythagora-iogpt-pilot.md
+- create: unitree-gd01-chinas-537k-rideable-transformer-r.md
+- create: dessn-raises-6m-for-its-production-focused-design.md
+- create: ai-voice-startup-vapi-hits-500m-valuation-after-w.md
