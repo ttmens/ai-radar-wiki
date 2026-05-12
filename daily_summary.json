@@ -2,57 +2,281 @@
   "daily_summary": {
     "date": "2026-05-13",
     "headline": "今日 AI 情报 · 2026-05-13",
-    "overview": "AI正从通用对话剥离，深度嵌入垂直工作流并加速生产级商业化落地。",
-    "narratives": [
-      {
-        "title": "AI从辅助对话走向垂直工作流的自主执行",
-        "body": "多条情报显示，AI产品正跨越“聊天框”形态，直接接管客服、代码生成等核心业务流。行业拐点在于产品评价标准从“交互流畅度”转向“任务接管率与ROI”。对PM而言，需将设计重心从提示词工程迁移至SOP自动化、异常处理与结果交付机制。",
-        "type": "paradigm_shift",
-        "pillar_key": "patterns"
-      },
-      {
-        "title": "AI研发与设计工具跨越‘玩具期’进入生产级商业化",
-        "body": "资本正集中流向能直接对接生产环境、消除跨职能协作损耗的AI工具。这标志着AI开发工具从“辅助提效”迈入“替代交付”阶段。PM应警惕纯技术演示，聚焦可量化的研发成本节约，构建以“结果交付”为核心的商业模式与定价策略。",
-        "type": "validation",
-        "pillar_key": "business"
-      }
-    ],
+    "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "今日🤖 技术能力方向有新的动态。",
+        "evidence": [
+          {
+            "id": "unitree-gd01-chinas-537k-rideable-transformer-r",
+            "title": "Unitree GD01: China's $537k rideable transformer robot is now in produ",
+            "score": 0.3,
+            "url": "https://news.ycombinator.com/item?id=48106114",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "through-the-looking-glass-of-benchmark-hacking",
+            "title": "Through the looking glass of benchmark hacking",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=48100868",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "AI从辅助对话走向垂直工作流的自主执行",
-        "insight": "AI从辅助对话走向垂直工作流的自主执行。该方向的具体信号：企业级AI正快速从“信息检索/摘要”模式切换为“任务接管”模式。Vapi在客服与销售场景的10倍增长，以及GPT-Pilot宣称的“首个真实AI开发者”，均表明产品模式的核心指标已从对话轮数转向任务完成率与人工干预频次。PM需重新设计产品架构，将“人在回路”从默认交互降级为异常处理机制，并优先构建可观测的Agent执行日志与回滚策略。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 基础设施, 桌面/本地化, 融资/投资, 语音交互, 开源发布。",
         "evidence": [
+          {
+            "id": "show-hn-statewright-visual-state-machines-that",
+            "title": "Show HN: Statewright – Visual state machines that make AI agents relia",
+            "score": 0.33,
+            "url": "https://news.ycombinator.com/item?id=48108778",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
           {
             "id": "ai-voice-startup-vapi-hits-500m-valuation-after-w",
             "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring o",
-            "score": 0.3
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
-            "id": "pythagora-iogpt-pilot",
-            "title": "Pythagora-io/gpt-pilot (PM 0.41)",
-            "score": 0.41
+            "id": "everything-google-announced-at-its-android-show-f",
+            "title": "Everything Google announced at its Android Show, from Googlebooks to v",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+            "reason": "里程碑式进展"
+          },
+          {
+            "id": "google-brings-agentic-ai-and-vibe-coded-widgets-to",
+            "title": "Google brings agentic AI and vibe-coded widgets to Android",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "everything-google-announced-at-its-andro",
+            "title": "Everything Google announced at its Android Show, from Googlebooks to v",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+            "reason": "里程碑式进展"
+          },
+          {
+            "id": "show-hn-agentic-interface-for-mainframes-and-cobo",
+            "title": "Show HN: Agentic interface for mainframes and COBOL",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=48111143",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "launch-hn-voker-yc-s24-analytics-for-ai-agent",
+            "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=48109962",
+            "reason": "基于新颖度、影响力、相关性综合评分"
           }
-        ]
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向有新的动态。",
+        "evidence": [
+          {
+            "id": "threads-tests-a-meta-ai-integration-that-works-sim",
+            "title": "Threads tests a Meta AI integration that works similarly to Grok",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "mcp-use-mcp-use",
+            "title": "mcp-use-mcp-use",
+            "score": 0.1,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
       },
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "narrative_title": "AI研发与设计工具跨越‘玩具期’进入生产级商业化",
-        "insight": "AI研发与设计工具跨越‘玩具期’进入生产级商业化。该方向的具体信号：资本正集中押注能直接打通“设计-开发-部署”链路的AI产品。Dessn获投的核心逻辑在于其能实时同步生产级代码库，消除设计还原的沟通损耗。这标志着AI工具的估值锚点已从“用户活跃度”转向“研发效能提升率”。PM在规划商业化路径时，应放弃通用型Copilot叙事，转向垂直工作流的“结果交付”定价，以可量化的成本节约作为核心卖点。",
+        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：模型能力, AI Agent, 桌面/本地化, 融资/投资, 开源发布。",
         "evidence": [
           {
             "id": "dessn-raises-6m-for-its-production-focused-design",
             "title": "Dessn raises $6M for its production focused design tool",
-            "score": 0.48
+            "score": 0.48,
+            "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "why-senior-developers-fail-to-communicate-their-ex",
+            "title": "Why senior developers fail to communicate their expertise",
+            "score": 0.42,
+            "url": "https://news.ycombinator.com/item?id=48109460",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "pythagora-iogpt-pilot",
+            "title": "Pythagora-io/gpt-pilot",
+            "score": 0.41,
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-needle-we-distilled-gemini-tool-calling",
+            "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+            "score": 0.35,
+            "url": "https://news.ycombinator.com/item?id=48111896",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "musk-mulled-handing-openai-to-his-children-altman",
+            "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+            "reason": "里程碑式进展"
+          },
+          {
+            "id": "google8217s-8216create-my-widget8217-feat",
+            "title": "Google&#8217;s &#8216;Create My Widget&#8217; feature will let you vib",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "the-ai-legal-services-industry-is-heating-up-ant",
+            "title": "The AI legal services industry is heating up — Anthropic is getting in",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+            "reason": "里程碑式进展"
+          },
+          {
+            "id": "anthropic-warns-investors-against-secondary-platfo",
+            "title": "Anthropic warns investors against secondary platforms offering access ",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "google-adds-gemini-powered-dictation-to-gboard-wh",
+            "title": "Google adds Gemini-powered dictation to Gboard, which could be bad new",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+            "reason": "里程碑式进展"
+          },
+          {
+            "id": "report-google-and-spacex-in-talks-to-put-data-cen",
+            "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "reimagining-the-mouse-pointer-for-the-ai-era",
+            "title": "Reimagining the mouse pointer for the AI era",
+            "score": 0.3,
+            "url": "https://news.ycombinator.com/item?id=48111581",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-gigacatalyst-extend-your-saas-with-an-e",
+            "title": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=48110593",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "design-extract",
+            "title": "design-extract",
+            "score": 0.1,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "onlook-dev-onlook",
+            "title": "onlook-dev-onlook",
+            "score": 0.1,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "openai-symphony",
+            "title": "openai-symphony",
+            "score": 0.1,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "obra-superpowers",
+            "title": "obra-superpowers",
+            "score": 0.1,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "golutra-golutra",
+            "title": "golutra-golutra",
+            "score": 0.1,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "bytedance-ui-tars-desktop",
+            "title": "bytedance-ui-tars-desktop",
+            "score": 0.1,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "ruvnet-ruflo",
+            "title": "ruvnet-ruflo",
+            "score": 0.1,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "insforge-insforge",
+            "title": "insforge-insforge",
+            "score": 0.1,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
           }
-        ]
+        ],
+        "trend": "new"
       }
     ],
-    "stats": "技术能力: 2 | 产品模式: 2 | 工具生态: 1 | 商业趋势: 11",
-    "total_items": 16,
-    "high_value_count": 7,
+    "narratives": [
+      {
+        "title": "AI Agent 工具链与协作流程快速成熟",
+        "body": "今日17条情报涉及AI Agent及相关工具生态。典型项目包括：Show HN: Statewright – Visual state mach, AI voice startup Vapi hits $500M valuati。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "type": "paradigm_shift",
+        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      },
+      {
+        "title": "AI工具链从通用走向垂直专业化",
+        "body": "今日11条情报涉及AI工具链与基础设施。包括：Show HN: Statewright – Visual state mach, Pythagora-io/gpt-pilot。信号：基础设施, 开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+        "type": "maturation",
+        "action": "建议：关注工具链发展，考虑引入专用工具或评估自研可行性。行业成熟意味着标准化窗口接近。"
+      },
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日6条情报涉及AI商业动态。包括：Dessn raises $6M for its production focu, Musk mulled handing OpenAI to his childr。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
+      }
+    ],
+    "stats": "💰 商业趋势: 31 | 📱 产品模式: 12 | 🔧 工具生态: 3 | 🤖 技术能力: 4",
+    "total_items": 50,
+    "high_value_count": 33,
     "all_today_ids": [
       {
         "id": "dessn-raises-6m-for-its-production-focused-design",
@@ -63,16 +287,120 @@
         "label": "Dessn raises $6M for its production focused design tool"
       },
       {
+        "id": "why-senior-developers-fail-to-communicate-their-ex",
+        "label": "Why senior developers fail to communicate their expertise"
+      },
+      {
+        "id": "why-senior-developers-fail-to-communicat",
+        "label": "Why senior developers fail to communicate their expertise"
+      },
+      {
         "id": "pythagora-iogpt-pilot",
         "label": "Pythagora-io/gpt-pilot"
+      },
+      {
+        "id": "show-hn-needle-we-distilled-gemini-tool-calling",
+        "label": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model"
+      },
+      {
+        "id": "show-hn-needle-we-distilled-gemini-too",
+        "label": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model"
+      },
+      {
+        "id": "show-hn-statewright-visual-state-machines-that",
+        "label": "Show HN: Statewright – Visual state machines that make AI agents reliable"
+      },
+      {
+        "id": "show-hn-statewright-visual-state-mach",
+        "label": "Show HN: Statewright – Visual state machines that make AI agents reliable"
+      },
+      {
+        "id": "musk-mulled-handing-openai-to-his-children-altman",
+        "label": "Musk mulled handing OpenAI to his children, Altman testifies"
       },
       {
         "id": "ai-voice-startup-vapi-hits-500m-valuation-after-w",
         "label": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 riv"
       },
       {
+        "id": "google8217s-8216create-my-widget8217-feat",
+        "label": "Google&#8217;s &#8216;Create My Widget&#8217; feature will let you vibe-code you"
+      },
+      {
+        "id": "the-ai-legal-services-industry-is-heating-up-ant",
+        "label": "The AI legal services industry is heating up — Anthropic is getting in on the ac"
+      },
+      {
+        "id": "anthropic-warns-investors-against-secondary-platfo",
+        "label": "Anthropic warns investors against secondary platforms offering access to its sha"
+      },
+      {
+        "id": "google-adds-gemini-powered-dictation-to-gboard-wh",
+        "label": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dict"
+      },
+      {
+        "id": "report-google-and-spacex-in-talks-to-put-data-cen",
+        "label": "Report: Google and SpaceX in talks to put data centers into orbit"
+      },
+      {
+        "id": "threads-tests-a-meta-ai-integration-that-works-sim",
+        "label": "Threads tests a Meta AI integration that works similarly to Grok"
+      },
+      {
+        "id": "everything-google-announced-at-its-android-show-f",
+        "label": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded"
+      },
+      {
+        "id": "google-brings-agentic-ai-and-vibe-coded-widgets-to",
+        "label": "Google brings agentic AI and vibe-coded widgets to Android"
+      },
+      {
+        "id": "reimagining-the-mouse-pointer-for-the-ai-era",
+        "label": "Reimagining the mouse pointer for the AI era"
+      },
+      {
         "id": "unitree-gd01-chinas-537k-rideable-transformer-r",
         "label": "Unitree GD01: China's $537k rideable transformer robot is now in production"
+      },
+      {
+        "id": "reimagining-the-mouse-pointer-for-the-ai",
+        "label": "Reimagining the mouse pointer for the AI era"
+      },
+      {
+        "id": "musk-mulled-handing-openai-to-his-childr",
+        "label": "Musk mulled handing OpenAI to his children, Altman testifies"
+      },
+      {
+        "id": "anthropic-warns-investors-against-second",
+        "label": "Anthropic warns investors against secondary platforms offering access to its sha"
+      },
+      {
+        "id": "report-google-and-spacex-in-talks-to-pu",
+        "label": "Report: Google and SpaceX in talks to put data centers into orbit"
+      },
+      {
+        "id": "everything-google-announced-at-its-andro",
+        "label": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded "
+      },
+      {
+        "id": "google-adds-gemini-powered-dictation-to",
+        "label": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dict"
+      },
+      {
+        "id": "the-ai-legal-services-industry-is-heatin",
+        "label": "The AI legal services industry is heating up — Anthropic is getting in on the ac"
+      },
+      {
+        "id": "google-brings-agentic-ai-and-vibe-coded",
+        "label": "Google brings agentic AI and vibe-coded widgets to Android"
+      },
+      {
+        "id": "google8217s-8216create-my-widget",
+        "label": "Google&#8217;s &#8216;Create My Widget&#8217; feature will let you vibe-code you"
+      },
+      {
+        "id": "threads-tests-a-meta-ai-integration-that",
+        "label": "Threads tests a Meta AI integration that works similarly to Grok"
       },
       {
         "id": "unitree-gd01-chinas-537k-rideable-tra",
@@ -81,6 +409,38 @@
       {
         "id": "ai-voice-startup-vapi-hits-500m-valuati",
         "label": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 riv"
+      },
+      {
+        "id": "show-hn-gigacatalyst-extend-your-saas-with-an-e",
+        "label": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder"
+      },
+      {
+        "id": "through-the-looking-glass-of-benchmark-hacking",
+        "label": "Through the looking glass of benchmark hacking"
+      },
+      {
+        "id": "show-hn-agentic-interface-for-mainframes-and-cobo",
+        "label": "Show HN: Agentic interface for mainframes and COBOL"
+      },
+      {
+        "id": "launch-hn-voker-yc-s24-analytics-for-ai-agent",
+        "label": "Launch HN: Voker (YC S24) – Analytics for AI Agents"
+      },
+      {
+        "id": "launch-hn-voker-yc-s24-analytics-fo",
+        "label": "Launch HN: Voker (YC S24) – Analytics for AI Agents"
+      },
+      {
+        "id": "show-hn-agentic-interface-for-mainframe",
+        "label": "Show HN: Agentic interface for mainframes and COBOL"
+      },
+      {
+        "id": "show-hn-gigacatalyst-extend-your-saas",
+        "label": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder"
+      },
+      {
+        "id": "through-the-looking-glass-of-benchmark-h",
+        "label": "Through the looking glass of benchmark hacking"
       },
       {
         "id": "design-extract",
@@ -120,6 +480,6 @@
       }
     ],
     "date_bj": "2026-05-13 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-13 00:04:40"
+    "generated_at_bj": "2026-05-13 06:04:25"
   }
 }

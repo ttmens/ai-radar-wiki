@@ -453,3 +453,22 @@
 - create: unitree-gd01-chinas-537k-rideable-transformer-r.md
 - create: dessn-raises-6m-for-its-production-focused-design.md
 - create: ai-voice-startup-vapi-hits-500m-valuation-after-w.md
+
+## [2026-05-13 06:06] sync v3 | 17 new | pillars: {'unknown': 4, 'patterns': 5, 'capabilities': 1, 'business': 6, 'ecosystem': 1}
+- create: show-hn-needle-we-distilled-gemini-tool-calling.md
+- create: why-senior-developers-fail-to-communicate-their-ex.md
+- create: reimagining-the-mouse-pointer-for-the-ai-era.md
+- create: launch-hn-voker-yc-s24-analytics-for-ai-agent.md
+- create: show-hn-statewright-visual-state-machines-that.md
+- create: show-hn-agentic-interface-for-mainframes-and-cobo.md
+- create: show-hn-gigacatalyst-extend-your-saas-with-an-e.md
+- create: through-the-looking-glass-of-benchmark-hacking.md
+- create: musk-mulled-handing-openai-to-his-children-altman.md
+- create: anthropic-warns-investors-against-secondary-platfo.md
+- create: report-google-and-spacex-in-talks-to-put-data-cen.md
+- create: everything-google-announced-at-its-android-show-f.md
+- create: google-adds-gemini-powered-dictation-to-gboard-wh.md
+- create: the-ai-legal-services-industry-is-heating-up-ant.md
+- create: google-brings-agentic-ai-and-vibe-coded-widgets-to.md
+- create: google8217s-8216create-my-widget8217-feat.md
+- create: threads-tests-a-meta-ai-integration-that-works-sim.md

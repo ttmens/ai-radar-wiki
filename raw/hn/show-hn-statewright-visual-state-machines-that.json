@@ -1,0 +1,26 @@
+{
+  "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+  "score": 45,
+  "comments": 12,
+  "url": "https://github.com/statewright/statewright",
+  "hn_url": "https://news.ycombinator.com/item?id=48108778",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "Statewright 是一款面向 AI Agent 开发的可视化状态机工具，旨在解决大模型行为不可控与调试困难的痛点。通过将智能体工作流抽象为确定性状态转移图，产品团队可直观设计、监控与干预多步任务流程，显著提升复杂场景下的执行可靠性与可观测性。该方案降低了 Agent 架构设计门槛，提供标准化流程管控能力，有助于加速高稳定性企业级智能体产品的商业化落地。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI Agent Reliability",
+    "State Machine Workflow",
+    "Visual Agent Design"
+  ],
+  "entities": [
+    "Statewright"
+  ],
+  "patterns": [
+    "State-Driven Agent Orchestration",
+    "Visual Workflow Builder"
+  ]
+}
