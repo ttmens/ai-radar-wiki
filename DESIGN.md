@@ -1,6 +1,6 @@
 # AI Radar 系统设计文档 (System Design Document)
 
-> **版本**: v3.13.0  
+> **版本**: v3.13.1  
 > **最后更新**: 2026-05-12  
 > **维护者**: Hermes Agent  
 
@@ -822,6 +822,7 @@ data_json = json.dumps(graph_data, indent=2, ensure_ascii=False)
 
 | 版本 | 日期 | 变更内容 |
 |------|------|----------|
+| v3.13.1 | 2026-05-12 | **Bug 修复**：① build_graph_json 日期归一化新增 RFC2822 格式支持（TechCrunch RSS pub_date 导致 8 个节点 date 格式异常） ② health_check vis-network 路径检查覆盖根目录+assets/ |
 | v3.13.0 | 2026-05-12 | **定时任务与脚本归档**：① §5.1 补充 `ai-radar-daily-article`（公众号日报） ② §11 文件索引补全全部14个脚本及说明 ③ `~/.hermes/scripts/` 全量推送到 Git（13个新文件） |
 | v3.12.4 | 2026-05-11 | **UI**：顶栏「跟进」改为「订阅」、移除独立 RSS 按钮（RSS 留在订阅面板）；订阅按钮与顶栏 `header-btn` 统一样式；窄屏订阅面板改为 `fixed` 避免被顶栏横向滚动裁切 |
 | v3.12.3 | 2026-05-11 | **跟进/订阅**：顶栏「跟进」浮层（复制链接、GitHub Watch、RSS、邮件/微信说明）；DESIGN §5.3 列可选邮件/公众号/Telegram 等扩展路径 |
