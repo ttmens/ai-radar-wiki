@@ -7,7 +7,7 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：模型能力, AI Agent, 语音交互, 桌面/本地化。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：桌面/本地化, 语音交互, 信任/合规, AI Agent, 模型能力, CLI/终端交互。",
         "evidence": [
           {
             "id": "practical-scaling-laws-converting-compute-into-performance",
@@ -15,6 +15,13 @@
             "score": 0.43,
             "url": "",
             "reason": "里程碑式进展"
+          },
+          {
+            "id": "equivariant-reinforcement-learning-for-clifford-quantum-circ",
+            "title": "Equivariant Reinforcement Learning for Clifford Quantum Circuit Synthe",
+            "score": 0.41,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
             "id": "on-characterizing-learnability-for-adversarial-noisy-bandits",
@@ -31,11 +38,60 @@
             "reason": "里程碑式进展"
           },
           {
+            "id": "quantifying-concentration-phenomena-of-mean-field-transforme",
+            "title": "Quantifying Concentration Phenomena of Mean-Field Transformers in the ",
+            "score": 0.38,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
             "id": "digg-tries-again-this-time-as-an-ai-news-aggregat",
             "title": "Digg tries again, this time as an AI news aggregator",
             "score": 0.3,
             "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
             "reason": "里程碑式进展"
+          },
+          {
+            "id": "confidence-guided-diffusion-augmentation-for-enhanced-bangla",
+            "title": "Confidence-Guided Diffusion Augmentation for Enhanced Bangla Compound ",
+            "score": 0.3,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "deco-sparse-mixture-of-experts-with-dense-comparable-perfor",
+            "title": "DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on E",
+            "score": 0.3,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "variational-inference-for-lévy-process-driven-sdes-via-neura",
+            "title": "Variational Inference for Lévy Process-Driven SDEs via Neural Tilting",
+            "score": 0.3,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "shepherd-a-runtime-substrate-empowering-meta-agents-with-a",
+            "title": "Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized",
+            "score": 0.3,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "datamaster-towards-autonomous-data-engineering-for-machine",
+            "title": "DataMaster: Towards Autonomous Data Engineering for Machine Learning",
+            "score": 0.3,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "elf-embedded-language-flows",
+            "title": "ELF: Embedded Language Flows",
+            "score": 0.3,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
             "id": "emergent-semantic-role-understanding-in-language-models",
@@ -106,7 +162,7 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：模型能力, AI Agent, 开源发布, 基础设施。",
+        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：基础设施, 桌面/本地化, AI Agent, 开源发布, 模型能力。",
         "evidence": [
           {
             "id": "show-hn-slayer-a-semantic-layer-maintained-by-yo",
@@ -128,6 +184,27 @@
             "score": 0.3,
             "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
             "reason": "里程碑式进展"
+          },
+          {
+            "id": "dynamic-skill-lifecycle-management-for-agentic-reinforcement",
+            "title": "Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning",
+            "score": 0.3,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "revisiting-policy-gradients-for-restricted-policy-classes-e",
+            "title": "Revisiting Policy Gradients for Restricted Policy Classes: Escaping My",
+            "score": 0.3,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "optimal-and-scalable-mapf-via-multi-marginal-optimal-transpo",
+            "title": "Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Sch",
+            "score": 0.3,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
         "trend": "new"
@@ -135,7 +212,7 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "AI安全与信任正成为规模化部署的关键挑战。该方向的具体信号：模型能力, AI Agent, 安全/漏洞, 信任/合规, 开源发布。",
+        "insight": "AI安全与信任正成为规模化部署的关键挑战。该方向的具体信号：信任/合规, 安全/漏洞, AI Agent, 开源发布, 模型能力。",
         "evidence": [
           {
             "id": "postmortem-tanstack-npm-supply-chain-compromise",
@@ -156,6 +233,13 @@
             "title": "Claude Platform on AWS",
             "score": 0.47,
             "url": "https://news.ycombinator.com/item?id=48103042",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "engineering-robustness-into-personal-agents-with-the-ai-work",
+            "title": "Engineering Robustness into Personal Agents with the AI Workflow Store",
+            "score": 0.3,
+            "url": "",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
@@ -185,7 +269,7 @@
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：模型能力, 融资/投资, 桌面/本地化, 基础设施。",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资, 基础设施, 桌面/本地化, 模型能力。",
         "evidence": [
           {
             "id": "can-someone-please-explain-whether-cloudflare-blac",
@@ -206,6 +290,13 @@
             "title": "There aren&#8217;t enough rockets for space data centers. Cowboy Space",
             "score": 0.3,
             "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "thinking-machines-wants-to-build-an-ai-that-actual",
+            "title": "Thinking Machines wants to build an AI that actually listens while it ",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
@@ -327,13 +418,13 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日16条情报涉及AI Agent及相关工具生态。典型项目包括：Postmortem: TanStack npm supply-chain co, Gmail registration now requires scanning。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日28条情报涉及AI Agent及相关工具生态。典型项目包括：Postmortem: TanStack npm supply-chain co, Gmail registration now requires scanning。具体信号：AI Agent, CLI/终端, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
       {
         "title": "AI安全与信任正成为规模化部署的关键挑战",
-        "body": "今日5条情报涉及AI安全与信任议题。关键事件包括：Postmortem: TanStack npm supply-chain co。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+        "body": "今日6条情报涉及AI安全与信任议题。关键事件包括：Postmortem: TanStack npm supply-chain co。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
         "type": "bottleneck",
         "action": "建议：审查当前产品的安全/信任/合规设计，是否需要升级。这是获取企业客户的关键竞争力。"
       },
@@ -350,9 +441,9 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🔧 工具生态: 8 | 🤖 技术能力: 15 | 💰 商业趋势: 27 | 📱 产品模式: 5",
-    "total_items": 55,
-    "high_value_count": 22,
+    "stats": "🔧 工具生态: 9 | 🤖 技术能力: 23 | 💰 商业趋势: 29 | 📱 产品模式: 8",
+    "total_items": 69,
+    "high_value_count": 36,
     "all_today_ids": [
       {
         "id": "postmortem-tanstack-npm-supply-chain-compromise",
@@ -379,6 +470,10 @@
         "label": "Practical Scaling Laws: Converting Compute into Performance in a Data-Constraine"
       },
       {
+        "id": "equivariant-reinforcement-learning-for-clifford-quantum-circ",
+        "label": "Equivariant Reinforcement Learning for Clifford Quantum Circuit Synthesis"
+      },
+      {
         "id": "on-characterizing-learnability-for-adversarial-noisy-bandits",
         "label": "On Characterizing Learnability for Adversarial Noisy Bandits"
       },
@@ -389,6 +484,10 @@
       {
         "id": "training-an-llm-in-swift-part-1-taking",
         "label": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s"
+      },
+      {
+        "id": "quantifying-concentration-phenomena-of-mean-field-transforme",
+        "label": "Quantifying Concentration Phenomena of Mean-Field Transformers in the Low-Temper"
       },
       {
         "id": "can-someone-please-explain-whether-cloudflare-blac",
@@ -427,6 +526,10 @@
         "label": "There aren&#8217;t enough rockets for space data centers. Cowboy Space raised $2"
       },
       {
+        "id": "thinking-machines-wants-to-build-an-ai-that-actual",
+        "label": "Thinking Machines wants to build an AI that actually listens while it talks"
+      },
+      {
         "id": "gm-just-laid-off-hundreds-of-it-workers-to-hire-th",
         "label": "GM just laid off hundreds of IT workers to hire those with stronger AI skills"
       },
@@ -437,6 +540,50 @@
       {
         "id": "riding-an-ai-rally-robinhood-preps-second-retail",
         "label": "Riding an AI rally, Robinhood preps second retail venture IPO"
+      },
+      {
+        "id": "confidence-guided-diffusion-augmentation-for-enhanced-bangla",
+        "label": "Confidence-Guided Diffusion Augmentation for Enhanced Bangla Compound Character"
+      },
+      {
+        "id": "deco-sparse-mixture-of-experts-with-dense-comparable-perfor",
+        "label": "DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side De"
+      },
+      {
+        "id": "variational-inference-for-lévy-process-driven-sdes-via-neura",
+        "label": "Variational Inference for Lévy Process-Driven SDEs via Neural Tilting"
+      },
+      {
+        "id": "shepherd-a-runtime-substrate-empowering-meta-agents-with-a",
+        "label": "Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution"
+      },
+      {
+        "id": "engineering-robustness-into-personal-agents-with-the-ai-work",
+        "label": "Engineering Robustness into Personal Agents with the AI Workflow Store"
+      },
+      {
+        "id": "datamaster-towards-autonomous-data-engineering-for-machine",
+        "label": "DataMaster: Towards Autonomous Data Engineering for Machine Learning"
+      },
+      {
+        "id": "dynamic-skill-lifecycle-management-for-agentic-reinforcement",
+        "label": "Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning"
+      },
+      {
+        "id": "revisiting-policy-gradients-for-restricted-policy-classes-e",
+        "label": "Revisiting Policy Gradients for Restricted Policy Classes: Escaping Myopic Local"
+      },
+      {
+        "id": "optimal-and-scalable-mapf-via-multi-marginal-optimal-transpo",
+        "label": "Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger B"
+      },
+      {
+        "id": "elf-embedded-language-flows",
+        "label": "ELF: Embedded Language Flows"
+      },
+      {
+        "id": "thinking-machines-wants-to-build-an-ai-t",
+        "label": "Thinking Machines wants to build an AI that actually listens while it talks"
       },
       {
         "id": "riding-an-ai-rally-robinhood-preps-seco",
@@ -576,6 +723,6 @@
       }
     ],
     "date_bj": "2026-05-12 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-12 12:05:24"
+    "generated_at_bj": "2026-05-12 18:04:50"
   }
 }

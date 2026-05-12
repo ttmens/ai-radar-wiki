@@ -1,0 +1,30 @@
+{
+  "title": "Equivariant Reinforcement Learning for Clifford Quantum Circuit Synthesis",
+  "summary": "We consider the problem of synthesizing Clifford quantum circuits for devices with all-to-all qubit connectivity. We approach this task as a reinforcement learning problem in which an agent learns to discover a sequence of elementary Clifford gates that reduces a given symplectic matrix representation of a Clifford circuit to the identity. This formulation permits a simple learning curriculum based on random walks from the identity. We introduce a novel neural network architecture that is equivariant to qubit relabelings of the symplectic matrix representation, and which is size-agnostic, allowing a single learned policy to be applied across different qubit counts without circuit splicing or network reparameterization. On six-qubit Clifford circuits, the largest regime for which optimal references are available, our agent finds circuits within one two-qubit gate of optimality in milliseconds per instance, and finds optimal circuits in 99.2% of instances within seconds per instance. After continued training on ten-qubit instances, the agent scales to unseen Clifford tableaus with up to thirty qubits, including targets generated from circuits with over a thousand Clifford gates, where it achieves lower average two-qubit gate counts than Qiskit's Aaronson-Gottesman and greedy Clifford synthesizers.",
+  "url": "http://arxiv.org/abs/2605.10910v1",
+  "authors": [
+    "Richie Yeung",
+    "Aleks Kissinger",
+    "Rob Cornish"
+  ],
+  "published": "2026-05-11T17:49:28Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "neural network",
+    "parameter"
+  ],
+  "summary_cn": "本文提出利用等变强化学习自动化合成Clifford量子电路。该技术将量子门序列优化建模为强化学习任务，通过引入对称性先验提升训练效率与泛化能力，可显著降低全连接量子设备的电路编译成本。对AI产品经理而言，该研究展示了AI在底层编译器优化中的落地潜力，有望加速量子软件栈自动化，为未来量子云平台提供高效电路生成能力，具备较高的技术前瞻性与工具链商业价值。",
+  "pm_relevance": 6,
+  "concepts": [
+    "Equivariant RL",
+    "Quantum Circuit Synthesis",
+    "AI for Science"
+  ],
+  "entities": [],
+  "patterns": [
+    "AI-Driven Compiler",
+    "Symmetry-Aware Agent"
+  ]
+}

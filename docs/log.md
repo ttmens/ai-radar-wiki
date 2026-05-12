@@ -432,3 +432,18 @@
 - create: riding-an-ai-rally-robinhood-preps-second-retail.md
 - create: gm-just-laid-off-hundreds-of-it-workers-to-hire-th.md
 - create: show-hn-e2a-open-source-email-gateway-for-ai-ag.md
+
+## [2026-05-12 18:06] sync v3 | 13 new | pillars: {'capabilities': 8, 'patterns': 3, 'ecosystem': 1, 'business': 1}
+- create: elf-embedded-language-flows.md
+- create: variational-inference-for-lévy-process-driven-sdes-via-neura.md
+- create: deco-sparse-mixture-of-experts-with-dense-comparable-perfor.md
+- create: quantifying-concentration-phenomena-of-mean-field-transforme.md
+- create: dynamic-skill-lifecycle-management-for-agentic-reinforcement.md
+- create: optimal-and-scalable-mapf-via-multi-marginal-optimal-transpo.md
+- create: confidence-guided-diffusion-augmentation-for-enhanced-bangla.md
+- create: shepherd-a-runtime-substrate-empowering-meta-agents-with-a.md
+- create: equivariant-reinforcement-learning-for-clifford-quantum-circ.md
+- create: revisiting-policy-gradients-for-restricted-policy-classes-e.md
+- create: engineering-robustness-into-personal-agents-with-the-ai-work.md
+- create: datamaster-towards-autonomous-data-engineering-for-machine.md
+- create: thinking-machines-wants-to-build-an-ai-that-actual.md

@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-05-12T12:07:26.532441+08:00",
+  "generated_at": "2026-05-12T18:06:52.287463+08:00",
   "days_analyzed": 5,
   "pillar_trends": {
     "capabilities": {
-      "trend": "stable",
-      "delta": 0,
-      "current": 13,
+      "trend": "up",
+      "delta": 8,
+      "current": 21,
       "previous": 13,
       "has_data": true
     },
     "patterns": {
-      "trend": "down",
-      "delta": -2,
-      "current": 3,
+      "trend": "up",
+      "delta": 1,
+      "current": 6,
       "previous": 5,
       "has_data": true
     },
     "ecosystem": {
       "trend": "up",
-      "delta": 4,
-      "current": 6,
+      "delta": 5,
+      "current": 7,
       "previous": 2,
       "has_data": true
     },
     "business": {
-      "trend": "stable",
-      "delta": 0,
-      "current": 19,
+      "trend": "up",
+      "delta": 1,
+      "current": 20,
       "previous": 19,
       "has_data": true
     }
@@ -167,6 +167,22 @@
               "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
               "reason": "里程碑式进展",
               "pillar": "patterns"
+            },
+            {
+              "id": "dynamic-skill-lifecycle-management-for-agentic-reinforcement",
+              "title": "Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning",
+              "score": 0.3,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "revisiting-policy-gradients-for-restricted-policy-classes-e",
+              "title": "Revisiting Policy Gradients for Restricted Policy Classes: Escaping My",
+              "score": 0.3,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
             }
           ]
         }
@@ -233,7 +249,7 @@
         {
           "date": "2026-05-12",
           "title": "AI Agent 工具链与协作流程快速成熟",
-          "body": "今日16条情报涉及AI Agent及相关工具生态。典型项目包括：Postmortem: TanStack npm supply-chain co, Gmail registration now requires scanning。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "body": "今日28条情报涉及AI Agent及相关工具生态。典型项目包括：Postmortem: TanStack npm supply-chain co, Gmail registration now requires scanning。具体信号：AI Agent, CLI/终端, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
           "type": "paradigm_shift",
           "evidence": [
             {
@@ -242,6 +258,14 @@
               "score": 0.43,
               "url": "",
               "reason": "里程碑式进展",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "equivariant-reinforcement-learning-for-clifford-quantum-circ",
+              "title": "Equivariant Reinforcement Learning for Clifford Quantum Circuit Synthe",
+              "score": 0.41,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "capabilities"
             },
             {
@@ -261,17 +285,9 @@
               "pillar": "capabilities"
             },
             {
-              "id": "digg-tries-again-this-time-as-an-ai-news-aggregat",
-              "title": "Digg tries again, this time as an AI news aggregator",
-              "score": 0.3,
-              "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
-              "reason": "里程碑式进展",
-              "pillar": "capabilities"
-            },
-            {
-              "id": "emergent-semantic-role-understanding-in-language-models",
-              "title": "Emergent Semantic Role Understanding in Language Models",
-              "score": 0.26,
+              "id": "quantifying-concentration-phenomena-of-mean-field-transforme",
+              "title": "Quantifying Concentration Phenomena of Mean-Field Transformers in the ",
+              "score": 0.38,
               "url": "",
               "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "capabilities"
@@ -586,5 +602,5 @@
     }
   ],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-12**（5天），累计 **173** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI工具链从通用走向垂直专业化**。 值得关注：🔧 工具生态呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-12**（5天），累计 **187** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI工具链从通用走向垂直专业化**。 值得关注：🤖 技术能力呈上升趋势；📱 产品模式呈上升趋势；🔧 工具生态呈上升趋势；💰 商业动态呈上升趋势"
 }

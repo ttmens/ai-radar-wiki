@@ -1,0 +1,33 @@
+{
+  "title": "Quantifying Concentration Phenomena of Mean-Field Transformers in the Low-Temperature Regime",
+  "summary": "Transformers with self-attention modules as their core components have become an integral architecture in modern large language and foundation models. In this paper, we study the evolution of tokens in deep encoder-only transformers at inference time which is described in the large-token limit by a mean-field continuity equation. Leveraging ideas from the convergence analysis of interacting multi-particle systems, with particles corresponding to tokens, we prove that the token distribution rapidly concentrates onto the push-forward of the initial distribution under a projection map induced by the key, query, and value matrices, and remains metastable for moderate times. Specifically, we show that the Wasserstein distance of the two distributions scales like $\\sqrt{{\\log(β+1)}/β}\\exp(Ct)+\\exp(-ct)$ in terms of the temperature parameter $β^{-1}\\to 0$ and inference time $t\\geq 0$. For the proof, we establish Lyapunov-type estimates for the zero-temperature equation, identify its limit as $t\\to\\infty$, and employ a stability estimate in Wasserstein space together with a quantitative Laplace principle to couple the two equations. Our result implies that for time scales of order $\\logβ$ the token distribution concentrates at the identified limiting distribution. Numerical experiments confirm this and, beyond that, complement our theory by showing that for finite $β$ and large $t$ the dynamics enter a different terminal phase, dominated by the spectrum of the value matrix.",
+  "url": "http://arxiv.org/abs/2605.10931v1",
+  "authors": [
+    "Albert Alcalde",
+    "Leon Bungert",
+    "Konstantin Riedl",
+    "Tim Roith"
+  ],
+  "published": "2026-05-11T17:58:14Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "token",
+    "transformer",
+    "attention",
+    "parameter"
+  ],
+  "summary_cn": "本文基于平均场理论与统计物理方法，量化了深度Transformer在推理阶段的Token演化与聚集现象。对AI产品经理而言，该研究揭示了模型在低温参数下的确定性行为边界，为优化推理稳定性、防止输出退化提供了理论支撑。成果可指导产品侧的温度参数调优策略与架构迭代，提升大模型生成的可控性与可靠性，夯实底层技术底座。",
+  "pm_relevance": 5,
+  "concepts": [
+    "Transformer Dynamics",
+    "Token Concentration",
+    "Inference Stability"
+  ],
+  "entities": [],
+  "patterns": [
+    "Inference Optimization",
+    "Model Reliability Analysis"
+  ]
+}
