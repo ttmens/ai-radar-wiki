@@ -1,7 +1,7 @@
 # AI Radar 系统设计文档 (System Design Document)
 
-> **版本**: v3.12.4  
-> **最后更新**: 2026-05-11  
+> **版本**: v3.13.0  
+> **最后更新**: 2026-05-12  
 > **维护者**: Hermes Agent  
 
 > **在线地址**: https://ttmens.github.io/ai-radar-wiki/graph.html
@@ -443,6 +443,7 @@ all_edges = list(new_edges) + existing.edges
 | `ai-funding-intelligence` | 每周五 09:00 | 融资情报 | Feishu | ✅ 已恢复 |
 | `ai-product-launch-tracker` | 每周四 08:00 | 产品发布追踪 | Feishu | ✅ 已恢复 |
 | `ai-community-buzz` | 每周二 09:00 | 社区讨论挖掘 | Feishu | ✅ 已恢复 |
+| `ai-radar-daily-article` | 每日 19:00 | 公众号日报生成（WeChat HTML + 飞书文档） | 飞书文档（用户手动发布到公众号） | ✅ 运行中 |
 | ~~ai-design-tools-digest~~ | ~~半月~~ | ~~设计工具分析~~ | ~~Feishu~~ | ⏸️ 已暂停 |
 | ~~china-ai-news-digest~~ | ~~周~~ | ~~中国 AI 新闻~~ | ~~Feishu~~ | ⏸️ 已暂停 |
 | ~~ai-company-strategy-watch~~ | ~~周~~ | ~~大厂战略追踪~~ | ~~Feishu~~ | ⏸️ 已暂停 |
@@ -626,6 +627,7 @@ DASHSCOPE_BASE_URL=https://coding.dashscope.aliyuncs.com/v1
 |- [x] `build_llm_prompt` f-string 转义修复（v3.12.0）
 |- [x] `generate_daily_summary` 后处理去重层（v3.12.0）
 |- [x] `weekly_trends` 叙事链 `latest_type` 初始化修复（v3.12.0）
+| - [x] 公众号日报系统（v3.13.0）：`wechat_article.py` 生成 WeChat HTML + 飞书文档
 
 ### 8.2 待实现/优化 🚧
 - [ ] 移动端体验持续优化（如首次使用引导、图例说明入口等增量）
@@ -795,11 +797,21 @@ data_json = json.dumps(graph_data, indent=2, ensure_ascii=False)
 └── DESIGN.md               # 本文档
 
 ~/.hermes/scripts/
-├── ai_radar_explorer.py    # 数据采集 + 分析 + 注入脚本
-├── ai_radar_sync.py        # 飞书同步脚本
-├── generate_daily_summary.py  # 每日摘要生成器
-├── weekly_trends.py        # 周趋势分析脚本
-└── ai_radar_health_check.py   # 保活监控脚本
+├── ai_radar_explorer.py       # 数据采集 + 分析 + 注入（每6h）
+├── ai_radar_sync.py           # 飞书 Bitable/云文档同步（每日06:00）
+├── ai_radar_health_check.py   # 健康监控 + 自动恢复（每4h）
+├── generate_daily_summary.py  # 每日深度分析摘要（explorer 子流程）
+├── weekly_trends.py           # 周趋势分析（explorer 子流程）
+├── generate_rss.py            # RSS Feed 生成（每4h）
+├── wechat_article.py          # 公众号日报 HTML 生成（每日19:00）
+├── bitable_sync.py            # Bitable 数据写入（sync 子模块）
+├── feishu_bitable_writer.py   # 飞书 Bitable 写入器
+├── feishu_push.py             # 飞书文档推送
+├── extract_concepts.py        # 概念节点提取
+├── reorganize_feishu.py       # 飞书文档结构重组
+├── reorganize_radar.py        # Radar 数据重组
+├── wiki_maintainer.py         # Wiki 维护工具
+└── ai_radar_explorer.py.bak   # Explorer 备份（不追踪）
 
 ~/.hermes/.env              # 环境变量 (API Keys)
 ```
@@ -810,6 +822,7 @@ data_json = json.dumps(graph_data, indent=2, ensure_ascii=False)
 
 | 版本 | 日期 | 变更内容 |
 |------|------|----------|
+| v3.13.0 | 2026-05-12 | **定时任务与脚本归档**：① §5.1 补充 `ai-radar-daily-article`（公众号日报） ② §11 文件索引补全全部14个脚本及说明 ③ `~/.hermes/scripts/` 全量推送到 Git（13个新文件） |
 | v3.12.4 | 2026-05-11 | **UI**：顶栏「跟进」改为「订阅」、移除独立 RSS 按钮（RSS 留在订阅面板）；订阅按钮与顶栏 `header-btn` 统一样式；窄屏订阅面板改为 `fixed` 避免被顶栏横向滚动裁切 |
 | v3.12.3 | 2026-05-11 | **跟进/订阅**：顶栏「跟进」浮层（复制链接、GitHub Watch、RSS、邮件/微信说明）；DESIGN §5.3 列可选邮件/公众号/Telegram 等扩展路径 |
 | v3.12.2 | 2026-05-11 | **防覆盖**: 新增 `tools/inject_graph_data.py`（仅替换 `graph.html` 内 `#graph-data` JSON）；新增 §6.4 说明 debd0e5 根因与 Hermes `generate_graph_html` 强制规范 |
