@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 12 May 2026 00:03:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 04:10:09 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -13,68 +13,20 @@
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
     <item>
-      <title>Get ready for the whisper-filled office of the future</title>
-      <link>https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/</link>
-      <guid isPermaLink="false">get-ready-for-the-whisper-filled-office</guid>
-      <pubDate>Sun, 10 May 2026 21:15:30 T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> news</p><hr/><p>How will work setups change if we spend more and more time talking to our computers?</p></description>
-      <category>💰 商业趋势</category>
+      <title>Postmortem: TanStack npm supply-chain compromise</title>
+      <link>https://news.ycombinator.com/item?id=48100706</link>
+      <guid isPermaLink="false">postmortem-tanstack-npm-supply-chain-compromise</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文复盘了TanStack在npm生态遭遇的供应链安全事件，揭示开源依赖在发布流程与权限管控中的漏洞。对AI产品经理而言，该案例警示构建AI应用时需强化第三方依赖审计与供应链治理，防范底层篡改导致的数据泄露或服务中断。落实依赖白名单、自动化安全扫描与应急响应机制，是保障AI产品稳定性与合规性的关键基础设施。</p></description>
+      <category>🔧 工具生态</category>
     </item>
     <item>
-      <title>Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail a</title>
-      <link>https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/</link>
-      <guid isPermaLink="false">anthropic-says-evil-portrayals-of-ai-w</guid>
-      <pubDate>Sun, 10 May 2026 20:40:41 T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> news</p><hr/><p>Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>We’re feeling cynical about xAI’s big deal with Anthropic</title>
-      <link>https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/</link>
-      <guid isPermaLink="false">were-feeling-cynical-about-xais-big-de</guid>
-      <pubDate>Sun, 10 May 2026 15:34:25 T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> news</p><hr/><p>On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Voice AI in India is hard. Wispr Flow is betting on it anyway.</title>
-      <link>https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/</link>
-      <guid isPermaLink="false">voice-ai-in-india-is-hard-wispr-flow-is</guid>
-      <pubDate>Sun, 10 May 2026 02:00:00 T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> news</p><hr/><p>Wispr Flow 针对印度市场推出“Hinglish”（印地语与英语混合）语音交互功能，成功突破当地语音AI面临的口音复杂、语码转换频繁等技术瓶颈，实现用户增长显著加速。该案例凸显了垂直市场本地化策略的商业价值：通过精准适配区域性语言混合特征，优化语音识别与意图理解模型，可有效提升产品渗透率。对AI产品经理而言，这验证了“语言混合支持+场景化微调”在新兴市场落地中的关键作用，为全球化语音产品的差异化竞争提供可复用路径。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>So you&amp;#8217;ve heard these AI terms and nodded along; let&amp;#8217;s fix that</title>
-      <link>https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</link>
-      <guid isPermaLink="false">so-you8217ve-heard-these-ai-terms-and</guid>
-      <pubDate>Sat, 09 May 2026 21:45:00 T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> news</p><hr/><p>The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Nvidia has already committed $40B to equity AI deals this year</title>
-      <link>https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/</link>
-      <guid isPermaLink="false">nvidia-has-already-committed-40b-to-equ</guid>
-      <pubDate>Sat, 09 May 2026 14:43:30 T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> news</p><hr/><p>英伟达年内已承诺投入400亿美元用于AI股权交易，持续加码AI生态布局。对AI产品经理而言，此举不仅验证了底层算力基础设施的长期商业价值，更预示着硬件巨头正通过资本纽带深度绑定上下游企业，构建软硬协同的闭环生态。PM需关注由此带来的技术栈整合机会、潜在合作路径，以及算力供应链对产品落地节奏与成本结构的影响，以便提前规划生态位与商业化策略。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Digg tries again, this time as an AI news aggregator</title>
-      <link>https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/</link>
-      <guid isPermaLink="false">digg-tries-again-this-time-as-an-ai-new</guid>
-      <pubDate>Mon, 11 May 2026 17:02:35 T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> news</p><hr/><p>In an email to beta testers, the company said the site's goal is to "track the most influential voices in a space" and to surface the news that's actually worth "paying attention to."</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>There aren&amp;#8217;t enough rockets for space data centers. Cowboy Space raised $2</title>
-      <link>https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/</link>
-      <guid isPermaLink="false">there-aren8217t-enough-rockets-for-sp</guid>
-      <pubDate>Mon, 11 May 2026 13:00:00 T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> news</p><hr/><p>Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.</p></description>
-      <category>💰 商业趋势</category>
+      <title>Postmortem: TanStack npm supply-chain compromise</title>
+      <link>https://tanstack.com/blog/npm-supply-chain-compromise-postmortem</link>
+      <guid isPermaLink="false">postmortem-tanstack-npm-supply-chain-co</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> discussion</p><hr/><p>本文复盘了TanStack在npm生态遭遇的供应链安全事件，揭示开源依赖在发布流程与权限管控中的漏洞。对AI产品经理而言，该案例警示构建AI应用时需强化第三方依赖审计与供应链治理，防范底层篡改导致的数据泄露或服务中断。落实依赖白名单、自动化安全扫描与应急响应机制，是保障AI产品稳定性与合规性的关键基础设施。</p></description>
+      <category>🔧 工具生态</category>
     </item>
     <item>
       <title>Gmail registration now requires scanning a QR code and sending a text message</title>
@@ -91,6 +43,30 @@
       <pubDate>2026-05-12T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> discussion</p><hr/><p>谷歌近期调整Gmail注册流程，强制引入二维码扫描与短信验证双重机制。该举措旨在通过增加交互摩擦有效拦截自动化脚本与黑产批量注册，全面升级账号安全基线。对AI产品经理而言，平台级反爬与风控策略升级将直接影响依赖Gmail进行OAuth授权或数据抓取的AI应用集成方案。团队需提前适配多因子认证链路，并在保障安全的前提下优化新用户引导体验，精准平衡风控强度与转化漏斗。</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Claude Platform on AWS</title>
+      <link>https://news.ycombinator.com/item?id=48103042</link>
+      <guid isPermaLink="false">claude-platform-on-aws</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic与AWS深度整合，将Claude大模型全面接入AWS Bedrock及专属云平台。该方案为AI产品经理提供企业级模型部署路径，依托AWS底层算力与安全合规体系，实现低延迟、高并发的推理服务。核心价值在于降低前沿模型接入门槛，支持无缝对接现有云原生架构，便于快速构建RAG与智能体应用。同时提供灵活计费与数据隔离选项，助力产品在安全、成本与规模化落地间取得平衡，是B端AI基础设施选型的关键参考。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Practical Scaling Laws: Converting Compute into Performance in a Data-Constraine</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">practical-scaling-laws-converting-compute-into-performance</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文针对高质量数据稀缺现状，提出适用于数据受限环境的实用扩展定律，突破传统Chinchilla定律在多轮训练与数据饱和时的失效局限。技术上，建立了算力与性能转化的精准映射，优化多轮预训练策略。对AI产品经理而言，该成果可直接指导训练预算分配与数据策略制定，在算力成本高企背景下，为打造高性价比、可快速迭代的基座模型提供核心决策依据。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>On Characterizing Learnability for Adversarial Noisy Bandits</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">on-characterizing-learnability-for-adversarial-noisy-bandits</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文聚焦对抗性噪声环境下的多臂老虎机算法，通过引入已知函数类先验，提升模型在动态对抗与数据噪声干扰下的决策鲁棒性。对AI产品经理而言，该技术可显著优化推荐系统、动态定价与自动化A/B测试的长期收益，降低试错成本。其核心价值在于将理论可学习性转化为实际业务中的稳定决策能力，适用于高波动场景的智能策略引擎构建，助力产品实现收益最大化。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s</title>
@@ -149,6 +125,22 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>Show HN: E2a – Open-source email gateway for AI agents</title>
+      <link>https://github.com/Mnexa-AI/e2a</link>
+      <guid isPermaLink="false">show-hn-e2a-open-source-email-gateway-for-ai-ag</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>E2a是一款专为AI智能体设计的开源邮件网关，提供标准化API使Agent能安全高效地收发与解析邮件。该产品解决了AI与企业现有通信设施对接的痛点，内置身份验证、内容过滤与结构化提取能力，大幅降低集成门槛。对AI产品经理而言，它为自动化客服、日程协同等场景提供了即插即用的通信中间件，具备显著的商业落地价值与生态扩展潜力。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Show HN: E2a – Open-source email gateway for AI agents</title>
+      <link>https://github.com/Mnexa-AI/e2a</link>
+      <guid isPermaLink="false">show-hn-e2a-open-source-email-gateway</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> project</p><hr/><p>E2a是一款专为AI智能体设计的开源邮件网关，提供标准化API使Agent能安全高效地收发与解析邮件。该产品解决了AI与企业现有通信设施对接的痛点，内置身份验证、内容过滤与结构化提取能力，大幅降低集成门槛。对AI产品经理而言，它为自动化客服、日程协同等场景提供了即插即用的通信中间件，具备显著的商业落地价值与生态扩展潜力。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>Show HN: SLayer, a semantic layer maintained by your agent</title>
       <link>https://github.com/MotleyAI/slayer</link>
       <guid isPermaLink="false">show-hn-slayer-a-semantic-layer-mainta</guid>
@@ -165,6 +157,14 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>GM just laid off hundreds of IT workers to hire those with stronger AI skills</title>
+      <link>https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/</link>
+      <guid isPermaLink="false">gm-just-laid-off-hundreds-of-it-workers-to-hire-th</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>Digg tries again, this time as an AI news aggregator</title>
       <link>https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/</link>
       <guid isPermaLink="false">digg-tries-again-this-time-as-an-ai-news-aggregat</guid>
@@ -173,9 +173,33 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Riding an AI rally, Robinhood preps second retail venture IPO</title>
+      <link>https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/</link>
+      <guid isPermaLink="false">riding-an-ai-rally-robinhood-preps-second-retail</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Riding an AI rally, Robinhood preps second retail venture IPO</title>
+      <link>https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/</link>
+      <guid isPermaLink="false">riding-an-ai-rally-robinhood-preps-seco</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> news</p><hr/><p>Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>If AI writes your code, why use Python?</title>
       <link>https://news.ycombinator.com/item?id=48100433</link>
       <guid isPermaLink="false">if-ai-writes-your-code-why-use-python</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Interaction Models</title>
+      <link>https://news.ycombinator.com/item?id=48100524</link>
+      <guid isPermaLink="false">interaction-models</guid>
       <pubDate>2026-05-12T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
       <category>💰 商业趋势</category>
@@ -187,6 +211,86 @@
       <pubDate>2026-05-12T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Emergent Semantic Role Understanding in Language Models</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">emergent-semantic-role-understanding-in-language-models</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Understanding how linguistic structure emerges in language models is central to interpreting what these systems learn from data and how much supervision they truly require. In particular, semantic role understanding ("who did what to whom") is a core component of meaning representation, yet it remai</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>The Geometry of Forgetting: Temporal Knowledge Drift as an Independent Axis in L</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">the-geometry-of-forgetting-temporal-knowledge-drift-as-an-i</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Large language models confidently produce outdated answers, and no existing method can detect them. We show this is not an engineering failure but a structural one: temporal drift, whether a stored fact has changed since training, is encoded as a direction in the residual stream geometrically orthog</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>LBI: Parallel Scan Backpropagation via Latent Bounded Interfaces</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">lbi-parallel-scan-backpropagation-via-latent-bounded-interf</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Backpropagation is inherently sequential across depth, creating an $O(K)$-deep dependency chain that bottlenecks parallel training. While parallel-scan formulations theoretically reduce this depth to $O(\log K)$, they are computationally prohibitive for modern architectures due to the $O(d^3)$ cost</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Learning When to Stop: Selective Imitation Learning Under Arbitrary Dynamics Shi</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">learning-when-to-stop-selective-imitation-learning-under-ar</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Behavior cloning provides strong imitation learning guarantees when training and test environments share the same dynamics. However, in many deployment settings the test environment's transitions differ from training, and classical offline IL offers no recourse: the learner must commit to an action</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>DARE: Difficulty-Adaptive Reinforcement Learning with Co-Evolved Difficulty Esti</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">dare-difficulty-adaptive-reinforcement-learning-with-co-evo</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Reinforcement learning improves the reasoning ability of large language models but remains costly and sample-inefficient, as many rollouts provide weak learning signals. Difficulty-aware data selection methods attempt to address this by prioritizing moderately difficult prompts, yet our analysis rev</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>RigidFormer: Learning Rigid Dynamics using Transformers</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">rigidformer-learning-rigid-dynamics-using-transformers</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Learning-based simulation of multi-object rigid-body dynamics remains difficult because contact is discontinuous and errors compound over long horizons. Most existing methods remain tied to mesh connectivity and vertex-level message passing, which limits their applicability to mesh-free inputs such</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Evidence Over Plans: Online Trajectory Verification for Skill Distillation</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">evidence-over-plans-online-trajectory-verification-for-skil</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Agent skills can remarkably improve task success rates by using human-written procedural documents, but their quality is difficult to assess without environment-grounded verification. Existing skill generation methods heavily rely on preference logs rather than direct environment interaction, often</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Agentic MIP Research: Accelerated Constraint Handler Generation</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">agentic-mip-research-accelerated-constraint-handler-generat</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Mixed-integer programming (MIP) research is both mathematically sophisticated and engineering-intensive: testing an algorithmic hypothesis within a branch-and-cut solver requires substantial implementation, debugging, tuning, and large-scale benchmarking. We propose an agentic MIP research framework</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Navigating LLM Valley: From AdamW to Memory-Efficient and Matrix-Based Optimizer</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">navigating-llm-valley-from-adamw-to-memory-efficient-and-ma</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Training large language models requires optimization algorithms that are not only statistically effective, but also computationally and memory efficient at extreme scale. Although Adam remains the dominant optimizer for large-scale language-model pretraining and fine-tuning, recent work has revisite</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Open Ontologies: Tool-Augmented Ontology Engineering with Stable Matching Alignm</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">open-ontologies-tool-augmented-ontology-engineering-with-st</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>We present Open Ontologies, an open-source ontology engineering system implemented in Rust that integrates LLM-driven construction with formal OWL reasoning and ontology alignment via the Model Context Protocol. Our primary finding is that stable 1-to-1 matching is the dominant factor in ontology al</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)</title>
@@ -229,6 +333,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Fake building: Claude wrote 3k lines instead of import pywikibot</title>
+      <link>https://news.ycombinator.com/item?id=48103459</link>
+      <guid isPermaLink="false">fake-building-claude-wrote-3k-lines-instead-of-im</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>Google says criminal hackers used AI to find a major software flaw</title>
       <link>https://news.ycombinator.com/item?id=48094641</link>
       <guid isPermaLink="false">google-says-criminal-hackers-used-ai-to-find-a-maj</guid>
@@ -242,6 +354,14 @@
       <guid isPermaLink="false">what-a-japanese-cooking-principle-taught-me-about</guid>
       <pubDate>2026-05-12T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Fake building: Claude wrote 3k lines instead of import pywikibot</title>
+      <link>https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/</link>
+      <guid isPermaLink="false">fake-building-claude-wrote-3k-lines-ins</guid>
+      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，32 分，16 条评论</p></description>
       <category>💰 商业趋势</category>
     </item>
     <item>
@@ -290,126 +410,6 @@
       <guid isPermaLink="false">openai-symphony</guid>
       <pubDate>2026-05-12T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>obra-superpowers</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">obra-superpowers</guid>
-      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>golutra-golutra</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">golutra-golutra</guid>
-      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>bytedance-ui-tars-desktop</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">bytedance-ui-tars-desktop</guid>
-      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>ruvnet-ruflo</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">ruvnet-ruflo</guid>
-      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>insforge-insforge</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">insforge-insforge</guid>
-      <pubDate>2026-05-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>LLMorphism: When humans come to see themselves as language models</title>
-      <link>https://news.ycombinator.com/item?id=48082021</link>
-      <guid isPermaLink="false">llmorphism-when-humans-come-to-see-themselves-as</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨“LLMorphism”现象，即用户逐渐以LLM逻辑重构思维与表达。对AI产品经理而言，这揭示了用户心智向“提示词驱动”迁移的趋势。产品设计需从“训练用户适应AI”转向“隐式意图识别与上下文理解”，降低交互门槛。该趋势将重塑对话式UI，推动产品向低摩擦的AI原生体验演进，对提升用户留存与拓展商业化场景具有关键指导价值。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">rubric-grounded-rl-structured-judge-rewards-for-generalizab</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出“基于量表的强化学习”，将传统单一奖励拆解为多维度、可验证的加权标准，并引入大模型裁判进行细粒度打分。该技术提供“部分得分”优化信号，显著提升复杂推理任务的训练效率与泛化能力。对AI产品经理而言，该方案可大幅降低人工标注成本，实现更透明可控的模型评估与迭代，适用于智能评测、代码助手及复杂Agent开发，是构建高可靠推理产品的关键技术路径。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>LLMorphism: When humans come to see themselves as language models</title>
-      <link>https://arxiv.org/abs/2605.05419</link>
-      <guid isPermaLink="false">llmorphism-when-humans-come-to-see-them</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> discussion</p><hr/><p>本文探讨“LLMorphism”现象，即用户逐渐以LLM逻辑重构思维与表达。对AI产品经理而言，这揭示了用户心智向“提示词驱动”迁移的趋势。产品设计需从“训练用户适应AI”转向“隐式意图识别与上下文理解”，降低交互门槛。该趋势将重塑对话式UI，推动产品向低摩擦的AI原生体验演进，对提升用户留存与拓展商业化场景具有关键指导价值。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Local AI needs to be the norm</title>
-      <link>https://news.ycombinator.com/item?id=48085821</link>
-      <guid isPermaLink="false">local-ai-needs-to-be-the-norm</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Academic Research Skills for Claude Code</title>
-      <link>https://news.ycombinator.com/item?id=48083919</link>
-      <guid isPermaLink="false">academic-research-skills-for-claude-code</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该项目为Claude Code注入学术研究能力，通过结构化提示词、文献检索工具集成与自动化工作流编排，实现论文解析、综述生成与引用校验。技术上依托Agent工具调用与长上下文管理，显著降低科研场景AI使用门槛。对PM而言，验证了“基础模型+场景化技能包”的落地路径，凸显垂直工作流Agent在学术与研发市场的商业化潜力，为SaaS订阅与开发者生态扩展提供明确方向。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">graphlcp-structure-aware-localized-conformal-prediction-on</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>GRAPHLCP提出一种面向图神经网络的局部化共形预测框架，有效解决图数据预测置信度不足与分布偏移难题。该技术通过结构感知机制实现细粒度不确定性量化，为图AI提供可验证的置信区间。对PM而言，可显著提升推荐、风控等场景的决策透明度与容错能力，降低误判业务损失，是构建高可靠、可解释AI产品的关键底层能力。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?</title>
-      <link>https://news.ycombinator.com/item?id=48089049</link>
-      <guid isPermaLink="false">how-fast-does-claude-acting-as-a-user-space-ip-st</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨将Claude大模型作为用户态IP协议栈的实验性应用，重点测试其对网络Ping请求的响应延迟。技术层面揭示了LLM在模拟底层网络协议时的实时性瓶颈与推理开销，为AI产品经理评估大模型在基础设施、边缘计算及实时系统集成的可行性提供关键参考。该实验虽非生产级方案，但拓展了AI Agent向系统级组件演进的边界，提示PM在规划低延迟AI原生应用时需权衡模型推理速度与架构设计。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?</title>
-      <link>https://dunkels.com/adam/claude-user-space-ip-stack-ping/</link>
-      <guid isPermaLink="false">how-fast-does-claude-acting-as-a-user-s</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> discussion</p><hr/><p>本文探讨将Claude大模型作为用户态IP协议栈的实验性应用，重点测试其对网络Ping请求的响应延迟。技术层面揭示了LLM在模拟底层网络协议时的实时性瓶颈与推理开销，为AI产品经理评估大模型在基础设施、边缘计算及实时系统集成的可行性提供关键参考。该实验虽非生产级方案，但拓展了AI Agent向系统级组件演进的边界，提示PM在规划低延迟AI原生应用时需权衡模型推理速度与架构设计。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Task Paralysis and AI</title>
-      <link>https://news.ycombinator.com/item?id=48081469</link>
-      <guid isPermaLink="false">task-paralysis-and-ai</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Spain has become one of Europe’s cheapest power markets</title>
-      <link>https://news.ycombinator.com/item?id=48085330</link>
-      <guid isPermaLink="false">spain-has-become-one-of-europes-cheapest-power-ma</guid>
-      <pubDate>2026-05-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
       <category>💰 商业趋势</category>
     </item>
   </channel>
