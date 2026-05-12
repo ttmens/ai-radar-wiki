@@ -182,10 +182,10 @@ def auto_recover():
         os.makedirs(concepts_dir, exist_ok=True)
         recovery_actions.append("✅ 创建 wiki/concepts 目录")
     
-    # 2. 检查 vis-network.min.js
-    vis_js = f"{WIKI_DIR}/assets/vis-network.min.js"
-    if not os.path.exists(vis_js):
-        recovery_actions.append("❌ vis-network.min.js 缺失，需要手动恢复")
+    # 2. 检查 vis-network.min.js（两个可能位置）
+    vis_js_paths = [f"{WIKI_DIR}/vis-network.min.js", f"{WIKI_DIR}/assets/vis-network.min.js"]
+    if not any(os.path.exists(p) for p in vis_js_paths):
+        recovery_actions.append("❌ vis-network.min.js 缺失（检查了根目录和 assets/），需要手动恢复")
     
     # 3. 尝试运行一次 explorer
     graph_mtime = os.path.getmtime(GRAPH_JSON) if os.path.exists(GRAPH_JSON) else 0

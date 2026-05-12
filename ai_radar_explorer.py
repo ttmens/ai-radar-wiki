@@ -1483,7 +1483,20 @@ def build_graph_json(items):
         pillar = item.get("pillar", "unknown")
         # Extract date
         node_date = item.get("created") or item.get("published") or item.get("pub_date") or ""
-        if node_date: node_date = node_date.split("T")[0].split("+")[0] # Normalize
+        if node_date:
+            # Normalize to YYYY-MM-DD
+            if "T" in node_date:
+                node_date = node_date.split("T")[0].split("+")[0]
+            elif "," in node_date:
+                # RFC2822: "Sun, 10 May 2026 02:00:00 "
+                from email.utils import parsedate_to_datetime
+                try:
+                    node_date = parsedate_to_datetime(node_date).strftime("%Y-%m-%d")
+                except Exception:
+                    node_date = datetime.now().strftime("%Y-%m-%d")
+            # Fallback: if still not YYYY-MM-DD, use today
+            if len(node_date) != 10 or node_date[4] != "-" or node_date[7] != "-":
+                node_date = datetime.now().strftime("%Y-%m-%d")
         
         if tag == "GitHub": node_id, summary = slugify(item["name"]), item.get("summary_cn", "") or item.get("description", "") or "AI 开源项目"
         elif tag == "Paper": node_id, summary = slugify(item["title"][:40]), item.get("summary_cn", "") or (item.get("summary", "") or "")[:300]
