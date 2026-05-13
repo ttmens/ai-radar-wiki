@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta name="theme-color" content="#ff385c">
+<meta name="view-transition" content="same-origin">
+<title>智瞰 NexSight — 今日简报</title>
+<link rel="icon" href="./assets/nexsight-mark.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="./assets/nexsight-mark.svg">
+<link rel="stylesheet" href="./assets/site-chrome.css">
+<link rel="stylesheet" href="./assets/brief-page.css">
+<script>
+  window.__NEXSIGHT_CONFIG__ = window.__NEXSIGHT_CONFIG__ || {
+    agentIframeUrl: "",
+    agentApiBase: ""
+  };
+</script>
+<script>
+  window.toggleDashboard = window.toggleDashboard || function () {};
+</script>
+</head>
+<body class="brief-page" style="margin:0;background:var(--surface-soft,#f7f7f7);color:var(--ink,#222);font-family:Circular,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',sans-serif;font-size:14px;line-height:1.43;background-image:radial-gradient(ellipse 120% 90% at 0% -10%,rgba(255,56,92,0.07),transparent 52%),radial-gradient(ellipse 90% 70% at 100% 0%,rgba(66,139,255,0.06),transparent 48%);">
+  <div id="header" class="site-chrome-header">
+    <div class="header-brand-scroll">
+      <h1>
+        <a href="./index.html" class="header-brand-block">
+          <img class="brand-mark" src="./assets/nexsight-mark.svg" width="30" height="30" alt="" decoding="async" aria-hidden="true" />
+          <span class="header-text-stack">
+            <span class="header-title-text">智瞰 NexSight</span>
+            <span class="header-sub">面向产品经理的AI全景情报</span>
+          </span>
+        </a>
+      </h1>
+      <nav class="site-nav" aria-label="主导航">
+        <span class="site-nav-thumb" aria-hidden="true"></span>
+        <a href="./index.html" class="site-nav-link site-nav-link--active" aria-current="page">简报</a>
+        <a href="./graph.html" class="site-nav-link">探索</a>
+      </nav>
+    </div>
+    <div id="header-controls">
+      <button type="button" class="header-btn header-agent-btn" onclick="window.toggleAgentPanel()" aria-label="问 AI">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:16px;height:16px"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+        问 AI
+      </button>
+      <div class="subscribe-wrap">
+        <button type="button" id="header-subscribe-btn" class="header-btn" aria-expanded="false" aria-haspopup="dialog" aria-controls="subscribe-panel" onclick="toggleSubscribePanel(event)" title="收藏本页、GitHub 提醒、RSS 等">订阅</button>
+        <div id="subscribe-panel" class="subscribe-panel" role="dialog" aria-label="订阅与更新方式" hidden>
+          <div class="subscribe-panel-title">选择适合你的更新方式</div>
+          <div class="subscribe-row">
+            <strong>收藏本页</strong>
+            <p>用手机或电脑把本页加入书签；iPhone 可在 Safari 里用分享 →「添加到主屏幕」，像 App 一样打开。</p>
+            <button type="button" class="subscribe-copy-btn" onclick="copyGraphPageLink()">复制本页链接</button>
+          </div>
+          <div class="subscribe-row">
+            <strong>GitHub 更新提醒</strong>
+            <p>打开仓库后点右上角 Watch，可收到 Push 或 Release 邮件（适合偶尔看一眼的读者）。</p>
+            <a class="action-link" href="https://github.com/ttmens/ai-radar-wiki" target="_blank" rel="noopener">打开仓库 ttmens/ai-radar-wiki</a>
+          </div>
+          <div class="subscribe-row">
+            <strong>RSS（进阶）</strong>
+            <p>适合使用 Feedly、Reeder 等阅读器的用户。</p>
+            <a class="action-link" href="./feed.xml" target="_blank" rel="noopener">打开 feed.xml</a>
+          </div>
+          <div class="subscribe-row">
+            <strong>微信推送</strong>
+            <p>扫码关注，每日情报推送直达。</p>
+            <a href="./assets/wechat-qr.jpg" target="_blank" rel="noopener" class="subscribe-qr-link">
+              <img src="./assets/wechat-qr.jpg" alt="微信公众号二维码" class="subscribe-qr-img" />
+            </a>
+          </div>
+        </div>
+      </div>
+      <div id="stats"><span id="node-count">0</span><span id="edge-count">0</span></div>
+      <div class="github-btn-group" style="margin-left: 12px;">
+        <a href="https://github.com/ttmens/ai-radar-wiki" class="github-btn" target="_blank" rel="noopener" aria-label="在 GitHub 上 Star 本仓库">
+          <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"></path></svg>
+          <span class="count">Star</span>
+        </a>
+        <a href="https://github.com/ttmens/ai-radar-wiki/fork" class="github-btn" target="_blank" rel="noopener" aria-label="Fork 本仓库">
+          <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path></svg>
+          <span class="count">Fork</span>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 窄屏底部 Tab 栏：3-tab 等权 icon+label，符合 iOS HIG / Material Design -->
+  <nav class="mobile-tab-bar" aria-label="主导航">
+    <a href="./index.html" class="mobile-tab-item mobile-tab-item--active" aria-current="page">
+      <svg class="mobile-tab-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
+      <span class="mobile-tab-label">简报</span>
+    </a>
+    <a href="./graph.html" class="mobile-tab-item">
+      <svg class="mobile-tab-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
+      <span class="mobile-tab-label">探索</span>
+    </a>
+    <button type="button" class="mobile-tab-item mobile-tab-item--disabled" id="mobile-agent-tab" aria-disabled="true" tabindex="-1" title="即将开放">
+      <svg class="mobile-tab-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+      <span class="mobile-tab-label">问 AI</span>
+      <span class="mobile-tab-soon" aria-hidden="true">即将开放</span>
+    </button>
+  </nav>
+
+  <main class="brief-shell brief-root" id="brief-root">
+    <div class="brief-loading" id="brief-loading">正在载入今日情报…</div>
+    <div class="brief-error" id="brief-error" hidden></div>
+    <div id="brief-main" hidden></div>
+    <div class="cta-explore-wrap">
+      <a class="cta-explore" href="./graph.html">打开探索视图 · 知识图谱</a>
+    </div>
+  </main>
+
+  <div id="brief-scroll-jumps" class="brief-scroll-jumps" hidden aria-hidden="true">
+    <button type="button" id="brief-jump-top" class="brief-scroll-jump-btn" hidden aria-label="跳到简报顶部，Jump to top">
+      <span class="brief-scroll-jump-icon" aria-hidden="true">
+        <svg class="brief-scroll-jump-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 15l-6-6-6 6" /></svg>
+      </span>
+    </button>
+    <button type="button" id="brief-jump-bottom" class="brief-scroll-jump-btn" hidden aria-label="跳到简报底部，Jump to bottom">
+      <span class="brief-scroll-jump-icon" aria-hidden="true">
+        <svg class="brief-scroll-jump-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6" /></svg>
+      </span>
+    </button>
+  </div>
+
+  <div id="agent-scrim" class="nex-agent-scrim" hidden aria-hidden="true"></div>
+  <div id="agent-panel" class="nex-agent-panel" role="dialog" aria-labelledby="agent-panel-title" aria-modal="true" aria-hidden="true">
+    <div class="nex-agent-panel-head">
+      <h2 id="agent-panel-title">智瞰问答</h2>
+      <button type="button" class="nex-agent-panel-close" id="agent-panel-close" aria-label="关闭">✕</button>
+    </div>
+    <div class="nex-agent-panel-body">
+      <div id="nex-agent-frame-wrap" class="nex-agent-frame-wrap" hidden>
+        <iframe id="nex-agent-frame" class="nex-agent-frame" title="智瞰问答"></iframe>
+      </div>
+      <div id="nex-agent-scaffold" class="nex-agent-scaffold">
+        <div class="nex-agent-sources-strip">
+          <span class="nex-agent-sources-label">来源 / 上下文</span>
+          <p class="nex-agent-sources-text" id="nex-agent-sources-text"></p>
+        </div>
+        <div class="nex-agent-mid">
+          <div id="nex-agent-thread" class="nex-agent-thread nex-agent-thread--idle" role="log" aria-live="polite" aria-relevant="additions" aria-label="对话">
+            <div class="nex-agent-empty" id="nex-agent-empty">
+              <p class="nex-agent-empty-title">向智瞰提问</p>
+              <p class="nex-agent-empty-desc">用自然语言浏览简报与图谱。composer 对齐常见对话 App；应答可来自自托管后端或嵌入 iframe。</p>
+            </div>
+          </div>
+          <div id="nex-agent-chips" class="nex-agent-chips" aria-label="建议问题"></div>
+        </div>
+        <footer class="nex-agent-composer-wrap">
+          <label for="nex-agent-input" class="nex-sr-only">输入问题</label>
+          <textarea id="nex-agent-input" class="nex-agent-input" rows="1" placeholder="问问今日情报…" autocomplete="off"></textarea>
+          <button type="button" class="nex-agent-send" id="nex-agent-send" aria-label="发送">↑</button>
+        </footer>
+        <p class="nex-agent-footnote" id="agent-placeholder-msg">
+          对标 <a href="https://github.com/AsyncFuncAI/deepwiki-open" target="_blank" rel="noopener">DeepWiki-open</a>：在部署层自托管问答后端（FastAPI / RAG），把可嵌入对话页写入 <code>window.__NEXSIGHT_CONFIG__.agentIframeUrl</code>；亦可监听 <code>nexsight-agent-submit</code> 事件。<strong>密钥请勿写入仓库</strong>。
+        </p>
+      </div>
+    </div>
+  </div>
+  <button type="button" id="nex-agent-fab" class="nex-agent-fab" aria-controls="agent-panel">问 AI</button>
+  <div id="subscribe-toast" role="status" aria-live="polite"></div>
+
+  <script src="./assets/site-chrome.js"></script>
+  <script>
+(function () {
+  function escapeHtml(t) {
+    if (t == null) return "";
+    var d = document.createElement("div");
+    d.textContent = String(t);
+    return d.innerHTML;
+  }
+
+  function getCacheBuster() {
+    return String(Date.now());
+  }
+
+  function pillarDotClass(pk) {
+    var m = { capabilities: "p-cap", patterns: "p-pat", ecosystem: "p-eco", business: "p-bus" };
+    return m[pk] || "p-unknown";
+  }
+
+  function pillarZh(pk) {
+    var m = { capabilities: "技术能力", patterns: "产品模式", ecosystem: "工具生态", business: "商业趋势" };
+    return m[pk] || pk || "—";
+  }
+
+  function narrativeTypeZh(ty) {
+    var m = { paradigm_shift: "范式转移", bottleneck: "核心瓶颈", maturation: "行业成熟", validation: "模式验证" };
+    return m[ty] || "趋势";
+  }
+
+  async function fetchJson(path) {
+    var r = await fetch(path + "?v=" + getCacheBuster(), { credentials: "same-origin" });
+    if (!r.ok) throw new Error(path + " " + r.status);
+    return r.json();
+  }
+
+  function briefShellJumpSyncSetup() {
+    var shell = document.getElementById("brief-root");
+    var wrap = document.getElementById("brief-scroll-jumps");
+    var topBtn = document.getElementById("brief-jump-top");
+    var botBtn = document.getElementById("brief-jump-bottom");
+    if (!shell || !wrap || !topBtn || !botBtn) return null;
+    var mqNarrow =
+      typeof window.matchMedia === "function" ? window.matchMedia("(max-width: 900px)") : null;
+    var EPS = 8;
+
+    function isNarrow() {
+      try {
+        return mqNarrow ? mqNarrow.matches : window.innerWidth <= 900;
+      } catch (e) {
+        return window.innerWidth <= 900;
+      }
+    }
+
+    function sync() {
+      if (!isNarrow()) {
+        wrap.hidden = true;
+        wrap.setAttribute("aria-hidden", "true");
+        topBtn.hidden = true;
+        botBtn.hidden = true;
+        return;
+      }
+      var maxScroll = shell.scrollHeight - shell.clientHeight;
+      if (maxScroll <= EPS) {
+        wrap.hidden = true;
+        wrap.setAttribute("aria-hidden", "true");
+        topBtn.hidden = true;
+        botBtn.hidden = true;
+        return;
+      }
+      wrap.hidden = false;
+      wrap.setAttribute("aria-hidden", "false");
+      var st = shell.scrollTop;
+      var atTop = st <= EPS;
+      var atBottom = st >= maxScroll - EPS;
+      if (atTop && atBottom) {
+        topBtn.hidden = false;
+        botBtn.hidden = false;
+      } else {
+        topBtn.hidden = atTop;
+        botBtn.hidden = atBottom;
+      }
+    }
+
+    topBtn.addEventListener("click", function () {
+      shell.scrollTop = 0;
+      sync();
+    });
+    botBtn.addEventListener("click", function () {
+      shell.scrollTop = shell.scrollHeight - shell.clientHeight;
+      sync();
+    });
+    shell.addEventListener(
+      "scroll",
+      function () {
+        sync();
+      },
+      { passive: true }
+    );
+
+    window.addEventListener(
+      "resize",
+      function () {
+        window.requestAnimationFrame(sync);
+      },
+      { passive: true }
+    );
+
+    if (mqNarrow && typeof mqNarrow.addEventListener === "function") {
+      mqNarrow.addEventListener("change", function () {
+        window.requestAnimationFrame(sync);
+      });
+    } else if (mqNarrow && typeof mqNarrow.addListener === "function") {
+      mqNarrow.addListener(function () {
+        window.requestAnimationFrame(sync);
+      });
+    }
+
+    if (typeof ResizeObserver !== "undefined") {
+      try {
+        var ro = new ResizeObserver(function () {
+          window.requestAnimationFrame(sync);
+        });
+        ro.observe(shell);
+      } catch (e) {}
+    }
+
+    sync();
+    return sync;
+  }
+
+  function applyHeaderStats(realNodes, edgeCount) {
+    var nc = document.getElementById("node-count");
+    var ec = document.getElementById("edge-count");
+    if (nc) nc.textContent = realNodes + " 节点";
+    if (ec) ec.textContent = edgeCount + " 边";
+    if (window.NexSightChrome && window.NexSightChrome.syncHeaderHeight) {
+      requestAnimationFrame(function () {
+        window.NexSightChrome.syncHeaderHeight();
+      });
+    }
+  }
+
+  function renderBrief(daily, weekly, todayItems, refDate) {
+    var ds = daily.daily_summary || daily;
+    var hl = ds.headline || "今日简报";
+    var overview = ds.overview || "";
+    var narratives = ds.narratives || [];
+    var insights = ds.insights || [];
+
+    var html = "";
+    html += '<p class="brief-hero-date">' + escapeHtml(refDate || ds.date || "") + "</p>";
+    html += '<h2 class="brief-headline-xl">' + escapeHtml(hl) + "</h2>";
+    if (overview) {
+      html += '<p class="brief-overview">' + escapeHtml(overview) + "</p>";
+    }
+
+    if (narratives.length > 0) {
+      html += '<h3 class="brief-section-title">叙事主线</h3>';
+      narratives.forEach(function (n, i) {
+        html += '<article class="narr-card">';
+        html += '<div class="narr-type">' + escapeHtml(narrativeTypeZh(n.type)) + "</div>";
+        html += '<div class="narr-title">' + escapeHtml(n.title || "") + "</div>";
+        html += '<div class="narr-body">' + escapeHtml(n.body || "") + "</div>";
+        html += "</article>";
+      });
+    }
+
+    if (insights.length > 0) {
+      html += '<h3 class="brief-section-title">四维洞察 · 证据</h3>';
+      insights.forEach(function (ins, idx) {
+        var pk = ins.pillar_key || "";
+        html += '<details class="insight-acc">';
+        html += "<summary>";
+        html += '<span class="acc-pillar-dot"><span class="' + pillarDotClass(pk) + '" style="display:inline-block;width:10px;height:10px;border-radius:50%;"></span>';
+        html += escapeHtml(ins.pillar || pillarZh(pk)) + "</span></summary>";
+        html += '<div class="insight-acc-body">';
+        html += escapeHtml(ins.insight || "");
+        var evList = ins.evidence || [];
+        if (evList.length) {
+          html += '<div class="evidence-lines">';
+          evList.slice(0, 8).forEach(function (ev, ei) {
+            var href = ev.url && String(ev.url).trim();
+            var safeTitle = escapeHtml(ev.title || ev.id || "情报");
+            var linkCell = href
+              ? '<a class="evidence-link" href="' + escapeHtml(href) + '" target="_blank" rel="noopener">' + safeTitle + "</a>"
+              : '<span>' + safeTitle + "</span>";
+            var reason = ev.reason ? ' title="' + escapeHtml(ev.reason) + '"' : "";
+            html += '<div class="evidence-line"' + reason + ">";
+            html += '<span class="evidence-line-num">' + (ei + 1) + "</span>";
+            html += '<div>' + linkCell + "</div>";
+            html += '<span class="ev-score">PM ' + Number(ev.score != null ? ev.score : 0).toFixed(2) + "</span>";
+            html += "</div>";
+          });
+          html += "</div>";
+        }
+        html += "</div></details>";
+      });
+    }
+
+    html += '<h3 class="brief-section-title">今日情报榜</h3>';
+    if (!todayItems.length) {
+      html += '<p style="font-size:13px;color:var(--muted)">暂无当日条目（或数据源日期与本地不一致）。可前往探索页浏览全图谱。</p>';
+    } else {
+      todayItems.forEach(function (n, ri) {
+        var pk = n.pillar || "unknown";
+        var href = (n.url || "").trim() || "./graph.html";
+        var title = escapeHtml(n.label || n.id || "");
+        var sum = escapeHtml((n.summary || "").slice(0, 260));
+        var meta = [];
+        if (n.stars != null) meta.push("⭐ " + n.stars);
+        if (n.score != null) meta.push("HN " + n.score);
+        if (n.source_type || n.type) meta.push(String(n.source_type || n.type || ""));
+        var metaStr = escapeHtml(meta.join(" · "));
+        html += '<div class="rank-card">';
+        html += '<div class="rank-score ' + pillarDotClass(pk) + '">' + Number(n.pm_score != null ? n.pm_score : 0).toFixed(2) + "</div>";
+        html += "<div>";
+        html += '<div class="rank-title-row"><div class="rank-title"><a href="' + escapeHtml(href) + '" target="_blank" rel="noopener">' + title + "</a></div></div>";
+        if (metaStr) html += '<div class="rank-meta">' + pillarZh(pk) + " · " + metaStr + "</div>";
+        if (sum) html += '<div class="rank-summary">' + sum + "</div>";
+        html += "</div></div>";
+      });
+    }
+
+    html += '<h3 class="brief-section-title">周趋势提要</h3>';
+    html += '<div class="week-teaser">';
+    if (weekly && weekly.pillar_trends) {
+      var pt = weekly.pillar_trends;
+      var keys = [["capabilities","技术"],["patterns","产品"],["ecosystem","工具"],["business","商业"]];
+      var bits = [];
+      keys.forEach(function (row) {
+        var k = row[0],
+          lab = row[1];
+        if (!pt[k] || !pt[k].has_data) return;
+        var tr = pt[k].trend || "?";
+        var cur = pt[k].current != null ? pt[k].current : "—";
+        bits.push(lab + " " + cur + "(" + tr + ")");
+      });
+      html += escapeHtml(bits.join("；") || "周趋势统计已就绪。");
+      html += '<div class="week-teaser-mini">完整叙事链与矛盾信号请在探索页的「周视图」查看。</div>';
+    } else {
+      html += "未能载入 weekly_trends.json。";
+    }
+    html += "</div>";
+
+    return html;
+  }
+
+  async function run() {
+    var loadEl = document.getElementById("brief-loading");
+    var errEl = document.getElementById("brief-error");
+    var mainEl = document.getElementById("brief-main");
+
+    try {
+      var daily = await fetchJson("./daily_summary.json");
+      var weeklyTask = fetchJson("./weekly_trends.json").catch(function () {
+        return null;
+      });
+
+      var ds = daily.daily_summary || daily;
+      var refDate = ds.date || "";
+
+      var items = [];
+      var graphTotals = null;
+
+      try {
+        var snap = await fetchJson("./brief_snapshot.json");
+        if (snap.date && refDate && snap.date !== refDate) {
+          throw new Error("snapshot date mismatch");
+        }
+        items = snap.items || [];
+        graphTotals = snap.graph_totals || null;
+      } catch (e) {
+        try {
+          var graph = await fetchJson("./graph.json");
+          items = (graph.nodes || []).filter(function (n) {
+            if (n.type === "concept") return false;
+            var d = n.date || "";
+            return refDate ? String(d).startsWith(refDate) : String(d).length >= 10;
+          });
+          items.sort(function (a, b) {
+            return Number(b.pm_score || 0) - Number(a.pm_score || 0);
+          });
+          var realN = graph.nodes.filter(function (n) {
+            return n.type !== "concept";
+          }).length;
+          graphTotals = { real_nodes: realN, edges: (graph.edges || []).length };
+        } catch (e2) {
+          items = [];
+        }
+      }
+
+      if (!graphTotals) {
+        try {
+          var gmeta = await fetchJson("./graph.json");
+          graphTotals = {
+            real_nodes: (gmeta.nodes || []).filter(function (n) {
+              return n.type !== "concept";
+            }).length,
+            edges: (gmeta.edges || []).length,
+          };
+        } catch (e3) {
+          graphTotals = null;
+        }
+      }
+
+      if (graphTotals && graphTotals.real_nodes != null && graphTotals.edges != null) {
+        applyHeaderStats(graphTotals.real_nodes, graphTotals.edges);
+      }
+
+      var weekly = await weeklyTask;
+      var html = renderBrief(daily, weekly, items, refDate);
+
+      loadEl.hidden = true;
+      errEl.hidden = true;
+      mainEl.innerHTML = html;
+      mainEl.hidden = false;
+      if (window.NexSightChrome && window.NexSightChrome.syncHeaderHeight) {
+        requestAnimationFrame(function () {
+          window.NexSightChrome.syncHeaderHeight();
+        });
+      }
+      if (window.__briefShellJumpSync) window.__briefShellJumpSync();
+      window.requestAnimationFrame(function () {
+        if (window.__briefShellJumpSync) window.__briefShellJumpSync();
+      });
+    } catch (e) {
+      loadEl.hidden = true;
+      errEl.hidden = false;
+      errEl.textContent = "无法加载简报数据：" + (e && e.message ? e.message : String(e));
+      if (window.NexSightChrome && window.NexSightChrome.syncHeaderHeight) {
+        window.NexSightChrome.syncHeaderHeight();
+      }
+      if (window.__briefShellJumpSync) window.__briefShellJumpSync();
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    window.__briefShellJumpSync = briefShellJumpSyncSetup();
+    run();
+  });
+})();
+  </script>
+</body>
+</html>

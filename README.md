@@ -2,7 +2,8 @@
 
 > 自动化 AI 技术情报系统，面向 AI 产品经理的 4 支柱知识图谱
 
-[![Graph](https://img.shields.io/badge/📊_Knowledge_Graph-Live-blue)](https://ttmens.github.io/ai-radar-wiki/graph.html)
+[![Brief](https://img.shields.io/badge/首页_今日简报-ff385c)](https://ttmens.github.io/ai-radar-wiki/)
+[![Graph](https://img.shields.io/badge/探索_知识图谱-blue)](https://ttmens.github.io/ai-radar-wiki/graph.html)
 [![Update](https://img.shields.io/badge/🔄_Every_6h-green)]()
 [![RSS](https://img.shields.io/badge/📡_RSS_Feed-orange)](https://ttmens.github.io/ai-radar-wiki/feed.xml)
 [![Chinese](https://img.shields.io/badge/🇨🇳_360_中文摘要-red)]()
@@ -33,12 +34,14 @@
 
 | 资源 | 链接 |
 |------|------|
-| 📊 交互式知识图谱 | [Open Graph](https://ttmens.github.io/ai-radar-wiki/graph.html) |
-| 📋 图谱数据 | [graph.json](https://ttmens.github.io/ai-radar-wiki/graph.json) |
-| 📚 Wiki 索引 | [index.md](https://ttmens.github.io/ai-radar-wiki/index.md) |
-| 📡 RSS 订阅 | [feed.xml](https://ttmens.github.io/ai-radar-wiki/feed.xml) |
-| 📅 今日日报 | [daily_summary.json](https://ttmens.github.io/ai-radar-wiki/daily_summary.json) |
-| 📖 设计文档 | [DESIGN.md](https://ttmens.github.io/ai-radar-wiki/DESIGN.md) |
+| 今日简报（默认首页） | [index.html](https://ttmens.github.io/ai-radar-wiki/) |
+| 交互式知识图谱（探索） | [graph.html](https://ttmens.github.io/ai-radar-wiki/graph.html) |
+| 当日瘦数据（简报用） | [brief_snapshot.json](https://ttmens.github.io/ai-radar-wiki/brief_snapshot.json) |
+| 图谱数据 | [graph.json](https://ttmens.github.io/ai-radar-wiki/graph.json) |
+| Wiki 索引 | [index.md](https://ttmens.github.io/ai-radar-wiki/index.md) |
+| RSS 订阅 | [feed.xml](https://ttmens.github.io/ai-radar-wiki/feed.xml) |
+| 今日日报 | [daily_summary.json](https://ttmens.github.io/ai-radar-wiki/daily_summary.json) |
+| 设计文档 | [DESIGN.md](https://ttmens.github.io/ai-radar-wiki/DESIGN.md) |
 
 ---
 

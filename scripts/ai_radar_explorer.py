@@ -832,7 +832,7 @@ def generate_daily_digest(all_items, state):
     today_nodes = []
     if os.path.exists(graph_path):
         try:
-            with open(graph_path) as f:
+            with open(graph_path, encoding="utf-8") as f:
                 graph_data = json.load(f)
             for node in graph_data.get("nodes", []):
                 if node.get("date", "").startswith(today) and node.get("type") != "concept":
@@ -1287,7 +1287,7 @@ def build_graph_json(items):
     existing_ids = set()
     if os.path.exists(f"{WIKI_DIR}/graph.json"):
         try:
-            with open(f"{WIKI_DIR}/graph.json") as f:
+            with open(f"{WIKI_DIR}/graph.json", encoding="utf-8") as f:
                 existing_data = json.load(f)
             existing_nodes = existing_data.get("nodes", [])
             existing_edges = existing_data.get("edges", [])
@@ -1647,7 +1647,7 @@ def build_graph_json(items):
     all_nodes.sort(key=lambda n: n.get("pm_score", 0), reverse=True)
 
     graph_data = {"nodes": all_nodes, "edges": all_edges, "generated_at": datetime.now().isoformat(), "generator": "ai-radar-explorer-v3", "schema_version": "4-pillar-pm-focused"}
-    with open(f"{WIKI_DIR}/graph.json", "w") as f:
+    with open(f"{WIKI_DIR}/graph.json", "w", encoding="utf-8", newline="\n") as f:
         json.dump(graph_data, f, indent=2, ensure_ascii=False)
     return graph_data
 
@@ -1687,12 +1687,13 @@ def generate_graph_html(graph_data):
         # Pattern: everything between the opening and closing script tags
         import re
         pattern = re.compile(r'(<script id="graph-data" type="application/json">)(.*?)(</script>)', re.DOTALL)
-        html_content = open(graph_html_path).read()
+        with open(graph_html_path, encoding="utf-8") as f:
+            html_content = f.read()
         match = pattern.search(html_content)
         if match:
             # CRITICAL: use lambda to avoid re.sub backslash interpretation (\\n → literal newline)
             new_html = pattern.sub(lambda m: m.group(1) + data_json + m.group(3), html_content, count=1)
-            with open(graph_html_path, "w") as f:
+            with open(graph_html_path, "w", encoding="utf-8", newline="\n") as f:
                 f.write(new_html)
             print(f"  ✅ graph.html data updated: {len(graph_data['nodes'])} nodes, {len(graph_data['edges'])} edges (UI preserved)")
             return graph_html_path
@@ -1704,7 +1705,7 @@ def generate_graph_html(graph_data):
         print(f"  ⚠️ graph_template.html not found at {template_path}")
         return
     
-    with open(template_path) as f:
+    with open(template_path, encoding="utf-8") as f:
         html_template = f.read()
     
     if "{{DATA}}" not in html_template:
@@ -1712,7 +1713,7 @@ def generate_graph_html(graph_data):
         return
     
     html = html_template.replace("{{DATA}}", data_json)
-    with open(graph_html_path, "w") as f:
+    with open(graph_html_path, "w", encoding="utf-8", newline="\n") as f:
         f.write(html)
     print(f"  ✅ graph.html generated from template: {len(graph_data['nodes'])} nodes, {len(graph_data['edges'])} edges")
     return graph_html_path
@@ -1938,6 +1939,20 @@ def main():
         print("  📊 Weekly trends updated")
     except Exception as e:
         print(f"  ⚠️ Weekly trends failed: {e}")
+
+    import subprocess as _sub
+    try:
+        _snap = os.path.join(WIKI_DIR, "scripts", "generate_brief_snapshot.py")
+        if os.path.isfile(_snap):
+            _r = _sub.run(
+                ["python3", _snap, "--wiki-root", WIKI_DIR],
+                timeout=60, capture_output=True, text=True)
+            if _r.returncode == 0:
+                print("  📸 brief_snapshot.json 已更新")
+            else:
+                print(f"  ⚠️ brief_snapshot 异常: {_r.stderr or _r.stdout or _r.returncode}")
+    except Exception as e:
+        print(f"  ⚠️ brief_snapshot 失败: {e}")
     
     git_push()
     print(f"\n📊 Summary: {total_stats['found']} total, {total_stats['new']} new")

@@ -4,7 +4,14 @@
 将 graph.json 注入 graph.html 中 <script id="graph-data"> 的内联 JSON，
 不改动其余 HTML/JS/CSS —— 与 debd0e5 起的设计一致，避免 Cron 用整页模板覆盖丢失自定义 UI。
 
-建议在 Hermes 的 generate_graph_html() 中改为调用本脚本，或复制其逻辑。
+    建议在 Hermes 的 generate_graph_html() 中改为调用本脚本，或复制其逻辑。
+
+    Chrome / 导航壳层（简报 / 探索、订阅、问 AI）：编辑 graph_template.html 后须保持与 graph.html 一致。
+    可运行「仅 UTF-8 安全」的补充脚本：
+        python tools/patch_graph_template_chrome.py [--regenerate-from-graph-html] [--ensure-regex]
+        python tools/ensure_graph_js_regexes.py
+    再配合本脚本的 --from-template 重写 graph.html。
+    快速清单：tools/GRAPHPAGE_UTF8.md；展开说明：tools/README_GRAPH_UTF8.md。
 
 用法：
     python tools/inject_graph_data.py [--wiki-root PATH] [--dry-run]
@@ -25,6 +32,11 @@ import json
 import re
 import sys
 from pathlib import Path
+
+_TOOLS_DIR = Path(__file__).resolve().parent
+if str(_TOOLS_DIR) not in sys.path:
+    sys.path.insert(0, str(_TOOLS_DIR))
+from check_graph_utf8 import check_files as _check_graph_utf8_files  # noqa: E402
 
 GRAPH_DATA_SCRIPT_RE = re.compile(
     r'(<script\s+id="graph-data"\s+type="application/json"\s*>)'
@@ -128,8 +140,9 @@ def main() -> int:
                 f'OK dry-run --from-template: would write {len(new_html)} bytes to {graph_html}',
             )
             return 0
-        graph_html.write_text(new_html, encoding='utf-8')
+        graph_html.write_text(new_html, encoding='utf-8', newline='\n')
         print(f'OK wrote {graph_html} from template ({len(new_html)} bytes)')
+        _warn_if_graph_utf8_issues(graph_html, template)
         return 0
 
     html = graph_html.read_text(encoding='utf-8')
@@ -157,9 +170,21 @@ def main() -> int:
         print(f'OK dry-run: would write {len(new_html)} bytes to {graph_html}')
         return 0
 
-    graph_html.write_text(new_html, encoding='utf-8')
+    graph_html.write_text(new_html, encoding='utf-8', newline='\n')
     print(f'OK wrote {graph_html} ({len(new_html)} bytes)')
+    _warn_if_graph_utf8_issues(graph_html, template)
     return 0
+
+
+def _warn_if_graph_utf8_issues(graph_html: Path, template: Path) -> None:
+    targets = [p for p in (graph_html, template) if p.is_file()]
+    issues = _check_graph_utf8_files(targets)
+    if issues:
+        print('WARN UTF-8 self-check:', file=sys.stderr)
+        for line in issues:
+            print(f'  {line}', file=sys.stderr)
+    else:
+        print('OK UTF-8 self-check (graph.html, graph_template.html)')
 
 
 if __name__ == '__main__':

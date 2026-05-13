@@ -9,6 +9,11 @@
 <title>智瞰 NexSight — 全景趋势 · 决策情报</title>
 <link rel="icon" href="./assets/nexsight-mark.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="./assets/nexsight-mark.svg">
+<link rel="stylesheet" href="./assets/site-chrome.css">
+<meta name="view-transition" content="same-origin">
+<script>
+  window.__NEXSIGHT_CONFIG__ = window.__NEXSIGHT_CONFIG__ || { agentIframeUrl: '', agentApiBase: '' };
+</script>
 <style>
   /*
    * Visual language: Airbnb (awesome-design-md / design-md/airbnb / getdesign.md/airbnb)
@@ -174,24 +179,6 @@
     max-width: 100%;
   }
   #header-controls { display: flex; align-items: center; align-content: center; gap: 8px; flex-shrink: 0; flex-wrap: wrap; justify-content: flex-end; }
-  .header-brief-btn {
-    display: none;
-    align-items: center; justify-content: center;
-    min-height: 44px;
-    padding: 10px 18px;
-    border-radius: var(--radius-sm);
-    border: 1px solid var(--border-solid);
-    background: var(--canvas);
-    color: var(--text-primary);
-    font-size: 14px; font-weight: 600; font-family: inherit;
-    cursor: pointer;
-    transition: background 0.15s, border-color 0.15s, box-shadow 0.15s;
-    box-shadow: var(--shadow-sm);
-  }
-  .header-brief-btn:hover {
-    background: var(--surface-soft);
-    border-color: var(--border-strong);
-  }
   #stats {
     display: inline-flex;
     align-items: center;
@@ -1378,8 +1365,9 @@
     :root {
       /* 节点详情底栏；今日情报高度见 #dashboard 内 50vh/50dvh */
       --bottom-sheet-cap: min(78vh, 620px, calc(100dvh - var(--header-h) - 16px));
+      /* 略高于 site-chrome 默认值，避免底栏与 FAB 视觉重叠 */
+      --mobile-tab-bar-stack: calc(52px + max(16px, var(--safe-bottom)));
     }
-    .header-brief-btn { display: none !important; }
 
     .github-btn-group { margin-left: 0 !important; }
     .github-btn {
@@ -1533,9 +1521,10 @@
     /* FAB: secondary action, not blocking graph center (Maps / Figma mobile pattern) */
     #dashboard-expand-btn {
       top: auto;
-      bottom: calc(22px + var(--safe-bottom));
+      bottom: calc(var(--mobile-tab-bar-stack) + 32px);
       left: auto;
-      right: calc(14px + var(--safe-right));
+      right: calc(12px + var(--safe-right));
+      z-index: 110;
       transform: none;
       writing-mode: horizontal-tb;
       letter-spacing: 0.03em;
@@ -1701,20 +1690,28 @@
   <div id="panel-scrim" role="presentation" aria-hidden="true" onclick="hidePanel()"></div>
 
   <!-- Header -->
-  <div id="header">
+  <div id="header" class="site-chrome-header">
     <div class="header-brand-scroll">
     <h1>
-      <span class="header-brand-block">
+        <a href="./index.html" class="header-brand-block">
         <img class="brand-mark" src="./assets/nexsight-mark.svg" width="30" height="30" alt="" decoding="async" aria-hidden="true" />
         <span class="header-text-stack">
           <span class="header-title-text">智瞰 NexSight</span>
           <span class="header-sub">面向产品经理的AI全景情报</span>
         </span>
-      </span>
+      </a>
     </h1>
+      <nav class="site-nav" aria-label="主导航">
+        <span class="site-nav-thumb" aria-hidden="true"></span>
+        <a href="./index.html" class="site-nav-link">简报</a>
+        <a href="./graph.html" class="site-nav-link site-nav-link--active" aria-current="page">探索</a>
+      </nav>
     </div>
     <div id="header-controls">
-      <button type="button" id="header-brief-btn" class="header-brief-btn" onclick="toggleDashboard()" aria-controls="dashboard" aria-expanded="true">摘要</button>
+      <button type="button" class="header-btn header-agent-btn" onclick="window.toggleAgentPanel()" aria-label="问 AI">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:16px;height:16px"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+        问 AI
+      </button>
       <div class="subscribe-wrap">
         <button type="button" id="header-subscribe-btn" class="header-btn" aria-expanded="false" aria-haspopup="dialog" aria-controls="subscribe-panel" onclick="toggleSubscribePanel(event)" title="收藏本页、GitHub 提醒、RSS 等">订阅</button>
         <div id="subscribe-panel" class="subscribe-panel" role="dialog" aria-label="订阅与更新方式" hidden>
@@ -1756,6 +1753,22 @@
       </div>
     </div>
   </div>
+
+  <nav class="mobile-tab-bar" aria-label="主导航">
+    <a href="./index.html" class="mobile-tab-item">
+      <svg class="mobile-tab-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
+      <span class="mobile-tab-label">简报</span>
+    </a>
+    <a href="./graph.html" class="mobile-tab-item mobile-tab-item--active" aria-current="page">
+      <svg class="mobile-tab-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
+      <span class="mobile-tab-label">探索</span>
+    </a>
+    <button type="button" class="mobile-tab-item mobile-tab-item--disabled" id="mobile-agent-tab" aria-disabled="true" tabindex="-1" title="即将开放">
+      <svg class="mobile-tab-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+      <span class="mobile-tab-label">问 AI</span>
+      <span class="mobile-tab-soon" aria-hidden="true">即将开放</span>
+    </button>
+  </nav>
 
   <!-- Dashboard (Left) -->
   <div id="dashboard">
@@ -1820,12 +1833,55 @@
     </div>
   </div>
 
+  <div id="agent-scrim" class="nex-agent-scrim" hidden aria-hidden="true"></div>
+  <div id="agent-panel" class="nex-agent-panel" role="dialog" aria-labelledby="agent-panel-title" aria-modal="true" aria-hidden="true">
+    <div class="nex-agent-panel-head">
+      <h2 id="agent-panel-title">智瞰问答</h2>
+      <button type="button" class="nex-agent-panel-close" id="agent-panel-close" aria-label="关闭">✕</button>
+    </div>
+    <div class="nex-agent-panel-body">
+      <div id="nex-agent-frame-wrap" class="nex-agent-frame-wrap" hidden>
+        <iframe id="nex-agent-frame" class="nex-agent-frame" title="智瞰问答"></iframe>
+      </div>
+      <div id="nex-agent-scaffold" class="nex-agent-scaffold">
+        <div class="nex-agent-sources-strip">
+          <span class="nex-agent-sources-label">来源 / 上下文</span>
+          <p class="nex-agent-sources-text" id="nex-agent-sources-text"></p>
+        </div>
+        <div class="nex-agent-mid">
+          <div id="nex-agent-thread" class="nex-agent-thread nex-agent-thread--idle" role="log" aria-live="polite" aria-relevant="additions" aria-label="对话">
+            <div class="nex-agent-empty" id="nex-agent-empty">
+              <p class="nex-agent-empty-title">向智瞰提问</p>
+              <p class="nex-agent-empty-desc">用自然语言浏览简报与图谱。composer 对齐常见对话 App；应答可来自自托管后端或嵌入 iframe。</p>
+            </div>
+          </div>
+          <div id="nex-agent-chips" class="nex-agent-chips" aria-label="建议问题"></div>
+        </div>
+        <footer class="nex-agent-composer-wrap">
+          <label for="nex-agent-input" class="nex-sr-only">输入问题</label>
+          <textarea id="nex-agent-input" class="nex-agent-input" rows="1" placeholder="问问今日情报…" autocomplete="off"></textarea>
+          <button type="button" class="nex-agent-send" id="nex-agent-send" aria-label="发送">↑</button>
+        </footer>
+        <p class="nex-agent-footnote" id="agent-placeholder-msg">
+          对标 <a href="https://github.com/AsyncFuncAI/deepwiki-open" target="_blank" rel="noopener">DeepWiki-open</a>：在部署层自托管问答后端（FastAPI / RAG），把可嵌入对话页写入 <code>window.__NEXSIGHT_CONFIG__.agentIframeUrl</code>；亦可监听 <code>nexsight-agent-submit</code> 事件。<strong>密钥请勿写入仓库</strong>。
+        </p>
+      </div>
+    </div>
+  </div>
+  <button type="button" id="nex-agent-fab" class="nex-agent-fab" aria-controls="agent-panel">问 AI</button>
+  <div id="subscribe-toast" role="status" aria-live="polite"></div>
+
   <!-- Data & Libs -->
   <script id="graph-data" type="application/json">{{DATA}}</script>
   <script src="./assets/vis-network.min.js"></script>
+  <script src="./assets/site-chrome.js"></script>
   <script>
     console.log('智瞰 NexSight · graph intel UI');
     function syncHeaderHeight() {
+      if (window.NexSightChrome && typeof window.NexSightChrome.syncHeaderHeight === 'function') {
+        window.NexSightChrome.syncHeaderHeight();
+        return;
+      }
       const el = document.getElementById('header');
       if (!el) return;
       const minH = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--side-sheet-header-min')) || 64;
@@ -2647,6 +2703,11 @@
       var edgeHud = document.getElementById('edge-count-hud');
       if (nodeHud) nodeHud.textContent = nodeLabel;
       if (edgeHud) edgeHud.textContent = edgeLabel;
+      if (window.NexSightChrome && window.NexSightChrome.syncHeaderHeight) {
+        requestAnimationFrame(function () {
+          window.NexSightChrome.syncHeaderHeight();
+        });
+      }
       // 更新概念计数（如果有这个元素）
       const conceptCountEl = document.getElementById('concept-count');
       if (conceptCountEl) conceptCountEl.textContent = conceptCount + ' 概念';
@@ -2688,13 +2749,11 @@
       var dash = document.getElementById('dashboard');
       var legend = document.getElementById('legend');
       var expandBtn = document.getElementById('dashboard-expand-btn');
-      var briefBtn = document.getElementById('header-brief-btn');
       if (!dash) return;
       dash.classList.remove('hidden');
       dash.style.transform = '';
-      legend.classList.remove('shifted');
+      if (legend) legend.classList.remove('shifted');
       if (expandBtn) expandBtn.classList.remove('show');
-      if (briefBtn) briefBtn.setAttribute('aria-expanded', 'true');
     }
 
     /** 手机底栏：拖条处下滑收起（触屏） */
@@ -3041,21 +3100,18 @@
       const dash = document.getElementById('dashboard');
       const legend = document.getElementById('legend');
       const expandBtn = document.getElementById('dashboard-expand-btn');
-      const briefBtn = document.getElementById('header-brief-btn');
       const isHidden = dash.classList.contains('hidden');
 
       if (isHidden) {
         dash.classList.remove('hidden');
         dash.style.transform = '';
-        legend.classList.remove('shifted');
+        if (legend) legend.classList.remove('shifted');
         if (expandBtn) expandBtn.classList.remove('show');
-        if (briefBtn) briefBtn.setAttribute('aria-expanded', 'true');
       } else {
         dash.classList.add('hidden');
         dash.style.transform = '';
-        legend.classList.add('shifted');
+        if (legend) legend.classList.add('shifted');
         if (expandBtn) expandBtn.classList.add('show');
-        if (briefBtn) briefBtn.setAttribute('aria-expanded', 'false');
       }
       syncHeaderHeight();
     }
@@ -3106,6 +3162,5 @@
       });
     })();
   </script>
-  <div id="subscribe-toast" role="status" aria-live="polite"></div>
 </body>
 </html>
