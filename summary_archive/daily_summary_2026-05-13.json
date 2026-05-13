@@ -7,7 +7,7 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 语音交互, 信任/合规, 模型能力。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：信任/合规, 模型能力, 语音交互, AI Agent。",
         "evidence": [
           {
             "id": "routers-learn-the-geometry-of-their-experts-geometric-coupl",
@@ -113,8 +113,15 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：基础设施, 桌面/本地化, 融资/投资, 语音交互, AI Agent, 开源发布, 模型能力。",
+        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：模型能力, CLI/终端交互, 桌面/本地化, 融资/投资, AI Agent, 开源发布, 基础设施, 语音交互。",
         "evidence": [
+          {
+            "id": "hmbowndeepseek-tui",
+            "title": "Hmbown/DeepSeek-TUI",
+            "score": 0.58,
+            "url": "https://github.com/Hmbown/DeepSeek-TUI",
+            "reason": "高价值信号"
+          },
           {
             "id": "show-hn-statewright-visual-state-machines-that",
             "title": "Show HN: Statewright – Visual state machines that make AI agents relia",
@@ -206,7 +213,7 @@
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：桌面/本地化, 融资/投资, 模型能力, 开源发布, AI Agent。",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：模型能力, 桌面/本地化, 融资/投资, AI Agent, 开源发布。",
         "evidence": [
           {
             "id": "dessn-raises-6m-for-its-production-focused-design",
@@ -293,10 +300,31 @@
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
+            "id": "i-applied-to-be-pope-losing-grip-on-reality-whi",
+            "title": "“I applied to be pope”: Losing grip on reality while using ChatGPT",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=48118672",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "foucaults-order-of-things-explained-with-trading",
+            "title": "Foucault's Order of Things Explained with Trading Cards [video]",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=48100364",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
             "id": "show-hn-gigacatalyst-extend-your-saas-with-an-e",
             "title": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
             "score": 0.15,
             "url": "https://news.ycombinator.com/item?id=48110593",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "new-stainless-steel-can-survive-conditions-for-hyd",
+            "title": "New stainless steel can survive conditions for hydrogen production in ",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=48089921",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
@@ -362,13 +390,13 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日23条情报涉及AI Agent及相关工具生态。典型项目包括：Israel's AI targeting system: how data f, Show HN: Statewright – Visual state mach。具体信号：AI Agent, CLI/终端, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日25条情报涉及AI Agent及相关工具生态。典型项目包括：Hmbown/DeepSeek-TUI, Israel's AI targeting system: how data f, Show HN: Statewright – Visual state mach。具体信号：AI Agent, CLI/终端, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
       {
         "title": "AI工具链从通用走向垂直专业化",
-        "body": "今日11条情报涉及AI工具链与基础设施。包括：Show HN: Statewright – Visual state mach, Pythagora-io/gpt-pilot。信号：基础设施, 开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+        "body": "今日12条情报涉及AI工具链与基础设施。包括：Show HN: Statewright – Visual state mach, Hmbown/DeepSeek-TUI。信号：基础设施, 开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
         "type": "maturation",
         "action": "建议：关注工具链发展，考虑引入专用工具或评估自研可行性。行业成熟意味着标准化窗口接近。"
       },
@@ -379,10 +407,14 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "💰 商业趋势: 32 | 🤖 技术能力: 16 | 📱 产品模式: 14 | 🔧 工具生态: 4",
-    "total_items": 66,
-    "high_value_count": 49,
+    "stats": "📱 产品模式: 15 | 💰 商业趋势: 38 | 🤖 技术能力: 16 | 🔧 工具生态: 4",
+    "total_items": 73,
+    "high_value_count": 50,
     "all_today_ids": [
+      {
+        "id": "hmbowndeepseek-tui",
+        "label": "Hmbown/DeepSeek-TUI"
+      },
       {
         "id": "dessn-raises-6m-for-its-production-focused-design",
         "label": "Dessn raises $6M for its production focused design tool"
@@ -580,8 +612,28 @@
         "label": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 riv"
       },
       {
+        "id": "i-applied-to-be-pope-losing-grip-on-reality-whi",
+        "label": "“I applied to be pope”: Losing grip on reality while using ChatGPT"
+      },
+      {
+        "id": "foucaults-order-of-things-explained-with-trading",
+        "label": "Foucault's Order of Things Explained with Trading Cards [video]"
+      },
+      {
+        "id": "foucaults-order-of-things-explained-wit",
+        "label": "Foucault's Order of Things Explained with Trading Cards [video]"
+      },
+      {
+        "id": "i-applied-to-be-pope-losing-grip-on-r",
+        "label": "“I applied to be pope”: Losing grip on reality while using ChatGPT"
+      },
+      {
         "id": "show-hn-gigacatalyst-extend-your-saas-with-an-e",
         "label": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder"
+      },
+      {
+        "id": "new-stainless-steel-can-survive-conditions-for-hyd",
+        "label": "New stainless steel can survive conditions for hydrogen production in seawater"
       },
       {
         "id": "through-the-looking-glass-of-benchmark-hacking",
@@ -594,6 +646,10 @@
       {
         "id": "launch-hn-voker-yc-s24-analytics-for-ai-agent",
         "label": "Launch HN: Voker (YC S24) – Analytics for AI Agents"
+      },
+      {
+        "id": "new-stainless-steel-can-survive-conditio",
+        "label": "New stainless steel can survive conditions for hydrogen production in seawater"
       },
       {
         "id": "launch-hn-voker-yc-s24-analytics-fo",
@@ -649,6 +705,6 @@
       }
     ],
     "date_bj": "2026-05-13 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-13 12:09:35"
+    "generated_at_bj": "2026-05-13 18:03:20"
   }
 }

@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-13 | Total pages: 400
+> Last updated: 2026-05-13 | Total pages: 404
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -171,6 +171,7 @@
 - [[harry0703moneyprinterturbo.md]] harry0703/MoneyPrinterTurbo `pillar:patterns` `score:0.615`
 - [[hkudslightrag.md]] HKUDS/LightRAG `pillar:patterns` `score:0.615`
 - [[hkudsnanobot.md]] HKUDS/nanobot `pillar:patterns` `score:0.405`
+- [[hmbowndeepseek-tui.md]] Hmbown/DeepSeek-TUI `pillar:patterns` `score:0.58`
 - [[infiniflowragflow.md]] infiniflow/ragflow `pillar:patterns` `score:0.615`
 - [[itzcrazyknsvane.md]] ItzCrazyKns/Vane `pillar:patterns` `score:0.58`
 - [[jeecgbootjeecgboot.md]] jeecgboot/JeecgBoot `pillar:patterns` `score:0.615`
@@ -338,12 +339,14 @@
 - [[dyad-shdyad.md]] dyad-sh/dyad `pillar:business` `score:0.405`
 - [[fake-building-claude-wrote-3k-lines-instead-of-im.md]] Fake building: Claude wrote 3k lines instead of import pywikibot `pillar:business` `score:0.155`
 - [[five-architects-of-the-ai-economy-explain-where-th.md]] Five architects of the AI economy explain where the wheels are coming off `pillar:business` `score:0.15`
+- [[foucaults-order-of-things-explained-with-trading.md]] Foucault's Order of Things Explained with Trading Cards [video] `pillar:business` `score:0.205`
 - [[get-ready-for-the-whisper-filled-office-of-the-fut.md]] Get ready for the whisper-filled office of the future `pillar:business` `score:0.305`
 - [[google-adds-gemini-powered-dictation-to-gboard-wh.md]] Google adds Gemini-powered dictation to Gboard, which could be bad news for dict `pillar:business` `score:0.305`
 - [[google-says-criminal-hackers-used-ai-to-find-a-maj.md]] Google says criminal hackers used AI to find a major software flaw `pillar:business` `score:0.155`
 - [[google8217s-8216create-my-widget8217-feat.md]] Google&#8217;s &#8216;Create My Widget&#8217; feature will let you vibe-code you `pillar:business` `score:0.305`
 - [[gpt-55-price-increase-what-it-costs.md]] GPT-5.5 Price Increase: What It Costs `pillar:business` `score:0.33`
 - [[how-elon-musk-left-openai-according-to-greg-brock.md]] How Elon Musk left OpenAI, according to Greg Brockman `pillar:business` `score:0.3`
+- [[i-applied-to-be-pope-losing-grip-on-reality-whi.md]] “I applied to be pope”: Losing grip on reality while using ChatGPT `pillar:business` `score:0.205`
 - [[i-let-ai-build-a-tool-to-help-me-figure-out-what-w.md]] I let AI build a tool to help me figure out what was waking me up at night `pillar:business` `score:0.205`
 - [[if-ai-writes-your-code-why-use-python.md]] If AI writes your code, why use Python? `pillar:business` `score:0.255`
 - [[intel8217s-comeback-story-is-even-wilder-than-i.md]] Intel&#8217;s comeback story is even wilder than it seems `pillar:business` `score:0.305`
@@ -362,6 +365,7 @@
 - [[microsoftai-for-beginners.md]] microsoft/AI-For-Beginners `pillar:business` `score:0.405`
 - [[mintplex-labsanything-llm.md]] Mintplex-Labs/anything-llm `pillar:business` `score:0.405`
 - [[musk-mulled-handing-openai-to-his-children-altman.md]] Musk mulled handing OpenAI to his children, Altman testifies `pillar:business` `score:0.305`
+- [[new-stainless-steel-can-survive-conditions-for-hyd.md]] New stainless steel can survive conditions for hydrogen production in seawater `pillar:business` `score:0.155`
 - [[nvidia-has-already-committed-40b-to-equity-ai-dea.md]] Nvidia has already committed $40B to equity AI deals this year `pillar:business` `score:0.48`
 - [[openaicom-was-once-the-personal-homepage-of-a-g.md]] "openai.com" was once the personal homepage of a guy named glenn `pillar:business` `score:0.155`
 - [[openais-webrtc-problem.md]] OpenAI's WebRTC problem `pillar:business` `score:0.305`
