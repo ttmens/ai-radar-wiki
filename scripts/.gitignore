@@ -1,0 +1,19 @@
+# 敏感配置
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 数据文件（由脚本生成，不包含敏感信息但体积大）
+daily_summary.json
+weekly_trends.json
+health_log.json
+
+# 公众号文章 HTML（本地生成，用于复制粘贴）
+articles/*.html
+
+# IDE
+.vscode/
+.idea/
