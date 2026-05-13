@@ -490,3 +490,6 @@
 - create: poppy-debuts-a-proactive-ai-assistant-to-help-orga.md
 - create: adaption-aims-big-with-autoscientist-an-ai-tool-t.md
 - create: show-hn-torrix-self-hosted-llm-observabilityn.md
+
+## [2026-05-14 00:03] sync v3 | 1 new | pillars: {'business': 1}
+- create: anthropic-courts-a-new-kind-of-customer-small-bus.md
