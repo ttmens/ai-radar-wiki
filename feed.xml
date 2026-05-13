@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 13 May 2026 00:19:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 04:12:26 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -21,12 +21,28 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>Routers Learn the Geometry of Their Experts: Geometric Coupling in Sparse Mixtur</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">routers-learn-the-geometry-of-their-experts-geometric-coupl</guid>
+      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文针对稀疏混合专家（SMoE）大模型训练中常见的“路由坍缩”与“负载均衡损失削弱专家专业性”痛点，提出“几何耦合”机制。研究发现路由器能自主学习专家的几何分布特征，从而优化路由决策。对AI产品经理而言，该技术可显著提升大模型训练稳定性与推理效率，在保持模型高专业性的同时降低算力成本，为下一代高效、可扩展的商用大模型架构提供关键技术支撑。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Dessn raises $6M for its production focused design tool</title>
       <link>https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/</link>
       <guid isPermaLink="false">dessn-raises-6m-for-its-production-focu</guid>
       <pubDate>2026-05-13T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> news</p><hr/><p>Dessn获600万美元融资，致力于开发直接对接生产级代码库的AI设计工具。该产品核心创新在于打破设计与开发间的交付壁垒，通过AI实时解析并同步生产环境代码，实现设计稿与前端组件的精准映射。对AI产品经理而言，其商业价值在于显著降低设计还原成本与沟通损耗，推动“设计即代码”工作流落地，为AI赋能研发协同提供了高价值切入点。</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Israel's AI targeting system: how data from a phone become a death sentence</title>
+      <link>https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence</link>
+      <guid isPermaLink="false">israels-ai-targeting-system-how-data-f</guid>
+      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> discussion</p><hr/><p>本文剖析以色列军方AI目标定位系统如何将海量手机元数据与通信记录转化为打击清单。技术核心在于多源数据实时融合、自动化模式识别与预测建模。对AI产品经理而言，该案例凸显了高并发数据流水线的工程价值，同时警示高风险决策中“人在回路”机制、算法可解释性及伦理安全护栏的必要性，为构建可信、可审计的AI决策支持产品提供关键参考。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Why senior developers fail to communicate their expertise</title>
@@ -43,6 +59,14 @@
       <pubDate>2026-05-13T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，266 分，137 条评论</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">pion-a-spectrum-preserving-optimizer-via-orthogonal-equival</guid>
+      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>Pion是一款面向大模型训练的新型优化器，采用正交等价变换替代传统加法更新，通过左右正交矩阵更新权重并保持奇异值谱不变。该技术显著提升训练稳定性与收敛效率，降低算力成本。对AI产品经理而言，Pion为底层训练基建提供高效算法选项，有助于缩短模型迭代周期、优化算力预算，为构建高性能AI应用提供底层支撑。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Pythagora-io/gpt-pilot</title>
@@ -83,6 +107,14 @@
       <pubDate>2026-05-13T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> discussion</p><hr/><p>Statewright 是一款面向 AI Agent 开发的可视化状态机工具，旨在解决大模型行为不可控与调试困难的痛点。通过将智能体工作流抽象为确定性状态转移图，产品团队可直观设计、监控与干预多步任务流程，显著提升复杂场景下的执行可靠性与可观测性。该方案降低了 Agent 架构设计门槛，提供标准化流程管控能力，有助于加速高稳定性企业级智能体产品的商业化落地。</p></description>
       <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Israel's AI targeting system: how data from a phone become a death sentence</title>
+      <link>https://news.ycombinator.com/item?id=48082763</link>
+      <guid isPermaLink="false">israels-ai-targeting-system-how-data-from-a-phon</guid>
+      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>💰 商业趋势</category>
     </item>
     <item>
       <title>Musk mulled handing OpenAI to his children, Altman testifies</title>
@@ -149,6 +181,14 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>Medicare&amp;#8217;s new payment model is built for AI, and most of the tech world h</title>
+      <link>https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/</link>
+      <guid isPermaLink="false">medicare8217s-new-payment-model-is-built-for-ai</guid>
+      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>Everything Google announced at its Android Show, from Googlebooks to vibe-coded</title>
       <link>https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/</link>
       <guid isPermaLink="false">everything-google-announced-at-its-android-show-f</guid>
@@ -179,6 +219,94 @@
       <pubDate>2026-05-13T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Reward Hacking in Rubric-Based Reinforcement Learning</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">reward-hacking-in-rubric-based-reinforcement-learning</guid>
+      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Reinforcement learning with verifiable rewards has enabled strong post-training gains in domains such as math and coding, though many open-ended settings rely on rubric-based rewards. We study reward hacking in rubric-based RL, where a policy is optimized against a training verifier but evaluated ag</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">toolcua-towards-optimal-gui-tool-path-orchestration-for-com</guid>
+      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Computer Use Agents (CUAs) can act through both atomic GUI actions, such as click and type, and high-level tool calls, such as API-based file operations, but this hybrid action space often leaves them uncertain about when to continue with GUI actions or switch to tools, leading to suboptimal executi</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>KV-Fold: One-Step KV-Cache Recurrence for Long-Context Inference</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">kv-fold-one-step-kv-cache-recurrence-for-long-context-infer</guid>
+      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>We introduce KV-Fold, a simple, training-free long-context inference protocol that treats the key-value (KV) cache as the accumulator in a left fold over sequence chunks. At each step, the model processes the next chunk conditioned on the accumulated cache, appends the newly produced keys and values</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decomposi</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">alphagrpo-unlocking-self-reflective-multimodal-generation-i</guid>
+      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabilities without an additional cold-start stage. Our approach unlocks the model's intrinsic potential to</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Task-Adaptive Embedding Refinement via Test-time LLM Guidance</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">task-adaptive-embedding-refinement-via-test-time-llm-guidanc</guid>
+      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>We explore the effectiveness of an LLM-guided query refinement paradigm for extending the usability of embedding models to challenging zero-shot search and classification tasks. Our approach refines the embedding representation of a user query using feedback from a generative LLM on a small set of d</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Elastic Attention Cores for Scalable Vision Transformers</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">elastic-attention-cores-for-scalable-vision-transformers</guid>
+      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Vision Transformers (ViTs) achieve strong data-driven scaling by leveraging all-to-all self-attention. However, this flexibility incurs a computational cost that scales quadratically with image resolution, limiting ViTs in high-resolution domains. Underlying this approach is the assumption that pair</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Learning, Fast and Slow: Towards LLMs That Adapt Continually</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">learning-fast-and-slow-towards-llms-that-adapt-continually</guid>
+      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Large language models (LLMs) are trained for downstream tasks by updating their parameters (e.g., via RL). However, updating parameters forces them to absorb task-specific information, which can result in catastrophic forgetting and loss of plasticity. In contrast, in-context learning with fixed LLM</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Genera</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">omninft-modality-wise-omni-diffusion-reinforcement-for-join</guid>
+      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Recent advances in joint audio-video generation have been remarkable, yet real-world applications demand strong per-modality fidelity, cross-modal alignment, and fine-grained synchronization. Reinforcement Learning (RL) offers a promising paradigm, but its extension to multi-objective and multi-moda</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Prin</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">beyond-grpo-and-on-policy-distillation-an-empirical-sparse</guid>
+      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>In settings where labeled verifiable training data is the binding constraint, each checked example should be allocated carefully. The standard practice is to use this data directly on the model that will be deployed, for example by running GRPO on the deployment student. We argue that this is often</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>MEME: Multi-entity &amp; Evolving Memory Evaluation</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">meme-multi-entity-evolving-memory-evaluation</guid>
+      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>LLM-based agents increasingly operate in persistent environments where they must store, update, and reason over information across many sessions. While prior benchmarks evaluate only single-entity updates, MEME defines six tasks spanning the full space defined by the multi-entity and evolving axes,</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Medicare&amp;#8217;s new payment model is built for AI, and most of the tech world h</title>
+      <link>https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/</link>
+      <guid isPermaLink="false">medicare8217s-new-payment-model-is-bu</guid>
+      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> news</p><hr/><p>There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.</p></description>
+      <category>📱 产品模式</category>
     </item>
     <item>
       <title>Reimagining the mouse pointer for the AI era</title>
@@ -282,134 +410,6 @@
       <guid isPermaLink="false">show-hn-gigacatalyst-extend-your-saas-with-an-e</guid>
       <pubDate>2026-05-13T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Through the looking glass of benchmark hacking</title>
-      <link>https://news.ycombinator.com/item?id=48100868</link>
-      <guid isPermaLink="false">through-the-looking-glass-of-benchmark-hacking</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Agentic interface for mainframes and COBOL</title>
-      <link>https://news.ycombinator.com/item?id=48111143</link>
-      <guid isPermaLink="false">show-hn-agentic-interface-for-mainframes-and-cobo</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Launch HN: Voker (YC S24) – Analytics for AI Agents</title>
-      <link>https://news.ycombinator.com/item?id=48109962</link>
-      <guid isPermaLink="false">launch-hn-voker-yc-s24-analytics-for-ai-agent</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Launch HN: Voker (YC S24) – Analytics for AI Agents</title>
-      <link>https://voker.ai</link>
-      <guid isPermaLink="false">launch-hn-voker-yc-s24-analytics-fo</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，33 分，19 条评论</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Show HN: Agentic interface for mainframes and COBOL</title>
-      <link>https://www.hypercubic.ai/hopper</link>
-      <guid isPermaLink="false">show-hn-agentic-interface-for-mainframe</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，40 分，19 条评论</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder</title>
-      <link>https://news.ycombinator.com/item?id=48110593</link>
-      <guid isPermaLink="false">show-hn-gigacatalyst-extend-your-saas</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，30 分，8 条评论</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Through the looking glass of benchmark hacking</title>
-      <link>https://poolside.ai/blog/through-the-looking-glass</link>
-      <guid isPermaLink="false">through-the-looking-glass-of-benchmark-h</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，31 分，13 条评论</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>design-extract</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">design-extract</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>mcp-use-mcp-use</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">mcp-use-mcp-use</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>onlook-dev-onlook</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">onlook-dev-onlook</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>openai-symphony</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">openai-symphony</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>obra-superpowers</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">obra-superpowers</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>golutra-golutra</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">golutra-golutra</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>bytedance-ui-tars-desktop</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">bytedance-ui-tars-desktop</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>ruvnet-ruflo</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">ruvnet-ruflo</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>insforge-insforge</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">insforge-insforge</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
       <category>💰 商业趋势</category>
     </item>
   </channel>
