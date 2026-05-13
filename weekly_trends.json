@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-05-13T18:05:21.607558+08:00",
+  "generated_at": "2026-05-13T23:19:36.434992+08:00",
   "days_analyzed": 6,
   "pillar_trends": {
     "capabilities": {
       "trend": "down",
-      "delta": -7,
-      "current": 14,
+      "delta": -6,
+      "current": 15,
       "previous": 21,
       "has_data": true
     },
     "patterns": {
       "trend": "up",
-      "delta": 3,
-      "current": 9,
+      "delta": 5,
+      "current": 11,
       "previous": 6,
       "has_data": true
     },
     "ecosystem": {
       "trend": "down",
-      "delta": -4,
-      "current": 3,
+      "delta": -1,
+      "current": 6,
       "previous": 7,
       "has_data": true
     },
     "business": {
       "trend": "up",
-      "delta": 4,
-      "current": 24,
+      "delta": 7,
+      "current": 27,
       "previous": 20,
       "has_data": true
     }
@@ -190,7 +190,7 @@
         {
           "date": "2026-05-13",
           "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日12条情报涉及AI工具链与基础设施。包括：Show HN: Statewright – Visual state mach, Hmbown/DeepSeek-TUI。信号：基础设施, 开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "body": "今日14条情报涉及AI工具链与基础设施。包括：Show HN: Statewright – Visual state mach, Hmbown/DeepSeek-TUI。信号：基础设施, 开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
           "type": "maturation",
           "evidence": [
             {
@@ -210,6 +210,14 @@
               "pillar": "patterns"
             },
             {
+              "id": "poppy-debuts-a-proactive-ai-assistant-to-help-orga",
+              "title": "Poppy debuts a proactive AI assistant to help organize your digital li",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
               "id": "ai-voice-startup-vapi-hits-500m-valuation-after-w",
               "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring o",
               "score": 0.3,
@@ -218,18 +226,10 @@
               "pillar": "patterns"
             },
             {
-              "id": "medicare8217s-new-payment-model-is-built-for-ai",
-              "title": "Medicare&#8217;s new payment model is built for AI, and most of the te",
+              "id": "amazon-launches-an-ai-shopping-assistant-for-the-s",
+              "title": "Amazon launches an AI shopping assistant for the search bar, powered b",
               "score": 0.3,
-              "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
-            },
-            {
-              "id": "everything-google-announced-at-its-android-show-f",
-              "title": "Everything Google announced at its Android Show, from Googlebooks to v",
-              "score": 0.3,
-              "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+              "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
               "reason": "里程碑式进展",
               "pillar": "patterns"
             }
@@ -347,7 +347,7 @@
         {
           "date": "2026-05-13",
           "title": "AI Agent 工具链与协作流程快速成熟",
-          "body": "今日25条情报涉及AI Agent及相关工具生态。典型项目包括：Hmbown/DeepSeek-TUI, Israel's AI targeting system: how data f, Show HN: Statewright – Visual state mach。具体信号：AI Agent, CLI/终端, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "body": "今日29条情报涉及AI Agent及相关工具生态。典型项目包括：Hmbown/DeepSeek-TUI, Israel's AI targeting system: how data f, Show HN: Statewright – Visual state mach。具体信号：AI Agent, CLI/终端, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
           "type": "paradigm_shift",
           "evidence": [
             {
@@ -375,18 +375,18 @@
               "pillar": "capabilities"
             },
             {
+              "id": "adaption-aims-big-with-autoscientist-an-ai-tool-t",
+              "title": "Adaption aims big with AutoScientist, an AI tool that helps models tra",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
+              "reason": "里程碑式进展",
+              "pillar": "capabilities"
+            },
+            {
               "id": "unitree-gd01-chinas-537k-rideable-transformer-r",
               "title": "Unitree GD01: China's $537k rideable transformer robot is now in produ",
               "score": 0.3,
               "url": "https://news.ycombinator.com/item?id=48106114",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "capabilities"
-            },
-            {
-              "id": "reward-hacking-in-rubric-based-reinforcement-learning",
-              "title": "Reward Hacking in Rubric-Based Reinforcement Learning",
-              "score": 0.3,
-              "url": "",
               "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "capabilities"
             }
@@ -778,5 +778,5 @@
     }
   ],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-13**（6天），累计 **260** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI工具链从通用走向垂直专业化**。 值得关注：📱 产品模式呈上升趋势；💰 商业动态呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-13**（6天），累计 **276** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI工具链从通用走向垂直专业化**。 值得关注：📱 产品模式呈上升趋势；💰 商业动态呈上升趋势"
 }

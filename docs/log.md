@@ -480,3 +480,13 @@
 - create: new-stainless-steel-can-survive-conditions-for-hyd.md
 - create: foucaults-order-of-things-explained-with-trading.md
 - create: i-applied-to-be-pope-losing-grip-on-reality-whi.md
+
+## [2026-05-13 23:19] sync v3 | 8 new | pillars: {'unknown': 1, 'patterns': 2, 'ecosystem': 2, 'business': 2, 'capabilities': 1}
+- create: setting-up-a-free-citystateus-locality-domain.md
+- create: amazon-launches-an-ai-shopping-assistant-for-the-s.md
+- create: introducing-the-6-stages-at-techcrunch-disrupt-202.md
+- create: whatsapp-adds-an-incognito-mode-in-meta-ai-chats.md
+- create: anthropic-now-has-more-business-customers-than-ope.md
+- create: poppy-debuts-a-proactive-ai-assistant-to-help-orga.md
+- create: adaption-aims-big-with-autoscientist-an-ai-tool-t.md
+- create: show-hn-torrix-self-hosted-llm-observabilityn.md

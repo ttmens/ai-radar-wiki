@@ -7,7 +7,7 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：信任/合规, 模型能力, 语音交互, AI Agent。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：模型能力, 语音交互, 信任/合规, AI Agent。",
         "evidence": [
           {
             "id": "routers-learn-the-geometry-of-their-experts-geometric-coupl",
@@ -29,6 +29,13 @@
             "score": 0.41,
             "url": "",
             "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "adaption-aims-big-with-autoscientist-an-ai-tool-t",
+            "title": "Adaption aims big with AutoScientist, an AI tool that helps models tra",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
+            "reason": "里程碑式进展"
           },
           {
             "id": "unitree-gd01-chinas-537k-rideable-transformer-r",
@@ -113,7 +120,7 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：模型能力, CLI/终端交互, 桌面/本地化, 融资/投资, AI Agent, 开源发布, 基础设施, 语音交互。",
+        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：基础设施, 语音交互, 开源发布, 模型能力, CLI/终端交互, 桌面/本地化, 融资/投资, AI Agent。",
         "evidence": [
           {
             "id": "hmbowndeepseek-tui",
@@ -130,11 +137,25 @@
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
+            "id": "poppy-debuts-a-proactive-ai-assistant-to-help-orga",
+            "title": "Poppy debuts a proactive AI assistant to help organize your digital li",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
             "id": "ai-voice-startup-vapi-hits-500m-valuation-after-w",
             "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring o",
             "score": 0.3,
             "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
             "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "amazon-launches-an-ai-shopping-assistant-for-the-s",
+            "title": "Amazon launches an AI shopping assistant for the search bar, powered b",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+            "reason": "里程碑式进展"
           },
           {
             "id": "medicare8217s-new-payment-model-is-built-for-ai",
@@ -184,7 +205,7 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "今日🔧 工具生态方向的核心信号集中在AI Agent, CLI/终端交互。",
+        "insight": "今日🔧 工具生态方向的核心信号集中在模型能力, 开源发布, CLI/终端交互, AI Agent。",
         "evidence": [
           {
             "id": "threads-tests-a-meta-ai-integration-that-works-sim",
@@ -194,10 +215,31 @@
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
+            "id": "introducing-the-6-stages-at-techcrunch-disrupt-202",
+            "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
             "id": "toolcua-towards-optimal-gui-tool-path-orchestration-for-com",
             "title": "ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use ",
             "score": 0.3,
             "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "introducing-the-6-stages-at-techcrunch-d",
+            "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-torrix-self-hosted-llm-observabilityn",
+            "title": "Show HN: Torrix, self hosted, LLM Observability,(no Postgres, no Redis",
+            "score": 0.15,
+            "url": "https://github.com/torrix-ai/install",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
@@ -213,7 +255,7 @@
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：模型能力, 桌面/本地化, 融资/投资, AI Agent, 开源发布。",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：模型能力, 开源发布, 桌面/本地化, 融资/投资, AI Agent。",
         "evidence": [
           {
             "id": "dessn-raises-6m-for-its-production-focused-design",
@@ -265,6 +307,13 @@
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
+            "id": "whatsapp-adds-an-incognito-mode-in-meta-ai-chats",
+            "title": "WhatsApp adds an incognito mode in Meta AI chats",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
             "id": "the-ai-legal-services-industry-is-heating-up-ant",
             "title": "The AI legal services industry is heating up — Anthropic is getting in",
             "score": 0.3,
@@ -293,6 +342,13 @@
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
+            "id": "anthropic-now-has-more-business-customers-than-ope",
+            "title": "Anthropic now has more business customers than OpenAI, according to Ra",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
             "id": "reimagining-the-mouse-pointer-for-the-ai-era",
             "title": "Reimagining the mouse pointer for the AI era",
             "score": 0.3,
@@ -311,6 +367,13 @@
             "title": "Foucault's Order of Things Explained with Trading Cards [video]",
             "score": 0.2,
             "url": "https://news.ycombinator.com/item?id=48100364",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "setting-up-a-free-citystateus-locality-domain",
+            "title": "Setting up a free *.city.state.us locality domain",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=48122635",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
@@ -390,13 +453,13 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日25条情报涉及AI Agent及相关工具生态。典型项目包括：Hmbown/DeepSeek-TUI, Israel's AI targeting system: how data f, Show HN: Statewright – Visual state mach。具体信号：AI Agent, CLI/终端, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日29条情报涉及AI Agent及相关工具生态。典型项目包括：Hmbown/DeepSeek-TUI, Israel's AI targeting system: how data f, Show HN: Statewright – Visual state mach。具体信号：AI Agent, CLI/终端, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
       {
         "title": "AI工具链从通用走向垂直专业化",
-        "body": "今日12条情报涉及AI工具链与基础设施。包括：Show HN: Statewright – Visual state mach, Hmbown/DeepSeek-TUI。信号：基础设施, 开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+        "body": "今日14条情报涉及AI工具链与基础设施。包括：Show HN: Statewright – Visual state mach, Hmbown/DeepSeek-TUI。信号：基础设施, 开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
         "type": "maturation",
         "action": "建议：关注工具链发展，考虑引入专用工具或评估自研可行性。行业成熟意味着标准化窗口接近。"
       },
@@ -407,9 +470,9 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "📱 产品模式: 15 | 💰 商业趋势: 38 | 🤖 技术能力: 16 | 🔧 工具生态: 4",
-    "total_items": 73,
-    "high_value_count": 50,
+    "stats": "📱 产品模式: 19 | 💰 商业趋势: 44 | 🤖 技术能力: 18 | 🔧 工具生态: 8",
+    "total_items": 89,
+    "high_value_count": 62,
     "all_today_ids": [
       {
         "id": "hmbowndeepseek-tui",
@@ -464,6 +527,10 @@
         "label": "Show HN: Statewright – Visual state machines that make AI agents reliable"
       },
       {
+        "id": "poppy-debuts-a-proactive-ai-assistant-to-help-orga",
+        "label": "Poppy debuts a proactive AI assistant to help organize your digital life"
+      },
+      {
         "id": "israels-ai-targeting-system-how-data-from-a-phon",
         "label": "Israel's AI targeting system: how data from a phone become a death sentence"
       },
@@ -480,8 +547,16 @@
         "label": "Google&#8217;s &#8216;Create My Widget&#8217; feature will let you vibe-code you"
       },
       {
+        "id": "whatsapp-adds-an-incognito-mode-in-meta-ai-chats",
+        "label": "WhatsApp adds an incognito mode in Meta AI chats"
+      },
+      {
         "id": "the-ai-legal-services-industry-is-heating-up-ant",
         "label": "The AI legal services industry is heating up — Anthropic is getting in on the ac"
+      },
+      {
+        "id": "adaption-aims-big-with-autoscientist-an-ai-tool-t",
+        "label": "Adaption aims big with AutoScientist, an AI tool that helps models train themsel"
       },
       {
         "id": "anthropic-warns-investors-against-secondary-platfo",
@@ -496,12 +571,20 @@
         "label": "Report: Google and SpaceX in talks to put data centers into orbit"
       },
       {
+        "id": "amazon-launches-an-ai-shopping-assistant-for-the-s",
+        "label": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+"
+      },
+      {
         "id": "threads-tests-a-meta-ai-integration-that-works-sim",
         "label": "Threads tests a Meta AI integration that works similarly to Grok"
       },
       {
         "id": "medicare8217s-new-payment-model-is-built-for-ai",
         "label": "Medicare&#8217;s new payment model is built for AI, and most of the tech world h"
+      },
+      {
+        "id": "anthropic-now-has-more-business-customers-than-ope",
+        "label": "Anthropic now has more business customers than OpenAI, according to Ramp data"
       },
       {
         "id": "everything-google-announced-at-its-android-show-f",
@@ -514,6 +597,10 @@
       {
         "id": "reimagining-the-mouse-pointer-for-the-ai-era",
         "label": "Reimagining the mouse pointer for the AI era"
+      },
+      {
+        "id": "introducing-the-6-stages-at-techcrunch-disrupt-202",
+        "label": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher"
       },
       {
         "id": "unitree-gd01-chinas-537k-rideable-transformer-r",
@@ -558,6 +645,30 @@
       {
         "id": "meme-multi-entity-evolving-memory-evaluation",
         "label": "MEME: Multi-entity & Evolving Memory Evaluation"
+      },
+      {
+        "id": "amazon-launches-an-ai-shopping-assistant",
+        "label": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+"
+      },
+      {
+        "id": "introducing-the-6-stages-at-techcrunch-d",
+        "label": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher "
+      },
+      {
+        "id": "whatsapp-adds-an-incognito-mode-in-meta",
+        "label": "WhatsApp adds an incognito mode in Meta AI chats"
+      },
+      {
+        "id": "anthropic-now-has-more-business-customer",
+        "label": "Anthropic now has more business customers than OpenAI, according to Ramp data"
+      },
+      {
+        "id": "poppy-debuts-a-proactive-ai-assistant-to",
+        "label": "Poppy debuts a proactive AI assistant to help organize your digital life"
+      },
+      {
+        "id": "adaption-aims-big-with-autoscientist-an",
+        "label": "Adaption aims big with AutoScientist, an AI tool that helps models train themsel"
       },
       {
         "id": "medicare8217s-new-payment-model-is-bu",
@@ -628,6 +739,10 @@
         "label": "“I applied to be pope”: Losing grip on reality while using ChatGPT"
       },
       {
+        "id": "setting-up-a-free-citystateus-locality-domain",
+        "label": "Setting up a free *.city.state.us locality domain"
+      },
+      {
         "id": "show-hn-gigacatalyst-extend-your-saas-with-an-e",
         "label": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder"
       },
@@ -644,8 +759,20 @@
         "label": "Show HN: Agentic interface for mainframes and COBOL"
       },
       {
+        "id": "show-hn-torrix-self-hosted-llm-observabilityn",
+        "label": "Show HN: Torrix, self hosted, LLM Observability,(no Postgres, no Redis)"
+      },
+      {
         "id": "launch-hn-voker-yc-s24-analytics-for-ai-agent",
         "label": "Launch HN: Voker (YC S24) – Analytics for AI Agents"
+      },
+      {
+        "id": "setting-up-a-free-citystateus-locali",
+        "label": "Setting up a free *.city.state.us locality domain"
+      },
+      {
+        "id": "show-hn-torrix-self-hosted-llm-observ",
+        "label": "Show HN: Torrix, self hosted, LLM Observability,(no Postgres, no Redis)"
       },
       {
         "id": "new-stainless-steel-can-survive-conditio",
@@ -705,6 +832,6 @@
       }
     ],
     "date_bj": "2026-05-13 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-13 18:03:20"
+    "generated_at_bj": "2026-05-13 23:17:34"
   }
 }

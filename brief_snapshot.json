@@ -1,8 +1,19 @@
 {
   "date": "2026-05-13",
-  "generated_at": "2026-05-13T15:16:12.739831+08:00",
-  "item_count": 50,
+  "generated_at": "2026-05-13T23:19:36.526183+08:00",
+  "item_count": 89,
   "items": [
+    {
+      "id": "hmbowndeepseek-tui",
+      "label": "Hmbown/DeepSeek-TUI",
+      "summary": "该项目是一款专为DeepSeek模型打造的终端原生编程智能体。其核心创新在于摒弃重型IDE插件，将AI代码交互深度嵌入命令行工作流。技术上通过轻量级接口实现模型调用，降低资源占用与上下文切换成本。对AI产品经理而言，该产品验证了“终端优先”AI工具的可行性，为开发者赛道提供了低门槛、高集成度的轻量化Agent落地范式，具备较强的极客生态渗透价值。",
+      "pm_score": 0.58,
+      "pillar": "patterns",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "date": "2026-05-13"
+    },
     {
       "id": "dessn-raises-6m-for-its-production-focused-design",
       "label": "Dessn raises $6M for its production focused design tool",
@@ -15,6 +26,17 @@
       "date": "2026-05-13"
     },
     {
+      "id": "routers-learn-the-geometry-of-their-experts-geometric-coupl",
+      "label": "Routers Learn the Geometry of Their Experts: Geometric Coupling in Sparse Mixtur",
+      "summary": "该论文针对稀疏混合专家（SMoE）大模型训练中常见的“路由坍缩”与“负载均衡损失削弱专家专业性”痛点，提出“几何耦合”机制。研究发现路由器能自主学习专家的几何分布特征，从而优化路由决策。对AI产品经理而言，该技术可显著提升大模型训练稳定性与推理效率，在保持模型高专业性的同时降低算力成本，为下一代高效、可扩展的商用大模型架构提供关键技术支撑。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-13"
+    },
+    {
       "id": "dessn-raises-6m-for-its-production-focu",
       "label": "Dessn raises $6M for its production focused design tool",
       "summary": "Dessn获600万美元融资，致力于开发直接对接生产级代码库的AI设计工具。该产品核心创新在于打破设计与开发间的交付壁垒，通过AI实时解析并同步生产环境代码，实现设计稿与前端组件的精准映射。对AI产品经理而言，其商业价值在于显著降低设计还原成本与沟通损耗，推动“设计即代码”工作流落地，为AI赋能研发协同提供了高价值切入点。",
@@ -24,6 +46,19 @@
       "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
       "date": "2026-05-13",
       "source_type": "news"
+    },
+    {
+      "id": "israels-ai-targeting-system-how-data-f",
+      "label": "Israel's AI targeting system: how data from a phone become a death sentence",
+      "summary": "本文剖析以色列军方AI目标定位系统如何将海量手机元数据与通信记录转化为打击清单。技术核心在于多源数据实时融合、自动化模式识别与预测建模。对AI产品经理而言，该案例凸显了高并发数据流水线的工程价值，同时警示高风险决策中“人在回路”机制、算法可解释性及伦理安全护栏的必要性，为构建可信、可审计的AI决策支持产品提供关键参考。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "discussion",
+      "url": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence",
+      "date": "2026-05-13",
+      "score": 108,
+      "comments": 35,
+      "source_type": "discussion"
     },
     {
       "id": "why-senior-developers-fail-to-communicate-their-ex",
@@ -48,6 +83,17 @@
       "score": 266,
       "comments": 137,
       "source_type": "discussion"
+    },
+    {
+      "id": "pion-a-spectrum-preserving-optimizer-via-orthogonal-equival",
+      "label": "Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation",
+      "summary": "Pion是一款面向大模型训练的新型优化器，采用正交等价变换替代传统加法更新，通过左右正交矩阵更新权重并保持奇异值谱不变。该技术显著提升训练稳定性与收敛效率，降低算力成本。对AI产品经理而言，Pion为底层训练基建提供高效算法选项，有助于缩短模型迭代周期、优化算力预算，为构建高性能AI应用提供底层支撑。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-13"
     },
     {
       "id": "pythagora-iogpt-pilot",
@@ -109,6 +155,28 @@
       "source_type": "discussion"
     },
     {
+      "id": "poppy-debuts-a-proactive-ai-assistant-to-help-orga",
+      "label": "Poppy debuts a proactive AI assistant to help organize your digital life",
+      "summary": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what’s happening in your life.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "israels-ai-targeting-system-how-data-from-a-phon",
+      "label": "Israel's AI targeting system: how data from a phone become a death sentence",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48082763",
+      "date": "2026-05-13"
+    },
+    {
       "id": "musk-mulled-handing-openai-to-his-children-altman",
       "label": "Musk mulled handing OpenAI to his children, Altman testifies",
       "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually d",
@@ -142,6 +210,17 @@
       "date": "2026-05-13"
     },
     {
+      "id": "whatsapp-adds-an-incognito-mode-in-meta-ai-chats",
+      "label": "WhatsApp adds an incognito mode in Meta AI chats",
+      "summary": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+      "date": "2026-05-13"
+    },
+    {
       "id": "the-ai-legal-services-industry-is-heating-up-ant",
       "label": "The AI legal services industry is heating up — Anthropic is getting in on the ac",
       "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas.",
@@ -150,6 +229,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "adaption-aims-big-with-autoscientist-an-ai-tool-t",
+      "label": "Adaption aims big with AutoScientist, an AI tool that helps models train themsel",
+      "summary": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
       "date": "2026-05-13"
     },
     {
@@ -186,6 +276,17 @@
       "date": "2026-05-13"
     },
     {
+      "id": "amazon-launches-an-ai-shopping-assistant-for-the-s",
+      "label": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
+      "summary": "Alexa for Shopping is a new personalized AI shopping assistant in the Amazon search bar that replaces its Rufus assistant.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+      "date": "2026-05-13"
+    },
+    {
       "id": "threads-tests-a-meta-ai-integration-that-works-sim",
       "label": "Threads tests a Meta AI integration that works similarly to Grok",
       "summary": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations.",
@@ -194,6 +295,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "medicare8217s-new-payment-model-is-built-for-ai",
+      "label": "Medicare&#8217;s new payment model is built for AI, and most of the tech world h",
+      "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "anthropic-now-has-more-business-customers-than-ope",
+      "label": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+      "summary": "For the first time, Anthropic has more verified business customers than OpenAI, according to this month’s AI Index from the fintech firm Ramp.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
       "date": "2026-05-13"
     },
     {
@@ -230,6 +353,17 @@
       "date": "2026-05-13"
     },
     {
+      "id": "introducing-the-6-stages-at-techcrunch-disrupt-202",
+      "label": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher",
+      "summary": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass.",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
+      "date": "2026-05-13"
+    },
+    {
       "id": "unitree-gd01-chinas-537k-rideable-transformer-r",
       "label": "Unitree GD01: China's $537k rideable transformer robot is now in production",
       "summary": "暂无中文摘要",
@@ -239,6 +373,193 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48106114",
       "date": "2026-05-13"
+    },
+    {
+      "id": "reward-hacking-in-rubric-based-reinforcement-learning",
+      "label": "Reward Hacking in Rubric-Based Reinforcement Learning",
+      "summary": "Reinforcement learning with verifiable rewards has enabled strong post-training gains in domains such as math and coding, though many open-ended settings rely on rubric-based rewards. We study reward hacking in rubric-based RL, where a policy is optimized against a training verifier but evaluated ag",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "toolcua-towards-optimal-gui-tool-path-orchestration-for-com",
+      "label": "ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents",
+      "summary": "Computer Use Agents (CUAs) can act through both atomic GUI actions, such as click and type, and high-level tool calls, such as API-based file operations, but this hybrid action space often leaves them uncertain about when to continue with GUI actions or switch to tools, leading to suboptimal executi",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "kv-fold-one-step-kv-cache-recurrence-for-long-context-infer",
+      "label": "KV-Fold: One-Step KV-Cache Recurrence for Long-Context Inference",
+      "summary": "We introduce KV-Fold, a simple, training-free long-context inference protocol that treats the key-value (KV) cache as the accumulator in a left fold over sequence chunks. At each step, the model processes the next chunk conditioned on the accumulated cache, appends the newly produced keys and values",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "alphagrpo-unlocking-self-reflective-multimodal-generation-i",
+      "label": "AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decomposi",
+      "summary": "In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabilities without an additional cold-start stage. Our approach unlocks the model's intrinsic potential to",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "task-adaptive-embedding-refinement-via-test-time-llm-guidanc",
+      "label": "Task-Adaptive Embedding Refinement via Test-time LLM Guidance",
+      "summary": "We explore the effectiveness of an LLM-guided query refinement paradigm for extending the usability of embedding models to challenging zero-shot search and classification tasks. Our approach refines the embedding representation of a user query using feedback from a generative LLM on a small set of d",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "elastic-attention-cores-for-scalable-vision-transformers",
+      "label": "Elastic Attention Cores for Scalable Vision Transformers",
+      "summary": "Vision Transformers (ViTs) achieve strong data-driven scaling by leveraging all-to-all self-attention. However, this flexibility incurs a computational cost that scales quadratically with image resolution, limiting ViTs in high-resolution domains. Underlying this approach is the assumption that pair",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "learning-fast-and-slow-towards-llms-that-adapt-continually",
+      "label": "Learning, Fast and Slow: Towards LLMs That Adapt Continually",
+      "summary": "Large language models (LLMs) are trained for downstream tasks by updating their parameters (e.g., via RL). However, updating parameters forces them to absorb task-specific information, which can result in catastrophic forgetting and loss of plasticity. In contrast, in-context learning with fixed LLM",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "omninft-modality-wise-omni-diffusion-reinforcement-for-join",
+      "label": "OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Genera",
+      "summary": "Recent advances in joint audio-video generation have been remarkable, yet real-world applications demand strong per-modality fidelity, cross-modal alignment, and fine-grained synchronization. Reinforcement Learning (RL) offers a promising paradigm, but its extension to multi-objective and multi-moda",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "beyond-grpo-and-on-policy-distillation-an-empirical-sparse",
+      "label": "Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Prin",
+      "summary": "In settings where labeled verifiable training data is the binding constraint, each checked example should be allocated carefully. The standard practice is to use this data directly on the model that will be deployed, for example by running GRPO on the deployment student. We argue that this is often",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "meme-multi-entity-evolving-memory-evaluation",
+      "label": "MEME: Multi-entity & Evolving Memory Evaluation",
+      "summary": "LLM-based agents increasingly operate in persistent environments where they must store, update, and reason over information across many sessions. While prior benchmarks evaluate only single-entity updates, MEME defines six tasks spanning the full space defined by the multi-entity and evolving axes,",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "amazon-launches-an-ai-shopping-assistant",
+      "label": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
+      "summary": "Alexa for Shopping is a new personalized AI shopping assistant in the Amazon search bar that replaces its Rufus assistant.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "news",
+      "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+      "date": "2026-05-13",
+      "source_type": "news"
+    },
+    {
+      "id": "introducing-the-6-stages-at-techcrunch-d",
+      "label": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher ",
+      "summary": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass.",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "news",
+      "url": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
+      "date": "2026-05-13",
+      "source_type": "news"
+    },
+    {
+      "id": "whatsapp-adds-an-incognito-mode-in-meta",
+      "label": "WhatsApp adds an incognito mode in Meta AI chats",
+      "summary": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "news",
+      "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+      "date": "2026-05-13",
+      "source_type": "news"
+    },
+    {
+      "id": "anthropic-now-has-more-business-customer",
+      "label": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+      "summary": "For the first time, Anthropic has more verified business customers than OpenAI, according to this month’s AI Index from the fintech firm Ramp.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "news",
+      "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+      "date": "2026-05-13",
+      "source_type": "news"
+    },
+    {
+      "id": "poppy-debuts-a-proactive-ai-assistant-to",
+      "label": "Poppy debuts a proactive AI assistant to help organize your digital life",
+      "summary": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what’s happening in your life.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "news",
+      "url": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
+      "date": "2026-05-13",
+      "source_type": "news"
+    },
+    {
+      "id": "adaption-aims-big-with-autoscientist-an",
+      "label": "Adaption aims big with AutoScientist, an AI tool that helps models train themsel",
+      "summary": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "news",
+      "url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
+      "date": "2026-05-13",
+      "source_type": "news"
+    },
+    {
+      "id": "medicare8217s-new-payment-model-is-bu",
+      "label": "Medicare&#8217;s new payment model is built for AI, and most of the tech world h",
+      "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "news",
+      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "date": "2026-05-13",
+      "source_type": "news"
     },
     {
       "id": "reimagining-the-mouse-pointer-for-the-ai",
@@ -377,6 +698,65 @@
       "source_type": "news"
     },
     {
+      "id": "i-applied-to-be-pope-losing-grip-on-reality-whi",
+      "label": "“I applied to be pope”: Losing grip on reality while using ChatGPT",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.205,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48118672",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "foucaults-order-of-things-explained-with-trading",
+      "label": "Foucault's Order of Things Explained with Trading Cards [video]",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.205,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48100364",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "foucaults-order-of-things-explained-wit",
+      "label": "Foucault's Order of Things Explained with Trading Cards [video]",
+      "summary": "HN 热门讨论，34 分，25 条评论",
+      "pm_score": 0.205,
+      "pillar": "business",
+      "type": "discussion",
+      "url": "https://www.youtube.com/watch?v=1TbHYjGvS68",
+      "date": "2026-05-13",
+      "score": 34,
+      "comments": 25,
+      "source_type": "discussion"
+    },
+    {
+      "id": "i-applied-to-be-pope-losing-grip-on-r",
+      "label": "“I applied to be pope”: Losing grip on reality while using ChatGPT",
+      "summary": "HN 热门讨论，39 分，33 条评论",
+      "pm_score": 0.205,
+      "pillar": "business",
+      "type": "discussion",
+      "url": "https://www.thestandard.com.hk/world/article/331886/I-applied-to-be-pope-Losing-grip-on-reality-while-using-ChatGPT",
+      "date": "2026-05-13",
+      "score": 39,
+      "comments": 33,
+      "source_type": "discussion"
+    },
+    {
+      "id": "setting-up-a-free-citystateus-locality-domain",
+      "label": "Setting up a free *.city.state.us locality domain",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.155,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48122635",
+      "date": "2026-05-13"
+    },
+    {
       "id": "show-hn-gigacatalyst-extend-your-saas-with-an-e",
       "label": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
       "summary": "暂无中文摘要",
@@ -385,6 +765,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48110593",
+      "date": "2026-05-13"
+    },
+    {
+      "id": "new-stainless-steel-can-survive-conditions-for-hyd",
+      "label": "New stainless steel can survive conditions for hydrogen production in seawater",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.155,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48089921",
       "date": "2026-05-13"
     },
     {
@@ -410,6 +801,17 @@
       "date": "2026-05-13"
     },
     {
+      "id": "show-hn-torrix-self-hosted-llm-observabilityn",
+      "label": "Show HN: Torrix, self hosted, LLM Observability,(no Postgres, no Redis)",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.155,
+      "pillar": "ecosystem",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://github.com/torrix-ai/install",
+      "date": "2026-05-13"
+    },
+    {
       "id": "launch-hn-voker-yc-s24-analytics-for-ai-agent",
       "label": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
       "summary": "暂无中文摘要",
@@ -419,6 +821,45 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48109962",
       "date": "2026-05-13"
+    },
+    {
+      "id": "setting-up-a-free-citystateus-locali",
+      "label": "Setting up a free *.city.state.us locality domain",
+      "summary": "HN 热门讨论，33 分，1 条评论",
+      "pm_score": 0.155,
+      "pillar": "business",
+      "type": "discussion",
+      "url": "https://fredchan.org/blog/locality-domains-guide/",
+      "date": "2026-05-13",
+      "score": 33,
+      "comments": 1,
+      "source_type": "discussion"
+    },
+    {
+      "id": "show-hn-torrix-self-hosted-llm-observ",
+      "label": "Show HN: Torrix, self hosted, LLM Observability,(no Postgres, no Redis)",
+      "summary": "Show HN 项目，11 分",
+      "pm_score": 0.155,
+      "pillar": "ecosystem",
+      "type": "project",
+      "url": "https://github.com/torrix-ai/install",
+      "date": "2026-05-13",
+      "score": 11,
+      "comments": 0,
+      "source_type": "project"
+    },
+    {
+      "id": "new-stainless-steel-can-survive-conditio",
+      "label": "New stainless steel can survive conditions for hydrogen production in seawater",
+      "summary": "HN 热门讨论，41 分，13 条评论",
+      "pm_score": 0.155,
+      "pillar": "business",
+      "type": "discussion",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+      "date": "2026-05-13",
+      "score": 41,
+      "comments": 13,
+      "source_type": "discussion"
     },
     {
       "id": "launch-hn-voker-yc-s24-analytics-fo",
@@ -573,7 +1014,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 516,
-    "edges": 7817
+    "real_nodes": 567,
+    "edges": 9620
   }
 }

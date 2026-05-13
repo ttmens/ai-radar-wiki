@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-13 | Total pages: 404
+> Last updated: 2026-05-13 | Total pages: 412
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -8,6 +8,7 @@
 - [[a-polynomial-autoencoder-beats-pca-on-transformer.md]] A polynomial autoencoder beats PCA on transformer embeddings `pillar:capabilities` `score:0.155`
 - [[a-recent-experience-with-chatgpt-55-pro.md]] A recent experience with ChatGPT 5.5 Pro `pillar:capabilities` `score:0.6`
 - [[academic-research-skills-for-claude-code.md]] Academic Research Skills for Claude Code `pillar:capabilities` `score:0.395`
+- [[adaption-aims-big-with-autoscientist-an-ai-tool-t.md]] Adaption aims big with AutoScientist, an AI tool that helps models train themsel `pillar:capabilities` `score:0.305`
 - [[alibabamnn.md]] alibaba/MNN `pillar:capabilities` `score:0.615`
 - [[bee-sanciphey.md]] bee-san/Ciphey `pillar:capabilities` `score:0.545`
 - [[blinkdlrwkv-lm.md]] BlinkDL/RWKV-LM `pillar:capabilities` `score:0.405`
@@ -135,6 +136,7 @@
 - [[ai-voice-startup-vapi-hits-500m-valuation-after-w.md]] AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 riv `pillar:patterns` `score:0.305`
 - [[alibabaspring-ai-alibaba.md]] alibaba/spring-ai-alibaba `pillar:patterns` `score:0.53`
 - [[all-my-clients-wanted-a-carousel-now-its-an-ai-c.md]] All my clients wanted a carousel, now it's an AI chatbot `pillar:patterns` `score:0.255`
+- [[amazon-launches-an-ai-shopping-assistant-for-the-s.md]] Amazon launches an AI shopping assistant for the search bar, powered by Alexa+ `pillar:patterns` `score:0.305`
 - [[an-ai-coding-agent-used-to-write-code-needs-to-r.md]] An AI coding agent, used to write code, needs to reduce your maintenance costs `pillar:patterns` `score:0.205`
 - [[apacheairflow.md]] apache/airflow `pillar:patterns` `score:0.405`
 - [[astrbotdevsastrbot.md]] AstrBotDevs/AstrBot `pillar:patterns` `score:0.58`
@@ -198,6 +200,7 @@
 - [[openclawopenclaw.md]] openclaw/openclaw `pillar:patterns` `score:0.58`
 - [[patchy631ai-engineering-hub.md]] patchy631/ai-engineering-hub `pillar:patterns` `score:0.58`
 - [[pingcaptidb.md]] pingcap/tidb `pillar:patterns` `score:0.58`
+- [[poppy-debuts-a-proactive-ai-assistant-to-help-orga.md]] Poppy debuts a proactive AI assistant to help organize your digital life `pillar:patterns` `score:0.305`
 - [[product-hunt-ai-topics.md]] Product Hunt — AI Topics `pillar:patterns` `score:0.305`
 - [[rasbtllms-from-scratch.md]] rasbt/LLMs-from-scratch `pillar:patterns` `score:0.545`
 - [[recommenders-teamrecommenders.md]] recommenders-team/recommenders `pillar:patterns` `score:0.615`
@@ -267,6 +270,7 @@
 - [[googlelangextract.md]] google/langextract `pillar:ecosystem` `score:0.405`
 - [[gradio-appgradio.md]] gradio-app/gradio `pillar:ecosystem` `score:0.615`
 - [[hesreallyhimawesome-claude-code.md]] hesreallyhim/awesome-claude-code `pillar:ecosystem` `score:0.58`
+- [[introducing-the-6-stages-at-techcrunch-disrupt-202.md]] Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher `pillar:ecosystem` `score:0.305`
 - [[invoke-aiinvokeai.md]] invoke-ai/InvokeAI `pillar:ecosystem` `score:0.58`
 - [[janhqjan.md]] janhq/jan `pillar:ecosystem` `score:0.405`
 - [[jeinlee1991chinese-llm-benchmark.md]] jeinlee1991/chinese-llm-benchmark `pillar:ecosystem` `score:0.53`
@@ -298,6 +302,7 @@
 - [[sansan0trendradar.md]] sansan0/TrendRadar `pillar:ecosystem` `score:0.58`
 - [[scikit-learnscikit-learn.md]] scikit-learn/scikit-learn `pillar:ecosystem` `score:0.615`
 - [[show-hn-explore-color-palettes-inspired-by-3000-m.md]] Show HN: Explore color palettes inspired by 3000 master painter artworks `pillar:ecosystem` `score:0.45`
+- [[show-hn-torrix-self-hosted-llm-observabilityn.md]] Show HN: Torrix, self hosted, LLM Observability,(no Postgres, no Redis) `pillar:ecosystem` `score:0.155`
 - [[spring-projectsspring-ai.md]] spring-projects/spring-ai `pillar:ecosystem` `score:0.53`
 - [[steven2358awesome-generative-ai.md]] steven2358/awesome-generative-ai `pillar:ecosystem` `score:0.58`
 - [[tensorflowtensorflow.md]] tensorflow/tensorflow `pillar:ecosystem` `score:0.615`
@@ -322,6 +327,7 @@
 - [[ai4finance-foundationfingpt.md]] AI4Finance-Foundation/FinGPT `pillar:business` `score:0.405`
 - [[all-means-are-fair-except-solving-the-problem.md]] All means are fair except solving the problem `pillar:business` `score:0.465`
 - [[amália-and-the-future-of-european-portuguese-llms.md]] AMÁLIA and the future of European Portuguese LLMs `pillar:business` `score:0.355`
+- [[anthropic-now-has-more-business-customers-than-ope.md]] Anthropic now has more business customers than OpenAI, according to Ramp data `pillar:business` `score:0.305`
 - [[anthropic-says-evil-portrayals-of-ai-were-respon.md]] Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail a `pillar:business` `score:0.305`
 - [[anthropic-warns-investors-against-secondary-platfo.md]] Anthropic warns investors against secondary platforms offering access to its sha `pillar:business` `score:0.305`
 - [[apple-to-pay-250m-to-settle-lawsuit-over-siri82.md]] Apple to pay $250M to settle lawsuit over Siri&#8217;s delayed AI features `pillar:business` `score:0.15`
@@ -379,6 +385,7 @@
 - [[reimagining-the-mouse-pointer-for-the-ai-era.md]] Reimagining the mouse pointer for the AI era `pillar:business` `score:0.305`
 - [[report-google-and-spacex-in-talks-to-put-data-cen.md]] Report: Google and SpaceX in talks to put data centers into orbit `pillar:business` `score:0.305`
 - [[riding-an-ai-rally-robinhood-preps-second-retail.md]] Riding an AI rally, Robinhood preps second retail venture IPO `pillar:business` `score:0.305`
+- [[setting-up-a-free-citystateus-locality-domain.md]] Setting up a free *.city.state.us locality domain `pillar:business` `score:0.155`
 - [[show-hn-anamdb-an-ai-native-differentiable-dat.md]] Show HN: AnamDB – An AI-native, differentiable Datalog engine written in Rust `pillar:business` `score:0.155`
 - [[show-hn-gigacatalyst-extend-your-saas-with-an-e.md]] Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder `pillar:business` `score:0.155`
 - [[show-hn-i-trained-a-chess-engine-to-play-like-hum.md]] Show HN: I trained a chess engine to play like humans `pillar:business` `score:0.155`
@@ -400,6 +407,7 @@
 - [[wasmedgewasmedge.md]] WasmEdge/WasmEdge `pillar:business` `score:0.405`
 - [[were-feeling-cynical-about-xais-big-deal-with-an.md]] We’re feeling cynical about xAI’s big deal with Anthropic `pillar:business` `score:0.305`
 - [[what-a-japanese-cooking-principle-taught-me-about.md]] What a Japanese cooking principle taught me about overcoming AI fatigue `pillar:business` `score:0.155`
+- [[whatsapp-adds-an-incognito-mode-in-meta-ai-chats.md]] WhatsApp adds an incognito mode in Meta AI chats `pillar:business` `score:0.305`
 - [[why-senior-developers-fail-to-communicate-their-ex.md]] Why senior developers fail to communicate their expertise `pillar:business` `score:0.425`
 - [[why-you-can-never-get-your-doctor-to-call-you-back.md]] Why you can never get your doctor to call you back `pillar:business` `score:0.48`
 - [[zhulinsendaily_stock_analysis.md]] ZhuLinsen/daily_stock_analysis `pillar:business` `score:0.405`
