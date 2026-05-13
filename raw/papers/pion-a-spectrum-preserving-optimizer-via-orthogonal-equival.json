@@ -1,0 +1,33 @@
+{
+  "title": "Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation",
+  "summary": "We introduce Pion, a spectrum-preserving optimizer for large language model (LLM) training based on orthogonal equivalence transformation. Unlike additive optimizers such as Adam and Muon, Pion updates each weight matrix through left and right orthogonal transformations, preserving its singular values throughout training. This yields an optimization mechanism that modulates the geometry of weight matrices while keeping their spectral norm fixed. We derive the Pion update rule, systematically examine its design choices, and analyze its convergence behavior along with several key properties. Empirical results show that Pion offers a stable and competitive alternative to standard optimizers for both LLM pretraining and finetuning.",
+  "url": "http://arxiv.org/abs/2605.12492v1",
+  "authors": [
+    "Kexuan Shi",
+    "Hanxuan Li",
+    "Zeju Qiu",
+    "Yandong Wen",
+    "Simon Buchholz"
+  ],
+  "published": "2026-05-12T17:59:34Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "optimization"
+  ],
+  "summary_cn": "Pion是一款面向大模型训练的新型优化器，采用正交等价变换替代传统加法更新，通过左右正交矩阵更新权重并保持奇异值谱不变。该技术显著提升训练稳定性与收敛效率，降低算力成本。对AI产品经理而言，Pion为底层训练基建提供高效算法选项，有助于缩短模型迭代周期、优化算力预算，为构建高性能AI应用提供底层支撑。",
+  "pm_relevance": 6,
+  "concepts": [
+    "LLM Training Optimization",
+    "Spectrum-Preserving",
+    "Orthogonal Transformation"
+  ],
+  "entities": [
+    "Pion"
+  ],
+  "patterns": [
+    "Training Efficiency Optimization",
+    "Algorithmic Infrastructure"
+  ]
+}

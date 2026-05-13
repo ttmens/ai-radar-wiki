@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-13 | Total pages: 386
+> Last updated: 2026-05-13 | Total pages: 400
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -77,13 +77,16 @@
 - [[xorbitsaiinference.md]] xorbitsai/inference `pillar:capabilities` `score:0.565`
 - [[zaya1-8b-an-8b-moe-model-with-760m-active-params.md]] ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math `pillar:capabilities` `score:0.38`
 - [[actcam-zero-shot-joint-camera-and-3d-motion-control-for-vid.md]] ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation `pillar:capabilities` `score:0.48`
+- [[alphagrpo-unlocking-self-reflective-multimodal-generation-i.md]] AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decomposi `pillar:capabilities` `score:0.305`
 - [[bami-training-free-bias-mitigation-in-gui-grounding.md]] BAMI: Training-Free Bias Mitigation in GUI Grounding `pillar:capabilities` `score:0.48`
+- [[beyond-grpo-and-on-policy-distillation-an-empirical-sparse.md]] Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Prin `pillar:capabilities` `score:0.305`
 - [[ca-sql-complexity-aware-inference-time-reasoning-for-text-t.md]] CA-SQL: Complexity-Aware Inference Time Reasoning for Text-to-SQL via Exploratio `pillar:capabilities` `score:0.255`
 - [[confidence-guided-diffusion-augmentation-for-enhanced-bangla.md]] Confidence-Guided Diffusion Augmentation for Enhanced Bangla Compound Character `pillar:capabilities` `score:0.305`
 - [[dare-difficulty-adaptive-reinforcement-learning-with-co-evo.md]] DARE: Difficulty-Adaptive Reinforcement Learning with Co-Evolved Difficulty Esti `pillar:capabilities` `score:0.255`
 - [[datamaster-towards-autonomous-data-engineering-for-machine.md]] DataMaster: Towards Autonomous Data Engineering for Machine Learning `pillar:capabilities` `score:0.305`
 - [[deco-sparse-mixture-of-experts-with-dense-comparable-perfor.md]] DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side De `pillar:capabilities` `score:0.305`
 - [[edge-specific-signal-propagation-on-mature-chromophore-regio.md]] Edge-specific signal propagation on mature chromophore-region 3D mechanism graph `pillar:capabilities` `score:0.445`
+- [[elastic-attention-cores-for-scalable-vision-transformers.md]] Elastic Attention Cores for Scalable Vision Transformers `pillar:capabilities` `score:0.305`
 - [[elf-embedded-language-flows.md]] ELF: Embedded Language Flows `pillar:capabilities` `score:0.305`
 - [[emambair-efficient-visual-state-space-model-for-event-guide.md]] EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstructi `pillar:capabilities` `score:0.255`
 - [[emergent-semantic-role-understanding-in-language-models.md]] Emergent Semantic Role Understanding in Language Models `pillar:capabilities` `score:0.255`
@@ -93,18 +96,26 @@
 - [[flow-opd-on-policy-distillation-for-flow-matching-models.md]] Flow-OPD: On-Policy Distillation for Flow Matching Models `pillar:capabilities` `score:0.255`
 - [[graphlcp-structure-aware-localized-conformal-prediction-on.md]] GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs `pillar:capabilities` `score:0.395`
 - [[inductive-venn-abers-and-related-regressors.md]] Inductive Venn-Abers and related regressors `pillar:capabilities` `score:0.445`
+- [[kv-fold-one-step-kv-cache-recurrence-for-long-context-infer.md]] KV-Fold: One-Step KV-Cache Recurrence for Long-Context Inference `pillar:capabilities` `score:0.305`
 - [[lbi-parallel-scan-backpropagation-via-latent-bounded-interf.md]] LBI: Parallel Scan Backpropagation via Latent Bounded Interfaces `pillar:capabilities` `score:0.255`
+- [[learning-fast-and-slow-towards-llms-that-adapt-continually.md]] Learning, Fast and Slow: Towards LLMs That Adapt Continually `pillar:capabilities` `score:0.305`
+- [[meme-multi-entity-evolving-memory-evaluation.md]] MEME: Multi-entity & Evolving Memory Evaluation `pillar:capabilities` `score:0.305`
 - [[navigating-llm-valley-from-adamw-to-memory-efficient-and-ma.md]] Navigating LLM Valley: From AdamW to Memory-Efficient and Matrix-Based Optimizer `pillar:capabilities` `score:0.255`
 - [[normalizing-trajectory-models.md]] Normalizing Trajectory Models `pillar:capabilities` `score:0.255`
+- [[omninft-modality-wise-omni-diffusion-reinforcement-for-join.md]] OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Genera `pillar:capabilities` `score:0.305`
 - [[on-characterizing-learnability-for-adversarial-noisy-bandits.md]] On Characterizing Learnability for Adversarial Noisy Bandits `pillar:capabilities` `score:0.395`
 - [[open-ontologies-tool-augmented-ontology-engineering-with-st.md]] Open Ontologies: Tool-Augmented Ontology Engineering with Stable Matching Alignm `pillar:capabilities` `score:0.255`
 - [[optimizer-model-consistency-full-finetuning-with-the-same-o.md]] Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretrain `pillar:capabilities` `score:0.48`
+- [[pion-a-spectrum-preserving-optimizer-via-orthogonal-equival.md]] Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation `pillar:capabilities` `score:0.41`
 - [[practical-scaling-laws-converting-compute-into-performance.md]] Practical Scaling Laws: Converting Compute into Performance in a Data-Constraine `pillar:capabilities` `score:0.43`
 - [[quantifying-concentration-phenomena-of-mean-field-transforme.md]] Quantifying Concentration Phenomena of Mean-Field Transformers in the Low-Temper `pillar:capabilities` `score:0.375`
+- [[reward-hacking-in-rubric-based-reinforcement-learning.md]] Reward Hacking in Rubric-Based Reinforcement Learning `pillar:capabilities` `score:0.305`
 - [[rigidformer-learning-rigid-dynamics-using-transformers.md]] RigidFormer: Learning Rigid Dynamics using Transformers `pillar:capabilities` `score:0.255`
+- [[routers-learn-the-geometry-of-their-experts-geometric-coupl.md]] Routers Learn the Geometry of Their Experts: Geometric Coupling in Sparse Mixtur `pillar:capabilities` `score:0.48`
 - [[rubric-grounded-rl-structured-judge-rewards-for-generalizab.md]] Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning `pillar:capabilities` `score:0.43`
 - [[shepherd-a-runtime-substrate-empowering-meta-agents-with-a.md]] Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution `pillar:capabilities` `score:0.305`
 - [[superintelligent-retrieval-agent-the-next-frontier-of-infor.md]] Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval `pillar:capabilities` `score:0.515`
+- [[task-adaptive-embedding-refinement-via-test-time-llm-guidanc.md]] Task-Adaptive Embedding Refinement via Test-time LLM Guidance `pillar:capabilities` `score:0.305`
 - [[the-geometry-of-forgetting-temporal-knowledge-drift-as-an-i.md]] The Geometry of Forgetting: Temporal Knowledge Drift as an Independent Axis in L `pillar:capabilities` `score:0.255`
 - [[the-memory-curse-how-expanded-recall-erodes-cooperative-int.md]] The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents `pillar:capabilities` `score:0.255`
 - [[unipool-a-globally-shared-expert-pool-for-mixture-of-expert.md]] UniPool: A Globally Shared Expert Pool for Mixture-of-Experts `pillar:capabilities` `score:0.48`
@@ -172,6 +183,7 @@
 - [[linshenkxprompt-optimizer.md]] linshenkx/prompt-optimizer `pillar:patterns` `score:0.58`
 - [[liyupiai-guide.md]] liyupi/ai-guide `pillar:patterns` `score:0.405`
 - [[lobehublobehub.md]] lobehub/lobehub `pillar:patterns` `score:0.615`
+- [[medicare8217s-new-payment-model-is-built-for-ai.md]] Medicare&#8217;s new payment model is built for AI, and most of the tech world h `pillar:patterns` `score:0.305`
 - [[meilisearchmeilisearch.md]] meilisearch/meilisearch `pillar:patterns` `score:0.615`
 - [[mem0aimem0.md]] mem0ai/mem0 `pillar:patterns` `score:0.615`
 - [[microsoftgenerative-ai-for-beginners.md]] microsoft/generative-ai-for-beginners `pillar:patterns` `score:0.58`
@@ -299,6 +311,7 @@
 - [[are-we-making-progress-in-multimodal-domain-generalization.md]] Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benc `pillar:ecosystem` `score:0.445`
 - [[engineering-robustness-into-personal-agents-with-the-ai-work.md]] Engineering Robustness into Personal Agents with the AI Workflow Store `pillar:ecosystem` `score:0.305`
 - [[learning-when-to-stop-selective-imitation-learning-under-ar.md]] Learning When to Stop: Selective Imitation Learning Under Arbitrary Dynamics Shi `pillar:ecosystem` `score:0.255`
+- [[toolcua-towards-optimal-gui-tool-path-orchestration-for-com.md]] ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents `pillar:ecosystem` `score:0.305`
 - [[verifier-backed-hard-problem-generation-for-mathematical-rea.md]] Verifier-Backed Hard Problem Generation for Mathematical Reasoning `pillar:ecosystem` `score:0.48`
 
 ## 💰 Business (商业与趋势)
@@ -335,6 +348,7 @@
 - [[if-ai-writes-your-code-why-use-python.md]] If AI writes your code, why use Python? `pillar:business` `score:0.255`
 - [[intel8217s-comeback-story-is-even-wilder-than-i.md]] Intel&#8217;s comeback story is even wilder than it seems `pillar:business` `score:0.305`
 - [[interaction-models.md]] Interaction Models `pillar:business` `score:0.255`
+- [[israels-ai-targeting-system-how-data-from-a-phon.md]] Israel's AI targeting system: how data from a phone become a death sentence `pillar:business` `score:0.305`
 - [[khosla-backed-robotics-startup-genesis-ai-has-gone.md]] Khosla-backed robotics startup Genesis AI has gone full stack, demo shows `pillar:business` `score:0.3`
 - [[laid-off-oracle-workers-tried-to-negotiate-better.md]] Laid-off Oracle workers tried to negotiate better severance. Oracle said no. `pillar:business` `score:0.305`
 - [[last-24-hours-to-get-50-off-a-second-pass-to-tech.md]] Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026 `pillar:business` `score:0.305`

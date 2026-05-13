@@ -1,0 +1,33 @@
+{
+  "title": "Routers Learn the Geometry of Their Experts: Geometric Coupling in Sparse Mixture-of-Experts",
+  "summary": "Sparse Mixture-of-Experts (SMoE) models enable scaling language models efficiently, but training them remains challenging, as routing can collapse onto few experts and auxiliary load-balancing losses can reduce specialization. Motivated by these hurdles, we study how routing decisions in SMoEs are formed mechanistically. First, we reveal a geometric coupling between routers and their corresponding experts. For a given token, the router weights for the selected expert and the expert weights processing it receive gradients along the same input direction, differing only in scalar coefficients. Thus, matched router--expert directions accumulate the same routed token history. This theoretical coupling also appears empirically in routing dynamics. In a $1$B SMoE trained from scratch, higher router scores predict stronger expert neuron activations, showing that routing decisions are mirrored inside the selected expert. Next, we analyze the effects of auxiliary load balancing on the router--expert geometric coupling, showing that such losses break this structure by spreading input-directed gradients across router weights, making distinct router directions nearly three times more similar to each other. Last, we demonstrate the centrality of geometric coupling for effective routing with a parameter-free online K-Means router, in which each expert maintains a running average of the hidden states routed to it and tokens are assigned based on cosine similarity. Compared with auxiliary-loss and loss-free balancing, this router achieves the lowest load imbalance with only a modest perplexity increase, indicating that geometric coupling captures a substantial part of what the router learns. Overall, our results explain how routers form assignment geometry that supports an effective division of labor.",
+  "url": "http://arxiv.org/abs/2605.12476v1",
+  "authors": [
+    "Sagi Ahrac",
+    "Noya Hochwald",
+    "Mor Geva"
+  ],
+  "published": "2026-05-12T17:55:02Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "vision",
+    "training",
+    "parameter",
+    "gradient",
+    "similarity"
+  ],
+  "summary_cn": "该论文针对稀疏混合专家（SMoE）大模型训练中常见的“路由坍缩”与“负载均衡损失削弱专家专业性”痛点，提出“几何耦合”机制。研究发现路由器能自主学习专家的几何分布特征，从而优化路由决策。对AI产品经理而言，该技术可显著提升大模型训练稳定性与推理效率，在保持模型高专业性的同时降低算力成本，为下一代高效、可扩展的商用大模型架构提供关键技术支撑。",
+  "pm_relevance": 8,
+  "concepts": [
+    "SMoE Routing",
+    "Geometric Coupling",
+    "Expert Specialization"
+  ],
+  "entities": [],
+  "patterns": [
+    "Sparse Routing Optimization",
+    "Cost-Efficient Scaling"
+  ]
+}

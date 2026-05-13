@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-05-13T06:06:26.698713+08:00",
+  "generated_at": "2026-05-13T12:11:36.480813+08:00",
   "days_analyzed": 6,
   "pillar_trends": {
     "capabilities": {
       "trend": "down",
-      "delta": -19,
-      "current": 2,
+      "delta": -7,
+      "current": 14,
       "previous": 21,
       "has_data": true
     },
     "patterns": {
       "trend": "up",
-      "delta": 1,
-      "current": 7,
+      "delta": 2,
+      "current": 8,
       "previous": 6,
       "has_data": true
     },
     "ecosystem": {
       "trend": "down",
-      "delta": -5,
-      "current": 2,
+      "delta": -4,
+      "current": 3,
       "previous": 7,
       "has_data": true
     },
     "business": {
-      "trend": "stable",
-      "delta": 0,
-      "current": 20,
+      "trend": "up",
+      "delta": 1,
+      "current": 21,
       "previous": 20,
       "has_data": true
     }
@@ -194,44 +194,44 @@
           "type": "maturation",
           "evidence": [
             {
-              "id": "dessn-raises-6m-for-its-production-focused-design",
-              "title": "Dessn raises $6M for its production focused design tool",
-              "score": 0.48,
-              "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+              "id": "show-hn-statewright-visual-state-machines-that",
+              "title": "Show HN: Statewright – Visual state machines that make AI agents relia",
+              "score": 0.33,
+              "url": "https://news.ycombinator.com/item?id=48108778",
               "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "business"
+              "pillar": "patterns"
             },
             {
-              "id": "why-senior-developers-fail-to-communicate-their-ex",
-              "title": "Why senior developers fail to communicate their expertise",
-              "score": 0.42,
-              "url": "https://news.ycombinator.com/item?id=48109460",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "business"
-            },
-            {
-              "id": "pythagora-iogpt-pilot",
-              "title": "Pythagora-io/gpt-pilot",
-              "score": 0.41,
-              "url": "https://github.com/Pythagora-io/gpt-pilot",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "business"
-            },
-            {
-              "id": "show-hn-needle-we-distilled-gemini-tool-calling",
-              "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-              "score": 0.35,
-              "url": "https://news.ycombinator.com/item?id=48111896",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "business"
-            },
-            {
-              "id": "musk-mulled-handing-openai-to-his-children-altman",
-              "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+              "id": "ai-voice-startup-vapi-hits-500m-valuation-after-w",
+              "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring o",
               "score": 0.3,
-              "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+              "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "medicare8217s-new-payment-model-is-built-for-ai",
+              "title": "Medicare&#8217;s new payment model is built for AI, and most of the te",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "everything-google-announced-at-its-android-show-f",
+              "title": "Everything Google announced at its Android Show, from Googlebooks to v",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
               "reason": "里程碑式进展",
-              "pillar": "business"
+              "pillar": "patterns"
+            },
+            {
+              "id": "google-brings-agentic-ai-and-vibe-coded-widgets-to",
+              "title": "Google brings agentic AI and vibe-coded widgets to Android",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
             }
           ]
         }
@@ -347,48 +347,48 @@
         {
           "date": "2026-05-13",
           "title": "AI Agent 工具链与协作流程快速成熟",
-          "body": "今日17条情报涉及AI Agent及相关工具生态。典型项目包括：Show HN: Statewright – Visual state mach, AI voice startup Vapi hits $500M valuati。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "body": "今日23条情报涉及AI Agent及相关工具生态。典型项目包括：Israel's AI targeting system: how data f, Show HN: Statewright – Visual state mach。具体信号：AI Agent, CLI/终端, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
           "type": "paradigm_shift",
           "evidence": [
             {
-              "id": "show-hn-statewright-visual-state-machines-that",
-              "title": "Show HN: Statewright – Visual state machines that make AI agents relia",
-              "score": 0.33,
-              "url": "https://news.ycombinator.com/item?id=48108778",
+              "id": "routers-learn-the-geometry-of-their-experts-geometric-coupl",
+              "title": "Routers Learn the Geometry of Their Experts: Geometric Coupling in Spa",
+              "score": 0.48,
+              "url": "",
               "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
+              "pillar": "capabilities"
             },
             {
-              "id": "ai-voice-startup-vapi-hits-500m-valuation-after-w",
-              "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring o",
+              "id": "israels-ai-targeting-system-how-data-f",
+              "title": "Israel's AI targeting system: how data from a phone become a death sen",
+              "score": 0.45,
+              "url": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "pion-a-spectrum-preserving-optimizer-via-orthogonal-equival",
+              "title": "Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Trans",
+              "score": 0.41,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "unitree-gd01-chinas-537k-rideable-transformer-r",
+              "title": "Unitree GD01: China's $537k rideable transformer robot is now in produ",
               "score": 0.3,
-              "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+              "url": "https://news.ycombinator.com/item?id=48106114",
               "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
+              "pillar": "capabilities"
             },
             {
-              "id": "everything-google-announced-at-its-android-show-f",
-              "title": "Everything Google announced at its Android Show, from Googlebooks to v",
+              "id": "reward-hacking-in-rubric-based-reinforcement-learning",
+              "title": "Reward Hacking in Rubric-Based Reinforcement Learning",
               "score": 0.3,
-              "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
-              "reason": "里程碑式进展",
-              "pillar": "patterns"
-            },
-            {
-              "id": "google-brings-agentic-ai-and-vibe-coded-widgets-to",
-              "title": "Google brings agentic AI and vibe-coded widgets to Android",
-              "score": 0.3,
-              "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+              "url": "",
               "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
-            },
-            {
-              "id": "show-hn-agentic-interface-for-mainframes-and-cobo",
-              "title": "Show HN: Agentic interface for mainframes and COBOL",
-              "score": 0.15,
-              "url": "https://news.ycombinator.com/item?id=48111143",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
+              "pillar": "capabilities"
             }
           ]
         }
@@ -491,11 +491,11 @@
               "pillar": "business"
             },
             {
-              "id": "musk-mulled-handing-openai-to-his-children-altman",
-              "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+              "id": "israels-ai-targeting-system-how-data-from-a-phon",
+              "title": "Israel's AI targeting system: how data from a phone become a death sen",
               "score": 0.3,
-              "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-              "reason": "里程碑式进展",
+              "url": "https://news.ycombinator.com/item?id=48082763",
+              "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "business"
             }
           ]
@@ -778,5 +778,5 @@
     }
   ],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-13**（6天），累计 **237** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI工具链从通用走向垂直专业化**。 值得关注：📱 产品模式呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-13**（6天），累计 **253** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI工具链从通用走向垂直专业化**。 值得关注：📱 产品模式呈上升趋势；💰 商业动态呈上升趋势"
 }

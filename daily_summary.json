@@ -7,13 +7,97 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "今日🤖 技术能力方向有新的动态。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 语音交互, 信任/合规, 模型能力。",
         "evidence": [
+          {
+            "id": "routers-learn-the-geometry-of-their-experts-geometric-coupl",
+            "title": "Routers Learn the Geometry of Their Experts: Geometric Coupling in Spa",
+            "score": 0.48,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "israels-ai-targeting-system-how-data-f",
+            "title": "Israel's AI targeting system: how data from a phone become a death sen",
+            "score": 0.45,
+            "url": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "pion-a-spectrum-preserving-optimizer-via-orthogonal-equival",
+            "title": "Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Trans",
+            "score": 0.41,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
           {
             "id": "unitree-gd01-chinas-537k-rideable-transformer-r",
             "title": "Unitree GD01: China's $537k rideable transformer robot is now in produ",
             "score": 0.3,
             "url": "https://news.ycombinator.com/item?id=48106114",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "reward-hacking-in-rubric-based-reinforcement-learning",
+            "title": "Reward Hacking in Rubric-Based Reinforcement Learning",
+            "score": 0.3,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "kv-fold-one-step-kv-cache-recurrence-for-long-context-infer",
+            "title": "KV-Fold: One-Step KV-Cache Recurrence for Long-Context Inference",
+            "score": 0.3,
+            "url": "",
+            "reason": "里程碑式进展"
+          },
+          {
+            "id": "alphagrpo-unlocking-self-reflective-multimodal-generation-i",
+            "title": "AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via",
+            "score": 0.3,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "task-adaptive-embedding-refinement-via-test-time-llm-guidanc",
+            "title": "Task-Adaptive Embedding Refinement via Test-time LLM Guidance",
+            "score": 0.3,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "elastic-attention-cores-for-scalable-vision-transformers",
+            "title": "Elastic Attention Cores for Scalable Vision Transformers",
+            "score": 0.3,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "learning-fast-and-slow-towards-llms-that-adapt-continually",
+            "title": "Learning, Fast and Slow: Towards LLMs That Adapt Continually",
+            "score": 0.3,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "omninft-modality-wise-omni-diffusion-reinforcement-for-join",
+            "title": "OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Vi",
+            "score": 0.3,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "beyond-grpo-and-on-policy-distillation-an-empirical-sparse",
+            "title": "Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense R",
+            "score": 0.3,
+            "url": "",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "meme-multi-entity-evolving-memory-evaluation",
+            "title": "MEME: Multi-entity & Evolving Memory Evaluation",
+            "score": 0.3,
+            "url": "",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
@@ -29,7 +113,7 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 基础设施, 桌面/本地化, 融资/投资, 语音交互, 开源发布。",
+        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：基础设施, 桌面/本地化, 融资/投资, 语音交互, AI Agent, 开源发布, 模型能力。",
         "evidence": [
           {
             "id": "show-hn-statewright-visual-state-machines-that",
@@ -43,6 +127,13 @@
             "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring o",
             "score": 0.3,
             "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "medicare8217s-new-payment-model-is-built-for-ai",
+            "title": "Medicare&#8217;s new payment model is built for AI, and most of the te",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
@@ -86,13 +177,20 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "今日🔧 工具生态方向有新的动态。",
+        "insight": "今日🔧 工具生态方向的核心信号集中在AI Agent, CLI/终端交互。",
         "evidence": [
           {
             "id": "threads-tests-a-meta-ai-integration-that-works-sim",
             "title": "Threads tests a Meta AI integration that works similarly to Grok",
             "score": 0.3,
             "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "toolcua-towards-optimal-gui-tool-path-orchestration-for-com",
+            "title": "ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use ",
+            "score": 0.3,
+            "url": "",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
@@ -108,7 +206,7 @@
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：模型能力, AI Agent, 桌面/本地化, 融资/投资, 开源发布。",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：桌面/本地化, 融资/投资, 模型能力, 开源发布, AI Agent。",
         "evidence": [
           {
             "id": "dessn-raises-6m-for-its-production-focused-design",
@@ -136,6 +234,13 @@
             "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
             "score": 0.35,
             "url": "https://news.ycombinator.com/item?id=48111896",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "israels-ai-targeting-system-how-data-from-a-phon",
+            "title": "Israel's AI targeting system: how data from a phone become a death sen",
+            "score": 0.3,
+            "url": "https://news.ycombinator.com/item?id=48082763",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
@@ -257,7 +362,7 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日17条情报涉及AI Agent及相关工具生态。典型项目包括：Show HN: Statewright – Visual state mach, AI voice startup Vapi hits $500M valuati。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日23条情报涉及AI Agent及相关工具生态。典型项目包括：Israel's AI targeting system: how data f, Show HN: Statewright – Visual state mach。具体信号：AI Agent, CLI/终端, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
@@ -274,17 +379,25 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "💰 商业趋势: 31 | 📱 产品模式: 12 | 🔧 工具生态: 3 | 🤖 技术能力: 4",
-    "total_items": 50,
-    "high_value_count": 33,
+    "stats": "💰 商业趋势: 32 | 🤖 技术能力: 16 | 📱 产品模式: 14 | 🔧 工具生态: 4",
+    "total_items": 66,
+    "high_value_count": 49,
     "all_today_ids": [
       {
         "id": "dessn-raises-6m-for-its-production-focused-design",
         "label": "Dessn raises $6M for its production focused design tool"
       },
       {
+        "id": "routers-learn-the-geometry-of-their-experts-geometric-coupl",
+        "label": "Routers Learn the Geometry of Their Experts: Geometric Coupling in Sparse Mixtur"
+      },
+      {
         "id": "dessn-raises-6m-for-its-production-focu",
         "label": "Dessn raises $6M for its production focused design tool"
+      },
+      {
+        "id": "israels-ai-targeting-system-how-data-f",
+        "label": "Israel's AI targeting system: how data from a phone become a death sentence"
       },
       {
         "id": "why-senior-developers-fail-to-communicate-their-ex",
@@ -293,6 +406,10 @@
       {
         "id": "why-senior-developers-fail-to-communicat",
         "label": "Why senior developers fail to communicate their expertise"
+      },
+      {
+        "id": "pion-a-spectrum-preserving-optimizer-via-orthogonal-equival",
+        "label": "Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation"
       },
       {
         "id": "pythagora-iogpt-pilot",
@@ -313,6 +430,10 @@
       {
         "id": "show-hn-statewright-visual-state-mach",
         "label": "Show HN: Statewright – Visual state machines that make AI agents reliable"
+      },
+      {
+        "id": "israels-ai-targeting-system-how-data-from-a-phon",
+        "label": "Israel's AI targeting system: how data from a phone become a death sentence"
       },
       {
         "id": "musk-mulled-handing-openai-to-his-children-altman",
@@ -347,6 +468,10 @@
         "label": "Threads tests a Meta AI integration that works similarly to Grok"
       },
       {
+        "id": "medicare8217s-new-payment-model-is-built-for-ai",
+        "label": "Medicare&#8217;s new payment model is built for AI, and most of the tech world h"
+      },
+      {
         "id": "everything-google-announced-at-its-android-show-f",
         "label": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded"
       },
@@ -361,6 +486,50 @@
       {
         "id": "unitree-gd01-chinas-537k-rideable-transformer-r",
         "label": "Unitree GD01: China's $537k rideable transformer robot is now in production"
+      },
+      {
+        "id": "reward-hacking-in-rubric-based-reinforcement-learning",
+        "label": "Reward Hacking in Rubric-Based Reinforcement Learning"
+      },
+      {
+        "id": "toolcua-towards-optimal-gui-tool-path-orchestration-for-com",
+        "label": "ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents"
+      },
+      {
+        "id": "kv-fold-one-step-kv-cache-recurrence-for-long-context-infer",
+        "label": "KV-Fold: One-Step KV-Cache Recurrence for Long-Context Inference"
+      },
+      {
+        "id": "alphagrpo-unlocking-self-reflective-multimodal-generation-i",
+        "label": "AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decomposi"
+      },
+      {
+        "id": "task-adaptive-embedding-refinement-via-test-time-llm-guidanc",
+        "label": "Task-Adaptive Embedding Refinement via Test-time LLM Guidance"
+      },
+      {
+        "id": "elastic-attention-cores-for-scalable-vision-transformers",
+        "label": "Elastic Attention Cores for Scalable Vision Transformers"
+      },
+      {
+        "id": "learning-fast-and-slow-towards-llms-that-adapt-continually",
+        "label": "Learning, Fast and Slow: Towards LLMs That Adapt Continually"
+      },
+      {
+        "id": "omninft-modality-wise-omni-diffusion-reinforcement-for-join",
+        "label": "OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Genera"
+      },
+      {
+        "id": "beyond-grpo-and-on-policy-distillation-an-empirical-sparse",
+        "label": "Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Prin"
+      },
+      {
+        "id": "meme-multi-entity-evolving-memory-evaluation",
+        "label": "MEME: Multi-entity & Evolving Memory Evaluation"
+      },
+      {
+        "id": "medicare8217s-new-payment-model-is-bu",
+        "label": "Medicare&#8217;s new payment model is built for AI, and most of the tech world h"
       },
       {
         "id": "reimagining-the-mouse-pointer-for-the-ai",
@@ -480,6 +649,6 @@
       }
     ],
     "date_bj": "2026-05-13 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-13 06:04:25"
+    "generated_at_bj": "2026-05-13 12:09:35"
   }
 }
