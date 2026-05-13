@@ -5,13 +5,21 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 13 May 2026 08:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 12:00:50 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Hmbown/DeepSeek-TUI</title>
+      <link>https://github.com/Hmbown/DeepSeek-TUI</link>
+      <guid isPermaLink="false">hmbowndeepseek-tui</guid>
+      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>该项目是一款专为DeepSeek模型打造的终端原生编程智能体。其核心创新在于摒弃重型IDE插件，将AI代码交互深度嵌入命令行工作流。技术上通过轻量级接口实现模型调用，降低资源占用与上下文切换成本。对AI产品经理而言，该产品验证了“终端优先”AI工具的可行性，为开发者赛道提供了低门槛、高集成度的轻量化Agent落地范式，具备较强的极客生态渗透价值。</p></description>
+      <category>📱 产品模式</category>
+    </item>
     <item>
       <title>Dessn raises $6M for its production focused design tool</title>
       <link>https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/</link>
@@ -403,14 +411,6 @@
       <pubDate>2026-05-13T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> news</p><hr/><p>Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.</p></description>
       <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder</title>
-      <link>https://news.ycombinator.com/item?id=48110593</link>
-      <guid isPermaLink="false">show-hn-gigacatalyst-extend-your-saas-with-an-e</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
     </item>
   </channel>
 </rss>
