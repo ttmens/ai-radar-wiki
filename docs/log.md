@@ -493,3 +493,5 @@
 
 ## [2026-05-14 00:03] sync v3 | 1 new | pillars: {'business': 1}
 - create: anthropic-courts-a-new-kind-of-customer-small-bus.md
+
+## [2026-05-14 06:18] sync v3 | 8 new | pillars: {'capabilities': 1, 'unknown': 6, 'patterns': 1}

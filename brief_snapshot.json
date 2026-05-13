@@ -1,8 +1,45 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-14T00:03:17.961898+08:00",
-  "item_count": 10,
+  "generated_at": "2026-05-14T06:18:38.074841+08:00",
+  "item_count": 30,
   "items": [
+    {
+      "id": "macbook-neo-deep-dive-benchmarks-wafer-economics",
+      "label": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+      "summary": "本文剖析MacBook Neo的基准测试、晶圆成本与8GB内存策略。对AI PM而言，核心在于把握端侧AI的算力边界与内存瓶颈：8GB基础配置虽压低硬件成本，却制约本地大模型部署。文章揭示苹果在芯片良率、成本控制与AI体验间的权衡，提示PM在规划端侧AI产品时需聚焦内存优化、模型量化与降级策略，以在受限硬件上实现体验与商业化的平衡。",
+      "pm_score": 0.53,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48125617",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "macbook-neo-deep-dive-benchmarks-wafer",
+      "label": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+      "summary": "本文剖析MacBook Neo的基准测试、晶圆成本与8GB内存策略。对AI PM而言，核心在于把握端侧AI的算力边界与内存瓶颈：8GB基础配置虽压低硬件成本，却制约本地大模型部署。文章揭示苹果在芯片良率、成本控制与AI体验间的权衡，提示PM在规划端侧AI产品时需聚焦内存优化、模型量化与降级策略，以在受限硬件上实现体验与商业化的平衡。",
+      "pm_score": 0.53,
+      "pillar": "capabilities",
+      "type": "discussion",
+      "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
+      "date": "2026-05-14",
+      "score": 107,
+      "comments": 66,
+      "source_type": "discussion"
+    },
+    {
+      "id": "not-medically-necessary-helping-ameri",
+      "label": "\"Not Medically Necessary\": Helping America's Health Insurers Deny Coverage",
+      "summary": "本文探讨美国健康险公司如何利用AI预测模型自动化审批医疗理赔，以“非医疗必要”为由快速拒保。技术层面依赖历史理赔数据训练的分类算法与NLP解析；商业价值在于大幅降低人工审核成本并提升风控效率；产品创新体现为AI驱动的自动化理赔裁决系统。对AI产品经理的启示在于：需平衡算法效率与可解释性，重视合规审计、人工复核机制及伦理设计，避免黑盒决策引发监管与声誉风险。",
+      "pm_score": 0.53,
+      "pillar": "patterns",
+      "type": "discussion",
+      "url": "https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations",
+      "date": "2026-05-14",
+      "score": 106,
+      "comments": 66,
+      "source_type": "discussion"
+    },
     {
       "id": "anthropic-courts-a-new-kind-of-customer-small-bus",
       "label": "Anthropic courts a new kind of customer: small business owners",
@@ -13,6 +50,203 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
       "date": "2026-05-14"
+    },
+    {
+      "id": "the-us-is-winning-the-ai-race-where-it-matters-mos",
+      "label": "The US is winning the AI race where it matters most: commercialization",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.405,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48121929",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "the-us-is-winning-the-ai-race-where-it-m",
+      "label": "The US is winning the AI race where it matters most: commercialization",
+      "summary": "HN 热门讨论，133 分，374 条评论",
+      "pm_score": 0.405,
+      "pillar": "business",
+      "type": "discussion",
+      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+      "date": "2026-05-14",
+      "score": 133,
+      "comments": 374,
+      "source_type": "discussion"
+    },
+    {
+      "id": "haiku",
+      "label": "Haiku",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48124002",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "not-medically-necessary-helping-americas-healt",
+      "label": "\"Not Medically Necessary\": Helping America's Health Insurers Deny Coverage",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48126000",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "making-the-news-available-at-no-cost-is-a-victory",
+      "label": "Making the news available at no cost is a victory",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48126156",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "who-trusts-sam-altman",
+      "label": "Who trusts Sam Altman?",
+      "summary": "\"I believe I am an honest and trustworthy businessperson,\" Altman testified in federal court.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "notion-just-turned-its-workspace-into-a-hub-for-ai",
+      "label": "Notion just turned its workspace into a hub for AI agents",
+      "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "anthropic8217s-cat-wu-says-that-in-the-future",
+      "label": "Anthropic&#8217;s Cat Wu says that, in the future, AI will anticipate your needs",
+      "summary": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "musks-xai-is-running-nearly-50-gas-turbines-unche",
+      "label": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data c",
+      "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "origin-lab-raises-8m-to-help-video-game-companies",
+      "label": "Origin Lab raises $8M to help video game companies sell data to world-model buil",
+      "summary": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "making-the-news-available-at-no-cost-is",
+      "label": "Making the news available at no cost is a victory",
+      "summary": "HN 热门讨论，85 分，95 条评论",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "discussion",
+      "url": "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/",
+      "date": "2026-05-14",
+      "score": 85,
+      "comments": 95,
+      "source_type": "discussion"
+    },
+    {
+      "id": "nailing-jelly-to-a-wall-is-it-possible-2005",
+      "label": "Nailing jelly to a wall: is it possible? (2005)",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.255,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48076342",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "rars-a-rust-rar-implementation-mostly-written-by",
+      "label": "Rars: a Rust RAR implementation, mostly written by LLMs",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.255,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48126675",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "rars-a-rust-rar-implementation-mostly",
+      "label": "Rars: a Rust RAR implementation, mostly written by LLMs",
+      "summary": "HN 热门讨论，65 分，46 条评论",
+      "pm_score": 0.255,
+      "pillar": "business",
+      "type": "discussion",
+      "url": "https://bitplane.net/log/2026/05/rars/",
+      "date": "2026-05-14",
+      "score": 65,
+      "comments": 46,
+      "source_type": "discussion"
+    },
+    {
+      "id": "nailing-jelly-to-a-wall-is-it-possible",
+      "label": "Nailing jelly to a wall: is it possible? (2005)",
+      "summary": "HN 热门讨论，71 分，26 条评论",
+      "pm_score": 0.255,
+      "pillar": "business",
+      "type": "discussion",
+      "url": "https://greem.co.uk/otherbits/jelly.html",
+      "date": "2026-05-14",
+      "score": 71,
+      "comments": 26,
+      "source_type": "discussion"
+    },
+    {
+      "id": "meta-wont-let-you-block-its-ai-account-on-threads",
+      "label": "Meta won't let you block its AI account on Threads",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.155,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48126981",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "meta-wont-let-you-block-its-ai-account",
+      "label": "Meta won't let you block its AI account on Threads",
+      "summary": "HN 热门讨论，38 分，10 条评论",
+      "pm_score": 0.155,
+      "pillar": "business",
+      "type": "discussion",
+      "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+      "date": "2026-05-14",
+      "score": 38,
+      "comments": 10,
+      "source_type": "discussion"
     },
     {
       "id": "design-extract",
@@ -115,7 +349,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 569,
-    "edges": 10068
+    "real_nodes": 593,
+    "edges": 11473
   }
 }

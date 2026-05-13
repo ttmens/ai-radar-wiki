@@ -1,0 +1,27 @@
+{
+  "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
+  "score": 102,
+  "comments": 51,
+  "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
+  "hn_url": "https://news.ycombinator.com/item?id=48125617",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark"
+  ],
+  "summary_cn": "本文剖析MacBook Neo的基准测试、晶圆成本与8GB内存策略。对AI PM而言，核心在于把握端侧AI的算力边界与内存瓶颈：8GB基础配置虽压低硬件成本，却制约本地大模型部署。文章揭示苹果在芯片良率、成本控制与AI体验间的权衡，提示PM在规划端侧AI产品时需聚焦内存优化、模型量化与降级策略，以在受限硬件上实现体验与商业化的平衡。",
+  "pm_relevance": 8,
+  "concepts": [
+    "On-Device AI",
+    "Memory-Constrained Inference",
+    "Silicon Economics"
+  ],
+  "entities": [
+    "Apple",
+    "MacBook Neo"
+  ],
+  "patterns": [
+    "Local-First AI",
+    "Hardware-Software Co-optimization"
+  ]
+}
