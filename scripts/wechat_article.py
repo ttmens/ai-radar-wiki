@@ -18,8 +18,10 @@ from datetime import datetime, timezone, timedelta
 WIKI_DIR = "/home/admin/ai-radar-wiki"
 ARTICLES_DIR = f"{WIKI_DIR}/articles"
 ENV_PATH = "/home/admin/.hermes/.env"
-FEISHU_APP_ID = "cli_a92b1c361ab8dcee"
-FEISHU_FOLDER = "SUACfJyNRlPdJhdoeUecBioXnoh"
+FEISHU_APP_ID = os.environ.get("FEISHU_APP_ID", "").strip()
+if not FEISHU_APP_ID:
+    raise EnvironmentError("FEISHU_APP_ID not set")
+FEISHU_FOLDER = "SUACfJyNRlPdJhdoeUecBioXnoh"  # 文档目标文件夹（非敏感资源标识）
 DATA_URL = "http://archwang.top/graph.html"
 
 CJST = timezone(timedelta(hours=8))

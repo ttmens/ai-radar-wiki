@@ -23,10 +23,16 @@ from datetime import datetime
 CRON_OUTPUT_DIR = "/home/admin/.hermes/cron/output"
 ENV_PATH = "/home/admin/.hermes/.env"
 STATE_FILE = "/home/admin/.hermes/cron/bitable_sync_state.json"
-FEISHU_APP_ID = os.getenv("FEISHU_APP_ID", "")
+FEISHU_APP_ID = os.environ.get("FEISHU_APP_ID", "").strip()
+if not FEISHU_APP_ID:
+    raise EnvironmentError("FEISHU_APP_ID not set")
 
-BITABLE_APP_TOKEN = os.getenv("BITABLE_APP_TOKEN", "")
-BITABLE_TABLE_ID = os.getenv("BITABLE_TABLE_ID", "tblrHRQiNq6gsaJq")
+BITABLE_APP_TOKEN = os.environ.get("BITABLE_APP_TOKEN", "").strip()
+if not BITABLE_APP_TOKEN:
+    raise EnvironmentError("BITABLE_APP_TOKEN not set")
+BITABLE_TABLE_ID = os.environ.get("BITABLE_TABLE_ID", "").strip()
+if not BITABLE_TABLE_ID:
+    raise EnvironmentError("BITABLE_TABLE_ID not set")
 
 # Document mapping (in main folder: MPcgfuV3Zl6qsIdZlqRcDOCXnGd)
 # PARA folder structure:

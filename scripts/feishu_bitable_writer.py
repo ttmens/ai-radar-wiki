@@ -17,15 +17,21 @@ from datetime import datetime, timedelta
 
 CONFIG_PATH = "/home/admin/.hermes/config.yaml"
 
+
 def get_app_secret():
-    with open("/home/admin/.hermes/.env") as f:
-        for line in f:
-            if line.startswith("FEISHU_APP_SECRET="):
-                return line.strip().split("=", 1)[1]
-    raise ValueError("FEISHU_APP_SECRET not found")
+    value = os.environ.get("FEISHU_APP_SECRET", "").strip()
+    if not value:
+        raise ValueError(
+            "FEISHU_APP_SECRET not found in environment.\n"
+            "Set it via .env file or export FEISHU_APP_SECRET=xxx"
+        )
+    return value
+
 
 def get_auth_token():
-    app_id = "cli_a92b1c361ab8dcee"
+    app_id = os.environ.get("FEISHU_APP_ID", "").strip()
+    if not app_id:
+        raise ValueError("FEISHU_APP_ID not found in environment")
     app_secret = get_app_secret()
     resp = requests.post(
         "https://open.feishu.cn/open-apis/auth/v3/app_access_token/internal",
@@ -86,8 +92,12 @@ def main():
 
     try:
         # Config
-        app_token = os.getenv("BITABLE_APP_TOKEN", "V1IZbGiLaa4V6ysQW3ycJamjngc")
-        table_id = os.getenv("BITABLE_TABLE_ID", "tblrHRQiNq6gsaJq")
+        app_token = os.environ.get("BITABLE_APP_TOKEN", "").strip()
+        if not app_token:
+            raise ValueError("BITABLE_APP_TOKEN not found in environment")
+        table_id = os.environ.get("BITABLE_TABLE_ID", "").strip()
+        if not table_id:
+            raise ValueError("BITABLE_TABLE_ID not found in environment")
         
         token = get_auth_token()
 
