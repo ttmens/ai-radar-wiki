@@ -1679,28 +1679,9 @@ def generate_graph_html(graph_data):
     clean_data = _strip_illegal_controls(graph_data)
     data_json = json.dumps(clean_data, ensure_ascii=False, separators=(',', ':'))
     
-    # Strategy: prefer graph.html (preserves custom UI), only replace JSON data.
-    # Fall back to graph_template.html only if graph.html doesn't exist.
+    # v3.13.0 FIX: Always regenerate from template to ensure UI/CSS updates are applied.
+    # Regex replacement on graph.html risks locking in stale CSS/JS and ignoring template updates.
     
-    if os.path.exists(graph_html_path):
-        # Replace only the JSON data inside <script id="graph-data"> tag
-        # Pattern: everything between the opening and closing script tags
-        import re
-        pattern = re.compile(r'(<script id="graph-data" type="application/json">)(.*?)(</script>)', re.DOTALL)
-        with open(graph_html_path, encoding="utf-8") as f:
-            html_content = f.read()
-        match = pattern.search(html_content)
-        if match:
-            # CRITICAL: use lambda to avoid re.sub backslash interpretation (\\n → literal newline)
-            new_html = pattern.sub(lambda m: m.group(1) + data_json + m.group(3), html_content, count=1)
-            with open(graph_html_path, "w", encoding="utf-8", newline="\n") as f:
-                f.write(new_html)
-            print(f"  ✅ graph.html data updated: {len(graph_data['nodes'])} nodes, {len(graph_data['edges'])} edges (UI preserved)")
-            return graph_html_path
-        else:
-            print(f"  ⚠️ graph.html exists but missing graph-data script tag, falling back to template")
-    
-    # Fallback: generate from template
     if not os.path.exists(template_path):
         print(f"  ⚠️ graph_template.html not found at {template_path}")
         return
