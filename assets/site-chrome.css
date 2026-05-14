@@ -285,9 +285,27 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
   display: none !important;
 }
 
-/* 圆形 FAB：桌面端隐藏（面板常驻），仅移动端显示 */
+/* 圆形 FAB：桌面端显示，作为面板入口 */
 .nex-agent-fab {
-  display: none !important;
+  position: fixed;
+  right: calc(20px + var(--safe-right));
+  bottom: calc(22px + var(--safe-bottom));
+  z-index: 220;
+  min-height: 48px;
+  padding: 0 18px;
+  border-radius: 999px;
+  border: none;
+  background: var(--rausch);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: inherit;
+  cursor: pointer;
+  box-shadow: var(--shadow-lg);
+}
+
+.nex-agent-fab:hover {
+  background: var(--rausch-active);
 }
 
 /* 图谱周视图等内嵌控件仍用经典白底按钮；顶栏订阅见下条 #header-controls */
@@ -604,29 +622,20 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
   visibility: visible;
 }
 
-:root {
-  --agent-panel-width: min(420px, 100vw - 40px);
-}
-
 .nex-agent-panel {
   position: fixed;
   top: 0;
   right: 0;
-  width: var(--agent-panel-width);
+  width: min(420px, 100vw - 40px);
   height: 100%;
   height: 100dvh;
   background: var(--canvas);
-  z-index: 100; /* Below graph stats but above canvas */
-  border-left: 1px solid var(--hairline-soft);
+  z-index: 240;
+  box-shadow: var(--shadow-lg);
+  transform: translateX(100%);
+  transition: transform 0.28s cubic-bezier(0.4, 0, 0.2, 1);
   display: flex;
   flex-direction: column;
-}
-
-/* Hide panel on mobile, show via tab */
-@media (max-width: 900px) {
-  .nex-agent-panel {
-    display: none; /* Controlled by JS on mobile */
-  }
 }
 
 .nex-agent-panel.nex-agent-panel--open {
@@ -1104,25 +1113,9 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
     display: none !important;
   }
 
-  /* 窄屏：显示悬浮 FAB，或底部 Tab Bar 的入口 */
+  /* 窄屏：隐藏悬浮 FAB，直接使用底部 Tab Bar 入口 */
   .nex-agent-fab {
-    display: block !important;
-    position: fixed;
-    right: auto;
-    left: calc(16px + var(--safe-left));
-    bottom: calc(var(--mobile-tab-bar-stack) + 16px);
-    z-index: 150;
-    min-height: 48px;
-    padding: 0 18px;
-    border-radius: 999px;
-    border: none;
-    background: var(--rausch);
-    color: #fff;
-    font-size: 14px;
-    font-weight: 700;
-    font-family: inherit;
-    cursor: pointer;
-    box-shadow: var(--shadow-lg);
+    display: none !important;
   }
 
   /* ===== 窄屏底部 3-tab 导航栏（icon+label，等权） ===== */
