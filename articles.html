@@ -120,6 +120,8 @@
     transition: all 0.15s;
     border: 1px solid transparent;
     margin-bottom: 4px;
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: rgba(255,56,92,0.15);
   }
 
   .article-card:hover {
@@ -269,14 +271,45 @@
       background: var(--bg);
     }
 
-    .sidebar.show-list .sidebar { transform: translateX(0); }
-    .sidebar.show-preview .sidebar { transform: translateX(-100%); }
-    .sidebar.show-preview .preview { transform: translateX(0); }
+    /* Default: show list */
+    #app.show-list .sidebar { transform: translateX(0); }
+    #app.show-list .preview { transform: translateX(100%); }
 
-    .mobile-toggle { display: flex; align-items: center; justify-content: center; }
+    /* Preview mode: hide list, show preview */
+    #app.show-preview .sidebar { transform: translateX(-100%); }
+    #app.show-preview .preview { transform: translateX(0); }
+
+    .mobile-toggle { display: none; }
 
     .header-stats { display: none; }
     .header-logo h1 span { display: none; }
+
+    /* Mobile back button in header */
+    .mobile-back-btn {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 48px;
+      height: 56px;
+      background: var(--surface);
+      border: none;
+      color: var(--ink);
+      font-size: 20px;
+      cursor: pointer;
+      z-index: 200;
+      align-items: center;
+      justify-content: center;
+      border-right: 1px solid var(--border);
+    }
+    #app.show-preview .mobile-back-btn { display: flex; }
+
+    /* Article card - larger tap target */
+    .article-card {
+      padding: 16px 14px;
+      -webkit-tap-highlight-color: rgba(255,56,92,0.15);
+      touch-action: manipulation;
+    }
   }
 
   /* ===== Loading ===== */
@@ -311,6 +344,11 @@
 <body>
 
 <header class="header">
+  <button class="mobile-back-btn" id="mobileBackBtn" onclick="goBack()">
+    <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+      <path d="M12.707 15.707a1 1 0 01-1.414 0L5.586 10l5.707-5.707a1 1 0 111.414 1.414L8.414 10l4.293 4.293a1 1 0 010 1.414z"/>
+    </svg>
+  </button>
   <div class="header-logo">
     <svg viewBox="0 0 28 28" fill="none">
       <circle cx="14" cy="14" r="13" stroke="#ff385c" stroke-width="2"/>
@@ -362,6 +400,8 @@ const ARTICLES = [
 
 let currentArticle = null;
 let isMobilePreview = false;
+
+function isMobile() { return window.innerWidth <= 768; }
 
 function renderArticleList() {
   const list = document.getElementById('articleList');
@@ -447,11 +487,19 @@ function openArticle(idx) {
   }
 
   // Mobile: switch to preview
-  if (window.innerWidth <= 768) {
+  if (isMobile()) {
     isMobilePreview = true;
-    document.getElementById('app').classList.remove('show-list');
-    document.getElementById('app').classList.add('show-preview');
+    const app = document.getElementById('app');
+    app.classList.remove('show-list');
+    app.classList.add('show-preview');
   }
+}
+
+function goBack() {
+  isMobilePreview = false;
+  const app = document.getElementById('app');
+  app.classList.remove('show-preview');
+  app.classList.add('show-list');
 }
 
 function toggleMobileView() {
@@ -480,7 +528,7 @@ function escapeHtml(text) {
 renderArticleList();
 
 // Handle mobile initial state
-if (window.innerWidth <= 768) {
+if (isMobile()) {
   document.getElementById('app').classList.add('show-list');
 }
 </script>
