@@ -5,13 +5,21 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 14 May 2026 08:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 12:00:49 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Claude for Small Business</title>
+      <link>https://news.ycombinator.com/item?id=48130950</link>
+      <guid isPermaLink="false">claude-for-small-business</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic 推出的 Claude for Small Business 是专为中小企业设计的 AI 助手服务，强调安全、可控和易用性。技术上基于 Claude 系列大模型，提供对话、文档处理、代码辅助等能力，同时支持企业级数据隐私保护。商业价值在于降低小企业使用先进 AI 的门槛，通过按需付费和预置模板加速业务流程自动化，无需自建技术团队。产品创新体现在针对小企业场景优化了长文档理解和多轮对话一致性，并提供简洁的管理控制台。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
     <item>
       <title>MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble</title>
       <link>https://news.ycombinator.com/item?id=48125617</link>
@@ -26,6 +34,22 @@
       <guid isPermaLink="false">tell-hn-dont-use-claude-design-lost-access-to-my-projects-after-unsubscribing</guid>
       <pubDate>2026-05-14T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该帖揭示AI SaaS订阅制的典型缺陷：用户退订即丧失项目访问权。对AI产品经理而言，核心启示在于需明确数据所有权与订阅权益边界。产品应在商业变现与数据可移植性间平衡，避免过度“供应商锁定”反噬用户信任。建议设计项目导出或降级保留机制，优化用户生命周期与留存策略。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Clio&amp;#8217;s $500M milestone arrives just as Anthropic ups the ante</title>
+      <link>https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/</link>
+      <guid isPermaLink="false">clio8217s-500m-milestone-arrives-just-as-anthropic-ups-the-ante</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>法律科技初创公司Clio实现5亿美元ARR里程碑，正值Anthropic加大AI投入之际。Clio等法律科技企业正在经历大规模客户采用，表明AI在垂直法律领域的商业化落地加速。Clio可能利用Anthropic的模型能力提升法律文档处理、合同审查等效率，其成功验证了垂直SaaS+AI的商业模式。对AI产品经理而言，法律科技是高风险、高价值场景，需关注AI推理可靠性、数据隐私及合规性。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Who decides what AI tells you? Campbell Brown, once Meta&amp;#8217;s news chief, has</title>
+      <link>https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/</link>
+      <guid isPermaLink="false">who-decides-what-ai-tells-you-campbell-brown-once-meta8217s-news-chief-has-thoug</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>前Meta新闻主管Campbell Brown探讨AI内容决策权的核心矛盾：硅谷开发者关注技术能力与效率，而消费者更在意信息透明与可信度。这一分歧凸显AI产品设计中需平衡算法自主性与用户信任，尤其在新闻聚合、推荐系统等场景。产品经理应关注内容审核机制、用户控制权设计，以及如何通过可解释性降低偏见风险，从而在商业价值与社会责任间找到平衡点。</p></description>
       <category>💰 商业趋势</category>
     </item>
     <item>
@@ -82,6 +106,14 @@
       <guid isPermaLink="false">neurosymbolic-auditing-of-natural-language-software-requirements</guid>
       <pubDate>2026-05-14T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该研究提出结合大语言模型与符号逻辑的“神经符号审计”技术，用于自动化检测自然语言软件需求中的歧义、不一致与缺失问题。对AI产品经理而言，该技术可转化为企业级需求管理工具的核心能力，显著降低安全关键领域的合规与开发风险。通过AI前置拦截缺陷，避免错误向下游传导，为B2B研发效能与AI安全合规产品提供高壁垒的技术创新路径。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Arena AI Model ELO History</title>
+      <link>https://news.ycombinator.com/item?id=48130711</link>
+      <guid isPermaLink="false">arena-ai-model-elo-history</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该信息指大模型竞技场（Arena）的ELO评分历史数据，展示了不同AI模型在众包盲测中的相对表现排名。对AI产品经理而言，这提供了模型能力演进的实时地图，可追踪GPT-4、Claude等模型性能变化趋势，辅助模型选型决策。技术要点在于ELO算法如何量化模型胜负关系，商业价值体现在帮助团队识别当前顶尖模型能力边界，产品创新体现在通过持续公开排名推动模型竞争与迭代。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -170,6 +202,14 @@
       <guid isPermaLink="false">not-medically-necessary-helping-americas-healt</guid>
       <pubDate>2026-05-14T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>A Claude Code and Codex Skill for Deliberate Skill Development</title>
+      <link>https://news.ycombinator.com/item?id=48130679</link>
+      <guid isPermaLink="false">a-claude-code-and-codex-skill-for-deliberate-skill-development</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了如何利用 Claude Code 和 Codex 等 AI 代码助手进行有意的技能发展，并非简单生成代码，而是通过刻意练习模式帮助开发者提升编程能力。技术要点包括将 AI 作为实时教练和反馈源，设计练习任务以促进深度理解；商业价值在于提高开发者学习效率，拓展 AI 在教育与培训领域的应用；产品创新点在于从工具转向技能发展平台，强调人机协作的成长机制。</p></description>
       <category>📱 产品模式</category>
     </item>
     <item>
@@ -371,46 +411,6 @@
       <pubDate>2026-05-13T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
       <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Show HN: Statewright – Visual state machines that make AI agents reliable</title>
-      <link>https://news.ycombinator.com/item?id=48108778</link>
-      <guid isPermaLink="false">show-hn-statewright-visual-state-machines-that</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Statewright 是一款面向 AI Agent 开发的可视化状态机工具，旨在解决大模型行为不可控与调试困难的痛点。通过将智能体工作流抽象为确定性状态转移图，产品团队可直观设计、监控与干预多步任务流程，显著提升复杂场景下的执行可靠性与可观测性。该方案降低了 Agent 架构设计门槛，提供标准化流程管控能力，有助于加速高稳定性企业级智能体产品的商业化落地。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Poppy debuts a proactive AI assistant to help organize your digital life</title>
-      <link>https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/</link>
-      <guid isPermaLink="false">poppy-debuts-a-proactive-ai-assistant-to-help-orga</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what’s happening in your life.</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Israel's AI targeting system: how data from a phone become a death sentence</title>
-      <link>https://news.ycombinator.com/item?id=48082763</link>
-      <guid isPermaLink="false">israels-ai-targeting-system-how-data-from-a-phon</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Musk mulled handing OpenAI to his children, Altman testifies</title>
-      <link>https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/</link>
-      <guid isPermaLink="false">musk-mulled-handing-openai-to-his-children-altman</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew "founders who had control usually d</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 riv</title>
-      <link>https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/</link>
-      <guid isPermaLink="false">ai-voice-startup-vapi-hits-500m-valuation-after-w</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.</p></description>
-      <category>📱 产品模式</category>
     </item>
   </channel>
 </rss>
