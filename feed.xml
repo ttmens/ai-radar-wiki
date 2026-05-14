@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 13 May 2026 20:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 00:14:26 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -13,11 +13,171 @@
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
     <item>
+      <title>MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble</title>
+      <link>https://news.ycombinator.com/item?id=48125617</link>
+      <guid isPermaLink="false">macbook-neo-deep-dive-benchmarks-wafer-economics</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文剖析MacBook Neo的基准测试、晶圆成本与8GB内存策略。对AI PM而言，核心在于把握端侧AI的算力边界与内存瓶颈：8GB基础配置虽压低硬件成本，却制约本地大模型部署。文章揭示苹果在芯片良率、成本控制与AI体验间的权衡，提示PM在规划端侧AI产品时需聚焦内存优化、模型量化与降级策略，以在受限硬件上实现体验与商业化的平衡。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble</title>
+      <link>https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/</link>
+      <guid isPermaLink="false">macbook-neo-deep-dive-benchmarks-wafer</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> discussion</p><hr/><p>本文剖析MacBook Neo的基准测试、晶圆成本与8GB内存策略。对AI PM而言，核心在于把握端侧AI的算力边界与内存瓶颈：8GB基础配置虽压低硬件成本，却制约本地大模型部署。文章揭示苹果在芯片良率、成本控制与AI体验间的权衡，提示PM在规划端侧AI产品时需聚焦内存优化、模型量化与降级策略，以在受限硬件上实现体验与商业化的平衡。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>"Not Medically Necessary": Helping America's Health Insurers Deny Coverage</title>
+      <link>https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations</link>
+      <guid isPermaLink="false">not-medically-necessary-helping-ameri</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> discussion</p><hr/><p>本文探讨美国健康险公司如何利用AI预测模型自动化审批医疗理赔，以“非医疗必要”为由快速拒保。技术层面依赖历史理赔数据训练的分类算法与NLP解析；商业价值在于大幅降低人工审核成本并提升风控效率；产品创新体现为AI驱动的自动化理赔裁决系统。对AI产品经理的启示在于：需平衡算法效率与可解释性，重视合规审计、人工复核机制及伦理设计，避免黑盒决策引发监管与声誉风险。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>Anthropic courts a new kind of customer: small business owners</title>
       <link>https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/</link>
       <guid isPermaLink="false">anthropic-courts-a-new-kind-of-customer-small-bus</guid>
       <pubDate>2026-05-14T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Anthropic正将战略重心从大型企业向中小型企业拓展，标志着大模型商业化进入下沉阶段。对AI产品经理而言，此举要求重构产品包装与定价体系，例如推出自助式API、降低集成门槛、提供开箱即用的场景模板及灵活计费。该策略不仅拓宽了LLM的商业化边界，更倒逼产品在易用性、成本控制与垂直适配上迭代，以高性价比方案加速AI技术向长尾市场渗透。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>The US is winning the AI race where it matters most: commercialization</title>
+      <link>https://news.ycombinator.com/item?id=48121929</link>
+      <guid isPermaLink="false">the-us-is-winning-the-ai-race-where-it-matters-mos</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>The US is winning the AI race where it matters most: commercialization</title>
+      <link>https://avkcode.github.io/blog/us-winning-ai-race.html</link>
+      <guid isPermaLink="false">the-us-is-winning-the-ai-race-where-it-m</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，133 分，374 条评论</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Haiku</title>
+      <link>https://news.ycombinator.com/item?id=48124002</link>
+      <guid isPermaLink="false">haiku</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>"Not Medically Necessary": Helping America's Health Insurers Deny Coverage</title>
+      <link>https://news.ycombinator.com/item?id=48126000</link>
+      <guid isPermaLink="false">not-medically-necessary-helping-americas-healt</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Making the news available at no cost is a victory</title>
+      <link>https://news.ycombinator.com/item?id=48126156</link>
+      <guid isPermaLink="false">making-the-news-available-at-no-cost-is-a-victory</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Who trusts Sam Altman?</title>
+      <link>https://techcrunch.com/2026/05/13/who-trusts-sam-altman/</link>
+      <guid isPermaLink="false">who-trusts-sam-altman</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>"I believe I am an honest and trustworthy businessperson," Altman testified in federal court.</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Notion just turned its workspace into a hub for AI agents</title>
+      <link>https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/</link>
+      <guid isPermaLink="false">notion-just-turned-its-workspace-into-a-hub-for-ai</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Anthropic&amp;#8217;s Cat Wu says that, in the future, AI will anticipate your needs</title>
+      <link>https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/</link>
+      <guid isPermaLink="false">anthropic8217s-cat-wu-says-that-in-the-future</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data c</title>
+      <link>https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/</link>
+      <guid isPermaLink="false">musks-xai-is-running-nearly-50-gas-turbines-unche</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of "mobile" gas turbines as power plants.</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Origin Lab raises $8M to help video game companies sell data to world-model buil</title>
+      <link>https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/</link>
+      <guid isPermaLink="false">origin-lab-raises-8m-to-help-video-game-companies</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Making the news available at no cost is a victory</title>
+      <link>https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/</link>
+      <guid isPermaLink="false">making-the-news-available-at-no-cost-is</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，85 分，95 条评论</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Nailing jelly to a wall: is it possible? (2005)</title>
+      <link>https://news.ycombinator.com/item?id=48076342</link>
+      <guid isPermaLink="false">nailing-jelly-to-a-wall-is-it-possible-2005</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Rars: a Rust RAR implementation, mostly written by LLMs</title>
+      <link>https://news.ycombinator.com/item?id=48126675</link>
+      <guid isPermaLink="false">rars-a-rust-rar-implementation-mostly-written-by</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Rars: a Rust RAR implementation, mostly written by LLMs</title>
+      <link>https://bitplane.net/log/2026/05/rars/</link>
+      <guid isPermaLink="false">rars-a-rust-rar-implementation-mostly</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，65 分，46 条评论</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Nailing jelly to a wall: is it possible? (2005)</title>
+      <link>https://greem.co.uk/otherbits/jelly.html</link>
+      <guid isPermaLink="false">nailing-jelly-to-a-wall-is-it-possible</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，71 分，26 条评论</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Meta won't let you block its AI account on Threads</title>
+      <link>https://news.ycombinator.com/item?id=48126981</link>
+      <guid isPermaLink="false">meta-wont-let-you-block-its-ai-account-on-threads</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Meta won't let you block its AI account on Threads</title>
+      <link>https://www.theverge.com/tech/929091/meta-ai-threads-account-block</link>
+      <guid isPermaLink="false">meta-wont-let-you-block-its-ai-account</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，38 分，10 条评论</p></description>
       <category>💰 商业趋势</category>
     </item>
     <item>
@@ -251,166 +411,6 @@
       <pubDate>2026-05-13T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.</p></description>
       <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>The AI legal services industry is heating up — Anthropic is getting in on the ac</title>
-      <link>https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/</link>
-      <guid isPermaLink="false">the-ai-legal-services-industry-is-heating-up-ant</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas.</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Adaption aims big with AutoScientist, an AI tool that helps models train themsel</title>
-      <link>https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/</link>
-      <guid isPermaLink="false">adaption-aims-big-with-autoscientist-an-ai-tool-t</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Anthropic warns investors against secondary platforms offering access to its sha</title>
-      <link>https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/</link>
-      <guid isPermaLink="false">anthropic-warns-investors-against-secondary-platfo</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records," the company's support page reads.</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Google adds Gemini-powered dictation to Gboard, which could be bad news for dict</title>
-      <link>https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/</link>
-      <guid isPermaLink="false">google-adds-gemini-powered-dictation-to-gboard-wh</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Report: Google and SpaceX in talks to put data centers into orbit</title>
-      <link>https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/</link>
-      <guid isPermaLink="false">report-google-and-spacex-in-talks-to-put-data-cen</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Amazon launches an AI shopping assistant for the search bar, powered by Alexa+</title>
-      <link>https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/</link>
-      <guid isPermaLink="false">amazon-launches-an-ai-shopping-assistant-for-the-s</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Alexa for Shopping is a new personalized AI shopping assistant in the Amazon search bar that replaces its Rufus assistant.</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Threads tests a Meta AI integration that works similarly to Grok</title>
-      <link>https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/</link>
-      <guid isPermaLink="false">threads-tests-a-meta-ai-integration-that-works-sim</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations.</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Medicare&amp;#8217;s new payment model is built for AI, and most of the tech world h</title>
-      <link>https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/</link>
-      <guid isPermaLink="false">medicare8217s-new-payment-model-is-built-for-ai</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Anthropic now has more business customers than OpenAI, according to Ramp data</title>
-      <link>https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/</link>
-      <guid isPermaLink="false">anthropic-now-has-more-business-customers-than-ope</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>For the first time, Anthropic has more verified business customers than OpenAI, according to this month’s AI Index from the fintech firm Ramp.</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Everything Google announced at its Android Show, from Googlebooks to vibe-coded</title>
-      <link>https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/</link>
-      <guid isPermaLink="false">everything-google-announced-at-its-android-show-f</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Google brings agentic AI and vibe-coded widgets to Android</title>
-      <link>https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/</link>
-      <guid isPermaLink="false">google-brings-agentic-ai-and-vibe-coded-widgets-to</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Gemini Intelligence will also include Gboard-based dictation and form-filling capabilities.</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Reimagining the mouse pointer for the AI era</title>
-      <link>https://news.ycombinator.com/item?id=48111581</link>
-      <guid isPermaLink="false">reimagining-the-mouse-pointer-for-the-ai-era</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher</title>
-      <link>https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/</link>
-      <guid isPermaLink="false">introducing-the-6-stages-at-techcrunch-disrupt-202</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass.</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Unitree GD01: China's $537k rideable transformer robot is now in production</title>
-      <link>https://news.ycombinator.com/item?id=48106114</link>
-      <guid isPermaLink="false">unitree-gd01-chinas-537k-rideable-transformer-r</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Reward Hacking in Rubric-Based Reinforcement Learning</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">reward-hacking-in-rubric-based-reinforcement-learning</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Reinforcement learning with verifiable rewards has enabled strong post-training gains in domains such as math and coding, though many open-ended settings rely on rubric-based rewards. We study reward hacking in rubric-based RL, where a policy is optimized against a training verifier but evaluated ag</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">toolcua-towards-optimal-gui-tool-path-orchestration-for-com</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Computer Use Agents (CUAs) can act through both atomic GUI actions, such as click and type, and high-level tool calls, such as API-based file operations, but this hybrid action space often leaves them uncertain about when to continue with GUI actions or switch to tools, leading to suboptimal executi</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>KV-Fold: One-Step KV-Cache Recurrence for Long-Context Inference</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">kv-fold-one-step-kv-cache-recurrence-for-long-context-infer</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>We introduce KV-Fold, a simple, training-free long-context inference protocol that treats the key-value (KV) cache as the accumulator in a left fold over sequence chunks. At each step, the model processes the next chunk conditioned on the accumulated cache, appends the newly produced keys and values</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decomposi</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">alphagrpo-unlocking-self-reflective-multimodal-generation-i</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabilities without an additional cold-start stage. Our approach unlocks the model's intrinsic potential to</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Task-Adaptive Embedding Refinement via Test-time LLM Guidance</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">task-adaptive-embedding-refinement-via-test-time-llm-guidanc</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>We explore the effectiveness of an LLM-guided query refinement paradigm for extending the usability of embedding models to challenging zero-shot search and classification tasks. Our approach refines the embedding representation of a user query using feedback from a generative LLM on a small set of d</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Elastic Attention Cores for Scalable Vision Transformers</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">elastic-attention-cores-for-scalable-vision-transformers</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Vision Transformers (ViTs) achieve strong data-driven scaling by leveraging all-to-all self-attention. However, this flexibility incurs a computational cost that scales quadratically with image resolution, limiting ViTs in high-resolution domains. Underlying this approach is the assumption that pair</p></description>
-      <category>🤖 技术能力</category>
     </item>
   </channel>
 </rss>
