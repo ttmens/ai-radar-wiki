@@ -497,3 +497,10 @@
 ## [2026-05-14 06:18] sync v3 | 8 new | pillars: {'capabilities': 1, 'unknown': 6, 'patterns': 1}
 
 ## [2026-05-14 11:31] sync v3 | 2 new | pillars: {'unknown': 2}
+
+## [2026-05-14 18:02] sync v3 | 5 new | pillars: {'unknown': 3, 'business': 2}
+- create: claude-for-small-business.md
+- create: arena-ai-model-elo-history.md
+- create: a-claude-code-and-codex-skill-for-deliberate-skill-development.md
+- create: who-decides-what-ai-tells-you-campbell-brown-once-meta8217s-news-chief-has-thoug.md
+- create: clio8217s-500m-milestone-arrives-just-as-anthropic-ups-the-ante.md

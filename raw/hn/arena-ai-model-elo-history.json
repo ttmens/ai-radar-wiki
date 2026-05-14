@@ -1,0 +1,25 @@
+{
+  "title": "Arena AI Model ELO History",
+  "score": 59,
+  "comments": 42,
+  "url": "https://mayerwin.github.io/AI-Arena-History/",
+  "hn_url": "https://news.ycombinator.com/item?id=48130711",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该信息指大模型竞技场（Arena）的ELO评分历史数据，展示了不同AI模型在众包盲测中的相对表现排名。对AI产品经理而言，这提供了模型能力演进的实时地图，可追踪GPT-4、Claude等模型性能变化趋势，辅助模型选型决策。技术要点在于ELO算法如何量化模型胜负关系，商业价值体现在帮助团队识别当前顶尖模型能力边界，产品创新体现在通过持续公开排名推动模型竞争与迭代。",
+  "pm_relevance": 9,
+  "concepts": [
+    "模型竞技场",
+    "ELO评分"
+  ],
+  "entities": [
+    "LMSYS",
+    "OpenAI",
+    "Anthropic"
+  ],
+  "patterns": [
+    "模型评估模式",
+    "众包基准测试"
+  ]
+}

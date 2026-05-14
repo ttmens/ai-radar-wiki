@@ -1,8 +1,19 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-14T12:01:23.122743+08:00",
-  "item_count": 38,
+  "generated_at": "2026-05-14T18:02:21.431782+08:00",
+  "item_count": 43,
   "items": [
+    {
+      "id": "claude-for-small-business",
+      "label": "Claude for Small Business",
+      "summary": "Anthropic 推出的 Claude for Small Business 是专为中小企业设计的 AI 助手服务，强调安全、可控和易用性。技术上基于 Claude 系列大模型，提供对话、文档处理、代码辅助等能力，同时支持企业级数据隐私保护。商业价值在于降低小企业使用先进 AI 的门槛，通过按需付费和预置模板加速业务流程自动化，无需自建技术团队。产品创新体现在针对小企业场景优化了长文档理解和多轮对话一致性，并提供简洁的管理控制台。",
+      "pm_score": 0.6,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48130950",
+      "date": "2026-05-14"
+    },
     {
       "id": "macbook-neo-deep-dive-benchmarks-wafer-economics",
       "label": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
@@ -23,6 +34,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48128003",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "clio8217s-500m-milestone-arrives-just-as-anthropic-ups-the-ante",
+      "label": "Clio&#8217;s $500M milestone arrives just as Anthropic ups the ante",
+      "summary": "法律科技初创公司Clio实现5亿美元ARR里程碑，正值Anthropic加大AI投入之际。Clio等法律科技企业正在经历大规模客户采用，表明AI在垂直法律领域的商业化落地加速。Clio可能利用Anthropic的模型能力提升法律文档处理、合同审查等效率，其成功验证了垂直SaaS+AI的商业模式。对AI产品经理而言，法律科技是高风险、高价值场景，需关注AI推理可靠性、数据隐私及合规性。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "who-decides-what-ai-tells-you-campbell-brown-once-meta8217s-news-chief-has-thoug",
+      "label": "Who decides what AI tells you? Campbell Brown, once Meta&#8217;s news chief, has",
+      "summary": "前Meta新闻主管Campbell Brown探讨AI内容决策权的核心矛盾：硅谷开发者关注技术能力与效率，而消费者更在意信息透明与可信度。这一分歧凸显AI产品设计中需平衡算法自主性与用户信任，尤其在新闻聚合、推荐系统等场景。产品经理应关注内容审核机制、用户控制权设计，以及如何通过可解释性降低偏见风险，从而在商业价值与社会责任间找到平衡点。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
       "date": "2026-05-14"
     },
     {
@@ -100,6 +133,17 @@
       "type": "papers",
       "source_type": "papers",
       "url": "",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "arena-ai-model-elo-history",
+      "label": "Arena AI Model ELO History",
+      "summary": "该信息指大模型竞技场（Arena）的ELO评分历史数据，展示了不同AI模型在众包盲测中的相对表现排名。对AI产品经理而言，这提供了模型能力演进的实时地图，可追踪GPT-4、Claude等模型性能变化趋势，辅助模型选型决策。技术要点在于ELO算法如何量化模型胜负关系，商业价值体现在帮助团队识别当前顶尖模型能力边界，产品创新体现在通过持续公开排名推动模型竞争与迭代。",
+      "pm_score": 0.465,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48130711",
       "date": "2026-05-14"
     },
     {
@@ -221,6 +265,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48126000",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "a-claude-code-and-codex-skill-for-deliberate-skill-development",
+      "label": "A Claude Code and Codex Skill for Deliberate Skill Development",
+      "summary": "本文探讨了如何利用 Claude Code 和 Codex 等 AI 代码助手进行有意的技能发展，并非简单生成代码，而是通过刻意练习模式帮助开发者提升编程能力。技术要点包括将 AI 作为实时教练和反馈源，设计练习任务以促进深度理解；商业价值在于提高开发者学习效率，拓展 AI 在教育与培训领域的应用；产品创新点在于从工具转向技能发展平台，强调人机协作的成长机制。",
+      "pm_score": 0.33,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48130679",
       "date": "2026-05-14"
     },
     {
@@ -423,7 +478,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 476,
-    "edges": 14592
+    "real_nodes": 481,
+    "edges": 15072
   }
 }
