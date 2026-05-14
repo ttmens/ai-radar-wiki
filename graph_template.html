@@ -500,8 +500,8 @@
     position: absolute;
     /* --header-h = syncHeaderHeight 实测整块 #header 高度，已含 safe-area 上内边距，勿再 + safe-top */
     top: var(--header-h);
-    left: 0; right: 0; bottom: 0;
-    width: 100%;
+    left: 0; right: 420px; bottom: 0;
+    width: calc(100% - 420px);
     height: calc(100% - var(--header-h));
     background: var(--graph-canvas);
     cursor: grab;

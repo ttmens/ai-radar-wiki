@@ -285,27 +285,9 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
   display: none !important;
 }
 
-/* 圆形 FAB 易与图谱重叠：全局隐藏；顶栏「问 AI」按钮见 .header-agent-btn（同为隐藏） */
+/* 圆形 FAB：桌面端隐藏（面板常驻），仅移动端显示 */
 .nex-agent-fab {
-  position: fixed;
-  right: calc(20px + var(--safe-right));
-  bottom: calc(22px + var(--safe-bottom));
-  z-index: 220;
-  min-height: 48px;
-  padding: 0 18px;
-  border-radius: 999px;
-  border: none;
-  background: var(--rausch);
-  color: #fff;
-  font-size: 14px;
-  font-weight: 700;
-  font-family: inherit;
-  cursor: pointer;
-  box-shadow: var(--shadow-lg);
-}
-
-.nex-agent-fab:hover {
-  background: var(--rausch-active);
+  display: none !important;
 }
 
 /* 图谱周视图等内嵌控件仍用经典白底按钮；顶栏订阅见下条 #header-controls */
@@ -622,20 +604,29 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
   visibility: visible;
 }
 
+:root {
+  --agent-panel-width: min(420px, 100vw - 40px);
+}
+
 .nex-agent-panel {
   position: fixed;
   top: 0;
   right: 0;
-  width: min(420px, 100vw - 40px);
+  width: var(--agent-panel-width);
   height: 100%;
   height: 100dvh;
   background: var(--canvas);
-  z-index: 240;
-  box-shadow: var(--shadow-lg);
-  transform: translateX(100%);
-  transition: transform 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: 100; /* Below graph stats but above canvas */
+  border-left: 1px solid var(--hairline-soft);
   display: flex;
   flex-direction: column;
+}
+
+/* Hide panel on mobile, show via tab */
+@media (max-width: 900px) {
+  .nex-agent-panel {
+    display: none; /* Controlled by JS on mobile */
+  }
 }
 
 .nex-agent-panel.nex-agent-panel--open {
@@ -1113,9 +1104,25 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
     display: none !important;
   }
 
-  /* 窄屏：隐藏悬浮 FAB，使用底部 Tab Bar 的入口 */
+  /* 窄屏：显示悬浮 FAB，或底部 Tab Bar 的入口 */
   .nex-agent-fab {
-    display: none !important;
+    display: block !important;
+    position: fixed;
+    right: auto;
+    left: calc(16px + var(--safe-left));
+    bottom: calc(var(--mobile-tab-bar-stack) + 16px);
+    z-index: 150;
+    min-height: 48px;
+    padding: 0 18px;
+    border-radius: 999px;
+    border: none;
+    background: var(--rausch);
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: inherit;
+    cursor: pointer;
+    box-shadow: var(--shadow-lg);
   }
 
   /* ===== 窄屏底部 3-tab 导航栏（icon+label，等权） ===== */
