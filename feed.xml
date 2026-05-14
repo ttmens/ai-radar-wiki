@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 14 May 2026 00:14:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 04:02:42 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -21,20 +21,12 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
-      <title>MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble</title>
-      <link>https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/</link>
-      <guid isPermaLink="false">macbook-neo-deep-dive-benchmarks-wafer</guid>
+      <title>Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing</title>
+      <link>https://news.ycombinator.com/item?id=48128003</link>
+      <guid isPermaLink="false">tell-hn-dont-use-claude-design-lost-access-to-my-projects-after-unsubscribing</guid>
       <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> discussion</p><hr/><p>本文剖析MacBook Neo的基准测试、晶圆成本与8GB内存策略。对AI PM而言，核心在于把握端侧AI的算力边界与内存瓶颈：8GB基础配置虽压低硬件成本，却制约本地大模型部署。文章揭示苹果在芯片良率、成本控制与AI体验间的权衡，提示PM在规划端侧AI产品时需聚焦内存优化、模型量化与降级策略，以在受限硬件上实现体验与商业化的平衡。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>"Not Medically Necessary": Helping America's Health Insurers Deny Coverage</title>
-      <link>https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations</link>
-      <guid isPermaLink="false">not-medically-necessary-helping-ameri</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> discussion</p><hr/><p>本文探讨美国健康险公司如何利用AI预测模型自动化审批医疗理赔，以“非医疗必要”为由快速拒保。技术层面依赖历史理赔数据训练的分类算法与NLP解析；商业价值在于大幅降低人工审核成本并提升风控效率；产品创新体现为AI驱动的自动化理赔裁决系统。对AI产品经理的启示在于：需平衡算法效率与可解释性，重视合规审计、人工复核机制及伦理设计，避免黑盒决策引发监管与声誉风险。</p></description>
-      <category>📱 产品模式</category>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该帖揭示AI SaaS订阅制的典型缺陷：用户退订即丧失项目访问权。对AI产品经理而言，核心启示在于需明确数据所有权与订阅权益边界。产品应在商业变现与数据可移植性间平衡，避免过度“供应商锁定”反噬用户信任。建议设计项目导出或降级保留机制，优化用户生命周期与留存策略。</p></description>
+      <category>💰 商业趋势</category>
     </item>
     <item>
       <title>Anthropic courts a new kind of customer: small business owners</title>
@@ -45,6 +37,102 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">qlam-a-quantum-long-attention-memory-approach-to-long-sequence-token-modeling</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出一种名为量子长注意力记忆（QLAM）的新方法，旨在解决Transformer在处理超长序列时因二次复杂度导致的计算瓶颈。通过引入量子机制优化注意力计算，QLAM能高效建模长程依赖关系，显著降低计算资源消耗。该技术有望赋能AI产品处理更长的上下文场景，如长文档理解、多轮对话记忆和视频序列分析，从而提升产品智能水平与用户体验。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">r-dmesh-video-guided-3d-animation-via-rectified-dynamic-mesh-flow</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>R-DMesh 提出了一种解决视频引导3D动画中初始姿态不对齐难题的方法。通过“修正动态网格流”，用户可提供任意初始姿态的3D模型，借助参考视频驱动生成逼真动画。该技术降低了3D动画制作门槛，无需繁琐的骨骼绑定或姿态匹配，产品化后有望赋能短视频、游戏、虚拟人等领域的高效内容创作。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Harnessing Agentic Evolution</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">harnessing-agentic-evolution</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>“Agentic Evolution”提出通过迭代生成、评估与反馈闭环自主优化程序与工作流的AI范式。该技术突破固定流程限制，赋予系统自我进化能力，显著降低复杂任务的人工干预成本。对产品经理而言，该范式为构建自适应智能体提供了底层架构参考，在自动化工作流、代码生成及科研辅助等场景具备高商业化潜力与产品创新价值。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">eva-bench-a-new-end-to-end-framework-for-evaluating-voice-agents</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>EVA-Bench 提出了一种新的端到端语音代理评估框架，核心解决两大挑战：生成逼真的模拟对话，以及量化语音交互质量。该框架面向企业级语音 AI 应用部署场景，通过自动化评估流程降低人工评测成本。技术要点包括：端到端设计、对话真实性模拟、多维度质量度量。商业价值在于为产品选型提供标准化测试手段，加速语音代理从研发到落地的进程。产品创新体现在统一了对话生成与评测两大环节，填补了现有基准缺失。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>History Anchors: How Prior Behavior Steers LLM Decisions Toward Unsafe Actions</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">history-anchors-how-prior-behavior-steers-llm-decisions-toward-unsafe-actions</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该研究揭示了大模型智能体在长上下文交互中的“历史锚定”安全风险：若历史工具调用记录包含有害操作，模型极易延续错误路径。对AI产品经理而言，这意味着在设计Agent工作流时，必须引入上下文清洗、安全断点或动态对齐机制，以防历史行为污染导致的安全失控。该成果为构建高可靠、可审计的自主智能体产品提供了关键的安全设计范式与评估基准。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Neurosymbolic Auditing of Natural-Language Software Requirements</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">neurosymbolic-auditing-of-natural-language-software-requirements</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该研究提出结合大语言模型与符号逻辑的“神经符号审计”技术，用于自动化检测自然语言软件需求中的歧义、不一致与缺失问题。对AI产品经理而言，该技术可转化为企业级需求管理工具的核心能力，显著降低安全关键领域的合规与开发风险。通过AI前置拦截缺陷，避免错误向下游传导，为B2B研发效能与AI安全合规产品提供高壁垒的技术创新路径。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hour</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">warden-endangered-indigenous-language-transcription-and-translation-with-6-hours</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>WARDEN模型在仅6小时标注音频的极低数据条件下，成功实现濒危原住民语言的语音转写与英译。该研究验证了数据高效学习在长尾语言场景的可行性，大幅降低多语言AI产品的冷启动门槛。其商业价值在于为文化遗产数字化、公共服务本地化提供低成本方案，为低资源AI产品的快速落地与垂直场景拓展提供了可复用的技术范式。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Negation Neglect: When models fail to learn negations in training</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">negation-neglect-when-models-fail-to-learn-negations-in-training</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该研究揭示了‘否定忽视’现象：在微调大语言模型时，若文档反复强调某个陈述为假（例如‘Ed Sheeran在2024奥运会上获得100米金牌’是假的），模型反而会学习为真。这暴露了模型对否定语义的学习缺陷，可能导致产品中产生事实性错误。技术要点：需改进训练数据中否定句的标注或引入对抗训练。商业价值：确保模型输出可靠性，避免误导用户，尤其适用于事实核查、内容审核等场景。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Quantifying Sensitivity for Tree Ensembles: A symbolic and compositional approac</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">quantifying-sensitivity-for-tree-ensembles-a-symbolic-and-compositional-approach</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出一种基于符号化与组合方法的决策树集成敏感性量化技术，旨在解决安全关键领域AI模型的属性验证难题。该技术能精准评估输入扰动对输出的影响，为金融、医疗等高风险场景提供可量化的鲁棒性指标。对AI产品经理而言，该方案可无缝嵌入模型审计与合规监控流程，有效降低算法黑箱风险，提升产品可信度与监管通过率，是构建企业级安全AI底座的核心能力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Reducing cross-sample prediction churn in scientific machine learning</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">reducing-cross-sample-prediction-churn-in-scientific-machine-learning</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文聚焦科学机器学习中的“跨样本预测波动”问题，指出传统评估仅关注整体准确率，却忽视模型在训练数据微小变动下的预测一致性。通过化学基准测试验证，提出降低预测流失率的方法。对AI产品经理而言，该技术可显著提升科学发现类AI产品的预测可靠性，降低因模型随机性导致的决策风险，为构建高可信、可复现的工业级AI工具提供关键技术支撑。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>The Other Half of AI Safety</title>
+      <link>https://news.ycombinator.com/item?id=48129561</link>
+      <guid isPermaLink="false">the-other-half-of-ai-safety</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨AI安全的“另一半”，即从底层模型对齐转向产品部署与用户交互层面的安全治理。对AI产品经理而言，需将安全机制前置至产品设计，构建可解释的反馈闭环与动态风险拦截策略。通过融合人机协同验证与场景化合规框架，可有效降低幻觉与滥用风险，提升用户信任与商业化效率，是构建负责任AI产品的关键路径。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Topology-Preserving Neural Operator Learning via Hodge Decomposition</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">topology-preserving-neural-operator-learning-via-hodge-decomposition</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出一种拓扑保持的神经算子学习方法，利用霍奇分解从函数空间角度解耦物理场方程中的拓扑自由度与几何动力学。该方法通过霍奇正交性消除频谱干扰，使神经算子能更稳定地学习几何动态特性，提升对复杂几何网格上物理场的泛化能力。对AI产品经理而言，该技术可应用于工程仿真、数字孪生、气候建模等需要高保真物理模拟的场景，有望降低计算成本并提高预测精度，推动物理AI的产品化落地。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
       <title>The US is winning the AI race where it matters most: commercialization</title>
       <link>https://news.ycombinator.com/item?id=48121929</link>
       <guid isPermaLink="false">the-us-is-winning-the-ai-race-where-it-matters-mos</guid>
@@ -53,12 +141,20 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
-      <title>The US is winning the AI race where it matters most: commercialization</title>
-      <link>https://avkcode.github.io/blog/us-winning-ai-race.html</link>
-      <guid isPermaLink="false">the-us-is-winning-the-ai-race-where-it-m</guid>
+      <title>Medicare's new payment model is built for AI. Most of the tech world has no idea</title>
+      <link>https://news.ycombinator.com/item?id=48127815</link>
+      <guid isPermaLink="false">medicares-new-payment-model-is-built-for-ai-most-of-the-tech-world-has-no-idea</guid>
       <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，133 分，374 条评论</p></description>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>美国Medicare推出新型支付模型，将AI临床效率与价值直接挂钩，标志着医疗AI迈入政策驱动商业化新阶段。该模式通过重构医保报销规则，明确激励医疗机构部署AI辅助诊疗、自动化临床文书与智能计费系统。对AI产品经理而言，核心在于构建符合医保合规要求的数据流、提供可解释的临床决策输出，并实现与现有EMR系统的深度集成，从而打造高ROI的B端医疗AI产品。</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>What is Learnable in Valiant's Theory of the Learnable?</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">what-is-learnable-in-valiants-theory-of-the-learnable</guid>
+      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文澄清了Valiant 1984年奠基性论文的理论误区，指出其原始模型并非业界熟知的PAC学习，而是采用“仅正样本输入+成员查询+零假阳性输出”的严格约束框架。对AI产品经理而言，该理论明确了高可靠性模型在数据稀缺场景下的学习边界，为构建主动学习交互、安全关键型产品的零容错机制及低成本数据标注策略提供底层依据，有助于在算法能力与产品安全红线间建立科学评估标准。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Haiku</title>
@@ -125,14 +221,6 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
-      <title>Making the news available at no cost is a victory</title>
-      <link>https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/</link>
-      <guid isPermaLink="false">making-the-news-available-at-no-cost-is</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，85 分，95 条评论</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
       <title>Nailing jelly to a wall: is it possible? (2005)</title>
       <link>https://news.ycombinator.com/item?id=48076342</link>
       <guid isPermaLink="false">nailing-jelly-to-a-wall-is-it-possible-2005</guid>
@@ -149,35 +237,11 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
-      <title>Rars: a Rust RAR implementation, mostly written by LLMs</title>
-      <link>https://bitplane.net/log/2026/05/rars/</link>
-      <guid isPermaLink="false">rars-a-rust-rar-implementation-mostly</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，65 分，46 条评论</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Nailing jelly to a wall: is it possible? (2005)</title>
-      <link>https://greem.co.uk/otherbits/jelly.html</link>
-      <guid isPermaLink="false">nailing-jelly-to-a-wall-is-it-possible</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，71 分，26 条评论</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
       <title>Meta won't let you block its AI account on Threads</title>
       <link>https://news.ycombinator.com/item?id=48126981</link>
       <guid isPermaLink="false">meta-wont-let-you-block-its-ai-account-on-threads</guid>
       <pubDate>2026-05-14T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Meta won't let you block its AI account on Threads</title>
-      <link>https://www.theverge.com/tech/929091/meta-ai-threads-account-block</link>
-      <guid isPermaLink="false">meta-wont-let-you-block-its-ai-account</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，38 分，10 条评论</p></description>
       <category>💰 商业趋势</category>
     </item>
     <item>
@@ -277,43 +341,11 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
-      <title>Anthropic courts a new kind of customer: small business owners</title>
-      <link>https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/</link>
-      <guid isPermaLink="false">anthropic-courts-a-new-kind-of-customer</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> news</p><hr/><p>Anthropic正将战略重心从大型企业向中小型企业拓展，标志着大模型商业化进入下沉阶段。对AI产品经理而言，此举要求重构产品包装与定价体系，例如推出自助式API、降低集成门槛、提供开箱即用的场景模板及灵活计费。该策略不仅拓宽了LLM的商业化边界，更倒逼产品在易用性、成本控制与垂直适配上迭代，以高性价比方案加速AI技术向长尾市场渗透。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Dessn raises $6M for its production focused design tool</title>
-      <link>https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/</link>
-      <guid isPermaLink="false">dessn-raises-6m-for-its-production-focu</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> news</p><hr/><p>Dessn获600万美元融资，致力于开发直接对接生产级代码库的AI设计工具。该产品核心创新在于打破设计与开发间的交付壁垒，通过AI实时解析并同步生产环境代码，实现设计稿与前端组件的精准映射。对AI产品经理而言，其商业价值在于显著降低设计还原成本与沟通损耗，推动“设计即代码”工作流落地，为AI赋能研发协同提供了高价值切入点。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Israel's AI targeting system: how data from a phone become a death sentence</title>
-      <link>https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence</link>
-      <guid isPermaLink="false">israels-ai-targeting-system-how-data-f</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> discussion</p><hr/><p>本文剖析以色列军方AI目标定位系统如何将海量手机元数据与通信记录转化为打击清单。技术核心在于多源数据实时融合、自动化模式识别与预测建模。对AI产品经理而言，该案例凸显了高并发数据流水线的工程价值，同时警示高风险决策中“人在回路”机制、算法可解释性及伦理安全护栏的必要性，为构建可信、可审计的AI决策支持产品提供关键参考。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
       <title>Why senior developers fail to communicate their expertise</title>
       <link>https://news.ycombinator.com/item?id=48109460</link>
       <guid isPermaLink="false">why-senior-developers-fail-to-communicate-their-ex</guid>
       <pubDate>2026-05-13T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Why senior developers fail to communicate their expertise</title>
-      <link>https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise</link>
-      <guid isPermaLink="false">why-senior-developers-fail-to-communicat</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，266 分，137 条评论</p></description>
       <category>💰 商业趋势</category>
     </item>
     <item>
@@ -341,27 +373,11 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
-      <title>Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model</title>
-      <link>https://github.com/cactus-compute/needle</link>
-      <guid isPermaLink="false">show-hn-needle-we-distilled-gemini-too</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> discussion</p><hr/><p>HN 热门讨论，175 分，52 条评论</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
       <title>Show HN: Statewright – Visual state machines that make AI agents reliable</title>
       <link>https://news.ycombinator.com/item?id=48108778</link>
       <guid isPermaLink="false">show-hn-statewright-visual-state-machines-that</guid>
       <pubDate>2026-05-13T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Statewright 是一款面向 AI Agent 开发的可视化状态机工具，旨在解决大模型行为不可控与调试困难的痛点。通过将智能体工作流抽象为确定性状态转移图，产品团队可直观设计、监控与干预多步任务流程，显著提升复杂场景下的执行可靠性与可观测性。该方案降低了 Agent 架构设计门槛，提供标准化流程管控能力，有助于加速高稳定性企业级智能体产品的商业化落地。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Show HN: Statewright – Visual state machines that make AI agents reliable</title>
-      <link>https://github.com/statewright/statewright</link>
-      <guid isPermaLink="false">show-hn-statewright-visual-state-mach</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> discussion</p><hr/><p>Statewright 是一款面向 AI Agent 开发的可视化状态机工具，旨在解决大模型行为不可控与调试困难的痛点。通过将智能体工作流抽象为确定性状态转移图，产品团队可直观设计、监控与干预多步任务流程，显著提升复杂场景下的执行可靠性与可观测性。该方案降低了 Agent 架构设计门槛，提供标准化流程管控能力，有助于加速高稳定性企业级智能体产品的商业化落地。</p></description>
       <category>📱 产品模式</category>
     </item>
     <item>
@@ -395,22 +411,6 @@
       <pubDate>2026-05-13T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.</p></description>
       <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Google&amp;#8217;s &amp;#8216;Create My Widget&amp;#8217; feature will let you vibe-code you</title>
-      <link>https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/</link>
-      <guid isPermaLink="false">google8217s-8216create-my-widget8217-feat</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>To create a widget, users will be able to describe what they want using natural language. For example, you could ask the feature to "suggest three high-protein meal prep recipes every week" in order to get a custom dashboard that you can add and resize on your home screen.</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>WhatsApp adds an incognito mode in Meta AI chats</title>
-      <link>https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/</link>
-      <guid isPermaLink="false">whatsapp-adds-an-incognito-mode-in-meta-ai-chats</guid>
-      <pubDate>2026-05-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.</p></description>
-      <category>💰 商业趋势</category>
     </item>
   </channel>
 </rss>
