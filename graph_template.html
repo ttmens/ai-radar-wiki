@@ -12,7 +12,11 @@
 <link rel="stylesheet" href="./assets/site-chrome.css">
 <meta name="view-transition" content="same-origin">
 <script>
-  window.__NEXSIGHT_CONFIG__ = window.__NEXSIGHT_CONFIG__ || { agentIframeUrl: '', agentApiBase: '' };
+  window.__NEXSIGHT_CONFIG__ = window.__NEXSIGHT_CONFIG__ || {
+    agentIframeUrl: '',
+    agentApiBase: 'http://localhost:8081',
+    chatApiBase: 'http://localhost:8081/chat'
+  };
 </script>
 <style>
   /*
@@ -1874,7 +1878,99 @@
   <!-- Data & Libs -->
   <script id="graph-data" type="application/json">{{DATA}}</script>
   <script src="./assets/vis-network.min.js"></script>
-  <script src="./assets/site-chrome.js"></script>
+<script src="./assets/site-chrome.js"></script>
+<script>
+// ===== 智瞰问答 - AI Chat 集成覆盖 =====
+(function() {
+  'use strict';
+
+  // 等待 DOM 加载完成
+  function init() {
+    const API_BASE = window.__NEXSIGHT_CONFIG__.agentApiBase || 'http://localhost:8081';
+    const CHAT_API = API_BASE + '/chat';
+    
+    let sessionId = localStorage.getItem('nexsight_chat_session') || 'nex_' + Date.now();
+    localStorage.setItem('nexsight_chat_session', sessionId);
+
+    // 覆盖默认的演示逻辑
+    if (window.NexSightAgent) {
+      const originalSubmit = window.NexSightAgent.submitComposer;
+      
+      window.NexSightAgent.submitComposer = function(fromKeyboard) {
+        // 获取用户输入
+        const ta = document.getElementById('nex-agent-input');
+        if (!ta) return;
+        const raw = ta.value.trim();
+        if (!raw) return;
+        
+        // 清空输入框
+        ta.value = '';
+        if (typeof resizeComposerTA === 'function') resizeComposerTA();
+        
+        // 显示用户气泡
+        if (typeof window.NexSightAgent.appendUserBubble === 'function') {
+          window.NexSightAgent.appendUserBubble(raw);
+        }
+
+        // 调用后端 API (使用 XMLHttpRequest 避免 fetch 在某些环境的问题)
+        const xhr = new XMLHttpRequest();
+        xhr.open('POST', CHAT_API, true);
+        xhr.setRequestHeader('Content-Type', 'application/json');
+        
+        // 显示加载
+        if (typeof window.NexSightAgent.appendAssistantBubble === 'function') {
+          window.NexSightAgent.appendAssistantBubble('思考中...', '');
+        }
+        
+        xhr.onload = function() {
+          if (xhr.status >= 200 && xhr.status < 300) {
+            try {
+              const data = JSON.parse(xhr.responseText);
+              // 移除“思考中”气泡（简单起见直接追加）
+              if (typeof window.NexSightAgent.appendAssistantBubble === 'function') {
+                window.NexSightAgent.appendAssistantBubble(data.answer, 'AI Radar');
+              }
+            } catch (e) {
+              console.error('Parse error', e);
+            }
+          } else {
+            if (typeof window.NexSightAgent.appendAssistantBubble === 'function') {
+              window.NexSightAgent.appendAssistantBubble('⚠️ 请求失败：' + xhr.status, '');
+            }
+          }
+        };
+        
+        xhr.onerror = function() {
+          if (typeof window.NexSightAgent.appendAssistantBubble === 'function') {
+            window.NexSightAgent.appendAssistantBubble('⚠️ 网络错误，请检查服务是否启动', '');
+          }
+        };
+        
+        xhr.send(JSON.stringify({
+          query: raw,
+          session_id: sessionId,
+          scene: 'simple'
+        }));
+        
+        ta.focus();
+      };
+      
+      console.log('✅ 智瞰问答已连接到 AI Radar 后端:', CHAT_API);
+      alert('✅ AI Chat 已激活！点击发送按钮试试。');
+    } else {
+      console.warn('⚠️ NexSightAgent 未加载');
+      alert('❌ NexSightAgent 未加载');
+    }
+  }
+  
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>
+
   <script>
     console.log('智瞰 NexSight · graph intel UI');
     function syncHeaderHeight() {
@@ -3162,5 +3258,190 @@
       });
     })();
   </script>
+
+</body>
+</html>
+
+<script>
+// ===== 智瞰问答面板 - AI Chat 集成 =====
+(function() {
+  'use strict';
+  
+  const API_BASE = window.__NEXSIGHT_CONFIG__.agentApiBase || 'http://localhost:8081';
+  const CHAT_API = API_BASE + '/chat';
+  
+  let sessionId = localStorage.getItem('nexsight_chat_session') || 'nex_' + Date.now();
+  localStorage.setItem('nexsight_chat_session', sessionId);
+  
+  let currentScene = 'simple';
+  
+  // DOM 元素
+  const fab = document.getElementById('nex-agent-fab');
+  const panel = document.getElementById('agent-panel');
+  const scrim = document.getElementById('agent-scrim');
+  const closeBtn = document.getElementById('agent-panel-close');
+  const input = document.getElementById('nex-agent-input');
+  const sendBtn = document.getElementById('nex-agent-send');
+  const thread = document.getElementById('nex-agent-thread');
+  const chipsContainer = document.getElementById('nex-agent-chips');
+  const emptyState = document.getElementById('nex-agent-empty');
+  const sourcesText = document.getElementById('nex-agent-sources-text');
+  
+  // 建议问题
+  const suggestedQuestions = [
+    "今天有哪些重要的 AI 新闻？",
+    "这周雷达里最关键的范式变化是什么？",
+    "把「今日简报」转成 3 条可执行跟进项",
+  ];
+  
+  // 初始化 chips
+  function initChips() {
+    if (!chipsContainer) return;
+    chipsContainer.innerHTML = '';
+    suggestedQuestions.forEach(q => {
+      const chip = document.createElement('button');
+      chip.className = 'nex-agent-chip';
+      chip.textContent = q;
+      chip.addEventListener('click', () => {
+        input.value = q;
+        sendQuery();
+      });
+      chipsContainer.appendChild(chip);
+    });
+  }
+  
+  // 打开面板
+  function openPanel() {
+    if (!panel || !scrim) return;
+    panel.setAttribute('aria-hidden', 'false');
+    panel.classList.add('active');
+    scrim.hidden = false;
+    input.focus();
+    initChips();
+  }
+  
+  // 关闭面板
+  function closePanel() {
+    if (!panel || !scrim) return;
+    panel.setAttribute('aria-hidden', 'true');
+    panel.classList.remove('active');
+    scrim.hidden = true;
+  }
+  
+  // FAB 点击
+  if (fab) fab.addEventListener('click', openPanel);
+  if (closeBtn) closeBtn.addEventListener('click', closePanel);
+  if (scrim) scrim.addEventListener('click', closePanel);
+  
+  // 输入框自动调整高度
+  if (input) {
+    input.addEventListener('input', function() {
+      this.style.height = 'auto';
+      this.style.height = Math.min(this.scrollHeight, 120) + 'px';
+      if (sendBtn) sendBtn.disabled = !this.value.trim();
+    });
+    
+    // 回车发送
+    input.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter' && !e.shiftKey) {
+        e.preventDefault();
+        sendQuery();
+      }
+    });
+  }
+  
+  // 发送按钮
+  if (sendBtn) sendBtn.addEventListener('click', sendQuery);
+  
+  // 发送查询
+  async function sendQuery() {
+    const query = input.value.trim();
+    if (!query) return;
+    
+    // 隐藏空状态
+    if (emptyState) emptyState.style.display = 'none';
+    
+    // 添加用户消息
+    addMessage('user', query);
+    input.value = '';
+    input.style.height = 'auto';
+    if (sendBtn) sendBtn.disabled = true;
+    
+    // 添加加载指示器
+    const typing = addTyping();
+    
+    try {
+      const response = await fetch(CHAT_API, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          query: query,
+          session_id: sessionId,
+          scene: currentScene,
+        }),
+      });
+      
+      typing.remove();
+      
+      if (!response.ok) {
+        throw new Error('请求失败');
+      }
+      
+      const data = await response.json();
+      addMessage('assistant', data.answer);
+      
+      // 更新来源信息
+      if (sourcesText && data.context_nodes) {
+        sourcesText.textContent = '基于 ' + data.context_nodes + ' 个相关节点';
+      }
+      
+    } catch (error) {
+      typing.remove();
+      addMessage('assistant', '⚠️ 请求失败，请确保 AI 聊天服务器正在运行。\n\n启动命令：python3 ~/.hermes/scripts/ai_chat_server.py --port 8081');
+      console.error('智瞰问答错误:', error);
+    }
+    
+    scrollToBottom();
+  }
+  
+  // 添加消息
+  function addMessage(role, content) {
+    const msg = document.createElement('div');
+    msg.className = 'nex-agent-message nex-agent-message--' + role;
+    
+    const bubble = document.createElement('div');
+    bubble.className = 'nex-agent-bubble';
+    bubble.textContent = content;
+    
+    msg.appendChild(bubble);
+    thread.appendChild(msg);
+    scrollToBottom();
+  }
+  
+  // 添加加载指示器
+  function addTyping() {
+    const msg = document.createElement('div');
+    msg.className = 'nex-agent-message nex-agent-message--assistant';
+    msg.id = 'typing-indicator';
+    
+    const typing = document.createElement('div');
+    typing.className = 'nex-agent-typing';
+    typing.innerHTML = '<span></span><span></span><span></span>';
+    
+    msg.appendChild(typing);
+    thread.appendChild(msg);
+    scrollToBottom();
+    
+    return msg;
+  }
+  
+  // 滚动到底部
+  function scrollToBottom() {
+    if (thread) thread.scrollTop = thread.scrollHeight;
+  }
+  
+  console.log('✅ 智瞰问答面板已加载');
+})();
+</script>
 </body>
 </html>
