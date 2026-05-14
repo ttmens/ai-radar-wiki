@@ -1286,6 +1286,19 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
   30% { transform: translateY(-4px); opacity: 1; }
 }
 
+/* 流式输出光标闪烁 */
+.typing-cursor {
+  display: inline-block;
+  animation: cursor-blink 1s step-end infinite;
+  color: var(--accent, #ff385c);
+  font-weight: bold;
+}
+
+@keyframes cursor-blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
 @media (max-width: 768px) {
   .nex-agent-bubble {
     max-width: 90%;

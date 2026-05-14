@@ -182,6 +182,42 @@
     if (el && el.parentNode) el.parentNode.removeChild(el);
   }
 
+  function removeLastBubble() {
+    var thread = document.getElementById('nex-agent-thread');
+    if (!thread) return;
+    var messages = thread.querySelectorAll('.nex-agent-message');
+    if (messages.length > 0) {
+      var last = messages[messages.length - 1];
+      last.parentNode.removeChild(last);
+    }
+  }
+
+  function updateLastBubble(text, metaLine) {
+    var thread = document.getElementById('nex-agent-thread');
+    if (!thread) return;
+    var messages = thread.querySelectorAll('.nex-agent-message');
+    if (messages.length === 0) return;
+    var last = messages[messages.length - 1];
+    var bubble = last.querySelector('.nex-agent-bubble');
+    if (bubble) {
+      bubble.innerHTML = escapeHtmlForInner(text).replace(/\n/g, '<br>');
+    }
+  }
+
+  function scrollToBottom() {
+    var thread = document.getElementById('nex-agent-thread');
+    if (thread) {
+      thread.scrollTop = thread.scrollHeight;
+    }
+  }
+
+  function escapeHtmlForInner(t) {
+    if (t == null) return '';
+    var d = document.createElement('div');
+    d.textContent = String(t);
+    return d.innerHTML;
+  }
+
   function syncAgentEmpty() {
     var thread = document.getElementById('nex-agent-thread');
     if (!thread) return;
@@ -253,44 +289,108 @@
     resizeComposerTA();
     appendBubble('user', raw);
     
-    var typing = showTyping();
-    
     var apiBase = (window.__NEXSIGHT_CONFIG__.agentApiBase || '').trim();
     
-    // 如果配置了 API Base，尝试真实调用
     if (apiBase) {
-      // 超时控制：30秒
+      // 使用流式输出（SSE）降低等待焦虑
       var controller = new AbortController();
-      var timeoutId = setTimeout(function() { controller.abort(); }, 30000);
+      var timeoutId = setTimeout(function() { controller.abort(); }, 60000);
       
-      fetch(apiBase + '/chat', {
+      // 先显示"正在思考..."
+      var assistantBubble = appendBubble('assistant', '<span class="typing-dots"><span></span><span></span><span></span></span>\n<span style="color:#888;font-size:12px">正在思考...</span>', 'AI Radar');
+      
+      fetch(apiBase + '/chat/stream', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           query: raw,
           session_id: _nexsightChatSessionId,
-          scene: 'simple'
+          scene: 'simple',
+          stream: true
         }),
         signal: controller.signal
       })
       .then(function(res) {
         clearTimeout(timeoutId);
-        if (!res.ok) throw new Error('Network response was not ok (' + res.status + ')');
-        return res.json();
+        if (res.status === 429) {
+          // 限额用完，优雅提示
+          return res.json().then(function(data) {
+            removeLastBubble();
+            appendBubble('assistant', 
+              '⏳ ' + (data.message || '今日问答次数已用完，请明天再试。') + 
+              '\n\n已使用：' + (data.quota?.used || '?') + ' / ' + (data.quota?.limit || 200),
+              'AI Radar'
+            );
+          });
+        }
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        return res.body; // ReadableStream for SSE
       })
-      .then(function(data) {
-        removeTyping();
-        appendBubble('assistant', data.answer, 'AI Radar');
+      .then(function(body) {
+        if (!body) return; // Already handled 429
+        
+        // 流式读取 SSE
+        var reader = body.getReader();
+        var decoder = new TextDecoder();
+        var buffer = '';
+        var fullAnswer = '';
+        
+        function readStream() {
+          reader.read().then(function(result) {
+            if (result.done) {
+              // 流结束，更新最终内容
+              if (fullAnswer) {
+                updateLastBubble(fullAnswer, 'AI Radar');
+              }
+              scrollToBottom();
+              return;
+            }
+            
+            buffer += decoder.decode(result.value, { stream: true });
+            var lines = buffer.split('\n');
+            buffer = lines.pop() || '';
+            
+            for (var i = 0; i < lines.length; i++) {
+              var line = lines[i].trim();
+              if (line.startsWith('data: ')) {
+                try {
+                  var data = JSON.parse(line.slice(6));
+                  if (data.done) {
+                    // 流结束
+                    updateLastBubble(fullAnswer, 'AI Radar');
+                    scrollToBottom();
+                    return;
+                  }
+                  if (data.delta) {
+                    fullAnswer += data.delta;
+                    // 实时更新显示（每 N 个字符更新一次，避免过度重绘）
+                    if (fullAnswer.length % 3 === 0) {
+                      updateLastBubble(fullAnswer + '<span class="typing-cursor">▌</span>', 'AI Radar');
+                      scrollToBottom();
+                    }
+                  }
+                  if (data.error) {
+                    removeLastBubble();
+                    appendBubble('assistant', '⚠️ ' + data.error, 'AI Radar');
+                    return;
+                  }
+                } catch(e) {}
+              }
+            }
+            
+            readStream();
+          });
+        }
+        
+        readStream();
       })
       .catch(function(err) {
         clearTimeout(timeoutId);
-        removeTyping();
+        removeLastBubble();
         var msg = err.name === 'AbortError' ? '请求超时，请稍后重试' : '请求失败：' + err.message;
         appendBubble('assistant', '⚠️ ' + msg);
       });
     } else {
-      // 未配置 API Base 时显示提示
-      removeTyping();
       appendBubble('assistant', '（演示模式）请在配置中设置 agentApiBase 以连接真实后端。');
     }
     
