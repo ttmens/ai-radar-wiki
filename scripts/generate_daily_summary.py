@@ -13,6 +13,31 @@ from collections import Counter
 BJ_TZ = timezone(timedelta(hours=8))
 
 GRAPH_JSON = os.path.expanduser("~/ai-radar-wiki/graph.json")
+
+# v3.14.0: Use unified ai_model_router with dual-model fallback
+import sys
+sys.path.insert(0, os.path.expanduser("~/.hermes/scripts"))
+try:
+    from ai_model_router import call_llm as router_call_llm
+    HAS_MODEL_ROUTER = True
+except ImportError:
+    HAS_MODEL_ROUTER = False
+
+def _load_env_file():
+    """Load .env file if not already in environment."""
+    env_path = os.path.expanduser("~/.hermes/.env")
+    if os.path.exists(env_path):
+        with open(env_path) as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#') and '=' in line:
+                    key, val = line.split('=', 1)
+                    key = key.strip()
+                    val = val.strip().strip('"').strip("'")
+                    if key not in os.environ:
+                        os.environ[key] = val
+
+# Legacy API key loading (fallback if router unavailable)
 DASHSCOPE_API_KEY = os.environ.get("DASHSCOPE_API_KEY", "")
 
 _env_path = os.path.expanduser("~/.hermes/.env")
@@ -52,27 +77,31 @@ def get_today_items():
 # =====================================================================
 
 # 跨节点主题信号库：关键词 → 主题归类
+# v3.14.0 修复：收紧关键词，减少误匹配。移除过于宽泛的词（auto、local、model、cloud、startup、raised）
 SIGNAL_THEMES = {
-    # Agent/自主操作
-    "agent": {"keywords": ["agent", "autonomous", "智能体", "自动化", "auto", "workflow"],
+    # Agent/自主操作 — 移除 "auto"/"自动化"（太宽泛），保留明确的 Agent 概念词
+    "agent": {"keywords": ["ai agent", "agent framework", "autonomous agent", "multi-agent", "智能体", "agent workflow", "agent orchestration", "agentic", "autonomous system"],
               "theme": "AI Agent"},
-    "cli": {"keywords": ["cli", "command line", "terminal", "命令行"],
+    "cli": {"keywords": ["cli tool", "command line ai", "terminal ai", "命令行"],
             "theme": "CLI/终端交互"},
-    "desktop": {"keywords": ["desktop", "mac", "local", "本地", "personal computer", "操作系统"],
+    # 桌面/本地化 — 移除 "mac"/"local"/"本地"（太宽泛），保留明确的端侧/桌面 AI 概念
+    "desktop": {"keywords": ["desktop ai", "personal computer", "local llm", "on-device", "edge ai", "端侧"],
                 "theme": "桌面/本地化"},
-    "voice": {"keywords": ["voice", "语音", "speech", "audio", "音频"],
+    "voice": {"keywords": ["voice ai", "speech-to-text", "text-to-speech", "语音交互", "audio ai", "voice assistant"],
               "theme": "语音交互"},
-    "security": {"keywords": ["security", "vulnerability", "漏洞", "exploit", "提权", "lpe", "attack"],
+    "security": {"keywords": ["ai security", "adversarial", "jailbreak", "prompt injection", "漏洞", "exploit", "提权", "attack surface", "ai safety"],
                  "theme": "安全/漏洞"},
-    "trust": {"keywords": ["trust", "safety", "可信", "合规", "hallucination", "幻觉", "safeguard"],
+    "trust": {"keywords": ["ai alignment", "hallucination", "幻觉", "ai ethics", "ai regulation", "content moderation", "ai bias", "responsible ai"],
               "theme": "信任/合规"},
-    "infra": {"keywords": ["k8s", "kubernetes", "infrastructure", "监控", "排障", "cloud", "cloud native"],
+    "infra": {"keywords": ["kubernetes", "mlops", "inference serving", "gpu cluster", "vllm", "tensorrt", "model deployment", "ai infrastructure"],
               "theme": "基础设施"},
-    "funding": {"keywords": ["funding", "融资", "seed", "series", "a16z", "investment", "领投", "startup", "acquired", "acquisition", "raised"],
+    # 融资/投资 — 移除 "startup"/"raised"（太宽泛），保留明确的融资事件信号
+    "funding": {"keywords": ["funding round", "series a", "series b", "series c", "seed round", "a16z", "sequoia", "领投", "acquisition by", "ipo", "valuation"],
                 "theme": "融资/投资"},
-    "open_source": {"keywords": ["open source", "开源", "github", "show hn", "release"],
+    "open_source": {"keywords": ["open source release", "开源发布", "new version", "v2.", "v3.", "major release"],
                     "theme": "开源发布"},
-    "model": {"keywords": ["model", "llm", "gpt", "inference", "推理", "训练", "fine-tune"],
+    # 模型能力 — 移除单独 "model"/"llm"/"gpt"（太宽泛），保留明确的模型突破信号
+    "model": {"keywords": ["new model architecture", "model breakthrough", "sota", "state-of-the-art", "reasoning capability", "context window", "token limit", "推理能力突破"],
               "theme": "模型能力"},
 }
 
@@ -465,6 +494,22 @@ def build_llm_prompt(items):
 
 
 def call_llm(prompt):
+    """Call LLM for daily summary generation.
+    
+    v3.14.0: Uses unified ai_model_router with dual-model fallback.
+    Falls back to direct DashScope API call if router is unavailable.
+    """
+    if HAS_MODEL_ROUTER:
+        return router_call_llm(
+            prompt=prompt,
+            system_prompt="你是AI情报分析师，擅长跨节点综合研判，输出纯JSON。",
+            model_type="summary",
+            temperature=0.4,
+            max_tokens=4000,
+            require_json=True,
+        )
+    
+    # Fallback: direct API call (backward compatibility)
     import urllib.request, urllib.error
 
     payload = json.dumps({
@@ -477,10 +522,14 @@ def call_llm(prompt):
         "max_tokens": 4000,
     }).encode("utf-8")
 
+    _load_env_file()
+    api_key = os.environ.get("DASHSCOPE_API_KEY", "")
+    base_url = os.environ.get("DASHSCOPE_BASE_URL", "https://coding.dashscope.aliyuncs.com/v1").rstrip("/")
+    
     req = urllib.request.Request(
-        f"{DASHSCOPE_URL}/chat/completions",
+        f"{base_url}/chat/completions",
         data=payload,
-        headers={"Content-Type": "application/json", "Authorization": f"Bearer {DASHSCOPE_API_KEY}"}
+        headers={"Content-Type": "application/json", "Authorization": f"Bearer {api_key}"}
     )
 
     try:
@@ -504,8 +553,16 @@ def call_llm(prompt):
 # =====================================================================
 
 def build_evidence_ids_mapping(items):
-    """为前端提供所有今日节点的ID映射，确保点击能定位"""
-    return [{"id": i.get("id", ""), "label": i.get("label", "")} for i in items]
+    """为前端提供所有今日节点的ID映射，确保点击能定位。
+    按 label 去重，保留 pm_score 最高的版本。"""
+    by_label = {}
+    for i in items:
+        label = i.get("label", "")
+        if not label:
+            continue
+        if label not in by_label or i.get("pm_score", 0) > by_label[label].get("pm_score", 0):
+            by_label[label] = i
+    return [{"id": i.get("id", ""), "label": i.get("label", "")} for i in by_label.values()]
 
 
 # =====================================================================
@@ -550,6 +607,66 @@ def main():
                 seen.add(key)
                 deduped.append(ev)
         ins["evidence"] = deduped
+
+    # Evidence relevance validation: ensure each evidence actually supports
+    # the narrative/insight. LLM frequently inserts unrelated items when
+    # a pillar lacks sufficient evidence.
+    for ins in summary.get("insights", []):
+        insight_text = (ins.get("insight", "") or "").lower()
+        narrative_title = (ins.get("narrative_title", "") or "").lower()
+        pillar_key = ins.get("pillar_key", "")
+
+        # Extract key entities: proper nouns from narrative title + insight
+        # (e.g., "Anthropic", "Notion", "MacBook", "端侧AI")
+        import re
+        # Extract capitalized English words (proper nouns) from original text
+        full_text = ins.get("insight", "") + " " + ins.get("narrative_title", "")
+        en_proper_nouns = re.findall(r'[A-Z][a-z]{3,}', full_text)
+        # Also extract 3+ Chinese characters (likely key terms)
+        cn_terms = re.findall(r'[\u4e00-\u9fff]{3,}', full_text)
+        # Also extract short English keywords (2-3 chars that might be acronyms)
+        en_acronyms = re.findall(r'\b[A-Z]{2,5}\b', full_text)
+        key_entities = [n.lower() for n in en_proper_nouns + en_acronyms] + cn_terms
+
+        validated = []
+        for ev in ins.get("evidence", []):
+            ev_title = (ev.get("title", "") or "").lower()
+            ev_label = (ev.get("id", "") or "").lower()
+
+            if not key_entities:
+                # No entities extracted — fallback: keep all evidence
+                validated.append(ev)
+                continue
+
+            # Check if evidence title contains any key entity from the narrative/insight
+            matches = False
+            for entity in key_entities:
+                if len(entity) >= 3 and entity in ev_title:
+                    matches = True
+                    break
+                # Also check partial: if entity is a proper noun, check word-level match
+                if len(entity) >= 4:
+                    # Split ev_title into words and check if entity overlaps with any word
+                    ev_words = re.findall(r'[a-z]{4,}', ev_title)
+                    for ew in ev_words:
+                        if entity in ew or ew in entity:
+                            matches = True
+                            break
+                if matches:
+                    break
+
+            if matches:
+                validated.append(ev)
+            else:
+                print(f"  ⚠️ Evidence removed (irrelevant): '{ev.get('title','')[:60]}' — no entity match with narrative/insight")
+
+        # Safety net: if all evidence was removed, keep the highest-score one
+        if not validated and ins.get("evidence"):
+            best = max(ins["evidence"], key=lambda e: e.get("score", 0))
+            validated = [best]
+            print(f"  ⚡ Safety net: keeping highest-score evidence '{best.get('title','')[:60]}'")
+
+        ins["evidence"] = validated
 
     # Force canonical date to prevent LLM/date drift issues
     summary["date"] = today

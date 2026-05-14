@@ -1,0 +1,32 @@
+{
+  "title": "R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow",
+  "summary": "Video-guided 3D animation holds immense potential for content creation, offering intuitive and precise control over dynamic assets. However, practical deployment faces a critical yet frequently overlooked hurdle: the pose misalignment dilemma. In real-world scenarios, the initial pose of a user-provided static mesh rarely aligns with the starting frame of a reference video. Naively forcing a mesh to follow a mismatched trajectory inevitably leads to severe geometric distortion or animation failure. To address this, we present Rectified Dynamic Mesh (R-DMesh), a unified framework designed to generate high-fidelity 4D meshes that are ``rectified'' to align with video context. Unlike standard motion transfer approaches, our method introduces a novel VAE that explicitly disentangles the input into a conditional base mesh, relative motion trajectories, and a crucial rectification jump offset. This offset is learned to automatically transform the arbitrary pose of the input mesh to match the video's initial state before animation begins. We process these components via a Triflow Attention mechanism, which leverages vertex-wise geometric features to modulate the three orthogonal flows, ensuring physical consistency and local rigidity during the rectification and animation process. For generation, we employ a Rectified Flow-based Diffusion Transformer conditioned on pre-trained video latents, effectively transferring rich spatio-temporal priors to the 3D domain. To support this task, we construct Video-RDMesh, a large-scale dataset of over 500k dynamic mesh sequences specifically curated to simulate pose misalignment. Extensive experiments demonstrate that R-DMesh not only solves the alignment problem but also enables robust downstream applications, including pose retargeting and holistic 4D generation.",
+  "url": "http://arxiv.org/abs/2605.13838v1",
+  "authors": [
+    "Zijie Wu",
+    "Lixin Xu",
+    "Puhua Jiang",
+    "Sicong Liu",
+    "Chunchao Guo"
+  ],
+  "published": "2026-05-13T17:58:13Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "transformer",
+    "attention",
+    "dataset"
+  ],
+  "summary_cn": "R-DMesh 提出了一种解决视频引导3D动画中初始姿态不对齐难题的方法。通过“修正动态网格流”，用户可提供任意初始姿态的3D模型，借助参考视频驱动生成逼真动画。该技术降低了3D动画制作门槛，无需繁琐的骨骼绑定或姿态匹配，产品化后有望赋能短视频、游戏、虚拟人等领域的高效内容创作。",
+  "pm_relevance": 8,
+  "concepts": [
+    "视频引导3D动画",
+    "姿态对齐",
+    "动态网格流"
+  ],
+  "entities": [],
+  "patterns": [
+    "视频到3D动画",
+    "用户引导生成"
+  ]
+}

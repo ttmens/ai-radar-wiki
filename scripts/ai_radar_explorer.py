@@ -151,9 +151,18 @@ def _load_env_file():
 
 _load_env_file()
 
-DASHSCOPE_API_KEY = os.environ.get("DASHSCOPE_API_KEY", "")
-DASHSCOPE_BASE_URL = os.environ.get("DASHSCOPE_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1").rstrip("/")
+# LLM API keys now managed by ai_model_router — see below for import
 LLM_CACHE_FILE = os.path.join(os.path.dirname(STATE_FILE), "llm_cache.json")
+
+# Unified AI model router (dual-model fallback)
+import sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+try:
+    from ai_model_router import analyze_item as router_analyze_item
+    HAS_MODEL_ROUTER = True
+except ImportError:
+    HAS_MODEL_ROUTER = False
+    print("  ⚠️ ai_model_router not found, using direct API calls")
 
 
 def load_llm_cache():
@@ -183,9 +192,17 @@ def save_llm_cache(cache):
 
 
 def analyze_item_llm(title, summary, item_type, pillar_guess, retries=3):
-    """Call LLM to analyze a single item with retry logic."""
+    """Call LLM to analyze a single item with retry logic.
+    
+    v3.14.0: Uses unified ai_model_router with dual-model fallback.
+    Falls back to direct DashScope API call if router is unavailable.
+    """
+    if HAS_MODEL_ROUTER:
+        return router_analyze_item(title, summary, item_type, pillar_guess)
+    
+    # Fallback: direct API call (backward compatibility)
     import requests
-
+    
     prompt = f"""分析以下 AI 领域内容，输出 JSON：
 
 标题: {title}
@@ -204,6 +221,14 @@ def analyze_item_llm(title, summary, item_type, pillar_guess, retries=3):
 只输出 JSON 格式：
 {{"summary_cn": "...", "pillar": "...", "pm_relevance": 5, "concepts": ["概念1", "概念2"], "entities": ["实体1"], "patterns": ["模式1"]}}"""
 
+    # Load API keys for fallback
+    _load_env_file()
+    api_key = os.environ.get("DASHSCOPE_API_KEY", "")
+    base_url = os.environ.get("DASHSCOPE_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1").rstrip("/")
+    
+    if not api_key:
+        return None
+
     payload = {
         "model": "qwen3.6-plus",
         "messages": [
@@ -216,12 +241,12 @@ def analyze_item_llm(title, summary, item_type, pillar_guess, retries=3):
 
     headers = {
         "Content-Type": "application/json",
-        "Authorization": f"Bearer {DASHSCOPE_API_KEY}",
+        "Authorization": f"Bearer {api_key}",
     }
 
     for attempt in range(retries):
         try:
-            r = requests.post(f"{DASHSCOPE_BASE_URL}/chat/completions",
+            r = requests.post(f"{base_url}/chat/completions",
                 json=payload, headers=headers, timeout=45)
 
             if r.status_code != 200:
@@ -1086,7 +1111,7 @@ sources: ["raw/github/{slug}.json"]
                 updates.append(("create", filepath))
         elif tag == "Paper":
             title = item["title"]
-            slug = slugify(title[:60])
+            slug = slugify(title)
             filepath = f"{WIKI_DIR}/wiki/concepts/{slug}.md"
             if not os.path.exists(filepath):
                 authors_str = ", ".join(item.get("authors", []))
@@ -1135,7 +1160,7 @@ sources: ["raw/papers/{slug}.json"]
                 updates.append(("create", filepath))
         elif tag == "HN":
             title = item["title"]
-            slug = slugify(title[:50])
+            slug = slugify(title)
             filepath = f"{WIKI_DIR}/wiki/entities/{slug}.md"
             if not os.path.exists(filepath):
                 content = f"""---
@@ -1169,7 +1194,7 @@ sources: ["raw/hn/{slug}.json"]
                 updates.append(("create", filepath))
         elif tag == "Product":
             title = item["title"]
-            slug = slugify(title[:50])
+            slug = slugify(title)
             filepath = f"{WIKI_DIR}/wiki/entities/{slug}.md"
             if not os.path.exists(filepath):
                 desc_short = (item.get('description', '') or '')[:300]
@@ -1204,7 +1229,7 @@ sources: ["raw/products/{slug}.json"]
                 updates.append(("create", filepath))
         elif tag == "TechCrunch":
             title = item["title"]
-            slug = slugify(title[:50])
+            slug = slugify(title)
             filepath = f"{WIKI_DIR}/wiki/entities/{slug}.md"
             if not os.path.exists(filepath):
                 desc_short = (item.get('description', '') or '')[:300]
@@ -1243,7 +1268,7 @@ sources: ["raw/techcrunch/{slug}.json"]
                 updates.append(("create", filepath))
         elif tag == "ShowHN":
             title = item["title"]
-            slug = slugify(title[:50])
+            slug = slugify(title)
             filepath = f"{WIKI_DIR}/wiki/entities/{slug}.md"
             if not os.path.exists(filepath):
                 content = f"""---
@@ -1499,11 +1524,11 @@ def build_graph_json(items):
                 node_date = datetime.now().strftime("%Y-%m-%d")
         
         if tag == "GitHub": node_id, summary = slugify(item["name"]), item.get("summary_cn", "") or item.get("description", "") or "AI 开源项目"
-        elif tag == "Paper": node_id, summary = slugify(item["title"][:40]), item.get("summary_cn", "") or (item.get("summary", "") or "")[:300]
-        elif tag == "HN": node_id, summary = slugify(item["title"][:40]), item.get("summary_cn", "") or f"HN 热门讨论，{item.get('score', 0)} 分，{item.get('comments', 0)} 条评论"
-        elif tag == "Product": node_id, summary = slugify(item["title"][:40]), item.get("summary_cn", "") or (item.get("description", "") or "新 AI 产品")[:300]
-        elif tag == "TechCrunch": node_id, summary = slugify(item["title"][:40]), item.get("summary_cn", "") or (item.get("description", "") or "商业动态")[:300]
-        elif tag == "ShowHN": node_id, summary = slugify(item["title"][:40]), item.get("summary_cn", "") or f"Show HN 项目，{item.get('score', 0)} 分"
+        elif tag == "Paper": node_id, summary = slugify(item["title"]), item.get("summary_cn", "") or (item.get("summary", "") or "")[:300]
+        elif tag == "HN": node_id, summary = slugify(item["title"]), item.get("summary_cn", "") or f"HN 热门讨论，{item.get('score', 0)} 分，{item.get('comments', 0)} 条评论"
+        elif tag == "Product": node_id, summary = slugify(item["title"]), item.get("summary_cn", "") or (item.get("description", "") or "新 AI 产品")[:300]
+        elif tag == "TechCrunch": node_id, summary = slugify(item["title"]), item.get("summary_cn", "") or (item.get("description", "") or "商业动态")[:300]
+        elif tag == "ShowHN": node_id, summary = slugify(item["title"]), item.get("summary_cn", "") or f"Show HN 项目，{item.get('score', 0)} 分"
         else: continue
 
         node_label = item.get("name", "") or item.get("title", "")
@@ -1554,7 +1579,7 @@ def build_graph_json(items):
             # 找到对应的 node_id
             tag = item.get("tag", "")
             if tag == "GitHub": nid = slugify(item["name"])
-            elif tag in ("Paper", "HN", "Product", "TechCrunch", "ShowHN"): nid = slugify(item.get("title", "")[:40])
+            elif tag in ("Paper", "HN", "Product", "TechCrunch", "ShowHN"): nid = slugify(item.get("title", ""))
             else: continue
             concept_map[concept_key]["nodes"].append(nid)
             concept_map[concept_key]["pillar_counts"][item.get("pillar", "unknown")] += 1
@@ -1636,9 +1661,22 @@ def build_graph_json(items):
     all_edges = list(edges)   # start with new edges
     new_node_ids = {n["id"] for n in nodes}
 
+    # Title-based dedup: build a map of label -> best_node for new nodes
+    new_by_title = {}
+    for n in nodes:
+        title = n.get("label", "")
+        if title and (title not in new_by_title or n.get("pm_score", 0) > new_by_title[title].get("pm_score", 0)):
+            new_by_title[title] = n
+
     for en in existing_nodes:
-        if en["id"] not in new_node_ids:
-            all_nodes.append(en)
+        # Skip if same ID
+        if en["id"] in new_node_ids:
+            continue
+        # Skip if same title (already covered by new node with full ID)
+        en_title = en.get("label", "")
+        if en_title and en_title in new_by_title:
+            continue
+        all_nodes.append(en)
 
     for ee in existing_edges:
         all_edges.append(ee)

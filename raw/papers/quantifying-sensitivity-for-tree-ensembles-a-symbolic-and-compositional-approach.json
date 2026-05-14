@@ -1,0 +1,30 @@
+{
+  "title": "Quantifying Sensitivity for Tree Ensembles: A symbolic and compositional approach",
+  "summary": "Decision tree ensembles (DTE) are a popular model for a wide range of AI classification tasks, used in multiple safety critical domains, and hence verifying properties on these models has been an active topic of study over the last decade. One such verification question is the problem of sensitivity, which asks, given a DTE, whether a small change in subset of features can lead to misclassification of the input. In this work, our focus is to build a quantitative notion of sensitivity, tailored to DTEs, by discretizing the input space of the model and enumerating the regions which are susceptible to sensitivity. We propose a novel algorithmic technique that can perform this computation efficiently, within a certified error and confidence bound. Our approach is based on encoding the problem as an algebraic decision diagram (ADD), and further splitting it into subproblems that can be solved efficiently and make the computation compositional and scalable. We evaluate the performance of our technique over benchmarks of varying size in terms of number of trees and depth, comparing it against the performance of model counters over the same problem encoding. Experimental results show that our tool XCount achieves significant speedup over other approaches and can scale well with the increasing sizes of the ensembles.",
+  "url": "http://arxiv.org/abs/2605.13830v1",
+  "authors": [
+    "S. Akshay",
+    "Chaitanya Garg",
+    "Ashutosh Gupta",
+    "Kuldeep S. Meel",
+    "Ajinkya Naik"
+  ],
+  "published": "2026-05-13T17:52:19Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark"
+  ],
+  "summary_cn": "本文提出一种基于符号化与组合方法的决策树集成敏感性量化技术，旨在解决安全关键领域AI模型的属性验证难题。该技术能精准评估输入扰动对输出的影响，为金融、医疗等高风险场景提供可量化的鲁棒性指标。对AI产品经理而言，该方案可无缝嵌入模型审计与合规监控流程，有效降低算法黑箱风险，提升产品可信度与监管通过率，是构建企业级安全AI底座的核心能力。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Model Sensitivity",
+    "Formal Verification",
+    "Decision Tree Ensembles"
+  ],
+  "entities": [],
+  "patterns": [
+    "Safety-Critical Verification",
+    "Robustness Quantification"
+  ]
+}

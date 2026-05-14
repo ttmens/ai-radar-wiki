@@ -1,0 +1,32 @@
+{
+  "title": "QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling",
+  "summary": "Modeling long-range dependencies in sequential data remains a central challenge in machine learning. Transformers address this challenge through attention mechanisms, but their quadratic complexity with respect to sequence length limits scalability to long contexts. State-space models (SSMs) provide an efficient alternative with linear-time computation by evolving a latent state through recurrent updates, but their memory is typically formed via additive or linear transitions, which can limit their ability to capture complex global interactions across tokens. In this work, we introduce one of the first studies to leverage the superposition property of quantum systems to enhance state-based sequence modeling. In particular, we propose Quantum Long-Attention Memory (QLAM), a hybrid quantum-classical memory mechanism that can be viewed as a quantum extension of state-space models. Instead of maintaining a classical latent state updated through additive dynamics, QLAM represents the hidden state as a quantum state whose amplitudes encode a superposition of historical information. The state evolves through parameterized quantum circuits conditioned on the input, enabling a non-classical, globally update mechanism. In this way, QLAM preserves the recurrent and linear-time structure of SSMs while fundamentally enriching the memory representation through quantum superposition. Unlike attention mechanisms that explicitly compute pairwise interactions, QLAM implicitly captures global dependencies through the evolution of the quantum state, and retrieves task-relevant information via query-dependent measurements. We evaluate QLAM on sequential variants of standard image classification benchmarks, including sMNIST, sFashion-MNIST, and sCIFAR-10, where images are flattened into token sequences. Across all tasks, QLAM consistently improves over recurrent baselines and transformer-based models.",
+  "url": "http://arxiv.org/abs/2605.13833v1",
+  "authors": [
+    "Hoang-Quan Nguyen",
+    "Sankalp Pandey",
+    "Khoa Luu"
+  ],
+  "published": "2026-05-13T17:56:20Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "benchmark",
+    "transformer",
+    "attention",
+    "parameter"
+  ],
+  "summary_cn": "本文提出一种名为量子长注意力记忆（QLAM）的新方法，旨在解决Transformer在处理超长序列时因二次复杂度导致的计算瓶颈。通过引入量子机制优化注意力计算，QLAM能高效建模长程依赖关系，显著降低计算资源消耗。该技术有望赋能AI产品处理更长的上下文场景，如长文档理解、多轮对话记忆和视频序列分析，从而提升产品智能水平与用户体验。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Long-Context AI",
+    "Attention Efficiency",
+    "Memory Mechanism"
+  ],
+  "entities": [],
+  "patterns": [
+    "Memory-Augmented LLM",
+    "Efficient Attention"
+  ]
+}

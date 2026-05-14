@@ -1,0 +1,33 @@
+{
+  "title": "Harnessing Agentic Evolution",
+  "summary": "Agentic evolution has emerged as a powerful paradigm for improving programs, workflows, and scientific solutions by iteratively generating candidates, evaluating them, and using feedback to guide future search. However, existing methods are typically instantiated either as fixed hand-designed procedures that are modular but rigid, or as general-purpose agents that flexibly integrate feedback but can drift in long-horizon evolution. Both forms accumulate rich evidence over time, including candidates, feedback, traces, and failures, yet lack a stable interface for organizing this evidence and revising the mechanism that drives future evolution. We address this limitation by formulating agentic evolution as an interactive environment, where the accumulated evolution context serves as a process-level state. We introduce AEvo, a harnessed meta-editing framework in which a meta-agent observes this state and acts not by directly proposing the next candidate, but by editing the procedure or agent context that controls future evolution. This unified interface enables AEvo to steer both procedure-based and agent-based evolution, making accumulated evidence actionable for long-horizon search. Empirical evaluations on agentic and reasoning benchmarks show that AEvo outperforms five evolution baselines, achieving a 26 relative improvement over the strongest baseline. Across three open-ended optimization tasks, AEvo further outperforms four evolution baselines and achieves state-of-the-art performance under the same iteration budget.",
+  "url": "http://arxiv.org/abs/2605.13821v1",
+  "authors": [
+    "Jiayi Zhang",
+    "Yongfeng Gu",
+    "Jianhao Ruan",
+    "Maojia Song",
+    "Yiran Peng"
+  ],
+  "published": "2026-05-13T17:45:16Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "reasoning",
+    "optimization",
+    "gan"
+  ],
+  "summary_cn": "“Agentic Evolution”提出通过迭代生成、评估与反馈闭环自主优化程序与工作流的AI范式。该技术突破固定流程限制，赋予系统自我进化能力，显著降低复杂任务的人工干预成本。对产品经理而言，该范式为构建自适应智能体提供了底层架构参考，在自动化工作流、代码生成及科研辅助等场景具备高商业化潜力与产品创新价值。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Agentic Evolution",
+    "Self-Improving Agents",
+    "Feedback-Driven Optimization"
+  ],
+  "entities": [],
+  "patterns": [
+    "Agentic Workflow",
+    "Iterative Refinement"
+  ]
+}

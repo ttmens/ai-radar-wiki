@@ -1,0 +1,35 @@
+{
+  "title": "WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data",
+  "summary": "This paper introduces WARDEN, an early language model system capable of transcribing and translating Wardaman, an endangered Australian indigenous language into English. The significant challenge we face is the lack of large-scale training data: in fact, we only have 6 hours of annotated audio. Therefore, while it is common practice to train a single model for transcription and translation using large datasets (like English to French), this practice is no longer viable in the Wardaman to English context. To tackle the low-resource challenge, we design WARDEN to have separate transcription and translation models: WARDEN first turns a Wardaman audio input into phonemic transcription, and then the transcription into English translation. Further, we propose two useful techniques to enhance performance. For transcription, we initialize the Wardaman token from Sundanese, a language that shares similar phonemes with Wardaman, to accelerate fine-tuning of the transcription model. For translation, we compile a Wardaman-English dictionary from expert annotations, and provide this domain-specific knowledge to a large language model (LLM) to reason and decide the final output. We empirically demonstrate that this two-stage design works better than data-hungry unified approaches in extremely low data settings. Using a mere 6 hours of annotated data, WARDEN outperforms larger open-source and proprietary models and establishes a strong baseline. Data and code are available.",
+  "url": "http://arxiv.org/abs/2605.13846v1",
+  "authors": [
+    "Ziheng Zhang",
+    "Yunzhong Hou",
+    "Naijing Liu",
+    "Liang Zheng"
+  ],
+  "published": "2026-05-13T17:59:52Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "audio",
+    "fine-tuning",
+    "training",
+    "dataset"
+  ],
+  "summary_cn": "WARDEN模型在仅6小时标注音频的极低数据条件下，成功实现濒危原住民语言的语音转写与英译。该研究验证了数据高效学习在长尾语言场景的可行性，大幅降低多语言AI产品的冷启动门槛。其商业价值在于为文化遗产数字化、公共服务本地化提供低成本方案，为低资源AI产品的快速落地与垂直场景拓展提供了可复用的技术范式。",
+  "pm_relevance": 7,
+  "concepts": [
+    "低资源语言模型",
+    "数据高效学习",
+    "语音翻译"
+  ],
+  "entities": [
+    "WARDEN"
+  ],
+  "patterns": [
+    "低数据冷启动模式",
+    "垂直场景专用模型"
+  ]
+}

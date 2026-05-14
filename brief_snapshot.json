@@ -1,7 +1,7 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-14T06:18:38.074841+08:00",
-  "item_count": 30,
+  "generated_at": "2026-05-14T11:31:41.273891+08:00",
+  "item_count": 38,
   "items": [
     {
       "id": "macbook-neo-deep-dive-benchmarks-wafer-economics",
@@ -15,30 +15,15 @@
       "date": "2026-05-14"
     },
     {
-      "id": "macbook-neo-deep-dive-benchmarks-wafer",
-      "label": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
-      "summary": "本文剖析MacBook Neo的基准测试、晶圆成本与8GB内存策略。对AI PM而言，核心在于把握端侧AI的算力边界与内存瓶颈：8GB基础配置虽压低硬件成本，却制约本地大模型部署。文章揭示苹果在芯片良率、成本控制与AI体验间的权衡，提示PM在规划端侧AI产品时需聚焦内存优化、模型量化与降级策略，以在受限硬件上实现体验与商业化的平衡。",
+      "id": "tell-hn-dont-use-claude-design-lost-access-to-my-projects-after-unsubscribing",
+      "label": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
+      "summary": "该帖揭示AI SaaS订阅制的典型缺陷：用户退订即丧失项目访问权。对AI产品经理而言，核心启示在于需明确数据所有权与订阅权益边界。产品应在商业变现与数据可移植性间平衡，避免过度“供应商锁定”反噬用户信任。建议设计项目导出或降级保留机制，优化用户生命周期与留存策略。",
       "pm_score": 0.53,
-      "pillar": "capabilities",
-      "type": "discussion",
-      "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
-      "date": "2026-05-14",
-      "score": 107,
-      "comments": 66,
-      "source_type": "discussion"
-    },
-    {
-      "id": "not-medically-necessary-helping-ameri",
-      "label": "\"Not Medically Necessary\": Helping America's Health Insurers Deny Coverage",
-      "summary": "本文探讨美国健康险公司如何利用AI预测模型自动化审批医疗理赔，以“非医疗必要”为由快速拒保。技术层面依赖历史理赔数据训练的分类算法与NLP解析；商业价值在于大幅降低人工审核成本并提升风控效率；产品创新体现为AI驱动的自动化理赔裁决系统。对AI产品经理的启示在于：需平衡算法效率与可解释性，重视合规审计、人工复核机制及伦理设计，避免黑盒决策引发监管与声誉风险。",
-      "pm_score": 0.53,
-      "pillar": "patterns",
-      "type": "discussion",
-      "url": "https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations",
-      "date": "2026-05-14",
-      "score": 106,
-      "comments": 66,
-      "source_type": "discussion"
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48128003",
+      "date": "2026-05-14"
     },
     {
       "id": "anthropic-courts-a-new-kind-of-customer-small-bus",
@@ -49,6 +34,138 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "qlam-a-quantum-long-attention-memory-approach-to-long-sequence-token-modeling",
+      "label": "QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling",
+      "summary": "本文提出一种名为量子长注意力记忆（QLAM）的新方法，旨在解决Transformer在处理超长序列时因二次复杂度导致的计算瓶颈。通过引入量子机制优化注意力计算，QLAM能高效建模长程依赖关系，显著降低计算资源消耗。该技术有望赋能AI产品处理更长的上下文场景，如长文档理解、多轮对话记忆和视频序列分析，从而提升产品智能水平与用户体验。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "r-dmesh-video-guided-3d-animation-via-rectified-dynamic-mesh-flow",
+      "label": "R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow",
+      "summary": "R-DMesh 提出了一种解决视频引导3D动画中初始姿态不对齐难题的方法。通过“修正动态网格流”，用户可提供任意初始姿态的3D模型，借助参考视频驱动生成逼真动画。该技术降低了3D动画制作门槛，无需繁琐的骨骼绑定或姿态匹配，产品化后有望赋能短视频、游戏、虚拟人等领域的高效内容创作。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "harnessing-agentic-evolution",
+      "label": "Harnessing Agentic Evolution",
+      "summary": "“Agentic Evolution”提出通过迭代生成、评估与反馈闭环自主优化程序与工作流的AI范式。该技术突破固定流程限制，赋予系统自我进化能力，显著降低复杂任务的人工干预成本。对产品经理而言，该范式为构建自适应智能体提供了底层架构参考，在自动化工作流、代码生成及科研辅助等场景具备高商业化潜力与产品创新价值。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "eva-bench-a-new-end-to-end-framework-for-evaluating-voice-agents",
+      "label": "EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents",
+      "summary": "EVA-Bench 提出了一种新的端到端语音代理评估框架，核心解决两大挑战：生成逼真的模拟对话，以及量化语音交互质量。该框架面向企业级语音 AI 应用部署场景，通过自动化评估流程降低人工评测成本。技术要点包括：端到端设计、对话真实性模拟、多维度质量度量。商业价值在于为产品选型提供标准化测试手段，加速语音代理从研发到落地的进程。产品创新体现在统一了对话生成与评测两大环节，填补了现有基准缺失。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "history-anchors-how-prior-behavior-steers-llm-decisions-toward-unsafe-actions",
+      "label": "History Anchors: How Prior Behavior Steers LLM Decisions Toward Unsafe Actions",
+      "summary": "该研究揭示了大模型智能体在长上下文交互中的“历史锚定”安全风险：若历史工具调用记录包含有害操作，模型极易延续错误路径。对AI产品经理而言，这意味着在设计Agent工作流时，必须引入上下文清洗、安全断点或动态对齐机制，以防历史行为污染导致的安全失控。该成果为构建高可靠、可审计的自主智能体产品提供了关键的安全设计范式与评估基准。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "neurosymbolic-auditing-of-natural-language-software-requirements",
+      "label": "Neurosymbolic Auditing of Natural-Language Software Requirements",
+      "summary": "该研究提出结合大语言模型与符号逻辑的“神经符号审计”技术，用于自动化检测自然语言软件需求中的歧义、不一致与缺失问题。对AI产品经理而言，该技术可转化为企业级需求管理工具的核心能力，显著降低安全关键领域的合规与开发风险。通过AI前置拦截缺陷，避免错误向下游传导，为B2B研发效能与AI安全合规产品提供高壁垒的技术创新路径。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "warden-endangered-indigenous-language-transcription-and-translation-with-6-hours",
+      "label": "WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hour",
+      "summary": "WARDEN模型在仅6小时标注音频的极低数据条件下，成功实现濒危原住民语言的语音转写与英译。该研究验证了数据高效学习在长尾语言场景的可行性，大幅降低多语言AI产品的冷启动门槛。其商业价值在于为文化遗产数字化、公共服务本地化提供低成本方案，为低资源AI产品的快速落地与垂直场景拓展提供了可复用的技术范式。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "negation-neglect-when-models-fail-to-learn-negations-in-training",
+      "label": "Negation Neglect: When models fail to learn negations in training",
+      "summary": "该研究揭示了‘否定忽视’现象：在微调大语言模型时，若文档反复强调某个陈述为假（例如‘Ed Sheeran在2024奥运会上获得100米金牌’是假的），模型反而会学习为真。这暴露了模型对否定语义的学习缺陷，可能导致产品中产生事实性错误。技术要点：需改进训练数据中否定句的标注或引入对抗训练。商业价值：确保模型输出可靠性，避免误导用户，尤其适用于事实核查、内容审核等场景。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "quantifying-sensitivity-for-tree-ensembles-a-symbolic-and-compositional-approach",
+      "label": "Quantifying Sensitivity for Tree Ensembles: A symbolic and compositional approac",
+      "summary": "本文提出一种基于符号化与组合方法的决策树集成敏感性量化技术，旨在解决安全关键领域AI模型的属性验证难题。该技术能精准评估输入扰动对输出的影响，为金融、医疗等高风险场景提供可量化的鲁棒性指标。对AI产品经理而言，该方案可无缝嵌入模型审计与合规监控流程，有效降低算法黑箱风险，提升产品可信度与监管通过率，是构建企业级安全AI底座的核心能力。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "reducing-cross-sample-prediction-churn-in-scientific-machine-learning",
+      "label": "Reducing cross-sample prediction churn in scientific machine learning",
+      "summary": "本文聚焦科学机器学习中的“跨样本预测波动”问题，指出传统评估仅关注整体准确率，却忽视模型在训练数据微小变动下的预测一致性。通过化学基准测试验证，提出降低预测流失率的方法。对AI产品经理而言，该技术可显著提升科学发现类AI产品的预测可靠性，降低因模型随机性导致的决策风险，为构建高可信、可复现的工业级AI工具提供关键技术支撑。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "the-other-half-of-ai-safety",
+      "label": "The Other Half of AI Safety",
+      "summary": "本文探讨AI安全的“另一半”，即从底层模型对齐转向产品部署与用户交互层面的安全治理。对AI产品经理而言，需将安全机制前置至产品设计，构建可解释的反馈闭环与动态风险拦截策略。通过融合人机协同验证与场景化合规框架，可有效降低幻觉与滥用风险，提升用户信任与商业化效率，是构建负责任AI产品的关键路径。",
+      "pm_score": 0.43,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48129561",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "topology-preserving-neural-operator-learning-via-hodge-decomposition",
+      "label": "Topology-Preserving Neural Operator Learning via Hodge Decomposition",
+      "summary": "本文提出一种拓扑保持的神经算子学习方法，利用霍奇分解从函数空间角度解耦物理场方程中的拓扑自由度与几何动力学。该方法通过霍奇正交性消除频谱干扰，使神经算子能更稳定地学习几何动态特性，提升对复杂几何网格上物理场的泛化能力。对AI产品经理而言，该技术可应用于工程仿真、数字孪生、气候建模等需要高保真物理模拟的场景，有望降低计算成本并提高预测精度，推动物理AI的产品化落地。",
+      "pm_score": 0.41,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
       "date": "2026-05-14"
     },
     {
@@ -63,17 +180,26 @@
       "date": "2026-05-14"
     },
     {
-      "id": "the-us-is-winning-the-ai-race-where-it-m",
-      "label": "The US is winning the AI race where it matters most: commercialization",
-      "summary": "HN 热门讨论，133 分，374 条评论",
-      "pm_score": 0.405,
+      "id": "medicares-new-payment-model-is-built-for-ai-most-of-the-tech-world-has-no-idea",
+      "label": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
+      "summary": "美国Medicare推出新型支付模型，将AI临床效率与价值直接挂钩，标志着医疗AI迈入政策驱动商业化新阶段。该模式通过重构医保报销规则，明确激励医疗机构部署AI辅助诊疗、自动化临床文书与智能计费系统。对AI产品经理而言，核心在于构建符合医保合规要求的数据流、提供可解释的临床决策输出，并实现与现有EMR系统的深度集成，从而打造高ROI的B端医疗AI产品。",
+      "pm_score": 0.38,
       "pillar": "business",
-      "type": "discussion",
-      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-      "date": "2026-05-14",
-      "score": 133,
-      "comments": 374,
-      "source_type": "discussion"
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48127815",
+      "date": "2026-05-14"
+    },
+    {
+      "id": "what-is-learnable-in-valiants-theory-of-the-learnable",
+      "label": "What is Learnable in Valiant's Theory of the Learnable?",
+      "summary": "本文澄清了Valiant 1984年奠基性论文的理论误区，指出其原始模型并非业界熟知的PAC学习，而是采用“仅正样本输入+成员查询+零假阳性输出”的严格约束框架。对AI产品经理而言，该理论明确了高可靠性模型在数据稀缺场景下的学习边界，为构建主动学习交互、安全关键型产品的零容错机制及低成本数据标注策略提供底层依据，有助于在算法能力与产品安全红线间建立科学评估标准。",
+      "pm_score": 0.375,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-14"
     },
     {
       "id": "haiku",
@@ -164,19 +290,6 @@
       "date": "2026-05-14"
     },
     {
-      "id": "making-the-news-available-at-no-cost-is",
-      "label": "Making the news available at no cost is a victory",
-      "summary": "HN 热门讨论，85 分，95 条评论",
-      "pm_score": 0.305,
-      "pillar": "business",
-      "type": "discussion",
-      "url": "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/",
-      "date": "2026-05-14",
-      "score": 85,
-      "comments": 95,
-      "source_type": "discussion"
-    },
-    {
       "id": "nailing-jelly-to-a-wall-is-it-possible-2005",
       "label": "Nailing jelly to a wall: is it possible? (2005)",
       "summary": "暂无中文摘要",
@@ -199,32 +312,6 @@
       "date": "2026-05-14"
     },
     {
-      "id": "rars-a-rust-rar-implementation-mostly",
-      "label": "Rars: a Rust RAR implementation, mostly written by LLMs",
-      "summary": "HN 热门讨论，65 分，46 条评论",
-      "pm_score": 0.255,
-      "pillar": "business",
-      "type": "discussion",
-      "url": "https://bitplane.net/log/2026/05/rars/",
-      "date": "2026-05-14",
-      "score": 65,
-      "comments": 46,
-      "source_type": "discussion"
-    },
-    {
-      "id": "nailing-jelly-to-a-wall-is-it-possible",
-      "label": "Nailing jelly to a wall: is it possible? (2005)",
-      "summary": "HN 热门讨论，71 分，26 条评论",
-      "pm_score": 0.255,
-      "pillar": "business",
-      "type": "discussion",
-      "url": "https://greem.co.uk/otherbits/jelly.html",
-      "date": "2026-05-14",
-      "score": 71,
-      "comments": 26,
-      "source_type": "discussion"
-    },
-    {
       "id": "meta-wont-let-you-block-its-ai-account-on-threads",
       "label": "Meta won't let you block its AI account on Threads",
       "summary": "暂无中文摘要",
@@ -234,19 +321,6 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48126981",
       "date": "2026-05-14"
-    },
-    {
-      "id": "meta-wont-let-you-block-its-ai-account",
-      "label": "Meta won't let you block its AI account on Threads",
-      "summary": "HN 热门讨论，38 分，10 条评论",
-      "pm_score": 0.155,
-      "pillar": "business",
-      "type": "discussion",
-      "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
-      "date": "2026-05-14",
-      "score": 38,
-      "comments": 10,
-      "source_type": "discussion"
     },
     {
       "id": "design-extract",
@@ -349,7 +423,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 593,
-    "edges": 11473
+    "real_nodes": 476,
+    "edges": 13642
   }
 }

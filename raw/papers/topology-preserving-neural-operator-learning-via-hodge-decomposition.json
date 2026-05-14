@@ -1,0 +1,29 @@
+{
+  "title": "Topology-Preserving Neural Operator Learning via Hodge Decomposition",
+  "summary": "In this paper, we study solution operators of physical field equations on geometric meshes from a function-space perspective. We reveal that Hodge orthogonality fundamentally resolves spectral interference by isolating unlearnable topological degrees of freedom from learnable geometric dynamics, enabling an additive approximation confined to structure-preserving subspaces. Building on Hodge theory and operator splitting, we derive a principled operator-level decomposition. The result is a Hybrid Eulerian-Lagrangian architecture with an algebraic-level inductive bias we call Hodge Spectral Duality (HSD). In our framework, we use discrete differential forms to capture topology-dominated components and an orthogonal auxiliary ambient space to represent complex local dynamics. Our method achieves superior accuracy and efficiency on geometric graphs with enhanced fidelity to physical invariants. Our code is available at https://github.com/ContinuumCoder/Hodge-Spectral-Duality",
+  "url": "http://arxiv.org/abs/2605.13834v1",
+  "authors": [
+    "Dongzhe Zheng",
+    "Tao Zhong",
+    "Christine Allen-Blanchette"
+  ],
+  "published": "2026-05-13T17:56:23Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "framework",
+    "serving"
+  ],
+  "summary_cn": "本文提出一种拓扑保持的神经算子学习方法，利用霍奇分解从函数空间角度解耦物理场方程中的拓扑自由度与几何动力学。该方法通过霍奇正交性消除频谱干扰，使神经算子能更稳定地学习几何动态特性，提升对复杂几何网格上物理场的泛化能力。对AI产品经理而言，该技术可应用于工程仿真、数字孪生、气候建模等需要高保真物理模拟的场景，有望降低计算成本并提高预测精度，推动物理AI的产品化落地。",
+  "pm_relevance": 6,
+  "concepts": [
+    "Neural Operator Learning",
+    "Hodge Decomposition",
+    "Topology Preservation"
+  ],
+  "entities": [],
+  "patterns": [
+    "Physics-Informed Machine Learning",
+    "Geometric Deep Learning"
+  ]
+}

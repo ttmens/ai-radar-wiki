@@ -1,0 +1,34 @@
+{
+  "title": "EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents",
+  "summary": "Voice agents, artificial intelligence systems that conduct spoken conversations to complete tasks, are increasingly deployed across enterprise applications. However, no existing benchmark jointly addresses two core evaluation challenges: generating realistic simulated conversations, and measuring quality across the full scope of voice-specific failure modes. We present EVA-Bench, an end-to-end evaluation framework that addresses both. On the simulation side, EVA-Bench orchestrates bot-to-bot audio conversations over dynamic multi-turn dialogues, with automatic simulation validation that detects user simulator error and appropriately regenerates conversations before scoring. On the measurement side, EVA-Bench introduces two composite metrics: EVA-A (Accuracy), capturing task completion, faithfulness, and audio-level speech fidelity; and EVA-X (Experience), capturing conversation progression, spoken conciseness, and turn-taking timing. Both metrics apply to different agent architectures, enabling direct cross-architecture comparison. EVA-Bench includes 213 scenarios across three enterprise domains, a controlled perturbation suite for accent and noise robustness, and pass@1, pass@k, pass^k measurements that distinguish peak from reliable capability. Across 12 systems spanning all three architectures, we find: (1) no system simultaneously exceeds 0.5 on both EVA-A pass@1 and EVA-X pass@1; (2) peak and reliable performance diverge substantially (median pass@k - pass^k gap of 0.44 on EVA-A); and (3) accent and noise perturbations expose substantial robustness gaps, with effects varying across architectures, systems, and metrics (mean up to 0.314). We release the full framework, evaluation suite, and benchmark data under an open-source license.",
+  "url": "http://arxiv.org/abs/2605.13841v1",
+  "authors": [
+    "Tara Bogavelli",
+    "Gabrielle Gauthier Melançon",
+    "Katrina Stankiewicz",
+    "Oluwanifemi Bamgbose",
+    "Fanny Riols"
+  ],
+  "published": "2026-05-13T17:58:52Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "audio",
+    "accuracy"
+  ],
+  "summary_cn": "EVA-Bench 提出了一种新的端到端语音代理评估框架，核心解决两大挑战：生成逼真的模拟对话，以及量化语音交互质量。该框架面向企业级语音 AI 应用部署场景，通过自动化评估流程降低人工评测成本。技术要点包括：端到端设计、对话真实性模拟、多维度质量度量。商业价值在于为产品选型提供标准化测试手段，加速语音代理从研发到落地的进程。产品创新体现在统一了对话生成与评测两大环节，填补了现有基准缺失。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Voice Agent Evaluation",
+    "End-to-End Benchmark",
+    "Simulated Conversations"
+  ],
+  "entities": [
+    "EVA-Bench"
+  ],
+  "patterns": [
+    "Evaluation Framework Pattern",
+    "Voice Agent Pattern"
+  ]
+}
