@@ -259,6 +259,10 @@
     
     // 如果配置了 API Base，尝试真实调用
     if (apiBase) {
+      // 超时控制：30秒
+      var controller = new AbortController();
+      var timeoutId = setTimeout(function() { controller.abort(); }, 30000);
+      
       fetch(apiBase + '/chat', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -266,10 +270,12 @@
           query: raw,
           session_id: _nexsightChatSessionId,
           scene: 'simple'
-        })
+        }),
+        signal: controller.signal
       })
       .then(function(res) {
-        if (!res.ok) throw new Error('Network response was not ok');
+        clearTimeout(timeoutId);
+        if (!res.ok) throw new Error('Network response was not ok (' + res.status + ')');
         return res.json();
       })
       .then(function(data) {
@@ -277,8 +283,10 @@
         appendBubble('assistant', data.answer, 'AI Radar');
       })
       .catch(function(err) {
+        clearTimeout(timeoutId);
         removeTyping();
-        appendBubble('assistant', '⚠️ 请求失败：' + err.message);
+        var msg = err.name === 'AbortError' ? '请求超时，请稍后重试' : '请求失败：' + err.message;
+        appendBubble('assistant', '⚠️ ' + msg);
       });
     } else {
       // 未配置 API Base 时显示提示

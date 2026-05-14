@@ -140,10 +140,9 @@ def apply_chrome_patches_to_template_string(s: str) -> str:
       <svg class="mobile-tab-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
       <span class="mobile-tab-label">探索</span>
     </a>
-    <button type="button" class="mobile-tab-item mobile-tab-item--disabled" id="mobile-agent-tab" aria-disabled="true" tabindex="-1" title="即将开放">
+    <button type="button" class="mobile-tab-item" id="mobile-agent-tab">
       <svg class="mobile-tab-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
       <span class="mobile-tab-label">问 AI</span>
-      <span class="mobile-tab-soon" aria-hidden="true">即将开放</span>
     </button>
   </nav>
 

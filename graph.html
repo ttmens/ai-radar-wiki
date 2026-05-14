@@ -14,8 +14,7 @@
 <script>
   window.__NEXSIGHT_CONFIG__ = window.__NEXSIGHT_CONFIG__ || {
     agentIframeUrl: '',
-    agentApiBase: 'https://band-guests-camps-deliver.trycloudflare.com',
-    chatApiBase: 'https://band-guests-camps-deliver.trycloudflare.com/chat'
+    agentApiBase: 'https://band-guests-camps-deliver.trycloudflare.com'
   };
 </script>
 <style>
@@ -3279,6 +3278,10 @@
     const typing = addTyping();
     
     try {
+      // 超时控制：30秒
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 30000);
+      
       const response = await fetch(CHAT_API, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -3287,12 +3290,14 @@
           session_id: sessionId,
           scene: currentScene,
         }),
+        signal: controller.signal,
       });
       
+      clearTimeout(timeoutId);
       typing.remove();
       
       if (!response.ok) {
-        throw new Error('请求失败');
+        throw new Error('请求失败 (' + response.status + ')');
       }
       
       const data = await response.json();
@@ -3305,7 +3310,10 @@
       
     } catch (error) {
       typing.remove();
-      addMessage('assistant', '⚠️ 请求失败，请确保 AI 聊天服务器正在运行。\n\n启动命令：python3 ~/.hermes/scripts/ai_chat_server.py --port 8081');
+      var msg = error.name === 'AbortError' 
+        ? '⚠️ 请求超时，请稍后重试' 
+        : '⚠️ 请求失败，请确保 AI 聊天服务器正在运行。\\n\\n启动命令：python3 ~/.hermes/scripts/ai_chat_server.py --port 8081';
+      addMessage('assistant', msg);
       console.error('智瞰问答错误:', error);
     }
     
