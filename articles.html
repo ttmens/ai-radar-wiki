@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#ff385c">
+<title>AI Radar · 每日深度</title>
+<link rel="icon" href="./assets/nexsight-mark.svg" type="image/svg+xml">
+<style>
+  :root {
+    --bg: #08090a;
+    --surface: #0f1011;
+    --surface-soft: #161718;
+    --border: rgba(255,255,255,0.08);
+    --border-strong: rgba(255,255,255,0.15);
+    --ink: #e8e8e8;
+    --ink-soft: #a0a0a0;
+    --ink-muted: #6a6a6a;
+    --accent: #ff385c;
+    --accent-soft: rgba(255,56,92,0.1);
+    --radius: 12px;
+    --radius-sm: 8px;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+    line-height: 1.6;
+    overflow: hidden;
+    height: 100vh;
+  }
+
+  /* ===== Header ===== */
+  .header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 56px;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    z-index: 100;
+    backdrop-filter: blur(12px);
+  }
+
+  .header-logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .header-logo svg {
+    width: 28px;
+    height: 28px;
+  }
+
+  .header-logo h1 {
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+  }
+
+  .header-logo h1 span {
+    color: var(--ink-muted);
+    font-weight: 400;
+    margin-left: 8px;
+    font-size: 13px;
+  }
+
+  .header-stats {
+    margin-left: auto;
+    font-size: 12px;
+    color: var(--ink-muted);
+  }
+
+  /* ===== Layout ===== */
+  .app {
+    display: flex;
+    height: 100vh;
+    padding-top: 56px;
+  }
+
+  /* ===== Sidebar (Article List) ===== */
+  .sidebar {
+    width: 380px;
+    min-width: 380px;
+    background: var(--surface);
+    border-right: 1px solid var(--border);
+    overflow-y: auto;
+    padding: 16px;
+    scrollbar-width: thin;
+    scrollbar-color: var(--border-strong) transparent;
+  }
+
+  .sidebar::-webkit-scrollbar { width: 6px; }
+  .sidebar::-webkit-scrollbar-track { background: transparent; }
+  .sidebar::-webkit-scrollbar-thumb { background: var(--border-strong); border-radius: 3px; }
+
+  .sidebar-title {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-muted);
+    padding: 8px 4px 12px;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 8px;
+  }
+
+  /* ===== Article Card ===== */
+  .article-card {
+    padding: 14px;
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    transition: all 0.15s;
+    border: 1px solid transparent;
+    margin-bottom: 4px;
+  }
+
+  .article-card:hover {
+    background: var(--surface-soft);
+    border-color: var(--border);
+  }
+
+  .article-card.active {
+    background: var(--accent-soft);
+    border-color: rgba(255,56,92,0.25);
+  }
+
+  .article-date {
+    font-size: 11px;
+    color: var(--ink-muted);
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .article-date .badge {
+    background: var(--accent);
+    color: #fff;
+    padding: 1px 6px;
+    border-radius: 4px;
+    font-size: 10px;
+    font-weight: 600;
+  }
+
+  .article-card.active .badge {
+    background: var(--accent);
+  }
+
+  .article-title {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.4;
+    color: var(--ink);
+    margin-bottom: 6px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .article-overview {
+    font-size: 12px;
+    color: var(--ink-soft);
+    line-height: 1.5;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .article-meta {
+    margin-top: 8px;
+    display: flex;
+    gap: 12px;
+    font-size: 11px;
+    color: var(--ink-muted);
+  }
+
+  /* ===== Preview Pane ===== */
+  .preview {
+    flex: 1;
+    overflow: hidden;
+    position: relative;
+    background: var(--bg);
+  }
+
+  .preview-empty {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    color: var(--ink-muted);
+    text-align: center;
+    padding: 40px;
+  }
+
+  .preview-empty svg {
+    width: 64px;
+    height: 64px;
+    margin-bottom: 16px;
+    opacity: 0.3;
+  }
+
+  .preview-empty h3 {
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 8px;
+    color: var(--ink-soft);
+  }
+
+  .preview-empty p {
+    font-size: 13px;
+    max-width: 280px;
+  }
+
+  .preview iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+
+  /* ===== Mobile Toggle ===== */
+  .mobile-toggle {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    z-index: 200;
+    box-shadow: 0 4px 14px rgba(255,56,92,0.4);
+    font-size: 18px;
+  }
+
+  /* ===== Mobile Responsive ===== */
+  @media (max-width: 768px) {
+    .app { flex-direction: column; }
+
+    .sidebar {
+      width: 100%;
+      min-width: 100%;
+      height: calc(100vh - 56px);
+      transition: transform 0.3s ease;
+    }
+
+    .preview {
+      position: fixed;
+      top: 56px;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      transform: translateX(100%);
+      transition: transform 0.3s ease;
+      z-index: 50;
+      background: var(--bg);
+    }
+
+    .sidebar.show-list .sidebar { transform: translateX(0); }
+    .sidebar.show-preview .sidebar { transform: translateX(-100%); }
+    .sidebar.show-preview .preview { transform: translateX(0); }
+
+    .mobile-toggle { display: flex; align-items: center; justify-content: center; }
+
+    .header-stats { display: none; }
+    .header-logo h1 span { display: none; }
+  }
+
+  /* ===== Loading ===== */
+  .loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+
+  .loading-spinner {
+    width: 32px;
+    height: 32px;
+    border: 3px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+  }
+
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ===== Empty State ===== */
+  .empty-state {
+    text-align: center;
+    padding: 40px 20px;
+    color: var(--ink-muted);
+  }
+
+  .empty-state p { font-size: 13px; }
+</style>
+</head>
+<body>
+
+<header class="header">
+  <div class="header-logo">
+    <svg viewBox="0 0 28 28" fill="none">
+      <circle cx="14" cy="14" r="13" stroke="#ff385c" stroke-width="2"/>
+      <circle cx="14" cy="14" r="5" fill="#ff385c"/>
+    </svg>
+    <h1>AI Radar<span>每日深度</span></h1>
+  </div>
+  <div class="header-stats" id="headerStats"></div>
+</header>
+
+<div class="app" id="app">
+  <div class="sidebar" id="sidebar">
+    <div class="sidebar-title">文章归档</div>
+    <div id="articleList"></div>
+  </div>
+  <div class="preview" id="preview">
+    <div class="preview-empty" id="previewEmpty">
+      <svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5">
+        <rect x="8" y="4" width="48" height="56" rx="4"/>
+        <line x1="16" y1="16" x2="48" y2="16"/>
+        <line x1="16" y1="24" x2="40" y2="24"/>
+        <line x1="16" y1="32" x2="44" y2="32"/>
+        <line x1="16" y1="40" x2="36" y2="40"/>
+      </svg>
+      <h3>选择一篇文章</h3>
+      <p>点击左侧列表查看文章详情</p>
+    </div>
+  </div>
+</div>
+
+<button class="mobile-toggle" id="mobileToggle" onclick="toggleMobileView()">
+  <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+    <path d="M3 4h14a1 1 0 011 1v1H1V5a1 1 0 011-1zm-2 6h18v5a1 1 0 01-1 1H2a1 1 0 01-1-1v-5zm3 1v3h4v-3H4z"/>
+  </svg>
+</button>
+
+<script>
+const ARTICLES = [
+  {
+    "file": "2026-05-14-AI产品向中小企业渗透与自主安全治理并进.html",
+    "date": "2026-05-14",
+    "title": "AI产品下沉与安全治理：商业化落地的双螺旋",
+    "overview": "深度内参 · 产业趋势分析",
+    "size": "9.2KB",
+    "isLatest": true
+  }
+];
+
+let currentArticle = null;
+let isMobilePreview = false;
+
+function renderArticleList() {
+  const list = document.getElementById('articleList');
+  const stats = document.getElementById('headerStats');
+
+  if (!ARTICLES || ARTICLES.length === 0) {
+    list.innerHTML = '<div class="empty-state"><p>暂无文章，明天 19:00 后将自动生成</p></div>';
+    stats.textContent = '';
+    return;
+  }
+
+  stats.textContent = ARTICLES.length + ' 篇文章';
+
+  let html = '';
+  ARTICLES.forEach(function(article, idx) {
+    const isActive = currentArticle === idx ? ' active' : '';
+    html += '<div class="article-card' + isActive + '" onclick="openArticle(' + idx + ')">';
+    html += '<div class="article-date">';
+    if (article.isLatest) html += '<span class="badge">最新</span>';
+    html += article.date + '</div>';
+    html += '<div class="article-title">' + escapeHtml(article.title) + '</div>';
+    html += '<div class="article-overview">' + escapeHtml(article.overview || '') + '</div>';
+    html += '<div class="article-meta">';
+    html += '<span>' + (article.size || '?') + '</span>';
+    html += '</div></div>';
+  });
+
+  list.innerHTML = html;
+}
+
+function openArticle(idx) {
+  const article = ARTICLES[idx];
+  if (!article) return;
+
+  currentArticle = idx;
+  renderArticleList();
+
+  const preview = document.getElementById('preview');
+  const empty = document.getElementById('previewEmpty');
+  if (empty) empty.remove();
+
+  // Show loading
+  preview.innerHTML = '<div class="loading"><div class="loading-spinner"></div></div>';
+
+  // For demo/local: use iframe to load the article HTML file
+  const iframe = document.createElement('iframe');
+  iframe.sandbox = 'allow-same-origin';
+  iframe.src = 'daily-articles/' + article.file;
+  iframe.onload = function() {
+    preview.innerHTML = '';
+    preview.appendChild(iframe);
+  };
+  iframe.onerror = function() {
+    preview.innerHTML = '<div class="preview-empty"><h3>加载失败</h3><p>文章文件可能不存在</p></div>';
+  };
+  preview.appendChild(iframe);
+
+  // Mobile: switch to preview
+  if (window.innerWidth <= 768) {
+    isMobilePreview = true;
+    document.getElementById('app').classList.remove('show-list');
+    document.getElementById('app').classList.add('show-preview');
+  }
+}
+
+function toggleMobileView() {
+  const app = document.getElementById('app');
+  if (isMobilePreview) {
+    isMobilePreview = false;
+    app.classList.remove('show-preview');
+    app.classList.add('show-list');
+  } else {
+    if (currentArticle !== null) {
+      isMobilePreview = true;
+      app.classList.remove('show-list');
+      app.classList.add('show-preview');
+    }
+  }
+}
+
+function escapeHtml(text) {
+  if (!text) return '';
+  const div = document.createElement('div');
+  div.textContent = text;
+  return div.innerHTML;
+}
+
+// Init
+renderArticleList();
+
+// Handle mobile initial state
+if (window.innerWidth <= 768) {
+  document.getElementById('app').classList.add('show-list');
+}
+</script>
+</body>
+</html>
