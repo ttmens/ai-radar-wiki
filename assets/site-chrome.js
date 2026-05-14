@@ -142,14 +142,18 @@
     });
   }
 
-  function appendBubble(role, text, metaLine) {
+  function appendBubble(role, text, metaLine, isHtml) {
     var thread = document.getElementById('nex-agent-thread');
     if (!thread) return;
     var msg = document.createElement('div');
     msg.className = 'nex-agent-message nex-agent-message--' + role;
     var b = document.createElement('div');
     b.className = 'nex-agent-bubble';
-    b.textContent = text;
+    if (isHtml) {
+      b.innerHTML = text;
+    } else {
+      b.textContent = text;
+    }
     msg.appendChild(b);
     if (metaLine) {
       var m = document.createElement('div');
@@ -297,7 +301,7 @@
       var timeoutId = setTimeout(function() { controller.abort(); }, 60000);
       
       // 先显示"正在思考..."
-      var assistantBubble = appendBubble('assistant', '<span class="typing-dots"><span></span><span></span><span></span></span>\n<span style="color:#888;font-size:12px">正在思考...</span>', 'AI Radar');
+      var assistantBubble = appendBubble('assistant', '<span class="typing-dots"><span></span><span></span><span></span></span>\n<span style="color:#888;font-size:12px">正在思考...</span>', 'AI Radar', true);
       
       fetch(apiBase + '/chat/stream', {
         method: 'POST',
