@@ -2,17 +2,17 @@
   "daily_summary": {
     "date": "2026-05-14",
     "headline": "今日 AI 情报 · 2026-05-14",
-    "overview": "AI产品从能力竞争转向安全治理与长尾商业化",
+    "overview": "AI智能体进入安全治理与商业化下沉双拐点",
     "narratives": [
       {
-        "title": "AI安全治理从对齐转向产品部署层面的风险管控",
-        "body": "多篇研究揭示模型在长上下文中的历史锚定风险、否定语义学习缺陷以及预测一致性波动，同时业界开始关注部署层面的安全框架。这标志着AI安全从底层模型对齐进入产品设计驱动的主动防御阶段，产品经理需将安全机制（上下文清洗、动态对齐、可解释反馈）内嵌到产品工作流中。",
+        "title": "AI智能体从能力突破到安全治理的全面演进",
+        "body": "今天多条情报指向AI系统正从被动对话转向主动自主操作，但‘历史锚定’安全风险、语音交互评估框架缺失、以及‘否定忽视’等底层缺陷同步暴露，标志着行业进入‘能力-安全’双螺旋加速期。产品经理需在智能体工作流中嵌入上下文清洗、动态对齐与端到端评测，才能实现从实验到产品的可靠跃迁。",
         "type": "paradigm_shift",
-        "pillar_key": "patterns"
+        "pillar_key": "capabilities"
       },
       {
-        "title": "AI商业化加速向长尾与政策驱动的垂直领域渗透",
-        "body": "Anthropic转向中小企业、Medicare将AI效率与医保支付挂钩、端侧设备内存博弈——显示AI商业化正从大客户标杆向长尾市场下沉，并受政策红利催化。产品经理需重构定价、集成与合规设计，在成本与价值间找到平衡。",
+        "title": "AI商业化进入政策驱动与中小企业长尾市场渗透",
+        "body": "Anthropic主动拓展中小企业客群，美国Medicare将AI效率与医保支付挂钩，叠加端侧硬件内存瓶颈倒逼成本优化，表明AI商业化正从‘大客户订阅’转向‘政策激励+轻量集成’的新阶段。产品经理需专注开箱即用体验、合规数据流与降级策略，以抓住长尾市场与政策红利。",
         "type": "maturation",
         "pillar_key": "business"
       }
@@ -21,41 +21,82 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "AI安全治理从对齐转向产品部署层面的风险管控",
-        "insight": "AI安全治理从对齐转向产品部署层面的风险管控。该方向的具体信号：历史工具调用可能污染Agent决策链（历史锚定风险），模型在训练中忽视否定语义导致事实错误，跨样本预测波动降低科学应用可靠性；同时业界呼吁将安全前置到产品交互层，构建可解释反馈闭环与动态风险拦截。PM需在Agent工作流中加入上下文清洗、安全断点和审计机制。",
+        "narrative_title": "AI智能体从能力突破到安全治理的全面演进",
+        "insight": "AI智能体从能力突破到安全治理的全面演进。该方向的具体信号：研究揭示大模型智能体在长上下文交互中因‘历史锚定’易延续错误路径，提示产品经理必须在Agent工作流中设计上下文清洗、安全断点或动态对齐机制，以防范历史行为污染导致的安全失控。",
         "evidence": [
           {
             "id": "history-anchors-how-prior-behavior-steers-llm-decisions-toward-unsafe-actions",
-            "title": "History Anchors: 历史行为引导LLM做出不安全决策",
+            "title": "History Anchors: Prior Behavior Steers LLM to Unsafe Actions",
             "score": 0.48
+          }
+        ]
+      },
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI智能体从能力突破到安全治理的全面演进",
+        "insight": "AI智能体从能力突破到安全治理的全面演进。该方向的具体信号：多项技术突破同时涌现——‘Agentic Evolution’提出自进化工作流，‘R-DMesh’简化3D动画，‘QLAM’突破长序列瓶颈，‘EVA-Bench’建立语音评估标准——但‘否定忽视’与‘跨样本预测波动’等安全/可靠性问题同样集中爆发，表明能力跃迁必须配套治理框架。",
+        "evidence": [
+          {
+            "id": "harnessing-agentic-evolution",
+            "title": "Harnessing Agentic Evolution: Self-Optimizing Workflows",
+            "score": 0.48
+          },
+          {
+            "id": "r-dmesh-video-guided-3d-animation-via-rectified-dynamic-mesh-flow",
+            "title": "R-DMesh: Video-Guided 3D Animation via Rectified Mesh Flow",
+            "score": 0.48
+          },
+          {
+            "id": "qlam-a-quantum-long-attention-memory-approach-to-long-sequence-token-modeling",
+            "title": "QLAM: Quantum Long-Attention Memory for Long Sequences",
+            "score": 0.48
+          },
+          {
+            "id": "eva-bench-a-new-end-to-end-framework-for-evaluating-voice-agents",
+            "title": "EVA-Bench: End-to-End Voice Agent Evaluation Framework",
+            "score": 0.48
+          }
+        ]
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "AI智能体从能力突破到安全治理的全面演进",
+        "insight": "AI智能体从能力突破到安全治理的全面演进。该方向的具体信号：‘The Other Half of AI Safety’强调安全应从底层模型对齐扩展至产品部署层，而‘拓扑保持神经算子’等工具则使物理AI仿真更稳定——两者共同指向AI产品需要构建从数据、模型到交互的全链路安全与可靠性工具链。",
+        "evidence": [
+          {
+            "id": "the-other-half-of-ai-safety",
+            "title": "The Other Half of AI Safety: From Model to Product",
+            "score": 0.43
           }
         ]
       },
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "narrative_title": "AI商业化加速向长尾与政策驱动的垂直领域渗透",
-        "insight": "AI商业化加速向长尾与政策驱动的垂直领域渗透。该方向的具体信号：Anthropic战略转向中小企业，推出自助式API与低门槛方案；Medicare新支付模型直接激励AI使用，要求产品符合医保合规；MacBook Neo以8GB内存压制成本却限制端侧AI性能，暴露硬件与体验的平衡。PM需关注定价分层、数据可移植性、合规集成与场景模板化。",
+        "narrative_title": "AI商业化进入政策驱动与中小企业长尾市场渗透",
+        "insight": "AI商业化进入政策驱动与中小企业长尾市场渗透。该方向的具体信号：Anthropic战略转向中小企业显示LLM变现进入下沉期；Medicare新支付模型将AI效率与医保报销挂钩，创造政策红利；同时MacBook Neo的8GB内存瓶颈则提醒PM必须通过量化、降级策略在端侧成本与体验间取得平衡，以服务长尾市场。",
         "evidence": [
           {
             "id": "anthropic-courts-a-new-kind-of-customer-small-bus",
-            "title": "Anthropic拓展新客户：中小企业主",
+            "title": "Anthropic Courts Small Business Customers",
             "score": 0.48
           },
           {
             "id": "medicares-new-payment-model-is-built-for-ai-most-of-the-tech-world-has-no-idea",
-            "title": "Medicare新支付模型为AI而生，科技界大多不知情",
+            "title": "Medicare's New Payment Model Built for AI",
             "score": 0.38
           },
           {
             "id": "macbook-neo-deep-dive-benchmarks-wafer-economics",
-            "title": "MacBook Neo深度剖析：基准测试、晶圆经济学与8GB内存博弈",
+            "title": "MacBook Neo: 8GB Gamble & End-Side AI Limits",
             "score": 0.53
           }
         ]
       }
     ],
-    "stats": "技术能力: 11 | 产品模式: 2 | 工具生态: 2 | 商业趋势: 5",
+    "stats": "技术能力: 12 | 产品模式: 2 | 工具生态: 2 | 商业趋势: 4",
     "total_items": 20,
     "high_value_count": 20,
     "all_today_ids": [
@@ -213,6 +254,6 @@
       }
     ],
     "date_bj": "2026-05-14 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-14 11:52:36"
+    "generated_at_bj": "2026-05-14 12:00:57"
   }
 }
