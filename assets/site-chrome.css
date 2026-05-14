@@ -287,7 +287,25 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
 
 /* 圆形 FAB 易与图谱重叠：全局隐藏；顶栏「问 AI」按钮见 .header-agent-btn（同为隐藏） */
 .nex-agent-fab {
-  display: none !important;
+  position: fixed;
+  right: calc(20px + var(--safe-right));
+  bottom: calc(22px + var(--safe-bottom));
+  z-index: 220;
+  min-height: 48px;
+  padding: 0 18px;
+  border-radius: 999px;
+  border: none;
+  background: var(--rausch);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: inherit;
+  cursor: pointer;
+  box-shadow: var(--shadow-lg);
+}
+
+.nex-agent-fab:hover {
+  background: var(--rausch-active);
 }
 
 /* 图谱周视图等内嵌控件仍用经典白底按钮；顶栏订阅见下条 #header-controls */
@@ -1095,7 +1113,7 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
     display: none !important;
   }
 
-  /* FAB 移到 tab bar 里了，窄屏隐藏 */
+  /* 窄屏：隐藏悬浮 FAB，使用底部 Tab Bar 的入口 */
   .nex-agent-fab {
     display: none !important;
   }
