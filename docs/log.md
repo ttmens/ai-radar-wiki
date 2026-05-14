@@ -513,3 +513,14 @@
 - create: cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-8216record-quarterly-rev.md
 - create: two-weeks-left-startup-battlefield-200-applications-close-may-27.md
 - create: wirestock-raises-23m-to-supply-creative-multi-modal-data-to-ai-labs.md
+
+## [2026-05-15 06:04] sync v3 | 9 new | pillars: {'capabilities': 6, 'ecosystem': 2, 'business': 1}
+- create: rtx-5090-and-m4-macbook-air-can-it-game.md
+- create: you-dont-align-an-ai-you-align-with-it.md
+- create: ai-is-making-me-dumb.md
+- create: the-ai-zombification-of-universities.md
+- create: elon-musk8217s-spacexai-has-been-bleeding-staff-since-its-merger.md
+- create: what-happens-when-ai-starts-building-itself.md
+- create: openai-is-reportedly-preparing-legal-action-against-apple-it-wouldn8217t-be-the.md
+- create: clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard.md
+- create: cerebras-raises-55b-then-stock-pops-108-in-the-first-huge-tech-ipo-of-2026.md

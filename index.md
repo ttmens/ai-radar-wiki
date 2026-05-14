@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-15 | Total pages: 453
+> Last updated: 2026-05-15 | Total pages: 462
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -9,6 +9,7 @@
 - [[a-recent-experience-with-chatgpt-55-pro.md]] A recent experience with ChatGPT 5.5 Pro `pillar:capabilities` `score:0.6`
 - [[academic-research-skills-for-claude-code.md]] Academic Research Skills for Claude Code `pillar:capabilities` `score:0.395`
 - [[adaption-aims-big-with-autoscientist-an-ai-tool-t.md]] Adaption aims big with AutoScientist, an AI tool that helps models train themsel `pillar:capabilities` `score:0.305`
+- [[ai-is-making-me-dumb.md]] AI is making me dumb `pillar:capabilities` `score:0.63`
 - [[alibabamnn.md]] alibaba/MNN `pillar:capabilities` `score:0.615`
 - [[arena-ai-model-elo-history.md]] Arena AI Model ELO History `pillar:capabilities` `score:0.465`
 - [[bee-sanciphey.md]] bee-san/Ciphey `pillar:capabilities` `score:0.545`
@@ -57,6 +58,7 @@
 - [[paddlepaddlepaddle.md]] PaddlePaddle/Paddle `pillar:capabilities` `score:0.615`
 - [[qdrantqdrant.md]] qdrant/qdrant `pillar:capabilities` `score:0.615`
 - [[rtk-airtk.md]] rtk-ai/rtk `pillar:capabilities` `score:0.58`
+- [[rtx-5090-and-m4-macbook-air-can-it-game.md]] RTX 5090 and M4 MacBook Air: Can It Game? `pillar:capabilities` `score:0.565`
 - [[screenpipescreenpipe.md]] screenpipe/screenpipe `pillar:capabilities` `score:0.615`
 - [[sgl-projectsglang.md]] sgl-project/sglang `pillar:capabilities` `score:0.615`
 - [[shapshap.md]] shap/shap `pillar:capabilities` `score:0.615`
@@ -65,6 +67,7 @@
 - [[supabasesupabase.md]] supabase/supabase `pillar:capabilities` `score:0.58`
 - [[tencentncnn.md]] Tencent/ncnn `pillar:capabilities` `score:0.58`
 - [[tensorflowtfjs.md]] tensorflow/tfjs `pillar:capabilities` `score:0.58`
+- [[the-ai-zombification-of-universities.md]] The AI Zombification of Universities `pillar:capabilities` `score:0.515`
 - [[the-art-of-hackingh4cker.md]] The-Art-of-Hacking/h4cker `pillar:capabilities` `score:0.58`
 - [[the-greatest-shot-in-television-james-burke-had-o.md]] The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene `pillar:capabilities` `score:0.155`
 - [[the-soul-of-maintaining-a-new-machine.md]] The soul of maintaining a new machine `pillar:capabilities` `score:0.38`
@@ -78,9 +81,11 @@
 - [[using-claude-code-the-unreasonable-effectiveness.md]] Using Claude Code: The unreasonable effectiveness of HTML `pillar:capabilities` `score:0.53`
 - [[vllm-projectvllm.md]] vllm-project/vllm `pillar:capabilities` `score:0.615`
 - [[voxel51fiftyone.md]] voxel51/fiftyone `pillar:capabilities` `score:0.58`
+- [[what-happens-when-ai-starts-building-itself.md]] What happens when AI starts building itself? `pillar:capabilities` `score:0.55`
 - [[wirestock-raises-23m-to-supply-creative-multi-modal-data-to-ai-labs.md]] Wirestock raises $23M to supply creative multi-modal data to AI labs `pillar:capabilities` `score:0.48`
 - [[wkentarolabelme.md]] wkentaro/labelme `pillar:capabilities` `score:0.58`
 - [[xorbitsaiinference.md]] xorbitsai/inference `pillar:capabilities` `score:0.565`
+- [[you-dont-align-an-ai-you-align-with-it.md]] You Don't Align an AI, You Align with It `pillar:capabilities` `score:0.43`
 - [[zaya1-8b-an-8b-moe-model-with-760m-active-params.md]] ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math `pillar:capabilities` `score:0.38`
 - [[actcam-zero-shot-joint-camera-and-3d-motion-control-for-vid.md]] ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation `pillar:capabilities` `score:0.48`
 - [[alphagrpo-unlocking-self-reflective-multimodal-generation-i.md]] AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decomposi `pillar:capabilities` `score:0.305`
@@ -272,6 +277,7 @@
 - [[berriailitellm.md]] BerriAI/litellm `pillar:ecosystem` `score:0.615`
 - [[blaise-a-modern-self-hosting-zero-legacy-object.md]] Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE `pillar:ecosystem` `score:0.155`
 - [[claude-platform-on-aws.md]] Claude Platform on AWS `pillar:ecosystem` `score:0.465`
+- [[clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard.md]] Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard `pillar:ecosystem` `score:0.445`
 - [[clickhouseclickhouse.md]] ClickHouse/ClickHouse `pillar:ecosystem` `score:0.58`
 - [[comfy-orgcomfyui.md]] Comfy-Org/ComfyUI `pillar:ecosystem` `score:0.615`
 - [[d4vinciscrapling.md]] D4Vinci/Scrapling `pillar:ecosystem` `score:0.405`
@@ -315,6 +321,7 @@
 - [[ollamaollama.md]] ollama/ollama `pillar:ecosystem` `score:0.615`
 - [[onnxonnx.md]] onnx/onnx `pillar:ecosystem` `score:0.615`
 - [[open-webuiopen-webui.md]] open-webui/open-webui `pillar:ecosystem` `score:0.405`
+- [[openai-is-reportedly-preparing-legal-action-against-apple-it-wouldn8217t-be-the.md]] OpenAI is reportedly preparing legal action against Apple; it wouldn&#8217;t be `pillar:ecosystem` `score:0.48`
 - [[postmortem-tanstack-npm-supply-chain-compromise.md]] Postmortem: TanStack npm supply-chain compromise `pillar:ecosystem` `score:0.61`
 - [[punkpeyeawesome-mcp-servers.md]] punkpeye/awesome-mcp-servers `pillar:ecosystem` `score:0.58`
 - [[pyg-teampytorch_geometric.md]] pyg-team/pytorch_geometric `pillar:ecosystem` `score:0.58`
@@ -360,6 +367,7 @@
 - [[can-llms-model-real-world-systems-in-tla.md]] Can LLMs model real-world systems in TLA+? `pillar:business` `score:0.155`
 - [[can-someone-please-explain-whether-cloudflare-blac.md]] Can Someone Please Explain Whether Cloudflare Blackmailed Canonical? `pillar:business` `score:0.355`
 - [[canvas-online-again-as-shinyhunters-threatens-to-l.md]] Canvas online again as ShinyHunters threatens to leak schools’ data `pillar:business` `score:0.505`
+- [[cerebras-raises-55b-then-stock-pops-108-in-the-first-huge-tech-ipo-of-2026.md]] Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026 `pillar:business` `score:0.445`
 - [[cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-8216record-quarterly-rev.md]] Cisco cuts nearly 4,000 jobs to spend more on AI, reports &#8216;record quarterl `pillar:business` `score:0.445`
 - [[claude-code-cve-2026-39861sandbox-escape-via-syml.md]] Claude Code CVE-2026-39861:sandbox escape via symlink `pillar:business` `score:0.155`
 - [[claude-for-small-business.md]] Claude for Small Business `pillar:business` `score:0.6`
@@ -370,6 +378,7 @@
 - [[dessn-raises-6m-for-its-production-focused-design.md]] Dessn raises $6M for its production focused design tool `pillar:business` `score:0.48`
 - [[di-sukharevopencommit.md]] di-sukharev/opencommit `pillar:business` `score:0.355`
 - [[dyad-shdyad.md]] dyad-sh/dyad `pillar:business` `score:0.405`
+- [[elon-musk8217s-spacexai-has-been-bleeding-staff-since-its-merger.md]] Elon Musk&#8217;s SpaceXAI has been bleeding staff since its merger `pillar:business` `score:0.41`
 - [[fake-building-claude-wrote-3k-lines-instead-of-im.md]] Fake building: Claude wrote 3k lines instead of import pywikibot `pillar:business` `score:0.155`
 - [[five-architects-of-the-ai-economy-explain-where-th.md]] Five architects of the AI economy explain where the wheels are coming off `pillar:business` `score:0.15`
 - [[foucaults-order-of-things-explained-with-trading.md]] Foucault's Order of Things Explained with Trading Cards [video] `pillar:business` `score:0.205`

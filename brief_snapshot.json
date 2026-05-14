@@ -1,8 +1,52 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T00:02:02.017099+08:00",
-  "item_count": 16,
+  "generated_at": "2026-05-15T06:04:00.654315+08:00",
+  "item_count": 25,
   "items": [
+    {
+      "id": "ai-is-making-me-dumb",
+      "label": "AI is making me dumb",
+      "summary": "标题指出AI可能导致用户认知能力下降，对产品经理而言，需警惕过度依赖AI带来的用户技能退化风险。这提示设计AI产品时应平衡自动化与人类主动思考，避免替代关键认知环节。商业价值上，可探索增强而非替代的AI功能，例如提供建议而非答案，保留用户决策权。产品创新方向包括可解释性、可控性设计，以及培养长期依赖较小的使用习惯。",
+      "pm_score": 0.63,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48139148",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "rtx-5090-and-m4-macbook-air-can-it-game",
+      "label": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "summary": "RTX 5090与M4 MacBook Air的游戏性能较量，实质是消费级硬件在图形与AI计算能力上的直接对比。对AI产品经理而言，需关注这些GPU/SoC如何影响本地推理效率、模型部署成本及产品形态。NVIDIA延续高功耗极致性能路线，Apple则强调能效与统一内存架构，两者差异将决定AI应用是依赖云端还是端侧运行。此次测评也揭示了PC游戏场景下AI超分、实时渲染等技术的落地潜力，为面向消费者的AI硬件选型提供参考。",
+      "pm_score": 0.565,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48137145",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "what-happens-when-ai-starts-building-itself",
+      "label": "What happens when AI starts building itself?",
+      "summary": "Richard Socher 的新创业公司获 6.5 亿美元融资，旨在构建能够无限自我研究与改进的 AI 系统，并承诺实际交付产品。该技术核心在于实现 AI 的自主迭代能力，无需人工干预即可优化自身模型、算法和知识库，从而持续提升性能。对产品经理而言，这意味着可能诞生一种‘自进化’产品开发范式，大幅缩短模型迭代周期，降低人工调参成本，并实现实时适应场景变化。但其挑战在于如何确保自我改进过程的可控性、安全性和业务对齐。若成功，将重塑 AI 产品生命周期管理与持续交付模式，带来显著的商业价值。",
+      "pm_score": 0.55,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "the-ai-zombification-of-universities",
+      "label": "The AI Zombification of Universities",
+      "summary": "该内容探讨了人工智能对大学教育的‘僵尸化’影响，即学生过度依赖AI工具（如大型语言模型）完成作业和论文，导致批判性思维与原创性下降。技术要点在于生成式AI的文本能力已能通过标准学术评估，引发学术诚信危机。商业价值体现在催生AI检测工具（如抄袭检测升级版）和自适应学习平台，帮助教育机构平衡技术赋能与学术规范。产品创新方向包括设计AI辅助创作与原创性评估结合的混合学习系统。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48139355",
+      "date": "2026-05-15"
+    },
     {
       "id": "sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo",
       "label": "Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO",
@@ -48,6 +92,28 @@
       "date": "2026-05-15"
     },
     {
+      "id": "openai-is-reportedly-preparing-legal-action-against-apple-it-wouldn8217t-be-the",
+      "label": "OpenAI is reportedly preparing legal action against Apple; it wouldn&#8217;t be",
+      "summary": "OpenAI 因与苹果的 ChatGPT 集成未能带来预期的订阅用户数和品牌曝光度，正考虑对苹果采取法律行动。这一事件凸显了 AI 服务与硬件平台合作中可能存在的商业风险：集成深度、收益分配和用户获取效果与预期不符。对 AI 产品经理的启示包括在生态合作中需明确关键指标（如订阅转化、流量入口），并设计退出机制或对赌条款。同时需关注平台方对 AI 功能的控制权，避免沦为流量工具而无法获得足够商业回报。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard",
+      "label": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+      "summary": "Clawdmeter 是一款开源桌面小工具，用于将 Claude Code 的使用统计数据（如 API 调用量、上下文消耗等）转换为实时仪表盘，帮助 AI 编程重度用户直观监控自身使用行为。该项目面向效率优化场景，通过本地可视化降低依赖云端分析的延迟与隐私风险，同时为 AI 产品经理提供用户行为洞察的轻量级参考工具。技术亮点在于轻量级前端与 Claude Code 接口的集成，商业价值体现在赋能开发者自助管理 AI 资源成本，属于开发者工具生态中的创新尝试。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+      "date": "2026-05-15"
+    },
+    {
       "id": "cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-8216record-quarterly-rev",
       "label": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports &#8216;record quarterl",
       "summary": "思科宣布裁员约4000人，约占员工总数的5%，旨在将节省的成本重新投入人工智能领域。公司CEO表示，尽管裁员，但同期营收创下历史新高，达到约136亿美元，同比增长显著。此举反映出传统网络硬件巨头正加速向AI驱动的解决方案转型，通过削减非核心岗位来聚焦AI基础设施、网络安全和云服务等高增长领域。对于AI产品经理而言，这标志着企业级AI投入从实验阶段转向规模化落地，思科的决策也为其他传统科技公司提供了商业参考：通过组织重组释放资源，以抢占AI市场先机。",
@@ -56,6 +122,39 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "cerebras-raises-55b-then-stock-pops-108-in-the-first-huge-tech-ipo-of-2026",
+      "label": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+      "summary": "Cerebras，一家专注于AI芯片（晶圆级集成）的公司，成功完成55亿美元IPO，股价首日飙升108%，成为2026年首个巨大科技IPO。此次融资凸显市场对专用AI硬件（训练/推理）的强劲需求，以及投资者对非传统芯片架构商业前景的认可。对于AI产品经理而言，该事件标志着底层算力竞争加剧，预示着未来AI产品性能提升将更多依赖专用硬件创新，并影响云服务和边缘部署的成本与可行性。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "you-dont-align-an-ai-you-align-with-it",
+      "label": "You Don't Align an AI, You Align with It",
+      "summary": "本文提出AI对齐的新视角：并非产品经理强行“对齐”AI模型，而是通过与AI的持续互动、反馈和价值观校准，实现人与系统的动态对齐。这对AI产品设计意味着应放弃静态规则，转向迭代式人机协同机制。商业上，企业需要建立长期信任，产品创新点在于开发可解释、可适应的对齐协议，而非一次性部署。技术要点包括偏好学习（RLHF）、价值观蒸馏和上下文一致性维护。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48139144",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "elon-musk8217s-spacexai-has-been-bleeding-staff-since-its-merger",
+      "label": "Elon Musk&#8217;s SpaceXAI has been bleeding staff since its merger",
+      "summary": "SpaceXAI自2月合并以来已有超过50名员工离职，引发对团队倦怠、领导层变动、人才被挖角及流动性事件削弱留任激励的关注。对AI产品经理而言，频繁的人才流失可能延缓产品迭代和技术突破，需关注组织稳定性对长期AI研发的影响。",
+      "pm_score": 0.41,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
       "date": "2026-05-15"
     },
     {
@@ -181,7 +280,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 488,
-    "edges": 15561
+    "real_nodes": 497,
+    "edges": 16059
   }
 }
