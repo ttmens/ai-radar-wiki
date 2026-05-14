@@ -396,18 +396,45 @@ function openArticle(idx) {
   // Show loading
   preview.innerHTML = '<div class="loading"><div class="loading-spinner"></div></div>';
 
-  // For demo/local: use iframe to load the article HTML file
-  const iframe = document.createElement('iframe');
-  iframe.sandbox = 'allow-same-origin';
-  iframe.src = 'daily-articles/' + article.file;
-  iframe.onload = function() {
+  // Decode embedded article content (UTF-8 safe base64 decode)
+  try {
+    // Decode base64 to bytes, then decode as UTF-8
+    const binary = atob(article.content);
+    const bytes = new Uint8Array(binary.length);
+    for (let i = 0; i < binary.length; i++) {
+      bytes[i] = binary.charCodeAt(i);
+    }
+    const html = new TextDecoder('utf-8').decode(bytes);
+
+    const container = document.createElement('div');
+    container.className = 'article-viewer';
+    container.innerHTML = html;
+    container.style.cssText = 'width:100%;height:100%;overflow-y:auto;padding:40px 60px;background:#ffffff;color:#333;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;line-height:1.8;font-size:16px;max-width:800px;margin:0 auto;box-sizing:border-box;';
+
+    // Style the article content
+    const style = document.createElement('style');
+    style.textContent = `
+      .article-viewer h1 { font-size: 24px !important; font-weight: bold !important; color: #000 !important; margin-bottom: 10px !important; }
+      .article-viewer h2 { font-size: 20px !important; font-weight: bold !important; color: #000 !important; margin-top: 30px !important; margin-bottom: 10px !important; }
+      .article-viewer h3 { font-size: 18px !important; font-weight: bold !important; color: #000 !important; margin-top: 20px !important; margin-bottom: 8px !important; }
+      .article-viewer p { margin-bottom: 16px !important; }
+      .article-viewer a { color: #ff385c !important; }
+      .article-viewer ul, .article-viewer ol { padding-left: 20px !important; margin-bottom: 16px !important; }
+      .article-viewer li { margin-bottom: 8px !important; }
+    `;
+    container.prepend(style);
+
+    // Wrap in a scrollable container
+    const wrapper = document.createElement('div');
+    wrapper.className = 'article-scroll-container';
+    wrapper.style.cssText = 'width:100%;height:100%;overflow-y:auto;-webkit-overflow-scrolling:touch;';
+    wrapper.appendChild(container);
+
     preview.innerHTML = '';
-    preview.appendChild(iframe);
-  };
-  iframe.onerror = function() {
-    preview.innerHTML = '<div class="preview-empty"><h3>加载失败</h3><p>文章文件可能不存在</p></div>';
-  };
-  preview.appendChild(iframe);
+    preview.appendChild(wrapper);
+  } catch (e) {
+    preview.innerHTML = '<div class="preview-empty"><h3>解析失败</h3><p>' + escapeHtml(e.message) + '</p></div>';
+  }
 
   // Mobile: switch to preview
   if (window.innerWidth <= 768) {
