@@ -1,6 +1,8 @@
+
 /**
  * NexSight 共用脚本：订阅浮层、复制链接、问 AI（壳层交互 + iframe 嵌入）。
  * DeepWiki-open：后端外置；可监听 CustomEvent nexsight-agent-submit。
+ * 更新：实现真实的 API 调用。
  */
 (function () {
   if (typeof window.__NEXSIGHT_CONFIG__ === 'undefined') {
@@ -99,112 +101,129 @@
     if (/^index/i.test(path) || path === '' || path === 'index.html') {
       return '当前视图：今日简报页。可对齐简报 JSON、周报与 brief_snapshot.items 作为 RAG 片段。';
     }
-    if (/graph/i.test(path)) {
+    if (/^graph/i.test(path) || /graph/.test(path)) {
       return '当前视图：知识图谱探索页。可对齐 graph.json、节点摘要与所选节点 meta 作为 RAG（DeepWiki-open 范式）。';
     }
-    return 'Wiki / 图谱上下文可由部署层注入 __NEXSIGHT_CONFIG__.wikiContextHint（或后续接 MCP）。';
+    return '';
   }
 
-  function suggestedList() {
+  /* ================= 问 AI 面板 ================= */
+  var _nexsightChatSessionId = 'nex_' + Date.now();
+
+  function getChips() {
     var c = window.__NEXSIGHT_CONFIG__ || {};
-    if (Array.isArray(c.suggestedPrompts) && c.suggestedPrompts.length)
-      return c.suggestedPrompts.map(function (s) {
-        return String(s);
-      });
-    return DEFAULT_PROMPTS_ZH.slice();
+    if (c.suggestedPrompts && Array.isArray(c.suggestedPrompts)) return c.suggestedPrompts;
+    return DEFAULT_PROMPTS_ZH;
   }
 
   function syncSourcesText() {
     var el = document.getElementById('nex-agent-sources-text');
-    if (el) el.textContent = getWikiContextParagraph();
-  }
-
-  function syncAgentEmpty() {
-    var thread = document.getElementById('nex-agent-thread');
-    var empty = document.getElementById('nex-agent-empty');
-    var chips = document.getElementById('nex-agent-chips');
-    if (!thread || !empty) return;
-    var populated = thread.querySelectorAll('.nex-agent-bubble-row').length > 0;
-    empty.hidden = populated;
-    if (chips) chips.hidden = populated;
-    thread.classList.toggle('nex-agent-thread--idle', !populated);
+    if (!el) return;
+    el.textContent = getWikiContextParagraph() || '';
   }
 
   function renderChips() {
-    var chips = document.getElementById('nex-agent-chips');
-    if (!chips) return;
-    chips.innerHTML = '';
-    suggestedList().forEach(function (text, i) {
-      var b = document.createElement('button');
-      b.type = 'button';
-      b.className = 'nex-agent-chip';
-      b.setAttribute('data-prompt-index', String(i));
-      b.textContent = text;
-      b.addEventListener('click', function () {
-        window.NexSightAgent.applySuggestedPrompt(text);
+    var wrap = document.getElementById('nex-agent-chips');
+    if (!wrap) return;
+    wrap.innerHTML = '';
+    getChips().forEach(function (txt) {
+      var btn = document.createElement('button');
+      btn.className = 'nex-agent-chip';
+      btn.textContent = txt;
+      btn.addEventListener('click', function () {
+        var ta = document.getElementById('nex-agent-input');
+        if (ta) {
+          ta.value = txt;
+          resizeComposerTA();
+        }
+        window.NexSightAgent.submitComposer(false);
       });
-      chips.appendChild(b);
+      wrap.appendChild(btn);
     });
   }
 
   function appendBubble(role, text, metaLine) {
     var thread = document.getElementById('nex-agent-thread');
     if (!thread) return;
-    var row = document.createElement('div');
-    row.className =
-      'nex-agent-bubble-row ' + (role === 'user' ? 'nex-agent-bubble-row--user' : 'nex-agent-bubble-row--assistant');
-    var bubble = document.createElement('div');
-    bubble.className = 'nex-agent-bubble nex-agent-bubble--' + (role === 'user' ? 'user' : 'assistant');
-    var textWrap = document.createElement('span');
-    textWrap.textContent = text;
-    bubble.appendChild(textWrap);
-    if (metaLine && role !== 'user') {
-      var meta = document.createElement('div');
-      meta.className = 'nex-agent-bubble-meta';
-      meta.textContent = metaLine;
-      bubble.appendChild(meta);
+    var msg = document.createElement('div');
+    msg.className = 'nex-agent-message nex-agent-message--' + role;
+    var b = document.createElement('div');
+    b.className = 'nex-agent-bubble';
+    b.textContent = text;
+    msg.appendChild(b);
+    if (metaLine) {
+      var m = document.createElement('div');
+      m.className = 'nex-agent-meta';
+      m.textContent = metaLine;
+      msg.appendChild(m);
     }
-    row.appendChild(bubble);
-    thread.appendChild(row);
-    syncAgentEmpty();
+    thread.appendChild(msg);
     thread.scrollTop = thread.scrollHeight;
+    syncAgentEmpty();
+  }
+
+  function showTyping() {
+    var thread = document.getElementById('nex-agent-thread');
+    if (!thread) return null;
+    var msg = document.createElement('div');
+    msg.className = 'nex-agent-message nex-agent-message--assistant nex-agent-typing';
+    msg.id = 'typing-indicator';
+    var b = document.createElement('div');
+    b.className = 'nex-agent-bubble';
+    b.textContent = '思考中...';
+    msg.appendChild(b);
+    thread.appendChild(msg);
+    thread.scrollTop = thread.scrollHeight;
+    return msg;
+  }
+
+  function removeTyping() {
+    var el = document.getElementById('typing-indicator');
+    if (el && el.parentNode) el.parentNode.removeChild(el);
+  }
+
+  function syncAgentEmpty() {
+    var thread = document.getElementById('nex-agent-thread');
+    if (!thread) return;
+    var empty = document.getElementById('nex-agent-empty');
+    if (!empty) return;
+    if (thread.querySelectorAll('.nex-agent-message').length > 0) {
+      empty.style.display = 'none';
+    } else {
+      empty.style.display = '';
+    }
   }
 
   function resizeComposerTA() {
     var ta = document.getElementById('nex-agent-input');
     if (!ta) return;
     ta.style.height = 'auto';
-    var max = 132;
-    ta.style.height = Math.min(max, ta.scrollHeight) + 'px';
+    ta.style.height = Math.min(ta.scrollHeight, 120) + 'px';
+  }
+
+  function setMobileAgentTab(isOpen) {
+    var t = document.getElementById('mobile-agent-tab');
+    if (!t) return;
+    if (isOpen) t.classList.add('mobile-tab-item--panel-open');
+    else t.classList.remove('mobile-tab-item--panel-open');
   }
 
   function isMobileAgentEntryDisabled() {
-    var tab = document.getElementById('mobile-agent-tab');
-    if (!tab || tab.getAttribute('aria-disabled') !== 'true') return false;
-    try {
-      if (window.matchMedia && window.matchMedia('(max-width: 900px)').matches) return true;
-    } catch (e) {}
-    return window.innerWidth <= 900;
-  }
-
-  function setMobileAgentTab(panelOpen) {
-    var tab = document.getElementById('mobile-agent-tab');
-    if (!tab) return;
-    tab.classList.toggle('mobile-tab-item--panel-open', !!panelOpen);
-    tab.setAttribute('aria-pressed', panelOpen ? 'true' : 'false');
+    var t = document.getElementById('mobile-agent-tab');
+    if (!t) return false;
+    return t.classList.contains('mobile-tab-item--disabled') || t.getAttribute('aria-disabled') === 'true';
   }
 
   window.NexSightAgent = window.NexSightAgent || {};
 
   window.NexSightAgent.syncContextUi = function () {
     syncSourcesText();
-    renderChips();
-    syncAgentEmpty();
   };
 
   window.NexSightAgent.clearThread = function () {
     var thread = document.getElementById('nex-agent-thread');
-    if (thread) thread.innerHTML = '';
+    if (!thread) return;
+    thread.querySelectorAll('.nex-agent-message').forEach(function (n) { n.remove(); });
     syncAgentEmpty();
   };
 
@@ -219,9 +238,8 @@
   window.NexSightAgent.applySuggestedPrompt = function (text) {
     var ta = document.getElementById('nex-agent-input');
     if (ta) {
-      ta.value = text || '';
+      ta.value = text;
       resizeComposerTA();
-      ta.focus();
     }
     window.NexSightAgent.submitComposer(false);
   };
@@ -234,24 +252,40 @@
     ta.value = '';
     resizeComposerTA();
     appendBubble('user', raw);
-    try {
-      document.dispatchEvent(new CustomEvent('nexsight-agent-submit', { detail: { text: raw } }));
-    } catch (e) {}
-
+    
+    var typing = showTyping();
+    
     var apiBase = (window.__NEXSIGHT_CONFIG__.agentApiBase || '').trim();
-    if (!apiBase) {
-      appendBubble(
-        'assistant',
-        '（演示占位）后端未连接。部署时可设置 agentIframeUrl 嵌入完整会话，或接 agentApiBase 流式应答。',
-        fromKeyboard ? '' : ''
-      );
+    
+    // 如果配置了 API Base，尝试真实调用
+    if (apiBase) {
+      fetch(apiBase + '/chat', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          query: raw,
+          session_id: _nexsightChatSessionId,
+          scene: 'simple'
+        })
+      })
+      .then(function(res) {
+        if (!res.ok) throw new Error('Network response was not ok');
+        return res.json();
+      })
+      .then(function(data) {
+        removeTyping();
+        appendBubble('assistant', data.answer, 'AI Radar');
+      })
+      .catch(function(err) {
+        removeTyping();
+        appendBubble('assistant', '⚠️ 请求失败：' + err.message);
+      });
     } else {
-      appendBubble(
-        'assistant',
-        '已记下你的问题（演示）。请将 agentApiBase 接到你的 FastAPI／RAG，再在此脚本中替换占位应答逻辑。',
-        'agentApiBase: ' + apiBase.replace(/(.{48}).*/, '$1…')
-      );
+      // 未配置 API Base 时显示提示
+      removeTyping();
+      appendBubble('assistant', '（演示模式）请在配置中设置 agentApiBase 以连接真实后端。');
     }
+    
     ta.focus();
   };
 
@@ -263,6 +297,10 @@
     var wrap = document.getElementById('nex-agent-frame-wrap');
     var scaffold = document.getElementById('nex-agent-scaffold');
     if (!panel || !scrim) return;
+    
+    // 给 body 加类以调整布局
+    document.body.classList.add('agent-panel-open');
+    
     scrim.hidden = false;
     requestAnimationFrame(function () {
       scrim.classList.add('nex-agent-scrim--open');
@@ -301,106 +339,76 @@
     var panel = document.getElementById('agent-panel');
     var scrim = document.getElementById('agent-scrim');
     if (!panel || !scrim) return;
-    scrim.classList.remove('nex-agent-scrim--open');
+    
+    // 移除 body 类
+    document.body.classList.remove('agent-panel-open');
+
     panel.classList.remove('nex-agent-panel--open');
+    scrim.classList.remove('nex-agent-scrim--open');
     panel.setAttribute('aria-hidden', 'true');
     setMobileAgentTab(false);
     setTimeout(function () {
       scrim.hidden = true;
-    }, 260);
+    }, 300);
   };
 
-  window.toggleAgentPanel = function () {
-    var panel = document.getElementById('agent-panel');
-    if (!panel) return;
-    if (panel.classList.contains('nex-agent-panel--open')) {
-      window.NexSightAgent.closePanel();
-    } else {
-      window.NexSightAgent.openPanel();
-    }
-  };
-
-  window.NexSightChrome = window.NexSightChrome || {};
-  window.NexSightChrome.toast = toastMsg;
-
-  window.NexSightChrome.syncHeaderHeight = function () {
-    var el = document.getElementById('header');
-    if (!el || !el.classList.contains('site-chrome-header')) return;
-    var minH =
-      parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--side-sheet-header-min')) || 64;
-    var h = Math.max(minH, Math.ceil(el.getBoundingClientRect().height));
-    document.documentElement.style.setProperty('--header-h', h + 'px');
-  };
-
-  var resizeHeaderTimer;
-  window.addEventListener('resize', function () {
-    clearTimeout(resizeHeaderTimer);
-    resizeHeaderTimer = setTimeout(function () {
-      window.NexSightChrome.syncHeaderHeight();
-    }, 120);
-  });
-
-  document.addEventListener('DOMContentLoaded', function () {
-    window.NexSightChrome.syncHeaderHeight();
-    if (document.fonts && document.fonts.ready) {
-      document.fonts.ready.then(function () {
-        window.NexSightChrome.syncHeaderHeight();
-        requestAnimationFrame(window.NexSightChrome.syncHeaderHeight);
-      });
-    }
-
+  function bindAgentEvents() {
     var fab = document.getElementById('nex-agent-fab');
-    if (fab) {
-      fab.addEventListener('click', function () {
-        window.toggleAgentPanel();
-      });
-    }
-    var scrim = document.getElementById('agent-scrim');
-    if (scrim) {
-      scrim.addEventListener('click', function () {
-        window.NexSightAgent.closePanel();
-      });
-    }
     var closeBtn = document.getElementById('agent-panel-close');
-    if (closeBtn) {
-      closeBtn.addEventListener('click', function () {
-        window.NexSightAgent.closePanel();
+    var scrim = document.getElementById('agent-scrim');
+    var sendBtn = document.getElementById('nex-agent-send');
+    var input = document.getElementById('nex-agent-input');
+    var mobileTab = document.getElementById('mobile-agent-tab');
+
+    if (fab) fab.addEventListener('click', function () { window.NexSightAgent.openPanel(); });
+    if (closeBtn) closeBtn.addEventListener('click', window.NexSightAgent.closePanel);
+    if (scrim) scrim.addEventListener('click', window.NexSightAgent.closePanel);
+
+    if (sendBtn) sendBtn.addEventListener('click', function () {
+      window.NexSightAgent.submitComposer(false);
+    });
+
+    if (input) {
+      input.addEventListener('keydown', function (e) {
+        if (e.key === 'Enter' && !e.shiftKey) {
+          e.preventDefault();
+          window.NexSightAgent.submitComposer(true);
+        }
       });
+      input.addEventListener('input', resizeComposerTA);
     }
 
-    var send = document.getElementById('nex-agent-send');
-    var composer = document.getElementById('nex-agent-input');
-    if (send && composer) {
-      send.addEventListener('click', function () {
-        window.NexSightAgent.submitComposer(false);
-      });
-      composer.addEventListener('input', resizeComposerTA);
-      composer.addEventListener('keydown', function (ev) {
-        if (ev.key === 'Enter' && !ev.shiftKey) {
-          ev.preventDefault();
-          window.NexSightAgent.submitComposer(true);
+    // 手机端 Tab 入口
+    if (mobileTab) {
+      mobileTab.addEventListener('click', function () {
+        if (!isMobileAgentEntryDisabled()) {
+          window.NexSightAgent.openPanel();
         }
       });
     }
 
-    syncSourcesText();
-    renderChips();
-    syncAgentEmpty();
-
-    window.NexSightChrome.syncHeaderHeight();
-  });
-
-  document.addEventListener(
-    'keydown',
-    function (ev) {
-      if (ev.key !== 'Escape' || ev.defaultPrevented) return;
+    document.addEventListener('click', function (ev) {
       var panel = document.getElementById('agent-panel');
-      if (panel && panel.classList.contains('nex-agent-panel--open')) {
-        ev.preventDefault();
-        ev.stopPropagation();
+      if (!panel || !panel.classList.contains('nex-agent-panel--open')) return;
+      if (ev.target === scrim || ev.target === closeBtn || (closeBtn && closeBtn.contains(ev.target))) {
         window.NexSightAgent.closePanel();
       }
-    },
-    true
-  );
+    });
+    
+    // ESC 关闭
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') {
+        var panel = document.getElementById('agent-panel');
+        if (panel && panel.classList.contains('nex-agent-panel--open')) {
+          window.NexSightAgent.closePanel();
+        }
+      }
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', bindAgentEvents);
+  } else {
+    bindAgentEvents();
+  }
 })();

@@ -1292,3 +1292,16 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
     font-size: 13px;
   }
 }
+
+body.agent-panel-open #mynetwork {
+  right: 420px !important;
+  width: calc(100% - 420px) !important;
+  transition: right 0.28s ease, width 0.28s ease;
+}
+
+@media (max-width: 900px) {
+  body.agent-panel-open #mynetwork {
+    right: 0 !important;
+    width: 100% !important;
+  }
+}
