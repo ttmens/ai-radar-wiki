@@ -1,484 +1,187 @@
 {
-  "date": "2026-05-14",
-  "generated_at": "2026-05-14T18:02:21.431782+08:00",
-  "item_count": 43,
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T00:02:02.017099+08:00",
+  "item_count": 16,
   "items": [
     {
-      "id": "claude-for-small-business",
-      "label": "Claude for Small Business",
-      "summary": "Anthropic 推出的 Claude for Small Business 是专为中小企业设计的 AI 助手服务，强调安全、可控和易用性。技术上基于 Claude 系列大模型，提供对话、文档处理、代码辅助等能力，同时支持企业级数据隐私保护。商业价值在于降低小企业使用先进 AI 的门槛，通过按需付费和预置模板加速业务流程自动化，无需自建技术团队。产品创新体现在针对小企业场景优化了长文档理解和多轮对话一致性，并提供简洁的管理控制台。",
-      "pm_score": 0.6,
+      "id": "sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo",
+      "label": "Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO",
+      "summary": "OpenAI CEO萨姆·奥尔特曼在IPO前面临共和党的商业交易审查，这增加了公司上市的不确定性。对AI产品经理而言，需关注监管风险对产品路线图、合作策略及商业化的潜在冲击，尤其是OpenAI作为行业领头羊的合规动态可能影响整个AI生态的融资环境与产品发布节奏。",
+      "pm_score": 0.495,
       "pillar": "business",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48130950",
-      "date": "2026-05-14"
+      "url": "https://news.ycombinator.com/item?id=48134429",
+      "date": "2026-05-15"
     },
     {
-      "id": "macbook-neo-deep-dive-benchmarks-wafer-economics",
-      "label": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
-      "summary": "本文剖析MacBook Neo的基准测试、晶圆成本与8GB内存策略。对AI PM而言，核心在于把握端侧AI的算力边界与内存瓶颈：8GB基础配置虽压低硬件成本，却制约本地大模型部署。文章揭示苹果在芯片良率、成本控制与AI体验间的权衡，提示PM在规划端侧AI产品时需聚焦内存优化、模型量化与降级策略，以在受限硬件上实现体验与商业化的平衡。",
-      "pm_score": 0.53,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48125617",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "tell-hn-dont-use-claude-design-lost-access-to-my-projects-after-unsubscribing",
-      "label": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
-      "summary": "该帖揭示AI SaaS订阅制的典型缺陷：用户退订即丧失项目访问权。对AI产品经理而言，核心启示在于需明确数据所有权与订阅权益边界。产品应在商业变现与数据可移植性间平衡，避免过度“供应商锁定”反噬用户信任。建议设计项目导出或降级保留机制，优化用户生命周期与留存策略。",
-      "pm_score": 0.53,
-      "pillar": "business",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48128003",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "clio8217s-500m-milestone-arrives-just-as-anthropic-ups-the-ante",
-      "label": "Clio&#8217;s $500M milestone arrives just as Anthropic ups the ante",
-      "summary": "法律科技初创公司Clio实现5亿美元ARR里程碑，正值Anthropic加大AI投入之际。Clio等法律科技企业正在经历大规模客户采用，表明AI在垂直法律领域的商业化落地加速。Clio可能利用Anthropic的模型能力提升法律文档处理、合同审查等效率，其成功验证了垂直SaaS+AI的商业模式。对AI产品经理而言，法律科技是高风险、高价值场景，需关注AI推理可靠性、数据隐私及合规性。",
+      "id": "wirestock-raises-23m-to-supply-creative-multi-modal-data-to-ai-labs",
+      "label": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
+      "summary": "Wirestock 筹集2300万美元，其平台拥有超70万创作者，为AI实验室提供照片、视频、3D内容等多模态训练数据。此举解决了AI模型训练中对高质量、多样化且版权合规数据的迫切需求，尤其支撑多模态AI的发展。通过连接创意社区与AI行业，Wirestock构建了可持续的数据供应商业模式，降低AI公司数据获取成本，同时为创作者提供变现渠道。该模式创新性地将UGC（用户生成内容）与AI基础设施结合，有望推动更多垂直领域AI应用的快速迭代。",
       "pm_score": 0.48,
-      "pillar": "business",
+      "pillar": "capabilities",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
-      "date": "2026-05-14"
+      "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+      "date": "2026-05-15"
     },
     {
-      "id": "who-decides-what-ai-tells-you-campbell-brown-once-meta8217s-news-chief-has-thoug",
-      "label": "Who decides what AI tells you? Campbell Brown, once Meta&#8217;s news chief, has",
-      "summary": "前Meta新闻主管Campbell Brown探讨AI内容决策权的核心矛盾：硅谷开发者关注技术能力与效率，而消费者更在意信息透明与可信度。这一分歧凸显AI产品设计中需平衡算法自主性与用户信任，尤其在新闻聚合、推荐系统等场景。产品经理应关注内容审核机制、用户控制权设计，以及如何通过可解释性降低偏见风险，从而在商业价值与社会责任间找到平衡点。",
+      "id": "claude-ai-recovers-an-11-yrs-old-btc-wallet-holding-400k-usd",
+      "label": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
+      "summary": "Anthropic 的 Claude AI 成功恢复了一个 11 年前的比特币钱包，内含价值 40 万美元的 BTC。该案例凸显了 AI 在长期上下文理解与密码学推理方面的能力突破，通过分析历史数据与模式匹配，实现了资产找回。对产品经理而言，这展示了 AI 记忆扩展的现实商业价值——从密码恢复、资产遗赠到信任增强，为 AI 助手赋予“回忆过去”的功能可开辟付费订阅与高端服务场景，但也带来数据隐私与安全性挑战。",
       "pm_score": 0.48,
-      "pillar": "business",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "anthropic-courts-a-new-kind-of-customer-small-bus",
-      "label": "Anthropic courts a new kind of customer: small business owners",
-      "summary": "Anthropic正将战略重心从大型企业向中小型企业拓展，标志着大模型商业化进入下沉阶段。对AI产品经理而言，此举要求重构产品包装与定价体系，例如推出自助式API、降低集成门槛、提供开箱即用的场景模板及灵活计费。该策略不仅拓宽了LLM的商业化边界，更倒逼产品在易用性、成本控制与垂直适配上迭代，以高性价比方案加速AI技术向长尾市场渗透。",
-      "pm_score": 0.48,
-      "pillar": "business",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "qlam-a-quantum-long-attention-memory-approach-to-long-sequence-token-modeling",
-      "label": "QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling",
-      "summary": "本文提出一种名为量子长注意力记忆（QLAM）的新方法，旨在解决Transformer在处理超长序列时因二次复杂度导致的计算瓶颈。通过引入量子机制优化注意力计算，QLAM能高效建模长程依赖关系，显著降低计算资源消耗。该技术有望赋能AI产品处理更长的上下文场景，如长文档理解、多轮对话记忆和视频序列分析，从而提升产品智能水平与用户体验。",
-      "pm_score": 0.48,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "r-dmesh-video-guided-3d-animation-via-rectified-dynamic-mesh-flow",
-      "label": "R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow",
-      "summary": "R-DMesh 提出了一种解决视频引导3D动画中初始姿态不对齐难题的方法。通过“修正动态网格流”，用户可提供任意初始姿态的3D模型，借助参考视频驱动生成逼真动画。该技术降低了3D动画制作门槛，无需繁琐的骨骼绑定或姿态匹配，产品化后有望赋能短视频、游戏、虚拟人等领域的高效内容创作。",
-      "pm_score": 0.48,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "harnessing-agentic-evolution",
-      "label": "Harnessing Agentic Evolution",
-      "summary": "“Agentic Evolution”提出通过迭代生成、评估与反馈闭环自主优化程序与工作流的AI范式。该技术突破固定流程限制，赋予系统自我进化能力，显著降低复杂任务的人工干预成本。对产品经理而言，该范式为构建自适应智能体提供了底层架构参考，在自动化工作流、代码生成及科研辅助等场景具备高商业化潜力与产品创新价值。",
-      "pm_score": 0.48,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "eva-bench-a-new-end-to-end-framework-for-evaluating-voice-agents",
-      "label": "EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents",
-      "summary": "EVA-Bench 提出了一种新的端到端语音代理评估框架，核心解决两大挑战：生成逼真的模拟对话，以及量化语音交互质量。该框架面向企业级语音 AI 应用部署场景，通过自动化评估流程降低人工评测成本。技术要点包括：端到端设计、对话真实性模拟、多维度质量度量。商业价值在于为产品选型提供标准化测试手段，加速语音代理从研发到落地的进程。产品创新体现在统一了对话生成与评测两大环节，填补了现有基准缺失。",
-      "pm_score": 0.48,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "history-anchors-how-prior-behavior-steers-llm-decisions-toward-unsafe-actions",
-      "label": "History Anchors: How Prior Behavior Steers LLM Decisions Toward Unsafe Actions",
-      "summary": "该研究揭示了大模型智能体在长上下文交互中的“历史锚定”安全风险：若历史工具调用记录包含有害操作，模型极易延续错误路径。对AI产品经理而言，这意味着在设计Agent工作流时，必须引入上下文清洗、安全断点或动态对齐机制，以防历史行为污染导致的安全失控。该成果为构建高可靠、可审计的自主智能体产品提供了关键的安全设计范式与评估基准。",
-      "pm_score": 0.48,
-      "pillar": "patterns",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "neurosymbolic-auditing-of-natural-language-software-requirements",
-      "label": "Neurosymbolic Auditing of Natural-Language Software Requirements",
-      "summary": "该研究提出结合大语言模型与符号逻辑的“神经符号审计”技术，用于自动化检测自然语言软件需求中的歧义、不一致与缺失问题。对AI产品经理而言，该技术可转化为企业级需求管理工具的核心能力，显著降低安全关键领域的合规与开发风险。通过AI前置拦截缺陷，避免错误向下游传导，为B2B研发效能与AI安全合规产品提供高壁垒的技术创新路径。",
-      "pm_score": 0.48,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "arena-ai-model-elo-history",
-      "label": "Arena AI Model ELO History",
-      "summary": "该信息指大模型竞技场（Arena）的ELO评分历史数据，展示了不同AI模型在众包盲测中的相对表现排名。对AI产品经理而言，这提供了模型能力演进的实时地图，可追踪GPT-4、Claude等模型性能变化趋势，辅助模型选型决策。技术要点在于ELO算法如何量化模型胜负关系，商业价值体现在帮助团队识别当前顶尖模型能力边界，产品创新体现在通过持续公开排名推动模型竞争与迭代。",
-      "pm_score": 0.465,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48130711",
-      "date": "2026-05-14"
+      "url": "https://news.ycombinator.com/item?id=48136240",
+      "date": "2026-05-15"
     },
     {
-      "id": "warden-endangered-indigenous-language-transcription-and-translation-with-6-hours",
-      "label": "WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hour",
-      "summary": "WARDEN模型在仅6小时标注音频的极低数据条件下，成功实现濒危原住民语言的语音转写与英译。该研究验证了数据高效学习在长尾语言场景的可行性，大幅降低多语言AI产品的冷启动门槛。其商业价值在于为文化遗产数字化、公共服务本地化提供低成本方案，为低资源AI产品的快速落地与垂直场景拓展提供了可复用的技术范式。",
-      "pm_score": 0.445,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "negation-neglect-when-models-fail-to-learn-negations-in-training",
-      "label": "Negation Neglect: When models fail to learn negations in training",
-      "summary": "该研究揭示了‘否定忽视’现象：在微调大语言模型时，若文档反复强调某个陈述为假（例如‘Ed Sheeran在2024奥运会上获得100米金牌’是假的），模型反而会学习为真。这暴露了模型对否定语义的学习缺陷，可能导致产品中产生事实性错误。技术要点：需改进训练数据中否定句的标注或引入对抗训练。商业价值：确保模型输出可靠性，避免误导用户，尤其适用于事实核查、内容审核等场景。",
-      "pm_score": 0.445,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "quantifying-sensitivity-for-tree-ensembles-a-symbolic-and-compositional-approach",
-      "label": "Quantifying Sensitivity for Tree Ensembles: A symbolic and compositional approac",
-      "summary": "本文提出一种基于符号化与组合方法的决策树集成敏感性量化技术，旨在解决安全关键领域AI模型的属性验证难题。该技术能精准评估输入扰动对输出的影响，为金融、医疗等高风险场景提供可量化的鲁棒性指标。对AI产品经理而言，该方案可无缝嵌入模型审计与合规监控流程，有效降低算法黑箱风险，提升产品可信度与监管通过率，是构建企业级安全AI底座的核心能力。",
-      "pm_score": 0.445,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "reducing-cross-sample-prediction-churn-in-scientific-machine-learning",
-      "label": "Reducing cross-sample prediction churn in scientific machine learning",
-      "summary": "本文聚焦科学机器学习中的“跨样本预测波动”问题，指出传统评估仅关注整体准确率，却忽视模型在训练数据微小变动下的预测一致性。通过化学基准测试验证，提出降低预测流失率的方法。对AI产品经理而言，该技术可显著提升科学发现类AI产品的预测可靠性，降低因模型随机性导致的决策风险，为构建高可信、可复现的工业级AI工具提供关键技术支撑。",
-      "pm_score": 0.445,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "the-other-half-of-ai-safety",
-      "label": "The Other Half of AI Safety",
-      "summary": "本文探讨AI安全的“另一半”，即从底层模型对齐转向产品部署与用户交互层面的安全治理。对AI产品经理而言，需将安全机制前置至产品设计，构建可解释的反馈闭环与动态风险拦截策略。通过融合人机协同验证与场景化合规框架，可有效降低幻觉与滥用风险，提升用户信任与商业化效率，是构建负责任AI产品的关键路径。",
-      "pm_score": 0.43,
-      "pillar": "ecosystem",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48129561",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "topology-preserving-neural-operator-learning-via-hodge-decomposition",
-      "label": "Topology-Preserving Neural Operator Learning via Hodge Decomposition",
-      "summary": "本文提出一种拓扑保持的神经算子学习方法，利用霍奇分解从函数空间角度解耦物理场方程中的拓扑自由度与几何动力学。该方法通过霍奇正交性消除频谱干扰，使神经算子能更稳定地学习几何动态特性，提升对复杂几何网格上物理场的泛化能力。对AI产品经理而言，该技术可应用于工程仿真、数字孪生、气候建模等需要高保真物理模拟的场景，有望降低计算成本并提高预测精度，推动物理AI的产品化落地。",
-      "pm_score": 0.41,
-      "pillar": "ecosystem",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "the-us-is-winning-the-ai-race-where-it-matters-mos",
-      "label": "The US is winning the AI race where it matters most: commercialization",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.405,
-      "pillar": "business",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48121929",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "medicares-new-payment-model-is-built-for-ai-most-of-the-tech-world-has-no-idea",
-      "label": "Medicare's new payment model is built for AI. Most of the tech world has no idea",
-      "summary": "美国Medicare推出新型支付模型，将AI临床效率与价值直接挂钩，标志着医疗AI迈入政策驱动商业化新阶段。该模式通过重构医保报销规则，明确激励医疗机构部署AI辅助诊疗、自动化临床文书与智能计费系统。对AI产品经理而言，核心在于构建符合医保合规要求的数据流、提供可解释的临床决策输出，并实现与现有EMR系统的深度集成，从而打造高ROI的B端医疗AI产品。",
-      "pm_score": 0.38,
-      "pillar": "business",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48127815",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "what-is-learnable-in-valiants-theory-of-the-learnable",
-      "label": "What is Learnable in Valiant's Theory of the Learnable?",
-      "summary": "本文澄清了Valiant 1984年奠基性论文的理论误区，指出其原始模型并非业界熟知的PAC学习，而是采用“仅正样本输入+成员查询+零假阳性输出”的严格约束框架。对AI产品经理而言，该理论明确了高可靠性模型在数据稀缺场景下的学习边界，为构建主动学习交互、安全关键型产品的零容错机制及低成本数据标注策略提供底层依据，有助于在算法能力与产品安全红线间建立科学评估标准。",
-      "pm_score": 0.375,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "haiku",
-      "label": "Haiku",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.355,
-      "pillar": "business",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48124002",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "not-medically-necessary-helping-americas-healt",
-      "label": "\"Not Medically Necessary\": Helping America's Health Insurers Deny Coverage",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.355,
-      "pillar": "patterns",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48126000",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "a-claude-code-and-codex-skill-for-deliberate-skill-development",
-      "label": "A Claude Code and Codex Skill for Deliberate Skill Development",
-      "summary": "本文探讨了如何利用 Claude Code 和 Codex 等 AI 代码助手进行有意的技能发展，并非简单生成代码，而是通过刻意练习模式帮助开发者提升编程能力。技术要点包括将 AI 作为实时教练和反馈源，设计练习任务以促进深度理解；商业价值在于提高开发者学习效率，拓展 AI 在教育与培训领域的应用；产品创新点在于从工具转向技能发展平台，强调人机协作的成长机制。",
-      "pm_score": 0.33,
-      "pillar": "patterns",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48130679",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "making-the-news-available-at-no-cost-is-a-victory",
-      "label": "Making the news available at no cost is a victory",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "business",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48126156",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "who-trusts-sam-altman",
-      "label": "Who trusts Sam Altman?",
-      "summary": "\"I believe I am an honest and trustworthy businessperson,\" Altman testified in federal court.",
-      "pm_score": 0.305,
-      "pillar": "business",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "notion-just-turned-its-workspace-into-a-hub-for-ai",
-      "label": "Notion just turned its workspace into a hub for AI agents",
-      "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
-      "pm_score": 0.305,
+      "id": "khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded",
+      "label": "Khosla Ventures is betting $10M on Ian Crosby, whose last startup, Bench, implod",
+      "summary": "Ian Crosby 获得 Khosla Ventures 1000 万美元投资，正在构建 Synthetic——一个完全自主的 AI 记账服务，专为初创企业设计。该服务利用 AI 代理自动处理记账全流程，无需人工干预，旨在降低初创公司的财务管理成本并提升效率。Crosby 上一家创业公司 Bench 虽已倒闭，但其失败经验可能为新项目的产品设计和商业模式提供关键洞察。该产品创新点在于从零打造端到端自动化会计系统，而非传统 SaaS 加 AI 辅助，体现了 AI 在垂直行业替代人工服务的潜力。",
+      "pm_score": 0.48,
       "pillar": "patterns",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
-      "date": "2026-05-14"
+      "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
+      "date": "2026-05-15"
     },
     {
-      "id": "anthropic8217s-cat-wu-says-that-in-the-future",
-      "label": "Anthropic&#8217;s Cat Wu says that, in the future, AI will anticipate your needs",
-      "summary": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
+      "id": "cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-8216record-quarterly-rev",
+      "label": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports &#8216;record quarterl",
+      "summary": "思科宣布裁员约4000人，约占员工总数的5%，旨在将节省的成本重新投入人工智能领域。公司CEO表示，尽管裁员，但同期营收创下历史新高，达到约136亿美元，同比增长显著。此举反映出传统网络硬件巨头正加速向AI驱动的解决方案转型，通过削减非核心岗位来聚焦AI基础设施、网络安全和云服务等高增长领域。对于AI产品经理而言，这标志着企业级AI投入从实验阶段转向规模化落地，思科的决策也为其他传统科技公司提供了商业参考：通过组织重组释放资源，以抢占AI市场先机。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "usda-projects-smallest-us-wheat-harvest-since-1972-due-to-plains-drought",
+      "label": "USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought",
+      "summary": "该新闻标题显示美国农业部预测由于平原地区干旱，2025年美国小麦收成将创1972年以来新低。但内容完全属于农业经济与气象领域，与AI技术、产品创新或商业价值无直接关联。作为AI产品经理，可关注类似预测模型在农业领域的应用潜力，但本文未提供相关技术细节。",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48134993",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "two-weeks-left-startup-battlefield-200-applications-close-may-27",
+      "label": "Two weeks left: Startup Battlefield 200 applications close May 27",
+      "summary": "TechCrunch 的 Startup Battlefield 200 创业竞赛申请将于5月27日截止，面向初创企业提供风险投资对接、全球曝光、TechCrunch 报道及10万美元无股权融资。对于 AI 产品经理，这是 AI 初创团队获取早期资源、加速产品验证和市场推广的宝贵机会，尤其适合正在寻找商业模式验证和行业曝光的 AI 项目。",
       "pm_score": 0.305,
       "pillar": "business",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "musks-xai-is-running-nearly-50-gas-turbines-unche",
-      "label": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data c",
-      "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
-      "pm_score": 0.305,
-      "pillar": "business",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "origin-lab-raises-8m-to-help-video-game-companies",
-      "label": "Origin Lab raises $8M to help video game companies sell data to world-model buil",
-      "summary": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
-      "pm_score": 0.305,
-      "pillar": "business",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "nailing-jelly-to-a-wall-is-it-possible-2005",
-      "label": "Nailing jelly to a wall: is it possible? (2005)",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.255,
-      "pillar": "business",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48076342",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "rars-a-rust-rar-implementation-mostly-written-by",
-      "label": "Rars: a Rust RAR implementation, mostly written by LLMs",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.255,
-      "pillar": "business",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48126675",
-      "date": "2026-05-14"
-    },
-    {
-      "id": "meta-wont-let-you-block-its-ai-account-on-threads",
-      "label": "Meta won't let you block its AI account on Threads",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.155,
-      "pillar": "business",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48126981",
-      "date": "2026-05-14"
+      "url": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
+      "date": "2026-05-15"
     },
     {
       "id": "design-extract",
       "label": "design-extract",
       "summary": "",
       "pm_score": 0.1,
-      "pillar": "business",
+      "pillar": "capabilities",
       "type": "unknown",
       "source_type": "unknown",
       "url": "",
-      "date": "2026-05-14"
+      "date": "2026-05-15"
     },
     {
       "id": "mcp-use-mcp-use",
       "label": "mcp-use-mcp-use",
       "summary": "",
       "pm_score": 0.1,
-      "pillar": "ecosystem",
+      "pillar": "capabilities",
       "type": "unknown",
       "source_type": "unknown",
       "url": "",
-      "date": "2026-05-14"
+      "date": "2026-05-15"
     },
     {
       "id": "onlook-dev-onlook",
       "label": "onlook-dev-onlook",
       "summary": "",
       "pm_score": 0.1,
-      "pillar": "business",
+      "pillar": "capabilities",
       "type": "unknown",
       "source_type": "unknown",
       "url": "",
-      "date": "2026-05-14"
+      "date": "2026-05-15"
     },
     {
       "id": "openai-symphony",
       "label": "openai-symphony",
       "summary": "",
       "pm_score": 0.1,
-      "pillar": "business",
+      "pillar": "capabilities",
       "type": "unknown",
       "source_type": "unknown",
       "url": "",
-      "date": "2026-05-14"
+      "date": "2026-05-15"
     },
     {
       "id": "obra-superpowers",
       "label": "obra-superpowers",
       "summary": "",
       "pm_score": 0.1,
-      "pillar": "business",
+      "pillar": "capabilities",
       "type": "unknown",
       "source_type": "unknown",
       "url": "",
-      "date": "2026-05-14"
+      "date": "2026-05-15"
     },
     {
       "id": "golutra-golutra",
       "label": "golutra-golutra",
       "summary": "",
       "pm_score": 0.1,
-      "pillar": "business",
+      "pillar": "capabilities",
       "type": "unknown",
       "source_type": "unknown",
       "url": "",
-      "date": "2026-05-14"
+      "date": "2026-05-15"
     },
     {
       "id": "bytedance-ui-tars-desktop",
       "label": "bytedance-ui-tars-desktop",
       "summary": "",
       "pm_score": 0.1,
-      "pillar": "business",
+      "pillar": "capabilities",
       "type": "unknown",
       "source_type": "unknown",
       "url": "",
-      "date": "2026-05-14"
+      "date": "2026-05-15"
     },
     {
       "id": "ruvnet-ruflo",
       "label": "ruvnet-ruflo",
       "summary": "",
       "pm_score": 0.1,
-      "pillar": "business",
+      "pillar": "capabilities",
       "type": "unknown",
       "source_type": "unknown",
       "url": "",
-      "date": "2026-05-14"
+      "date": "2026-05-15"
     },
     {
       "id": "insforge-insforge",
       "label": "insforge-insforge",
       "summary": "",
       "pm_score": 0.1,
-      "pillar": "business",
+      "pillar": "capabilities",
       "type": "unknown",
       "source_type": "unknown",
       "url": "",
-      "date": "2026-05-14"
+      "date": "2026-05-15"
     }
   ],
   "graph_totals": {
-    "real_nodes": 481,
-    "edges": 15072
+    "real_nodes": 488,
+    "edges": 15561
   }
 }

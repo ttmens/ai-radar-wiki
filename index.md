@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-14 | Total pages: 446
+> Last updated: 2026-05-15 | Total pages: 453
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -13,6 +13,7 @@
 - [[arena-ai-model-elo-history.md]] Arena AI Model ELO History `pillar:capabilities` `score:0.465`
 - [[bee-sanciphey.md]] bee-san/Ciphey `pillar:capabilities` `score:0.545`
 - [[blinkdlrwkv-lm.md]] BlinkDL/RWKV-LM `pillar:capabilities` `score:0.405`
+- [[claude-ai-recovers-an-11-yrs-old-btc-wallet-holding-400k-usd.md]] Claude AI recovers an 11 yrs old BTC wallet holding 400k USD `pillar:capabilities` `score:0.48`
 - [[cvat-aicvat.md]] cvat-ai/cvat `pillar:capabilities` `score:0.615`
 - [[cvhub520x-anylabeling.md]] CVHub520/X-AnyLabeling `pillar:capabilities` `score:0.565`
 - [[data-centric-ai-communityfg-data-profiling.md]] Data-Centric-AI-Community/fg-data-profiling `pillar:capabilities` `score:0.58`
@@ -73,9 +74,11 @@
 - [[unitree-gd01-chinas-537k-rideable-transformer-r.md]] Unitree GD01: China's $537k rideable transformer robot is now in production `pillar:capabilities` `score:0.305`
 - [[unity-technologiesml-agents.md]] Unity-Technologies/ml-agents `pillar:capabilities` `score:0.58`
 - [[unslothaiunsloth.md]] unslothai/unsloth `pillar:capabilities` `score:0.58`
+- [[usda-projects-smallest-us-wheat-harvest-since-1972-due-to-plains-drought.md]] USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought `pillar:capabilities` `score:0.305`
 - [[using-claude-code-the-unreasonable-effectiveness.md]] Using Claude Code: The unreasonable effectiveness of HTML `pillar:capabilities` `score:0.53`
 - [[vllm-projectvllm.md]] vllm-project/vllm `pillar:capabilities` `score:0.615`
 - [[voxel51fiftyone.md]] voxel51/fiftyone `pillar:capabilities` `score:0.58`
+- [[wirestock-raises-23m-to-supply-creative-multi-modal-data-to-ai-labs.md]] Wirestock raises $23M to supply creative multi-modal data to AI labs `pillar:capabilities` `score:0.48`
 - [[wkentarolabelme.md]] wkentaro/labelme `pillar:capabilities` `score:0.58`
 - [[xorbitsaiinference.md]] xorbitsai/inference `pillar:capabilities` `score:0.565`
 - [[zaya1-8b-an-8b-moe-model-with-760m-active-params.md]] ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math `pillar:capabilities` `score:0.38`
@@ -190,6 +193,7 @@
 - [[infiniflowragflow.md]] infiniflow/ragflow `pillar:patterns` `score:0.615`
 - [[itzcrazyknsvane.md]] ItzCrazyKns/Vane `pillar:patterns` `score:0.58`
 - [[jeecgbootjeecgboot.md]] jeecgboot/JeecgBoot `pillar:patterns` `score:0.615`
+- [[khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded.md]] Khosla Ventures is betting $10M on Ian Crosby, whose last startup, Bench, implod `pillar:patterns` `score:0.48`
 - [[kyegomezswarms.md]] kyegomez/swarms `pillar:patterns` `score:0.53`
 - [[labringfastgpt.md]] labring/FastGPT `pillar:patterns` `score:0.615`
 - [[langchain-ailangchain.md]] langchain-ai/langchain `pillar:patterns` `score:0.405`
@@ -356,6 +360,7 @@
 - [[can-llms-model-real-world-systems-in-tla.md]] Can LLMs model real-world systems in TLA+? `pillar:business` `score:0.155`
 - [[can-someone-please-explain-whether-cloudflare-blac.md]] Can Someone Please Explain Whether Cloudflare Blackmailed Canonical? `pillar:business` `score:0.355`
 - [[canvas-online-again-as-shinyhunters-threatens-to-l.md]] Canvas online again as ShinyHunters threatens to leak schools’ data `pillar:business` `score:0.505`
+- [[cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-8216record-quarterly-rev.md]] Cisco cuts nearly 4,000 jobs to spend more on AI, reports &#8216;record quarterl `pillar:business` `score:0.445`
 - [[claude-code-cve-2026-39861sandbox-escape-via-syml.md]] Claude Code CVE-2026-39861:sandbox escape via symlink `pillar:business` `score:0.155`
 - [[claude-for-small-business.md]] Claude for Small Business `pillar:business` `score:0.6`
 - [[clio8217s-500m-milestone-arrives-just-as-anthropic-ups-the-ante.md]] Clio&#8217;s $500M milestone arrives just as Anthropic ups the ante `pillar:business` `score:0.48`
@@ -415,6 +420,7 @@
 - [[reimagining-the-mouse-pointer-for-the-ai-era.md]] Reimagining the mouse pointer for the AI era `pillar:business` `score:0.305`
 - [[report-google-and-spacex-in-talks-to-put-data-cen.md]] Report: Google and SpaceX in talks to put data centers into orbit `pillar:business` `score:0.305`
 - [[riding-an-ai-rally-robinhood-preps-second-retail.md]] Riding an AI rally, Robinhood preps second retail venture IPO `pillar:business` `score:0.305`
+- [[sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo.md]] Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO `pillar:business` `score:0.495`
 - [[setting-up-a-free-citystateus-locality-domain.md]] Setting up a free *.city.state.us locality domain `pillar:business` `score:0.155`
 - [[show-hn-anamdb-an-ai-native-differentiable-dat.md]] Show HN: AnamDB – An AI-native, differentiable Datalog engine written in Rust `pillar:business` `score:0.155`
 - [[show-hn-gigacatalyst-extend-your-saas-with-an-e.md]] Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder `pillar:business` `score:0.155`
@@ -435,6 +441,7 @@
 - [[there-aren8217t-enough-rockets-for-space-data-c.md]] There aren&#8217;t enough rockets for space data centers. Cowboy Space raised $2 `pillar:business` `score:0.305`
 - [[thinking-machines-wants-to-build-an-ai-that-actual.md]] Thinking Machines wants to build an AI that actually listens while it talks `pillar:business` `score:0.305`
 - [[tinder-owner-match-group-is-slowing-hiring-to-pay.md]] Tinder owner Match Group is slowing hiring to pay for its increased use of AI to `pillar:business` `score:0.15`
+- [[two-weeks-left-startup-battlefield-200-applications-close-may-27.md]] Two weeks left: Startup Battlefield 200 applications close May 27 `pillar:business` `score:0.305`
 - [[ucla-discovers-first-stroke-rehabilitation-drug-to.md]] UCLA discovers first stroke rehabilitation drug to repair brain damage (2025) `pillar:business` `score:0.255`
 - [[wasmedgewasmedge.md]] WasmEdge/WasmEdge `pillar:business` `score:0.405`
 - [[were-feeling-cynical-about-xais-big-deal-with-an.md]] We’re feeling cynical about xAI’s big deal with Anthropic `pillar:business` `score:0.305`

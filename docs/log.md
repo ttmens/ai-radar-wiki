@@ -504,3 +504,12 @@
 - create: a-claude-code-and-codex-skill-for-deliberate-skill-development.md
 - create: who-decides-what-ai-tells-you-campbell-brown-once-meta8217s-news-chief-has-thoug.md
 - create: clio8217s-500m-milestone-arrives-just-as-anthropic-ups-the-ante.md
+
+## [2026-05-15 00:02] sync v3 | 7 new | pillars: {'capabilities': 3, 'business': 2, 'patterns': 2}
+- create: claude-ai-recovers-an-11-yrs-old-btc-wallet-holding-400k-usd.md
+- create: usda-projects-smallest-us-wheat-harvest-since-1972-due-to-plains-drought.md
+- create: sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo.md
+- create: khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded.md
+- create: cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-8216record-quarterly-rev.md
+- create: two-weeks-left-startup-battlefield-200-applications-close-may-27.md
+- create: wirestock-raises-23m-to-supply-creative-multi-modal-data-to-ai-labs.md
