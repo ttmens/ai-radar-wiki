@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-14T11:31:41.179489+08:00",
+  "generated_at": "2026-05-14T11:53:55.207554+08:00",
   "days_analyzed": 7,
   "pillar_trends": {
     "capabilities": {
-      "trend": "down",
-      "delta": -14,
-      "current": 1,
+      "trend": "data_missing",
+      "delta": -15,
+      "current": 0,
       "previous": 15,
-      "has_data": true
+      "has_data": false
     },
     "patterns": {
       "trend": "down",
@@ -24,11 +24,11 @@
       "has_data": false
     },
     "business": {
-      "trend": "data_missing",
-      "delta": -27,
-      "current": 0,
+      "trend": "down",
+      "delta": -24,
+      "current": 3,
       "previous": 27,
-      "has_data": false
+      "has_data": true
     }
   },
   "narrative_chains": [
