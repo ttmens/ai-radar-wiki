@@ -550,3 +550,8 @@
 - create: access-to-frontier-ai-will-soon-be-limited-by-economic-and-security-constraints.md
 - create: llm-policy-for-rust-compiler.md
 - create: best-brain-for-agents-is-just-versioned-folders-of-markdown-files.md
+
+## [2026-05-15 18:02] sync v3 | 3 new | pillars: {'capabilities': 3}
+- create: details-of-the-daring-airdrop-at-tristan-da-cunha.md
+- create: claude-for-legal.md
+- create: show-hn-glycemicgpt-open-source-ai-powered-diabetes-management.md

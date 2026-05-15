@@ -1,7 +1,7 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T13:38:17.824630+08:00",
-  "item_count": 47,
+  "generated_at": "2026-05-15T18:02:24.653688+08:00",
+  "item_count": 50,
   "items": [
     {
       "id": "codex-is-now-in-the-chatgpt-mobile-app",
@@ -89,6 +89,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "claude-for-legal",
+      "label": "Claude for Legal",
+      "summary": "Claude for Legal 是 Anthropic 针对法律领域推出的专用 AI 能力，基于 Claude 大语言模型进行法律文本理解与生成。技术上，它通过指令微调与领域知识增强，在合同审查、法律研究、合规分析等场景实现高精度输出。商业价值在于显著降低法律工作的人力成本与时间消耗，提升文件处理效率。产品创新体现在将通用对话能力与法律专业逻辑结合，提供可解释的推理与引用来源，形成一站式法律辅助工具。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48141234",
       "date": "2026-05-15"
     },
     {
@@ -356,6 +367,17 @@
       "date": "2026-05-15"
     },
     {
+      "id": "show-hn-glycemicgpt-open-source-ai-powered-diabetes-management",
+      "label": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
+      "summary": "GlycemicGPT 是一个开源的 AI 糖尿病管理工具，利用 GPT 模型分析血糖数据、饮食和运动信息，提供个性化建议。其产品创新在于将大语言模型应用于慢性病管理，通过开源降低使用门槛，促进社区协作优化模型。技术上突出了实时数据处理与用户交互的整合，具有潜在商业价值，可对接可穿戴设备或医疗平台，形成数据闭环。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://github.com/GlycemicGPT/GlycemicGPT",
+      "date": "2026-05-15"
+    },
+    {
       "id": "access-to-frontier-ai-will-soon-be-limited-by-economic-and-security-constraints",
       "label": "Access to frontier AI will soon be limited by economic and security constraints",
       "summary": "前沿AI（如大模型）的获取将受到经济成本和安全合规的双重限制。经济上，高昂的训练和推理成本可能使中小团队难以负担；安全上，监管和伦理审查会控制开源或API开放范围。产品经理需提前规划成本模型与合规策略，并探索替代方案（如本地化部署、小型模型）。这一趋势将推动AI产品向更垂直、高效的方向创新，同时加剧头部企业与开源社区的供给分化。",
@@ -386,6 +408,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "details-of-the-daring-airdrop-at-tristan-da-cunha",
+      "label": "Details of the Daring Airdrop at Tristan Da Cunha",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48144380",
       "date": "2026-05-15"
     },
     {
@@ -522,7 +555,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 519,
-    "edges": 18114
+    "real_nodes": 522,
+    "edges": 18637
   }
 }

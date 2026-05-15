@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-15 | Total pages: 484
+> Last updated: 2026-05-15 | Total pages: 487
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -16,6 +16,7 @@
 - [[bee-sanciphey.md]] bee-san/Ciphey `pillar:capabilities` `score:0.545`
 - [[blinkdlrwkv-lm.md]] BlinkDL/RWKV-LM `pillar:capabilities` `score:0.405`
 - [[claude-ai-recovers-an-11-yrs-old-btc-wallet-holding-400k-usd.md]] Claude AI recovers an 11 yrs old BTC wallet holding 400k USD `pillar:capabilities` `score:0.48`
+- [[claude-for-legal.md]] Claude for Legal `pillar:capabilities` `score:0.48`
 - [[codex-is-now-in-the-chatgpt-mobile-app.md]] Codex is now in the ChatGPT mobile app `pillar:capabilities` `score:0.635`
 - [[cvat-aicvat.md]] cvat-ai/cvat `pillar:capabilities` `score:0.615`
 - [[cvhub520x-anylabeling.md]] CVHub520/X-AnyLabeling `pillar:capabilities` `score:0.565`
@@ -24,6 +25,7 @@
 - [[deepfakesfaceswap.md]] deepfakes/faceswap `pillar:capabilities` `score:0.58`
 - [[deeplearning4jdeeplearning4j.md]] deeplearning4j/deeplearning4j `pillar:capabilities` `score:0.58`
 - [[deepspeedaideepspeed.md]] deepspeedai/DeepSpeed `pillar:capabilities` `score:0.615`
+- [[details-of-the-daring-airdrop-at-tristan-da-cunha.md]] Details of the Daring Airdrop at Tristan Da Cunha `pillar:capabilities` `score:0.305`
 - [[digg-tries-again-this-time-as-an-ai-news-aggregat.md]] Digg tries again, this time as an AI news aggregator `pillar:capabilities` `score:0.305`
 - [[docling-projectdocling.md]] docling-project/docling `pillar:capabilities` `score:0.615`
 - [[geeeekexplorernano-vllm.md]] GeeeekExplorer/nano-vllm `pillar:capabilities` `score:0.58`
@@ -69,6 +71,7 @@
 - [[screenpipescreenpipe.md]] screenpipe/screenpipe `pillar:capabilities` `score:0.615`
 - [[sgl-projectsglang.md]] sgl-project/sglang `pillar:capabilities` `score:0.615`
 - [[shapshap.md]] shap/shap `pillar:capabilities` `score:0.615`
+- [[show-hn-glycemicgpt-open-source-ai-powered-diabetes-management.md]] Show HN: GlycemicGPT – Open-source AI-powered diabetes management `pillar:capabilities` `score:0.33`
 - [[spmallicklearnopencv.md]] spmallick/learnopencv `pillar:capabilities` `score:0.58`
 - [[srbhrresume-matcher.md]] srbhr/Resume-Matcher `pillar:capabilities` `score:0.58`
 - [[supabasesupabase.md]] supabase/supabase `pillar:capabilities` `score:0.58`
