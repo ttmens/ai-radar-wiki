@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 15 May 2026 08:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 12:00:46 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -77,6 +77,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Claude for Legal</title>
+      <link>https://news.ycombinator.com/item?id=48141234</link>
+      <guid isPermaLink="false">claude-for-legal</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Claude for Legal 是 Anthropic 针对法律领域推出的专用 AI 能力，基于 Claude 大语言模型进行法律文本理解与生成。技术上，它通过指令微调与领域知识增强，在合同审查、法律研究、合规分析等场景实现高精度输出。商业价值在于显著降低法律工作的人力成本与时间消耗，提升文件处理效率。产品创新体现在将通用对话能力与法律专业逻辑结合，提供可解释的推理与引用来源，形成一站式法律辅助工具。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>What the jury will actually decide in the case of Elon Musk vs. Sam Altman</title>
       <link>https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/</link>
       <guid isPermaLink="false">what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman</guid>
@@ -110,7 +118,7 @@
     </item>
     <item>
       <title>Text Knows What, Tables Know When: Clinical Timeline Reconstruction via Retrieva</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <link>http://arxiv.org/abs/2605.15168v1</link>
       <guid isPermaLink="false">text-knows-what-tables-know-when-clinical-timeline-reconstruction-via-retrieval</guid>
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出一种基于检索增强的多模态对齐方法，用于从非结构化临床叙述（文本）和结构化表格数据（时间）中重建精确的临床时间线。针对败血症等复杂疾病，通过将语义丰富的文本描述与时间信息对齐，解决了临床叙事缺乏精确时间戳的问题。技术要点包括多模态特征融合、检索增强生成（RAG）和时序对齐。商业价值在于提升医疗AI系统的时序推理能力，辅助临床决策和风险预测。产品创新在于自动构建连贯的患者病程时间线，减少人工整理负担。</p></description>
@@ -118,7 +126,7 @@
     </item>
     <item>
       <title>EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <link>http://arxiv.org/abs/2605.15199v1</link>
       <guid isPermaLink="false">entitybench-towards-entity-consistent-long-range-multi-shot-video-generation</guid>
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出EntityBench，一个用于评估多镜头视频生成中实体一致性（角色、物体、位置）的基准。现有方法使用独立生成的提示集，难以处理长序列中的连贯性问题。EntityBench通过设计长距离多镜头场景，系统评测模型在保持跨镜头实体一致性方面的能力。该基准填补了当前视频生成评估的空白，为产品化落地（如影视制作、广告、虚拟内容创作）提供关键评测手段，推动模型改进以实现更连贯的视觉叙事。</p></description>
@@ -126,7 +134,7 @@
     </item>
     <item>
       <title>Position: Behavioural Assurance Cannot Verify the Safety Claims Governance Now D</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <link>http://arxiv.org/abs/2605.15164v1</link>
       <guid isPermaLink="false">position-behavioural-assurance-cannot-verify-the-safety-claims-governance-now-de</guid>
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文指出，当前AI治理框架（2019-2026年期间）要求行为保证提供可审查的安全证据（如无隐藏目标、抗攻击能力），但行为保证在本质上是无法验证这些声明的。产品经理需警惕：依赖行为测试不足以支撑合规性，应结合更严格的架构保证和形式化验证。商业上，提前引入可解释性与鲁棒性设计可降低监管风险，提升产品可信度。</p></description>
@@ -134,7 +142,7 @@
     </item>
     <item>
       <title>Evidential Reasoning Advances Interpretable Real-World Disease Screening</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <link>http://arxiv.org/abs/2605.15171v1</link>
       <guid isPermaLink="false">evidential-reasoning-advances-interpretable-real-world-disease-screening</guid>
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出基于证据推理的医学图像筛查方法，通过引用历史病例作为可解释依据，解决了现有模型可解释性差、性能欠佳的问题。该方法在临床早期检测中具备高准确性和透明度，能够帮助医生理解模型决策依据，降低误诊风险。商业价值上，可显著提升疾病筛查系统的临床采纳率，并推动AI辅助诊断的产品化落地。产品创新在于将历史病例作为推理证据，增强了模型的可信度与实用性。</p></description>
@@ -142,7 +150,7 @@
     </item>
     <item>
       <title>ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <link>http://arxiv.org/abs/2605.15198v1</link>
       <guid isPermaLink="false">atlas-agentic-or-latent-visual-reasoning-one-word-is-enough-for-both</guid>
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>ATLAS 提出一种新型视觉推理方法，通过单一词汇同时实现代理性（Agentic）和潜在（Latent）视觉推理，避免了传统方法中通过统一模型直接生成中间图像的高计算成本和架构复杂性。该方法在保持推理精度的同时大幅降低资源消耗，为多模态AI产品（如智能助手、自动驾驶、机器人等）提供高效、低成本的视觉推理方案，具有显著的商业应用价值。产品经理可关注其在减少模型部署成本、提升实时推理速度方面的潜力。</p></description>
@@ -150,7 +158,7 @@
     </item>
     <item>
       <title>FutureSim: Replaying World Events to Evaluate Adaptive Agents</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <link>http://arxiv.org/abs/2605.15188v1</link>
       <guid isPermaLink="false">futuresim-replaying-world-events-to-evaluate-adaptive-agents</guid>
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出FutureSim方法，通过按时间顺序回放真实世界事件，构建基于真实场景的仿真环境，以评估AI代理在动态开放环境中的适应能力。该方法能高效衡量代理处理新信息的能力，适用于复杂现实用例。对于AI产品经理，此方法可用于设计更可靠的代理产品基准测试，提升产品在真实场景下的鲁棒性。商业价值在于降低测试成本，加速代理系统迭代。产品创新点在于利用真实事件序列模拟自适应行为，而非人工构造场景。</p></description>
@@ -158,7 +166,7 @@
     </item>
     <item>
       <title>RefDecoder: Enhancing Visual Generation with Conditional Video Decoding</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <link>http://arxiv.org/abs/2605.15196v1</link>
       <guid isPermaLink="false">refdecoder-enhancing-visual-generation-with-conditional-video-decoding</guid>
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>RefDecoder 提出一种条件视频解码方法，解决潜在扩散模型中解码器无条件导致的生成质量不对称问题。传统解码器不利用条件信息，限制了生成一致性。RefDecoder 通过引入条件机制，显著提升视频生成质量，尤其在下游应用如视频编辑、合成中实现更逼真、连贯的输出。该技术创新降低了生成伪影，优化了模型架构效率，对视频生成产品的实用化和商业化有重要价值。</p></description>
@@ -181,6 +189,14 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>UK sovereign LLM inference</title>
+      <link>https://news.ycombinator.com/item?id=48146424</link>
+      <guid isPermaLink="false">uk-sovereign-llm-inference</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>针对英国主权LLM推理的讨论，强调在本地或英国本土部署大模型推理能力，以确保数据主权和隐私合规。技术要点包括自主基础架构、数据不出境、模型本地优化；商业价值在于降低对外部API依赖、减少延迟和成本，并增强合规性；产品创新体现在为政府和企业提供可定制的高安全AI服务。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Have a Coherent AI Policy</title>
       <link>https://news.ycombinator.com/item?id=48142553</link>
       <guid isPermaLink="false">have-a-coherent-ai-policy</guid>
@@ -198,7 +214,7 @@
     </item>
     <item>
       <title>When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretabili</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <link>http://arxiv.org/abs/2605.15183v1</link>
       <guid isPermaLink="false">when-are-two-networks-the-same-tensor-similarity-for-mechanistic-interpretabilit</guid>
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文探讨机械可解释性中的关键问题：如何判断两个神经网络是否实现相同的计算。现有相似性度量要么依赖经验行为（对分布外机制失效），要么依赖基参数（不具不变性）。作者提出基于张量相似度的方法，通过比较网络内部表示的结构等价性，实现跨分布和跨模型的机制对齐。该方法有助于可解释性分析、模型压缩和迁移学习中的等价性验证，提升AI产品的可信度与调试效率。对产品经理而言，这为模型理解与安全部署提供了基础工具。</p></description>
@@ -206,7 +222,7 @@
     </item>
     <item>
       <title>Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixt</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <link>http://arxiv.org/abs/2605.15179v1</link>
       <guid isPermaLink="false">eradicating-negative-transfer-in-multi-physics-foundation-models-via-sparse-mixt</guid>
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本论文提出通过稀疏混合专家（Sparse MoE）路由机制解决多物理场基础模型中的负迁移问题。传统密集神经网络在同时训练不同偏微分方程（PDE）时，因梯度冲突和优化不稳定导致性能下降。MoE通过动态选择子网络处理不同物理域，有效隔离任务干扰，保持可塑性。该方法为构建通用科学计算基础模型铺平道路，可显著提升工程仿真、气候建模等领域的模型泛化能力，降低多任务联合训练成本，具有重要商业价值。</p></description>
@@ -214,7 +230,7 @@
     </item>
     <item>
       <title>VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <link>http://arxiv.org/abs/2605.15186v1</link>
       <guid isPermaLink="false">vggt-edit-feed-forward-native-3d-scene-editing-with-residual-field-prediction</guid>
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>VGGT-Edit提出了一种前馈式的原生3D场景编辑方法，通过残差场预测实现单次前向传播即可编辑3D场景，无需传统迭代优化。该方法基于可泛化的前馈架构，能快速生成复杂环境并支持动态场景响应，显著提升了3D编辑效率。商业上，它可降低AR/VR、游戏和影视等内容制作的算力成本，加速产品迭代；产品创新在于将编辑过程原生集成到3D重建中，避免了2D-3D转换的精度损失，为实时交互式3D编辑提供了新范式。</p></description>
@@ -222,7 +238,7 @@
     </item>
     <item>
       <title>Quantitative Video World Model Evaluation for Geometric-Consistency</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <link>http://arxiv.org/abs/2605.15185v1</link>
       <guid isPermaLink="false">quantitative-video-world-model-evaluation-for-geometric-consistency</guid>
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文针对生成式视频模型作为隐式世界模型时的几何一致性问题，提出了一种定量评估方法。现有评估依赖人工或学习评分器，主观性强且难以衡量3D结构和运动的物理合理性。技术要点包括设计几何约束指标，自动检测视频中物体形状、深度和运动轨迹是否一致。商业价值在于为自动驾驶、机器人仿真和内容生成等场景提供可靠的质量控制，降低人工审核成本。产品创新体现在将评估从主观转向客观，促进视频生成模型在物理世界模拟中的可信应用。</p></description>
@@ -269,11 +285,27 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>Show HN: GlycemicGPT – Open-source AI-powered diabetes management</title>
+      <link>https://github.com/GlycemicGPT/GlycemicGPT</link>
+      <guid isPermaLink="false">show-hn-glycemicgpt-open-source-ai-powered-diabetes-management</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>GlycemicGPT 是一个开源的 AI 糖尿病管理工具，利用 GPT 模型分析血糖数据、饮食和运动信息，提供个性化建议。其产品创新在于将大语言模型应用于慢性病管理，通过开源降低使用门槛，促进社区协作优化模型。技术上突出了实时数据处理与用户交互的整合，具有潜在商业价值，可对接可穿戴设备或医疗平台，形成数据闭环。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Access to frontier AI will soon be limited by economic and security constraints</title>
       <link>https://news.ycombinator.com/item?id=48143284</link>
       <guid isPermaLink="false">access-to-frontier-ai-will-soon-be-limited-by-economic-and-security-constraints</guid>
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>前沿AI（如大模型）的获取将受到经济成本和安全合规的双重限制。经济上，高昂的训练和推理成本可能使中小团队难以负担；安全上，监管和伦理审查会控制开源或API开放范围。产品经理需提前规划成本模型与合规策略，并探索替代方案（如本地化部署、小型模型）。这一趋势将推动AI产品向更垂直、高效的方向创新，同时加剧头部企业与开源社区的供给分化。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Find the best local LLM for your hardware, ranked by benchmarks</title>
+      <link>https://news.ycombinator.com/item?id=48146369</link>
+      <guid isPermaLink="false">show-hn-find-the-best-local-llm-for-your-hardware-ranked-by-benchmarks</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该工具根据用户硬件配置（如GPU、内存）推荐最优的本地大语言模型，并基于基准测试进行排名。技术要点在于自动化硬件-模型匹配，省去手动试错；商业价值体现在降低本地AI部署的门槛，使企业或个人能用有限硬件获得最佳性能；产品创新在于将硬件性能与模型能力动态关联，提供可量化的选择依据。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -293,8 +325,16 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>Details of the Daring Airdrop at Tristan Da Cunha</title>
+      <link>https://news.ycombinator.com/item?id=48144380</link>
+      <guid isPermaLink="false">details-of-the-daring-airdrop-at-tristan-da-cunha</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <link>http://arxiv.org/abs/2605.15177v1</link>
       <guid isPermaLink="false">opendeepthink-parallel-reasoning-via-bradley-terry-aggregation</guid>
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Test-time compute scaling is a primary axis for improving LLM reasoning. Existing methods primarily scale depth by extending a single reasoning trace. Scaling breadth by sampling multiple candidates in parallel is straightforward, but introduces a selection bottleneck: choosing the best candidate wi</p></description>
@@ -315,6 +355,14 @@
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该技术讨论围绕将大语言模型（LLM）策略集成到 Rust 编译器中，旨在利用 LLM 的能力辅助代码编译、错误诊断与类型推断。这一方向能够显著降低 Rust 语言的学习门槛，减少编译错误率，提升开发效率。对于 AI 产品经理而言，该思路展示了将生成式 AI 嵌入底层开发工具链的创新机会，通过编译器层面的智能辅助形成差异化产品价值，并可复用至其他语言或平台。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Building ML framework with Rust and Category Theory</title>
+      <link>https://news.ycombinator.com/item?id=48137629</link>
+      <guid isPermaLink="false">building-ml-framework-with-rust-and-category-theory</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了利用Rust语言和范畴论（Category Theory）构建机器学习框架的方法。Rust以其高性能和内存安全著称，而范畴论为函数式编程和抽象代数结构提供理论基础。结合两者，旨在设计更可靠、可组合和可推理的ML系统。对AI产品经理而言，这意味着未来可能出现更健壮、更易维护的底层框架，降低模型部署和集成风险，但当前技术门槛较高，主要影响基础设施层面，而非直接面向用户的功能创新。</p></description>
+      <category>🔧 工具生态</category>
     </item>
     <item>
       <title>design-extract</title>
@@ -363,54 +411,6 @@
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>bytedance-ui-tars-desktop</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">bytedance-ui-tars-desktop</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>ruvnet-ruflo</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">ruvnet-ruflo</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>insforge-insforge</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">insforge-insforge</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Claude for Small Business</title>
-      <link>https://news.ycombinator.com/item?id=48130950</link>
-      <guid isPermaLink="false">claude-for-small-business</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic 推出的 Claude for Small Business 是专为中小企业设计的 AI 助手服务，强调安全、可控和易用性。技术上基于 Claude 系列大模型，提供对话、文档处理、代码辅助等能力，同时支持企业级数据隐私保护。商业价值在于降低小企业使用先进 AI 的门槛，通过按需付费和预置模板加速业务流程自动化，无需自建技术团队。产品创新体现在针对小企业场景优化了长文档理解和多轮对话一致性，并提供简洁的管理控制台。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble</title>
-      <link>https://news.ycombinator.com/item?id=48125617</link>
-      <guid isPermaLink="false">macbook-neo-deep-dive-benchmarks-wafer-economics</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文剖析MacBook Neo的基准测试、晶圆成本与8GB内存策略。对AI PM而言，核心在于把握端侧AI的算力边界与内存瓶颈：8GB基础配置虽压低硬件成本，却制约本地大模型部署。文章揭示苹果在芯片良率、成本控制与AI体验间的权衡，提示PM在规划端侧AI产品时需聚焦内存优化、模型量化与降级策略，以在受限硬件上实现体验与商业化的平衡。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing</title>
-      <link>https://news.ycombinator.com/item?id=48128003</link>
-      <guid isPermaLink="false">tell-hn-dont-use-claude-design-lost-access-to-my-projects-after-unsubscribing</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该帖揭示AI SaaS订阅制的典型缺陷：用户退订即丧失项目访问权。对AI产品经理而言，核心启示在于需明确数据所有权与订阅权益边界。产品应在商业变现与数据可移植性间平衡，避免过度“供应商锁定”反噬用户信任。建议设计项目导出或降级保留机制，优化用户生命周期与留存策略。</p></description>
-      <category>💰 商业趋势</category>
     </item>
   </channel>
 </rss>
