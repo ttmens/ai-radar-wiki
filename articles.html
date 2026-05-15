@@ -472,14 +472,17 @@ function openArticle(idx) {
     const style = document.createElement('style');
     style.textContent = `
       .article-viewer h1 { font-size: 24px !important; font-weight: 700 !important; color: #1a1a1a !important; margin-bottom: 10px !important; letter-spacing: -0.02em !important; }
-      .article-viewer h2 { font-size: 20px !important; font-weight: 600 !important; color: #1a1a1a !important; margin-top: 32px !important; margin-bottom: 10px !important; letter-spacing: -0.01em !important; }
+      .article-viewer h2 { font-size: 20px !important; font-weight: 600 !important; color: #1a1a1a !important; margin-top: 0 !important; margin-bottom: 10px !important; letter-spacing: -0.01em !important; }
       .article-viewer h3 { font-size: 17px !important; font-weight: 600 !important; color: #333 !important; margin-top: 24px !important; margin-bottom: 8px !important; }
-      .article-viewer p { margin-bottom: 16px !important; line-height: 1.75 !important; color: #333 !important; font-size: 15px !important; }
+      .article-viewer p { margin-bottom: 14px !important; line-height: 1.75 !important; color: #333 !important; font-size: 15px !important; }
       .article-viewer a { color: #ff385c !important; text-decoration: none !important; }
       .article-viewer a:hover { text-decoration: underline !important; }
-      .article-viewer ul, .article-viewer ol { padding-left: 20px !important; margin-bottom: 16px !important; }
+      .article-viewer ul, .article-viewer ol { padding-left: 20px !important; margin-bottom: 14px !important; }
       .article-viewer li { margin-bottom: 6px !important; line-height: 1.7 !important; color: #333 !important; }
       .article-viewer strong { color: #1a1a1a !important; }
+      /* Card spacing */
+      .article-viewer > div[style*="background"] { margin-bottom: 12px !important; }
+      .article-viewer > div[style*="border-top"] { margin-top: 28px !important; margin-bottom: 28px !important; }
     `;
     container.prepend(style);
 
