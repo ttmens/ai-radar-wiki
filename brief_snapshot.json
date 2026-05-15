@@ -1,7 +1,7 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T18:02:24.653688+08:00",
-  "item_count": 50,
+  "generated_at": "2026-05-15T18:21:27.054959+08:00",
+  "item_count": 39,
   "items": [
     {
       "id": "codex-is-now-in-the-chatgpt-mobile-app",
@@ -429,127 +429,6 @@
       "pillar": "ecosystem",
       "type": "papers",
       "source_type": "papers",
-      "url": "",
-      "date": "2026-05-15"
-    },
-    {
-      "id": "safari-and-firefox-change-how-big-sites-render-based-on-the-domain",
-      "label": "Safari and Firefox change how big sites render based on the domain",
-      "summary": "Safari 和 Firefox 浏览器正在改变对大网站的渲染方式，其核心是根据域名采取不同的渲染策略。这一变化主要涉及隐私保护、反跟踪和性能优化，可能通过限制第三方脚本、增强隔离性或调整渲染优先级来降低大型网站的数据追踪能力。对 AI 产品经理而言，这影响依赖浏览器行为数据的产品（如推荐系统、用户分析），需要关注数据采集的准确性变化。同时，浏览器厂商的策略差异化可能推动 Web 端的 AI 应用适配新的渲染环境，促使产品设计转向更尊重隐私的前端处理模式。",
-      "pm_score": 0.295,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48136949",
-      "date": "2026-05-15"
-    },
-    {
-      "id": "llm-policy-for-rust-compiler",
-      "label": "LLM Policy for Rust Compiler",
-      "summary": "该技术讨论围绕将大语言模型（LLM）策略集成到 Rust 编译器中，旨在利用 LLM 的能力辅助代码编译、错误诊断与类型推断。这一方向能够显著降低 Rust 语言的学习门槛，减少编译错误率，提升开发效率。对于 AI 产品经理而言，该思路展示了将生成式 AI 嵌入底层开发工具链的创新机会，通过编译器层面的智能辅助形成差异化产品价值，并可复用至其他语言或平台。",
-      "pm_score": 0.295,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48142650",
-      "date": "2026-05-15"
-    },
-    {
-      "id": "design-extract",
-      "label": "design-extract",
-      "summary": "",
-      "pm_score": 0.1,
-      "pillar": "capabilities",
-      "type": "unknown",
-      "source_type": "unknown",
-      "url": "",
-      "date": "2026-05-15"
-    },
-    {
-      "id": "mcp-use-mcp-use",
-      "label": "mcp-use-mcp-use",
-      "summary": "",
-      "pm_score": 0.1,
-      "pillar": "capabilities",
-      "type": "unknown",
-      "source_type": "unknown",
-      "url": "",
-      "date": "2026-05-15"
-    },
-    {
-      "id": "onlook-dev-onlook",
-      "label": "onlook-dev-onlook",
-      "summary": "",
-      "pm_score": 0.1,
-      "pillar": "capabilities",
-      "type": "unknown",
-      "source_type": "unknown",
-      "url": "",
-      "date": "2026-05-15"
-    },
-    {
-      "id": "openai-symphony",
-      "label": "openai-symphony",
-      "summary": "",
-      "pm_score": 0.1,
-      "pillar": "capabilities",
-      "type": "unknown",
-      "source_type": "unknown",
-      "url": "",
-      "date": "2026-05-15"
-    },
-    {
-      "id": "obra-superpowers",
-      "label": "obra-superpowers",
-      "summary": "",
-      "pm_score": 0.1,
-      "pillar": "capabilities",
-      "type": "unknown",
-      "source_type": "unknown",
-      "url": "",
-      "date": "2026-05-15"
-    },
-    {
-      "id": "golutra-golutra",
-      "label": "golutra-golutra",
-      "summary": "",
-      "pm_score": 0.1,
-      "pillar": "capabilities",
-      "type": "unknown",
-      "source_type": "unknown",
-      "url": "",
-      "date": "2026-05-15"
-    },
-    {
-      "id": "bytedance-ui-tars-desktop",
-      "label": "bytedance-ui-tars-desktop",
-      "summary": "",
-      "pm_score": 0.1,
-      "pillar": "capabilities",
-      "type": "unknown",
-      "source_type": "unknown",
-      "url": "",
-      "date": "2026-05-15"
-    },
-    {
-      "id": "ruvnet-ruflo",
-      "label": "ruvnet-ruflo",
-      "summary": "",
-      "pm_score": 0.1,
-      "pillar": "capabilities",
-      "type": "unknown",
-      "source_type": "unknown",
-      "url": "",
-      "date": "2026-05-15"
-    },
-    {
-      "id": "insforge-insforge",
-      "label": "insforge-insforge",
-      "summary": "",
-      "pm_score": 0.1,
-      "pillar": "capabilities",
-      "type": "unknown",
-      "source_type": "unknown",
       "url": "",
       "date": "2026-05-15"
     }

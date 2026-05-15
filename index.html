@@ -432,8 +432,10 @@
         if (snap.date && refDate && snap.date !== refDate) {
           throw new Error("snapshot date mismatch");
         }
-        items = snap.items || [];
-        graphTotals = snap.graph_totals || null;
+        items = (snap.items || []).filter(function (n) {
+            return (n.pm_score || 0) >= 0.3;
+          });
+          graphTotals = snap.graph_totals || null;
       } catch (e) {
         try {
           var graph = await fetchJson("./graph.json");
