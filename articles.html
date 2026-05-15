@@ -3,46 +3,46 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<meta name="theme-color" content="#08090a">
+<meta name="theme-color" content="#f5f7fa">
 <title>AI Radar · 每日深度</title>
 <link rel="icon" href="./assets/nexsight-mark.svg" type="image/svg+xml">
-<link rel="stylesheet" href="./assets/site-chrome.css">
 <style>
   :root {
-    --bg: #08090a;
-    --surface: #0f1011;
-    --surface-soft: #161718;
-    --border: rgba(255,255,255,0.08);
-    --border-strong: rgba(255,255,255,0.15);
-    --ink: #e8e8e8;
-    --ink-soft: #a0a0a0;
-    --ink-muted: #6a6a6a;
+    --bg: #f5f7fa;
+    --surface: #ffffff;
+    --surface-hover: #f0f2f5;
+    --border: rgba(0,0,0,0.06);
+    --border-strong: rgba(0,0,0,0.12);
+    --ink: #1a1a1a;
+    --ink-soft: #555555;
+    --ink-muted: #999999;
     --accent: #ff385c;
-    --accent-active: #e00b41;
-    --accent-soft: rgba(255,56,92,0.1);
+    --accent-soft: rgba(255,56,92,0.06);
     --radius: 12px;
     --radius-sm: 8px;
+    --shadow-card: 0 1px 3px rgba(0,0,0,0.04), 0 4px 12px rgba(0,0,0,0.03);
   }
 
   * { margin: 0; padding: 0; box-sizing: border-box; }
 
   body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Microsoft YaHei", sans-serif;
     background: var(--bg);
     color: var(--ink);
     line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
     overflow: hidden;
     height: 100vh;
   }
 
-  /* ===== Header (same style as graph.html) ===== */
+  /* ===== Header (matches graph.html) ===== */
   .site-header {
     position: fixed;
     top: 0; left: 0; right: 0;
-    height: 56px;
-    background: rgba(15,16,17,0.92);
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
+    height: 52px;
+    background: rgba(255,255,255,0.92);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
     border-bottom: 1px solid var(--border);
     display: flex;
     align-items: center;
@@ -53,12 +53,12 @@
   .header-brand {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 8px;
     text-decoration: none;
     color: var(--ink);
   }
 
-  .header-brand svg { width: 28px; height: 28px; }
+  .header-brand svg { width: 24px; height: 24px; }
 
   .header-brand h1 {
     font-size: 15px;
@@ -69,7 +69,7 @@
   .header-brand h1 span {
     color: var(--ink-muted);
     font-weight: 400;
-    margin-left: 6px;
+    margin-left: 4px;
     font-size: 12px;
   }
 
@@ -83,7 +83,7 @@
   .app {
     display: flex;
     height: 100vh;
-    padding-top: 56px;
+    padding-top: 52px;
   }
 
   /* ===== Sidebar (Article List) ===== */
@@ -94,9 +94,8 @@
     border-right: 1px solid var(--border);
     overflow-y: auto;
     padding: 12px;
+    box-shadow: 1px 0 4px rgba(0,0,0,0.02);
     -webkit-overflow-scrolling: touch;
-    scrollbar-width: thin;
-    scrollbar-color: var(--border-strong) transparent;
   }
 
   .sidebar::-webkit-scrollbar { width: 5px; }
@@ -109,6 +108,7 @@
     letter-spacing: 0.08em;
     color: var(--ink-muted);
     padding: 6px 4px 10px;
+    font-weight: 600;
   }
 
   /* ===== Article Card ===== */
@@ -116,21 +116,26 @@
     padding: 14px;
     border-radius: var(--radius-sm);
     cursor: pointer;
-    transition: all 0.15s;
+    transition: all 0.2s ease;
     border: 1px solid transparent;
     margin-bottom: 4px;
     touch-action: manipulation;
-    -webkit-tap-highlight-color: rgba(255,56,92,0.15);
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .article-card:hover {
+    background: var(--surface-hover);
+    border-color: var(--border);
   }
 
   .article-card:active {
     background: var(--accent-soft);
-    transform: scale(0.98);
+    transform: scale(0.99);
   }
 
   .article-card.active {
     background: var(--accent-soft);
-    border-color: rgba(255,56,92,0.25);
+    border-color: rgba(255,56,92,0.15);
   }
 
   .article-date {
@@ -149,6 +154,7 @@
     border-radius: 4px;
     font-size: 10px;
     font-weight: 600;
+    letter-spacing: 0.02em;
   }
 
   .article-title {
@@ -165,7 +171,7 @@
 
   .article-overview {
     font-size: 12px;
-    color: var(--ink-soft);
+    color: var(--ink-muted);
     line-height: 1.5;
     display: -webkit-box;
     -webkit-line-clamp: 2;
@@ -193,10 +199,11 @@
   }
 
   .preview-empty svg {
-    width: 56px;
-    height: 56px;
-    margin-bottom: 14px;
-    opacity: 0.25;
+    width: 48px;
+    height: 48px;
+    margin-bottom: 12px;
+    opacity: 0.3;
+    color: var(--ink-muted);
   }
 
   .preview-empty h3 {
@@ -208,7 +215,7 @@
 
   .preview-empty p {
     font-size: 12px;
-    max-width: 260px;
+    max-width: 240px;
   }
 
   /* ===== Loading ===== */
@@ -220,9 +227,9 @@
   }
 
   .loading-spinner {
-    width: 28px;
-    height: 28px;
-    border: 2.5px solid var(--border);
+    width: 24px;
+    height: 24px;
+    border: 2px solid var(--border-strong);
     border-top-color: var(--accent);
     border-radius: 50%;
     animation: spin 0.7s linear infinite;
@@ -238,14 +245,32 @@
   }
   .empty-state p { font-size: 13px; }
 
-  /* ===== Mobile Tab Bar (reuse site-chrome.css pattern) ===== */
-  .article-tab-bar {
-    display: none;
+  /* ===== Mobile back bar (hidden on desktop) ===== */
+  .mobile-back-bar { display: none; }
+
+  /* ===== Article Viewer ===== */
+  .article-scroll-container {
+    width: 100%;
+    height: 100%;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .article-viewer {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 32px 24px;
+    background: var(--surface);
+    box-shadow: var(--shadow-card);
+    min-height: 100%;
+    border-radius: 0;
   }
 
   /* ===== Mobile Responsive ===== */
   @media (max-width: 900px) {
-    .app { flex-direction: column; }
+    .app {
+      flex-direction: column;
+    }
 
     .sidebar {
       width: 100%;
@@ -253,96 +278,92 @@
       border-right: none;
       border-bottom: 1px solid var(--border);
       padding-bottom: 0;
+      box-shadow: none;
     }
 
     .preview {
       position: fixed;
-      top: 56px;
+      top: 52px;
       left: 0;
       right: 0;
       bottom: 0;
       z-index: 90;
       background: var(--bg);
       transform: translateX(100%);
-      transition: transform 0.3s ease;
+      transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
     }
 
-    /* When viewing article: slide in */
     .app.show-article .preview {
       transform: translateX(0);
     }
 
-    /* Hide site header stats on mobile */
     .header-right { display: none; }
     .header-brand h1 span { display: none; }
 
-    /* Bottom tab bar for mobile */
-    .article-tab-bar {
-      display: flex;
+    /* Lightweight back bar on mobile */
+    .mobile-back-bar {
       position: fixed;
-      bottom: 0;
+      top: 52px;
       left: 0;
       right: 0;
-      height: calc(52px + max(12px, env(safe-area-inset-bottom)));
-      padding: 0 max(16px, env(safe-area-inset-left)) max(8px, env(safe-area-inset-bottom));
-      background: rgba(255,255,255,0.96);
-      backdrop-filter: blur(16px) saturate(1.1);
-      -webkit-backdrop-filter: blur(16px) saturate(1.1);
-      border-top: 1px solid var(--border);
-      box-shadow: 0 -1px 8px rgba(0,0,0,0.06);
-      z-index: 101;
-      align-items: stretch;
-      justify-content: stretch;
+      height: 44px;
+      background: rgba(255,255,255,0.95);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      z-index: 91;
+      display: flex;
+      align-items: center;
+      padding: 0 12px;
+      opacity: 0;
+      transform: translateY(-8px);
+      pointer-events: none;
+      transition: all 0.25s ease;
     }
 
-    .article-tab-btn {
-      flex: 1;
+    .app.show-article .mobile-back-bar {
+      opacity: 1;
+      transform: translateY(0);
+      pointer-events: auto;
+    }
+
+    .mobile-back-btn {
       display: flex;
-      flex-direction: column;
       align-items: center;
-      justify-content: center;
-      gap: 3px;
-      padding: 8px 4px;
-      min-height: 52px;
+      gap: 6px;
       border: none;
       background: none;
       font-family: inherit;
-      font-size: 10px;
-      font-weight: 600;
-      color: var(--ink-muted);
-      text-decoration: none;
-      text-align: center;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--accent);
       cursor: pointer;
+      padding: 6px 10px;
+      border-radius: 6px;
       -webkit-tap-highlight-color: transparent;
       touch-action: manipulation;
-      transition: color 0.15s;
+      transition: background 0.15s;
     }
 
-    .article-tab-btn svg {
-      width: 22px;
-      height: 22px;
-      flex-shrink: 0;
+    .mobile-back-btn:active {
+      background: var(--accent-soft);
     }
 
-    .article-tab-btn.active {
-      color: var(--accent);
+    .mobile-back-btn svg {
+      width: 16px;
+      height: 16px;
     }
 
-    .article-tab-btn:active {
-      opacity: 0.7;
+    .article-viewer {
+      padding: 24px 16px 100px;
     }
-
-    /* Back button in tab bar when viewing article */
-    .article-tab-bar .back-tab { display: none; }
-    .app.show-article .article-tab-bar .back-tab { display: flex; }
-    .app.show-article .article-tab-bar .list-tab { display: none; }
   }
 </style>
 </head>
 <body>
 
 <header class="site-header">
-  <a href="./graph.html" class="header-brand">
+  <a href="./graph.html" class="header-brand" id="headerBrand" onclick="handleBrandClick(event)">
     <svg viewBox="0 0 28 28" fill="none">
       <circle cx="14" cy="14" r="13" stroke="#ff385c" stroke-width="2"/>
       <circle cx="14" cy="14" r="5" fill="#ff385c"/>
@@ -367,38 +388,20 @@
         <line x1="16" y1="40" x2="36" y2="40"/>
       </svg>
       <h3>选择一篇文章</h3>
-      <p>点击列表查看文章详情</p>
+      <p>点击左侧列表查看文章详情</p>
     </div>
   </div>
 </div>
 
-<!-- Mobile Tab Bar -->
-<nav class="article-tab-bar">
-  <button class="article-tab-btn list-tab" onclick="goBackTo()">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/>
-    </svg>
-    <span>归档</span>
-  </button>
-  <button class="article-tab-btn back-tab" onclick="goBack()">
+<!-- Lightweight mobile back bar -->
+<div class="mobile-back-bar" id="mobileBackBar">
+  <button class="mobile-back-btn" onclick="goBack()">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
       <line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/>
     </svg>
-    <span>返回</span>
+    返回列表
   </button>
-  <a href="./graph.html" class="article-tab-btn">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-      <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/>
-    </svg>
-    <span>探索</span>
-  </a>
-  <a href="./index.html" class="article-tab-btn">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/>
-    </svg>
-    <span>简报</span>
-  </a>
-</nav>
+</div>
 
 <script>
 const ARTICLES = [
@@ -462,10 +465,8 @@ function openArticle(idx) {
   const empty = document.getElementById('previewEmpty');
   if (empty) empty.remove();
 
-  // Show loading
   preview.innerHTML = '<div class="loading"><div class="loading-spinner"></div></div>';
 
-  // Decode and render article
   try {
     const binary = atob(article.content);
     const bytes = new Uint8Array(binary.length);
@@ -475,26 +476,26 @@ function openArticle(idx) {
     const container = document.createElement('div');
     container.className = 'article-viewer';
     container.innerHTML = html;
-    container.style.cssText = 'width:100%;max-width:720px;margin:0 auto;padding:32px 24px;background:#fff;color:#333;font-size:16px;line-height:1.8;';
 
-    // Style overrides for article content
     const style = document.createElement('style');
     style.textContent = `
-      .article-viewer { min-height: 100%; }
-      .article-viewer h1 { font-size: 22px !important; font-weight: 700 !important; color: #000 !important; margin-bottom: 8px !important; }
-      .article-viewer h2 { font-size: 18px !important; font-weight: 600 !important; color: #000 !important; margin-top: 28px !important; margin-bottom: 8px !important; }
-      .article-viewer h3 { font-size: 16px !important; font-weight: 600 !important; color: #000 !important; margin-top: 20px !important; margin-bottom: 6px !important; }
-      .article-viewer p { margin-bottom: 14px !important; }
-      .article-viewer a { color: #ff385c !important; }
-      .article-viewer ul, .article-viewer ol { padding-left: 18px !important; margin-bottom: 14px !important; }
-      .article-viewer li { margin-bottom: 6px !important; }
-      .article-viewer strong { color: #000 !important; }
+      .article-viewer h1 { font-size: 24px !important; font-weight: 700 !important; color: #1a1a1a !important; margin-bottom: 10px !important; letter-spacing: -0.02em !important; }
+      .article-viewer h2 { font-size: 20px !important; font-weight: 600 !important; color: #1a1a1a !important; margin-top: 0 !important; margin-bottom: 10px !important; letter-spacing: -0.01em !important; }
+      .article-viewer h3 { font-size: 17px !important; font-weight: 600 !important; color: #333 !important; margin-top: 24px !important; margin-bottom: 8px !important; }
+      .article-viewer p { margin-bottom: 14px !important; line-height: 1.75 !important; color: #333 !important; font-size: 15px !important; }
+      .article-viewer a { color: #ff385c !important; text-decoration: none !important; }
+      .article-viewer a:hover { text-decoration: underline !important; }
+      .article-viewer ul, .article-viewer ol { padding-left: 20px !important; margin-bottom: 14px !important; }
+      .article-viewer li { margin-bottom: 6px !important; line-height: 1.7 !important; color: #333 !important; }
+      .article-viewer strong { color: #1a1a1a !important; }
+      /* Card spacing */
+      .article-viewer > div[style*="background"] { margin-bottom: 12px !important; }
+      .article-viewer > div[style*="border-top"] { margin-top: 28px !important; margin-bottom: 28px !important; }
     `;
     container.prepend(style);
 
     const wrapper = document.createElement('div');
     wrapper.className = 'article-scroll-container';
-    wrapper.style.cssText = 'width:100%;height:100%;overflow-y:auto;-webkit-overflow-scrolling:touch;';
     wrapper.appendChild(container);
 
     preview.innerHTML = '';
@@ -503,7 +504,6 @@ function openArticle(idx) {
     preview.innerHTML = '<div class="preview-empty"><h3>加载失败</h3><p>' + escapeHtml(e.message) + '</p></div>';
   }
 
-  // Mobile: slide in article
   document.getElementById('app').classList.add('show-article');
 }
 
@@ -511,19 +511,28 @@ function goBack() {
   currentArticle = null;
   document.getElementById('app').classList.remove('show-article');
   renderArticleList();
-  // Restore empty state
-  const preview = document.getElementById('preview');
-  preview.innerHTML = '<div class="preview-empty" id="previewEmpty">' +
-    '<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5">' +
-    '<rect x="8" y="4" width="48" height="56" rx="4"/>' +
-    '<line x1="16" y1="16" x2="48" y2="16"/><line x1="16" y1="24" x2="40" y2="24"/>' +
-    '<line x1="16" y1="32" x2="44" y2="32"/><line x1="16" y1="40" x2="36" y2="40"/>' +
-    '</svg><h3>选择一篇文章</h3><p>点击列表查看文章详情</p></div>';
+  setTimeout(function() {
+    const preview = document.getElementById('preview');
+    preview.innerHTML = '<div class="preview-empty" id="previewEmpty">' +
+      '<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5">' +
+      '<rect x="8" y="4" width="48" height="56" rx="4"/>' +
+      '<line x1="16" y1="16" x2="48" y2="16"/><line x1="16" y1="24" x2="40" y2="24"/>' +
+      '<line x1="16" y1="32" x2="44" y2="32"/><line x1="16" y1="40" x2="36" y2="40"/>' +
+      '</svg><h3>选择一篇文章</h3><p>点击左侧列表查看文章详情</p></div>';
+  }, 350);
 }
 
-function goBackTo() {
-  // Same as goBack but called from tab bar
-  goBack();
+function handleBrandClick(e) {
+  // Mobile: never navigate away — back to list or do nothing
+  if (window.innerWidth <= 900) {
+    e.preventDefault();
+    const app = document.getElementById('app');
+    if (app.classList.contains('show-article')) {
+      goBack();
+    }
+    return;
+  }
+  // Desktop: default link behavior → go to graph.html
 }
 
 function escapeHtml(text) {
