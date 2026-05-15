@@ -1,6 +1,6 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T18:57:53.351330+08:00",
+  "generated_at": "2026-05-15T19:00:21.557854+08:00",
   "item_count": 53,
   "items": [
     {
@@ -154,7 +154,7 @@
       "pillar": "capabilities",
       "type": "papers",
       "source_type": "papers",
-      "url": "",
+      "url": "http://arxiv.org/abs/2605.15168v1",
       "date": "2026-05-15"
     },
     {
@@ -165,7 +165,7 @@
       "pillar": "capabilities",
       "type": "papers",
       "source_type": "papers",
-      "url": "",
+      "url": "http://arxiv.org/abs/2605.15199v1",
       "date": "2026-05-15"
     },
     {
@@ -176,7 +176,7 @@
       "pillar": "ecosystem",
       "type": "papers",
       "source_type": "papers",
-      "url": "",
+      "url": "http://arxiv.org/abs/2605.15164v1",
       "date": "2026-05-15"
     },
     {
@@ -187,7 +187,7 @@
       "pillar": "capabilities",
       "type": "papers",
       "source_type": "papers",
-      "url": "",
+      "url": "http://arxiv.org/abs/2605.15171v1",
       "date": "2026-05-15"
     },
     {
@@ -198,7 +198,7 @@
       "pillar": "capabilities",
       "type": "papers",
       "source_type": "papers",
-      "url": "",
+      "url": "http://arxiv.org/abs/2605.15198v1",
       "date": "2026-05-15"
     },
     {
@@ -209,7 +209,7 @@
       "pillar": "capabilities",
       "type": "papers",
       "source_type": "papers",
-      "url": "",
+      "url": "http://arxiv.org/abs/2605.15188v1",
       "date": "2026-05-15"
     },
     {
@@ -220,21 +220,8 @@
       "pillar": "capabilities",
       "type": "papers",
       "source_type": "papers",
-      "url": "",
+      "url": "http://arxiv.org/abs/2605.15196v1",
       "date": "2026-05-15"
-    },
-    {
-      "id": "uk-sovereign-llm-inference",
-      "label": "UK sovereign LLM inference",
-      "summary": "针对英国主权LLM推理的讨论，强调在本地或英国本土部署大模型推理能力，以确保数据主权和隐私合规。技术要点包括自主基础架构、数据不出境、模型本地优化；商业价值在于降低对外部API依赖、减少延迟和成本，并增强合规性；产品创新体现在为政府和企业提供可定制的高安全AI服务。",
-      "pm_score": 0.445,
-      "pillar": "capabilities",
-      "type": "discussion",
-      "url": "https://relax.ai/docs",
-      "date": "2026-05-15",
-      "score": 59,
-      "comments": 52,
-      "source_type": "discussion"
     },
     {
       "id": "clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard",
@@ -256,6 +243,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "uk-sovereign-llm-inference",
+      "label": "UK sovereign LLM inference",
+      "summary": "针对英国主权LLM推理的讨论，强调在本地或英国本土部署大模型推理能力，以确保数据主权和隐私合规。技术要点包括自主基础架构、数据不出境、模型本地优化；商业价值在于降低对外部API依赖、减少延迟和成本，并增强合规性；产品创新体现在为政府和企业提供可定制的高安全AI服务。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48146424",
       "date": "2026-05-15"
     },
     {
@@ -288,7 +286,7 @@
       "pillar": "capabilities",
       "type": "papers",
       "source_type": "papers",
-      "url": "",
+      "url": "http://arxiv.org/abs/2605.15183v1",
       "date": "2026-05-15"
     },
     {
@@ -299,7 +297,7 @@
       "pillar": "capabilities",
       "type": "papers",
       "source_type": "papers",
-      "url": "",
+      "url": "http://arxiv.org/abs/2605.15179v1",
       "date": "2026-05-15"
     },
     {
@@ -310,7 +308,7 @@
       "pillar": "capabilities",
       "type": "papers",
       "source_type": "papers",
-      "url": "",
+      "url": "http://arxiv.org/abs/2605.15186v1",
       "date": "2026-05-15"
     },
     {
@@ -321,7 +319,7 @@
       "pillar": "capabilities",
       "type": "papers",
       "source_type": "papers",
-      "url": "",
+      "url": "http://arxiv.org/abs/2605.15185v1",
       "date": "2026-05-15"
     },
     {
@@ -380,19 +378,6 @@
       "date": "2026-05-15"
     },
     {
-      "id": "show-hn-find-the-best-local-llm-for-your-hardware-ranked-by-benchmarks",
-      "label": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
-      "summary": "该工具根据用户硬件配置（如GPU、内存）推荐最优的本地大语言模型，并基于基准测试进行排名。技术要点在于自动化硬件-模型匹配，省去手动试错；商业价值体现在降低本地AI部署的门槛，使企业或个人能用有限硬件获得最佳性能；产品创新在于将硬件性能与模型能力动态关联，提供可量化的选择依据。",
-      "pm_score": 0.33,
-      "pillar": "capabilities",
-      "type": "discussion",
-      "url": "https://github.com/Andyyyy64/whichllm",
-      "date": "2026-05-15",
-      "score": 32,
-      "comments": 5,
-      "source_type": "discussion"
-    },
-    {
       "id": "show-hn-glycemicgpt-open-source-ai-powered-diabetes-management",
       "label": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
       "summary": "GlycemicGPT 是一个开源的 AI 糖尿病管理工具，利用 GPT 模型分析血糖数据、饮食和运动信息，提供个性化建议。其产品创新在于将大语言模型应用于慢性病管理，通过开源降低使用门槛，促进社区协作优化模型。技术上突出了实时数据处理与用户交互的整合，具有潜在商业价值，可对接可穿戴设备或医疗平台，形成数据闭环。",
@@ -412,6 +397,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48143284",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "show-hn-find-the-best-local-llm-for-your-hardware-ranked-by-benchmarks",
+      "label": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+      "summary": "该工具根据用户硬件配置（如GPU、内存）推荐最优的本地大语言模型，并基于基准测试进行排名。技术要点在于自动化硬件-模型匹配，省去手动试错；商业价值体现在降低本地AI部署的门槛，使企业或个人能用有限硬件获得最佳性能；产品创新在于将硬件性能与模型能力动态关联，提供可量化的选择依据。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48146369",
       "date": "2026-05-15"
     },
     {
@@ -455,7 +451,7 @@
       "pillar": "ecosystem",
       "type": "papers",
       "source_type": "papers",
-      "url": "",
+      "url": "http://arxiv.org/abs/2605.15177v1",
       "date": "2026-05-15"
     },
     {
@@ -486,12 +482,10 @@
       "summary": "本文探讨了利用Rust语言和范畴论（Category Theory）构建机器学习框架的方法。Rust以其高性能和内存安全著称，而范畴论为函数式编程和抽象代数结构提供理论基础。结合两者，旨在设计更可靠、可组合和可推理的ML系统。对AI产品经理而言，这意味着未来可能出现更健壮、更易维护的底层框架，降低模型部署和集成风险，但当前技术门槛较高，主要影响基础设施层面，而非直接面向用户的功能创新。",
       "pm_score": 0.26,
       "pillar": "ecosystem",
-      "type": "discussion",
-      "url": "https://hghalebi.github.io/category_theory_transformer_rs/",
-      "date": "2026-05-15",
-      "score": 39,
-      "comments": 12,
-      "source_type": "discussion"
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48137629",
+      "date": "2026-05-15"
     },
     {
       "id": "design-extract",
@@ -595,6 +589,6 @@
   ],
   "graph_totals": {
     "real_nodes": 525,
-    "edges": 18680
+    "edges": 19206
   }
 }
