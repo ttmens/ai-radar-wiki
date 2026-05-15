@@ -68,6 +68,9 @@ def main() -> int:
         d = n.get("date") or ""
         if not str(d).startswith(today):
             continue
+        # 过滤低分节点 (PM Score < 0.3)
+        if float(n.get("pm_score") or 0) < 0.3:
+            continue
         items.append(slim_node(n))
     items.sort(key=lambda x: float(x.get("pm_score") or 0), reverse=True)
     nodes = data.get("nodes") or []

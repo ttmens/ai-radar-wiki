@@ -564,3 +564,7 @@
 ## [2026-05-15 20:20] sync v3 | 2 new | pillars: {'capabilities': 2}
 - create: oxcaml-in-space.md
 - create: overseas-fakers-using-ai-videos-to-push-a-narrative-of-uk-decline-bbc-finds.md
+
+## [2026-05-15 21:25] sync v3 | 2 new | pillars: {'capabilities': 1, 'patterns': 1}
+- create: too-dangerous-or-just-too-expensive-the-real-reason-anthropic-is-hiding-mythos.md
+- create: osaurus-brings-both-local-and-cloud-ai-models-to-your-mac.md

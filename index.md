@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-15 | Total pages: 492
+> Last updated: 2026-05-15 | Total pages: 494
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -85,6 +85,7 @@
 - [[the-greatest-shot-in-television-james-burke-had-o.md]] The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene `pillar:capabilities` `score:0.155`
 - [[the-soul-of-maintaining-a-new-machine.md]] The soul of maintaining a new machine `pillar:capabilities` `score:0.38`
 - [[through-the-looking-glass-of-benchmark-hacking.md]] Through the looking glass of benchmark hacking `pillar:capabilities` `score:0.155`
+- [[too-dangerous-or-just-too-expensive-the-real-reason-anthropic-is-hiding-mythos.md]] Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos `pillar:capabilities` `score:0.38`
 - [[training-an-llm-in-swift-part-1-taking-matrix-mu.md]] Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s `pillar:capabilities` `score:0.38`
 - [[uk-sovereign-llm-inference.md]] UK sovereign LLM inference `pillar:capabilities` `score:0.445`
 - [[ultralyticsyolov5.md]] ultralytics/yolov5 `pillar:capabilities` `score:0.615`
@@ -247,6 +248,7 @@
 - [[onyx-dot-apponyx.md]] onyx-dot-app/onyx `pillar:patterns` `score:0.58`
 - [[openbb-financeopenbb.md]] OpenBB-finance/OpenBB `pillar:patterns` `score:0.58`
 - [[openclawopenclaw.md]] openclaw/openclaw `pillar:patterns` `score:0.58`
+- [[osaurus-brings-both-local-and-cloud-ai-models-to-your-mac.md]] Osaurus brings both local and cloud AI models to your Mac `pillar:patterns` `score:0.515`
 - [[patchy631ai-engineering-hub.md]] patchy631/ai-engineering-hub `pillar:patterns` `score:0.58`
 - [[pingcaptidb.md]] pingcap/tidb `pillar:patterns` `score:0.58`
 - [[poppy-debuts-a-proactive-ai-assistant-to-help-orga.md]] Poppy debuts a proactive AI assistant to help organize your digital life `pillar:patterns` `score:0.305`
