@@ -544,3 +544,9 @@
 - create: have-a-coherent-ai-policy.md
 - create: safari-and-firefox-change-how-big-sites-render-based-on-the-domain.md
 - create: what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman.md
+
+## [2026-05-15 13:12] sync v3 | 4 new | pillars: {'capabilities': 3, 'patterns': 1}
+- create: how-claude-code-works-in-large-codebases.md
+- create: access-to-frontier-ai-will-soon-be-limited-by-economic-and-security-constraints.md
+- create: llm-policy-for-rust-compiler.md
+- create: best-brain-for-agents-is-just-versioned-folders-of-markdown-files.md

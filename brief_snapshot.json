@@ -1,7 +1,7 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T12:04:03.123902+08:00",
-  "item_count": 43,
+  "generated_at": "2026-05-15T13:12:51.393373+08:00",
+  "item_count": 47,
   "items": [
     {
       "id": "codex-is-now-in-the-chatgpt-mobile-app",
@@ -334,6 +334,39 @@
       "date": "2026-05-15"
     },
     {
+      "id": "how-claude-code-works-in-large-codebases",
+      "label": "How Claude Code works in large codebases",
+      "summary": "Claude Code 是 Anthropic 推出的 AI 代码助手，重点解决在大型代码库中的高效工作问题。其核心技术包括智能上下文压缩、代码库索引与分块检索，以及基于长期记忆的代码理解能力，使模型能跨越数千文件进行准确的语义推理。商业价值在于显著提升开发者的生产效率与代码维护体验，尤其适合复杂企业项目。产品创新体现在无需手动分段即可自动处理超大规模代码库，降低使用门槛。",
+      "pm_score": 0.365,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48144494",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "best-brain-for-agents-is-just-versioned-folders-of-markdown-files",
+      "label": "Best \"Brain\" for Agents Is Just Versioned Folders of Markdown Files",
+      "summary": "该技术观点主张AI Agent的“大脑”应采用版本化的Markdown文件目录实现，而非复杂数据库。核心优势在于利用普通文本文件+Git版本控制，提供人类可读、可审计、易维护的长期记忆与知识存储方案。对AI产品经理而言，这降低了Agent记忆系统的构建和调试成本，支持透明化信息追踪和协作编辑。商业价值体现在简化基础设施、提高系统鲁棒性，并易于与现有开发工作流集成。产品创新在于将AI记忆管理回归到文件系统范式，使得非技术用户也能理解和干预Agent的“思考”过程，同时天然支持回溯、分支和合并等版本控制特性，适用于需要持久化上下文的应用场景。",
+      "pm_score": 0.365,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48140648",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "access-to-frontier-ai-will-soon-be-limited-by-economic-and-security-constraints",
+      "label": "Access to frontier AI will soon be limited by economic and security constraints",
+      "summary": "前沿AI（如大模型）的获取将受到经济成本和安全合规的双重限制。经济上，高昂的训练和推理成本可能使中小团队难以负担；安全上，监管和伦理审查会控制开源或API开放范围。产品经理需提前规划成本模型与合规策略，并探索替代方案（如本地化部署、小型模型）。这一趋势将推动AI产品向更垂直、高效的方向创新，同时加剧头部企业与开源社区的供给分化。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48143284",
+      "date": "2026-05-15"
+    },
+    {
       "id": "usda-projects-smallest-us-wheat-harvest-since-1972-due-to-plains-drought",
       "label": "USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought",
       "summary": "该新闻标题显示美国农业部预测由于平原地区干旱，2025年美国小麦收成将创1972年以来新低。但内容完全属于农业经济与气象领域，与AI技术、产品创新或商业价值无直接关联。作为AI产品经理，可关注类似预测模型在农业领域的应用潜力，但本文未提供相关技术细节。",
@@ -375,6 +408,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48136949",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "llm-policy-for-rust-compiler",
+      "label": "LLM Policy for Rust Compiler",
+      "summary": "该技术讨论围绕将大语言模型（LLM）策略集成到 Rust 编译器中，旨在利用 LLM 的能力辅助代码编译、错误诊断与类型推断。这一方向能够显著降低 Rust 语言的学习门槛，减少编译错误率，提升开发效率。对于 AI 产品经理而言，该思路展示了将生成式 AI 嵌入底层开发工具链的创新机会，通过编译器层面的智能辅助形成差异化产品价值，并可复用至其他语言或平台。",
+      "pm_score": 0.295,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48142650",
       "date": "2026-05-15"
     },
     {
@@ -478,7 +522,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 515,
-    "edges": 16578
+    "real_nodes": 519,
+    "edges": 17074
   }
 }
