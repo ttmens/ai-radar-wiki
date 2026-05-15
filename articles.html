@@ -364,7 +364,7 @@
 <body>
 
 <header class="site-header">
-  <a href="./graph.html" class="header-brand">
+  <a href="./graph.html" class="header-brand" id="headerBrand">
     <svg viewBox="0 0 28 28" fill="none">
       <circle cx="14" cy="14" r="13" stroke="#ff385c" stroke-width="2"/>
       <circle cx="14" cy="14" r="5" fill="#ff385c"/>
@@ -520,6 +520,14 @@ function escapeHtml(text) {
 
 // Init
 renderArticleList();
+
+// Mobile: header brand click → back to list when viewing article
+document.getElementById('headerBrand').addEventListener('click', function(e) {
+  if (window.innerWidth <= 900 && document.getElementById('app').classList.contains('show-article')) {
+    e.preventDefault();
+    goBack();
+  }
+});
 </script>
 </body>
 </html>
