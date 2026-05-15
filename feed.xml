@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 15 May 2026 00:03:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 04:05:03 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -13,11 +13,27 @@
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
     <item>
+      <title>Codex is now in the ChatGPT mobile app</title>
+      <link>https://news.ycombinator.com/item?id=48140529</link>
+      <guid isPermaLink="false">codex-is-now-in-the-chatgpt-mobile-app</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>OpenAI 将 Codex（代码生成模型）集成到 ChatGPT 移动应用中，用户现在可以在手机端通过对话直接获取代码建议、解释和调试帮助。这一举措显著提升了 ChatGPT 在移动场景下的实用性，尤其是对开发者用户而言，无需打开桌面 IDE 即可快速编码。商业上，它增强了 ChatGPT 的差异化竞争力，吸引专业用户并推动订阅转化。产品创新在于将代码助手无缝融入移动聊天界面，降低使用门槛，扩大 AI 编程的普及度。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>AI is making me dumb</title>
       <link>https://news.ycombinator.com/item?id=48139148</link>
       <guid isPermaLink="false">ai-is-making-me-dumb</guid>
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>标题指出AI可能导致用户认知能力下降，对产品经理而言，需警惕过度依赖AI带来的用户技能退化风险。这提示设计AI产品时应平衡自动化与人类主动思考，避免替代关键认知环节。商业价值上，可探索增强而非替代的AI功能，例如提供建议而非答案，保留用户决策权。产品创新方向包括可解释性、可控性设计，以及培养长期依赖较小的使用习惯。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Ontario auditors find doctors' AI note takers routinely blow basic facts</title>
+      <link>https://news.ycombinator.com/item?id=48142188</link>
+      <guid isPermaLink="false">ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>安大略省审计员发现，医生使用的AI笔记助手频繁出现基本事实错误，如误诊记录、错误剂具等，严重影响医疗安全。该问题揭示当前AI在专业场景中可靠性不足，尤其在高容错率的医疗领域，产品设计需强化事实核查与领域特定校准。商业上，此类AI工具若不能保证准确性，将面临法律与信任危机，提示产品经理应优先投入医疗合规验证与实时纠错机制。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -61,6 +77,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>What the jury will actually decide in the case of Elon Musk vs. Sam Altman</title>
+      <link>https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/</link>
+      <guid isPermaLink="false">what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Elon Musk 诉 Sam Altman 及 OpenAI 一案是今年最重大的科技法律纠纷，核心争议在于 OpenAI 是否背离了最初的非营利使命（安全优先、开源）转向追求利润。陪审团将决定 Altman 及董事会是否违反信托责任、合同及反垄断法。此案结果将影响 AI 行业的治理模式、资本结构与开源封闭路线，尤其对 GPT 系列商业化的合法性产生深远影响，是 AI 产品经理理解行业权力博弈与生态演变的关键案例。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>Claude AI recovers an 11 yrs old BTC wallet holding 400k USD</title>
       <link>https://news.ycombinator.com/item?id=48136240</link>
       <guid isPermaLink="false">claude-ai-recovers-an-11-yrs-old-btc-wallet-holding-400k-usd</guid>
@@ -85,6 +109,62 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>Text Knows What, Tables Know When: Clinical Timeline Reconstruction via Retrieva</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">text-knows-what-tables-know-when-clinical-timeline-reconstruction-via-retrieval</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出一种基于检索增强的多模态对齐方法，用于从非结构化临床叙述（文本）和结构化表格数据（时间）中重建精确的临床时间线。针对败血症等复杂疾病，通过将语义丰富的文本描述与时间信息对齐，解决了临床叙事缺乏精确时间戳的问题。技术要点包括多模态特征融合、检索增强生成（RAG）和时序对齐。商业价值在于提升医疗AI系统的时序推理能力，辅助临床决策和风险预测。产品创新在于自动构建连贯的患者病程时间线，减少人工整理负担。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">entitybench-towards-entity-consistent-long-range-multi-shot-video-generation</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出EntityBench，一个用于评估多镜头视频生成中实体一致性（角色、物体、位置）的基准。现有方法使用独立生成的提示集，难以处理长序列中的连贯性问题。EntityBench通过设计长距离多镜头场景，系统评测模型在保持跨镜头实体一致性方面的能力。该基准填补了当前视频生成评估的空白，为产品化落地（如影视制作、广告、虚拟内容创作）提供关键评测手段，推动模型改进以实现更连贯的视觉叙事。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Position: Behavioural Assurance Cannot Verify the Safety Claims Governance Now D</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">position-behavioural-assurance-cannot-verify-the-safety-claims-governance-now-de</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文指出，当前AI治理框架（2019-2026年期间）要求行为保证提供可审查的安全证据（如无隐藏目标、抗攻击能力），但行为保证在本质上是无法验证这些声明的。产品经理需警惕：依赖行为测试不足以支撑合规性，应结合更严格的架构保证和形式化验证。商业上，提前引入可解释性与鲁棒性设计可降低监管风险，提升产品可信度。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Evidential Reasoning Advances Interpretable Real-World Disease Screening</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">evidential-reasoning-advances-interpretable-real-world-disease-screening</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出基于证据推理的医学图像筛查方法，通过引用历史病例作为可解释依据，解决了现有模型可解释性差、性能欠佳的问题。该方法在临床早期检测中具备高准确性和透明度，能够帮助医生理解模型决策依据，降低误诊风险。商业价值上，可显著提升疾病筛查系统的临床采纳率，并推动AI辅助诊断的产品化落地。产品创新在于将历史病例作为推理证据，增强了模型的可信度与实用性。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">atlas-agentic-or-latent-visual-reasoning-one-word-is-enough-for-both</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>ATLAS 提出一种新型视觉推理方法，通过单一词汇同时实现代理性（Agentic）和潜在（Latent）视觉推理，避免了传统方法中通过统一模型直接生成中间图像的高计算成本和架构复杂性。该方法在保持推理精度的同时大幅降低资源消耗，为多模态AI产品（如智能助手、自动驾驶、机器人等）提供高效、低成本的视觉推理方案，具有显著的商业应用价值。产品经理可关注其在减少模型部署成本、提升实时推理速度方面的潜力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>FutureSim: Replaying World Events to Evaluate Adaptive Agents</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">futuresim-replaying-world-events-to-evaluate-adaptive-agents</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出FutureSim方法，通过按时间顺序回放真实世界事件，构建基于真实场景的仿真环境，以评估AI代理在动态开放环境中的适应能力。该方法能高效衡量代理处理新信息的能力，适用于复杂现实用例。对于AI产品经理，此方法可用于设计更可靠的代理产品基准测试，提升产品在真实场景下的鲁棒性。商业价值在于降低测试成本，加速代理系统迭代。产品创新点在于利用真实事件序列模拟自适应行为，而非人工构造场景。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>RefDecoder: Enhancing Visual Generation with Conditional Video Decoding</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">refdecoder-enhancing-visual-generation-with-conditional-video-decoding</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>RefDecoder 提出一种条件视频解码方法，解决潜在扩散模型中解码器无条件导致的生成质量不对称问题。传统解码器不利用条件信息，限制了生成一致性。RefDecoder 通过引入条件机制，显著提升视频生成质量，尤其在下游应用如视频编辑、合成中实现更逼真、连贯的输出。该技术创新降低了生成伪影，优化了模型架构效率，对视频生成产品的实用化和商业化有重要价值。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard</title>
       <link>https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/</link>
       <guid isPermaLink="false">clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard</guid>
@@ -101,12 +181,52 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>Have a Coherent AI Policy</title>
+      <link>https://news.ycombinator.com/item?id=48142553</link>
+      <guid isPermaLink="false">have-a-coherent-ai-policy</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该讨论聚焦于制定连贯的AI政策的重要性，强调企业或国家需要一套统一、可执行的AI使用准则，以避免碎片化决策带来的风险。对于AI产品经理而言，这意味着产品设计需内嵌合规与伦理框架，平衡创新与监管。核心价值在于通过政策驱动用户信任与长期可持续性，减少潜在法律与声誉风险。技术要点涉及政策如何影响模型部署、数据治理及产品迭代流程。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
       <title>Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026</title>
       <link>https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/</link>
       <guid isPermaLink="false">cerebras-raises-55b-then-stock-pops-108-in-the-first-huge-tech-ipo-of-2026</guid>
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Cerebras，一家专注于AI芯片（晶圆级集成）的公司，成功完成55亿美元IPO，股价首日飙升108%，成为2026年首个巨大科技IPO。此次融资凸显市场对专用AI硬件（训练/推理）的强劲需求，以及投资者对非传统芯片架构商业前景的认可。对于AI产品经理而言，该事件标志着底层算力竞争加剧，预示着未来AI产品性能提升将更多依赖专用硬件创新，并影响云服务和边缘部署的成本与可行性。</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretabili</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">when-are-two-networks-the-same-tensor-similarity-for-mechanistic-interpretabilit</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文探讨机械可解释性中的关键问题：如何判断两个神经网络是否实现相同的计算。现有相似性度量要么依赖经验行为（对分布外机制失效），要么依赖基参数（不具不变性）。作者提出基于张量相似度的方法，通过比较网络内部表示的结构等价性，实现跨分布和跨模型的机制对齐。该方法有助于可解释性分析、模型压缩和迁移学习中的等价性验证，提升AI产品的可信度与调试效率。对产品经理而言，这为模型理解与安全部署提供了基础工具。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixt</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">eradicating-negative-transfer-in-multi-physics-foundation-models-via-sparse-mixt</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本论文提出通过稀疏混合专家（Sparse MoE）路由机制解决多物理场基础模型中的负迁移问题。传统密集神经网络在同时训练不同偏微分方程（PDE）时，因梯度冲突和优化不稳定导致性能下降。MoE通过动态选择子网络处理不同物理域，有效隔离任务干扰，保持可塑性。该方法为构建通用科学计算基础模型铺平道路，可显著提升工程仿真、气候建模等领域的模型泛化能力，降低多任务联合训练成本，具有重要商业价值。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">vggt-edit-feed-forward-native-3d-scene-editing-with-residual-field-prediction</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>VGGT-Edit提出了一种前馈式的原生3D场景编辑方法，通过残差场预测实现单次前向传播即可编辑3D场景，无需传统迭代优化。该方法基于可泛化的前馈架构，能快速生成复杂环境并支持动态场景响应，显著提升了3D编辑效率。商业上，它可降低AR/VR、游戏和影视等内容制作的算力成本，加速产品迭代；产品创新在于将编辑过程原生集成到3D重建中，避免了2D-3D转换的精度损失，为实时交互式3D编辑提供了新范式。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Quantitative Video World Model Evaluation for Geometric-Consistency</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">quantitative-video-world-model-evaluation-for-geometric-consistency</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文针对生成式视频模型作为隐式世界模型时的几何一致性问题，提出了一种定量评估方法。现有评估依赖人工或学习评分器，主观性强且难以衡量3D结构和运动的物理合理性。技术要点包括设计几何约束指标，自动检测视频中物体形状、深度和运动轨迹是否一致。商业价值在于为自动驾驶、机器人仿真和内容生成等场景提供可靠的质量控制，降低人工审核成本。产品创新体现在将评估从主观转向客观，促进视频生成模型在物理世界模拟中的可信应用。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>You Don't Align an AI, You Align with It</title>
@@ -125,6 +245,14 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>mindsdb/minds-platform</title>
+      <link>https://github.com/mindsdb/minds-platform</link>
+      <guid isPermaLink="false">mindsdbminds-platform</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> github</p><hr/><p>Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought</title>
       <link>https://news.ycombinator.com/item?id=48134993</link>
       <guid isPermaLink="false">usda-projects-smallest-us-wheat-harvest-since-1972-due-to-plains-drought</guid>
@@ -139,6 +267,22 @@
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>TechCrunch 的 Startup Battlefield 200 创业竞赛申请将于5月27日截止，面向初创企业提供风险投资对接、全球曝光、TechCrunch 报道及10万美元无股权融资。对于 AI 产品经理，这是 AI 初创团队获取早期资源、加速产品验证和市场推广的宝贵机会，尤其适合正在寻找商业模式验证和行业曝光的 AI 项目。</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">opendeepthink-parallel-reasoning-via-bradley-terry-aggregation</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Test-time compute scaling is a primary axis for improving LLM reasoning. Existing methods primarily scale depth by extending a single reasoning trace. Scaling breadth by sampling multiple candidates in parallel is straightforward, but introduces a selection bottleneck: choosing the best candidate wi</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Safari and Firefox change how big sites render based on the domain</title>
+      <link>https://news.ycombinator.com/item?id=48136949</link>
+      <guid isPermaLink="false">safari-and-firefox-change-how-big-sites-render-based-on-the-domain</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Safari 和 Firefox 浏览器正在改变对大网站的渲染方式，其核心是根据域名采取不同的渲染策略。这一变化主要涉及隐私保护、反跟踪和性能优化，可能通过限制第三方脚本、增强隔离性或调整渲染优先级来降低大型网站的数据追踪能力。对 AI 产品经理而言，这影响依赖浏览器行为数据的产品（如推荐系统、用户分析），需要关注数据采集的准确性变化。同时，浏览器厂商的策略差异化可能推动 Web 端的 AI 应用适配新的渲染环境，促使产品设计转向更尊重隐私的前端处理模式。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>design-extract</title>
@@ -267,150 +411,6 @@
       <pubDate>2026-05-14T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出一种名为量子长注意力记忆（QLAM）的新方法，旨在解决Transformer在处理超长序列时因二次复杂度导致的计算瓶颈。通过引入量子机制优化注意力计算，QLAM能高效建模长程依赖关系，显著降低计算资源消耗。该技术有望赋能AI产品处理更长的上下文场景，如长文档理解、多轮对话记忆和视频序列分析，从而提升产品智能水平与用户体验。</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">r-dmesh-video-guided-3d-animation-via-rectified-dynamic-mesh-flow</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>R-DMesh 提出了一种解决视频引导3D动画中初始姿态不对齐难题的方法。通过“修正动态网格流”，用户可提供任意初始姿态的3D模型，借助参考视频驱动生成逼真动画。该技术降低了3D动画制作门槛，无需繁琐的骨骼绑定或姿态匹配，产品化后有望赋能短视频、游戏、虚拟人等领域的高效内容创作。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Harnessing Agentic Evolution</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">harnessing-agentic-evolution</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>“Agentic Evolution”提出通过迭代生成、评估与反馈闭环自主优化程序与工作流的AI范式。该技术突破固定流程限制，赋予系统自我进化能力，显著降低复杂任务的人工干预成本。对产品经理而言，该范式为构建自适应智能体提供了底层架构参考，在自动化工作流、代码生成及科研辅助等场景具备高商业化潜力与产品创新价值。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">eva-bench-a-new-end-to-end-framework-for-evaluating-voice-agents</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>EVA-Bench 提出了一种新的端到端语音代理评估框架，核心解决两大挑战：生成逼真的模拟对话，以及量化语音交互质量。该框架面向企业级语音 AI 应用部署场景，通过自动化评估流程降低人工评测成本。技术要点包括：端到端设计、对话真实性模拟、多维度质量度量。商业价值在于为产品选型提供标准化测试手段，加速语音代理从研发到落地的进程。产品创新体现在统一了对话生成与评测两大环节，填补了现有基准缺失。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>History Anchors: How Prior Behavior Steers LLM Decisions Toward Unsafe Actions</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">history-anchors-how-prior-behavior-steers-llm-decisions-toward-unsafe-actions</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该研究揭示了大模型智能体在长上下文交互中的“历史锚定”安全风险：若历史工具调用记录包含有害操作，模型极易延续错误路径。对AI产品经理而言，这意味着在设计Agent工作流时，必须引入上下文清洗、安全断点或动态对齐机制，以防历史行为污染导致的安全失控。该成果为构建高可靠、可审计的自主智能体产品提供了关键的安全设计范式与评估基准。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Neurosymbolic Auditing of Natural-Language Software Requirements</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">neurosymbolic-auditing-of-natural-language-software-requirements</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该研究提出结合大语言模型与符号逻辑的“神经符号审计”技术，用于自动化检测自然语言软件需求中的歧义、不一致与缺失问题。对AI产品经理而言，该技术可转化为企业级需求管理工具的核心能力，显著降低安全关键领域的合规与开发风险。通过AI前置拦截缺陷，避免错误向下游传导，为B2B研发效能与AI安全合规产品提供高壁垒的技术创新路径。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Arena AI Model ELO History</title>
-      <link>https://news.ycombinator.com/item?id=48130711</link>
-      <guid isPermaLink="false">arena-ai-model-elo-history</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该信息指大模型竞技场（Arena）的ELO评分历史数据，展示了不同AI模型在众包盲测中的相对表现排名。对AI产品经理而言，这提供了模型能力演进的实时地图，可追踪GPT-4、Claude等模型性能变化趋势，辅助模型选型决策。技术要点在于ELO算法如何量化模型胜负关系，商业价值体现在帮助团队识别当前顶尖模型能力边界，产品创新体现在通过持续公开排名推动模型竞争与迭代。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hour</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">warden-endangered-indigenous-language-transcription-and-translation-with-6-hours</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>WARDEN模型在仅6小时标注音频的极低数据条件下，成功实现濒危原住民语言的语音转写与英译。该研究验证了数据高效学习在长尾语言场景的可行性，大幅降低多语言AI产品的冷启动门槛。其商业价值在于为文化遗产数字化、公共服务本地化提供低成本方案，为低资源AI产品的快速落地与垂直场景拓展提供了可复用的技术范式。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Negation Neglect: When models fail to learn negations in training</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">negation-neglect-when-models-fail-to-learn-negations-in-training</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该研究揭示了‘否定忽视’现象：在微调大语言模型时，若文档反复强调某个陈述为假（例如‘Ed Sheeran在2024奥运会上获得100米金牌’是假的），模型反而会学习为真。这暴露了模型对否定语义的学习缺陷，可能导致产品中产生事实性错误。技术要点：需改进训练数据中否定句的标注或引入对抗训练。商业价值：确保模型输出可靠性，避免误导用户，尤其适用于事实核查、内容审核等场景。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Quantifying Sensitivity for Tree Ensembles: A symbolic and compositional approac</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">quantifying-sensitivity-for-tree-ensembles-a-symbolic-and-compositional-approach</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出一种基于符号化与组合方法的决策树集成敏感性量化技术，旨在解决安全关键领域AI模型的属性验证难题。该技术能精准评估输入扰动对输出的影响，为金融、医疗等高风险场景提供可量化的鲁棒性指标。对AI产品经理而言，该方案可无缝嵌入模型审计与合规监控流程，有效降低算法黑箱风险，提升产品可信度与监管通过率，是构建企业级安全AI底座的核心能力。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Reducing cross-sample prediction churn in scientific machine learning</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">reducing-cross-sample-prediction-churn-in-scientific-machine-learning</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文聚焦科学机器学习中的“跨样本预测波动”问题，指出传统评估仅关注整体准确率，却忽视模型在训练数据微小变动下的预测一致性。通过化学基准测试验证，提出降低预测流失率的方法。对AI产品经理而言，该技术可显著提升科学发现类AI产品的预测可靠性，降低因模型随机性导致的决策风险，为构建高可信、可复现的工业级AI工具提供关键技术支撑。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>The Other Half of AI Safety</title>
-      <link>https://news.ycombinator.com/item?id=48129561</link>
-      <guid isPermaLink="false">the-other-half-of-ai-safety</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨AI安全的“另一半”，即从底层模型对齐转向产品部署与用户交互层面的安全治理。对AI产品经理而言，需将安全机制前置至产品设计，构建可解释的反馈闭环与动态风险拦截策略。通过融合人机协同验证与场景化合规框架，可有效降低幻觉与滥用风险，提升用户信任与商业化效率，是构建负责任AI产品的关键路径。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Topology-Preserving Neural Operator Learning via Hodge Decomposition</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">topology-preserving-neural-operator-learning-via-hodge-decomposition</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出一种拓扑保持的神经算子学习方法，利用霍奇分解从函数空间角度解耦物理场方程中的拓扑自由度与几何动力学。该方法通过霍奇正交性消除频谱干扰，使神经算子能更稳定地学习几何动态特性，提升对复杂几何网格上物理场的泛化能力。对AI产品经理而言，该技术可应用于工程仿真、数字孪生、气候建模等需要高保真物理模拟的场景，有望降低计算成本并提高预测精度，推动物理AI的产品化落地。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>The US is winning the AI race where it matters most: commercialization</title>
-      <link>https://news.ycombinator.com/item?id=48121929</link>
-      <guid isPermaLink="false">the-us-is-winning-the-ai-race-where-it-matters-mos</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Medicare's new payment model is built for AI. Most of the tech world has no idea</title>
-      <link>https://news.ycombinator.com/item?id=48127815</link>
-      <guid isPermaLink="false">medicares-new-payment-model-is-built-for-ai-most-of-the-tech-world-has-no-idea</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>美国Medicare推出新型支付模型，将AI临床效率与价值直接挂钩，标志着医疗AI迈入政策驱动商业化新阶段。该模式通过重构医保报销规则，明确激励医疗机构部署AI辅助诊疗、自动化临床文书与智能计费系统。对AI产品经理而言，核心在于构建符合医保合规要求的数据流、提供可解释的临床决策输出，并实现与现有EMR系统的深度集成，从而打造高ROI的B端医疗AI产品。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>What is Learnable in Valiant's Theory of the Learnable?</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">what-is-learnable-in-valiants-theory-of-the-learnable</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文澄清了Valiant 1984年奠基性论文的理论误区，指出其原始模型并非业界熟知的PAC学习，而是采用“仅正样本输入+成员查询+零假阳性输出”的严格约束框架。对AI产品经理而言，该理论明确了高可靠性模型在数据稀缺场景下的学习边界，为构建主动学习交互、安全关键型产品的零容错机制及低成本数据标注策略提供底层依据，有助于在算法能力与产品安全红线间建立科学评估标准。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Haiku</title>
-      <link>https://news.ycombinator.com/item?id=48124002</link>
-      <guid isPermaLink="false">haiku</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>"Not Medically Necessary": Helping America's Health Insurers Deny Coverage</title>
-      <link>https://news.ycombinator.com/item?id=48126000</link>
-      <guid isPermaLink="false">not-medically-necessary-helping-americas-healt</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>A Claude Code and Codex Skill for Deliberate Skill Development</title>
-      <link>https://news.ycombinator.com/item?id=48130679</link>
-      <guid isPermaLink="false">a-claude-code-and-codex-skill-for-deliberate-skill-development</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了如何利用 Claude Code 和 Codex 等 AI 代码助手进行有意的技能发展，并非简单生成代码，而是通过刻意练习模式帮助开发者提升编程能力。技术要点包括将 AI 作为实时教练和反馈源，设计练习任务以促进深度理解；商业价值在于提高开发者学习效率，拓展 AI 在教育与培训领域的应用；产品创新点在于从工具转向技能发展平台，强调人机协作的成长机制。</p></description>
-      <category>📱 产品模式</category>
     </item>
   </channel>
 </rss>
