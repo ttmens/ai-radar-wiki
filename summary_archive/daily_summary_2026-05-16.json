@@ -1,0 +1,58 @@
+{
+  "daily_summary": {
+    "date": "2026-05-16",
+    "headline": "今日 AI 情报 · 2026-05-16",
+    "overview": "AI落地双刃剑：员工虚假使用与端侧安全漏洞暴露深层矛盾",
+    "narratives": [
+      {
+        "title": "AI大规模部署后的真实副作用：激励错配与安全盲区",
+        "body": "今天两条情报揭示了AI从概念验证转向规模化落地后出现的两类典型副作用：一是组织内部为完成AI使用指标而产生的行为扭曲（Amazon员工编造任务），二是端侧AI设备因零点击漏洞暴露的系统性安全风险（Pixel 10）。这些信号表明，AI产品经理需要从追求能力指标转向设计配套的激励机制和安全架构，否则量化指标会催生虚假繁荣，而安全漏洞则会侵蚀用户信任。",
+        "type": "bottleneck",
+        "pillar_key": "patterns"
+      }
+    ],
+    "insights": [
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI大规模部署后的真实副作用：激励错配与安全盲区",
+        "insight": "AI大规模部署后的真实副作用：激励错配与安全盲区。该方向的具体信号：Amazon员工被迫增加AI使用量，却为达指标编造不存在任务——说明公司设定的使用率指标脱离了真实业务价值，导致员工行为扭曲，这是PM在推动AI采用时极易忽视的激励失衡问题。",
+        "evidence": [
+          {
+            "id": "amazon-workers-under-pressure-to-up-their-ai-usage-are-making-up-tasks",
+            "title": "亚马逊员工为满足AI使用指标而编造任务",
+            "score": 0.53
+          }
+        ]
+      },
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI大规模部署后的真实副作用：激励错配与安全盲区",
+        "insight": "AI大规模部署后的真实副作用：激励错配与安全盲区。该方向的具体信号：Pixel 10零点击漏洞无需用户交互即可远程控制设备，为依赖端侧推理的AI功能（语音助手、摄像头分析等）敲响警钟——PM必须将硬件级安全隔离和零信任架构纳入产品路线图。",
+        "evidence": [
+          {
+            "id": "a-0-click-exploit-chain-for-the-pixel-10",
+            "title": "Pixel 10零点击漏洞利用链",
+            "score": 0.41
+          }
+        ]
+      }
+    ],
+    "stats": "技术能力: 1 | 产品模式: 1 | 工具生态: 0 | 商业趋势: 0",
+    "total_items": 2,
+    "high_value_count": 2,
+    "all_today_ids": [
+      {
+        "id": "amazon-workers-under-pressure-to-up-their-ai-usage-are-making-up-tasks",
+        "label": "Amazon workers under pressure to up their AI usage are making up tasks"
+      },
+      {
+        "id": "a-0-click-exploit-chain-for-the-pixel-10",
+        "label": "A 0-click exploit chain for the Pixel 10"
+      }
+    ],
+    "date_bj": "2026-05-16 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-05-16 00:01:49"
+  }
+}

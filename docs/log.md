@@ -575,3 +575,7 @@
 ## [2026-05-15 22:22] sync v3 | 2 new | pillars: {'capabilities': 2}
 - create: the-wonders-of-ai-we-are-retiring-our-bug-bounty-program.md
 - create: runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai.md
+
+## [2026-05-16 00:01] sync v3 | 2 new | pillars: {'capabilities': 2}
+- create: a-0-click-exploit-chain-for-the-pixel-10.md
+- create: amazon-workers-under-pressure-to-up-their-ai-usage-are-making-up-tasks.md

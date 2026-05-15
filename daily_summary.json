@@ -1,317 +1,58 @@
 {
   "daily_summary": {
-    "date": "2026-05-15",
-    "headline": "今日 AI 情报 · 2026-05-15",
-    "overview": "AI从被动响应工具转向自主操作与自我进化，产品化面临信任与合规挑战。",
+    "date": "2026-05-16",
+    "headline": "今日 AI 情报 · 2026-05-16",
+    "overview": "AI落地双刃剑：员工虚假使用与端侧安全漏洞暴露深层矛盾",
     "narratives": [
       {
-        "title": "AI从工具迈向自主代理：自进化与端到端自动化成为新范式",
-        "body": "Richard Socher的创业公司获得6.5亿美元融资，目标构建能无限自我改进的AI系统，标志着AI从静态模型向持续自进化的代理转变。同时，Synthetic等初创公司推出完全自主的AI记账服务，实现端到端无人干预的自动化流程。对产品经理而言，这意味着产品设计重心从功能交付转向代理治理（如可控性、监控与回滚），并需重新定义人机协作边界。后续可能引发自进化系统安全性与伦理治理的激烈讨论。",
-        "type": "paradigm_shift",
-        "pillar_key": "patterns"
-      },
-      {
-        "title": "AI产品化的信任裂痕：医疗误诊、认知退化与法律纠纷警示行业风险",
-        "body": "安大略省医疗AI笔记助手频繁出现基本事实错误，严重威胁患者安全；“AI致傻”讨论与大学学术僵尸化现象揭示过度依赖AI导致用户批判性思维退化；同时OpenAI面临与苹果的法律纠纷，以及CEO商业交易审查与马斯克诉讼，凸显生态合作与合规风险。这些信号表明AI产品化已进入“信任验证期”，产品经理必须优先强化事实核查、用户认知培养与法律合规设计。",
+        "title": "AI大规模部署后的真实副作用：激励错配与安全盲区",
+        "body": "今天两条情报揭示了AI从概念验证转向规模化落地后出现的两类典型副作用：一是组织内部为完成AI使用指标而产生的行为扭曲（Amazon员工编造任务），二是端侧AI设备因零点击漏洞暴露的系统性安全风险（Pixel 10）。这些信号表明，AI产品经理需要从追求能力指标转向设计配套的激励机制和安全架构，否则量化指标会催生虚假繁荣，而安全漏洞则会侵蚀用户信任。",
         "type": "bottleneck",
-        "pillar_key": "capabilities"
-      },
-      {
-        "title": "视频生成成为通向世界模型的关键战场，驱动多模态数据基础设施爆发",
-        "body": "Runway提出视频生成是通向世界模型的关键路径，目标挑战Google的AI领导地位；EntityBench等新基准聚焦多镜头视频中实体一致性，推动影视级应用落地。同时，Wirestock融资2300万美元，构建创作者到AI实验室的多模态数据供应链。产品经理应关注视频生成从内容工具升级为认知模型基础设施的趋势，并抢抓跨模态数据合规供给的商机。",
-        "type": "maturation",
-        "pillar_key": "ecosystem"
+        "pillar_key": "patterns"
       }
     ],
     "insights": [
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "AI从工具迈向自主代理：自进化与端到端自动化成为新范式",
-        "insight": "AI从工具迈向自主代理：自进化与端到端自动化成为新范式。该方向的具体信号：Synthetic获得1000万美元投资打造完全自主AI记账，实现无人干预的财务管理全流程；Osaurus混合AI架构证明本地+云端协同可满足隐私与实时性需求，为自主代理提供基础设施支撑。产品经理需从“功能交付”转向“代理治理”，设计监控、回滚与人类干预机制。",
+        "narrative_title": "AI大规模部署后的真实副作用：激励错配与安全盲区",
+        "insight": "AI大规模部署后的真实副作用：激励错配与安全盲区。该方向的具体信号：Amazon员工被迫增加AI使用量，却为达指标编造不存在任务——说明公司设定的使用率指标脱离了真实业务价值，导致员工行为扭曲，这是PM在推动AI采用时极易忽视的激励失衡问题。",
         "evidence": [
           {
-            "id": "khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded",
-            "title": "Khosla Ventures投资Ian Crosby，构建完全自主的AI记账服务Synthetic",
-            "score": 0.48
-          },
-          {
-            "id": "osaurus-brings-both-local-and-cloud-ai-models-to-your-mac",
-            "title": "Osaurus在Mac上整合本地与云端AI模型，实现混合AI架构",
-            "score": 0.52
+            "id": "amazon-workers-under-pressure-to-up-their-ai-usage-are-making-up-tasks",
+            "title": "亚马逊员工为满足AI使用指标而编造任务",
+            "score": 0.53
           }
         ]
       },
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "narrative_title": "AI产品化的信任裂痕：医疗误诊、认知退化与法律纠纷警示行业风险",
-        "insight": "AI产品化的信任裂痕：医疗误诊、认知退化与法律纠纷警示行业风险。该方向的具体信号：安大略省医疗AI笔记频繁犯错，200+论文揭示科研中AI幻觉泛滥，“AI致傻”讨论表明用户过度依赖损害认知能力，大学学术评估被AI绕开引发诚信危机。产品经理需在功能中内嵌事实核查、可解释性提示与用户认知保护设计，平衡自动化与人类主动性。",
+        "narrative_title": "AI大规模部署后的真实副作用：激励错配与安全盲区",
+        "insight": "AI大规模部署后的真实副作用：激励错配与安全盲区。该方向的具体信号：Pixel 10零点击漏洞无需用户交互即可远程控制设备，为依赖端侧推理的AI功能（语音助手、摄像头分析等）敲响警钟——PM必须将硬件级安全隔离和零信任架构纳入产品路线图。",
         "evidence": [
           {
-            "id": "ai-is-making-me-dumb",
-            "title": "AI致傻：过度依赖导致用户认知能力下降，需警惕产品设计风险",
-            "score": 0.63
-          }
-        ]
-      },
-      {
-        "pillar": "🔧 工具生态",
-        "pillar_key": "ecosystem",
-        "narrative_title": "视频生成成为通向世界模型的关键战场，驱动多模态数据基础设施爆发",
-        "insight": "视频生成成为通向世界模型的关键战场，驱动多模态数据基础设施爆发。该方向的具体信号：Runway以视频生成挑战Google，认为这是通向世界模型的关键；Wirestock融资2300万美元构建创作者到AI实验室的多模态数据供应链；EntityBench提出长视频实体一致性评估基准，推动影视级应用落地。产品经理应布局视频生成+世界模型融合的产品矩阵，并抢占合规多模态数据供给窗口。",
-        "evidence": [
-          {
-            "id": "runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai",
-            "title": "Runway：视频生成通往世界模型，挑战Google AI领导地位",
-            "score": 0.52
-          },
-          {
-            "id": "wirestock-raises-23m-to-supply-creative-multi-modal-data-to-ai-labs",
-            "title": "Wirestock融资2300万，为AI实验室提供多模态创意训练数据",
-            "score": 0.48
-          },
-          {
-            "id": "entitybench-towards-entity-consistent-long-range-multi-shot-video-generation",
-            "title": "EntityBench：评估多镜头视频中实体一致性的基准，推动连贯视觉叙事",
-            "score": 0.48
-          }
-        ]
-      },
-      {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "narrative_title": "AI产品化的信任裂痕：医疗误诊、认知退化与法律纠纷警示行业风险",
-        "insight": "AI产品化的信任裂痕：医疗误诊、认知退化与法律纠纷警示行业风险。该方向的具体信号：OpenAI与苹果集成未达预期，面临法律行动；Sam Altman在IPO前受共和党商业审查；Elon Musk诉OpenAI指控背离非营利使命。这些事件表明AI商业合作需明确收益分配、退出机制与合规治理，否则将面临法律与信任双重风险。",
-        "evidence": [
-          {
-            "id": "openai-is-reportedly-preparing-legal-action-against-apple-it-wouldn8217t-be-the",
-            "title": "OpenAI因ChatGPT集成效果不佳，拟对苹果采取法律行动",
-            "score": 0.48
-          },
-          {
-            "id": "sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo",
-            "title": "Altman在OpenAI IPO前遭共和党审查，增加上市不确定性",
-            "score": 0.49
-          },
-          {
-            "id": "what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman",
-            "title": "Musk诉Altman案：陪审团将判定OpenAI是否背离非营利使命",
-            "score": 0.48
+            "id": "a-0-click-exploit-chain-for-the-pixel-10",
+            "title": "Pixel 10零点击漏洞利用链",
+            "score": 0.41
           }
         ]
       }
     ],
-    "stats": "技术能力: 12 | 产品模式: 2 | 工具生态: 3 | 商业趋势: 3",
-    "total_items": 20,
-    "high_value_count": 20,
+    "stats": "技术能力: 1 | 产品模式: 1 | 工具生态: 0 | 商业趋势: 0",
+    "total_items": 2,
+    "high_value_count": 2,
     "all_today_ids": [
       {
-        "id": "codex-is-now-in-the-chatgpt-mobile-app",
-        "label": "Codex is now in the ChatGPT mobile app"
+        "id": "amazon-workers-under-pressure-to-up-their-ai-usage-are-making-up-tasks",
+        "label": "Amazon workers under pressure to up their AI usage are making up tasks"
       },
       {
-        "id": "ai-is-making-me-dumb",
-        "label": "AI is making me dumb"
-      },
-      {
-        "id": "ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts",
-        "label": "Ontario auditors find doctors' AI note takers routinely blow basic facts"
-      },
-      {
-        "id": "rtx-5090-and-m4-macbook-air-can-it-game",
-        "label": "RTX 5090 and M4 MacBook Air: Can It Game?"
-      },
-      {
-        "id": "what-happens-when-ai-starts-building-itself",
-        "label": "What happens when AI starts building itself?"
-      },
-      {
-        "id": "osaurus-brings-both-local-and-cloud-ai-models-to-your-mac",
-        "label": "Osaurus brings both local and cloud AI models to your Mac"
-      },
-      {
-        "id": "the-ai-zombification-of-universities",
-        "label": "The AI Zombification of Universities"
-      },
-      {
-        "id": "runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai",
-        "label": "Runway started by helping filmmakers. Now it wants to beat Google at AI."
-      },
-      {
-        "id": "sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo",
-        "label": "Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO"
-      },
-      {
-        "id": "wirestock-raises-23m-to-supply-creative-multi-modal-data-to-ai-labs",
-        "label": "Wirestock raises $23M to supply creative multi-modal data to AI labs"
-      },
-      {
-        "id": "claude-for-legal",
-        "label": "Claude for Legal"
-      },
-      {
-        "id": "what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman",
-        "label": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman"
-      },
-      {
-        "id": "claude-ai-recovers-an-11-yrs-old-btc-wallet-holding-400k-usd",
-        "label": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD"
-      },
-      {
-        "id": "khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded",
-        "label": "Khosla Ventures is betting $10M on Ian Crosby, whose last startup, Bench, implod"
-      },
-      {
-        "id": "openai-is-reportedly-preparing-legal-action-against-apple-it-wouldn8217t-be-the",
-        "label": "OpenAI is reportedly preparing legal action against Apple; it wouldn&#8217;t be"
-      },
-      {
-        "id": "text-knows-what-tables-know-when-clinical-timeline-reconstruction-via-retrieval",
-        "label": "Text Knows What, Tables Know When: Clinical Timeline Reconstruction via Retrieva"
-      },
-      {
-        "id": "entitybench-towards-entity-consistent-long-range-multi-shot-video-generation",
-        "label": "EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation"
-      },
-      {
-        "id": "position-behavioural-assurance-cannot-verify-the-safety-claims-governance-now-de",
-        "label": "Position: Behavioural Assurance Cannot Verify the Safety Claims Governance Now D"
-      },
-      {
-        "id": "evidential-reasoning-advances-interpretable-real-world-disease-screening",
-        "label": "Evidential Reasoning Advances Interpretable Real-World Disease Screening"
-      },
-      {
-        "id": "atlas-agentic-or-latent-visual-reasoning-one-word-is-enough-for-both",
-        "label": "ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both"
-      },
-      {
-        "id": "futuresim-replaying-world-events-to-evaluate-adaptive-agents",
-        "label": "FutureSim: Replaying World Events to Evaluate Adaptive Agents"
-      },
-      {
-        "id": "refdecoder-enhancing-visual-generation-with-conditional-video-decoding",
-        "label": "RefDecoder: Enhancing Visual Generation with Conditional Video Decoding"
-      },
-      {
-        "id": "clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard",
-        "label": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard"
-      },
-      {
-        "id": "cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-8216record-quarterly-rev",
-        "label": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports &#8216;record quarterl"
-      },
-      {
-        "id": "uk-sovereign-llm-inference",
-        "label": "UK sovereign LLM inference"
-      },
-      {
-        "id": "have-a-coherent-ai-policy",
-        "label": "Have a Coherent AI Policy"
-      },
-      {
-        "id": "cerebras-raises-55b-then-stock-pops-108-in-the-first-huge-tech-ipo-of-2026",
-        "label": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026"
-      },
-      {
-        "id": "when-are-two-networks-the-same-tensor-similarity-for-mechanistic-interpretabilit",
-        "label": "When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretabili"
-      },
-      {
-        "id": "eradicating-negative-transfer-in-multi-physics-foundation-models-via-sparse-mixt",
-        "label": "Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixt"
-      },
-      {
-        "id": "vggt-edit-feed-forward-native-3d-scene-editing-with-residual-field-prediction",
-        "label": "VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction"
-      },
-      {
-        "id": "quantitative-video-world-model-evaluation-for-geometric-consistency",
-        "label": "Quantitative Video World Model Evaluation for Geometric-Consistency"
-      },
-      {
-        "id": "you-dont-align-an-ai-you-align-with-it",
-        "label": "You Don't Align an AI, You Align with It"
-      },
-      {
-        "id": "elon-musk8217s-spacexai-has-been-bleeding-staff-since-its-merger",
-        "label": "Elon Musk&#8217;s SpaceXAI has been bleeding staff since its merger"
-      },
-      {
-        "id": "mindsdbminds-platform",
-        "label": "mindsdb/minds-platform"
-      },
-      {
-        "id": "too-dangerous-or-just-too-expensive-the-real-reason-anthropic-is-hiding-mythos",
-        "label": "Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos"
-      },
-      {
-        "id": "overseas-fakers-using-ai-videos-to-push-a-narrative-of-uk-decline-bbc-finds",
-        "label": "Overseas fakers using AI videos to push a narrative of UK decline, BBC finds"
-      },
-      {
-        "id": "how-claude-code-works-in-large-codebases",
-        "label": "How Claude Code works in large codebases"
-      },
-      {
-        "id": "best-brain-for-agents-is-just-versioned-folders-of-markdown-files",
-        "label": "Best \"Brain\" for Agents Is Just Versioned Folders of Markdown Files"
-      },
-      {
-        "id": "show-hn-glycemicgpt-open-source-ai-powered-diabetes-management",
-        "label": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management"
-      },
-      {
-        "id": "access-to-frontier-ai-will-soon-be-limited-by-economic-and-security-constraints",
-        "label": "Access to frontier AI will soon be limited by economic and security constraints"
-      },
-      {
-        "id": "show-hn-find-the-best-local-llm-for-your-hardware-ranked-by-benchmarks",
-        "label": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks"
-      },
-      {
-        "id": "cursing-the-government-does-not-fix-potholes-spray-painting-them-does",
-        "label": "Cursing the government does not fix potholes. Spray-painting them does"
-      },
-      {
-        "id": "usda-projects-smallest-us-wheat-harvest-since-1972-due-to-plains-drought",
-        "label": "USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought"
-      },
-      {
-        "id": "two-weeks-left-startup-battlefield-200-applications-close-may-27",
-        "label": "Two weeks left: Startup Battlefield 200 applications close May 27"
-      },
-      {
-        "id": "details-of-the-daring-airdrop-at-tristan-da-cunha",
-        "label": "Details of the Daring Airdrop at Tristan Da Cunha"
-      },
-      {
-        "id": "opendeepthink-parallel-reasoning-via-bradley-terry-aggregation",
-        "label": "OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation"
-      },
-      {
-        "id": "safari-and-firefox-change-how-big-sites-render-based-on-the-domain",
-        "label": "Safari and Firefox change how big sites render based on the domain"
-      },
-      {
-        "id": "llm-policy-for-rust-compiler",
-        "label": "LLM Policy for Rust Compiler"
-      },
-      {
-        "id": "oxcaml-in-space",
-        "label": "O(x)Caml in Space"
-      },
-      {
-        "id": "building-ml-framework-with-rust-and-category-theory",
-        "label": "Building ML framework with Rust and Category Theory"
-      },
-      {
-        "id": "the-wonders-of-ai-we-are-retiring-our-bug-bounty-program",
-        "label": "The Wonders of AI: We Are Retiring Our Bug Bounty Program"
+        "id": "a-0-click-exploit-chain-for-the-pixel-10",
+        "label": "A 0-click exploit chain for the Pixel 10"
       }
     ],
-    "date_bj": "2026-05-15 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-15 22:22:22"
+    "date_bj": "2026-05-16 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-05-16 00:01:49"
   }
 }
