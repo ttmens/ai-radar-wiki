@@ -1,0 +1,25 @@
+---
+title: Safari and Firefox change how big sites render based on the domain
+created: 2026-05-15
+updated: 2026-05-15
+type: entity
+pillar: capabilities
+pm_score: 0.295
+tags: ["discussion", "hacker-news", "capabilities"]
+sources: ["raw/hn/safari-and-firefox-change-how-big-sites-render-based-on-the-domain.json"]
+---
+
+# Safari and Firefox change how big sites render based on the domain
+
+## 中文摘要
+Safari 和 Firefox 浏览器正在改变对大网站的渲染方式，其核心是根据域名采取不同的渲染策略。这一变化主要涉及隐私保护、反跟踪和性能优化，可能通过限制第三方脚本、增强隔离性或调整渲染优先级来降低大型网站的数据追踪能力。对 AI 产品经理而言，这影响依赖浏览器行为数据的产品（如推荐系统、用户分析），需要关注数据采集的准确性变化。同时，浏览器厂商的策略差异化可能推动 Web 端的 AI 应用适配新的渲染环境，促使产品设计转向更尊重隐私的前端处理模式。
+
+## PM 关注指标
+- 🔥 HN Score: 35
+- 💬 Comments: 12
+- 🎯 PM Score: 0.295
+- 🏷️ Pillar: capabilities
+
+## 链接
+- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48136949
+- 🔗 原文: https://denodell.com/blog/browsers-treat-big-sites-differently

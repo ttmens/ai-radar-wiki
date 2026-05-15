@@ -1,0 +1,32 @@
+{
+  "title": "VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction",
+  "summary": "High-quality 3D scene reconstruction has recently advanced toward generalizable feed-forward architectures, enabling the generation of complex environments in a single forward pass. However, despite their strong performance in static scene perception, these models remain limited in responding to dynamic human instructions, which restricts their use in interactive applications. Existing editing methods typically rely on a 2D-lifting strategy, where individual views are edited independently and then lifted back into 3D space. This indirect pipeline often leads to blurry textures and inconsistent geometry, as 2D editors lack the spatial awareness required to preserve structure across viewpoints. To address these limitations, we propose VGGT-Edit, a feed-forward framework for text-conditioned native 3D scene editing. VGGT-Edit introduces depth-synchronized text injection to align semantic guidance with the backbone's spatial poses, ensuring stable instruction grounding. This semantic signal is then processed by a residual transformation head, which directly predicts 3D geometric displacements to deform the scene while preserving background stability. To ensure high-fidelity results, we supervise the framework with a multi-term objective function that enforces geometric accuracy and cross-view consistency. We also construct the DeltaScene Dataset, a large-scale dataset generated through an automated pipeline with 3D agreement filtering to ensure ground-truth quality. Experiments show that VGGT-Edit substantially outperforms 2D-lifting baselines, producing sharper object details, stronger multi-view consistency, and near-instant inference speed.",
+  "url": "http://arxiv.org/abs/2605.15186v1",
+  "authors": [
+    "Kaixin Zhu",
+    "Yiwen Tang",
+    "Yifan Yang",
+    "Renrui Zhang",
+    "Bohan Zeng"
+  ],
+  "published": "2026-05-14T17:59:04Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "accuracy",
+    "dataset"
+  ],
+  "summary_cn": "VGGT-Edit提出了一种前馈式的原生3D场景编辑方法，通过残差场预测实现单次前向传播即可编辑3D场景，无需传统迭代优化。该方法基于可泛化的前馈架构，能快速生成复杂环境并支持动态场景响应，显著提升了3D编辑效率。商业上，它可降低AR/VR、游戏和影视等内容制作的算力成本，加速产品迭代；产品创新在于将编辑过程原生集成到3D重建中，避免了2D-3D转换的精度损失，为实时交互式3D编辑提供了新范式。",
+  "pm_relevance": 7,
+  "concepts": [
+    "3D场景编辑",
+    "前馈架构",
+    "残差场预测"
+  ],
+  "entities": [],
+  "patterns": [
+    "前馈AI模式",
+    "原生3D编辑"
+  ]
+}

@@ -1,8 +1,19 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T06:04:00.654315+08:00",
-  "item_count": 25,
+  "generated_at": "2026-05-15T12:04:03.123902+08:00",
+  "item_count": 43,
   "items": [
+    {
+      "id": "codex-is-now-in-the-chatgpt-mobile-app",
+      "label": "Codex is now in the ChatGPT mobile app",
+      "summary": "OpenAI 将 Codex（代码生成模型）集成到 ChatGPT 移动应用中，用户现在可以在手机端通过对话直接获取代码建议、解释和调试帮助。这一举措显著提升了 ChatGPT 在移动场景下的实用性，尤其是对开发者用户而言，无需打开桌面 IDE 即可快速编码。商业上，它增强了 ChatGPT 的差异化竞争力，吸引专业用户并推动订阅转化。产品创新在于将代码助手无缝融入移动聊天界面，降低使用门槛，扩大 AI 编程的普及度。",
+      "pm_score": 0.635,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48140529",
+      "date": "2026-05-15"
+    },
     {
       "id": "ai-is-making-me-dumb",
       "label": "AI is making me dumb",
@@ -12,6 +23,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48139148",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts",
+      "label": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+      "summary": "安大略省审计员发现，医生使用的AI笔记助手频繁出现基本事实错误，如误诊记录、错误剂具等，严重影响医疗安全。该问题揭示当前AI在专业场景中可靠性不足，尤其在高容错率的医疗领域，产品设计需强化事实核查与领域特定校准。商业上，此类AI工具若不能保证准确性，将面临法律与信任危机，提示产品经理应优先投入医疗合规验证与实时纠错机制。",
+      "pm_score": 0.565,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48142188",
       "date": "2026-05-15"
     },
     {
@@ -70,6 +92,17 @@
       "date": "2026-05-15"
     },
     {
+      "id": "what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman",
+      "label": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+      "summary": "Elon Musk 诉 Sam Altman 及 OpenAI 一案是今年最重大的科技法律纠纷，核心争议在于 OpenAI 是否背离了最初的非营利使命（安全优先、开源）转向追求利润。陪审团将决定 Altman 及董事会是否违反信托责任、合同及反垄断法。此案结果将影响 AI 行业的治理模式、资本结构与开源封闭路线，尤其对 GPT 系列商业化的合法性产生深远影响，是 AI 产品经理理解行业权力博弈与生态演变的关键案例。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+      "date": "2026-05-15"
+    },
+    {
       "id": "claude-ai-recovers-an-11-yrs-old-btc-wallet-holding-400k-usd",
       "label": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
       "summary": "Anthropic 的 Claude AI 成功恢复了一个 11 年前的比特币钱包，内含价值 40 万美元的 BTC。该案例凸显了 AI 在长期上下文理解与密码学推理方面的能力突破，通过分析历史数据与模式匹配，实现了资产找回。对产品经理而言，这展示了 AI 记忆扩展的现实商业价值——从密码恢复、资产遗赠到信任增强，为 AI 助手赋予“回忆过去”的功能可开辟付费订阅与高端服务场景，但也带来数据隐私与安全性挑战。",
@@ -103,6 +136,83 @@
       "date": "2026-05-15"
     },
     {
+      "id": "text-knows-what-tables-know-when-clinical-timeline-reconstruction-via-retrieval",
+      "label": "Text Knows What, Tables Know When: Clinical Timeline Reconstruction via Retrieva",
+      "summary": "该论文提出一种基于检索增强的多模态对齐方法，用于从非结构化临床叙述（文本）和结构化表格数据（时间）中重建精确的临床时间线。针对败血症等复杂疾病，通过将语义丰富的文本描述与时间信息对齐，解决了临床叙事缺乏精确时间戳的问题。技术要点包括多模态特征融合、检索增强生成（RAG）和时序对齐。商业价值在于提升医疗AI系统的时序推理能力，辅助临床决策和风险预测。产品创新在于自动构建连贯的患者病程时间线，减少人工整理负担。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "entitybench-towards-entity-consistent-long-range-multi-shot-video-generation",
+      "label": "EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation",
+      "summary": "本文提出EntityBench，一个用于评估多镜头视频生成中实体一致性（角色、物体、位置）的基准。现有方法使用独立生成的提示集，难以处理长序列中的连贯性问题。EntityBench通过设计长距离多镜头场景，系统评测模型在保持跨镜头实体一致性方面的能力。该基准填补了当前视频生成评估的空白，为产品化落地（如影视制作、广告、虚拟内容创作）提供关键评测手段，推动模型改进以实现更连贯的视觉叙事。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "position-behavioural-assurance-cannot-verify-the-safety-claims-governance-now-de",
+      "label": "Position: Behavioural Assurance Cannot Verify the Safety Claims Governance Now D",
+      "summary": "该论文指出，当前AI治理框架（2019-2026年期间）要求行为保证提供可审查的安全证据（如无隐藏目标、抗攻击能力），但行为保证在本质上是无法验证这些声明的。产品经理需警惕：依赖行为测试不足以支撑合规性，应结合更严格的架构保证和形式化验证。商业上，提前引入可解释性与鲁棒性设计可降低监管风险，提升产品可信度。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "evidential-reasoning-advances-interpretable-real-world-disease-screening",
+      "label": "Evidential Reasoning Advances Interpretable Real-World Disease Screening",
+      "summary": "本文提出基于证据推理的医学图像筛查方法，通过引用历史病例作为可解释依据，解决了现有模型可解释性差、性能欠佳的问题。该方法在临床早期检测中具备高准确性和透明度，能够帮助医生理解模型决策依据，降低误诊风险。商业价值上，可显著提升疾病筛查系统的临床采纳率，并推动AI辅助诊断的产品化落地。产品创新在于将历史病例作为推理证据，增强了模型的可信度与实用性。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "atlas-agentic-or-latent-visual-reasoning-one-word-is-enough-for-both",
+      "label": "ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both",
+      "summary": "ATLAS 提出一种新型视觉推理方法，通过单一词汇同时实现代理性（Agentic）和潜在（Latent）视觉推理，避免了传统方法中通过统一模型直接生成中间图像的高计算成本和架构复杂性。该方法在保持推理精度的同时大幅降低资源消耗，为多模态AI产品（如智能助手、自动驾驶、机器人等）提供高效、低成本的视觉推理方案，具有显著的商业应用价值。产品经理可关注其在减少模型部署成本、提升实时推理速度方面的潜力。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "futuresim-replaying-world-events-to-evaluate-adaptive-agents",
+      "label": "FutureSim: Replaying World Events to Evaluate Adaptive Agents",
+      "summary": "该论文提出FutureSim方法，通过按时间顺序回放真实世界事件，构建基于真实场景的仿真环境，以评估AI代理在动态开放环境中的适应能力。该方法能高效衡量代理处理新信息的能力，适用于复杂现实用例。对于AI产品经理，此方法可用于设计更可靠的代理产品基准测试，提升产品在真实场景下的鲁棒性。商业价值在于降低测试成本，加速代理系统迭代。产品创新点在于利用真实事件序列模拟自适应行为，而非人工构造场景。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "refdecoder-enhancing-visual-generation-with-conditional-video-decoding",
+      "label": "RefDecoder: Enhancing Visual Generation with Conditional Video Decoding",
+      "summary": "RefDecoder 提出一种条件视频解码方法，解决潜在扩散模型中解码器无条件导致的生成质量不对称问题。传统解码器不利用条件信息，限制了生成一致性。RefDecoder 通过引入条件机制，显著提升视频生成质量，尤其在下游应用如视频编辑、合成中实现更逼真、连贯的输出。该技术创新降低了生成伪影，优化了模型架构效率，对视频生成产品的实用化和商业化有重要价值。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-15"
+    },
+    {
       "id": "clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard",
       "label": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
       "summary": "Clawdmeter 是一款开源桌面小工具，用于将 Claude Code 的使用统计数据（如 API 调用量、上下文消耗等）转换为实时仪表盘，帮助 AI 编程重度用户直观监控自身使用行为。该项目面向效率优化场景，通过本地可视化降低依赖云端分析的延迟与隐私风险，同时为 AI 产品经理提供用户行为洞察的轻量级参考工具。技术亮点在于轻量级前端与 Claude Code 接口的集成，商业价值体现在赋能开发者自助管理 AI 资源成本，属于开发者工具生态中的创新尝试。",
@@ -125,6 +235,17 @@
       "date": "2026-05-15"
     },
     {
+      "id": "have-a-coherent-ai-policy",
+      "label": "Have a Coherent AI Policy",
+      "summary": "该讨论聚焦于制定连贯的AI政策的重要性，强调企业或国家需要一套统一、可执行的AI使用准则，以避免碎片化决策带来的风险。对于AI产品经理而言，这意味着产品设计需内嵌合规与伦理框架，平衡创新与监管。核心价值在于通过政策驱动用户信任与长期可持续性，减少潜在法律与声誉风险。技术要点涉及政策如何影响模型部署、数据治理及产品迭代流程。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48142553",
+      "date": "2026-05-15"
+    },
+    {
       "id": "cerebras-raises-55b-then-stock-pops-108-in-the-first-huge-tech-ipo-of-2026",
       "label": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
       "summary": "Cerebras，一家专注于AI芯片（晶圆级集成）的公司，成功完成55亿美元IPO，股价首日飙升108%，成为2026年首个巨大科技IPO。此次融资凸显市场对专用AI硬件（训练/推理）的强劲需求，以及投资者对非传统芯片架构商业前景的认可。对于AI产品经理而言，该事件标志着底层算力竞争加剧，预示着未来AI产品性能提升将更多依赖专用硬件创新，并影响云服务和边缘部署的成本与可行性。",
@@ -133,6 +254,50 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "when-are-two-networks-the-same-tensor-similarity-for-mechanistic-interpretabilit",
+      "label": "When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretabili",
+      "summary": "本文探讨机械可解释性中的关键问题：如何判断两个神经网络是否实现相同的计算。现有相似性度量要么依赖经验行为（对分布外机制失效），要么依赖基参数（不具不变性）。作者提出基于张量相似度的方法，通过比较网络内部表示的结构等价性，实现跨分布和跨模型的机制对齐。该方法有助于可解释性分析、模型压缩和迁移学习中的等价性验证，提升AI产品的可信度与调试效率。对产品经理而言，这为模型理解与安全部署提供了基础工具。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "eradicating-negative-transfer-in-multi-physics-foundation-models-via-sparse-mixt",
+      "label": "Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixt",
+      "summary": "本论文提出通过稀疏混合专家（Sparse MoE）路由机制解决多物理场基础模型中的负迁移问题。传统密集神经网络在同时训练不同偏微分方程（PDE）时，因梯度冲突和优化不稳定导致性能下降。MoE通过动态选择子网络处理不同物理域，有效隔离任务干扰，保持可塑性。该方法为构建通用科学计算基础模型铺平道路，可显著提升工程仿真、气候建模等领域的模型泛化能力，降低多任务联合训练成本，具有重要商业价值。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "vggt-edit-feed-forward-native-3d-scene-editing-with-residual-field-prediction",
+      "label": "VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction",
+      "summary": "VGGT-Edit提出了一种前馈式的原生3D场景编辑方法，通过残差场预测实现单次前向传播即可编辑3D场景，无需传统迭代优化。该方法基于可泛化的前馈架构，能快速生成复杂环境并支持动态场景响应，显著提升了3D编辑效率。商业上，它可降低AR/VR、游戏和影视等内容制作的算力成本，加速产品迭代；产品创新在于将编辑过程原生集成到3D重建中，避免了2D-3D转换的精度损失，为实时交互式3D编辑提供了新范式。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "quantitative-video-world-model-evaluation-for-geometric-consistency",
+      "label": "Quantitative Video World Model Evaluation for Geometric-Consistency",
+      "summary": "该论文针对生成式视频模型作为隐式世界模型时的几何一致性问题，提出了一种定量评估方法。现有评估依赖人工或学习评分器，主观性强且难以衡量3D结构和运动的物理合理性。技术要点包括设计几何约束指标，自动检测视频中物体形状、深度和运动轨迹是否一致。商业价值在于为自动驾驶、机器人仿真和内容生成等场景提供可靠的质量控制，降低人工审核成本。产品创新体现在将评估从主观转向客观，促进视频生成模型在物理世界模拟中的可信应用。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
       "date": "2026-05-15"
     },
     {
@@ -158,6 +323,17 @@
       "date": "2026-05-15"
     },
     {
+      "id": "mindsdbminds-platform",
+      "label": "mindsdb/minds-platform",
+      "summary": "Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/mindsdb/minds-platform",
+      "date": "2026-05-15"
+    },
+    {
       "id": "usda-projects-smallest-us-wheat-harvest-since-1972-due-to-plains-drought",
       "label": "USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought",
       "summary": "该新闻标题显示美国农业部预测由于平原地区干旱，2025年美国小麦收成将创1972年以来新低。但内容完全属于农业经济与气象领域，与AI技术、产品创新或商业价值无直接关联。作为AI产品经理，可关注类似预测模型在农业领域的应用潜力，但本文未提供相关技术细节。",
@@ -177,6 +353,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "opendeepthink-parallel-reasoning-via-bradley-terry-aggregation",
+      "label": "OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation",
+      "summary": "Test-time compute scaling is a primary axis for improving LLM reasoning. Existing methods primarily scale depth by extending a single reasoning trace. Scaling breadth by sampling multiple candidates in parallel is straightforward, but introduces a selection bottleneck: choosing the best candidate wi",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "safari-and-firefox-change-how-big-sites-render-based-on-the-domain",
+      "label": "Safari and Firefox change how big sites render based on the domain",
+      "summary": "Safari 和 Firefox 浏览器正在改变对大网站的渲染方式，其核心是根据域名采取不同的渲染策略。这一变化主要涉及隐私保护、反跟踪和性能优化，可能通过限制第三方脚本、增强隔离性或调整渲染优先级来降低大型网站的数据追踪能力。对 AI 产品经理而言，这影响依赖浏览器行为数据的产品（如推荐系统、用户分析），需要关注数据采集的准确性变化。同时，浏览器厂商的策略差异化可能推动 Web 端的 AI 应用适配新的渲染环境，促使产品设计转向更尊重隐私的前端处理模式。",
+      "pm_score": 0.295,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48136949",
       "date": "2026-05-15"
     },
     {
@@ -280,7 +478,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 497,
-    "edges": 16059
+    "real_nodes": 515,
+    "edges": 16578
   }
 }

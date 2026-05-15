@@ -1,0 +1,32 @@
+{
+  "title": "When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretability",
+  "summary": "Mechanistic interpretability aims to break models into meaningful parts; verifying that two such parts implement the same computation is a prerequisite. Existing similarity measures evaluate either empirical behaviour, leaving them blind to out-of-distribution mechanisms, or basis-dependent parameters, meaning they disregard weight-space symmetries. To address these issues for the class of tensor-based models, we introduce a weight-based metric, tensor similarity, that is invariant to such symmetries. This metric captures global functional equivalence and accounts for cross-layer mechanisms using an efficient recursive algorithm. Empirically, tensor similarity tracks functional training dynamics, such as grokking and backdoor insertion, with higher fidelity than existing metrics. This reduces measuring similarity and verifying faithfulness into a solved algebraic problem rather than one of empirical approximation.",
+  "url": "http://arxiv.org/abs/2605.15183v1",
+  "authors": [
+    "ML Nissen Gonzalez",
+    "Melwina Albuquerque",
+    "Laurence Wroe",
+    "Jacob Meyer Cohen",
+    "Logan Riggs Smith"
+  ],
+  "published": "2026-05-14T17:58:27Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "parameter",
+    "similarity"
+  ],
+  "summary_cn": "本文探讨机械可解释性中的关键问题：如何判断两个神经网络是否实现相同的计算。现有相似性度量要么依赖经验行为（对分布外机制失效），要么依赖基参数（不具不变性）。作者提出基于张量相似度的方法，通过比较网络内部表示的结构等价性，实现跨分布和跨模型的机制对齐。该方法有助于可解释性分析、模型压缩和迁移学习中的等价性验证，提升AI产品的可信度与调试效率。对产品经理而言，这为模型理解与安全部署提供了基础工具。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Mechanistic Interpretability",
+    "Tensor Similarity",
+    "Model Equivalence"
+  ],
+  "entities": [],
+  "patterns": [
+    "Interpretability Pattern",
+    "Model Comparison"
+  ]
+}

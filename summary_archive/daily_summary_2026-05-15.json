@@ -2,105 +2,104 @@
   "daily_summary": {
     "date": "2026-05-15",
     "headline": "今日 AI 情报 · 2026-05-15",
-    "overview": "AI自主性爆发，人机关系进入重塑期，算力与生态竞争白热化。",
+    "overview": "AI自主代理能力爆发，但可靠性、安全与合规风险同步升级。",
     "narratives": [
       {
-        "title": "AI从辅助走向自主操作",
-        "body": "今日多条情报显示，AI系统正从提供建议向独立完成复杂任务跃迁。典型如Richard Socher的自我迭代AI、Synthetic完全自主记账，以及Claude AI恢复11年旧钱包。对PM而言，这意味着产品设计需接受AI作为独立行动者，关注可控性与安全边界，同时开发新的人机协作协议。",
-        "type": "paradigm_shift",
-        "pillar_key": "patterns"
-      },
-      {
-        "title": "人机认知冲突与对齐重塑",
-        "body": "多篇文章指出过度依赖AI导致用户批判性思维下降（“AI is making me dumb”、“AI Zombification”），同时有观点主张“对齐”应是双向动态过程。产品经理需设计增强而非替代人类认知的功能，并探索持续的人机价值观校准机制。",
+        "title": "AI正从工具走向自主代理，但可靠性、安全性和合规风险成为新瓶颈",
+        "body": "今日情报密集指向AI从被动响应向自主行动、自我进化的范式转变：如AI能自我构建系统、恢复11年钱包、实现端到端记账。然而，医疗笔记事实错误、学术僵尸化、行为保证不可验证等信号揭示可靠性、安全性和合规性已取代纯能力提升成为核心瓶颈。产品经理需在自主性与可控性间寻求平衡，优先投入事实校验、形式化验证和生态合作条款设计。",
         "type": "bottleneck",
         "pillar_key": "capabilities"
-      },
-      {
-        "title": "AI商业化进入硬核比拼：算力、资本与生态博弈",
-        "body": "Cerebras IPO暴涨、Cisco裁员转投AI、OpenAI面临政治审查和与苹果的法律纠纷、Wirestock获取数据融资——这些信号表明AI产业正经历资本密集化、算力专用化、生态关系紧张化。PM需关注供应链风险、算力成本变化及平台依赖策略。",
-        "type": "maturation",
-        "pillar_key": "business"
       }
     ],
     "insights": [
       {
-        "pillar": "📱 产品模式",
-        "pillar_key": "patterns",
-        "narrative_title": "AI从辅助走向自主操作",
-        "insight": "AI从辅助走向自主操作。该方向的具体信号：Richard Socher新公司获6.5亿美元融资构建自我改进AI；Khosla Ventures投资1000万美元打造完全自主记账服务Synthetic；Claude AI成功恢复11年比特币钱包，展示长期上下文推理能力，表明AI已能独立完成端到端任务，产品形态从工具向代理进化。",
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI正从工具走向自主代理，但可靠性、安全性和合规风险成为新瓶颈",
+        "insight": "AI正从工具走向自主代理，但可靠性、安全性和合规风险成为新瓶颈。该方向的具体信号：Codex移动化将专业能力下沉到手机，自我构建系统获巨额融资开启无人工干预迭代，Claude恢复BTC钱包展示长期记忆与密码推理的商业价值，EntityBench和ATLAS分别推动视频生成一致性和视觉推理效率，但医疗系统与学术领域已暴露出可靠性危机。",
         "evidence": [
           {
-            "id": "what-happens-when-ai-starts-building-itself",
-            "title": "AI自我构建：Socher获6.5亿美元融资",
-            "score": 0.55
-          },
-          {
-            "id": "khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded",
-            "title": "Khosla Ventures 1000万美元押注自主记账AI",
-            "score": 0.48
+            "id": "codex-is-now-in-the-chatgpt-mobile-app",
+            "title": "Codex is now in the ChatGPT mobile app",
+            "score": 0.64
           },
           {
             "id": "claude-ai-recovers-an-11-yrs-old-btc-wallet-holding-400k-usd",
-            "title": "Claude AI恢复11年比特币钱包",
+            "title": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
+            "score": 0.48
+          },
+          {
+            "id": "entitybench-towards-entity-consistent-long-range-multi-shot-video-generation",
+            "title": "EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Gen",
             "score": 0.48
           }
         ]
       },
       {
-        "pillar": "🤖 技术能力",
-        "pillar_key": "capabilities",
-        "narrative_title": "人机认知冲突与对齐重塑",
-        "insight": "人机认知冲突与对齐重塑。该方向的具体信号：用户反映AI导致自身思维退化，大学教育出现“AI僵尸化”现象；同时有观点提出人应与AI动态对齐而非强制对齐。这表明AI能力过剩正反噬人类主动性，PM需设计预防依赖的机制，并采用迭代式对齐协议。",
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI正从工具走向自主代理，但可靠性、安全性和合规风险成为新瓶颈",
+        "insight": "AI正从工具走向自主代理，但可靠性、安全性和合规风险成为新瓶颈。该方向的具体信号：Synthetic获1000万美元融资打造完全自主的AI记账服务，标志着端到端自主代理产品从代码辅助延伸到财务核心业务，但此类“黑箱”代理对初创企业的信任度与错误容忍度形成严峻考验。",
         "evidence": [
           {
-            "id": "ai-is-making-me-dumb",
-            "title": "AI is making me dumb",
-            "score": 0.63
+            "id": "khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded",
+            "title": "Khosla Ventures is betting $10M on Ian Crosby, whose last startup, Ben",
+            "score": 0.48
+          }
+        ]
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "AI正从工具走向自主代理，但可靠性、安全性和合规风险成为新瓶颈",
+        "insight": "AI正从工具走向自主代理，但可靠性、安全性和合规风险成为新瓶颈。该方向的具体信号：OpenAI与苹果集成未达预期拟诉诸法律，凸显生态合作中指标不明确与利益分配风险；行为保证论文指出当前AI治理依赖的行为测试无法验证安全性，必须引入架构保证；Clawdmeter开源仪表盘则反映出开发者对使用透明度的主动需求。",
+        "evidence": [
+          {
+            "id": "openai-is-reportedly-preparing-legal-action-against-apple-it-wouldn8217t-be-the",
+            "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn&#",
+            "score": 0.48
+          },
+          {
+            "id": "clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard",
+            "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dash",
+            "score": 0.45
           }
         ]
       },
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "narrative_title": "AI商业化进入硬核比拼：算力、资本与生态博弈",
-        "insight": "AI商业化进入硬核比拼：算力、资本与生态博弈。该方向的具体信号：Cerebras IPO暴涨108%显示专用算力需求旺盛；思科裁员4000人重投AI；OpenAI因与苹果集成效果不佳考虑法律行动；SpaceXAI人才流失；Wirestock融资2,300万美元构建AI数据供应链。商业模式从单点技术转向生态整合与资本密集型竞争。",
+        "narrative_title": "AI正从工具走向自主代理，但可靠性、安全性和合规风险成为新瓶颈",
+        "insight": "AI正从工具走向自主代理，但可靠性、安全性和合规风险成为新瓶颈。该方向的具体信号：OpenAI CEO在IPO前遭共和党审查，增加上市不确定性；Elon Musk诉Sam Altman案将决定AI治理模式与开源封闭路线之争的走向，直接影响商业化合法性及资本信心。",
         "evidence": [
           {
-            "id": "cerebras-raises-55b-then-stock-pops-108-in-the-first-huge-tech-ipo-of-2026",
-            "title": "Cerebras IPO暴涨108%",
-            "score": 0.45
+            "id": "sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo",
+            "title": "Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IP",
+            "score": 0.49
           },
           {
-            "id": "cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-8216record-quarterly-rev",
-            "title": "思科裁员4000人转向AI",
-            "score": 0.45
-          },
-          {
-            "id": "openai-is-reportedly-preparing-legal-action-against-apple-it-wouldn8217t-be-the",
-            "title": "OpenAI拟起诉苹果集成未达预期",
+            "id": "what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman",
+            "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Al",
             "score": 0.48
-          },
-          {
-            "id": "wirestock-raises-23m-to-supply-creative-multi-modal-data-to-ai-labs",
-            "title": "Wirestock融资2300万做AI数据供应",
-            "score": 0.48
-          },
-          {
-            "id": "elon-musk8217s-spacexai-has-been-bleeding-staff-since-its-merger",
-            "title": "SpaceXAI人才持续流失",
-            "score": 0.41
           }
         ]
       }
     ],
-    "stats": "技术能力: 12 | 产品模式: 1 | 工具生态: 2 | 商业趋势: 5",
+    "stats": "技术能力: 14 | 产品模式: 1 | 工具生态: 3 | 商业趋势: 2",
     "total_items": 20,
-    "high_value_count": 16,
+    "high_value_count": 20,
     "all_today_ids": [
+      {
+        "id": "codex-is-now-in-the-chatgpt-mobile-app",
+        "label": "Codex is now in the ChatGPT mobile app"
+      },
       {
         "id": "ai-is-making-me-dumb",
         "label": "AI is making me dumb"
+      },
+      {
+        "id": "ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts",
+        "label": "Ontario auditors find doctors' AI note takers routinely blow basic facts"
       },
       {
         "id": "rtx-5090-and-m4-macbook-air-can-it-game",
@@ -123,6 +122,10 @@
         "label": "Wirestock raises $23M to supply creative multi-modal data to AI labs"
       },
       {
+        "id": "what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman",
+        "label": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman"
+      },
+      {
         "id": "claude-ai-recovers-an-11-yrs-old-btc-wallet-holding-400k-usd",
         "label": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD"
       },
@@ -135,6 +138,34 @@
         "label": "OpenAI is reportedly preparing legal action against Apple; it wouldn&#8217;t be"
       },
       {
+        "id": "text-knows-what-tables-know-when-clinical-timeline-reconstruction-via-retrieval",
+        "label": "Text Knows What, Tables Know When: Clinical Timeline Reconstruction via Retrieva"
+      },
+      {
+        "id": "entitybench-towards-entity-consistent-long-range-multi-shot-video-generation",
+        "label": "EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation"
+      },
+      {
+        "id": "position-behavioural-assurance-cannot-verify-the-safety-claims-governance-now-de",
+        "label": "Position: Behavioural Assurance Cannot Verify the Safety Claims Governance Now D"
+      },
+      {
+        "id": "evidential-reasoning-advances-interpretable-real-world-disease-screening",
+        "label": "Evidential Reasoning Advances Interpretable Real-World Disease Screening"
+      },
+      {
+        "id": "atlas-agentic-or-latent-visual-reasoning-one-word-is-enough-for-both",
+        "label": "ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both"
+      },
+      {
+        "id": "futuresim-replaying-world-events-to-evaluate-adaptive-agents",
+        "label": "FutureSim: Replaying World Events to Evaluate Adaptive Agents"
+      },
+      {
+        "id": "refdecoder-enhancing-visual-generation-with-conditional-video-decoding",
+        "label": "RefDecoder: Enhancing Visual Generation with Conditional Video Decoding"
+      },
+      {
         "id": "clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard",
         "label": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard"
       },
@@ -143,8 +174,28 @@
         "label": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports &#8216;record quarterl"
       },
       {
+        "id": "have-a-coherent-ai-policy",
+        "label": "Have a Coherent AI Policy"
+      },
+      {
         "id": "cerebras-raises-55b-then-stock-pops-108-in-the-first-huge-tech-ipo-of-2026",
         "label": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026"
+      },
+      {
+        "id": "when-are-two-networks-the-same-tensor-similarity-for-mechanistic-interpretabilit",
+        "label": "When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretabili"
+      },
+      {
+        "id": "eradicating-negative-transfer-in-multi-physics-foundation-models-via-sparse-mixt",
+        "label": "Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixt"
+      },
+      {
+        "id": "vggt-edit-feed-forward-native-3d-scene-editing-with-residual-field-prediction",
+        "label": "VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction"
+      },
+      {
+        "id": "quantitative-video-world-model-evaluation-for-geometric-consistency",
+        "label": "Quantitative Video World Model Evaluation for Geometric-Consistency"
       },
       {
         "id": "you-dont-align-an-ai-you-align-with-it",
@@ -155,12 +206,24 @@
         "label": "Elon Musk&#8217;s SpaceXAI has been bleeding staff since its merger"
       },
       {
+        "id": "mindsdbminds-platform",
+        "label": "mindsdb/minds-platform"
+      },
+      {
         "id": "usda-projects-smallest-us-wheat-harvest-since-1972-due-to-plains-drought",
         "label": "USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought"
       },
       {
         "id": "two-weeks-left-startup-battlefield-200-applications-close-may-27",
         "label": "Two weeks left: Startup Battlefield 200 applications close May 27"
+      },
+      {
+        "id": "opendeepthink-parallel-reasoning-via-bradley-terry-aggregation",
+        "label": "OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation"
+      },
+      {
+        "id": "safari-and-firefox-change-how-big-sites-render-based-on-the-domain",
+        "label": "Safari and Firefox change how big sites render based on the domain"
       },
       {
         "id": "design-extract",
@@ -200,6 +263,6 @@
       }
     ],
     "date_bj": "2026-05-15 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-15 06:03:27"
+    "generated_at_bj": "2026-05-15 12:02:33"
   }
 }

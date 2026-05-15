@@ -1,0 +1,24 @@
+{
+  "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+  "score": 156,
+  "comments": 70,
+  "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+  "hn_url": "https://news.ycombinator.com/item?id=48142188",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "安大略省审计员发现，医生使用的AI笔记助手频繁出现基本事实错误，如误诊记录、错误剂具等，严重影响医疗安全。该问题揭示当前AI在专业场景中可靠性不足，尤其在高容错率的医疗领域，产品设计需强化事实核查与领域特定校准。商业上，此类AI工具若不能保证准确性，将面临法律与信任危机，提示产品经理应优先投入医疗合规验证与实时纠错机制。",
+  "pm_relevance": 9,
+  "concepts": [
+    "AI可靠性",
+    "医疗AI",
+    "事实性错误"
+  ],
+  "entities": [
+    "Ontario Auditors"
+  ],
+  "patterns": [
+    "AI Assisted Note Taking",
+    "Healthcare AI"
+  ]
+}

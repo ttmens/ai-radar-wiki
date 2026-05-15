@@ -1,0 +1,34 @@
+{
+  "title": "RefDecoder: Enhancing Visual Generation with Conditional Video Decoding",
+  "summary": "Video generation powers a vast array of downstream applications. However, while the de facto standard, i.e., latent diffusion models, typically employ heavily conditioned denoising networks, their decoders often remain unconditional. We observe that this architectural asymmetry leads to significant loss of detail and inconsistency relative to the input image. To address this, we argue that the decoder requires equal conditioning to preserve structural integrity. We introduce RefDecoder, a reference-conditioned video VAE decoder by injecting high-fidelity reference image signal directly into the decoding process via reference attention. Specifically, a lightweight image encoder maps the reference frame into the detail-rich high-dimensional tokens, which are co-processed with the denoised video latent tokens at each decoder up-sampling stage. We demonstrate consistent improvements across several distinct decoder backbones (e.g., Wan 2.1 and VideoVAE+), achieving up to +2.1dB PSNR over the unconditional baselines on the Inter4K, WebVid, and Large Motion reconstruction benchmarks. Notably, RefDecoder can be directly swapped into existing video generation systems without additional fine-tuning, and we report across-the-board improvements in subject consistency, background consistency, and overall quality scores on the VBench I2V benchmark. Beyond I2V, RefDecoder generalizes well to a wide range of visual generation tasks such as style transfer and video editing refinement.",
+  "url": "http://arxiv.org/abs/2605.15196v1",
+  "authors": [
+    "Xiang Fan",
+    "Yuheng Wang",
+    "Bohan Fang",
+    "Zhongzheng Ren",
+    "Ranjay Krishna"
+  ],
+  "published": "2026-05-14T17:59:52Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "benchmark",
+    "video generation",
+    "fine-tuning",
+    "attention",
+    "diffusion model"
+  ],
+  "summary_cn": "RefDecoder 提出一种条件视频解码方法，解决潜在扩散模型中解码器无条件导致的生成质量不对称问题。传统解码器不利用条件信息，限制了生成一致性。RefDecoder 通过引入条件机制，显著提升视频生成质量，尤其在下游应用如视频编辑、合成中实现更逼真、连贯的输出。该技术创新降低了生成伪影，优化了模型架构效率，对视频生成产品的实用化和商业化有重要价值。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Conditional Decoding",
+    "Video Generation",
+    "Latent Diffusion Models"
+  ],
+  "entities": [],
+  "patterns": [
+    "Conditional Generation Pattern"
+  ]
+}

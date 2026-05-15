@@ -1,0 +1,30 @@
+{
+  "title": "Evidential Reasoning Advances Interpretable Real-World Disease Screening",
+  "summary": "Disease screening is critical for early detection and timely intervention in clinical practice. However, most current screening models for medical images suffer from limited interpretability and suboptimal performance. They often lack effective mechanisms to reference historical cases or provide transparent reasoning pathways. To address these challenges, we introduce EviScreen, an evidential reasoning framework for disease screening that leverages region-level evidence from historical cases. The proposed EviScreen offers retrospection interpretability through regional evidence retrieved from dual knowledge banks. Using this evidential mechanism, the subsequent evidence-aware reasoning module makes predictions using both the current case and evidence from historical cases, thereby enhancing disease screening performance. Furthermore, rather than relying on post-hoc saliency maps, EviScreen enhances localization interpretability by leveraging abnormality maps derived from contrastive retrieval. Our method achieves superior performance on our carefully established benchmarks for real-world disease screening, yielding notably higher specificity at clinical-level recall. Code is publicly available at https://github.com/DopamineLcy/EviScreen.",
+  "url": "http://arxiv.org/abs/2605.15171v1",
+  "authors": [
+    "Chenyu Lian",
+    "Hong-Yu Zhou",
+    "Jing Qin"
+  ],
+  "published": "2026-05-14T17:56:07Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "reasoning",
+    "recall",
+    "retrieval"
+  ],
+  "summary_cn": "本文提出基于证据推理的医学图像筛查方法，通过引用历史病例作为可解释依据，解决了现有模型可解释性差、性能欠佳的问题。该方法在临床早期检测中具备高准确性和透明度，能够帮助医生理解模型决策依据，降低误诊风险。商业价值上，可显著提升疾病筛查系统的临床采纳率，并推动AI辅助诊断的产品化落地。产品创新在于将历史病例作为推理证据，增强了模型的可信度与实用性。",
+  "pm_relevance": 8,
+  "concepts": [
+    "证据推理",
+    "可解释AI",
+    "疾病筛查"
+  ],
+  "entities": [],
+  "patterns": [
+    "Evidence-Based AI"
+  ]
+}

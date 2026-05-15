@@ -524,3 +524,23 @@
 - create: openai-is-reportedly-preparing-legal-action-against-apple-it-wouldn8217t-be-the.md
 - create: clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard.md
 - create: cerebras-raises-55b-then-stock-pops-108-in-the-first-huge-tech-ipo-of-2026.md
+
+## [2026-05-15 12:04] sync v3 | 18 new | pillars: {'patterns': 1, 'capabilities': 14, 'ecosystem': 3}
+- create: mindsdbminds-platform.md
+- create: entitybench-towards-entity-consistent-long-range-multi-shot-video-generation.md
+- create: atlas-agentic-or-latent-visual-reasoning-one-word-is-enough-for-both.md
+- create: refdecoder-enhancing-visual-generation-with-conditional-video-decoding.md
+- create: futuresim-replaying-world-events-to-evaluate-adaptive-agents.md
+- create: vggt-edit-feed-forward-native-3d-scene-editing-with-residual-field-prediction.md
+- create: quantitative-video-world-model-evaluation-for-geometric-consistency.md
+- create: when-are-two-networks-the-same-tensor-similarity-for-mechanistic-interpretabilit.md
+- create: eradicating-negative-transfer-in-multi-physics-foundation-models-via-sparse-mixt.md
+- create: opendeepthink-parallel-reasoning-via-bradley-terry-aggregation.md
+- create: evidential-reasoning-advances-interpretable-real-world-disease-screening.md
+- create: text-knows-what-tables-know-when-clinical-timeline-reconstruction-via-retrieval.md
+- create: position-behavioural-assurance-cannot-verify-the-safety-claims-governance-now-de.md
+- create: codex-is-now-in-the-chatgpt-mobile-app.md
+- create: ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts.md
+- create: have-a-coherent-ai-policy.md
+- create: safari-and-firefox-change-how-big-sites-render-based-on-the-domain.md
+- create: what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman.md
