@@ -364,7 +364,7 @@
 <body>
 
 <header class="site-header">
-  <a href="./graph.html" class="header-brand" id="headerBrand">
+  <a href="./graph.html" class="header-brand" id="headerBrand" onclick="handleBrandClick(event)">
     <svg viewBox="0 0 28 28" fill="none">
       <circle cx="14" cy="14" r="13" stroke="#ff385c" stroke-width="2"/>
       <circle cx="14" cy="14" r="5" fill="#ff385c"/>
@@ -521,13 +521,18 @@ function escapeHtml(text) {
 // Init
 renderArticleList();
 
-// Mobile: header brand click → back to list when viewing article
-document.getElementById('headerBrand').addEventListener('click', function(e) {
-  if (window.innerWidth <= 900 && document.getElementById('app').classList.contains('show-article')) {
+function handleBrandClick(e) {
+  // Mobile: never navigate away — back to list or do nothing
+  if (window.innerWidth <= 900) {
     e.preventDefault();
-    goBack();
+    const app = document.getElementById('app');
+    if (app.classList.contains('show-article')) {
+      goBack();
+    }
+    return;
   }
-});
+  // Desktop: default link behavior → go to graph.html
+}
 </script>
 </body>
 </html>
