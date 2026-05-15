@@ -579,3 +579,13 @@
 ## [2026-05-16 00:01] sync v3 | 2 new | pillars: {'capabilities': 2}
 - create: a-0-click-exploit-chain-for-the-pixel-10.md
 - create: amazon-workers-under-pressure-to-up-their-ai-usage-are-making-up-tasks.md
+
+## [2026-05-16 06:06] sync v3 | 8 new | pillars: {'ecosystem': 2, 'capabilities': 5, 'business': 1}
+- create: upscaylupscayl.md
+- create: mitchellh-i-strongly-believe-there-are-entire-companies-now-under-ai-psychosis.md
+- create: show-hn-watch-a-neural-net-learn-to-play-snake.md
+- create: bun-rust-rewrite-codebase-fails-basic-miri-checks-allows-for-ub-in-safe-rust.md
+- create: the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning.md
+- create: silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-p.md
+- create: openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts.md
+- create: show-hn-sx-an-open-source-package-manager-for-ai-skills-mcps-and-commands.md
