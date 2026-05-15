@@ -568,3 +568,6 @@
 ## [2026-05-15 21:25] sync v3 | 2 new | pillars: {'capabilities': 1, 'patterns': 1}
 - create: too-dangerous-or-just-too-expensive-the-real-reason-anthropic-is-hiding-mythos.md
 - create: osaurus-brings-both-local-and-cloud-ai-models-to-your-mac.md
+
+## [2026-05-15 21:44] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: cursing-the-government-does-not-fix-potholes-spray-painting-them-does.md

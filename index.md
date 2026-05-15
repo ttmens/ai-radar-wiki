@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-15 | Total pages: 494
+> Last updated: 2026-05-15 | Total pages: 486
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -199,6 +199,7 @@
 - [[continuedevcontinue.md]] continuedev/continue `pillar:patterns` `score:0.58`
 - [[copilotkitcopilotkit.md]] CopilotKit/CopilotKit `pillar:patterns` `score:0.615`
 - [[crewaiinccrewai.md]] crewAIInc/crewAI `pillar:patterns` `score:0.615`
+- [[cursing-the-government-does-not-fix-potholes-spray-painting-them-does.md]] Cursing the government does not fix potholes. Spray-painting them does `pillar:patterns` `score:0.31`
 - [[datawhalechinahappy-llm.md]] datawhalechina/happy-llm `pillar:patterns` `score:0.58`
 - [[datawhalechinahello-agents.md]] datawhalechina/hello-agents `pillar:patterns` `score:0.405`
 - [[daytonaiodaytona.md]] daytonaio/daytona `pillar:patterns` `score:0.58`
@@ -498,14 +499,5 @@
 ## 📚 Concepts (未分类)
 - [[a-theory-of-deep-learning.md]] A Theory of Deep Learning `pillar:unknown` `score:0.35`
 - [[apple-is-enforcing-an-old-app-store-rule-against-a.md]] Apple is enforcing an old App Store rule against a new kind of software `pillar:unknown` `score:0.3`
-- [[bytedance-ui-tars-desktop.md]] Bytedance Ui Tars Desktop `pillar:unknown` `score:0`
-- [[design-extract.md]] Design Extract `pillar:unknown` `score:0`
-- [[golutra-golutra.md]] Golutra Golutra `pillar:unknown` `score:0`
-- [[insforge-insforge.md]] Insforge Insforge `pillar:unknown` `score:0`
 - [[learning-the-integral-of-a-diffusion-model.md]] Learning the Integral of a Diffusion Model `pillar:unknown` `score:0.3`
-- [[mcp-use-mcp-use.md]] Mcp Use Mcp Use `pillar:unknown` `score:0`
-- [[obra-superpowers.md]] Obra Superpowers `pillar:unknown` `score:0`
-- [[onlook-dev-onlook.md]] Onlook Dev Onlook `pillar:unknown` `score:0`
-- [[openai-symphony.md]] Openai Symphony `pillar:unknown` `score:0`
-- [[ruvnet-ruflo.md]] Ruvnet Ruflo `pillar:unknown` `score:0`
 - [[show-hn-i-built-an-open-source-email-builder-alt.md]] Show HN: I built an open-source email builder, alternative to Beefree/Unlayer `pillar:unknown` `score:0.35`
