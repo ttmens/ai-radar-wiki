@@ -3,9 +3,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<meta name="theme-color" content="#ff385c">
+<meta name="theme-color" content="#08090a">
 <title>AI Radar · 每日深度</title>
 <link rel="icon" href="./assets/nexsight-mark.svg" type="image/svg+xml">
+<link rel="stylesheet" href="./assets/site-chrome.css">
 <style>
   :root {
     --bg: #08090a;
@@ -17,6 +18,7 @@
     --ink-soft: #a0a0a0;
     --ink-muted: #6a6a6a;
     --accent: #ff385c;
+    --accent-active: #e00b41;
     --accent-soft: rgba(255,56,92,0.1);
     --radius: 12px;
     --radius-sm: 8px;
@@ -33,47 +35,45 @@
     height: 100vh;
   }
 
-  /* ===== Header ===== */
-  .header {
+  /* ===== Header (same style as graph.html) ===== */
+  .site-header {
     position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
+    top: 0; left: 0; right: 0;
     height: 56px;
-    background: var(--surface);
+    background: rgba(15,16,17,0.92);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
     border-bottom: 1px solid var(--border);
     display: flex;
     align-items: center;
-    padding: 0 20px;
+    padding: 0 16px;
     z-index: 100;
-    backdrop-filter: blur(12px);
   }
 
-  .header-logo {
+  .header-brand {
     display: flex;
     align-items: center;
-    gap: 12px;
+    gap: 10px;
+    text-decoration: none;
+    color: var(--ink);
   }
 
-  .header-logo svg {
-    width: 28px;
-    height: 28px;
-  }
+  .header-brand svg { width: 28px; height: 28px; }
 
-  .header-logo h1 {
-    font-size: 16px;
+  .header-brand h1 {
+    font-size: 15px;
     font-weight: 600;
     letter-spacing: -0.02em;
   }
 
-  .header-logo h1 span {
+  .header-brand h1 span {
     color: var(--ink-muted);
     font-weight: 400;
-    margin-left: 8px;
-    font-size: 13px;
+    margin-left: 6px;
+    font-size: 12px;
   }
 
-  .header-stats {
+  .header-right {
     margin-left: auto;
     font-size: 12px;
     color: var(--ink-muted);
@@ -93,12 +93,13 @@
     background: var(--surface);
     border-right: 1px solid var(--border);
     overflow-y: auto;
-    padding: 16px;
+    padding: 12px;
+    -webkit-overflow-scrolling: touch;
     scrollbar-width: thin;
     scrollbar-color: var(--border-strong) transparent;
   }
 
-  .sidebar::-webkit-scrollbar { width: 6px; }
+  .sidebar::-webkit-scrollbar { width: 5px; }
   .sidebar::-webkit-scrollbar-track { background: transparent; }
   .sidebar::-webkit-scrollbar-thumb { background: var(--border-strong); border-radius: 3px; }
 
@@ -107,9 +108,7 @@
     text-transform: uppercase;
     letter-spacing: 0.08em;
     color: var(--ink-muted);
-    padding: 8px 4px 12px;
-    border-bottom: 1px solid var(--border);
-    margin-bottom: 8px;
+    padding: 6px 4px 10px;
   }
 
   /* ===== Article Card ===== */
@@ -124,9 +123,9 @@
     -webkit-tap-highlight-color: rgba(255,56,92,0.15);
   }
 
-  .article-card:hover {
-    background: var(--surface-soft);
-    border-color: var(--border);
+  .article-card:active {
+    background: var(--accent-soft);
+    transform: scale(0.98);
   }
 
   .article-card.active {
@@ -152,10 +151,6 @@
     font-weight: 600;
   }
 
-  .article-card.active .badge {
-    background: var(--accent);
-  }
-
   .article-title {
     font-size: 14px;
     font-weight: 600;
@@ -178,14 +173,6 @@
     overflow: hidden;
   }
 
-  .article-meta {
-    margin-top: 8px;
-    display: flex;
-    gap: 12px;
-    font-size: 11px;
-    color: var(--ink-muted);
-  }
-
   /* ===== Preview Pane ===== */
   .preview {
     flex: 1;
@@ -206,139 +193,22 @@
   }
 
   .preview-empty svg {
-    width: 64px;
-    height: 64px;
-    margin-bottom: 16px;
-    opacity: 0.3;
+    width: 56px;
+    height: 56px;
+    margin-bottom: 14px;
+    opacity: 0.25;
   }
 
   .preview-empty h3 {
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 500;
-    margin-bottom: 8px;
+    margin-bottom: 6px;
     color: var(--ink-soft);
   }
 
   .preview-empty p {
-    font-size: 13px;
-    max-width: 280px;
-  }
-
-  .preview iframe {
-    width: 100%;
-    height: 100%;
-    border: none;
-  }
-
-  /* ===== Mobile Toggle ===== */
-  .mobile-toggle {
-    display: none;
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    width: 48px;
-    height: 48px;
-    border-radius: 50%;
-    background: var(--accent);
-    color: #fff;
-    border: none;
-    cursor: pointer;
-    z-index: 200;
-    box-shadow: 0 4px 14px rgba(255,56,92,0.4);
-    font-size: 18px;
-  }
-
-  /* ===== Mobile Responsive ===== */
-  @media (max-width: 768px) {
-    .app { flex-direction: column; }
-
-    .sidebar {
-      width: 100%;
-      min-width: 100%;
-      height: calc(100vh - 56px);
-      transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
-    }
-
-    .preview {
-      position: fixed;
-      top: 56px;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      transform: translateX(100%);
-      transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
-      z-index: 50;
-      background: var(--bg);
-    }
-
-    /* Default: show list */
-    #app.show-list .sidebar { transform: translateX(0); }
-    #app.show-list .preview { transform: translateX(100%); }
-
-    /* Preview mode: hide list, show preview */
-    #app.show-preview .sidebar { transform: translateX(-30%); }
-    #app.show-preview .preview { transform: translateX(0); }
-
-    .mobile-toggle { display: none; }
-
-    .header-stats { display: none; }
-    .header-logo h1 span { display: none; }
-
-    /* ===== Mobile Back Button - FULL WIDTH bar below header ===== */
-    .mobile-back-bar {
-      display: none;
-    }
-
-    #app.show-preview .mobile-back-bar {
-      display: flex;
-      position: fixed;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      height: 64px;
-      background: var(--surface);
-      border-top: 1px solid var(--border);
-      z-index: 200;
-      align-items: center;
-      justify-content: center;
-      gap: 8px;
-    }
-
-    .mobile-back-bar button {
-      width: 100%;
-      height: 48px;
-      background: var(--accent);
-      color: #fff;
-      border: none;
-      border-radius: 24px;
-      font-size: 16px;
-      font-weight: 600;
-      cursor: pointer;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 8px;
-      margin: 0 16px;
-      -webkit-tap-highlight-color: transparent;
-      touch-action: manipulation;
-    }
-
-    .mobile-back-bar button:active {
-      background: var(--rausch-active);
-      transform: scale(0.98);
-    }
-
-    /* Article card - larger tap target */
-    .article-card {
-      padding: 16px 14px;
-      -webkit-tap-highlight-color: rgba(255,56,92,0.15);
-      touch-action: manipulation;
-    }
-
-    /* Preview content padding for back bar */
-    .article-scroll-container {
-      padding-bottom: 80px !important;
-    }
+    font-size: 12px;
+    max-width: 260px;
   }
 
   /* ===== Loading ===== */
@@ -350,12 +220,12 @@
   }
 
   .loading-spinner {
-    width: 32px;
-    height: 32px;
-    border: 3px solid var(--border);
+    width: 28px;
+    height: 28px;
+    border: 2.5px solid var(--border);
     border-top-color: var(--accent);
     border-radius: 50%;
-    animation: spin 0.8s linear infinite;
+    animation: spin 0.7s linear infinite;
   }
 
   @keyframes spin { to { transform: rotate(360deg); } }
@@ -366,21 +236,120 @@
     padding: 40px 20px;
     color: var(--ink-muted);
   }
-
   .empty-state p { font-size: 13px; }
+
+  /* ===== Mobile Tab Bar (reuse site-chrome.css pattern) ===== */
+  .article-tab-bar {
+    display: none;
+  }
+
+  /* ===== Mobile Responsive ===== */
+  @media (max-width: 900px) {
+    .app { flex-direction: column; }
+
+    .sidebar {
+      width: 100%;
+      min-width: 100%;
+      border-right: none;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0;
+    }
+
+    .preview {
+      position: fixed;
+      top: 56px;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 90;
+      background: var(--bg);
+      transform: translateX(100%);
+      transition: transform 0.3s ease;
+    }
+
+    /* When viewing article: slide in */
+    .app.show-article .preview {
+      transform: translateX(0);
+    }
+
+    /* Hide site header stats on mobile */
+    .header-right { display: none; }
+    .header-brand h1 span { display: none; }
+
+    /* Bottom tab bar for mobile */
+    .article-tab-bar {
+      display: flex;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: calc(52px + max(12px, env(safe-area-inset-bottom)));
+      padding: 0 max(16px, env(safe-area-inset-left)) max(8px, env(safe-area-inset-bottom));
+      background: rgba(255,255,255,0.96);
+      backdrop-filter: blur(16px) saturate(1.1);
+      -webkit-backdrop-filter: blur(16px) saturate(1.1);
+      border-top: 1px solid var(--border);
+      box-shadow: 0 -1px 8px rgba(0,0,0,0.06);
+      z-index: 101;
+      align-items: stretch;
+      justify-content: stretch;
+    }
+
+    .article-tab-btn {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 3px;
+      padding: 8px 4px;
+      min-height: 52px;
+      border: none;
+      background: none;
+      font-family: inherit;
+      font-size: 10px;
+      font-weight: 600;
+      color: var(--ink-muted);
+      text-decoration: none;
+      text-align: center;
+      cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
+      touch-action: manipulation;
+      transition: color 0.15s;
+    }
+
+    .article-tab-btn svg {
+      width: 22px;
+      height: 22px;
+      flex-shrink: 0;
+    }
+
+    .article-tab-btn.active {
+      color: var(--accent);
+    }
+
+    .article-tab-btn:active {
+      opacity: 0.7;
+    }
+
+    /* Back button in tab bar when viewing article */
+    .article-tab-bar .back-tab { display: none; }
+    .app.show-article .article-tab-bar .back-tab { display: flex; }
+    .app.show-article .article-tab-bar .list-tab { display: none; }
+  }
 </style>
 </head>
 <body>
 
-<header class="header">
-  <div class="header-logo">
+<header class="site-header">
+  <a href="./graph.html" class="header-brand">
     <svg viewBox="0 0 28 28" fill="none">
       <circle cx="14" cy="14" r="13" stroke="#ff385c" stroke-width="2"/>
       <circle cx="14" cy="14" r="5" fill="#ff385c"/>
     </svg>
     <h1>AI Radar<span>每日深度</span></h1>
-  </div>
-  <div class="header-stats" id="headerStats"></div>
+  </a>
+  <div class="header-right" id="headerStats"></div>
 </header>
 
 <div class="app" id="app">
@@ -398,33 +367,43 @@
         <line x1="16" y1="40" x2="36" y2="40"/>
       </svg>
       <h3>选择一篇文章</h3>
-      <p>点击左侧列表查看文章详情</p>
+      <p>点击列表查看文章详情</p>
     </div>
   </div>
 </div>
 
-<div class="mobile-back-bar">
-  <button onclick="goBack()">
-    <svg width="18" height="18" viewBox="0 0 20 20" fill="currentColor">
-      <path d="M12.707 15.707a1 1 0 01-1.414 0L5.586 10l5.707-5.707a1 1 0 111.414 1.414L8.414 10l4.293 4.293a1 1 0 010 1.414z"/>
+<!-- Mobile Tab Bar -->
+<nav class="article-tab-bar">
+  <button class="article-tab-btn list-tab" onclick="goBackTo()">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/>
     </svg>
-    返回列表
+    <span>归档</span>
   </button>
-</div>
-
-<button class="mobile-toggle" id="mobileToggle" onclick="toggleMobileView()">
-  <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
-    <path d="M3 4h14a1 1 0 011 1v1H1V5a1 1 0 011-1zm-2 6h18v5a1 1 0 01-1 1H2a1 1 0 01-1-1v-5zm3 1v3h4v-3H4z"/>
-  </svg>
-</button>
+  <button class="article-tab-btn back-tab" onclick="goBack()">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/>
+    </svg>
+    <span>返回</span>
+  </button>
+  <a href="./graph.html" class="article-tab-btn">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/>
+    </svg>
+    <span>探索</span>
+  </a>
+  <a href="./index.html" class="article-tab-btn">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/>
+    </svg>
+    <span>简报</span>
+  </a>
+</nav>
 
 <script>
 // {{ARTICLES_DATA}}
 
 let currentArticle = null;
-let isMobilePreview = false;
-
-function isMobile() { return window.innerWidth <= 768; }
 
 function renderArticleList() {
   const list = document.getElementById('articleList');
@@ -432,11 +411,11 @@ function renderArticleList() {
 
   if (!ARTICLES || ARTICLES.length === 0) {
     list.innerHTML = '<div class="empty-state"><p>暂无文章，明天 19:00 后将自动生成</p></div>';
-    stats.textContent = '';
+    if (stats) stats.textContent = '';
     return;
   }
 
-  stats.textContent = ARTICLES.length + ' 篇文章';
+  if (stats) stats.textContent = ARTICLES.length + ' 篇文章';
 
   let html = '';
   ARTICLES.forEach(function(article, idx) {
@@ -447,9 +426,7 @@ function renderArticleList() {
     html += article.date + '</div>';
     html += '<div class="article-title">' + escapeHtml(article.title) + '</div>';
     html += '<div class="article-overview">' + escapeHtml(article.overview || '') + '</div>';
-    html += '<div class="article-meta">';
-    html += '<span>' + (article.size || '?') + '</span>';
-    html += '</div></div>';
+    html += '</div>';
   });
 
   list.innerHTML = html;
@@ -469,35 +446,33 @@ function openArticle(idx) {
   // Show loading
   preview.innerHTML = '<div class="loading"><div class="loading-spinner"></div></div>';
 
-  // Decode embedded article content (UTF-8 safe base64 decode)
+  // Decode and render article
   try {
-    // Decode base64 to bytes, then decode as UTF-8
     const binary = atob(article.content);
     const bytes = new Uint8Array(binary.length);
-    for (let i = 0; i < binary.length; i++) {
-      bytes[i] = binary.charCodeAt(i);
-    }
+    for (let i = 0; i < binary.length; i++) bytes[i] = binary.charCodeAt(i);
     const html = new TextDecoder('utf-8').decode(bytes);
 
     const container = document.createElement('div');
     container.className = 'article-viewer';
     container.innerHTML = html;
-    container.style.cssText = 'width:100%;height:100%;overflow-y:auto;padding:40px 60px;background:#ffffff;color:#333;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;line-height:1.8;font-size:16px;max-width:800px;margin:0 auto;box-sizing:border-box;';
+    container.style.cssText = 'width:100%;max-width:720px;margin:0 auto;padding:32px 24px;background:#fff;color:#333;font-size:16px;line-height:1.8;';
 
-    // Style the article content
+    // Style overrides for article content
     const style = document.createElement('style');
     style.textContent = `
-      .article-viewer h1 { font-size: 24px !important; font-weight: bold !important; color: #000 !important; margin-bottom: 10px !important; }
-      .article-viewer h2 { font-size: 20px !important; font-weight: bold !important; color: #000 !important; margin-top: 30px !important; margin-bottom: 10px !important; }
-      .article-viewer h3 { font-size: 18px !important; font-weight: bold !important; color: #000 !important; margin-top: 20px !important; margin-bottom: 8px !important; }
-      .article-viewer p { margin-bottom: 16px !important; }
+      .article-viewer { min-height: 100%; }
+      .article-viewer h1 { font-size: 22px !important; font-weight: 700 !important; color: #000 !important; margin-bottom: 8px !important; }
+      .article-viewer h2 { font-size: 18px !important; font-weight: 600 !important; color: #000 !important; margin-top: 28px !important; margin-bottom: 8px !important; }
+      .article-viewer h3 { font-size: 16px !important; font-weight: 600 !important; color: #000 !important; margin-top: 20px !important; margin-bottom: 6px !important; }
+      .article-viewer p { margin-bottom: 14px !important; }
       .article-viewer a { color: #ff385c !important; }
-      .article-viewer ul, .article-viewer ol { padding-left: 20px !important; margin-bottom: 16px !important; }
-      .article-viewer li { margin-bottom: 8px !important; }
+      .article-viewer ul, .article-viewer ol { padding-left: 18px !important; margin-bottom: 14px !important; }
+      .article-viewer li { margin-bottom: 6px !important; }
+      .article-viewer strong { color: #000 !important; }
     `;
     container.prepend(style);
 
-    // Wrap in a scrollable container
     const wrapper = document.createElement('div');
     wrapper.className = 'article-scroll-container';
     wrapper.style.cssText = 'width:100%;height:100%;overflow-y:auto;-webkit-overflow-scrolling:touch;';
@@ -506,38 +481,30 @@ function openArticle(idx) {
     preview.innerHTML = '';
     preview.appendChild(wrapper);
   } catch (e) {
-    preview.innerHTML = '<div class="preview-empty"><h3>解析失败</h3><p>' + escapeHtml(e.message) + '</p></div>';
+    preview.innerHTML = '<div class="preview-empty"><h3>加载失败</h3><p>' + escapeHtml(e.message) + '</p></div>';
   }
 
-  // Mobile: switch to preview
-  if (isMobile()) {
-    isMobilePreview = true;
-    const app = document.getElementById('app');
-    app.classList.remove('show-list');
-    app.classList.add('show-preview');
-  }
+  // Mobile: slide in article
+  document.getElementById('app').classList.add('show-article');
 }
 
 function goBack() {
-  isMobilePreview = false;
-  const app = document.getElementById('app');
-  app.classList.remove('show-preview');
-  app.classList.add('show-list');
+  currentArticle = null;
+  document.getElementById('app').classList.remove('show-article');
+  renderArticleList();
+  // Restore empty state
+  const preview = document.getElementById('preview');
+  preview.innerHTML = '<div class="preview-empty" id="previewEmpty">' +
+    '<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="1.5">' +
+    '<rect x="8" y="4" width="48" height="56" rx="4"/>' +
+    '<line x1="16" y1="16" x2="48" y2="16"/><line x1="16" y1="24" x2="40" y2="24"/>' +
+    '<line x1="16" y1="32" x2="44" y2="32"/><line x1="16" y1="40" x2="36" y2="40"/>' +
+    '</svg><h3>选择一篇文章</h3><p>点击列表查看文章详情</p></div>';
 }
 
-function toggleMobileView() {
-  const app = document.getElementById('app');
-  if (isMobilePreview) {
-    isMobilePreview = false;
-    app.classList.remove('show-preview');
-    app.classList.add('show-list');
-  } else {
-    if (currentArticle !== null) {
-      isMobilePreview = true;
-      app.classList.remove('show-list');
-      app.classList.add('show-preview');
-    }
-  }
+function goBackTo() {
+  // Same as goBack but called from tab bar
+  goBack();
 }
 
 function escapeHtml(text) {
@@ -549,11 +516,6 @@ function escapeHtml(text) {
 
 // Init
 renderArticleList();
-
-// Handle mobile initial state
-if (isMobile()) {
-  document.getElementById('app').classList.add('show-list');
-}
 </script>
 </body>
 </html>
