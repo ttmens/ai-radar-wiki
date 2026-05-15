@@ -5,13 +5,29 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 15 May 2026 12:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 16:04:10 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Amazon workers under pressure to up their AI usage are making up tasks</title>
+      <link>https://news.ycombinator.com/item?id=48148337</link>
+      <guid isPermaLink="false">amazon-workers-under-pressure-to-up-their-ai-usage-are-making-up-tasks</guid>
+      <pubDate>2026-05-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>亚马逊员工被施压要求增加AI工具使用，但为了满足指标而编造不存在的任务。这一现象暴露了AI落地中激励机制失衡的问题：员工为达成使用率而制造虚假工作量，而非真正提升效率。对AI产品经理而言，这提示在推动AI采用时需关注用户行为与真实价值匹配，避免量化指标导致的反效果。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>A 0-click exploit chain for the Pixel 10</title>
+      <link>https://news.ycombinator.com/item?id=48148460</link>
+      <guid isPermaLink="false">a-0-click-exploit-chain-for-the-pixel-10</guid>
+      <pubDate>2026-05-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容披露了Pixel 10的一个零点击漏洞利用链，攻击者无需用户交互即可远程控制设备。从AI产品经理视角看，这一漏洞凸显了端侧AI设备的系统性安全风险——尤其是对依赖本地推理的智能助手、摄像头AI等功能的影响。商业上，需推动安全评估与补丁管理流程，避免用户数据泄露和品牌声誉受损。产品创新方向可考虑硬件级安全隔离或上下文感知的权限控制，但核心仍是生态系统的零信任架构。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>Codex is now in the ChatGPT mobile app</title>
       <link>https://news.ycombinator.com/item?id=48140529</link>
@@ -53,11 +69,27 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Osaurus brings both local and cloud AI models to your Mac</title>
+      <link>https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/</link>
+      <guid isPermaLink="false">osaurus-brings-both-local-and-cloud-ai-models-to-your-mac</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Osaurs 是一款面向 Mac 的 AI 应用，创新性地整合了本地与云端 AI 模型，让用户的数据、记忆和工具完全保留在自有硬件上。其核心价值在于平衡了本地隐私安全与云端算力弹性，避免了传统纯云端方案的数据外泄风险，同时借助本地模型实现快速响应与离线可用。对 AI 产品经理而言，这种“混合 AI”架构为端侧智能与云端协同提供了可行范本，尤其适合需要处理敏感信息或对延迟敏感的场景，如个人助理、文档分析等。该产品展示了未来 AI 应用在用户控制权与性能之间的新平衡点，具备较高的产品化借鉴意义。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>The AI Zombification of Universities</title>
       <link>https://news.ycombinator.com/item?id=48139355</link>
       <guid isPermaLink="false">the-ai-zombification-of-universities</guid>
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容探讨了人工智能对大学教育的‘僵尸化’影响，即学生过度依赖AI工具（如大型语言模型）完成作业和论文，导致批判性思维与原创性下降。技术要点在于生成式AI的文本能力已能通过标准学术评估，引发学术诚信危机。商业价值体现在催生AI检测工具（如抄袭检测升级版）和自适应学习平台，帮助教育机构平衡技术赋能与学术规范。产品创新方向包括设计AI辅助创作与原创性评估结合的混合学习系统。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Runway started by helping filmmakers. Now it wants to beat Google at AI.</title>
+      <link>https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/</link>
+      <guid isPermaLink="false">runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Runway是一家AI视频生成初创公司，认为视频生成是通向世界模型的关键路径，并以此挑战Google在AI领域的领导地位。该公司自称作为AI领域的局外人反而是优势，能带来独特视角和创新。对于AI产品经理，Runway的策略表明视频生成技术不仅用于内容创作，更可能成为构建通用世界模型的基础，商业上可能开辟新的AI应用范式。其产品创新在于将视频生成从工具提升为认知模型训练的前沿。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -269,6 +301,22 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos</title>
+      <link>https://news.ycombinator.com/item?id=48147945</link>
+      <guid isPermaLink="false">too-dangerous-or-just-too-expensive-the-real-reason-anthropic-is-hiding-mythos</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic 因安全风险或高昂成本而隐藏了内部项目 Mythos，引发业界对 AI 模型发布策略的思考。这一决策凸显了前沿 AI 公司在技术能力与商业可行性、安全责任之间的权衡，产品经理需关注模型成本控制、安全合规及市场信任建设。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Overseas fakers using AI videos to push a narrative of UK decline, BBC finds</title>
+      <link>https://news.ycombinator.com/item?id=48146656</link>
+      <guid isPermaLink="false">overseas-fakers-using-ai-videos-to-push-a-narrative-of-uk-decline-bbc-finds</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>BBC调查发现，海外造假者利用AI生成的视频传播英国衰退的叙事。这一现象凸显了AI视频生成技术（如deepfake）在产品化后被滥用于虚假信息传播的风险。对AI产品经理而言，核心关注点在于：如何设计有效的深度伪造检测机制、构建内容真实性验证体系，以及平衡生成能力与伦理治理。商业上，这类误用催生了反AI欺诈工具的潜在市场机会，尤其在媒体、金融等高风险领域。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>How Claude Code works in large codebases</title>
       <link>https://news.ycombinator.com/item?id=48144494</link>
       <guid isPermaLink="false">how-claude-code-works-in-large-codebases</guid>
@@ -307,6 +355,14 @@
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该工具根据用户硬件配置（如GPU、内存）推荐最优的本地大语言模型，并基于基准测试进行排名。技术要点在于自动化硬件-模型匹配，省去手动试错；商业价值体现在降低本地AI部署的门槛，使企业或个人能用有限硬件获得最佳性能；产品创新在于将硬件性能与模型能力动态关联，提供可量化的选择依据。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Cursing the government does not fix potholes. Spray-painting them does</title>
+      <link>https://news.ycombinator.com/item?id=48147988</link>
+      <guid isPermaLink="false">cursing-the-government-does-not-fix-potholes-spray-painting-them-does</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容讨论了一种通过喷漆绘制路面坑洞来促使政府修复的创意行动，而非单纯抱怨。对于AI产品经理而言，这体现了公民科技与数据众包模式的结合：利用视觉标记（如喷漆）作为低成本的物理标注，可被计算机视觉模型识别并转化为结构化数据（如坑洞位置、大小），进而推动政府或市政部门响应。其商业价值在于提供了一种去中心化的基础设施监测方案，可集成到智慧城市平台或社区App中，降低数据采集成本并提升响应效率。产品创新点在于将物理世界的行动转化为数字信号，形成闭环治理。</p></description>
+      <category>📱 产品模式</category>
     </item>
     <item>
       <title>USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought</title>
@@ -354,62 +410,6 @@
       <guid isPermaLink="false">llm-policy-for-rust-compiler</guid>
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该技术讨论围绕将大语言模型（LLM）策略集成到 Rust 编译器中，旨在利用 LLM 的能力辅助代码编译、错误诊断与类型推断。这一方向能够显著降低 Rust 语言的学习门槛，减少编译错误率，提升开发效率。对于 AI 产品经理而言，该思路展示了将生成式 AI 嵌入底层开发工具链的创新机会，通过编译器层面的智能辅助形成差异化产品价值，并可复用至其他语言或平台。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Building ML framework with Rust and Category Theory</title>
-      <link>https://news.ycombinator.com/item?id=48137629</link>
-      <guid isPermaLink="false">building-ml-framework-with-rust-and-category-theory</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了利用Rust语言和范畴论（Category Theory）构建机器学习框架的方法。Rust以其高性能和内存安全著称，而范畴论为函数式编程和抽象代数结构提供理论基础。结合两者，旨在设计更可靠、可组合和可推理的ML系统。对AI产品经理而言，这意味着未来可能出现更健壮、更易维护的底层框架，降低模型部署和集成风险，但当前技术门槛较高，主要影响基础设施层面，而非直接面向用户的功能创新。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>design-extract</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">design-extract</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>mcp-use-mcp-use</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">mcp-use-mcp-use</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>onlook-dev-onlook</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">onlook-dev-onlook</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>openai-symphony</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">openai-symphony</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>obra-superpowers</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">obra-superpowers</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>golutra-golutra</title>
-      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
-      <guid isPermaLink="false">golutra-golutra</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
