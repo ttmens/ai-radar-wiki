@@ -107,7 +107,8 @@ def classify_pillar(text):
             weight = 1.2 if pillar == "capabilities" else 1.0
             matches[pillar] = (len(matched), weight * len(matched), matched)
     if not matches:
-        return ("unknown", [])
+        # Default to capabilities for research/academic content that doesn't match other pillars
+        return ("capabilities", [])
     # Sort by weighted score
     primary = max(matches.keys(), key=lambda p: matches[p][1])
     return (primary, matches[primary][2])
@@ -151,9 +152,18 @@ def _load_env_file():
 
 _load_env_file()
 
-DASHSCOPE_API_KEY = os.environ.get("DASHSCOPE_API_KEY", "")
-DASHSCOPE_BASE_URL = os.environ.get("DASHSCOPE_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1").rstrip("/")
+# LLM API keys now managed by ai_model_router — see below for import
 LLM_CACHE_FILE = os.path.join(os.path.dirname(STATE_FILE), "llm_cache.json")
+
+# Unified AI model router (dual-model fallback)
+import sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+try:
+    from ai_model_router import analyze_item as router_analyze_item
+    HAS_MODEL_ROUTER = True
+except ImportError:
+    HAS_MODEL_ROUTER = False
+    print("  ⚠️ ai_model_router not found, using direct API calls")
 
 
 def load_llm_cache():
@@ -183,10 +193,22 @@ def save_llm_cache(cache):
 
 
 def analyze_item_llm(title, summary, item_type, pillar_guess, retries=3):
-    """Call LLM to analyze a single item with retry logic."""
-    import requests
-
-    prompt = f"""分析以下 AI 领域内容，输出 JSON：
+    """Call LLM to analyze a single item with retry logic.
+    
+    v3.15.0: Uses scene-aware routing. Analysis tasks use qwen-plus (primary) 
+    with deepseek fallback for better reasoning quality.
+    """
+    # Try router's specialized analyze_item first
+    if HAS_MODEL_ROUTER:
+        result = router_analyze_item(title, summary, item_type, pillar_guess)
+        if result:
+            return result
+    
+    # Fallback to router's generic call_llm with analysis scene
+    try:
+        from ai_model_router import call_llm as router_call_llm
+        
+        prompt = f"""分析以下 AI 领域内容，输出 JSON：
 
 标题: {title}
 摘要: {summary[:300]}
@@ -203,66 +225,19 @@ def analyze_item_llm(title, summary, item_type, pillar_guess, retries=3):
 
 只输出 JSON 格式：
 {{"summary_cn": "...", "pillar": "...", "pm_relevance": 5, "concepts": ["概念1", "概念2"], "entities": ["实体1"], "patterns": ["模式1"]}}"""
-
-    payload = {
-        "model": "qwen3.6-plus",
-        "messages": [
-            {"role": "system", "content": "你是 AI 产品分析师，擅长从技术信息中提炼产品经理关注的关键点。"},
-            {"role": "user", "content": prompt}
-        ],
-        "temperature": 0.3,
-        "max_tokens": 500,
-    }
-
-    headers = {
-        "Content-Type": "application/json",
-        "Authorization": f"Bearer {DASHSCOPE_API_KEY}",
-    }
-
-    for attempt in range(retries):
-        try:
-            r = requests.post(f"{DASHSCOPE_BASE_URL}/chat/completions",
-                json=payload, headers=headers, timeout=45)
-
-            if r.status_code != 200:
-                # Server error - retry
-                if attempt < retries - 1:
-                    import time
-                    wait = (attempt + 1) * 2
-                    time.sleep(wait)
-                    continue
-                return None
-
-            result = r.json()
-            content = result["choices"][0]["message"]["content"].strip()
-
-            # Extract JSON from markdown code blocks
-            if content.startswith("```"):
-                lines = content.split("\n")
-                lines = lines[1:]
-                if lines[-1].strip() == "```":
-                    lines = lines[:-1]
-                content = "\n".join(lines)
-
-            parsed = json.loads(content)
-            return parsed
-        except (json.JSONDecodeError, KeyError) as e:
-            return None
-        except (requests.RequestException, OSError) as e:
-            if attempt < retries - 1:
-                import time
-                wait = (attempt + 1) * 2
-                time.sleep(wait)
-                continue
-            return None
-        except Exception as e:
-            if attempt < retries - 1:
-                import time
-                time.sleep(2)
-                continue
-            return None
-
-    return None
+        
+        return router_call_llm(
+            prompt=prompt,
+            system_prompt="你是 AI 产品分析师，擅长从技术信息中提炼产品经理关注的关键点。",
+            scene="analysis",
+            temperature=0.3,
+            max_tokens=500,
+            require_json=True,
+            timeout=45,
+        )
+    except ImportError:
+        print("  ⚠️ ai_model_router 不可用，跳过单条分析")
+        return None
 
 
 def batch_analyze_items(items, state, max_concurrent=8):
@@ -276,8 +251,15 @@ def batch_analyze_items(items, state, max_concurrent=8):
     from concurrent.futures import ThreadPoolExecutor, as_completed
     import time
 
-    if not DASHSCOPE_API_KEY:
-        print("  ⚠️ 无 DASHSCOPE_API_KEY，跳过 LLM 分析")
+    # Check if model router is available for analysis scene
+    try:
+        from ai_model_router import get_scene_config
+        models = get_scene_config("analysis")
+        if not models:
+            print("  ⚠️ 无可用 AI 模型，跳过 LLM 分析")
+            return 0
+    except ImportError:
+        print("  ⚠️ ai_model_router 不可用，跳过 LLM 分析")
         return 0
 
     cache = load_llm_cache()
@@ -832,7 +814,7 @@ def generate_daily_digest(all_items, state):
     today_nodes = []
     if os.path.exists(graph_path):
         try:
-            with open(graph_path) as f:
+            with open(graph_path, encoding="utf-8") as f:
                 graph_data = json.load(f)
             for node in graph_data.get("nodes", []):
                 if node.get("date", "").startswith(today) and node.get("type") != "concept":
@@ -1086,7 +1068,7 @@ sources: ["raw/github/{slug}.json"]
                 updates.append(("create", filepath))
         elif tag == "Paper":
             title = item["title"]
-            slug = slugify(title[:60])
+            slug = slugify(title)
             filepath = f"{WIKI_DIR}/wiki/concepts/{slug}.md"
             if not os.path.exists(filepath):
                 authors_str = ", ".join(item.get("authors", []))
@@ -1135,7 +1117,7 @@ sources: ["raw/papers/{slug}.json"]
                 updates.append(("create", filepath))
         elif tag == "HN":
             title = item["title"]
-            slug = slugify(title[:50])
+            slug = slugify(title)
             filepath = f"{WIKI_DIR}/wiki/entities/{slug}.md"
             if not os.path.exists(filepath):
                 content = f"""---
@@ -1169,7 +1151,7 @@ sources: ["raw/hn/{slug}.json"]
                 updates.append(("create", filepath))
         elif tag == "Product":
             title = item["title"]
-            slug = slugify(title[:50])
+            slug = slugify(title)
             filepath = f"{WIKI_DIR}/wiki/entities/{slug}.md"
             if not os.path.exists(filepath):
                 desc_short = (item.get('description', '') or '')[:300]
@@ -1204,7 +1186,7 @@ sources: ["raw/products/{slug}.json"]
                 updates.append(("create", filepath))
         elif tag == "TechCrunch":
             title = item["title"]
-            slug = slugify(title[:50])
+            slug = slugify(title)
             filepath = f"{WIKI_DIR}/wiki/entities/{slug}.md"
             if not os.path.exists(filepath):
                 desc_short = (item.get('description', '') or '')[:300]
@@ -1243,7 +1225,7 @@ sources: ["raw/techcrunch/{slug}.json"]
                 updates.append(("create", filepath))
         elif tag == "ShowHN":
             title = item["title"]
-            slug = slugify(title[:50])
+            slug = slugify(title)
             filepath = f"{WIKI_DIR}/wiki/entities/{slug}.md"
             if not os.path.exists(filepath):
                 content = f"""---
@@ -1279,6 +1261,28 @@ sources: ["raw/showhn/{slug}.json"]
     return updates
 
 
+
+def _resolve_paper_url(node_id, label=""):
+    """Resolve paper URL from raw data or arxiv ID extraction."""
+    import glob
+    # 1. Try to find in raw/papers data
+    for fpath in glob.glob(f"{WIKI_DIR}/raw/papers/*.json"):
+        try:
+            with open(fpath) as f:
+                raw = json.load(f)
+            if raw.get("title") and slugify(raw["title"]) == node_id:
+                return raw.get("url", "")
+        except:
+            pass
+    # 2. Try to extract arxiv ID from label/title
+    arxiv_match = re.search(r'(\d{4}\.\d{4,7}(?:v\d+)?)', label)
+    if arxiv_match:
+        return f"https://arxiv.org/abs/{arxiv_match.group(1)}"
+    # 3. Fallback: use node_id if it looks like an arxiv ID
+    if re.match(r'\d{4}\.\d', node_id):
+        return f"https://arxiv.org/abs/{node_id.split('.')[0]}.{node_id.split('.')[1][:4]}" if '.' in node_id else ""
+    return ""
+
 def build_graph_json(items):
     """Build graph.json — merge new items with existing data to avoid data loss"""
     # Load existing graph to preserve historical nodes
@@ -1287,7 +1291,7 @@ def build_graph_json(items):
     existing_ids = set()
     if os.path.exists(f"{WIKI_DIR}/graph.json"):
         try:
-            with open(f"{WIKI_DIR}/graph.json") as f:
+            with open(f"{WIKI_DIR}/graph.json", encoding="utf-8") as f:
                 existing_data = json.load(f)
             existing_nodes = existing_data.get("nodes", [])
             existing_edges = existing_data.get("edges", [])
@@ -1319,7 +1323,7 @@ def build_graph_json(items):
                 node_id = fname.replace(".md", "")
                 label = m_title.group(1).strip() if m_title else node_id
                 node_type = m_type.group(1).strip() if m_type else "concept"
-                pillar = m_pillar.group(1).strip() if m_pillar else "unknown"
+                pillar = m_pillar.group(1).strip() if m_pillar else "capabilities"
                 pm_score = float(m_score.group(1)) if m_score else 0.1
                 source_type = m_sources.group(1) if m_sources else "unknown"
                 node_date = m_updated.group(1) if m_updated else (m_created.group(1) if m_created else "")
@@ -1386,7 +1390,7 @@ def build_graph_json(items):
 
                 if pillar == "unknown":
                     p, kws = classify_pillar(label + " " + summary)
-                    pillar = p if p != "unknown" else "business"
+                    pillar = p  # classify_pillar now defaults to 'capabilities', never 'unknown'
 
                 # Ensure date/url never empty
                 if not node_date:
@@ -1422,6 +1426,9 @@ def build_graph_json(items):
 
                 label = m_title.group(1).strip()
                 pillar = m_pillar.group(1).strip() if m_pillar else "capabilities"
+                if pillar == "unknown":
+                    p, _ = classify_pillar(label)
+                    pillar = p
                 pm_score = float(m_score.group(1)) if m_score else 0.1
                 node_date = m_updated.group(1) if m_updated else (m_created.group(1) if m_created else "")
 
@@ -1454,7 +1461,7 @@ def build_graph_json(items):
                     "id": node_id, "label": label[:80], "type": "paper",
                     "pillar": pillar, "pm_score": pm_score, "tags": ["papers", pillar],
                     "summary": summary, "raw_content": "", "source_type": "papers",
-                    "date": node_date or datetime.now().strftime("%Y-%m-%d"), "url": f"https://arxiv.org/abs/{node_id[:20]}"
+                    "date": node_date or datetime.now().strftime("%Y-%m-%d"), "url": _resolve_paper_url(node_id, label)
                 })
             except Exception as e:
                 print(f"  ⚠️ Error scanning wiki root: {e}")
@@ -1499,11 +1506,11 @@ def build_graph_json(items):
                 node_date = datetime.now().strftime("%Y-%m-%d")
         
         if tag == "GitHub": node_id, summary = slugify(item["name"]), item.get("summary_cn", "") or item.get("description", "") or "AI 开源项目"
-        elif tag == "Paper": node_id, summary = slugify(item["title"][:40]), item.get("summary_cn", "") or (item.get("summary", "") or "")[:300]
-        elif tag == "HN": node_id, summary = slugify(item["title"][:40]), item.get("summary_cn", "") or f"HN 热门讨论，{item.get('score', 0)} 分，{item.get('comments', 0)} 条评论"
-        elif tag == "Product": node_id, summary = slugify(item["title"][:40]), item.get("summary_cn", "") or (item.get("description", "") or "新 AI 产品")[:300]
-        elif tag == "TechCrunch": node_id, summary = slugify(item["title"][:40]), item.get("summary_cn", "") or (item.get("description", "") or "商业动态")[:300]
-        elif tag == "ShowHN": node_id, summary = slugify(item["title"][:40]), item.get("summary_cn", "") or f"Show HN 项目，{item.get('score', 0)} 分"
+        elif tag == "Paper": node_id, summary = slugify(item["title"]), item.get("summary_cn", "") or (item.get("summary", "") or "")[:300]
+        elif tag == "HN": node_id, summary = slugify(item["title"]), item.get("summary_cn", "") or f"HN 热门讨论，{item.get('score', 0)} 分，{item.get('comments', 0)} 条评论"
+        elif tag == "Product": node_id, summary = slugify(item["title"]), item.get("summary_cn", "") or (item.get("description", "") or "新 AI 产品")[:300]
+        elif tag == "TechCrunch": node_id, summary = slugify(item["title"]), item.get("summary_cn", "") or (item.get("description", "") or "商业动态")[:300]
+        elif tag == "ShowHN": node_id, summary = slugify(item["title"]), item.get("summary_cn", "") or f"Show HN 项目，{item.get('score', 0)} 分"
         else: continue
 
         node_label = item.get("name", "") or item.get("title", "")
@@ -1511,7 +1518,8 @@ def build_graph_json(items):
 
         # Fix: arXiv papers should have arxiv.org URL
         if tag == "Paper" and not node_url and item.get("title"):
-            node_url = f"https://arxiv.org/abs/{slugify(item['title'][:20])}"
+            # 尝试从 raw 数据或 title 中匹配 arxiv ID
+            node_url = _resolve_paper_url(slugify(item["title"]), item["title"])
 
         if node_id not in node_ids:
             node_ids.add(node_id)
@@ -1554,7 +1562,7 @@ def build_graph_json(items):
             # 找到对应的 node_id
             tag = item.get("tag", "")
             if tag == "GitHub": nid = slugify(item["name"])
-            elif tag in ("Paper", "HN", "Product", "TechCrunch", "ShowHN"): nid = slugify(item.get("title", "")[:40])
+            elif tag in ("Paper", "HN", "Product", "TechCrunch", "ShowHN"): nid = slugify(item.get("title", ""))
             else: continue
             concept_map[concept_key]["nodes"].append(nid)
             concept_map[concept_key]["pillar_counts"][item.get("pillar", "unknown")] += 1
@@ -1636,9 +1644,22 @@ def build_graph_json(items):
     all_edges = list(edges)   # start with new edges
     new_node_ids = {n["id"] for n in nodes}
 
+    # Title-based dedup: build a map of label -> best_node for new nodes
+    new_by_title = {}
+    for n in nodes:
+        title = n.get("label", "")
+        if title and (title not in new_by_title or n.get("pm_score", 0) > new_by_title[title].get("pm_score", 0)):
+            new_by_title[title] = n
+
     for en in existing_nodes:
-        if en["id"] not in new_node_ids:
-            all_nodes.append(en)
+        # Skip if same ID
+        if en["id"] in new_node_ids:
+            continue
+        # Skip if same title (already covered by new node with full ID)
+        en_title = en.get("label", "")
+        if en_title and en_title in new_by_title:
+            continue
+        all_nodes.append(en)
 
     for ee in existing_edges:
         all_edges.append(ee)
@@ -1647,7 +1668,7 @@ def build_graph_json(items):
     all_nodes.sort(key=lambda n: n.get("pm_score", 0), reverse=True)
 
     graph_data = {"nodes": all_nodes, "edges": all_edges, "generated_at": datetime.now().isoformat(), "generator": "ai-radar-explorer-v3", "schema_version": "4-pillar-pm-focused"}
-    with open(f"{WIKI_DIR}/graph.json", "w") as f:
+    with open(f"{WIKI_DIR}/graph.json", "w", encoding="utf-8", newline="\n") as f:
         json.dump(graph_data, f, indent=2, ensure_ascii=False)
     return graph_data
 
@@ -1679,32 +1700,14 @@ def generate_graph_html(graph_data):
     clean_data = _strip_illegal_controls(graph_data)
     data_json = json.dumps(clean_data, ensure_ascii=False, separators=(',', ':'))
     
-    # Strategy: prefer graph.html (preserves custom UI), only replace JSON data.
-    # Fall back to graph_template.html only if graph.html doesn't exist.
+    # v3.13.0 FIX: Always regenerate from template to ensure UI/CSS updates are applied.
+    # Regex replacement on graph.html risks locking in stale CSS/JS and ignoring template updates.
     
-    if os.path.exists(graph_html_path):
-        # Replace only the JSON data inside <script id="graph-data"> tag
-        # Pattern: everything between the opening and closing script tags
-        import re
-        pattern = re.compile(r'(<script id="graph-data" type="application/json">)(.*?)(</script>)', re.DOTALL)
-        html_content = open(graph_html_path).read()
-        match = pattern.search(html_content)
-        if match:
-            # CRITICAL: use lambda to avoid re.sub backslash interpretation (\\n → literal newline)
-            new_html = pattern.sub(lambda m: m.group(1) + data_json + m.group(3), html_content, count=1)
-            with open(graph_html_path, "w") as f:
-                f.write(new_html)
-            print(f"  ✅ graph.html data updated: {len(graph_data['nodes'])} nodes, {len(graph_data['edges'])} edges (UI preserved)")
-            return graph_html_path
-        else:
-            print(f"  ⚠️ graph.html exists but missing graph-data script tag, falling back to template")
-    
-    # Fallback: generate from template
     if not os.path.exists(template_path):
         print(f"  ⚠️ graph_template.html not found at {template_path}")
         return
     
-    with open(template_path) as f:
+    with open(template_path, encoding="utf-8") as f:
         html_template = f.read()
     
     if "{{DATA}}" not in html_template:
@@ -1712,7 +1715,7 @@ def generate_graph_html(graph_data):
         return
     
     html = html_template.replace("{{DATA}}", data_json)
-    with open(graph_html_path, "w") as f:
+    with open(graph_html_path, "w", encoding="utf-8", newline="\n") as f:
         f.write(html)
     print(f"  ✅ graph.html generated from template: {len(graph_data['nodes'])} nodes, {len(graph_data['edges'])} edges")
     return graph_html_path
@@ -1938,6 +1941,20 @@ def main():
         print("  📊 Weekly trends updated")
     except Exception as e:
         print(f"  ⚠️ Weekly trends failed: {e}")
+
+    import subprocess as _sub
+    try:
+        _snap = os.path.join(WIKI_DIR, "scripts", "generate_brief_snapshot.py")
+        if os.path.isfile(_snap):
+            _r = _sub.run(
+                ["python3", _snap, "--wiki-root", WIKI_DIR],
+                timeout=60, capture_output=True, text=True)
+            if _r.returncode == 0:
+                print("  📸 brief_snapshot.json 已更新")
+            else:
+                print(f"  ⚠️ brief_snapshot 异常: {_r.stderr or _r.stdout or _r.returncode}")
+    except Exception as e:
+        print(f"  ⚠️ brief_snapshot 失败: {e}")
     
     git_push()
     print(f"\n📊 Summary: {total_stats['found']} total, {total_stats['new']} new")
