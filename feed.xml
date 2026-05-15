@@ -5,13 +5,45 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 14 May 2026 20:00:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 00:03:39 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>AI is making me dumb</title>
+      <link>https://news.ycombinator.com/item?id=48139148</link>
+      <guid isPermaLink="false">ai-is-making-me-dumb</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>标题指出AI可能导致用户认知能力下降，对产品经理而言，需警惕过度依赖AI带来的用户技能退化风险。这提示设计AI产品时应平衡自动化与人类主动思考，避免替代关键认知环节。商业价值上，可探索增强而非替代的AI功能，例如提供建议而非答案，保留用户决策权。产品创新方向包括可解释性、可控性设计，以及培养长期依赖较小的使用习惯。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>RTX 5090 and M4 MacBook Air: Can It Game?</title>
+      <link>https://news.ycombinator.com/item?id=48137145</link>
+      <guid isPermaLink="false">rtx-5090-and-m4-macbook-air-can-it-game</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>RTX 5090与M4 MacBook Air的游戏性能较量，实质是消费级硬件在图形与AI计算能力上的直接对比。对AI产品经理而言，需关注这些GPU/SoC如何影响本地推理效率、模型部署成本及产品形态。NVIDIA延续高功耗极致性能路线，Apple则强调能效与统一内存架构，两者差异将决定AI应用是依赖云端还是端侧运行。此次测评也揭示了PC游戏场景下AI超分、实时渲染等技术的落地潜力，为面向消费者的AI硬件选型提供参考。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>What happens when AI starts building itself?</title>
+      <link>https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/</link>
+      <guid isPermaLink="false">what-happens-when-ai-starts-building-itself</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Richard Socher 的新创业公司获 6.5 亿美元融资，旨在构建能够无限自我研究与改进的 AI 系统，并承诺实际交付产品。该技术核心在于实现 AI 的自主迭代能力，无需人工干预即可优化自身模型、算法和知识库，从而持续提升性能。对产品经理而言，这意味着可能诞生一种‘自进化’产品开发范式，大幅缩短模型迭代周期，降低人工调参成本，并实现实时适应场景变化。但其挑战在于如何确保自我改进过程的可控性、安全性和业务对齐。若成功，将重塑 AI 产品生命周期管理与持续交付模式，带来显著的商业价值。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>The AI Zombification of Universities</title>
+      <link>https://news.ycombinator.com/item?id=48139355</link>
+      <guid isPermaLink="false">the-ai-zombification-of-universities</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容探讨了人工智能对大学教育的‘僵尸化’影响，即学生过度依赖AI工具（如大型语言模型）完成作业和论文，导致批判性思维与原创性下降。技术要点在于生成式AI的文本能力已能通过标准学术评估，引发学术诚信危机。商业价值体现在催生AI检测工具（如抄袭检测升级版）和自适应学习平台，帮助教育机构平衡技术赋能与学术规范。产品创新方向包括设计AI辅助创作与原创性评估结合的混合学习系统。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO</title>
       <link>https://news.ycombinator.com/item?id=48134429</link>
@@ -45,11 +77,51 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>OpenAI is reportedly preparing legal action against Apple; it wouldn&amp;#8217;t be</title>
+      <link>https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/</link>
+      <guid isPermaLink="false">openai-is-reportedly-preparing-legal-action-against-apple-it-wouldn8217t-be-the</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenAI 因与苹果的 ChatGPT 集成未能带来预期的订阅用户数和品牌曝光度，正考虑对苹果采取法律行动。这一事件凸显了 AI 服务与硬件平台合作中可能存在的商业风险：集成深度、收益分配和用户获取效果与预期不符。对 AI 产品经理的启示包括在生态合作中需明确关键指标（如订阅转化、流量入口），并设计退出机制或对赌条款。同时需关注平台方对 AI 功能的控制权，避免沦为流量工具而无法获得足够商业回报。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard</title>
+      <link>https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/</link>
+      <guid isPermaLink="false">clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Clawdmeter 是一款开源桌面小工具，用于将 Claude Code 的使用统计数据（如 API 调用量、上下文消耗等）转换为实时仪表盘，帮助 AI 编程重度用户直观监控自身使用行为。该项目面向效率优化场景，通过本地可视化降低依赖云端分析的延迟与隐私风险，同时为 AI 产品经理提供用户行为洞察的轻量级参考工具。技术亮点在于轻量级前端与 Claude Code 接口的集成，商业价值体现在赋能开发者自助管理 AI 资源成本，属于开发者工具生态中的创新尝试。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
       <title>Cisco cuts nearly 4,000 jobs to spend more on AI, reports &amp;#8216;record quarterl</title>
       <link>https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/</link>
       <guid isPermaLink="false">cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-8216record-quarterly-rev</guid>
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>思科宣布裁员约4000人，约占员工总数的5%，旨在将节省的成本重新投入人工智能领域。公司CEO表示，尽管裁员，但同期营收创下历史新高，达到约136亿美元，同比增长显著。此举反映出传统网络硬件巨头正加速向AI驱动的解决方案转型，通过削减非核心岗位来聚焦AI基础设施、网络安全和云服务等高增长领域。对于AI产品经理而言，这标志着企业级AI投入从实验阶段转向规模化落地，思科的决策也为其他传统科技公司提供了商业参考：通过组织重组释放资源，以抢占AI市场先机。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026</title>
+      <link>https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/</link>
+      <guid isPermaLink="false">cerebras-raises-55b-then-stock-pops-108-in-the-first-huge-tech-ipo-of-2026</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Cerebras，一家专注于AI芯片（晶圆级集成）的公司，成功完成55亿美元IPO，股价首日飙升108%，成为2026年首个巨大科技IPO。此次融资凸显市场对专用AI硬件（训练/推理）的强劲需求，以及投资者对非传统芯片架构商业前景的认可。对于AI产品经理而言，该事件标志着底层算力竞争加剧，预示着未来AI产品性能提升将更多依赖专用硬件创新，并影响云服务和边缘部署的成本与可行性。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>You Don't Align an AI, You Align with It</title>
+      <link>https://news.ycombinator.com/item?id=48139144</link>
+      <guid isPermaLink="false">you-dont-align-an-ai-you-align-with-it</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文提出AI对齐的新视角：并非产品经理强行“对齐”AI模型，而是通过与AI的持续互动、反馈和价值观校准，实现人与系统的动态对齐。这对AI产品设计意味着应放弃静态规则，转向迭代式人机协同机制。商业上，企业需要建立长期信任，产品创新点在于开发可解释、可适应的对齐协议，而非一次性部署。技术要点包括偏好学习（RLHF）、价值观蒸馏和上下文一致性维护。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Elon Musk&amp;#8217;s SpaceXAI has been bleeding staff since its merger</title>
+      <link>https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/</link>
+      <guid isPermaLink="false">elon-musk8217s-spacexai-has-been-bleeding-staff-since-its-merger</guid>
+      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>SpaceXAI自2月合并以来已有超过50名员工离职，引发对团队倦怠、领导层变动、人才被挖角及流动性事件削弱留任激励的关注。对AI产品经理而言，频繁的人才流失可能延缓产品迭代和技术突破，需关注组织稳定性对长期AI研发的影响。</p></description>
       <category>💰 商业趋势</category>
     </item>
     <item>
@@ -339,78 +411,6 @@
       <pubDate>2026-05-14T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了如何利用 Claude Code 和 Codex 等 AI 代码助手进行有意的技能发展，并非简单生成代码，而是通过刻意练习模式帮助开发者提升编程能力。技术要点包括将 AI 作为实时教练和反馈源，设计练习任务以促进深度理解；商业价值在于提高开发者学习效率，拓展 AI 在教育与培训领域的应用；产品创新点在于从工具转向技能发展平台，强调人机协作的成长机制。</p></description>
       <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Making the news available at no cost is a victory</title>
-      <link>https://news.ycombinator.com/item?id=48126156</link>
-      <guid isPermaLink="false">making-the-news-available-at-no-cost-is-a-victory</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Who trusts Sam Altman?</title>
-      <link>https://techcrunch.com/2026/05/13/who-trusts-sam-altman/</link>
-      <guid isPermaLink="false">who-trusts-sam-altman</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>"I believe I am an honest and trustworthy businessperson," Altman testified in federal court.</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Notion just turned its workspace into a hub for AI agents</title>
-      <link>https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/</link>
-      <guid isPermaLink="false">notion-just-turned-its-workspace-into-a-hub-for-ai</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Anthropic&amp;#8217;s Cat Wu says that, in the future, AI will anticipate your needs</title>
-      <link>https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/</link>
-      <guid isPermaLink="false">anthropic8217s-cat-wu-says-that-in-the-future</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data c</title>
-      <link>https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/</link>
-      <guid isPermaLink="false">musks-xai-is-running-nearly-50-gas-turbines-unche</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of "mobile" gas turbines as power plants.</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Origin Lab raises $8M to help video game companies sell data to world-model buil</title>
-      <link>https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/</link>
-      <guid isPermaLink="false">origin-lab-raises-8m-to-help-video-game-companies</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Nailing jelly to a wall: is it possible? (2005)</title>
-      <link>https://news.ycombinator.com/item?id=48076342</link>
-      <guid isPermaLink="false">nailing-jelly-to-a-wall-is-it-possible-2005</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Rars: a Rust RAR implementation, mostly written by LLMs</title>
-      <link>https://news.ycombinator.com/item?id=48126675</link>
-      <guid isPermaLink="false">rars-a-rust-rar-implementation-mostly-written-by</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Meta won't let you block its AI account on Threads</title>
-      <link>https://news.ycombinator.com/item?id=48126981</link>
-      <guid isPermaLink="false">meta-wont-let-you-block-its-ai-account-on-threads</guid>
-      <pubDate>2026-05-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
     </item>
   </channel>
 </rss>
