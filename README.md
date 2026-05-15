@@ -14,9 +14,9 @@
 | 指标 | 数值 |
 |------|------|
 | 总节点 | 538 |
-| 总边 | 17074 |
+| 总边 | 17594 |
 | 中文摘要 | 370 (68%) |
-| 最后更新 | 2026-05-15 13:12 |
+| 最后更新 | 2026-05-15 13:16 |
 
 ### 四支柱分布
 
@@ -42,4 +42,4 @@
 
 ---
 
-*AI Radar Explorer v3 · Self-evolving Knowledge Graph · Last updated: 2026-05-15 13:12*
+*AI Radar Explorer v3 · Self-evolving Knowledge Graph · Last updated: 2026-05-15 13:16*
