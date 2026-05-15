@@ -1,7 +1,7 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T19:00:21.557854+08:00",
-  "item_count": 53,
+  "generated_at": "2026-05-15T20:20:13.740390+08:00",
+  "item_count": 55,
   "items": [
     {
       "id": "codex-is-now-in-the-chatgpt-mobile-app",
@@ -356,6 +356,17 @@
       "date": "2026-05-15"
     },
     {
+      "id": "overseas-fakers-using-ai-videos-to-push-a-narrative-of-uk-decline-bbc-finds",
+      "label": "Overseas fakers using AI videos to push a narrative of UK decline, BBC finds",
+      "summary": "BBC调查发现，海外造假者利用AI生成的视频传播英国衰退的叙事。这一现象凸显了AI视频生成技术（如deepfake）在产品化后被滥用于虚假信息传播的风险。对AI产品经理而言，核心关注点在于：如何设计有效的深度伪造检测机制、构建内容真实性验证体系，以及平衡生成能力与伦理治理。商业上，这类误用催生了反AI欺诈工具的潜在市场机会，尤其在媒体、金融等高风险领域。",
+      "pm_score": 0.38,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48146656",
+      "date": "2026-05-15"
+    },
+    {
       "id": "how-claude-code-works-in-large-codebases",
       "label": "How Claude Code works in large codebases",
       "summary": "Claude Code 是 Anthropic 推出的 AI 代码助手，重点解决在大型代码库中的高效工作问题。其核心技术包括智能上下文压缩、代码库索引与分块检索，以及基于长期记忆的代码理解能力，使模型能跨越数千文件进行准确的语义推理。商业价值在于显著提升开发者的生产效率与代码维护体验，尤其适合复杂企业项目。产品创新体现在无需手动分段即可自动处理超大规模代码库，降低使用门槛。",
@@ -477,6 +488,17 @@
       "date": "2026-05-15"
     },
     {
+      "id": "oxcaml-in-space",
+      "label": "O(x)Caml in Space",
+      "summary": "本文讨论 OCaml 函数式编程语言在太空领域的应用，强调其高可靠性和形式化验证能力，适合开发航天关键软件系统。对 AI 产品经理的启示是：安全第一的场景（如自动驾驶、金融）可借鉴类似技术栈，通过强类型和不可变数据降低运行时错误，但需权衡学习成本和生态成熟度。",
+      "pm_score": 0.275,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48147058",
+      "date": "2026-05-15"
+    },
+    {
       "id": "building-ml-framework-with-rust-and-category-theory",
       "label": "Building ML framework with Rust and Category Theory",
       "summary": "本文探讨了利用Rust语言和范畴论（Category Theory）构建机器学习框架的方法。Rust以其高性能和内存安全著称，而范畴论为函数式编程和抽象代数结构提供理论基础。结合两者，旨在设计更可靠、可组合和可推理的ML系统。对AI产品经理而言，这意味着未来可能出现更健壮、更易维护的底层框架，降低模型部署和集成风险，但当前技术门槛较高，主要影响基础设施层面，而非直接面向用户的功能创新。",
@@ -588,7 +610,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 525,
-    "edges": 19206
+    "real_nodes": 527,
+    "edges": 19734
   }
 }

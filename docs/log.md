@@ -560,3 +560,7 @@
 - create: show-hn-find-the-best-local-llm-for-your-hardware-ranked-by-benchmarks.md
 - create: uk-sovereign-llm-inference.md
 - create: building-ml-framework-with-rust-and-category-theory.md
+
+## [2026-05-15 20:20] sync v3 | 2 new | pillars: {'capabilities': 2}
+- create: oxcaml-in-space.md
+- create: overseas-fakers-using-ai-videos-to-push-a-narrative-of-uk-decline-bbc-finds.md

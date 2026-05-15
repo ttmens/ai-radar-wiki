@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-15 | Total pages: 490
+> Last updated: 2026-05-15 | Total pages: 492
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -63,6 +63,8 @@
 - [[mlfoundationsopen_clip.md]] mlfoundations/open_clip `pillar:capabilities` `score:0.615`
 - [[mudlerlocalai.md]] mudler/LocalAI `pillar:capabilities` `score:0.405`
 - [[ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts.md]] Ontario auditors find doctors' AI note takers routinely blow basic facts `pillar:capabilities` `score:0.565`
+- [[overseas-fakers-using-ai-videos-to-push-a-narrative-of-uk-decline-bbc-finds.md]] Overseas fakers using AI videos to push a narrative of UK decline, BBC finds `pillar:capabilities` `score:0.38`
+- [[oxcaml-in-space.md]] O(x)Caml in Space `pillar:capabilities` `score:0.275`
 - [[paddlepaddlepaddle.md]] PaddlePaddle/Paddle `pillar:capabilities` `score:0.615`
 - [[qdrantqdrant.md]] qdrant/qdrant `pillar:capabilities` `score:0.615`
 - [[rtk-airtk.md]] rtk-ai/rtk `pillar:capabilities` `score:0.58`
