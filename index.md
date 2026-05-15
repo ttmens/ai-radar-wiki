@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-15 | Total pages: 486
+> Last updated: 2026-05-15 | Total pages: 488
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -69,6 +69,7 @@
 - [[qdrantqdrant.md]] qdrant/qdrant `pillar:capabilities` `score:0.615`
 - [[rtk-airtk.md]] rtk-ai/rtk `pillar:capabilities` `score:0.58`
 - [[rtx-5090-and-m4-macbook-air-can-it-game.md]] RTX 5090 and M4 MacBook Air: Can It Game? `pillar:capabilities` `score:0.565`
+- [[runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai.md]] Runway started by helping filmmakers. Now it wants to beat Google at AI. `pillar:capabilities` `score:0.515`
 - [[safari-and-firefox-change-how-big-sites-render-based-on-the-domain.md]] Safari and Firefox change how big sites render based on the domain `pillar:capabilities` `score:0.295`
 - [[screenpipescreenpipe.md]] screenpipe/screenpipe `pillar:capabilities` `score:0.615`
 - [[sgl-projectsglang.md]] sgl-project/sglang `pillar:capabilities` `score:0.615`
@@ -84,6 +85,7 @@
 - [[the-art-of-hackingh4cker.md]] The-Art-of-Hacking/h4cker `pillar:capabilities` `score:0.58`
 - [[the-greatest-shot-in-television-james-burke-had-o.md]] The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene `pillar:capabilities` `score:0.155`
 - [[the-soul-of-maintaining-a-new-machine.md]] The soul of maintaining a new machine `pillar:capabilities` `score:0.38`
+- [[the-wonders-of-ai-we-are-retiring-our-bug-bounty-program.md]] The Wonders of AI: We Are Retiring Our Bug Bounty Program `pillar:capabilities` `score:0.255`
 - [[through-the-looking-glass-of-benchmark-hacking.md]] Through the looking glass of benchmark hacking `pillar:capabilities` `score:0.155`
 - [[too-dangerous-or-just-too-expensive-the-real-reason-anthropic-is-hiding-mythos.md]] Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos `pillar:capabilities` `score:0.38`
 - [[training-an-llm-in-swift-part-1-taking-matrix-mu.md]] Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s `pillar:capabilities` `score:0.38`

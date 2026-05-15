@@ -1,7 +1,7 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T21:44:23.909306+08:00",
-  "item_count": 45,
+  "generated_at": "2026-05-15T22:22:43.985923+08:00",
+  "item_count": 46,
   "items": [
     {
       "id": "codex-is-now-in-the-chatgpt-mobile-app",
@@ -78,6 +78,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48139355",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai",
+      "label": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
+      "summary": "Runway是一家AI视频生成初创公司，认为视频生成是通向世界模型的关键路径，并以此挑战Google在AI领域的领导地位。该公司自称作为AI领域的局外人反而是优势，能带来独特视角和创新。对于AI产品经理，Runway的策略表明视频生成技术不仅用于内容创作，更可能成为构建通用世界模型的基础，商业上可能开辟新的AI应用范式。其产品创新在于将视频生成从工具提升为认知模型训练的前沿。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
       "date": "2026-05-15"
     },
     {
@@ -500,7 +511,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 530,
-    "edges": 20777
+    "real_nodes": 523,
+    "edges": 21301
   }
 }

@@ -2,18 +2,24 @@
   "daily_summary": {
     "date": "2026-05-15",
     "headline": "今日 AI 情报 · 2026-05-15",
-    "overview": "AI从辅助走向自主操作，但可靠性与合规瓶颈同步凸显",
+    "overview": "AI从被动响应工具转向自主操作与自我进化，产品化面临信任与合规挑战。",
     "narratives": [
       {
-        "title": "AI自主化与自进化趋势加速",
-        "body": "从自构建AI（6.5亿美元融资）到完全自主记账服务，再到混合本地-云端架构，AI正从被动工具向主动操作、自我迭代的智能体演进。产品经理需关注如何设计可控的自进化机制，同时利用混合架构平衡隐私与算力。",
+        "title": "AI从工具迈向自主代理：自进化与端到端自动化成为新范式",
+        "body": "Richard Socher的创业公司获得6.5亿美元融资，目标构建能无限自我改进的AI系统，标志着AI从静态模型向持续自进化的代理转变。同时，Synthetic等初创公司推出完全自主的AI记账服务，实现端到端无人干预的自动化流程。对产品经理而言，这意味着产品设计重心从功能交付转向代理治理（如可控性、监控与回滚），并需重新定义人机协作边界。后续可能引发自进化系统安全性与伦理治理的激烈讨论。",
         "type": "paradigm_shift",
+        "pillar_key": "patterns"
+      },
+      {
+        "title": "AI产品化的信任裂痕：医疗误诊、认知退化与法律纠纷警示行业风险",
+        "body": "安大略省医疗AI笔记助手频繁出现基本事实错误，严重威胁患者安全；“AI致傻”讨论与大学学术僵尸化现象揭示过度依赖AI导致用户批判性思维退化；同时OpenAI面临与苹果的法律纠纷，以及CEO商业交易审查与马斯克诉讼，凸显生态合作与合规风险。这些信号表明AI产品化已进入“信任验证期”，产品经理必须优先强化事实核查、用户认知培养与法律合规设计。",
+        "type": "bottleneck",
         "pillar_key": "capabilities"
       },
       {
-        "title": "AI产品的可靠性与合规挑战成为商业化瓶颈",
-        "body": "医疗笔记事实错误、行为保证无法验证安全声明、教育领域认知退化、法律纠纷频发——这些信号表明，AI产品在专业场景的可靠性不足和治理缺陷已从技术问题上升为商业与法律风险。产品经理需优先投入领域适配、可解释性和合规验证。",
-        "type": "bottleneck",
+        "title": "视频生成成为通向世界模型的关键战场，驱动多模态数据基础设施爆发",
+        "body": "Runway提出视频生成是通向世界模型的关键路径，目标挑战Google的AI领导地位；EntityBench等新基准聚焦多镜头视频中实体一致性，推动影视级应用落地。同时，Wirestock融资2300万美元，构建创作者到AI实验室的多模态数据供应链。产品经理应关注视频生成从内容工具升级为认知模型基础设施的趋势，并抢抓跨模态数据合规供给的商机。",
+        "type": "maturation",
         "pillar_key": "ecosystem"
       }
     ],
@@ -21,38 +27,84 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "AI自主化与自进化趋势加速",
-        "insight": "AI自主化与自进化趋势加速。该方向的具体信号：Osaurus整合本地与云端AI模型实现混合架构，使用户数据保留在本地同时获得弹性算力，为自主智能体部署提供可行范式；Khosla Ventures投资1000万美元打造的完全自主AI记账服务，端到端替代人工，标志AI代理从辅助走向替代。产品经理应优先探索混合部署与自主流程代理的商业闭环。",
+        "narrative_title": "AI从工具迈向自主代理：自进化与端到端自动化成为新范式",
+        "insight": "AI从工具迈向自主代理：自进化与端到端自动化成为新范式。该方向的具体信号：Synthetic获得1000万美元投资打造完全自主AI记账，实现无人干预的财务管理全流程；Osaurus混合AI架构证明本地+云端协同可满足隐私与实时性需求，为自主代理提供基础设施支撑。产品经理需从“功能交付”转向“代理治理”，设计监控、回滚与人类干预机制。",
         "evidence": [
           {
-            "id": "osaurus-brings-both-local-and-cloud-ai-models-to-your-mac",
-            "title": "Osaurus brings both local and cloud AI models to your Mac",
-            "score": 0.52
+            "id": "khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded",
+            "title": "Khosla Ventures投资Ian Crosby，构建完全自主的AI记账服务Synthetic",
+            "score": 0.48
           },
           {
-            "id": "khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded",
-            "title": "Khosla Ventures is betting $10M on Ian Crosby, whose last startup, Bench, imploded",
-            "score": 0.48
+            "id": "osaurus-brings-both-local-and-cloud-ai-models-to-your-mac",
+            "title": "Osaurus在Mac上整合本地与云端AI模型，实现混合AI架构",
+            "score": 0.52
+          }
+        ]
+      },
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI产品化的信任裂痕：医疗误诊、认知退化与法律纠纷警示行业风险",
+        "insight": "AI产品化的信任裂痕：医疗误诊、认知退化与法律纠纷警示行业风险。该方向的具体信号：安大略省医疗AI笔记频繁犯错，200+论文揭示科研中AI幻觉泛滥，“AI致傻”讨论表明用户过度依赖损害认知能力，大学学术评估被AI绕开引发诚信危机。产品经理需在功能中内嵌事实核查、可解释性提示与用户认知保护设计，平衡自动化与人类主动性。",
+        "evidence": [
+          {
+            "id": "ai-is-making-me-dumb",
+            "title": "AI致傻：过度依赖导致用户认知能力下降，需警惕产品设计风险",
+            "score": 0.63
           }
         ]
       },
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "narrative_title": "AI产品的可靠性与合规挑战成为商业化瓶颈",
-        "insight": "AI产品的可靠性与合规挑战成为商业化瓶颈。该方向的具体信号：安大略省审计发现医生AI笔记频繁事实错误，医疗场景的可靠性危机直接威胁产品存续；学术论文指出行为保证无法验证安全声明，现有AI治理框架存在根本缺陷，产品经理必须提前引入架构保证；OpenAI考虑对苹果法律行动，揭示平台合作中的收益分配与用户获取风险。这些案例警示产品经理需从设计阶段嵌入合规、校准与可审计性。",
+        "narrative_title": "视频生成成为通向世界模型的关键战场，驱动多模态数据基础设施爆发",
+        "insight": "视频生成成为通向世界模型的关键战场，驱动多模态数据基础设施爆发。该方向的具体信号：Runway以视频生成挑战Google，认为这是通向世界模型的关键；Wirestock融资2300万美元构建创作者到AI实验室的多模态数据供应链；EntityBench提出长视频实体一致性评估基准，推动影视级应用落地。产品经理应布局视频生成+世界模型融合的产品矩阵，并抢占合规多模态数据供给窗口。",
+        "evidence": [
+          {
+            "id": "runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai",
+            "title": "Runway：视频生成通往世界模型，挑战Google AI领导地位",
+            "score": 0.52
+          },
+          {
+            "id": "wirestock-raises-23m-to-supply-creative-multi-modal-data-to-ai-labs",
+            "title": "Wirestock融资2300万，为AI实验室提供多模态创意训练数据",
+            "score": 0.48
+          },
+          {
+            "id": "entitybench-towards-entity-consistent-long-range-multi-shot-video-generation",
+            "title": "EntityBench：评估多镜头视频中实体一致性的基准，推动连贯视觉叙事",
+            "score": 0.48
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI产品化的信任裂痕：医疗误诊、认知退化与法律纠纷警示行业风险",
+        "insight": "AI产品化的信任裂痕：医疗误诊、认知退化与法律纠纷警示行业风险。该方向的具体信号：OpenAI与苹果集成未达预期，面临法律行动；Sam Altman在IPO前受共和党商业审查；Elon Musk诉OpenAI指控背离非营利使命。这些事件表明AI商业合作需明确收益分配、退出机制与合规治理，否则将面临法律与信任双重风险。",
         "evidence": [
           {
             "id": "openai-is-reportedly-preparing-legal-action-against-apple-it-wouldn8217t-be-the",
-            "title": "OpenAI is reportedly preparing legal action against Apple",
+            "title": "OpenAI因ChatGPT集成效果不佳，拟对苹果采取法律行动",
+            "score": 0.48
+          },
+          {
+            "id": "sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo",
+            "title": "Altman在OpenAI IPO前遭共和党审查，增加上市不确定性",
+            "score": 0.49
+          },
+          {
+            "id": "what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman",
+            "title": "Musk诉Altman案：陪审团将判定OpenAI是否背离非营利使命",
             "score": 0.48
           }
         ]
       }
     ],
-    "stats": "技术能力: 11 | 产品模式: 2 | 工具生态: 2 | 商业趋势: 2",
+    "stats": "技术能力: 12 | 产品模式: 2 | 工具生态: 3 | 商业趋势: 3",
     "total_items": 20,
-    "high_value_count": 16,
+    "high_value_count": 20,
     "all_today_ids": [
       {
         "id": "codex-is-now-in-the-chatgpt-mobile-app",
@@ -81,6 +133,10 @@
       {
         "id": "the-ai-zombification-of-universities",
         "label": "The AI Zombification of Universities"
+      },
+      {
+        "id": "runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai",
+        "label": "Runway started by helping filmmakers. Now it wants to beat Google at AI."
       },
       {
         "id": "sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo",
@@ -251,43 +307,11 @@
         "label": "Building ML framework with Rust and Category Theory"
       },
       {
-        "id": "design-extract",
-        "label": "design-extract"
-      },
-      {
-        "id": "mcp-use-mcp-use",
-        "label": "mcp-use-mcp-use"
-      },
-      {
-        "id": "onlook-dev-onlook",
-        "label": "onlook-dev-onlook"
-      },
-      {
-        "id": "openai-symphony",
-        "label": "openai-symphony"
-      },
-      {
-        "id": "obra-superpowers",
-        "label": "obra-superpowers"
-      },
-      {
-        "id": "golutra-golutra",
-        "label": "golutra-golutra"
-      },
-      {
-        "id": "bytedance-ui-tars-desktop",
-        "label": "bytedance-ui-tars-desktop"
-      },
-      {
-        "id": "ruvnet-ruflo",
-        "label": "ruvnet-ruflo"
-      },
-      {
-        "id": "insforge-insforge",
-        "label": "insforge-insforge"
+        "id": "the-wonders-of-ai-we-are-retiring-our-bug-bounty-program",
+        "label": "The Wonders of AI: We Are Retiring Our Bug Bounty Program"
       }
     ],
     "date_bj": "2026-05-15 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-15 21:43:14"
+    "generated_at_bj": "2026-05-15 22:22:22"
   }
 }

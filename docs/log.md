@@ -571,3 +571,7 @@
 
 ## [2026-05-15 21:44] sync v3 | 1 new | pillars: {'capabilities': 1}
 - create: cursing-the-government-does-not-fix-potholes-spray-painting-them-does.md
+
+## [2026-05-15 22:22] sync v3 | 2 new | pillars: {'capabilities': 2}
+- create: the-wonders-of-ai-we-are-retiring-our-bug-bounty-program.md
+- create: runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai.md
