@@ -555,3 +555,8 @@
 - create: details-of-the-daring-airdrop-at-tristan-da-cunha.md
 - create: claude-for-legal.md
 - create: show-hn-glycemicgpt-open-source-ai-powered-diabetes-management.md
+
+## [2026-05-15 18:57] sync v3 | 3 new | pillars: {'capabilities': 2, 'ecosystem': 1}
+- create: show-hn-find-the-best-local-llm-for-your-hardware-ranked-by-benchmarks.md
+- create: uk-sovereign-llm-inference.md
+- create: building-ml-framework-with-rust-and-category-theory.md

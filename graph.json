@@ -3692,22 +3692,6 @@
       "url": "https://github.com/JuliusBrussee/caveman"
     },
     {
-      "id": "show-hn-explore-color-palettes-inspired-by-3000-m",
-      "label": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-      "type": "showhn",
-      "pillar": "ecosystem",
-      "pm_score": 0.45,
-      "tags": [
-        "showhn",
-        "ecosystem"
-      ],
-      "summary": "",
-      "raw_content": "# Show HN: Explore color palettes inspired by 3000 master painter artworks\n\n## 链接\n- 🔗 HN: https://news.ycombinator.com/item?id=48026342\n- 🔗 原文: https://paletteinspiration.com/",
-      "source_type": "showhn",
-      "date": "2026-05-07",
-      "url": "https://paletteinspiration.com/"
-    },
-    {
       "id": "estimating-the-expected-output-of-wide-random-mlps-more-effi",
       "label": "Estimating the expected output of wide random MLPs more efficiently than samplin",
       "type": "paper",
@@ -3866,6 +3850,52 @@
       "source_type": "papers",
       "date": "2026-05-07",
       "url": ""
+    },
+    {
+      "id": "show-hn-explore-color-palettes-inspired-by-3000-m",
+      "label": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+      "type": "showhn",
+      "pillar": "ecosystem",
+      "pm_score": 0.45,
+      "tags": [
+        "showhn",
+        "ecosystem"
+      ],
+      "summary": "",
+      "raw_content": "# Show HN: Explore color palettes inspired by 3000 master painter artworks\n\n## 链接\n- 🔗 HN: https://news.ycombinator.com/item?id=48026342\n- 🔗 原文: https://paletteinspiration.com/",
+      "source_type": "showhn",
+      "date": "2026-05-07",
+      "url": "https://paletteinspiration.com/"
+    },
+    {
+      "id": "uk-sovereign-llm-inference",
+      "label": "UK sovereign LLM inference",
+      "type": "discussion",
+      "pillar": "capabilities",
+      "pm_score": 0.445,
+      "tags": [
+        "hn",
+        "capabilities"
+      ],
+      "summary": "针对英国主权LLM推理的讨论，强调在本地或英国本土部署大模型推理能力，以确保数据主权和隐私合规。技术要点包括自主基础架构、数据不出境、模型本地优化；商业价值在于降低对外部API依赖、减少延迟和成本，并增强合规性；产品创新体现在为政府和企业提供可定制的高安全AI服务。",
+      "raw_content": "针对英国主权LLM推理的讨论，强调在本地或英国本土部署大模型推理能力，以确保数据主权和隐私合规。技术要点包括自主基础架构、数据不出境、模型本地优化；商业价值在于降低对外部API依赖、减少延迟和成本，并增强合规性；产品创新体现在为政府和企业提供可定制的高安全AI服务。",
+      "date": "2026-05-15",
+      "url": "https://relax.ai/docs",
+      "stars": null,
+      "score": 59,
+      "comments": 52,
+      "_concepts": [
+        "Sovereign AI",
+        "LLM Inference",
+        "Data Sovereignty"
+      ],
+      "_entities": [
+        "UK Government"
+      ],
+      "_patterns": [
+        "On-Premise AI",
+        "Local-First AI"
+      ]
     },
     {
       "id": "clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard",
@@ -5440,6 +5470,38 @@
       "url": "https://news.ycombinator.com/item?id=48056804"
     },
     {
+      "id": "show-hn-find-the-best-local-llm-for-your-hardware-ranked-by-benchmarks",
+      "label": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+      "type": "discussion",
+      "pillar": "capabilities",
+      "pm_score": 0.33,
+      "tags": [
+        "hn",
+        "capabilities"
+      ],
+      "summary": "该工具根据用户硬件配置（如GPU、内存）推荐最优的本地大语言模型，并基于基准测试进行排名。技术要点在于自动化硬件-模型匹配，省去手动试错；商业价值体现在降低本地AI部署的门槛，使企业或个人能用有限硬件获得最佳性能；产品创新在于将硬件性能与模型能力动态关联，提供可量化的选择依据。",
+      "raw_content": "该工具根据用户硬件配置（如GPU、内存）推荐最优的本地大语言模型，并基于基准测试进行排名。技术要点在于自动化硬件-模型匹配，省去手动试错；商业价值体现在降低本地AI部署的门槛，使企业或个人能用有限硬件获得最佳性能；产品创新在于将硬件性能与模型能力动态关联，提供可量化的选择依据。",
+      "date": "2026-05-15",
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "stars": null,
+      "score": 32,
+      "comments": 5,
+      "_concepts": [
+        "Local LLM",
+        "Hardware Benchmarking",
+        "Model Selection"
+      ],
+      "_entities": [
+        "Hugging Face",
+        "Llama.cpp",
+        "OpenAI"
+      ],
+      "_patterns": [
+        "Local-First AI",
+        "Benchmark-Driven Selection"
+      ]
+    },
+    {
       "id": "show-hn-adamsreview-better-multi-agent-pr-revie",
       "label": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
       "type": "hn",
@@ -6826,6 +6888,22 @@
       "_patterns": []
     },
     {
+      "id": "almost-orthogonality-in-lp-spaces-a-case-study-with-grok",
+      "label": "Almost-Orthogonality in Lp Spaces: A Case Study with Grok",
+      "type": "paper",
+      "pillar": "capabilities",
+      "pm_score": 0.3,
+      "tags": [
+        "papers",
+        "capabilities"
+      ],
+      "summary": "Carbery proposed the following sharpened form of triangle inequality for many functions: for any $p\\ge 2$ and any finite sequence $(f_j)_j\\subset L^p$ we have \\[ \\Big\\|\\sum_j f_j\\Big\\|_p \\ \\le\\ \\left(\\sup_{j} \\sum_{k} α_{jk}^{\\,c}\\right)^{1/p'} \\Big(\\sum_j \\|f_j\\|_p^p\\Big)^{1/p}, \\] where $c=2$, $1/",
+      "raw_content": "",
+      "source_type": "papers",
+      "date": "2026-05-07",
+      "url": "http://arxiv.org/abs/2605.05192v1"
+    },
+    {
       "id": "snap-says-its-400m-deal-with-perplexity-8216am",
       "label": "Snap says its $400M deal with Perplexity &#8216;amicably ended&#8217;",
       "type": "techcrunch",
@@ -6984,22 +7062,6 @@
       "source_type": "techcrunch",
       "date": "2026-05-07",
       "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/"
-    },
-    {
-      "id": "almost-orthogonality-in-lp-spaces-a-case-study-with-grok",
-      "label": "Almost-Orthogonality in Lp Spaces: A Case Study with Grok",
-      "type": "paper",
-      "pillar": "capabilities",
-      "pm_score": 0.3,
-      "tags": [
-        "papers",
-        "capabilities"
-      ],
-      "summary": "Carbery proposed the following sharpened form of triangle inequality for many functions: for any $p\\ge 2$ and any finite sequence $(f_j)_j\\subset L^p$ we have \\[ \\Big\\|\\sum_j f_j\\Big\\|_p \\ \\le\\ \\left(\\sup_{j} \\sum_{k} α_{jk}^{\\,c}\\right)^{1/p'} \\Big(\\sum_j \\|f_j\\|_p^p\\Big)^{1/p}, \\] where $c=2$, $1/",
-      "raw_content": "",
-      "source_type": "papers",
-      "date": "2026-05-07",
-      "url": "http://arxiv.org/abs/2605.05192v1"
     },
     {
       "id": "rag",
@@ -7233,6 +7295,36 @@
       "source_type": "hn",
       "date": "2026-05-15",
       "url": "https://news.ycombinator.com/item?id=48142650"
+    },
+    {
+      "id": "building-ml-framework-with-rust-and-category-theory",
+      "label": "Building ML framework with Rust and Category Theory",
+      "type": "discussion",
+      "pillar": "ecosystem",
+      "pm_score": 0.26,
+      "tags": [
+        "hn",
+        "ecosystem"
+      ],
+      "summary": "本文探讨了利用Rust语言和范畴论（Category Theory）构建机器学习框架的方法。Rust以其高性能和内存安全著称，而范畴论为函数式编程和抽象代数结构提供理论基础。结合两者，旨在设计更可靠、可组合和可推理的ML系统。对AI产品经理而言，这意味着未来可能出现更健壮、更易维护的底层框架，降低模型部署和集成风险，但当前技术门槛较高，主要影响基础设施层面，而非直接面向用户的功能创新。",
+      "raw_content": "本文探讨了利用Rust语言和范畴论（Category Theory）构建机器学习框架的方法。Rust以其高性能和内存安全著称，而范畴论为函数式编程和抽象代数结构提供理论基础。结合两者，旨在设计更可靠、可组合和可推理的ML系统。对AI产品经理而言，这意味着未来可能出现更健壮、更易维护的底层框架，降低模型部署和集成风险，但当前技术门槛较高，主要影响基础设施层面，而非直接面向用户的功能创新。",
+      "date": "2026-05-15",
+      "url": "https://hghalebi.github.io/category_theory_transformer_rs/",
+      "stars": null,
+      "score": 39,
+      "comments": 12,
+      "_concepts": [
+        "Rust",
+        "Category Theory",
+        "ML Framework"
+      ],
+      "_entities": [
+        "Rust"
+      ],
+      "_patterns": [
+        "Functional Programming in ML",
+        "Compositional AI"
+      ]
     },
     {
       "id": "fine-tuning",
@@ -8441,22 +8533,6 @@
       "url": ""
     },
     {
-      "id": "at-techcrunch-disrupt-2026-all-your-m038a-ques",
-      "label": "At TechCrunch Disrupt 2026, all your M&#038;A questions will be answered",
-      "type": "techcrunch",
-      "pillar": "business",
-      "pm_score": 0.1,
-      "tags": [
-        "techcrunch",
-        "business"
-      ],
-      "summary": "Leaders from Coinbase, M13, and Mignano Law Group talk about how M&#038;A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live.",
-      "raw_content": "# At TechCrunch Disrupt 2026, all your M&#038;A questions will be answered\n\n## 新闻摘要\nLeaders from Coinbase, M13, and Mignano Law Group talk about how M&#038;A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live.\n\n## 链接\n- 🔗 Source: https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/\n- 📅 Published: Wed, 06 May 2026 14:30:00 +0000",
-      "source_type": "techcrunch",
-      "date": "2026-05-07",
-      "url": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/"
-    },
-    {
       "id": "bytedance-ui-tars-desktop",
       "label": "bytedance-ui-tars-desktop",
       "type": "unknown",
@@ -8503,22 +8579,6 @@
       "source_type": "unknown",
       "date": "2026-05-15",
       "url": ""
-    },
-    {
-      "id": "spacex-may-spend-up-to-119b-on-8216terafab82",
-      "label": "SpaceX may spend up to $119B on &#8216;Terafab&#8217; chip factory in Texas",
-      "type": "techcrunch",
-      "pillar": "business",
-      "pm_score": 0.1,
-      "tags": [
-        "techcrunch",
-        "business"
-      ],
-      "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
-      "raw_content": "# SpaceX may spend up to $119B on &#8216;Terafab&#8217; chip factory in Texas\n\n## 新闻摘要\nThe project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.\n\n## 链接\n- 🔗 Source: https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/\n- 📅 Published: Wed, 06 May 2026 17:23:08 +0000",
-      "source_type": "techcrunch",
-      "date": "2026-05-07",
-      "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/"
     },
     {
       "id": "flow-sampling-learning-to-sample-from-unnormalized-densitie",
@@ -8713,20 +8773,6 @@
       "url": ""
     },
     {
-      "id": "ecosystem",
-      "label": "ecosystem",
-      "type": "concept",
-      "pillar": "ecosystem",
-      "pm_score": 0.1,
-      "tags": [
-        "concept"
-      ],
-      "summary": "概念标签: ecosystem",
-      "date": "2026-05-15",
-      "url": "",
-      "raw_content": ""
-    },
-    {
       "id": "capabilities",
       "label": "capabilities",
       "type": "concept",
@@ -8736,20 +8782,6 @@
         "concept"
       ],
       "summary": "概念标签: capabilities",
-      "date": "2026-05-15",
-      "url": "",
-      "raw_content": ""
-    },
-    {
-      "id": "business",
-      "label": "business",
-      "type": "concept",
-      "pillar": "business",
-      "pm_score": 0.1,
-      "tags": [
-        "concept"
-      ],
-      "summary": "概念标签: business",
       "date": "2026-05-15",
       "url": "",
       "raw_content": ""
@@ -8767,9 +8799,370 @@
       "date": "2026-05-15",
       "url": "",
       "raw_content": ""
+    },
+    {
+      "id": "ecosystem",
+      "label": "ecosystem",
+      "type": "concept",
+      "pillar": "ecosystem",
+      "pm_score": 0.1,
+      "tags": [
+        "concept"
+      ],
+      "summary": "概念标签: ecosystem",
+      "date": "2026-05-15",
+      "url": "",
+      "raw_content": ""
+    },
+    {
+      "id": "at-techcrunch-disrupt-2026-all-your-m038a-ques",
+      "label": "At TechCrunch Disrupt 2026, all your M&#038;A questions will be answered",
+      "type": "techcrunch",
+      "pillar": "business",
+      "pm_score": 0.1,
+      "tags": [
+        "techcrunch",
+        "business"
+      ],
+      "summary": "Leaders from Coinbase, M13, and Mignano Law Group talk about how M&#038;A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live.",
+      "raw_content": "# At TechCrunch Disrupt 2026, all your M&#038;A questions will be answered\n\n## 新闻摘要\nLeaders from Coinbase, M13, and Mignano Law Group talk about how M&#038;A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live.\n\n## 链接\n- 🔗 Source: https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/\n- 📅 Published: Wed, 06 May 2026 14:30:00 +0000",
+      "source_type": "techcrunch",
+      "date": "2026-05-07",
+      "url": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/"
+    },
+    {
+      "id": "spacex-may-spend-up-to-119b-on-8216terafab82",
+      "label": "SpaceX may spend up to $119B on &#8216;Terafab&#8217; chip factory in Texas",
+      "type": "techcrunch",
+      "pillar": "business",
+      "pm_score": 0.1,
+      "tags": [
+        "techcrunch",
+        "business"
+      ],
+      "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
+      "raw_content": "# SpaceX may spend up to $119B on &#8216;Terafab&#8217; chip factory in Texas\n\n## 新闻摘要\nThe project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.\n\n## 链接\n- 🔗 Source: https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/\n- 📅 Published: Wed, 06 May 2026 17:23:08 +0000",
+      "source_type": "techcrunch",
+      "date": "2026-05-07",
+      "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/"
+    },
+    {
+      "id": "business",
+      "label": "business",
+      "type": "concept",
+      "pillar": "business",
+      "pm_score": 0.1,
+      "tags": [
+        "concept"
+      ],
+      "summary": "概念标签: business",
+      "date": "2026-05-15",
+      "url": "",
+      "raw_content": ""
     }
   ],
   "edges": [
+    {
+      "source": "design-extract",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "mcp-use-mcp-use",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "onlook-dev-onlook",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "openai-symphony",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "obra-superpowers",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "golutra-golutra",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "bytedance-ui-tars-desktop",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "ruvnet-ruflo",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "insforge-insforge",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "flow-sampling-learning-to-sample-from-unnormalized-densitie",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "almost-orthogonality-in-lp-spaces-a-case-study-with-grok",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "large-scale-high-quality-3d-gaussian-head-reconstruction-fro",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "estimating-the-expected-output-of-wide-random-mlps-more-effi",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "when-life-gives-you-bc-make-q-functions-extracting-q-value",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "geometry-aware-state-space-model-a-new-paradigm-for-whole-s",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "understanding-in-context-learning-for-nonlinear-regression-w",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "taming-outlier-tokens-in-diffusion-transformers",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "grokability-in-five-inequalities",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.125
+    },
+    {
+      "source": "design-conductor-20-an-agent-builds-a-turboquant-inference",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "psk-at-semeval-2026-task-9-multilingual-polarization-detect",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "from-intent-to-execution-composing-agentic-workflows-with-a",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "openseeker-v2-pushing-the-limits-of-search-agents-with-info",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "a-closed-form-adaptive-landmark-kernel-for-certified-point-c",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "redefining-ai-red-teaming-in-the-agentic-era-from-weeks-to",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "symptomai-towards-a-conversational-ai-agent-for-everyday-sy",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "physics-grounded-multi-agent-architecture-for-traceable-ris",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "sharp-capacity-thresholds-in-linear-associative-memory-from",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "enhanced-3d-brain-tumor-segmentation-using-assorted-precisio",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "the-first-token-knows-single-decode-confidence-for-hallucin",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "an-agent-oriented-pluggable-experience-rag-skill-for-experie",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "conditional-diffusion-sampling",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "safety-and-accuracy-follow-different-scaling-laws-in-clinica",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "longseeker-elastic-context-orchestration-for-long-horizon-s",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "show-hn-find-the-best-local-llm-for-your-hardware-ranked-by-benchmarks",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "uk-sovereign-llm-inference",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "building-ml-framework-with-rust-and-category-theory",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.13
+    },
+    {
+      "source": "design-extract",
+      "target": "mcp-use-mcp-use",
+      "relation": "same_pillar:capabilities",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "mcp-use-mcp-use",
+      "target": "onlook-dev-onlook",
+      "relation": "same_pillar:capabilities",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "onlook-dev-onlook",
+      "target": "openai-symphony",
+      "relation": "same_pillar:capabilities",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "geometry-aware-state-space-model-a-new-paradigm-for-whole-s",
+      "target": "design-conductor-20-an-agent-builds-a-turboquant-inference",
+      "relation": "same_pillar:patterns",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "design-conductor-20-an-agent-builds-a-turboquant-inference",
+      "target": "sharp-capacity-thresholds-in-linear-associative-memory-from",
+      "relation": "same_pillar:patterns",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "sharp-capacity-thresholds-in-linear-associative-memory-from",
+      "target": "longseeker-elastic-context-orchestration-for-long-horizon-s",
+      "relation": "same_pillar:patterns",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "building-ml-framework-with-rust-and-category-theory",
+      "target": "ecosystem",
+      "relation": "same_pillar:ecosystem",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
     {
       "source": "microsoftsemantic-kernel",
       "target": "ecosystem",
@@ -139230,7 +139623,7 @@
       "relation": "belongs_to"
     }
   ],
-  "generated_at": "2026-05-15T18:01:59.808124",
+  "generated_at": "2026-05-15T18:54:52.551943",
   "generator": "ai-radar-explorer-v3",
   "schema_version": "4-pillar-pm-focused"
 }

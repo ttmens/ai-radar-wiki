@@ -1,0 +1,26 @@
+{
+  "title": "UK sovereign LLM inference",
+  "score": 59,
+  "comments": 52,
+  "url": "https://relax.ai/docs",
+  "hn_url": "https://news.ycombinator.com/item?id=48146424",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference"
+  ],
+  "summary_cn": "针对英国主权LLM推理的讨论，强调在本地或英国本土部署大模型推理能力，以确保数据主权和隐私合规。技术要点包括自主基础架构、数据不出境、模型本地优化；商业价值在于降低对外部API依赖、减少延迟和成本，并增强合规性；产品创新体现在为政府和企业提供可定制的高安全AI服务。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Sovereign AI",
+    "LLM Inference",
+    "Data Sovereignty"
+  ],
+  "entities": [
+    "UK Government"
+  ],
+  "patterns": [
+    "On-Premise AI",
+    "Local-First AI"
+  ]
+}

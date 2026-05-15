@@ -1,7 +1,7 @@
 {
   "date": "2026-05-15",
-  "generated_at": "2026-05-15T18:21:27.054959+08:00",
-  "item_count": 39,
+  "generated_at": "2026-05-15T18:57:53.351330+08:00",
+  "item_count": 53,
   "items": [
     {
       "id": "codex-is-now-in-the-chatgpt-mobile-app",
@@ -224,6 +224,19 @@
       "date": "2026-05-15"
     },
     {
+      "id": "uk-sovereign-llm-inference",
+      "label": "UK sovereign LLM inference",
+      "summary": "针对英国主权LLM推理的讨论，强调在本地或英国本土部署大模型推理能力，以确保数据主权和隐私合规。技术要点包括自主基础架构、数据不出境、模型本地优化；商业价值在于降低对外部API依赖、减少延迟和成本，并增强合规性；产品创新体现在为政府和企业提供可定制的高安全AI服务。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "discussion",
+      "url": "https://relax.ai/docs",
+      "date": "2026-05-15",
+      "score": 59,
+      "comments": 52,
+      "source_type": "discussion"
+    },
+    {
       "id": "clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard",
       "label": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
       "summary": "Clawdmeter 是一款开源桌面小工具，用于将 Claude Code 的使用统计数据（如 API 调用量、上下文消耗等）转换为实时仪表盘，帮助 AI 编程重度用户直观监控自身使用行为。该项目面向效率优化场景，通过本地可视化降低依赖云端分析的延迟与隐私风险，同时为 AI 产品经理提供用户行为洞察的轻量级参考工具。技术亮点在于轻量级前端与 Claude Code 接口的集成，商业价值体现在赋能开发者自助管理 AI 资源成本，属于开发者工具生态中的创新尝试。",
@@ -367,6 +380,19 @@
       "date": "2026-05-15"
     },
     {
+      "id": "show-hn-find-the-best-local-llm-for-your-hardware-ranked-by-benchmarks",
+      "label": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+      "summary": "该工具根据用户硬件配置（如GPU、内存）推荐最优的本地大语言模型，并基于基准测试进行排名。技术要点在于自动化硬件-模型匹配，省去手动试错；商业价值体现在降低本地AI部署的门槛，使企业或个人能用有限硬件获得最佳性能；产品创新在于将硬件性能与模型能力动态关联，提供可量化的选择依据。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "discussion",
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "date": "2026-05-15",
+      "score": 32,
+      "comments": 5,
+      "source_type": "discussion"
+    },
+    {
       "id": "show-hn-glycemicgpt-open-source-ai-powered-diabetes-management",
       "label": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
       "summary": "GlycemicGPT 是一个开源的 AI 糖尿病管理工具，利用 GPT 模型分析血糖数据、饮食和运动信息，提供个性化建议。其产品创新在于将大语言模型应用于慢性病管理，通过开源降低使用门槛，促进社区协作优化模型。技术上突出了实时数据处理与用户交互的整合，具有潜在商业价值，可对接可穿戴设备或医疗平台，形成数据闭环。",
@@ -431,10 +457,144 @@
       "source_type": "papers",
       "url": "",
       "date": "2026-05-15"
+    },
+    {
+      "id": "safari-and-firefox-change-how-big-sites-render-based-on-the-domain",
+      "label": "Safari and Firefox change how big sites render based on the domain",
+      "summary": "Safari 和 Firefox 浏览器正在改变对大网站的渲染方式，其核心是根据域名采取不同的渲染策略。这一变化主要涉及隐私保护、反跟踪和性能优化，可能通过限制第三方脚本、增强隔离性或调整渲染优先级来降低大型网站的数据追踪能力。对 AI 产品经理而言，这影响依赖浏览器行为数据的产品（如推荐系统、用户分析），需要关注数据采集的准确性变化。同时，浏览器厂商的策略差异化可能推动 Web 端的 AI 应用适配新的渲染环境，促使产品设计转向更尊重隐私的前端处理模式。",
+      "pm_score": 0.295,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48136949",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "llm-policy-for-rust-compiler",
+      "label": "LLM Policy for Rust Compiler",
+      "summary": "该技术讨论围绕将大语言模型（LLM）策略集成到 Rust 编译器中，旨在利用 LLM 的能力辅助代码编译、错误诊断与类型推断。这一方向能够显著降低 Rust 语言的学习门槛，减少编译错误率，提升开发效率。对于 AI 产品经理而言，该思路展示了将生成式 AI 嵌入底层开发工具链的创新机会，通过编译器层面的智能辅助形成差异化产品价值，并可复用至其他语言或平台。",
+      "pm_score": 0.295,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48142650",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "building-ml-framework-with-rust-and-category-theory",
+      "label": "Building ML framework with Rust and Category Theory",
+      "summary": "本文探讨了利用Rust语言和范畴论（Category Theory）构建机器学习框架的方法。Rust以其高性能和内存安全著称，而范畴论为函数式编程和抽象代数结构提供理论基础。结合两者，旨在设计更可靠、可组合和可推理的ML系统。对AI产品经理而言，这意味着未来可能出现更健壮、更易维护的底层框架，降低模型部署和集成风险，但当前技术门槛较高，主要影响基础设施层面，而非直接面向用户的功能创新。",
+      "pm_score": 0.26,
+      "pillar": "ecosystem",
+      "type": "discussion",
+      "url": "https://hghalebi.github.io/category_theory_transformer_rs/",
+      "date": "2026-05-15",
+      "score": 39,
+      "comments": 12,
+      "source_type": "discussion"
+    },
+    {
+      "id": "design-extract",
+      "label": "design-extract",
+      "summary": "",
+      "pm_score": 0.1,
+      "pillar": "capabilities",
+      "type": "unknown",
+      "source_type": "unknown",
+      "url": "",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "mcp-use-mcp-use",
+      "label": "mcp-use-mcp-use",
+      "summary": "",
+      "pm_score": 0.1,
+      "pillar": "capabilities",
+      "type": "unknown",
+      "source_type": "unknown",
+      "url": "",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "onlook-dev-onlook",
+      "label": "onlook-dev-onlook",
+      "summary": "",
+      "pm_score": 0.1,
+      "pillar": "capabilities",
+      "type": "unknown",
+      "source_type": "unknown",
+      "url": "",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "openai-symphony",
+      "label": "openai-symphony",
+      "summary": "",
+      "pm_score": 0.1,
+      "pillar": "capabilities",
+      "type": "unknown",
+      "source_type": "unknown",
+      "url": "",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "obra-superpowers",
+      "label": "obra-superpowers",
+      "summary": "",
+      "pm_score": 0.1,
+      "pillar": "capabilities",
+      "type": "unknown",
+      "source_type": "unknown",
+      "url": "",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "golutra-golutra",
+      "label": "golutra-golutra",
+      "summary": "",
+      "pm_score": 0.1,
+      "pillar": "capabilities",
+      "type": "unknown",
+      "source_type": "unknown",
+      "url": "",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "bytedance-ui-tars-desktop",
+      "label": "bytedance-ui-tars-desktop",
+      "summary": "",
+      "pm_score": 0.1,
+      "pillar": "capabilities",
+      "type": "unknown",
+      "source_type": "unknown",
+      "url": "",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "ruvnet-ruflo",
+      "label": "ruvnet-ruflo",
+      "summary": "",
+      "pm_score": 0.1,
+      "pillar": "capabilities",
+      "type": "unknown",
+      "source_type": "unknown",
+      "url": "",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "insforge-insforge",
+      "label": "insforge-insforge",
+      "summary": "",
+      "pm_score": 0.1,
+      "pillar": "capabilities",
+      "type": "unknown",
+      "source_type": "unknown",
+      "url": "",
+      "date": "2026-05-15"
     }
   ],
   "graph_totals": {
-    "real_nodes": 522,
-    "edges": 18637
+    "real_nodes": 525,
+    "edges": 18680
   }
 }
