@@ -340,7 +340,7 @@
         html += escapeHtml(ins.pillar || pillarZh(pk)) + "</span></summary>";
         html += '<div class="insight-acc-body">';
         html += escapeHtml(ins.insight || "");
-        var evList = ins.evidence || [];
+        var evList = (ins.evidence || []).filter(function(ev) { return (ev.score || 0) >= 0.3; });
         if (evList.length) {
           html += '<div class="evidence-lines">';
           evList.slice(0, 8).forEach(function (ev, ei) {
@@ -440,7 +440,7 @@
           items = (graph.nodes || []).filter(function (n) {
             if (n.type === "concept") return false;
             var d = n.date || "";
-            return refDate ? String(d).startsWith(refDate) : String(d).length >= 10;
+            return (refDate ? String(d).startsWith(refDate) : String(d).length >= 10) && (n.pm_score || 0) >= 0.3;
           });
           items.sort(function (a, b) {
             return Number(b.pm_score || 0) - Number(a.pm_score || 0);

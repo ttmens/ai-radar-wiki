@@ -1915,7 +1915,20 @@
     });
     syncHeaderHeight();
 
-    const data = JSON.parse(document.getElementById('graph-data').textContent);
+    const raw = JSON.parse(document.getElementById('graph-data').textContent);
+    // 过滤低价值节点 (PM Score < 0.3)
+    const nodeSet = new Set();
+    const data = {
+      nodes: raw.nodes.filter(n => {
+        const keep = (n.pm_score || 0) >= 0.3;
+        if (keep) nodeSet.add(n.id);
+        return keep;
+      }),
+      edges: raw.edges.filter(e => nodeSet.has(e.source) && nodeSet.has(e.target)),
+      generated_at: raw.generated_at,
+      generator: raw.generator,
+      schema_version: raw.schema_version
+    };
     const pillarColors = { capabilities: '#58a6ff', patterns: '#3fb950', ecosystem: '#a371f7', business: '#f0883e', unknown: '#8b949e' };
     const pillarNames = { capabilities: '🤖 技术能力', patterns: '📱 产品模式', ecosystem: '🔧 工具生态', business: '💰 商业趋势', unknown: '未分类' };
     const pillarKeys = ['capabilities', 'patterns', 'ecosystem', 'business'];
