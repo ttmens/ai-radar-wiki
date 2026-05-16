@@ -1,0 +1,21 @@
+{
+  "title": "My Favorite Bugs: Invalid Surrogate Pairs",
+  "score": 34,
+  "comments": 14,
+  "url": "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/",
+  "hn_url": "https://news.ycombinator.com/item?id=48159790",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "文章讨论了无效代理对（Invalid Surrogate Pairs）这一Unicode编码Bug，常见于AI模型处理多字节字符时的数据错误。技术要点包括代理对产生原因（高位/低位替代组合错误）及对tokenizer和文本生成的影响。商业价值上，这类Bug可能导致AI产品在特定语言（如Emoji、日韩汉字）输出乱码或错误，影响用户体验和跨国部署的准确性。产品经理需关注数据预处理阶段清理无效代理对，并测试模型对复杂文本的稳定性。",
+  "pm_relevance": 6,
+  "concepts": [
+    "Unicode编码",
+    "数据清洗",
+    "字符处理"
+  ],
+  "entities": [],
+  "patterns": [
+    "Data Quality Pipeline"
+  ]
+}

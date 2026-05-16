@@ -1,0 +1,20 @@
+{
+  "title": "Moving away from Tailwind, and learning to structure my CSS",
+  "score": 155,
+  "comments": 82,
+  "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+  "hn_url": "https://news.ycombinator.com/item?id=48158400",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "本文讨论从Tailwind CSS转向结构化CSS的实践，强调其带来的代码可维护性和可扩展性提升。虽然主题属于前端技术，但对AI产品经理的启示在于，类似地，AI模型或数据管道的构建也应注重结构化和标准化，避免过度依赖黑盒工具，确保长期可迭代性。商业价值在于降低技术债务，提升团队协作效率。",
+  "pm_relevance": 3,
+  "concepts": [
+    "CSS架构",
+    "代码可维护性"
+  ],
+  "entities": [],
+  "patterns": [
+    "模块化CSS"
+  ]
+}

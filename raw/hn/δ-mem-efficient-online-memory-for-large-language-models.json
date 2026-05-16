@@ -1,0 +1,24 @@
+{
+  "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
+  "score": 130,
+  "comments": 29,
+  "url": "https://arxiv.org/abs/2605.12357",
+  "hn_url": "https://news.ycombinator.com/item?id=48158506",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "memory"
+  ],
+  "summary_cn": "Δ-Mem 提出了一种高效的在线记忆机制，用于增强大型语言模型（LLM）的长期上下文保持能力，通过增量更新而非全量重计算来降低显存和计算开销。该技术解决了 LLM 在对话、知识追踪等场景中记忆持久化的瓶颈，使得模型能够在不损失性能的情况下持续学习新信息。对于产品经理，这意味着可以构建更智能的长期记忆型 AI 助手，提升用户粘性和个性化体验，同时降低部署成本。其创新点在于兼顾效率与准确性，为在线学习模式开辟了新路径。",
+  "pm_relevance": 8,
+  "concepts": [
+    "LLM 在线记忆",
+    "增量记忆更新",
+    "长期上下文管理"
+  ],
+  "entities": [],
+  "patterns": [
+    "Memory Pattern",
+    "Online Learning for LLMs"
+  ]
+}

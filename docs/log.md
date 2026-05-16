@@ -596,3 +596,12 @@
 ## [2026-05-16 18:01] sync v3 | 2 new | pillars: {'capabilities': 2}
 - create: frontier-ai-has-broken-the-open-ctf-format.md
 - create: openai-is-connecting-chatgpt-to-bank-accounts-via-plaid.md
+
+## [2026-05-17 00:02] sync v3 | 7 new | pillars: {'capabilities': 6, 'patterns': 1}
+- create: sana-wm-a-26b-open-source-world-model-for-1-minute-720p-video.md
+- create: moving-away-from-tailwind-and-learning-to-structure-my-css.md
+- create: δ-mem-efficient-online-memory-for-large-language-models.md
+- create: my-favorite-bugs-invalid-surrogate-pairs.md
+- create: deepseek-v4-flash-means-llm-steering-is-interesting-again.md
+- create: gaining-control-of-every-projector-and-camera-on-campus.md
+- create: openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy.md

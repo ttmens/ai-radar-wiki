@@ -1,0 +1,108 @@
+{
+  "daily_summary": {
+    "date": "2026-05-17",
+    "headline": "今日 AI 情报 · 2026-05-17",
+    "overview": "AI系统可控性与平台化整合成为核心趋势，世界模型与记忆机制突破带来新能力。",
+    "narratives": [
+      {
+        "title": "AI从生成走向自主操作与控制",
+        "body": "开源世界模型SANA-WM实现分钟级高清视频生成，DeepSeek-V4-Flash重新激活LLM引导技术，校园设备集中控制案例展现AI对物理世界的操作潜力——三者共同指向AI从被动内容生成向主动环境控制与交互演进。对产品经理而言，这意味着需要思考如何将AI的“理解”转化为“执行”，并设计多模态控制接口。",
+        "type": "paradigm_shift",
+        "pillar_key": "capabilities"
+      },
+      {
+        "title": "AI记忆持久化与在线学习成为产品新基线",
+        "body": "Δ-Mem提出高效在线记忆机制，让LLM能持续学习而不遗忘，解决了长期对话、个性化助手等场景的关键瓶颈。记忆能力正从实验性功能走向产品标配，未来AI产品的竞争力将取决于能否记住用户偏好、上下文并动态调整行为。",
+        "type": "maturation",
+        "pillar_key": "patterns"
+      },
+      {
+        "title": "AI平台化整合加速，统一体验与开发者生态",
+        "body": "OpenAI联合创始人回归产品战略并推动ChatGPT与Codex整合，标志着从单一模型能力向综合开发平台演进。平台化将降低开发者门槛、实现多模态场景闭环，同时也意味着竞争焦点从模型性能转向生态粘性与体验一致性。",
+        "type": "validation",
+        "pillar_key": "ecosystem"
+      }
+    ],
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI从生成走向自主操作与控制",
+        "insight": "AI从生成走向自主操作与控制。该方向的具体信号：SANA-WM以26亿参数开源世界模型实现1分钟720p视频生成，展示了AI对物理规律的理解与预测能力；DeepSeek-V4-Flash使LLM引导技术重获关注，开发者可更精准控制模型输出；校园投影仪与摄像头集中控制案例则表明AI对物理设备的管理正从人力转向自动化。",
+        "evidence": [
+          {
+            "id": "sana-wm-a-26b-open-source-world-model-for-1-minute-720p-video",
+            "title": "SANA-WM: 26B开源世界模型，1分钟720p视频生成",
+            "score": 0.56
+          },
+          {
+            "id": "deepseek-v4-flash-means-llm-steering-is-interesting-again",
+            "title": "DeepSeek-V4-Flash重燃LLM引导技术",
+            "score": 0.33
+          }
+        ]
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI记忆持久化与在线学习成为产品新基线",
+        "insight": "AI记忆持久化与在线学习成为产品新基线。该方向的具体信号：Δ-Mem通过增量更新实现高效在线记忆，显著降低显存开销，使得LLM在对话、知识追踪等场景中可持久化学习而不失效率。这将推动个性化AI助手从无状态对话转向有状态、可进化的产品形态。",
+        "evidence": [
+          {
+            "id": "δ-mem-efficient-online-memory-for-large-language-models",
+            "title": "Δ-Mem: 高效在线记忆机制增强LLM长期上下文",
+            "score": 0.48
+          }
+        ]
+      },
+      {
+        "pillar": "🌐 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "AI平台化整合加速，统一体验与开发者生态",
+        "insight": "AI平台化整合加速，统一体验与开发者生态。该方向的具体信号：OpenAI联合创始人布罗克曼重新掌管产品战略，推动ChatGPT与Codex整合，旨在打造统一多模态AI平台。此举将通用对话与代码生成深度融合，提升开发者效率，预示未来AI产品更注重功能集成与场景闭环。",
+        "evidence": [
+          {
+            "id": "openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy",
+            "title": "OpenAI联合创始人布罗克曼重新掌管产品战略，推动ChatGPT与Codex整合",
+            "score": 0.48
+          }
+        ]
+      }
+    ],
+    "stats": "技术能力: 6 | 产品模式: 1 | 工具生态: 0 | 商业趋势: 0",
+    "total_items": 7,
+    "high_value_count": 6,
+    "all_today_ids": [
+      {
+        "id": "sana-wm-a-26b-open-source-world-model-for-1-minute-720p-video",
+        "label": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video"
+      },
+      {
+        "id": "δ-mem-efficient-online-memory-for-large-language-models",
+        "label": "Δ-Mem: Efficient Online Memory for Large Language Models"
+      },
+      {
+        "id": "openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy",
+        "label": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy"
+      },
+      {
+        "id": "gaining-control-of-every-projector-and-camera-on-campus",
+        "label": "Gaining control of every projector and camera on campus"
+      },
+      {
+        "id": "moving-away-from-tailwind-and-learning-to-structure-my-css",
+        "label": "Moving away from Tailwind, and learning to structure my CSS"
+      },
+      {
+        "id": "deepseek-v4-flash-means-llm-steering-is-interesting-again",
+        "label": "DeepSeek-V4-Flash means LLM steering is interesting again"
+      },
+      {
+        "id": "my-favorite-bugs-invalid-surrogate-pairs",
+        "label": "My Favorite Bugs: Invalid Surrogate Pairs"
+      }
+    ],
+    "date_bj": "2026-05-17 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-05-17 00:02:09"
+  }
+}

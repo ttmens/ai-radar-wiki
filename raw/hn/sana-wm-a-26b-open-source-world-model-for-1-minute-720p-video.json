@@ -1,0 +1,24 @@
+{
+  "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+  "score": 134,
+  "comments": 60,
+  "url": "https://nvlabs.github.io/Sana/WM/",
+  "hn_url": "https://news.ycombinator.com/item?id=48159445",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "SANA-WM是一个拥有26亿参数的开源世界模型，能够生成长达1分钟、720p分辨率的视频。它通过学习视频帧间的物理规律和动态变化，实现高质量的视频预测与生成。该模型开放源代码，降低了世界模型技术的使用门槛，对游戏开发、影视制作、仿真模拟等领域的AI产品创新具有重要商业价值。产品经理可关注其长视频生成能力与开源生态带来的应用潜力，未来可能结合交互式内容创作或自动驾驶模拟。",
+  "pm_relevance": 9,
+  "concepts": [
+    "World Model",
+    "Video Generation",
+    "Open-Source AI"
+  ],
+  "entities": [
+    "SANA-WM"
+  ],
+  "patterns": [
+    "World Model Pattern",
+    "Generative Video"
+  ]
+}
