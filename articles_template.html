@@ -266,49 +266,6 @@
     border-radius: 0;
   }
 
-  /* Share button */
-  .share-link-btn {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    margin: 12px auto 16px;
-    padding: 8px 16px;
-    background: var(--surface);
-    border: 1px solid var(--border-strong);
-    border-radius: 8px;
-    font-size: 13px;
-    font-weight: 500;
-    color: var(--accent);
-    cursor: pointer;
-    transition: all 0.15s;
-    -webkit-tap-highlight-color: transparent;
-    touch-action: manipulation;
-  }
-  .share-link-btn:hover { background: var(--accent-soft); border-color: rgba(255,56,92,0.2); }
-  .share-link-btn:active { transform: scale(0.98); }
-
-  /* Toast notification */
-  .share-toast {
-    position: fixed;
-    bottom: 24px;
-    left: 50%;
-    transform: translateX(-50%) translateY(20px);
-    background: rgba(26,26,26,0.92);
-    color: #fff;
-    padding: 10px 20px;
-    border-radius: 8px;
-    font-size: 13px;
-    font-weight: 500;
-    opacity: 0;
-    transition: all 0.25s ease;
-    z-index: 9999;
-    pointer-events: none;
-  }
-  .share-toast.show {
-    opacity: 1;
-    transform: translateX(-50%) translateY(0);
-  }
-
   /* ===== Mobile Responsive ===== */
   @media (max-width: 900px) {
     .app {
@@ -575,20 +532,6 @@ function escapeHtml(text) {
   const div = document.createElement('div');
   div.textContent = text;
   return div.innerHTML;
-}
-
-function showToast(msg) {
-  var existing = document.querySelector('.share-toast');
-  if (existing) existing.remove();
-  var toast = document.createElement('div');
-  toast.className = 'share-toast';
-  toast.textContent = msg;
-  document.body.appendChild(toast);
-  requestAnimationFrame(function() { toast.classList.add('show'); });
-  setTimeout(function() {
-    toast.classList.remove('show');
-    setTimeout(function() { if (toast.parentNode) toast.remove(); }, 300);
-  }, 2000);
 }
 
 // Check hash on page load for direct linking
