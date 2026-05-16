@@ -1,7 +1,7 @@
 {
   "date": "2026-05-16",
-  "generated_at": "2026-05-16T06:06:07.818157+08:00",
-  "item_count": 10,
+  "generated_at": "2026-05-16T12:02:04.373243+08:00",
+  "item_count": 11,
   "items": [
     {
       "id": "bun-rust-rewrite-codebase-fails-basic-miri-checks-allows-for-ub-in-safe-rust",
@@ -112,10 +112,21 @@
       "source_type": "showhn",
       "url": "https://github.com/sleuth-io/sx",
       "date": "2026-05-16"
+    },
+    {
+      "id": "the-main-thing-about-p2p-meth-is-that-theres-so-much-of-it-2021",
+      "label": "The main thing about P2P meth is that there's so much of it (2021)",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48155324",
+      "date": "2026-05-16"
     }
   ],
   "graph_totals": {
-    "real_nodes": 533,
-    "edges": 22361
+    "real_nodes": 534,
+    "edges": 22896
   }
 }

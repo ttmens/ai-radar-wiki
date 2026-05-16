@@ -589,3 +589,6 @@
 - create: silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-p.md
 - create: openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts.md
 - create: show-hn-sx-an-open-source-package-manager-for-ai-skills-mcps-and-commands.md
+
+## [2026-05-16 12:02] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: the-main-thing-about-p2p-meth-is-that-theres-so-much-of-it-2021.md
