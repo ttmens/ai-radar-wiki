@@ -634,7 +634,8 @@ window.addEventListener('popstate', function(e) {
 
 // Init
 renderArticleList();
-initFromHash();
+// Defer hash check to ensure DOM is fully ready
+requestAnimationFrame(function() { initFromHash(); });
 </script>
 </body>
 </html>
