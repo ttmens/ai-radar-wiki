@@ -1684,7 +1684,20 @@ def build_graph_json(items):
     # Sort final: high score first
     all_nodes.sort(key=lambda n: n.get("pm_score", 0), reverse=True)
 
-    graph_data = {"nodes": all_nodes, "edges": all_edges, "generated_at": datetime.now().isoformat(), "generator": "ai-radar-explorer-v3", "schema_version": "4-pillar-pm-focused"}
+    graph_data = {
+        "nodes": all_nodes,
+        "edges": all_edges,
+        "generated_at": datetime.now().isoformat(),
+        "generator": "ai-radar-explorer-v3",
+        "schema_version": "4-pillar-pm-focused",
+        "metadata": {
+            "last_updated": datetime.now().isoformat(),
+            "pipeline_version": "v3.14.0",
+            "total_nodes": len(all_nodes),
+            "total_edges": len(all_edges),
+            "sources": list(set(n.get("source_type", "unknown") for n in all_nodes if n.get("source_type"))),
+        },
+    }
     with open(f"{WIKI_DIR}/graph.json", "w", encoding="utf-8", newline="\n") as f:
         json.dump(graph_data, f, indent=2, ensure_ascii=False)
     return graph_data
