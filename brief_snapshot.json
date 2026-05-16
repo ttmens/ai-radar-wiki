@@ -1,7 +1,7 @@
 {
   "date": "2026-05-16",
-  "generated_at": "2026-05-16T12:02:04.373243+08:00",
-  "item_count": 11,
+  "generated_at": "2026-05-16T18:01:40.315043+08:00",
+  "item_count": 13,
   "items": [
     {
       "id": "bun-rust-rewrite-codebase-fails-basic-miri-checks-allows-for-ub-in-safe-rust",
@@ -15,6 +15,17 @@
       "date": "2026-05-16"
     },
     {
+      "id": "openai-is-connecting-chatgpt-to-bank-accounts-via-plaid",
+      "label": "OpenAI is connecting ChatGPT to bank accounts via Plaid",
+      "summary": "OpenAI通过金融数据平台Plaid，将ChatGPT与银行账户直接连接，实现用户授权下的账户余额、交易记录等金融信息实时获取。此举使ChatGPT从通用对话助手向金融场景扩展，用户可自然语言查询支出、管理预算或获取个性化理财建议。技术层面依赖Plaid安全API实现银行数据对接，商业价值在于撬动万亿级个人金融服务市场，产品创新体现为将AI交互嵌入高频资金管理场景。对产品经理而言，需关注数据隐私合规、模型对结构化金融数据的理解能力以及跨平台集成体验。",
+      "pm_score": 0.57,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48150723",
+      "date": "2026-05-16"
+    },
+    {
       "id": "mitchellh-i-strongly-believe-there-are-entire-companies-now-under-ai-psychosis",
       "label": "Mitchellh – I strongly believe there are entire companies now under AI psychosis",
       "summary": "Mitchellh（HashiCorp创始人）指出当前许多公司陷入'AI精神病'状态，即盲目追捧AI而忽视实际价值和理性评估。产品经理应警惕过度炒作，避免为AI而AI，需回归用户需求与商业本质。技术要点不在于某项能力突破，而在于识别AI的适用边界；商业价值体现在降低试错成本、聚焦真正有效的应用场景；产品创新应基于务实判断，而非追逐热点。该观点对AI产品战略制定具有警示意义。",
@@ -23,6 +34,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48153379",
+      "date": "2026-05-16"
+    },
+    {
+      "id": "frontier-ai-has-broken-the-open-ctf-format",
+      "label": "Frontier AI has broken the open CTF format",
+      "summary": "前沿AI在公开的CTF（夺旗赛）格式中取得突破，可能意味着AI在复杂安全挑战、渗透测试或漏洞挖掘方面的能力已超越传统基准。这对产品经理的启示：AI安全能力正从辅助工具转向自主攻防，可应用于自动化漏洞赏金、红队演练等安全产品创新，同时需重新评估现有安全测试标准。商业价值在于降低企业安全运维成本，加速威胁响应。",
+      "pm_score": 0.55,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48157559",
       "date": "2026-05-16"
     },
     {
@@ -126,7 +148,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 534,
-    "edges": 22896
+    "real_nodes": 536,
+    "edges": 23433
   }
 }

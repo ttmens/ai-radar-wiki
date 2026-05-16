@@ -592,3 +592,7 @@
 
 ## [2026-05-16 12:02] sync v3 | 1 new | pillars: {'capabilities': 1}
 - create: the-main-thing-about-p2p-meth-is-that-theres-so-much-of-it-2021.md
+
+## [2026-05-16 18:01] sync v3 | 2 new | pillars: {'capabilities': 2}
+- create: frontier-ai-has-broken-the-open-ctf-format.md
+- create: openai-is-connecting-chatgpt-to-bank-accounts-via-plaid.md

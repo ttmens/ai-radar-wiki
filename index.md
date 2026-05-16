@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-16 | Total pages: 499
+> Last updated: 2026-05-16 | Total pages: 501
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -30,6 +30,7 @@
 - [[details-of-the-daring-airdrop-at-tristan-da-cunha.md]] Details of the Daring Airdrop at Tristan Da Cunha `pillar:capabilities` `score:0.305`
 - [[digg-tries-again-this-time-as-an-ai-news-aggregat.md]] Digg tries again, this time as an AI news aggregator `pillar:capabilities` `score:0.305`
 - [[docling-projectdocling.md]] docling-project/docling `pillar:capabilities` `score:0.615`
+- [[frontier-ai-has-broken-the-open-ctf-format.md]] Frontier AI has broken the open CTF format `pillar:capabilities` `score:0.55`
 - [[geeeekexplorernano-vllm.md]] GeeeekExplorer/nano-vllm `pillar:capabilities` `score:0.58`
 - [[gemini-api-file-search-is-now-multimodal.md]] Gemini API File Search is now multimodal `pillar:capabilities` `score:0.38`
 - [[google-ai-edgemediapipe.md]] google-ai-edge/mediapipe `pillar:capabilities` `score:0.615`
@@ -65,6 +66,7 @@
 - [[mlfoundationsopen_clip.md]] mlfoundations/open_clip `pillar:capabilities` `score:0.615`
 - [[mudlerlocalai.md]] mudler/LocalAI `pillar:capabilities` `score:0.405`
 - [[ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts.md]] Ontario auditors find doctors' AI note takers routinely blow basic facts `pillar:capabilities` `score:0.565`
+- [[openai-is-connecting-chatgpt-to-bank-accounts-via-plaid.md]] OpenAI is connecting ChatGPT to bank accounts via Plaid `pillar:capabilities` `score:0.57`
 - [[openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts.md]] OpenAI launches ChatGPT for personal finance, will let you connect bank accounts `pillar:capabilities` `score:0.48`
 - [[overseas-fakers-using-ai-videos-to-push-a-narrative-of-uk-decline-bbc-finds.md]] Overseas fakers using AI videos to push a narrative of UK decline, BBC finds `pillar:capabilities` `score:0.38`
 - [[oxcaml-in-space.md]] O(x)Caml in Space `pillar:capabilities` `score:0.275`
