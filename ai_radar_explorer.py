@@ -1272,8 +1272,8 @@ def _resolve_paper_url(node_id, label=""):
                 raw = json.load(f)
             if raw.get("title") and slugify(raw["title"]) == node_id:
                 return raw.get("url", "")
-        except:
-            pass
+        except Exception:
+            pass  # Skip malformed raw paper files silently
     # 2. Try to extract arxiv ID from label/title
     arxiv_match = re.search(r'(\d{4}\.\d{4,7}(?:v\d+)?)', label)
     if arxiv_match:
@@ -1318,7 +1318,7 @@ def build_graph_json(items):
                 m_sources = re.search(r'^sources:\s*\["raw/(\w+)/', content, re.MULTILINE)
                 m_created = re.search(r'^created:\s*(\d{4}-\d{2}-\d{2})', content, re.MULTILINE)
                 m_updated = re.search(r'^updated:\s*(\d{4}-\d{2}-\d{2})', content, re.MULTILINE)
-                m_url = re.search(r'^- 🔗 (链接|Source|HN 讨论|原文):\s*(.+)$', content, re.MULTILINE)
+                m_url = re.search(r'^- (?:🔗 (?:链接|Source|HN 讨论|原文)|📄 arXiv|🔗 Product Hunt):\s*(.+)$', content, re.MULTILINE)
 
                 node_id = fname.replace(".md", "")
                 label = m_title.group(1).strip() if m_title else node_id
@@ -1327,11 +1327,15 @@ def build_graph_json(items):
                 pm_score = float(m_score.group(1)) if m_score else 0.1
                 source_type = m_sources.group(1) if m_sources else "unknown"
                 node_date = m_updated.group(1) if m_updated else (m_created.group(1) if m_created else "")
-                node_url = m_url.group(2).strip() if m_url else ""
+                node_url = m_url.group(1).strip() if m_url else ""
 
                 # Skip low-value concept nodes (source tags, not real concepts)
                 low_value_labels = {"papers", "techcrunch", "hn", "showhn", "github", "concept", "unknown", "product hunt"}
                 if node_type == "concept" and label.lower() in low_value_labels:
+                    continue
+
+                # Skip nodes with unknown source type (parsing failures, orphan entries)
+                if source_type == "unknown":
                     continue
 
                 # Skip if already seen (from another directory)
@@ -1457,11 +1461,19 @@ def build_graph_json(items):
                                 summary = line[:300]
                                 break
 
+                # Extract URL from markdown content (v3.15.1: fix paper URL for wiki root papers)
+                node_url = ""
+                m_url = re.search(r'^- (?:🔗 (?:链接|Source|HN 讨论|原文)|📄 arXiv|🔗 Product Hunt):\s*(.+)$', content, re.MULTILINE)
+                if m_url:
+                    node_url = m_url.group(1).strip()
+                if not node_url:
+                    node_url = _resolve_paper_url(node_id, label)
+
                 nodes.append({
                     "id": node_id, "label": label[:80], "type": "paper",
                     "pillar": pillar, "pm_score": pm_score, "tags": ["papers", pillar],
                     "summary": summary, "raw_content": "", "source_type": "papers",
-                    "date": node_date or datetime.now().strftime("%Y-%m-%d"), "url": _resolve_paper_url(node_id, label)
+                    "date": node_date or datetime.now().strftime("%Y-%m-%d"), "url": node_url
                 })
             except Exception as e:
                 print(f"  ⚠️ Error scanning wiki root: {e}")
@@ -1537,7 +1549,7 @@ def build_graph_json(items):
                 "_patterns": item.get("patterns", [])
             })
 
-    # ===== 新增：构建概念节点体系 (L2 Information Layer) =====
+    # ===== L2 Information Layer: 概念节点体系 =====
     # 从所有 items 中提取 concepts，构建概念节点和 BELONGS_TO 边
     concept_map = {}  # concept_label -> {nodes: [], pillar_counts: {}, max_pm: 0}
     for item in items:
@@ -1605,12 +1617,11 @@ def build_graph_json(items):
             "node_count": len(data["nodes"]),
         })
 
-        # 创建 BELONGS_TO 边（项目 → 概念）
+        # 创建 BELONGS_TO 边（项目 → 概念）— 统一使用 source/target 字段
         for nid in data["nodes"]:
             edges.append({
-                "id": f"edge_{nid}_{concept_key}",
-                "from": nid,
-                "to": concept_key,
+                "source": nid,
+                "target": concept_key,
                 "type": "BELONGS_TO",
                 "relation": "belongs_to"
             })
@@ -1621,10 +1632,11 @@ def build_graph_json(items):
         for tag in node.get("tags", []):
             tag_key = slugify(tag)
             # Only create concept nodes for valid pillar tags, not source tags
+            # 支柱分类节点: PM = 1.0 (作为图谱分类锚点，不应被过滤)
             if tag in valid_pillars:
                 if tag_key not in node_ids:
                     node_ids.add(tag_key)
-                    nodes.append({"id": tag_key, "label": tag, "type": "concept", "pillar": tag, "pm_score": 0.1, "tags": ["concept"], "summary": f"概念标签: {tag}", "date": datetime.now().strftime("%Y-%m-%d"), "url": "", "raw_content": ""})
+                    nodes.append({"id": tag_key, "label": tag, "type": "concept", "pillar": tag, "pm_score": 1.0, "tags": ["concept", "pillar_anchor"], "summary": f"支柱分类: {tag}", "date": datetime.now().strftime("%Y-%m-%d"), "url": "", "raw_content": ""})
                 edges.append({"source": node["id"], "target": tag_key, "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": node["pm_score"] * 0.5})
             # Skip edges to source tags (papers, techcrunch, hn, etc.) to reduce noise
             # Only add edges for pillar tags
@@ -1658,6 +1670,9 @@ def build_graph_json(items):
         # Skip if same title (already covered by new node with full ID)
         en_title = en.get("label", "")
         if en_title and en_title in new_by_title:
+            continue
+        # Skip orphan nodes with unknown source type
+        if en.get("source_type") == "unknown":
             continue
         all_nodes.append(en)
 

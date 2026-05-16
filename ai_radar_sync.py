@@ -23,10 +23,16 @@ from datetime import datetime
 CRON_OUTPUT_DIR = "/home/admin/.hermes/cron/output"
 ENV_PATH = "/home/admin/.hermes/.env"
 STATE_FILE = "/home/admin/.hermes/cron/bitable_sync_state.json"
-FEISHU_APP_ID = "cli_a92b1c361ab8dcee"
+FEISHU_APP_ID = os.environ.get("FEISHU_APP_ID", "").strip()
+if not FEISHU_APP_ID:
+    raise EnvironmentError("FEISHU_APP_ID not set")
 
-BITABLE_APP_TOKEN = "V1IZbGiLaa4V6ysQW3ycJamjngc"
-BITABLE_TABLE_ID = "tblrHRQiNq6gsaJq"
+BITABLE_APP_TOKEN = os.environ.get("BITABLE_APP_TOKEN", "").strip()
+if not BITABLE_APP_TOKEN:
+    raise EnvironmentError("BITABLE_APP_TOKEN not set")
+BITABLE_TABLE_ID = os.environ.get("BITABLE_TABLE_ID", "").strip()
+if not BITABLE_TABLE_ID:
+    raise EnvironmentError("BITABLE_TABLE_ID not set")
 
 # Document mapping (in main folder: MPcgfuV3Zl6qsIdZlqRcDOCXnGd)
 # PARA folder structure:
@@ -230,8 +236,8 @@ def write_to_bitable(token, items, max_retries=3):
                 try:
                     dt = datetime.strptime(item["date"], "%Y-%m-%d")
                     date_ts = int(dt.timestamp() * 1000)
-                except:
-                    pass
+                except (ValueError, TypeError):
+                    pass  # Skip invalid date formats
 
             link_obj = {"text": "", "link": ""}
             if item.get("link") and item["link"].startswith("http"):
@@ -260,7 +266,8 @@ def write_to_bitable(token, items, max_retries=3):
                         continue
                     else:
                         break
-                except:
+                except Exception as e:
+                    log(f"  ⚠️ Bitable API request error: {e}")
                     time.sleep(1)
 
             time.sleep(0.05)

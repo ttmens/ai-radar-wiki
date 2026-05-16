@@ -1,16 +1,25 @@
 #!/usr/bin/env python3
 """Reorganize Feishu radar folder structure"""
-import json, requests, time
+import json, os, requests, time
 
-with open("/home/admin/.hermes/.env") as f:
+FEISHU_APP_ID = os.environ.get("FEISHU_APP_ID", "").strip()
+if not FEISHU_APP_ID:
+    raise EnvironmentError("FEISHU_APP_ID not set")
+
+_env_path = "/home/admin/.hermes/.env"
+SECRET = None
+with open(_env_path) as f:
     for line in f:
         if line.startswith("FEISHU_APP_SECRET="):
             SECRET = line.strip().split("=", 1)[1]
             break
 
+if not SECRET:
+    raise ValueError("FEISHU_APP_SECRET not found in .env")
+
 def get_token():
     r = requests.post("https://open.feishu.cn/open-apis/auth/v3/tenant_access_token/internal",
-        json={"app_id": "cli_a92b1c361ab8dcee", "app_secret": SECRET})
+        json={"app_id": FEISHU_APP_ID, "app_secret": SECRET})
     return r.json()["tenant_access_token"]
 
 tok = get_token()

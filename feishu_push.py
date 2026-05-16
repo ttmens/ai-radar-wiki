@@ -17,7 +17,9 @@ from datetime import datetime, timezone, timedelta
 
 BJ_TZ = timezone(timedelta(hours=8))
 SUMMARY_PATH = os.path.expanduser("~/ai-radar-wiki/daily_summary.json")
-FEISHU_APP_ID = os.environ.get("FEISHU_APP_ID", "cli_a92b1c361ab8dcee")
+FEISHU_APP_ID = os.environ.get("FEISHU_APP_ID", "").strip()
+if not FEISHU_APP_ID:
+    raise EnvironmentError("FEISHU_APP_ID not set")
 
 # 尝试从 .env 读取 FEISHU_APP_SECRET
 FEISHU_APP_SECRET = os.environ.get("FEISHU_APP_SECRET", "")
