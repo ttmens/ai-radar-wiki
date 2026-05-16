@@ -639,7 +639,12 @@ function showToast(msg) {
 function initFromHash() {
   var hash = window.location.hash;
   if (hash && hash.length > 1) {
-    var articleId = hash.slice(1);
+    // Decode URL-encoded hash (for Chinese characters)
+    try {
+      var articleId = decodeURIComponent(hash.slice(1));
+    } catch (e) {
+      var articleId = hash.slice(1);
+    }
     for (var i = 0; i < ARTICLES.length; i++) {
       if (ARTICLES[i].id === articleId) {
         openArticle(i, true);
