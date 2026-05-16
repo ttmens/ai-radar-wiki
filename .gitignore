@@ -12,3 +12,7 @@ tmp/
 .env.*
 *.key
 *.pem
+
+# Local scratch / dev logs (not for repo)
+_probe.txt
+tools/server.log
