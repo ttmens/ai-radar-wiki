@@ -527,21 +527,8 @@ function openArticle(idx, fromHash) {
     wrapper.className = 'article-scroll-container';
     wrapper.appendChild(container);
 
-    // Add share button
-    const shareBtn = document.createElement('button');
-    shareBtn.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:16px;height:16px"><path d="M4 12v8a2 2 0 002 2h12a2 2 0 002-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/></svg> 复制链接';
-    shareBtn.className = 'share-link-btn';
-    shareBtn.onclick = function(e) {
-      e.stopPropagation();
-      const url = window.location.href;
-      if (navigator.clipboard && navigator.clipboard.writeText) {
-        navigator.clipboard.writeText(url).then(function() { showToast('链接已复制'); }).catch(function() { showToast('请手动复制地址栏'); });
-      } else { showToast('请手动复制地址栏'); }
-    };
-
     const scrollWrapper = document.createElement('div');
     scrollWrapper.className = 'article-scroll-container';
-    scrollWrapper.appendChild(shareBtn);
     scrollWrapper.appendChild(container);
 
     preview.innerHTML = '';
