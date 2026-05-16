@@ -1,7 +1,7 @@
 {
   "date": "2026-05-17",
-  "generated_at": "2026-05-17T00:02:37.869413+08:00",
-  "item_count": 6,
+  "generated_at": "2026-05-17T06:09:46.053305+08:00",
+  "item_count": 10,
   "items": [
     {
       "id": "sana-wm-a-26b-open-source-world-model-for-1-minute-720p-video",
@@ -12,6 +12,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48159445",
+      "date": "2026-05-17"
+    },
+    {
+      "id": "openclaw-creator-spent-13m-on-openai-tokens-in-30-days",
+      "label": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
+      "summary": "OpenClaw创建者在30天内花费130万美元用于OpenAI API tokens，揭示了大规模部署AI应用时高昂的推理成本。这一案例对AI产品经理具有重要警示：在追求用户规模和功能丰富度的同时，必须将API成本控制纳入产品设计核心。高额支出可能来自持续会话、长上下文或高频调用，这促使产品经理探索缓存、语义压缩、本地模型混合部署等成本优化策略。同时，该现象也表明存在极端依赖单一API的商业风险，需评估替代模型或自建推理基础设施的可行性。商业化落地需在模型能力与成本效益间取得平衡。",
+      "pm_score": 0.55,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48159227",
       "date": "2026-05-17"
     },
     {
@@ -26,6 +37,17 @@
       "date": "2026-05-17"
     },
     {
+      "id": "the-haves-and-have-nots-of-the-ai-gold-rush",
+      "label": "The haves and have nots of the AI gold rush",
+      "summary": "文章指出当前AI淘金热中，资源丰富的巨头与资源匮乏的初创公司之间差距日益扩大，即使是科技行业内部也对AI热潮感到不安。对AI产品经理而言，这意味着需要警惕泡沫风险，优先关注可持续的商业模式而非盲目跟风。技术要点在于识别哪些AI能力能带来真正的用户价值，而非单纯追求模型规模。商业价值上，拥有算力、数据壁垒的企业将占据优势，但产品创新应聚焦在垂直场景的深度适配和成本优化上，以在资源不均的环境中寻找突破口。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "date": "2026-05-17"
+    },
+    {
       "id": "openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy",
       "label": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy",
       "summary": "OpenAI联合创始人布罗克曼重新掌管产品战略，并将推动ChatGPT与编程工具Codex的整合。此举旨在打造统一的多模态AI平台，将通用对话能力与代码生成深度融合，拓展开发者生态。对产品经理而言，这标志着OpenAI从单一能力向综合开发平台转型，有望提升开发者效率、降低门槛，并为AI应用带来更连贯的交互体验。战略合并也预示着未来AI产品将更注重功能集成与场景闭环。",
@@ -34,6 +56,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "date": "2026-05-17"
+    },
+    {
+      "id": "html-lists",
+      "label": "HTML Lists",
+      "summary": "本文源自Hacker News关于HTML列表的讨论，虽然内容未提供具体摘要，但结合初步分类为'capabilities'，可推测其涉及AI系统对HTML结构化数据的理解与处理能力。对于AI产品经理而言，这一技术要点体现为模型解析半结构化文本（如无序/有序列表）的精确度提升，进而支持更复杂的信息提取与交互场景，如自动生成摘要、构建知识图谱或增强文档检索。商业价值在于优化网页内容理解，降低人工标注成本。产品创新上，可应用于智能笔记、代码辅助或数据可视化工具。",
+      "pm_score": 0.475,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48161861",
+      "date": "2026-05-17"
+    },
+    {
+      "id": "research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the",
+      "label": "Research repository ArXiv will ban authors for a year if they let AI do all the",
+      "summary": "知名预印本平台ArXiv宣布新规：若发现论文作者让AI完成全部工作（如使用大语言模型生成全文而未披露或不加审核），将面临一年内禁止投稿的处罚。此举旨在遏制科学论文中随意使用LLM导致的质量和诚信问题。对AI产品经理而言，这标志着学术生态对AI辅助写作的边界划定，提示AI工具需设计清晰的辅助角色和合规标记功能。商业上，类似政策可能向其他内容平台蔓延，影响AI写作助手的产品策略与风险管理。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
       "date": "2026-05-17"
     },
     {
@@ -71,7 +115,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 543,
-    "edges": 23977
+    "real_nodes": 548,
+    "edges": 24526
   }
 }

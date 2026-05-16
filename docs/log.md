@@ -605,3 +605,10 @@
 - create: deepseek-v4-flash-means-llm-steering-is-interesting-again.md
 - create: gaining-control-of-every-projector-and-camera-on-campus.md
 - create: openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy.md
+
+## [2026-05-17 06:09] sync v3 | 5 new | pillars: {'capabilities': 5}
+- create: html-lists.md
+- create: openclaw-creator-spent-13m-on-openai-tokens-in-30-days.md
+- create: the-haves-and-have-nots-of-the-ai-gold-rush.md
+- create: research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the.md
+- create: show-hn-a-dark-cave-minimalistic-graphics-in-the-age-of-ai-slop.md

@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-17 | Total pages: 508
+> Last updated: 2026-05-17 | Total pages: 513
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -43,6 +43,7 @@
 - [[how-claude-code-works-in-large-codebases.md]] How Claude Code works in large codebases `pillar:capabilities` `score:0.365`
 - [[how-fast-does-claude-acting-as-a-user-space-ip-st.md]] How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings? `pillar:capabilities` `score:0.36`
 - [[hpcaitechcolossalai.md]] hpcaitech/ColossalAI `pillar:capabilities` `score:0.615`
+- [[html-lists.md]] HTML Lists `pillar:capabilities` `score:0.475`
 - [[huggingfacedatasets.md]] huggingface/datasets `pillar:capabilities` `score:0.615`
 - [[huggingfacediffusers.md]] huggingface/diffusers `pillar:capabilities` `score:0.615`
 - [[huggingfacetransformers.md]] huggingface/transformers `pillar:capabilities` `score:0.405`
@@ -85,6 +86,7 @@
 - [[screenpipescreenpipe.md]] screenpipe/screenpipe `pillar:capabilities` `score:0.615`
 - [[sgl-projectsglang.md]] sgl-project/sglang `pillar:capabilities` `score:0.615`
 - [[shapshap.md]] shap/shap `pillar:capabilities` `score:0.615`
+- [[show-hn-a-dark-cave-minimalistic-graphics-in-the-age-of-ai-slop.md]] Show HN: A Dark Cave – Minimalistic Graphics in the Age of AI Slop `pillar:capabilities` `score:0.295`
 - [[show-hn-find-the-best-local-llm-for-your-hardware-ranked-by-benchmarks.md]] Show HN: Find the best local LLM for your hardware, ranked by benchmarks `pillar:capabilities` `score:0.33`
 - [[show-hn-glycemicgpt-open-source-ai-powered-diabetes-management.md]] Show HN: GlycemicGPT – Open-source AI-powered diabetes management `pillar:capabilities` `score:0.33`
 - [[show-hn-watch-a-neural-net-learn-to-play-snake.md]] Show HN: Watch a neural net learn to play Snake `pillar:capabilities` `score:0.36`
@@ -373,6 +375,7 @@
 - [[punkpeyeawesome-mcp-servers.md]] punkpeye/awesome-mcp-servers `pillar:ecosystem` `score:0.58`
 - [[pyg-teampytorch_geometric.md]] pyg-team/pytorch_geometric `pillar:ecosystem` `score:0.58`
 - [[pytorchpytorch.md]] pytorch/pytorch `pillar:ecosystem` `score:0.615`
+- [[research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the.md]] Research repository ArXiv will ban authors for a year if they let AI do all the `pillar:ecosystem` `score:0.445`
 - [[sansan0trendradar.md]] sansan0/TrendRadar `pillar:ecosystem` `score:0.58`
 - [[scikit-learnscikit-learn.md]] scikit-learn/scikit-learn `pillar:ecosystem` `score:0.615`
 - [[show-hn-explore-color-palettes-inspired-by-3000-m.md]] Show HN: Explore color palettes inspired by 3000 master painter artworks `pillar:ecosystem` `score:0.45`
@@ -470,6 +473,7 @@
 - [[nvidia-has-already-committed-40b-to-equity-ai-dea.md]] Nvidia has already committed $40B to equity AI deals this year `pillar:business` `score:0.48`
 - [[openaicom-was-once-the-personal-homepage-of-a-g.md]] "openai.com" was once the personal homepage of a guy named glenn `pillar:business` `score:0.155`
 - [[openais-webrtc-problem.md]] OpenAI's WebRTC problem `pillar:business` `score:0.305`
+- [[openclaw-creator-spent-13m-on-openai-tokens-in-30-days.md]] OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days `pillar:business` `score:0.55`
 - [[openhandsopenhands.md]] OpenHands/OpenHands `pillar:business` `score:0.405`
 - [[origin-lab-raises-8m-to-help-video-game-companies.md]] Origin Lab raises $8M to help video game companies sell data to world-model buil `pillar:business` `score:0.305`
 - [[photoprismphotoprism.md]] photoprism/photoprism `pillar:business` `score:0.405`
@@ -498,6 +502,7 @@
 - [[tell-hn-dont-use-claude-design-lost-access-to-my-projects-after-unsubscribing.md]] Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing `pillar:business` `score:0.53`
 - [[tesla-model-y-passes-nhtsas-new-advanced-driver.md]] Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests `pillar:business` `score:0.255`
 - [[the-ai-legal-services-industry-is-heating-up-ant.md]] The AI legal services industry is heating up — Anthropic is getting in on the ac `pillar:business` `score:0.305`
+- [[the-haves-and-have-nots-of-the-ai-gold-rush.md]] The haves and have nots of the AI gold rush `pillar:business` `score:0.48`
 - [[the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning.md]] The OpenAI trial wraps up, and the Musk founder machine keeps spinning `pillar:business` `score:0.445`
 - [[the-peoples-airline-and-the-enterprise-ai-gold.md]] The “people’s airline” and the enterprise AI gold rush `pillar:business` `score:0.48`
 - [[the-us-is-winning-the-ai-race-where-it-matters-mos.md]] The US is winning the AI race where it matters most: commercialization `pillar:business` `score:0.405`
