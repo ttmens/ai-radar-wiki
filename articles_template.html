@@ -266,6 +266,49 @@
     border-radius: 0;
   }
 
+  /* Share button */
+  .share-link-btn {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin: 12px auto 16px;
+    padding: 8px 16px;
+    background: var(--surface);
+    border: 1px solid var(--border-strong);
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--accent);
+    cursor: pointer;
+    transition: all 0.15s;
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+  }
+  .share-link-btn:hover { background: var(--accent-soft); border-color: rgba(255,56,92,0.2); }
+  .share-link-btn:active { transform: scale(0.98); }
+
+  /* Toast notification */
+  .share-toast {
+    position: fixed;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%) translateY(20px);
+    background: rgba(26,26,26,0.92);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 500;
+    opacity: 0;
+    transition: all 0.25s ease;
+    z-index: 9999;
+    pointer-events: none;
+  }
+  .share-toast.show {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+
   /* ===== Mobile Responsive ===== */
   @media (max-width: 900px) {
     .app {
@@ -435,12 +478,17 @@ function renderArticleList() {
   list.innerHTML = html;
 }
 
-function openArticle(idx) {
+function openArticle(idx, fromHash) {
   const article = ARTICLES[idx];
   if (!article) return;
 
   currentArticle = idx;
   renderArticleList();
+
+  // Update URL hash (skip if opened from hash to avoid loop)
+  if (!fromHash) {
+    window.history.pushState({ articleIdx: idx }, '', '#' + article.id);
+  }
 
   const preview = document.getElementById('preview');
   const empty = document.getElementById('previewEmpty');
@@ -479,8 +527,25 @@ function openArticle(idx) {
     wrapper.className = 'article-scroll-container';
     wrapper.appendChild(container);
 
+    // Add share button
+    const shareBtn = document.createElement('button');
+    shareBtn.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:16px;height:16px"><path d="M4 12v8a2 2 0 002 2h12a2 2 0 002-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/></svg> 复制链接';
+    shareBtn.className = 'share-link-btn';
+    shareBtn.onclick = function(e) {
+      e.stopPropagation();
+      const url = window.location.href;
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(url).then(function() { showToast('链接已复制'); }).catch(function() { showToast('请手动复制地址栏'); });
+      } else { showToast('请手动复制地址栏'); }
+    };
+
+    const scrollWrapper = document.createElement('div');
+    scrollWrapper.className = 'article-scroll-container';
+    scrollWrapper.appendChild(shareBtn);
+    scrollWrapper.appendChild(container);
+
     preview.innerHTML = '';
-    preview.appendChild(wrapper);
+    preview.appendChild(scrollWrapper);
   } catch (e) {
     preview.innerHTML = '<div class="preview-empty"><h3>加载失败</h3><p>' + escapeHtml(e.message) + '</p></div>';
   }
@@ -491,6 +556,8 @@ function openArticle(idx) {
 function goBack() {
   currentArticle = null;
   document.getElementById('app').classList.remove('show-article');
+  // Clear hash without full page reload
+  window.history.pushState(null, '', window.location.pathname);
   renderArticleList();
   setTimeout(function() {
     const preview = document.getElementById('preview');
@@ -523,8 +590,46 @@ function escapeHtml(text) {
   return div.innerHTML;
 }
 
+function showToast(msg) {
+  var existing = document.querySelector('.share-toast');
+  if (existing) existing.remove();
+  var toast = document.createElement('div');
+  toast.className = 'share-toast';
+  toast.textContent = msg;
+  document.body.appendChild(toast);
+  requestAnimationFrame(function() { toast.classList.add('show'); });
+  setTimeout(function() {
+    toast.classList.remove('show');
+    setTimeout(function() { if (toast.parentNode) toast.remove(); }, 300);
+  }, 2000);
+}
+
+// Check hash on page load for direct linking
+function initFromHash() {
+  var hash = window.location.hash;
+  if (hash && hash.length > 1) {
+    var articleId = hash.slice(1);
+    for (var i = 0; i < ARTICLES.length; i++) {
+      if (ARTICLES[i].id === articleId) {
+        openArticle(i, true);
+        return;
+      }
+    }
+  }
+}
+
+// Handle browser back/forward navigation
+window.addEventListener('popstate', function(e) {
+  if (e.state && e.state.articleIdx !== undefined) {
+    openArticle(e.state.articleIdx, true);
+  } else if (currentArticle !== null) {
+    goBack();
+  }
+});
+
 // Init
 renderArticleList();
+initFromHash();
 </script>
 </body>
 </html>
