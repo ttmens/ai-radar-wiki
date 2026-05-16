@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 16 May 2026 08:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 12:00:53 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -21,12 +21,28 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>OpenAI is connecting ChatGPT to bank accounts via Plaid</title>
+      <link>https://news.ycombinator.com/item?id=48150723</link>
+      <guid isPermaLink="false">openai-is-connecting-chatgpt-to-bank-accounts-via-plaid</guid>
+      <pubDate>2026-05-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>OpenAI通过金融数据平台Plaid，将ChatGPT与银行账户直接连接，实现用户授权下的账户余额、交易记录等金融信息实时获取。此举使ChatGPT从通用对话助手向金融场景扩展，用户可自然语言查询支出、管理预算或获取个性化理财建议。技术层面依赖Plaid安全API实现银行数据对接，商业价值在于撬动万亿级个人金融服务市场，产品创新体现为将AI交互嵌入高频资金管理场景。对产品经理而言，需关注数据隐私合规、模型对结构化金融数据的理解能力以及跨平台集成体验。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Mitchellh – I strongly believe there are entire companies now under AI psychosis</title>
       <link>https://news.ycombinator.com/item?id=48153379</link>
       <guid isPermaLink="false">mitchellh-i-strongly-believe-there-are-entire-companies-now-under-ai-psychosis</guid>
       <pubDate>2026-05-16T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Mitchellh（HashiCorp创始人）指出当前许多公司陷入'AI精神病'状态，即盲目追捧AI而忽视实际价值和理性评估。产品经理应警惕过度炒作，避免为AI而AI，需回归用户需求与商业本质。技术要点不在于某项能力突破，而在于识别AI的适用边界；商业价值体现在降低试错成本、聚焦真正有效的应用场景；产品创新应基于务实判断，而非追逐热点。该观点对AI产品战略制定具有警示意义。</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Frontier AI has broken the open CTF format</title>
+      <link>https://news.ycombinator.com/item?id=48157559</link>
+      <guid isPermaLink="false">frontier-ai-has-broken-the-open-ctf-format</guid>
+      <pubDate>2026-05-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>前沿AI在公开的CTF（夺旗赛）格式中取得突破，可能意味着AI在复杂安全挑战、渗透测试或漏洞挖掘方面的能力已超越传统基准。这对产品经理的启示：AI安全能力正从辅助工具转向自主攻防，可应用于自动化漏洞赏金、红队演练等安全产品创新，同时需重新评估现有安全测试标准。商业价值在于降低企业安全运维成本，加速威胁响应。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>upscayl/upscayl</title>
@@ -394,22 +410,6 @@
       <guid isPermaLink="false">how-claude-code-works-in-large-codebases</guid>
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Claude Code 是 Anthropic 推出的 AI 代码助手，重点解决在大型代码库中的高效工作问题。其核心技术包括智能上下文压缩、代码库索引与分块检索，以及基于长期记忆的代码理解能力，使模型能跨越数千文件进行准确的语义推理。商业价值在于显著提升开发者的生产效率与代码维护体验，尤其适合复杂企业项目。产品创新体现在无需手动分段即可自动处理超大规模代码库，降低使用门槛。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Best "Brain" for Agents Is Just Versioned Folders of Markdown Files</title>
-      <link>https://news.ycombinator.com/item?id=48140648</link>
-      <guid isPermaLink="false">best-brain-for-agents-is-just-versioned-folders-of-markdown-files</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该技术观点主张AI Agent的“大脑”应采用版本化的Markdown文件目录实现，而非复杂数据库。核心优势在于利用普通文本文件+Git版本控制，提供人类可读、可审计、易维护的长期记忆与知识存储方案。对AI产品经理而言，这降低了Agent记忆系统的构建和调试成本，支持透明化信息追踪和协作编辑。商业价值体现在简化基础设施、提高系统鲁棒性，并易于与现有开发工作流集成。产品创新在于将AI记忆管理回归到文件系统范式，使得非技术用户也能理解和干预Agent的“思考”过程，同时天然支持回溯、分支和合并等版本控制特性，适用于需要持久化上下文的应用场景。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Show HN: GlycemicGPT – Open-source AI-powered diabetes management</title>
-      <link>https://github.com/GlycemicGPT/GlycemicGPT</link>
-      <guid isPermaLink="false">show-hn-glycemicgpt-open-source-ai-powered-diabetes-management</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>GlycemicGPT 是一个开源的 AI 糖尿病管理工具，利用 GPT 模型分析血糖数据、饮食和运动信息，提供个性化建议。其产品创新在于将大语言模型应用于慢性病管理，通过开源降低使用门槛，促进社区协作优化模型。技术上突出了实时数据处理与用户交互的整合，具有潜在商业价值，可对接可穿戴设备或医疗平台，形成数据闭环。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
