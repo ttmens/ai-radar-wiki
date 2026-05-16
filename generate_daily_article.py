@@ -166,7 +166,7 @@ def sanitize_filename(name):
     name = re.sub(r'\s+', '-', name)
     return name.strip('-')[:50] or "article"
 
-def send_to_feishu(html_content, filename):
+def send_to_feishu(html_content, filepath):
     """Send the HTML file to the current chat via Feishu API."""
     app_id = os.environ.get("FEISHU_APP_ID")
     app_secret = os.environ.get("FEISHU_APP_SECRET")
@@ -174,6 +174,10 @@ def send_to_feishu(html_content, filename):
     if not app_id or not app_secret:
         print("⚠️ Feishu credentials missing, skipping file send.")
         return
+
+    # Use a clean ASCII filename for Feishu (Chinese filenames cause issues)
+    date_part = datetime.now(BJ_TZ).strftime("%Y-%m-%d")
+    safe_filename = f"ai-radar-daily-{date_part}.html"
 
     try:
         with httpx.Client() as client:
@@ -189,8 +193,8 @@ def send_to_feishu(html_content, filename):
 
             # 2. Upload File
             headers = {"Authorization": f"Bearer {token}"}
-            with open(filename, "rb") as f:
-                files = {"file": (os.path.basename(filename), f, "text/html")}
+            with open(filepath, "rb") as f:
+                files = {"file": (safe_filename, f, "text/html")}
                 data = {"file_type": "stream"}
                 resp = client.post(
                     "https://open.feishu.cn/open-apis/im/v1/files",
