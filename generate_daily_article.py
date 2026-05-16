@@ -69,9 +69,15 @@ def generate_prompt(daily, items):
         nav_text += f"Narrative: {n.get('title')}\n{n.get('body')}\n"
 
     return f"""你是一位顶级的 AI 产业分析师（类似 Ben Thompson 或 Stratechery 风格），为 AI 产品经理撰写深度内参。
+**今天是 {datetime.now(BJ_TZ).strftime("%Y年%-m月%-d日")}。文章中涉及的任何日期必须与此一致，不要编造过去的日期。**
 
 ## 核心任务
 基于今日情报，写一篇**逻辑严密、洞察深刻**的行业分析文章。
+
+## ⚠️ 禁止项（必须遵守）
+- **不要**在文章开头生成任何副标题、身份标签（如"顶级分析师"、"深度内参"等）。
+- **不要**在文章末尾生成任何签名、版权声明、脚注。
+- 直接以 `<h1>` 标题开始，以最后一段内容结束。
 
 ## 核心观点
 {overview}
