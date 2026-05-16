@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 16 May 2026 00:02:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 04:03:00 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -91,6 +91,14 @@
       <pubDate>2026-05-16T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Sx 是一个开源包管理器，专为 AI 技能、MCP（模型上下文协议）和命令设计，类似于 npm 但面向 AI 生态。它允许开发者发布、发现和组合可复用的 AI 模块，降低构建复杂 AI 工作流的门槛。该项目通过标准化技能和工具集成，推动 AI 应用的模块化和生态化，对产品经理而言，意味着更快的原型搭建和更丰富的功能组合可能性。其开源特性也鼓励社区贡献，有望形成类似 JavaScript 生态的 AI 技能市场，提升团队协作效率。</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>The main thing about P2P meth is that there's so much of it (2021)</title>
+      <link>https://news.ycombinator.com/item?id=48155324</link>
+      <guid isPermaLink="false">the-main-thing-about-p2p-meth-is-that-theres-so-much-of-it-2021</guid>
+      <pubDate>2026-05-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Codex is now in the ChatGPT mobile app</title>
@@ -402,14 +410,6 @@
       <guid isPermaLink="false">show-hn-glycemicgpt-open-source-ai-powered-diabetes-management</guid>
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>GlycemicGPT 是一个开源的 AI 糖尿病管理工具，利用 GPT 模型分析血糖数据、饮食和运动信息，提供个性化建议。其产品创新在于将大语言模型应用于慢性病管理，通过开源降低使用门槛，促进社区协作优化模型。技术上突出了实时数据处理与用户交互的整合，具有潜在商业价值，可对接可穿戴设备或医疗平台，形成数据闭环。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Access to frontier AI will soon be limited by economic and security constraints</title>
-      <link>https://news.ycombinator.com/item?id=48143284</link>
-      <guid isPermaLink="false">access-to-frontier-ai-will-soon-be-limited-by-economic-and-security-constraints</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>前沿AI（如大模型）的获取将受到经济成本和安全合规的双重限制。经济上，高昂的训练和推理成本可能使中小团队难以负担；安全上，监管和伦理审查会控制开源或API开放范围。产品经理需提前规划成本模型与合规策略，并探索替代方案（如本地化部署、小型模型）。这一趋势将推动AI产品向更垂直、高效的方向创新，同时加剧头部企业与开源社区的供给分化。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
