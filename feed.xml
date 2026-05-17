@@ -5,13 +5,45 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 17 May 2026 12:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 16:02:47 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>I don't think AI will make your processes go faster</title>
+      <link>https://news.ycombinator.com/item?id=48168221</link>
+      <guid isPermaLink="false">i-dont-think-ai-will-make-your-processes-go-faster</guid>
+      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>这篇 HN 帖子标题直指一个常见误区：AI 并不必然加速业务流程。对于 AI 产品经理而言，需警惕盲目将 AI 套用到现有流程中，而应重新思考业务本质。技术要点在于，AI 可能引入新的延迟、幻觉或维护成本，导致整体效率不升反降。商业价值在于提醒产品经理更关注 ROI 而非单纯追求自动化。产品创新角度，应优先设计人机协作流程，而非全自动替换。核心洞察是：流程加速依赖系统设计，AI 只是其中一环，过度承诺可能导致产品失败。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Every AI Subscription Is a Ticking Time Bomb for Enterprise</title>
+      <link>https://news.ycombinator.com/item?id=48168056</link>
+      <guid isPermaLink="false">every-ai-subscription-is-a-ticking-time-bomb-for-enterprise</guid>
+      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文指出，企业采用AI订阅模式（如ChatGPT企业版、Copilot等）存在重大隐患，类似于“定时炸弹”。主要风险包括：供应商锁定导致的高昂迁移成本、数据隐私与合规问题（特别是当模型持续更新时）、以及成本失控（按用户/Token计费可能随使用量激增）。对于AI产品经理，这意味着设计产品时需考虑可替换性、数据隔离和透明定价机制，避免客户因依赖单一订阅而产生长期风险。核心挑战在于平衡AI能力的持续交付与企业对稳定、可控IT系统的需求。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>AI is a technology not a product</title>
+      <link>https://news.ycombinator.com/item?id=48168626</link>
+      <guid isPermaLink="false">ai-is-a-technology-not-a-product</guid>
+      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>AI 本身是一种底层技术能力，而非可直接交付的产品。产品经理需要避免陷入技术崇拜，而应聚焦于如何将 AI 能力无缝嵌入到用户场景中，解决实际问题。真正的产品创新在于设计人性化的交互流程、控制成本与延迟、管理用户期望而非堆砌模型参数。商业价值体现在 AI 与传统业务流程的深度整合，而非单独售卖 API 或模型。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Prolog Basics Explained with Pokémon</title>
+      <link>https://news.ycombinator.com/item?id=48147091</link>
+      <guid isPermaLink="false">prolog-basics-explained-with-pokémon</guid>
+      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文通过宝可梦（Pokémon）的例子，用通俗易懂的方式讲解Prolog（逻辑编程语言）的基础概念，包括事实、规则、查询和回溯机制。Prolog作为AI领域经典的知识表示与推理工具，其声明式编程范式（描述问题而非算法步骤）对于构建专家系统、自然语言理解和语义搜索有启发价值。虽然当前主流AI产品较少直接使用Prolog，但理解其逻辑推理内核有助于产品经理评估知识图谱、规则引擎等技术的适用场景。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>feder-cr/Jobs_Applier_AI_Agent_AIHawk</title>
       <link>https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk</link>
@@ -379,38 +411,6 @@
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文指出，当前AI治理框架（2019-2026年期间）要求行为保证提供可审查的安全证据（如无隐藏目标、抗攻击能力），但行为保证在本质上是无法验证这些声明的。产品经理需警惕：依赖行为测试不足以支撑合规性，应结合更严格的架构保证和形式化验证。商业上，提前引入可解释性与鲁棒性设计可降低监管风险，提升产品可信度。</p></description>
       <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Evidential Reasoning Advances Interpretable Real-World Disease Screening</title>
-      <link>http://arxiv.org/abs/2605.15171v1</link>
-      <guid isPermaLink="false">evidential-reasoning-advances-interpretable-real-world-disease-screening</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出基于证据推理的医学图像筛查方法，通过引用历史病例作为可解释依据，解决了现有模型可解释性差、性能欠佳的问题。该方法在临床早期检测中具备高准确性和透明度，能够帮助医生理解模型决策依据，降低误诊风险。商业价值上，可显著提升疾病筛查系统的临床采纳率，并推动AI辅助诊断的产品化落地。产品创新在于将历史病例作为推理证据，增强了模型的可信度与实用性。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both</title>
-      <link>http://arxiv.org/abs/2605.15198v1</link>
-      <guid isPermaLink="false">atlas-agentic-or-latent-visual-reasoning-one-word-is-enough-for-both</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>ATLAS 提出一种新型视觉推理方法，通过单一词汇同时实现代理性（Agentic）和潜在（Latent）视觉推理，避免了传统方法中通过统一模型直接生成中间图像的高计算成本和架构复杂性。该方法在保持推理精度的同时大幅降低资源消耗，为多模态AI产品（如智能助手、自动驾驶、机器人等）提供高效、低成本的视觉推理方案，具有显著的商业应用价值。产品经理可关注其在减少模型部署成本、提升实时推理速度方面的潜力。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>FutureSim: Replaying World Events to Evaluate Adaptive Agents</title>
-      <link>http://arxiv.org/abs/2605.15188v1</link>
-      <guid isPermaLink="false">futuresim-replaying-world-events-to-evaluate-adaptive-agents</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出FutureSim方法，通过按时间顺序回放真实世界事件，构建基于真实场景的仿真环境，以评估AI代理在动态开放环境中的适应能力。该方法能高效衡量代理处理新信息的能力，适用于复杂现实用例。对于AI产品经理，此方法可用于设计更可靠的代理产品基准测试，提升产品在真实场景下的鲁棒性。商业价值在于降低测试成本，加速代理系统迭代。产品创新点在于利用真实事件序列模拟自适应行为，而非人工构造场景。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>RefDecoder: Enhancing Visual Generation with Conditional Video Decoding</title>
-      <link>http://arxiv.org/abs/2605.15196v1</link>
-      <guid isPermaLink="false">refdecoder-enhancing-visual-generation-with-conditional-video-decoding</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>RefDecoder 提出一种条件视频解码方法，解决潜在扩散模型中解码器无条件导致的生成质量不对称问题。传统解码器不利用条件信息，限制了生成一致性。RefDecoder 通过引入条件机制，显著提升视频生成质量，尤其在下游应用如视频编辑、合成中实现更逼真、连贯的输出。该技术创新降低了生成伪影，优化了模型架构效率，对视频生成产品的实用化和商业化有重要价值。</p></description>
-      <category>🤖 技术能力</category>
     </item>
   </channel>
 </rss>
