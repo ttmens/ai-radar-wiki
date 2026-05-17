@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-05-17T06:09:45.898637+08:00",
+  "generated_at": "2026-05-17T12:02:38.713571+08:00",
   "days_analyzed": 10,
   "pillar_trends": {
     "capabilities": {
-      "trend": "down",
-      "delta": -1,
-      "current": 3,
+      "trend": "data_missing",
+      "delta": -4,
+      "current": 0,
       "previous": 4,
-      "has_data": true
+      "has_data": false
     },
     "patterns": {
-      "trend": "down",
-      "delta": -1,
-      "current": 1,
+      "trend": "stable",
+      "delta": 0,
+      "current": 2,
       "previous": 2,
       "has_data": true
     },
     "ecosystem": {
-      "trend": "down",
-      "delta": -1,
-      "current": 1,
+      "trend": "data_missing",
+      "delta": -2,
+      "current": 0,
       "previous": 2,
-      "has_data": true
+      "has_data": false
     },
     "business": {
       "trend": "up",
@@ -770,13 +770,7 @@
       "lifecycle": "emerging"
     }
   ],
-  "contradictions": [
-    {
-      "date": "2026-05-17",
-      "type": "growth_vs_risk",
-      "description": "Growth validation detected alongside infrastructure/trust bottlenecks."
-    }
-  ],
+  "contradictions": [],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-17**（10天），累计 **341** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI工具链从通用走向垂直专业化**。 值得关注：💰 商业动态呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-17**（10天），累计 **344** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI工具链从通用走向垂直专业化**。 值得关注：💰 商业动态呈上升趋势"
 }

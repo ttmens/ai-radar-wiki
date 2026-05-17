@@ -1,8 +1,41 @@
 {
   "date": "2026-05-17",
-  "generated_at": "2026-05-17T06:09:46.053305+08:00",
-  "item_count": 10,
+  "generated_at": "2026-05-17T12:02:38.866173+08:00",
+  "item_count": 13,
   "items": [
+    {
+      "id": "feder-crjobs_applier_ai_agent_aihawk",
+      "label": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+      "summary": "AIHawk是一个基于AI的求职申请自动化代理，能够根据用户设定自动生成定制化简历和求职信，并批量提交申请。其核心能力包括智能解析职位描述、匹配个人背景、以及多平台申请自动化。该工具显著降低求职者的重复性劳动，提升申请效率与个性化程度，展示了AI Agent在垂直场景（招聘）中的落地价值。产品创新点在于将LLM驱动的决策与自动化流程结合，形成完整的闭环体验。",
+      "pm_score": 0.58,
+      "pillar": "patterns",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+      "date": "2026-05-17"
+    },
+    {
+      "id": "zerostack-a-unix-inspired-coding-agent-written-in-pure-rust",
+      "label": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "summary": "Zerostack 是一个受 Unix 哲学启发的 AI 编码代理，完全用 Rust 实现。它借鉴了 Unix 的模块化、管道和组合原则，旨在提供高效、可扩展的代码生成与执行能力。使用 Rust 带来了内存安全和极致性能，适合构建可靠的开发者工具。产品创新点在于将经典操作系统设计理念融入现代 AI 代理，有望提升代码生成的透明度和可控性。商业上可定位为面向开发者的高效辅助工具，尤其适合对性能和安全性有高要求的场景。",
+      "pm_score": 0.58,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48164287",
+      "date": "2026-05-17"
+    },
+    {
+      "id": "openai-and-government-of-malta-partner-to-roll-out-chatgpt-plus-to-all-citizens",
+      "label": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "summary": "OpenAI 与马耳他政府达成合作，向所有公民提供 ChatGPT Plus 订阅服务。这一举措将 AI 助手直接集成到公共服务中，覆盖全体国民，具有极高的商业价值和产品创新意义。技术要点上，ChatGPT Plus 基于 GPT-4 模型，支持更长的上下文、更快的响应和优先访问新功能。商业上，政府买单的模式为 AI 产品的大规模推广提供了新路径，也体现了 AI 在公共教育、医疗、政务等场景的落地潜力。产品创新在于将消费级 AI 工具转化为普惠型公共服务，可能改变政府与公民的互动方式。",
+      "pm_score": 0.565,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48163392",
+      "date": "2026-05-17"
+    },
     {
       "id": "sana-wm-a-26b-open-source-world-model-for-1-minute-720p-video",
       "label": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
@@ -115,7 +148,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 548,
-    "edges": 24526
+    "real_nodes": 551,
+    "edges": 25078
   }
 }

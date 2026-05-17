@@ -612,3 +612,8 @@
 - create: the-haves-and-have-nots-of-the-ai-gold-rush.md
 - create: research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the.md
 - create: show-hn-a-dark-cave-minimalistic-graphics-in-the-age-of-ai-slop.md
+
+## [2026-05-17 12:02] sync v3 | 3 new | pillars: {'patterns': 2, 'capabilities': 1}
+- create: feder-crjobs_applier_ai_agent_aihawk.md
+- create: zerostack-a-unix-inspired-coding-agent-written-in-pure-rust.md
+- create: openai-and-government-of-malta-partner-to-roll-out-chatgpt-plus-to-all-citizens.md
