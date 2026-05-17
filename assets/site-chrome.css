@@ -83,21 +83,7 @@
     flex-wrap: nowrap;
   }
 
-  /* 桌面：问 AI 仍用右下角 FAB；顶栏保持订阅 / 统计 / GitHub 原有顺序 */
-  .header-agent-btn {
-    display: none !important;
-  }
-
-  .nex-agent-fab {
-    display: inline-flex !important;
-  }
-
-  /* 探索页：桌面顶栏「摘要」入口（简报页无此钮） */
-  body:not(.brief-page) .header-brief-btn {
-    display: inline-flex !important;
-  }
-
-  /* 侧栏顶栏：标题居中，仅显示关闭钮 */
+  /* 问 AI 侧栏（仅面板 chrome，不改简报/探索顶栏） */
   .nex-agent-panel-head {
     display: grid;
     grid-template-columns: 44px 1fr 44px;
@@ -127,16 +113,11 @@
     right: 0 !important;
   }
 
+  /* 探索页：打开问 AI 时不挤压图谱（叠层侧栏） */
   body.agent-panel-open #mynetwork {
     right: 0 !important;
     width: 100% !important;
     left: 0 !important;
-  }
-
-  body.nex-agent-layout-desktop.agent-panel-open .brief-shell,
-  body.nex-agent-layout-desktop.agent-panel-open .brief-root {
-    margin-right: 0 !important;
-    max-width: none !important;
   }
 }
 
@@ -341,18 +322,13 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
   display: none;
 }
 
-/* 顶栏「问 AI」：桌面隐藏（用 FAB），窄屏隐藏（用底部 Tab） */
+/* 问 AI：顶栏按钮全端隐藏（桌面 FAB / 窄屏底栏 Tab） */
 .header-agent-btn,
 #header-agent-btn {
   display: none !important;
 }
 
-/* 探索页「摘要」：仅桌面顶栏；窄屏由情报底栏 / 展开钮承接 */
-.header-brief-btn {
-  display: none;
-}
-
-/* 右下角「问 AI」FAB：桌面主入口；窄屏由底部 Tab 承接（见 max-width 900） */
+/* 右下角「问 AI」FAB（见 max-width 900 窄屏规则） */
 .nex-agent-fab {
   position: fixed;
   right: calc(20px + var(--safe-right));
@@ -488,21 +464,6 @@ body.brief-page #stats {
 }
 
 #header-subscribe-btn[aria-expanded="true"]:hover {
-  background: rgba(255, 56, 92, 0.11);
-  border-color: var(--rausch);
-}
-
-/* 桌面顶栏「问 AI」面板打开 — 对齐底部 Tab `.mobile-tab-item--panel-open` 的着色思路 */
-#header-controls .header-btn.header-agent-btn--panel-open {
-  background: rgba(255, 56, 92, 0.08);
-  border-color: rgba(255, 56, 92, 0.45);
-  color: var(--rausch);
-  box-shadow:
-    inset 0 1px 0 rgba(255, 255, 255, 0.65),
-    0 0 0 1px rgba(255, 56, 92, 0.12);
-}
-
-#header-controls .header-btn.header-agent-btn--panel-open:hover {
   background: rgba(255, 56, 92, 0.11);
   border-color: var(--rausch);
 }
@@ -1175,10 +1136,6 @@ body.brief-page #stats {
 
   /* 问 AI：底栏 Tab 已是入口，隐藏顶栏避免双入口（与移动端一致） */
   .header-agent-btn {
-    display: none !important;
-  }
-
-  .header-brief-btn {
     display: none !important;
   }
 
