@@ -5,13 +5,37 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 17 May 2026 00:08:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 04:03:18 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>feder-cr/Jobs_Applier_AI_Agent_AIHawk</title>
+      <link>https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk</link>
+      <guid isPermaLink="false">feder-crjobs_applier_ai_agent_aihawk</guid>
+      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>AIHawk是一个基于AI的求职申请自动化代理，能够根据用户设定自动生成定制化简历和求职信，并批量提交申请。其核心能力包括智能解析职位描述、匹配个人背景、以及多平台申请自动化。该工具显著降低求职者的重复性劳动，提升申请效率与个性化程度，展示了AI Agent在垂直场景（招聘）中的落地价值。产品创新点在于将LLM驱动的决策与自动化流程结合，形成完整的闭环体验。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Zerostack – A Unix-inspired coding agent written in pure Rust</title>
+      <link>https://news.ycombinator.com/item?id=48164287</link>
+      <guid isPermaLink="false">zerostack-a-unix-inspired-coding-agent-written-in-pure-rust</guid>
+      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Zerostack 是一个受 Unix 哲学启发的 AI 编码代理，完全用 Rust 实现。它借鉴了 Unix 的模块化、管道和组合原则，旨在提供高效、可扩展的代码生成与执行能力。使用 Rust 带来了内存安全和极致性能，适合构建可靠的开发者工具。产品创新点在于将经典操作系统设计理念融入现代 AI 代理，有望提升代码生成的透明度和可控性。商业上可定位为面向开发者的高效辅助工具，尤其适合对性能和安全性有高要求的场景。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens</title>
+      <link>https://news.ycombinator.com/item?id=48163392</link>
+      <guid isPermaLink="false">openai-and-government-of-malta-partner-to-roll-out-chatgpt-plus-to-all-citizens</guid>
+      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>OpenAI 与马耳他政府达成合作，向所有公民提供 ChatGPT Plus 订阅服务。这一举措将 AI 助手直接集成到公共服务中，覆盖全体国民，具有极高的商业价值和产品创新意义。技术要点上，ChatGPT Plus 基于 GPT-4 模型，支持更长的上下文、更快的响应和优先访问新功能。商业上，政府买单的模式为 AI 产品的大规模推广提供了新路径，也体现了 AI 在公共教育、医疗、政务等场景的落地潜力。产品创新在于将消费级 AI 工具转化为普惠型公共服务，可能改变政府与公民的互动方式。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
     <item>
       <title>SANA-WM, a 2.6B open-source world model for 1-minute 720p video</title>
       <link>https://news.ycombinator.com/item?id=48159445</link>
@@ -386,30 +410,6 @@
       <guid isPermaLink="false">refdecoder-enhancing-visual-generation-with-conditional-video-decoding</guid>
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>RefDecoder 提出一种条件视频解码方法，解决潜在扩散模型中解码器无条件导致的生成质量不对称问题。传统解码器不利用条件信息，限制了生成一致性。RefDecoder 通过引入条件机制，显著提升视频生成质量，尤其在下游应用如视频编辑、合成中实现更逼真、连贯的输出。该技术创新降低了生成伪影，优化了模型架构效率，对视频生成产品的实用化和商业化有重要价值。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard</title>
-      <link>https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/</link>
-      <guid isPermaLink="false">clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Clawdmeter 是一款开源桌面小工具，用于将 Claude Code 的使用统计数据（如 API 调用量、上下文消耗等）转换为实时仪表盘，帮助 AI 编程重度用户直观监控自身使用行为。该项目面向效率优化场景，通过本地可视化降低依赖云端分析的延迟与隐私风险，同时为 AI 产品经理提供用户行为洞察的轻量级参考工具。技术亮点在于轻量级前端与 Claude Code 接口的集成，商业价值体现在赋能开发者自助管理 AI 资源成本，属于开发者工具生态中的创新尝试。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Cisco cuts nearly 4,000 jobs to spend more on AI, reports &amp;#8216;record quarterl</title>
-      <link>https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/</link>
-      <guid isPermaLink="false">cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-8216record-quarterly-rev</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>思科宣布裁员约4000人，约占员工总数的5%，旨在将节省的成本重新投入人工智能领域。公司CEO表示，尽管裁员，但同期营收创下历史新高，达到约136亿美元，同比增长显著。此举反映出传统网络硬件巨头正加速向AI驱动的解决方案转型，通过削减非核心岗位来聚焦AI基础设施、网络安全和云服务等高增长领域。对于AI产品经理而言，这标志着企业级AI投入从实验阶段转向规模化落地，思科的决策也为其他传统科技公司提供了商业参考：通过组织重组释放资源，以抢占AI市场先机。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>UK sovereign LLM inference</title>
-      <link>https://news.ycombinator.com/item?id=48146424</link>
-      <guid isPermaLink="false">uk-sovereign-llm-inference</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>针对英国主权LLM推理的讨论，强调在本地或英国本土部署大模型推理能力，以确保数据主权和隐私合规。技术要点包括自主基础架构、数据不出境、模型本地优化；商业价值在于降低对外部API依赖、减少延迟和成本，并增强合规性；产品创新体现在为政府和企业提供可定制的高安全AI服务。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
