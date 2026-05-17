@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 16 May 2026 20:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 00:08:11 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -21,6 +21,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days</title>
+      <link>https://news.ycombinator.com/item?id=48159227</link>
+      <guid isPermaLink="false">openclaw-creator-spent-13m-on-openai-tokens-in-30-days</guid>
+      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>OpenClaw创建者在30天内花费130万美元用于OpenAI API tokens，揭示了大规模部署AI应用时高昂的推理成本。这一案例对AI产品经理具有重要警示：在追求用户规模和功能丰富度的同时，必须将API成本控制纳入产品设计核心。高额支出可能来自持续会话、长上下文或高频调用，这促使产品经理探索缓存、语义压缩、本地模型混合部署等成本优化策略。同时，该现象也表明存在极端依赖单一API的商业风险，需评估替代模型或自建推理基础设施的可行性。商业化落地需在模型能力与成本效益间取得平衡。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>Δ-Mem: Efficient Online Memory for Large Language Models</title>
       <link>https://news.ycombinator.com/item?id=48158506</link>
       <guid isPermaLink="false">δ-mem-efficient-online-memory-for-large-language-models</guid>
@@ -29,12 +37,36 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>The haves and have nots of the AI gold rush</title>
+      <link>https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/</link>
+      <guid isPermaLink="false">the-haves-and-have-nots-of-the-ai-gold-rush</guid>
+      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>文章指出当前AI淘金热中，资源丰富的巨头与资源匮乏的初创公司之间差距日益扩大，即使是科技行业内部也对AI热潮感到不安。对AI产品经理而言，这意味着需要警惕泡沫风险，优先关注可持续的商业模式而非盲目跟风。技术要点在于识别哪些AI能力能带来真正的用户价值，而非单纯追求模型规模。商业价值上，拥有算力、数据壁垒的企业将占据优势，但产品创新应聚焦在垂直场景的深度适配和成本优化上，以在资源不均的环境中寻找突破口。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>OpenAI co-founder Greg Brockman reportedly takes charge of product strategy</title>
       <link>https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/</link>
       <guid isPermaLink="false">openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy</guid>
       <pubDate>2026-05-17T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenAI联合创始人布罗克曼重新掌管产品战略，并将推动ChatGPT与编程工具Codex的整合。此举旨在打造统一的多模态AI平台，将通用对话能力与代码生成深度融合，拓展开发者生态。对产品经理而言，这标志着OpenAI从单一能力向综合开发平台转型，有望提升开发者效率、降低门槛，并为AI应用带来更连贯的交互体验。战略合并也预示着未来AI产品将更注重功能集成与场景闭环。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>HTML Lists</title>
+      <link>https://news.ycombinator.com/item?id=48161861</link>
+      <guid isPermaLink="false">html-lists</guid>
+      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文源自Hacker News关于HTML列表的讨论，虽然内容未提供具体摘要，但结合初步分类为'capabilities'，可推测其涉及AI系统对HTML结构化数据的理解与处理能力。对于AI产品经理而言，这一技术要点体现为模型解析半结构化文本（如无序/有序列表）的精确度提升，进而支持更复杂的信息提取与交互场景，如自动生成摘要、构建知识图谱或增强文档检索。商业价值在于优化网页内容理解，降低人工标注成本。产品创新上，可应用于智能笔记、代码辅助或数据可视化工具。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Research repository ArXiv will ban authors for a year if they let AI do all the</title>
+      <link>https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/</link>
+      <guid isPermaLink="false">research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the</guid>
+      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>知名预印本平台ArXiv宣布新规：若发现论文作者让AI完成全部工作（如使用大语言模型生成全文而未披露或不加审核），将面临一年内禁止投稿的处罚。此举旨在遏制科学论文中随意使用LLM导致的质量和诚信问题。对AI产品经理而言，这标志着学术生态对AI辅助写作的边界划定，提示AI工具需设计清晰的辅助角色和合规标记功能。商业上，类似政策可能向其他内容平台蔓延，影响AI写作助手的产品策略与风险管理。</p></description>
+      <category>🔧 工具生态</category>
     </item>
     <item>
       <title>Gaining control of every projector and camera on campus</title>
@@ -58,6 +90,14 @@
       <guid isPermaLink="false">deepseek-v4-flash-means-llm-steering-is-interesting-again</guid>
       <pubDate>2026-05-17T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>DeepSeek-V4-Flash 的发布重新点燃了 LLM 引导（Steering）技术的关注度。该模型可能通过更高效的架构或新的训练方法，使得开发者能够更精准、更可控地引导大模型输出，从而提升产品的一致性与安全性。对于 AI 产品经理而言，这意味着有望以更低的成本（如更快的推理速度）实现更符合业务需求的模型行为，降低 prompt 工程和微调的复杂度。商业价值体现在可部署于对实时性和可控性要求高的场景，如客服、内容审核等。产品创新方面，可能催生新的用户交互模式，例如动态调整模型倾向。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: A Dark Cave – Minimalistic Graphics in the Age of AI Slop</title>
+      <link>https://a-dark-cave.com/</link>
+      <guid isPermaLink="false">show-hn-a-dark-cave-minimalistic-graphics-in-the-age-of-ai-slop</guid>
+      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该项目名为“A Dark Cave”，旨在AI生成内容泛滥（AI Slop）的时代，倡导极简主义图形设计。它可能提供一款工具或框架，让用户能够创建保留手工质感、低复杂度的视觉作品，与AI自动生成的繁复图像形成对比。对于产品经理而言，其核心价值在于强调“反AI同质化”的产品策略，通过极简美学建立差异化，满足用户对真实性和独特性的需求。技术要点可能涉及轻量级渲染或手动调整机制，商业上可应用于品牌设计、游戏UI等需要高辨识度的场景。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -370,46 +410,6 @@
       <guid isPermaLink="false">uk-sovereign-llm-inference</guid>
       <pubDate>2026-05-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>针对英国主权LLM推理的讨论，强调在本地或英国本土部署大模型推理能力，以确保数据主权和隐私合规。技术要点包括自主基础架构、数据不出境、模型本地优化；商业价值在于降低对外部API依赖、减少延迟和成本，并增强合规性；产品创新体现在为政府和企业提供可定制的高安全AI服务。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Have a Coherent AI Policy</title>
-      <link>https://news.ycombinator.com/item?id=48142553</link>
-      <guid isPermaLink="false">have-a-coherent-ai-policy</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该讨论聚焦于制定连贯的AI政策的重要性，强调企业或国家需要一套统一、可执行的AI使用准则，以避免碎片化决策带来的风险。对于AI产品经理而言，这意味着产品设计需内嵌合规与伦理框架，平衡创新与监管。核心价值在于通过政策驱动用户信任与长期可持续性，减少潜在法律与声誉风险。技术要点涉及政策如何影响模型部署、数据治理及产品迭代流程。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026</title>
-      <link>https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/</link>
-      <guid isPermaLink="false">cerebras-raises-55b-then-stock-pops-108-in-the-first-huge-tech-ipo-of-2026</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Cerebras，一家专注于AI芯片（晶圆级集成）的公司，成功完成55亿美元IPO，股价首日飙升108%，成为2026年首个巨大科技IPO。此次融资凸显市场对专用AI硬件（训练/推理）的强劲需求，以及投资者对非传统芯片架构商业前景的认可。对于AI产品经理而言，该事件标志着底层算力竞争加剧，预示着未来AI产品性能提升将更多依赖专用硬件创新，并影响云服务和边缘部署的成本与可行性。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretabili</title>
-      <link>http://arxiv.org/abs/2605.15183v1</link>
-      <guid isPermaLink="false">when-are-two-networks-the-same-tensor-similarity-for-mechanistic-interpretabilit</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文探讨机械可解释性中的关键问题：如何判断两个神经网络是否实现相同的计算。现有相似性度量要么依赖经验行为（对分布外机制失效），要么依赖基参数（不具不变性）。作者提出基于张量相似度的方法，通过比较网络内部表示的结构等价性，实现跨分布和跨模型的机制对齐。该方法有助于可解释性分析、模型压缩和迁移学习中的等价性验证，提升AI产品的可信度与调试效率。对产品经理而言，这为模型理解与安全部署提供了基础工具。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixt</title>
-      <link>http://arxiv.org/abs/2605.15179v1</link>
-      <guid isPermaLink="false">eradicating-negative-transfer-in-multi-physics-foundation-models-via-sparse-mixt</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本论文提出通过稀疏混合专家（Sparse MoE）路由机制解决多物理场基础模型中的负迁移问题。传统密集神经网络在同时训练不同偏微分方程（PDE）时，因梯度冲突和优化不稳定导致性能下降。MoE通过动态选择子网络处理不同物理域，有效隔离任务干扰，保持可塑性。该方法为构建通用科学计算基础模型铺平道路，可显著提升工程仿真、气候建模等领域的模型泛化能力，降低多任务联合训练成本，具有重要商业价值。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction</title>
-      <link>http://arxiv.org/abs/2605.15186v1</link>
-      <guid isPermaLink="false">vggt-edit-feed-forward-native-3d-scene-editing-with-residual-field-prediction</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>VGGT-Edit提出了一种前馈式的原生3D场景编辑方法，通过残差场预测实现单次前向传播即可编辑3D场景，无需传统迭代优化。该方法基于可泛化的前馈架构，能快速生成复杂环境并支持动态场景响应，显著提升了3D编辑效率。商业上，它可降低AR/VR、游戏和影视等内容制作的算力成本，加速产品迭代；产品创新在于将编辑过程原生集成到3D重建中，避免了2D-3D转换的精度损失，为实时交互式3D编辑提供了新范式。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
