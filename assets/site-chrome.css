@@ -326,6 +326,13 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
 .header-agent-btn,
 #header-agent-btn {
   display: none !important;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.header-agent-btn .header-agent-label {
+  white-space: nowrap;
+  line-height: 1.2;
 }
 
 /* 右下角「问 AI」FAB（见 max-width 900 窄屏规则） */
@@ -334,6 +341,9 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
   right: calc(20px + var(--safe-right));
   bottom: calc(22px + var(--safe-bottom));
   z-index: 220;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   min-height: 48px;
   padding: 0 18px;
   border-radius: 999px;
@@ -343,6 +353,9 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
   font-size: 14px;
   font-weight: 700;
   font-family: inherit;
+  line-height: 1.2;
+  white-space: nowrap;
+  flex-shrink: 0;
   cursor: pointer;
   box-shadow: var(--shadow-lg);
 }

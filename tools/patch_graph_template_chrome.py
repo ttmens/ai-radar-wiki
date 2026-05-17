@@ -145,8 +145,8 @@ def apply_chrome_patches_to_template_string(s: str) -> str:
     </div>
     <div id="header-controls">
       <button type="button" class="header-btn header-agent-btn" onclick="window.toggleAgentPanel()" aria-label="问 AI" aria-expanded="false" aria-haspopup="dialog" aria-controls="agent-panel">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:16px;height:16px"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
-        问 AI
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:16px;height:16px;flex-shrink:0" aria-hidden="true"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+        <span class="header-agent-label">问&nbsp;AI</span>
       </button>
       <button type="button" id="header-brief-btn" class="header-btn header-brief-btn" onclick="toggleDashboard()" aria-controls="dashboard" aria-expanded="true">摘要</button>
       <div class="subscribe-wrap">"""
