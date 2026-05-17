@@ -6,11 +6,44 @@ see tools/README_GRAPH_UTF8.md."""
 
 import argparse
 import re
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 GRAPH = ROOT / "graph.html"
 TPL = ROOT / "graph_template.html"
+INDEX = ROOT / "index.html"
+
+sys.path.insert(0, str(ROOT / "tools"))
+from nex_agent_panel_markup import (  # noqa: E402
+    SITE_CHROME_ASSET_VER,
+    graph_agent_with_toast_block,
+    graph_data_libs_scripts_block,
+    upgrade_agent_panel_markup,
+)
+
+
+def bump_site_chrome_asset_versions(s: str) -> str:
+    return re.sub(
+        r"(site-chrome\.(?:css|js))\?v=\d+",
+        rf"\1?v={SITE_CHROME_ASSET_VER}",
+        s,
+    )
+
+
+def upgrade_agent_in_html_files(paths: list[Path]) -> None:
+    for path in paths:
+        if not path.is_file():
+            print("skip (missing):", path)
+            continue
+        blob = path.read_text(encoding="utf-8").replace("\r\n", "\n").strip("\ufeff")
+        upgraded, changed = upgrade_agent_panel_markup(blob)
+        upgraded = bump_site_chrome_asset_versions(upgraded)
+        if changed or upgraded != blob:
+            path.write_text(upgraded, encoding="utf-8", newline="\n")
+            print("OK upgraded agent chrome:", path)
+        else:
+            print("unchanged:", path)
 
 
 def regenerate_template_from_graph_html() -> None:
@@ -26,14 +59,14 @@ def regenerate_template_from_graph_html() -> None:
 
 
 def inject_head_assets(s: str) -> str:
-    if 'href="./assets/site-chrome.css"' not in s:
+    if './assets/site-chrome.css' not in s:
         needle = '<link rel="apple-touch-icon" href="./assets/nexsight-mark.svg">\n<style>'
         if needle not in s:
             raise SystemExit("patch: expected apple-touch-icon line before embedded <style>")
         s = s.replace(
             needle,
             '''<link rel="apple-touch-icon" href="./assets/nexsight-mark.svg">
-<link rel="stylesheet" href="./assets/site-chrome.css">
+<link rel="stylesheet" href="./assets/site-chrome.css?v=12">
 <meta name="view-transition" content="same-origin">
 <script>
   window.__NEXSIGHT_CONFIG__ = window.__NEXSIGHT_CONFIG__ || { agentIframeUrl: '', agentApiBase: '' };
@@ -111,7 +144,7 @@ def apply_chrome_patches_to_template_string(s: str) -> str:
       </nav>
     </div>
     <div id="header-controls">
-      <button type="button" class="header-btn header-agent-btn" onclick="window.toggleAgentPanel()" aria-label="问 AI">
+      <button type="button" class="header-btn header-agent-btn" onclick="window.toggleAgentPanel()" aria-label="问 AI" aria-expanded="false" aria-haspopup="dialog" aria-controls="agent-panel">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:16px;height:16px"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
         问 AI
       </button>
@@ -159,51 +192,8 @@ def apply_chrome_patches_to_template_string(s: str) -> str:
   <script src="./assets/vis-network.min.js"></script>
   <script>
 """
-    agent_block = """  <div id="agent-scrim" class="nex-agent-scrim" hidden aria-hidden="true"></div>
-  <div id="agent-panel" class="nex-agent-panel" role="dialog" aria-labelledby="agent-panel-title" aria-modal="true" aria-hidden="true">
-    <div class="nex-agent-panel-head">
-      <h2 id="agent-panel-title">智瞰问答</h2>
-      <button type="button" class="nex-agent-panel-close" id="agent-panel-close" aria-label="关闭">✕</button>
-    </div>
-    <div class="nex-agent-panel-body">
-      <div id="nex-agent-frame-wrap" class="nex-agent-frame-wrap" hidden>
-        <iframe id="nex-agent-frame" class="nex-agent-frame" title="智瞰问答"></iframe>
-      </div>
-      <div id="nex-agent-scaffold" class="nex-agent-scaffold">
-        <div class="nex-agent-sources-strip">
-          <span class="nex-agent-sources-label">来源 / 上下文</span>
-          <p class="nex-agent-sources-text" id="nex-agent-sources-text"></p>
-        </div>
-        <div class="nex-agent-mid">
-          <div id="nex-agent-thread" class="nex-agent-thread nex-agent-thread--idle" role="log" aria-live="polite" aria-relevant="additions" aria-label="对话">
-            <div class="nex-agent-empty" id="nex-agent-empty">
-              <p class="nex-agent-empty-title">向智瞰提问</p>
-              <p class="nex-agent-empty-desc">用自然语言浏览简报与图谱。composer 对齐常见对话 App；应答可来自自托管后端或嵌入 iframe。</p>
-            </div>
-          </div>
-          <div id="nex-agent-chips" class="nex-agent-chips" aria-label="建议问题"></div>
-        </div>
-        <footer class="nex-agent-composer-wrap">
-          <label for="nex-agent-input" class="nex-sr-only">输入问题</label>
-          <textarea id="nex-agent-input" class="nex-agent-input" rows="1" placeholder="问问今日情报…" autocomplete="off"></textarea>
-          <button type="button" class="nex-agent-send" id="nex-agent-send" aria-label="发送">↑</button>
-        </footer>
-        <p class="nex-agent-footnote" id="agent-placeholder-msg">
-          对标 <a href="https://github.com/AsyncFuncAI/deepwiki-open" target="_blank" rel="noopener">DeepWiki-open</a>：在部署层自托管问答后端（FastAPI / RAG），把可嵌入对话页写入 <code>window.__NEXSIGHT_CONFIG__.agentIframeUrl</code>；亦可监听 <code>nexsight-agent-submit</code> 事件。<strong>密钥请勿写入仓库</strong>。
-        </p>
-      </div>
-    </div>
-  </div>
-  <button type="button" id="nex-agent-fab" class="nex-agent-fab" aria-controls="agent-panel">问 AI</button>
-  <div id="subscribe-toast" role="status" aria-live="polite"></div>
-
-  <!-- Data & Libs -->
-  <script id="graph-data" type="application/json">{{DATA}}</script>
-  <script src="./assets/vis-network.min.js"></script>
-  <script src="./assets/site-chrome.js"></script>
-  <script>
-"""
-    if 'src="./assets/site-chrome.js"' not in s:
+    agent_block = graph_agent_with_toast_block() + graph_data_libs_scripts_block()
+    if 'assets/site-chrome.js' not in s:
         if old_libs not in s:
             raise SystemExit("patch: Data & Libs block not found")
         s = s.replace(old_libs, agent_block)
@@ -344,6 +334,7 @@ def apply_chrome_patches_to_template_string(s: str) -> str:
             raise SystemExit("patch: missing <!-- Data & Libs --> for subscribe-toast insert")
         s = s.replace(marker, ins, 1)
 
+    s, _ = upgrade_agent_panel_markup(s)
     s = patch_detail_panel_close(s)
     return s
 
@@ -446,14 +437,24 @@ def main() -> None:
         action="store_true",
         help="After patching, run tools/ensure_graph_js_regexes.py (hardened parseWeeklySummaryText).",
     )
+    ap.add_argument(
+        "--upgrade-agent",
+        action="store_true",
+        help="Replace legacy Ask-AI panel markup in graph.html, graph_template.html, and index.html.",
+    )
     args = ap.parse_args()
     if args.regenerate_from_graph_html:
         regenerate_template_from_graph_html()
+
+    if args.upgrade_agent:
+        upgrade_agent_in_html_files([GRAPH, TPL, INDEX])
+        return
 
     blob = TPL.read_text(encoding="utf-8").replace("\r\n", "\n").strip("\ufeff")
     blob = inject_head_assets(blob)
     blob = apply_chrome_patches_to_template_string(blob)
     blob = strip_header_brief_styles(blob)
+    blob = bump_site_chrome_asset_versions(blob)
     TPL.write_text(blob, encoding="utf-8", newline="\n")
     print("OK patched", TPL)
 

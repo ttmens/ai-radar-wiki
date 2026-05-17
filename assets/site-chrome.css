@@ -82,6 +82,68 @@
   #header-controls {
     flex-wrap: nowrap;
   }
+
+  /* 桌面：顶栏「问 AI」为主入口，隐藏右下角 FAB */
+  .header-agent-btn {
+    display: inline-flex !important;
+  }
+
+  .nex-agent-fab {
+    display: none !important;
+  }
+
+  /* 侧栏顶栏：标题居中，仅显示关闭钮 */
+  .nex-agent-panel-head {
+    display: grid;
+    grid-template-columns: 44px 1fr 44px;
+    align-items: center;
+    justify-content: stretch;
+  }
+
+  .nex-agent-panel-head h2 {
+    grid-column: 2;
+    text-align: center;
+    margin: 0;
+  }
+
+  .nex-agent-back-btn {
+    display: none !important;
+  }
+
+  .nex-agent-panel-close {
+    grid-column: 3;
+    justify-self: end;
+  }
+
+  /* 探索页顶栏节点统计改由画布 HUD 展示，避免挤掉「问 AI」 */
+  body:not(.brief-page) #stats {
+    display: none !important;
+  }
+
+  /* 桌面：侧栏叠在内容上，图谱/简报不被挤压（覆盖误留的 mobile-fullpage） */
+  .nex-agent-panel.nex-agent-panel--mobile-fullpage {
+    width: min(420px, 100vw - 40px) !important;
+    left: auto !important;
+    right: 0 !important;
+  }
+
+  body.agent-panel-open #mynetwork {
+    right: 0 !important;
+    width: 100% !important;
+    left: 0 !important;
+  }
+
+  body.nex-agent-layout-desktop.agent-panel-open .brief-shell,
+  body.nex-agent-layout-desktop.agent-panel-open .brief-root {
+    margin-right: 0 !important;
+    max-width: none !important;
+  }
+}
+
+@media (min-width: 901px) and (max-width: 1240px) {
+  #header-controls .github-btn .count {
+    display: none !important;
+  }
 }
 
 .site-chrome-header h1 {
@@ -279,13 +341,7 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
   display: none;
 }
 
-/* 问 AI：顶栏按钮全端隐藏（桌面不设顶栏入口；窄屏用底部 Tab「问 AI」） */
-.header-agent-btn,
-#header-agent-btn {
-  display: none !important;
-}
-
-/* 圆形 FAB：桌面端显示，作为面板入口 */
+/* 右下角「问 AI」FAB：窄屏已由底部 Tab 承接（见 max-width 900）；宽屏可与顶栏双入口以防顶栏溢出时无处点开 */
 .nex-agent-fab {
   position: fixed;
   right: calc(20px + var(--safe-right));
@@ -306,6 +362,11 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
 
 .nex-agent-fab:hover {
   background: var(--rausch-active);
+}
+
+/* 侧栏开启时隐藏 FAB，避免叠在会话层上 */
+body.agent-panel-open #nex-agent-fab {
+  display: none !important;
 }
 
 /* 图谱周视图等内嵌控件仍用经典白底按钮；顶栏订阅见下条 #header-controls */
@@ -394,6 +455,11 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
   border: 1px solid var(--hairline-soft);
 }
 
+/* 简报页无图谱，顶栏 0 nodes 占位徒占宽度（易把「问 AI」挤出视口） */
+body.brief-page #stats {
+  display: none !important;
+}
+
 .subscribe-wrap {
   position: relative;
   display: inline-flex;
@@ -411,6 +477,21 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
 }
 
 #header-subscribe-btn[aria-expanded="true"]:hover {
+  background: rgba(255, 56, 92, 0.11);
+  border-color: var(--rausch);
+}
+
+/* 桌面顶栏「问 AI」面板打开 — 对齐底部 Tab `.mobile-tab-item--panel-open` 的着色思路 */
+#header-controls .header-btn.header-agent-btn--panel-open {
+  background: rgba(255, 56, 92, 0.08);
+  border-color: rgba(255, 56, 92, 0.45);
+  color: var(--rausch);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.65),
+    0 0 0 1px rgba(255, 56, 92, 0.12);
+}
+
+#header-controls .header-btn.header-agent-btn--panel-open:hover {
   background: rgba(255, 56, 92, 0.11);
   border-color: var(--rausch);
 }
@@ -585,28 +666,6 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
   }
 }
 
-.nex-agent-fab {
-  position: fixed;
-  right: calc(20px + var(--safe-right));
-  bottom: calc(22px + var(--safe-bottom));
-  z-index: 220;
-  min-height: 48px;
-  padding: 0 18px;
-  border-radius: 999px;
-  border: none;
-  background: var(--rausch);
-  color: #fff;
-  font-size: 14px;
-  font-weight: 700;
-  font-family: inherit;
-  cursor: pointer;
-  box-shadow: var(--shadow-lg);
-}
-
-.nex-agent-fab:hover {
-  background: var(--rausch-active);
-}
-
 .nex-agent-scrim {
   position: fixed;
   inset: 0;
@@ -642,6 +701,36 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
   transform: translateX(0);
 }
 
+/* [方案 C] 返回按钮：桌面端隐藏，移动端全屏时显示 */
+.nex-agent-back-btn {
+  display: none;
+  min-width: 44px;
+  min-height: 44px;
+  border: none;
+  background: transparent;
+  color: var(--text-primary);
+  font-size: 13px;
+  font-weight: 600;
+  font-family: inherit;
+  cursor: pointer;
+  align-items: center;
+  gap: 4px;
+  padding: 0 8px 0 4px;
+  border-radius: var(--radius-sm);
+  transition: background 0.15s;
+}
+.nex-agent-back-btn:hover {
+  background: var(--surface-soft);
+}
+.nex-agent-back-btn svg {
+  width: 18px;
+  height: 18px;
+}
+.nex-agent-back-btn[hidden] {
+  display: none !important;
+}
+
+/* [方案 C] 桌面端：关闭按钮始终可见，返回按钮始终隐藏 */
 .nex-agent-panel-head {
   display: flex;
   align-items: center;
@@ -651,9 +740,8 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
 }
 
 .nex-agent-panel-head h2 {
-  font-size: 16px;
-  font-weight: 600;
-  margin: 0;
+  flex: 1;
+  text-align: center;
 }
 
 .nex-agent-panel-close {
@@ -715,37 +803,6 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
   display: none !important;
 }
 
-.nex-agent-sources-strip {
-  flex-shrink: 0;
-  padding: 12px 16px 10px;
-  border-bottom: 1px solid var(--hairline-soft);
-  background: linear-gradient(180deg, var(--surface-soft) 0%, var(--canvas) 100%);
-}
-
-.nex-agent-sources-label {
-  display: block;
-  font-size: 11px;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  color: var(--muted);
-  margin-bottom: 6px;
-}
-
-.nex-agent-sources-text {
-  margin: 0;
-  font-size: 12px;
-  line-height: 1.5;
-  color: var(--body-ink);
-}
-
-.nex-agent-sources-text code {
-  font-size: 11px;
-  padding: 1px 5px;
-  border-radius: 4px;
-  background: var(--surface-soft);
-}
-
 .nex-agent-mid {
   flex: 1 1 auto;
   min-height: 0;
@@ -753,6 +810,7 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
   flex-direction: column;
 }
 
+/* 对话消息流样式（第二份定义，含 white-space: pre-wrap 用于代码块/换行） */
 .nex-agent-thread {
   flex: 1 1 auto;
   min-height: 0;
@@ -769,25 +827,26 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
   justify-content: center;
 }
 
-.nex-agent-bubble-row {
+.nex-agent-message {
   display: flex;
-  margin-bottom: 12px;
+  flex-direction: column;
 }
 
-.nex-agent-bubble-row--user {
-  justify-content: flex-end;
+.nex-agent-message--user {
+  align-items: flex-end;
 }
 
-.nex-agent-bubble-row--assistant {
-  justify-content: flex-start;
+.nex-agent-message--assistant {
+  align-items: flex-start;
 }
 
 .nex-agent-bubble {
-  max-width: 92%;
+  max-width: 85%;
   padding: 10px 14px;
-  border-radius: 16px;
+  border-radius: 14px;
   font-size: 14px;
-  line-height: 1.47;
+  line-height: 1.5;
+  white-space: pre-wrap;
 }
 
 .nex-agent-bubble--user {
@@ -872,12 +931,17 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
 
 .nex-agent-composer-wrap {
   flex-shrink: 0;
+  border-top: 1px solid var(--hairline-soft);
+  background: rgba(255, 255, 255, 0.98);
+}
+
+.nex-agent-composer-inner {
   display: flex;
   align-items: flex-end;
   gap: 8px;
-  padding: 10px 16px calc(14px + var(--safe-bottom));
-  border-top: 1px solid var(--hairline-soft);
-  background: rgba(255, 255, 255, 0.98);
+  padding: 10px 16px calc(10px + var(--safe-bottom));
+  max-width: 720px;
+  margin: 0 auto;
 }
 
 .nex-agent-input {
@@ -885,16 +949,16 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
   min-height: 44px;
   max-height: 132px;
   resize: none;
-  border-radius: 14px;
+  border-radius: 12px;
   border: 1px solid var(--hairline-soft);
-  padding: 11px 14px;
+  padding: 10px 14px;
   font-size: 15px;
-  line-height: 1.38;
+  line-height: 1.45;
   font-family: inherit;
   color: var(--ink);
   background: var(--surface-soft);
   outline: none;
-  transition: border-color 0.15s, box-shadow 0.15s;
+  transition: border-color 0.15s, box-shadow 0.15s, background 0.15s;
 }
 
 .nex-agent-input::placeholder {
@@ -903,27 +967,24 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
 
 .nex-agent-input:focus {
   border-color: var(--rausch);
-  box-shadow: 0 0 0 3px rgba(255, 56, 92, 0.12);
+  box-shadow: 0 0 0 3px rgba(255, 56, 92, 0.08);
   background: var(--canvas);
 }
 
 .nex-agent-send {
   flex-shrink: 0;
-  width: 44px;
-  height: 44px;
-  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
   border: none;
   background: var(--rausch);
   color: #fff;
-  font-size: 20px;
-  line-height: 1;
-  font-weight: 600;
   cursor: pointer;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  box-shadow: var(--shadow-md);
-  transition: background 0.15s;
+  box-shadow: var(--shadow-sm);
+  transition: background 0.15s, transform 0.1s, opacity 0.15s;
   font-family: inherit;
 }
 
@@ -931,20 +992,42 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
   background: var(--rausch-active);
 }
 
-.nex-agent-footnote {
-  flex-shrink: 0;
-  margin: 0;
-  padding: 0 16px 14px;
-  font-size: 11px;
-  line-height: 1.48;
-  color: var(--muted);
-  border-top: 1px solid var(--hairline-soft);
-  padding-top: 10px;
-  background: var(--surface-soft);
+.nex-agent-send:active {
+  transform: scale(0.95);
 }
 
-.nex-agent-footnote a {
-  color: var(--legal-link);
+.nex-agent-send[disabled] {
+  opacity: 0.35;
+  cursor: not-allowed;
+}
+
+.nex-agent-send .nex-agent-send-icon {
+  width: 18px;
+  height: 18px;
+}
+
+.nex-agent-send .nex-agent-stop-icon {
+  width: 16px;
+  height: 16px;
+  display: none;
+}
+
+.nex-agent-send--stop {
+  background: var(--surface-strong) !important;
+  color: var(--text-primary) !important;
+  box-shadow: none !important;
+}
+
+.nex-agent-send--stop:hover {
+  background: var(--surface-soft) !important;
+}
+
+.nex-agent-send--stop .nex-agent-send-icon {
+  display: none;
+}
+
+.nex-agent-send--stop .nex-agent-stop-icon {
+  display: block;
 }
 
 .nex-agent-frame {
@@ -959,13 +1042,8 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
   border: 1px solid var(--hairline-soft);
 }
 
-.nex-agent-frame[hidden],
-.nex-agent-placeholder[hidden] {
+.nex-agent-frame[hidden] {
   display: none !important;
-}
-
-.nex-agent-placeholder {
-  margin: 0 0 12px;
 }
 
 .mobile-tab-item--panel-open {
@@ -1082,6 +1160,11 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
     gap: 6px;
     touch-action: manipulation;
     -webkit-tap-highlight-color: transparent;
+  }
+
+  /* 问 AI：底栏 Tab 已是入口，隐藏顶栏避免双入口（与移动端一致） */
+  .header-agent-btn {
+    display: none !important;
   }
 
   /* 顶栏仅剩「订阅」等控件：略增大触控面积（与 GitHub 圆钮协调） */
@@ -1217,53 +1300,42 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
     text-overflow: ellipsis;
     white-space: nowrap;
   }
+
+  /* [方案 C] 移动端全屏覆盖 */
+  .mobile-tab-bar--hidden {
+    display: none !important;
+  }
+
+  .nex-agent-panel--mobile-fullpage {
+    width: 100vw !important;
+    left: 0 !important;
+    right: 0 !important;
+  }
+
+  /* 移动端：返回按钮显示，关闭按钮隐藏 */
+  .nex-agent-panel--mobile-fullpage .nex-agent-panel-close {
+    display: none;
+  }
+
+  .nex-agent-back-btn {
+    display: inline-flex;
+  }
+
+  .nex-agent-panel--mobile-fullpage .nex-agent-back-btn {
+    display: inline-flex;
+  }
+
+  /* 移动端面板标题居中 */
+  .nex-agent-panel--mobile-fullpage .nex-agent-panel-head {
+    justify-content: center;
+  }
+
+  .nex-agent-panel--mobile-fullpage .nex-agent-panel-head h2 {
+    text-align: center;
+  }
 }
 
 /* ===== 智瞰问答 - 对话样式 ===== */
-.nex-agent-thread {
-  flex: 1;
-  overflow-y: auto;
-  padding: 16px;
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-}
-
-.nex-agent-message {
-  display: flex;
-  flex-direction: column;
-}
-
-.nex-agent-message--user {
-  align-items: flex-end;
-}
-
-.nex-agent-message--assistant {
-  align-items: flex-start;
-}
-
-.nex-agent-bubble {
-  max-width: 85%;
-  padding: 10px 14px;
-  border-radius: 14px;
-  font-size: 14px;
-  line-height: 1.5;
-  white-space: pre-wrap;
-}
-
-.nex-agent-bubble--user {
-  background: var(--rausch);
-  color: white;
-  border-bottom-right-radius: 4px;
-}
-
-.nex-agent-bubble--assistant {
-  background: var(--panel-bg);
-  color: var(--text-primary);
-  border: 1px solid var(--hairline-soft);
-  border-bottom-left-radius: 4px;
-}
-
 .nex-agent-typing {
   display: flex;
   gap: 4px;
@@ -1306,15 +1378,112 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
   }
 }
 
-body.agent-panel-open #mynetwork {
-  right: 420px !important;
-  width: calc(100% - 420px) !important;
-  transition: right 0.28s ease, width 0.28s ease;
-}
-
 @media (max-width: 900px) {
   body.agent-panel-open #mynetwork {
     right: 0 !important;
     width: 100% !important;
   }
 }
+
+/* ===== Phase 2 新增样式 ===== */
+
+/* 阶段提示 */
+.thinking-indicator {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 0;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.thinking-dots {
+  display: inline-flex;
+  gap: 4px;
+}
+
+.thinking-dots span {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--muted);
+  animation: agent-typing 1.4s infinite;
+}
+
+.thinking-dots span:nth-child(2) { animation-delay: 0.2s; }
+.thinking-dots span:nth-child(3) { animation-delay: 0.4s; }
+
+/* 停止按钮 */
+.nex-agent-send--stop {
+  background: var(--surface-strong) !important;
+  color: var(--text-primary) !important;
+  box-shadow: none !important;
+}
+
+.nex-agent-send--stop:hover {
+  background: var(--surface-soft) !important;
+}
+
+/* 反馈按钮 */
+.nex-agent-feedback {
+  display: flex;
+  gap: 8px;
+  margin-top: 6px;
+  opacity: 0.7;
+  transition: opacity 0.15s;
+}
+
+.nex-agent-feedback:hover {
+  opacity: 1;
+}
+
+.nex-agent-feedback-btn {
+  background: none;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  padding: 4px;
+  border-radius: 50%;
+  transition: background 0.15s, transform 0.15s;
+  line-height: 1;
+}
+
+.nex-agent-feedback-btn:hover {
+  background: var(--surface-soft);
+  transform: scale(1.15);
+}
+
+.nex-agent-feedback-done {
+  font-size: 11px;
+  color: var(--emerald, #00a854);
+  font-weight: 500;
+}
+
+.nex-agent-feedback-form {
+  display: flex;
+  gap: 6px;
+  margin-top: 6px;
+}
+
+.nex-agent-feedback-form[hidden] {
+  display: none;
+}
+
+.nex-agent-feedback-form button {
+  padding: 4px 10px;
+  border-radius: var(--radius-full);
+  border: 1px solid var(--hairline-soft);
+  background: var(--canvas);
+  font-size: 11px;
+  color: var(--muted);
+  cursor: pointer;
+  font-family: inherit;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+
+.nex-agent-feedback-form button:hover {
+  background: var(--surface-soft);
+  border-color: var(--border-strong);
+  color: var(--body-ink);
+}
+

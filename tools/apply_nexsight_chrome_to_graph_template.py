@@ -2,10 +2,23 @@
 """UTF-8–safe one-shot: merge NexSight chrome into graph_template.html (no editor mojibake)."""
 from __future__ import annotations
 
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 TPL = ROOT / "graph_template.html"
+
+sys.path.insert(0, str(ROOT / "tools"))
+from nex_agent_panel_markup import (  # noqa: E402
+    SITE_CHROME_ASSET_VER,
+    graph_agent_with_toast_block,
+    graph_data_libs_scripts_block,
+    upgrade_agent_panel_markup,
+)
+
+
+def graph_agent_insert_block() -> str:
+    return graph_agent_with_toast_block() + graph_data_libs_scripts_block()
 
 OLD_HEAD = """  <!-- Header -->
   <div id="header">
@@ -42,7 +55,7 @@ NEW_HEAD = """  <!-- Header -->
       </nav>
     </div>
     <div id="header-controls">
-      <button type="button" class="header-btn header-agent-btn" onclick="window.toggleAgentPanel()" aria-label="问 AI">
+      <button type="button" class="header-btn header-agent-btn" onclick="window.toggleAgentPanel()" aria-label="问 AI" aria-expanded="false" aria-haspopup="dialog" aria-controls="agent-panel">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:16px;height:16px"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
         问 AI
       </button>
@@ -81,53 +94,9 @@ OLD_LIBS = """  <!-- Data & Libs -->
   <script>
 """
 
-AGENT_BLOCK = """  <div id="agent-scrim" class="nex-agent-scrim" hidden aria-hidden="true"></div>
-  <div id="agent-panel" class="nex-agent-panel" role="dialog" aria-labelledby="agent-panel-title" aria-modal="true" aria-hidden="true">
-    <div class="nex-agent-panel-head">
-      <h2 id="agent-panel-title">智瞰问答</h2>
-      <button type="button" class="nex-agent-panel-close" id="agent-panel-close" aria-label="关闭">✕</button>
-    </div>
-    <div class="nex-agent-panel-body">
-      <div id="nex-agent-frame-wrap" class="nex-agent-frame-wrap" hidden>
-        <iframe id="nex-agent-frame" class="nex-agent-frame" title="智瞰问答"></iframe>
-      </div>
-      <div id="nex-agent-scaffold" class="nex-agent-scaffold">
-        <div class="nex-agent-sources-strip">
-          <span class="nex-agent-sources-label">来源 / 上下文</span>
-          <p class="nex-agent-sources-text" id="nex-agent-sources-text"></p>
-        </div>
-        <div class="nex-agent-mid">
-          <div id="nex-agent-thread" class="nex-agent-thread nex-agent-thread--idle" role="log" aria-live="polite" aria-relevant="additions" aria-label="对话">
-            <div class="nex-agent-empty" id="nex-agent-empty">
-              <p class="nex-agent-empty-title">向智瞰提问</p>
-              <p class="nex-agent-empty-desc">用自然语言浏览简报与图谱。composer 对齐常见对话 App；应答可来自自托管后端或嵌入 iframe。</p>
-            </div>
-          </div>
-          <div id="nex-agent-chips" class="nex-agent-chips" aria-label="建议问题"></div>
-        </div>
-        <footer class="nex-agent-composer-wrap">
-          <label for="nex-agent-input" class="nex-sr-only">输入问题</label>
-          <textarea id="nex-agent-input" class="nex-agent-input" rows="1" placeholder="问问今日情报…" autocomplete="off"></textarea>
-          <button type="button" class="nex-agent-send" id="nex-agent-send" aria-label="发送">↑</button>
-        </footer>
-        <p class="nex-agent-footnote" id="agent-placeholder-msg">
-          对标 <a href="https://github.com/AsyncFuncAI/deepwiki-open" target="_blank" rel="noopener">DeepWiki-open</a>：在部署层自托管问答后端（FastAPI / RAG），把可嵌入对话页写入 <code>window.__NEXSIGHT_CONFIG__.agentIframeUrl</code>；亦可监听 <code>nexsight-agent-submit</code> 事件。<strong>密钥请勿写入仓库</strong>。
-        </p>
-      </div>
-    </div>
-  </div>
-  <button type="button" id="nex-agent-fab" class="nex-agent-fab" aria-controls="agent-panel">问 AI</button>
-
-  <!-- Data & Libs -->
-  <script id="graph-data" type="application/json">{{DATA}}</script>
-  <script src="./assets/vis-network.min.js"></script>
-  <script src="./assets/site-chrome.js"></script>
-  <script>
-"""
-
 HEAD_NEEDLE = '<link rel="apple-touch-icon" href="./assets/nexsight-mark.svg">\n<style>'
 HEAD_REPL = '''<link rel="apple-touch-icon" href="./assets/nexsight-mark.svg">
-<link rel="stylesheet" href="./assets/site-chrome.css">
+<link rel="stylesheet" href="./assets/site-chrome.css?v=12">
 <meta name="view-transition" content="same-origin">
 <script>
   window.__NEXSIGHT_CONFIG__ = window.__NEXSIGHT_CONFIG__ || { agentIframeUrl: '', agentApiBase: '' };
@@ -136,7 +105,7 @@ HEAD_REPL = '''<link rel="apple-touch-icon" href="./assets/nexsight-mark.svg">
 
 
 def inject_head_assets(s: str) -> str:
-    if 'href="./assets/site-chrome.css"' in s:
+    if './assets/site-chrome.css' in s:
         return s
     if HEAD_NEEDLE not in s:
         raise SystemExit("inject_head: apple-touch-icon + <style> needle not found")
@@ -184,10 +153,10 @@ def main() -> None:
         if MOBILE_INSERT_MARK not in s:
             raise SystemExit("mobile: insertion marker not found")
         s = s.replace(MOBILE_INSERT_MARK, MOBILE_BLOCK, 1)
-    if 'src="./assets/site-chrome.js"' not in s:
+    if 'assets/site-chrome.js' not in s:
         if OLD_LIBS not in s:
             raise SystemExit("libs: OLD_LIBS not found")
-        s = s.replace(OLD_LIBS, AGENT_BLOCK, 1)
+        s = s.replace(OLD_LIBS, graph_agent_insert_block(), 1)
     s = inject_brand_scroll_desktop(s)
     old_sync = """    function syncHeaderHeight() {
       const el = document.getElementById('header');
@@ -222,6 +191,7 @@ def main() -> None:
       // 更新概念计数（如果有这个元素）"""
     if old_stat in s:
         s = s.replace(old_stat, new_stat, 1)
+    s, _ = upgrade_agent_panel_markup(s)
     TPL.write_text(s, encoding="utf-8", newline="\n")
     print("OK wrote", TPL)
 

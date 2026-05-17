@@ -10,7 +10,7 @@
 <title>智瞰 NexSight — 今日简报</title>
 <link rel="icon" href="./assets/nexsight-mark.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="./assets/nexsight-mark.svg">
-<link rel="stylesheet" href="./assets/site-chrome.css?v=3">
+<link rel="stylesheet" href="./assets/site-chrome.css?v=13">
 <link rel="stylesheet" href="./assets/brief-page.css">
 <script>
   window.__NEXSIGHT_CONFIG__ = window.__NEXSIGHT_CONFIG__ || {
@@ -41,7 +41,7 @@
       </nav>
     </div>
     <div id="header-controls">
-      <button type="button" class="header-btn header-agent-btn" onclick="window.toggleAgentPanel()" aria-label="问 AI">
+      <button type="button" class="header-btn header-agent-btn" onclick="window.toggleAgentPanel()" aria-label="问 AI" aria-expanded="false" aria-haspopup="dialog" aria-controls="agent-panel">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:16px;height:16px"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
         问 AI
       </button>
@@ -128,6 +128,10 @@
   <div id="agent-scrim" class="nex-agent-scrim" hidden aria-hidden="true"></div>
   <div id="agent-panel" class="nex-agent-panel" role="dialog" aria-labelledby="agent-panel-title" aria-modal="true" aria-hidden="true">
     <div class="nex-agent-panel-head">
+      <button type="button" class="nex-agent-back-btn" id="agent-back-btn" onclick="window.toggleAgentPanel()" aria-label="返回" hidden>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><polyline points="12 19 5 12 12 5"/></svg>
+        <span class="nex-agent-back-label">返回</span>
+      </button>
       <h2 id="agent-panel-title">智瞰问答</h2>
       <button type="button" class="nex-agent-panel-close" id="agent-panel-close" aria-label="关闭">✕</button>
     </div>
@@ -136,34 +140,32 @@
         <iframe id="nex-agent-frame" class="nex-agent-frame" title="智瞰问答"></iframe>
       </div>
       <div id="nex-agent-scaffold" class="nex-agent-scaffold">
-        <div class="nex-agent-sources-strip">
-          <span class="nex-agent-sources-label">来源 / 上下文</span>
-          <p class="nex-agent-sources-text" id="nex-agent-sources-text"></p>
-        </div>
         <div class="nex-agent-mid">
           <div id="nex-agent-thread" class="nex-agent-thread nex-agent-thread--idle" role="log" aria-live="polite" aria-relevant="additions" aria-label="对话">
             <div class="nex-agent-empty" id="nex-agent-empty">
               <p class="nex-agent-empty-title">向智瞰提问</p>
-              <p class="nex-agent-empty-desc">用自然语言浏览简报与图谱。composer 对齐常见对话 App；应答可来自自托管后端或嵌入 iframe。</p>
+              <p class="nex-agent-empty-desc">用自然语言浏览简报与图谱。应答基于本站情报数据。</p>
             </div>
           </div>
           <div id="nex-agent-chips" class="nex-agent-chips" aria-label="建议问题"></div>
         </div>
         <footer class="nex-agent-composer-wrap">
-          <label for="nex-agent-input" class="nex-sr-only">输入问题</label>
-          <textarea id="nex-agent-input" class="nex-agent-input" rows="1" placeholder="问问今日情报…" autocomplete="off"></textarea>
-          <button type="button" class="nex-agent-send" id="nex-agent-send" aria-label="发送">↑</button>
+          <div class="nex-agent-composer-inner">
+            <label for="nex-agent-input" class="nex-sr-only">输入问题</label>
+            <textarea id="nex-agent-input" class="nex-agent-input" rows="1" placeholder="问问今日情报…" autocomplete="off"></textarea>
+            <button type="button" class="nex-agent-send" id="nex-agent-send" aria-label="发送">
+              <svg class="nex-agent-send-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="19" x2="12" y2="5"/><polyline points="5 12 12 5 19 12"/></svg>
+              <svg class="nex-agent-stop-icon" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="6" width="12" height="12" rx="2"/></svg>
+            </button>
+          </div>
         </footer>
-        <p class="nex-agent-footnote" id="agent-placeholder-msg">
-          对标 <a href="https://github.com/AsyncFuncAI/deepwiki-open" target="_blank" rel="noopener">DeepWiki-open</a>：在部署层自托管问答后端（FastAPI / RAG），把可嵌入对话页写入 <code>window.__NEXSIGHT_CONFIG__.agentIframeUrl</code>；亦可监听 <code>nexsight-agent-submit</code> 事件。<strong>密钥请勿写入仓库</strong>。
-        </p>
       </div>
     </div>
   </div>
   <button type="button" id="nex-agent-fab" class="nex-agent-fab" aria-controls="agent-panel">问 AI</button>
   <div id="subscribe-toast" role="status" aria-live="polite"></div>
 
-  <script src="./assets/site-chrome.js?v=4"></script>
+  <script src="./assets/site-chrome.js?v=13"></script>
   <script>
 (function () {
   function escapeHtml(t) {
