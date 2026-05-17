@@ -1,0 +1,66 @@
+{
+  "daily_summary": {
+    "date": "2026-05-18",
+    "headline": "今日 AI 情报 · 2026-05-18",
+    "overview": "AI 产品化需警惕技术崇拜，回归商业价值与务实设计",
+    "narratives": [
+      {
+        "title": "AI落地：从技术崇拜到商业务实",
+        "body": "今日情报共同揭示一个关键转折：行业开始意识到AI并非万能加速器，而是一种需要精心设计的底层技术。产品经理必须跳出“AI替代一切”的思维，转而关注人机协作、成本可控和替换灵活性。这一趋势将推动AI产品从堆叠模型参数转向解决真实业务痛点，企业采购也将从盲目订阅转向审慎评估。",
+        "type": "paradigm_shift",
+        "pillar_key": "capabilities"
+      }
+    ],
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI落地：从技术崇拜到商业务实",
+        "insight": "AI落地：从技术崇拜到商业务实。该方向的具体信号：两篇技术向文章均指出AI本身非产品，盲目套用会引入延迟与成本，流程加速依赖系统设计而非AI技术本身。",
+        "evidence": [
+          {
+            "id": "i-dont-think-ai-will-make-your-processes-go-faster",
+            "title": "I don't think AI will make your processes go faster (PM 0.60)",
+            "score": 0.6
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI落地：从技术崇拜到商业务实",
+        "insight": "AI落地：从技术崇拜到商业务实。该方向的具体信号：企业AI订阅模式被揭示存在供应商锁定、数据合规和成本失控风险，产品设计需内置可替换性与透明定价。",
+        "evidence": [
+          {
+            "id": "every-ai-subscription-is-a-ticking-time-bomb-for-enterprise",
+            "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise (PM 0.58)",
+            "score": 0.58
+          }
+        ]
+      }
+    ],
+    "stats": "技术能力: 3 | 产品模式: 0 | 工具生态: 0 | 商业趋势: 1",
+    "total_items": 4,
+    "high_value_count": 3,
+    "all_today_ids": [
+      {
+        "id": "i-dont-think-ai-will-make-your-processes-go-faster",
+        "label": "I don't think AI will make your processes go faster"
+      },
+      {
+        "id": "every-ai-subscription-is-a-ticking-time-bomb-for-enterprise",
+        "label": "Every AI Subscription Is a Ticking Time Bomb for Enterprise"
+      },
+      {
+        "id": "ai-is-a-technology-not-a-product",
+        "label": "AI is a technology not a product"
+      },
+      {
+        "id": "prolog-basics-explained-with-pokémon",
+        "label": "Prolog Basics Explained with Pokémon"
+      }
+    ],
+    "date_bj": "2026-05-18 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-05-18 00:01:39"
+  }
+}

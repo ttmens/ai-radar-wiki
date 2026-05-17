@@ -617,3 +617,9 @@
 - create: feder-crjobs_applier_ai_agent_aihawk.md
 - create: zerostack-a-unix-inspired-coding-agent-written-in-pure-rust.md
 - create: openai-and-government-of-malta-partner-to-roll-out-chatgpt-plus-to-all-citizens.md
+
+## [2026-05-18 00:02] sync v3 | 4 new | pillars: {'capabilities': 4}
+- create: i-dont-think-ai-will-make-your-processes-go-faster.md
+- create: every-ai-subscription-is-a-ticking-time-bomb-for-enterprise.md
+- create: prolog-basics-explained-with-pokémon.md
+- create: ai-is-a-technology-not-a-product.md

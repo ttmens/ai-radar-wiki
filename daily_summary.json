@@ -1,136 +1,66 @@
 {
   "daily_summary": {
-    "date": "2026-05-17",
-    "headline": "今日 AI 情报 · 2026-05-17",
-    "overview": "AI代理规模化落地面临成本与可控性双重考验，同时平台整合加速。",
+    "date": "2026-05-18",
+    "headline": "今日 AI 情报 · 2026-05-18",
+    "overview": "AI 产品化需警惕技术崇拜，回归商业价值与务实设计",
     "narratives": [
       {
-        "title": "AI代理从工具进化为自主执行者，但成本与可控性成为新瓶颈",
-        "body": "多个产品（AIHawk求职代理、Zerostack编码代理）和成本案例（OpenClaw花费$1.3M）表明，AI代理正在从实验走向真实应用，但高昂的推理成本和记忆持久化问题成为规模化瓶颈。产品经理需在功能与成本间平衡，探索缓存、混合部署等优化策略。",
-        "type": "bottleneck",
-        "pillar_key": "patterns"
-      },
-      {
-        "title": "AI能力集成与生态化：从单一模型到平台级产品",
-        "body": "OpenAI整合ChatGPT与Codex、与政府合作推广、开源世界模型SANA-WM以及学术平台对AI使用的监管，共同反映出AI正从孤立的模型能力向集成化平台和规范化生态演进。产品经理应关注能力融合带来的新场景和生态规则带来的合规风险。",
-        "type": "maturation",
+        "title": "AI落地：从技术崇拜到商业务实",
+        "body": "今日情报共同揭示一个关键转折：行业开始意识到AI并非万能加速器，而是一种需要精心设计的底层技术。产品经理必须跳出“AI替代一切”的思维，转而关注人机协作、成本可控和替换灵活性。这一趋势将推动AI产品从堆叠模型参数转向解决真实业务痛点，企业采购也将从盲目订阅转向审慎评估。",
+        "type": "paradigm_shift",
         "pillar_key": "capabilities"
       }
     ],
     "insights": [
       {
-        "pillar": "📱 产品模式",
-        "pillar_key": "patterns",
-        "narrative_title": "AI代理从工具进化为自主执行者，但成本与可控性成为新瓶颈",
-        "insight": "AI代理从工具进化为自主执行者，但成本与可控性成为新瓶颈。该方向的具体信号：求职代理AIHawk和编码代理Zerostack展示了自动化闭环的价值，但OpenClaw的$1.3M tokens开销警示依赖单一API的风险，同时Δ-Mem记忆机制虽降低计算成本但需工程适配，产品经理应优先定义代理的边界与降本路径。",
-        "evidence": [
-          {
-            "id": "feder-crjobs_applier_ai_agent_aihawk",
-            "title": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
-            "score": 0.58
-          },
-          {
-            "id": "zerostack-a-unix-inspired-coding-agent-written-in-pure-rust",
-            "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-            "score": 0.58
-          },
-          {
-            "id": "openclaw-creator-spent-13m-on-openai-tokens-in-30-days",
-            "title": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
-            "score": 0.55
-          }
-        ]
-      },
-      {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "narrative_title": "AI能力集成与生态化：从单一模型到平台级产品",
-        "insight": "AI能力集成与生态化：从单一模型到平台级产品。该方向的具体信号：OpenAI整合ChatGPT与Codex并掌舵产品战略，政府买单推广ChatGPT Plus，开源世界模型SANA-WM降低长视频生成门槛，同时ArXiv禁止AI全程写作推动合规边界——产品经理需在能力融合与生态规则中寻找差异化机会。",
+        "narrative_title": "AI落地：从技术崇拜到商业务实",
+        "insight": "AI落地：从技术崇拜到商业务实。该方向的具体信号：两篇技术向文章均指出AI本身非产品，盲目套用会引入延迟与成本，流程加速依赖系统设计而非AI技术本身。",
         "evidence": [
           {
-            "id": "openai-and-government-of-malta-partner-to-roll-out-chatgpt-plus-to-all-citizens",
-            "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all",
-            "score": 0.56
-          },
+            "id": "i-dont-think-ai-will-make-your-processes-go-faster",
+            "title": "I don't think AI will make your processes go faster (PM 0.60)",
+            "score": 0.6
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI落地：从技术崇拜到商业务实",
+        "insight": "AI落地：从技术崇拜到商业务实。该方向的具体信号：企业AI订阅模式被揭示存在供应商锁定、数据合规和成本失控风险，产品设计需内置可替换性与透明定价。",
+        "evidence": [
           {
-            "id": "openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy",
-            "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product str",
-            "score": 0.48
-          },
-          {
-            "id": "sana-wm-a-26b-open-source-world-model-for-1-minute-720p-video",
-            "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-            "score": 0.56
+            "id": "every-ai-subscription-is-a-ticking-time-bomb-for-enterprise",
+            "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise (PM 0.58)",
+            "score": 0.58
           }
         ]
       }
     ],
-    "stats": "技术能力: 8 | 产品模式: 3 | 工具生态: 2 | 商业趋势: 2",
-    "total_items": 15,
-    "high_value_count": 13,
+    "stats": "技术能力: 3 | 产品模式: 0 | 工具生态: 0 | 商业趋势: 1",
+    "total_items": 4,
+    "high_value_count": 3,
     "all_today_ids": [
       {
-        "id": "feder-crjobs_applier_ai_agent_aihawk",
-        "label": "feder-cr/Jobs_Applier_AI_Agent_AIHawk"
+        "id": "i-dont-think-ai-will-make-your-processes-go-faster",
+        "label": "I don't think AI will make your processes go faster"
       },
       {
-        "id": "zerostack-a-unix-inspired-coding-agent-written-in-pure-rust",
-        "label": "Zerostack – A Unix-inspired coding agent written in pure Rust"
+        "id": "every-ai-subscription-is-a-ticking-time-bomb-for-enterprise",
+        "label": "Every AI Subscription Is a Ticking Time Bomb for Enterprise"
       },
       {
-        "id": "openai-and-government-of-malta-partner-to-roll-out-chatgpt-plus-to-all-citizens",
-        "label": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens"
+        "id": "ai-is-a-technology-not-a-product",
+        "label": "AI is a technology not a product"
       },
       {
-        "id": "sana-wm-a-26b-open-source-world-model-for-1-minute-720p-video",
-        "label": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video"
-      },
-      {
-        "id": "openclaw-creator-spent-13m-on-openai-tokens-in-30-days",
-        "label": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days"
-      },
-      {
-        "id": "δ-mem-efficient-online-memory-for-large-language-models",
-        "label": "Δ-Mem: Efficient Online Memory for Large Language Models"
-      },
-      {
-        "id": "the-haves-and-have-nots-of-the-ai-gold-rush",
-        "label": "The haves and have nots of the AI gold rush"
-      },
-      {
-        "id": "openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy",
-        "label": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy"
-      },
-      {
-        "id": "html-lists",
-        "label": "HTML Lists"
-      },
-      {
-        "id": "research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the",
-        "label": "Research repository ArXiv will ban authors for a year if they let AI do all the"
-      },
-      {
-        "id": "gaining-control-of-every-projector-and-camera-on-campus",
-        "label": "Gaining control of every projector and camera on campus"
-      },
-      {
-        "id": "moving-away-from-tailwind-and-learning-to-structure-my-css",
-        "label": "Moving away from Tailwind, and learning to structure my CSS"
-      },
-      {
-        "id": "deepseek-v4-flash-means-llm-steering-is-interesting-again",
-        "label": "DeepSeek-V4-Flash means LLM steering is interesting again"
-      },
-      {
-        "id": "show-hn-a-dark-cave-minimalistic-graphics-in-the-age-of-ai-slop",
-        "label": "Show HN: A Dark Cave – Minimalistic Graphics in the Age of AI Slop"
-      },
-      {
-        "id": "my-favorite-bugs-invalid-surrogate-pairs",
-        "label": "My Favorite Bugs: Invalid Surrogate Pairs"
+        "id": "prolog-basics-explained-with-pokémon",
+        "label": "Prolog Basics Explained with Pokémon"
       }
     ],
-    "date_bj": "2026-05-17 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-17 18:01:26"
+    "date_bj": "2026-05-18 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-05-18 00:01:39"
   }
 }

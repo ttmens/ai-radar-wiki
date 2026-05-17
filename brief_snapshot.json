@@ -1,154 +1,44 @@
 {
-  "date": "2026-05-17",
-  "generated_at": "2026-05-17T18:01:57.727957+08:00",
-  "item_count": 13,
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T00:02:01.799893+08:00",
+  "item_count": 3,
   "items": [
     {
-      "id": "feder-crjobs_applier_ai_agent_aihawk",
-      "label": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
-      "summary": "AIHawk是一个基于AI的求职申请自动化代理，能够根据用户设定自动生成定制化简历和求职信，并批量提交申请。其核心能力包括智能解析职位描述、匹配个人背景、以及多平台申请自动化。该工具显著降低求职者的重复性劳动，提升申请效率与个性化程度，展示了AI Agent在垂直场景（招聘）中的落地价值。产品创新点在于将LLM驱动的决策与自动化流程结合，形成完整的闭环体验。",
-      "pm_score": 0.58,
-      "pillar": "patterns",
-      "type": "github",
-      "source_type": "github",
-      "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
-      "date": "2026-05-17"
-    },
-    {
-      "id": "zerostack-a-unix-inspired-coding-agent-written-in-pure-rust",
-      "label": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-      "summary": "Zerostack 是一个受 Unix 哲学启发的 AI 编码代理，完全用 Rust 实现。它借鉴了 Unix 的模块化、管道和组合原则，旨在提供高效、可扩展的代码生成与执行能力。使用 Rust 带来了内存安全和极致性能，适合构建可靠的开发者工具。产品创新点在于将经典操作系统设计理念融入现代 AI 代理，有望提升代码生成的透明度和可控性。商业上可定位为面向开发者的高效辅助工具，尤其适合对性能和安全性有高要求的场景。",
-      "pm_score": 0.58,
-      "pillar": "patterns",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48164287",
-      "date": "2026-05-17"
-    },
-    {
-      "id": "openai-and-government-of-malta-partner-to-roll-out-chatgpt-plus-to-all-citizens",
-      "label": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
-      "summary": "OpenAI 与马耳他政府达成合作，向所有公民提供 ChatGPT Plus 订阅服务。这一举措将 AI 助手直接集成到公共服务中，覆盖全体国民，具有极高的商业价值和产品创新意义。技术要点上，ChatGPT Plus 基于 GPT-4 模型，支持更长的上下文、更快的响应和优先访问新功能。商业上，政府买单的模式为 AI 产品的大规模推广提供了新路径，也体现了 AI 在公共教育、医疗、政务等场景的落地潜力。产品创新在于将消费级 AI 工具转化为普惠型公共服务，可能改变政府与公民的互动方式。",
-      "pm_score": 0.565,
-      "pillar": "ecosystem",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48163392",
-      "date": "2026-05-17"
-    },
-    {
-      "id": "sana-wm-a-26b-open-source-world-model-for-1-minute-720p-video",
-      "label": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-      "summary": "SANA-WM是一个拥有26亿参数的开源世界模型，能够生成长达1分钟、720p分辨率的视频。它通过学习视频帧间的物理规律和动态变化，实现高质量的视频预测与生成。该模型开放源代码，降低了世界模型技术的使用门槛，对游戏开发、影视制作、仿真模拟等领域的AI产品创新具有重要商业价值。产品经理可关注其长视频生成能力与开源生态带来的应用潜力，未来可能结合交互式内容创作或自动驾驶模拟。",
-      "pm_score": 0.565,
+      "id": "i-dont-think-ai-will-make-your-processes-go-faster",
+      "label": "I don't think AI will make your processes go faster",
+      "summary": "这篇 HN 帖子标题直指一个常见误区：AI 并不必然加速业务流程。对于 AI 产品经理而言，需警惕盲目将 AI 套用到现有流程中，而应重新思考业务本质。技术要点在于，AI 可能引入新的延迟、幻觉或维护成本，导致整体效率不升反降。商业价值在于提醒产品经理更关注 ROI 而非单纯追求自动化。产品创新角度，应优先设计人机协作流程，而非全自动替换。核心洞察是：流程加速依赖系统设计，AI 只是其中一环，过度承诺可能导致产品失败。",
+      "pm_score": 0.6,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48159445",
-      "date": "2026-05-17"
+      "url": "https://news.ycombinator.com/item?id=48168221",
+      "date": "2026-05-18"
     },
     {
-      "id": "openclaw-creator-spent-13m-on-openai-tokens-in-30-days",
-      "label": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
-      "summary": "OpenClaw创建者在30天内花费130万美元用于OpenAI API tokens，揭示了大规模部署AI应用时高昂的推理成本。这一案例对AI产品经理具有重要警示：在追求用户规模和功能丰富度的同时，必须将API成本控制纳入产品设计核心。高额支出可能来自持续会话、长上下文或高频调用，这促使产品经理探索缓存、语义压缩、本地模型混合部署等成本优化策略。同时，该现象也表明存在极端依赖单一API的商业风险，需评估替代模型或自建推理基础设施的可行性。商业化落地需在模型能力与成本效益间取得平衡。",
-      "pm_score": 0.55,
+      "id": "every-ai-subscription-is-a-ticking-time-bomb-for-enterprise",
+      "label": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+      "summary": "本文指出，企业采用AI订阅模式（如ChatGPT企业版、Copilot等）存在重大隐患，类似于“定时炸弹”。主要风险包括：供应商锁定导致的高昂迁移成本、数据隐私与合规问题（特别是当模型持续更新时）、以及成本失控（按用户/Token计费可能随使用量激增）。对于AI产品经理，这意味着设计产品时需考虑可替换性、数据隔离和透明定价机制，避免客户因依赖单一订阅而产生长期风险。核心挑战在于平衡AI能力的持续交付与企业对稳定、可控IT系统的需求。",
+      "pm_score": 0.585,
       "pillar": "business",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48159227",
-      "date": "2026-05-17"
+      "url": "https://news.ycombinator.com/item?id=48168056",
+      "date": "2026-05-18"
     },
     {
-      "id": "δ-mem-efficient-online-memory-for-large-language-models",
-      "label": "Δ-Mem: Efficient Online Memory for Large Language Models",
-      "summary": "Δ-Mem 提出了一种高效的在线记忆机制，用于增强大型语言模型（LLM）的长期上下文保持能力，通过增量更新而非全量重计算来降低显存和计算开销。该技术解决了 LLM 在对话、知识追踪等场景中记忆持久化的瓶颈，使得模型能够在不损失性能的情况下持续学习新信息。对于产品经理，这意味着可以构建更智能的长期记忆型 AI 助手，提升用户粘性和个性化体验，同时降低部署成本。其创新点在于兼顾效率与准确性，为在线学习模式开辟了新路径。",
-      "pm_score": 0.48,
-      "pillar": "patterns",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48158506",
-      "date": "2026-05-17"
-    },
-    {
-      "id": "the-haves-and-have-nots-of-the-ai-gold-rush",
-      "label": "The haves and have nots of the AI gold rush",
-      "summary": "文章指出当前AI淘金热中，资源丰富的巨头与资源匮乏的初创公司之间差距日益扩大，即使是科技行业内部也对AI热潮感到不安。对AI产品经理而言，这意味着需要警惕泡沫风险，优先关注可持续的商业模式而非盲目跟风。技术要点在于识别哪些AI能力能带来真正的用户价值，而非单纯追求模型规模。商业价值上，拥有算力、数据壁垒的企业将占据优势，但产品创新应聚焦在垂直场景的深度适配和成本优化上，以在资源不均的环境中寻找突破口。",
-      "pm_score": 0.48,
-      "pillar": "business",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-      "date": "2026-05-17"
-    },
-    {
-      "id": "openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy",
-      "label": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy",
-      "summary": "OpenAI联合创始人布罗克曼重新掌管产品战略，并将推动ChatGPT与编程工具Codex的整合。此举旨在打造统一的多模态AI平台，将通用对话能力与代码生成深度融合，拓展开发者生态。对产品经理而言，这标志着OpenAI从单一能力向综合开发平台转型，有望提升开发者效率、降低门槛，并为AI应用带来更连贯的交互体验。战略合并也预示着未来AI产品将更注重功能集成与场景闭环。",
-      "pm_score": 0.48,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-      "date": "2026-05-17"
-    },
-    {
-      "id": "html-lists",
-      "label": "HTML Lists",
-      "summary": "本文源自Hacker News关于HTML列表的讨论，虽然内容未提供具体摘要，但结合初步分类为'capabilities'，可推测其涉及AI系统对HTML结构化数据的理解与处理能力。对于AI产品经理而言，这一技术要点体现为模型解析半结构化文本（如无序/有序列表）的精确度提升，进而支持更复杂的信息提取与交互场景，如自动生成摘要、构建知识图谱或增强文档检索。商业价值在于优化网页内容理解，降低人工标注成本。产品创新上，可应用于智能笔记、代码辅助或数据可视化工具。",
-      "pm_score": 0.475,
+      "id": "ai-is-a-technology-not-a-product",
+      "label": "AI is a technology not a product",
+      "summary": "AI 本身是一种底层技术能力，而非可直接交付的产品。产品经理需要避免陷入技术崇拜，而应聚焦于如何将 AI 能力无缝嵌入到用户场景中，解决实际问题。真正的产品创新在于设计人性化的交互流程、控制成本与延迟、管理用户期望而非堆砌模型参数。商业价值体现在 AI 与传统业务流程的深度整合，而非单独售卖 API 或模型。",
+      "pm_score": 0.465,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48161861",
-      "date": "2026-05-17"
-    },
-    {
-      "id": "research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the",
-      "label": "Research repository ArXiv will ban authors for a year if they let AI do all the",
-      "summary": "知名预印本平台ArXiv宣布新规：若发现论文作者让AI完成全部工作（如使用大语言模型生成全文而未披露或不加审核），将面临一年内禁止投稿的处罚。此举旨在遏制科学论文中随意使用LLM导致的质量和诚信问题。对AI产品经理而言，这标志着学术生态对AI辅助写作的边界划定，提示AI工具需设计清晰的辅助角色和合规标记功能。商业上，类似政策可能向其他内容平台蔓延，影响AI写作助手的产品策略与风险管理。",
-      "pm_score": 0.445,
-      "pillar": "ecosystem",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-      "date": "2026-05-17"
-    },
-    {
-      "id": "gaining-control-of-every-projector-and-camera-on-campus",
-      "label": "Gaining control of every projector and camera on campus",
-      "summary": "本文探讨了利用AI技术实现对校园内所有投影仪和摄像头的集中控制。技术要点包括统一设备管理平台、实时监控与调度、视觉识别自动控制，以及安全权限管理。商业价值体现在提升校园运营效率、降低人力维护成本，并为智慧校园建设提供基础能力。产品创新点在于将碎片化的硬件设备整合为智能化、可编程的控制系统，支持自动化场景切换。",
-      "pm_score": 0.43,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48130468",
-      "date": "2026-05-17"
-    },
-    {
-      "id": "moving-away-from-tailwind-and-learning-to-structure-my-css",
-      "label": "Moving away from Tailwind, and learning to structure my CSS",
-      "summary": "本文讨论从Tailwind CSS转向结构化CSS的实践，强调其带来的代码可维护性和可扩展性提升。虽然主题属于前端技术，但对AI产品经理的启示在于，类似地，AI模型或数据管道的构建也应注重结构化和标准化，避免过度依赖黑盒工具，确保长期可迭代性。商业价值在于降低技术债务，提升团队协作效率。",
-      "pm_score": 0.355,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48158400",
-      "date": "2026-05-17"
-    },
-    {
-      "id": "deepseek-v4-flash-means-llm-steering-is-interesting-again",
-      "label": "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "summary": "DeepSeek-V4-Flash 的发布重新点燃了 LLM 引导（Steering）技术的关注度。该模型可能通过更高效的架构或新的训练方法，使得开发者能够更精准、更可控地引导大模型输出，从而提升产品的一致性与安全性。对于 AI 产品经理而言，这意味着有望以更低的成本（如更快的推理速度）实现更符合业务需求的模型行为，降低 prompt 工程和微调的复杂度。商业价值体现在可部署于对实时性和可控性要求高的场景，如客服、内容审核等。产品创新方面，可能催生新的用户交互模式，例如动态调整模型倾向。",
-      "pm_score": 0.33,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48160807",
-      "date": "2026-05-17"
+      "url": "https://news.ycombinator.com/item?id=48168626",
+      "date": "2026-05-18"
     }
   ],
   "graph_totals": {
-    "real_nodes": 551,
-    "edges": 25630
+    "real_nodes": 555,
+    "edges": 26186
   }
 }
