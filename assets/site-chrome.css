@@ -83,13 +83,18 @@
     flex-wrap: nowrap;
   }
 
-  /* 桌面：顶栏「问 AI」为主入口，隐藏右下角 FAB */
+  /* 桌面：问 AI 仍用右下角 FAB；顶栏保持订阅 / 统计 / GitHub 原有顺序 */
   .header-agent-btn {
-    display: inline-flex !important;
+    display: none !important;
   }
 
   .nex-agent-fab {
-    display: none !important;
+    display: inline-flex !important;
+  }
+
+  /* 探索页：桌面顶栏「摘要」入口（简报页无此钮） */
+  body:not(.brief-page) .header-brief-btn {
+    display: inline-flex !important;
   }
 
   /* 侧栏顶栏：标题居中，仅显示关闭钮 */
@@ -113,11 +118,6 @@
   .nex-agent-panel-close {
     grid-column: 3;
     justify-self: end;
-  }
-
-  /* 探索页顶栏节点统计改由画布 HUD 展示，避免挤掉「问 AI」 */
-  body:not(.brief-page) #stats {
-    display: none !important;
   }
 
   /* 桌面：侧栏叠在内容上，图谱/简报不被挤压（覆盖误留的 mobile-fullpage） */
@@ -341,7 +341,18 @@ body:not(.brief-page) .site-nav .site-nav-thumb {
   display: none;
 }
 
-/* 右下角「问 AI」FAB：窄屏已由底部 Tab 承接（见 max-width 900）；宽屏可与顶栏双入口以防顶栏溢出时无处点开 */
+/* 顶栏「问 AI」：桌面隐藏（用 FAB），窄屏隐藏（用底部 Tab） */
+.header-agent-btn,
+#header-agent-btn {
+  display: none !important;
+}
+
+/* 探索页「摘要」：仅桌面顶栏；窄屏由情报底栏 / 展开钮承接 */
+.header-brief-btn {
+  display: none;
+}
+
+/* 右下角「问 AI」FAB：桌面主入口；窄屏由底部 Tab 承接（见 max-width 900） */
 .nex-agent-fab {
   position: fixed;
   right: calc(20px + var(--safe-right));
@@ -1164,6 +1175,10 @@ body.brief-page #stats {
 
   /* 问 AI：底栏 Tab 已是入口，隐藏顶栏避免双入口（与移动端一致） */
   .header-agent-btn {
+    display: none !important;
+  }
+
+  .header-brief-btn {
     display: none !important;
   }
 

@@ -9,7 +9,7 @@
 <title>智瞰 NexSight — 全景趋势 · 决策情报</title>
 <link rel="icon" href="./assets/nexsight-mark.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="./assets/nexsight-mark.svg">
-<link rel="stylesheet" href="./assets/site-chrome.css?v=13">
+<link rel="stylesheet" href="./assets/site-chrome.css?v=14">
 <meta name="view-transition" content="same-origin">
 <script>
   window.__NEXSIGHT_CONFIG__ = window.__NEXSIGHT_CONFIG__ || {
@@ -1716,6 +1716,7 @@
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="width:16px;height:16px"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
         问 AI
       </button>
+      <button type="button" id="header-brief-btn" class="header-btn header-brief-btn" onclick="toggleDashboard()" aria-controls="dashboard" aria-expanded="true">摘要</button>
       <div class="subscribe-wrap">
         <button type="button" id="header-subscribe-btn" class="header-btn" aria-expanded="false" aria-haspopup="dialog" aria-controls="subscribe-panel" onclick="toggleSubscribePanel(event)" title="收藏本页、GitHub 提醒、RSS 等">订阅</button>
         <div id="subscribe-panel" class="subscribe-panel" role="dialog" aria-label="订阅与更新方式" hidden>
@@ -1879,7 +1880,7 @@
   <!-- Data & Libs -->
   <script id="graph-data" type="application/json">{{DATA}}</script>
   <script src="./assets/vis-network.min.js"></script>
-<script src="./assets/site-chrome.js?v=13"></script>
+<script src="./assets/site-chrome.js?v=14"></script>
 
   <script>
     console.log('智瞰 NexSight · graph intel UI');

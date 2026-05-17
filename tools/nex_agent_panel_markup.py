@@ -9,7 +9,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 PARTIAL = ROOT / "assets" / "partials" / "nex-agent-panel.html"
 
-SITE_CHROME_ASSET_VER = "13"
+SITE_CHROME_ASSET_VER = "14"
 
 LEGACY_MARKERS = (
     "nex-agent-sources-strip",
