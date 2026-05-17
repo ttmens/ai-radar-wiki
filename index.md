@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-18 | Total pages: 520
+> Last updated: 2026-05-18 | Total pages: 529
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -14,6 +14,7 @@
 - [[ai-is-a-technology-not-a-product.md]] AI is a technology not a product `pillar:capabilities` `score:0.465`
 - [[ai-is-making-me-dumb.md]] AI is making me dumb `pillar:capabilities` `score:0.63`
 - [[alibabamnn.md]] alibaba/MNN `pillar:capabilities` `score:0.615`
+- [[apples-siri-revamp-could-include-auto-deleting-chats.md]] Apple’s Siri revamp could include auto-deleting chats `pillar:capabilities` `score:0.48`
 - [[arena-ai-model-elo-history.md]] Arena AI Model ELO History `pillar:capabilities` `score:0.465`
 - [[bee-sanciphey.md]] bee-san/Ciphey `pillar:capabilities` `score:0.545`
 - [[blinkdlrwkv-lm.md]] BlinkDL/RWKV-LM `pillar:capabilities` `score:0.405`
@@ -62,6 +63,7 @@
 - [[llm-policy-for-rust-compiler.md]] LLM Policy for Rust Compiler `pillar:capabilities` `score:0.295`
 - [[lucidrainsvit-pytorch.md]] lucidrains/vit-pytorch `pillar:capabilities` `score:0.615`
 - [[macbook-neo-deep-dive-benchmarks-wafer-economics.md]] MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble `pillar:capabilities` `score:0.53`
+- [[magical-realism-northern-exposure-25-years-later-2015.md]] Magical Realism: “Northern Exposure” 25 Years Later (2015) `pillar:capabilities` `score:0.085`
 - [[making-llm-training-faster-with-unsloth-and-nvidia.md]] Making LLM Training Faster with Unsloth and NVIDIA `pillar:capabilities` `score:0.155`
 - [[marimo-teammarimo.md]] marimo-team/marimo `pillar:capabilities` `score:0.58`
 - [[microsoftonnxruntime.md]] microsoft/onnxruntime `pillar:capabilities` `score:0.615`
@@ -77,6 +79,7 @@
 - [[openai-is-connecting-chatgpt-to-bank-accounts-via-plaid.md]] OpenAI is connecting ChatGPT to bank accounts via Plaid `pillar:capabilities` `score:0.57`
 - [[openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts.md]] OpenAI launches ChatGPT for personal finance, will let you connect bank accounts `pillar:capabilities` `score:0.48`
 - [[overseas-fakers-using-ai-videos-to-push-a-narrative-of-uk-decline-bbc-finds.md]] Overseas fakers using AI videos to push a narrative of UK decline, BBC finds `pillar:capabilities` `score:0.38`
+- [[owainlewisawesome-artificial-intelligence.md]] owainlewis/awesome-artificial-intelligence `pillar:capabilities` `score:0.58`
 - [[oxcaml-in-space.md]] O(x)Caml in Space `pillar:capabilities` `score:0.275`
 - [[paddlepaddlepaddle.md]] PaddlePaddle/Paddle `pillar:capabilities` `score:0.615`
 - [[prolog-basics-explained-with-pokémon.md]] Prolog Basics Explained with Pokémon `pillar:capabilities` `score:0.255`
@@ -92,10 +95,12 @@
 - [[show-hn-a-dark-cave-minimalistic-graphics-in-the-age-of-ai-slop.md]] Show HN: A Dark Cave – Minimalistic Graphics in the Age of AI Slop `pillar:capabilities` `score:0.295`
 - [[show-hn-find-the-best-local-llm-for-your-hardware-ranked-by-benchmarks.md]] Show HN: Find the best local LLM for your hardware, ranked by benchmarks `pillar:capabilities` `score:0.33`
 - [[show-hn-glycemicgpt-open-source-ai-powered-diabetes-management.md]] Show HN: GlycemicGPT – Open-source AI-powered diabetes management `pillar:capabilities` `score:0.33`
+- [[show-hn-semble-code-search-for-agents-that-uses-98-fewer-tokens-than-grep.md]] Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep `pillar:capabilities` `score:0.43`
 - [[show-hn-watch-a-neural-net-learn-to-play-snake.md]] Show HN: Watch a neural net learn to play Snake `pillar:capabilities` `score:0.36`
 - [[spmallicklearnopencv.md]] spmallick/learnopencv `pillar:capabilities` `score:0.58`
 - [[srbhrresume-matcher.md]] srbhr/Resume-Matcher `pillar:capabilities` `score:0.58`
 - [[supabasesupabase.md]] supabase/supabase `pillar:capabilities` `score:0.58`
+- [[techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive.md]] TechCrunch Mobility: The AI skills arms race is coming for automotive `pillar:capabilities` `score:0.445`
 - [[tencentncnn.md]] Tencent/ncnn `pillar:capabilities` `score:0.58`
 - [[tensorflowtfjs.md]] tensorflow/tfjs `pillar:capabilities` `score:0.58`
 - [[the-ai-zombification-of-universities.md]] The AI Zombification of Universities `pillar:capabilities` `score:0.515`
@@ -198,6 +203,7 @@
 - [[accumulatemorecv.md]] AccumulateMore/CV `pillar:patterns` `score:0.51`
 - [[affaan-meverything-claude-code.md]] affaan-m/everything-claude-code `pillar:patterns` `score:0.58`
 - [[agent-harness-kit-scaffolding-for-multi-agent-work.md]] Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic) `pillar:patterns` `score:0.33`
+- [[agentic-trading-with-safe-guardrails.md]] Agentic Trading with Safe Guardrails `pillar:patterns` `score:0.33`
 - [[agno-agiagno.md]] agno-agi/agno `pillar:patterns` `score:0.58`
 - [[ai-voice-startup-vapi-hits-500m-valuation-after-w.md]] AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 riv `pillar:patterns` `score:0.305`
 - [[alibabaspring-ai-alibaba.md]] alibaba/spring-ai-alibaba `pillar:patterns` `score:0.53`
@@ -350,6 +356,7 @@
 - [[gradio-appgradio.md]] gradio-app/gradio `pillar:ecosystem` `score:0.615`
 - [[have-a-coherent-ai-policy.md]] Have a Coherent AI Policy `pillar:ecosystem` `score:0.445`
 - [[hesreallyhimawesome-claude-code.md]] hesreallyhim/awesome-claude-code `pillar:ecosystem` `score:0.58`
+- [[if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai.md]] If you’re giving a commencement speech in 2026, maybe don’t mention AI `pillar:ecosystem` `score:0.515`
 - [[introducing-the-6-stages-at-techcrunch-disrupt-202.md]] Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher `pillar:ecosystem` `score:0.305`
 - [[invoke-aiinvokeai.md]] invoke-ai/InvokeAI `pillar:ecosystem` `score:0.58`
 - [[janhqjan.md]] janhq/jan `pillar:ecosystem` `score:0.405`
@@ -397,6 +404,7 @@
 - [[threads-tests-a-meta-ai-integration-that-works-sim.md]] Threads tests a Meta AI integration that works similarly to Grok `pillar:ecosystem` `score:0.305`
 - [[tools-in-the-grass-raising-the-next-generation-of.md]] Tools in the Grass: Raising the next generation of crafts person `pillar:ecosystem` `score:0.295`
 - [[tracel-aiburn.md]] tracel-ai/burn `pillar:ecosystem` `score:0.58`
+- [[trials-on-veterans-suggest-ibogaine-could-provide-a-new-treatment-for-ptsd.md]] Trials on veterans suggest ibogaine could provide a new treatment for PTSD `pillar:ecosystem` `score:0.27`
 - [[upscaylupscayl.md]] upscayl/upscayl `pillar:ecosystem` `score:0.545`
 - [[upstashcontext7.md]] upstash/context7 `pillar:ecosystem` `score:0.58`
 - [[vercelai.md]] vercel/ai `pillar:ecosystem` `score:0.405`
@@ -526,6 +534,7 @@
 - [[who-decides-what-ai-tells-you-campbell-brown-once-meta8217s-news-chief-has-thoug.md]] Who decides what AI tells you? Campbell Brown, once Meta&#8217;s news chief, has `pillar:business` `score:0.48`
 - [[who-trusts-sam-altman.md]] Who trusts Sam Altman? `pillar:business` `score:0.305`
 - [[why-senior-developers-fail-to-communicate-their-ex.md]] Why senior developers fail to communicate their expertise `pillar:business` `score:0.425`
+- [[why-trust-is-a-big-question-at-the-elon-musk-openai-trial.md]] Why trust is a big question at the Elon Musk-OpenAI trial `pillar:business` `score:0.445`
 - [[why-you-can-never-get-your-doctor-to-call-you-back.md]] Why you can never get your doctor to call you back `pillar:business` `score:0.48`
 - [[zhulinsendaily_stock_analysis.md]] ZhuLinsen/daily_stock_analysis `pillar:business` `score:0.405`
 - [[a-note-on-non-negative-l_1-approximating-polynomials.md]] A Note on Non-Negative $L_1$-Approximating Polynomials `pillar:business` `score:0.255`

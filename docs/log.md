@@ -623,3 +623,14 @@
 - create: every-ai-subscription-is-a-ticking-time-bomb-for-enterprise.md
 - create: prolog-basics-explained-with-pokémon.md
 - create: ai-is-a-technology-not-a-product.md
+
+## [2026-05-18 06:04] sync v3 | 9 new | pillars: {'capabilities': 8, 'patterns': 1}
+- create: owainlewisawesome-artificial-intelligence.md
+- create: magical-realism-northern-exposure-25-years-later-2015.md
+- create: show-hn-semble-code-search-for-agents-that-uses-98-fewer-tokens-than-grep.md
+- create: trials-on-veterans-suggest-ibogaine-could-provide-a-new-treatment-for-ptsd.md
+- create: agentic-trading-with-safe-guardrails.md
+- create: apples-siri-revamp-could-include-auto-deleting-chats.md
+- create: why-trust-is-a-big-question-at-the-elon-musk-openai-trial.md
+- create: if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai.md
+- create: techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive.md

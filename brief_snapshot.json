@@ -1,7 +1,7 @@
 {
   "date": "2026-05-18",
-  "generated_at": "2026-05-18T00:02:01.799893+08:00",
-  "item_count": 3,
+  "generated_at": "2026-05-18T06:04:53.077175+08:00",
+  "item_count": 10,
   "items": [
     {
       "id": "i-dont-think-ai-will-make-your-processes-go-faster",
@@ -26,6 +26,39 @@
       "date": "2026-05-18"
     },
     {
+      "id": "owainlewisawesome-artificial-intelligence",
+      "label": "owainlewis/awesome-artificial-intelligence",
+      "summary": "该项目是GitHub上维护的AI资源精选列表，涵盖课程、书籍、视频和论文，为AI产品经理提供系统化的学习路径。它帮助PM快速获取AI技术要点（如机器学习、深度学习基础），了解前沿研究成果，并洞察商业应用方向（如自动化、智能决策）。通过整理高质量资料，降低学习门槛，促进产品创新，尤其适合需要构建AI知识体系的从业者。同时，该项目反映了社区协作和知识聚合的价值，是生态建设的重要组成部分。",
+      "pm_score": 0.58,
+      "pillar": "capabilities",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "date": "2026-05-18"
+    },
+    {
+      "id": "if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai",
+      "label": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+      "summary": "2026年毕业典礼演讲者应避免提及AI，因为毕业生对AI塑造的未来普遍缺乏兴奋感，反映出公众对AI的预期从炒作转向失望。这提示AI产品经理需警惕当前AI产品的实际体验与过度宣传之间的鸿沟，转而聚焦于可落地的实用价值、用户信任重建和长期可持续性。产品应避免空泛的“AI未来”叙事，而是通过具体场景解决真实痛点，如教育、就业等与毕业生直接相关的领域，以缓解替代焦虑并展示协同价值。",
+      "pm_score": 0.515,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+      "date": "2026-05-18"
+    },
+    {
+      "id": "apples-siri-revamp-could-include-auto-deleting-chats",
+      "label": "Apple’s Siri revamp could include auto-deleting chats",
+      "summary": "苹果即将推出新版Siri，主打隐私保护，包括自动删除聊天记录功能。技术要点可能涉及端侧处理或短期记忆机制，确保用户对话数据不长期留存。商业价值在于通过隐私差异化吸引对数据安全敏感的用户，并符合全球日益严格的隐私法规。产品创新在于将自动删除作为默认特性，重新定义AI助手的信任标准，可能推动行业跟进。对AI产品经理而言，需关注如何在功能便利性与隐私承诺间取得平衡。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+      "date": "2026-05-18"
+    },
+    {
       "id": "ai-is-a-technology-not-a-product",
       "label": "AI is a technology not a product",
       "summary": "AI 本身是一种底层技术能力，而非可直接交付的产品。产品经理需要避免陷入技术崇拜，而应聚焦于如何将 AI 能力无缝嵌入到用户场景中，解决实际问题。真正的产品创新在于设计人性化的交互流程、控制成本与延迟、管理用户期望而非堆砌模型参数。商业价值体现在 AI 与传统业务流程的深度整合，而非单独售卖 API 或模型。",
@@ -35,10 +68,54 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48168626",
       "date": "2026-05-18"
+    },
+    {
+      "id": "why-trust-is-a-big-question-at-the-elon-musk-openai-trial",
+      "label": "Why trust is a big question at the Elon Musk-OpenAI trial",
+      "summary": "该报道聚焦于马斯克与OpenAI法律诉讼中的信任问题，核心争议在于OpenAI CEO Sam Altman的可信度。对AI产品经理而言，此案凸显了AI企业治理透明度与创始人公信力对产品生态的深远影响：信任缺失可能引发用户和合作方对AI系统安全性的质疑，进而阻碍商业化落地。商业层面，诉讼结果或影响OpenAI的融资、合作伙伴关系及行业监管走向。产品经理需关注此类信任危机如何转化为产品设计的合规与伦理要求（如审计机制、数据使用透明度）。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "date": "2026-05-18"
+    },
+    {
+      "id": "techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive",
+      "label": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+      "summary": "TechCrunch报道指出，汽车行业正掀起一场AI技能军备竞赛。随着智能驾驶、车载交互等场景对AI能力需求激增，车企纷纷争抢具备机器学习、计算机视觉等技能的顶尖人才。这一趋势将加速汽车产品从传统硬件向软件定义转型，推动自动驾驶、智能座舱等创新功能落地。对于AI产品经理而言，这意味着需要关注人才布局对产品迭代速度的影响，以及如何通过AI能力构建差异化竞争壁垒。同时，技能竞赛也可能催生新的合作模式，如车企与AI公司联合开发。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+      "date": "2026-05-18"
+    },
+    {
+      "id": "show-hn-semble-code-search-for-agents-that-uses-98-fewer-tokens-than-grep",
+      "label": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+      "summary": "Semble 是一个专为 AI 代理设计的代码搜索工具，相比传统 grep 方式，其 token 消耗降低了 98%。该产品通过优化检索算法，使代理在搜索和理解代码库时大幅减少 LLM 调用的 token 开销，从而显著降低推理成本并提升响应速度。对于构建代码生成、调试助手或自主编程代理的产品团队，Semble 提供了一种高效、经济的基础设施方案，其核心创新在于将代码搜索的效率和准确性针对代理工作流进行了重新设计。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48169874",
+      "date": "2026-05-18"
+    },
+    {
+      "id": "agentic-trading-with-safe-guardrails",
+      "label": "Agentic Trading with Safe Guardrails",
+      "summary": "该内容探讨了基于智能体（Agent）的自动化交易系统，并引入了“安全护栏”（Safe Guardrails）机制。技术要点在于将强化学习与规则引擎结合，使AI代理能在实时市场环境中自主决策，同时受到预设的风险边界、合规性检查和止损策略约束。商业价值体现在提升交易效率与执行速度，并通过护栏降低黑箱操作带来的金融风险。产品创新上，这种可解释、可干预的“受控自主”模式，为金融科技领域提供了一种兼顾效率与安全的新范式，尤其适合高频交易与量化策略场景。",
+      "pm_score": 0.33,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48168426",
+      "date": "2026-05-18"
     }
   ],
   "graph_totals": {
-    "real_nodes": 555,
-    "edges": 26186
+    "real_nodes": 564,
+    "edges": 26751
   }
 }
