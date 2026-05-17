@@ -2,55 +2,70 @@
   "daily_summary": {
     "date": "2026-05-17",
     "headline": "今日 AI 情报 · 2026-05-17",
-    "overview": "AI从辅助工具迈向自主操作与系统级控制，成本与生态分化加剧。",
+    "overview": "AI代理规模化落地面临成本与可控性双重考验，同时平台整合加速。",
     "narratives": [
       {
-        "title": "AI从辅助工具迈向自主操作与系统级控制",
-        "body": "今日多项情报显示AI正在从单一对话或生成能力，向能够自主执行任务、集成多系统、甚至控制硬件设施的智能体进化。求职自动化代理、Unix式编码代理、校园设备集中控制、世界模型视频生成等案例，表明AI产品已具备端到端闭环的决策与执行能力。对PM而言，这意味着产品设计应从“人机协作”转向“人设定目标、AI自主规划执行”的模式，同时需要关注模块化、可组合性以及长期记忆等架构支撑。",
-        "type": "paradigm_shift",
+        "title": "AI代理从工具进化为自主执行者，但成本与可控性成为新瓶颈",
+        "body": "多个产品（AIHawk求职代理、Zerostack编码代理）和成本案例（OpenClaw花费$1.3M）表明，AI代理正在从实验走向真实应用，但高昂的推理成本和记忆持久化问题成为规模化瓶颈。产品经理需在功能与成本间平衡，探索缓存、混合部署等优化策略。",
+        "type": "bottleneck",
         "pillar_key": "patterns"
       },
       {
-        "title": "AI商业化的成本陷阱与生态分化加速",
-        "body": "OpenAI token月耗130万美元的案例与AI淘金热中贫富差距扩大的分析，共同揭示出大模型规模化部署面临的高昂边际成本与资源集中风险。马耳他政府补贴模式则展示了另一种公共化路径。AI产品经理必须将成本控制与商业模式设计置于产品核心，探索混合部署、缓存、语义压缩等策略，并警惕对单一API的过度依赖。同时，学术生态（如ArXiv）开始对AI滥用设置边界，生态规则正在形成。",
-        "type": "bottleneck",
-        "pillar_key": "business"
+        "title": "AI能力集成与生态化：从单一模型到平台级产品",
+        "body": "OpenAI整合ChatGPT与Codex、与政府合作推广、开源世界模型SANA-WM以及学术平台对AI使用的监管，共同反映出AI正从孤立的模型能力向集成化平台和规范化生态演进。产品经理应关注能力融合带来的新场景和生态规则带来的合规风险。",
+        "type": "maturation",
+        "pillar_key": "capabilities"
       }
     ],
     "insights": [
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "AI从辅助工具迈向自主操作与系统级控制",
-        "insight": "AI从辅助工具迈向自主操作与系统级控制。该方向的具体信号：1）feder-cr/Jobs_Applier_AI_Agent_AIHawk 展示了LLM驱动决策与自动化流程闭环的求职代理，标志垂直场景自主操作落地；2）Zerostack以Unix哲学构建编码代理，强调模块化与组合性，预示AI代理架构向系统级设计演进；3）Δ-Mem高效在线记忆机制解决了LLM长期上下文持久化瓶颈，为自主代理持续学习提供技术基础。",
+        "narrative_title": "AI代理从工具进化为自主执行者，但成本与可控性成为新瓶颈",
+        "insight": "AI代理从工具进化为自主执行者，但成本与可控性成为新瓶颈。该方向的具体信号：求职代理AIHawk和编码代理Zerostack展示了自动化闭环的价值，但OpenClaw的$1.3M tokens开销警示依赖单一API的风险，同时Δ-Mem记忆机制虽降低计算成本但需工程适配，产品经理应优先定义代理的边界与降本路径。",
         "evidence": [
           {
             "id": "feder-crjobs_applier_ai_agent_aihawk",
-            "title": "AIHawk AI求职申请自动化代理",
+            "title": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
             "score": 0.58
           },
           {
             "id": "zerostack-a-unix-inspired-coding-agent-written-in-pure-rust",
-            "title": "Zerostack Unix风格Rust编码代理",
+            "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
             "score": 0.58
+          },
+          {
+            "id": "openclaw-creator-spent-13m-on-openai-tokens-in-30-days",
+            "title": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
+            "score": 0.55
           }
         ]
       },
       {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "narrative_title": "AI商业化的成本陷阱与生态分化加速",
-        "insight": "AI商业化的成本陷阱与生态分化加速。该方向的具体信号：1）OpenClaw Creator月耗130万美元token，凸显大规模部署下推理成本失控风险，催生产品内缓存、压缩、本地模型混合等优化策略；2）TechCrunch文章指出AI淘金热中资源分化加剧，提示PM应优先构建可持续商业模式而非盲目追求规模；3）ArXiv出台AI代笔禁令，反映生态对AI辅助边界的界定，影响AI写作工具合规设计。",
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI能力集成与生态化：从单一模型到平台级产品",
+        "insight": "AI能力集成与生态化：从单一模型到平台级产品。该方向的具体信号：OpenAI整合ChatGPT与Codex并掌舵产品战略，政府买单推广ChatGPT Plus，开源世界模型SANA-WM降低长视频生成门槛，同时ArXiv禁止AI全程写作推动合规边界——产品经理需在能力融合与生态规则中寻找差异化机会。",
         "evidence": [
           {
-            "id": "openclaw-creator-spent-13m-on-openai-tokens-in-30-days",
-            "title": "OpenClaw Creator月耗130万OpenAI token",
-            "score": 0.55
+            "id": "openai-and-government-of-malta-partner-to-roll-out-chatgpt-plus-to-all-citizens",
+            "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all",
+            "score": 0.56
+          },
+          {
+            "id": "openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy",
+            "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product str",
+            "score": 0.48
+          },
+          {
+            "id": "sana-wm-a-26b-open-source-world-model-for-1-minute-720p-video",
+            "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+            "score": 0.56
           }
         ]
       }
     ],
-    "stats": "技术能力: 9 | 产品模式: 3 | 工具生态: 2 | 商业趋势: 2",
+    "stats": "技术能力: 8 | 产品模式: 3 | 工具生态: 2 | 商业趋势: 2",
     "total_items": 15,
     "high_value_count": 13,
     "all_today_ids": [
@@ -116,6 +131,6 @@
       }
     ],
     "date_bj": "2026-05-17 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-17 12:01:33"
+    "generated_at_bj": "2026-05-17 18:01:26"
   }
 }
