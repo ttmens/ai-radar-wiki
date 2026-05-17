@@ -596,3 +596,24 @@
 ## [2026-05-16 18:01] sync v3 | 2 new | pillars: {'capabilities': 2}
 - create: frontier-ai-has-broken-the-open-ctf-format.md
 - create: openai-is-connecting-chatgpt-to-bank-accounts-via-plaid.md
+
+## [2026-05-17 00:02] sync v3 | 7 new | pillars: {'capabilities': 6, 'patterns': 1}
+- create: sana-wm-a-26b-open-source-world-model-for-1-minute-720p-video.md
+- create: moving-away-from-tailwind-and-learning-to-structure-my-css.md
+- create: δ-mem-efficient-online-memory-for-large-language-models.md
+- create: my-favorite-bugs-invalid-surrogate-pairs.md
+- create: deepseek-v4-flash-means-llm-steering-is-interesting-again.md
+- create: gaining-control-of-every-projector-and-camera-on-campus.md
+- create: openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy.md
+
+## [2026-05-17 06:09] sync v3 | 5 new | pillars: {'capabilities': 5}
+- create: html-lists.md
+- create: openclaw-creator-spent-13m-on-openai-tokens-in-30-days.md
+- create: the-haves-and-have-nots-of-the-ai-gold-rush.md
+- create: research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the.md
+- create: show-hn-a-dark-cave-minimalistic-graphics-in-the-age-of-ai-slop.md
+
+## [2026-05-17 12:02] sync v3 | 3 new | pillars: {'patterns': 2, 'capabilities': 1}
+- create: feder-crjobs_applier_ai_agent_aihawk.md
+- create: zerostack-a-unix-inspired-coding-agent-written-in-pure-rust.md
+- create: openai-and-government-of-malta-partner-to-roll-out-chatgpt-plus-to-all-citizens.md

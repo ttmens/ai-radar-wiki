@@ -1,0 +1,121 @@
+{
+  "daily_summary": {
+    "date": "2026-05-17",
+    "headline": "今日 AI 情报 · 2026-05-17",
+    "overview": "AI从辅助工具迈向自主操作与系统级控制，成本与生态分化加剧。",
+    "narratives": [
+      {
+        "title": "AI从辅助工具迈向自主操作与系统级控制",
+        "body": "今日多项情报显示AI正在从单一对话或生成能力，向能够自主执行任务、集成多系统、甚至控制硬件设施的智能体进化。求职自动化代理、Unix式编码代理、校园设备集中控制、世界模型视频生成等案例，表明AI产品已具备端到端闭环的决策与执行能力。对PM而言，这意味着产品设计应从“人机协作”转向“人设定目标、AI自主规划执行”的模式，同时需要关注模块化、可组合性以及长期记忆等架构支撑。",
+        "type": "paradigm_shift",
+        "pillar_key": "patterns"
+      },
+      {
+        "title": "AI商业化的成本陷阱与生态分化加速",
+        "body": "OpenAI token月耗130万美元的案例与AI淘金热中贫富差距扩大的分析，共同揭示出大模型规模化部署面临的高昂边际成本与资源集中风险。马耳他政府补贴模式则展示了另一种公共化路径。AI产品经理必须将成本控制与商业模式设计置于产品核心，探索混合部署、缓存、语义压缩等策略，并警惕对单一API的过度依赖。同时，学术生态（如ArXiv）开始对AI滥用设置边界，生态规则正在形成。",
+        "type": "bottleneck",
+        "pillar_key": "business"
+      }
+    ],
+    "insights": [
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI从辅助工具迈向自主操作与系统级控制",
+        "insight": "AI从辅助工具迈向自主操作与系统级控制。该方向的具体信号：1）feder-cr/Jobs_Applier_AI_Agent_AIHawk 展示了LLM驱动决策与自动化流程闭环的求职代理，标志垂直场景自主操作落地；2）Zerostack以Unix哲学构建编码代理，强调模块化与组合性，预示AI代理架构向系统级设计演进；3）Δ-Mem高效在线记忆机制解决了LLM长期上下文持久化瓶颈，为自主代理持续学习提供技术基础。",
+        "evidence": [
+          {
+            "id": "feder-crjobs_applier_ai_agent_aihawk",
+            "title": "AIHawk AI求职申请自动化代理",
+            "score": 0.58
+          },
+          {
+            "id": "zerostack-a-unix-inspired-coding-agent-written-in-pure-rust",
+            "title": "Zerostack Unix风格Rust编码代理",
+            "score": 0.58
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI商业化的成本陷阱与生态分化加速",
+        "insight": "AI商业化的成本陷阱与生态分化加速。该方向的具体信号：1）OpenClaw Creator月耗130万美元token，凸显大规模部署下推理成本失控风险，催生产品内缓存、压缩、本地模型混合等优化策略；2）TechCrunch文章指出AI淘金热中资源分化加剧，提示PM应优先构建可持续商业模式而非盲目追求规模；3）ArXiv出台AI代笔禁令，反映生态对AI辅助边界的界定，影响AI写作工具合规设计。",
+        "evidence": [
+          {
+            "id": "openclaw-creator-spent-13m-on-openai-tokens-in-30-days",
+            "title": "OpenClaw Creator月耗130万OpenAI token",
+            "score": 0.55
+          }
+        ]
+      }
+    ],
+    "stats": "技术能力: 9 | 产品模式: 3 | 工具生态: 2 | 商业趋势: 2",
+    "total_items": 15,
+    "high_value_count": 13,
+    "all_today_ids": [
+      {
+        "id": "feder-crjobs_applier_ai_agent_aihawk",
+        "label": "feder-cr/Jobs_Applier_AI_Agent_AIHawk"
+      },
+      {
+        "id": "zerostack-a-unix-inspired-coding-agent-written-in-pure-rust",
+        "label": "Zerostack – A Unix-inspired coding agent written in pure Rust"
+      },
+      {
+        "id": "openai-and-government-of-malta-partner-to-roll-out-chatgpt-plus-to-all-citizens",
+        "label": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens"
+      },
+      {
+        "id": "sana-wm-a-26b-open-source-world-model-for-1-minute-720p-video",
+        "label": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video"
+      },
+      {
+        "id": "openclaw-creator-spent-13m-on-openai-tokens-in-30-days",
+        "label": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days"
+      },
+      {
+        "id": "δ-mem-efficient-online-memory-for-large-language-models",
+        "label": "Δ-Mem: Efficient Online Memory for Large Language Models"
+      },
+      {
+        "id": "the-haves-and-have-nots-of-the-ai-gold-rush",
+        "label": "The haves and have nots of the AI gold rush"
+      },
+      {
+        "id": "openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy",
+        "label": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy"
+      },
+      {
+        "id": "html-lists",
+        "label": "HTML Lists"
+      },
+      {
+        "id": "research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the",
+        "label": "Research repository ArXiv will ban authors for a year if they let AI do all the"
+      },
+      {
+        "id": "gaining-control-of-every-projector-and-camera-on-campus",
+        "label": "Gaining control of every projector and camera on campus"
+      },
+      {
+        "id": "moving-away-from-tailwind-and-learning-to-structure-my-css",
+        "label": "Moving away from Tailwind, and learning to structure my CSS"
+      },
+      {
+        "id": "deepseek-v4-flash-means-llm-steering-is-interesting-again",
+        "label": "DeepSeek-V4-Flash means LLM steering is interesting again"
+      },
+      {
+        "id": "show-hn-a-dark-cave-minimalistic-graphics-in-the-age-of-ai-slop",
+        "label": "Show HN: A Dark Cave – Minimalistic Graphics in the Age of AI Slop"
+      },
+      {
+        "id": "my-favorite-bugs-invalid-surrogate-pairs",
+        "label": "My Favorite Bugs: Invalid Surrogate Pairs"
+      }
+    ],
+    "date_bj": "2026-05-17 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-05-17 12:01:33"
+  }
+}

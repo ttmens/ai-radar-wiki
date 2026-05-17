@@ -1,0 +1,50 @@
+{
+  "name": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+  "description": "AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.",
+  "stars": 29766,
+  "language": "Python",
+  "topics": [
+    "agent",
+    "application-resume",
+    "artificial-intelligence",
+    "automate",
+    "automation",
+    "bot",
+    "chatgpt",
+    "chrome",
+    "gpt",
+    "human-resources",
+    "job",
+    "jobs",
+    "jobsearch",
+    "jobseeker",
+    "opeai",
+    "python",
+    "resume",
+    "scraper",
+    "scraping",
+    "selenium"
+  ],
+  "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+  "created": "2024-08-04T12:15:06Z",
+  "tag": "GitHub",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "AIHawk是一个基于AI的求职申请自动化代理，能够根据用户设定自动生成定制化简历和求职信，并批量提交申请。其核心能力包括智能解析职位描述、匹配个人背景、以及多平台申请自动化。该工具显著降低求职者的重复性劳动，提升申请效率与个性化程度，展示了AI Agent在垂直场景（招聘）中的落地价值。产品创新点在于将LLM驱动的决策与自动化流程结合，形成完整的闭环体验。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI Agent",
+    "Job Application Automation",
+    "Auto-Generated Content"
+  ],
+  "entities": [
+    "AIHawk",
+    "feder-cr"
+  ],
+  "patterns": [
+    "Agentic Workflow",
+    "Automation Pattern"
+  ]
+}
