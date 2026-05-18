@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 18 May 2026 12:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 16:08:26 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -13,404 +13,404 @@
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
     <item>
-      <title>I don't think AI will make your processes go faster</title>
-      <link>https://news.ycombinator.com/item?id=48168221</link>
-      <guid isPermaLink="false">i-dont-think-ai-will-make-your-processes-go-faster</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>这篇 HN 帖子标题直指一个常见误区：AI 并不必然加速业务流程。对于 AI 产品经理而言，需警惕盲目将 AI 套用到现有流程中，而应重新思考业务本质。技术要点在于，AI 可能引入新的延迟、幻觉或维护成本，导致整体效率不升反降。商业价值在于提醒产品经理更关注 ROI 而非单纯追求自动化。产品创新角度，应优先设计人机协作流程，而非全自动替换。核心洞察是：流程加速依赖系统设计，AI 只是其中一环，过度承诺可能导致产品失败。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Every AI Subscription Is a Ticking Time Bomb for Enterprise</title>
-      <link>https://news.ycombinator.com/item?id=48168056</link>
-      <guid isPermaLink="false">every-ai-subscription-is-a-ticking-time-bomb-for-enterprise</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文指出，企业采用AI订阅模式（如ChatGPT企业版、Copilot等）存在重大隐患，类似于“定时炸弹”。主要风险包括：供应商锁定导致的高昂迁移成本、数据隐私与合规问题（特别是当模型持续更新时）、以及成本失控（按用户/Token计费可能随使用量激增）。对于AI产品经理，这意味着设计产品时需考虑可替换性、数据隔离和透明定价机制，避免客户因依赖单一订阅而产生长期风险。核心挑战在于平衡AI能力的持续交付与企业对稳定、可控IT系统的需求。</p></description>
+      <title>AI eats the world (Spring 26) [pdf]</title>
+      <link>https://news.ycombinator.com/item?id=48179021</link>
+      <guid isPermaLink="false">ai-eats-the-world-spring-26-pdf</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该报告预测至2026年春季，AI将如软件般全面重塑全球产业格局。面向AI产品经理，需重点关注从“功能叠加”向“AI原生架构”的演进。技术上依赖多模态大模型与自主Agent的协同；商业价值在于重构核心工作流以实现指数级降本增效；产品创新应聚焦垂直场景闭环与数据飞轮，抢占行业智能化入口。</p></description>
       <category>💰 商业趋势</category>
     </item>
     <item>
-      <title>owainlewis/awesome-artificial-intelligence</title>
-      <link>https://github.com/owainlewis/awesome-artificial-intelligence</link>
-      <guid isPermaLink="false">owainlewisawesome-artificial-intelligence</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>该项目是GitHub上维护的AI资源精选列表，涵盖课程、书籍、视频和论文，为AI产品经理提供系统化的学习路径。它帮助PM快速获取AI技术要点（如机器学习、深度学习基础），了解前沿研究成果，并洞察商业应用方向（如自动化、智能决策）。通过整理高质量资料，降低学习门槛，促进产品创新，尤其适合需要构建AI知识体系的从业者。同时，该项目反映了社区协作和知识聚合的价值，是生态建设的重要组成部分。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>If you’re giving a commencement speech in 2026, maybe don’t mention AI</title>
-      <link>https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/</link>
-      <guid isPermaLink="false">if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>2026年毕业典礼演讲者应避免提及AI，因为毕业生对AI塑造的未来普遍缺乏兴奋感，反映出公众对AI的预期从炒作转向失望。这提示AI产品经理需警惕当前AI产品的实际体验与过度宣传之间的鸿沟，转而聚焦于可落地的实用价值、用户信任重建和长期可持续性。产品应避免空泛的“AI未来”叙事，而是通过具体场景解决真实痛点，如教育、就业等与毕业生直接相关的领域，以缓解替代焦虑并展示协同价值。</p></description>
+      <title>Linux security mailing list 'almost unmanageable'</title>
+      <link>https://news.ycombinator.com/item?id=48178692</link>
+      <guid isPermaLink="false">linux-security-mailing-list-almost-unmanageable</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Linux安全邮件列表因海量漏洞报告与补丁讨论面临严重信息过载，人工处理效率已达瓶颈。对AI产品经理而言，这凸显了自动化安全情报分析、智能摘要与漏洞优先级排序的刚需。可探索基于大模型的代码变更影响评估、自动化CVE分类与工单流转产品，将非结构化讨论转化为结构化数据，显著提升开源安全响应效率，具备明确的DevSecOps商业化落地价值。</p></description>
       <category>🔧 工具生态</category>
     </item>
     <item>
-      <title>Apple’s Siri revamp could include auto-deleting chats</title>
-      <link>https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/</link>
-      <guid isPermaLink="false">apples-siri-revamp-could-include-auto-deleting-chats</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>苹果即将推出新版Siri，主打隐私保护，包括自动删除聊天记录功能。技术要点可能涉及端侧处理或短期记忆机制，确保用户对话数据不长期留存。商业价值在于通过隐私差异化吸引对数据安全敏感的用户，并符合全球日益严格的隐私法规。产品创新在于将自动删除作为默认特性，重新定义AI助手的信任标准，可能推动行业跟进。对AI产品经理而言，需关注如何在功能便利性与隐私承诺间取得平衡。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>AI is a technology not a product</title>
-      <link>https://news.ycombinator.com/item?id=48168626</link>
-      <guid isPermaLink="false">ai-is-a-technology-not-a-product</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>AI 本身是一种底层技术能力，而非可直接交付的产品。产品经理需要避免陷入技术崇拜，而应聚焦于如何将 AI 能力无缝嵌入到用户场景中，解决实际问题。真正的产品创新在于设计人性化的交互流程、控制成本与延迟、管理用户期望而非堆砌模型参数。商业价值体现在 AI 与传统业务流程的深度整合，而非单独售卖 API 或模型。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Why trust is a big question at the Elon Musk-OpenAI trial</title>
-      <link>https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/</link>
-      <guid isPermaLink="false">why-trust-is-a-big-question-at-the-elon-musk-openai-trial</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>该报道聚焦于马斯克与OpenAI法律诉讼中的信任问题，核心争议在于OpenAI CEO Sam Altman的可信度。对AI产品经理而言，此案凸显了AI企业治理透明度与创始人公信力对产品生态的深远影响：信任缺失可能引发用户和合作方对AI系统安全性的质疑，进而阻碍商业化落地。商业层面，诉讼结果或影响OpenAI的融资、合作伙伴关系及行业监管走向。产品经理需关注此类信任危机如何转化为产品设计的合规与伦理要求（如审计机制、数据使用透明度）。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>TechCrunch Mobility: The AI skills arms race is coming for automotive</title>
-      <link>https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/</link>
-      <guid isPermaLink="false">techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>TechCrunch报道指出，汽车行业正掀起一场AI技能军备竞赛。随着智能驾驶、车载交互等场景对AI能力需求激增，车企纷纷争抢具备机器学习、计算机视觉等技能的顶尖人才。这一趋势将加速汽车产品从传统硬件向软件定义转型，推动自动驾驶、智能座舱等创新功能落地。对于AI产品经理而言，这意味着需要关注人才布局对产品迭代速度的影响，以及如何通过AI能力构建差异化竞争壁垒。同时，技能竞赛也可能催生新的合作模式，如车企与AI公司联合开发。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep</title>
-      <link>https://news.ycombinator.com/item?id=48169874</link>
-      <guid isPermaLink="false">show-hn-semble-code-search-for-agents-that-uses-98-fewer-tokens-than-grep</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Semble 是一个专为 AI 代理设计的代码搜索工具，相比传统 grep 方式，其 token 消耗降低了 98%。该产品通过优化检索算法，使代理在搜索和理解代码库时大幅减少 LLM 调用的 token 开销，从而显著降低推理成本并提升响应速度。对于构建代码生成、调试助手或自主编程代理的产品团队，Semble 提供了一种高效、经济的基础设施方案，其核心创新在于将代码搜索的效率和准确性针对代理工作流进行了重新设计。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcas</title>
-      <link>http://arxiv.org/abs/2605.16233v1</link>
-      <guid isPermaLink="false">forge-self-evolving-agent-memory-with-no-weight-updates-via-population-broadcast</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>FORGE提出了一种无需权重更新的智能体记忆进化方法，通过群体广播协议让层次化ReAct智能体基于失败反馈自动优化提示注入的自然语言记忆。该技术在不重新训练模型的前提下，实现智能体决策能力的持续自我改进，显著降低计算成本。产品经理可关注其如何赋能AI应用实现长期上下文记忆与自适应学习，提升用户交互的个性化和连贯性，尤其适用于对话助手、自动化工作流等场景。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>AI-Mediated Communication Can Steer Collective Opinion</title>
-      <link>http://arxiv.org/abs/2605.16245v1</link>
-      <guid isPermaLink="false">ai-mediated-communication-can-steer-collective-opinion</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文研究了生成式AI（如大型语言模型）在社交平台（如LinkedIn、X）中介人类沟通时，如何影响集体意见的形成。技术要点在于LLM通过润色用户帖子和提供上下文，能够嵌入并放大特定偏见，从而潜移默化地改变群体观点。商业价值上，这意味着社交平台和内容工具需要审慎设计AI功能，避免无意识操纵舆论。产品创新方向包括开发可检测或纠正偏见的中介机制，以及提供透明的AI辅助选项，以保持用户自主性。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Most Americans don't trust AI – or the people in charge of it (2025)</title>
-      <link>https://news.ycombinator.com/item?id=48174808</link>
-      <guid isPermaLink="false">most-americans-dont-trust-ai-or-the-people-in-charge-of-it-2025</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>2025年调查显示，大多数美国人不信任AI以及管理AI的人。这一数据对于AI产品经理至关重要——用户对AI的信任缺失直接影响产品采用率和商业变现。产品创新需聚焦可解释性、透明度与伦理设计，例如提供清晰的AI决策逻辑、用户控制权以及第三方审计。商业价值在于：建立信任能显著提升用户留存与付费意愿，是AI产品规模化落地的关键前提。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Cha</title>
-      <link>http://arxiv.org/abs/2605.16234v1</link>
-      <guid isPermaLink="false">layer-equivalence-is-not-a-property-of-layers-alone-how-you-test-redundancy-chan</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文探讨了Transformer层等价性的两种测试方法：替换测试（检查一层能否替代另一层）和互换测试（检查两层互换后是否近似交换）。研究发现，不同的测试方式会导致对层冗余的不同判断，从而影响模型压缩策略。对于产品经理而言，理解这一区别有助于选择更合适的压缩方法，在保持模型性能的同时减少计算资源消耗，从而降低部署成本并提升推理速度。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Evaluating Design Video Generation: Metrics for Compositional Fidelity</title>
-      <link>http://arxiv.org/abs/2605.16223v1</link>
-      <guid isPermaLink="false">evaluating-design-video-generation-metrics-for-compositional-fidelity</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文针对设计动画领域提出视频生成模型的评估框架。与自然视频生成不同，设计动画具有结构化约束：特定组件需按预设运动类型、方向、速度等进行动画。当前缺乏标准化评测指标，论文致力于定义组合保真度（compositional fidelity）的度量方法。对产品经理而言，这一研究有助于量化生成式设计工具（如UI动画、产品演示视频）的质量，推动商业化落地。通过建立统一评估标准，可降低模型选型成本，提升设计自动化产品的可靠性与用户体验。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation</title>
-      <link>http://arxiv.org/abs/2605.16258v1</link>
-      <guid isPermaLink="false">ivgt-implicit-visual-geometry-transformer-for-neural-scene-representation</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>IVGT提出了一种隐式视觉几何Transformer，用于从无位姿的多视图图像中重建一致的3D几何和外观。与现有依赖显式像素对齐点图的方法不同，该模型通过隐式表示避免了冗余和局限性，能够更高效地学习场景结构。核心创新在于结合Transformer的全局注意力机制与隐式几何学习，无需精确相机位姿即可实现鲁棒重建。该技术对AR/VR、3D内容生成和自动驾驶感知等产品具有显著商业价值，可降低数据采集成本并提升通用性。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Universal Magnetic Structure Prediction from Atomic Coordinates with Near-Experi</title>
-      <link>http://arxiv.org/abs/2605.16230v1</link>
-      <guid isPermaLink="false">universal-magnetic-structure-prediction-from-atomic-coordinates-with-near-experi</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出一种从原子坐标直接预测材料磁性结构的AI方法，精度接近实验水平。传统磁结构确定依赖昂贵实验或复杂理论计算，而该模型利用深度学习从原子构型中快速推断磁序，克服了非共线磁结构的计算难题。这一技术可加速新型磁性材料、自旋电子学和量子材料的发现，降低研发成本，提升材料筛选效率。对AI产品经理而言，该能力可集成到材料设计平台或科学计算工具中，推动AI for Science在材料领域的商业化落地。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent G</title>
-      <link>http://arxiv.org/abs/2605.16232v1</link>
-      <guid isPermaLink="false">a-unified-generative-ai-framework-for-smart-energy-infrastructure-intelligent-ga</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出一个统一生成式AI框架，整合智能计量、生成式AI和量子启发组合优化，用于智能能源基础设施。技术要点包括：利用生成式AI实现智能燃气分配、公用事业计费自动化、碳分析以及量子启发优化算法提升决策效率。商业价值体现在帮助能源公用事业公司优化物理基础设施、增强客户参与度、满足环境责任要求。产品创新在于将多种AI能力融合为一个端到端解决方案，降低集成成本，加速能源行业数字化转型。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillati</title>
-      <link>http://arxiv.org/abs/2605.16241v1</link>
-      <guid isPermaLink="false">offline-semantic-guidance-for-efficient-vision-language-action-policy-distillati</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>VLA-AD是一种用于视觉-语言-动作策略的高效蒸馏框架，通过离线语义引导将数十亿参数的大模型压缩成轻量级模型，实现实时闭环机器人控制。该技术显著降低了推理成本和延迟，同时保持任务性能，为具身AI的商业化部署提供了可行路径。产品创新在于利用预训练大模型的语义知识指导小模型学习，无需在线交互，适合资源受限的机器人场景。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Dynamics-Level Watermarking of Flow Matching Models with Random Codes</title>
-      <link>http://arxiv.org/abs/2605.16239v1</link>
-      <guid isPermaLink="false">dynamics-level-watermarking-of-flow-matching-models-with-random-codes</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出了一种动态水平的水印方法，用于生成模型。与传统的在模型权重或输出中嵌入信号不同，该方法将水印直接嵌入到流匹配模型学到的连续动态（速度场）中。通过随机编码实现，能够在不影响生成质量的前提下，为生成的样本提供可追溯的标识。这一技术对于AI产品经理而言，意味着可以在生成内容中嵌入不可见的、鲁棒性强的水印，有助于版权保护、内容溯源和合规监控。同时，由于水印嵌入在模型动态层面，更难被去除或篡改，提升了安全性，适用于图像、音频、视频等多种生成任务，具有较大的商业价值和产品创新潜力。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>University of Arizona students boo Eric Schmidt's AI cheerleading</title>
-      <link>https://news.ycombinator.com/item?id=48171852</link>
-      <guid isPermaLink="false">university-of-arizona-students-boo-eric-schmidts-ai-cheerleading</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>亚利桑那大学学生在Eric Schmidt（前谷歌CEO）宣传AI时发出嘘声，反映了公众对AI过度乐观叙事的反感。对AI产品经理而言，这警示需重视用户信任和伦理风险：即使技术强大，若忽视社会情绪和潜在危害，产品可能遭遇抵制。商业价值体现在洞察用户真实需求，避免脱离现实的纯技术推销。产品创新应融入透明度和可控性，以缓解公众焦虑。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>WriteUp: 16 Bytes of x86 that turn Matrix rain into sound</title>
-      <link>https://news.ycombinator.com/item?id=48173962</link>
-      <guid isPermaLink="false">writeup-16-bytes-of-x86-that-turn-matrix-rain-into-sound</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该项目展示了仅用16字节x86汇编代码将经典的《黑客帝国》数字雨视觉特效实时转化为声音输出的技术。这一极简实现利用了底层硬件指令进行快速音频合成，体现了对机器指令集的深度优化能力。虽然当前趣味性大于商业价值，但它为AI产品经理提供了关于实时信号处理、极简代码实现以及跨模态转换（视觉转音频）的启发。该技术可探索用于低资源环境下的音频反馈系统或嵌入式AI创意应用。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>The Four Horsemen of the LLM Apocalypse</title>
-      <link>https://news.ycombinator.com/item?id=48172680</link>
-      <guid isPermaLink="false">the-four-horsemen-of-the-llm-apocalypse</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章以‘LLM末日的四骑士’为隐喻，探讨大型语言模型面临的四大核心挑战：幻觉（生成虚假信息）、偏见（训练数据中的不公平性）、安全性（滥用与对抗攻击）以及可解释性（黑箱决策）。这些技术痛点直接影响产品可靠性、用户信任与合规风险。对于AI产品经理，理解这些限制有助于在产品设计中引入事实核查、偏见检测、安全护栏与可解释接口，从而提升产品价值与市场竞争力。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Agentic Trading with Safe Guardrails</title>
-      <link>https://news.ycombinator.com/item?id=48168426</link>
-      <guid isPermaLink="false">agentic-trading-with-safe-guardrails</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容探讨了基于智能体（Agent）的自动化交易系统，并引入了“安全护栏”（Safe Guardrails）机制。技术要点在于将强化学习与规则引擎结合，使AI代理能在实时市场环境中自主决策，同时受到预设的风险边界、合规性检查和止损策略约束。商业价值体现在提升交易效率与执行速度，并通过护栏降低黑箱操作带来的金融风险。产品创新上，这种可解释、可干预的“受控自主”模式，为金融科技领域提供了一种兼顾效率与安全的新范式，尤其适合高频交易与量化策略场景。</p></description>
+      <title>Amazon&amp;#8217;s new Alexa+ powered feature can generate podcast episodes</title>
+      <link>https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/</link>
+      <guid isPermaLink="false">amazon8217s-new-alexa-powered-feature-can-generate-podcast-episodes</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>亚马逊Alexa+推出按需生成定制化AI播客功能，标志着语音助手从指令响应型向个性化AI内容平台演进。技术上依托大模型实现音频内容实时生成与个性化编排，商业上通过拓展内容消费场景提升用户粘性与生态价值。对AI产品经理而言，该创新验证了“生成式AI+语音交互”在长音频生产中的落地路径，为构建主动式、内容驱动的AI助手提供了新范式。</p></description>
       <category>📱 产品模式</category>
     </item>
     <item>
-      <title>Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely</title>
-      <link>https://news.ycombinator.com/item?id=48173468</link>
-      <guid isPermaLink="false">two-ea-18-fighter-jets-collide-at-mountain-home-airshow-pilots-ejected-safely</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该新闻为航空事故报道，涉及两架EA-18战斗机在航展相撞，飞行员安全弹射。内容与AI技术、产品创新或商业价值无关，不包含AI产品经理可关注的技术要点。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Trials on veterans suggest ibogaine could provide a new treatment for PTSD</title>
-      <link>https://news.ycombinator.com/item?id=48168159</link>
-      <guid isPermaLink="false">trials-on-veterans-suggest-ibogaine-could-provide-a-new-treatment-for-ptsd</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该信息报道了伊博格碱（ibogaine）在退伍军人PTSD治疗中的临床试验进展，属于生物医药领域突破。对于AI产品经理，此内容本身无直接技术关联，但可启发思考：AI在药物发现、个性化治疗方案优化及临床试验数据分析中具有潜在应用价值，例如利用机器学习预测药物疗效或模拟剂量反应。商业价值体现在精神健康治疗市场的增长机会，但需跨界整合。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Prolog Basics Explained with Pokémon</title>
-      <link>https://news.ycombinator.com/item?id=48147091</link>
-      <guid isPermaLink="false">prolog-basics-explained-with-pokémon</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文通过宝可梦（Pokémon）的例子，用通俗易懂的方式讲解Prolog（逻辑编程语言）的基础概念，包括事实、规则、查询和回溯机制。Prolog作为AI领域经典的知识表示与推理工具，其声明式编程范式（描述问题而非算法步骤）对于构建专家系统、自然语言理解和语义搜索有启发价值。虽然当前主流AI产品较少直接使用Prolog，但理解其逻辑推理内核有助于产品经理评估知识图谱、规则引擎等技术的适用场景。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Prospective multi-pathogen disease forecasting using autonomous LLM-guided tree</title>
-      <link>http://arxiv.org/abs/2605.16238v1</link>
-      <guid isPermaLink="false">prospective-multi-pathogen-disease-forecasting-using-autonomous-llm-guided-tree</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Probabilistic forecasting of infectious diseases is crucial for public health but relies on labor-intensive manual model curation by expert modeling teams. This bespoke development bottlenecks scalability to granular geographic resolutions or emerging pathogens. Here, we present an autonomous system</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Designing Datacenter Power Delivery Hierarchies for the AI Era</title>
-      <link>http://arxiv.org/abs/2605.16255v1</link>
-      <guid isPermaLink="false">designing-datacenter-power-delivery-hierarchies-for-the-ai-era</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Demand for AI accelerators is rapidly increasing rack power density, with projections approaching 1MW per deployment by 2027. This poses a major challenge for datacenter power delivery designers. As power densities increase, a datacenter designed for a different target density may strand power, i.e.</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sus</title>
-      <link>http://arxiv.org/abs/2605.16250v1</link>
-      <guid isPermaLink="false">a-generative-ai-framework-for-intelligent-utility-billing-co-2-analytics-and-sus</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Distribution utilities are now expected to deliver bills that customers can actually read attach a defensible carbon number to every kWh sold and schedule load against grid stress and emissions constraints We propose an end-to-end framework that unifies four production-grade capabilities under one a</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Magical Realism: “Northern Exposure” 25 Years Later (2015)</title>
-      <link>https://news.ycombinator.com/item?id=48155936</link>
-      <guid isPermaLink="false">magical-realism-northern-exposure-25-years-later-2015</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容是对电视剧《北方风云》（Northern Exposure）播出25周年的回顾评论，讨论其魔幻现实主义风格和叙事影响，与人工智能领域无关。对于AI产品经理而言，无直接技术要点或商业价值，需注意信息筛选。建议在AI内容分析中忽略此类非技术性文章，聚焦实际技术进展。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>feder-cr/Jobs_Applier_AI_Agent_AIHawk</title>
-      <link>https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk</link>
-      <guid isPermaLink="false">feder-crjobs_applier_ai_agent_aihawk</guid>
-      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>AIHawk是一个基于AI的求职申请自动化代理，能够根据用户设定自动生成定制化简历和求职信，并批量提交申请。其核心能力包括智能解析职位描述、匹配个人背景、以及多平台申请自动化。该工具显著降低求职者的重复性劳动，提升申请效率与个性化程度，展示了AI Agent在垂直场景（招聘）中的落地价值。产品创新点在于将LLM驱动的决策与自动化流程结合，形成完整的闭环体验。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Zerostack – A Unix-inspired coding agent written in pure Rust</title>
-      <link>https://news.ycombinator.com/item?id=48164287</link>
-      <guid isPermaLink="false">zerostack-a-unix-inspired-coding-agent-written-in-pure-rust</guid>
-      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Zerostack 是一个受 Unix 哲学启发的 AI 编码代理，完全用 Rust 实现。它借鉴了 Unix 的模块化、管道和组合原则，旨在提供高效、可扩展的代码生成与执行能力。使用 Rust 带来了内存安全和极致性能，适合构建可靠的开发者工具。产品创新点在于将经典操作系统设计理念融入现代 AI 代理，有望提升代码生成的透明度和可控性。商业上可定位为面向开发者的高效辅助工具，尤其适合对性能和安全性有高要求的场景。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens</title>
-      <link>https://news.ycombinator.com/item?id=48163392</link>
-      <guid isPermaLink="false">openai-and-government-of-malta-partner-to-roll-out-chatgpt-plus-to-all-citizens</guid>
-      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>OpenAI 与马耳他政府达成合作，向所有公民提供 ChatGPT Plus 订阅服务。这一举措将 AI 助手直接集成到公共服务中，覆盖全体国民，具有极高的商业价值和产品创新意义。技术要点上，ChatGPT Plus 基于 GPT-4 模型，支持更长的上下文、更快的响应和优先访问新功能。商业上，政府买单的模式为 AI 产品的大规模推广提供了新路径，也体现了 AI 在公共教育、医疗、政务等场景的落地潜力。产品创新在于将消费级 AI 工具转化为普惠型公共服务，可能改变政府与公民的互动方式。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>SANA-WM, a 2.6B open-source world model for 1-minute 720p video</title>
-      <link>https://news.ycombinator.com/item?id=48159445</link>
-      <guid isPermaLink="false">sana-wm-a-26b-open-source-world-model-for-1-minute-720p-video</guid>
-      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>SANA-WM是一个拥有26亿参数的开源世界模型，能够生成长达1分钟、720p分辨率的视频。它通过学习视频帧间的物理规律和动态变化，实现高质量的视频预测与生成。该模型开放源代码，降低了世界模型技术的使用门槛，对游戏开发、影视制作、仿真模拟等领域的AI产品创新具有重要商业价值。产品经理可关注其长视频生成能力与开源生态带来的应用潜力，未来可能结合交互式内容创作或自动驾驶模拟。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days</title>
-      <link>https://news.ycombinator.com/item?id=48159227</link>
-      <guid isPermaLink="false">openclaw-creator-spent-13m-on-openai-tokens-in-30-days</guid>
-      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>OpenClaw创建者在30天内花费130万美元用于OpenAI API tokens，揭示了大规模部署AI应用时高昂的推理成本。这一案例对AI产品经理具有重要警示：在追求用户规模和功能丰富度的同时，必须将API成本控制纳入产品设计核心。高额支出可能来自持续会话、长上下文或高频调用，这促使产品经理探索缓存、语义压缩、本地模型混合部署等成本优化策略。同时，该现象也表明存在极端依赖单一API的商业风险，需评估替代模型或自建推理基础设施的可行性。商业化落地需在模型能力与成本效益间取得平衡。</p></description>
+      <title>Enough with the AI FOMO, go slow-mo, says Domo CDO</title>
+      <link>https://news.ycombinator.com/item?id=48179029</link>
+      <guid isPermaLink="false">enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文针对当前企业盲目追逐AI热点的“错失恐惧症”（FOMO）提出警示，主张采取“慢节奏”的理性落地策略。面向AI产品经理，核心启示在于：AI产品商业化不应仅追逐模型参数竞赛，而应回归业务场景与数据基建。建议PM聚焦高ROI用例，强化数据治理与合规评估，采用渐进式迭代验证价值。该策略有助于降低试错成本，构建可持续的AI产品护城河，实现从技术尝鲜向稳健商业变现的跨越。</p></description>
       <category>💰 商业趋势</category>
     </item>
     <item>
-      <title>Δ-Mem: Efficient Online Memory for Large Language Models</title>
-      <link>https://news.ycombinator.com/item?id=48158506</link>
-      <guid isPermaLink="false">δ-mem-efficient-online-memory-for-large-language-models</guid>
-      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Δ-Mem 提出了一种高效的在线记忆机制，用于增强大型语言模型（LLM）的长期上下文保持能力，通过增量更新而非全量重计算来降低显存和计算开销。该技术解决了 LLM 在对话、知识追踪等场景中记忆持久化的瓶颈，使得模型能够在不损失性能的情况下持续学习新信息。对于产品经理，这意味着可以构建更智能的长期记忆型 AI 助手，提升用户粘性和个性化体验，同时降低部署成本。其创新点在于兼顾效率与准确性，为在线学习模式开辟了新路径。</p></description>
+      <title>South Korea&amp;#8217;s LetinAR is building optics behind AI glasses</title>
+      <link>https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/</link>
+      <guid isPermaLink="false">south-korea8217s-letinar-is-building-optics-behind-ai-glasses</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>韩国初创公司LetinAR研发出拇指大小的微型光学透镜，有望成为AI眼镜时代的核心光学底座。该技术通过极致微型化突破传统AR头显的体积瓶颈，为多模态AI在可穿戴设备上的落地提供关键硬件支撑。对AI产品经理而言，这意味着轻量化AI眼镜的量产可行性大幅提升，将加速“视觉+语音”交互范式的普及，并催生围绕光学模组与端侧AI融合的新一代硬件生态与商业化场景。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>NASA still maintains some of the Voyager spacecraft code from the 70s era</title>
+      <link>https://news.ycombinator.com/item?id=48177716</link>
+      <guid isPermaLink="false">nasa-still-maintains-some-of-the-voyager-spacecraft-code-from-the-70s-era</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨NASA如何持续维护20世纪70年代旅行者号探测器的底层代码。对AI产品经理而言，该案例凸显了极端约束环境下系统架构的长期可维护性与高可靠性设计价值。在AI产品快速迭代的背景下，借鉴其“精简核心逻辑、强化容错机制、保留底层可解释性”的工程哲学，有助于构建生命周期更长、运维成本更低的AI基础设施与边缘智能产品，为长期技术资产沉淀提供范式参考。</p></description>
       <category>📱 产品模式</category>
     </item>
     <item>
-      <title>The haves and have nots of the AI gold rush</title>
-      <link>https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/</link>
-      <guid isPermaLink="false">the-haves-and-have-nots-of-the-ai-gold-rush</guid>
-      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>文章指出当前AI淘金热中，资源丰富的巨头与资源匮乏的初创公司之间差距日益扩大，即使是科技行业内部也对AI热潮感到不安。对AI产品经理而言，这意味着需要警惕泡沫风险，优先关注可持续的商业模式而非盲目跟风。技术要点在于识别哪些AI能力能带来真正的用户价值，而非单纯追求模型规模。商业价值上，拥有算力、数据壁垒的企业将占据优势，但产品创新应聚焦在垂直场景的深度适配和成本优化上，以在资源不均的环境中寻找突破口。</p></description>
-      <category>💰 商业趋势</category>
+      <title>'We mould trees to grow into the shape of chairs'</title>
+      <link>https://news.ycombinator.com/item?id=48179183</link>
+      <guid isPermaLink="false">we-mould-trees-to-grow-into-the-shape-of-chairs</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该案例展示通过生物塑形技术引导树木自然生长为家具形态，颠覆传统“砍伐-加工”的制造范式。对AI产品经理而言，其核心价值在于“生成式生长”理念的启示：结合计算机视觉与生长预测模型，AI可优化生物制造路径，实现零废弃、低碳的可持续产品创新。该模式强调长周期规划与自然协同，为AI在绿色供应链、仿生设计及生成式物理制造领域提供跨界灵感，具备高溢价与ESG商业潜力。</p></description>
+      <category>📱 产品模式</category>
     </item>
     <item>
-      <title>OpenAI co-founder Greg Brockman reportedly takes charge of product strategy</title>
-      <link>https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/</link>
-      <guid isPermaLink="false">openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy</guid>
-      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenAI联合创始人布罗克曼重新掌管产品战略，并将推动ChatGPT与编程工具Codex的整合。此举旨在打造统一的多模态AI平台，将通用对话能力与代码生成深度融合，拓展开发者生态。对产品经理而言，这标志着OpenAI从单一能力向综合开发平台转型，有望提升开发者效率、降低门槛，并为AI应用带来更连贯的交互体验。战略合并也预示着未来AI产品将更注重功能集成与场景闭环。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>HTML Lists</title>
-      <link>https://news.ycombinator.com/item?id=48161861</link>
-      <guid isPermaLink="false">html-lists</guid>
-      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文源自Hacker News关于HTML列表的讨论，虽然内容未提供具体摘要，但结合初步分类为'capabilities'，可推测其涉及AI系统对HTML结构化数据的理解与处理能力。对于AI产品经理而言，这一技术要点体现为模型解析半结构化文本（如无序/有序列表）的精确度提升，进而支持更复杂的信息提取与交互场景，如自动生成摘要、构建知识图谱或增强文档检索。商业价值在于优化网页内容理解，降低人工标注成本。产品创新上，可应用于智能笔记、代码辅助或数据可视化工具。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Research repository ArXiv will ban authors for a year if they let AI do all the</title>
-      <link>https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/</link>
-      <guid isPermaLink="false">research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the</guid>
-      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>知名预印本平台ArXiv宣布新规：若发现论文作者让AI完成全部工作（如使用大语言模型生成全文而未披露或不加审核），将面临一年内禁止投稿的处罚。此举旨在遏制科学论文中随意使用LLM导致的质量和诚信问题。对AI产品经理而言，这标志着学术生态对AI辅助写作的边界划定，提示AI工具需设计清晰的辅助角色和合规标记功能。商业上，类似政策可能向其他内容平台蔓延，影响AI写作助手的产品策略与风险管理。</p></description>
+      <title>We stopped AI bot spam in our GitHub repo using Git's –author flag</title>
+      <link>https://news.ycombinator.com/item?id=48181125</link>
+      <guid isPermaLink="false">we-stopped-ai-bot-spam-in-our-github-repo-using-gits-author-flag</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文介绍了一种利用Git原生--author参数拦截AI机器人垃圾提交的高效方案。该方案无需复杂中间件，仅通过校验提交者元数据即可精准过滤自动化低质代码，显著降低仓库维护成本。对AI产品经理而言，此实践揭示了在AI自动化泛滥背景下，利用底层协议元数据进行轻量级治理的可行性，为构建防刷机制与维护开发者生态健康提供了低成本、高兼容性的产品防御思路。</p></description>
       <category>🔧 工具生态</category>
     </item>
     <item>
-      <title>Gaining control of every projector and camera on campus</title>
-      <link>https://news.ycombinator.com/item?id=48130468</link>
-      <guid isPermaLink="false">gaining-control-of-every-projector-and-camera-on-campus</guid>
-      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了利用AI技术实现对校园内所有投影仪和摄像头的集中控制。技术要点包括统一设备管理平台、实时监控与调度、视觉识别自动控制，以及安全权限管理。商业价值体现在提升校园运营效率、降低人力维护成本，并为智慧校园建设提供基础能力。产品创新点在于将碎片化的硬件设备整合为智能化、可编程的控制系统，支持自动化场景切换。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Moving away from Tailwind, and learning to structure my CSS</title>
-      <link>https://news.ycombinator.com/item?id=48158400</link>
-      <guid isPermaLink="false">moving-away-from-tailwind-and-learning-to-structure-my-css</guid>
-      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文讨论从Tailwind CSS转向结构化CSS的实践，强调其带来的代码可维护性和可扩展性提升。虽然主题属于前端技术，但对AI产品经理的启示在于，类似地，AI模型或数据管道的构建也应注重结构化和标准化，避免过度依赖黑盒工具，确保长期可迭代性。商业价值在于降低技术债务，提升团队协作效率。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>DeepSeek-V4-Flash means LLM steering is interesting again</title>
-      <link>https://news.ycombinator.com/item?id=48160807</link>
-      <guid isPermaLink="false">deepseek-v4-flash-means-llm-steering-is-interesting-again</guid>
-      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>DeepSeek-V4-Flash 的发布重新点燃了 LLM 引导（Steering）技术的关注度。该模型可能通过更高效的架构或新的训练方法，使得开发者能够更精准、更可控地引导大模型输出，从而提升产品的一致性与安全性。对于 AI 产品经理而言，这意味着有望以更低的成本（如更快的推理速度）实现更符合业务需求的模型行为，降低 prompt 工程和微调的复杂度。商业价值体现在可部署于对实时性和可控性要求高的场景，如客服、内容审核等。产品创新方面，可能催生新的用户交互模式，例如动态调整模型倾向。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: A Dark Cave – Minimalistic Graphics in the Age of AI Slop</title>
-      <link>https://a-dark-cave.com/</link>
-      <guid isPermaLink="false">show-hn-a-dark-cave-minimalistic-graphics-in-the-age-of-ai-slop</guid>
-      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该项目名为“A Dark Cave”，旨在AI生成内容泛滥（AI Slop）的时代，倡导极简主义图形设计。它可能提供一款工具或框架，让用户能够创建保留手工质感、低复杂度的视觉作品，与AI自动生成的繁复图像形成对比。对于产品经理而言，其核心价值在于强调“反AI同质化”的产品策略，通过极简美学建立差异化，满足用户对真实性和独特性的需求。技术要点可能涉及轻量级渲染或手动调整机制，商业上可应用于品牌设计、游戏UI等需要高辨识度的场景。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>My Favorite Bugs: Invalid Surrogate Pairs</title>
-      <link>https://news.ycombinator.com/item?id=48159790</link>
-      <guid isPermaLink="false">my-favorite-bugs-invalid-surrogate-pairs</guid>
-      <pubDate>2026-05-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章讨论了无效代理对（Invalid Surrogate Pairs）这一Unicode编码Bug，常见于AI模型处理多字节字符时的数据错误。技术要点包括代理对产生原因（高位/低位替代组合错误）及对tokenizer和文本生成的影响。商业价值上，这类Bug可能导致AI产品在特定语言（如Emoji、日韩汉字）输出乱码或错误，影响用户体验和跨国部署的准确性。产品经理需关注数据预处理阶段清理无效代理对，并测试模型对复杂文本的稳定性。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Bun Rust rewrite: "codebase fails basic miri checks, allows for UB in safe rust"</title>
-      <link>https://news.ycombinator.com/item?id=48150900</link>
-      <guid isPermaLink="false">bun-rust-rewrite-codebase-fails-basic-miri-checks-allows-for-ub-in-safe-rust</guid>
-      <pubDate>2026-05-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Bun（JavaScript运行时）使用Rust重写，但代码库未通过基础miri检查，允许在safe Rust中出现未定义行为（UB）。这意味着尽管Rust承诺内存安全，但实际实现存在漏洞，可能导致崩溃或安全风险。对AI产品经理而言，这警示了高性能运行时（如用于AI推理或部署）在采用Rust重写时需重视底层内存安全验证，避免因语言安全假设而忽视实际代码质量。商业上，Bun作为Node.js替代品，此类问题会影响生产环境的稳定性与信任度；产品创新上，需在性能提升与安全严谨性之间取得平衡。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>OpenAI is connecting ChatGPT to bank accounts via Plaid</title>
-      <link>https://news.ycombinator.com/item?id=48150723</link>
-      <guid isPermaLink="false">openai-is-connecting-chatgpt-to-bank-accounts-via-plaid</guid>
-      <pubDate>2026-05-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>OpenAI通过金融数据平台Plaid，将ChatGPT与银行账户直接连接，实现用户授权下的账户余额、交易记录等金融信息实时获取。此举使ChatGPT从通用对话助手向金融场景扩展，用户可自然语言查询支出、管理预算或获取个性化理财建议。技术层面依赖Plaid安全API实现银行数据对接，商业价值在于撬动万亿级个人金融服务市场，产品创新体现为将AI交互嵌入高频资金管理场景。对产品经理而言，需关注数据隐私合规、模型对结构化金融数据的理解能力以及跨平台集成体验。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Mitchellh – I strongly believe there are entire companies now under AI psychosis</title>
-      <link>https://news.ycombinator.com/item?id=48153379</link>
-      <guid isPermaLink="false">mitchellh-i-strongly-believe-there-are-entire-companies-now-under-ai-psychosis</guid>
-      <pubDate>2026-05-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Mitchellh（HashiCorp创始人）指出当前许多公司陷入'AI精神病'状态，即盲目追捧AI而忽视实际价值和理性评估。产品经理应警惕过度炒作，避免为AI而AI，需回归用户需求与商业本质。技术要点不在于某项能力突破，而在于识别AI的适用边界；商业价值体现在降低试错成本、聚焦真正有效的应用场景；产品创新应基于务实判断，而非追逐热点。该观点对AI产品战略制定具有警示意义。</p></description>
+      <title>design-extract</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">design-extract</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
       <category>💰 商业趋势</category>
     </item>
     <item>
-      <title>Frontier AI has broken the open CTF format</title>
-      <link>https://news.ycombinator.com/item?id=48157559</link>
-      <guid isPermaLink="false">frontier-ai-has-broken-the-open-ctf-format</guid>
-      <pubDate>2026-05-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>前沿AI在公开的CTF（夺旗赛）格式中取得突破，可能意味着AI在复杂安全挑战、渗透测试或漏洞挖掘方面的能力已超越传统基准。这对产品经理的启示：AI安全能力正从辅助工具转向自主攻防，可应用于自动化漏洞赏金、红队演练等安全产品创新，同时需重新评估现有安全测试标准。商业价值在于降低企业安全运维成本，加速威胁响应。</p></description>
-      <category>🤖 技术能力</category>
+      <title>xai</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">xai</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
     </item>
     <item>
-      <title>upscayl/upscayl</title>
-      <link>https://github.com/upscayl/upscayl</link>
-      <guid isPermaLink="false">upscaylupscayl</guid>
-      <pubDate>2026-05-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> github</p><hr/><p>Upscayl 是一款免费开源的 AI 图像放大工具，支持 Linux、macOS 和 Windows 平台。它利用深度学习模型在本地执行超分辨率处理，无需云端服务即可提升图像清晰度。对于 AI 产品经理，该工具展示了低成本、高可用的图像增强方案，可集成到创意软件、设计平台或文档处理流程中。其开源特性允许定制和二次开发，适合追求数据隐私和离线能力的场景，但放大效果和模型丰富度可能不及商业方案。</p></description>
+      <title>mcp-use-mcp-use</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">mcp-use-mcp-use</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>hardware-attestation</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">hardware-attestation</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>onlook-dev-onlook</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">onlook-dev-onlook</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>openai-symphony</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">openai-symphony</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>microsoft-ai-ma</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">microsoft-ai-ma</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>dify</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">dify</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>fastmcp</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">fastmcp</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>characterai</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">characterai</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>cognition-ai</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">cognition-ai</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>gpt-5-5-instant</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">gpt-5-5-instant</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>notion</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">notion</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>obra-superpowers</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">obra-superpowers</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>flow_matching_language_models</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">flow_matching_language_models</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>google-deepmind</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">google-deepmind</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>golutra-golutra</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">golutra-golutra</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>moonshot-ai</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">moonshot-ai</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>mamba-3-ssm</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">mamba-3-ssm</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>adobe-ai-ma</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">adobe-ai-ma</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>openai</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">openai</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>deer-flow</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">deer-flow</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>caisi</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">caisi</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>gpt-55</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">gpt-55</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>google-chrome-ai</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">google-chrome-ai</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>OpenViking</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">OpenViking</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>sierra</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">sierra</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>superpowers</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">superpowers</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>minimax</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">minimax</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>cuda-oxide</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">cuda-oxide</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>servicenow-ai-ma</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">servicenow-ai-ma</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>anthropics-financial-services</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">anthropics-financial-services</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>hpe-ai-ma</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">hpe-ai-ma</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>ai与软件工程职业</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">ai与软件工程职业</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>dyad</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">dyad</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>anthropic</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">anthropic</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>perplexity-ai</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">perplexity-ai</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>glm-5v-turbo</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">glm-5v-turbo</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>gitlab</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">gitlab</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>bytedance-ui-tars-desktop</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">bytedance-ui-tars-desktop</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>agentmemory</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">agentmemory</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>ruvnet-ruflo</title>
+      <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
+      <guid isPermaLink="false">ruvnet-ruflo</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> unknown</p><hr/><p></p></description>
+      <category>💰 商业趋势</category>
     </item>
   </channel>
 </rss>
