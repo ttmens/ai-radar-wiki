@@ -10,9 +10,9 @@ from datetime import datetime, timezone, timedelta
 
 # Credentials
 APP_ID = "cli_a92b1c361ab8dcee"
-APP_SECRET = "kBOi1igKy0xFDLBBodUzkb65h5BIl2w7"
+APP_SECRET="kBOi1igKy0xFDLBBodUzkb65h5BIl2w7"
 CHAT_ID = "oc_cd712bb35afd0e7ce151f7f5d1a81ddf"
-DIGEST_PATH = os.path.expanduser("~/ai-radar-wiki/daily-digest/2026-05-17.md")
+DIGEST_PATH = os.path.expanduser("~/ai-radar-wiki/daily-digest/2026-05-18.md")
 GRAPH_URL = "https://ttmens.github.io/ai-radar-wiki/graph.html"
 
 def get_tenant_token():
@@ -30,7 +30,7 @@ def build_card_markdown():
     lines = md_content.strip().split('\n')
     
     card_md = []
-    card_md.append("🌅 **AI 雷达日报 · 2026-05-17** 已更新，请查收今日情报 👇")
+    card_md.append("🌅 **AI 雷达日报 · 2026-05-18** 已更新，请查收今日情报 👇")
     card_md.append("")
     
     # Parse overview
@@ -133,7 +133,7 @@ def main():
     card = {
         "config": {"wide_screen_mode": True},
         "header": {
-            "title": {"tag": "plain_text", "content": "📊 AI Radar 日报 · 2026-05-17"},
+            "title": {"tag": "plain_text", "content": "📊 AI Radar 日报 · 2026-05-18"},
             "template": "blue"
         },
         "elements": [
