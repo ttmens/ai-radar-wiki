@@ -151,6 +151,9 @@ def _load_env_file():
 
 _load_env_file()
 
+# Global API key for batch_analyze_items (was referenced but never defined)
+DASHSCOPE_API_KEY = os.environ.get("DASHSCOPE_API_KEY", "")
+
 # LLM API keys now managed by ai_model_router — see below for import
 LLM_CACHE_FILE = os.path.join(os.path.dirname(STATE_FILE), "llm_cache.json")
 

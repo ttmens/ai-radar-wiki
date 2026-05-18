@@ -655,3 +655,13 @@
 ## [2026-05-18 18:02] sync v3 | 2 new | pillars: {'capabilities': 2}
 - create: writeup-16-bytes-of-x86-that-turn-matrix-rain-into-sound.md
 - create: the-four-horsemen-of-the-llm-apocalypse.md
+
+## [2026-05-19 00:07] sync v3 | 8 new | pillars: {'unknown': 6, 'patterns': 1, 'business': 1}
+- create: we-stopped-ai-bot-spam-in-our-github-repo-using-gits-author-flag.md
+- create: we-mould-trees-to-grow-into-the-shape-of-chairs.md
+- create: linux-security-mailing-list-almost-unmanageable.md
+- create: enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo.md
+- create: ai-eats-the-world-spring-26-pdf.md
+- create: nasa-still-maintains-some-of-the-voyager-spacecraft-code-from-the-70s-era.md
+- create: amazon8217s-new-alexa-powered-feature-can-generate-podcast-episodes.md
+- create: south-korea8217s-letinar-is-building-optics-behind-ai-glasses.md
