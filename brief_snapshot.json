@@ -1,8 +1,30 @@
 {
   "date": "2026-05-19",
-  "generated_at": "2026-05-19T00:07:05.674621+08:00",
-  "item_count": 8,
+  "generated_at": "2026-05-19T06:04:35.556139+08:00",
+  "item_count": 20,
   "items": [
+    {
+      "id": "elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai",
+      "label": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "summary": "马斯克起诉OpenAI及阿尔特曼违约，指控其偏离非营利使命，但法院驳回诉讼。此案揭示AI行业关于治理结构和商业化的深层矛盾：OpenAI从非营利转型为封闭营利实体，引发对AI技术民主化的争议。对产品经理而言，事件警示依赖单一AI平台的风险，并凸显透明治理对生态信任的重要性。短期内OpenAI商业化路径未受阻碍，但长期可能影响开源社区合作与监管导向。",
+      "pm_score": 0.61,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48182754",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "anthropic-acquires-stainless",
+      "label": "Anthropic acquires Stainless",
+      "summary": "Anthropic收购了Stainless，一家专注于自动化API SDK生成与文档管理的平台。该收购旨在降低开发者集成Claude模型的复杂性，提升API的易用性与一致性。对AI产品经理而言，这意味着更高效的开发者体验（DX）和更快的产品迭代周期，有助于加速Anthropic生态系统的扩展。商业上，通过降低技术门槛吸引更多企业客户，强化其在企业级AI服务中的竞争力。产品创新方面，Stainless的技术可实现API规格自动生成多语言SDK，减少手工维护成本。",
+      "pm_score": 0.6,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48182281",
+      "date": "2026-05-19"
+    },
     {
       "id": "ai-eats-the-world-spring-26-pdf",
       "label": "AI eats the world (Spring 26) [pdf]",
@@ -23,6 +45,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48178692",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "we-let-ais-run-radio-stations",
+      "label": "We let AIs run radio stations",
+      "summary": "该项目让AI自主运营广播电台，包括内容策划、播放、主持等全流程自动化。技术要点在于AI的决策推理与实时内容生成能力，无需人工干预即可维持24小时广播。商业价值显著：降低人力成本，支持个性化频道，并实现规模化扩展。产品创新体现为将AI从辅助工具升级为独立运营主体，重新定义电台生产模式，可能催生新型音频内容平台。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48183301",
       "date": "2026-05-19"
     },
     {
@@ -48,6 +81,17 @@
       "date": "2026-05-19"
     },
     {
+      "id": "anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflar",
+      "label": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudfl",
+      "summary": "Anthropic 收购了纽约初创公司 Stainless（2022年成立），该公司专注于自动化 SDK（软件开发工具包）的创建与维护，其客户包括 OpenAI、Google 和 Cloudflare。通过将 Stainless 的自动化工具整合，Anthropic 旨在降低开发者调用其 API 的集成门槛，提升开发者体验，并巩固其在 AI 生态中的基础设施地位。此举不仅强化了工具链，也可能影响 API 设计范式，推动更标准化的 SDK 输出模式。对 AI 产品经理而言，这标志着头部模型公司从提供模型向提供完整开发生态延伸，商业价值在于锁定开发者群体并降低迁移成本。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "date": "2026-05-19"
+    },
+    {
       "id": "south-korea8217s-letinar-is-building-optics-behind-ai-glasses",
       "label": "South Korea&#8217;s LetinAR is building optics behind AI glasses",
       "summary": "韩国初创公司LetinAR研发出拇指大小的微型光学透镜，有望成为AI眼镜时代的核心光学底座。该技术通过极致微型化突破传统AR头显的体积瓶颈，为多模态AI在可穿戴设备上的落地提供关键硬件支撑。对AI产品经理而言，这意味着轻量化AI眼镜的量产可行性大幅提升，将加速“视觉+语音”交互范式的普及，并催生围绕光学模组与端侧AI融合的新一代硬件生态与商业化场景。",
@@ -56,6 +100,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "haiku-os-runs-on-m1-macs-now",
+      "label": "Haiku OS runs on M1 Macs now",
+      "summary": "Haiku OS（开源轻量级操作系统）现已支持在Apple M1芯片上运行，这一技术移植使得该操作系统能够利用M1的高性能与能效。对于AI产品经理而言，这意味着未来可将AI应用部署在更紧凑、低功耗的硬件平台上，尤其适合边缘计算或特定领域的嵌入式AI场景。同时，Haiku OS的开放架构也便于定制化开发，但当前生态尚不成熟，需关注其对AI框架的兼容性进展。",
+      "pm_score": 0.475,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48183579",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "no-more-jetbrains-products-for-me",
+      "label": "No More JetBrains Products for Me",
+      "summary": "该内容来自Hacker News，标题为‘No More JetBrains Products for Me’，暗示用户因AI工具（如GitHub Copilot、Cursor等）的兴起而放弃JetBrains IDE。技术要点在于AI代码补全和智能编程助手正在改变开发者工作流，传统IDE可能面临被AI-first工具替代的风险。商业价值体现在JetBrains需加速AI集成，否则可能失去市场。产品创新方面，AI驱动的编程环境正从插件转向原生AI IDE，提升开发效率。",
+      "pm_score": 0.465,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48185188",
       "date": "2026-05-19"
     },
     {
@@ -81,6 +147,61 @@
       "date": "2026-05-19"
     },
     {
+      "id": "iran-starts-bitcoin-backed-ship-insurance-for-hormuz-strait",
+      "label": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48182592",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "voice-ai-systems-are-vulnerable-to-hidden-audio-attacks",
+      "label": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+      "summary": "研究发现语音AI系统存在被隐藏音频攻击的脆弱性，攻击者可在人耳不易察觉的频段或背景噪声中嵌入恶意指令，导致智能音箱、车载语音助手等产品误执行非授权操作。这暴露了现有语音模型在音频输入安全性上的短板，提醒产品经理需在交互设计中加入对抗性检测与输入验证机制，防止被劫持。商业上，若未及时修复，将严重影响用户信任与品牌声誉，同时也为语音安全解决方案带来新市场机会。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48178378",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "agora-1-the-multi-agent-world-model",
+      "label": "Agora-1: The Multi-Agent World Model",
+      "summary": "Agora-1 提出了一种多智能体世界模型，允许不同 AI 代理共享并动态更新统一的世界表示。该模型通过分布式推理与协作，提升代理在复杂任务中的理解与决策能力。技术要点包括基于图神经网络的场景表征、冲突消解机制以及层次化记忆架构。商业价值在于可支撑需要多角色协同的产品，如虚拟团队协作平台、游戏 NPC 智能体群或数字孪生仿真，降低集成多个专用模型的成本。产品创新方面，Agora-1 强调“世界模型即服务”，使开发者能快速构建具有共同认知的代理系统。",
+      "pm_score": 0.38,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48183748",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "cutting-inference-cold-starts-by-40x-with-lp-fuse-cr-and-cuda-checkpoint",
+      "label": "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
+      "summary": "本文介绍了一种通过LP（线性规划）、FUSE（用户空间文件系统）、C/R（检查点/恢复）和CUDA检查点技术将AI推理冷启动时间降低40倍的方法。冷启动是模型部署中的常见痛点，该方案通过优化模型加载与状态恢复流程，显著提升推理服务的响应速度。对AI产品经理而言，这意味着更低延迟、更高吞吐量和更好的用户体验，尤其适用于Serverless推理、边缘部署等场景。商业价值体现在减少GPU闲置、降低运营成本。产品创新在于将传统操作系统机制与CUDA加速结合，实现高效的模型热启动。",
+      "pm_score": 0.38,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48183038",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai",
+      "label": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
+      "summary": "研究人员计划让学前教师佩戴摄像头，通过第一视角视频采集课堂中的真实交互数据，用于训练更贴近儿童行为的AI模型。该方案旨在提升AI对非结构化场景的理解能力，但面临隐私保护和伦理合规挑战。商业价值在于推动儿童教育、行为分析等垂直领域的产品创新，可助力开发个性化教学助手或安全监控系统。产品经理需关注数据采集的合法性及模型泛化能力，平衡技术效果与用户信任。",
+      "pm_score": 0.36,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48179569",
+      "date": "2026-05-19"
+    },
+    {
       "id": "we-stopped-ai-bot-spam-in-our-github-repo-using-gits-author-flag",
       "label": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
       "summary": "本文介绍了一种利用Git原生--author参数拦截AI机器人垃圾提交的高效方案。该方案无需复杂中间件，仅通过校验提交者元数据即可精准过滤自动化低质代码，显著降低仓库维护成本。对AI产品经理而言，此实践揭示了在AI自动化泛滥背景下，利用底层协议元数据进行轻量级治理的可行性，为构建防刷机制与维护开发者生态健康提供了低成本、高兼容性的产品防御思路。",
@@ -90,10 +211,21 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48181125",
       "date": "2026-05-19"
+    },
+    {
+      "id": "sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-require",
+      "label": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing requi",
+      "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "date": "2026-05-19"
     }
   ],
   "graph_totals": {
-    "real_nodes": 643,
-    "edges": 28555
+    "real_nodes": 602,
+    "edges": 29161
   }
 }

@@ -1,0 +1,24 @@
+{
+  "title": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
+  "score": 98,
+  "comments": 28,
+  "url": "https://spectrum.ieee.org/voice-ai-audio-attacks",
+  "hn_url": "https://news.ycombinator.com/item?id=48178378",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "audio"
+  ],
+  "summary_cn": "研究发现语音AI系统存在被隐藏音频攻击的脆弱性，攻击者可在人耳不易察觉的频段或背景噪声中嵌入恶意指令，导致智能音箱、车载语音助手等产品误执行非授权操作。这暴露了现有语音模型在音频输入安全性上的短板，提醒产品经理需在交互设计中加入对抗性检测与输入验证机制，防止被劫持。商业上，若未及时修复，将严重影响用户信任与品牌声誉，同时也为语音安全解决方案带来新市场机会。",
+  "pm_relevance": 7,
+  "concepts": [
+    "语音安全",
+    "对抗性攻击",
+    "音频漏洞"
+  ],
+  "entities": [],
+  "patterns": [
+    "对抗性防御",
+    "输入验证"
+  ]
+}

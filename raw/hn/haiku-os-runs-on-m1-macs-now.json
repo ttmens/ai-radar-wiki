@@ -1,0 +1,23 @@
+{
+  "title": "Haiku OS runs on M1 Macs now",
+  "score": 220,
+  "comments": 74,
+  "url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
+  "hn_url": "https://news.ycombinator.com/item?id=48183579",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Haiku OS（开源轻量级操作系统）现已支持在Apple M1芯片上运行，这一技术移植使得该操作系统能够利用M1的高性能与能效。对于AI产品经理而言，这意味着未来可将AI应用部署在更紧凑、低功耗的硬件平台上，尤其适合边缘计算或特定领域的嵌入式AI场景。同时，Haiku OS的开放架构也便于定制化开发，但当前生态尚不成熟，需关注其对AI框架的兼容性进展。",
+  "pm_relevance": 5,
+  "concepts": [
+    "操作系统移植",
+    "M1芯片支持",
+    "开源系统"
+  ],
+  "entities": [
+    "Haiku"
+  ],
+  "patterns": [
+    "跨平台移植"
+  ]
+}

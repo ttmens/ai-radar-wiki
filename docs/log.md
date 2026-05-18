@@ -665,3 +665,18 @@
 - create: nasa-still-maintains-some-of-the-voyager-spacecraft-code-from-the-70s-era.md
 - create: amazon8217s-new-alexa-powered-feature-can-generate-podcast-episodes.md
 - create: south-korea8217s-letinar-is-building-optics-behind-ai-glasses.md
+
+## [2026-05-19 06:04] sync v3 | 15 new | pillars: {'capabilities': 12, 'patterns': 2, 'ecosystem': 1}
+- create: anthropic-acquires-stainless.md
+- create: we-let-ais-run-radio-stations.md
+- create: elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai.md
+- create: agora-1-the-multi-agent-world-model.md
+- create: cutting-inference-cold-starts-by-40x-with-lp-fuse-cr-and-cuda-checkpoint.md
+- create: iran-starts-bitcoin-backed-ship-insurance-for-hormuz-strait.md
+- create: haiku-os-runs-on-m1-macs-now.md
+- create: voice-ai-systems-are-vulnerable-to-hidden-audio-attacks.md
+- create: no-more-jetbrains-products-for-me.md
+- create: researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai.md
+- create: sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-require.md
+- create: anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflar.md
+- create: show-hn-insforge-open-source-heroku-for-coding-agents.md
