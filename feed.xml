@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 18 May 2026 00:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 04:04:16 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -85,12 +85,108 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcas</title>
+      <link>http://arxiv.org/abs/2605.16233v1</link>
+      <guid isPermaLink="false">forge-self-evolving-agent-memory-with-no-weight-updates-via-population-broadcast</guid>
+      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>FORGE提出了一种无需权重更新的智能体记忆进化方法，通过群体广播协议让层次化ReAct智能体基于失败反馈自动优化提示注入的自然语言记忆。该技术在不重新训练模型的前提下，实现智能体决策能力的持续自我改进，显著降低计算成本。产品经理可关注其如何赋能AI应用实现长期上下文记忆与自适应学习，提升用户交互的个性化和连贯性，尤其适用于对话助手、自动化工作流等场景。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>AI-Mediated Communication Can Steer Collective Opinion</title>
+      <link>http://arxiv.org/abs/2605.16245v1</link>
+      <guid isPermaLink="false">ai-mediated-communication-can-steer-collective-opinion</guid>
+      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文研究了生成式AI（如大型语言模型）在社交平台（如LinkedIn、X）中介人类沟通时，如何影响集体意见的形成。技术要点在于LLM通过润色用户帖子和提供上下文，能够嵌入并放大特定偏见，从而潜移默化地改变群体观点。商业价值上，这意味着社交平台和内容工具需要审慎设计AI功能，避免无意识操纵舆论。产品创新方向包括开发可检测或纠正偏见的中介机制，以及提供透明的AI辅助选项，以保持用户自主性。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Most Americans don't trust AI – or the people in charge of it (2025)</title>
+      <link>https://news.ycombinator.com/item?id=48174808</link>
+      <guid isPermaLink="false">most-americans-dont-trust-ai-or-the-people-in-charge-of-it-2025</guid>
+      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>2025年调查显示，大多数美国人不信任AI以及管理AI的人。这一数据对于AI产品经理至关重要——用户对AI的信任缺失直接影响产品采用率和商业变现。产品创新需聚焦可解释性、透明度与伦理设计，例如提供清晰的AI决策逻辑、用户控制权以及第三方审计。商业价值在于：建立信任能显著提升用户留存与付费意愿，是AI产品规模化落地的关键前提。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Cha</title>
+      <link>http://arxiv.org/abs/2605.16234v1</link>
+      <guid isPermaLink="false">layer-equivalence-is-not-a-property-of-layers-alone-how-you-test-redundancy-chan</guid>
+      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文探讨了Transformer层等价性的两种测试方法：替换测试（检查一层能否替代另一层）和互换测试（检查两层互换后是否近似交换）。研究发现，不同的测试方式会导致对层冗余的不同判断，从而影响模型压缩策略。对于产品经理而言，理解这一区别有助于选择更合适的压缩方法，在保持模型性能的同时减少计算资源消耗，从而降低部署成本并提升推理速度。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Evaluating Design Video Generation: Metrics for Compositional Fidelity</title>
+      <link>http://arxiv.org/abs/2605.16223v1</link>
+      <guid isPermaLink="false">evaluating-design-video-generation-metrics-for-compositional-fidelity</guid>
+      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文针对设计动画领域提出视频生成模型的评估框架。与自然视频生成不同，设计动画具有结构化约束：特定组件需按预设运动类型、方向、速度等进行动画。当前缺乏标准化评测指标，论文致力于定义组合保真度（compositional fidelity）的度量方法。对产品经理而言，这一研究有助于量化生成式设计工具（如UI动画、产品演示视频）的质量，推动商业化落地。通过建立统一评估标准，可降低模型选型成本，提升设计自动化产品的可靠性与用户体验。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation</title>
+      <link>http://arxiv.org/abs/2605.16258v1</link>
+      <guid isPermaLink="false">ivgt-implicit-visual-geometry-transformer-for-neural-scene-representation</guid>
+      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>IVGT提出了一种隐式视觉几何Transformer，用于从无位姿的多视图图像中重建一致的3D几何和外观。与现有依赖显式像素对齐点图的方法不同，该模型通过隐式表示避免了冗余和局限性，能够更高效地学习场景结构。核心创新在于结合Transformer的全局注意力机制与隐式几何学习，无需精确相机位姿即可实现鲁棒重建。该技术对AR/VR、3D内容生成和自动驾驶感知等产品具有显著商业价值，可降低数据采集成本并提升通用性。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Universal Magnetic Structure Prediction from Atomic Coordinates with Near-Experi</title>
+      <link>http://arxiv.org/abs/2605.16230v1</link>
+      <guid isPermaLink="false">universal-magnetic-structure-prediction-from-atomic-coordinates-with-near-experi</guid>
+      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出一种从原子坐标直接预测材料磁性结构的AI方法，精度接近实验水平。传统磁结构确定依赖昂贵实验或复杂理论计算，而该模型利用深度学习从原子构型中快速推断磁序，克服了非共线磁结构的计算难题。这一技术可加速新型磁性材料、自旋电子学和量子材料的发现，降低研发成本，提升材料筛选效率。对AI产品经理而言，该能力可集成到材料设计平台或科学计算工具中，推动AI for Science在材料领域的商业化落地。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent G</title>
+      <link>http://arxiv.org/abs/2605.16232v1</link>
+      <guid isPermaLink="false">a-unified-generative-ai-framework-for-smart-energy-infrastructure-intelligent-ga</guid>
+      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出一个统一生成式AI框架，整合智能计量、生成式AI和量子启发组合优化，用于智能能源基础设施。技术要点包括：利用生成式AI实现智能燃气分配、公用事业计费自动化、碳分析以及量子启发优化算法提升决策效率。商业价值体现在帮助能源公用事业公司优化物理基础设施、增强客户参与度、满足环境责任要求。产品创新在于将多种AI能力融合为一个端到端解决方案，降低集成成本，加速能源行业数字化转型。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillati</title>
+      <link>http://arxiv.org/abs/2605.16241v1</link>
+      <guid isPermaLink="false">offline-semantic-guidance-for-efficient-vision-language-action-policy-distillati</guid>
+      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>VLA-AD是一种用于视觉-语言-动作策略的高效蒸馏框架，通过离线语义引导将数十亿参数的大模型压缩成轻量级模型，实现实时闭环机器人控制。该技术显著降低了推理成本和延迟，同时保持任务性能，为具身AI的商业化部署提供了可行路径。产品创新在于利用预训练大模型的语义知识指导小模型学习，无需在线交互，适合资源受限的机器人场景。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Dynamics-Level Watermarking of Flow Matching Models with Random Codes</title>
+      <link>http://arxiv.org/abs/2605.16239v1</link>
+      <guid isPermaLink="false">dynamics-level-watermarking-of-flow-matching-models-with-random-codes</guid>
+      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出了一种动态水平的水印方法，用于生成模型。与传统的在模型权重或输出中嵌入信号不同，该方法将水印直接嵌入到流匹配模型学到的连续动态（速度场）中。通过随机编码实现，能够在不影响生成质量的前提下，为生成的样本提供可追溯的标识。这一技术对于AI产品经理而言，意味着可以在生成内容中嵌入不可见的、鲁棒性强的水印，有助于版权保护、内容溯源和合规监控。同时，由于水印嵌入在模型动态层面，更难被去除或篡改，提升了安全性，适用于图像、音频、视频等多种生成任务，具有较大的商业价值和产品创新潜力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>University of Arizona students boo Eric Schmidt's AI cheerleading</title>
+      <link>https://news.ycombinator.com/item?id=48171852</link>
+      <guid isPermaLink="false">university-of-arizona-students-boo-eric-schmidts-ai-cheerleading</guid>
+      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>亚利桑那大学学生在Eric Schmidt（前谷歌CEO）宣传AI时发出嘘声，反映了公众对AI过度乐观叙事的反感。对AI产品经理而言，这警示需重视用户信任和伦理风险：即使技术强大，若忽视社会情绪和潜在危害，产品可能遭遇抵制。商业价值体现在洞察用户真实需求，避免脱离现实的纯技术推销。产品创新应融入透明度和可控性，以缓解公众焦虑。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
       <title>Agentic Trading with Safe Guardrails</title>
       <link>https://news.ycombinator.com/item?id=48168426</link>
       <guid isPermaLink="false">agentic-trading-with-safe-guardrails</guid>
       <pubDate>2026-05-18T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容探讨了基于智能体（Agent）的自动化交易系统，并引入了“安全护栏”（Safe Guardrails）机制。技术要点在于将强化学习与规则引擎结合，使AI代理能在实时市场环境中自主决策，同时受到预设的风险边界、合规性检查和止损策略约束。商业价值体现在提升交易效率与执行速度，并通过护栏降低黑箱操作带来的金融风险。产品创新上，这种可解释、可干预的“受控自主”模式，为金融科技领域提供了一种兼顾效率与安全的新范式，尤其适合高频交易与量化策略场景。</p></description>
       <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely</title>
+      <link>https://news.ycombinator.com/item?id=48173468</link>
+      <guid isPermaLink="false">two-ea-18-fighter-jets-collide-at-mountain-home-airshow-pilots-ejected-safely</guid>
+      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该新闻为航空事故报道，涉及两架EA-18战斗机在航展相撞，飞行员安全弹射。内容与AI技术、产品创新或商业价值无关，不包含AI产品经理可关注的技术要点。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Trials on veterans suggest ibogaine could provide a new treatment for PTSD</title>
@@ -106,6 +202,30 @@
       <guid isPermaLink="false">prolog-basics-explained-with-pokémon</guid>
       <pubDate>2026-05-18T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文通过宝可梦（Pokémon）的例子，用通俗易懂的方式讲解Prolog（逻辑编程语言）的基础概念，包括事实、规则、查询和回溯机制。Prolog作为AI领域经典的知识表示与推理工具，其声明式编程范式（描述问题而非算法步骤）对于构建专家系统、自然语言理解和语义搜索有启发价值。虽然当前主流AI产品较少直接使用Prolog，但理解其逻辑推理内核有助于产品经理评估知识图谱、规则引擎等技术的适用场景。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Prospective multi-pathogen disease forecasting using autonomous LLM-guided tree</title>
+      <link>http://arxiv.org/abs/2605.16238v1</link>
+      <guid isPermaLink="false">prospective-multi-pathogen-disease-forecasting-using-autonomous-llm-guided-tree</guid>
+      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Probabilistic forecasting of infectious diseases is crucial for public health but relies on labor-intensive manual model curation by expert modeling teams. This bespoke development bottlenecks scalability to granular geographic resolutions or emerging pathogens. Here, we present an autonomous system</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Designing Datacenter Power Delivery Hierarchies for the AI Era</title>
+      <link>http://arxiv.org/abs/2605.16255v1</link>
+      <guid isPermaLink="false">designing-datacenter-power-delivery-hierarchies-for-the-ai-era</guid>
+      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Demand for AI accelerators is rapidly increasing rack power density, with projections approaching 1MW per deployment by 2027. This poses a major challenge for datacenter power delivery designers. As power densities increase, a datacenter designed for a different target density may strand power, i.e.</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sus</title>
+      <link>http://arxiv.org/abs/2605.16250v1</link>
+      <guid isPermaLink="false">a-generative-ai-framework-for-intelligent-utility-billing-co-2-analytics-and-sus</guid>
+      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Distribution utilities are now expected to deliver bills that customers can actually read attach a defensible carbon number to every kWh sold and schedule load against grid stress and emissions constraints We propose an end-to-end framework that unifies four production-grade capabilities under one a</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -291,126 +411,6 @@
       <pubDate>2026-05-16T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenAI推出ChatGPT个人理财功能，允许用户连接银行账户，查看投资组合表现、支出、订阅和即将到来的付款仪表盘。该功能将AI助手从通用对话拓展至私人金融管理，通过API集成银行数据，实现实时财务概览。此举可能颠覆传统个人理财应用，降低用户管理财务的门槛，同时为OpenAI开辟新的商业变现路径（如金融咨询订阅）。产品创新在于将对话式AI与敏感金融数据安全结合，但隐私与合规风险仍需关注。</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Silicon Valley’s vacationland needs a new energy provider just as AI is driving</title>
-      <link>https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/</link>
-      <guid isPermaLink="false">silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-p</guid>
-      <pubDate>2026-05-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>硅谷度假胜地太浩湖面临能源供应挑战，AI驱动的电力需求激增导致电价上升。这揭示了AI技术快速发展对基础设施（尤其是能源）的依赖和压力，产品经理需关注AI模型的能耗成本与可持续性。报道暗示未来AI产品设计需平衡性能与能源效率，可能推动绿色计算和能效优化模式，或影响数据中心选址与区域能源政策。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>The OpenAI trial wraps up, and the Musk founder machine keeps spinning</title>
-      <link>https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/</link>
-      <guid isPermaLink="false">the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning</guid>
-      <pubDate>2026-05-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenAI与马斯克的诉讼案本周结束，最终辩论聚焦于AI领导者是否值得信任。与此同时，SpaceX正朝着可能成为美国历史上最大规模IPO的方向发展。对AI产品经理而言，该事件凸显了AI治理与公众信任在产品商业化中的核心地位——缺乏信任将阻碍用户采用和监管许可。产品经理需在设计AI产品时内置透明度和可解释性机制，以应对日益增长的监管审查。马斯克的商业帝国跨界AI与航天，也提示了生态整合带来的竞争优势。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>A 0-click exploit chain for the Pixel 10</title>
-      <link>https://news.ycombinator.com/item?id=48148460</link>
-      <guid isPermaLink="false">a-0-click-exploit-chain-for-the-pixel-10</guid>
-      <pubDate>2026-05-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容披露了Pixel 10的一个零点击漏洞利用链，攻击者无需用户交互即可远程控制设备。从AI产品经理视角看，这一漏洞凸显了端侧AI设备的系统性安全风险——尤其是对依赖本地推理的智能助手、摄像头AI等功能的影响。商业上，需推动安全评估与补丁管理流程，避免用户数据泄露和品牌声誉受损。产品创新方向可考虑硬件级安全隔离或上下文感知的权限控制，但核心仍是生态系统的零信任架构。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Watch a neural net learn to play Snake</title>
-      <link>https://news.ycombinator.com/item?id=48136981</link>
-      <guid isPermaLink="false">show-hn-watch-a-neural-net-learn-to-play-snake</guid>
-      <pubDate>2026-05-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该展示通过可视化方式呈现一个神经网络从零开始学习玩贪吃蛇游戏的过程，属于强化学习（RL）的经典应用。技术要点包括神经网络的结构设计、奖励函数定义以及训练过程中的策略迭代。作为产品经理，可以关注这种能力如何迁移到实际产品中，例如游戏AI、自动化决策或模拟训练场景。商业价值体现在快速原型验证和低成本试错，适合需要智能体自主学习的领域。产品创新点在于将枯燥的训练过程转化为直观的教学工具，降低AI教育门槛。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands</title>
-      <link>https://github.com/sleuth-io/sx</link>
-      <guid isPermaLink="false">show-hn-sx-an-open-source-package-manager-for-ai-skills-mcps-and-commands</guid>
-      <pubDate>2026-05-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Sx 是一个开源包管理器，专为 AI 技能、MCP（模型上下文协议）和命令设计，类似于 npm 但面向 AI 生态。它允许开发者发布、发现和组合可复用的 AI 模块，降低构建复杂 AI 工作流的门槛。该项目通过标准化技能和工具集成，推动 AI 应用的模块化和生态化，对产品经理而言，意味着更快的原型搭建和更丰富的功能组合可能性。其开源特性也鼓励社区贡献，有望形成类似 JavaScript 生态的 AI 技能市场，提升团队协作效率。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>The main thing about P2P meth is that there's so much of it (2021)</title>
-      <link>https://news.ycombinator.com/item?id=48155324</link>
-      <guid isPermaLink="false">the-main-thing-about-p2p-meth-is-that-theres-so-much-of-it-2021</guid>
-      <pubDate>2026-05-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Codex is now in the ChatGPT mobile app</title>
-      <link>https://news.ycombinator.com/item?id=48140529</link>
-      <guid isPermaLink="false">codex-is-now-in-the-chatgpt-mobile-app</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>OpenAI 将 Codex（代码生成模型）集成到 ChatGPT 移动应用中，用户现在可以在手机端通过对话直接获取代码建议、解释和调试帮助。这一举措显著提升了 ChatGPT 在移动场景下的实用性，尤其是对开发者用户而言，无需打开桌面 IDE 即可快速编码。商业上，它增强了 ChatGPT 的差异化竞争力，吸引专业用户并推动订阅转化。产品创新在于将代码助手无缝融入移动聊天界面，降低使用门槛，扩大 AI 编程的普及度。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>AI is making me dumb</title>
-      <link>https://news.ycombinator.com/item?id=48139148</link>
-      <guid isPermaLink="false">ai-is-making-me-dumb</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>标题指出AI可能导致用户认知能力下降，对产品经理而言，需警惕过度依赖AI带来的用户技能退化风险。这提示设计AI产品时应平衡自动化与人类主动思考，避免替代关键认知环节。商业价值上，可探索增强而非替代的AI功能，例如提供建议而非答案，保留用户决策权。产品创新方向包括可解释性、可控性设计，以及培养长期依赖较小的使用习惯。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Ontario auditors find doctors' AI note takers routinely blow basic facts</title>
-      <link>https://news.ycombinator.com/item?id=48142188</link>
-      <guid isPermaLink="false">ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>安大略省审计员发现，医生使用的AI笔记助手频繁出现基本事实错误，如误诊记录、错误剂具等，严重影响医疗安全。该问题揭示当前AI在专业场景中可靠性不足，尤其在高容错率的医疗领域，产品设计需强化事实核查与领域特定校准。商业上，此类AI工具若不能保证准确性，将面临法律与信任危机，提示产品经理应优先投入医疗合规验证与实时纠错机制。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>RTX 5090 and M4 MacBook Air: Can It Game?</title>
-      <link>https://news.ycombinator.com/item?id=48137145</link>
-      <guid isPermaLink="false">rtx-5090-and-m4-macbook-air-can-it-game</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>RTX 5090与M4 MacBook Air的游戏性能较量，实质是消费级硬件在图形与AI计算能力上的直接对比。对AI产品经理而言，需关注这些GPU/SoC如何影响本地推理效率、模型部署成本及产品形态。NVIDIA延续高功耗极致性能路线，Apple则强调能效与统一内存架构，两者差异将决定AI应用是依赖云端还是端侧运行。此次测评也揭示了PC游戏场景下AI超分、实时渲染等技术的落地潜力，为面向消费者的AI硬件选型提供参考。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>What happens when AI starts building itself?</title>
-      <link>https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/</link>
-      <guid isPermaLink="false">what-happens-when-ai-starts-building-itself</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Richard Socher 的新创业公司获 6.5 亿美元融资，旨在构建能够无限自我研究与改进的 AI 系统，并承诺实际交付产品。该技术核心在于实现 AI 的自主迭代能力，无需人工干预即可优化自身模型、算法和知识库，从而持续提升性能。对产品经理而言，这意味着可能诞生一种‘自进化’产品开发范式，大幅缩短模型迭代周期，降低人工调参成本，并实现实时适应场景变化。但其挑战在于如何确保自我改进过程的可控性、安全性和业务对齐。若成功，将重塑 AI 产品生命周期管理与持续交付模式，带来显著的商业价值。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Osaurus brings both local and cloud AI models to your Mac</title>
-      <link>https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/</link>
-      <guid isPermaLink="false">osaurus-brings-both-local-and-cloud-ai-models-to-your-mac</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Osaurs 是一款面向 Mac 的 AI 应用，创新性地整合了本地与云端 AI 模型，让用户的数据、记忆和工具完全保留在自有硬件上。其核心价值在于平衡了本地隐私安全与云端算力弹性，避免了传统纯云端方案的数据外泄风险，同时借助本地模型实现快速响应与离线可用。对 AI 产品经理而言，这种“混合 AI”架构为端侧智能与云端协同提供了可行范本，尤其适合需要处理敏感信息或对延迟敏感的场景，如个人助理、文档分析等。该产品展示了未来 AI 应用在用户控制权与性能之间的新平衡点，具备较高的产品化借鉴意义。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>The AI Zombification of Universities</title>
-      <link>https://news.ycombinator.com/item?id=48139355</link>
-      <guid isPermaLink="false">the-ai-zombification-of-universities</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容探讨了人工智能对大学教育的‘僵尸化’影响，即学生过度依赖AI工具（如大型语言模型）完成作业和论文，导致批判性思维与原创性下降。技术要点在于生成式AI的文本能力已能通过标准学术评估，引发学术诚信危机。商业价值体现在催生AI检测工具（如抄袭检测升级版）和自适应学习平台，帮助教育机构平衡技术赋能与学术规范。产品创新方向包括设计AI辅助创作与原创性评估结合的混合学习系统。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Runway started by helping filmmakers. Now it wants to beat Google at AI.</title>
-      <link>https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/</link>
-      <guid isPermaLink="false">runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Runway是一家AI视频生成初创公司，认为视频生成是通向世界模型的关键路径，并以此挑战Google在AI领域的领导地位。该公司自称作为AI领域的局外人反而是优势，能带来独特视角和创新。对于AI产品经理，Runway的策略表明视频生成技术不仅用于内容创作，更可能成为构建通用世界模型的基础，商业上可能开辟新的AI应用范式。其产品创新在于将视频生成从工具提升为认知模型训练的前沿。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO</title>
-      <link>https://news.ycombinator.com/item?id=48134429</link>
-      <guid isPermaLink="false">sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo</guid>
-      <pubDate>2026-05-15T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>OpenAI CEO萨姆·奥尔特曼在IPO前面临共和党的商业交易审查，这增加了公司上市的不确定性。对AI产品经理而言，需关注监管风险对产品路线图、合作策略及商业化的潜在冲击，尤其是OpenAI作为行业领头羊的合规动态可能影响整个AI生态的融资环境与产品发布节奏。</p></description>
-      <category>💰 商业趋势</category>
     </item>
   </channel>
 </rss>
