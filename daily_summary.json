@@ -2,68 +2,50 @@
   "daily_summary": {
     "date": "2026-05-18",
     "headline": "今日 AI 情报 · 2026-05-18",
-    "overview": "AI 从技术神话转向务实落地，信任与价值成为核心瓶颈",
+    "overview": "技术突破与信任危机并存，产品经理需从技术驱动转向系统设计与信任构建",
     "narratives": [
       {
-        "title": "AI产品落地：从技术加速到价值重构",
-        "body": "今日多条情报表明，单纯将AI嵌入现有流程并不能自动加速业务（ID1），AI本身是技术而非产品（ID6）。产品经理需重新设计人机协作流程，聚焦真实场景的价值创造，而非盲目追求自动化。技术侧大量论文（ID9、ID10、ID18）聚焦效率优化与成本控制，标志着行业从模型能力竞赛转向实用化部署。",
+        "title": "AI从技术崇拜走向系统整合与效能优化",
+        "body": "多个信号表明，AI正从单纯追求模型能力的竞赛转向务实落地：强调AI不是产品而是技术（#6）、警惕盲目自动化带来的效率陷阱（#1）、以及涌现大量面向实际应用的优化方案（如智能体记忆进化、代码搜索token压缩、机器人策略蒸馏等）。产品经理需要重新思考AI在业务流程中的角色，从“替换人”转向“增强系统”，注重整体效率而非局部指标。",
         "type": "paradigm_shift",
         "pillar_key": "capabilities"
       },
       {
-        "title": "AI商业化信任瓶颈：用户信任决定产品生死",
-        "body": "从企业订阅风险（ID2）到公众不信任（ID12、ID20），再到OpenAI信任危机（ID7），信任缺失已成为AI商业化的最大障碍。产品经理必须将可解释性、数据隐私、可替换性作为产品设计的核心原则，而非事后补充。毕业演讲回避AI的建议（ID4）进一步印证了社会情绪的反转。",
+        "title": "公众信任危机倒逼AI产品设计转向透明与可控",
+        "body": "调查显示多数人不信任AI及其管理者（#12），学生公开嘘声AI鼓吹（#20），毕业演讲应避免提及AI（#4），企业订阅模式被视为定时炸弹（#2）。这些信号共同指向信任赤字已成为AI商业化的最大障碍。产品经理必须将透明度、数据隐私（如Apple的自动删除（#5））和用户控制权作为核心设计原则，以缓解社会焦虑并推动可持续采用。",
         "type": "bottleneck",
-        "pillar_key": "business"
+        "pillar_key": "ecosystem"
       }
     ],
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "narrative_title": "AI产品落地：从技术加速到价值重构",
-        "insight": "AI产品落地：从技术加速到价值重构。该方向的具体信号：AI并不必然加速流程（ID1），需警惕技术崇拜（ID6）；同时技术社区正大量涌现优化推理成本（ID9、ID10、ID18）和隐私保护（ID5）的方案，表明行业正从追求模型规模转向实用化工程。",
+        "narrative_title": "AI从技术崇拜走向系统整合与效能优化",
+        "insight": "AI从技术崇拜走向系统整合与效能优化。该方向的具体信号：技术本身非产品，需嵌入流程；自动化不保证效率提升；涌现大量面向实际部署的优化方案（如无需权重更新的智能体记忆、98% token节省的代码搜索、大模型蒸馏为轻量机器人策略等），表明行业正从模型竞赛转向工程化落地。",
         "evidence": [
           {
             "id": "i-dont-think-ai-will-make-your-processes-go-faster",
-            "title": "AI不会自动加速流程，需重新设计系统",
+            "title": "AI不必然加速流程，需重新设计系统",
             "score": 0.6
-          }
-        ]
-      },
-      {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "narrative_title": "AI商业化信任瓶颈：用户信任决定产品生死",
-        "insight": "AI商业化信任瓶颈：用户信任决定产品生死。该方向的具体信号：企业AI订阅模式存在供应商锁定、数据隐私和成本失控风险（ID2）；马斯克-OpenAI诉讼凸显治理信任危机（ID7）；多数美国人不信任AI及管理者（ID12），学生公开嘘声（ID20）表明公众对AI宣教的反感。",
-        "evidence": [
-          {
-            "id": "why-trust-is-a-big-question-at-the-elon-musk-openai-trial",
-            "title": "OpenAI信任危机：诉讼凸显治理问题",
-            "score": 0.45
-          },
-          {
-            "id": "most-americans-dont-trust-ai-or-the-people-in-charge-of-it-2025",
-            "title": "多数美国人不信任AI及管理者",
-            "score": 0.41
           }
         ]
       },
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "narrative_title": "AI商业化信任瓶颈：用户信任决定产品生死",
-        "insight": "AI商业化信任瓶颈：用户信任决定产品生死。该方向的具体信号：毕业典礼演讲者被建议避免提及AI（ID4），因为毕业生对AI未来缺乏兴奋感，反映预期落差；统一生成式AI框架在能源行业落地（ID17）则展示了务实应用场景，但需警惕技术推销与社会情绪脱节。",
+        "narrative_title": "公众信任危机倒逼AI产品设计转向透明与可控",
+        "insight": "公众信任危机倒逼AI产品设计转向透明与可控。该方向的具体信号：多数美国人表示不信任AI及其管理者（#12），学生嘘声反对AI过度宣传（#20），毕业演讲应避免AI话题（#4），企业订阅模式被视为隐患（#2），以及苹果通过自动删除聊天强调隐私（#5）。这些共同表明，忽视社会情绪的AI产品将面临抵制，隐私和透明度成为刚需。",
         "evidence": [
           {
-            "id": "a-unified-generative-ai-framework-for-smart-energy-infrastructure-intelligent-ga",
-            "title": "能源行业统一生成式AI框架：务实应用",
-            "score": 0.4
+            "id": "every-ai-subscription-is-a-ticking-time-bomb-for-enterprise",
+            "title": "企业AI订阅模式如定时炸弹，需防供应商锁定与合规风险",
+            "score": 0.58
           }
         ]
       }
     ],
-    "stats": "技术能力: 14 | 产品模式: 0 | 工具生态: 4 | 商业趋势: 2",
+    "stats": "技术能力: 13 | 产品模式: 0 | 工具生态: 7 | 商业趋势: 2",
     "total_items": 20,
     "high_value_count": 20,
     "all_today_ids": [
@@ -148,6 +130,14 @@
         "label": "University of Arizona students boo Eric Schmidt's AI cheerleading"
       },
       {
+        "id": "writeup-16-bytes-of-x86-that-turn-matrix-rain-into-sound",
+        "label": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound"
+      },
+      {
+        "id": "the-four-horsemen-of-the-llm-apocalypse",
+        "label": "The Four Horsemen of the LLM Apocalypse"
+      },
+      {
         "id": "agentic-trading-with-safe-guardrails",
         "label": "Agentic Trading with Safe Guardrails"
       },
@@ -181,6 +171,6 @@
       }
     ],
     "date_bj": "2026-05-18 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-18 12:01:42"
+    "generated_at_bj": "2026-05-18 18:01:43"
   }
 }

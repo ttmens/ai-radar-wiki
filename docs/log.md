@@ -651,3 +651,7 @@
 - create: two-ea-18-fighter-jets-collide-at-mountain-home-airshow-pilots-ejected-safely.md
 - create: most-americans-dont-trust-ai-or-the-people-in-charge-of-it-2025.md
 - create: university-of-arizona-students-boo-eric-schmidts-ai-cheerleading.md
+
+## [2026-05-18 18:02] sync v3 | 2 new | pillars: {'capabilities': 2}
+- create: writeup-16-bytes-of-x86-that-turn-matrix-rain-into-sound.md
+- create: the-four-horsemen-of-the-llm-apocalypse.md

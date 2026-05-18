@@ -1,7 +1,7 @@
 {
   "date": "2026-05-18",
-  "generated_at": "2026-05-18T12:02:22.775534+08:00",
-  "item_count": 22,
+  "generated_at": "2026-05-18T18:02:29.445105+08:00",
+  "item_count": 24,
   "items": [
     {
       "id": "i-dont-think-ai-will-make-your-processes-go-faster",
@@ -224,6 +224,28 @@
       "date": "2026-05-18"
     },
     {
+      "id": "writeup-16-bytes-of-x86-that-turn-matrix-rain-into-sound",
+      "label": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
+      "summary": "该项目展示了仅用16字节x86汇编代码将经典的《黑客帝国》数字雨视觉特效实时转化为声音输出的技术。这一极简实现利用了底层硬件指令进行快速音频合成，体现了对机器指令集的深度优化能力。虽然当前趣味性大于商业价值，但它为AI产品经理提供了关于实时信号处理、极简代码实现以及跨模态转换（视觉转音频）的启发。该技术可探索用于低资源环境下的音频反馈系统或嵌入式AI创意应用。",
+      "pm_score": 0.34,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48173962",
+      "date": "2026-05-18"
+    },
+    {
+      "id": "the-four-horsemen-of-the-llm-apocalypse",
+      "label": "The Four Horsemen of the LLM Apocalypse",
+      "summary": "文章以‘LLM末日的四骑士’为隐喻，探讨大型语言模型面临的四大核心挑战：幻觉（生成虚假信息）、偏见（训练数据中的不公平性）、安全性（滥用与对抗攻击）以及可解释性（黑箱决策）。这些技术痛点直接影响产品可靠性、用户信任与合规风险。对于AI产品经理，理解这些限制有助于在产品设计中引入事实核查、偏见检测、安全护栏与可解释接口，从而提升产品价值与市场竞争力。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48172680",
+      "date": "2026-05-18"
+    },
+    {
       "id": "agentic-trading-with-safe-guardrails",
       "label": "Agentic Trading with Safe Guardrails",
       "summary": "该内容探讨了基于智能体（Agent）的自动化交易系统，并引入了“安全护栏”（Safe Guardrails）机制。技术要点在于将强化学习与规则引擎结合，使AI代理能在实时市场环境中自主决策，同时受到预设的风险边界、合规性检查和止损策略约束。商业价值体现在提升交易效率与执行速度，并通过护栏降低黑箱操作带来的金融风险。产品创新上，这种可解释、可干预的“受控自主”模式，为金融科技领域提供了一种兼顾效率与安全的新范式，尤其适合高频交易与量化策略场景。",
@@ -247,7 +269,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 579,
-    "edges": 27331
+    "real_nodes": 581,
+    "edges": 27913
   }
 }
