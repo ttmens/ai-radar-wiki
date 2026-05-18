@@ -1,0 +1,32 @@
+{
+  "title": "FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast",
+  "summary": "Can LLM agents improve decision-making through self-generated memory without gradient updates? We propose FORGE (Failure-Optimized Reflective Graduation and Evolution), a staged, population-based protocol that evolves prompt-injected natural-language memory for hierarchical ReAct agents. FORGE wraps a Reflexion-style inner loop, where a dedicated reflection agent (using the same underlying LLM, no distillation from a stronger model) converts failed trajectories into reusable knowledge artifacts: textual heuristics (Rules), few-shot demonstrations (Examples), or both (Mixed), with an outer loop that propagates the best-performing instance's memory to the population between stages and freezes converged instances via a graduation criterion. We evaluate on CybORG CAGE-2, a stochastic network-defense POMDP at a 30-step horizon against the B-line attacker, where all four tested LLM families (Gemini-2.5-Flash-Lite, Grok-4-Fast, Llama-4-Maverick, Qwen3-235B) exhibit strongly negative, heavy-tailed zero-shot rewards. Compared against both a zero-shot baseline and a Reflexion baseline (isolated single-stream learning), FORGE improves average evaluation return by 1.7-7.7$\\times$ over zero-shot and by 29-72% over Reflexion in all 12 model-representation conditions, reducing major-failure rates (below $-100$) to as low as $\\sim$1%. We find that (1) population broadcast is critical mechanism, with a no-graduation ablation confirming that broadcast carries the performance gains while graduation primarily saves compute; (2) Examples achieves the strongest returns for three of four models, Rules offers the best cost-reliability profile with $\\sim$40% fewer tokens; and (3) weaker baseline models benefit disproportionately, suggesting FORGE may mitigate capability gaps rather than amplify strong models. All evidence is confined to CAGE-2 B-line; cross-family findings are directional evidence.",
+  "url": "http://arxiv.org/abs/2605.16233v1",
+  "authors": [
+    "Igor Bogdanov",
+    "Chung-Horng Lung",
+    "Thomas Kunz",
+    "Jie Gao",
+    "Adrian Taylor"
+  ],
+  "published": "2026-05-15T17:42:49Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "distillation",
+    "gradient"
+  ],
+  "summary_cn": "FORGE提出了一种无需权重更新的智能体记忆进化方法，通过群体广播协议让层次化ReAct智能体基于失败反馈自动优化提示注入的自然语言记忆。该技术在不重新训练模型的前提下，实现智能体决策能力的持续自我改进，显著降低计算成本。产品经理可关注其如何赋能AI应用实现长期上下文记忆与自适应学习，提升用户交互的个性化和连贯性，尤其适用于对话助手、自动化工作流等场景。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI Memory",
+    "Self-Evolving Agents",
+    "Prompt Engineering"
+  ],
+  "entities": [],
+  "patterns": [
+    "Population-Based Learning",
+    "Memory Evolution"
+  ]
+}

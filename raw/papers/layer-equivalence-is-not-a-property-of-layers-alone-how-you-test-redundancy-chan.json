@@ -1,0 +1,28 @@
+{
+  "title": "Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Changes What You Find",
+  "summary": "When researchers ask whether two transformer layers are \"equivalent\" for compression, they often conflate distinct tests. Replacement asks whether one layer's map can substitute for another's in place; interchange asks whether two layers approximately commute when their positions are swapped. Both are output-grounded swap-KL probes, but they need not agree: on pretrained transformers the protocol gap can change which layers look safe to prune by several-fold under the same evaluator, especially when replacement distances are high.\n  We measure both protocols across checkpoints and architectures. On a Pythia training trajectory (410M and 1.4B), the replacement-interchange gap grows from initialization to convergence. Under one matched WikiText-2 contract at 8B scale, Qwen3-8B enters a divergent regime: interchange-guided removal is several-fold safer than replacement-guided at the same layer budgets, while Llama-3.1-8B ties the two protocols for pruning cost even though interchange KL is lower, showing metric gaps need not map one-to-one to removal. Before layer removal or merging, score both swap-KLs on the target checkpoint; the diagnostic requires only unlabeled forward passes.",
+  "url": "http://arxiv.org/abs/2605.16234v1",
+  "authors": [
+    "Gabriel Garcia"
+  ],
+  "published": "2026-05-15T17:43:16Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "compression",
+    "transformer"
+  ],
+  "summary_cn": "该论文探讨了Transformer层等价性的两种测试方法：替换测试（检查一层能否替代另一层）和互换测试（检查两层互换后是否近似交换）。研究发现，不同的测试方式会导致对层冗余的不同判断，从而影响模型压缩策略。对于产品经理而言，理解这一区别有助于选择更合适的压缩方法，在保持模型性能的同时减少计算资源消耗，从而降低部署成本并提升推理速度。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Layer Equivalence",
+    "Model Redundancy",
+    "Compression Testing"
+  ],
+  "entities": [],
+  "patterns": [
+    "Model Compression",
+    "Layer-wise Redundancy"
+  ]
+}

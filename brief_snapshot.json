@@ -1,7 +1,7 @@
 {
   "date": "2026-05-18",
-  "generated_at": "2026-05-18T06:04:53.077175+08:00",
-  "item_count": 10,
+  "generated_at": "2026-05-18T12:02:22.775534+08:00",
+  "item_count": 22,
   "items": [
     {
       "id": "i-dont-think-ai-will-make-your-processes-go-faster",
@@ -103,6 +103,127 @@
       "date": "2026-05-18"
     },
     {
+      "id": "forge-self-evolving-agent-memory-with-no-weight-updates-via-population-broadcast",
+      "label": "FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcas",
+      "summary": "FORGE提出了一种无需权重更新的智能体记忆进化方法，通过群体广播协议让层次化ReAct智能体基于失败反馈自动优化提示注入的自然语言记忆。该技术在不重新训练模型的前提下，实现智能体决策能力的持续自我改进，显著降低计算成本。产品经理可关注其如何赋能AI应用实现长期上下文记忆与自适应学习，提升用户交互的个性化和连贯性，尤其适用于对话助手、自动化工作流等场景。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.16233v1",
+      "date": "2026-05-18"
+    },
+    {
+      "id": "ai-mediated-communication-can-steer-collective-opinion",
+      "label": "AI-Mediated Communication Can Steer Collective Opinion",
+      "summary": "该论文研究了生成式AI（如大型语言模型）在社交平台（如LinkedIn、X）中介人类沟通时，如何影响集体意见的形成。技术要点在于LLM通过润色用户帖子和提供上下文，能够嵌入并放大特定偏见，从而潜移默化地改变群体观点。商业价值上，这意味着社交平台和内容工具需要审慎设计AI功能，避免无意识操纵舆论。产品创新方向包括开发可检测或纠正偏见的中介机制，以及提供透明的AI辅助选项，以保持用户自主性。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.16245v1",
+      "date": "2026-05-18"
+    },
+    {
+      "id": "most-americans-dont-trust-ai-or-the-people-in-charge-of-it-2025",
+      "label": "Most Americans don't trust AI – or the people in charge of it (2025)",
+      "summary": "2025年调查显示，大多数美国人不信任AI以及管理AI的人。这一数据对于AI产品经理至关重要——用户对AI的信任缺失直接影响产品采用率和商业变现。产品创新需聚焦可解释性、透明度与伦理设计，例如提供清晰的AI决策逻辑、用户控制权以及第三方审计。商业价值在于：建立信任能显著提升用户留存与付费意愿，是AI产品规模化落地的关键前提。",
+      "pm_score": 0.415,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48174808",
+      "date": "2026-05-18"
+    },
+    {
+      "id": "layer-equivalence-is-not-a-property-of-layers-alone-how-you-test-redundancy-chan",
+      "label": "Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Cha",
+      "summary": "该论文探讨了Transformer层等价性的两种测试方法：替换测试（检查一层能否替代另一层）和互换测试（检查两层互换后是否近似交换）。研究发现，不同的测试方式会导致对层冗余的不同判断，从而影响模型压缩策略。对于产品经理而言，理解这一区别有助于选择更合适的压缩方法，在保持模型性能的同时减少计算资源消耗，从而降低部署成本并提升推理速度。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.16234v1",
+      "date": "2026-05-18"
+    },
+    {
+      "id": "evaluating-design-video-generation-metrics-for-compositional-fidelity",
+      "label": "Evaluating Design Video Generation: Metrics for Compositional Fidelity",
+      "summary": "该论文针对设计动画领域提出视频生成模型的评估框架。与自然视频生成不同，设计动画具有结构化约束：特定组件需按预设运动类型、方向、速度等进行动画。当前缺乏标准化评测指标，论文致力于定义组合保真度（compositional fidelity）的度量方法。对产品经理而言，这一研究有助于量化生成式设计工具（如UI动画、产品演示视频）的质量，推动商业化落地。通过建立统一评估标准，可降低模型选型成本，提升设计自动化产品的可靠性与用户体验。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.16223v1",
+      "date": "2026-05-18"
+    },
+    {
+      "id": "ivgt-implicit-visual-geometry-transformer-for-neural-scene-representation",
+      "label": "IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation",
+      "summary": "IVGT提出了一种隐式视觉几何Transformer，用于从无位姿的多视图图像中重建一致的3D几何和外观。与现有依赖显式像素对齐点图的方法不同，该模型通过隐式表示避免了冗余和局限性，能够更高效地学习场景结构。核心创新在于结合Transformer的全局注意力机制与隐式几何学习，无需精确相机位姿即可实现鲁棒重建。该技术对AR/VR、3D内容生成和自动驾驶感知等产品具有显著商业价值，可降低数据采集成本并提升通用性。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.16258v1",
+      "date": "2026-05-18"
+    },
+    {
+      "id": "universal-magnetic-structure-prediction-from-atomic-coordinates-with-near-experi",
+      "label": "Universal Magnetic Structure Prediction from Atomic Coordinates with Near-Experi",
+      "summary": "该论文提出一种从原子坐标直接预测材料磁性结构的AI方法，精度接近实验水平。传统磁结构确定依赖昂贵实验或复杂理论计算，而该模型利用深度学习从原子构型中快速推断磁序，克服了非共线磁结构的计算难题。这一技术可加速新型磁性材料、自旋电子学和量子材料的发现，降低研发成本，提升材料筛选效率。对AI产品经理而言，该能力可集成到材料设计平台或科学计算工具中，推动AI for Science在材料领域的商业化落地。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.16230v1",
+      "date": "2026-05-18"
+    },
+    {
+      "id": "a-unified-generative-ai-framework-for-smart-energy-infrastructure-intelligent-ga",
+      "label": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent G",
+      "summary": "该论文提出一个统一生成式AI框架，整合智能计量、生成式AI和量子启发组合优化，用于智能能源基础设施。技术要点包括：利用生成式AI实现智能燃气分配、公用事业计费自动化、碳分析以及量子启发优化算法提升决策效率。商业价值体现在帮助能源公用事业公司优化物理基础设施、增强客户参与度、满足环境责任要求。产品创新在于将多种AI能力融合为一个端到端解决方案，降低集成成本，加速能源行业数字化转型。",
+      "pm_score": 0.395,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.16232v1",
+      "date": "2026-05-18"
+    },
+    {
+      "id": "offline-semantic-guidance-for-efficient-vision-language-action-policy-distillati",
+      "label": "Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillati",
+      "summary": "VLA-AD是一种用于视觉-语言-动作策略的高效蒸馏框架，通过离线语义引导将数十亿参数的大模型压缩成轻量级模型，实现实时闭环机器人控制。该技术显著降低了推理成本和延迟，同时保持任务性能，为具身AI的商业化部署提供了可行路径。产品创新在于利用预训练大模型的语义知识指导小模型学习，无需在线交互，适合资源受限的机器人场景。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.16241v1",
+      "date": "2026-05-18"
+    },
+    {
+      "id": "dynamics-level-watermarking-of-flow-matching-models-with-random-codes",
+      "label": "Dynamics-Level Watermarking of Flow Matching Models with Random Codes",
+      "summary": "该论文提出了一种动态水平的水印方法，用于生成模型。与传统的在模型权重或输出中嵌入信号不同，该方法将水印直接嵌入到流匹配模型学到的连续动态（速度场）中。通过随机编码实现，能够在不影响生成质量的前提下，为生成的样本提供可追溯的标识。这一技术对于AI产品经理而言，意味着可以在生成内容中嵌入不可见的、鲁棒性强的水印，有助于版权保护、内容溯源和合规监控。同时，由于水印嵌入在模型动态层面，更难被去除或篡改，提升了安全性，适用于图像、音频、视频等多种生成任务，具有较大的商业价值和产品创新潜力。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.16239v1",
+      "date": "2026-05-18"
+    },
+    {
+      "id": "university-of-arizona-students-boo-eric-schmidts-ai-cheerleading",
+      "label": "University of Arizona students boo Eric Schmidt's AI cheerleading",
+      "summary": "亚利桑那大学学生在Eric Schmidt（前谷歌CEO）宣传AI时发出嘘声，反映了公众对AI过度乐观叙事的反感。对AI产品经理而言，这警示需重视用户信任和伦理风险：即使技术强大，若忽视社会情绪和潜在危害，产品可能遭遇抵制。商业价值体现在洞察用户真实需求，避免脱离现实的纯技术推销。产品创新应融入透明度和可控性，以缓解公众焦虑。",
+      "pm_score": 0.345,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48171852",
+      "date": "2026-05-18"
+    },
+    {
       "id": "agentic-trading-with-safe-guardrails",
       "label": "Agentic Trading with Safe Guardrails",
       "summary": "该内容探讨了基于智能体（Agent）的自动化交易系统，并引入了“安全护栏”（Safe Guardrails）机制。技术要点在于将强化学习与规则引擎结合，使AI代理能在实时市场环境中自主决策，同时受到预设的风险边界、合规性检查和止损策略约束。商业价值体现在提升交易效率与执行速度，并通过护栏降低黑箱操作带来的金融风险。产品创新上，这种可解释、可干预的“受控自主”模式，为金融科技领域提供了一种兼顾效率与安全的新范式，尤其适合高频交易与量化策略场景。",
@@ -112,10 +233,21 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48168426",
       "date": "2026-05-18"
+    },
+    {
+      "id": "two-ea-18-fighter-jets-collide-at-mountain-home-airshow-pilots-ejected-safely",
+      "label": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+      "summary": "该新闻为航空事故报道，涉及两架EA-18战斗机在航展相撞，飞行员安全弹射。内容与AI技术、产品创新或商业价值无关，不包含AI产品经理可关注的技术要点。",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48173468",
+      "date": "2026-05-18"
     }
   ],
   "graph_totals": {
-    "real_nodes": 564,
-    "edges": 26751
+    "real_nodes": 579,
+    "edges": 27331
   }
 }

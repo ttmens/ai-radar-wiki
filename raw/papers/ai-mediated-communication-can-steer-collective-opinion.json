@@ -1,0 +1,33 @@
+{
+  "title": "AI-Mediated Communication Can Steer Collective Opinion",
+  "summary": "Generative artificial intelligence (AI) is increasingly integrated into the online platforms where humans exchange opinions; large language models (LLMs) now polish users' posts on LinkedIn and provide context for content shared on X. While prior work has shown that AI can express biased opinions and shape individuals' opinions during human-AI interactions, less attention has been paid to its influence on collective opinion formation when mediating human-to-human communication. We address this gap via a combination of empirical and theoretical analyses. We show empirically that LLMs from multiple popular families introduce directional biases when instructed to edit human-written texts on contested topics, for example, nudging texts in favor of gun control and against atheism. Building on this observation, we introduce a mathematical model of opinion dynamics in which an AI system sits between users on a social network, transforming the opinions they express and perceive. By analytically characterizing the equilibrium of this model and performing simulations on real social network data, we show that biases introduced by AI in human-to-human communication can be amplified through the network and shift collective opinion in their direction. In light of these findings, we investigate whether such biases are controllable by online platforms. We audit the \"Explain this post\" feature on X and find evidence of pro-life bias in Grok's outputs on abortion-related content, which we trace back to specific design choices. We conclude with a discussion of the broader implications of our findings in relation to ongoing legislative efforts in the European Union.",
+  "url": "http://arxiv.org/abs/2605.16245v1",
+  "authors": [
+    "Stratis Tsirtsis",
+    "Kai Rawal",
+    "Chris Russell",
+    "Brent Mittelstadt",
+    "Sandra Wachter"
+  ],
+  "published": "2026-05-15T17:49:24Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "attention"
+  ],
+  "summary_cn": "该论文研究了生成式AI（如大型语言模型）在社交平台（如LinkedIn、X）中介人类沟通时，如何影响集体意见的形成。技术要点在于LLM通过润色用户帖子和提供上下文，能够嵌入并放大特定偏见，从而潜移默化地改变群体观点。商业价值上，这意味着社交平台和内容工具需要审慎设计AI功能，避免无意识操纵舆论。产品创新方向包括开发可检测或纠正偏见的中介机制，以及提供透明的AI辅助选项，以保持用户自主性。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI-Mediated Communication",
+    "Collective Opinion Steering",
+    "LLM Bias"
+  ],
+  "entities": [
+    "LinkedIn",
+    "X"
+  ],
+  "patterns": [
+    "Copilot Pattern",
+    "Social AI Integration"
+  ]
+}

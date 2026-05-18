@@ -1,0 +1,33 @@
+{
+  "title": "IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation",
+  "summary": "Reconstructing coherent 3D geometry and appearance from unposed multi-view images is a fundamental yet challenging problem in computer vision. Most existing visual geometry foundation models predict explicit geometry by regressing pixel-aligned pointmaps, often suffering from redundancy and limited geometric continuity. We propose IVGT, an Implicit Visual Geometry Transformer that implicitly models continuous and coherent geometry from pose-free multi-view images. This formulation learns a continuous neural scene representation in a canonical coordinate system and supports continuous spatial queries at any 3D positions, retrieving local features to predict signed distance (SDF) values and colors using lightweight decoders. It allows direct extraction of continuous and coherent surface geometry, enabling rendering of RGB images, depth maps, and surface normal maps from arbitrary viewpoints. We train IVGT via multi-dataset joint optimization with 2D supervision and 3D geometric regularization. IVGT demonstrates generalization across scenes and achieves strong performance on various tasks, including mesh and point cloud reconstruction, novel view synthesis, depth and surface normal estimation, and camera pose estimation.",
+  "url": "http://arxiv.org/abs/2605.16258v1",
+  "authors": [
+    "Yuqi Wu",
+    "Tianyu Hu",
+    "Wenzhao Zheng",
+    "Yuanhui Huang",
+    "Haowen Sun"
+  ],
+  "published": "2026-05-15T17:59:57Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision",
+    "transformer",
+    "optimization",
+    "dataset"
+  ],
+  "summary_cn": "IVGT提出了一种隐式视觉几何Transformer，用于从无位姿的多视图图像中重建一致的3D几何和外观。与现有依赖显式像素对齐点图的方法不同，该模型通过隐式表示避免了冗余和局限性，能够更高效地学习场景结构。核心创新在于结合Transformer的全局注意力机制与隐式几何学习，无需精确相机位姿即可实现鲁棒重建。该技术对AR/VR、3D内容生成和自动驾驶感知等产品具有显著商业价值，可降低数据采集成本并提升通用性。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Implicit Representation",
+    "3D Geometry",
+    "Multi-View Reconstruction"
+  ],
+  "entities": [],
+  "patterns": [
+    "Neural Scene Representation",
+    "Transformer-based Vision"
+  ]
+}

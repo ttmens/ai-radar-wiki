@@ -2,71 +2,70 @@
   "daily_summary": {
     "date": "2026-05-18",
     "headline": "今日 AI 情报 · 2026-05-18",
-    "overview": "AI代理化提速但信任与落地困惑并存，产品经理需重新聚焦场景与安全护栏。",
+    "overview": "AI 从技术神话转向务实落地，信任与价值成为核心瓶颈",
     "narratives": [
       {
-        "title": "AI代理化浪潮与受控自主模式兴起",
-        "body": "多条情报表明，AI正在从对话式交互向自主执行任务的代理化方向演进。以智能体交易系统引入安全护栏为典型，行业开始意识到仅有能力提升不够，必须设计可控的自主决策框架。Semble通过降低98% token消耗优化代理代码搜索，进一步验证了代理基础设施的成熟。这要求产品经理在设计代理产品时，优先考虑可靠的护栏机制而非万能替代。",
+        "title": "AI产品落地：从技术加速到价值重构",
+        "body": "今日多条情报表明，单纯将AI嵌入现有流程并不能自动加速业务（ID1），AI本身是技术而非产品（ID6）。产品经理需重新设计人机协作流程，聚焦真实场景的价值创造，而非盲目追求自动化。技术侧大量论文（ID9、ID10、ID18）聚焦效率优化与成本控制，标志着行业从模型能力竞赛转向实用化部署。",
         "type": "paradigm_shift",
-        "pillar_key": "patterns"
+        "pillar_key": "capabilities"
       },
       {
-        "title": "信任危机与隐私保护成为AI商业化的关键瓶颈",
-        "body": "从企业AI订阅模式隐藏的风险到OpenAI信任诉讼，再到公众对AI的普遍失望，信任缺失正在阻碍AI的规模化落地。苹果Siri自动删除聊天记录则从功能设计上回应隐私关切。这警示产品经理：单纯的AI功能竞争已不可持续，下一阶段的护城河是数据治理、透明度和用户信任重建。",
+        "title": "AI商业化信任瓶颈：用户信任决定产品生死",
+        "body": "从企业订阅风险（ID2）到公众不信任（ID12、ID20），再到OpenAI信任危机（ID7），信任缺失已成为AI商业化的最大障碍。产品经理必须将可解释性、数据隐私、可替换性作为产品设计的核心原则，而非事后补充。毕业演讲回避AI的建议（ID4）进一步印证了社会情绪的反转。",
         "type": "bottleneck",
         "pillar_key": "business"
-      },
-      {
-        "title": "AI产品经理需回归场景驱动与人机协作本质",
-        "body": "大量观点指出AI本身不是产品，盲目套用AI会拖慢流程。行业正从“AI替换人工”的迷思转向“人机协作”的务实设计。汽车行业AI人才军备竞赛虽显激烈，但真正差异将来自对垂直场景的理解与整合。产品经理应优先洞察用户真实痛点，将AI作为能力嵌入而非单独包装。",
-        "type": "maturation",
-        "pillar_key": "capabilities"
       }
     ],
     "insights": [
       {
-        "pillar": "📱 产品模式",
-        "pillar_key": "patterns",
-        "narrative_title": "AI代理化浪潮与受控自主模式兴起",
-        "insight": "AI代理化浪潮与受控自主模式兴起。该方向的具体信号：代理交易系统引入安全护栏（节点10），以及专为代理设计的代码搜索工具降低98% token消耗（节点9），共同指向代理化产品必须平衡自主性与可控性，同时优化底层成本。",
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI产品落地：从技术加速到价值重构",
+        "insight": "AI产品落地：从技术加速到价值重构。该方向的具体信号：AI并不必然加速流程（ID1），需警惕技术崇拜（ID6）；同时技术社区正大量涌现优化推理成本（ID9、ID10、ID18）和隐私保护（ID5）的方案，表明行业正从追求模型规模转向实用化工程。",
         "evidence": [
           {
-            "id": "show-hn-semble-code-search-for-agents-that-uses-98-fewer-tokens-than-grep",
-            "title": "Semble – code search for agents using 98% fewer tokens",
-            "score": 0.43
+            "id": "i-dont-think-ai-will-make-your-processes-go-faster",
+            "title": "AI不会自动加速流程，需重新设计系统",
+            "score": 0.6
           }
         ]
       },
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "narrative_title": "信任危机与隐私保护成为AI商业化的关键瓶颈",
-        "insight": "信任危机与隐私保护成为AI商业化的关键瓶颈。该方向的具体信号：企业AI订阅被指为定时炸弹（节点2），Elon Musk-OpenAI诉讼凸显领导信任风险（节点7），公众对AI的兴奋感消退（节点4），以及苹果通过自动删除聊天记录强化隐私（节点5），说明信任与隐私正从合规要求升级为核心竞争力。",
+        "narrative_title": "AI商业化信任瓶颈：用户信任决定产品生死",
+        "insight": "AI商业化信任瓶颈：用户信任决定产品生死。该方向的具体信号：企业AI订阅模式存在供应商锁定、数据隐私和成本失控风险（ID2）；马斯克-OpenAI诉讼凸显治理信任危机（ID7）；多数美国人不信任AI及管理者（ID12），学生公开嘘声（ID20）表明公众对AI宣教的反感。",
         "evidence": [
           {
             "id": "why-trust-is-a-big-question-at-the-elon-musk-openai-trial",
-            "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+            "title": "OpenAI信任危机：诉讼凸显治理问题",
             "score": 0.45
+          },
+          {
+            "id": "most-americans-dont-trust-ai-or-the-people-in-charge-of-it-2025",
+            "title": "多数美国人不信任AI及管理者",
+            "score": 0.41
           }
         ]
       },
       {
-        "pillar": "🤖 技术能力",
-        "pillar_key": "capabilities",
-        "narrative_title": "AI产品经理需回归场景驱动与人机协作本质",
-        "insight": "AI产品经理需回归场景驱动与人机协作本质。该方向的具体信号：AI并不必然加速流程，需重新设计系统（节点1）；AI是技术而非产品，应嵌入场景解决实际问题（节点6）。这些信号表明，单纯追求AI能力堆砌已遇瓶颈，PM应将重心转向流程再造与用户价值验证。",
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "AI商业化信任瓶颈：用户信任决定产品生死",
+        "insight": "AI商业化信任瓶颈：用户信任决定产品生死。该方向的具体信号：毕业典礼演讲者被建议避免提及AI（ID4），因为毕业生对AI未来缺乏兴奋感，反映预期落差；统一生成式AI框架在能源行业落地（ID17）则展示了务实应用场景，但需警惕技术推销与社会情绪脱节。",
         "evidence": [
           {
-            "id": "i-dont-think-ai-will-make-your-processes-go-faster",
-            "title": "I don't think AI will make your processes go faster",
-            "score": 0.6
+            "id": "a-unified-generative-ai-framework-for-smart-energy-infrastructure-intelligent-ga",
+            "title": "能源行业统一生成式AI框架：务实应用",
+            "score": 0.4
           }
         ]
       }
     ],
-    "stats": "技术能力: 8 | 产品模式: 1 | 工具生态: 2 | 商业趋势: 2",
-    "total_items": 13,
-    "high_value_count": 8,
+    "stats": "技术能力: 14 | 产品模式: 0 | 工具生态: 4 | 商业趋势: 2",
+    "total_items": 20,
+    "high_value_count": 20,
     "all_today_ids": [
       {
         "id": "i-dont-think-ai-will-make-your-processes-go-faster",
@@ -105,8 +104,56 @@
         "label": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep"
       },
       {
+        "id": "forge-self-evolving-agent-memory-with-no-weight-updates-via-population-broadcast",
+        "label": "FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcas"
+      },
+      {
+        "id": "ai-mediated-communication-can-steer-collective-opinion",
+        "label": "AI-Mediated Communication Can Steer Collective Opinion"
+      },
+      {
+        "id": "most-americans-dont-trust-ai-or-the-people-in-charge-of-it-2025",
+        "label": "Most Americans don't trust AI – or the people in charge of it (2025)"
+      },
+      {
+        "id": "layer-equivalence-is-not-a-property-of-layers-alone-how-you-test-redundancy-chan",
+        "label": "Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Cha"
+      },
+      {
+        "id": "evaluating-design-video-generation-metrics-for-compositional-fidelity",
+        "label": "Evaluating Design Video Generation: Metrics for Compositional Fidelity"
+      },
+      {
+        "id": "ivgt-implicit-visual-geometry-transformer-for-neural-scene-representation",
+        "label": "IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation"
+      },
+      {
+        "id": "universal-magnetic-structure-prediction-from-atomic-coordinates-with-near-experi",
+        "label": "Universal Magnetic Structure Prediction from Atomic Coordinates with Near-Experi"
+      },
+      {
+        "id": "a-unified-generative-ai-framework-for-smart-energy-infrastructure-intelligent-ga",
+        "label": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent G"
+      },
+      {
+        "id": "offline-semantic-guidance-for-efficient-vision-language-action-policy-distillati",
+        "label": "Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillati"
+      },
+      {
+        "id": "dynamics-level-watermarking-of-flow-matching-models-with-random-codes",
+        "label": "Dynamics-Level Watermarking of Flow Matching Models with Random Codes"
+      },
+      {
+        "id": "university-of-arizona-students-boo-eric-schmidts-ai-cheerleading",
+        "label": "University of Arizona students boo Eric Schmidt's AI cheerleading"
+      },
+      {
         "id": "agentic-trading-with-safe-guardrails",
         "label": "Agentic Trading with Safe Guardrails"
+      },
+      {
+        "id": "two-ea-18-fighter-jets-collide-at-mountain-home-airshow-pilots-ejected-safely",
+        "label": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely"
       },
       {
         "id": "trials-on-veterans-suggest-ibogaine-could-provide-a-new-treatment-for-ptsd",
@@ -117,11 +164,23 @@
         "label": "Prolog Basics Explained with Pokémon"
       },
       {
+        "id": "prospective-multi-pathogen-disease-forecasting-using-autonomous-llm-guided-tree",
+        "label": "Prospective multi-pathogen disease forecasting using autonomous LLM-guided tree"
+      },
+      {
+        "id": "designing-datacenter-power-delivery-hierarchies-for-the-ai-era",
+        "label": "Designing Datacenter Power Delivery Hierarchies for the AI Era"
+      },
+      {
+        "id": "a-generative-ai-framework-for-intelligent-utility-billing-co-2-analytics-and-sus",
+        "label": "A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sus"
+      },
+      {
         "id": "magical-realism-northern-exposure-25-years-later-2015",
         "label": "Magical Realism: “Northern Exposure” 25 Years Later (2015)"
       }
     ],
     "date_bj": "2026-05-18 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-18 06:03:41"
+    "generated_at_bj": "2026-05-18 12:01:42"
   }
 }

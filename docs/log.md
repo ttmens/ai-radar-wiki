@@ -634,3 +634,20 @@
 - create: why-trust-is-a-big-question-at-the-elon-musk-openai-trial.md
 - create: if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai.md
 - create: techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive.md
+
+## [2026-05-18 12:02] sync v3 | 15 new | pillars: {'capabilities': 12, 'ecosystem': 3}
+- create: ivgt-implicit-visual-geometry-transformer-for-neural-scene-representation.md
+- create: designing-datacenter-power-delivery-hierarchies-for-the-ai-era.md
+- create: a-generative-ai-framework-for-intelligent-utility-billing-co-2-analytics-and-sus.md
+- create: ai-mediated-communication-can-steer-collective-opinion.md
+- create: offline-semantic-guidance-for-efficient-vision-language-action-policy-distillati.md
+- create: dynamics-level-watermarking-of-flow-matching-models-with-random-codes.md
+- create: prospective-multi-pathogen-disease-forecasting-using-autonomous-llm-guided-tree.md
+- create: layer-equivalence-is-not-a-property-of-layers-alone-how-you-test-redundancy-chan.md
+- create: forge-self-evolving-agent-memory-with-no-weight-updates-via-population-broadcast.md
+- create: a-unified-generative-ai-framework-for-smart-energy-infrastructure-intelligent-ga.md
+- create: universal-magnetic-structure-prediction-from-atomic-coordinates-with-near-experi.md
+- create: evaluating-design-video-generation-metrics-for-compositional-fidelity.md
+- create: two-ea-18-fighter-jets-collide-at-mountain-home-airshow-pilots-ejected-safely.md
+- create: most-americans-dont-trust-ai-or-the-people-in-charge-of-it-2025.md
+- create: university-of-arizona-students-boo-eric-schmidts-ai-cheerleading.md

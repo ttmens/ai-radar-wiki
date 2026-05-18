@@ -1,0 +1,30 @@
+{
+  "title": "Universal Magnetic Structure Prediction from Atomic Coordinates with Near-Experimental Accuracy",
+  "summary": "Magnetic order is a fundamental property of materials, governing collective behavior and enabling a broad range of functionalities. Yet magnetic structure remains difficult to determine: experiments are costly and specialized, while first-principles methods often struggle with the noncollinear and incommensurate orders found in real materials. Here we introduce magnetic structure network (MSN), an E(3) equivariant graph neural network that predicts both collinear and non-collinear magnetic structures directly from atomic crystal structures, trained directly on experimentally determined structures from MAGNDATA. By proposing the primitive modulated structure representation (PMSR), we are able to encode commensurate and incommensurate structures in a unified way without symmetry assumptions. The model achieves strong performance across all modulation components and reconstructs experimental magnetic structures with high fidelity. Our approach provides a scalable framework for rapid magnetic structure prediction and opens a route to data-driven discovery of magnetic materials.",
+  "url": "http://arxiv.org/abs/2605.16230v1",
+  "authors": [
+    "Abhijatmedhi Chotrattanapituk",
+    "Ryotaro Okabe",
+    "Eunbi Rha",
+    "Mariya Al-Hinai",
+    "Eugene Jiang"
+  ],
+  "published": "2026-05-15T17:40:08Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "neural network",
+    "accuracy"
+  ],
+  "summary_cn": "该论文提出一种从原子坐标直接预测材料磁性结构的AI方法，精度接近实验水平。传统磁结构确定依赖昂贵实验或复杂理论计算，而该模型利用深度学习从原子构型中快速推断磁序，克服了非共线磁结构的计算难题。这一技术可加速新型磁性材料、自旋电子学和量子材料的发现，降低研发成本，提升材料筛选效率。对AI产品经理而言，该能力可集成到材料设计平台或科学计算工具中，推动AI for Science在材料领域的商业化落地。",
+  "pm_relevance": 7,
+  "concepts": [
+    "AI for Science",
+    "材料信息学",
+    "磁性结构预测"
+  ],
+  "entities": [],
+  "patterns": [
+    "AI辅助科学发现"
+  ]
+}

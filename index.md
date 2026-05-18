@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-18 | Total pages: 529
+> Last updated: 2026-05-18 | Total pages: 598
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -112,6 +112,7 @@
 - [[through-the-looking-glass-of-benchmark-hacking.md]] Through the looking glass of benchmark hacking `pillar:capabilities` `score:0.155`
 - [[too-dangerous-or-just-too-expensive-the-real-reason-anthropic-is-hiding-mythos.md]] Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos `pillar:capabilities` `score:0.38`
 - [[training-an-llm-in-swift-part-1-taking-matrix-mu.md]] Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s `pillar:capabilities` `score:0.38`
+- [[two-ea-18-fighter-jets-collide-at-mountain-home-airshow-pilots-ejected-safely.md]] Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely `pillar:capabilities` `score:0.305`
 - [[uk-sovereign-llm-inference.md]] UK sovereign LLM inference `pillar:capabilities` `score:0.445`
 - [[ultralyticsyolov5.md]] ultralytics/yolov5 `pillar:capabilities` `score:0.615`
 - [[unitree-gd01-chinas-537k-rideable-transformer-r.md]] Unitree GD01: China's $537k rideable transformer robot is now in production `pillar:capabilities` `score:0.305`
@@ -127,7 +128,9 @@
 - [[xorbitsaiinference.md]] xorbitsai/inference `pillar:capabilities` `score:0.565`
 - [[you-dont-align-an-ai-you-align-with-it.md]] You Don't Align an AI, You Align with It `pillar:capabilities` `score:0.43`
 - [[zaya1-8b-an-8b-moe-model-with-760m-active-params.md]] ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math `pillar:capabilities` `score:0.38`
+- [[a-generative-ai-framework-for-intelligent-utility-billing-co-2-analytics-and-sus.md]] A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sus `pillar:capabilities` `score:0.255`
 - [[actcam-zero-shot-joint-camera-and-3d-motion-control-for-vid.md]] ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation `pillar:capabilities` `score:0.48`
+- [[ai-mediated-communication-can-steer-collective-opinion.md]] AI-Mediated Communication Can Steer Collective Opinion `pillar:capabilities` `score:0.43`
 - [[alphagrpo-unlocking-self-reflective-multimodal-generation-i.md]] AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decomposi `pillar:capabilities` `score:0.305`
 - [[atlas-agentic-or-latent-visual-reasoning-one-word-is-enough-for-both.md]] ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both `pillar:capabilities` `score:0.48`
 - [[bami-training-free-bias-mitigation-in-gui-grounding.md]] BAMI: Training-Free Bias Mitigation in GUI Grounding `pillar:capabilities` `score:0.48`
@@ -137,6 +140,7 @@
 - [[dare-difficulty-adaptive-reinforcement-learning-with-co-evo.md]] DARE: Difficulty-Adaptive Reinforcement Learning with Co-Evolved Difficulty Esti `pillar:capabilities` `score:0.255`
 - [[datamaster-towards-autonomous-data-engineering-for-machine.md]] DataMaster: Towards Autonomous Data Engineering for Machine Learning `pillar:capabilities` `score:0.305`
 - [[deco-sparse-mixture-of-experts-with-dense-comparable-perfor.md]] DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side De `pillar:capabilities` `score:0.305`
+- [[dynamics-level-watermarking-of-flow-matching-models-with-random-codes.md]] Dynamics-Level Watermarking of Flow Matching Models with Random Codes `pillar:capabilities` `score:0.395`
 - [[edge-specific-signal-propagation-on-mature-chromophore-regio.md]] Edge-specific signal propagation on mature chromophore-region 3D mechanism graph `pillar:capabilities` `score:0.445`
 - [[elastic-attention-cores-for-scalable-vision-transformers.md]] Elastic Attention Cores for Scalable Vision Transformers `pillar:capabilities` `score:0.305`
 - [[elf-embedded-language-flows.md]] ELF: Embedded Language Flows `pillar:capabilities` `score:0.305`
@@ -146,15 +150,19 @@
 - [[equivariant-reinforcement-learning-for-clifford-quantum-circ.md]] Equivariant Reinforcement Learning for Clifford Quantum Circuit Synthesis `pillar:capabilities` `score:0.41`
 - [[eradicating-negative-transfer-in-multi-physics-foundation-models-via-sparse-mixt.md]] Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixt `pillar:capabilities` `score:0.445`
 - [[eva-bench-a-new-end-to-end-framework-for-evaluating-voice-agents.md]] EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents `pillar:capabilities` `score:0.48`
+- [[evaluating-design-video-generation-metrics-for-compositional-fidelity.md]] Evaluating Design Video Generation: Metrics for Compositional Fidelity `pillar:capabilities` `score:0.395`
 - [[evidence-over-plans-online-trajectory-verification-for-skil.md]] Evidence Over Plans: Online Trajectory Verification for Skill Distillation `pillar:capabilities` `score:0.255`
 - [[evidential-reasoning-advances-interpretable-real-world-disease-screening.md]] Evidential Reasoning Advances Interpretable Real-World Disease Screening `pillar:capabilities` `score:0.48`
 - [[fast-byte-latent-transformer.md]] Fast Byte Latent Transformer `pillar:capabilities` `score:0.255`
 - [[flow-opd-on-policy-distillation-for-flow-matching-models.md]] Flow-OPD: On-Policy Distillation for Flow Matching Models `pillar:capabilities` `score:0.255`
+- [[forge-self-evolving-agent-memory-with-no-weight-updates-via-population-broadcast.md]] FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcas `pillar:capabilities` `score:0.43`
 - [[futuresim-replaying-world-events-to-evaluate-adaptive-agents.md]] FutureSim: Replaying World Events to Evaluate Adaptive Agents `pillar:capabilities` `score:0.48`
 - [[graphlcp-structure-aware-localized-conformal-prediction-on.md]] GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs `pillar:capabilities` `score:0.395`
 - [[harnessing-agentic-evolution.md]] Harnessing Agentic Evolution `pillar:capabilities` `score:0.48`
 - [[inductive-venn-abers-and-related-regressors.md]] Inductive Venn-Abers and related regressors `pillar:capabilities` `score:0.445`
+- [[ivgt-implicit-visual-geometry-transformer-for-neural-scene-representation.md]] IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation `pillar:capabilities` `score:0.395`
 - [[kv-fold-one-step-kv-cache-recurrence-for-long-context-infer.md]] KV-Fold: One-Step KV-Cache Recurrence for Long-Context Inference `pillar:capabilities` `score:0.305`
+- [[layer-equivalence-is-not-a-property-of-layers-alone-how-you-test-redundancy-chan.md]] Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Cha `pillar:capabilities` `score:0.395`
 - [[lbi-parallel-scan-backpropagation-via-latent-bounded-interf.md]] LBI: Parallel Scan Backpropagation via Latent Bounded Interfaces `pillar:capabilities` `score:0.255`
 - [[learning-fast-and-slow-towards-llms-that-adapt-continually.md]] Learning, Fast and Slow: Towards LLMs That Adapt Continually `pillar:capabilities` `score:0.305`
 - [[meme-multi-entity-evolving-memory-evaluation.md]] MEME: Multi-entity & Evolving Memory Evaluation `pillar:capabilities` `score:0.305`
@@ -162,6 +170,7 @@
 - [[negation-neglect-when-models-fail-to-learn-negations-in-training.md]] Negation Neglect: When models fail to learn negations in training `pillar:capabilities` `score:0.445`
 - [[neurosymbolic-auditing-of-natural-language-software-requirements.md]] Neurosymbolic Auditing of Natural-Language Software Requirements `pillar:capabilities` `score:0.48`
 - [[normalizing-trajectory-models.md]] Normalizing Trajectory Models `pillar:capabilities` `score:0.255`
+- [[offline-semantic-guidance-for-efficient-vision-language-action-policy-distillati.md]] Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillati `pillar:capabilities` `score:0.395`
 - [[omninft-modality-wise-omni-diffusion-reinforcement-for-join.md]] OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Genera `pillar:capabilities` `score:0.305`
 - [[on-characterizing-learnability-for-adversarial-noisy-bandits.md]] On Characterizing Learnability for Adversarial Noisy Bandits `pillar:capabilities` `score:0.395`
 - [[open-ontologies-tool-augmented-ontology-engineering-with-st.md]] Open Ontologies: Tool-Augmented Ontology Engineering with Stable Matching Alignm `pillar:capabilities` `score:0.255`
@@ -186,6 +195,7 @@
 - [[the-geometry-of-forgetting-temporal-knowledge-drift-as-an-i.md]] The Geometry of Forgetting: Temporal Knowledge Drift as an Independent Axis in L `pillar:capabilities` `score:0.255`
 - [[the-memory-curse-how-expanded-recall-erodes-cooperative-int.md]] The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents `pillar:capabilities` `score:0.255`
 - [[unipool-a-globally-shared-expert-pool-for-mixture-of-expert.md]] UniPool: A Globally Shared Expert Pool for Mixture-of-Experts `pillar:capabilities` `score:0.48`
+- [[universal-magnetic-structure-prediction-from-atomic-coordinates-with-near-experi.md]] Universal Magnetic Structure Prediction from Atomic Coordinates with Near-Experi `pillar:capabilities` `score:0.395`
 - [[variational-inference-for-lévy-process-driven-sdes-via-neura.md]] Variational Inference for Lévy Process-Driven SDEs via Neural Tilting `pillar:capabilities` `score:0.305`
 - [[veccisc-improving-confidence-informed-self-consistency-with.md]] VecCISC: Improving Confidence-Informed Self-Consistency with Reasoning Trace Clu `pillar:capabilities` `score:0.255`
 - [[vggt-edit-feed-forward-native-3d-scene-editing-with-residual-field-prediction.md]] VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction `pillar:capabilities` `score:0.445`
@@ -376,6 +386,7 @@
 - [[mishushakovllm-scraper.md]] mishushakov/llm-scraper `pillar:ecosystem` `score:0.53`
 - [[mlflowmlflow.md]] mlflow/mlflow `pillar:ecosystem` `score:0.615`
 - [[modularmodular.md]] modular/modular `pillar:ecosystem` `score:0.58`
+- [[most-americans-dont-trust-ai-or-the-people-in-charge-of-it-2025.md]] Most Americans don't trust AI – or the people in charge of it (2025) `pillar:ecosystem` `score:0.415`
 - [[n8n-ion8n.md]] n8n-io/n8n `pillar:ecosystem` `score:0.615`
 - [[netdatanetdata.md]] netdata/netdata `pillar:ecosystem` `score:0.58`
 - [[nvidiatensorrt.md]] NVIDIA/TensorRT `pillar:ecosystem` `score:0.615`
@@ -405,15 +416,19 @@
 - [[tools-in-the-grass-raising-the-next-generation-of.md]] Tools in the Grass: Raising the next generation of crafts person `pillar:ecosystem` `score:0.295`
 - [[tracel-aiburn.md]] tracel-ai/burn `pillar:ecosystem` `score:0.58`
 - [[trials-on-veterans-suggest-ibogaine-could-provide-a-new-treatment-for-ptsd.md]] Trials on veterans suggest ibogaine could provide a new treatment for PTSD `pillar:ecosystem` `score:0.27`
+- [[university-of-arizona-students-boo-eric-schmidts-ai-cheerleading.md]] University of Arizona students boo Eric Schmidt's AI cheerleading `pillar:ecosystem` `score:0.345`
 - [[upscaylupscayl.md]] upscayl/upscayl `pillar:ecosystem` `score:0.545`
 - [[upstashcontext7.md]] upstash/context7 `pillar:ecosystem` `score:0.58`
 - [[vercelai.md]] vercel/ai `pillar:ecosystem` `score:0.405`
+- [[a-unified-generative-ai-framework-for-smart-energy-infrastructure-intelligent-ga.md]] A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent G `pillar:ecosystem` `score:0.395`
 - [[agentic-mip-research-accelerated-constraint-handler-generat.md]] Agentic MIP Research: Accelerated Constraint Handler Generation `pillar:ecosystem` `score:0.255`
 - [[are-we-making-progress-in-multimodal-domain-generalization.md]] Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benc `pillar:ecosystem` `score:0.445`
+- [[designing-datacenter-power-delivery-hierarchies-for-the-ai-era.md]] Designing Datacenter Power Delivery Hierarchies for the AI Era `pillar:ecosystem` `score:0.255`
 - [[engineering-robustness-into-personal-agents-with-the-ai-work.md]] Engineering Robustness into Personal Agents with the AI Workflow Store `pillar:ecosystem` `score:0.305`
 - [[learning-when-to-stop-selective-imitation-learning-under-ar.md]] Learning When to Stop: Selective Imitation Learning Under Arbitrary Dynamics Shi `pillar:ecosystem` `score:0.255`
 - [[opendeepthink-parallel-reasoning-via-bradley-terry-aggregation.md]] OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation `pillar:ecosystem` `score:0.305`
 - [[position-behavioural-assurance-cannot-verify-the-safety-claims-governance-now-de.md]] Position: Behavioural Assurance Cannot Verify the Safety Claims Governance Now D `pillar:ecosystem` `score:0.48`
+- [[prospective-multi-pathogen-disease-forecasting-using-autonomous-llm-guided-tree.md]] Prospective multi-pathogen disease forecasting using autonomous LLM-guided tree `pillar:ecosystem` `score:0.255`
 - [[toolcua-towards-optimal-gui-tool-path-orchestration-for-com.md]] ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents `pillar:ecosystem` `score:0.305`
 - [[topology-preserving-neural-operator-learning-via-hodge-decomposition.md]] Topology-Preserving Neural Operator Learning via Hodge Decomposition `pillar:ecosystem` `score:0.41`
 - [[verifier-backed-hard-problem-generation-for-mathematical-rea.md]] Verifier-Backed Hard Problem Generation for Mathematical Reasoning `pillar:ecosystem` `score:0.48`
@@ -540,7 +555,61 @@
 - [[a-note-on-non-negative-l_1-approximating-polynomials.md]] A Note on Non-Negative $L_1$-Approximating Polynomials `pillar:business` `score:0.255`
 
 ## 📚 Concepts (未分类)
+- [[DeepSeek-TUI.md]] Deepseek Tui `pillar:unknown` `score:0`
+- [[MemOS.md]] Memos `pillar:unknown` `score:0`
+- [[OpenViking.md]] Openviking `pillar:unknown` `score:0`
 - [[a-theory-of-deep-learning.md]] A Theory of Deep Learning `pillar:unknown` `score:0.35`
+- [[adobe-ai-ma.md]] Adobe Ai Ma `pillar:unknown` `score:0`
+- [[agentmemory.md]] Agentmemory `pillar:unknown` `score:0`
+- [[ai与软件工程职业.md]] Ai与软件工程职业 `pillar:unknown` `score:0`
+- [[ai漏洞挖掘.md]] Ai漏洞挖掘 `pillar:unknown` `score:0`
+- [[amazon.md]] Amazon `pillar:unknown` `score:0`
+- [[anthropic.md]] Anthropic `pillar:unknown` `score:0`
+- [[anthropics-financial-services.md]] Anthropics Financial Services `pillar:unknown` `score:0`
 - [[apple-is-enforcing-an-old-app-store-rule-against-a.md]] Apple is enforcing an old App Store rule against a new kind of software `pillar:unknown` `score:0.3`
+- [[bytedance-ui-tars-desktop.md]] Bytedance Ui Tars Desktop `pillar:unknown` `score:0`
+- [[caisi.md]] Caisi `pillar:unknown` `score:0`
+- [[characterai.md]] Characterai `pillar:unknown` `score:0`
+- [[cognition-ai.md]] Cognition Ai `pillar:unknown` `score:0`
+- [[cuda-oxide.md]] Cuda Oxide `pillar:unknown` `score:0`
+- [[deer-flow.md]] Deer Flow `pillar:unknown` `score:0`
+- [[design-extract.md]] Design Extract `pillar:unknown` `score:0`
+- [[dify.md]] Dify `pillar:unknown` `score:0`
+- [[dyad.md]] Dyad `pillar:unknown` `score:0`
+- [[elon-musk.md]] Elon Musk `pillar:unknown` `score:0`
+- [[fastmcp.md]] Fastmcp `pillar:unknown` `score:0`
+- [[flow_matching_language_models.md]] Flow_Matching_Language_Models `pillar:unknown` `score:0`
+- [[gitlab.md]] Gitlab `pillar:unknown` `score:0`
+- [[glm-5v-turbo.md]] Glm 5V Turbo `pillar:unknown` `score:0`
+- [[golutra-golutra.md]] Golutra Golutra `pillar:unknown` `score:0`
+- [[google-chrome-ai.md]] Google Chrome Ai `pillar:unknown` `score:0`
+- [[google-deepmind.md]] Google Deepmind `pillar:unknown` `score:0`
+- [[google.md]] Google `pillar:unknown` `score:0`
+- [[gpt-5-5-instant.md]] Gpt 5 5 Instant `pillar:unknown` `score:0`
+- [[gpt-55.md]] Gpt 55 `pillar:unknown` `score:0`
+- [[hardware-attestation.md]] Hardware Attestation `pillar:unknown` `score:0`
+- [[hpe-ai-ma.md]] Hpe Ai Ma `pillar:unknown` `score:0`
+- [[insforge-insforge.md]] Insforge Insforge `pillar:unknown` `score:0`
 - [[learning-the-integral-of-a-diffusion-model.md]] Learning the Integral of a Diffusion Model `pillar:unknown` `score:0.3`
+- [[mamba-3-ssm.md]] Mamba 3 Ssm `pillar:unknown` `score:0`
+- [[mcp-use-mcp-use.md]] Mcp Use Mcp Use `pillar:unknown` `score:0`
+- [[meta.md]] Meta `pillar:unknown` `score:0`
+- [[microsoft-ai-ma.md]] Microsoft Ai Ma `pillar:unknown` `score:0`
+- [[microsoft.md]] Microsoft `pillar:unknown` `score:0`
+- [[minimax.md]] Minimax `pillar:unknown` `score:0`
+- [[mistral-ai.md]] Mistral Ai `pillar:unknown` `score:0`
+- [[moe-expert-routing.md]] Moe Expert Routing `pillar:unknown` `score:0`
+- [[moonshot-ai.md]] Moonshot Ai `pillar:unknown` `score:0`
+- [[notion.md]] Notion `pillar:unknown` `score:0`
+- [[obra-superpowers.md]] Obra Superpowers `pillar:unknown` `score:0`
+- [[onlook-dev-onlook.md]] Onlook Dev Onlook `pillar:unknown` `score:0`
+- [[openai-symphony.md]] Openai Symphony `pillar:unknown` `score:0`
+- [[openai.md]] Openai `pillar:unknown` `score:0`
+- [[perplexity-ai.md]] Perplexity Ai `pillar:unknown` `score:0`
+- [[ruvnet-ruflo.md]] Ruvnet Ruflo `pillar:unknown` `score:0`
+- [[servicenow-ai-ma.md]] Servicenow Ai Ma `pillar:unknown` `score:0`
 - [[show-hn-i-built-an-open-source-email-builder-alt.md]] Show HN: I built an open-source email builder, alternative to Beefree/Unlayer `pillar:unknown` `score:0.35`
+- [[sierra.md]] Sierra `pillar:unknown` `score:0`
+- [[superpowers.md]] Superpowers `pillar:unknown` `score:0`
+- [[tanstack.md]] Tanstack `pillar:unknown` `score:0`
+- [[xai.md]] Xai `pillar:unknown` `score:0`

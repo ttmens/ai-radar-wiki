@@ -1,0 +1,31 @@
+{
+  "title": "Evaluating Design Video Generation: Metrics for Compositional Fidelity",
+  "summary": "Generative video models are increasingly used in design animation tasks, yet no standardized evaluation framework exists for this domain. Unlike natural video generation, design animation imposes structured constraints: specific components shall animate with prescribed motion types, directions, speed and timing, while non-animated regions must remain stable and layout structure must be preserved. This paper provides a fully automated evaluation framework organized across four dimensions: layout fidelity, motion correctness, temporal quality, and content fidelity. This eliminates the reliance on subjective human evaluation and establishes a common basis for benchmarking progress in the field.",
+  "url": "http://arxiv.org/abs/2605.16223v1",
+  "authors": [
+    "Adrienne Deganutti",
+    "Dingning Cao",
+    "Jaejung Seol",
+    "Elad Hirsch",
+    "Purvanshi Mehta"
+  ],
+  "published": "2026-05-15T17:34:05Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "video generation",
+    "gan"
+  ],
+  "summary_cn": "该论文针对设计动画领域提出视频生成模型的评估框架。与自然视频生成不同，设计动画具有结构化约束：特定组件需按预设运动类型、方向、速度等进行动画。当前缺乏标准化评测指标，论文致力于定义组合保真度（compositional fidelity）的度量方法。对产品经理而言，这一研究有助于量化生成式设计工具（如UI动画、产品演示视频）的质量，推动商业化落地。通过建立统一评估标准，可降低模型选型成本，提升设计自动化产品的可靠性与用户体验。",
+  "pm_relevance": 7,
+  "concepts": [
+    "视频生成评估",
+    "组合保真度",
+    "设计动画"
+  ],
+  "entities": [],
+  "patterns": [
+    "结构化生成评估"
+  ]
+}
