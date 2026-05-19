@@ -27,7 +27,7 @@ HEAD_AFTER_THEME = """
 
 <meta name="view-transition" content="same-origin">"""
 
-APPLE_TOUCH = '<link rel="apple-touch-icon" href="./assets/nexsight-mark.svg">'
+APPLE_TOUCH = '<link rel="apple-touch-icon" href="./logo.png">'
 
 CHROME_INJECT = """
 
@@ -62,7 +62,7 @@ def _extract_graph_json(worktree_html: str) -> str | None:
 
 
 def _inject_head(base: str) -> str:
-    tag = '<meta name="theme-color" content="#ff385c">'
+    tag = '<meta name="theme-color" content="#0A1628">'
     if tag not in base:
         raise SystemExit(f'missing {tag!r} in HEAD blob')
     if (

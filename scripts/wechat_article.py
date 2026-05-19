@@ -25,7 +25,9 @@ FEISHU_FOLDER = "SUACfJyNRlPdJhdoeUecBioXnoh"  # 文档目标文件夹（非敏�
 DATA_URL = "http://archwang.top/graph.html"
 
 CJST = timezone(timedelta(hours=8))
-BRAND_COLOR = "#ff385c"  # 雷达站品牌色
+BRAND_COLOR = "#7B3FF2"  # 安慕诺品牌主色（紫）
+BRAND_ACCENT = "#00F5FF"  # 安慕诺强调色（青）
+BRAND_LINK = "#4A5BFF"  # 链接/次级强调（蓝）
 
 os.makedirs(ARTICLES_DIR, exist_ok=True)
 

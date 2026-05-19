@@ -1,0 +1,321 @@
+/**
+ * 安慕诺企业视觉主题（F_uxStyle / DESIGN.md）
+ * 仅覆盖颜色与背景，不改变布局与交互。
+ */
+
+:root {
+  --canvas-deep: #0a1628;
+  --surface-elevated: #1a2742;
+  --surface-elevated-alt: #0f1f3a;
+  --accent-cyan: #00f5ff;
+  --accent-blue: #4a5bff;
+  --accent-purple: #7b3ff2;
+  --accent-warm: #ff6b6b;
+  --gradient-brand: linear-gradient(90deg, #7b3ff2 0%, #4a5bff 50%, #00f5ff 100%);
+  --page-bg-gradient:
+    radial-gradient(ellipse 120% 90% at 0% -10%, rgba(123, 63, 242, 0.18), transparent 52%),
+    radial-gradient(ellipse 90% 70% at 100% 0%, rgba(0, 245, 255, 0.1), transparent 48%);
+
+  --rausch: #7b3ff2;
+  --rausch-active: #4a5bff;
+  --rausch-tint: rgba(123, 63, 242, 0.22);
+  --ink: #ffffff;
+  --body-ink: rgba(255, 255, 255, 0.86);
+  --muted: rgba(255, 255, 255, 0.65);
+  --muted-soft: rgba(255, 255, 255, 0.5);
+  --hairline: rgba(255, 255, 255, 0.14);
+  --hairline-soft: rgba(255, 255, 255, 0.08);
+  --border-strong: rgba(255, 255, 255, 0.22);
+  --canvas: #1a2742;
+  --surface-soft: #0f1f3a;
+  --surface-strong: #0a1628;
+  --legal-link: #00f5ff;
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.35);
+  --shadow-md: 0 6px 20px rgba(0, 0, 0, 0.45);
+  --shadow-lg: 0 16px 48px rgba(0, 0, 0, 0.55);
+  --panel-bg: #1a2742;
+  --text-primary: var(--ink);
+  --text-tertiary: var(--muted);
+  --chrome-focus-ring: 0 0 0 2px var(--canvas-deep), 0 0 0 4px var(--accent-cyan);
+  --nav-track-bg: rgba(255, 255, 255, 0.06);
+  --nav-track-border: rgba(255, 255, 255, 0.1);
+  --chrome-pill-glass: rgba(26, 39, 66, 0.88);
+  --accent-soft: rgba(123, 63, 242, 0.14);
+  --accent-soft-2: rgba(74, 91, 255, 0.2);
+}
+
+body.brief-page,
+body:not(.brief-page) {
+  background-color: var(--canvas-deep) !important;
+  background-image: var(--page-bg-gradient) !important;
+  color: var(--ink) !important;
+}
+
+#header.site-chrome-header {
+  background: rgba(10, 22, 40, 0.92) !important;
+  border-bottom-color: var(--hairline-soft) !important;
+  box-shadow: 0 1px 0 rgba(0, 245, 255, 0.06) !important;
+}
+
+.site-nav-thumb {
+  background: var(--gradient-brand) !important;
+  box-shadow: 0 1px 4px rgba(123, 63, 242, 0.45) !important;
+}
+
+.site-nav:has(.site-nav-link:first-of-type.site-nav-link--active:hover) .site-nav-thumb,
+.site-nav:has(.site-nav-link:first-of-type[aria-current="page"]:hover) .site-nav-thumb,
+.site-nav:has(.site-nav-link:last-of-type.site-nav-link--active:hover) .site-nav-thumb,
+.site-nav:has(.site-nav-link:last-of-type[aria-current="page"]:hover) .site-nav-thumb {
+  filter: brightness(1.08);
+}
+
+.site-nav-link:hover:not(.site-nav-link--active):not([aria-current="page"]) {
+  background: rgba(255, 255, 255, 0.08) !important;
+}
+
+.site-nav-link:active:not(.site-nav-link--active):not([aria-current="page"]) {
+  background: rgba(255, 255, 255, 0.05) !important;
+}
+
+#header-controls .header-btn {
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.06),
+    0 1px 2px rgba(0, 0, 0, 0.25) !important;
+}
+
+#header-controls .header-btn:hover {
+  background: rgba(26, 39, 66, 0.95) !important;
+  border-color: rgba(0, 245, 255, 0.25) !important;
+}
+
+#header-subscribe-btn[aria-expanded="true"] {
+  background: rgba(123, 63, 242, 0.15) !important;
+  border-color: rgba(0, 245, 255, 0.35) !important;
+  color: var(--accent-cyan) !important;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.05),
+    0 0 0 1px rgba(123, 63, 242, 0.2) !important;
+}
+
+#header-subscribe-btn[aria-expanded="true"]:hover {
+  background: rgba(123, 63, 242, 0.22) !important;
+  border-color: var(--accent-cyan) !important;
+}
+
+.subscribe-qr-img {
+  background: #fff !important;
+}
+
+.github-btn {
+  background: var(--surface-elevated-alt) !important;
+  border-color: var(--hairline) !important;
+  color: var(--ink) !important;
+}
+
+.github-btn:hover {
+  background: var(--surface-elevated) !important;
+  border-color: rgba(0, 245, 255, 0.3) !important;
+}
+
+#subscribe-toast {
+  background: var(--surface-elevated) !important;
+  border: 1px solid var(--hairline) !important;
+  color: var(--ink) !important;
+}
+
+.nex-agent-fab,
+.nex-agent-bubble--user,
+.nex-agent-send {
+  background: var(--gradient-brand) !important;
+}
+
+.nex-agent-fab:hover,
+.nex-agent-send:hover {
+  filter: brightness(1.08);
+  background: var(--gradient-brand) !important;
+}
+
+.nex-agent-input:focus {
+  border-color: var(--accent-cyan) !important;
+  box-shadow: 0 0 0 3px rgba(0, 245, 255, 0.12) !important;
+}
+
+.nex-agent-composer-wrap {
+  background: rgba(15, 31, 58, 0.98) !important;
+}
+
+.mobile-tab-bar {
+  background: rgba(10, 22, 40, 0.96) !important;
+  border-top-color: var(--hairline-soft) !important;
+  box-shadow: 0 -1px 8px rgba(0, 0, 0, 0.35) !important;
+}
+
+.mobile-tab-item--active,
+.mobile-tab-item[aria-current="page"],
+.mobile-tab-item--panel-open {
+  color: var(--accent-cyan) !important;
+}
+
+.typing-cursor {
+  color: var(--accent-cyan) !important;
+}
+
+/* ===== graph.html 内联样式色值覆盖 ===== */
+#header {
+  background: rgba(10, 22, 40, 0.92) !important;
+}
+
+#mynetwork {
+  background: var(--surface-elevated-alt) !important;
+}
+
+.brief-headline {
+  border-bottom-color: var(--hairline-soft) !important;
+  background-color: var(--panel-bg) !important;
+  background-image: linear-gradient(180deg, var(--panel-bg) 0%, var(--surface-soft) 100%) !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.35), 0 1px 0 var(--hairline-soft) !important;
+}
+
+.dash-close-btn--icon {
+  border-color: var(--hairline) !important;
+  background: rgba(26, 39, 66, 0.9) !important;
+  color: var(--muted) !important;
+  box-shadow: var(--shadow-sm) !important;
+}
+
+.dash-close-btn--icon:hover {
+  background: var(--surface-elevated) !important;
+  border-color: rgba(0, 245, 255, 0.35) !important;
+  color: var(--ink) !important;
+}
+
+.stat-chip {
+  background: linear-gradient(180deg, var(--surface-elevated) 0%, var(--surface-elevated-alt) 100%) !important;
+  border-color: var(--hairline) !important;
+  box-shadow: var(--shadow-sm) !important;
+}
+
+.view-toggle {
+  background: linear-gradient(180deg, var(--surface-elevated-alt) 0%, var(--canvas-deep) 100%) !important;
+  border-color: var(--hairline) !important;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.25) !important;
+}
+
+.view-toggle button.active {
+  background: var(--surface-elevated) !important;
+  color: var(--ink) !important;
+  box-shadow:
+    0 1px 3px rgba(0, 0, 0, 0.35),
+    0 0 0 1px rgba(0, 245, 255, 0.15) !important;
+}
+
+.view-toggle button:not(.active):hover {
+  background: rgba(255, 255, 255, 0.06) !important;
+}
+
+.week-summary-panel,
+.narrative-card {
+  background: linear-gradient(180deg, var(--surface-elevated) 0%, var(--surface-elevated-alt) 100%) !important;
+  border-color: var(--hairline) !important;
+}
+
+.concept-related-item:hover,
+.related-item:hover,
+.action-btn.secondary {
+  background: var(--surface-elevated) !important;
+  border-color: rgba(0, 245, 255, 0.25) !important;
+}
+
+.action-btn.primary {
+  background: var(--gradient-brand) !important;
+  box-shadow: 0 4px 14px rgba(123, 63, 242, 0.4) !important;
+}
+
+.action-btn.primary:hover {
+  filter: brightness(1.08);
+  box-shadow: 0 6px 20px rgba(74, 91, 255, 0.45) !important;
+}
+
+.tag.score {
+  border-color: rgba(0, 245, 255, 0.35) !important;
+  color: var(--accent-cyan) !important;
+  background: rgba(0, 245, 255, 0.08) !important;
+}
+
+.value-overview {
+  border-color: rgba(123, 63, 242, 0.35) !important;
+}
+
+.narrative-card:hover {
+  border-color: rgba(0, 245, 255, 0.35) !important;
+}
+
+.narrative-card::before {
+  background: var(--gradient-brand) !important;
+}
+
+#side-dashboard,
+#detail-panel,
+.panel-sheet {
+  background: var(--panel-bg) !important;
+}
+
+.brief-scroll-jump-btn {
+  border-color: var(--hairline) !important;
+  background: rgba(26, 39, 66, 0.75) !important;
+  color: var(--muted) !important;
+}
+
+.brief-scroll-jump-btn:hover {
+  background: rgba(26, 39, 66, 0.92) !important;
+  border-color: rgba(0, 245, 255, 0.3) !important;
+}
+
+.brief-scroll-jump-btn:focus-visible {
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.06),
+    0 0 0 2px var(--canvas-deep),
+    0 0 0 4px var(--accent-cyan) !important;
+}
+
+#legend {
+  background: var(--surface-elevated) !important;
+  border-color: var(--hairline) !important;
+}
+
+.graph-stats-hud__item {
+  background: rgba(26, 39, 66, 0.92) !important;
+  color: var(--muted) !important;
+}
+
+#detail-panel,
+#side-dashboard {
+  background: var(--panel-bg) !important;
+  border-color: var(--hairline-soft) !important;
+}
+
+.panel-header {
+  background: var(--panel-bg) !important;
+  border-bottom-color: var(--hairline-soft) !important;
+}
+
+#dashboard-expand-btn {
+  background: var(--surface-elevated) !important;
+  border-color: var(--hairline) !important;
+  color: var(--accent-cyan) !important;
+  box-shadow: var(--shadow-md) !important;
+}
+
+#dashboard-expand-btn:hover {
+  background: var(--surface-elevated-alt) !important;
+  color: var(--accent-cyan) !important;
+}
+
+@media (max-width: 900px) {
+  #dashboard-expand-btn {
+    background: var(--gradient-brand) !important;
+    border-color: rgba(0, 245, 255, 0.25) !important;
+    color: #fff !important;
+    box-shadow: 0 6px 20px rgba(123, 63, 242, 0.45) !important;
+  }
+}

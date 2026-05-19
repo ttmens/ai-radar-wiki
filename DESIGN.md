@@ -213,11 +213,13 @@ score = engagement(0.3) + discussion(0.15) + timeliness(0.2) + LLM_relevance(0.3
 2. `graph.json` — 独立数据文件
 3. `graph.html` = template + 注入的 JSON 数据（最终部署）
 
-### 设计规范
-- **视觉语言**: Airbnb 风格（圆角卡片、微妙阴影、响应式移动端布局）
-- **品牌色**: `#ff385c` (Rausch 珊瑚红)
+### 设计规范（安慕诺企业站 · F_uxStyle）
+- **视觉语言**: 深色科技风 + 紫青渐变高光（对齐 anmunuo.cn）
+- **品牌色**: 主背景 `#0A1628` · 卡片 `#1a2742` / `#0f1f3a` · 主强调 `#7B3FF2` · 链接/高亮 `#00F5FF` · 次级 `#4A5BFF`
+- **样式入口**: `assets/site-chrome.css` + `assets/anmunuo-theme.css` + `assets/brief-page.css`
+- **Logo / Favicon**: `logo.png`（根目录）
 - **字体**: 系统默认无衬线字体
-- **暗色主题**: 背景 `#08090a`，面板 `#0f1011`，边框 `rgba(255,255,255,0.08)`
+- **暗色主题**: 页面底 `#0A1628`，面板 `#1a2742`，边框 `rgba(255,255,255,0.08~0.14)`
 - **节点**: 统一圆形 (`shape: 'dot'`)，大小映射 PM Score
 
 ### 布局

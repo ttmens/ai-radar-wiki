@@ -60,13 +60,14 @@ def regenerate_template_from_graph_html() -> None:
 
 def inject_head_assets(s: str) -> str:
     if './assets/site-chrome.css' not in s:
-        needle = '<link rel="apple-touch-icon" href="./assets/nexsight-mark.svg">\n<style>'
+        needle = '<link rel="apple-touch-icon" href="./logo.png">\n<style>'
         if needle not in s:
             raise SystemExit("patch: expected apple-touch-icon line before embedded <style>")
         s = s.replace(
             needle,
-            '''<link rel="apple-touch-icon" href="./assets/nexsight-mark.svg">
-<link rel="stylesheet" href="./assets/site-chrome.css?v=12">
+            '''<link rel="apple-touch-icon" href="./logo.png">
+<link rel="stylesheet" href="./assets/site-chrome.css?v=18">
+<link rel="stylesheet" href="./assets/anmunuo-theme.css?v=2">
 <meta name="view-transition" content="same-origin">
 <script>
   window.__NEXSIGHT_CONFIG__ = window.__NEXSIGHT_CONFIG__ || { agentIframeUrl: '', agentApiBase: '' };
@@ -76,8 +77,8 @@ def inject_head_assets(s: str) -> str:
         )
     elif 'name="view-transition"' not in s:
         s = s.replace(
-            '<meta name="theme-color" content="#ff385c">',
-            '<meta name="theme-color" content="#ff385c">\n<meta name="view-transition" content="same-origin">',
+            '<meta name="theme-color" content="#0A1628">',
+            '<meta name="theme-color" content="#0A1628">\n<meta name="view-transition" content="same-origin">',
             1,
         )
     return s
@@ -109,7 +110,7 @@ def apply_chrome_patches_to_template_string(s: str) -> str:
     <div class="header-brand-scroll">
     <h1>
       <span class="header-brand-block">
-        <img class="brand-mark" src="./assets/nexsight-mark.svg" width="30" height="30" alt="" decoding="async" aria-hidden="true" />
+        <img class="brand-mark" src="./logo.png" width="30" height="30" alt="" decoding="async" aria-hidden="true" />
         <span class="header-text-stack">
           <span class="header-title-text">智瞰 NexSight</span>
           <span class="header-sub">面向产品经理的AI全景情报</span>
@@ -130,7 +131,7 @@ def apply_chrome_patches_to_template_string(s: str) -> str:
     <div class="header-brand-scroll">
       <h1>
         <a href="./index.html" class="header-brand-block">
-          <img class="brand-mark" src="./assets/nexsight-mark.svg" width="30" height="30" alt="" decoding="async" aria-hidden="true" />
+          <img class="brand-mark" src="./logo.png" width="30" height="30" alt="" decoding="async" aria-hidden="true" />
           <span class="header-text-stack">
             <span class="header-title-text">智瞰 NexSight</span>
             <span class="header-sub">面向产品经理的AI全景情报</span>

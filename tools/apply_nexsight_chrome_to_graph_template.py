@@ -25,7 +25,7 @@ OLD_HEAD = """  <!-- Header -->
     <div class="header-brand-scroll">
     <h1>
       <span class="header-brand-block">
-        <img class="brand-mark" src="./assets/nexsight-mark.svg" width="30" height="30" alt="" decoding="async" aria-hidden="true" />
+        <img class="brand-mark" src="./logo.png" width="30" height="30" alt="" decoding="async" aria-hidden="true" />
         <span class="header-text-stack">
           <span class="header-title-text">智瞰 NexSight</span>
           <span class="header-sub">面向产品经理的AI全景情报</span>
@@ -41,7 +41,7 @@ NEW_HEAD = """  <!-- Header -->
     <div class="header-brand-scroll">
       <h1>
         <a href="./index.html" class="header-brand-block">
-          <img class="brand-mark" src="./assets/nexsight-mark.svg" width="30" height="30" alt="" decoding="async" aria-hidden="true" />
+          <img class="brand-mark" src="./logo.png" width="30" height="30" alt="" decoding="async" aria-hidden="true" />
           <span class="header-text-stack">
             <span class="header-title-text">智瞰 NexSight</span>
             <span class="header-sub">面向产品经理的AI全景情报</span>
@@ -94,9 +94,10 @@ OLD_LIBS = """  <!-- Data & Libs -->
   <script>
 """
 
-HEAD_NEEDLE = '<link rel="apple-touch-icon" href="./assets/nexsight-mark.svg">\n<style>'
-HEAD_REPL = '''<link rel="apple-touch-icon" href="./assets/nexsight-mark.svg">
-<link rel="stylesheet" href="./assets/site-chrome.css?v=12">
+HEAD_NEEDLE = '<link rel="apple-touch-icon" href="./logo.png">\n<style>'
+HEAD_REPL = '''<link rel="apple-touch-icon" href="./logo.png">
+<link rel="stylesheet" href="./assets/site-chrome.css?v=18">
+<link rel="stylesheet" href="./assets/anmunuo-theme.css?v=2">
 <meta name="view-transition" content="same-origin">
 <script>
   window.__NEXSIGHT_CONFIG__ = window.__NEXSIGHT_CONFIG__ || { agentIframeUrl: '', agentApiBase: '' };

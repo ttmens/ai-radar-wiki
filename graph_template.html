@@ -5,11 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
-<meta name="theme-color" content="#ff385c">
+<meta name="theme-color" content="#0A1628">
 <title>智瞰 NexSight — 全景趋势 · 决策情报</title>
-<link rel="icon" href="./assets/nexsight-mark.svg" type="image/svg+xml">
-<link rel="apple-touch-icon" href="./assets/nexsight-mark.svg">
-<link rel="stylesheet" href="./assets/site-chrome.css?v=16">
+<link rel="icon" href="./logo.png" type="image/png">
+<link rel="apple-touch-icon" href="./logo.png">
+<link rel="stylesheet" href="./assets/site-chrome.css?v=18">
 <meta name="view-transition" content="same-origin">
 <script>
   window.__NEXSIGHT_CONFIG__ = window.__NEXSIGHT_CONFIG__ || {
@@ -20,30 +20,39 @@
 </script>
 <style>
   /*
-   * Visual language: Airbnb (awesome-design-md / design-md/airbnb / getdesign.md/airbnb)
-   * — canvas #fff / surface-soft #f7f7f7, ink #222, primary CTA #ff385c (Rausch),
-   *   soft radii (~14–20px), generous whitespace, warm coral voltage on actions.
-   * Four pillar node colors for the graph stay semantic (capabilities…business).
+   * Visual language: 安慕诺企业站（F_uxStyle / anmunuo.cn）
+   * — 深海军蓝底 + 紫青渐变高光；四支柱节点色保持语义不变。
    */
   :root {
-    --rausch: #ff385c;
-    --rausch-active: #e00b41;
-    --rausch-tint: #ffd1da;
-    --ink: #222222;
-    --body-ink: #3f3f3f;
-    --muted: #6a6a6a;
-    --muted-soft: #929292;
-    --hairline: #dddddd;
-    --hairline-soft: #ebebeb;
-    --border-strong: #c1c1c1;
-    --canvas: #ffffff;
-    --surface-soft: #f7f7f7;
-    --surface-strong: #f2f2f2;
-    --legal-link: #428bff;
+    --canvas-deep: #0a1628;
+    --surface-elevated: #1a2742;
+    --surface-elevated-alt: #0f1f3a;
+    --accent-cyan: #00f5ff;
+    --accent-blue: #4a5bff;
+    --accent-purple: #7b3ff2;
+    --gradient-brand: linear-gradient(90deg, #7b3ff2 0%, #4a5bff 50%, #00f5ff 100%);
+    --page-bg-gradient:
+      radial-gradient(ellipse 120% 90% at 0% -10%, rgba(123, 63, 242, 0.18), transparent 52%),
+      radial-gradient(ellipse 90% 70% at 100% 0%, rgba(0, 245, 255, 0.1), transparent 48%);
 
-    --bg: var(--surface-soft);
-    --graph-canvas: #ebebeb;
-    --panel-bg: #ffffff;
+    --rausch: #7b3ff2;
+    --rausch-active: #4a5bff;
+    --rausch-tint: rgba(123, 63, 242, 0.22);
+    --ink: #ffffff;
+    --body-ink: rgba(255, 255, 255, 0.86);
+    --muted: rgba(255, 255, 255, 0.65);
+    --muted-soft: rgba(255, 255, 255, 0.5);
+    --hairline: rgba(255, 255, 255, 0.14);
+    --hairline-soft: rgba(255, 255, 255, 0.08);
+    --border-strong: rgba(255, 255, 255, 0.22);
+    --canvas: #1a2742;
+    --surface-soft: #0f1f3a;
+    --surface-strong: #0a1628;
+    --legal-link: #00f5ff;
+
+    --bg: var(--canvas-deep);
+    --graph-canvas: #0f1f3a;
+    --panel-bg: #1a2742;
     --surface: var(--surface-soft);
     --surface-2: var(--surface-strong);
     --border: var(--hairline-soft);
@@ -55,13 +64,13 @@
     --accent: var(--rausch);
     --accent-bg: var(--rausch);
     --accent-hover: var(--rausch-active);
-    --accent-soft: rgba(255, 56, 92, 0.1);
-    --accent-soft-2: rgba(255, 56, 92, 0.16);
+    --accent-soft: rgba(123, 63, 242, 0.14);
+    --accent-soft-2: rgba(74, 91, 255, 0.2);
     --green: #008a05;
     --emerald: #00a854;
-    --shadow-sm: 0 1px 2px rgba(0,0,0,0.06);
-    --shadow-md: 0 6px 20px rgba(0,0,0,0.08);
-    --shadow-lg: 0 16px 48px rgba(0,0,0,0.12);
+    --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.35);
+    --shadow-md: 0 6px 20px rgba(0, 0, 0, 0.45);
+    --shadow-lg: 0 16px 48px rgba(0, 0, 0, 0.55);
     --radius-sm: 8px;
     --radius-md: 14px;
     --radius-lg: 20px;
@@ -95,9 +104,7 @@
   }
   body {
     background: var(--bg);
-    background-image:
-      radial-gradient(ellipse 120% 90% at 0% -10%, rgba(255, 56, 92, 0.07), transparent 52%),
-      radial-gradient(ellipse 90% 70% at 100% 0%, rgba(66, 139, 255, 0.06), transparent 48%);
+    background-image: var(--page-bg-gradient);
     color: var(--text-primary);
     font-family: Circular, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
     font-size: 14px;
@@ -1688,6 +1695,7 @@
   }
 
 </style>
+<link rel="stylesheet" href="./assets/anmunuo-theme.css?v=2">
 </head>
 <body>
 
@@ -1698,7 +1706,7 @@
     <div class="header-brand-scroll">
     <h1>
         <a href="./index.html" class="header-brand-block">
-        <img class="brand-mark" src="./assets/nexsight-mark.svg" width="30" height="30" alt="" decoding="async" aria-hidden="true" />
+        <img class="brand-mark" src="./logo.png" width="30" height="30" alt="" decoding="async" aria-hidden="true" />
         <span class="header-text-stack">
           <span class="header-title-text">智瞰 NexSight</span>
           <span class="header-sub">面向产品经理的AI全景情报</span>
@@ -1879,7 +1887,7 @@
   <!-- Data & Libs -->
   <script id="graph-data" type="application/json">{{DATA}}</script>
   <script src="./assets/vis-network.min.js"></script>
-<script src="./assets/site-chrome.js?v=16"></script>
+<script src="./assets/site-chrome.js?v=18"></script>
 
   <script>
     console.log('智瞰 NexSight · graph intel UI');
