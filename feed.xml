@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 19 May 2026 00:05:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 04:05:07 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -27,6 +27,14 @@
       <pubDate>2026-05-19T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic收购了Stainless，一家专注于自动化API SDK生成与文档管理的平台。该收购旨在降低开发者集成Claude模型的复杂性，提升API的易用性与一致性。对AI产品经理而言，这意味着更高效的开发者体验（DX）和更快的产品迭代周期，有助于加速Anthropic生态系统的扩展。商业上，通过降低技术门槛吸引更多企业客户，强化其在企业级AI服务中的竞争力。产品创新方面，Stainless的技术可实现API规格自动生成多语言SDK，减少手工维护成本。</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>affaan-m/ECC</title>
+      <link>https://github.com/affaan-m/ECC</link>
+      <guid isPermaLink="false">affaan-mecc</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>这是一个名为 ECC 的 AI 代理性能优化系统，专为 Claude Code、Codex、Opencode、Cursor 等编码助手设计。它集成了技能、本能、记忆、安全等模块，采用研究优先的开发方法，旨在提升代理的多工具协同效率。对于 AI 产品经理，其价值在于提供统一的优化框架，可降低代理在复杂任务中的响应延迟与资源消耗，增强长期上下文的保持能力，并内置安全机制，为构建更可靠、高性能的 AI 编程助手提供了可复用的模式参考。</p></description>
+      <category>📱 产品模式</category>
     </item>
     <item>
       <title>AI eats the world (Spring 26) [pdf]</title>
@@ -85,6 +93,54 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>Leveraging Graph Structure in Seq2Seq Models for Knowledge Graph Link Prediction</title>
+      <link>http://arxiv.org/abs/2605.18211v1</link>
+      <guid isPermaLink="false">leveraging-graph-structure-in-seq2seq-models-for-knowledge-graph-link-prediction</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本论文提出GA-S2S框架，将T5-small编码器-解码器与关系图注意力网络（RGAT）结合，用于知识图谱链接预测。传统Seq2Seq模型仅依赖文本描述，而GA-S2S通过图结构增强，利用实体关系和上下文信息提升预测准确性，弥补了纯文本模型的不足。该技术可应用于推荐系统、智能问答和知识推理等场景，为产品化知识图谱服务提供更可靠的链路预测能力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Pairwise Preference Reward and Group-Based Diversity Enhancement for Superior Op</title>
+      <link>http://arxiv.org/abs/2605.18191v1</link>
+      <guid isPermaLink="false">pairwise-preference-reward-and-group-based-diversity-enhancement-for-superior-op</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出了一种针对开放文本生成任务的强化学习改进方法。传统RL在可验证场景表现优异，但在开放式生成中验证响应正确性困难且奖励模型训练成本高。该方法采用成对偏好奖励机制替代标量奖励，并引入基于组的多样性增强策略，通过比较不同响应的相对质量来优化模型，同时保持生成内容的多样性。这降低了人工标注成本，提升模型在创意写作、对话等场景的表现。产品经理可关注其降低RLHF部署门槛、平衡质量与多样性的潜力，尤其适用于内容生成类产品。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>PIPER: Content-Based Table Search via profiling and LLM-Generated Pseudoqueries</title>
+      <link>http://arxiv.org/abs/2605.18199v1</link>
+      <guid isPermaLink="false">piper-content-based-table-search-via-profiling-and-llm-generated-pseudoqueries</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>PIPER 是一种基于表格内容（而非仅元数据）的搜索方法，通过数据画像（profiling）和 LLM 生成的伪查询来提升数据湖/数据空间中表格的发现效率。传统方法依赖缺失或不准确的元数据，而 PIPER 利用 LLM 自动生成模拟用户意图的查询，结合表格的列类型、值分布等特征进行匹配。该方法可显著降低数据检索门槛，助力企业快速复用和分析海量表格数据，尤其适用于数据目录、数据市场等产品场景。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Context Memorization for Efficient Long Context Generation</title>
+      <link>http://arxiv.org/abs/2605.18226v1</link>
+      <guid isPermaLink="false">context-memorization-for-efficient-long-context-generation</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>现代大语言模型应用常依赖长条件前缀来控制推理行为，但前缀影响随生成过程逐渐减弱，导致长上下文生成中信息丢失。本文提出上下文记忆技术，通过高效存储和复用关键上下文，显著提升长距离依赖的保持能力。该技术可减少重复输入，增强对话连贯性和任务准确性，对客服、文档生成、写作助手等需要长期交互的产品具有直接商业价值，有望降低推理成本并提升用户体验。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Forward-Learned Discrete Diffusion: Learning how to noise to denoise faster</title>
+      <link>http://arxiv.org/abs/2605.18204v1</link>
+      <guid isPermaLink="false">forward-learned-discrete-diffusion-learning-how-to-noise-to-denoise-faster</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该研究提出了一种前向学习（Forward-Learned）的离散扩散模型，通过优化噪声添加过程来加速去噪生成。传统离散扩散模型使用因子化分布参数化逆向过程，导致学习效率低。新方法让模型主动学习如何更高效地加噪，从而在推理阶段实现更快的去噪。技术要点是改进了训练策略，使得生成速度显著提升，同时保持生成质量。商业价值在于降低离散数据（如文本、代码、分子结构）生成的计算成本和延迟，适用于实时生成、交互式AI助手等产品场景。产品创新点在于将噪声调度本身变为可学习的参数，提升了模型对任务的自适应性。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>SPATIOROUTE: Dynamic Prompt Routing for Zero-Shot Spatial Reasoning</title>
+      <link>http://arxiv.org/abs/2605.18209v1</link>
+      <guid isPermaLink="false">spatioroute-dynamic-prompt-routing-for-zero-shot-spatial-reasoning</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本研究提出SPATIOROUTE，一种动态提示路由方法，用于零样本空间推理。该方法通过自动选择最合适的提示策略，引导视觉语言模型（VLM）对自我中心视频中的3D物体位置、场景属性和方向关系进行推理。技术核心在于无需微调即可适应多种空间查询，降低了模型应用成本。商业价值体现在对AR/VR辅助、机器人导航、智能视频分析等场景的快速部署。产品创新在于将空间推理能力从静态图像扩展到动态视频，且无需标注数据。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Haiku OS runs on M1 Macs now</title>
       <link>https://news.ycombinator.com/item?id=48183579</link>
       <guid isPermaLink="false">haiku-os-runs-on-m1-macs-now</guid>
@@ -99,6 +155,62 @@
       <pubDate>2026-05-19T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容来自Hacker News，标题为‘No More JetBrains Products for Me’，暗示用户因AI工具（如GitHub Copilot、Cursor等）的兴起而放弃JetBrains IDE。技术要点在于AI代码补全和智能编程助手正在改变开发者工作流，传统IDE可能面临被AI-first工具替代的风险。商业价值体现在JetBrains需加速AI集成，否则可能失去市场。产品创新方面，AI驱动的编程环境正从插件转向原生AI IDE，提升开发效率。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>SIREM: Speech-Informed MRI Reconstruction with Learned Sampling</title>
+      <link>http://arxiv.org/abs/2605.18221v1</link>
+      <guid isPermaLink="false">sirem-speech-informed-mri-reconstruction-with-learned-sampling</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>SIREM提出了一种基于语音信息的MRI重建方法，通过可学习的采样策略优化实时语音MRI的时空分辨率权衡。该方法利用语音信号先验指导成像过程，在保持高时间分辨率的同时提升空间分辨率，有望改善发音动态的可视化质量。商业价值上，可用于语音科学研究、言语障碍临床诊断和实时语音交互系统开发，降低对高成本硬件的依赖。产品创新在于将语音模态与MRI采样学习结合，实现了更高效的实时成像。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>RGB-only Active 3D Scene Graph Generation for Indoor Mobile Robots</title>
+      <link>http://arxiv.org/abs/2605.18197v1</link>
+      <guid isPermaLink="false">rgb-only-active-3d-scene-graph-generation-for-indoor-mobile-robots</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本论文提出仅依赖RGB摄像头的主动式3D场景图生成方法，无需LiDAR或RGB-D深度传感器，即可为室内移动机器人构建度量3D重建和语义场景图。该技术突破了专用深度传感器的硬件限制，降低了机器人部署成本和门槛，使普通RGB相机（如固定监控摄像头）也能实现场景理解。核心创新在于融合主动探索策略与单目深度估计，实时生成包含物体、空间关系和拓扑结构的动态场景图。对产品经理而言，这意味着低成本机器人、消费级设备可具备高级环境感知能力，拓展了家庭服务、仓储巡检等场景的落地可能性。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Concise and Logically Consistent Conformal Sets for Neuro-Symbolic Concept-Based</title>
+      <link>http://arxiv.org/abs/2605.18202v1</link>
+      <guid isPermaLink="false">concise-and-logically-consistent-conformal-sets-for-neuro-symbolic-concept-based</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出针对神经符号概念模型（NeSy-CBM）的共形集方法，通过结合神经网络的特征提取与符号推理的可靠性，为高风险应用提供更紧凑且逻辑一致的预测集。技术核心在于利用共形预测保证输出置信度，同时保持概念层面的可解释性。商业价值在于提升医疗、金融等领域的AI系统可信度，降低误判风险；产品创新体现在无需大量标注数据即可输出有统计保证的预测范围，便于产品经理构建透明、合规的AI功能。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Beyond the Cartesian Illusion: Testing Two-Stage Multi-Modal Theory of Mind unde</title>
+      <link>http://arxiv.org/abs/2605.18194v1</link>
+      <guid isPermaLink="false">beyond-the-cartesian-illusion-testing-two-stage-multi-modal-theory-of-mind-under</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>论文挑战了多模态大模型的“笛卡尔幻觉”，即其空间智能受限于文本概率分布，缺乏三维拓扑理解。作者提出并测试了一种两阶段多模态心智理论方法，在感知瓶颈下评估模型对他人视角和意图的推理能力。研究发现，即使在有限视觉输入下，两阶段架构仍能部分还原空间推理，但完整3D理解仍是瓶颈。该研究揭示了当前多模态模型在具身智能中的关键缺陷，为提升导航、机器人交互等产品的空间感知能力提供了改进方向，商业价值在于推动更可靠的虚拟助手和自主系统。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>A Simplex Witness Certificate for Constant Collapse in Variational Autoencoders</title>
+      <link>http://arxiv.org/abs/2605.18224v1</link>
+      <guid isPermaLink="false">a-simplex-witness-certificate-for-constant-collapse-in-variational-autoencoders</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本论文研究变分自编码器（VAE）中的“恒定崩溃”问题，即编码器均值与输入无关的失败模式。作者提出一种单纯形证人证书方法，使这种崩溃可预先设计、训练中可监控、训练后可认证。该方法在保持标准高斯先验的前提下，为生成模型的稳定性提供可验证的保障。对于AI产品经理而言，该技术可降低生成模型在实际部署中的不可预测性，提升产品可靠性，尤其适用于需要高稳定性的生成式AI应用。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>The last six months in LLMs in five minutes</title>
+      <link>https://news.ycombinator.com/item?id=48188183</link>
+      <guid isPermaLink="false">the-last-six-months-in-llms-in-five-minutes</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>过去六个月，LLM在推理能力（如链式思维）、多模态融合（图像、视频理解）和超长上下文窗口（百万token级）上取得突破，同时推理成本大幅下降，开源模型（如Llama 3.1、Mistral）逼近闭源水平。产品创新体现在Agent框架（自主任务执行）、代码助手（Copilot模式深化）和个性化AI助手（记忆与长期上下文）。商业上，模型降价、API服务普及加速了企业级应用落地，但幻觉控制和安全性仍是落地挑战。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>The American Rebellion Against AI Is Gaining Steam</title>
+      <link>https://news.ycombinator.com/item?id=48188310</link>
+      <guid isPermaLink="false">the-american-rebellion-against-ai-is-gaining-steam</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章指出美国社会对AI的反弹正在加剧，涉及隐私、版权、就业等担忧。产品经理需关注公众情绪与监管趋势，将负责任AI融入产品设计，以降低合规风险并维护用户信任。这要求产品在能力迭代的同时，同步推进透明性、数据治理与伦理框架，避免因社会抵制影响市场扩张。</p></description>
+      <category>🔧 工具生态</category>
     </item>
     <item>
       <title>NASA still maintains some of the Voyager spacecraft code from the 70s era</title>
@@ -170,6 +282,14 @@
       <guid isPermaLink="false">sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-require</guid>
       <pubDate>2026-05-19T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Are Sparse Autoencoder Benchmarks Reliable?</title>
+      <link>http://arxiv.org/abs/2605.18229v1</link>
+      <guid isPermaLink="false">are-sparse-autoencoder-benchmarks-reliable</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Sparse autoencoders (SAEs) are a core interpretability tool for large language models, and progress on SAE architectures depends on benchmarks that reliably distinguish better SAEs from worse ones. We audit the SAE quality metrics in SAEBench, the de-facto standard SAE evaluation suite, through thre</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -290,126 +410,6 @@
       <guid isPermaLink="false">evaluating-design-video-generation-metrics-for-compositional-fidelity</guid>
       <pubDate>2026-05-18T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文针对设计动画领域提出视频生成模型的评估框架。与自然视频生成不同，设计动画具有结构化约束：特定组件需按预设运动类型、方向、速度等进行动画。当前缺乏标准化评测指标，论文致力于定义组合保真度（compositional fidelity）的度量方法。对产品经理而言，这一研究有助于量化生成式设计工具（如UI动画、产品演示视频）的质量，推动商业化落地。通过建立统一评估标准，可降低模型选型成本，提升设计自动化产品的可靠性与用户体验。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation</title>
-      <link>http://arxiv.org/abs/2605.16258v1</link>
-      <guid isPermaLink="false">ivgt-implicit-visual-geometry-transformer-for-neural-scene-representation</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>IVGT提出了一种隐式视觉几何Transformer，用于从无位姿的多视图图像中重建一致的3D几何和外观。与现有依赖显式像素对齐点图的方法不同，该模型通过隐式表示避免了冗余和局限性，能够更高效地学习场景结构。核心创新在于结合Transformer的全局注意力机制与隐式几何学习，无需精确相机位姿即可实现鲁棒重建。该技术对AR/VR、3D内容生成和自动驾驶感知等产品具有显著商业价值，可降低数据采集成本并提升通用性。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Universal Magnetic Structure Prediction from Atomic Coordinates with Near-Experi</title>
-      <link>http://arxiv.org/abs/2605.16230v1</link>
-      <guid isPermaLink="false">universal-magnetic-structure-prediction-from-atomic-coordinates-with-near-experi</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出一种从原子坐标直接预测材料磁性结构的AI方法，精度接近实验水平。传统磁结构确定依赖昂贵实验或复杂理论计算，而该模型利用深度学习从原子构型中快速推断磁序，克服了非共线磁结构的计算难题。这一技术可加速新型磁性材料、自旋电子学和量子材料的发现，降低研发成本，提升材料筛选效率。对AI产品经理而言，该能力可集成到材料设计平台或科学计算工具中，推动AI for Science在材料领域的商业化落地。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent G</title>
-      <link>http://arxiv.org/abs/2605.16232v1</link>
-      <guid isPermaLink="false">a-unified-generative-ai-framework-for-smart-energy-infrastructure-intelligent-ga</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出一个统一生成式AI框架，整合智能计量、生成式AI和量子启发组合优化，用于智能能源基础设施。技术要点包括：利用生成式AI实现智能燃气分配、公用事业计费自动化、碳分析以及量子启发优化算法提升决策效率。商业价值体现在帮助能源公用事业公司优化物理基础设施、增强客户参与度、满足环境责任要求。产品创新在于将多种AI能力融合为一个端到端解决方案，降低集成成本，加速能源行业数字化转型。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillati</title>
-      <link>http://arxiv.org/abs/2605.16241v1</link>
-      <guid isPermaLink="false">offline-semantic-guidance-for-efficient-vision-language-action-policy-distillati</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>VLA-AD是一种用于视觉-语言-动作策略的高效蒸馏框架，通过离线语义引导将数十亿参数的大模型压缩成轻量级模型，实现实时闭环机器人控制。该技术显著降低了推理成本和延迟，同时保持任务性能，为具身AI的商业化部署提供了可行路径。产品创新在于利用预训练大模型的语义知识指导小模型学习，无需在线交互，适合资源受限的机器人场景。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Dynamics-Level Watermarking of Flow Matching Models with Random Codes</title>
-      <link>http://arxiv.org/abs/2605.16239v1</link>
-      <guid isPermaLink="false">dynamics-level-watermarking-of-flow-matching-models-with-random-codes</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出了一种动态水平的水印方法，用于生成模型。与传统的在模型权重或输出中嵌入信号不同，该方法将水印直接嵌入到流匹配模型学到的连续动态（速度场）中。通过随机编码实现，能够在不影响生成质量的前提下，为生成的样本提供可追溯的标识。这一技术对于AI产品经理而言，意味着可以在生成内容中嵌入不可见的、鲁棒性强的水印，有助于版权保护、内容溯源和合规监控。同时，由于水印嵌入在模型动态层面，更难被去除或篡改，提升了安全性，适用于图像、音频、视频等多种生成任务，具有较大的商业价值和产品创新潜力。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>University of Arizona students boo Eric Schmidt's AI cheerleading</title>
-      <link>https://news.ycombinator.com/item?id=48171852</link>
-      <guid isPermaLink="false">university-of-arizona-students-boo-eric-schmidts-ai-cheerleading</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>亚利桑那大学学生在Eric Schmidt（前谷歌CEO）宣传AI时发出嘘声，反映了公众对AI过度乐观叙事的反感。对AI产品经理而言，这警示需重视用户信任和伦理风险：即使技术强大，若忽视社会情绪和潜在危害，产品可能遭遇抵制。商业价值体现在洞察用户真实需求，避免脱离现实的纯技术推销。产品创新应融入透明度和可控性，以缓解公众焦虑。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>WriteUp: 16 Bytes of x86 that turn Matrix rain into sound</title>
-      <link>https://news.ycombinator.com/item?id=48173962</link>
-      <guid isPermaLink="false">writeup-16-bytes-of-x86-that-turn-matrix-rain-into-sound</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该项目展示了仅用16字节x86汇编代码将经典的《黑客帝国》数字雨视觉特效实时转化为声音输出的技术。这一极简实现利用了底层硬件指令进行快速音频合成，体现了对机器指令集的深度优化能力。虽然当前趣味性大于商业价值，但它为AI产品经理提供了关于实时信号处理、极简代码实现以及跨模态转换（视觉转音频）的启发。该技术可探索用于低资源环境下的音频反馈系统或嵌入式AI创意应用。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>The Four Horsemen of the LLM Apocalypse</title>
-      <link>https://news.ycombinator.com/item?id=48172680</link>
-      <guid isPermaLink="false">the-four-horsemen-of-the-llm-apocalypse</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章以‘LLM末日的四骑士’为隐喻，探讨大型语言模型面临的四大核心挑战：幻觉（生成虚假信息）、偏见（训练数据中的不公平性）、安全性（滥用与对抗攻击）以及可解释性（黑箱决策）。这些技术痛点直接影响产品可靠性、用户信任与合规风险。对于AI产品经理，理解这些限制有助于在产品设计中引入事实核查、偏见检测、安全护栏与可解释接口，从而提升产品价值与市场竞争力。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Agentic Trading with Safe Guardrails</title>
-      <link>https://news.ycombinator.com/item?id=48168426</link>
-      <guid isPermaLink="false">agentic-trading-with-safe-guardrails</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容探讨了基于智能体（Agent）的自动化交易系统，并引入了“安全护栏”（Safe Guardrails）机制。技术要点在于将强化学习与规则引擎结合，使AI代理能在实时市场环境中自主决策，同时受到预设的风险边界、合规性检查和止损策略约束。商业价值体现在提升交易效率与执行速度，并通过护栏降低黑箱操作带来的金融风险。产品创新上，这种可解释、可干预的“受控自主”模式，为金融科技领域提供了一种兼顾效率与安全的新范式，尤其适合高频交易与量化策略场景。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely</title>
-      <link>https://news.ycombinator.com/item?id=48173468</link>
-      <guid isPermaLink="false">two-ea-18-fighter-jets-collide-at-mountain-home-airshow-pilots-ejected-safely</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该新闻为航空事故报道，涉及两架EA-18战斗机在航展相撞，飞行员安全弹射。内容与AI技术、产品创新或商业价值无关，不包含AI产品经理可关注的技术要点。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Trials on veterans suggest ibogaine could provide a new treatment for PTSD</title>
-      <link>https://news.ycombinator.com/item?id=48168159</link>
-      <guid isPermaLink="false">trials-on-veterans-suggest-ibogaine-could-provide-a-new-treatment-for-ptsd</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该信息报道了伊博格碱（ibogaine）在退伍军人PTSD治疗中的临床试验进展，属于生物医药领域突破。对于AI产品经理，此内容本身无直接技术关联，但可启发思考：AI在药物发现、个性化治疗方案优化及临床试验数据分析中具有潜在应用价值，例如利用机器学习预测药物疗效或模拟剂量反应。商业价值体现在精神健康治疗市场的增长机会，但需跨界整合。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Prolog Basics Explained with Pokémon</title>
-      <link>https://news.ycombinator.com/item?id=48147091</link>
-      <guid isPermaLink="false">prolog-basics-explained-with-pokémon</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文通过宝可梦（Pokémon）的例子，用通俗易懂的方式讲解Prolog（逻辑编程语言）的基础概念，包括事实、规则、查询和回溯机制。Prolog作为AI领域经典的知识表示与推理工具，其声明式编程范式（描述问题而非算法步骤）对于构建专家系统、自然语言理解和语义搜索有启发价值。虽然当前主流AI产品较少直接使用Prolog，但理解其逻辑推理内核有助于产品经理评估知识图谱、规则引擎等技术的适用场景。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Prospective multi-pathogen disease forecasting using autonomous LLM-guided tree</title>
-      <link>http://arxiv.org/abs/2605.16238v1</link>
-      <guid isPermaLink="false">prospective-multi-pathogen-disease-forecasting-using-autonomous-llm-guided-tree</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Probabilistic forecasting of infectious diseases is crucial for public health but relies on labor-intensive manual model curation by expert modeling teams. This bespoke development bottlenecks scalability to granular geographic resolutions or emerging pathogens. Here, we present an autonomous system</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Designing Datacenter Power Delivery Hierarchies for the AI Era</title>
-      <link>http://arxiv.org/abs/2605.16255v1</link>
-      <guid isPermaLink="false">designing-datacenter-power-delivery-hierarchies-for-the-ai-era</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Demand for AI accelerators is rapidly increasing rack power density, with projections approaching 1MW per deployment by 2027. This poses a major challenge for datacenter power delivery designers. As power densities increase, a datacenter designed for a different target density may strand power, i.e.</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sus</title>
-      <link>http://arxiv.org/abs/2605.16250v1</link>
-      <guid isPermaLink="false">a-generative-ai-framework-for-intelligent-utility-billing-co-2-analytics-and-sus</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Distribution utilities are now expected to deliver bills that customers can actually read attach a defensible carbon number to every kWh sold and schedule load against grid stress and emissions constraints We propose an end-to-end framework that unifies four production-grade capabilities under one a</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
