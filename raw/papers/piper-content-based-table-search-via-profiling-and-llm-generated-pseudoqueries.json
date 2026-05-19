@@ -1,0 +1,33 @@
+{
+  "title": "PIPER: Content-Based Table Search via profiling and LLM-Generated Pseudoqueries",
+  "summary": "The rapid growth of tabular datasets in data lakes, data spaces, and open data portals makes effective dataset search essential for reuse and analysis. Existing search systems rely mainly on metadata, which is often incomplete or low quality, especially for tables whose meaning depends on both schema and cell values. Recent advances in Large Language Models (LLMs) enable richer, content-based representations of tables. However, prior LLM-based retrieval methods have focused on Table Question Answering, where the goal is to select a single table to answer a question, rather than retrieve and rank relevant datasets. We propose PIPER, a content-driven retrieval method for tabular datasets that uses table profiles and LLM-generated queries embedded for dense retrieval. Designed for dataset search in poor-metadata settings, PIPER outperforms both classical metadata-based baselines and strong TableQA retrieval methods, demonstrating the value of LLM-based content modeling for tabular dataset search.",
+  "url": "http://arxiv.org/abs/2605.18199v1",
+  "authors": [
+    "Riccardo Terrenzi",
+    "Matteo Falconi",
+    "Serkan Ayvaz",
+    "Pierluigi Plebani"
+  ],
+  "published": "2026-05-18T10:39:42Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "api",
+    "eval",
+    "profiling"
+  ],
+  "summary_cn": "PIPER 是一种基于表格内容（而非仅元数据）的搜索方法，通过数据画像（profiling）和 LLM 生成的伪查询来提升数据湖/数据空间中表格的发现效率。传统方法依赖缺失或不准确的元数据，而 PIPER 利用 LLM 自动生成模拟用户意图的查询，结合表格的列类型、值分布等特征进行匹配。该方法可显著降低数据检索门槛，助力企业快速复用和分析海量表格数据，尤其适用于数据目录、数据市场等产品场景。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Table Search",
+    "LLM-based Query Generation",
+    "Data Profiling"
+  ],
+  "entities": [
+    "PIPER"
+  ],
+  "patterns": [
+    "Content-Based Retrieval",
+    "Pseudo-Query Generation"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "The last six months in LLMs in five minutes",
+  "score": 62,
+  "comments": 13,
+  "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+  "hn_url": "https://news.ycombinator.com/item?id=48188183",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "过去六个月，LLM在推理能力（如链式思维）、多模态融合（图像、视频理解）和超长上下文窗口（百万token级）上取得突破，同时推理成本大幅下降，开源模型（如Llama 3.1、Mistral）逼近闭源水平。产品创新体现在Agent框架（自主任务执行）、代码助手（Copilot模式深化）和个性化AI助手（记忆与长期上下文）。商业上，模型降价、API服务普及加速了企业级应用落地，但幻觉控制和安全性仍是落地挑战。",
+  "pm_relevance": 9,
+  "concepts": [
+    "Chain-of-Thought Reasoning",
+    "Long-Context Window",
+    "Multimodal Integration"
+  ],
+  "entities": [
+    "OpenAI",
+    "Meta",
+    "Mistral AI"
+  ],
+  "patterns": [
+    "Agentic AI",
+    "Copilot Pattern"
+  ]
+}

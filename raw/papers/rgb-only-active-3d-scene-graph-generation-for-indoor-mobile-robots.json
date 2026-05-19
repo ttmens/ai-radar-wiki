@@ -1,0 +1,32 @@
+{
+  "title": "RGB-only Active 3D Scene Graph Generation for Indoor Mobile Robots",
+  "summary": "Current approaches to 3D scene graph generation rely on dedicated depth sensors, such as LiDAR or RGB-D cameras, for metric 3D reconstruction. This limits deployment to specialized robotic platforms and excludes settings where only RGB cameras are available, such as fixed external infrastructure. Existing pipelines also typically operate on passively collected observation trajectories, rather than selecting viewpoints based on the partially built scene representation, and therefore fail to effectively exploit the semantic and spatial information encoded within the graph during exploration. This paper presents a fully visual framework for the active, incremental construction of 3D scene graphs from RGB input only, addressing both limitations. The proposed approach unifies perception and planning around a shared structured representation that captures object semantics, 3D geometry, relational context, and information from multiple viewpoints. Because the framework is hardware-agnostic and relies only on RGB observations, it can incorporate inputs from both onboard robot cameras and fixed external cameras within the same representation. Experiments on the Replica dataset show that the RGB-only pipeline achieves F1-score parity with baselines using ground-truth depth. Active exploration experiments on ReplicaCAD further show that semantic-driven viewpoint selection detects more than twice as many objects as a geometric frontier-based baseline under the same exploration budget. Finally, the external-camera setting demonstrates that complementary RGB views can effectively bootstrap the scene graph and improve contextual understanding at no additional exploration cost.",
+  "url": "http://arxiv.org/abs/2605.18197v1",
+  "authors": [
+    "Giorgia Modi",
+    "Davide Buoso",
+    "Giuseppe Averta",
+    "Daniele De Martini"
+  ],
+  "published": "2026-05-18T10:37:39Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "framework",
+    "deployment",
+    "pipeline",
+    "infrastructure"
+  ],
+  "summary_cn": "本论文提出仅依赖RGB摄像头的主动式3D场景图生成方法，无需LiDAR或RGB-D深度传感器，即可为室内移动机器人构建度量3D重建和语义场景图。该技术突破了专用深度传感器的硬件限制，降低了机器人部署成本和门槛，使普通RGB相机（如固定监控摄像头）也能实现场景理解。核心创新在于融合主动探索策略与单目深度估计，实时生成包含物体、空间关系和拓扑结构的动态场景图。对产品经理而言，这意味着低成本机器人、消费级设备可具备高级环境感知能力，拓展了家庭服务、仓储巡检等场景的落地可能性。",
+  "pm_relevance": 7,
+  "concepts": [
+    "3D Scene Graph",
+    "RGB-only Perception",
+    "Active Exploration"
+  ],
+  "entities": [],
+  "patterns": [
+    "Active Perception",
+    "Monocular 3D Reconstruction"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Context Memorization for Efficient Long Context Generation",
+  "summary": "Modern large language model (LLM) applications increasingly rely on long conditioning prefixes to control model behavior at inference time. While prefix-augmented inference is effective, it incurs two structural limitations: i) the prefix's influence fades as generation proceeds, and ii) attention computation over the prefix scales linearly with its length. Existing approaches either keep the prefix in attention while compressing it, or internalize it into model parameters through gradient-based training. The former still attends to the prefix at inference, while the latter is training-intensive and ill-suited to prefix updates. To address these issues, we propose attention-state memory, a training-free approach that externalizes the prefix into a lightweight, lookup-based memory of precomputed attention states between prefix and query tokens. On ManyICLBench with LLaMA-3.1-8B, our method improves accuracy over in-context learning at 1K-8K memory budgets while reducing attention latency by 1.36x at 8K, and surpasses full-attention RAG performance on NBA benchmark using only 20% of its memory footprint.",
+  "url": "http://arxiv.org/abs/2605.18226v1",
+  "authors": [
+    "Yasuyuki Okoshi",
+    "Hao Mark Chen",
+    "Guanxi Lu",
+    "Hongxiang Fan",
+    "Masato Motomura"
+  ],
+  "published": "2026-05-18T11:12:45Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "latency",
+    "inference",
+    "token",
+    "benchmark",
+    "training",
+    "attention",
+    "parameter",
+    "accuracy",
+    "gradient"
+  ],
+  "summary_cn": "现代大语言模型应用常依赖长条件前缀来控制推理行为，但前缀影响随生成过程逐渐减弱，导致长上下文生成中信息丢失。本文提出上下文记忆技术，通过高效存储和复用关键上下文，显著提升长距离依赖的保持能力。该技术可减少重复输入，增强对话连贯性和任务准确性，对客服、文档生成、写作助手等需要长期交互的产品具有直接商业价值，有望降低推理成本并提升用户体验。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Long Context Generation",
+    "Context Memorization"
+  ],
+  "entities": [],
+  "patterns": [
+    "Context Retention Pattern"
+  ]
+}

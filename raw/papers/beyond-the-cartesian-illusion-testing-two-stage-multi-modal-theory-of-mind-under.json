@@ -1,0 +1,31 @@
+{
+  "title": "Beyond the Cartesian Illusion: Testing Two-Stage Multi-Modal Theory of Mind under Perceptual Bottlenecks",
+  "summary": "While Multi-Modal Large Language Models (MLLMs) demonstrate impressive capabilities in general reasoning, their embodied spatial intelligence remains hampered by a \"Cartesian Illusion\" - a reliance on text-based probability distributions that lack grounded, 3D topological understanding. This limitation is starkly exposed in multi-agent environments, which demand more than just scene perception; they require second-order Theory of Mind (ToM). Specifically, an Agent A must be able to infer Agent B's belief about the environment, governed strictly by Agent B's physical orientation and sensory limitations. In this paper, we probe the limits of two-stage spatial inference in MLLMs through a novel audio-visual task: requiring Agent A to predict Agent B's estimation of A's relative location. To solve this, we propose an Epistemic Sensory Bottleneck module that abandons rigid, rule-based coordinate transformations. Instead, we introduce an Anchor-Based Embodied Spatial Decomposition Chain-of-Thought (CoT). This guides the MLLM through a \"geometric-to-semantic\" projection, forcing it to first establish B's local coordinate system and then dynamically weight visual and auditory modalities based on whether A falls within B's visual frustum. Extensive evaluations reveal that while current MLLMs fundamentally struggle with spatial symmetry and out-of-view ambiguities (establishing a rigorous zero-shot baseline of 42% accuracy), our sensory-bounded reasoning chain robustly outperforms pure egocentric and allocentric baselines. By systematically benchmarking these perceptual bottlenecks, our work exposes the current limits of MLLM spatial reasoning and establishes a foundational paradigm for epistemic, modality-aware inference in Embodied AI.",
+  "url": "http://arxiv.org/abs/2605.18194v1",
+  "authors": [
+    "Yajing Zhou",
+    "Xiangyu Kong"
+  ],
+  "published": "2026-05-18T10:32:56Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "benchmark",
+    "audio",
+    "reasoning",
+    "accuracy"
+  ],
+  "summary_cn": "论文挑战了多模态大模型的“笛卡尔幻觉”，即其空间智能受限于文本概率分布，缺乏三维拓扑理解。作者提出并测试了一种两阶段多模态心智理论方法，在感知瓶颈下评估模型对他人视角和意图的推理能力。研究发现，即使在有限视觉输入下，两阶段架构仍能部分还原空间推理，但完整3D理解仍是瓶颈。该研究揭示了当前多模态模型在具身智能中的关键缺陷，为提升导航、机器人交互等产品的空间感知能力提供了改进方向，商业价值在于推动更可靠的虚拟助手和自主系统。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Multi-Modal Understanding",
+    "Spatial Intelligence",
+    "Theory of Mind"
+  ],
+  "entities": [],
+  "patterns": [
+    "Two-Stage Reasoning",
+    "Perceptual Bottleneck Testing"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Concise and Logically Consistent Conformal Sets for Neuro-Symbolic Concept-Based Models",
+  "summary": "Neuro-Symbolic Concept-based Models (NeSy-CBMs) are a family of architectures that integrate neural networks with symbolic reasoning for enhanced reliability in high-stakes applications. They work by first extracting high-level concepts from the input and then inferring a task label from these compatibly with given logical constraints. Yet, their label and concept predictions can be overconfident, making it difficult for stakeholders to gauge when the model's decisions can be trusted. We address this issue by integrating ideas from Conformal Prediction (CP), a framework providing rigorous, distribution-free coverage guarantees. We formalize three desiderata -- consistency, coverage, and conciseness -- that any conformal method for NeSy-CBMs should satisfy, and show that existing approaches fall short of at least one. We then introduce COCOCO, a post-hoc framework that conformalizes concepts and labels jointly and reconciles them via a single deduction-abduction revision step. COCOCO satisfies all three desiderata, retains distribution-free coverage, is robust to imperfect knowledge and supports user-specified size budgets. Our experiments on 8 data sets highlight how COCOCO compares favorably against competitors and natural baselines in terms of performance and set size.",
+  "url": "http://arxiv.org/abs/2605.18202v1",
+  "authors": [
+    "Samuele Bortolotti",
+    "Emanuele Marconato",
+    "Andrea Pugnana",
+    "Andrea Passerini",
+    "Stefano Teso"
+  ],
+  "published": "2026-05-18T10:43:02Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision",
+    "reasoning",
+    "neural network"
+  ],
+  "summary_cn": "该论文提出针对神经符号概念模型（NeSy-CBM）的共形集方法，通过结合神经网络的特征提取与符号推理的可靠性，为高风险应用提供更紧凑且逻辑一致的预测集。技术核心在于利用共形预测保证输出置信度，同时保持概念层面的可解释性。商业价值在于提升医疗、金融等领域的AI系统可信度，降低误判风险；产品创新体现在无需大量标注数据即可输出有统计保证的预测范围，便于产品经理构建透明、合规的AI功能。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Neuro-Symbolic AI",
+    "Conformal Prediction",
+    "Concept-based Models"
+  ],
+  "entities": [],
+  "patterns": [
+    "Reliable AI"
+  ]
+}

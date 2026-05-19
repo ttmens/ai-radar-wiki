@@ -1,0 +1,33 @@
+{
+  "title": "SIREM: Speech-Informed MRI Reconstruction with Learned Sampling",
+  "summary": "Real-time magnetic resonance imaging (rtMRI) of speech production enables non-invasive visualization of dynamic vocal-tract motion and is valuable for speech science and clinical assessment. However, rtMRI is fundamentally constrained by trade-offs among spatial resolution, temporal resolution, and acquisition speed, often leading to undersampled k-space measurements and degraded reconstructions. We propose SIREM, a speech-informed MRI reconstruction framework that uses synchronized speech as a cross-modal prior. The central idea is that vocal-tract configurations during speech are correlated with the produced acoustics, making part of the image content predictable from audio. SIREM models each frame as a fusion of an audio-driven component and an MRI-driven component through a spatial weighting map. The audio branch predicts articulator-related structure from speech, while the MRI branch reconstructs complementary content from measured k-space data. We further introduce a learnable soft weighting profile over spiral arms, enabling a differentiable study of how k-space arm usage interacts with speech-informed fusion. This yields a unified multimodal formulation that combines audio-driven prediction, MRI reconstruction, and sampling adaptation. We evaluate SIREM on the USC speech rtMRI benchmark against standard baselines, including gridding, wavelet-based compressed sensing, and total variation. SIREM introduces a speech-informed reconstruction paradigm that operates in a substantially higher-throughput regime than iterative methods while preserving anatomically plausible vocal-tract structure. These results establish an initial benchmark for multimodal speech-informed rtMRI reconstruction and highlight the potential of synchronized speech as an auxiliary prior for fast reconstruction. The source code is available at https://github.com/mdhasanai/SIREM",
+  "url": "http://arxiv.org/abs/2605.18221v1",
+  "authors": [
+    "Md Hasan",
+    "Nyvenn Castro",
+    "Daiqi Liu",
+    "Lukas Mulzer",
+    "Jana Hutter"
+  ],
+  "published": "2026-05-18T11:05:10Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "multimodal",
+    "audio",
+    "throughput"
+  ],
+  "summary_cn": "SIREM提出了一种基于语音信息的MRI重建方法，通过可学习的采样策略优化实时语音MRI的时空分辨率权衡。该方法利用语音信号先验指导成像过程，在保持高时间分辨率的同时提升空间分辨率，有望改善发音动态的可视化质量。商业价值上，可用于语音科学研究、言语障碍临床诊断和实时语音交互系统开发，降低对高成本硬件的依赖。产品创新在于将语音模态与MRI采样学习结合，实现了更高效的实时成像。",
+  "pm_relevance": 7,
+  "concepts": [
+    "MRI重建",
+    "可学习采样",
+    "语音引导成像"
+  ],
+  "entities": [],
+  "patterns": [
+    "Learning-Based Sampling",
+    "Real-Time Imaging"
+  ]
+}

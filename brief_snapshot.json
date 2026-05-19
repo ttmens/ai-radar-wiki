@@ -1,7 +1,7 @@
 {
   "date": "2026-05-19",
-  "generated_at": "2026-05-19T06:04:35.556139+08:00",
-  "item_count": 20,
+  "generated_at": "2026-05-19T12:02:48.554699+08:00",
+  "item_count": 35,
   "items": [
     {
       "id": "elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai",
@@ -23,6 +23,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48182281",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "affaan-mecc",
+      "label": "affaan-m/ECC",
+      "summary": "这是一个名为 ECC 的 AI 代理性能优化系统，专为 Claude Code、Codex、Opencode、Cursor 等编码助手设计。它集成了技能、本能、记忆、安全等模块，采用研究优先的开发方法，旨在提升代理的多工具协同效率。对于 AI 产品经理，其价值在于提供统一的优化框架，可降低代理在复杂任务中的响应延迟与资源消耗，增强长期上下文的保持能力，并内置安全机制，为构建更可靠、高性能的 AI 编程助手提供了可复用的模式参考。",
+      "pm_score": 0.58,
+      "pillar": "patterns",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/affaan-m/ECC",
       "date": "2026-05-19"
     },
     {
@@ -103,6 +114,72 @@
       "date": "2026-05-19"
     },
     {
+      "id": "leveraging-graph-structure-in-seq2seq-models-for-knowledge-graph-link-prediction",
+      "label": "Leveraging Graph Structure in Seq2Seq Models for Knowledge Graph Link Prediction",
+      "summary": "本论文提出GA-S2S框架，将T5-small编码器-解码器与关系图注意力网络（RGAT）结合，用于知识图谱链接预测。传统Seq2Seq模型仅依赖文本描述，而GA-S2S通过图结构增强，利用实体关系和上下文信息提升预测准确性，弥补了纯文本模型的不足。该技术可应用于推荐系统、智能问答和知识推理等场景，为产品化知识图谱服务提供更可靠的链路预测能力。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18211v1",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "pairwise-preference-reward-and-group-based-diversity-enhancement-for-superior-op",
+      "label": "Pairwise Preference Reward and Group-Based Diversity Enhancement for Superior Op",
+      "summary": "本文提出了一种针对开放文本生成任务的强化学习改进方法。传统RL在可验证场景表现优异，但在开放式生成中验证响应正确性困难且奖励模型训练成本高。该方法采用成对偏好奖励机制替代标量奖励，并引入基于组的多样性增强策略，通过比较不同响应的相对质量来优化模型，同时保持生成内容的多样性。这降低了人工标注成本，提升模型在创意写作、对话等场景的表现。产品经理可关注其降低RLHF部署门槛、平衡质量与多样性的潜力，尤其适用于内容生成类产品。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18191v1",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "piper-content-based-table-search-via-profiling-and-llm-generated-pseudoqueries",
+      "label": "PIPER: Content-Based Table Search via profiling and LLM-Generated Pseudoqueries",
+      "summary": "PIPER 是一种基于表格内容（而非仅元数据）的搜索方法，通过数据画像（profiling）和 LLM 生成的伪查询来提升数据湖/数据空间中表格的发现效率。传统方法依赖缺失或不准确的元数据，而 PIPER 利用 LLM 自动生成模拟用户意图的查询，结合表格的列类型、值分布等特征进行匹配。该方法可显著降低数据检索门槛，助力企业快速复用和分析海量表格数据，尤其适用于数据目录、数据市场等产品场景。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18199v1",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "context-memorization-for-efficient-long-context-generation",
+      "label": "Context Memorization for Efficient Long Context Generation",
+      "summary": "现代大语言模型应用常依赖长条件前缀来控制推理行为，但前缀影响随生成过程逐渐减弱，导致长上下文生成中信息丢失。本文提出上下文记忆技术，通过高效存储和复用关键上下文，显著提升长距离依赖的保持能力。该技术可减少重复输入，增强对话连贯性和任务准确性，对客服、文档生成、写作助手等需要长期交互的产品具有直接商业价值，有望降低推理成本并提升用户体验。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18226v1",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "forward-learned-discrete-diffusion-learning-how-to-noise-to-denoise-faster",
+      "label": "Forward-Learned Discrete Diffusion: Learning how to noise to denoise faster",
+      "summary": "该研究提出了一种前向学习（Forward-Learned）的离散扩散模型，通过优化噪声添加过程来加速去噪生成。传统离散扩散模型使用因子化分布参数化逆向过程，导致学习效率低。新方法让模型主动学习如何更高效地加噪，从而在推理阶段实现更快的去噪。技术要点是改进了训练策略，使得生成速度显著提升，同时保持生成质量。商业价值在于降低离散数据（如文本、代码、分子结构）生成的计算成本和延迟，适用于实时生成、交互式AI助手等产品场景。产品创新点在于将噪声调度本身变为可学习的参数，提升了模型对任务的自适应性。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18204v1",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "spatioroute-dynamic-prompt-routing-for-zero-shot-spatial-reasoning",
+      "label": "SPATIOROUTE: Dynamic Prompt Routing for Zero-Shot Spatial Reasoning",
+      "summary": "本研究提出SPATIOROUTE，一种动态提示路由方法，用于零样本空间推理。该方法通过自动选择最合适的提示策略，引导视觉语言模型（VLM）对自我中心视频中的3D物体位置、场景属性和方向关系进行推理。技术核心在于无需微调即可适应多种空间查询，降低了模型应用成本。商业价值体现在对AR/VR辅助、机器人导航、智能视频分析等场景的快速部署。产品创新在于将空间推理能力从静态图像扩展到动态视频，且无需标注数据。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18209v1",
+      "date": "2026-05-19"
+    },
+    {
       "id": "haiku-os-runs-on-m1-macs-now",
       "label": "Haiku OS runs on M1 Macs now",
       "summary": "Haiku OS（开源轻量级操作系统）现已支持在Apple M1芯片上运行，这一技术移植使得该操作系统能够利用M1的高性能与能效。对于AI产品经理而言，这意味着未来可将AI应用部署在更紧凑、低功耗的硬件平台上，尤其适合边缘计算或特定领域的嵌入式AI场景。同时，Haiku OS的开放架构也便于定制化开发，但当前生态尚不成熟，需关注其对AI框架的兼容性进展。",
@@ -122,6 +199,83 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48185188",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "sirem-speech-informed-mri-reconstruction-with-learned-sampling",
+      "label": "SIREM: Speech-Informed MRI Reconstruction with Learned Sampling",
+      "summary": "SIREM提出了一种基于语音信息的MRI重建方法，通过可学习的采样策略优化实时语音MRI的时空分辨率权衡。该方法利用语音信号先验指导成像过程，在保持高时间分辨率的同时提升空间分辨率，有望改善发音动态的可视化质量。商业价值上，可用于语音科学研究、言语障碍临床诊断和实时语音交互系统开发，降低对高成本硬件的依赖。产品创新在于将语音模态与MRI采样学习结合，实现了更高效的实时成像。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18221v1",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "rgb-only-active-3d-scene-graph-generation-for-indoor-mobile-robots",
+      "label": "RGB-only Active 3D Scene Graph Generation for Indoor Mobile Robots",
+      "summary": "本论文提出仅依赖RGB摄像头的主动式3D场景图生成方法，无需LiDAR或RGB-D深度传感器，即可为室内移动机器人构建度量3D重建和语义场景图。该技术突破了专用深度传感器的硬件限制，降低了机器人部署成本和门槛，使普通RGB相机（如固定监控摄像头）也能实现场景理解。核心创新在于融合主动探索策略与单目深度估计，实时生成包含物体、空间关系和拓扑结构的动态场景图。对产品经理而言，这意味着低成本机器人、消费级设备可具备高级环境感知能力，拓展了家庭服务、仓储巡检等场景的落地可能性。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18197v1",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "concise-and-logically-consistent-conformal-sets-for-neuro-symbolic-concept-based",
+      "label": "Concise and Logically Consistent Conformal Sets for Neuro-Symbolic Concept-Based",
+      "summary": "该论文提出针对神经符号概念模型（NeSy-CBM）的共形集方法，通过结合神经网络的特征提取与符号推理的可靠性，为高风险应用提供更紧凑且逻辑一致的预测集。技术核心在于利用共形预测保证输出置信度，同时保持概念层面的可解释性。商业价值在于提升医疗、金融等领域的AI系统可信度，降低误判风险；产品创新体现在无需大量标注数据即可输出有统计保证的预测范围，便于产品经理构建透明、合规的AI功能。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18202v1",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "beyond-the-cartesian-illusion-testing-two-stage-multi-modal-theory-of-mind-under",
+      "label": "Beyond the Cartesian Illusion: Testing Two-Stage Multi-Modal Theory of Mind unde",
+      "summary": "论文挑战了多模态大模型的“笛卡尔幻觉”，即其空间智能受限于文本概率分布，缺乏三维拓扑理解。作者提出并测试了一种两阶段多模态心智理论方法，在感知瓶颈下评估模型对他人视角和意图的推理能力。研究发现，即使在有限视觉输入下，两阶段架构仍能部分还原空间推理，但完整3D理解仍是瓶颈。该研究揭示了当前多模态模型在具身智能中的关键缺陷，为提升导航、机器人交互等产品的空间感知能力提供了改进方向，商业价值在于推动更可靠的虚拟助手和自主系统。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18194v1",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "a-simplex-witness-certificate-for-constant-collapse-in-variational-autoencoders",
+      "label": "A Simplex Witness Certificate for Constant Collapse in Variational Autoencoders",
+      "summary": "本论文研究变分自编码器（VAE）中的“恒定崩溃”问题，即编码器均值与输入无关的失败模式。作者提出一种单纯形证人证书方法，使这种崩溃可预先设计、训练中可监控、训练后可认证。该方法在保持标准高斯先验的前提下，为生成模型的稳定性提供可验证的保障。对于AI产品经理而言，该技术可降低生成模型在实际部署中的不可预测性，提升产品可靠性，尤其适用于需要高稳定性的生成式AI应用。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18224v1",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "the-last-six-months-in-llms-in-five-minutes",
+      "label": "The last six months in LLMs in five minutes",
+      "summary": "过去六个月，LLM在推理能力（如链式思维）、多模态融合（图像、视频理解）和超长上下文窗口（百万token级）上取得突破，同时推理成本大幅下降，开源模型（如Llama 3.1、Mistral）逼近闭源水平。产品创新体现在Agent框架（自主任务执行）、代码助手（Copilot模式深化）和个性化AI助手（记忆与长期上下文）。商业上，模型降价、API服务普及加速了企业级应用落地，但幻觉控制和安全性仍是落地挑战。",
+      "pm_score": 0.415,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48188183",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "the-american-rebellion-against-ai-is-gaining-steam",
+      "label": "The American Rebellion Against AI Is Gaining Steam",
+      "summary": "文章指出美国社会对AI的反弹正在加剧，涉及隐私、版权、就业等担忧。产品经理需关注公众情绪与监管趋势，将负责任AI融入产品设计，以降低合规风险并维护用户信任。这要求产品在能力迭代的同时，同步推进透明性、数据治理与伦理框架，避免因社会抵制影响市场扩张。",
+      "pm_score": 0.41,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48188310",
       "date": "2026-05-19"
     },
     {
@@ -222,10 +376,21 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
       "date": "2026-05-19"
+    },
+    {
+      "id": "are-sparse-autoencoder-benchmarks-reliable",
+      "label": "Are Sparse Autoencoder Benchmarks Reliable?",
+      "summary": "Sparse autoencoders (SAEs) are a core interpretability tool for large language models, and progress on SAE architectures depends on benchmarks that reliably distinguish better SAEs from worse ones. We audit the SAE quality metrics in SAEBench, the de-facto standard SAE evaluation suite, through thre",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18229v1",
+      "date": "2026-05-19"
     }
   ],
   "graph_totals": {
-    "real_nodes": 602,
-    "edges": 29161
+    "real_nodes": 617,
+    "edges": 29779
   }
 }

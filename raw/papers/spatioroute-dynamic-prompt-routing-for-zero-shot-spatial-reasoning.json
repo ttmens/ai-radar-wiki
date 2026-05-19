@@ -1,0 +1,36 @@
+{
+  "title": "SPATIOROUTE: Dynamic Prompt Routing for Zero-Shot Spatial Reasoning",
+  "summary": "Spatial question answering over egocentric video is a challenging task that requires Vision-Language Models (VLMs) to reason about 3D object positions, scene affordances, and directional relationships, particularly in the zero-shot setting where no task-specific fine-tuning is available. We introduce SpatioRoute, a dynamic prompt generation approach that routes each incoming question to a semantically tailored prompt template -- without any additional training, fine-tuning, or 3D sensor input. SpatioRoute operates in two complementary modes: SpatioRoute-R, a rule-based router that deterministically maps question typologies (e.g., What, Is, How, Can, Which) to specialized prompt templates; and SpatioRoute-L, an LLM-driven approach that generates task-specific prompts from the question and situational context alone, with no video input at routing time. We evaluate SpatioRoute on the SQA3D benchmark across VLMs spanning model families. SpatioRoute achieves consistent overall accuracy gains up to 5% over fixed prompt baselines, establishing a new state-of-the-art for zero-shot video-only spatial VQA without requiring 3D point-cloud inputs. As an additional finding, we observe that Chain-of-Thought (CoT) prompting, implemented via the Think it Twice architecture, consistently degrades performance in this setting on Qwen series models, confirming that question-aware routing is more effective than uniform reasoning instructions for spatial video understanding.",
+  "url": "http://arxiv.org/abs/2605.18209v1",
+  "authors": [
+    "Pawat Chunhachatrachai",
+    "Gueter Josmy Faure",
+    "Hung-Ting Su",
+    "Winston H. Hsu"
+  ],
+  "published": "2026-05-18T10:54:55Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "vision",
+    "reasoning",
+    "fine-tuning",
+    "training",
+    "accuracy"
+  ],
+  "summary_cn": "本研究提出SPATIOROUTE，一种动态提示路由方法，用于零样本空间推理。该方法通过自动选择最合适的提示策略，引导视觉语言模型（VLM）对自我中心视频中的3D物体位置、场景属性和方向关系进行推理。技术核心在于无需微调即可适应多种空间查询，降低了模型应用成本。商业价值体现在对AR/VR辅助、机器人导航、智能视频分析等场景的快速部署。产品创新在于将空间推理能力从静态图像扩展到动态视频，且无需标注数据。",
+  "pm_relevance": 8,
+  "concepts": [
+    "零样本空间推理",
+    "动态提示路由",
+    "视觉语言模型"
+  ],
+  "entities": [
+    "SPATIOROUTE"
+  ],
+  "patterns": [
+    "零样本学习",
+    "提示工程"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "title": "A Simplex Witness Certificate for Constant Collapse in Variational Autoencoders",
+  "summary": "This note studies exact constant collapse in variational autoencoders, where the encoder mean becomes independent of the input. The goal is to make this specific failure mode pre-designable, monitorable during training, and certifiable after training. The prior is kept as the standard Gaussian. Given a fixed teacher posterior, we attach to the latent mean a fixed simplex witness head. The resulting teacher-student alignment loss has an exact constant-predictor baseline equal to the teacher information. If the alignment loss is below this baseline, the latent mean cannot be input-independent constant collapsed.\n  The simplex witness also has a closed-form inverse. Any full-support teacher posterior can be represented by embedding its centered log-odds into the latent space. This gives an explicit latent energy cost and explains when the alignment loss can be made small. A computable view gap handles the case where teacher targets are computed from a different view. Thus exact constant collapse is converted from an after-the-fact training pathology into a design-and-certificate problem.",
+  "url": "http://arxiv.org/abs/2605.18224v1",
+  "authors": [
+    "Zegu Zhang",
+    "Jianhua Peng",
+    "Jian Zhang"
+  ],
+  "published": "2026-05-18T11:09:22Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "embedding"
+  ],
+  "summary_cn": "本论文研究变分自编码器（VAE）中的“恒定崩溃”问题，即编码器均值与输入无关的失败模式。作者提出一种单纯形证人证书方法，使这种崩溃可预先设计、训练中可监控、训练后可认证。该方法在保持标准高斯先验的前提下，为生成模型的稳定性提供可验证的保障。对于AI产品经理而言，该技术可降低生成模型在实际部署中的不可预测性，提升产品可靠性，尤其适用于需要高稳定性的生成式AI应用。",
+  "pm_relevance": 7,
+  "concepts": [
+    "变分自编码器",
+    "模型崩溃",
+    "可认证AI"
+  ],
+  "entities": [],
+  "patterns": [
+    "模型崩溃预防",
+    "可训练证书"
+  ]
+}

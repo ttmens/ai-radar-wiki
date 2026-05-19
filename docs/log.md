@@ -680,3 +680,20 @@
 - create: sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-require.md
 - create: anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflar.md
 - create: show-hn-insforge-open-source-heroku-for-coding-agents.md
+
+## [2026-05-19 12:02] sync v3 | 15 new | pillars: {'patterns': 1, 'capabilities': 12, 'ecosystem': 2}
+- create: affaan-mecc.md
+- create: are-sparse-autoencoder-benchmarks-reliable.md
+- create: context-memorization-for-efficient-long-context-generation.md
+- create: a-simplex-witness-certificate-for-constant-collapse-in-variational-autoencoders.md
+- create: sirem-speech-informed-mri-reconstruction-with-learned-sampling.md
+- create: leveraging-graph-structure-in-seq2seq-models-for-knowledge-graph-link-prediction.md
+- create: spatioroute-dynamic-prompt-routing-for-zero-shot-spatial-reasoning.md
+- create: forward-learned-discrete-diffusion-learning-how-to-noise-to-denoise-faster.md
+- create: concise-and-logically-consistent-conformal-sets-for-neuro-symbolic-concept-based.md
+- create: piper-content-based-table-search-via-profiling-and-llm-generated-pseudoqueries.md
+- create: rgb-only-active-3d-scene-graph-generation-for-indoor-mobile-robots.md
+- create: beyond-the-cartesian-illusion-testing-two-stage-multi-modal-theory-of-mind-under.md
+- create: pairwise-preference-reward-and-group-based-diversity-enhancement-for-superior-op.md
+- create: the-last-six-months-in-llms-in-five-minutes.md
+- create: the-american-rebellion-against-ai-is-gaining-steam.md

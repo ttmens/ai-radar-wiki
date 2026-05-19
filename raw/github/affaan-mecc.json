@@ -1,0 +1,40 @@
+{
+  "name": "affaan-m/ECC",
+  "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "stars": 186674,
+  "language": "JavaScript",
+  "topics": [
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "developer-tools",
+    "llm",
+    "mcp",
+    "productivity"
+  ],
+  "url": "https://github.com/affaan-m/ECC",
+  "created": "2026-01-18T00:51:51Z",
+  "tag": "GitHub",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent",
+    "memory"
+  ],
+  "summary_cn": "这是一个名为 ECC 的 AI 代理性能优化系统，专为 Claude Code、Codex、Opencode、Cursor 等编码助手设计。它集成了技能、本能、记忆、安全等模块，采用研究优先的开发方法，旨在提升代理的多工具协同效率。对于 AI 产品经理，其价值在于提供统一的优化框架，可降低代理在复杂任务中的响应延迟与资源消耗，增强长期上下文的保持能力，并内置安全机制，为构建更可靠、高性能的 AI 编程助手提供了可复用的模式参考。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI Agent Performance Optimization",
+    "Agent Memory",
+    "Agent Security"
+  ],
+  "entities": [
+    "Claude Code",
+    "Codex",
+    "Cursor"
+  ],
+  "patterns": [
+    "Agent Optimization Framework",
+    "Research-First Development"
+  ]
+}

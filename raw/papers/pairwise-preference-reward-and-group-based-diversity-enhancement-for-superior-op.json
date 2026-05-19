@@ -1,0 +1,31 @@
+{
+  "title": "Pairwise Preference Reward and Group-Based Diversity Enhancement for Superior Open-Ended Generation",
+  "summary": "Current reinforcement learning(RL) methods are broadly applicable and powerful in verifiable settings where scalar rewards can be provided. However, in open-ended generation tasks, verifying the correctness of responses remains challenging, and training reward models incurs substantial computational and annotation costs. Moreover, reinforcement learning (RLVR) often leads to diversity collapse and produces stereotypical or rigid outputs, outcomes that are particularly undesirable in open-domain scenarios. We propose Pairwise Preference Reward and Group-based Diversity Enhancement (PPR-GDE), a RL method that is more suitable for open-ended generation. PPR-GDE does not require scalar rewards and incorporates group-level diversity into the reward signal, it preserves the comparative structure of subjective evaluation through a pairwise preference reward, mitigates judge position bias via repeated comparisons with swapped response order, and introduces a group-based diversity reward that explicitly encourages semantic dispersion within a response group, all of these reward signals are integrated into a unified group-relative policy optimization objective. We instantiate PPR-GDE on role-playing task, experiments show that PPR-GDE achieves a better alignment quality as well as expressive diversity than strong RL baselines. Further analysis shows that pairwise preference is critical for preference alignment in subjective perspective, while the diversity metric plays an essential role in achieving superior expressive diversity and broader semantic coverage.",
+  "url": "http://arxiv.org/abs/2605.18191v1",
+  "authors": [
+    "Guining Cao",
+    "Jiaxin Peng",
+    "Chu Zeng",
+    "Yu Zhao",
+    "Shuangyong Song"
+  ],
+  "published": "2026-05-18T10:31:34Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "optimization"
+  ],
+  "summary_cn": "本文提出了一种针对开放文本生成任务的强化学习改进方法。传统RL在可验证场景表现优异，但在开放式生成中验证响应正确性困难且奖励模型训练成本高。该方法采用成对偏好奖励机制替代标量奖励，并引入基于组的多样性增强策略，通过比较不同响应的相对质量来优化模型，同时保持生成内容的多样性。这降低了人工标注成本，提升模型在创意写作、对话等场景的表现。产品经理可关注其降低RLHF部署门槛、平衡质量与多样性的潜力，尤其适用于内容生成类产品。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Reinforcement Learning from Human Feedback",
+    "Open-Ended Generation",
+    "Preference Reward"
+  ],
+  "entities": [],
+  "patterns": [
+    "Pairwise Preference Reward",
+    "Group-Based Diversity Enhancement"
+  ]
+}
