@@ -1,0 +1,25 @@
+---
+title: Gemini Omni
+created: 2026-05-20
+updated: 2026-05-20
+type: entity
+pillar: capabilities
+pm_score: 0.53
+tags: ["discussion", "hacker-news", "capabilities"]
+sources: ["raw/hn/gemini-omni.json"]
+---
+
+# Gemini Omni
+
+## 中文摘要
+Google 推出的 Gemini Omni 是新一代多模态 AI 模型，能同时处理文本、图像、音频、视频等多种输入，并生成相应输出。该模型实现了真正的端到端多模态理解，显著提升人机交互的自然度和效率，适用于智能助手、内容创作、教育、医疗等领域。其统一架构减少了不同模态之间的信息损失，为产品创新提供了更大的灵活性，同时降低了开发多模态应用的技术门槛和成本。
+
+## PM 关注指标
+- 🔥 HN Score: 192
+- 💬 Comments: 88
+- 🎯 PM Score: 0.53
+- 🏷️ Pillar: capabilities
+
+## 链接
+- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48196609
+- 🔗 原文: https://deepmind.google/models/gemini-omni/

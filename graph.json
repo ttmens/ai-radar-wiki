@@ -65,6 +65,23 @@
       "is_today": true
     },
     {
+      "id": "gemini-35-flash",
+      "label": "Gemini 3.5 Flash",
+      "type": "hn",
+      "pillar": "capabilities",
+      "pm_score": 0.665,
+      "tags": [
+        "hn",
+        "capabilities"
+      ],
+      "summary": "Gemini 3.5 Flash 是 Google 推出的轻量化高性能模型，采用稀疏注意力或 MoE 优化架构，显著降低推理延迟和计算成本。面向实时交互场景，如客服、辅助写作和边缘设备部署，以更低价格提供接近大模型的智能水平。对产品经理而言，该模型可加速产品上线、减少云服务支出，并支持高并发应用，是成本与性能平衡的关键选项。",
+      "raw_content": "# Gemini 3.5 Flash\n\nGemini 3.5 Flash 是 Google 推出的轻量化高性能模型，采用稀疏注意力或 MoE 优化架构，显著降低推理延迟和计算成本。面向实时交互场景，如客服、辅助写作和边缘设备部署，以更低价格提供接近大模型的智能水平。对产品经理而言，该模型可加速产品上线、减少云服务支出，并支持高并发应用，是成本与性能平衡的关键选项。\n\n## 链接\n- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48196570\n- 🔗 原文: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "source_type": "hn",
+      "date": "2026-05-20",
+      "url": "https://news.ycombinator.com/item?id=48196570",
+      "is_today": true
+    },
+    {
       "id": "codex-is-now-in-the-chatgpt-mobile-app",
       "label": "Codex is now in the ChatGPT mobile app",
       "type": "hn",
@@ -3443,6 +3460,23 @@
       "is_today": false
     },
     {
+      "id": "gemini-omni",
+      "label": "Gemini Omni",
+      "type": "hn",
+      "pillar": "capabilities",
+      "pm_score": 0.53,
+      "tags": [
+        "hn",
+        "capabilities"
+      ],
+      "summary": "Google 推出的 Gemini Omni 是新一代多模态 AI 模型，能同时处理文本、图像、音频、视频等多种输入，并生成相应输出。该模型实现了真正的端到端多模态理解，显著提升人机交互的自然度和效率，适用于智能助手、内容创作、教育、医疗等领域。其统一架构减少了不同模态之间的信息损失，为产品创新提供了更大的灵活性，同时降低了开发多模态应用的技术门槛和成本。",
+      "raw_content": "# Gemini Omni\n\nGoogle 推出的 Gemini Omni 是新一代多模态 AI 模型，能同时处理文本、图像、音频、视频等多种输入，并生成相应输出。该模型实现了真正的端到端多模态理解，显著提升人机交互的自然度和效率，适用于智能助手、内容创作、教育、医疗等领域。其统一架构减少了不同模态之间的信息损失，为产品创新提供了更大的灵活性，同时降低了开发多模态应用的技术门槛和成本。\n\n## 链接\n- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48196609\n- 🔗 原文: https://deepmind.google/models/gemini-omni/",
+      "source_type": "hn",
+      "date": "2026-05-20",
+      "url": "https://news.ycombinator.com/item?id=48196609",
+      "is_today": true
+    },
+    {
       "id": "dirtyfrag-universal-linux-lpe",
       "label": "Dirtyfrag: Universal Linux LPE",
       "type": "discussion",
@@ -3482,6 +3516,23 @@
       "node_count": 3
     },
     {
+      "id": "from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phi",
+      "label": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI p",
+      "type": "techcrunch",
+      "pillar": "patterns",
+      "pm_score": 0.515,
+      "tags": [
+        "techcrunch",
+        "patterns"
+      ],
+      "summary": "Ocean 是一家提供自主智能邮件安全平台的公司，专注于防御 AI 驱动的钓鱼攻击。创始人从青少年黑客转型为铁穹研究员，带领团队获得 Lightspeed Venture Partners 的 2800 万美元融资。该平台采用 agentic 模式，自主检测和分析邮件中的深层威胁，区别于传统规则型安全方案。产品创新在于结合长期上下文理解和行为分析，对新型 AI 钓鱼具备自适应防御能力。商业价值体现在企业邮件安全市场对 AI 反钓鱼技术的迫切需求，且获得顶级风投背书。",
+      "raw_content": "# From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing\n\nOcean 是一家提供自主智能邮件安全平台的公司，专注于防御 AI 驱动的钓鱼攻击。创始人从青少年黑客转型为铁穹研究员，带领团队获得 Lightspeed Venture Partners 的 2800 万美元融资。该平台采用 agentic 模式，自主检测和分析邮件中的深层威胁，区别于传统规则型安全方案。产品创新在于结合长期上下文理解和行为分析，对新型 AI 钓鱼具备自适应防御能力。商业价值体现在企业邮件安全市场对 AI 反钓鱼技术的迫切需求，且获得顶级风投背书。\n\n## 新闻摘要\nOcean, an agentic email security platform, raised funding from Lightspeed Venture Partners.\n\n## 链接\n- 🔗 Source: https://techcrunch.com/2026/05/19/from-teen-hacker-to",
+      "source_type": "techcrunch",
+      "date": "2026-05-20",
+      "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
+      "is_today": true
+    },
+    {
       "id": "osaurus-brings-both-local-and-cloud-ai-models-to-your-mac",
       "label": "Osaurus brings both local and cloud AI models to your Mac",
       "type": "techcrunch",
@@ -3499,6 +3550,40 @@
       "is_today": false
     },
     {
+      "id": "google-search-as-you-know-it-is-over",
+      "label": "Google Search as you know it is over",
+      "type": "techcrunch",
+      "pillar": "patterns",
+      "pm_score": 0.515,
+      "tags": [
+        "techcrunch",
+        "patterns"
+      ],
+      "summary": "Google 宣布搜索将从传统链接列表全面转型为 AI 驱动的交互式体验，包括对话式回答、自主代理（Autonomous Agents）和动态界面。这一转变旨在提升用户获取信息的效率，但可能进一步减少对第三方发布商的流量依赖。对 AI 产品经理而言，需关注搜索范式从“信息检索”向“任务完成”的迁移，以及 AI Agent 如何重塑用户交互逻辑和内容分发生态，同时思考如何平衡产品体验与合作伙伴利益。",
+      "raw_content": "# Google Search as you know it is over\n\nGoogle 宣布搜索将从传统链接列表全面转型为 AI 驱动的交互式体验，包括对话式回答、自主代理（Autonomous Agents）和动态界面。这一转变旨在提升用户获取信息的效率，但可能进一步减少对第三方发布商的流量依赖。对 AI 产品经理而言，需关注搜索范式从“信息检索”向“任务完成”的迁移，以及 AI Agent 如何重塑用户交互逻辑和内容分发生态，同时思考如何平衡产品体验与合作伙伴利益。\n\n## 新闻摘要\nGoogle is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce traffic to publishers across the web.\n\n## 链接\n- 🔗 So",
+      "source_type": "techcrunch",
+      "date": "2026-05-20",
+      "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+      "is_today": true
+    },
+    {
+      "id": "googles-genie-world-model-can-now-simulate-real-streets-with-street-view",
+      "label": "Google’s Genie world model can now simulate real streets with Street View",
+      "type": "techcrunch",
+      "pillar": "capabilities",
+      "pm_score": 0.515,
+      "tags": [
+        "techcrunch",
+        "capabilities"
+      ],
+      "summary": "Google DeepMind 将街景与 Project Genie 整合，推出可模拟真实街道的交互式世界模型。该模型支持机器人训练、游戏开发、旅游体验等场景，能动态模拟环境变化（如天气、罕见事件），用户可自由探索虚拟世界。技术亮点在于利用大规模街景数据构建高保真模拟，降低现实数据采集成本，加速 AI 落地。商业价值显著：为自动驾驶、智能机器人提供安全训练环境，同时革新沉浸式旅游产品。产品创新体现在将静态地图数据转化为可交互的活体仿真平台，开启空间智能新范式。",
+      "raw_content": "# Google’s Genie world model can now simulate real streets with Street View\n\nGoogle DeepMind 将街景与 Project Genie 整合，推出可模拟真实街道的交互式世界模型。该模型支持机器人训练、游戏开发、旅游体验等场景，能动态模拟环境变化（如天气、罕见事件），用户可自由探索虚拟世界。技术亮点在于利用大规模街景数据构建高保真模拟，降低现实数据采集成本，加速 AI 落地。商业价值显著：为自动驾驶、智能机器人提供安全训练环境，同时革新沉浸式旅游产品。产品创新体现在将静态地图数据转化为可交互的活体仿真平台，开启空间智能新范式。\n\n## 新闻摘要\nGoogle DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environm",
+      "source_type": "techcrunch",
+      "date": "2026-05-20",
+      "url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
+      "is_today": true
+    },
+    {
       "id": "if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai",
       "label": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
       "type": "techcrunch",
@@ -3514,6 +3599,23 @@
       "date": "2026-05-18",
       "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
       "is_today": false
+    },
+    {
+      "id": "with-gemini-35-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots",
+      "label": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+      "type": "techcrunch",
+      "pillar": "patterns",
+      "pm_score": 0.515,
+      "tags": [
+        "techcrunch",
+        "patterns"
+      ],
+      "summary": "Google在开发者大会发布Gemini 3.5 Flash，被誉为迄今最强的编码与代理AI模型。该模型能自主执行复杂任务，并从头构建软件，标志着从聊天机器人向智能体（Agent）的范式转变。对产品经理而言，这意味可快速将复杂工作流委托给AI，降低工程成本，加速原型验证；同时需重新设计人机协作界面，平衡自主性与可控性。商业上，Google借此强化云原生AI生态，吸引开发者构建Agent驱动的应用。产品创新在于将多步推理与代码生成融合，实现端到端任务闭环。",
+      "raw_content": "# With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots\n\nGoogle在开发者大会发布Gemini 3.5 Flash，被誉为迄今最强的编码与代理AI模型。该模型能自主执行复杂任务，并从头构建软件，标志着从聊天机器人向智能体（Agent）的范式转变。对产品经理而言，这意味可快速将复杂工作流委托给AI，降低工程成本，加速原型验证；同时需重新设计人机协作界面，平衡自主性与可控性。商业上，Google借此强化云原生AI生态，吸引开发者构建Agent驱动的应用。产品创新在于将多步推理与代码生成融合，实现端到端任务闭环。\n\n## 新闻摘要\nGoogle launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tas",
+      "source_type": "techcrunch",
+      "date": "2026-05-20",
+      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+      "is_today": true
     },
     {
       "id": "the-ai-zombification-of-universities",
@@ -3686,6 +3788,23 @@
       "is_today": false
     },
     {
+      "id": "google-takes-a-page-out-of-meta8217s-book-announces-new-audio-powered-smart-glas",
+      "label": "Google takes a page out of Meta&#8217;s book, announces new audio-powered smart",
+      "type": "techcrunch",
+      "pillar": "capabilities",
+      "pm_score": 0.48,
+      "tags": [
+        "techcrunch",
+        "capabilities"
+      ],
+      "summary": "Google 推出新款音频智能眼镜，用户可通过语音指令调用 Gemini 及 Google 生态应用完成操作，无需屏幕交互。该产品聚焦音频通道，利用轻量化设计降低佩戴负担，对标 Meta 的雷朋智能眼镜，但更强调语音助手能力与多任务处理。商业上，此举可推动可穿戴设备成为 AI 原生入口，并强化 Google 在端侧 AI 的布局。产品经理需关注语音交互在无屏场景下的体验优化、Gemini 多模态能力与低功耗硬件的结合，以及基于地理位置的主动服务可能带来的隐私挑战。",
+      "raw_content": "# Google takes a page out of Meta&#8217;s book, announces new audio-powered smart glasses\n\nGoogle 推出新款音频智能眼镜，用户可通过语音指令调用 Gemini 及 Google 生态应用完成操作，无需屏幕交互。该产品聚焦音频通道，利用轻量化设计降低佩戴负担，对标 Meta 的雷朋智能眼镜，但更强调语音助手能力与多任务处理。商业上，此举可推动可穿戴设备成为 AI 原生入口，并强化 Google 在端侧 AI 的布局。产品经理需关注语音交互在无屏场景下的体验优化、Gemini 多模态能力与低功耗硬件的结合，以及基于地理位置的主动服务可能带来的隐私挑战。\n\n## 新闻摘要\nGoogle is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and serv",
+      "source_type": "techcrunch",
+      "date": "2026-05-20",
+      "url": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/",
+      "is_today": true
+    },
+    {
       "id": "why-you-can-never-get-your-doctor-to-call-you-back",
       "label": "Why you can never get your doctor to call you back",
       "type": "techcrunch",
@@ -3735,6 +3854,23 @@
       "date": "2026-05-15",
       "url": "https://news.ycombinator.com/item?id=48141234",
       "is_today": false
+    },
+    {
+      "id": "agentic-app-coding-gets-an-upgrade-with-google8217s-release-of-android-cli",
+      "label": "Agentic app coding gets an upgrade with Google&#8217;s release of Android CLI",
+      "type": "techcrunch",
+      "pillar": "ecosystem",
+      "pm_score": 0.48,
+      "tags": [
+        "techcrunch",
+        "ecosystem"
+      ],
+      "summary": "谷歌发布 Android CLI 工具，旨在为 AI 编码代理（如 Claude Code 和 OpenAI Codex）提供原生支持，使开发者或 AI 助手能通过命令行更快速地构建 Android 应用。该工具将 AI 代理的代码生成能力直接集成到 Android 开发工作流中，降低了开发门槛，提升了自动化程度。对于 AI 产品经理而言，这意味着平台级生态的进一步开放：AI 不再局限于 IDE 插件，而是可深度融入命令行工具链，加速移动应用的原型迭代和 DevOps 流程。商业价值在于缩短开发周期、降低人力成本，并可能推动 Android 生态内更多 AI-native 开发工具的涌现。",
+      "raw_content": "# Agentic app coding gets an upgrade with Google&#8217;s release of Android CLI\n\n谷歌发布 Android CLI 工具，旨在为 AI 编码代理（如 Claude Code 和 OpenAI Codex）提供原生支持，使开发者或 AI 助手能通过命令行更快速地构建 Android 应用。该工具将 AI 代理的代码生成能力直接集成到 Android 开发工作流中，降低了开发门槛，提升了自动化程度。对于 AI 产品经理而言，这意味着平台级生态的进一步开放：AI 不再局限于 IDE 插件，而是可深度融入命令行工具链，加速移动应用的原型迭代和 DevOps 流程。商业价值在于缩短开发周期、降低人力成本，并可能推动 Android 生态内更多 AI-native 开发工具的涌现。\n\n## 新闻摘要\nGoogle is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Cl",
+      "source_type": "techcrunch",
+      "date": "2026-05-20",
+      "url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
+      "is_today": true
     },
     {
       "id": "openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts",
@@ -3822,6 +3958,23 @@
       "is_today": false
     },
     {
+      "id": "google-introduces-gemini-spark-a-247-agentic-assistant-with-gmail-integration-at",
+      "label": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration,",
+      "type": "techcrunch",
+      "pillar": "patterns",
+      "pm_score": 0.48,
+      "tags": [
+        "techcrunch",
+        "patterns"
+      ],
+      "summary": "Google 在 IO 2026 大会上推出 Gemini Spark，这是一款基于 Gemini 基础模型和 Google Antigravity 代理框架打造的 24/7 全天候智能代理助手。其核心创新在于深度集成 Gmail，能够持续感知用户邮件上下文并主动执行任务（如自动回复、日程安排、信息检索），实现真正的“随叫随到”式个人助理体验。该产品标志着 Google 从传统对话式 AI 向“代理型”能力跃迁，通过 agentic harness 解决了长期运行、自主决策与工具调用等技术难题，对消费级 AI 助理的商业模式和用户粘性具有重要启示。",
+      "raw_content": "# Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026\n\nGoogle 在 IO 2026 大会上推出 Gemini Spark，这是一款基于 Gemini 基础模型和 Google Antigravity 代理框架打造的 24/7 全天候智能代理助手。其核心创新在于深度集成 Gmail，能够持续感知用户邮件上下文并主动执行任务（如自动回复、日程安排、信息检索），实现真正的“随叫随到”式个人助理体验。该产品标志着 Google 从传统对话式 AI 向“代理型”能力跃迁，通过 agentic harness 解决了长期运行、自主决策与工具调用等技术难题，对消费级 AI 助理的商业模式和用户粘性具有重要启示。\n\n## 新闻摘要\nAt the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, bu",
+      "source_type": "techcrunch",
+      "date": "2026-05-20",
+      "url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+      "is_today": true
+    },
+    {
       "id": "amazon8217s-new-alexa-powered-feature-can-generate-podcast-episodes",
       "label": "Amazon&#8217;s new Alexa+ powered feature can generate podcast episodes",
       "type": "techcrunch",
@@ -3854,6 +4007,23 @@
       "date": "2026-05-13",
       "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
       "is_today": false
+    },
+    {
+      "id": "openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models",
+      "label": "OpenAI is making it easier to check if an image was made by their models",
+      "type": "techcrunch",
+      "pillar": "capabilities",
+      "pm_score": 0.48,
+      "tags": [
+        "techcrunch",
+        "capabilities"
+      ],
+      "summary": "OpenAI 宣布两项新措施以提升 AI 生成图像的检测能力：加入开放的 C2PA（内容来源与真实性联盟）标准，为图像添加可验证的元数据凭证；并整合 Google 的 SynthID 技术，在像素级别嵌入不可见水印。此举旨在增强 AI 内容的可追溯性与可信度，对抗深度伪造和虚假信息传播，同时对监管合规与版权溯源具有商业价值。产品创新方面，OpenAI 在输出端主动嵌入来源标识，为平台方和用户提供可信验证工具，推动行业信任基础设施的建设。",
+      "raw_content": "# OpenAI is making it easier to check if an image was made by their models\n\nOpenAI 宣布两项新措施以提升 AI 生成图像的检测能力：加入开放的 C2PA（内容来源与真实性联盟）标准，为图像添加可验证的元数据凭证；并整合 Google 的 SynthID 技术，在像素级别嵌入不可见水印。此举旨在增强 AI 内容的可追溯性与可信度，对抗深度伪造和虚假信息传播，同时对监管合规与版权溯源具有商业价值。产品创新方面，OpenAI 在输出端主动嵌入来源标识，为平台方和用户提供可信验证工具，推动行业信任基础设施的建设。\n\n## 新闻摘要\nOpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.\n\n## 链接\n- 🔗 Source: https://techcrunch.com/2026/",
+      "source_type": "techcrunch",
+      "date": "2026-05-20",
+      "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
+      "is_today": true
     },
     {
       "id": "voice-ai-in-india-is-hard-wispr-flow-is-betting-o",
@@ -3905,6 +4075,57 @@
       "date": "2026-05-15",
       "url": "https://news.ycombinator.com/item?id=48136240",
       "is_today": false
+    },
+    {
+      "id": "google8217s-ai-studio-now-lets-anyone-build-android-apps-in-minutes",
+      "label": "Google&#8217;s AI Studio now lets anyone build Android apps in minutes",
+      "type": "techcrunch",
+      "pillar": "capabilities",
+      "pm_score": 0.48,
+      "tags": [
+        "techcrunch",
+        "capabilities"
+      ],
+      "summary": "Google 推出基于 Web 的 AI Studio 工具，允许用户通过自然语言描述在几分钟内生成原生 Android 应用。该工具利用大语言模型自动生成 UI 布局、逻辑代码和资源文件，无需手动编写代码，显著降低移动应用开发门槛。商业价值在于赋能非技术用户快速验证创意，加速原型迭代，同时可能改变应用开发流程，使 AI 成为核心生产力工具。产品创新体现在将 AI 能力深度集成到 Android 开发环境，支持实时预览与修改，展示生成式 AI 从文本到完整应用的跨越。",
+      "raw_content": "# Google&#8217;s AI Studio now lets anyone build Android apps in minutes\n\nGoogle 推出基于 Web 的 AI Studio 工具，允许用户通过自然语言描述在几分钟内生成原生 Android 应用。该工具利用大语言模型自动生成 UI 布局、逻辑代码和资源文件，无需手动编写代码，显著降低移动应用开发门槛。商业价值在于赋能非技术用户快速验证创意，加速原型迭代，同时可能改变应用开发流程，使 AI 成为核心生产力工具。产品创新体现在将 AI 能力深度集成到 Android 开发环境，支持实时预览与修改，展示生成式 AI 从文本到完整应用的跨越。\n\n## 新闻摘要\nGoogle unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.\n\n## 链接\n- 🔗 Source: ht",
+      "source_type": "techcrunch",
+      "date": "2026-05-20",
+      "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
+      "is_today": true
+    },
+    {
+      "id": "google8217s-new-universal-cart-wants-to-follow-your-entire-shopping-journey-acro",
+      "label": "Google&#8217;s new Universal Cart wants to follow your entire shopping journey a",
+      "type": "techcrunch",
+      "pillar": "patterns",
+      "pm_score": 0.48,
+      "tags": [
+        "techcrunch",
+        "patterns"
+      ],
+      "summary": "Google 推出 Universal Cart，旨在跨设备和零售商追踪用户的完整购物旅程。该功能通过持久化购物车状态，让用户在不同设备（手机、电脑）和不同商家之间无缝切换，无需重复添加商品。技术要点包括跨域会话管理、用户身份统一、实时价格更新；商业价值在于提升转化率和用户粘性；产品创新在于打破传统购物车的数据孤岛，形成底层购物上下文层。",
+      "raw_content": "# Google&#8217;s new Universal Cart wants to follow your entire shopping journey across the internet\n\nGoogle 推出 Universal Cart，旨在跨设备和零售商追踪用户的完整购物旅程。该功能通过持久化购物车状态，让用户在不同设备（手机、电脑）和不同商家之间无缝切换，无需重复添加商品。技术要点包括跨域会话管理、用户身份统一、实时价格更新；商业价值在于提升转化率和用户粘性；产品创新在于打破传统购物车的数据孤岛，形成底层购物上下文层。\n\n## 新闻摘要\nMost people shop across multiple devices, many retailers, and over the course of many days, which is why Google is launching Universal Cart.\n\n## 链接\n- 🔗 Source: https://techcrunch.com/2026/05/19/googles-new-universal-ca",
+      "source_type": "techcrunch",
+      "date": "2026-05-20",
+      "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/",
+      "is_today": true
+    },
+    {
+      "id": "how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches",
+      "label": "How to use Google’s new AI agents to go beyond your standard searches",
+      "type": "techcrunch",
+      "pillar": "patterns",
+      "pm_score": 0.48,
+      "tags": [
+        "techcrunch",
+        "patterns"
+      ],
+      "summary": "Google 推出新型 AI 信息代理，超越传统搜索模式。这些代理能够在后台持续监控用户指定的主题，并主动推送更新与变化，实现从被动检索到主动服务的转变。对产品经理而言，这一创新意味着用户获取信息的方式将从“搜索”进化为“订阅+提醒”，极大提升信息获取效率与用户粘性。商业价值在于可嵌入各类应用（如新闻、电商、工作流），形成新的流量入口。技术要点包括持续学习用户兴趣、鲁棒的背景执行与低延迟推送机制。",
+      "raw_content": "# How to use Google’s new AI agents to go beyond your standard searches\n\nGoogle 推出新型 AI 信息代理，超越传统搜索模式。这些代理能够在后台持续监控用户指定的主题，并主动推送更新与变化，实现从被动检索到主动服务的转变。对产品经理而言，这一创新意味着用户获取信息的方式将从“搜索”进化为“订阅+提醒”，极大提升信息获取效率与用户粘性。商业价值在于可嵌入各类应用（如新闻、电商、工作流），形成新的流量入口。技术要点包括持续学习用户兴趣、鲁棒的背景执行与低延迟推送机制。\n\n## 新闻摘要\nGoogle is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.\n\n## 链接\n- 🔗 Source: https://techcrunch.com/2026/05/19/how-to-use-googles",
+      "source_type": "techcrunch",
+      "date": "2026-05-20",
+      "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+      "is_today": true
     },
     {
       "id": "enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo",
@@ -4058,6 +4279,23 @@
       "date": "2026-05-15",
       "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
       "is_today": false
+    },
+    {
+      "id": "google-launches-antigravity-20-with-an-updated-desktop-app-and-cli-tool-at-io-20",
+      "label": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2",
+      "type": "techcrunch",
+      "pillar": "capabilities",
+      "pm_score": 0.48,
+      "tags": [
+        "techcrunch",
+        "capabilities"
+      ],
+      "summary": "Google在IO 2026大会上发布Antigravity 2.0，同步更新桌面应用与CLI工具。同时推出AI Ultra订阅计划，定价100美元/月，提供比AI Pro计划高5倍的使用配额，旨在满足重度AI用户需求。这一举措强化了Google在AI工具生态中的产品分层策略，通过提升容量门槛吸引企业级与高端个人用户，同时降低终端使用门槛。Antigravity 2.0的桌面与CLI的更新，体现了从云端服务向本地高效交互的演进，未来可能成为AI产品经理关注的高频工具与商业模式创新的方向。",
+      "raw_content": "# Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026\n\nGoogle在IO 2026大会上发布Antigravity 2.0，同步更新桌面应用与CLI工具。同时推出AI Ultra订阅计划，定价100美元/月，提供比AI Pro计划高5倍的使用配额，旨在满足重度AI用户需求。这一举措强化了Google在AI工具生态中的产品分层策略，通过提升容量门槛吸引企业级与高端个人用户，同时降低终端使用门槛。Antigravity 2.0的桌面与CLI的更新，体现了从云端服务向本地高效交互的演进，未来可能成为AI产品经理关注的高频工具与商业模式创新的方向。\n\n## 新闻摘要\nGoogle is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside the Antigravity 2.0 launch.\n\n",
+      "source_type": "techcrunch",
+      "date": "2026-05-20",
+      "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
+      "is_today": true
     },
     {
       "id": "anthropic-courts-a-new-kind-of-customer-small-bus",
@@ -4780,6 +5018,23 @@
       "is_today": false
     },
     {
+      "id": "openai-adopts-googles-synthid-watermark-for-ai-images-with-verification-tool",
+      "label": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "type": "hn",
+      "pillar": "capabilities",
+      "pm_score": 0.465,
+      "tags": [
+        "hn",
+        "capabilities"
+      ],
+      "summary": "OpenAI 宣布采用 Google DeepMind 开发的 SynthID 隐形水印技术，为 AI 生成的图像添加不可见的数字水印，并同步推出验证工具。此举旨在提升 AI 内容的可溯源性，对抗深度伪造和虚假信息。对产品经理而言，这标志着行业向标准化内容溯源迈进，可增强用户信任、满足监管合规要求。SynthID 水印具有抗编辑能力，即使经过裁剪、压缩等操作仍能被检测。该合作或推动跨平台内容安全模式的形成，为企业级 AI 产品部署提供信任基础。",
+      "raw_content": "# OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool\n\nOpenAI 宣布采用 Google DeepMind 开发的 SynthID 隐形水印技术，为 AI 生成的图像添加不可见的数字水印，并同步推出验证工具。此举旨在提升 AI 内容的可溯源性，对抗深度伪造和虚假信息。对产品经理而言，这标志着行业向标准化内容溯源迈进，可增强用户信任、满足监管合规要求。SynthID 水印具有抗编辑能力，即使经过裁剪、压缩等操作仍能被检测。该合作或推动跨平台内容安全模式的形成，为企业级 AI 产品部署提供信任基础。\n\n## 链接\n- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48198291\n- 🔗 原文: https://openai.com/index/advancing-content-provenance/",
+      "source_type": "hn",
+      "date": "2026-05-20",
+      "url": "https://news.ycombinator.com/item?id=48198291",
+      "is_today": true
+    },
+    {
       "id": "metas-embrace-of-ai-is-making-its-employees-miser",
       "label": "Meta's embrace of AI is making its employees miserable",
       "type": "hn",
@@ -5104,6 +5359,23 @@
       "date": "2026-05-15",
       "url": "https://news.ycombinator.com/item?id=48146424",
       "is_today": false
+    },
+    {
+      "id": "google-just-declared-itself-a-contender-in-ai-design-at-io-2026",
+      "label": "Google just declared itself a contender in AI design at IO 2026",
+      "type": "techcrunch",
+      "pillar": "capabilities",
+      "pm_score": 0.445,
+      "tags": [
+        "techcrunch",
+        "capabilities"
+      ],
+      "summary": "Google在IO 2026大会上宣布其AI设计应用正式成为业界有力竞争者。该应用的核心设计理念是降低使用门槛，使从教师到小企业主的各类用户都能轻松上手。技术要点上，Google可能在底层集成了先进的生成式AI与简化的交互界面，实现无代码或低代码的AI设计能力。商业价值方面，此举有望扩大AI工具的用户基数，推动设计民主化，并可能通过云端服务或订阅模式变现。产品创新体现在对非技术用户的深度关怀，强调人人可用的易用性，将专业AI设计能力转化为直观的在线工具。",
+      "raw_content": "# Google just declared itself a contender in AI design at IO 2026\n\nGoogle在IO 2026大会上宣布其AI设计应用正式成为业界有力竞争者。该应用的核心设计理念是降低使用门槛，使从教师到小企业主的各类用户都能轻松上手。技术要点上，Google可能在底层集成了先进的生成式AI与简化的交互界面，实现无代码或低代码的AI设计能力。商业价值方面，此举有望扩大AI工具的用户基数，推动设计民主化，并可能通过云端服务或订阅模式变现。产品创新体现在对非技术用户的深度关怀，强调人人可用的易用性，将专业AI设计能力转化为直观的在线工具。\n\n## 新闻摘要\nGoogle says it's designed the app to be accessible to everyone, from teachers to small business owners.\n\n## 链接\n- 🔗 Source: https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-batt",
+      "source_type": "techcrunch",
+      "date": "2026-05-20",
+      "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+      "is_today": true
     },
     {
       "id": "research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the",
@@ -5631,6 +5903,23 @@
       "date": "2026-05-11",
       "url": "https://news.ycombinator.com/item?id=48082021",
       "is_today": false
+    },
+    {
+      "id": "mistral-ai-acquires-emmi-ai-to-create-the-leading-ai-stack",
+      "label": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
+      "type": "hn",
+      "pillar": "business",
+      "pm_score": 0.43,
+      "tags": [
+        "hn",
+        "business"
+      ],
+      "summary": "Mistral AI 宣布收购 Emmi AI，旨在整合双方技术与资源，打造领先的全栈 AI 能力。此次收购将提升 Mistral 在基础模型、工具链和企业级部署方面的竞争力，形成从模型研发到应用落地的完整堆栈。对产品经理而言，此举意味着更快获取多模态、长上下文等前沿能力，并可能加速推出集成化 API 与平台服务，降低企业接入门槛。收购也反映了 AI 行业通过并购强化产品生态的趋势。",
+      "raw_content": "# Mistral AI Acquires Emmi AI to Create the Leading AI Stack\n\nMistral AI 宣布收购 Emmi AI，旨在整合双方技术与资源，打造领先的全栈 AI 能力。此次收购将提升 Mistral 在基础模型、工具链和企业级部署方面的竞争力，形成从模型研发到应用落地的完整堆栈。对产品经理而言，此举意味着更快获取多模态、长上下文等前沿能力，并可能加速推出集成化 API 与平台服务，降低企业接入门槛。收购也反映了 AI 行业通过并购强化产品生态的趋势。\n\n## 链接\n- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48197995\n- 🔗 原文: https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "source_type": "hn",
+      "date": "2026-05-20",
+      "url": "https://news.ycombinator.com/item?id=48197995",
+      "is_today": true
     },
     {
       "id": "you-dont-align-an-ai-you-align-with-it",
@@ -6688,6 +6977,23 @@
       "is_today": false
     },
     {
+      "id": "copy-fail-dirty-frag-and-fragnesia-kernel-vulnerabilities",
+      "label": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
+      "type": "hn",
+      "pillar": "ecosystem",
+      "pm_score": 0.395,
+      "tags": [
+        "hn",
+        "ecosystem"
+      ],
+      "summary": "该标题提及三种内核漏洞（Copy Fail、Dirty Frag和Fragnesia），虽然未提供详细摘要，但此类系统级安全缺陷直接影响AI产品的可靠性、数据完整性和运行稳定性。产品经理需关注漏洞对部署环境（如云端或边缘设备）的潜在威胁，优先协调工程团队进行补丁升级，并评估对用户数据隐私和模型推理性能的影响。此外，该信息提醒PM在技术选型中应纳入安全评估指标，防范因底层漏洞引发的产品事故。",
+      "raw_content": "# Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities\n\n该标题提及三种内核漏洞（Copy Fail、Dirty Frag和Fragnesia），虽然未提供详细摘要，但此类系统级安全缺陷直接影响AI产品的可靠性、数据完整性和运行稳定性。产品经理需关注漏洞对部署环境（如云端或边缘设备）的潜在威胁，优先协调工程团队进行补丁升级，并评估对用户数据隐私和模型推理性能的影响。此外，该信息提醒PM在技术选型中应纳入安全评估指标，防范因底层漏洞引发的产品事故。\n\n## 链接\n- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48194614\n- 🔗 原文: https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
+      "source_type": "hn",
+      "date": "2026-05-20",
+      "url": "https://news.ycombinator.com/item?id=48194614",
+      "is_today": true
+    },
+    {
       "id": "voice-ai-systems-are-vulnerable-to-hidden-audio-attacks",
       "label": "Voice AI Systems Are Vulnerable to Hidden Audio Attacks",
       "type": "hn",
@@ -6703,6 +7009,23 @@
       "date": "2026-05-19",
       "url": "https://news.ycombinator.com/item?id=48178378",
       "is_today": false
+    },
+    {
+      "id": "intro-to-tla-for-the-llm-era-prompt-your-way-to-victory",
+      "label": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
+      "type": "hn",
+      "pillar": "capabilities",
+      "pm_score": 0.395,
+      "tags": [
+        "hn",
+        "capabilities"
+      ],
+      "summary": "本文介绍在LLM时代使用TLA+（一种形式化规范语言）通过提示工程优化AI行为。核心观点是：将TLA+的严谨性融入prompt设计，能够帮助PM和工程师定义精确的逻辑约束，减少LLM输出中的歧义与幻觉，提升系统可靠性。这对于构建需要高安全性的AI产品（如代码生成、决策支持）具有直接商业价值。产品创新点在于将传统软件验证工具与自然语言提示结合，创造出一种“可验证的提示”新模式，有望成为AI产品开发的标准实践。",
+      "raw_content": "# Intro to TLA+ for the LLM Era: Prompt Your Way to Victory\n\n本文介绍在LLM时代使用TLA+（一种形式化规范语言）通过提示工程优化AI行为。核心观点是：将TLA+的严谨性融入prompt设计，能够帮助PM和工程师定义精确的逻辑约束，减少LLM输出中的歧义与幻觉，提升系统可靠性。这对于构建需要高安全性的AI产品（如代码生成、决策支持）具有直接商业价值。产品创新点在于将传统软件验证工具与自然语言提示结合，创造出一种“可验证的提示”新模式，有望成为AI产品开发的标准实践。\n\n## 链接\n- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48170007\n- 🔗 原文: https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
+      "source_type": "hn",
+      "date": "2026-05-20",
+      "url": "https://news.ycombinator.com/item?id=48170007",
+      "is_today": true
     },
     {
       "id": "layer-equivalence-is-not-a-property-of-layers-alone-how-you-test-redundancy-chan",
@@ -7026,6 +7349,23 @@
       "date": "2026-05-09",
       "url": "https://news.ycombinator.com/item?id=48069192",
       "is_today": false
+    },
+    {
+      "id": "elon-musk-said-sam-altman-8220stole8221-a-non-profit-but-the-trial-showed-he-had",
+      "label": "Elon Musk said Sam Altman &#8220;stole&#8221; a non-profit — but the trial showe",
+      "type": "techcrunch",
+      "pillar": "business",
+      "pm_score": 0.375,
+      "tags": [
+        "techcrunch",
+        "business"
+      ],
+      "summary": "Elon Musk与Sam Altman关于OpenAI从非营利组织转变为营利实体的法律纠纷中，审判揭示双方早期目标相似，即推动AI发展。Musk指控Altman“窃取”非营利初衷，但证据显示两人曾共同愿景。该案影响AI行业治理、非营利转营利模式的合法性，以及OpenAI产品商业化方向。产品经理应关注AI公司治理结构如何影响产品路线图、开放性与盈利平衡。",
+      "raw_content": "# Elon Musk said Sam Altman &#8220;stole&#8221; a non-profit — but the trial showed he had similar aims\n\nElon Musk与Sam Altman关于OpenAI从非营利组织转变为营利实体的法律纠纷中，审判揭示双方早期目标相似，即推动AI发展。Musk指控Altman“窃取”非营利初衷，但证据显示两人曾共同愿景。该案影响AI行业治理、非营利转营利模式的合法性，以及OpenAI产品商业化方向。产品经理应关注AI公司治理结构如何影响产品路线图、开放性与盈利平衡。\n\n## 新闻摘要\n“By the end of this week, you and Sam will be the most hated men in America.”\n\n## 链接\n- 🔗 Source: https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-sim",
+      "source_type": "techcrunch",
+      "date": "2026-05-20",
+      "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+      "is_today": true
     },
     {
       "id": "what-is-learnable-in-valiants-theory-of-the-learnable",
@@ -7777,6 +8117,23 @@
       "is_today": false
     },
     {
+      "id": "comically-bad-datasets-used-to-train-clinical-models-for-stroke-and-diabetes",
+      "label": "'Comically bad' datasets used to train clinical models for stroke and diabetes",
+      "type": "hn",
+      "pillar": "capabilities",
+      "pm_score": 0.33,
+      "tags": [
+        "hn",
+        "capabilities"
+      ],
+      "summary": "一项研究发现用于训练中风和糖尿病临床AI模型的数据集存在严重质量问题，被形容为‘可笑地糟糕’。这导致模型预测不准确，可能误导临床决策。对AI产品经理而言，该事件凸显了数据治理（Data Governance）在医疗AI产品中的极端重要性——低质量训练数据会直接破坏产品可信度与业务价值。商业启示是：在进入高风险医疗垂直领域时，必须建立严格的数据审计流程，避免因训练数据偏差导致的产品失效或法律风险。产品创新方向可关注数据质量自动检测工具或合成数据补充方案。",
+      "raw_content": "# 'Comically bad' datasets used to train clinical models for stroke and diabetes\n\n一项研究发现用于训练中风和糖尿病临床AI模型的数据集存在严重质量问题，被形容为‘可笑地糟糕’。这导致模型预测不准确，可能误导临床决策。对AI产品经理而言，该事件凸显了数据治理（Data Governance）在医疗AI产品中的极端重要性——低质量训练数据会直接破坏产品可信度与业务价值。商业启示是：在进入高风险医疗垂直领域时，必须建立严格的数据审计流程，避免因训练数据偏差导致的产品失效或法律风险。产品创新方向可关注数据质量自动检测工具或合成数据补充方案。\n\n## 链接\n- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48196229\n- 🔗 原文: https://retractionwatch.com/2026/05/18/kaggle-dataset-clinical-models-stroke-diabetes/",
+      "source_type": "hn",
+      "date": "2026-05-20",
+      "url": "https://news.ycombinator.com/item?id=48196229",
+      "is_today": true
+    },
+    {
       "id": "deepseek-v4-flash-means-llm-steering-is-interesting-again",
       "label": "DeepSeek-V4-Flash means LLM steering is interesting again",
       "type": "hn",
@@ -8087,6 +8444,23 @@
       "is_today": false
     },
     {
+      "id": "you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026",
+      "label": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+      "type": "techcrunch",
+      "pillar": "patterns",
+      "pm_score": 0.305,
+      "tags": [
+        "techcrunch",
+        "patterns"
+      ],
+      "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+      "raw_content": "# You can now talk to your Gmail inbox, as seen at Google IO 2026\n\n暂无中文摘要\n\n## 新闻摘要\nGoogle expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.\n\n## 链接\n- 🔗 Source: https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/\n- 📅 Published: Tue, 19 May 2026 21:25:31 +0000",
+      "source_type": "techcrunch",
+      "date": "2026-05-20",
+      "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+      "is_today": true
+    },
+    {
       "id": "llms-corrupt-your-documents-when-you-delegate",
       "label": "LLMs Corrupt Your Documents When You Delegate",
       "type": "hn",
@@ -8289,6 +8663,23 @@
       "date": "2026-05-14",
       "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
       "is_today": false
+    },
+    {
+      "id": "show-hn-forge-guardrails-take-an-8b-model-from-53-to-99-on-agentic-tasks",
+      "label": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "type": "hn",
+      "pillar": "patterns",
+      "pm_score": 0.305,
+      "tags": [
+        "hn",
+        "patterns"
+      ],
+      "summary": "暂无中文摘要",
+      "raw_content": "# Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks\n\n暂无中文摘要\n\n## 链接\n- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48192383\n- 🔗 原文: https://github.com/antoinezambelli/forge",
+      "source_type": "hn",
+      "date": "2026-05-20",
+      "url": "https://news.ycombinator.com/item?id=48192383",
+      "is_today": true
     },
     {
       "id": "were-feeling-cynical-about-xais-big-deal-with-an",
@@ -9645,6 +10036,23 @@
       "date": "2026-05-19",
       "url": "https://github.com/Asymptote-Labs/agent-beacon",
       "is_today": false
+    },
+    {
+      "id": "growing-neural-cellular-automata",
+      "label": "Growing Neural Cellular Automata",
+      "type": "hn",
+      "pillar": "capabilities",
+      "pm_score": 0.295,
+      "tags": [
+        "hn",
+        "capabilities"
+      ],
+      "summary": "Growing Neural Cellular Automata（NCA）是一种将神经网络嵌入细胞自动机框架的自组织计算模型。每个细胞根据局部感知更新状态，通过训练产生全局涌现行为，如形状生长、纹理生成或运动控制。技术要点在于利用可微编程实现端到端学习，无需显式规则设计。商业价值体现在游戏资产自动生成、动态交互环境、自修复结构等创意自动化场景，能显著降低人工设计成本。产品创新方向包括实时模拟、生成式设计工具与物理世界数字孪生。",
+      "raw_content": "# Growing Neural Cellular Automata\n\nGrowing Neural Cellular Automata（NCA）是一种将神经网络嵌入细胞自动机框架的自组织计算模型。每个细胞根据局部感知更新状态，通过训练产生全局涌现行为，如形状生长、纹理生成或运动控制。技术要点在于利用可微编程实现端到端学习，无需显式规则设计。商业价值体现在游戏资产自动生成、动态交互环境、自修复结构等创意自动化场景，能显著降低人工设计成本。产品创新方向包括实时模拟、生成式设计工具与物理世界数字孪生。\n\n## 链接\n- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48172320\n- 🔗 原文: https://distill.pub/2020/growing-ca/",
+      "source_type": "hn",
+      "date": "2026-05-20",
+      "url": "https://news.ycombinator.com/item?id=48172320",
+      "is_today": true
     },
     {
       "id": "show-hn-a-dark-cave-minimalistic-graphics-in-the-age-of-ai-slop",
@@ -11318,6 +11726,4654 @@
     }
   ],
   "edges": [
+    {
+      "source": "microsoftsemantic-kernel",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "interpretmlinterpret",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "programbench-can-language-models-rebuild-programs",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1025
+    },
+    {
+      "source": "cursing-the-government-does-not-fix-potholes-spray-painting-them-does",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.155
+    },
+    {
+      "source": "bytedancedeer-flow",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "meilisearchmeilisearch",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "tesseract-ocrtesseract",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "hmbowndeepseek-tui",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "show-hn-adamsreview-better-multi-agent-pr-revie",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "sansan0trendradar",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "task-paralysis-and-ai",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "spain-has-become-one-of-europes-cheapest-power-ma",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "why-senior-developers-fail-to-communicate-their-ex",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2125
+    },
+    {
+      "source": "there-aren8217t-enough-rockets-for-space-data-c",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "openclawopenclaw",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "photoprismphotoprism",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "safari-and-firefox-change-how-big-sites-render-based-on-the-domain",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1475
+    },
+    {
+      "source": "ps3-emulator-devs-politely-ask-that-people-stop-fl",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "daviskingdlib",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2725
+    },
+    {
+      "source": "the-art-of-hackingh4cker",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "lukasmasuchbest-of-ml-python",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "poppy-debuts-a-proactive-ai-assistant-to-help-orga",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "making-the-news-available-at-no-cost-is-a-victory",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "barry-diller-trusts-sam-altman-but-8216trust-i",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.075
+    },
+    {
+      "source": "silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-p",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "asgeirtjsystem_prompts_leaks",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "a-claude-code-and-codex-skill-for-deliberate-skill-development",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "ultralyticsyolov5",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "show-hn-crit-local-review-tool-for-agent-plans",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "if-ai-writes-your-code-why-use-python",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "university-of-arizona-students-boo-eric-schmidts-ai-cheerleading",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1725
+    },
+    {
+      "source": "interaction-models",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "mlflowmlflow",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "openai-and-government-of-malta-partner-to-roll-out-chatgpt-plus-to-all-citizens",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2825
+    },
+    {
+      "source": "openai-is-connecting-chatgpt-to-bank-accounts-via-plaid",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.285
+    },
+    {
+      "source": "local-ai-needs-to-be-the-norm",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2125
+    },
+    {
+      "source": "get-ready-for-the-whisper-filled-office-of-the-fut",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "israels-ai-targeting-system-how-data-from-a-phon",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "firecrawlfirecrawl",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "affaan-mecc",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phi",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2575
+    },
+    {
+      "source": "ccfddlccf-deadlines",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "iran-starts-bitcoin-backed-ship-insurance-for-hormuz-strait",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "mindsdbminds-platform",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "hacksiderdeep-live-cam",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "my-domain-got-abused-on-github-pages",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.13
+    },
+    {
+      "source": "huggingfacediffusers",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "who-trusts-sam-altman",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "huggingfacetransformers",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "notion-just-turned-its-workspace-into-a-hub-for-ai",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "oxcaml-in-space",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1375
+    },
+    {
+      "source": "ethicalmlawesome-production-machine-learning",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "google-takes-a-page-out-of-meta8217s-book-announces-new-audio-powered-smart-glas",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "marimo-teammarimo",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "mempalacemempalace",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.315
+    },
+    {
+      "source": "x1xhlolsystem-prompts-and-models-of-ai-tools",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "snap-says-its-400m-deal-with-perplexity-8216am",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "the-main-thing-about-p2p-meth-is-that-theres-so-much-of-it-2021",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "why-you-can-never-get-your-doctor-to-call-you-back",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "musk-mulled-handing-openai-to-his-children-altman",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "blaise-a-modern-self-hosting-zero-legacy-object",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "datawhalechinahappy-llm",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "google-deepmindsonnet",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2475
+    },
+    {
+      "source": "osaurus-brings-both-local-and-cloud-ai-models-to-your-mac",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2575
+    },
+    {
+      "source": "show-hn-explore-color-palettes-inspired-by-3000-m",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "ai-voice-startup-vapi-hits-500m-valuation-after-w",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "too-dangerous-or-just-too-expensive-the-real-reason-anthropic-is-hiding-mythos",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.19
+    },
+    {
+      "source": "google-search-as-you-know-it-is-over",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2575
+    },
+    {
+      "source": "show-hn-needle-we-distilled-gemini-tool-calling",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "dbeaverdbeaver",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2725
+    },
+    {
+      "source": "hardening-firefox-with-claude-mythos-preview",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "linshenkxprompt-optimizer",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "academic-research-skills-for-claude-code",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1975
+    },
+    {
+      "source": "you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "apple-to-pay-250m-to-settle-lawsuit-over-siri82",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.075
+    },
+    {
+      "source": "llms-corrupt-your-documents-when-you-delegate",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "unstructured-iounstructured",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "tinder-owner-match-group-is-slowing-hiring-to-pay",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.075
+    },
+    {
+      "source": "alignment-pretraining-ai-discourse-creates-self-fulfilling-misalignment",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.215
+    },
+    {
+      "source": "fastaifastai",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "spotify8217s-ai-dj-now-supports-french-german",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "microsoftonnxruntime",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "can-someone-please-explain-whether-cloudflare-blac",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "significant-gravitasautogpt",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "dmlcxgboost",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "wirestock-raises-23m-to-supply-creative-multi-modal-data-to-ai-labs",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "trials-on-veterans-suggest-ibogaine-could-provide-a-new-treatment-for-ptsd",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.135
+    },
+    {
+      "source": "gradio-appgradio",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "setting-up-a-free-citystateus-locality-domain",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "hpcaitechcolossalai",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "claude-code-cve-2026-39861sandbox-escape-via-syml",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "the-four-horsemen-of-the-llm-apocalypse",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "google-geminigemini-cli",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "khosla-backed-robotics-startup-genesis-ai-has-gone",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "claude-for-legal",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "mage-aimage-ai",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "a-polynomial-autoencoder-beats-pca-on-transformer",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "no-more-jetbrains-products-for-me",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2325
+    },
+    {
+      "source": "show-hn-gigacatalyst-extend-your-saas-with-an-e",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "google8217s-8216create-my-widget8217-feat",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "agentic-app-coding-gets-an-upgrade-with-google8217s-release-of-android-cli",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "thedotmackclaude-mem",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "the-wonders-of-ai-we-are-retiring-our-bug-bounty-program",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "whatsapp-adds-an-incognito-mode-in-meta-ai-chats",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "pytorchpytorch",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "show-hn-i-built-an-open-source-email-builder-alt",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.175
+    },
+    {
+      "source": "thinking-machines-wants-to-build-an-ai-that-actual",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "codex-is-now-in-the-chatgpt-mobile-app",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3175
+    },
+    {
+      "source": "googles-genie-world-model-can-now-simulate-real-streets-with-street-view",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2575
+    },
+    {
+      "source": "jingyaogongminimind-v",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "bee-sanciphey",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2725
+    },
+    {
+      "source": "postmortem-tanstack-npm-supply-chain-compromise",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.305
+    },
+    {
+      "source": "openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "show-hn-watch-a-neural-net-learn-to-play-snake",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.18
+    },
+    {
+      "source": "jeinlee1991chinese-llm-benchmark",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "prolog-basics-explained-with-pokémon",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "a-recent-experience-with-chatgpt-55-pro",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "kv4p-ht-a-homebrew-1w-radio-vhf-or-uhf-that-plugs-into-an-android-phone",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "the-ai-legal-services-industry-is-heating-up-ant",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "spring-projectsspring-ai",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "fake-building-claude-wrote-3k-lines-instead-of-im",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "chromes-ai-features-may-be-hogging-4gb-of-your-co",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "canvas-online-again-as-shinyhunters-threatens-to-l",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2525
+    },
+    {
+      "source": "agora-1-the-multi-agent-world-model",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.19
+    },
+    {
+      "source": "we-stopped-ai-bot-spam-in-our-github-repo-using-gits-author-flag",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1725
+    },
+    {
+      "source": "mishushakovllm-scraper",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "danny-avilalibrechat",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "hiyougallamafactory",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "wkentarolabelme",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "lightning-aipytorch-lightning",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "zhulinsendaily_stock_analysis",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "unslothaiunsloth",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "laid-off-oracle-workers-tried-to-negotiate-better",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "agentic-trading-with-safe-guardrails",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "deeplearning4jdeeplearning4j",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "hesreallyhimawesome-claude-code",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "sillytavernsillytavern",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "mini-shai-hulud-strikes-again-314-npm-packages-compromised",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1975
+    },
+    {
+      "source": "openbb-financeopenbb",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "berriailitellm",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "we-let-ais-run-radio-stations",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "anthropic8217s-cat-wu-says-that-in-the-future",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "lobehublobehub",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "running-local-models-on-an-m4-with-24gb-memory",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "2noisechattts",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "δ-mem-efficient-online-memory-for-large-language-models",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "training-an-llm-in-swift-part-1-taking-matrix-mu",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.19
+    },
+    {
+      "source": "elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.305
+    },
+    {
+      "source": "new-stainless-steel-can-survive-conditions-for-hyd",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "i-let-ai-build-a-tool-to-help-me-figure-out-what-w",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1025
+    },
+    {
+      "source": "usda-projects-smallest-us-wheat-harvest-since-1972-due-to-plains-drought",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "gmail-registration-now-requires-scanning-a-qr-code",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2825
+    },
+    {
+      "source": "teaching-claude-why",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "using-claude-code-the-unreasonable-effectiveness",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "langchain-ailanggraph",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "adaption-aims-big-with-autoscientist-an-ai-tool-t",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "ai-is-a-technology-not-a-product",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2325
+    },
+    {
+      "source": "show-hn-id-agent-token-efficient-uuid-alternative-for-ai-agents",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1725
+    },
+    {
+      "source": "how-elon-musk-left-openai-according-to-greg-brock",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "keras-teamkeras",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "ai-is-making-me-dumb",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.315
+    },
+    {
+      "source": "accumulatemorecv",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.255
+    },
+    {
+      "source": "docling-projectdocling",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "deepfakesfaceswap",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "hkudslightrag",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "mintplex-labsanything-llm",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "arena-ai-model-elo-history",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2325
+    },
+    {
+      "source": "two-ea-18-fighter-jets-collide-at-mountain-home-airshow-pilots-ejected-safely",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2575
+    },
+    {
+      "source": "srbhrresume-matcher",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "onnxonnx",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "the-last-six-months-in-llms-in-five-minutes",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2075
+    },
+    {
+      "source": "the-haves-and-have-nots-of-the-ai-gold-rush",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "gpt-55-price-increase-what-it-costs",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "i-dont-think-ai-will-make-your-processes-go-faster",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "all-means-are-fair-except-solving-the-problem",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2325
+    },
+    {
+      "source": "musks-xai-is-running-nearly-50-gas-turbines-unche",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "cvat-aicvat",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "google-introduces-gemini-spark-a-247-agentic-assistant-with-gmail-integration-at",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "show-hn-forge-guardrails-take-an-8b-model-from-53-to-99-on-agentic-tasks",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "meta-shuts-down-end-to-end-encryption-for-instagra",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1875
+    },
+    {
+      "source": "supabasesupabase",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "five-architects-of-the-ai-economy-explain-where-th",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.075
+    },
+    {
+      "source": "liyupiai-guide",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "amazon8217s-new-alexa-powered-feature-can-generate-podcast-episodes",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "france-moves-to-break-encrypted-messaging",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "show-hn-agent-skills-eval-test-whether-agent-sk",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "is-xai-a-neocloud-now",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "agent-harness-kit-scaffolding-for-multi-agent-work",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "learning-the-integral-of-a-diffusion-model",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "claude-for-small-business",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "show-hn-slayer-a-semantic-layer-maintained-by-yo",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "ai-boom-pushes-samsung-to-1t",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "kyegomezswarms",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "modularmodular",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "how-claude-code-works-in-large-codebases",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1825
+    },
+    {
+      "source": "were-feeling-cynical-about-xais-big-deal-with-an",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "copy-fail-dirty-frag-and-fragnesia-kernel-vulnerabilities",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1975
+    },
+    {
+      "source": "di-sukharevopencommit",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "dessn-raises-6m-for-its-production-focused-design",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "at-techcrunch-disrupt-2026-all-your-m038a-ques",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "3-days-left-to-lock-in-50-off-a-second-ticket-to",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.075
+    },
+    {
+      "source": "upstashcontext7",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "anthropic-warns-investors-against-secondary-platfo",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "janhqjan",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "voice-ai-in-india-is-hard-wispr-flow-is-betting-o",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "origin-lab-raises-8m-to-help-video-game-companies",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "explosionspacy",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "camel-aicamel",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "amazon-workers-under-pressure-to-up-their-ai-usage-are-making-up-tasks",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "haiku-os-runs-on-m1-macs-now",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2375
+    },
+    {
+      "source": "maryland-citizens-hit-with-2b-power-grid-upgrade",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "elon-musk-said-sam-altman-8220stole8221-a-non-profit-but-the-trial-showed-he-had",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1875
+    },
+    {
+      "source": "the-peoples-airline-and-the-enterprise-ai-gold",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "ai-is-breaking-two-vulnerability-cultures",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "the-greatest-shot-in-television-james-burke-had-o",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "the-american-rebellion-against-ai-is-gaining-steam",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.205
+    },
+    {
+      "source": "xorbitsaiinference",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2825
+    },
+    {
+      "source": "nailing-jelly-to-a-wall-is-it-possible-2005",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "alibabaspring-ai-alibaba",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "tensorflowtensorflow",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "show-hn-glycemicgpt-open-source-ai-powered-diabetes-management",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "claude-ai-recovers-an-11-yrs-old-btc-wallet-holding-400k-usd",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "patchy631ai-engineering-hub",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "ive-joined-anthropic",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "zaya1-8b-an-8b-moe-model-with-760m-active-params",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.19
+    },
+    {
+      "source": "flowiseaiflowise",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "vllm-projectvllm",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "invoke-aiinvokeai",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "anthropic-says-evil-portrayals-of-ai-were-respon",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "run-llamallama_index",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "the-other-half-of-ai-safety",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.215
+    },
+    {
+      "source": "rssnextfolo",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "the-us-is-winning-the-ai-race-where-it-matters-mos",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "shapshap",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "access-to-frontier-ai-will-soon-be-limited-by-economic-and-security-constraints",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "show-hn-nanocorp-create-autonomous-companies-ru",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "carla-simulatorcarla",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "upscaylupscayl",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2725
+    },
+    {
+      "source": "sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2475
+    },
+    {
+      "source": "i-applied-to-be-pope-losing-grip-on-reality-whi",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1025
+    },
+    {
+      "source": "google8217s-ai-studio-now-lets-anyone-build-android-apps-in-minutes",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "product-hunt-ai-topics",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "openhandsopenhands",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "claude-platform-on-aws",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2325
+    },
+    {
+      "source": "komai-a-fine-matrix-chat-app-you-can-get-to-love",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1725
+    },
+    {
+      "source": "sqlite-is-a-library-of-congress-recommended-storag",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2
+    },
+    {
+      "source": "mlc-aiweb-llm",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "tools-in-the-grass-raising-the-next-generation-of",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1475
+    },
+    {
+      "source": "gm-just-laid-off-hundreds-of-it-workers-to-hire-th",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "the-soul-of-maintaining-a-new-machine",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.19
+    },
+    {
+      "source": "rtx-5090-and-m4-macbook-air-can-it-game",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2825
+    },
+    {
+      "source": "macbook-neo-deep-dive-benchmarks-wafer-economics",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "google8217s-new-universal-cart-wants-to-follow-your-entire-shopping-journey-acro",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "show-hn-semble-code-search-for-agents-that-uses-98-fewer-tokens-than-grep",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.215
+    },
+    {
+      "source": "how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "apacheairflow",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "googlemagika",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "nousresearchhermes-agent",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "microsoftqlib",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "google-adds-gemini-powered-dictation-to-gboard-wh",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "composiohqcomposio",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "tell-hn-dont-use-claude-design-lost-access-to-my-projects-after-unsubscribing",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "itzcrazyknsvane",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "show-hn-find-the-best-local-llm-for-your-hardware-ranked-by-benchmarks",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "llmorphism-when-humans-come-to-see-themselves-as",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.215
+    },
+    {
+      "source": "ethos-raises-2275m-from-a16z-for-its-expert-netw",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "recommenders-teamrecommenders",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "tauricresearchtradingagents",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "so-you8217ve-heard-these-ai-terms-and-nodded-al",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "qdrantqdrant",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "d4vinciscrapling",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "google-researchgoogle-research",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-8216record-quarterly-rev",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "show-hn-modafinil-let-agents-continue-running-w",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1025
+    },
+    {
+      "source": "show-hn-beacon-the-open-source-layer-for-local-ai-agent-visibility",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1475
+    },
+    {
+      "source": "metas-embrace-of-ai-is-making-its-employees-miser",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2275
+    },
+    {
+      "source": "microsoftml-for-beginners",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2725
+    },
+    {
+      "source": "aliasroboticscai",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "report-google-and-spacex-in-talks-to-put-data-cen",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "aaif-goosegoose",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "ai-eats-the-world-spring-26-pdf",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-require",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "korniakornia",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "every-ai-subscription-is-a-ticking-time-bomb-for-enterprise",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2925
+    },
+    {
+      "source": "amazon-launches-an-ai-shopping-assistant-for-the-s",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "show-hn-i-trained-a-chess-engine-to-play-like-hum",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "voxel51fiftyone",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "ai-collectionai-collection",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "clio8217s-500m-milestone-arrives-just-as-anthropic-ups-the-ante",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "feder-crjobs_applier_ai_agent_aihawk",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "tracel-aiburn",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "amália-and-the-future-of-european-portuguese-llms",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "nvidiatensorrt",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflar",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "cvhub520x-anylabeling",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2825
+    },
+    {
+      "source": "last-24-hours-to-get-50-off-a-second-pass-to-tech",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "tensorflowtfjs",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "crewaiinccrewai",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "mistral-ai-acquires-emmi-ai-to-create-the-leading-ai-stack",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.215
+    },
+    {
+      "source": "with-gemini-35-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2575
+    },
+    {
+      "source": "apples-siri-revamp-could-include-auto-deleting-chats",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "fpromptschat",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "elon-musk8217s-spacexai-has-been-bleeding-staff-since-its-merger",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.205
+    },
+    {
+      "source": "open-webuiopen-webui",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "cutting-inference-cold-starts-by-40x-with-lp-fuse-cr-and-cuda-checkpoint",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.19
+    },
+    {
+      "source": "nasa-still-maintains-some-of-the-voyager-spacecraft-code-from-the-70s-era",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.205
+    },
+    {
+      "source": "two-weeks-left-startup-battlefield-200-applications-close-may-27",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "an-ai-coding-agent-used-to-write-code-needs-to-r",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1025
+    },
+    {
+      "source": "datawhalechinahello-agents",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "through-the-looking-glass-of-benchmark-hacking",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "rasbtllms-from-scratch",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2725
+    },
+    {
+      "source": "growing-neural-cellular-automata",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1475
+    },
+    {
+      "source": "mindsdbmindsdb",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "my-favorite-bugs-invalid-surrogate-pairs",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.13
+    },
+    {
+      "source": "koala73worldmonitor",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "nirdiamantrag_techniques",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "show-hn-e2a-open-source-email-gateway-for-ai-ag",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "shanraisshanclaude-code-best-practice",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "you-dont-align-an-ai-you-align-with-it",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.215
+    },
+    {
+      "source": "deepset-aihaystack",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "owainlewisawesome-artificial-intelligence",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "geeeekexplorernano-vllm",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "can-llms-model-real-world-systems-in-tla",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "cloudflare-says-ai-made-1100-jobs-obsolete-even",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "clojurescript-gets-asyncawait",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "sgl-projectsglang",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.18
+    },
+    {
+      "source": "n8n-ion8n",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "openai-adopts-googles-synthid-watermark-for-ai-images-with-verification-tool",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2325
+    },
+    {
+      "source": "aids-creeps-back-in-parts-of-zambia-a-year-after",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.06
+    },
+    {
+      "source": "onyx-dot-apponyx",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "dyad-shdyad",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "deepspeedaideepspeed",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "pingcaptidb",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "south-korea8217s-letinar-is-building-optics-behind-ai-glasses",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "who-decides-what-ai-tells-you-campbell-brown-once-meta8217s-news-chief-has-thoug",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "apple-is-enforcing-an-old-app-store-rule-against-a",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "show-hn-agentic-interface-for-mainframes-and-cobo",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "0xplaygroundsrig",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2475
+    },
+    {
+      "source": "threads-tests-a-meta-ai-integration-that-works-sim",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "gemini-35-flash",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3325
+    },
+    {
+      "source": "langfuselangfuse",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "continuedevcontinue",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "show-hn-git-for-ai-agents",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "wasmedgewasmedge",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "how-fast-does-claude-acting-as-a-user-space-ip-st",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.18
+    },
+    {
+      "source": "show-hn-a-dark-cave-minimalistic-graphics-in-the-age-of-ai-slop",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1475
+    },
+    {
+      "source": "fincept-corporationfinceptterminal",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "mudlerlocalai",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "milvus-iomilvus",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "medicare8217s-new-payment-model-is-built-for-ai",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "astrbotdevsastrbot",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "agno-agiagno",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "affaan-meverything-claude-code",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.155
+    },
+    {
+      "source": "foucaults-order-of-things-explained-with-trading",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1025
+    },
+    {
+      "source": "yamadashyrepomix",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "mathfoundationrlbook-mathematical-foundation-of-reinforcement-learning",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "all-my-clients-wanted-a-carousel-now-its-an-ai-c",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "juliusbrusseecaveman",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2275
+    },
+    {
+      "source": "best-brain-for-agents-is-just-versioned-folders-of-markdown-files",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1825
+    },
+    {
+      "source": "openai-is-reportedly-preparing-legal-action-against-apple-it-wouldn8217t-be-the",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "screenpipescreenpipe",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "what-happens-when-ai-starts-building-itself",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.275
+    },
+    {
+      "source": "copilotkitcopilotkit",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "vercelai",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "frontier-ai-has-broken-the-open-ctf-format",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.275
+    },
+    {
+      "source": "ucla-discovers-first-stroke-rehabilitation-drug-to",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "interfaze-a-new-model-architecture-built-for-high",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1025
+    },
+    {
+      "source": "punkpeyeawesome-mcp-servers",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "camel-aiowl",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "microsoftgenerative-ai-for-beginners",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "google-says-criminal-hackers-used-ai-to-find-a-maj",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "hkudsnanobot",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "rtk-airtk",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "sana-wm-a-26b-open-source-world-model-for-1-minute-720p-video",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2825
+    },
+    {
+      "source": "anthropic-now-has-more-business-customers-than-ope",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "tensorzerotensorzero",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "uk-sovereign-llm-inference",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "google-just-declared-itself-a-contender-in-ai-design-at-io-2026",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "writeup-16-bytes-of-x86-that-turn-matrix-rain-into-sound",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.17
+    },
+    {
+      "source": "google-launches-antigravity-20-with-an-updated-desktop-app-and-cli-tool-at-io-20",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "googlelangextract",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "overseas-fakers-using-ai-videos-to-push-a-narrative-of-uk-decline-bbc-finds",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.19
+    },
+    {
+      "source": "daytonaiodaytona",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "comfy-orgcomfyui",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "steven2358awesome-generative-ai",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "code-yeongyuoh-my-openagent",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "ai4finance-foundationfingpt",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "langchain-ailangchain",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "voice-ai-systems-are-vulnerable-to-hidden-audio-attacks",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1975
+    },
+    {
+      "source": "everything-google-announced-at-its-android-show-f",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "harry0703moneyprinterturbo",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "openais-webrtc-problem",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "medicares-new-payment-model-is-built-for-ai-most-of-the-tech-world-has-no-idea",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.19
+    },
+    {
+      "source": "research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "the-ai-zombification-of-universities",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2575
+    },
+    {
+      "source": "jingyaogongminimind",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2725
+    },
+    {
+      "source": "magical-realism-northern-exposure-25-years-later-2015",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0425
+    },
+    {
+      "source": "harvard-edgecs249r_book",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "google-ai-edgemediapipe",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "microsoftai-for-beginners",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "intel8217s-comeback-story-is-even-wilder-than-i",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "gemini-api-file-search-is-now-multimodal",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.19
+    },
+    {
+      "source": "have-a-coherent-ai-policy",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "anthropic-courts-a-new-kind-of-customer-small-bus",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "openaicom-was-once-the-personal-homepage-of-a-g",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "removing-fsync-from-our-local-storage-engine",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "lutzroedernetron",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "leon-aileon",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "mitchellh-i-strongly-believe-there-are-entire-companies-now-under-ai-psychosis",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2825
+    },
+    {
+      "source": "meta-wont-let-you-block-its-ai-account-on-threads",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "pyg-teampytorch_geometric",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2575
+    },
+    {
+      "source": "handsonllmhands-on-large-language-models",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "zerostack-a-unix-inspired-coding-agent-written-in-pure-rust",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "making-llm-training-faster-with-unsloth-and-nvidia",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "ray-projectray",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "llm-policy-for-rust-compiler",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1475
+    },
+    {
+      "source": "netdatanetdata",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "paddlepaddlepaddle",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "unity-technologiesml-agents",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "tesla-model-y-passes-nhtsas-new-advanced-driver",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "githubspec-kit",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "digg-tries-again-this-time-as-an-ai-news-aggregat",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "nvidia-has-already-committed-40b-to-equity-ai-dea",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "linux-security-mailing-list-almost-unmanageable",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2475
+    },
+    {
+      "source": "microsoftgraphrag",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "rars-a-rust-rar-implementation-mostly-written-by",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "blinkdlrwkv-lm",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "what-a-japanese-cooking-principle-taught-me-about",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "vectifyaipageindex",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "deepseek-could-hit-45b-valuation-from-its-first-i",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "building-ml-framework-with-rust-and-category-theory",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.13
+    },
+    {
+      "source": "flwrlabsflower",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "lightning-ailitgpt",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "microsoftautogen",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "most-americans-dont-trust-ai-or-the-people-in-charge-of-it-2025",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2075
+    },
+    {
+      "source": "scikit-learnscikit-learn",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "intro-to-tla-for-the-llm-era-prompt-your-way-to-victory",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1975
+    },
+    {
+      "source": "lucidrainsvit-pytorch",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "google-brings-agentic-ai-and-vibe-coded-widgets-to",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "simstudioaisim",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "mem0aimem0",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "usestrixstrix",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "fission-aiopenspec",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "huggingfacedatasets",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "openai-co-founder-andrej-karpathy-joins-anthropic8217s-pre-training-team",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "datawhalechinaself-llm",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "podman-rootless-containers-and-the-copy-fail-explo",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "jeecgbootjeecgboot",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "google-updates-ai-search-to-include-quotes-from-re",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "browser-usebrowser-use",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "we-mould-trees-to-grow-into-the-shape-of-chairs",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.205
+    },
+    {
+      "source": "apachetvm",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "cerebras-raises-55b-then-stock-pops-108-in-the-first-huge-tech-ipo-of-2026",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "show-hn-insforge-open-source-heroku-for-coding-agents",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1475
+    },
+    {
+      "source": "a-theory-of-deep-learning",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.175
+    },
+    {
+      "source": "reimagining-the-mouse-pointer-for-the-ai-era",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "openclaw-creator-spent-13m-on-openai-tokens-in-30-days",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.275
+    },
+    {
+      "source": "bun-rust-rewrite-codebase-fails-basic-miri-checks-allows-for-ub-in-safe-rust",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2975
+    },
+    {
+      "source": "mlfoundationsopen_clip",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "introducing-the-6-stages-at-techcrunch-disrupt-202",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "a-0-click-exploit-chain-for-the-pixel-10",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.205
+    },
+    {
+      "source": "danielmiesslerfabric",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "pythagora-iogpt-pilot",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "show-hn-torrix-self-hosted-llm-observabilityn",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "show-hn-statewright-visual-state-machines-that",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "gemini-omni",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.265
+    },
+    {
+      "source": "html-lists",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2375
+    },
+    {
+      "source": "streamlitstreamlit",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "labringfastgpt",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "why-trust-is-a-big-question-at-the-elon-musk-openai-trial",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "haiku",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "comically-bad-datasets-used-to-train-clinical-models-for-stroke-and-diabetes",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "tencentncnn",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "ollamaollama",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "launch-hn-voker-yc-s24-analytics-for-ai-agent",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "moving-away-from-tailwind-and-learning-to-structure-my-css",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "spacex-may-spend-up-to-119b-on-8216terafab82",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "anthropic-acquires-stainless",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "show-hn-anamdb-an-ai-native-differentiable-dat",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.0775
+    },
+    {
+      "source": "shareai-lablearn-claude-code",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "alibabamnn",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "riding-an-ai-rally-robinhood-preps-second-retail",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "gaining-control-of-every-projector-and-camera-on-campus",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.215
+    },
+    {
+      "source": "deepseek-v4-flash-means-llm-steering-is-interesting-again",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "spmallicklearnopencv",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "not-medically-necessary-helping-americas-healt",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "humansignallabel-studio",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "details-of-the-daring-airdrop-at-tristan-da-cunha",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "langgeniusdify",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "data-centric-ai-communityfg-data-profiling",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "show-hn-sx-an-open-source-package-manager-for-ai-skills-mcps-and-commands",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.165
+    },
+    {
+      "source": "zhayujiecowagent",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2025
+    },
+    {
+      "source": "unitree-gd01-chinas-537k-rideable-transformer-r",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "infiniflowragflow",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.3075
+    },
+    {
+      "source": "clickhouseclickhouse",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.29
+    },
+    {
+      "source": "0x4m4hexstrike-ai",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1775
+    },
+    {
+      "source": "warden-endangered-indigenous-language-transcription-and-translation-with-6-hours",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "when-are-two-networks-the-same-tensor-similarity-for-mechanistic-interpretabilit",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "qlam-a-quantum-long-attention-memory-approach-to-long-sequence-token-modeling",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "text-knows-what-tables-know-when-clinical-timeline-reconstruction-via-retrieval",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "sirem-speech-informed-mri-reconstruction-with-learned-sampling",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "normalizing-trajectory-models",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "confidence-guided-diffusion-augmentation-for-enhanced-bangla",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "deco-sparse-mixture-of-experts-with-dense-comparable-perfor",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "the-memory-curse-how-expanded-recall-erodes-cooperative-int",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "forge-self-evolving-agent-memory-with-no-weight-updates-via-population-broadcast",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.215
+    },
+    {
+      "source": "reward-hacking-in-rubric-based-reinforcement-learning",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "rgb-only-active-3d-scene-graph-generation-for-indoor-mobile-robots",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "are-we-making-progress-in-multimodal-domain-generalization",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "r-dmesh-video-guided-3d-animation-via-rectified-dynamic-mesh-flow",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "opendeepthink-parallel-reasoning-via-bradley-terry-aggregation",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "edge-specific-signal-propagation-on-mature-chromophore-regio",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "inductive-venn-abers-and-related-regressors",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "leveraging-graph-structure-in-seq2seq-models-for-knowledge-graph-link-prediction",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "actcam-zero-shot-joint-camera-and-3d-motion-control-for-vid",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "ai-co-mathematician-accelerating-mathematicians-with-agenti",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "toolcua-towards-optimal-gui-tool-path-orchestration-for-com",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "variational-inference-for-lévy-process-driven-sdes-via-neura",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "emergent-semantic-role-understanding-in-language-models",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "bami-training-free-bias-mitigation-in-gui-grounding",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "the-geometry-of-forgetting-temporal-knowledge-drift-as-an-i",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "prospective-multi-pathogen-disease-forecasting-using-autonomous-llm-guided-tree",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "layer-equivalence-is-not-a-property-of-layers-alone-how-you-test-redundancy-chan",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1975
+    },
+    {
+      "source": "entitybench-towards-entity-consistent-long-range-multi-shot-video-generation",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "negation-neglect-when-models-fail-to-learn-negations-in-training",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "lbi-parallel-scan-backpropagation-via-latent-bounded-interf",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "evaluating-design-video-generation-metrics-for-compositional-fidelity",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1975
+    },
+    {
+      "source": "harnessing-agentic-evolution",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "eva-bench-a-new-end-to-end-framework-for-evaluating-voice-agents",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "ivgt-implicit-visual-geometry-transformer-for-neural-scene-representation",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1975
+    },
+    {
+      "source": "equivariant-reinforcement-learning-for-clifford-quantum-circ",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.205
+    },
+    {
+      "source": "a-note-on-non-negative-l_1-approximating-polynomials",
+      "target": "business",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "shepherd-a-runtime-substrate-empowering-meta-agents-with-a",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "on-characterizing-learnability-for-adversarial-noisy-bandits",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1975
+    },
+    {
+      "source": "engineering-robustness-into-personal-agents-with-the-ai-work",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "concise-and-logically-consistent-conformal-sets-for-neuro-symbolic-concept-based",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "pairwise-preference-reward-and-group-based-diversity-enhancement-for-superior-op",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "are-sparse-autoencoder-benchmarks-reliable",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "quantifying-sensitivity-for-tree-ensembles-a-symbolic-and-compositional-approach",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "graphlcp-structure-aware-localized-conformal-prediction-on",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1975
+    },
+    {
+      "source": "learning-when-to-stop-selective-imitation-learning-under-ar",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "datamaster-towards-autonomous-data-engineering-for-machine",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "beyond-the-cartesian-illusion-testing-two-stage-multi-modal-theory-of-mind-under",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "kv-fold-one-step-kv-cache-recurrence-for-long-context-infer",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "eradicating-negative-transfer-in-multi-physics-foundation-models-via-sparse-mixt",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "ca-sql-complexity-aware-inference-time-reasoning-for-text-t",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "general-preference-reinforcement-learning",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "vision-opd-learning-to-see-fine-details-for-multimodal-llms-via-on-policy-self-d",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "alphagrpo-unlocking-self-reflective-multimodal-generation-i",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "veccisc-improving-confidence-informed-self-consistency-with",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "designing-datacenter-power-delivery-hierarchies-for-the-ai-era",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "piper-content-based-table-search-via-profiling-and-llm-generated-pseudoqueries",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "dynamic-skill-lifecycle-management-for-agentic-reinforcement",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "context-memorization-for-efficient-long-context-generation",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "forward-learned-discrete-diffusion-learning-how-to-noise-to-denoise-faster",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "unipool-a-globally-shared-expert-pool-for-mixture-of-expert",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "topology-preserving-neural-operator-learning-via-hodge-decomposition",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.205
+    },
+    {
+      "source": "task-adaptive-embedding-refinement-via-test-time-llm-guidanc",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "universal-magnetic-structure-prediction-from-atomic-coordinates-with-near-experi",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1975
+    },
+    {
+      "source": "dashattention-differentiable-and-adaptive-sparse-hierarchical-attention",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2575
+    },
+    {
+      "source": "position-behavioural-assurance-cannot-verify-the-safety-claims-governance-now-de",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "a-simplex-witness-certificate-for-constant-collapse-in-variational-autoencoders",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "revisiting-policy-gradients-for-restricted-policy-classes-e",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "what-is-learnable-in-valiants-theory-of-the-learnable",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1875
+    },
+    {
+      "source": "elastic-attention-cores-for-scalable-vision-transformers",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "dare-difficulty-adaptive-reinforcement-learning-with-co-evo",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "a-unified-generative-ai-framework-for-smart-energy-infrastructure-intelligent-ga",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1975
+    },
+    {
+      "source": "rigidformer-learning-rigid-dynamics-using-transformers",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "learning-fast-and-slow-towards-llms-that-adapt-continually",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "evidential-reasoning-advances-interpretable-real-world-disease-screening",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "atlas-agentic-or-latent-visual-reasoning-one-word-is-enough-for-both",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "optimal-and-scalable-mapf-via-multi-marginal-optimal-transpo",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "rubric-grounded-rl-structured-judge-rewards-for-generalizab",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.215
+    },
+    {
+      "source": "surge-approximation-free-training-free-particle-filter-for-diffusion-surrogate",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "futuresim-replaying-world-events-to-evaluate-adaptive-agents",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "elf-embedded-language-flows",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "verifier-backed-hard-problem-generation-for-mathematical-rea",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "spatioroute-dynamic-prompt-routing-for-zero-shot-spatial-reasoning",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "omninft-modality-wise-omni-diffusion-reinforcement-for-join",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "dexholdem-playing-texas-holdem-with-dexterous-embodied-system",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "optimizer-model-consistency-full-finetuning-with-the-same-o",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "beyond-grpo-and-on-policy-distillation-an-empirical-sparse",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "flow-opd-on-policy-distillation-for-flow-matching-models",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "evidence-over-plans-online-trajectory-verification-for-skil",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "offline-semantic-guidance-for-efficient-vision-language-action-policy-distillati",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1975
+    },
+    {
+      "source": "quantifying-concentration-phenomena-of-mean-field-transforme",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1875
+    },
+    {
+      "source": "code-as-agent-harness",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "refdecoder-enhancing-visual-generation-with-conditional-video-decoding",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "routers-learn-the-geometry-of-their-experts-geometric-coupl",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "predictable-confabulations-factual-recall-by-llms-scales-with-model-size-and-top",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "zero-shot-imagined-speech-decoding-via-imagined-to-listened",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "what-does-the-ai-doctor-value-auditing-pluralism-in-the-clinical-ethics-of-langu",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "pion-a-spectrum-preserving-optimizer-via-orthogonal-equival",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.205
+    },
+    {
+      "source": "agentic-mip-research-accelerated-constraint-handler-generat",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "a-generative-ai-framework-for-intelligent-utility-billing-co-2-analytics-and-sus",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "ai-mediated-communication-can-steer-collective-opinion",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.215
+    },
+    {
+      "source": "vggt-edit-feed-forward-native-3d-scene-editing-with-residual-field-prediction",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "why-global-llm-leaderboards-are-misleading-small-portfolios",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "navigating-llm-valley-from-adamw-to-memory-efficient-and-ma",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "pixlrelight-controllable-relighting-via-intrinsic-conditioning",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "history-anchors-how-prior-behavior-steers-llm-decisions-toward-unsafe-actions",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "esi-bench-towards-embodied-spatial-intelligence-that-closes-the-perception-actio",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "meme-multi-entity-evolving-memory-evaluation",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "open-ontologies-tool-augmented-ontology-engineering-with-st",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "emambair-efficient-visual-state-space-model-for-event-guide",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "when-no-benchmark-exists-validating-comparative-llm-safety",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "a-readiness-driven-runtime-for-pipeline-parallel-training-under-runtime-variabil",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.205
+    },
+    {
+      "source": "reducing-cross-sample-prediction-churn-in-scientific-machine-learning",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "dynamics-level-watermarking-of-flow-matching-models-with-random-codes",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1975
+    },
+    {
+      "source": "quantitative-video-world-model-evaluation-for-geometric-consistency",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2225
+    },
+    {
+      "source": "superintelligent-retrieval-agent-the-next-frontier-of-infor",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.2575
+    },
+    {
+      "source": "actionable-world-representation",
+      "target": "ecosystem",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1525
+    },
+    {
+      "source": "practical-scaling-laws-converting-compute-into-performance",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.215
+    },
+    {
+      "source": "neurosymbolic-auditing-of-natural-language-software-requirements",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.24
+    },
+    {
+      "source": "fast-byte-latent-transformer",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.1275
+    },
+    {
+      "source": "flow-sampling-learning-to-sample-from-unnormalized-densitie",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "almost-orthogonality-in-lp-spaces-a-case-study-with-grok",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.15
+    },
+    {
+      "source": "large-scale-high-quality-3d-gaussian-head-reconstruction-fro",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "estimating-the-expected-output-of-wide-random-mlps-more-effi",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "when-life-gives-you-bc-make-q-functions-extracting-q-value",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "geometry-aware-state-space-model-a-new-paradigm-for-whole-s",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "understanding-in-context-learning-for-nonlinear-regression-w",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "taming-outlier-tokens-in-diffusion-transformers",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "grokability-in-five-inequalities",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.125
+    },
+    {
+      "source": "design-conductor-20-an-agent-builds-a-turboquant-inference",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "psk-at-semeval-2026-task-9-multilingual-polarization-detect",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "from-intent-to-execution-composing-agentic-workflows-with-a",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "openseeker-v2-pushing-the-limits-of-search-agents-with-info",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "a-closed-form-adaptive-landmark-kernel-for-certified-point-c",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "redefining-ai-red-teaming-in-the-agentic-era-from-weeks-to",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "symptomai-towards-a-conversational-ai-agent-for-everyday-sy",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "physics-grounded-multi-agent-architecture-for-traceable-ris",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "sharp-capacity-thresholds-in-linear-associative-memory-from",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "enhanced-3d-brain-tumor-segmentation-using-assorted-precisio",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "the-first-token-knows-single-decode-confidence-for-hallucin",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "an-agent-oriented-pluggable-experience-rag-skill-for-experie",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "conditional-diffusion-sampling",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "safety-and-accuracy-follow-different-scaling-laws-in-clinica",
+      "target": "capabilities",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.05
+    },
+    {
+      "source": "longseeker-elastic-context-orchestration-for-long-horizon-s",
+      "target": "patterns",
+      "relation": "belongs_to",
+      "type": "KEYWORD",
+      "pm_relevance": 0.225
+    },
+    {
+      "source": "microsoftsemantic-kernel",
+      "target": "tesseract-ocrtesseract",
+      "relation": "same_pillar:ecosystem",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "tesseract-ocrtesseract",
+      "target": "sansan0trendradar",
+      "relation": "same_pillar:ecosystem",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "sansan0trendradar",
+      "target": "lukasmasuchbest-of-ml-python",
+      "relation": "same_pillar:ecosystem",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "interpretmlinterpret",
+      "target": "safari-and-firefox-change-how-big-sites-render-based-on-the-domain",
+      "relation": "same_pillar:capabilities",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "safari-and-firefox-change-how-big-sites-render-based-on-the-domain",
+      "target": "daviskingdlib",
+      "relation": "same_pillar:capabilities",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "daviskingdlib",
+      "target": "the-art-of-hackingh4cker",
+      "relation": "same_pillar:capabilities",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "programbench-can-language-models-rebuild-programs",
+      "target": "task-paralysis-and-ai",
+      "relation": "same_pillar:business",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "task-paralysis-and-ai",
+      "target": "spain-has-become-one-of-europes-cheapest-power-ma",
+      "relation": "same_pillar:business",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "spain-has-become-one-of-europes-cheapest-power-ma",
+      "target": "why-senior-developers-fail-to-communicate-their-ex",
+      "relation": "same_pillar:business",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "cursing-the-government-does-not-fix-potholes-spray-painting-them-does",
+      "target": "bytedancedeer-flow",
+      "relation": "same_pillar:patterns",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "bytedancedeer-flow",
+      "target": "meilisearchmeilisearch",
+      "relation": "same_pillar:patterns",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
+    {
+      "source": "meilisearchmeilisearch",
+      "target": "hmbowndeepseek-tui",
+      "relation": "same_pillar:patterns",
+      "type": "PILLAR",
+      "pm_relevance": 0.3
+    },
     {
       "source": "microsoftsemantic-kernel",
       "target": "ecosystem",
@@ -228721,7 +233777,7 @@
       "target": "embedding"
     }
   ],
-  "generated_at": "2026-05-20T00:01:52.265275",
+  "generated_at": "2026-05-20T06:03:38.521452",
   "generator": "ai-radar-explorer-v3",
   "schema_version": "4-pillar-pm-focused"
 }

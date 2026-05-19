@@ -723,3 +723,29 @@
 - create: iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz.md
 - create: openai-co-founder-andrej-karpathy-joins-anthropic8217s-pre-training-team.md
 - create: show-hn-id-agent-token-efficient-uuid-alternative-for-ai-agents.md
+
+## [2026-05-20 06:03] sync v3 | 24 new | pillars: {'capabilities': 15, 'patterns': 9}
+- create: gemini-35-flash.md
+- create: openai-adopts-googles-synthid-watermark-for-ai-images-with-verification-tool.md
+- create: mistral-ai-acquires-emmi-ai-to-create-the-leading-ai-stack.md
+- create: show-hn-forge-guardrails-take-an-8b-model-from-53-to-99-on-agentic-tasks.md
+- create: growing-neural-cellular-automata.md
+- create: copy-fail-dirty-frag-and-fragnesia-kernel-vulnerabilities.md
+- create: gemini-omni.md
+- create: intro-to-tla-for-the-llm-era-prompt-your-way-to-victory.md
+- create: comically-bad-datasets-used-to-train-clinical-models-for-stroke-and-diabetes.md
+- create: google-just-declared-itself-a-contender-in-ai-design-at-io-2026.md
+- create: you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026.md
+- create: how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches.md
+- create: from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phi.md
+- create: elon-musk-said-sam-altman-8220stole8221-a-non-profit-but-the-trial-showed-he-had.md
+- create: google-takes-a-page-out-of-meta8217s-book-announces-new-audio-powered-smart-glas.md
+- create: googles-genie-world-model-can-now-simulate-real-streets-with-street-view.md
+- create: with-gemini-35-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots.md
+- create: google-search-as-you-know-it-is-over.md
+- create: openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models.md
+- create: agentic-app-coding-gets-an-upgrade-with-google8217s-release-of-android-cli.md
+- create: google8217s-ai-studio-now-lets-anyone-build-android-apps-in-minutes.md
+- create: google8217s-new-universal-cart-wants-to-follow-your-entire-shopping-journey-acro.md
+- create: google-launches-antigravity-20-with-an-updated-desktop-app-and-cli-tool-at-io-20.md
+- create: google-introduces-gemini-spark-a-247-agentic-assistant-with-gmail-integration-at.md
