@@ -1,0 +1,25 @@
+{
+  "title": "Show HN: Id-agent – Token efficient UUID alternative for AI agents",
+  "score": 28,
+  "comments": 46,
+  "url": "https://github.com/vostride/id-agent",
+  "hn_url": "https://news.ycombinator.com/item?id=48191852",
+  "tag": "ShowHN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token"
+  ],
+  "summary_cn": "Id-agent 提出了一种面向 AI 代理的高效 token 化 UUID 替代方案。传统 UUID 在 LLM 上下文中占用较多 token，增加推理成本并降低性能。Id-agent 通过设计更紧凑的标识符结构，在保证唯一性的同时显著减少 token 消耗，适用于多代理协作、记忆检索、会话跟踪等场景。该方案可降低 API 调用成本、提升响应速度，并为 AI 应用提供更经济的身份管理能力。产品经理可关注其对 AI 代理系统的 token 预算优化、成本控制及用户体验提升的潜在价值。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Token Efficiency",
+    "AI Agent Identifiers",
+    "UUID Alternative"
+  ],
+  "entities": [
+    "Id-agent"
+  ],
+  "patterns": [
+    "Token-Efficient Identification"
+  ]
+}

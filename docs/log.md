@@ -717,3 +717,9 @@
 - create: alignment-pretraining-ai-discourse-creates-self-fulfilling-misalignment.md
 - create: my-domain-got-abused-on-github-pages.md
 - create: show-hn-beacon-the-open-source-layer-for-local-ai-agent-visibility.md
+
+## [2026-05-20 00:02] sync v3 | 4 new | pillars: {'capabilities': 4}
+- create: ive-joined-anthropic.md
+- create: iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz.md
+- create: openai-co-founder-andrej-karpathy-joins-anthropic8217s-pre-training-team.md
+- create: show-hn-id-agent-token-efficient-uuid-alternative-for-ai-agents.md

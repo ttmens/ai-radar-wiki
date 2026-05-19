@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-19 | Total pages: 654
+> Last updated: 2026-05-20 | Total pages: 658
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -59,6 +59,7 @@
 - [[interpretmlinterpret.md]] interpretml/interpret `pillar:capabilities` `score:0.53`
 - [[iran-starts-bitcoin-backed-ship-insurance-for-hormuz-strait.md]] Iran starts Bitcoin-backed ship insurance for Hormuz strait `pillar:capabilities` `score:0.405`
 - [[is-xai-a-neocloud-now.md]] Is xAI a neocloud now? `pillar:capabilities` `score:0.3`
+- [[ive-joined-anthropic.md]] I’ve joined Anthropic `pillar:capabilities` `score:0.53`
 - [[jingyaogongminimind-v.md]] jingyaogong/minimind-v `pillar:capabilities` `score:0.53`
 - [[jingyaogongminimind.md]] jingyaogong/minimind `pillar:capabilities` `score:0.545`
 - [[juliusbrusseecaveman.md]] JuliusBrussee/caveman `pillar:capabilities` `score:0.455`
@@ -83,6 +84,7 @@
 - [[my-favorite-bugs-invalid-surrogate-pairs.md]] My Favorite Bugs: Invalid Surrogate Pairs `pillar:capabilities` `score:0.26`
 - [[no-more-jetbrains-products-for-me.md]] No More JetBrains Products for Me `pillar:capabilities` `score:0.465`
 - [[ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts.md]] Ontario auditors find doctors' AI note takers routinely blow basic facts `pillar:capabilities` `score:0.565`
+- [[openai-co-founder-andrej-karpathy-joins-anthropic8217s-pre-training-team.md]] OpenAI co-founder Andrej Karpathy joins Anthropic&#8217;s pre-training team `pillar:capabilities` `score:0.48`
 - [[openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy.md]] OpenAI co-founder Greg Brockman reportedly takes charge of product strategy `pillar:capabilities` `score:0.48`
 - [[openai-is-connecting-chatgpt-to-bank-accounts-via-plaid.md]] OpenAI is connecting ChatGPT to bank accounts via Plaid `pillar:capabilities` `score:0.57`
 - [[openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts.md]] OpenAI launches ChatGPT for personal finance, will let you connect bank accounts `pillar:capabilities` `score:0.48`
@@ -105,6 +107,7 @@
 - [[show-hn-a-dark-cave-minimalistic-graphics-in-the-age-of-ai-slop.md]] Show HN: A Dark Cave – Minimalistic Graphics in the Age of AI Slop `pillar:capabilities` `score:0.295`
 - [[show-hn-find-the-best-local-llm-for-your-hardware-ranked-by-benchmarks.md]] Show HN: Find the best local LLM for your hardware, ranked by benchmarks `pillar:capabilities` `score:0.33`
 - [[show-hn-glycemicgpt-open-source-ai-powered-diabetes-management.md]] Show HN: GlycemicGPT – Open-source AI-powered diabetes management `pillar:capabilities` `score:0.33`
+- [[show-hn-id-agent-token-efficient-uuid-alternative-for-ai-agents.md]] Show HN: Id-agent – Token efficient UUID alternative for AI agents `pillar:capabilities` `score:0.345`
 - [[show-hn-semble-code-search-for-agents-that-uses-98-fewer-tokens-than-grep.md]] Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep `pillar:capabilities` `score:0.43`
 - [[show-hn-watch-a-neural-net-learn-to-play-snake.md]] Show HN: Watch a neural net learn to play Snake `pillar:capabilities` `score:0.36`
 - [[spmallicklearnopencv.md]] spmallick/learnopencv `pillar:capabilities` `score:0.58`
@@ -412,6 +415,7 @@
 - [[if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai.md]] If you’re giving a commencement speech in 2026, maybe don’t mention AI `pillar:ecosystem` `score:0.515`
 - [[introducing-the-6-stages-at-techcrunch-disrupt-202.md]] Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher `pillar:ecosystem` `score:0.305`
 - [[invoke-aiinvokeai.md]] invoke-ai/InvokeAI `pillar:ecosystem` `score:0.58`
+- [[iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz.md]] Iran demands Big Tech pay fees for undersea Internet cables in Strait of Hormuz `pillar:ecosystem` `score:0.31`
 - [[janhqjan.md]] janhq/jan `pillar:ecosystem` `score:0.405`
 - [[jeinlee1991chinese-llm-benchmark.md]] jeinlee1991/chinese-llm-benchmark `pillar:ecosystem` `score:0.53`
 - [[keras-teamkeras.md]] keras-team/keras `pillar:ecosystem` `score:0.58`
