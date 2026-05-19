@@ -5,13 +5,45 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 19 May 2026 12:01:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 16:05:03 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>I’ve joined Anthropic</title>
+      <link>https://news.ycombinator.com/item?id=48194352</link>
+      <guid isPermaLink="false">ive-joined-anthropic</guid>
+      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic 是一家专注于 AI 安全与研究的公司，其核心产品 Claude 系列模型在长上下文理解、安全对齐等方面具有特色。该消息意味着有重要人才加入，可能加速 Claude 在对话、代码生成、多模态等产品方向上的迭代，或推动更可靠的 AI 系统设计。对于产品经理而言，这预示着更强的技术支撑和更积极的生态建设，值得关注后续产品更新与行业影响。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>OpenAI co-founder Andrej Karpathy joins Anthropic&amp;#8217;s pre-training team</title>
+      <link>https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/</link>
+      <guid isPermaLink="false">openai-co-founder-andrej-karpathy-joins-anthropic8217s-pre-training-team</guid>
+      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenAI 联合创始人 Andrej Karpathy 宣布加入 Anthropic，专注于预训练团队。Karpathy 此前在 OpenAI 联合创立并领导计算机视觉与 AI 团队，在特斯拉负责自动驾驶 AI 研发。此次跳槽凸显顶级 AI 人才向竞争公司流动的趋势，Anthropic 正大力强化其基础模型预训练能力，以提升 Claude 系列模型性能。对产品经理而言，预训练效率与数据策略的改进可能直接影响下游应用效果，同时加剧了头部 AI 公司间的人才争夺战。Karpathy 的加入有望加速 Anthropic 在模型架构、规模化训练方面的创新，为开发者带来更强大的底层能力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Id-agent – Token efficient UUID alternative for AI agents</title>
+      <link>https://github.com/vostride/id-agent</link>
+      <guid isPermaLink="false">show-hn-id-agent-token-efficient-uuid-alternative-for-ai-agents</guid>
+      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Id-agent 提出了一种面向 AI 代理的高效 token 化 UUID 替代方案。传统 UUID 在 LLM 上下文中占用较多 token，增加推理成本并降低性能。Id-agent 通过设计更紧凑的标识符结构，在保证唯一性的同时显著减少 token 消耗，适用于多代理协作、记忆检索、会话跟踪等场景。该方案可降低 API 调用成本、提升响应速度，并为 AI 应用提供更经济的身份管理能力。产品经理可关注其对 AI 代理系统的 token 预算优化、成本控制及用户体验提升的潜在价值。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Iran demands Big Tech pay fees for undersea Internet cables in Strait of Hormuz</title>
+      <link>https://news.ycombinator.com/item?id=48193578</link>
+      <guid isPermaLink="false">iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz</guid>
+      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>伊朗要求大型科技公司为通过霍尔木兹海峡的海底互联网电缆支付费用，这一政策将对国际互联网基础设施运营商的成本结构产生直接影响。对于AI产品经理而言，此举可能推高云计算和数据传输的长期成本，尤其影响依赖跨境数据流动的AI服务部署。潜在的地缘政治风险也可能促使企业重新评估中东地区的数据中心选址和网络冗余策略，驱动更分散、本地的AI基础设施布局。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
     <item>
       <title>Elon Musk has lost his lawsuit against Sam Altman and OpenAI</title>
       <link>https://news.ycombinator.com/item?id=48182754</link>
@@ -378,38 +410,6 @@
       <guid isPermaLink="false">we-stopped-ai-bot-spam-in-our-github-repo-using-gits-author-flag</guid>
       <pubDate>2026-05-19T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文介绍了一种利用Git原生--author参数拦截AI机器人垃圾提交的高效方案。该方案无需复杂中间件，仅通过校验提交者元数据即可精准过滤自动化低质代码，显著降低仓库维护成本。对AI产品经理而言，此实践揭示了在AI自动化泛滥背景下，利用底层协议元数据进行轻量级治理的可行性，为构建防刷机制与维护开发者生态健康提供了低成本、高兼容性的产品防御思路。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>SandboxAQ brings its drug discovery models to Claude — no PhD in computing requi</title>
-      <link>https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/</link>
-      <guid isPermaLink="false">sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-require</guid>
-      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Are Sparse Autoencoder Benchmarks Reliable?</title>
-      <link>http://arxiv.org/abs/2605.18229v1</link>
-      <guid isPermaLink="false">are-sparse-autoencoder-benchmarks-reliable</guid>
-      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Sparse autoencoders (SAEs) are a core interpretability tool for large language models, and progress on SAE architectures depends on benchmarks that reliably distinguish better SAEs from worse ones. We audit the SAE quality metrics in SAEBench, the de-facto standard SAE evaluation suite, through thre</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Predictable Confabulations: Factual Recall by LLMs Scales with Model Size and To</title>
-      <link>http://arxiv.org/abs/2605.18732v1</link>
-      <guid isPermaLink="false">predictable-confabulations-factual-recall-by-llms-scales-with-model-size-and-top</guid>
-      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>While scaling laws govern aggregate large language model performance, no scaling law has linked factual recall to both model size and training-data composition. We evaluated 38 models on over 8,900 scholarly references evaluated by an automated reference verification system. Recall quality follows a</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Actionable World Representation</title>
-      <link>http://arxiv.org/abs/2605.18743v1</link>
-      <guid isPermaLink="false">actionable-world-representation</guid>
-      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Inspired by the emergent behaviors in large language models that generalized human intelligence, the research community is pursuing similar emergent capabilities within world models, with a emphasis on modeling the physical world. Within the scope of physical world model, objects are the fundamental</p></description>
       <category>🔧 工具生态</category>
     </item>
   </channel>
