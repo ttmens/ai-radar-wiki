@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 19 May 2026 08:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 12:01:02 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -37,12 +37,28 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>explosion/spaCy</title>
+      <link>https://github.com/explosion/spaCy</link>
+      <guid isPermaLink="false">explosionspacy</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>spaCy 是一个工业级 Python 自然语言处理（NLP）库，专为高效、可靠的文本分析而设计。它提供预训练的多语言模型、快速命名实体识别（NER）、依存句法分析、词性标注等功能，并支持自定义管道扩展。对于 AI 产品经理而言，spaCy 可直接嵌入到聊天机器人、文档理解、信息抽取等产品中，大幅降低 NLP 开发成本。其模块化架构和丰富文档加速了从原型到生产的落地，尤其适合需要实时处理大规模文本的商业场景。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>AI eats the world (Spring 26) [pdf]</title>
       <link>https://news.ycombinator.com/item?id=48179021</link>
       <guid isPermaLink="false">ai-eats-the-world-spring-26-pdf</guid>
       <pubDate>2026-05-19T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该报告预测至2026年春季，AI将如软件般全面重塑全球产业格局。面向AI产品经理，需重点关注从“功能叠加”向“AI原生架构”的演进。技术上依赖多模态大模型与自主Agent的协同；商业价值在于重构核心工作流以实现指数级降本增效；产品创新应聚焦垂直场景闭环与数据飞轮，抢占行业智能化入口。</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention</title>
+      <link>http://arxiv.org/abs/2605.18753v1</link>
+      <guid isPermaLink="false">dashattention-differentiable-and-adaptive-sparse-hierarchical-attention</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>DashAttention 提出了一种可微自适应稀疏分层注意力机制，解决了现有方法（如 NSA、InfLLMv2）中 top-k 选择固定数量 KV 块的局限。该技术通过动态调整每个查询的相关 token 数量，结合可微分操作实现端到端优化，在保持长上下文处理能力的同时大幅降低计算和内存开销。对于 AI 产品而言，这意味着更高效的长文档理解、对话记忆和推理任务，能够以更低成本支撑更大规模的上下文窗口，并提升模型对关键信息的聚焦能力，具有显著的商业价值。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Linux security mailing list 'almost unmanageable'</title>
@@ -141,6 +157,22 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Code as Agent Harness</title>
+      <link>http://arxiv.org/abs/2605.18747v1</link>
+      <guid isPermaLink="false">code-as-agent-harness</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出“Code as Agent Harness”概念，强调在智能体系统中，代码不仅是LLM的生成目标，更成为智能体操作的基础框架。通过将代码作为智能体的“操作基质”，可显著提升LLM在复杂任务中的执行能力，从编程竞赛到企业级软件工程均适用。这一思路为产品经理提供了新视角：利用代码驱动智能体自主完成编码、调试、部署等全流程，有望降低开发门槛、加速功能迭代。商业价值在于构建更强大的AI编码助手与自动化开发工具，推动软件工程效率革命。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>PIXLRelight: Controllable Relighting via Intrinsic Conditioning</title>
+      <link>http://arxiv.org/abs/2605.18735v1</link>
+      <guid isPermaLink="false">pixlrelight-controllable-relighting-via-intrinsic-conditioning</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>PIXLRelight 是一种基于前馈神经网络的可控单图像重新照明方法。它通过内在条件（如反照率、法线等）实现物理上准确的光照控制，避免了传统方法中链接逆向和正向渲染导致的误差累积，以及昂贵的逐图像优化过程。该方法支持用户通过环境图等方式灵活调整光照，适用于摄影、电影后期、AR/VR 等需要编辑图像光照的产品场景，有望大幅提升图像内容创作的效率与可控性。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Haiku OS runs on M1 Macs now</title>
       <link>https://news.ycombinator.com/item?id=48183579</link>
       <guid isPermaLink="false">haiku-os-runs-on-m1-macs-now</guid>
@@ -189,11 +221,67 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>General Preference Reinforcement Learning</title>
+      <link>http://arxiv.org/abs/2605.18721v1</link>
+      <guid isPermaLink="false">general-preference-reinforcement-learning</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出一种通用偏好强化学习（General Preference RL）方法，旨在统一大语言模型（LLM）后训练中的两个脱节分支：基于可验证奖励的在线强化学习（适用于数学、代码等可验证任务）和偏好优化（适用于开放任务）。该方法通过引入广义偏好反馈机制，无需程序化验证器即可支持开放任务，同时保持推理能力提升。对于产品经理，这意味着未来LLM可能在更广泛的场景（如创意写作、复杂对话）中实现更可靠的对齐，降低对严格规则验证的依赖，提升模型实用性和安全性。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-</title>
+      <link>http://arxiv.org/abs/2605.18740v1</link>
+      <guid isPermaLink="false">vision-opd-learning-to-see-fine-details-for-multimodal-llms-via-on-policy-self-d</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出 Vision-OPD，通过在线策略自蒸馏方法缩小多模态大语言模型在细粒度视觉理解中的“区域到全局感知差距”。核心创新是让模型在训练中关注图像局部关键细节，提升对微小证据的识别能力，从而更准确地回答依赖细节的视觉问题。技术要点包括自蒸馏框架和 on-policy 训练策略。商业价值在于可显著改善 AI 产品的图像问答、文档解析、医疗影像等需要高精度细节理解的场景，降低对高质量标注数据的依赖。产品创新在于无需额外外部知识库，仅通过自身知识蒸馏增强细节感知，易于集成到现有 MLLM 中。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>A Simplex Witness Certificate for Constant Collapse in Variational Autoencoders</title>
       <link>http://arxiv.org/abs/2605.18224v1</link>
       <guid isPermaLink="false">a-simplex-witness-certificate-for-constant-collapse-in-variational-autoencoders</guid>
       <pubDate>2026-05-19T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本论文研究变分自编码器（VAE）中的“恒定崩溃”问题，即编码器均值与输入无关的失败模式。作者提出一种单纯形证人证书方法，使这种崩溃可预先设计、训练中可监控、训练后可认证。该方法在保持标准高斯先验的前提下，为生成模型的稳定性提供可验证的保障。对于AI产品经理而言，该技术可降低生成模型在实际部署中的不可预测性，提升产品可靠性，尤其适用于需要高稳定性的生成式AI应用。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>SURGE: Approximation-free Training Free Particle Filter for Diffusion Surrogate</title>
+      <link>http://arxiv.org/abs/2605.18745v1</link>
+      <guid isPermaLink="false">surge-approximation-free-training-free-particle-filter-for-diffusion-surrogate</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出SURGE方法，一种无近似、无需训练的粒子滤波技术，用于扩散模型的推理时引导。现有方法依赖重复评分或梯度评估，存在偏差和高计算成本。SURGE通过引入无近似的粒子滤波，无需额外训练即可有效提升样本质量，适用于任务特定目标优化。该技术降低了扩散模型推理的计算开销，同时保持生成质量，对需要实时或高效生成高质量内容的AI产品（如图像生成、视频合成等）具有商业价值，可加速产品迭代并降低部署成本。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>DexHoldem: Playing Texas Hold'em with Dexterous Embodied System</title>
+      <link>http://arxiv.org/abs/2605.18727v1</link>
+      <guid isPermaLink="false">dexholdem-playing-texas-holdem-with-dexterous-embodied-system</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>DexHoldem 是一个将灵巧操作与德州扑克决策相结合的具身智能系统。它要求机器人实时感知变化的桌面场景，根据游戏情境选择合适的动作，并通过灵巧手精确执行，同时保持场景整洁以便后续操作。该系统在真实硬件上验证了从感知到决策再到操作的全流程能力，突破了传统单一技能评估的局限。对产品经理而言，这展示了将复杂策略游戏与物理操作融合的潜力，可用于娱乐机器人、教育仿真或交互式游戏场景，推动了具身智能从实验室走向实用化。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>What Does the AI Doctor Value? Auditing Pluralism in the Clinical Ethics of Lang</title>
+      <link>http://arxiv.org/abs/2605.18738v1</link>
+      <guid isPermaLink="false">what-does-the-ai-doctor-value-auditing-pluralism-in-the-clinical-ethics-of-langu</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文探讨了大型语言模型在临床环境中如何体现多元伦理价值观。医学领域内自主、有益、不伤害、公正等原则常相互冲突，而好的临床实践需与患者个体价值观协调。研究审计了AI医生模型在伦理决策中是否尊重多元主义，而非强加单一标准。技术要点：需要构建能识别并权衡不同伦理原则的模型，避免价值观偏见；商业价值：提升医疗AI的信任度和合规性，减少伦理诉讼风险；产品创新：可开发伦理审计工具，辅助模型训练中的价值观对齐。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Acti</title>
+      <link>http://arxiv.org/abs/2605.18746v1</link>
+      <guid isPermaLink="false">esi-bench-towards-embodied-spatial-intelligence-that-closes-the-perception-actio</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>ESI-Bench是一个面向具身空间智能的基准测试，旨在闭环评估感知-行动循环。该基准强调智能体通过主动行动获取观察，并推理观察随行动的变化，从而揭示被遮挡结构、动力学和包含关系等未见的空间信息。对于AI产品经理，技术核心是感知与行动闭环的标准化测试，商业价值在于推动具身机器人、自动驾驶等领域的空间理解能力提升，产品创新体现在从被动感知到主动探索的范式转变。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment</title>
+      <link>https://news.ycombinator.com/item?id=48185938</link>
+      <guid isPermaLink="false">alignment-pretraining-ai-discourse-creates-self-fulfilling-misalignment</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章探讨了AI对齐预训练中一个反直觉现象：关于AI对齐的讨论本身可能通过自我实现预言导致实际的对齐或错误对齐。技术要点在于预训练阶段的数据话语会塑造模型对齐方向，形成反馈循环。商业价值在于引导产品团队关注训练数据中人类对AI安全性的表述，避免无意中强化不良行为。产品创新上可设计动态对齐训练策略，主动管理话语影响。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -229,12 +317,28 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>A Readiness-Driven Runtime for Pipeline-Parallel Training under Runtime Variabil</title>
+      <link>http://arxiv.org/abs/2605.18750v1</link>
+      <guid isPermaLink="false">a-readiness-driven-runtime-for-pipeline-parallel-training-under-runtime-variabil</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文聚焦于大模型训练中的流水线并行技术，指出现有系统因运行时计算和通信的可变性导致效率低下，传统静态或预生成调度方案难以适应动态变化。作者提出一种基于就绪驱动的运行时机制，能够实时感知任务就绪状态并动态调度，从而提升训练资源利用率和吞吐量。该方案为AI训练基础设施优化提供了新思路，可降低大规模模型训练成本，对高性能计算平台和云服务商具有商业价值。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
       <title>Iran starts Bitcoin-backed ship insurance for Hormuz strait</title>
       <link>https://news.ycombinator.com/item?id=48182592</link>
       <guid isPermaLink="false">iran-starts-bitcoin-backed-ship-insurance-for-hormuz-strait</guid>
       <pubDate>2026-05-19T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised</title>
+      <link>https://news.ycombinator.com/item?id=48189368</link>
+      <guid isPermaLink="false">mini-shai-hulud-strikes-again-314-npm-packages-compromised</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>近期发生npm包大规模投毒事件，314个包被攻破，影响广泛。对AI产品经理而言，需警惕AI工具链依赖的供应链风险，加强依赖审计和镜像安全策略，避免恶意包侵入开发环境。该事件凸显了开源生态安全监管的薄弱环节，商业上可能引发企业对私有化或受控包管理解决方案的需求。</p></description>
+      <category>🔧 工具生态</category>
     </item>
     <item>
       <title>Voice AI Systems Are Vulnerable to Hidden Audio Attacks</title>
@@ -293,124 +397,20 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
-      <title>Show HN: InsForge – Open-source Heroku for coding agents</title>
-      <link>https://github.com/InsForge/InsForge</link>
-      <guid isPermaLink="false">show-hn-insforge-open-source-heroku-for-coding-agents</guid>
+      <title>Predictable Confabulations: Factual Recall by LLMs Scales with Model Size and To</title>
+      <link>http://arxiv.org/abs/2605.18732v1</link>
+      <guid isPermaLink="false">predictable-confabulations-factual-recall-by-llms-scales-with-model-size-and-top</guid>
       <pubDate>2026-05-19T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>InsForge 是一个开源平台，定位为‘编码代理的 Heroku’，旨在简化 AI 编码代理的部署、托管和运维。它提供类似 Heroku 的 PaaS 体验，让开发者能够快速将代码代理（如基于 LLM 的自动化编程工具）部署到云端，并自动处理扩展、监控和基础设施管理。该平台强调开源和可自托管，降低了对云服务商的依赖，同时提升了编码代理在生产环境中的易用性和可扩展性。对于 AI 产品经理而言，InsForge 填补了编码代理从实验到规模化落地的工具链空白，有望推动更多 AI 驱动开发工具进入实际业务场景。</p></description>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>While scaling laws govern aggregate large language model performance, no scaling law has linked factual recall to both model size and training-data composition. We evaluated 38 models on over 8,900 scholarly references evaluated by an automated reference verification system. Recall quality follows a</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Actionable World Representation</title>
+      <link>http://arxiv.org/abs/2605.18743v1</link>
+      <guid isPermaLink="false">actionable-world-representation</guid>
+      <pubDate>2026-05-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Inspired by the emergent behaviors in large language models that generalized human intelligence, the research community is pursuing similar emergent capabilities within world models, with a emphasis on modeling the physical world. Within the scope of physical world model, objects are the fundamental</p></description>
       <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>I don't think AI will make your processes go faster</title>
-      <link>https://news.ycombinator.com/item?id=48168221</link>
-      <guid isPermaLink="false">i-dont-think-ai-will-make-your-processes-go-faster</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>这篇 HN 帖子标题直指一个常见误区：AI 并不必然加速业务流程。对于 AI 产品经理而言，需警惕盲目将 AI 套用到现有流程中，而应重新思考业务本质。技术要点在于，AI 可能引入新的延迟、幻觉或维护成本，导致整体效率不升反降。商业价值在于提醒产品经理更关注 ROI 而非单纯追求自动化。产品创新角度，应优先设计人机协作流程，而非全自动替换。核心洞察是：流程加速依赖系统设计，AI 只是其中一环，过度承诺可能导致产品失败。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Every AI Subscription Is a Ticking Time Bomb for Enterprise</title>
-      <link>https://news.ycombinator.com/item?id=48168056</link>
-      <guid isPermaLink="false">every-ai-subscription-is-a-ticking-time-bomb-for-enterprise</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文指出，企业采用AI订阅模式（如ChatGPT企业版、Copilot等）存在重大隐患，类似于“定时炸弹”。主要风险包括：供应商锁定导致的高昂迁移成本、数据隐私与合规问题（特别是当模型持续更新时）、以及成本失控（按用户/Token计费可能随使用量激增）。对于AI产品经理，这意味着设计产品时需考虑可替换性、数据隔离和透明定价机制，避免客户因依赖单一订阅而产生长期风险。核心挑战在于平衡AI能力的持续交付与企业对稳定、可控IT系统的需求。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>owainlewis/awesome-artificial-intelligence</title>
-      <link>https://github.com/owainlewis/awesome-artificial-intelligence</link>
-      <guid isPermaLink="false">owainlewisawesome-artificial-intelligence</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>该项目是GitHub上维护的AI资源精选列表，涵盖课程、书籍、视频和论文，为AI产品经理提供系统化的学习路径。它帮助PM快速获取AI技术要点（如机器学习、深度学习基础），了解前沿研究成果，并洞察商业应用方向（如自动化、智能决策）。通过整理高质量资料，降低学习门槛，促进产品创新，尤其适合需要构建AI知识体系的从业者。同时，该项目反映了社区协作和知识聚合的价值，是生态建设的重要组成部分。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>If you’re giving a commencement speech in 2026, maybe don’t mention AI</title>
-      <link>https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/</link>
-      <guid isPermaLink="false">if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>2026年毕业典礼演讲者应避免提及AI，因为毕业生对AI塑造的未来普遍缺乏兴奋感，反映出公众对AI的预期从炒作转向失望。这提示AI产品经理需警惕当前AI产品的实际体验与过度宣传之间的鸿沟，转而聚焦于可落地的实用价值、用户信任重建和长期可持续性。产品应避免空泛的“AI未来”叙事，而是通过具体场景解决真实痛点，如教育、就业等与毕业生直接相关的领域，以缓解替代焦虑并展示协同价值。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Apple’s Siri revamp could include auto-deleting chats</title>
-      <link>https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/</link>
-      <guid isPermaLink="false">apples-siri-revamp-could-include-auto-deleting-chats</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>苹果即将推出新版Siri，主打隐私保护，包括自动删除聊天记录功能。技术要点可能涉及端侧处理或短期记忆机制，确保用户对话数据不长期留存。商业价值在于通过隐私差异化吸引对数据安全敏感的用户，并符合全球日益严格的隐私法规。产品创新在于将自动删除作为默认特性，重新定义AI助手的信任标准，可能推动行业跟进。对AI产品经理而言，需关注如何在功能便利性与隐私承诺间取得平衡。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>AI is a technology not a product</title>
-      <link>https://news.ycombinator.com/item?id=48168626</link>
-      <guid isPermaLink="false">ai-is-a-technology-not-a-product</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>AI 本身是一种底层技术能力，而非可直接交付的产品。产品经理需要避免陷入技术崇拜，而应聚焦于如何将 AI 能力无缝嵌入到用户场景中，解决实际问题。真正的产品创新在于设计人性化的交互流程、控制成本与延迟、管理用户期望而非堆砌模型参数。商业价值体现在 AI 与传统业务流程的深度整合，而非单独售卖 API 或模型。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Why trust is a big question at the Elon Musk-OpenAI trial</title>
-      <link>https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/</link>
-      <guid isPermaLink="false">why-trust-is-a-big-question-at-the-elon-musk-openai-trial</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>该报道聚焦于马斯克与OpenAI法律诉讼中的信任问题，核心争议在于OpenAI CEO Sam Altman的可信度。对AI产品经理而言，此案凸显了AI企业治理透明度与创始人公信力对产品生态的深远影响：信任缺失可能引发用户和合作方对AI系统安全性的质疑，进而阻碍商业化落地。商业层面，诉讼结果或影响OpenAI的融资、合作伙伴关系及行业监管走向。产品经理需关注此类信任危机如何转化为产品设计的合规与伦理要求（如审计机制、数据使用透明度）。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>TechCrunch Mobility: The AI skills arms race is coming for automotive</title>
-      <link>https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/</link>
-      <guid isPermaLink="false">techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>TechCrunch报道指出，汽车行业正掀起一场AI技能军备竞赛。随着智能驾驶、车载交互等场景对AI能力需求激增，车企纷纷争抢具备机器学习、计算机视觉等技能的顶尖人才。这一趋势将加速汽车产品从传统硬件向软件定义转型，推动自动驾驶、智能座舱等创新功能落地。对于AI产品经理而言，这意味着需要关注人才布局对产品迭代速度的影响，以及如何通过AI能力构建差异化竞争壁垒。同时，技能竞赛也可能催生新的合作模式，如车企与AI公司联合开发。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep</title>
-      <link>https://news.ycombinator.com/item?id=48169874</link>
-      <guid isPermaLink="false">show-hn-semble-code-search-for-agents-that-uses-98-fewer-tokens-than-grep</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Semble 是一个专为 AI 代理设计的代码搜索工具，相比传统 grep 方式，其 token 消耗降低了 98%。该产品通过优化检索算法，使代理在搜索和理解代码库时大幅减少 LLM 调用的 token 开销，从而显著降低推理成本并提升响应速度。对于构建代码生成、调试助手或自主编程代理的产品团队，Semble 提供了一种高效、经济的基础设施方案，其核心创新在于将代码搜索的效率和准确性针对代理工作流进行了重新设计。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcas</title>
-      <link>http://arxiv.org/abs/2605.16233v1</link>
-      <guid isPermaLink="false">forge-self-evolving-agent-memory-with-no-weight-updates-via-population-broadcast</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>FORGE提出了一种无需权重更新的智能体记忆进化方法，通过群体广播协议让层次化ReAct智能体基于失败反馈自动优化提示注入的自然语言记忆。该技术在不重新训练模型的前提下，实现智能体决策能力的持续自我改进，显著降低计算成本。产品经理可关注其如何赋能AI应用实现长期上下文记忆与自适应学习，提升用户交互的个性化和连贯性，尤其适用于对话助手、自动化工作流等场景。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>AI-Mediated Communication Can Steer Collective Opinion</title>
-      <link>http://arxiv.org/abs/2605.16245v1</link>
-      <guid isPermaLink="false">ai-mediated-communication-can-steer-collective-opinion</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文研究了生成式AI（如大型语言模型）在社交平台（如LinkedIn、X）中介人类沟通时，如何影响集体意见的形成。技术要点在于LLM通过润色用户帖子和提供上下文，能够嵌入并放大特定偏见，从而潜移默化地改变群体观点。商业价值上，这意味着社交平台和内容工具需要审慎设计AI功能，避免无意识操纵舆论。产品创新方向包括开发可检测或纠正偏见的中介机制，以及提供透明的AI辅助选项，以保持用户自主性。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Most Americans don't trust AI – or the people in charge of it (2025)</title>
-      <link>https://news.ycombinator.com/item?id=48174808</link>
-      <guid isPermaLink="false">most-americans-dont-trust-ai-or-the-people-in-charge-of-it-2025</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>2025年调查显示，大多数美国人不信任AI以及管理AI的人。这一数据对于AI产品经理至关重要——用户对AI的信任缺失直接影响产品采用率和商业变现。产品创新需聚焦可解释性、透明度与伦理设计，例如提供清晰的AI决策逻辑、用户控制权以及第三方审计。商业价值在于：建立信任能显著提升用户留存与付费意愿，是AI产品规模化落地的关键前提。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Cha</title>
-      <link>http://arxiv.org/abs/2605.16234v1</link>
-      <guid isPermaLink="false">layer-equivalence-is-not-a-property-of-layers-alone-how-you-test-redundancy-chan</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文探讨了Transformer层等价性的两种测试方法：替换测试（检查一层能否替代另一层）和互换测试（检查两层互换后是否近似交换）。研究发现，不同的测试方式会导致对层冗余的不同判断，从而影响模型压缩策略。对于产品经理而言，理解这一区别有助于选择更合适的压缩方法，在保持模型性能的同时减少计算资源消耗，从而降低部署成本并提升推理速度。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Evaluating Design Video Generation: Metrics for Compositional Fidelity</title>
-      <link>http://arxiv.org/abs/2605.16223v1</link>
-      <guid isPermaLink="false">evaluating-design-video-generation-metrics-for-compositional-fidelity</guid>
-      <pubDate>2026-05-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文针对设计动画领域提出视频生成模型的评估框架。与自然视频生成不同，设计动画具有结构化约束：特定组件需按预设运动类型、方向、速度等进行动画。当前缺乏标准化评测指标，论文致力于定义组合保真度（compositional fidelity）的度量方法。对产品经理而言，这一研究有助于量化生成式设计工具（如UI动画、产品演示视频）的质量，推动商业化落地。通过建立统一评估标准，可降低模型选型成本，提升设计自动化产品的可靠性与用户体验。</p></description>
-      <category>🤖 技术能力</category>
     </item>
   </channel>
 </rss>
