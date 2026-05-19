@@ -1,0 +1,34 @@
+{
+  "title": "DexHoldem: Playing Texas Hold'em with Dexterous Embodied System",
+  "summary": "Evaluating embodied systems on real dexterous hardware requires more than isolated primitive skills: an agent must perceive a changing tabletop scene, choose a context-appropriate action, execute it with a dexterous hand, and leave the scene usable for later decisions. We introduce DexHoldem, a real-world system-level benchmark built around Texas Hold'em dexterous manipulation with a ShadowHand. DexHoldem provides 1,470 teleoperated demonstrations across 14 Texas Hold'em manipulation primitives, a standardized physical policy benchmark, and an agentic perception benchmark that tests whether agents can recover the structured game state needed for embodied decision making. On primitive execution, $π_{0.5}$ obtains the highest task completion rate ($61.2\\%$), while $π_{0.5}$ and $π_0$ tie on scene-preserving success rate ($47.5\\%$). On agentic perception, Opus 4.7 obtains the best strict problem-level accuracy ($34.3\\%$), while GPT 5.5 obtains the best average field-wise accuracy ($66.8\\%$), exposing a gap between isolated visual sub-capabilities and complete routing-relevant state recovery. Finally, we instantiate the full embodied-agent loop in three case studies, where waiting, recovery dispatches, human-help requests, and repeated primitive execution reveal how perception and policy errors accumulate during closed-loop deployment. DexHoldem therefore evaluates dexterous tabletop execution, agentic perception, and embodied decision routing in a shared physical setting. Project page: https://dexholdem.github.io/Dexholdem/.",
+  "url": "http://arxiv.org/abs/2605.18727v1",
+  "authors": [
+    "Feng Chen",
+    "Tianzhe Chu",
+    "Li Sun",
+    "Pei Zhou",
+    "Zhuxiu Xu"
+  ],
+  "published": "2026-05-18T17:51:34Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "eval",
+    "deployment",
+    "serving"
+  ],
+  "summary_cn": "DexHoldem 是一个将灵巧操作与德州扑克决策相结合的具身智能系统。它要求机器人实时感知变化的桌面场景，根据游戏情境选择合适的动作，并通过灵巧手精确执行，同时保持场景整洁以便后续操作。该系统在真实硬件上验证了从感知到决策再到操作的全流程能力，突破了传统单一技能评估的局限。对产品经理而言，这展示了将复杂策略游戏与物理操作融合的潜力，可用于娱乐机器人、教育仿真或交互式游戏场景，推动了具身智能从实验室走向实用化。",
+  "pm_relevance": 7,
+  "concepts": [
+    "具身智能",
+    "灵巧操作",
+    "游戏决策"
+  ],
+  "entities": [
+    "DexHoldem"
+  ],
+  "patterns": [
+    "具身AI系统",
+    "灵巧操控"
+  ]
+}

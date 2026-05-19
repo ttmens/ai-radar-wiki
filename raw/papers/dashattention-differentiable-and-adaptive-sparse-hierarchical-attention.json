@@ -1,0 +1,37 @@
+{
+  "title": "DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention",
+  "summary": "Current hierarchical attention methods, such as NSA and InfLLMv2, select the top-k relevant key-value (KV) blocks based on coarse attention scores and subsequently apply fine-grained softmax attention on the selected tokens. However, the top-k operation assumes the number of relevant tokens for any query is fixed and it precludes the gradient flow between the sparse and dense stages. In this work, we propose DashAttention (Differentiable and Adaptive Sparse Hierarchical Attention), which leverages the adaptively sparse $α$-entmax transformation to select a variable number of blocks according to the current query in the first stage. This in turn provides a prior for the second-stage softmax attention, keeping the entire hierarchy fully differentiable. Contrary to other hierarchical attention methods, we show that DashAttention is non-dispersive, translating to better long-context modeling ability. Experiments with large language models (LLMs) show that DashAttention achieves comparable accuracy as full attention with 75% sparsity and a better Pareto frontier than NSA and InfLLMv2, especially in high-sparsity regimes. We also provide an efficient, GPU-aware implementation of DashAttention in Triton, which achieves a speedup of up to over FlashAttention-3 at inference time. Overall, DashAttention offers a cost-effective strategy to model long contexts.",
+  "url": "http://arxiv.org/abs/2605.18753v1",
+  "authors": [
+    "Yuxiang Huang",
+    "Nuno M. T. Gonçalves",
+    "Federico Alvetreti",
+    "Lei Li",
+    "Xu Han"
+  ],
+  "published": "2026-05-18T17:59:52Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "token",
+    "attention",
+    "accuracy",
+    "gradient"
+  ],
+  "summary_cn": "DashAttention 提出了一种可微自适应稀疏分层注意力机制，解决了现有方法（如 NSA、InfLLMv2）中 top-k 选择固定数量 KV 块的局限。该技术通过动态调整每个查询的相关 token 数量，结合可微分操作实现端到端优化，在保持长上下文处理能力的同时大幅降低计算和内存开销。对于 AI 产品而言，这意味着更高效的长文档理解、对话记忆和推理任务，能够以更低成本支撑更大规模的上下文窗口，并提升模型对关键信息的聚焦能力，具有显著的商业价值。",
+  "pm_relevance": 9,
+  "concepts": [
+    "可微注意力",
+    "稀疏分层注意力",
+    "长上下文优化"
+  ],
+  "entities": [
+    "NSA",
+    "InfLLMv2"
+  ],
+  "patterns": [
+    "Sparse Attention",
+    "Hierarchical Attention"
+  ]
+}

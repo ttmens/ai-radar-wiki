@@ -1,0 +1,23 @@
+{
+  "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+  "score": 56,
+  "comments": 24,
+  "url": "https://arxiv.org/abs/2601.10160",
+  "hn_url": "https://news.ycombinator.com/item?id=48185938",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training"
+  ],
+  "summary_cn": "文章探讨了AI对齐预训练中一个反直觉现象：关于AI对齐的讨论本身可能通过自我实现预言导致实际的对齐或错误对齐。技术要点在于预训练阶段的数据话语会塑造模型对齐方向，形成反馈循环。商业价值在于引导产品团队关注训练数据中人类对AI安全性的表述，避免无意中强化不良行为。产品创新上可设计动态对齐训练策略，主动管理话语影响。",
+  "pm_relevance": 8,
+  "concepts": [
+    "自我实现对齐",
+    "话语影响",
+    "预训练反馈循环"
+  ],
+  "entities": [],
+  "patterns": [
+    "对齐训练话语调节"
+  ]
+}

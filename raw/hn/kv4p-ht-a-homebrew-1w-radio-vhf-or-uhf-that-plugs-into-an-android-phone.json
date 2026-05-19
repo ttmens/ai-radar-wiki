@@ -1,0 +1,23 @@
+{
+  "title": "Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
+  "score": 94,
+  "comments": 31,
+  "url": "https://www.kv4p.com/",
+  "hn_url": "https://news.ycombinator.com/item?id=48161772",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该项目展示了一款名为Kv4p HT的自制低成本无线电收发器，可插入Android手机，工作在1W功率的VHF或UHF频段。对于AI产品经理而言，其技术亮点在于将智能手机作为通用计算平台与专用射频硬件的结合，为边缘设备通信提供了一种低成本、易扩展的方案。商业价值体现在应急通信、物联网网关、户外探险等场景，无需依赖蜂窝网络。产品创新在于开源硬件设计与手机App协同，降低了业余无线电的门槛，但直接AI相关性较弱。",
+  "pm_relevance": 3,
+  "concepts": [
+    "Edge Communication",
+    "IoT Gateway",
+    "Mobile-Integrated Hardware"
+  ],
+  "entities": [
+    "Kv4p HT"
+  ],
+  "patterns": [
+    "Open Source Hardware"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "title": "ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop",
+  "summary": "Spatial intelligence unfolds through a perception-action loop: agents act to acquire observations, and reason about how observations vary as a function of action. Rather than passively processing what is seen, they actively uncover what is unseen - occluded structure, dynamics, containment, and functionality that cannot be resolved from passive sensing alone. We move beyond prior formulations of spatial intelligence that assume oracle observations by recasting the observer as an actor. We introduce ESI-BENCH, a comprehensive benchmark for embodied spatial intelligence spanning 10 task categories and 29 subcategories built on OmniGibson, grounded in Spelke's core knowledge systems. Agents must decide what abilities to deploy - perception, locomotion, and manipulation - and how to sequence them to actively accumulate task-relevant evidence. We conduct extensive experiments on state-of-the-art MLLMs and find that active exploration substantially outperforms passive counterparts, with agents spontaneously discovering emergent spatial strategies without explicit instructions, while random multi-view often adds noise rather than signal despite consuming far more images. Most failures stem not from weak perception but from action blindness: poor action choices lead to poor observations, which in turn drive cascading errors. While explicit 3D grounding stabilizes reasoning on depth-sensitive tasks, imperfect 3D representation proves more harmful than 2D baselines by distorting spatial relations. Human studies further reveal that unlike humans who seek falsifying viewpoints and revise beliefs under contradiction, models commit prematurely with high confidence regardless of evidence quality, exposing a metacognitive gap that neither better perception nor more embodied interaction alone can close.",
+  "url": "http://arxiv.org/abs/2605.18746v1",
+  "authors": [
+    "Yining Hong",
+    "Jiageng Liu",
+    "Han Yin",
+    "Manling Li",
+    "Leonidas Guibas"
+  ],
+  "published": "2026-05-18T17:59:02Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "reasoning"
+  ],
+  "summary_cn": "ESI-Bench是一个面向具身空间智能的基准测试，旨在闭环评估感知-行动循环。该基准强调智能体通过主动行动获取观察，并推理观察随行动的变化，从而揭示被遮挡结构、动力学和包含关系等未见的空间信息。对于AI产品经理，技术核心是感知与行动闭环的标准化测试，商业价值在于推动具身机器人、自动驾驶等领域的空间理解能力提升，产品创新体现在从被动感知到主动探索的范式转变。",
+  "pm_relevance": 7,
+  "concepts": [
+    "具身智能",
+    "空间智能",
+    "感知-行动闭环"
+  ],
+  "entities": [],
+  "patterns": [
+    "Benchmark-driven Evaluation",
+    "Agent-based Testing"
+  ]
+}

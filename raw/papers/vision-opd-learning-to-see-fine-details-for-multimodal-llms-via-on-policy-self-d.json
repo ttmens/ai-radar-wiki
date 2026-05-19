@@ -1,0 +1,35 @@
+{
+  "title": "Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation",
+  "summary": "Multimodal Large Language Models (MLLMs) still struggle with fine-grained visual understanding, where answers often depend on small but decisive evidence in the full image. We observe a regional-to-global perception gap: the same MLLM answers fine-grained questions more accurately when conditioned on evidence-centered crops than on the corresponding full images, suggesting that many failures stem from difficulty to focus on relevant evidence rather than insufficient local recognition ability. Motivated by this observation, we propose Vision-OPD (Vision On-Policy Distillation), a regional-to-global self-distillation framework that transfers the model's own privileged regional perception to its full-image policy. Vision-OPD instantiates two conditional policies from the same MLLM: a crop-conditioned teacher and a full-image-conditioned student. The student generates on-policy rollouts, and Vision-OPD minimizes token-level divergence between the teacher and student next-token distributions along these rollouts. This enables the model to internalize the benefit of visual zooming without external teacher models, ground-truth labels, reward verifiers, or inference-time tool use. Experiments on multiple fine-grained visual understanding benchmarks show that Vision-OPD models achieve competitive or superior performance against much larger open-source, closed-source, and \"Thinking-with-Images\" agentic models.",
+  "url": "http://arxiv.org/abs/2605.18740v1",
+  "authors": [
+    "Qianhao Yuan",
+    "Jie Lou",
+    "Xing Yu",
+    "Hongyu Lin",
+    "Le Sun"
+  ],
+  "published": "2026-05-18T17:57:04Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "token",
+    "benchmark",
+    "multimodal",
+    "vision",
+    "distillation"
+  ],
+  "summary_cn": "该论文提出 Vision-OPD，通过在线策略自蒸馏方法缩小多模态大语言模型在细粒度视觉理解中的“区域到全局感知差距”。核心创新是让模型在训练中关注图像局部关键细节，提升对微小证据的识别能力，从而更准确地回答依赖细节的视觉问题。技术要点包括自蒸馏框架和 on-policy 训练策略。商业价值在于可显著改善 AI 产品的图像问答、文档解析、医疗影像等需要高精度细节理解的场景，降低对高质量标注数据的依赖。产品创新在于无需额外外部知识库，仅通过自身知识蒸馏增强细节感知，易于集成到现有 MLLM 中。",
+  "pm_relevance": 7,
+  "concepts": [
+    "细粒度视觉理解",
+    "自蒸馏",
+    "多模态大语言模型"
+  ],
+  "entities": [],
+  "patterns": [
+    "Self-Distillation",
+    "On-Policy Training"
+  ]
+}

@@ -697,3 +697,23 @@
 - create: pairwise-preference-reward-and-group-based-diversity-enhancement-for-superior-op.md
 - create: the-last-six-months-in-llms-in-five-minutes.md
 - create: the-american-rebellion-against-ai-is-gaining-steam.md
+
+## [2026-05-19 18:03] sync v3 | 18 new | pillars: {'capabilities': 13, 'ecosystem': 3, 'patterns': 2}
+- create: explosionspacy.md
+- create: dashattention-differentiable-and-adaptive-sparse-hierarchical-attention.md
+- create: a-readiness-driven-runtime-for-pipeline-parallel-training-under-runtime-variabil.md
+- create: code-as-agent-harness.md
+- create: esi-bench-towards-embodied-spatial-intelligence-that-closes-the-perception-actio.md
+- create: surge-approximation-free-training-free-particle-filter-for-diffusion-surrogate.md
+- create: actionable-world-representation.md
+- create: vision-opd-learning-to-see-fine-details-for-multimodal-llms-via-on-policy-self-d.md
+- create: what-does-the-ai-doctor-value-auditing-pluralism-in-the-clinical-ethics-of-langu.md
+- create: pixlrelight-controllable-relighting-via-intrinsic-conditioning.md
+- create: predictable-confabulations-factual-recall-by-llms-scales-with-model-size-and-top.md
+- create: dexholdem-playing-texas-holdem-with-dexterous-embodied-system.md
+- create: general-preference-reinforcement-learning.md
+- create: kv4p-ht-a-homebrew-1w-radio-vhf-or-uhf-that-plugs-into-an-android-phone.md
+- create: mini-shai-hulud-strikes-again-314-npm-packages-compromised.md
+- create: alignment-pretraining-ai-discourse-creates-self-fulfilling-misalignment.md
+- create: my-domain-got-abused-on-github-pages.md
+- create: show-hn-beacon-the-open-source-layer-for-local-ai-agent-visibility.md

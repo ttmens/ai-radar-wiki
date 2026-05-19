@@ -1,7 +1,7 @@
 {
   "date": "2026-05-19",
-  "generated_at": "2026-05-19T12:02:48.554699+08:00",
-  "item_count": 35,
+  "generated_at": "2026-05-19T18:03:00.684221+08:00",
+  "item_count": 50,
   "items": [
     {
       "id": "elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai",
@@ -37,6 +37,17 @@
       "date": "2026-05-19"
     },
     {
+      "id": "explosionspacy",
+      "label": "explosion/spaCy",
+      "summary": "spaCy 是一个工业级 Python 自然语言处理（NLP）库，专为高效、可靠的文本分析而设计。它提供预训练的多语言模型、快速命名实体识别（NER）、依存句法分析、词性标注等功能，并支持自定义管道扩展。对于 AI 产品经理而言，spaCy 可直接嵌入到聊天机器人、文档理解、信息抽取等产品中，大幅降低 NLP 开发成本。其模块化架构和丰富文档加速了从原型到生产的落地，尤其适合需要实时处理大规模文本的商业场景。",
+      "pm_score": 0.58,
+      "pillar": "capabilities",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/explosion/spaCy",
+      "date": "2026-05-19"
+    },
+    {
       "id": "ai-eats-the-world-spring-26-pdf",
       "label": "AI eats the world (Spring 26) [pdf]",
       "summary": "该报告预测至2026年春季，AI将如软件般全面重塑全球产业格局。面向AI产品经理，需重点关注从“功能叠加”向“AI原生架构”的演进。技术上依赖多模态大模型与自主Agent的协同；商业价值在于重构核心工作流以实现指数级降本增效；产品创新应聚焦垂直场景闭环与数据飞轮，抢占行业智能化入口。",
@@ -45,6 +56,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48179021",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "dashattention-differentiable-and-adaptive-sparse-hierarchical-attention",
+      "label": "DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention",
+      "summary": "DashAttention 提出了一种可微自适应稀疏分层注意力机制，解决了现有方法（如 NSA、InfLLMv2）中 top-k 选择固定数量 KV 块的局限。该技术通过动态调整每个查询的相关 token 数量，结合可微分操作实现端到端优化，在保持长上下文处理能力的同时大幅降低计算和内存开销。对于 AI 产品而言，这意味着更高效的长文档理解、对话记忆和推理任务，能够以更低成本支撑更大规模的上下文窗口，并提升模型对关键信息的聚焦能力，具有显著的商业价值。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18753v1",
       "date": "2026-05-19"
     },
     {
@@ -180,6 +202,28 @@
       "date": "2026-05-19"
     },
     {
+      "id": "code-as-agent-harness",
+      "label": "Code as Agent Harness",
+      "summary": "该论文提出“Code as Agent Harness”概念，强调在智能体系统中，代码不仅是LLM的生成目标，更成为智能体操作的基础框架。通过将代码作为智能体的“操作基质”，可显著提升LLM在复杂任务中的执行能力，从编程竞赛到企业级软件工程均适用。这一思路为产品经理提供了新视角：利用代码驱动智能体自主完成编码、调试、部署等全流程，有望降低开发门槛、加速功能迭代。商业价值在于构建更强大的AI编码助手与自动化开发工具，推动软件工程效率革命。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18747v1",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "pixlrelight-controllable-relighting-via-intrinsic-conditioning",
+      "label": "PIXLRelight: Controllable Relighting via Intrinsic Conditioning",
+      "summary": "PIXLRelight 是一种基于前馈神经网络的可控单图像重新照明方法。它通过内在条件（如反照率、法线等）实现物理上准确的光照控制，避免了传统方法中链接逆向和正向渲染导致的误差累积，以及昂贵的逐图像优化过程。该方法支持用户通过环境图等方式灵活调整光照，适用于摄影、电影后期、AR/VR 等需要编辑图像光照的产品场景，有望大幅提升图像内容创作的效率与可控性。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18735v1",
+      "date": "2026-05-19"
+    },
+    {
       "id": "haiku-os-runs-on-m1-macs-now",
       "label": "Haiku OS runs on M1 Macs now",
       "summary": "Haiku OS（开源轻量级操作系统）现已支持在Apple M1芯片上运行，这一技术移植使得该操作系统能够利用M1的高性能与能效。对于AI产品经理而言，这意味着未来可将AI应用部署在更紧凑、低功耗的硬件平台上，尤其适合边缘计算或特定领域的嵌入式AI场景。同时，Haiku OS的开放架构也便于定制化开发，但当前生态尚不成熟，需关注其对AI框架的兼容性进展。",
@@ -246,6 +290,28 @@
       "date": "2026-05-19"
     },
     {
+      "id": "general-preference-reinforcement-learning",
+      "label": "General Preference Reinforcement Learning",
+      "summary": "本文提出一种通用偏好强化学习（General Preference RL）方法，旨在统一大语言模型（LLM）后训练中的两个脱节分支：基于可验证奖励的在线强化学习（适用于数学、代码等可验证任务）和偏好优化（适用于开放任务）。该方法通过引入广义偏好反馈机制，无需程序化验证器即可支持开放任务，同时保持推理能力提升。对于产品经理，这意味着未来LLM可能在更广泛的场景（如创意写作、复杂对话）中实现更可靠的对齐，降低对严格规则验证的依赖，提升模型实用性和安全性。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18721v1",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "vision-opd-learning-to-see-fine-details-for-multimodal-llms-via-on-policy-self-d",
+      "label": "Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-",
+      "summary": "该论文提出 Vision-OPD，通过在线策略自蒸馏方法缩小多模态大语言模型在细粒度视觉理解中的“区域到全局感知差距”。核心创新是让模型在训练中关注图像局部关键细节，提升对微小证据的识别能力，从而更准确地回答依赖细节的视觉问题。技术要点包括自蒸馏框架和 on-policy 训练策略。商业价值在于可显著改善 AI 产品的图像问答、文档解析、医疗影像等需要高精度细节理解的场景，降低对高质量标注数据的依赖。产品创新在于无需额外外部知识库，仅通过自身知识蒸馏增强细节感知，易于集成到现有 MLLM 中。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18740v1",
+      "date": "2026-05-19"
+    },
+    {
       "id": "a-simplex-witness-certificate-for-constant-collapse-in-variational-autoencoders",
       "label": "A Simplex Witness Certificate for Constant Collapse in Variational Autoencoders",
       "summary": "本论文研究变分自编码器（VAE）中的“恒定崩溃”问题，即编码器均值与输入无关的失败模式。作者提出一种单纯形证人证书方法，使这种崩溃可预先设计、训练中可监控、训练后可认证。该方法在保持标准高斯先验的前提下，为生成模型的稳定性提供可验证的保障。对于AI产品经理而言，该技术可降低生成模型在实际部署中的不可预测性，提升产品可靠性，尤其适用于需要高稳定性的生成式AI应用。",
@@ -254,6 +320,61 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2605.18224v1",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "surge-approximation-free-training-free-particle-filter-for-diffusion-surrogate",
+      "label": "SURGE: Approximation-free Training Free Particle Filter for Diffusion Surrogate",
+      "summary": "本文提出SURGE方法，一种无近似、无需训练的粒子滤波技术，用于扩散模型的推理时引导。现有方法依赖重复评分或梯度评估，存在偏差和高计算成本。SURGE通过引入无近似的粒子滤波，无需额外训练即可有效提升样本质量，适用于任务特定目标优化。该技术降低了扩散模型推理的计算开销，同时保持生成质量，对需要实时或高效生成高质量内容的AI产品（如图像生成、视频合成等）具有商业价值，可加速产品迭代并降低部署成本。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18745v1",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "dexholdem-playing-texas-holdem-with-dexterous-embodied-system",
+      "label": "DexHoldem: Playing Texas Hold'em with Dexterous Embodied System",
+      "summary": "DexHoldem 是一个将灵巧操作与德州扑克决策相结合的具身智能系统。它要求机器人实时感知变化的桌面场景，根据游戏情境选择合适的动作，并通过灵巧手精确执行，同时保持场景整洁以便后续操作。该系统在真实硬件上验证了从感知到决策再到操作的全流程能力，突破了传统单一技能评估的局限。对产品经理而言，这展示了将复杂策略游戏与物理操作融合的潜力，可用于娱乐机器人、教育仿真或交互式游戏场景，推动了具身智能从实验室走向实用化。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18727v1",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "what-does-the-ai-doctor-value-auditing-pluralism-in-the-clinical-ethics-of-langu",
+      "label": "What Does the AI Doctor Value? Auditing Pluralism in the Clinical Ethics of Lang",
+      "summary": "该论文探讨了大型语言模型在临床环境中如何体现多元伦理价值观。医学领域内自主、有益、不伤害、公正等原则常相互冲突，而好的临床实践需与患者个体价值观协调。研究审计了AI医生模型在伦理决策中是否尊重多元主义，而非强加单一标准。技术要点：需要构建能识别并权衡不同伦理原则的模型，避免价值观偏见；商业价值：提升医疗AI的信任度和合规性，减少伦理诉讼风险；产品创新：可开发伦理审计工具，辅助模型训练中的价值观对齐。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18738v1",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "esi-bench-towards-embodied-spatial-intelligence-that-closes-the-perception-actio",
+      "label": "ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Acti",
+      "summary": "ESI-Bench是一个面向具身空间智能的基准测试，旨在闭环评估感知-行动循环。该基准强调智能体通过主动行动获取观察，并推理观察随行动的变化，从而揭示被遮挡结构、动力学和包含关系等未见的空间信息。对于AI产品经理，技术核心是感知与行动闭环的标准化测试，商业价值在于推动具身机器人、自动驾驶等领域的空间理解能力提升，产品创新体现在从被动感知到主动探索的范式转变。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18746v1",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "alignment-pretraining-ai-discourse-creates-self-fulfilling-misalignment",
+      "label": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+      "summary": "文章探讨了AI对齐预训练中一个反直觉现象：关于AI对齐的讨论本身可能通过自我实现预言导致实际的对齐或错误对齐。技术要点在于预训练阶段的数据话语会塑造模型对齐方向，形成反馈循环。商业价值在于引导产品团队关注训练数据中人类对AI安全性的表述，避免无意中强化不良行为。产品创新上可设计动态对齐训练策略，主动管理话语影响。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48185938",
       "date": "2026-05-19"
     },
     {
@@ -301,6 +422,17 @@
       "date": "2026-05-19"
     },
     {
+      "id": "a-readiness-driven-runtime-for-pipeline-parallel-training-under-runtime-variabil",
+      "label": "A Readiness-Driven Runtime for Pipeline-Parallel Training under Runtime Variabil",
+      "summary": "该论文聚焦于大模型训练中的流水线并行技术，指出现有系统因运行时计算和通信的可变性导致效率低下，传统静态或预生成调度方案难以适应动态变化。作者提出一种基于就绪驱动的运行时机制，能够实时感知任务就绪状态并动态调度，从而提升训练资源利用率和吞吐量。该方案为AI训练基础设施优化提供了新思路，可降低大规模模型训练成本，对高性能计算平台和云服务商具有商业价值。",
+      "pm_score": 0.41,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18750v1",
+      "date": "2026-05-19"
+    },
+    {
       "id": "iran-starts-bitcoin-backed-ship-insurance-for-hormuz-strait",
       "label": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
       "summary": "暂无中文摘要",
@@ -309,6 +441,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48182592",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "mini-shai-hulud-strikes-again-314-npm-packages-compromised",
+      "label": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+      "summary": "近期发生npm包大规模投毒事件，314个包被攻破，影响广泛。对AI产品经理而言，需警惕AI工具链依赖的供应链风险，加强依赖审计和镜像安全策略，避免恶意包侵入开发环境。该事件凸显了开源生态安全监管的薄弱环节，商业上可能引发企业对私有化或受控包管理解决方案的需求。",
+      "pm_score": 0.395,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48189368",
       "date": "2026-05-19"
     },
     {
@@ -387,10 +530,32 @@
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2605.18229v1",
       "date": "2026-05-19"
+    },
+    {
+      "id": "predictable-confabulations-factual-recall-by-llms-scales-with-model-size-and-top",
+      "label": "Predictable Confabulations: Factual Recall by LLMs Scales with Model Size and To",
+      "summary": "While scaling laws govern aggregate large language model performance, no scaling law has linked factual recall to both model size and training-data composition. We evaluated 38 models on over 8,900 scholarly references evaluated by an automated reference verification system. Recall quality follows a",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18732v1",
+      "date": "2026-05-19"
+    },
+    {
+      "id": "actionable-world-representation",
+      "label": "Actionable World Representation",
+      "summary": "Inspired by the emergent behaviors in large language models that generalized human intelligence, the research community is pursuing similar emergent capabilities within world models, with a emphasis on modeling the physical world. Within the scope of physical world model, objects are the fundamental",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.18743v1",
+      "date": "2026-05-19"
     }
   ],
   "graph_totals": {
-    "real_nodes": 617,
-    "edges": 29779
+    "real_nodes": 635,
+    "edges": 30418
   }
 }

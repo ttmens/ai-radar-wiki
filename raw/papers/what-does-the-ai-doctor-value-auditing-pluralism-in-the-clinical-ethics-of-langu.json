@@ -1,0 +1,30 @@
+{
+  "title": "What Does the AI Doctor Value? Auditing Pluralism in the Clinical Ethics of Language Models",
+  "summary": "Medicine is inherently pluralistic. Principles such as autonomy, beneficence, nonmaleficence, and justice routinely conflict, and such ethical dilemmas often sharply divide reasonable physicians. Good clinical practice navigates these tensions in concert with each patient's values rather than imposing a single ethical stance. The ethical values that large language models bring to medical advice, however, have not been systematically examined. We present a framework for auditing value pluralism in medical AI, comprising a benchmark of clinician-verified dilemmas and an attribution method that recovers value priorities directly from decisions. The ecosystem of frontier models spans physician-level value heterogeneity, and models discuss competing values in their reasoning (Overton pluralism) before committing to a decision. However, individual model decisions are near-deterministic across repeated sampling and semantic variations, failing to reproduce the distributional pluralism of the physician panel. Across benchmark cases, these consistent decisions reflect committed, systematic value preferences. While most model priorities fall within the natural range of inter-physician variation, some significantly underweight patient autonomy. A single LLM deployed without regard for its value priorities could amplify those priorities at scale to every patient it serves. Without explicit efforts to balance ethical perspectives with one or multiple models, these tools risk replacing clinical pluralism with a deployment monoculture.",
+  "url": "http://arxiv.org/abs/2605.18738v1",
+  "authors": [
+    "Payal Chandak",
+    "Victoria Alkin",
+    "David Wu",
+    "Maya Dagan",
+    "Taposh Dutta Roy"
+  ],
+  "published": "2026-05-18T17:56:13Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "reasoning"
+  ],
+  "summary_cn": "该论文探讨了大型语言模型在临床环境中如何体现多元伦理价值观。医学领域内自主、有益、不伤害、公正等原则常相互冲突，而好的临床实践需与患者个体价值观协调。研究审计了AI医生模型在伦理决策中是否尊重多元主义，而非强加单一标准。技术要点：需要构建能识别并权衡不同伦理原则的模型，避免价值观偏见；商业价值：提升医疗AI的信任度和合规性，减少伦理诉讼风险；产品创新：可开发伦理审计工具，辅助模型训练中的价值观对齐。",
+  "pm_relevance": 7,
+  "concepts": [
+    "伦理多元主义",
+    "临床AI伦理",
+    "价值观对齐"
+  ],
+  "entities": [],
+  "patterns": [
+    "Ethical AI Auditing"
+  ]
+}

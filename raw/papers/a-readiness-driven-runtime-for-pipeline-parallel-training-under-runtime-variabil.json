@@ -1,0 +1,30 @@
+{
+  "title": "A Readiness-Driven Runtime for Pipeline-Parallel Training under Runtime Variability",
+  "summary": "Pipeline parallelism is a key technique for scaling large-model training, but modern workloads exhibit runtime variability in computation and communication. Existing pipeline systems typically consume static, profiled, or adaptively generated schedules as pre-committed execution orders. When realized task readiness diverges from the pre-committed order, stages may wait for not-yet-ready work even though other executable work is available, creating stage misalignment, idle bubbles, and reduced utilization.\n  We present Runtime-Readiness-First Pipeline (RRFP), a readiness-driven runtime for pipeline-parallel training. RRFP changes how schedules are consumed at runtime: instead of treating a schedule as a sequence that stages must wait to follow, it treats the schedule as a non-binding hint order for ranking currently ready work. To support this model, RRFP combines message-driven asynchronous communication, lightweight tensor-parallel coordination for collective consistency, and ready-set arbitration for low-overhead dispatch.\n  We implement RRFP in a Megatron-based training framework and evaluate it on language-only and multimodal workloads at up to 128 GPUs. RRFP improves over fixed-order pipeline baselines across all settings. Using the BFW hint, RRFP achieves up to 1.77$\\times$ speedup on language-only workloads and up to 2.77$\\times$ on multimodal workloads. In cross-framework comparisons, RRFP with the default BF hint outperforms the faster available external system by up to 1.84$\\times$ while preserving training correctness.",
+  "url": "http://arxiv.org/abs/2605.18750v1",
+  "authors": [
+    "Ruitao Liu",
+    "Xinyang Tian",
+    "Shuo Chen",
+    "Tingrui Zhang",
+    "Guang Yang"
+  ],
+  "published": "2026-05-18T17:59:18Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "framework",
+    "eval",
+    "serving",
+    "pipeline"
+  ],
+  "summary_cn": "该论文聚焦于大模型训练中的流水线并行技术，指出现有系统因运行时计算和通信的可变性导致效率低下，传统静态或预生成调度方案难以适应动态变化。作者提出一种基于就绪驱动的运行时机制，能够实时感知任务就绪状态并动态调度，从而提升训练资源利用率和吞吐量。该方案为AI训练基础设施优化提供了新思路，可降低大规模模型训练成本，对高性能计算平台和云服务商具有商业价值。",
+  "pm_relevance": 6,
+  "concepts": [
+    "Pipeline Parallelism",
+    "Runtime Variability",
+    "Readiness-Driven Scheduling"
+  ],
+  "entities": [],
+  "patterns": []
+}
