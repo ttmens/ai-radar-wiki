@@ -1,0 +1,25 @@
+---
+title: Autoregressive next token prediction and KV Cache in transformers
+created: 2026-05-21
+updated: 2026-05-21
+type: entity
+pillar: capabilities
+pm_score: 0.295
+tags: ["discussion", "hacker-news", "capabilities"]
+sources: ["raw/hn/autoregressive-next-token-prediction-and-kv-cache-in-transformers.json"]
+---
+
+# Autoregressive next token prediction and KV Cache in transformers
+
+## 中文摘要
+本文介绍了Transformer模型中的自回归下一个token预测机制及其关键优化技术KV Cache。自回归预测是GPT等大语言模型的基础，逐token生成文本；KV Cache通过缓存历史token的Key和Value向量，避免重复计算，显著提升推理速度并降低显存占用，是工业级部署的核心优化。对于AI产品经理，理解KV Cache有助于评估模型在实时对话、长文本生成等场景下的成本与延迟，推动产品在响应速度和用户体验上的创新。
+
+## PM 关注指标
+- 🔥 HN Score: 49
+- 💬 Comments: 0
+- 🎯 PM Score: 0.295
+- 🏷️ Pillar: capabilities
+
+## 链接
+- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48172747
+- 🔗 原文: https://medium.com/advanced-deep-learning/autoregressive-next-token-prediction-kv-cache-in-transformers-afad22285baf

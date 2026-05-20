@@ -2,47 +2,88 @@
   "daily_summary": {
     "date": "2026-05-21",
     "headline": "今日 AI 情报 · 2026-05-21",
-    "overview": "AI加速从对话交互迈向自主代理与嵌入式系统，同时信任与安全挑战凸显。",
+    "overview": "AI从语言助手迈向自主推理与执行，算力与信任成为商业化瓶颈。",
     "narratives": [
       {
-        "title": "AI从对话工具向自主代理与嵌入式系统演进",
-        "body": "多个信号表明AI正从单纯对话转向能独立规划、调用工具、嵌入工作流的自主代理。Qwen3.7-Max聚焦Agent前沿，Figma AI助手融入协作画布，Stability Audio可在设备端运行，诺贝尔奖作家用AI辅助创作——这标志着AI从“回答问题”进化到“执行任务”。产品经理应关注如何设计自主决策的边界、工具链集成以及用户对代理行为的可控性。",
+        "title": "AI 推理能力突破，从语言助手向自主科学发现和操作代理演进",
+        "body": "今天多条情报表明，AI正在从被动对话式交互转向主动推理和自主行动。OpenAI成功推翻离散几何猜想、Qwen3.7-Max强化Agent能力、Figma AI助手嵌入设计工作流、以及IrisGo桌面管家等，共同勾勒出AI产品形态的质变——从“回答问题”到“解决问题并执行”。产品经理需重新思考人机协作范式：用户不再是输入指令的触发者，而是设定目标、监督过程的合作者。后续将催生更复杂的任务编排、可解释性要求及安全防护。",
         "type": "paradigm_shift",
-        "pillar_key": "patterns"
+        "pillar_key": "capabilities"
       },
       {
-        "title": "AI信任与安全瓶颈成为产品化关键",
-        "body": "大学生对AI赞歌的嘘声、Google AI被操纵、Anna's Archive版权判决、CopyFail容器逃逸漏洞——这些事件共同指向一个瓶颈：AI产品若缺乏信任与安全机制，将面临用户抵制、法律风险和系统崩溃。产品经理必须将伦理、合规、鲁棒性作为核心功能，而非事后修补。",
+        "title": "算力军备竞赛与用户信任危机并行，AI商业化面临双重约束",
+        "body": "Anthropic每月12.5亿美元购买算力、xAI计划投资28亿美元自建能源设施，同时大学生对AI赞歌发出嘘声、数据版权诉讼频发，揭示出AI商业模式的两大瓶颈：基础设施成本飙升与社会信任缺失。产品经理需在追求规模化性能时提前规划算力弹性、碳合规及伦理设计，否则成本与舆论风险将反噬产品生命周期。",
         "type": "bottleneck",
         "pillar_key": "business"
       }
     ],
     "insights": [
       {
-        "pillar": "📱 产品模式",
-        "pillar_key": "patterns",
-        "narrative_title": "AI从对话工具向自主代理与嵌入式系统演进",
-        "insight": "AI从对话工具向自主代理与嵌入式系统演进。该方向的具体信号：模型层（Qwen3.7-Max）致力于自主规划与工具调用；应用层（Figma AI助手）将AI无缝嵌入设计工作流；技术栈（Rust、IResearch）为低延迟代理提供基础设施；音频生成（Stability Audio）实现设备端运行，减少云端依赖；创作场景（诺奖作家）验证了AI与人类深度协作的可行性。PM应思考如何设计代理的决策透明度和用户授权机制。",
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI 推理能力突破，从语言助手向自主科学发现和操作代理演进",
+        "insight": "AI 推理能力突破，从语言助手向自主科学发现和操作代理演进。该方向的具体信号：OpenAI模型推翻离散几何核心猜想，并获数学家背书解决了80年难题，验证了AI在形式化证明和科学发现上的突破性进展；Qwen3.7-Max聚焦Agent前沿，支持长上下文和多步决策，降低企业级智能代理开发成本；AI搜索初创公司利用RAG技术颠覆传统搜索，对话式精准答案成为新入口；IrisGo通过被动观察学习桌面操作，实现从观察到执行的闭环；Stability Audio 3.0本地模型可生成2分钟音轨，推动音频创作离线化；形式化验证嵌入AI编码循环提升代码可靠性。这些信号共同表明AI不再局限于语言生成，正快速向自主推理、科学发现和任务执行演进。",
         "evidence": [
+          {
+            "id": "an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry",
+            "title": "OpenAI model disproves central conjecture in discrete geometry",
+            "score": 0.63
+          },
+          {
+            "id": "openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time",
+            "title": "OpenAI claims solved 80-year-old math problem with expert backing",
+            "score": 0.52
+          },
           {
             "id": "qwen37-max-the-agent-frontier",
             "title": "Qwen3.7-Max: The Agent Frontier",
             "score": 0.6
           },
           {
-            "id": "figma-adds-an-ai-assistant-to-its-collaborative-canvas",
-            "title": "Figma adds an AI assistant to its collaborative canvas",
+            "id": "irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-ne",
+            "title": "IrisGo: AI desktop buddy trained by observation",
             "score": 0.48
-          },
-          {
-            "id": "ai-search-startups-are-blowing-up",
-            "title": "AI search startups are blowing up",
-            "score": 0.52
           },
           {
             "id": "stability-ai-releases-a-new-audio-model-that-can-create-six-minute-songs",
-            "title": "Stability AI releases a new audio model that can create six-minute songs",
+            "title": "Stability AI releases on-device audio model for 2-minute tracks",
             "score": 0.48
+          }
+        ]
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI 推理能力突破，从语言助手向自主科学发现和操作代理演进",
+        "insight": "AI 推理能力突破，从语言助手向自主科学发现和操作代理演进。该方向的具体信号：Figma在协作画布中嵌入AI助手，通过自然语言辅助布局和组件生成，将AI无缝集成到现有设计工作流中，体现了“嵌入式AI助手”模式；Qwen3.7-Max在Agent模式下支持工具调用和多步规划，使AI从单一任务响应转向自主任务编排；利用AI智能体测试分布式系统展示了AI作为自主探索和故障模拟工具的新模式，可集成到CI/CD流程中提升测试覆盖率。这些信号表明AI产品正从“插件式”转向“内嵌式”和“自主式”模式。",
+        "evidence": [
+          {
+            "id": "figma-adds-an-ai-assistant-to-its-collaborative-canvas",
+            "title": "Figma adds AI assistant to collaborative canvas",
+            "score": 0.48
+          },
+          {
+            "id": "testing-distributed-systems-with-ai-agents",
+            "title": "Testing distributed systems with AI agents",
+            "score": 0.41
+          }
+        ]
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "算力军备竞赛与用户信任危机并行，AI商业化面临双重约束",
+        "insight": "算力军备竞赛与用户信任危机并行，AI商业化面临双重约束。该方向的具体信号：Nvidia季度营收创新高并披露430亿美元AI初创投资，显示其通过资本深度参与生态，影响算力定价和工具格局；Anna's Archive因数据版权诉讼被判1950万美元赔偿，倒逼行业收紧数据获取策略，转向合成数据或授权数据；使用Rust开发AI的经验强调内存安全和并发性能，适合边缘部署和实时推理，为算力紧张提供替代方案。这些事件共同说明AI生态正围绕算力、数据和合规性进行结构性重塑。",
+        "evidence": [
+          {
+            "id": "nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups",
+            "title": "Nvidia record quarter, $43B holdings in startups",
+            "score": 0.48
+          },
+          {
+            "id": "annas-archive-hit-with-195m-default-judgment-and-global-domain-takedown-order",
+            "title": "Anna's Archive $19.5M default judgment, global takedown",
+            "score": 0.55
           },
           {
             "id": "learnings-from-100k-lines-of-rust-with-ai-2025",
@@ -54,31 +95,30 @@
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "narrative_title": "AI信任与安全瓶颈成为产品化关键",
-        "insight": "AI信任与安全瓶颈成为产品化关键。该方向的具体信号：大学生公开反对AI赞歌（信任危机）、Google AI遭操纵（系统脆弱性）、Anna's Archive版权判决（数据合规风险）、CopyFail容器逃逸（基础设施安全）——这些事件从用户心理、模型防御、法律和数据安全四个维度警示：AI产品经理必须将信任工程纳入产品架构，否则再强的能力也无法转化为可持续商业价值。",
+        "narrative_title": "算力军备竞赛与用户信任危机并行，AI商业化面临双重约束",
+        "insight": "算力军备竞赛与用户信任危机并行，AI商业化面临双重约束。该方向的具体信号：Anthropic每月支付xAI 12.5亿美元换取算力，凸显算力成为战略资产并推动跨公司合作；xAI计划斥资28亿美元采购天然气涡轮机，自建能源基础设施，表明AI公司正向垂直整合挺进；OpenAI最快9月IPO将为研发注入资金但可能加剧公监管审视；大学生集体嘘声AI赞美演讲，显示年轻群体信任缺失，倒逼产品经理将伦理与透明度作为核心特性。这些信号预示着AI商业进入成本与信任双重博弈阶段。",
         "evidence": [
           {
-            "id": "googles-ai-is-being-manipulated-the-search-giant-is-quietly-fighting-back",
-            "title": "Google's AI is being manipulated. The search giant is quietly fighting back",
+            "id": "anthropic-will-pay-xai-125-billion-per-month-for-compute",
+            "title": "Anthropic pays xAI $1.25B/month for compute",
+            "score": 0.52
+          },
+          {
+            "id": "openai-barrels-toward-ipo-that-may-happen-in-september",
+            "title": "Openai barrels toward September IPO",
             "score": 0.48
-          },
-          {
-            "id": "annas-archive-hit-with-195m-default-judgment-and-global-domain-takedown-order",
-            "title": "Anna's Archive Hit with $19.5M Default Judgment and Global Domain Takedown Order",
-            "score": 0.55
-          },
-          {
-            "id": "copyfail-from-pod-to-host",
-            "title": "CopyFail: From Pod to Host",
-            "score": 0.29
           }
         ]
       }
     ],
-    "stats": "技术能力: 9 | 产品模式: 2 | 工具生态: 4 | 商业趋势: 1",
-    "total_items": 15,
-    "high_value_count": 13,
+    "stats": "技术能力: 8 | 产品模式: 3 | 工具生态: 5 | 商业趋势: 4",
+    "total_items": 20,
+    "high_value_count": 20,
     "all_today_ids": [
+      {
+        "id": "an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry",
+        "label": "An OpenAI model has disproved a central conjecture in discrete geometry"
+      },
       {
         "id": "qwen37-max-the-agent-frontier",
         "label": "Qwen3.7-Max: The Agent Frontier"
@@ -92,12 +132,28 @@
         "label": "Anna's Archive Hit with $19.5M Default Judgment and Global Domain Takedown Order"
       },
       {
+        "id": "openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time",
+        "label": "OpenAI claims it solved an 80-year-old math problem — for real this time"
+      },
+      {
         "id": "learnings-from-100k-lines-of-rust-with-ai-2025",
         "label": "Learnings from 100K lines of Rust with AI (2025)"
       },
       {
+        "id": "anthropic-will-pay-xai-125-billion-per-month-for-compute",
+        "label": "Anthropic will pay xAI $1.25 billion per month for compute"
+      },
+      {
         "id": "ai-search-startups-are-blowing-up",
         "label": "AI search startups are blowing up"
+      },
+      {
+        "id": "irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-ne",
+        "label": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you"
+      },
+      {
+        "id": "musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-28b-more",
+        "label": "Musk’s xAI is being sued over its data center generators. Now, it’s buying $2.8B"
       },
       {
         "id": "googles-ai-is-being-manipulated-the-search-giant-is-quietly-fighting-back",
@@ -112,12 +168,44 @@
         "label": "Stability AI releases a new audio model that can create six-minute songs"
       },
       {
+        "id": "openai-barrels-toward-ipo-that-may-happen-in-september",
+        "label": "OpenAI barrels toward IPO that may happen in September"
+      },
+      {
+        "id": "nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups",
+        "label": "Nvidia posts another record quarter, reveals $43 billion of holdings in startups"
+      },
+      {
+        "id": "formal-verification-gates-for-ai-coding-loops",
+        "label": "Formal Verification Gates for AI Coding Loops"
+      },
+      {
+        "id": "testing-distributed-systems-with-ai-agents",
+        "label": "Testing distributed systems with AI agents"
+      },
+      {
+        "id": "startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-appl",
+        "label": "Startup Battlefield 200 applications close in 1 week: Window to nominate and app"
+      },
+      {
         "id": "nobel-laureate-olga-tokarczuk-apparently-used-ai-to-write-her-latest-novel",
         "label": "Nobel laureate Olga Tokarczuk apparently used AI to write her latest novel"
       },
       {
         "id": "startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-ap",
         "label": "Startup Battlefield 200 applications close in one week: Window to nominate and a"
+      },
+      {
+        "id": "show-hn-lance-imagevideo-generation-and-understanding-in-one-model",
+        "label": "Show HN: Lance – image/video generation and understanding in one model"
+      },
+      {
+        "id": "handling-the-great-code-forge-fragmentation",
+        "label": "Handling the great code forge fragmentation"
+      },
+      {
+        "id": "show-hn-open-source-agentic-qa-harness-with-memory",
+        "label": "Show HN: Open-Source Agentic QA Harness with Memory"
       },
       {
         "id": "show-hn-iresearch-c-search-that-beat-lucene-and-tantivy-on-their-benchmark",
@@ -132,15 +220,23 @@
         "label": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead"
       },
       {
+        "id": "autoregressive-next-token-prediction-and-kv-cache-in-transformers",
+        "label": "Autoregressive next token prediction and KV Cache in transformers"
+      },
+      {
         "id": "copyfail-from-pod-to-host",
         "label": "CopyFail: From Pod to Host"
       },
       {
         "id": "when-fast-fourier-transform-meets-transformer-for-image-restoration-2024",
         "label": "When Fast Fourier Transform Meets Transformer for Image Restoration (2024)"
+      },
+      {
+        "id": "qian-xuesen-the-missile-genius-america-lost-and-china-gained-2025",
+        "label": "Qian Xuesen: The missile genius America lost and China gained (2025)"
       }
     ],
     "date_bj": "2026-05-21 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-21 00:03:05"
+    "generated_at_bj": "2026-05-21 06:06:39"
   }
 }

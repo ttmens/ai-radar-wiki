@@ -1,0 +1,24 @@
+{
+  "title": "Testing distributed systems with AI agents",
+  "score": 70,
+  "comments": 10,
+  "url": "https://github.com/shenli/distributed-system-testing",
+  "hn_url": "https://news.ycombinator.com/item?id=48208685",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "本文探讨了利用AI智能体（AI agents）进行分布式系统测试的创新方法。传统测试工具难以应对分布式系统的复杂性和不可预测性，而AI代理可以自主探索、模拟故障场景、发现隐藏问题，并生成测试报告。这种模式不仅提升了测试覆盖率，还减少了人工编写测试用例的成本，尤其适用于微服务、云原生架构等场景。产品经理可借此思路考虑将AI测试代理集成到CI/CD流程中，实现持续测试自动化，缩短发布周期，同时通过智能故障注入提升系统韧性。",
+  "pm_relevance": 9,
+  "concepts": [
+    "AI Agents",
+    "Distributed Systems Testing",
+    "Autonomous Testing"
+  ],
+  "entities": [],
+  "patterns": [
+    "AI-Assisted Testing",
+    "Autonomous Test Agents"
+  ]
+}

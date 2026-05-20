@@ -792,3 +792,20 @@
 - create: startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-ap.md
 - create: figma-adds-an-ai-assistant-to-its-collaborative-canvas.md
 - create: show-hn-iresearch-c-search-that-beat-lucene-and-tantivy-on-their-benchmark.md
+
+## [2026-05-21 06:07] sync v3 | 15 new | pillars: {'capabilities': 9, 'patterns': 3, 'business': 3}
+- create: an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry.md
+- create: qian-xuesen-the-missile-genius-america-lost-and-china-gained-2025.md
+- create: formal-verification-gates-for-ai-coding-loops.md
+- create: testing-distributed-systems-with-ai-agents.md
+- create: handling-the-great-code-forge-fragmentation.md
+- create: autoregressive-next-token-prediction-and-kv-cache-in-transformers.md
+- create: show-hn-lance-imagevideo-generation-and-understanding-in-one-model.md
+- create: nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups.md
+- create: musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-28b-more.md
+- create: anthropic-will-pay-xai-125-billion-per-month-for-compute.md
+- create: openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time.md
+- create: irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-ne.md
+- create: openai-barrels-toward-ipo-that-may-happen-in-september.md
+- create: startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-appl.md
+- create: show-hn-open-source-agentic-qa-harness-with-memory.md

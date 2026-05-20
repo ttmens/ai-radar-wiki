@@ -1,8 +1,19 @@
 {
   "date": "2026-05-21",
-  "generated_at": "2026-05-21T00:03:33.088785+08:00",
-  "item_count": 13,
+  "generated_at": "2026-05-21T06:07:01.167864+08:00",
+  "item_count": 26,
   "items": [
+    {
+      "id": "an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry",
+      "label": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "summary": "OpenAI的一个模型成功推翻了一个离散几何领域的核心猜想，证明了AI在高级数学推理方面取得了突破性进展。这一成果展示了AI不仅能够处理模式识别和语言生成，还能进行复杂的逻辑证明和科学发现。对AI产品经理而言，这意味着未来可以构建更强大的数学辅助工具、自动化科研推理引擎或教育产品，如AI数学导师或证明验证系统。该能力有望加速科学探索，降低对人类专家推理的依赖，并开辟新的商业场景，例如为研究机构提供AI驱动的理论验证服务。",
+      "pm_score": 0.63,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48212493",
+      "date": "2026-05-21"
+    },
     {
       "id": "qwen37-max-the-agent-frontier",
       "label": "Qwen3.7-Max: The Agent Frontier",
@@ -37,6 +48,17 @@
       "date": "2026-05-21"
     },
     {
+      "id": "openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time",
+      "label": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+      "summary": "OpenAI宣称其推理模型成功证明了一个自1946年以来未解的几何猜想，这次得到了此前曾指出其错误的数学家的背书。该突破展示了AI在复杂数学推理上的能力提升，验证了深度学习模型处理形式化证明的潜力。尽管具体细节尚未公开，但这一进展强化了OpenAI在高级推理领域的领导地位，对依赖严谨逻辑的科研、工程和金融等垂直场景具有商业价值，也为下一代AI产品（如自动化证明助手、科学发现工具）奠定了基础。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+      "date": "2026-05-21"
+    },
+    {
       "id": "learnings-from-100k-lines-of-rust-with-ai-2025",
       "label": "Learnings from 100K lines of Rust with AI (2025)",
       "summary": "作者总结了使用Rust开发100K行AI代码的经验，强调Rust在内存安全和并发性能上的优势，适合构建低延迟、高可靠的AI服务。技术要点包括利用所有权模型避免数据竞争、无GC的运行时高效性，以及通过FFI集成现有AI库。商业价值体现在降低运维成本、提升生产环境稳定性，产品创新上可支撑实时推理和边缘部署。尽管Rust学习曲线陡峭，但对需要极致性能的AI产品团队具有吸引力。",
@@ -48,6 +70,17 @@
       "date": "2026-05-21"
     },
     {
+      "id": "anthropic-will-pay-xai-125-billion-per-month-for-compute",
+      "label": "Anthropic will pay xAI $1.25 billion per month for compute",
+      "summary": "Anthropic 与 xAI 签署了一项巨额计算资源协议，每月支付 12.5 亿美元以获得 xAI 的算力支持。这一交易突显了 AI 大模型训练与推理对高性能计算基础设施的极度依赖，也反映出算力已演变为 AI 公司的核心战略资产。对于 AI 产品经理而言，此举意味着：计算成本将持续影响模型部署决策，跨公司算力合作或成常态化模式，同时可能加速算力定价透明化与资源调度平台的兴起。",
+      "pm_score": 0.515,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+      "date": "2026-05-21"
+    },
+    {
       "id": "ai-search-startups-are-blowing-up",
       "label": "AI search startups are blowing up",
       "summary": "AI搜索初创公司正迅速崛起，成为消费级AI领域最受关注的赛道之一。这一趋势背后是大型语言模型与检索增强生成（RAG）技术的成熟，使得搜索从传统关键词匹配转向理解用户意图、生成精准答案。对于AI产品经理来说，这意味着新的用户入口和商业模式机会：通过对话式、个性化搜索体验，可以显著提升用户留存和转化率。商业价值体现在争夺搜索流量入口、降低用户搜索成本，以及为垂直场景（如电商、医疗、教育）提供定制化AI搜索解决方案。产品创新上，结合实时上下文和记忆能力，有望超越传统搜索引擎。",
@@ -56,6 +89,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-ne",
+      "label": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you",
+      "summary": "IrisGo 是一款由 AI 先驱吴恩达投资的桌面 AI 助手，初始定位为“AI 管家”。它通过持续观察用户的桌面操作，自动学习并模仿用户完成重复性任务，无需用户手动编程或配置。其核心创新在于被动感知与主动学习相结合，能逐步理解用户的工作流程，实现从“观察”到“执行”的闭环。这一技术路径降低了 AI 助手的部署门槛，有望在个人办公自动化、RPA（机器人流程自动化）领域开辟轻量化应用场景。对于产品经理而言，该产品展示了 AI 从“指令执行”向“习惯学习”演进的产品范式，尤其适合追求零配置、低侵入性的用户体验设计。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-28b-more",
+      "label": "Musk’s xAI is being sued over its data center generators. Now, it’s buying $2.8B",
+      "summary": "马斯克旗下AI公司xAI因数据中心发电机使用引发诉讼，但最新SpaceX IPO文件显示，xAI计划未来三年斥资28亿美元采购天然气涡轮机，以支持其大规模AI训练与推理需求。此举凸显AI算力竞赛对能源基础设施的依赖，以及对自建基础设施的垂直整合策略。产品经理需关注算力成本、碳排放合规及供应链风险对AI产品路线图的影响。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
       "date": "2026-05-21"
     },
     {
@@ -92,6 +147,61 @@
       "date": "2026-05-21"
     },
     {
+      "id": "openai-barrels-toward-ipo-that-may-happen-in-september",
+      "label": "OpenAI barrels toward IPO that may happen in September",
+      "summary": "OpenAI 正推进最快于 9 月进行的 IPO，此前马斯克对其组织结构、领导层和财务的诉讼以失败告终，扫清了上市关键障碍。此次 IPO 将为 OpenAI 带来数十亿美元资金，加速 GPT 系列等基座模型的研发与商业化部署，同时可能引发更强监管和公众审视。对 AI 产品经理而言，需关注 OpenAI 上市后对产品定价、开放策略（如 API 调用成本）及竞争对手格局的连锁影响，及时调整自身产品路线和生态合作策略。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups",
+      "label": "Nvidia posts another record quarter, reveals $43 billion of holdings in startups",
+      "summary": "英伟达（Nvidia）公布又一季度创纪录营收，但预警下季度增长放缓。同时，该公司披露持有价值430亿美元的AI初创公司股份，展示其通过资本深度参与AI生态建设的战略。对AI产品经理而言，英伟达财报不仅反映GPU需求持续旺盛，更提示其投资布局可能影响未来AI工具、平台及算力市场格局。需关注英伟达作为AI基础设施核心供应商的定价权与生态影响力变化。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "formal-verification-gates-for-ai-coding-loops",
+      "label": "Formal Verification Gates for AI Coding Loops",
+      "summary": "本文探讨了在AI编码循环中引入形式化验证关卡（Formal Verification Gates）的概念。形式化验证通过数学方法确保代码正确性，将其嵌入AI编码循环（如代码生成、测试、修复）中，可以实现对AI生成代码的实时验证，防止错误扩散。对于AI产品经理，这能显著提升代码可靠性，降低调试成本，尤其在金融、医疗等高风险场景具有重要商业价值。产品创新点在于将验证作为开发流程的强制节点，而非事后补救，从而加速安全、可信的AI编码工具落地。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48209323",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "testing-distributed-systems-with-ai-agents",
+      "label": "Testing distributed systems with AI agents",
+      "summary": "本文探讨了利用AI智能体（AI agents）进行分布式系统测试的创新方法。传统测试工具难以应对分布式系统的复杂性和不可预测性，而AI代理可以自主探索、模拟故障场景、发现隐藏问题，并生成测试报告。这种模式不仅提升了测试覆盖率，还减少了人工编写测试用例的成本，尤其适用于微服务、云原生架构等场景。产品经理可借此思路考虑将AI测试代理集成到CI/CD流程中，实现持续测试自动化，缩短发布周期，同时通过智能故障注入提升系统韧性。",
+      "pm_score": 0.415,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48208685",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-appl",
+      "label": "Startup Battlefield 200 applications close in 1 week: Window to nominate and app",
+      "summary": "TechCrunch 的 Startup Battlefield 200 创业大赛申请截止日期为 5 月 27 日，面向早期 AI 创业公司。入选者可在 TechCrunch Disrupt 大会上进行路演，获得投资人关注，并有机会赢得 10 万美元奖金及其他规模化资源。对 AI 产品经理而言，这是获取前沿创业动态、发现潜在合作或投资标的的窗口，但内容本身不涉及具体技术或产品创新。",
+      "pm_score": 0.41,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/",
+      "date": "2026-05-21"
+    },
+    {
       "id": "nobel-laureate-olga-tokarczuk-apparently-used-ai-to-write-her-latest-novel",
       "label": "Nobel laureate Olga Tokarczuk apparently used AI to write her latest novel",
       "summary": "诺贝尔文学奖得主奥尔加·托卡尔丘克被曝使用AI辅助创作其最新小说，展示了大型语言模型在高端文学写作中的实际应用。这一事件对AI产品经理的启示在于：生成式AI已从简单文案生成演进为能与顶尖创作者深度协作的创作伙伴，提升了创意产出效率。商业价值上，AI写作工具可切入专业创作市场，提供个性化风格迁移、情节生成等功能；产品创新角度，需关注人机协作的交互设计、AI生成内容的版权归属及原创性界定。该案例也验证了AI从“工具”向“协作者”转变的趋势。",
@@ -111,6 +221,39 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "show-hn-lance-imagevideo-generation-and-understanding-in-one-model",
+      "label": "Show HN: Lance – image/video generation and understanding in one model",
+      "summary": "Lance 是一个统一的多模态模型，能同时进行图像/视频生成与理解，打破了传统专有模型的局限。其技术亮点在于共享参数与架构，支持文本到视觉内容生成及视觉内容推理，降低了部署成本。对产品经理而言，这意味着可用单一模型替代多个专用模型，简化技术栈与维护工作，加速应用开发。商业价值体现在降低算力开销与推理延迟，适合内容创作、智能标注、视觉问答等场景。产品创新在于“双向能力”整合，为交互式视觉产品提供新可能。",
+      "pm_score": 0.365,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48209668",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "handling-the-great-code-forge-fragmentation",
+      "label": "Handling the great code forge fragmentation",
+      "summary": "本文探讨了AI代码生成工具（如Copilot、CodeWhisperer等）快速涌现导致的碎片化问题。产品经理需关注如何统一管理多个代码助手，降低切换成本，并确保输出质量一致。技术要点包括标准化API接口、模型路由与结果合并；商业价值在于提升开发者效率并避免供应商锁定；产品创新方向是构建集成式AI开发平台。",
+      "pm_score": 0.33,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48169818",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "show-hn-open-source-agentic-qa-harness-with-memory",
+      "label": "Show HN: Open-Source Agentic QA Harness with Memory",
+      "summary": "这是一个开源的智能问答代理框架，核心特点是集成了记忆模块，使AI能够保留长期上下文，支持多轮交互中的事实一致性与个性化响应。面向AI产品经理，该工具降低了构建具备记忆能力的问答系统的门槛，可用于客服、知识库等场景。其开源特性便于定制和扩展，有助于加速AI产品迭代。技术要点包括基于大模型的代理架构、记忆检索与存储机制，以及可插拔的QA组件；商业价值在于减少重复开发成本，提升用户体验；产品创新体现在将记忆能力作为一等公民设计，而非后期附加。",
+      "pm_score": 0.33,
+      "pillar": "patterns",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://vostride.com/agent-qa",
       "date": "2026-05-21"
     },
     {
@@ -148,7 +291,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 700,
-    "edges": 33791
+    "real_nodes": 715,
+    "edges": 34507
   }
 }

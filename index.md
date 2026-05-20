@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-21 | Total pages: 719
+> Last updated: 2026-05-21 | Total pages: 734
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -18,8 +18,10 @@
 - [[ai-search-startups-are-blowing-up.md]] AI search startups are blowing up `pillar:capabilities` `score:0.515`
 - [[alibabamnn.md]] alibaba/MNN `pillar:capabilities` `score:0.615`
 - [[alignment-pretraining-ai-discourse-creates-self-fulfilling-misalignment.md]] Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment `pillar:capabilities` `score:0.43`
+- [[an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry.md]] An OpenAI model has disproved a central conjecture in discrete geometry `pillar:capabilities` `score:0.63`
 - [[apples-siri-revamp-could-include-auto-deleting-chats.md]] Apple’s Siri revamp could include auto-deleting chats `pillar:capabilities` `score:0.48`
 - [[arena-ai-model-elo-history.md]] Arena AI Model ELO History `pillar:capabilities` `score:0.465`
+- [[autoregressive-next-token-prediction-and-kv-cache-in-transformers.md]] Autoregressive next token prediction and KV Cache in transformers `pillar:capabilities` `score:0.295`
 - [[bee-sanciphey.md]] bee-san/Ciphey `pillar:capabilities` `score:0.545`
 - [[blinkdlrwkv-lm.md]] BlinkDL/RWKV-LM `pillar:capabilities` `score:0.405`
 - [[bun-rust-rewrite-codebase-fails-basic-miri-checks-allows-for-ub-in-safe-rust.md]] Bun Rust rewrite: "codebase fails basic miri checks, allows for UB in safe rust" `pillar:capabilities` `score:0.595`
@@ -41,6 +43,7 @@
 - [[digg-tries-again-this-time-as-an-ai-news-aggregat.md]] Digg tries again, this time as an AI news aggregator `pillar:capabilities` `score:0.305`
 - [[docling-projectdocling.md]] docling-project/docling `pillar:capabilities` `score:0.615`
 - [[explosionspacy.md]] explosion/spaCy `pillar:capabilities` `score:0.58`
+- [[formal-verification-gates-for-ai-coding-loops.md]] Formal Verification Gates for AI Coding Loops `pillar:capabilities` `score:0.43`
 - [[frontier-ai-has-broken-the-open-ctf-format.md]] Frontier AI has broken the open CTF format `pillar:capabilities` `score:0.55`
 - [[gaining-control-of-every-projector-and-camera-on-campus.md]] Gaining control of every projector and camera on campus `pillar:capabilities` `score:0.43`
 - [[geeeekexplorernano-vllm.md]] GeeeekExplorer/nano-vllm `pillar:capabilities` `score:0.58`
@@ -76,6 +79,7 @@
 - [[interpretmlinterpret.md]] interpretml/interpret `pillar:capabilities` `score:0.53`
 - [[intro-to-tla-for-the-llm-era-prompt-your-way-to-victory.md]] Intro to TLA+ for the LLM Era: Prompt Your Way to Victory `pillar:capabilities` `score:0.395`
 - [[iran-starts-bitcoin-backed-ship-insurance-for-hormuz-strait.md]] Iran starts Bitcoin-backed ship insurance for Hormuz strait `pillar:capabilities` `score:0.405`
+- [[irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-ne.md]] IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you `pillar:capabilities` `score:0.48`
 - [[is-xai-a-neocloud-now.md]] Is xAI a neocloud now? `pillar:capabilities` `score:0.3`
 - [[ive-joined-anthropic.md]] I’ve joined Anthropic `pillar:capabilities` `score:0.53`
 - [[jingyaogongminimind-v.md]] jingyaogong/minimind-v `pillar:capabilities` `score:0.53`
@@ -106,6 +110,7 @@
 - [[nobel-laureate-olga-tokarczuk-apparently-used-ai-to-write-her-latest-novel.md]] Nobel laureate Olga Tokarczuk apparently used AI to write her latest novel `pillar:capabilities` `score:0.38`
 - [[ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts.md]] Ontario auditors find doctors' AI note takers routinely blow basic facts `pillar:capabilities` `score:0.565`
 - [[openai-adopts-googles-synthid-watermark-for-ai-images-with-verification-tool.md]] OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool `pillar:capabilities` `score:0.465`
+- [[openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time.md]] OpenAI claims it solved an 80-year-old math problem — for real this time `pillar:capabilities` `score:0.515`
 - [[openai-co-founder-andrej-karpathy-joins-anthropic8217s-pre-training-team.md]] OpenAI co-founder Andrej Karpathy joins Anthropic&#8217;s pre-training team `pillar:capabilities` `score:0.48`
 - [[openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy.md]] OpenAI co-founder Greg Brockman reportedly takes charge of product strategy `pillar:capabilities` `score:0.48`
 - [[openai-is-connecting-chatgpt-to-bank-accounts-via-plaid.md]] OpenAI is connecting ChatGPT to bank accounts via Plaid `pillar:capabilities` `score:0.57`
@@ -132,6 +137,7 @@
 - [[show-hn-glycemicgpt-open-source-ai-powered-diabetes-management.md]] Show HN: GlycemicGPT – Open-source AI-powered diabetes management `pillar:capabilities` `score:0.33`
 - [[show-hn-id-agent-token-efficient-uuid-alternative-for-ai-agents.md]] Show HN: Id-agent – Token efficient UUID alternative for AI agents `pillar:capabilities` `score:0.345`
 - [[show-hn-iresearch-c-search-that-beat-lucene-and-tantivy-on-their-benchmark.md]] Show HN: IResearch – C++ search that beat Lucene and Tantivy on their benchmark `pillar:capabilities` `score:0.33`
+- [[show-hn-lance-imagevideo-generation-and-understanding-in-one-model.md]] Show HN: Lance – image/video generation and understanding in one model `pillar:capabilities` `score:0.365`
 - [[show-hn-semble-code-search-for-agents-that-uses-98-fewer-tokens-than-grep.md]] Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep `pillar:capabilities` `score:0.43`
 - [[show-hn-watch-a-neural-net-learn-to-play-snake.md]] Show HN: Watch a neural net learn to play Snake `pillar:capabilities` `score:0.36`
 - [[spmallicklearnopencv.md]] spmallick/learnopencv `pillar:capabilities` `score:0.58`
@@ -393,6 +399,7 @@
 - [[show-hn-git-for-ai-agents.md]] Show HN: Git for AI Agents `pillar:patterns` `score:0.33`
 - [[show-hn-modafinil-let-agents-continue-running-w.md]] Show HN: Modafinil - Let agents continue running while MacBook lid is closed `pillar:patterns` `score:0.205`
 - [[show-hn-nanocorp-create-autonomous-companies-ru.md]] Show HN: NanoCorp – Create autonomous companies run by AI `pillar:patterns` `score:0.155`
+- [[show-hn-open-source-agentic-qa-harness-with-memory.md]] Show HN: Open-Source Agentic QA Harness with Memory `pillar:patterns` `score:0.33`
 - [[show-hn-slayer-a-semantic-layer-maintained-by-yo.md]] Show HN: SLayer, a semantic layer maintained by your agent `pillar:patterns` `score:0.33`
 - [[show-hn-statewright-visual-state-machines-that.md]] Show HN: Statewright – Visual state machines that make AI agents reliable `pillar:patterns` `score:0.33`
 - [[significant-gravitasautogpt.md]] Significant-Gravitas/AutoGPT `pillar:patterns` `score:0.615`
@@ -401,6 +408,7 @@
 - [[snap-says-its-400m-deal-with-perplexity-8216am.md]] Snap says its $400M deal with Perplexity &#8216;amicably ended&#8217; `pillar:patterns` `score:0.3`
 - [[sqlite-is-a-library-of-congress-recommended-storag.md]] SQLite Is a Library of Congress Recommended Storage Format `pillar:patterns` `score:0.4`
 - [[tauricresearchtradingagents.md]] TauricResearch/TradingAgents `pillar:patterns` `score:0.58`
+- [[testing-distributed-systems-with-ai-agents.md]] Testing distributed systems with AI agents `pillar:patterns` `score:0.415`
 - [[thedotmackclaude-mem.md]] thedotmack/claude-mem `pillar:patterns` `score:0.58`
 - [[unstructured-iounstructured.md]] Unstructured-IO/unstructured `pillar:patterns` `score:0.615`
 - [[usestrixstrix.md]] usestrix/strix `pillar:patterns` `score:0.58`
@@ -461,6 +469,7 @@
 - [[google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026.md]] Google updates its Gemini app to take on ChatGPT and Claude at IO 2026 `pillar:ecosystem` `score:0.515`
 - [[googlelangextract.md]] google/langextract `pillar:ecosystem` `score:0.405`
 - [[gradio-appgradio.md]] gradio-app/gradio `pillar:ecosystem` `score:0.615`
+- [[handling-the-great-code-forge-fragmentation.md]] Handling the great code forge fragmentation `pillar:ecosystem` `score:0.33`
 - [[have-a-coherent-ai-policy.md]] Have a Coherent AI Policy `pillar:ecosystem` `score:0.445`
 - [[hesreallyhimawesome-claude-code.md]] hesreallyhim/awesome-claude-code `pillar:ecosystem` `score:0.58`
 - [[if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai.md]] If you’re giving a commencement speech in 2026, maybe don’t mention AI `pillar:ecosystem` `score:0.515`
@@ -490,6 +499,7 @@
 - [[most-americans-dont-trust-ai-or-the-people-in-charge-of-it-2025.md]] Most Americans don't trust AI – or the people in charge of it (2025) `pillar:ecosystem` `score:0.415`
 - [[n8n-ion8n.md]] n8n-io/n8n `pillar:ecosystem` `score:0.615`
 - [[netdatanetdata.md]] netdata/netdata `pillar:ecosystem` `score:0.58`
+- [[nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups.md]] Nvidia posts another record quarter, reveals $43 billion of holdings in startups `pillar:ecosystem` `score:0.48`
 - [[nvidiatensorrt.md]] NVIDIA/TensorRT `pillar:ecosystem` `score:0.615`
 - [[ollamaollama.md]] ollama/ollama `pillar:ecosystem` `score:0.615`
 - [[onnxonnx.md]] onnx/onnx `pillar:ecosystem` `score:0.615`
@@ -500,6 +510,7 @@
 - [[punkpeyeawesome-mcp-servers.md]] punkpeye/awesome-mcp-servers `pillar:ecosystem` `score:0.58`
 - [[pyg-teampytorch_geometric.md]] pyg-team/pytorch_geometric `pillar:ecosystem` `score:0.58`
 - [[pytorchpytorch.md]] pytorch/pytorch `pillar:ecosystem` `score:0.615`
+- [[qian-xuesen-the-missile-genius-america-lost-and-china-gained-2025.md]] Qian Xuesen: The missile genius America lost and China gained (2025) `pillar:ecosystem` `score:0.255`
 - [[railway-blocked-by-google-cloud.md]] Railway Blocked by Google Cloud `pillar:ecosystem` `score:0.565`
 - [[removeaiwatermarks-cli-and-library-for-removing-ai-watermarks-from-images.md]] Remove–AI–Watermarks – CLI and library for removing AI watermarks from images `pillar:ecosystem` `score:0.495`
 - [[research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the.md]] Research repository ArXiv will ban authors for a year if they let AI do all the `pillar:ecosystem` `score:0.445`
@@ -511,6 +522,7 @@
 - [[show-hn-torrix-self-hosted-llm-observabilityn.md]] Show HN: Torrix, self hosted, LLM Observability,(no Postgres, no Redis) `pillar:ecosystem` `score:0.155`
 - [[silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-p.md]] Silicon Valley’s vacationland needs a new energy provider just as AI is driving `pillar:ecosystem` `score:0.445`
 - [[spring-projectsspring-ai.md]] spring-projects/spring-ai `pillar:ecosystem` `score:0.53`
+- [[startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-appl.md]] Startup Battlefield 200 applications close in 1 week: Window to nominate and app `pillar:ecosystem` `score:0.41`
 - [[startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-ap.md]] Startup Battlefield 200 applications close in one week: Window to nominate and a `pillar:ecosystem` `score:0.375`
 - [[steven2358awesome-generative-ai.md]] steven2358/awesome-generative-ai `pillar:ecosystem` `score:0.58`
 - [[tensorflowtensorflow.md]] tensorflow/tensorflow `pillar:ecosystem` `score:0.615`
@@ -559,6 +571,7 @@
 - [[anthropic-now-has-more-business-customers-than-ope.md]] Anthropic now has more business customers than OpenAI, according to Ramp data `pillar:business` `score:0.305`
 - [[anthropic-says-evil-portrayals-of-ai-were-respon.md]] Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail a `pillar:business` `score:0.305`
 - [[anthropic-warns-investors-against-secondary-platfo.md]] Anthropic warns investors against secondary platforms offering access to its sha `pillar:business` `score:0.305`
+- [[anthropic-will-pay-xai-125-billion-per-month-for-compute.md]] Anthropic will pay xAI $1.25 billion per month for compute `pillar:business` `score:0.515`
 - [[anthropic8217s-cat-wu-says-that-in-the-future.md]] Anthropic&#8217;s Cat Wu says that, in the future, AI will anticipate your needs `pillar:business` `score:0.305`
 - [[apple-to-pay-250m-to-settle-lawsuit-over-siri82.md]] Apple to pay $250M to settle lawsuit over Siri&#8217;s delayed AI features `pillar:business` `score:0.15`
 - [[at-techcrunch-disrupt-2026-all-your-m038a-ques.md]] At TechCrunch Disrupt 2026, all your M&#038;A questions will be answered `pillar:business` `score:0.1`
@@ -617,10 +630,12 @@
 - [[mistral-ai-acquires-emmi-ai-to-create-the-leading-ai-stack.md]] Mistral AI Acquires Emmi AI to Create the Leading AI Stack `pillar:business` `score:0.43`
 - [[mitchellh-i-strongly-believe-there-are-entire-companies-now-under-ai-psychosis.md]] Mitchellh – I strongly believe there are entire companies now under AI psychosis `pillar:business` `score:0.565`
 - [[musk-mulled-handing-openai-to-his-children-altman.md]] Musk mulled handing OpenAI to his children, Altman testifies `pillar:business` `score:0.305`
+- [[musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-28b-more.md]] Musk’s xAI is being sued over its data center generators. Now, it’s buying $2.8B `pillar:business` `score:0.48`
 - [[musks-xai-is-running-nearly-50-gas-turbines-unche.md]] Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data c `pillar:business` `score:0.305`
 - [[nailing-jelly-to-a-wall-is-it-possible-2005.md]] Nailing jelly to a wall: is it possible? (2005) `pillar:business` `score:0.255`
 - [[new-stainless-steel-can-survive-conditions-for-hyd.md]] New stainless steel can survive conditions for hydrogen production in seawater `pillar:business` `score:0.155`
 - [[nvidia-has-already-committed-40b-to-equity-ai-dea.md]] Nvidia has already committed $40B to equity AI deals this year `pillar:business` `score:0.48`
+- [[openai-barrels-toward-ipo-that-may-happen-in-september.md]] OpenAI barrels toward IPO that may happen in September `pillar:business` `score:0.48`
 - [[openaicom-was-once-the-personal-homepage-of-a-g.md]] "openai.com" was once the personal homepage of a guy named glenn `pillar:business` `score:0.155`
 - [[openais-webrtc-problem.md]] OpenAI's WebRTC problem `pillar:business` `score:0.305`
 - [[openclaw-creator-spent-13m-on-openai-tokens-in-30-days.md]] OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days `pillar:business` `score:0.55`

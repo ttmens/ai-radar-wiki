@@ -1,0 +1,27 @@
+---
+title: Nvidia posts another record quarter, reveals $43 billion of holdings in startups
+created: 2026-05-21
+updated: 2026-05-21
+type: entity
+pillar: ecosystem
+pm_score: 0.48
+tags: ["news", "techcrunch", "ecosystem"]
+sources: ["raw/techcrunch/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups.json"]
+---
+
+# Nvidia posts another record quarter, reveals $43 billion of holdings in startups
+
+## 中文摘要
+英伟达（Nvidia）公布又一季度创纪录营收，但预警下季度增长放缓。同时，该公司披露持有价值430亿美元的AI初创公司股份，展示其通过资本深度参与AI生态建设的战略。对AI产品经理而言，英伟达财报不仅反映GPU需求持续旺盛，更提示其投资布局可能影响未来AI工具、平台及算力市场格局。需关注英伟达作为AI基础设施核心供应商的定价权与生态影响力变化。
+
+## PM 关注指标
+- 🎯 PM Score: 0.48
+- 🏷️ Pillar: ecosystem
+- 🔑 Keywords: revenue
+
+## 新闻摘要
+Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.
+
+## 链接
+- 🔗 Source: https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/
+- 📅 Published: Wed, 20 May 2026 22:03:51 +0000
