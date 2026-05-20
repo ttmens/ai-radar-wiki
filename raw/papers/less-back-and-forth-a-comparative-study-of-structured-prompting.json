@@ -1,0 +1,30 @@
+{
+  "title": "Less Back-and-Forth: A Comparative Study of Structured Prompting",
+  "summary": "Large language models (LLMs) are widely used for open-ended tasks, but underspecified prompts can lead to low-quality answers and additional interaction. This paper studies whether structured prompt design improves response quality while reducing user effort. We compare three prompt conditions: a raw prompt, a checklist-improved prompt, and a clarifying-question prompt. We evaluate these conditions across four task types--summarization, planning, explanation, and coding--using three LLM systems: ChatGPT, Claude, and Grok. Each output is scored with a unified rubric covering task completion, correctness, compliance, and clarity. Checklist-improved prompts achieved the highest mean rubric score, 7.50 out of 8, compared with 5.67 for raw prompts and 6.67 for clarifying-question prompts. Checklist prompts also produced the best quality-effort tradeoff, using fewer average tokens than both raw and clarifying prompts. These results suggest that a simple prompt checklist can improve LLM responses while reducing unnecessary interaction.",
+  "url": "http://arxiv.org/abs/2605.20149v1",
+  "authors": [
+    "Saurav Ghosh",
+    "Gabriella Polach",
+    "Abdou Sow"
+  ],
+  "published": "2026-05-19T17:40:14Z",
+  "tag": "Paper",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "summarization",
+    "rag",
+    "planning"
+  ],
+  "summary_cn": "该论文通过系统比较结构化提示与非结构化提示在大语言模型开放任务中的表现，验证了结构化提示设计能显著提升响应质量并减少用户与模型间的反复交互。研究发现，预先设计良好的提示结构（如明确角色、步骤、输出格式）可使首次回答满意度提高，从而降低用户操作成本。对产品经理而言，这意味着可以设计内置的提示模板或智能引导，减少用户学习成本，提升AI产品的首用体验和留存率，尤其适合客服、创作、分析等高频场景。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Structured Prompting",
+    "Prompt Engineering",
+    "User Effort Reduction"
+  ],
+  "entities": [],
+  "patterns": [
+    "Structured Prompting Pattern",
+    "Template-based Interaction"
+  ]
+}

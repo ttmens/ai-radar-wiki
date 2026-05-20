@@ -1,0 +1,31 @@
+{
+  "title": "Long-term Power Grid Planning via Answer Set Programming",
+  "summary": "The Power grid is a critical infrastructure underpinning all aspects of modern society and its services. Maintaining its effectiveness requires continuous adaptations. In particular, addressing sustainability targets, demand patterns, and urbanisation trends requires implementing changes to the network. Actual developments can potentially span over a decade, with supply continuity and service quality that must be preserved throughout by ensuring conformance to several topological and combinatorial invariants. Long-term power grid planning deals with the above process, and although planning languages could be a natural choice, the kind of properties and invariants needed are cumbersome to express in such languages; on the contrary, they can be elegantly and succinctly encoded in Answer Set Programming (ASP). In this paper, we propose the first approach to automate and optimise the long-term power grid planning process using ASP. Experimental evaluations conducted on synthetic and real-world grid data confirm the expressive power of the proposed ASP-based approach and demonstrate its effectiveness.",
+  "url": "http://arxiv.org/abs/2605.20172v1",
+  "authors": [
+    "Antonio Ielo",
+    "Francesco Doria",
+    "Sandra Castellanos-Paez",
+    "Marco Maratea",
+    "Francesco Percassi"
+  ],
+  "published": "2026-05-19T17:54:15Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "evaluation",
+    "eval",
+    "infrastructure"
+  ],
+  "summary_cn": "本文研究通过Answer Set Programming（ASP）进行长期电网规划，以应对可持续性目标、需求变化和城市化趋势。ASP是一种基于逻辑推理的编程范式，能有效处理复杂约束和优化问题，适用于电网扩展、资源分配等场景。技术要点包括将电网建模为逻辑规则集，利用ASP求解器自动生成可行规划方案。商业价值在于提升电网规划的自动化与精确度，降低人力成本，支持清洁能源并网。产品创新点在于将AI推理与工程约束结合，形成可解释的规划工具。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Answer Set Programming",
+    "Grid Planning",
+    "Constraint Optimization"
+  ],
+  "entities": [],
+  "patterns": [
+    "AI for Infrastructure Planning"
+  ]
+}

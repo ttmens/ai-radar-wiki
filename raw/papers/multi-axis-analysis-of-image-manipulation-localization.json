@@ -1,0 +1,30 @@
+{
+  "title": "Multi-axis Analysis of Image Manipulation Localization",
+  "summary": "Advanced image editing software enables easy creation of highly convincing image manipulations, which has been made even more accessible in recent years due to advances in generative AI. Manipulated images, while often harmless, could spread misinformation, create false narratives, and influence people's opinions on important issues. Despite this growing threat, there is limited research on detecting advanced manipulations across different visual domains. Thus, we introduce Analysis Under Domain-shifts, qualIty, Type, and Size (AUDITS), a comprehensive benchmark designed for studying axes of analysis in image manipulation detection. AUDITS comprises over 530K images from two distinct sources (user and news photos). We curate our dataset to support analysis across multiple axes using recent diffusion-based inpaintings, spanning a diverse range of manipulation types and sizes. We conduct experiments under different types of domain shift to evaluate robustness of existing image manipulation detection methods. Our goal is to drive further research in this area by offering new insights that would help develop more reliable and generalizable image manipulation detection methods.",
+  "url": "http://arxiv.org/abs/2605.20174v1",
+  "authors": [
+    "Keanu Nichols",
+    "Divya Appapogu",
+    "Giscard Biamby",
+    "Dina Bashkirova",
+    "Anna Rohrbach"
+  ],
+  "published": "2026-05-19T17:54:33Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "dataset"
+  ],
+  "summary_cn": "该论文提出一种多轴分析方法，用于定位图像篡改区域。随着生成式AI的进步，图像编辑工具使创建高度逼真的篡改图像变得极其容易，这些图像可能被用于传播错误信息和虚假叙事。技术要点在于通过多维度（如频域、空间域、语义一致性）分析，精确检测图像中被修改的部分。商业价值上，该技术可集成到内容审核平台、数字取证工具或社交媒体安全系统，帮助平台识别并标注可疑图像，维护信息真实性。产品创新体现在从单一特征检测转向综合多轴线索，提升检测鲁棒性和细粒度定位能力。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Image Manipulation Localization",
+    "Multi-axis Analysis",
+    "Generative AI Misuse"
+  ],
+  "entities": [],
+  "patterns": [
+    "Content Integrity Verification"
+  ]
+}

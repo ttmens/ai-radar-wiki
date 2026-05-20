@@ -1,7 +1,7 @@
 {
   "date": "2026-05-20",
-  "generated_at": "2026-05-20T06:03:58.100871+08:00",
-  "item_count": 27,
+  "generated_at": "2026-05-20T12:02:58.875735+08:00",
+  "item_count": 44,
   "items": [
     {
       "id": "gemini-35-flash",
@@ -12,6 +12,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48196570",
+      "date": "2026-05-20"
+    },
+    {
+      "id": "railway-blocked-by-google-cloud",
+      "label": "Railway Blocked by Google Cloud",
+      "summary": "该报道指出开发者平台Railway遭遇Google Cloud的封锁，可能涉及服务限制或API访问受阻。这提醒AI产品经理需关注云服务锁定风险，提前规划多云或混合架构以降低依赖。事件凸显了AI基础设施层对上游云厂商的脆弱性，影响产品部署稳定性与成本控制。",
+      "pm_score": 0.565,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48201484",
       "date": "2026-05-20"
     },
     {
@@ -78,6 +89,39 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+      "date": "2026-05-20"
+    },
+    {
+      "id": "gemini-cli-will-stop-working-from-june-18-2026",
+      "label": "Gemini CLI will stop working from June 18, 2026",
+      "summary": "Google 宣布其 Gemini 命令行工具（CLI）将于 2026 年 6 月 18 日停止工作。这一变动意味着依赖该工具的开发者需要提前规划迁移，转向 Gemini API 或其他 SDK。产品经理应关注时间线，确保团队在下游集成、自动化脚本及 CI/CD 流程中及时切换，避免服务中断。此决策可能伴随功能整合或性能改进，但短期会增加适配成本。建议评估替代方案（如官方 Python/JavaScript 库）并制定过渡计划，同时关注官方后续对 Gemini 生态的调整。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48196867",
+      "date": "2026-05-20"
+    },
+    {
+      "id": "ageronhandson-ml",
+      "label": "ageron/handson-ml",
+      "summary": "该GitHub仓库是Aurélien Géron撰写的《机器学习实战》旧版代码，已废弃并指向新版handson-ml3或handson-mlp。新版基于Scikit-Learn、Keras、TensorFlow，提供从数据预处理到深度学习的完整代码示例和习题解答。对AI产品经理而言，该资源可作为快速理解ML基础流程、模型评估与调优的实操教程，帮助评估技术可行性和团队培训成本，但需直接使用新版以避免过时代码。",
+      "pm_score": 0.51,
+      "pillar": "capabilities",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/ageron/handson-ml",
+      "date": "2026-05-20"
+    },
+    {
+      "id": "removeaiwatermarks-cli-and-library-for-removing-ai-watermarks-from-images",
+      "label": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
+      "summary": "这是一个命令行工具和库，用于移除AI生成图像中的水印。技术实现上可能通过检测水印区域并进行图像修复，对AI产品经理而言，该工具可用于内容创作、社交媒体等场景，提升图像处理灵活性，但也可能引发版权与伦理争议。商业价值在于降低AI内容二次创作门槛，产品创新体现在将水印移除能力封装为易用的CLI和库，有利于集成到现有工作流中。",
+      "pm_score": 0.495,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48200569",
       "date": "2026-05-20"
     },
     {
@@ -180,6 +224,72 @@
       "date": "2026-05-20"
     },
     {
+      "id": "less-back-and-forth-a-comparative-study-of-structured-prompting",
+      "label": "Less Back-and-Forth: A Comparative Study of Structured Prompting",
+      "summary": "该论文通过系统比较结构化提示与非结构化提示在大语言模型开放任务中的表现，验证了结构化提示设计能显著提升响应质量并减少用户与模型间的反复交互。研究发现，预先设计良好的提示结构（如明确角色、步骤、输出格式）可使首次回答满意度提高，从而降低用户操作成本。对产品经理而言，这意味着可以设计内置的提示模板或智能引导，减少用户学习成本，提升AI产品的首用体验和留存率，尤其适合客服、创作、分析等高频场景。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.20149v1",
+      "date": "2026-05-20"
+    },
+    {
+      "id": "goal-oriented-lower-tail-calibration-of-gaussian-processes-for-bayesian-optimiza",
+      "label": "Goal-Oriented Lower-Tail Calibration of Gaussian Processes for Bayesian Optimiza",
+      "summary": "本文提出了一种针对贝叶斯优化（BO）中高斯过程（GP）预测分布校准的新方法——目标导向低尾校准。贝叶斯优化在昂贵黑箱目标函数（如超参数调优、自动机器学习）中广泛使用，但GP的核函数选择和超参数设置常导致预测分布失准，影响探索-利用平衡。该方法通过聚焦目标函数的下尾区域进行校准，更精准地捕获潜在最优点的不确定性，从而提升优化效率和最终性能。对于AI产品经理，该技术可在模型自动调参、实验设计等场景降低评估成本、加速产品迭代，具有显著商业价值。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.20145v1",
+      "date": "2026-05-20"
+    },
+    {
+      "id": "when-does-model-collapse-occur-in-structured-interactive-learning",
+      "label": "When Does Model Collapse Occur in Structured Interactive Learning?",
+      "summary": "该论文研究在结构化交互学习环境中模型崩溃发生的条件。随着生成式AI普及，模型参数不断通过自然数据和合成数据更新。研究表明，过度依赖其他模型生成的合成数据进行训练会导致模型性能退化、多样性丧失（模型崩溃）。技术要点：需控制合成数据比例、设计交互学习策略。商业价值：对持续学习的AI产品（如推荐系统、对话助手）至关重要，避免模型退化。产品创新：可启发建立数据溯源和质量监控机制，确保学习稳定。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.20151v1",
+      "date": "2026-05-20"
+    },
+    {
+      "id": "a-methodology-for-selecting-and-composing-runtime-architecture-patterns-for-prod",
+      "label": "A Methodology for Selecting and Composing Runtime Architecture Patterns for Prod",
+      "summary": "本文提出将生产级LLM代理中的随机模型输出与确定性软件系统之间的边界作为一等架构对象——随机-确定性边界（SDB），并定义了包含提议者、验证者等四部分合约。该方法论为选择和组合运行时架构模式提供了系统框架，帮助产品经理设计更可靠、可组合的LLM应用，降低不确定性风险，提升系统稳定性和商业价值。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.20173v1",
+      "date": "2026-05-20"
+    },
+    {
+      "id": "multi-axis-analysis-of-image-manipulation-localization",
+      "label": "Multi-axis Analysis of Image Manipulation Localization",
+      "summary": "该论文提出一种多轴分析方法，用于定位图像篡改区域。随着生成式AI的进步，图像编辑工具使创建高度逼真的篡改图像变得极其容易，这些图像可能被用于传播错误信息和虚假叙事。技术要点在于通过多维度（如频域、空间域、语义一致性）分析，精确检测图像中被修改的部分。商业价值上，该技术可集成到内容审核平台、数字取证工具或社交媒体安全系统，帮助平台识别并标注可疑图像，维护信息真实性。产品创新体现在从单一特征检测转向综合多轴线索，提升检测鲁棒性和细粒度定位能力。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.20174v1",
+      "date": "2026-05-20"
+    },
+    {
+      "id": "interpretable-computer-vision-for-defect-detection-in-x-ray-tomography-of-aerosp",
+      "label": "Interpretable Computer Vision for Defect Detection in X-ray Tomography of Aerosp",
+      "summary": "该研究聚焦于航空航天的SiC/SiC复合材料无损检测，利用X射线计算机断层扫描（XCT）并结合可解释计算机视觉技术，解决传统人工视觉评估流程中可追溯性不足的问题。技术核心是采用深度卷积网络自动化缺陷检测，并通过可解释性方法揭示模型决策依据，克服黑箱局限，提升检测透明度。商业价值在于降低对专家经验的依赖，加速质检流程，并满足航空航天领域对高可靠性与合规性的严格要求。产品创新体现在将可解释AI与工业缺陷检测深度融合，为决策提供可追溯证据。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.20159v1",
+      "date": "2026-05-20"
+    },
+    {
       "id": "openai-adopts-googles-synthid-watermark-for-ai-images-with-verification-tool",
       "label": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
       "summary": "OpenAI 宣布采用 Google DeepMind 开发的 SynthID 隐形水印技术，为 AI 生成的图像添加不可见的数字水印，并同步推出验证工具。此举旨在提升 AI 内容的可溯源性，对抗深度伪造和虚假信息。对产品经理而言，这标志着行业向标准化内容溯源迈进，可增强用户信任、满足监管合规要求。SynthID 水印具有抗编辑能力，即使经过裁剪、压缩等操作仍能被检测。该合作或推动跨平台内容安全模式的形成，为企业级 AI 产品部署提供信任基础。",
@@ -199,6 +309,61 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+      "date": "2026-05-20"
+    },
+    {
+      "id": "atoms-of-thought-universal-eeg-representation-learning-with-microstates",
+      "label": "Atoms of Thought: Universal EEG Representation Learning with Microstates",
+      "summary": "该论文提出了一种基于微状态（Microstates）的通用脑电图（EEG）表示学习方法，将EEG信号分解为离散的神经活动模式，学习可迁移的语义特征。传统方法依赖时域/频域特征，而该方法通过微状态序列建模实现跨任务、跨个体的通用表征，有望降低脑机接口（BCI）的校准成本，提升信号分类鲁棒性。商业价值体现在简化EEG设备的产品适配流程，加速医疗、神经反馈、人机交互等领域的应用落地。产品创新在于将EEG抽象为“思维原子”，为无创脑机接口提供更通用的底层能力。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.20182v1",
+      "date": "2026-05-20"
+    },
+    {
+      "id": "not-every-rubric-teaches-equally-policy-aware-rubric-rewards-for-rlvr",
+      "label": "Not Every Rubric Teaches Equally: Policy-Aware Rubric Rewards for RLVR",
+      "summary": "该论文提出了一种基于评分细则（Rubric）的奖励方法，用于强化学习后训练阶段，解决模型需同时满足多个定性标准的问题。传统可验证奖励仅适用于正确性自动检查的场景，而本方法通过设计策略感知的评分细则奖励，使得模型能更好地学习复杂、多维度的行为要求。技术核心在于让奖励函数与当前策略对齐，提升训练效率。对于AI产品经理，该工作意味着在内容生成、客服对话等需要多标准评估的场景中，可更高效地优化模型输出质量，降低人工评估成本，具有显著的商业价值。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.20164v1",
+      "date": "2026-05-20"
+    },
+    {
+      "id": "rethinking-visual-attribution-for-chest-x-ray-reasoning-in-large-vision-language",
+      "label": "Rethinking Visual Attribution for Chest X-ray Reasoning in Large Vision Language",
+      "summary": "本文研究大型视觉语言模型（LVLM）在胸部X光推理中的视觉归因问题。尽管LVLM在医学应用中潜力巨大，但其回答缺乏对视觉证据的忠实解释，引发临床可信度担忧。论文探讨了现有视觉归因方法在解释LVLM预测时的局限性，并提出改进方向。技术要点在于增强模型的可解释性，商业价值在于提升医疗AI产品的医生信任度和合规性，产品创新在于将可靠的归因机制集成到放射科诊断辅助工具中，从而推动AI在医疗影像领域的实际落地。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.20158v1",
+      "date": "2026-05-20"
+    },
+    {
+      "id": "long-term-power-grid-planning-via-answer-set-programming",
+      "label": "Long-term Power Grid Planning via Answer Set Programming",
+      "summary": "本文研究通过Answer Set Programming（ASP）进行长期电网规划，以应对可持续性目标、需求变化和城市化趋势。ASP是一种基于逻辑推理的编程范式，能有效处理复杂约束和优化问题，适用于电网扩展、资源分配等场景。技术要点包括将电网建模为逻辑规则集，利用ASP求解器自动生成可行规划方案。商业价值在于提升电网规划的自动化与精确度，降低人力成本，支持清洁能源并网。产品创新点在于将AI推理与工程约束结合，形成可解释的规划工具。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.20172v1",
+      "date": "2026-05-20"
+    },
+    {
+      "id": "haorfloodalert-deseasonalized-ml-ensemble-for-72-hour-flood-prediction-in-bangla",
+      "label": "HaorFloodAlert: Deseasonalized ML Ensemble for 72-Hour Flood Prediction in Bangl",
+      "summary": "HaorFloodAlert 是针对孟加拉国 haor 湿地突发洪水的 AI 预警系统，采用去季节化的机器学习集成模型，实现 72 小时内洪水预测。该系统突破了传统河流洪水模型的局限，专门应对平缓盆地中的回水动态，显著提高了预警精度。其商业价值在于保护关键的 boro 水稻收成，减少农业损失，体现了 AI 在垂直灾害预警领域的创新应用。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.20167v1",
       "date": "2026-05-20"
     },
     {
@@ -257,6 +422,17 @@
       "date": "2026-05-20"
     },
     {
+      "id": "ai-humanity-and-dr-manhattan-syndrome-a-communications-intervention",
+      "label": "AI, \"Humanity\", and Dr. Manhattan Syndrome: A Communications Intervention",
+      "summary": "本文探讨了AI系统在追求极致理性时可能丧失人性特质，即“曼哈顿博士综合征”，并提出了沟通干预策略。对AI产品经理而言，关键是在提升AI能力的同时，融入情感智能和人性化交互设计，避免用户产生疏离感。这有助于增强用户信任与产品黏性，是下一代AI产品创新的重要方向。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48196303",
+      "date": "2026-05-20"
+    },
+    {
       "id": "comically-bad-datasets-used-to-train-clinical-models-for-stroke-and-diabetes",
       "label": "'Comically bad' datasets used to train clinical models for stroke and diabetes",
       "summary": "一项研究发现用于训练中风和糖尿病临床AI模型的数据集存在严重质量问题，被形容为‘可笑地糟糕’。这导致模型预测不准确，可能误导临床决策。对AI产品经理而言，该事件凸显了数据治理（Data Governance）在医疗AI产品中的极端重要性——低质量训练数据会直接破坏产品可信度与业务价值。商业启示是：在进入高风险医疗垂直领域时，必须建立严格的数据审计流程，避免因训练数据偏差导致的产品失效或法律风险。产品创新方向可关注数据质量自动检测工具或合成数据补充方案。",
@@ -299,10 +475,21 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48192383",
       "date": "2026-05-20"
+    },
+    {
+      "id": "sage-scalable-automatic-gating-ensemble-for-confident-negative-harvesting-in-fra",
+      "label": "SAGE: Scalable Automatic Gating Ensemble for Confident Negative Harvesting in Fr",
+      "summary": "Music streaming fraud, where bad actors artificially inflate stream counts to manipulate chart rankings and royalty payments, poses a significant threat to streaming services and legitimate content creators. Traditional fraud detection approaches struggle with a critical challenge: many legitimate e",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.20157v1",
+      "date": "2026-05-20"
     }
   ],
   "graph_totals": {
-    "real_nodes": 663,
-    "edges": 31722
+    "real_nodes": 681,
+    "edges": 32404
   }
 }

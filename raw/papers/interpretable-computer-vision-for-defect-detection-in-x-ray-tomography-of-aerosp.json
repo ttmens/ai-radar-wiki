@@ -1,0 +1,34 @@
+{
+  "title": "Interpretable Computer Vision for Defect Detection in X-ray Tomography of Aerospace SiC/SiC Composites",
+  "summary": "Non-destructive testing of aerospace SiC/SiC composites via X-ray computed tomography (XCT) relies on expert visual assessment, with current workflows offering limited traceability for accept/reject decisions. Deep convolutional networks can automate defect detection, yet their black-box nature conflicts with the transparency that industrial inspection practice demands. To close this gap, we introduce p-ResNet-50, a convolutional framework extended with a prototype layer that couples high detection accuracy with case-based explanations. Six learned prototypes are explicitly aligned with expert-defined semantic categories-healthy matrix, matrix--air interfaces, pores, line-like defects, and mixed morphologies-so that every classification is traceable to a physically meaningful reference. Two novel regularisation terms, anchor-based and medoid-based, tether prototypes to expert-selected patches and prevent prototype collapse, addressing a known limitation of prototype networks. Latent-space analysis via UMAP delineates semantically coherent sub-domains and maps zones of uncertainty where misclassifications concentrate, giving inspectors an explicit picture of where the model is-and is not-reliable. The framework is validated on an XCT patch dataset of approximately 12,000 patches extracted from four defect-rich SiC/SiC laboratory specimens. Taking a black-box ResNet-50 as a baseline (ROC-AUC = 0.991), the prototype extension achieves comparable performance (accuracy 0.957 vs. 0.959; ROC-AUC 0.994 vs. 0.993) while trading a slight reduction in sensitivity for higher precision and specificity. Each decision is backed by representative evidence patches, and the model explicitly flags its uncertainty regions. Beyond defect mapping, the framework establishes a reusable methodology for embedding domain-expert knowledge into prototype networks, applicable to other XCT inspection scenarios requiring traceable, auditable decisions.",
+  "url": "http://arxiv.org/abs/2605.20159v1",
+  "authors": [
+    "Antonio Peña Corredor",
+    "Julien Lesseur",
+    "Romain Nunez",
+    "Paul Rivalland",
+    "Thomas Philippe"
+  ],
+  "published": "2026-05-19T17:46:49Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision",
+    "embedding",
+    "accuracy",
+    "precision",
+    "dataset"
+  ],
+  "summary_cn": "该研究聚焦于航空航天的SiC/SiC复合材料无损检测，利用X射线计算机断层扫描（XCT）并结合可解释计算机视觉技术，解决传统人工视觉评估流程中可追溯性不足的问题。技术核心是采用深度卷积网络自动化缺陷检测，并通过可解释性方法揭示模型决策依据，克服黑箱局限，提升检测透明度。商业价值在于降低对专家经验的依赖，加速质检流程，并满足航空航天领域对高可靠性与合规性的严格要求。产品创新体现在将可解释AI与工业缺陷检测深度融合，为决策提供可追溯证据。",
+  "pm_relevance": 8,
+  "concepts": [
+    "可解释AI",
+    "计算机视觉",
+    "缺陷检测"
+  ],
+  "entities": [],
+  "patterns": [
+    "可解释AI模式",
+    "自动化质检模式"
+  ]
+}

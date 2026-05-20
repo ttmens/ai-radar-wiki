@@ -1,0 +1,26 @@
+{
+  "title": "Goal-Oriented Lower-Tail Calibration of Gaussian Processes for Bayesian Optimization",
+  "summary": "Bayesian optimization (BO) selects evaluation points for expensive black-box objectives using Gaussian process (GP) predictive distributions. Kernel choice and hyperparameter selection can lead to miscalibrated predictive distributions and an inappropriate exploration-exploitation trade-off. For minimization, sampling criteria such as expected improvement (EI) depend on the predictive distribution below the current best value, so lower-tail miscalibration directly affects the sampling decision. This article studies goal-oriented calibration of GP predictive distributions below a low threshold $t$ in the noiseless setting, for standard GP models with hyperparameters selected by maximum likelihood. A framework for predictive reliability below $t$ is introduced, based on two notions of spatial calibration: occurrence calibration over the design space and thresholded $μ$-calibration on sublevel sets of the form $\\{x\\in\\mathbb{X}, f(x)\\le t\\}$. Building on this framework, we propose tcGP, a post-hoc method that calibrates GP predictive distributions below~$t$, and we show that the resulting EI-based global optimization algorithm remains dense in the design space. Experiments on standard benchmarks show improved lower-tail calibration and BO performance relative to standard GP models and globally calibrated GP models.",
+  "url": "http://arxiv.org/abs/2605.20145v1",
+  "authors": [
+    "Aurélien Pion",
+    "Emmanuel Vazquez"
+  ],
+  "published": "2026-05-19T17:32:25Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "parameter",
+    "optimization"
+  ],
+  "summary_cn": "本文提出了一种针对贝叶斯优化（BO）中高斯过程（GP）预测分布校准的新方法——目标导向低尾校准。贝叶斯优化在昂贵黑箱目标函数（如超参数调优、自动机器学习）中广泛使用，但GP的核函数选择和超参数设置常导致预测分布失准，影响探索-利用平衡。该方法通过聚焦目标函数的下尾区域进行校准，更精准地捕获潜在最优点的不确定性，从而提升优化效率和最终性能。对于AI产品经理，该技术可在模型自动调参、实验设计等场景降低评估成本、加速产品迭代，具有显著商业价值。",
+  "pm_relevance": 8,
+  "concepts": [
+    "贝叶斯优化",
+    "高斯过程校准",
+    "黑箱优化"
+  ],
+  "entities": [],
+  "patterns": []
+}

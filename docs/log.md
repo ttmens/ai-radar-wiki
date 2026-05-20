@@ -749,3 +749,23 @@
 - create: google8217s-new-universal-cart-wants-to-follow-your-entire-shopping-journey-acro.md
 - create: google-launches-antigravity-20-with-an-updated-desktop-app-and-cli-tool-at-io-20.md
 - create: google-introduces-gemini-spark-a-247-agentic-assistant-with-gmail-integration-at.md
+
+## [2026-05-20 12:02] sync v3 | 19 new | pillars: {'capabilities': 15, 'patterns': 2, 'ecosystem': 2}
+- create: ageronhandson-ml.md
+- create: atoms-of-thought-universal-eeg-representation-learning-with-microstates.md
+- create: multi-axis-analysis-of-image-manipulation-localization.md
+- create: a-methodology-for-selecting-and-composing-runtime-architecture-patterns-for-prod.md
+- create: long-term-power-grid-planning-via-answer-set-programming.md
+- create: haorfloodalert-deseasonalized-ml-ensemble-for-72-hour-flood-prediction-in-bangla.md
+- create: not-every-rubric-teaches-equally-policy-aware-rubric-rewards-for-rlvr.md
+- create: interpretable-computer-vision-for-defect-detection-in-x-ray-tomography-of-aerosp.md
+- create: rethinking-visual-attribution-for-chest-x-ray-reasoning-in-large-vision-language.md
+- create: sage-scalable-automatic-gating-ensemble-for-confident-negative-harvesting-in-fra.md
+- create: when-does-model-collapse-occur-in-structured-interactive-learning.md
+- create: less-back-and-forth-a-comparative-study-of-structured-prompting.md
+- create: goal-oriented-lower-tail-calibration-of-gaussian-processes-for-bayesian-optimiza.md
+- create: railway-blocked-by-google-cloud.md
+- create: removeaiwatermarks-cli-and-library-for-removing-ai-watermarks-from-images.md
+- create: gemini-cli-will-stop-working-from-june-18-2026.md
+- create: tool-mapping-90-companies-in-the-photonics-and-cpo-supply-chain.md
+- create: ai-humanity-and-dr-manhattan-syndrome-a-communications-intervention.md
