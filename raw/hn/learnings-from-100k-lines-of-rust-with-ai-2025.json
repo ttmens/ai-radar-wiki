@@ -1,0 +1,20 @@
+{
+  "title": "Learnings from 100K lines of Rust with AI (2025)",
+  "score": 106,
+  "comments": 104,
+  "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+  "hn_url": "https://news.ycombinator.com/item?id=48205415",
+  "tag": "HN",
+  "pillar": "ecosystem",
+  "pillar_keywords": [],
+  "summary_cn": "作者总结了使用Rust开发100K行AI代码的经验，强调Rust在内存安全和并发性能上的优势，适合构建低延迟、高可靠的AI服务。技术要点包括利用所有权模型避免数据竞争、无GC的运行时高效性，以及通过FFI集成现有AI库。商业价值体现在降低运维成本、提升生产环境稳定性，产品创新上可支撑实时推理和边缘部署。尽管Rust学习曲线陡峭，但对需要极致性能的AI产品团队具有吸引力。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Rust AI Development",
+    "Performance Optimization"
+  ],
+  "entities": [],
+  "patterns": [
+    "Local-First AI"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Stability AI releases a new audio model that can create six-minute songs",
+  "description": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks",
+  "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+  "pub_date": "Wed, 20 May 2026 15:00:00 +0000",
+  "tag": "TechCrunch",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "audio"
+  ],
+  "summary_cn": "Stability AI 发布 Stability Audio 3.0，其小型模型可在设备端运行，生成最长 2 分钟的音轨（标题称可创作 6 分钟歌曲）。该模型在保持高质量音频生成的同时实现模型压缩，降低了对云端算力的依赖，提升了隐私性和实时性。对 AI 产品经理而言，这意味着音频生成类应用有望脱离服务器限制，实现本地化创作工具，尤其适合移动端和离线场景。商业上可降低部署成本，推动 AI 音乐、播客、音效等 C 端产品的爆发。",
+  "pm_relevance": 8,
+  "concepts": [
+    "On-Device AI",
+    "Audio Generation",
+    "Model Compression"
+  ],
+  "entities": [
+    "Stability AI"
+  ],
+  "patterns": [
+    "Local-First AI"
+  ]
+}

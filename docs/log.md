@@ -775,3 +775,20 @@
 - create: html-in-canvas-demos.md
 - create: museum-of-imaginary-musical-instruments.md
 - create: google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026.md
+
+## [2026-05-21 00:03] sync v3 | 15 new | pillars: {'patterns': 2, 'capabilities': 13}
+- create: qwen37-max-the-agent-frontier.md
+- create: victory-tennessee-man-jailed-37-days-for-trump-meme-wins-835000-settlement.md
+- create: googles-ai-is-being-manipulated-the-search-giant-is-quietly-fighting-back.md
+- create: when-fast-fourier-transform-meets-transformer-for-image-restoration-2024.md
+- create: nobel-laureate-olga-tokarczuk-apparently-used-ai-to-write-her-latest-novel.md
+- create: annas-archive-hit-with-195m-default-judgment-and-global-domain-takedown-order.md
+- create: college-students-drown-out-ai-praising-commencement-speeches-with-boos.md
+- create: learnings-from-100k-lines-of-rust-with-ai-2025.md
+- create: copyfail-from-pod-to-host.md
+- create: ai-search-startups-are-blowing-up.md
+- create: stability-ai-releases-a-new-audio-model-that-can-create-six-minute-songs.md
+- create: nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead.md
+- create: startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-ap.md
+- create: figma-adds-an-ai-assistant-to-its-collaborative-canvas.md
+- create: show-hn-iresearch-c-search-that-beat-lucene-and-tantivy-on-their-benchmark.md

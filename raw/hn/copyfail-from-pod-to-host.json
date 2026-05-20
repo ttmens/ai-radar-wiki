@@ -1,0 +1,22 @@
+{
+  "title": "CopyFail: From Pod to Host",
+  "score": 44,
+  "comments": 8,
+  "url": "https://xint.io/blog/copy-fail-pod-to-host",
+  "hn_url": "https://news.ycombinator.com/item?id=48196337",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "CopyFail 是从Pod到主机的逃逸漏洞，攻击者可利用该漏洞突破容器隔离，获得宿主机权限。这一安全风险对云原生架构和Kubernetes产品构成直接威胁，要求产品经理在容器编排、运行时安全策略中加强防护。商业价值在于推动安全产品的迭代与集成，例如镜像扫描、运行时监控和策略引擎。产品创新可聚焦于零信任容器网络、自动修复机制及安全左移实践。",
+  "pm_relevance": 7,
+  "concepts": [
+    "容器安全",
+    "Pod逃逸",
+    "漏洞利用"
+  ],
+  "entities": [],
+  "patterns": [
+    "安全左移",
+    "容器运行时保护"
+  ]
+}
