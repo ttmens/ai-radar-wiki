@@ -1,7 +1,7 @@
 {
   "date": "2026-05-20",
-  "generated_at": "2026-05-20T12:02:58.875735+08:00",
-  "item_count": 44,
+  "generated_at": "2026-05-20T18:02:38.912824+08:00",
+  "item_count": 46,
   "items": [
     {
       "id": "gemini-35-flash",
@@ -78,6 +78,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
+      "date": "2026-05-20"
+    },
+    {
+      "id": "google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026",
+      "label": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
+      "summary": "Google 在 IO 2026 大会上更新 Gemini 应用，旨在将其从独立聊天机器人转变为全能型 AI 枢纽。此举直接对标 ChatGPT 和 Claude，体现了 Google 通过整合多种 AI 能力（如推理、记忆、多模态）打造统一产品体验的战略。对于 AI 产品经理而言，核心启示是：未来竞争将从单一对话功能转向平台化生态，产品需具备能力聚合、上下文持久化及跨服务调用的特性，以提升用户粘性和使用深度。",
+      "pm_score": 0.515,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
       "date": "2026-05-20"
     },
     {
@@ -378,6 +389,17 @@
       "date": "2026-05-20"
     },
     {
+      "id": "infomaniak-transitions-to-a-foundation-model-to-protect-user-data-privacy",
+      "label": "Infomaniak transitions to a foundation model to protect user data privacy",
+      "summary": "瑞士云服务商Infomaniak宣布将其AI服务转向自主基础模型，以强化用户数据隐私保护。此举旨在减少对第三方模型依赖，通过本地化部署和联邦学习技术，确保用户数据不离开欧洲境内，满足GDPR合规要求。商业价值在于差异化竞争，吸引注重隐私的企业客户；产品创新体现在将隐私保护作为核心设计原则，而非事后添加。该方案可能降低模型性能，但换取了更高安全性和用户信任。",
+      "pm_score": 0.415,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48203536",
+      "date": "2026-05-20"
+    },
+    {
       "id": "copy-fail-dirty-frag-and-fragnesia-kernel-vulnerabilities",
       "label": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
       "summary": "该标题提及三种内核漏洞（Copy Fail、Dirty Frag和Fragnesia），虽然未提供详细摘要，但此类系统级安全缺陷直接影响AI产品的可靠性、数据完整性和运行稳定性。产品经理需关注漏洞对部署环境（如云端或边缘设备）的潜在威胁，优先协调工程团队进行补丁升级，并评估对用户数据隐私和模型推理性能的影响。此外，该信息提醒PM在技术选型中应纳入安全评估指标，防范因底层漏洞引发的产品事故。",
@@ -489,7 +511,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 681,
-    "edges": 32404
+    "real_nodes": 685,
+    "edges": 33090
   }
 }

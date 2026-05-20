@@ -769,3 +769,9 @@
 - create: gemini-cli-will-stop-working-from-june-18-2026.md
 - create: tool-mapping-90-companies-in-the-photonics-and-cpo-supply-chain.md
 - create: ai-humanity-and-dr-manhattan-syndrome-a-communications-intervention.md
+
+## [2026-05-20 18:02] sync v3 | 4 new | pillars: {'capabilities': 3, 'patterns': 1}
+- create: infomaniak-transitions-to-a-foundation-model-to-protect-user-data-privacy.md
+- create: html-in-canvas-demos.md
+- create: museum-of-imaginary-musical-instruments.md
+- create: google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026.md
