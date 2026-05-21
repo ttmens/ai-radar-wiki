@@ -1,0 +1,28 @@
+{
+  "title": "Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning",
+  "summary": "Relational prediction tasks are fundamental in many real-world applications, where data are naturally stored in relational databases (RDBs). Relational Deep Learning (RDL) addresses this problem by modeling RDBs as graphs and applying graph neural networks (GNNs) for end-to-end learning. However, the full-resolution property is commonly adopted as a design principle in graph construction for RDBs to preserve relational semantics, which leads most existing methods to rely on fixed graph structures. In this paper, we propose FROG, a Full-Resolution and Optimizable Graph Structure Learning} framework for RDL that formulates relational structure learning as a learnable table role modeling problem, allowing tables to contribute as nodes and edges in message passing. We further design role-driven message passing mechanisms to capture relational semantics, enabling joint optimization of graph structure and GNN representations. To ensure semantic consistency, we introduce functional dependency constraints that regularize representations across table and entity levels. Extensive experiments demonstrate that our method outperforms existing approaches and reveal how table roles impact downstream tasks, offering new insights into graph construction for RDL",
+  "url": "http://arxiv.org/abs/2605.21475v1",
+  "authors": [
+    "Yi Huang",
+    "Qingyun Sun",
+    "Jia Li",
+    "Xingcheng Fu",
+    "Jianxin Li"
+  ],
+  "published": "2026-05-20T17:56:09Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "neural network",
+    "optimization"
+  ],
+  "summary_cn": "该论文探讨了关系深度学习（RDL）中图结构学习的必要性，提出全分辨率图结构学习方法，无需手动修正数据库模式图即可端到端训练图神经网络。技术要点在于自动学习关系数据库中的高阶连接关系，提升预测准确性。商业价值：降低企业在关系数据建模中的人工成本，加速AI应用落地（如推荐系统、欺诈检测）。产品创新：实现了从原始关系表到最优图结构的自动化转换，减少对专家经验的依赖。",
+  "pm_relevance": 7,
+  "concepts": [
+    "关系深度学习",
+    "图神经网络",
+    "图结构学习"
+  ],
+  "entities": [],
+  "patterns": []
+}

@@ -1,7 +1,7 @@
 {
   "date": "2026-05-21",
-  "generated_at": "2026-05-21T06:07:01.167864+08:00",
-  "item_count": 26,
+  "generated_at": "2026-05-21T12:02:53.486062+08:00",
+  "item_count": 46,
   "items": [
     {
       "id": "an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry",
@@ -92,6 +92,17 @@
       "date": "2026-05-21"
     },
     {
+      "id": "xai-burned-64b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-o",
+      "label": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far f",
+      "summary": "SpaceX的IPO文件首次公开了Elon Musk旗下xAI在2025年亏损64亿美元，同时计划大规模扩展Grok模型。尽管巨额亏损，xAI仍持续投入，表明AI领域仍处于高资本投入、抢占市场份额的竞争阶段。对AI产品经理而言，这揭示了AI公司的财务真实状况与扩张野心，需关注成本控制、投资回报以及巨头间的资源博弈。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+      "date": "2026-05-21"
+    },
+    {
       "id": "irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-ne",
       "label": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you",
       "summary": "IrisGo 是一款由 AI 先驱吴恩达投资的桌面 AI 助手，初始定位为“AI 管家”。它通过持续观察用户的桌面操作，自动学习并模仿用户完成重复性任务，无需用户手动编程或配置。其核心创新在于被动感知与主动学习相结合，能逐步理解用户的工作流程，实现从“观察”到“执行”的闭环。这一技术路径降低了 AI 助手的部署门槛，有望在个人办公自动化、RPA（机器人流程自动化）领域开辟轻量化应用场景。对于产品经理而言，该产品展示了 AI 从“指令执行”向“习惯学习”演进的产品范式，尤其适合追求零配置、低侵入性的用户体验设计。",
@@ -158,6 +169,39 @@
       "date": "2026-05-21"
     },
     {
+      "id": "anthropic-says-it8217s-about-to-have-its-first-profitable-quarter",
+      "label": "Anthropic says it&#8217;s about to have its first profitable quarter",
+      "summary": "Anthropic 向投资者透露其即将迎来首个盈利季度，预计第二季度营收将翻倍至约109亿美元。这一里程碑表明其 AI 模型（如 Claude）的商业化能力正快速提升，主要得益于企业级 API 订阅和数据中心训练效率优化。对 AI 产品经理而言，这意味着市场上多了一个成熟的、可持续的模型供应商选择，可能影响产品立项时的模型选型和定价策略，同时需关注其竞争动态对生态合作格局的长期影响。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "anthropic-is-expanding-to-colossus2-will-use-gb200",
+      "label": "Anthropic is expanding to Colossus2. Will use GB200",
+      "summary": "Anthropic 计划扩展其大型计算集群 Colossus2，并采用英伟达下一代 GB200 GPU（基于 Blackwell 架构）。此举表明 Anthropic 正在大规模投资硬件基础设施，以支持更强大的模型训练与推理能力。对 AI 产品经理而言，这意味着未来模型性能、上下文窗口规模和响应速度可能显著提升，同时成本结构也会变化。基础设施的扩张是模型能力竞争的关键，也预示着 AI 产品在实时性、复杂性上的新可能性。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48214017",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "jensen-huang-says-he8217s-found-a-8216brand-new8217-200b-market-for-nvidia",
+      "label": "Jensen Huang says he&#8217;s found a &#8216;brand new&#8217; $200B market for Nv",
+      "summary": "英伟达CEO黄仁勋预测，AI代理（AI Agents）将催生一个价值2000亿美元的全新CPU市场。他强调，传统CPU架构无法满足AI推理与自主决策的需求，英伟达将推出专为AI代理设计的CPU，主打高并发、低延迟和自适应计算。这一动向标志着AI基础设施从训练向推理部署的战略转移，为产品经理提供了新的硬件选型方向，同时暗示了AI代理在商业应用中规模化落地的潜力。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "date": "2026-05-21"
+    },
+    {
       "id": "nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups",
       "label": "Nvidia posts another record quarter, reveals $43 billion of holdings in startups",
       "summary": "英伟达（Nvidia）公布又一季度创纪录营收，但预警下季度增长放缓。同时，该公司披露持有价值430亿美元的AI初创公司股份，展示其通过资本深度参与AI生态建设的战略。对AI产品经理而言，英伟达财报不仅反映GPU需求持续旺盛，更提示其投资布局可能影响未来AI工具、平台及算力市场格局。需关注英伟达作为AI基础设施核心供应商的定价权与生态影响力变化。",
@@ -166,6 +210,127 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral",
+      "label": "Clouted wants to take the guesswork out of making short videos go viral",
+      "summary": "Clouted 是一家利用 AI 技术帮助用户优化短视频内容以提高爆发潜力的初创公司，近期完成由 Slow Ventures 领投的 700 万美元种子轮融资。该产品通过智能分析视频节奏、热门元素和用户偏好，自动建议剪辑策略、标题和发布时间，降低创作爆款的主观试错成本。其技术亮点在于将内容生成与数据驱动的传播预测相结合，为创作者提供可量化的优化建议，商业价值体现在短剧、品牌营销等高频内容场景中提升 ROI。该融资表明市场对 AI 驱动的内容创作工具需求旺盛，产品创新在于将“猜爆款”转化为可复用的技术能力。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "airaxiv-an-ai-driven-open-access-platform-for-human-and-ai-scientists",
+      "label": "AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists",
+      "summary": "AiraXiv 是一个由 AI 驱动的开放获取平台，专为人类科学家和 AI 科学家设计，旨在解决传统学术出版系统在应对人机生成研究产出激增时的可扩展性瓶颈。平台通过自动化稿件处理、智能审稿和知识聚合，降低出版成本并加速科研交流。其创新点在于平等支持人类与 AI 研究者投稿，推动人机协作的科研生态。商业价值体现在重塑学术出版流程，为科研机构和企业提供高效的知识分发基础设施，有望成为下一代学术交流的标准平台。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.21481v1",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "you-only-need-minimal-rlvr-training-extrapolating-llms-via-rank-1-trajectories",
+      "label": "You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories",
+      "summary": "该研究揭示了基于可验证奖励的强化学习（RLVR）在大型语言模型中的参数轨迹几何结构，发现权重更新主要由秩为1的轨迹主导。通过仅需极少量RLVR训练步骤即可外推模型推理能力，大幅降低微调成本。产品经理可关注其降低强化学习训练门槛、加速推理优化的商业价值，尤其适用于需要快速迭代领域模型的场景。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.21468v1",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "agent-jit-compilation-for-latency-optimizing-web-agent-planning-and-scheduling",
+      "label": "Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling",
+      "summary": "本文提出了一种针对Web Agent的JIT编译方法，旨在优化其规划和调度过程以减少延迟。传统计算机使用代理（CUA）通过顺序的截图-执行循环完成任务，存在响应慢的问题。该技术借鉴即时编译思想，动态编译执行计划，显著提升任务执行效率。对于AI产品经理而言，这一创新能够大幅改善自动化浏览器操作的用户体验，降低等待时间，提升任务完成速度。商业价值体现在提高用户满意度和产品竞争力，尤其适用于需要频繁交互的自动化场景。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.21470v1",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "quantifying-hyperparameter-transfer-and-the-importance-of-embedding-layer-learni",
+      "label": "Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learni",
+      "summary": "该论文研究了超参数迁移（Hyperparameter Transfer）方法，使小规模训练中的最优优化超参数可扩展到大规模LLM训练，显著降低调参成本。关键发现是嵌入层学习率需单独调整，与传统参数共享学习率的做法不同，可提升训练效率。技术上可通过拟合缩放定律或特定参数化（如Maxima）实现迁移。对产品经理而言，这意味着能加速模型迭代、降低训练成本，并为自动化超参数优化工具提供了新思路。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.21486v1",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "variance-reduction-for-expectations-with-diffusion-teachers",
+      "label": "Variance Reduction for Expectations with Diffusion Teachers",
+      "summary": "本论文针对扩散模型作为教师模型在下游任务（如文本到3D、单步蒸馏和数据归因）中提供梯度时，蒙特卡洛期望估计存在高方差的问题，提出了一种方差缩减方法。通过优化噪声水平和高斯噪声样本的采样策略，降低了梯度估计的方差，从而提升训练稳定性和效率。该技术有助于减少计算资源消耗，加快模型迭代，对依赖扩散模型的多模态生成产品有直接价值。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.21489v1",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "deepweb-bench-a-deep-research-benchmark-demanding-massive-cross-source-evidence",
+      "label": "DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence",
+      "summary": "DeepWeb-Bench 是一个新型基准测试，专门评估AI在开放网络上进行深度研究的能力，要求代理跨多个来源收集证据并进行长时间推理。该基准旨在解决现有测试难以区分前沿模型能力的痛点，对AI搜索和研究类产品的性能评估具有重要意义。它通过复杂的跨来源证据整合和长链条推导任务，揭示了当前模型在深度推理与信息综合方面的局限，为产品优化提供了明确方向。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.21482v1",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "is-fixing-schema-graphs-necessary-full-resolution-graph-structure-learning-for-r",
+      "label": "Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for",
+      "summary": "该论文探讨了关系深度学习（RDL）中图结构学习的必要性，提出全分辨率图结构学习方法，无需手动修正数据库模式图即可端到端训练图神经网络。技术要点在于自动学习关系数据库中的高阶连接关系，提升预测准确性。商业价值：降低企业在关系数据建模中的人工成本，加速AI应用落地（如推荐系统、欺诈检测）。产品创新：实现了从原始关系表到最优图结构的自动化转换，减少对专家经验的依赖。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.21475v1",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "evostruct-bridging-evolutionary-and-structural-priors-for-antibody-cdr-design-vi",
+      "label": "EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design v",
+      "summary": "EvoStruct通过引入进化和结构先验，结合蛋白质语言模型微调，解决了基于等变图神经网络(GNN)的抗体CDR设计中存在的词汇坍塌问题（即过度预测少数氨基酸如酪氨酸和甘氨酸）。该方法在保持高序列恢复率的同时，显著提升了氨基酸预测的多样性，为抗体药物发现提供了更可靠、更具创新性的分子设计方案，有望加速抗体候选分子的生成和优化。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.21485v1",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "wikivqabench-a-knowledge-grounded-visual-question-answering-benchmark-from-wikip",
+      "label": "WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wiki",
+      "summary": "WikiVQABench 是一个新的知识驱动型视觉问答基准，它突破了传统 VQA 仅依赖图像内容的局限。该基准结合 Wikipedia 和 Wikidata 的外部知识，要求模型利用非图像中的结构化信息来回答复杂问题。对 AI 产品经理而言，这标志着多模态 AI 从单纯感知走向知识融合的关键一步——意味着未来产品可以构建更智能的问答系统、知识检索工具或智能助手，在医疗、教育、电商等场景中实现基于图像+外部知识的精准推理。同时，该基准为评估多模态大模型的真实知识推理能力提供了标准化测试集。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.21479v1",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "intuit-to-lay-off-over-3k-employees-to-refocus-on-ai",
+      "label": "Intuit to lay off over 3k employees to refocus on AI",
+      "summary": "Intuit（旗下拥有TurboTax、QuickBooks等产品）宣布裁员超过3000人，旨在将资源重新聚焦于人工智能领域。此举表明该公司正大力投资AI技术，以自动化财务、税务等核心业务，提升产品智能化水平。对AI产品经理而言，这反映出传统金融软件公司加速AI转型的趋势，可能催生更高效的智能财务助手、自动化税务申报等创新功能。商业上，裁员虽短期带来成本优化，但长期依赖AI有望降低运营成本并增强竞争力。这一战略调整警示产品经理需关注AI对岗位替代与业务重构的深远影响。",
+      "pm_score": 0.43,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48216278",
       "date": "2026-05-21"
     },
     {
@@ -235,6 +400,28 @@
       "date": "2026-05-21"
     },
     {
+      "id": "velocityformer-broken-symmetry-matched-equivariant-graph-transformers-for-cosmol",
+      "label": "Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmo",
+      "summary": "Velocityformer 提出了一种基于破缺对称性匹配的等变图变换器，用于从光谱巡天数据中高精度重建星系速度场，以提升运动学 Sunyaev-Zel'dovich (kSZ) 效应的测量信噪比。该技术通过将物理对称性约束嵌入 Transformer 架构，解决了传统方法在宇宙学大尺度结构推断中的误差问题。尽管目前仍处于研究阶段，但其在优化宇宙学参数估计上的潜力，可为下一代天文观测数据处理产品提供底层能力支撑，推动AI与物理仿真的交叉创新。",
+      "pm_score": 0.34,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.21483v1",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "openai-to-confidentially-file-for-ipo-as-soon-as-friday",
+      "label": "OpenAI to confidentially file for IPO as soon as Friday",
+      "summary": "OpenAI 计划最早本周五秘密提交 IPO 申请，标志着这家 AI 领军企业从非营利向商业化迈出关键一步。对 AI 产品经理而言，此举将影响 OpenAI 的产品战略、资源分配与独立性，可能加速其模型商业化进程，同时引发行业竞争格局变化。上市后 OpenAI 需平衡股东利益与技术创新，其 API 定价、模型开放策略及生态合作方式或将调整。该事件凸显 AI 公司商业化路径的典型模式，值得关注后续对 AI 产品经理决策环境的影响。",
+      "pm_score": 0.33,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48217052",
+      "date": "2026-05-21"
+    },
+    {
       "id": "handling-the-great-code-forge-fragmentation",
       "label": "Handling the great code forge fragmentation",
       "summary": "本文探讨了AI代码生成工具（如Copilot、CodeWhisperer等）快速涌现导致的碎片化问题。产品经理需关注如何统一管理多个代码助手，降低切换成本，并确保输出质量一致。技术要点包括标准化API接口、模型路由与结果合并；商业价值在于提升开发者效率并避免供应商锁定；产品创新方向是构建集成式AI开发平台。",
@@ -254,6 +441,17 @@
       "type": "showhn",
       "source_type": "showhn",
       "url": "https://vostride.com/agent-qa",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "populora-co-evolving-llm-populations-for-reasoning-self-play",
+      "label": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
+      "summary": "PopuLoRA 提出了一种新颖的种群协同进化框架，用于大语言模型的推理自对弈。通过让多个LLM组成群体，在自我对弈中相互学习、变异和选择，自动提升推理能力，无需大量人工标注数据。该方法结合低秩适应（LoRA）实现高效参数更新，支持模型多样化与协作进化。商业价值在于降低推理增强成本，加速模型迭代，可应用于复杂推理任务如数学、编程等。产品创新点在于将进化算法与LLM微调融合，实现持续自我改进。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48214188",
       "date": "2026-05-21"
     },
     {
@@ -288,10 +486,32 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
       "date": "2026-05-21"
+    },
+    {
+      "id": "equilibrium-reasoners-learning-attractors-enables-scalable-reasoning",
+      "label": "Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning",
+      "summary": "Scaling test-time compute by iteratively updating a latent state has emerged as a powerful paradigm for reasoning. Yet the internal mechanisms that enable these iterative models to generalize beyond memorized patterns remain unclear. We hypothesize that generalizable reasoning arises from learning t",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.21488v1",
+      "date": "2026-05-21"
+    },
+    {
+      "id": "delta-discriminative-token-credit-assignment-for-reinforcement-learning-from-ver",
+      "label": "DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Ve",
+      "summary": "Reinforcement learning from verifiable rewards (RLVR) has emerged as a central technique for improving the reasoning capabilities of large language models. Despite its effectiveness, how response-level rewards translate into token-level probability changes remains poorly understood. We introduce a d",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.21467v1",
+      "date": "2026-05-21"
     }
   ],
   "graph_totals": {
-    "real_nodes": 715,
-    "edges": 34507
+    "real_nodes": 736,
+    "edges": 35247
   }
 }

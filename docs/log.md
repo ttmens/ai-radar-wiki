@@ -809,3 +809,26 @@
 - create: openai-barrels-toward-ipo-that-may-happen-in-september.md
 - create: startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-appl.md
 - create: show-hn-open-source-agentic-qa-harness-with-memory.md
+
+## [2026-05-21 12:02] sync v3 | 21 new | pillars: {'capabilities': 14, 'ecosystem': 1, 'patterns': 4, 'business': 2}
+- create: variance-reduction-for-expectations-with-diffusion-teachers.md
+- create: equilibrium-reasoners-learning-attractors-enables-scalable-reasoning.md
+- create: quantifying-hyperparameter-transfer-and-the-importance-of-embedding-layer-learni.md
+- create: evostruct-bridging-evolutionary-and-structural-priors-for-antibody-cdr-design-vi.md
+- create: velocityformer-broken-symmetry-matched-equivariant-graph-transformers-for-cosmol.md
+- create: deepweb-bench-a-deep-research-benchmark-demanding-massive-cross-source-evidence.md
+- create: airaxiv-an-ai-driven-open-access-platform-for-human-and-ai-scientists.md
+- create: wikivqabench-a-knowledge-grounded-visual-question-answering-benchmark-from-wikip.md
+- create: is-fixing-schema-graphs-necessary-full-resolution-graph-structure-learning-for-r.md
+- create: agent-jit-compilation-for-latency-optimizing-web-agent-planning-and-scheduling.md
+- create: you-only-need-minimal-rlvr-training-extrapolating-llms-via-rank-1-trajectories.md
+- create: delta-discriminative-token-credit-assignment-for-reinforcement-learning-from-ver.md
+- create: intuit-to-lay-off-over-3k-employees-to-refocus-on-ai.md
+- create: openai-to-confidentially-file-for-ipo-as-soon-as-friday.md
+- create: populora-co-evolving-llm-populations-for-reasoning-self-play.md
+- create: anthropic-is-expanding-to-colossus2-will-use-gb200.md
+- create: jensen-huang-says-he8217s-found-a-8216brand-new8217-200b-market-for-nvidia.md
+- create: anthropic-says-it8217s-about-to-have-its-first-profitable-quarter.md
+- create: clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral.md
+- create: xai-burned-64b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-o.md
+- create: show-hn-dari-docs-optimize-your-docs-using-parallel-coding-agents.md

@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-05-21T06:07:01.015129+08:00",
+  "generated_at": "2026-05-21T12:02:53.276102+08:00",
   "days_analyzed": 14,
   "pillar_trends": {
     "capabilities": {
       "trend": "down",
-      "delta": -2,
-      "current": 5,
+      "delta": -6,
+      "current": 1,
       "previous": 7,
       "has_data": true
     },
     "patterns": {
-      "trend": "down",
-      "delta": -3,
-      "current": 2,
+      "trend": "stable",
+      "delta": 0,
+      "current": 5,
       "previous": 5,
       "has_data": true
     },
     "ecosystem": {
       "trend": "down",
-      "delta": -2,
-      "current": 3,
+      "delta": -4,
+      "current": 1,
       "previous": 5,
       "has_data": true
     },
     "business": {
       "trend": "up",
-      "delta": 2,
-      "current": 2,
+      "delta": 1,
+      "current": 1,
       "previous": 0,
       "has_data": true
     }
@@ -40,7 +40,8 @@
         "2026-05-08",
         "2026-05-11",
         "2026-05-12",
-        "2026-05-13"
+        "2026-05-13",
+        "2026-05-21"
       ],
       "instances": [
         {
@@ -234,6 +235,22 @@
               "pillar": "patterns"
             }
           ]
+        },
+        {
+          "date": "2026-05-21",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日1条情报涉及AI工具链与基础设施。包括：CopyFail: From Pod to Host。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": [
+            {
+              "id": "an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry",
+              "title": "An OpenAI model has disproved a central conjecture in discrete geometr",
+              "score": 0.63,
+              "url": "https://news.ycombinator.com/item?id=48212493",
+              "reason": "里程碑式进展；高价值信号",
+              "pillar": "capabilities"
+            }
+          ]
         }
       ],
       "lifecycle": "hot"
@@ -245,7 +262,8 @@
       "days": [
         "2026-05-11",
         "2026-05-12",
-        "2026-05-13"
+        "2026-05-13",
+        "2026-05-21"
       ],
       "instances": [
         {
@@ -391,9 +409,57 @@
               "pillar": "capabilities"
             }
           ]
+        },
+        {
+          "date": "2026-05-21",
+          "title": "AI Agent 工具链与协作流程快速成熟",
+          "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：Jensen Huang says he&#8217;s found a &#8, Testing distributed systems with AI agen, Show HN: Open-Source Agentic QA Harness 。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "type": "paradigm_shift",
+          "evidence": [
+            {
+              "id": "qwen37-max-the-agent-frontier",
+              "title": "Qwen3.7-Max: The Agent Frontier",
+              "score": 0.6,
+              "url": "https://news.ycombinator.com/item?id=48205626",
+              "reason": "里程碑式进展；高价值信号",
+              "pillar": "patterns"
+            },
+            {
+              "id": "agent-jit-compilation-for-latency-optimizing-web-agent-planning-and-scheduling",
+              "title": "Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Sc",
+              "score": 0.48,
+              "url": "http://arxiv.org/abs/2605.21470v1",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "testing-distributed-systems-with-ai-agents",
+              "title": "Testing distributed systems with AI agents",
+              "score": 0.41,
+              "url": "https://news.ycombinator.com/item?id=48208685",
+              "reason": "里程碑式进展",
+              "pillar": "patterns"
+            },
+            {
+              "id": "show-hn-open-source-agentic-qa-harness-with-memory",
+              "title": "Show HN: Open-Source Agentic QA Harness with Memory",
+              "score": 0.33,
+              "url": "https://vostride.com/agent-qa",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "show-hn-dari-docs-optimize-your-docs-using-parallel-coding-agents",
+              "title": "Show HN: Dari-docs – Optimize your docs using parallel coding agents",
+              "score": 0.29,
+              "url": "https://github.com/mupt-ai/dari-docs",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            }
+          ]
         }
       ],
-      "lifecycle": "rising"
+      "lifecycle": "hot"
     },
     {
       "title": "AI商业动态：资本与市场持续升温",
@@ -401,7 +467,8 @@
       "latest_type": "validation",
       "days": [
         "2026-05-12",
-        "2026-05-13"
+        "2026-05-13",
+        "2026-05-21"
       ],
       "instances": [
         {
@@ -496,6 +563,22 @@
               "score": 0.3,
               "url": "https://news.ycombinator.com/item?id=48082763",
               "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "business"
+            }
+          ]
+        },
+        {
+          "date": "2026-05-21",
+          "title": "AI商业动态：资本与市场持续升温",
+          "body": "今日5条情报涉及AI商业动态。包括：xAI burned $6.4B last year — SpaceX’s IP, Musk’s xAI is being sued over its data c, OpenAI barrels toward IPO that may happe。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+          "type": "validation",
+          "evidence": [
+            {
+              "id": "college-students-drown-out-ai-praising-commencement-speeches-with-boos",
+              "title": "College students drown out AI-praising commencement speeches with boos",
+              "score": 0.56,
+              "url": "https://news.ycombinator.com/item?id=48206241",
+              "reason": "高价值信号",
               "pillar": "business"
             }
           ]
@@ -772,5 +855,5 @@
   ],
   "contradictions": [],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-21**（14天），累计 **424** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI工具链从通用走向垂直专业化**。 值得关注：💰 商业动态呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-21**（14天），累计 **455** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI工具链从通用走向垂直专业化**。 值得关注：💰 商业动态呈上升趋势"
 }

@@ -1,0 +1,31 @@
+{
+  "title": "Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling",
+  "summary": "Computer-use agents (CUA) automate tasks specified with natural language such as \"order the cheapest item from Taco Bell\" by generating sequences of calls to tools such as click, type, and scroll on a browser. Current implementations follow a sequential fetch-screenshot-execute loop where each iteration requires an LLM call, resulting in high latency and frequent errors from incorrect tool use. We present agent just-in-time (JIT) compilation, an alternative that compiles task descriptions directly into executable code that is free to include LLM calls, tool calls, and parallelization. Our approach comprises three components: (1) JIT-Planner, which generates multiple code plans, validates each against tool specifications, and selects the minimum-cost candidate; (2) JIT-Scheduler, which explores parallelization strategies via Monte Carlo cost estimation from learned latency distributions; and (3) an invariant-enforcing tool protocol specifying precondition and postcondition state requirements that reduce the rate of generating plans with incorrect tool use. Across 5 web applications, JIT-Planner achieves $10.4\\times$ speedup and $+28\\%$ accuracy over Browser-Use, while JIT-Scheduler achieves $2.4\\times$ speedup and $+9\\%$ accuracy over OpenAI CUA.",
+  "url": "http://arxiv.org/abs/2605.21470v1",
+  "authors": [
+    "Caleb Winston",
+    "Ron Yifeng Wang",
+    "Azalia Mirhoseini",
+    "Christos Kozyrakis"
+  ],
+  "published": "2026-05-20T17:54:27Z",
+  "tag": "Paper",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent",
+    "tool use",
+    "planning"
+  ],
+  "summary_cn": "本文提出了一种针对Web Agent的JIT编译方法，旨在优化其规划和调度过程以减少延迟。传统计算机使用代理（CUA）通过顺序的截图-执行循环完成任务，存在响应慢的问题。该技术借鉴即时编译思想，动态编译执行计划，显著提升任务执行效率。对于AI产品经理而言，这一创新能够大幅改善自动化浏览器操作的用户体验，降低等待时间，提升任务完成速度。商业价值体现在提高用户满意度和产品竞争力，尤其适用于需要频繁交互的自动化场景。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Agent JIT Compilation",
+    "Latency Optimization",
+    "Web Automation Planning"
+  ],
+  "entities": [],
+  "patterns": [
+    "JIT Compilation Pattern",
+    "Web Agent Automation"
+  ]
+}

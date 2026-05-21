@@ -1,0 +1,31 @@
+{
+  "title": "EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation",
+  "summary": "Equivariant graph neural network (GNN) methods for antibody complementarity-determining region (CDR) design achieve the highest sequence recovery but suffer from severe vocabulary collapse. The current best GNN methods over-predict very few amino acids, such as tyrosine and glycine, while ignoring functionally important residues. We trace this failure to GNN encoders learning amino acid distributions de novo from limited structural data, discarding substitution patterns encoded in evolutionary databases. To resolve this, we propose EvoStruct, which bridges a frozen protein language model (PLM) with 3D structural context from an E(3)-equivariant GNN via a cross-attention adapter. Unlike prior PLM-structure adapters for general protein design, EvoStruct targets the vocabulary collapse problem specific to CDR design through progressive PLM unfreezing and R-Drop consistency regularization. On the CHIMERA-Bench dataset, EvoStruct achieves the highest amino acid recovery and lowest perplexity among several antibody design methods, improving sequence recovery by 16% and reducing perplexity by 43% relative to the best GNN baselines, while recovering 2.3x greater amino acid diversity and the highest binding-pair correlation with ground truth.",
+  "url": "http://arxiv.org/abs/2605.21485v1",
+  "authors": [
+    "Mansoor Ahmed",
+    "Sujin Lee",
+    "Umar Khayaz",
+    "Murray Patterson"
+  ],
+  "published": "2026-05-20T17:59:16Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "neural network",
+    "attention",
+    "dataset"
+  ],
+  "summary_cn": "EvoStruct通过引入进化和结构先验，结合蛋白质语言模型微调，解决了基于等变图神经网络(GNN)的抗体CDR设计中存在的词汇坍塌问题（即过度预测少数氨基酸如酪氨酸和甘氨酸）。该方法在保持高序列恢复率的同时，显著提升了氨基酸预测的多样性，为抗体药物发现提供了更可靠、更具创新性的分子设计方案，有望加速抗体候选分子的生成和优化。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Protein Language Model",
+    "Antibody Design",
+    "Vocabulary Collapse"
+  ],
+  "entities": [],
+  "patterns": [
+    "Equivariant GNN",
+    "Transfer Learning"
+  ]
+}

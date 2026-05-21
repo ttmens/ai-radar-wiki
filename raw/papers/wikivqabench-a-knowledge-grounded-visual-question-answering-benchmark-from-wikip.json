@@ -1,0 +1,36 @@
+{
+  "title": "WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wikipedia and Wikidata",
+  "summary": "Visual Question Answering (VQA) benchmarks have largely emphasized perception-based tasks that can be solved from visual content alone. In contrast, many real-world scenarios require external knowledge that is not directly observable in the image to answer correctly. We introduce WikiVQABench, a human-curated knowledge-grounded VQA benchmark constructed by systematically combining Wikipedia images, their associated article captions, and structured knowledge from Wikidata. Our pipeline uses large language models (LLMs) to generate candidate multiple-choice image-question-answer sets. All generated instances are subsequently reviewed and curated by human annotators to ensure factual correctness, visual-text consistency, and that each question requires external knowledge in addition to visual evidence for correct resolution. WikiVQABench comprises a substantial collection of Wikipedia images with curated multiple-choice questions designed to benchmark knowledge-aware vision-language models (VLMs). Evaluation of fifteen VLMs (256M-90B parameters) reveals a wide performance range (24.7%-75.6% accuracy), demonstrating that the benchmark effectively discriminates model capabilities on knowledge-intensive reasoning. The dataset and benchmarking code are publicly available.",
+  "url": "http://arxiv.org/abs/2605.21479v1",
+  "authors": [
+    "Basel Shbita",
+    "Pengyuan Li",
+    "Anna Lisa Gentile"
+  ],
+  "published": "2026-05-20T17:58:24Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "vision",
+    "reasoning",
+    "parameter",
+    "accuracy",
+    "dataset"
+  ],
+  "summary_cn": "WikiVQABench 是一个新的知识驱动型视觉问答基准，它突破了传统 VQA 仅依赖图像内容的局限。该基准结合 Wikipedia 和 Wikidata 的外部知识，要求模型利用非图像中的结构化信息来回答复杂问题。对 AI 产品经理而言，这标志着多模态 AI 从单纯感知走向知识融合的关键一步——意味着未来产品可以构建更智能的问答系统、知识检索工具或智能助手，在医疗、教育、电商等场景中实现基于图像+外部知识的精准推理。同时，该基准为评估多模态大模型的真实知识推理能力提供了标准化测试集。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Visual Question Answering",
+    "Knowledge Grounding",
+    "Multimodal Benchmarks"
+  ],
+  "entities": [
+    "Wikipedia",
+    "Wikidata"
+  ],
+  "patterns": [
+    "Knowledge-Grounded VQA",
+    "External Knowledge Integration"
+  ]
+}

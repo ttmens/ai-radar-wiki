@@ -1,0 +1,33 @@
+{
+  "title": "Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction",
+  "summary": "Precise measurement of the kinematic Sunyaev-Zel'dovich (kSZ) effect - a probe of the large-scale distribution of baryonic matter, a key observable for cosmological inference - requires accurate reconstruction of galaxy velocities from spectroscopic surveys. The signal-to-noise ratio (SNR) of kSZ measurements scales directly with the correlation coefficient $r$ between reconstructed and true velocities. We introduce Velocityformer, an equivariant graph transformer architecture designed to match the specific symmetry of the observational data. While the underlying physics is equivariant with respect to translations and rotations, observational effects break this symmetry due to the preferred line-of-sight direction. Matching the model's inductive bias to the data's broken symmetry consistently improves performance across all model sizes and training volumes, with Velocityformer improving $r$ by 35% over the standard linear theory baseline and outperforming ML baselines at every data volume. By matching the model's inductive bias to the data and conditioning on the physics-based long-wavelength solution, Velocityformer is highly data-efficient, training to high accuracy on as few as 4 low-fidelity simulations, and generalises zero-shot across input geometry, cosmological parameters, and galaxy sample. On high-fidelity simulated galaxy catalogues, this yields a 30% improvement in $r$ over the physical baseline, directly translating to the same SNR gain on observational data.",
+  "url": "http://arxiv.org/abs/2605.21483v1",
+  "authors": [
+    "Tilman Tröster",
+    "David Mirkovic",
+    "Veronika Oehl",
+    "Arne Thomsen"
+  ],
+  "published": "2026-05-20T17:59:05Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "training",
+    "transformer",
+    "parameter",
+    "accuracy"
+  ],
+  "summary_cn": "Velocityformer 提出了一种基于破缺对称性匹配的等变图变换器，用于从光谱巡天数据中高精度重建星系速度场，以提升运动学 Sunyaev-Zel'dovich (kSZ) 效应的测量信噪比。该技术通过将物理对称性约束嵌入 Transformer 架构，解决了传统方法在宇宙学大尺度结构推断中的误差问题。尽管目前仍处于研究阶段，但其在优化宇宙学参数估计上的潜力，可为下一代天文观测数据处理产品提供底层能力支撑，推动AI与物理仿真的交叉创新。",
+  "pm_relevance": 4,
+  "concepts": [
+    "Equivariant Graph Transformers",
+    "Cosmological Velocity Reconstruction",
+    "Symmetry Matching"
+  ],
+  "entities": [],
+  "patterns": [
+    "Graph Neural Networks",
+    "Transformer Architecture"
+  ]
+}

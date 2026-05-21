@@ -1,0 +1,36 @@
+{
+  "title": "AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists",
+  "summary": "Recent advances in artificial intelligence (AI) have accelerated the growth of both human-authored and AI-generated research outputs, placing increasing strain on traditional academic publishing systems and challenging the scalability of conference- and journal-centered paradigms amid rising submission volumes, reviewer workload, and venue size. To address these challenges, we explore an AI-era publishing paradigm in which both human and AI scientists participate as authors and readers, and papers evolve through continuous, feedback-driven iteration. We propose AiraXiv, an AI-driven open-access platform built on open preprints, AI-augmented analysis and review, and reader feedback. AiraXiv supports human scientists through an interactive UI and AI scientists through Model Context Protocol (MCP)-based interactions. We validate AiraXiv through real-world deployments, including serving as the submission platform for ICAIS 2025, demonstrating its potential as a fast, inclusive, and scalable research infrastructure for the AI era. AiraXiv is publicly available at https://airaxiv.com.",
+  "url": "http://arxiv.org/abs/2605.21481v1",
+  "authors": [
+    "Junshu Pan",
+    "Panzhong Lu",
+    "Yixuan Weng",
+    "Qiyao Sun",
+    "Fang Guo"
+  ],
+  "published": "2026-05-20T17:59:03Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "deployment",
+    "serving",
+    "mcp",
+    "protocol",
+    "infrastructure"
+  ],
+  "summary_cn": "AiraXiv 是一个由 AI 驱动的开放获取平台，专为人类科学家和 AI 科学家设计，旨在解决传统学术出版系统在应对人机生成研究产出激增时的可扩展性瓶颈。平台通过自动化稿件处理、智能审稿和知识聚合，降低出版成本并加速科研交流。其创新点在于平等支持人类与 AI 研究者投稿，推动人机协作的科研生态。商业价值体现在重塑学术出版流程，为科研机构和企业提供高效的知识分发基础设施，有望成为下一代学术交流的标准平台。",
+  "pm_relevance": 8,
+  "concepts": [
+    "开放获取平台",
+    "AI科研协作",
+    "学术出版自动化"
+  ],
+  "entities": [
+    "AiraXiv"
+  ],
+  "patterns": [
+    "AI-Native Publishing",
+    "Agent-Assisted Peer Review"
+  ]
+}
