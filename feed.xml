@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 21 May 2026 00:14:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 04:03:28 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -77,6 +77,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far f</title>
+      <link>https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/</link>
+      <guid isPermaLink="false">xai-burned-64b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-o</guid>
+      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>SpaceX的IPO文件首次公开了Elon Musk旗下xAI在2025年亏损64亿美元，同时计划大规模扩展Grok模型。尽管巨额亏损，xAI仍持续投入，表明AI领域仍处于高资本投入、抢占市场份额的竞争阶段。对AI产品经理而言，这揭示了AI公司的财务真实状况与扩张野心，需关注成本控制、投资回报以及巨头间的资源博弈。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you</title>
       <link>https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/</link>
       <guid isPermaLink="false">irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-ne</guid>
@@ -125,12 +133,124 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>Anthropic says it&amp;#8217;s about to have its first profitable quarter</title>
+      <link>https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/</link>
+      <guid isPermaLink="false">anthropic-says-it8217s-about-to-have-its-first-profitable-quarter</guid>
+      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Anthropic 向投资者透露其即将迎来首个盈利季度，预计第二季度营收将翻倍至约109亿美元。这一里程碑表明其 AI 模型（如 Claude）的商业化能力正快速提升，主要得益于企业级 API 订阅和数据中心训练效率优化。对 AI 产品经理而言，这意味着市场上多了一个成熟的、可持续的模型供应商选择，可能影响产品立项时的模型选型和定价策略，同时需关注其竞争动态对生态合作格局的长期影响。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Anthropic is expanding to Colossus2. Will use GB200</title>
+      <link>https://news.ycombinator.com/item?id=48214017</link>
+      <guid isPermaLink="false">anthropic-is-expanding-to-colossus2-will-use-gb200</guid>
+      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic 计划扩展其大型计算集群 Colossus2，并采用英伟达下一代 GB200 GPU（基于 Blackwell 架构）。此举表明 Anthropic 正在大规模投资硬件基础设施，以支持更强大的模型训练与推理能力。对 AI 产品经理而言，这意味着未来模型性能、上下文窗口规模和响应速度可能显著提升，同时成本结构也会变化。基础设施的扩张是模型能力竞争的关键，也预示着 AI 产品在实时性、复杂性上的新可能性。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Jensen Huang says he&amp;#8217;s found a &amp;#8216;brand new&amp;#8217; $200B market for Nv</title>
+      <link>https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/</link>
+      <guid isPermaLink="false">jensen-huang-says-he8217s-found-a-8216brand-new8217-200b-market-for-nvidia</guid>
+      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>英伟达CEO黄仁勋预测，AI代理（AI Agents）将催生一个价值2000亿美元的全新CPU市场。他强调，传统CPU架构无法满足AI推理与自主决策的需求，英伟达将推出专为AI代理设计的CPU，主打高并发、低延迟和自适应计算。这一动向标志着AI基础设施从训练向推理部署的战略转移，为产品经理提供了新的硬件选型方向，同时暗示了AI代理在商业应用中规模化落地的潜力。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>Nvidia posts another record quarter, reveals $43 billion of holdings in startups</title>
       <link>https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/</link>
       <guid isPermaLink="false">nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups</guid>
       <pubDate>2026-05-21T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>英伟达（Nvidia）公布又一季度创纪录营收，但预警下季度增长放缓。同时，该公司披露持有价值430亿美元的AI初创公司股份，展示其通过资本深度参与AI生态建设的战略。对AI产品经理而言，英伟达财报不仅反映GPU需求持续旺盛，更提示其投资布局可能影响未来AI工具、平台及算力市场格局。需关注英伟达作为AI基础设施核心供应商的定价权与生态影响力变化。</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Clouted wants to take the guesswork out of making short videos go viral</title>
+      <link>https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/</link>
+      <guid isPermaLink="false">clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral</guid>
+      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Clouted 是一家利用 AI 技术帮助用户优化短视频内容以提高爆发潜力的初创公司，近期完成由 Slow Ventures 领投的 700 万美元种子轮融资。该产品通过智能分析视频节奏、热门元素和用户偏好，自动建议剪辑策略、标题和发布时间，降低创作爆款的主观试错成本。其技术亮点在于将内容生成与数据驱动的传播预测相结合，为创作者提供可量化的优化建议，商业价值体现在短剧、品牌营销等高频内容场景中提升 ROI。该融资表明市场对 AI 驱动的内容创作工具需求旺盛，产品创新在于将“猜爆款”转化为可复用的技术能力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists</title>
+      <link>http://arxiv.org/abs/2605.21481v1</link>
+      <guid isPermaLink="false">airaxiv-an-ai-driven-open-access-platform-for-human-and-ai-scientists</guid>
+      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>AiraXiv 是一个由 AI 驱动的开放获取平台，专为人类科学家和 AI 科学家设计，旨在解决传统学术出版系统在应对人机生成研究产出激增时的可扩展性瓶颈。平台通过自动化稿件处理、智能审稿和知识聚合，降低出版成本并加速科研交流。其创新点在于平等支持人类与 AI 研究者投稿，推动人机协作的科研生态。商业价值体现在重塑学术出版流程，为科研机构和企业提供高效的知识分发基础设施，有望成为下一代学术交流的标准平台。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories</title>
+      <link>http://arxiv.org/abs/2605.21468v1</link>
+      <guid isPermaLink="false">you-only-need-minimal-rlvr-training-extrapolating-llms-via-rank-1-trajectories</guid>
+      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该研究揭示了基于可验证奖励的强化学习（RLVR）在大型语言模型中的参数轨迹几何结构，发现权重更新主要由秩为1的轨迹主导。通过仅需极少量RLVR训练步骤即可外推模型推理能力，大幅降低微调成本。产品经理可关注其降低强化学习训练门槛、加速推理优化的商业价值，尤其适用于需要快速迭代领域模型的场景。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling</title>
+      <link>http://arxiv.org/abs/2605.21470v1</link>
+      <guid isPermaLink="false">agent-jit-compilation-for-latency-optimizing-web-agent-planning-and-scheduling</guid>
+      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出了一种针对Web Agent的JIT编译方法，旨在优化其规划和调度过程以减少延迟。传统计算机使用代理（CUA）通过顺序的截图-执行循环完成任务，存在响应慢的问题。该技术借鉴即时编译思想，动态编译执行计划，显著提升任务执行效率。对于AI产品经理而言，这一创新能够大幅改善自动化浏览器操作的用户体验，降低等待时间，提升任务完成速度。商业价值体现在提高用户满意度和产品竞争力，尤其适用于需要频繁交互的自动化场景。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learni</title>
+      <link>http://arxiv.org/abs/2605.21486v1</link>
+      <guid isPermaLink="false">quantifying-hyperparameter-transfer-and-the-importance-of-embedding-layer-learni</guid>
+      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文研究了超参数迁移（Hyperparameter Transfer）方法，使小规模训练中的最优优化超参数可扩展到大规模LLM训练，显著降低调参成本。关键发现是嵌入层学习率需单独调整，与传统参数共享学习率的做法不同，可提升训练效率。技术上可通过拟合缩放定律或特定参数化（如Maxima）实现迁移。对产品经理而言，这意味着能加速模型迭代、降低训练成本，并为自动化超参数优化工具提供了新思路。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Variance Reduction for Expectations with Diffusion Teachers</title>
+      <link>http://arxiv.org/abs/2605.21489v1</link>
+      <guid isPermaLink="false">variance-reduction-for-expectations-with-diffusion-teachers</guid>
+      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本论文针对扩散模型作为教师模型在下游任务（如文本到3D、单步蒸馏和数据归因）中提供梯度时，蒙特卡洛期望估计存在高方差的问题，提出了一种方差缩减方法。通过优化噪声水平和高斯噪声样本的采样策略，降低了梯度估计的方差，从而提升训练稳定性和效率。该技术有助于减少计算资源消耗，加快模型迭代，对依赖扩散模型的多模态生成产品有直接价值。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence</title>
+      <link>http://arxiv.org/abs/2605.21482v1</link>
+      <guid isPermaLink="false">deepweb-bench-a-deep-research-benchmark-demanding-massive-cross-source-evidence</guid>
+      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>DeepWeb-Bench 是一个新型基准测试，专门评估AI在开放网络上进行深度研究的能力，要求代理跨多个来源收集证据并进行长时间推理。该基准旨在解决现有测试难以区分前沿模型能力的痛点，对AI搜索和研究类产品的性能评估具有重要意义。它通过复杂的跨来源证据整合和长链条推导任务，揭示了当前模型在深度推理与信息综合方面的局限，为产品优化提供了明确方向。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for</title>
+      <link>http://arxiv.org/abs/2605.21475v1</link>
+      <guid isPermaLink="false">is-fixing-schema-graphs-necessary-full-resolution-graph-structure-learning-for-r</guid>
+      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文探讨了关系深度学习（RDL）中图结构学习的必要性，提出全分辨率图结构学习方法，无需手动修正数据库模式图即可端到端训练图神经网络。技术要点在于自动学习关系数据库中的高阶连接关系，提升预测准确性。商业价值：降低企业在关系数据建模中的人工成本，加速AI应用落地（如推荐系统、欺诈检测）。产品创新：实现了从原始关系表到最优图结构的自动化转换，减少对专家经验的依赖。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design v</title>
+      <link>http://arxiv.org/abs/2605.21485v1</link>
+      <guid isPermaLink="false">evostruct-bridging-evolutionary-and-structural-priors-for-antibody-cdr-design-vi</guid>
+      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>EvoStruct通过引入进化和结构先验，结合蛋白质语言模型微调，解决了基于等变图神经网络(GNN)的抗体CDR设计中存在的词汇坍塌问题（即过度预测少数氨基酸如酪氨酸和甘氨酸）。该方法在保持高序列恢复率的同时，显著提升了氨基酸预测的多样性，为抗体药物发现提供了更可靠、更具创新性的分子设计方案，有望加速抗体候选分子的生成和优化。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wiki</title>
+      <link>http://arxiv.org/abs/2605.21479v1</link>
+      <guid isPermaLink="false">wikivqabench-a-knowledge-grounded-visual-question-answering-benchmark-from-wikip</guid>
+      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>WikiVQABench 是一个新的知识驱动型视觉问答基准，它突破了传统 VQA 仅依赖图像内容的局限。该基准结合 Wikipedia 和 Wikidata 的外部知识，要求模型利用非图像中的结构化信息来回答复杂问题。对 AI 产品经理而言，这标志着多模态 AI 从单纯感知走向知识融合的关键一步——意味着未来产品可以构建更智能的问答系统、知识检索工具或智能助手，在医疗、教育、电商等场景中实现基于图像+外部知识的精准推理。同时，该基准为评估多模态大模型的真实知识推理能力提供了标准化测试集。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Intuit to lay off over 3k employees to refocus on AI</title>
+      <link>https://news.ycombinator.com/item?id=48216278</link>
+      <guid isPermaLink="false">intuit-to-lay-off-over-3k-employees-to-refocus-on-ai</guid>
+      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Intuit（旗下拥有TurboTax、QuickBooks等产品）宣布裁员超过3000人，旨在将资源重新聚焦于人工智能领域。此举表明该公司正大力投资AI技术，以自动化财务、税务等核心业务，提升产品智能化水平。对AI产品经理而言，这反映出传统金融软件公司加速AI转型的趋势，可能催生更高效的智能财务助手、自动化税务申报等创新功能。商业上，裁员虽短期带来成本优化，但长期依赖AI有望降低运营成本并增强竞争力。这一战略调整警示产品经理需关注AI对岗位替代与业务重构的深远影响。</p></description>
+      <category>💰 商业趋势</category>
     </item>
     <item>
       <title>Formal Verification Gates for AI Coding Loops</title>
@@ -181,6 +301,22 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmo</title>
+      <link>http://arxiv.org/abs/2605.21483v1</link>
+      <guid isPermaLink="false">velocityformer-broken-symmetry-matched-equivariant-graph-transformers-for-cosmol</guid>
+      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Velocityformer 提出了一种基于破缺对称性匹配的等变图变换器，用于从光谱巡天数据中高精度重建星系速度场，以提升运动学 Sunyaev-Zel'dovich (kSZ) 效应的测量信噪比。该技术通过将物理对称性约束嵌入 Transformer 架构，解决了传统方法在宇宙学大尺度结构推断中的误差问题。尽管目前仍处于研究阶段，但其在优化宇宙学参数估计上的潜力，可为下一代天文观测数据处理产品提供底层能力支撑，推动AI与物理仿真的交叉创新。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>OpenAI to confidentially file for IPO as soon as Friday</title>
+      <link>https://news.ycombinator.com/item?id=48217052</link>
+      <guid isPermaLink="false">openai-to-confidentially-file-for-ipo-as-soon-as-friday</guid>
+      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>OpenAI 计划最早本周五秘密提交 IPO 申请，标志着这家 AI 领军企业从非营利向商业化迈出关键一步。对 AI 产品经理而言，此举将影响 OpenAI 的产品战略、资源分配与独立性，可能加速其模型商业化进程，同时引发行业竞争格局变化。上市后 OpenAI 需平衡股东利益与技术创新，其 API 定价、模型开放策略及生态合作方式或将调整。该事件凸显 AI 公司商业化路径的典型模式，值得关注后续对 AI 产品经理决策环境的影响。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>Handling the great code forge fragmentation</title>
       <link>https://news.ycombinator.com/item?id=48169818</link>
       <guid isPermaLink="false">handling-the-great-code-forge-fragmentation</guid>
@@ -195,6 +331,14 @@
       <pubDate>2026-05-21T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>这是一个开源的智能问答代理框架，核心特点是集成了记忆模块，使AI能够保留长期上下文，支持多轮交互中的事实一致性与个性化响应。面向AI产品经理，该工具降低了构建具备记忆能力的问答系统的门槛，可用于客服、知识库等场景。其开源特性便于定制和扩展，有助于加速AI产品迭代。技术要点包括基于大模型的代理架构、记忆检索与存储机制，以及可插拔的QA组件；商业价值在于减少重复开发成本，提升用户体验；产品创新体现在将记忆能力作为一等公民设计，而非后期附加。</p></description>
       <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play</title>
+      <link>https://news.ycombinator.com/item?id=48214188</link>
+      <guid isPermaLink="false">populora-co-evolving-llm-populations-for-reasoning-self-play</guid>
+      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>PopuLoRA 提出了一种新颖的种群协同进化框架，用于大语言模型的推理自对弈。通过让多个LLM组成群体，在自我对弈中相互学习、变异和选择，自动提升推理能力，无需大量人工标注数据。该方法结合低秩适应（LoRA）实现高效参数更新，支持模型多样化与协作进化。商业价值在于降低推理增强成本，加速模型迭代，可应用于复杂推理任务如数学、编程等。产品创新点在于将进化算法与LLM微调融合，实现持续自我改进。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Show HN: IResearch – C++ search that beat Lucene and Tantivy on their benchmark</title>
@@ -221,12 +365,36 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning</title>
+      <link>http://arxiv.org/abs/2605.21488v1</link>
+      <guid isPermaLink="false">equilibrium-reasoners-learning-attractors-enables-scalable-reasoning</guid>
+      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Scaling test-time compute by iteratively updating a latent state has emerged as a powerful paradigm for reasoning. Yet the internal mechanisms that enable these iterative models to generalize beyond memorized patterns remain unclear. We hypothesize that generalizable reasoning arises from learning t</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Ve</title>
+      <link>http://arxiv.org/abs/2605.21467v1</link>
+      <guid isPermaLink="false">delta-discriminative-token-credit-assignment-for-reinforcement-learning-from-ver</guid>
+      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Reinforcement learning from verifiable rewards (RLVR) has emerged as a central technique for improving the reasoning capabilities of large language models. Despite its effectiveness, how response-level rewards translate into token-level probability changes remains poorly understood. We introduce a d</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Autoregressive next token prediction and KV Cache in transformers</title>
       <link>https://news.ycombinator.com/item?id=48172747</link>
       <guid isPermaLink="false">autoregressive-next-token-prediction-and-kv-cache-in-transformers</guid>
       <pubDate>2026-05-21T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文介绍了Transformer模型中的自回归下一个token预测机制及其关键优化技术KV Cache。自回归预测是GPT等大语言模型的基础，逐token生成文本；KV Cache通过缓存历史token的Key和Value向量，避免重复计算，显著提升推理速度并降低显存占用，是工业级部署的核心优化。对于AI产品经理，理解KV Cache有助于评估模型在实时对话、长文本生成等场景下的成本与延迟，推动产品在响应速度和用户体验上的创新。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Dari-docs – Optimize your docs using parallel coding agents</title>
+      <link>https://github.com/mupt-ai/dari-docs</link>
+      <guid isPermaLink="false">show-hn-dari-docs-optimize-your-docs-using-parallel-coding-agents</guid>
+      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Dari-docs 是一个创新型工具，利用并行编码代理（parallel coding agents）来优化文档。其核心思路是通过多个AI代理同时工作，自动检测文档中的错误、不一致或缺失内容，并生成改进建议。这种并行架构提升了文档质量，减少了人工审核成本，尤其适用于大型项目或持续更新的文档库。对于AI产品经理而言，该工具展现了AI在内容优化和协作自动化方面的潜力，其代理协同模式可启发类似产品设计。商业价值在于降低文档维护开销，提高团队效率。</p></description>
+      <category>📱 产品模式</category>
     </item>
     <item>
       <title>CopyFail: From Pod to Host</title>
@@ -242,174 +410,6 @@
       <guid isPermaLink="false">when-fast-fourier-transform-meets-transformer-for-image-restoration-2024</guid>
       <pubDate>2026-05-21T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该论文提出将快速傅里叶变换（FFT）与Transformer架构融合，用于图像恢复任务（如去噪、超分辨率）。通过FFT高效提取频域特征，弥补Transformer对局部细节的不足，显著提升恢复质量与计算效率。技术亮点在于利用FFT的全局建模能力与Transformer的自注意力机制互补，减少模型参数量同时保持高精度。商业上可应用于专业图像编辑、医疗影像增强、安防监控等场景，降低算力成本并提升实时性。产品创新体现为传统信号处理与深度学习的巧妙结合，为低资源设备部署高效模型提供新思路。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Qian Xuesen: The missile genius America lost and China gained (2025)</title>
-      <link>https://news.ycombinator.com/item?id=48211409</link>
-      <guid isPermaLink="false">qian-xuesen-the-missile-genius-america-lost-and-china-gained-2025</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨钱学森作为导弹专家的流失对中美科技竞争的影响，可类比AI领域顶尖人才争夺战，提示产品经理关注人才战略与地缘风险。内容原非AI，但人才流动模式可为AI生态建设提供参考。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Gemini 3.5 Flash</title>
-      <link>https://news.ycombinator.com/item?id=48196570</link>
-      <guid isPermaLink="false">gemini-35-flash</guid>
-      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> hn</p><hr/><p>Gemini 3.5 Flash 是 Google 推出的轻量化高性能模型，采用稀疏注意力或 MoE 优化架构，显著降低推理延迟和计算成本。面向实时交互场景，如客服、辅助写作和边缘设备部署，以更低价格提供接近大模型的智能水平。对产品经理而言，该模型可加速产品上线、减少云服务支出，并支持高并发应用，是成本与性能平衡的关键选项。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Railway Blocked by Google Cloud</title>
-      <link>https://news.ycombinator.com/item?id=48201484</link>
-      <guid isPermaLink="false">railway-blocked-by-google-cloud</guid>
-      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>该报道指出开发者平台Railway遭遇Google Cloud的封锁，可能涉及服务限制或API访问受阻。这提醒AI产品经理需关注云服务锁定风险，提前规划多云或混合架构以降低依赖。事件凸显了AI基础设施层对上游云厂商的脆弱性，影响产品部署稳定性与成本控制。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>I’ve joined Anthropic</title>
-      <link>https://news.ycombinator.com/item?id=48194352</link>
-      <guid isPermaLink="false">ive-joined-anthropic</guid>
-      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic 是一家专注于 AI 安全与研究的公司，其核心产品 Claude 系列模型在长上下文理解、安全对齐等方面具有特色。该消息意味着有重要人才加入，可能加速 Claude 在对话、代码生成、多模态等产品方向上的迭代，或推动更可靠的 AI 系统设计。对于产品经理而言，这预示着更强的技术支撑和更积极的生态建设，值得关注后续产品更新与行业影响。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Gemini Omni</title>
-      <link>https://news.ycombinator.com/item?id=48196609</link>
-      <guid isPermaLink="false">gemini-omni</guid>
-      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Google 推出的 Gemini Omni 是新一代多模态 AI 模型，能同时处理文本、图像、音频、视频等多种输入，并生成相应输出。该模型实现了真正的端到端多模态理解，显著提升人机交互的自然度和效率，适用于智能助手、内容创作、教育、医疗等领域。其统一架构减少了不同模态之间的信息损失，为产品创新提供了更大的灵活性，同时降低了开发多模态应用的技术门槛和成本。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI p</title>
-      <link>https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/</link>
-      <guid isPermaLink="false">from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phi</guid>
-      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Ocean 是一家提供自主智能邮件安全平台的公司，专注于防御 AI 驱动的钓鱼攻击。创始人从青少年黑客转型为铁穹研究员，带领团队获得 Lightspeed Venture Partners 的 2800 万美元融资。该平台采用 agentic 模式，自主检测和分析邮件中的深层威胁，区别于传统规则型安全方案。产品创新在于结合长期上下文理解和行为分析，对新型 AI 钓鱼具备自适应防御能力。商业价值体现在企业邮件安全市场对 AI 反钓鱼技术的迫切需求，且获得顶级风投背书。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Google Search as you know it is over</title>
-      <link>https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/</link>
-      <guid isPermaLink="false">google-search-as-you-know-it-is-over</guid>
-      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google 宣布搜索将从传统链接列表全面转型为 AI 驱动的交互式体验，包括对话式回答、自主代理（Autonomous Agents）和动态界面。这一转变旨在提升用户获取信息的效率，但可能进一步减少对第三方发布商的流量依赖。对 AI 产品经理而言，需关注搜索范式从“信息检索”向“任务完成”的迁移，以及 AI Agent 如何重塑用户交互逻辑和内容分发生态，同时思考如何平衡产品体验与合作伙伴利益。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Google’s Genie world model can now simulate real streets with Street View</title>
-      <link>https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/</link>
-      <guid isPermaLink="false">googles-genie-world-model-can-now-simulate-real-streets-with-street-view</guid>
-      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google DeepMind 将街景与 Project Genie 整合，推出可模拟真实街道的交互式世界模型。该模型支持机器人训练、游戏开发、旅游体验等场景，能动态模拟环境变化（如天气、罕见事件），用户可自由探索虚拟世界。技术亮点在于利用大规模街景数据构建高保真模拟，降低现实数据采集成本，加速 AI 落地。商业价值显著：为自动驾驶、智能机器人提供安全训练环境，同时革新沉浸式旅游产品。产品创新体现在将静态地图数据转化为可交互的活体仿真平台，开启空间智能新范式。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Google updates its Gemini app to take on ChatGPT and Claude at IO 2026</title>
-      <link>https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/</link>
-      <guid isPermaLink="false">google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026</guid>
-      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google 在 IO 2026 大会上更新 Gemini 应用，旨在将其从独立聊天机器人转变为全能型 AI 枢纽。此举直接对标 ChatGPT 和 Claude，体现了 Google 通过整合多种 AI 能力（如推理、记忆、多模态）打造统一产品体验的战略。对于 AI 产品经理而言，核心启示是：未来竞争将从单一对话功能转向平台化生态，产品需具备能力聚合、上下文持久化及跨服务调用的特性，以提升用户粘性和使用深度。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots</title>
-      <link>https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/</link>
-      <guid isPermaLink="false">with-gemini-35-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots</guid>
-      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google在开发者大会发布Gemini 3.5 Flash，被誉为迄今最强的编码与代理AI模型。该模型能自主执行复杂任务，并从头构建软件，标志着从聊天机器人向智能体（Agent）的范式转变。对产品经理而言，这意味可快速将复杂工作流委托给AI，降低工程成本，加速原型验证；同时需重新设计人机协作界面，平衡自主性与可控性。商业上，Google借此强化云原生AI生态，吸引开发者构建Agent驱动的应用。产品创新在于将多步推理与代码生成融合，实现端到端任务闭环。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Gemini CLI will stop working from June 18, 2026</title>
-      <link>https://news.ycombinator.com/item?id=48196867</link>
-      <guid isPermaLink="false">gemini-cli-will-stop-working-from-june-18-2026</guid>
-      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Google 宣布其 Gemini 命令行工具（CLI）将于 2026 年 6 月 18 日停止工作。这一变动意味着依赖该工具的开发者需要提前规划迁移，转向 Gemini API 或其他 SDK。产品经理应关注时间线，确保团队在下游集成、自动化脚本及 CI/CD 流程中及时切换，避免服务中断。此决策可能伴随功能整合或性能改进，但短期会增加适配成本。建议评估替代方案（如官方 Python/JavaScript 库）并制定过渡计划，同时关注官方后续对 Gemini 生态的调整。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>ageron/handson-ml</title>
-      <link>https://github.com/ageron/handson-ml</link>
-      <guid isPermaLink="false">ageronhandson-ml</guid>
-      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> github</p><hr/><p>该GitHub仓库是Aurélien Géron撰写的《机器学习实战》旧版代码，已废弃并指向新版handson-ml3或handson-mlp。新版基于Scikit-Learn、Keras、TensorFlow，提供从数据预处理到深度学习的完整代码示例和习题解答。对AI产品经理而言，该资源可作为快速理解ML基础流程、模型评估与调优的实操教程，帮助评估技术可行性和团队培训成本，但需直接使用新版以避免过时代码。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Remove–AI–Watermarks – CLI and library for removing AI watermarks from images</title>
-      <link>https://news.ycombinator.com/item?id=48200569</link>
-      <guid isPermaLink="false">removeaiwatermarks-cli-and-library-for-removing-ai-watermarks-from-images</guid>
-      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>这是一个命令行工具和库，用于移除AI生成图像中的水印。技术实现上可能通过检测水印区域并进行图像修复，对AI产品经理而言，该工具可用于内容创作、社交媒体等场景，提升图像处理灵活性，但也可能引发版权与伦理争议。商业价值在于降低AI内容二次创作门槛，产品创新体现在将水印移除能力封装为易用的CLI和库，有利于集成到现有工作流中。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Google takes a page out of Meta&amp;#8217;s book, announces new audio-powered smart</title>
-      <link>https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/</link>
-      <guid isPermaLink="false">google-takes-a-page-out-of-meta8217s-book-announces-new-audio-powered-smart-glas</guid>
-      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google 推出新款音频智能眼镜，用户可通过语音指令调用 Gemini 及 Google 生态应用完成操作，无需屏幕交互。该产品聚焦音频通道，利用轻量化设计降低佩戴负担，对标 Meta 的雷朋智能眼镜，但更强调语音助手能力与多任务处理。商业上，此举可推动可穿戴设备成为 AI 原生入口，并强化 Google 在端侧 AI 的布局。产品经理需关注语音交互在无屏场景下的体验优化、Gemini 多模态能力与低功耗硬件的结合，以及基于地理位置的主动服务可能带来的隐私挑战。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Agentic app coding gets an upgrade with Google&amp;#8217;s release of Android CLI</title>
-      <link>https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/</link>
-      <guid isPermaLink="false">agentic-app-coding-gets-an-upgrade-with-google8217s-release-of-android-cli</guid>
-      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>谷歌发布 Android CLI 工具，旨在为 AI 编码代理（如 Claude Code 和 OpenAI Codex）提供原生支持，使开发者或 AI 助手能通过命令行更快速地构建 Android 应用。该工具将 AI 代理的代码生成能力直接集成到 Android 开发工作流中，降低了开发门槛，提升了自动化程度。对于 AI 产品经理而言，这意味着平台级生态的进一步开放：AI 不再局限于 IDE 插件，而是可深度融入命令行工具链，加速移动应用的原型迭代和 DevOps 流程。商业价值在于缩短开发周期、降低人力成本，并可能推动 Android 生态内更多 AI-native 开发工具的涌现。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration,</title>
-      <link>https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/</link>
-      <guid isPermaLink="false">google-introduces-gemini-spark-a-247-agentic-assistant-with-gmail-integration-at</guid>
-      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google 在 IO 2026 大会上推出 Gemini Spark，这是一款基于 Gemini 基础模型和 Google Antigravity 代理框架打造的 24/7 全天候智能代理助手。其核心创新在于深度集成 Gmail，能够持续感知用户邮件上下文并主动执行任务（如自动回复、日程安排、信息检索），实现真正的“随叫随到”式个人助理体验。该产品标志着 Google 从传统对话式 AI 向“代理型”能力跃迁，通过 agentic harness 解决了长期运行、自主决策与工具调用等技术难题，对消费级 AI 助理的商业模式和用户粘性具有重要启示。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>OpenAI is making it easier to check if an image was made by their models</title>
-      <link>https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/</link>
-      <guid isPermaLink="false">openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models</guid>
-      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenAI 宣布两项新措施以提升 AI 生成图像的检测能力：加入开放的 C2PA（内容来源与真实性联盟）标准，为图像添加可验证的元数据凭证；并整合 Google 的 SynthID 技术，在像素级别嵌入不可见水印。此举旨在增强 AI 内容的可追溯性与可信度，对抗深度伪造和虚假信息传播，同时对监管合规与版权溯源具有商业价值。产品创新方面，OpenAI 在输出端主动嵌入来源标识，为平台方和用户提供可信验证工具，推动行业信任基础设施的建设。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Google&amp;#8217;s AI Studio now lets anyone build Android apps in minutes</title>
-      <link>https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/</link>
-      <guid isPermaLink="false">google8217s-ai-studio-now-lets-anyone-build-android-apps-in-minutes</guid>
-      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google 推出基于 Web 的 AI Studio 工具，允许用户通过自然语言描述在几分钟内生成原生 Android 应用。该工具利用大语言模型自动生成 UI 布局、逻辑代码和资源文件，无需手动编写代码，显著降低移动应用开发门槛。商业价值在于赋能非技术用户快速验证创意，加速原型迭代，同时可能改变应用开发流程，使 AI 成为核心生产力工具。产品创新体现在将 AI 能力深度集成到 Android 开发环境，支持实时预览与修改，展示生成式 AI 从文本到完整应用的跨越。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Google&amp;#8217;s new Universal Cart wants to follow your entire shopping journey a</title>
-      <link>https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/</link>
-      <guid isPermaLink="false">google8217s-new-universal-cart-wants-to-follow-your-entire-shopping-journey-acro</guid>
-      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google 推出 Universal Cart，旨在跨设备和零售商追踪用户的完整购物旅程。该功能通过持久化购物车状态，让用户在不同设备（手机、电脑）和不同商家之间无缝切换，无需重复添加商品。技术要点包括跨域会话管理、用户身份统一、实时价格更新；商业价值在于提升转化率和用户粘性；产品创新在于打破传统购物车的数据孤岛，形成底层购物上下文层。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>How to use Google’s new AI agents to go beyond your standard searches</title>
-      <link>https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/</link>
-      <guid isPermaLink="false">how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches</guid>
-      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google 推出新型 AI 信息代理，超越传统搜索模式。这些代理能够在后台持续监控用户指定的主题，并主动推送更新与变化，实现从被动检索到主动服务的转变。对产品经理而言，这一创新意味着用户获取信息的方式将从“搜索”进化为“订阅+提醒”，极大提升信息获取效率与用户粘性。商业价值在于可嵌入各类应用（如新闻、电商、工作流），形成新的流量入口。技术要点包括持续学习用户兴趣、鲁棒的背景执行与低延迟推送机制。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2</title>
-      <link>https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/</link>
-      <guid isPermaLink="false">google-launches-antigravity-20-with-an-updated-desktop-app-and-cli-tool-at-io-20</guid>
-      <pubDate>2026-05-20T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google在IO 2026大会上发布Antigravity 2.0，同步更新桌面应用与CLI工具。同时推出AI Ultra订阅计划，定价100美元/月，提供比AI Pro计划高5倍的使用配额，旨在满足重度AI用户需求。这一举措强化了Google在AI工具生态中的产品分层策略，通过提升容量门槛吸引企业级与高端个人用户，同时降低终端使用门槛。Antigravity 2.0的桌面与CLI的更新，体现了从云端服务向本地高效交互的演进，未来可能成为AI产品经理关注的高频工具与商业模式创新的方向。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
