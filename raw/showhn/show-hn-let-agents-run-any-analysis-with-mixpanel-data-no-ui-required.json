@@ -1,0 +1,26 @@
+{
+  "title": "Show HN: Let agents run any analysis with Mixpanel data, no UI required",
+  "score": 16,
+  "comments": 1,
+  "url": "https://docs.mixpanel.com/docs/mixpanel-headless",
+  "hn_url": "https://news.ycombinator.com/item?id=48224184",
+  "tag": "ShowHN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "该项目展示了如何让AI代理直接与Mixpanel数据分析平台交互，无需传统用户界面即可执行任意分析任务。通过代理自动调用Mixpanel API，用户可以用自然语言描述分析需求，代理自主完成查询、计算和结果呈现。这大幅降低了数据分析的门槛，使非技术用户也能获得深度洞察。其商业价值在于提升分析效率、减少对UI的依赖，并为数据分析产品提供了新的交互范式——从图形界面转向对话式、任务型的自动化代理模式。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI Agents",
+    "No-UI Analytics",
+    "Natural Language to Query"
+  ],
+  "entities": [
+    "Mixpanel"
+  ],
+  "patterns": [
+    "Agent-Driven Analytics",
+    "Conversational Data Analysis"
+  ]
+}

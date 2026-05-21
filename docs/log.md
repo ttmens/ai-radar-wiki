@@ -835,3 +835,19 @@
 
 ## [2026-05-21 18:03] sync v3 | 1 new | pillars: {'business': 1}
 - create: openai-is-preparing-to-file-for-an-ipo-soon.md
+
+## [2026-05-22 00:02] sync v3 | 14 new | pillars: {'ecosystem': 1, 'patterns': 3, 'capabilities': 10}
+- create: kongkong.md
+- create: snailclimbjavaguide.md
+- create: googles-antigravity-bait-and-switch.md
+- create: ai-is-just-unauthorised-plagiarism-at-a-bigger-scale.md
+- create: magic-the-gathering-format-fun-40-2025.md
+- create: shunning-ai-is-the-human-choice.md
+- create: spotify-launches-an-elevenlabs-powered-audiobook-creation-tool.md
+- create: spotify-takes-on-google8217s-notebooklm-with-its-new-app.md
+- create: spotify-adds-ai-powered-q038a-and-briefing-generation-features-to-podcasts.md
+- create: hark-raises-700m-series-a-for-its-secretive-8220universal8221-ai-interface.md
+- create: the-path-founded-by-tony-robbins-and-calm-alums-hopes-to-offer-safer-ai-therapy.md
+- create: google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it.md
+- create: with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in.md
+- create: show-hn-let-agents-run-any-analysis-with-mixpanel-data-no-ui-required.md
