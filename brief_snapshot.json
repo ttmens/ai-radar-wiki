@@ -1,8 +1,19 @@
 {
   "date": "2026-05-22",
-  "generated_at": "2026-05-22T00:02:44.420094+08:00",
-  "item_count": 13,
+  "generated_at": "2026-05-22T06:05:15.259945+08:00",
+  "item_count": 20,
   "items": [
+    {
+      "id": "throwing-ai-generated-walls-of-text-into-conversations",
+      "label": "Throwing AI-generated walls of text into conversations",
+      "summary": "该标题探讨在对话中插入AI生成的大段文本（'walls of text'）的技术与产品挑战。从产品经理视角，核心痛点在于如何平衡长文本生成带来的信息丰富度与对话流畅性：过度依赖AI生成大段回复可能破坏自然交流节奏，导致用户认知负担加重。技术要点涉及长文本上下文管理、对话系统设计及生成内容的可控性；商业价值体现在提升信息传递效率（如客服场景快速提供解决方案）或内容创作辅助；产品创新方向包括分段思考、交互式展开、或智能摘要先行。",
+      "pm_score": 0.63,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48219992",
+      "date": "2026-05-22"
+    },
     {
       "id": "ai-is-just-unauthorised-plagiarism-at-a-bigger-scale",
       "label": "AI is just unauthorised plagiarism at a bigger scale",
@@ -34,6 +45,17 @@
       "type": "github",
       "source_type": "github",
       "url": "https://github.com/Kong/kong",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "project-hail-mary-stellar-navigation-chart",
+      "label": "Project Hail Mary – Stellar Navigation Chart",
+      "summary": "该内容为Hacker News上关于“Project Hail Mary”的星际导航图表讨论，初步归为AI能力类。技术角度可能涉及强化学习或路径规划在太空探索中的应用，通过AI优化星际航行决策。商业价值体现在降低航天任务成本、提升自主导航可靠性。产品创新在于将大语言模型或推理引擎与天体力学模型结合，实现动态星图生成与实时避障。对于AI产品经理，可关注AI在极端环境下的鲁棒性设计与仿真训练方法。",
+      "pm_score": 0.545,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48225297",
       "date": "2026-05-22"
     },
     {
@@ -81,6 +103,17 @@
       "date": "2026-05-22"
     },
     {
+      "id": "six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore",
+      "label": "Six search engines worth trying now that Google isn’t really Google anymore",
+      "summary": "文章指出Google搜索即将因AI概述功能而显著改变，可能引起用户反感。针对AI产品经理，这揭示了AI集成搜索的用户体验风险：若AI摘要提供过多主动干预，可能破坏传统搜索的自主性。文中推荐的6个替代搜索引擎，各自以不同方式整合AI（如无AI的纯粹搜索、可控AI助手等），体现了产品创新方向：平衡AI辅助与用户控制权。商业价值在于，用户对AI疲劳可能催生新搜索市场机会。技术要点包括如何设计AI概述的触发机制、透明度与退出选项。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "date": "2026-05-22"
+    },
+    {
       "id": "spotify-launches-an-elevenlabs-powered-audiobook-creation-tool",
       "label": "Spotify launches an ElevenLabs-powered audiobook creation tool",
       "summary": "Spotify宣布推出基于ElevenLabs AI语音合成技术的有声书创作工具，并计划在今年晚些时候发布新的有声书订阅计划。该工具使创作者能利用高质量AI语音快速将文本转化为有声书，降低制作成本与门槛。此举是Spotify在音频内容生态中深化AI能力的重要布局，旨在通过技术创新增强平台内容供给的多样性与效率，同时为独立作者和出版商提供新的变现渠道。该产品模式体现了AI能力与内容平台深度融合的趋势，有望推动有声书市场的进一步增长。",
@@ -89,6 +122,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes",
+      "label": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+      "summary": "Spotify与环球音乐集团达成合作，允许其高级订阅用户使用AI生成歌曲的翻唱和混音版本。该模式要求参与艺术家获得收入分成，将AI内容创作与版权方利益绑定。技术层面，AI模型需在合法授权框架内工作，确保不侵犯原始录音或词曲版权。商业价值在于开辟了AI音乐消费新场景，同时解决了版权分配难题，为平台增加差异化订阅功能。产品创新体现在将AI辅助创作工具嵌入现有流媒体服务，并通过分成机制激励艺术家参与。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
       "date": "2026-05-22"
     },
     {
@@ -125,6 +169,28 @@
       "date": "2026-05-22"
     },
     {
+      "id": "trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-l",
+      "label": "Trump delays AI security executive order: ‘I don’t want to get in the way of tha",
+      "summary": "特朗普推迟签署一项要求AI模型发布前进行政府安全审查的行政令，理由是对措辞不满。此举短期内降低了AI产品的合规压力，可能加速模型部署与创新，但长期政策不确定性增加。产品经理需关注监管动态对AI产品上市节奏、安全标准及国际竞争格局的影响，提前规划风险应对策略。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "show-hn-agentemail-sign-up-via-curl-claim-with-a-human-otp",
+      "label": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
+      "summary": "Agent.email 是一个创新产品，允许用户通过 curl 命令行注册，并采用人工 OTP（一次性密码）进行身份核验。这种模式结合了自动化注册与人工验证，特别适合 AI agent 场景下的安全确认需求，例如在自动化工作流中确保人类介入关键步骤。产品设计体现了从纯自动到人工干预的混合验证思路，既保留 CLI 的高效性，又通过人工 OTP 防止恶意注册。对 AI 产品经理而言，这一模式可启发 agent 交互中的安全、信任与验证环节设计，尤其在需要降低滥用风险时具有参考价值。",
+      "pm_score": 0.38,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48225596",
+      "date": "2026-05-22"
+    },
+    {
       "id": "show-hn-let-agents-run-any-analysis-with-mixpanel-data-no-ui-required",
       "label": "Show HN: Let agents run any analysis with Mixpanel data, no UI required",
       "summary": "该项目展示了如何让AI代理直接与Mixpanel数据分析平台交互，无需传统用户界面即可执行任意分析任务。通过代理自动调用Mixpanel API，用户可以用自然语言描述分析需求，代理自主完成查询、计算和结果呈现。这大幅降低了数据分析的门槛，使非技术用户也能获得深度洞察。其商业价值在于提升分析效率、减少对UI的依赖，并为数据分析产品提供了新的交互范式——从图形界面转向对话式、任务型的自动化代理模式。",
@@ -133,6 +199,17 @@
       "type": "showhn",
       "source_type": "showhn",
       "url": "https://docs.mixpanel.com/docs/mixpanel-headless",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "launch-hn-runtime-yc-p26-sandboxed-coding-agents-for-everyone-on-a-team",
+      "label": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+      "summary": "Runtime (YC P26) 推出面向团队成员的沙盒化编码代理产品，允许团队中每个人在安全隔离环境中运行AI编码智能体。技术要点在于通过沙盒机制确保安全性，防止恶意代码或错误操作影响系统；商业价值在于降低AI代理的使用门槛和风险，使非技术成员也能安全地利用AI辅助编码；产品创新体现在将原本局限于个人的AI编码助手扩展为团队协作工具，强调包容性。该模式有望提升团队整体开发效率，同时保持企业级安全管控。",
+      "pm_score": 0.33,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48225040",
       "date": "2026-05-22"
     },
     {
@@ -148,7 +225,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 751,
-    "edges": 36737
+    "real_nodes": 760,
+    "edges": 37498
   }
 }

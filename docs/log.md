@@ -851,3 +851,14 @@
 - create: google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it.md
 - create: with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in.md
 - create: show-hn-let-agents-run-any-analysis-with-mixpanel-data-no-ui-required.md
+
+## [2026-05-22 06:05] sync v3 | 9 new | pillars: {'capabilities': 6, 'patterns': 2, 'business': 1}
+- create: project-hail-mary-stellar-navigation-chart.md
+- create: using-kagi-search-with-low-vision.md
+- create: launch-hn-runtime-yc-p26-sandboxed-coding-agents-for-everyone-on-a-team.md
+- create: show-hn-agentemail-sign-up-via-curl-claim-with-a-human-otp.md
+- create: throwing-ai-generated-walls-of-text-into-conversations.md
+- create: fender-escalates-legal-campaign-against-s-style-guitars.md
+- create: spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes.md
+- create: six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore.md
+- create: trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-l.md

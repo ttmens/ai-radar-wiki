@@ -2,68 +2,95 @@
   "daily_summary": {
     "date": "2026-05-22",
     "headline": "今日 AI 情报 · 2026-05-22",
-    "overview": "AI从对话代理迈向操作系统级控制，信任与安全成产品差异化核心",
+    "overview": "AI代理自主操作与人类控制权平衡成为产品设计核心矛盾",
     "narratives": [
       {
-        "title": "AI从对话工具迈向自主代理与操作系统级控制",
-        "body": "多条情报表明行业正从单一聊天机器人向自主代理、多模型协作的AI操作系统演进。Hark的70亿美元融资、Google的代理生态推广、以及无界面数据分析代理的出现，共同指向下一代AI入口的争夺。产品经理需关注代理编排、模型路由和统一网关等基础设施能力，并思考如何在复杂任务中保持用户可控性。",
+        "title": "AI代理正从对话助手走向自主操作层，人类控制权成为产品设计的核心矛盾",
+        "body": "今日多项情报指向AI从被动回答转向主动执行任务：Hark的7亿美元融资打造通用AI界面、Runtime推出沙盒编码代理让团队全员使用AI、Agent.email通过人工OTP确保人类介入关键步骤、Google推广多代理生态系统。同时，用户对AI过度干预的抵触情绪显现（Shunning AI、Google搜索AI概述引发反感），迫使产品经理在自动化与用户控制之间寻找平衡。这一趋势预示AI产品将进入‘代理+人工审核’的混合模式时代。",
         "type": "paradigm_shift",
-        "pillar_key": "capabilities"
+        "pillar_key": "patterns"
       },
       {
-        "title": "AI信任危机催生安全差异化设计",
-        "body": "从抄袭批评到用户主动拒绝AI、再到心理治疗安全基准，信任问题正从伦理讨论转化为产品竞争要素。产品团队需要设计可选的AI退出机制、构建垂直领域安全评测体系，并将透明度与归因能力作为核心功能。这不仅是风险规避，更是建立用户忠诚度的商业机会。",
+        "title": "AI安全与合规从被动应对转向主动产品差异化",
+        "body": "版权争议（AI is plagiarism）、心理健康AI的安全基准（The Path达95分）、特朗普延迟安全行政令等事件，标志着AI产品竞争从单纯追求能力转向安全与合规的差异化。The Path通过专属基准评测在心理治疗领域建立信任，Spotify与环球音乐达成版权分成协议解决AI翻唱合规问题。产品经理需将安全合规内建于产品设计，而非事后补救。",
         "type": "bottleneck",
-        "pillar_key": "patterns"
+        "pillar_key": "capabilities"
       }
     ],
     "insights": [
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "AI信任危机催生安全差异化设计",
-        "insight": "AI信任危机催生安全差异化设计。该方向的具体信号：用户拒绝AI的趋势与心理健康AI的安全基准表明，信任正从辅助优势变为产品底线，需要主动提供退出选项和垂直安全评测。",
+        "narrative_title": "AI代理正从对话助手走向自主操作层，人类控制权成为产品设计的核心矛盾",
+        "insight": "AI代理正从对话助手走向自主操作层，人类控制权成为产品设计的核心矛盾。该方向的具体信号：用户拒绝AI的呼声（Shunning AI）、Google搜索AI概述引发的用户反感，以及Agent.email通过人工OTP确保人类介入的设计，均表明产品经理必须在自动化效率与用户自主权之间建立可切换机制。Runtime沙盒代理和Mixpanel无UI分析则展示了代理自主操作的潜力，但信任建立仍是瓶颈。",
         "evidence": [
           {
             "id": "shunning-ai-is-the-human-choice",
-            "title": "Shunning AI is the human choice — 用户有权拒绝AI，产品需设计退出机制",
+            "title": "Shunning AI is the human choice",
             "score": 0.59
+          },
+          {
+            "id": "six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore",
+            "title": "Six search engines worth trying now that Google isn't really Google anymore",
+            "score": 0.48
+          },
+          {
+            "id": "show-hn-agentemail-sign-up-via-curl-claim-with-a-human-otp",
+            "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
+            "score": 0.38
+          },
+          {
+            "id": "show-hn-let-agents-run-any-analysis-with-mixpanel-data-no-ui-required",
+            "title": "Show HN: Let agents run any analysis with Mixpanel data, no UI required",
+            "score": 0.33
+          },
+          {
+            "id": "launch-hn-runtime-yc-p26-sandboxed-coding-agents-for-everyone-on-a-team",
+            "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+            "score": 0.33
           }
         ]
       },
       {
-        "pillar": "🔧 工具生态",
-        "pillar_key": "ecosystem",
-        "narrative_title": "AI从对话工具迈向自主代理与操作系统级控制",
-        "insight": "AI从对话工具迈向自主代理与操作系统级控制。该方向的具体信号：Hark的通用AI界面、Google代理生态推广、Kong网关及Mixpanel无界面分析均指向代理编排与统一入口成为基础设施关键层。",
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI安全与合规从被动应对转向主动产品差异化",
+        "insight": "AI安全与合规从被动应对转向主动产品差异化。该方向的具体信号：AI版权本质争议（unauthorised plagiarism）促使产品经理必须建立透明数据策略；The Path心理健康AI通过专属安全基准达到95分，远超通用模型，树立垂直领域安全标杆；特朗普延迟安全行政令虽短期降低合规压力，但长期不确定性要求提前布局。这些事件共同指向安全能力正成为产品核心价值锚点。",
+        "evidence": [
+          {
+            "id": "the-path-founded-by-tony-robbins-and-calm-alums-hopes-to-offer-safer-ai-therapy",
+            "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+            "score": 0.48
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI代理正从对话助手走向自主操作层，人类控制权成为产品设计的核心矛盾",
+        "insight": "AI代理正从对话助手走向自主操作层，人类控制权成为产品设计的核心矛盾。该方向的具体信号：Hark融资70亿美元打造通用AI界面（估值60亿）显示资本市场押注代理式AI入口；Spotify与环球音乐达成AI翻唱分成协议，通过商业条款平衡版权与用户创作自由，为AI内容平台开辟新变现模式。商业层面，控制权博弈正转化为新的定价与授权机制。",
         "evidence": [
           {
             "id": "hark-raises-700m-series-a-for-its-secretive-8220universal8221-ai-interface",
-            "title": "Hark 获7亿美元融资打造通用AI界面，估值60亿美元",
+            "title": "Hark raises $700M Series A for its secretive 'universal' AI interface",
             "score": 0.52
           },
           {
-            "id": "google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it",
-            "title": "Google推广AI代理生态系统，但消费者接受度存疑",
+            "id": "spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes",
+            "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
             "score": 0.48
-          },
-          {
-            "id": "kongkong",
-            "title": "Kong 开源API/AI网关，实现模型路由与统一管理",
-            "score": 0.58
-          },
-          {
-            "id": "show-hn-let-agents-run-any-analysis-with-mixpanel-data-no-ui-required",
-            "title": "Mixpanel无UI代理分析：自然语言驱动数据查询",
-            "score": 0.33
           }
         ]
       }
     ],
-    "stats": "技术能力: 8 | 产品模式: 3 | 工具生态: 3 | 商业趋势: 0",
-    "total_items": 14,
-    "high_value_count": 13,
+    "stats": "技术能力: 10 | 产品模式: 5 | 工具生态: 3 | 商业趋势: 2",
+    "total_items": 20,
+    "high_value_count": 20,
     "all_today_ids": [
+      {
+        "id": "throwing-ai-generated-walls-of-text-into-conversations",
+        "label": "Throwing AI-generated walls of text into conversations"
+      },
       {
         "id": "ai-is-just-unauthorised-plagiarism-at-a-bigger-scale",
         "label": "AI is just unauthorised plagiarism at a bigger scale"
@@ -75,6 +102,10 @@
       {
         "id": "kongkong",
         "label": "Kong/kong"
+      },
+      {
+        "id": "project-hail-mary-stellar-navigation-chart",
+        "label": "Project Hail Mary – Stellar Navigation Chart"
       },
       {
         "id": "googles-antigravity-bait-and-switch",
@@ -93,8 +124,16 @@
         "label": "Spotify takes on Google&#8217;s NotebookLM with its new app"
       },
       {
+        "id": "six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore",
+        "label": "Six search engines worth trying now that Google isn’t really Google anymore"
+      },
+      {
         "id": "spotify-launches-an-elevenlabs-powered-audiobook-creation-tool",
         "label": "Spotify launches an ElevenLabs-powered audiobook creation tool"
+      },
+      {
+        "id": "spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes",
+        "label": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes"
       },
       {
         "id": "the-path-founded-by-tony-robbins-and-calm-alums-hopes-to-offer-safer-ai-therapy",
@@ -109,12 +148,32 @@
         "label": "Google is pitching an AI agent ecosystem to consumers who may not buy it"
       },
       {
+        "id": "trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-l",
+        "label": "Trump delays AI security executive order: ‘I don’t want to get in the way of tha"
+      },
+      {
+        "id": "show-hn-agentemail-sign-up-via-curl-claim-with-a-human-otp",
+        "label": "Show HN: Agent.email – sign up via curl, claim with a human OTP"
+      },
+      {
         "id": "show-hn-let-agents-run-any-analysis-with-mixpanel-data-no-ui-required",
         "label": "Show HN: Let agents run any analysis with Mixpanel data, no UI required"
       },
       {
+        "id": "launch-hn-runtime-yc-p26-sandboxed-coding-agents-for-everyone-on-a-team",
+        "label": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team"
+      },
+      {
         "id": "with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in",
         "label": "With aluminum prices up 20%, recycling startups bet on AI to cash in"
+      },
+      {
+        "id": "using-kagi-search-with-low-vision",
+        "label": "Using Kagi Search with Low Vision"
+      },
+      {
+        "id": "fender-escalates-legal-campaign-against-s-style-guitars",
+        "label": "Fender escalates legal campaign against S-style guitars"
       },
       {
         "id": "magic-the-gathering-format-fun-40-2025",
@@ -122,6 +181,6 @@
       }
     ],
     "date_bj": "2026-05-22 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-22 00:01:40"
+    "generated_at_bj": "2026-05-22 06:04:56"
   }
 }
