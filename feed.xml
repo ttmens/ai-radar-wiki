@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 21 May 2026 08:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 12:01:14 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -221,6 +221,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>OpenAI Is Preparing to File for an IPO Soon</title>
+      <link>https://news.ycombinator.com/item?id=48210226</link>
+      <guid isPermaLink="false">openai-is-preparing-to-file-for-an-ipo-soon</guid>
+      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>OpenAI即将启动IPO，这一事件对AI产品经理具有重要商业启示。IPO将迫使OpenAI公开财务数据，可能推动其调整API定价策略、产品开放程度及企业级服务方向。产品经理需关注IPO后OpenAI如何平衡盈利与开发者生态，这直接影响下游AI产品的成本结构和商业模式。同时，IPO也可能加速OpenAI在垂直行业解决方案的布局，或催生更稳定的长期合同条款。对AI产品经理而言，这是观察行业标杆商业化的关键窗口。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for</title>
       <link>http://arxiv.org/abs/2605.21475v1</link>
       <guid isPermaLink="false">is-fixing-schema-graphs-necessary-full-resolution-graph-structure-learning-for-r</guid>
@@ -402,14 +410,6 @@
       <guid isPermaLink="false">copyfail-from-pod-to-host</guid>
       <pubDate>2026-05-21T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>CopyFail 是从Pod到主机的逃逸漏洞，攻击者可利用该漏洞突破容器隔离，获得宿主机权限。这一安全风险对云原生架构和Kubernetes产品构成直接威胁，要求产品经理在容器编排、运行时安全策略中加强防护。商业价值在于推动安全产品的迭代与集成，例如镜像扫描、运行时监控和策略引擎。产品创新可聚焦于零信任容器网络、自动修复机制及安全左移实践。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>When Fast Fourier Transform Meets Transformer for Image Restoration (2024)</title>
-      <link>https://news.ycombinator.com/item?id=48180172</link>
-      <guid isPermaLink="false">when-fast-fourier-transform-meets-transformer-for-image-restoration-2024</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该论文提出将快速傅里叶变换（FFT）与Transformer架构融合，用于图像恢复任务（如去噪、超分辨率）。通过FFT高效提取频域特征，弥补Transformer对局部细节的不足，显著提升恢复质量与计算效率。技术亮点在于利用FFT的全局建模能力与Transformer的自注意力机制互补，减少模型参数量同时保持高精度。商业上可应用于专业图像编辑、医疗影像增强、安防监控等场景，降低算力成本并提升实时性。产品创新体现为传统信号处理与深度学习的巧妙结合，为低资源设备部署高效模型提供新思路。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
