@@ -832,3 +832,6 @@
 - create: clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral.md
 - create: xai-burned-64b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-o.md
 - create: show-hn-dari-docs-optimize-your-docs-using-parallel-coding-agents.md
+
+## [2026-05-21 18:03] sync v3 | 1 new | pillars: {'business': 1}
+- create: openai-is-preparing-to-file-for-an-ipo-soon.md
