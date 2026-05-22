@@ -892,3 +892,18 @@
 - create: valve-removes-free-game-from-steam-after-players-discover-it-contains-malware.md
 - create: fsfe-intervenes-against-apple-before-eucj-for-the-second-time.md
 - create: we-tried-googles-ai-glasses-and-theyre-almost-there.md
+
+## [2026-05-23 06:06] sync v3 | 13 new | pillars: {'patterns': 3, 'business': 4, 'capabilities': 6}
+- create: rasahqrasa.md
+- create: open-source-kanban-desktop-app-that-runs-parallel-agents-on-every-card.md
+- create: modelsdev-open-source-database-of-ai-model-specs-pricing-and-capabilities.md
+- create: 1940-air-terminal-museum-begins-liquidation.md
+- create: lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak.md
+- create: launch-hn-superset-yc-p26-ide-for-the-agents-era.md
+- create: microsoft-starts-canceling-claude-code-licenses.md
+- create: anthropics-profitability-swindle.md
+- create: google-goes-for-the-glitter-with-disco-ball-icons-8216are-y8217all-sure-you-stil.md
+- create: how-vcs-and-founders-use-inflated-arr-to-crown-ai-startups.md
+- create: elon-musk-can8217t-hear-you-over-the-sound-of-his-175-trillion-ipo.md
+- create: you-can-no-longer-google-the-word-8216disregard8217.md
+- create: spacex-files-to-go-public-and-the-math-requires-a-little-faith.md

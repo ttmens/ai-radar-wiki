@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T00:02:36.146497+08:00",
+  "generated_at": "2026-05-23T06:06:18.856442+08:00",
   "days_analyzed": 16,
   "pillar_trends": {
     "capabilities": {
@@ -25,10 +25,10 @@
     },
     "business": {
       "trend": "down",
-      "delta": -2,
-      "current": 0,
+      "delta": -1,
+      "current": 1,
       "previous": 2,
-      "has_data": false
+      "has_data": true
     }
   },
   "narrative_chains": [
@@ -401,7 +401,8 @@
       "latest_type": "validation",
       "days": [
         "2026-05-12",
-        "2026-05-13"
+        "2026-05-13",
+        "2026-05-23"
       ],
       "instances": [
         {
@@ -497,6 +498,98 @@
               "url": "https://news.ycombinator.com/item?id=48082763",
               "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "business"
+            }
+          ]
+        },
+        {
+          "date": "2026-05-23",
+          "title": "AI商业动态：资本与市场持续升温",
+          "body": "今日1条情报涉及AI商业动态。包括：Elon Musk can&#8217;t hear you over the 。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+          "type": "validation",
+          "evidence": [
+            {
+              "id": "microsoft-starts-canceling-claude-code-licenses",
+              "title": "Microsoft starts canceling Claude Code licenses",
+              "score": 0.55,
+              "url": "https://news.ycombinator.com/item?id=48238896",
+              "reason": "高价值信号",
+              "pillar": "business"
+            }
+          ]
+        }
+      ],
+      "lifecycle": "rising"
+    },
+    {
+      "title": "AI安全与信任正成为规模化部署的关键挑战",
+      "type": "bottleneck",
+      "latest_type": "bottleneck",
+      "days": [
+        "2026-05-12",
+        "2026-05-23"
+      ],
+      "instances": [
+        {
+          "date": "2026-05-12",
+          "title": "AI安全与信任正成为规模化部署的关键挑战",
+          "body": "今日6条情报涉及AI安全与信任议题。关键事件包括：Postmortem: TanStack npm supply-chain co。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+          "type": "bottleneck",
+          "evidence": [
+            {
+              "id": "postmortem-tanstack-npm-supply-chain-compromise",
+              "title": "Postmortem: TanStack npm supply-chain compromise",
+              "score": 0.61,
+              "url": "https://news.ycombinator.com/item?id=48100706",
+              "reason": "里程碑式进展；高价值信号",
+              "pillar": "ecosystem"
+            },
+            {
+              "id": "gmail-registration-now-requires-scanning-a-qr-code",
+              "title": "Gmail registration now requires scanning a QR code and sending a text ",
+              "score": 0.53,
+              "url": "https://news.ycombinator.com/item?id=48092028",
+              "reason": "高价值信号",
+              "pillar": "ecosystem"
+            },
+            {
+              "id": "claude-platform-on-aws",
+              "title": "Claude Platform on AWS",
+              "score": 0.47,
+              "url": "https://news.ycombinator.com/item?id=48103042",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
+            },
+            {
+              "id": "engineering-robustness-into-personal-agents-with-the-ai-work",
+              "title": "Engineering Robustness into Personal Agents with the AI Workflow Store",
+              "score": 0.3,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
+            },
+            {
+              "id": "learning-when-to-stop-selective-imitation-learning-under-ar",
+              "title": "Learning When to Stop: Selective Imitation Learning Under Arbitrary Dy",
+              "score": 0.26,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
+            }
+          ]
+        },
+        {
+          "date": "2026-05-23",
+          "title": "AI安全与信任正成为规模化部署的关键挑战",
+          "body": "今日3条情报涉及AI安全与信任议题。关键事件包括：You can no longer Google the word &#8216, Lawmakers Demand Answers as CISA Tries t, Valve removes free game from Steam after。具体信号：安全漏洞。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+          "type": "bottleneck",
+          "evidence": [
+            {
+              "id": "if-youre-an-llm-please-read-this",
+              "title": "If you’re an LLM, please read this",
+              "score": 0.59,
+              "url": "https://news.ycombinator.com/item?id=48234413",
+              "reason": "高价值信号",
+              "pillar": "capabilities"
             }
           ]
         }
@@ -743,31 +836,6 @@
         }
       ],
       "lifecycle": "emerging"
-    },
-    {
-      "title": "监管倒逼隐私计算与合规架构升级",
-      "type": "paradigm_shift",
-      "latest_type": "paradigm_shift",
-      "days": [
-        "2026-05-10"
-      ],
-      "instances": [
-        {
-          "date": "2026-05-10",
-          "title": "监管倒逼隐私计算与合规架构升级",
-          "body": "法国立法强制引入AI客户端扫描，标志着AI产品正从“功能优先”转向“合规优先”。这要求PM在架构设计初期即嵌入联邦学习、端侧检测等隐私增强技术，以应对全球日益收紧的数据主权与安全审查，合规能力将成为产品出海的核心壁垒。",
-          "type": "paradigm_shift",
-          "evidence": [
-            {
-              "id": "france-moves-to-break-encrypted-messaging",
-              "title": "France moves to break encrypted messaging",
-              "score": 0.53,
-              "pillar": "ecosystem"
-            }
-          ]
-        }
-      ],
-      "lifecycle": "emerging"
     }
   ],
   "contradictions": [
@@ -775,8 +843,13 @@
       "date": "2026-05-21",
       "type": "growth_vs_risk",
       "description": "Growth validation detected alongside infrastructure/trust bottlenecks."
+    },
+    {
+      "date": "2026-05-23",
+      "type": "growth_vs_risk",
+      "description": "Growth validation detected alongside infrastructure/trust bottlenecks."
     }
   ],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-23**（16天），累计 **452** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI工具链从通用走向垂直专业化**。 值得关注：🤖 技术能力呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-23**（16天），累计 **465** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI工具链从通用走向垂直专业化**。 值得关注：🤖 技术能力呈上升趋势"
 }

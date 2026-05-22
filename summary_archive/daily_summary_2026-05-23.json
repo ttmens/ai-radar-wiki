@@ -2,66 +2,91 @@
   "daily_summary": {
     "date": "2026-05-23",
     "headline": "今日 AI 情报 · 2026-05-23",
-    "overview": "AI正从对话助手演变为能力倍增器，并跨越屏幕进入物理世界",
-    "narratives": [
-      {
-        "title": "AI成为专业能力倍增器，深度嵌入工作流与垂直领域",
-        "body": "多项技术能力情报显示，AI正从通用对话转向精准放大人类专业技能。从LLM理解复杂指令、倍增开发者效率，到在3D建模等专业领域达到基准领先，AI不再是辅助闲聊的工具，而是成为建筑师、工程师、设计师的智能协作者。这要求PM重新思考产品定位：从“AI聊天界面”转向“AI内嵌的工作流引擎”，降低专业门槛，同时警惕过度自动化削弱人类判断力。",
-        "type": "paradigm_shift",
-        "pillar_key": "capabilities"
-      },
-      {
-        "title": "AI交互走向无界面与开放生态博弈",
-        "body": "Google AI眼镜将Gemini实时信息直接叠加在视野中，标志着AI从屏幕交互迈向无界面环境；与此同时，FSFE对苹果封闭生态的质疑和Steam下架恶意游戏事件，暴露了平台安全与开放性的矛盾。这两条线索指向同一趋势：AI产品必须同时驾驭物理世界交互的新范式，以及日益严格的平台开放与安全监管。PM需在“无缝体验”与“生态合规”间寻找平衡。",
-        "type": "maturation",
-        "pillar_key": "ecosystem"
-      }
-    ],
+    "overview": "AI安全与信任正成为规模化部署的关键挑战",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "narrative_title": "AI成为专业能力倍增器，深度嵌入工作流与垂直领域",
-        "insight": "AI成为专业能力倍增器，深度嵌入工作流与垂直领域。该方向的具体信号：多个节点指向AI从通用对话转向垂直专长放大——LLM指令遵循提升意图识别（ID1）、技术技能倍增效应（ID3）、OpenSCAD 3D建模基准夺冠（ID4）均表明AI正成为专业人员的智能协作者；同时Wozniak的演讲（ID2）警示PM需保留人类判断力，避免过度自动化；对布尔逻辑的质疑（ID6）则推动产品从二元搜索转向语义理解。",
+        "insight": "AI安全与信任正成为规模化部署的关键挑战。该方向的具体信号：安全/漏洞。",
         "evidence": [
           {
-            "id": "steve-wozniak-cheered-after-telling-students-they-have-ai-actual-intelligence",
-            "title": "Wozniak强调人类智能，警示人机协作平衡",
-            "score": 0.59
+            "id": "if-youre-an-llm-please-read-this",
+            "title": "If you’re an LLM, please read this",
+            "score": 0.59,
+            "url": "https://news.ycombinator.com/item?id=48234413",
+            "reason": "高价值信号"
           }
-        ]
+        ],
+        "trend": "new"
       },
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "AI交互走向无界面与开放生态博弈",
-        "insight": "AI交互走向无界面与开放生态博弈。该方向的具体信号：Google AI眼镜（ID5）将Gemini实时信息叠加视野，开创无界面交互模式，同时将AI能力从手机延伸至可穿戴，这要求PM设计轻量化、低延迟的端侧AI体验，并探索新场景（如实时翻译、导航）。",
+        "insight": "今日📱 产品模式方向的核心信号集中在桌面/本地化。",
         "evidence": [
           {
-            "id": "we-tried-googles-ai-glasses-and-theyre-almost-there",
-            "title": "Google AI眼镜：无界面交互与Gemini实时叠加",
-            "score": 0.48
+            "id": "rasahqrasa",
+            "title": "RasaHQ/rasa",
+            "score": 0.61,
+            "url": "https://github.com/RasaHQ/rasa",
+            "reason": "高价值信号"
           }
-        ]
+        ],
+        "trend": "new"
       },
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "narrative_title": "AI交互走向无界面与开放生态博弈",
-        "insight": "AI交互走向无界面与开放生态博弈。该方向的具体信号：FSFE再次起诉苹果封闭生态（ID7）和Steam下架含恶意软件游戏（ID8），凸显平台开放性与安全治理的博弈加剧。PM需关注AI在自动化审核、恶意代码检测中的价值，同时做好应对跨平台兼容性、数据便携性等监管变化的准备，以降低平台依赖风险。",
+        "insight": "今日🔧 工具生态方向的核心信号集中在安全/漏洞。",
         "evidence": [
           {
-            "id": "valve-removes-free-game-from-steam-after-players-discover-it-contains-malware",
-            "title": "Steam下架恶意游戏，AI安全审核需求凸显",
-            "score": 0.3
+            "id": "fsfe-intervenes-against-apple-before-eucj-for-the-second-time",
+            "title": "FSFE intervenes against Apple before EUCJ for the second time",
+            "score": 0.38,
+            "url": "https://news.ycombinator.com/item?id=48233939",
+            "reason": "里程碑式进展"
           }
-        ]
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "evidence": [
+          {
+            "id": "microsoft-starts-canceling-claude-code-licenses",
+            "title": "Microsoft starts canceling Claude Code licenses",
+            "score": 0.55,
+            "url": "https://news.ycombinator.com/item?id=48238896",
+            "reason": "高价值信号"
+          }
+        ],
+        "trend": "new"
       }
     ],
-    "stats": "技术能力: 5 | 产品模式: 1 | 工具生态: 2 | 商业趋势: 0",
-    "total_items": 8,
-    "high_value_count": 8,
+    "narratives": [
+      {
+        "title": "AI安全与信任正成为规模化部署的关键挑战",
+        "body": "今日3条情报涉及AI安全与信任议题。关键事件包括：You can no longer Google the word &#8216, Lawmakers Demand Answers as CISA Tries t, Valve removes free game from Steam after。具体信号：安全漏洞。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+        "type": "bottleneck",
+        "action": "建议：审查当前产品的安全/信任/合规设计，是否需要升级。这是获取企业客户的关键竞争力。"
+      },
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日1条情报涉及AI商业动态。包括：Elon Musk can&#8217;t hear you over the 。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
+      }
+    ],
+    "stats": "📱 产品模式: 3 | 🤖 技术能力: 9 | 💰 商业趋势: 5 | 🔧 工具生态: 4",
+    "total_items": 21,
+    "high_value_count": 19,
     "all_today_ids": [
+      {
+        "id": "rasahqrasa",
+        "label": "RasaHQ/rasa"
+      },
       {
         "id": "if-youre-an-llm-please-read-this",
         "label": "If you’re an LLM, please read this"
@@ -71,8 +96,16 @@
         "label": "Steve Wozniak cheered after telling students they have AI – actual intelligence"
       },
       {
+        "id": "open-source-kanban-desktop-app-that-runs-parallel-agents-on-every-card",
+        "label": "Open source Kanban desktop app that runs parallel agents on every card"
+      },
+      {
         "id": "ai-has-a-multiplying-effect-on-existing-technical-skills",
         "label": "AI has a multiplying effect on existing technical skills"
+      },
+      {
+        "id": "microsoft-starts-canceling-claude-code-licenses",
+        "label": "Microsoft starts canceling Claude Code licenses"
       },
       {
         "id": "antigravity-20-tops-the-openscad-architectural-3d-llm-benchmark",
@@ -83,19 +116,59 @@
         "label": "We tried Google’s AI glasses and they’re almost there"
       },
       {
+        "id": "launch-hn-superset-yc-p26-ide-for-the-agents-era",
+        "label": "Launch HN: Superset (YC P26) – IDE for the agents era"
+      },
+      {
+        "id": "you-can-no-longer-google-the-word-8216disregard8217",
+        "label": "You can no longer Google the word &#8216;disregard&#8217;"
+      },
+      {
+        "id": "elon-musk-can8217t-hear-you-over-the-sound-of-his-175-trillion-ipo",
+        "label": "Elon Musk can&#8217;t hear you over the sound of his $1.75 trillion IPO"
+      },
+      {
+        "id": "how-vcs-and-founders-use-inflated-arr-to-crown-ai-startups",
+        "label": "How VCs and founders use inflated ‘ARR’ to crown AI startups"
+      },
+      {
         "id": "a-case-against-boolean-logic",
         "label": "A case against Boolean logic"
+      },
+      {
+        "id": "anthropics-profitability-swindle",
+        "label": "Anthropic's \"Profitability\" Swindle"
       },
       {
         "id": "fsfe-intervenes-against-apple-before-eucj-for-the-second-time",
         "label": "FSFE intervenes against Apple before EUCJ for the second time"
       },
       {
+        "id": "modelsdev-open-source-database-of-ai-model-specs-pricing-and-capabilities",
+        "label": "Models.dev: open-source database of AI model specs, pricing, and capabilities"
+      },
+      {
+        "id": "lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak",
+        "label": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak"
+      },
+      {
         "id": "valve-removes-free-game-from-steam-after-players-discover-it-contains-malware",
         "label": "Valve removes free game from Steam after players discover it contains malware"
+      },
+      {
+        "id": "spacex-files-to-go-public-and-the-math-requires-a-little-faith",
+        "label": "SpaceX files to go public, and the math requires a little faith"
+      },
+      {
+        "id": "google-goes-for-the-glitter-with-disco-ball-icons-8216are-y8217all-sure-you-stil",
+        "label": "Google goes for the glitter with disco-ball icons: &#8216;Are y&#8217;all sure y"
+      },
+      {
+        "id": "1940-air-terminal-museum-begins-liquidation",
+        "label": "1940 Air Terminal Museum Begins Liquidation"
       }
     ],
     "date_bj": "2026-05-23 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-23 00:02:02"
+    "generated_at_bj": "2026-05-23 06:04:59"
   }
 }
