@@ -1,0 +1,31 @@
+{
+  "title": "Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration",
+  "summary": "Exploration is a prerequisite for learning useful behaviors in sparse-reward, long-horizon tasks, particularly within 3D environments. Curiosity-driven reinforcement learning addresses this via intrinsic rewards derived from the mismatch between the agent's predictive model of the world and reality. However, translating this intrinsic motivation to complex, photorealistic environments remains difficult, as agents can become trapped in local loops and receive fresh rewards for revisiting forgotten states. In this work, we demonstrate that this failure stems from a lack of spatial persistence and episodic context. We show that effective curiosity requires a model of the world that is persistent and continuously updated, paired with an agent that maintains an episodic trajectory history to navigate toward novel regions. We achieve this using an online 3D reconstruction as a persistent model of the world, while the agent policy is parameterized as a sequence model over RGB observations to maintain episodic context. This design enables effective exploration during training while allowing the agent to navigate using solely RGB frames at deployment. Trained purely via curiosity on HM3D, our agent outperforms RL-based active mapping baselines and generalizes zero-shot to Gibson and AI-generated worlds. Our end-to-end policy enables efficient adaptation to downstream tasks, such as apple picking and image-goal navigation, outperforming from-scratch baselines. Please see video results at https://recuriosity.github.io/.",
+  "url": "http://arxiv.org/abs/2605.22814v1",
+  "authors": [
+    "Lily Goli",
+    "Justin Kerr",
+    "Daniele Reda",
+    "Alec Jacobson",
+    "Andrea Tagliasacchi"
+  ],
+  "published": "2026-05-21T17:58:06Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "parameter"
+  ],
+  "summary_cn": "该论文提出了一种好奇心驱动的强化学习方法，通过智能体的世界预测模型与现实之间的不一致性生成内在奖励，解决3D环境中稀疏奖励、长视界任务下的探索难题。技术核心是结合情景记忆与持久世界建模，让智能体主动探索未知区域，提升学习效率。商业价值体现在游戏AI、虚拟现实、机器人自主导航等领域，能显著减少人工标注和奖励设计成本，推动3D场景中自主决策产品的落地。",
+  "pm_relevance": 6,
+  "concepts": [
+    "Curiosity-Driven RL",
+    "3D Exploration",
+    "Intrinsic Reward"
+  ],
+  "entities": [],
+  "patterns": [
+    "Reinforcement Learning",
+    "Exploration-Exploitation Pattern"
+  ]
+}

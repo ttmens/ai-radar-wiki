@@ -1,0 +1,27 @@
+{
+  "title": "Tokenisation via Convex Relaxations",
+  "summary": "Tokenisation is an integral part of the current NLP pipeline. Current tokenisation algorithms such as BPE and Unigram are greedy algorithms -- they make locally optimal decisions without considering the resulting vocabulary as a whole. We instead formulate tokeniser construction as a linear program and solve it using convex optimisation tools, yielding a new algorithm we call ConvexTok. We find ConvexTok consistently improves intrinsic tokenisation metrics and the bits-per-byte (BpB) achieved by language models; it also improves downstream task performance, but less consistently. Furthermore, ConvexTok allows the user to certify how far their tokeniser is from optimal, with respect to a certain objective, via a lower bound, and we empirically find it to be within 1\\% of optimal at common vocabulary sizes.",
+  "url": "http://arxiv.org/abs/2605.22821v1",
+  "authors": [
+    "Jan Tempus",
+    "Philip Whittington",
+    "Craig W. Schmidt",
+    "Dennis Komm",
+    "Tiago Pimentel"
+  ],
+  "published": "2026-05-21T17:59:56Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token"
+  ],
+  "summary_cn": "该论文提出了一种基于凸松弛（Convex Relaxation）的 tokenization 新方法，将词汇表构建转化为线性规划问题，以替代当前 BPE 和 Unigram 等贪心算法。贪心算法只做局部最优选择，而新方法能从全局角度优化词汇表，提升下游 NLP 模型的一致性。对于 AI 产品经理而言，更高质量的 tokenization 意味着模型对文本的理解更准确、更稳定，可能带来可量化的效果提升（如翻译、摘要等任务）。虽然目前仍是理论方法，但一旦落地，有望以较低成本改善现有 NLP 产品的基座能力，具备潜在的产品创新价值。",
+  "pm_relevance": 6,
+  "concepts": [
+    "Tokenisation",
+    "Convex Relaxation",
+    "NLP Pipeline"
+  ],
+  "entities": [],
+  "patterns": []
+}

@@ -1,7 +1,7 @@
 {
   "date": "2026-05-22",
-  "generated_at": "2026-05-22T12:02:06.018307+08:00",
-  "item_count": 22,
+  "generated_at": "2026-05-22T18:04:28.002901+08:00",
+  "item_count": 35,
   "items": [
     {
       "id": "throwing-ai-generated-walls-of-text-into-conversations",
@@ -78,6 +78,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "fame-failure-aware-mixture-of-experts-for-message-level-log-anomaly-detection",
+      "label": "FAME: Failure-Aware Mixture-of-Experts for Message-Level Log Anomaly Detection",
+      "summary": "本论文提出 FAME（Failure-Aware Mixture-of-Experts），一种面向消息级日志异常检测的混合专家模型。传统方法常在会话或窗口级别检测异常，只能标记整组日志，导致运维人员需逐一排查大量正常行。FAME 利用专家网络分别建模不同日志模式，并通过故障感知门控机制精确定位引发异常的单个消息。该技术可将异常定位粒度从粗粒度降低至单条日志，大幅提升运维效率，减少平均修复时间（MTTR）。产品创新点在于细粒度异常定位与可解释性增强，适合集成到智能运维（AIOps）平台中。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.22779v1",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "lcguard-latent-communication-guard-for-safe-kv-sharing-in-multi-agent-systems",
+      "label": "LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems",
+      "summary": "本文提出LCGuard，一种用于多智能体系统中安全共享Transformer键值（KV）缓存的潜在通信防护机制。传统多智能体系统依赖自然语言中间通信，而最新研究显示通过KV缓存进行的潜在通信能更高效地传递信息，但存在安全风险。LCGuard通过设计防护层，确保智能体间共享KV缓存时不泄露敏感内容，同时保持协作效率。该技术对构建安全、高效的多智能体协作产品（如自动化客服、协同创作工具）具有重要价值，可降低隐私泄露风险，提升系统可信度。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.22786v1",
       "date": "2026-05-22"
     },
     {
@@ -169,6 +191,28 @@
       "date": "2026-05-22"
     },
     {
+      "id": "integrable-elasticity-via-neural-demand-potentials",
+      "label": "Integrable Elasticity via Neural Demand Potentials",
+      "summary": "提出可积上下文依赖需求网络（ICDN），一种针对多产品零售需求的需求优先神经网络模型。该模型将对数需求学习为对数价格的平滑、上下文条件函数，从而能够从学习到的需求表面精确推导出弹性。技术要点：通过神经网络实现需求函数的可积性约束，确保弹性计算的一致性。商业价值：零售商可基于该模型实现更精准的动态定价和促销优化，减少库存风险。产品创新：将经济学的可积性条件与深度学习结合，使需求预测与价格弹性评估一体化，降低手工建模成本。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.22820v1",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "moss-self-evolution-through-source-level-rewriting-in-autonomous-agent-systems",
+      "label": "MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems",
+      "summary": "MOSS是一种让自主智能体系统在部署后通过源代码级重写实现自我演化的方法。传统智能体部署后是静态的，无法从用户交互中学习，重复失败只能等待人工更新。MOSS允许智能体直接修改自身的源代码，包括API调用、数据结构等底层逻辑，而不仅限于技能文件或配置。这种能力使智能体能够自动适应新场景、修复错误、优化行为，极大降低维护成本并提升长期可靠性。对于AI产品经理，这代表着从“静态部署”到“持续进化”的范式转变，有望催生更自主、更灵活的AI产品。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.22794v1",
+      "date": "2026-05-22"
+    },
+    {
       "id": "trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-l",
       "label": "Trump delays AI security executive order: ‘I don’t want to get in the way of tha",
       "summary": "特朗普推迟签署一项要求AI模型发布前进行政府安全审查的行政令，理由是对措辞不满。此举短期内降低了AI产品的合规压力，可能加速模型部署与创新，但长期政策不确定性增加。产品经理需关注监管动态对AI产品上市节奏、安全标准及国际竞争格局的影响，提前规划风险应对策略。",
@@ -177,6 +221,61 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "finite-particle-convergence-rates-for-conservative-and-non-conservative-drifting",
+      "label": "Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting",
+      "summary": "本文提出了一种针对单步生成模型的保守漂移方法，通过核密度估计（KDE）梯度速度替代传统位移漂移，显著提升了有限粒子收敛速率。该方法在保持分布保守性的同时，也适用于非保守场景，理论证明其收敛性更强。技术要点在于利用KDE平滑数据评分与模型评分之差，实现更稳定的粒子演化。商业价值上，该方法可降低生成模型训练的计算成本，加快高质量图像、文本等内容的生成速度。产品创新点在于单步生成范式与保守性结合，为实时生成应用（如AI助手、内容创作）提供高效解决方案。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.22795v1",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "vector-policy-optimization-training-for-diversity-improves-test-time-search",
+      "label": "Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
+      "summary": "本文提出向量策略优化（Vector Policy Optimization），通过训练语言模型的策略多样性来提升其在推理时搜索（如AlphaEvolve）中的泛化能力，使其能适应多种任务特定的奖励函数选择。该方法突破了标准后训练只优化单一预定义奖励的局限，有望在代码生成、规划等复杂场景中，以更低微调成本获得更强推理性能，为产品端集成搜索增强型LLM提供新路径。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.22817v1",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "sdpm-survival-diffusion-probabilistic-model-for-continuous-time-survival-analysi",
+      "label": "SDPM: Survival Diffusion Probabilistic Model for Continuous-Time Survival Analys",
+      "summary": "SDPM（生存扩散概率模型）提出一种基于扩散概率模型的新方法，用于连续时间生存分析。传统方法通常对风险函数强加结构假设或离散化时间轴，导致灵活性和近似误差。SDPM通过扩散过程直接建模连续时间下的生存分布，无需离散化或强假设，能够更灵活准确地从删失数据中估计时间到事件分布。该方法在医疗、保险、客户流失预测等场景具有商业价值，可提升预测精度和鲁棒性。作为一种创新性的概率生成模型，SDPM扩展了AI在时序生存建模中的应用边界。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.22776v1",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "tokenisation-via-convex-relaxations",
+      "label": "Tokenisation via Convex Relaxations",
+      "summary": "该论文提出了一种基于凸松弛（Convex Relaxation）的 tokenization 新方法，将词汇表构建转化为线性规划问题，以替代当前 BPE 和 Unigram 等贪心算法。贪心算法只做局部最优选择，而新方法能从全局角度优化词汇表，提升下游 NLP 模型的一致性。对于 AI 产品经理而言，更高质量的 tokenization 意味着模型对文本的理解更准确、更稳定，可能带来可量化的效果提升（如翻译、摘要等任务）。虽然目前仍是理论方法，但一旦落地，有望以较低成本改善现有 NLP 产品的基座能力，具备潜在的产品创新价值。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.22821v1",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "remember-to-be-curious-episodic-context-and-persistent-worlds-for-3d-exploration",
+      "label": "Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploratio",
+      "summary": "该论文提出了一种好奇心驱动的强化学习方法，通过智能体的世界预测模型与现实之间的不一致性生成内在奖励，解决3D环境中稀疏奖励、长视界任务下的探索难题。技术核心是结合情景记忆与持久世界建模，让智能体主动探索未知区域，提升学习效率。商业价值体现在游戏AI、虚拟现实、机器人自主导航等领域，能显著减少人工标注和奖励设计成本，推动3D场景中自主决策产品的落地。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.22814v1",
       "date": "2026-05-22"
     },
     {
@@ -213,6 +312,17 @@
       "date": "2026-05-22"
     },
     {
+      "id": "coda-rewriting-transformer-blocks-as-gemm-epilogue-programs",
+      "label": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+      "summary": "本文介绍CODA，一种将Transformer块重新编译为GEMM（通用矩阵乘法）尾声程序的方法，旨在通过硬编码矩阵乘法的后处理步骤来加速推理。该技术能够消除传统注意力机制中的冗余计算，显著提升吞吐量并降低延迟。对于AI产品经理而言，这意味着更低的部署成本和更高的模型响应速度，尤其适用于高并发或资源受限的实时应用场景。CODA提供了一种系统级的优化思路，有望推动边缘设备和云端推理效率的进一步突破。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48232118",
+      "date": "2026-05-22"
+    },
+    {
       "id": "show-hn-let-agents-run-any-analysis-with-mixpanel-data-no-ui-required",
       "label": "Show HN: Let agents run any analysis with Mixpanel data, no UI required",
       "summary": "该项目展示了如何让AI代理直接与Mixpanel数据分析平台交互，无需传统用户界面即可执行任意分析任务。通过代理自动调用Mixpanel API，用户可以用自然语言描述分析需求，代理自主完成查询、计算和结果呈现。这大幅降低了数据分析的门槛，使非技术用户也能获得深度洞察。其商业价值在于提升分析效率、减少对UI的依赖，并为数据分析产品提供了新的交互范式——从图形界面转向对话式、任务型的自动化代理模式。",
@@ -244,10 +354,43 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
       "date": "2026-05-22"
+    },
+    {
+      "id": "gated-deltanet-2-decoupling-erase-and-write-in-linear-attention",
+      "label": "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
+      "summary": "Linear attention replaces the unbounded cache of softmax attention with a fixed-size recurrent state, reducing sequence mixing to linear time and decoding to constant memory. The hard part is not just what to forget, but how to edit this compressed memory without scrambling existing associations. De",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.22791v1",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "deltabox-scaling-stateful-ai-agents-with-millisecond-level-sandbox-checkpointrol",
+      "label": "DeltaBox: Scaling Stateful AI Agents with Millisecond-Level Sandbox Checkpoint/R",
+      "summary": "LLM-powered AI agents require high-frequency state exploration (e.g., test-time tree search and reinforcement learning), relying on rapid checkpoint and rollback (C/R) of the complete sandbox state, including files and process state (e.g., memory, contexts, etc.). Existing mechanisms duplicate the e",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.22781v1",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "the-matching-principle-a-geometric-theory-of-loss-functions-for-nuisance-robust",
+      "label": "The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust",
+      "summary": "该论文提出了一种几何理论框架，用于统一多种看似独立的机器学习难题，包括鲁棒性、领域自适应、光度/遮挡不变性、组合泛化、时间鲁棒性、对齐安全性和各向异性正则化。核心思想是通过干扰鲁棒表示学习中的损失函数匹配原则，揭示这些问题的共同结构。该理论为设计更通用的AI模型提供了理论基础，有助于降低多任务适配成本，提升模型在复杂环境下的泛化能力，对AI产品在安全、自适应和可解释性方面具有潜在创新价值。",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.22800v1",
+      "date": "2026-05-22"
     }
   ],
   "graph_totals": {
-    "real_nodes": 763,
-    "edges": 38262
+    "real_nodes": 776,
+    "edges": 39042
   }
 }

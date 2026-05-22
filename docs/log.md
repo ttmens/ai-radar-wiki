@@ -867,3 +867,18 @@
 - create: samsung-chip-workers-will-get-an-average-340k-bonus-as-ai-profits-soar.md
 - create: multi-stream-llms-new-paper-on-parallelizingseparating-prompts-thinking-io.md
 - create: show-hn-i-made-a-claude-skill-for-spec-driven-development-sdd.md
+
+## [2026-05-22 18:04] sync v3 | 13 new | pillars: {'capabilities': 11, 'patterns': 1, 'ecosystem': 1}
+- create: tokenisation-via-convex-relaxations.md
+- create: integrable-elasticity-via-neural-demand-potentials.md
+- create: vector-policy-optimization-training-for-diversity-improves-test-time-search.md
+- create: remember-to-be-curious-episodic-context-and-persistent-worlds-for-3d-exploration.md
+- create: the-matching-principle-a-geometric-theory-of-loss-functions-for-nuisance-robust.md
+- create: finite-particle-convergence-rates-for-conservative-and-non-conservative-drifting.md
+- create: moss-self-evolution-through-source-level-rewriting-in-autonomous-agent-systems.md
+- create: gated-deltanet-2-decoupling-erase-and-write-in-linear-attention.md
+- create: lcguard-latent-communication-guard-for-safe-kv-sharing-in-multi-agent-systems.md
+- create: deltabox-scaling-stateful-ai-agents-with-millisecond-level-sandbox-checkpointrol.md
+- create: fame-failure-aware-mixture-of-experts-for-message-level-log-anomaly-detection.md
+- create: sdpm-survival-diffusion-probabilistic-model-for-continuous-time-survival-analysi.md
+- create: coda-rewriting-transformer-blocks-as-gemm-epilogue-programs.md
