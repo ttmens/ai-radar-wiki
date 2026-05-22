@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 22 May 2026 08:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 12:00:32 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -66,6 +66,22 @@
       <guid isPermaLink="false">hark-raises-700m-series-a-for-its-secretive-8220universal8221-ai-interface</guid>
       <pubDate>2026-05-22T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Hark（Brett Adcock新创公司）获7亿美元A轮融资，估值达60亿美元，打造“通用”AI界面。该界面旨在成为所有AI模型与服务的统一交互层，类似于AI操作系统，可动态调用不同模型完成复杂任务。商业价值在于可能颠覆现有AI应用生态，成为下一代AI入口。产品创新点包括隐式意图理解、多模态输入输出、以及模型无关的编排能力。对于AI产品经理而言，此项目代表平台级机会，需关注其开放性与垂直场景适配。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>FAME: Failure-Aware Mixture-of-Experts for Message-Level Log Anomaly Detection</title>
+      <link>http://arxiv.org/abs/2605.22779v1</link>
+      <guid isPermaLink="false">fame-failure-aware-mixture-of-experts-for-message-level-log-anomaly-detection</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本论文提出 FAME（Failure-Aware Mixture-of-Experts），一种面向消息级日志异常检测的混合专家模型。传统方法常在会话或窗口级别检测异常，只能标记整组日志，导致运维人员需逐一排查大量正常行。FAME 利用专家网络分别建模不同日志模式，并通过故障感知门控机制精确定位引发异常的单个消息。该技术可将异常定位粒度从粗粒度降低至单条日志，大幅提升运维效率，减少平均修复时间（MTTR）。产品创新点在于细粒度异常定位与可解释性增强，适合集成到智能运维（AIOps）平台中。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems</title>
+      <link>http://arxiv.org/abs/2605.22786v1</link>
+      <guid isPermaLink="false">lcguard-latent-communication-guard-for-safe-kv-sharing-in-multi-agent-systems</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出LCGuard，一种用于多智能体系统中安全共享Transformer键值（KV）缓存的潜在通信防护机制。传统多智能体系统依赖自然语言中间通信，而最新研究显示通过KV缓存进行的潜在通信能更高效地传递信息，但存在安全风险。LCGuard通过设计防护层，确保智能体间共享KV缓存时不泄露敏感内容，同时保持协作效率。该技术对构建安全、高效的多智能体协作产品（如自动化客服、协同创作工具）具有重要价值，可降低隐私泄露风险，提升系统可信度。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -133,12 +149,68 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>Integrable Elasticity via Neural Demand Potentials</title>
+      <link>http://arxiv.org/abs/2605.22820v1</link>
+      <guid isPermaLink="false">integrable-elasticity-via-neural-demand-potentials</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>提出可积上下文依赖需求网络（ICDN），一种针对多产品零售需求的需求优先神经网络模型。该模型将对数需求学习为对数价格的平滑、上下文条件函数，从而能够从学习到的需求表面精确推导出弹性。技术要点：通过神经网络实现需求函数的可积性约束，确保弹性计算的一致性。商业价值：零售商可基于该模型实现更精准的动态定价和促销优化，减少库存风险。产品创新：将经济学的可积性条件与深度学习结合，使需求预测与价格弹性评估一体化，降低手工建模成本。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems</title>
+      <link>http://arxiv.org/abs/2605.22794v1</link>
+      <guid isPermaLink="false">moss-self-evolution-through-source-level-rewriting-in-autonomous-agent-systems</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>MOSS是一种让自主智能体系统在部署后通过源代码级重写实现自我演化的方法。传统智能体部署后是静态的，无法从用户交互中学习，重复失败只能等待人工更新。MOSS允许智能体直接修改自身的源代码，包括API调用、数据结构等底层逻辑，而不仅限于技能文件或配置。这种能力使智能体能够自动适应新场景、修复错误、优化行为，极大降低维护成本并提升长期可靠性。对于AI产品经理，这代表着从“静态部署”到“持续进化”的范式转变，有望催生更自主、更灵活的AI产品。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>Trump delays AI security executive order: ‘I don’t want to get in the way of tha</title>
       <link>https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/</link>
       <guid isPermaLink="false">trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-l</guid>
       <pubDate>2026-05-22T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>特朗普推迟签署一项要求AI模型发布前进行政府安全审查的行政令，理由是对措辞不满。此举短期内降低了AI产品的合规压力，可能加速模型部署与创新，但长期政策不确定性增加。产品经理需关注监管动态对AI产品上市节奏、安全标准及国际竞争格局的影响，提前规划风险应对策略。</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting</title>
+      <link>http://arxiv.org/abs/2605.22795v1</link>
+      <guid isPermaLink="false">finite-particle-convergence-rates-for-conservative-and-non-conservative-drifting</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出了一种针对单步生成模型的保守漂移方法，通过核密度估计（KDE）梯度速度替代传统位移漂移，显著提升了有限粒子收敛速率。该方法在保持分布保守性的同时，也适用于非保守场景，理论证明其收敛性更强。技术要点在于利用KDE平滑数据评分与模型评分之差，实现更稳定的粒子演化。商业价值上，该方法可降低生成模型训练的计算成本，加快高质量图像、文本等内容的生成速度。产品创新点在于单步生成范式与保守性结合，为实时生成应用（如AI助手、内容创作）提供高效解决方案。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Vector Policy Optimization: Training for Diversity Improves Test-Time Search</title>
+      <link>http://arxiv.org/abs/2605.22817v1</link>
+      <guid isPermaLink="false">vector-policy-optimization-training-for-diversity-improves-test-time-search</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出向量策略优化（Vector Policy Optimization），通过训练语言模型的策略多样性来提升其在推理时搜索（如AlphaEvolve）中的泛化能力，使其能适应多种任务特定的奖励函数选择。该方法突破了标准后训练只优化单一预定义奖励的局限，有望在代码生成、规划等复杂场景中，以更低微调成本获得更强推理性能，为产品端集成搜索增强型LLM提供新路径。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>SDPM: Survival Diffusion Probabilistic Model for Continuous-Time Survival Analys</title>
+      <link>http://arxiv.org/abs/2605.22776v1</link>
+      <guid isPermaLink="false">sdpm-survival-diffusion-probabilistic-model-for-continuous-time-survival-analysi</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>SDPM（生存扩散概率模型）提出一种基于扩散概率模型的新方法，用于连续时间生存分析。传统方法通常对风险函数强加结构假设或离散化时间轴，导致灵活性和近似误差。SDPM通过扩散过程直接建模连续时间下的生存分布，无需离散化或强假设，能够更灵活准确地从删失数据中估计时间到事件分布。该方法在医疗、保险、客户流失预测等场景具有商业价值，可提升预测精度和鲁棒性。作为一种创新性的概率生成模型，SDPM扩展了AI在时序生存建模中的应用边界。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Tokenisation via Convex Relaxations</title>
+      <link>http://arxiv.org/abs/2605.22821v1</link>
+      <guid isPermaLink="false">tokenisation-via-convex-relaxations</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出了一种基于凸松弛（Convex Relaxation）的 tokenization 新方法，将词汇表构建转化为线性规划问题，以替代当前 BPE 和 Unigram 等贪心算法。贪心算法只做局部最优选择，而新方法能从全局角度优化词汇表，提升下游 NLP 模型的一致性。对于 AI 产品经理而言，更高质量的 tokenization 意味着模型对文本的理解更准确、更稳定，可能带来可量化的效果提升（如翻译、摘要等任务）。虽然目前仍是理论方法，但一旦落地，有望以较低成本改善现有 NLP 产品的基座能力，具备潜在的产品创新价值。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploratio</title>
+      <link>http://arxiv.org/abs/2605.22814v1</link>
+      <guid isPermaLink="false">remember-to-be-curious-episodic-context-and-persistent-worlds-for-3d-exploration</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出了一种好奇心驱动的强化学习方法，通过智能体的世界预测模型与现实之间的不一致性生成内在奖励，解决3D环境中稀疏奖励、长视界任务下的探索难题。技术核心是结合情景记忆与持久世界建模，让智能体主动探索未知区域，提升学习效率。商业价值体现在游戏AI、虚拟现实、机器人自主导航等领域，能显著减少人工标注和奖励设计成本，推动3D场景中自主决策产品的落地。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Samsung chip workers will get an average $340k bonus as AI profits soar</title>
@@ -165,6 +237,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs</title>
+      <link>https://news.ycombinator.com/item?id=48232118</link>
+      <guid isPermaLink="false">coda-rewriting-transformer-blocks-as-gemm-epilogue-programs</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文介绍CODA，一种将Transformer块重新编译为GEMM（通用矩阵乘法）尾声程序的方法，旨在通过硬编码矩阵乘法的后处理步骤来加速推理。该技术能够消除传统注意力机制中的冗余计算，显著提升吞吐量并降低延迟。对于AI产品经理而言，这意味着更低的部署成本和更高的模型响应速度，尤其适用于高并发或资源受限的实时应用场景。CODA提供了一种系统级的优化思路，有望推动边缘设备和云端推理效率的进一步突破。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Show HN: Let agents run any analysis with Mixpanel data, no UI required</title>
       <link>https://docs.mixpanel.com/docs/mixpanel-headless</link>
       <guid isPermaLink="false">show-hn-let-agents-run-any-analysis-with-mixpanel-data-no-ui-required</guid>
@@ -186,6 +266,30 @@
       <guid isPermaLink="false">with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in</guid>
       <pubDate>2026-05-22T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention</title>
+      <link>http://arxiv.org/abs/2605.22791v1</link>
+      <guid isPermaLink="false">gated-deltanet-2-decoupling-erase-and-write-in-linear-attention</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Linear attention replaces the unbounded cache of softmax attention with a fixed-size recurrent state, reducing sequence mixing to linear time and decoding to constant memory. The hard part is not just what to forget, but how to edit this compressed memory without scrambling existing associations. De</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>DeltaBox: Scaling Stateful AI Agents with Millisecond-Level Sandbox Checkpoint/R</title>
+      <link>http://arxiv.org/abs/2605.22781v1</link>
+      <guid isPermaLink="false">deltabox-scaling-stateful-ai-agents-with-millisecond-level-sandbox-checkpointrol</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>LLM-powered AI agents require high-frequency state exploration (e.g., test-time tree search and reinforcement learning), relying on rapid checkpoint and rollback (C/R) of the complete sandbox state, including files and process state (e.g., memory, contexts, etc.). Existing mechanisms duplicate the e</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust</title>
+      <link>http://arxiv.org/abs/2605.22800v1</link>
+      <guid isPermaLink="false">the-matching-principle-a-geometric-theory-of-loss-functions-for-nuisance-robust</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出了一种几何理论框架，用于统一多种看似独立的机器学习难题，包括鲁棒性、领域自适应、光度/遮挡不变性、组合泛化、时间鲁棒性、对齐安全性和各向异性正则化。核心思想是通过干扰鲁棒表示学习中的损失函数匹配原则，揭示这些问题的共同结构。该理论为设计更通用的AI模型提供了理论基础，有助于降低多任务适配成本，提升模型在复杂环境下的泛化能力，对AI产品在安全、自适应和可解释性方面具有潜在创新价值。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -307,110 +411,6 @@
       <pubDate>2026-05-21T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>马斯克旗下AI公司xAI因数据中心发电机使用引发诉讼，但最新SpaceX IPO文件显示，xAI计划未来三年斥资28亿美元采购天然气涡轮机，以支持其大规模AI训练与推理需求。此举凸显AI算力竞赛对能源基础设施的依赖，以及对自建基础设施的垂直整合策略。产品经理需关注算力成本、碳排放合规及供应链风险对AI产品路线图的影响。</p></description>
       <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Google's AI is being manipulated. The search giant is quietly fighting back</title>
-      <link>https://news.ycombinator.com/item?id=48205782</link>
-      <guid isPermaLink="false">googles-ai-is-being-manipulated-the-search-giant-is-quietly-fighting-back</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>标题显示谷歌的AI系统正遭受操纵攻击（如对抗性输入、内容滥用），而谷歌正在悄然采取反制措施。对AI产品经理而言，这提示了模型安全性的关键挑战：需要建立检测与防御机制（如对抗训练、输入过滤），以维护用户信任与产品可靠性。商业价值在于保护品牌声誉，避免AI被用于生成虚假信息或恶意行为。产品创新方向包括实时监控、鲁棒性测试和自适应防御策略。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Figma adds an AI assistant to its collaborative canvas</title>
-      <link>https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/</link>
-      <guid isPermaLink="false">figma-adds-an-ai-assistant-to-its-collaborative-canvas</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Figma 在其协作画布中引入 AI 助手，首先在 Figma Design 中可用。该助手旨在提升设计协作效率，通过自然语言交互辅助设计师完成布局、组件生成等任务，降低重复劳动。此功能延续了 Figma 的实时协作特性，将 AI 无缝嵌入现有工作流，体现了“嵌入式 AI 助手”产品模式，对设计工具智能化有示范意义。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Stability AI releases a new audio model that can create six-minute songs</title>
-      <link>https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/</link>
-      <guid isPermaLink="false">stability-ai-releases-a-new-audio-model-that-can-create-six-minute-songs</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Stability AI 发布 Stability Audio 3.0，其小型模型可在设备端运行，生成最长 2 分钟的音轨（标题称可创作 6 分钟歌曲）。该模型在保持高质量音频生成的同时实现模型压缩，降低了对云端算力的依赖，提升了隐私性和实时性。对 AI 产品经理而言，这意味着音频生成类应用有望脱离服务器限制，实现本地化创作工具，尤其适合移动端和离线场景。商业上可降低部署成本，推动 AI 音乐、播客、音效等 C 端产品的爆发。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>OpenAI barrels toward IPO that may happen in September</title>
-      <link>https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/</link>
-      <guid isPermaLink="false">openai-barrels-toward-ipo-that-may-happen-in-september</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenAI 正推进最快于 9 月进行的 IPO，此前马斯克对其组织结构、领导层和财务的诉讼以失败告终，扫清了上市关键障碍。此次 IPO 将为 OpenAI 带来数十亿美元资金，加速 GPT 系列等基座模型的研发与商业化部署，同时可能引发更强监管和公众审视。对 AI 产品经理而言，需关注 OpenAI 上市后对产品定价、开放策略（如 API 调用成本）及竞争对手格局的连锁影响，及时调整自身产品路线和生态合作策略。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Anthropic says it&amp;#8217;s about to have its first profitable quarter</title>
-      <link>https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/</link>
-      <guid isPermaLink="false">anthropic-says-it8217s-about-to-have-its-first-profitable-quarter</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Anthropic 向投资者透露其即将迎来首个盈利季度，预计第二季度营收将翻倍至约109亿美元。这一里程碑表明其 AI 模型（如 Claude）的商业化能力正快速提升，主要得益于企业级 API 订阅和数据中心训练效率优化。对 AI 产品经理而言，这意味着市场上多了一个成熟的、可持续的模型供应商选择，可能影响产品立项时的模型选型和定价策略，同时需关注其竞争动态对生态合作格局的长期影响。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Anthropic is expanding to Colossus2. Will use GB200</title>
-      <link>https://news.ycombinator.com/item?id=48214017</link>
-      <guid isPermaLink="false">anthropic-is-expanding-to-colossus2-will-use-gb200</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic 计划扩展其大型计算集群 Colossus2，并采用英伟达下一代 GB200 GPU（基于 Blackwell 架构）。此举表明 Anthropic 正在大规模投资硬件基础设施，以支持更强大的模型训练与推理能力。对 AI 产品经理而言，这意味着未来模型性能、上下文窗口规模和响应速度可能显著提升，同时成本结构也会变化。基础设施的扩张是模型能力竞争的关键，也预示着 AI 产品在实时性、复杂性上的新可能性。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Jensen Huang says he&amp;#8217;s found a &amp;#8216;brand new&amp;#8217; $200B market for Nv</title>
-      <link>https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/</link>
-      <guid isPermaLink="false">jensen-huang-says-he8217s-found-a-8216brand-new8217-200b-market-for-nvidia</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>英伟达CEO黄仁勋预测，AI代理（AI Agents）将催生一个价值2000亿美元的全新CPU市场。他强调，传统CPU架构无法满足AI推理与自主决策的需求，英伟达将推出专为AI代理设计的CPU，主打高并发、低延迟和自适应计算。这一动向标志着AI基础设施从训练向推理部署的战略转移，为产品经理提供了新的硬件选型方向，同时暗示了AI代理在商业应用中规模化落地的潜力。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Nvidia posts another record quarter, reveals $43 billion of holdings in startups</title>
-      <link>https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/</link>
-      <guid isPermaLink="false">nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>英伟达（Nvidia）公布又一季度创纪录营收，但预警下季度增长放缓。同时，该公司披露持有价值430亿美元的AI初创公司股份，展示其通过资本深度参与AI生态建设的战略。对AI产品经理而言，英伟达财报不仅反映GPU需求持续旺盛，更提示其投资布局可能影响未来AI工具、平台及算力市场格局。需关注英伟达作为AI基础设施核心供应商的定价权与生态影响力变化。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Clouted wants to take the guesswork out of making short videos go viral</title>
-      <link>https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/</link>
-      <guid isPermaLink="false">clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Clouted 是一家利用 AI 技术帮助用户优化短视频内容以提高爆发潜力的初创公司，近期完成由 Slow Ventures 领投的 700 万美元种子轮融资。该产品通过智能分析视频节奏、热门元素和用户偏好，自动建议剪辑策略、标题和发布时间，降低创作爆款的主观试错成本。其技术亮点在于将内容生成与数据驱动的传播预测相结合，为创作者提供可量化的优化建议，商业价值体现在短剧、品牌营销等高频内容场景中提升 ROI。该融资表明市场对 AI 驱动的内容创作工具需求旺盛，产品创新在于将“猜爆款”转化为可复用的技术能力。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists</title>
-      <link>http://arxiv.org/abs/2605.21481v1</link>
-      <guid isPermaLink="false">airaxiv-an-ai-driven-open-access-platform-for-human-and-ai-scientists</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>AiraXiv 是一个由 AI 驱动的开放获取平台，专为人类科学家和 AI 科学家设计，旨在解决传统学术出版系统在应对人机生成研究产出激增时的可扩展性瓶颈。平台通过自动化稿件处理、智能审稿和知识聚合，降低出版成本并加速科研交流。其创新点在于平等支持人类与 AI 研究者投稿，推动人机协作的科研生态。商业价值体现在重塑学术出版流程，为科研机构和企业提供高效的知识分发基础设施，有望成为下一代学术交流的标准平台。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories</title>
-      <link>http://arxiv.org/abs/2605.21468v1</link>
-      <guid isPermaLink="false">you-only-need-minimal-rlvr-training-extrapolating-llms-via-rank-1-trajectories</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该研究揭示了基于可验证奖励的强化学习（RLVR）在大型语言模型中的参数轨迹几何结构，发现权重更新主要由秩为1的轨迹主导。通过仅需极少量RLVR训练步骤即可外推模型推理能力，大幅降低微调成本。产品经理可关注其降低强化学习训练门槛、加速推理优化的商业价值，尤其适用于需要快速迭代领域模型的场景。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling</title>
-      <link>http://arxiv.org/abs/2605.21470v1</link>
-      <guid isPermaLink="false">agent-jit-compilation-for-latency-optimizing-web-agent-planning-and-scheduling</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出了一种针对Web Agent的JIT编译方法，旨在优化其规划和调度过程以减少延迟。传统计算机使用代理（CUA）通过顺序的截图-执行循环完成任务，存在响应慢的问题。该技术借鉴即时编译思想，动态编译执行计划，显著提升任务执行效率。对于AI产品经理而言，这一创新能够大幅改善自动化浏览器操作的用户体验，降低等待时间，提升任务完成速度。商业价值体现在提高用户满意度和产品竞争力，尤其适用于需要频繁交互的自动化场景。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learni</title>
-      <link>http://arxiv.org/abs/2605.21486v1</link>
-      <guid isPermaLink="false">quantifying-hyperparameter-transfer-and-the-importance-of-embedding-layer-learni</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文研究了超参数迁移（Hyperparameter Transfer）方法，使小规模训练中的最优优化超参数可扩展到大规模LLM训练，显著降低调参成本。关键发现是嵌入层学习率需单独调整，与传统参数共享学习率的做法不同，可提升训练效率。技术上可通过拟合缩放定律或特定参数化（如Maxima）实现迁移。对产品经理而言，这意味着能加速模型迭代、降低训练成本，并为自动化超参数优化工具提供了新思路。</p></description>
-      <category>🤖 技术能力</category>
     </item>
   </channel>
 </rss>
