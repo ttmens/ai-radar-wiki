@@ -1,0 +1,22 @@
+{
+  "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+  "score": 72,
+  "comments": 5,
+  "url": "https://arxiv.org/abs/2605.12460",
+  "hn_url": "https://news.ycombinator.com/item?id=48227923",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该论文提出多流LLM架构，通过并行化/分离提示、思考过程及输入输出流，提升模型响应效率与可控性。技术要点在于解耦不同处理阶段，允许并发计算，降低延迟。商业价值体现在支持更复杂、实时性要求高的应用场景，如多模态交互、实时决策支持。产品创新上，可设计为动态分配计算资源，优化用户体验。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Multi-Stream LLMs",
+    "Parallel Processing",
+    "Prompt/I/O Separation"
+  ],
+  "entities": [],
+  "patterns": [
+    "Parallel Execution Pattern",
+    "Streaming I/O Pattern"
+  ]
+}

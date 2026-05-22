@@ -1,7 +1,7 @@
 {
   "date": "2026-05-22",
-  "generated_at": "2026-05-22T06:05:15.259945+08:00",
-  "item_count": 20,
+  "generated_at": "2026-05-22T12:02:06.018307+08:00",
+  "item_count": 22,
   "items": [
     {
       "id": "throwing-ai-generated-walls-of-text-into-conversations",
@@ -180,6 +180,17 @@
       "date": "2026-05-22"
     },
     {
+      "id": "samsung-chip-workers-will-get-an-average-340k-bonus-as-ai-profits-soar",
+      "label": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+      "summary": "三星芯片部门员工因AI业务利润飙升，将获得平均约34万美元的巨额奖金。这主要得益于AI芯片（尤其是高带宽存储器HBM）需求爆发，带动三星半导体业绩大幅增长。对AI产品经理而言，该事件凸显了AI基础设施硬件（特别是存储芯片）的供需紧张和成本波动风险，可能影响AI模型训练和部署的预算规划。同时，芯片厂商的盈利能力和产能分配策略将直接左右AI产品的商业化节奏与供应链安全。",
+      "pm_score": 0.395,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48230892",
+      "date": "2026-05-22"
+    },
+    {
       "id": "show-hn-agentemail-sign-up-via-curl-claim-with-a-human-otp",
       "label": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
       "summary": "Agent.email 是一个创新产品，允许用户通过 curl 命令行注册，并采用人工 OTP（一次性密码）进行身份核验。这种模式结合了自动化注册与人工验证，特别适合 AI agent 场景下的安全确认需求，例如在自动化工作流中确保人类介入关键步骤。产品设计体现了从纯自动到人工干预的混合验证思路，既保留 CLI 的高效性，又通过人工 OTP 防止恶意注册。对 AI 产品经理而言，这一模式可启发 agent 交互中的安全、信任与验证环节设计，尤其在需要降低滥用风险时具有参考价值。",
@@ -188,6 +199,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48225596",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "multi-stream-llms-new-paper-on-parallelizingseparating-prompts-thinking-io",
+      "label": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+      "summary": "该论文提出多流LLM架构，通过并行化/分离提示、思考过程及输入输出流，提升模型响应效率与可控性。技术要点在于解耦不同处理阶段，允许并发计算，降低延迟。商业价值体现在支持更复杂、实时性要求高的应用场景，如多模态交互、实时决策支持。产品创新上，可设计为动态分配计算资源，优化用户体验。",
+      "pm_score": 0.38,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48227923",
       "date": "2026-05-22"
     },
     {
@@ -225,7 +247,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 760,
-    "edges": 37498
+    "real_nodes": 763,
+    "edges": 38262
   }
 }

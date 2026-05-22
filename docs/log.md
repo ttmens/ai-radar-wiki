@@ -862,3 +862,8 @@
 - create: spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes.md
 - create: six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore.md
 - create: trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-l.md
+
+## [2026-05-22 12:02] sync v3 | 3 new | pillars: {'patterns': 1, 'capabilities': 2}
+- create: samsung-chip-workers-will-get-an-average-340k-bonus-as-ai-profits-soar.md
+- create: multi-stream-llms-new-paper-on-parallelizingseparating-prompts-thinking-io.md
+- create: show-hn-i-made-a-claude-skill-for-spec-driven-development-sdd.md
