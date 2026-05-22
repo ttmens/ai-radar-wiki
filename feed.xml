@@ -5,13 +5,21 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 21 May 2026 20:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 00:07:20 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Throwing AI-generated walls of text into conversations</title>
+      <link>https://news.ycombinator.com/item?id=48219992</link>
+      <guid isPermaLink="false">throwing-ai-generated-walls-of-text-into-conversations</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>该标题探讨在对话中插入AI生成的大段文本（'walls of text'）的技术与产品挑战。从产品经理视角，核心痛点在于如何平衡长文本生成带来的信息丰富度与对话流畅性：过度依赖AI生成大段回复可能破坏自然交流节奏，导致用户认知负担加重。技术要点涉及长文本上下文管理、对话系统设计及生成内容的可控性；商业价值体现在提升信息传递效率（如客服场景快速提供解决方案）或内容创作辅助；产品创新方向包括分段思考、交互式展开、或智能摘要先行。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>AI is just unauthorised plagiarism at a bigger scale</title>
       <link>https://news.ycombinator.com/item?id=48222383</link>
@@ -35,6 +43,14 @@
       <pubDate>2026-05-22T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>Kong 是一款开源 API 和 AI 网关，支持传统 API 管理与 AI 模型路由、安全、可观测性等能力，帮助产品经理统一管理传统服务与 AI 推理端点，降低集成成本并提升系统灵活性。其商业价值在于为企业提供标准化、可扩展的网关层，加速 AI 能力的落地。产品创新体现在将 AI 网关功能（如模型路由、速率限制、多模型切换）无缝嵌入现有 API 基础设施中。</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Project Hail Mary – Stellar Navigation Chart</title>
+      <link>https://news.ycombinator.com/item?id=48225297</link>
+      <guid isPermaLink="false">project-hail-mary-stellar-navigation-chart</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容为Hacker News上关于“Project Hail Mary”的星际导航图表讨论，初步归为AI能力类。技术角度可能涉及强化学习或路径规划在太空探索中的应用，通过AI优化星际航行决策。商业价值体现在降低航天任务成本、提升自主导航可靠性。产品创新在于将大语言模型或推理引擎与天体力学模型结合，实现动态星图生成与实时避障。对于AI产品经理，可关注AI在极端环境下的鲁棒性设计与仿真训练方法。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Google's Antigravity Bait and Switch</title>
@@ -69,12 +85,28 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Six search engines worth trying now that Google isn’t really Google anymore</title>
+      <link>https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/</link>
+      <guid isPermaLink="false">six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>文章指出Google搜索即将因AI概述功能而显著改变，可能引起用户反感。针对AI产品经理，这揭示了AI集成搜索的用户体验风险：若AI摘要提供过多主动干预，可能破坏传统搜索的自主性。文中推荐的6个替代搜索引擎，各自以不同方式整合AI（如无AI的纯粹搜索、可控AI助手等），体现了产品创新方向：平衡AI辅助与用户控制权。商业价值在于，用户对AI疲劳可能催生新搜索市场机会。技术要点包括如何设计AI概述的触发机制、透明度与退出选项。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>Spotify launches an ElevenLabs-powered audiobook creation tool</title>
       <link>https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/</link>
       <guid isPermaLink="false">spotify-launches-an-elevenlabs-powered-audiobook-creation-tool</guid>
       <pubDate>2026-05-22T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Spotify宣布推出基于ElevenLabs AI语音合成技术的有声书创作工具，并计划在今年晚些时候发布新的有声书订阅计划。该工具使创作者能利用高质量AI语音快速将文本转化为有声书，降低制作成本与门槛。此举是Spotify在音频内容生态中深化AI能力的重要布局，旨在通过技术创新增强平台内容供给的多样性与效率，同时为独立作者和出版商提供新的变现渠道。该产品模式体现了AI能力与内容平台深度融合的趋势，有望推动有声书市场的进一步增长。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Spotify and Universal Music strike deal allowing fan-made AI covers and remixes</title>
+      <link>https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/</link>
+      <guid isPermaLink="false">spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Spotify与环球音乐集团达成合作，允许其高级订阅用户使用AI生成歌曲的翻唱和混音版本。该模式要求参与艺术家获得收入分成，将AI内容创作与版权方利益绑定。技术层面，AI模型需在合法授权框架内工作，确保不侵犯原始录音或词曲版权。商业价值在于开辟了AI音乐消费新场景，同时解决了版权分配难题，为平台增加差异化订阅功能。产品创新体现在将AI辅助创作工具嵌入现有流媒体服务，并通过分成机制激励艺术家参与。</p></description>
+      <category>💰 商业趋势</category>
     </item>
     <item>
       <title>The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therap</title>
@@ -101,6 +133,22 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>Trump delays AI security executive order: ‘I don’t want to get in the way of tha</title>
+      <link>https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/</link>
+      <guid isPermaLink="false">trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-l</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>特朗普推迟签署一项要求AI模型发布前进行政府安全审查的行政令，理由是对措辞不满。此举短期内降低了AI产品的合规压力，可能加速模型部署与创新，但长期政策不确定性增加。产品经理需关注监管动态对AI产品上市节奏、安全标准及国际竞争格局的影响，提前规划风险应对策略。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Show HN: Agent.email – sign up via curl, claim with a human OTP</title>
+      <link>https://news.ycombinator.com/item?id=48225596</link>
+      <guid isPermaLink="false">show-hn-agentemail-sign-up-via-curl-claim-with-a-human-otp</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Agent.email 是一个创新产品，允许用户通过 curl 命令行注册，并采用人工 OTP（一次性密码）进行身份核验。这种模式结合了自动化注册与人工验证，特别适合 AI agent 场景下的安全确认需求，例如在自动化工作流中确保人类介入关键步骤。产品设计体现了从纯自动到人工干预的混合验证思路，既保留 CLI 的高效性，又通过人工 OTP 防止恶意注册。对 AI 产品经理而言，这一模式可启发 agent 交互中的安全、信任与验证环节设计，尤其在需要降低滥用风险时具有参考价值。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>Show HN: Let agents run any analysis with Mixpanel data, no UI required</title>
       <link>https://docs.mixpanel.com/docs/mixpanel-headless</link>
       <guid isPermaLink="false">show-hn-let-agents-run-any-analysis-with-mixpanel-data-no-ui-required</guid>
@@ -109,11 +157,35 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team</title>
+      <link>https://news.ycombinator.com/item?id=48225040</link>
+      <guid isPermaLink="false">launch-hn-runtime-yc-p26-sandboxed-coding-agents-for-everyone-on-a-team</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Runtime (YC P26) 推出面向团队成员的沙盒化编码代理产品，允许团队中每个人在安全隔离环境中运行AI编码智能体。技术要点在于通过沙盒机制确保安全性，防止恶意代码或错误操作影响系统；商业价值在于降低AI代理的使用门槛和风险，使非技术成员也能安全地利用AI辅助编码；产品创新体现在将原本局限于个人的AI编码助手扩展为团队协作工具，强调包容性。该模式有望提升团队整体开发效率，同时保持企业级安全管控。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>With aluminum prices up 20%, recycling startups bet on AI to cash in</title>
       <link>https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/</link>
       <guid isPermaLink="false">with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in</guid>
       <pubDate>2026-05-22T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Using Kagi Search with Low Vision</title>
+      <link>https://news.ycombinator.com/item?id=48227860</link>
+      <guid isPermaLink="false">using-kagi-search-with-low-vision</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Kagi 搜索针对低视力用户优化，可能集成 AI 辅助功能如语音查询、高对比度界面和大字体支持，降低视觉门槛。其商业模式（付费无广告）与无障碍设计结合，拓展了差异化用户群。对 AI 产品经理而言，这体现了包容性设计在搜索产品中的实际应用，通过 AI 改善信息获取的公平性，同时保持搜索质量。核心创新在于将无障碍需求融入付费搜索体验，形成商业与社会价值的平衡。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Fender escalates legal campaign against S-style guitars</title>
+      <link>https://news.ycombinator.com/item?id=48189539</link>
+      <guid isPermaLink="false">fender-escalates-legal-campaign-against-s-style-guitars</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>Fender 正在加强对 S 型吉他外观的法律诉讼，但这与人工智能技术无关，缺乏产品经理所需的 AI 相关技术要点、商业价值或产品创新信息。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -339,78 +411,6 @@
       <pubDate>2026-05-21T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>OpenAI即将启动IPO，这一事件对AI产品经理具有重要商业启示。IPO将迫使OpenAI公开财务数据，可能推动其调整API定价策略、产品开放程度及企业级服务方向。产品经理需关注IPO后OpenAI如何平衡盈利与开发者生态，这直接影响下游AI产品的成本结构和商业模式。同时，IPO也可能加速OpenAI在垂直行业解决方案的布局，或催生更稳定的长期合同条款。对AI产品经理而言，这是观察行业标杆商业化的关键窗口。</p></description>
       <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for</title>
-      <link>http://arxiv.org/abs/2605.21475v1</link>
-      <guid isPermaLink="false">is-fixing-schema-graphs-necessary-full-resolution-graph-structure-learning-for-r</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文探讨了关系深度学习（RDL）中图结构学习的必要性，提出全分辨率图结构学习方法，无需手动修正数据库模式图即可端到端训练图神经网络。技术要点在于自动学习关系数据库中的高阶连接关系，提升预测准确性。商业价值：降低企业在关系数据建模中的人工成本，加速AI应用落地（如推荐系统、欺诈检测）。产品创新：实现了从原始关系表到最优图结构的自动化转换，减少对专家经验的依赖。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design v</title>
-      <link>http://arxiv.org/abs/2605.21485v1</link>
-      <guid isPermaLink="false">evostruct-bridging-evolutionary-and-structural-priors-for-antibody-cdr-design-vi</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>EvoStruct通过引入进化和结构先验，结合蛋白质语言模型微调，解决了基于等变图神经网络(GNN)的抗体CDR设计中存在的词汇坍塌问题（即过度预测少数氨基酸如酪氨酸和甘氨酸）。该方法在保持高序列恢复率的同时，显著提升了氨基酸预测的多样性，为抗体药物发现提供了更可靠、更具创新性的分子设计方案，有望加速抗体候选分子的生成和优化。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wiki</title>
-      <link>http://arxiv.org/abs/2605.21479v1</link>
-      <guid isPermaLink="false">wikivqabench-a-knowledge-grounded-visual-question-answering-benchmark-from-wikip</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>WikiVQABench 是一个新的知识驱动型视觉问答基准，它突破了传统 VQA 仅依赖图像内容的局限。该基准结合 Wikipedia 和 Wikidata 的外部知识，要求模型利用非图像中的结构化信息来回答复杂问题。对 AI 产品经理而言，这标志着多模态 AI 从单纯感知走向知识融合的关键一步——意味着未来产品可以构建更智能的问答系统、知识检索工具或智能助手，在医疗、教育、电商等场景中实现基于图像+外部知识的精准推理。同时，该基准为评估多模态大模型的真实知识推理能力提供了标准化测试集。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Intuit to lay off over 3k employees to refocus on AI</title>
-      <link>https://news.ycombinator.com/item?id=48216278</link>
-      <guid isPermaLink="false">intuit-to-lay-off-over-3k-employees-to-refocus-on-ai</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Intuit（旗下拥有TurboTax、QuickBooks等产品）宣布裁员超过3000人，旨在将资源重新聚焦于人工智能领域。此举表明该公司正大力投资AI技术，以自动化财务、税务等核心业务，提升产品智能化水平。对AI产品经理而言，这反映出传统金融软件公司加速AI转型的趋势，可能催生更高效的智能财务助手、自动化税务申报等创新功能。商业上，裁员虽短期带来成本优化，但长期依赖AI有望降低运营成本并增强竞争力。这一战略调整警示产品经理需关注AI对岗位替代与业务重构的深远影响。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Formal Verification Gates for AI Coding Loops</title>
-      <link>https://news.ycombinator.com/item?id=48209323</link>
-      <guid isPermaLink="false">formal-verification-gates-for-ai-coding-loops</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了在AI编码循环中引入形式化验证关卡（Formal Verification Gates）的概念。形式化验证通过数学方法确保代码正确性，将其嵌入AI编码循环（如代码生成、测试、修复）中，可以实现对AI生成代码的实时验证，防止错误扩散。对于AI产品经理，这能显著提升代码可靠性，降低调试成本，尤其在金融、医疗等高风险场景具有重要商业价值。产品创新点在于将验证作为开发流程的强制节点，而非事后补救，从而加速安全、可信的AI编码工具落地。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Testing distributed systems with AI agents</title>
-      <link>https://news.ycombinator.com/item?id=48208685</link>
-      <guid isPermaLink="false">testing-distributed-systems-with-ai-agents</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了利用AI智能体（AI agents）进行分布式系统测试的创新方法。传统测试工具难以应对分布式系统的复杂性和不可预测性，而AI代理可以自主探索、模拟故障场景、发现隐藏问题，并生成测试报告。这种模式不仅提升了测试覆盖率，还减少了人工编写测试用例的成本，尤其适用于微服务、云原生架构等场景。产品经理可借此思路考虑将AI测试代理集成到CI/CD流程中，实现持续测试自动化，缩短发布周期，同时通过智能故障注入提升系统韧性。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Startup Battlefield 200 applications close in 1 week: Window to nominate and app</title>
-      <link>https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/</link>
-      <guid isPermaLink="false">startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-appl</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>TechCrunch 的 Startup Battlefield 200 创业大赛申请截止日期为 5 月 27 日，面向早期 AI 创业公司。入选者可在 TechCrunch Disrupt 大会上进行路演，获得投资人关注，并有机会赢得 10 万美元奖金及其他规模化资源。对 AI 产品经理而言，这是获取前沿创业动态、发现潜在合作或投资标的的窗口，但内容本身不涉及具体技术或产品创新。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Nobel laureate Olga Tokarczuk apparently used AI to write her latest novel</title>
-      <link>https://news.ycombinator.com/item?id=48209112</link>
-      <guid isPermaLink="false">nobel-laureate-olga-tokarczuk-apparently-used-ai-to-write-her-latest-novel</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>诺贝尔文学奖得主奥尔加·托卡尔丘克被曝使用AI辅助创作其最新小说，展示了大型语言模型在高端文学写作中的实际应用。这一事件对AI产品经理的启示在于：生成式AI已从简单文案生成演进为能与顶尖创作者深度协作的创作伙伴，提升了创意产出效率。商业价值上，AI写作工具可切入专业创作市场，提供个性化风格迁移、情节生成等功能；产品创新角度，需关注人机协作的交互设计、AI生成内容的版权归属及原创性界定。该案例也验证了AI从“工具”向“协作者”转变的趋势。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Startup Battlefield 200 applications close in one week: Window to nominate and a</title>
-      <link>https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/</link>
-      <guid isPermaLink="false">startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-ap</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>TechCrunch举办的Startup Battlefield 200申请将于5月27日截止。该竞赛面向早期初创公司，入选者将在TechCrunch Disrupt大会上进行路演，获得投资人对接机会，有机会赢得10万美元奖金及规模化拓展福利。对于AI产品经理而言，这是获取行业曝光、加速产品商业化的重要窗口。活动本身虽不限定AI领域，但AI初创公司可借此验证产品市场契合度、对接潜在客户和资本，尤其适合处于早期融资阶段的AI产品团队。申请入口已开放，可直接报名或提名其他创始人。</p></description>
-      <category>🔧 工具生态</category>
     </item>
   </channel>
 </rss>
