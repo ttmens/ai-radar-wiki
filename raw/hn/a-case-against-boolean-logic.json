@@ -1,0 +1,20 @@
+{
+  "title": "A case against Boolean logic",
+  "score": 48,
+  "comments": 67,
+  "url": "https://abuseofnotation.github.io/boolean-thinking/",
+  "hn_url": "https://news.ycombinator.com/item?id=48234128",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "本文质疑了布尔逻辑在AI系统中的局限性，指出其严格的true/false二元判断无法处理模糊、不确定的语义，尤其在信息检索和推理任务中可能导致结果不准确。对于AI产品经理而言，这意味着依赖纯布尔逻辑的搜索或决策引擎需要结合向量嵌入、语义搜索等更灵活的方法，以提升用户体验和产品智能度。文章可能探讨了混合搜索或神经符号学习的模式，启发产品设计转向更人性化的交互方式。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Boolean Logic",
+    "Semantic Search"
+  ],
+  "entities": [],
+  "patterns": [
+    "Semantic Search Pattern"
+  ]
+}

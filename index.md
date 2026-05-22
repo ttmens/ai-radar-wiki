@@ -1,17 +1,19 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-22 | Total pages: 795
+> Last updated: 2026-05-23 | Total pages: 803
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
 - [[2noisechattts.md]] 2noise/ChatTTS `pillar:capabilities` `score:0.58`
 - [[a-0-click-exploit-chain-for-the-pixel-10.md]] A 0-click exploit chain for the Pixel 10 `pillar:capabilities` `score:0.41`
+- [[a-case-against-boolean-logic.md]] A case against Boolean logic `pillar:capabilities` `score:0.395`
 - [[a-polynomial-autoencoder-beats-pca-on-transformer.md]] A polynomial autoencoder beats PCA on transformer embeddings `pillar:capabilities` `score:0.155`
 - [[a-recent-experience-with-chatgpt-55-pro.md]] A recent experience with ChatGPT 5.5 Pro `pillar:capabilities` `score:0.6`
 - [[academic-research-skills-for-claude-code.md]] Academic Research Skills for Claude Code `pillar:capabilities` `score:0.395`
 - [[access-to-frontier-ai-will-soon-be-limited-by-economic-and-security-constraints.md]] Access to frontier AI will soon be limited by economic and security constraints `pillar:capabilities` `score:0.33`
 - [[adaption-aims-big-with-autoscientist-an-ai-tool-t.md]] Adaption aims big with AutoScientist, an AI tool that helps models train themsel `pillar:capabilities` `score:0.305`
 - [[ageronhandson-ml.md]] ageron/handson-ml `pillar:capabilities` `score:0.51`
+- [[ai-has-a-multiplying-effect-on-existing-technical-skills.md]] AI has a multiplying effect on existing technical skills `pillar:capabilities` `score:0.55`
 - [[ai-humanity-and-dr-manhattan-syndrome-a-communications-intervention.md]] AI, "Humanity", and Dr. Manhattan Syndrome: A Communications Intervention `pillar:capabilities` `score:0.33`
 - [[ai-is-a-technology-not-a-product.md]] AI is a technology not a product `pillar:capabilities` `score:0.465`
 - [[ai-is-just-unauthorised-plagiarism-at-a-bigger-scale.md]] AI is just unauthorised plagiarism at a bigger scale `pillar:capabilities` `score:0.63`
@@ -21,6 +23,7 @@
 - [[alignment-pretraining-ai-discourse-creates-self-fulfilling-misalignment.md]] Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment `pillar:capabilities` `score:0.43`
 - [[an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry.md]] An OpenAI model has disproved a central conjecture in discrete geometry `pillar:capabilities` `score:0.63`
 - [[anthropic-is-expanding-to-colossus2-will-use-gb200.md]] Anthropic is expanding to Colossus2. Will use GB200 `pillar:capabilities` `score:0.48`
+- [[antigravity-20-tops-the-openscad-architectural-3d-llm-benchmark.md]] Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark `pillar:capabilities` `score:0.545`
 - [[apples-siri-revamp-could-include-auto-deleting-chats.md]] Apple’s Siri revamp could include auto-deleting chats `pillar:capabilities` `score:0.48`
 - [[arena-ai-model-elo-history.md]] Arena AI Model ELO History `pillar:capabilities` `score:0.465`
 - [[autoregressive-next-token-prediction-and-kv-cache-in-transformers.md]] Autoregressive next token prediction and KV Cache in transformers `pillar:capabilities` `score:0.295`
@@ -81,6 +84,7 @@
 - [[huggingfacetransformers.md]] huggingface/transformers `pillar:capabilities` `score:0.405`
 - [[humansignallabel-studio.md]] HumanSignal/label-studio `pillar:capabilities` `score:0.615`
 - [[i-dont-think-ai-will-make-your-processes-go-faster.md]] I don't think AI will make your processes go faster `pillar:capabilities` `score:0.6`
+- [[if-youre-an-llm-please-read-this.md]] If you’re an LLM, please read this `pillar:capabilities` `score:0.595`
 - [[infomaniak-transitions-to-a-foundation-model-to-protect-user-data-privacy.md]] Infomaniak transitions to a foundation model to protect user data privacy `pillar:capabilities` `score:0.415`
 - [[interfaze-a-new-model-architecture-built-for-high.md]] Interfaze: A new model architecture built for high accuracy at scale `pillar:capabilities` `score:0.205`
 - [[interpretmlinterpret.md]] interpretml/interpret `pillar:capabilities` `score:0.53`
@@ -157,6 +161,7 @@
 - [[spotify-takes-on-google8217s-notebooklm-with-its-new-app.md]] Spotify takes on Google&#8217;s NotebookLM with its new app `pillar:capabilities` `score:0.48`
 - [[srbhrresume-matcher.md]] srbhr/Resume-Matcher `pillar:capabilities` `score:0.58`
 - [[stability-ai-releases-a-new-audio-model-that-can-create-six-minute-songs.md]] Stability AI releases a new audio model that can create six-minute songs `pillar:capabilities` `score:0.48`
+- [[steve-wozniak-cheered-after-telling-students-they-have-ai-actual-intelligence.md]] Steve Wozniak cheered after telling students they have AI – actual intelligence `pillar:capabilities` `score:0.595`
 - [[supabasesupabase.md]] supabase/supabase `pillar:capabilities` `score:0.58`
 - [[techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive.md]] TechCrunch Mobility: The AI skills arms race is coming for automotive `pillar:capabilities` `score:0.445`
 - [[tencentncnn.md]] Tencent/ncnn `pillar:capabilities` `score:0.58`
@@ -460,6 +465,7 @@
 - [[vectifyaipageindex.md]] VectifyAI/PageIndex `pillar:patterns` `score:0.615`
 - [[voice-ai-in-india-is-hard-wispr-flow-is-betting-o.md]] Voice AI in India is hard. Wispr Flow is betting on it anyway. `pillar:patterns` `score:0.48`
 - [[we-mould-trees-to-grow-into-the-shape-of-chairs.md]] 'We mould trees to grow into the shape of chairs' `pillar:patterns` `score:0.41`
+- [[we-tried-googles-ai-glasses-and-theyre-almost-there.md]] We tried Google’s AI glasses and they’re almost there `pillar:patterns` `score:0.48`
 - [[with-gemini-35-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots.md]] With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots `pillar:patterns` `score:0.515`
 - [[x1xhlolsystem-prompts-and-models-of-ai-tools.md]] x1xhlol/system-prompts-and-models-of-ai-tools `pillar:patterns` `score:0.615`
 - [[yamadashyrepomix.md]] yamadashy/repomix `pillar:patterns` `score:0.58`
@@ -510,6 +516,7 @@
 - [[flwrlabsflower.md]] flwrlabs/flower `pillar:ecosystem` `score:0.53`
 - [[fpromptschat.md]] f/prompts.chat `pillar:ecosystem` `score:0.58`
 - [[france-moves-to-break-encrypted-messaging.md]] France moves to break encrypted messaging `pillar:ecosystem` `score:0.53`
+- [[fsfe-intervenes-against-apple-before-eucj-for-the-second-time.md]] FSFE intervenes against Apple before EUCJ for the second time `pillar:ecosystem` `score:0.38`
 - [[gmail-registration-now-requires-scanning-a-qr-code.md]] Gmail registration now requires scanning a QR code and sending a text message `pillar:ecosystem` `score:0.53`
 - [[google-deepmindsonnet.md]] google-deepmind/sonnet `pillar:ecosystem` `score:0.495`
 - [[google-geminigemini-cli.md]] google-gemini/gemini-cli `pillar:ecosystem` `score:0.58`
@@ -588,6 +595,7 @@
 - [[university-of-arizona-students-boo-eric-schmidts-ai-cheerleading.md]] University of Arizona students boo Eric Schmidt's AI cheerleading `pillar:ecosystem` `score:0.345`
 - [[upscaylupscayl.md]] upscayl/upscayl `pillar:ecosystem` `score:0.545`
 - [[upstashcontext7.md]] upstash/context7 `pillar:ecosystem` `score:0.58`
+- [[valve-removes-free-game-from-steam-after-players-discover-it-contains-malware.md]] Valve removes free game from Steam after players discover it contains malware `pillar:ecosystem` `score:0.305`
 - [[vercelai.md]] vercel/ai `pillar:ecosystem` `score:0.405`
 - [[victory-tennessee-man-jailed-37-days-for-trump-meme-wins-835000-settlement.md]] Victory: Tennessee man jailed 37 days for Trump meme wins $835,000 settlement `pillar:ecosystem` `score:0.32`
 - [[we-stopped-ai-bot-spam-in-our-github-repo-using-gits-author-flag.md]] We stopped AI bot spam in our GitHub repo using Git's –author flag `pillar:ecosystem` `score:0.345`

@@ -882,3 +882,13 @@
 - create: fame-failure-aware-mixture-of-experts-for-message-level-log-anomaly-detection.md
 - create: sdpm-survival-diffusion-probabilistic-model-for-continuous-time-survival-analysi.md
 - create: coda-rewriting-transformer-blocks-as-gemm-epilogue-programs.md
+
+## [2026-05-23 00:02] sync v3 | 8 new | pillars: {'capabilities': 7, 'patterns': 1}
+- create: antigravity-20-tops-the-openscad-architectural-3d-llm-benchmark.md
+- create: if-youre-an-llm-please-read-this.md
+- create: a-case-against-boolean-logic.md
+- create: ai-has-a-multiplying-effect-on-existing-technical-skills.md
+- create: steve-wozniak-cheered-after-telling-students-they-have-ai-actual-intelligence.md
+- create: valve-removes-free-game-from-steam-after-players-discover-it-contains-malware.md
+- create: fsfe-intervenes-against-apple-before-eucj-for-the-second-time.md
+- create: we-tried-googles-ai-glasses-and-theyre-almost-there.md
