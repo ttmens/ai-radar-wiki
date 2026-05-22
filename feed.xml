@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 22 May 2026 00:07:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 04:03:10 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -141,12 +141,28 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>Samsung chip workers will get an average $340k bonus as AI profits soar</title>
+      <link>https://news.ycombinator.com/item?id=48230892</link>
+      <guid isPermaLink="false">samsung-chip-workers-will-get-an-average-340k-bonus-as-ai-profits-soar</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>三星芯片部门员工因AI业务利润飙升，将获得平均约34万美元的巨额奖金。这主要得益于AI芯片（尤其是高带宽存储器HBM）需求爆发，带动三星半导体业绩大幅增长。对AI产品经理而言，该事件凸显了AI基础设施硬件（特别是存储芯片）的供需紧张和成本波动风险，可能影响AI模型训练和部署的预算规划。同时，芯片厂商的盈利能力和产能分配策略将直接左右AI产品的商业化节奏与供应链安全。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>Show HN: Agent.email – sign up via curl, claim with a human OTP</title>
       <link>https://news.ycombinator.com/item?id=48225596</link>
       <guid isPermaLink="false">show-hn-agentemail-sign-up-via-curl-claim-with-a-human-otp</guid>
       <pubDate>2026-05-22T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Agent.email 是一个创新产品，允许用户通过 curl 命令行注册，并采用人工 OTP（一次性密码）进行身份核验。这种模式结合了自动化注册与人工验证，特别适合 AI agent 场景下的安全确认需求，例如在自动化工作流中确保人类介入关键步骤。产品设计体现了从纯自动到人工干预的混合验证思路，既保留 CLI 的高效性，又通过人工 OTP 防止恶意注册。对 AI 产品经理而言，这一模式可启发 agent 交互中的安全、信任与验证环节设计，尤其在需要降低滥用风险时具有参考价值。</p></description>
       <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O</title>
+      <link>https://news.ycombinator.com/item?id=48227923</link>
+      <guid isPermaLink="false">multi-stream-llms-new-paper-on-parallelizingseparating-prompts-thinking-io</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该论文提出多流LLM架构，通过并行化/分离提示、思考过程及输入输出流，提升模型响应效率与可控性。技术要点在于解耦不同处理阶段，允许并发计算，降低延迟。商业价值体现在支持更复杂、实时性要求高的应用场景，如多模态交互、实时决策支持。产品创新上，可设计为动态分配计算资源，优化用户体验。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Show HN: Let agents run any analysis with Mixpanel data, no UI required</title>
@@ -170,6 +186,14 @@
       <guid isPermaLink="false">with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in</guid>
       <pubDate>2026-05-22T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: I Made a Claude Skill for Spec-Driven Development (SDD)</title>
+      <link>https://github.com/FredAntB/Spec-Driven-Development</link>
+      <guid isPermaLink="false">show-hn-i-made-a-claude-skill-for-spec-driven-development-sdd</guid>
+      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该项目为Claude开发了一款支持规格驱动开发（SDD）的技能，使AI能够根据规格说明书自动生成代码或逻辑。SDD强调先定义明确规范再编码，结合Claude的自然语言理解能力，可显著提升开发效率与代码质量。对于AI产品经理，此技能展示了将结构化开发方法论与LLM结合的产品创新，吸引开发者用户并降低开发门槛，具有潜在商业价值。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -387,30 +411,6 @@
       <pubDate>2026-05-21T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文研究了超参数迁移（Hyperparameter Transfer）方法，使小规模训练中的最优优化超参数可扩展到大规模LLM训练，显著降低调参成本。关键发现是嵌入层学习率需单独调整，与传统参数共享学习率的做法不同，可提升训练效率。技术上可通过拟合缩放定律或特定参数化（如Maxima）实现迁移。对产品经理而言，这意味着能加速模型迭代、降低训练成本，并为自动化超参数优化工具提供了新思路。</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Variance Reduction for Expectations with Diffusion Teachers</title>
-      <link>http://arxiv.org/abs/2605.21489v1</link>
-      <guid isPermaLink="false">variance-reduction-for-expectations-with-diffusion-teachers</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本论文针对扩散模型作为教师模型在下游任务（如文本到3D、单步蒸馏和数据归因）中提供梯度时，蒙特卡洛期望估计存在高方差的问题，提出了一种方差缩减方法。通过优化噪声水平和高斯噪声样本的采样策略，降低了梯度估计的方差，从而提升训练稳定性和效率。该技术有助于减少计算资源消耗，加快模型迭代，对依赖扩散模型的多模态生成产品有直接价值。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence</title>
-      <link>http://arxiv.org/abs/2605.21482v1</link>
-      <guid isPermaLink="false">deepweb-bench-a-deep-research-benchmark-demanding-massive-cross-source-evidence</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>DeepWeb-Bench 是一个新型基准测试，专门评估AI在开放网络上进行深度研究的能力，要求代理跨多个来源收集证据并进行长时间推理。该基准旨在解决现有测试难以区分前沿模型能力的痛点，对AI搜索和研究类产品的性能评估具有重要意义。它通过复杂的跨来源证据整合和长链条推导任务，揭示了当前模型在深度推理与信息综合方面的局限，为产品优化提供了明确方向。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>OpenAI Is Preparing to File for an IPO Soon</title>
-      <link>https://news.ycombinator.com/item?id=48210226</link>
-      <guid isPermaLink="false">openai-is-preparing-to-file-for-an-ipo-soon</guid>
-      <pubDate>2026-05-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>OpenAI即将启动IPO，这一事件对AI产品经理具有重要商业启示。IPO将迫使OpenAI公开财务数据，可能推动其调整API定价策略、产品开放程度及企业级服务方向。产品经理需关注IPO后OpenAI如何平衡盈利与开发者生态，这直接影响下游AI产品的成本结构和商业模式。同时，IPO也可能加速OpenAI在垂直行业解决方案的布局，或催生更稳定的长期合同条款。对AI产品经理而言，这是观察行业标杆商业化的关键窗口。</p></description>
-      <category>💰 商业趋势</category>
     </item>
   </channel>
 </rss>
