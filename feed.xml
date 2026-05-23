@@ -5,13 +5,37 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 23 May 2026 12:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 16:02:01 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Ferrari is using IBM&amp;#8217;s AI to create F1 superfans</title>
+      <link>https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/</link>
+      <guid isPermaLink="false">ferrari-is-using-ibm8217s-ai-to-create-f1-superfans</guid>
+      <pubDate>2026-05-24T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>法拉利与IBM合作，利用IBM的AI技术打造一级方程式超级粉丝体验。通过数据分析和个性化内容生成，AI能够实时分析比赛数据、车手表现及观众偏好，为粉丝提供定制化多视角直播、互动预测和赛后回顾。该合作旨在提升粉丝参与度与忠诚度，同时为法拉利车队提供新的商业变现模式。技术要点包括IBM Watson的机器学习与自然语言处理能力，产品创新体现在将AI融入观赛全流程，实现从被动观看到主动交互的转变。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Elon Musk has given up on solar power (on Earth)</title>
+      <link>https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/</link>
+      <guid isPermaLink="false">elon-musk-has-given-up-on-solar-power-on-earth</guid>
+      <pubDate>2026-05-24T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Elon Musk的xAI放弃太阳能承诺，转向天然气为AI训练供电，同时SpaceX专注轨道数据中心。这揭示了AI算力扩张对稳定、低成本能源的迫切需求，以及传统可再生能源在规模化部署中的局限性。对AI产品经理而言，能源策略直接影响模型训练成本、数据中心选址及可持续性承诺，可能催生新型能源合同（如天然气直供）或边缘计算方案（如轨道数据中心）以降低延迟和能耗。商业价值在于重新评估AI基础设施的能源架构，从“绿色承诺”转向务实效率优先。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Making Deep Learning Go Brrrr from First Principles</title>
+      <link>https://news.ycombinator.com/item?id=48246889</link>
+      <guid isPermaLink="false">making-deep-learning-go-brrrr-from-first-principles</guid>
+      <pubDate>2026-05-24T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文从第一性原理探讨深度学习加速的核心方法，涵盖算法优化、硬件适配与训练效率提升。技术要点包括通过数学重参数化、计算图优化和内存管理实现模型加速，商业价值在于降低算力成本与能耗，并支持更复杂的AI应用落地。产品创新角度强调从底层原理出发，而非依赖黑盒加速库，为构建高效AI系统提供新思路。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>RasaHQ/rasa</title>
       <link>https://github.com/RasaHQ/rasa</link>
@@ -386,30 +410,6 @@
       <guid isPermaLink="false">finite-particle-convergence-rates-for-conservative-and-non-conservative-drifting</guid>
       <pubDate>2026-05-22T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出了一种针对单步生成模型的保守漂移方法，通过核密度估计（KDE）梯度速度替代传统位移漂移，显著提升了有限粒子收敛速率。该方法在保持分布保守性的同时，也适用于非保守场景，理论证明其收敛性更强。技术要点在于利用KDE平滑数据评分与模型评分之差，实现更稳定的粒子演化。商业价值上，该方法可降低生成模型训练的计算成本，加快高质量图像、文本等内容的生成速度。产品创新点在于单步生成范式与保守性结合，为实时生成应用（如AI助手、内容创作）提供高效解决方案。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Vector Policy Optimization: Training for Diversity Improves Test-Time Search</title>
-      <link>http://arxiv.org/abs/2605.22817v1</link>
-      <guid isPermaLink="false">vector-policy-optimization-training-for-diversity-improves-test-time-search</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出向量策略优化（Vector Policy Optimization），通过训练语言模型的策略多样性来提升其在推理时搜索（如AlphaEvolve）中的泛化能力，使其能适应多种任务特定的奖励函数选择。该方法突破了标准后训练只优化单一预定义奖励的局限，有望在代码生成、规划等复杂场景中，以更低微调成本获得更强推理性能，为产品端集成搜索增强型LLM提供新路径。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>SDPM: Survival Diffusion Probabilistic Model for Continuous-Time Survival Analys</title>
-      <link>http://arxiv.org/abs/2605.22776v1</link>
-      <guid isPermaLink="false">sdpm-survival-diffusion-probabilistic-model-for-continuous-time-survival-analysi</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>SDPM（生存扩散概率模型）提出一种基于扩散概率模型的新方法，用于连续时间生存分析。传统方法通常对风险函数强加结构假设或离散化时间轴，导致灵活性和近似误差。SDPM通过扩散过程直接建模连续时间下的生存分布，无需离散化或强假设，能够更灵活准确地从删失数据中估计时间到事件分布。该方法在医疗、保险、客户流失预测等场景具有商业价值，可提升预测精度和鲁棒性。作为一种创新性的概率生成模型，SDPM扩展了AI在时序生存建模中的应用边界。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Tokenisation via Convex Relaxations</title>
-      <link>http://arxiv.org/abs/2605.22821v1</link>
-      <guid isPermaLink="false">tokenisation-via-convex-relaxations</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出了一种基于凸松弛（Convex Relaxation）的 tokenization 新方法，将词汇表构建转化为线性规划问题，以替代当前 BPE 和 Unigram 等贪心算法。贪心算法只做局部最优选择，而新方法能从全局角度优化词汇表，提升下游 NLP 模型的一致性。对于 AI 产品经理而言，更高质量的 tokenization 意味着模型对文本的理解更准确、更稳定，可能带来可量化的效果提升（如翻译、摘要等任务）。虽然目前仍是理论方法，但一旦落地，有望以较低成本改善现有 NLP 产品的基座能力，具备潜在的产品创新价值。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
