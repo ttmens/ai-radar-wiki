@@ -916,3 +916,8 @@
 
 ## [2026-05-23 18:04] sync v3 | 1 new | pillars: {'capabilities': 1}
 - create: neutron-scattering-explains-why-gluten-free-pasta-falls-apart-2025.md
+
+## [2026-05-24 00:01] sync v3 | 3 new | pillars: {'capabilities': 3}
+- create: making-deep-learning-go-brrrr-from-first-principles.md
+- create: ferrari-is-using-ibm8217s-ai-to-create-f1-superfans.md
+- create: elon-musk-has-given-up-on-solar-power-on-earth.md

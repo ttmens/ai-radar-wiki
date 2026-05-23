@@ -1,0 +1,20 @@
+{
+  "title": "Making Deep Learning Go Brrrr from First Principles",
+  "score": 73,
+  "comments": 28,
+  "url": "https://horace.io/brrr_intro.html",
+  "hn_url": "https://news.ycombinator.com/item?id=48246889",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "本文从第一性原理探讨深度学习加速的核心方法，涵盖算法优化、硬件适配与训练效率提升。技术要点包括通过数学重参数化、计算图优化和内存管理实现模型加速，商业价值在于降低算力成本与能耗，并支持更复杂的AI应用落地。产品创新角度强调从底层原理出发，而非依赖黑盒加速库，为构建高效AI系统提供新思路。",
+  "pm_relevance": 8,
+  "concepts": [
+    "深度学习优化",
+    "第一性原理"
+  ],
+  "entities": [],
+  "patterns": [
+    "Efficient Deep Learning"
+  ]
+}

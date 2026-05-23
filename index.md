@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-23 | Total pages: 821
+> Last updated: 2026-05-24 | Total pages: 824
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -108,6 +108,7 @@
 - [[lucidrainsvit-pytorch.md]] lucidrains/vit-pytorch `pillar:capabilities` `score:0.615`
 - [[macbook-neo-deep-dive-benchmarks-wafer-economics.md]] MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble `pillar:capabilities` `score:0.53`
 - [[magical-realism-northern-exposure-25-years-later-2015.md]] Magical Realism: “Northern Exposure” 25 Years Later (2015) `pillar:capabilities` `score:0.085`
+- [[making-deep-learning-go-brrrr-from-first-principles.md]] Making Deep Learning Go Brrrr from First Principles `pillar:capabilities` `score:0.43`
 - [[making-llm-training-faster-with-unsloth-and-nvidia.md]] Making LLM Training Faster with Unsloth and NVIDIA `pillar:capabilities` `score:0.155`
 - [[marimo-teammarimo.md]] marimo-team/marimo `pillar:capabilities` `score:0.58`
 - [[microsoftonnxruntime.md]] microsoft/onnxruntime `pillar:capabilities` `score:0.615`
@@ -377,6 +378,7 @@
 - [[ethos-raises-2275m-from-a16z-for-its-expert-netw.md]] Ethos raises $22.75M from a16z for its expert network with voice onboarding `pillar:patterns` `score:0.3`
 - [[everything-google-announced-at-its-android-show-f.md]] Everything Google announced at its Android Show, from Googlebooks to vibe-coded `pillar:patterns` `score:0.305`
 - [[feder-crjobs_applier_ai_agent_aihawk.md]] feder-cr/Jobs_Applier_AI_Agent_AIHawk `pillar:patterns` `score:0.58`
+- [[ferrari-is-using-ibm8217s-ai-to-create-f1-superfans.md]] Ferrari is using IBM&#8217;s AI to create F1 superfans `pillar:patterns` `score:0.445`
 - [[figma-adds-an-ai-assistant-to-its-collaborative-canvas.md]] Figma adds an AI assistant to its collaborative canvas `pillar:patterns` `score:0.48`
 - [[fincept-corporationfinceptterminal.md]] Fincept-Corporation/FinceptTerminal `pillar:patterns` `score:0.58`
 - [[firecrawlfirecrawl.md]] firecrawl/firecrawl `pillar:patterns` `score:0.405`
@@ -666,6 +668,7 @@
 - [[di-sukharevopencommit.md]] di-sukharev/opencommit `pillar:business` `score:0.355`
 - [[dyad-shdyad.md]] dyad-sh/dyad `pillar:business` `score:0.405`
 - [[elon-musk-can8217t-hear-you-over-the-sound-of-his-175-trillion-ipo.md]] Elon Musk can&#8217;t hear you over the sound of his $1.75 trillion IPO `pillar:business` `score:0.41`
+- [[elon-musk-has-given-up-on-solar-power-on-earth.md]] Elon Musk has given up on solar power (on Earth) `pillar:business` `score:0.445`
 - [[elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai.md]] Elon Musk has lost his lawsuit against Sam Altman and OpenAI `pillar:business` `score:0.61`
 - [[elon-musk-said-sam-altman-8220stole8221-a-non-profit-but-the-trial-showed-he-had.md]] Elon Musk said Sam Altman &#8220;stole&#8221; a non-profit — but the trial showe `pillar:business` `score:0.375`
 - [[elon-musk8217s-spacexai-has-been-bleeding-staff-since-its-merger.md]] Elon Musk&#8217;s SpaceXAI has been bleeding staff since its merger `pillar:business` `score:0.41`

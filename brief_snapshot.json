@@ -1,264 +1,44 @@
 {
-  "date": "2026-05-23",
-  "generated_at": "2026-05-23T18:04:01.651361+08:00",
-  "item_count": 23,
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T00:01:15.675166+08:00",
+  "item_count": 3,
   "items": [
     {
-      "id": "rasahqrasa",
-      "label": "RasaHQ/rasa",
-      "summary": "Rasa是一个开源机器学习框架，专注于构建文本和语音对话系统，提供自然语言理解（NLU）与对话管理两大核心模块，支持Slack、Facebook等多平台集成。其技术要点在于采用端到端的数据驱动方法，使开发者能够自定义意图识别、实体提取和对话流程，并支持在线学习和持续改进。商业价值体现在降低企业构建智能客服和语音助手的成本，避免依赖单一云服务商，实现本地化部署和数据隐私控制。产品创新在于将NLU和对话管理解耦又协同，提供灵活的中间件和策略训练，适合需要高度定制化对话体验的场景。",
-      "pm_score": 0.615,
-      "pillar": "patterns",
-      "type": "github",
-      "source_type": "github",
-      "url": "https://github.com/RasaHQ/rasa",
-      "date": "2026-05-23"
-    },
-    {
-      "id": "if-youre-an-llm-please-read-this",
-      "label": "If you’re an LLM, please read this",
-      "summary": "该内容可能涉及LLM自我改进或提示策略，强调模型对特定指令的响应机制。对于AI产品经理，理解LLM如何解析和遵循复杂指令是关键，可优化交互设计和产品功能，提升用户意图识别准确率。技术要点包括上下文理解、指令遵循能力，商业价值体现在降低任务失败率和提升体验，产品创新可探索自适应对话框架。",
-      "pm_score": 0.595,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48234413",
-      "date": "2026-05-23"
-    },
-    {
-      "id": "steve-wozniak-cheered-after-telling-students-they-have-ai-actual-intelligence",
-      "label": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
-      "summary": "苹果联合创始人史蒂夫·沃兹尼亚克在演讲中鼓励学生，强调他们拥有真正的智能（Actual Intelligence, AI），而非仅仅依赖人工智能。这一观点对AI产品经理具有警示意义：在追求AI能力提升时，不应忽视人类自身的创造力和判断力。产品创新应注重人机协作，设计以人为中心的AI系统，避免过度自动化导致用户能力退化。商业价值在于平衡AI自动化与人类参与，提升用户体验和决策质量。技术要点是重新定义AI在产品中的角色：辅助而非替代。",
-      "pm_score": 0.595,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48233563",
-      "date": "2026-05-23"
-    },
-    {
-      "id": "open-source-kanban-desktop-app-that-runs-parallel-agents-on-every-card",
-      "label": "Open source Kanban desktop app that runs parallel agents on every card",
-      "summary": "这是一款开源看板桌面应用，创新地在每张任务卡片上集成并行AI代理。每个代理可独立执行自动化操作（如数据检索、生成报告、代码审查等），实现任务级智能并行处理。产品降低了项目管理中引入AI的门槛，团队无需复杂配置即可通过看板驱动多个AI协同工作。其商业价值在于提升团队效率、支持自动化工作流，尤其适合敏捷开发和知识密集型任务。开源特性有利于定制和生态扩展。",
-      "pm_score": 0.565,
-      "pillar": "patterns",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48239413",
-      "date": "2026-05-23"
-    },
-    {
-      "id": "is-ai-profitable-yet",
-      "label": "Is AI Profitable Yet?",
-      "summary": "文章探讨AI领域当前能否盈利的问题，分析AI产品在商业化落地中的实际收益与成本，包括技术投入、市场需求、竞争格局等因素。对于AI产品经理而言，理解盈利能力是评估产品方向、资源分配和商业模式的关键。文章可能涉及企业级AI应用、消费者端AI服务的变现策略，以及不同公司（如OpenAI、Anthropic）的盈利现状对比。核心观点是盈利取决于应用场景的深度和价值创造，而非单纯的技术领先。",
-      "pm_score": 0.55,
-      "pillar": "business",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48243863",
-      "date": "2026-05-23"
-    },
-    {
-      "id": "ai-has-a-multiplying-effect-on-existing-technical-skills",
-      "label": "AI has a multiplying effect on existing technical skills",
-      "summary": "AI对现有技术技能具有倍增效应，能够放大开发、设计等专业能力。产品经理应关注如何将AI嵌入工作流，通过智能辅助提升团队效率与创新速度。这种能力增强模式可降低技术门槛、缩短交付周期，从而创造显著商业价值。产品创新点在于设计无缝集成AI功能的工具，让用户基于已有技能实现更高质量产出。",
-      "pm_score": 0.55,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48235526",
-      "date": "2026-05-23"
-    },
-    {
-      "id": "microsoft-starts-canceling-claude-code-licenses",
-      "label": "Microsoft starts canceling Claude Code licenses",
-      "summary": "微软开始取消Claude Code许可证，这可能表明其正在加强对AI编程助手市场的控制，或调整与Anthropic的合作关系。此举反映了企业级AI工具采用中的许可证管理风险，以及平台依赖性问题。产品经理需关注微软对竞品产品的策略变化，以及这对开发者工具生态的潜在影响，提前规划技术栈的灵活性和替代方案。",
-      "pm_score": 0.55,
-      "pillar": "business",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48238896",
-      "date": "2026-05-23"
-    },
-    {
-      "id": "antigravity-20-tops-the-openscad-architectural-3d-llm-benchmark",
-      "label": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "summary": "Antigravity 2.0在OpenSCAD架构3D LLM基准测试中夺得榜首，表明其生成复杂3D建模代码的能力领先。OpenSCAD是编程式CAD工具，该基准评估LLM理解并生成可编译的几何模型代码。技术要点：模型需同时掌握编程逻辑与空间几何，将自然语言描述转化为精确的3D结构。商业价值：建筑师和工程师可借助AI快速生成建筑构件原型，降低专业门槛，加速设计迭代。产品创新：展示了LLM在专业垂直领域（如CAD）的深度应用，从通用对话转向结构化代码生成。",
-      "pm_score": 0.545,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48234090",
-      "date": "2026-05-23"
-    },
-    {
-      "id": "we-tried-googles-ai-glasses-and-theyre-almost-there",
-      "label": "We tried Google’s AI glasses and they’re almost there",
-      "summary": "Google 在近期展示其 Android XR 原型眼镜，该眼镜将 Gemini 驱动的人工智能信息（如实时翻译、导航等）直接叠加在用户视野内，形成无界面交互体验。技术层面，它依赖 Gemini 大模型的实时处理能力与 XR 光学显示，实现低延迟文字叠加；商业上，此举将 AI 能力从手机和屏幕延伸到可穿戴设备，开辟新场景和收入来源；产品创新方面，它通过端侧 AI 与轻量化设计，试图解决过往 AR 眼镜“功能鸡肋”和“重量过高”的痛点，是 AI 原生可穿戴设备的重要尝试。",
-      "pm_score": 0.48,
-      "pillar": "patterns",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-      "date": "2026-05-23"
-    },
-    {
-      "id": "im-writing-again",
-      "label": "I’m writing again",
-      "summary": "标题暗示了 AI 在持续写作方面的能力突破。从产品视角看，AI 生成长篇内容时的连贯性、风格一致性及创意延续是关键技术难点，当前进展意味着更可靠的 AI 写作助手可能成为现实。此类能力可降低内容创作门槛，支持营销文案、博客、报告等场景的自动化生成。商业价值体现在提高内容产出效率，降低人力成本。产品创新点在于结合长上下文与个人写作风格模仿，实现更自然的续写体验。",
-      "pm_score": 0.48,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48236501",
-      "date": "2026-05-23"
-    },
-    {
-      "id": "ai-is-being-used-to-resurrect-the-voices-of-dead-pilots",
-      "label": "AI is being used to resurrect the voices of dead pilots",
-      "summary": "该报道指出，有人利用AI技术对已故飞行员的驾驶舱录音频谱图进行重建，成功复活其声音。这一行为迫使美国国家运输安全委员会（NTSB）暂时封锁其档案系统，以防止进一步滥用。对于AI产品经理而言，该事件展示了AI在音频修复与声音克隆领域的技术突破（如从噪声频谱图高保真重建语音），同时凸显了伦理与法律风险：无授权使用个人声音数据可能引发隐私、肖像权及公共安全争议。产品创新方向包括数字遗产管理、历史音频修复，但需内置合规与防护机制。",
+      "id": "ferrari-is-using-ibm8217s-ai-to-create-f1-superfans",
+      "label": "Ferrari is using IBM&#8217;s AI to create F1 superfans",
+      "summary": "法拉利与IBM合作，利用IBM的AI技术打造一级方程式超级粉丝体验。通过数据分析和个性化内容生成，AI能够实时分析比赛数据、车手表现及观众偏好，为粉丝提供定制化多视角直播、互动预测和赛后回顾。该合作旨在提升粉丝参与度与忠诚度，同时为法拉利车队提供新的商业变现模式。技术要点包括IBM Watson的机器学习与自然语言处理能力，产品创新体现在将AI融入观赛全流程，实现从被动观看到主动交互的转变。",
       "pm_score": 0.445,
       "pillar": "patterns",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-      "date": "2026-05-23"
+      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "date": "2026-05-24"
     },
     {
-      "id": "launch-hn-superset-yc-p26-ide-for-the-agents-era",
-      "label": "Launch HN: Superset (YC P26) – IDE for the agents era",
-      "summary": "Superset 是 YC P26 孵化的项目，定位为“代理时代的 IDE”。它提供集成开发环境，专门用于构建、调试和部署 AI 代理（agents）。技术要点包括：可能支持多代理协作、可视化工作流编排、实时调试与日志追踪。商业价值在于降低代理开发门槛，加速企业级代理应用的落地，类似传统 IDE 对软件开发的推动作用。产品创新是将成熟的 IDE 模式抽象到代理领域，统一管理提示、工具调用与外部系统集成。",
+      "id": "elon-musk-has-given-up-on-solar-power-on-earth",
+      "label": "Elon Musk has given up on solar power (on Earth)",
+      "summary": "Elon Musk的xAI放弃太阳能承诺，转向天然气为AI训练供电，同时SpaceX专注轨道数据中心。这揭示了AI算力扩张对稳定、低成本能源的迫切需求，以及传统可再生能源在规模化部署中的局限性。对AI产品经理而言，能源策略直接影响模型训练成本、数据中心选址及可持续性承诺，可能催生新型能源合同（如天然气直供）或边缘计算方案（如轨道数据中心）以降低延迟和能耗。商业价值在于重新评估AI基础设施的能源架构，从“绿色承诺”转向务实效率优先。",
       "pm_score": 0.445,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48236770",
-      "date": "2026-05-23"
-    },
-    {
-      "id": "you-can-no-longer-google-the-word-8216disregard8217",
-      "label": "You can no longer Google the word &#8216;disregard&#8217;",
-      "summary": "Google搜索的AI更新后，输入单词'disregard'会导致搜索界面异常，表明AI生成的摘要或回答可能被特定词汇触发漏洞。这暴露了AI系统在输入安全性与鲁棒性上的缺陷，对产品经理而言是重要警示：需强化对抗性输入测试、防止意外行为影响用户体验。技术要点在于AI模型对语境或指令的过度响应，商业价值上可能影响搜索广告与用户信任，产品创新方向包括引入更严格的输入过滤与异常检测机制。",
-      "pm_score": 0.445,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-      "date": "2026-05-23"
-    },
-    {
-      "id": "elon-musk-can8217t-hear-you-over-the-sound-of-his-175-trillion-ipo",
-      "label": "Elon Musk can&#8217;t hear you over the sound of his $1.75 trillion IPO",
-      "summary": "特斯拉CEO马斯克旗下SpaceX提交了S-1文件，启动了估值1.75万亿美元的IPO。文件显示其总目标市场规模高达28万亿美元，薪酬方案与建立火星殖民地等长期愿景挂钩。SpaceX的IPO不仅是航天商业化的里程碑，也展示了用极致愿景驱动资本运作的产品战略——通过“火星殖民地”这一宏大叙事绑定投资者预期，并将风险因素（36页）作为透明化沟通工具。虽然当前主要围绕火箭与基础设施，但未来AI在自主控制、导航优化等领域将成为关键支撑。产品经理可借鉴其“超级目标-超级市场-超级激励”的闭环思维。",
-      "pm_score": 0.41,
       "pillar": "business",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
-      "date": "2026-05-23"
+      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "date": "2026-05-24"
     },
     {
-      "id": "how-vcs-and-founders-use-inflated-arr-to-crown-ai-startups",
-      "label": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
-      "summary": "本文揭露部分AI初创公司通过夸大或操纵年度经常性收入（ARR）指标来粉饰业绩，以吸引风险投资。由于AI行业尚未出现广泛盈利模式，初创公司利用非标准收入定义（如含预付款、硬件捆绑等）虚增ARR，而投资者明知存在水分但仍默许，以维持估值泡沫。产品经理需警惕此类财务策略对市场判断的误导，理性评估AI产品的真实商业价值与用户订阅黏性，避免被表面数字带偏产品决策。",
-      "pm_score": 0.41,
-      "pillar": "business",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-      "date": "2026-05-23"
-    },
-    {
-      "id": "a-case-against-boolean-logic",
-      "label": "A case against Boolean logic",
-      "summary": "本文质疑了布尔逻辑在AI系统中的局限性，指出其严格的true/false二元判断无法处理模糊、不确定的语义，尤其在信息检索和推理任务中可能导致结果不准确。对于AI产品经理而言，这意味着依赖纯布尔逻辑的搜索或决策引擎需要结合向量嵌入、语义搜索等更灵活的方法，以提升用户体验和产品智能度。文章可能探讨了混合搜索或神经符号学习的模式，启发产品设计转向更人性化的交互方式。",
-      "pm_score": 0.395,
+      "id": "making-deep-learning-go-brrrr-from-first-principles",
+      "label": "Making Deep Learning Go Brrrr from First Principles",
+      "summary": "本文从第一性原理探讨深度学习加速的核心方法，涵盖算法优化、硬件适配与训练效率提升。技术要点包括通过数学重参数化、计算图优化和内存管理实现模型加速，商业价值在于降低算力成本与能耗，并支持更复杂的AI应用落地。产品创新角度强调从底层原理出发，而非依赖黑盒加速库，为构建高效AI系统提供新思路。",
+      "pm_score": 0.43,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48234128",
-      "date": "2026-05-23"
-    },
-    {
-      "id": "anthropics-profitability-swindle",
-      "label": "Anthropic's \"Profitability\" Swindle",
-      "summary": "文章质疑Anthropic宣称的盈利能力，认为其可能通过会计手段或营销话术误导市场和客户。对AI产品经理而言，这提示需谨慎评估AI供应商的商业模式可持续性，避免因短期财务宣传而忽略长期合作风险。同时应关注AI公司产品定价与实际成本结构匹配度，以及其技术路线是否健康支撑商业目标。",
-      "pm_score": 0.38,
-      "pillar": "business",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48240198",
-      "date": "2026-05-23"
-    },
-    {
-      "id": "fsfe-intervenes-against-apple-before-eucj-for-the-second-time",
-      "label": "FSFE intervenes against Apple before EUCJ for the second time",
-      "summary": "自由软件基金会欧洲分会（FSFE）再次向欧盟法院（EUCJ）就苹果的封闭生态系统提出干预。此举聚焦于数字权利与反垄断，质疑App Store强制使用内购支付及抽成政策，可能影响iOS应用的发布和分发模式。对于产品经理而言，若法院判决倾向开放，将推动跨平台兼容性和用户数据便携性，重塑应用商店商业模式，降低开发者的平台依赖，并激励更灵活的产品创新。这标志着科技巨头与开放生态之间的法律博弈升级，直接关乎数字市场的公平竞争与用户选择权。",
-      "pm_score": 0.38,
-      "pillar": "ecosystem",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48233939",
-      "date": "2026-05-23"
-    },
-    {
-      "id": "modelsdev-open-source-database-of-ai-model-specs-pricing-and-capabilities",
-      "label": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-      "summary": "Models.dev 是一个开源的AI模型数据库，汇集了各类AI模型的规格、定价和功能信息，旨在帮助开发者与产品经理快速对比和选择最合适的模型。该项目通过开源方式降低了模型信息获取门槛，提高了模型选型效率，尤其适合做预算评估和技术方案决策。它填补了模型信息分散、对比困难的痛点，具有显著的商业价值和生态整合潜力。",
-      "pm_score": 0.38,
-      "pillar": "ecosystem",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48241172",
-      "date": "2026-05-23"
-    },
-    {
-      "id": "domain-camouflaged-injection-attacks-evade-detection-in-multi-agent-llm-systems",
-      "label": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
-      "summary": "本研究发现一种新型攻击——领域伪装注入攻击，能有效规避多智能体LLM系统的检测。攻击者通过将恶意指令伪装成与当前对话领域相关的合法请求，欺骗多个协作的LLM代理执行不当操作。该攻击利用了多智能体系统中角色分工和信任传递的漏洞，对商业级多智能体产品（如客服、协作AI）构成严重威胁。产品经理需在架构设计时引入跨代理验证、上下文隔离和行为审计机制，优先防御此类隐蔽性强的注入攻击，确保系统鲁棒性与用户数据安全。",
-      "pm_score": 0.33,
-      "pillar": "patterns",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48239786",
-      "date": "2026-05-23"
-    },
-    {
-      "id": "lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak",
-      "label": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
-      "summary": "美国网络安全与基础设施安全局（CISA）发生数据泄露事件，立法者要求该机构提供详细解释和应对措施。该事件凸显了政府机构及AI系统在处理敏感数据时的安全风险。对AI产品经理而言，需重视数据加密、访问控制和审计机制的设计，确保产品合规且能抵御泄露风险。商业上，安全漏洞可能引发用户信任危机和监管处罚，因此产品中应内置隐私保护与应急响应功能，如自动脱敏和泄露追溯。",
-      "pm_score": 0.31,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48238429",
-      "date": "2026-05-23"
-    },
-    {
-      "id": "valve-removes-free-game-from-steam-after-players-discover-it-contains-malware",
-      "label": "Valve removes free game from Steam after players discover it contains malware",
-      "summary": "Steam下架了一款被玩家发现含有恶意软件的免费游戏，该事件暴露了数字游戏平台在内容安全审查上的漏洞。虽然不直接涉及AI技术，但AI可以用于自动化恶意代码检测和异常行为分析，提升平台安全治理效率。对于AI产品经理而言，这提示了AI在平台生态安全、自动化审核和用户反馈闭环中的潜在应用价值，特别是在内容分发环节建立智能监测体系可减少人工成本并降低风险。",
-      "pm_score": 0.305,
-      "pillar": "ecosystem",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48235033",
-      "date": "2026-05-23"
-    },
-    {
-      "id": "spacex-files-to-go-public-and-the-math-requires-a-little-faith",
-      "label": "SpaceX files to go public, and the math requires a little faith",
-      "summary": "SpaceX 正式提交上市申请（S-1），文件长达36页风险因素，目标市场总规模达28万亿美元，高管薪酬与火星殖民计划挂钩。该事件展示了太空商业化的巨大潜力和长期愿景，对AI产品经理而言，提示了超大规模市场定义、长期技术路线图与商业价值锚定的结合方式，以及高风险高回报的创新商业模式。",
-      "pm_score": 0.305,
-      "pillar": "business",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
-      "date": "2026-05-23"
+      "url": "https://news.ycombinator.com/item?id=48246889",
+      "date": "2026-05-24"
     }
   ],
   "graph_totals": {
-    "real_nodes": 802,
-    "edges": 42230
+    "real_nodes": 805,
+    "edges": 43036
   }
 }
