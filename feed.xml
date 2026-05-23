@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 23 May 2026 00:05:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 04:03:55 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -45,6 +45,14 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>Is AI Profitable Yet?</title>
+      <link>https://news.ycombinator.com/item?id=48243863</link>
+      <guid isPermaLink="false">is-ai-profitable-yet</guid>
+      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章探讨AI领域当前能否盈利的问题，分析AI产品在商业化落地中的实际收益与成本，包括技术投入、市场需求、竞争格局等因素。对于AI产品经理而言，理解盈利能力是评估产品方向、资源分配和商业模式的关键。文章可能涉及企业级AI应用、消费者端AI服务的变现策略，以及不同公司（如OpenAI、Anthropic）的盈利现状对比。核心观点是盈利取决于应用场景的深度和价值创造，而非单纯的技术领先。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>AI has a multiplying effect on existing technical skills</title>
       <link>https://news.ycombinator.com/item?id=48235526</link>
       <guid isPermaLink="false">ai-has-a-multiplying-effect-on-existing-technical-skills</guid>
@@ -74,6 +82,22 @@
       <guid isPermaLink="false">we-tried-googles-ai-glasses-and-theyre-almost-there</guid>
       <pubDate>2026-05-23T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google 在近期展示其 Android XR 原型眼镜，该眼镜将 Gemini 驱动的人工智能信息（如实时翻译、导航等）直接叠加在用户视野内，形成无界面交互体验。技术层面，它依赖 Gemini 大模型的实时处理能力与 XR 光学显示，实现低延迟文字叠加；商业上，此举将 AI 能力从手机和屏幕延伸到可穿戴设备，开辟新场景和收入来源；产品创新方面，它通过端侧 AI 与轻量化设计，试图解决过往 AR 眼镜“功能鸡肋”和“重量过高”的痛点，是 AI 原生可穿戴设备的重要尝试。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>I’m writing again</title>
+      <link>https://news.ycombinator.com/item?id=48236501</link>
+      <guid isPermaLink="false">im-writing-again</guid>
+      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>标题暗示了 AI 在持续写作方面的能力突破。从产品视角看，AI 生成长篇内容时的连贯性、风格一致性及创意延续是关键技术难点，当前进展意味着更可靠的 AI 写作助手可能成为现实。此类能力可降低内容创作门槛，支持营销文案、博客、报告等场景的自动化生成。商业价值体现在提高内容产出效率，降低人力成本。产品创新点在于结合长上下文与个人写作风格模仿，实现更自然的续写体验。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>AI is being used to resurrect the voices of dead pilots</title>
+      <link>https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/</link>
+      <guid isPermaLink="false">ai-is-being-used-to-resurrect-the-voices-of-dead-pilots</guid>
+      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>该报道指出，有人利用AI技术对已故飞行员的驾驶舱录音频谱图进行重建，成功复活其声音。这一行为迫使美国国家运输安全委员会（NTSB）暂时封锁其档案系统，以防止进一步滥用。对于AI产品经理而言，该事件展示了AI在音频修复与声音克隆领域的技术突破（如从噪声频谱图高保真重建语音），同时凸显了伦理与法律风险：无授权使用个人声音数据可能引发隐私、肖像权及公共安全争议。产品创新方向包括数字遗产管理、历史音频修复，但需内置合规与防护机制。</p></description>
       <category>📱 产品模式</category>
     </item>
     <item>
@@ -139,6 +163,14 @@
       <pubDate>2026-05-23T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Models.dev 是一个开源的AI模型数据库，汇集了各类AI模型的规格、定价和功能信息，旨在帮助开发者与产品经理快速对比和选择最合适的模型。该项目通过开源方式降低了模型信息获取门槛，提高了模型选型效率，尤其适合做预算评估和技术方案决策。它填补了模型信息分散、对比困难的痛点，具有显著的商业价值和生态整合潜力。</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems</title>
+      <link>https://news.ycombinator.com/item?id=48239786</link>
+      <guid isPermaLink="false">domain-camouflaged-injection-attacks-evade-detection-in-multi-agent-llm-systems</guid>
+      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本研究发现一种新型攻击——领域伪装注入攻击，能有效规避多智能体LLM系统的检测。攻击者通过将恶意指令伪装成与当前对话领域相关的合法请求，欺骗多个协作的LLM代理执行不当操作。该攻击利用了多智能体系统中角色分工和信任传递的漏洞，对商业级多智能体产品（如客服、协作AI）构成严重威胁。产品经理需在架构设计时引入跨代理验证、上下文隔离和行为审计机制，优先防御此类隐蔽性强的注入攻击，确保系统鲁棒性与用户数据安全。</p></description>
+      <category>📱 产品模式</category>
     </item>
     <item>
       <title>Lawmakers Demand Answers as CISA Tries to Contain Data Leak</title>
@@ -378,38 +410,6 @@
       <guid isPermaLink="false">remember-to-be-curious-episodic-context-and-persistent-worlds-for-3d-exploration</guid>
       <pubDate>2026-05-22T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出了一种好奇心驱动的强化学习方法，通过智能体的世界预测模型与现实之间的不一致性生成内在奖励，解决3D环境中稀疏奖励、长视界任务下的探索难题。技术核心是结合情景记忆与持久世界建模，让智能体主动探索未知区域，提升学习效率。商业价值体现在游戏AI、虚拟现实、机器人自主导航等领域，能显著减少人工标注和奖励设计成本，推动3D场景中自主决策产品的落地。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Samsung chip workers will get an average $340k bonus as AI profits soar</title>
-      <link>https://news.ycombinator.com/item?id=48230892</link>
-      <guid isPermaLink="false">samsung-chip-workers-will-get-an-average-340k-bonus-as-ai-profits-soar</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>三星芯片部门员工因AI业务利润飙升，将获得平均约34万美元的巨额奖金。这主要得益于AI芯片（尤其是高带宽存储器HBM）需求爆发，带动三星半导体业绩大幅增长。对AI产品经理而言，该事件凸显了AI基础设施硬件（特别是存储芯片）的供需紧张和成本波动风险，可能影响AI模型训练和部署的预算规划。同时，芯片厂商的盈利能力和产能分配策略将直接左右AI产品的商业化节奏与供应链安全。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Show HN: Agent.email – sign up via curl, claim with a human OTP</title>
-      <link>https://news.ycombinator.com/item?id=48225596</link>
-      <guid isPermaLink="false">show-hn-agentemail-sign-up-via-curl-claim-with-a-human-otp</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Agent.email 是一个创新产品，允许用户通过 curl 命令行注册，并采用人工 OTP（一次性密码）进行身份核验。这种模式结合了自动化注册与人工验证，特别适合 AI agent 场景下的安全确认需求，例如在自动化工作流中确保人类介入关键步骤。产品设计体现了从纯自动到人工干预的混合验证思路，既保留 CLI 的高效性，又通过人工 OTP 防止恶意注册。对 AI 产品经理而言，这一模式可启发 agent 交互中的安全、信任与验证环节设计，尤其在需要降低滥用风险时具有参考价值。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O</title>
-      <link>https://news.ycombinator.com/item?id=48227923</link>
-      <guid isPermaLink="false">multi-stream-llms-new-paper-on-parallelizingseparating-prompts-thinking-io</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该论文提出多流LLM架构，通过并行化/分离提示、思考过程及输入输出流，提升模型响应效率与可控性。技术要点在于解耦不同处理阶段，允许并发计算，降低延迟。商业价值体现在支持更复杂、实时性要求高的应用场景，如多模态交互、实时决策支持。产品创新上，可设计为动态分配计算资源，优化用户体验。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs</title>
-      <link>https://news.ycombinator.com/item?id=48232118</link>
-      <guid isPermaLink="false">coda-rewriting-transformer-blocks-as-gemm-epilogue-programs</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文介绍CODA，一种将Transformer块重新编译为GEMM（通用矩阵乘法）尾声程序的方法，旨在通过硬编码矩阵乘法的后处理步骤来加速推理。该技术能够消除传统注意力机制中的冗余计算，显著提升吞吐量并降低延迟。对于AI产品经理而言，这意味着更低的部署成本和更高的模型响应速度，尤其适用于高并发或资源受限的实时应用场景。CODA提供了一种系统级的优化思路，有望推动边缘设备和云端推理效率的进一步突破。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
