@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-24 | Total pages: 824
+> Last updated: 2026-05-24 | Total pages: 827
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -116,6 +116,7 @@
 - [[mindsdbminds-platform.md]] mindsdb/minds-platform `pillar:capabilities` `score:0.405`
 - [[mlc-aiweb-llm.md]] mlc-ai/web-llm `pillar:capabilities` `score:0.615`
 - [[mlfoundationsopen_clip.md]] mlfoundations/open_clip `pillar:capabilities` `score:0.615`
+- [[modelscopefunasr.md]] modelscope/FunASR `pillar:capabilities` `score:0.405`
 - [[moving-away-from-tailwind-and-learning-to-structure-my-css.md]] Moving away from Tailwind, and learning to structure my CSS `pillar:capabilities` `score:0.355`
 - [[mudlerlocalai.md]] mudler/LocalAI `pillar:capabilities` `score:0.405`
 - [[multi-stream-llms-new-paper-on-parallelizingseparating-prompts-thinking-io.md]] Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O `pillar:capabilities` `score:0.38`
@@ -398,6 +399,7 @@
 - [[harry0703moneyprinterturbo.md]] harry0703/MoneyPrinterTurbo `pillar:patterns` `score:0.615`
 - [[hkudslightrag.md]] HKUDS/LightRAG `pillar:patterns` `score:0.615`
 - [[hkudsnanobot.md]] HKUDS/nanobot `pillar:patterns` `score:0.405`
+- [[hmbowncodewhale.md]] Hmbown/CodeWhale `pillar:patterns` `score:0.545`
 - [[hmbowndeepseek-tui.md]] Hmbown/DeepSeek-TUI `pillar:patterns` `score:0.58`
 - [[how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches.md]] How to use Google’s new AI agents to go beyond your standard searches `pillar:patterns` `score:0.48`
 - [[infiniflowragflow.md]] infiniflow/ragflow `pillar:patterns` `score:0.615`
@@ -693,6 +695,7 @@
 - [[intuit-to-lay-off-over-3k-employees-to-refocus-on-ai.md]] Intuit to lay off over 3k employees to refocus on AI `pillar:business` `score:0.43`
 - [[is-ai-profitable-yet.md]] Is AI Profitable Yet? `pillar:business` `score:0.55`
 - [[israels-ai-targeting-system-how-data-from-a-phon.md]] Israel's AI targeting system: how data from a phone become a death sentence `pillar:business` `score:0.305`
+- [[italy-moves-to-airbus-a330-tankers.md]] Italy moves to Airbus A330 tankers `pillar:business` `score:0.335`
 - [[jensen-huang-says-he8217s-found-a-8216brand-new8217-200b-market-for-nvidia.md]] Jensen Huang says he&#8217;s found a &#8216;brand new&#8217; $200B market for Nv `pillar:business` `score:0.48`
 - [[khosla-backed-robotics-startup-genesis-ai-has-gone.md]] Khosla-backed robotics startup Genesis AI has gone full stack, demo shows `pillar:business` `score:0.3`
 - [[laid-off-oracle-workers-tried-to-negotiate-better.md]] Laid-off Oracle workers tried to negotiate better severance. Oracle said no. `pillar:business` `score:0.305`

@@ -921,3 +921,8 @@
 - create: making-deep-learning-go-brrrr-from-first-principles.md
 - create: ferrari-is-using-ibm8217s-ai-to-create-f1-superfans.md
 - create: elon-musk-has-given-up-on-solar-power-on-earth.md
+
+## [2026-05-24 06:03] sync v3 | 3 new | pillars: {'patterns': 2, 'capabilities': 1}
+- create: hmbowncodewhale.md
+- create: modelscopefunasr.md
+- create: italy-moves-to-airbus-a330-tankers.md
