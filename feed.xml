@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 23 May 2026 08:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 12:00:34 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -205,6 +205,14 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>Neutron scattering explains why gluten-free pasta falls apart (2025)</title>
+      <link>https://news.ycombinator.com/item?id=48206763</link>
+      <guid isPermaLink="false">neutron-scattering-explains-why-gluten-free-pasta-falls-apart-2025</guid>
+      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>该研究利用中子散射技术揭示了无麸质面食在烹饪过程中结构崩溃的微观机制，为食品科学领域提供了关键见解。虽然并非直接涉及AI技术，但对AI产品经理而言，此类跨学科研究可能启发食品科技中的数据驱动建模与材料模拟应用，例如通过机器学习预测面食质地或优化配方。商业价值体现在改善无麸质食品口感与品质，拓展健康食品市场。产品创新方向可结合AI进行配方推荐与烹饪参数优化。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>1940 Air Terminal Museum Begins Liquidation</title>
       <link>https://news.ycombinator.com/item?id=48238568</link>
       <guid isPermaLink="false">1940-air-terminal-museum-begins-liquidation</guid>
@@ -402,14 +410,6 @@
       <guid isPermaLink="false">tokenisation-via-convex-relaxations</guid>
       <pubDate>2026-05-22T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出了一种基于凸松弛（Convex Relaxation）的 tokenization 新方法，将词汇表构建转化为线性规划问题，以替代当前 BPE 和 Unigram 等贪心算法。贪心算法只做局部最优选择，而新方法能从全局角度优化词汇表，提升下游 NLP 模型的一致性。对于 AI 产品经理而言，更高质量的 tokenization 意味着模型对文本的理解更准确、更稳定，可能带来可量化的效果提升（如翻译、摘要等任务）。虽然目前仍是理论方法，但一旦落地，有望以较低成本改善现有 NLP 产品的基座能力，具备潜在的产品创新价值。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploratio</title>
-      <link>http://arxiv.org/abs/2605.22814v1</link>
-      <guid isPermaLink="false">remember-to-be-curious-episodic-context-and-persistent-worlds-for-3d-exploration</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出了一种好奇心驱动的强化学习方法，通过智能体的世界预测模型与现实之间的不一致性生成内在奖励，解决3D环境中稀疏奖励、长视界任务下的探索难题。技术核心是结合情景记忆与持久世界建模，让智能体主动探索未知区域，提升学习效率。商业价值体现在游戏AI、虚拟现实、机器人自主导航等领域，能显著减少人工标注和奖励设计成本，推动3D场景中自主决策产品的落地。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
