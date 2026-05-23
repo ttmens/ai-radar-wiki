@@ -907,3 +907,9 @@
 - create: elon-musk-can8217t-hear-you-over-the-sound-of-his-175-trillion-ipo.md
 - create: you-can-no-longer-google-the-word-8216disregard8217.md
 - create: spacex-files-to-go-public-and-the-math-requires-a-little-faith.md
+
+## [2026-05-23 12:01] sync v3 | 4 new | pillars: {'capabilities': 2, 'patterns': 2}
+- create: is-ai-profitable-yet.md
+- create: im-writing-again.md
+- create: domain-camouflaged-injection-attacks-evade-detection-in-multi-agent-llm-systems.md
+- create: ai-is-being-used-to-resurrect-the-voices-of-dead-pilots.md

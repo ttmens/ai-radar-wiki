@@ -1,7 +1,7 @@
 {
   "date": "2026-05-23",
-  "generated_at": "2026-05-23T06:06:19.043852+08:00",
-  "item_count": 19,
+  "generated_at": "2026-05-23T12:01:44.763742+08:00",
+  "item_count": 23,
   "items": [
     {
       "id": "rasahqrasa",
@@ -48,6 +48,17 @@
       "date": "2026-05-23"
     },
     {
+      "id": "is-ai-profitable-yet",
+      "label": "Is AI Profitable Yet?",
+      "summary": "文章探讨AI领域当前能否盈利的问题，分析AI产品在商业化落地中的实际收益与成本，包括技术投入、市场需求、竞争格局等因素。对于AI产品经理而言，理解盈利能力是评估产品方向、资源分配和商业模式的关键。文章可能涉及企业级AI应用、消费者端AI服务的变现策略，以及不同公司（如OpenAI、Anthropic）的盈利现状对比。核心观点是盈利取决于应用场景的深度和价值创造，而非单纯的技术领先。",
+      "pm_score": 0.55,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48243863",
+      "date": "2026-05-23"
+    },
+    {
       "id": "ai-has-a-multiplying-effect-on-existing-technical-skills",
       "label": "AI has a multiplying effect on existing technical skills",
       "summary": "AI对现有技术技能具有倍增效应，能够放大开发、设计等专业能力。产品经理应关注如何将AI嵌入工作流，通过智能辅助提升团队效率与创新速度。这种能力增强模式可降低技术门槛、缩短交付周期，从而创造显著商业价值。产品创新点在于设计无缝集成AI功能的工具，让用户基于已有技能实现更高质量产出。",
@@ -89,6 +100,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+      "date": "2026-05-23"
+    },
+    {
+      "id": "im-writing-again",
+      "label": "I’m writing again",
+      "summary": "标题暗示了 AI 在持续写作方面的能力突破。从产品视角看，AI 生成长篇内容时的连贯性、风格一致性及创意延续是关键技术难点，当前进展意味着更可靠的 AI 写作助手可能成为现实。此类能力可降低内容创作门槛，支持营销文案、博客、报告等场景的自动化生成。商业价值体现在提高内容产出效率，降低人力成本。产品创新点在于结合长上下文与个人写作风格模仿，实现更自然的续写体验。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48236501",
+      "date": "2026-05-23"
+    },
+    {
+      "id": "ai-is-being-used-to-resurrect-the-voices-of-dead-pilots",
+      "label": "AI is being used to resurrect the voices of dead pilots",
+      "summary": "该报道指出，有人利用AI技术对已故飞行员的驾驶舱录音频谱图进行重建，成功复活其声音。这一行为迫使美国国家运输安全委员会（NTSB）暂时封锁其档案系统，以防止进一步滥用。对于AI产品经理而言，该事件展示了AI在音频修复与声音克隆领域的技术突破（如从噪声频谱图高保真重建语音），同时凸显了伦理与法律风险：无授权使用个人声音数据可能引发隐私、肖像权及公共安全争议。产品创新方向包括数字遗产管理、历史音频修复，但需内置合规与防护机制。",
+      "pm_score": 0.445,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
       "date": "2026-05-23"
     },
     {
@@ -180,6 +213,17 @@
       "date": "2026-05-23"
     },
     {
+      "id": "domain-camouflaged-injection-attacks-evade-detection-in-multi-agent-llm-systems",
+      "label": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
+      "summary": "本研究发现一种新型攻击——领域伪装注入攻击，能有效规避多智能体LLM系统的检测。攻击者通过将恶意指令伪装成与当前对话领域相关的合法请求，欺骗多个协作的LLM代理执行不当操作。该攻击利用了多智能体系统中角色分工和信任传递的漏洞，对商业级多智能体产品（如客服、协作AI）构成严重威胁。产品经理需在架构设计时引入跨代理验证、上下文隔离和行为审计机制，优先防御此类隐蔽性强的注入攻击，确保系统鲁棒性与用户数据安全。",
+      "pm_score": 0.33,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48239786",
+      "date": "2026-05-23"
+    },
+    {
       "id": "lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak",
       "label": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
       "summary": "美国网络安全与基础设施安全局（CISA）发生数据泄露事件，立法者要求该机构提供详细解释和应对措施。该事件凸显了政府机构及AI系统在处理敏感数据时的安全风险。对AI产品经理而言，需重视数据加密、访问控制和审计机制的设计，确保产品合规且能抵御泄露风险。商业上，安全漏洞可能引发用户信任危机和监管处罚，因此产品中应内置隐私保护与应急响应功能，如自动脱敏和泄露追溯。",
@@ -214,7 +258,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 797,
-    "edges": 40625
+    "real_nodes": 801,
+    "edges": 41427
   }
 }
