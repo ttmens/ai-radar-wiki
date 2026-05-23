@@ -913,3 +913,6 @@
 - create: im-writing-again.md
 - create: domain-camouflaged-injection-attacks-evade-detection-in-multi-agent-llm-systems.md
 - create: ai-is-being-used-to-resurrect-the-voices-of-dead-pilots.md
+
+## [2026-05-23 18:04] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: neutron-scattering-explains-why-gluten-free-pasta-falls-apart-2025.md
