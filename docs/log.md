@@ -929,3 +929,6 @@
 
 ## [2026-05-24 12:01] sync v3 | 1 new | pillars: {'capabilities': 1}
 - create: rohitg00ai-engineering-from-scratch.md
+
+## [2026-05-24 18:02] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: air-france-and-airbus-found-guilty-of-manslaughter-over-2009-plane-crash.md
