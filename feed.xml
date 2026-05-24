@@ -5,13 +5,21 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 24 May 2026 00:10:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 04:04:47 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>rohitg00/ai-engineering-from-scratch</title>
+      <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
+      <guid isPermaLink="false">rohitg00ai-engineering-from-scratch</guid>
+      <pubDate>2026-05-24T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>该GitHub仓库由rohitg00创建，聚焦于从零开始学习、构建并交付AI工程系统。内容涵盖AI工程化的核心技术要点，包括模型训练、部署优化及系统集成等实践方法，旨在帮助产品经理理解AI技术落地的全流程。其商业价值在于降低AI产品开发门槛，加速从原型到生产的转化速度。产品创新体现在提供可复用的工程模板和端到端案例，强调'学以致用'的实操理念。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>Hmbown/CodeWhale</title>
       <link>https://github.com/Hmbown/CodeWhale</link>
@@ -403,14 +411,6 @@
       <pubDate>2026-05-22T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google 正大力推广其 AI 代理生态系统，向消费者描绘一个由大量自主智能体协作的未来。然而，目前消费者对这种新型交互方式的接受度存疑，核心挑战在于如何让用户信任并主动采用多个代理来完成复杂任务。对于产品经理而言，这提示了构建面向消费者的 AI 代理产品时，需优先解决价值传递、信任建立和交互简化等关键问题，而不仅仅是技术能力的堆砌。Google 的布局也反映了行业从单一助手向多代理协作生态演进的趋势。</p></description>
       <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Integrable Elasticity via Neural Demand Potentials</title>
-      <link>http://arxiv.org/abs/2605.22820v1</link>
-      <guid isPermaLink="false">integrable-elasticity-via-neural-demand-potentials</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>提出可积上下文依赖需求网络（ICDN），一种针对多产品零售需求的需求优先神经网络模型。该模型将对数需求学习为对数价格的平滑、上下文条件函数，从而能够从学习到的需求表面精确推导出弹性。技术要点：通过神经网络实现需求函数的可积性约束，确保弹性计算的一致性。商业价值：零售商可基于该模型实现更精准的动态定价和促销优化，减少库存风险。产品创新：将经济学的可积性条件与深度学习结合，使需求预测与价格弹性评估一体化，降低手工建模成本。</p></description>
-      <category>🤖 技术能力</category>
     </item>
   </channel>
 </rss>
