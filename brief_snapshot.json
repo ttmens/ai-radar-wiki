@@ -1,8 +1,19 @@
 {
   "date": "2026-05-24",
-  "generated_at": "2026-05-24T06:03:09.795821+08:00",
-  "item_count": 6,
+  "generated_at": "2026-05-24T12:01:36.351532+08:00",
+  "item_count": 7,
   "items": [
+    {
+      "id": "rohitg00ai-engineering-from-scratch",
+      "label": "rohitg00/ai-engineering-from-scratch",
+      "summary": "该GitHub仓库由rohitg00创建，聚焦于从零开始学习、构建并交付AI工程系统。内容涵盖AI工程化的核心技术要点，包括模型训练、部署优化及系统集成等实践方法，旨在帮助产品经理理解AI技术落地的全流程。其商业价值在于降低AI产品开发门槛，加速从原型到生产的转化速度。产品创新体现在提供可复用的工程模板和端到端案例，强调'学以致用'的实操理念。",
+      "pm_score": 0.63,
+      "pillar": "capabilities",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "date": "2026-05-24"
+    },
     {
       "id": "hmbowncodewhale",
       "label": "Hmbown/CodeWhale",
@@ -71,7 +82,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 808,
-    "edges": 43845
+    "real_nodes": 809,
+    "edges": 44655
   }
 }

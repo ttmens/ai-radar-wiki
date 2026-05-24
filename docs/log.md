@@ -926,3 +926,6 @@
 - create: hmbowncodewhale.md
 - create: modelscopefunasr.md
 - create: italy-moves-to-airbus-a330-tankers.md
+
+## [2026-05-24 12:01] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: rohitg00ai-engineering-from-scratch.md
