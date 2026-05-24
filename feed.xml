@@ -5,13 +5,45 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 24 May 2026 12:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 16:02:47 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>I tried Amazon&amp;#8217;s Bee wearable and am both intrigued and slightly creeped o</title>
+      <link>https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/</link>
+      <guid isPermaLink="false">i-tried-amazon8217s-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>亚马逊推出名为Bee的AI可穿戴设备，类似于其他AI可穿戴产品，它在提供便利的同时引发了隐私焦虑。该设备可能具备语音交互、环境感知等AI能力，旨在无缝融入日常生活，但用户数据收集和持续监控的隐忧成为产品设计的核心挑战。对于AI产品经理而言，Bee展示了可穿戴AI在便利性与隐私保护之间的平衡难题，提示需要从用户体验、数据主权和透明控制维度进行创新设计。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost</title>
+      <link>https://news.ycombinator.com/item?id=48256953</link>
+      <guid isPermaLink="false">deepseek-reasonix-deepseek-native-coding-agent-with-high-caching-and-low-cost</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>DeepSeek 发布原生编码代理 reasonix，其核心创新在于深度融合高缓存机制，显著降低推理成本并提升响应速度。该产品专为编码场景设计，通过缓存复用减少重复计算，实现低成本高效编码辅助。对于 AI 产品经理而言，这一模式在降低企业部署成本、推动编码代理规模化应用方面具有重要商业价值，同时展现了缓存策略在 AI 产品中的创新潜力。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Constraint Decay: The Fragility of LLM Agents in Back End Code Generation</title>
+      <link>https://news.ycombinator.com/item?id=48256912</link>
+      <guid isPermaLink="false">constraint-decay-the-fragility-of-llm-agents-in-back-end-code-generation</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了LLM智能体在后端代码生成中的“约束衰减”问题：智能体在生成长序列代码时，初始约束条件（如API规范、业务逻辑）会随着生成过程逐渐失效，导致代码准确性下降。这一脆弱性对基于AI的代码生成产品的可靠性构成挑战，尤其在企业级后端开发中可能引发高错误率。研究提出了缓解策略，如定期注入上下文或强化约束记忆。商业上，解决此问题可提升AI编程工具的实用性与信任度，推动更广泛的产品采用。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Show HN: A satirical idle game about running an AI startup</title>
+      <link>https://game.trae.academy/</link>
+      <guid isPermaLink="false">show-hn-a-satirical-idle-game-about-running-an-ai-startup</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该作品是一款讽刺性放置游戏，模拟AI初创公司的运营过程。玩家通过点击、决策和资源管理来推进公司发展，体验从融资到产品落地的荒诞现实。游戏以幽默方式揭示AI行业常见陷阱，如追逐热点、过度承诺、技术炒作等。对于AI产品经理而言，这是一面镜子，反映真实创业中的产品策略与商业模式困境，同时强调用户价值而非技术炫耀。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
     <item>
       <title>rohitg00/ai-engineering-from-scratch</title>
       <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
@@ -379,38 +411,6 @@
       <pubDate>2026-05-22T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>文章指出Google搜索即将因AI概述功能而显著改变，可能引起用户反感。针对AI产品经理，这揭示了AI集成搜索的用户体验风险：若AI摘要提供过多主动干预，可能破坏传统搜索的自主性。文中推荐的6个替代搜索引擎，各自以不同方式整合AI（如无AI的纯粹搜索、可控AI助手等），体现了产品创新方向：平衡AI辅助与用户控制权。商业价值在于，用户对AI疲劳可能催生新搜索市场机会。技术要点包括如何设计AI概述的触发机制、透明度与退出选项。</p></description>
       <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Spotify launches an ElevenLabs-powered audiobook creation tool</title>
-      <link>https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/</link>
-      <guid isPermaLink="false">spotify-launches-an-elevenlabs-powered-audiobook-creation-tool</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Spotify宣布推出基于ElevenLabs AI语音合成技术的有声书创作工具，并计划在今年晚些时候发布新的有声书订阅计划。该工具使创作者能利用高质量AI语音快速将文本转化为有声书，降低制作成本与门槛。此举是Spotify在音频内容生态中深化AI能力的重要布局，旨在通过技术创新增强平台内容供给的多样性与效率，同时为独立作者和出版商提供新的变现渠道。该产品模式体现了AI能力与内容平台深度融合的趋势，有望推动有声书市场的进一步增长。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Spotify and Universal Music strike deal allowing fan-made AI covers and remixes</title>
-      <link>https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/</link>
-      <guid isPermaLink="false">spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Spotify与环球音乐集团达成合作，允许其高级订阅用户使用AI生成歌曲的翻唱和混音版本。该模式要求参与艺术家获得收入分成，将AI内容创作与版权方利益绑定。技术层面，AI模型需在合法授权框架内工作，确保不侵犯原始录音或词曲版权。商业价值在于开辟了AI音乐消费新场景，同时解决了版权分配难题，为平台增加差异化订阅功能。产品创新体现在将AI辅助创作工具嵌入现有流媒体服务，并通过分成机制激励艺术家参与。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therap</title>
-      <link>https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/</link>
-      <guid isPermaLink="false">the-path-founded-by-tony-robbins-and-calm-alums-hopes-to-offer-safer-ai-therapy</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>由Tony Robbins与Calm前员工创立的The Path，推出心理健康AI治疗模型，在专用安全基准Vera-MH上获得95分，远超消费级聊天机器人最高65分。该产品聚焦AI治疗的安全性，通过专属基准评测驱动模型迭代，解决传统通用AI在心理健康场景中的高风险问题。商业价值在于切入心理健康这一高监管、高信任需求的垂直领域，以安全差异化抢占市场信任。产品创新体现在将AI安全评测从通用维度细化到心理健康场景，形成可量化的安全标准，为行业提供参考框架。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Spotify adds AI-powered Q&amp;#038;A and briefing generation features to podcasts</title>
-      <link>https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/</link>
-      <guid isPermaLink="false">spotify-adds-ai-powered-q038a-and-briefing-generation-features-to-podcasts</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Spotify为播客引入AI驱动的问答与简报生成功能，允许用户通过自定义提示词生成每日或每周简报。该功能利用大语言模型对播客内容进行智能摘要和问答交互，提升用户获取信息的效率。商业上，这有助于增强用户粘性并差异化播客平台体验，将AI能力嵌入内容消费场景。产品创新在于将提示驱动的简报生成与播客深度结合，让用户主动定制信息流而非被动收听。对AI产品经理而言，此功能展示了如何将生成式AI落地于现有内容生态，探索个性化信息聚合的新模式。</p></description>
-      <category>🤖 技术能力</category>
     </item>
   </channel>
 </rss>
