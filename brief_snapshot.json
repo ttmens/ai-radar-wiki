@@ -1,88 +1,44 @@
 {
-  "date": "2026-05-24",
-  "generated_at": "2026-05-24T18:02:44.357830+08:00",
-  "item_count": 7,
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T00:02:01.988045+08:00",
+  "item_count": 3,
   "items": [
     {
-      "id": "rohitg00ai-engineering-from-scratch",
-      "label": "rohitg00/ai-engineering-from-scratch",
-      "summary": "该GitHub仓库由rohitg00创建，聚焦于从零开始学习、构建并交付AI工程系统。内容涵盖AI工程化的核心技术要点，包括模型训练、部署优化及系统集成等实践方法，旨在帮助产品经理理解AI技术落地的全流程。其商业价值在于降低AI产品开发门槛，加速从原型到生产的转化速度。产品创新体现在提供可复用的工程模板和端到端案例，强调'学以致用'的实操理念。",
-      "pm_score": 0.63,
+      "id": "i-tried-amazon8217s-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out",
+      "label": "I tried Amazon&#8217;s Bee wearable and am both intrigued and slightly creeped o",
+      "summary": "亚马逊推出名为Bee的AI可穿戴设备，类似于其他AI可穿戴产品，它在提供便利的同时引发了隐私焦虑。该设备可能具备语音交互、环境感知等AI能力，旨在无缝融入日常生活，但用户数据收集和持续监控的隐忧成为产品设计的核心挑战。对于AI产品经理而言，Bee展示了可穿戴AI在便利性与隐私保护之间的平衡难题，提示需要从用户体验、数据主权和透明控制维度进行创新设计。",
+      "pm_score": 0.48,
       "pillar": "capabilities",
-      "type": "github",
-      "source_type": "github",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "date": "2026-05-24"
-    },
-    {
-      "id": "hmbowncodewhale",
-      "label": "Hmbown/CodeWhale",
-      "summary": "Hmbown/CodeWhale 是一个基于 DeepSeek 模型的终端化编码代理（Coding Agent），直接在命令行环境中运行，为开发者提供代码生成、解释与调试等 AI 辅助能力。其核心创新在于将大模型能力无缝嵌入终端工作流，无需依赖 IDE 插件或云服务，降低了使用门槛并保障数据隐私。借助 DeepSeek 的低成本与开源特性，该项目有望为个人开发者与小型团队提供高性价比的本地化 AI 编程助手，推动编码交互模式的轻量化与自主可控。",
-      "pm_score": 0.545,
-      "pillar": "patterns",
-      "type": "github",
-      "source_type": "github",
-      "url": "https://github.com/Hmbown/CodeWhale",
-      "date": "2026-05-24"
-    },
-    {
-      "id": "ferrari-is-using-ibm8217s-ai-to-create-f1-superfans",
-      "label": "Ferrari is using IBM&#8217;s AI to create F1 superfans",
-      "summary": "法拉利与IBM合作，利用IBM的AI技术打造一级方程式超级粉丝体验。通过数据分析和个性化内容生成，AI能够实时分析比赛数据、车手表现及观众偏好，为粉丝提供定制化多视角直播、互动预测和赛后回顾。该合作旨在提升粉丝参与度与忠诚度，同时为法拉利车队提供新的商业变现模式。技术要点包括IBM Watson的机器学习与自然语言处理能力，产品创新体现在将AI融入观赛全流程，实现从被动观看到主动交互的转变。",
-      "pm_score": 0.445,
-      "pillar": "patterns",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-      "date": "2026-05-24"
+      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+      "date": "2026-05-25"
     },
     {
-      "id": "elon-musk-has-given-up-on-solar-power-on-earth",
-      "label": "Elon Musk has given up on solar power (on Earth)",
-      "summary": "Elon Musk的xAI放弃太阳能承诺，转向天然气为AI训练供电，同时SpaceX专注轨道数据中心。这揭示了AI算力扩张对稳定、低成本能源的迫切需求，以及传统可再生能源在规模化部署中的局限性。对AI产品经理而言，能源策略直接影响模型训练成本、数据中心选址及可持续性承诺，可能催生新型能源合同（如天然气直供）或边缘计算方案（如轨道数据中心）以降低延迟和能耗。商业价值在于重新评估AI基础设施的能源架构，从“绿色承诺”转向务实效率优先。",
-      "pm_score": 0.445,
-      "pillar": "business",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
-      "date": "2026-05-24"
-    },
-    {
-      "id": "making-deep-learning-go-brrrr-from-first-principles",
-      "label": "Making Deep Learning Go Brrrr from First Principles",
-      "summary": "本文从第一性原理探讨深度学习加速的核心方法，涵盖算法优化、硬件适配与训练效率提升。技术要点包括通过数学重参数化、计算图优化和内存管理实现模型加速，商业价值在于降低算力成本与能耗，并支持更复杂的AI应用落地。产品创新角度强调从底层原理出发，而非依赖黑盒加速库，为构建高效AI系统提供新思路。",
-      "pm_score": 0.43,
-      "pillar": "capabilities",
+      "id": "deepseek-reasonix-deepseek-native-coding-agent-with-high-caching-and-low-cost",
+      "label": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "summary": "DeepSeek 发布原生编码代理 reasonix，其核心创新在于深度融合高缓存机制，显著降低推理成本并提升响应速度。该产品专为编码场景设计，通过缓存复用减少重复计算，实现低成本高效编码辅助。对于 AI 产品经理而言，这一模式在降低企业部署成本、推动编码代理规模化应用方面具有重要商业价值，同时展现了缓存策略在 AI 产品中的创新潜力。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48246889",
-      "date": "2026-05-24"
+      "url": "https://news.ycombinator.com/item?id=48256953",
+      "date": "2026-05-25"
     },
     {
-      "id": "modelscopefunasr",
-      "label": "modelscope/FunASR",
-      "summary": "Industrial-grade speech recognition toolkit. 170x realtime, 50+ languages, speaker diarization, emotion detection — all in 3 lines of Python. Production-ready.",
-      "pm_score": 0.405,
-      "pillar": "capabilities",
-      "type": "github",
-      "source_type": "github",
-      "url": "https://github.com/modelscope/FunASR",
-      "date": "2026-05-24"
-    },
-    {
-      "id": "italy-moves-to-airbus-a330-tankers",
-      "label": "Italy moves to Airbus A330 tankers",
-      "summary": "意大利政府决定采用空客A330 MRTT加油机替代现有机队，该型号基于A330-200客机平台改造，具备空中加油和运输双重功能。此次采购涉及多架飞机，预计将提升意大利空军的远距离投送和持续作战能力。空客A330 MRTT在全球多个空军服役，具有成熟的改装经验和较低的运营成本。虽然该新闻属于航空军工领域，但其中体现的系统集成（客机改装为军用）、多用途平台设计等技术思路，对AI产品经理在设计灵活可扩展系统架构时有一定参考价值。",
-      "pm_score": 0.335,
-      "pillar": "business",
+      "id": "constraint-decay-the-fragility-of-llm-agents-in-back-end-code-generation",
+      "label": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "summary": "本文探讨了LLM智能体在后端代码生成中的“约束衰减”问题：智能体在生成长序列代码时，初始约束条件（如API规范、业务逻辑）会随着生成过程逐渐失效，导致代码准确性下降。这一脆弱性对基于AI的代码生成产品的可靠性构成挑战，尤其在企业级后端开发中可能引发高错误率。研究提出了缓解策略，如定期注入上下文或强化约束记忆。商业上，解决此问题可提升AI编程工具的实用性与信任度，推动更广泛的产品采用。",
+      "pm_score": 0.33,
+      "pillar": "patterns",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48248775",
-      "date": "2026-05-24"
+      "url": "https://news.ycombinator.com/item?id=48256912",
+      "date": "2026-05-25"
     }
   ],
   "graph_totals": {
-    "real_nodes": 810,
-    "edges": 45466
+    "real_nodes": 814,
+    "edges": 46281
   }
 }

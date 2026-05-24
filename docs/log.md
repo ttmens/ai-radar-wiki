@@ -932,3 +932,9 @@
 
 ## [2026-05-24 18:02] sync v3 | 1 new | pillars: {'capabilities': 1}
 - create: air-france-and-airbus-found-guilty-of-manslaughter-over-2009-plane-crash.md
+
+## [2026-05-25 00:02] sync v3 | 4 new | pillars: {'patterns': 2, 'capabilities': 2}
+- create: deepseek-reasonix-deepseek-native-coding-agent-with-high-caching-and-low-cost.md
+- create: constraint-decay-the-fragility-of-llm-agents-in-back-end-code-generation.md
+- create: i-tried-amazon8217s-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out.md
+- create: show-hn-a-satirical-idle-game-about-running-an-ai-startup.md
