@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 24 May 2026 08:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 12:00:26 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -66,6 +66,14 @@
       <guid isPermaLink="false">italy-moves-to-airbus-a330-tankers</guid>
       <pubDate>2026-05-24T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>意大利政府决定采用空客A330 MRTT加油机替代现有机队，该型号基于A330-200客机平台改造，具备空中加油和运输双重功能。此次采购涉及多架飞机，预计将提升意大利空军的远距离投送和持续作战能力。空客A330 MRTT在全球多个空军服役，具有成熟的改装经验和较低的运营成本。虽然该新闻属于航空军工领域，但其中体现的系统集成（客机改装为军用）、多用途平台设计等技术思路，对AI产品经理在设计灵活可扩展系统架构时有一定参考价值。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Air France and Airbus found guilty of manslaughter over 2009 plane crash</title>
+      <link>https://news.ycombinator.com/item?id=48250980</link>
+      <guid isPermaLink="false">air-france-and-airbus-found-guilty-of-manslaughter-over-2009-plane-crash</guid>
+      <pubDate>2026-05-24T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该信息涉及2009年法航空难的法律判决，法国航空和空客被判过失杀人罪。对于AI产品经理而言，此案例与AI领域无直接关联，但可引申思考：AI系统在航空安全中的责任界定、算法决策的法律问责机制，以及航空业数字化转型中AI辅助驾驶系统的可靠性验证。目前缺乏AI技术细节或商业价值点，建议关注后续航空AI监管政策变化。</p></description>
       <category>💰 商业趋势</category>
     </item>
     <item>
@@ -403,14 +411,6 @@
       <pubDate>2026-05-22T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Spotify为播客引入AI驱动的问答与简报生成功能，允许用户通过自定义提示词生成每日或每周简报。该功能利用大语言模型对播客内容进行智能摘要和问答交互，提升用户获取信息的效率。商业上，这有助于增强用户粘性并差异化播客平台体验，将AI能力嵌入内容消费场景。产品创新在于将提示驱动的简报生成与播客深度结合，让用户主动定制信息流而非被动收听。对AI产品经理而言，此功能展示了如何将生成式AI落地于现有内容生态，探索个性化信息聚合的新模式。</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Google is pitching an AI agent ecosystem to consumers who may not buy it</title>
-      <link>https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/</link>
-      <guid isPermaLink="false">google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google 正大力推广其 AI 代理生态系统，向消费者描绘一个由大量自主智能体协作的未来。然而，目前消费者对这种新型交互方式的接受度存疑，核心挑战在于如何让用户信任并主动采用多个代理来完成复杂任务。对于产品经理而言，这提示了构建面向消费者的 AI 代理产品时，需优先解决价值传递、信任建立和交互简化等关键问题，而不仅仅是技术能力的堆砌。Google 的布局也反映了行业从单一助手向多代理协作生态演进的趋势。</p></description>
-      <category>🔧 工具生态</category>
     </item>
   </channel>
 </rss>
