@@ -938,3 +938,10 @@
 - create: constraint-decay-the-fragility-of-llm-agents-in-back-end-code-generation.md
 - create: i-tried-amazon8217s-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out.md
 - create: show-hn-a-satirical-idle-game-about-running-an-ai-startup.md
+
+## [2026-05-25 06:04] sync v3 | 5 new | pillars: {'capabilities': 4, 'patterns': 1}
+- create: nndlnndl.md
+- create: memory-has-grown-to-nearly-two-thirds-of-ai-chip-component-costs.md
+- create: ai-washing-firms-are-scrambling-to-rebrand-themselves-as-tech-focused.md
+- create: claude-is-not-your-architect-stop-letting-it-pretend.md
+- create: everyone-is-navigating-ai-security-in-real-time-8212-even-google.md

@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-25 | Total pages: 833
+> Last updated: 2026-05-25 | Total pages: 838
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -33,6 +33,7 @@
 - [[bun-rust-rewrite-codebase-fails-basic-miri-checks-allows-for-ub-in-safe-rust.md]] Bun Rust rewrite: "codebase fails basic miri checks, allows for UB in safe rust" `pillar:capabilities` `score:0.595`
 - [[claude-ai-recovers-an-11-yrs-old-btc-wallet-holding-400k-usd.md]] Claude AI recovers an 11 yrs old BTC wallet holding 400k USD `pillar:capabilities` `score:0.48`
 - [[claude-for-legal.md]] Claude for Legal `pillar:capabilities` `score:0.48`
+- [[claude-is-not-your-architect-stop-letting-it-pretend.md]] Claude is not your architect. Stop letting it pretend `pillar:capabilities` `score:0.6`
 - [[clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral.md]] Clouted wants to take the guesswork out of making short videos go viral `pillar:capabilities` `score:0.48`
 - [[coda-rewriting-transformer-blocks-as-gemm-epilogue-programs.md]] CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs `pillar:capabilities` `score:0.345`
 - [[codex-is-now-in-the-chatgpt-mobile-app.md]] Codex is now in the ChatGPT mobile app `pillar:capabilities` `score:0.635`
@@ -126,6 +127,7 @@
 - [[my-favorite-bugs-invalid-surrogate-pairs.md]] My Favorite Bugs: Invalid Surrogate Pairs `pillar:capabilities` `score:0.26`
 - [[nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead.md]] NanoClaw creator turns down $20M buyout offer, raises $12M seed instead `pillar:capabilities` `score:0.305`
 - [[neutron-scattering-explains-why-gluten-free-pasta-falls-apart-2025.md]] Neutron scattering explains why gluten-free pasta falls apart (2025) `pillar:capabilities` `score:0.22`
+- [[nndlnndl.md]] nndl/nndl `pillar:capabilities` `score:0.51`
 - [[no-more-jetbrains-products-for-me.md]] No More JetBrains Products for Me `pillar:capabilities` `score:0.465`
 - [[nobel-laureate-olga-tokarczuk-apparently-used-ai-to-write-her-latest-novel.md]] Nobel laureate Olga Tokarczuk apparently used AI to write her latest novel `pillar:capabilities` `score:0.38`
 - [[ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts.md]] Ontario auditors find doctors' AI note takers routinely blow basic facts `pillar:capabilities` `score:0.565`
@@ -530,6 +532,7 @@
 - [[datawhalechinaself-llm.md]] datawhalechina/self-llm `pillar:ecosystem` `score:0.58`
 - [[dmlcxgboost.md]] dmlc/xgboost `pillar:ecosystem` `score:0.615`
 - [[ethicalmlawesome-production-machine-learning.md]] EthicalML/awesome-production-machine-learning `pillar:ecosystem` `score:0.58`
+- [[everyone-is-navigating-ai-security-in-real-time-8212-even-google.md]] Everyone is navigating AI security in real time &#8212; even Google `pillar:ecosystem` `score:0.515`
 - [[fastaifastai.md]] fastai/fastai `pillar:ecosystem` `score:0.58`
 - [[flwrlabsflower.md]] flwrlabs/flower `pillar:ecosystem` `score:0.53`
 - [[fpromptschat.md]] f/prompts.chat `pillar:ecosystem` `score:0.58`
@@ -644,6 +647,7 @@
 - [[3-days-left-to-lock-in-50-off-a-second-ticket-to.md]] 3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026 `pillar:business` `score:0.15`
 - [[ai-boom-pushes-samsung-to-1t.md]] AI boom pushes Samsung to $1T `pillar:business` `score:0.3`
 - [[ai-eats-the-world-spring-26-pdf.md]] AI eats the world (Spring 26) [pdf] `pillar:business` `score:0.53`
+- [[ai-washing-firms-are-scrambling-to-rebrand-themselves-as-tech-focused.md]] 'AI washing': firms are scrambling to rebrand themselves as tech-focused `pillar:business` `score:0.48`
 - [[ai4finance-foundationfingpt.md]] AI4Finance-Foundation/FinGPT `pillar:business` `score:0.405`
 - [[air-france-and-airbus-found-guilty-of-manslaughter-over-2009-plane-crash.md]] Air France and Airbus found guilty of manslaughter over 2009 plane crash `pillar:business` `score:0.27`
 - [[all-means-are-fair-except-solving-the-problem.md]] All means are fair except solving the problem `pillar:business` `score:0.465`
@@ -712,6 +716,7 @@
 - [[maryland-citizens-hit-with-2b-power-grid-upgrade.md]] Maryland citizens hit with $2B power grid upgrade for out-of-state AI `pillar:business` `score:0.355`
 - [[mathfoundationrlbook-mathematical-foundation-of-reinforcement-learning.md]] MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning `pillar:business` `score:0.405`
 - [[medicares-new-payment-model-is-built-for-ai-most-of-the-tech-world-has-no-idea.md]] Medicare's new payment model is built for AI. Most of the tech world has no idea `pillar:business` `score:0.38`
+- [[memory-has-grown-to-nearly-two-thirds-of-ai-chip-component-costs.md]] Memory has grown to nearly two-thirds of AI chip component costs `pillar:business` `score:0.63`
 - [[meta-shuts-down-end-to-end-encryption-for-instagra.md]] Meta Shuts Down End-to-End Encryption for Instagram Messaging `pillar:business` `score:0.375`
 - [[meta-wont-let-you-block-its-ai-account-on-threads.md]] Meta won't let you block its AI account on Threads `pillar:business` `score:0.155`
 - [[metas-embrace-of-ai-is-making-its-employees-miser.md]] Meta's embrace of AI is making its employees miserable `pillar:business` `score:0.455`

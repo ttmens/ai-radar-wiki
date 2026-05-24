@@ -1,0 +1,22 @@
+{
+  "title": "Claude is not your architect. Stop letting it pretend",
+  "score": 210,
+  "comments": 145,
+  "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
+  "hn_url": "https://news.ycombinator.com/item?id=48259784",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "文章批评部分开发者让 AI（如 Claude）承担架构设计决策，指出当前 AI 在系统性架构设计上存在根本局限，容易生成看似合理实则漏洞百出的方案。对 AI 产品经理的核心启示是：不能将架构设计权交给 AI，而应将其定位为辅助工具，人类仍需主导关键决策。产品应明确人机责任边界，防止过度信任 AI 输出导致技术债务。商业上，强调可控性和安全性比效率更重要，避免因盲目依赖 AI 造成产品风险。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI 能力边界",
+    "人机责任划分"
+  ],
+  "entities": [
+    "Claude"
+  ],
+  "patterns": [
+    "人类主导的 AI 辅助模式"
+  ]
+}
