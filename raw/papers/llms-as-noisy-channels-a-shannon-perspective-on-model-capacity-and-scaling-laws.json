@@ -1,0 +1,32 @@
+{
+  "title": "LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws",
+  "summary": "Existing scaling laws for Large Language Models (LLMs), predominantly monotonic power laws, fail to explain emerging non-monotonic phenomena such as catastrophic overtraining and quantization-induced degradation, where performance deteriorates despite increased compute.\n  We propose the Shannon Scaling Law, a unified theoretical framework that models LLM training as information transmission over a noisy channel, grounded in the Shannon-Hartley theorem. By mapping model parameters to channel bandwidth and training tokens to signal power, our formulation explicitly captures the interaction between learning signal and intrinsic noise. This perspective reveals a fundamental Shannon capacity for LLMs: scaling model size or data without preserving a sufficient signal-to-noise ratio (SNR) inevitably amplifies noise, inducing a transition from monotonic improvement to U-shaped performance degradation.\n  We validate our theory through experiments on Pythia and OLMo2 under perturbations, including Gaussian noise, quantization and supervised fine-tuning on math, QA and code tasks. The Shannon Scaling Law consistently outperforms classical scaling laws and recent perturbation-aware laws, achieving strong $R^2$ scores and accurately capturing loss basins missed by prior approaches. It also extrapolates: fitted on $\\leq$6.9B Pythia models with $\\leq$180B tokens, it predicts the unseen 12B model up to 307B tokens at pooled $R^2{=}0.847$, while monotonic baselines collapse.",
+  "url": "http://arxiv.org/abs/2605.23901v1",
+  "authors": [
+    "Xu Ouyang",
+    "Deyi Liu",
+    "Yuhang Cai",
+    "Jing Liu",
+    "Yuan Yang"
+  ],
+  "published": "2026-05-22T17:59:38Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "fine-tuning",
+    "quantization",
+    "training",
+    "parameter",
+    "scaling law"
+  ],
+  "summary_cn": "本文从香农信道视角重新审视大语言模型的缩放定律，指出传统单调幂律无法解释灾难性过训练和量化退化等非单调现象。作者提出香农缩放定律，将模型视为有噪信道，容量受噪声和计算资源共同约束，解释了性能随计算量增加先升后降的悖论。这一视角为产品经理提供了更精确的模型容量-成本权衡理论，指导训练策略选择（避免过训练）和量化压缩设计（缓解退化），有望降低部署成本、提升模型鲁棒性，推动更高效的大模型产品开发。",
+  "pm_relevance": 7,
+  "concepts": [
+    "缩放定律",
+    "香农信道容量",
+    "非单调现象"
+  ],
+  "entities": [],
+  "patterns": []
+}

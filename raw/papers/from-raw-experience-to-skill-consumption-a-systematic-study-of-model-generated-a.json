@@ -1,0 +1,32 @@
+{
+  "title": "From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills",
+  "summary": "Language agents increasingly improve by reusing \\emph{skills} -- structured procedural artifacts distilled from past experience. In particular, \\emph{domain-level} and \\emph{model-generated} skills are especially promising. They offer fast adaptation within a domain by encoding domain-specific recurring procedures, and they scale beyond labor-intensive hand-crafting. However, while extraction methods continue to proliferate, understanding remains limited, with no comprehensive study spanning the full skill lifecycle -- \\textbf{experience generation}, \\textbf{skill extraction}, and \\textbf{skill consumption} -- to ask whether such skills actually work, when they work, and what makes them succeed or fail. To close this gap, we build a utility-grounded evaluation framework that provides systematic experimental results across extractors and target agents, covering five diverse agentic task domains. We find that model-generated skills are beneficial on average but exhibit non-trivial negative transfer, and that neither extractors nor targets behave uniformly. A model can be a strong extractor yet a weak consumer, or vice versa, with skill utility independent of model scale or baseline task strength. To explain these patterns, we then dissect each lifecycle stage in depth, analyzing how experience composition shapes skill quality, what properties characterize useful skills, and how the same skill transfers across different consumers. Finally, we translate these findings into a concrete \\emph{meta-skill} that guides skill extraction toward the features tied to actual utility, which consistently improves skill quality across domains and substantially reduces negative transfer.",
+  "url": "http://arxiv.org/abs/2605.23899v1",
+  "authors": [
+    "Zisu Huang",
+    "Jingwen Xu",
+    "Yifan Yang",
+    "Ziyang Gong",
+    "Qihao Yang"
+  ],
+  "published": "2026-05-22T17:59:12Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "framework",
+    "evaluation",
+    "eval"
+  ],
+  "summary_cn": "该论文系统研究了模型生成的智能体技能，提出从原始经验蒸馏为结构化、可重用的程序性工件（技能），尤其聚焦领域级和模型生成的技能。这种技能消费范式使语言智能体能够通过编码领域特定模式实现快速领域适应，降低从头训练成本。商业价值在于可构建技能市场，促进AI Agent的组件化与生态化，产品创新体现为将技能视为可消费模块，推动Agent能力的规模化复用与协作。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Agent Skills",
+    "Skill Distillation",
+    "Domain Adaptation"
+  ],
+  "entities": [],
+  "patterns": [
+    "Skill Consumption Pattern",
+    "Model-Generated Skills"
+  ]
+}

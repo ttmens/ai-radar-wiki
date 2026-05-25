@@ -1,0 +1,22 @@
+{
+  "title": "Don't know where your data is from? Bayesian modeling for unknown coordinates",
+  "score": 33,
+  "comments": 1,
+  "url": "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/",
+  "hn_url": "https://news.ycombinator.com/item?id=48259158",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "本文探讨了在数据来源坐标未知的情况下，如何利用贝叶斯建模进行可靠推断。技术核心是通过概率分布表达位置不确定性，从而在缺失精确地理或数据源信息时仍能训练鲁棒模型。产品经理可关注其提升数据治理能力、增强AI系统在模糊场景下的决策可靠性，以及降低对高质量标注数据的依赖。该方法适用于物联网、地理位置服务及用户隐私保护等场景，有望推动更灵活的数据融合与模型部署策略。",
+  "pm_relevance": 6,
+  "concepts": [
+    "贝叶斯推理",
+    "不确定性量化",
+    "数据溯源"
+  ],
+  "entities": [],
+  "patterns": [
+    "概率建模",
+    "数据可靠性增强"
+  ]
+}

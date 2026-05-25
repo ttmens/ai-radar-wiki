@@ -1,0 +1,34 @@
+{
+  "title": "Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models",
+  "summary": "We propose Complete-muE, a framework which targets hyperparameter transfer across dense FFN and any Mixture-of-Experts (MoE) setups in transformer blocks. Existing tools such as $μ$P (requires fixed architectue) or SDE (requires fixed per-step token count) cannot directly solve the hyperparameter transfer problem in MoE setups because Dense to MoE transfer or MoE total experts scaling changes both architecture and tokens per expert. Complete-muE solves this challenge with a two-bridge system: Bridge~I maps between dense FFN and Dense MoE by active-width $μ$P with a normalized router scale. Bridge~II maps between Dense MoE and sparse MoE by activated-expert scaling, where the first-order SDE LR/WD correction cancels while a bounded residual $σ_0$ shift remains. The resulting transfer rule, which we term as Complete muE, covers changes in activated experts, total capacity, granularity, and shared/group-balanced hybrids for MoE models as well as network width/depth, batch size, and duration changes for general Transformer models. Extensive language model and diffusion model pretraining experiments confirm that complete-muE yields relatively stable hyperparameter optima across model architectures and parameter counts -- with only minor drift consistent with the non-strict SDE behavior of Bridge~II. In practice this drift is small enough that hyperparameters tuned on a single dense reference transfer near-optimally to all MoE configurations -- \\emph{tune dense once, transfer to all} is the practical recipe at the core of Complete-muE. This enables MoE models to achieve accelerated convergence speedup over dense models when scaling model capacity without costly hyperparameter search.",
+  "url": "http://arxiv.org/abs/2605.23893v1",
+  "authors": [
+    "Hongwu Peng",
+    "Ohiremen Dibua",
+    "Yuanjun Xiong",
+    "Yifan Gong",
+    "Jianming Zhang"
+  ],
+  "published": "2026-05-22T17:56:13Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "training",
+    "model architecture",
+    "transformer",
+    "parameter",
+    "diffusion model"
+  ],
+  "summary_cn": "Complete-muE是一种针对Transformer块中密集前馈网络（FFN）与混合专家模型（MoE）的超参数迁移框架。它解决了现有工具如μP（需固定架构）和SDE（需固定每步token数）无法直接处理MoE超参数迁移的问题，实现了最优超参数迁移和模型缩放。该框架可显著降低MoE模型调参成本，加速大模型训练与部署，提升产品迭代效率，为开发者提供统一的超参数管理方案。",
+  "pm_relevance": 8,
+  "concepts": [
+    "超参数迁移",
+    "混合专家模型",
+    "模型缩放"
+  ],
+  "entities": [],
+  "patterns": [
+    "超参数优化"
+  ]
+}

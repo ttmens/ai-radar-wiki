@@ -945,3 +945,18 @@
 - create: ai-washing-firms-are-scrambling-to-rebrand-themselves-as-tech-focused.md
 - create: claude-is-not-your-architect-stop-letting-it-pretend.md
 - create: everyone-is-navigating-ai-security-in-real-time-8212-even-google.md
+
+## [2026-05-25 12:01] sync v3 | 13 new | pillars: {'capabilities': 12, 'ecosystem': 1}
+- create: skillopt-executive-strategy-for-self-evolving-agent-skills.md
+- create: llms-as-noisy-channels-a-shannon-perspective-on-model-capacity-and-scaling-laws.md
+- create: from-raw-experience-to-skill-consumption-a-systematic-study-of-model-generated-a.md
+- create: spacenum-revisiting-spatial-numerical-understanding-in-vlms.md
+- create: etchr-editing-to-clarify-and-harness-reasoning.md
+- create: complete-mue-optimal-hyperparameter-transfer-and-scaling-for-moe-models.md
+- create: good-token-hunting-a-hitchhikers-guide-to-token-selection-for-visual-geometry-tr.md
+- create: chronos-temporally-aware-multi-agent-coordination-for-evolving-data-marketplaces.md
+- create: pgt-procedurally-generated-tasks-for-improving-visual-grounding-in-mllms.md
+- create: on-the-stability-of-spherical-hellinger-kantorovich-flows-and-their-implications.md
+- create: training-free-looped-transformers.md
+- create: move-on-muon-a-hamiltonian-probability-gradient-flow-perspective-of-muon-optimiz.md
+- create: dont-know-where-your-data-is-from-bayesian-modeling-for-unknown-coordinates.md

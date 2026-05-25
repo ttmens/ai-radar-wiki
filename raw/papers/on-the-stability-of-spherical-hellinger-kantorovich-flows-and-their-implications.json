@@ -1,0 +1,26 @@
+{
+  "title": "On the Stability of Spherical Hellinger-Kantorovich Flows and Their Implications for Differential Privacy",
+  "summary": "Gradient-flow sampling interprets a Gibbs distribution as the minimizer of an energy functional over probability measures and generates dynamics converging to this target. Under spherical Hellinger-Kantorovich (SHK) geometry, the flow couples transport and reaction and coincides with birth-death Langevin dynamics. In this work, we develop a perturbation theory for SHK gradient flows. For two potentials $V$ and $V^{\\prime}$, we compare the associated flows from a common initialization and quantify how potential discrepancies propagate over time. A uniform perturbation bound yields dimension-free, pointwise control of the log-likelihood ratio and Rényi divergence, while additional structure allows us to derive bounds for the KL divergence as well. We apply these results to approximate sampling for the exponential mechanism in differential privacy. The likelihood-ratio control provides explicit time-dependent Pure-DP guarantees for SHK-based samplers, while the KL bound yields Approximate-DP certificates via hockey-stick divergence. We also derive a utility bound separating intrinsic exponential-mechanism suboptimality from finite-time sampling error.",
+  "url": "http://arxiv.org/abs/2605.23879v1",
+  "authors": [
+    "Aratrika Mustafi",
+    "Soumya Mukherjee"
+  ],
+  "published": "2026-05-22T17:38:20Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "gradient"
+  ],
+  "summary_cn": "该论文研究了球形Hellinger-Kantorovich（SHK）几何下梯度流采样的稳定性，该流耦合了输运和反应过程，与出生-死亡过程一致。通过SHK框架，能够更稳定地逼近吉布斯分布，从而为差分隐私提供新的理论工具。商业上，可应用于隐私保护的生成模型、联邦学习中的数据分布建模，提升数据安全与采样效率。产品创新在于将几何流与隐私约束结合，有望开发出更鲁棒、更可解释的差分隐私机制。",
+  "pm_relevance": 6,
+  "concepts": [
+    "差分隐私",
+    "梯度流采样",
+    "Hellinger-Kantorovich几何"
+  ],
+  "entities": [],
+  "patterns": [
+    "差分隐私生成模型"
+  ]
+}

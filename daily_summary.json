@@ -2,75 +2,46 @@
   "daily_summary": {
     "date": "2026-05-25",
     "headline": "今日 AI 情报 · 2026-05-25",
-    "overview": "AI产品进入‘去泡沫化’阶段：成本、可靠性与信任成为核心竞争力",
+    "overview": "AI产品设计焦点从能力突破转向成本效率与可靠性平衡，落地进入深水区。",
     "narratives": [
       {
-        "title": "AI产品进入成本驱动阶段：内存与缓存优化成为关键",
-        "body": "AI芯片中内存成本占比接近三分之二，迫使产品设计必须从算法优化和缓存策略入手降低成本。DeepSeek原生编码代理通过高缓存机制实现低推理成本，而约束衰减问题则揭示了长序列代码生成中可靠性成本。产品经理需将成本建模嵌入设计决策，平衡模型性能与部署总成本。",
-        "type": "bottleneck",
-        "pillar_key": "business"
-      },
-      {
-        "title": "人机协作的信任边界：从能力局限到安全可控",
-        "body": "当前AI在架构设计、后端代码生成等领域存在根本性局限，Claude不宜承担架构决策，约束衰减导致代码退化。同时AI安全仍处过渡期，谷歌亦在实时应对。产品经理必须明确人机责任边界，将安全性、可解释性作为核心特性，避免盲目依赖导致技术债务。",
-        "type": "maturation",
-        "pillar_key": "capabilities"
+        "title": "AI产品设计从能力竞赛转向成本效率与可靠性平衡",
+        "body": "多个信号表明，AI行业正在从单纯追求模型能力升级，转向更务实的成本管控和可靠性构建。芯片内存成本占比升至三分之二、模型压缩与缓存策略的兴起、以及LLM Agent在长程任务中的约束衰减问题，共同指向一个核心矛盾：AI产品要规模化落地，必须在性能、成本和可信度之间找到新平衡。这要求产品经理重新审视技术选型、用户体验设计和商业模型。",
+        "type": "paradigm_shift",
+        "pillar_key": "patterns"
       }
     ],
     "insights": [
       {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "narrative_title": "AI产品进入成本驱动阶段：内存与缓存优化成为关键",
-        "insight": "AI产品进入成本驱动阶段：内存与缓存优化成为关键。该方向的具体信号：内存占AI芯片成本近三分之二，催生'内存感知'的模型压缩与调度策略；DeepSeek原生编码代理通过高缓存机制降低推理成本，展示缓存策略的商业价值；同时'AI洗白'现象提醒产品经理念需警惕泡沫，回归真实用户价值。",
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI产品设计从能力竞赛转向成本效率与可靠性平衡",
+        "insight": "AI产品设计从能力竞赛转向成本效率与可靠性平衡。该方向的具体信号：DeepSeek reasonix通过高缓存机制显著降低推理成本，而约束衰减问题揭示了LLM Agent在长序列代码生成中的可靠性短板。两者共同指向产品设计需优先考虑缓存策略、约束记忆注入等工程手段，以平衡成本与可靠性。",
         "evidence": [
           {
             "id": "deepseek-reasonix-deepseek-native-coding-agent-with-high-caching-and-low-cost",
-            "title": "DeepSeek原生编码代理高缓存低成本",
+            "title": "DeepSeek reasonix: 高缓存原生编码代理降低推理成本",
             "score": 0.48
           }
         ]
       },
       {
-        "pillar": "🤖 技术能力",
-        "pillar_key": "capabilities",
-        "narrative_title": "人机协作的信任边界：从能力局限到安全可控",
-        "insight": "人机协作的信任边界：从能力局限到安全可控。该方向的具体信号：Claude被批评不能替代架构师，暴露AI在系统性设计上的局限；亚马逊Bee可穿戴设备在便利与隐私间的平衡凸显人机信任设计挑战；同时科普教材《神经网络与深度学习》帮助产品经理建立技术判断力，理性评估AI能力上限。",
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI产品设计从能力竞赛转向成本效率与可靠性平衡",
+        "insight": "AI产品设计从能力竞赛转向成本效率与可靠性平衡。该方向的具体信号：AI芯片内存成本占比已接近三分之二，倒逼模型压缩与硬件协同创新；同时‘AI洗白’现象表明市场对虚假AI能力的警惕增强，可靠性与真实价值成为差异化竞争点。商业策略应聚焦于降低TCO和建立可信赖品牌。",
         "evidence": [
           {
-            "id": "claude-is-not-your-architect-stop-letting-it-pretend",
-            "title": "不要用Claude做架构设计",
-            "score": 0.6
-          },
-          {
-            "id": "i-tried-amazon8217s-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out",
-            "title": "亚马逊Bee可穿戴：便利与隐私的博弈",
-            "score": 0.48
-          },
-          {
-            "id": "nndlnndl",
-            "title": "《神经网络与深度学习》开源教材",
-            "score": 0.51
-          }
-        ]
-      },
-      {
-        "pillar": "📱 产品模式",
-        "pillar_key": "patterns",
-        "narrative_title": "人机协作的信任边界：从能力局限到安全可控",
-        "insight": "人机协作的信任边界：从能力局限到安全可控。该方向的具体信号：约束衰减现象表明LLM在后端代码生成长序列时易丢失初始约束，降低可靠性；DeepSeek虽通过缓存降低成本，但产品仍需解决长期依赖问题，如定期注入上下文或强化记忆。产品经理应设计渐进式验证机制，而非完全信任AI输出。",
-        "evidence": [
-          {
-            "id": "constraint-decay-the-fragility-of-llm-agents-in-back-end-code-generation",
-            "title": "约束衰减：LLM智能体后端代码生成的脆弱性",
-            "score": 0.33
+            "id": "memory-has-grown-to-nearly-two-thirds-of-ai-chip-component-costs",
+            "title": "内存占比升至AI芯片成本近三分之二",
+            "score": 0.63
           }
         ]
       }
     ],
-    "stats": "技术能力: 4 | 产品模式: 1 | 工具生态: 1 | 商业趋势: 4",
-    "total_items": 9,
-    "high_value_count": 8,
+    "stats": "技术能力: 13 | 产品模式: 2 | 工具生态: 2 | 商业趋势: 3",
+    "total_items": 20,
+    "high_value_count": 18,
     "all_today_ids": [
       {
         "id": "memory-has-grown-to-nearly-two-thirds-of-ai-chip-component-costs",
@@ -101,15 +72,67 @@
         "label": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost"
       },
       {
+        "id": "from-raw-experience-to-skill-consumption-a-systematic-study-of-model-generated-a",
+        "label": "From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated"
+      },
+      {
+        "id": "complete-mue-optimal-hyperparameter-transfer-and-scaling-for-moe-models",
+        "label": "Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models"
+      },
+      {
+        "id": "training-free-looped-transformers",
+        "label": "Training-Free Looped Transformers"
+      },
+      {
+        "id": "etchr-editing-to-clarify-and-harness-reasoning",
+        "label": "ETCHR: Editing To Clarify and Harness Reasoning"
+      },
+      {
+        "id": "skillopt-executive-strategy-for-self-evolving-agent-skills",
+        "label": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills"
+      },
+      {
+        "id": "pgt-procedurally-generated-tasks-for-improving-visual-grounding-in-mllms",
+        "label": "PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs"
+      },
+      {
+        "id": "good-token-hunting-a-hitchhikers-guide-to-token-selection-for-visual-geometry-tr",
+        "label": "Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry"
+      },
+      {
+        "id": "llms-as-noisy-channels-a-shannon-perspective-on-model-capacity-and-scaling-laws",
+        "label": "LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws"
+      },
+      {
+        "id": "chronos-temporally-aware-multi-agent-coordination-for-evolving-data-marketplaces",
+        "label": "CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplace"
+      },
+      {
+        "id": "on-the-stability-of-spherical-hellinger-kantorovich-flows-and-their-implications",
+        "label": "On the Stability of Spherical Hellinger-Kantorovich Flows and Their Implications"
+      },
+      {
         "id": "constraint-decay-the-fragility-of-llm-agents-in-back-end-code-generation",
         "label": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation"
       },
       {
         "id": "show-hn-a-satirical-idle-game-about-running-an-ai-startup",
         "label": "Show HN: A satirical idle game about running an AI startup"
+      },
+      {
+        "id": "move-on-muon-a-hamiltonian-probability-gradient-flow-perspective-of-muon-optimiz",
+        "label": "Move on Muon : A Hamiltonian probability gradient flow perspective of Muon optim"
+      },
+      {
+        "id": "dont-know-where-your-data-is-from-bayesian-modeling-for-unknown-coordinates",
+        "label": "Don't know where your data is from? Bayesian modeling for unknown coordinates"
+      },
+      {
+        "id": "spacenum-revisiting-spatial-numerical-understanding-in-vlms",
+        "label": "SPACENUM: Revisiting Spatial Numerical Understanding in VLMs"
       }
     ],
     "date_bj": "2026-05-25 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-25 06:04:13"
+    "generated_at_bj": "2026-05-25 12:01:10"
   }
 }
