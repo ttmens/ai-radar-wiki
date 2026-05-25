@@ -960,3 +960,6 @@
 - create: training-free-looped-transformers.md
 - create: move-on-muon-a-hamiltonian-probability-gradient-flow-perspective-of-muon-optimiz.md
 - create: dont-know-where-your-data-is-from-bayesian-modeling-for-unknown-coordinates.md
+
+## [2026-05-25 18:02] sync v3 | 1 new | pillars: {'patterns': 1}
+- create: show-hn-kanban-cli-a-local-first-agent-first-task-manager-for-the-terminal.md

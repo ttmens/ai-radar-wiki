@@ -1,0 +1,26 @@
+{
+  "title": "Show HN: Kanban CLI (A local-first, agent-first task manager for the terminal)",
+  "score": 12,
+  "comments": 8,
+  "url": "https://codeberg.org/hydrafog/kanban",
+  "hn_url": "https://news.ycombinator.com/item?id=48256520",
+  "tag": "ShowHN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "一款名为 Kanban CLI 的终端任务管理工具，采用本地优先和代理优先的设计理念。用户可在命令行中管理看板任务，AI 代理可自主执行操作如创建、移动、更新任务卡片，无需依赖云端服务。技术亮点包括纯本地数据存储保障隐私、基于终端的高效交互、以及将 AI 代理作为一等公民集成到工作流中。产品创新在于将看板方法论与 AI 自主行动能力结合，适合开发者快速管理任务，提升个人或小团队的效率。商业价值体现在开源社区吸引、终端工具生态扩展，以及为本地优先 AI 应用提供参考范式。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Local-First AI",
+    "Agent-First Design",
+    "Terminal UX"
+  ],
+  "entities": [
+    "Kanban CLI"
+  ],
+  "patterns": [
+    "Local-First AI",
+    "Agent Orchestration"
+  ]
+}
