@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 25 May 2026 00:12:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 04:02:12 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -69,6 +69,86 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated</title>
+      <link>http://arxiv.org/abs/2605.23899v1</link>
+      <guid isPermaLink="false">from-raw-experience-to-skill-consumption-a-systematic-study-of-model-generated-a</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文系统研究了模型生成的智能体技能，提出从原始经验蒸馏为结构化、可重用的程序性工件（技能），尤其聚焦领域级和模型生成的技能。这种技能消费范式使语言智能体能够通过编码领域特定模式实现快速领域适应，降低从头训练成本。商业价值在于可构建技能市场，促进AI Agent的组件化与生态化，产品创新体现为将技能视为可消费模块，推动Agent能力的规模化复用与协作。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models</title>
+      <link>http://arxiv.org/abs/2605.23893v1</link>
+      <guid isPermaLink="false">complete-mue-optimal-hyperparameter-transfer-and-scaling-for-moe-models</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>Complete-muE是一种针对Transformer块中密集前馈网络（FFN）与混合专家模型（MoE）的超参数迁移框架。它解决了现有工具如μP（需固定架构）和SDE（需固定每步token数）无法直接处理MoE超参数迁移的问题，实现了最优超参数迁移和模型缩放。该框架可显著降低MoE模型调参成本，加速大模型训练与部署，提升产品迭代效率，为开发者提供统一的超参数管理方案。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Training-Free Looped Transformers</title>
+      <link>http://arxiv.org/abs/2605.23872v1</link>
+      <guid isPermaLink="false">training-free-looped-transformers</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出一种无需训练的循环变压器方法，通过在推理时使用轻量级包装器循环冻结预训练模型的中间层块，无需微调或架构更改即可增强模型能力。该方法区别于传统循环变压器（需额外训练），降低了部署成本，使现有大模型能更高效地处理长序列或复杂推理任务。商业价值在于快速提升模型效果而不增加训练开销，产品创新体现为“即插即用”的循环增强能力，适合对实时性和资源敏感的AI应用场景。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>ETCHR: Editing To Clarify and Harness Reasoning</title>
+      <link>http://arxiv.org/abs/2605.23897v1</link>
+      <guid isPermaLink="false">etchr-editing-to-clarify-and-harness-reasoning</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出ETCHR方法，旨在通过编辑来澄清和利用推理。针对多模态大语言模型中纯文本思维链无法处理需要精细焦点或视角转换的问题，采用“用图像思考”范式，但现有方法受限。ETCHR通过图像编辑辅助推理，提升视觉问答等任务的准确性和可解释性，为产品开发提供更可靠的视觉推理能力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>SkillOpt: Executive Strategy for Self-Evolving Agent Skills</title>
+      <link>http://arxiv.org/abs/2605.23904v1</link>
+      <guid isPermaLink="false">skillopt-executive-strategy-for-self-evolving-agent-skills</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出 SkillOpt 策略，针对当前 Agent 技能依赖手工设计、一次性生成或松散自我修订的局限，主张技能应像深度学习优化器一样在反馈下持续训练与进化。该方法通过执行级优化，使技能能可靠地改进初始表现，提升 Agent 的自适应能力和长期效果。对产品经理而言，SkillOpt 可降低技能定制成本，实现 Agent 行为的自动调优，推动自主智能体的产品化落地。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs</title>
+      <link>http://arxiv.org/abs/2605.23883v1</link>
+      <guid isPermaLink="false">pgt-procedurally-generated-tasks-for-improving-visual-grounding-in-mllms</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出PGT（程序化生成任务）框架，旨在解决多模态大语言模型在细粒度视觉理解上的不足。通过自动生成结构化视觉推理任务，PGT能有效提升模型对图像细节的感知与定位能力。该框架简单灵活，可扩展至多种视觉任务，具有显著的产品创新潜力，例如在电商商品识别、医疗影像分析等场景中提升精度。同时，PGT降低了人工标注成本，为商业落地提供了高效的数据驱动方案。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry</title>
+      <link>http://arxiv.org/abs/2605.23892v1</link>
+      <guid isPermaLink="false">good-token-hunting-a-hitchhikers-guide-to-token-selection-for-visual-geometry-tr</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出了一种针对视觉几何变换器的token选择方法，旨在解决其在多视图3D重建中因全局注意力层导致的计算成本随输入序列长度二次增长的问题。通过智能筛选关键token，该方法在保持重建精度的同时显著降低计算开销，提升了模型在实时或资源受限场景下的可行性。这对AR/VR、自动驾驶等需要高效3D感知的产品具有商业价值，为产品经理提供了优化成本与性能平衡的技术路径。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws</title>
+      <link>http://arxiv.org/abs/2605.23901v1</link>
+      <guid isPermaLink="false">llms-as-noisy-channels-a-shannon-perspective-on-model-capacity-and-scaling-laws</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文从香农信道视角重新审视大语言模型的缩放定律，指出传统单调幂律无法解释灾难性过训练和量化退化等非单调现象。作者提出香农缩放定律，将模型视为有噪信道，容量受噪声和计算资源共同约束，解释了性能随计算量增加先升后降的悖论。这一视角为产品经理提供了更精确的模型容量-成本权衡理论，指导训练策略选择（避免过训练）和量化压缩设计（缓解退化），有望降低部署成本、提升模型鲁棒性，推动更高效的大模型产品开发。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplace</title>
+      <link>http://arxiv.org/abs/2605.23887v1</link>
+      <guid isPermaLink="false">chronos-temporally-aware-multi-agent-coordination-for-evolving-data-marketplaces</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>CHRONOS 提出了一种时间感知的多智能体协调框架，专门针对时态知识图谱数据市场中的三个关键缺陷：静态混合索引导致数据演化后召回率下降、固定 Shapley 定价在分布偏移后无法反映真实价值、以及未协调的智能体过度消耗共享差分隐私预算。该框架通过动态索引更新、基于时间衰减的定价调整以及隐私预算的协同分配，提升了数据市场的时效性、公平性和隐私效率。对于 AI 产品经理而言，它展示了如何将时间维度融入数据交易系统的设计，从而在动态环境中实现更高价值的数据流通和隐私保护，尤其适用于需要实时数据交换和隐私合规的场景。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>On the Stability of Spherical Hellinger-Kantorovich Flows and Their Implications</title>
+      <link>http://arxiv.org/abs/2605.23879v1</link>
+      <guid isPermaLink="false">on-the-stability-of-spherical-hellinger-kantorovich-flows-and-their-implications</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文研究了球形Hellinger-Kantorovich（SHK）几何下梯度流采样的稳定性，该流耦合了输运和反应过程，与出生-死亡过程一致。通过SHK框架，能够更稳定地逼近吉布斯分布，从而为差分隐私提供新的理论工具。商业上，可应用于隐私保护的生成模型、联邦学习中的数据分布建模，提升数据安全与采样效率。产品创新在于将几何流与隐私约束结合，有望开发出更鲁棒、更可解释的差分隐私机制。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Constraint Decay: The Fragility of LLM Agents in Back End Code Generation</title>
       <link>https://news.ycombinator.com/item?id=48256912</link>
       <guid isPermaLink="false">constraint-decay-the-fragility-of-llm-agents-in-back-end-code-generation</guid>
@@ -83,6 +163,30 @@
       <pubDate>2026-05-25T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该作品是一款讽刺性放置游戏，模拟AI初创公司的运营过程。玩家通过点击、决策和资源管理来推进公司发展，体验从融资到产品落地的荒诞现实。游戏以幽默方式揭示AI行业常见陷阱，如追逐热点、过度承诺、技术炒作等。对于AI产品经理而言，这是一面镜子，反映真实创业中的产品策略与商业模式困境，同时强调用户价值而非技术炫耀。</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Move on Muon : A Hamiltonian probability gradient flow perspective of Muon optim</title>
+      <link>http://arxiv.org/abs/2605.23871v1</link>
+      <guid isPermaLink="false">move-on-muon-a-hamiltonian-probability-gradient-flow-perspective-of-muon-optimiz</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出了一种基于哈密顿概率梯度流的新视角来分析Muon优化器。通过正则化Muon（一种平滑的理想化版本），作者在矩阵参数空间上定义了概率测度下的梯度流，并发现正则化正交映射是光滑Fenchel对偶函数的梯度。该理论为优化器的收敛性和稳定性提供了数学基础，有望推动大规模模型训练效率的提升。对AI产品经理而言，理解这种先进优化算法有助于评估训练成本与模型性能的平衡，但短期内直接产品应用价值有限。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Don't know where your data is from? Bayesian modeling for unknown coordinates</title>
+      <link>https://news.ycombinator.com/item?id=48259158</link>
+      <guid isPermaLink="false">dont-know-where-your-data-is-from-bayesian-modeling-for-unknown-coordinates</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了在数据来源坐标未知的情况下，如何利用贝叶斯建模进行可靠推断。技术核心是通过概率分布表达位置不确定性，从而在缺失精确地理或数据源信息时仍能训练鲁棒模型。产品经理可关注其提升数据治理能力、增强AI系统在模糊场景下的决策可靠性，以及降低对高质量标注数据的依赖。该方法适用于物联网、地理位置服务及用户隐私保护等场景，有望推动更灵活的数据融合与模型部署策略。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>SPACENUM: Revisiting Spatial Numerical Understanding in VLMs</title>
+      <link>http://arxiv.org/abs/2605.23898v1</link>
+      <guid isPermaLink="false">spacenum-revisiting-spatial-numerical-understanding-in-vlms</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Vision-Language Models (VLMs) are increasingly deployed in embodied environments, where they need produce numerical outputs such as action magnitudes and spatial coordinates. Although these numbers appear meaningful, it remains unclear whether these numerical outputs are genuinely grounded in spatia</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>rohitg00/ai-engineering-from-scratch</title>
@@ -307,110 +411,6 @@
       <pubDate>2026-05-23T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本研究发现一种新型攻击——领域伪装注入攻击，能有效规避多智能体LLM系统的检测。攻击者通过将恶意指令伪装成与当前对话领域相关的合法请求，欺骗多个协作的LLM代理执行不当操作。该攻击利用了多智能体系统中角色分工和信任传递的漏洞，对商业级多智能体产品（如客服、协作AI）构成严重威胁。产品经理需在架构设计时引入跨代理验证、上下文隔离和行为审计机制，优先防御此类隐蔽性强的注入攻击，确保系统鲁棒性与用户数据安全。</p></description>
       <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Lawmakers Demand Answers as CISA Tries to Contain Data Leak</title>
-      <link>https://news.ycombinator.com/item?id=48238429</link>
-      <guid isPermaLink="false">lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak</guid>
-      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>美国网络安全与基础设施安全局（CISA）发生数据泄露事件，立法者要求该机构提供详细解释和应对措施。该事件凸显了政府机构及AI系统在处理敏感数据时的安全风险。对AI产品经理而言，需重视数据加密、访问控制和审计机制的设计，确保产品合规且能抵御泄露风险。商业上，安全漏洞可能引发用户信任危机和监管处罚，因此产品中应内置隐私保护与应急响应功能，如自动脱敏和泄露追溯。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Valve removes free game from Steam after players discover it contains malware</title>
-      <link>https://news.ycombinator.com/item?id=48235033</link>
-      <guid isPermaLink="false">valve-removes-free-game-from-steam-after-players-discover-it-contains-malware</guid>
-      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Steam下架了一款被玩家发现含有恶意软件的免费游戏，该事件暴露了数字游戏平台在内容安全审查上的漏洞。虽然不直接涉及AI技术，但AI可以用于自动化恶意代码检测和异常行为分析，提升平台安全治理效率。对于AI产品经理而言，这提示了AI在平台生态安全、自动化审核和用户反馈闭环中的潜在应用价值，特别是在内容分发环节建立智能监测体系可减少人工成本并降低风险。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>SpaceX files to go public, and the math requires a little faith</title>
-      <link>https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/</link>
-      <guid isPermaLink="false">spacex-files-to-go-public-and-the-math-requires-a-little-faith</guid>
-      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>SpaceX 正式提交上市申请（S-1），文件长达36页风险因素，目标市场总规模达28万亿美元，高管薪酬与火星殖民计划挂钩。该事件展示了太空商业化的巨大潜力和长期愿景，对AI产品经理而言，提示了超大规模市场定义、长期技术路线图与商业价值锚定的结合方式，以及高风险高回报的创新商业模式。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Google goes for the glitter with disco-ball icons: &amp;#8216;Are y&amp;#8217;all sure y</title>
-      <link>https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/</link>
-      <guid isPermaLink="false">google-goes-for-the-glitter-with-disco-ball-icons-8216are-y8217all-sure-you-stil</guid>
-      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google 为 Pixel 手机推出了一项趣味性 UI 个性化功能，允许用户将整个主屏幕图标变为迪斯科球风格（disco-ball icons）。该功能本质上是一种视觉主题装饰，不涉及 AI 模型、推理或上下文理解。从 AI 产品经理视角看，此更新缺乏技术要点、商业价值或产品创新，仅属于设计层面的微创新。对于专注 AI 能力的 PM 而言，参考意义极低，不应视为 AI 产品动态。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Neutron scattering explains why gluten-free pasta falls apart (2025)</title>
-      <link>https://news.ycombinator.com/item?id=48206763</link>
-      <guid isPermaLink="false">neutron-scattering-explains-why-gluten-free-pasta-falls-apart-2025</guid>
-      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>该研究利用中子散射技术揭示了无麸质面食在烹饪过程中结构崩溃的微观机制，为食品科学领域提供了关键见解。虽然并非直接涉及AI技术，但对AI产品经理而言，此类跨学科研究可能启发食品科技中的数据驱动建模与材料模拟应用，例如通过机器学习预测面食质地或优化配方。商业价值体现在改善无麸质食品口感与品质，拓展健康食品市场。产品创新方向可结合AI进行配方推荐与烹饪参数优化。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>1940 Air Terminal Museum Begins Liquidation</title>
-      <link>https://news.ycombinator.com/item?id=48238568</link>
-      <guid isPermaLink="false">1940-air-terminal-museum-begins-liquidation</guid>
-      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> hn</p><hr/><p>该新闻为博物馆清算公告，与AI技术、产品创新或商业模式无关。但作为Hacker News帖子，可能反映社区讨论或广义生态信息。对AI产品经理无直接参考价值。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Throwing AI-generated walls of text into conversations</title>
-      <link>https://news.ycombinator.com/item?id=48219992</link>
-      <guid isPermaLink="false">throwing-ai-generated-walls-of-text-into-conversations</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>该标题探讨在对话中插入AI生成的大段文本（'walls of text'）的技术与产品挑战。从产品经理视角，核心痛点在于如何平衡长文本生成带来的信息丰富度与对话流畅性：过度依赖AI生成大段回复可能破坏自然交流节奏，导致用户认知负担加重。技术要点涉及长文本上下文管理、对话系统设计及生成内容的可控性；商业价值体现在提升信息传递效率（如客服场景快速提供解决方案）或内容创作辅助；产品创新方向包括分段思考、交互式展开、或智能摘要先行。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>AI is just unauthorised plagiarism at a bigger scale</title>
-      <link>https://news.ycombinator.com/item?id=48222383</link>
-      <guid isPermaLink="false">ai-is-just-unauthorised-plagiarism-at-a-bigger-scale</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>该观点指出当前AI系统本质上是更大规模的未经授权的抄袭行为，即通过训练数据中的版权内容生成输出，缺乏真正的创新。对AI产品经理而言，这提醒需要关注数据合规风险、版权纠纷及伦理问题，避免产品因依赖未授权数据而导致法律挑战。技术要点在于理解模型训练的数据来源与生成机制，商业价值上需建立合法的数据授权或合成数据策略，产品创新应转向设计尊重原创的协作式AI。同时，强调透明度和归因机制将成为提升用户信任的关键。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Shunning AI is the human choice</title>
-      <link>https://news.ycombinator.com/item?id=48222366</link>
-      <guid isPermaLink="false">shunning-ai-is-the-human-choice</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文讨论人类在AI时代拥有选择拒绝AI的权利，强调产品设计应尊重用户自主决策。技术要点在于AI能力边界并非万能，过度依赖可能导致用户反感。商业价值体现在通过提供‘AI退出选项’增强用户信任与品牌忠诚度。产品创新方向包括设计可切换式AI功能、保留纯人工模式，以及将人类判断作为最终决策依据。适合AI产品经理反思：如何平衡AI效率与人性化选择，避免强制智能导致用户流失。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Kong/kong</title>
-      <link>https://github.com/Kong/kong</link>
-      <guid isPermaLink="false">kongkong</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>Kong 是一款开源 API 和 AI 网关，支持传统 API 管理与 AI 模型路由、安全、可观测性等能力，帮助产品经理统一管理传统服务与 AI 推理端点，降低集成成本并提升系统灵活性。其商业价值在于为企业提供标准化、可扩展的网关层，加速 AI 能力的落地。产品创新体现在将 AI 网关功能（如模型路由、速率限制、多模型切换）无缝嵌入现有 API 基础设施中。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Project Hail Mary – Stellar Navigation Chart</title>
-      <link>https://news.ycombinator.com/item?id=48225297</link>
-      <guid isPermaLink="false">project-hail-mary-stellar-navigation-chart</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容为Hacker News上关于“Project Hail Mary”的星际导航图表讨论，初步归为AI能力类。技术角度可能涉及强化学习或路径规划在太空探索中的应用，通过AI优化星际航行决策。商业价值体现在降低航天任务成本、提升自主导航可靠性。产品创新在于将大语言模型或推理引擎与天体力学模型结合，实现动态星图生成与实时避障。对于AI产品经理，可关注AI在极端环境下的鲁棒性设计与仿真训练方法。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Google's Antigravity Bait and Switch</title>
-      <link>https://news.ycombinator.com/item?id=48222529</link>
-      <guid isPermaLink="false">googles-antigravity-bait-and-switch</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章标题暗示谷歌可能通过某种“诱饵调包”策略推广其AI能力，实际产品表现或与宣传不符。对于AI产品经理，需警惕大公司营销虚高能力，关注技术真实落地与用户价值。核心要点：评估AI产品时应基于实际性能测试，而非宣传口号；理解Bait and Switch模式在AI领域的应用风险；保持对技术承诺的理性判断。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Hark raises $700M Series A for its secretive &amp;#8220;universal&amp;#8221; AI interfac</title>
-      <link>https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/</link>
-      <guid isPermaLink="false">hark-raises-700m-series-a-for-its-secretive-8220universal8221-ai-interface</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Hark（Brett Adcock新创公司）获7亿美元A轮融资，估值达60亿美元，打造“通用”AI界面。该界面旨在成为所有AI模型与服务的统一交互层，类似于AI操作系统，可动态调用不同模型完成复杂任务。商业价值在于可能颠覆现有AI应用生态，成为下一代AI入口。产品创新点包括隐式意图理解、多模态输入输出、以及模型无关的编排能力。对于AI产品经理而言，此项目代表平台级机会，需关注其开放性与垂直场景适配。</p></description>
-      <category>🤖 技术能力</category>
     </item>
   </channel>
 </rss>
