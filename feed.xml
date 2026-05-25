@@ -5,13 +5,53 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 24 May 2026 20:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 00:12:08 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Memory has grown to nearly two-thirds of AI chip component costs</title>
+      <link>https://news.ycombinator.com/item?id=48258684</link>
+      <guid isPermaLink="false">memory-has-grown-to-nearly-two-thirds-of-ai-chip-component-costs</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>当前AI芯片中，内存（如高带宽存储器HBM）成本已接近组件总成本的三分之二。这一趋势对AI产品经理至关重要：一方面，内存成本主导着芯片定价与供应，影响云端推理和边缘设备的部署成本；另一方面，推动模型设计向减少内存带宽依赖（如稀疏计算、量化）或采用更高效内存层级（如近存计算、CXL互连）的创新。商业上，掌握内存供应链的企业将获得定价优势；产品上，催生“内存感知”的模型压缩与调度策略，降低总拥有成本。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Claude is not your architect. Stop letting it pretend</title>
+      <link>https://news.ycombinator.com/item?id=48259784</link>
+      <guid isPermaLink="false">claude-is-not-your-architect-stop-letting-it-pretend</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章批评部分开发者让 AI（如 Claude）承担架构设计决策，指出当前 AI 在系统性架构设计上存在根本局限，容易生成看似合理实则漏洞百出的方案。对 AI 产品经理的核心启示是：不能将架构设计权交给 AI，而应将其定位为辅助工具，人类仍需主导关键决策。产品应明确人机责任边界，防止过度信任 AI 输出导致技术债务。商业上，强调可控性和安全性比效率更重要，避免因盲目依赖 AI 造成产品风险。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Everyone is navigating AI security in real time &amp;#8212; even Google</title>
+      <link>https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/</link>
+      <guid isPermaLink="false">everyone-is-navigating-ai-security-in-real-time-8212-even-google</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>文章指出当前所有人都处于AI安全过渡期，即使是谷歌也在实时应对安全挑战。这反映了AI能力快速演进中安全防护的滞后性，对产品经理而言，意味着需要建立动态安全机制，将安全性作为产品核心特性而非事后补丁。商业价值在于率先实现可信赖AI的产品将获得用户信任优势。产品创新方向包括实时威胁检测、隐私保护架构和可解释性设计。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>nndl/nndl</title>
+      <link>https://github.com/nndl/nndl</link>
+      <guid isPermaLink="false">nndlnndl</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> github</p><hr/><p>《神经网络与深度学习》（蒲公英书）是邱锡鹏教授撰写的深度学习理论教材，GitHub 上提供 v2 版与通识版开源内容。本书系统讲解神经网络基础、前馈/卷积/循环网络、注意力机制、优化方法、正则化等核心理论，并涵盖生成模型、图神经网络等前沿方向。对 AI 产品经理而言，理解这些理论有助于把握模型能力上限、评估技术可行性，并能在与算法团队沟通时建立共同语言。商业价值在于为产品设计提供技术逻辑支撑，降低创新风险。本书被誉为中文深度学习经典入门教材，长期维护更新。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>'AI washing': firms are scrambling to rebrand themselves as tech-focused</title>
+      <link>https://news.ycombinator.com/item?id=48257980</link>
+      <guid isPermaLink="false">ai-washing-firms-are-scrambling-to-rebrand-themselves-as-tech-focused</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文报道了“AI洗白”现象，即许多企业为迎合AI热潮而匆忙将自己的品牌重新定位为AI驱动，即使其技术实力有限。这种行为旨在提升估值与投资者兴趣，但可能误导市场和用户。对AI产品经理而言，需警惕辨识产品背后的真实AI能力与营销话术，避免被表面标签迷惑，应聚焦于产品实际解决的问题与用户价值。该现象反映了当前AI领域的泡沫风险，以及企业面对技术趋势时的短期策略。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
     <item>
       <title>I tried Amazon&amp;#8217;s Bee wearable and am both intrigued and slightly creeped o</title>
       <link>https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/</link>
@@ -371,46 +411,6 @@
       <pubDate>2026-05-22T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Hark（Brett Adcock新创公司）获7亿美元A轮融资，估值达60亿美元，打造“通用”AI界面。该界面旨在成为所有AI模型与服务的统一交互层，类似于AI操作系统，可动态调用不同模型完成复杂任务。商业价值在于可能颠覆现有AI应用生态，成为下一代AI入口。产品创新点包括隐式意图理解、多模态输入输出、以及模型无关的编排能力。对于AI产品经理而言，此项目代表平台级机会，需关注其开放性与垂直场景适配。</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>FAME: Failure-Aware Mixture-of-Experts for Message-Level Log Anomaly Detection</title>
-      <link>http://arxiv.org/abs/2605.22779v1</link>
-      <guid isPermaLink="false">fame-failure-aware-mixture-of-experts-for-message-level-log-anomaly-detection</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本论文提出 FAME（Failure-Aware Mixture-of-Experts），一种面向消息级日志异常检测的混合专家模型。传统方法常在会话或窗口级别检测异常，只能标记整组日志，导致运维人员需逐一排查大量正常行。FAME 利用专家网络分别建模不同日志模式，并通过故障感知门控机制精确定位引发异常的单个消息。该技术可将异常定位粒度从粗粒度降低至单条日志，大幅提升运维效率，减少平均修复时间（MTTR）。产品创新点在于细粒度异常定位与可解释性增强，适合集成到智能运维（AIOps）平台中。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems</title>
-      <link>http://arxiv.org/abs/2605.22786v1</link>
-      <guid isPermaLink="false">lcguard-latent-communication-guard-for-safe-kv-sharing-in-multi-agent-systems</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出LCGuard，一种用于多智能体系统中安全共享Transformer键值（KV）缓存的潜在通信防护机制。传统多智能体系统依赖自然语言中间通信，而最新研究显示通过KV缓存进行的潜在通信能更高效地传递信息，但存在安全风险。LCGuard通过设计防护层，确保智能体间共享KV缓存时不泄露敏感内容，同时保持协作效率。该技术对构建安全、高效的多智能体协作产品（如自动化客服、协同创作工具）具有重要价值，可降低隐私泄露风险，提升系统可信度。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Snailclimb/JavaGuide</title>
-      <link>https://github.com/Snailclimb/JavaGuide</link>
-      <guid isPermaLink="false">snailclimbjavaguide</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> github</p><hr/><p>该项目是一个面向 Java 后端开发者及面试者的综合性指南，内容涵盖计算机基础、数据库、分布式系统、高并发架构、系统设计以及 AI 应用开发等核心领域。对于 AI 产品经理而言，其中关于 AI 应用开发的章节提供了将 AI 能力集成到后端系统的实践方法，有助于理解 AI 与传统后端技术的结合点。虽非直接商业产品，但可帮助 PM 评估团队成员技术栈的广度，并作为内部培训或技术选型的参考资源。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Spotify takes on Google&amp;#8217;s NotebookLM with its new app</title>
-      <link>https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/</link>
-      <guid isPermaLink="false">spotify-takes-on-google8217s-notebooklm-with-its-new-app</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Spotify推出对标Google NotebookLM的新桌面应用，以研究预览形式在20多个市场上线。该产品聚焦音频内容智能处理，利用AI技术实现播客、音乐等音频的自动摘要、关键信息提取和用户交互，可能结合语音助手提供个性化问答。此举标志Spotify从音乐流媒体向AI知识管理工具拓展，商业价值在于抢占音频AI赛道，增强用户粘性并探索新变现模式。产品创新体现在将NotebookLM的笔记/问答能力适配到音频场景，降低用户音频消费的信息获取成本。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Six search engines worth trying now that Google isn’t really Google anymore</title>
-      <link>https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/</link>
-      <guid isPermaLink="false">six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore</guid>
-      <pubDate>2026-05-22T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>文章指出Google搜索即将因AI概述功能而显著改变，可能引起用户反感。针对AI产品经理，这揭示了AI集成搜索的用户体验风险：若AI摘要提供过多主动干预，可能破坏传统搜索的自主性。文中推荐的6个替代搜索引擎，各自以不同方式整合AI（如无AI的纯粹搜索、可控AI助手等），体现了产品创新方向：平衡AI辅助与用户控制权。商业价值在于，用户对AI疲劳可能催生新搜索市场机会。技术要点包括如何设计AI概述的触发机制、透明度与退出选项。</p></description>
-      <category>📱 产品模式</category>
     </item>
   </channel>
 </rss>
