@@ -963,3 +963,13 @@
 
 ## [2026-05-25 18:02] sync v3 | 1 new | pillars: {'patterns': 1}
 - create: show-hn-kanban-cli-a-local-first-agent-first-task-manager-for-the-terminal.md
+
+## [2026-05-26 00:01] sync v3 | 8 new | pillars: {'capabilities': 7, 'patterns': 1}
+- create: pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few.md
+- create: netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks.md
+- create: pope-leo-opaque-ai-run-by-few-firms-risks-new-forms-of-dehumanization.md
+- create: ai-errno2-values.md
+- create: notes-about-reading-messages-with-the-python-email-packages.md
+- create: the-popes-ai-encyclical-isnt-really-about-ai.md
+- create: startup-battlefield-200-applications-close-in-days-apply-before-may-27.md
+- create: 5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-incre.md

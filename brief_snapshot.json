@@ -1,220 +1,88 @@
 {
-  "date": "2026-05-25",
-  "generated_at": "2026-05-25T18:02:15.017748+08:00",
-  "item_count": 19,
+  "date": "2026-05-26",
+  "generated_at": "2026-05-26T00:01:13.564513+08:00",
+  "item_count": 7,
   "items": [
     {
-      "id": "memory-has-grown-to-nearly-two-thirds-of-ai-chip-component-costs",
-      "label": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "summary": "当前AI芯片中，内存（如高带宽存储器HBM）成本已接近组件总成本的三分之二。这一趋势对AI产品经理至关重要：一方面，内存成本主导着芯片定价与供应，影响云端推理和边缘设备的部署成本；另一方面，推动模型设计向减少内存带宽依赖（如稀疏计算、量化）或采用更高效内存层级（如近存计算、CXL互连）的创新。商业上，掌握内存供应链的企业将获得定价优势；产品上，催生“内存感知”的模型压缩与调度策略，降低总拥有成本。",
-      "pm_score": 0.63,
-      "pillar": "business",
+      "id": "pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few",
+      "label": "Pope Leo XIV says AI must serve humanity, not the powerful few",
+      "summary": "教皇利奥十四世公开呼吁人工智能应以服务全人类为宗旨，而非被少数权力精英垄断。这一立场强调了AI产品设计中需要嵌入公平性、透明性和社会责任感，避免技术加剧不平等。对AI产品经理而言，这意味着在开发过程中需平衡商业利益与伦理约束，确保产品功能符合人本价值，例如通过可解释性设计、避免算法歧视、以及建立用户信任机制。虽然未涉及具体技术细节，但此观点为AI产品的社会责任框架提供了方向指引。",
+      "pm_score": 0.565,
+      "pillar": "ecosystem",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48258684",
-      "date": "2026-05-25"
+      "url": "https://news.ycombinator.com/item?id=48266485",
+      "date": "2026-05-26"
     },
     {
-      "id": "claude-is-not-your-architect-stop-letting-it-pretend",
-      "label": "Claude is not your architect. Stop letting it pretend",
-      "summary": "文章批评部分开发者让 AI（如 Claude）承担架构设计决策，指出当前 AI 在系统性架构设计上存在根本局限，容易生成看似合理实则漏洞百出的方案。对 AI 产品经理的核心启示是：不能将架构设计权交给 AI，而应将其定位为辅助工具，人类仍需主导关键决策。产品应明确人机责任边界，防止过度信任 AI 输出导致技术债务。商业上，强调可控性和安全性比效率更重要，避免因盲目依赖 AI 造成产品风险。",
-      "pm_score": 0.6,
-      "pillar": "capabilities",
+      "id": "pope-leo-opaque-ai-run-by-few-firms-risks-new-forms-of-dehumanization",
+      "label": "Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\"",
+      "summary": "教皇方济各警告，由少数大公司运营的不透明人工智能系统可能引发“新型非人化”风险。他呼吁AI发展应遵循透明、负责任和以人为本的原则，避免技术权力过度集中导致社会分裂与人性异化。对于产品经理而言，这提示在AI产品设计中需优先考虑可解释性、公平性和用户信任机制，平衡商业效率与伦理责任，规避监管与舆论风险。",
+      "pm_score": 0.43,
+      "pillar": "ecosystem",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48259784",
-      "date": "2026-05-25"
+      "url": "https://news.ycombinator.com/item?id=48266435",
+      "date": "2026-05-26"
     },
     {
-      "id": "everyone-is-navigating-ai-security-in-real-time-8212-even-google",
-      "label": "Everyone is navigating AI security in real time &#8212; even Google",
-      "summary": "文章指出当前所有人都处于AI安全过渡期，即使是谷歌也在实时应对安全挑战。这反映了AI能力快速演进中安全防护的滞后性，对产品经理而言，意味着需要建立动态安全机制，将安全性作为产品核心特性而非事后补丁。商业价值在于率先实现可信赖AI的产品将获得用户信任优势。产品创新方向包括实时威胁检测、隐私保护架构和可解释性设计。",
-      "pm_score": 0.515,
+      "id": "startup-battlefield-200-applications-close-in-days-apply-before-may-27",
+      "label": "Startup Battlefield 200 applications close in days: Apply before May 27",
+      "summary": "TechCrunch的Startup Battlefield 200创业竞赛申请截止日为5月27日，面向AI等领域初创公司。入选者可获得VC对接、全球曝光、TechCrunch报道及10万美元奖励。对AI产品经理而言，这是了解前沿AI产品创新和商业模式的机会，也可作为自身项目获取资源、加速落地的跳板。",
+      "pm_score": 0.41,
       "pillar": "ecosystem",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-      "date": "2026-05-25"
+      "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+      "date": "2026-05-26"
     },
     {
-      "id": "nndlnndl",
-      "label": "nndl/nndl",
-      "summary": "《神经网络与深度学习》（蒲公英书）是邱锡鹏教授撰写的深度学习理论教材，GitHub 上提供 v2 版与通识版开源内容。本书系统讲解神经网络基础、前馈/卷积/循环网络、注意力机制、优化方法、正则化等核心理论，并涵盖生成模型、图神经网络等前沿方向。对 AI 产品经理而言，理解这些理论有助于把握模型能力上限、评估技术可行性，并能在与算法团队沟通时建立共同语言。商业价值在于为产品设计提供技术逻辑支撑，降低创新风险。本书被誉为中文深度学习经典入门教材，长期维护更新。",
-      "pm_score": 0.51,
-      "pillar": "capabilities",
-      "type": "github",
-      "source_type": "github",
-      "url": "https://github.com/nndl/nndl",
-      "date": "2026-05-25"
-    },
-    {
-      "id": "ai-washing-firms-are-scrambling-to-rebrand-themselves-as-tech-focused",
-      "label": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
-      "summary": "本文报道了“AI洗白”现象，即许多企业为迎合AI热潮而匆忙将自己的品牌重新定位为AI驱动，即使其技术实力有限。这种行为旨在提升估值与投资者兴趣，但可能误导市场和用户。对AI产品经理而言，需警惕辨识产品背后的真实AI能力与营销话术，避免被表面标签迷惑，应聚焦于产品实际解决的问题与用户价值。该现象反映了当前AI领域的泡沫风险，以及企业面对技术趋势时的短期策略。",
-      "pm_score": 0.48,
-      "pillar": "business",
+      "id": "netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks",
+      "label": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "summary": "荷兰警方扣押800台服务器并逮捕2人，指控其协助网络攻击（如DDoS）。此事件凸显AI基础设施被滥用于大规模攻击的风险——云服务、GPU集群可能成为犯罪工具。对AI产品经理而言，需关注：1) 强化服务器访问审计与异常流量监测；2) 设计防滥用机制（如速率限制、身份验证）；3) 合规性要求（如欧盟《数字服务法》）。商业价值：安全即服务、抗DDoS产品需求增长；产品创新：AI驱动的入侵检测与自动化响应系统。",
+      "pm_score": 0.395,
+      "pillar": "ecosystem",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48257980",
-      "date": "2026-05-25"
+      "url": "https://news.ycombinator.com/item?id=48266906",
+      "date": "2026-05-26"
     },
     {
-      "id": "i-tried-amazon8217s-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out",
-      "label": "I tried Amazon&#8217;s Bee wearable and am both intrigued and slightly creeped o",
-      "summary": "亚马逊推出名为Bee的AI可穿戴设备，类似于其他AI可穿戴产品，它在提供便利的同时引发了隐私焦虑。该设备可能具备语音交互、环境感知等AI能力，旨在无缝融入日常生活，但用户数据收集和持续监控的隐忧成为产品设计的核心挑战。对于AI产品经理而言，Bee展示了可穿戴AI在便利性与隐私保护之间的平衡难题，提示需要从用户体验、数据主权和透明控制维度进行创新设计。",
-      "pm_score": 0.48,
+      "id": "ai-errno2-values",
+      "label": "AI errno(2) values",
+      "summary": "本文讨论AI系统中错误码（类似Unix errno）的设计与含义，帮助开发者诊断模型返回的异常状态。对于AI产品经理而言，理解这些错误码有助于提升产品鲁棒性、优化用户反馈机制，并在模型输出异常时快速定位问题根源，从而改进调用策略或降级体验。该主题虽偏技术，但直接关系到AI产品的可靠性与用户体验，是构建生产级应用的基础能力之一。",
+      "pm_score": 0.31,
       "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48236816",
+      "date": "2026-05-26"
+    },
+    {
+      "id": "5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-incre",
+      "label": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices inc",
+      "summary": "TechCrunch Disrupt 2026 大会将于旧金山举行，早鸟票优惠截止至 5 月 29 日 23:59（太平洋时间），最高可节省 410 美元。对于 AI 产品经理而言，参加此类行业顶级峰会可获取最新技术趋势、产品案例与投资风向，但本信息不涉及具体 AI 技术突破或商业模型，主要是活动促销提醒。建议关注后续议程中可能出现的 AI 初创公司展示、技术工作坊等环节以获取实质性内容。",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
-      "date": "2026-05-25"
+      "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+      "date": "2026-05-26"
     },
     {
-      "id": "deepseek-reasonix-deepseek-native-coding-agent-with-high-caching-and-low-cost",
-      "label": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "summary": "DeepSeek 发布原生编码代理 reasonix，其核心创新在于深度融合高缓存机制，显著降低推理成本并提升响应速度。该产品专为编码场景设计，通过缓存复用减少重复计算，实现低成本高效编码辅助。对于 AI 产品经理而言，这一模式在降低企业部署成本、推动编码代理规模化应用方面具有重要商业价值，同时展现了缓存策略在 AI 产品中的创新潜力。",
-      "pm_score": 0.48,
-      "pillar": "patterns",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48256953",
-      "date": "2026-05-25"
-    },
-    {
-      "id": "from-raw-experience-to-skill-consumption-a-systematic-study-of-model-generated-a",
-      "label": "From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated",
-      "summary": "该论文系统研究了模型生成的智能体技能，提出从原始经验蒸馏为结构化、可重用的程序性工件（技能），尤其聚焦领域级和模型生成的技能。这种技能消费范式使语言智能体能够通过编码领域特定模式实现快速领域适应，降低从头训练成本。商业价值在于可构建技能市场，促进AI Agent的组件化与生态化，产品创新体现为将技能视为可消费模块，推动Agent能力的规模化复用与协作。",
-      "pm_score": 0.43,
+      "id": "the-popes-ai-encyclical-isnt-really-about-ai",
+      "label": "The pope’s AI encyclical isn’t really about AI",
+      "summary": "教皇方济各的首部通谕表面谈论AI，实则借AI隐喻权力集中、民主衰退和科技精英自利等深层社会问题。对AI产品经理而言，该文警示了技术在塑造世界时的伦理责任与风险——当少数精英掌控AI发展路径时，可能加剧不平等并侵蚀公共信任。产品设计需考虑民主化、透明度和多方利益平衡，而非仅追求效率或资本回报。",
+      "pm_score": 0.305,
       "pillar": "ecosystem",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2605.23899v1",
-      "date": "2026-05-25"
-    },
-    {
-      "id": "complete-mue-optimal-hyperparameter-transfer-and-scaling-for-moe-models",
-      "label": "Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models",
-      "summary": "Complete-muE是一种针对Transformer块中密集前馈网络（FFN）与混合专家模型（MoE）的超参数迁移框架。它解决了现有工具如μP（需固定架构）和SDE（需固定每步token数）无法直接处理MoE超参数迁移的问题，实现了最优超参数迁移和模型缩放。该框架可显著降低MoE模型调参成本，加速大模型训练与部署，提升产品迭代效率，为开发者提供统一的超参数管理方案。",
-      "pm_score": 0.43,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2605.23893v1",
-      "date": "2026-05-25"
-    },
-    {
-      "id": "training-free-looped-transformers",
-      "label": "Training-Free Looped Transformers",
-      "summary": "本文提出一种无需训练的循环变压器方法，通过在推理时使用轻量级包装器循环冻结预训练模型的中间层块，无需微调或架构更改即可增强模型能力。该方法区别于传统循环变压器（需额外训练），降低了部署成本，使现有大模型能更高效地处理长序列或复杂推理任务。商业价值在于快速提升模型效果而不增加训练开销，产品创新体现为“即插即用”的循环增强能力，适合对实时性和资源敏感的AI应用场景。",
-      "pm_score": 0.43,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2605.23872v1",
-      "date": "2026-05-25"
-    },
-    {
-      "id": "etchr-editing-to-clarify-and-harness-reasoning",
-      "label": "ETCHR: Editing To Clarify and Harness Reasoning",
-      "summary": "该论文提出ETCHR方法，旨在通过编辑来澄清和利用推理。针对多模态大语言模型中纯文本思维链无法处理需要精细焦点或视角转换的问题，采用“用图像思考”范式，但现有方法受限。ETCHR通过图像编辑辅助推理，提升视觉问答等任务的准确性和可解释性，为产品开发提供更可靠的视觉推理能力。",
-      "pm_score": 0.43,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2605.23897v1",
-      "date": "2026-05-25"
-    },
-    {
-      "id": "skillopt-executive-strategy-for-self-evolving-agent-skills",
-      "label": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
-      "summary": "本文提出 SkillOpt 策略，针对当前 Agent 技能依赖手工设计、一次性生成或松散自我修订的局限，主张技能应像深度学习优化器一样在反馈下持续训练与进化。该方法通过执行级优化，使技能能可靠地改进初始表现，提升 Agent 的自适应能力和长期效果。对产品经理而言，SkillOpt 可降低技能定制成本，实现 Agent 行为的自动调优，推动自主智能体的产品化落地。",
-      "pm_score": 0.43,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2605.23904v1",
-      "date": "2026-05-25"
-    },
-    {
-      "id": "pgt-procedurally-generated-tasks-for-improving-visual-grounding-in-mllms",
-      "label": "PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs",
-      "summary": "本文提出PGT（程序化生成任务）框架，旨在解决多模态大语言模型在细粒度视觉理解上的不足。通过自动生成结构化视觉推理任务，PGT能有效提升模型对图像细节的感知与定位能力。该框架简单灵活，可扩展至多种视觉任务，具有显著的产品创新潜力，例如在电商商品识别、医疗影像分析等场景中提升精度。同时，PGT降低了人工标注成本，为商业落地提供了高效的数据驱动方案。",
-      "pm_score": 0.395,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2605.23883v1",
-      "date": "2026-05-25"
-    },
-    {
-      "id": "good-token-hunting-a-hitchhikers-guide-to-token-selection-for-visual-geometry-tr",
-      "label": "Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry",
-      "summary": "本文提出了一种针对视觉几何变换器的token选择方法，旨在解决其在多视图3D重建中因全局注意力层导致的计算成本随输入序列长度二次增长的问题。通过智能筛选关键token，该方法在保持重建精度的同时显著降低计算开销，提升了模型在实时或资源受限场景下的可行性。这对AR/VR、自动驾驶等需要高效3D感知的产品具有商业价值，为产品经理提供了优化成本与性能平衡的技术路径。",
-      "pm_score": 0.395,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2605.23892v1",
-      "date": "2026-05-25"
-    },
-    {
-      "id": "llms-as-noisy-channels-a-shannon-perspective-on-model-capacity-and-scaling-laws",
-      "label": "LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws",
-      "summary": "本文从香农信道视角重新审视大语言模型的缩放定律，指出传统单调幂律无法解释灾难性过训练和量化退化等非单调现象。作者提出香农缩放定律，将模型视为有噪信道，容量受噪声和计算资源共同约束，解释了性能随计算量增加先升后降的悖论。这一视角为产品经理提供了更精确的模型容量-成本权衡理论，指导训练策略选择（避免过训练）和量化压缩设计（缓解退化），有望降低部署成本、提升模型鲁棒性，推动更高效的大模型产品开发。",
-      "pm_score": 0.395,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2605.23901v1",
-      "date": "2026-05-25"
-    },
-    {
-      "id": "chronos-temporally-aware-multi-agent-coordination-for-evolving-data-marketplaces",
-      "label": "CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplace",
-      "summary": "CHRONOS 提出了一种时间感知的多智能体协调框架，专门针对时态知识图谱数据市场中的三个关键缺陷：静态混合索引导致数据演化后召回率下降、固定 Shapley 定价在分布偏移后无法反映真实价值、以及未协调的智能体过度消耗共享差分隐私预算。该框架通过动态索引更新、基于时间衰减的定价调整以及隐私预算的协同分配，提升了数据市场的时效性、公平性和隐私效率。对于 AI 产品经理而言，它展示了如何将时间维度融入数据交易系统的设计，从而在动态环境中实现更高价值的数据流通和隐私保护，尤其适用于需要实时数据交换和隐私合规的场景。",
-      "pm_score": 0.395,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2605.23887v1",
-      "date": "2026-05-25"
-    },
-    {
-      "id": "on-the-stability-of-spherical-hellinger-kantorovich-flows-and-their-implications",
-      "label": "On the Stability of Spherical Hellinger-Kantorovich Flows and Their Implications",
-      "summary": "该论文研究了球形Hellinger-Kantorovich（SHK）几何下梯度流采样的稳定性，该流耦合了输运和反应过程，与出生-死亡过程一致。通过SHK框架，能够更稳定地逼近吉布斯分布，从而为差分隐私提供新的理论工具。商业上，可应用于隐私保护的生成模型、联邦学习中的数据分布建模，提升数据安全与采样效率。产品创新在于将几何流与隐私约束结合，有望开发出更鲁棒、更可解释的差分隐私机制。",
-      "pm_score": 0.36,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2605.23879v1",
-      "date": "2026-05-25"
-    },
-    {
-      "id": "constraint-decay-the-fragility-of-llm-agents-in-back-end-code-generation",
-      "label": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "summary": "本文探讨了LLM智能体在后端代码生成中的“约束衰减”问题：智能体在生成长序列代码时，初始约束条件（如API规范、业务逻辑）会随着生成过程逐渐失效，导致代码准确性下降。这一脆弱性对基于AI的代码生成产品的可靠性构成挑战，尤其在企业级后端开发中可能引发高错误率。研究提出了缓解策略，如定期注入上下文或强化约束记忆。商业上，解决此问题可提升AI编程工具的实用性与信任度，推动更广泛的产品采用。",
-      "pm_score": 0.33,
-      "pillar": "patterns",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48256912",
-      "date": "2026-05-25"
-    },
-    {
-      "id": "show-hn-kanban-cli-a-local-first-agent-first-task-manager-for-the-terminal",
-      "label": "Show HN: Kanban CLI (A local-first, agent-first task manager for the terminal)",
-      "summary": "一款名为 Kanban CLI 的终端任务管理工具，采用本地优先和代理优先的设计理念。用户可在命令行中管理看板任务，AI 代理可自主执行操作如创建、移动、更新任务卡片，无需依赖云端服务。技术亮点包括纯本地数据存储保障隐私、基于终端的高效交互、以及将 AI 代理作为一等公民集成到工作流中。产品创新在于将看板方法论与 AI 自主行动能力结合，适合开发者快速管理任务，提升个人或小团队的效率。商业价值体现在开源社区吸引、终端工具生态扩展，以及为本地优先 AI 应用提供参考范式。",
-      "pm_score": 0.33,
-      "pillar": "patterns",
-      "type": "showhn",
-      "source_type": "showhn",
-      "url": "https://codeberg.org/hydrafog/kanban",
-      "date": "2026-05-25"
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "date": "2026-05-26"
     }
   ],
   "graph_totals": {
-    "real_nodes": 833,
-    "edges": 48768
+    "real_nodes": 841,
+    "edges": 49613
   }
 }
