@@ -1,7 +1,7 @@
 {
   "date": "2026-05-26",
-  "generated_at": "2026-05-26T00:01:13.564513+08:00",
-  "item_count": 7,
+  "generated_at": "2026-05-26T06:03:52.377669+08:00",
+  "item_count": 9,
   "items": [
     {
       "id": "pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few",
@@ -12,6 +12,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48266485",
+      "date": "2026-05-26"
+    },
+    {
+      "id": "what-clickup8217s-mass-layoff-tells-us-about-the-future-of-work",
+      "label": "What ClickUp&#8217;s mass layoff tells us about the future of work",
+      "summary": "ClickUp 宣布大规模裁员，用数千个AI代理替代数百名员工，这标志着AI驱动的工作模式正在从概念走向规模化落地。作为成立9年的项目管理平台，ClickUp 将AI代理嵌入核心业务流程，实现自动化任务执行、决策支持和资源调度，大幅降低人力成本并提升运营效率。这一转变展示了企业级AI从辅助工具向自主执行主体的进化，为AI产品经理提供了关键启示：未来的产品设计需聚焦AI代理的可靠性、协作能力和可解释性，同时重新定义人机协作的边界与价值分配。",
+      "pm_score": 0.515,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
       "date": "2026-05-26"
     },
     {
@@ -45,6 +56,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48266906",
+      "date": "2026-05-26"
+    },
+    {
+      "id": "norways-2-petabytes-of-huawei-flash-storage-and-llm-training",
+      "label": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+      "summary": "挪威采用华为2PB闪存存储系统支撑大语言模型训练，凸显高性能存储对AI训练效率的关键作用。闪存相比传统硬盘大幅提升数据读写速度，可显著缩短训练周期并降低能耗成本，为大规模模型迭代提供底层基础设施保障。该案例展示了华为在AI训练基础设施领域的技术竞争力，也反映了当前LLM训练对存储性能的苛刻需求——数据吞吐量成为限制训练速度的瓶颈之一。对AI产品经理而言，需关注存储架构选型对训练成本、时间及模型迭代频率的影响，以优化整体AI研发效率。",
+      "pm_score": 0.36,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48270770",
       "date": "2026-05-26"
     },
     {
@@ -82,7 +104,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 841,
-    "edges": 49613
+    "real_nodes": 845,
+    "edges": 50459
   }
 }

@@ -973,3 +973,9 @@
 - create: the-popes-ai-encyclical-isnt-really-about-ai.md
 - create: startup-battlefield-200-applications-close-in-days-apply-before-may-27.md
 - create: 5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-incre.md
+
+## [2026-05-26 06:03] sync v3 | 4 new | pillars: {'capabilities': 3, 'patterns': 1}
+- create: norways-2-petabytes-of-huawei-flash-storage-and-llm-training.md
+- create: everyone-against-us-2023.md
+- create: the-physicists-who-convinced-fermilab-to-send-brazils-emails.md
+- create: what-clickup8217s-mass-layoff-tells-us-about-the-future-of-work.md

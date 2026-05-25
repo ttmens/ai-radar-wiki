@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-26 | Total pages: 860
+> Last updated: 2026-05-26 | Total pages: 864
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -53,6 +53,7 @@
 - [[digg-tries-again-this-time-as-an-ai-news-aggregat.md]] Digg tries again, this time as an AI news aggregator `pillar:capabilities` `score:0.305`
 - [[docling-projectdocling.md]] docling-project/docling `pillar:capabilities` `score:0.615`
 - [[dont-know-where-your-data-is-from-bayesian-modeling-for-unknown-coordinates.md]] Don't know where your data is from? Bayesian modeling for unknown coordinates `pillar:capabilities` `score:0.26`
+- [[everyone-against-us-2023.md]] Everyone Against Us (2023) `pillar:capabilities` `score:0.225`
 - [[explosionspacy.md]] explosion/spaCy `pillar:capabilities` `score:0.58`
 - [[fender-escalates-legal-campaign-against-s-style-guitars.md]] Fender escalates legal campaign against S-style guitars `pillar:capabilities` `score:0.235`
 - [[formal-verification-gates-for-ai-coding-loops.md]] Formal Verification Gates for AI Coding Loops `pillar:capabilities` `score:0.43`
@@ -132,6 +133,7 @@
 - [[nndlnndl.md]] nndl/nndl `pillar:capabilities` `score:0.51`
 - [[no-more-jetbrains-products-for-me.md]] No More JetBrains Products for Me `pillar:capabilities` `score:0.465`
 - [[nobel-laureate-olga-tokarczuk-apparently-used-ai-to-write-her-latest-novel.md]] Nobel laureate Olga Tokarczuk apparently used AI to write her latest novel `pillar:capabilities` `score:0.38`
+- [[norways-2-petabytes-of-huawei-flash-storage-and-llm-training.md]] Norway's 2 petabytes of Huawei flash storage and LLM training `pillar:capabilities` `score:0.36`
 - [[notes-about-reading-messages-with-the-python-email-packages.md]] Notes about reading messages with the Python email packages `pillar:capabilities` `score:0.225`
 - [[ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts.md]] Ontario auditors find doctors' AI note takers routinely blow basic facts `pillar:capabilities` `score:0.565`
 - [[openai-adopts-googles-synthid-watermark-for-ai-images-with-verification-tool.md]] OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool `pillar:capabilities` `score:0.465`
@@ -187,6 +189,7 @@
 - [[the-last-six-months-in-llms-in-five-minutes.md]] The last six months in LLMs in five minutes `pillar:capabilities` `score:0.415`
 - [[the-main-thing-about-p2p-meth-is-that-theres-so-much-of-it-2021.md]] The main thing about P2P meth is that there's so much of it (2021) `pillar:capabilities` `score:0.305`
 - [[the-path-founded-by-tony-robbins-and-calm-alums-hopes-to-offer-safer-ai-therapy.md]] The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therap `pillar:capabilities` `score:0.48`
+- [[the-physicists-who-convinced-fermilab-to-send-brazils-emails.md]] The physicists who convinced Fermilab to send Brazil's emails `pillar:capabilities` `score:0.155`
 - [[the-soul-of-maintaining-a-new-machine.md]] The soul of maintaining a new machine `pillar:capabilities` `score:0.38`
 - [[the-wonders-of-ai-we-are-retiring-our-bug-bounty-program.md]] The Wonders of AI: We Are Retiring Our Bug Bounty Program `pillar:capabilities` `score:0.255`
 - [[through-the-looking-glass-of-benchmark-hacking.md]] Through the looking glass of benchmark hacking `pillar:capabilities` `score:0.155`
@@ -501,6 +504,7 @@
 - [[voice-ai-in-india-is-hard-wispr-flow-is-betting-o.md]] Voice AI in India is hard. Wispr Flow is betting on it anyway. `pillar:patterns` `score:0.48`
 - [[we-mould-trees-to-grow-into-the-shape-of-chairs.md]] 'We mould trees to grow into the shape of chairs' `pillar:patterns` `score:0.41`
 - [[we-tried-googles-ai-glasses-and-theyre-almost-there.md]] We tried Google’s AI glasses and they’re almost there `pillar:patterns` `score:0.48`
+- [[what-clickup8217s-mass-layoff-tells-us-about-the-future-of-work.md]] What ClickUp&#8217;s mass layoff tells us about the future of work `pillar:patterns` `score:0.515`
 - [[with-gemini-35-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots.md]] With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots `pillar:patterns` `score:0.515`
 - [[x1xhlolsystem-prompts-and-models-of-ai-tools.md]] x1xhlol/system-prompts-and-models-of-ai-tools `pillar:patterns` `score:0.615`
 - [[yamadashyrepomix.md]] yamadashy/repomix `pillar:patterns` `score:0.58`
