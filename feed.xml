@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 25 May 2026 08:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 12:01:01 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -154,6 +154,14 @@
       <guid isPermaLink="false">constraint-decay-the-fragility-of-llm-agents-in-back-end-code-generation</guid>
       <pubDate>2026-05-25T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了LLM智能体在后端代码生成中的“约束衰减”问题：智能体在生成长序列代码时，初始约束条件（如API规范、业务逻辑）会随着生成过程逐渐失效，导致代码准确性下降。这一脆弱性对基于AI的代码生成产品的可靠性构成挑战，尤其在企业级后端开发中可能引发高错误率。研究提出了缓解策略，如定期注入上下文或强化约束记忆。商业上，解决此问题可提升AI编程工具的实用性与信任度，推动更广泛的产品采用。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Show HN: Kanban CLI (A local-first, agent-first task manager for the terminal)</title>
+      <link>https://codeberg.org/hydrafog/kanban</link>
+      <guid isPermaLink="false">show-hn-kanban-cli-a-local-first-agent-first-task-manager-for-the-terminal</guid>
+      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>一款名为 Kanban CLI 的终端任务管理工具，采用本地优先和代理优先的设计理念。用户可在命令行中管理看板任务，AI 代理可自主执行操作如创建、移动、更新任务卡片，无需依赖云端服务。技术亮点包括纯本地数据存储保障隐私、基于终端的高效交互、以及将 AI 代理作为一等公民集成到工作流中。产品创新在于将看板方法论与 AI 自主行动能力结合，适合开发者快速管理任务，提升个人或小团队的效率。商业价值体现在开源社区吸引、终端工具生态扩展，以及为本地优先 AI 应用提供参考范式。</p></description>
       <category>📱 产品模式</category>
     </item>
     <item>
@@ -403,14 +411,6 @@
       <pubDate>2026-05-23T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Models.dev 是一个开源的AI模型数据库，汇集了各类AI模型的规格、定价和功能信息，旨在帮助开发者与产品经理快速对比和选择最合适的模型。该项目通过开源方式降低了模型信息获取门槛，提高了模型选型效率，尤其适合做预算评估和技术方案决策。它填补了模型信息分散、对比困难的痛点，具有显著的商业价值和生态整合潜力。</p></description>
       <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems</title>
-      <link>https://news.ycombinator.com/item?id=48239786</link>
-      <guid isPermaLink="false">domain-camouflaged-injection-attacks-evade-detection-in-multi-agent-llm-systems</guid>
-      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本研究发现一种新型攻击——领域伪装注入攻击，能有效规避多智能体LLM系统的检测。攻击者通过将恶意指令伪装成与当前对话领域相关的合法请求，欺骗多个协作的LLM代理执行不当操作。该攻击利用了多智能体系统中角色分工和信任传递的漏洞，对商业级多智能体产品（如客服、协作AI）构成严重威胁。产品经理需在架构设计时引入跨代理验证、上下文隔离和行为审计机制，优先防御此类隐蔽性强的注入攻击，确保系统鲁棒性与用户数据安全。</p></description>
-      <category>📱 产品模式</category>
     </item>
   </channel>
 </rss>
