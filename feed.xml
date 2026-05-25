@@ -5,13 +5,77 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 25 May 2026 12:01:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 16:04:11 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Pope Leo XIV says AI must serve humanity, not the powerful few</title>
+      <link>https://news.ycombinator.com/item?id=48266485</link>
+      <guid isPermaLink="false">pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few</guid>
+      <pubDate>2026-05-26T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>教皇利奥十四世公开呼吁人工智能应以服务全人类为宗旨，而非被少数权力精英垄断。这一立场强调了AI产品设计中需要嵌入公平性、透明性和社会责任感，避免技术加剧不平等。对AI产品经理而言，这意味着在开发过程中需平衡商业利益与伦理约束，确保产品功能符合人本价值，例如通过可解释性设计、避免算法歧视、以及建立用户信任机制。虽然未涉及具体技术细节，但此观点为AI产品的社会责任框架提供了方向指引。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Pope Leo: opaque AI run by few firms risks "New Forms of Dehumanization"</title>
+      <link>https://news.ycombinator.com/item?id=48266435</link>
+      <guid isPermaLink="false">pope-leo-opaque-ai-run-by-few-firms-risks-new-forms-of-dehumanization</guid>
+      <pubDate>2026-05-26T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>教皇方济各警告，由少数大公司运营的不透明人工智能系统可能引发“新型非人化”风险。他呼吁AI发展应遵循透明、负责任和以人为本的原则，避免技术权力过度集中导致社会分裂与人性异化。对于产品经理而言，这提示在AI产品设计中需优先考虑可解释性、公平性和用户信任机制，平衡商业效率与伦理责任，规避监管与舆论风险。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Startup Battlefield 200 applications close in days: Apply before May 27</title>
+      <link>https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/</link>
+      <guid isPermaLink="false">startup-battlefield-200-applications-close-in-days-apply-before-may-27</guid>
+      <pubDate>2026-05-26T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>TechCrunch的Startup Battlefield 200创业竞赛申请截止日为5月27日，面向AI等领域初创公司。入选者可获得VC对接、全球曝光、TechCrunch报道及10万美元奖励。对AI产品经理而言，这是了解前沿AI产品创新和商业模式的机会，也可作为自身项目获取资源、加速落地的跳板。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks</title>
+      <link>https://news.ycombinator.com/item?id=48266906</link>
+      <guid isPermaLink="false">netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks</guid>
+      <pubDate>2026-05-26T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>荷兰警方扣押800台服务器并逮捕2人，指控其协助网络攻击（如DDoS）。此事件凸显AI基础设施被滥用于大规模攻击的风险——云服务、GPU集群可能成为犯罪工具。对AI产品经理而言，需关注：1) 强化服务器访问审计与异常流量监测；2) 设计防滥用机制（如速率限制、身份验证）；3) 合规性要求（如欧盟《数字服务法》）。商业价值：安全即服务、抗DDoS产品需求增长；产品创新：AI驱动的入侵检测与自动化响应系统。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>AI errno(2) values</title>
+      <link>https://news.ycombinator.com/item?id=48236816</link>
+      <guid isPermaLink="false">ai-errno2-values</guid>
+      <pubDate>2026-05-26T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文讨论AI系统中错误码（类似Unix errno）的设计与含义，帮助开发者诊断模型返回的异常状态。对于AI产品经理而言，理解这些错误码有助于提升产品鲁棒性、优化用户反馈机制，并在模型输出异常时快速定位问题根源，从而改进调用策略或降级体验。该主题虽偏技术，但直接关系到AI产品的可靠性与用户体验，是构建生产级应用的基础能力之一。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices inc</title>
+      <link>https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/</link>
+      <guid isPermaLink="false">5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-incre</guid>
+      <pubDate>2026-05-26T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>TechCrunch Disrupt 2026 大会将于旧金山举行，早鸟票优惠截止至 5 月 29 日 23:59（太平洋时间），最高可节省 410 美元。对于 AI 产品经理而言，参加此类行业顶级峰会可获取最新技术趋势、产品案例与投资风向，但本信息不涉及具体 AI 技术突破或商业模型，主要是活动促销提醒。建议关注后续议程中可能出现的 AI 初创公司展示、技术工作坊等环节以获取实质性内容。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>The pope’s AI encyclical isn’t really about AI</title>
+      <link>https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/</link>
+      <guid isPermaLink="false">the-popes-ai-encyclical-isnt-really-about-ai</guid>
+      <pubDate>2026-05-26T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>教皇方济各的首部通谕表面谈论AI，实则借AI隐喻权力集中、民主衰退和科技精英自利等深层社会问题。对AI产品经理而言，该文警示了技术在塑造世界时的伦理责任与风险——当少数精英掌控AI发展路径时，可能加剧不平等并侵蚀公共信任。产品设计需考虑民主化、透明度和多方利益平衡，而非仅追求效率或资本回报。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Notes about reading messages with the Python email packages</title>
+      <link>https://news.ycombinator.com/item?id=48204632</link>
+      <guid isPermaLink="false">notes-about-reading-messages-with-the-python-email-packages</guid>
+      <pubDate>2026-05-26T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文是使用Python email包读取和处理电子邮件的技术笔记，涵盖MIME消息解析、头部提取、附件处理等核心操作。对于AI产品经理，该能力可支撑邮件自动化场景，如构建智能邮件分类、摘要生成或数据提取工作流。通过标准化解析接口，降低邮件数据接入AI系统的技术门槛，提升客户服务、营销分析等产品的开发效率。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>Memory has grown to nearly two-thirds of AI chip component costs</title>
       <link>https://news.ycombinator.com/item?id=48258684</link>
@@ -347,70 +411,6 @@
       <pubDate>2026-05-23T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>该报道指出，有人利用AI技术对已故飞行员的驾驶舱录音频谱图进行重建，成功复活其声音。这一行为迫使美国国家运输安全委员会（NTSB）暂时封锁其档案系统，以防止进一步滥用。对于AI产品经理而言，该事件展示了AI在音频修复与声音克隆领域的技术突破（如从噪声频谱图高保真重建语音），同时凸显了伦理与法律风险：无授权使用个人声音数据可能引发隐私、肖像权及公共安全争议。产品创新方向包括数字遗产管理、历史音频修复，但需内置合规与防护机制。</p></description>
       <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Launch HN: Superset (YC P26) – IDE for the agents era</title>
-      <link>https://news.ycombinator.com/item?id=48236770</link>
-      <guid isPermaLink="false">launch-hn-superset-yc-p26-ide-for-the-agents-era</guid>
-      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Superset 是 YC P26 孵化的项目，定位为“代理时代的 IDE”。它提供集成开发环境，专门用于构建、调试和部署 AI 代理（agents）。技术要点包括：可能支持多代理协作、可视化工作流编排、实时调试与日志追踪。商业价值在于降低代理开发门槛，加速企业级代理应用的落地，类似传统 IDE 对软件开发的推动作用。产品创新是将成熟的 IDE 模式抽象到代理领域，统一管理提示、工具调用与外部系统集成。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>You can no longer Google the word &amp;#8216;disregard&amp;#8217;</title>
-      <link>https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/</link>
-      <guid isPermaLink="false">you-can-no-longer-google-the-word-8216disregard8217</guid>
-      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google搜索的AI更新后，输入单词'disregard'会导致搜索界面异常，表明AI生成的摘要或回答可能被特定词汇触发漏洞。这暴露了AI系统在输入安全性与鲁棒性上的缺陷，对产品经理而言是重要警示：需强化对抗性输入测试、防止意外行为影响用户体验。技术要点在于AI模型对语境或指令的过度响应，商业价值上可能影响搜索广告与用户信任，产品创新方向包括引入更严格的输入过滤与异常检测机制。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Elon Musk can&amp;#8217;t hear you over the sound of his $1.75 trillion IPO</title>
-      <link>https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/</link>
-      <guid isPermaLink="false">elon-musk-can8217t-hear-you-over-the-sound-of-his-175-trillion-ipo</guid>
-      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>特斯拉CEO马斯克旗下SpaceX提交了S-1文件，启动了估值1.75万亿美元的IPO。文件显示其总目标市场规模高达28万亿美元，薪酬方案与建立火星殖民地等长期愿景挂钩。SpaceX的IPO不仅是航天商业化的里程碑，也展示了用极致愿景驱动资本运作的产品战略——通过“火星殖民地”这一宏大叙事绑定投资者预期，并将风险因素（36页）作为透明化沟通工具。虽然当前主要围绕火箭与基础设施，但未来AI在自主控制、导航优化等领域将成为关键支撑。产品经理可借鉴其“超级目标-超级市场-超级激励”的闭环思维。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>How VCs and founders use inflated ‘ARR’ to crown AI startups</title>
-      <link>https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/</link>
-      <guid isPermaLink="false">how-vcs-and-founders-use-inflated-arr-to-crown-ai-startups</guid>
-      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>本文揭露部分AI初创公司通过夸大或操纵年度经常性收入（ARR）指标来粉饰业绩，以吸引风险投资。由于AI行业尚未出现广泛盈利模式，初创公司利用非标准收入定义（如含预付款、硬件捆绑等）虚增ARR，而投资者明知存在水分但仍默许，以维持估值泡沫。产品经理需警惕此类财务策略对市场判断的误导，理性评估AI产品的真实商业价值与用户订阅黏性，避免被表面数字带偏产品决策。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>A case against Boolean logic</title>
-      <link>https://news.ycombinator.com/item?id=48234128</link>
-      <guid isPermaLink="false">a-case-against-boolean-logic</guid>
-      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文质疑了布尔逻辑在AI系统中的局限性，指出其严格的true/false二元判断无法处理模糊、不确定的语义，尤其在信息检索和推理任务中可能导致结果不准确。对于AI产品经理而言，这意味着依赖纯布尔逻辑的搜索或决策引擎需要结合向量嵌入、语义搜索等更灵活的方法，以提升用户体验和产品智能度。文章可能探讨了混合搜索或神经符号学习的模式，启发产品设计转向更人性化的交互方式。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Anthropic's "Profitability" Swindle</title>
-      <link>https://news.ycombinator.com/item?id=48240198</link>
-      <guid isPermaLink="false">anthropics-profitability-swindle</guid>
-      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章质疑Anthropic宣称的盈利能力，认为其可能通过会计手段或营销话术误导市场和客户。对AI产品经理而言，这提示需谨慎评估AI供应商的商业模式可持续性，避免因短期财务宣传而忽略长期合作风险。同时应关注AI公司产品定价与实际成本结构匹配度，以及其技术路线是否健康支撑商业目标。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>FSFE intervenes against Apple before EUCJ for the second time</title>
-      <link>https://news.ycombinator.com/item?id=48233939</link>
-      <guid isPermaLink="false">fsfe-intervenes-against-apple-before-eucj-for-the-second-time</guid>
-      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>自由软件基金会欧洲分会（FSFE）再次向欧盟法院（EUCJ）就苹果的封闭生态系统提出干预。此举聚焦于数字权利与反垄断，质疑App Store强制使用内购支付及抽成政策，可能影响iOS应用的发布和分发模式。对于产品经理而言，若法院判决倾向开放，将推动跨平台兼容性和用户数据便携性，重塑应用商店商业模式，降低开发者的平台依赖，并激励更灵活的产品创新。这标志着科技巨头与开放生态之间的法律博弈升级，直接关乎数字市场的公平竞争与用户选择权。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Models.dev: open-source database of AI model specs, pricing, and capabilities</title>
-      <link>https://news.ycombinator.com/item?id=48241172</link>
-      <guid isPermaLink="false">modelsdev-open-source-database-of-ai-model-specs-pricing-and-capabilities</guid>
-      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Models.dev 是一个开源的AI模型数据库，汇集了各类AI模型的规格、定价和功能信息，旨在帮助开发者与产品经理快速对比和选择最合适的模型。该项目通过开源方式降低了模型信息获取门槛，提高了模型选型效率，尤其适合做预算评估和技术方案决策。它填补了模型信息分散、对比困难的痛点，具有显著的商业价值和生态整合潜力。</p></description>
-      <category>🔧 工具生态</category>
     </item>
   </channel>
 </rss>
