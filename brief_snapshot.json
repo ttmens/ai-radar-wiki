@@ -1,7 +1,7 @@
 {
   "date": "2026-05-27",
-  "generated_at": "2026-05-27T00:02:18.177029+08:00",
-  "item_count": 8,
+  "generated_at": "2026-05-27T06:04:04.673534+08:00",
+  "item_count": 11,
   "items": [
     {
       "id": "github-actions-down-again-today",
@@ -12,6 +12,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48278374",
+      "date": "2026-05-27"
+    },
+    {
+      "id": "a-sleep-like-consolidation-mechanism-for-llms",
+      "label": "A sleep-like consolidation mechanism for LLMs",
+      "summary": "该研究提出一种类似人类睡眠的巩固机制，让大型语言模型在非活跃时段自动整合新学知识，减少灾难性遗忘并提升长期记忆稳定性。技术要点包括离线重放、记忆再激活与参数微调；商业价值在于降低持续训练成本，增强模型自适应能力；产品创新可应用于智能助手、客服系统等需要长期知识积累的场景。",
+      "pm_score": 0.55,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48281226",
       "date": "2026-05-27"
     },
     {
@@ -45,6 +56,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+      "date": "2026-05-27"
+    },
+    {
+      "id": "openrouter-more-than-doubles-valuation-to-13b-in-a-year",
+      "label": "OpenRouter more than doubles valuation to $1.3B in a year",
+      "summary": "OpenRouter 完成 1.13 亿美元 B 轮融资，估值跃升至 13 亿美元（一年翻倍）。该平台专注于聚合多种 AI 模型（如 GPT、Claude、Llama 等），为开发者提供统一 API 和灵活切换能力。过去六个月使用量增长 5 倍，印证企业客户对多模型生态、成本优化及容错性的强烈需求。对 AI 产品经理而言，这意味着产品无需绑定单一模型，可基于场景动态调用最佳方案，降低依赖风险并提升可控性。此次融资由 CapitalG 领投，显示资本对多模型基础设施未来的押注。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "date": "2026-05-27"
+    },
+    {
+      "id": "xreal-google8217s-smart-glasses-partner-thinks-it-has-finally-mastered-this-noto",
+      "label": "Xreal, Google&#8217;s smart glasses partner, thinks it has finally mastered this",
+      "summary": "Xreal创始人兼CEO徐驰认为智能眼镜行业已到达转折点。作为Google智能眼镜合作伙伴，Xreal在光学和显示技术上取得突破，使眼镜更轻便、视场角更大，同时整合AI语音助手和实时翻译等能力。商业上，Xreal主打消费级市场，定价低于主流AR设备，并通过与Google合作接入Android生态。产品创新在于将AI能力与日常佩戴眼镜结合，实现信息叠加、导航、通知等无感交互，有望成为下一代移动计算平台。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
       "date": "2026-05-27"
     },
     {
@@ -93,7 +126,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 872,
-    "edges": 53049
+    "real_nodes": 875,
+    "edges": 53925
   }
 }

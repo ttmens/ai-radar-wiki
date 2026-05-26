@@ -1012,3 +1012,8 @@
 - create: this-startup-is-betting-india8217s-gig-economy-can-train-the-world8217s-robots.md
 - create: universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music.md
 - create: show-hn-skills-for-humanity-171-structured-reasoning-skills-for-claude-code.md
+
+## [2026-05-27 06:04] sync v3 | 3 new | pillars: {'capabilities': 2, 'ecosystem': 1}
+- create: a-sleep-like-consolidation-mechanism-for-llms.md
+- create: openrouter-more-than-doubles-valuation-to-13b-in-a-year.md
+- create: xreal-google8217s-smart-glasses-partner-thinks-it-has-finally-mastered-this-noto.md

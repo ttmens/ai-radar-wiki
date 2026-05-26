@@ -1,0 +1,26 @@
+{
+  "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+  "description": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+  "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+  "pub_date": "Tue, 26 May 2026 18:33:01 +0000",
+  "tag": "TechCrunch",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "api"
+  ],
+  "summary_cn": "OpenRouter 完成 1.13 亿美元 B 轮融资，估值跃升至 13 亿美元（一年翻倍）。该平台专注于聚合多种 AI 模型（如 GPT、Claude、Llama 等），为开发者提供统一 API 和灵活切换能力。过去六个月使用量增长 5 倍，印证企业客户对多模型生态、成本优化及容错性的强烈需求。对 AI 产品经理而言，这意味着产品无需绑定单一模型，可基于场景动态调用最佳方案，降低依赖风险并提升可控性。此次融资由 CapitalG 领投，显示资本对多模型基础设施未来的押注。",
+  "pm_relevance": 8,
+  "concepts": [
+    "多模型聚合",
+    "AI API 市场",
+    "模型弹性切换"
+  ],
+  "entities": [
+    "OpenRouter",
+    "CapitalG"
+  ],
+  "patterns": [
+    "AI Gateway 模式",
+    "模型选择代理"
+  ]
+}

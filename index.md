@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-27 | Total pages: 891
+> Last updated: 2026-05-27 | Total pages: 894
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -10,6 +10,7 @@
 - [[a-case-against-boolean-logic.md]] A case against Boolean logic `pillar:capabilities` `score:0.395`
 - [[a-polynomial-autoencoder-beats-pca-on-transformer.md]] A polynomial autoencoder beats PCA on transformer embeddings `pillar:capabilities` `score:0.155`
 - [[a-recent-experience-with-chatgpt-55-pro.md]] A recent experience with ChatGPT 5.5 Pro `pillar:capabilities` `score:0.6`
+- [[a-sleep-like-consolidation-mechanism-for-llms.md]] A sleep-like consolidation mechanism for LLMs `pillar:capabilities` `score:0.55`
 - [[a-successful-japanese-trial-of-a-ramjet-engine-designed-for-mach5-aircraft.md]] A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft `pillar:capabilities` `score:0.32`
 - [[academic-research-skills-for-claude-code.md]] Academic Research Skills for Claude Code `pillar:capabilities` `score:0.395`
 - [[access-to-frontier-ai-will-soon-be-limited-by-economic-and-security-constraints.md]] Access to frontier AI will soon be limited by economic and security constraints `pillar:capabilities` `score:0.33`
@@ -226,6 +227,7 @@
 - [[wkentarolabelme.md]] wkentaro/labelme `pillar:capabilities` `score:0.58`
 - [[writeup-16-bytes-of-x86-that-turn-matrix-rain-into-sound.md]] WriteUp: 16 Bytes of x86 that turn Matrix rain into sound `pillar:capabilities` `score:0.34`
 - [[xorbitsaiinference.md]] xorbitsai/inference `pillar:capabilities` `score:0.565`
+- [[xreal-google8217s-smart-glasses-partner-thinks-it-has-finally-mastered-this-noto.md]] Xreal, Google&#8217;s smart glasses partner, thinks it has finally mastered this `pillar:capabilities` `score:0.43`
 - [[you-can-no-longer-google-the-word-8216disregard8217.md]] You can no longer Google the word &#8216;disregard&#8217; `pillar:capabilities` `score:0.445`
 - [[you-dont-align-an-ai-you-align-with-it.md]] You Don't Align an AI, You Align with It `pillar:capabilities` `score:0.43`
 - [[zaya1-8b-an-8b-moe-model-with-760m-active-params.md]] ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math `pillar:capabilities` `score:0.38`
@@ -628,6 +630,7 @@
 - [[open-webuiopen-webui.md]] open-webui/open-webui `pillar:ecosystem` `score:0.405`
 - [[openai-and-government-of-malta-partner-to-roll-out-chatgpt-plus-to-all-citizens.md]] OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens `pillar:ecosystem` `score:0.565`
 - [[openai-is-reportedly-preparing-legal-action-against-apple-it-wouldn8217t-be-the.md]] OpenAI is reportedly preparing legal action against Apple; it wouldn&#8217;t be `pillar:ecosystem` `score:0.48`
+- [[openrouter-more-than-doubles-valuation-to-13b-in-a-year.md]] OpenRouter more than doubles valuation to $1.3B in a year `pillar:ecosystem` `score:0.48`
 - [[pope-leo-opaque-ai-run-by-few-firms-risks-new-forms-of-dehumanization.md]] Pope Leo: opaque AI run by few firms risks "New Forms of Dehumanization" `pillar:ecosystem` `score:0.43`
 - [[pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few.md]] Pope Leo XIV says AI must serve humanity, not the powerful few `pillar:ecosystem` `score:0.565`
 - [[postmortem-tanstack-npm-supply-chain-compromise.md]] Postmortem: TanStack npm supply-chain compromise `pillar:ecosystem` `score:0.61`
