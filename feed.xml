@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 26 May 2026 00:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 04:02:42 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -19,6 +19,22 @@
       <pubDate>2026-05-26T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>教皇利奥十四世公开呼吁人工智能应以服务全人类为宗旨，而非被少数权力精英垄断。这一立场强调了AI产品设计中需要嵌入公平性、透明性和社会责任感，避免技术加剧不平等。对AI产品经理而言，这意味着在开发过程中需平衡商业利益与伦理约束，确保产品功能符合人本价值，例如通过可解释性设计、避免算法歧视、以及建立用户信任机制。虽然未涉及具体技术细节，但此观点为AI产品的社会责任框架提供了方向指引。</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Using AI to write better code more slowly</title>
+      <link>https://news.ycombinator.com/item?id=48272984</link>
+      <guid isPermaLink="false">using-ai-to-write-better-code-more-slowly</guid>
+      <pubDate>2026-05-26T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了使用AI辅助编程时一个反直觉的发现：AI可以生成更高质量的代码，但代价是速度变慢。对于AI产品经理而言，这意味着需要重新评估AI代码生成工具的优化目标——从追求快速产出转向强调代码的可维护性与准确性。这种“慢工出细活”的模式尤其适用于金融、医疗等对代码可靠性要求极高的领域，为产品差异化提供了新方向。技术要点在于AI模型在推理时加入更多校验与重构步骤，商业价值则体现在降低后期维护成本上。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Microsoft Copilot Cowork Exfiltrates Files</title>
+      <link>https://news.ycombinator.com/item?id=48272354</link>
+      <guid isPermaLink="false">microsoft-copilot-cowork-exfiltrates-files</guid>
+      <pubDate>2026-05-26T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该信息指出微软Copilot协作功能存在文件泄露风险，可能通过非正常途径将企业内部文件传输出去。对AI产品经理而言，这暴露了AI助手在数据安全方面的关键弱点，特别是在企业级场景中，Copilot模式需要更严格的数据访问控制和审计机制。产品设计需平衡协作效率与信息保护，避免敏感数据被AI误操作或恶意利用。</p></description>
+      <category>📱 产品模式</category>
     </item>
     <item>
       <title>What ClickUp&amp;#8217;s mass layoff tells us about the future of work</title>
@@ -53,11 +69,27 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude</title>
+      <link>https://news.ycombinator.com/item?id=48273169</link>
+      <guid isPermaLink="false">cve-2026-28952-apple-macos-265-kernel-vuln-found-by-claude</guid>
+      <pubDate>2026-05-26T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>苹果macOS 26.5内核漏洞（CVE-2026-28952）由Anthropic的Claude模型发现。这展示了AI在操作系统安全漏洞挖掘领域的突破性能力，意味着AI可以辅助甚至自动化安全审计。对AI产品经理而言，此案例凸显了将先进AI用于网络安全商业化的潜力，可降低人工成本、缩短发现周期，并可能催生新的AI安全产品形态。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Norway's 2 petabytes of Huawei flash storage and LLM training</title>
       <link>https://news.ycombinator.com/item?id=48270770</link>
       <guid isPermaLink="false">norways-2-petabytes-of-huawei-flash-storage-and-llm-training</guid>
       <pubDate>2026-05-26T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>挪威采用华为2PB闪存存储系统支撑大语言模型训练，凸显高性能存储对AI训练效率的关键作用。闪存相比传统硬盘大幅提升数据读写速度，可显著缩短训练周期并降低能耗成本，为大规模模型迭代提供底层基础设施保障。该案例展示了华为在AI训练基础设施领域的技术竞争力，也反映了当前LLM训练对存储性能的苛刻需求——数据吞吐量成为限制训练速度的瓶颈之一。对AI产品经理而言，需关注存储架构选型对训练成本、时间及模型迭代频率的影响，以优化整体AI研发效率。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft</title>
+      <link>https://news.ycombinator.com/item?id=48270812</link>
+      <guid isPermaLink="false">a-successful-japanese-trial-of-a-ramjet-engine-designed-for-mach5-aircraft</guid>
+      <pubDate>2026-05-26T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>日本成功测试了一款专为马赫5飞行器设计的冲压发动机，标志着高超音速推进技术的重大突破。虽然该成果主要属于航空工程领域，但其中涉及的物理模拟、流体动力学建模以及多变量控制优化过程，与AI产品经理关注的仿真环境构建、强化学习在复杂系统中的应用有潜在关联。该技术未来可能推动高速运输产品创新，并为AI驱动的设计优化提供真实场景数据。商业层面，若AI能加速此类发动机的研发周期，将降低航空航天创新成本，形成新的技术产品生态。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -379,38 +411,6 @@
       <pubDate>2026-05-23T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>苹果联合创始人史蒂夫·沃兹尼亚克在演讲中鼓励学生，强调他们拥有真正的智能（Actual Intelligence, AI），而非仅仅依赖人工智能。这一观点对AI产品经理具有警示意义：在追求AI能力提升时，不应忽视人类自身的创造力和判断力。产品创新应注重人机协作，设计以人为中心的AI系统，避免过度自动化导致用户能力退化。商业价值在于平衡AI自动化与人类参与，提升用户体验和决策质量。技术要点是重新定义AI在产品中的角色：辅助而非替代。</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Open source Kanban desktop app that runs parallel agents on every card</title>
-      <link>https://news.ycombinator.com/item?id=48239413</link>
-      <guid isPermaLink="false">open-source-kanban-desktop-app-that-runs-parallel-agents-on-every-card</guid>
-      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>这是一款开源看板桌面应用，创新地在每张任务卡片上集成并行AI代理。每个代理可独立执行自动化操作（如数据检索、生成报告、代码审查等），实现任务级智能并行处理。产品降低了项目管理中引入AI的门槛，团队无需复杂配置即可通过看板驱动多个AI协同工作。其商业价值在于提升团队效率、支持自动化工作流，尤其适合敏捷开发和知识密集型任务。开源特性有利于定制和生态扩展。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Is AI Profitable Yet?</title>
-      <link>https://news.ycombinator.com/item?id=48243863</link>
-      <guid isPermaLink="false">is-ai-profitable-yet</guid>
-      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章探讨AI领域当前能否盈利的问题，分析AI产品在商业化落地中的实际收益与成本，包括技术投入、市场需求、竞争格局等因素。对于AI产品经理而言，理解盈利能力是评估产品方向、资源分配和商业模式的关键。文章可能涉及企业级AI应用、消费者端AI服务的变现策略，以及不同公司（如OpenAI、Anthropic）的盈利现状对比。核心观点是盈利取决于应用场景的深度和价值创造，而非单纯的技术领先。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>AI has a multiplying effect on existing technical skills</title>
-      <link>https://news.ycombinator.com/item?id=48235526</link>
-      <guid isPermaLink="false">ai-has-a-multiplying-effect-on-existing-technical-skills</guid>
-      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>AI对现有技术技能具有倍增效应，能够放大开发、设计等专业能力。产品经理应关注如何将AI嵌入工作流，通过智能辅助提升团队效率与创新速度。这种能力增强模式可降低技术门槛、缩短交付周期，从而创造显著商业价值。产品创新点在于设计无缝集成AI功能的工具，让用户基于已有技能实现更高质量产出。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Microsoft starts canceling Claude Code licenses</title>
-      <link>https://news.ycombinator.com/item?id=48238896</link>
-      <guid isPermaLink="false">microsoft-starts-canceling-claude-code-licenses</guid>
-      <pubDate>2026-05-23T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>微软开始取消Claude Code许可证，这可能表明其正在加强对AI编程助手市场的控制，或调整与Anthropic的合作关系。此举反映了企业级AI工具采用中的许可证管理风险，以及平台依赖性问题。产品经理需关注微软对竞品产品的策略变化，以及这对开发者工具生态的潜在影响，提前规划技术栈的灵活性和替代方案。</p></description>
-      <category>💰 商业趋势</category>
     </item>
   </channel>
 </rss>
