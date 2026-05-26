@@ -1,0 +1,22 @@
+{
+  "title": "Using AI to write better code more slowly",
+  "score": 250,
+  "comments": 103,
+  "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+  "hn_url": "https://news.ycombinator.com/item?id=48272984",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "本文探讨了使用AI辅助编程时一个反直觉的发现：AI可以生成更高质量的代码，但代价是速度变慢。对于AI产品经理而言，这意味着需要重新评估AI代码生成工具的优化目标——从追求快速产出转向强调代码的可维护性与准确性。这种“慢工出细活”的模式尤其适用于金融、医疗等对代码可靠性要求极高的领域，为产品差异化提供了新方向。技术要点在于AI模型在推理时加入更多校验与重构步骤，商业价值则体现在降低后期维护成本上。",
+  "pm_relevance": 7,
+  "concepts": [
+    "AI编程",
+    "代码质量",
+    "开发效率权衡"
+  ],
+  "entities": [],
+  "patterns": [
+    "Quality-First AI",
+    "AI-Assisted Programming"
+  ]
+}

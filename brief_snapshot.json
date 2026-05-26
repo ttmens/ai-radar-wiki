@@ -1,7 +1,7 @@
 {
   "date": "2026-05-26",
-  "generated_at": "2026-05-26T06:03:52.377669+08:00",
-  "item_count": 9,
+  "generated_at": "2026-05-26T12:01:55.700751+08:00",
+  "item_count": 13,
   "items": [
     {
       "id": "pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few",
@@ -12,6 +12,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48266485",
+      "date": "2026-05-26"
+    },
+    {
+      "id": "using-ai-to-write-better-code-more-slowly",
+      "label": "Using AI to write better code more slowly",
+      "summary": "本文探讨了使用AI辅助编程时一个反直觉的发现：AI可以生成更高质量的代码，但代价是速度变慢。对于AI产品经理而言，这意味着需要重新评估AI代码生成工具的优化目标——从追求快速产出转向强调代码的可维护性与准确性。这种“慢工出细活”的模式尤其适用于金融、医疗等对代码可靠性要求极高的领域，为产品差异化提供了新方向。技术要点在于AI模型在推理时加入更多校验与重构步骤，商业价值则体现在降低后期维护成本上。",
+      "pm_score": 0.565,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48272984",
+      "date": "2026-05-26"
+    },
+    {
+      "id": "microsoft-copilot-cowork-exfiltrates-files",
+      "label": "Microsoft Copilot Cowork Exfiltrates Files",
+      "summary": "该信息指出微软Copilot协作功能存在文件泄露风险，可能通过非正常途径将企业内部文件传输出去。对AI产品经理而言，这暴露了AI助手在数据安全方面的关键弱点，特别是在企业级场景中，Copilot模式需要更严格的数据访问控制和审计机制。产品设计需平衡协作效率与信息保护，避免敏感数据被AI误操作或恶意利用。",
+      "pm_score": 0.53,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48272354",
       "date": "2026-05-26"
     },
     {
@@ -59,6 +81,17 @@
       "date": "2026-05-26"
     },
     {
+      "id": "cve-2026-28952-apple-macos-265-kernel-vuln-found-by-claude",
+      "label": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+      "summary": "苹果macOS 26.5内核漏洞（CVE-2026-28952）由Anthropic的Claude模型发现。这展示了AI在操作系统安全漏洞挖掘领域的突破性能力，意味着AI可以辅助甚至自动化安全审计。对AI产品经理而言，此案例凸显了将先进AI用于网络安全商业化的潜力，可降低人工成本、缩短发现周期，并可能催生新的AI安全产品形态。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48273169",
+      "date": "2026-05-26"
+    },
+    {
       "id": "norways-2-petabytes-of-huawei-flash-storage-and-llm-training",
       "label": "Norway's 2 petabytes of Huawei flash storage and LLM training",
       "summary": "挪威采用华为2PB闪存存储系统支撑大语言模型训练，凸显高性能存储对AI训练效率的关键作用。闪存相比传统硬盘大幅提升数据读写速度，可显著缩短训练周期并降低能耗成本，为大规模模型迭代提供底层基础设施保障。该案例展示了华为在AI训练基础设施领域的技术竞争力，也反映了当前LLM训练对存储性能的苛刻需求——数据吞吐量成为限制训练速度的瓶颈之一。对AI产品经理而言，需关注存储架构选型对训练成本、时间及模型迭代频率的影响，以优化整体AI研发效率。",
@@ -67,6 +100,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48270770",
+      "date": "2026-05-26"
+    },
+    {
+      "id": "a-successful-japanese-trial-of-a-ramjet-engine-designed-for-mach5-aircraft",
+      "label": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
+      "summary": "日本成功测试了一款专为马赫5飞行器设计的冲压发动机，标志着高超音速推进技术的重大突破。虽然该成果主要属于航空工程领域，但其中涉及的物理模拟、流体动力学建模以及多变量控制优化过程，与AI产品经理关注的仿真环境构建、强化学习在复杂系统中的应用有潜在关联。该技术未来可能推动高速运输产品创新，并为AI驱动的设计优化提供真实场景数据。商业层面，若AI能加速此类发动机的研发周期，将降低航空航天创新成本，形成新的技术产品生态。",
+      "pm_score": 0.32,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48270812",
       "date": "2026-05-26"
     },
     {
@@ -104,7 +148,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 845,
-    "edges": 50459
+    "real_nodes": 849,
+    "edges": 51309
   }
 }

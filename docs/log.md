@@ -979,3 +979,9 @@
 - create: everyone-against-us-2023.md
 - create: the-physicists-who-convinced-fermilab-to-send-brazils-emails.md
 - create: what-clickup8217s-mass-layoff-tells-us-about-the-future-of-work.md
+
+## [2026-05-26 12:01] sync v3 | 4 new | pillars: {'capabilities': 3, 'patterns': 1}
+- create: using-ai-to-write-better-code-more-slowly.md
+- create: cve-2026-28952-apple-macos-265-kernel-vuln-found-by-claude.md
+- create: microsoft-copilot-cowork-exfiltrates-files.md
+- create: a-successful-japanese-trial-of-a-ramjet-engine-designed-for-mach5-aircraft.md
