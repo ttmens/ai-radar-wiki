@@ -5,13 +5,85 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 26 May 2026 12:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 16:05:15 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>GitHub Actions down again today</title>
+      <link>https://news.ycombinator.com/item?id=48278374</link>
+      <guid isPermaLink="false">github-actions-down-again-today</guid>
+      <pubDate>2026-05-27T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>GitHub Actions 今日再次发生服务中断，影响依赖其进行持续集成与交付的AI开发团队。对于AI产品经理而言，这表明第三方CI/CD平台的不稳定性可能直接阻塞模型训练、测试自动化等关键流程，暴露出过度依赖单一外部服务的风险。需评估是否采用多环境备份或本地化部署策略，以保障开发效率。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Uber president says AI spending is getting 'harder to justify'</title>
+      <link>https://news.ycombinator.com/item?id=48277485</link>
+      <guid isPermaLink="false">uber-president-says-ai-spending-is-getting-harder-to-justify</guid>
+      <pubDate>2026-05-27T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Uber总裁公开表示，企业对AI的投资越来越难以证明其合理性。这一表态反映了当前AI领域面临的商业化挑战：尽管技术能力快速提升，但高昂的算力成本、不确定的应用场景以及缺乏清晰的投资回报率，使得企业高管对大规模AI投入持更谨慎态度。对于AI产品经理而言，这意味着需要更注重产品化过程中的价值量化、成本控制以及从业务痛点出发的实用导向，而非单纯追逐技术先进性。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Universal Music Group and TikTok renew agreement to combat unauthorized AI music</title>
+      <link>https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/</link>
+      <guid isPermaLink="false">universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music</guid>
+      <pubDate>2026-05-27T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>环球音乐集团（UMG）与TikTok续签协议，重点强化对未经授权AI生成音乐的打击。UMG长期要求平台和流媒体服务实施更严格的内容审核政策，此次合作标志着音乐产业在AI版权治理上的关键一步。对于AI产品经理，这意味着开发AI音乐生成应用时必须考虑版权合规，嵌入水印或内容指纹识别技术，并建立与版权方的合作机制。同时，该协议可能推动行业标准形成，影响AI音乐创作工具的商业模式和内容分发策略。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>This startup is betting India&amp;#8217;s gig economy can train the world&amp;#8217;s ro</title>
+      <link>https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/</link>
+      <guid isPermaLink="false">this-startup-is-betting-india8217s-gig-economy-can-train-the-world8217s-robots</guid>
+      <pubDate>2026-05-27T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Human Archive 是一家由伯克利和斯坦福研究员创立的初创公司，利用印度零工经济雇佣工人佩戴摄像头帽和传感器设备，采集真实世界的物理交互数据，用于训练机器人。这种低成本、规模化的人力数据采集方式，直接解决了AI和机器人研发中高质量真实数据稀缺的痛点，为机器人具身智能提供关键训练素材。商业上，它验证了数据采集外包的可行性，可能成为机器人领域的基础设施。产品创新在于将人类日常活动转化为机器可学习的结构化数据，降低研发门槛。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence</title>
+      <link>https://news.ycombinator.com/item?id=48279316</link>
+      <guid isPermaLink="false">spain-blocks-prediction-markets-polymarket-kalshi-over-lack-of-gambling-licence</guid>
+      <pubDate>2026-05-27T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>西班牙监管机构以缺乏赌博牌照为由，封锁了预测市场平台Polymarket和Kalshi，禁止用户访问。此类平台通常利用区块链和智能合约进行事件预测交易，但被认定为赌博性质。对于AI产品经理，该事件凸显了预测市场与AI决策结合时面临的合规风险，尤其在金融和博彩边界模糊的领域。技术层面，智能合约的自动结算机制虽可降低信任成本，但法律定性仍是产品落地的关键障碍。商业上，预测市场可作为AI反馈或群体智慧数据源，但需提前解决牌照问题。产品创新需在去中心化与监管适配之间寻找平衡。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team</title>
+      <link>https://news.ycombinator.com/item?id=48278407</link>
+      <guid isPermaLink="false">eagle-31-collaboration-between-the-eagle-team-vllm-team-and-torchspec-team</guid>
+      <pubDate>2026-05-27T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Eagle 3.1 是由 EAGLE、vLLM 和 TorchSpec 三个团队合作推出的技术升级，专注于提升大语言模型推理效率。EAGLE 团队开发的推测解码算法可大幅加速生成过程，vLLM 负责高效的模型服务与内存管理，TorchSpec 则提供 PyTorch 原生的规范接口与优化工具。三方协作将推测解码与高性能推理引擎深度融合，使产品能以更低延迟、更高吞吐量运行 LLM，对 AI 产品经理而言，这意味着在相同硬件上能支持更多并发用户、降低运营成本，并加速模型迭代部署，尤其适合对话助手、代码生成等实时性要求高的应用。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Outsourcing plus LocalAI will soon become more economical vs. Frontier labs</title>
+      <link>https://news.ycombinator.com/item?id=48278610</link>
+      <guid isPermaLink="false">outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs</guid>
+      <pubDate>2026-05-27T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: skills-for-humanity – 171 structured reasoning skills for Claude Code</title>
+      <link>https://github.com/human-avatar/skills-for-humanity</link>
+      <guid isPermaLink="false">show-hn-skills-for-humanity-171-structured-reasoning-skills-for-claude-code</guid>
+      <pubDate>2026-05-27T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该项目为Claude Code提供了171个结构化推理技能，旨在通过预定义的推理模板增强AI Agent的逻辑推理与任务分解能力。这些技能覆盖分析、规划、决策等场景，可直接复用，降低Prompt工程复杂度，提升产品可靠性。商业价值在于加速AI功能落地，减少人工调优成本，适用于需要复杂推理的AI产品（如自动编程助手、决策支持系统）。产品创新体现在将碎片化推理经验转化为可组合、可共享的技能库，推动Agent从“模仿”向“结构化思考”演进。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Multimodal adaptive optical microscope: in vivo imaging, molecules to organisms</title>
+      <link>https://news.ycombinator.com/item?id=48247142</link>
+      <guid isPermaLink="false">multimodal-adaptive-optical-microscope-in-vivo-imaging-molecules-to-organisms</guid>
+      <pubDate>2026-05-27T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>多模态自适应光学显微镜技术能够实现从分子到生物体的活体高分辨率成像，通过结合多种成像模态和自适应光学技术，动态校正像差，提升成像深度与清晰度。对于AI产品经理而言，该技术可催生新型生物医学影像分析平台，利用AI算法实时处理多模态数据，加速疾病诊断与药物发现。商业价值在于为科研与临床提供更精准的活体观察工具，产品创新点在于将硬件自适应与软件智能分析深度融合。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>Pope Leo XIV says AI must serve humanity, not the powerful few</title>
       <link>https://news.ycombinator.com/item?id=48266485</link>
@@ -339,78 +411,6 @@
       <pubDate>2026-05-25T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出ETCHR方法，旨在通过编辑来澄清和利用推理。针对多模态大语言模型中纯文本思维链无法处理需要精细焦点或视角转换的问题，采用“用图像思考”范式，但现有方法受限。ETCHR通过图像编辑辅助推理，提升视觉问答等任务的准确性和可解释性，为产品开发提供更可靠的视觉推理能力。</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>SkillOpt: Executive Strategy for Self-Evolving Agent Skills</title>
-      <link>http://arxiv.org/abs/2605.23904v1</link>
-      <guid isPermaLink="false">skillopt-executive-strategy-for-self-evolving-agent-skills</guid>
-      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出 SkillOpt 策略，针对当前 Agent 技能依赖手工设计、一次性生成或松散自我修订的局限，主张技能应像深度学习优化器一样在反馈下持续训练与进化。该方法通过执行级优化，使技能能可靠地改进初始表现，提升 Agent 的自适应能力和长期效果。对产品经理而言，SkillOpt 可降低技能定制成本，实现 Agent 行为的自动调优，推动自主智能体的产品化落地。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs</title>
-      <link>http://arxiv.org/abs/2605.23883v1</link>
-      <guid isPermaLink="false">pgt-procedurally-generated-tasks-for-improving-visual-grounding-in-mllms</guid>
-      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出PGT（程序化生成任务）框架，旨在解决多模态大语言模型在细粒度视觉理解上的不足。通过自动生成结构化视觉推理任务，PGT能有效提升模型对图像细节的感知与定位能力。该框架简单灵活，可扩展至多种视觉任务，具有显著的产品创新潜力，例如在电商商品识别、医疗影像分析等场景中提升精度。同时，PGT降低了人工标注成本，为商业落地提供了高效的数据驱动方案。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry</title>
-      <link>http://arxiv.org/abs/2605.23892v1</link>
-      <guid isPermaLink="false">good-token-hunting-a-hitchhikers-guide-to-token-selection-for-visual-geometry-tr</guid>
-      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出了一种针对视觉几何变换器的token选择方法，旨在解决其在多视图3D重建中因全局注意力层导致的计算成本随输入序列长度二次增长的问题。通过智能筛选关键token，该方法在保持重建精度的同时显著降低计算开销，提升了模型在实时或资源受限场景下的可行性。这对AR/VR、自动驾驶等需要高效3D感知的产品具有商业价值，为产品经理提供了优化成本与性能平衡的技术路径。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws</title>
-      <link>http://arxiv.org/abs/2605.23901v1</link>
-      <guid isPermaLink="false">llms-as-noisy-channels-a-shannon-perspective-on-model-capacity-and-scaling-laws</guid>
-      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文从香农信道视角重新审视大语言模型的缩放定律，指出传统单调幂律无法解释灾难性过训练和量化退化等非单调现象。作者提出香农缩放定律，将模型视为有噪信道，容量受噪声和计算资源共同约束，解释了性能随计算量增加先升后降的悖论。这一视角为产品经理提供了更精确的模型容量-成本权衡理论，指导训练策略选择（避免过训练）和量化压缩设计（缓解退化），有望降低部署成本、提升模型鲁棒性，推动更高效的大模型产品开发。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplace</title>
-      <link>http://arxiv.org/abs/2605.23887v1</link>
-      <guid isPermaLink="false">chronos-temporally-aware-multi-agent-coordination-for-evolving-data-marketplaces</guid>
-      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>CHRONOS 提出了一种时间感知的多智能体协调框架，专门针对时态知识图谱数据市场中的三个关键缺陷：静态混合索引导致数据演化后召回率下降、固定 Shapley 定价在分布偏移后无法反映真实价值、以及未协调的智能体过度消耗共享差分隐私预算。该框架通过动态索引更新、基于时间衰减的定价调整以及隐私预算的协同分配，提升了数据市场的时效性、公平性和隐私效率。对于 AI 产品经理而言，它展示了如何将时间维度融入数据交易系统的设计，从而在动态环境中实现更高价值的数据流通和隐私保护，尤其适用于需要实时数据交换和隐私合规的场景。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>On the Stability of Spherical Hellinger-Kantorovich Flows and Their Implications</title>
-      <link>http://arxiv.org/abs/2605.23879v1</link>
-      <guid isPermaLink="false">on-the-stability-of-spherical-hellinger-kantorovich-flows-and-their-implications</guid>
-      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文研究了球形Hellinger-Kantorovich（SHK）几何下梯度流采样的稳定性，该流耦合了输运和反应过程，与出生-死亡过程一致。通过SHK框架，能够更稳定地逼近吉布斯分布，从而为差分隐私提供新的理论工具。商业上，可应用于隐私保护的生成模型、联邦学习中的数据分布建模，提升数据安全与采样效率。产品创新在于将几何流与隐私约束结合，有望开发出更鲁棒、更可解释的差分隐私机制。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Constraint Decay: The Fragility of LLM Agents in Back End Code Generation</title>
-      <link>https://news.ycombinator.com/item?id=48256912</link>
-      <guid isPermaLink="false">constraint-decay-the-fragility-of-llm-agents-in-back-end-code-generation</guid>
-      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了LLM智能体在后端代码生成中的“约束衰减”问题：智能体在生成长序列代码时，初始约束条件（如API规范、业务逻辑）会随着生成过程逐渐失效，导致代码准确性下降。这一脆弱性对基于AI的代码生成产品的可靠性构成挑战，尤其在企业级后端开发中可能引发高错误率。研究提出了缓解策略，如定期注入上下文或强化约束记忆。商业上，解决此问题可提升AI编程工具的实用性与信任度，推动更广泛的产品采用。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Show HN: Kanban CLI (A local-first, agent-first task manager for the terminal)</title>
-      <link>https://codeberg.org/hydrafog/kanban</link>
-      <guid isPermaLink="false">show-hn-kanban-cli-a-local-first-agent-first-task-manager-for-the-terminal</guid>
-      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>一款名为 Kanban CLI 的终端任务管理工具，采用本地优先和代理优先的设计理念。用户可在命令行中管理看板任务，AI 代理可自主执行操作如创建、移动、更新任务卡片，无需依赖云端服务。技术亮点包括纯本地数据存储保障隐私、基于终端的高效交互、以及将 AI 代理作为一等公民集成到工作流中。产品创新在于将看板方法论与 AI 自主行动能力结合，适合开发者快速管理任务，提升个人或小团队的效率。商业价值体现在开源社区吸引、终端工具生态扩展，以及为本地优先 AI 应用提供参考范式。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Show HN: A satirical idle game about running an AI startup</title>
-      <link>https://game.trae.academy/</link>
-      <guid isPermaLink="false">show-hn-a-satirical-idle-game-about-running-an-ai-startup</guid>
-      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该作品是一款讽刺性放置游戏，模拟AI初创公司的运营过程。玩家通过点击、决策和资源管理来推进公司发展，体验从融资到产品落地的荒诞现实。游戏以幽默方式揭示AI行业常见陷阱，如追逐热点、过度承诺、技术炒作等。对于AI产品经理而言，这是一面镜子，反映真实创业中的产品策略与商业模式困境，同时强调用户价值而非技术炫耀。</p></description>
-      <category>💰 商业趋势</category>
     </item>
   </channel>
 </rss>
