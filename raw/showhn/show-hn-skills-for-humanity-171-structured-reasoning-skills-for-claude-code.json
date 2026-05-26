@@ -1,0 +1,27 @@
+{
+  "title": "Show HN: skills-for-humanity – 171 structured reasoning skills for Claude Code",
+  "score": 10,
+  "comments": 0,
+  "url": "https://github.com/human-avatar/skills-for-humanity",
+  "hn_url": "https://news.ycombinator.com/item?id=48275571",
+  "tag": "ShowHN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "reasoning"
+  ],
+  "summary_cn": "该项目为Claude Code提供了171个结构化推理技能，旨在通过预定义的推理模板增强AI Agent的逻辑推理与任务分解能力。这些技能覆盖分析、规划、决策等场景，可直接复用，降低Prompt工程复杂度，提升产品可靠性。商业价值在于加速AI功能落地，减少人工调优成本，适用于需要复杂推理的AI产品（如自动编程助手、决策支持系统）。产品创新体现在将碎片化推理经验转化为可组合、可共享的技能库，推动Agent从“模仿”向“结构化思考”演进。",
+  "pm_relevance": 9,
+  "concepts": [
+    "Structured Reasoning",
+    "Agent Skill Library",
+    "Inference Enhancement"
+  ],
+  "entities": [
+    "Anthropic",
+    "Claude"
+  ],
+  "patterns": [
+    "Structured Reasoning Pattern",
+    "Skill Library Pattern"
+  ]
+}

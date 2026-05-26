@@ -1001,3 +1001,14 @@
 - create: discoverphysics-benchmarking-llms-for-out-of-the-box-scientific-thinking.md
 - create: use-boring-languages-with-llms.md
 - create: ask-hn-is-anyone-working-at-least-4-hours-daily-on-an-apple-vision-pro.md
+
+## [2026-05-27 00:02] sync v3 | 9 new | pillars: {'capabilities': 9}
+- create: github-actions-down-again-today.md
+- create: outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs.md
+- create: spain-blocks-prediction-markets-polymarket-kalshi-over-lack-of-gambling-licence.md
+- create: eagle-31-collaboration-between-the-eagle-team-vllm-team-and-torchspec-team.md
+- create: uber-president-says-ai-spending-is-getting-harder-to-justify.md
+- create: multimodal-adaptive-optical-microscope-in-vivo-imaging-molecules-to-organisms.md
+- create: this-startup-is-betting-india8217s-gig-economy-can-train-the-world8217s-robots.md
+- create: universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music.md
+- create: show-hn-skills-for-humanity-171-structured-reasoning-skills-for-claude-code.md

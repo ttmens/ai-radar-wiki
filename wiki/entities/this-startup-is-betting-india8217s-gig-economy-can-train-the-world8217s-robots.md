@@ -1,0 +1,27 @@
+---
+title: This startup is betting India&#8217;s gig economy can train the world&#8217;s ro
+created: 2026-05-27
+updated: 2026-05-27
+type: entity
+pillar: capabilities
+pm_score: 0.48
+tags: ["news", "techcrunch", "capabilities"]
+sources: ["raw/techcrunch/this-startup-is-betting-india8217s-gig-economy-can-train-the-world8217s-robots.json"]
+---
+
+# This startup is betting India&#8217;s gig economy can train the world&#8217;s robots
+
+## 中文摘要
+Human Archive 是一家由伯克利和斯坦福研究员创立的初创公司，利用印度零工经济雇佣工人佩戴摄像头帽和传感器设备，采集真实世界的物理交互数据，用于训练机器人。这种低成本、规模化的人力数据采集方式，直接解决了AI和机器人研发中高质量真实数据稀缺的痛点，为机器人具身智能提供关键训练素材。商业上，它验证了数据采集外包的可行性，可能成为机器人领域的基础设施。产品创新在于将人类日常活动转化为机器可学习的结构化数据，降低研发门槛。
+
+## PM 关注指标
+- 🎯 PM Score: 0.48
+- 🏷️ Pillar: capabilities
+- 🔑 Keywords: training
+
+## 新闻摘要
+Human Archive, a startup founded by Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.
+
+## 链接
+- 🔗 Source: https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/
+- 📅 Published: Tue, 26 May 2026 16:00:00 +0000
