@@ -1,0 +1,32 @@
+{
+  "title": "Goal-driven Bayesian Optimal Experimental Design for Robust Decision-Making Under Model Uncertainty",
+  "summary": "Bayesian optimal experimental design (BOED) selects experiments to maximize information gain about model parameters. However, in decision-critical settings, reducing parameter uncertainty does not necessarily improve downstream decisions, as only specific parameter directions relevant to the objective truly matter. We propose GoBOED, a goal-driven BOED framework that directly optimizes experimental designs for a specified decision-making objective. GoBOED combines an amortized variational posterior surrogate with a differentiable convex decision layer, enabling gradient-based design optimization that is fully decision-focused. We theoretically show that GoBOED gradients are insensitive to parameter directions irrelevant to the decision objective, providing a formal justification for why goal-driven design achieves equivalent decision quality over a wider set of experimental designs than information-gain maximization. Empirically, across source localization, epidemic management, and pharmacokinetic control, GoBOED identifies designs that better align with downstream decision objectives and reveals that near-optimal design windows are substantially wider than those predicted by goal-agnostic BOED approaches.",
+  "url": "http://arxiv.org/abs/2605.26093v1",
+  "authors": [
+    "Jinwoo Go",
+    "Xiaoning Qian",
+    "Byung-Jun Yoon"
+  ],
+  "published": "2026-05-25T17:53:18Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "parameter",
+    "gradient",
+    "optimization"
+  ],
+  "summary_cn": "该论文提出了一种目标驱动的贝叶斯最优实验设计方法，旨在解决传统BOED在决策关键场景中的不足：仅最大化参数信息增益未必改善实际决策。通过将实验设计与下游决策目标对齐，仅针对与决策相关的参数方向进行优化，从而在模型不确定性下实现更鲁棒的决策。技术要点包括基于决策目标的信息度量、实验选择策略的调整。商业价值：可显著降低实验成本、提升决策效率，适用于药物研发、自动驾驶等高风险领域。产品创新：将实验设计从“信息最大化”转向“决策价值最大化”，为AI驱动的决策系统提供新思路。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Bayesian Optimal Experimental Design",
+    "Decision-focused Learning",
+    "Model Uncertainty"
+  ],
+  "entities": [
+    "None"
+  ],
+  "patterns": [
+    "Goal-driven Optimization",
+    "Decision-oriented Design"
+  ]
+}

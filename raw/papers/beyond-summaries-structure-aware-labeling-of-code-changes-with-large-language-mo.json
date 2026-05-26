@@ -1,0 +1,31 @@
+{
+  "title": "Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models",
+  "summary": "Code review is a critical practice in software engineering, yet the growing scale and frequency of code patches in modern projects, together with the widespread adoption of AI code assistants, make manual review increasingly challenging. Identifying the types of changes within a patch, such as renames, moves, or logic modifications, can substantially improve review efficiency by enabling prioritization, filtering, and automation. However, existing LLM-based approaches to code review have largely focused on summarization and comment generation, leaving structured code reviews underexplored. In this paper, we present a systematic study of using large language models (LLMs) for taxonomy-based labeling of code changes in a code patch. We introduce a two-stage pipeline that assigns labels to diff hunks and then refines them to capture structural relationships and semantic attributes, such as rename propagation and type changes. Our approach employs few-shot prompting to produce language-agnostic and customizable labels, without the engineering overhead of traditional static-analysis pipelines. We evaluate four LLMs across multiple context configurations on a manually curated benchmark of natural and synthetic patches. Our best configuration achieves up to $84\\%$ recall and $81\\%$ precision, with high accuracy in extracting relational and attribute metadata. These results suggest that LLM-based labeling can effectively complement static analysis by enabling flexible, multilingual, and automation-friendly code review workflows.",
+  "url": "http://arxiv.org/abs/2605.26100v1",
+  "authors": [
+    "Bar Weiss",
+    "Antonio Abu-Nassar",
+    "Adi Sosnovich",
+    "Karen Yorav"
+  ],
+  "published": "2026-05-25T17:56:46Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "accuracy",
+    "precision",
+    "recall"
+  ],
+  "summary_cn": "该论文提出了一种利用大语言模型进行结构感知代码变更标签的方法，旨在解决现代软件开发中代码审查面临的规模与频率挑战。传统摘要式审查难以捕捉变更类型，而该方法通过分析代码结构自动识别重命名、重构等变更类别，提升审查效率与准确性。对于AI产品经理而言，该技术可直接集成到代码审查工具中，降低人工负担，加速开发流程，并可与AI代码助手互补，形成更智能的开发者工作流，具有显著的生产力提升价值和产品差异化潜力。",
+  "pm_relevance": 8,
+  "concepts": [
+    "代码审查自动化",
+    "变更类型分类",
+    "结构感知LLM"
+  ],
+  "entities": [],
+  "patterns": [
+    "AI辅助代码审查"
+  ]
+}

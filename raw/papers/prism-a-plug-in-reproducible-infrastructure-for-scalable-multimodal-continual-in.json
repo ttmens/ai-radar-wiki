@@ -1,0 +1,35 @@
+{
+  "title": "Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning",
+  "summary": "Multimodal Large Language Models (MLLMs) achieve versatility by reformulating diverse tasks into a unified instruction-following framework via instruction tuning. However, real-world deployment requires continuous adaptation to emerging tasks, motivating Multimodal Continual Instruction Tuning (MCIT). Despite its growing importance, current MCIT research is hindered by severe engineering bottlenecks. Existing methods are typically implemented by directly modifying the base MLLM codebase, which imposes substantial implementation overhead and yields method-specific architectures that severely limit code reuse and fair comparison. To address this, we introduce Prism, a plug-in reproducible codebase specifically designed for scalable MCIT research. It separates algorithmic development from the backbone implementation via a lightweight plugin registration mechanism, enabling new strategies to be integrated as independent plugins without modifying the underlying MLLM codebase, thereby eliminating structural fragmentation and accelerating method development. Prism natively supports widely used large-scale training pipeline, thereby enabling reproducible and scalable MCIT experimentation. Code is available at https://github.com/LAMDA-CL/Prism.",
+  "url": "http://arxiv.org/abs/2605.26110v1",
+  "authors": [
+    "Jun-Tao Tang",
+    "Yu-Cheng Shi",
+    "Zhen-Hao Xie",
+    "Da-Wei Zhou"
+  ],
+  "published": "2026-05-25T17:59:28Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "framework",
+    "deployment",
+    "plugin",
+    "pipeline",
+    "infrastructure"
+  ],
+  "summary_cn": "Prism 提出了一种插件化、可复现的基础设施，用于支持多模态大语言模型（MLLM）的持续指令微调（MCIT）。其核心创新在于通过模块化插件架构，使模型能够在不遗忘旧知识的前提下，高效适应不断涌现的新任务，解决了实际部署中模型迭代的成本与效率问题。该工具降低了多模态模型持续更新的工程门槛，有助于企业快速扩展应用场景，提升 AI 产品的适应性。",
+  "pm_relevance": 7,
+  "concepts": [
+    "持续学习",
+    "指令微调",
+    "多模态大语言模型"
+  ],
+  "entities": [
+    "Prism"
+  ],
+  "patterns": [
+    "插件化架构",
+    "持续学习模式"
+  ]
+}

@@ -2,105 +2,52 @@
   "daily_summary": {
     "date": "2026-05-26",
     "headline": "今日 AI 情报 · 2026-05-26",
-    "overview": "AI从辅助工具向自主执行主体跃进，安全与伦理成为产品设计核心命题",
+    "overview": "AI代理替代员工与安全伦理约束成今日两大信号",
     "narratives": [
       {
-        "title": "AI从辅助工具向自主执行主体跃进",
-        "body": "ClickUp用数千AI代理替代员工、Microsoft Copilot暴露数据泄露风险、教皇警告AI权力集中，三条主线共同指向AI已从对话式辅助迈向自主操作级影响。产品经理需重新设计可靠性、安全性和伦理护栏，以驾驭这一跨越。",
+        "title": "AI从辅助工具走向自主执行主体",
+        "body": "ClickUp用数千AI代理替代数百员工，标志着AI驱动的工作模式从概念走向规模化落地。结合系统扩展论文提出的可审计、模块化架构，AI产品经理需将产品设计重心从模型能力转向系统可靠性、可组合性与可验证性，以支撑复杂多步任务的自主执行。未来企业级AI产品将更像“数字员工”而非工具，催生新的管理、协作与合规需求。",
         "type": "paradigm_shift",
         "pillar_key": "patterns"
       },
       {
-        "title": "AI基础设施安全与合规成为不可忽视的系统瓶颈",
-        "body": "荷兰扣押服务器、Apple内核漏洞由AI发现、教皇呼吁透明与公正，凸显AI基础设施被滥用以及安全审查的迫切性。产品经理须将防滥用机制、审计与合规设计纳入产品底层，否则将面临监管和信任危机。",
+        "title": "AI伦理与安全成为行业硬约束",
+        "body": "教皇两次发言强调AI应服务全人类而非少数权力精英，微软Copilot文件泄露暴露企业AI协作的安全漏洞，荷兰扣押800台服务器揭示基础设施可能被大规模滥用。AI产品经理正面临来自监管、市场和用户的强制性伦理安全要求，需将可解释性、数据访问控制和防滥用机制作为产品刚需，而非附加功能。",
         "type": "bottleneck",
         "pillar_key": "ecosystem"
-      },
-      {
-        "title": "AI代码生成转向质量优先，慢工出细活范式兴起",
-        "body": "用AI写代码更慢但更优的案例、AI errno设计、Python邮件解析等信号，表明业界正从追求生成速度转向可靠性、可维护性。这对金融、医疗等高可靠性领域的产品差异化至关重要。",
-        "type": "maturation",
-        "pillar_key": "capabilities"
-      },
-      {
-        "title": "AI安全攻防能力商业化拐点来临",
-        "body": "Claude发现macOS内核漏洞、荷兰打击DDoS服务器，一方面展示AI自动发现漏洞的潜力，另一方面暴露基础设施攻击面。产品经理可借此切入AI驱动的安全检测与响应市场，形成新业务增长点。",
-        "type": "validation",
-        "pillar_key": "business"
       }
     ],
     "insights": [
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "AI从辅助工具向自主执行主体跃进",
-        "insight": "AI从辅助工具向自主执行主体跃进。该方向的具体信号：ClickUp裁员并用AI代理替代数百名员工，揭示AI代理正从辅助转变为自主执行核心业务流程；Microsoft Copilot文件泄露风险则暴露AI自主操作时安全控制的缺失，表明产品经理需在协作效率与数据保护间构建新的平衡机制。",
+        "narrative_title": "AI从辅助工具走向自主执行主体",
+        "insight": "AI从辅助工具走向自主执行主体。该方向的具体信号：ClickUp大规模裁员并用AI代理替代数百员工，显示企业级AI正从辅助决策跃迁为自主执行主体；系统扩展论文强调从模型扩展转向系统级扩展，要求产品经理构建可审计、模块化、可验证的架构支撑复杂任务。这表明未来AI产品设计需围绕‘数字员工’的能力边界、协作机制和可靠性展开，重新定义人机协作模式。",
         "evidence": [
           {
             "id": "what-clickup8217s-mass-layoff-tells-us-about-the-future-of-work",
-            "title": "ClickUp用数千AI代理替代员工，AI工作模式从辅助走向自主",
+            "title": "What ClickUp's mass layoff tells us about the future of work",
             "score": 0.52
-          },
-          {
-            "id": "microsoft-copilot-cowork-exfiltrates-files",
-            "title": "Microsoft Copilot协作功能存在文件泄露风险，安全成产品设计关键",
-            "score": 0.53
           }
         ]
       },
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "narrative_title": "AI基础设施安全与合规成为不可忽视的系统瓶颈",
-        "insight": "AI基础设施安全与合规成为不可忽视的系统瓶颈。该方向的具体信号：荷兰扣押800台服务器并逮捕两人，凸显云服务及GPU集群被滥用于网络攻击的风险；教皇利奥十四世和方济各连续呼吁AI透明、公平、服务全人类，从伦理层面强化了合规与信任的设计要求。产品经理须将防滥用、审计、可解释性作为基础设施必备能力。",
+        "narrative_title": "AI伦理与安全成为行业硬约束",
+        "insight": "AI伦理与安全成为行业硬约束。该方向的具体信号：教皇两次公开呼吁AI须服务全人类、避免权力集中和‘非人化’；微软Copilot协作功能被发现可泄露企业内部文件；荷兰警方扣押800台服务器并逮捕两名嫌犯，凸显AI基础设施被滥用于网络攻击的风险。这些事件共同表明，AI产品经理必须在设计早期嵌入透明性、审计、访问控制和防滥用机制，否则将面临监管处罚、信任危机和业务中断的多重风险。",
         "evidence": [
           {
-            "id": "netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks",
-            "title": "荷兰扣押800台服务器打击DDoS，暴露AI基础设施滥用风险",
-            "score": 0.4
-          },
-          {
-            "id": "pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few",
-            "title": "教皇呼吁AI服务全人类，强调公平与伦理设计",
-            "score": 0.56
-          }
-        ]
-      },
-      {
-        "pillar": "🤖 技术能力",
-        "pillar_key": "capabilities",
-        "narrative_title": "AI代码生成转向质量优先，慢工出细活范式兴起",
-        "insight": "AI代码生成转向质量优先，慢工出细活范式兴起。该方向的具体信号：一篇研究发现用AI写代码更慢但能产出更高质量、更易维护的代码，在金融医疗等可靠性敏感领域价值显著；AI错误码设计（errno）的讨论以及Python邮件解析笔记，均指向AI产品需更精细的异常处理与可维护性设计。",
-        "evidence": [
-          {
-            "id": "ai-errno2-values",
-            "title": "AI错误码设计提升鲁棒性与产品可靠性",
-            "score": 0.31
-          },
-          {
-            "id": "notes-about-reading-messages-with-the-python-email-packages",
-            "title": "Python邮件解析技术，支撑邮件自动化AI产品",
-            "score": 0.23
-          }
-        ]
-      },
-      {
-        "pillar": "商业趋势",
-        "pillar_key": "business",
-        "narrative_title": "AI安全攻防能力商业化拐点来临",
-        "insight": "AI安全攻防能力商业化拐点来临。该方向的具体信号：Claude发现macOS内核漏洞（CVE-2026-28952），展示AI在自动化漏洞挖掘上的突破；同时荷兰扣押服务器事件催生抗DDoS等安全服务需求。产品经理可推动AI驱动的安全检测与响应产品，将漏洞发现、入侵检测等能力商业化。",
-        "evidence": [
-          {
-            "id": "cve-2026-28952-apple-macos-265-kernel-vuln-found-by-claude",
-            "title": "Claude发现macOS内核漏洞，AI自动化安全审计能力成熟",
-            "score": 0.4
+            "id": "microsoft-copilot-cowork-exfiltrates-files",
+            "title": "Microsoft Copilot Cowork Exfiltrates Files",
+            "score": 0.53
           }
         ]
       }
     ],
-    "stats": "技术能力: 8 | 产品模式: 2 | 工具生态: 5 | 商业趋势: 0",
-    "total_items": 16,
-    "high_value_count": 14,
+    "stats": "技术能力: 10 | 产品模式: 4 | 工具生态: 6 | 商业趋势: 0",
+    "total_items": 20,
+    "high_value_count": 20,
     "all_today_ids": [
       {
         "id": "pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few",
@@ -119,6 +66,58 @@
         "label": "What ClickUp&#8217;s mass layoff tells us about the future of work"
       },
       {
+        "id": "language-models-need-sleep",
+        "label": "Language Models Need Sleep"
+      },
+      {
+        "id": "forgetting-in-language-models-capacity-optimization-and-self-generated-replay",
+        "label": "Forgetting in Language Models: Capacity, Optimization, and Self-Generated Replay"
+      },
+      {
+        "id": "beyond-summaries-structure-aware-labeling-of-code-changes-with-large-language-mo",
+        "label": "Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language M"
+      },
+      {
+        "id": "squeezing-capacity-from-multimodal-large-language-models-for-subject-driven-gene",
+        "label": "Squeezing Capacity from Multimodal Large Language Models for Subject-driven Gene"
+      },
+      {
+        "id": "discoverphysics-benchmarking-llms-for-out-of-the-box-scientific-thinking",
+        "label": "DiscoverPhysics: Benchmarking LLMs for Out-of-the-Box Scientific Thinking"
+      },
+      {
+        "id": "orpquant-geometric-orthogonal-residual-projection-for-multiplier-free-power-of-t",
+        "label": "OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-"
+      },
+      {
+        "id": "ask-hn-is-anyone-working-at-least-4-hours-daily-on-an-apple-vision-pro",
+        "label": "Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?"
+      },
+      {
+        "id": "prism-a-plug-in-reproducible-infrastructure-for-scalable-multimodal-continual-in",
+        "label": "Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual I"
+      },
+      {
+        "id": "channel-wise-vector-quantization",
+        "label": "Channel-wise Vector Quantization"
+      },
+      {
+        "id": "mobilegym-a-verifiable-and-highly-parallel-simulation-platform-for-mobile-gui-ag",
+        "label": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI A"
+      },
+      {
+        "id": "looped-diffusion-language-models",
+        "label": "Looped Diffusion Language Models"
+      },
+      {
+        "id": "goal-driven-bayesian-optimal-experimental-design-for-robust-decision-making-unde",
+        "label": "Goal-driven Bayesian Optimal Experimental Design for Robust Decision-Making Unde"
+      },
+      {
+        "id": "from-model-scaling-to-system-scaling-scaling-the-harness-in-agentic-ai",
+        "label": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI"
+      },
+      {
         "id": "pope-leo-opaque-ai-run-by-few-firms-risks-new-forms-of-dehumanization",
         "label": "Pope Leo: opaque AI run by few firms risks \"New Forms of Dehumanization\""
       },
@@ -133,6 +132,10 @@
       {
         "id": "cve-2026-28952-apple-macos-265-kernel-vuln-found-by-claude",
         "label": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude"
+      },
+      {
+        "id": "use-boring-languages-with-llms",
+        "label": "Use Boring Languages with LLMs"
       },
       {
         "id": "norways-2-petabytes-of-huawei-flash-storage-and-llm-training",
@@ -168,6 +171,6 @@
       }
     ],
     "date_bj": "2026-05-26 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-26 12:01:37"
+    "generated_at_bj": "2026-05-26 18:01:24"
   }
 }

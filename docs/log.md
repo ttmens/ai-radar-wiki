@@ -985,3 +985,19 @@
 - create: cve-2026-28952-apple-macos-265-kernel-vuln-found-by-claude.md
 - create: microsoft-copilot-cowork-exfiltrates-files.md
 - create: a-successful-japanese-trial-of-a-ramjet-engine-designed-for-mach5-aircraft.md
+
+## [2026-05-26 18:01] sync v3 | 14 new | pillars: {'ecosystem': 2, 'patterns': 1, 'capabilities': 11}
+- create: mobilegym-a-verifiable-and-highly-parallel-simulation-platform-for-mobile-gui-ag.md
+- create: from-model-scaling-to-system-scaling-scaling-the-harness-in-agentic-ai.md
+- create: squeezing-capacity-from-multimodal-large-language-models-for-subject-driven-gene.md
+- create: prism-a-plug-in-reproducible-infrastructure-for-scalable-multimodal-continual-in.md
+- create: looped-diffusion-language-models.md
+- create: beyond-summaries-structure-aware-labeling-of-code-changes-with-large-language-mo.md
+- create: language-models-need-sleep.md
+- create: forgetting-in-language-models-capacity-optimization-and-self-generated-replay.md
+- create: goal-driven-bayesian-optimal-experimental-design-for-robust-decision-making-unde.md
+- create: orpquant-geometric-orthogonal-residual-projection-for-multiplier-free-power-of-t.md
+- create: channel-wise-vector-quantization.md
+- create: discoverphysics-benchmarking-llms-for-out-of-the-box-scientific-thinking.md
+- create: use-boring-languages-with-llms.md
+- create: ask-hn-is-anyone-working-at-least-4-hours-daily-on-an-apple-vision-pro.md

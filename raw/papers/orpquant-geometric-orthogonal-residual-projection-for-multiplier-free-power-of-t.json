@@ -1,0 +1,33 @@
+{
+  "title": "OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization",
+  "summary": "The deployment of Large Language Models (LLMs) and Vision Transformers (ViTs) on edge devices is significantly constrained by memory limitations and the critical timing bottlenecks introduced by dense Multiply-Accumulate (MAC) arrays. In the ultra-low bit regime, logarithmic Power-of-Two (PoT) quantization provides a hardware-efficient alternative by replacing MAC operations with bit-shifts. However, the non-uniform exponential lattice is inherently limited by a \\textbf{Low Angular Resolution Regime}, a structural flaw that becomes particularly pronounced at sub-4-bit thresholds, leading to a notable degradation of high-dimensional feature manifolds.\n  To address this geometric limitation, we propose Orthogonal Residual Projection (ORP), an algorithm-hardware co-design framework. By formulating quantization as a dual-basis geometric projection, ORP adaptively synthesizes a higher-resolution residual lattice using strictly shift-and-add operations. Furthermore, ORP's analytical solver offers a practical alternative to computationally intensive gradient-based optimization, reducing the full-model calibration time for LLaMA-2-7B to approximately \\textbf{15 minutes}.\n  Extensive evaluations demonstrate ORP's applicability across modalities and its hardware efficiency. Under the 3-bit (W3/A16) constraint, ORP achieves a perplexity of 6.10 on LLaMA-2-7B, comparing favorably to conventional MAC-intensive baselines like AWQ without relying on asymmetric scaling, while maintaining competitive accuracy in 4-bit scenarios. At the silicon level, standard-cell RTL synthesis at a 28nm node indicates that ORP effectively mitigates the timing bottlenecks associated with dense multiplier trees.",
+  "url": "http://arxiv.org/abs/2605.26092v1",
+  "authors": [
+    "Maoyang Xiang",
+    "Bo Wang",
+    "Tao Luo"
+  ],
+  "published": "2026-05-25T17:52:46Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision",
+    "quantization",
+    "transformer",
+    "accuracy",
+    "gradient",
+    "optimization"
+  ],
+  "summary_cn": "OrpQuant提出了一种基于几何正交残差投影的无乘法器2的幂次量化方法，针对大语言模型和视觉Transformer在边缘设备部署时的内存与乘法累加阵列瓶颈。通过超低位宽下的对数尺度量化，显著降低计算复杂度和存储需求，同时保持模型精度。该技术可加速边缘AI应用，降低硬件成本，为移动端和IoT设备上的实时AI推理提供高效方案，具有重要的商业落地价值。",
+  "pm_relevance": 8,
+  "concepts": [
+    "模型量化",
+    "边缘AI",
+    "Transformer优化"
+  ],
+  "entities": [],
+  "patterns": [
+    "模型压缩",
+    "边缘推理"
+  ]
+}

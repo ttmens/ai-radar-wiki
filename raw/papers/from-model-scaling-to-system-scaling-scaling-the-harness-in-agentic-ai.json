@@ -1,0 +1,29 @@
+{
+  "title": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
+  "summary": "This paper studies the next major bottleneck in agentic AI as system scaling, not only model scaling: the design of auditable, persistent, modular, and verifiable architectures around foundation models. We refer to this shift as scaling the harness: treating the structured execution layer around a foundation model as a first-class object of design, evaluation, and optimization. Although recent large language models enable agents to use tools, retrieve information, maintain memory, and execute long-horizon workflows, evaluation remains largely model-centric, often reducing agents to final-task success while treating memory, retrieval, tool use, orchestration, verification, and governance as secondary implementation details. This framing is increasingly inadequate because agent performance emerges from the interaction among the foundation model, memory substrate, context constructor, skill-routing layer, orchestration loop, and verification-and-governance layer. Together, these components form the agent harness, which translates model capability into long-horizon agent behavior. We study scaling the harness through three core bottlenecks: context governance, trustworthy memory, and dynamic skill routing, together with the orchestration and governance mechanisms that coordinate and constrain them. We further outline a research agenda for harness-level benchmarks that go beyond one-shot task success to measure trajectory quality, memory hygiene, context efficiency, communication fidelity, verification cost, and safe evolution over time. To make the discussion concrete, we develop CheetahClaws: https://github.com/SafeRL-Lab/cheetahclaws, a Python-native reference harness, and compare it with Claude Code and OpenClaw. Our main claim is that future progress in agentic AI will depend as much on system design as on stronger foundation models.",
+  "url": "http://arxiv.org/abs/2605.26112v1",
+  "authors": [
+    "Shangding Gu"
+  ],
+  "published": "2026-05-25T17:59:36Z",
+  "tag": "Paper",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent",
+    "workflow",
+    "memory",
+    "tool use"
+  ],
+  "summary_cn": "本文提出代理型AI的下一个关键瓶颈在于系统级扩展（System Scaling）而非单纯模型扩展。核心是围绕基础模型构建可审计、持久化、模块化且可验证的架构，称为“扩展马具”（Scaling the Harness）。这要求产品经理关注从模型性能转向系统可靠性、可维护性和可组合性，从而支撑复杂多步骤任务。商业价值在于降低部署风险、提升可解释性，并支持规模化落地。产品创新方向包括设计结构化执行层、审计日志及模块化工具链。",
+  "pm_relevance": 7,
+  "concepts": [
+    "System Scaling",
+    "Agentic AI",
+    "Modular Architecture"
+  ],
+  "entities": [],
+  "patterns": [
+    "Agentic System Pattern",
+    "Scalable Harness Pattern"
+  ]
+}
