@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-27 | Total pages: 910
+> Last updated: 2026-05-27 | Total pages: 914
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -179,6 +179,7 @@
 - [[show-hn-id-agent-token-efficient-uuid-alternative-for-ai-agents.md]] Show HN: Id-agent – Token efficient UUID alternative for AI agents `pillar:capabilities` `score:0.345`
 - [[show-hn-iresearch-c-search-that-beat-lucene-and-tantivy-on-their-benchmark.md]] Show HN: IResearch – C++ search that beat Lucene and Tantivy on their benchmark `pillar:capabilities` `score:0.33`
 - [[show-hn-lance-imagevideo-generation-and-understanding-in-one-model.md]] Show HN: Lance – image/video generation and understanding in one model `pillar:capabilities` `score:0.365`
+- [[show-hn-posthorn-self-hosted-mail-without-the-mail-server.md]] Show HN: Posthorn, self-hosted mail without the mail server `pillar:capabilities` `score:0.31`
 - [[show-hn-semble-code-search-for-agents-that-uses-98-fewer-tokens-than-grep.md]] Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep `pillar:capabilities` `score:0.43`
 - [[show-hn-skills-for-humanity-171-structured-reasoning-skills-for-claude-code.md]] Show HN: skills-for-humanity – 171 structured reasoning skills for Claude Code `pillar:capabilities` `score:0.365`
 - [[show-hn-watch-a-neural-net-learn-to-play-snake.md]] Show HN: Watch a neural net learn to play Snake `pillar:capabilities` `score:0.36`
@@ -202,6 +203,7 @@
 - [[the-path-founded-by-tony-robbins-and-calm-alums-hopes-to-offer-safer-ai-therapy.md]] The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therap `pillar:capabilities` `score:0.48`
 - [[the-physicists-who-convinced-fermilab-to-send-brazils-emails.md]] The physicists who convinced Fermilab to send Brazil's emails `pillar:capabilities` `score:0.155`
 - [[the-soul-of-maintaining-a-new-machine.md]] The soul of maintaining a new machine `pillar:capabilities` `score:0.38`
+- [[the-structural-barriers-to-ai-lawyers.md]] The Structural Barriers to AI Lawyers `pillar:capabilities` `score:0.395`
 - [[the-wonders-of-ai-we-are-retiring-our-bug-bounty-program.md]] The Wonders of AI: We Are Retiring Our Bug Bounty Program `pillar:capabilities` `score:0.255`
 - [[this-startup-is-betting-india8217s-gig-economy-can-train-the-world8217s-robots.md]] This startup is betting India&#8217;s gig economy can train the world&#8217;s ro `pillar:capabilities` `score:0.48`
 - [[through-the-looking-glass-of-benchmark-hacking.md]] Through the looking glass of benchmark hacking `pillar:capabilities` `score:0.155`
@@ -514,6 +516,7 @@
 - [[show-hn-agentic-interface-for-mainframes-and-cobo.md]] Show HN: Agentic interface for mainframes and COBOL `pillar:patterns` `score:0.155`
 - [[show-hn-beacon-the-open-source-layer-for-local-ai-agent-visibility.md]] Show HN: Beacon - The open-source layer for local AI agent visibility `pillar:patterns` `score:0.295`
 - [[show-hn-crit-local-review-tool-for-agent-plans.md]] Show HN: Crit – local review tool for agent plans and code diffs `pillar:patterns` `score:0.155`
+- [[show-hn-cross-agent-messaging-and-shared-memory-over-the-local-filesystem.md]] Show HN: Cross-agent messaging and shared memory over the local filesystem `pillar:patterns` `score:0.295`
 - [[show-hn-dari-docs-optimize-your-docs-using-parallel-coding-agents.md]] Show HN: Dari-docs – Optimize your docs using parallel coding agents `pillar:patterns` `score:0.295`
 - [[show-hn-e2a-open-source-email-gateway-for-ai-ag.md]] Show HN: E2a – Open-source email gateway for AI agents `pillar:patterns` `score:0.33`
 - [[show-hn-forge-guardrails-take-an-8b-model-from-53-to-99-on-agentic-tasks.md]] Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks `pillar:patterns` `score:0.305`
@@ -579,6 +582,7 @@
 - [[berriailitellm.md]] BerriAI/litellm `pillar:ecosystem` `score:0.615`
 - [[blaise-a-modern-self-hosting-zero-legacy-object.md]] Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE `pillar:ecosystem` `score:0.155`
 - [[building-ml-framework-with-rust-and-category-theory.md]] Building ML framework with Rust and Category Theory `pillar:ecosystem` `score:0.26`
+- [[claude-code-as-a-daily-driver-claudemd-skills-subagents-plugins-and-mcps.md]] Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs `pillar:ecosystem` `score:0.465`
 - [[claude-platform-on-aws.md]] Claude Platform on AWS `pillar:ecosystem` `score:0.465`
 - [[clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard.md]] Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard `pillar:ecosystem` `score:0.445`
 - [[clickhouseclickhouse.md]] ClickHouse/ClickHouse `pillar:ecosystem` `score:0.58`

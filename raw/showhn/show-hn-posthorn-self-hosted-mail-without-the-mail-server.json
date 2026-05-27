@@ -1,0 +1,23 @@
+{
+  "title": "Show HN: Posthorn, self-hosted mail without the mail server",
+  "score": 26,
+  "comments": 27,
+  "url": "https://github.com/craigmccaskill/posthorn",
+  "hn_url": "https://news.ycombinator.com/item?id=48289624",
+  "tag": "ShowHN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Posthorn 是一个自托管的邮件解决方案，其创新之处在于无需传统邮件服务器即可运行，降低了自部署邮件系统的复杂性和资源需求。通过简化邮件基础设施，Posthorn 为开发者和企业提供了一种轻量级、可控性强的邮件处理方式，特别适用于需要隔离或定制邮件流程的 AI 应用场景。其技术要点包括替代传统 SMTP/IMAP 协议的架构设计，可能利用现代云原生或事件驱动机制来实现邮件的接收与发送。商业价值在于减少运维成本，提升数据隐私与安全性。产品创新体现在将邮件服务从传统服务器依赖中解放出来，实现更灵活的部署。",
+  "pm_relevance": 6,
+  "concepts": [
+    "Self-hosted Mail",
+    "Serverless Email Infrastructure"
+  ],
+  "entities": [
+    "Posthorn"
+  ],
+  "patterns": [
+    "Self-Hosted Infrastructure",
+    "Local-First Architecture"
+  ]
+}

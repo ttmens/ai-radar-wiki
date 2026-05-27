@@ -1035,3 +1035,9 @@
 - create: deepswe-a-contamination-free-benchmark-for-long-horizon-coding-agents.md
 - create: duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search.md
 - create: show-hn-i-built-a-tool-to-auto-accept-ai-slop-and-bigtech-devs-loves-it.md
+
+## [2026-05-27 18:02] sync v3 | 4 new | pillars: {'ecosystem': 1, 'capabilities': 2, 'patterns': 1}
+- create: claude-code-as-a-daily-driver-claudemd-skills-subagents-plugins-and-mcps.md
+- create: the-structural-barriers-to-ai-lawyers.md
+- create: show-hn-posthorn-self-hosted-mail-without-the-mail-server.md
+- create: show-hn-cross-agent-messaging-and-shared-memory-over-the-local-filesystem.md

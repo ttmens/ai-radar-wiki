@@ -1,7 +1,7 @@
 {
   "date": "2026-05-27",
-  "generated_at": "2026-05-27T12:03:37.976331+08:00",
-  "item_count": 26,
+  "generated_at": "2026-05-27T18:02:34.466191+08:00",
+  "item_count": 29,
   "items": [
     {
       "id": "github-actions-down-again-today",
@@ -158,6 +158,17 @@
       "date": "2026-05-27"
     },
     {
+      "id": "claude-code-as-a-daily-driver-claudemd-skills-subagents-plugins-and-mcps",
+      "label": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+      "summary": "本文分析 Claude Code 作为日常开发工具的核心能力，包括 Skills、Subagents、Plugins 以及 MCP（模型上下文协议）。技术要点在于通过子代理和插件机制实现模块化 AI 工作流，MCP 提供标准化上下文交互，提升代码生成和任务协作效率。商业价值体现为降低 AI 集成门槛、增强开发者生态黏性。产品创新在于将 AI 从单一工具扩展为可组合的代理平台，支持灵活定制。",
+      "pm_score": 0.465,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48289950",
+      "date": "2026-05-27"
+    },
+    {
       "id": "from-scores-to-gibbs-correctors-accelerating-uniform-rate-discrete-diffusion-mod",
       "label": "From Scores to Gibbs Correctors: Accelerating Uniform-Rate Discrete Diffusion Mo",
       "summary": "该论文针对均匀速率离散扩散模型生成速度慢的问题，提出了一种名为“From Scores to Gibbs Correctors”的加速方法。该方法无需训练额外参数，通过将分数估计与吉布斯校正器结合，显著减少生成样本所需的步骤数。技术核心在于利用已有分数信息指导校正过程，提升了采样效率。商业价值上，该技术可降低文本、分子等离散数据生成的计算成本，推动离散扩散模型在内容创作、药物发现等场景的实用化。产品创新体现在无需复杂预训练即可实现加速，易于集成到现有系统中。",
@@ -188,6 +199,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+      "date": "2026-05-27"
+    },
+    {
+      "id": "the-structural-barriers-to-ai-lawyers",
+      "label": "The Structural Barriers to AI Lawyers",
+      "summary": "本文探讨AI律师面临的结构性障碍，包括法律职业监管、伦理合规、数据隐私及AI模型在法律推理中的可靠性不足等核心挑战。尽管AI在文书处理和法律检索上已展现潜力，但复杂的司法解释、客户信任缺失及行业壁垒仍限制其规模化应用。产品经理需关注如何通过混合决策系统（人类+AI）或领域专用模型突破瓶颈，同时评估合规风险与商业落地路径，例如优先切入辅助性法律查询或合同审查等低风险场景。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48228728",
       "date": "2026-05-27"
     },
     {
@@ -257,6 +279,17 @@
       "date": "2026-05-27"
     },
     {
+      "id": "show-hn-posthorn-self-hosted-mail-without-the-mail-server",
+      "label": "Show HN: Posthorn, self-hosted mail without the mail server",
+      "summary": "Posthorn 是一个自托管的邮件解决方案，其创新之处在于无需传统邮件服务器即可运行，降低了自部署邮件系统的复杂性和资源需求。通过简化邮件基础设施，Posthorn 为开发者和企业提供了一种轻量级、可控性强的邮件处理方式，特别适用于需要隔离或定制邮件流程的 AI 应用场景。其技术要点包括替代传统 SMTP/IMAP 协议的架构设计，可能利用现代云原生或事件驱动机制来实现邮件的接收与发送。商业价值在于减少运维成本，提升数据隐私与安全性。产品创新体现在将邮件服务从传统服务器依赖中解放出来，实现更灵活的部署。",
+      "pm_score": 0.31,
+      "pillar": "capabilities",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://github.com/craigmccaskill/posthorn",
+      "date": "2026-05-27"
+    },
+    {
       "id": "guiding-llm-post-training-data-engineering-with-model-internals-from-sparse-auto",
       "label": "Guiding LLM Post-training Data Engineering with Model Internals from Sparse Auto",
       "summary": "Model internals encode rich information about how a large language model (LLM) processes its training data; however, post-training data engineering largely relies on external signals and ignores rich intrinsic signals lying in model internals. We propose SAERL, a data engineering framework for LLM r",
@@ -291,7 +324,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 891,
-    "edges": 54820
+    "real_nodes": 895,
+    "edges": 55716
   }
 }
