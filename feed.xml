@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 27 May 2026 08:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 12:01:14 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -125,6 +125,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs</title>
+      <link>https://news.ycombinator.com/item?id=48289950</link>
+      <guid isPermaLink="false">claude-code-as-a-daily-driver-claudemd-skills-subagents-plugins-and-mcps</guid>
+      <pubDate>2026-05-27T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文分析 Claude Code 作为日常开发工具的核心能力，包括 Skills、Subagents、Plugins 以及 MCP（模型上下文协议）。技术要点在于通过子代理和插件机制实现模块化 AI 工作流，MCP 提供标准化上下文交互，提升代码生成和任务协作效率。商业价值体现为降低 AI 集成门槛、增强开发者生态黏性。产品创新在于将 AI 从单一工具扩展为可组合的代理平台，支持灵活定制。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
       <title>From Scores to Gibbs Correctors: Accelerating Uniform-Rate Discrete Diffusion Mo</title>
       <link>http://arxiv.org/abs/2605.27352v1</link>
       <guid isPermaLink="false">from-scores-to-gibbs-correctors-accelerating-uniform-rate-discrete-diffusion-mod</guid>
@@ -146,6 +154,14 @@
       <guid isPermaLink="false">xreal-google8217s-smart-glasses-partner-thinks-it-has-finally-mastered-this-noto</guid>
       <pubDate>2026-05-27T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Xreal创始人兼CEO徐驰认为智能眼镜行业已到达转折点。作为Google智能眼镜合作伙伴，Xreal在光学和显示技术上取得突破，使眼镜更轻便、视场角更大，同时整合AI语音助手和实时翻译等能力。商业上，Xreal主打消费级市场，定价低于主流AR设备，并通过与Google合作接入Android生态。产品创新在于将AI能力与日常佩戴眼镜结合，实现信息叠加、导航、通知等无感交互，有望成为下一代移动计算平台。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>The Structural Barriers to AI Lawyers</title>
+      <link>https://news.ycombinator.com/item?id=48228728</link>
+      <guid isPermaLink="false">the-structural-barriers-to-ai-lawyers</guid>
+      <pubDate>2026-05-27T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨AI律师面临的结构性障碍，包括法律职业监管、伦理合规、数据隐私及AI模型在法律推理中的可靠性不足等核心挑战。尽管AI在文书处理和法律检索上已展现潜力，但复杂的司法解释、客户信任缺失及行业壁垒仍限制其规模化应用。产品经理需关注如何通过混合决策系统（人类+AI）或领域专用模型突破瓶颈，同时评估合规风险与商业落地路径，例如优先切入辅助性法律查询或合同审查等低风险场景。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -197,6 +213,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Show HN: Posthorn, self-hosted mail without the mail server</title>
+      <link>https://github.com/craigmccaskill/posthorn</link>
+      <guid isPermaLink="false">show-hn-posthorn-self-hosted-mail-without-the-mail-server</guid>
+      <pubDate>2026-05-27T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Posthorn 是一个自托管的邮件解决方案，其创新之处在于无需传统邮件服务器即可运行，降低了自部署邮件系统的复杂性和资源需求。通过简化邮件基础设施，Posthorn 为开发者和企业提供了一种轻量级、可控性强的邮件处理方式，特别适用于需要隔离或定制邮件流程的 AI 应用场景。其技术要点包括替代传统 SMTP/IMAP 协议的架构设计，可能利用现代云原生或事件驱动机制来实现邮件的接收与发送。商业价值在于减少运维成本，提升数据隐私与安全性。产品创新体现在将邮件服务从传统服务器依赖中解放出来，实现更灵活的部署。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Guiding LLM Post-training Data Engineering with Model Internals from Sparse Auto</title>
       <link>http://arxiv.org/abs/2605.27354v1</link>
       <guid isPermaLink="false">guiding-llm-post-training-data-engineering-with-model-internals-from-sparse-auto</guid>
@@ -219,6 +243,14 @@
       <pubDate>2026-05-27T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Diffusion models have emerged as powerful tools for high-quality image generation and editing, but guiding these models to produce specific outputs remains a challenge. Conventional approaches rely on conditioning mechanisms, such as text prompts or semantic maps, which require extensively annotated</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Cross-agent messaging and shared memory over the local filesystem</title>
+      <link>https://oacp.dev</link>
+      <guid isPermaLink="false">show-hn-cross-agent-messaging-and-shared-memory-over-the-local-filesystem</guid>
+      <pubDate>2026-05-27T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该项目通过本地文件系统实现跨智能体的消息传递与共享记忆，为多Agent协作提供了一种轻量级、去中心化的方案。它利用文件作为持久化媒介，支持Agent间异步通信和上下文共享，降低了对外部基础设施的依赖。产品创新在于将文件系统作为统一的消息总线和记忆存储，适合本地优先、隐私敏感的场景。商业价值体现在简化Agent集群部署成本，增强系统鲁棒性，尤其适用于边缘计算和个人化AI助手生态。</p></description>
+      <category>📱 产品模式</category>
     </item>
     <item>
       <title>Show HN: I built a tool to auto-accept AI slop and bigtech devs loves it</title>
@@ -379,38 +411,6 @@
       <pubDate>2026-05-26T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>教皇方济各警告，由少数大公司运营的不透明人工智能系统可能引发“新型非人化”风险。他呼吁AI发展应遵循透明、负责任和以人为本的原则，避免技术权力过度集中导致社会分裂与人性异化。对于产品经理而言，这提示在AI产品设计中需优先考虑可解释性、公平性和用户信任机制，平衡商业效率与伦理责任，规避监管与舆论风险。</p></description>
       <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Startup Battlefield 200 applications close in days: Apply before May 27</title>
-      <link>https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/</link>
-      <guid isPermaLink="false">startup-battlefield-200-applications-close-in-days-apply-before-may-27</guid>
-      <pubDate>2026-05-26T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>TechCrunch的Startup Battlefield 200创业竞赛申请截止日为5月27日，面向AI等领域初创公司。入选者可获得VC对接、全球曝光、TechCrunch报道及10万美元奖励。对AI产品经理而言，这是了解前沿AI产品创新和商业模式的机会，也可作为自身项目获取资源、加速落地的跳板。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks</title>
-      <link>https://news.ycombinator.com/item?id=48266906</link>
-      <guid isPermaLink="false">netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks</guid>
-      <pubDate>2026-05-26T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>荷兰警方扣押800台服务器并逮捕2人，指控其协助网络攻击（如DDoS）。此事件凸显AI基础设施被滥用于大规模攻击的风险——云服务、GPU集群可能成为犯罪工具。对AI产品经理而言，需关注：1) 强化服务器访问审计与异常流量监测；2) 设计防滥用机制（如速率限制、身份验证）；3) 合规性要求（如欧盟《数字服务法》）。商业价值：安全即服务、抗DDoS产品需求增长；产品创新：AI驱动的入侵检测与自动化响应系统。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude</title>
-      <link>https://news.ycombinator.com/item?id=48273169</link>
-      <guid isPermaLink="false">cve-2026-28952-apple-macos-265-kernel-vuln-found-by-claude</guid>
-      <pubDate>2026-05-26T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>苹果macOS 26.5内核漏洞（CVE-2026-28952）由Anthropic的Claude模型发现。这展示了AI在操作系统安全漏洞挖掘领域的突破性能力，意味着AI可以辅助甚至自动化安全审计。对AI产品经理而言，此案例凸显了将先进AI用于网络安全商业化的潜力，可降低人工成本、缩短发现周期，并可能催生新的AI安全产品形态。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Use Boring Languages with LLMs</title>
-      <link>https://news.ycombinator.com/item?id=48237012</link>
-      <guid isPermaLink="false">use-boring-languages-with-llms</guid>
-      <pubDate>2026-05-26T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文讨论了在与大语言模型（LLM）交互时，选择使用成熟、稳定的“无聊”编程语言（如Python、Java）而非新兴语言的技术策略。核心观点是：无聊语言拥有更完善的生态、更少的意外行为，便于长期维护和团队协作，从而降低LLM应用开发中的技术风险。对AI产品经理而言，这意味着在构建产品时优先考虑稳定性和可扩展性，避免因语言选择导致项目维护成本激增，同时更易集成现有企业系统，提升产品交付的可靠性。</p></description>
-      <category>🤖 技术能力</category>
     </item>
   </channel>
 </rss>
