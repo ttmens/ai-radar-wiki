@@ -1,0 +1,22 @@
+{
+  "title": "Towards Controllable Image Generation through Representation-Conditioned Diffusion Models",
+  "summary": "Diffusion models have emerged as powerful tools for high-quality image generation and editing, but guiding these models to produce specific outputs remains a challenge. Conventional approaches rely on conditioning mechanisms, such as text prompts or semantic maps, which require extensively annotated datasets. In this preliminary work, we explore diffusion models conditioned on representations from a pre-trained self-supervised model. The self-conditioning mechanism not only improves the quality of unconditional image generation, but also provides a representation space that can be used to control the generation. We explore this conditioning space by identifying directions of variations, and demonstrate promising properties in terms of smoothness and disentanglement.",
+  "url": "http://arxiv.org/abs/2605.27343v1",
+  "authors": [
+    "Nithesh Chandher Karthikeyan",
+    "Jonas Unger",
+    "Gabriel Eilertsen"
+  ],
+  "published": "2026-05-26T17:46:25Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "dataset",
+    "diffusion model"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

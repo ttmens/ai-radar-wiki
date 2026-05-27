@@ -1,0 +1,26 @@
+{
+  "title": "2-ASP(Q) programs with weak constraints: Complexity and efficient implementation",
+  "summary": "ASP(Q) extends Answer Set Programming (ASP) with Quantifiers over answer sets. In this paper we focus on the class of ASP(Q) programs with two quantifiers and weak constraints, denoted as 2-ASP(Q)^w. 2-ASP(Q)^w is a practically relevant fragment of ASP(Q) that is expressive enough to capture optimization problems up to the class Delta_3^P. On the theoretical side, we provide a complete complexity characterization of the main computational tasks for 2-ASP(Q)^w programs, including tight completeness results and the analysis of nontrivial cases that have not been addressed in previous works. On the practical side, we introduce novel strategies for computing (optimal) quantified answer sets in the Casper system, that rely on a Counterexample-Guided Abstraction Refinement (CEGAR) technique tailored to ASP(Q). An experimental evaluation on hard benchmarks from different application domains shows that the proposed techniques are effective in practice.",
+  "url": "http://arxiv.org/abs/2605.27338v1",
+  "authors": [
+    "Andrea Cuteri",
+    "Giuseppe Mazzotta",
+    "Francesco Ricca"
+  ],
+  "published": "2026-05-26T17:44:39Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "optimization"
+  ],
+  "summary_cn": "该论文研究了带两个量词和弱约束的ASP(Q)程序（2-ASP(Q)^w），这是回答集编程（ASP）的扩展，通过量词增强表达能力并支持优化问题。研究重点在于复杂性与高效实现，旨在解决实际应用中的优化需求。此技术可提升AI在复杂决策、资源分配和规划等领域的推理与优化能力，具有潜在商业价值，但当前仍偏学术研究，落地需进一步工程化。",
+  "pm_relevance": 5,
+  "concepts": [
+    "Answer Set Programming",
+    "Weak Constraints",
+    "Quantifier Extension"
+  ],
+  "entities": [],
+  "patterns": []
+}

@@ -1,0 +1,29 @@
+{
+  "title": "From Scores to Gibbs Correctors: Accelerating Uniform-Rate Discrete Diffusion Models",
+  "summary": "Discrete diffusion models have achieved strong empirical performance in text and other symbolic domains, but, especially for uniform-rate models, they often require many steps to generate a single sample. Existing acceleration methods either rely on training additional quantities or suffer from slow mixing. In this work, we propose a novel Gibbs-based corrector for discrete diffusion models, termed Gibbs-Accelerated Discrete Diffusion (GADD). GADD leverages the structure of the concrete score function to construct Gibbs posterior likelihoods directly, without requiring any additional training beyond standard score estimation. We show that GADD achieves an overall sampling complexity of $\\mathcal{O}(\\mathrm{polylog} (\\varepsilon^{-1}))$, yielding the first such rate for diffusion-based samplers for uniform-rate discrete diffusion models. We also conduct numerical experiments demonstrating the practical advantages of GADD across synthetic data, zero-shot text sampling, and zero-shot conditional music generation. These results corroborate the theory and show that GADD consistently improves sample quality and wall-clock efficiency over standard baselines, including vanilla Euler methods and CTMC correctors. Beyond this, our theoretical analysis introduces a novel framework for analyzing predictor-corrector methods in discrete diffusion models, which may be of independent interest. Unlike existing approaches that rely on the Girsanov change-of-measure technique, our method is based on an induction argument that tracks error propagation across predictor iterations while accounting for inaccuracies in the corrector updates.",
+  "url": "http://arxiv.org/abs/2605.27352v1",
+  "authors": [
+    "Yuchen Liang",
+    "Ness Shroff",
+    "Yingbin Liang"
+  ],
+  "published": "2026-05-26T17:52:28Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "diffusion model"
+  ],
+  "summary_cn": "该论文针对均匀速率离散扩散模型生成速度慢的问题，提出了一种名为“From Scores to Gibbs Correctors”的加速方法。该方法无需训练额外参数，通过将分数估计与吉布斯校正器结合，显著减少生成样本所需的步骤数。技术核心在于利用已有分数信息指导校正过程，提升了采样效率。商业价值上，该技术可降低文本、分子等离散数据生成的计算成本，推动离散扩散模型在内容创作、药物发现等场景的实用化。产品创新体现在无需复杂预训练即可实现加速，易于集成到现有系统中。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Discrete Diffusion Models",
+    "Generation Acceleration",
+    "Gibbs Correctors"
+  ],
+  "entities": [],
+  "patterns": [
+    "Model Acceleration",
+    "Diffusion-based Generation"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "title": "DeepSWE: A contamination-free benchmark for long-horizon coding agents",
+  "score": 36,
+  "comments": 9,
+  "url": "https://deepswe.datacurve.ai/blog",
+  "hn_url": "https://news.ycombinator.com/item?id=48284939",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark"
+  ],
+  "summary_cn": "DeepSWE 是一个专为长时序编程智能体设计的无污染基准测试（benchmark），旨在准确评估AI在复杂编码任务中的持续性推理与多步操作能力。该基准通过避免训练数据泄露，提供更真实的性能衡量标准，有助于产品经理筛选与优化长链条任务场景下的AI编程工具，推动自动化软件开发效率与质量的提升。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Benchmark Evaluation",
+    "Long-Horizon Coding Agents"
+  ],
+  "entities": [
+    "DeepSWE"
+  ],
+  "patterns": [
+    "Agent-based Coding Pattern"
+  ]
+}

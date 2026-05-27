@@ -1,0 +1,37 @@
+{
+  "title": "LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding",
+  "summary": "Vision-language models (VLMs) commonly formulate visual grounding and detection as a coordinate-token generation problem, serializing each 2D box into multiple 1D tokens that are learned and decoded largely independently. This token-by-token decoding mismatches the coupled structure of box geometry and creates a practical inference bottleneck due to strictly sequential generation. We introduce LocateAnything, a unified generative grounding and detection framework based on Parallel Box Decoding (PBD). By decoding geometric elements such as bounding boxes and points as atomic units in a single step, LocateAnything preserves intra-box geometric coherence and unlocks substantial parallelism. We show that PBD improves both decoding throughput and localization accuracy. We further develop a scalable data engine and curate LocateAnything-Data, a large-scale dataset with more than 138 million training samples, substantially increasing data diversity for high-precision localization. Extensive evaluations show that LocateAnything advances the speed-accuracy frontier, achieving significantly higher decoding throughput while improving high-IoU localization quality across diverse benchmarks. The results highlight the complementary benefits of Parallel Box Decoding and large-scale training data in enabling efficient and precise unified visual grounding and detection.",
+  "url": "http://arxiv.org/abs/2605.27365v1",
+  "authors": [
+    "Shihao Wang",
+    "Shilong Liu",
+    "Yuanguo Kuang",
+    "Xinyu Wei",
+    "Yangzhou Liu"
+  ],
+  "published": "2026-05-26T17:59:12Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "token",
+    "benchmark",
+    "vision",
+    "throughput",
+    "training",
+    "accuracy",
+    "precision",
+    "dataset"
+  ],
+  "summary_cn": "该论文提出LocateAnything方法，针对视觉语言模型（VLM）在视觉定位和目标检测中，传统做法将2D边界框序列化为多个1D令牌并逐个独立解码，导致与框几何结构不匹配的问题。LocateAnything采用并行盒解码策略，同时预测所有坐标，大幅提升推理速度并保持高精度。这一创新使得VLM在实时应用（如自动驾驶、机器人交互）中更具可行性与成本效益，降低了延迟并提高了目标定位质量。",
+  "pm_relevance": 8,
+  "concepts": [
+    "并行盒解码",
+    "视觉-语言定位",
+    "实时目标检测"
+  ],
+  "entities": [],
+  "patterns": [
+    "并行解码模式"
+  ]
+}

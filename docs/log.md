@@ -1017,3 +1017,21 @@
 - create: a-sleep-like-consolidation-mechanism-for-llms.md
 - create: openrouter-more-than-doubles-valuation-to-13b-in-a-year.md
 - create: xreal-google8217s-smart-glasses-partner-thinks-it-has-finally-mastered-this-noto.md
+
+## [2026-05-27 12:03] sync v3 | 16 new | pillars: {'capabilities': 13, 'ecosystem': 2, 'patterns': 1}
+- create: algorithmic-monocultures-in-hiring.md
+- create: muse-autoskill-self-evolving-agents-via-skill-creation-memory-management-and-eva.md
+- create: locateanything-fast-and-high-quality-vision-language-grounding-with-parallel-box.md
+- create: natural-language-query-to-configuration-for-retrieval-agents.md
+- create: genesis-harnessing-ai-agents-for-autonomous-6g-ran-synthesis-research-and-testin.md
+- create: mobilemoe-scaling-on-device-mixture-of-experts.md
+- create: alignment-tampering-how-reinforcement-learning-from-human-feedback-is-exploited.md
+- create: guiding-llm-post-training-data-engineering-with-model-internals-from-sparse-auto.md
+- create: from-scores-to-gibbs-correctors-accelerating-uniform-rate-discrete-diffusion-mod.md
+- create: when-eyes-betray-ai-social-gaze-consistency-as-a-semantic-cue-for-ai-generated-i.md
+- create: towards-controllable-image-generation-through-representation-conditioned-diffusi.md
+- create: 2-aspq-programs-with-weak-constraints-complexity-and-efficient-implementation.md
+- create: ai-tools-are-only-as-good-as-your-judgment.md
+- create: deepswe-a-contamination-free-benchmark-for-long-horizon-coding-agents.md
+- create: duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search.md
+- create: show-hn-i-built-a-tool-to-auto-accept-ai-slop-and-bigtech-devs-loves-it.md

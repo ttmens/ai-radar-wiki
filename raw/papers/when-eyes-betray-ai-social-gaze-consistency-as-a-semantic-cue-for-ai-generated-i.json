@@ -1,0 +1,33 @@
+{
+  "title": "When Eyes Betray AI: Social Gaze Consistency as a Semantic Cue for AI-Generated Image Detection",
+  "summary": "Recent generative models have largely closed the gap on low-level artifacts - pixel fingerprints, frequency anomalies, upsampling traces - particularly in person-centric and partial-edit settings where the manipulated region is small and surrounded by photometrically authentic content. We introduce Social Gaze Consistency, a high-level semantic cue defined as the mutual coherence of gaze direction, head-eye alignment, and pupil placement between interacting individuals, and show that it constitutes a previously underutilized detection axis orthogonal to existing low-level paradigms. We instantiate this insight through three coupled mechanisms: (i) a controlled diagnostic dataset with region-specific perturbations of gaze-consistent imagery, where strict pair-level grouping forecloses generator-fingerprint memorization as an optimization-time shortcut rather than relying on augmentation; (ii) Block-Compositional Caption Supervision, which holds a single 5-block reasoning skeleton invariant across 1,250 macro-combined captions, decoupling reasoning consistency from surface diversity; (iii) Cross-architecture validation showing the same supervision improves a vision-language backbone (FakeVLM) by +3.7 pp on the COCOAI Interaction subset (balanced accuracy 67.8 -> 71.5) and +1.3 pp on the COCOAI Person subset (83.0 -> 84.3), with consistent gains on a vision-only backbone (Effort), evidencing a backbone-agnostic cue. Real- and fake-class recalls rise simultaneously, ruling out a \"predict-all-fake\" artifact. A four-step mechanistic account - paired-edit shortcut blocking, hard-to-easy difficulty transfer, CLIP prior preservation, and diffusion-family shared spectral weakness in periocular structure - explains why training on a single inpainter (FLUX.1-Fill) transfers to multi-generator suites. We will release the code upon acceptance to facilitate reproducibility.",
+  "url": "http://arxiv.org/abs/2605.27348v1",
+  "authors": [
+    "Kim Jihyeon",
+    "Sohee Kim",
+    "Soosan Lee",
+    "Souhwan Jung",
+    "James Matthew Rehg"
+  ],
+  "published": "2026-05-26T17:50:17Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision",
+    "reasoning",
+    "training",
+    "accuracy",
+    "recall",
+    "optimization",
+    "dataset"
+  ],
+  "summary_cn": "该论文提出利用社交凝视一致性作为语义线索来检测AI生成图像。传统方法依赖低级伪影（像素指纹、频率异常等），但新一代生成模型已大幅缩小这些差距，尤其在人物中心化和局部编辑场景中。通过分析人物眼睛注视的物理一致性（例如对话中两人是否互相注视），可以更鲁棒地区分真实与生成图像。对于AI产品经理，该技术可应用于深度伪造检测、内容审核、社交媒体虚假信息治理，提升安全产品的语义理解能力，且无需额外传感器。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI生成图像检测",
+    "深度伪造检测",
+    "社交凝视一致性"
+  ],
+  "entities": [],
+  "patterns": []
+}
