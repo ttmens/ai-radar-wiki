@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 26 May 2026 20:00:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 00:15:14 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -18,6 +18,14 @@
       <guid isPermaLink="false">github-actions-down-again-today</guid>
       <pubDate>2026-05-27T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>GitHub Actions 今日再次发生服务中断，影响依赖其进行持续集成与交付的AI开发团队。对于AI产品经理而言，这表明第三方CI/CD平台的不稳定性可能直接阻塞模型训练、测试自动化等关键流程，暴露出过度依赖单一外部服务的风险。需评估是否采用多环境备份或本地化部署策略，以保障开发效率。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>A sleep-like consolidation mechanism for LLMs</title>
+      <link>https://news.ycombinator.com/item?id=48281226</link>
+      <guid isPermaLink="false">a-sleep-like-consolidation-mechanism-for-llms</guid>
+      <pubDate>2026-05-27T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>该研究提出一种类似人类睡眠的巩固机制，让大型语言模型在非活跃时段自动整合新学知识，减少灾难性遗忘并提升长期记忆稳定性。技术要点包括离线重放、记忆再激活与参数微调；商业价值在于降低持续训练成本，增强模型自适应能力；产品创新可应用于智能助手、客服系统等需要长期知识积累的场景。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -42,6 +50,22 @@
       <guid isPermaLink="false">this-startup-is-betting-india8217s-gig-economy-can-train-the-world8217s-robots</guid>
       <pubDate>2026-05-27T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Human Archive 是一家由伯克利和斯坦福研究员创立的初创公司，利用印度零工经济雇佣工人佩戴摄像头帽和传感器设备，采集真实世界的物理交互数据，用于训练机器人。这种低成本、规模化的人力数据采集方式，直接解决了AI和机器人研发中高质量真实数据稀缺的痛点，为机器人具身智能提供关键训练素材。商业上，它验证了数据采集外包的可行性，可能成为机器人领域的基础设施。产品创新在于将人类日常活动转化为机器可学习的结构化数据，降低研发门槛。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>OpenRouter more than doubles valuation to $1.3B in a year</title>
+      <link>https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/</link>
+      <guid isPermaLink="false">openrouter-more-than-doubles-valuation-to-13b-in-a-year</guid>
+      <pubDate>2026-05-27T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenRouter 完成 1.13 亿美元 B 轮融资，估值跃升至 13 亿美元（一年翻倍）。该平台专注于聚合多种 AI 模型（如 GPT、Claude、Llama 等），为开发者提供统一 API 和灵活切换能力。过去六个月使用量增长 5 倍，印证企业客户对多模型生态、成本优化及容错性的强烈需求。对 AI 产品经理而言，这意味着产品无需绑定单一模型，可基于场景动态调用最佳方案，降低依赖风险并提升可控性。此次融资由 CapitalG 领投，显示资本对多模型基础设施未来的押注。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Xreal, Google&amp;#8217;s smart glasses partner, thinks it has finally mastered this</title>
+      <link>https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/</link>
+      <guid isPermaLink="false">xreal-google8217s-smart-glasses-partner-thinks-it-has-finally-mastered-this-noto</guid>
+      <pubDate>2026-05-27T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Xreal创始人兼CEO徐驰认为智能眼镜行业已到达转折点。作为Google智能眼镜合作伙伴，Xreal在光学和显示技术上取得突破，使眼镜更轻便、视场角更大，同时整合AI语音助手和实时翻译等能力。商业上，Xreal主打消费级市场，定价低于主流AR设备，并通过与Google合作接入Android生态。产品创新在于将AI能力与日常佩戴眼镜结合，实现信息叠加、导航、通知等无感交互，有望成为下一代移动计算平台。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -387,30 +411,6 @@
       <pubDate>2026-05-25T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文系统研究了模型生成的智能体技能，提出从原始经验蒸馏为结构化、可重用的程序性工件（技能），尤其聚焦领域级和模型生成的技能。这种技能消费范式使语言智能体能够通过编码领域特定模式实现快速领域适应，降低从头训练成本。商业价值在于可构建技能市场，促进AI Agent的组件化与生态化，产品创新体现为将技能视为可消费模块，推动Agent能力的规模化复用与协作。</p></description>
       <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models</title>
-      <link>http://arxiv.org/abs/2605.23893v1</link>
-      <guid isPermaLink="false">complete-mue-optimal-hyperparameter-transfer-and-scaling-for-moe-models</guid>
-      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>Complete-muE是一种针对Transformer块中密集前馈网络（FFN）与混合专家模型（MoE）的超参数迁移框架。它解决了现有工具如μP（需固定架构）和SDE（需固定每步token数）无法直接处理MoE超参数迁移的问题，实现了最优超参数迁移和模型缩放。该框架可显著降低MoE模型调参成本，加速大模型训练与部署，提升产品迭代效率，为开发者提供统一的超参数管理方案。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Training-Free Looped Transformers</title>
-      <link>http://arxiv.org/abs/2605.23872v1</link>
-      <guid isPermaLink="false">training-free-looped-transformers</guid>
-      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出一种无需训练的循环变压器方法，通过在推理时使用轻量级包装器循环冻结预训练模型的中间层块，无需微调或架构更改即可增强模型能力。该方法区别于传统循环变压器（需额外训练），降低了部署成本，使现有大模型能更高效地处理长序列或复杂推理任务。商业价值在于快速提升模型效果而不增加训练开销，产品创新体现为“即插即用”的循环增强能力，适合对实时性和资源敏感的AI应用场景。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>ETCHR: Editing To Clarify and Harness Reasoning</title>
-      <link>http://arxiv.org/abs/2605.23897v1</link>
-      <guid isPermaLink="false">etchr-editing-to-clarify-and-harness-reasoning</guid>
-      <pubDate>2026-05-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出ETCHR方法，旨在通过编辑来澄清和利用推理。针对多模态大语言模型中纯文本思维链无法处理需要精细焦点或视角转换的问题，采用“用图像思考”范式，但现有方法受限。ETCHR通过图像编辑辅助推理，提升视觉问答等任务的准确性和可解释性，为产品开发提供更可靠的视觉推理能力。</p></description>
-      <category>🤖 技术能力</category>
     </item>
   </channel>
 </rss>
