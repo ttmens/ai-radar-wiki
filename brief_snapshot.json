@@ -1,7 +1,7 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T00:03:09.474712+08:00",
-  "item_count": 10,
+  "generated_at": "2026-05-28T06:03:33.429144+08:00",
+  "item_count": 26,
   "items": [
     {
       "id": "im-tired-of-talking-to-ai",
@@ -12,6 +12,61 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48292224",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "duckduckgo-search-saw-28-more-visits-after-google-said-people-love-ai-mode",
+      "label": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "summary": "Google宣称用户喜爱AI搜索模式后，注重隐私的DuckDuckGo搜索访问量反而增长了28%，揭示了一个关键矛盾：用户对AI搜索的兴趣与隐私担忧并存。这一现象说明，当主流搜索引擎（Google）强推AI功能时，部分用户可能因隐私顾虑或体验问题转向替代方案。对AI产品经理而言，这提示在集成AI能力时需平衡功能吸引力与用户信任，同时关注竞争对手的差异化策略——DuckDuckGo的隐私护城河在此轮流量增长中发挥了关键作用，也表明“AI+隐私”可成为产品创新方向。",
+      "pm_score": 0.68,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48296649",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "i-think-anthropic-and-openai-have-found-product-market-fit",
+      "label": "I think Anthropic and OpenAI have found product-market fit",
+      "summary": "Anthropic 和 OpenAI 的AI助手产品（Claude、GPT系列）已实现产品市场匹配，验证了基于大语言模型的对话式AI在B2B和消费端的规模化需求。这一里程碑表明，技术能力（长上下文、指令遵循）已转化为付费用户和可持续收入，产品经理可借鉴其价值定位：聚焦高频场景（编程、写作、客服），并通过持续优化模型能力来提升用户留存和付费转化。",
+      "pm_score": 0.665,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48296794",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "youtube-to-automatically-label-ai-generated-videos",
+      "label": "YouTube to automatically label AI-generated videos",
+      "summary": "YouTube 宣布将自动为 AI 生成的视频添加标签，以提升内容透明度。该能力利用 AI 检测技术识别合成或深度伪造内容，帮助用户辨别真实与 AI 创作。此举不仅应对监管压力，还增强了平台信任度，对创作者和广告主具有商业价值。产品创新在于将标签嵌入元数据，实现全平台覆盖，未来可能扩展至更精细的 AI 内容分级。",
+      "pm_score": 0.6,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48299753",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "training-our-own-ai-models",
+      "label": "Training our own AI models",
+      "summary": "本文探讨了企业自主训练AI模型的价值与路径，强调通过自研模型可实现对数据主权、模型行为和成本的完全控制，尤其适用于垂直场景的深度定制。技术要点包括选择预训练基座、利用LoRA等高效微调方法降低计算开销，以及构建数据飞轮持续优化模型。商业价值体现在避免API依赖带来的供应商锁定和长期成本不确定性，同时可构建差异化产品壁垒。产品创新上，自训练模型能更灵活地适配用户意图，支持隐私合规与离线部署，为AI原生产品提供底层能力支撑。",
+      "pm_score": 0.55,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48296359",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists",
+      "label": "Your SEO strategy is optimized for a search engine that no longer exists.",
+      "summary": "Google I/O 大会正式将 AI 生成答案置于搜索核心，传统基于“10 条蓝色链接”的 SEO 策略已失效。品牌几乎无法洞察 AI 如何向用户描述自己，这彻底改变了信息获取与流量分配的规则。对 AI 产品经理而言，需关注两大技术要点：一是搜索从“链接检索”转向“生成式回答”，用户直接得到结论而非入口；二是品牌需要新的可见性策略，通过结构化数据、权威内容等方式影响 AI 输出。商业价值在于率先适应者能抢占搜索新入口流量，产品创新方向包括构建 AI 友好的内容体系与监测 AI 摘要的工具。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
       "date": "2026-05-28"
     },
     {
@@ -37,6 +92,17 @@
       "date": "2026-05-28"
     },
     {
+      "id": "meta-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-in",
+      "label": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come",
+      "summary": "Meta在全球范围推出Instagram、Facebook和WhatsApp的付费订阅计划，并测试名为“Meta One”的订阅品牌，整合AI功能、创作者工具和企业服务。此举表明Meta正加速探索社交平台的订阅变现模式，通过将AI能力（如智能推荐、生成式AI功能）与增值服务捆绑，为产品经理提供了AI商业化的新思路。其核心价值在于利用现有庞大用户基础，通过分层订阅实现收入多元化，同时为AI功能（如聊天机器人、个性化助手）找到直接付费场景，形成生态闭环。产品创新体现在将AI作为订阅核心卖点，并可能推出面向企业和创作者的定制化AI套餐。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "date": "2026-05-28"
+    },
+    {
       "id": "elevenlabs8217s-new-music-generation-model-can-switch-genres-mid-track",
       "label": "ElevenLabs&#8217;s new music generation model can switch genres mid-track",
       "summary": "ElevenLabs 推出新一代音乐生成模型，核心创新在于支持对歌曲的特定段落进行无损局部重生成，且可在不同位置切换音乐流派。该技术通过细粒度的时序控制与风格分离，使创作者无需重新生成整首曲目即可调整副歌、桥段或实验混搭风格，大幅提升音乐制作效率与创意灵活性。对于 AI 产品经理，这代表了从端到端生成向精细化编辑的演进，预示了 AI 在专业音频工作流中作为“协作编辑工具”而非“一次性生成器”的定位，具备显著商业价值。",
@@ -59,6 +125,17 @@
       "date": "2026-05-28"
     },
     {
+      "id": "payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headc",
+      "label": "Payroll startup Remote says it grew revenue 50% per employee without adding head",
+      "summary": "全球薪资服务商Remote通过引入AI技术，在不增加员工数量的情况下实现人均收入增长50%，年经常性收入突破3亿美元并实现现金流正向。该案例展示了AI在人力资源和业务流程中的实际商业价值，通过自动化招聘、薪酬计算、合规管理等环节显著提升运营效率。对于AI产品经理而言，这提供了将AI落地于垂直SaaS场景的实证，强调通过技术优化而非规模扩张驱动增长，是B2B SaaS领域AI赋能商业成功的典型范式。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+      "date": "2026-05-28"
+    },
+    {
       "id": "sond-a-sleep-tech-startup-from-bose8217s-former-head-of-sleep-exits-stealth-with",
       "label": "SOND, a sleep tech startup from Bose&#8217;s former head of sleep, exits stealth",
       "summary": "SOND 是一家由 Bose 前睡眠产品主管创立的睡眠科技初创公司，近日以 700 万美元融资从隐身模式中浮出水面。其核心产品为 AI 驱动的睡眠耳塞，融合了音频技术、生物传感和机器学习算法，旨在通过智能调节声音与环境来改善用户入睡与睡眠质量。此轮融资由多家风投支持，凸显市场对 AI 结合可穿戴健康技术的商业信心。产品创新点在于将 Bose 在音频领域的工程积累与个性化 AI 睡眠优化相结合，为睡眠障碍人群提供非药物干预方案。对于 AI 产品经理而言，SOND 展示了垂直场景 AI 硬件产品的落地路径，以及传统硬件大厂人才向初创公司流动的趋势。",
@@ -70,6 +147,28 @@
       "date": "2026-05-28"
     },
     {
+      "id": "clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo",
+      "label": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
+      "summary": "ClickHouse 数据库实现年收入 2.5 亿美元（同比增长 3 倍），并计划未来几年内上市。作为面向实时分析场景的列式存储数据库，其高性能查询能力被广泛应用于 AI 数据管道、时序分析和用户行为追踪。商业上，该增长显示企业对实时数据处理的需求旺盛，尤其支撑 AI 训练数据准备与推理监控场景。产品层面，ClickHouse 持续优化分布式架构、压缩效率和 SQL 兼容性，降低 AI 应用的后端复杂度。该里程碑为数据库创业公司提供 IPO 参考路径。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips",
+      "label": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "summary": "Snowflake与AWS签署为期五年、价值60亿美元的大单，用于采购AI CPU芯片。此举强化了AWS在AI基础设施领域的地位，同时冲击Nvidia在AI芯片市场的垄断。对AI产品经理而言，这意味着企业级AI应用的计算成本可能下降，且芯片供应多元化将推动更多定制化AI架构的出现，促进数据云与AI工作负载的深度融合。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+      "date": "2026-05-28"
+    },
+    {
       "id": "clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo",
       "label": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO",
       "summary": "ClickHouse 作为高性能列式数据库，年营收翻三倍至 2.5 亿美元，并计划未来几年内进行 IPO。这一增长显示出市场对实时分析引擎的强劲需求，尤其在 AI 数据处理、日志分析和 BI 场景中，ClickHouse 通过极速查询性能和低成本存储优势，成为数据基础设施的关键组件。对 AI 产品经理而言，这意味着在选择数据后端时，可以考虑 ClickHouse 替代传统方案以支撑高并发、低延迟的 AI 特征服务或用户行为分析；同时其开源生态和商业化路径也为架构选型提供长期稳定性参考。",
@@ -78,6 +177,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/27/clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "valve-raises-steam-deck-prices",
+      "label": "Valve raises Steam Deck prices",
+      "summary": "Valve 宣布上调 Steam Deck 掌机价格，主要受全球汇率波动和组件成本上升影响。虽然该事件不直接涉及 AI 技术，但对 AI 产品经理的启示在于：硬件成本波动可能影响边缘 AI 部署的硬件选择，同时提醒注意汇率风险对硬件供应链定价策略的影响。Steam Deck 作为便携游戏设备，其价格调整可能改变化算力/价格比，影响在端侧运行 AI 模型的设备选型。",
+      "pm_score": 0.42,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48297976",
       "date": "2026-05-28"
     },
     {
@@ -112,10 +222,76 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
       "date": "2026-05-28"
+    },
+    {
+      "id": "show-hn-demon-open-source-real-time-music-diffusion-engine-25hz-local-gpu",
+      "label": "Show HN: Demon – open-source real-time music diffusion engine, 25Hz local GPU",
+      "summary": "Demon 是一个开源的实时音乐扩散引擎，能在本地 GPU 上以 25Hz 的频率生成音乐，实现低延迟交互。技术要点包括端到端的扩散模型推理优化、本地部署降低云端依赖、实时生成适合音乐创作工具集成。商业价值在于开源特性可降低开发成本，赋能音乐教育、直播、游戏等场景的产品创新。对 AI 产品经理而言，这是一个将生成式 AI 从“生成”推向“实时互动”的关键范式，有望催生新型音乐编辑器和沉浸式体验。",
+      "pm_score": 0.365,
+      "pillar": "capabilities",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://daydreamlive.github.io/DEMON/",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "show-hn-open-source-workspace-maildocsspreadsheetdrive-webios",
+      "label": "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
+      "summary": "该开源工作空间项目整合了邮件、文档、电子表格和云盘四大核心办公功能，支持Web与iOS跨端使用。对AI产品经理而言，其价值在于提供了一个可自托管、可扩展的底层办公套件框架，便于后续接入AI能力（如智能写作、自动总结、邮件分类等），降低从零构建集成式AI办公产品的门槛。开源模式也利于社区贡献AI插件，形成生态。商业上可作为企业私有化部署的协作基座，产品创新体现在将分散的办公模块统一为开源方案。",
+      "pm_score": 0.36,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48295071",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https",
+      "label": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+      "summary": "本文探讨了Gemini、Gopher等替代HTTPS的互联网协议，分析了它们在去中心化、轻量级和隐私保护方面的优势。对于AI产品经理而言，这些协议可能催生新的应用场景，如基于去中心化协议的AI服务、边缘计算与轻量级AI模型分发，以及隐私优先的个性化推荐系统。商业价值在于绕过传统互联网的带宽和审查限制，为AI产品提供更灵活、低成本的部署路径，同时增强用户数据控制权。产品创新点包括结合Gemini协议的文本优先AI交互界面，以及利用Gopher协议实现低带宽环境下的大模型检索。",
+      "pm_score": 0.36,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48297467",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "stress-disrupts-hippocampal-integration-of-overlapping-events-memory-inference",
+      "label": "Stress disrupts hippocampal integration of overlapping events, memory inference",
+      "summary": "该研究揭示了压力如何破坏海马体对重叠事件的整合，从而影响记忆推理能力。海马体在编码和回忆相互关联的记忆中起关键作用，压力会干扰这一过程，导致推理错误。对AI产品经理而言，这暗示了情感状态或外部干扰对AI记忆系统（如长期上下文、推理模块）的影响。商业价值体现在开发更具鲁棒性的AI助手时，需考虑模拟压力条件或设计抗干扰的记忆架构。产品创新可能包括引入情感调节机制或动态记忆整合策略。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48296622",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "in-browser-container-builds",
+      "label": "In-Browser Container Builds",
+      "summary": "该技术实现了在浏览器内部直接构建容器镜像，无需依赖远端服务器或本地Docker引擎。通过WebAssembly和虚拟化技术，用户可在浏览器中完成完整的容器打包流程，显著降低开发环境的配置门槛。对AI产品经理而言，这意味着AI模型或数据处理工具可以直接在浏览器沙箱中构建和测试，提升原型迭代效率，同时保障数据隐私。其商业价值体现在边缘计算、低代码AI平台及安全合规场景，产品创新点在于将容器构建这一后端操作完全前端化，打通了从开发到部署的浏览器统一入口。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48266323",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "multi-agent-llm-system-for-automated-vulnerability-discovery-and-reproduction",
+      "label": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+      "summary": "该方案利用多智能体LLM系统自动化发现和复现软件漏洞，通过多个AI代理协同工作，模拟安全研究人员分析代码、生成攻击路径并验证漏洞。技术要点包括多代理协作机制、代码理解与动态分析、自动化验证。商业价值在于降低安全审计成本、加速漏洞修复周期，适用于DevSecOps流程。产品创新在于将LLM的推理能力与多代理分工结合，实现端到端的漏洞管理自动化。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48297723",
+      "date": "2026-05-28"
     }
   ],
   "graph_totals": {
-    "real_nodes": 906,
-    "edges": 56623
+    "real_nodes": 923,
+    "edges": 57547
   }
 }

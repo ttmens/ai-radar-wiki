@@ -1,0 +1,24 @@
+{
+  "title": "Show HN: Demon – open-source real-time music diffusion engine, 25Hz local GPU",
+  "score": 13,
+  "comments": 10,
+  "url": "https://daydreamlive.github.io/DEMON/",
+  "hn_url": "https://news.ycombinator.com/item?id=48296503",
+  "tag": "ShowHN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Demon 是一个开源的实时音乐扩散引擎，能在本地 GPU 上以 25Hz 的频率生成音乐，实现低延迟交互。技术要点包括端到端的扩散模型推理优化、本地部署降低云端依赖、实时生成适合音乐创作工具集成。商业价值在于开源特性可降低开发成本，赋能音乐教育、直播、游戏等场景的产品创新。对 AI 产品经理而言，这是一个将生成式 AI 从“生成”推向“实时互动”的关键范式，有望催生新型音乐编辑器和沉浸式体验。",
+  "pm_relevance": 9,
+  "concepts": [
+    "实时音乐生成",
+    "扩散模型",
+    "本地推理引擎"
+  ],
+  "entities": [
+    "Demon"
+  ],
+  "patterns": [
+    "Local-First AI",
+    "Real-Time Generation"
+  ]
+}

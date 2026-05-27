@@ -1054,3 +1054,22 @@
 - create: robinhood-now-lets-your-ai-agents-trade-stocks.md
 - create: tech-ceos-are-apparently-suffering-from-ai-psychosis.md
 - create: show-hn-coretex-an-open-source-unix-like-biomimetic-flat-file-ai-harness.md
+
+## [2026-05-28 06:03] sync v3 | 18 new | pillars: {'capabilities': 14, 'patterns': 1, 'business': 2, 'ecosystem': 1}
+- create: youtube-to-automatically-label-ai-generated-videos.md
+- create: i-think-anthropic-and-openai-have-found-product-market-fit.md
+- create: rust-and-slint-on-a-jailbroken-kindle.md
+- create: duckduckgo-search-saw-28-more-visits-after-google-said-people-love-ai-mode.md
+- create: stress-disrupts-hippocampal-integration-of-overlapping-events-memory-inference.md
+- create: gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https.md
+- create: multi-agent-llm-system-for-automated-vulnerability-discovery-and-reproduction.md
+- create: in-browser-container-builds.md
+- create: training-our-own-ai-models.md
+- create: show-hn-open-source-workspace-maildocsspreadsheetdrive-webios.md
+- create: valve-raises-steam-deck-prices.md
+- create: in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips.md
+- create: payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headc.md
+- create: your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists.md
+- create: meta-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-in.md
+- create: clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo.md
+- create: show-hn-demon-open-source-real-time-music-diffusion-engine-25hz-local-gpu.md

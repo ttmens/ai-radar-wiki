@@ -2,18 +2,18 @@
   "daily_summary": {
     "date": "2026-05-28",
     "headline": "今日 AI 情报 · 2026-05-28",
-    "overview": "AI交互从对话疲劳转向代理经济，商业化面临泡沫与理性并存。",
+    "overview": "AI交互从对话转向隐式自主代理，同时商业化呈现泡沫与理性增长两极分化",
     "narratives": [
       {
-        "title": "AI交互范式升级：从对话疲劳到代理经济与多模态协作",
-        "body": "用户对纯对话交互产生疲劳，驱动AI产品向更隐式、主动和工具化模式演进，例如AI代理直接执行股票交易、音乐编辑从生成转向协作。产品经理应关注“零接口”交互和代理集成，重新定义用户触点。",
+        "title": "AI交互范式转移：从对话驱动到隐式感知与代理自治",
+        "body": "用户对对话式AI产生疲劳，DuckDuckGo因隐私顾虑访问量激增，Robinhood允许AI代理交易股票，ElevenLabs支持音乐局部精细编辑等信号表明，用户不再满足于问答式交互，而是期望AI能主动感知、自主执行并深度集成到工作流中。产品经理需重新设计交互模式，探索无界面、代理驱动和垂直场景的精细化控制。",
         "type": "paradigm_shift",
         "pillar_key": "patterns"
       },
       {
-        "title": "AI商业化双面：高估值泡沫与企业务实落地",
-        "body": "AI编程公司Cognition以25B估值融资但收入极低，ClickHouse营收翻三倍，科技CEO们陷入AI狂热症，同时中国AI人才回流推动本土生态闭环。产品经理需警惕泡沫，聚焦可验证的PMF。",
-        "type": "maturation",
+        "title": "AI商业化的两极分化：泡沫与理性增长并存",
+        "body": "Cognition高估值低收入与Remote、ClickHouse等扎实增长形成对比，Snowflake与AWS合作降低AI芯片成本，同时CEO过度乐观警告出现。说明AI投资存在泡沫，但实际落地的垂直SaaS和基础设施领域已呈现强劲回报。产品经理应聚焦可量化的效率提升和场景深度，避免盲目跟风。",
+        "type": "validation",
         "pillar_key": "business"
       }
     ],
@@ -21,47 +21,97 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "AI交互范式升级：从对话疲劳到代理经济与多模态协作",
-        "insight": "AI交互范式升级：从对话疲劳到代理经济与多模态协作。该方向的具体信号：用户对纯对话交互产生疲劳，Robinhood允许AI代理直接交易股票，ElevenLabs音乐模型支持局部细粒度编辑，表明AI产品正在从被动对话转向主动代理和协作编辑模式。",
+        "narrative_title": "AI交互范式转移：从对话驱动到隐式感知与代理自治",
+        "insight": "AI交互范式转移：从对话驱动到隐式感知与代理自治。该方向的具体信号：用户对对话式AI产生疲劳（I'm Tired of Talking to AI），DuckDuckGo因隐私顾虑访问量增长28%（DuckDuckGo search saw 28% more visits after Google said people love AI），Robinhood允许AI代理交易股票（Robinhood now lets your AI agents trade stocks），ElevenLabs支持音乐局部精细编辑（ElevenLabs' new music generation model can switch genres mid-track），以及睡眠科技AI耳塞（SOND exits stealth with AI sleep earbuds）等，均指向交互从显式对话向隐式、主动和代理化演进。",
         "evidence": [
           {
-            "id": "robinhood-now-lets-your-ai-agents-trade-stocks",
-            "title": "Robinhood允许AI代理交易股票，开启代理经济",
+            "id": "im-tired-of-talking-to-ai",
+            "title": "I'm Tired of Talking to AI",
+            "score": 0.68
+          },
+          {
+            "id": "duckduckgo-search-saw-28-more-visits-after-google-said-people-love-ai-mode",
+            "title": "DuckDuckGo search saw 28% more visits after Google said people love AI",
+            "score": 0.68
+          },
+          {
+            "id": "elevenlabs8217s-new-music-generation-model-can-switch-genres-mid-track",
+            "title": "ElevenLabs's new music generation model can switch genres mid-track",
             "score": 0.48
           },
           {
-            "id": "elevenlabs8217s-new-music-generation-model",
-            "title": "ElevenLabs音乐模型细粒度编辑：从生成到协作",
+            "id": "robinhood-now-lets-your-ai-agents-trade-stocks",
+            "title": "Robinhood now lets your AI agents trade stocks",
             "score": 0.48
+          },
+          {
+            "id": "sond-a-sleep-tech-startup-from-bose8217s-former-head-of-sleep-exits-stealth-with",
+            "title": "SOND, a sleep tech startup from Bose's former head of sleep, exits stealth with",
+            "score": 0.45
           }
         ]
       },
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "narrative_title": "AI商业化双面：高估值泡沫与企业务实落地",
-        "insight": "AI商业化双面：高估值泡沫与企业务实落地。该方向的具体信号：AI编程公司Cognition以25B估值融资但收入极低，ClickHouse营收翻三倍至2.5亿美元，科技CEO们陷入AI狂热症，同时中国AI人才回流推动本土生态闭环。",
+        "narrative_title": "AI商业化的两极分化：泡沫与理性增长并存",
+        "insight": "AI商业化的两极分化：泡沫与理性增长并存。该方向的具体信号：AI编程初创Cognition高估值（$25B）但年化收入仅492美元（疑似笔误），而Remote实现人均收入增长50%且现金流正向，ClickHouse收入翻三倍至$250M，Snowflake与AWS签订$6B订单降低AI芯片成本，同时CEO AI精神病论警告泡沫。表明理性增长存在于垂直效率和基础设施，泡沫集中在投机性初创。",
         "evidence": [
           {
             "id": "ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation",
-            "title": "Cognition融资10亿美元，估值泡沫信号",
+            "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
             "score": 0.48
           },
           {
-            "id": "clickhouse-triples-anualized-revenue-to-250m",
-            "title": "ClickHouse营收翻三倍，企业级AI基础设施需求实",
+            "id": "payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headc",
+            "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headc",
+            "score": 0.48
+          },
+          {
+            "id": "clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo",
+            "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
+            "score": 0.45
+          },
+          {
+            "id": "in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips",
+            "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+            "score": 0.45
+          },
+          {
+            "id": "clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo",
+            "title": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO",
             "score": 0.45
           }
         ]
       }
     ],
-    "stats": "技术能力: 4 | 产品模式: 1 | 工具生态: 1 | 商业趋势: 5",
-    "total_items": 11,
-    "high_value_count": 10,
+    "stats": "技术能力: 8 | 产品模式: 1 | 工具生态: 2 | 商业趋势: 9",
+    "total_items": 20,
+    "high_value_count": 20,
     "all_today_ids": [
       {
         "id": "im-tired-of-talking-to-ai",
         "label": "I'm Tired of Talking to AI"
+      },
+      {
+        "id": "duckduckgo-search-saw-28-more-visits-after-google-said-people-love-ai-mode",
+        "label": "DuckDuckGo search saw 28% more visits after Google said people love AI mode"
+      },
+      {
+        "id": "i-think-anthropic-and-openai-have-found-product-market-fit",
+        "label": "I think Anthropic and OpenAI have found product-market fit"
+      },
+      {
+        "id": "youtube-to-automatically-label-ai-generated-videos",
+        "label": "YouTube to automatically label AI-generated videos"
+      },
+      {
+        "id": "training-our-own-ai-models",
+        "label": "Training our own AI models"
+      },
+      {
+        "id": "your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists",
+        "label": "Your SEO strategy is optimized for a search engine that no longer exists."
       },
       {
         "id": "ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation",
@@ -72,6 +122,10 @@
         "label": "YouTube will now automatically label AI videos"
       },
       {
+        "id": "meta-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-in",
+        "label": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come"
+      },
+      {
         "id": "elevenlabs8217s-new-music-generation-model-can-switch-genres-mid-track",
         "label": "ElevenLabs&#8217;s new music generation model can switch genres mid-track"
       },
@@ -80,12 +134,28 @@
         "label": "Robinhood now lets your AI agents trade stocks"
       },
       {
+        "id": "payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headc",
+        "label": "Payroll startup Remote says it grew revenue 50% per employee without adding head"
+      },
+      {
         "id": "sond-a-sleep-tech-startup-from-bose8217s-former-head-of-sleep-exits-stealth-with",
         "label": "SOND, a sleep tech startup from Bose&#8217;s former head of sleep, exits stealth"
       },
       {
+        "id": "clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo",
+        "label": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO"
+      },
+      {
+        "id": "in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips",
+        "label": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips"
+      },
+      {
         "id": "clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo",
         "label": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO"
+      },
+      {
+        "id": "valve-raises-steam-deck-prices",
+        "label": "Valve raises Steam Deck prices"
       },
       {
         "id": "tech-ceos-are-apparently-suffering-from-ai-psychosis",
@@ -100,11 +170,39 @@
         "label": "China is increasingly keeping its best AI talent to itself"
       },
       {
+        "id": "show-hn-demon-open-source-real-time-music-diffusion-engine-25hz-local-gpu",
+        "label": "Show HN: Demon – open-source real-time music diffusion engine, 25Hz local GPU"
+      },
+      {
+        "id": "show-hn-open-source-workspace-maildocsspreadsheetdrive-webios",
+        "label": "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS"
+      },
+      {
+        "id": "gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https",
+        "label": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS"
+      },
+      {
+        "id": "stress-disrupts-hippocampal-integration-of-overlapping-events-memory-inference",
+        "label": "Stress disrupts hippocampal integration of overlapping events, memory inference"
+      },
+      {
+        "id": "in-browser-container-builds",
+        "label": "In-Browser Container Builds"
+      },
+      {
+        "id": "multi-agent-llm-system-for-automated-vulnerability-discovery-and-reproduction",
+        "label": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction"
+      },
+      {
+        "id": "rust-and-slint-on-a-jailbroken-kindle",
+        "label": "Rust (and Slint) on a Jailbroken Kindle"
+      },
+      {
         "id": "show-hn-coretex-an-open-source-unix-like-biomimetic-flat-file-ai-harness",
         "label": "Show HN: CoreTex – An Open-Source, Unix-like, biomimetic, flat-file AI Harness"
       }
     ],
     "date_bj": "2026-05-28 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-28 00:02:23"
+    "generated_at_bj": "2026-05-28 06:03:07"
   }
 }
