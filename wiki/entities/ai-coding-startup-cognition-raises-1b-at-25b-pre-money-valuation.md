@@ -1,0 +1,27 @@
+---
+title: AI coding startup Cognition raises $1B at $25B pre-money valuation
+created: 2026-05-28
+updated: 2026-05-28
+type: entity
+pillar: business
+pm_score: 0.48
+tags: ["news", "techcrunch", "business"]
+sources: ["raw/techcrunch/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation.json"]
+---
+
+# AI coding startup Cognition raises $1B at $25B pre-money valuation
+
+## 中文摘要
+AI编程初创公司Cognition以250亿美元估值完成10亿美元融资，其年化收入仅492美元（可能为笔误，或指4920万美元？），但估值在8个月内翻倍。这反映了AI编程工具赛道的资本热度和高估值泡沫风险。对AI产品经理而言，需关注该领域的技术壁垒（如代码生成准确率、长上下文理解）和商业化路径（如企业级订阅定价），同时警惕估值与收入不匹配的泡沫信号。
+
+## PM 关注指标
+- 🎯 PM Score: 0.48
+- 🏷️ Pillar: business
+- 🔑 Keywords: valuation, revenue
+
+## 新闻摘要
+As Cognition reaches $492 in annualized revenue run rate, it more than doubled its valuation in eight months, it says.
+
+## 链接
+- 🔗 Source: https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/
+- 📅 Published: Wed, 27 May 2026 16:00:00 +0000

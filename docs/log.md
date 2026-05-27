@@ -1041,3 +1041,16 @@
 - create: the-structural-barriers-to-ai-lawyers.md
 - create: show-hn-posthorn-self-hosted-mail-without-the-mail-server.md
 - create: show-hn-cross-agent-messaging-and-shared-memory-over-the-local-filesystem.md
+
+## [2026-05-28 00:03] sync v3 | 11 new | pillars: {'capabilities': 6, 'business': 4, 'patterns': 1}
+- create: im-tired-of-talking-to-ai.md
+- create: ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation.md
+- create: startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-yo.md
+- create: elevenlabs8217s-new-music-generation-model-can-switch-genres-mid-track.md
+- create: sond-a-sleep-tech-startup-from-bose8217s-former-head-of-sleep-exits-stealth-with.md
+- create: china-is-increasingly-keeping-its-best-ai-talent-to-itself.md
+- create: clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo.md
+- create: youtube-will-now-automatically-label-ai-videos.md
+- create: robinhood-now-lets-your-ai-agents-trade-stocks.md
+- create: tech-ceos-are-apparently-suffering-from-ai-psychosis.md
+- create: show-hn-coretex-an-open-source-unix-like-biomimetic-flat-file-ai-harness.md
