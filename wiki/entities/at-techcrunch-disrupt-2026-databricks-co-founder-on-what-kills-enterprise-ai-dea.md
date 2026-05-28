@@ -1,0 +1,27 @@
+---
+title: At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI d
+created: 2026-05-29
+updated: 2026-05-29
+type: entity
+pillar: ecosystem
+pm_score: 0.48
+tags: ["news", "techcrunch", "ecosystem"]
+sources: ["raw/techcrunch/at-techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-dea.json"]
+---
+
+# At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals
+
+## 中文摘要
+Databricks联合创始人指出，企业AI已从探索阶段进入部署评估阶段，核心障碍不再是AI的技术吸引力，而是安全性和可扩展性。越来越多的企业关注AI系统在广泛部署时的数据泄露、合规风险及可靠性问题。产品经理需重视构建可信AI框架，包括数据治理、模型透明度、实时监控和错误处理机制。商业价值上，能够提供安全、可控的AI部署方案将成为差异化竞争优势。建议在产品早期即嵌入安全审计和合规模块，而非事后修补。
+
+## PM 关注指标
+- 🎯 PM Score: 0.48
+- 🏷️ Pillar: ecosystem
+- 🔑 Keywords: eval
+
+## 新闻摘要
+Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.
+
+## 链接
+- 🔗 Source: https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/
+- 📅 Published: Thu, 28 May 2026 14:30:00 +0000

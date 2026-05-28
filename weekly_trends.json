@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T18:04:14.345325+08:00",
-  "days_analyzed": 21,
+  "generated_at": "2026-05-29T00:03:21.876957+08:00",
+  "days_analyzed": 22,
   "pillar_trends": {
     "capabilities": {
       "trend": "stable",
@@ -10,25 +10,25 @@
       "has_data": false
     },
     "patterns": {
-      "trend": "up",
-      "delta": 4,
+      "trend": "stable",
+      "delta": 0,
       "current": 5,
-      "previous": 1,
+      "previous": 5,
       "has_data": true
     },
     "ecosystem": {
+      "trend": "up",
+      "delta": 3,
+      "current": 3,
+      "previous": 0,
+      "has_data": true
+    },
+    "business": {
       "trend": "data_missing",
       "delta": -5,
       "current": 0,
       "previous": 5,
       "has_data": false
-    },
-    "business": {
-      "trend": "up",
-      "delta": 3,
-      "current": 5,
-      "previous": 2,
-      "has_data": true
     }
   },
   "narrative_chains": [
@@ -772,5 +772,5 @@
   ],
   "contradictions": [],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-28**（21天），累计 **552** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI工具链从通用走向垂直专业化**。 值得关注：📱 产品模式呈上升趋势；💰 商业动态呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-05-29**（22天），累计 **564** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI工具链从通用走向垂直专业化**。 值得关注：🔧 工具生态呈上升趋势"
 }

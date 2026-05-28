@@ -1096,3 +1096,17 @@
 - create: ai-datacenters-were-built-for-gpus-what-happens-when-you-remove-the-gpus.md
 - create: investigating-how-prompt-politeness-affects-llm-accuracy-2025.md
 - create: vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880.md
+
+## [2026-05-29 00:03] sync v3 | 12 new | pillars: {'capabilities': 8, 'patterns': 3, 'ecosystem': 1}
+- create: five-frontier-llms-disagree-on-67-of-1k-real-world-fact-check-claims.md
+- create: amd-pulls-a-bait-and-switch-on-linux-users-with-vivado-licensing-changes.md
+- create: how-long-is-anthropic8217s-lease-with-spacex-opinions-vary.md
+- create: sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app.md
+- create: sneak-peek-at-new-siri-app-reveals-apple8217s-plans-to-take-on-chatgpt-and-more.md
+- create: rsi-is-the-new-agi-and-it8217s-just-as-hard-to-pin-down.md
+- create: at-techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-dea.md
+- create: youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-8216au.md
+- create: 2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026.md
+- create: visa-invests-in-replit-to-power-agentic-payments-for-developers.md
+- create: has-the-hunt-for-ai-compute-uncovered-the-next-cerebras.md
+- create: show-hn-continue-yn-a-60-second-game-about-ai-agent-permission-fatigue.md
