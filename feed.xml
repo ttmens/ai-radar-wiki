@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 28 May 2026 08:01:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 12:00:43 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -117,6 +117,14 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>Investigating how prompt politeness affects LLM accuracy (2025)</title>
+      <link>https://news.ycombinator.com/item?id=48276429</link>
+      <guid isPermaLink="false">investigating-how-prompt-politeness-affects-llm-accuracy-2025</guid>
+      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该研究探讨了提示语礼貌程度对大型语言模型（LLM）准确性的影响。实验发现，过度的礼貌或粗鲁可能降低模型表现，而适度礼貌的提示有助于提升输出质量。对AI产品经理而言，这意味着在设计对话系统或用户交互界面时，需要平衡提示的礼貌性以优化模型响应。商业上，可通过调整提示风格提升用户满意度，减少错误率；产品创新上可探索自适应礼貌策略。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Lear</title>
       <link>http://arxiv.org/abs/2605.28809v1</link>
       <guid isPermaLink="false">area-attribute-extraction-and-aggregation-for-clip-based-class-incremental-learn</guid>
@@ -189,6 +197,14 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>Vertu wants CEOs to run companies from an AI foldable starting at $6,880</title>
+      <link>https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/</link>
+      <guid isPermaLink="false">vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880</guid>
+      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Vertu推出基于开源Hermes项目的AI折叠手机，起售价6880美元。该产品将AI代理工作流与企业集成（如CRM、ERP）深度融合，同时采用超奢华材质与手工打造。面向CEO等高端用户，强调通过自然语言指挥AI完成商业决策支持、日程管理、数据洞察等任务，无需额外IT支持。技术上利用Hermes开源框架实现多步骤自动化任务编排，并内嵌隐私保护机制。此举将AI从软件体验延伸至硬件奢侈品，探索了超高价位的企业级AI终端市场，但受众极小。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>Why Google&amp;#8217;s AI can&amp;#8217;t spell Google (or anything else)</title>
       <link>https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/</link>
       <guid isPermaLink="false">why-google8217s-ai-can8217t-spell-google-or-anything-else</guid>
@@ -253,6 +269,14 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>A Eureka machine that thinks like nature and explores what AI cannot</title>
+      <link>https://news.ycombinator.com/item?id=48305446</link>
+      <guid isPermaLink="false">a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot</guid>
+      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>标题暗示一种受自然启发的新型机器学习架构，能够探索传统AI无法触及的复杂问题领域。该技术可能模仿生物进化或生态系统的自我优化机制，实现突破性的发现能力（“尤里卡”时刻）。对于AI产品经理，这类能力可应用于科研自动化、药物发现、复杂系统优化等场景，开辟传统数据驱动模型无法应对的高维非结构化问题空间，具有潜在的商业颠覆性。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Startup Battlefield 200 applications close today: Nominate a founder or submit y</title>
       <link>https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/</link>
       <guid isPermaLink="false">startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-yo</guid>
@@ -290,6 +314,14 @@
       <guid isPermaLink="false">gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https</guid>
       <pubDate>2026-05-28T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了Gemini、Gopher等替代HTTPS的互联网协议，分析了它们在去中心化、轻量级和隐私保护方面的优势。对于AI产品经理而言，这些协议可能催生新的应用场景，如基于去中心化协议的AI服务、边缘计算与轻量级AI模型分发，以及隐私优先的个性化推荐系统。商业价值在于绕过传统互联网的带宽和审查限制，为AI产品提供更灵活、低成本的部署路径，同时增强用户数据控制权。产品创新点包括结合Gemini协议的文本优先AI交互界面，以及利用Gopher协议实现低带宽环境下的大模型检索。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs?</title>
+      <link>https://news.ycombinator.com/item?id=48269357</link>
+      <guid isPermaLink="false">ai-datacenters-were-built-for-gpus-what-happens-when-you-remove-the-gpus</guid>
+      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章探讨了AI数据中心传统上为GPU优化设计，但如果移除GPU可能带来的影响。技术要点包括新型计算架构（如定制ASIC、FPGA、NPU）的兴起，以及通过软件优化减少对GPU的依赖。商业价值在于降低硬件成本、规避供应链风险，并提升算力利用效率。产品创新方向涉及更灵活的模型部署策略，以及面向边缘和云端异构计算的产品设计。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -379,38 +411,6 @@
       <pubDate>2026-05-27T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google在I/O 2026上全面改造搜索，用AI代理替代传统蓝色链接，引发用户强烈反弹。隐私搜索引擎DuckDuckGo应用安装量因此飙升30%，显示用户不愿被动接受强制植入的AI搜索体验。这一趋势提醒AI产品经理：激进的功能替换可能引发用户逃离，需平衡AI能力与用户控制权。产品创新应关注隐私保护、可选择的AI辅助而非强制替代。商业价值在于，用户对AI的接受度取决于信任与自主权，搜索市场格局可能因此重塑。</p></description>
       <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Tes</title>
-      <link>http://arxiv.org/abs/2605.27360v1</link>
-      <guid isPermaLink="false">genesis-harnessing-ai-agents-for-autonomous-6g-ran-synthesis-research-and-testin</guid>
-      <pubDate>2026-05-27T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>GENESIS 项目利用 AI 智能体实现 6G 无线接入网（RAN）的自主合成、研究和测试，针对蜂窝研发中六个耗时数月的人工流程（如从标准到生产代码的合成、一致性测试、互操作性测试等）进行自动化。技术要点包括 AI 智能体自动解析标准或论文并生成代码、自动执行测试与加固；商业价值在于大幅缩短研发迭代周期、降低人力成本、加速 6G 技术落地；产品创新体现为将 AI 智能体深度嵌入通信基础设施研发流程，实现端到端自动化。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Uber president says AI spending is getting 'harder to justify'</title>
-      <link>https://news.ycombinator.com/item?id=48277485</link>
-      <guid isPermaLink="false">uber-president-says-ai-spending-is-getting-harder-to-justify</guid>
-      <pubDate>2026-05-27T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Uber总裁公开表示，企业对AI的投资越来越难以证明其合理性。这一表态反映了当前AI领域面临的商业化挑战：尽管技术能力快速提升，但高昂的算力成本、不确定的应用场景以及缺乏清晰的投资回报率，使得企业高管对大规模AI投入持更谨慎态度。对于AI产品经理而言，这意味着需要更注重产品化过程中的价值量化、成本控制以及从业务痛点出发的实用导向，而非单纯追逐技术先进性。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Universal Music Group and TikTok renew agreement to combat unauthorized AI music</title>
-      <link>https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/</link>
-      <guid isPermaLink="false">universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music</guid>
-      <pubDate>2026-05-27T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>环球音乐集团（UMG）与TikTok续签协议，重点强化对未经授权AI生成音乐的打击。UMG长期要求平台和流媒体服务实施更严格的内容审核政策，此次合作标志着音乐产业在AI版权治理上的关键一步。对于AI产品经理，这意味着开发AI音乐生成应用时必须考虑版权合规，嵌入水印或内容指纹识别技术，并建立与版权方的合作机制。同时，该协议可能推动行业标准形成，影响AI音乐创作工具的商业模式和内容分发策略。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>This startup is betting India&amp;#8217;s gig economy can train the world&amp;#8217;s ro</title>
-      <link>https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/</link>
-      <guid isPermaLink="false">this-startup-is-betting-india8217s-gig-economy-can-train-the-world8217s-robots</guid>
-      <pubDate>2026-05-27T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Human Archive 是一家由伯克利和斯坦福研究员创立的初创公司，利用印度零工经济雇佣工人佩戴摄像头帽和传感器设备，采集真实世界的物理交互数据，用于训练机器人。这种低成本、规模化的人力数据采集方式，直接解决了AI和机器人研发中高质量真实数据稀缺的痛点，为机器人具身智能提供关键训练素材。商业上，它验证了数据采集外包的可行性，可能成为机器人领域的基础设施。产品创新在于将人类日常活动转化为机器可学习的结构化数据，降低研发门槛。</p></description>
-      <category>🤖 技术能力</category>
     </item>
   </channel>
 </rss>
