@@ -1,0 +1,30 @@
+{
+  "title": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning",
+  "summary": "Class-Incremental Learning (CIL) is important in building real-world learning systems. In CLIP-based CIL, the model performs classification by comparing similarity between visual and textual embeddings obtained from template prompts, e.g., ``a photo of a [CLASS]''. This seemingly monolithic matching process can be decomposed into two conceptually distinct stages: attribute extraction and attribute aggregation. For example, a model may recognize cat using attributes such as fur texture and whiskers. When learning a new class like car, the model must extract additional attributes like wheels and adjust how they are aggregated in the shared representation space. However, since only data from the current task is available, incremental updates can bias both attribute extraction and aggregation toward new classes, leading to catastrophic forgetting. Therefore, we propose AREA for attribute extraction and aggregation in CLIP-based CIL. To stabilize extraction, we anchor class-level visual and textual attributes on the hyperspherical embedding space via principal geodesic analysis. To stabilize aggregation, we learn lightweight task-specific experts with scoring and residual refinement, regularized by a variational information bottleneck objective. During inference, we perform routing over task attribute manifolds via optimal transport for more concise prediction. Experiments show that AREA consistently outperforms SOTA methods. Code is available at https://github.com/LAMDA-CL/ICML2026-AREA.",
+  "url": "http://arxiv.org/abs/2605.28809v1",
+  "authors": [
+    "Zhen-Hao Xie",
+    "Yu-Cheng Shi",
+    "Da-Wei Zhou"
+  ],
+  "published": "2026-05-27T17:58:16Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "embedding",
+    "similarity"
+  ],
+  "summary_cn": "本文提出AREA方法，用于基于CLIP的类增量学习（CIL）。CIL旨在让模型在不遗忘旧知识的情况下学习新类别。传统方法依赖固定模板提示进行图文匹配，但面临灾难性遗忘问题。AREA通过提取图像的属性特征（如颜色、形状），并聚合新类与旧类共有的属性，从而增强CLIP的判别能力。该方法无需存储大量旧样本，仅保留属性知识，显著降低存储开销。对于AI产品而言，该技术可支持持续更新的图像识别、智能相册等场景，实现模型在部署后不断学习新类别，同时保持对旧类别的识别精度，提升产品的适应性和用户价值。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Class-Incremental Learning",
+    "CLIP",
+    "属性提取与聚合"
+  ],
+  "entities": [],
+  "patterns": [
+    "增量学习模式",
+    "多模态AI"
+  ]
+}

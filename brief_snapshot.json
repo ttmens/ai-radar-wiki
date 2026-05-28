@@ -1,7 +1,7 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T06:03:33.429144+08:00",
-  "item_count": 26,
+  "generated_at": "2026-05-28T12:02:37.633716+08:00",
+  "item_count": 39,
   "items": [
     {
       "id": "im-tired-of-talking-to-ai",
@@ -67,6 +67,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "cambrain-real-time-continuous-eeg-inference-with-causal-state-space-models",
+      "label": "CaMBRAIN: Real-time, Continuous EEG Inference with Causal State Space Models",
+      "summary": "该论文提出CaMBRAIN，一种基于因果状态空间模型的实时连续EEG推理方法。现有深度学习模型难以处理时长从数秒到数小时的EEG数据，CaMBRAIN通过因果状态空间模型实现高效、实时的脑电信号分析，显著提升长序列处理能力。这一技术对脑机接口、神经疾病监测、认知状态评估等产品具有高商业价值，可降低延迟、提高准确率，推动消费级与医疗级EEG产品的实时化与轻量化。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.28792v1",
       "date": "2026-05-28"
     },
     {
@@ -136,6 +147,83 @@
       "date": "2026-05-28"
     },
     {
+      "id": "area-attribute-extraction-and-aggregation-for-clip-based-class-incremental-learn",
+      "label": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Lear",
+      "summary": "本文提出AREA方法，用于基于CLIP的类增量学习（CIL）。CIL旨在让模型在不遗忘旧知识的情况下学习新类别。传统方法依赖固定模板提示进行图文匹配，但面临灾难性遗忘问题。AREA通过提取图像的属性特征（如颜色、形状），并聚合新类与旧类共有的属性，从而增强CLIP的判别能力。该方法无需存储大量旧样本，仅保留属性知识，显著降低存储开销。对于AI产品而言，该技术可支持持续更新的图像识别、智能相册等场景，实现模型在部署后不断学习新类别，同时保持对旧类别的识别精度，提升产品的适应性和用户价值。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.28809v1",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "learn-from-weaknesses-automated-domain-specialization-for-small-computer-use-age",
+      "label": "Learn from Weaknesses: Automated Domain Specialization for Small Computer-Use Ag",
+      "summary": "本文提出一种自动化领域专业化方法，用于提升小型计算机使用代理（CUA）在特定软件领域的性能，而非依赖昂贵的大型专家模型。通过识别并针对性训练小型CUA的薄弱环节，该方法能有效降低部署成本，同时提升领域内任务完成率。对于AI产品经理，这意味着可以以更低成本打造专用代理，无需为每个领域训练大模型，具有显著的商业价值。产品创新在于从弱点学习而非全面增强，实现更高效的能力提升。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.28775v1",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "peft-arena-understanding-parameter-efficient-finetuning-from-a-stability-plastic",
+      "label": "PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasti",
+      "summary": "该论文提出从稳定性-可塑性困境的视角评估参数高效微调（PEFT）方法，强调当前研究过度关注下游任务准确率，而忽视了预训练能力的保留。对AI产品经理而言，这意味着选择PEFT策略时需平衡模型在专用任务上的适配能力与通用知识保持，以降低灾难性遗忘风险，提升产品长期迭代的稳健性和成本效益。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.28819v1",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "affective-music-recommendation-a-rollout-based-world-model-for-offline-preferenc",
+      "label": "Affective Music Recommendation: A Rollout-Based World Model for Offline Preferen",
+      "summary": "该论文提出一种基于rollout的世界模型方法，用于离线优化情感音乐推荐系统。核心挑战在于用户情感状态作为推荐成功标准，但在线实验存在伦理约束，尤其针对临床人群。技术要点包括构建世界模型模拟用户情感反馈，通过离线偏好学习避免直接在线干预。商业价值体现在功能性音乐应用（如睡眠辅助、临床干预）可安全实现个性化推荐，无需侵犯用户情感隐私。产品创新在于将离线强化学习与情感计算结合，降低部署风险。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.28810v1",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "bias-leaves-a-gradient-trail-label-free-bias-identification-via-gradient-probes",
+      "label": "Bias Leaves a Gradient Trail: Label-Free Bias Identification via Gradient Probes",
+      "summary": "本文提出一种无需标签或重新训练的偏差识别方法，通过梯度探针在概念分解上追踪视觉分类器对虚假相关性的依赖。该方法可自动发现模型在分布偏移下失效的根源，无需人工标注或额外数据集，显著降低偏差检测成本。对AI产品经理而言，该技术可用于持续监控模型鲁棒性和公平性，避免因虚假特征导致的业务风险，尤其适用于动态环境下的AI产品迭代。商业价值体现在减少模型迁移失败率、提升用户信任度，并支持合规性审查。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.28780v1",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "do-agents-need-semantic-metadata-a-comparative-study-in-agentic-data-retrieval",
+      "label": "Do Agents Need Semantic Metadata? A Comparative Study in Agentic Data Retrieval",
+      "summary": "该论文研究了自主智能体在数据检索过程中是否需要语义元数据（如 schema.org）。通过对比分析，探讨了语义元数据如何支撑 FAIR 原则，提升数据的可发现性、可访问性、互操作性和可重用性。对于 AI 产品经理而言，核心价值在于：语义元数据可帮助智能体更高效地理解和使用异构数据源，减少信息孤岛，推动数据驱动工作流的自动化。产品创新方向包括构建元数据增强的智能体检索框架，以及将语义标准嵌入到 Agent 的数据交互流程中，从而提升 Agent 的决策质量和跨系统协作能力。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.28787v1",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "calibrating-conservatism-for-scalable-oversight",
+      "label": "Calibrating Conservatism for Scalable Oversight",
+      "summary": "该论文关注自主AI代理系统（具备规划与交互能力）带来的控制难题，即人类如何有效监督能力可能超越自身的系统。研究提出校准保守主义的方法，通过调整AI的行为保守度来实现可扩展监督，避免过度依赖复杂假设。对AI产品经理而言，这意味着在开发高自主性代理产品（如自动化决策、智能体）时，需平衡能力与安全，设计可落地的监督机制，从而提升产品可信度与商业化可行性。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.28807v1",
+      "date": "2026-05-28"
+    },
+    {
       "id": "sond-a-sleep-tech-startup-from-bose8217s-former-head-of-sleep-exits-stealth-with",
       "label": "SOND, a sleep tech startup from Bose&#8217;s former head of sleep, exits stealth",
       "summary": "SOND 是一家由 Bose 前睡眠产品主管创立的睡眠科技初创公司，近日以 700 万美元融资从隐身模式中浮出水面。其核心产品为 AI 驱动的睡眠耳塞，融合了音频技术、生物传感和机器学习算法，旨在通过智能调节声音与环境来改善用户入睡与睡眠质量。此轮融资由多家风投支持，凸显市场对 AI 结合可穿戴健康技术的商业信心。产品创新点在于将 Bose 在音频领域的工程积累与个性化 AI 睡眠优化相结合，为睡眠障碍人群提供非药物干预方案。对于 AI 产品经理而言，SOND 展示了垂直场景 AI 硬件产品的落地路径，以及传统硬件大厂人才向初创公司流动的趋势。",
@@ -158,6 +246,17 @@
       "date": "2026-05-28"
     },
     {
+      "id": "why-google8217s-ai-can8217t-spell-google-or-anything-else",
+      "label": "Why Google&#8217;s AI can&#8217;t spell Google (or anything else)",
+      "summary": "该文章批评谷歌AI在拼写能力上的严重缺陷，连自己公司名‘Google’都拼错。技术要点在于大型语言模型在处理单词字母级别细节时存在根本性弱点，因为其基于token而非字符的学习方式导致拼写不准确。商业价值上，这暴露了AI产品在基础事实准确性上的风险，可能损害用户信任和品牌形象。产品创新角度，该问题提示需要引入拼写校验、字符级注意力机制或外部知识库增强。对于AI产品经理而言，这强调了在面向用户的应用中必须重视细节质量和多模态验证。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+      "date": "2026-05-28"
+    },
+    {
       "id": "in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips",
       "label": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
       "summary": "Snowflake与AWS签署为期五年、价值60亿美元的大单，用于采购AI CPU芯片。此举强化了AWS在AI基础设施领域的地位，同时冲击Nvidia在AI芯片市场的垄断。对AI产品经理而言，这意味着企业级AI应用的计算成本可能下降，且芯片供应多元化将推动更多定制化AI架构的出现，促进数据云与AI工作负载的深度融合。",
@@ -177,6 +276,39 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/27/clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "omniverifier-m1-multimodal-meta-verifier-with-explicit-structured-recalibration",
+      "label": "OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration",
+      "summary": "该论文提出OmniVerifier-M1，一种多模态元验证器，通过显式结构化重校准机制提升多模态大语言模型的输出可靠性。其核心创新在于利用验证器生成的结构化推理链替代传统二元判断，实现对视觉输出结果的细粒度验证与校准。技术要点包括跨模态对齐、可解释性增强和错误传播抑制；商业价值体现在提升AI产品在医疗影像、自动驾驶等高风险场景的决策可信度；产品创新方面，该方案可无缝集成至现有MLLM流水线，推动通用基础模型的实际落地。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.28805v1",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "skill-conditioned-gated-self-distillation-for-llm-reasoning",
+      "label": "Skill-Conditioned Gated Self-Distillation for LLM Reasoning",
+      "summary": "该论文提出了一种基于技能条件的门控自蒸馏方法，用于提升大语言模型（LLM）的推理能力。与传统方法依赖参考答案等可信特权信息不同，该方法探索能否利用非完全可信的特权信息（如成功轨迹）来生成更密集的token级监督信号，从而将稀疏的验证结果转化为细粒度的训练信号。这项技术有助于降低LLM推理训练中对高质量标注数据的依赖，可能推动模型自我改进能力的提升，对降低产品开发成本、增强模型在复杂推理场景的实用性具有潜在商业价值。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.28791v1",
+      "date": "2026-05-28"
+    },
+    {
+      "id": "beyond-binary-sim-to-real-dexterous-manipulation-with-physics-grounded-contact-r",
+      "label": "Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact",
+      "summary": "该论文提出了一种基于物理接地接触表示的 sim-to-real 强化学习方法，旨在解决灵巧操作中真实数据采集困难的问题。通过建模接触物理特性，缩小模拟与现实的差距，使触觉等高信息密度传感模态能在训练中被有效利用。该方法降低了机器人灵巧操作部署的数据成本，提升了 sim-to-real 迁移的鲁棒性，为工业和服务机器人实现精细操作提供了可规模化方案。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.28812v1",
       "date": "2026-05-28"
     },
     {
@@ -288,10 +420,21 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48297723",
       "date": "2026-05-28"
+    },
+    {
+      "id": "ω-qvla-robust-quantization-for-vision-language-action-models-via-composite-rotat",
+      "label": "Ω-QVLA: Robust Quantization for Vision-Language-Action Models via Composite Rota",
+      "summary": "Vision-Language-Action (VLA) models unify perception, reasoning, and control within a single policy, yet their multi-billion-parameter backbones and diffusion-based action heads make on-device deployment prohibitively expensive. Prior quantization efforts offer only partial solutions, compressing th",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.28803v1",
+      "date": "2026-05-28"
     }
   ],
   "graph_totals": {
-    "real_nodes": 923,
-    "edges": 57547
+    "real_nodes": 938,
+    "edges": 58486
   }
 }

@@ -1,0 +1,31 @@
+{
+  "title": "Learn from Weaknesses: Automated Domain Specialization for Small Computer-Use Agents",
+  "summary": "Computer-use agents (CUAs) have recently made substantial progress, but deploying a separate large expert for each software domain remains expensive. Small open computer-use agents are more practical specialization targets, but they remain substantially weaker and exhibit uneven domain-specific failures. A straightforward remedy is to synthesize large-scale training data for the target domain, yet we find that this naive approach yields only marginal improvements. Building on this observation, we introduce LearnWeak, an annotation-free specialization framework for small computer-use agents that uses a stronger reference agent to identify the student's weaknesses in the target domain, synthesize targeted tasks, and construct supervision automatically. LearnWeak further introduces an error-aware specialization objective that disentangles planning and execution errors, enabling more behaviorally precise updates than broad uniform supervision. On OSWorld, LearnWeak achieves average gains of 11.6 and 11.1 percentage points over EvoCUA-8B and OpenCUA-7B, respectively, across eight domains. We also validate that our student-aware dataset generation and training approaches outperform existing autonomous trajectory generation and training baselines. Our work highlights the importance of student awareness in both data synthesis and agent training, pointing toward a more principled and efficient path for specializing small computer-use agents in diverse domains.",
+  "url": "http://arxiv.org/abs/2605.28775v1",
+  "authors": [
+    "Suji Kim",
+    "Kangsan Kim",
+    "Sung Ju Hwang"
+  ],
+  "published": "2026-05-27T17:37:00Z",
+  "tag": "Paper",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent",
+    "rag",
+    "planning",
+    "autonomous"
+  ],
+  "summary_cn": "本文提出一种自动化领域专业化方法，用于提升小型计算机使用代理（CUA）在特定软件领域的性能，而非依赖昂贵的大型专家模型。通过识别并针对性训练小型CUA的薄弱环节，该方法能有效降低部署成本，同时提升领域内任务完成率。对于AI产品经理，这意味着可以以更低成本打造专用代理，无需为每个领域训练大模型，具有显著的商业价值。产品创新在于从弱点学习而非全面增强，实现更高效的能力提升。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Domain Specialization",
+    "Weakness-driven Learning",
+    "Small Computer-Use Agents"
+  ],
+  "entities": [],
+  "patterns": [
+    "Automated Domain Specialization",
+    "Weakness-driven Training"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "title": "CaMBRAIN: Real-time, Continuous EEG Inference with Causal State Space Models",
+  "summary": "Electroencephalography (EEG) is a critical, non-invasive method to monitor electrical brain activity. EEGs can span anywhere from a couple seconds to multiple hours, posing a major hurdle for existing deep learning methods due to two major factors: (1) existing EEG models are predominantly built upon the attention mechanism, incurring quadratic scaling as the sequence length increases, and (2) raw EEG signals must be processed in a sliding-window fashion due to fixed-length input requirements, preventing global understanding of the entire signal. To this extent, we propose CaMBRAIN - the first Causal, Mamba-based state space model (SSM) capable of real-time inference of EEG signals, arguing that bidirectional approaches are needlessly expensive given the causal, unidirectional nature of EEG. However, training such a model is non-trivial, as crucial EEG events can be extremely brief - within fractions of a second - yet separated by long intervals spanning minutes. Current EEG methods use self-supervised objectives that optimize for signal reconstruction, but these are not well suited for streaming SSMs; they fail to explicitly train the hidden state to retain the salient long-range context needed for streaming inference. We therefore introduce a multi-stage self-supervised training pipeline specifically tailored to encourage long-range memory retention and strong performance on EEG signals, while preserving the linear-time complexity of state space models. CaMBRAIN achieves state-of-the-art (SOTA) results across 3 different EEG datasets with >10x higher throughput than existing models, enabling the first model capable of long-range, continuous inference of variable-length EEG signals.",
+  "url": "http://arxiv.org/abs/2605.28792v1",
+  "authors": [
+    "Abhilash Durgam",
+    "Nyle Siddiqui",
+    "Jeffrey A. Chan-Santiago",
+    "Qiushi Fu",
+    "Elakkat D. Gireesh"
+  ],
+  "published": "2026-05-27T17:50:36Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "throughput",
+    "training",
+    "attention",
+    "dataset"
+  ],
+  "summary_cn": "该论文提出CaMBRAIN，一种基于因果状态空间模型的实时连续EEG推理方法。现有深度学习模型难以处理时长从数秒到数小时的EEG数据，CaMBRAIN通过因果状态空间模型实现高效、实时的脑电信号分析，显著提升长序列处理能力。这一技术对脑机接口、神经疾病监测、认知状态评估等产品具有高商业价值，可降低延迟、提高准确率，推动消费级与医疗级EEG产品的实时化与轻量化。",
+  "pm_relevance": 9,
+  "concepts": [
+    "实时EEG推理",
+    "因果状态空间模型",
+    "长序列脑电分析"
+  ],
+  "entities": [
+    "CaMBRAIN"
+  ],
+  "patterns": [
+    "实时推理模式",
+    "状态空间模型模式"
+  ]
+}

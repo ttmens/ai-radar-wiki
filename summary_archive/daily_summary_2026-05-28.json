@@ -2,18 +2,18 @@
   "daily_summary": {
     "date": "2026-05-28",
     "headline": "今日 AI 情报 · 2026-05-28",
-    "overview": "AI交互从对话转向隐式自主代理，同时商业化呈现泡沫与理性增长两极分化",
+    "overview": "AI 交互从对话向隐式自主操作转型，信任与隐私成为商业化分水岭",
     "narratives": [
       {
-        "title": "AI交互范式转移：从对话驱动到隐式感知与代理自治",
-        "body": "用户对对话式AI产生疲劳，DuckDuckGo因隐私顾虑访问量激增，Robinhood允许AI代理交易股票，ElevenLabs支持音乐局部精细编辑等信号表明，用户不再满足于问答式交互，而是期望AI能主动感知、自主执行并深度集成到工作流中。产品经理需重新设计交互模式，探索无界面、代理驱动和垂直场景的精细化控制。",
+        "title": "AI 从对话式交互迈向隐式/自主操作时代",
+        "body": "用户对纯对话 AI 的疲劳感暴露了当前交互模式的局限性，同时 Robinhood 允许 AI 代理交易、Meta 推出整合 AI 的订阅、YouTube 自动标签等动向，表明 AI 正嵌入系统级操作而非仅停留于聊天界面。对产品经理而言，这意味着需探索无接口、代理驱动或隐式感知的产品形态，将 AI 从被动的对话工具升级为主动参与工作流的协作者。",
         "type": "paradigm_shift",
         "pillar_key": "patterns"
       },
       {
-        "title": "AI商业化的两极分化：泡沫与理性增长并存",
-        "body": "Cognition高估值低收入与Remote、ClickHouse等扎实增长形成对比，Snowflake与AWS合作降低AI芯片成本，同时CEO过度乐观警告出现。说明AI投资存在泡沫，但实际落地的垂直SaaS和基础设施领域已呈现强劲回报。产品经理应聚焦可量化的效率提升和场景深度，避免盲目跟风。",
-        "type": "validation",
+        "title": "AI 商业化加速中的信任与隐私矛盾",
+        "body": "DuckDuckGo 在 Google 强推 AI 模式后访问量增长 28%，同时 YouTube 自动标签 AI 视频、Cognition 高估值泡沫等信号，共同指向一个核心矛盾：AI 的商业化潜力（如 OpenAI/Anthropic 实现 PMF、Remote 通过 AI 提升人效）正与用户隐私、透明度及信任形成张力。产品经理需在功能与信任之间寻找平衡，隐私护城河和合规能力可能成为差异化竞争的关键。",
+        "type": "bottleneck",
         "pillar_key": "business"
       }
     ],
@@ -21,8 +21,8 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "AI交互范式转移：从对话驱动到隐式感知与代理自治",
-        "insight": "AI交互范式转移：从对话驱动到隐式感知与代理自治。该方向的具体信号：用户对对话式AI产生疲劳（I'm Tired of Talking to AI），DuckDuckGo因隐私顾虑访问量增长28%（DuckDuckGo search saw 28% more visits after Google said people love AI），Robinhood允许AI代理交易股票（Robinhood now lets your AI agents trade stocks），ElevenLabs支持音乐局部精细编辑（ElevenLabs' new music generation model can switch genres mid-track），以及睡眠科技AI耳塞（SOND exits stealth with AI sleep earbuds）等，均指向交互从显式对话向隐式、主动和代理化演进。",
+        "narrative_title": "AI 从对话式交互迈向隐式/自主操作时代",
+        "insight": "AI 从对话式交互迈向隐式/自主操作时代。该方向的具体信号：用户对持续对话感到厌倦（I'm Tired of Talking to AI），Robinhood 为 AI 代理设立独立账户执行交易，Meta 将 AI 功能捆绑进订阅，以及针对小型代理的领域专业化方法（Learn from Weaknesses）和可扩展监督机制（Calibrating Conservatism），共同指向产品形态从‘对话窗口’转向‘主动代理+系统级嵌入’。",
         "evidence": [
           {
             "id": "im-tired-of-talking-to-ai",
@@ -30,62 +30,62 @@
             "score": 0.68
           },
           {
-            "id": "duckduckgo-search-saw-28-more-visits-after-google-said-people-love-ai-mode",
-            "title": "DuckDuckGo search saw 28% more visits after Google said people love AI",
-            "score": 0.68
-          },
-          {
-            "id": "elevenlabs8217s-new-music-generation-model-can-switch-genres-mid-track",
-            "title": "ElevenLabs's new music generation model can switch genres mid-track",
-            "score": 0.48
-          },
-          {
             "id": "robinhood-now-lets-your-ai-agents-trade-stocks",
             "title": "Robinhood now lets your AI agents trade stocks",
             "score": 0.48
           },
           {
-            "id": "sond-a-sleep-tech-startup-from-bose8217s-former-head-of-sleep-exits-stealth-with",
-            "title": "SOND, a sleep tech startup from Bose's former head of sleep, exits stealth with",
-            "score": 0.45
+            "id": "meta-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-in",
+            "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
+            "score": 0.48
+          },
+          {
+            "id": "learn-from-weaknesses-automated-domain-specialization-for-small-computer-use-ag",
+            "title": "Learn from Weaknesses: Domain Specialization for Small CUA",
+            "score": 0.48
+          },
+          {
+            "id": "calibrating-conservatism-for-scalable-oversight",
+            "title": "Calibrating Conservatism for Scalable Oversight",
+            "score": 0.48
           }
         ]
       },
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "narrative_title": "AI商业化的两极分化：泡沫与理性增长并存",
-        "insight": "AI商业化的两极分化：泡沫与理性增长并存。该方向的具体信号：AI编程初创Cognition高估值（$25B）但年化收入仅492美元（疑似笔误），而Remote实现人均收入增长50%且现金流正向，ClickHouse收入翻三倍至$250M，Snowflake与AWS签订$6B订单降低AI芯片成本，同时CEO AI精神病论警告泡沫。表明理性增长存在于垂直效率和基础设施，泡沫集中在投机性初创。",
+        "narrative_title": "AI 商业化加速中的信任与隐私矛盾",
+        "insight": "AI 商业化加速中的信任与隐私矛盾。该方向的具体信号：DuckDuckGo 搜索访问量增长 28% 反映用户对 AI 搜索的隐私担忧，YouTube 自动标签 AI 视频体现监管与平台信任压力，OpenAI/Anthropic 实现产品市场匹配验证商业化可行性，Remote 通过 AI 实现人均收入增长 50% 展示 B2B 效率价值，而 Cognition 高达 250 亿美元估值与收入不匹配则警示泡沫风险。",
         "evidence": [
           {
-            "id": "ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation",
-            "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
-            "score": 0.48
+            "id": "duckduckgo-search-saw-28-more-visits-after-google-said-people-love-ai-mode",
+            "title": "DuckDuckGo search saw 28% more visits after Google AI mode",
+            "score": 0.68
+          },
+          {
+            "id": "youtube-to-automatically-label-ai-generated-videos",
+            "title": "YouTube to automatically label AI-generated videos",
+            "score": 0.6
+          },
+          {
+            "id": "i-think-anthropic-and-openai-have-found-product-market-fit",
+            "title": "Anthropic and OpenAI have found product-market fit",
+            "score": 0.67
           },
           {
             "id": "payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headc",
-            "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headc",
+            "title": "Remote grew revenue 50% per employee with AI",
             "score": 0.48
           },
           {
-            "id": "clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo",
-            "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
-            "score": 0.45
-          },
-          {
-            "id": "in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips",
-            "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-            "score": 0.45
-          },
-          {
-            "id": "clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo",
-            "title": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO",
-            "score": 0.45
+            "id": "ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation",
+            "title": "Cognition raises $1B at $25B valuation",
+            "score": 0.48
           }
         ]
       }
     ],
-    "stats": "技术能力: 8 | 产品模式: 1 | 工具生态: 2 | 商业趋势: 9",
+    "stats": "技术能力: 14 | 产品模式: 3 | 工具生态: 1 | 商业趋势: 2",
     "total_items": 20,
     "high_value_count": 20,
     "all_today_ids": [
@@ -114,6 +114,10 @@
         "label": "Your SEO strategy is optimized for a search engine that no longer exists."
       },
       {
+        "id": "cambrain-real-time-continuous-eeg-inference-with-causal-state-space-models",
+        "label": "CaMBRAIN: Real-time, Continuous EEG Inference with Causal State Space Models"
+      },
+      {
         "id": "ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation",
         "label": "AI coding startup Cognition raises $1B at $25B pre-money valuation"
       },
@@ -138,6 +142,34 @@
         "label": "Payroll startup Remote says it grew revenue 50% per employee without adding head"
       },
       {
+        "id": "area-attribute-extraction-and-aggregation-for-clip-based-class-incremental-learn",
+        "label": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Lear"
+      },
+      {
+        "id": "learn-from-weaknesses-automated-domain-specialization-for-small-computer-use-age",
+        "label": "Learn from Weaknesses: Automated Domain Specialization for Small Computer-Use Ag"
+      },
+      {
+        "id": "peft-arena-understanding-parameter-efficient-finetuning-from-a-stability-plastic",
+        "label": "PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasti"
+      },
+      {
+        "id": "affective-music-recommendation-a-rollout-based-world-model-for-offline-preferenc",
+        "label": "Affective Music Recommendation: A Rollout-Based World Model for Offline Preferen"
+      },
+      {
+        "id": "bias-leaves-a-gradient-trail-label-free-bias-identification-via-gradient-probes",
+        "label": "Bias Leaves a Gradient Trail: Label-Free Bias Identification via Gradient Probes"
+      },
+      {
+        "id": "do-agents-need-semantic-metadata-a-comparative-study-in-agentic-data-retrieval",
+        "label": "Do Agents Need Semantic Metadata? A Comparative Study in Agentic Data Retrieval"
+      },
+      {
+        "id": "calibrating-conservatism-for-scalable-oversight",
+        "label": "Calibrating Conservatism for Scalable Oversight"
+      },
+      {
         "id": "sond-a-sleep-tech-startup-from-bose8217s-former-head-of-sleep-exits-stealth-with",
         "label": "SOND, a sleep tech startup from Bose&#8217;s former head of sleep, exits stealth"
       },
@@ -146,12 +178,28 @@
         "label": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO"
       },
       {
+        "id": "why-google8217s-ai-can8217t-spell-google-or-anything-else",
+        "label": "Why Google&#8217;s AI can&#8217;t spell Google (or anything else)"
+      },
+      {
         "id": "in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips",
         "label": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips"
       },
       {
         "id": "clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo",
         "label": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO"
+      },
+      {
+        "id": "omniverifier-m1-multimodal-meta-verifier-with-explicit-structured-recalibration",
+        "label": "OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration"
+      },
+      {
+        "id": "skill-conditioned-gated-self-distillation-for-llm-reasoning",
+        "label": "Skill-Conditioned Gated Self-Distillation for LLM Reasoning"
+      },
+      {
+        "id": "beyond-binary-sim-to-real-dexterous-manipulation-with-physics-grounded-contact-r",
+        "label": "Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact"
       },
       {
         "id": "valve-raises-steam-deck-prices",
@@ -194,15 +242,27 @@
         "label": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction"
       },
       {
+        "id": "ω-qvla-robust-quantization-for-vision-language-action-models-via-composite-rotat",
+        "label": "Ω-QVLA: Robust Quantization for Vision-Language-Action Models via Composite Rota"
+      },
+      {
+        "id": "show-hn-open-source-ai-racing-harness",
+        "label": "Show HN: Open-Source AI Racing Harness"
+      },
+      {
         "id": "rust-and-slint-on-a-jailbroken-kindle",
         "label": "Rust (and Slint) on a Jailbroken Kindle"
       },
       {
         "id": "show-hn-coretex-an-open-source-unix-like-biomimetic-flat-file-ai-harness",
         "label": "Show HN: CoreTex – An Open-Source, Unix-like, biomimetic, flat-file AI Harness"
+      },
+      {
+        "id": "justice-dept-is-said-to-open-criminal-inquiry-of-e-jean-carroll",
+        "label": "Justice Dept. Is Said to Open Criminal Inquiry of E. Jean Carroll"
       }
     ],
     "date_bj": "2026-05-28 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-28 06:03:07"
+    "generated_at_bj": "2026-05-28 12:02:09"
   }
 }

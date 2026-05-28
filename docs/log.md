@@ -1073,3 +1073,20 @@
 - create: meta-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-in.md
 - create: clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo.md
 - create: show-hn-demon-open-source-real-time-music-diffusion-engine-25hz-local-gpu.md
+
+## [2026-05-28 12:02] sync v3 | 15 new | pillars: {'capabilities': 12, 'ecosystem': 1, 'patterns': 2}
+- create: peft-arena-understanding-parameter-efficient-finetuning-from-a-stability-plastic.md
+- create: beyond-binary-sim-to-real-dexterous-manipulation-with-physics-grounded-contact-r.md
+- create: affective-music-recommendation-a-rollout-based-world-model-for-offline-preferenc.md
+- create: area-attribute-extraction-and-aggregation-for-clip-based-class-incremental-learn.md
+- create: calibrating-conservatism-for-scalable-oversight.md
+- create: omniverifier-m1-multimodal-meta-verifier-with-explicit-structured-recalibration.md
+- create: ω-qvla-robust-quantization-for-vision-language-action-models-via-composite-rotat.md
+- create: cambrain-real-time-continuous-eeg-inference-with-causal-state-space-models.md
+- create: skill-conditioned-gated-self-distillation-for-llm-reasoning.md
+- create: do-agents-need-semantic-metadata-a-comparative-study-in-agentic-data-retrieval.md
+- create: bias-leaves-a-gradient-trail-label-free-bias-identification-via-gradient-probes.md
+- create: learn-from-weaknesses-automated-domain-specialization-for-small-computer-use-age.md
+- create: justice-dept-is-said-to-open-criminal-inquiry-of-e-jean-carroll.md
+- create: why-google8217s-ai-can8217t-spell-google-or-anything-else.md
+- create: show-hn-open-source-ai-racing-harness.md

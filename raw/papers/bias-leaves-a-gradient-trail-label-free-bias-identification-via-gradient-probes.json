@@ -1,0 +1,34 @@
+{
+  "title": "Bias Leaves a Gradient Trail: Label-Free Bias Identification via Gradient Probes on Concept Decompositions",
+  "summary": "Vision classifiers can exploit spurious correlations, achieving high in-distribution accuracy yet failing under distribution shift. Existing approaches to bias mitigation and analysis often depend on curated datasets, spurious-attribute or group labels, or retraining, which may be infeasible once a model is deployed or the relevant bias is unknown. We present a bias-label-free, post-hoc method for identifying spurious concepts in frozen vision models, relying only on standard class labels from a held-out audit dataset. For each target class, we collect patches from inputs predicted as that class and apply non-negative matrix factorization to intermediate activations to obtain a bank of interpretable concept vectors. Candidate concepts are then ranked with a bias estimator derived from their interaction with backpropagated gradients on misclassified examples: bias concepts tend to get activated when correcting false negatives and suppressed when correcting false positives. On Colored MNIST and Waterbirds the method recovers concepts aligned with the known spurious cue, and on CelebA it surfaces decision-relevant directions that only partially coincide with the annotated gender attribute; suppressing the top-ranked concepts at inference time improves worst-group accuracy by up to 17.9 percentage points on Waterbirds and 10.4 on CelebA without any retraining or parameter updates. Our method identifies decision-relevant spurious directions that need not coincide with annotated ones, providing both an interpretable auditing tool and an actionable debiasing handle for frozen vision models. Code is available at https://github.com/vitryt/label-free-bias-identification.",
+  "url": "http://arxiv.org/abs/2605.28780v1",
+  "authors": [
+    "Thomas Vitry",
+    "Kieran Edgeworth",
+    "Stefan Wermter",
+    "Jae Hee Lee"
+  ],
+  "published": "2026-05-27T17:39:10Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "vision",
+    "training",
+    "parameter",
+    "accuracy",
+    "gradient",
+    "dataset"
+  ],
+  "summary_cn": "本文提出一种无需标签或重新训练的偏差识别方法，通过梯度探针在概念分解上追踪视觉分类器对虚假相关性的依赖。该方法可自动发现模型在分布偏移下失效的根源，无需人工标注或额外数据集，显著降低偏差检测成本。对AI产品经理而言，该技术可用于持续监控模型鲁棒性和公平性，避免因虚假特征导致的业务风险，尤其适用于动态环境下的AI产品迭代。商业价值体现在减少模型迁移失败率、提升用户信任度，并支持合规性审查。",
+  "pm_relevance": 8,
+  "concepts": [
+    "偏差识别",
+    "虚假相关性",
+    "模型鲁棒性"
+  ],
+  "entities": [],
+  "patterns": [
+    "Bias Detection without Labels"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Why Google&#8217;s AI can&#8217;t spell Google (or anything else)",
+  "description": "Google is embarrassing itself, again.",
+  "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+  "pub_date": "Thu, 28 May 2026 00:17:41 +0000",
+  "tag": "TechCrunch",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该文章批评谷歌AI在拼写能力上的严重缺陷，连自己公司名‘Google’都拼错。技术要点在于大型语言模型在处理单词字母级别细节时存在根本性弱点，因为其基于token而非字符的学习方式导致拼写不准确。商业价值上，这暴露了AI产品在基础事实准确性上的风险，可能损害用户信任和品牌形象。产品创新角度，该问题提示需要引入拼写校验、字符级注意力机制或外部知识库增强。对于AI产品经理而言，这强调了在面向用户的应用中必须重视细节质量和多模态验证。",
+  "pm_relevance": 7,
+  "concepts": [
+    "语言模型局限性",
+    "事实准确性",
+    "拼写错误"
+  ],
+  "entities": [
+    "Google"
+  ],
+  "patterns": [
+    "LLM Hallucination",
+    "Tokenization Issues"
+  ]
+}
