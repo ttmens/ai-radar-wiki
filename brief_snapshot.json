@@ -1,8 +1,19 @@
 {
   "date": "2026-05-29",
-  "generated_at": "2026-05-29T00:03:22.144002+08:00",
-  "item_count": 11,
+  "generated_at": "2026-05-29T06:03:41.025602+08:00",
+  "item_count": 21,
   "items": [
+    {
+      "id": "claude-opus-48",
+      "label": "Claude Opus 4.8",
+      "summary": "Anthropic 发布的 Claude Opus 4.8 模型大幅提升了推理能力与上下文处理长度，支持更复杂的多轮对话与长文档分析。其对齐优化减少了幻觉，增强了可操控性，适合高精度场景如法律、医疗。PM 可将此能力集成到自动化工作流中，实现更智能的决策支持，降低人工审核成本。产品创新在于更自然的交互与更长的记忆窗口，推动从辅助工具向自主代理演进。",
+      "pm_score": 0.68,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48311647",
+      "date": "2026-05-29"
+    },
     {
       "id": "five-frontier-llms-disagree-on-67-of-1k-real-world-fact-check-claims",
       "label": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
@@ -12,6 +23,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48307887",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "dynamic-workflows-in-claude-code",
+      "label": "Dynamic Workflows in Claude Code",
+      "summary": "Claude Code 中的动态工作流（Dynamic Workflows）允许 AI 在编码过程中实时调整和生成任务序列，提升开发者效率。该模式以 Claude 为核心，根据上下文自动拆解复杂编程任务并动态协调子步骤，减少手动切换频率。产品创新在于将静态指令流转化为自适应流程，适用于持续集成、代码审查等场景。商业上可降低研发成本，加速交付。",
+      "pm_score": 0.55,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48311705",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "sam-altman-and-dario-amodei-are-both-walking-back-ai-jobs-apocalypse-predictions",
+      "label": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
+      "summary": "OpenAI CEO Sam Altman 和 Anthropic CEO Dario Amodei 近期均收回此前关于AI将导致大规模失业的末日预测，转而强调AI对就业市场的影响将更为渐进和可控。这一转变暗示当前AI能力发展尚未达到完全替代人类的临界点，产品经理应关注人机协作增强模式而非纯替代，重新评估AI产品在职场中的定位——即辅助工具而非取代者。此举可能影响企业部署AI的策略，推动更务实的AI产品落地。",
+      "pm_score": 0.53,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48314363",
       "date": "2026-05-29"
     },
     {
@@ -37,6 +70,28 @@
       "date": "2026-05-29"
     },
     {
+      "id": "anthropic-raises-65b-in-series-h-funding-at-965b-post-money-valuation",
+      "label": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "summary": "Anthropic 完成 650 亿美元 H 轮融资，投后估值达 9650 亿美元，成为 AI 领域估值最高的私营公司之一。这一巨额融资凸显了 AI 基础设施和基础模型赛道的资本密集特性，也反映出投资者对前沿 AI 安全与能力研发的高度信心。对于 AI 产品经理而言，这笔资金将加速 Claude 系列模型的迭代与生态扩展，可能推动更强大的上下文理解、多模态能力以及企业级部署方案，同时加剧与大模型厂商的竞争格局，影响产品技术选型和商业化策略。",
+      "pm_score": 0.515,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48313048",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "various-llm-smells",
+      "label": "Various LLM Smells",
+      "summary": "本文（源自 Hacker News）探讨了大语言模型（LLM）中普遍存在的“异味”（Smells）问题，类似于代码中的反模式，特指模型在推理、事实性、一致性等方面的常见缺陷。对于AI产品经理而言，理解这些“气味”有助于在产品开发中识别模型脆弱点，设计更稳健的输入/输出验证机制，降低幻觉和偏见风险。文章可能涉及Prompt注入、上下文遗忘、数值不敏感等具体案例，并给出评估或缓解建议。商业价值在于提升产品可靠性与用户信任，避免因模型错误导致的负面体验。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48313810",
+      "date": "2026-05-29"
+    },
+    {
       "id": "at-techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-dea",
       "label": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI d",
       "summary": "Databricks联合创始人指出，企业AI已从探索阶段进入部署评估阶段，核心障碍不再是AI的技术吸引力，而是安全性和可扩展性。越来越多的企业关注AI系统在广泛部署时的数据泄露、合规风险及可靠性问题。产品经理需重视构建可信AI框架，包括数据治理、模型透明度、实时监控和错误处理机制。商业价值上，能够提供安全、可控的AI部署方案将成为差异化竞争优势。建议在产品早期即嵌入安全审计和合规模块，而非事后修补。",
@@ -59,6 +114,17 @@
       "date": "2026-05-29"
     },
     {
+      "id": "anthropic-releases-opus-48-with-new-8216dynamic-workflow8217-tool",
+      "label": "Anthropic releases Opus 4.8 with new &#8216;dynamic workflow&#8217; tool",
+      "summary": "Anthropic 发布 Opus 4.8 模型，新增“动态工作流”工具，用于协调多个子代理群协同完成任务。该功能支持动态任务分配、上下文共享和结果汇总，使开发者能构建更复杂、自适应的 AI 工作流。商业价值在于降低多智能体系统的开发门槛，提升企业级自动化效率；产品创新体现在从单一模型响应转向可编排的代理协作模式，为 AI 应用带来更高灵活性和可扩展性。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+      "date": "2026-05-29"
+    },
+    {
       "id": "visa-invests-in-replit-to-power-agentic-payments-for-developers",
       "label": "Visa invests in Replit to power agentic payments for developers",
       "summary": "Visa宣布投资AI编码平台Replit，旨在推动面向开发者的代理支付（agentic payments）能力。Visa透露已有超过1000名员工使用Replit进行原型设计和开发，此次合作将Replit的AI编程能力与Visa的支付基础设施结合，使开发者能够通过AI代理自动处理支付流程。该产品创新点在于将支付功能嵌入AI开发工作流，降低支付集成门槛，同时为Visa开辟开发者生态新入口。商业价值体现在Visa提前布局AI驱动的支付代理模式，扩大其在开发者群体中的影响力。",
@@ -67,6 +133,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "asana-acquires-no-code-agent-builder-stackai",
+      "label": "Asana acquires no-code agent-builder StackAI",
+      "summary": "Asana 宣布收购无代码智能体构建平台 StackAI，将其整合到不断扩展的 AI 工作流工具套件中。此举旨在让用户无需编程即可创建和部署 AI 助手，自动化项目管理、任务分配、流程审批等重复性工作。StackAI 的技术将增强 Asana 的智能工作流能力，降低企业采用 AI 的门槛，提升团队协作效率。对于 AI 产品经理而言，这是“无代码 + Agent 模式”在产品协作领域的典型应用，体现了大模型落地于企业 SaaS 的可行路径，具有重要的商业和产品创新价值。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo",
+      "label": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+      "summary": "Anthropic完成650亿美元H轮融资，投后估值9650亿美元，接近万亿大关。此次融资可能是其IPO前的最后一轮私募，标志着AI基础模型公司已进入商业化成熟阶段。巨额资金将用于扩展大模型能力、研发下一代架构及全球基础设施部署，巩固其在LLM市场的领先地位。对AI产品经理而言，这预示着基础模型将更加聚焦企业级应用与垂直场景落地，同时也意味着市场竞争加剧，中小型创业公司面临更大压力。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
       "date": "2026-05-29"
     },
     {
@@ -114,6 +202,28 @@
       "date": "2026-05-29"
     },
     {
+      "id": "the-internet-is-being-rebuilt-for-machines",
+      "label": "The internet is being rebuilt for machines",
+      "summary": "AI智能体从实验走向生产，推动互联网基础设施重构。AWS、Cloudflare等云厂商正针对机器主导流量而非人类用户进行架构优化，如调整网络协议、缓存策略和计算资源分配。这一转变将带来更高效的AI推理、实时数据处理和自动化协作，但需重新设计安全模型与成本结构。产品经理应关注机器流量特性对应用交互、数据流和商业模式的影响，提前布局Agent原生服务。",
+      "pm_score": 0.445,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "just-like-gold-and-oil-we8217ll-soon-be-able-to-trade-ai-token-futures",
+      "label": "Just like gold and oil, we&#8217;ll soon be able to trade AI token futures",
+      "summary": "大型交易所正设计围绕AI代币的衍生品，将AI代币从计算输出重新定义为类似电力、带宽的原材料输入。这一趋势反映了AI资源的商品化进程，使得AI代币可像黄金、石油一样进行期货交易。对产品经理而言，这标志着AI经济基础设施的成熟，可能催生新的定价模型、资源分配机制和商业模式，需关注代币化对AI产品开发、成本结构和市场准入的影响。",
+      "pm_score": 0.41,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+      "date": "2026-05-29"
+    },
+    {
       "id": "2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026",
       "label": "2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026",
       "summary": "TechCrunch Disrupt 2026大会将于10月13-15日在旧金山举办，现提供最高410美元早鸟折扣，优惠截止至5月29日。该大会汇聚10000+科技领袖，展示AI、创业、投资等领域最新趋势。对于AI产品经理而言，这是了解行业前沿动态、建立人脉、发现合作机会的重要窗口，尤其适合关注AI能力落地、产品创新与商业化的从业者。",
@@ -126,7 +236,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 954,
-    "edges": 60387
+    "real_nodes": 967,
+    "edges": 61358
   }
 }

@@ -1110,3 +1110,18 @@
 - create: visa-invests-in-replit-to-power-agentic-payments-for-developers.md
 - create: has-the-hunt-for-ai-compute-uncovered-the-next-cerebras.md
 - create: show-hn-continue-yn-a-60-second-game-about-ai-agent-permission-fatigue.md
+
+## [2026-05-29 06:03] sync v3 | 13 new | pillars: {'capabilities': 6, 'patterns': 5, 'business': 2}
+- create: claude-opus-48.md
+- create: various-llm-smells.md
+- create: show-hn-ktx-open-source-executable-context-layer-for-data-agents.md
+- create: coalton-is-an-efficient-statically-typed-lisp-with-ideas-from-haskell-and-ocaml.md
+- create: sam-altman-and-dario-amodei-are-both-walking-back-ai-jobs-apocalypse-predictions.md
+- create: using-tailscale-with-an-orbstack-vm-on-macos.md
+- create: dynamic-workflows-in-claude-code.md
+- create: anthropic-raises-65b-in-series-h-funding-at-965b-post-money-valuation.md
+- create: the-internet-is-being-rebuilt-for-machines.md
+- create: asana-acquires-no-code-agent-builder-stackai.md
+- create: anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo.md
+- create: just-like-gold-and-oil-we8217ll-soon-be-able-to-trade-ai-token-futures.md
+- create: anthropic-releases-opus-48-with-new-8216dynamic-workflow8217-tool.md

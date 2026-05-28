@@ -1,0 +1,26 @@
+{
+  "title": "Anthropic releases Opus 4.8 with new &#8216;dynamic workflow&#8217; tool",
+  "description": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
+  "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+  "pub_date": "Thu, 28 May 2026 17:00:09 +0000",
+  "tag": "TechCrunch",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent",
+    "workflow"
+  ],
+  "summary_cn": "Anthropic 发布 Opus 4.8 模型，新增“动态工作流”工具，用于协调多个子代理群协同完成任务。该功能支持动态任务分配、上下文共享和结果汇总，使开发者能构建更复杂、自适应的 AI 工作流。商业价值在于降低多智能体系统的开发门槛，提升企业级自动化效率；产品创新体现在从单一模型响应转向可编排的代理协作模式，为 AI 应用带来更高灵活性和可扩展性。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Dynamic Workflows",
+    "Multi-Agent Orchestration",
+    "Subagent Swarms"
+  ],
+  "entities": [
+    "Anthropic"
+  ],
+  "patterns": [
+    "Multi-Agent Orchestration",
+    "Workflow Automation"
+  ]
+}
