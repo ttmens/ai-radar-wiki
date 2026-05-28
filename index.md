@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-28 | Total pages: 957
+> Last updated: 2026-05-28 | Total pages: 961
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -8,6 +8,7 @@
 - [[2noisechattts.md]] 2noise/ChatTTS `pillar:capabilities` `score:0.58`
 - [[a-0-click-exploit-chain-for-the-pixel-10.md]] A 0-click exploit chain for the Pixel 10 `pillar:capabilities` `score:0.41`
 - [[a-case-against-boolean-logic.md]] A case against Boolean logic `pillar:capabilities` `score:0.395`
+- [[a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot.md]] A Eureka machine that thinks like nature and explores what AI cannot `pillar:capabilities` `score:0.395`
 - [[a-polynomial-autoencoder-beats-pca-on-transformer.md]] A polynomial autoencoder beats PCA on transformer embeddings `pillar:capabilities` `score:0.155`
 - [[a-recent-experience-with-chatgpt-55-pro.md]] A recent experience with ChatGPT 5.5 Pro `pillar:capabilities` `score:0.6`
 - [[a-sleep-like-consolidation-mechanism-for-llms.md]] A sleep-like consolidation mechanism for LLMs `pillar:capabilities` `score:0.55`
@@ -16,6 +17,7 @@
 - [[access-to-frontier-ai-will-soon-be-limited-by-economic-and-security-constraints.md]] Access to frontier AI will soon be limited by economic and security constraints `pillar:capabilities` `score:0.33`
 - [[adaption-aims-big-with-autoscientist-an-ai-tool-t.md]] Adaption aims big with AutoScientist, an AI tool that helps models train themsel `pillar:capabilities` `score:0.305`
 - [[ageronhandson-ml.md]] ageron/handson-ml `pillar:capabilities` `score:0.51`
+- [[ai-datacenters-were-built-for-gpus-what-happens-when-you-remove-the-gpus.md]] AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs? `pillar:capabilities` `score:0.345`
 - [[ai-errno2-values.md]] AI errno(2) values `pillar:capabilities` `score:0.31`
 - [[ai-has-a-multiplying-effect-on-existing-technical-skills.md]] AI has a multiplying effect on existing technical skills `pillar:capabilities` `score:0.55`
 - [[ai-humanity-and-dr-manhattan-syndrome-a-communications-intervention.md]] AI, "Humanity", and Dr. Manhattan Syndrome: A Communications Intervention `pillar:capabilities` `score:0.33`
@@ -109,6 +111,7 @@
 - [[interfaze-a-new-model-architecture-built-for-high.md]] Interfaze: A new model architecture built for high accuracy at scale `pillar:capabilities` `score:0.205`
 - [[interpretmlinterpret.md]] interpretml/interpret `pillar:capabilities` `score:0.53`
 - [[intro-to-tla-for-the-llm-era-prompt-your-way-to-victory.md]] Intro to TLA+ for the LLM Era: Prompt Your Way to Victory `pillar:capabilities` `score:0.395`
+- [[investigating-how-prompt-politeness-affects-llm-accuracy-2025.md]] Investigating how prompt politeness affects LLM accuracy (2025) `pillar:capabilities` `score:0.48`
 - [[iran-starts-bitcoin-backed-ship-insurance-for-hormuz-strait.md]] Iran starts Bitcoin-backed ship insurance for Hormuz strait `pillar:capabilities` `score:0.405`
 - [[irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-ne.md]] IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you `pillar:capabilities` `score:0.48`
 - [[is-xai-a-neocloud-now.md]] Is xAI a neocloud now? `pillar:capabilities` `score:0.3`
@@ -570,6 +573,7 @@
 - [[unstructured-iounstructured.md]] Unstructured-IO/unstructured `pillar:patterns` `score:0.615`
 - [[usestrixstrix.md]] usestrix/strix `pillar:patterns` `score:0.58`
 - [[vectifyaipageindex.md]] VectifyAI/PageIndex `pillar:patterns` `score:0.615`
+- [[vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880.md]] Vertu wants CEOs to run companies from an AI foldable starting at $6,880 `pillar:patterns` `score:0.445`
 - [[voice-ai-in-india-is-hard-wispr-flow-is-betting-o.md]] Voice AI in India is hard. Wispr Flow is betting on it anyway. `pillar:patterns` `score:0.48`
 - [[we-mould-trees-to-grow-into-the-shape-of-chairs.md]] 'We mould trees to grow into the shape of chairs' `pillar:patterns` `score:0.41`
 - [[we-tried-googles-ai-glasses-and-theyre-almost-there.md]] We tried Google’s AI glasses and they’re almost there `pillar:patterns` `score:0.48`

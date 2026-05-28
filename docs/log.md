@@ -1090,3 +1090,9 @@
 - create: justice-dept-is-said-to-open-criminal-inquiry-of-e-jean-carroll.md
 - create: why-google8217s-ai-can8217t-spell-google-or-anything-else.md
 - create: show-hn-open-source-ai-racing-harness.md
+
+## [2026-05-28 18:04] sync v3 | 4 new | pillars: {'capabilities': 3, 'patterns': 1}
+- create: a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot.md
+- create: ai-datacenters-were-built-for-gpus-what-happens-when-you-remove-the-gpus.md
+- create: investigating-how-prompt-politeness-affects-llm-accuracy-2025.md
+- create: vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880.md

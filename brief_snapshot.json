@@ -1,7 +1,7 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T12:02:37.633716+08:00",
-  "item_count": 39,
+  "generated_at": "2026-05-28T18:04:14.610270+08:00",
+  "item_count": 43,
   "items": [
     {
       "id": "im-tired-of-talking-to-ai",
@@ -147,6 +147,17 @@
       "date": "2026-05-28"
     },
     {
+      "id": "investigating-how-prompt-politeness-affects-llm-accuracy-2025",
+      "label": "Investigating how prompt politeness affects LLM accuracy (2025)",
+      "summary": "该研究探讨了提示语礼貌程度对大型语言模型（LLM）准确性的影响。实验发现，过度的礼貌或粗鲁可能降低模型表现，而适度礼貌的提示有助于提升输出质量。对AI产品经理而言，这意味着在设计对话系统或用户交互界面时，需要平衡提示的礼貌性以优化模型响应。商业上，可通过调整提示风格提升用户满意度，减少错误率；产品创新上可探索自适应礼貌策略。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48276429",
+      "date": "2026-05-28"
+    },
+    {
       "id": "area-attribute-extraction-and-aggregation-for-clip-based-class-incremental-learn",
       "label": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Lear",
       "summary": "本文提出AREA方法，用于基于CLIP的类增量学习（CIL）。CIL旨在让模型在不遗忘旧知识的情况下学习新类别。传统方法依赖固定模板提示进行图文匹配，但面临灾难性遗忘问题。AREA通过提取图像的属性特征（如颜色、形状），并聚合新类与旧类共有的属性，从而增强CLIP的判别能力。该方法无需存储大量旧样本，仅保留属性知识，显著降低存储开销。对于AI产品而言，该技术可支持持续更新的图像识别、智能相册等场景，实现模型在部署后不断学习新类别，同时保持对旧类别的识别精度，提升产品的适应性和用户价值。",
@@ -246,6 +257,17 @@
       "date": "2026-05-28"
     },
     {
+      "id": "vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880",
+      "label": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+      "summary": "Vertu推出基于开源Hermes项目的AI折叠手机，起售价6880美元。该产品将AI代理工作流与企业集成（如CRM、ERP）深度融合，同时采用超奢华材质与手工打造。面向CEO等高端用户，强调通过自然语言指挥AI完成商业决策支持、日程管理、数据洞察等任务，无需额外IT支持。技术上利用Hermes开源框架实现多步骤自动化任务编排，并内嵌隐私保护机制。此举将AI从软件体验延伸至硬件奢侈品，探索了超高价位的企业级AI终端市场，但受众极小。",
+      "pm_score": 0.445,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+      "date": "2026-05-28"
+    },
+    {
       "id": "why-google8217s-ai-can8217t-spell-google-or-anything-else",
       "label": "Why Google&#8217;s AI can&#8217;t spell Google (or anything else)",
       "summary": "该文章批评谷歌AI在拼写能力上的严重缺陷，连自己公司名‘Google’都拼错。技术要点在于大型语言模型在处理单词字母级别细节时存在根本性弱点，因为其基于token而非字符的学习方式导致拼写不准确。商业价值上，这暴露了AI产品在基础事实准确性上的风险，可能损害用户信任和品牌形象。产品创新角度，该问题提示需要引入拼写校验、字符级注意力机制或外部知识库增强。对于AI产品经理而言，这强调了在面向用户的应用中必须重视细节质量和多模态验证。",
@@ -334,6 +356,17 @@
       "date": "2026-05-28"
     },
     {
+      "id": "a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot",
+      "label": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "summary": "标题暗示一种受自然启发的新型机器学习架构，能够探索传统AI无法触及的复杂问题领域。该技术可能模仿生物进化或生态系统的自我优化机制，实现突破性的发现能力（“尤里卡”时刻）。对于AI产品经理，这类能力可应用于科研自动化、药物发现、复杂系统优化等场景，开辟传统数据驱动模型无法应对的高维非结构化问题空间，具有潜在的商业颠覆性。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48305446",
+      "date": "2026-05-28"
+    },
+    {
       "id": "startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-yo",
       "label": "Startup Battlefield 200 applications close today: Nominate a founder or submit y",
       "summary": "Startup Battlefield 200创业大赛申请今日截止，优胜者可获得10万美元无股权融资、全球曝光、直接对接投资人，并在TechCrunch Disrupt舞台发布产品。AI产品经理可借此机会展示创新项目，加速产品与资本对接。",
@@ -389,6 +422,17 @@
       "date": "2026-05-28"
     },
     {
+      "id": "ai-datacenters-were-built-for-gpus-what-happens-when-you-remove-the-gpus",
+      "label": "AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs?",
+      "summary": "文章探讨了AI数据中心传统上为GPU优化设计，但如果移除GPU可能带来的影响。技术要点包括新型计算架构（如定制ASIC、FPGA、NPU）的兴起，以及通过软件优化减少对GPU的依赖。商业价值在于降低硬件成本、规避供应链风险，并提升算力利用效率。产品创新方向涉及更灵活的模型部署策略，以及面向边缘和云端异构计算的产品设计。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48269357",
+      "date": "2026-05-28"
+    },
+    {
       "id": "stress-disrupts-hippocampal-integration-of-overlapping-events-memory-inference",
       "label": "Stress disrupts hippocampal integration of overlapping events, memory inference",
       "summary": "该研究揭示了压力如何破坏海马体对重叠事件的整合，从而影响记忆推理能力。海马体在编码和回忆相互关联的记忆中起关键作用，压力会干扰这一过程，导致推理错误。对AI产品经理而言，这暗示了情感状态或外部干扰对AI记忆系统（如长期上下文、推理模块）的影响。商业价值体现在开发更具鲁棒性的AI助手时，需考虑模拟压力条件或设计抗干扰的记忆架构。产品创新可能包括引入情感调节机制或动态记忆整合策略。",
@@ -434,7 +478,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 938,
-    "edges": 58486
+    "real_nodes": 942,
+    "edges": 59429
   }
 }
