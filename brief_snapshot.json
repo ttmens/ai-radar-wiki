@@ -1,7 +1,7 @@
 {
   "date": "2026-05-30",
-  "generated_at": "2026-05-30T00:02:03.065176+08:00",
-  "item_count": 13,
+  "generated_at": "2026-05-30T06:04:14.993842+08:00",
+  "item_count": 25,
   "items": [
     {
       "id": "please-use-ai",
@@ -12,6 +12,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48323101",
+      "date": "2026-05-30"
+    },
+    {
+      "id": "notes-from-the-mistral-ai-now-summit-in-paris",
+      "label": "Notes from the Mistral AI Now Summit in Paris",
+      "summary": "Mistral AI 在巴黎峰会上发布了多项前沿能力，包括更高效的 MoE 架构、超长上下文窗口以及开源模型的新版本。这些技术突破显著降低了推理成本，提升了实时交互体验，为产品经理提供了更强的本地部署和定制化选项。商业价值在于帮助企业以更低门槛获得高质量 AI 能力，加速产品创新。",
+      "pm_score": 0.58,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48325340",
       "date": "2026-05-30"
     },
     {
@@ -37,6 +48,28 @@
       "date": "2026-05-30"
     },
     {
+      "id": "liquid-ai-reveals-8b-a1b-moe-trained-on-38t",
+      "label": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+      "summary": "Liquid AI 发布了 8B-A1B 混合专家模型（MoE），总参数量 8B 而激活参数量仅 1B，训练数据量达 38T tokens。该架构在保持高效推理的同时大幅降低计算成本，适合资源受限场景。对产品经理而言，这意味着可在移动端或边缘设备实现接近大模型的性能，并为细分任务定制专家模块提供灵活性。其商业价值在于更低部署成本和更快响应速度，有望推动对话系统、实时分析等产品的落地。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48325306",
+      "date": "2026-05-30"
+    },
+    {
+      "id": "what-happens-when-companies-become-too-ai-pilled",
+      "label": "What happens when companies become too AI-pilled?",
+      "summary": "Box创始人Aaron Levie指出，企业决策者往往在不真正理解员工工作内容的情况下，就盲目决定用AI替代人类，他将此现象称为“AI精神病”（AI psychosis）。例如，项目管理公司ClickUp近期裁减22%员工，转而使用AI agent。这一趋势警示产品经理：依赖AI替代人力需谨慎评估实际工作复杂性，避免因认知偏差导致产品价值损失。技术层面需关注AI agent能力边界，商业层面应平衡效率与员工体验，产品创新需确保AI工具切实提升而非简化替代核心流程。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+      "date": "2026-05-30"
+    },
+    {
       "id": "show-hn-aislop-a-cli-for-catching-ai-generated-code-smells",
       "label": "Show HN: AISlop, a CLI for catching AI generated code smells",
       "summary": "AISlop 是一个命令行工具，专门用于检测 AI 生成的代码中的“代码坏味”（code smells）。它通过静态分析技术识别常见的模式问题，如冗余逻辑、不合理命名、缺乏注释等，帮助开发者快速定位并修正由大语言模型生成的代码质量缺陷。该工具降低了人工审查 AI 代码的成本，提升了 AI 编程辅助产品的输出可靠性和可维护性，对于构建更可信的 AI 编码助手具有直接商业价值。产品创新在于将传统静态代码分析适配到 AI 生成内容的独特场景。",
@@ -45,6 +78,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48322956",
+      "date": "2026-05-30"
+    },
+    {
+      "id": "cognition8217s-scott-wu-says-ai-coding-agents-shouldn8217t-replace-humans",
+      "label": "Cognition&#8217;s Scott Wu says AI coding agents shouldn&#8217;t replace humans",
+      "summary": "Cognition 公司 CEO Scott Wu 表示，其旗下知名的 AI 编码代理 Devin 的设计初衷并非取代人类程序员，而是作为辅助工具提升开发效率。Wu 强调，AI 应该增强而非替代人类在编程中的核心角色，尤其在复杂系统设计和需求理解方面。这一思路反映了当前 AI 产品在编程领域的主流模式：人机协作，即 AI 处理重复性任务，人类负责创意与决策。Devin 的成功在于其能自主调试、规划任务，但仍需开发者监督。这一观点对 AI 产品经理的启示是：在构建开发者工具时，应聚焦于增强而非替代，确保产品与现有工作流程无缝衔接，同时关注开发者信任与长期采用率。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
       "date": "2026-05-30"
     },
     {
@@ -59,6 +103,39 @@
       "date": "2026-05-30"
     },
     {
+      "id": "does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do",
+      "label": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
+      "summary": "Box创始人Aaron Levie指出CEO普遍存在“AI精神病”——即高估AI替代人类工作的能力，却对具体工作内容缺乏理解。这一现象在ClickUp裁员22%以部署AI代理的案例中得以体现。产品经理需警惕此类认知偏差，在推动AI产品落地时，应深入评估AI对实际业务流程和岗位职责的真实影响，避免因过度乐观导致战略失误。核心启示：AI应增强而非简单替代人类工作。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
+      "date": "2026-05-30"
+    },
+    {
+      "id": "after-nvidia8217s-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650",
+      "label": "After Nvidia&#8217;s $20B not-acqui-hire, AI chip startup Groq reportedly raisin",
+      "summary": "AI芯片初创公司Groq正寻求6.5亿美元内部融资，战略重心从硬件转向AI推理（Inference），即优化AI模型响应提示词的过程。这一转型反映了AI产品对高效推理能力的需求日益增长，尤其在Nvidia斥资200亿美元进行人才并购的背景下，Groq试图在推理市场建立差异化优势。对于AI产品经理而言，Groq的融资与转型信号显示：推理优化正成为产品竞争力关键，推理基础设施的软硬结合或催生新商业模式。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "date": "2026-05-30"
+    },
+    {
+      "id": "so-you8217ve-heard-these-ai-terms-and-nodded-along-let8217s-fix-that",
+      "label": "So you&#8217;ve heard these AI terms and nodded along; let&#8217;s fix that",
+      "summary": "本文梳理了AI领域涌现的大量新术语和行话，为产品经理提供了一份核心词汇表，涵盖从基础概念（如大语言模型、检索增强生成）到前沿名词（如智能体、多模态）的清晰定义。对于AI产品经理而言，理解这些术语有助于与技术团队高效沟通、准确把握产品能力边界，并能在行业交流中展现专业度。文章不仅解释字面含义，还点明各术语背后的技术演进逻辑，能帮助PM快速建立AI知识框架，避免因术语误解导致决策偏差。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "date": "2026-05-30"
+    },
+    {
       "id": "kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy",
       "label": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
       "summary": "Kiwibit推出的AI智能鸟食器，集成了AI图像识别技术，可自动识别到访鸟类的种类，并通过配套App提供类似宝可梦的收集体验。该产品将AI能力与自然观察结合，降低观鸟门槛，吸引普通用户参与。商业上，它属于AI赋能的消费级硬件，通过游戏化设计提升用户粘性，并可探索数据订阅、稀有鸟类提示等增值服务。技术关键在于轻量级视觉模型在边缘设备上的实时推理，以及不断更新的鸟类数据库。产品创新在于将被动观察转化为主动探索的互动体验。",
@@ -67,6 +144,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+      "date": "2026-05-30"
+    },
+    {
+      "id": "shift-will-clean-homes-for-free-to-train-future-robots",
+      "label": "Shift will clean homes for free to train future robots",
+      "summary": "Shift公司通过提供免费家庭清洁服务，在真实环境中收集大量数据，用于训练未来的家务机器人。这种“服务换数据”模式降低了数据采集成本，获取了高真实度的场景和行为数据，加速机器人能力迭代。对AI产品经理而言，这一策略展示了如何将产品服务与数据收集相结合，构建数据飞轮，同时兼顾用户价值与长期技术积累。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48327962",
       "date": "2026-05-30"
     },
     {
@@ -125,6 +213,28 @@
       "date": "2026-05-30"
     },
     {
+      "id": "captchas-can-still-detect-ai-agents",
+      "label": "CAPTCHAs can still detect AI agents",
+      "summary": "标题指出验证码（CAPTCHA）仍能有效检测AI代理，表明当前AI在绕过图灵测试类机制时存在明显局限。对AI产品经理而言，这意味着部署AI自动化任务（如表单填写、数据抓取）时需考虑验证码拦截风险，可能影响用户流程与转化率。产品创新方向包括设计更智能的人机协作验证方式，或利用AI模拟人类行为但必须符合伦理边界。商业价值在于凸显传统安全机制在AI时代的持续有效性，以及倒逼更友好的身份验证交互。",
+      "pm_score": 0.36,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48324910",
+      "date": "2026-05-30"
+    },
+    {
+      "id": "show-hn-zot-yet-another-coding-agent-harness",
+      "label": "Show HN: Zot – Yet another coding agent harness",
+      "summary": "Zot 是一个新型编码代理工具框架（harness），专注于简化 AI 编码助手的构建流程。它可能提供模块化设计、任务编排和集成能力，允许开发者快速搭建定制化的代码生成 agent。该工具借鉴了类似 Copilot 的模式，但强调灵活性和可扩展性，旨在降低编码 agent 的开发门槛。对于 AI 产品经理，这意味着可以更高效地实验和部署编码辅助功能，提升开发团队生产力。其产品创新在于将 agent 的构建过程标准化为可复用的 harness 模式。",
+      "pm_score": 0.36,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48319524",
+      "date": "2026-05-30"
+    },
+    {
       "id": "lucidrainspalm-rlhf-pytorch",
       "label": "lucidrains/PaLM-rlhf-pytorch",
       "summary": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
@@ -133,6 +243,17 @@
       "type": "github",
       "source_type": "github",
       "url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
+      "date": "2026-05-30"
+    },
+    {
+      "id": "ai-will-be-used-to-estimate-age-of-asylum-seekers-from-next-year",
+      "label": "AI will be used to estimate age of asylum seekers from next year",
+      "summary": "明年起，AI 系统将用于估算寻求庇护者的年龄，以解决缺乏身份文件时的年龄判定难题。技术要点可能结合面部特征分析、骨龄预估或语音识别，提升准确性与效率。商业价值在于为移民管理机构提供可扩展、低成本的年龄评估方案，减少人工误判与争议。产品创新体现在将 AI 嵌入关键行政决策流程，并需平衡隐私、公平与透明性，这对产品经理而言涉及可信 AI 设计、用户反馈机制与伦理审计。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48327222",
       "date": "2026-05-30"
     },
     {
@@ -145,10 +266,21 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
       "date": "2026-05-30"
+    },
+    {
+      "id": "show-hn-tiny-vllm-high-performance-llm-inference-engine-in-c-and-cuda",
+      "label": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "summary": "Tiny-vLLM 是一个用 C++ 和 CUDA 实现的高性能 LLM 推理引擎，专注于提升推理速度和降低资源消耗。对产品经理而言，其技术亮点在于极低的延迟和高效的 GPU 利用，可显著降低云推理成本或支持本地 / 边缘部署。商业价值体现在让中小企业也能负担高质量 AI 服务，产品创新点在于轻量化设计，易于集成到现有系统。该引擎适合对实时性要求高的场景，如聊天机器人、代码助手等。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48328184",
+      "date": "2026-05-30"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1000,
-    "edges": 64339
+    "real_nodes": 1012,
+    "edges": 65355
   }
 }

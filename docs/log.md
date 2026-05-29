@@ -1164,3 +1164,17 @@
 - create: final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket.md
 - create: kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy.md
 - create: this-chip-startup-just-raised-135m-on-a-bet-that-ai8217s-biggest-bottleneck-isn8.md
+
+## [2026-05-30 06:04] sync v3 | 13 new | pillars: {'capabilities': 7, 'patterns': 6}
+- create: notes-from-the-mistral-ai-now-summit-in-paris.md
+- create: shift-will-clean-homes-for-free-to-train-future-robots.md
+- create: show-hn-tiny-vllm-high-performance-llm-inference-engine-in-c-and-cuda.md
+- create: liquid-ai-reveals-8b-a1b-moe-trained-on-38t.md
+- create: show-hn-zot-yet-another-coding-agent-harness.md
+- create: captchas-can-still-detect-ai-agents.md
+- create: ai-will-be-used-to-estimate-age-of-asylum-seekers-from-next-year.md
+- create: so-you8217ve-heard-these-ai-terms-and-nodded-along-let8217s-fix-that.md
+- create: what-happens-when-companies-become-too-ai-pilled.md
+- create: after-nvidia8217s-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650.md
+- create: cognition8217s-scott-wu-says-ai-coding-agents-shouldn8217t-replace-humans.md
+- create: does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do.md
