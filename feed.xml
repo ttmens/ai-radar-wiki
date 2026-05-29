@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 28 May 2026 20:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 00:08:14 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -13,11 +13,35 @@
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
     <item>
+      <title>Claude Opus 4.8</title>
+      <link>https://news.ycombinator.com/item?id=48311647</link>
+      <guid isPermaLink="false">claude-opus-48</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic 发布的 Claude Opus 4.8 模型大幅提升了推理能力与上下文处理长度，支持更复杂的多轮对话与长文档分析。其对齐优化减少了幻觉，增强了可操控性，适合高精度场景如法律、医疗。PM 可将此能力集成到自动化工作流中，实现更智能的决策支持，降低人工审核成本。产品创新在于更自然的交互与更长的记忆窗口，推动从辅助工具向自主代理演进。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Five frontier LLMs disagree on 67% of 1k real-world fact-check claims</title>
       <link>https://news.ycombinator.com/item?id=48307887</link>
       <guid isPermaLink="false">five-frontier-llms-disagree-on-67-of-1k-real-world-fact-check-claims</guid>
       <pubDate>2026-05-29T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>最新研究显示，五个前沿大语言模型（LLMs）在1000个真实世界事实核查声明中，有67%的案例存在分歧。这意味着当前顶尖模型在事实性判断上远远不够可靠，对产品经理而言，直接依赖单一LLM进行事实输出存在高风险。技术上看，模型间一致性差可能源于训练数据、微调目标或解码策略的差异。商业价值在于需构建验证层——如引入多模型投票、检索增强或外部知识库校验——以提升可信度。产品创新方向包括开发事实一致性评分工具或专门的事实核查Agent，将LLM从‘事实提供者’转变为‘候选生成器’再由人类确认。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Dynamic Workflows in Claude Code</title>
+      <link>https://news.ycombinator.com/item?id=48311705</link>
+      <guid isPermaLink="false">dynamic-workflows-in-claude-code</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Claude Code 中的动态工作流（Dynamic Workflows）允许 AI 在编码过程中实时调整和生成任务序列，提升开发者效率。该模式以 Claude 为核心，根据上下文自动拆解复杂编程任务并动态协调子步骤，减少手动切换频率。产品创新在于将静态指令流转化为自适应流程，适用于持续集成、代码审查等场景。商业上可降低研发成本，加速交付。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions</title>
+      <link>https://news.ycombinator.com/item?id=48314363</link>
+      <guid isPermaLink="false">sam-altman-and-dario-amodei-are-both-walking-back-ai-jobs-apocalypse-predictions</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>OpenAI CEO Sam Altman 和 Anthropic CEO Dario Amodei 近期均收回此前关于AI将导致大规模失业的末日预测，转而强调AI对就业市场的影响将更为渐进和可控。这一转变暗示当前AI能力发展尚未达到完全替代人类的临界点，产品经理应关注人机协作增强模式而非纯替代，重新评估AI产品在职场中的定位——即辅助工具而非取代者。此举可能影响企业部署AI的策略，推动更务实的AI产品落地。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -37,6 +61,22 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Anthropic raises $65B in Series H funding at $965B post-money valuation</title>
+      <link>https://news.ycombinator.com/item?id=48313048</link>
+      <guid isPermaLink="false">anthropic-raises-65b-in-series-h-funding-at-965b-post-money-valuation</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic 完成 650 亿美元 H 轮融资，投后估值达 9650 亿美元，成为 AI 领域估值最高的私营公司之一。这一巨额融资凸显了 AI 基础设施和基础模型赛道的资本密集特性，也反映出投资者对前沿 AI 安全与能力研发的高度信心。对于 AI 产品经理而言，这笔资金将加速 Claude 系列模型的迭代与生态扩展，可能推动更强大的上下文理解、多模态能力以及企业级部署方案，同时加剧与大模型厂商的竞争格局，影响产品技术选型和商业化策略。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Various LLM Smells</title>
+      <link>https://news.ycombinator.com/item?id=48313810</link>
+      <guid isPermaLink="false">various-llm-smells</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文（源自 Hacker News）探讨了大语言模型（LLM）中普遍存在的“异味”（Smells）问题，类似于代码中的反模式，特指模型在推理、事实性、一致性等方面的常见缺陷。对于AI产品经理而言，理解这些“气味”有助于在产品开发中识别模型脆弱点，设计更稳健的输入/输出验证机制，降低幻觉和偏见风险。文章可能涉及Prompt注入、上下文遗忘、数值不敏感等具体案例，并给出评估或缓解建议。商业价值在于提升产品可靠性与用户信任，避免因模型错误导致的负面体验。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI d</title>
       <link>https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/</link>
       <guid isPermaLink="false">at-techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-dea</guid>
@@ -53,12 +93,36 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Anthropic releases Opus 4.8 with new &amp;#8216;dynamic workflow&amp;#8217; tool</title>
+      <link>https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/</link>
+      <guid isPermaLink="false">anthropic-releases-opus-48-with-new-8216dynamic-workflow8217-tool</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Anthropic 发布 Opus 4.8 模型，新增“动态工作流”工具，用于协调多个子代理群协同完成任务。该功能支持动态任务分配、上下文共享和结果汇总，使开发者能构建更复杂、自适应的 AI 工作流。商业价值在于降低多智能体系统的开发门槛，提升企业级自动化效率；产品创新体现在从单一模型响应转向可编排的代理协作模式，为 AI 应用带来更高灵活性和可扩展性。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>Visa invests in Replit to power agentic payments for developers</title>
       <link>https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/</link>
       <guid isPermaLink="false">visa-invests-in-replit-to-power-agentic-payments-for-developers</guid>
       <pubDate>2026-05-29T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Visa宣布投资AI编码平台Replit，旨在推动面向开发者的代理支付（agentic payments）能力。Visa透露已有超过1000名员工使用Replit进行原型设计和开发，此次合作将Replit的AI编程能力与Visa的支付基础设施结合，使开发者能够通过AI代理自动处理支付流程。该产品创新点在于将支付功能嵌入AI开发工作流，降低支付集成门槛，同时为Visa开辟开发者生态新入口。商业价值体现在Visa提前布局AI驱动的支付代理模式，扩大其在开发者群体中的影响力。</p></description>
       <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Asana acquires no-code agent-builder StackAI</title>
+      <link>https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/</link>
+      <guid isPermaLink="false">asana-acquires-no-code-agent-builder-stackai</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Asana 宣布收购无代码智能体构建平台 StackAI，将其整合到不断扩展的 AI 工作流工具套件中。此举旨在让用户无需编程即可创建和部署 AI 助手，自动化项目管理、任务分配、流程审批等重复性工作。StackAI 的技术将增强 Asana 的智能工作流能力，降低企业采用 AI 的门槛，提升团队协作效率。对于 AI 产品经理而言，这是“无代码 + Agent 模式”在产品协作领域的典型应用，体现了大模型落地于企业 SaaS 的可行路径，具有重要的商业和产品创新价值。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Anthropic raises $65 billion, nears $1T valuation ahead of IPO</title>
+      <link>https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/</link>
+      <guid isPermaLink="false">anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Anthropic完成650亿美元H轮融资，投后估值9650亿美元，接近万亿大关。此次融资可能是其IPO前的最后一轮私募，标志着AI基础模型公司已进入商业化成熟阶段。巨额资金将用于扩展大模型能力、研发下一代架构及全球基础设施部署，巩固其在LLM市场的领先地位。对AI产品经理而言，这预示着基础模型将更加聚焦企业级应用与垂直场景落地，同时也意味着市场竞争加剧，中小型创业公司面临更大压力。</p></description>
+      <category>💰 商业趋势</category>
     </item>
     <item>
       <title>Sesame, the conversational AI startup from Oculus founders, launches its iOS app</title>
@@ -93,6 +157,22 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>The internet is being rebuilt for machines</title>
+      <link>https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/</link>
+      <guid isPermaLink="false">the-internet-is-being-rebuilt-for-machines</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>AI智能体从实验走向生产，推动互联网基础设施重构。AWS、Cloudflare等云厂商正针对机器主导流量而非人类用户进行架构优化，如调整网络协议、缓存策略和计算资源分配。这一转变将带来更高效的AI推理、实时数据处理和自动化协作，但需重新设计安全模型与成本结构。产品经理应关注机器流量特性对应用交互、数据流和商业模式的影响，提前布局Agent原生服务。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Just like gold and oil, we&amp;#8217;ll soon be able to trade AI token futures</title>
+      <link>https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/</link>
+      <guid isPermaLink="false">just-like-gold-and-oil-we8217ll-soon-be-able-to-trade-ai-token-futures</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>大型交易所正设计围绕AI代币的衍生品，将AI代币从计算输出重新定义为类似电力、带宽的原材料输入。这一趋势反映了AI资源的商品化进程，使得AI代币可像黄金、石油一样进行期货交易。对产品经理而言，这标志着AI经济基础设施的成熟，可能催生新的定价模型、资源分配机制和商业模式，需关注代币化对AI产品开发、成本结构和市场准入的影响。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
       <title>2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026</title>
       <link>https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/</link>
       <guid isPermaLink="false">2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026</guid>
@@ -101,12 +181,36 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>Show HN: Ktx – Open-source executable context layer for data agents</title>
+      <link>https://news.ycombinator.com/item?id=48309986</link>
+      <guid isPermaLink="false">show-hn-ktx-open-source-executable-context-layer-for-data-agents</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Ktx 是一个开源的可执行上下文层，专为数据代理（data agents）设计，旨在提供持久化、可动态执行的上下文管理能力。技术要点：通过可执行的上下文层，代理不仅能读取历史信息，还能触发预设操作，增强自主决策与任务协调。商业价值：降低构建上下文感知 AI 代理的开发门槛，推动开源生态下多代理协作与长期记忆的落地。产品创新：将传统静态上下文扩展为可执行逻辑单元，实现“上下文即代码”，提升 Agent 在复杂工作流中的适应性和可靠性。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue</title>
       <link>https://llmgame.scalex.dev</link>
       <guid isPermaLink="false">show-hn-continue-yn-a-60-second-game-about-ai-agent-permission-fatigue</guid>
       <pubDate>2026-05-29T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>这是一个名为“Continue? Y/N”的60秒游戏，旨在模拟AI代理频繁请求权限导致的用户疲劳现象。游戏通过快速连续的是否选择，让玩家体验在AI代理执行任务时不断被要求授权的过程，揭示当前AI产品设计中权限管理对用户体验的负面影响。对AI产品经理而言，该设计点提醒在构建自主代理时需要更智能的权限策略，如一次性授权、可信域或基于规则的许可，以减少用户中断和摩擦。该游戏本身是产品创新的一种原型，用于探索人性化交互边界。</p></description>
       <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml</title>
+      <link>https://news.ycombinator.com/item?id=48280451</link>
+      <guid isPermaLink="false">coalton-is-an-efficient-statically-typed-lisp-with-ideas-from-haskell-and-ocaml</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Coalton 是一种高效、静态类型的 Lisp 语言，融合了 Haskell 和 OCaml 的设计理念。它为 AI 产品经理提供了一种兼具 Lisp 灵活性与静态类型安全性的编程工具，有助于构建更可靠、高性能的 AI 系统。静态类型可减少运行时错误，提升代码质量，而 Lisp 的宏和元编程能力则便于快速迭代和领域特定语言开发。该语言在 AI 框架底层或推理引擎中可能具有应用价值，尤其适合对性能和正确性要求高的场景。对于产品经理而言，了解这类语言特性有助于评估技术选型对产品稳定性和开发效率的潜在影响。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Using Tailscale with an OrbStack VM on macOS</title>
+      <link>https://news.ycombinator.com/item?id=48272545</link>
+      <guid isPermaLink="false">using-tailscale-with-an-orbstack-vm-on-macos</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文介绍如何在macOS上使用Tailscale连接OrbStack虚拟机，实现安全的网络通信。OrbStack作为轻量级虚拟机管理器，结合Tailscale的零信任网络方案，可简化开发环境中的跨设备访问。对于AI产品经理而言，此类基础设施工具能降低团队协作时的网络配置复杂度，提升远程开发或模型部署的效率。技术要点包括配置Tailscale子网路由、设置OrbStack VM网络模式等。商业价值体现在减少VPN依赖、优化开发体验。产品创新在于将现代网络连接方案与轻量虚拟化结合。</p></description>
+      <category>🔧 工具生态</category>
     </item>
     <item>
       <title>I'm Tired of Talking to AI</title>
@@ -306,110 +410,6 @@
       <guid isPermaLink="false">why-google8217s-ai-can8217t-spell-google-or-anything-else</guid>
       <pubDate>2026-05-28T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>该文章批评谷歌AI在拼写能力上的严重缺陷，连自己公司名‘Google’都拼错。技术要点在于大型语言模型在处理单词字母级别细节时存在根本性弱点，因为其基于token而非字符的学习方式导致拼写不准确。商业价值上，这暴露了AI产品在基础事实准确性上的风险，可能损害用户信任和品牌形象。产品创新角度，该问题提示需要引入拼写校验、字符级注意力机制或外部知识库增强。对于AI产品经理而言，这强调了在面向用户的应用中必须重视细节质量和多模态验证。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips</title>
-      <link>https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/</link>
-      <guid isPermaLink="false">in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Snowflake与AWS签署为期五年、价值60亿美元的大单，用于采购AI CPU芯片。此举强化了AWS在AI基础设施领域的地位，同时冲击Nvidia在AI芯片市场的垄断。对AI产品经理而言，这意味着企业级AI应用的计算成本可能下降，且芯片供应多元化将推动更多定制化AI架构的出现，促进数据云与AI工作负载的深度融合。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>ClickHouse triples anualized revenue to $250M, charting a path toward an IPO</title>
-      <link>https://techcrunch.com/2026/05/27/clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo/</link>
-      <guid isPermaLink="false">clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>ClickHouse 作为高性能列式数据库，年营收翻三倍至 2.5 亿美元，并计划未来几年内进行 IPO。这一增长显示出市场对实时分析引擎的强劲需求，尤其在 AI 数据处理、日志分析和 BI 场景中，ClickHouse 通过极速查询性能和低成本存储优势，成为数据基础设施的关键组件。对 AI 产品经理而言，这意味着在选择数据后端时，可以考虑 ClickHouse 替代传统方案以支撑高并发、低延迟的 AI 特征服务或用户行为分析；同时其开源生态和商业化路径也为架构选型提供长期稳定性参考。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration</title>
-      <link>http://arxiv.org/abs/2605.28805v1</link>
-      <guid isPermaLink="false">omniverifier-m1-multimodal-meta-verifier-with-explicit-structured-recalibration</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出OmniVerifier-M1，一种多模态元验证器，通过显式结构化重校准机制提升多模态大语言模型的输出可靠性。其核心创新在于利用验证器生成的结构化推理链替代传统二元判断，实现对视觉输出结果的细粒度验证与校准。技术要点包括跨模态对齐、可解释性增强和错误传播抑制；商业价值体现在提升AI产品在医疗影像、自动驾驶等高风险场景的决策可信度；产品创新方面，该方案可无缝集成至现有MLLM流水线，推动通用基础模型的实际落地。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Skill-Conditioned Gated Self-Distillation for LLM Reasoning</title>
-      <link>http://arxiv.org/abs/2605.28791v1</link>
-      <guid isPermaLink="false">skill-conditioned-gated-self-distillation-for-llm-reasoning</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出了一种基于技能条件的门控自蒸馏方法，用于提升大语言模型（LLM）的推理能力。与传统方法依赖参考答案等可信特权信息不同，该方法探索能否利用非完全可信的特权信息（如成功轨迹）来生成更密集的token级监督信号，从而将稀疏的验证结果转化为细粒度的训练信号。这项技术有助于降低LLM推理训练中对高质量标注数据的依赖，可能推动模型自我改进能力的提升，对降低产品开发成本、增强模型在复杂推理场景的实用性具有潜在商业价值。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact</title>
-      <link>http://arxiv.org/abs/2605.28812v1</link>
-      <guid isPermaLink="false">beyond-binary-sim-to-real-dexterous-manipulation-with-physics-grounded-contact-r</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出了一种基于物理接地接触表示的 sim-to-real 强化学习方法，旨在解决灵巧操作中真实数据采集困难的问题。通过建模接触物理特性，缩小模拟与现实的差距，使触觉等高信息密度传感模态能在训练中被有效利用。该方法降低了机器人灵巧操作部署的数据成本，提升了 sim-to-real 迁移的鲁棒性，为工业和服务机器人实现精细操作提供了可规模化方案。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Valve raises Steam Deck prices</title>
-      <link>https://news.ycombinator.com/item?id=48297976</link>
-      <guid isPermaLink="false">valve-raises-steam-deck-prices</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Valve 宣布上调 Steam Deck 掌机价格，主要受全球汇率波动和组件成本上升影响。虽然该事件不直接涉及 AI 技术，但对 AI 产品经理的启示在于：硬件成本波动可能影响边缘 AI 部署的硬件选择，同时提醒注意汇率风险对硬件供应链定价策略的影响。Steam Deck 作为便携游戏设备，其价格调整可能改变化算力/价格比，影响在端侧运行 AI 模型的设备选型。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Tech CEOs are apparently suffering from AI psychosis</title>
-      <link>https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/</link>
-      <guid isPermaLink="false">tech-ceos-are-apparently-suffering-from-ai-psychosis</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>本文指出科技公司CEO们普遍陷入“AI精神病”状态，对AI带来的生产力提升抱有不切实际的宗教式信仰。Box CEO Aaron Levie评论称CEO尤其易受此影响。产品经理需警惕这种过度乐观情绪，理性评估AI实际落地能力，避免将AI视为万能药，而应关注具体场景中的技术限制与商业价值验证。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>A Eureka machine that thinks like nature and explores what AI cannot</title>
-      <link>https://news.ycombinator.com/item?id=48305446</link>
-      <guid isPermaLink="false">a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>标题暗示一种受自然启发的新型机器学习架构，能够探索传统AI无法触及的复杂问题领域。该技术可能模仿生物进化或生态系统的自我优化机制，实现突破性的发现能力（“尤里卡”时刻）。对于AI产品经理，这类能力可应用于科研自动化、药物发现、复杂系统优化等场景，开辟传统数据驱动模型无法应对的高维非结构化问题空间，具有潜在的商业颠覆性。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Startup Battlefield 200 applications close today: Nominate a founder or submit y</title>
-      <link>https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/</link>
-      <guid isPermaLink="false">startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-yo</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Startup Battlefield 200创业大赛申请今日截止，优胜者可获得10万美元无股权融资、全球曝光、直接对接投资人，并在TechCrunch Disrupt舞台发布产品。AI产品经理可借此机会展示创新项目，加速产品与资本对接。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>China is increasingly keeping its best AI talent to itself</title>
-      <link>https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/</link>
-      <guid isPermaLink="false">china-is-increasingly-keeping-its-best-ai-talent-to-itself</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>中国AI领域正培养出世界级人才，但北京政府越来越倾向于限制这些人才流向海外，以保持技术自主和竞争优势。对AI产品经理而言，这意味着本土人才池扩大，团队建设成本可能降低，但国际视野和合作可能受限。产品创新需更多依赖国内技术栈和生态，商业价值体现在减少对海外高端人才的依赖，加速本土AI产品的迭代与落地。此趋势也推动了中国AI生态的闭环发展，促使产品经理更关注本土化需求与政策导向。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Show HN: Demon – open-source real-time music diffusion engine, 25Hz local GPU</title>
-      <link>https://daydreamlive.github.io/DEMON/</link>
-      <guid isPermaLink="false">show-hn-demon-open-source-real-time-music-diffusion-engine-25hz-local-gpu</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Demon 是一个开源的实时音乐扩散引擎，能在本地 GPU 上以 25Hz 的频率生成音乐，实现低延迟交互。技术要点包括端到端的扩散模型推理优化、本地部署降低云端依赖、实时生成适合音乐创作工具集成。商业价值在于开源特性可降低开发成本，赋能音乐教育、直播、游戏等场景的产品创新。对 AI 产品经理而言，这是一个将生成式 AI 从“生成”推向“实时互动”的关键范式，有望催生新型音乐编辑器和沉浸式体验。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS</title>
-      <link>https://news.ycombinator.com/item?id=48295071</link>
-      <guid isPermaLink="false">show-hn-open-source-workspace-maildocsspreadsheetdrive-webios</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该开源工作空间项目整合了邮件、文档、电子表格和云盘四大核心办公功能，支持Web与iOS跨端使用。对AI产品经理而言，其价值在于提供了一个可自托管、可扩展的底层办公套件框架，便于后续接入AI能力（如智能写作、自动总结、邮件分类等），降低从零构建集成式AI办公产品的门槛。开源模式也利于社区贡献AI插件，形成生态。商业上可作为企业私有化部署的协作基座，产品创新体现在将分散的办公模块统一为开源方案。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS</title>
-      <link>https://news.ycombinator.com/item?id=48297467</link>
-      <guid isPermaLink="false">gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了Gemini、Gopher等替代HTTPS的互联网协议，分析了它们在去中心化、轻量级和隐私保护方面的优势。对于AI产品经理而言，这些协议可能催生新的应用场景，如基于去中心化协议的AI服务、边缘计算与轻量级AI模型分发，以及隐私优先的个性化推荐系统。商业价值在于绕过传统互联网的带宽和审查限制，为AI产品提供更灵活、低成本的部署路径，同时增强用户数据控制权。产品创新点包括结合Gemini协议的文本优先AI交互界面，以及利用Gopher协议实现低带宽环境下的大模型检索。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
