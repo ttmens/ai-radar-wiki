@@ -1144,3 +1144,8 @@
 - create: protestware-for-coding-agents.md
 - create: amazon-scraps-ai-leaderboard-to-stop-workers-chasing-usage-scores.md
 - create: glean8217s-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling.md
+
+## [2026-05-29 18:01] sync v3 | 3 new | pillars: {'patterns': 1, 'capabilities': 2}
+- create: alphacepvosk-api.md
+- create: claude-code-everything-you-can-configure-that-the-docs-dont-tell-you.md
+- create: the-mysterious-hy3-llm-is-topping-openrouter-model-rankings-by-a-large-margin.md

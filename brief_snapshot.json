@@ -1,7 +1,7 @@
 {
   "date": "2026-05-29",
-  "generated_at": "2026-05-29T12:03:05.910596+08:00",
-  "item_count": 37,
+  "generated_at": "2026-05-29T18:01:23.581765+08:00",
+  "item_count": 40,
   "items": [
     {
       "id": "claude-opus-48",
@@ -23,6 +23,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48307887",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "alphacepvosk-api",
+      "label": "alphacep/vosk-api",
+      "summary": "alphacep/vosk-api 是一个开源的离线语音识别 API，支持 Android、iOS、树莓派及服务器端，提供 Python、Java、C# 和 Node 等多种语言绑定。其核心价值在于无需联网即可实时转写语音，大幅降低延迟和带宽成本，保障用户隐私。对于 AI 产品经理，该技术可赋能智能家居、车载、移动端等边缘场景，实现本地化语音交互，减少对云端依赖，具有显著的商业潜力（如节省服务器费用、提升离线体验）。产品创新体现在轻量级、跨平台、易集成，适合快速构建语音输入功能。",
+      "pm_score": 0.58,
+      "pillar": "capabilities",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/alphacep/vosk-api",
       "date": "2026-05-29"
     },
     {
@@ -180,6 +191,17 @@
       "date": "2026-05-29"
     },
     {
+      "id": "the-mysterious-hy3-llm-is-topping-openrouter-model-rankings-by-a-large-margin",
+      "label": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+      "summary": "Hy3 是一个匿名发布的 LLM，在 OpenRouter 平台模型排行榜上以显著优势领先。该模型通过创新的训练方法或架构实现了超越主流模型的性能，但具体细节尚未公开。对 AI 产品经理而言，这意味着需要关注新模型的选型机会，评估其 Api 成本、推理速度及适用场景，同时警惕黑箱模型带来的合规和可靠性风险。Hy3 的崛起可能引发新一轮模型竞争，推动头部厂商加速技术迭代。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48317294",
+      "date": "2026-05-29"
+    },
+    {
       "id": "sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app",
       "label": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
       "summary": "Sesame，由Oculus创始人创办的对话式AI初创公司，近日推出iOS应用，将其AI代理开放给公众。该应用主打更自然的双向交互体验，旨在摆脱传统聊天机器人的机械感，让用户感觉更像在与真人对话。这一产品创新体现了对话式AI向拟人化、流畅交互的演进方向，对产品经理而言，标志着移动端AI代理从功能性工具向情感化、场景化服务的转型，可能重塑用户与AI的互动范式。",
@@ -334,6 +356,17 @@
       "date": "2026-05-29"
     },
     {
+      "id": "claude-code-everything-you-can-configure-that-the-docs-dont-tell-you",
+      "label": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+      "summary": "本文揭示了Claude Code（Anthropic的AI编码助手）中大量文档未提及的配置项和高级设置，包括环境变量、自定义快捷键、输出格式调整、上下文窗口优化等。对于AI产品经理而言，这些“隐藏能力”意味着可以更灵活地定制产品行为，满足不同开发者工作流需求，提升用户粘性和效率。通过暴露这些配置，Claude Code展现了更强的可扩展性和企业级适配潜力，同时为竞品分析提供了差异化功能参考。理解这些底层配置逻辑，有助于在产品规划中设计更智能的默认值与用户控制权平衡方案。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48318174",
+      "date": "2026-05-29"
+    },
+    {
       "id": "just-like-gold-and-oil-we8217ll-soon-be-able-to-trade-ai-token-futures",
       "label": "Just like gold and oil, we&#8217;ll soon be able to trade AI token futures",
       "summary": "大型交易所正设计围绕AI代币的衍生品，将AI代币从计算输出重新定义为类似电力、带宽的原材料输入。这一趋势反映了AI资源的商品化进程，使得AI代币可像黄金、石油一样进行期货交易。对产品经理而言，这标志着AI经济基础设施的成熟，可能催生新的定价模型、资源分配机制和商业模式，需关注代币化对AI产品开发、成本结构和市场准入的影响。",
@@ -412,7 +445,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 984,
-    "edges": 62350
+    "real_nodes": 987,
+    "edges": 63338
   }
 }
