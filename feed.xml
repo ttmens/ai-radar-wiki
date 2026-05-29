@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 29 May 2026 08:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 12:00:55 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -26,6 +26,14 @@
       <guid isPermaLink="false">five-frontier-llms-disagree-on-67-of-1k-real-world-fact-check-claims</guid>
       <pubDate>2026-05-29T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>最新研究显示，五个前沿大语言模型（LLMs）在1000个真实世界事实核查声明中，有67%的案例存在分歧。这意味着当前顶尖模型在事实性判断上远远不够可靠，对产品经理而言，直接依赖单一LLM进行事实输出存在高风险。技术上看，模型间一致性差可能源于训练数据、微调目标或解码策略的差异。商业价值在于需构建验证层——如引入多模型投票、检索增强或外部知识库校验——以提升可信度。产品创新方向包括开发事实一致性评分工具或专门的事实核查Agent，将LLM从‘事实提供者’转变为‘候选生成器’再由人类确认。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>alphacep/vosk-api</title>
+      <link>https://github.com/alphacep/vosk-api</link>
+      <guid isPermaLink="false">alphacepvosk-api</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>alphacep/vosk-api 是一个开源的离线语音识别 API，支持 Android、iOS、树莓派及服务器端，提供 Python、Java、C# 和 Node 等多种语言绑定。其核心价值在于无需联网即可实时转写语音，大幅降低延迟和带宽成本，保障用户隐私。对于 AI 产品经理，该技术可赋能智能家居、车载、移动端等边缘场景，实现本地化语音交互，减少对云端依赖，具有显著的商业潜力（如节省服务器费用、提升离线体验）。产品创新体现在轻量级、跨平台、易集成，适合快速构建语音输入功能。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -141,6 +149,14 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin</title>
+      <link>https://news.ycombinator.com/item?id=48317294</link>
+      <guid isPermaLink="false">the-mysterious-hy3-llm-is-topping-openrouter-model-rankings-by-a-large-margin</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Hy3 是一个匿名发布的 LLM，在 OpenRouter 平台模型排行榜上以显著优势领先。该模型通过创新的训练方法或架构实现了超越主流模型的性能，但具体细节尚未公开。对 AI 产品经理而言，这意味着需要关注新模型的选型机会，评估其 Api 成本、推理速度及适用场景，同时警惕黑箱模型带来的合规和可靠性风险。Hy3 的崛起可能引发新一轮模型竞争，推动头部厂商加速技术迭代。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Sesame, the conversational AI startup from Oculus founders, launches its iOS app</title>
       <link>https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/</link>
       <guid isPermaLink="false">sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app</guid>
@@ -250,6 +266,14 @@
       <guid isPermaLink="false">tiny-but-trusted-efficient-vision-language-reasoning-for-time-series-anomaly-det</guid>
       <pubDate>2026-05-29T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文介绍一种高效且可信的视觉-语言模型方法，专门用于时间序列异常检测。尽管VLM在诸多任务中表现优异，但在顺序数据的异常模式识别上效果不佳。本研究提出一个小型但可靠的解决方案，在保持高性能的同时降低计算开销。产品经理可关注其如何将多模态能力应用于工业监控、设备故障预测等场景，降低成本并提升实时检测精度，具有明确的商业化潜力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Claude Code – Everything You Can Configure That the Docs Don't Tell You</title>
+      <link>https://news.ycombinator.com/item?id=48318174</link>
+      <guid isPermaLink="false">claude-code-everything-you-can-configure-that-the-docs-dont-tell-you</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文揭示了Claude Code（Anthropic的AI编码助手）中大量文档未提及的配置项和高级设置，包括环境变量、自定义快捷键、输出格式调整、上下文窗口优化等。对于AI产品经理而言，这些“隐藏能力”意味着可以更灵活地定制产品行为，满足不同开发者工作流需求，提升用户粘性和效率。通过暴露这些配置，Claude Code展现了更强的可扩展性和企业级适配潜力，同时为竞品分析提供了差异化功能参考。理解这些底层配置逻辑，有助于在产品规划中设计更智能的默认值与用户控制权平衡方案。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -387,30 +411,6 @@
       <pubDate>2026-05-28T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了企业自主训练AI模型的价值与路径，强调通过自研模型可实现对数据主权、模型行为和成本的完全控制，尤其适用于垂直场景的深度定制。技术要点包括选择预训练基座、利用LoRA等高效微调方法降低计算开销，以及构建数据飞轮持续优化模型。商业价值体现在避免API依赖带来的供应商锁定和长期成本不确定性，同时可构建差异化产品壁垒。产品创新上，自训练模型能更灵活地适配用户意图，支持隐私合规与离线部署，为AI原生产品提供底层能力支撑。</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Your SEO strategy is optimized for a search engine that no longer exists.</title>
-      <link>https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/</link>
-      <guid isPermaLink="false">your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google I/O 大会正式将 AI 生成答案置于搜索核心，传统基于“10 条蓝色链接”的 SEO 策略已失效。品牌几乎无法洞察 AI 如何向用户描述自己，这彻底改变了信息获取与流量分配的规则。对 AI 产品经理而言，需关注两大技术要点：一是搜索从“链接检索”转向“生成式回答”，用户直接得到结论而非入口；二是品牌需要新的可见性策略，通过结构化数据、权威内容等方式影响 AI 输出。商业价值在于率先适应者能抢占搜索新入口流量，产品创新方向包括构建 AI 友好的内容体系与监测 AI 摘要的工具。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>CaMBRAIN: Real-time, Continuous EEG Inference with Causal State Space Models</title>
-      <link>http://arxiv.org/abs/2605.28792v1</link>
-      <guid isPermaLink="false">cambrain-real-time-continuous-eeg-inference-with-causal-state-space-models</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出CaMBRAIN，一种基于因果状态空间模型的实时连续EEG推理方法。现有深度学习模型难以处理时长从数秒到数小时的EEG数据，CaMBRAIN通过因果状态空间模型实现高效、实时的脑电信号分析，显著提升长序列处理能力。这一技术对脑机接口、神经疾病监测、认知状态评估等产品具有高商业价值，可降低延迟、提高准确率，推动消费级与医疗级EEG产品的实时化与轻量化。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>AI coding startup Cognition raises $1B at $25B pre-money valuation</title>
-      <link>https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/</link>
-      <guid isPermaLink="false">ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>AI编程初创公司Cognition以250亿美元估值完成10亿美元融资，其年化收入仅492美元（可能为笔误，或指4920万美元？），但估值在8个月内翻倍。这反映了AI编程工具赛道的资本热度和高估值泡沫风险。对AI产品经理而言，需关注该领域的技术壁垒（如代码生成准确率、长上下文理解）和商业化路径（如企业级订阅定价），同时警惕估值与收入不匹配的泡沫信号。</p></description>
-      <category>💰 商业趋势</category>
     </item>
   </channel>
 </rss>
