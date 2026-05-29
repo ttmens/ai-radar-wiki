@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 29 May 2026 00:08:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 04:04:16 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -77,12 +77,28 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims</title>
+      <link>https://news.ycombinator.com/item?id=48317093</link>
+      <guid isPermaLink="false">sf-startup-is-testing-robots-in-airbnbs-and-trashing-them-lawsuit-claims</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>旧金山一家初创公司被指控利用 Airbnb 房源进行机器人测试，并在测试过程中导致机器人损坏甚至被遗弃，引发诉讼。该事件凸显了在共享经济环境中部署物理 AI 产品（如服务机器人）的现实挑战：真实场景测试虽能加速迭代，但缺乏明确的责任划分和风险控制机制。对 AI 产品经理而言，这警示在跨平台协作测试时需关注合同条款、用户协议及资产保护策略，避免因产品故障或意外损坏引发法律纠纷。同时，该案例也反映了机器人自主导航、环境适应能力等核心技术在实际部署中的可靠性瓶颈。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
       <title>At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI d</title>
       <link>https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/</link>
       <guid isPermaLink="false">at-techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-dea</guid>
       <pubDate>2026-05-29T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Databricks联合创始人指出，企业AI已从探索阶段进入部署评估阶段，核心障碍不再是AI的技术吸引力，而是安全性和可扩展性。越来越多的企业关注AI系统在广泛部署时的数据泄露、合规风险及可靠性问题。产品经理需重视构建可信AI框架，包括数据治理、模型透明度、实时监控和错误处理机制。商业价值上，能够提供安全、可控的AI部署方案将成为差异化竞争优势。建议在产品早期即嵌入安全审计和合规模块，而非事后修补。</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Glean&amp;#8217;s top line crosses $300M as AI budget-cutting becomes its major sell</title>
+      <link>https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/</link>
+      <guid isPermaLink="false">glean8217s-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>企业AI搜索初创公司Glean年营收突破3亿美元，同比增长三倍，尽管面临科技巨头竞争。其核心卖点转向帮助客户削减AI预算支出，通过智能搜索优化企业知识管理效率，降低重复性AI工具成本。Glean的技术核心在于整合企业内部数据源，提供精准的AI驱动搜索，替代多个冗余AI应用，从而减少整体IT预算。产品创新体现在将AI搜索作为企业AI基础设施的切入点，实现以搜索为中心的成本控制策略。</p></description>
+      <category>💰 商业趋势</category>
     </item>
     <item>
       <title>Has the hunt for AI compute uncovered the next Cerebras?</title>
@@ -133,6 +149,54 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>GPIC: A Giant Permissive Image Corpus for Visual Generation</title>
+      <link>http://arxiv.org/abs/2605.30341v1</link>
+      <guid isPermaLink="false">gpic-a-giant-permissive-image-corpus-for-visual-generation</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>GPIC（巨型许可图像库）包含约28万亿像素的互联网图像，经先进视觉语言模型自动标注，为视觉生成模型提供大规模、稳定、可访问的训练数据。该数据集采用许可协议，显著降低产品开发中的版权风险，并支撑高分辨率图像与视频生成模型的规模化训练。产品经理可借此快速构建或增强文生图、图生图等应用，减少数据采集与清洗成本，加速视觉AI产品迭代。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusi</title>
+      <link>http://arxiv.org/abs/2605.30351v1</link>
+      <guid isPermaLink="false">videomla-low-rank-latent-kv-cache-for-minute-scale-autoregressive-video-diffusio</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出VideoMLA，一种低秩潜在KV缓存方法，用于分钟级自回归视频扩散。传统固定大小滑动窗口缓存虽然节省内存，但每头KV布局仍是流式内存的主要瓶颈。VideoMLA通过低秩分解显著压缩KV缓存，使得长序列（分钟级）视频生成在有限资源下可行，同时保持生成质量和时序连贯性。该技术降低了长视频流式推理的内存开销，有望推动实时长视频生成、视频编辑等产品创新，并为未来AI视频创作平台提供底层能力支撑。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Fairness-Aware Federated Learning with Trajectory Shapley Value</title>
+      <link>http://arxiv.org/abs/2605.30336v1</link>
+      <guid isPermaLink="false">fairness-aware-federated-learning-with-trajectory-shapley-value</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出一种基于轨迹Shapley值的公平感知联邦学习框架，旨在解决联邦学习中传统聚合方案忽略客户端数据异质性和贡献不均的问题。技术要点：通过追踪各客户端在训练过程中的梯度或模型参数轨迹，计算Shapley值以量化每个客户端的边际贡献，并基于此设计公平性聚合权重。商业价值：提升多方协作建模的信任度，尤其适用于医疗、金融等隐私敏感场景，激励高质量数据贡献者。产品创新：引入动态贡献评估机制，使聚合更公平、模型鲁棒性更强，有助于构建可持续的联邦生态。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Demystifying Data Organization for Enhanced LLM Training</title>
+      <link>http://arxiv.org/abs/2605.30334v1</link>
+      <guid isPermaLink="false">demystifying-data-organization-for-enhanced-llm-training</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本论文聚焦于大语言模型（LLM）训练中的数据组织策略，指出尽管数据选择已被广泛研究，但如何通过战略性的数据组织（如排序、聚类、时序排列等）来提升训练效率和模型性能仍未被充分探索。研究揭示了合理的数据组织能够显著加速收敛、提升下游任务表现，并降低计算成本。对AI产品经理而言，这意味着在构建训练Pipeline时，除了数据量规模外，更需关注数据的内在结构与排列逻辑，从而在相同算力下获得更优模型，为产品迭代降低成本、缩短周期，具有直接商业价值。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Ca</title>
+      <link>http://arxiv.org/abs/2605.30337v1</link>
+      <guid isPermaLink="false">efficient-test-time-finetuning-of-llms-via-convex-reconstruction-and-gradient-ca</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出一种通过凸重建和梯度缓存的高效测试时微调（TTFT）方法，旨在解决LLM在推理阶段针对每个查询快速适配的问题。传统TTFT需要检索相关序列并更新模型，计算开销大。作者利用凸优化理论重构微调目标，并缓存梯度信息，显著降低每次查询的微调成本。这一技术使得LLM能够在实时场景下实现个性化响应，无需提前训练，提升了产品的灵活性和用户体验，尤其适用于对话、推荐等需要动态适应的应用。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Unlocking the Working Memory of Large Language Models for Latent Reasoning</title>
+      <link>http://arxiv.org/abs/2605.30343v1</link>
+      <guid isPermaLink="false">unlocking-the-working-memory-of-large-language-models-for-latent-reasoning</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本论文提出解锁大语言模型的工作记忆以实现潜在推理，旨在解决当前通过生成中间token来扩展推理时计算（如思维链）所带来的推理与自回归生成耦合、内部计算与外部通信混淆的问题。技术要点是设计一种分离的潜在推理机制，让模型在工作记忆中独立进行内部计算，再输出最终答案，从而降低生成噪音并提升推理效率。商业价值在于减少无效Token消耗、降低推理成本，并提升对复杂推理问题的响应速度。产品创新方面，可应用于实时对话、代码生成等需要高效推理的场景，提升用户体验和系统吞吐量。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>RSI is the new AGI — and it&amp;#8217;s just as hard to pin down</title>
       <link>https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/</link>
       <guid isPermaLink="false">rsi-is-the-new-agi-and-it8217s-just-as-hard-to-pin-down</guid>
@@ -165,6 +229,30 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>LLMSurgeon: Diagnosing Data Mixture of Large Language Models</title>
+      <link>http://arxiv.org/abs/2605.30348v1</link>
+      <guid isPermaLink="false">llmsurgeon-diagnosing-data-mixture-of-large-language-models</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>LLMSurgeon 论文提出诊断大语言模型（LLM）预训练数据混合的方法。预训练数据混合如同模型的“数字DNA”，决定其行为、能力和失效模式，但极少公开，导致事后审计困难。该研究形式化数据混合的审计问题，可能通过逆向分析或数据溯源技术，帮助识别训练数据中的偏见、版权或安全风险。对AI产品经理而言，这项技术可提升模型透明度，满足合规要求，支持数据供应链管理，并降低模型部署风险，为构建可信赖AI产品提供关键工具。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Represent</title>
+      <link>http://arxiv.org/abs/2605.30350v1</link>
+      <guid isPermaLink="false">dynaflip-rethinking-robotics-perception-via-tri-modal-dynamics-guided-representa</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>DynaFLIP提出一种三模态动力学引导的机器人感知表示方法，突破了传统视觉编码器仅关注静态识别或视觉-语言对齐的局限，将运动理解直接融入感知预训练。该方法通过融合视觉、触觉与运动动力学信息，使机器人能够更精准地捕捉操作任务中的动作相关场景特征。商业价值在于提升机器人操作的鲁棒性与泛化能力，降低对下游策略学习的依赖，适用于工业自动化、服务机器人等场景。产品创新体现在将动态感知作为核心训练信号，有望推动具身智能产品实现更灵活、安全的物理交互。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly De</title>
+      <link>http://arxiv.org/abs/2605.30344v1</link>
+      <guid isPermaLink="false">tiny-but-trusted-efficient-vision-language-reasoning-for-time-series-anomaly-det</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文介绍一种高效且可信的视觉-语言模型方法，专门用于时间序列异常检测。尽管VLM在诸多任务中表现优异，但在顺序数据的异常模式识别上效果不佳。本研究提出一个小型但可靠的解决方案，在保持高性能的同时降低计算开销。产品经理可关注其如何将多模态能力应用于工业监控、设备故障预测等场景，降低成本并提升实时检测精度，具有明确的商业化潜力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Just like gold and oil, we&amp;#8217;ll soon be able to trade AI token futures</title>
       <link>https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/</link>
       <guid isPermaLink="false">just-like-gold-and-oil-we8217ll-soon-be-able-to-trade-ai-token-futures</guid>
@@ -173,11 +261,59 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>Microsoft data suggests using AI is more expensive than hiring people</title>
+      <link>https://news.ycombinator.com/item?id=48317563</link>
+      <guid isPermaLink="false">microsoft-data-suggests-using-ai-is-more-expensive-than-hiring-people</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>微软最新数据分析表明，在某些工作场景下，使用AI替代人力的成本反而高于雇佣人类员工。这一发现颠覆了AI降本增效的普遍认知，提示产品经理需审慎评估AI部署的实际投资回报率。技术层面，AI的推理计算、API调用及模型微调等成本叠加后，可能抵消效率提升带来的收益。商业价值上，企业应避免盲目追求AI化，而需按业务场景精细测算总成本，尤其对于高频、低复杂度任务，人力可能更具成本优势。产品创新方向可考虑混合模式，即AI辅助而非完全替代，或开发更高效的轻量级模型来降低边际成本。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Protestware for Coding Agents</title>
+      <link>https://news.ycombinator.com/item?id=48315440</link>
+      <guid isPermaLink="false">protestware-for-coding-agents</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文讨论了一种新兴现象——针对AI编码代理（如GitHub Copilot）的抗议软件（Protestware）。开发者在代码中注入政治或伦理抗议信息，以表达对AI工具替代人工编码的抵触。这种行为影响了AI产品的信任度与安全性，提示产品经理需关注开发者社区的伦理分歧和反制措施。商业价值上，它可能推动更透明的AI治理和代码溯源机制；产品创新上，需要设计更尊重开发者意愿的协作模式。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026</title>
       <link>https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/</link>
       <guid isPermaLink="false">2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026</guid>
       <pubDate>2026-05-29T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>TechCrunch Disrupt 2026大会将于10月13-15日在旧金山举办，现提供最高410美元早鸟折扣，优惠截止至5月29日。该大会汇聚10000+科技领袖，展示AI、创业、投资等领域最新趋势。对于AI产品经理而言，这是了解行业前沿动态、建立人脉、发现合作机会的重要窗口，尤其适合关注AI能力落地、产品创新与商业化的从业者。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations</title>
+      <link>http://arxiv.org/abs/2605.30345v1</link>
+      <guid isPermaLink="false">schgen-pcb-schematic-generation-with-semantic-grounded-code-representations</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Printed circuit board (PCB) schematic design defines nearly all electronic hardware, but it remains manual and expertise-intensive. While generative AI has advanced digital and analog IC design, PCB schematic generation from natural-language intent is largely unexplored. This paper presents SchGen,</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Locally Coherent, Globally Incoherent: Bounding Compositional Incoherence in Mul</title>
+      <link>http://arxiv.org/abs/2605.30335v1</link>
+      <guid isPermaLink="false">locally-coherent-globally-incoherent-bounding-compositional-incoherence-in-multi</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Multi-component LLM agents assemble probabilistic claims from components that each see only part of a joint problem; the composition can violate basic probability axioms even when every component is locally coherent. We formalise this locally coherent, globally incoherent failure via the composition</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of</title>
+      <link>http://arxiv.org/abs/2605.30353v1</link>
+      <guid isPermaLink="false">physics-is-all-you-need-a-case-study-in-physicist-supervised-ai-development-of-s</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Are AI agents tools, co-authors, or researchers? We present a quantified case study ($N=1$): a physicist supervising an AI coding agent (Claude Code, Sonnet and Opus models) over 12 work days and 57 sessions to build CLAX-PT, a differentiable one-loop perturbation theory module in JAX. We documented</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Amazon scraps AI leaderboard to stop workers chasing usage scores</title>
+      <link>https://news.ycombinator.com/item?id=48315583</link>
+      <guid isPermaLink="false">amazon-scraps-ai-leaderboard-to-stop-workers-chasing-usage-scores</guid>
+      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>亚马逊取消内部AI排行榜，旨在防止开发者过度追求使用量分数而忽视产品质量与用户体验。此举反映了在AI产品开发中，纯粹基于使用量的度量体系可能导致短期行为或创新扭曲。产品经理应关注如何设计兼顾质量与规模的评估框架，避免单一指标驱动导致的优化偏差。该事件凸显了AI治理与激励制度在产品生态中的重要性，提醒团队平衡数据导向与长期价值。</p></description>
       <category>🔧 工具生态</category>
     </item>
     <item>
@@ -275,142 +411,6 @@
       <pubDate>2026-05-28T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>AI编程初创公司Cognition以250亿美元估值完成10亿美元融资，其年化收入仅492美元（可能为笔误，或指4920万美元？），但估值在8个月内翻倍。这反映了AI编程工具赛道的资本热度和高估值泡沫风险。对AI产品经理而言，需关注该领域的技术壁垒（如代码生成准确率、长上下文理解）和商业化路径（如企业级订阅定价），同时警惕估值与收入不匹配的泡沫信号。</p></description>
       <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>YouTube will now automatically label AI videos</title>
-      <link>https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/</link>
-      <guid isPermaLink="false">youtube-will-now-automatically-label-ai-videos</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>YouTube宣布将自动为使用显著逼真AI生成的视频添加标签，而非完全依赖创作者自行披露。该功能通过自动检测技术识别深度伪造等AI内容，并让标签在界面中更突出。此举旨在提升平台透明度，应对监管对AI合成内容的治理要求，同时降低用户被误导风险。对产品经理而言，这意味着需在设计内容审核流程时考虑AI检测能力，并平衡创作者体验与平台信任。该功能可能推动行业标准化AI标签机制，影响视频平台的内容管理策略。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come</title>
-      <link>https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/</link>
-      <guid isPermaLink="false">meta-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-in</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Meta在全球范围推出Instagram、Facebook和WhatsApp的付费订阅计划，并测试名为“Meta One”的订阅品牌，整合AI功能、创作者工具和企业服务。此举表明Meta正加速探索社交平台的订阅变现模式，通过将AI能力（如智能推荐、生成式AI功能）与增值服务捆绑，为产品经理提供了AI商业化的新思路。其核心价值在于利用现有庞大用户基础，通过分层订阅实现收入多元化，同时为AI功能（如聊天机器人、个性化助手）找到直接付费场景，形成生态闭环。产品创新体现在将AI作为订阅核心卖点，并可能推出面向企业和创作者的定制化AI套餐。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>ElevenLabs&amp;#8217;s new music generation model can switch genres mid-track</title>
-      <link>https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/</link>
-      <guid isPermaLink="false">elevenlabs8217s-new-music-generation-model-can-switch-genres-mid-track</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>ElevenLabs 推出新一代音乐生成模型，核心创新在于支持对歌曲的特定段落进行无损局部重生成，且可在不同位置切换音乐流派。该技术通过细粒度的时序控制与风格分离，使创作者无需重新生成整首曲目即可调整副歌、桥段或实验混搭风格，大幅提升音乐制作效率与创意灵活性。对于 AI 产品经理，这代表了从端到端生成向精细化编辑的演进，预示了 AI 在专业音频工作流中作为“协作编辑工具”而非“一次性生成器”的定位，具备显著商业价值。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Robinhood now lets your AI agents trade stocks</title>
-      <link>https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/</link>
-      <guid isPermaLink="false">robinhood-now-lets-your-ai-agents-trade-stocks</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Robinhood 推出新功能，允许用户创建专属独立账户并预存资金，供 AI 智能体执行股票交易。此举将 AI 代理的能力直接嵌入金融交易场景，降低用户参与自动化交易的门槛。技术要点上，通过账户隔离实现风险控制；商业价值上，吸引开发者与量化爱好者，拓展平台生态；产品创新上，开创了“代理经济”在传统经纪服务中的落地模式，为 AI 产品经理提供了金融领域 agent 集成的参考范例。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Payroll startup Remote says it grew revenue 50% per employee without adding head</title>
-      <link>https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/</link>
-      <guid isPermaLink="false">payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headc</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>全球薪资服务商Remote通过引入AI技术，在不增加员工数量的情况下实现人均收入增长50%，年经常性收入突破3亿美元并实现现金流正向。该案例展示了AI在人力资源和业务流程中的实际商业价值，通过自动化招聘、薪酬计算、合规管理等环节显著提升运营效率。对于AI产品经理而言，这提供了将AI落地于垂直SaaS场景的实证，强调通过技术优化而非规模扩张驱动增长，是B2B SaaS领域AI赋能商业成功的典型范式。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Investigating how prompt politeness affects LLM accuracy (2025)</title>
-      <link>https://news.ycombinator.com/item?id=48276429</link>
-      <guid isPermaLink="false">investigating-how-prompt-politeness-affects-llm-accuracy-2025</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该研究探讨了提示语礼貌程度对大型语言模型（LLM）准确性的影响。实验发现，过度的礼貌或粗鲁可能降低模型表现，而适度礼貌的提示有助于提升输出质量。对AI产品经理而言，这意味着在设计对话系统或用户交互界面时，需要平衡提示的礼貌性以优化模型响应。商业上，可通过调整提示风格提升用户满意度，减少错误率；产品创新上可探索自适应礼貌策略。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Lear</title>
-      <link>http://arxiv.org/abs/2605.28809v1</link>
-      <guid isPermaLink="false">area-attribute-extraction-and-aggregation-for-clip-based-class-incremental-learn</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出AREA方法，用于基于CLIP的类增量学习（CIL）。CIL旨在让模型在不遗忘旧知识的情况下学习新类别。传统方法依赖固定模板提示进行图文匹配，但面临灾难性遗忘问题。AREA通过提取图像的属性特征（如颜色、形状），并聚合新类与旧类共有的属性，从而增强CLIP的判别能力。该方法无需存储大量旧样本，仅保留属性知识，显著降低存储开销。对于AI产品而言，该技术可支持持续更新的图像识别、智能相册等场景，实现模型在部署后不断学习新类别，同时保持对旧类别的识别精度，提升产品的适应性和用户价值。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Learn from Weaknesses: Automated Domain Specialization for Small Computer-Use Ag</title>
-      <link>http://arxiv.org/abs/2605.28775v1</link>
-      <guid isPermaLink="false">learn-from-weaknesses-automated-domain-specialization-for-small-computer-use-age</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出一种自动化领域专业化方法，用于提升小型计算机使用代理（CUA）在特定软件领域的性能，而非依赖昂贵的大型专家模型。通过识别并针对性训练小型CUA的薄弱环节，该方法能有效降低部署成本，同时提升领域内任务完成率。对于AI产品经理，这意味着可以以更低成本打造专用代理，无需为每个领域训练大模型，具有显著的商业价值。产品创新在于从弱点学习而非全面增强，实现更高效的能力提升。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasti</title>
-      <link>http://arxiv.org/abs/2605.28819v1</link>
-      <guid isPermaLink="false">peft-arena-understanding-parameter-efficient-finetuning-from-a-stability-plastic</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出从稳定性-可塑性困境的视角评估参数高效微调（PEFT）方法，强调当前研究过度关注下游任务准确率，而忽视了预训练能力的保留。对AI产品经理而言，这意味着选择PEFT策略时需平衡模型在专用任务上的适配能力与通用知识保持，以降低灾难性遗忘风险，提升产品长期迭代的稳健性和成本效益。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Affective Music Recommendation: A Rollout-Based World Model for Offline Preferen</title>
-      <link>http://arxiv.org/abs/2605.28810v1</link>
-      <guid isPermaLink="false">affective-music-recommendation-a-rollout-based-world-model-for-offline-preferenc</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出一种基于rollout的世界模型方法，用于离线优化情感音乐推荐系统。核心挑战在于用户情感状态作为推荐成功标准，但在线实验存在伦理约束，尤其针对临床人群。技术要点包括构建世界模型模拟用户情感反馈，通过离线偏好学习避免直接在线干预。商业价值体现在功能性音乐应用（如睡眠辅助、临床干预）可安全实现个性化推荐，无需侵犯用户情感隐私。产品创新在于将离线强化学习与情感计算结合，降低部署风险。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Bias Leaves a Gradient Trail: Label-Free Bias Identification via Gradient Probes</title>
-      <link>http://arxiv.org/abs/2605.28780v1</link>
-      <guid isPermaLink="false">bias-leaves-a-gradient-trail-label-free-bias-identification-via-gradient-probes</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出一种无需标签或重新训练的偏差识别方法，通过梯度探针在概念分解上追踪视觉分类器对虚假相关性的依赖。该方法可自动发现模型在分布偏移下失效的根源，无需人工标注或额外数据集，显著降低偏差检测成本。对AI产品经理而言，该技术可用于持续监控模型鲁棒性和公平性，避免因虚假特征导致的业务风险，尤其适用于动态环境下的AI产品迭代。商业价值体现在减少模型迁移失败率、提升用户信任度，并支持合规性审查。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Do Agents Need Semantic Metadata? A Comparative Study in Agentic Data Retrieval</title>
-      <link>http://arxiv.org/abs/2605.28787v1</link>
-      <guid isPermaLink="false">do-agents-need-semantic-metadata-a-comparative-study-in-agentic-data-retrieval</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文研究了自主智能体在数据检索过程中是否需要语义元数据（如 schema.org）。通过对比分析，探讨了语义元数据如何支撑 FAIR 原则，提升数据的可发现性、可访问性、互操作性和可重用性。对于 AI 产品经理而言，核心价值在于：语义元数据可帮助智能体更高效地理解和使用异构数据源，减少信息孤岛，推动数据驱动工作流的自动化。产品创新方向包括构建元数据增强的智能体检索框架，以及将语义标准嵌入到 Agent 的数据交互流程中，从而提升 Agent 的决策质量和跨系统协作能力。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Calibrating Conservatism for Scalable Oversight</title>
-      <link>http://arxiv.org/abs/2605.28807v1</link>
-      <guid isPermaLink="false">calibrating-conservatism-for-scalable-oversight</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文关注自主AI代理系统（具备规划与交互能力）带来的控制难题，即人类如何有效监督能力可能超越自身的系统。研究提出校准保守主义的方法，通过调整AI的行为保守度来实现可扩展监督，避免过度依赖复杂假设。对AI产品经理而言，这意味着在开发高自主性代理产品（如自动化决策、智能体）时，需平衡能力与安全，设计可落地的监督机制，从而提升产品可信度与商业化可行性。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>SOND, a sleep tech startup from Bose&amp;#8217;s former head of sleep, exits stealth</title>
-      <link>https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/</link>
-      <guid isPermaLink="false">sond-a-sleep-tech-startup-from-bose8217s-former-head-of-sleep-exits-stealth-with</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>SOND 是一家由 Bose 前睡眠产品主管创立的睡眠科技初创公司，近日以 700 万美元融资从隐身模式中浮出水面。其核心产品为 AI 驱动的睡眠耳塞，融合了音频技术、生物传感和机器学习算法，旨在通过智能调节声音与环境来改善用户入睡与睡眠质量。此轮融资由多家风投支持，凸显市场对 AI 结合可穿戴健康技术的商业信心。产品创新点在于将 Bose 在音频领域的工程积累与个性化 AI 睡眠优化相结合，为睡眠障碍人群提供非药物干预方案。对于 AI 产品经理而言，SOND 展示了垂直场景 AI 硬件产品的落地路径，以及传统硬件大厂人才向初创公司流动的趋势。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>ClickHouse triples annualized revenue to $250M, charting a path toward an IPO</title>
-      <link>https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/</link>
-      <guid isPermaLink="false">clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>ClickHouse 数据库实现年收入 2.5 亿美元（同比增长 3 倍），并计划未来几年内上市。作为面向实时分析场景的列式存储数据库，其高性能查询能力被广泛应用于 AI 数据管道、时序分析和用户行为追踪。商业上，该增长显示企业对实时数据处理的需求旺盛，尤其支撑 AI 训练数据准备与推理监控场景。产品层面，ClickHouse 持续优化分布式架构、压缩效率和 SQL 兼容性，降低 AI 应用的后端复杂度。该里程碑为数据库创业公司提供 IPO 参考路径。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Vertu wants CEOs to run companies from an AI foldable starting at $6,880</title>
-      <link>https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/</link>
-      <guid isPermaLink="false">vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Vertu推出基于开源Hermes项目的AI折叠手机，起售价6880美元。该产品将AI代理工作流与企业集成（如CRM、ERP）深度融合，同时采用超奢华材质与手工打造。面向CEO等高端用户，强调通过自然语言指挥AI完成商业决策支持、日程管理、数据洞察等任务，无需额外IT支持。技术上利用Hermes开源框架实现多步骤自动化任务编排，并内嵌隐私保护机制。此举将AI从软件体验延伸至硬件奢侈品，探索了超高价位的企业级AI终端市场，但受众极小。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Why Google&amp;#8217;s AI can&amp;#8217;t spell Google (or anything else)</title>
-      <link>https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/</link>
-      <guid isPermaLink="false">why-google8217s-ai-can8217t-spell-google-or-anything-else</guid>
-      <pubDate>2026-05-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>该文章批评谷歌AI在拼写能力上的严重缺陷，连自己公司名‘Google’都拼错。技术要点在于大型语言模型在处理单词字母级别细节时存在根本性弱点，因为其基于token而非字符的学习方式导致拼写不准确。商业价值上，这暴露了AI产品在基础事实准确性上的风险，可能损害用户信任和品牌形象。产品创新角度，该问题提示需要引入拼写校验、字符级注意力机制或外部知识库增强。对于AI产品经理而言，这强调了在面向用户的应用中必须重视细节质量和多模态验证。</p></description>
-      <category>🤖 技术能力</category>
     </item>
   </channel>
 </rss>
