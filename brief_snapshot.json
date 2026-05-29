@@ -1,7 +1,7 @@
 {
   "date": "2026-05-29",
-  "generated_at": "2026-05-29T06:03:41.025602+08:00",
-  "item_count": 21,
+  "generated_at": "2026-05-29T12:03:05.910596+08:00",
+  "item_count": 37,
   "items": [
     {
       "id": "claude-opus-48",
@@ -92,6 +92,17 @@
       "date": "2026-05-29"
     },
     {
+      "id": "sf-startup-is-testing-robots-in-airbnbs-and-trashing-them-lawsuit-claims",
+      "label": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+      "summary": "旧金山一家初创公司被指控利用 Airbnb 房源进行机器人测试，并在测试过程中导致机器人损坏甚至被遗弃，引发诉讼。该事件凸显了在共享经济环境中部署物理 AI 产品（如服务机器人）的现实挑战：真实场景测试虽能加速迭代，但缺乏明确的责任划分和风险控制机制。对 AI 产品经理而言，这警示在跨平台协作测试时需关注合同条款、用户协议及资产保护策略，避免因产品故障或意外损坏引发法律纠纷。同时，该案例也反映了机器人自主导航、环境适应能力等核心技术在实际部署中的可靠性瓶颈。",
+      "pm_score": 0.495,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48317093",
+      "date": "2026-05-29"
+    },
+    {
       "id": "at-techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-dea",
       "label": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI d",
       "summary": "Databricks联合创始人指出，企业AI已从探索阶段进入部署评估阶段，核心障碍不再是AI的技术吸引力，而是安全性和可扩展性。越来越多的企业关注AI系统在广泛部署时的数据泄露、合规风险及可靠性问题。产品经理需重视构建可信AI框架，包括数据治理、模型透明度、实时监控和错误处理机制。商业价值上，能够提供安全、可控的AI部署方案将成为差异化竞争优势。建议在产品早期即嵌入安全审计和合规模块，而非事后修补。",
@@ -100,6 +111,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "glean8217s-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling",
+      "label": "Glean&#8217;s top line crosses $300M as AI budget-cutting becomes its major sell",
+      "summary": "企业AI搜索初创公司Glean年营收突破3亿美元，同比增长三倍，尽管面临科技巨头竞争。其核心卖点转向帮助客户削减AI预算支出，通过智能搜索优化企业知识管理效率，降低重复性AI工具成本。Glean的技术核心在于整合企业内部数据源，提供精准的AI驱动搜索，替代多个冗余AI应用，从而减少整体IT预算。产品创新体现在将AI搜索作为企业AI基础设施的切入点，实现以搜索为中心的成本控制策略。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
       "date": "2026-05-29"
     },
     {
@@ -169,6 +191,72 @@
       "date": "2026-05-29"
     },
     {
+      "id": "gpic-a-giant-permissive-image-corpus-for-visual-generation",
+      "label": "GPIC: A Giant Permissive Image Corpus for Visual Generation",
+      "summary": "GPIC（巨型许可图像库）包含约28万亿像素的互联网图像，经先进视觉语言模型自动标注，为视觉生成模型提供大规模、稳定、可访问的训练数据。该数据集采用许可协议，显著降低产品开发中的版权风险，并支撑高分辨率图像与视频生成模型的规模化训练。产品经理可借此快速构建或增强文生图、图生图等应用，减少数据采集与清洗成本，加速视觉AI产品迭代。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.30341v1",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "videomla-low-rank-latent-kv-cache-for-minute-scale-autoregressive-video-diffusio",
+      "label": "VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusi",
+      "summary": "本文提出VideoMLA，一种低秩潜在KV缓存方法，用于分钟级自回归视频扩散。传统固定大小滑动窗口缓存虽然节省内存，但每头KV布局仍是流式内存的主要瓶颈。VideoMLA通过低秩分解显著压缩KV缓存，使得长序列（分钟级）视频生成在有限资源下可行，同时保持生成质量和时序连贯性。该技术降低了长视频流式推理的内存开销，有望推动实时长视频生成、视频编辑等产品创新，并为未来AI视频创作平台提供底层能力支撑。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.30351v1",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "fairness-aware-federated-learning-with-trajectory-shapley-value",
+      "label": "Fairness-Aware Federated Learning with Trajectory Shapley Value",
+      "summary": "该论文提出一种基于轨迹Shapley值的公平感知联邦学习框架，旨在解决联邦学习中传统聚合方案忽略客户端数据异质性和贡献不均的问题。技术要点：通过追踪各客户端在训练过程中的梯度或模型参数轨迹，计算Shapley值以量化每个客户端的边际贡献，并基于此设计公平性聚合权重。商业价值：提升多方协作建模的信任度，尤其适用于医疗、金融等隐私敏感场景，激励高质量数据贡献者。产品创新：引入动态贡献评估机制，使聚合更公平、模型鲁棒性更强，有助于构建可持续的联邦生态。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.30336v1",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "demystifying-data-organization-for-enhanced-llm-training",
+      "label": "Demystifying Data Organization for Enhanced LLM Training",
+      "summary": "本论文聚焦于大语言模型（LLM）训练中的数据组织策略，指出尽管数据选择已被广泛研究，但如何通过战略性的数据组织（如排序、聚类、时序排列等）来提升训练效率和模型性能仍未被充分探索。研究揭示了合理的数据组织能够显著加速收敛、提升下游任务表现，并降低计算成本。对AI产品经理而言，这意味着在构建训练Pipeline时，除了数据量规模外，更需关注数据的内在结构与排列逻辑，从而在相同算力下获得更优模型，为产品迭代降低成本、缩短周期，具有直接商业价值。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.30334v1",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "efficient-test-time-finetuning-of-llms-via-convex-reconstruction-and-gradient-ca",
+      "label": "Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Ca",
+      "summary": "该论文提出一种通过凸重建和梯度缓存的高效测试时微调（TTFT）方法，旨在解决LLM在推理阶段针对每个查询快速适配的问题。传统TTFT需要检索相关序列并更新模型，计算开销大。作者利用凸优化理论重构微调目标，并缓存梯度信息，显著降低每次查询的微调成本。这一技术使得LLM能够在实时场景下实现个性化响应，无需提前训练，提升了产品的灵活性和用户体验，尤其适用于对话、推荐等需要动态适应的应用。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.30337v1",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "unlocking-the-working-memory-of-large-language-models-for-latent-reasoning",
+      "label": "Unlocking the Working Memory of Large Language Models for Latent Reasoning",
+      "summary": "本论文提出解锁大语言模型的工作记忆以实现潜在推理，旨在解决当前通过生成中间token来扩展推理时计算（如思维链）所带来的推理与自回归生成耦合、内部计算与外部通信混淆的问题。技术要点是设计一种分离的潜在推理机制，让模型在工作记忆中独立进行内部计算，再输出最终答案，从而降低生成噪音并提升推理效率。商业价值在于减少无效Token消耗、降低推理成本，并提升对复杂推理问题的响应速度。产品创新方面，可应用于实时对话、代码生成等需要高效推理的场景，提升用户体验和系统吞吐量。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.30343v1",
+      "date": "2026-05-29"
+    },
+    {
       "id": "rsi-is-the-new-agi-and-it8217s-just-as-hard-to-pin-down",
       "label": "RSI is the new AGI — and it&#8217;s just as hard to pin down",
       "summary": "递归自我改进（RSI）正被部分AI实验室视为通向AGI的新路径，但其实现难度不亚于AGI本身。RSI核心在于让AI系统能自主优化自身能力，形成持续进化循环，从而突破当前模型静态性能的天花板。然而，实际进展缓慢，面临安全性失控、评估标准缺失、计算成本激增等挑战。对AI产品经理而言，理解RSI技术边界有助于预判下一代智能产品的潜力——若突破，将催生自我进化型应用并颠覆现有迭代模式；但短期内仍需务实关注可落地的局部自我优化机制，避免过度炒作。",
@@ -213,6 +301,39 @@
       "date": "2026-05-29"
     },
     {
+      "id": "llmsurgeon-diagnosing-data-mixture-of-large-language-models",
+      "label": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
+      "summary": "LLMSurgeon 论文提出诊断大语言模型（LLM）预训练数据混合的方法。预训练数据混合如同模型的“数字DNA”，决定其行为、能力和失效模式，但极少公开，导致事后审计困难。该研究形式化数据混合的审计问题，可能通过逆向分析或数据溯源技术，帮助识别训练数据中的偏见、版权或安全风险。对AI产品经理而言，这项技术可提升模型透明度，满足合规要求，支持数据供应链管理，并降低模型部署风险，为构建可信赖AI产品提供关键工具。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.30348v1",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "dynaflip-rethinking-robotics-perception-via-tri-modal-dynamics-guided-representa",
+      "label": "DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Represent",
+      "summary": "DynaFLIP提出一种三模态动力学引导的机器人感知表示方法，突破了传统视觉编码器仅关注静态识别或视觉-语言对齐的局限，将运动理解直接融入感知预训练。该方法通过融合视觉、触觉与运动动力学信息，使机器人能够更精准地捕捉操作任务中的动作相关场景特征。商业价值在于提升机器人操作的鲁棒性与泛化能力，降低对下游策略学习的依赖，适用于工业自动化、服务机器人等场景。产品创新体现在将动态感知作为核心训练信号，有望推动具身智能产品实现更灵活、安全的物理交互。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.30350v1",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "tiny-but-trusted-efficient-vision-language-reasoning-for-time-series-anomaly-det",
+      "label": "Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly De",
+      "summary": "本文介绍一种高效且可信的视觉-语言模型方法，专门用于时间序列异常检测。尽管VLM在诸多任务中表现优异，但在顺序数据的异常模式识别上效果不佳。本研究提出一个小型但可靠的解决方案，在保持高性能的同时降低计算开销。产品经理可关注其如何将多模态能力应用于工业监控、设备故障预测等场景，降低成本并提升实时检测精度，具有明确的商业化潜力。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.30344v1",
+      "date": "2026-05-29"
+    },
+    {
       "id": "just-like-gold-and-oil-we8217ll-soon-be-able-to-trade-ai-token-futures",
       "label": "Just like gold and oil, we&#8217;ll soon be able to trade AI token futures",
       "summary": "大型交易所正设计围绕AI代币的衍生品，将AI代币从计算输出重新定义为类似电力、带宽的原材料输入。这一趋势反映了AI资源的商品化进程，使得AI代币可像黄金、石油一样进行期货交易。对产品经理而言，这标志着AI经济基础设施的成熟，可能催生新的定价模型、资源分配机制和商业模式，需关注代币化对AI产品开发、成本结构和市场准入的影响。",
@@ -221,6 +342,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "microsoft-data-suggests-using-ai-is-more-expensive-than-hiring-people",
+      "label": "Microsoft data suggests using AI is more expensive than hiring people",
+      "summary": "微软最新数据分析表明，在某些工作场景下，使用AI替代人力的成本反而高于雇佣人类员工。这一发现颠覆了AI降本增效的普遍认知，提示产品经理需审慎评估AI部署的实际投资回报率。技术层面，AI的推理计算、API调用及模型微调等成本叠加后，可能抵消效率提升带来的收益。商业价值上，企业应避免盲目追求AI化，而需按业务场景精细测算总成本，尤其对于高频、低复杂度任务，人力可能更具成本优势。产品创新方向可考虑混合模式，即AI辅助而非完全替代，或开发更高效的轻量级模型来降低边际成本。",
+      "pm_score": 0.365,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48317563",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "protestware-for-coding-agents",
+      "label": "Protestware for Coding Agents",
+      "summary": "本文讨论了一种新兴现象——针对AI编码代理（如GitHub Copilot）的抗议软件（Protestware）。开发者在代码中注入政治或伦理抗议信息，以表达对AI工具替代人工编码的抵触。这种行为影响了AI产品的信任度与安全性，提示产品经理需关注开发者社区的伦理分歧和反制措施。商业价值上，它可能推动更透明的AI治理和代码溯源机制；产品创新上，需要设计更尊重开发者意愿的协作模式。",
+      "pm_score": 0.345,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48315440",
       "date": "2026-05-29"
     },
     {
@@ -233,10 +376,43 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
       "date": "2026-05-29"
+    },
+    {
+      "id": "schgen-pcb-schematic-generation-with-semantic-grounded-code-representations",
+      "label": "SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations",
+      "summary": "Printed circuit board (PCB) schematic design defines nearly all electronic hardware, but it remains manual and expertise-intensive. While generative AI has advanced digital and analog IC design, PCB schematic generation from natural-language intent is largely unexplored. This paper presents SchGen,",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.30345v1",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "locally-coherent-globally-incoherent-bounding-compositional-incoherence-in-multi",
+      "label": "Locally Coherent, Globally Incoherent: Bounding Compositional Incoherence in Mul",
+      "summary": "Multi-component LLM agents assemble probabilistic claims from components that each see only part of a joint problem; the composition can violate basic probability axioms even when every component is locally coherent. We formalise this locally coherent, globally incoherent failure via the composition",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.30335v1",
+      "date": "2026-05-29"
+    },
+    {
+      "id": "physics-is-all-you-need-a-case-study-in-physicist-supervised-ai-development-of-s",
+      "label": "Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of",
+      "summary": "Are AI agents tools, co-authors, or researchers? We present a quantified case study ($N=1$): a physicist supervising an AI coding agent (Claude Code, Sonnet and Opus models) over 12 work days and 57 sessions to build CLAX-PT, a differentiable one-loop perturbation theory module in JAX. We documented",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2605.30353v1",
+      "date": "2026-05-29"
     }
   ],
   "graph_totals": {
-    "real_nodes": 967,
-    "edges": 61358
+    "real_nodes": 984,
+    "edges": 62350
   }
 }

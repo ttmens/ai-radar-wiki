@@ -1,0 +1,30 @@
+{
+  "title": "LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
+  "summary": "The pretraining data mixture of Large Language Models (LLMs) constitutes their \"digital DNA\", shaping model behaviors, capabilities, and failure modes. Yet this composition is rarely disclosed, making post-hoc auditing of data combination or provenance difficult. In this work, we formalize $\\textbf{Data Mixture Surgery (DMS)}$: given only generated text from a target LLM, estimate the domain-level distribution of its pretraining corpus under a predefined taxonomy. We propose $\\textbf{LLMSurgeon}$, a strong framework that casts DMS as an inverse problem under the label-shift assumption. Rather than directly aggregating classifier outputs, LLMSurgeon estimates a calibrated $\\textit{soft}$ confusion matrix and solves a constrained inverse problem to correct systematic domain confusion and recover the latent mixture prior. To evaluate, we introduce $\\textbf{LLMScan}$, a recipe-verifiable evaluation suite built from open-source LLMs with transparent pretraining mixtures. Across LLMScan, LLMSurgeon recovers domain mixtures with high fidelity under fixed protocols. Our work presents a practical, post-hoc approach for auditing the digital DNA of foundation models without access to their training data.",
+  "url": "http://arxiv.org/abs/2605.30348v1",
+  "authors": [
+    "Yaxin Luo",
+    "Jiacheng Cui",
+    "Xiaohan Zhao",
+    "Xinyi Shang",
+    "Jiacheng Liu"
+  ],
+  "published": "2026-05-28T17:59:53Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "framework",
+    "api",
+    "evaluation",
+    "eval",
+    "protocol"
+  ],
+  "summary_cn": "LLMSurgeon 论文提出诊断大语言模型（LLM）预训练数据混合的方法。预训练数据混合如同模型的“数字DNA”，决定其行为、能力和失效模式，但极少公开，导致事后审计困难。该研究形式化数据混合的审计问题，可能通过逆向分析或数据溯源技术，帮助识别训练数据中的偏见、版权或安全风险。对AI产品经理而言，这项技术可提升模型透明度，满足合规要求，支持数据供应链管理，并降低模型部署风险，为构建可信赖AI产品提供关键工具。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Data Audit",
+    "Pretraining Data Mixture"
+  ],
+  "entities": [],
+  "patterns": []
+}

@@ -1,0 +1,25 @@
+---
+title: Amazon scraps AI leaderboard to stop workers chasing usage scores
+created: 2026-05-29
+updated: 2026-05-29
+type: entity
+pillar: ecosystem
+pm_score: 0.295
+tags: ["discussion", "hacker-news", "ecosystem"]
+sources: ["raw/hn/amazon-scraps-ai-leaderboard-to-stop-workers-chasing-usage-scores.json"]
+---
+
+# Amazon scraps AI leaderboard to stop workers chasing usage scores
+
+## 中文摘要
+亚马逊取消内部AI排行榜，旨在防止开发者过度追求使用量分数而忽视产品质量与用户体验。此举反映了在AI产品开发中，纯粹基于使用量的度量体系可能导致短期行为或创新扭曲。产品经理应关注如何设计兼顾质量与规模的评估框架，避免单一指标驱动导致的优化偏差。该事件凸显了AI治理与激励制度在产品生态中的重要性，提醒团队平衡数据导向与长期价值。
+
+## PM 关注指标
+- 🔥 HN Score: 44
+- 💬 Comments: 9
+- 🎯 PM Score: 0.295
+- 🏷️ Pillar: ecosystem
+
+## 链接
+- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48315583
+- 🔗 原文: https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6

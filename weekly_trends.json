@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T06:03:40.796927+08:00",
+  "generated_at": "2026-05-29T12:03:05.681765+08:00",
   "days_analyzed": 22,
   "pillar_trends": {
     "capabilities": {
@@ -10,23 +10,23 @@
       "has_data": false
     },
     "patterns": {
-      "trend": "stable",
-      "delta": 0,
-      "current": 5,
+      "trend": "down",
+      "delta": -1,
+      "current": 4,
       "previous": 5,
       "has_data": true
     },
     "ecosystem": {
       "trend": "up",
-      "delta": 2,
-      "current": 2,
+      "delta": 3,
+      "current": 3,
       "previous": 0,
       "has_data": true
     },
     "business": {
       "trend": "down",
-      "delta": -2,
-      "current": 3,
+      "delta": -1,
+      "current": 4,
       "previous": 5,
       "has_data": true
     }

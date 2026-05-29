@@ -1,0 +1,34 @@
+{
+  "title": "Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection",
+  "summary": "Recent advances in Vision-Language Models (VLMs) have achieved impressive performance across many tasks, yet prior studies report unsatisfactory performance when applying large language or multimodal models to finding abnormal patterns in sequential data. Public anomaly detection benchmarks typically provide interval annotations but not natural-language rationales, making it difficult to fine-tune VLMs to produce grounded, interpretable decisions. To address this gap, we construct VisAnomBench, a curated benchmark built from public time-series datasets and augmented with high-quality anomaly explanations selected from multiple large VLMs using fine-grained, task-specific rewards. Through fine-tuning on this benchmark, we develop VisAnomReasoner, a parameter-efficient VLM for time-series anomaly detection. Experimental results on VisAnomBench show that VisAnomReasoner achieves more accurate anomaly localization and consistently outperforms all baselines, with improvements of at least 21.23 and 23.87 percentage points in precision and F1, respectively. Additional experiments on the TSB-AD-U benchmark demonstrate strong cross-benchmark generalization, with VisAnomReasoner improving precision and F1 by 9.57 and 13.39 percentage points, respectively.",
+  "url": "http://arxiv.org/abs/2605.30344v1",
+  "authors": [
+    "Xiaona Zhou",
+    "Muntasir Wahed",
+    "Tianjiao Yu",
+    "Constantin Brif",
+    "Ismini Lourentzou"
+  ],
+  "published": "2026-05-28T17:59:50Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "multimodal",
+    "vision",
+    "reasoning",
+    "fine-tuning",
+    "parameter",
+    "precision",
+    "dataset"
+  ],
+  "summary_cn": "本文介绍一种高效且可信的视觉-语言模型方法，专门用于时间序列异常检测。尽管VLM在诸多任务中表现优异，但在顺序数据的异常模式识别上效果不佳。本研究提出一个小型但可靠的解决方案，在保持高性能的同时降低计算开销。产品经理可关注其如何将多模态能力应用于工业监控、设备故障预测等场景，降低成本并提升实时检测精度，具有明确的商业化潜力。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Vision-Language Model",
+    "Time-Series Anomaly Detection",
+    "Efficient Reasoning"
+  ],
+  "entities": [],
+  "patterns": []
+}

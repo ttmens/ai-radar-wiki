@@ -1125,3 +1125,22 @@
 - create: anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo.md
 - create: just-like-gold-and-oil-we8217ll-soon-be-able-to-trade-ai-token-futures.md
 - create: anthropic-releases-opus-48-with-new-8216dynamic-workflow8217-tool.md
+
+## [2026-05-29 12:03] sync v3 | 17 new | pillars: {'capabilities': 11, 'ecosystem': 3, 'business': 2, 'patterns': 1}
+- create: physics-is-all-you-need-a-case-study-in-physicist-supervised-ai-development-of-s.md
+- create: videomla-low-rank-latent-kv-cache-for-minute-scale-autoregressive-video-diffusio.md
+- create: dynaflip-rethinking-robotics-perception-via-tri-modal-dynamics-guided-representa.md
+- create: llmsurgeon-diagnosing-data-mixture-of-large-language-models.md
+- create: schgen-pcb-schematic-generation-with-semantic-grounded-code-representations.md
+- create: tiny-but-trusted-efficient-vision-language-reasoning-for-time-series-anomaly-det.md
+- create: unlocking-the-working-memory-of-large-language-models-for-latent-reasoning.md
+- create: gpic-a-giant-permissive-image-corpus-for-visual-generation.md
+- create: efficient-test-time-finetuning-of-llms-via-convex-reconstruction-and-gradient-ca.md
+- create: fairness-aware-federated-learning-with-trajectory-shapley-value.md
+- create: locally-coherent-globally-incoherent-bounding-compositional-incoherence-in-multi.md
+- create: demystifying-data-organization-for-enhanced-llm-training.md
+- create: sf-startup-is-testing-robots-in-airbnbs-and-trashing-them-lawsuit-claims.md
+- create: microsoft-data-suggests-using-ai-is-more-expensive-than-hiring-people.md
+- create: protestware-for-coding-agents.md
+- create: amazon-scraps-ai-leaderboard-to-stop-workers-chasing-usage-scores.md
+- create: glean8217s-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling.md
