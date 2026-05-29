@@ -270,11 +270,16 @@
   .article-viewer {
     max-width: 720px;
     margin: 0 auto;
-    padding: 32px 24px;
+    padding: 32px 24px 80px;
     background: var(--surface);
     box-shadow: var(--shadow-card);
     min-height: 100%;
     border-radius: 0;
+  }
+
+  /* Ensure article content area has clear boundary with page background */
+  .article-scroll-container {
+    background: var(--bg);
   }
 
   /* ===== Mobile Responsive ===== */
@@ -366,7 +371,7 @@
     }
 
     .article-viewer {
-      padding: 24px 16px 100px;
+      padding: 24px 16px 120px;
     }
   }
 </style>
@@ -488,7 +493,10 @@ function openArticle(idx, fromHash) {
       .article-viewer [style*="color:#333"], .article-viewer [style*="color: #333"] { color: rgba(255,255,255,0.86) !important; }
       .article-viewer [style*="color:#1a1a1a"], .article-viewer [style*="color: #1a1a1a"] { color: #ffffff !important; }
       .article-viewer [style*="background:#fff5f6"], .article-viewer [style*="background: #fff5f6"] { background: rgba(123,63,242,0.12) !important; border-color: rgba(0,245,255,0.2) !important; }
-      .article-viewer [style*="background:#f0f0f0"], .article-viewer [style*="background: #f0f0f0"] { background: rgba(255,255,255,0.08) !important; color: rgba(255,255,255,0.9) !important; }
+      .article-viewer [style*="background:#f0f0f0"], .article-viewer [style*="background: #f0f0f0"] { background: rgba(255,255,255,0.08) !important; }
+      .article-viewer [style*="background:#fafafa"], .article-viewer [style*="background: #fafafa"] { background: rgba(255,255,255,0.06) !important; }
+      .article-viewer [style*="background:#fff"], .article-viewer [style*="background: #fff"],
+      .article-viewer [style*="background:#ffffff"], .article-viewer [style*="background: #ffffff"] { background: rgba(255,255,255,0.06) !important; }
       .article-viewer [style*="border-top:1px solid #eee"] { border-top-color: rgba(255,255,255,0.12) !important; }
       /* Card spacing */
       .article-viewer > div[style*="background"] { margin-bottom: 12px !important; }
