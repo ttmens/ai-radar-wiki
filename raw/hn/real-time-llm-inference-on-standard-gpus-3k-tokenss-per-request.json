@@ -1,0 +1,25 @@
+{
+  "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+  "score": 122,
+  "comments": 62,
+  "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+  "hn_url": "https://news.ycombinator.com/item?id=48321076",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "token"
+  ],
+  "summary_cn": "该技术突破实现了在标准GPU上每秒每请求处理3000个token的实时LLM推理能力，显著降低延迟与硬件成本。对产品经理而言，这意味着可以构建更流畅的实时对话、流式内容生成和长上下文交互，无需高端专用硬件。商业价值在于大幅削减云端推理开支，加速AI应用落地，尤其适合对话式AI、代码助手、实时翻译等场景。",
+  "pm_relevance": 9,
+  "concepts": [
+    "Real-time LLM",
+    "High-throughput Inference",
+    "Cost-efficient GPU"
+  ],
+  "entities": [],
+  "patterns": [
+    "Real-time Streaming",
+    "Cost-Efficient Deployment"
+  ]
+}

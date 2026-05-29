@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-29 | Total pages: 1006
+> Last updated: 2026-05-30 | Total pages: 1019
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -68,6 +68,7 @@
 - [[eagle-31-collaboration-between-the-eagle-team-vllm-team-and-torchspec-team.md]] Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team `pillar:capabilities` `score:0.38`
 - [[elevenlabs8217s-new-music-generation-model-can-switch-genres-mid-track.md]] ElevenLabs&#8217;s new music generation model can switch genres mid-track `pillar:capabilities` `score:0.48`
 - [[everyone-against-us-2023.md]] Everyone Against Us (2023) `pillar:capabilities` `score:0.225`
+- [[expertise-in-the-age-of-ai.md]] Expertise in the Age of AI `pillar:capabilities` `score:0.38`
 - [[explosionspacy.md]] explosion/spaCy `pillar:capabilities` `score:0.58`
 - [[fender-escalates-legal-campaign-against-s-style-guitars.md]] Fender escalates legal campaign against S-style guitars `pillar:capabilities` `score:0.235`
 - [[five-frontier-llms-disagree-on-67-of-1k-real-world-fact-check-claims.md]] Five frontier LLMs disagree on 67% of 1k real-world fact-check claims `pillar:capabilities` `score:0.63`
@@ -120,11 +121,13 @@
 - [[investigating-how-prompt-politeness-affects-llm-accuracy-2025.md]] Investigating how prompt politeness affects LLM accuracy (2025) `pillar:capabilities` `score:0.48`
 - [[iran-starts-bitcoin-backed-ship-insurance-for-hormuz-strait.md]] Iran starts Bitcoin-backed ship insurance for Hormuz strait `pillar:capabilities` `score:0.405`
 - [[irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-ne.md]] IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you `pillar:capabilities` `score:0.48`
+- [[is-ai-causing-a-repeat-of-front-ends-lost-decade.md]] Is AI causing a repeat of Front end's Lost Decade? `pillar:capabilities` `score:0.515`
 - [[is-xai-a-neocloud-now.md]] Is xAI a neocloud now? `pillar:capabilities` `score:0.3`
 - [[ive-joined-anthropic.md]] I’ve joined Anthropic `pillar:capabilities` `score:0.53`
 - [[jingyaogongminimind-v.md]] jingyaogong/minimind-v `pillar:capabilities` `score:0.53`
 - [[jingyaogongminimind.md]] jingyaogong/minimind `pillar:capabilities` `score:0.545`
 - [[juliusbrusseecaveman.md]] JuliusBrussee/caveman `pillar:capabilities` `score:0.455`
+- [[kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy.md]] Kiwibit’s AI-powered bird feeder is my new backyard buddy `pillar:capabilities` `score:0.445`
 - [[korniakornia.md]] kornia/kornia `pillar:capabilities` `score:0.58`
 - [[kv4p-ht-a-homebrew-1w-radio-vhf-or-uhf-that-plugs-into-an-android-phone.md]] Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone `pillar:capabilities` `score:0.255`
 - [[launch-hn-superset-yc-p26-ide-for-the-agents-era.md]] Launch HN: Superset (YC P26) – IDE for the agents era `pillar:capabilities` `score:0.445`
@@ -132,6 +135,7 @@
 - [[lightning-ailitgpt.md]] Lightning-AI/litgpt `pillar:capabilities` `score:0.58`
 - [[lightning-aipytorch-lightning.md]] Lightning-AI/pytorch-lightning `pillar:capabilities` `score:0.615`
 - [[llm-policy-for-rust-compiler.md]] LLM Policy for Rust Compiler `pillar:capabilities` `score:0.295`
+- [[lucidrainspalm-rlhf-pytorch.md]] lucidrains/PaLM-rlhf-pytorch `pillar:capabilities` `score:0.355`
 - [[lucidrainsvit-pytorch.md]] lucidrains/vit-pytorch `pillar:capabilities` `score:0.615`
 - [[macbook-neo-deep-dive-benchmarks-wafer-economics.md]] MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble `pillar:capabilities` `score:0.53`
 - [[magical-realism-northern-exposure-25-years-later-2015.md]] Magical Realism: “Northern Exposure” 25 Years Later (2015) `pillar:capabilities` `score:0.085`
@@ -167,15 +171,18 @@
 - [[openai-is-connecting-chatgpt-to-bank-accounts-via-plaid.md]] OpenAI is connecting ChatGPT to bank accounts via Plaid `pillar:capabilities` `score:0.57`
 - [[openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models.md]] OpenAI is making it easier to check if an image was made by their models `pillar:capabilities` `score:0.48`
 - [[openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts.md]] OpenAI launches ChatGPT for personal finance, will let you connect bank accounts `pillar:capabilities` `score:0.48`
+- [[orchestrating-ai-code-review-at-scale.md]] Orchestrating AI code review at scale `pillar:capabilities` `score:0.43`
 - [[outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs.md]] Outsourcing plus LocalAI will soon become more economical vs. Frontier labs `pillar:capabilities` `score:0.375`
 - [[overseas-fakers-using-ai-videos-to-push-a-narrative-of-uk-decline-bbc-finds.md]] Overseas fakers using AI videos to push a narrative of UK decline, BBC finds `pillar:capabilities` `score:0.38`
 - [[owainlewisawesome-artificial-intelligence.md]] owainlewis/awesome-artificial-intelligence `pillar:capabilities` `score:0.58`
 - [[oxcaml-in-space.md]] O(x)Caml in Space `pillar:capabilities` `score:0.275`
 - [[paddlepaddlepaddle.md]] PaddlePaddle/Paddle `pillar:capabilities` `score:0.615`
+- [[please-use-ai.md]] Please Use AI `pillar:capabilities` `score:0.645`
 - [[populora-co-evolving-llm-populations-for-reasoning-self-play.md]] PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play `pillar:capabilities` `score:0.33`
 - [[project-hail-mary-stellar-navigation-chart.md]] Project Hail Mary – Stellar Navigation Chart `pillar:capabilities` `score:0.545`
 - [[prolog-basics-explained-with-pokémon.md]] Prolog Basics Explained with Pokémon `pillar:capabilities` `score:0.255`
 - [[qdrantqdrant.md]] qdrant/qdrant `pillar:capabilities` `score:0.615`
+- [[real-time-llm-inference-on-standard-gpus-3k-tokenss-per-request.md]] Real-time LLM Inference on Standard GPUs: 3k tokens/s per request `pillar:capabilities` `score:0.565`
 - [[researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai.md]] Researchers Wanted Preschool Teachers to Wear Cameras to Train AI `pillar:capabilities` `score:0.36`
 - [[rohitg00ai-engineering-from-scratch.md]] rohitg00/ai-engineering-from-scratch `pillar:capabilities` `score:0.63`
 - [[rsi-is-the-new-agi-and-it8217s-just-as-hard-to-pin-down.md]] RSI is the new AGI — and it&#8217;s just as hard to pin down `pillar:capabilities` `score:0.445`
@@ -191,6 +198,7 @@
 - [[sgl-projectsglang.md]] sgl-project/sglang `pillar:capabilities` `score:0.615`
 - [[shapshap.md]] shap/shap `pillar:capabilities` `score:0.615`
 - [[show-hn-a-dark-cave-minimalistic-graphics-in-the-age-of-ai-slop.md]] Show HN: A Dark Cave – Minimalistic Graphics in the Age of AI Slop `pillar:capabilities` `score:0.295`
+- [[show-hn-aislop-a-cli-for-catching-ai-generated-code-smells.md]] Show HN: AISlop, a CLI for catching AI generated code smells `pillar:capabilities` `score:0.48`
 - [[show-hn-coretex-an-open-source-unix-like-biomimetic-flat-file-ai-harness.md]] Show HN: CoreTex – An Open-Source, Unix-like, biomimetic, flat-file AI Harness `pillar:capabilities` `score:0.155`
 - [[show-hn-demon-open-source-real-time-music-diffusion-engine-25hz-local-gpu.md]] Show HN: Demon – open-source real-time music diffusion engine, 25Hz local GPU `pillar:capabilities` `score:0.365`
 - [[show-hn-find-the-best-local-llm-for-your-hardware-ranked-by-benchmarks.md]] Show HN: Find the best local LLM for your hardware, ranked by benchmarks `pillar:capabilities` `score:0.33`
@@ -253,6 +261,7 @@
 - [[voice-ai-systems-are-vulnerable-to-hidden-audio-attacks.md]] Voice AI Systems Are Vulnerable to Hidden Audio Attacks `pillar:capabilities` `score:0.395`
 - [[voxel51fiftyone.md]] voxel51/fiftyone `pillar:capabilities` `score:0.58`
 - [[we-let-ais-run-radio-stations.md]] We let AIs run radio stations `pillar:capabilities` `score:0.48`
+- [[we-should-be-more-tired-than-the-model.md]] We should be more tired than the model `pillar:capabilities` `score:0.41`
 - [[what-happens-when-ai-starts-building-itself.md]] What happens when AI starts building itself? `pillar:capabilities` `score:0.55`
 - [[when-fast-fourier-transform-meets-transformer-for-image-restoration-2024.md]] When Fast Fourier Transform Meets Transformer for Image Restoration (2024) `pillar:capabilities` `score:0.295`
 - [[why-google8217s-ai-can8217t-spell-google-or-anything-else.md]] Why Google&#8217;s AI can&#8217;t spell Google (or anything else) `pillar:capabilities` `score:0.445`
@@ -667,6 +676,7 @@
 - [[ethicalmlawesome-production-machine-learning.md]] EthicalML/awesome-production-machine-learning `pillar:ecosystem` `score:0.58`
 - [[everyone-is-navigating-ai-security-in-real-time-8212-even-google.md]] Everyone is navigating AI security in real time &#8212; even Google `pillar:ecosystem` `score:0.515`
 - [[fastaifastai.md]] fastai/fastai `pillar:ecosystem` `score:0.58`
+- [[final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket.md]] Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket `pillar:ecosystem` `score:0.41`
 - [[flwrlabsflower.md]] flwrlabs/flower `pillar:ecosystem` `score:0.53`
 - [[fpromptschat.md]] f/prompts.chat `pillar:ecosystem` `score:0.58`
 - [[france-moves-to-break-encrypted-messaging.md]] France moves to break encrypted messaging `pillar:ecosystem` `score:0.53`
@@ -686,6 +696,7 @@
 - [[introducing-the-6-stages-at-techcrunch-disrupt-202.md]] Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher `pillar:ecosystem` `score:0.305`
 - [[invoke-aiinvokeai.md]] invoke-ai/InvokeAI `pillar:ecosystem` `score:0.58`
 - [[iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz.md]] Iran demands Big Tech pay fees for undersea Internet cables in Strait of Hormuz `pillar:ecosystem` `score:0.31`
+- [[is-this-sustainable.md]] Is This Sustainable? `pillar:ecosystem` `score:0.41`
 - [[janhqjan.md]] janhq/jan `pillar:ecosystem` `score:0.405`
 - [[jeinlee1991chinese-llm-benchmark.md]] jeinlee1991/chinese-llm-benchmark `pillar:ecosystem` `score:0.53`
 - [[just-like-gold-and-oil-we8217ll-soon-be-able-to-trade-ai-token-futures.md]] Just like gold and oil, we&#8217;ll soon be able to trade AI token futures `pillar:ecosystem` `score:0.41`
@@ -752,7 +763,9 @@
 - [[the-american-rebellion-against-ai-is-gaining-steam.md]] The American Rebellion Against AI Is Gaining Steam `pillar:ecosystem` `score:0.41`
 - [[the-other-half-of-ai-safety.md]] The Other Half of AI Safety `pillar:ecosystem` `score:0.43`
 - [[the-popes-ai-encyclical-isnt-really-about-ai.md]] The pope’s AI encyclical isn’t really about AI `pillar:ecosystem` `score:0.305`
+- [[this-chip-startup-just-raised-135m-on-a-bet-that-ai8217s-biggest-bottleneck-isn8.md]] This chip startup just raised $135M on a bet that AI&#8217;s biggest bottleneck `pillar:ecosystem` `score:0.48`
 - [[threads-tests-a-meta-ai-integration-that-works-sim.md]] Threads tests a Meta AI integration that works similarly to Grok `pillar:ecosystem` `score:0.305`
+- [[today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026.md]] Today is the last day to apply to speak at TechCrunch Disrupt 2026 `pillar:ecosystem` `score:0.34`
 - [[tool-mapping-90-companies-in-the-photonics-and-cpo-supply-chain.md]] Tool mapping 90 companies in the photonics and CPO supply chain `pillar:ecosystem` `score:0.295`
 - [[tools-in-the-grass-raising-the-next-generation-of.md]] Tools in the Grass: Raising the next generation of crafts person `pillar:ecosystem` `score:0.295`
 - [[tracel-aiburn.md]] tracel-ai/burn `pillar:ecosystem` `score:0.58`

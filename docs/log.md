@@ -1149,3 +1149,18 @@
 - create: alphacepvosk-api.md
 - create: claude-code-everything-you-can-configure-that-the-docs-dont-tell-you.md
 - create: the-mysterious-hy3-llm-is-topping-openrouter-model-rankings-by-a-large-margin.md
+
+## [2026-05-30 00:02] sync v3 | 13 new | pillars: {'capabilities': 12, 'patterns': 1}
+- create: lucidrainspalm-rlhf-pytorch.md
+- create: expertise-in-the-age-of-ai.md
+- create: real-time-llm-inference-on-standard-gpus-3k-tokenss-per-request.md
+- create: orchestrating-ai-code-review-at-scale.md
+- create: is-ai-causing-a-repeat-of-front-ends-lost-decade.md
+- create: we-should-be-more-tired-than-the-model.md
+- create: is-this-sustainable.md
+- create: show-hn-aislop-a-cli-for-catching-ai-generated-code-smells.md
+- create: please-use-ai.md
+- create: today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026.md
+- create: final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket.md
+- create: kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy.md
+- create: this-chip-startup-just-raised-135m-on-a-bet-that-ai8217s-biggest-bottleneck-isn8.md
