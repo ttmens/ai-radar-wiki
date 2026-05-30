@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 30 May 2026 08:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 12:00:42 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -221,6 +221,22 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Show HN: VT Code – open-source terminal coding agent in Rust</title>
+      <link>https://github.com/vinhnx/VTCode</link>
+      <guid isPermaLink="false">show-hn-vt-code-open-source-terminal-coding-agent-in-rust</guid>
+      <pubDate>2026-05-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>VT Code 是一个开源的终端编码代理，使用 Rust 语言实现，专注于在命令行环境中为开发者提供 AI 辅助编程能力。它支持代码生成、理解和编辑，通过终端原生交互降低使用门槛，适合习惯命令行的开发者。技术亮点在于 Rust 的高性能与低资源占用，可集成多种大语言模型。产品创新点在于将 AI 编码代理从传统 IDE 插件形态迁移到纯终端，提升了自动化脚本和远程开发场景的灵活性。商业价值上，开源模式促进社区协作，有望成为开发者生态中的重要工具。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Algebraic Effects for the Rest of Us</title>
+      <link>https://news.ycombinator.com/item?id=48283009</link>
+      <guid isPermaLink="false">algebraic-effects-for-the-rest-of-us</guid>
+      <pubDate>2026-05-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文以通俗易懂的方式介绍了代数效应这一编程概念，旨在降低开发者的理解门槛。代数效应是一种处理副作用（如异步操作、错误处理）的抽象机制，能够简化代码逻辑并提升模块化程度。对于AI产品经理而言，虽然代数效应属于底层编程范式，但理解其原理有助于评估AI系统（如大规模模型推理、异步任务调度）的架构设计优劣，尤其当产品需要高效处理复杂副作用时，采用类似模式可能带来性能与可维护性提升。不过，该主题更偏向技术实现层面，需结合具体应用场景考量。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Claude Opus 4.8</title>
       <link>https://news.ycombinator.com/item?id=48311647</link>
       <guid isPermaLink="false">claude-opus-48</guid>
@@ -394,22 +410,6 @@
       <guid isPermaLink="false">fairness-aware-federated-learning-with-trajectory-shapley-value</guid>
       <pubDate>2026-05-29T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出一种基于轨迹Shapley值的公平感知联邦学习框架，旨在解决联邦学习中传统聚合方案忽略客户端数据异质性和贡献不均的问题。技术要点：通过追踪各客户端在训练过程中的梯度或模型参数轨迹，计算Shapley值以量化每个客户端的边际贡献，并基于此设计公平性聚合权重。商业价值：提升多方协作建模的信任度，尤其适用于医疗、金融等隐私敏感场景，激励高质量数据贡献者。产品创新：引入动态贡献评估机制，使聚合更公平、模型鲁棒性更强，有助于构建可持续的联邦生态。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Demystifying Data Organization for Enhanced LLM Training</title>
-      <link>http://arxiv.org/abs/2605.30334v1</link>
-      <guid isPermaLink="false">demystifying-data-organization-for-enhanced-llm-training</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本论文聚焦于大语言模型（LLM）训练中的数据组织策略，指出尽管数据选择已被广泛研究，但如何通过战略性的数据组织（如排序、聚类、时序排列等）来提升训练效率和模型性能仍未被充分探索。研究揭示了合理的数据组织能够显著加速收敛、提升下游任务表现，并降低计算成本。对AI产品经理而言，这意味着在构建训练Pipeline时，除了数据量规模外，更需关注数据的内在结构与排列逻辑，从而在相同算力下获得更优模型，为产品迭代降低成本、缩短周期，具有直接商业价值。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Ca</title>
-      <link>http://arxiv.org/abs/2605.30337v1</link>
-      <guid isPermaLink="false">efficient-test-time-finetuning-of-llms-via-convex-reconstruction-and-gradient-ca</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出一种通过凸重建和梯度缓存的高效测试时微调（TTFT）方法，旨在解决LLM在推理阶段针对每个查询快速适配的问题。传统TTFT需要检索相关序列并更新模型，计算开销大。作者利用凸优化理论重构微调目标，并缓存梯度信息，显著降低每次查询的微调成本。这一技术使得LLM能够在实时场景下实现个性化响应，无需提前训练，提升了产品的灵活性和用户体验，尤其适用于对话、推荐等需要动态适应的应用。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
