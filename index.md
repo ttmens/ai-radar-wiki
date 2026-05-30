@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-30 | Total pages: 1032
+> Last updated: 2026-05-30 | Total pages: 1034
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -28,6 +28,7 @@
 - [[ai-search-startups-are-blowing-up.md]] AI search startups are blowing up `pillar:capabilities` `score:0.515`
 - [[ai-tools-are-only-as-good-as-your-judgment.md]] AI tools are only as good as your judgment `pillar:capabilities` `score:0.43`
 - [[ai-will-be-used-to-estimate-age-of-asylum-seekers-from-next-year.md]] AI will be used to estimate age of asylum seekers from next year `pillar:capabilities` `score:0.345`
+- [[algebraic-effects-for-the-rest-of-us.md]] Algebraic Effects for the Rest of Us `pillar:capabilities` `score:0.255`
 - [[alibabamnn.md]] alibaba/MNN `pillar:capabilities` `score:0.615`
 - [[alignment-pretraining-ai-discourse-creates-self-fulfilling-misalignment.md]] Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment `pillar:capabilities` `score:0.43`
 - [[alphacepvosk-api.md]] alphacep/vosk-api `pillar:capabilities` `score:0.58`
@@ -609,6 +610,7 @@
 - [[show-hn-open-source-agentic-qa-harness-with-memory.md]] Show HN: Open-Source Agentic QA Harness with Memory `pillar:patterns` `score:0.33`
 - [[show-hn-slayer-a-semantic-layer-maintained-by-yo.md]] Show HN: SLayer, a semantic layer maintained by your agent `pillar:patterns` `score:0.33`
 - [[show-hn-statewright-visual-state-machines-that.md]] Show HN: Statewright – Visual state machines that make AI agents reliable `pillar:patterns` `score:0.33`
+- [[show-hn-vt-code-open-source-terminal-coding-agent-in-rust.md]] Show HN: VT Code – open-source terminal coding agent in Rust `pillar:patterns` `score:0.26`
 - [[show-hn-zot-yet-another-coding-agent-harness.md]] Show HN: Zot – Yet another coding agent harness `pillar:patterns` `score:0.36`
 - [[shunning-ai-is-the-human-choice.md]] Shunning AI is the human choice `pillar:patterns` `score:0.595`
 - [[significant-gravitasautogpt.md]] Significant-Gravitas/AutoGPT `pillar:patterns` `score:0.615`

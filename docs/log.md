@@ -1181,3 +1181,7 @@
 
 ## [2026-05-30 12:01] sync v3 | 1 new | pillars: {'capabilities': 1}
 - create: coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them.md
+
+## [2026-05-30 18:02] sync v3 | 2 new | pillars: {'capabilities': 1, 'patterns': 1}
+- create: algebraic-effects-for-the-rest-of-us.md
+- create: show-hn-vt-code-open-source-terminal-coding-agent-in-rust.md
