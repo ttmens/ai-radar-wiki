@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 29 May 2026 20:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 00:06:06 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -18,6 +18,14 @@
       <guid isPermaLink="false">please-use-ai</guid>
       <pubDate>2026-05-30T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>该文章鼓励产品经理积极采用AI技术，强调AI在提升产品智能化、用户交互体验和自动化效率方面的核心价值。技术要点包括模型API的易用性、多模态能力以及低门槛集成方案；商业价值体现在加速产品迭代、降低开发成本；产品创新方面，指出可基于AI构建全新交互范式（如自然语言界面），并利用AI实现个性化推荐和动态内容生成。文章呼吁团队从简单应用入手，逐步将AI融入产品核心功能。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Notes from the Mistral AI Now Summit in Paris</title>
+      <link>https://news.ycombinator.com/item?id=48325340</link>
+      <guid isPermaLink="false">notes-from-the-mistral-ai-now-summit-in-paris</guid>
+      <pubDate>2026-05-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Mistral AI 在巴黎峰会上发布了多项前沿能力，包括更高效的 MoE 架构、超长上下文窗口以及开源模型的新版本。这些技术突破显著降低了推理成本，提升了实时交互体验，为产品经理提供了更强的本地部署和定制化选项。商业价值在于帮助企业以更低门槛获得高质量 AI 能力，加速产品创新。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -37,12 +45,36 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Liquid AI reveals 8B-A1B MoE trained on 38T</title>
+      <link>https://news.ycombinator.com/item?id=48325306</link>
+      <guid isPermaLink="false">liquid-ai-reveals-8b-a1b-moe-trained-on-38t</guid>
+      <pubDate>2026-05-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Liquid AI 发布了 8B-A1B 混合专家模型（MoE），总参数量 8B 而激活参数量仅 1B，训练数据量达 38T tokens。该架构在保持高效推理的同时大幅降低计算成本，适合资源受限场景。对产品经理而言，这意味着可在移动端或边缘设备实现接近大模型的性能，并为细分任务定制专家模块提供灵活性。其商业价值在于更低部署成本和更快响应速度，有望推动对话系统、实时分析等产品的落地。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>What happens when companies become too AI-pilled?</title>
+      <link>https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/</link>
+      <guid isPermaLink="false">what-happens-when-companies-become-too-ai-pilled</guid>
+      <pubDate>2026-05-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Box创始人Aaron Levie指出，企业决策者往往在不真正理解员工工作内容的情况下，就盲目决定用AI替代人类，他将此现象称为“AI精神病”（AI psychosis）。例如，项目管理公司ClickUp近期裁减22%员工，转而使用AI agent。这一趋势警示产品经理：依赖AI替代人力需谨慎评估实际工作复杂性，避免因认知偏差导致产品价值损失。技术层面需关注AI agent能力边界，商业层面应平衡效率与员工体验，产品创新需确保AI工具切实提升而非简化替代核心流程。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>Show HN: AISlop, a CLI for catching AI generated code smells</title>
       <link>https://news.ycombinator.com/item?id=48322956</link>
       <guid isPermaLink="false">show-hn-aislop-a-cli-for-catching-ai-generated-code-smells</guid>
       <pubDate>2026-05-30T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>AISlop 是一个命令行工具，专门用于检测 AI 生成的代码中的“代码坏味”（code smells）。它通过静态分析技术识别常见的模式问题，如冗余逻辑、不合理命名、缺乏注释等，帮助开发者快速定位并修正由大语言模型生成的代码质量缺陷。该工具降低了人工审查 AI 代码的成本，提升了 AI 编程辅助产品的输出可靠性和可维护性，对于构建更可信的 AI 编码助手具有直接商业价值。产品创新在于将传统静态代码分析适配到 AI 生成内容的独特场景。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Cognition&amp;#8217;s Scott Wu says AI coding agents shouldn&amp;#8217;t replace humans</title>
+      <link>https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/</link>
+      <guid isPermaLink="false">cognition8217s-scott-wu-says-ai-coding-agents-shouldn8217t-replace-humans</guid>
+      <pubDate>2026-05-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Cognition 公司 CEO Scott Wu 表示，其旗下知名的 AI 编码代理 Devin 的设计初衷并非取代人类程序员，而是作为辅助工具提升开发效率。Wu 强调，AI 应该增强而非替代人类在编程中的核心角色，尤其在复杂系统设计和需求理解方面。这一思路反映了当前 AI 产品在编程领域的主流模式：人机协作，即 AI 处理重复性任务，人类负责创意与决策。Devin 的成功在于其能自主调试、规划任务，但仍需开发者监督。这一观点对 AI 产品经理的启示是：在构建开发者工具时，应聚焦于增强而非替代，确保产品与现有工作流程无缝衔接，同时关注开发者信任与长期采用率。</p></description>
+      <category>📱 产品模式</category>
     </item>
     <item>
       <title>This chip startup just raised $135M on a bet that AI&amp;#8217;s biggest bottleneck</title>
@@ -53,11 +85,43 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>Does your CEO have AI psychosis? Aaron Levie thinks most of them do.</title>
+      <link>https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/</link>
+      <guid isPermaLink="false">does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do</guid>
+      <pubDate>2026-05-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Box创始人Aaron Levie指出CEO普遍存在“AI精神病”——即高估AI替代人类工作的能力，却对具体工作内容缺乏理解。这一现象在ClickUp裁员22%以部署AI代理的案例中得以体现。产品经理需警惕此类认知偏差，在推动AI产品落地时，应深入评估AI对实际业务流程和岗位职责的真实影响，避免因过度乐观导致战略失误。核心启示：AI应增强而非简单替代人类工作。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>After Nvidia&amp;#8217;s $20B not-acqui-hire, AI chip startup Groq reportedly raisin</title>
+      <link>https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/</link>
+      <guid isPermaLink="false">after-nvidia8217s-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650</guid>
+      <pubDate>2026-05-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>AI芯片初创公司Groq正寻求6.5亿美元内部融资，战略重心从硬件转向AI推理（Inference），即优化AI模型响应提示词的过程。这一转型反映了AI产品对高效推理能力的需求日益增长，尤其在Nvidia斥资200亿美元进行人才并购的背景下，Groq试图在推理市场建立差异化优势。对于AI产品经理而言，Groq的融资与转型信号显示：推理优化正成为产品竞争力关键，推理基础设施的软硬结合或催生新商业模式。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>So you&amp;#8217;ve heard these AI terms and nodded along; let&amp;#8217;s fix that</title>
+      <link>https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</link>
+      <guid isPermaLink="false">so-you8217ve-heard-these-ai-terms-and-nodded-along-let8217s-fix-that</guid>
+      <pubDate>2026-05-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>本文梳理了AI领域涌现的大量新术语和行话，为产品经理提供了一份核心词汇表，涵盖从基础概念（如大语言模型、检索增强生成）到前沿名词（如智能体、多模态）的清晰定义。对于AI产品经理而言，理解这些术语有助于与技术团队高效沟通、准确把握产品能力边界，并能在行业交流中展现专业度。文章不仅解释字面含义，还点明各术语背后的技术演进逻辑，能帮助PM快速建立AI知识框架，避免因术语误解导致决策偏差。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Kiwibit’s AI-powered bird feeder is my new backyard buddy</title>
       <link>https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/</link>
       <guid isPermaLink="false">kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy</guid>
       <pubDate>2026-05-30T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Kiwibit推出的AI智能鸟食器，集成了AI图像识别技术，可自动识别到访鸟类的种类，并通过配套App提供类似宝可梦的收集体验。该产品将AI能力与自然观察结合，降低观鸟门槛，吸引普通用户参与。商业上，它属于AI赋能的消费级硬件，通过游戏化设计提升用户粘性，并可探索数据订阅、稀有鸟类提示等增值服务。技术关键在于轻量级视觉模型在边缘设备上的实时推理，以及不断更新的鸟类数据库。产品创新在于将被动观察转化为主动探索的互动体验。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Shift will clean homes for free to train future robots</title>
+      <link>https://news.ycombinator.com/item?id=48327962</link>
+      <guid isPermaLink="false">shift-will-clean-homes-for-free-to-train-future-robots</guid>
+      <pubDate>2026-05-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Shift公司通过提供免费家庭清洁服务，在真实环境中收集大量数据，用于训练未来的家务机器人。这种“服务换数据”模式降低了数据采集成本，获取了高真实度的场景和行为数据，加速机器人能力迭代。对AI产品经理而言，这一策略展示了如何将产品服务与数据收集相结合，构建数据飞轮，同时兼顾用户价值与长期技术积累。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -101,11 +165,35 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>CAPTCHAs can still detect AI agents</title>
+      <link>https://news.ycombinator.com/item?id=48324910</link>
+      <guid isPermaLink="false">captchas-can-still-detect-ai-agents</guid>
+      <pubDate>2026-05-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>标题指出验证码（CAPTCHA）仍能有效检测AI代理，表明当前AI在绕过图灵测试类机制时存在明显局限。对AI产品经理而言，这意味着部署AI自动化任务（如表单填写、数据抓取）时需考虑验证码拦截风险，可能影响用户流程与转化率。产品创新方向包括设计更智能的人机协作验证方式，或利用AI模拟人类行为但必须符合伦理边界。商业价值在于凸显传统安全机制在AI时代的持续有效性，以及倒逼更友好的身份验证交互。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Show HN: Zot – Yet another coding agent harness</title>
+      <link>https://news.ycombinator.com/item?id=48319524</link>
+      <guid isPermaLink="false">show-hn-zot-yet-another-coding-agent-harness</guid>
+      <pubDate>2026-05-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Zot 是一个新型编码代理工具框架（harness），专注于简化 AI 编码助手的构建流程。它可能提供模块化设计、任务编排和集成能力，允许开发者快速搭建定制化的代码生成 agent。该工具借鉴了类似 Copilot 的模式，但强调灵活性和可扩展性，旨在降低编码 agent 的开发门槛。对于 AI 产品经理，这意味着可以更高效地实验和部署编码辅助功能，提升开发团队生产力。其产品创新在于将 agent 的构建过程标准化为可复用的 harness 模式。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>lucidrains/PaLM-rlhf-pytorch</title>
       <link>https://github.com/lucidrains/PaLM-rlhf-pytorch</link>
       <guid isPermaLink="false">lucidrainspalm-rlhf-pytorch</guid>
       <pubDate>2026-05-30T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> github</p><hr/><p>Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>AI will be used to estimate age of asylum seekers from next year</title>
+      <link>https://news.ycombinator.com/item?id=48327222</link>
+      <guid isPermaLink="false">ai-will-be-used-to-estimate-age-of-asylum-seekers-from-next-year</guid>
+      <pubDate>2026-05-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>明年起，AI 系统将用于估算寻求庇护者的年龄，以解决缺乏身份文件时的年龄判定难题。技术要点可能结合面部特征分析、骨龄预估或语音识别，提升准确性与效率。商业价值在于为移民管理机构提供可扩展、低成本的年龄评估方案，减少人工误判与争议。产品创新体现在将 AI 嵌入关键行政决策流程，并需平衡隐私、公平与透明性，这对产品经理而言涉及可信 AI 设计、用户反馈机制与伦理审计。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -115,6 +203,14 @@
       <pubDate>2026-05-30T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>TechCrunch Disrupt 2026演讲申请今日截止，AI产品经理可借此机会分享见解、参与定义科技行业的关键对话。该活动是连接创业生态、投资机构和技术领袖的重要平台，有助于把握AI商业化趋势。建议有成熟产品案例或创新思路的PM尽快提交议题，获取行业曝光与资源对接机会。</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA</title>
+      <link>https://news.ycombinator.com/item?id=48328184</link>
+      <guid isPermaLink="false">show-hn-tiny-vllm-high-performance-llm-inference-engine-in-c-and-cuda</guid>
+      <pubDate>2026-05-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Tiny-vLLM 是一个用 C++ 和 CUDA 实现的高性能 LLM 推理引擎，专注于提升推理速度和降低资源消耗。对产品经理而言，其技术亮点在于极低的延迟和高效的 GPU 利用，可显著降低云推理成本或支持本地 / 边缘部署。商业价值体现在让中小企业也能负担高质量 AI 服务，产品创新点在于轻量化设计，易于集成到现有系统。该引擎适合对实时性要求高的场景，如聊天机器人、代码助手等。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Claude Opus 4.8</title>
@@ -315,102 +411,6 @@
       <pubDate>2026-05-29T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本论文提出解锁大语言模型的工作记忆以实现潜在推理，旨在解决当前通过生成中间token来扩展推理时计算（如思维链）所带来的推理与自回归生成耦合、内部计算与外部通信混淆的问题。技术要点是设计一种分离的潜在推理机制，让模型在工作记忆中独立进行内部计算，再输出最终答案，从而降低生成噪音并提升推理效率。商业价值在于减少无效Token消耗、降低推理成本，并提升对复杂推理问题的响应速度。产品创新方面，可应用于实时对话、代码生成等需要高效推理的场景，提升用户体验和系统吞吐量。</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>RSI is the new AGI — and it&amp;#8217;s just as hard to pin down</title>
-      <link>https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/</link>
-      <guid isPermaLink="false">rsi-is-the-new-agi-and-it8217s-just-as-hard-to-pin-down</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>递归自我改进（RSI）正被部分AI实验室视为通向AGI的新路径，但其实现难度不亚于AGI本身。RSI核心在于让AI系统能自主优化自身能力，形成持续进化循环，从而突破当前模型静态性能的天花板。然而，实际进展缓慢，面临安全性失控、评估标准缺失、计算成本激增等挑战。对AI产品经理而言，理解RSI技术边界有助于预判下一代智能产品的潜力——若突破，将催生自我进化型应用并颠覆现有迭代模式；但短期内仍需务实关注可落地的局部自我优化机制，避免过度炒作。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>YouTube adds new podcast features, including an AI recommendation tool and &amp;#821</title>
-      <link>https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/</link>
-      <guid isPermaLink="false">youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-8216au</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>YouTube 新增播客功能，包括基于 AI 的推荐工具和自动速度调节功能，旨在提升播客内容的发现效率与用户体验。AI 推荐工具可根据用户收听历史和偏好智能推送相关播客节目；自动速度功能则动态调整播放倍速，帮助用户更高效地消费内容。此举显示 YouTube 正积极与 Spotify、Apple Podcasts 等平台争夺播客受众，通过 AI 技术强化内容分发的个性化与便捷性，为产品经理提供了在成熟平台中利用 AI 优化长音频场景的参考。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>How long is Anthropic&amp;#8217;s lease with SpaceX? Opinions vary.</title>
-      <link>https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/</link>
-      <guid isPermaLink="false">how-long-is-anthropic8217s-lease-with-spacex-opinions-vary</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Anthropic与SpaceX的GPU租约期限引发争议。Elon Musk公开将xAI与Anthropic的大规模计算交易描述为短期可取消，但SpaceX的S-1文件显示付款将持续至2029年5月。对AI产品经理而言，该事件凸显了AI基础设施长期合同的可靠性风险，以及合作伙伴关系透明度对算力规划的重要性。商业谈判中的公开声明与官方文件矛盾也可能影响企业资源分配策略。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>The internet is being rebuilt for machines</title>
-      <link>https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/</link>
-      <guid isPermaLink="false">the-internet-is-being-rebuilt-for-machines</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>AI智能体从实验走向生产，推动互联网基础设施重构。AWS、Cloudflare等云厂商正针对机器主导流量而非人类用户进行架构优化，如调整网络协议、缓存策略和计算资源分配。这一转变将带来更高效的AI推理、实时数据处理和自动化协作，但需重新设计安全模型与成本结构。产品经理应关注机器流量特性对应用交互、数据流和商业模式的影响，提前布局Agent原生服务。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>LLMSurgeon: Diagnosing Data Mixture of Large Language Models</title>
-      <link>http://arxiv.org/abs/2605.30348v1</link>
-      <guid isPermaLink="false">llmsurgeon-diagnosing-data-mixture-of-large-language-models</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>LLMSurgeon 论文提出诊断大语言模型（LLM）预训练数据混合的方法。预训练数据混合如同模型的“数字DNA”，决定其行为、能力和失效模式，但极少公开，导致事后审计困难。该研究形式化数据混合的审计问题，可能通过逆向分析或数据溯源技术，帮助识别训练数据中的偏见、版权或安全风险。对AI产品经理而言，这项技术可提升模型透明度，满足合规要求，支持数据供应链管理，并降低模型部署风险，为构建可信赖AI产品提供关键工具。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Represent</title>
-      <link>http://arxiv.org/abs/2605.30350v1</link>
-      <guid isPermaLink="false">dynaflip-rethinking-robotics-perception-via-tri-modal-dynamics-guided-representa</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>DynaFLIP提出一种三模态动力学引导的机器人感知表示方法，突破了传统视觉编码器仅关注静态识别或视觉-语言对齐的局限，将运动理解直接融入感知预训练。该方法通过融合视觉、触觉与运动动力学信息，使机器人能够更精准地捕捉操作任务中的动作相关场景特征。商业价值在于提升机器人操作的鲁棒性与泛化能力，降低对下游策略学习的依赖，适用于工业自动化、服务机器人等场景。产品创新体现在将动态感知作为核心训练信号，有望推动具身智能产品实现更灵活、安全的物理交互。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly De</title>
-      <link>http://arxiv.org/abs/2605.30344v1</link>
-      <guid isPermaLink="false">tiny-but-trusted-efficient-vision-language-reasoning-for-time-series-anomaly-det</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文介绍一种高效且可信的视觉-语言模型方法，专门用于时间序列异常检测。尽管VLM在诸多任务中表现优异，但在顺序数据的异常模式识别上效果不佳。本研究提出一个小型但可靠的解决方案，在保持高性能的同时降低计算开销。产品经理可关注其如何将多模态能力应用于工业监控、设备故障预测等场景，降低成本并提升实时检测精度，具有明确的商业化潜力。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Claude Code – Everything You Can Configure That the Docs Don't Tell You</title>
-      <link>https://news.ycombinator.com/item?id=48318174</link>
-      <guid isPermaLink="false">claude-code-everything-you-can-configure-that-the-docs-dont-tell-you</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文揭示了Claude Code（Anthropic的AI编码助手）中大量文档未提及的配置项和高级设置，包括环境变量、自定义快捷键、输出格式调整、上下文窗口优化等。对于AI产品经理而言，这些“隐藏能力”意味着可以更灵活地定制产品行为，满足不同开发者工作流需求，提升用户粘性和效率。通过暴露这些配置，Claude Code展现了更强的可扩展性和企业级适配潜力，同时为竞品分析提供了差异化功能参考。理解这些底层配置逻辑，有助于在产品规划中设计更智能的默认值与用户控制权平衡方案。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Just like gold and oil, we&amp;#8217;ll soon be able to trade AI token futures</title>
-      <link>https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/</link>
-      <guid isPermaLink="false">just-like-gold-and-oil-we8217ll-soon-be-able-to-trade-ai-token-futures</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>大型交易所正设计围绕AI代币的衍生品，将AI代币从计算输出重新定义为类似电力、带宽的原材料输入。这一趋势反映了AI资源的商品化进程，使得AI代币可像黄金、石油一样进行期货交易。对产品经理而言，这标志着AI经济基础设施的成熟，可能催生新的定价模型、资源分配机制和商业模式，需关注代币化对AI产品开发、成本结构和市场准入的影响。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Microsoft data suggests using AI is more expensive than hiring people</title>
-      <link>https://news.ycombinator.com/item?id=48317563</link>
-      <guid isPermaLink="false">microsoft-data-suggests-using-ai-is-more-expensive-than-hiring-people</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>微软最新数据分析表明，在某些工作场景下，使用AI替代人力的成本反而高于雇佣人类员工。这一发现颠覆了AI降本增效的普遍认知，提示产品经理需审慎评估AI部署的实际投资回报率。技术层面，AI的推理计算、API调用及模型微调等成本叠加后，可能抵消效率提升带来的收益。商业价值上，企业应避免盲目追求AI化，而需按业务场景精细测算总成本，尤其对于高频、低复杂度任务，人力可能更具成本优势。产品创新方向可考虑混合模式，即AI辅助而非完全替代，或开发更高效的轻量级模型来降低边际成本。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Protestware for Coding Agents</title>
-      <link>https://news.ycombinator.com/item?id=48315440</link>
-      <guid isPermaLink="false">protestware-for-coding-agents</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文讨论了一种新兴现象——针对AI编码代理（如GitHub Copilot）的抗议软件（Protestware）。开发者在代码中注入政治或伦理抗议信息，以表达对AI工具替代人工编码的抵触。这种行为影响了AI产品的信任度与安全性，提示产品经理需关注开发者社区的伦理分歧和反制措施。商业价值上，它可能推动更透明的AI治理和代码溯源机制；产品创新上，需要设计更尊重开发者意愿的协作模式。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026</title>
-      <link>https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="false">2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>TechCrunch Disrupt 2026大会将于10月13-15日在旧金山举办，现提供最高410美元早鸟折扣，优惠截止至5月29日。该大会汇聚10000+科技领袖，展示AI、创业、投资等领域最新趋势。对于AI产品经理而言，这是了解行业前沿动态、建立人脉、发现合作机会的重要窗口，尤其适合关注AI能力落地、产品创新与商业化的从业者。</p></description>
-      <category>🔧 工具生态</category>
     </item>
   </channel>
 </rss>
