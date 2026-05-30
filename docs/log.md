@@ -1185,3 +1185,15 @@
 ## [2026-05-30 18:02] sync v3 | 2 new | pillars: {'capabilities': 1, 'patterns': 1}
 - create: algebraic-effects-for-the-rest-of-us.md
 - create: show-hn-vt-code-open-source-terminal-coding-agent-in-rust.md
+
+## [2026-05-31 00:03] sync v3 | 10 new | pillars: {'patterns': 3, 'capabilities': 7}
+- create: nirdiamantgenai_agents.md
+- create: anthropic-surpasses-openai-to-become-most-valuable-ai-startup.md
+- create: ai-job-grief-the-unnamed-psychological-crisis-hitting-tech-workers.md
+- create: navier-stokes-fluid-simulation-explained-with-godot-game-engine.md
+- create: show-hn-helios-what-plug-in-solar-could-generate-for-any-address-in-britain.md
+- create: memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain.md
+- create: corporate-america-is-starting-to-ration-ai-as-cost-skyrockets.md
+- create: meta-is-reportedly-developing-an-ai-pendant.md
+- create: i-put-google8217s-247-ai-assistant-gemini-spark-to-work-and-it8217s-actually-pre.md
+- create: as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safa.md
