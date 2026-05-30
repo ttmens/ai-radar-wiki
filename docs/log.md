@@ -1197,3 +1197,10 @@
 - create: meta-is-reportedly-developing-an-ai-pendant.md
 - create: i-put-google8217s-247-ai-assistant-gemini-spark-to-work-and-it8217s-actually-pre.md
 - create: as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safa.md
+
+## [2026-05-31 06:06] sync v3 | 5 new | pillars: {'capabilities': 4, 'business': 1}
+- create: openrouter-raises-113m-series-b.md
+- create: domain-expertise-has-always-been-the-real-moat.md
+- create: hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates.md
+- create: the-kaiser-and-a-mediocre-man-theory-of-history.md
+- create: 8216what-a-joke8217-github-copilot8217s-new-token-based-billing-spurs-consternat.md

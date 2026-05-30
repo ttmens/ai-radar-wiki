@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-31 | Total pages: 1044
+> Last updated: 2026-05-31 | Total pages: 1049
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -244,6 +244,7 @@
 - [[the-art-of-hackingh4cker.md]] The-Art-of-Hacking/h4cker `pillar:capabilities` `score:0.58`
 - [[the-four-horsemen-of-the-llm-apocalypse.md]] The Four Horsemen of the LLM Apocalypse `pillar:capabilities` `score:0.33`
 - [[the-greatest-shot-in-television-james-burke-had-o.md]] The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene `pillar:capabilities` `score:0.155`
+- [[the-kaiser-and-a-mediocre-man-theory-of-history.md]] The Kaiser and a "Mediocre Man" Theory of History `pillar:capabilities` `score:0.41`
 - [[the-last-six-months-in-llms-in-five-minutes.md]] The last six months in LLMs in five minutes `pillar:capabilities` `score:0.415`
 - [[the-main-thing-about-p2p-meth-is-that-theres-so-much-of-it-2021.md]] The main thing about P2P meth is that there's so much of it (2021) `pillar:capabilities` `score:0.305`
 - [[the-mysterious-hy3-llm-is-topping-openrouter-model-rankings-by-a-large-margin.md]] The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin `pillar:capabilities` `score:0.48`
@@ -756,6 +757,7 @@
 - [[openai-and-government-of-malta-partner-to-roll-out-chatgpt-plus-to-all-citizens.md]] OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens `pillar:ecosystem` `score:0.565`
 - [[openai-is-reportedly-preparing-legal-action-against-apple-it-wouldn8217t-be-the.md]] OpenAI is reportedly preparing legal action against Apple; it wouldn&#8217;t be `pillar:ecosystem` `score:0.48`
 - [[openrouter-more-than-doubles-valuation-to-13b-in-a-year.md]] OpenRouter more than doubles valuation to $1.3B in a year `pillar:ecosystem` `score:0.48`
+- [[openrouter-raises-113m-series-b.md]] OpenRouter raises $113M Series B `pillar:ecosystem` `score:0.6`
 - [[pope-leo-opaque-ai-run-by-few-firms-risks-new-forms-of-dehumanization.md]] Pope Leo: opaque AI run by few firms risks "New Forms of Dehumanization" `pillar:ecosystem` `score:0.43`
 - [[pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few.md]] Pope Leo XIV says AI must serve humanity, not the powerful few `pillar:ecosystem` `score:0.565`
 - [[postmortem-tanstack-npm-supply-chain-compromise.md]] Postmortem: TanStack npm supply-chain compromise `pillar:ecosystem` `score:0.61`
@@ -832,6 +834,7 @@
 ## 💰 Business (商业与趋势)
 > Funding, Moat, Growth, Ethics, Regulation
 - [[3-days-left-to-lock-in-50-off-a-second-ticket-to.md]] 3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026 `pillar:business` `score:0.15`
+- [[8216what-a-joke8217-github-copilot8217s-new-token-based-billing-spurs-consternat.md]] &#8216;What a joke&#8217;: Github Copilot&#8217;s new token-based billing spurs `pillar:business` `score:0.515`
 - [[ai-boom-pushes-samsung-to-1t.md]] AI boom pushes Samsung to $1T `pillar:business` `score:0.3`
 - [[ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation.md]] AI coding startup Cognition raises $1B at $25B pre-money valuation `pillar:business` `score:0.48`
 - [[ai-eats-the-world-spring-26-pdf.md]] AI eats the world (Spring 26) [pdf] `pillar:business` `score:0.53`
@@ -871,6 +874,7 @@
 - [[deepseek-could-hit-45b-valuation-from-its-first-i.md]] DeepSeek could hit $45B valuation from its first investment round `pillar:business` `score:0.3`
 - [[dessn-raises-6m-for-its-production-focused-design.md]] Dessn raises $6M for its production focused design tool `pillar:business` `score:0.48`
 - [[di-sukharevopencommit.md]] di-sukharev/opencommit `pillar:business` `score:0.355`
+- [[domain-expertise-has-always-been-the-real-moat.md]] Domain expertise has always been the real moat `pillar:business` `score:0.465`
 - [[dyad-shdyad.md]] dyad-sh/dyad `pillar:business` `score:0.405`
 - [[elon-musk-can8217t-hear-you-over-the-sound-of-his-175-trillion-ipo.md]] Elon Musk can&#8217;t hear you over the sound of his $1.75 trillion IPO `pillar:business` `score:0.41`
 - [[elon-musk-has-given-up-on-solar-power-on-earth.md]] Elon Musk has given up on solar power (on Earth) `pillar:business` `score:0.445`
@@ -889,6 +893,7 @@
 - [[google8217s-8216create-my-widget8217-feat.md]] Google&#8217;s &#8216;Create My Widget&#8217; feature will let you vibe-code you `pillar:business` `score:0.305`
 - [[gpt-55-price-increase-what-it-costs.md]] GPT-5.5 Price Increase: What It Costs `pillar:business` `score:0.33`
 - [[haiku.md]] Haiku `pillar:business` `score:0.355`
+- [[hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates.md]] Hormuz crisis side effect: a sharp rise in container shipping rates `pillar:business` `score:0.32`
 - [[how-elon-musk-left-openai-according-to-greg-brock.md]] How Elon Musk left OpenAI, according to Greg Brockman `pillar:business` `score:0.3`
 - [[how-long-is-anthropic8217s-lease-with-spacex-opinions-vary.md]] How long is Anthropic&#8217;s lease with SpaceX? Opinions vary. `pillar:business` `score:0.445`
 - [[how-vcs-and-founders-use-inflated-arr-to-crown-ai-startups.md]] How VCs and founders use inflated ‘ARR’ to crown AI startups `pillar:business` `score:0.41`
