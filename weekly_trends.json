@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T06:04:14.751003+08:00",
+  "generated_at": "2026-05-30T12:01:53.895654+08:00",
   "days_analyzed": 23,
   "pillar_trends": {
     "capabilities": {
@@ -773,6 +773,11 @@
   "contradictions": [
     {
       "date": "2026-05-29",
+      "type": "growth_vs_risk",
+      "description": "Growth validation detected alongside infrastructure/trust bottlenecks."
+    },
+    {
+      "date": "2026-05-30",
       "type": "growth_vs_risk",
       "description": "Growth validation detected alongside infrastructure/trust bottlenecks."
     }

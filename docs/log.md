@@ -1178,3 +1178,6 @@
 - create: after-nvidia8217s-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650.md
 - create: cognition8217s-scott-wu-says-ai-coding-agents-shouldn8217t-replace-humans.md
 - create: does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do.md
+
+## [2026-05-30 12:01] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them.md

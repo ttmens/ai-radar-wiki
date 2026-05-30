@@ -1,7 +1,7 @@
 {
   "date": "2026-05-30",
-  "generated_at": "2026-05-30T06:04:14.993842+08:00",
-  "item_count": 25,
+  "generated_at": "2026-05-30T12:01:54.133375+08:00",
+  "item_count": 26,
   "items": [
     {
       "id": "please-use-ai",
@@ -56,6 +56,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48325306",
+      "date": "2026-05-30"
+    },
+    {
+      "id": "coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them",
+      "label": "Coders are refusing to work without AI — and that could come back to bite them",
+      "summary": "AI辅助编程已成为许多开发者的刚需，拒绝在没有AI工具的情况下工作，但研究警告称，AI生成的代码可能更快却未必更好，长期来看可能引入技术债务和可维护性问题。对于AI产品经理而言，需要关注代码生成的质量监控、测试自动化以及长期可维护性，平衡短期效率提升与潜在风险。商业上，可探索结合代码审查与质量评估的AI工具，以降低技术债务累积。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
       "date": "2026-05-30"
     },
     {
@@ -280,7 +291,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1012,
-    "edges": 65355
+    "real_nodes": 1013,
+    "edges": 66369
   }
 }

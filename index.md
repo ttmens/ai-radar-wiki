@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-30 | Total pages: 1031
+> Last updated: 2026-05-30 | Total pages: 1032
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -48,6 +48,7 @@
 - [[clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral.md]] Clouted wants to take the guesswork out of making short videos go viral `pillar:capabilities` `score:0.48`
 - [[coalton-is-an-efficient-statically-typed-lisp-with-ideas-from-haskell-and-ocaml.md]] Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml `pillar:capabilities` `score:0.26`
 - [[coda-rewriting-transformer-blocks-as-gemm-epilogue-programs.md]] CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs `pillar:capabilities` `score:0.345`
+- [[coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them.md]] Coders are refusing to work without AI — and that could come back to bite them `pillar:capabilities` `score:0.48`
 - [[codex-is-now-in-the-chatgpt-mobile-app.md]] Codex is now in the ChatGPT mobile app `pillar:capabilities` `score:0.635`
 - [[comically-bad-datasets-used-to-train-clinical-models-for-stroke-and-diabetes.md]] 'Comically bad' datasets used to train clinical models for stroke and diabetes `pillar:capabilities` `score:0.33`
 - [[copyfail-from-pod-to-host.md]] CopyFail: From Pod to Host `pillar:capabilities` `score:0.295`
