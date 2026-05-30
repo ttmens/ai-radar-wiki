@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 30 May 2026 00:06:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 04:03:16 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -50,6 +50,14 @@
       <guid isPermaLink="false">liquid-ai-reveals-8b-a1b-moe-trained-on-38t</guid>
       <pubDate>2026-05-30T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Liquid AI 发布了 8B-A1B 混合专家模型（MoE），总参数量 8B 而激活参数量仅 1B，训练数据量达 38T tokens。该架构在保持高效推理的同时大幅降低计算成本，适合资源受限场景。对产品经理而言，这意味着可在移动端或边缘设备实现接近大模型的性能，并为细分任务定制专家模块提供灵活性。其商业价值在于更低部署成本和更快响应速度，有望推动对话系统、实时分析等产品的落地。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Coders are refusing to work without AI — and that could come back to bite them</title>
+      <link>https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/</link>
+      <guid isPermaLink="false">coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them</guid>
+      <pubDate>2026-05-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>AI辅助编程已成为许多开发者的刚需，拒绝在没有AI工具的情况下工作，但研究警告称，AI生成的代码可能更快却未必更好，长期来看可能引入技术债务和可维护性问题。对于AI产品经理而言，需要关注代码生成的质量监控、测试自动化以及长期可维护性，平衡短期效率提升与潜在风险。商业上，可探索结合代码审查与质量评估的AI工具，以降低技术债务累积。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -402,14 +410,6 @@
       <guid isPermaLink="false">efficient-test-time-finetuning-of-llms-via-convex-reconstruction-and-gradient-ca</guid>
       <pubDate>2026-05-29T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出一种通过凸重建和梯度缓存的高效测试时微调（TTFT）方法，旨在解决LLM在推理阶段针对每个查询快速适配的问题。传统TTFT需要检索相关序列并更新模型，计算开销大。作者利用凸优化理论重构微调目标，并缓存梯度信息，显著降低每次查询的微调成本。这一技术使得LLM能够在实时场景下实现个性化响应，无需提前训练，提升了产品的灵活性和用户体验，尤其适用于对话、推荐等需要动态适应的应用。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Unlocking the Working Memory of Large Language Models for Latent Reasoning</title>
-      <link>http://arxiv.org/abs/2605.30343v1</link>
-      <guid isPermaLink="false">unlocking-the-working-memory-of-large-language-models-for-latent-reasoning</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本论文提出解锁大语言模型的工作记忆以实现潜在推理，旨在解决当前通过生成中间token来扩展推理时计算（如思维链）所带来的推理与自回归生成耦合、内部计算与外部通信混淆的问题。技术要点是设计一种分离的潜在推理机制，让模型在工作记忆中独立进行内部计算，再输出最终答案，从而降低生成噪音并提升推理效率。商业价值在于减少无效Token消耗、降低推理成本，并提升对复杂推理问题的响应速度。产品创新方面，可应用于实时对话、代码生成等需要高效推理的场景，提升用户体验和系统吞吐量。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
