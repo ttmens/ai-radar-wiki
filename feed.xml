@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 31 May 2026 08:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 12:02:28 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -107,6 +107,22 @@
       <pubDate>2026-05-31T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该帖子讨论了一个名为'Ego lite'的浏览器代理为何选择使用JavaScript而非CLI命令来执行任务。核心观点是：JavaScript能更直接地与浏览器DOM交互，实现跨平台兼容且无需依赖本地命令行环境，从而简化部署并提升安全性。对AI产品经理而言，这一设计决策展示了在构建自主代理时，代理与环境的交互方式（如直接用JS操控UI vs 通过CLI调用系统）会直接影响产品的可靠性、用户安装成本和适用场景。Ego lite的路径提示我们，优先选择与环境原生兼容的接口可能比传统命令行更高效，尤其适用于需要模拟真实用户操作（如网页自动化、RPA）的产品。</p></description>
       <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Show HN: Komi-learn – continuous memory and self-improvement for coding agents</title>
+      <link>https://github.com/kurikomi-labs/komi-learn</link>
+      <guid isPermaLink="false">show-hn-komi-learn-continuous-memory-and-self-improvement-for-coding-agents</guid>
+      <pubDate>2026-05-31T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Komi-learn 是一个为编程代理设计的持续记忆与自我改进工具，通过引入长期上下文和自适应学习机制，使代码代理能够记住之前的交互并不断优化自身行为。该产品面向开发者工具赛道，旨在提升 AI 编程代理的实用性和自主迭代能力，具有明显的产品创新和商业落地点。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM</title>
+      <link>https://news.ycombinator.com/item?id=48340616</link>
+      <guid isPermaLink="false">rotary-gpu-exploring-local-execution-for-large-moe-models-under-limited-vram</guid>
+      <pubDate>2026-05-31T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了在有限VRAM（显存）条件下本地执行大型MoE（混合专家）模型的方案——Rotary GPU。它通过旋转调度或显存优化技术，使资源受限的设备也能运行大模型，降低云依赖，提升数据隐私与响应速度。对产品经理而言，这意味着可以设计出无需联网、低成本、高隐私的AI产品，尤其在个人助手、边缘计算等场景具有商业潜力。技术要点包括MoE模型的分片执行、显存动态分配以及本地推理效率提升。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Show HN: Open Envelope – an open schema for defining AI agent teams</title>
@@ -394,22 +410,6 @@
       <guid isPermaLink="false">algebraic-effects-for-the-rest-of-us</guid>
       <pubDate>2026-05-30T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文以通俗易懂的方式介绍了代数效应这一编程概念，旨在降低开发者的理解门槛。代数效应是一种处理副作用（如异步操作、错误处理）的抽象机制，能够简化代码逻辑并提升模块化程度。对于AI产品经理而言，虽然代数效应属于底层编程范式，但理解其原理有助于评估AI系统（如大规模模型推理、异步任务调度）的架构设计优劣，尤其当产品需要高效处理复杂副作用时，采用类似模式可能带来性能与可维护性提升。不过，该主题更偏向技术实现层面，需结合具体应用场景考量。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Claude Opus 4.8</title>
-      <link>https://news.ycombinator.com/item?id=48311647</link>
-      <guid isPermaLink="false">claude-opus-48</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic 发布的 Claude Opus 4.8 模型大幅提升了推理能力与上下文处理长度，支持更复杂的多轮对话与长文档分析。其对齐优化减少了幻觉，增强了可操控性，适合高精度场景如法律、医疗。PM 可将此能力集成到自动化工作流中，实现更智能的决策支持，降低人工审核成本。产品创新在于更自然的交互与更长的记忆窗口，推动从辅助工具向自主代理演进。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Five frontier LLMs disagree on 67% of 1k real-world fact-check claims</title>
-      <link>https://news.ycombinator.com/item?id=48307887</link>
-      <guid isPermaLink="false">five-frontier-llms-disagree-on-67-of-1k-real-world-fact-check-claims</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>最新研究显示，五个前沿大语言模型（LLMs）在1000个真实世界事实核查声明中，有67%的案例存在分歧。这意味着当前顶尖模型在事实性判断上远远不够可靠，对产品经理而言，直接依赖单一LLM进行事实输出存在高风险。技术上看，模型间一致性差可能源于训练数据、微调目标或解码策略的差异。商业价值在于需构建验证层——如引入多模型投票、检索增强或外部知识库校验——以提升可信度。产品创新方向包括开发事实一致性评分工具或专门的事实核查Agent，将LLM从‘事实提供者’转变为‘候选生成器’再由人类确认。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
