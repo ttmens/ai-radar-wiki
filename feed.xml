@@ -5,13 +5,45 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 31 May 2026 12:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 16:02:49 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Making sense of the debate over AI psychosis</title>
+      <link>https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/</link>
+      <guid isPermaLink="false">making-sense-of-the-debate-over-ai-psychosis</guid>
+      <pubDate>2026-06-01T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>TechCrunch最新一期Equity节目讨论了科技CEO是否容易陷入'AI精神病'——即过度乐观或脱离现实的AI幻想。对AI产品经理而言，这一讨论提醒我们关注AI行业热潮中的认知偏差，避免被高管叙事误导产品方向。需要平衡技术愿景与真实用户需求，警惕过度承诺导致的产品泡沫。这一辩论有助于产品经理在战略规划中保持理性，基于实际能力而非空想制定路线。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>The solution might be cancelling my AI subscription</title>
+      <link>https://news.ycombinator.com/item?id=48345896</link>
+      <guid isPermaLink="false">the-solution-might-be-cancelling-my-ai-subscription</guid>
+      <pubDate>2026-06-01T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文讨论了用户因AI订阅服务的实际效用不足、成本过高或体验不佳而考虑取消订阅的现象。从产品经理视角看，这反映了AI产品在持续价值交付、用户留存和定价策略上的挑战。技术层面可能涉及模型能力与用户预期差距、长期记忆缺失或个性化不足；商业上需重新评估订阅模式与免费增值的平衡，以及如何通过功能创新（如长期上下文、个性化定制）提升用户粘性。产品创新方向包括降低使用门槛、强化可解释性及提供可量化的ROI证明。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>The people who actually want AI to replace humanity</title>
+      <link>https://news.ycombinator.com/item?id=48345881</link>
+      <guid isPermaLink="false">the-people-who-actually-want-ai-to-replace-humanity</guid>
+      <pubDate>2026-06-01T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了那些真正希望AI取代人类的人群及其动机。从技术能力看，强调了AI在自主决策、任务执行上的突破，可能推动劳动力市场重组。商业价值在于自动化可降低企业成本、提升效率，但也引发伦理与就业冲击。产品创新方面，需关注人机协作新范式，如AI作为独立代理执行复杂流程。PM需权衡技术潜力与社会影响，设计以用户信任为核心的过渡策略。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>1-Bit Bonsai Image 4B Image Generation for Local Devices</title>
+      <link>https://news.ycombinator.com/item?id=48346257</link>
+      <guid isPermaLink="false">1-bit-bonsai-image-4b-image-generation-for-local-devices</guid>
+      <pubDate>2026-06-01T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文介绍了一种名为 '1-Bit Bonsai Image' 的 4B 参数图像生成模型，通过 1-bit 量化技术大幅压缩模型体积，使其能够在本地设备（如手机、边缘终端）上高效运行。该技术突破了传统大模型对云端的依赖，在保持图像生成质量的同时，显著降低推理延迟和功耗，为隐私敏感场景和离线应用提供了可行方案。对于产品经理而言，这预示着轻量化、本地化的生成式 AI 将加速落地，尤其在移动端、物联网等资源受限设备上，可催生新的交互体验和商业化机会。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>Anthropic surpasses OpenAI to become most valuable AI startup</title>
       <link>https://news.ycombinator.com/item?id=48336233</link>
@@ -378,38 +410,6 @@
       <guid isPermaLink="false">ai-will-be-used-to-estimate-age-of-asylum-seekers-from-next-year</guid>
       <pubDate>2026-05-30T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>明年起，AI 系统将用于估算寻求庇护者的年龄，以解决缺乏身份文件时的年龄判定难题。技术要点可能结合面部特征分析、骨龄预估或语音识别，提升准确性与效率。商业价值在于为移民管理机构提供可扩展、低成本的年龄评估方案，减少人工误判与争议。产品创新体现在将 AI 嵌入关键行政决策流程，并需平衡隐私、公平与透明性，这对产品经理而言涉及可信 AI 设计、用户反馈机制与伦理审计。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Today is the last day to apply to speak at TechCrunch Disrupt 2026</title>
-      <link>https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="false">today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026</guid>
-      <pubDate>2026-05-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>TechCrunch Disrupt 2026演讲申请今日截止，AI产品经理可借此机会分享见解、参与定义科技行业的关键对话。该活动是连接创业生态、投资机构和技术领袖的重要平台，有助于把握AI商业化趋势。建议有成熟产品案例或创新思路的PM尽快提交议题，获取行业曝光与资源对接机会。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA</title>
-      <link>https://news.ycombinator.com/item?id=48328184</link>
-      <guid isPermaLink="false">show-hn-tiny-vllm-high-performance-llm-inference-engine-in-c-and-cuda</guid>
-      <pubDate>2026-05-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Tiny-vLLM 是一个用 C++ 和 CUDA 实现的高性能 LLM 推理引擎，专注于提升推理速度和降低资源消耗。对产品经理而言，其技术亮点在于极低的延迟和高效的 GPU 利用，可显著降低云推理成本或支持本地 / 边缘部署。商业价值体现在让中小企业也能负担高质量 AI 服务，产品创新点在于轻量化设计，易于集成到现有系统。该引擎适合对实时性要求高的场景，如聊天机器人、代码助手等。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: VT Code – open-source terminal coding agent in Rust</title>
-      <link>https://github.com/vinhnx/VTCode</link>
-      <guid isPermaLink="false">show-hn-vt-code-open-source-terminal-coding-agent-in-rust</guid>
-      <pubDate>2026-05-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>VT Code 是一个开源的终端编码代理，使用 Rust 语言实现，专注于在命令行环境中为开发者提供 AI 辅助编程能力。它支持代码生成、理解和编辑，通过终端原生交互降低使用门槛，适合习惯命令行的开发者。技术亮点在于 Rust 的高性能与低资源占用，可集成多种大语言模型。产品创新点在于将 AI 编码代理从传统 IDE 插件形态迁移到纯终端，提升了自动化脚本和远程开发场景的灵活性。商业价值上，开源模式促进社区协作，有望成为开发者生态中的重要工具。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Algebraic Effects for the Rest of Us</title>
-      <link>https://news.ycombinator.com/item?id=48283009</link>
-      <guid isPermaLink="false">algebraic-effects-for-the-rest-of-us</guid>
-      <pubDate>2026-05-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文以通俗易懂的方式介绍了代数效应这一编程概念，旨在降低开发者的理解门槛。代数效应是一种处理副作用（如异步操作、错误处理）的抽象机制，能够简化代码逻辑并提升模块化程度。对于AI产品经理而言，虽然代数效应属于底层编程范式，但理解其原理有助于评估AI系统（如大规模模型推理、异步任务调度）的架构设计优劣，尤其当产品需要高效处理复杂副作用时，采用类似模式可能带来性能与可维护性提升。不过，该主题更偏向技术实现层面，需结合具体应用场景考量。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
