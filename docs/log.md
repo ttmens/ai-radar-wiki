@@ -1221,3 +1221,11 @@
 - create: 1-bit-bonsai-image-4b-image-generation-for-local-devices.md
 - create: the-people-who-actually-want-ai-to-replace-humanity.md
 - create: making-sense-of-the-debate-over-ai-psychosis.md
+
+## [2026-06-01 06:03] sync v3 | 6 new | pillars: {'capabilities': 6}
+- create: creatine-raises-brain-energy-levels-and-slows-cognitive-decline-study.md
+- create: united-airlines-767-returns-to-newark-after-bluetooth-name-sparks-alert.md
+- create: the-speed-of-prototyping-in-the-age-of-ai.md
+- create: odysseus-self-hosted-ai-workspace.md
+- create: daily-pill-can-double-survival-time-for-deadliest-cancer-trial-shows.md
+- create: erin-brockovich-takes-aim-at-data-center-secrecy.md

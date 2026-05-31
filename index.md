@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-01 | Total pages: 1060
+> Last updated: 2026-06-01 | Total pages: 1066
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -56,10 +56,12 @@
 - [[codex-is-now-in-the-chatgpt-mobile-app.md]] Codex is now in the ChatGPT mobile app `pillar:capabilities` `score:0.635`
 - [[comically-bad-datasets-used-to-train-clinical-models-for-stroke-and-diabetes.md]] 'Comically bad' datasets used to train clinical models for stroke and diabetes `pillar:capabilities` `score:0.33`
 - [[copyfail-from-pod-to-host.md]] CopyFail: From Pod to Host `pillar:capabilities` `score:0.295`
+- [[creatine-raises-brain-energy-levels-and-slows-cognitive-decline-study.md]] Creatine raises brain energy levels and slows cognitive decline: study `pillar:capabilities` `score:0.455`
 - [[cutting-inference-cold-starts-by-40x-with-lp-fuse-cr-and-cuda-checkpoint.md]] Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint `pillar:capabilities` `score:0.38`
 - [[cvat-aicvat.md]] cvat-ai/cvat `pillar:capabilities` `score:0.615`
 - [[cve-2026-28952-apple-macos-265-kernel-vuln-found-by-claude.md]] CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude `pillar:capabilities` `score:0.395`
 - [[cvhub520x-anylabeling.md]] CVHub520/X-AnyLabeling `pillar:capabilities` `score:0.565`
+- [[daily-pill-can-double-survival-time-for-deadliest-cancer-trial-shows.md]] Daily pill can double survival time for deadliest cancer, trial shows `pillar:capabilities` `score:0.305`
 - [[data-centric-ai-communityfg-data-profiling.md]] Data-Centric-AI-Community/fg-data-profiling `pillar:capabilities` `score:0.58`
 - [[daviskingdlib.md]] davisking/dlib `pillar:capabilities` `score:0.545`
 - [[deepfakesfaceswap.md]] deepfakes/faceswap `pillar:capabilities` `score:0.58`
@@ -175,6 +177,7 @@
 - [[norways-2-petabytes-of-huawei-flash-storage-and-llm-training.md]] Norway's 2 petabytes of Huawei flash storage and LLM training `pillar:capabilities` `score:0.36`
 - [[notes-about-reading-messages-with-the-python-email-packages.md]] Notes about reading messages with the Python email packages `pillar:capabilities` `score:0.225`
 - [[notes-from-the-mistral-ai-now-summit-in-paris.md]] Notes from the Mistral AI Now Summit in Paris `pillar:capabilities` `score:0.58`
+- [[odysseus-self-hosted-ai-workspace.md]] Odysseus – self-hosted AI workspace `pillar:capabilities` `score:0.43`
 - [[ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts.md]] Ontario auditors find doctors' AI note takers routinely blow basic facts `pillar:capabilities` `score:0.565`
 - [[openai-adopts-googles-synthid-watermark-for-ai-images-with-verification-tool.md]] OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool `pillar:capabilities` `score:0.465`
 - [[openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time.md]] OpenAI claims it solved an 80-year-old math problem — for real this time `pillar:capabilities` `score:0.515`
@@ -258,6 +261,7 @@
 - [[the-people-who-actually-want-ai-to-replace-humanity.md]] The people who actually want AI to replace humanity `pillar:capabilities` `score:0.41`
 - [[the-physicists-who-convinced-fermilab-to-send-brazils-emails.md]] The physicists who convinced Fermilab to send Brazil's emails `pillar:capabilities` `score:0.155`
 - [[the-soul-of-maintaining-a-new-machine.md]] The soul of maintaining a new machine `pillar:capabilities` `score:0.38`
+- [[the-speed-of-prototyping-in-the-age-of-ai.md]] The Speed of Prototyping in the Age of AI `pillar:capabilities` `score:0.48`
 - [[the-structural-barriers-to-ai-lawyers.md]] The Structural Barriers to AI Lawyers `pillar:capabilities` `score:0.395`
 - [[the-wonders-of-ai-we-are-retiring-our-bug-bounty-program.md]] The Wonders of AI: We Are Retiring Our Bug Bounty Program `pillar:capabilities` `score:0.255`
 - [[this-startup-is-betting-india8217s-gig-economy-can-train-the-world8217s-robots.md]] This startup is betting India&#8217;s gig economy can train the world&#8217;s ro `pillar:capabilities` `score:0.48`
@@ -269,6 +273,7 @@
 - [[two-ea-18-fighter-jets-collide-at-mountain-home-airshow-pilots-ejected-safely.md]] Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely `pillar:capabilities` `score:0.305`
 - [[uk-sovereign-llm-inference.md]] UK sovereign LLM inference `pillar:capabilities` `score:0.445`
 - [[ultralyticsyolov5.md]] ultralytics/yolov5 `pillar:capabilities` `score:0.615`
+- [[united-airlines-767-returns-to-newark-after-bluetooth-name-sparks-alert.md]] United Airlines 767 returns to Newark after Bluetooth name sparks alert `pillar:capabilities` `score:0.455`
 - [[unitree-gd01-chinas-537k-rideable-transformer-r.md]] Unitree GD01: China's $537k rideable transformer robot is now in production `pillar:capabilities` `score:0.305`
 - [[unity-technologiesml-agents.md]] Unity-Technologies/ml-agents `pillar:capabilities` `score:0.58`
 - [[unslothaiunsloth.md]] unslothai/unsloth `pillar:capabilities` `score:0.58`
@@ -707,6 +712,7 @@
 - [[danny-avilalibrechat.md]] danny-avila/LibreChat `pillar:ecosystem` `score:0.615`
 - [[datawhalechinaself-llm.md]] datawhalechina/self-llm `pillar:ecosystem` `score:0.58`
 - [[dmlcxgboost.md]] dmlc/xgboost `pillar:ecosystem` `score:0.615`
+- [[erin-brockovich-takes-aim-at-data-center-secrecy.md]] Erin Brockovich takes aim at data center secrecy `pillar:ecosystem` `score:0.375`
 - [[ethicalmlawesome-production-machine-learning.md]] EthicalML/awesome-production-machine-learning `pillar:ecosystem` `score:0.58`
 - [[everyone-is-navigating-ai-security-in-real-time-8212-even-google.md]] Everyone is navigating AI security in real time &#8212; even Google `pillar:ecosystem` `score:0.515`
 - [[fastaifastai.md]] fastai/fastai `pillar:ecosystem` `score:0.58`

@@ -1,8 +1,41 @@
 {
   "date": "2026-06-01",
-  "generated_at": "2026-06-01T00:01:24.013461+08:00",
-  "item_count": 4,
+  "generated_at": "2026-06-01T06:03:26.058023+08:00",
+  "item_count": 10,
   "items": [
+    {
+      "id": "the-speed-of-prototyping-in-the-age-of-ai",
+      "label": "The Speed of Prototyping in the Age of AI",
+      "summary": "本文探讨AI时代原型开发速度的显著提升。AI工具（如代码生成、设计辅助）使产品经理能快速验证想法、迭代功能，大幅缩短从概念到MVP的周期。技术要点包括低代码/无代码平台、生成式AI辅助原型设计；商业价值在于降低试错成本、加速市场响应；产品创新体现在更灵活的敏捷开发流程。强调了AI作为‘加速器’的角色，而非替代人类决策。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48347153",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "united-airlines-767-returns-to-newark-after-bluetooth-name-sparks-alert",
+      "label": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48345248",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "creatine-raises-brain-energy-levels-and-slows-cognitive-decline-study",
+      "label": "Creatine raises brain energy levels and slows cognitive decline: study",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48346947",
+      "date": "2026-06-01"
+    },
     {
       "id": "making-sense-of-the-debate-over-ai-psychosis",
       "label": "Making sense of the debate over AI psychosis",
@@ -12,6 +45,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "date": "2026-06-01"
+    },
+    {
+      "id": "odysseus-self-hosted-ai-workspace",
+      "label": "Odysseus – self-hosted AI workspace",
+      "summary": "Odysseus 是一个自托管的 AI 工作空间，强调数据隐私和完全控制权。技术要点包括本地化部署、无需外部 API 即可运行 AI 模型，可能集成检索增强生成（RAG）和知识管理功能。商业价值在于为企业或高级用户提供可定制的私有 AI 环境，避免数据外泄。产品创新在于将 AI 助手、文件管理与自托管特性结合，类似于本地版的 Notion AI 或 Obsidian AI，但完全开源且用户自控。该产品适合对安全性和合规性要求高的场景，如法律、医疗或金融领域。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48346693",
       "date": "2026-06-01"
     },
     {
@@ -37,6 +81,17 @@
       "date": "2026-06-01"
     },
     {
+      "id": "erin-brockovich-takes-aim-at-data-center-secrecy",
+      "label": "Erin Brockovich takes aim at data center secrecy",
+      "summary": "环保活动家Erin Brockovich发起针对数据中心保密性的新行动，质疑大型科技公司在数据中心的选址、能耗及环境影响方面缺乏透明度。此举可能推动更严格的监管要求，对AI基础设施的部署和运营策略产生潜在影响。产品经理需关注数据中心的社会许可、可持续性指标及公众信任风险。",
+      "pm_score": 0.375,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+      "date": "2026-06-01"
+    },
+    {
       "id": "1-bit-bonsai-image-4b-image-generation-for-local-devices",
       "label": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
       "summary": "本文介绍了一种名为 '1-Bit Bonsai Image' 的 4B 参数图像生成模型，通过 1-bit 量化技术大幅压缩模型体积，使其能够在本地设备（如手机、边缘终端）上高效运行。该技术突破了传统大模型对云端的依赖，在保持图像生成质量的同时，显著降低推理延迟和功耗，为隐私敏感场景和离线应用提供了可行方案。对于产品经理而言，这预示着轻量化、本地化的生成式 AI 将加速落地，尤其在移动端、物联网等资源受限设备上，可催生新的交互体验和商业化机会。",
@@ -46,10 +101,21 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48346257",
       "date": "2026-06-01"
+    },
+    {
+      "id": "daily-pill-can-double-survival-time-for-deadliest-cancer-trial-shows",
+      "label": "Daily pill can double survival time for deadliest cancer, trial shows",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48346629",
+      "date": "2026-06-01"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1041,
-    "edges": 72558
+    "real_nodes": 1047,
+    "edges": 73606
   }
 }

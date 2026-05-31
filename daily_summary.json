@@ -2,55 +2,72 @@
   "daily_summary": {
     "date": "2026-06-01",
     "headline": "今日 AI 情报 · 2026-06-01",
-    "overview": "AI产品从炒作回归实用价值，轻量化与本地化成为关键",
+    "overview": "AI能力本地化与原型加速成为主旋律，产品价值交付面临用户留存挑战。",
     "narratives": [
       {
-        "title": "AI产品从炒作回归实用价值：轻量化与本地化成为关键",
-        "body": "今日情报揭示，AI行业正在经历从宏大叙事到落地验证的转折：1-bit量化使本地图像生成成为可能，自主决策能力提升引发了替代人类的讨论，同时业界开始反思'AI精神病'式的过度乐观。这些信号共同指向一个方向——AI产品必须通过轻量化、本地化、可量化的实际价值来满足用户，而非依赖资本叙事的泡沫。产品经理应聚焦于缩小预期差距、设计可测量的ROI，并优先在隐私敏感和离线场景中落地。",
-        "type": "maturation",
+        "title": "AI能力本地化与原型加速：从云端到自主部署",
+        "body": "今日多项情报指向同一趋势：AI正从依赖云端大模型转向本地化、轻量化部署，并显著加速产品原型迭代。本地图像生成模型（1-bit量化）和自托管工作空间的出现，意味着PM可以更低成本、更快速度验证想法，同时兼顾数据隐私。这一转变将催生更多边缘AI应用，并迫使产品架构重新设计。",
+        "type": "paradigm_shift",
         "pillar_key": "capabilities"
+      },
+      {
+        "title": "AI产品价值交付危机：用户留存与理性回归",
+        "body": "用户取消订阅的趋势与行业对'AI精神病'的讨论同步出现，表明AI产品进入价值验证阶段。PM必须警惕高管叙事与用户实际需求之间的鸿沟，通过可量化ROI和个性化体验证明订阅价值；同时关注数据中心监管对成本的影响，避免因基础设施不确定性和过度承诺导致产品泡沫。",
+        "type": "maturation",
+        "pillar_key": "business"
       }
     ],
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "narrative_title": "AI产品从炒作回归实用价值：轻量化与本地化成为关键",
-        "insight": "AI产品从炒作回归实用价值：轻量化与本地化成为关键。该方向的具体信号：1-bit量化实现4B参数图像模型本地运行（ID4），AI自主决策能力提升引发人机替代讨论（ID3），同时行业热议'AI精神病'警示认知偏差（ID1），表明技术正从炫技转向可落地的实际应用，为隐私敏感场景和离线场景提供可行性。",
+        "narrative_title": "AI能力本地化与原型加速：从云端到自主部署",
+        "insight": "AI能力本地化与原型加速：从云端到自主部署。该方向的具体信号：AI开发工具（代码生成、低代码平台）大幅缩短从概念到MVP的周期；1-bit量化图像模型使4B参数规模可在本地设备运行；自托管AI工作空间（如Odysseus）满足企业对数据隐私和完全控制的需求，三者共同推动AI从集中式云服务向分布式、快速迭代范式转变。",
         "evidence": [
           {
-            "id": "making-sense-of-the-debate-over-ai-psychosis",
-            "title": "反思AI精神病：警惕过度乐观的认知偏差",
-            "score": 0.45
-          },
-          {
-            "id": "1-bit-bonsai-image-4b-image-generation-for-local-devices",
-            "title": "1-bit量化实现4B参数图像生成模型本地运行",
-            "score": 0.36
+            "id": "odysseus-self-hosted-ai-workspace",
+            "title": "Odysseus – self-hosted AI workspace",
+            "score": 0.43
           }
         ]
       },
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "narrative_title": "AI产品从炒作回归实用价值：轻量化与本地化成为关键",
-        "insight": "AI产品从炒作回归实用价值：轻量化与本地化成为关键。该方向的具体信号：用户因AI订阅效用不足、成本过高而考虑取消（ID2），表明商业上需重新评估订阅定价与免费增值平衡，通过提供可量化的ROI、长期上下文和个性化定制提升用户粘性。",
+        "narrative_title": "AI产品价值交付危机：用户留存与理性回归",
+        "insight": "AI产品价值交付危机：用户留存与理性回归。该方向的具体信号：用户因效用不足或成本过高而取消AI订阅，暴露出持续价值交付和定价策略的短板；行业讨论'AI精神病'警示PM避免被高管乐观叙事误导；同时数据中心监管压力（如Erin Brockovich行动）可能增加基础设施成本，迫使团队更务实衡量产品ROI。",
         "evidence": [
           {
-            "id": "the-solution-might-be-cancelling-my-ai-subscription",
-            "title": "用户因效用不足考虑取消AI订阅",
-            "score": 0.43
+            "id": "erin-brockovich-takes-aim-at-data-center-secrecy",
+            "title": "Erin Brockovich takes aim at data center secrecy",
+            "score": 0.38
           }
         ]
       }
     ],
-    "stats": "技术能力: 3 | 产品模式: 0 | 工具生态: 0 | 商业趋势: 1",
-    "total_items": 4,
-    "high_value_count": 4,
+    "stats": "技术能力: 5 | 产品模式: 0 | 工具生态: 1 | 商业趋势: 1",
+    "total_items": 10,
+    "high_value_count": 10,
     "all_today_ids": [
+      {
+        "id": "the-speed-of-prototyping-in-the-age-of-ai",
+        "label": "The Speed of Prototyping in the Age of AI"
+      },
+      {
+        "id": "united-airlines-767-returns-to-newark-after-bluetooth-name-sparks-alert",
+        "label": "United Airlines 767 returns to Newark after Bluetooth name sparks alert"
+      },
+      {
+        "id": "creatine-raises-brain-energy-levels-and-slows-cognitive-decline-study",
+        "label": "Creatine raises brain energy levels and slows cognitive decline: study"
+      },
       {
         "id": "making-sense-of-the-debate-over-ai-psychosis",
         "label": "Making sense of the debate over AI psychosis"
+      },
+      {
+        "id": "odysseus-self-hosted-ai-workspace",
+        "label": "Odysseus – self-hosted AI workspace"
       },
       {
         "id": "the-solution-might-be-cancelling-my-ai-subscription",
@@ -61,11 +78,19 @@
         "label": "The people who actually want AI to replace humanity"
       },
       {
+        "id": "erin-brockovich-takes-aim-at-data-center-secrecy",
+        "label": "Erin Brockovich takes aim at data center secrecy"
+      },
+      {
         "id": "1-bit-bonsai-image-4b-image-generation-for-local-devices",
         "label": "1-Bit Bonsai Image 4B Image Generation for Local Devices"
+      },
+      {
+        "id": "daily-pill-can-double-survival-time-for-deadliest-cancer-trial-shows",
+        "label": "Daily pill can double survival time for deadliest cancer, trial shows"
       }
     ],
     "date_bj": "2026-06-01 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-06-01 00:01:13"
+    "generated_at_bj": "2026-06-01 06:03:05"
   }
 }

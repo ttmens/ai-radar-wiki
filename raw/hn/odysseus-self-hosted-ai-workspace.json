@@ -1,0 +1,24 @@
+{
+  "title": "Odysseus – self-hosted AI workspace",
+  "score": 76,
+  "comments": 47,
+  "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+  "hn_url": "https://news.ycombinator.com/item?id=48346693",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Odysseus 是一个自托管的 AI 工作空间，强调数据隐私和完全控制权。技术要点包括本地化部署、无需外部 API 即可运行 AI 模型，可能集成检索增强生成（RAG）和知识管理功能。商业价值在于为企业或高级用户提供可定制的私有 AI 环境，避免数据外泄。产品创新在于将 AI 助手、文件管理与自托管特性结合，类似于本地版的 Notion AI 或 Obsidian AI，但完全开源且用户自控。该产品适合对安全性和合规性要求高的场景，如法律、医疗或金融领域。",
+  "pm_relevance": 8,
+  "concepts": [
+    "自托管 AI",
+    "隐私优先工作空间",
+    "本地化 AI 部署"
+  ],
+  "entities": [
+    "Odysseus"
+  ],
+  "patterns": [
+    "Local-First AI",
+    "Self-hosted AI Workspace"
+  ]
+}
