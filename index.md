@@ -1,9 +1,10 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-05-31 | Total pages: 1056
+> Last updated: 2026-06-01 | Total pages: 1060
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
+- [[1-bit-bonsai-image-4b-image-generation-for-local-devices.md]] 1-Bit Bonsai Image 4B Image Generation for Local Devices `pillar:capabilities` `score:0.365`
 - [[1940-air-terminal-museum-begins-liquidation.md]] 1940 Air Terminal Museum Begins Liquidation `pillar:capabilities` `score:0.135`
 - [[2noisechattts.md]] 2noise/ChatTTS `pillar:capabilities` `score:0.58`
 - [[a-0-click-exploit-chain-for-the-pixel-10.md]] A 0-click exploit chain for the Pixel 10 `pillar:capabilities` `score:0.41`
@@ -148,6 +149,7 @@
 - [[magical-realism-northern-exposure-25-years-later-2015.md]] Magical Realism: “Northern Exposure” 25 Years Later (2015) `pillar:capabilities` `score:0.085`
 - [[making-deep-learning-go-brrrr-from-first-principles.md]] Making Deep Learning Go Brrrr from First Principles `pillar:capabilities` `score:0.43`
 - [[making-llm-training-faster-with-unsloth-and-nvidia.md]] Making LLM Training Faster with Unsloth and NVIDIA `pillar:capabilities` `score:0.155`
+- [[making-sense-of-the-debate-over-ai-psychosis.md]] Making sense of the debate over AI psychosis `pillar:capabilities` `score:0.445`
 - [[marimo-teammarimo.md]] marimo-team/marimo `pillar:capabilities` `score:0.58`
 - [[meta-is-reportedly-developing-an-ai-pendant.md]] Meta is reportedly developing an AI pendant `pillar:capabilities` `score:0.48`
 - [[microsoftonnxruntime.md]] microsoft/onnxruntime `pillar:capabilities` `score:0.615`
@@ -253,6 +255,7 @@
 - [[the-main-thing-about-p2p-meth-is-that-theres-so-much-of-it-2021.md]] The main thing about P2P meth is that there's so much of it (2021) `pillar:capabilities` `score:0.305`
 - [[the-mysterious-hy3-llm-is-topping-openrouter-model-rankings-by-a-large-margin.md]] The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin `pillar:capabilities` `score:0.48`
 - [[the-path-founded-by-tony-robbins-and-calm-alums-hopes-to-offer-safer-ai-therapy.md]] The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therap `pillar:capabilities` `score:0.48`
+- [[the-people-who-actually-want-ai-to-replace-humanity.md]] The people who actually want AI to replace humanity `pillar:capabilities` `score:0.41`
 - [[the-physicists-who-convinced-fermilab-to-send-brazils-emails.md]] The physicists who convinced Fermilab to send Brazil's emails `pillar:capabilities` `score:0.155`
 - [[the-soul-of-maintaining-a-new-machine.md]] The soul of maintaining a new machine `pillar:capabilities` `score:0.38`
 - [[the-structural-barriers-to-ai-lawyers.md]] The Structural Barriers to AI Lawyers `pillar:capabilities` `score:0.395`
@@ -989,6 +992,7 @@
 - [[the-haves-and-have-nots-of-the-ai-gold-rush.md]] The haves and have nots of the AI gold rush `pillar:business` `score:0.48`
 - [[the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning.md]] The OpenAI trial wraps up, and the Musk founder machine keeps spinning `pillar:business` `score:0.445`
 - [[the-peoples-airline-and-the-enterprise-ai-gold.md]] The “people’s airline” and the enterprise AI gold rush `pillar:business` `score:0.48`
+- [[the-solution-might-be-cancelling-my-ai-subscription.md]] The solution might be cancelling my AI subscription `pillar:business` `score:0.43`
 - [[the-us-is-winning-the-ai-race-where-it-matters-mos.md]] The US is winning the AI race where it matters most: commercialization `pillar:business` `score:0.405`
 - [[there-aren8217t-enough-rockets-for-space-data-c.md]] There aren&#8217;t enough rockets for space data centers. Cowboy Space raised $2 `pillar:business` `score:0.305`
 - [[thinking-machines-wants-to-build-an-ai-that-actual.md]] Thinking Machines wants to build an AI that actually listens while it talks `pillar:business` `score:0.305`

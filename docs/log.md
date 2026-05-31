@@ -1215,3 +1215,9 @@
 ## [2026-05-31 18:01] sync v3 | 2 new | pillars: {'capabilities': 1, 'patterns': 1}
 - create: rotary-gpu-exploring-local-execution-for-large-moe-models-under-limited-vram.md
 - create: show-hn-komi-learn-continuous-memory-and-self-improvement-for-coding-agents.md
+
+## [2026-06-01 00:01] sync v3 | 4 new | pillars: {'capabilities': 4}
+- create: the-solution-might-be-cancelling-my-ai-subscription.md
+- create: 1-bit-bonsai-image-4b-image-generation-for-local-devices.md
+- create: the-people-who-actually-want-ai-to-replace-humanity.md
+- create: making-sense-of-the-debate-over-ai-psychosis.md

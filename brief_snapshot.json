@@ -1,198 +1,55 @@
 {
-  "date": "2026-05-31",
-  "generated_at": "2026-05-31T18:01:52.887237+08:00",
-  "item_count": 17,
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T00:01:24.013461+08:00",
+  "item_count": 4,
   "items": [
     {
-      "id": "anthropic-surpasses-openai-to-become-most-valuable-ai-startup",
-      "label": "Anthropic surpasses OpenAI to become most valuable AI startup",
-      "summary": "Anthropic凭借Claude系列模型的技术突破与安全研究优势，其估值超越OpenAI，成为全球最高估值的AI初创公司。这标志着大模型竞争从单纯技术比拼转向商业模式、市场信任与生态构建的综合较量。对于AI产品经理而言，这提示关注模型能力的差异化定位、企业级安全需求以及开源/闭源策略的长期影响。Anthropic的崛起也反映了资本对可控、可解释AI路线的高度认可。",
-      "pm_score": 0.63,
-      "pillar": "business",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48336233",
-      "date": "2026-05-31"
-    },
-    {
-      "id": "openrouter-raises-113m-series-b",
-      "label": "OpenRouter raises $113M Series B",
-      "summary": "OpenRouter 完成 1.13 亿美元 B 轮融资，该平台提供统一的 API 接口，让开发者能轻松接入和切换多种大语言模型（如 GPT、Claude、Gemini 等），避免了与多家供应商分别对接的复杂性和锁定风险。融资将用于扩充模型支持范围、提升路由智能度（如自动选择性价比最优模型）以及增强开发者工具。对 AI 产品经理而言，这进一步推动了“模型编排”和“多模型策略”的可行性，降低调用不同模型的门槛，助力产品快速迭代与成本优化。",
-      "pm_score": 0.6,
-      "pillar": "ecosystem",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48338660",
-      "date": "2026-05-31"
-    },
-    {
-      "id": "nirdiamantgenai_agents",
-      "label": "NirDiamant/GenAI_Agents",
-      "summary": "该仓库提供了50多个关于生成式AI Agent技术的教程和实现案例，覆盖从基础对话机器人到复杂多智能体系统的完整演进路径。面向AI产品经理，核心价值在于系统化梳理Agent设计模式（如记忆管理、工具调用、多智能体协作），帮助快速原型验证和降低技术选型风险。商业启示在于可复用的Agent架构模板能加速对话型产品落地，同时多Agent编排能力适合复杂工作流自动化场景。产品创新点包括模块化教程结构支持渐进式学习，以及开源社区迭代带来的模式先进性。",
-      "pm_score": 0.58,
-      "pillar": "patterns",
-      "type": "github",
-      "source_type": "github",
-      "url": "https://github.com/NirDiamant/GenAI_Agents",
-      "date": "2026-05-31"
-    },
-    {
-      "id": "corporate-america-is-starting-to-ration-ai-as-cost-skyrockets",
-      "label": "Corporate America Is Starting to Ration AI as Cost Skyrockets",
-      "summary": "美国企业因AI推理和API调用成本飙升，开始实施配额限制与预算控制。产品经理需关注模型效率优化（如量化、蒸馏）、缓存策略及混合部署方案，以平衡AI能力与商业ROI。成本理性化将催生企业级AI治理工具与按需弹性资源分配模式。",
-      "pm_score": 0.55,
-      "pillar": "business",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48335388",
-      "date": "2026-05-31"
-    },
-    {
-      "id": "8216what-a-joke8217-github-copilot8217s-new-token-based-billing-spurs-consternat",
-      "label": "&#8216;What a joke&#8217;: Github Copilot&#8217;s new token-based billing spurs",
-      "summary": "GitHub Copilot 将计费模式从固定订阅改为基于 token 的使用量付费，引发开发者强烈不满，认为成本激增且不透明。此举旨在提升微软盈利能力，但可能损害用户忠诚度与产品口碑。对AI产品经理而言，需警惕定价变更对用户留存和市场竞争力的冲击，同时反思按量计费在AI助手类产品中的适用性与透明度设计。",
-      "pm_score": 0.515,
-      "pillar": "business",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-      "date": "2026-05-31"
-    },
-    {
-      "id": "i-put-google8217s-247-ai-assistant-gemini-spark-to-work-and-it8217s-actually-pre",
-      "label": "I put Google&#8217;s 24/7 AI assistant Gemini Spark to work, and it&#8217;s actu",
-      "summary": "Google推出Gemini Spark作为独立24/7 AI助手，可自动化收件箱摘要、本地活动规划等日常任务。技术核心基于Gemini模型持续运行，但作为独立产品定位不明，可能与Google现有AI功能（如Assistant、Bard）重叠，引发产品策略争议。商业价值在于简化用户高频操作、提升效率，但独立产品模式可能增加用户切换成本。产品创新点在于强调持续驻留的AI陪伴感，但缺乏差异化场景。",
-      "pm_score": 0.48,
-      "pillar": "patterns",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "date": "2026-05-31"
-    },
-    {
-      "id": "meta-is-reportedly-developing-an-ai-pendant",
-      "label": "Meta is reportedly developing an AI pendant",
-      "summary": "据TechCrunch报道，Meta正在开发一款AI吊坠硬件，标志着其在AI驱动硬件领域的大规模押注。该设备采用可穿戴形态，可能集成语音助手、视觉识别等AI能力，旨在提供全天候、免提的智能交互体验。对AI产品经理而言，这反映了从软件向硬件延伸的趋势，强调端侧AI推理与隐私设计。商业上，Meta意图抢占物理AI入口，与苹果Vision Pro等形成差异化竞争。产品创新点在于轻量化、低功耗的持续感知模式，可能改变用户与AI的交互习惯。",
-      "pm_score": 0.48,
+      "id": "making-sense-of-the-debate-over-ai-psychosis",
+      "label": "Making sense of the debate over AI psychosis",
+      "summary": "TechCrunch最新一期Equity节目讨论了科技CEO是否容易陷入'AI精神病'——即过度乐观或脱离现实的AI幻想。对AI产品经理而言，这一讨论提醒我们关注AI行业热潮中的认知偏差，避免被高管叙事误导产品方向。需要平衡技术愿景与真实用户需求，警惕过度承诺导致的产品泡沫。这一辩论有助于产品经理在战略规划中保持理性，基于实际能力而非空想制定路线。",
+      "pm_score": 0.445,
       "pillar": "capabilities",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-      "date": "2026-05-31"
+      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "date": "2026-06-01"
     },
     {
-      "id": "softbank-says-it-will-invest-up-to-75-billion-to-build-french-data-centers",
-      "label": "SoftBank says it will invest up to €75 billion to build French data centers",
-      "summary": "软银宣布将投资高达750亿欧元（约合800亿美元）在法国建设数据中心，目标开发和运营最高5吉瓦（GW）的额外数据中心容量。这笔巨额投资反映了AI算力需求的指数级增长，特别是在模型训练和推理方面。对AI产品经理而言，这意味着未来在欧洲市场部署AI产品时，可获得更低的延迟、更高的可用性以及更强的本地化算力支持。此外，大规模数据中心集群的落地将降低云服务成本，推动更多创新AI应用从实验走向规模化。该投资也标志着软银对AI基础设施的长期战略押注，可能影响全球AI算力格局。",
-      "pm_score": 0.48,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-      "date": "2026-05-31"
-    },
-    {
-      "id": "domain-expertise-has-always-been-the-real-moat",
-      "label": "Domain expertise has always been the real moat",
-      "summary": "这篇文章指出，在AI竞争日益激烈的背景下，领域专长（Domain Expertise）才是真正的护城河，而非通用AI模型能力。对于AI产品经理而言，这意味着产品创新的核心在于深耕垂直行业，积累高质量、有壁垒的专有数据和知识体系。商业价值体现在：通过领域数据形成的专业知识库，可以构建竞争对手难以复制的差异化优势，提升产品在特定场景下的准确性和用户粘性。技术要点上，需要关注RAG（检索增强生成）、微调等技术与领域知识的深度融合，打造更具行业深度的AI应用。",
-      "pm_score": 0.465,
+      "id": "the-solution-might-be-cancelling-my-ai-subscription",
+      "label": "The solution might be cancelling my AI subscription",
+      "summary": "本文讨论了用户因AI订阅服务的实际效用不足、成本过高或体验不佳而考虑取消订阅的现象。从产品经理视角看，这反映了AI产品在持续价值交付、用户留存和定价策略上的挑战。技术层面可能涉及模型能力与用户预期差距、长期记忆缺失或个性化不足；商业上需重新评估订阅模式与免费增值的平衡，以及如何通过功能创新（如长期上下文、个性化定制）提升用户粘性。产品创新方向包括降低使用门槛、强化可解释性及提供可量化的ROI证明。",
+      "pm_score": 0.43,
       "pillar": "business",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48340411",
-      "date": "2026-05-31"
+      "url": "https://news.ycombinator.com/item?id=48345896",
+      "date": "2026-06-01"
     },
     {
-      "id": "the-kaiser-and-a-mediocre-man-theory-of-history",
-      "label": "The Kaiser and a \"Mediocre Man\" Theory of History",
-      "summary": "本文探讨了将历史中“平庸之人”理论类比于当前AI能力局限性的观点，指出如同历史上平庸领导者导致失败，AI在复杂任务中的平庸表现可能限制其产品价值。对于AI产品经理而言，需关注模型在推理、创造性等维度的实际短板，避免过度依赖表面能力，应设计更稳健的人机协作流程，平衡自动化与人工监督。",
+      "id": "the-people-who-actually-want-ai-to-replace-humanity",
+      "label": "The people who actually want AI to replace humanity",
+      "summary": "本文探讨了那些真正希望AI取代人类的人群及其动机。从技术能力看，强调了AI在自主决策、任务执行上的突破，可能推动劳动力市场重组。商业价值在于自动化可降低企业成本、提升效率，但也引发伦理与就业冲击。产品创新方面，需关注人机协作新范式，如AI作为独立代理执行复杂流程。PM需权衡技术潜力与社会影响，设计以用户信任为核心的过渡策略。",
       "pm_score": 0.41,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48334283",
-      "date": "2026-05-31"
+      "url": "https://news.ycombinator.com/item?id=48345881",
+      "date": "2026-06-01"
     },
     {
-      "id": "show-hn-helios-what-plug-in-solar-could-generate-for-any-address-in-britain",
-      "label": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
-      "summary": "Helios 是一个面向英国地址的插电式太阳能发电量预测工具，用户输入任意地址即可获取该位置的光伏发电潜力评估。该产品利用公开的卫星数据和气象模型，结合机器学习算法，快速输出年发电量、季节波动及经济回报估算。其商业价值在于帮助家庭和中小企业低成本评估光伏安装可行性，降低决策门槛，推动分布式能源普及。产品创新点在于将复杂的能源模型简化为地址查询交互，支持非专业人士使用，并为光伏安装商提供精准营销线索。",
-      "pm_score": 0.345,
+      "id": "1-bit-bonsai-image-4b-image-generation-for-local-devices",
+      "label": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+      "summary": "本文介绍了一种名为 '1-Bit Bonsai Image' 的 4B 参数图像生成模型，通过 1-bit 量化技术大幅压缩模型体积，使其能够在本地设备（如手机、边缘终端）上高效运行。该技术突破了传统大模型对云端的依赖，在保持图像生成质量的同时，显著降低推理延迟和功耗，为隐私敏感场景和离线应用提供了可行方案。对于产品经理而言，这预示着轻量化、本地化的生成式 AI 将加速落地，尤其在移动端、物联网等资源受限设备上，可催生新的交互体验和商业化机会。",
+      "pm_score": 0.365,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48334949",
-      "date": "2026-05-31"
-    },
-    {
-      "id": "show-hn-ego-lite-why-our-browser-agent-writes-javascript-not-cli-commands",
-      "label": "Show HN: Ego lite – why our browser agent writes JavaScript not CLI commands",
-      "summary": "该帖子讨论了一个名为'Ego lite'的浏览器代理为何选择使用JavaScript而非CLI命令来执行任务。核心观点是：JavaScript能更直接地与浏览器DOM交互，实现跨平台兼容且无需依赖本地命令行环境，从而简化部署并提升安全性。对AI产品经理而言，这一设计决策展示了在构建自主代理时，代理与环境的交互方式（如直接用JS操控UI vs 通过CLI调用系统）会直接影响产品的可靠性、用户安装成本和适用场景。Ego lite的路径提示我们，优先选择与环境原生兼容的接口可能比传统命令行更高效，尤其适用于需要模拟真实用户操作（如网页自动化、RPA）的产品。",
-      "pm_score": 0.33,
-      "pillar": "patterns",
-      "type": "showhn",
-      "source_type": "showhn",
-      "url": "https://github.com/CitroLabs/ego-lite",
-      "date": "2026-05-31"
-    },
-    {
-      "id": "show-hn-komi-learn-continuous-memory-and-self-improvement-for-coding-agents",
-      "label": "Show HN: Komi-learn – continuous memory and self-improvement for coding agents",
-      "summary": "Komi-learn 是一个为编程代理设计的持续记忆与自我改进工具，通过引入长期上下文和自适应学习机制，使代码代理能够记住之前的交互并不断优化自身行为。该产品面向开发者工具赛道，旨在提升 AI 编程代理的实用性和自主迭代能力，具有明显的产品创新和商业落地点。",
-      "pm_score": 0.33,
-      "pillar": "patterns",
-      "type": "showhn",
-      "source_type": "showhn",
-      "url": "https://github.com/kurikomi-labs/komi-learn",
-      "date": "2026-05-31"
-    },
-    {
-      "id": "rotary-gpu-exploring-local-execution-for-large-moe-models-under-limited-vram",
-      "label": "Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM",
-      "summary": "本文探讨了在有限VRAM（显存）条件下本地执行大型MoE（混合专家）模型的方案——Rotary GPU。它通过旋转调度或显存优化技术，使资源受限的设备也能运行大模型，降低云依赖，提升数据隐私与响应速度。对产品经理而言，这意味着可以设计出无需联网、低成本、高隐私的AI产品，尤其在个人助手、边缘计算等场景具有商业潜力。技术要点包括MoE模型的分片执行、显存动态分配以及本地推理效率提升。",
-      "pm_score": 0.33,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48340616",
-      "date": "2026-05-31"
-    },
-    {
-      "id": "show-hn-open-envelope-an-open-schema-for-defining-ai-agent-teams",
-      "label": "Show HN: Open Envelope – an open schema for defining AI agent teams",
-      "summary": "Open Envelope 是一个开源项目，旨在定义一套标准化的模式（schema），用于描述和编排AI智能体团队。它提供了一种通用语言，使得开发者能够清晰指定智能体的角色、能力、通信协议和协作逻辑，从而简化多智能体系统的构建与集成。对于AI产品经理而言，这种开放标准能够降低跨团队协作的门槛，促进不同智能体组件的互操作性，加速从单智能体到多智能体组合的产品创新，并可能成为未来AI编排层的基础设施。",
-      "pm_score": 0.33,
-      "pillar": "patterns",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48315016",
-      "date": "2026-05-31"
-    },
-    {
-      "id": "hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates",
-      "label": "Hormuz crisis side effect: a sharp rise in container shipping rates",
-      "summary": "该新闻讨论了霍尔木兹危机导致集装箱运价急剧上升的副作用。虽然并非直接的 AI 技术内容，但对于 AI 产品经理而言，地缘政治引发的供应链成本波动是重要的商业背景。产品经理可关注如何利用 AI 进行供应链风险预警、动态定价优化和物流路径规划，以应对这类突发成本冲击。此类场景体现了 AI 在非技术领域的商业价值，即通过预测与自动化决策帮助企业规避外部风险。",
-      "pm_score": 0.32,
-      "pillar": "business",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48339180",
-      "date": "2026-05-31"
-    },
-    {
-      "id": "as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safa",
-      "label": "As the browser wars heat up, here are the hottest alternatives to Chrome and Saf",
-      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "date": "2026-05-31"
+      "url": "https://news.ycombinator.com/item?id=48346257",
+      "date": "2026-06-01"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1037,
-    "edges": 71516
+    "real_nodes": 1041,
+    "edges": 72558
   }
 }
