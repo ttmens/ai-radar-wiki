@@ -1204,3 +1204,10 @@
 - create: hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates.md
 - create: the-kaiser-and-a-mediocre-man-theory-of-history.md
 - create: 8216what-a-joke8217-github-copilot8217s-new-token-based-billing-spurs-consternat.md
+
+## [2026-05-31 12:02] sync v3 | 5 new | pillars: {'capabilities': 3, 'patterns': 2}
+- create: racket-v92-is-now-available.md
+- create: show-hn-open-envelope-an-open-schema-for-defining-ai-agent-teams.md
+- create: ai-grifters-are-creating-fake-black-people-to-sell-shein-junk.md
+- create: softbank-says-it-will-invest-up-to-75-billion-to-build-french-data-centers.md
+- create: show-hn-ego-lite-why-our-browser-agent-writes-javascript-not-cli-commands.md

@@ -1,0 +1,22 @@
+{
+  "title": "Racket v9.2 is now available",
+  "score": 55,
+  "comments": 5,
+  "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
+  "hn_url": "https://news.ycombinator.com/item?id=48306713",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Racket v9.2 发布，这是一种基于 Scheme 的通用编程语言，专注于语言导向编程和元编程。新版本改进了性能、错误报告和工具链支持。对于 AI 产品经理，Racket 虽非主流 AI 框架，但其强大的 DSL（领域特定语言）构建能力可用于快速原型化 AI 系统的自定义规则引擎或解释器，降低实验成本。此外，Racket 的宏系统和模块化设计有助于构建可维护的 AI 组件。整体商业价值有限，主要面向教育、研究与特定领域的 AI 工具开发。",
+  "pm_relevance": 3,
+  "concepts": [
+    "语言导向编程",
+    "DSL构建"
+  ],
+  "entities": [
+    "Racket"
+  ],
+  "patterns": [
+    "元编程"
+  ]
+}
