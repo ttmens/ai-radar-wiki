@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 31 May 2026 00:03:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 04:03:58 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -69,6 +69,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>SoftBank says it will invest up to €75 billion to build French data centers</title>
+      <link>https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/</link>
+      <guid isPermaLink="false">softbank-says-it-will-invest-up-to-75-billion-to-build-french-data-centers</guid>
+      <pubDate>2026-05-31T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>软银宣布将投资高达750亿欧元（约合800亿美元）在法国建设数据中心，目标开发和运营最高5吉瓦（GW）的额外数据中心容量。这笔巨额投资反映了AI算力需求的指数级增长，特别是在模型训练和推理方面。对AI产品经理而言，这意味着未来在欧洲市场部署AI产品时，可获得更低的延迟、更高的可用性以及更强的本地化算力支持。此外，大规模数据中心集群的落地将降低云服务成本，推动更多创新AI应用从实验走向规模化。该投资也标志着软银对AI基础设施的长期战略押注，可能影响全球AI算力格局。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Domain expertise has always been the real moat</title>
       <link>https://news.ycombinator.com/item?id=48340411</link>
       <guid isPermaLink="false">domain-expertise-has-always-been-the-real-moat</guid>
@@ -93,6 +101,22 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Show HN: Ego lite – why our browser agent writes JavaScript not CLI commands</title>
+      <link>https://github.com/CitroLabs/ego-lite</link>
+      <guid isPermaLink="false">show-hn-ego-lite-why-our-browser-agent-writes-javascript-not-cli-commands</guid>
+      <pubDate>2026-05-31T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该帖子讨论了一个名为'Ego lite'的浏览器代理为何选择使用JavaScript而非CLI命令来执行任务。核心观点是：JavaScript能更直接地与浏览器DOM交互，实现跨平台兼容且无需依赖本地命令行环境，从而简化部署并提升安全性。对AI产品经理而言，这一设计决策展示了在构建自主代理时，代理与环境的交互方式（如直接用JS操控UI vs 通过CLI调用系统）会直接影响产品的可靠性、用户安装成本和适用场景。Ego lite的路径提示我们，优先选择与环境原生兼容的接口可能比传统命令行更高效，尤其适用于需要模拟真实用户操作（如网页自动化、RPA）的产品。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Show HN: Open Envelope – an open schema for defining AI agent teams</title>
+      <link>https://news.ycombinator.com/item?id=48315016</link>
+      <guid isPermaLink="false">show-hn-open-envelope-an-open-schema-for-defining-ai-agent-teams</guid>
+      <pubDate>2026-05-31T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Open Envelope 是一个开源项目，旨在定义一套标准化的模式（schema），用于描述和编排AI智能体团队。它提供了一种通用语言，使得开发者能够清晰指定智能体的角色、能力、通信协议和协作逻辑，从而简化多智能体系统的构建与集成。对于AI产品经理而言，这种开放标准能够降低跨团队协作的门槛，促进不同智能体组件的互操作性，加速从单智能体到多智能体组合的产品创新，并可能成为未来AI编排层的基础设施。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>Hormuz crisis side effect: a sharp rise in container shipping rates</title>
       <link>https://news.ycombinator.com/item?id=48339180</link>
       <guid isPermaLink="false">hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates</guid>
@@ -115,6 +139,22 @@
       <pubDate>2026-05-31T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章探讨了AI技术对科技工作者造成的未命名的心理危机，即‘AI工作悲伤’。随着AI能力提升，许多技术岗位面临替代风险，员工产生职业认同感丧失、焦虑和无力感。这不仅是个人心理问题，更反映了AI生态系统中的人机协作失衡。产品经理需关注团队士气与技术变革的平衡，设计更人性化的AI工具，同时推动组织文化适应。该现象提示AI产品应考虑用户情感体验和社会影响。</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>AI grifters are creating fake Black people to sell Shein junk</title>
+      <link>https://news.ycombinator.com/item?id=48341921</link>
+      <guid isPermaLink="false">ai-grifters-are-creating-fake-black-people-to-sell-shein-junk</guid>
+      <pubDate>2026-05-31T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容揭示了一种利用生成式AI技术创建虚假黑人形象并在社交媒体上推销Shein廉价商品的新型欺诈行为。技术层面，骗子使用AI图像生成工具制作逼真但完全虚构的人物照片和视频，以营造真实用户好评的假象。商业上，这种低成本、高欺骗性的营销手段能快速提升转化率，但严重损害平台信任和品牌声誉。对AI产品经理而言，这警示了内容审核系统需加强对AI生成人像的识别能力，同时思考如何设计防滥用机制。产品创新方向包括开发更高效的深度伪造检测工具，以及构建基于身份验证的社交推荐系统。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Racket v9.2 is now available</title>
+      <link>https://news.ycombinator.com/item?id=48306713</link>
+      <guid isPermaLink="false">racket-v92-is-now-available</guid>
+      <pubDate>2026-05-31T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>Racket v9.2 发布，这是一种基于 Scheme 的通用编程语言，专注于语言导向编程和元编程。新版本改进了性能、错误报告和工具链支持。对于 AI 产品经理，Racket 虽非主流 AI 框架，但其强大的 DSL（领域特定语言）构建能力可用于快速原型化 AI 系统的自定义规则引擎或解释器，降低实验成本。此外，Racket 的宏系统和模块化设计有助于构建可维护的 AI 组件。整体商业价值有限，主要面向教育、研究与特定领域的 AI 工具开发。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Navier-Stokes fluid simulation explained with Godot game engine</title>
@@ -370,46 +410,6 @@
       <guid isPermaLink="false">five-frontier-llms-disagree-on-67-of-1k-real-world-fact-check-claims</guid>
       <pubDate>2026-05-29T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>最新研究显示，五个前沿大语言模型（LLMs）在1000个真实世界事实核查声明中，有67%的案例存在分歧。这意味着当前顶尖模型在事实性判断上远远不够可靠，对产品经理而言，直接依赖单一LLM进行事实输出存在高风险。技术上看，模型间一致性差可能源于训练数据、微调目标或解码策略的差异。商业价值在于需构建验证层——如引入多模型投票、检索增强或外部知识库校验——以提升可信度。产品创新方向包括开发事实一致性评分工具或专门的事实核查Agent，将LLM从‘事实提供者’转变为‘候选生成器’再由人类确认。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>alphacep/vosk-api</title>
-      <link>https://github.com/alphacep/vosk-api</link>
-      <guid isPermaLink="false">alphacepvosk-api</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>alphacep/vosk-api 是一个开源的离线语音识别 API，支持 Android、iOS、树莓派及服务器端，提供 Python、Java、C# 和 Node 等多种语言绑定。其核心价值在于无需联网即可实时转写语音，大幅降低延迟和带宽成本，保障用户隐私。对于 AI 产品经理，该技术可赋能智能家居、车载、移动端等边缘场景，实现本地化语音交互，减少对云端依赖，具有显著的商业潜力（如节省服务器费用、提升离线体验）。产品创新体现在轻量级、跨平台、易集成，适合快速构建语音输入功能。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Dynamic Workflows in Claude Code</title>
-      <link>https://news.ycombinator.com/item?id=48311705</link>
-      <guid isPermaLink="false">dynamic-workflows-in-claude-code</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Claude Code 中的动态工作流（Dynamic Workflows）允许 AI 在编码过程中实时调整和生成任务序列，提升开发者效率。该模式以 Claude 为核心，根据上下文自动拆解复杂编程任务并动态协调子步骤，减少手动切换频率。产品创新在于将静态指令流转化为自适应流程，适用于持续集成、代码审查等场景。商业上可降低研发成本，加速交付。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions</title>
-      <link>https://news.ycombinator.com/item?id=48314363</link>
-      <guid isPermaLink="false">sam-altman-and-dario-amodei-are-both-walking-back-ai-jobs-apocalypse-predictions</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>OpenAI CEO Sam Altman 和 Anthropic CEO Dario Amodei 近期均收回此前关于AI将导致大规模失业的末日预测，转而强调AI对就业市场的影响将更为渐进和可控。这一转变暗示当前AI能力发展尚未达到完全替代人类的临界点，产品经理应关注人机协作增强模式而非纯替代，重新评估AI产品在职场中的定位——即辅助工具而非取代者。此举可能影响企业部署AI的策略，推动更务实的AI产品落地。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>AMD pulls a bait-and-switch on Linux users with Vivado licensing changes</title>
-      <link>https://news.ycombinator.com/item?id=48307231</link>
-      <guid isPermaLink="false">amd-pulls-a-bait-and-switch-on-linux-users-with-vivado-licensing-changes</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>AMD调整了Vivado（FPGA设计套件）的许可政策，对Linux用户实施“诱饵调包”策略。此前Linux版Vivado曾提供一些免费或低价许可，新政策取消了这些优惠，迫使Linux用户转向更昂贵的付费方案。此举可能影响使用AMD FPGA进行AI加速的开发者群体，增加其开发成本与迁移风险。对于依赖FPGA进行边缘AI推理或可重构计算的产品团队，需重新评估供应商锁定成本，并考虑替代方案如Intel/Altera或开源工具链。该变化也凸显了硬件生态中许可策略对AI产品长期部署的影响。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Sneak peek at new Siri app reveals Apple&amp;#8217;s plans to take on ChatGPT and mo</title>
-      <link>https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/</link>
-      <guid isPermaLink="false">sneak-peek-at-new-siri-app-reveals-apple8217s-plans-to-take-on-chatgpt-and-more</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>苹果计划在iOS 27中推出独立Siri应用，并对其交互体验进行AI全面改造，旨在对抗ChatGPT等竞品。新渲染图显示Siri将从系统集成走向应用化，可能整合更强大的大语言模型（LLM），从而支持更复杂的对话、任务处理与个性化服务。此举标志着苹果将AI能力从工具升级为独立产品入口，有望通过系统级优势（隐私、硬件协同）构建差异化竞争壁垒。对AI产品经理而言，核心看点在于：苹果如何平衡本地计算与云端能力、Siri应用化后的生态整合策略，以及其是否会开放API供第三方应用调用。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
