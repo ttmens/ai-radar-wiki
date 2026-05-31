@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 30 May 2026 20:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 00:03:03 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -21,6 +21,14 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>OpenRouter raises $113M Series B</title>
+      <link>https://news.ycombinator.com/item?id=48338660</link>
+      <guid isPermaLink="false">openrouter-raises-113m-series-b</guid>
+      <pubDate>2026-05-31T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>OpenRouter 完成 1.13 亿美元 B 轮融资，该平台提供统一的 API 接口，让开发者能轻松接入和切换多种大语言模型（如 GPT、Claude、Gemini 等），避免了与多家供应商分别对接的复杂性和锁定风险。融资将用于扩充模型支持范围、提升路由智能度（如自动选择性价比最优模型）以及增强开发者工具。对 AI 产品经理而言，这进一步推动了“模型编排”和“多模型策略”的可行性，降低调用不同模型的门槛，助力产品快速迭代与成本优化。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
       <title>NirDiamant/GenAI_Agents</title>
       <link>https://github.com/NirDiamant/GenAI_Agents</link>
       <guid isPermaLink="false">nirdiamantgenai_agents</guid>
@@ -34,6 +42,14 @@
       <guid isPermaLink="false">corporate-america-is-starting-to-ration-ai-as-cost-skyrockets</guid>
       <pubDate>2026-05-31T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>美国企业因AI推理和API调用成本飙升，开始实施配额限制与预算控制。产品经理需关注模型效率优化（如量化、蒸馏）、缓存策略及混合部署方案，以平衡AI能力与商业ROI。成本理性化将催生企业级AI治理工具与按需弹性资源分配模式。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>&amp;#8216;What a joke&amp;#8217;: Github Copilot&amp;#8217;s new token-based billing spurs</title>
+      <link>https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/</link>
+      <guid isPermaLink="false">8216what-a-joke8217-github-copilot8217s-new-token-based-billing-spurs-consternat</guid>
+      <pubDate>2026-05-31T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>GitHub Copilot 将计费模式从固定订阅改为基于 token 的使用量付费，引发开发者强烈不满，认为成本激增且不透明。此举旨在提升微软盈利能力，但可能损害用户忠诚度与产品口碑。对AI产品经理而言，需警惕定价变更对用户留存和市场竞争力的冲击，同时反思按量计费在AI助手类产品中的适用性与透明度设计。</p></description>
       <category>💰 商业趋势</category>
     </item>
     <item>
@@ -53,12 +69,36 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Domain expertise has always been the real moat</title>
+      <link>https://news.ycombinator.com/item?id=48340411</link>
+      <guid isPermaLink="false">domain-expertise-has-always-been-the-real-moat</guid>
+      <pubDate>2026-05-31T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>这篇文章指出，在AI竞争日益激烈的背景下，领域专长（Domain Expertise）才是真正的护城河，而非通用AI模型能力。对于AI产品经理而言，这意味着产品创新的核心在于深耕垂直行业，积累高质量、有壁垒的专有数据和知识体系。商业价值体现在：通过领域数据形成的专业知识库，可以构建竞争对手难以复制的差异化优势，提升产品在特定场景下的准确性和用户粘性。技术要点上，需要关注RAG（检索增强生成）、微调等技术与领域知识的深度融合，打造更具行业深度的AI应用。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>The Kaiser and a "Mediocre Man" Theory of History</title>
+      <link>https://news.ycombinator.com/item?id=48334283</link>
+      <guid isPermaLink="false">the-kaiser-and-a-mediocre-man-theory-of-history</guid>
+      <pubDate>2026-05-31T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了将历史中“平庸之人”理论类比于当前AI能力局限性的观点，指出如同历史上平庸领导者导致失败，AI在复杂任务中的平庸表现可能限制其产品价值。对于AI产品经理而言，需关注模型在推理、创造性等维度的实际短板，避免过度依赖表面能力，应设计更稳健的人机协作流程，平衡自动化与人工监督。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Show HN: Helios – what plug-in solar could generate for any address in Britain</title>
       <link>https://news.ycombinator.com/item?id=48334949</link>
       <guid isPermaLink="false">show-hn-helios-what-plug-in-solar-could-generate-for-any-address-in-britain</guid>
       <pubDate>2026-05-31T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Helios 是一个面向英国地址的插电式太阳能发电量预测工具，用户输入任意地址即可获取该位置的光伏发电潜力评估。该产品利用公开的卫星数据和气象模型，结合机器学习算法，快速输出年发电量、季节波动及经济回报估算。其商业价值在于帮助家庭和中小企业低成本评估光伏安装可行性，降低决策门槛，推动分布式能源普及。产品创新点在于将复杂的能源模型简化为地址查询交互，支持非专业人士使用，并为光伏安装商提供精准营销线索。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Hormuz crisis side effect: a sharp rise in container shipping rates</title>
+      <link>https://news.ycombinator.com/item?id=48339180</link>
+      <guid isPermaLink="false">hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates</guid>
+      <pubDate>2026-05-31T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该新闻讨论了霍尔木兹危机导致集装箱运价急剧上升的副作用。虽然并非直接的 AI 技术内容，但对于 AI 产品经理而言，地缘政治引发的供应链成本波动是重要的商业背景。产品经理可关注如何利用 AI 进行供应链风险预警、动态定价优化和物流路径规划，以应对这类突发成本冲击。此类场景体现了 AI 在非技术领域的商业价值，即通过预测与自动化决策帮助企业规避外部风险。</p></description>
+      <category>💰 商业趋势</category>
     </item>
     <item>
       <title>As the browser wars heat up, here are the hottest alternatives to Chrome and Saf</title>
@@ -371,46 +411,6 @@
       <pubDate>2026-05-29T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>苹果计划在iOS 27中推出独立Siri应用，并对其交互体验进行AI全面改造，旨在对抗ChatGPT等竞品。新渲染图显示Siri将从系统集成走向应用化，可能整合更强大的大语言模型（LLM），从而支持更复杂的对话、任务处理与个性化服务。此举标志着苹果将AI能力从工具升级为独立产品入口，有望通过系统级优势（隐私、硬件协同）构建差异化竞争壁垒。对AI产品经理而言，核心看点在于：苹果如何平衡本地计算与云端能力、Siri应用化后的生态整合策略，以及其是否会开放API供第三方应用调用。</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Anthropic raises $65B in Series H funding at $965B post-money valuation</title>
-      <link>https://news.ycombinator.com/item?id=48313048</link>
-      <guid isPermaLink="false">anthropic-raises-65b-in-series-h-funding-at-965b-post-money-valuation</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic 完成 650 亿美元 H 轮融资，投后估值达 9650 亿美元，成为 AI 领域估值最高的私营公司之一。这一巨额融资凸显了 AI 基础设施和基础模型赛道的资本密集特性，也反映出投资者对前沿 AI 安全与能力研发的高度信心。对于 AI 产品经理而言，这笔资金将加速 Claude 系列模型的迭代与生态扩展，可能推动更强大的上下文理解、多模态能力以及企业级部署方案，同时加剧与大模型厂商的竞争格局，影响产品技术选型和商业化策略。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Various LLM Smells</title>
-      <link>https://news.ycombinator.com/item?id=48313810</link>
-      <guid isPermaLink="false">various-llm-smells</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文（源自 Hacker News）探讨了大语言模型（LLM）中普遍存在的“异味”（Smells）问题，类似于代码中的反模式，特指模型在推理、事实性、一致性等方面的常见缺陷。对于AI产品经理而言，理解这些“气味”有助于在产品开发中识别模型脆弱点，设计更稳健的输入/输出验证机制，降低幻觉和偏见风险。文章可能涉及Prompt注入、上下文遗忘、数值不敏感等具体案例，并给出评估或缓解建议。商业价值在于提升产品可靠性与用户信任，避免因模型错误导致的负面体验。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims</title>
-      <link>https://news.ycombinator.com/item?id=48317093</link>
-      <guid isPermaLink="false">sf-startup-is-testing-robots-in-airbnbs-and-trashing-them-lawsuit-claims</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>旧金山一家初创公司被指控利用 Airbnb 房源进行机器人测试，并在测试过程中导致机器人损坏甚至被遗弃，引发诉讼。该事件凸显了在共享经济环境中部署物理 AI 产品（如服务机器人）的现实挑战：真实场景测试虽能加速迭代，但缺乏明确的责任划分和风险控制机制。对 AI 产品经理而言，这警示在跨平台协作测试时需关注合同条款、用户协议及资产保护策略，避免因产品故障或意外损坏引发法律纠纷。同时，该案例也反映了机器人自主导航、环境适应能力等核心技术在实际部署中的可靠性瓶颈。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI d</title>
-      <link>https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/</link>
-      <guid isPermaLink="false">at-techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-dea</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Databricks联合创始人指出，企业AI已从探索阶段进入部署评估阶段，核心障碍不再是AI的技术吸引力，而是安全性和可扩展性。越来越多的企业关注AI系统在广泛部署时的数据泄露、合规风险及可靠性问题。产品经理需重视构建可信AI框架，包括数据治理、模型透明度、实时监控和错误处理机制。商业价值上，能够提供安全、可控的AI部署方案将成为差异化竞争优势。建议在产品早期即嵌入安全审计和合规模块，而非事后修补。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Glean&amp;#8217;s top line crosses $300M as AI budget-cutting becomes its major sell</title>
-      <link>https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/</link>
-      <guid isPermaLink="false">glean8217s-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling</guid>
-      <pubDate>2026-05-29T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>企业AI搜索初创公司Glean年营收突破3亿美元，同比增长三倍，尽管面临科技巨头竞争。其核心卖点转向帮助客户削减AI预算支出，通过智能搜索优化企业知识管理效率，降低重复性AI工具成本。Glean的技术核心在于整合企业内部数据源，提供精准的AI驱动搜索，替代多个冗余AI应用，从而减少整体IT预算。产品创新体现在将AI搜索作为企业AI基础设施的切入点，实现以搜索为中心的成本控制策略。</p></description>
-      <category>💰 商业趋势</category>
     </item>
   </channel>
 </rss>
