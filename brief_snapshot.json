@@ -1,7 +1,7 @@
 {
   "date": "2026-05-31",
-  "generated_at": "2026-05-31T12:02:21.221891+08:00",
-  "item_count": 15,
+  "generated_at": "2026-05-31T18:01:52.887237+08:00",
+  "item_count": 17,
   "items": [
     {
       "id": "anthropic-surpasses-openai-to-become-most-valuable-ai-startup",
@@ -136,6 +136,28 @@
       "date": "2026-05-31"
     },
     {
+      "id": "show-hn-komi-learn-continuous-memory-and-self-improvement-for-coding-agents",
+      "label": "Show HN: Komi-learn – continuous memory and self-improvement for coding agents",
+      "summary": "Komi-learn 是一个为编程代理设计的持续记忆与自我改进工具，通过引入长期上下文和自适应学习机制，使代码代理能够记住之前的交互并不断优化自身行为。该产品面向开发者工具赛道，旨在提升 AI 编程代理的实用性和自主迭代能力，具有明显的产品创新和商业落地点。",
+      "pm_score": 0.33,
+      "pillar": "patterns",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://github.com/kurikomi-labs/komi-learn",
+      "date": "2026-05-31"
+    },
+    {
+      "id": "rotary-gpu-exploring-local-execution-for-large-moe-models-under-limited-vram",
+      "label": "Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM",
+      "summary": "本文探讨了在有限VRAM（显存）条件下本地执行大型MoE（混合专家）模型的方案——Rotary GPU。它通过旋转调度或显存优化技术，使资源受限的设备也能运行大模型，降低云依赖，提升数据隐私与响应速度。对产品经理而言，这意味着可以设计出无需联网、低成本、高隐私的AI产品，尤其在个人助手、边缘计算等场景具有商业潜力。技术要点包括MoE模型的分片执行、显存动态分配以及本地推理效率提升。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48340616",
+      "date": "2026-05-31"
+    },
+    {
       "id": "show-hn-open-envelope-an-open-schema-for-defining-ai-agent-teams",
       "label": "Show HN: Open Envelope – an open schema for defining AI agent teams",
       "summary": "Open Envelope 是一个开源项目，旨在定义一套标准化的模式（schema），用于描述和编排AI智能体团队。它提供了一种通用语言，使得开发者能够清晰指定智能体的角色、能力、通信协议和协作逻辑，从而简化多智能体系统的构建与集成。对于AI产品经理而言，这种开放标准能够降低跨团队协作的门槛，促进不同智能体组件的互操作性，加速从单智能体到多智能体组合的产品创新，并可能成为未来AI编排层的基础设施。",
@@ -170,7 +192,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1035,
-    "edges": 70478
+    "real_nodes": 1037,
+    "edges": 71516
   }
 }

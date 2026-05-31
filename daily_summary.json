@@ -2,47 +2,41 @@
   "daily_summary": {
     "date": "2026-05-31",
     "headline": "今日 AI 情报 · 2026-05-31",
-    "overview": "AI竞争进入生态与成本理性化阶段，自主Agent工程化加速，硬件基础设施大规模扩张。",
+    "overview": "AI自主操作与多智能体系统标准化，商业成本压力催生理性化策略",
     "narratives": [
       {
-        "title": "AI竞争进入生态与成本理性化阶段",
-        "body": "Anthropic估值超越OpenAI、OpenRouter大规模融资、企业开始配额AI成本以及GitHub Copilot转向token计费，共同标志着AI行业从单纯模型技术竞赛转向商业生态、成本控制与用户留存能力的综合较量。产品经理需将多模型策略、成本优化和信任构建纳入核心决策。",
-        "type": "paradigm_shift",
-        "pillar_key": "business"
-      },
-      {
-        "title": "自主Agent从概念走向工程化",
-        "body": "50多个GenAI Agent教程、浏览器代理选用JavaScript而非CLI的设计决策、以及Open Envelope开放Agent团队编排schema，表明自主Agent开发正从实验性概念进入标准化工程阶段。产品经理应加速原型验证，关注多智能体协作与交互设计。",
+        "title": "AI自主操作与多智能体系统进入标准化阶段",
+        "body": "多个开源项目和产品模式信号表明，AI Agent 正从概念演示走向可复用的标准化架构。GenAI_Agents 教程、Ego lite 浏览器代理用 JS 直接操作 DOM、Komi-learn 持续记忆、以及 Open Envelope 智能体团队 schema，共同指向一个趋势：AI 产品经理现在可以基于成熟模板和开放协议，快速构建从单代理到多代理协作的系统，降低技术壁垒，加速产品落地。",
         "type": "maturation",
         "pillar_key": "patterns"
       },
       {
-        "title": "AI基础设施向硬件和边缘延伸",
-        "body": "Meta开发AI吊坠、软银投资750亿欧元建设法国数据中心，验证了AI硬件入口和算力基础设施的巨大投入。产品经理需考虑端侧推理与云端协同，以支撑低延迟、全天候的AI应用。",
-        "type": "validation",
-        "pillar_key": "capabilities"
+        "title": "AI商业成本压力驱动商业模式理性化与差异化",
+        "body": "多个商业信号显示，AI 行业正从粗放增长转向成本敏感阶段。企业开始限制 AI 使用量以控制 API 成本，GitHub Copilot 按量计费引发开发者不满，同时 Anthropic 凭借安全可控路线估值超越 OpenAI，领域专长被重新视为护城河。这提示产品经理必须优先考虑模型效率、定价透明度和垂直场景深耕，而非单纯追求通用能力。",
+        "type": "maturation",
+        "pillar_key": "business"
       }
     ],
     "insights": [
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "自主Agent从概念走向工程化",
-        "insight": "自主Agent从概念走向工程化。该方向的具体信号：NirDiamant/GenAI_Agents提供50+教程系统化梳理Agent设计模式；Ego lite浏览器代理选择JavaScript操控DOM以简化部署；Open Envelope定义标准化schema编排多智能体团队，降低集成门槛。",
+        "narrative_title": "AI自主操作与多智能体系统进入标准化阶段",
+        "insight": "AI自主操作与多智能体系统进入标准化阶段。该方向的具体信号：多个开源项目（GenAI_Agents 教程、Ego lite、Komi-learn、Open Envelope）均聚焦于 Agent 的可复用架构、浏览器操控、持续记忆与团队协作协议，表明行业正在从孤立的对话机器人向模块化、可编排的多智能体系统演进，AI 产品经理可借此降低原型验证成本并加速复杂工作流自动化。",
         "evidence": [
           {
             "id": "nirdiamantgenai_agents",
-            "title": "NirDiamant/GenAI_Agents：50+生成式AI Agent教程",
+            "title": "NirDiamant/GenAI_Agents – 50+ Agent教程与实现",
             "score": 0.58
           },
           {
-            "id": "show-hn-ego-lite-why-our-browser-agent-writes-javascript-not-cli-commands",
-            "title": "Ego lite：浏览器代理为何用JavaScript而非CLI",
+            "id": "show-hn-komi-learn-continuous-memory-and-self-improvement-for-coding-agents",
+            "title": "Komi-learn 编程代理持续记忆与自我改进",
             "score": 0.33
           },
           {
             "id": "show-hn-open-envelope-an-open-schema-for-defining-ai-agent-teams",
-            "title": "Open Envelope：定义AI智能体团队的开放Schema",
+            "title": "Open Envelope 智能体团队编排开放Schema",
             "score": 0.33
           }
         ]
@@ -50,48 +44,30 @@
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "narrative_title": "AI竞争进入生态与成本理性化阶段",
-        "insight": "AI竞争进入生态与成本理性化阶段。该方向的具体信号：Anthropic估值超越OpenAI凸显安全可控路线受资本认可；OpenRouter获1.13亿美元B轮融资推动多模型编排；企业因成本飙升开始配额AI；GitHub Copilot改token计费引发用户不满。",
+        "narrative_title": "AI商业成本压力驱动商业模式理性化与差异化",
+        "insight": "AI商业成本压力驱动商业模式理性化与差异化。该方向的具体信号：企业因API成本飙升开始配额限制（Corporate America rationing），GitHub Copilot按量计费引发用户强烈不满，Anthropic凭借安全可控路线估值超越OpenAI，以及领域专长被强调为真正护城河，共同揭示AI产品经理需要重新审视定价透明度、模型效率优化和垂直场景深耕，以平衡增长与可持续性。",
         "evidence": [
           {
             "id": "anthropic-surpasses-openai-to-become-most-valuable-ai-startup",
-            "title": "Anthropic超越OpenAI成最有价值AI初创",
+            "title": "Anthropic估值超越OpenAI成为最高估值AI初创",
             "score": 0.63
           },
           {
-            "id": "openrouter-raises-113m-series-b",
-            "title": "OpenRouter完成1.13亿美元B轮融资",
-            "score": 0.6
-          },
-          {
             "id": "corporate-america-is-starting-to-ration-ai-as-cost-skyrockets",
-            "title": "美国企业因成本飙升开始配额AI",
+            "title": "美国企业因AI成本飙升开始配额限制",
             "score": 0.55
           },
           {
             "id": "8216what-a-joke8217-github-copilot8217s-new-token-based-billing-spurs-consternat",
-            "title": "GitHub Copilot新token计费引发用户不满",
+            "title": "GitHub Copilot按量计费引发开发者不满",
             "score": 0.52
-          }
-        ]
-      },
-      {
-        "pillar": "🤖 技术能力",
-        "pillar_key": "capabilities",
-        "narrative_title": "AI基础设施向硬件和边缘延伸",
-        "insight": "AI基础设施向硬件和边缘延伸。该方向的具体信号：Meta正开发AI吊坠，意图抢占物理AI入口；软银拟投资750亿欧元在法建设数据中心，满足算力指数级增长需求。",
-        "evidence": [
-          {
-            "id": "meta-is-reportedly-developing-an-ai-pendant",
-            "title": "Meta据报正在开发AI吊坠硬件",
-            "score": 0.48
           }
         ]
       }
     ],
-    "stats": "技术能力: 8 | 产品模式: 5 | 工具生态: 2 | 商业趋势: 5",
+    "stats": "技术能力: 9 | 产品模式: 5 | 工具生态: 2 | 商业趋势: 4",
     "total_items": 20,
-    "high_value_count": 15,
+    "high_value_count": 17,
     "all_today_ids": [
       {
         "id": "anthropic-surpasses-openai-to-become-most-valuable-ai-startup",
@@ -142,6 +118,14 @@
         "label": "Show HN: Ego lite – why our browser agent writes JavaScript not CLI commands"
       },
       {
+        "id": "show-hn-komi-learn-continuous-memory-and-self-improvement-for-coding-agents",
+        "label": "Show HN: Komi-learn – continuous memory and self-improvement for coding agents"
+      },
+      {
+        "id": "rotary-gpu-exploring-local-execution-for-large-moe-models-under-limited-vram",
+        "label": "Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM"
+      },
+      {
         "id": "show-hn-open-envelope-an-open-schema-for-defining-ai-agent-teams",
         "label": "Show HN: Open Envelope – an open schema for defining AI agent teams"
       },
@@ -175,6 +159,6 @@
       }
     ],
     "date_bj": "2026-05-31 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-05-31 12:01:57"
+    "generated_at_bj": "2026-05-31 18:01:33"
   }
 }

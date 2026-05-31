@@ -1211,3 +1211,7 @@
 - create: ai-grifters-are-creating-fake-black-people-to-sell-shein-junk.md
 - create: softbank-says-it-will-invest-up-to-75-billion-to-build-french-data-centers.md
 - create: show-hn-ego-lite-why-our-browser-agent-writes-javascript-not-cli-commands.md
+
+## [2026-05-31 18:01] sync v3 | 2 new | pillars: {'capabilities': 1, 'patterns': 1}
+- create: rotary-gpu-exploring-local-execution-for-large-moe-models-under-limited-vram.md
+- create: show-hn-komi-learn-continuous-memory-and-self-improvement-for-coding-agents.md
