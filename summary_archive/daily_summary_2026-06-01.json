@@ -2,53 +2,106 @@
   "daily_summary": {
     "date": "2026-06-01",
     "headline": "今日 AI 情报 · 2026-06-01",
-    "overview": "AI能力本地化与原型加速成为主旋律，产品价值交付面临用户留存挑战。",
+    "overview": "AI能力全面爆发，但可信部署与用户价值验证成为核心瓶颈",
     "narratives": [
       {
-        "title": "AI能力本地化与原型加速：从云端到自主部署",
-        "body": "今日多项情报指向同一趋势：AI正从依赖云端大模型转向本地化、轻量化部署，并显著加速产品原型迭代。本地图像生成模型（1-bit量化）和自托管工作空间的出现，意味着PM可以更低成本、更快速度验证想法，同时兼顾数据隐私。这一转变将催生更多边缘AI应用，并迫使产品架构重新设计。",
+        "title": "AI从能力竞赛转向可信部署：安全、验证与用户价值成为核心",
+        "body": "今日情报显示，AI技术能力持续突破（长上下文推理、多事件视频生成、生物表示学习等），但与此同时，数据泄露、分布式攻击、订阅取消等信号表明行业正从单纯追求性能转向关注安全、隐私与投资回报。对AI产品经理而言，这意味着需要将系统可靠性、用户信任和可验证价值作为产品设计的第一优先级，而非仅堆砌功能。",
         "type": "paradigm_shift",
-        "pillar_key": "capabilities"
-      },
-      {
-        "title": "AI产品价值交付危机：用户留存与理性回归",
-        "body": "用户取消订阅的趋势与行业对'AI精神病'的讨论同步出现，表明AI产品进入价值验证阶段。PM必须警惕高管叙事与用户实际需求之间的鸿沟，通过可量化ROI和个性化体验证明订阅价值；同时关注数据中心监管对成本的影响，避免因基础设施不确定性和过度承诺导致产品泡沫。",
-        "type": "maturation",
-        "pillar_key": "business"
+        "pillar_key": "ecosystem"
       }
     ],
     "insights": [
       {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI从能力竞赛转向可信部署：安全、验证与用户价值成为核心",
+        "insight": "AI从能力竞赛转向可信部署：安全、验证与用户价值成为核心。该方向的具体信号：远程工作模式而非AI本身才是初级招聘疲软的主因，提示AI产品应聚焦远程协作中的人才培养与知识传递工具；而策略性视角激活的论证框架（CDAFs）则为构建动态适应、可解释的推理Agent提供了新范式，有助于在合规审查等场景中建立信任。",
+        "evidence": [
+          {
+            "id": "what-if-remote-working-not-ai-is-to-blame-for-weak-junior-hiring",
+            "title": "What if remote working, not AI, is to blame for weak junior hiring?",
+            "score": 0.48
+          }
+        ]
+      },
+      {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "narrative_title": "AI能力本地化与原型加速：从云端到自主部署",
-        "insight": "AI能力本地化与原型加速：从云端到自主部署。该方向的具体信号：AI开发工具（代码生成、低代码平台）大幅缩短从概念到MVP的周期；1-bit量化图像模型使4B参数规模可在本地设备运行；自托管AI工作空间（如Odysseus）满足企业对数据隐私和完全控制的需求，三者共同推动AI从集中式云服务向分布式、快速迭代范式转变。",
+        "narrative_title": "AI从能力竞赛转向可信部署：安全、验证与用户价值成为核心",
+        "insight": "AI从能力竞赛转向可信部署：安全、验证与用户价值成为核心。该方向的具体信号：原型速度飞跃（The Speed of Prototyping）与长上下文推理（LongTraceRL）大幅缩短迭代周期，但“AI精神病”辩论提醒产品经理警惕过度乐观；同时，全自托管工作空间（Odysseus）、局部分布偏移检测（KLIP）及语义时间序列嵌入（CHARM）等技术正在为部署提供可控性与可解释性基础。",
         "evidence": [
+          {
+            "id": "the-speed-of-prototyping-in-the-age-of-ai",
+            "title": "The Speed of Prototyping in the Age of AI",
+            "score": 0.48
+          },
           {
             "id": "odysseus-self-hosted-ai-workspace",
             "title": "Odysseus – self-hosted AI workspace",
+            "score": 0.43
+          },
+          {
+            "id": "longtracerl-learning-long-context-reasoning-from-search-agent-trajectories-with",
+            "title": "LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories",
+            "score": 0.43
+          },
+          {
+            "id": "klip-localized-distribution-shift-detection-via-kl-divergence-with-diffusion-pri",
+            "title": "KLIP: localized distribution shift detection via KL-divergence with diffusion priors",
             "score": 0.43
           }
         ]
       },
       {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "narrative_title": "AI产品价值交付危机：用户留存与理性回归",
-        "insight": "AI产品价值交付危机：用户留存与理性回归。该方向的具体信号：用户因效用不足或成本过高而取消AI订阅，暴露出持续价值交付和定价策略的短板；行业讨论'AI精神病'警示PM避免被高管乐观叙事误导；同时数据中心监管压力（如Erin Brockovich行动）可能增加基础设施成本，迫使团队更务实衡量产品ROI。",
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "AI从能力竞赛转向可信部署：安全、验证与用户价值成为核心",
+        "insight": "AI从能力竞赛转向可信部署：安全、验证与用户价值成为核心。该方向的具体信号：ChatGPT for Google Sheets数据泄露敲响数据权限警钟；状态在线监控（Stateful Online Monitoring）可捕获分布式Agent攻击，为Agent安全部署提供关键防护；合成测试集（SPECTRA）大幅降低企业级搜索评估成本；而Erin Brockovich质疑数据中心保密性则要求AI基础设施必须拥抱透明度与社会责任。",
         "evidence": [
+          {
+            "id": "chatgpt-for-google-sheets-exfiltrates-workbooks",
+            "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+            "score": 0.52
+          },
+          {
+            "id": "stateful-online-monitoring-catches-distributed-agent-attacks",
+            "title": "Stateful Online Monitoring Catches Distributed Agent Attacks",
+            "score": 0.43
+          },
           {
             "id": "erin-brockovich-takes-aim-at-data-center-secrecy",
             "title": "Erin Brockovich takes aim at data center secrecy",
             "score": 0.38
           }
         ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI从能力竞赛转向可信部署：安全、验证与用户价值成为核心",
+        "insight": "AI从能力竞赛转向可信部署：安全、验证与用户价值成为核心。该方向的具体信号：用户因实际效用不足而取消AI订阅（The solution might be cancelling my AI subscription），直接挑战当前订阅模式的可持续性，产品经理必须重新思考价值交付、个性化与定价策略，用可量化的ROI证明替代功能堆叠。",
+        "evidence": [
+          {
+            "id": "the-solution-might-be-cancelling-my-ai-subscription",
+            "title": "The solution might be cancelling my AI subscription",
+            "score": 0.43
+          }
+        ]
       }
     ],
-    "stats": "技术能力: 5 | 产品模式: 0 | 工具生态: 1 | 商业趋势: 1",
-    "total_items": 10,
-    "high_value_count": 10,
+    "stats": "技术能力: 11 | 产品模式: 2 | 工具生态: 4 | 商业趋势: 1",
+    "total_items": 20,
+    "high_value_count": 20,
     "all_today_ids": [
+      {
+        "id": "chatgpt-for-google-sheets-exfiltrates-workbooks",
+        "label": "ChatGPT for Google Sheets exfiltrates workbooks"
+      },
+      {
+        "id": "what-if-remote-working-not-ai-is-to-blame-for-weak-junior-hiring",
+        "label": "What if remote working, not AI, is to blame for weak junior hiring?"
+      },
       {
         "id": "the-speed-of-prototyping-in-the-age-of-ai",
         "label": "The Speed of Prototyping in the Age of AI"
@@ -74,8 +127,48 @@
         "label": "The solution might be cancelling my AI subscription"
       },
       {
+        "id": "klip-localized-distribution-shift-detection-via-kl-divergence-with-diffusion-pri",
+        "label": "KLIP: localized distribution shift detection via KL-divergence with diffusion pr"
+      },
+      {
+        "id": "longtracerl-learning-long-context-reasoning-from-search-agent-trajectories-with",
+        "label": "LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with"
+      },
+      {
+        "id": "stateful-online-monitoring-catches-distributed-agent-attacks",
+        "label": "Stateful Online Monitoring Catches Distributed Agent Attacks"
+      },
+      {
+        "id": "giving-sensors-a-voice-multimodal-jepa-for-semantic-time-series-embeddings",
+        "label": "Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings"
+      },
+      {
+        "id": "tunerdit-training-free-progressive-steering-of-diffusion-transformer-for-multi-e",
+        "label": "TunerDiT: Training-free Progressive Steering of Diffusion Transformer for Multi-"
+      },
+      {
+        "id": "what-gets-unmasked-first-trajectory-analysis-of-diffusion-models-for-graph-to-te",
+        "label": "What Gets Unmasked First? Trajectory Analysis of Diffusion Models for Graph-to-T"
+      },
+      {
         "id": "the-people-who-actually-want-ai-to-replace-humanity",
         "label": "The people who actually want AI to replace humanity"
+      },
+      {
+        "id": "spectra-synthetic-ir-test-collections-with-relevance-oracles-and-controlled-dist",
+        "label": "SPECTRA: Synthetic IR Test Collections with Relevance Oracles and Controlled Dis"
+      },
+      {
+        "id": "choosing-the-lens-strategic-perspective-activation-in-context-dependent-argument",
+        "label": "Choosing the Lens: Strategic Perspective Activation in Context-Dependent Argumen"
+      },
+      {
+        "id": "lumos-nexus-efficient-frequency-bridging-with-homogeneous-latent-space-for-video",
+        "label": "Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Vide"
+      },
+      {
+        "id": "effective-biological-representation-learning-by-masking-gene-expression",
+        "label": "Effective Biological Representation Learning by Masking Gene Expression"
       },
       {
         "id": "erin-brockovich-takes-aim-at-data-center-secrecy",
@@ -86,11 +179,27 @@
         "label": "1-Bit Bonsai Image 4B Image Generation for Local Devices"
       },
       {
+        "id": "a-tight-theory-of-error-feedback-algorithms-in-distributed-optimization",
+        "label": "A Tight Theory of Error Feedback Algorithms in Distributed Optimization"
+      },
+      {
         "id": "daily-pill-can-double-survival-time-for-deadliest-cancer-trial-shows",
         "label": "Daily pill can double survival time for deadliest cancer, trial shows"
+      },
+      {
+        "id": "show-hn-ouijit-an-open-source-task-and-terminal-manager-for-coding-agents",
+        "label": "Show HN: Ouijit, an open-source task and terminal manager for coding agents"
+      },
+      {
+        "id": "language-models-learn-constructional-semantics-not-to-mention-syntax-investigati",
+        "label": "Language Models Learn Constructional Semantics, Not To Mention Syntax: Investiga"
+      },
+      {
+        "id": "the-history-of-prisencolinensinainciusol",
+        "label": "The History of \"Prisencolinensinainciusol\""
       }
     ],
     "date_bj": "2026-06-01 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-06-01 06:03:05"
+    "generated_at_bj": "2026-06-01 12:00:58"
   }
 }

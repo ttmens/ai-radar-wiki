@@ -1,0 +1,34 @@
+{
+  "title": "Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings",
+  "summary": "Transformer-based architectures have advanced sequence modeling in language and vision, yet general-purpose representation learning for heterogeneous multivariate time series remains underexplored. We introduce CHARM (Channel-Aware Representation Model), which incorporates channel-level textual descriptions into a Transformer encoder equivariant to channel order. CHARM is trained with a Joint Embedding Predictive Architecture (JEPA) and a novel loss promoting informative, temporally stable embeddings; latent-space prediction encourages robustness to sensor noise while description-aware gating provides interpretability through learned inter-channel relationships. Across anomaly detection, classification, and short- and long-term forecasting, the learned embeddings achieve strong performance using only a linear probe. Performance is driven primarily by the JEPA objective and conditioning architecture, with text descriptions serving as channel identifiers for cross-dataset generalization.",
+  "url": "http://arxiv.org/abs/2605.31580v1",
+  "authors": [
+    "Utsav Dutta",
+    "Gerardo Pastrana",
+    "Sina Khoshfetrat Pakazad",
+    "Henrik Ohlsson"
+  ],
+  "published": "2026-05-29T17:48:30Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "multimodal",
+    "vision",
+    "embedding",
+    "transformer",
+    "dataset"
+  ],
+  "summary_cn": "CHARM是一种通道感知表示模型，用于多变量时间序列的通用表征学习。它基于Transformer架构，引入通道级文本描述，使异构时间序列数据具备语义理解能力。该模型通过多模态联合嵌入预测架构（JEPA），结合传感器数据和文本描述，生成语义时间序列嵌入。商业价值在于赋能IoT、金融、医疗等领域，实现智能监控、预测性维护等应用。产品创新点在于让传感器‘说话’，将数值数据与自然语言对齐，提升可解释性和下游任务性能。",
+  "pm_relevance": 8,
+  "concepts": [
+    "时间序列嵌入",
+    "多模态JEPA",
+    "传感器语义"
+  ],
+  "entities": [
+    "CHARM"
+  ],
+  "patterns": [
+    "多模态表示学习"
+  ]
+}

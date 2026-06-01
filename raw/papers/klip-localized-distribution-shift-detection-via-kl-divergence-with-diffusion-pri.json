@@ -1,0 +1,29 @@
+{
+  "title": "KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems",
+  "summary": "Diffusion models have shown promising performance as data-driven priors for computational imaging, as well as some capacity to detect out-of-distribution (OOD) images. However, existing approaches to OOD detection often require some knowledge of the shifted distribution, fail to detect subtle or localized distribution shifts, and operate on full images, rather than the indirect measurements available in inverse problems. We propose an OOD detection metric based on the Kullback-Leibler divergence between the diffusion prior and the posterior distribution, that (i) does not require any calibration data or knowledge of the shifted distribution, and (ii) can detect whole images as OOD as well as localize OOD patches within an image. Experimentally, we show that this metric can detect subtle yet semantically meaningful distribution shifts, such as the shift from healthy liver CT scans to those with tumors, and generalizes across different types of diffusion models, datasets, and inverse problems. Our code can be found at https://github.com/voilalab/KLIP.",
+  "url": "http://arxiv.org/abs/2605.31596v1",
+  "authors": [
+    "Alireza Kheirandish",
+    "Jihoon Hong",
+    "Sara Fridovich-Keil"
+  ],
+  "published": "2026-05-29T17:58:01Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "dataset",
+    "diffusion model"
+  ],
+  "summary_cn": "KLIP是一种基于KL散度和扩散先验的局部分布偏移检测方法。传统OOD检测常需预知偏移分布，且难以发现细微或局部异常，而KLIP利用扩散模型的生成先验能力，通过KL散度度量局部区域分布差异，实现无需先验知识的精准定位。该技术可应用于医疗影像、工业质检等场景，提升AI系统对微小异常或分布漂移的鲁棒性，具有高商业价值与产品创新性。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Out-of-Distribution Detection",
+    "Diffusion Models",
+    "KL-Divergence"
+  ],
+  "entities": [],
+  "patterns": [
+    "OOD Detection",
+    "Localized Shift Detection"
+  ]
+}

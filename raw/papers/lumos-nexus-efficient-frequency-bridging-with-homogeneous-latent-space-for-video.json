@@ -1,0 +1,33 @@
+{
+  "title": "Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models",
+  "summary": "Connector-based video unified models have demonstrated strong capability in instruction-grounded video synthesis, but integrating a large high-fidelity generator into the unified training loop is computationally prohibitive, limiting achievable visual quality. We therefore propose Lumos-Nexus, a training-efficient unified video generation framework that facilitates the development of strong reasoning-driven generation capabilities while significantly enhancing visual fidelity. Lumos-Nexus adopts a two-stage design: 1) During training, only a lightweight generator is aligned with the understanding block to learn to take in reasoning-driven semantic control. 2) During inference, we introduce Unified Progressive Frequency Bridging (UPFB) to progressively hand off generation to a high-capacity pretrained generator in the shared latent space, enabling coarse-to-fine refinement and producing high-fidelity videos without compromising reasoning quality. To fill the gap in reasoning-driven video generation benchmarks, we introduce VR-Bench, which assesses a model's capability to translate inferred intent into coherent and semantically aligned video content. Extensive experiments demonstrate that Lumos-Nexus achieves substantial gains in visual realism and temporal coherence on VBench, while exhibiting strong reasoning-based generative performance on VR-Bench. Code and models are available at https://jiazheng-xing.github.io/nexus-lumos-home/.",
+  "url": "http://arxiv.org/abs/2605.31603v1",
+  "authors": [
+    "Jiazheng Xing",
+    "Hangjie Yuan",
+    "Lingling Cai",
+    "Xinyu Liu",
+    "Yujie Wei"
+  ],
+  "published": "2026-05-29T17:59:50Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "benchmark",
+    "video generation",
+    "reasoning",
+    "training"
+  ],
+  "summary_cn": "Lumos-Nexus 提出一种基于连接器的视频统一模型，通过同质潜在空间实现高效频率桥接，解决集成高保真生成器到统一训练循环中计算成本过高的问题，在保持视频质量的同时显著降低训练和推理开销。该方法适用于视频生成、编辑等任务，可提升模型实用性与部署效率，为视频多模态产品提供更经济的端到端方案。",
+  "pm_relevance": 7,
+  "concepts": [
+    "视频统一模型",
+    "高效频率桥接",
+    "同质潜在空间"
+  ],
+  "entities": [],
+  "patterns": [
+    "Efficient Video Generation"
+  ]
+}

@@ -1229,3 +1229,21 @@
 - create: odysseus-self-hosted-ai-workspace.md
 - create: daily-pill-can-double-survival-time-for-deadliest-cancer-trial-shows.md
 - create: erin-brockovich-takes-aim-at-data-center-secrecy.md
+
+## [2026-06-01 12:01] sync v3 | 16 new | pillars: {'capabilities': 11, 'ecosystem': 2, 'patterns': 2, 'business': 1}
+- create: lumos-nexus-efficient-frequency-bridging-with-homogeneous-latent-space-for-video.md
+- create: klip-localized-distribution-shift-detection-via-kl-divergence-with-diffusion-pri.md
+- create: a-tight-theory-of-error-feedback-algorithms-in-distributed-optimization.md
+- create: stateful-online-monitoring-catches-distributed-agent-attacks.md
+- create: tunerdit-training-free-progressive-steering-of-diffusion-transformer-for-multi-e.md
+- create: language-models-learn-constructional-semantics-not-to-mention-syntax-investigati.md
+- create: longtracerl-learning-long-context-reasoning-from-search-agent-trajectories-with.md
+- create: choosing-the-lens-strategic-perspective-activation-in-context-dependent-argument.md
+- create: giving-sensors-a-voice-multimodal-jepa-for-semantic-time-series-embeddings.md
+- create: spectra-synthetic-ir-test-collections-with-relevance-oracles-and-controlled-dist.md
+- create: what-gets-unmasked-first-trajectory-analysis-of-diffusion-models-for-graph-to-te.md
+- create: effective-biological-representation-learning-by-masking-gene-expression.md
+- create: chatgpt-for-google-sheets-exfiltrates-workbooks.md
+- create: what-if-remote-working-not-ai-is-to-blame-for-weak-junior-hiring.md
+- create: the-history-of-prisencolinensinainciusol.md
+- create: show-hn-ouijit-an-open-source-task-and-terminal-manager-for-coding-agents.md
