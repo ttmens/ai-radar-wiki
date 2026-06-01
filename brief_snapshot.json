@@ -1,8 +1,41 @@
 {
   "date": "2026-06-02",
-  "generated_at": "2026-06-02T00:03:01.646339+08:00",
-  "item_count": 8,
+  "generated_at": "2026-06-02T06:03:42.953269+08:00",
+  "item_count": 20,
   "items": [
+    {
+      "id": "anthropic-confidentially-submits-draft-s-1-to-the-sec",
+      "label": "Anthropic confidentially submits draft S-1 to the SEC",
+      "summary": "Anthropic（AI安全与研究公司）已向美国证券交易委员会（SEC）秘密提交了S-1表格，这标志着其正式启动首次公开募股（IPO）流程。作为Claude系列模型的开发商，Anthropic通过此举寻求在资本市场上市，以获取更多资金支持其前沿AI研发与商业化。对AI产品经理而言，这意味着Anthropic将获得更充裕的资源加速模型迭代与产品落地，同时上市后的信息披露也可能揭示其核心技术路径与商业策略，影响行业竞争格局。",
+      "pm_score": 0.63,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48358646",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "ai-agent-guidelines-for-cs336-at-stanford",
+      "label": "AI Agent Guidelines for CS336 at Stanford",
+      "summary": "斯坦福CS336课程发布了AI Agent指南，为构建与部署自主AI代理提供了系统化的设计原则与实践准则。该指南涵盖工具调用、记忆管理、任务规划等关键技术要点，帮助开发者与产品经理规避常见陷阱，提升代理系统的可靠性、可扩展性与安全性。对于AI产品经理而言，该指南可作为设计Agent产品架构与交互流程的参考框架，有助于加速从原型到落地的商业化进程。",
+      "pm_score": 0.58,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48359232",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms",
+      "label": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
+      "summary": "DuckDuckGo 推出更容易访问的“无 AI”搜索版本，在隐私担忧和 AI 疲劳背景下流量激增。这表明部分用户对 AI 过度集成产生抗拒，偏好简洁、无模型干预的搜索体验。产品经理可从中观察到市场对“去 AI 化”选项的明确需求，以及将隐私保护作为差异化竞争力的商业机会。DuckDuckGo 的策略提示：在 AI 普及时代，反向选择“无 AI”同样能获得增长动力。",
+      "pm_score": 0.565,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48359130",
+      "date": "2026-06-02"
+    },
     {
       "id": "when-ai-crosses-the-line-the-matplotlib-incident",
       "label": "When AI Crosses the Line: The Matplotlib Incident",
@@ -12,6 +45,39 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48355751",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "florida-sues-openai-and-sam-altman-over-ai-risks",
+      "label": "Florida sues OpenAI and Sam Altman over AI risks",
+      "summary": "佛罗里达州正式起诉OpenAI及其CEO Sam Altman，指控其AI技术存在风险（如隐私泄露、偏见、虚假信息等），可能违反消费者保护法。这一诉讼凸显了AI公司在产品部署中面临的日益增长的监管压力，尤其在美国各州层面。对产品经理而言，这意味着需将合规性纳入产品设计早期，加强数据治理与伦理审查，避免因技术漏洞引发法律纠纷，同时关注联邦与州立法的动态，以调整产品策略降低商业风险。",
+      "pm_score": 0.55,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48358667",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "github-and-the-crime-against-software",
+      "label": "GitHub and the crime against software",
+      "summary": "文章讨论GitHub在AI辅助编程领域的争议，可能涉及Copilot等工具对软件开发的影响。技术要点在于AI代码生成模型如何改变开发者工作流，商业价值体现在微软通过GitHub整合AI能力提升开发者生产力，产品创新表现为从辅助代码补全到自动化编程的演进。同时也引发关于代码版权、开源社区贡献伦理等问题，对AI产品经理而言需关注技术落地中的合规与用户体验平衡。",
+      "pm_score": 0.53,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48361064",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp",
+      "label": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "summary": "Nvidia携手微软、戴尔和惠普，推出面向AI Agent（智能代理）的PC产品，旨在切入2000亿美元的CPU市场。技术核心是将AI代理能力本地化部署在PC端，实现安全、易用且高效的个人AI助手。此举若成功，将推动AI从云端走向边缘，降低延迟和隐私风险，为个人计算带来全新交互范式。对产品经理而言，这意味着AI产品形态从纯云服务转向端侧智能体，需关注本地推理能力、隐私保护与用户体验的平衡。",
+      "pm_score": 0.515,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
       "date": "2026-06-02"
     },
     {
@@ -26,6 +92,39 @@
       "date": "2026-06-02"
     },
     {
+      "id": "anthropic-files-to-go-public",
+      "label": "Anthropic files to go public",
+      "summary": "Anthropic 提交 IPO 申请，标志着其从大模型领域的挑战者正式跻身顶尖 AI 巨头行列。该公司凭借 Claude 系列模型的安全性与对齐能力，已赢得众多顶级企业客户，验证了负责任 AI 的商业化路径。此次上市将为其带来更大资金和资源，加速模型迭代与行业落地，同时引发 AI 产品经理对模型竞争格局、企业级部署策略以及合规优先产品设计的重新思考。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "water-access-is-now-a-risk-factor-in-spacex8217s-ipo",
+      "label": "Water access is now a risk factor in SpaceX&#8217;s IPO",
+      "summary": "SpaceX在其IPO文件中首次将水资源获取列为风险因素，指出其数据中心冷却需要大量水，而获得充足且廉价的水资源正成为挑战。对于AI产品经理，这意味着大规模AI计算依赖的数据中心基础设施面临可持续性压力，可能推高运营成本并限制扩展。这凸显了企业需关注水冷技术优化或采用液冷等替代方案，同时在水资源匮乏地区选址时需评估长期风险。该风险是AI基础设施商业层面的重要警示。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-inciden",
+      "label": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incid",
+      "summary": "佛罗里达州对OpenAI及Sam Altman提起首例针对暴力事件中ChatGPT角色的诉讼，案件涉及去年佛罗里达州立大学枪击案中AI聊天机器人被指控诱导或协助暴力行为。该诉讼凸显了AI产品在安全责任与内容审核方面的法律风险，对产品经理而言，需重视模型输出对现实行为的潜在影响，加强安全护栏设计与合规审查，避免因生成不当内容引发法律纠纷，同时关注监管动态对AI商业化部署的制约。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "date": "2026-06-02"
+    },
+    {
       "id": "this-ai-weather-startup-is-out-forecasting-government-agencies",
       "label": "This AI weather startup is out-forecasting government agencies",
       "summary": "Windborne Systems 推出新型天气预报模型，在数天内超越最佳政府预测，展示了AI在气象领域的显著能力突破。该初创公司通过专有算法和高效训练，实现更高精度与更长的预报时效，有望替代或补充传统气象服务，降低行业依赖政府数据的成本，为农业、物流、能源等场景提供商业价值。其产品创新在于以小型团队对标国家级机构，凸显AI模型在垂直领域颠覆性潜力。",
@@ -34,6 +133,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "alphabet-announces-80b-equity-capital-raise-to-expand-ai-infra-and-compute",
+      "label": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+      "summary": "Alphabet宣布通过800亿美元股权融资大幅扩张AI基础设施和计算能力。此举旨在加速下一代AI模型训练与推理，强化其云服务竞争力，同时推动行业算力门槛提升。对AI产品经理而言，这意味着更强大的底层支撑，可能降低AI应用部署成本，但也加剧了算力军备竞赛。商业上，Alphabet意图在AI生态中占据主导地位，影响第三方AI产品开发与平台选择。",
+      "pm_score": 0.43,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48362515",
       "date": "2026-06-02"
     },
     {
@@ -59,6 +169,17 @@
       "date": "2026-06-02"
     },
     {
+      "id": "the-groupthink-boom-what-3-top-vcs-really-think-about-the-ai-frenzy",
+      "label": "The groupthink boom: what 3 top VCs really think about the AI frenzy",
+      "summary": "文章报道了三位顶级风投对AI投资热潮的看法。他们半开玩笑地指出，目前在旧金山，22岁做AI的年轻人就能轻松获得种子轮投资，而19岁的天才甚至可能已拿到A轮。这反映了AI领域的投资狂热和“群体思维”现象——资金过度追逐年轻创业者，可能导致估值泡沫和资源错配。对于AI产品经理而言，这提醒我们需要警惕市场过热，回归产品价值本身，避免被资本裹挟。同时，也要关注早期创业生态中涌现的创新机会。",
+      "pm_score": 0.36,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+      "date": "2026-06-02"
+    },
+    {
       "id": "cs336-language-modeling-from-scratch",
       "label": "CS336: Language Modeling from Scratch",
       "summary": "该内容源于HN，标题‘CS336: Language Modeling from Scratch’指向一门从零构建语言模型的课程或教程。核心在于系统教授语言模型的基础原理、架构设计与训练流程，而非仅使用现成API。对于AI产品经理，深入理解模型底层机制有助于评估技术选型、成本控制及产品差异化，例如决定是否自研轻量模型或基于开源模型做微调。这类知识对规划AI能力边界、优化用户体验（如推理速度、上下文长度）具有战略价值，同时可降低对供应商的依赖风险。",
@@ -67,6 +188,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48357075",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "radxa-dragon-q8b-a-laptop-cosplaying-as-an-sbc",
+      "label": "Radxa Dragon Q8B: A Laptop Cosplaying as an SBC?",
+      "summary": "Radxa Dragon Q8B 是一款以单板计算机（SBC）外形呈现的笔记本电脑，融合了传统笔记本的完整功能与SBC的紧凑模块化设计。其核心创新在于将ARM架构处理器、内存、存储及I/O接口整合在类似树莓派的板卡上，同时内置电池、键盘和屏幕，形成可独立工作的移动计算平台。这类产品瞄准边缘AI推理、嵌入式开发、教育等场景，通过低功耗高集成度降低部署成本，并支持用户自定义扩展。商业价值在于开辟了介于开发板与成品PC之间的新品类，为AI产品经理提供了快速原型验证和轻量级本地推理的硬件选项，尤其适合需要便携且开放生态的行业应用。",
+      "pm_score": 0.31,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48356741",
       "date": "2026-06-02"
     },
     {
@@ -93,7 +225,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1071,
-    "edges": 76806
+    "real_nodes": 1086,
+    "edges": 77899
   }
 }

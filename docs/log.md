@@ -1257,3 +1257,20 @@
 - create: rubin-tracks-skyscraper-size-asteroids-and-failed-supernovas.md
 - create: this-ai-weather-startup-is-out-forecasting-government-agencies.md
 - create: duckduckgo-makes-its-8216no-ai8217-search-engine-easier-to-access-as-its-traffic.md
+
+## [2026-06-02 06:03] sync v3 | 15 new | pillars: {'patterns': 3, 'capabilities': 10, 'ecosystem': 1, 'business': 1}
+- create: ai-agent-guidelines-for-cs336-at-stanford.md
+- create: florida-sues-openai-and-sam-altman-over-ai-risks.md
+- create: grapheneos-speech-services-version-2-released.md
+- create: alphabet-announces-80b-equity-capital-raise-to-expand-ai-infra-and-compute.md
+- create: github-and-the-crime-against-software.md
+- create: anthropic-confidentially-submits-draft-s-1-to-the-sec.md
+- create: handmade-hawaiian-islands-map.md
+- create: florida-ag-files-lawsuit-against-openai-ceo-sam-altman-for-deceptive-practices.md
+- create: radxa-dragon-q8b-a-laptop-cosplaying-as-an-sbc.md
+- create: duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms.md
+- create: nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp.md
+- create: florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-inciden.md
+- create: water-access-is-now-a-risk-factor-in-spacex8217s-ipo.md
+- create: anthropic-files-to-go-public.md
+- create: the-groupthink-boom-what-3-top-vcs-really-think-about-the-ai-frenzy.md

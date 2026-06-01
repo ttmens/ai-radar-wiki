@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-02 | Total pages: 1090
+> Last updated: 2026-06-02 | Total pages: 1105
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -94,6 +94,7 @@
 - [[gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https.md]] Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS `pillar:capabilities` `score:0.36`
 - [[gemini-omni.md]] Gemini Omni `pillar:capabilities` `score:0.53`
 - [[github-actions-down-again-today.md]] GitHub Actions down again today `pillar:capabilities` `score:0.645`
+- [[github-and-the-crime-against-software.md]] GitHub and the crime against software `pillar:capabilities` `score:0.53`
 - [[google-ai-edgemediapipe.md]] google-ai-edge/mediapipe `pillar:capabilities` `score:0.615`
 - [[google-just-declared-itself-a-contender-in-ai-design-at-io-2026.md]] Google just declared itself a contender in AI design at IO 2026 `pillar:capabilities` `score:0.445`
 - [[google-launches-antigravity-20-with-an-updated-desktop-app-and-cli-tool-at-io-20.md]] Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2 `pillar:capabilities` `score:0.48`
@@ -103,9 +104,11 @@
 - [[googles-ai-is-being-manipulated-the-search-giant-is-quietly-fighting-back.md]] Google's AI is being manipulated. The search giant is quietly fighting back `pillar:capabilities` `score:0.48`
 - [[googles-antigravity-bait-and-switch.md]] Google's Antigravity Bait and Switch `pillar:capabilities` `score:0.53`
 - [[googles-genie-world-model-can-now-simulate-real-streets-with-street-view.md]] Google’s Genie world model can now simulate real streets with Street View `pillar:capabilities` `score:0.515`
+- [[grapheneos-speech-services-version-2-released.md]] GrapheneOS Speech Services version 2 released `pillar:capabilities` `score:0.295`
 - [[growing-neural-cellular-automata.md]] Growing Neural Cellular Automata `pillar:capabilities` `score:0.295`
 - [[hacksiderdeep-live-cam.md]] hacksider/Deep-Live-Cam `pillar:capabilities` `score:0.58`
 - [[haiku-os-runs-on-m1-macs-now.md]] Haiku OS runs on M1 Macs now `pillar:capabilities` `score:0.475`
+- [[handmade-hawaiian-islands-map.md]] Handmade Hawaiian Islands Map `pillar:capabilities` `score:0.26`
 - [[hark-raises-700m-series-a-for-its-secretive-8220universal8221-ai-interface.md]] Hark raises $700M Series A for its secretive &#8220;universal&#8221; AI interfac `pillar:capabilities` `score:0.515`
 - [[harvard-edgecs249r_book.md]] harvard-edge/cs249r_book `pillar:capabilities` `score:0.58`
 - [[has-the-hunt-for-ai-compute-uncovered-the-next-cerebras.md]] Has the hunt for AI compute uncovered the next Cerebras? `pillar:capabilities` `score:0.48`
@@ -508,6 +511,7 @@
 - [[agentic-trading-with-safe-guardrails.md]] Agentic Trading with Safe Guardrails `pillar:patterns` `score:0.33`
 - [[agno-agiagno.md]] agno-agi/agno `pillar:patterns` `score:0.58`
 - [[agora-1-the-multi-agent-world-model.md]] Agora-1: The Multi-Agent World Model `pillar:patterns` `score:0.38`
+- [[ai-agent-guidelines-for-cs336-at-stanford.md]] AI Agent Guidelines for CS336 at Stanford `pillar:patterns` `score:0.58`
 - [[ai-is-being-used-to-resurrect-the-voices-of-dead-pilots.md]] AI is being used to resurrect the voices of dead pilots `pillar:patterns` `score:0.445`
 - [[ai-voice-startup-vapi-hits-500m-valuation-after-w.md]] AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 riv `pillar:patterns` `score:0.305`
 - [[alibabaspring-ai-alibaba.md]] alibaba/spring-ai-alibaba `pillar:patterns` `score:0.53`
@@ -605,6 +609,7 @@
 - [[not-medically-necessary-helping-americas-healt.md]] "Not Medically Necessary": Helping America's Health Insurers Deny Coverage `pillar:patterns` `score:0.355`
 - [[notion-just-turned-its-workspace-into-a-hub-for-ai.md]] Notion just turned its workspace into a hub for AI agents `pillar:patterns` `score:0.305`
 - [[nousresearchhermes-agent.md]] NousResearch/hermes-agent `pillar:patterns` `score:0.405`
+- [[nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp.md]] Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP `pillar:patterns` `score:0.515`
 - [[onyx-dot-apponyx.md]] onyx-dot-app/onyx `pillar:patterns` `score:0.58`
 - [[open-source-kanban-desktop-app-that-runs-parallel-agents-on-every-card.md]] Open source Kanban desktop app that runs parallel agents on every card `pillar:patterns` `score:0.565`
 - [[openbb-financeopenbb.md]] OpenBB-finance/OpenBB `pillar:patterns` `score:0.58`
@@ -616,6 +621,7 @@
 - [[product-hunt-ai-topics.md]] Product Hunt — AI Topics `pillar:patterns` `score:0.305`
 - [[protestware-for-coding-agents.md]] Protestware for Coding Agents `pillar:patterns` `score:0.345`
 - [[qwen37-max-the-agent-frontier.md]] Qwen3.7-Max: The Agent Frontier `pillar:patterns` `score:0.6`
+- [[radxa-dragon-q8b-a-laptop-cosplaying-as-an-sbc.md]] Radxa Dragon Q8B: A Laptop Cosplaying as an SBC? `pillar:patterns` `score:0.31`
 - [[rasahqrasa.md]] RasaHQ/rasa `pillar:patterns` `score:0.615`
 - [[rasbtllms-from-scratch.md]] rasbt/LLMs-from-scratch `pillar:patterns` `score:0.545`
 - [[recommenders-teamrecommenders.md]] recommenders-team/recommenders `pillar:patterns` `score:0.615`
@@ -709,6 +715,7 @@
 - [[ai-job-grief-the-unnamed-psychological-crisis-hitting-tech-workers.md]] AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers `pillar:ecosystem` `score:0.295`
 - [[aids-creeps-back-in-parts-of-zambia-a-year-after.md]] Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance `pillar:ecosystem` `score:0.12`
 - [[aliasroboticscai.md]] aliasrobotics/cai `pillar:ecosystem` `score:0.53`
+- [[alphabet-announces-80b-equity-capital-raise-to-expand-ai-infra-and-compute.md]] Alphabet announces $80B equity capital raise to expand AI infra and compute `pillar:ecosystem` `score:0.43`
 - [[amazon-scraps-ai-leaderboard-to-stop-workers-chasing-usage-scores.md]] Amazon scraps AI leaderboard to stop workers chasing usage scores `pillar:ecosystem` `score:0.295`
 - [[amd-pulls-a-bait-and-switch-on-linux-users-with-vivado-licensing-changes.md]] AMD pulls a bait-and-switch on Linux users with Vivado licensing changes `pillar:ecosystem` `score:0.53`
 - [[annas-archive-hit-with-195m-default-judgment-and-global-domain-takedown-order.md]] Anna's Archive Hit with $19.5M Default Judgment and Global Domain Takedown Order `pillar:ecosystem` `score:0.55`
@@ -882,7 +889,9 @@
 - [[air-france-and-airbus-found-guilty-of-manslaughter-over-2009-plane-crash.md]] Air France and Airbus found guilty of manslaughter over 2009 plane crash `pillar:business` `score:0.27`
 - [[all-means-are-fair-except-solving-the-problem.md]] All means are fair except solving the problem `pillar:business` `score:0.465`
 - [[amália-and-the-future-of-european-portuguese-llms.md]] AMÁLIA and the future of European Portuguese LLMs `pillar:business` `score:0.355`
+- [[anthropic-confidentially-submits-draft-s-1-to-the-sec.md]] Anthropic confidentially submits draft S-1 to the SEC `pillar:business` `score:0.63`
 - [[anthropic-courts-a-new-kind-of-customer-small-bus.md]] Anthropic courts a new kind of customer: small business owners `pillar:business` `score:0.48`
+- [[anthropic-files-to-go-public.md]] Anthropic files to go public `pillar:business` `score:0.48`
 - [[anthropic-now-has-more-business-customers-than-ope.md]] Anthropic now has more business customers than OpenAI, according to Ramp data `pillar:business` `score:0.305`
 - [[anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo.md]] Anthropic raises $65 billion, nears $1T valuation ahead of IPO `pillar:business` `score:0.48`
 - [[anthropic-raises-65b-in-series-h-funding-at-965b-post-money-valuation.md]] Anthropic raises $65B in Series H funding at $965B post-money valuation `pillar:business` `score:0.515`
@@ -914,6 +923,7 @@
 - [[dessn-raises-6m-for-its-production-focused-design.md]] Dessn raises $6M for its production focused design tool `pillar:business` `score:0.48`
 - [[di-sukharevopencommit.md]] di-sukharev/opencommit `pillar:business` `score:0.355`
 - [[domain-expertise-has-always-been-the-real-moat.md]] Domain expertise has always been the real moat `pillar:business` `score:0.465`
+- [[duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms.md]] DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms `pillar:business` `score:0.565`
 - [[dyad-shdyad.md]] dyad-sh/dyad `pillar:business` `score:0.405`
 - [[elon-musk-can8217t-hear-you-over-the-sound-of-his-175-trillion-ipo.md]] Elon Musk can&#8217;t hear you over the sound of his $1.75 trillion IPO `pillar:business` `score:0.41`
 - [[elon-musk-has-given-up-on-solar-power-on-earth.md]] Elon Musk has given up on solar power (on Earth) `pillar:business` `score:0.445`
@@ -924,6 +934,9 @@
 - [[every-ai-subscription-is-a-ticking-time-bomb-for-enterprise.md]] Every AI Subscription Is a Ticking Time Bomb for Enterprise `pillar:business` `score:0.585`
 - [[fake-building-claude-wrote-3k-lines-instead-of-im.md]] Fake building: Claude wrote 3k lines instead of import pywikibot `pillar:business` `score:0.155`
 - [[five-architects-of-the-ai-economy-explain-where-th.md]] Five architects of the AI economy explain where the wheels are coming off `pillar:business` `score:0.15`
+- [[florida-ag-files-lawsuit-against-openai-ceo-sam-altman-for-deceptive-practices.md]] Florida AG files lawsuit against OpenAI, CEO Sam Altman for deceptive practices `pillar:business` `score:0.295`
+- [[florida-sues-openai-and-sam-altman-over-ai-risks.md]] Florida sues OpenAI and Sam Altman over AI risks `pillar:business` `score:0.55`
+- [[florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-inciden.md]] Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incid `pillar:business` `score:0.48`
 - [[foucaults-order-of-things-explained-with-trading.md]] Foucault's Order of Things Explained with Trading Cards [video] `pillar:business` `score:0.205`
 - [[get-ready-for-the-whisper-filled-office-of-the-fut.md]] Get ready for the whisper-filled office of the future `pillar:business` `score:0.305`
 - [[glean8217s-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling.md]] Glean&#8217;s top line crosses $300M as AI budget-cutting becomes its major sell `pillar:business` `score:0.48`
@@ -1019,6 +1032,7 @@
 - [[tell-hn-dont-use-claude-design-lost-access-to-my-projects-after-unsubscribing.md]] Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing `pillar:business` `score:0.53`
 - [[tesla-model-y-passes-nhtsas-new-advanced-driver.md]] Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests `pillar:business` `score:0.255`
 - [[the-ai-legal-services-industry-is-heating-up-ant.md]] The AI legal services industry is heating up — Anthropic is getting in on the ac `pillar:business` `score:0.305`
+- [[the-groupthink-boom-what-3-top-vcs-really-think-about-the-ai-frenzy.md]] The groupthink boom: what 3 top VCs really think about the AI frenzy `pillar:business` `score:0.36`
 - [[the-haves-and-have-nots-of-the-ai-gold-rush.md]] The haves and have nots of the AI gold rush `pillar:business` `score:0.48`
 - [[the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning.md]] The OpenAI trial wraps up, and the Musk founder machine keeps spinning `pillar:business` `score:0.445`
 - [[the-peoples-airline-and-the-enterprise-ai-gold.md]] The “people’s airline” and the enterprise AI gold rush `pillar:business` `score:0.48`
@@ -1033,6 +1047,7 @@
 - [[ucla-discovers-first-stroke-rehabilitation-drug-to.md]] UCLA discovers first stroke rehabilitation drug to repair brain damage (2025) `pillar:business` `score:0.255`
 - [[valve-raises-steam-deck-prices.md]] Valve raises Steam Deck prices `pillar:business` `score:0.42`
 - [[wasmedgewasmedge.md]] WasmEdge/WasmEdge `pillar:business` `score:0.405`
+- [[water-access-is-now-a-risk-factor-in-spacex8217s-ipo.md]] Water access is now a risk factor in SpaceX&#8217;s IPO `pillar:business` `score:0.48`
 - [[were-feeling-cynical-about-xais-big-deal-with-an.md]] We’re feeling cynical about xAI’s big deal with Anthropic `pillar:business` `score:0.305`
 - [[what-a-japanese-cooking-principle-taught-me-about.md]] What a Japanese cooking principle taught me about overcoming AI fatigue `pillar:business` `score:0.155`
 - [[what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman.md]] What the jury will actually decide in the case of Elon Musk vs. Sam Altman `pillar:business` `score:0.48`
