@@ -1247,3 +1247,13 @@
 - create: what-if-remote-working-not-ai-is-to-blame-for-weak-junior-hiring.md
 - create: the-history-of-prisencolinensinainciusol.md
 - create: show-hn-ouijit-an-open-source-task-and-terminal-manager-for-coding-agents.md
+
+## [2026-06-02 00:03] sync v3 | 8 new | pillars: {'capabilities': 8}
+- create: cs336-language-modeling-from-scratch.md
+- create: the-pirate-bay-remains-resilient-20-years-after-the-raid.md
+- create: no-raise-no-promotion-1-in-4-white-collar-workers-are-stalling-out.md
+- create: benchmarking-surrealdb-3x-vs-postgres-mongo-neo4j-and-redis-with-fsync.md
+- create: when-ai-crosses-the-line-the-matplotlib-incident.md
+- create: rubin-tracks-skyscraper-size-asteroids-and-failed-supernovas.md
+- create: this-ai-weather-startup-is-out-forecasting-government-agencies.md
+- create: duckduckgo-makes-its-8216no-ai8217-search-engine-easier-to-access-as-its-traffic.md

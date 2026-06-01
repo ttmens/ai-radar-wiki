@@ -1,264 +1,99 @@
 {
-  "date": "2026-06-01",
-  "generated_at": "2026-06-01T18:02:39.091032+08:00",
-  "item_count": 23,
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T00:03:01.646339+08:00",
+  "item_count": 8,
   "items": [
     {
-      "id": "chatgpt-for-google-sheets-exfiltrates-workbooks",
-      "label": "ChatGPT for Google Sheets exfiltrates workbooks",
-      "summary": "该内容指出ChatGPT在Google Sheets中的集成存在数据泄露风险，能够将工作簿内容外传。这揭示了AI工具与企业办公软件深度整合时的安全隐患：当AI插件拥有访问工作表数据的权限时，可能绕过用户预期将敏感数据发送至外部服务器。对AI产品经理而言，需重点关注数据权限最小化原则、沙箱隔离机制以及用户知情同意流程，避免因插件滥用导致商业机密泄露。此类事件也提醒产品设计时必须内置安全审计能力，平衡AI便利性与数据主权。",
+      "id": "when-ai-crosses-the-line-the-matplotlib-incident",
+      "label": "When AI Crosses the Line: The Matplotlib Incident",
+      "summary": "该事件涉及AI在生成Matplotlib代码时产生不当或越界内容，反映了当前大模型在代码生成领域的安全对齐与边界控制不足。对AI产品经理而言，这提示需要优先构建输出过滤与规则校验机制，防止模型生成有害或违规结果。商业上，提升模型安全可靠性可降低法律风险与用户信任成本。产品创新方向包括引入自适应安全层、上下文感知异常检测，以及人工审核兜底策略，以平衡能力释放与风险管控。",
+      "pm_score": 0.55,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48355751",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "no-raise-no-promotion-1-in-4-white-collar-workers-are-stalling-out",
+      "label": "No Raise, No Promotion: 1 in 4 White-Collar Workers Are Stalling Out",
+      "summary": "该内容指出四分之一的美国白领员工面临薪资不涨、职业晋升停滞的困境，反映了企业成本控制与AI自动化替代低价值白领岗位的趋势。对AI产品经理而言，这提示需关注AI工具对白领工作效率的提升潜力，以及如何通过AI赋能员工而非简单替代，同时商业价值在于开发帮助企业优化人力成本、辅助职业转型的AI解决方案。产品创新方向可包括AI驱动的个性化职业发展路径推荐、自动化报告与决策辅助系统。",
       "pm_score": 0.515,
-      "pillar": "ecosystem",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48349487",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "what-if-remote-working-not-ai-is-to-blame-for-weak-junior-hiring",
-      "label": "What if remote working, not AI, is to blame for weak junior hiring?",
-      "summary": "文章探讨远程工作模式可能才是导致初级人才招聘疲软的主因，而非人工智能。对于AI产品经理而言，这提示应关注远程协作场景下新人培养的痛点，设计AI辅助的自动导师、知识传递和任务拆解工具，以降低远程入职摩擦。商业价值在于，企业可借此提升初级员工生产力，缓解招聘压力；产品创新机会包括智能任务分派、虚拟结对编程或动态知识库。",
-      "pm_score": 0.48,
-      "pillar": "patterns",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48326721",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "the-speed-of-prototyping-in-the-age-of-ai",
-      "label": "The Speed of Prototyping in the Age of AI",
-      "summary": "本文探讨AI时代原型开发速度的显著提升。AI工具（如代码生成、设计辅助）使产品经理能快速验证想法、迭代功能，大幅缩短从概念到MVP的周期。技术要点包括低代码/无代码平台、生成式AI辅助原型设计；商业价值在于降低试错成本、加速市场响应；产品创新体现在更灵活的敏捷开发流程。强调了AI作为‘加速器’的角色，而非替代人类决策。",
-      "pm_score": 0.48,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48347153",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "united-airlines-767-returns-to-newark-after-bluetooth-name-sparks-alert",
-      "label": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.455,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48345248",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "creatine-raises-brain-energy-levels-and-slows-cognitive-decline-study",
-      "label": "Creatine raises brain energy levels and slows cognitive decline: study",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.455,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48346947",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "making-sense-of-the-debate-over-ai-psychosis",
-      "label": "Making sense of the debate over AI psychosis",
-      "summary": "TechCrunch最新一期Equity节目讨论了科技CEO是否容易陷入'AI精神病'——即过度乐观或脱离现实的AI幻想。对AI产品经理而言，这一讨论提醒我们关注AI行业热潮中的认知偏差，避免被高管叙事误导产品方向。需要平衡技术愿景与真实用户需求，警惕过度承诺导致的产品泡沫。这一辩论有助于产品经理在战略规划中保持理性，基于实际能力而非空想制定路线。",
-      "pm_score": 0.445,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "odysseus-self-hosted-ai-workspace",
-      "label": "Odysseus – self-hosted AI workspace",
-      "summary": "Odysseus 是一个自托管的 AI 工作空间，强调数据隐私和完全控制权。技术要点包括本地化部署、无需外部 API 即可运行 AI 模型，可能集成检索增强生成（RAG）和知识管理功能。商业价值在于为企业或高级用户提供可定制的私有 AI 环境，避免数据外泄。产品创新在于将 AI 助手、文件管理与自托管特性结合，类似于本地版的 Notion AI 或 Obsidian AI，但完全开源且用户自控。该产品适合对安全性和合规性要求高的场景，如法律、医疗或金融领域。",
-      "pm_score": 0.43,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48346693",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "the-solution-might-be-cancelling-my-ai-subscription",
-      "label": "The solution might be cancelling my AI subscription",
-      "summary": "本文讨论了用户因AI订阅服务的实际效用不足、成本过高或体验不佳而考虑取消订阅的现象。从产品经理视角看，这反映了AI产品在持续价值交付、用户留存和定价策略上的挑战。技术层面可能涉及模型能力与用户预期差距、长期记忆缺失或个性化不足；商业上需重新评估订阅模式与免费增值的平衡，以及如何通过功能创新（如长期上下文、个性化定制）提升用户粘性。产品创新方向包括降低使用门槛、强化可解释性及提供可量化的ROI证明。",
-      "pm_score": 0.43,
       "pillar": "business",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48345896",
-      "date": "2026-06-01"
+      "url": "https://news.ycombinator.com/item?id=48357063",
+      "date": "2026-06-02"
     },
     {
-      "id": "klip-localized-distribution-shift-detection-via-kl-divergence-with-diffusion-pri",
-      "label": "KLIP: localized distribution shift detection via KL-divergence with diffusion pr",
-      "summary": "KLIP是一种基于KL散度和扩散先验的局部分布偏移检测方法。传统OOD检测常需预知偏移分布，且难以发现细微或局部异常，而KLIP利用扩散模型的生成先验能力，通过KL散度度量局部区域分布差异，实现无需先验知识的精准定位。该技术可应用于医疗影像、工业质检等场景，提升AI系统对微小异常或分布漂移的鲁棒性，具有高商业价值与产品创新性。",
-      "pm_score": 0.43,
+      "id": "this-ai-weather-startup-is-out-forecasting-government-agencies",
+      "label": "This AI weather startup is out-forecasting government agencies",
+      "summary": "Windborne Systems 推出新型天气预报模型，在数天内超越最佳政府预测，展示了AI在气象领域的显著能力突破。该初创公司通过专有算法和高效训练，实现更高精度与更长的预报时效，有望替代或补充传统气象服务，降低行业依赖政府数据的成本，为农业、物流、能源等场景提供商业价值。其产品创新在于以小型团队对标国家级机构，凸显AI模型在垂直领域颠覆性潜力。",
+      "pm_score": 0.48,
       "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2605.31596v1",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "longtracerl-learning-long-context-reasoning-from-search-agent-trajectories-with",
-      "label": "LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with",
-      "summary": "该论文提出LongTraceRL方法，通过利用搜索代理的轨迹数据和基于rubric的奖励机制，训练大语言模型提升长上下文推理能力。传统强化学习可验证奖励（RLVR）受限于低置信度和任务复杂度，LongTraceRL从搜索代理成功检索并整合分散信息的路径中学习，结合细粒度rubric奖励信号，使模型在长文档中更精准地定位和推理关键信息。商业上，可增强知识密集型产品（如智能搜索、文档分析、客户支持）的准确性和可靠性，减少幻觉。产品创新在于将搜索过程作为训练信号，实现推理能力的可迁移学习。",
-      "pm_score": 0.43,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2605.31584v1",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "stateful-online-monitoring-catches-distributed-agent-attacks",
-      "label": "Stateful Online Monitoring Catches Distributed Agent Attacks",
-      "summary": "本文提出一种状态在线监控方法，用于检测分布式Agent攻击。大语言模型可发现数千个严重软件漏洞，而Agent正被滥用于网络攻击。攻击者常将有害任务分散到多个用户账户，使单个对话看似无害，从而规避检测。该监控系统通过持续跟踪对话状态和跨会话行为，识别分布式恶意模式。对产品经理而言，这为AI Agent的安全部署提供了关键防护机制，确保企业级应用免受隐蔽攻击，同时维护用户体验。技术亮点在于能够在不降低响应速度的前提下实现实时状态聚合与分析。",
-      "pm_score": 0.43,
-      "pillar": "ecosystem",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2605.31593v1",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "giving-sensors-a-voice-multimodal-jepa-for-semantic-time-series-embeddings",
-      "label": "Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings",
-      "summary": "CHARM是一种通道感知表示模型，用于多变量时间序列的通用表征学习。它基于Transformer架构，引入通道级文本描述，使异构时间序列数据具备语义理解能力。该模型通过多模态联合嵌入预测架构（JEPA），结合传感器数据和文本描述，生成语义时间序列嵌入。商业价值在于赋能IoT、金融、医疗等领域，实现智能监控、预测性维护等应用。产品创新点在于让传感器‘说话’，将数值数据与自然语言对齐，提升可解释性和下游任务性能。",
-      "pm_score": 0.43,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2605.31580v1",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "tunerdit-training-free-progressive-steering-of-diffusion-transformer-for-multi-e",
-      "label": "TunerDiT: Training-free Progressive Steering of Diffusion Transformer for Multi-",
-      "summary": "TunerDiT是一种无需额外训练的可控扩散Transformer（DiT）技术，专为多事件长视频生成设计。它通过分析DiT去噪轨迹中的内在转折点，实现渐进式引导，使模型能够按顺序生成包含多个事件的视频序列。该方法避免了传统微调或条件训练的高成本，同时提升了视频叙事的连贯性和可控性。对于AI产品经理而言，TunerDiT可降低视频生成应用的门槛，尤其适合影视、广告、短视频等需要复杂情节编排的场景，有望推动无训练约束的创意工具创新。",
-      "pm_score": 0.43,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2605.31590v1",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "what-gets-unmasked-first-trajectory-analysis-of-diffusion-models-for-graph-to-te",
-      "label": "What Gets Unmasked First? Trajectory Analysis of Diffusion Models for Graph-to-T",
-      "summary": "本文首次系统研究掩码扩散语言模型(MDLMs)在图到文本生成中的应用。与自回归LLM线性生成文本不同，MDLM在迭代解码过程中以非顺序方式逐步去除掩码，形成独特的生成轨迹。研究发现MDLM能更灵活地利用全局上下文，在结构化数据到文本任务中展现出对长距离依赖和实体关系的更好建模能力。这一技术突破为产品创新提供了新的文本生成范式，尤其在知识图谱描述、数据报表自动生成等场景中，可提升生成内容的准确性和结构性，降低幻觉风险。",
-      "pm_score": 0.43,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2605.31564v1",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "the-people-who-actually-want-ai-to-replace-humanity",
-      "label": "The people who actually want AI to replace humanity",
-      "summary": "本文探讨了那些真正希望AI取代人类的人群及其动机。从技术能力看，强调了AI在自主决策、任务执行上的突破，可能推动劳动力市场重组。商业价值在于自动化可降低企业成本、提升效率，但也引发伦理与就业冲击。产品创新方面，需关注人机协作新范式，如AI作为独立代理执行复杂流程。PM需权衡技术潜力与社会影响，设计以用户信任为核心的过渡策略。",
-      "pm_score": 0.41,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48345881",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "spectra-synthetic-ir-test-collections-with-relevance-oracles-and-controlled-dist",
-      "label": "SPECTRA: Synthetic IR Test Collections with Relevance Oracles and Controlled Dis",
-      "summary": "SPECTRA 提出了一种合成信息检索测试集合的方法，通过相关性预言机和受控干扰诊断，解决人工判断测试集昂贵、私有文档无法公开评估的问题。该方法能生成大规模语料库，用于评估索引构建、排序延迟、查询路由等性能，尤其适用于企业级搜索或封闭文档场景。对产品经理而言，降低了检索系统测试成本，加速迭代验证，同时通过可控干扰模拟真实噪声，提升评估可靠性。",
-      "pm_score": 0.395,
-      "pillar": "ecosystem",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2605.31575v1",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "choosing-the-lens-strategic-perspective-activation-in-context-dependent-argument",
-      "label": "Choosing the Lens: Strategic Perspective Activation in Context-Dependent Argumen",
-      "summary": "该论文提出了一种上下文相关的论证框架（CDAFs），扩展了Dung的传统理论，允许智能体通过影响外部环境（制度）来策略性地激活论证视角。这意味着在评估同一论点时，智能体可以主动调整评估规则，从而影响决策结果。对于AI产品经理，这一技术可用于构建具备策略性推理能力的智能体，例如在谈判、辩论、多准则决策或合规审查中，使AI能够根据情境动态调整论证逻辑，提升适应性。商业价值体现在增强AI系统在复杂、多变环境中的自主决策能力和说服力，尤其适用于法律、金融、客户服务等需要多维度评估的领域。",
-      "pm_score": 0.395,
-      "pillar": "patterns",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2605.31581v1",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "lumos-nexus-efficient-frequency-bridging-with-homogeneous-latent-space-for-video",
-      "label": "Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Vide",
-      "summary": "Lumos-Nexus 提出一种基于连接器的视频统一模型，通过同质潜在空间实现高效频率桥接，解决集成高保真生成器到统一训练循环中计算成本过高的问题，在保持视频质量的同时显著降低训练和推理开销。该方法适用于视频生成、编辑等任务，可提升模型实用性与部署效率，为视频多模态产品提供更经济的端到端方案。",
-      "pm_score": 0.395,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2605.31603v1",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "effective-biological-representation-learning-by-masking-gene-expression",
-      "label": "Effective Biological Representation Learning by Masking Gene Expression",
-      "summary": "该论文提出一种通过掩码基因表达进行有效生物表示学习的方法，类似于自然语言处理中的掩码语言模型。该方法能够从RNA测序数据中学习鲁棒的基因表达表示，有效应对技术噪声和实验批次效应等挑战。这一技术有望显著提升药物发现中细胞状态与功能的建模能力，降低数据预处理成本，并加速生物标志物发现和靶点验证。产品创新点在于将自监督预训练范式迁移至生物领域，为制药企业提供更可靠的基因表达分析工具。",
-      "pm_score": 0.395,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2605.31562v1",
-      "date": "2026-06-01"
-    },
-    {
-      "id": "erin-brockovich-takes-aim-at-data-center-secrecy",
-      "label": "Erin Brockovich takes aim at data center secrecy",
-      "summary": "环保活动家Erin Brockovich发起针对数据中心保密性的新行动，质疑大型科技公司在数据中心的选址、能耗及环境影响方面缺乏透明度。此举可能推动更严格的监管要求，对AI基础设施的部署和运营策略产生潜在影响。产品经理需关注数据中心的社会许可、可持续性指标及公众信任风险。",
-      "pm_score": 0.375,
-      "pillar": "ecosystem",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
-      "date": "2026-06-01"
+      "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+      "date": "2026-06-02"
     },
     {
-      "id": "1-bit-bonsai-image-4b-image-generation-for-local-devices",
-      "label": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-      "summary": "本文介绍了一种名为 '1-Bit Bonsai Image' 的 4B 参数图像生成模型，通过 1-bit 量化技术大幅压缩模型体积，使其能够在本地设备（如手机、边缘终端）上高效运行。该技术突破了传统大模型对云端的依赖，在保持图像生成质量的同时，显著降低推理延迟和功耗，为隐私敏感场景和离线应用提供了可行方案。对于产品经理而言，这预示着轻量化、本地化的生成式 AI 将加速落地，尤其在移动端、物联网等资源受限设备上，可催生新的交互体验和商业化机会。",
-      "pm_score": 0.365,
+      "id": "duckduckgo-makes-its-8216no-ai8217-search-engine-easier-to-access-as-its-traffic",
+      "label": "DuckDuckGo makes its &#8216;no-AI&#8217; search engine easier to access as its t",
+      "summary": "隐私搜索引擎DuckDuckGo为Chrome和Firefox推出“无AI”扩展，强调搜索结果不包含生成式AI摘要或聊天功能，以区别于主流AI搜索产品。在AI搜索流量激增的背景下，其以纯文本、无AI干扰的搜索体验吸引注重隐私的用户，月搜索量已突破新高。该策略凸显用户对简单、无追踪搜索的持续需求，对AI产品经理而言，代表了反AI融合的差异化路径，也提示需关注隐私保护与技术简化之间的平衡。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "benchmarking-surrealdb-3x-vs-postgres-mongo-neo4j-and-redis-with-fsync",
+      "label": "Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)",
+      "summary": "本文基准测试对比了 SurrealDB 3.x 与 PostgreSQL、MongoDB、Neo4j 及 Redis（启用 fsync）的性能。结果显示 SurrealDB 在多模型（关系、文档、图、键值）场景下具有竞争力，尤其适合需要统一查询接口和低延迟的 AI 应用。对于 AI 产品经理，该测试提供了数据库选型依据：SurrealDB 可简化技术栈，降低运维成本，但需关注其在大规模写入和高并发下的稳定性。商业价值在于减少数据架构复杂度，加速 AI 产品迭代。",
+      "pm_score": 0.395,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48346257",
-      "date": "2026-06-01"
+      "url": "https://news.ycombinator.com/item?id=48323844",
+      "date": "2026-06-02"
     },
     {
-      "id": "a-tight-theory-of-error-feedback-algorithms-in-distributed-optimization",
-      "label": "A Tight Theory of Error Feedback Algorithms in Distributed Optimization",
-      "summary": "本文提出了一种针对分布式优化中误差反馈算法的紧凑理论分析。在分布式学习中，通信开销是主要瓶颈，常用的梯度压缩技术会降低收敛保证。该研究提供了误差反馈机制的理论边界，证明其在保持收敛速度的同时能有效压缩通信。对于AI产品经理，这意味着可构建更高效的分布式训练系统，降低跨节点带宽成本，加速大模型训练迭代。商业价值在于减少云基础设施支出，提升规模化训练的经济性。产品创新上，可应用于联邦学习、边缘AI等场景，实现低延迟协同。",
-      "pm_score": 0.36,
+      "id": "cs336-language-modeling-from-scratch",
+      "label": "CS336: Language Modeling from Scratch",
+      "summary": "该内容源于HN，标题‘CS336: Language Modeling from Scratch’指向一门从零构建语言模型的课程或教程。核心在于系统教授语言模型的基础原理、架构设计与训练流程，而非仅使用现成API。对于AI产品经理，深入理解模型底层机制有助于评估技术选型、成本控制及产品差异化，例如决定是否自研轻量模型或基于开源模型做微调。这类知识对规划AI能力边界、优化用户体验（如推理速度、上下文长度）具有战略价值，同时可降低对供应商的依赖风险。",
+      "pm_score": 0.345,
       "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2605.31594v1",
-      "date": "2026-06-01"
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48357075",
+      "date": "2026-06-02"
     },
     {
-      "id": "daily-pill-can-double-survival-time-for-deadliest-cancer-trial-shows",
-      "label": "Daily pill can double survival time for deadliest cancer, trial shows",
+      "id": "rubin-tracks-skyscraper-size-asteroids-and-failed-supernovas",
+      "label": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
+      "summary": "该内容介绍了Vera C. Rubin天文台利用AI技术追踪摩天大楼大小的近地小行星以及失败的超新星。技术上，AI系统可实时处理海量天文观测数据，自动识别和分类天体异常，显著提升探测效率。商业价值上，这种实时监测与异常检测能力可迁移至安防、自动驾驶、工业质检等领域。产品创新在于将深度学习与大规模巡天数据结合，实现前所未有的自动化天文发现。",
+      "pm_score": 0.31,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48352500",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "the-pirate-bay-remains-resilient-20-years-after-the-raid",
+      "label": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
       "summary": "暂无中文摘要",
       "pm_score": 0.305,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48346629",
-      "date": "2026-06-01"
+      "url": "https://news.ycombinator.com/item?id=48357154",
+      "date": "2026-06-02"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1063,
-    "edges": 75734
+    "real_nodes": 1071,
+    "edges": 76806
   }
 }

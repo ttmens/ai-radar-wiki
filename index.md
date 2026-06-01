@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-01 | Total pages: 1082
+> Last updated: 2026-06-02 | Total pages: 1090
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -42,6 +42,7 @@
 - [[as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safa.md]] As the browser wars heat up, here are the hottest alternatives to Chrome and Saf `pillar:capabilities` `score:0.305`
 - [[autoregressive-next-token-prediction-and-kv-cache-in-transformers.md]] Autoregressive next token prediction and KV Cache in transformers `pillar:capabilities` `score:0.295`
 - [[bee-sanciphey.md]] bee-san/Ciphey `pillar:capabilities` `score:0.545`
+- [[benchmarking-surrealdb-3x-vs-postgres-mongo-neo4j-and-redis-with-fsync.md]] Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync) `pillar:capabilities` `score:0.395`
 - [[blinkdlrwkv-lm.md]] BlinkDL/RWKV-LM `pillar:capabilities` `score:0.405`
 - [[bun-rust-rewrite-codebase-fails-basic-miri-checks-allows-for-ub-in-safe-rust.md]] Bun Rust rewrite: "codebase fails basic miri checks, allows for UB in safe rust" `pillar:capabilities` `score:0.595`
 - [[claude-ai-recovers-an-11-yrs-old-btc-wallet-holding-400k-usd.md]] Claude AI recovers an 11 yrs old BTC wallet holding 400k USD `pillar:capabilities` `score:0.48`
@@ -57,6 +58,7 @@
 - [[comically-bad-datasets-used-to-train-clinical-models-for-stroke-and-diabetes.md]] 'Comically bad' datasets used to train clinical models for stroke and diabetes `pillar:capabilities` `score:0.33`
 - [[copyfail-from-pod-to-host.md]] CopyFail: From Pod to Host `pillar:capabilities` `score:0.295`
 - [[creatine-raises-brain-energy-levels-and-slows-cognitive-decline-study.md]] Creatine raises brain energy levels and slows cognitive decline: study `pillar:capabilities` `score:0.455`
+- [[cs336-language-modeling-from-scratch.md]] CS336: Language Modeling from Scratch `pillar:capabilities` `score:0.345`
 - [[cutting-inference-cold-starts-by-40x-with-lp-fuse-cr-and-cuda-checkpoint.md]] Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint `pillar:capabilities` `score:0.38`
 - [[cvat-aicvat.md]] cvat-ai/cvat `pillar:capabilities` `score:0.615`
 - [[cve-2026-28952-apple-macos-265-kernel-vuln-found-by-claude.md]] CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude `pillar:capabilities` `score:0.395`
@@ -73,6 +75,7 @@
 - [[digg-tries-again-this-time-as-an-ai-news-aggregat.md]] Digg tries again, this time as an AI news aggregator `pillar:capabilities` `score:0.305`
 - [[docling-projectdocling.md]] docling-project/docling `pillar:capabilities` `score:0.615`
 - [[dont-know-where-your-data-is-from-bayesian-modeling-for-unknown-coordinates.md]] Don't know where your data is from? Bayesian modeling for unknown coordinates `pillar:capabilities` `score:0.26`
+- [[duckduckgo-makes-its-8216no-ai8217-search-engine-easier-to-access-as-its-traffic.md]] DuckDuckGo makes its &#8216;no-AI&#8217; search engine easier to access as its t `pillar:capabilities` `score:0.41`
 - [[duckduckgo-search-saw-28-more-visits-after-google-said-people-love-ai-mode.md]] DuckDuckGo search saw 28% more visits after Google said people love AI mode `pillar:capabilities` `score:0.68`
 - [[eagle-31-collaboration-between-the-eagle-team-vllm-team-and-torchspec-team.md]] Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team `pillar:capabilities` `score:0.38`
 - [[elevenlabs8217s-new-music-generation-model-can-switch-genres-mid-track.md]] ElevenLabs&#8217;s new music generation model can switch genres mid-track `pillar:capabilities` `score:0.48`
@@ -205,6 +208,7 @@
 - [[rsi-is-the-new-agi-and-it8217s-just-as-hard-to-pin-down.md]] RSI is the new AGI — and it&#8217;s just as hard to pin down `pillar:capabilities` `score:0.445`
 - [[rtk-airtk.md]] rtk-ai/rtk `pillar:capabilities` `score:0.58`
 - [[rtx-5090-and-m4-macbook-air-can-it-game.md]] RTX 5090 and M4 MacBook Air: Can It Game? `pillar:capabilities` `score:0.565`
+- [[rubin-tracks-skyscraper-size-asteroids-and-failed-supernovas.md]] Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas `pillar:capabilities` `score:0.31`
 - [[runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai.md]] Runway started by helping filmmakers. Now it wants to beat Google at AI. `pillar:capabilities` `score:0.515`
 - [[rust-and-slint-on-a-jailbroken-kindle.md]] Rust (and Slint) on a Jailbroken Kindle `pillar:capabilities` `score:0.26`
 - [[safari-and-firefox-change-how-big-sites-render-based-on-the-domain.md]] Safari and Firefox change how big sites render based on the domain `pillar:capabilities` `score:0.295`
@@ -261,10 +265,12 @@
 - [[the-path-founded-by-tony-robbins-and-calm-alums-hopes-to-offer-safer-ai-therapy.md]] The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therap `pillar:capabilities` `score:0.48`
 - [[the-people-who-actually-want-ai-to-replace-humanity.md]] The people who actually want AI to replace humanity `pillar:capabilities` `score:0.41`
 - [[the-physicists-who-convinced-fermilab-to-send-brazils-emails.md]] The physicists who convinced Fermilab to send Brazil's emails `pillar:capabilities` `score:0.155`
+- [[the-pirate-bay-remains-resilient-20-years-after-the-raid.md]] The Pirate Bay Remains Resilient, 20 Years After the Raid `pillar:capabilities` `score:0.305`
 - [[the-soul-of-maintaining-a-new-machine.md]] The soul of maintaining a new machine `pillar:capabilities` `score:0.38`
 - [[the-speed-of-prototyping-in-the-age-of-ai.md]] The Speed of Prototyping in the Age of AI `pillar:capabilities` `score:0.48`
 - [[the-structural-barriers-to-ai-lawyers.md]] The Structural Barriers to AI Lawyers `pillar:capabilities` `score:0.395`
 - [[the-wonders-of-ai-we-are-retiring-our-bug-bounty-program.md]] The Wonders of AI: We Are Retiring Our Bug Bounty Program `pillar:capabilities` `score:0.255`
+- [[this-ai-weather-startup-is-out-forecasting-government-agencies.md]] This AI weather startup is out-forecasting government agencies `pillar:capabilities` `score:0.48`
 - [[this-startup-is-betting-india8217s-gig-economy-can-train-the-world8217s-robots.md]] This startup is betting India&#8217;s gig economy can train the world&#8217;s ro `pillar:capabilities` `score:0.48`
 - [[through-the-looking-glass-of-benchmark-hacking.md]] Through the looking glass of benchmark hacking `pillar:capabilities` `score:0.155`
 - [[throwing-ai-generated-walls-of-text-into-conversations.md]] Throwing AI-generated walls of text into conversations `pillar:capabilities` `score:0.63`
@@ -290,6 +296,7 @@
 - [[we-let-ais-run-radio-stations.md]] We let AIs run radio stations `pillar:capabilities` `score:0.48`
 - [[we-should-be-more-tired-than-the-model.md]] We should be more tired than the model `pillar:capabilities` `score:0.41`
 - [[what-happens-when-ai-starts-building-itself.md]] What happens when AI starts building itself? `pillar:capabilities` `score:0.55`
+- [[when-ai-crosses-the-line-the-matplotlib-incident.md]] When AI Crosses the Line: The Matplotlib Incident `pillar:capabilities` `score:0.55`
 - [[when-fast-fourier-transform-meets-transformer-for-image-restoration-2024.md]] When Fast Fourier Transform Meets Transformer for Image Restoration (2024) `pillar:capabilities` `score:0.295`
 - [[why-google8217s-ai-can8217t-spell-google-or-anything-else.md]] Why Google&#8217;s AI can&#8217;t spell Google (or anything else) `pillar:capabilities` `score:0.445`
 - [[wirestock-raises-23m-to-supply-creative-multi-modal-data-to-ai-labs.md]] Wirestock raises $23M to supply creative multi-modal data to AI labs `pillar:capabilities` `score:0.48`
@@ -966,6 +973,7 @@
 - [[musks-xai-is-running-nearly-50-gas-turbines-unche.md]] Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data c `pillar:business` `score:0.305`
 - [[nailing-jelly-to-a-wall-is-it-possible-2005.md]] Nailing jelly to a wall: is it possible? (2005) `pillar:business` `score:0.255`
 - [[new-stainless-steel-can-survive-conditions-for-hyd.md]] New stainless steel can survive conditions for hydrogen production in seawater `pillar:business` `score:0.155`
+- [[no-raise-no-promotion-1-in-4-white-collar-workers-are-stalling-out.md]] No Raise, No Promotion: 1 in 4 White-Collar Workers Are Stalling Out `pillar:business` `score:0.515`
 - [[nvidia-has-already-committed-40b-to-equity-ai-dea.md]] Nvidia has already committed $40B to equity AI deals this year `pillar:business` `score:0.48`
 - [[openai-barrels-toward-ipo-that-may-happen-in-september.md]] OpenAI barrels toward IPO that may happen in September `pillar:business` `score:0.48`
 - [[openai-is-preparing-to-file-for-an-ipo-soon.md]] OpenAI Is Preparing to File for an IPO Soon `pillar:business` `score:0.46`
