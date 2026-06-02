@@ -1297,3 +1297,11 @@
 - create: safesteer-localized-on-policy-distillation-for-efficient-safety-alignment.md
 - create: auditing-asset-specific-preferences-in-financial-large-language-models-evidence.md
 - create: strace-ui-bonsai_term-and-the-tui-renaissance.md
+
+## [2026-06-03 00:02] sync v3 | 6 new | pillars: {'capabilities': 5, 'patterns': 1}
+- create: adafruit-receives-demand-letter-from-fenwick-legal-counsel-on-behalf-of-fluxai.md
+- create: americans-dont-know-how-to-fight-ai-so-theyre-fighting-data-centers.md
+- create: openai-launches-new-codex-tools-for-white-collar-work.md
+- create: anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries.md
+- create: zerodrift-raises-10m-to-protect-ai-models-from-themselves.md
+- create: rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai.md
