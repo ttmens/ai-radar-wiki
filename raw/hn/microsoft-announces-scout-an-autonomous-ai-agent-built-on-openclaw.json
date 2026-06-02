@@ -1,0 +1,26 @@
+{
+  "title": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw",
+  "score": 68,
+  "comments": 62,
+  "url": "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html",
+  "hn_url": "https://news.ycombinator.com/item?id=48374079",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent",
+    "autonomous"
+  ],
+  "summary_cn": "微软发布名为 Scout 的自主 AI 智能体，基于 OpenClaw 构建。该产品体现了自主代理模式，能够在无需持续人工干预下执行复杂任务，降低了企业级 AI 应用的门槛。对产品经理而言，Scout 展现了如何将底层模型能力封装为可直接调用的自主工作流，可能推动自动化办公、客户服务等场景的快速落地。其开放架构也暗示了与现有生态的深度集成潜力。",
+  "pm_relevance": 9,
+  "concepts": [
+    "Autonomous Agent",
+    "Agent Architecture"
+  ],
+  "entities": [
+    "Microsoft",
+    "OpenClaw"
+  ],
+  "patterns": [
+    "Autonomous Agent Pattern"
+  ]
+}

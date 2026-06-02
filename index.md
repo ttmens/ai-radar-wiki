@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-03 | Total pages: 1130
+> Last updated: 2026-06-03 | Total pages: 1149
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -96,9 +96,11 @@
 - [[gemini-omni.md]] Gemini Omni `pillar:capabilities` `score:0.53`
 - [[github-actions-down-again-today.md]] GitHub Actions down again today `pillar:capabilities` `score:0.645`
 - [[github-and-the-crime-against-software.md]] GitHub and the crime against software `pillar:capabilities` `score:0.53`
+- [[gmail-thinks-im-stupid-so-i-left.md]] Gmail thinks I'm stupid, so I left `pillar:capabilities` `score:0.63`
 - [[google-ai-edgemediapipe.md]] google-ai-edge/mediapipe `pillar:capabilities` `score:0.615`
 - [[google-just-declared-itself-a-contender-in-ai-design-at-io-2026.md]] Google just declared itself a contender in AI design at IO 2026 `pillar:capabilities` `score:0.445`
 - [[google-launches-antigravity-20-with-an-updated-desktop-app-and-cli-tool-at-io-20.md]] Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2 `pillar:capabilities` `score:0.48`
+- [[google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonatio.md]] Google rolls out fake call detection to protect against AI deepfake impersonatio `pillar:capabilities` `score:0.515`
 - [[google-takes-a-page-out-of-meta8217s-book-announces-new-audio-powered-smart-glas.md]] Google takes a page out of Meta&#8217;s book, announces new audio-powered smart `pillar:capabilities` `score:0.48`
 - [[google8217s-ai-studio-now-lets-anyone-build-android-apps-in-minutes.md]] Google&#8217;s AI Studio now lets anyone build Android apps in minutes `pillar:capabilities` `score:0.48`
 - [[googlemagika.md]] google/magika `pillar:capabilities` `score:0.58`
@@ -157,6 +159,8 @@
 - [[lucidrainsvit-pytorch.md]] lucidrains/vit-pytorch `pillar:capabilities` `score:0.615`
 - [[macbook-neo-deep-dive-benchmarks-wafer-economics.md]] MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble `pillar:capabilities` `score:0.53`
 - [[magical-realism-northern-exposure-25-years-later-2015.md]] Magical Realism: “Northern Exposure” 25 Years Later (2015) `pillar:capabilities` `score:0.085`
+- [[mai-code-1-flash.md]] MAI-Code-1-Flash `pillar:capabilities` `score:0.565`
+- [[mai-thinking-1.md]] MAI-Thinking-1 `pillar:capabilities` `score:0.495`
 - [[making-deep-learning-go-brrrr-from-first-principles.md]] Making Deep Learning Go Brrrr from First Principles `pillar:capabilities` `score:0.43`
 - [[making-llm-training-faster-with-unsloth-and-nvidia.md]] Making LLM Training Faster with Unsloth and NVIDIA `pillar:capabilities` `score:0.155`
 - [[making-sense-of-the-debate-over-ai-psychosis.md]] Making sense of the debate over AI psychosis `pillar:capabilities` `score:0.445`
@@ -241,6 +245,7 @@
 - [[show-hn-open-source-ai-racing-harness.md]] Show HN: Open-Source AI Racing Harness `pillar:capabilities` `score:0.295`
 - [[show-hn-open-source-workspace-maildocsspreadsheetdrive-webios.md]] Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS `pillar:capabilities` `score:0.36`
 - [[show-hn-posthorn-self-hosted-mail-without-the-mail-server.md]] Show HN: Posthorn, self-hosted mail without the mail server `pillar:capabilities` `score:0.31`
+- [[show-hn-replaya-self-hosted-browser-session-replay-with-live-tailing.md]] Show HN: RePlaya – self-hosted browser session replay with live tailing `pillar:capabilities` `score:0.365`
 - [[show-hn-semble-code-search-for-agents-that-uses-98-fewer-tokens-than-grep.md]] Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep `pillar:capabilities` `score:0.43`
 - [[show-hn-skills-for-humanity-171-structured-reasoning-skills-for-claude-code.md]] Show HN: skills-for-humanity – 171 structured reasoning skills for Claude Code `pillar:capabilities` `score:0.365`
 - [[show-hn-tiny-vllm-high-performance-llm-inference-engine-in-c-and-cuda.md]] Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA `pillar:capabilities` `score:0.33`
@@ -576,6 +581,7 @@
 - [[fission-aiopenspec.md]] Fission-AI/OpenSpec `pillar:patterns` `score:0.405`
 - [[flowiseaiflowise.md]] FlowiseAI/Flowise `pillar:patterns` `score:0.615`
 - [[from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phi.md]] From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI p `pillar:patterns` `score:0.515`
+- [[github-copilot-app.md]] GitHub Copilot App `pillar:patterns` `score:0.515`
 - [[githubspec-kit.md]] github/spec-kit `pillar:patterns` `score:0.58`
 - [[gm-just-laid-off-hundreds-of-it-workers-to-hire-th.md]] GM just laid off hundreds of IT workers to hire those with stronger AI skills `pillar:patterns` `score:0.305`
 - [[google-brings-agentic-ai-and-vibe-coded-widgets-to.md]] Google brings agentic AI and vibe-coded widgets to Android `pillar:patterns` `score:0.305`
@@ -592,6 +598,7 @@
 - [[hmbowncodewhale.md]] Hmbown/CodeWhale `pillar:patterns` `score:0.545`
 - [[hmbowndeepseek-tui.md]] Hmbown/DeepSeek-TUI `pillar:patterns` `score:0.58`
 - [[how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches.md]] How to use Google’s new AI agents to go beyond your standard searches `pillar:patterns` `score:0.48`
+- [[how-we-index-images-for-rag.md]] How we index images for RAG `pillar:patterns` `score:0.38`
 - [[i-put-google8217s-247-ai-assistant-gemini-spark-to-work-and-it8217s-actually-pre.md]] I put Google&#8217;s 24/7 AI assistant Gemini Spark to work, and it&#8217;s actu `pillar:patterns` `score:0.48`
 - [[infiniflowragflow.md]] infiniflow/ragflow `pillar:patterns` `score:0.615`
 - [[itzcrazyknsvane.md]] ItzCrazyKns/Vane `pillar:patterns` `score:0.58`
@@ -608,11 +615,15 @@
 - [[liyupiai-guide.md]] liyupi/ai-guide `pillar:patterns` `score:0.405`
 - [[lobehublobehub.md]] lobehub/lobehub `pillar:patterns` `score:0.615`
 - [[magic-the-gathering-format-fun-40-2025.md]] Magic the Gathering format: Fun 40 (2025) `pillar:patterns` `score:0.205`
+- [[martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai.md]] Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI `pillar:patterns` `score:0.445`
 - [[medicare8217s-new-payment-model-is-built-for-ai.md]] Medicare&#8217;s new payment model is built for AI, and most of the tech world h `pillar:patterns` `score:0.305`
 - [[meilisearchmeilisearch.md]] meilisearch/meilisearch `pillar:patterns` `score:0.615`
 - [[mem0aimem0.md]] mem0ai/mem0 `pillar:patterns` `score:0.615`
 - [[memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain.md]] Memory decline after menopause linked to loss of estrogen production in brain `pillar:patterns` `score:0.205`
+- [[microsoft-announces-scout-an-autonomous-ai-agent-built-on-openclaw.md]] Microsoft announces Scout, an autonomous AI agent built on OpenClaw `pillar:patterns` `score:0.515`
 - [[microsoft-copilot-cowork-exfiltrates-files.md]] Microsoft Copilot Cowork Exfiltrates Files `pillar:patterns` `score:0.53`
+- [[microsoft-launches-scout-an-openclaw-inspired-personal-assistant.md]] Microsoft launches Scout, an OpenClaw-inspired personal assistant `pillar:patterns` `score:0.48`
+- [[microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior.md]] Microsoft offers devs a better way to control AI agent behavior `pillar:patterns` `score:0.48`
 - [[microsoftgenerative-ai-for-beginners.md]] microsoft/generative-ai-for-beginners `pillar:patterns` `score:0.58`
 - [[microsoftgraphrag.md]] microsoft/graphrag `pillar:patterns` `score:0.615`
 - [[microsoftqlib.md]] microsoft/qlib `pillar:patterns` `score:0.58`
@@ -653,6 +664,7 @@
 - [[show-hn-agentemail-sign-up-via-curl-claim-with-a-human-otp.md]] Show HN: Agent.email – sign up via curl, claim with a human OTP `pillar:patterns` `score:0.38`
 - [[show-hn-agentic-interface-for-mainframes-and-cobo.md]] Show HN: Agentic interface for mainframes and COBOL `pillar:patterns` `score:0.155`
 - [[show-hn-beacon-the-open-source-layer-for-local-ai-agent-visibility.md]] Show HN: Beacon - The open-source layer for local AI agent visibility `pillar:patterns` `score:0.295`
+- [[show-hn-build-your-own-ai-agent-cli-in-150-lines.md]] Show HN: Build Your Own AI Agent CLI in 150 Lines `pillar:patterns` `score:0.26`
 - [[show-hn-continue-yn-a-60-second-game-about-ai-agent-permission-fatigue.md]] Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue `pillar:patterns` `score:0.295`
 - [[show-hn-crit-local-review-tool-for-agent-plans.md]] Show HN: Crit – local review tool for agent plans and code diffs `pillar:patterns` `score:0.155`
 - [[show-hn-cross-agent-messaging-and-shared-memory-over-the-local-filesystem.md]] Show HN: Cross-agent messaging and shared memory over the local filesystem `pillar:patterns` `score:0.295`
@@ -812,10 +824,12 @@
 - [[n8n-ion8n.md]] n8n-io/n8n `pillar:ecosystem` `score:0.615`
 - [[netdatanetdata.md]] netdata/netdata `pillar:ecosystem` `score:0.58`
 - [[netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks.md]] Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks `pillar:ecosystem` `score:0.395`
+- [[new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions.md]] New Microsoft tool lets devs spin up AI behavior tests using text descriptions `pillar:ecosystem` `score:0.48`
 - [[nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups.md]] Nvidia posts another record quarter, reveals $43 billion of holdings in startups `pillar:ecosystem` `score:0.48`
 - [[nvidiatensorrt.md]] NVIDIA/TensorRT `pillar:ecosystem` `score:0.615`
 - [[ollamaollama.md]] ollama/ollama `pillar:ecosystem` `score:0.615`
 - [[onnxonnx.md]] onnx/onnx `pillar:ecosystem` `score:0.615`
+- [[open-repair-data-standard-open-repair-alliance.md]] Open Repair Data Standard – Open Repair Alliance `pillar:ecosystem` `score:0.345`
 - [[open-webuiopen-webui.md]] open-webui/open-webui `pillar:ecosystem` `score:0.405`
 - [[openai-and-government-of-malta-partner-to-roll-out-chatgpt-plus-to-all-citizens.md]] OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens `pillar:ecosystem` `score:0.565`
 - [[openai-is-reportedly-preparing-legal-action-against-apple-it-wouldn8217t-be-the.md]] OpenAI is reportedly preparing legal action against Apple; it wouldn&#8217;t be `pillar:ecosystem` `score:0.48`
@@ -858,6 +872,8 @@
 - [[tools-in-the-grass-raising-the-next-generation-of.md]] Tools in the Grass: Raising the next generation of crafts person `pillar:ecosystem` `score:0.295`
 - [[tracel-aiburn.md]] tracel-ai/burn `pillar:ecosystem` `score:0.58`
 - [[trials-on-veterans-suggest-ibogaine-could-provide-a-new-treatment-for-ptsd.md]] Trials on veterans suggest ibogaine could provide a new treatment for PTSD `pillar:ecosystem` `score:0.27`
+- [[trump-signs-downsized-ai-order-after-weeks-of-reversals.md]] Trump signs downsized AI order after weeks of reversals `pillar:ecosystem` `score:0.495`
+- [[trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections.md]] Trump signs narrower executive order on AI oversight after industry objections `pillar:ecosystem` `score:0.41`
 - [[universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music.md]] Universal Music Group and TikTok renew agreement to combat unauthorized AI music `pillar:ecosystem` `score:0.48`
 - [[university-of-arizona-students-boo-eric-schmidts-ai-cheerleading.md]] University of Arizona students boo Eric Schmidt's AI cheerleading `pillar:ecosystem` `score:0.345`
 - [[upscaylupscayl.md]] upscayl/upscayl `pillar:ecosystem` `score:0.545`
@@ -911,6 +927,7 @@
 - [[air-france-and-airbus-found-guilty-of-manslaughter-over-2009-plane-crash.md]] Air France and Airbus found guilty of manslaughter over 2009 plane crash `pillar:business` `score:0.27`
 - [[all-means-are-fair-except-solving-the-problem.md]] All means are fair except solving the problem `pillar:business` `score:0.465`
 - [[alphabet-plans-to-raise-80b-to-pay-for-ai-buildout.md]] Alphabet plans to raise $80B to pay for AI buildout `pillar:business` `score:0.48`
+- [[amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature.md]] Amazon faces class action lawsuit over Ring facial-recognition feature `pillar:business` `score:0.48`
 - [[amália-and-the-future-of-european-portuguese-llms.md]] AMÁLIA and the future of European Portuguese LLMs `pillar:business` `score:0.355`
 - [[anthropic-confidentially-submits-draft-s-1-to-the-sec.md]] Anthropic confidentially submits draft S-1 to the SEC `pillar:business` `score:0.63`
 - [[anthropic-courts-a-new-kind-of-customer-small-bus.md]] Anthropic courts a new kind of customer: small business owners `pillar:business` `score:0.48`
@@ -1065,9 +1082,11 @@
 - [[the-us-is-winning-the-ai-race-where-it-matters-mos.md]] The US is winning the AI race where it matters most: commercialization `pillar:business` `score:0.405`
 - [[there-aren8217t-enough-rockets-for-space-data-c.md]] There aren&#8217;t enough rockets for space data centers. Cowboy Space raised $2 `pillar:business` `score:0.305`
 - [[thinking-machines-wants-to-build-an-ai-that-actual.md]] Thinking Machines wants to build an AI that actually listens while it talks `pillar:business` `score:0.305`
+- [[three-ways-to-get-paid-2018.md]] Three Ways to Get Paid (2018) `pillar:business` `score:0.515`
 - [[tinder-owner-match-group-is-slowing-hiring-to-pay.md]] Tinder owner Match Group is slowing hiring to pay for its increased use of AI to `pillar:business` `score:0.15`
 - [[trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-l.md]] Trump delays AI security executive order: ‘I don’t want to get in the way of tha `pillar:business` `score:0.445`
 - [[two-weeks-left-startup-battlefield-200-applications-close-may-27.md]] Two weeks left: Startup Battlefield 200 applications close May 27 `pillar:business` `score:0.305`
+- [[uber-caps-employee-ai-spending-after-blowing-through-budget-in-4-months.md]] Uber caps employee AI spending after blowing through budget in 4 months `pillar:business` `score:0.48`
 - [[uber-president-says-ai-spending-is-getting-harder-to-justify.md]] Uber president says AI spending is getting 'harder to justify' `pillar:business` `score:0.495`
 - [[ucla-discovers-first-stroke-rehabilitation-drug-to.md]] UCLA discovers first stroke rehabilitation drug to repair brain damage (2025) `pillar:business` `score:0.255`
 - [[valve-raises-steam-deck-prices.md]] Valve raises Steam Deck prices `pillar:business` `score:0.42`

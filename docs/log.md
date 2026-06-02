@@ -1305,3 +1305,24 @@
 - create: anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries.md
 - create: zerodrift-raises-10m-to-protect-ai-models-from-themselves.md
 - create: rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai.md
+
+## [2026-06-03 06:05] sync v3 | 19 new | pillars: {'capabilities': 10, 'patterns': 8, 'ecosystem': 1}
+- create: mai-code-1-flash.md
+- create: gmail-thinks-im-stupid-so-i-left.md
+- create: mai-thinking-1.md
+- create: open-repair-data-standard-open-repair-alliance.md
+- create: how-we-index-images-for-rag.md
+- create: trump-signs-downsized-ai-order-after-weeks-of-reversals.md
+- create: github-copilot-app.md
+- create: show-hn-replaya-self-hosted-browser-session-replay-with-live-tailing.md
+- create: microsoft-announces-scout-an-autonomous-ai-agent-built-on-openclaw.md
+- create: three-ways-to-get-paid-2018.md
+- create: uber-caps-employee-ai-spending-after-blowing-through-budget-in-4-months.md
+- create: new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions.md
+- create: martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai.md
+- create: microsoft-launches-scout-an-openclaw-inspired-personal-assistant.md
+- create: google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonatio.md
+- create: microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior.md
+- create: amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature.md
+- create: trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections.md
+- create: show-hn-build-your-own-ai-agent-cli-in-150-lines.md
