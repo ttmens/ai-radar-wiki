@@ -1,0 +1,27 @@
+{
+  "title": "Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics",
+  "summary": "Autonomous robots that interact with people must make safe and efficient decisions under human-induced uncertainty, such as their preferences, goals, competency, and willingness to cooperate. Safety filters are a popular approach for ensuring safety in interactive robotics, since their modular design separates safety from performance, allowing robots to operate safely around people with minimal impact on task efficiency. While traditional safety filters typically operate only in the physical space, neglecting the robot's ability to learn and adapt online, the recently proposed belief-space safety filter (BeliefSF) reasons about robot safety in closed-loop with runtime inference that actively reduces the robot's uncertainty online, thereby reducing conservativeness in filtering. However, providing formal safety guarantees for robots deploying BeliefSF remains a significant challenge due to errors in runtime inference and neural approximation of safety filters required to handle the high dimensionality of belief spaces. In this paper, we propose an algorithmic approach to certify high-probability safety of BeliefSF using conformal prediction, while explicitly accounting for the reliability of the robot's runtime inference module. Our method leverages the structure of belief-space safety filtering by focusing verification on a region where inference is expected to be reliable. It preserves the simplicity and sample complexity of standard conformal prediction, yet can certify a substantially less conservative safety filter. Through a simulated human-vehicle interaction benchmark, we show that our approach verifies a significantly more permissive belief-space safety filter than a standard conformal prediction baseline.",
+  "url": "http://arxiv.org/abs/2606.02562v1",
+  "authors": [
+    "Haimin Hu"
+  ],
+  "published": "2026-06-01T17:54:00Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "benchmark"
+  ],
+  "summary_cn": "本文提出一种可验证的信念空间神经安全过滤器方法，用于人机交互中的自主机器人安全决策。通过将人类不确定性（如偏好、目标、能力、合作意愿）建模到信念空间，结合神经网络实现灵活的安全约束，同时保证可验证性。该方法采用模块化设计，允许机器人容忍人类行为的不确定性，在保证安全的前提下提升交互效率。商业价值方面，可降低服务机器人、自动驾驶等场景部署风险，提升用户信任；产品创新在于将传统安全过滤器与深度学习结合，实现可验证的宽松安全策略。",
+  "pm_relevance": 8,
+  "concepts": [
+    "人机交互安全",
+    "安全过滤器",
+    "信念空间推理"
+  ],
+  "entities": [],
+  "patterns": [
+    "安全过滤器模式",
+    "可验证AI"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling",
+  "summary": "Recent multimodal large language models have demonstrated strong reasoning ability, yet their reliability as automated evaluators remains limited by a critical weakness: when visual evidence conflicts with textual cues, MLLM judges tend to reward plausible narratives over perceptually correct answers. We identify and systematically analyze this phenomenon, which we term Perceptual Judgment Bias. Through controlled visual perturbations, existing multimodal judges frequently anchor on the response text instead of their own visual perception, leading to inconsistent and non-verifiable evaluations. To address this issue, we introduce the Perceptually Perturbed Judgment Dataset, which constructs minimally edited counterfactual responses that isolate perceptual errors and enable verifiable supervision. Building on this dataset, we develop a unified training framework that combines a structured GRPO-based reward with a batch-ranking objective, achieving coherent global ordering without explicit pairwise labels. Experiments across diverse MLLM-as-a-Judge benchmarks show that our approach substantially improves perceptual fidelity, ranking coherence, and alignment with human evaluation. Our results establish a scalable and generalizable pathway for training multimodal judges that are perceptually grounded, interpretable, and robust to visual-reasoning conflicts.",
+  "url": "http://arxiv.org/abs/2606.02578v1",
+  "authors": [
+    "Seojeong Park",
+    "Jiho Choi",
+    "Junyong Kang",
+    "Seonho Lee",
+    "Jaeyo Shin"
+  ],
+  "published": "2026-06-01T17:59:46Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "multimodal",
+    "vision",
+    "reasoning",
+    "training",
+    "grpo",
+    "dataset"
+  ],
+  "summary_cn": "该研究指出多模态大语言模型在作为自动评判者时存在感知判断偏差：当视觉证据与文本线索冲突时，模型会倾向于奖励看似合理但感知错误的回答。为解决此问题，作者提出感知扰动和奖励建模方法，通过引入图像级扰动（如模糊、尺寸变化）并训练一个基于偏好的奖励模型来矫正评判偏差。该方法可提升多模态LLM在视觉-语言推理任务中的评判准确性，对构建更可靠的AI自动评估系统（如内容审核、图像问答评测）具有直接商业价值，减少人工标注成本，增强产品决策的鲁棒性。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Multimodal LLM-as-a-Judge",
+    "Perceptual Bias",
+    "Reward Modeling"
+  ],
+  "entities": [],
+  "patterns": [
+    "AI-as-Judge Pattern",
+    "Perceptual Perturbation"
+  ]
+}

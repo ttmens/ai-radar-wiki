@@ -2,70 +2,119 @@
   "daily_summary": {
     "date": "2026-06-02",
     "headline": "今日 AI 情报 · 2026-06-02",
-    "overview": "AI Agent从云端走向端侧自主控制，商业资本与监管分化加剧。",
+    "overview": "AI Agent从云端走向边缘，安全合规成为商业化硬门槛",
     "narratives": [
       {
-        "title": "AI Agent从云端走向端侧：自主操作系统级控制",
-        "body": "斯坦福发布Agent设计指南、Nvidia联合PC厂商推出AI Agent PC，标志着AI代理从云端API调用向本地化、自主化演进。这一趋势将推动AI产品形态从对话式助手转变为操作系统级智能体，降低延迟与隐私风险，但要求产品经理重新设计交互架构与安全边界。",
+        "title": "AI Agent从云端走向边缘，进入自主操作系统级控制",
+        "body": "Nvidia联合微软、戴尔、惠普推出AI Agent PC，将智能代理能力本地化，结合斯坦福发布系统化Agent指南，以及开源编辑器voideditor的模块化AI集成，标志着AI产品形态从云端API调用转向端侧自主执行。产品经理需重新思考交互范式，在本地推理、隐私保护与用户体验间寻找平衡，同时关注Agent自主决策带来的责任边界问题。",
         "type": "paradigm_shift",
         "pillar_key": "patterns"
       },
       {
-        "title": "AI商业加速与监管分化：资本密集与合规博弈",
-        "body": "Anthropic、OpenAI等巨头密集IPO或融资，Alphabet豪掷800亿美元建基础设施，同时佛罗里达州起诉OpenAI、DuckDuckGo反AI搜索逆势增长，表明AI行业在资本狂飙的同时面临监管分化和用户抵触。产品经理需在资源充沛与合规压力间平衡，关注差异化定位与伦理设计。",
+        "title": "AI安全合规从可选变为必选项，诉讼与监管加速产品设计变革",
+        "body": "佛罗里达州对OpenAI提起首例暴力事件关联诉讼，Matplotlib越界事件暴露代码生成安全漏洞，DuckDuckGo无AI搜索流量激增反映用户对AI疲劳的反向需求。Anthropic以负责任AI形象冲刺IPO，进一步证明合规性已成为产品商业化的核心壁垒。产品经理需将安全护栏、隐私保护与伦理审查嵌入设计流程，否则将面临法律与信任双重风险。",
         "type": "bottleneck",
         "pillar_key": "business"
+      },
+      {
+        "title": "AI模型垂直突破加速，但内部偏见与可靠性问题仍需解决",
+        "body": "Windborne Systems天气预报模型超越政府机构，IntraShuffler联邦学习框架兼顾隐私与效用，多模态LLM评判偏差矫正研究提升评估可靠性。这些进展显示AI在气象、金融、机器人等垂直领域的能力快速成熟，但同时论文揭示的资产偏好偏见、感知判断偏差提醒产品经理：必须建立可解释性审计机制，避免模型隐性缺陷导致用户损失或监管风险。",
+        "type": "validation",
+        "pillar_key": "capabilities"
       }
     ],
     "insights": [
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "AI Agent从云端走向端侧：自主操作系统级控制",
-        "insight": "AI Agent从云端走向端侧：自主操作系统级控制。该方向的具体信号：斯坦福CS336课程发布系统化Agent设计指南，涵盖工具调用、记忆管理和任务规划，为产品经理提供参考框架；Nvidia联合微软、戴尔、惠普推出AI Agent PC，将代理能力本地化，瞄准2000亿美元CPU市场，推动AI从云端向边缘迁移。",
+        "narrative_title": "AI Agent从云端走向边缘，进入自主操作系统级控制",
+        "insight": "AI Agent从云端走向边缘，进入自主操作系统级控制。该方向的具体信号：Nvidia携手微软、戴尔、惠普推出AI Agent PC，将代理能力本地化，旨在切入2000亿美元CPU市场，推动AI从云端走向边缘；斯坦福CS336发布Agent系统化指南，涵盖工具调用与任务规划，为产品化提供框架；voideditor开源项目采用模块化设计，将编辑器核心与AI能力解耦，降低对特定厂商依赖，提升灵活性和生态扩展性。这些信号共同指向AI Agent从云服务向端侧自主执行转型，产品经理需优先设计本地安全沙箱与任务回退机制。",
         "evidence": [
           {
-            "id": "ai-agent-guidelines-for-cs336-at-stanford",
-            "title": "Stanford CS336发布AI Agent设计指南",
-            "score": 0.58
+            "id": "nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp",
+            "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+            "score": 0.52
           },
           {
-            "id": "nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp",
-            "title": "Nvidia携手PC厂商推出AI Agent PC",
-            "score": 0.52
+            "id": "ai-agent-guidelines-for-cs336-at-stanford",
+            "title": "AI Agent Guidelines for CS336 at Stanford",
+            "score": 0.58
+          }
+        ]
+      },
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI模型垂直突破加速，但内部偏见与可靠性问题仍需解决",
+        "insight": "AI模型垂直突破加速，但内部偏见与可靠性问题仍需解决。该方向的具体信号：Windborne Systems天气预报模型在数天内超越最佳政府预测，展示垂直领域颠覆潜力；IntraShuffler隐私保护框架允许客户端选择不同隐私预算，在联邦学习中平衡效用与合规；多模态LLM-as-a-Judge感知偏差矫正研究通过图像扰动和奖励建模提高评判准确性；可验证信念空间安全过滤器提升人机交互安全性。这些进展表明模型能力快速提升，但金融LLM资产偏好审计、Matplotlib越界事件暴露了系统性偏见与安全边界不足，产品经理需引入可解释性审计与自适应安全层，在能力释放与风险管控间取得平衡。",
+        "evidence": [
+          {
+            "id": "intrashuffler-a-privacy-preserving-framework-for-heterogeneous-dp-federated-lear",
+            "title": "IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning",
+            "score": 0.48
+          },
+          {
+            "id": "mitigating-perceptual-judgment-bias-in-multimodal-llm-as-a-judge-via-perceptual",
+            "title": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation",
+            "score": 0.48
+          },
+          {
+            "id": "when-ai-crosses-the-line-the-matplotlib-incident",
+            "title": "When AI Crosses the Line: The Matplotlib Incident",
+            "score": 0.55
           }
         ]
       },
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "narrative_title": "AI商业加速与监管分化：资本密集与合规博弈",
-        "insight": "AI商业加速与监管分化：资本密集与合规博弈。该方向的具体信号：Anthropic秘密提交S-1启动IPO，获得更多上市资金加速模型迭代；Alphabet计划筹集800亿美元扩建AI基础设施，反映需求远超供给；但佛罗里达州起诉OpenAI及Sam Altman，指控AI技术引发暴力事件，凸显监管风险；同时DuckDuckGo反AI搜索流量激增，表明市场对隐私和简洁体验的强烈需求。",
+        "narrative_title": "AI安全合规从可选变为必选项，诉讼与监管加速产品设计变革",
+        "insight": "AI安全合规从可选变为必选项，诉讼与监管加速产品设计变革。该方向的具体信号：佛罗里达州对OpenAI提起首例暴力事件关联诉讼，凸显模型输出对现实行为的法律风险；Anthropic秘密提交IPO申请，以负责任AI形象冲刺资本市场，验证合规化商业路径；Alphabet计划筹集800亿美元用于AI基础设施建设，显示资本面持续加码；DuckDuckGo无AI搜索流量激增反映用户对AI疲劳的反向需求；SpaceX将水资源获取列为IPO风险因素，提示基础设施可持续性挑战。产品经理需将合规审查、安全护栏与用户隐私保护嵌入产品设计早期，同时关注资本密集趋势下资源分配与成本优化。",
         "evidence": [
           {
-            "id": "anthropic-confidentially-submits-draft-s-1-to-the-sec",
-            "title": "Anthropic秘密提交IPO申请",
-            "score": 0.63
-          },
-          {
-            "id": "alphabet-plans-to-raise-80b-to-pay-for-ai-buildout",
-            "title": "Alphabet计划筹资800亿美元建设AI基础设施",
-            "score": 0.48
+            "id": "florida-sues-openai-and-sam-altman-over-ai-risks",
+            "title": "Florida sues OpenAI and Sam Altman over AI risks",
+            "score": 0.55
           },
           {
             "id": "florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-inciden",
-            "title": "佛罗里达州起诉OpenAI涉及暴力事件",
+            "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incident",
+            "score": 0.48
+          },
+          {
+            "id": "anthropic-confidentially-submits-draft-s-1-to-the-sec",
+            "title": "Anthropic confidentially submits draft S-1 to the SEC",
+            "score": 0.63
+          },
+          {
+            "id": "anthropic-files-to-go-public",
+            "title": "Anthropic files to go public",
+            "score": 0.48
+          },
+          {
+            "id": "alphabet-plans-to-raise-80b-to-pay-for-ai-buildout",
+            "title": "Alphabet plans to raise $80B to pay for AI buildout",
             "score": 0.48
           },
           {
             "id": "duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms",
-            "title": "DuckDuckGo无AI搜索流量激增",
+            "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
             "score": 0.56
+          },
+          {
+            "id": "water-access-is-now-a-risk-factor-in-spacex8217s-ipo",
+            "title": "Water access is now a risk factor in SpaceX's IPO",
+            "score": 0.48
+          },
+          {
+            "id": "can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+            "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+            "score": 0.58
           }
         ]
       }
     ],
-    "stats": "技术能力: 6 | 产品模式: 2 | 工具生态: 1 | 商业趋势: 11",
+    "stats": "技术能力: 8 | 产品模式: 3 | 工具生态: 0 | 商业趋势: 9",
     "total_items": 20,
     "high_value_count": 20,
     "all_today_ids": [
@@ -110,6 +159,14 @@
         "label": "No Raise, No Promotion: 1 in 4 White-Collar Workers Are Stalling Out"
       },
       {
+        "id": "auditing-asset-specific-preferences-in-financial-large-language-models-evidence",
+        "label": "Auditing Asset-Specific Preferences in Financial Large Language Models: Evidence"
+      },
+      {
+        "id": "voideditorvoid",
+        "label": "voideditor/void"
+      },
+      {
         "id": "alphabet-plans-to-raise-80b-to-pay-for-ai-buildout",
         "label": "Alphabet plans to raise $80B to pay for AI buildout"
       },
@@ -128,6 +185,42 @@
       {
         "id": "this-ai-weather-startup-is-out-forecasting-government-agencies",
         "label": "This AI weather startup is out-forecasting government agencies"
+      },
+      {
+        "id": "intrashuffler-a-privacy-preserving-framework-for-heterogeneous-dp-federated-lear",
+        "label": "IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Lea"
+      },
+      {
+        "id": "permissive-safety-through-trusted-inference-verifiable-belief-space-neural-safet",
+        "label": "Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safe"
+      },
+      {
+        "id": "mitigating-perceptual-judgment-bias-in-multimodal-llm-as-a-judge-via-perceptual",
+        "label": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual"
+      },
+      {
+        "id": "simsd-simple-speculative-decoding-in-diffusion-language-models",
+        "label": "SimSD: Simple Speculative Decoding in Diffusion Language Models"
+      },
+      {
+        "id": "adacodec-a-predictive-visual-code-for-video-mllms",
+        "label": "AdaCodec: A Predictive Visual Code for Video MLLMs"
+      },
+      {
+        "id": "safesteer-localized-on-policy-distillation-for-efficient-safety-alignment",
+        "label": "SafeSteer: Localized On-Policy Distillation for Efficient Safety Alignment"
+      },
+      {
+        "id": "modeling-depth-ambiguity-a-mixture-density-representation-for-flying-point-free",
+        "label": "Modeling Depth Ambiguity: A Mixture-Density Representation for Flying-Point-Free"
+      },
+      {
+        "id": "protoada-prototype-guided-adaptive-adapter-expansion-and-geometric-consolidation",
+        "label": "ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidatio"
+      },
+      {
+        "id": "from-layers-to-submodules-rethinking-granularity-in-replacement-based-llm-compre",
+        "label": "From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compr"
       },
       {
         "id": "alphabet-announces-80b-equity-capital-raise-to-expand-ai-infra-and-compute",
@@ -150,6 +243,10 @@
         "label": "The groupthink boom: what 3 top VCs really think about the AI frenzy"
       },
       {
+        "id": "strace-ui-bonsai_term-and-the-tui-renaissance",
+        "label": "Strace-ui, Bonsai_term, and the TUI renaissance"
+      },
+      {
         "id": "cs336-language-modeling-from-scratch",
         "label": "CS336: Language Modeling from Scratch"
       },
@@ -170,6 +267,14 @@
         "label": "The Pirate Bay Remains Resilient, 20 Years After the Raid"
       },
       {
+        "id": "clinenv-an-interactive-multi-stage-long-horizon-ehr-environment-for-agents",
+        "label": "ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents"
+      },
+      {
+        "id": "tracking-the-behavioral-trajectories-of-adapting-agents",
+        "label": "Tracking the Behavioral Trajectories of Adapting Agents"
+      },
+      {
         "id": "florida-ag-files-lawsuit-against-openai-ceo-sam-altman-for-deceptive-practices",
         "label": "Florida AG files lawsuit against OpenAI, CEO Sam Altman for deceptive practices"
       },
@@ -183,6 +288,6 @@
       }
     ],
     "date_bj": "2026-06-02 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-06-02 12:01:20"
+    "generated_at_bj": "2026-06-02 18:01:51"
   }
 }

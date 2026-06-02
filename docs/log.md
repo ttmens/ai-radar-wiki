@@ -1281,3 +1281,19 @@
 - create: openai-frontier-models-and-codex-are-now-available-on-aws.md
 - create: chipotlai-max.md
 - create: alphabet-plans-to-raise-80b-to-pay-for-ai-buildout.md
+
+## [2026-06-02 18:02] sync v3 | 14 new | pillars: {'patterns': 2, 'capabilities': 10, 'ecosystem': 2}
+- create: voideditorvoid.md
+- create: mitigating-perceptual-judgment-bias-in-multimodal-llm-as-a-judge-via-perceptual.md
+- create: protoada-prototype-guided-adaptive-adapter-expansion-and-geometric-consolidation.md
+- create: adacodec-a-predictive-visual-code-for-video-mllms.md
+- create: clinenv-an-interactive-multi-stage-long-horizon-ehr-environment-for-agents.md
+- create: intrashuffler-a-privacy-preserving-framework-for-heterogeneous-dp-federated-lear.md
+- create: permissive-safety-through-trusted-inference-verifiable-belief-space-neural-safet.md
+- create: from-layers-to-submodules-rethinking-granularity-in-replacement-based-llm-compre.md
+- create: modeling-depth-ambiguity-a-mixture-density-representation-for-flying-point-free.md
+- create: simsd-simple-speculative-decoding-in-diffusion-language-models.md
+- create: tracking-the-behavioral-trajectories-of-adapting-agents.md
+- create: safesteer-localized-on-policy-distillation-for-efficient-safety-alignment.md
+- create: auditing-asset-specific-preferences-in-financial-large-language-models-evidence.md
+- create: strace-ui-bonsai_term-and-the-tui-renaissance.md

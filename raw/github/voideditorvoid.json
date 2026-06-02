@@ -1,0 +1,39 @@
+{
+  "name": "voideditor/void",
+  "description": "",
+  "stars": 28809,
+  "language": "TypeScript",
+  "topics": [
+    "chatgpt",
+    "claude",
+    "copilot",
+    "cursor",
+    "developer-tools",
+    "editor",
+    "llm",
+    "open-source",
+    "openai",
+    "visual-studio-code",
+    "vscode",
+    "vscode-extension"
+  ],
+  "url": "https://github.com/voideditor/void",
+  "created": "2024-09-11T02:37:00Z",
+  "tag": "GitHub",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "copilot"
+  ],
+  "summary_cn": "voideditor/void 是一个开源编辑器项目，采用模块化和轻量级设计模式，旨在提供高度可定制的开发环境。其核心创新在于将编辑器核心与 AI 能力解耦，支持开发者按需集成代码补全、重构等智能功能，降低了对特定 AI 厂商的依赖。这种模式提高了产品灵活性和生态扩展性，适合需要定制化 AI 编辑体验的团队。",
+  "pm_relevance": 6,
+  "concepts": [
+    "Modular Code Editor",
+    "AI-Integrated IDE"
+  ],
+  "entities": [
+    "voideditor"
+  ],
+  "patterns": [
+    "Lightweight Editor Pattern"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Modeling Depth Ambiguity: A Mixture-Density Representation for Flying-Point-Free Depth Estimation",
+  "summary": "Despite advances in depth estimation, flying points remain a persistent failure mode: near object boundaries, depth estimators often predict spurious 3D points in the empty space between foreground and background surfaces. We trace this artifact to a standard modeling choice: assigning each pixel a single depth hypothesis. At boundaries, a pixel can straddle a foreground and a background surface, so its true depth is ambiguous between the two. A model that predicts a single depth cannot keep both possibilities, so training instead pulls the prediction toward an intermediate depth that lies on neither surface. We address this with MDA, a mixture-density representation that lets the model predict multiple depth hypotheses and their associated probabilities for each pixel. Near boundaries, different hypotheses can align with different surfaces, and the decoded depth is selected from one of these hypotheses rather than placed in the empty space between them. Across different backbones, MDA substantially improves boundary reconstruction and largely removes flying-point artifacts even under severe input blur, while adding negligible runtime overhead. The same mixture-density framework naturally extends to transparent objects, where it predicts multiple depth layers at transparent pixels, and to sky regions, where a dedicated component separates the unbounded sky from finite-depth regions, producing flying-point-free skylines. Project Page: https://biansy000.github.io/mda-site/.",
+  "url": "http://arxiv.org/abs/2606.02552v1",
+  "authors": [
+    "Siyuan Bian",
+    "Congrong Xu",
+    "Jun Gao"
+  ],
+  "published": "2026-06-01T17:50:28Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training"
+  ],
+  "summary_cn": "本文提出了一种混合密度表示方法，用于解决深度估计中的“飞点”问题——即在物体边界处预测出虚假的3D点。通过为每个像素建模深度分布而非单一值，该方法有效消除了背景与前景之间的空洞点，显著提升边界深度估计的精度。这一技术突破对自动驾驶、机器人导航、AR/VR等依赖高精度深度感知的场景具有重要商业价值，可降低感知误差带来的安全风险，并提升产品可靠性。",
+  "pm_relevance": 7,
+  "concepts": [
+    "深度估计",
+    "混合密度表示",
+    "飞点消除"
+  ],
+  "entities": [],
+  "patterns": []
+}

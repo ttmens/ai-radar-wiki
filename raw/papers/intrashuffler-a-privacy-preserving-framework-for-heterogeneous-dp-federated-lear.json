@@ -1,0 +1,33 @@
+{
+  "title": "IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning",
+  "summary": "Heterogeneous Differential Privacy (HDP) in Federated Learning (FL) allows clients to select individual privacy budgets ($\\varepsilon_i$) according to institutional policies and data sensitivity. In practice, many HDP-FL systems employ $\\varepsilon$-aware server aggregation to improve model utility by re-weighting client updates according to their declared privacy budgets. However, gradient updates in FL retain structural patterns induced by non-independent and identically-distributed (non-IID) data, and these additional signals exposed by $\\varepsilon$-aware aggregation create new opportunities for inference by an honest-but-curious server. In this work, we first show that a server equipped with gradient denoising and surrogate modeling can mount a \\emph{Privacy Inference Attack} that infers distributional attributes of clients and links updates from the same client across training rounds, measured via surrogate inference accuracy and linkage success, under realistic knowledge constraints.\n  The Shuffle-Model has been widely studied as a defense against such inference risks by anonymizing update sources, but it is fundamentally incompatible with HDP-FL $\\varepsilon$-aware aggregation. To address this challenge, we propose \\textbf{IntraShuffler}, a middleware defense framework designed for HDP-FL systems. IntraShuffler introduces a privacy-aware shuffling mechanism that groups clients into privacy-compatible buckets and performs parameter-level shuffling within each bucket to disrupt persistent gradient structure while preserving $\\varepsilon$-aware aggregation. Experiments across four different datasets show that IntraShuffler reduces gradient recoverability by over 60% and decreases surrogate inference accuracy from 0.78 to 0.33 while maintaining comparable model utility across multiple FL aggregation rules.",
+  "url": "http://arxiv.org/abs/2606.02563v1",
+  "authors": [
+    "Farhin Farhad Riya",
+    "Olivera Kotevska",
+    "Jinyuan Stella Sun"
+  ],
+  "published": "2026-06-01T17:54:10Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "training",
+    "parameter",
+    "accuracy",
+    "gradient",
+    "dataset"
+  ],
+  "summary_cn": "IntraShuffler 是一种针对异构差分隐私联邦学习的新型隐私保护框架。它允许客户端根据自身策略和数据敏感性选择不同的隐私预算（ε_i），并通过 ε-aware 服务器聚合机制提升模型效用。该框架在保护用户隐私的同时，有效缓解了异质性隐私预算带来的模型性能下降问题，为医疗、金融等强隐私场景下的联邦学习落地提供了实用方案。产品经理可关注其平衡隐私与效用的能力，降低企业合规风险，加速数据协作。",
+  "pm_relevance": 8,
+  "concepts": [
+    "联邦学习",
+    "差分隐私",
+    "隐私保护框架"
+  ],
+  "entities": [],
+  "patterns": [
+    "Federated Learning",
+    "Privacy-Preserving Machine Learning"
+  ]
+}

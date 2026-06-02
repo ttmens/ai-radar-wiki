@@ -1,0 +1,33 @@
+{
+  "title": "SafeSteer: Localized On-Policy Distillation for Efficient Safety Alignment",
+  "summary": "Aligning Large Language Models (LLMs) with human values often degrades their general capabilities, termed the alignment tax. Existing methods mitigate this by balancing dual objectives, which heavily rely on massive general-purpose data or auxiliary reward models.\n  In this paper, we argue that, because safety features are inherently sparse within the output distribution, alignment requires localized modifications rather than global trade-offs. To this end, we propose SafeSteer, which performs on-policy distillation confined to safety tokens. First, we construct a safety teacher via activation steering. Based on this teacher, we develop a safety token selection algorithm. Consequently, SafeSteer restricts the reverse KL penalty to these tokens during training to preserve general capabilities.\n  Experimental results across diverse models show that our SafeSteer achieves a superior trade-off between safety and general capability compared with existing methods, attaining strong safety performance on seven safety benchmarks with only minimal degradation on five general capability benchmarks. Notably, SafeSteer requires only 100 harmful samples without using any general-purpose data, less than 1% of what previous baselines used, considerably reducing alignment cost. More details are on our project page at https://anjingkun.github.io/SafeSteer.",
+  "url": "http://arxiv.org/abs/2606.02530v1",
+  "authors": [
+    "Hao Li",
+    "Jingkun An",
+    "Zijun Song",
+    "Pengyu Zhu",
+    "Rui Li"
+  ],
+  "published": "2026-06-01T17:38:12Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "benchmark",
+    "training",
+    "distillation"
+  ],
+  "summary_cn": "SafeSteer提出了一种局部化在线策略蒸馏方法，用于高效实现大语言模型的安全对齐，同时避免通用能力下降（对齐税）。传统方法依赖大量通用数据或辅助奖励模型，成本高且效果受限。该技术通过在线策略蒸馏，在局部范围内对齐模型行为，显著降低数据需求并减少能力退化。对于AI产品经理，这意味着可以更经济地构建安全可控的对话系统、内容生成工具，同时保持模型原有性能，提升产品合规性和用户体验。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Safety Alignment",
+    "On-Policy Distillation",
+    "Alignment Tax"
+  ],
+  "entities": [],
+  "patterns": [
+    "Localized Distillation",
+    "Policy Distillation"
+  ]
+}

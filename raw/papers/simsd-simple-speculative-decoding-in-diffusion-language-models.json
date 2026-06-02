@@ -1,0 +1,34 @@
+{
+  "title": "SimSD: Simple Speculative Decoding in Diffusion Language Models",
+  "summary": "Diffusion large language models (dLLMs) have recently emerged as a promising alternative to autoregressive (AR) LLMs, offering faster inference through parallel or blockwise decoding. However, their masked language modeling formulation remains incompatible with standard token-level speculative decoding, one of the most effective acceleration techniques for AR models. In AR decoding, the causal mask preserves temporally valid token-level contexts, enabling a target model to verify multiple drafted tokens in a single forward pass. In contrast, dLLMs rely on mask tokens and bidirectional attention, causing the effective context to change across denoising steps and preventing direct token-level speculative verification. To bridge this gap, we propose a simple but effective speculative decoding algorithm for diffusion language models, named SimSD, which mainly adopts a plug-and-play masking strategy that equips dLLMs with temporally valid token-level contexts for speculative decoding. Our method explicitly introduces reference tokens from draft-model predictions and designs an attention mask that regulates their interaction with current-step tokens, allowing dLLMs to compute valid logits for drafted tokens in a single forward pass. This restores the key verification ability provided by causal masking in AR models while preserving the parallel decoding advantages of dLLMs. The proposed method is training-free and can be flexibly integrated with other acceleration techniques such as KV cache and blockwise decoding. Experiments on SDAR-family dLLMs across four benchmarks show that our method achieves up to 7.46x higher decoding throughput while maintaining and even improving average generation quality.",
+  "url": "http://arxiv.org/abs/2606.02544v1",
+  "authors": [
+    "Junxia Cui",
+    "Haotian Ye",
+    "Runchu Tian",
+    "Hongcan Guo",
+    "Jinya Jiang"
+  ],
+  "published": "2026-06-01T17:46:46Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "token",
+    "benchmark",
+    "throughput",
+    "training",
+    "attention"
+  ],
+  "summary_cn": "本文提出SimSD，一种简单的推测解码方法，旨在解决扩散语言模型（dLLMs）与标准token级推测解码不兼容的问题。通过设计轻量级的草稿模型和验证机制，SimSD使得dLLMs能够利用并行解码优势进行加速推理，同时保持生成质量。该方法降低了推理延迟，适用于需要快速响应的实时AI产品，如对话系统和内容生成工具，为扩散模型在商业部署中提供了更高效的选择。",
+  "pm_relevance": 8,
+  "concepts": [
+    "推测解码",
+    "扩散语言模型",
+    "推理加速"
+  ],
+  "entities": [],
+  "patterns": [
+    "推测解码模式"
+  ]
+}
