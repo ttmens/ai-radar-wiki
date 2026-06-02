@@ -1,7 +1,7 @@
 {
   "date": "2026-06-02",
-  "generated_at": "2026-06-02T06:03:42.953269+08:00",
-  "item_count": 20,
+  "generated_at": "2026-06-02T12:02:11.622583+08:00",
+  "item_count": 25,
   "items": [
     {
       "id": "anthropic-confidentially-submits-draft-s-1-to-the-sec",
@@ -23,6 +23,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48359232",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "label": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "summary": "文章探讨了Anthropic、SpaceX和OpenAI等高估值AI公司未来是否可能上市的问题。这些公司目前处于私有市场，但巨额融资和业务扩张引发了对股市接纳能力的质疑。作为AI产品经理，需关注这些领先企业的资本策略将如何影响产品路线图、人才竞争和技术商业化速度。上市可能带来更多资源，也可能面临短期业绩压力，从而改变其产品创新节奏和生态位。理解这些动态有助于预判行业格局变化。",
+      "pm_score": 0.58,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48364055",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "openai-frontier-models-and-codex-are-now-available-on-aws",
+      "label": "OpenAI frontier models and Codex are now available on AWS",
+      "summary": "OpenAI前沿模型（如GPT系列）及代码生成模型Codex现已在AWS云平台上正式可用。这一举措将OpenAI的核心能力与AWS的全球基础设施及企业服务深度集成，降低了企业部署先进AI的门槛。产品经理可关注其带来的模型即服务（MaaS）模式，支持在AWS上直接通过API调用，便于结合现有云服务快速构建智能应用。这对代码辅助、智能客服、内容生成等场景的商业化落地具有重要推动价值，同时强化了AI平台的生态协同。",
+      "pm_score": 0.565,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48363132",
       "date": "2026-06-02"
     },
     {
@@ -89,6 +111,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48357063",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "alphabet-plans-to-raise-80b-to-pay-for-ai-buildout",
+      "label": "Alphabet plans to raise $80B to pay for AI buildout",
+      "summary": "Alphabet宣布计划筹集800亿美元用于AI基础设施建设，以应对企业和消费者对AI解决方案和服务的强劲需求，当前需求已超过公司现有供应能力。这一巨额投资旨在扩大AI算力、数据中心和云服务能力，为下一代AI产品创新奠定基础。对AI产品经理而言，这意味着更充足的基础设施支持，将加速AI应用落地和规模化，同时也反映了AI领域资本密集型的特征，产品设计需考虑资源分配与成本优化。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
       "date": "2026-06-02"
     },
     {
@@ -169,6 +202,17 @@
       "date": "2026-06-02"
     },
     {
+      "id": "chipotlai-max",
+      "label": "Chipotlai Max",
+      "summary": "Chipotlai Max 可能为 Chipotle 推出的 AI 驱动快餐解决方案，通过个性化推荐、智能点餐和库存预测提升运营效率与客户体验。商业价值在于降低人力成本、加速服务流程，并借助数据驱动决策优化供应链。产品创新体现在将AI深度融合于快餐场景，实现从点单到出餐的端到端智能化，为餐饮行业数字化转型提供参考。",
+      "pm_score": 0.38,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48363765",
+      "date": "2026-06-02"
+    },
+    {
       "id": "the-groupthink-boom-what-3-top-vcs-really-think-about-the-ai-frenzy",
       "label": "The groupthink boom: what 3 top VCs really think about the AI frenzy",
       "summary": "文章报道了三位顶级风投对AI投资热潮的看法。他们半开玩笑地指出，目前在旧金山，22岁做AI的年轻人就能轻松获得种子轮投资，而19岁的天才甚至可能已拿到A轮。这反映了AI领域的投资狂热和“群体思维”现象——资金过度追逐年轻创业者，可能导致估值泡沫和资源错配。对于AI产品经理而言，这提醒我们需要警惕市场过热，回归产品价值本身，避免被资本裹挟。同时，也要关注早期创业生态中涌现的创新机会。",
@@ -188,6 +232,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48357075",
+      "date": "2026-06-02"
+    },
+    {
+      "id": "how-is-groq-raising-more-money",
+      "label": "How is Groq raising more money?",
+      "summary": "Groq 作为 AI 推理芯片新锐，最新融资动态显示其 LPU（语言处理单元）架构在低延迟、高吞吐方面获得资本认可。对 AI 产品经理而言，这意味着实时交互类产品（如语音助手、代码补全）可摆脱 GPU 成本与功耗瓶颈，加速端侧或边缘部署。Groq 的差异化在于专为 Transformer 模型优化，与传统 GPU 通用路线形成互补，可能催生“超低延迟 AI 原生应用”新品类。商业上，融资将用于扩大芯片量产与生态建设，降低企业 AI 推理总拥有成本。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48364620",
       "date": "2026-06-02"
     },
     {
@@ -225,7 +280,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1086,
-    "edges": 77899
+    "real_nodes": 1091,
+    "edges": 78991
   }
 }

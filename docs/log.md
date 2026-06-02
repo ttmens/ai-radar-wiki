@@ -1274,3 +1274,10 @@
 - create: water-access-is-now-a-risk-factor-in-spacex8217s-ipo.md
 - create: anthropic-files-to-go-public.md
 - create: the-groupthink-boom-what-3-top-vcs-really-think-about-the-ai-frenzy.md
+
+## [2026-06-02 12:02] sync v3 | 5 new | pillars: {'capabilities': 4, 'business': 1}
+- create: can-the-stockmarket-swallow-anthropic-spacex-and-openai.md
+- create: how-is-groq-raising-more-money.md
+- create: openai-frontier-models-and-codex-are-now-available-on-aws.md
+- create: chipotlai-max.md
+- create: alphabet-plans-to-raise-80b-to-pay-for-ai-buildout.md
