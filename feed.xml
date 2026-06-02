@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 02 Jun 2026 00:03:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 04:03:06 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -27,6 +27,22 @@
       <pubDate>2026-06-02T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>斯坦福CS336课程发布了AI Agent指南，为构建与部署自主AI代理提供了系统化的设计原则与实践准则。该指南涵盖工具调用、记忆管理、任务规划等关键技术要点，帮助开发者与产品经理规避常见陷阱，提升代理系统的可靠性、可扩展性与安全性。对于AI产品经理而言，该指南可作为设计Agent产品架构与交互流程的参考框架，有助于加速从原型到落地的商业化进程。</p></description>
       <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Can the stockmarket swallow Anthropic, SpaceX and OpenAI?</title>
+      <link>https://news.ycombinator.com/item?id=48364055</link>
+      <guid isPermaLink="false">can-the-stockmarket-swallow-anthropic-spacex-and-openai</guid>
+      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章探讨了Anthropic、SpaceX和OpenAI等高估值AI公司未来是否可能上市的问题。这些公司目前处于私有市场，但巨额融资和业务扩张引发了对股市接纳能力的质疑。作为AI产品经理，需关注这些领先企业的资本策略将如何影响产品路线图、人才竞争和技术商业化速度。上市可能带来更多资源，也可能面临短期业绩压力，从而改变其产品创新节奏和生态位。理解这些动态有助于预判行业格局变化。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>OpenAI frontier models and Codex are now available on AWS</title>
+      <link>https://news.ycombinator.com/item?id=48363132</link>
+      <guid isPermaLink="false">openai-frontier-models-and-codex-are-now-available-on-aws</guid>
+      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>OpenAI前沿模型（如GPT系列）及代码生成模型Codex现已在AWS云平台上正式可用。这一举措将OpenAI的核心能力与AWS的全球基础设施及企业服务深度集成，降低了企业部署先进AI的门槛。产品经理可关注其带来的模型即服务（MaaS）模式，支持在AWS上直接通过API调用，便于结合现有云服务快速构建智能应用。这对代码辅助、智能客服、内容生成等场景的商业化落地具有重要推动价值，同时强化了AI平台的生态协同。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms</title>
@@ -74,6 +90,14 @@
       <guid isPermaLink="false">no-raise-no-promotion-1-in-4-white-collar-workers-are-stalling-out</guid>
       <pubDate>2026-06-02T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容指出四分之一的美国白领员工面临薪资不涨、职业晋升停滞的困境，反映了企业成本控制与AI自动化替代低价值白领岗位的趋势。对AI产品经理而言，这提示需关注AI工具对白领工作效率的提升潜力，以及如何通过AI赋能员工而非简单替代，同时商业价值在于开发帮助企业优化人力成本、辅助职业转型的AI解决方案。产品创新方向可包括AI驱动的个性化职业发展路径推荐、自动化报告与决策辅助系统。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Alphabet plans to raise $80B to pay for AI buildout</title>
+      <link>https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/</link>
+      <guid isPermaLink="false">alphabet-plans-to-raise-80b-to-pay-for-ai-buildout</guid>
+      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Alphabet宣布计划筹集800亿美元用于AI基础设施建设，以应对企业和消费者对AI解决方案和服务的强劲需求，当前需求已超过公司现有供应能力。这一巨额投资旨在扩大AI算力、数据中心和云服务能力，为下一代AI产品创新奠定基础。对AI产品经理而言，这意味着更充足的基础设施支持，将加速AI应用落地和规模化，同时也反映了AI领域资本密集型的特征，产品设计需考虑资源分配与成本优化。</p></description>
       <category>💰 商业趋势</category>
     </item>
     <item>
@@ -133,6 +157,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Chipotlai Max</title>
+      <link>https://news.ycombinator.com/item?id=48363765</link>
+      <guid isPermaLink="false">chipotlai-max</guid>
+      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Chipotlai Max 可能为 Chipotle 推出的 AI 驱动快餐解决方案，通过个性化推荐、智能点餐和库存预测提升运营效率与客户体验。商业价值在于降低人力成本、加速服务流程，并借助数据驱动决策优化供应链。产品创新体现在将AI深度融合于快餐场景，实现从点单到出餐的端到端智能化，为餐饮行业数字化转型提供参考。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>The groupthink boom: what 3 top VCs really think about the AI frenzy</title>
       <link>https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/</link>
       <guid isPermaLink="false">the-groupthink-boom-what-3-top-vcs-really-think-about-the-ai-frenzy</guid>
@@ -146,6 +178,14 @@
       <guid isPermaLink="false">cs336-language-modeling-from-scratch</guid>
       <pubDate>2026-06-02T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容源于HN，标题‘CS336: Language Modeling from Scratch’指向一门从零构建语言模型的课程或教程。核心在于系统教授语言模型的基础原理、架构设计与训练流程，而非仅使用现成API。对于AI产品经理，深入理解模型底层机制有助于评估技术选型、成本控制及产品差异化，例如决定是否自研轻量模型或基于开源模型做微调。这类知识对规划AI能力边界、优化用户体验（如推理速度、上下文长度）具有战略价值，同时可降低对供应商的依赖风险。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>How is Groq raising more money?</title>
+      <link>https://news.ycombinator.com/item?id=48364620</link>
+      <guid isPermaLink="false">how-is-groq-raising-more-money</guid>
+      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Groq 作为 AI 推理芯片新锐，最新融资动态显示其 LPU（语言处理单元）架构在低延迟、高吞吐方面获得资本认可。对 AI 产品经理而言，这意味着实时交互类产品（如语音助手、代码补全）可摆脱 GPU 成本与功耗瓶颈，加速端侧或边缘部署。Groq 的差异化在于专为 Transformer 模型优化，与传统 GPU 通用路线形成互补，可能催生“超低延迟 AI 原生应用”新品类。商业上，融资将用于扩大芯片量产与生态建设，降低企业 AI 推理总拥有成本。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -371,46 +411,6 @@
       <pubDate>2026-06-01T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出了一种针对分布式优化中误差反馈算法的紧凑理论分析。在分布式学习中，通信开销是主要瓶颈，常用的梯度压缩技术会降低收敛保证。该研究提供了误差反馈机制的理论边界，证明其在保持收敛速度的同时能有效压缩通信。对于AI产品经理，这意味着可构建更高效的分布式训练系统，降低跨节点带宽成本，加速大模型训练迭代。商业价值在于减少云基础设施支出，提升规模化训练的经济性。产品创新上，可应用于联邦学习、边缘AI等场景，实现低延迟协同。</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Daily pill can double survival time for deadliest cancer, trial shows</title>
-      <link>https://news.ycombinator.com/item?id=48346629</link>
-      <guid isPermaLink="false">daily-pill-can-double-survival-time-for-deadliest-cancer-trial-shows</guid>
-      <pubDate>2026-06-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Ouijit, an open-source task and terminal manager for coding agents</title>
-      <link>https://ouijit.com/</link>
-      <guid isPermaLink="false">show-hn-ouijit-an-open-source-task-and-terminal-manager-for-coding-agents</guid>
-      <pubDate>2026-06-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Ouijit 是一个面向编码代理的开源任务和终端管理器，旨在为 AI 代理提供统一的任务调度与命令行交互能力。其核心价值在于通过结构化任务管理和终端会话跟踪，提升编码代理的执行效率与可观测性。产品创新体现在将传统开发者工具（任务板、终端模拟器）适配至 AI 工作流，支持代理自主切换上下文、记录操作历史，从而减少人工干预。对于 AI 产品经理而言，该工具代表了“代理工作台”模式的早期探索，可能成为未来 AI Agent 开发基础设施的关键组件。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Language Models Learn Constructional Semantics, Not To Mention Syntax: Investiga</title>
-      <link>http://arxiv.org/abs/2605.31586v1</link>
-      <guid isPermaLink="false">language-models-learn-constructional-semantics-not-to-mention-syntax-investigati</guid>
-      <pubDate>2026-06-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Grasping the semantics of rare constructions (form-meaning pairings) has been shown to be a challenging problem that has currently only been solved by the largest LLMs. It remains an open question if open-source models have robust constructional understanding, and if so, what learning dynamics under</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>The History of "Prisencolinensinainciusol"</title>
-      <link>https://news.ycombinator.com/item?id=48348737</link>
-      <guid isPermaLink="false">the-history-of-prisencolinensinainciusol</guid>
-      <pubDate>2026-06-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容标题指向一首1972年的意大利无意义歌曲《Prisencolinensinainciusol》，表面与AI无关。但若从AI产品经理视角看，可引申至语言模型对无意义文本的生成、理解与模仿能力，以及模型在识别文化梗或非语义模式时的表现。技术要点在于评估大语言模型在缺乏实际语义信息时的行为，商业价值体现在测试模型鲁棒性与创造趣味交互，产品创新包括设计能处理文字游戏的对话系统。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Anthropic surpasses OpenAI to become most valuable AI startup</title>
-      <link>https://news.ycombinator.com/item?id=48336233</link>
-      <guid isPermaLink="false">anthropic-surpasses-openai-to-become-most-valuable-ai-startup</guid>
-      <pubDate>2026-05-31T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic凭借Claude系列模型的技术突破与安全研究优势，其估值超越OpenAI，成为全球最高估值的AI初创公司。这标志着大模型竞争从单纯技术比拼转向商业模式、市场信任与生态构建的综合较量。对于AI产品经理而言，这提示关注模型能力的差异化定位、企业级安全需求以及开源/闭源策略的长期影响。Anthropic的崛起也反映了资本对可控、可解释AI路线的高度认可。</p></description>
-      <category>💰 商业趋势</category>
     </item>
   </channel>
 </rss>
