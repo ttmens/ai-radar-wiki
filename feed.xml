@@ -5,13 +5,61 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 02 Jun 2026 12:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 16:07:04 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai</title>
+      <link>https://news.ycombinator.com/item?id=48368121</link>
+      <guid isPermaLink="false">adafruit-receives-demand-letter-from-fenwick-legal-counsel-on-behalf-of-fluxai</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>开源硬件公司 Adafruit 收到 Fenwick 律所代表 AI PCB 设计工具 Flux.ai 发出的要求函，可能涉及知识产权或专利纠纷。对 AI 产品经理的启示：AI 工具在利用开源硬件生态时需注意合规风险，尤其是训练数据、专利许可和技术边界。事件凸显了 AI 创新与传统开源社区的潜在冲突，产品经理应提前规划法律策略，避免类似纠纷。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>OpenAI launches new Codex tools for white-collar work</title>
+      <link>https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/</link>
+      <guid isPermaLink="false">openai-launches-new-codex-tools-for-white-collar-work</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenAI发布Codex新工具集，旨在将AI代理能力扩展到企业白领工作场景（如文档处理、数据分析等），并配套发布内部使用报告。此举标志着OpenAI从代码助手向通用企业助手的战略转型，通过增强Codex的自主任务执行能力，降低企业AI应用门槛，提升白领工作效率。产品创新点在于将代码能力与自然语言交互结合，实现更复杂的业务流程自动化。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries</title>
+      <link>https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/</link>
+      <guid isPermaLink="false">anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Anthropic 将旗下安全漏洞评估项目 Project Glasswing 和大模型安全工具 Mythos 扩展至 15 个国家、150 家组织，重点覆盖电力、水务、医疗和通信等关键基础设施。这些基础设施一旦遭网络攻击可能影响上亿人。此举标志着 AI 安全能力从实验室走向高价值、高风险的产业场景，不仅展示了大模型在安全评估中的技术可行性，也为 AI 产品在政府及大型企业中的商业化落地提供了范例，同时强化了 Anthropic 在 AI 安全领域的品牌影响力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>ZeroDrift raises $10M to protect AI models from themselves</title>
+      <link>https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/</link>
+      <guid isPermaLink="false">zerodrift-raises-10m-to-protect-ai-models-from-themselves</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>ZeroDrift 完成 1000 万美元融资，提供一种位于 AI 模型与终端用户之间的合规服务。该服务实时检测模型输出内容，自动标记并替换可能违反法规或企业政策的消息，例如不当言论、敏感信息或版权风险。此方案无需修改底层模型，以中间件形式降低企业部署 AI 的合规门槛，减少人工审核成本，尤其适用于金融、医疗、法律等强监管行业。产品创新在于动态拦截而非静态训练，兼顾模型性能与安全。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Rocket engine startup Impulse raises $500 million to hire people, not AI</title>
+      <link>https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/</link>
+      <guid isPermaLink="false">rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>火箭引擎初创公司Impulse Space获5亿美元融资，其总裁明确表示资金将用于雇佣人类人才而非AI。这凸显了在工程物理系统领域，人类专业技能的不可替代性。对于AI产品经理而言，这提示当前AI在处理复杂物理交互、系统工程等需要深度领域知识与经验的任务时仍存在明显局限。商业上，投资者认可人类专家的价值，也反映AI在高端制造等特定场景的落地挑战。产品创新方面，应更关注人机协作模式，而非完全自动化替代。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Americans don't know how to fight AI. So they're fighting data centers</title>
+      <link>https://news.ycombinator.com/item?id=48371592</link>
+      <guid isPermaLink="false">americans-dont-know-how-to-fight-ai-so-theyre-fighting-data-centers</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>美国民众因对AI的广泛担忧而缺乏针对性策略，转而将矛头指向数据中心，反对其建设。这反映了公众对AI技术背后基础设施的不信任与环保、能源消耗等问题的关注。作为AI产品经理，需关注社会舆论对数据中心选址、运营的影响，以及由此带来的政策与监管风险。理解并缓解公众的顾虑，推动可持续、透明的数据中心发展，是确保AI产品长期落地的关键。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
     <item>
       <title>Anthropic confidentially submits draft S-1 to the SEC</title>
       <link>https://news.ycombinator.com/item?id=48358646</link>
@@ -363,54 +411,6 @@
       <pubDate>2026-06-01T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章探讨远程工作模式可能才是导致初级人才招聘疲软的主因，而非人工智能。对于AI产品经理而言，这提示应关注远程协作场景下新人培养的痛点，设计AI辅助的自动导师、知识传递和任务拆解工具，以降低远程入职摩擦。商业价值在于，企业可借此提升初级员工生产力，缓解招聘压力；产品创新机会包括智能任务分派、虚拟结对编程或动态知识库。</p></description>
       <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>The Speed of Prototyping in the Age of AI</title>
-      <link>https://news.ycombinator.com/item?id=48347153</link>
-      <guid isPermaLink="false">the-speed-of-prototyping-in-the-age-of-ai</guid>
-      <pubDate>2026-06-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨AI时代原型开发速度的显著提升。AI工具（如代码生成、设计辅助）使产品经理能快速验证想法、迭代功能，大幅缩短从概念到MVP的周期。技术要点包括低代码/无代码平台、生成式AI辅助原型设计；商业价值在于降低试错成本、加速市场响应；产品创新体现在更灵活的敏捷开发流程。强调了AI作为‘加速器’的角色，而非替代人类决策。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>United Airlines 767 returns to Newark after Bluetooth name sparks alert</title>
-      <link>https://news.ycombinator.com/item?id=48345248</link>
-      <guid isPermaLink="false">united-airlines-767-returns-to-newark-after-bluetooth-name-sparks-alert</guid>
-      <pubDate>2026-06-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Creatine raises brain energy levels and slows cognitive decline: study</title>
-      <link>https://news.ycombinator.com/item?id=48346947</link>
-      <guid isPermaLink="false">creatine-raises-brain-energy-levels-and-slows-cognitive-decline-study</guid>
-      <pubDate>2026-06-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Making sense of the debate over AI psychosis</title>
-      <link>https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/</link>
-      <guid isPermaLink="false">making-sense-of-the-debate-over-ai-psychosis</guid>
-      <pubDate>2026-06-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>TechCrunch最新一期Equity节目讨论了科技CEO是否容易陷入'AI精神病'——即过度乐观或脱离现实的AI幻想。对AI产品经理而言，这一讨论提醒我们关注AI行业热潮中的认知偏差，避免被高管叙事误导产品方向。需要平衡技术愿景与真实用户需求，警惕过度承诺导致的产品泡沫。这一辩论有助于产品经理在战略规划中保持理性，基于实际能力而非空想制定路线。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Odysseus – self-hosted AI workspace</title>
-      <link>https://news.ycombinator.com/item?id=48346693</link>
-      <guid isPermaLink="false">odysseus-self-hosted-ai-workspace</guid>
-      <pubDate>2026-06-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Odysseus 是一个自托管的 AI 工作空间，强调数据隐私和完全控制权。技术要点包括本地化部署、无需外部 API 即可运行 AI 模型，可能集成检索增强生成（RAG）和知识管理功能。商业价值在于为企业或高级用户提供可定制的私有 AI 环境，避免数据外泄。产品创新在于将 AI 助手、文件管理与自托管特性结合，类似于本地版的 Notion AI 或 Obsidian AI，但完全开源且用户自控。该产品适合对安全性和合规性要求高的场景，如法律、医疗或金融领域。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>The solution might be cancelling my AI subscription</title>
-      <link>https://news.ycombinator.com/item?id=48345896</link>
-      <guid isPermaLink="false">the-solution-might-be-cancelling-my-ai-subscription</guid>
-      <pubDate>2026-06-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文讨论了用户因AI订阅服务的实际效用不足、成本过高或体验不佳而考虑取消订阅的现象。从产品经理视角看，这反映了AI产品在持续价值交付、用户留存和定价策略上的挑战。技术层面可能涉及模型能力与用户预期差距、长期记忆缺失或个性化不足；商业上需重新评估订阅模式与免费增值的平衡，以及如何通过功能创新（如长期上下文、个性化定制）提升用户粘性。产品创新方向包括降低使用门槛、强化可解释性及提供可量化的ROI证明。</p></description>
-      <category>💰 商业趋势</category>
     </item>
   </channel>
 </rss>
