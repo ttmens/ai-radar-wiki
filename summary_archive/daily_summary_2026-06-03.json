@@ -2,106 +2,107 @@
   "daily_summary": {
     "date": "2026-06-03",
     "headline": "今日 AI 情报 · 2026-06-03",
-    "overview": "AI Agent 工具链与协作流程快速成熟",
-    "insights": [
+    "overview": "自主代理崛起，治理与合规同步爆发；专业能力突破信任瓶颈。",
+    "narratives": [
       {
-        "pillar": "🤖 技术能力",
-        "pillar_key": "capabilities",
-        "insight": "AI安全与信任正成为规模化部署的关键挑战。该方向的具体信号：安全/漏洞, 信任/合规。",
-        "evidence": [
-          {
-            "id": "gmail-thinks-im-stupid-so-i-left",
-            "title": "Gmail thinks I'm stupid, so I left",
-            "score": 0.63,
-            "url": "https://news.ycombinator.com/item?id=48375016",
-            "reason": "高价值信号"
-          }
-        ],
-        "trend": "new"
+        "title": "AI自主代理走向操作系统级嵌入，治理与合规成为产品核心组件",
+        "body": "微软Scout、OpenAI Codex、GitHub Copilot等产品标志着AI从辅助工具转向可自主执行复杂任务的代理模式。然而ZeroDrift合规中间件、微软行为控制策略、Uber预算失控、Ring诉讼等信号显示，治理与成本管控已成为规模化部署的关键。产品经理需将合规、审计、预算控制内置于代理架构，否则创新将因信任和财务风险受阻。",
+        "type": "paradigm_shift",
+        "pillar_key": "patterns"
       },
+      {
+        "title": "AI能力在专业领域超越人类基准，但用户信任与产品伦理成为新瓶颈",
+        "body": "斯坦福法律AI超越教授、60%用户寻求AI心理支持、轻量代码生成模型MAI-Code等表明AI在专业任务中达到甚至超越人类水平。但Gmail智能助手因过度猜测被用户抛弃、Ring人脸识别引发诉讼等案例警示：产品若忽视用户控制感和伦理合规，能力再强也难以留存用户。产品经理需平衡功能激进与透明可控。",
+        "type": "maturation",
+        "pillar_key": "capabilities"
+      }
+    ],
+    "insights": [
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, CLI/终端交互。",
+        "narrative_title": "AI自主代理走向操作系统级嵌入，治理与合规成为产品核心组件",
+        "insight": "AI自主代理走向操作系统级嵌入，治理与合规成为产品核心组件。该方向的具体信号：微软发布Scout自主代理并推出可移植策略文件控制代理行为；OpenAI Codex扩展至白领工作，GitHub Copilot成为主流开发模式；同时Uber因AI支出失控设上限、ZeroDrift获投1000万美元提供合规中间件、Ring因隐私问题被集体诉讼——代理能力与治理能力同步飞轮演进，产品经理需将策略管理和成本仪表盘作为代理产品的标配模块。",
         "evidence": [
           {
             "id": "microsoft-announces-scout-an-autonomous-ai-agent-built-on-openclaw",
-            "title": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw",
-            "score": 0.52,
-            "url": "https://news.ycombinator.com/item?id=48374079",
-            "reason": "里程碑式进展；高价值信号"
+            "title": "Microsoft announces Scout, autonomous AI agent",
+            "score": 0.52
           },
           {
-            "id": "microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior",
-            "title": "Microsoft offers devs a better way to control AI agent behavior",
-            "score": 0.48,
-            "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
+            "id": "openai-launches-new-codex-tools-for-white-collar-work",
+            "title": "OpenAI Codex tools for white-collar work",
+            "score": 0.52
           },
           {
-            "id": "show-hn-build-your-own-ai-agent-cli-in-150-lines",
-            "title": "Show HN: Build Your Own AI Agent CLI in 150 Lines",
-            "score": 0.26,
-            "url": "https://go-micro.dev/blog/11",
-            "reason": "基于新颖度、影响力、相关性综合评分"
+            "id": "github-copilot-app",
+            "title": "GitHub Copilot App",
+            "score": 0.52
+          },
+          {
+            "id": "zerodrift-raises-10m-to-protect-ai-models-from-themselves",
+            "title": "ZeroDrift raises $10M to protect AI models",
+            "score": 0.48
+          },
+          {
+            "id": "uber-caps-employee-ai-spending-after-blowing-through-budget-in-4-months",
+            "title": "Uber caps AI spending after budget blowout",
+            "score": 0.48
+          },
+          {
+            "id": "amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature",
+            "title": "Amazon faces class action over Ring facial recognition",
+            "score": 0.48
+          },
+          {
+            "id": "microsoft-launches-scout-an-openclaw-inspired-personal-assistant",
+            "title": "Microsoft launches Scout OpenClaw personal assistant",
+            "score": 0.48
           }
-        ],
-        "trend": "new"
+        ]
       },
       {
-        "pillar": "🔧 工具生态",
-        "pillar_key": "ecosystem",
-        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI能力在专业领域超越人类基准，但用户信任与产品伦理成为新瓶颈",
+        "insight": "AI能力在专业领域超越人类基准，但用户信任与产品伦理成为新瓶颈。该方向的具体信号：斯坦福法律AI超越教授、超过60%用户向AI寻求心理支持、Mistral推出轻量代码模型MAI-Code、MAI-Thinking推理模型提升逻辑能力、Agentic CoT方法降低推理成本、Anthropic将安全评估扩展到15国关键基础设施、Google推出深度伪造来电检测——但Gmail智能助手因过度简化用户体验致用户流失，表明能力越强越需要尊重用户心智模型和隐私边界。",
         "evidence": [
           {
-            "id": "adafruit-receives-demand-letter-from-fenwick-legal-counsel-on-behalf-of-fluxai",
-            "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf o",
-            "score": 0.56,
-            "url": "https://news.ycombinator.com/item?id=48368121",
-            "reason": "高价值信号"
-          }
-        ],
-        "trend": "new"
-      },
-      {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "insight": "今日💰 商业趋势方向有新的动态。",
-        "evidence": [
+            "id": "mai-code-1-flash",
+            "title": "MAI-Code-1-Flash",
+            "score": 0.56
+          },
           {
-            "id": "three-ways-to-get-paid-2018",
-            "title": "Three Ways to Get Paid (2018)",
-            "score": 0.52,
-            "url": "https://news.ycombinator.com/item?id=48373054",
-            "reason": "高价值信号"
+            "id": "mai-thinking-1",
+            "title": "MAI-Thinking-1",
+            "score": 0.49
+          },
+          {
+            "id": "agentic-chain-of-thought-steering-for-efficient-and-controllable-llm-reasoning",
+            "title": "Agentic Chain-of-Thought Steering",
+            "score": 0.52
+          },
+          {
+            "id": "anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries",
+            "title": "Anthropic scales Claude Mythos to 15+ countries",
+            "score": 0.52
+          },
+          {
+            "id": "google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonatio",
+            "title": "Google rolls out fake call detection",
+            "score": 0.52
+          },
+          {
+            "id": "gmail-thinks-im-stupid-so-i-left",
+            "title": "Gmail thinks I'm stupid, so I left",
+            "score": 0.63
           }
-        ],
-        "trend": "new"
+        ]
       }
     ],
-    "narratives": [
-      {
-        "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日4条情报涉及AI Agent及相关工具生态。典型项目包括：Microsoft announces Scout, an autonomous, Microsoft offers devs a better way to co, Show HN: Build Your Own AI Agent CLI in 。具体信号：AI Agent, CLI/终端。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
-        "type": "paradigm_shift",
-        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
-      },
-      {
-        "title": "AI安全与信任正成为规模化部署的关键挑战",
-        "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：Anthropic scales Claude Mythos  to criti, MAI-Thinking-1。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
-        "type": "bottleneck",
-        "action": "建议：审查当前产品的安全/信任/合规设计，是否需要升级。这是获取企业客户的关键竞争力。"
-      },
-      {
-        "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日1条情报涉及AI商业动态。包括：New Microsoft tool lets devs spin up AI 。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
-        "type": "validation",
-        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
-      }
-    ],
-    "stats": "🤖 技术能力: 7 | 🔧 工具生态: 7 | 💰 商业趋势: 3 | 📱 产品模式: 8",
-    "total_items": 25,
-    "high_value_count": 23,
+    "stats": "技术能力: 10 | 产品模式: 5 | 工具生态: 4 | 商业趋势: 3",
+    "total_items": 20,
+    "high_value_count": 20,
     "all_today_ids": [
       {
         "id": "gmail-thinks-im-stupid-so-i-left",
@@ -116,12 +117,20 @@
         "label": "MAI-Code-1-Flash"
       },
       {
+        "id": "ai-outperforms-law-professors-in-stanford-law-study",
+        "label": "AI outperforms law professors in Stanford Law study"
+      },
+      {
         "id": "three-ways-to-get-paid-2018",
         "label": "Three Ways to Get Paid (2018)"
       },
       {
         "id": "openai-launches-new-codex-tools-for-white-collar-work",
         "label": "OpenAI launches new Codex tools for white-collar work"
+      },
+      {
+        "id": "more-than-6-out-of-10-people-turn-to-ai-for-psychological-support",
+        "label": "More than 6 out of 10 people turn to AI for psychological support"
       },
       {
         "id": "github-copilot-app",
@@ -138,6 +147,10 @@
       {
         "id": "microsoft-announces-scout-an-autonomous-ai-agent-built-on-openclaw",
         "label": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw"
+      },
+      {
+        "id": "agentic-chain-of-thought-steering-for-efficient-and-controllable-llm-reasoning",
+        "label": "Agentic Chain-of-Thought Steering for Efficient and Controllable LLM Reasoning"
       },
       {
         "id": "mai-thinking-1",
@@ -172,8 +185,40 @@
         "label": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions"
       },
       {
+        "id": "using-reward-uncertainty-to-induce-diverse-behaviour-in-reinforcement-learning",
+        "label": "Using Reward Uncertainty to Induce Diverse Behaviour in Reinforcement Learning"
+      },
+      {
+        "id": "language-models-need-sleep-learning-to-self-modify-and-consolidate-memories",
+        "label": "Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories"
+      },
+      {
+        "id": "quantifying-faithful-confidence-expression-in-large-reasoning-models",
+        "label": "Quantifying Faithful Confidence Expression in Large Reasoning Models"
+      },
+      {
+        "id": "self-refining-agentic-reinforcement-learning-for-vision-conditioned-uav-navigati",
+        "label": "Self-Refining Agentic Reinforcement Learning for Vision-Conditioned UAV Navigati"
+      },
+      {
+        "id": "humanoid-gpt-scaling-data-and-structure-for-zero-shot-motion-tracking",
+        "label": "Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking"
+      },
+      {
+        "id": "cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses",
+        "label": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses"
+      },
+      {
         "id": "martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai",
         "label": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI"
+      },
+      {
+        "id": "formalizing-the-binding-problem",
+        "label": "Formalizing the Binding Problem"
+      },
+      {
+        "id": "qubric-co-designing-queries-and-rubrics-for-rl-beyond-verifiable-rewards",
+        "label": "QUBRIC: Co-Designing Queries and Rubrics for RL Beyond Verifiable Rewards"
       },
       {
         "id": "rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai",
@@ -182,6 +227,14 @@
       {
         "id": "trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections",
         "label": "Trump signs narrower executive order on AI oversight after industry objections"
+      },
+      {
+        "id": "neuron-populations-exhibit-divergent-selectivity-with-scale",
+        "label": "Neuron Populations Exhibit Divergent Selectivity with Scale"
+      },
+      {
+        "id": "show-hn-paseo-beautiful-open-source-coding-agent-interface",
+        "label": "Show HN: Paseo – Beautiful open-source coding agent interface"
       },
       {
         "id": "how-we-index-images-for-rag",
@@ -196,8 +249,28 @@
         "label": "Open Repair Data Standard – Open Repair Alliance"
       },
       {
+        "id": "skill-rm-unifying-heterogeneous-evaluation-criteria-via-agent-skill",
+        "label": "Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill"
+      },
+      {
+        "id": "alignatt4llm-fast-alignatt-for-decoder-only-llms-at-iwslt-2026-simultaneous-spee",
+        "label": "AlignAtt4LLM: Fast AlignAtt for Decoder-Only LLMs at IWSLT 2026 Simultaneous Spe"
+      },
+      {
+        "id": "imaginative-perception-tokens-enhance-spatial-reasoning-in-multimodal-language-m",
+        "label": "Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language M"
+      },
+      {
         "id": "americans-dont-know-how-to-fight-ai-so-theyre-fighting-data-centers",
         "label": "Americans don't know how to fight AI. So they're fighting data centers"
+      },
+      {
+        "id": "launch-hn-rudus-yc-p26-ai-for-concrete-contractors",
+        "label": "Launch HN: Rudus (YC P26) – AI for concrete contractors"
+      },
+      {
+        "id": "agentic-mfw",
+        "label": "Agentic Mfw"
       },
       {
         "id": "show-hn-build-your-own-ai-agent-cli-in-150-lines",
@@ -205,6 +278,6 @@
       }
     ],
     "date_bj": "2026-06-03 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-06-03 06:04:04"
+    "generated_at_bj": "2026-06-03 12:01:38"
   }
 }

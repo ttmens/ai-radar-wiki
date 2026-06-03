@@ -1,0 +1,34 @@
+{
+  "title": "QUBRIC: Co-Designing Queries and Rubrics for RL Beyond Verifiable Rewards",
+  "summary": "Rubric-based RL is a promising route for extending reinforcement learning beyond verifiable rewards, yet existing methods optimize rubrics while treating the query distribution as fixed. We identify a structural bottleneck: rubric quality is constrained by query structure. Open-ended queries yield vague rubrics; naively narrowing them introduces fabricated references that no model can verify, so all responses fail and training receives no reward signal. We present QUBRIC, a framework that co-designs queries and rubrics. Teacher-derived key points ground the rewriting of open-ended queries into scenario-based, evaluable questions. Contrastive rubric generation then turns teacher-policy gaps into query-level criteria, and learnability filtering retains only informative query-rubric pairs for GRPO training. QUBRIC achieves a +5.5 point gain on ArenaHard over the SFT baseline. Trained only on instruction-following data, it further transfers to three held-out benchmarks spanning legal, moral, and narrative reasoning (+6.3 points on average), with improvements concentrated in reasoning-related dimensions. These results provide evidence that co-designing queries and rubrics can make rubric-based RL a practical complement to RLVR beyond strictly verifiable tasks.",
+  "url": "http://arxiv.org/abs/2606.03968v1",
+  "authors": [
+    "Rongzhi Zhang",
+    "Rui Feng",
+    "Zhihan Zhang",
+    "Jingfeng Yang",
+    "Qingyu Yin"
+  ],
+  "published": "2026-06-02T17:53:04Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "reasoning",
+    "training",
+    "grpo",
+    "sft"
+  ],
+  "summary_cn": "该论文提出 QUBRIC 框架，旨在通过联合设计查询（queries）和评分标准（rubrics）来改进强化学习在处理非可验证奖励任务上的表现。现有方法将查询分布视为固定，导致评分标准受限于查询结构。QUBRIC 通过协同优化查询与评分标准，突破这一瓶颈，从而提升模型在开放式任务中的泛化能力。该技术可应用于需要主观评估的场景，如内容生成、教学反馈等，具有提升 AI 产品评估精度与自学习能力的商业价值。",
+  "pm_relevance": 7,
+  "concepts": [
+    "强化学习",
+    "评分标准",
+    "查询-评分联合设计"
+  ],
+  "entities": [],
+  "patterns": [
+    "Rubric-based RL",
+    "Query-Rubric Co-Design"
+  ]
+}

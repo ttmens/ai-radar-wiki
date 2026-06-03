@@ -1,0 +1,30 @@
+{
+  "title": "Using Reward Uncertainty to Induce Diverse Behaviour in Reinforcement Learning",
+  "summary": "Classical reinforcement learning (RL) typically seeks a deterministic policy that maximizes the expected sum of a scalar reward. Yet, modern applications such as language model fine-tuning or scientific discovery demand diversity. Existing remedies such as entropy regularization or diversity bonuses often require fragile trade-offs that sacrifice performance for stochasticity or rely on heuristic metrics that can misalign policy rankings. We argue that diversity is more naturally understood as the rational response to uncertainty in the reward. When the reward function is not perfectly known--as is the case with ambiguous preferences or imperfect reward models--committing to a single action can be sub-optimal. Building on this, we propose a fundamental reformulation of the RL objective by replacing the scalar reward with a distribution over reward functions, and applying a non-linear objective over sets of actions. The result is a framework in which calibrated behavioural diversity emerges naturally, remains controllable through the reward function distribution, and is obtained without sacrificing expected reward. Focusing on the contextual bandit setting, we derive a principled gradient estimator for this objective and prove that our formulation naturally generalizes both vanilla policy gradient and more recently developed action-set approaches. Our empirical results demonstrate that this framework offers a robust and theoretically grounded alternative for complex RL tasks where the traditional formulation of the problem fails to induce the desired breadth of agent behaviour.",
+  "url": "http://arxiv.org/abs/2606.03962v1",
+  "authors": [
+    "Anthony GX-Chen",
+    "Ankit Anand",
+    "Gheorghe Comanici",
+    "Zaheer Abbas",
+    "Eser Aygün"
+  ],
+  "published": "2026-06-02T17:50:14Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "fine-tuning",
+    "gradient"
+  ],
+  "summary_cn": "这篇论文提出通过奖励不确定性（reward uncertainty）来在强化学习中诱导多样化行为，以克服传统RL倾向于确定性策略的局限。核心思想是将奖励本身视为带有不确定性的随机变量，从而鼓励模型探索更丰富的策略空间，避免陷入局部最优。该方法可应用于大语言模型微调、科学发现等需要生成多样性和创造性的场景，提升模型输出质量和探索效率。商业价值在于增强AI产品的创新能力和适应性，降低对人工先验的依赖。产品创新方向包括智能推荐系统、对话生成、药物分子设计等需要平衡探索与利用的领域。",
+  "pm_relevance": 8,
+  "concepts": [
+    "强化学习",
+    "多样性生成",
+    "奖励不确定性"
+  ],
+  "entities": [],
+  "patterns": [
+    "探索-利用模式"
+  ]
+}

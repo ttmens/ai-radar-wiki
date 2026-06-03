@@ -1,7 +1,7 @@
 {
   "date": "2026-06-03",
-  "generated_at": "2026-06-03T06:05:18.101068+08:00",
-  "item_count": 23,
+  "generated_at": "2026-06-03T12:02:00.506913+08:00",
+  "item_count": 39,
   "items": [
     {
       "id": "gmail-thinks-im-stupid-so-i-left",
@@ -37,6 +37,17 @@
       "date": "2026-06-03"
     },
     {
+      "id": "ai-outperforms-law-professors-in-stanford-law-study",
+      "label": "AI outperforms law professors in Stanford Law study",
+      "summary": "斯坦福法学院的最新研究发现，AI在法律任务中的表现已超越法学教授，展现出强大的专业能力。这一突破对法律科技产品经理有重要启示：AI不仅能辅助法律文档分析、合同审查，还可能替代部分专家级法律服务，降低企业法务成本。产品创新方向包括开发基于大模型的法律咨询工具、自动化法律研究助手等，需关注模型可靠性与伦理合规。",
+      "pm_score": 0.55,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48377761",
+      "date": "2026-06-03"
+    },
+    {
       "id": "three-ways-to-get-paid-2018",
       "label": "Three Ways to Get Paid (2018)",
       "summary": "2018年提出三种AI能力变现路径：1）直接出售模型或API，按使用量计费；2）将AI嵌入现有产品，通过增值订阅提升用户付费意愿；3）提供AI咨询服务，针对垂直场景定制解决方案。这些模式帮助产品经理理解早期AI商业化的核心逻辑——从技术能力向商业价值转化需匹配用户场景与定价策略。",
@@ -56,6 +67,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "more-than-6-out-of-10-people-turn-to-ai-for-psychological-support",
+      "label": "More than 6 out of 10 people turn to AI for psychological support",
+      "summary": "最新调查显示，超过60%的受访者曾使用AI寻求心理支持，表明用户对AI心理健康服务的接受度显著提升。这一趋势为产品经理提供了巨大商机：AI可以通过自然语言对话、情绪识别和个性化建议，以低门槛、高可及性的方式满足用户情感需求。技术要点包括情感计算、对话系统和长期用户记忆管理；商业价值体现在心理健康市场庞大且需求未被满足；产品创新方向可聚焦于建立信任、隐私保护和有效的情感陪伴模式。产品经理应关注用户粘性、伦理合规及差异化功能设计。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48377854",
       "date": "2026-06-03"
     },
     {
@@ -100,6 +122,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48374079",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "agentic-chain-of-thought-steering-for-efficient-and-controllable-llm-reasoning",
+      "label": "Agentic Chain-of-Thought Steering for Efficient and Controllable LLM Reasoning",
+      "summary": "该论文提出了一种基于智能体(agentic)的思维链引导方法，旨在解决大语言模型在长链推理中token消耗高且缺乏推理时间控制的问题。通过动态引导思考长度，在保持准确性的同时显著提升效率，并允许用户根据场景灵活控制推理深度。技术核心是引入可学习的引导策略，平衡推理质量与成本。商业价值在于降低API调用开销，为产品提供更经济、可控的推理能力；产品创新点在于将推理控制权交给开发者，实现类似“推理预算”的灵活管理。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.03965v1",
       "date": "2026-06-03"
     },
     {
@@ -191,6 +224,72 @@
       "date": "2026-06-03"
     },
     {
+      "id": "using-reward-uncertainty-to-induce-diverse-behaviour-in-reinforcement-learning",
+      "label": "Using Reward Uncertainty to Induce Diverse Behaviour in Reinforcement Learning",
+      "summary": "这篇论文提出通过奖励不确定性（reward uncertainty）来在强化学习中诱导多样化行为，以克服传统RL倾向于确定性策略的局限。核心思想是将奖励本身视为带有不确定性的随机变量，从而鼓励模型探索更丰富的策略空间，避免陷入局部最优。该方法可应用于大语言模型微调、科学发现等需要生成多样性和创造性的场景，提升模型输出质量和探索效率。商业价值在于增强AI产品的创新能力和适应性，降低对人工先验的依赖。产品创新方向包括智能推荐系统、对话生成、药物分子设计等需要平衡探索与利用的领域。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.03962v1",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "language-models-need-sleep-learning-to-self-modify-and-consolidate-memories",
+      "label": "Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories",
+      "summary": "该论文提出让大语言模型（LLM）像人类一样通过“睡眠”阶段进行记忆巩固和自我修改，以解决长期依赖和知识更新问题。技术核心是设计一种离线学习机制，使模型在不丢失已有知识的前提下吸收新信息，推理时表现更稳定。对AI产品经理而言，这项研究有望催生具备持续学习能力、无需频繁重训练的个人助理或知识管家类产品，降低维护成本、提升用户体验。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.03979v1",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "quantifying-faithful-confidence-expression-in-large-reasoning-models",
+      "label": "Quantifying Faithful Confidence Expression in Large Reasoning Models",
+      "summary": "该论文聚焦于大型推理模型（LRMs）中置信度表达的真实性校准问题，即模型内在置信度与其语言表达置信度之间的对齐度。研究发现当前模型普遍存在“忠实校准失败”模式，导致过度自信或不确定表达失准。技术核心在于量化评估置信度表达的一致性，并探索改进策略。对AI产品经理而言，这直接影响产品可信度与用户信任：不准确的置信度表达会误导用户决策，尤其在医疗、金融等高风险场景。产品创新方向包括设计可解释的置信度反馈机制、开发基于校准的交互式纠错流程，以及构建更可靠的模型自我评估能力。成果可转化为更安全、更可信的AI助手产品。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.03969v1",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "self-refining-agentic-reinforcement-learning-for-vision-conditioned-uav-navigati",
+      "label": "Self-Refining Agentic Reinforcement Learning for Vision-Conditioned UAV Navigati",
+      "summary": "本文提出一种自优化智能体强化学习方法，用于视觉条件驱动的无人机自主导航。传统深度强化学习依赖人工设计的奖励函数和反复调参，耗时且成功率不稳定。该方法通过让智能体在交互过程中自动调整和优化自身策略，减少人工干预，提升导航任务的适应性与鲁棒性。对于产品经理而言，该技术可降低部署自主机器人系统的开发成本与维护难度，推动无人机在物流、巡检等场景的实用化，具有显著商业价值。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.03963v1",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "humanoid-gpt-scaling-data-and-structure-for-zero-shot-motion-tracking",
+      "label": "Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking",
+      "summary": "Humanoid-GPT 提出一种类GPT的因果注意力Transformer，在20亿帧的重定向运动语料上预训练，实现全身零样本运动跟踪。相比传统MLP跟踪器受限于数据稀疏和敏捷性-泛化权衡，该方法通过大规模预训练突破瓶颈，无需微调即可泛化到新动作。产品经理可关注其在人形机器人、数字人动画、虚拟现实等领域的应用潜力，显著降低定制开发成本，加速人机交互产品落地。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.03985v1",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses",
+      "label": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+      "summary": "网络安全公司Cyera尽管运营亏损，但正以120亿美元估值（ARR的80倍）接近完成3亿美元融资，由Evolution Equity Partners领投。这一高倍数映射出资本市场对AI驱动网络安全解决方案的强烈信心，也反映了AI产品在安全领域的高效检测与自动响应能力带来的商业溢价。对AI产品经理而言，此案例展示了如何通过AI技术创新在传统安全市场中建立护城河，并利用高增长指标获得资本青睐，为AI产品定价与融资策略提供参考。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+      "date": "2026-06-03"
+    },
+    {
       "id": "martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai",
       "label": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
       "summary": "马丁·斯科塞斯，这位全球最著名的在世导演之一，意外成为好莱坞拥抱AI的最新声音，但前提是仅将AI用于故事板制作。这一技术要点在于AI辅助电影前期视觉化，通过生成场景草图降低沟通成本与试错风险。商业价值上，传统导演的认可可能加速AI工具在创意产业的应用落地，打开新市场。产品创新上看，AI作为纯粹辅助工具而非替代人类创作，这种“Human-in-the-loop”模式更易被创意工作者接受，有助于AI产品经理设计尊重创作者主体性的工具。",
@@ -199,6 +298,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "formalizing-the-binding-problem",
+      "label": "Formalizing the Binding Problem",
+      "summary": "本文形式化了'绑定问题'，即系统如何将特征（如颜色、形状）与同一对象关联。该问题对多模态AI和视觉理解至关重要，直接影响产品能否准确解析复杂场景。技术要点在于构建能够高效编码绑定信息的表征框架，商业价值体现在提升自动驾驶、增强现实、智能摄像头等场景的理解能力。产品创新方向包括利用绑定机制改进对象检测与场景推理，实现更鲁棒的上下文感知交互。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.03976v1",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "qubric-co-designing-queries-and-rubrics-for-rl-beyond-verifiable-rewards",
+      "label": "QUBRIC: Co-Designing Queries and Rubrics for RL Beyond Verifiable Rewards",
+      "summary": "该论文提出 QUBRIC 框架，旨在通过联合设计查询（queries）和评分标准（rubrics）来改进强化学习在处理非可验证奖励任务上的表现。现有方法将查询分布视为固定，导致评分标准受限于查询结构。QUBRIC 通过协同优化查询与评分标准，突破这一瓶颈，从而提升模型在开放式任务中的泛化能力。该技术可应用于需要主观评估的场景，如内容生成、教学反馈等，具有提升 AI 产品评估精度与自学习能力的商业价值。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.03968v1",
       "date": "2026-06-03"
     },
     {
@@ -221,6 +342,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "neuron-populations-exhibit-divergent-selectivity-with-scale",
+      "label": "Neuron Populations Exhibit Divergent Selectivity with Scale",
+      "summary": "该论文研究神经网络中神经元群体随模型规模增大时的选择性变化，旨在将尺度定律从宏观损失扩展到神经元层面。通过分析“Rosetta神经元”（一类跨模型激活模式相似的神经元），发现神经元的选择性并非单调变化，而是出现分歧：部分神经元的选择性随规模增强，部分减弱。这一发现有助于理解大模型内部表征的演化规律，为模型设计、可解释性工具和高效训练提供理论指导。商业上，可辅助判断模型规模与特定能力的关系，优化资源配置；产品创新上，可催生面向模型内部行为监控的可视化工具。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.03990v1",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "show-hn-paseo-beautiful-open-source-coding-agent-interface",
+      "label": "Show HN: Paseo – Beautiful open-source coding agent interface",
+      "summary": "Paseo 是一款开源且界面美观的编码代理接口，旨在为开发者提供优雅的 AI 编程辅助体验。通过集成大语言模型，它能够理解自然语言指令并生成代码片段，支持多种编程语言。作为一款开源项目，Paseo 降低了企业使用 AI 编程助手的成本，同时允许社区贡献自定义功能，促进生态发展。其视觉设计注重用户体验，减少使用摩擦，适合嵌入到现有开发流程中。商业价值体现在对商业 Copilot 产品的去中心化替代，推动 AI 开发工具民主化。",
+      "pm_score": 0.38,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48377250",
       "date": "2026-06-03"
     },
     {
@@ -255,10 +398,43 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48375150",
       "date": "2026-06-03"
+    },
+    {
+      "id": "skill-rm-unifying-heterogeneous-evaluation-criteria-via-agent-skill",
+      "label": "Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill",
+      "summary": "Reward models (RMs) provide critical feedback signals for LLM post-training, notably in reinforced fine-tuning (RFT) and reinforcement learning (RL) pipelines. However, current reward evaluation relies on heterogeneous criteria such as rule-based verifiers, ground-truth references, procedural checkl",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.03980v1",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "alignatt4llm-fast-alignatt-for-decoder-only-llms-at-iwslt-2026-simultaneous-spee",
+      "label": "AlignAtt4LLM: Fast AlignAtt for Decoder-Only LLMs at IWSLT 2026 Simultaneous Spe",
+      "summary": "We describe AlignAtt4LLM, an IWSLT 2026 simultaneous speech translation system for English to German, Italian, and Chinese. The system is a synchronous cascade: Qwen3-ASR with forced alignment produces an incrementally updated source transcript, and Gemma-4 E4B-it translates that prefix under an MT-",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.03967v1",
+      "date": "2026-06-03"
+    },
+    {
+      "id": "imaginative-perception-tokens-enhance-spatial-reasoning-in-multimodal-language-m",
+      "label": "Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language M",
+      "summary": "Vision language models (VLMs) excel at many tasks but still struggle with spatial reasoning when critical information is not directly observable. Many such problems require imaginative perception: inferring what would be seen from an unseen viewpoint, tracing paths through occluded spaces, or integr",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.03988v1",
+      "date": "2026-06-03"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1130,
-    "edges": 82343
+    "real_nodes": 1148,
+    "edges": 83498
   }
 }

@@ -1326,3 +1326,23 @@
 - create: amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature.md
 - create: trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections.md
 - create: show-hn-build-your-own-ai-agent-cli-in-150-lines.md
+
+## [2026-06-03 12:02] sync v3 | 18 new | pillars: {'capabilities': 14, 'ecosystem': 1, 'patterns': 2, 'business': 1}
+- create: neuron-populations-exhibit-divergent-selectivity-with-scale.md
+- create: imaginative-perception-tokens-enhance-spatial-reasoning-in-multimodal-language-m.md
+- create: humanoid-gpt-scaling-data-and-structure-for-zero-shot-motion-tracking.md
+- create: skill-rm-unifying-heterogeneous-evaluation-criteria-via-agent-skill.md
+- create: language-models-need-sleep-learning-to-self-modify-and-consolidate-memories.md
+- create: formalizing-the-binding-problem.md
+- create: quantifying-faithful-confidence-expression-in-large-reasoning-models.md
+- create: qubric-co-designing-queries-and-rubrics-for-rl-beyond-verifiable-rewards.md
+- create: alignatt4llm-fast-alignatt-for-decoder-only-llms-at-iwslt-2026-simultaneous-spee.md
+- create: agentic-chain-of-thought-steering-for-efficient-and-controllable-llm-reasoning.md
+- create: self-refining-agentic-reinforcement-learning-for-vision-conditioned-uav-navigati.md
+- create: using-reward-uncertainty-to-induce-diverse-behaviour-in-reinforcement-learning.md
+- create: agentic-mfw.md
+- create: ai-outperforms-law-professors-in-stanford-law-study.md
+- create: show-hn-paseo-beautiful-open-source-coding-agent-interface.md
+- create: launch-hn-rudus-yc-p26-ai-for-concrete-contractors.md
+- create: more-than-6-out-of-10-people-turn-to-ai-for-psychological-support.md
+- create: cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses.md
