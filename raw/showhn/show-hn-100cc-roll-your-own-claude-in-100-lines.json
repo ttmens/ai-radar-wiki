@@ -1,0 +1,25 @@
+{
+  "title": "Show HN: 100cc - Roll your own Claude in 100 lines",
+  "score": 10,
+  "comments": 3,
+  "url": "https://github.com/yujqiao/100cc",
+  "hn_url": "https://news.ycombinator.com/item?id=48374308",
+  "tag": "ShowHN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "100cc是一个开源项目，仅用100行代码即可构建类似Claude的对话AI助手。它展示了极简架构下实现复杂AI能力的可能性，通过模块化设计支持快速定制和扩展。技术要点包括轻量级API封装、提示词工程优化和上下文管理简化，大幅降低AI应用开发门槛。商业价值体现在加速产品原型验证、降低中小企业AI接入成本，以及促进开发者社区创新。产品创新在于用最少代码实现可复用的AI助手框架，适合快速迭代和个性化部署。",
+  "pm_relevance": 8,
+  "concepts": [
+    "轻量级AI开发",
+    "快速原型",
+    "可定制对话框架"
+  ],
+  "entities": [
+    "100cc",
+    "Claude"
+  ],
+  "patterns": [
+    "Low-Code AI Development",
+    "Custom AI Assistant"
+  ]
+}

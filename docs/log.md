@@ -1350,3 +1350,16 @@
 ## [2026-06-03 18:01] sync v3 | 2 new | pillars: {'capabilities': 1, 'patterns': 1}
 - create: u-of-t-researchers-demonstrate-ai-worm-could-target-any-online-device.md
 - create: rsync-and-outrage.md
+
+## [2026-06-04 00:02] sync v3 | 11 new | pillars: {'capabilities': 7, 'patterns': 3, 'business': 1}
+- create: zylon-aiprivate-gpt.md
+- create: leiden-declaration-on-artificial-intelligence-and-mathematics.md
+- create: diy-bipedal-robot-used-pneumatic-air-muscles-instead-of-motors.md
+- create: 32gb-of-ddr5-now-costs-375-ai-shortage-continues-to-squeeze-pc-building.md
+- create: amazon-will-show-ai-product-images-when-you-search-for-some-reason.md
+- create: these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone.md
+- create: publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation.md
+- create: meta8217s-ai-agent-for-whatsapp-business-is-now-available-globally.md
+- create: coralogix-raises-200m-on-bet-that-someone-needs-to-watch-the-ai-agents.md
+- create: show-hn-tired-of-duct-taping-access-control-into-agent-prompts-heres-the-fix.md
+- create: show-hn-100cc-roll-your-own-claude-in-100-lines.md

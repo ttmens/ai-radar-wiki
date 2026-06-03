@@ -1,0 +1,27 @@
+---
+title: Coralogix raises $200M on bet that someone needs to watch the AI agents
+created: 2026-06-04
+updated: 2026-06-04
+type: entity
+pillar: patterns
+pm_score: 0.48
+tags: ["news", "techcrunch", "patterns"]
+sources: ["raw/techcrunch/coralogix-raises-200m-on-bet-that-someone-needs-to-watch-the-ai-agents.json"]
+---
+
+# Coralogix raises $200M on bet that someone needs to watch the AI agents
+
+## 中文摘要
+Coralogix 完成 2 亿美元 F 轮融资，估值升至 16 亿美元。该公司专注于为 AI 代理提供监控与可观测性服务，解决大模型落地时代理行为、性能与成本难以追踪的核心痛点。其平台可实时监测 AI 代理的决策链路、token 消耗及异常行为，帮助产品经理优化代理可靠性并控制运营支出。本轮融资距上一轮不到一年，反映了资本市场对 AI 运维基础设施的强烈需求。对产品经理而言，这意味着构建 AI 原生应用时需同步规划观测层，以支撑迭代与治理。
+
+## PM 关注指标
+- 🎯 PM Score: 0.48
+- 🏷️ Pillar: patterns
+- 🔑 Keywords: agent
+
+## 新闻摘要
+The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.
+
+## 链接
+- 🔗 Source: https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/
+- 📅 Published: Wed, 03 Jun 2026 13:02:51 +0000
