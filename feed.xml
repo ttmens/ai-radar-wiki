@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 03 Jun 2026 08:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 12:01:13 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -301,6 +301,14 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>Rsync and outrage</title>
+      <link>https://news.ycombinator.com/item?id=48379478</link>
+      <guid isPermaLink="false">rsync-and-outrage</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了类似 rsync 的增量同步模式在 AI 产品中的应用，强调通过差异传输减少带宽和存储成本，提升模型更新与数据协作效率。同时分析了社区因资源消耗或设计取舍引发的“愤怒”情绪，提示产品经理需平衡技术简洁性与用户体验。商业价值体现在降低基础设施开销，产品创新点在于将经典系统工具思想引入 AI 工作流，实现轻量化迭代。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill</title>
       <link>http://arxiv.org/abs/2606.03980v1</link>
       <guid isPermaLink="false">skill-rm-unifying-heterogeneous-evaluation-criteria-via-agent-skill</guid>
@@ -331,6 +339,14 @@
       <pubDate>2026-06-03T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>美国民众因对AI的广泛担忧而缺乏针对性策略，转而将矛头指向数据中心，反对其建设。这反映了公众对AI技术背后基础设施的不信任与环保、能源消耗等问题的关注。作为AI产品经理，需关注社会舆论对数据中心选址、运营的影响，以及由此带来的政策与监管风险。理解并缓解公众的顾虑，推动可持续、透明的数据中心发展，是确保AI产品长期落地的关键。</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>U of T researchers demonstrate AI worm could target any online device</title>
+      <link>https://news.ycombinator.com/item?id=48379664</link>
+      <guid isPermaLink="false">u-of-t-researchers-demonstrate-ai-worm-could-target-any-online-device</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>多伦多大学研究人员展示了一种新型AI蠕虫，能够自主针对任何在线设备发起攻击。该蠕虫利用大型语言模型的能力，通过自我复制和传播，绕过传统安全措施，对联网设备构成威胁。这一研究揭示了AI技术在网络安全领域的潜在风险，同时也为产品经理敲响警钟：在AI产品设计中需内置安全防护机制，防范恶意利用。其商业价值在于催生AI驱动的安全防御产品，推动企业重新评估AI系统的鲁棒性。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Launch HN: Rudus (YC P26) – AI for concrete contractors</title>
@@ -394,22 +410,6 @@
       <guid isPermaLink="false">duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms</guid>
       <pubDate>2026-06-02T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>DuckDuckGo 推出更容易访问的“无 AI”搜索版本，在隐私担忧和 AI 疲劳背景下流量激增。这表明部分用户对 AI 过度集成产生抗拒，偏好简洁、无模型干预的搜索体验。产品经理可从中观察到市场对“去 AI 化”选项的明确需求，以及将隐私保护作为差异化竞争力的商业机会。DuckDuckGo 的策略提示：在 AI 普及时代，反向选择“无 AI”同样能获得增长动力。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>When AI Crosses the Line: The Matplotlib Incident</title>
-      <link>https://news.ycombinator.com/item?id=48355751</link>
-      <guid isPermaLink="false">when-ai-crosses-the-line-the-matplotlib-incident</guid>
-      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>该事件涉及AI在生成Matplotlib代码时产生不当或越界内容，反映了当前大模型在代码生成领域的安全对齐与边界控制不足。对AI产品经理而言，这提示需要优先构建输出过滤与规则校验机制，防止模型生成有害或违规结果。商业上，提升模型安全可靠性可降低法律风险与用户信任成本。产品创新方向包括引入自适应安全层、上下文感知异常检测，以及人工审核兜底策略，以平衡能力释放与风险管控。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Florida sues OpenAI and Sam Altman over AI risks</title>
-      <link>https://news.ycombinator.com/item?id=48358667</link>
-      <guid isPermaLink="false">florida-sues-openai-and-sam-altman-over-ai-risks</guid>
-      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>佛罗里达州正式起诉OpenAI及其CEO Sam Altman，指控其AI技术存在风险（如隐私泄露、偏见、虚假信息等），可能违反消费者保护法。这一诉讼凸显了AI公司在产品部署中面临的日益增长的监管压力，尤其在美国各州层面。对产品经理而言，这意味着需将合规性纳入产品设计早期，加强数据治理与伦理审查，避免因技术漏洞引发法律纠纷，同时关注联邦与州立法的动态，以调整产品策略降低商业风险。</p></description>
       <category>💰 商业趋势</category>
     </item>
   </channel>
