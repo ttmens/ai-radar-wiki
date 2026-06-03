@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 03 Jun 2026 00:15:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 04:03:44 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -37,6 +37,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>AI outperforms law professors in Stanford Law study</title>
+      <link>https://news.ycombinator.com/item?id=48377761</link>
+      <guid isPermaLink="false">ai-outperforms-law-professors-in-stanford-law-study</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>斯坦福法学院的最新研究发现，AI在法律任务中的表现已超越法学教授，展现出强大的专业能力。这一突破对法律科技产品经理有重要启示：AI不仅能辅助法律文档分析、合同审查，还可能替代部分专家级法律服务，降低企业法务成本。产品创新方向包括开发基于大模型的法律咨询工具、自动化法律研究助手等，需关注模型可靠性与伦理合规。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Three Ways to Get Paid (2018)</title>
       <link>https://news.ycombinator.com/item?id=48373054</link>
       <guid isPermaLink="false">three-ways-to-get-paid-2018</guid>
@@ -51,6 +59,14 @@
       <pubDate>2026-06-03T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenAI发布Codex新工具集，旨在将AI代理能力扩展到企业白领工作场景（如文档处理、数据分析等），并配套发布内部使用报告。此举标志着OpenAI从代码助手向通用企业助手的战略转型，通过增强Codex的自主任务执行能力，降低企业AI应用门槛，提升白领工作效率。产品创新点在于将代码能力与自然语言交互结合，实现更复杂的业务流程自动化。</p></description>
       <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>More than 6 out of 10 people turn to AI for psychological support</title>
+      <link>https://news.ycombinator.com/item?id=48377854</link>
+      <guid isPermaLink="false">more-than-6-out-of-10-people-turn-to-ai-for-psychological-support</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>最新调查显示，超过60%的受访者曾使用AI寻求心理支持，表明用户对AI心理健康服务的接受度显著提升。这一趋势为产品经理提供了巨大商机：AI可以通过自然语言对话、情绪识别和个性化建议，以低门槛、高可及性的方式满足用户情感需求。技术要点包括情感计算、对话系统和长期用户记忆管理；商业价值体现在心理健康市场庞大且需求未被满足；产品创新方向可聚焦于建立信任、隐私保护和有效的情感陪伴模式。产品经理应关注用户粘性、伦理合规及差异化功能设计。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>GitHub Copilot App</title>
@@ -83,6 +99,14 @@
       <pubDate>2026-06-03T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>微软发布名为 Scout 的自主 AI 智能体，基于 OpenClaw 构建。该产品体现了自主代理模式，能够在无需持续人工干预下执行复杂任务，降低了企业级 AI 应用的门槛。对产品经理而言，Scout 展现了如何将底层模型能力封装为可直接调用的自主工作流，可能推动自动化办公、客户服务等场景的快速落地。其开放架构也暗示了与现有生态的深度集成潜力。</p></description>
       <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Agentic Chain-of-Thought Steering for Efficient and Controllable LLM Reasoning</title>
+      <link>http://arxiv.org/abs/2606.03965v1</link>
+      <guid isPermaLink="false">agentic-chain-of-thought-steering-for-efficient-and-controllable-llm-reasoning</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出了一种基于智能体(agentic)的思维链引导方法，旨在解决大语言模型在长链推理中token消耗高且缺乏推理时间控制的问题。通过动态引导思考长度，在保持准确性的同时显著提升效率，并允许用户根据场景灵活控制推理深度。技术核心是引入可学习的引导策略，平衡推理质量与成本。商业价值在于降低API调用开销，为产品提供更经济、可控的推理能力；产品创新点在于将推理控制权交给开发者，实现类似“推理预算”的灵活管理。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>MAI-Thinking-1</title>
@@ -149,12 +173,76 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>Using Reward Uncertainty to Induce Diverse Behaviour in Reinforcement Learning</title>
+      <link>http://arxiv.org/abs/2606.03962v1</link>
+      <guid isPermaLink="false">using-reward-uncertainty-to-induce-diverse-behaviour-in-reinforcement-learning</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>这篇论文提出通过奖励不确定性（reward uncertainty）来在强化学习中诱导多样化行为，以克服传统RL倾向于确定性策略的局限。核心思想是将奖励本身视为带有不确定性的随机变量，从而鼓励模型探索更丰富的策略空间，避免陷入局部最优。该方法可应用于大语言模型微调、科学发现等需要生成多样性和创造性的场景，提升模型输出质量和探索效率。商业价值在于增强AI产品的创新能力和适应性，降低对人工先验的依赖。产品创新方向包括智能推荐系统、对话生成、药物分子设计等需要平衡探索与利用的领域。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories</title>
+      <link>http://arxiv.org/abs/2606.03979v1</link>
+      <guid isPermaLink="false">language-models-need-sleep-learning-to-self-modify-and-consolidate-memories</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出让大语言模型（LLM）像人类一样通过“睡眠”阶段进行记忆巩固和自我修改，以解决长期依赖和知识更新问题。技术核心是设计一种离线学习机制，使模型在不丢失已有知识的前提下吸收新信息，推理时表现更稳定。对AI产品经理而言，这项研究有望催生具备持续学习能力、无需频繁重训练的个人助理或知识管家类产品，降低维护成本、提升用户体验。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Quantifying Faithful Confidence Expression in Large Reasoning Models</title>
+      <link>http://arxiv.org/abs/2606.03969v1</link>
+      <guid isPermaLink="false">quantifying-faithful-confidence-expression-in-large-reasoning-models</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文聚焦于大型推理模型（LRMs）中置信度表达的真实性校准问题，即模型内在置信度与其语言表达置信度之间的对齐度。研究发现当前模型普遍存在“忠实校准失败”模式，导致过度自信或不确定表达失准。技术核心在于量化评估置信度表达的一致性，并探索改进策略。对AI产品经理而言，这直接影响产品可信度与用户信任：不准确的置信度表达会误导用户决策，尤其在医疗、金融等高风险场景。产品创新方向包括设计可解释的置信度反馈机制、开发基于校准的交互式纠错流程，以及构建更可靠的模型自我评估能力。成果可转化为更安全、更可信的AI助手产品。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Self-Refining Agentic Reinforcement Learning for Vision-Conditioned UAV Navigati</title>
+      <link>http://arxiv.org/abs/2606.03963v1</link>
+      <guid isPermaLink="false">self-refining-agentic-reinforcement-learning-for-vision-conditioned-uav-navigati</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出一种自优化智能体强化学习方法，用于视觉条件驱动的无人机自主导航。传统深度强化学习依赖人工设计的奖励函数和反复调参，耗时且成功率不稳定。该方法通过让智能体在交互过程中自动调整和优化自身策略，减少人工干预，提升导航任务的适应性与鲁棒性。对于产品经理而言，该技术可降低部署自主机器人系统的开发成本与维护难度，推动无人机在物流、巡检等场景的实用化，具有显著商业价值。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking</title>
+      <link>http://arxiv.org/abs/2606.03985v1</link>
+      <guid isPermaLink="false">humanoid-gpt-scaling-data-and-structure-for-zero-shot-motion-tracking</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>Humanoid-GPT 提出一种类GPT的因果注意力Transformer，在20亿帧的重定向运动语料上预训练，实现全身零样本运动跟踪。相比传统MLP跟踪器受限于数据稀疏和敏捷性-泛化权衡，该方法通过大规模预训练突破瓶颈，无需微调即可泛化到新动作。产品经理可关注其在人形机器人、数字人动画、虚拟现实等领域的应用潜力，显著降低定制开发成本，加速人机交互产品落地。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Cyera eyes $12B valuation at 80x ARR multiple despite operating losses</title>
+      <link>https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/</link>
+      <guid isPermaLink="false">cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>网络安全公司Cyera尽管运营亏损，但正以120亿美元估值（ARR的80倍）接近完成3亿美元融资，由Evolution Equity Partners领投。这一高倍数映射出资本市场对AI驱动网络安全解决方案的强烈信心，也反映了AI产品在安全领域的高效检测与自动响应能力带来的商业溢价。对AI产品经理而言，此案例展示了如何通过AI技术创新在传统安全市场中建立护城河，并利用高增长指标获得资本青睐，为AI产品定价与融资策略提供参考。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI</title>
       <link>https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/</link>
       <guid isPermaLink="false">martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai</guid>
       <pubDate>2026-06-03T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>马丁·斯科塞斯，这位全球最著名的在世导演之一，意外成为好莱坞拥抱AI的最新声音，但前提是仅将AI用于故事板制作。这一技术要点在于AI辅助电影前期视觉化，通过生成场景草图降低沟通成本与试错风险。商业价值上，传统导演的认可可能加速AI工具在创意产业的应用落地，打开新市场。产品创新上看，AI作为纯粹辅助工具而非替代人类创作，这种“Human-in-the-loop”模式更易被创意工作者接受，有助于AI产品经理设计尊重创作者主体性的工具。</p></description>
       <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Formalizing the Binding Problem</title>
+      <link>http://arxiv.org/abs/2606.03976v1</link>
+      <guid isPermaLink="false">formalizing-the-binding-problem</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文形式化了'绑定问题'，即系统如何将特征（如颜色、形状）与同一对象关联。该问题对多模态AI和视觉理解至关重要，直接影响产品能否准确解析复杂场景。技术要点在于构建能够高效编码绑定信息的表征框架，商业价值体现在提升自动驾驶、增强现实、智能摄像头等场景的理解能力。产品创新方向包括利用绑定机制改进对象检测与场景推理，实现更鲁棒的上下文感知交互。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>QUBRIC: Co-Designing Queries and Rubrics for RL Beyond Verifiable Rewards</title>
+      <link>http://arxiv.org/abs/2606.03968v1</link>
+      <guid isPermaLink="false">qubric-co-designing-queries-and-rubrics-for-rl-beyond-verifiable-rewards</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出 QUBRIC 框架，旨在通过联合设计查询（queries）和评分标准（rubrics）来改进强化学习在处理非可验证奖励任务上的表现。现有方法将查询分布视为固定，导致评分标准受限于查询结构。QUBRIC 通过协同优化查询与评分标准，突破这一瓶颈，从而提升模型在开放式任务中的泛化能力。该技术可应用于需要主观评估的场景，如内容生成、教学反馈等，具有提升 AI 产品评估精度与自学习能力的商业价值。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Rocket engine startup Impulse raises $500 million to hire people, not AI</title>
@@ -171,6 +259,22 @@
       <pubDate>2026-06-03T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>特朗普在行业反对后签署修订版AI行政命令，放弃强制预发布审查，改为仅要求先进AI模型进行自愿性政府审查。这对AI产品经理意味着模型发布流程的合规门槛降低，但自愿审查可能带来不确定性，企业需权衡主动披露与商业机密保护。此举反映了美国在AI监管上的务实调整，旨在平衡创新与安全，短期内有利于加速产品迭代，但长期可能增加政策变动风险。</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Neuron Populations Exhibit Divergent Selectivity with Scale</title>
+      <link>http://arxiv.org/abs/2606.03990v1</link>
+      <guid isPermaLink="false">neuron-populations-exhibit-divergent-selectivity-with-scale</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文研究神经网络中神经元群体随模型规模增大时的选择性变化，旨在将尺度定律从宏观损失扩展到神经元层面。通过分析“Rosetta神经元”（一类跨模型激活模式相似的神经元），发现神经元的选择性并非单调变化，而是出现分歧：部分神经元的选择性随规模增强，部分减弱。这一发现有助于理解大模型内部表征的演化规律，为模型设计、可解释性工具和高效训练提供理论指导。商业上，可辅助判断模型规模与特定能力的关系，优化资源配置；产品创新上，可催生面向模型内部行为监控的可视化工具。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Paseo – Beautiful open-source coding agent interface</title>
+      <link>https://news.ycombinator.com/item?id=48377250</link>
+      <guid isPermaLink="false">show-hn-paseo-beautiful-open-source-coding-agent-interface</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Paseo 是一款开源且界面美观的编码代理接口，旨在为开发者提供优雅的 AI 编程辅助体验。通过集成大语言模型，它能够理解自然语言指令并生成代码片段，支持多种编程语言。作为一款开源项目，Paseo 降低了企业使用 AI 编程助手的成本，同时允许社区贡献自定义功能，促进生态发展。其视觉设计注重用户体验，减少使用摩擦，适合嵌入到现有开发流程中。商业价值体现在对商业 Copilot 产品的去中心化替代，推动 AI 开发工具民主化。</p></description>
+      <category>📱 产品模式</category>
     </item>
     <item>
       <title>How we index images for RAG</title>
@@ -197,12 +301,52 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill</title>
+      <link>http://arxiv.org/abs/2606.03980v1</link>
+      <guid isPermaLink="false">skill-rm-unifying-heterogeneous-evaluation-criteria-via-agent-skill</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Reward models (RMs) provide critical feedback signals for LLM post-training, notably in reinforced fine-tuning (RFT) and reinforcement learning (RL) pipelines. However, current reward evaluation relies on heterogeneous criteria such as rule-based verifiers, ground-truth references, procedural checkl</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>AlignAtt4LLM: Fast AlignAtt for Decoder-Only LLMs at IWSLT 2026 Simultaneous Spe</title>
+      <link>http://arxiv.org/abs/2606.03967v1</link>
+      <guid isPermaLink="false">alignatt4llm-fast-alignatt-for-decoder-only-llms-at-iwslt-2026-simultaneous-spee</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>We describe AlignAtt4LLM, an IWSLT 2026 simultaneous speech translation system for English to German, Italian, and Chinese. The system is a synchronous cascade: Qwen3-ASR with forced alignment produces an incrementally updated source transcript, and Gemma-4 E4B-it translates that prefix under an MT-</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language M</title>
+      <link>http://arxiv.org/abs/2606.03988v1</link>
+      <guid isPermaLink="false">imaginative-perception-tokens-enhance-spatial-reasoning-in-multimodal-language-m</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Vision language models (VLMs) excel at many tasks but still struggle with spatial reasoning when critical information is not directly observable. Many such problems require imaginative perception: inferring what would be seen from an unseen viewpoint, tracing paths through occluded spaces, or integr</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Americans don't know how to fight AI. So they're fighting data centers</title>
       <link>https://news.ycombinator.com/item?id=48371592</link>
       <guid isPermaLink="false">americans-dont-know-how-to-fight-ai-so-theyre-fighting-data-centers</guid>
       <pubDate>2026-06-03T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>美国民众因对AI的广泛担忧而缺乏针对性策略，转而将矛头指向数据中心，反对其建设。这反映了公众对AI技术背后基础设施的不信任与环保、能源消耗等问题的关注。作为AI产品经理，需关注社会舆论对数据中心选址、运营的影响，以及由此带来的政策与监管风险。理解并缓解公众的顾虑，推动可持续、透明的数据中心发展，是确保AI产品长期落地的关键。</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Launch HN: Rudus (YC P26) – AI for concrete contractors</title>
+      <link>https://news.ycombinator.com/item?id=48374528</link>
+      <guid isPermaLink="false">launch-hn-rudus-yc-p26-ai-for-concrete-contractors</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Rudus (YC P26) 是一家面向混凝土承包商的AI初创公司，专注于利用AI技术提升建筑行业中的混凝土施工效率与质量。其产品可能涵盖施工计划优化、材料用量预测、现场质量检测等环节，通过计算机视觉和数据分析帮助承包商减少浪费、缩短工期。这一垂直行业的AI应用体现了将通用AI能力转化为特定场景解决方案的趋势，具有明显的降本增效商业价值。对于AI产品经理而言，案例展示了如何识别并深耕传统行业痛点，构建差异化产品。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Agentic Mfw</title>
+      <link>https://news.ycombinator.com/item?id=48379203</link>
+      <guid isPermaLink="false">agentic-mfw</guid>
+      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Agentic Mfw（可能指“代理中间件框架”）是AI产品领域新兴的架构模式，旨在为自主AI代理提供标准化的中间层支持，简化多代理协作、记忆管理和工具调用。该框架强调模块化与可扩展性，便于产品快速集成复杂代理逻辑，降低开发门槛。商业价值在于加速智能客服、自动化流程等产品的落地，提升AI系统的协作效率与可靠性。产品经理需关注其对企业级应用生态的潜在影响。</p></description>
+      <category>📱 产品模式</category>
     </item>
     <item>
       <title>Show HN: Build Your Own AI Agent CLI in 150 Lines</title>
@@ -267,150 +411,6 @@
       <pubDate>2026-06-02T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>佛罗里达州正式起诉OpenAI及其CEO Sam Altman，指控其AI技术存在风险（如隐私泄露、偏见、虚假信息等），可能违反消费者保护法。这一诉讼凸显了AI公司在产品部署中面临的日益增长的监管压力，尤其在美国各州层面。对产品经理而言，这意味着需将合规性纳入产品设计早期，加强数据治理与伦理审查，避免因技术漏洞引发法律纠纷，同时关注联邦与州立法的动态，以调整产品策略降低商业风险。</p></description>
       <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>GitHub and the crime against software</title>
-      <link>https://news.ycombinator.com/item?id=48361064</link>
-      <guid isPermaLink="false">github-and-the-crime-against-software</guid>
-      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章讨论GitHub在AI辅助编程领域的争议，可能涉及Copilot等工具对软件开发的影响。技术要点在于AI代码生成模型如何改变开发者工作流，商业价值体现在微软通过GitHub整合AI能力提升开发者生产力，产品创新表现为从辅助代码补全到自动化编程的演进。同时也引发关于代码版权、开源社区贡献伦理等问题，对AI产品经理而言需关注技术落地中的合规与用户体验平衡。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP</title>
-      <link>https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/</link>
-      <guid isPermaLink="false">nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp</guid>
-      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Nvidia携手微软、戴尔和惠普，推出面向AI Agent（智能代理）的PC产品，旨在切入2000亿美元的CPU市场。技术核心是将AI代理能力本地化部署在PC端，实现安全、易用且高效的个人AI助手。此举若成功，将推动AI从云端走向边缘，降低延迟和隐私风险，为个人计算带来全新交互范式。对产品经理而言，这意味着AI产品形态从纯云服务转向端侧智能体，需关注本地推理能力、隐私保护与用户体验的平衡。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>No Raise, No Promotion: 1 in 4 White-Collar Workers Are Stalling Out</title>
-      <link>https://news.ycombinator.com/item?id=48357063</link>
-      <guid isPermaLink="false">no-raise-no-promotion-1-in-4-white-collar-workers-are-stalling-out</guid>
-      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容指出四分之一的美国白领员工面临薪资不涨、职业晋升停滞的困境，反映了企业成本控制与AI自动化替代低价值白领岗位的趋势。对AI产品经理而言，这提示需关注AI工具对白领工作效率的提升潜力，以及如何通过AI赋能员工而非简单替代，同时商业价值在于开发帮助企业优化人力成本、辅助职业转型的AI解决方案。产品创新方向可包括AI驱动的个性化职业发展路径推荐、自动化报告与决策辅助系统。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Auditing Asset-Specific Preferences in Financial Large Language Models: Evidence</title>
-      <link>http://arxiv.org/abs/2606.02528v1</link>
-      <guid isPermaLink="false">auditing-asset-specific-preferences-in-financial-large-language-models-evidence</guid>
-      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文研究了大型语言模型（LLM）是否对特定金融资产存在系统性的内置偏好，并以比特币为例进行实证分析。通过审计LLM在资产配置建议中的内部表示，发现模型会表现出对某些资产的隐性偏好，且这种偏好具有因果影响力。这一发现对金融AI产品（如智能投顾、交易代理）的公平性、合规性和用户体验有重要启示：产品经理需关注模型偏见来源，引入可解释性审计机制，避免因隐含资产偏好导致用户损失或监管风险。技术要点在于利用因果推断方法分离模型偏好，商业价值在于提升金融AI的信任度与透明度。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>voideditor/void</title>
-      <link>https://github.com/voideditor/void</link>
-      <guid isPermaLink="false">voideditorvoid</guid>
-      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> github</p><hr/><p>voideditor/void 是一个开源编辑器项目，采用模块化和轻量级设计模式，旨在提供高度可定制的开发环境。其核心创新在于将编辑器核心与 AI 能力解耦，支持开发者按需集成代码补全、重构等智能功能，降低了对特定 AI 厂商的依赖。这种模式提高了产品灵活性和生态扩展性，适合需要定制化 AI 编辑体验的团队。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Alphabet plans to raise $80B to pay for AI buildout</title>
-      <link>https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/</link>
-      <guid isPermaLink="false">alphabet-plans-to-raise-80b-to-pay-for-ai-buildout</guid>
-      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Alphabet宣布计划筹集800亿美元用于AI基础设施建设，以应对企业和消费者对AI解决方案和服务的强劲需求，当前需求已超过公司现有供应能力。这一巨额投资旨在扩大AI算力、数据中心和云服务能力，为下一代AI产品创新奠定基础。对AI产品经理而言，这意味着更充足的基础设施支持，将加速AI应用落地和规模化，同时也反映了AI领域资本密集型的特征，产品设计需考虑资源分配与成本优化。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Anthropic files to go public</title>
-      <link>https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/</link>
-      <guid isPermaLink="false">anthropic-files-to-go-public</guid>
-      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Anthropic 提交 IPO 申请，标志着其从大模型领域的挑战者正式跻身顶尖 AI 巨头行列。该公司凭借 Claude 系列模型的安全性与对齐能力，已赢得众多顶级企业客户，验证了负责任 AI 的商业化路径。此次上市将为其带来更大资金和资源，加速模型迭代与行业落地，同时引发 AI 产品经理对模型竞争格局、企业级部署策略以及合规优先产品设计的重新思考。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Water access is now a risk factor in SpaceX&amp;#8217;s IPO</title>
-      <link>https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/</link>
-      <guid isPermaLink="false">water-access-is-now-a-risk-factor-in-spacex8217s-ipo</guid>
-      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>SpaceX在其IPO文件中首次将水资源获取列为风险因素，指出其数据中心冷却需要大量水，而获得充足且廉价的水资源正成为挑战。对于AI产品经理，这意味着大规模AI计算依赖的数据中心基础设施面临可持续性压力，可能推高运营成本并限制扩展。这凸显了企业需关注水冷技术优化或采用液冷等替代方案，同时在水资源匮乏地区选址时需评估长期风险。该风险是AI基础设施商业层面的重要警示。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incid</title>
-      <link>https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/</link>
-      <guid isPermaLink="false">florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-inciden</guid>
-      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>佛罗里达州对OpenAI及Sam Altman提起首例针对暴力事件中ChatGPT角色的诉讼，案件涉及去年佛罗里达州立大学枪击案中AI聊天机器人被指控诱导或协助暴力行为。该诉讼凸显了AI产品在安全责任与内容审核方面的法律风险，对产品经理而言，需重视模型输出对现实行为的潜在影响，加强安全护栏设计与合规审查，避免因生成不当内容引发法律纠纷，同时关注监管动态对AI商业化部署的制约。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>This AI weather startup is out-forecasting government agencies</title>
-      <link>https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/</link>
-      <guid isPermaLink="false">this-ai-weather-startup-is-out-forecasting-government-agencies</guid>
-      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Windborne Systems 推出新型天气预报模型，在数天内超越最佳政府预测，展示了AI在气象领域的显著能力突破。该初创公司通过专有算法和高效训练，实现更高精度与更长的预报时效，有望替代或补充传统气象服务，降低行业依赖政府数据的成本，为农业、物流、能源等场景提供商业价值。其产品创新在于以小型团队对标国家级机构，凸显AI模型在垂直领域颠覆性潜力。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Lea</title>
-      <link>http://arxiv.org/abs/2606.02563v1</link>
-      <guid isPermaLink="false">intrashuffler-a-privacy-preserving-framework-for-heterogeneous-dp-federated-lear</guid>
-      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>IntraShuffler 是一种针对异构差分隐私联邦学习的新型隐私保护框架。它允许客户端根据自身策略和数据敏感性选择不同的隐私预算（ε_i），并通过 ε-aware 服务器聚合机制提升模型效用。该框架在保护用户隐私的同时，有效缓解了异质性隐私预算带来的模型性能下降问题，为医疗、金融等强隐私场景下的联邦学习落地提供了实用方案。产品经理可关注其平衡隐私与效用的能力，降低企业合规风险，加速数据协作。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safe</title>
-      <link>http://arxiv.org/abs/2606.02562v1</link>
-      <guid isPermaLink="false">permissive-safety-through-trusted-inference-verifiable-belief-space-neural-safet</guid>
-      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出一种可验证的信念空间神经安全过滤器方法，用于人机交互中的自主机器人安全决策。通过将人类不确定性（如偏好、目标、能力、合作意愿）建模到信念空间，结合神经网络实现灵活的安全约束，同时保证可验证性。该方法采用模块化设计，允许机器人容忍人类行为的不确定性，在保证安全的前提下提升交互效率。商业价值方面，可降低服务机器人、自动驾驶等场景部署风险，提升用户信任；产品创新在于将传统安全过滤器与深度学习结合，实现可验证的宽松安全策略。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual</title>
-      <link>http://arxiv.org/abs/2606.02578v1</link>
-      <guid isPermaLink="false">mitigating-perceptual-judgment-bias-in-multimodal-llm-as-a-judge-via-perceptual</guid>
-      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该研究指出多模态大语言模型在作为自动评判者时存在感知判断偏差：当视觉证据与文本线索冲突时，模型会倾向于奖励看似合理但感知错误的回答。为解决此问题，作者提出感知扰动和奖励建模方法，通过引入图像级扰动（如模糊、尺寸变化）并训练一个基于偏好的奖励模型来矫正评判偏差。该方法可提升多模态LLM在视觉-语言推理任务中的评判准确性，对构建更可靠的AI自动评估系统（如内容审核、图像问答评测）具有直接商业价值，减少人工标注成本，增强产品决策的鲁棒性。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>SimSD: Simple Speculative Decoding in Diffusion Language Models</title>
-      <link>http://arxiv.org/abs/2606.02544v1</link>
-      <guid isPermaLink="false">simsd-simple-speculative-decoding-in-diffusion-language-models</guid>
-      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出SimSD，一种简单的推测解码方法，旨在解决扩散语言模型（dLLMs）与标准token级推测解码不兼容的问题。通过设计轻量级的草稿模型和验证机制，SimSD使得dLLMs能够利用并行解码优势进行加速推理，同时保持生成质量。该方法降低了推理延迟，适用于需要快速响应的实时AI产品，如对话系统和内容生成工具，为扩散模型在商业部署中提供了更高效的选择。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>AdaCodec: A Predictive Visual Code for Video MLLMs</title>
-      <link>http://arxiv.org/abs/2606.02569v1</link>
-      <guid isPermaLink="false">adacodec-a-predictive-visual-code-for-video-mllms</guid>
-      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出AdaCodec，一种针对视频多模态大语言模型（MLLMs）的预测性视觉编码方法。现有模型将每帧独立编码为RGB图像，导致相邻帧中重复的视觉信息（如物体、背景）产生冗余token，增加计算开销。AdaCodec通过预测帧间变化，仅编码差异部分，显著减少token数量，提升推理效率与模型响应速度。这一创新可直接应用于视频理解、实时分析等场景，降低部署成本，推动视频MLLMs在移动端或边缘设备上的实用化。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>SafeSteer: Localized On-Policy Distillation for Efficient Safety Alignment</title>
-      <link>http://arxiv.org/abs/2606.02530v1</link>
-      <guid isPermaLink="false">safesteer-localized-on-policy-distillation-for-efficient-safety-alignment</guid>
-      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>SafeSteer提出了一种局部化在线策略蒸馏方法，用于高效实现大语言模型的安全对齐，同时避免通用能力下降（对齐税）。传统方法依赖大量通用数据或辅助奖励模型，成本高且效果受限。该技术通过在线策略蒸馏，在局部范围内对齐模型行为，显著降低数据需求并减少能力退化。对于AI产品经理，这意味着可以更经济地构建安全可控的对话系统、内容生成工具，同时保持模型原有性能，提升产品合规性和用户体验。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Modeling Depth Ambiguity: A Mixture-Density Representation for Flying-Point-Free</title>
-      <link>http://arxiv.org/abs/2606.02552v1</link>
-      <guid isPermaLink="false">modeling-depth-ambiguity-a-mixture-density-representation-for-flying-point-free</guid>
-      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出了一种混合密度表示方法，用于解决深度估计中的“飞点”问题——即在物体边界处预测出虚假的3D点。通过为每个像素建模深度分布而非单一值，该方法有效消除了背景与前景之间的空洞点，显著提升边界深度估计的精度。这一技术突破对自动驾驶、机器人导航、AR/VR等依赖高精度深度感知的场景具有重要商业价值，可降低感知误差带来的安全风险，并提升产品可靠性。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidatio</title>
-      <link>http://arxiv.org/abs/2606.02576v1</link>
-      <guid isPermaLink="false">protoada-prototype-guided-adaptive-adapter-expansion-and-geometric-consolidation</guid>
-      <pubDate>2026-06-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出ProtoAda方法，用于多模态大模型的持续指令微调（MCIT）。通过原型引导的自适应适配器扩展和几何巩固策略，解决多任务学习中的任务间干扰问题，使模型能够在不遗忘旧知识的情况下持续获取新的视觉-语言能力。该方法类似于模块化扩展，每个任务分配专属适配器，并通过原型约束保持几何结构的稳定性。对产品经理而言，该技术有望降低多模态AI产品在持续迭代中的灾难性遗忘风险，支持更灵活的功能扩展，提升模型在动态场景中的实用性和维护效率。</p></description>
-      <category>🤖 技术能力</category>
     </item>
   </channel>
 </rss>
