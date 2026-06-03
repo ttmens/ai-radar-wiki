@@ -1,7 +1,7 @@
 {
   "date": "2026-06-03",
-  "generated_at": "2026-06-03T12:02:00.506913+08:00",
-  "item_count": 39,
+  "generated_at": "2026-06-03T18:01:47.688213+08:00",
+  "item_count": 40,
   "items": [
     {
       "id": "gmail-thinks-im-stupid-so-i-left",
@@ -400,6 +400,17 @@
       "date": "2026-06-03"
     },
     {
+      "id": "rsync-and-outrage",
+      "label": "Rsync and outrage",
+      "summary": "本文探讨了类似 rsync 的增量同步模式在 AI 产品中的应用，强调通过差异传输减少带宽和存储成本，提升模型更新与数据协作效率。同时分析了社区因资源消耗或设计取舍引发的“愤怒”情绪，提示产品经理需平衡技术简洁性与用户体验。商业价值体现在降低基础设施开销，产品创新点在于将经典系统工具思想引入 AI 工作流，实现轻量化迭代。",
+      "pm_score": 0.31,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48379478",
+      "date": "2026-06-03"
+    },
+    {
       "id": "skill-rm-unifying-heterogeneous-evaluation-criteria-via-agent-skill",
       "label": "Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill",
       "summary": "Reward models (RMs) provide critical feedback signals for LLM post-training, notably in reinforced fine-tuning (RFT) and reinforcement learning (RL) pipelines. However, current reward evaluation relies on heterogeneous criteria such as rule-based verifiers, ground-truth references, procedural checkl",
@@ -434,7 +445,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1148,
-    "edges": 83498
+    "real_nodes": 1150,
+    "edges": 84649
   }
 }

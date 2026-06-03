@@ -1346,3 +1346,7 @@
 - create: launch-hn-rudus-yc-p26-ai-for-concrete-contractors.md
 - create: more-than-6-out-of-10-people-turn-to-ai-for-psychological-support.md
 - create: cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses.md
+
+## [2026-06-03 18:01] sync v3 | 2 new | pillars: {'capabilities': 1, 'patterns': 1}
+- create: u-of-t-researchers-demonstrate-ai-worm-could-target-any-online-device.md
+- create: rsync-and-outrage.md
