@@ -1,0 +1,28 @@
+{
+  "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+  "score": 12,
+  "comments": 2,
+  "url": "https://github.com/zaydmulani09/mnemo",
+  "hn_url": "https://news.ycombinator.com/item?id=48389586",
+  "tag": "ShowHN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "memory"
+  ],
+  "summary_cn": "Mnemo 是一个开源的本地优先 AI 记忆层，专为任何大语言模型设计。它基于 Rust、SQLite 和 petgraph 图数据库构建，能够持久化存储对话历史和上下文信息，支持图结构关系推理。产品经理可关注其本地优先架构带来的隐私、低延迟和离线可用性优势，以及通过图记忆增强 LLM 长上下文能力的潜力。商业价值在于减少对云端记忆服务的依赖，降低运营成本，同时提升 AI 应用的个性化与连续性。这是 AI 记忆层模式的重要实践。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI Memory",
+    "Local-First Architecture",
+    "Graph-based Memory"
+  ],
+  "entities": [
+    "Mnemo",
+    "SQLite",
+    "petgraph"
+  ],
+  "patterns": [
+    "Local-First AI",
+    "Memory Layer Pattern"
+  ]
+}

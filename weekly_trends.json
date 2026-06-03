@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-06-04T00:02:40.164297+08:00",
+  "generated_at": "2026-06-04T06:04:33.378902+08:00",
   "days_analyzed": 28,
   "pillar_trends": {
     "capabilities": {
-      "trend": "down",
-      "delta": -3,
-      "current": 1,
+      "trend": "stable",
+      "delta": 0,
+      "current": 4,
       "previous": 4,
       "has_data": true
     },
     "patterns": {
       "trend": "down",
-      "delta": -2,
-      "current": 3,
+      "delta": -1,
+      "current": 4,
       "previous": 5,
       "has_data": true
     },
@@ -25,8 +25,8 @@
     },
     "business": {
       "trend": "down",
-      "delta": -3,
-      "current": 1,
+      "delta": -1,
+      "current": 3,
       "previous": 4,
       "has_data": true
     }
@@ -245,7 +245,8 @@
       "days": [
         "2026-05-11",
         "2026-05-12",
-        "2026-05-13"
+        "2026-05-13",
+        "2026-06-04"
       ],
       "instances": [
         {
@@ -391,9 +392,41 @@
               "pillar": "capabilities"
             }
           ]
+        },
+        {
+          "date": "2026-06-04",
+          "title": "AI Agent 从实验走向企业级生产，监控与治理需求爆发",
+          "body": "今日多篇情报指向 AI Agent 正从概念验证进入生产环境，随之而来的可观测性、权限管理和企业级记忆成为刚需。Coralogix 的 2 亿美元融资和 Hyper 的“公司大脑”产品验证了这一趋势，而 Mnemo 和访问控制解耦方案则提供了技术路径。PM 应优先构建 Agent 的可靠性、成本透明度和安全治理能力。",
+          "type": "paradigm_shift",
+          "evidence": [
+            {
+              "id": "coralogix-raises-200m-on-bet-that-someone-needs-to-watch-the-ai-agents",
+              "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+              "score": 0.48,
+              "pillar": "patterns"
+            },
+            {
+              "id": "launch-hn-hyper-yc-p26-company-brain-to-power-agentic-development",
+              "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
+              "score": 0.38,
+              "pillar": "patterns"
+            },
+            {
+              "id": "show-hn-tired-of-duct-taping-access-control-into-agent-prompts-heres-the-fix",
+              "title": "Show HN: Tired of duct-taping access control into agent prompts. Here's the fix",
+              "score": 0.33,
+              "pillar": "patterns"
+            },
+            {
+              "id": "show-hn-mnemo-local-first-ai-memory-layer-for-any-llm-rust-sqlitepetgraph",
+              "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite...) ",
+              "score": 0.33,
+              "pillar": "patterns"
+            }
+          ]
         }
       ],
-      "lifecycle": "rising"
+      "lifecycle": "hot"
     },
     {
       "title": "AI商业动态：资本与市场持续升温",
@@ -775,13 +808,8 @@
       "date": "2026-06-02",
       "type": "growth_vs_risk",
       "description": "Growth validation detected alongside infrastructure/trust bottlenecks."
-    },
-    {
-      "date": "2026-06-04",
-      "type": "growth_vs_risk",
-      "description": "Growth validation detected alongside infrastructure/trust bottlenecks."
     }
   ],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-06-04**（28天），累计 **683** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI工具链从通用走向垂直专业化**。"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-06-04**（28天），累计 **692** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI工具链从通用走向垂直专业化**。"
 }

@@ -1363,3 +1363,16 @@
 - create: coralogix-raises-200m-on-bet-that-someone-needs-to-watch-the-ai-agents.md
 - create: show-hn-tired-of-duct-taping-access-control-into-agent-prompts-heres-the-fix.md
 - create: show-hn-100cc-roll-your-own-claude-in-100-lines.md
+
+## [2026-06-04 06:04] sync v3 | 11 new | pillars: {'patterns': 5, 'capabilities': 4, 'business': 1, 'ecosystem': 1}
+- create: pathwaycomllm-app.md
+- create: gemma-4-12b-a-unified-encoder-free-multimodal-model.md
+- create: ubers-1500month-ai-limit-is-a-useful-signal-for-ai-tool-pricing.md
+- create: brume-is-a-24-voice-multi-timbral-desktop-synth-for-the-cm5.md
+- create: launch-hn-hyper-yc-p26-company-brain-to-power-agentic-development.md
+- create: mathematicians-issue-warning-as-ai-rapidly-gains-ground.md
+- create: how-turkey-hacked-the-hair-transplant-industry.md
+- create: show-hn-ideogram-40-open-weight-93b-text-to-image-model.md
+- create: alphabet8217s-record-breaking-85b-raise-for-google8217s-ai-business-is-a-helluva.md
+- create: google8217s-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-in.md
+- create: show-hn-mnemo-local-first-ai-memory-layer-for-any-llm-rust-sqlitepetgraph.md
