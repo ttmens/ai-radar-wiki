@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 04 Jun 2026 00:15:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 04:03:08 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -27,6 +27,14 @@
       <pubDate>2026-06-04T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> hn</p><hr/><p>Uber 对内部 AI 工具设置了每月 1500 美元的使用上限，这一信号对 AI 产品定价具有重要启示。它表明企业在采购 AI 工具时，会关注成本控制与使用量限制的平衡。产品经理可借鉴此模式，设计分层定价或用量封顶的策略，以适应企业客户预算。该限制也反映了 AI 工具从免费/低价试用向企业级付费模式的转型，对定价策略和产品商业化路径有直接指导意义。</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Artificial intelligence is not conscious – Ted Chiang</title>
+      <link>https://news.ycombinator.com/item?id=48387270</link>
+      <guid isPermaLink="false">artificial-intelligence-is-not-conscious-ted-chiang</guid>
+      <pubDate>2026-06-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>该文章（Ted Chiang观点）强调当前人工智能系统并不具备意识，只是模式匹配与数据处理工具。对AI产品经理而言，核心要点在于避免将AI过度拟人化，应聚焦其实际能力边界而非追求意识模拟。商业价值体现在产品设计时规避误导性营销，降低用户期望落差；技术层面需明确区分能力提升与意识涌现，从而指导功能规划。产品创新方向包括开发更具可解释性和任务聚焦的AI助手，而非尝试构建有感知的系统，同时关注负责任AI的落地。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>zylon-ai/private-gpt</title>
@@ -85,6 +93,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Lovable signs multiyear deal with Google Cloud to up usage 5x, source says</title>
+      <link>https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/</link>
+      <guid isPermaLink="false">lovable-signs-multiyear-deal-with-google-cloud-to-up-usage-5x-source-says</guid>
+      <pubDate>2026-06-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Lovable与Google Cloud签署多年协议，将其在Google Cloud上的资源使用量扩大5倍，并扩展对Anthropic Claude模型的访问权限。这一合作标志着Lovable作为AI开发平台在云基础设施和模型多样性上的关键布局：通过深度绑定Google Cloud实现规模化运营，同时接入Claude增强多模型能力，降低对单一模型的依赖。对AI产品经理而言，该案例展示了如何通过云合作加速产品扩展，并利用多模型策略提升应用灵活性和竞争力。Lovable的商业模式从单一模型转向平台化+云生态，有望推动AI开发工具的市场渗透。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Coralogix raises $200M on bet that someone needs to watch the AI agents</title>
       <link>https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/</link>
       <guid isPermaLink="false">coralogix-raises-200m-on-bet-that-someone-needs-to-watch-the-ai-agents</guid>
@@ -109,6 +125,22 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>The ways we contain Claude across products</title>
+      <link>https://news.ycombinator.com/item?id=48392082</link>
+      <guid isPermaLink="false">the-ways-we-contain-claude-across-products</guid>
+      <pubDate>2026-06-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic 探讨了在多产品线中管控其 AI 助手 Claude 的方法，包括产品边界划分、安全护栏与使用限制。通过在不同应用场景（如聊天、编程、写作）中实施差异化的内容策略，平衡用户体验与风险控制。技术上采用分层提示工程与强化学习反馈，确保行为一致性。商业上通过产品矩阵覆盖多元需求，降低部署风险，为 AI 产品经理提供规模化治理的参考框架。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>I built a vulnerable app and spent $1,500 seeing if LLMs could hack it</title>
+      <link>https://news.ycombinator.com/item?id=48392343</link>
+      <guid isPermaLink="false">i-built-a-vulnerable-app-and-spent-1500-seeing-if-llms-could-hack-it</guid>
+      <pubDate>2026-06-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该文章作者构建了一个存在漏洞的应用程序，并花费1500美元测试LLM（如GPT系列）能否自主发现并利用这些漏洞进行黑客攻击。这属于LLM在安全领域的红队测试（Red Teaming）能力评估，旨在探索AI自主渗透测试的可行性和成本效益。对于AI产品经理而言，这提示了LLM在自动化安全审计、漏洞挖掘方面的潜在商业价值，可降低传统安全测试的人力成本，但需关注模型可靠性、误报率及伦理边界。产品创新方向包括开发AI安全助手或红队自动化平台。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>How turkey hacked the hair-transplant industry</title>
       <link>https://news.ycombinator.com/item?id=48353477</link>
       <guid isPermaLink="false">how-turkey-hacked-the-hair-transplant-industry</guid>
@@ -123,6 +155,14 @@
       <pubDate>2026-06-04T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> github</p><hr/><p>Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes</title>
+      <link>https://news.ycombinator.com/item?id=48392004</link>
+      <guid isPermaLink="false">failing-grades-soar-with-ai-usage-dwindling-math-skills-in-berkeley-cs-classes</guid>
+      <pubDate>2026-06-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>伯克利大学计算机科学课程中发现，学生广泛使用AI工具（如ChatGPT）辅助完成作业后，数学和编程基础技能显著下降，不及格率大幅上升。该现象揭示了AI滥用可能削弱核心学习能力，对教育科技产品设计提出警示：过度依赖AI可能导致技能退化。产品经理需平衡AI辅助与学习效果，避免工具性替代。商业价值在于推动AI教育产品走向“辅助而非替代”模式，如设计AI导师系统或自适应评估机制。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Launch HN: Hyper (YC P26) – Company brain to power agentic development</title>
@@ -170,6 +210,14 @@
       <guid isPermaLink="false">show-hn-100cc-roll-your-own-claude-in-100-lines</guid>
       <pubDate>2026-06-04T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>100cc是一个开源项目，仅用100行代码即可构建类似Claude的对话AI助手。它展示了极简架构下实现复杂AI能力的可能性，通过模块化设计支持快速定制和扩展。技术要点包括轻量级API封装、提示词工程优化和上下文管理简化，大幅降低AI应用开发门槛。商业价值体现在加速产品原型验证、降低中小企业AI接入成本，以及促进开发者社区创新。产品创新在于用最少代码实现可复用的AI助手框架，适合快速迭代和个性化部署。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Demand Is Booming for New No Tech, Repairable Tractor</title>
+      <link>https://news.ycombinator.com/item?id=48391136</link>
+      <guid isPermaLink="false">demand-is-booming-for-new-no-tech-repairable-tractor</guid>
+      <pubDate>2026-06-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章报道了新型‘无科技、可维修’拖拉机的需求激增。这类拖拉机摒弃复杂电子系统，采用机械式结构和模块化设计，使农民能自行维修，降低依赖厂商和昂贵的电子部件。技术要点在于简化设计、增强耐用性；商业价值在于应对农业机械维修成本高、供应链脆弱等问题，契合可持续农业和‘维修权’运动。产品创新体现在平衡低技术与高实用性，为农业科技提供反思路径。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -362,54 +410,6 @@
       <guid isPermaLink="false">language-models-need-sleep-learning-to-self-modify-and-consolidate-memories</guid>
       <pubDate>2026-06-03T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出让大语言模型（LLM）像人类一样通过“睡眠”阶段进行记忆巩固和自我修改，以解决长期依赖和知识更新问题。技术核心是设计一种离线学习机制，使模型在不丢失已有知识的前提下吸收新信息，推理时表现更稳定。对AI产品经理而言，这项研究有望催生具备持续学习能力、无需频繁重训练的个人助理或知识管家类产品，降低维护成本、提升用户体验。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Quantifying Faithful Confidence Expression in Large Reasoning Models</title>
-      <link>http://arxiv.org/abs/2606.03969v1</link>
-      <guid isPermaLink="false">quantifying-faithful-confidence-expression-in-large-reasoning-models</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文聚焦于大型推理模型（LRMs）中置信度表达的真实性校准问题，即模型内在置信度与其语言表达置信度之间的对齐度。研究发现当前模型普遍存在“忠实校准失败”模式，导致过度自信或不确定表达失准。技术核心在于量化评估置信度表达的一致性，并探索改进策略。对AI产品经理而言，这直接影响产品可信度与用户信任：不准确的置信度表达会误导用户决策，尤其在医疗、金融等高风险场景。产品创新方向包括设计可解释的置信度反馈机制、开发基于校准的交互式纠错流程，以及构建更可靠的模型自我评估能力。成果可转化为更安全、更可信的AI助手产品。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Self-Refining Agentic Reinforcement Learning for Vision-Conditioned UAV Navigati</title>
-      <link>http://arxiv.org/abs/2606.03963v1</link>
-      <guid isPermaLink="false">self-refining-agentic-reinforcement-learning-for-vision-conditioned-uav-navigati</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出一种自优化智能体强化学习方法，用于视觉条件驱动的无人机自主导航。传统深度强化学习依赖人工设计的奖励函数和反复调参，耗时且成功率不稳定。该方法通过让智能体在交互过程中自动调整和优化自身策略，减少人工干预，提升导航任务的适应性与鲁棒性。对于产品经理而言，该技术可降低部署自主机器人系统的开发成本与维护难度，推动无人机在物流、巡检等场景的实用化，具有显著商业价值。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking</title>
-      <link>http://arxiv.org/abs/2606.03985v1</link>
-      <guid isPermaLink="false">humanoid-gpt-scaling-data-and-structure-for-zero-shot-motion-tracking</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>Humanoid-GPT 提出一种类GPT的因果注意力Transformer，在20亿帧的重定向运动语料上预训练，实现全身零样本运动跟踪。相比传统MLP跟踪器受限于数据稀疏和敏捷性-泛化权衡，该方法通过大规模预训练突破瓶颈，无需微调即可泛化到新动作。产品经理可关注其在人形机器人、数字人动画、虚拟现实等领域的应用潜力，显著降低定制开发成本，加速人机交互产品落地。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Cyera eyes $12B valuation at 80x ARR multiple despite operating losses</title>
-      <link>https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/</link>
-      <guid isPermaLink="false">cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>网络安全公司Cyera尽管运营亏损，但正以120亿美元估值（ARR的80倍）接近完成3亿美元融资，由Evolution Equity Partners领投。这一高倍数映射出资本市场对AI驱动网络安全解决方案的强烈信心，也反映了AI产品在安全领域的高效检测与自动响应能力带来的商业溢价。对AI产品经理而言，此案例展示了如何通过AI技术创新在传统安全市场中建立护城河，并利用高增长指标获得资本青睐，为AI产品定价与融资策略提供参考。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI</title>
-      <link>https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/</link>
-      <guid isPermaLink="false">martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>马丁·斯科塞斯，这位全球最著名的在世导演之一，意外成为好莱坞拥抱AI的最新声音，但前提是仅将AI用于故事板制作。这一技术要点在于AI辅助电影前期视觉化，通过生成场景草图降低沟通成本与试错风险。商业价值上，传统导演的认可可能加速AI工具在创意产业的应用落地，打开新市场。产品创新上看，AI作为纯粹辅助工具而非替代人类创作，这种“Human-in-the-loop”模式更易被创意工作者接受，有助于AI产品经理设计尊重创作者主体性的工具。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Formalizing the Binding Problem</title>
-      <link>http://arxiv.org/abs/2606.03976v1</link>
-      <guid isPermaLink="false">formalizing-the-binding-problem</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文形式化了'绑定问题'，即系统如何将特征（如颜色、形状）与同一对象关联。该问题对多模态AI和视觉理解至关重要，直接影响产品能否准确解析复杂场景。技术要点在于构建能够高效编码绑定信息的表征框架，商业价值体现在提升自动驾驶、增强现实、智能摄像头等场景的理解能力。产品创新方向包括利用绑定机制改进对象检测与场景推理，实现更鲁棒的上下文感知交互。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
