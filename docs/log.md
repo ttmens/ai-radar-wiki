@@ -1376,3 +1376,11 @@
 - create: alphabet8217s-record-breaking-85b-raise-for-google8217s-ai-business-is-a-helluva.md
 - create: google8217s-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-in.md
 - create: show-hn-mnemo-local-first-ai-memory-layer-for-any-llm-rust-sqlitepetgraph.md
+
+## [2026-06-04 12:01] sync v3 | 6 new | pillars: {'capabilities': 6}
+- create: i-built-a-vulnerable-app-and-spent-1500-seeing-if-llms-could-hack-it.md
+- create: failing-grades-soar-with-ai-usage-dwindling-math-skills-in-berkeley-cs-classes.md
+- create: the-ways-we-contain-claude-across-products.md
+- create: artificial-intelligence-is-not-conscious-ted-chiang.md
+- create: demand-is-booming-for-new-no-tech-repairable-tractor.md
+- create: lovable-signs-multiyear-deal-with-google-cloud-to-up-usage-5x-source-says.md
