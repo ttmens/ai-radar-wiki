@@ -1,0 +1,33 @@
+{
+  "title": "Streaming Communication in Multi-Agent Reasoning",
+  "summary": "Multi-agent reasoning systems adopt a \"generate-then-transfer\" paradigm that forces end-to-end latency to scale linearly with pipeline depth. We introduce StreamMA, a multi-agent reasoning system that streams each reasoning step to downstream agents as soon as it is generated, pipelining adjacent agents and thus reducing latency. Surprisingly, this pipelining also improves effectiveness: because multi-step reasoning quality is non-uniform and early steps are more reliable than later ones, working with these reliable early steps instead of the full chain prevents error-prone late steps from misleading downstream agents. We formalize both advantages with the first closed-form joint analysis of stream, serial, and single protocols, deriving the effectiveness ordering, speedup upper bound, and cost ratio. Across eight reasoning benchmarks spanning mathematics, science, and code, two frontier LLMs (Claude Opus 4.6 and GPT-5.4), and three topologies (Chain, Tree, Graph), StreamMA outperforms both baselines (avg. +7.3 pp, max +22.4 pp on HMMT 2026; Claude Opus 4.6-high). Beyond these contributions, we discover a \"step-level scaling law\": increasing per-agent steps consistently improves both effectiveness and efficiency, a new scaling dimension orthogonal to and composable with agent-count scaling.",
+  "url": "http://arxiv.org/abs/2606.05158v1",
+  "authors": [
+    "Zhen Yang",
+    "Xiaogang Xu",
+    "Wen Wang",
+    "Cong Chen",
+    "Xander Xu"
+  ],
+  "published": "2026-06-03T17:57:04Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "latency",
+    "benchmark",
+    "reasoning",
+    "scaling law"
+  ],
+  "summary_cn": "多智能体推理系统传统采用“生成-再传输”范式，导致端到端延迟随流水线深度线性增长。StreamMA 提出流式通信机制，每个推理步骤一旦生成即立即传输给下游智能体，实现相邻智能体间的流水线并行。该技术显著降低多智能体协作的响应延迟，提升实时性，适用于复杂推理任务如对话系统、代码生成等产品场景。商业价值在于支持更高效的 agent 协作，减少等待时间，优化用户体验，并可能降低算力消耗。产品创新点在于将流式思想引入多智能体推理，打破串行瓶颈。",
+  "pm_relevance": 8,
+  "concepts": [
+    "多智能体推理",
+    "流式通信",
+    "流水线并行"
+  ],
+  "entities": [],
+  "patterns": [
+    "Streaming Pattern",
+    "Pipeline Pattern"
+  ]
+}

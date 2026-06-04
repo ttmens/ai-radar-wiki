@@ -1,0 +1,30 @@
+{
+  "title": "Reinforcement Learning from Rich Feedback with Distributional DAgger",
+  "summary": "Reasoning models have advanced rapidly, but the dominant reinforcement learning from verifiable rewards (RLVR) recipe remains surprisingly narrow: sample many responses and reward each with a single bit indicating whether the final answer is correct. Yet many settings provide rich feedback, including execution traces, tool outputs, expert corrections, and model self-evaluations. We study how to use such feedback through a distributional variant of the classic imitation learning algorithm DAgger, where the learner has local access to an expert distribution on states visited by the current policy. This yields a simple forward cross-entropy objective that admits a blackbox expert and whose sequence-level gradient {conduct rich credit assignment by propagating} future expert-student disagreement back to earlier decisions. We show that prior RL with self-distillation objectives based on reverse KL or Jensen-Shannon fail to guarantee monotonic policy improvement: even when the expert has higher reward, their updates may increase probability on worse actions. In contrast, we show that forward cross-entropy admits monotonic policy improvement and enjoys guarantees on regret. We further show that our objective optimizes a lower bound on teacher-weighted likelihood of success, leading to improved Pass@N. Empirically, our approach, DistIL, improves over RLVR and RL with self-distillation baselines across a variety of domains: scientific reasoning, coding, and solving hard mathematical problems.",
+  "url": "http://arxiv.org/abs/2606.05152v1",
+  "authors": [
+    "Rishabh Agrawal",
+    "Jacob Fein-Ashley",
+    "Paria Rashidinejad"
+  ],
+  "published": "2026-06-03T17:54:04Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "reasoning",
+    "distillation",
+    "gradient"
+  ],
+  "summary_cn": "本文提出Distributional DAgger方法，旨在突破传统强化学习仅依赖二元正确性反馈的局限，利用更丰富的反馈信号（如部分正确、推理过程质量）来训练推理模型。该方法通过分布式的数据聚合策略，使模型从细粒度反馈中更高效学习，提升复杂推理任务表现。对产品经理而言，这意味着可训练出更聪明、更稳健的AI助手，尤其在需要逐步推理或用户交互反馈的场景（如代码生成、教育问答）中具有商业价值，能显著降低人工标注成本并提升用户体验。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Reinforcement Learning from Rich Feedback",
+    "Distributional DAgger",
+    "RLVR改进"
+  ],
+  "entities": [],
+  "patterns": [
+    "反馈驱动训练",
+    "细粒度奖励机制"
+  ]
+}

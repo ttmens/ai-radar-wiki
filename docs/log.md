@@ -1388,3 +1388,23 @@
 ## [2026-06-04 18:03] sync v3 | 2 new | pillars: {'capabilities': 2}
 - create: uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases.md
 - create: show-hn-uruky-eu-based-kagi-alternative-now-has-image-search-and-url-rewrites.md
+
+## [2026-06-05 00:02] sync v3 | 18 new | pillars: {'capabilities': 17, 'ecosystem': 1}
+- create: stride-training-data-attribution-via-sparse-recovery-from-subset-perturbations.md
+- create: streaming-communication-in-multi-agent-reasoning.md
+- create: reinforcement-learning-from-rich-feedback-with-distributional-dagger.md
+- create: multi-column-rbf-neural-network-using-adaptive-and-non-adaptive-particle-swarm-o.md
+- create: an-open-source-two-stage-computer-vision-pipeline-for-fine-grained-vehicle-class.md
+- create: failed-reasoning-traces-tell-you-what-is-fixable-but-not-by-reading-them.md
+- create: gem-nr-geometry-aware-multi-view-editing-for-nonrigid-scene-changes.md
+- create: bbomix-a-tabular-benchmark-for-hyperparameter-optimization-of-unsupervised-biolo.md
+- create: generating-financial-time-series-by-matching-random-convolutional-features.md
+- create: activation-based-active-learning-for-in-context-learning-challenges-and-insights.md
+- create: deep-embedded-multiplicative-dmd-for-algebra-preserving-koopman-learning.md
+- create: towards-efficient-and-evidence-grounded-mobility-prediction-with-llm-driven-agen.md
+- create: us-army-corps-of-engineers-bay-model.md
+- create: claude-code-and-codex-can-have-real-time-conversation-via-git.md
+- create: is-silicon-valley-ready-to-put-robots-in-people8217s-homes-hello-robot-is.md
+- create: apple-touts-14-trillion-in-app-store-billings-and-sales-90-without-a-commission.md
+- create: show-hn-prela-purely-algebraic-relation-combinators.md
+- create: show-hn-boxesdev-ditch-localhost-run-claude-code-and-codex-in-the-cloud.md

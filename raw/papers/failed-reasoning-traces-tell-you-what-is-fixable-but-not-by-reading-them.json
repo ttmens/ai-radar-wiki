@@ -1,0 +1,34 @@
+{
+  "title": "Failed Reasoning Traces Tell You What Is Fixable (But Not by Reading Them)",
+  "summary": "When post-trained language models fail on reasoning problems, the common test-time-scaling response is to spend more compute on additional attempts, and the failed traces play no further role. We argue this discards a crucial signal; some failures come from unlucky sampling, where more rollouts help, while others are structural and resist resampling regardless of budget. We propose that failed traces encode recoverability structure: the inference-time signature of which test-time interventions can rescue a given failure. Three problem-level trajectory features, derived from the structure of available interventions, recover this structure from the distributional signature of failed rollouts, not their text. They cluster failures into stable regimes, characterize the failure topography of different post-training methods ($84.3{\\pm}4.3\\%$ accuracy, $+20\\%$ over a majority-class baseline), and support a training-free routing rule that lifts rescue by $+12.2\\%$ on the deployment-relevant Steerable-Hard subset (failures where retry is insufficient and a bounded intervention is reachable). The features and the routing rule transfer across two cross-family probes. The same three features thus convert failed traces from discarded data into a diagnostic object, supporting test-time routing and post-training analysis without training-time or weight-space access.",
+  "url": "http://arxiv.org/abs/2606.05145v1",
+  "authors": [
+    "Nizar Islah",
+    "Istabrak Abbes",
+    "Irina Rish",
+    "Sarath Chandar",
+    "Eilif B. Muller"
+  ],
+  "published": "2026-06-03T17:50:26Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "reasoning",
+    "training",
+    "accuracy",
+    "post-training"
+  ],
+  "summary_cn": "该论文指出，后训练语言模型在推理任务失败时，通常采用增加计算量进行多次尝试的测试时扩展策略，但丢弃了失败轨迹。作者认为失败轨迹包含了可修复的宝贵信号，部分失败源于采样不佳，更多尝试即可解决。产品经理应关注如何利用失败轨迹更高效地定位模型薄弱环节，而非单纯堆算力，这能降低推理成本并加速模型迭代。",
+  "pm_relevance": 8,
+  "concepts": [
+    "失败轨迹分析",
+    "测试时扩展",
+    "推理错误定位"
+  ],
+  "entities": [],
+  "patterns": [
+    "Test-Time Scaling Strategy",
+    "Self-Correction Pattern"
+  ]
+}

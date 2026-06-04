@@ -1,0 +1,33 @@
+{
+  "title": "BBOmix: A Tabular Benchmark for Hyperparameter Optimization of Unsupervised Biological Representation Learning",
+  "summary": "The rapid advancement of high-throughput sequencing has led to large, high-dimensional omics datasets. Deep unsupervised learning architectures, particularly Autoencoders (AEs), are increasingly used for dimensionality reduction and representation learning in this domain. However, AEs are highly sensitive to architectural choices and hyperparameters, and unsupervised optimization typically relies on reconstruction loss, which may be a poor proxy for downstream utility. Exhaustive hyperparameter optimization (HPO) is computationally expensive, leading researchers to frequently rely on suboptimal default configurations. To democratize access to large-scale unsupervised HPO research, we introduce $\\textbf{BBOmix}$, the first open-source tabular benchmark for unsupervised representation learning on real-world biological data. Our benchmark includes 105,000 evaluations across four AE architectures and seven multi-omics modalities from the TCGA and SCHC datasets. We quantify the correlation between reconstruction loss and downstream task performance and provide an extensive evaluation of state-of-the-art single-fidelity, multi-fidelity, and transfer learning HPO methods, establishing a rigorous baseline for future research in unsupervised biological representation learning.",
+  "url": "http://arxiv.org/abs/2606.05139v1",
+  "authors": [
+    "Luca Thale-Bombien",
+    "Jan Ewald",
+    "Ralf König",
+    "Aaron Klein"
+  ],
+  "published": "2026-06-03T17:48:31Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "throughput",
+    "parameter",
+    "optimization",
+    "dataset"
+  ],
+  "summary_cn": "该论文提出了BBOmix，一个用于无监督生物表示学习中超参数优化的表格基准。随着高通量测序技术的发展，高维组学数据集日益庞大，自动编码器等深度无监督学习架构被广泛用于降维和表示学习，但其性能高度依赖超参数配置。BBOmix通过构建标准化的表格基准，评估不同超参数优化方法的效果，旨在降低自动编码器在生物领域的应用门槛。该基准为AI产品经理提供了量化参考，有助于加速生物信息学产品的模型调优和部署，提升开发效率。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Autoencoder",
+    "Hyperparameter Optimization",
+    "Benchmark"
+  ],
+  "entities": [],
+  "patterns": [
+    "Benchmarking Pattern",
+    "Unsupervised Representation Learning"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Multi-Column RBF Neural Network Using Adaptive and Non-Adaptive Particle Swarm Optimization",
+  "summary": "The radial basis function neural network (RBFN) trained with a gradient descending algorithm provides an effective fully connected structure in both shallow and deep networks. The error correction (ErrCor), a state-of-the-art gradient-based training method, selects optimal hidden units to improve accuracy. Alternatively, as a population-based algorithm, the particle swarm optimization algorithm (PSO) uses the swarm experience to optimize RBFN parameters, offering global search and robustness to local minima. Adaptive PSO (APSO) has emerged as an improved variant of PSO. APSO algorithm improves convergence speed by dynamically adjusting swarm parameters during optimization. Both ErrCor and PSO demonstrate improved results and competitive convergence. However, with large datasets, these methods face scalability challenges such as excessive kernel computations and large hidden layer structures. A recent multi-column RBFN approach (MCRN) improves ErrCor performance by deploying small RBFNs in a parallel system. Inspired by MCRN's success, we propose two novel approaches to improve PSO performance: the multi-column RBFN with PSO (MC-PSO) and the multi-column RBFN with APSO (MC-APSO). These methods introduce parallel RBFN structures trained using evolutionary swarm methods. Each RBFN is independently trained on a specific spatial subset of the dataset using either PSO or APSO algorithms. These resulting specialist-trained RBFNs are tailored to their respective subsets. During testing, only selected RBFNs, where the test instance neighbors are located, contribute to the multi-column output. This specialization improves accuracy, while parallelism enhances speed. We evaluate the proposed methods on various benchmark datasets. The MC-PSO and MC-APSO outperform ErrCor, PSO, APSO, and MCRN in terms of accuracy and recall. They also demonstrate faster training and testing times in most experiments.",
+  "url": "http://arxiv.org/abs/2606.05150v1",
+  "authors": [
+    "Ammar Hoori",
+    "Yuichi Motai"
+  ],
+  "published": "2026-06-03T17:53:48Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "training",
+    "neural network",
+    "parameter",
+    "accuracy",
+    "recall",
+    "gradient",
+    "optimization",
+    "dataset"
+  ],
+  "summary_cn": "本文提出一种基于自适应与非自适应粒子群优化的多列径向基函数神经网络(RBFN)训练方法。传统梯度下降算法在训练RBFN时容易陷入局部最优，而该研究通过粒子群优化(PSO)自适应选择隐层神经元，结合误差校正机制提升网络收敛速度与泛化能力。其多列结构增强了模型对复杂模式的学习能力，适用于分类与回归任务。商业价值在于能更高效地训练轻量级神经网络，减少对大规模标注数据和算力的依赖，可应用于实时预测、异常检测等场景，为边缘AI产品提供低成本、高精度的解决方案。",
+  "pm_relevance": 6,
+  "concepts": [
+    "径向基函数网络",
+    "粒子群优化",
+    "多列神经网络"
+  ],
+  "entities": [],
+  "patterns": []
+}

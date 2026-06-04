@@ -1,0 +1,29 @@
+{
+  "title": "Deep Embedded Multiplicative DMD for Algebra-Preserving Koopman Learning",
+  "summary": "Koopman theory turns nonlinear dynamics into a linear spectral problem. In computation, however, everything depends on a hard finite-dimensional choice: the observables must be expressive, nearly invariant under the dynamics, and, ideally, compatible with composition. Deep Koopman methods learn flexible coordinates, whereas structure-preserving methods enforce operator identities on fixed dictionaries. We combine these ideas by introducing Deep Embedded Multiplicative Dynamic Mode Decomposition (DeepMDMD), a method that learns a latent space and a partition of it, while enforcing the Koopman product rule as an exact algebraic constraint. Training alternates between an exact multiplicative operator update and a differentiable latent-clustering step that promotes Koopman closure. The result is a finite transition map on learned latent cells. Its nonzero spectrum lies on the unit circle, its dictionary is shaped by the dynamics rather than by ambient geometry, and forecasts are made in latent coordinates before being decoded to physical space. Across Hamiltonian, chaotic, and fluid examples, DeepMDMD learns dictionaries that are far more compact and dynamically coherent than those produced by geometric MDMD partitions. It reduces spectral pollution, reveals richer continuous-spectrum structure, and gives stable forecasts under severe noise. In high-dimensional flows, including a 158,624-dimensional cylinder wake and a noisy $Re=20,000$ lid-driven cavity, it preserves coherent structures and long-time spectral statistics where state-space MDMD fails. These results suggest a practical rule for Koopman learning: learn the coordinates, constrain the algebra.",
+  "url": "http://arxiv.org/abs/2606.05131v1",
+  "authors": [
+    "Kelan Gray",
+    "Finlay Brown",
+    "Nicolas Boullé",
+    "Matthew J. Colbrook"
+  ],
+  "published": "2026-06-03T17:37:06Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "clustering"
+  ],
+  "summary_cn": "本论文提出一种深度嵌入式乘法动态模态分解方法，用于代数保持的Koopman学习。Koopman理论可将非线性动力学转化为线性谱问题，但关键在于选择合适且几乎不变的观测函数。本文通过深度学习方法学习可观测函数，使得模型在有限维空间中保持代数结构，提升可预测性和计算效率。这项技术对机器人控制、物理模拟、气候预测等需要高效非线性动态建模的产品具有商业价值，可降低计算复杂度并提高长期预测准确性，为工业级AI决策系统提供新范式。",
+  "pm_relevance": 6,
+  "concepts": [
+    "Koopman理论",
+    "非线性动力学",
+    "深度学习"
+  ],
+  "entities": [],
+  "patterns": [
+    "Dynamic Model Learning"
+  ]
+}
