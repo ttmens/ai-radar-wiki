@@ -1384,3 +1384,7 @@
 - create: artificial-intelligence-is-not-conscious-ted-chiang.md
 - create: demand-is-booming-for-new-no-tech-repairable-tractor.md
 - create: lovable-signs-multiyear-deal-with-google-cloud-to-up-usage-5x-source-says.md
+
+## [2026-06-04 18:03] sync v3 | 2 new | pillars: {'capabilities': 2}
+- create: uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases.md
+- create: show-hn-uruky-eu-based-kagi-alternative-now-has-image-search-and-url-rewrites.md
