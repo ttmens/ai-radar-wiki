@@ -5,13 +5,157 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 04 Jun 2026 12:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 16:03:53 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Is Silicon Valley ready to put robots in people&amp;#8217;s homes? Hello Robot is.</title>
+      <link>https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/</link>
+      <guid isPermaLink="false">is-silicon-valley-ready-to-put-robots-in-people8217s-homes-hello-robot-is</guid>
+      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>加州初创公司Hello Robot发布了第四代家庭辅助机器人Stretch，标志着家用机器人从实验室走向消费市场的关键一步。Stretch专注于执行家务、协助老人等实用场景，通过模块化设计降低部署门槛，强调安全性与易用性。对于AI产品经理而言，这一突破意味着家庭场景下的机器人交互范式正在成熟，商业价值体现在老龄化社会需求、家务自动化市场以及长期人机协作的潜力。产品创新在于轻量化与自适应能力的平衡，为后续AI落地家庭提供了可复用的硬件+软件模式。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Claude Code and Codex Can Have Real-Time Conversation via Git</title>
+      <link>https://news.ycombinator.com/item?id=48345837</link>
+      <guid isPermaLink="false">claude-code-and-codex-can-have-real-time-conversation-via-git</guid>
+      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Claude Code（Anthropic）与Codex（GitHub/OpenAI）通过Git实现实时对话，这是一种AI代码代理间的协同机制。技术要点：利用Git的版本控制作为通信基础设施，实现两个独立AI模型的实时消息交换与任务协作。商业价值：打破单一AI工具壁垒，推动AI开发工具生态的互操作性，降低开发者切换成本。产品创新：将Git从代码管理工具重塑为AI代理的实时通信层，开创了Agent-to-Agent协作的新范式。此模式可扩展至多AI角色协作场景。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Activation-Based Active Learning for In-Context Learning: Challenges and Insight</title>
+      <link>http://arxiv.org/abs/2606.05134v1</link>
+      <guid isPermaLink="false">activation-based-active-learning-for-in-context-learning-challenges-and-insights</guid>
+      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文研究利用Transformer模型内部激活信号来优化大语言模型的上下文学习（In-Context Learning）样本选择。传统主动学习仅依赖模型输出不确定性，而本文提出基于激活值的细粒度主动学习策略，能更精准地识别对推理最有帮助的示例，从而提升少样本场景下的性能。该方法有望降低人工标注成本，并增强产品中AI助手的即时适应能力。技术亮点在于将深度学习对激活的理解转化为可操作的样本筛选机制，具备直接产品化潜力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Streaming Communication in Multi-Agent Reasoning</title>
+      <link>http://arxiv.org/abs/2606.05158v1</link>
+      <guid isPermaLink="false">streaming-communication-in-multi-agent-reasoning</guid>
+      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>多智能体推理系统传统采用“生成-再传输”范式，导致端到端延迟随流水线深度线性增长。StreamMA 提出流式通信机制，每个推理步骤一旦生成即立即传输给下游智能体，实现相邻智能体间的流水线并行。该技术显著降低多智能体协作的响应延迟，提升实时性，适用于复杂推理任务如对话系统、代码生成等产品场景。商业价值在于支持更高效的 agent 协作，减少等待时间，优化用户体验，并可能降低算力消耗。产品创新点在于将流式思想引入多智能体推理，打破串行瓶颈。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Failed Reasoning Traces Tell You What Is Fixable (But Not by Reading Them)</title>
+      <link>http://arxiv.org/abs/2606.05145v1</link>
+      <guid isPermaLink="false">failed-reasoning-traces-tell-you-what-is-fixable-but-not-by-reading-them</guid>
+      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文指出，后训练语言模型在推理任务失败时，通常采用增加计算量进行多次尝试的测试时扩展策略，但丢弃了失败轨迹。作者认为失败轨迹包含了可修复的宝贵信号，部分失败源于采样不佳，更多尝试即可解决。产品经理应关注如何利用失败轨迹更高效地定位模型薄弱环节，而非单纯堆算力，这能降低推理成本并加速模型迭代。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Reinforcement Learning from Rich Feedback with Distributional DAgger</title>
+      <link>http://arxiv.org/abs/2606.05152v1</link>
+      <guid isPermaLink="false">reinforcement-learning-from-rich-feedback-with-distributional-dagger</guid>
+      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出Distributional DAgger方法，旨在突破传统强化学习仅依赖二元正确性反馈的局限，利用更丰富的反馈信号（如部分正确、推理过程质量）来训练推理模型。该方法通过分布式的数据聚合策略，使模型从细粒度反馈中更高效学习，提升复杂推理任务表现。对产品经理而言，这意味着可训练出更聪明、更稳健的AI助手，尤其在需要逐步推理或用户交互反馈的场景（如代码生成、教育问答）中具有商业价值，能显著降低人工标注成本并提升用户体验。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Towards Efficient and Evidence-grounded Mobility Prediction with LLM-Driven Agen</title>
+      <link>http://arxiv.org/abs/2606.05130v1</link>
+      <guid isPermaLink="false">towards-efficient-and-evidence-grounded-mobility-prediction-with-llm-driven-agen</guid>
+      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出一种基于LLM驱动的智能体方法进行个体级移动预测，旨在克服传统监督序列模型依赖任务特定训练且缺乏决策透明度的局限。通过利用大语言模型的推理能力和可解释性，该方法能够在没有大量标注数据的情况下实现高效、基于证据的预测，同时保持较高的准确性。对于AI产品经理而言，该技术可应用于城市模拟、交通规划等场景，降低模型部署成本并提升用户对预测结果的可信度，具有商业价值和产品创新潜力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>BBOmix: A Tabular Benchmark for Hyperparameter Optimization of Unsupervised Biol</title>
+      <link>http://arxiv.org/abs/2606.05139v1</link>
+      <guid isPermaLink="false">bbomix-a-tabular-benchmark-for-hyperparameter-optimization-of-unsupervised-biolo</guid>
+      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出了BBOmix，一个用于无监督生物表示学习中超参数优化的表格基准。随着高通量测序技术的发展，高维组学数据集日益庞大，自动编码器等深度无监督学习架构被广泛用于降维和表示学习，但其性能高度依赖超参数配置。BBOmix通过构建标准化的表格基准，评估不同超参数优化方法的效果，旨在降低自动编码器在生物领域的应用门槛。该基准为AI产品经理提供了量化参考，有助于加速生物信息学产品的模型调优和部署，提升开发效率。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations</title>
+      <link>http://arxiv.org/abs/2606.05165v1</link>
+      <guid isPermaLink="false">stride-training-data-attribution-via-sparse-recovery-from-subset-perturbations</guid>
+      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文介绍 STRIDE，一种基于稀疏恢复的高效训练数据归因方法。传统 TDA 通过因果干预（添加/移除数据后重新训练）获得最准确归因，但 LLM 场景下计算成本极高。STRIDE 通过子集扰动和稀疏恢复技术，在不完全重训练的情况下近似因果效应，大幅降低计算开销。对 AI 产品经理而言，该技术可用于模型行为审计、数据污染检测、合规性验证，提升模型透明度并降低风险，尤其适用于需要追溯训练数据影响的商业化 LLM 产品。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>An Open-Source Two-Stage Computer Vision Pipeline for Fine-Grained Vehicle Class</title>
+      <link>http://arxiv.org/abs/2606.05149v1</link>
+      <guid isPermaLink="false">an-open-source-two-stage-computer-vision-pipeline-for-fine-grained-vehicle-class</guid>
+      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出一个开源的两阶段计算机视觉流水线，利用Vision Transformers实现细粒度车辆分类，旨在识别超车碰撞中影响骑行者伤害严重程度的车身类型。与仅提供粗略类别的标准目标检测不同，该流水线能精确区分多种车辆子类，填补了交通安全自动化工具的空白。技术要点包括两阶段架构（检测+精细分类）和Transformer注意力机制。商业价值体现在保险定损、自动驾驶风险评估及城市交通安全监测等场景。产品创新在于开源实现和针对特定安全需求的细粒度分类能力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Generating Financial Time Series by Matching Random Convolutional Features</title>
+      <link>http://arxiv.org/abs/2606.05138v1</link>
+      <guid isPermaLink="false">generating-financial-time-series-by-matching-random-convolutional-features</guid>
+      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出一种通过匹配随机卷积特征生成金融时间序列的新方法，旨在解决训练数据稀缺（仅单条历史路径）导致的过拟合问题。传统对抗训练中判别器会记忆样本，而该方法利用随机卷积特征匹配避免记忆，提高生成序列的真实性和多样性。对于AI产品经理，这意味着可更可靠地合成金融数据，用于风险模拟、策略回测、量化模型训练等场景，降低对真实历史数据的依赖，提升模型泛化能力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>GeM-NR: Geometry-Aware Multi-View Editing for Nonrigid Scene Changes</title>
+      <link>http://arxiv.org/abs/2606.05142v1</link>
+      <guid isPermaLink="false">gem-nr-geometry-aware-multi-view-editing-for-nonrigid-scene-changes</guid>
+      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出一种几何感知的多视图编辑方法，用于处理非刚性场景变化。利用生成模型，在未编辑场景的几何信息基础上实现多视图图像的一致编辑，突破了传统仅支持刚性或外观编辑的限制。该方法为3D内容生成和定制提供了关键技术支撑，有望应用于虚拟现实、游戏、影视等领域的场景快速修改与创意设计，提升内容生产效率与交互体验。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Multi-Column RBF Neural Network Using Adaptive and Non-Adaptive Particle Swarm O</title>
+      <link>http://arxiv.org/abs/2606.05150v1</link>
+      <guid isPermaLink="false">multi-column-rbf-neural-network-using-adaptive-and-non-adaptive-particle-swarm-o</guid>
+      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出一种基于自适应与非自适应粒子群优化的多列径向基函数神经网络(RBFN)训练方法。传统梯度下降算法在训练RBFN时容易陷入局部最优，而该研究通过粒子群优化(PSO)自适应选择隐层神经元，结合误差校正机制提升网络收敛速度与泛化能力。其多列结构增强了模型对复杂模式的学习能力，适用于分类与回归任务。商业价值在于能更高效地训练轻量级神经网络，减少对大规模标注数据和算力的依赖，可应用于实时预测、异常检测等场景，为边缘AI产品提供低成本、高精度的解决方案。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Deep Embedded Multiplicative DMD for Algebra-Preserving Koopman Learning</title>
+      <link>http://arxiv.org/abs/2606.05131v1</link>
+      <guid isPermaLink="false">deep-embedded-multiplicative-dmd-for-algebra-preserving-koopman-learning</guid>
+      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本论文提出一种深度嵌入式乘法动态模态分解方法，用于代数保持的Koopman学习。Koopman理论可将非线性动力学转化为线性谱问题，但关键在于选择合适且几乎不变的观测函数。本文通过深度学习方法学习可观测函数，使得模型在有限维空间中保持代数结构，提升可预测性和计算效率。这项技术对机器人控制、物理模拟、气候预测等需要高效非线性动态建模的产品具有商业价值，可降低计算复杂度并提高长期预测准确性，为工业级AI决策系统提供新范式。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Apple touts $1.4 trillion in App Store billings and sales, 90% without a commiss</title>
+      <link>https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/</link>
+      <guid isPermaLink="false">apple-touts-14-trillion-in-app-store-billings-and-sales-90-without-a-commission</guid>
+      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>苹果宣布其App Store在2023年产生了1.4万亿美元的账单和销售额，较去年的1.3万亿美元有所增长。其中，数字商品销售额达1490亿美元。值得注意的是，90%的销售额完全免除了苹果的佣金抽成，这体现了App Store作为应用分发平台的巨大商业价值，以及对开发者生态的激励作用。对于AI产品经理而言，该数据反映了平台经济的规模效应，以及苹果在数字内容分发领域的垄断地位，间接影响AI应用的分发策略和收入模式。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>U.S. Army Corps of Engineers Bay Model</title>
+      <link>https://news.ycombinator.com/item?id=48373642</link>
+      <guid isPermaLink="false">us-army-corps-of-engineers-bay-model</guid>
+      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文介绍美国陆军工程兵团的海湾模型（Bay Model），可能结合AI技术用于水文模拟与预测，提升工程决策效率。商业价值体现在优化水利基础设施管理，产品创新在于将传统物理模型与机器学习融合，实现更精准的洪水预警与资源调度。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud</title>
+      <link>https://boxes.dev</link>
+      <guid isPermaLink="false">show-hn-boxesdev-ditch-localhost-run-claude-code-and-codex-in-the-cloud</guid>
+      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Boxes.dev 是一个云端开发环境平台，允许开发者直接在线运行 Claude Code 和 Codex 等 AI 代码助手，无需本地配置。该产品解决了本地开发环境依赖重、协作难的问题，通过预置的云 IDE 降低 AI 编程工具的使用门槛。对 AI 产品经理而言，它展示了将 AI 能力深度集成到开发工作流中的新范式，可能推动开发者工具从本地化向云原生+AI 原生转型，商业价值在于提升团队协作效率和 AI 助手的可访问性。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Prela – Purely Algebraic Relation Combinators</title>
+      <link>https://github.com/remysucre/prela</link>
+      <guid isPermaLink="false">show-hn-prela-purely-algebraic-relation-combinators</guid>
+      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Prela是一个纯代数关系组合子的开源项目，通过组合子逻辑实现关系代数的计算。该项目可能为AI领域的关系推理、知识图谱或符号AI提供底层技术基础，但当前缺乏具体的应用场景示例。对于AI产品经理而言，其技术价值在于探索代数方法在AI中的新可能性，但短期内商业应用尚不明确。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>Gemma 4 12B: A unified, encoder-free multimodal model</title>
       <link>https://news.ycombinator.com/item?id=48385906</link>
@@ -266,150 +410,6 @@
       <guid isPermaLink="false">adafruit-receives-demand-letter-from-fenwick-legal-counsel-on-behalf-of-fluxai</guid>
       <pubDate>2026-06-03T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>开源硬件公司 Adafruit 收到 Fenwick 律所代表 AI PCB 设计工具 Flux.ai 发出的要求函，可能涉及知识产权或专利纠纷。对 AI 产品经理的启示：AI 工具在利用开源硬件生态时需注意合规风险，尤其是训练数据、专利许可和技术边界。事件凸显了 AI 创新与传统开源社区的潜在冲突，产品经理应提前规划法律策略，避免类似纠纷。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>MAI-Code-1-Flash</title>
-      <link>https://news.ycombinator.com/item?id=48374466</link>
-      <guid isPermaLink="false">mai-code-1-flash</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>MAI-Code-1-Flash 是一款专注于代码生成领域的轻量级AI模型，由Mistral AI推出，旨在提供快速、高效的代码补全与生成能力。其技术核心在于通过精简架构与优化推理速度，在降低计算成本的同时保持较高准确性，适合集成到开发环境或IDE插件中。商业价值体现在降低企业采用AI代码助手的门槛，加速开发者工作效率，尤其适合资源受限的终端设备。产品创新在于平衡性能与效率，可能针对特定编程语言或场景进行了微调，为Copilot模式提供了一种更轻便的替代方案。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>AI outperforms law professors in Stanford Law study</title>
-      <link>https://news.ycombinator.com/item?id=48377761</link>
-      <guid isPermaLink="false">ai-outperforms-law-professors-in-stanford-law-study</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>斯坦福法学院的最新研究发现，AI在法律任务中的表现已超越法学教授，展现出强大的专业能力。这一突破对法律科技产品经理有重要启示：AI不仅能辅助法律文档分析、合同审查，还可能替代部分专家级法律服务，降低企业法务成本。产品创新方向包括开发基于大模型的法律咨询工具、自动化法律研究助手等，需关注模型可靠性与伦理合规。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Three Ways to Get Paid (2018)</title>
-      <link>https://news.ycombinator.com/item?id=48373054</link>
-      <guid isPermaLink="false">three-ways-to-get-paid-2018</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>2018年提出三种AI能力变现路径：1）直接出售模型或API，按使用量计费；2）将AI嵌入现有产品，通过增值订阅提升用户付费意愿；3）提供AI咨询服务，针对垂直场景定制解决方案。这些模式帮助产品经理理解早期AI商业化的核心逻辑——从技术能力向商业价值转化需匹配用户场景与定价策略。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>OpenAI launches new Codex tools for white-collar work</title>
-      <link>https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/</link>
-      <guid isPermaLink="false">openai-launches-new-codex-tools-for-white-collar-work</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenAI发布Codex新工具集，旨在将AI代理能力扩展到企业白领工作场景（如文档处理、数据分析等），并配套发布内部使用报告。此举标志着OpenAI从代码助手向通用企业助手的战略转型，通过增强Codex的自主任务执行能力，降低企业AI应用门槛，提升白领工作效率。产品创新点在于将代码能力与自然语言交互结合，实现更复杂的业务流程自动化。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>More than 6 out of 10 people turn to AI for psychological support</title>
-      <link>https://news.ycombinator.com/item?id=48377854</link>
-      <guid isPermaLink="false">more-than-6-out-of-10-people-turn-to-ai-for-psychological-support</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>最新调查显示，超过60%的受访者曾使用AI寻求心理支持，表明用户对AI心理健康服务的接受度显著提升。这一趋势为产品经理提供了巨大商机：AI可以通过自然语言对话、情绪识别和个性化建议，以低门槛、高可及性的方式满足用户情感需求。技术要点包括情感计算、对话系统和长期用户记忆管理；商业价值体现在心理健康市场庞大且需求未被满足；产品创新方向可聚焦于建立信任、隐私保护和有效的情感陪伴模式。产品经理应关注用户粘性、伦理合规及差异化功能设计。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>GitHub Copilot App</title>
-      <link>https://news.ycombinator.com/item?id=48373764</link>
-      <guid isPermaLink="false">github-copilot-app</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>GitHub Copilot App 是 GitHub 基于 OpenAI Codex 模型推出的AI编程助手，可嵌入主流IDE实时提供代码补全、函数生成及注释转代码等功能。其商业价值在于显著提升开发者效率、降低编程门槛，并推动企业级开发智能化转型。产品创新体现在将大语言模型无缝集成到编码流程中，支持多语言与上下文感知，同时通过私有化部署选项满足企业安全需求。该应用代表了AI辅助开发的主流模式，对产品经理而言是理解AI赋能工具的关键案例。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries</title>
-      <link>https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/</link>
-      <guid isPermaLink="false">anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Anthropic 将旗下安全漏洞评估项目 Project Glasswing 和大模型安全工具 Mythos 扩展至 15 个国家、150 家组织，重点覆盖电力、水务、医疗和通信等关键基础设施。这些基础设施一旦遭网络攻击可能影响上亿人。此举标志着 AI 安全能力从实验室走向高价值、高风险的产业场景，不仅展示了大模型在安全评估中的技术可行性，也为 AI 产品在政府及大型企业中的商业化落地提供了范例，同时强化了 Anthropic 在 AI 安全领域的品牌影响力。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Google rolls out fake call detection to protect against AI deepfake impersonatio</title>
-      <link>https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/</link>
-      <guid isPermaLink="false">google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonatio</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google 推出假来电检测功能，旨在识别和拦截利用 AI 深度伪造技术冒充来电者的诈骗电话。该功能基于实时语音分析，可识别出使用权威人士、家人或雇主声音的伪造呼叫，一旦检测到可疑行为即向用户发出警告。此举不仅提升了通话安全性，也强化了用户对未知来电的信任度，为智能手机操作系统集成主动式 AI 安全能力树立了标杆。产品经理可借鉴该方案在各自应用中嵌入实时防欺诈机制，平衡用户体验与隐私保护。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Microsoft announces Scout, an autonomous AI agent built on OpenClaw</title>
-      <link>https://news.ycombinator.com/item?id=48374079</link>
-      <guid isPermaLink="false">microsoft-announces-scout-an-autonomous-ai-agent-built-on-openclaw</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>微软发布名为 Scout 的自主 AI 智能体，基于 OpenClaw 构建。该产品体现了自主代理模式，能够在无需持续人工干预下执行复杂任务，降低了企业级 AI 应用的门槛。对产品经理而言，Scout 展现了如何将底层模型能力封装为可直接调用的自主工作流，可能推动自动化办公、客户服务等场景的快速落地。其开放架构也暗示了与现有生态的深度集成潜力。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Agentic Chain-of-Thought Steering for Efficient and Controllable LLM Reasoning</title>
-      <link>http://arxiv.org/abs/2606.03965v1</link>
-      <guid isPermaLink="false">agentic-chain-of-thought-steering-for-efficient-and-controllable-llm-reasoning</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出了一种基于智能体(agentic)的思维链引导方法，旨在解决大语言模型在长链推理中token消耗高且缺乏推理时间控制的问题。通过动态引导思考长度，在保持准确性的同时显著提升效率，并允许用户根据场景灵活控制推理深度。技术核心是引入可学习的引导策略，平衡推理质量与成本。商业价值在于降低API调用开销，为产品提供更经济、可控的推理能力；产品创新点在于将推理控制权交给开发者，实现类似“推理预算”的灵活管理。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>MAI-Thinking-1</title>
-      <link>https://news.ycombinator.com/item?id=48374362</link>
-      <guid isPermaLink="false">mai-thinking-1</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>MAI-Thinking-1 是一种新型 AI 推理模型，专注于提升复杂任务中的逻辑推理与多步思考能力。其技术核心可能采用增强的思维链架构，通过更高效的上下文整合减少幻觉。商业价值在于可应用于智能客服、决策辅助等需要精确推理的场景，降低人工审核成本。产品创新体现在模块化设计，易于嵌入现有 AI 产品链。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Trump signs downsized AI order after weeks of reversals</title>
-      <link>https://news.ycombinator.com/item?id=48372628</link>
-      <guid isPermaLink="false">trump-signs-downsized-ai-order-after-weeks-of-reversals</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>特朗普签署了一项规模缩小的AI行政令，此前数周经历了政策反复。该命令旨在协调联邦机构对AI的监管方向，但力度较此前提案有所减弱。对于AI产品经理而言，这意味着美国联邦层面对AI的监管可能更偏向行业自律而非严格立法，短期内有利于产品快速迭代和部署，但长期政策不确定性依然存在。商业价值上，企业可更专注于技术研发和产品落地，但需关注各州及国际监管差异。产品创新方面，团队应灵活设计合规框架以适应潜在变化。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Microsoft offers devs a better way to control AI agent behavior</title>
-      <link>https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/</link>
-      <guid isPermaLink="false">microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>微软推出了一项新规范，允许开发者、合规及安全团队通过可移植的策略文件为AI代理定义行为规则。该方案支持将控制策略与代理逻辑分离，确保代理在不同环境中遵循统一的合规与安全要求。其商业价值在于降低企业部署AI代理时的治理风险，提升可审计性和灵活性；产品创新体现在将策略管理标准化、可移植化，使非技术团队也能参与代理行为定义。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Amazon faces class action lawsuit over Ring facial-recognition feature</title>
-      <link>https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/</link>
-      <guid isPermaLink="false">amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>亚马逊旗下Ring门铃的“熟悉面孔”功能因未经同意存储路人面部图像，被用户提起集体诉讼。该功能利用AI人脸识别技术自动标记访客，但涉嫌违反隐私法规，反映了AI产品在用户数据收集与同意机制上的法律风险。对AI产品经理而言，需关注人脸识别等敏感功能的合规设计，确保用户明确授权，并建立数据生命周期管理策略，避免类似诉讼对品牌和业务造成影响。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>ZeroDrift raises $10M to protect AI models from themselves</title>
-      <link>https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/</link>
-      <guid isPermaLink="false">zerodrift-raises-10m-to-protect-ai-models-from-themselves</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>ZeroDrift 完成 1000 万美元融资，提供一种位于 AI 模型与终端用户之间的合规服务。该服务实时检测模型输出内容，自动标记并替换可能违反法规或企业政策的消息，例如不当言论、敏感信息或版权风险。此方案无需修改底层模型，以中间件形式降低企业部署 AI 的合规门槛，减少人工审核成本，尤其适用于金融、医疗、法律等强监管行业。产品创新在于动态拦截而非静态训练，兼顾模型性能与安全。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Uber caps employee AI spending after blowing through budget in 4 months</title>
-      <link>https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/</link>
-      <guid isPermaLink="false">uber-caps-employee-ai-spending-after-blowing-through-budget-in-4-months</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Uber在鼓励员工广泛使用AI工具后，仅4个月就超出了AI预算，现已设定支出上限。这表明企业级AI工具在快速普及的同时面临成本失控风险，产品经理需关注AI使用的成本核算与预算管控机制。Uber的案例提示AI产品设计应内置用量监控、成本预测及预算触发功能，以平衡创新激励与财务可持续性。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Microsoft launches Scout, an OpenClaw-inspired personal assistant</title>
-      <link>https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/</link>
-      <guid isPermaLink="false">microsoft-launches-scout-an-openclaw-inspired-personal-assistant</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>微软在Build大会上发布了Scout，这是一款受OpenClaw启发的新型AI个人助手，旨在将OpenClaw的灵活性与强大功能无缝融入Microsoft 365生态系统。对AI产品经理而言，技术要点在于Scout借鉴了开源助手框架OpenClaw的模块化设计，强调可定制性和扩展性；商业价值体现在强化Office 365的用户粘性和企业级生产力，通过智能任务自动化提升效率；产品创新在于将开源社区的灵活架构与微软的企业级平台相结合，为构建更开放的AI助手生态铺路。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>New Microsoft tool lets devs spin up AI behavior tests using text descriptions</title>
-      <link>https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/</link>
-      <guid isPermaLink="false">new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions</guid>
-      <pubDate>2026-06-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>微软发布开源框架Adaptive Spec-driven Scoring for Evaluation and Regression Testing，旨在让开发者通过文本描述快速生成AI行为测试。该工具利用规格驱动的自适应评分，简化AI评估与回归测试流程，降低测试门槛。商业价值在于加速AI产品迭代，减少手动测试成本，提升模型可靠性。产品创新点在于将自然语言描述直接转化为可执行的测试逻辑，使非技术专家也能参与质量保障，同时支持持续集成。</p></description>
       <category>🔧 工具生态</category>
     </item>
   </channel>
