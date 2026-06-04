@@ -2,56 +2,133 @@
   "daily_summary": {
     "date": "2026-06-05",
     "headline": "今日 AI 情报 · 2026-06-05",
-    "overview": "AI从对话式工具走向多智能体自主协作与物理世界部署",
+    "overview": "AI从能力突破迈向系统级自主，基础设施成本骤降，生态互操作性加速",
     "narratives": [
       {
-        "title": "AI从对话式工具走向多智能体自主协作与物理世界部署",
-        "body": "今日多条情报指向AI正从单一对话模型转向多智能体实时协作与物理世界自主操作。Claude Code与Codex通过Git实现实时对话、StreamMA流式通信降低多代理延迟，以及Stretch机器人进入家庭，标志着行业进入‘AI代理间互操作’和‘机器人场景化’的拐点。产品经理应关注代理通信协议标准化、流式架构设计，以及家庭场景人机交互范式的成熟。",
+        "title": "AI自主能力与自我进化加速",
+        "body": "递归自我改进、家庭机器人、Siri大改版、AI代理间实时对话等多条情报显示，AI正从被动响应转向主动执行和自我优化。这意味着AI产品经理需要重新设计用户与AI的交互范式，从单一指令响应转向持续协作与自主任务委托。",
         "type": "paradigm_shift",
         "pillar_key": "capabilities"
+      },
+      {
+        "title": "AI基础设施成本革命",
+        "body": "Meta采用帐篷式数据中心大幅降低电力与冷却成本，华为推出原生KV-cache量化降低推理显存，这些创新直接削减AI服务的边际成本。产品经理将迎来更灵活的定价和更广的用户覆盖，尤其对高并发和长上下文场景有利。",
+        "type": "bottleneck",
+        "pillar_key": "business"
+      },
+      {
+        "title": "AI生态互操作性与渠道扩张",
+        "body": "Apple首次批准AI代理进入Messages平台，Meta推出AI创作者助手，Anthropic开源漏洞发现框架，StrictlyVC聚焦国防科技AI。AI能力正通过主流平台和开源方式快速渗透，产品经理应关注渠道合作与开放生态建设，降低用户获取成本。",
+        "type": "maturation",
+        "pillar_key": "ecosystem"
       }
     ],
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "narrative_title": "AI从对话式工具走向多智能体自主协作与物理世界部署",
-        "insight": "AI从对话式工具走向多智能体自主协作与物理世界部署。该方向的具体信号：1) 家庭机器人Stretch（ID:1）标志家用机器人从实验室走向消费市场，强调轻量化与安全性；2) Claude Code与Codex通过Git实时对话（ID:2）将版本控制重塑为AI代理通信层，推动工具生态互操作；3) StreamMA流式通信（ID:4）大幅降低多代理推理延迟，支持实时协作场景；4) Boxes.dev云端运行AI代码助手（ID:17）进一步降低代理部署门槛，预示云原生+AI原生开发范式。",
+        "narrative_title": "AI自主能力与自我进化加速",
+        "insight": "AI自主能力与自我进化加速。该方向的具体信号：递归自我改进论文展示AI自主优化架构；Hello Robot家庭机器人标志消费级部署；Siri大改版预示语音助手进入LLM时代；Claude Code与Codex通过Git实时对话实现代理间协作；StreamMA流式通信降低多智能体延迟。这些共同指向AI从工具向自主代理的范式转移。",
         "evidence": [
           {
             "id": "is-silicon-valley-ready-to-put-robots-in-people8217s-homes-hello-robot-is",
-            "title": "Hello Robot发布第四代家用机器人Stretch",
+            "title": "Hello Robot brings home robots to market",
+            "score": 0.52
+          },
+          {
+            "id": "what-to-expect-from-wwdc-2026-siri8217s-highly-anticipated-revamp-and-apple-inte",
+            "title": "WWDC 2026: Siri revamp and Apple Intelligence update",
             "score": 0.52
           },
           {
             "id": "claude-code-and-codex-can-have-real-time-conversation-via-git",
-            "title": "Claude Code与Codex通过Git实时对话",
+            "title": "Claude Code and Codex real-time conversation via Git",
             "score": 0.52
           },
           {
             "id": "streaming-communication-in-multi-agent-reasoning",
-            "title": "StreamMA流式通信降低多代理延迟",
+            "title": "Streaming Communication in Multi-Agent Reasoning",
+            "score": 0.48
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI基础设施成本革命",
+        "insight": "AI基础设施成本革命。该方向的具体信号：Meta帐篷式数据中心将成本大幅削减；华为KVarN原生KV-cache量化减少推理显存。这些技术创新直接降低AI服务的总拥有成本，产品经理可借此设计更激进的价格策略和更高性能的体验。",
+        "evidence": [
+          {
+            "id": "meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents",
+            "title": "Meta builds data centers in tents like Tesla",
+            "score": 0.48
+          }
+        ]
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "AI生态互操作性与渠道扩张",
+        "insight": "AI生态互操作性与渠道扩张。该方向的具体信号：Apple批准Poke作为首个AI代理进入Messages平台，开启iMessage企业级AI入口；Meta推出AI创作者助手降低数据洞察门槛；Anthropic开源漏洞发现框架促进社区协作；StrictlyVC大会凸显国防科技与AI融合。产品经理应优先布局平台集成与开源生态，快速获取用户。",
+        "evidence": [
+          {
+            "id": "apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform",
+            "title": "Apple approves Poke as first AI agent on Messages for Business",
             "score": 0.48
           },
           {
-            "id": "show-hn-boxesdev-ditch-localhost-run-claude-code-and-codex-in-the-cloud",
-            "title": "Boxes.dev云IDE运行AI代码助手",
-            "score": 0.33
+            "id": "meta-rolls-out-a-new-ai-creator-assistant-on-facebook",
+            "title": "Meta rolls out AI creator assistant on Facebook",
+            "score": 0.48
+          },
+          {
+            "id": "anthropics-open-source-framework-for-ai-powered-vulnerability-discovery",
+            "title": "Anthropic open-source framework for AI vulnerability discovery",
+            "score": 0.48
+          },
+          {
+            "id": "defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-j",
+            "title": "StrictlyVC LA: Defense tech, AI, and fundraising",
+            "score": 0.45
           }
         ]
       }
     ],
-    "stats": "技术能力: 4 | 产品模式: 0 | 工具生态: 0 | 商业趋势: 0",
-    "total_items": 18,
-    "high_value_count": 11,
+    "stats": "技术能力: 15 | 产品模式: 1 | 工具生态: 3 | 商业趋势: 1",
+    "total_items": 20,
+    "high_value_count": 20,
     "all_today_ids": [
+      {
+        "id": "when-ai-builds-itself-our-progress-toward-recursive-self-improvement",
+        "label": "When AI Builds Itself: Our progress toward recursive self-improvement"
+      },
       {
         "id": "is-silicon-valley-ready-to-put-robots-in-people8217s-homes-hello-robot-is",
         "label": "Is Silicon Valley ready to put robots in people&#8217;s homes? Hello Robot is."
       },
       {
+        "id": "what-to-expect-from-wwdc-2026-siri8217s-highly-anticipated-revamp-and-apple-inte",
+        "label": "What to expect from WWDC 2026: Siri&#8217;s highly anticipated revamp and Apple"
+      },
+      {
         "id": "claude-code-and-codex-can-have-real-time-conversation-via-git",
         "label": "Claude Code and Codex Can Have Real-Time Conversation via Git"
+      },
+      {
+        "id": "meta-rolls-out-a-new-ai-creator-assistant-on-facebook",
+        "label": "Meta rolls out a new AI creator assistant on Facebook"
+      },
+      {
+        "id": "meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents",
+        "label": "Meta steals a tactic from Tesla and builds data centers in tents"
+      },
+      {
+        "id": "anthropics-open-source-framework-for-ai-powered-vulnerability-discovery",
+        "label": "Anthropic's open-source framework for AI-powered vulnerability discovery"
+      },
+      {
+        "id": "apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform",
+        "label": "Apple approves Poke as the first AI agent on its Messages for Business platform"
       },
       {
         "id": "activation-based-active-learning-for-in-context-learning-challenges-and-insights",
@@ -68,6 +145,10 @@
       {
         "id": "reinforcement-learning-from-rich-feedback-with-distributional-dagger",
         "label": "Reinforcement Learning from Rich Feedback with Distributional DAgger"
+      },
+      {
+        "id": "defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-j",
+        "label": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on"
       },
       {
         "id": "towards-efficient-and-evidence-grounded-mobility-prediction-with-llm-driven-agen",
@@ -94,12 +175,20 @@
         "label": "GeM-NR: Geometry-Aware Multi-View Editing for Nonrigid Scene Changes"
       },
       {
+        "id": "kvarn-native-vllm-backend-for-kv-cache-quantization-by-huawei",
+        "label": "KVarN: Native vLLM backend for KV-cache quantization by Huawei"
+      },
+      {
         "id": "multi-column-rbf-neural-network-using-adaptive-and-non-adaptive-particle-swarm-o",
         "label": "Multi-Column RBF Neural Network Using Adaptive and Non-Adaptive Particle Swarm O"
       },
       {
         "id": "deep-embedded-multiplicative-dmd-for-algebra-preserving-koopman-learning",
         "label": "Deep Embedded Multiplicative DMD for Algebra-Preserving Koopman Learning"
+      },
+      {
+        "id": "3d-printed-book-turns-its-own-g-code-into-raised-lettering",
+        "label": "3D-printed book turns its own G-code into raised lettering"
       },
       {
         "id": "apple-touts-14-trillion-in-app-store-billings-and-sales-90-without-a-commission",
@@ -114,11 +203,27 @@
         "label": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud"
       },
       {
+        "id": "show-hn-costdev-yc-w21-making-agents-cost-aware-and-cheaper-to-call",
+        "label": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call"
+      },
+      {
+        "id": "nsa-using-anthropics-mythos-for-cyber-attacks",
+        "label": "NSA using Anthropic's Mythos for cyber attacks"
+      },
+      {
+        "id": "samurai-city",
+        "label": "Samurai City"
+      },
+      {
+        "id": "castor-cern-advanced-storage-manager",
+        "label": "Castor: CERN Advanced STORage Manager"
+      },
+      {
         "id": "show-hn-prela-purely-algebraic-relation-combinators",
         "label": "Show HN: Prela – Purely Algebraic Relation Combinators"
       }
     ],
     "date_bj": "2026-06-05 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-06-05 00:02:17"
+    "generated_at_bj": "2026-06-05 06:08:33"
   }
 }

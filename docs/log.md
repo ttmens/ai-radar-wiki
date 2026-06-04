@@ -1408,3 +1408,18 @@
 - create: apple-touts-14-trillion-in-app-store-billings-and-sales-90-without-a-commission.md
 - create: show-hn-prela-purely-algebraic-relation-combinators.md
 - create: show-hn-boxesdev-ditch-localhost-run-claude-code-and-codex-in-the-cloud.md
+
+## [2026-06-05 06:09] sync v3 | 13 new | pillars: {'ecosystem': 2, 'capabilities': 7, 'patterns': 4}
+- create: anthropics-open-source-framework-for-ai-powered-vulnerability-discovery.md
+- create: when-ai-builds-itself-our-progress-toward-recursive-self-improvement.md
+- create: castor-cern-advanced-storage-manager.md
+- create: kvarn-native-vllm-backend-for-kv-cache-quantization-by-huawei.md
+- create: samurai-city.md
+- create: nsa-using-anthropics-mythos-for-cyber-attacks.md
+- create: 3d-printed-book-turns-its-own-g-code-into-raised-lettering.md
+- create: defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-j.md
+- create: meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents.md
+- create: apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform.md
+- create: meta-rolls-out-a-new-ai-creator-assistant-on-facebook.md
+- create: what-to-expect-from-wwdc-2026-siri8217s-highly-anticipated-revamp-and-apple-inte.md
+- create: show-hn-costdev-yc-w21-making-agents-cost-aware-and-cheaper-to-call.md

@@ -1,8 +1,19 @@
 {
   "date": "2026-06-05",
-  "generated_at": "2026-06-05T00:02:30.135604+08:00",
-  "item_count": 17,
+  "generated_at": "2026-06-05T06:09:13.166662+08:00",
+  "item_count": 29,
   "items": [
+    {
+      "id": "when-ai-builds-itself-our-progress-toward-recursive-self-improvement",
+      "label": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "summary": "本文探讨了AI实现递归自我改进的进展，即AI系统能够不依赖人类干预而自主优化自身架构与能力。这一技术突破意味着AI可以像软件迭代一样自动发现和修复弱点，提升效率与性能，从而大幅降低人工调参成本。对产品经理而言，这预示着未来的AI产品将具备更强的自适应能力和持续进化特性，能够根据用户反馈或环境变化自动调整策略。商业上，企业可以减少维护负担，加速AI产品落地；产品创新上，可能催生完全自主优化的AI Agent，改变服务交付模式。",
+      "pm_score": 0.63,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48400842",
+      "date": "2026-06-05"
+    },
     {
       "id": "is-silicon-valley-ready-to-put-robots-in-people8217s-homes-hello-robot-is",
       "label": "Is Silicon Valley ready to put robots in people&#8217;s homes? Hello Robot is.",
@@ -15,6 +26,17 @@
       "date": "2026-06-05"
     },
     {
+      "id": "what-to-expect-from-wwdc-2026-siri8217s-highly-anticipated-revamp-and-apple-inte",
+      "label": "What to expect from WWDC 2026: Siri&#8217;s highly anticipated revamp and Apple",
+      "summary": "WWDC 2026 将发布 Siri 重大改版与 Apple Intelligence 更新，聚焦 AI 驱动的语音助手能力跃升。Siri 有望集成更强大的大语言模型（LLM），实现复杂任务理解、多轮对话与个性化响应，同时 Apple Intelligence 将深化设备端 AI 能力，强化隐私安全。此举标志苹果从移动生态向 AI 原生系统转型，为开发者提供新的 AI 集成接口，商业上可刺激换机周期与开发者生态活跃度。产品经理需关注端侧模型部署、跨应用数据协作等设计挑战。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "date": "2026-06-05"
+    },
+    {
       "id": "claude-code-and-codex-can-have-real-time-conversation-via-git",
       "label": "Claude Code and Codex Can Have Real-Time Conversation via Git",
       "summary": "Claude Code（Anthropic）与Codex（GitHub/OpenAI）通过Git实现实时对话，这是一种AI代码代理间的协同机制。技术要点：利用Git的版本控制作为通信基础设施，实现两个独立AI模型的实时消息交换与任务协作。商业价值：打破单一AI工具壁垒，推动AI开发工具生态的互操作性，降低开发者切换成本。产品创新：将Git从代码管理工具重塑为AI代理的实时通信层，开创了Agent-to-Agent协作的新范式。此模式可扩展至多AI角色协作场景。",
@@ -23,6 +45,50 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48345837",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "meta-rolls-out-a-new-ai-creator-assistant-on-facebook",
+      "label": "Meta rolls out a new AI creator assistant on Facebook",
+      "summary": "Meta在Facebook推出AI创作者助手，支持通过自然语言查询获取内容表现洞察，如最佳发布时间、评论区用户反馈等，替代传统的图表仪表板分析。该功能基于大语言模型，将复杂的数据分析转化为对话式交互，降低创作者的数据解读门槛，提升内容策略效率。商业上，此举有助于增强创作者粘性、优化平台内容生态；产品创新上，从被动数据展示转向主动智能问答，代表了AI辅助创作的新范式。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents",
+      "label": "Meta steals a tactic from Tesla and builds data centers in tents",
+      "summary": "Meta 借鉴特斯拉的帐篷式建设模式，通过模块化临时建筑快速搭建数据中心，旨在大幅削减高昂的电力与冷却成本。这种创新基础设施策略有望降低 AI 模型训练与推理的边际成本，进而影响产品定价、服务可用性和商业化路径。对于 AI 产品经理而言，这意味着更灵活的资源部署能力和更具竞争力的成本结构，从而加速新功能落地并扩大用户规模。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "anthropics-open-source-framework-for-ai-powered-vulnerability-discovery",
+      "label": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "summary": "Anthropic 发布了开源框架，用于 AI 驱动的漏洞发现。该框架利用大语言模型的推理能力自动化检测代码和系统中的安全漏洞，提升安全测试效率与覆盖面。作为开源项目，它降低了企业应用 AI 安全工具的门槛，促进社区协作与定制化开发。对于产品经理，这意味着可以更快地集成智能安全能力，减少人工审计成本，并基于社区反馈迭代产品安全特性，具有显著的商业与产品创新价值。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48403980",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform",
+      "label": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+      "summary": "Apple 首次批准 AI 代理进入其 Messages for Business 平台，合作方为初创公司 Poke。Poke 允许用户通过简单短信与 AI 代理交互，无需下载独立应用。此次批准标志着 Apple 在企业级消息服务中正式拥抱 AI 能力，为商家提供了直接通过 iMessage 部署智能客服、销售助手等应用的新渠道。对产品经理而言，这降低了用户触达门槛，将 AI 交互嵌入日常通讯场景，并借助 Apple 生态的信任机制提升采纳率。该合作也预示着平台型 AI 分发模式的兴起，可能催生新的 B2B2C 商业模式。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
       "date": "2026-06-05"
     },
     {
@@ -67,6 +133,17 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2606.05152v1",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-j",
+      "label": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on",
+      "summary": "StrictlyVC洛杉矶大会将于6月18日在美国埃尔塞贡多的航空航天公司园区举行，汇聚投资者、创始人和科技领袖。会议重点探讨国防科技（Defense Tech）与AI的融合趋势，以及当前环境下的融资策略。对于AI产品经理而言，这意味着国防领域对AI产品的需求增加，如自主系统、威胁检测和决策辅助等；同时投资者更关注能服务政府/国防客户的AI初创公司，产品需要强调安全性与合规性。该活动反映了AI应用从消费互联网向国家安全领域的生态延伸。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
       "date": "2026-06-05"
     },
     {
@@ -136,6 +213,17 @@
       "date": "2026-06-05"
     },
     {
+      "id": "kvarn-native-vllm-backend-for-kv-cache-quantization-by-huawei",
+      "label": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "summary": "华为推出KVarN，为vLLM推理框架提供原生的KV-cache量化后端。KV-cache是大模型推理的关键组件，其量化可显著减少显存占用并提升吞吐量。KVarN作为vLLM原生集成方案，无需额外适配即可实现低精度缓存，降低推理延迟与部署成本。对AI产品经理而言，该技术直接优化模型服务的性价比，尤其适用于高并发或长上下文场景，可助力打造更具竞争力的云端/边缘AI产品。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48399974",
+      "date": "2026-06-05"
+    },
+    {
       "id": "multi-column-rbf-neural-network-using-adaptive-and-non-adaptive-particle-swarm-o",
       "label": "Multi-Column RBF Neural Network Using Adaptive and Non-Adaptive Particle Swarm O",
       "summary": "本文提出一种基于自适应与非自适应粒子群优化的多列径向基函数神经网络(RBFN)训练方法。传统梯度下降算法在训练RBFN时容易陷入局部最优，而该研究通过粒子群优化(PSO)自适应选择隐层神经元，结合误差校正机制提升网络收敛速度与泛化能力。其多列结构增强了模型对复杂模式的学习能力，适用于分类与回归任务。商业价值在于能更高效地训练轻量级神经网络，减少对大规模标注数据和算力的依赖，可应用于实时预测、异常检测等场景，为边缘AI产品提供低成本、高精度的解决方案。",
@@ -155,6 +243,17 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2606.05131v1",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "3d-printed-book-turns-its-own-g-code-into-raised-lettering",
+      "label": "3D-printed book turns its own G-code into raised lettering",
+      "summary": "该项目将3D打印机的G代码直接转换为凸起的盲文或浮雕文字，打印出一本可触摸阅读的书籍。技术核心在于自动化解析G-code路径并映射为字母形状，无需额外设计软件。商业价值在于为视障人士提供低成本、定制化的触觉阅读材料，同时降低3D打印教育门槛。产品创新点是将数字制造语言与物理输出无缝结合，实现“代码即内容”。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48370558",
       "date": "2026-06-05"
     },
     {
@@ -189,10 +288,43 @@
       "source_type": "showhn",
       "url": "https://boxes.dev",
       "date": "2026-06-05"
+    },
+    {
+      "id": "show-hn-costdev-yc-w21-making-agents-cost-aware-and-cheaper-to-call",
+      "label": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call",
+      "summary": "Cost.dev 是一个专注于降低 AI Agent 调用成本的工具，旨在让代理系统具备成本感知能力，从而在运行时动态选择最经济的调用策略。该工具通过优化 token 使用、缓存机制和模型选择，显著减少 API 开销，特别适合高频调用场景。对于 AI 产品经理而言，Cost.dev 提供了一种可量化成本控制方案，有助于提升产品毛利率和可扩展性，同时不影响智能体性能。其核心价值在于将成本作为一等公民纳入 AI 系统设计，实现性能与费用的智能平衡。",
+      "pm_score": 0.33,
+      "pillar": "patterns",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://cost.dev/",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "nsa-using-anthropics-mythos-for-cyber-attacks",
+      "label": "NSA using Anthropic's Mythos for cyber attacks",
+      "summary": "美国国家安全局（NSA）利用Anthropic开发的'神话'（Mythos）AI系统实施网络攻击，表明先进AI模型正被应用于国家级黑客行动。Mythos可能融合了语言模型与自动化攻击链设计能力，能生成高度隐蔽的恶意代码或社交工程内容。这一事件凸显了AI在网络安全领域的双刃剑效应：既可用于防御，也可被武器化。对产品经理而言，需关注AI系统的安全审计与滥用防范，以及如何设计内置伦理约束的功能机制。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48404233",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "samurai-city",
+      "label": "Samurai City",
+      "summary": "Samurai City 是一个可能涉及AI能力展示的项目，标题暗示其与虚拟城市或游戏场景相关。从产品经理视角看，这一概念可能探索AI在城市规划、角色生成或交互式叙事中的应用，具有潜在的产品创新价值。若结合生成式AI与模拟环境，可创造沉浸式用户体验，并拓展至教育或娱乐领域。但缺乏具体细节，商业价值待验证。",
+      "pm_score": 0.31,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48366090",
+      "date": "2026-06-05"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1198,
-    "edges": 90543
+    "real_nodes": 1211,
+    "edges": 91758
   }
 }
