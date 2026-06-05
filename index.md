@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-05 | Total pages: 1237
+> Last updated: 2026-06-05 | Total pages: 1241
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -96,6 +96,7 @@
 - [[explosionspacy.md]] explosion/spaCy `pillar:capabilities` `score:0.58`
 - [[failing-grades-soar-with-ai-usage-dwindling-math-skills-in-berkeley-cs-classes.md]] Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes `pillar:capabilities` `score:0.395`
 - [[fender-escalates-legal-campaign-against-s-style-guitars.md]] Fender escalates legal campaign against S-style guitars `pillar:capabilities` `score:0.235`
+- [[fine-tuning-an-llm-to-write-docs-like-its-1995.md]] Fine-tuning an LLM to write docs like it's 1995 `pillar:capabilities` `score:0.36`
 - [[five-frontier-llms-disagree-on-67-of-1k-real-world-fact-check-claims.md]] Five frontier LLMs disagree on 67% of 1k real-world fact-check claims `pillar:capabilities` `score:0.63`
 - [[formal-verification-gates-for-ai-coding-loops.md]] Formal Verification Gates for AI Coding Loops `pillar:capabilities` `score:0.43`
 - [[frontier-ai-has-broken-the-open-ctf-format.md]] Frontier AI has broken the open CTF format `pillar:capabilities` `score:0.55`
@@ -110,6 +111,7 @@
 - [[github-actions-down-again-today.md]] GitHub Actions down again today `pillar:capabilities` `score:0.645`
 - [[github-and-the-crime-against-software.md]] GitHub and the crime against software `pillar:capabilities` `score:0.53`
 - [[gmail-thinks-im-stupid-so-i-left.md]] Gmail thinks I'm stupid, so I left `pillar:capabilities` `score:0.63`
+- [[go-experiments-explained.md]] Go Experiments Explained `pillar:capabilities` `score:0.26`
 - [[google-ai-edgemediapipe.md]] google-ai-edge/mediapipe `pillar:capabilities` `score:0.615`
 - [[google-just-declared-itself-a-contender-in-ai-design-at-io-2026.md]] Google just declared itself a contender in AI design at IO 2026 `pillar:capabilities` `score:0.445`
 - [[google-launches-antigravity-20-with-an-updated-desktop-app-and-cli-tool-at-io-20.md]] Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2 `pillar:capabilities` `score:0.48`
@@ -680,6 +682,7 @@
 - [[linshenkxprompt-optimizer.md]] linshenkx/prompt-optimizer `pillar:patterns` `score:0.58`
 - [[liyupiai-guide.md]] liyupi/ai-guide `pillar:patterns` `score:0.405`
 - [[lobehublobehub.md]] lobehub/lobehub `pillar:patterns` `score:0.615`
+- [[magenta-realtime-2-open-and-local-live-music-models.md]] Magenta RealTime 2: Open and Local Live Music Models `pillar:patterns` `score:0.33`
 - [[magic-the-gathering-format-fun-40-2025.md]] Magic the Gathering format: Fun 40 (2025) `pillar:patterns` `score:0.205`
 - [[martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai.md]] Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI `pillar:patterns` `score:0.445`
 - [[medicare8217s-new-payment-model-is-built-for-ai.md]] Medicare&#8217;s new payment model is built for AI, and most of the tech world h `pillar:patterns` `score:0.305`
@@ -1107,6 +1110,7 @@
 - [[microsoft-starts-canceling-claude-code-licenses.md]] Microsoft starts canceling Claude Code licenses `pillar:business` `score:0.55`
 - [[microsoftai-for-beginners.md]] microsoft/AI-For-Beginners `pillar:business` `score:0.405`
 - [[mintplex-labsanything-llm.md]] Mintplex-Labs/anything-llm `pillar:business` `score:0.405`
+- [[mira-murati-steps-back-into-the-spotlight-carefully.md]] Mira Murati steps back into the spotlight, carefully `pillar:business` `score:0.445`
 - [[mistral-ai-acquires-emmi-ai-to-create-the-leading-ai-stack.md]] Mistral AI Acquires Emmi AI to Create the Leading AI Stack `pillar:business` `score:0.43`
 - [[mitchellh-i-strongly-believe-there-are-entire-companies-now-under-ai-psychosis.md]] Mitchellh – I strongly believe there are entire companies now under AI psychosis `pillar:business` `score:0.565`
 - [[musk-mulled-handing-openai-to-his-children-altman.md]] Musk mulled handing OpenAI to his children, Altman testifies `pillar:business` `score:0.305`

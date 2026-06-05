@@ -1,7 +1,7 @@
 {
   "date": "2026-06-05",
-  "generated_at": "2026-06-05T12:01:47.754312+08:00",
-  "item_count": 35,
+  "generated_at": "2026-06-05T18:01:41.429480+08:00",
+  "item_count": 38,
   "items": [
     {
       "id": "when-ai-builds-itself-our-progress-toward-recursive-self-improvement",
@@ -180,6 +180,17 @@
       "date": "2026-06-05"
     },
     {
+      "id": "mira-murati-steps-back-into-the-spotlight-carefully",
+      "label": "Mira Murati steps back into the spotlight, carefully",
+      "summary": "前OpenAI CTO Mira Murati谨慎重返公众视野，此举反映了当前AI行业中保持低调的策略已收益递减。她认为公司或个人需主动制造声量以提醒市场自身存在，这对产品经理而言是重要的市场信号与品牌管理启示。她的复出不仅关乎个人职业动向，更象征着在激烈竞争中技术领导者必须兼顾产品创新与市场沟通，避免被快速迭代的生态边缘化。这一事件提示产品经理在打造技术产品的同时，需规划阶段性市场发声策略，维持用户与投资者的关注度。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+      "date": "2026-06-05"
+    },
+    {
       "id": "towards-efficient-and-evidence-grounded-mobility-prediction-with-llm-driven-agen",
       "label": "Towards Efficient and Evidence-grounded Mobility Prediction with LLM-Driven Agen",
       "summary": "本文提出一种基于LLM驱动的智能体方法进行个体级移动预测，旨在克服传统监督序列模型依赖任务特定训练且缺乏决策透明度的局限。通过利用大语言模型的推理能力和可解释性，该方法能够在没有大量标注数据的情况下实现高效、基于证据的预测，同时保持较高的准确性。对于AI产品经理而言，该技术可应用于城市模拟、交通规划等场景，降低模型部署成本并提升用户对预测结果的可信度，具有商业价值和产品创新潜力。",
@@ -312,6 +323,17 @@
       "date": "2026-06-05"
     },
     {
+      "id": "fine-tuning-an-llm-to-write-docs-like-its-1995",
+      "label": "Fine-tuning an LLM to write docs like it's 1995",
+      "summary": "该内容探讨了如何通过微调大型语言模型（LLM），使其模仿1995年代的文档写作风格。技术要点在于使用特定历史语料对模型进行领域适配与风格迁移，保留90年代的语言习惯与格式。商业价值方面，可应用于复古风格内容生成、特定时期文档模板自动化或文化怀旧类产品，提升用户体验的差异化。产品创新在于将模型能力从通用写作延伸至特定时间风格的自定义，为内容创作工具提供新维度。属于能力分类下的模型定制化技术。",
+      "pm_score": 0.36,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48408442",
+      "date": "2026-06-05"
+    },
+    {
       "id": "ai-ashby-engineering-and-the-future",
       "label": "AI, Ashby Engineering, and the future",
       "summary": "Ashby Engineering 分享了其对 AI 未来的思考与实践，聚焦于如何将 AI 能力融入招聘产品。文章探讨了 AI 在职位匹配、简历筛选和自动化流程中的应用，强调通过工程创新提升产品智能决策水平。对 AI 产品经理而言，这展示了垂直行业如何将通用 AI 能力转化为具体商业价值，以及工程团队在 AI 产品化过程中的关键角色。",
@@ -342,6 +364,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48406198",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "magenta-realtime-2-open-and-local-live-music-models",
+      "label": "Magenta RealTime 2: Open and Local Live Music Models",
+      "summary": "Google Magenta 项目发布 RealTime 2，一款开源、本地的实时音乐生成模型。该模型可在用户设备上运行，无需云端，实现低延迟、高隐私的互动音乐创作。产品经理可关注其对AI音乐工具民主化的推动，以及本地部署带来的成本与体验优势。技术要点包括实时音频处理、轻量化模型架构，商业价值体现在降低对云服务的依赖，产品创新在于将生成式AI无缝融入音乐制作工作流。",
+      "pm_score": 0.33,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48407815",
       "date": "2026-06-05"
     },
     {
@@ -390,7 +423,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1218,
-    "edges": 92977
+    "real_nodes": 1222,
+    "edges": 94200
   }
 }

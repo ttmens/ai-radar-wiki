@@ -1432,3 +1432,9 @@
 - create: ahead-of-its-ipo-anthropic8217s-daniela-amodei-shrugs-off-doubts-about-ai8217s-r.md
 - create: airbnb8217s-brian-chesky-plans-to-launch-a-new-ai-lab.md
 - create: show-hn-formally-verified-polygon-intersection-opus-48-oneshots-prev-failed.md
+
+## [2026-06-05 18:01] sync v3 | 4 new | pillars: {'capabilities': 3, 'patterns': 1}
+- create: fine-tuning-an-llm-to-write-docs-like-its-1995.md
+- create: go-experiments-explained.md
+- create: magenta-realtime-2-open-and-local-live-music-models.md
+- create: mira-murati-steps-back-into-the-spotlight-carefully.md

@@ -1,0 +1,26 @@
+{
+  "title": "Magenta RealTime 2: Open and Local Live Music Models",
+  "score": 37,
+  "comments": 7,
+  "url": "https://magenta.withgoogle.com/magenta-realtime-2",
+  "hn_url": "https://news.ycombinator.com/item?id=48407815",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "Google Magenta 项目发布 RealTime 2，一款开源、本地的实时音乐生成模型。该模型可在用户设备上运行，无需云端，实现低延迟、高隐私的互动音乐创作。产品经理可关注其对AI音乐工具民主化的推动，以及本地部署带来的成本与体验优势。技术要点包括实时音频处理、轻量化模型架构，商业价值体现在降低对云服务的依赖，产品创新在于将生成式AI无缝融入音乐制作工作流。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Local AI Inference",
+    "Real-time Music Generation"
+  ],
+  "entities": [
+    "Magenta",
+    "Google"
+  ],
+  "patterns": [
+    "Local-First AI",
+    "Generative Music Model"
+  ]
+}
