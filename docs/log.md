@@ -1447,3 +1447,31 @@
 - create: the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-cost.md
 - create: airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india.md
 - create: show-hn-papernews-self-hosted-daily-newspaper-pdf-for-your-remarkable.md
+
+## [2026-06-06 06:05] sync v3 | 26 new | pillars: {'capabilities': 20, 'patterns': 6}
+- create: taillor-protecting-principal-components-in-parameter-efficient-continual-learnin.md
+- create: handoff-humanoid-agentic-task-space-whole-body-control-via-distilled-complementa.md
+- create: code2lora-hypernetwork-generated-adapters-for-code-language-models-under-softwar.md
+- create: tempovla-learning-speed-controllable-vision-language-action-policies.md
+- create: regret-minimization-with-adaptive-opponents-in-repeated-games.md
+- create: operation-guided-progressive-human-to-ai-text-transformation-benchmark-for-multi.md
+- create: dnq-deep-nash-q-network-for-partially-observable-n-player-games.md
+- create: pretraining-recurrent-networks-without-recurrence.md
+- create: rredcot-segment-level-reward-redistribution-for-reasoning-models.md
+- create: self-augmenting-retrieval-for-diffusion-language-models.md
+- create: mlevolve-a-self-evolving-framework-for-automated-machine-learning-algorithm-disc.md
+- create: pc-layer-polynomial-weight-preconditioning-for-improving-llm-pre-training.md
+- create: hacker-news-sans-ai.md
+- create: gemma-4-qat-models-optimizing-compression-for-mobile-and-laptop-efficiency.md
+- create: my-agent-skill-for-test-driven-development.md
+- create: transformers-are-inherently-succinct.md
+- create: conventional-commits-encourages-focus-on-the-wrong-things.md
+- create: did-claude-increase-bugs-in-rsync.md
+- create: ask-hn-what-was-your-oh-shit-moment-with-genai.md
+- create: launch-hn-general-instinct-yc-p26-frontier-models-on-edge-devices.md
+- create: ask-hn-what-is-your-ai-dev-tech-stack-workflow.md
+- create: google-to-pay-spacex-920m-a-month-for-compute-capacity-at-xai-data-centers.md
+- create: startup-battlefield-200-applications-officially-close-in-3-days.md
+- create: google-will-pay-spacex-920m-per-month-for-compute.md
+- create: the-most-interesting-startups-right-now-want-to-get-you-off-your-phone.md
+- create: the-8216together-tech8217-wave-might-be-the-most-intriguing-startup-bet-of-2026.md

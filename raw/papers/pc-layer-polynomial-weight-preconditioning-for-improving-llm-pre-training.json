@@ -1,0 +1,34 @@
+{
+  "title": "PC Layer: Polynomial Weight Preconditioning for Improving LLM Pre-Training",
+  "summary": "We propose a preconditioning (PC) layer, a weight parameterization via polynomial preconditioner that ensures stable weight conditioning throughout LLM training. The PC module reshapes the singular-value spectrum of weight matrices via low-degree polynomial preconditioning. After training, the preconditioned weights can be merged back into the original architecture, incurring no inference overhead. We demonstrate the advantage of the proposed PC layer over standard transformers in Llama-1B pre-training, for both the AdamW and Muon optimizers. Theoretically, we justify this spectrum-control principle by proving that uniformly bounding each layer's singular values ensures geometric convergence of gradient descent to global minima, for certain deep linear networks. Our code is available at https://github.com/Empath-aln/PC-layer.",
+  "url": "http://arxiv.org/abs/2606.06470v1",
+  "authors": [
+    "Senmiao Wang",
+    "Tiantian Fang",
+    "Haoran Zhang",
+    "Yushun Zhang",
+    "Kunxiang Zhao"
+  ],
+  "published": "2026-06-04T17:55:11Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "training",
+    "transformer",
+    "parameter",
+    "gradient",
+    "pre-training"
+  ],
+  "summary_cn": "本文提出了一种名为 PC Layer（多项式权重预条件层）的技术，通过在 LLM 预训练过程中对权重矩阵施加低阶多项式预条件器，重塑其奇异值谱，从而确保训练全程权重条件稳定。该技术可缓解梯度消失/爆炸问题，加速收敛并提升模型最终性能。商业价值在于能降低大规模 LLM 训练的计算成本与时间，提高训练稳定性，使企业更高效地开发高精度模型。产品创新方面，PC Layer 可作为即插即用模块集成到现有 Transformer 训练框架中，无需改动整体架构。",
+  "pm_relevance": 7,
+  "concepts": [
+    "预条件训练",
+    "权重谱重塑",
+    "LLM训练优化"
+  ],
+  "entities": [],
+  "patterns": [
+    "预训练优化模式"
+  ]
+}

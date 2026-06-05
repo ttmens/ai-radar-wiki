@@ -1,0 +1,25 @@
+---
+title: My Agent Skill for Test-Driven Development
+created: 2026-06-06
+updated: 2026-06-06
+type: entity
+pillar: patterns
+pm_score: 0.43
+tags: ["discussion", "hacker-news", "patterns"]
+sources: ["raw/hn/my-agent-skill-for-test-driven-development.json"]
+---
+
+# My Agent Skill for Test-Driven Development
+
+## 中文摘要
+该内容介绍了一种基于测试驱动开发（TDD）的AI Agent技能。核心思想是让AI Agent在代码生成过程中遵循TDD原则：先编写测试用例，再生成符合测试的代码，从而提升代码质量和开发效率。这种模式将传统TDD流程自动化，降低了开发者的手动测试负担，同时确保AI生成代码的可靠性。对于产品经理而言，这意味着AI工具可以更稳定地输出高质量代码，减少调试成本，加速产品迭代。该技能可应用于软件开发的持续集成流程，尤其适合需要高可靠性的核心模块。
+
+## PM 关注指标
+- 🔥 HN Score: 82
+- 💬 Comments: 34
+- 🎯 PM Score: 0.43
+- 🏷️ Pillar: patterns
+
+## 链接
+- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48398925
+- 🔗 原文: https://www.saturnci.com/my-agent-skill-for-test-driven-development.html

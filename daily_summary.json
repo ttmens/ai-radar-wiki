@@ -2,83 +2,224 @@
   "daily_summary": {
     "date": "2026-06-06",
     "headline": "今日 AI 情报 · 2026-06-06",
-    "overview": "AI 行业从追求性能转向成本控制，用户与AI协作模式重塑",
+    "overview": "AI行业从追求能力最大化转向成本控制与基础设施效率新阶段",
     "narratives": [
       {
-        "title": "AI 成本控制成为新常态：从token狂欢到精打细算",
-        "body": "随着AI模型部署规模扩大，昂贵的token消耗账单促使行业从'快速前进'转向'需要护栏和控制'。企业开始关注推理成本优化、模型蒸馏和API网关管理，低成本基础设施投资（如印度5GW数据中心）和工具（如Lowfat节省91.8%token）标志着效率优先的新阶段。对PM而言，成本必须成为产品设计核心变量。",
+        "title": "AI行业从追求模型能力最大化转向成本控制与基础设施效率新阶段",
+        "body": "今日情报密集呈现AI行业的核心矛盾从‘能做什么’转向‘花多少钱做’。巨头疯狂锁定算力（Google月付9.2亿美元给SpaceX、AirTrunk投300亿美元建印度数据中心），同时研究者集中发力模型压缩、参数高效微调和量化训练（Gemma 4 QAT、TailLoR、Code2LoRA），行业共识已从追求token最大化转为控制推理成本。对AI产品经理而言，产品设计的核心约束正从能力上限转向单位成本收益比，需将成本模型植入产品架构决策。",
         "type": "paradigm_shift",
         "pillar_key": "business"
-      },
-      {
-        "title": "用户为AI写文档：结构化数据喂养成为新交互模式",
-        "body": "程序员更愿意为Claude写文档而非为同事，表明AI能激励用户提供高质量结构化信息。这种动机可被产品设计利用，通过优化交互引导用户提供上下文，既提升AI表现又降低认知门槛。未来可探索激励机制让用户主动为AI\"喂养\"数据，形成数据飞轮。",
-        "type": "maturation",
-        "pillar_key": "capabilities"
       }
     ],
     "insights": [
       {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "narrative_title": "AI 成本控制成为新常态：从token狂欢到精打细算",
-        "insight": "AI 成本控制成为新常态：从token狂欢到精打细算。该方向的具体信号：行业正在从追求token最大化转向成本控制，企业开始部署推理优化方案（缓存、批处理、模型蒸馏），同时超大规模数据中心投资（印度5GW）和token节省工具（Lowfat降低91.8%）并行出现，表明成本意识已从基础设施层渗透到应用层。PM需将成本作为产品设计核心指标，平衡性能与预算。",
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI行业从追求模型能力最大化转向成本控制与基础设施效率新阶段",
+        "insight": "AI行业从追求模型能力最大化转向成本控制与基础设施效率新阶段。该方向的具体信号：产品设计中的‘形式主义’正被成本意识替代，例如约定式提交规范（Conventional Commits）被批评强化格式而忽略实质改进，AI自进化框架（MLEvolve）通过自动算法发现降低人工开发成本，开发者社区（Ask HN）更关注实用技术栈而非理论最优——这些都在暗示产品经理应优先设计降低工程开销的机制，而非追求完美的交互包装。",
         "evidence": [
           {
-            "id": "show-hn-lowfat-pluggable-cli-filter-that-saved-918-of-my-llm-tokens",
-            "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
-            "score": 0.41
+            "id": "conventional-commits-encourages-focus-on-the-wrong-things",
+            "title": "约定式提交鼓励关注错误方向，形式主义增加开发成本",
+            "score": 0.53
+          },
+          {
+            "id": "mlevolve-a-self-evolving-framework-for-automated-machine-learning-algorithm-disc",
+            "title": "MLEvolve自进化框架降低算法发现成本，加速迭代",
+            "score": 0.48
+          },
+          {
+            "id": "ask-hn-what-is-your-ai-dev-tech-stack-workflow",
+            "title": "开发者社区讨论AI开发实用技术栈，关注效率优先",
+            "score": 0.49
           }
         ]
       },
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "narrative_title": "用户为AI写文档：结构化数据喂养成为新交互模式",
-        "insight": "用户为AI写文档：结构化数据喂养成为新交互模式。该方向的具体信号：程序员更愿意为Claude编写文档而非为同事，说明AI能有效激励用户提供结构化信息，从而提升AI的理解质量和准确性。产品经理可借鉴此现象，通过交互设计引导用户提供上下文（如提示、模板），降低用户文档化心理门槛，同时提升AI性能和数据质量。",
+        "narrative_title": "AI行业从追求模型能力最大化转向成本控制与基础设施效率新阶段",
+        "insight": "AI行业从追求模型能力最大化转向成本控制与基础设施效率新阶段。该方向的具体信号：技术能力创新全面指向降低部署成本——量化感知训练（Gemma 4 QAT）使模型可在移动端运行，参数高效微调（TailLoR、Code2LoRA）避免全模型重训，扩散检索增强（Self-Augmenting Retrieval）以零额外参数减少幻觉，而再生神经网络预训练新方法（Pretraining Recurrent Networks）提升长序列效率——这些研究共同表明产品经理应优先评估‘能力/成本比’高的技术路线，而非仅看基准得分。",
         "evidence": [
           {
-            "id": "programmers-will-document-for-claude-but-not-for-each-other",
-            "title": "Programmers will document for Claude, but not for each other",
-            "score": 0.58
+            "id": "gemma-4-qat-models-optimizing-compression-for-mobile-and-laptop-efficiency",
+            "title": "Gemma 4 QAT模型压缩技术实现移动端高效推理",
+            "score": 0.53
+          },
+          {
+            "id": "taillor-protecting-principal-components-in-parameter-efficient-continual-learnin",
+            "title": "TailLoR参数高效持续学习防止灾难性遗忘",
+            "score": 0.48
+          },
+          {
+            "id": "code2lora-hypernetwork-generated-adapters-for-code-language-models-under-softwar",
+            "title": "Code2LoRA超网络生成适配器降低代码模型维护成本",
+            "score": 0.48
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI行业从追求模型能力最大化转向成本控制与基础设施效率新阶段",
+        "insight": "AI行业从追求模型能力最大化转向成本控制与基础设施效率新阶段。该方向的具体信号：商业端出现剧烈基础设施军备竞赛与成本对冲——Google月付9.2亿美元锁定SpaceX/xAI算力，AirTrunk砸300亿美元建印度5GW数据中心，同时行业媒体（The Token Bill Comes Due）明确宣告控制token成本已成为生存关键——产品经理必须将推理成本纳入产品定价模型，并提前规划缓存、蒸馏、边缘部署等成本优化策略。",
+        "evidence": [
+          {
+            "id": "the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-cost",
+            "title": "AI行业转向成本控制：token账单到期引发管理变革",
+            "score": 0.52
+          },
+          {
+            "id": "google-will-pay-spacex-920m-per-month-for-compute",
+            "title": "Google每月支付SpaceX 9.2亿美元锁定算力",
+            "score": 0.55
+          },
+          {
+            "id": "airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india",
+            "title": "AirTrunk投资300亿美元建设印度AI数据中心",
+            "score": 0.45
           }
         ]
       }
     ],
-    "stats": "技术能力: 1 | 产品模式: 0 | 工具生态: 0 | 商业趋势: 1",
-    "total_items": 7,
-    "high_value_count": 6,
+    "stats": "技术能力: 15 | 产品模式: 3 | 工具生态: 0 | 商业趋势: 2",
+    "total_items": 20,
+    "high_value_count": 20,
     "all_today_ids": [
+      {
+        "id": "did-claude-increase-bugs-in-rsync",
+        "label": "Did Claude increase bugs in rsync?"
+      },
       {
         "id": "programmers-will-document-for-claude-but-not-for-each-other",
         "label": "Programmers will document for Claude, but not for each other"
+      },
+      {
+        "id": "google-will-pay-spacex-920m-per-month-for-compute",
+        "label": "Google will pay SpaceX $920M per month for compute"
+      },
+      {
+        "id": "gemma-4-qat-models-optimizing-compression-for-mobile-and-laptop-efficiency",
+        "label": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency"
+      },
+      {
+        "id": "conventional-commits-encourages-focus-on-the-wrong-things",
+        "label": "Conventional Commits encourages focus on the wrong things"
       },
       {
         "id": "the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-cost",
         "label": "The token bill comes due: Inside the industry scramble to manage AI’s runaway co"
       },
       {
+        "id": "ask-hn-what-is-your-ai-dev-tech-stack-workflow",
+        "label": "Ask HN: What is your (AI) dev tech stack / workflow?"
+      },
+      {
+        "id": "ask-hn-what-was-your-oh-shit-moment-with-genai",
+        "label": "Ask HN: What was your \"oh shit\" moment with GenAI?"
+      },
+      {
+        "id": "google-to-pay-spacex-920m-a-month-for-compute-capacity-at-xai-data-centers",
+        "label": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers"
+      },
+      {
+        "id": "taillor-protecting-principal-components-in-parameter-efficient-continual-learnin",
+        "label": "TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learni"
+      },
+      {
+        "id": "self-augmenting-retrieval-for-diffusion-language-models",
+        "label": "Self-Augmenting Retrieval for Diffusion Language Models"
+      },
+      {
+        "id": "mlevolve-a-self-evolving-framework-for-automated-machine-learning-algorithm-disc",
+        "label": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Dis"
+      },
+      {
+        "id": "tempovla-learning-speed-controllable-vision-language-action-policies",
+        "label": "TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies"
+      },
+      {
+        "id": "code2lora-hypernetwork-generated-adapters-for-code-language-models-under-softwar",
+        "label": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Softwa"
+      },
+      {
+        "id": "operation-guided-progressive-human-to-ai-text-transformation-benchmark-for-multi",
+        "label": "Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi"
+      },
+      {
+        "id": "pretraining-recurrent-networks-without-recurrence",
+        "label": "Pretraining Recurrent Networks without Recurrence"
+      },
+      {
         "id": "airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india",
         "label": "AirTrunk commits $30B to build 5GW of AI data centers in India"
+      },
+      {
+        "id": "regret-minimization-with-adaptive-opponents-in-repeated-games",
+        "label": "Regret Minimization with Adaptive Opponents in Repeated Games"
+      },
+      {
+        "id": "dnq-deep-nash-q-network-for-partially-observable-n-player-games",
+        "label": "DNQ: Deep Nash Q-Network for Partially Observable n-Player Games"
+      },
+      {
+        "id": "handoff-humanoid-agentic-task-space-whole-body-control-via-distilled-complementa",
+        "label": "HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complement"
+      },
+      {
+        "id": "rredcot-segment-level-reward-redistribution-for-reasoning-models",
+        "label": "RREDCoT: Segment-Level Reward Redistribution for Reasoning Models"
+      },
+      {
+        "id": "pc-layer-polynomial-weight-preconditioning-for-improving-llm-pre-training",
+        "label": "PC Layer: Polynomial Weight Preconditioning for Improving LLM Pre-Training"
+      },
+      {
+        "id": "my-agent-skill-for-test-driven-development",
+        "label": "My Agent Skill for Test-Driven Development"
       },
       {
         "id": "show-hn-lowfat-pluggable-cli-filter-that-saved-918-of-my-llm-tokens",
         "label": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens"
       },
       {
+        "id": "the-most-interesting-startups-right-now-want-to-get-you-off-your-phone",
+        "label": "The most interesting startups right now want to get you off your phone"
+      },
+      {
+        "id": "hacker-news-sans-ai",
+        "label": "Hacker News, Sans AI"
+      },
+      {
         "id": "astronauts-on-iss-told-to-shelter-as-repairs-under-way-to-fix-air-leaks",
         "label": "Astronauts on ISS told to shelter as repairs under way to fix air leaks"
+      },
+      {
+        "id": "transformers-are-inherently-succinct",
+        "label": "Transformers Are Inherently Succinct"
       },
       {
         "id": "entanglement-builds-space-time-now-magic-gives-it-gravity",
         "label": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity"
       },
       {
+        "id": "launch-hn-general-instinct-yc-p26-frontier-models-on-edge-devices",
+        "label": "Launch HN: General Instinct (YC P26) – Frontier models on edge devices"
+      },
+      {
+        "id": "the-8216together-tech8217-wave-might-be-the-most-intriguing-startup-bet-of-2026",
+        "label": "The &#8216;together tech&#8217; wave might be the most intriguing startup bet of"
+      },
+      {
         "id": "show-hn-papernews-self-hosted-daily-newspaper-pdf-for-your-remarkable",
         "label": "Show HN: Papernews – self-hosted daily newspaper PDF for your reMarkable"
+      },
+      {
+        "id": "startup-battlefield-200-applications-officially-close-in-3-days",
+        "label": "Startup Battlefield 200 applications officially close in 3 days"
       }
     ],
     "date_bj": "2026-06-06 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-06-06 00:01:30"
+    "generated_at_bj": "2026-06-06 06:03:56"
   }
 }

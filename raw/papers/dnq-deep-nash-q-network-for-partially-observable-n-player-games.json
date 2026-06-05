@@ -1,0 +1,30 @@
+{
+  "title": "DNQ: Deep Nash Q-Network for Partially Observable n-Player Games",
+  "summary": "Many real-world competitive systems require multiple decision-makers to act simultaneously under shared constraints, limited information, and repeated interaction, as in auctions, resource allocation, and security competition. We study multi-turn simultaneous bidding as a controlled testbed for such problems and propose DNQ, a solver-in-the-loop equilibrium supervision framework for training bidding agents. DNQ alternates between trajectory collection, critic-based payoff estimation, equilibrium computation, and policy imitation. At each visited state, a shared critic predicts either pairwise payoff matrices or an exact N-player payoff tensor, an external solver computes equilibrium strategies, and the agents are trained by minimizing the KL divergence between their masked policies and the solver-derived equilibrium targets. We focus on a scalable pairwise formulation that greatly reduces equilibrium-solving cost and training time compared with the exact formulation, while the shared critic amortizes payoff learning across agents and states. Experiments compare the pairwise and exact variants using critic loss, policy entropy, bidding resource usage, and training cost, showing that the pairwise method scales to larger numbers of agents, whereas the exact method becomes computationally impractical as the joint game grows. These results illustrate the trade-off between strategic fidelity and scalability in repeated competitive environments.",
+  "url": "http://arxiv.org/abs/2606.06480v1",
+  "authors": [
+    "Qintong Xie",
+    "Edward Koh",
+    "Xavier Cadet",
+    "Peter Chin"
+  ],
+  "published": "2026-06-04T17:58:01Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision",
+    "training"
+  ],
+  "summary_cn": "本论文提出深度纳什Q网络（DNQ），解决部分可观测多玩家博弈中的策略学习问题，特别针对多轮同步竞价等竞争场景。该方法结合深度强化学习与博弈论中的纳什均衡概念，使智能体在有限信息下学习最优竞价策略。商业上可应用于拍卖平台、资源分配系统、网络安全博弈等，通过多智能体协同竞争提升整体效率与鲁棒性。产品创新在于将理论均衡求解与实用深度网络结合，适应动态环境。",
+  "pm_relevance": 7,
+  "concepts": [
+    "深度强化学习",
+    "博弈论",
+    "纳什均衡"
+  ],
+  "entities": [],
+  "patterns": [
+    "多智能体强化学习",
+    "竞价策略模式"
+  ]
+}

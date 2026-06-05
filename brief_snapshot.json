@@ -1,8 +1,19 @@
 {
   "date": "2026-06-06",
-  "generated_at": "2026-06-06T00:01:48.222800+08:00",
-  "item_count": 6,
+  "generated_at": "2026-06-06T06:05:14.023913+08:00",
+  "item_count": 31,
   "items": [
+    {
+      "id": "did-claude-increase-bugs-in-rsync",
+      "label": "Did Claude increase bugs in rsync?",
+      "summary": "该话题讨论AI模型Claude在改进rsync同步工具时是否引入了更多bug。技术上，这反映了AI代码生成的质量问题——模型可能因理解偏差或生成不稳定导致错误，影响工具可靠性。商业上，对于提供AI编程助手的产品经理，需关注代码审核机制与测试覆盖率，避免因AI输出质量引发用户信任危机。产品创新方向可探索结合静态分析与AI辅助审查，降低引入缺陷风险。案例提示，当前AI在精确逻辑领域仍存在局限性，产品设计应设定人工校验环节。",
+      "pm_score": 0.63,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48411635",
+      "date": "2026-06-06"
+    },
     {
       "id": "programmers-will-document-for-claude-but-not-for-each-other",
       "label": "Programmers will document for Claude, but not for each other",
@@ -12,6 +23,39 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48411510",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "google-will-pay-spacex-920m-per-month-for-compute",
+      "label": "Google will pay SpaceX $920M per month for compute",
+      "summary": "Google 每月向 SpaceX 支付 9.2 亿美元以获取计算资源，这源于其 AI 产品需求激增。该合作凸显了大规模 AI 部署对算力的巨大依赖，可能推动 Google 采用星链边缘计算来降低延迟，同时加剧云计算市场竞争。对 AI 产品经理而言，这意味着基础设施成本将显著影响产品定价与架构设计，需提前规划分布式推理、模型压缩等策略。",
+      "pm_score": 0.55,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "gemma-4-qat-models-optimizing-compression-for-mobile-and-laptop-efficiency",
+      "label": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "summary": "Google发布Gemma 4 QAT模型，采用量化感知训练技术，显著压缩模型大小以满足移动设备和笔记本电脑的高效运行需求。该技术能在不显著降低精度的情况下，将模型体积缩小数倍，从而降低推理延迟和功耗，使端侧AI应用更流畅。对产品经理而言，这意味着可在低成本硬件上部署高级语言模型，推动移动端智能助手、离线翻译、轻量级内容生成等场景的落地，提升用户体验并降低云端依赖成本。",
+      "pm_score": 0.53,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48414653",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "conventional-commits-encourages-focus-on-the-wrong-things",
+      "label": "Conventional Commits encourages focus on the wrong things",
+      "summary": "Conventional Commits（约定式提交）是一种流行的Git提交信息规范，旨在通过标准化提交格式提升项目可读性和自动化语义版本管理。然而，本文指出该规范关注点偏差，过于强调提交信息的格式正确性而忽略了代码变更的实质内容与协作效率。对AI产品经理而言，这提示在设计AI辅助代码工具（如自动生成提交信息、智能代码审查）时，应避免强化形式主义，转而关注理解开发意图和逻辑变更。商业价值在于减少团队沟通成本，但需平衡规范与灵活性。产品创新方向可探索基于自然语言的提交摘要、上下文感知的版本管理，以及将提交规范融入AI工作流。",
+      "pm_score": 0.53,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48414027",
       "date": "2026-06-06"
     },
     {
@@ -26,6 +70,116 @@
       "date": "2026-06-06"
     },
     {
+      "id": "ask-hn-what-is-your-ai-dev-tech-stack-workflow",
+      "label": "Ask HN: What is your (AI) dev tech stack / workflow?",
+      "summary": "该帖子在Hacker News上发起讨论，询问开发者目前使用的AI开发技术栈和工作流程。产品经理可从中了解社区中流行的AI工具组合（如LangChain、OpenAI API）、模型调用方式（API/本地）、以及常见开发模式（如RAG、Agent编排）。这些信息有助于把握技术生态趋势，评估产品集成方案的可行性与成本。",
+      "pm_score": 0.495,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48413629",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "ask-hn-what-was-your-oh-shit-moment-with-genai",
+      "label": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+      "summary": "该HN讨论围绕开发者在使用生成式AI时遭遇的意外时刻（'oh shit' moment），涵盖模型突然展现的惊人能力（如意外推理、创造性输出）或暴露的严重缺陷（如幻觉、安全漏洞）。这些案例帮助产品经理理解GenAI的能力边界与不可预测性，对设计可靠AI产品、规避风险、挖掘创新机会具有重要参考价值。核心启示：需平衡技术潜力与用户体验中的可控性。",
+      "pm_score": 0.495,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48406174",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "google-to-pay-spacex-920m-a-month-for-compute-capacity-at-xai-data-centers",
+      "label": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+      "summary": "谷歌与SpaceX达成每月9.2亿美元的巨额算力租赁协议，使用xAI数据中心的计算资源。此举凸显大模型时代算力争夺的白热化——科技巨头不惜重金锁定GPU集群，也反映埃隆·马斯克旗下公司间的协同效应。对AI产品经理而言，这标志着算力成本与供应链管理成为关键竞争要素，未来可能推动算力资源证券化或定制化芯片方案。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48417490",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "taillor-protecting-principal-components-in-parameter-efficient-continual-learnin",
+      "label": "TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learni",
+      "summary": "TailLoR提出一种基于奇异值分解（SVD）的参数高效持续学习方法，通过将预训练权重的奇异基U和V作为固定参考框架，仅学习低秩更新来保护主成分，从而缓解灾难性遗忘。该方法在保持模型参数高效的同时，显著提升连续学习新任务的能力。对于AI产品经理，这意味着可以在不重新训练全模型的情况下持续迭代产品能力，例如智能助手根据用户新需求增量学习，降低存储和计算成本，加速产品更新周期。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.06494v1",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "self-augmenting-retrieval-for-diffusion-language-models",
+      "label": "Self-Augmenting Retrieval for Diffusion Language Models",
+      "summary": "该论文提出了一种针对扩散语言模型的自我增强检索技术。扩散语言模型通过逐步并行去噪整个序列来生成文本，每一步都会预测每个掩码位置的候选标记，并保留高置信度的预测。研究发现，即使是被丢弃的低置信度预测也包含有用信息，可以用来增强检索过程，从而提升生成质量。这项技术对于减少幻觉、提高文本生成的准确性和一致性具有重要意义，尤其适用于需要高精度输出的场景，如代码生成、翻译和摘要。产品经理可关注其如何在不增加外部数据源的情况下，通过模型自身的中间结果改进输出。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.06474v1",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "mlevolve-a-self-evolving-framework-for-automated-machine-learning-algorithm-disc",
+      "label": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Dis",
+      "summary": "MLEvolve提出一种自进化框架，用于自动机器学习算法发现。针对现有LLM代理在长期任务中存在的分支间信息隔离和无记忆搜索问题，该框架通过自我进化机制持续优化算法选择与组合，提升自动化机器学习效率。技术要点包括自监督学习、记忆模块与迭代探索策略。商业价值在于降低机器学习模型开发的人工成本，加速算法迭代。产品创新在于将LLM代理的自我进化能力应用于算法发现，实现自动化与持续优化。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.06473v1",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "tempovla-learning-speed-controllable-vision-language-action-policies",
+      "label": "TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies",
+      "summary": "TempoVLA 提出速度可控的视觉-语言-动作策略，解决现有 VLA 模型固定执行速度的局限。机器人操作中低风险阶段需快速执行，高风险接触阶段需慢速精确，该模型通过引入速度调节机制，在保持任务成功率的同时提升效率。技术要点在于将速度参数作为可学习输入，使模型能根据环境风险动态调整动作频率。商业价值显著，可降低工业机器人操作时间、提高精密装配良率，并扩展至服务机器人场景。产品创新体现在赋予 VLA 速度控制的灵活性，无需重新训练即可适配不同速度需求。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.06491v1",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "code2lora-hypernetwork-generated-adapters-for-code-language-models-under-softwar",
+      "label": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Softwa",
+      "summary": "该论文提出Code2LoRA方法，利用超网络（Hypernetwork）为代码语言模型动态生成LoRA适配器，以应对软件演化中仓库级上下文的变更。传统方法依赖RAG或每个仓库微调，成本高且难以适应代码库变化。Code2LoRA通过超网络学习生成适配器权重，无需为每个仓库单独微调，从而降低部署成本并提升模型对API、导入等上下文依赖的处理能力，适用于持续演进的代码库。其商业价值在于减少模型维护开销，提升开发者工具的实用性和鲁棒性。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.06492v1",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "operation-guided-progressive-human-to-ai-text-transformation-benchmark-for-multi",
+      "label": "Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi",
+      "summary": "该论文提出一种操作引导的渐进式人机协同编辑文本转换基准，用于多粒度AI文本检测。现有基准多聚焦纯人类或纯AI生成文本，而现实场景中文档常经过人类与AI的多次协作编辑。该基准通过模拟真实的渐进式编辑流程，支持句子、段落等多粒度的检测评估，有助于提升检测模型对复杂编辑历史的鲁棒性。产品经理可关注其在内容审核、学术诚信检测等场景的商业价值，推动更精准的AI文本识别工具落地。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.06481v1",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "pretraining-recurrent-networks-without-recurrence",
+      "label": "Pretraining Recurrent Networks without Recurrence",
+      "summary": "该论文探讨如何在不使用传统循环结构（如BPTT）的前提下预训练递归神经网络，通过替代方案解决标准方法在长序列中并行性差和梯度消失/爆炸的问题。该技术有望显著提升模型训练效率及长程依赖的建模能力，对需要处理长时间上下文的产品（如语音助手、视频分析）具有潜在商业价值，可能推动更轻量、高效的序列模型创新。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.06479v1",
+      "date": "2026-06-06"
+    },
+    {
       "id": "airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india",
       "label": "AirTrunk commits $30B to build 5GW of AI data centers in India",
       "summary": "澳大利亚数据中心运营商AirTrunk宣布投资300亿美元，在印度建设5GW容量的AI数据中心。此举将显著提升印度AI算力基础设施，满足日益增长的AI模型训练与推理需求。5GW规模相当于数十个超大规模数据中心的聚合，为本地AI生态提供低成本、高可用的计算资源。该投资属于长期基础设施建设，预计将吸引更多AI企业落地印度，推动AI产业规模化发展。对于产品经理而言，这意味着未来在印度市场部署AI应用时，可获得更稳定的底层算力支持。",
@@ -34,6 +188,72 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "regret-minimization-with-adaptive-opponents-in-repeated-games",
+      "label": "Regret Minimization with Adaptive Opponents in Repeated Games",
+      "summary": "本文研究在重复博弈中面对自适应对手（可根据历史行为响应）时的遗憾最小化问题。标准在线学习中的外部遗憾指标无法有效捕捉对手的自适应性。论文引入反事实推理机制，提出新算法以降低算法与自适应对手交互时的长期遗憾。该研究对多智能体系统、动态定价、策略游戏AI等场景具有重要应用价值，可提升AI在复杂对抗环境中的决策鲁棒性与长期表现。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.06486v1",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "dnq-deep-nash-q-network-for-partially-observable-n-player-games",
+      "label": "DNQ: Deep Nash Q-Network for Partially Observable n-Player Games",
+      "summary": "本论文提出深度纳什Q网络（DNQ），解决部分可观测多玩家博弈中的策略学习问题，特别针对多轮同步竞价等竞争场景。该方法结合深度强化学习与博弈论中的纳什均衡概念，使智能体在有限信息下学习最优竞价策略。商业上可应用于拍卖平台、资源分配系统、网络安全博弈等，通过多智能体协同竞争提升整体效率与鲁棒性。产品创新在于将理论均衡求解与实用深度网络结合，适应动态环境。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.06480v1",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "handoff-humanoid-agentic-task-space-whole-body-control-via-distilled-complementa",
+      "label": "HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complement",
+      "summary": "论文提出HANDOFF框架，通过蒸馏互补教师模型实现人形机器人的任务空间全身控制。传统方法需要密集的运动学或空间参考，难以从高层任务语义中自动合成。HANDOFF将任务规划与全身控制解耦，利用多个互补教师模型蒸馏出轻量级策略，使机器人能直接在任务空间中执行复杂动作，无需精确的轨迹参考。该技术为人形机器人在真实场景中的灵活部署提供了高效接口，降低了规划复杂度，有望推动服务、制造等领域的人形机器人商业化应用。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.06493v1",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "rredcot-segment-level-reward-redistribution-for-reasoning-models",
+      "label": "RREDCoT: Segment-Level Reward Redistribution for Reasoning Models",
+      "summary": "RREDCoT 提出了一种段级奖励再分配方法，用于改进推理语言模型的强化学习微调。通过调整 GRPO 算法中的奖励机制，它能够更细粒度地优化链式思维（CoT）推理过程，从而提升最终答案的准确性和逻辑一致性。该方法在保持模型推理能力的同时，降低了训练复杂度，具有潜在的应用价值，可增强 AI 在复杂任务中的表现，例如数学推理、代码生成等。对于产品经理而言，这意味着更可靠的推理能力可直接转化为更稳定的产品体验，减少错误输出。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.06475v1",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "pc-layer-polynomial-weight-preconditioning-for-improving-llm-pre-training",
+      "label": "PC Layer: Polynomial Weight Preconditioning for Improving LLM Pre-Training",
+      "summary": "本文提出了一种名为 PC Layer（多项式权重预条件层）的技术，通过在 LLM 预训练过程中对权重矩阵施加低阶多项式预条件器，重塑其奇异值谱，从而确保训练全程权重条件稳定。该技术可缓解梯度消失/爆炸问题，加速收敛并提升模型最终性能。商业价值在于能降低大规模 LLM 训练的计算成本与时间，提高训练稳定性，使企业更高效地开发高精度模型。产品创新方面，PC Layer 可作为即插即用模块集成到现有 Transformer 训练框架中，无需改动整体架构。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.06470v1",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "my-agent-skill-for-test-driven-development",
+      "label": "My Agent Skill for Test-Driven Development",
+      "summary": "该内容介绍了一种基于测试驱动开发（TDD）的AI Agent技能。核心思想是让AI Agent在代码生成过程中遵循TDD原则：先编写测试用例，再生成符合测试的代码，从而提升代码质量和开发效率。这种模式将传统TDD流程自动化，降低了开发者的手动测试负担，同时确保AI生成代码的可靠性。对于产品经理而言，这意味着AI工具可以更稳定地输出高质量代码，减少调试成本，加速产品迭代。该技能可应用于软件开发的持续集成流程，尤其适合需要高可靠性的核心模块。",
+      "pm_score": 0.43,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48398925",
       "date": "2026-06-06"
     },
     {
@@ -48,6 +268,28 @@
       "date": "2026-06-06"
     },
     {
+      "id": "the-most-interesting-startups-right-now-want-to-get-you-off-your-phone",
+      "label": "The most interesting startups right now want to get you off your phone",
+      "summary": "当前AI领域融资热潮持续，但一些有趣的初创公司反其道而行之，专注于让人们放下手机、回归线下社交。例如，Mirror创始人Brynn Putnam新创立的Board公司，通过组织面对面游戏和社交体验来促进人际连接。这反映了在AI过度数字化背景下，产品创新开始关注平衡数字与真实世界，满足用户对深度社交和脱离屏幕的需求。商业价值在于捕捉反算法、反成瘾趋势的细分市场，产品经理可从中获得关于用户心理与场景设计的启示。",
+      "pm_score": 0.41,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "hacker-news-sans-ai",
+      "label": "Hacker News, Sans AI",
+      "summary": "本文探讨了Hacker News社区中AI相关内容泛滥的现象，提出“无AI版HN”的概念，旨在回归技术讨论的多元性。对于AI产品经理而言，这反映了内容平台在信息过载下的生态平衡挑战：AI虽提升效率，但过度聚焦可能扼杀其他创新领域的曝光。产品设计需考虑如何通过算法或社区规则实现良性内容过滤，避免用户疲劳。该话题突显了社区治理与注意力分配的产品策略价值。",
+      "pm_score": 0.36,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48417916",
+      "date": "2026-06-06"
+    },
+    {
       "id": "astronauts-on-iss-told-to-shelter-as-repairs-under-way-to-fix-air-leaks",
       "label": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
       "summary": "国际空间站（ISS）出现空气泄漏问题，宇航员被要求暂时避难，目前维修工作正在进行。该事件涉及空间站的生命维持系统与安全管理，虽然不直接关联AI，但可启发AI产品经理关注关键基础设施的自动化监控与异常检测技术。例如，利用AI模型实时分析舱内气压数据、早期识别微泄漏、自动触发警报或隔离流程，能提升空间站运维效率与安全性。此类应用在航空航天、数据中心、实验室等封闭环境的智能化运维场景有借鉴价值。",
@@ -56,6 +298,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48413464",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "transformers-are-inherently-succinct",
+      "label": "Transformers Are Inherently Succinct",
+      "summary": "Transformer架构具有固有的简洁性，能够在相同参数量下更高效地编码信息。这一发现对于AI产品经理意味着：有望开发更小、更快的模型，降低推理成本，并适用于边缘设备等资源受限场景。商业上可推动低成本AI服务，产品创新上可探索实时交互和本地化部署。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48416635",
       "date": "2026-06-06"
     },
     {
@@ -68,10 +321,32 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48409675",
       "date": "2026-06-06"
+    },
+    {
+      "id": "launch-hn-general-instinct-yc-p26-frontier-models-on-edge-devices",
+      "label": "Launch HN: General Instinct (YC P26) – Frontier models on edge devices",
+      "summary": "General Instinct（YC P26）专注于将前沿AI模型部署到边缘设备上，解决大模型在资源受限场景中的推理挑战。其核心创新在于通过模型压缩与硬件适配技术，使手机、IoT等终端具备接近云端的智能能力，从而降低延迟、保护隐私并减少云端依赖。商业价值体现在赋能实时交互应用（如自动驾驶、AR/VR、智能家居）以及降低企业部署成本。产品策略采用本地优先的AI模式，推动模型下沉至设备端，形成新的边缘计算生态。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48414869",
+      "date": "2026-06-06"
+    },
+    {
+      "id": "the-8216together-tech8217-wave-might-be-the-most-intriguing-startup-bet-of-2026",
+      "label": "The &#8216;together tech&#8217; wave might be the most intriguing startup bet of",
+      "summary": "在AI融资屡创新高的背景下，Mirror创始人Brynn Putnam反其道而行，创立Board公司，主攻线下游戏与社交体验，通过实体互动重新连接人群。这一'together tech'趋势表明，即使在AI主导的创业浪潮中，以人性化、真实接触为核心的产品创新依然获得资本关注。对于AI产品经理而言，应警惕过度依赖技术，思考如何将AI与线下社交场景融合，或探索'反AI'的差异化产品策略。",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+      "date": "2026-06-06"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1229,
-    "edges": 95430
+    "real_nodes": 1255,
+    "edges": 96689
   }
 }
