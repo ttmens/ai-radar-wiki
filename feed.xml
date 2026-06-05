@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 05 Jun 2026 08:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 12:00:40 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -141,6 +141,14 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>Mira Murati steps back into the spotlight, carefully</title>
+      <link>https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/</link>
+      <guid isPermaLink="false">mira-murati-steps-back-into-the-spotlight-carefully</guid>
+      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>前OpenAI CTO Mira Murati谨慎重返公众视野，此举反映了当前AI行业中保持低调的策略已收益递减。她认为公司或个人需主动制造声量以提醒市场自身存在，这对产品经理而言是重要的市场信号与品牌管理启示。她的复出不仅关乎个人职业动向，更象征着在激烈竞争中技术领导者必须兼顾产品创新与市场沟通，避免被快速迭代的生态边缘化。这一事件提示产品经理在打造技术产品的同时，需规划阶段性市场发声策略，维持用户与投资者的关注度。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>Towards Efficient and Evidence-grounded Mobility Prediction with LLM-Driven Agen</title>
       <link>http://arxiv.org/abs/2606.05130v1</link>
       <guid isPermaLink="false">towards-efficient-and-evidence-grounded-mobility-prediction-with-llm-driven-agen</guid>
@@ -237,6 +245,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Fine-tuning an LLM to write docs like it's 1995</title>
+      <link>https://news.ycombinator.com/item?id=48408442</link>
+      <guid isPermaLink="false">fine-tuning-an-llm-to-write-docs-like-its-1995</guid>
+      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容探讨了如何通过微调大型语言模型（LLM），使其模仿1995年代的文档写作风格。技术要点在于使用特定历史语料对模型进行领域适配与风格迁移，保留90年代的语言习惯与格式。商业价值方面，可应用于复古风格内容生成、特定时期文档模板自动化或文化怀旧类产品，提升用户体验的差异化。产品创新在于将模型能力从通用写作延伸至特定时间风格的自定义，为内容创作工具提供新维度。属于能力分类下的模型定制化技术。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>AI, Ashby Engineering, and the future</title>
       <link>https://news.ycombinator.com/item?id=48399528</link>
       <guid isPermaLink="false">ai-ashby-engineering-and-the-future</guid>
@@ -259,6 +275,14 @@
       <pubDate>2026-06-05T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>韩国论坛将强制使用AI审查工具对每张上传图片进行扫描，以加强内容合规管理。该技术利用图像识别模型自动检测违规内容（如色情、暴力等），提升审核效率并降低人工成本。对产品经理而言，需关注模型准确率与用户隐私保护的平衡，以及如何在合规压力下优化用户体验。商业价值体现在为论坛、社交媒体等平台提供可部署的AI审查解决方案，但也面临文化差异和误判风险等挑战。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Magenta RealTime 2: Open and Local Live Music Models</title>
+      <link>https://news.ycombinator.com/item?id=48407815</link>
+      <guid isPermaLink="false">magenta-realtime-2-open-and-local-live-music-models</guid>
+      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Google Magenta 项目发布 RealTime 2，一款开源、本地的实时音乐生成模型。该模型可在用户设备上运行，无需云端，实现低延迟、高隐私的互动音乐创作。产品经理可关注其对AI音乐工具民主化的推动，以及本地部署带来的成本与体验优势。技术要点包括实时音频处理、轻量化模型架构，商业价值体现在降低对云服务的依赖，产品创新在于将生成式AI无缝融入音乐制作工作流。</p></description>
+      <category>📱 产品模式</category>
     </item>
     <item>
       <title>Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud</title>
@@ -298,6 +322,14 @@
       <guid isPermaLink="false">show-hn-formally-verified-polygon-intersection-opus-48-oneshots-prev-failed</guid>
       <pubDate>2026-06-05T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该项目展示了通过形式化验证实现的多边形交集算法，基于Opus 4.8一次成功修复了之前的失败。对AI产品经理而言，形式化验证可提升关键计算（如自动驾驶路径规划、GIS分析）的可靠性和安全性，减少因算法错误导致的系统故障。商业价值在于降低合规成本和事故风险，尤其适用于高精度要求的行业。产品创新在于将数学证明引入几何计算，形成可复用的验证框架。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Go Experiments Explained</title>
+      <link>https://news.ycombinator.com/item?id=48354136</link>
+      <guid isPermaLink="false">go-experiments-explained</guid>
+      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了Go语言在AI系统中的实验特性，重点介绍了其并发模型和低延迟优势如何提升AI推理性能。作为系统级语言，Go在边缘计算和微服务架构中展现出独特价值，尤其适合构建高吞吐量的AI管道。产品经理可关注其在实时数据处理和模型部署场景中的潜力，以及相比Python的编译速度优势。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -379,38 +411,6 @@
       <pubDate>2026-06-04T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Meta 面向全球企业正式推出 WhatsApp Business AI 代理，基于 token 使用量收费。该代理可帮助企业自动化客户沟通、提供个性化服务，无需额外开发。商业价值在于利用 Meta 庞大的社交用户基础，降低企业接入 AI 的门槛，同时通过 token 计费模式实现灵活定价。产品创新体现在将对话式 AI 深度集成到即时通讯工具中，并采用按量付费，适合中小企业的渐进式投入。</p></description>
       <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Publishers will be able to opt out of AI Search, thanks to new regulation</title>
-      <link>https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/</link>
-      <guid isPermaLink="false">publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation</guid>
-      <pubDate>2026-06-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>英国监管机构要求谷歌为网站发布者提供工具，允许其选择退出生成式AI搜索功能，包括AI摘要和搜索生成体验。该选项将在英国进行测试，随后全球推广。此举旨在平衡AI创新与内容创作者权益，赋予发布者控制权，避免AI未经授权抓取和生成内容。对AI产品经理而言，这预示着数据获取模式将面临监管约束，需设计合规的opt-out机制，并重新评估搜索产品的数据依赖和商业模式。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Google&amp;#8217;s Dreambeans, its weirdest-named AI tool to date, will turn your li</title>
-      <link>https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/</link>
-      <guid isPermaLink="false">google8217s-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-in</guid>
-      <pubDate>2026-06-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google 推出名为 Dreambeans 的 AI 工具，能利用用户 Google 账户中的个人数据（如照片、邮件、日历等）自动生成一组 AI 插画的“故事”，将日常生活转化为卡通风格叙事。该产品展示了生成式 AI 在个性化创意内容上的创新，通过数据驱动叙事提升用户对 Google 生态的粘性，并为个人数据增值提供新场景。技术亮点在于结合多模态理解与用户画像的实时生成，但隐私与数据安全是潜在挑战。对产品经理而言，这代表了将静态个人数据转化为动态体验的实践方向。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Lovable signs multiyear deal with Google Cloud to up usage 5x, source says</title>
-      <link>https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/</link>
-      <guid isPermaLink="false">lovable-signs-multiyear-deal-with-google-cloud-to-up-usage-5x-source-says</guid>
-      <pubDate>2026-06-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Lovable与Google Cloud签署多年协议，将其在Google Cloud上的资源使用量扩大5倍，并扩展对Anthropic Claude模型的访问权限。这一合作标志着Lovable作为AI开发平台在云基础设施和模型多样性上的关键布局：通过深度绑定Google Cloud实现规模化运营，同时接入Claude增强多模型能力，降低对单一模型的依赖。对AI产品经理而言，该案例展示了如何通过云合作加速产品扩展，并利用多模型策略提升应用灵活性和竞争力。Lovable的商业模式从单一模型转向平台化+云生态，有望推动AI开发工具的市场渗透。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Coralogix raises $200M on bet that someone needs to watch the AI agents</title>
-      <link>https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/</link>
-      <guid isPermaLink="false">coralogix-raises-200m-on-bet-that-someone-needs-to-watch-the-ai-agents</guid>
-      <pubDate>2026-06-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Coralogix 完成 2 亿美元 F 轮融资，估值升至 16 亿美元。该公司专注于为 AI 代理提供监控与可观测性服务，解决大模型落地时代理行为、性能与成本难以追踪的核心痛点。其平台可实时监测 AI 代理的决策链路、token 消耗及异常行为，帮助产品经理优化代理可靠性并控制运营支出。本轮融资距上一轮不到一年，反映了资本市场对 AI 运维基础设施的强烈需求。对产品经理而言，这意味着构建 AI 原生应用时需同步规划观测层，以支撑迭代与治理。</p></description>
-      <category>📱 产品模式</category>
     </item>
   </channel>
 </rss>
