@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-05 | Total pages: 1230
+> Last updated: 2026-06-05 | Total pages: 1237
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -21,6 +21,7 @@
 - [[adaption-aims-big-with-autoscientist-an-ai-tool-t.md]] Adaption aims big with AutoScientist, an AI tool that helps models train themsel `pillar:capabilities` `score:0.305`
 - [[after-nvidia8217s-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650.md]] After Nvidia&#8217;s $20B not-acqui-hire, AI chip startup Groq reportedly raisin `pillar:capabilities` `score:0.48`
 - [[ageronhandson-ml.md]] ageron/handson-ml `pillar:capabilities` `score:0.51`
+- [[ai-ashby-engineering-and-the-future.md]] AI, Ashby Engineering, and the future `pillar:capabilities` `score:0.36`
 - [[ai-datacenters-were-built-for-gpus-what-happens-when-you-remove-the-gpus.md]] AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs? `pillar:capabilities` `score:0.345`
 - [[ai-errno2-values.md]] AI errno(2) values `pillar:capabilities` `score:0.31`
 - [[ai-grifters-are-creating-fake-black-people-to-sell-shein-junk.md]] AI grifters are creating fake Black people to sell Shein junk `pillar:capabilities` `score:0.295`
@@ -83,6 +84,7 @@
 - [[details-of-the-daring-airdrop-at-tristan-da-cunha.md]] Details of the Daring Airdrop at Tristan Da Cunha `pillar:capabilities` `score:0.305`
 - [[digg-tries-again-this-time-as-an-ai-news-aggregat.md]] Digg tries again, this time as an AI news aggregator `pillar:capabilities` `score:0.305`
 - [[diy-bipedal-robot-used-pneumatic-air-muscles-instead-of-motors.md]] DIY Bipedal Robot Used Pneumatic "Air-Muscles" Instead of Motors `pillar:capabilities` `score:0.275`
+- [[do-transformers-need-three-projections-systematic-study-of-qkv-variants.md]] Do transformers need three projections? Systematic study of QKV variants `pillar:capabilities` `score:0.445`
 - [[docling-projectdocling.md]] docling-project/docling `pillar:capabilities` `score:0.615`
 - [[dont-know-where-your-data-is-from-bayesian-modeling-for-unknown-coordinates.md]] Don't know where your data is from? Bayesian modeling for unknown coordinates `pillar:capabilities` `score:0.26`
 - [[duckduckgo-makes-its-8216no-ai8217-search-engine-easier-to-access-as-its-traffic.md]] DuckDuckGo makes its &#8216;no-AI&#8217; search engine easier to access as its t `pillar:capabilities` `score:0.41`
@@ -212,6 +214,7 @@
 - [[nsa-using-anthropics-mythos-for-cyber-attacks.md]] NSA using Anthropic's Mythos for cyber attacks `pillar:capabilities` `score:0.33`
 - [[odysseus-self-hosted-ai-workspace.md]] Odysseus – self-hosted AI workspace `pillar:capabilities` `score:0.43`
 - [[ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts.md]] Ontario auditors find doctors' AI note takers routinely blow basic facts `pillar:capabilities` `score:0.565`
+- [[open-code-review-an-ai-powered-code-review-cli-tool.md]] Open Code Review – An AI-powered code review CLI tool `pillar:capabilities` `score:0.345`
 - [[openai-adopts-googles-synthid-watermark-for-ai-images-with-verification-tool.md]] OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool `pillar:capabilities` `score:0.465`
 - [[openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time.md]] OpenAI claims it solved an 80-year-old math problem — for real this time `pillar:capabilities` `score:0.515`
 - [[openai-co-founder-andrej-karpathy-joins-anthropic8217s-pre-training-team.md]] OpenAI co-founder Andrej Karpathy joins Anthropic&#8217;s pre-training team `pillar:capabilities` `score:0.48`
@@ -259,6 +262,7 @@
 - [[show-hn-coretex-an-open-source-unix-like-biomimetic-flat-file-ai-harness.md]] Show HN: CoreTex – An Open-Source, Unix-like, biomimetic, flat-file AI Harness `pillar:capabilities` `score:0.155`
 - [[show-hn-demon-open-source-real-time-music-diffusion-engine-25hz-local-gpu.md]] Show HN: Demon – open-source real-time music diffusion engine, 25Hz local GPU `pillar:capabilities` `score:0.365`
 - [[show-hn-find-the-best-local-llm-for-your-hardware-ranked-by-benchmarks.md]] Show HN: Find the best local LLM for your hardware, ranked by benchmarks `pillar:capabilities` `score:0.33`
+- [[show-hn-formally-verified-polygon-intersection-opus-48-oneshots-prev-failed.md]] Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed `pillar:capabilities` `score:0.26`
 - [[show-hn-glycemicgpt-open-source-ai-powered-diabetes-management.md]] Show HN: GlycemicGPT – Open-source AI-powered diabetes management `pillar:capabilities` `score:0.33`
 - [[show-hn-helios-what-plug-in-solar-could-generate-for-any-address-in-britain.md]] Show HN: Helios – what plug-in solar could generate for any address in Britain `pillar:capabilities` `score:0.345`
 - [[show-hn-i-built-a-tool-to-auto-accept-ai-slop-and-bigtech-devs-loves-it.md]] Show HN: I built a tool to auto-accept AI slop and bigtech devs loves it `pillar:capabilities` `score:0.295`
@@ -280,6 +284,7 @@
 - [[sneak-peek-at-new-siri-app-reveals-apple8217s-plans-to-take-on-chatgpt-and-more.md]] Sneak peek at new Siri app reveals Apple&#8217;s plans to take on ChatGPT and mo `pillar:capabilities` `score:0.515`
 - [[so-you8217ve-heard-these-ai-terms-and-nodded-along-let8217s-fix-that.md]] So you&#8217;ve heard these AI terms and nodded along; let&#8217;s fix that `pillar:capabilities` `score:0.445`
 - [[softbank-says-it-will-invest-up-to-75-billion-to-build-french-data-centers.md]] SoftBank says it will invest up to €75 billion to build French data centers `pillar:capabilities` `score:0.48`
+- [[south-korean-forums-will-need-to-scan-every-images-with-ai-censorship-tools.md]] South Korean Forums Will Need to Scan Every Images with AI Censorship Tools `pillar:capabilities` `score:0.345`
 - [[spmallicklearnopencv.md]] spmallick/learnopencv `pillar:capabilities` `score:0.58`
 - [[spotify-adds-ai-powered-q038a-and-briefing-generation-features-to-podcasts.md]] Spotify adds AI-powered Q&#038;A and briefing generation features to podcasts `pillar:capabilities` `score:0.48`
 - [[spotify-launches-an-elevenlabs-powered-audiobook-creation-tool.md]] Spotify launches an ElevenLabs-powered audiobook creation tool `pillar:capabilities` `score:0.48`
@@ -995,12 +1000,14 @@
 > Funding, Moat, Growth, Ethics, Regulation
 - [[3-days-left-to-lock-in-50-off-a-second-ticket-to.md]] 3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026 `pillar:business` `score:0.15`
 - [[8216what-a-joke8217-github-copilot8217s-new-token-based-billing-spurs-consternat.md]] &#8216;What a joke&#8217;: Github Copilot&#8217;s new token-based billing spurs `pillar:business` `score:0.515`
+- [[ahead-of-its-ipo-anthropic8217s-daniela-amodei-shrugs-off-doubts-about-ai8217s-r.md]] Ahead of its IPO, Anthropic&#8217;s Daniela Amodei shrugs off doubts about AI&#8 `pillar:business` `score:0.515`
 - [[ai-boom-pushes-samsung-to-1t.md]] AI boom pushes Samsung to $1T `pillar:business` `score:0.3`
 - [[ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation.md]] AI coding startup Cognition raises $1B at $25B pre-money valuation `pillar:business` `score:0.48`
 - [[ai-eats-the-world-spring-26-pdf.md]] AI eats the world (Spring 26) [pdf] `pillar:business` `score:0.53`
 - [[ai-washing-firms-are-scrambling-to-rebrand-themselves-as-tech-focused.md]] 'AI washing': firms are scrambling to rebrand themselves as tech-focused `pillar:business` `score:0.48`
 - [[ai4finance-foundationfingpt.md]] AI4Finance-Foundation/FinGPT `pillar:business` `score:0.405`
 - [[air-france-and-airbus-found-guilty-of-manslaughter-over-2009-plane-crash.md]] Air France and Airbus found guilty of manslaughter over 2009 plane crash `pillar:business` `score:0.27`
+- [[airbnb8217s-brian-chesky-plans-to-launch-a-new-ai-lab.md]] Airbnb&#8217;s Brian Chesky plans to launch a new AI lab `pillar:business` `score:0.48`
 - [[all-means-are-fair-except-solving-the-problem.md]] All means are fair except solving the problem `pillar:business` `score:0.465`
 - [[alphabet-plans-to-raise-80b-to-pay-for-ai-buildout.md]] Alphabet plans to raise $80B to pay for AI buildout `pillar:business` `score:0.48`
 - [[amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature.md]] Amazon faces class action lawsuit over Ring facial-recognition feature `pillar:business` `score:0.48`

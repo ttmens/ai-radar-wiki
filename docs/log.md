@@ -1423,3 +1423,12 @@
 - create: meta-rolls-out-a-new-ai-creator-assistant-on-facebook.md
 - create: what-to-expect-from-wwdc-2026-siri8217s-highly-anticipated-revamp-and-apple-inte.md
 - create: show-hn-costdev-yc-w21-making-agents-cost-aware-and-cheaper-to-call.md
+
+## [2026-06-05 12:01] sync v3 | 7 new | pillars: {'capabilities': 5, 'business': 2}
+- create: do-transformers-need-three-projections-systematic-study-of-qkv-variants.md
+- create: open-code-review-an-ai-powered-code-review-cli-tool.md
+- create: south-korean-forums-will-need-to-scan-every-images-with-ai-censorship-tools.md
+- create: ai-ashby-engineering-and-the-future.md
+- create: ahead-of-its-ipo-anthropic8217s-daniela-amodei-shrugs-off-doubts-about-ai8217s-r.md
+- create: airbnb8217s-brian-chesky-plans-to-launch-a-new-ai-lab.md
+- create: show-hn-formally-verified-polygon-intersection-opus-48-oneshots-prev-failed.md

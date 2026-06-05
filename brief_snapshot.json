@@ -1,7 +1,7 @@
 {
   "date": "2026-06-05",
-  "generated_at": "2026-06-05T06:09:13.166662+08:00",
-  "item_count": 29,
+  "generated_at": "2026-06-05T12:01:47.754312+08:00",
+  "item_count": 35,
   "items": [
     {
       "id": "when-ai-builds-itself-our-progress-toward-recursive-self-improvement",
@@ -48,6 +48,17 @@
       "date": "2026-06-05"
     },
     {
+      "id": "ahead-of-its-ipo-anthropic8217s-daniela-amodei-shrugs-off-doubts-about-ai8217s-r",
+      "label": "Ahead of its IPO, Anthropic&#8217;s Daniela Amodei shrugs off doubts about AI&#8",
+      "summary": "Anthropic 在 IPO 前夕，总裁 Daniela Amodei 回应外界对 AI 投资回报的质疑。公司宣布截至 2025 年 5 月，年化收入已突破 470 亿美元，相较于 2025 年底的约 90 亿美元增长迅猛。然而，这种高速增长能否持续面临真正考验。该信息对 AI 产品经理的关键启示在于：需关注 AI 公司的盈利模式与商业化落地速度，以及市场对 AI 投资回报的预期如何影响产品战略。",
+      "pm_score": 0.515,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "date": "2026-06-05"
+    },
+    {
       "id": "meta-rolls-out-a-new-ai-creator-assistant-on-facebook",
       "label": "Meta rolls out a new AI creator assistant on Facebook",
       "summary": "Meta在Facebook推出AI创作者助手，支持通过自然语言查询获取内容表现洞察，如最佳发布时间、评论区用户反馈等，替代传统的图表仪表板分析。该功能基于大语言模型，将复杂的数据分析转化为对话式交互，降低创作者的数据解读门槛，提升内容策略效率。商业上，此举有助于增强创作者粘性、优化平台内容生态；产品创新上，从被动数据展示转向主动智能问答，代表了AI辅助创作的新范式。",
@@ -56,6 +67,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "airbnb8217s-brian-chesky-plans-to-launch-a-new-ai-lab",
+      "label": "Airbnb&#8217;s Brian Chesky plans to launch a new AI lab",
+      "summary": "Airbnb CEO Brian Chesky 计划成立新的 AI 实验室，此前他曾表示公司未与大型语言模型（LLM）提供商达成合作，因为现有产品尚未成熟。此举标志着 Airbnb 从观望转向主动布局 AI，旨在探索旅行体验、个性化推荐及运营效率的提升。该实验室可能聚焦于垂直场景的 AI 应用，利用用户数据优化房源匹配和定价策略，同时避免盲目捆绑通用模型。这一战略反映了企业对 AI 产品化落地的审慎态度，强调“先建能力，再找场景”的务实路径，对同类平台型产品的 AI 投入有借鉴意义。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
       "date": "2026-06-05"
     },
     {
@@ -133,6 +155,17 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2606.05152v1",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "do-transformers-need-three-projections-systematic-study-of-qkv-variants",
+      "label": "Do transformers need three projections? Systematic study of QKV variants",
+      "summary": "该研究系统性地调查了Transformer架构中QKV投影的必要性，探讨是否可以采用简化或变体投影机制替代标准的三投影设计。实验分析不同QKV变体对模型效果、计算效率及参数量的影响，旨在为轻量化部署提供理论依据。对AI产品经理而言，这意味着可能通过减少投影矩阵来降低模型推理成本，同时保持性能，从而推动边缘设备上的高效NLP应用。研究结果有助于指导下一代高效Transformer架构设计，平衡精度与资源消耗。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48405931",
       "date": "2026-06-05"
     },
     {
@@ -279,6 +312,39 @@
       "date": "2026-06-05"
     },
     {
+      "id": "ai-ashby-engineering-and-the-future",
+      "label": "AI, Ashby Engineering, and the future",
+      "summary": "Ashby Engineering 分享了其对 AI 未来的思考与实践，聚焦于如何将 AI 能力融入招聘产品。文章探讨了 AI 在职位匹配、简历筛选和自动化流程中的应用，强调通过工程创新提升产品智能决策水平。对 AI 产品经理而言，这展示了垂直行业如何将通用 AI 能力转化为具体商业价值，以及工程团队在 AI 产品化过程中的关键角色。",
+      "pm_score": 0.36,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48399528",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "open-code-review-an-ai-powered-code-review-cli-tool",
+      "label": "Open Code Review – An AI-powered code review CLI tool",
+      "summary": "Open Code Review 是一款 AI 驱动的代码审查命令行工具，旨在通过自动化分析代码提交内容，生成智能评审意见，提升开发团队的代码质量与审查效率。其核心创新在于将大模型能力无缝嵌入开发者日常的 CLI 工作流，无需切换界面即可获得即时反馈，大幅降低人工审查负担。该工具可私有化部署，保护代码安全，适合追求高效 DevOps 流程的企业。对 AI 产品经理而言，它展示了如何将 AI 能力以轻量级工具形式集成到现有开发链条中，具有明确的商业价值和可复制性。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48406358",
+      "date": "2026-06-05"
+    },
+    {
+      "id": "south-korean-forums-will-need-to-scan-every-images-with-ai-censorship-tools",
+      "label": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
+      "summary": "韩国论坛将强制使用AI审查工具对每张上传图片进行扫描，以加强内容合规管理。该技术利用图像识别模型自动检测违规内容（如色情、暴力等），提升审核效率并降低人工成本。对产品经理而言，需关注模型准确率与用户隐私保护的平衡，以及如何在合规压力下优化用户体验。商业价值体现在为论坛、社交媒体等平台提供可部署的AI审查解决方案，但也面临文化差异和误判风险等挑战。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48406198",
+      "date": "2026-06-05"
+    },
+    {
       "id": "show-hn-boxesdev-ditch-localhost-run-claude-code-and-codex-in-the-cloud",
       "label": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
       "summary": "Boxes.dev 是一个云端开发环境平台，允许开发者直接在线运行 Claude Code 和 Codex 等 AI 代码助手，无需本地配置。该产品解决了本地开发环境依赖重、协作难的问题，通过预置的云 IDE 降低 AI 编程工具的使用门槛。对 AI 产品经理而言，它展示了将 AI 能力深度集成到开发工作流中的新范式，可能推动开发者工具从本地化向云原生+AI 原生转型，商业价值在于提升团队协作效率和 AI 助手的可访问性。",
@@ -324,7 +390,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1211,
-    "edges": 91758
+    "real_nodes": 1218,
+    "edges": 92977
   }
 }
