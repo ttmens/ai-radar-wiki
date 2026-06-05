@@ -1,0 +1,26 @@
+{
+  "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+  "score": 49,
+  "comments": 36,
+  "url": "https://github.com/zdk/lowfat",
+  "hn_url": "https://news.ycombinator.com/item?id=48409955",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token"
+  ],
+  "summary_cn": "Lowfat 是一个可插拔的命令行过滤器，通过智能过滤冗余输入，将 LLM token 消耗降低了 91.8%，大幅节省 API 调用成本。其核心创新在于轻量级、可插拔的设计，无需修改现有工作流即可集成，特别适用于 CLI 场景下的批量文本处理。对 AI 产品经理而言，这直接转化为显著的商业价值：降低推理成本、提升吞吐量，并支持更长的上下文窗口。技术要点包括高效 token 裁剪算法、零延迟注入，以及兼容主流 LLM 接口。产品创新体现在以极低开发成本实现可观收益，适合嵌入到 AI 工具链中。",
+  "pm_relevance": 9,
+  "concepts": [
+    "Token成本优化",
+    "CLI工具",
+    "输入过滤"
+  ],
+  "entities": [
+    "Lowfat"
+  ],
+  "patterns": [
+    "Token节省模式",
+    "可插拔过滤器"
+  ]
+}

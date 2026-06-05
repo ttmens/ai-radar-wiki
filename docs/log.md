@@ -1438,3 +1438,12 @@
 - create: go-experiments-explained.md
 - create: magenta-realtime-2-open-and-local-live-music-models.md
 - create: mira-murati-steps-back-into-the-spotlight-carefully.md
+
+## [2026-06-06 00:01] sync v3 | 7 new | pillars: {'capabilities': 7}
+- create: astronauts-on-iss-told-to-shelter-as-repairs-under-way-to-fix-air-leaks.md
+- create: entanglement-builds-space-time-now-magic-gives-it-gravity.md
+- create: show-hn-lowfat-pluggable-cli-filter-that-saved-918-of-my-llm-tokens.md
+- create: programmers-will-document-for-claude-but-not-for-each-other.md
+- create: the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-cost.md
+- create: airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india.md
+- create: show-hn-papernews-self-hosted-daily-newspaper-pdf-for-your-remarkable.md
