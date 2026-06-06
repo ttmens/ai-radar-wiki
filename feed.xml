@@ -5,13 +5,45 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 06 Jun 2026 12:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 16:06:14 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy</title>
+      <link>https://news.ycombinator.com/item?id=48422993</link>
+      <guid isPermaLink="false">the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy</guid>
+      <pubDate>2026-06-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>智能电视正成为AI抓取经济中的关键节点，通过内置传感器和联网能力收集用户观看行为、语音交互等数据，为AI模型训练提供低成本、大规模的真实场景数据。这揭示了传统家电向AI基础设施转型的商业模式：电视厂商可与AI公司合作，将用户数据打包变现，或利用本地算力进行边缘推理。产品经理需关注数据隐私合规、用户授权机制以及如何平衡体验与数据采集，同时探索将电视作为家庭AI助理入口的新机会。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Benchmarks in Leipzig</title>
+      <link>https://news.ycombinator.com/item?id=48425247</link>
+      <guid isPermaLink="false">benchmarks-in-leipzig</guid>
+      <pubDate>2026-06-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容讨论了一项在莱比锡进行的AI基准测试，可能涉及新评测方法或结果。对于AI产品经理而言，基准测试是评估模型能力、指导产品选型和迭代的关键参考。该评测可能聚焦于特定任务（如推理、多模态），其设计思路和结果能揭示当前技术瓶颈与突破点，帮助PM理解不同模型的适用场景及商业化潜力，从而制定更精准的产品路线图。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>US House lawmakers release draft bill to prohibit state AI rules</title>
+      <link>https://news.ycombinator.com/item?id=48425031</link>
+      <guid isPermaLink="false">us-house-lawmakers-release-draft-bill-to-prohibit-state-ai-rules</guid>
+      <pubDate>2026-06-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>美国众议院立法者发布草案，旨在禁止各州自行制定AI法规，推动联邦层面统一监管。此举将影响AI产品部署的合规成本与跨州扩展策略，尤其对医疗、自动驾驶等强监管领域的产品经理而言，需关注联邦标准出台时间线及与现有州法规的冲突。若通过，可降低多州合规复杂性，但可能削弱地方创新试点灵活性。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Meta Keeps Delaying the Release of Its New AI Model to Developers</title>
+      <link>https://news.ycombinator.com/item?id=48424252</link>
+      <guid isPermaLink="false">meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers</guid>
+      <pubDate>2026-06-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Meta 多次推迟向开发者发布其新 AI 模型，可能影响开发者生态规划与产品迭代节奏。对 AI 产品经理而言，延迟可能导致企业在模型选型、依赖时间表上被迫调整，并促使关注 Meta 的模型能力开放策略与竞争对手窗口期。该事件折射出大型科技公司在模型封闭与开放之间的权衡，以及开发者对稳定、可预见发布周期的需求。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
     <item>
       <title>Did Claude increase bugs in rsync?</title>
       <link>https://news.ycombinator.com/item?id=48411635</link>
@@ -379,38 +411,6 @@
       <pubDate>2026-06-05T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Meta在Facebook推出AI创作者助手，支持通过自然语言查询获取内容表现洞察，如最佳发布时间、评论区用户反馈等，替代传统的图表仪表板分析。该功能基于大语言模型，将复杂的数据分析转化为对话式交互，降低创作者的数据解读门槛，提升内容策略效率。商业上，此举有助于增强创作者粘性、优化平台内容生态；产品创新上，从被动数据展示转向主动智能问答，代表了AI辅助创作的新范式。</p></description>
       <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Airbnb&amp;#8217;s Brian Chesky plans to launch a new AI lab</title>
-      <link>https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/</link>
-      <guid isPermaLink="false">airbnb8217s-brian-chesky-plans-to-launch-a-new-ai-lab</guid>
-      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Airbnb CEO Brian Chesky 计划成立新的 AI 实验室，此前他曾表示公司未与大型语言模型（LLM）提供商达成合作，因为现有产品尚未成熟。此举标志着 Airbnb 从观望转向主动布局 AI，旨在探索旅行体验、个性化推荐及运营效率的提升。该实验室可能聚焦于垂直场景的 AI 应用，利用用户数据优化房源匹配和定价策略，同时避免盲目捆绑通用模型。这一战略反映了企业对 AI 产品化落地的审慎态度，强调“先建能力，再找场景”的务实路径，对同类平台型产品的 AI 投入有借鉴意义。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Meta steals a tactic from Tesla and builds data centers in tents</title>
-      <link>https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/</link>
-      <guid isPermaLink="false">meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents</guid>
-      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Meta 借鉴特斯拉的帐篷式建设模式，通过模块化临时建筑快速搭建数据中心，旨在大幅削减高昂的电力与冷却成本。这种创新基础设施策略有望降低 AI 模型训练与推理的边际成本，进而影响产品定价、服务可用性和商业化路径。对于 AI 产品经理而言，这意味着更灵活的资源部署能力和更具竞争力的成本结构，从而加速新功能落地并扩大用户规模。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Anthropic's open-source framework for AI-powered vulnerability discovery</title>
-      <link>https://news.ycombinator.com/item?id=48403980</link>
-      <guid isPermaLink="false">anthropics-open-source-framework-for-ai-powered-vulnerability-discovery</guid>
-      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic 发布了开源框架，用于 AI 驱动的漏洞发现。该框架利用大语言模型的推理能力自动化检测代码和系统中的安全漏洞，提升安全测试效率与覆盖面。作为开源项目，它降低了企业应用 AI 安全工具的门槛，促进社区协作与定制化开发。对于产品经理，这意味着可以更快地集成智能安全能力，减少人工审计成本，并基于社区反馈迭代产品安全特性，具有显著的商业与产品创新价值。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Apple approves Poke as the first AI agent on its Messages for Business platform</title>
-      <link>https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/</link>
-      <guid isPermaLink="false">apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform</guid>
-      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Apple 首次批准 AI 代理进入其 Messages for Business 平台，合作方为初创公司 Poke。Poke 允许用户通过简单短信与 AI 代理交互，无需下载独立应用。此次批准标志着 Apple 在企业级消息服务中正式拥抱 AI 能力，为商家提供了直接通过 iMessage 部署智能客服、销售助手等应用的新渠道。对产品经理而言，这降低了用户触达门槛，将 AI 交互嵌入日常通讯场景，并借助 Apple 生态的信任机制提升采纳率。该合作也预示着平台型 AI 分发模式的兴起，可能催生新的 B2B2C 商业模式。</p></description>
-      <category>🔧 工具生态</category>
     </item>
   </channel>
 </rss>
