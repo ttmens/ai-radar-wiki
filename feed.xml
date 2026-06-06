@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 06 Jun 2026 08:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 12:01:22 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -35,6 +35,14 @@
       <pubDate>2026-06-06T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google 每月向 SpaceX 支付 9.2 亿美元以获取计算资源，这源于其 AI 产品需求激增。该合作凸显了大规模 AI 部署对算力的巨大依赖，可能推动 Google 采用星链边缘计算来降低延迟，同时加剧云计算市场竞争。对 AI 产品经理而言，这意味着基础设施成本将显著影响产品定价与架构设计，需提前规划分布式推理、模型压缩等策略。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Ask HN: Why is the HN crowd so anti-AI?</title>
+      <link>https://news.ycombinator.com/item?id=48420827</link>
+      <guid isPermaLink="false">ask-hn-why-is-the-hn-crowd-so-anti-ai</guid>
+      <pubDate>2026-06-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Hacker News社区对AI普遍持怀疑态度，该讨论帖旨在探究背后的原因。这种反对情绪可能源于对AI技术潜在风险（如隐私、虚假信息、垄断）以及过度炒作的反感。对于AI产品经理而言，理解开发者社区的真实疑虑至关重要：信任缺失可能影响产品的技术采纳和口碑。需要关注如何通过透明性、本地优先或开源策略来缓解社区阻力。</p></description>
+      <category>🔧 工具生态</category>
     </item>
     <item>
       <title>Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency</title>
@@ -139,6 +147,14 @@
       <pubDate>2026-06-06T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文探讨如何在不使用传统循环结构（如BPTT）的前提下预训练递归神经网络，通过替代方案解决标准方法在长序列中并行性差和梯度消失/爆炸的问题。该技术有望显著提升模型训练效率及长程依赖的建模能力，对需要处理长时间上下文的产品（如语音助手、视频分析）具有潜在商业价值，可能推动更轻量、高效的序列模型创新。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>S&amp;P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic</title>
+      <link>https://news.ycombinator.com/item?id=48421442</link>
+      <guid isPermaLink="false">sp-500-rejects-spacex-also-blocking-entry-for-openai-and-anthropic</guid>
+      <pubDate>2026-06-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>标普500指数拒绝将SpaceX、OpenAI和Anthropic纳入成分股，这意味着这些高增长AI/航天公司无法通过被动指数基金获得主流投资者资金。此举限制了它们的二级市场流动性和估值锚定，可能迫使公司更依赖私募融资或寻求其他交易所上市。对AI产品经理而言，间接影响是：目标公司若无法登陆顶级指数，其长期研发预算和人才吸引力可能受抑，进而影响行业技术迭代节奏。同时，这一排斥信号会推动更多AI公司探索直接上市、SPAC或转向全球其他资本市场。</p></description>
+      <category>🔧 工具生态</category>
     </item>
     <item>
       <title>AirTrunk commits $30B to build 5GW of AI data centers in India</title>
@@ -309,6 +325,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>The back cover of C++: The Language raises questions not answered by front cover</title>
+      <link>https://news.ycombinator.com/item?id=48421079</link>
+      <guid isPermaLink="false">the-back-cover-of-c-the-language-raises-questions-not-answered-by-front-cover</guid>
+      <pubDate>2026-06-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容讨论C++编程语言书籍的封面设计问题，指出后封面提出了前封面未回答的疑问，暗示了语言本身的复杂性和文档中存在的认知缺口。虽然标题不直接涉及AI技术，但可类比产品文档中常见的信息不完整问题，提醒产品经理在构建AI产品时需确保宣传材料与实际能力一致。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>When AI Builds Itself: Our progress toward recursive self-improvement</title>
       <link>https://news.ycombinator.com/item?id=48400842</link>
       <guid isPermaLink="false">when-ai-builds-itself-our-progress-toward-recursive-self-improvement</guid>
@@ -387,30 +411,6 @@
       <pubDate>2026-06-05T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Apple 首次批准 AI 代理进入其 Messages for Business 平台，合作方为初创公司 Poke。Poke 允许用户通过简单短信与 AI 代理交互，无需下载独立应用。此次批准标志着 Apple 在企业级消息服务中正式拥抱 AI 能力，为商家提供了直接通过 iMessage 部署智能客服、销售助手等应用的新渠道。对产品经理而言，这降低了用户触达门槛，将 AI 交互嵌入日常通讯场景，并借助 Apple 生态的信任机制提升采纳率。该合作也预示着平台型 AI 分发模式的兴起，可能催生新的 B2B2C 商业模式。</p></description>
       <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Activation-Based Active Learning for In-Context Learning: Challenges and Insight</title>
-      <link>http://arxiv.org/abs/2606.05134v1</link>
-      <guid isPermaLink="false">activation-based-active-learning-for-in-context-learning-challenges-and-insights</guid>
-      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文研究利用Transformer模型内部激活信号来优化大语言模型的上下文学习（In-Context Learning）样本选择。传统主动学习仅依赖模型输出不确定性，而本文提出基于激活值的细粒度主动学习策略，能更精准地识别对推理最有帮助的示例，从而提升少样本场景下的性能。该方法有望降低人工标注成本，并增强产品中AI助手的即时适应能力。技术亮点在于将深度学习对激活的理解转化为可操作的样本筛选机制，具备直接产品化潜力。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Streaming Communication in Multi-Agent Reasoning</title>
-      <link>http://arxiv.org/abs/2606.05158v1</link>
-      <guid isPermaLink="false">streaming-communication-in-multi-agent-reasoning</guid>
-      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>多智能体推理系统传统采用“生成-再传输”范式，导致端到端延迟随流水线深度线性增长。StreamMA 提出流式通信机制，每个推理步骤一旦生成即立即传输给下游智能体，实现相邻智能体间的流水线并行。该技术显著降低多智能体协作的响应延迟，提升实时性，适用于复杂推理任务如对话系统、代码生成等产品场景。商业价值在于支持更高效的 agent 协作，减少等待时间，优化用户体验，并可能降低算力消耗。产品创新点在于将流式思想引入多智能体推理，打破串行瓶颈。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Failed Reasoning Traces Tell You What Is Fixable (But Not by Reading Them)</title>
-      <link>http://arxiv.org/abs/2606.05145v1</link>
-      <guid isPermaLink="false">failed-reasoning-traces-tell-you-what-is-fixable-but-not-by-reading-them</guid>
-      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文指出，后训练语言模型在推理任务失败时，通常采用增加计算量进行多次尝试的测试时扩展策略，但丢弃了失败轨迹。作者认为失败轨迹包含了可修复的宝贵信号，部分失败源于采样不佳，更多尝试即可解决。产品经理应关注如何利用失败轨迹更高效地定位模型薄弱环节，而非单纯堆算力，这能降低推理成本并加速模型迭代。</p></description>
-      <category>🤖 技术能力</category>
     </item>
   </channel>
 </rss>
