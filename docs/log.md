@@ -1475,3 +1475,9 @@
 - create: google-will-pay-spacex-920m-per-month-for-compute.md
 - create: the-most-interesting-startups-right-now-want-to-get-you-off-your-phone.md
 - create: the-8216together-tech8217-wave-might-be-the-most-intriguing-startup-bet-of-2026.md
+
+## [2026-06-06 12:02] sync v3 | 4 new | pillars: {'capabilities': 4}
+- create: the-intracies-of-modern-camera-lens-repair-2024.md
+- create: how-llms-work.md
+- create: aging-and-eye-problems.md
+- create: inside-faiss-billion-scale-similarity-search.md

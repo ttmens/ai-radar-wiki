@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-06 | Total pages: 1274
+> Last updated: 2026-06-06 | Total pages: 1278
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -21,6 +21,7 @@
 - [[adaption-aims-big-with-autoscientist-an-ai-tool-t.md]] Adaption aims big with AutoScientist, an AI tool that helps models train themsel `pillar:capabilities` `score:0.305`
 - [[after-nvidia8217s-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650.md]] After Nvidia&#8217;s $20B not-acqui-hire, AI chip startup Groq reportedly raisin `pillar:capabilities` `score:0.48`
 - [[ageronhandson-ml.md]] ageron/handson-ml `pillar:capabilities` `score:0.51`
+- [[aging-and-eye-problems.md]] Aging and Eye Problems `pillar:capabilities` `score:0.395`
 - [[ai-ashby-engineering-and-the-future.md]] AI, Ashby Engineering, and the future `pillar:capabilities` `score:0.36`
 - [[ai-datacenters-were-built-for-gpus-what-happens-when-you-remove-the-gpus.md]] AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs? `pillar:capabilities` `score:0.345`
 - [[ai-errno2-values.md]] AI errno(2) values `pillar:capabilities` `score:0.31`
@@ -142,6 +143,7 @@
 - [[how-claude-code-works-in-large-codebases.md]] How Claude Code works in large codebases `pillar:capabilities` `score:0.365`
 - [[how-fast-does-claude-acting-as-a-user-space-ip-st.md]] How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings? `pillar:capabilities` `score:0.36`
 - [[how-is-groq-raising-more-money.md]] How is Groq raising more money? `pillar:capabilities` `score:0.33`
+- [[how-llms-work.md]] How LLMs work `pillar:capabilities` `score:0.295`
 - [[how-turkey-hacked-the-hair-transplant-industry.md]] How turkey hacked the hair-transplant industry `pillar:capabilities` `score:0.43`
 - [[hpcaitechcolossalai.md]] hpcaitech/ColossalAI `pillar:capabilities` `score:0.615`
 - [[html-in-canvas-demos.md]] HTML-in-Canvas Demos `pillar:capabilities` `score:0.225`
@@ -159,6 +161,7 @@
 - [[im-writing-again.md]] I’m writing again `pillar:capabilities` `score:0.48`
 - [[in-browser-container-builds.md]] In-Browser Container Builds `pillar:capabilities` `score:0.33`
 - [[infomaniak-transitions-to-a-foundation-model-to-protect-user-data-privacy.md]] Infomaniak transitions to a foundation model to protect user data privacy `pillar:capabilities` `score:0.415`
+- [[inside-faiss-billion-scale-similarity-search.md]] Inside FAISS: Billion-Scale Similarity Search `pillar:capabilities` `score:0.415`
 - [[interfaze-a-new-model-architecture-built-for-high.md]] Interfaze: A new model architecture built for high accuracy at scale `pillar:capabilities` `score:0.205`
 - [[interpretmlinterpret.md]] interpretml/interpret `pillar:capabilities` `score:0.53`
 - [[intro-to-tla-for-the-llm-era-prompt-your-way-to-victory.md]] Intro to TLA+ for the LLM Era: Prompt Your Way to Victory `pillar:capabilities` `score:0.395`
@@ -315,6 +318,7 @@
 - [[the-four-horsemen-of-the-llm-apocalypse.md]] The Four Horsemen of the LLM Apocalypse `pillar:capabilities` `score:0.33`
 - [[the-greatest-shot-in-television-james-burke-had-o.md]] The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene `pillar:capabilities` `score:0.155`
 - [[the-history-of-prisencolinensinainciusol.md]] The History of "Prisencolinensinainciusol" `pillar:capabilities` `score:0.12`
+- [[the-intracies-of-modern-camera-lens-repair-2024.md]] The intracies of modern camera lens repair (2024) `pillar:capabilities` `score:0.22`
 - [[the-kaiser-and-a-mediocre-man-theory-of-history.md]] The Kaiser and a "Mediocre Man" Theory of History `pillar:capabilities` `score:0.41`
 - [[the-last-six-months-in-llms-in-five-minutes.md]] The last six months in LLMs in five minutes `pillar:capabilities` `score:0.415`
 - [[the-main-thing-about-p2p-meth-is-that-theres-so-much-of-it-2021.md]] The main thing about P2P meth is that there's so much of it (2021) `pillar:capabilities` `score:0.305`
