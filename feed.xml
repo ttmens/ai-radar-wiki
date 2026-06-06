@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 06 Jun 2026 00:05:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 04:03:21 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -205,12 +205,28 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Inside FAISS: Billion-Scale Similarity Search</title>
+      <link>https://news.ycombinator.com/item?id=48398689</link>
+      <guid isPermaLink="false">inside-faiss-billion-scale-similarity-search</guid>
+      <pubDate>2026-06-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>FAISS是Meta开源的十亿级向量相似性搜索库，通过乘积量化(IVF+PQ)、HNSW等算法实现近似最近邻搜索(ANN)，支持GPU加速和大规模索引。其核心价值在于以极低延迟和内存开销支持语义搜索、推荐系统和RAG等AI产品。产品经理可关注其如何用局部敏感哈希和量化压缩降低存储成本，并通过多级索引实现十亿级数据实时检索，是构建AI记忆与上下文的底层基础设施。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>The most interesting startups right now want to get you off your phone</title>
       <link>https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/</link>
       <guid isPermaLink="false">the-most-interesting-startups-right-now-want-to-get-you-off-your-phone</guid>
       <pubDate>2026-06-06T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>当前AI领域融资热潮持续，但一些有趣的初创公司反其道而行之，专注于让人们放下手机、回归线下社交。例如，Mirror创始人Brynn Putnam新创立的Board公司，通过组织面对面游戏和社交体验来促进人际连接。这反映了在AI过度数字化背景下，产品创新开始关注平衡数字与真实世界，满足用户对深度社交和脱离屏幕的需求。商业价值在于捕捉反算法、反成瘾趋势的细分市场，产品经理可从中获得关于用户心理与场景设计的启示。</p></description>
       <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Aging and Eye Problems</title>
+      <link>https://news.ycombinator.com/item?id=48416392</link>
+      <guid isPermaLink="false">aging-and-eye-problems</guid>
+      <pubDate>2026-06-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文讨论AI技术在老年眼病（如白内障、黄斑变性）中的应用，重点在于通过深度学习算法实现早期筛查和诊断，提升准确率并降低医疗成本。商业价值体现在推动远程医疗和个性化治疗方案的落地，对AI产品经理而言，需关注医疗合规、数据标注精度及用户隐私保护。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Hacker News, Sans AI</title>
@@ -261,6 +277,14 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>How LLMs work</title>
+      <link>https://news.ycombinator.com/item?id=48389360</link>
+      <guid isPermaLink="false">how-llms-work</guid>
+      <pubDate>2026-06-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容解释了大型语言模型（LLM）的核心工作原理，包括基于Transformer架构的预训练-微调范式、自注意力机制如何捕捉长距离依赖，以及通过大规模文本数据学习语言统计规律。产品经理需理解LLM的涌现能力（如上下文学习、指令遵循）依赖于模型规模与训练数据质量，这直接影响产品中的生成效果、推理成本与任务适配方式。商业价值体现在快速构建对话、内容生成等场景，但需警惕幻觉与高算力消耗，产品设计应结合检索增强生成（RAG）等补偿技术。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Show HN: Papernews – self-hosted daily newspaper PDF for your reMarkable</title>
       <link>https://github.com/marcj/papernews</link>
       <guid isPermaLink="false">show-hn-papernews-self-hosted-daily-newspaper-pdf-for-your-remarkable</guid>
@@ -275,6 +299,14 @@
       <pubDate>2026-06-06T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>TechCrunch Disrupt 2026大会的Startup Battlefield 200创业竞赛申请将于6月8日截止，优胜者可在10月于旧金山Moscone West举行的Disrupt Stage上进行路演。该活动为AI初创企业提供展示平台，但本信息仅涉及报名截止日期，未透露具体技术或商业模式。对于AI产品经理而言，这主要是一个生态参与机会，缺乏技术细节和产品创新描述。</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>The intracies of modern camera lens repair (2024)</title>
+      <link>https://news.ycombinator.com/item?id=48420148</link>
+      <guid isPermaLink="false">the-intracies-of-modern-camera-lens-repair-2024</guid>
+      <pubDate>2026-06-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>该文章探讨现代相机镜头维修的复杂性，涉及精密光学与机械结构，但标题未提及AI技术，可能属于硬件维护领域。对AI产品经理而言，直接参考价值有限，但可启发对传统硬件与AI结合（如自动对焦算法、图像校正）的思考。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>When AI Builds Itself: Our progress toward recursive self-improvement</title>
@@ -379,38 +411,6 @@
       <pubDate>2026-06-05T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文指出，后训练语言模型在推理任务失败时，通常采用增加计算量进行多次尝试的测试时扩展策略，但丢弃了失败轨迹。作者认为失败轨迹包含了可修复的宝贵信号，部分失败源于采样不佳，更多尝试即可解决。产品经理应关注如何利用失败轨迹更高效地定位模型薄弱环节，而非单纯堆算力，这能降低推理成本并加速模型迭代。</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Reinforcement Learning from Rich Feedback with Distributional DAgger</title>
-      <link>http://arxiv.org/abs/2606.05152v1</link>
-      <guid isPermaLink="false">reinforcement-learning-from-rich-feedback-with-distributional-dagger</guid>
-      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出Distributional DAgger方法，旨在突破传统强化学习仅依赖二元正确性反馈的局限，利用更丰富的反馈信号（如部分正确、推理过程质量）来训练推理模型。该方法通过分布式的数据聚合策略，使模型从细粒度反馈中更高效学习，提升复杂推理任务表现。对产品经理而言，这意味着可训练出更聪明、更稳健的AI助手，尤其在需要逐步推理或用户交互反馈的场景（如代码生成、教育问答）中具有商业价值，能显著降低人工标注成本并提升用户体验。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Do transformers need three projections? Systematic study of QKV variants</title>
-      <link>https://news.ycombinator.com/item?id=48405931</link>
-      <guid isPermaLink="false">do-transformers-need-three-projections-systematic-study-of-qkv-variants</guid>
-      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该研究系统性地调查了Transformer架构中QKV投影的必要性，探讨是否可以采用简化或变体投影机制替代标准的三投影设计。实验分析不同QKV变体对模型效果、计算效率及参数量的影响，旨在为轻量化部署提供理论依据。对AI产品经理而言，这意味着可能通过减少投影矩阵来降低模型推理成本，同时保持性能，从而推动边缘设备上的高效NLP应用。研究结果有助于指导下一代高效Transformer架构设计，平衡精度与资源消耗。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on</title>
-      <link>https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/</link>
-      <guid isPermaLink="false">defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-j</guid>
-      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>StrictlyVC洛杉矶大会将于6月18日在美国埃尔塞贡多的航空航天公司园区举行，汇聚投资者、创始人和科技领袖。会议重点探讨国防科技（Defense Tech）与AI的融合趋势，以及当前环境下的融资策略。对于AI产品经理而言，这意味着国防领域对AI产品的需求增加，如自主系统、威胁检测和决策辅助等；同时投资者更关注能服务政府/国防客户的AI初创公司，产品需要强调安全性与合规性。该活动反映了AI应用从消费互联网向国家安全领域的生态延伸。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Mira Murati steps back into the spotlight, carefully</title>
-      <link>https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/</link>
-      <guid isPermaLink="false">mira-murati-steps-back-into-the-spotlight-carefully</guid>
-      <pubDate>2026-06-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>前OpenAI CTO Mira Murati谨慎重返公众视野，此举反映了当前AI行业中保持低调的策略已收益递减。她认为公司或个人需主动制造声量以提醒市场自身存在，这对产品经理而言是重要的市场信号与品牌管理启示。她的复出不仅关乎个人职业动向，更象征着在激烈竞争中技术领导者必须兼顾产品创新与市场沟通，避免被快速迭代的生态边缘化。这一事件提示产品经理在打造技术产品的同时，需规划阶段性市场发声策略，维持用户与投资者的关注度。</p></description>
-      <category>💰 商业趋势</category>
     </item>
   </channel>
 </rss>
