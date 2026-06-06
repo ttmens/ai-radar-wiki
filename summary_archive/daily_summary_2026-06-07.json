@@ -2,53 +2,98 @@
   "daily_summary": {
     "date": "2026-06-07",
     "headline": "今日 AI 情报 · 2026-06-07",
-    "overview": "数据基础设施争夺与统一监管加速，AI生态进入下半场。",
+    "overview": "AI安全与监管从被动应对转向主动设计，成为产品核心壁垒",
     "narratives": [
       {
-        "title": "数据基础设施与政策标准化：AI生态进入新阶段",
-        "body": "智能电视成为AI抓取经济节点、联邦统一监管草案浮出水面、Meta模型发布延迟暴露平台控制博弈——三件独立事件共同指向一个趋势：AI生态正从模型能力竞赛转向数据基础设施与政策治理的较量。产品经理需警惕对单一平台的数据依赖，提前布局边缘计算与合规策略。",
+        "title": "AI安全与监管从边缘走向核心，产品设计面临硬约束",
+        "body": "从Meta账户被黑客利用AI交互漏洞，到OpenAI推出Lockdown Mode防御提示注入，再到政府层面禁止AI在法庭使用、推动联邦统一监管、甚至考虑股权投资——AI安全与治理不再是可选项，而是决定产品生死的基础设施。产品经理需将安全、合规、可解释性嵌入设计起点，而非事后补救。",
         "type": "paradigm_shift",
         "pillar_key": "ecosystem"
-      },
-      {
-        "title": "基准测试验证模型能力突破，选型需动态评估",
-        "body": "莱比锡基准测试的动态更新为产品经理提供了评估模型演进的窗口。随着评测方法向更贴近真实场景演进，模型选型不再依赖静态分数，而需结合任务类型与成本结构持续审视。",
-        "type": "maturation",
-        "pillar_key": "capabilities"
       }
     ],
     "insights": [
       {
-        "pillar": "🔧 工具生态",
-        "pillar_key": "ecosystem",
-        "narrative_title": "数据基础设施与政策标准化：AI生态进入新阶段",
-        "insight": "数据基础设施与政策标准化：AI生态进入新阶段。该方向的具体信号：智能电视正被转化为AI数据采集节点，其内置传感器和联网能力为模型训练提供低成本真实场景数据，标志着传统家电向AI基础设施转型；同时，美国众议院草案拟禁止各州自定AI法规，推动联邦统一监管，这将直接影响产品跨州合规成本与部署策略；而Meta多次推迟发布新模型给开发者，折射出大型平台在开放与封闭之间的权衡，开发者生态的稳定性面临挑战。产品经理需同步关注数据隐私授权机制、联邦标准时间线以及平台依赖风险，探索电视作为家庭AI入口的可行性。",
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI安全与监管从边缘走向核心，产品设计面临硬约束",
+        "insight": "AI安全与监管从边缘走向核心，产品设计面临硬约束。该方向的具体信号：Meta因AI聊天机器人设计缺陷导致数千账户被黑，暴露了交互层面安全机制的缺失；大学毕业生失业率超均值则从劳动力结构侧面印证AI对就业的冲击，倒逼产品经理在功能设计时兼顾社会影响与用户信任。",
         "evidence": [
           {
-            "id": "meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers",
-            "title": "Meta多次延迟发布新AI模型，开发者生态不确定性增加",
-            "score": 0.29
+            "id": "meta-confirms-1000s-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot",
+            "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+            "score": 0.61
           }
         ]
       },
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "narrative_title": "基准测试验证模型能力突破，选型需动态评估",
-        "insight": "基准测试验证模型能力突破，选型需动态评估。该方向的具体信号：莱比锡基准测试关注特定任务（如推理、多模态），其评测设计与结果揭示了当前模型能力的边界与突破点，为产品经理评估不同模型在真实场景中的表现提供了关键参考，有助于动态优化产品路线图与商业化选型。",
+        "narrative_title": "AI安全与监管从边缘走向核心，产品设计面临硬约束",
+        "insight": "AI安全与监管从边缘走向核心，产品设计面临硬约束。该方向的具体信号：OpenAI推出Lockdown Mode专门防御提示注入，标志着模型层安全能力从可选升级为标配；同时，统一决策树与扩散模型的研究试图在可解释性与生成质量间取得平衡，满足高风险场景的合规要求。",
         "evidence": [
           {
-            "id": "benchmarks-in-leipzig",
-            "title": "莱比锡基准测试揭示模型能力新进展，指导产品选型",
-            "score": 0.4
+            "id": "openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-att",
+            "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+            "score": 0.48
+          },
+          {
+            "id": "trees-to-flows-and-back-unifying-decision-trees-and-diffusion-models",
+            "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+            "score": 0.33
+          }
+        ]
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "AI安全与监管从边缘走向核心，产品设计面临硬约束",
+        "insight": "AI安全与监管从边缘走向核心，产品设计面临硬约束。该方向的具体信号：英格兰警方被叫停AI在法庭的使用、白宫AI顾问离职创业、联邦拟禁止各州自定AI法规——政策层正在密集划定红线；智能电视成为AI数据抓取节点则凸显了隐私与数据治理的灰色地带。",
+        "evidence": [
+          {
+            "id": "police-in-england-and-wales-told-to-halt-ai-use-in-court-statements",
+            "title": "Police in England and Wales told to halt AI use in court statements",
+            "score": 0.48
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI安全与监管从边缘走向核心，产品设计面临硬约束",
+        "insight": "AI安全与监管从边缘走向核心，产品设计面临硬约束。该方向的具体信号：特朗普政府考虑对OpenAI进行股权投资，将政府力量直接注入AI企业治理，标志着国家层面通过资本手段影响AI安全与开放路线，商业模式与合规要求深度绑定。",
+        "evidence": [
+          {
+            "id": "the-trump-administration-might-take-an-equity-stake-in-openai",
+            "title": "The Trump administration might take an equity stake in OpenAI",
+            "score": 0.45
           }
         ]
       }
     ],
-    "stats": "技术能力: 1 | 产品模式: 0 | 工具生态: 3 | 商业趋势: 0",
-    "total_items": 4,
-    "high_value_count": 3,
+    "stats": "技术能力: 3 | 产品模式: 3 | 工具生态: 6 | 商业趋势: 1",
+    "total_items": 13,
+    "high_value_count": 11,
     "all_today_ids": [
+      {
+        "id": "meta-confirms-1000s-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot",
+        "label": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot"
+      },
+      {
+        "id": "police-in-england-and-wales-told-to-halt-ai-use-in-court-statements",
+        "label": "Police in England and Wales told to halt AI use in court statements"
+      },
+      {
+        "id": "sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor",
+        "label": "Sriram Krishnan is leaving his role as White House AI advisor"
+      },
+      {
+        "id": "openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-att",
+        "label": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection att"
+      },
+      {
+        "id": "the-trump-administration-might-take-an-equity-stake-in-openai",
+        "label": "The Trump administration might take an equity stake in OpenAI"
+      },
       {
         "id": "the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy",
         "label": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
@@ -62,11 +107,27 @@
         "label": "US House lawmakers release draft bill to prohibit state AI rules"
       },
       {
+        "id": "pentagon-raised-threat-of-israeli-spying-on-us-to-highest-level-sources-say",
+        "label": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say"
+      },
+      {
+        "id": "trees-to-flows-and-back-unifying-decision-trees-and-diffusion-models",
+        "label": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models"
+      },
+      {
+        "id": "universal-memory-protocol-a-shared-format-for-agent-memory",
+        "label": "Universal Memory Protocol – a shared format for agent memory"
+      },
+      {
         "id": "meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers",
         "label": "Meta Keeps Delaying the Release of Its New AI Model to Developers"
+      },
+      {
+        "id": "new-us-college-grads-now-have-higher-unemployment-than-the-average-worker",
+        "label": "New U.S. college grads now have higher unemployment than the average worker"
       }
     ],
     "date_bj": "2026-06-07 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-06-07 00:02:05"
+    "generated_at_bj": "2026-06-07 06:21:47"
   }
 }
