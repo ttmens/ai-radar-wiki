@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-06 | Total pages: 1278
+> Last updated: 2026-06-06 | Total pages: 1281
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -315,6 +315,7 @@
 - [[tensorflowtfjs.md]] tensorflow/tfjs `pillar:capabilities` `score:0.58`
 - [[the-ai-zombification-of-universities.md]] The AI Zombification of Universities `pillar:capabilities` `score:0.515`
 - [[the-art-of-hackingh4cker.md]] The-Art-of-Hacking/h4cker `pillar:capabilities` `score:0.58`
+- [[the-back-cover-of-c-the-language-raises-questions-not-answered-by-front-cover.md]] The back cover of C++: The Language raises questions not answered by front cover `pillar:capabilities` `score:0.185`
 - [[the-four-horsemen-of-the-llm-apocalypse.md]] The Four Horsemen of the LLM Apocalypse `pillar:capabilities` `score:0.33`
 - [[the-greatest-shot-in-television-james-burke-had-o.md]] The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene `pillar:capabilities` `score:0.155`
 - [[the-history-of-prisencolinensinainciusol.md]] The History of "Prisencolinensinainciusol" `pillar:capabilities` `score:0.12`
@@ -865,6 +866,7 @@
 - [[apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform.md]] Apple approves Poke as the first AI agent on its Messages for Business platform `pillar:ecosystem` `score:0.48`
 - [[apple-touts-14-trillion-in-app-store-billings-and-sales-90-without-a-commission.md]] Apple touts $1.4 trillion in App Store billings and sales, 90% without a commiss `pillar:ecosystem` `score:0.375`
 - [[asgeirtjsystem_prompts_leaks.md]] asgeirtj/system_prompts_leaks `pillar:ecosystem` `score:0.58`
+- [[ask-hn-why-is-the-hn-crowd-so-anti-ai.md]] Ask HN: Why is the HN crowd so anti-AI? `pillar:ecosystem` `score:0.545`
 - [[at-techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-dea.md]] At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI d `pillar:ecosystem` `score:0.48`
 - [[berriailitellm.md]] BerriAI/litellm `pillar:ecosystem` `score:0.615`
 - [[blaise-a-modern-self-hosting-zero-legacy-object.md]] Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE `pillar:ecosystem` `score:0.155`
@@ -971,6 +973,7 @@
 - [[show-hn-torrix-self-hosted-llm-observabilityn.md]] Show HN: Torrix, self hosted, LLM Observability,(no Postgres, no Redis) `pillar:ecosystem` `score:0.155`
 - [[silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-p.md]] Silicon Valley’s vacationland needs a new energy provider just as AI is driving `pillar:ecosystem` `score:0.445`
 - [[snailclimbjavaguide.md]] Snailclimb/JavaGuide `pillar:ecosystem` `score:0.51`
+- [[sp-500-rejects-spacex-also-blocking-entry-for-openai-and-anthropic.md]] S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic `pillar:ecosystem` `score:0.46`
 - [[spring-projectsspring-ai.md]] spring-projects/spring-ai `pillar:ecosystem` `score:0.53`
 - [[startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-appl.md]] Startup Battlefield 200 applications close in 1 week: Window to nominate and app `pillar:ecosystem` `score:0.41`
 - [[startup-battlefield-200-applications-close-in-days-apply-before-may-27.md]] Startup Battlefield 200 applications close in days: Apply before May 27 `pillar:ecosystem` `score:0.41`

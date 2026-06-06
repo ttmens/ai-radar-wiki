@@ -1481,3 +1481,8 @@
 - create: how-llms-work.md
 - create: aging-and-eye-problems.md
 - create: inside-faiss-billion-scale-similarity-search.md
+
+## [2026-06-06 18:04] sync v3 | 3 new | pillars: {'capabilities': 3}
+- create: sp-500-rejects-spacex-also-blocking-entry-for-openai-and-anthropic.md
+- create: the-back-cover-of-c-the-language-raises-questions-not-answered-by-front-cover.md
+- create: ask-hn-why-is-the-hn-crowd-so-anti-ai.md
