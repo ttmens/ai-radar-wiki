@@ -1,0 +1,72 @@
+{
+  "daily_summary": {
+    "date": "2026-06-07",
+    "headline": "今日 AI 情报 · 2026-06-07",
+    "overview": "数据基础设施争夺与统一监管加速，AI生态进入下半场。",
+    "narratives": [
+      {
+        "title": "数据基础设施与政策标准化：AI生态进入新阶段",
+        "body": "智能电视成为AI抓取经济节点、联邦统一监管草案浮出水面、Meta模型发布延迟暴露平台控制博弈——三件独立事件共同指向一个趋势：AI生态正从模型能力竞赛转向数据基础设施与政策治理的较量。产品经理需警惕对单一平台的数据依赖，提前布局边缘计算与合规策略。",
+        "type": "paradigm_shift",
+        "pillar_key": "ecosystem"
+      },
+      {
+        "title": "基准测试验证模型能力突破，选型需动态评估",
+        "body": "莱比锡基准测试的动态更新为产品经理提供了评估模型演进的窗口。随着评测方法向更贴近真实场景演进，模型选型不再依赖静态分数，而需结合任务类型与成本结构持续审视。",
+        "type": "maturation",
+        "pillar_key": "capabilities"
+      }
+    ],
+    "insights": [
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "数据基础设施与政策标准化：AI生态进入新阶段",
+        "insight": "数据基础设施与政策标准化：AI生态进入新阶段。该方向的具体信号：智能电视正被转化为AI数据采集节点，其内置传感器和联网能力为模型训练提供低成本真实场景数据，标志着传统家电向AI基础设施转型；同时，美国众议院草案拟禁止各州自定AI法规，推动联邦统一监管，这将直接影响产品跨州合规成本与部署策略；而Meta多次推迟发布新模型给开发者，折射出大型平台在开放与封闭之间的权衡，开发者生态的稳定性面临挑战。产品经理需同步关注数据隐私授权机制、联邦标准时间线以及平台依赖风险，探索电视作为家庭AI入口的可行性。",
+        "evidence": [
+          {
+            "id": "meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers",
+            "title": "Meta多次延迟发布新AI模型，开发者生态不确定性增加",
+            "score": 0.29
+          }
+        ]
+      },
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "基准测试验证模型能力突破，选型需动态评估",
+        "insight": "基准测试验证模型能力突破，选型需动态评估。该方向的具体信号：莱比锡基准测试关注特定任务（如推理、多模态），其评测设计与结果揭示了当前模型能力的边界与突破点，为产品经理评估不同模型在真实场景中的表现提供了关键参考，有助于动态优化产品路线图与商业化选型。",
+        "evidence": [
+          {
+            "id": "benchmarks-in-leipzig",
+            "title": "莱比锡基准测试揭示模型能力新进展，指导产品选型",
+            "score": 0.4
+          }
+        ]
+      }
+    ],
+    "stats": "技术能力: 1 | 产品模式: 0 | 工具生态: 3 | 商业趋势: 0",
+    "total_items": 4,
+    "high_value_count": 3,
+    "all_today_ids": [
+      {
+        "id": "the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy",
+        "label": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy"
+      },
+      {
+        "id": "benchmarks-in-leipzig",
+        "label": "Benchmarks in Leipzig"
+      },
+      {
+        "id": "us-house-lawmakers-release-draft-bill-to-prohibit-state-ai-rules",
+        "label": "US House lawmakers release draft bill to prohibit state AI rules"
+      },
+      {
+        "id": "meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers",
+        "label": "Meta Keeps Delaying the Release of Its New AI Model to Developers"
+      }
+    ],
+    "date_bj": "2026-06-07 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-06-07 00:02:05"
+  }
+}

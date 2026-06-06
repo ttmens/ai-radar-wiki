@@ -1486,3 +1486,9 @@
 - create: sp-500-rejects-spacex-also-blocking-entry-for-openai-and-anthropic.md
 - create: the-back-cover-of-c-the-language-raises-questions-not-answered-by-front-cover.md
 - create: ask-hn-why-is-the-hn-crowd-so-anti-ai.md
+
+## [2026-06-07 00:02] sync v3 | 4 new | pillars: {'capabilities': 3, 'ecosystem': 1}
+- create: benchmarks-in-leipzig.md
+- create: us-house-lawmakers-release-draft-bill-to-prohibit-state-ai-rules.md
+- create: the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy.md
+- create: meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers.md
