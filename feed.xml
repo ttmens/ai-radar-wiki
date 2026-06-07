@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 07 Jun 2026 08:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 12:00:41 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -19,6 +19,14 @@
       <pubDate>2026-06-07T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Meta确认数千个Instagram账户因滥用其AI聊天机器人功能而被黑客入侵。攻击者利用AI交互中的设计缺陷（可能是提示注入或会话劫持）绕过安全控制，导致用户账户被盗。这一事件凸显了将AI功能集成到社交平台时面临的新安全挑战——传统安全措施难以防范针对AI交互的攻击。对于AI产品经理而言，需要在设计阶段就嵌入AI安全机制，如敏感操作二次确认、会话边界隔离、输入输出过滤等。商业上，此类漏洞会严重损害用户信任和平台声誉，需优先投入安全研发。产品创新方向包括引入实时行为检测和动态权限管理，防止AI被用作攻击向量。</p></description>
       <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>I design with Claude more than Figma now</title>
+      <link>https://news.ycombinator.com/item?id=48431981</link>
+      <guid isPermaLink="false">i-design-with-claude-more-than-figma-now</guid>
+      <pubDate>2026-06-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容指出Claude（Anthropic的AI助手）在设计工作中的使用频率已超过传统设计工具Figma，反映了AI在设计领域的实用化突破。Claude通过自然语言交互和生成式能力，能够快速输出UI/UX方案、图标、布局甚至完整原型，大幅缩短从概念到视觉稿的迭代周期。对AI产品经理而言，这意味着AI正从辅助角色转向主导设计流程，可能重塑设计工具市场格局。商业价值体现在降低企业对专业设计工具的依赖，加速产品上线速度；产品创新则体现在设计流程的AI化，用户仅需描述需求即可获得可编辑的视觉输出。这一趋势也提示PM需关注AI能力与现有设计工具链的整合机会。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Harness engineering: Leveraging Codex in an agent-first world</title>
@@ -69,6 +77,14 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>Biohub releases a world model of protein biology</title>
+      <link>https://news.ycombinator.com/item?id=48393252</link>
+      <guid isPermaLink="false">biohub-releases-a-world-model-of-protein-biology</guid>
+      <pubDate>2026-06-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Biohub 发布了蛋白质生物学的世界模型，这是一个能够模拟蛋白质结构、功能及相互作用的综合 AI 系统。该模型整合了多尺度生物数据，可预测蛋白质折叠、突变影响及与小分子的结合，显著加速药物发现和酶工程。商业价值在于降低实验成本、缩短研发周期，并推动个性化医疗和合成生物学创新。产品创新点在于将世界模型范式引入蛋白质领域，提供可交互的生物模拟环境。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Benchmarks in Leipzig</title>
       <link>https://news.ycombinator.com/item?id=48425247</link>
       <guid isPermaLink="false">benchmarks-in-leipzig</guid>
@@ -117,12 +133,28 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>Show HN: TakoVM – Isolated model and tool execution used by enterprises</title>
+      <link>https://github.com/las7/TakoVM</link>
+      <guid isPermaLink="false">show-hn-takovm-isolated-model-and-tool-execution-used-by-enterprises</guid>
+      <pubDate>2026-06-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>TakoVM 是一个面向企业的隔离模型和工具执行环境，核心是通过虚拟机级别的隔离技术实现 AI 模型与工具的沙箱化运行，确保企业数据安全和执行可控。产品解决了企业在部署 AI 模型时对第三方依赖和内部资源隔离的痛点，支持多种模型框架的安全调用，降低供应链风险。其商业价值在于提供即插即用的安全执行单元，适合金融、医疗等强监管行业。产品创新在于将容器化隔离与模型推理结合，实现了轻量级、可审计的 AI 执行环境。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Meta Keeps Delaying the Release of Its New AI Model to Developers</title>
       <link>https://news.ycombinator.com/item?id=48424252</link>
       <guid isPermaLink="false">meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers</guid>
       <pubDate>2026-06-07T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Meta 多次推迟向开发者发布其新 AI 模型，可能影响开发者生态规划与产品迭代节奏。对 AI 产品经理而言，延迟可能导致企业在模型选型、依赖时间表上被迫调整，并促使关注 Meta 的模型能力开放策略与竞争对手窗口期。该事件折射出大型科技公司在模型封闭与开放之间的权衡，以及开发者对稳定、可预见发布周期的需求。</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Human-Like Neural Nets by Catapulting</title>
+      <link>https://news.ycombinator.com/item?id=48430282</link>
+      <guid isPermaLink="false">human-like-neural-nets-by-catapulting</guid>
+      <pubDate>2026-06-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了一种名为“弹射”（Catapulting）的新型神经网络方法，旨在让AI更接近人类思维模式。该方法通过模拟人类认知中的跳跃式联想与快速切换能力，突破传统神经网络的逐层计算瓶颈，有望提升模型在复杂推理、创意生成等任务上的表现。对于AI产品经理而言，这一技术若成熟，将推动更自然的人机交互与智能助手产品，例如实现实时情境理解与多轮对话的连贯性。其商业价值在于降低对海量数据的依赖，并增强AI的泛化与适应能力，为个性化教育、虚拟助手等场景带来新可能。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering</title>
@@ -378,38 +410,6 @@
       <guid isPermaLink="false">aging-and-eye-problems</guid>
       <pubDate>2026-06-06T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文讨论AI技术在老年眼病（如白内障、黄斑变性）中的应用，重点在于通过深度学习算法实现早期筛查和诊断，提升准确率并降低医疗成本。商业价值体现在推动远程医疗和个性化治疗方案的落地，对AI产品经理而言，需关注医疗合规、数据标注精度及用户隐私保护。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Hacker News, Sans AI</title>
-      <link>https://news.ycombinator.com/item?id=48417916</link>
-      <guid isPermaLink="false">hacker-news-sans-ai</guid>
-      <pubDate>2026-06-06T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了Hacker News社区中AI相关内容泛滥的现象，提出“无AI版HN”的概念，旨在回归技术讨论的多元性。对于AI产品经理而言，这反映了内容平台在信息过载下的生态平衡挑战：AI虽提升效率，但过度聚焦可能扼杀其他创新领域的曝光。产品设计需考虑如何通过算法或社区规则实现良性内容过滤，避免用户疲劳。该话题突显了社区治理与注意力分配的产品策略价值。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Astronauts on ISS told to shelter as repairs under way to fix air leaks</title>
-      <link>https://news.ycombinator.com/item?id=48413464</link>
-      <guid isPermaLink="false">astronauts-on-iss-told-to-shelter-as-repairs-under-way-to-fix-air-leaks</guid>
-      <pubDate>2026-06-06T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>国际空间站（ISS）出现空气泄漏问题，宇航员被要求暂时避难，目前维修工作正在进行。该事件涉及空间站的生命维持系统与安全管理，虽然不直接关联AI，但可启发AI产品经理关注关键基础设施的自动化监控与异常检测技术。例如，利用AI模型实时分析舱内气压数据、早期识别微泄漏、自动触发警报或隔离流程，能提升空间站运维效率与安全性。此类应用在航空航天、数据中心、实验室等封闭环境的智能化运维场景有借鉴价值。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Transformers Are Inherently Succinct</title>
-      <link>https://news.ycombinator.com/item?id=48416635</link>
-      <guid isPermaLink="false">transformers-are-inherently-succinct</guid>
-      <pubDate>2026-06-06T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Transformer架构具有固有的简洁性，能够在相同参数量下更高效地编码信息。这一发现对于AI产品经理意味着：有望开发更小、更快的模型，降低推理成本，并适用于边缘设备等资源受限场景。商业上可推动低成本AI服务，产品创新上可探索实时交互和本地化部署。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Entanglement Builds Space-Time. Now "Magic" Gives It Gravity</title>
-      <link>https://news.ycombinator.com/item?id=48409675</link>
-      <guid isPermaLink="false">entanglement-builds-space-time-now-magic-gives-it-gravity</guid>
-      <pubDate>2026-06-06T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容从理论物理角度探讨量子纠缠与时空构建的关系，并提出‘魔法’（Magic）赋予引力形成的新视角。尽管涉及前沿科学，对AI产品经理的直接启示有限，但可能启发量子计算与AI结合的未来方向，如利用量子纠缠提升计算效率或模拟引力场。商业价值目前不明确，技术要点集中在基础物理理论，产品创新需长期转化。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
