@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 07 Jun 2026 00:06:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 04:03:41 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -18,6 +18,14 @@
       <guid isPermaLink="false">meta-confirms-1000s-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot</guid>
       <pubDate>2026-06-07T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Meta确认数千个Instagram账户因滥用其AI聊天机器人功能而被黑客入侵。攻击者利用AI交互中的设计缺陷（可能是提示注入或会话劫持）绕过安全控制，导致用户账户被盗。这一事件凸显了将AI功能集成到社交平台时面临的新安全挑战——传统安全措施难以防范针对AI交互的攻击。对于AI产品经理而言，需要在设计阶段就嵌入AI安全机制，如敏感操作二次确认、会话边界隔离、输入输出过滤等。商业上，此类漏洞会严重损害用户信任和平台声誉，需优先投入安全研发。产品创新方向包括引入实时行为检测和动态权限管理，防止AI被用作攻击向量。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Harness engineering: Leveraging Codex in an agent-first world</title>
+      <link>https://news.ycombinator.com/item?id=48416264</link>
+      <guid isPermaLink="false">harness-engineering-leveraging-codex-in-an-agent-first-world</guid>
+      <pubDate>2026-06-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨在智能体优先的世界中，如何利用OpenAI Codex模型进行工程实践。核心观点是，Codex作为强大的代码生成工具，可以与智能体架构深度集成，实现自动化编程、任务编排和系统自演进。产品经理应关注这种模式如何降低开发门槛、加速原型迭代，并创造新的交互范式——让AI代理直接调用Codex生成代码，而非仅作为辅助工具。商业价值体现在提升工程效率、减少重复劳动，同时为构建自主化产品（如自动编码助手、动态工作流引擎）提供技术基础。</p></description>
       <category>📱 产品模式</category>
     </item>
     <item>
@@ -85,6 +93,14 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>Public Domain Image Archive</title>
+      <link>https://news.ycombinator.com/item?id=48430539</link>
+      <guid isPermaLink="false">public-domain-image-archive</guid>
+      <pubDate>2026-06-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>公共领域图像存档（Public Domain Image Archive）是一个汇集无版权限制图像的资源库，为AI产品经理提供了高质量、无法律风险的训练数据来源。这类档案能显著降低图像生成模型（如Stable Diffusion）的版权纠纷成本，加速开源模型的迭代。其技术要点在于数据集的规模、多样性及标注质量，商业价值体现在减少数据获取成本和法律风险，产品创新则在于促进社区共建与知识共享。该资源对构建负责任AI和合规数据集具有战略意义。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
       <title>Trees to Flows and Back: Unifying Decision Trees and Diffusion Models</title>
       <link>https://news.ycombinator.com/item?id=48424674</link>
       <guid isPermaLink="false">trees-to-flows-and-back-unifying-decision-trees-and-diffusion-models</guid>
@@ -109,12 +125,28 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering</title>
+      <link>https://news.ycombinator.com/item?id=48430923</link>
+      <guid isPermaLink="false">tokenomics-quantifying-where-tokens-are-used-in-agentic-software-engineering</guid>
+      <pubDate>2026-06-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了代币经济学（Tokenomics）在智能体软件工程中的应用，重点量化代币（如GPT token）在自主编程、任务分解与资源分配中的消耗模式。通过分析不同agent工作流的token使用效率，提出优化成本结构与激励机制的框架，帮助产品经理设计更经济的AI agent产品。商业价值在于降低大模型调用成本、提升任务完成的经济性，产品创新体现为将token消耗作为核心KPI融入agent设计。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>New U.S. college grads now have higher unemployment than the average worker</title>
       <link>https://news.ycombinator.com/item?id=48428763</link>
       <guid isPermaLink="false">new-us-college-grads-now-have-higher-unemployment-than-the-average-worker</guid>
       <pubDate>2026-06-07T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>最新数据显示，美国大学毕业生失业率已超过整体工人平均水平，反映出AI与自动化技术对入门级岗位就业结构的冲击。这一趋势提示产品经理需关注AI如何重塑劳动力市场：一方面，AI驱动的效率提升可能减少部分传统岗位需求；另一方面，也创造了技能提升、职业匹配和再培训的新机会。商业价值体现在开发辅助学习、智能简历优化或职场适应性评估等AI产品。产品创新方向可聚焦于将AI技术用于识别新兴技能缺口、提供个性化职业建议，以及构建人机协作的工作流程，帮助毕业生和职场人适应技术变革。</p></description>
       <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Show HN: DomainTasker – avoid losing domains and surprise renewals</title>
+      <link>https://domaintasker.com/</link>
+      <guid isPermaLink="false">show-hn-domaintasker-avoid-losing-domains-and-surprise-renewals</guid>
+      <pubDate>2026-06-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>DomainTasker 是一款域名管理工具，旨在帮助用户避免域名丢失和意外续费。它通过自动化跟踪域名到期时间、提供提前提醒和续费管理，解决域名管理中的常见痛点。技术要点包括集成域名API、自定义提醒机制和任务自动化。商业价值体现在节省用户因忘记续费导致的域名丢失成本，以及避免不必要的续费支出。产品创新在于将任务管理与域名生命周期结合，提供简洁的界面和灵活的通知选项。适合个人站长及中小企业使用，提升域名资产管理的效率。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Did Claude increase bugs in rsync?</title>
@@ -379,38 +411,6 @@
       <pubDate>2026-06-06T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容从理论物理角度探讨量子纠缠与时空构建的关系，并提出‘魔法’（Magic）赋予引力形成的新视角。尽管涉及前沿科学，对AI产品经理的直接启示有限，但可能启发量子计算与AI结合的未来方向，如利用量子纠缠提升计算效率或模拟引力场。商业价值目前不明确，技术要点集中在基础物理理论，产品创新需长期转化。</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Launch HN: General Instinct (YC P26) – Frontier models on edge devices</title>
-      <link>https://news.ycombinator.com/item?id=48414869</link>
-      <guid isPermaLink="false">launch-hn-general-instinct-yc-p26-frontier-models-on-edge-devices</guid>
-      <pubDate>2026-06-06T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>General Instinct（YC P26）专注于将前沿AI模型部署到边缘设备上，解决大模型在资源受限场景中的推理挑战。其核心创新在于通过模型压缩与硬件适配技术，使手机、IoT等终端具备接近云端的智能能力，从而降低延迟、保护隐私并减少云端依赖。商业价值体现在赋能实时交互应用（如自动驾驶、AR/VR、智能家居）以及降低企业部署成本。产品策略采用本地优先的AI模式，推动模型下沉至设备端，形成新的边缘计算生态。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>The &amp;#8216;together tech&amp;#8217; wave might be the most intriguing startup bet of</title>
-      <link>https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/</link>
-      <guid isPermaLink="false">the-8216together-tech8217-wave-might-be-the-most-intriguing-startup-bet-of-2026</guid>
-      <pubDate>2026-06-06T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>在AI融资屡创新高的背景下，Mirror创始人Brynn Putnam反其道而行，创立Board公司，主攻线下游戏与社交体验，通过实体互动重新连接人群。这一'together tech'趋势表明，即使在AI主导的创业浪潮中，以人性化、真实接触为核心的产品创新依然获得资本关注。对于AI产品经理而言，应警惕过度依赖技术，思考如何将AI与线下社交场景融合，或探索'反AI'的差异化产品策略。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>How LLMs work</title>
-      <link>https://news.ycombinator.com/item?id=48389360</link>
-      <guid isPermaLink="false">how-llms-work</guid>
-      <pubDate>2026-06-06T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容解释了大型语言模型（LLM）的核心工作原理，包括基于Transformer架构的预训练-微调范式、自注意力机制如何捕捉长距离依赖，以及通过大规模文本数据学习语言统计规律。产品经理需理解LLM的涌现能力（如上下文学习、指令遵循）依赖于模型规模与训练数据质量，这直接影响产品中的生成效果、推理成本与任务适配方式。商业价值体现在快速构建对话、内容生成等场景，但需警惕幻觉与高算力消耗，产品设计应结合检索增强生成（RAG）等补偿技术。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Papernews – self-hosted daily newspaper PDF for your reMarkable</title>
-      <link>https://github.com/marcj/papernews</link>
-      <guid isPermaLink="false">show-hn-papernews-self-hosted-daily-newspaper-pdf-for-your-remarkable</guid>
-      <pubDate>2026-06-06T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Papernews 是一个自托管的工具，能够将 RSS 或新闻源聚合生成每日报纸风格的 PDF，专门适配 reMarkable 等电子纸设备。其技术核心在于自动化内容抓取、排版优化与 PDF 渲染，无需依赖外部云服务，用户可完全掌控数据。商业价值体现在满足电子纸用户对纸质化阅读体验的细分需求，同时为内容聚合提供轻量级、隐私优先的解决方案。产品创新在于将传统报纸形式数字化并与特定硬件生态深度结合，降低了信息过载时代的阅读门槛。</p></description>
-      <category>🔧 工具生态</category>
     </item>
   </channel>
 </rss>
