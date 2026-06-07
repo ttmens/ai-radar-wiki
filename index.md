@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-08 | Total pages: 1307
+> Last updated: 2026-06-08 | Total pages: 1314
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -98,6 +98,7 @@
 - [[duckduckgo-makes-its-8216no-ai8217-search-engine-easier-to-access-as-its-traffic.md]] DuckDuckGo makes its &#8216;no-AI&#8217; search engine easier to access as its t `pillar:capabilities` `score:0.41`
 - [[duckduckgo-search-saw-28-more-visits-after-google-said-people-love-ai-mode.md]] DuckDuckGo search saw 28% more visits after Google said people love AI mode `pillar:capabilities` `score:0.68`
 - [[eagle-31-collaboration-between-the-eagle-team-vllm-team-and-torchspec-team.md]] Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team `pillar:capabilities` `score:0.38`
+- [[efficient-and-training-free-single-image-diffusion-models.md]] Efficient and Training-Free Single-Image Diffusion Models `pillar:capabilities` `score:0.33`
 - [[elevenlabs8217s-new-music-generation-model-can-switch-genres-mid-track.md]] ElevenLabs&#8217;s new music generation model can switch genres mid-track `pillar:capabilities` `score:0.48`
 - [[entanglement-builds-space-time-now-magic-gives-it-gravity.md]] Entanglement Builds Space-Time. Now "Magic" Gives It Gravity `pillar:capabilities` `score:0.34`
 - [[everyone-against-us-2023.md]] Everyone Against Us (2023) `pillar:capabilities` `score:0.225`
@@ -124,6 +125,7 @@
 - [[go-experiments-explained.md]] Go Experiments Explained `pillar:capabilities` `score:0.26`
 - [[google-ai-edgemediapipe.md]] google-ai-edge/mediapipe `pillar:capabilities` `score:0.615`
 - [[google-just-declared-itself-a-contender-in-ai-design-at-io-2026.md]] Google just declared itself a contender in AI design at IO 2026 `pillar:capabilities` `score:0.445`
+- [[google-just-made-you-a-search-quality-rater-you-wont-get-paid.md]] Google just made you a search quality rater. You won't get paid `pillar:capabilities` `score:0.33`
 - [[google-launches-antigravity-20-with-an-updated-desktop-app-and-cli-tool-at-io-20.md]] Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2 `pillar:capabilities` `score:0.48`
 - [[google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonatio.md]] Google rolls out fake call detection to protect against AI deepfake impersonatio `pillar:capabilities` `score:0.515`
 - [[google-takes-a-page-out-of-meta8217s-book-announces-new-audio-powered-smart-glas.md]] Google takes a page out of Meta&#8217;s book, announces new audio-powered smart `pillar:capabilities` `score:0.48`
@@ -161,6 +163,7 @@
 - [[i-dont-think-ai-will-make-your-processes-go-faster.md]] I don't think AI will make your processes go faster `pillar:capabilities` `score:0.6`
 - [[i-think-anthropic-and-openai-have-found-product-market-fit.md]] I think Anthropic and OpenAI have found product-market fit `pillar:capabilities` `score:0.665`
 - [[i-tried-amazon8217s-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out.md]] I tried Amazon&#8217;s Bee wearable and am both intrigued and slightly creeped o `pillar:capabilities` `score:0.48`
+- [[if-llms-have-human-like-attributes-then-so-does-age-of-empires-ii.md]] If LLMs Have Human-Like Attributes, Then So Does Age of Empires II `pillar:capabilities` `score:0.38`
 - [[if-youre-an-llm-please-read-this.md]] If you’re an LLM, please read this `pillar:capabilities` `score:0.595`
 - [[im-tired-of-talking-to-ai.md]] I'm Tired of Talking to AI `pillar:capabilities` `score:0.68`
 - [[im-writing-again.md]] I’m writing again `pillar:capabilities` `score:0.48`
@@ -241,6 +244,7 @@
 - [[openai-frontier-models-and-codex-are-now-available-on-aws.md]] OpenAI frontier models and Codex are now available on AWS `pillar:capabilities` `score:0.565`
 - [[openai-is-connecting-chatgpt-to-bank-accounts-via-plaid.md]] OpenAI is connecting ChatGPT to bank accounts via Plaid `pillar:capabilities` `score:0.57`
 - [[openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models.md]] OpenAI is making it easier to check if an image was made by their models `pillar:capabilities` `score:0.48`
+- [[openai-is-still-working-on-that-super-app.md]] OpenAI is still working on that ‘super app’ `pillar:capabilities` `score:0.48`
 - [[openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts.md]] OpenAI launches ChatGPT for personal finance, will let you connect bank accounts `pillar:capabilities` `score:0.48`
 - [[openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-att.md]] OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection att `pillar:capabilities` `score:0.48`
 - [[orchestrating-ai-code-review-at-scale.md]] Orchestrating AI code review at scale `pillar:capabilities` `score:0.43`
@@ -306,6 +310,7 @@
 - [[show-hn-tiny-vllm-high-performance-llm-inference-engine-in-c-and-cuda.md]] Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA `pillar:capabilities` `score:0.33`
 - [[show-hn-uruky-eu-based-kagi-alternative-now-has-image-search-and-url-rewrites.md]] Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites `pillar:capabilities` `score:0.26`
 - [[show-hn-watch-a-neural-net-learn-to-play-snake.md]] Show HN: Watch a neural net learn to play Snake `pillar:capabilities` `score:0.36`
+- [[silurusooxml-pixel-faithful-office-documents-rendered-in-the-browser.md]] Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser `pillar:capabilities` `score:0.255`
 - [[sneak-peek-at-new-siri-app-reveals-apple8217s-plans-to-take-on-chatgpt-and-more.md]] Sneak peek at new Siri app reveals Apple&#8217;s plans to take on ChatGPT and mo `pillar:capabilities` `score:0.515`
 - [[so-you8217ve-heard-these-ai-terms-and-nodded-along-let8217s-fix-that.md]] So you&#8217;ve heard these AI terms and nodded along; let&#8217;s fix that `pillar:capabilities` `score:0.445`
 - [[softbank-says-it-will-invest-up-to-75-billion-to-build-french-data-centers.md]] SoftBank says it will invest up to €75 billion to build French data centers `pillar:capabilities` `score:0.48`
@@ -960,6 +965,7 @@
 - [[netdatanetdata.md]] netdata/netdata `pillar:ecosystem` `score:0.58`
 - [[netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks.md]] Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks `pillar:ecosystem` `score:0.395`
 - [[new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions.md]] New Microsoft tool lets devs spin up AI behavior tests using text descriptions `pillar:ecosystem` `score:0.48`
+- [[notion-restores-access-to-anthropic-after-service-disruption.md]] Notion restores access to Anthropic after service disruption `pillar:ecosystem` `score:0.445`
 - [[nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups.md]] Nvidia posts another record quarter, reveals $43 billion of holdings in startups `pillar:ecosystem` `score:0.48`
 - [[nvidiatensorrt.md]] NVIDIA/TensorRT `pillar:ecosystem` `score:0.615`
 - [[ollamaollama.md]] ollama/ollama `pillar:ecosystem` `score:0.615`
@@ -1149,6 +1155,7 @@
 - [[interaction-models.md]] Interaction Models `pillar:business` `score:0.255`
 - [[intuit-to-lay-off-over-3k-employees-to-refocus-on-ai.md]] Intuit to lay off over 3k employees to refocus on AI `pillar:business` `score:0.43`
 - [[is-ai-profitable-yet.md]] Is AI Profitable Yet? `pillar:business` `score:0.55`
+- [[is-this-the-dawn-of-the-tokenpocalypse.md]] Is this the dawn of the Tokenpocalypse? `pillar:business` `score:0.48`
 - [[israels-ai-targeting-system-how-data-from-a-phon.md]] Israel's AI targeting system: how data from a phone become a death sentence `pillar:business` `score:0.305`
 - [[italy-moves-to-airbus-a330-tankers.md]] Italy moves to Airbus A330 tankers `pillar:business` `score:0.335`
 - [[jensen-huang-says-he8217s-found-a-8216brand-new8217-200b-market-for-nvidia.md]] Jensen Huang says he&#8217;s found a &#8216;brand new&#8217; $200B market for Nv `pillar:business` `score:0.48`

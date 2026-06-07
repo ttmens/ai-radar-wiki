@@ -1,7 +1,7 @@
 {
   "date": "2026-06-08",
-  "generated_at": "2026-06-08T00:01:55.690288+08:00",
-  "item_count": 5,
+  "generated_at": "2026-06-08T06:04:17.914858+08:00",
+  "item_count": 11,
   "items": [
     {
       "id": "llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do",
@@ -26,6 +26,28 @@
       "date": "2026-06-08"
     },
     {
+      "id": "openai-is-still-working-on-that-super-app",
+      "label": "OpenAI is still working on that ‘super app’",
+      "summary": "OpenAI 正致力于打造一款超越传统聊天的“超级应用”，旨在整合多种 AI 功能于一体。据内部人士透露，单纯基于聊天的交互模式已显过时，未来应用将融合多模态理解、任务自动化、记忆持久化等能力，形成一站式智能助手。这一方向不仅标志着从单一对话界面到综合平台的转变，也预示着 AI 产品将更深度嵌入用户日常工作流，具备更高的商业价值与用户粘性。产品经理需关注其如何通过功能聚合与体验统一来构建生态壁垒。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "date": "2026-06-08"
+    },
+    {
+      "id": "is-this-the-dawn-of-the-tokenpocalypse",
+      "label": "Is this the dawn of the Tokenpocalypse?",
+      "summary": "本文探讨AI领域可能出现的“Token末日”现象，指出随着大型AI公司计划上市，市场可能迎来一波价格上涨。对AI产品经理而言，这预示着AI服务的token成本或将上升，影响产品定价策略和商业模式设计。同时，IPO热潮会推动行业资本化，加速技术迭代和竞争格局变化。产品经理需关注token经济模型调整，平衡用户体验与成本控制，并抓住上市带来的生态整合机会。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "date": "2026-06-08"
+    },
+    {
       "id": "the-onlyfans-economy-of-american-ai",
       "label": "The OnlyFans Economy of American AI",
       "summary": "标题以OnlyFans经济类比美国AI领域，指出AI模型能力正通过直接订阅模式变现，类似内容创作者绕过平台向用户收费。这种趋势强调AI能力的商品化，开发者可自行封装特定功能（如文本生成、图像处理）并提供付费服务，降低对中间平台的依赖。对产品经理而言，这提示了设计AI产品时需考虑分层订阅、按需使用等商业模式，同时关注用户对直接付费AI服务的接受度，以及如何平衡开放能力与版权控制。",
@@ -34,6 +56,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48435371",
+      "date": "2026-06-08"
+    },
+    {
+      "id": "notion-restores-access-to-anthropic-after-service-disruption",
+      "label": "Notion restores access to Anthropic after service disruption",
+      "summary": "Notion 在服务中断后恢复了对其集成的 Anthropic AI 功能的访问。Notion 产品负责人对大量用户转发此事件表示惊讶，凸显了企业对 AI 服务可靠性的高度关注。此事件反映了 AI 产品对第三方模型 API 的依赖性，以及外部服务中断对用户体验和产品信任度的潜在冲击。对于 AI 产品经理而言，需重视服务冗余、故障恢复机制和风险沟通策略，以降低集成带来的单点故障风险。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
       "date": "2026-06-08"
     },
     {
@@ -57,10 +90,43 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48433756",
       "date": "2026-06-08"
+    },
+    {
+      "id": "if-llms-have-human-like-attributes-then-so-does-age-of-empires-ii",
+      "label": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
+      "summary": "本文通过类比《帝国时代II》中游戏AI的决策逻辑，探讨了大语言模型（LLM）是否真正具备类人属性。作者认为，LLM的某些能力（如规划、推理）与经典游戏AI的规则引擎和状态机有相似之处，并非真正的人类认知，而是对模式的学习和模拟。对AI产品经理的启示是：在将LLM应用于策略、模拟或游戏类产品时，需警惕过度拟人化带来的预期偏差，应更关注其模式匹配与实际场景的适配性，避免高估其自主决策能力。",
+      "pm_score": 0.38,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48437568",
+      "date": "2026-06-08"
+    },
+    {
+      "id": "google-just-made-you-a-search-quality-rater-you-wont-get-paid",
+      "label": "Google just made you a search quality rater. You won't get paid",
+      "summary": "Google通过让用户隐式参与搜索质量评估（如点击、停留时间等行为信号），无需支付报酬即可获得海量标注数据。此举降低了传统人工评估成本，同时利用真实用户反馈优化搜索排序模型。对AI产品经理而言，这展示了弱监督学习与隐式反馈在产品迭代中的商业价值——无需直接付费即可规模化获取训练信号，但需注意用户无意识标注的质量偏差和伦理问题。该机制可被借鉴到其他推荐系统或对话产品的用户行为建模中。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48434001",
+      "date": "2026-06-08"
+    },
+    {
+      "id": "efficient-and-training-free-single-image-diffusion-models",
+      "label": "Efficient and Training-Free Single-Image Diffusion Models",
+      "summary": "该技术提出一种高效且无需额外训练的单图像扩散模型，能够基于单张输入图像直接进行图像生成或编辑。与传统的需要大规模数据集微调的方法不同，它通过巧妙的架构设计实现零样本适配，大幅降低了计算资源和时间成本。对于产品经理而言，这意味着可以快速将个性化图像生成、风格迁移等能力集成到应用中，无需复杂的模型训练流程，从而加速产品迭代，降低部署门槛，尤其适合移动端或实时场景。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48433305",
+      "date": "2026-06-08"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1288,
-    "edges": 105608
+    "real_nodes": 1295,
+    "edges": 106904
   }
 }

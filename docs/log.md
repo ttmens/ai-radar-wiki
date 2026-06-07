@@ -1522,3 +1522,12 @@
 - create: anthropic-please-ship-an-official-claude-desktop-for-linux.md
 - create: show-hn-lathe-use-llms-to-learn-a-new-domain-not-skip-past-it.md
 - create: arithmetic-without-numbers-how-llms-do-math.md
+
+## [2026-06-08 06:04] sync v3 | 7 new | pillars: {'capabilities': 7}
+- create: if-llms-have-human-like-attributes-then-so-does-age-of-empires-ii.md
+- create: silurusooxml-pixel-faithful-office-documents-rendered-in-the-browser.md
+- create: efficient-and-training-free-single-image-diffusion-models.md
+- create: google-just-made-you-a-search-quality-rater-you-wont-get-paid.md
+- create: is-this-the-dawn-of-the-tokenpocalypse.md
+- create: notion-restores-access-to-anthropic-after-service-disruption.md
+- create: openai-is-still-working-on-that-super-app.md
