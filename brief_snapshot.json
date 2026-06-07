@@ -1,7 +1,7 @@
 {
   "date": "2026-06-07",
-  "generated_at": "2026-06-07T12:02:07.592460+08:00",
-  "item_count": 13,
+  "generated_at": "2026-06-07T18:02:03.089434+08:00",
+  "item_count": 16,
   "items": [
     {
       "id": "meta-confirms-1000s-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot",
@@ -12,6 +12,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48427643",
+      "date": "2026-06-07"
+    },
+    {
+      "id": "i-design-with-claude-more-than-figma-now",
+      "label": "I design with Claude more than Figma now",
+      "summary": "该内容指出Claude（Anthropic的AI助手）在设计工作中的使用频率已超过传统设计工具Figma，反映了AI在设计领域的实用化突破。Claude通过自然语言交互和生成式能力，能够快速输出UI/UX方案、图标、布局甚至完整原型，大幅缩短从概念到视觉稿的迭代周期。对AI产品经理而言，这意味着AI正从辅助角色转向主导设计流程，可能重塑设计工具市场格局。商业价值体现在降低企业对专业设计工具的依赖，加速产品上线速度；产品创新则体现在设计流程的AI化，用户仅需描述需求即可获得可编辑的视觉输出。这一趋势也提示PM需关注AI能力与现有设计工具链的整合机会。",
+      "pm_score": 0.585,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48431981",
       "date": "2026-06-07"
     },
     {
@@ -81,6 +92,17 @@
       "date": "2026-06-07"
     },
     {
+      "id": "biohub-releases-a-world-model-of-protein-biology",
+      "label": "Biohub releases a world model of protein biology",
+      "summary": "Biohub 发布了蛋白质生物学的世界模型，这是一个能够模拟蛋白质结构、功能及相互作用的综合 AI 系统。该模型整合了多尺度生物数据，可预测蛋白质折叠、突变影响及与小分子的结合，显著加速药物发现和酶工程。商业价值在于降低实验成本、缩短研发周期，并推动个性化医疗和合成生物学创新。产品创新点在于将世界模型范式引入蛋白质领域，提供可交互的生物模拟环境。",
+      "pm_score": 0.415,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48393252",
+      "date": "2026-06-07"
+    },
+    {
       "id": "benchmarks-in-leipzig",
       "label": "Benchmarks in Leipzig",
       "summary": "该内容讨论了一项在莱比锡进行的AI基准测试，可能涉及新评测方法或结果。对于AI产品经理而言，基准测试是评估模型能力、指导产品选型和迭代的关键参考。该评测可能聚焦于特定任务（如推理、多模态），其设计思路和结果能揭示当前技术瓶颈与突破点，帮助PM理解不同模型的适用场景及商业化潜力，从而制定更精准的产品路线图。",
@@ -145,10 +167,21 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48428796",
       "date": "2026-06-07"
+    },
+    {
+      "id": "show-hn-takovm-isolated-model-and-tool-execution-used-by-enterprises",
+      "label": "Show HN: TakoVM – Isolated model and tool execution used by enterprises",
+      "summary": "TakoVM 是一个面向企业的隔离模型和工具执行环境，核心是通过虚拟机级别的隔离技术实现 AI 模型与工具的沙箱化运行，确保企业数据安全和执行可控。产品解决了企业在部署 AI 模型时对第三方依赖和内部资源隔离的痛点，支持多种模型框架的安全调用，降低供应链风险。其商业价值在于提供即插即用的安全执行单元，适合金融、医疗等强监管行业。产品创新在于将容器化隔离与模型推理结合，实现了轻量级、可审计的 AI 执行环境。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://github.com/las7/TakoVM",
+      "date": "2026-06-07"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1279,
-    "edges": 103035
+    "real_nodes": 1283,
+    "edges": 104319
   }
 }

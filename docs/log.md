@@ -1509,3 +1509,9 @@
 - create: harness-engineering-leveraging-codex-in-an-agent-first-world.md
 - create: public-domain-image-archive.md
 - create: show-hn-domaintasker-avoid-losing-domains-and-surprise-renewals.md
+
+## [2026-06-07 18:02] sync v3 | 4 new | pillars: {'capabilities': 4}
+- create: i-design-with-claude-more-than-figma-now.md
+- create: biohub-releases-a-world-model-of-protein-biology.md
+- create: human-like-neural-nets-by-catapulting.md
+- create: show-hn-takovm-isolated-model-and-tool-execution-used-by-enterprises.md

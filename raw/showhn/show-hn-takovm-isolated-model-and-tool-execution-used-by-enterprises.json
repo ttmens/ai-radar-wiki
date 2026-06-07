@@ -1,0 +1,24 @@
+{
+  "title": "Show HN: TakoVM – Isolated model and tool execution used by enterprises",
+  "score": 19,
+  "comments": 7,
+  "url": "https://github.com/las7/TakoVM",
+  "hn_url": "https://news.ycombinator.com/item?id=48431257",
+  "tag": "ShowHN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "TakoVM 是一个面向企业的隔离模型和工具执行环境，核心是通过虚拟机级别的隔离技术实现 AI 模型与工具的沙箱化运行，确保企业数据安全和执行可控。产品解决了企业在部署 AI 模型时对第三方依赖和内部资源隔离的痛点，支持多种模型框架的安全调用，降低供应链风险。其商业价值在于提供即插即用的安全执行单元，适合金融、医疗等强监管行业。产品创新在于将容器化隔离与模型推理结合，实现了轻量级、可审计的 AI 执行环境。",
+  "pm_relevance": 8,
+  "concepts": [
+    "隔离执行",
+    "企业AI安全",
+    "模型沙箱"
+  ],
+  "entities": [
+    "TakoVM"
+  ],
+  "patterns": [
+    "隔离沙箱模式",
+    "企业级AI部署模式"
+  ]
+}
