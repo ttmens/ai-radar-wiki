@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-07 | Total pages: 1302
+> Last updated: 2026-06-08 | Total pages: 1307
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -48,6 +48,7 @@
 - [[antigravity-20-tops-the-openscad-architectural-3d-llm-benchmark.md]] Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark `pillar:capabilities` `score:0.545`
 - [[apples-siri-revamp-could-include-auto-deleting-chats.md]] Apple’s Siri revamp could include auto-deleting chats `pillar:capabilities` `score:0.48`
 - [[arena-ai-model-elo-history.md]] Arena AI Model ELO History `pillar:capabilities` `score:0.465`
+- [[arithmetic-without-numbers-how-llms-do-math.md]] Arithmetic Without Numbers – How LLMs Do Math `pillar:capabilities` `score:0.43`
 - [[artificial-intelligence-is-not-conscious-ted-chiang.md]] Artificial intelligence is not conscious – Ted Chiang `pillar:capabilities` `score:0.595`
 - [[as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safa.md]] As the browser wars heat up, here are the hottest alternatives to Chrome and Saf `pillar:capabilities` `score:0.305`
 - [[ask-hn-what-was-your-oh-shit-moment-with-genai.md]] Ask HN: What was your "oh shit" moment with GenAI? `pillar:capabilities` `score:0.495`
@@ -192,6 +193,7 @@
 - [[lightning-aipytorch-lightning.md]] Lightning-AI/pytorch-lightning `pillar:capabilities` `score:0.615`
 - [[liquid-ai-reveals-8b-a1b-moe-trained-on-38t.md]] Liquid AI reveals 8B-A1B MoE trained on 38T `pillar:capabilities` `score:0.515`
 - [[llm-policy-for-rust-compiler.md]] LLM Policy for Rust Compiler `pillar:capabilities` `score:0.295`
+- [[llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do.md]] LLMs are eroding my software engineering career and I don't know what to do `pillar:capabilities` `score:0.665`
 - [[lovable-signs-multiyear-deal-with-google-cloud-to-up-usage-5x-source-says.md]] Lovable signs multiyear deal with Google Cloud to up usage 5x, source says `pillar:capabilities` `score:0.48`
 - [[lucidrainspalm-rlhf-pytorch.md]] lucidrains/PaLM-rlhf-pytorch `pillar:capabilities` `score:0.355`
 - [[lucidrainsvit-pytorch.md]] lucidrains/vit-pytorch `pillar:capabilities` `score:0.615`
@@ -291,6 +293,7 @@
 - [[show-hn-ideogram-40-open-weight-93b-text-to-image-model.md]] Show HN: Ideogram 4.0 – open-weight 9.3B text-to-image model `pillar:capabilities` `score:0.33`
 - [[show-hn-iresearch-c-search-that-beat-lucene-and-tantivy-on-their-benchmark.md]] Show HN: IResearch – C++ search that beat Lucene and Tantivy on their benchmark `pillar:capabilities` `score:0.33`
 - [[show-hn-lance-imagevideo-generation-and-understanding-in-one-model.md]] Show HN: Lance – image/video generation and understanding in one model `pillar:capabilities` `score:0.365`
+- [[show-hn-lathe-use-llms-to-learn-a-new-domain-not-skip-past-it.md]] Show HN: Lathe – Use LLMs to learn a new domain, not skip past it `pillar:capabilities` `score:0.38`
 - [[show-hn-lowfat-pluggable-cli-filter-that-saved-918-of-my-llm-tokens.md]] Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens `pillar:capabilities` `score:0.415`
 - [[show-hn-open-source-ai-racing-harness.md]] Show HN: Open-Source AI Racing Harness `pillar:capabilities` `score:0.295`
 - [[show-hn-open-source-workspace-maildocsspreadsheetdrive-webios.md]] Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS `pillar:capabilities` `score:0.36`
@@ -874,6 +877,7 @@
 - [[annas-archive-hit-with-195m-default-judgment-and-global-domain-takedown-order.md]] Anna's Archive Hit with $19.5M Default Judgment and Global Domain Takedown Order `pillar:ecosystem` `score:0.55`
 - [[anthropic-acquires-stainless.md]] Anthropic acquires Stainless `pillar:ecosystem` `score:0.6`
 - [[anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflar.md]] Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudfl `pillar:ecosystem` `score:0.48`
+- [[anthropic-please-ship-an-official-claude-desktop-for-linux.md]] Anthropic, please ship an official Claude Desktop for Linux `pillar:ecosystem` `score:0.495`
 - [[anthropics-open-source-framework-for-ai-powered-vulnerability-discovery.md]] Anthropic's open-source framework for AI-powered vulnerability discovery `pillar:ecosystem` `score:0.48`
 - [[apachetvm.md]] apache/tvm `pillar:ecosystem` `score:0.58`
 - [[apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform.md]] Apple approves Poke as the first AI agent on its Messages for Business platform `pillar:ecosystem` `score:0.48`
@@ -1226,6 +1230,7 @@
 - [[the-ai-legal-services-industry-is-heating-up-ant.md]] The AI legal services industry is heating up — Anthropic is getting in on the ac `pillar:business` `score:0.305`
 - [[the-groupthink-boom-what-3-top-vcs-really-think-about-the-ai-frenzy.md]] The groupthink boom: what 3 top VCs really think about the AI frenzy `pillar:business` `score:0.36`
 - [[the-haves-and-have-nots-of-the-ai-gold-rush.md]] The haves and have nots of the AI gold rush `pillar:business` `score:0.48`
+- [[the-onlyfans-economy-of-american-ai.md]] The OnlyFans Economy of American AI `pillar:business` `score:0.445`
 - [[the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning.md]] The OpenAI trial wraps up, and the Musk founder machine keeps spinning `pillar:business` `score:0.445`
 - [[the-peoples-airline-and-the-enterprise-ai-gold.md]] The “people’s airline” and the enterprise AI gold rush `pillar:business` `score:0.48`
 - [[the-solution-might-be-cancelling-my-ai-subscription.md]] The solution might be cancelling my AI subscription `pillar:business` `score:0.43`

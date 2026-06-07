@@ -1515,3 +1515,10 @@
 - create: biohub-releases-a-world-model-of-protein-biology.md
 - create: human-like-neural-nets-by-catapulting.md
 - create: show-hn-takovm-isolated-model-and-tool-execution-used-by-enterprises.md
+
+## [2026-06-08 00:01] sync v3 | 5 new | pillars: {'capabilities': 5}
+- create: llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do.md
+- create: the-onlyfans-economy-of-american-ai.md
+- create: anthropic-please-ship-an-official-claude-desktop-for-linux.md
+- create: show-hn-lathe-use-llms-to-learn-a-new-domain-not-skip-past-it.md
+- create: arithmetic-without-numbers-how-llms-do-math.md

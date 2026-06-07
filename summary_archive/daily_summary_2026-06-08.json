@@ -1,0 +1,83 @@
+{
+  "daily_summary": {
+    "date": "2026-06-08",
+    "headline": "今日 AI 情报 · 2026-06-08",
+    "overview": "AI从替代焦虑转向增强学习与直接订阅模式，开发者生态需求迫切",
+    "narratives": [
+      {
+        "title": "AI从替代人转向增强人：能力商品化与用户自主权增强",
+        "body": "今日情报显示，一方面LLM对软件工程的替代引发职业焦虑，另一方面Lathe等工具强调AI辅助深入学习而非跳过学习，同时LLM数学机制揭示符号推理与模式匹配的协同。这种从“替你做”到“教你做”的转变标志着AI产品设计从替代交付转向增强人类能力。此外，OnlyFans经济类比提示AI能力直接订阅模式兴起，而对Linux原生客户端的呼声则凸显开发者对自主控制权和本地化体验的追求。对PM的启示是需重新定义人机协作关系，设计鼓励学习、分层订阅和生态嵌入的产品。",
+        "type": "paradigm_shift",
+        "pillar_key": "capabilities"
+      }
+    ],
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI从替代人转向增强人：能力商品化与用户自主权增强",
+        "insight": "AI从替代人转向增强人：能力商品化与用户自主权增强。该方向的具体信号：LLM在代码生成上已能完成复杂任务引发工程师焦虑，但同时Lathe工具则利用LLM引导用户深度学习，而非跳过学习，表明AI能力可应用于替代与增强两种模式；此外LLM数学运算机制揭示其内在符号推理能力，为教育类产品提供新路径。",
+        "evidence": [
+          {
+            "id": "show-hn-lathe-use-llms-to-learn-a-new-domain-not-skip-past-it",
+            "title": "Lathe: Use LLMs to learn, not skip",
+            "score": 0.38
+          }
+        ]
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "AI从替代人转向增强人：能力商品化与用户自主权增强",
+        "insight": "AI从替代人转向增强人：能力商品化与用户自主权增强。该方向的具体信号：Linux用户社区强烈要求Anthropic提供官方Claude桌面客户端，反映了开发者对AI工具本地化、隐私控制和命令行集成的需求；缺乏原生支持可能限制LLM在开发者生态中的渗透，而提供Linux版正是增强用户自主权的一环。",
+        "evidence": [
+          {
+            "id": "anthropic-please-ship-an-official-claude-desktop-for-linux",
+            "title": "Claude Desktop for Linux needed",
+            "score": 0.49
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI从替代人转向增强人：能力商品化与用户自主权增强",
+        "insight": "AI从替代人转向增强人：能力商品化与用户自主权增强。该方向的具体信号：OnlyFans经济类比显示AI能力可通过直接订阅模式变现，开发者可封装特定功能直接向用户收费，降低对平台依赖；这种模式强化了用户自主选择权，与Lathe等增强型工具的订阅模式相辅相成。",
+        "evidence": [
+          {
+            "id": "the-onlyfans-economy-of-american-ai",
+            "title": "OnlyFans Economy of American AI",
+            "score": 0.45
+          }
+        ]
+      }
+    ],
+    "stats": "技术能力: 3 | 产品模式: 0 | 工具生态: 1 | 商业趋势: 1",
+    "total_items": 5,
+    "high_value_count": 5,
+    "all_today_ids": [
+      {
+        "id": "llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do",
+        "label": "LLMs are eroding my software engineering career and I don't know what to do"
+      },
+      {
+        "id": "anthropic-please-ship-an-official-claude-desktop-for-linux",
+        "label": "Anthropic, please ship an official Claude Desktop for Linux"
+      },
+      {
+        "id": "the-onlyfans-economy-of-american-ai",
+        "label": "The OnlyFans Economy of American AI"
+      },
+      {
+        "id": "arithmetic-without-numbers-how-llms-do-math",
+        "label": "Arithmetic Without Numbers – How LLMs Do Math"
+      },
+      {
+        "id": "show-hn-lathe-use-llms-to-learn-a-new-domain-not-skip-past-it",
+        "label": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it"
+      }
+    ],
+    "date_bj": "2026-06-08 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-06-08 00:01:30"
+  }
+}
