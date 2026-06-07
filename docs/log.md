@@ -1503,3 +1503,9 @@
 - create: openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-att.md
 - create: sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor.md
 - create: the-trump-administration-might-take-an-equity-stake-in-openai.md
+
+## [2026-06-07 12:02] sync v3 | 4 new | pillars: {'capabilities': 3, 'patterns': 1}
+- create: tokenomics-quantifying-where-tokens-are-used-in-agentic-software-engineering.md
+- create: harness-engineering-leveraging-codex-in-an-agent-first-world.md
+- create: public-domain-image-archive.md
+- create: show-hn-domaintasker-avoid-losing-domains-and-surprise-renewals.md

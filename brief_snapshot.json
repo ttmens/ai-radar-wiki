@@ -1,7 +1,7 @@
 {
   "date": "2026-06-07",
-  "generated_at": "2026-06-07T06:23:05.701037+08:00",
-  "item_count": 11,
+  "generated_at": "2026-06-07T12:02:07.592460+08:00",
+  "item_count": 13,
   "items": [
     {
       "id": "meta-confirms-1000s-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot",
@@ -12,6 +12,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48427643",
+      "date": "2026-06-07"
+    },
+    {
+      "id": "harness-engineering-leveraging-codex-in-an-agent-first-world",
+      "label": "Harness engineering: Leveraging Codex in an agent-first world",
+      "summary": "本文探讨在智能体优先的世界中，如何利用OpenAI Codex模型进行工程实践。核心观点是，Codex作为强大的代码生成工具，可以与智能体架构深度集成，实现自动化编程、任务编排和系统自演进。产品经理应关注这种模式如何降低开发门槛、加速原型迭代，并创造新的交互范式——让AI代理直接调用Codex生成代码，而非仅作为辅助工具。商业价值体现在提升工程效率、减少重复劳动，同时为构建自主化产品（如自动编码助手、动态工作流引擎）提供技术基础。",
+      "pm_score": 0.53,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48416264",
       "date": "2026-06-07"
     },
     {
@@ -103,6 +114,17 @@
       "date": "2026-06-07"
     },
     {
+      "id": "public-domain-image-archive",
+      "label": "Public Domain Image Archive",
+      "summary": "公共领域图像存档（Public Domain Image Archive）是一个汇集无版权限制图像的资源库，为AI产品经理提供了高质量、无法律风险的训练数据来源。这类档案能显著降低图像生成模型（如Stable Diffusion）的版权纠纷成本，加速开源模型的迭代。其技术要点在于数据集的规模、多样性及标注质量，商业价值体现在减少数据获取成本和法律风险，产品创新则在于促进社区共建与知识共享。该资源对构建负责任AI和合规数据集具有战略意义。",
+      "pm_score": 0.345,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48430539",
+      "date": "2026-06-07"
+    },
+    {
       "id": "trees-to-flows-and-back-unifying-decision-trees-and-diffusion-models",
       "label": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
       "summary": "该研究提出一种统一决策树与扩散模型的新框架，将传统可解释的树结构融入现代生成式扩散过程，实现双向转换。产品经理可关注其如何提升模型可解释性同时保持生成质量，适用于需要透明推理的生成场景（如医疗报告、金融解释）。商业价值在于弥合黑盒深度模型与可解释AI之间的鸿沟，降低合规风险。",
@@ -126,7 +148,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1275,
-    "edges": 101755
+    "real_nodes": 1279,
+    "edges": 103035
   }
 }
