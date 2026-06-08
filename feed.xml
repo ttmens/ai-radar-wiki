@@ -5,13 +5,53 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 08 Jun 2026 12:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 16:03:51 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>WWDC 2026: What to expect, from Siri&amp;#8217;s highly anticipated revamp to Apple</title>
+      <link>https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/</link>
+      <guid isPermaLink="false">wwdc-2026-what-to-expect-from-siri8217s-highly-anticipated-revamp-to-apple-intel</guid>
+      <pubDate>2026-06-09T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>苹果WWDC 2026将发布Siri重大改版，结合Apple Intelligence和iOS 27，提升AI助手智能水平。此次升级聚焦于更自然的对话、上下文理解与个性化服务，旨在增强用户体验并巩固苹果生态壁垒。对AI产品经理而言，关注其多模态交互、本地化处理与隐私保护策略，可能引领端侧AI新范式。商业上，Siri的进化将推动硬件销售与生态粘性，是苹果AI战略的关键一步。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Amazon now lets you design custom merch using AI</title>
+      <link>https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/</link>
+      <guid isPermaLink="false">amazon-now-lets-you-design-custom-merch-using-ai</guid>
+      <pubDate>2026-06-09T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>亚马逊在购物应用中推出新功能，允许用户通过Alexa语音助手用AI生成个性化设计，并将这些设计打印在T恤、卫衣、杯子等商品上。该功能将大语言模型的图像生成能力与电商按需印刷模式结合，降低了用户创作和购买定制商品的门槛。对产品经理而言，这是AI赋能电商个性化体验的典型案例，展示了如何将生成式AI无缝嵌入购物流程，从对话到成品一站式完成。商业价值在于提升用户参与度和转化率，并开辟新的商品品类。产品创新点在于将AI创作与实物商品生产直接打通，形成闭环体验。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second</title>
+      <link>https://news.ycombinator.com/item?id=48446639</link>
+      <guid isPermaLink="false">mimo-v25-pro-ultraspeed-1t-model-with-1000-tokens-per-second</guid>
+      <pubDate>2026-06-09T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>MiMo-v2.5-Pro-UltraSpeed 是一款拥有1万亿参数的超大规模语言模型，推理速度达到每秒1000个token，显著降低了延迟。这一突破意味着AI产品可以在保持极高智能水平的同时实现实时交互，适用于对话、代码生成等场景。商业价值在于降低算力成本、提升用户体验，推动大模型在消费级产品中的落地。产品创新体现在对超大规模模型推理效率的极致优化，为AI应用带来更快的响应和更低的部署门槛。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Tiny hackable CUDA language model implementation</title>
+      <link>https://news.ycombinator.com/item?id=48415828</link>
+      <guid isPermaLink="false">tiny-hackable-cuda-language-model-implementation</guid>
+      <pubDate>2026-06-09T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该项目提供了一个基于CUDA的极简、可破解的语言模型实现，核心价值在于轻量级与高度可定制性。技术要点包括：使用CUDA加速推理和训练，模型体积小适合边缘设备，代码结构清晰便于开发者二次开发。商业价值上，它降低了AI入门门槛，促进教育、原型验证及定制化应用，尤其适合资源受限场景。产品创新体现在模块化设计与可hack特性，使非专家也能快速实验。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Config Files That Run Code: Supply Chain Security Blindspot</title>
+      <link>https://news.ycombinator.com/item?id=48443135</link>
+      <guid isPermaLink="false">config-files-that-run-code-supply-chain-security-blindspot</guid>
+      <pubDate>2026-06-09T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文讨论配置文件（如YAML、JSON、TOML等）中嵌入代码执行引发的供应链安全盲点，攻击者可利用CI/CD配置、包管理脚本或环境变量注入恶意代码，绕过传统安全扫描。对AI产品经理而言，需关注AI模型依赖的开源库或配置文件（如模型训练配置、推理服务配置）是否存在类似风险，建议引入配置审计与运行时检测机制。商业价值在于提升AI供应链的透明度和韧性，产品创新方向包括开发安全配置校验工具或零信任执行环境。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
     <item>
       <title>LLMs are eroding my software engineering career and I don't know what to do</title>
       <link>https://news.ycombinator.com/item?id=48434312</link>
@@ -370,46 +410,6 @@
       <guid isPermaLink="false">trees-to-flows-and-back-unifying-decision-trees-and-diffusion-models</guid>
       <pubDate>2026-06-07T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该研究提出一种统一决策树与扩散模型的新框架，将传统可解释的树结构融入现代生成式扩散过程，实现双向转换。产品经理可关注其如何提升模型可解释性同时保持生成质量，适用于需要透明推理的生成场景（如医疗报告、金融解释）。商业价值在于弥合黑盒深度模型与可解释AI之间的鸿沟，降低合规风险。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Universal Memory Protocol – a shared format for agent memory</title>
-      <link>https://news.ycombinator.com/item?id=48428796</link>
-      <guid isPermaLink="false">universal-memory-protocol-a-shared-format-for-agent-memory</guid>
-      <pubDate>2026-06-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Universal Memory Protocol 提出了一种通用记忆共享格式，旨在让不同 AI 智能体之间标准化存储和交换长期上下文。该协议通过统一记忆表示与接口，使智能体能够跨平台保留用户偏好、历史行为和决策逻辑，从而提升对话连续性、个性化推荐和多任务协作能力。对 AI 产品经理而言，这意味着降低集成不同记忆系统时的工程成本，加快构建具备持久记忆的智能助手产品，并有望催生围绕记忆生态的第三方服务与工具链。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Show HN: TakoVM – Isolated model and tool execution used by enterprises</title>
-      <link>https://github.com/las7/TakoVM</link>
-      <guid isPermaLink="false">show-hn-takovm-isolated-model-and-tool-execution-used-by-enterprises</guid>
-      <pubDate>2026-06-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>TakoVM 是一个面向企业的隔离模型和工具执行环境，核心是通过虚拟机级别的隔离技术实现 AI 模型与工具的沙箱化运行，确保企业数据安全和执行可控。产品解决了企业在部署 AI 模型时对第三方依赖和内部资源隔离的痛点，支持多种模型框架的安全调用，降低供应链风险。其商业价值在于提供即插即用的安全执行单元，适合金融、医疗等强监管行业。产品创新在于将容器化隔离与模型推理结合，实现了轻量级、可审计的 AI 执行环境。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Meta Keeps Delaying the Release of Its New AI Model to Developers</title>
-      <link>https://news.ycombinator.com/item?id=48424252</link>
-      <guid isPermaLink="false">meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers</guid>
-      <pubDate>2026-06-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Meta 多次推迟向开发者发布其新 AI 模型，可能影响开发者生态规划与产品迭代节奏。对 AI 产品经理而言，延迟可能导致企业在模型选型、依赖时间表上被迫调整，并促使关注 Meta 的模型能力开放策略与竞争对手窗口期。该事件折射出大型科技公司在模型封闭与开放之间的权衡，以及开发者对稳定、可预见发布周期的需求。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Human-Like Neural Nets by Catapulting</title>
-      <link>https://news.ycombinator.com/item?id=48430282</link>
-      <guid isPermaLink="false">human-like-neural-nets-by-catapulting</guid>
-      <pubDate>2026-06-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了一种名为“弹射”（Catapulting）的新型神经网络方法，旨在让AI更接近人类思维模式。该方法通过模拟人类认知中的跳跃式联想与快速切换能力，突破传统神经网络的逐层计算瓶颈，有望提升模型在复杂推理、创意生成等任务上的表现。对于AI产品经理而言，这一技术若成熟，将推动更自然的人机交互与智能助手产品，例如实现实时情境理解与多轮对话的连贯性。其商业价值在于降低对海量数据的依赖，并增强AI的泛化与适应能力，为个性化教育、虚拟助手等场景带来新可能。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering</title>
-      <link>https://news.ycombinator.com/item?id=48430923</link>
-      <guid isPermaLink="false">tokenomics-quantifying-where-tokens-are-used-in-agentic-software-engineering</guid>
-      <pubDate>2026-06-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了代币经济学（Tokenomics）在智能体软件工程中的应用，重点量化代币（如GPT token）在自主编程、任务分解与资源分配中的消耗模式。通过分析不同agent工作流的token使用效率，提出优化成本结构与激励机制的框架，帮助产品经理设计更经济的AI agent产品。商业价值在于降低大模型调用成本、提升任务完成的经济性，产品创新体现为将token消耗作为核心KPI融入agent设计。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
