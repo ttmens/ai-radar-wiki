@@ -1,8 +1,129 @@
 {
   "date": "2026-06-09",
-  "generated_at": "2026-06-09T00:01:46.569055+08:00",
-  "item_count": 4,
+  "generated_at": "2026-06-09T06:07:46.499878+08:00",
+  "item_count": 24,
   "items": [
+    {
+      "id": "apple-reveals-new-ai-architecture-built-around-google-gemini-models",
+      "label": "Apple reveals new AI architecture built around Google Gemini models",
+      "summary": "苹果公司最新公布的AI架构基于谷歌Gemini模型构建，而非完全自研。这一决策凸显了苹果在AI领域的务实策略：优先采用业界领先的模型能力，降低自研风险，加速产品落地。对产品经理而言，这意味着苹果可能在Siri、iOS等核心产品中引入更强大的多模态理解能力，同时保持对用户体验的深度控制。此举也反映了AI行业“模型即服务”的趋势，巨头间开始形成互补型合作生态。",
+      "pm_score": 0.665,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48450142",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "ai-is-slowing-down",
+      "label": "AI is slowing down",
+      "summary": "AI发展速度放缓，大语言模型规模扩展的收益递减现象日益明显。对产品经理而言，这意味着需要更注重数据质量、检索增强（RAG）和垂直领域优化，而非单纯堆叠参数。商业价值上，转向成本效益更高的部署策略（如蒸馏、小模型）将提升产品可行性。产品创新方向可聚焦于更高效的架构、工具使用和领域专用模型，以在资源约束下维持竞争力。",
+      "pm_score": 0.63,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48446893",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "xai-is-looking-more-like-a-datacentre-reit-than-a-frontier-lab",
+      "label": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "summary": "该评论指出xAI（马斯克的AI公司）越来越像数据中心房地产投资信托（REIT），而非前沿研究实验室。这暗示其战略重心从模型创新转向大规模计算基础设施投资，类似托管云服务商。对产品经理而言，这意味着AI竞争壁垒可能从算法转向硬件资源和规模化运营效率，产品设计需考量底层算力成本与商业模型可持续性。",
+      "pm_score": 0.63,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48446428",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "siri-ai",
+      "label": "Siri AI",
+      "summary": "该文聚焦苹果Siri的AI升级，可能整合大语言模型以实现更自然的对话、上下文理解与多轮交互。技术要点包括设备端推理与云端协同，提升响应速度与隐私保护；商业价值在于强化苹果生态的差异化竞争力，推动订阅与服务收入；产品创新体现为更主动的智能建议与跨应用任务协同。",
+      "pm_score": 0.595,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48449084",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "replies-to-comments-on-my-llms-are-eroding-my-career-post",
+      "label": "Replies to comments on my \"LLMs are eroding my career\" post",
+      "summary": "该帖子围绕“LLM正在侵蚀我的职业生涯”展开讨论，用户回复中探讨了大型语言模型能力提升对个人职业发展的冲击。产品经理需关注LLM如何改变技术岗位需求、自动化重复性工作以及催生新的产品机会。核心矛盾在于：LLM增强的能力可能替代某些中间技能，但也创造了需要人类监督、创意和战略思维的新角色。商业价值体现在降低开发成本、加速原型验证，但需警惕职业定位的重新评估。产品创新方向包括人机协作工具、LLM辅助决策系统以及适应性学习平台。",
+      "pm_score": 0.55,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48443258",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "following-anthropic-openai-files-confidentially-for-ipo",
+      "label": "Following Anthropic, OpenAI files confidentially for IPO",
+      "summary": "继Anthropic之后，OpenAI也秘密提交IPO申请，两大AI头部公司竞相上市，加速行业商业化进程。从产品经理视角，IPO将为研发和产品扩张注入资本，推动AI应用落地与竞争格局重构。对AI产品策略、定价、生态合作产生深远影响，需关注资金流向与市场响应。",
+      "pm_score": 0.515,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "apple-bets-cheaper-ai-will-woo-small-developers",
+      "label": "Apple bets cheaper AI will woo small developers",
+      "summary": "苹果为吸引小型开发者，推出新策略：免除云 API 成本，条件是其首次 App Store 下载量低于 200 万次。此举正值 AI 实验成本不断攀升之际，旨在降低小团队的 AI 创新门槛，促进更多实验性应用进入生态。对 AI 产品经理而言，这释放了平台补贴信号，可通过免成本 API 快速验证产品概念，但需关注后续使用量超限后的收费模型。苹果借此巩固开发者生态，同时获取更多用户数据与场景输入，形成正向循环。",
+      "pm_score": 0.515,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "ask-hn-what-are-tools-you-have-made-for-yourself-since-the-advent-of-ai",
+      "label": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+      "summary": "该问题探讨了在AI技术普及后，个人用户如何自发构建自定义工具来提升效率或解决特定问题。产品经理可从中洞察用户真实需求、低代码/无代码AI应用的兴起，以及个人化工作流自动化的趋势。这类自建工具往往聚焦于知识管理、任务自动化、智能助手等场景，反映了AI从通用能力向个人化应用的延伸。理解这些模式有助于发现产品缺口，如更易用的AI集成框架、个性化模型微调工具或本地化AI解决方案。",
+      "pm_score": 0.5,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48449187",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "apple8217s-photos-app-is-getting-new-ai-editing-features",
+      "label": "Apple&#8217;s Photos app is getting new AI editing features",
+      "summary": "Apple Photos 应用新增 AI 编辑功能，核心是空间“Reframe”功能，利用 AI 自动调整照片透视，提升构图灵活性。该功能面向普通用户，降低专业级修图门槛，增强 iOS 生态内照片编辑的智能化体验。技术要点在于 AI 对图像空间结构的理解与自动矫正，商业价值上可巩固苹果在移动影像领域的竞争力，推动用户留存与设备升级。产品创新在于将复杂透视调整简化为一键式操作，体现苹果“AI 普惠化”思路。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app",
+      "label": "Apple will let you build workflows using AI in its new Shortcuts app",
+      "summary": "苹果为Shortcuts应用引入AI升级，用户只需用自然语言描述工作流目标，AI即可自动生成相应的自动化流程。这一创新极大降低了自动化门槛，使非技术用户也能轻松创建复杂任务链。从产品角度看，它融合了对话式UI与自动化引擎，是苹果在系统级AI能力上的重要布局，有望提升iOS生态的用户黏性与效率工具吸引力。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-work",
+      "label": "Apple just taught your iPhone to finish your sentences, your photos, and your wo",
+      "summary": "Apple 在 Safari、Shortcuts 和 Password 等原生应用中植入 AI 功能，实现句子补全、照片处理和工作流自动化。这是端侧 AI 与系统级集成的典型范例，无需额外订阅即可提升日常效率，强化 iOS 生态壁垒。对 AI 产品经理而言，启示在于：将 AI 能力无感嵌入高频场景（如输入、相册、自动化），可大幅降低用户使用门槛，同时借助硬件优势保证隐私与响应速度。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+      "date": "2026-06-09"
+    },
     {
       "id": "wwdc-2026-what-to-expect-from-siri8217s-highly-anticipated-revamp-to-apple-intel",
       "label": "WWDC 2026: What to expect, from Siri&#8217;s highly anticipated revamp to Apple",
@@ -26,6 +147,17 @@
       "date": "2026-06-09"
     },
     {
+      "id": "apple8217s-long-awaited-ai-siri-overhaul-is-finally-here",
+      "label": "Apple&#8217;s long-awaited AI Siri overhaul is finally here",
+      "summary": "Apple 终于推出了长期期待的 Siri AI 升级，核心目标是将 Siri 从传统的语音控制助手转变为功能更强大的 AI 伴侣。这一转变不仅提升了自然语言理解与多轮对话能力，还整合了更多上下文感知与主动服务功能，例如跨应用任务执行与个性化推荐。从产品角度看，这标志着苹果在 AI 助手领域从功能型向关系型产品的战略跃迁，旨在通过深度绑定用户生活场景提升 iOS 生态粘性。商业上，此举将直接对抗 ChatGPT、Alexa 等竞品，并可能推动苹果智能硬件的新一轮增长。技术要点包括端侧 AI 加速、隐私保护下的本地化处理能力增强。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
+      "date": "2026-06-09"
+    },
+    {
       "id": "mimo-v25-pro-ultraspeed-1t-model-with-1000-tokens-per-second",
       "label": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
       "summary": "MiMo-v2.5-Pro-UltraSpeed 是一款拥有1万亿参数的超大规模语言模型，推理速度达到每秒1000个token，显著降低了延迟。这一突破意味着AI产品可以在保持极高智能水平的同时实现实时交互，适用于对话、代码生成等场景。商业价值在于降低算力成本、提升用户体验，推动大模型在消费级产品中的落地。产品创新体现在对超大规模模型推理效率的极致优化，为AI应用带来更快的响应和更低的部署门槛。",
@@ -34,6 +166,72 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48446639",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "openai-submits-s-1-draft-to-sec",
+      "label": "OpenAI Submits S-1 Draft to SEC",
+      "summary": "OpenAI已向美国证券交易委员会（SEC）提交了S-1注册声明草案，标志着其正式启动首次公开募股（IPO）流程。这一事件对AI行业具有里程碑意义：OpenAI作为AGI领域的领军企业，上市将为其带来巨额资金，加速模型研发和商业化落地，同时可能重塑AI竞争格局。产品经理需关注其募资用途（如算力投入、新产品线扩张）以及对API定价、生态合作策略的潜在影响。",
+      "pm_score": 0.45,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48452317",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "apple-gives-siri-its-own-dedicated-app",
+      "label": "Apple gives Siri its own dedicated app",
+      "summary": "苹果为Siri推出了独立应用程序，标志着其从系统级助手向功能更全面的AI产品演进。该举措可能整合更丰富的交互界面、第三方插件支持及个性化记忆等能力，提升用户粘性和使用场景。对产品经理而言，这代表苹果在AI助手领域加大投入，并可能开放更多开发者接口，带来新的生态机会。需关注后续功能迭代及其对现有语音助手市场的竞争格局影响。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-f",
+      "label": "Apple is fixing the headache of splitting the bill with its new Siri in Camera f",
+      "summary": "苹果在WWDC宣布“Siri in Camera”新功能，用户只需用iPhone摄像头对准账单，即可通过视觉识别技术自动识别各菜品和价格，结合Apple Cash实现分账付款。该功能将计算机视觉与支付系统无缝集成，减少传统手动计算和转账的摩擦，体现了AI在日常生活中的实用化落地。对产品经理而言，核心价值在于利用视觉AI简化复杂社交场景的支付流程，降低用户决策成本；产品创新点在于将Siri从语音交互延伸至视觉交互，并直接关联支付闭环，为未来的多模态AI Agent（如餐饮、购物场景）提供了可复用的模式。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "apple8217s-image-playground-doesn8217t-suck-anymore",
+      "label": "Apple&#8217;s Image Playground doesn&#8217;t suck anymore",
+      "summary": "苹果对其AI图像生成器Image Playground进行了重大升级，解决了此前效果不佳的问题，并增强了竞争力。技术层面可能涉及模型架构优化、图像质量提升和生成速度改进，同时注重隐私保护，采用设备端处理。商业价值上，此举旨在与DALL·E、Midjourney等竞品抗衡，并强化苹果生态内的AI功能整合。产品创新体现在更自然的用户交互和更贴合iOS/macOS的集成体验，有望吸引更多开发者和用户，推动AI创意工具的普及。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "apple-plays-catch-up-at-wwdc",
+      "label": "Apple plays catch-up at WWDC",
+      "summary": "苹果在WWDC 2024上主要聚焦于系统修复、性能改进和用户长期请求的功能，最后才推出升级版AI驱动的Siri。这标志着苹果将AI视为其软件整体改进的一部分，而非独立卖点。Siri升级包括更自然的对话、上下文理解及设备端处理能力，旨在追赶竞争对手如OpenAI和Google的AI助手。产品经理应关注苹果如何将AI能力整合到现有生态中，强调实用性和可靠性，而非单纯追求技术领先。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "apple-core-ai-framework",
+      "label": "Apple Core AI Framework",
+      "summary": "Apple Core AI Framework 是苹果推出的端侧AI开发框架，强调隐私保护与设备端智能处理。它提供统一的API和模型优化工具，让开发者能在iOS/macOS等生态中高效集成AI功能。商业价值在于强化苹果硬件差异化，推动AI应用在消费级设备落地，同时保持用户数据本地化。产品创新体现在与苹果芯片深度协同，实现低延迟、高能效的AI推理，支持多模态交互与个性化体验。",
+      "pm_score": 0.38,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48449665",
       "date": "2026-06-09"
     },
     {
@@ -46,10 +244,32 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48415828",
       "date": "2026-06-09"
+    },
+    {
+      "id": "wwdc-2026-everything-announced-on-siri-ai-ios-27-apple-intelligence-and-more",
+      "label": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "show-hn-gitdot-a-better-github-open-source-anti-ai-and-written-in-rust",
+      "label": "Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust",
+      "summary": "Gitdot 是一个开源的 GitHub 替代品，采用 Rust 编写，宣称“反 AI”，即不集成 AI 辅助功能（如代码补全、自动 PR 摘要等），强调传统、纯粹的手动版本控制体验。该项目旨在吸引对 AI 持怀疑态度或担心代码数据被训练的开发者。Rust 语言带来高性能和内存安全，但功能完整性和社区生态尚不如 GitHub。对 AI 产品经理而言，其“反 AI”立场可作为市场分化信号，但整体 PM 相关性较低，因为它拒绝 AI 整合。",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48447806",
+      "date": "2026-06-09"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1319,
-    "edges": 110852
+    "real_nodes": 1340,
+    "edges": 112196
   }
 }

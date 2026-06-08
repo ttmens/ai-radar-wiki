@@ -1561,3 +1561,26 @@
 - create: tiny-hackable-cuda-language-model-implementation.md
 - create: amazon-now-lets-you-design-custom-merch-using-ai.md
 - create: wwdc-2026-what-to-expect-from-siri8217s-highly-anticipated-revamp-to-apple-intel.md
+
+## [2026-06-09 06:07] sync v3 | 21 new | pillars: {'capabilities': 14, 'ecosystem': 2, 'business': 1, 'patterns': 4}
+- create: siri-ai.md
+- create: apple-reveals-new-ai-architecture-built-around-google-gemini-models.md
+- create: openai-submits-s-1-draft-to-sec.md
+- create: apple-core-ai-framework.md
+- create: xai-is-looking-more-like-a-datacentre-reit-than-a-frontier-lab.md
+- create: show-hn-gitdot-a-better-github-open-source-anti-ai-and-written-in-rust.md
+- create: ask-hn-what-are-tools-you-have-made-for-yourself-since-the-advent-of-ai.md
+- create: ai-is-slowing-down.md
+- create: ocaml-onboarding-introduction-to-the-dune-build-system.md
+- create: replies-to-comments-on-my-llms-are-eroding-my-career-post.md
+- create: following-anthropic-openai-files-confidentially-for-ipo.md
+- create: apple-plays-catch-up-at-wwdc.md
+- create: apple-bets-cheaper-ai-will-woo-small-developers.md
+- create: wwdc-2026-everything-announced-on-siri-ai-ios-27-apple-intelligence-and-more.md
+- create: apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-work.md
+- create: apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app.md
+- create: apple8217s-image-playground-doesn8217t-suck-anymore.md
+- create: apple8217s-photos-app-is-getting-new-ai-editing-features.md
+- create: apple-gives-siri-its-own-dedicated-app.md
+- create: apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-f.md
+- create: apple8217s-long-awaited-ai-siri-overhaul-is-finally-here.md

@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-09 | Total pages: 1338
+> Last updated: 2026-06-09 | Total pages: 1359
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -31,6 +31,7 @@
 - [[ai-is-a-technology-not-a-product.md]] AI is a technology not a product `pillar:capabilities` `score:0.465`
 - [[ai-is-just-unauthorised-plagiarism-at-a-bigger-scale.md]] AI is just unauthorised plagiarism at a bigger scale `pillar:capabilities` `score:0.63`
 - [[ai-is-making-me-dumb.md]] AI is making me dumb `pillar:capabilities` `score:0.63`
+- [[ai-is-slowing-down.md]] AI is slowing down `pillar:capabilities` `score:0.63`
 - [[ai-outperforms-law-professors-in-stanford-law-study.md]] AI outperforms law professors in Stanford Law study `pillar:capabilities` `score:0.55`
 - [[ai-search-startups-are-blowing-up.md]] AI search startups are blowing up `pillar:capabilities` `score:0.515`
 - [[ai-tools-are-only-as-good-as-your-judgment.md]] AI tools are only as good as your judgment `pillar:capabilities` `score:0.43`
@@ -47,6 +48,11 @@
 - [[anthropic-is-expanding-to-colossus2-will-use-gb200.md]] Anthropic is expanding to Colossus2. Will use GB200 `pillar:capabilities` `score:0.48`
 - [[anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries.md]] Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries `pillar:capabilities` `score:0.515`
 - [[antigravity-20-tops-the-openscad-architectural-3d-llm-benchmark.md]] Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark `pillar:capabilities` `score:0.545`
+- [[apple-gives-siri-its-own-dedicated-app.md]] Apple gives Siri its own dedicated app `pillar:capabilities` `score:0.445`
+- [[apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-f.md]] Apple is fixing the headache of splitting the bill with its new Siri in Camera f `pillar:capabilities` `score:0.445`
+- [[apple-plays-catch-up-at-wwdc.md]] Apple plays catch-up at WWDC `pillar:capabilities` `score:0.445`
+- [[apple8217s-image-playground-doesn8217t-suck-anymore.md]] Apple&#8217;s Image Playground doesn&#8217;t suck anymore `pillar:capabilities` `score:0.445`
+- [[apple8217s-photos-app-is-getting-new-ai-editing-features.md]] Apple&#8217;s Photos app is getting new AI editing features `pillar:capabilities` `score:0.48`
 - [[apples-siri-revamp-could-include-auto-deleting-chats.md]] Apple’s Siri revamp could include auto-deleting chats `pillar:capabilities` `score:0.48`
 - [[arena-ai-model-elo-history.md]] Arena AI Model ELO History `pillar:capabilities` `score:0.465`
 - [[arithmetic-without-numbers-how-llms-do-math.md]] Arithmetic Without Numbers – How LLMs Do Math `pillar:capabilities` `score:0.43`
@@ -265,6 +271,7 @@
 - [[qdrantqdrant.md]] qdrant/qdrant `pillar:capabilities` `score:0.615`
 - [[racket-v92-is-now-available.md]] Racket v9.2 is now available `pillar:capabilities` `score:0.205`
 - [[real-time-llm-inference-on-standard-gpus-3k-tokenss-per-request.md]] Real-time LLM Inference on Standard GPUs: 3k tokens/s per request `pillar:capabilities` `score:0.565`
+- [[replies-to-comments-on-my-llms-are-eroding-my-career-post.md]] Replies to comments on my "LLMs are eroding my career" post `pillar:capabilities` `score:0.55`
 - [[researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai.md]] Researchers Wanted Preschool Teachers to Wear Cameras to Train AI `pillar:capabilities` `score:0.36`
 - [[rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai.md]] Rocket engine startup Impulse raises $500 million to hire people, not AI `pillar:capabilities` `score:0.41`
 - [[rohitg00ai-engineering-from-scratch.md]] rohitg00/ai-engineering-from-scratch `pillar:capabilities` `score:0.63`
@@ -317,6 +324,7 @@
 - [[show-hn-uruky-eu-based-kagi-alternative-now-has-image-search-and-url-rewrites.md]] Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites `pillar:capabilities` `score:0.26`
 - [[show-hn-watch-a-neural-net-learn-to-play-snake.md]] Show HN: Watch a neural net learn to play Snake `pillar:capabilities` `score:0.36`
 - [[silurusooxml-pixel-faithful-office-documents-rendered-in-the-browser.md]] Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser `pillar:capabilities` `score:0.255`
+- [[siri-ai.md]] Siri AI `pillar:capabilities` `score:0.595`
 - [[sneak-peek-at-new-siri-app-reveals-apple8217s-plans-to-take-on-chatgpt-and-more.md]] Sneak peek at new Siri app reveals Apple&#8217;s plans to take on ChatGPT and mo `pillar:capabilities` `score:0.515`
 - [[so-you8217ve-heard-these-ai-terms-and-nodded-along-let8217s-fix-that.md]] So you&#8217;ve heard these AI terms and nodded along; let&#8217;s fix that `pillar:capabilities` `score:0.445`
 - [[softbank-says-it-will-invest-up-to-75-billion-to-build-french-data-centers.md]] SoftBank says it will invest up to €75 billion to build French data centers `pillar:capabilities` `score:0.48`
@@ -669,8 +677,11 @@
 - [[an-ai-coding-agent-used-to-write-code-needs-to-r.md]] An AI coding agent, used to write code, needs to reduce your maintenance costs `pillar:patterns` `score:0.205`
 - [[anthropic-releases-opus-48-with-new-8216dynamic-workflow8217-tool.md]] Anthropic releases Opus 4.8 with new &#8216;dynamic workflow&#8217; tool `pillar:patterns` `score:0.48`
 - [[apacheairflow.md]] apache/airflow `pillar:patterns` `score:0.405`
+- [[apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app.md]] Apple will let you build workflows using AI in its new Shortcuts app `pillar:patterns` `score:0.48`
+- [[apple8217s-long-awaited-ai-siri-overhaul-is-finally-here.md]] Apple&#8217;s long-awaited AI Siri overhaul is finally here `pillar:patterns` `score:0.48`
 - [[asana-acquires-no-code-agent-builder-stackai.md]] Asana acquires no-code agent-builder StackAI `pillar:patterns` `score:0.48`
 - [[ask-hn-is-anyone-working-at-least-4-hours-daily-on-an-apple-vision-pro.md]] Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro? `pillar:patterns` `score:0.46`
+- [[ask-hn-what-are-tools-you-have-made-for-yourself-since-the-advent-of-ai.md]] Ask HN: What are tools you have made for yourself since the advent of AI? `pillar:patterns` `score:0.5`
 - [[ask-hn-what-is-your-ai-dev-tech-stack-workflow.md]] Ask HN: What is your (AI) dev tech stack / workflow? `pillar:patterns` `score:0.495`
 - [[astrbotdevsastrbot.md]] AstrBotDevs/AstrBot `pillar:patterns` `score:0.58`
 - [[best-brain-for-agents-is-just-versioned-folders-of-markdown-files.md]] Best "Brain" for Agents Is Just Versioned Folders of Markdown Files `pillar:patterns` `score:0.365`
@@ -859,6 +870,7 @@
 - [[what-happens-when-companies-become-too-ai-pilled.md]] What happens when companies become too AI-pilled? `pillar:patterns` `score:0.48`
 - [[what-if-remote-working-not-ai-is-to-blame-for-weak-junior-hiring.md]] What if remote working, not AI, is to blame for weak junior hiring? `pillar:patterns` `score:0.48`
 - [[with-gemini-35-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots.md]] With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots `pillar:patterns` `score:0.515`
+- [[wwdc-2026-everything-announced-on-siri-ai-ios-27-apple-intelligence-and-more.md]] WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more `pillar:patterns` `score:0.305`
 - [[x1xhlolsystem-prompts-and-models-of-ai-tools.md]] x1xhlol/system-prompts-and-models-of-ai-tools `pillar:patterns` `score:0.615`
 - [[yamadashyrepomix.md]] yamadashy/repomix `pillar:patterns` `score:0.58`
 - [[you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026.md]] You can now talk to your Gmail inbox, as seen at Google IO 2026 `pillar:patterns` `score:0.305`
@@ -907,6 +919,10 @@
 - [[anthropics-open-source-framework-for-ai-powered-vulnerability-discovery.md]] Anthropic's open-source framework for AI-powered vulnerability discovery `pillar:ecosystem` `score:0.48`
 - [[apachetvm.md]] apache/tvm `pillar:ecosystem` `score:0.58`
 - [[apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform.md]] Apple approves Poke as the first AI agent on its Messages for Business platform `pillar:ecosystem` `score:0.48`
+- [[apple-bets-cheaper-ai-will-woo-small-developers.md]] Apple bets cheaper AI will woo small developers `pillar:ecosystem` `score:0.515`
+- [[apple-core-ai-framework.md]] Apple Core AI Framework `pillar:ecosystem` `score:0.38`
+- [[apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-work.md]] Apple just taught your iPhone to finish your sentences, your photos, and your wo `pillar:ecosystem` `score:0.48`
+- [[apple-reveals-new-ai-architecture-built-around-google-gemini-models.md]] Apple reveals new AI architecture built around Google Gemini models `pillar:ecosystem` `score:0.665`
 - [[apple-touts-14-trillion-in-app-store-billings-and-sales-90-without-a-commission.md]] Apple touts $1.4 trillion in App Store billings and sales, 90% without a commiss `pillar:ecosystem` `score:0.375`
 - [[asgeirtjsystem_prompts_leaks.md]] asgeirtj/system_prompts_leaks `pillar:ecosystem` `score:0.58`
 - [[ask-hn-why-is-the-hn-crowd-so-anti-ai.md]] Ask HN: Why is the HN crowd so anti-AI? `pillar:ecosystem` `score:0.545`
@@ -990,6 +1006,7 @@
 - [[notion-restores-access-to-anthropic-after-service-disruption.md]] Notion restores access to Anthropic after service disruption `pillar:ecosystem` `score:0.445`
 - [[nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups.md]] Nvidia posts another record quarter, reveals $43 billion of holdings in startups `pillar:ecosystem` `score:0.48`
 - [[nvidiatensorrt.md]] NVIDIA/TensorRT `pillar:ecosystem` `score:0.615`
+- [[ocaml-onboarding-introduction-to-the-dune-build-system.md]] OCaml Onboarding: Introduction to the Dune build system `pillar:ecosystem` `score:0.255`
 - [[ollamaollama.md]] ollama/ollama `pillar:ecosystem` `score:0.615`
 - [[onnxonnx.md]] onnx/onnx `pillar:ecosystem` `score:0.615`
 - [[open-repair-data-standard-open-repair-alliance.md]] Open Repair Data Standard – Open Repair Alliance `pillar:ecosystem` `score:0.345`
@@ -1016,6 +1033,7 @@
 - [[scikit-learnscikit-learn.md]] scikit-learn/scikit-learn `pillar:ecosystem` `score:0.615`
 - [[sf-startup-is-testing-robots-in-airbnbs-and-trashing-them-lawsuit-claims.md]] SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims `pillar:ecosystem` `score:0.495`
 - [[show-hn-explore-color-palettes-inspired-by-3000-m.md]] Show HN: Explore color palettes inspired by 3000 master painter artworks `pillar:ecosystem` `score:0.45`
+- [[show-hn-gitdot-a-better-github-open-source-anti-ai-and-written-in-rust.md]] Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust `pillar:ecosystem` `score:0.305`
 - [[show-hn-insforge-open-source-heroku-for-coding-agents.md]] Show HN: InsForge – Open-source Heroku for coding agents `pillar:ecosystem` `score:0.295`
 - [[show-hn-papernews-self-hosted-daily-newspaper-pdf-for-your-remarkable.md]] Show HN: Papernews – self-hosted daily newspaper PDF for your reMarkable `pillar:ecosystem` `score:0.26`
 - [[show-hn-sx-an-open-source-package-manager-for-ai-skills-mcps-and-commands.md]] Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands `pillar:ecosystem` `score:0.33`
@@ -1158,6 +1176,7 @@
 - [[florida-ag-files-lawsuit-against-openai-ceo-sam-altman-for-deceptive-practices.md]] Florida AG files lawsuit against OpenAI, CEO Sam Altman for deceptive practices `pillar:business` `score:0.295`
 - [[florida-sues-openai-and-sam-altman-over-ai-risks.md]] Florida sues OpenAI and Sam Altman over AI risks `pillar:business` `score:0.55`
 - [[florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-inciden.md]] Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incid `pillar:business` `score:0.48`
+- [[following-anthropic-openai-files-confidentially-for-ipo.md]] Following Anthropic, OpenAI files confidentially for IPO `pillar:business` `score:0.515`
 - [[foucaults-order-of-things-explained-with-trading.md]] Foucault's Order of Things Explained with Trading Cards [video] `pillar:business` `score:0.205`
 - [[get-ready-for-the-whisper-filled-office-of-the-fut.md]] Get ready for the whisper-filled office of the future `pillar:business` `score:0.305`
 - [[glean8217s-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling.md]] Glean&#8217;s top line crosses $300M as AI budget-cutting becomes its major sell `pillar:business` `score:0.48`
@@ -1216,6 +1235,7 @@
 - [[nvidia-has-already-committed-40b-to-equity-ai-dea.md]] Nvidia has already committed $40B to equity AI deals this year `pillar:business` `score:0.48`
 - [[openai-barrels-toward-ipo-that-may-happen-in-september.md]] OpenAI barrels toward IPO that may happen in September `pillar:business` `score:0.48`
 - [[openai-is-preparing-to-file-for-an-ipo-soon.md]] OpenAI Is Preparing to File for an IPO Soon `pillar:business` `score:0.46`
+- [[openai-submits-s-1-draft-to-sec.md]] OpenAI Submits S-1 Draft to SEC `pillar:business` `score:0.45`
 - [[openai-to-confidentially-file-for-ipo-as-soon-as-friday.md]] OpenAI to confidentially file for IPO as soon as Friday `pillar:business` `score:0.33`
 - [[openaicom-was-once-the-personal-homepage-of-a-g.md]] "openai.com" was once the personal homepage of a guy named glenn `pillar:business` `score:0.155`
 - [[openais-webrtc-problem.md]] OpenAI's WebRTC problem `pillar:business` `score:0.305`
@@ -1291,6 +1311,7 @@
 - [[why-trust-is-a-big-question-at-the-elon-musk-openai-trial.md]] Why trust is a big question at the Elon Musk-OpenAI trial `pillar:business` `score:0.445`
 - [[why-you-can-never-get-your-doctor-to-call-you-back.md]] Why you can never get your doctor to call you back `pillar:business` `score:0.48`
 - [[xai-burned-64b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-o.md]] xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far f `pillar:business` `score:0.48`
+- [[xai-is-looking-more-like-a-datacentre-reit-than-a-frontier-lab.md]] xAI is looking more like a datacentre REIT than a frontier lab `pillar:business` `score:0.63`
 - [[zhulinsendaily_stock_analysis.md]] ZhuLinsen/daily_stock_analysis `pillar:business` `score:0.405`
 - [[a-note-on-non-negative-l_1-approximating-polynomials.md]] A Note on Non-Negative $L_1$-Approximating Polynomials `pillar:business` `score:0.255`
 
