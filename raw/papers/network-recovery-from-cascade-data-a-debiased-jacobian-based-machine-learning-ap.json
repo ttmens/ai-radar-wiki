@@ -1,0 +1,28 @@
+{
+  "title": "Network Recovery from Cascade Data: A Debiased Jacobian-Based Machine Learning Approach",
+  "summary": "Many important outcomes unfold as dynamic cascades, including product adoption, disease spread, financial distress, and information diffusion. A central challenge is to recover the hidden influence network behind these cascades. Existing methods typically assume a specific diffusion model, and their performance degrades substantially when that assumption is misspecified. We propose CascadeNet, a Jacobian-based machine learning framework for network recovery that does not require specifying a diffusion mechanism. The key idea is that the underlying influence structure can be characterized by the Jacobian of the one-step transition function. CascadeNet first constructs a flexible estimator of the transition function, and further applies Neyman-orthogonal debiasing via the Riesz representer, so that the debiased Jacobian is $\\sqrt{n}$-consistent and asymptotically normal, enabling formal inference on the network structure. We validate CascadeNet in both a simulation exercise and a real-world empirical application. In simulations, where the data-generating process is known, CascadeNet achieves the highest network recovery accuracy across nine common data-generating processes. In an empirical application to COVID-19 transmission across Spain's 52 provinces, CascadeNet recovers transmission networks that are significantly correlated with the true inter-province mobility network, whereas networks recovered by baseline methods show no significant alignment with the ground truth.",
+  "url": "http://arxiv.org/abs/2606.07483v1",
+  "authors": [
+    "Lei Huang"
+  ],
+  "published": "2026-06-05T17:38:05Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "accuracy",
+    "diffusion model"
+  ],
+  "summary_cn": "本文提出一种基于去偏雅可比的机器学习方法，用于从级联数据中恢复隐藏的因果影响网络。传统方法通常依赖特定的扩散模型假设（如独立级联、线性阈值模型），导致泛化能力受限。该方法通过雅可比矩阵去偏估计，无需假设具体的扩散机制，即可从观察到的级联时序数据重建网络拓扑。该技术对产品经理的价值在于：可应用于社交网络传播路径挖掘、疫情传播链溯源、金融风险传导分析、信息扩散效率优化等场景。例如，识别关键影响者、预测病毒式传播、或优化推荐系统的用户影响力建模。该方法降低了模型假设偏见，提升了网络推断的鲁棒性和准确性，为基于级联数据的产品功能（如社交传播分析、用户行为归因）提供更可靠的技术底座。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Network Recovery",
+    "Cascade Data",
+    "Debiased Jacobian"
+  ],
+  "entities": [],
+  "patterns": [
+    "Causal Inference",
+    "Graph Learning"
+  ]
+}

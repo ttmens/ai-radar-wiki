@@ -1,0 +1,28 @@
+{
+  "title": "Supervision versus Demonstration-Based In-Context Learning for Multiword Expression Classification",
+  "summary": "Turkish idiomatic light verb constructions (LVCs) are challenging for multiword expression processing because they often share the same surface form as fully literal verb-object combinations while functioning as a single, partially idiomatic predicate. We frame Turkish LVC detection as a binary classification task (literal meaning vs. idiomatic meaning) and evaluate on a manually created controlled set (N=147) with matched negatives: out-of-domain random sentences and in-domain literal controls (NLVC), alongside LVC positives. We compare a supervised Turkish encoder baseline (BERTurk with a classifier head) to three instruction-tuned LLMs from different families under zero-shot, one-shot, and few-shot prompting, and analyze how demonstrations shift error profiles. In zero-shot, LLMs perform well on negatives but show very low LVC recall. One-shot prompting sharply improves LVC detection but can induce strong, model-specific biases, leading models to overpredict or underpredict LVCs. A richer few-shot prompt improves calibration and yields robust overall performance for GPT-OSS-20B and Qwen 2.5-14B. Overall, the results highlight substantial prompt sensitivity in Turkish metalinguistic classification: the supervised baseline remains competitive, while prompted LLMs can match or exceed it on LVCs with carefully constructed demonstrations.",
+  "url": "http://arxiv.org/abs/2606.07479v1",
+  "authors": [
+    "Sercan Karakaş",
+    "Yusuf Şimşek"
+  ],
+  "published": "2026-06-05T17:34:07Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision",
+    "recall"
+  ],
+  "summary_cn": "本文聚焦于土耳其语习语性轻动词结构（LVC）检测，该任务因LVC与字面动词-宾语组合表面形式相同而具有挑战性。研究将LVC检测建模为二元分类问题，比较基于监督学习与基于演示的上下文学习（In-Context Learning）两种方法。技术要点在于利用少量示例（few-shot）而非大量标注数据进行分类，展示了上下文学习在低资源场景下的潜力。商业价值体现在提升多词表达处理能力，可用于机器翻译、对话系统等产品优化。产品创新在于无需大规模标注即可实现高效分类，降低NLP产品部署成本。",
+  "pm_relevance": 7,
+  "concepts": [
+    "In-Context Learning",
+    "Multiword Expression Classification",
+    "Few-shot Learning"
+  ],
+  "entities": [],
+  "patterns": [
+    "Few-shot Learning Pattern",
+    "Contextual Classification Pattern"
+  ]
+}

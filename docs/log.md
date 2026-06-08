@@ -1531,3 +1531,22 @@
 - create: is-this-the-dawn-of-the-tokenpocalypse.md
 - create: notion-restores-access-to-anthropic-after-service-disruption.md
 - create: openai-is-still-working-on-that-super-app.md
+
+## [2026-06-08 12:01] sync v3 | 17 new | pillars: {'capabilities': 15, 'ecosystem': 1, 'patterns': 1}
+- create: how-reliable-are-llms-when-it-comes-to-playing-dice.md
+- create: memdreamer-decoupling-perception-and-reasoning-for-long-video-understanding-via.md
+- create: sparse-subspace-to-expert-sharing-for-task-agnostic-continual-learning.md
+- create: accelerated-decentralized-stochastic-gradient-descent-for-strongly-convex-optimi.md
+- create: second-order-path-kernel-interpolation-formulas-in-machine-learning.md
+- create: bradley-terry-rankings-for-recommender-systems-across-dataset-taxonomies.md
+- create: twelve-quick-tips-for-designing-ai-driven-hpc-workflows.md
+- create: how-ai-agents-reshape-knowledge-work-autonomy-efficiency-and-scope.md
+- create: cometapns-continually-meta-learning-personalized-neural-surrogates-for-cardiac-e.md
+- create: network-recovery-from-cascade-data-a-debiased-jacobian-based-machine-learning-ap.md
+- create: drifting-models-for-surrogate-flow-modeling.md
+- create: supervision-versus-demonstration-based-in-context-learning-for-multiword-express.md
+- create: the-smallest-brain-you-can-build-a-perceptron-in-python.md
+- create: deepseek-v4-pro-beats-gpt-55-pro-on-precision.md
+- create: texas-grid-flags-risks-as-data-centers-crypto-sites-fail-voltage-tests.md
+- create: show-hn-nightwatch-the-open-source-read-only-ai-sre.md
+- create: show-hn-inbox-beam-notifications-in-your-inbox-without-sending-email.md

@@ -1,0 +1,30 @@
+{
+  "title": "Second-Order Path Kernel Interpolation Formulas in Machine Learning",
+  "summary": "Understanding how training data shape neural network predictions is a central problem in modern learning theory. In 2020, Pedro Domingos proposed an interpolation formula valid for every model learned by deterministic gradient descent. It expresses the model's prediction as an integral, along the optimization path, of a data-dependent kernel that aligns the model's gradients at the test and training data. Such a first-order characterization remains valid for models trained with batch-based stochastic optimization. In this paper, we develop second-order forms of these interpolation formulas. We show that the leading path-kernel interpolation is supplemented by a curvature-weighted interpolation term. For stochastic gradient descent, an additional sampling-induced component appears, coupling the curvature of the prediction with the covariance of mini-batch gradient noise. We also extend the representation to stochastic gradient descent with momentum, where the interpolation structure is preserved but with the weights modified by a memory-related factor. Moreover, we establish a concentration estimate for the terminal prediction, identifying the fluctuation scale around the expected second-order representation. Together, these results provide a refinement of the path-kernel interpretation of neural network prediction.",
+  "url": "http://arxiv.org/abs/2606.07495v1",
+  "authors": [
+    "Jin Guo",
+    "Roy Y. He",
+    "Jean-Michel Morel"
+  ],
+  "published": "2026-06-05T17:49:19Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "neural network",
+    "gradient",
+    "optimization"
+  ],
+  "summary_cn": "该论文提出了一种基于二阶路径核的插值公式，用于解释确定性梯度下降训练的神经网络如何受训练数据影响。它通过沿优化路径的积分形式表达模型预测，从而提供理论工具来量化每个训练样本对最终预测的贡献。对于AI产品经理，此成果可提升模型可解释性，优化数据选择策略，降低调试成本，并增强用户对AI决策的信任。",
+  "pm_relevance": 6,
+  "concepts": [
+    "Path Kernel",
+    "Interpolation Formula",
+    "Gradient Descent Influence"
+  ],
+  "entities": [
+    "Pedro Domingos"
+  ],
+  "patterns": []
+}

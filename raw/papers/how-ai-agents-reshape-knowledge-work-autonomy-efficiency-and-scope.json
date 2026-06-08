@@ -1,0 +1,34 @@
+{
+  "title": "How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope",
+  "summary": "Frontier AI systems are bridging the gap between intelligence and utility by shifting from conversational assistants to autonomous agents that execute tasks end to end. Using production data from Perplexity's Search and Computer products, we study this transition by examining how AI agents accelerate and reshape knowledge work. Three key empirical findings emerge. First, using sessions with near-identical initial query pairs as natural experiments for the same underlying task attempted with both products, Computer performs 26 minutes of autonomous work per user session, versus 33 seconds for Search. Computer automates task decomposition and execution that Search users might otherwise manually orchestrate and implement. As a result, Computer shifts follow-up query distribution toward higher-order work such as verification and extension. Autonomy also increases execution quality, with per-query dissatisfaction rates 55% lower on Computer than on Search. Second, due to its autonomy advantage, Computer reduces completion time from 269 to 36 minutes on matched tasks, lowering estimated time and cost by 87% and 94%, respectively, compared to humans equipped with Search alone. Third, Computer changes the scope of work that users attempt: Computer queries more often cross occupational boundaries, require higher-order cognition, draw on broader expertise, take the form of composite tasks that bundle interdependent subtasks into a single query, and unlock work activities that are essentially absent from Search usage among the same users. Together, the evidence indicates that AI agents accelerate workflows, enhance output quality, reduce costs, and expand the breadth and depth of automated work.",
+  "url": "http://arxiv.org/abs/2606.07489v1",
+  "authors": [
+    "Jeremy Yang",
+    "Kate Zyskowski",
+    "Noah Yonack",
+    "Jerry Ma"
+  ],
+  "published": "2026-06-05T17:45:39Z",
+  "tag": "Paper",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent",
+    "workflow",
+    "assistant",
+    "autonomous"
+  ],
+  "summary_cn": "本文研究前沿AI系统如何从对话式助手转向自主代理，端到端执行任务，从而重塑知识工作。基于Perplexity的Search和Computer产品生产数据，分析代理在自主性、效率和范围上的提升。对于AI产品经理，核心启示是：AI代理将智能与实用性结合，可显著加速知识工作流程，降低人工干预，实现任务自动化。产品创新方向在于设计更独立的代理系统，以处理复杂、多步骤的认知任务。",
+  "pm_relevance": 9,
+  "concepts": [
+    "AI Agents",
+    "Autonomous Task Execution",
+    "Knowledge Work Automation"
+  ],
+  "entities": [
+    "Perplexity"
+  ],
+  "patterns": [
+    "Agent Pattern",
+    "End-to-End Automation"
+  ]
+}

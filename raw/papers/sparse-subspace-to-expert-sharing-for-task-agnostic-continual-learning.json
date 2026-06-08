@@ -1,0 +1,30 @@
+{
+  "title": "Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning",
+  "summary": "Continual learning in Large Language Models (LLMs) is hindered by the plasticity-stability dilemma, where acquiring new capabilities often leads to catastrophic forgetting of previous knowledge. Existing methods typically treat parameters uniformly, failing to distinguish between specific task knowledge and shared capabilities. We introduce Mixture of Sparse Experts for Task Agnostic Continual Learning (SETA), a framework that resolves the plasticity-stability conflict through adaptive sparse subspace decomposition into task-specific expert modules. Unlike standard updates, where tasks compete for the same parameters, SETA separates knowledge into unique experts, designed to isolate task-specific patterns, and shared experts, responsible for capturing common features. This structure is maintained through adaptive elastic anchoring and a routing-aware regularization that jointly protect shared knowledge at both the weight and routing levels and enable a unified gating network to automatically retrieve the correct expert combination during inference. Extensive experiments across diverse domain-specific benchmarks demonstrate that SETA achieves competitive or superior overall performance relative to state-of-the-art continual learning baselines, with particularly strong retention of early-task knowledge and improved backward transfer on LLaMA-2 7B and Qwen3-4B.",
+  "url": "http://arxiv.org/abs/2606.07500v1",
+  "authors": [
+    "Fatema Siddika",
+    "Md Anwar Hossen",
+    "Tanwi Mallick",
+    "Ali Jannesari"
+  ],
+  "published": "2026-06-05T17:53:52Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "benchmark",
+    "parameter"
+  ],
+  "summary_cn": "该论文针对大语言模型在持续学习中面临的可塑性-稳定性困境，提出了一种名为“稀疏子空间到专家共享”的任务无关持续学习方法。现有方法统一处理参数，无法区分特定任务知识，导致学习新能力时灾难性遗忘旧知识。该方法通过稀疏子空间和专家共享机制，让模型在学习新任务时保留原有知识，降低遗忘风险。产品经理可关注其如何在不重新训练整个模型的情况下高效更新能力，降低迭代成本，提升产品适应性。",
+  "pm_relevance": 8,
+  "concepts": [
+    "持续学习",
+    "灾难性遗忘",
+    "稀疏子空间专家共享"
+  ],
+  "entities": [],
+  "patterns": [
+    "Continual Learning Pattern"
+  ]
+}
