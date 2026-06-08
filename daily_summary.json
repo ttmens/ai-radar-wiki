@@ -1,200 +1,57 @@
 {
   "daily_summary": {
-    "date": "2026-06-08",
-    "headline": "今日 AI 情报 · 2026-06-08",
-    "overview": "AI代理加速落地，模型精度竞赛与商业化成本上升并行",
+    "date": "2026-06-09",
+    "headline": "今日 AI 情报 · 2026-06-09",
+    "overview": "AI从对话渗透到操作系统级控制与供应链安全成为新盲点",
     "narratives": [
       {
-        "title": "AI从对话式助手向自主代理与操作系统级控制演进",
-        "body": "今天多条情报表明，AI产品正从单一对话界面转向能够端到端执行任务的自主代理。OpenAI的超级应用整合多模态与自动化，Perplexity的代理数据展现效率提升，agents.md文件为代理提供结构化配置，而Claude Linux客户端需求则指向代理需要原生操作系统集成。对产品经理而言，这意味着需设计人机协作的新范式，关注代理的可靠性、上下文持久化以及成本控制。",
+        "title": "AI从对话工具走向操作系统级控制与端侧生态融合",
+        "body": "苹果Siri改版、亚马逊AI商品定制、超高速大模型三者共同指向一个趋势：AI不再只是对话机器人，而是深度嵌入操作系统和商业流程，成为自动化的核心引擎。苹果通过Siri+Apple Intelligence实现本地化多模态交互，亚马逊将生成式AI直接融入购物闭环，而MiMo达1000 tok/s的推理速度使实时互动成为可能。对PM而言，这意味着下一阶段的产品设计应围绕“AI作为默认交互层”展开，同时必须为端侧部署和供应链安全做好准备。",
         "type": "paradigm_shift",
         "pillar_key": "patterns"
-      },
-      {
-        "title": "AI能力商品化与模型竞争白热化",
-        "body": "DeepSeek V4 Pro在精度上超越GPT-5.5 Pro，标志着国产模型进入第一梯队，模型选型不再依赖单一供应商。与此同时，Token价格可能因IPO上涨，OnlyFans经济模式推动能力直接变现，LLM取代软件工程师的焦虑加剧。产品经理需评估多模型策略，设计分层定价以应对成本波动，并思考如何差异化避免同质化竞争。",
-        "type": "maturation",
-        "pillar_key": "business"
       }
     ],
     "insights": [
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "AI从对话式助手向自主代理与操作系统级控制演进",
-        "insight": "AI从对话式助手向自主代理与操作系统级控制演进。该方向的具体信号：OpenAI超级应用整合多模态与自动化，Perplexity代理数据验证效率提升，agents.md文件通过结构化配置增强代理自主性，同时Linux社区对Claude原生客户端的需求反映了代理对操作系统深度集成的依赖。产品经理应关注代理的可靠性、上下文持久化以及成本控制，设计新的人机协作范式。",
+        "narrative_title": "AI从对话工具走向操作系统级控制与端侧生态融合",
+        "insight": "AI从对话工具走向操作系统级控制与端侧生态融合。该方向的具体信号：苹果WWDC 2026将Siri整合至iOS 27系统级能力，实现上下文理解与个性化服务；亚马逊将AI图像生成嵌入应用内购物流程，从对话到成品一步完成；MiMo-v2.5的超低延迟推理使实时交互成为现实，三者共同展示了AI从独立功能向操作系统和商业流程的底层嵌入。",
         "evidence": [
           {
-            "id": "openai-is-still-working-on-that-super-app",
-            "title": "OpenAI致力于整合多功能AI超级应用",
+            "id": "wwdc-2026-what-to-expect-from-siri8217s-highly-anticipated-revamp-to-apple-intel",
+            "title": "WWDC 2026: What to expect from Siri's highly anticipated revamp",
             "score": 0.48
-          },
-          {
-            "id": "anthropic-please-ship-an-official-claude-desktop-for-linux",
-            "title": "社区呼吁Anthropic推出Linux桌面客户端",
-            "score": 0.49
-          }
-        ]
-      },
-      {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "narrative_title": "AI能力商品化与模型竞争白热化",
-        "insight": "AI能力商品化与模型竞争白热化。该方向的具体信号：DeepSeek V4 Pro精度超越GPT-5.5 Pro，打破模型寡头格局；Token价格因潜在IPO面临上涨压力；OnlyFans经济模式开启AI能力直接订阅变现；Notion与Anthropic的服务中断事件暴露第三方依赖风险。产品经理需采用多模型选型、分层定价和冗余备份策略，在商品化浪潮中寻求差异化。",
-        "evidence": [
-          {
-            "id": "deepseek-v4-pro-beats-gpt-55-pro-on-precision",
-            "title": "DeepSeek V4 Pro精度超越GPT-5.5 Pro",
-            "score": 0.52
-          },
-          {
-            "id": "is-this-the-dawn-of-the-tokenpocalypse",
-            "title": "Token末日：IPO推动成本上涨",
-            "score": 0.48
-          },
-          {
-            "id": "the-onlyfans-economy-of-american-ai",
-            "title": "OnlyFans经济：AI能力直接订阅变现",
-            "score": 0.45
-          },
-          {
-            "id": "notion-restores-access-to-anthropic-after-service-disruption",
-            "title": "Notion恢复Anthropic服务访问，凸显集成风险",
-            "score": 0.45
           }
         ]
       }
     ],
-    "stats": "技术能力: 14 | 产品模式: 2 | 工具生态: 2 | 商业趋势: 2",
-    "total_items": 20,
-    "high_value_count": 20,
+    "stats": "技术能力: 4 | 产品模式: 0 | 工具生态: 1 | 商业趋势: 0",
+    "total_items": 5,
+    "high_value_count": 4,
     "all_today_ids": [
       {
-        "id": "llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do",
-        "label": "LLMs are eroding my software engineering career and I don't know what to do"
+        "id": "wwdc-2026-what-to-expect-from-siri8217s-highly-anticipated-revamp-to-apple-intel",
+        "label": "WWDC 2026: What to expect, from Siri&#8217;s highly anticipated revamp to Apple"
       },
       {
-        "id": "deepseek-v4-pro-beats-gpt-55-pro-on-precision",
-        "label": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision"
+        "id": "amazon-now-lets-you-design-custom-merch-using-ai",
+        "label": "Amazon now lets you design custom merch using AI"
       },
       {
-        "id": "anthropic-please-ship-an-official-claude-desktop-for-linux",
-        "label": "Anthropic, please ship an official Claude Desktop for Linux"
+        "id": "mimo-v25-pro-ultraspeed-1t-model-with-1000-tokens-per-second",
+        "label": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second"
       },
       {
-        "id": "openai-is-still-working-on-that-super-app",
-        "label": "OpenAI is still working on that ‘super app’"
+        "id": "tiny-hackable-cuda-language-model-implementation",
+        "label": "Tiny hackable CUDA language model implementation"
       },
       {
-        "id": "is-this-the-dawn-of-the-tokenpocalypse",
-        "label": "Is this the dawn of the Tokenpocalypse?"
-      },
-      {
-        "id": "how-ai-agents-reshape-knowledge-work-autonomy-efficiency-and-scope",
-        "label": "How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope"
-      },
-      {
-        "id": "the-onlyfans-economy-of-american-ai",
-        "label": "The OnlyFans Economy of American AI"
-      },
-      {
-        "id": "notion-restores-access-to-anthropic-after-service-disruption",
-        "label": "Notion restores access to Anthropic after service disruption"
-      },
-      {
-        "id": "arithmetic-without-numbers-how-llms-do-math",
-        "label": "Arithmetic Without Numbers – How LLMs Do Math"
-      },
-      {
-        "id": "sparse-subspace-to-expert-sharing-for-task-agnostic-continual-learning",
-        "label": "Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning"
-      },
-      {
-        "id": "how-reliable-are-llms-when-it-comes-to-playing-dice",
-        "label": "How reliable are LLMs when it comes to playing dice?"
-      },
-      {
-        "id": "drifting-models-for-surrogate-flow-modeling",
-        "label": "Drifting Models for Surrogate Flow Modeling"
-      },
-      {
-        "id": "cometapns-continually-meta-learning-personalized-neural-surrogates-for-cardiac-e",
-        "label": "CoMetaPNS: Continually Meta-learning Personalized Neural Surrogates for Cardiac"
-      },
-      {
-        "id": "bradley-terry-rankings-for-recommender-systems-across-dataset-taxonomies",
-        "label": "Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies"
-      },
-      {
-        "id": "memdreamer-decoupling-perception-and-reasoning-for-long-video-understanding-via",
-        "label": "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via"
-      },
-      {
-        "id": "accelerated-decentralized-stochastic-gradient-descent-for-strongly-convex-optimi",
-        "label": "Accelerated Decentralized Stochastic Gradient Descent for Strongly Convex Optimi"
-      },
-      {
-        "id": "network-recovery-from-cascade-data-a-debiased-jacobian-based-machine-learning-ap",
-        "label": "Network Recovery from Cascade Data: A Debiased Jacobian-Based Machine Learning A"
-      },
-      {
-        "id": "supervision-versus-demonstration-based-in-context-learning-for-multiword-express",
-        "label": "Supervision versus Demonstration-Based In-Context Learning for Multiword Express"
-      },
-      {
-        "id": "show-hn-lathe-use-llms-to-learn-a-new-domain-not-skip-past-it",
-        "label": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it"
-      },
-      {
-        "id": "do-agentsmd-files-help-coding-agents",
-        "label": "Do agents.md files help coding agents?"
-      },
-      {
-        "id": "if-llms-have-human-like-attributes-then-so-does-age-of-empires-ii",
-        "label": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II"
-      },
-      {
-        "id": "second-order-path-kernel-interpolation-formulas-in-machine-learning",
-        "label": "Second-Order Path Kernel Interpolation Formulas in Machine Learning"
-      },
-      {
-        "id": "texas-grid-flags-risks-as-data-centers-crypto-sites-fail-voltage-tests",
-        "label": "Texas grid flags risks as data centers, crypto sites fail voltage tests"
-      },
-      {
-        "id": "playing-with-vision-embeddings",
-        "label": "Playing with Vision Embeddings"
-      },
-      {
-        "id": "google-just-made-you-a-search-quality-rater-you-wont-get-paid",
-        "label": "Google just made you a search quality rater. You won't get paid"
-      },
-      {
-        "id": "efficient-and-training-free-single-image-diffusion-models",
-        "label": "Efficient and Training-Free Single-Image Diffusion Models"
-      },
-      {
-        "id": "the-smallest-brain-you-can-build-a-perceptron-in-python",
-        "label": "The Smallest Brain You Can Build: A Perceptron in Python"
-      },
-      {
-        "id": "show-hn-nightwatch-the-open-source-read-only-ai-sre",
-        "label": "Show HN: Nightwatch, The open-source, read-only AI SRE"
-      },
-      {
-        "id": "show-hn-inbox-beam-notifications-in-your-inbox-without-sending-email",
-        "label": "Show HN: Inbox-beam – notifications in your inbox without sending email"
-      },
-      {
-        "id": "silurusooxml-pixel-faithful-office-documents-rendered-in-the-browser",
-        "label": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser"
-      },
-      {
-        "id": "twelve-quick-tips-for-designing-ai-driven-hpc-workflows",
-        "label": "Twelve quick tips for designing AI-driven HPC workflows"
+        "id": "config-files-that-run-code-supply-chain-security-blindspot",
+        "label": "Config Files That Run Code: Supply Chain Security Blindspot"
       }
     ],
-    "date_bj": "2026-06-08 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-06-08 18:01:10"
+    "date_bj": "2026-06-09 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-06-09 00:01:35"
   }
 }

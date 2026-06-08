@@ -1,0 +1,57 @@
+{
+  "daily_summary": {
+    "date": "2026-06-09",
+    "headline": "今日 AI 情报 · 2026-06-09",
+    "overview": "AI从对话渗透到操作系统级控制与供应链安全成为新盲点",
+    "narratives": [
+      {
+        "title": "AI从对话工具走向操作系统级控制与端侧生态融合",
+        "body": "苹果Siri改版、亚马逊AI商品定制、超高速大模型三者共同指向一个趋势：AI不再只是对话机器人，而是深度嵌入操作系统和商业流程，成为自动化的核心引擎。苹果通过Siri+Apple Intelligence实现本地化多模态交互，亚马逊将生成式AI直接融入购物闭环，而MiMo达1000 tok/s的推理速度使实时互动成为可能。对PM而言，这意味着下一阶段的产品设计应围绕“AI作为默认交互层”展开，同时必须为端侧部署和供应链安全做好准备。",
+        "type": "paradigm_shift",
+        "pillar_key": "patterns"
+      }
+    ],
+    "insights": [
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI从对话工具走向操作系统级控制与端侧生态融合",
+        "insight": "AI从对话工具走向操作系统级控制与端侧生态融合。该方向的具体信号：苹果WWDC 2026将Siri整合至iOS 27系统级能力，实现上下文理解与个性化服务；亚马逊将AI图像生成嵌入应用内购物流程，从对话到成品一步完成；MiMo-v2.5的超低延迟推理使实时交互成为现实，三者共同展示了AI从独立功能向操作系统和商业流程的底层嵌入。",
+        "evidence": [
+          {
+            "id": "wwdc-2026-what-to-expect-from-siri8217s-highly-anticipated-revamp-to-apple-intel",
+            "title": "WWDC 2026: What to expect from Siri's highly anticipated revamp",
+            "score": 0.48
+          }
+        ]
+      }
+    ],
+    "stats": "技术能力: 4 | 产品模式: 0 | 工具生态: 1 | 商业趋势: 0",
+    "total_items": 5,
+    "high_value_count": 4,
+    "all_today_ids": [
+      {
+        "id": "wwdc-2026-what-to-expect-from-siri8217s-highly-anticipated-revamp-to-apple-intel",
+        "label": "WWDC 2026: What to expect, from Siri&#8217;s highly anticipated revamp to Apple"
+      },
+      {
+        "id": "amazon-now-lets-you-design-custom-merch-using-ai",
+        "label": "Amazon now lets you design custom merch using AI"
+      },
+      {
+        "id": "mimo-v25-pro-ultraspeed-1t-model-with-1000-tokens-per-second",
+        "label": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second"
+      },
+      {
+        "id": "tiny-hackable-cuda-language-model-implementation",
+        "label": "Tiny hackable CUDA language model implementation"
+      },
+      {
+        "id": "config-files-that-run-code-supply-chain-security-blindspot",
+        "label": "Config Files That Run Code: Supply Chain Security Blindspot"
+      }
+    ],
+    "date_bj": "2026-06-09 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-06-09 00:01:35"
+  }
+}

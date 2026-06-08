@@ -1554,3 +1554,10 @@
 ## [2026-06-08 18:01] sync v3 | 2 new | pillars: {'capabilities': 1, 'patterns': 1}
 - create: playing-with-vision-embeddings.md
 - create: do-agentsmd-files-help-coding-agents.md
+
+## [2026-06-09 00:01] sync v3 | 5 new | pillars: {'capabilities': 5}
+- create: mimo-v25-pro-ultraspeed-1t-model-with-1000-tokens-per-second.md
+- create: config-files-that-run-code-supply-chain-security-blindspot.md
+- create: tiny-hackable-cuda-language-model-implementation.md
+- create: amazon-now-lets-you-design-custom-merch-using-ai.md
+- create: wwdc-2026-what-to-expect-from-siri8217s-highly-anticipated-revamp-to-apple-intel.md

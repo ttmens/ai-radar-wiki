@@ -1,308 +1,55 @@
 {
-  "date": "2026-06-08",
-  "generated_at": "2026-06-08T18:01:51.270752+08:00",
-  "item_count": 27,
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T00:01:46.569055+08:00",
+  "item_count": 4,
   "items": [
     {
-      "id": "llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do",
-      "label": "LLMs are eroding my software engineering career and I don't know what to do",
-      "summary": "本文讨论大型语言模型（LLM）对软件工程师职业的冲击，指出AI代码生成与自动化能力正逐步取代传统开发工作，导致从业者焦虑。技术要点在于LLM已能完成复杂编程任务，商业价值体现在企业可大幅降低人力成本、提升效率，产品创新方向包括AI辅助开发工具和自主编程Agent。对产品经理而言，需关注如何设计人机协作模式，平衡自动化与工程师价值。",
-      "pm_score": 0.665,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48434312",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "deepseek-v4-pro-beats-gpt-55-pro-on-precision",
-      "label": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "summary": "DeepSeek V4 Pro 在精度指标上超越 GPT-5.5 Pro，表明国产大模型在核心性能上取得突破。对于 AI 产品经理，这意味在多场景选型时多了一个高精度选项，尤其适合对准确性要求高的任务（如金融、医疗）。模型迭代速度加快，可能推动行业基准提升，同时降低对单一模型供应商的依赖，增强供应链灵活性。",
-      "pm_score": 0.515,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48440448",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "anthropic-please-ship-an-official-claude-desktop-for-linux",
-      "label": "Anthropic, please ship an official Claude Desktop for Linux",
-      "summary": "该文章反映了Linux用户社区对Anthropic推出官方Claude桌面客户端的强烈需求。目前Claude桌面版仅支持macOS和Windows，导致Linux开发者（AI核心用户群）只能依赖网页版或第三方工具，体验受限且存在隐私风险。从产品策略看，推出Linux原生应用可显著扩展开发者渗透率，提升品牌忠诚度，并利用Linux生态的本地化优势（如命令行集成、离线能力）。此外，这或暗示Anthropic正加速从API服务向全栈用户体验转型，与Copilot等工具形成差异化。",
-      "pm_score": 0.495,
-      "pillar": "ecosystem",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48434436",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "openai-is-still-working-on-that-super-app",
-      "label": "OpenAI is still working on that ‘super app’",
-      "summary": "OpenAI 正致力于打造一款超越传统聊天的“超级应用”，旨在整合多种 AI 功能于一体。据内部人士透露，单纯基于聊天的交互模式已显过时，未来应用将融合多模态理解、任务自动化、记忆持久化等能力，形成一站式智能助手。这一方向不仅标志着从单一对话界面到综合平台的转变，也预示着 AI 产品将更深度嵌入用户日常工作流，具备更高的商业价值与用户粘性。产品经理需关注其如何通过功能聚合与体验统一来构建生态壁垒。",
+      "id": "wwdc-2026-what-to-expect-from-siri8217s-highly-anticipated-revamp-to-apple-intel",
+      "label": "WWDC 2026: What to expect, from Siri&#8217;s highly anticipated revamp to Apple",
+      "summary": "苹果WWDC 2026将发布Siri重大改版，结合Apple Intelligence和iOS 27，提升AI助手智能水平。此次升级聚焦于更自然的对话、上下文理解与个性化服务，旨在增强用户体验并巩固苹果生态壁垒。对AI产品经理而言，关注其多模态交互、本地化处理与隐私保护策略，可能引领端侧AI新范式。商业上，Siri的进化将推动硬件销售与生态粘性，是苹果AI战略的关键一步。",
       "pm_score": 0.48,
       "pillar": "capabilities",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-      "date": "2026-06-08"
+      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
+      "date": "2026-06-09"
     },
     {
-      "id": "is-this-the-dawn-of-the-tokenpocalypse",
-      "label": "Is this the dawn of the Tokenpocalypse?",
-      "summary": "本文探讨AI领域可能出现的“Token末日”现象，指出随着大型AI公司计划上市，市场可能迎来一波价格上涨。对AI产品经理而言，这预示着AI服务的token成本或将上升，影响产品定价策略和商业模式设计。同时，IPO热潮会推动行业资本化，加速技术迭代和竞争格局变化。产品经理需关注token经济模型调整，平衡用户体验与成本控制，并抓住上市带来的生态整合机会。",
+      "id": "amazon-now-lets-you-design-custom-merch-using-ai",
+      "label": "Amazon now lets you design custom merch using AI",
+      "summary": "亚马逊在购物应用中推出新功能，允许用户通过Alexa语音助手用AI生成个性化设计，并将这些设计打印在T恤、卫衣、杯子等商品上。该功能将大语言模型的图像生成能力与电商按需印刷模式结合，降低了用户创作和购买定制商品的门槛。对产品经理而言，这是AI赋能电商个性化体验的典型案例，展示了如何将生成式AI无缝嵌入购物流程，从对话到成品一站式完成。商业价值在于提升用户参与度和转化率，并开辟新的商品品类。产品创新点在于将AI创作与实物商品生产直接打通，形成闭环体验。",
       "pm_score": 0.48,
-      "pillar": "business",
+      "pillar": "capabilities",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-      "date": "2026-06-08"
+      "url": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+      "date": "2026-06-09"
     },
     {
-      "id": "how-ai-agents-reshape-knowledge-work-autonomy-efficiency-and-scope",
-      "label": "How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope",
-      "summary": "本文研究前沿AI系统如何从对话式助手转向自主代理，端到端执行任务，从而重塑知识工作。基于Perplexity的Search和Computer产品生产数据，分析代理在自主性、效率和范围上的提升。对于AI产品经理，核心启示是：AI代理将智能与实用性结合，可显著加速知识工作流程，降低人工干预，实现任务自动化。产品创新方向在于设计更独立的代理系统，以处理复杂、多步骤的认知任务。",
-      "pm_score": 0.465,
-      "pillar": "patterns",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2606.07489v1",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "the-onlyfans-economy-of-american-ai",
-      "label": "The OnlyFans Economy of American AI",
-      "summary": "标题以OnlyFans经济类比美国AI领域，指出AI模型能力正通过直接订阅模式变现，类似内容创作者绕过平台向用户收费。这种趋势强调AI能力的商品化，开发者可自行封装特定功能（如文本生成、图像处理）并提供付费服务，降低对中间平台的依赖。对产品经理而言，这提示了设计AI产品时需考虑分层订阅、按需使用等商业模式，同时关注用户对直接付费AI服务的接受度，以及如何平衡开放能力与版权控制。",
-      "pm_score": 0.445,
-      "pillar": "business",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48435371",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "notion-restores-access-to-anthropic-after-service-disruption",
-      "label": "Notion restores access to Anthropic after service disruption",
-      "summary": "Notion 在服务中断后恢复了对其集成的 Anthropic AI 功能的访问。Notion 产品负责人对大量用户转发此事件表示惊讶，凸显了企业对 AI 服务可靠性的高度关注。此事件反映了 AI 产品对第三方模型 API 的依赖性，以及外部服务中断对用户体验和产品信任度的潜在冲击。对于 AI 产品经理而言，需重视服务冗余、故障恢复机制和风险沟通策略，以降低集成带来的单点故障风险。",
-      "pm_score": 0.445,
-      "pillar": "ecosystem",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "arithmetic-without-numbers-how-llms-do-math",
-      "label": "Arithmetic Without Numbers – How LLMs Do Math",
-      "summary": "这篇文章探讨了大型语言模型（LLM）如何进行数学运算，与传统依赖数字计算不同，LLM通过高维空间中的token嵌入和模式匹配来“理解”算术。技术要点在于揭示模型内部符号推理与统计关联的协同机制，而非精确计算。商业价值上，这为AI数学辅导、自动编程验证等产品提供了更智能的路径，降低了对专用计算单元的依赖。产品创新点包括设计更自然的数学对话界面，以及优化训练数据以增强模型的代数推理能力。",
-      "pm_score": 0.43,
+      "id": "mimo-v25-pro-ultraspeed-1t-model-with-1000-tokens-per-second",
+      "label": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "summary": "MiMo-v2.5-Pro-UltraSpeed 是一款拥有1万亿参数的超大规模语言模型，推理速度达到每秒1000个token，显著降低了延迟。这一突破意味着AI产品可以在保持极高智能水平的同时实现实时交互，适用于对话、代码生成等场景。商业价值在于降低算力成本、提升用户体验，推动大模型在消费级产品中的落地。产品创新体现在对超大规模模型推理效率的极致优化，为AI应用带来更快的响应和更低的部署门槛。",
+      "pm_score": 0.45,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48410427",
-      "date": "2026-06-08"
+      "url": "https://news.ycombinator.com/item?id=48446639",
+      "date": "2026-06-09"
     },
     {
-      "id": "sparse-subspace-to-expert-sharing-for-task-agnostic-continual-learning",
-      "label": "Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning",
-      "summary": "该论文针对大语言模型在持续学习中面临的可塑性-稳定性困境，提出了一种名为“稀疏子空间到专家共享”的任务无关持续学习方法。现有方法统一处理参数，无法区分特定任务知识，导致学习新能力时灾难性遗忘旧知识。该方法通过稀疏子空间和专家共享机制，让模型在学习新任务时保留原有知识，降低遗忘风险。产品经理可关注其如何在不重新训练整个模型的情况下高效更新能力，降低迭代成本，提升产品适应性。",
-      "pm_score": 0.43,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2606.07500v1",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "how-reliable-are-llms-when-it-comes-to-playing-dice",
-      "label": "How reliable are LLMs when it comes to playing dice?",
-      "summary": "本文通过控制实验评估大语言模型在离散概率问题上的推理能力，构建了标准习题和反直觉习题两个数据集。研究发现，LLM在处理反直觉概率问题时往往依赖启发式推理而非精确计算，表现出可靠性不足。产品经理需注意，在涉及风险评估、游戏规则、决策支持等需要精确概率理解的场景中，LLM可能给出错误结论，建议结合外部工具或符号推理系统弥补其概率推理短板。",
-      "pm_score": 0.43,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2606.07515v1",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "drifting-models-for-surrogate-flow-modeling",
-      "label": "Drifting Models for Surrogate Flow Modeling",
-      "summary": "本文提出了一种漂移模型（Drifting Models）用于替代流建模，旨在解决计算流体动力学（CFD）高保真度但计算成本高的问题。相比确定性网络，生成式代理模型能更好分布建模，但迭代采样速度慢。该技术通过捕捉动态变化中的模式漂移，提升代理模型在室内环境优化等场景下的效率与准确性，具有加速工程设计迭代、降低计算资源需求的商业价值。产品创新点在于将生成式模型与流体仿真结合，实现快速近似模拟。",
-      "pm_score": 0.395,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2606.07481v1",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "cometapns-continually-meta-learning-personalized-neural-surrogates-for-cardiac-e",
-      "label": "CoMetaPNS: Continually Meta-learning Personalized Neural Surrogates for Cardiac",
-      "summary": "该论文提出CoMetaPNS方法，通过元学习（Meta-learning）框架连续训练个性化神经代理，用于心脏电生理模拟。传统方法在模型个性化和计算成本上存在矛盾，CoMetaPNS结合元学习快速适配新患者数据，同时保持神经代理的高效推理能力，降低虚拟心脏模拟的计算开销。商业价值在于加速个性化医疗模拟，支持药物测试、手术规划等场景，减少对传统高成本数值模拟的依赖。产品创新体现在将连续学习与元学习结合，实现跨患者知识迁移，提升模型泛化性与个性化效率。",
-      "pm_score": 0.395,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2606.07488v1",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "bradley-terry-rankings-for-recommender-systems-across-dataset-taxonomies",
-      "label": "Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies",
-      "summary": "本文针对推荐系统算法排名困难的问题，提出使用Bradley-Terry模型进行公平比较。该方法能够处理不同数据集特征（如稀疏性、序列结构、规模）对算法性能的影响，通过统计排序聚合实现跨数据集的稳健排名。对于AI产品经理，这意味着可以更科学地评估推荐算法在实际业务场景中的表现，避免单一指标误导，从而选择最优算法提升用户留存和转化。该研究为推荐系统的产品迭代提供了标准化评估框架，降低算法选型风险。",
-      "pm_score": 0.395,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2606.07492v1",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "memdreamer-decoupling-perception-and-reasoning-for-long-video-understanding-via",
-      "label": "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via",
-      "summary": "MemDreamer针对当前视觉语言模型处理数小时长视频时面临的token爆炸和注意力稀释问题，提出解耦感知与推理的智能体架构。通过层次化图记忆存储视频片段的关键信息，并引入智能体检索机制动态获取相关上下文，从而在不增加计算负担的情况下实现高效的长视频理解。该技术可应用于视频监控、内容摘要、教育视频分析等场景，显著提升AI对长时序视觉内容的理解能力，具有重要的产品化潜力。",
-      "pm_score": 0.395,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2606.07512v1",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "accelerated-decentralized-stochastic-gradient-descent-for-strongly-convex-optimi",
-      "label": "Accelerated Decentralized Stochastic Gradient Descent for Strongly Convex Optimi",
-      "summary": "该论文提出一种用于强凸优化问题的加速去中心化随机梯度下降算法。去中心化随机梯度下降是大规模网络学习的基础范式，其中每个节点仅与邻居通信，无需中央协调器。对于强凸问题，通信效率主要由条件数决定。该算法通过加速技术降低通信轮次，提升分布式训练效率，适用于边缘计算、物联网等去中心化场景。商业价值在于减少带宽消耗、提高模型训练速度，适合资源受限的分布式系统。",
-      "pm_score": 0.395,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2606.07496v1",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "network-recovery-from-cascade-data-a-debiased-jacobian-based-machine-learning-ap",
-      "label": "Network Recovery from Cascade Data: A Debiased Jacobian-Based Machine Learning A",
-      "summary": "本文提出一种基于去偏雅可比的机器学习方法，用于从级联数据中恢复隐藏的因果影响网络。传统方法通常依赖特定的扩散模型假设（如独立级联、线性阈值模型），导致泛化能力受限。该方法通过雅可比矩阵去偏估计，无需假设具体的扩散机制，即可从观察到的级联时序数据重建网络拓扑。该技术对产品经理的价值在于：可应用于社交网络传播路径挖掘、疫情传播链溯源、金融风险传导分析、信息扩散效率优化等场景。例如，识别关键影响者、预测病毒式传播、或优化推荐系统的用户影响力建模。该方法降低了模型假设偏见，提升了网络推断的鲁棒性和准确性，为基于级联数据的产品功能（如社交传播分析、用户行为归因）提供更可靠的技术底座。",
-      "pm_score": 0.395,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2606.07483v1",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "supervision-versus-demonstration-based-in-context-learning-for-multiword-express",
-      "label": "Supervision versus Demonstration-Based In-Context Learning for Multiword Express",
-      "summary": "本文聚焦于土耳其语习语性轻动词结构（LVC）检测，该任务因LVC与字面动词-宾语组合表面形式相同而具有挑战性。研究将LVC检测建模为二元分类问题，比较基于监督学习与基于演示的上下文学习（In-Context Learning）两种方法。技术要点在于利用少量示例（few-shot）而非大量标注数据进行分类，展示了上下文学习在低资源场景下的潜力。商业价值体现在提升多词表达处理能力，可用于机器翻译、对话系统等产品优化。产品创新在于无需大规模标注即可实现高效分类，降低NLP产品部署成本。",
-      "pm_score": 0.395,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2606.07479v1",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "show-hn-lathe-use-llms-to-learn-a-new-domain-not-skip-past-it",
-      "label": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-      "summary": "Lathe 是一个利用大语言模型（LLM）辅助学习的工具，其核心理念是帮助用户深入学习一个领域，而非直接跳过学习过程。与常见的“AI替你做事”不同，Lathe 通过引导式问答、逐步解释和交互练习，让用户在探索中构建知识体系。该产品定位为教育辅助工具，适合希望掌握新领域技能的用户，尤其适合需要系统学习而非碎片化信息获取的场景。其商业价值在于填补了AI教育中“促进理解”而非“替代思考”的市场空白，具有差异化优势。产品创新在于重新定义了AI在学习中的角色——从答案生成器转变为学习伙伴。",
-      "pm_score": 0.38,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48433756",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "do-agentsmd-files-help-coding-agents",
-      "label": "Do agents.md files help coding agents?",
-      "summary": "本文探讨了为AI编码代理设计专用的‘agents.md’文件是否有助于提升其任务表现。核心观点是通过结构化文档（如Markdown格式）提供上下文、规则和目标，能显著增强代理对项目理解与自主执行能力。该模式类似于为代理构建‘初始化配置文件’，可封装领域知识、约束条件和交互协议，从而减少幻觉并提高代码生成准确性。从产品视角看，引入此类文档可降低代理失败率，但需平衡文档维护成本。此发现对构建可靠AI开发工具（如Copilot扩展）具有直接参考价值。",
-      "pm_score": 0.38,
-      "pillar": "patterns",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48441589",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "if-llms-have-human-like-attributes-then-so-does-age-of-empires-ii",
-      "label": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
-      "summary": "本文通过类比《帝国时代II》中游戏AI的决策逻辑，探讨了大语言模型（LLM）是否真正具备类人属性。作者认为，LLM的某些能力（如规划、推理）与经典游戏AI的规则引擎和状态机有相似之处，并非真正的人类认知，而是对模式的学习和模拟。对AI产品经理的启示是：在将LLM应用于策略、模拟或游戏类产品时，需警惕过度拟人化带来的预期偏差，应更关注其模式匹配与实际场景的适配性，避免高估其自主决策能力。",
-      "pm_score": 0.38,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48437568",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "second-order-path-kernel-interpolation-formulas-in-machine-learning",
-      "label": "Second-Order Path Kernel Interpolation Formulas in Machine Learning",
-      "summary": "该论文提出了一种基于二阶路径核的插值公式，用于解释确定性梯度下降训练的神经网络如何受训练数据影响。它通过沿优化路径的积分形式表达模型预测，从而提供理论工具来量化每个训练样本对最终预测的贡献。对于AI产品经理，此成果可提升模型可解释性，优化数据选择策略，降低调试成本，并增强用户对AI决策的信任。",
-      "pm_score": 0.36,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2606.07495v1",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "texas-grid-flags-risks-as-data-centers-crypto-sites-fail-voltage-tests",
-      "label": "Texas grid flags risks as data centers, crypto sites fail voltage tests",
-      "summary": "德州电网因数据中心和加密货币矿场未通过电压测试而发出风险警告，表明大规模AI计算需求对电网稳定性构成挑战。对AI产品经理而言，这将直接影响算力部署成本、选址策略和服务的可用性保障，需关注能源基础设施瓶颈对AI产品长期可扩展性的制约。",
-      "pm_score": 0.345,
-      "pillar": "ecosystem",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48440610",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "playing-with-vision-embeddings",
-      "label": "Playing with Vision Embeddings",
-      "summary": "本文探讨了视觉嵌入（Vision Embeddings）的实践应用。技术要点包括使用预训练模型（如CLIP）提取图像特征向量，实现跨模态检索与相似度匹配。商业价值在于赋能电商以图搜图、智能内容审核、医疗影像辅助诊断等场景。产品创新方面，可结合向量数据库构建多模态搜索系统，或融合RAG实现视觉问答。PM需关注嵌入维度、检索延迟与冷启动数据策略。",
+      "id": "tiny-hackable-cuda-language-model-implementation",
+      "label": "Tiny hackable CUDA language model implementation",
+      "summary": "该项目提供了一个基于CUDA的极简、可破解的语言模型实现，核心价值在于轻量级与高度可定制性。技术要点包括：使用CUDA加速推理和训练，模型体积小适合边缘设备，代码结构清晰便于开发者二次开发。商业价值上，它降低了AI入门门槛，促进教育、原型验证及定制化应用，尤其适合资源受限场景。产品创新体现在模块化设计与可hack特性，使非专家也能快速实验。",
       "pm_score": 0.345,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48413366",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "google-just-made-you-a-search-quality-rater-you-wont-get-paid",
-      "label": "Google just made you a search quality rater. You won't get paid",
-      "summary": "Google通过让用户隐式参与搜索质量评估（如点击、停留时间等行为信号），无需支付报酬即可获得海量标注数据。此举降低了传统人工评估成本，同时利用真实用户反馈优化搜索排序模型。对AI产品经理而言，这展示了弱监督学习与隐式反馈在产品迭代中的商业价值——无需直接付费即可规模化获取训练信号，但需注意用户无意识标注的质量偏差和伦理问题。该机制可被借鉴到其他推荐系统或对话产品的用户行为建模中。",
-      "pm_score": 0.33,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48434001",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "efficient-and-training-free-single-image-diffusion-models",
-      "label": "Efficient and Training-Free Single-Image Diffusion Models",
-      "summary": "该技术提出一种高效且无需额外训练的单图像扩散模型，能够基于单张输入图像直接进行图像生成或编辑。与传统的需要大规模数据集微调的方法不同，它通过巧妙的架构设计实现零样本适配，大幅降低了计算资源和时间成本。对于产品经理而言，这意味着可以快速将个性化图像生成、风格迁移等能力集成到应用中，无需复杂的模型训练流程，从而加速产品迭代，降低部署门槛，尤其适合移动端或实时场景。",
-      "pm_score": 0.33,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48433305",
-      "date": "2026-06-08"
-    },
-    {
-      "id": "the-smallest-brain-you-can-build-a-perceptron-in-python",
-      "label": "The Smallest Brain You Can Build: A Perceptron in Python",
-      "summary": "本文介绍了用Python实现的最小‘大脑’——感知机（Perceptron），一种最简单的神经网络单元。通过理解其工作原理（线性分类、权重更新），产品经理可把握AI基础能力边界：感知机仅能解决线性可分问题，无法处理异或（XOR）等非线性场景。这提示在设计AI产品时，需根据任务复杂度选择合适模型，避免因基础模型局限导致产品效果偏差。感知机是理解更复杂网络（如多层感知机、深度学习）的起点，有助于评估技术可行性与成本。",
-      "pm_score": 0.31,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48440064",
-      "date": "2026-06-08"
+      "url": "https://news.ycombinator.com/item?id=48415828",
+      "date": "2026-06-09"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1314,
-    "edges": 109532
+    "real_nodes": 1319,
+    "edges": 110852
   }
 }
