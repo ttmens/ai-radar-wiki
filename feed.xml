@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 08 Jun 2026 08:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 12:00:16 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -165,6 +165,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Do agents.md files help coding agents?</title>
+      <link>https://news.ycombinator.com/item?id=48441589</link>
+      <guid isPermaLink="false">do-agentsmd-files-help-coding-agents</guid>
+      <pubDate>2026-06-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了为AI编码代理设计专用的‘agents.md’文件是否有助于提升其任务表现。核心观点是通过结构化文档（如Markdown格式）提供上下文、规则和目标，能显著增强代理对项目理解与自主执行能力。该模式类似于为代理构建‘初始化配置文件’，可封装领域知识、约束条件和交互协议，从而减少幻觉并提高代码生成准确性。从产品视角看，引入此类文档可降低代理失败率，但需平衡文档维护成本。此发现对构建可靠AI开发工具（如Copilot扩展）具有直接参考价值。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>If LLMs Have Human-Like Attributes, Then So Does Age of Empires II</title>
       <link>https://news.ycombinator.com/item?id=48437568</link>
       <guid isPermaLink="false">if-llms-have-human-like-attributes-then-so-does-age-of-empires-ii</guid>
@@ -187,6 +195,14 @@
       <pubDate>2026-06-08T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>德州电网因数据中心和加密货币矿场未通过电压测试而发出风险警告，表明大规模AI计算需求对电网稳定性构成挑战。对AI产品经理而言，这将直接影响算力部署成本、选址策略和服务的可用性保障，需关注能源基础设施瓶颈对AI产品长期可扩展性的制约。</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Playing with Vision Embeddings</title>
+      <link>https://news.ycombinator.com/item?id=48413366</link>
+      <guid isPermaLink="false">playing-with-vision-embeddings</guid>
+      <pubDate>2026-06-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了视觉嵌入（Vision Embeddings）的实践应用。技术要点包括使用预训练模型（如CLIP）提取图像特征向量，实现跨模态检索与相似度匹配。商业价值在于赋能电商以图搜图、智能内容审核、医疗影像辅助诊断等场景。产品创新方面，可结合向量数据库构建多模态搜索系统，或融合RAG实现视觉问答。PM需关注嵌入维度、检索延迟与冷启动数据策略。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Google just made you a search quality rater. You won't get paid</title>
@@ -394,22 +410,6 @@
       <guid isPermaLink="false">tokenomics-quantifying-where-tokens-are-used-in-agentic-software-engineering</guid>
       <pubDate>2026-06-07T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了代币经济学（Tokenomics）在智能体软件工程中的应用，重点量化代币（如GPT token）在自主编程、任务分解与资源分配中的消耗模式。通过分析不同agent工作流的token使用效率，提出优化成本结构与激励机制的框架，帮助产品经理设计更经济的AI agent产品。商业价值在于降低大模型调用成本、提升任务完成的经济性，产品创新体现为将token消耗作为核心KPI融入agent设计。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>New U.S. college grads now have higher unemployment than the average worker</title>
-      <link>https://news.ycombinator.com/item?id=48428763</link>
-      <guid isPermaLink="false">new-us-college-grads-now-have-higher-unemployment-than-the-average-worker</guid>
-      <pubDate>2026-06-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>最新数据显示，美国大学毕业生失业率已超过整体工人平均水平，反映出AI与自动化技术对入门级岗位就业结构的冲击。这一趋势提示产品经理需关注AI如何重塑劳动力市场：一方面，AI驱动的效率提升可能减少部分传统岗位需求；另一方面，也创造了技能提升、职业匹配和再培训的新机会。商业价值体现在开发辅助学习、智能简历优化或职场适应性评估等AI产品。产品创新方向可聚焦于将AI技术用于识别新兴技能缺口、提供个性化职业建议，以及构建人机协作的工作流程，帮助毕业生和职场人适应技术变革。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Show HN: DomainTasker – avoid losing domains and surprise renewals</title>
-      <link>https://domaintasker.com/</link>
-      <guid isPermaLink="false">show-hn-domaintasker-avoid-losing-domains-and-surprise-renewals</guid>
-      <pubDate>2026-06-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>DomainTasker 是一款域名管理工具，旨在帮助用户避免域名丢失和意外续费。它通过自动化跟踪域名到期时间、提供提前提醒和续费管理，解决域名管理中的常见痛点。技术要点包括集成域名API、自定义提醒机制和任务自动化。商业价值体现在节省用户因忘记续费导致的域名丢失成本，以及避免不必要的续费支出。产品创新在于将任务管理与域名生命周期结合，提供简洁的界面和灵活的通知选项。适合个人站长及中小企业使用，提升域名资产管理的效率。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
