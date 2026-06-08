@@ -1550,3 +1550,7 @@
 - create: texas-grid-flags-risks-as-data-centers-crypto-sites-fail-voltage-tests.md
 - create: show-hn-nightwatch-the-open-source-read-only-ai-sre.md
 - create: show-hn-inbox-beam-notifications-in-your-inbox-without-sending-email.md
+
+## [2026-06-08 18:01] sync v3 | 2 new | pillars: {'capabilities': 1, 'patterns': 1}
+- create: playing-with-vision-embeddings.md
+- create: do-agentsmd-files-help-coding-agents.md

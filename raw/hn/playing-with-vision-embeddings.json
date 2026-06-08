@@ -1,0 +1,28 @@
+{
+  "title": "Playing with Vision Embeddings",
+  "score": 52,
+  "comments": 5,
+  "url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
+  "hn_url": "https://news.ycombinator.com/item?id=48413366",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision",
+    "embedding"
+  ],
+  "summary_cn": "本文探讨了视觉嵌入（Vision Embeddings）的实践应用。技术要点包括使用预训练模型（如CLIP）提取图像特征向量，实现跨模态检索与相似度匹配。商业价值在于赋能电商以图搜图、智能内容审核、医疗影像辅助诊断等场景。产品创新方面，可结合向量数据库构建多模态搜索系统，或融合RAG实现视觉问答。PM需关注嵌入维度、检索延迟与冷启动数据策略。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Visual Embeddings",
+    "Multimodal AI",
+    "Vector Search"
+  ],
+  "entities": [
+    "Hugging Face",
+    "OpenAI"
+  ],
+  "patterns": [
+    "Embedding-based Retrieval",
+    "Multimodal Search"
+  ]
+}

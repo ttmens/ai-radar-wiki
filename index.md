@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-08 | Total pages: 1331
+> Last updated: 2026-06-08 | Total pages: 1333
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -254,6 +254,7 @@
 - [[owainlewisawesome-artificial-intelligence.md]] owainlewis/awesome-artificial-intelligence `pillar:capabilities` `score:0.58`
 - [[oxcaml-in-space.md]] O(x)Caml in Space `pillar:capabilities` `score:0.275`
 - [[paddlepaddlepaddle.md]] PaddlePaddle/Paddle `pillar:capabilities` `score:0.615`
+- [[playing-with-vision-embeddings.md]] Playing with Vision Embeddings `pillar:capabilities` `score:0.345`
 - [[please-use-ai.md]] Please Use AI `pillar:capabilities` `score:0.645`
 - [[populora-co-evolving-llm-populations-for-reasoning-self-play.md]] PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play `pillar:capabilities` `score:0.33`
 - [[programmers-will-document-for-claude-but-not-for-each-other.md]] Programmers will document for Claude, but not for each other `pillar:capabilities` `score:0.585`
@@ -694,6 +695,7 @@
 - [[dbeaverdbeaver.md]] dbeaver/dbeaver `pillar:patterns` `score:0.545`
 - [[deepseek-reasonix-deepseek-native-coding-agent-with-high-caching-and-low-cost.md]] DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost `pillar:patterns` `score:0.48`
 - [[deepset-aihaystack.md]] deepset-ai/haystack `pillar:patterns` `score:0.615`
+- [[do-agentsmd-files-help-coding-agents.md]] Do agents.md files help coding agents? `pillar:patterns` `score:0.38`
 - [[does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do.md]] Does your CEO have AI psychosis? Aaron Levie thinks most of them do. `pillar:patterns` `score:0.48`
 - [[domain-camouflaged-injection-attacks-evade-detection-in-multi-agent-llm-systems.md]] Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems `pillar:patterns` `score:0.33`
 - [[duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search.md]] DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Sea `pillar:patterns` `score:0.515`
