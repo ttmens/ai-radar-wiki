@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 09 Jun 2026 08:00:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 12:00:20 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -45,12 +45,28 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Leonxlnx/taste-skill</title>
+      <link>https://github.com/Leonxlnx/taste-skill</link>
+      <guid isPermaLink="false">leonxlnxtaste-skill</guid>
+      <pubDate>2026-06-09T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>该项目名为Taste-Skill，通过赋予AI“品味”来避免生成无聊、泛泛的内容。技术上可能采用后处理过滤、风格引导或偏好学习，实现对输出质量的精细控制。商业价值在于提升内容产品的用户粘性与差异化，尤其适用于创意写作、聊天机器人等场景。产品创新体现在将审美标准显式编码为可调参数，降低人工审核成本，使AI输出更符合特定品牌调性。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>Replies to comments on my "LLMs are eroding my career" post</title>
       <link>https://news.ycombinator.com/item?id=48443258</link>
       <guid isPermaLink="false">replies-to-comments-on-my-llms-are-eroding-my-career-post</guid>
       <pubDate>2026-06-09T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>该帖子围绕“LLM正在侵蚀我的职业生涯”展开讨论，用户回复中探讨了大型语言模型能力提升对个人职业发展的冲击。产品经理需关注LLM如何改变技术岗位需求、自动化重复性工作以及催生新的产品机会。核心矛盾在于：LLM增强的能力可能替代某些中间技能，但也创造了需要人类监督、创意和战略思维的新角色。商业价值体现在降低开发成本、加速原型验证，但需警惕职业定位的重新评估。产品创新方向包括人机协作工具、LLM辅助决策系统以及适应性学习平台。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Microsoft's open source tools were hacked to steal passwords of AI developers</title>
+      <link>https://news.ycombinator.com/item?id=48457830</link>
+      <guid isPermaLink="false">microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers</guid>
+      <pubDate>2026-06-09T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>微软的开源工具遭到黑客攻击，被植入恶意代码以窃取AI开发者的密码。此次事件凸显了开发工具供应链安全的重要性，尤其是AI开发者广泛依赖开源组件。产品经理需加强对第三方依赖的风险评估，建立安全审计机制，避免敏感信息泄露影响产品开发和用户信任。建议团队实施代码签名、多因素认证及定期扫描依赖库，以防范类似攻击。</p></description>
+      <category>🔧 工具生态</category>
     </item>
     <item>
       <title>Following Anthropic, OpenAI files confidentially for IPO</title>
@@ -395,22 +411,6 @@
       <pubDate>2026-06-08T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenAI 正致力于打造一款超越传统聊天的“超级应用”，旨在整合多种 AI 功能于一体。据内部人士透露，单纯基于聊天的交互模式已显过时，未来应用将融合多模态理解、任务自动化、记忆持久化等能力，形成一站式智能助手。这一方向不仅标志着从单一对话界面到综合平台的转变，也预示着 AI 产品将更深度嵌入用户日常工作流，具备更高的商业价值与用户粘性。产品经理需关注其如何通过功能聚合与体验统一来构建生态壁垒。</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Is this the dawn of the Tokenpocalypse?</title>
-      <link>https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/</link>
-      <guid isPermaLink="false">is-this-the-dawn-of-the-tokenpocalypse</guid>
-      <pubDate>2026-06-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>本文探讨AI领域可能出现的“Token末日”现象，指出随着大型AI公司计划上市，市场可能迎来一波价格上涨。对AI产品经理而言，这预示着AI服务的token成本或将上升，影响产品定价策略和商业模式设计。同时，IPO热潮会推动行业资本化，加速技术迭代和竞争格局变化。产品经理需关注token经济模型调整，平衡用户体验与成本控制，并抓住上市带来的生态整合机会。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope</title>
-      <link>http://arxiv.org/abs/2606.07489v1</link>
-      <guid isPermaLink="false">how-ai-agents-reshape-knowledge-work-autonomy-efficiency-and-scope</guid>
-      <pubDate>2026-06-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文研究前沿AI系统如何从对话式助手转向自主代理，端到端执行任务，从而重塑知识工作。基于Perplexity的Search和Computer产品生产数据，分析代理在自主性、效率和范围上的提升。对于AI产品经理，核心启示是：AI代理将智能与实用性结合，可显著加速知识工作流程，降低人工干预，实现任务自动化。产品创新方向在于设计更独立的代理系统，以处理复杂、多步骤的认知任务。</p></description>
-      <category>📱 产品模式</category>
     </item>
   </channel>
 </rss>
