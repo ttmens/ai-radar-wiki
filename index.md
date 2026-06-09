@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-09 | Total pages: 1377
+> Last updated: 2026-06-09 | Total pages: 1379
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -770,6 +770,7 @@
 - [[launch-hn-runtime-yc-p26-sandboxed-coding-agents-for-everyone-on-a-team.md]] Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team `pillar:patterns` `score:0.33`
 - [[launch-hn-voker-yc-s24-analytics-for-ai-agent.md]] Launch HN: Voker (YC S24) – Analytics for AI Agents `pillar:patterns` `score:0.155`
 - [[leon-aileon.md]] leon-ai/leon `pillar:patterns` `score:0.405`
+- [[leonxlnxtaste-skill.md]] Leonxlnx/taste-skill `pillar:patterns` `score:0.58`
 - [[linshenkxprompt-optimizer.md]] linshenkx/prompt-optimizer `pillar:patterns` `score:0.58`
 - [[liyupiai-guide.md]] liyupi/ai-guide `pillar:patterns` `score:0.405`
 - [[lobehublobehub.md]] lobehub/lobehub `pillar:patterns` `score:0.615`
@@ -1006,6 +1007,7 @@
 - [[meta-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-in.md]] Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come `pillar:ecosystem` `score:0.48`
 - [[microsoftautogen.md]] microsoft/autogen `pillar:ecosystem` `score:0.615`
 - [[microsoftml-for-beginners.md]] microsoft/ML-For-Beginners `pillar:ecosystem` `score:0.545`
+- [[microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers.md]] Microsoft's open source tools were hacked to steal passwords of AI developers `pillar:ecosystem` `score:0.53`
 - [[microsoftsemantic-kernel.md]] microsoft/semantic-kernel `pillar:ecosystem` `score:0.615`
 - [[mini-shai-hulud-strikes-again-314-npm-packages-compromised.md]] Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised `pillar:ecosystem` `score:0.395`
 - [[mishushakovllm-scraper.md]] mishushakov/llm-scraper `pillar:ecosystem` `score:0.53`

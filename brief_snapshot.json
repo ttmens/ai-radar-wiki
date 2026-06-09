@@ -1,7 +1,7 @@
 {
   "date": "2026-06-09",
-  "generated_at": "2026-06-09T12:02:43.289331+08:00",
-  "item_count": 41,
+  "generated_at": "2026-06-09T18:01:46.970701+08:00",
+  "item_count": 43,
   "items": [
     {
       "id": "apple-reveals-new-ai-architecture-built-around-google-gemini-models",
@@ -48,6 +48,17 @@
       "date": "2026-06-09"
     },
     {
+      "id": "leonxlnxtaste-skill",
+      "label": "Leonxlnx/taste-skill",
+      "summary": "该项目名为Taste-Skill，通过赋予AI“品味”来避免生成无聊、泛泛的内容。技术上可能采用后处理过滤、风格引导或偏好学习，实现对输出质量的精细控制。商业价值在于提升内容产品的用户粘性与差异化，尤其适用于创意写作、聊天机器人等场景。产品创新体现在将审美标准显式编码为可调参数，降低人工审核成本，使AI输出更符合特定品牌调性。",
+      "pm_score": 0.58,
+      "pillar": "patterns",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "date": "2026-06-09"
+    },
+    {
       "id": "replies-to-comments-on-my-llms-are-eroding-my-career-post",
       "label": "Replies to comments on my \"LLMs are eroding my career\" post",
       "summary": "该帖子围绕“LLM正在侵蚀我的职业生涯”展开讨论，用户回复中探讨了大型语言模型能力提升对个人职业发展的冲击。产品经理需关注LLM如何改变技术岗位需求、自动化重复性工作以及催生新的产品机会。核心矛盾在于：LLM增强的能力可能替代某些中间技能，但也创造了需要人类监督、创意和战略思维的新角色。商业价值体现在降低开发成本、加速原型验证，但需警惕职业定位的重新评估。产品创新方向包括人机协作工具、LLM辅助决策系统以及适应性学习平台。",
@@ -56,6 +67,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48443258",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers",
+      "label": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "summary": "微软的开源工具遭到黑客攻击，被植入恶意代码以窃取AI开发者的密码。此次事件凸显了开发工具供应链安全的重要性，尤其是AI开发者广泛依赖开源组件。产品经理需加强对第三方依赖的风险评估，建立安全审计机制，避免敏感信息泄露影响产品开发和用户信任。建议团队实施代码签名、多因素认证及定期扫描依赖库，以防范类似攻击。",
+      "pm_score": 0.53,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48457830",
       "date": "2026-06-09"
     },
     {
@@ -456,7 +478,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1358,
-    "edges": 113555
+    "real_nodes": 1360,
+    "edges": 114916
   }
 }

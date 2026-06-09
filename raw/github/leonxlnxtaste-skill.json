@@ -1,0 +1,43 @@
+{
+  "name": "Leonxlnx/taste-skill",
+  "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
+  "stars": 38998,
+  "language": "Shell",
+  "topics": [
+    "agent",
+    "ai",
+    "claude",
+    "claude-code",
+    "codex",
+    "coding",
+    "design",
+    "frontend",
+    "lowcode",
+    "nocode",
+    "skill",
+    "skills",
+    "vibecoding"
+  ],
+  "url": "https://github.com/Leonxlnx/taste-skill",
+  "created": "2026-02-19T21:44:05Z",
+  "tag": "GitHub",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "该项目名为Taste-Skill，通过赋予AI“品味”来避免生成无聊、泛泛的内容。技术上可能采用后处理过滤、风格引导或偏好学习，实现对输出质量的精细控制。商业价值在于提升内容产品的用户粘性与差异化，尤其适用于创意写作、聊天机器人等场景。产品创新体现在将审美标准显式编码为可调参数，降低人工审核成本，使AI输出更符合特定品牌调性。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI Output Curation",
+    "Content Quality",
+    "Style Control"
+  ],
+  "entities": [
+    "taste-skill",
+    "Leonxlnx"
+  ],
+  "patterns": [
+    "AI Taste Filter",
+    "Prompt Enhancement"
+  ]
+}

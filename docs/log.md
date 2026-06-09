@@ -1604,3 +1604,7 @@
 - create: as-openai-files-for-ipo-sam-altman8217s-eye-scanning-company-is-doing-layoffs-re.md
 - create: apple8217s-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement.md
 - create: show-hn-ai-pair-programmer-for-emacs.md
+
+## [2026-06-09 18:01] sync v3 | 2 new | pillars: {'patterns': 1, 'ecosystem': 1}
+- create: leonxlnxtaste-skill.md
+- create: microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers.md
