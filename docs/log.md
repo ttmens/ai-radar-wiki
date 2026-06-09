@@ -1615,3 +1615,21 @@
 - create: sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams.md
 - create: lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a.md
 - create: how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers.md
+
+## [2026-06-10 06:06] sync v3 | 17 new | pillars: {'capabilities': 13, 'patterns': 4}
+- create: claude-fable-5.md
+- create: if-claude-fable-stops-helping-you-youll-never-know.md
+- create: ultrafast-machine-learning-on-fpgas-via-kolmogorov-arnold-networks.md
+- create: ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos.md
+- create: is-grep-all-you-need-how-agent-harnesses-reshape-agentic-search.md
+- create: where-is-the-ai-jobs-crisis.md
+- create: show-hn-gentleos-a-pair-of-hobby-oses-for-vintage-32-bit-and-16-bit-pcs.md
+- create: can-llms-beat-classical-hyperparameter-optimization-algorithms.md
+- create: unified-controllable-and-faithful-text-to-cad-generation-with-llms.md
+- create: gpt-2-too-dangerous-to-release-2019.md
+- create: hey-siri-here8217s-what-i-actually-want-from-ai.md
+- create: anthropic8217s-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-butt.md
+- create: can-tech-companies-learn-to-love-cheaper-ai-models.md
+- create: anthropic8217s-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today.md
+- create: it8217s-not-faang-anymore-it8217s-mangos.md
+- create: show-hn-claw-patrol-a-security-firewall-for-agents.md

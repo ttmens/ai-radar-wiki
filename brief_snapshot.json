@@ -1,8 +1,19 @@
 {
   "date": "2026-06-10",
-  "generated_at": "2026-06-10T00:02:06.102423+08:00",
-  "item_count": 4,
+  "generated_at": "2026-06-10T06:06:01.131539+08:00",
+  "item_count": 19,
   "items": [
+    {
+      "id": "claude-fable-5",
+      "label": "Claude Fable 5",
+      "summary": "Claude Fable 5 可能指 Anthropic 发布的 Claude 模型在寓言或故事生成方面的第五代能力升级，聚焦于提升叙事质量、逻辑连贯性与创意多样性。该能力可应用于教育、内容创作、互动娱乐等领域，通过更自然的语言理解和生成，降低用户创作门槛。商业价值在于为平台提供差异化的文本生成体验，产品创新体现在对长文本结构控制和风格模仿的优化。",
+      "pm_score": 0.61,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48463808",
+      "date": "2026-06-10"
+    },
     {
       "id": "cleaning-up-after-ai-rockstar-developers",
       "label": "Cleaning up after AI rockstar developers",
@@ -12,6 +23,39 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48458586",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "gpt-2-too-dangerous-to-release-2019",
+      "label": "GPT-2: Too Dangerous To Release (2019)",
+      "summary": "2019年OpenAI因担心GPT-2语言模型被滥用（如生成虚假信息）而推迟发布，体现了AI能力与安全风险的平衡。该模型展示了零样本学习能力，在文本生成、翻译等任务上表现出色，但同时也引发了关于AI伦理、可控性和发布策略的讨论。对产品经理而言，这提示在推出强大AI功能时需考虑负面用例和监管影响，商业价值在于预训练模型可复用为多场景基础能力，但需配套安全机制。",
+      "pm_score": 0.58,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48465269",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "where-is-the-ai-jobs-crisis",
+      "label": "Where is the AI jobs crisis?",
+      "summary": "文章探讨AI技术发展是否真的会导致大规模失业危机。作者分析当前AI能力（如LLM、自动化）的局限性，认为并非所有岗位都面临立即替代风险，更多是岗位转型和技能需求变化。对于AI产品经理，理解能力边界比恐慌更重要，需聚焦如何用AI增强而非完全取代人工，从而创造新的产品机会和商业模式。",
+      "pm_score": 0.55,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48464333",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos",
+      "label": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
+      "summary": "本文指出认为AI可以完全替代员工的CEO是不合格的，核心观点是AI应作为增强工具而非替代品。对于AI产品经理而言，这提示在设计产品时需聚焦于人机协作模式，通过AI辅助员工提升效率与创造力，而非追求自动化取代人力。技术要点在于构建可解释、可控制的AI系统，商业价值体现在降低人力资源浪费、提升团队整体产出。产品创新方向应围绕“增强型AI”（Augmented AI）设计，避免引发组织抵触。",
+      "pm_score": 0.545,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48465675",
       "date": "2026-06-10"
     },
     {
@@ -26,6 +70,17 @@
       "date": "2026-06-10"
     },
     {
+      "id": "hey-siri-here8217s-what-i-actually-want-from-ai",
+      "label": "Hey Siri, here&#8217;s what I actually want from AI",
+      "summary": "文章探讨用户对个人AI助手的强烈需求与潜在依赖风险。用户渴望Siri等助手能真正理解上下文、主动提供帮助，而非简单响应，但担心过度依赖会削弱自主能力。产品创新点在于设计非侵入式、可控制的AI伴侣，平衡便利与用户自主性。商业价值体现在提升用户粘性，但需避免成瘾设计。技术要点包括长期上下文记忆、主动推理和个性化交互。",
+      "pm_score": 0.515,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+      "date": "2026-06-10"
+    },
+    {
       "id": "sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams",
       "label": "Sandstone raises $30M to bring AI to in-house legal teams",
       "summary": "Sandstone 完成 3000 万美元 A 轮融资，由 Lightspeed 领投、Sequoia 跟投。其产品将 AI 应用于内部法务团队，提供合同审查、法律文档分析、合规审查等智能功能，大幅提升法务工作效率。该垂直场景 AI 利用自然语言处理和大模型理解法律文本，实现自动化流程与智能决策支持，降低了企业法律成本，展现了在专业服务领域的产品创新与商业价值。",
@@ -34,6 +89,50 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "can-tech-companies-learn-to-love-cheaper-ai-models",
+      "label": "Can tech companies learn to love cheaper AI models?",
+      "summary": "本文探讨科技公司是否愿意接受更便宜的AI模型。关键点在于，如果廉价模型能在不牺牲质量的前提下处理相同AI任务，将彻底改变AI经济性——大幅降低部署成本，使更多产品能够集成AI能力。这提示产品经理应关注模型性价比，探索小模型替代大模型的可能性，从而加速AI应用落地并优化成本结构。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "anthropic8217s-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-butt",
+      "label": "Anthropic&#8217;s Fable 5 can make weirdly fun video games with the click of a b",
+      "summary": "Anthropic推出Claude Fable 5，支持用户一键生成可玩的视频游戏，尤其吸引Web端的“氛围编码者”（vibe coders）。该能力基于Anthropic的Claude模型，通过自然语言指令自动生成游戏逻辑、画面和交互，大幅降低游戏开发门槛。技术亮点在于模型对游戏机制、视觉风格和即时反馈的端到端理解，无需专业编程技能即可产出趣味性作品。商业上，这为游戏行业带来新的UGC创作范式，可能颠覆独立游戏开发流程，并推动AI在娱乐内容生成领域的应用。产品经理应关注其对低代码/无代码工具、用户生成内容（UGC）生态的潜在影响，以及如何整合类似的生成能力到现有平台中。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "is-grep-all-you-need-how-agent-harnesses-reshape-agentic-search",
+      "label": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+      "summary": "本文探讨了“Grep”作为AI Agent核心工具的可行性，提出Agent Harnesses（代理工具链）如何重塑代理式搜索（Agentic Search）。核心观点是：像grep这样简单高效的文本搜索模式，结合AI Agent的决策能力，可以形成一种轻量级、模块化的搜索范式，避免依赖庞大模型。产品创新在于降低搜索延迟和成本，提升可解释性；商业价值体现在企业级搜索、文档检索场景的快速落地；技术要点强调“模式即搜索”（Pattern as Search）的设计理念。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48460863",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "anthropic8217s-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today",
+      "label": "Anthropic&#8217;s Claude Fable 5 is a version of Mythos the public can access to",
+      "summary": "Anthropic 发布 Claude Fable 5，这是其首个面向公众开放的 Mythos 类模型。该模型通过内置安全护栏，严格限制在网络安全、生物学等高危领域的响应，平衡了能力与风险控制。对AI产品经理而言，此举标志着前沿模型在开放性与安全性之间找到新平衡点，可能推动企业级应用采纳，但需评估其对于垂直场景的实用性。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
       "date": "2026-06-10"
     },
     {
@@ -46,10 +145,76 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
       "date": "2026-06-10"
+    },
+    {
+      "id": "it8217s-not-faang-anymore-it8217s-mangos",
+      "label": "It&#8217;s not FAANG anymore. It&#8217;s MANGOS.",
+      "summary": "本文指出，随着SpaceX、Anthropic、OpenAI等公司计划大规模公开上市，科技行业将迎来新的巨头阵营，传统FAANG（Facebook/Apple/Amazon/Netflix/Google）被MANGOS（Meta/Anthropic/Netflix/Google/OpenAI/SpaceX？具体待验证）取代。这标志着AI原生公司和太空公司成为资本市场新宠，商业价值在于AI基础设施和前沿模型公司的IPO将重塑投融资格局。对产品经理而言，需关注这些公司的技术路线（如Anthropic的Constitutional AI、OpenAI的多模态）对产品策略的影响，以及新生态中平台话语权",
+      "pm_score": 0.41,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "ultrafast-machine-learning-on-fpgas-via-kolmogorov-arnold-networks",
+      "label": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+      "summary": "本文介绍了一种基于Kolmogorov-Arnold Networks（KAN）在FPGA上实现超快机器学习的方法。KAN通过可学习的激活函数替代传统固定激活函数，显著提升模型表达效率；结合FPGA的并行计算能力，可在低功耗下实现毫秒级推理。该技术为边缘设备、实时AI应用提供了高效硬件加速方案，有望降低对云端算力的依赖，推动AI产品的本地化部署和成本优化。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48466277",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "if-claude-fable-stops-helping-you-youll-never-know",
+      "label": "If Claude Fable stops helping you, you'll never know",
+      "summary": "该标题暗示Claude的Fable功能若停止服务，用户将无法察觉，引发对AI产品透明度和可靠性关键问题的思考。技术要点在于功能失效的无感知性，需强化监控与用户反馈机制；商业价值在于维护信任与持续服务；产品创新应注重设计可解释性及异常告警系统。",
+      "pm_score": 0.38,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48467896",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "can-llms-beat-classical-hyperparameter-optimization-algorithms",
+      "label": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
+      "summary": "本文探讨了大型语言模型（LLM）在超参数优化（HPO）任务中是否能够超越传统的贝叶斯优化、网格搜索等经典算法。研究通过对比实验，测试LLM在无需大量预训练的情况下，利用其推理和上下文理解能力直接给出建议超参数组合的表现。初步发现LLM在某些低维或简单搜索空间中接近甚至优于传统方法，但在高维复杂场景中仍存在差距。商业价值在于降低AutoML门槛，使非专家用户也能通过自然语言交互完成模型调优；产品创新体现在将LLM作为“优化代理”融入现有机器学习流程，可能改变工具链设计。",
+      "pm_score": 0.38,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48462062",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "unified-controllable-and-faithful-text-to-cad-generation-with-llms",
+      "label": "Unified Controllable and Faithful Text-to-CAD Generation with LLMs",
+      "summary": "该技术提出一种统一的、可控且忠实于输入的文本到CAD生成方法，利用大型语言模型（LLM）将自然语言描述转换为三维计算机辅助设计（CAD）模型。其核心创新在于同时保证生成结果的可控性（如用户指定几何约束、参数）和忠实性（准确反映文本描述），克服了传统文本到CAD方法中输出不可控、细节丢失的问题。对于AI产品经理，这意味着可构建面向设计师、工程师的智能设计工具，显著降低3D建模门槛，加速产品原型开发。商业价值体现在可集成到CAD软件、在线设计平台中，提供对话式辅助设计体验，并支持参数化修改。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48461311",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "show-hn-claw-patrol-a-security-firewall-for-agents",
+      "label": "Show HN: Claw Patrol, a security firewall for agents",
+      "summary": "Claw Patrol 是一款专为 AI 代理设计的安全防火墙，通过实时监控和拦截恶意指令、数据泄露等风险，保障代理在复杂环境中的安全运行。它为产品经理提供了关键的 Agent 安全基础设施，有助于提升企业级 AI 应用的信任度与合规性，是代理生态中不可或缺的安全组件。",
+      "pm_score": 0.33,
+      "pillar": "ecosystem",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://github.com/denoland/clawpatrol",
+      "date": "2026-06-10"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1365,
-    "edges": 116282
+    "real_nodes": 1381,
+    "edges": 117664
   }
 }
