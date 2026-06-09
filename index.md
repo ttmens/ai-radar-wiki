@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-09 | Total pages: 1379
+> Last updated: 2026-06-10 | Total pages: 1384
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -117,6 +117,7 @@
 - [[fender-escalates-legal-campaign-against-s-style-guitars.md]] Fender escalates legal campaign against S-style guitars `pillar:capabilities` `score:0.235`
 - [[fine-tuning-an-llm-to-write-docs-like-its-1995.md]] Fine-tuning an LLM to write docs like it's 1995 `pillar:capabilities` `score:0.36`
 - [[five-frontier-llms-disagree-on-67-of-1k-real-world-fact-check-claims.md]] Five frontier LLMs disagree on 67% of 1k real-world fact-check claims `pillar:capabilities` `score:0.63`
+- [[forever-young-how-one-molecule-can-lock-plants-in-a-youthful-state-2025.md]] Forever Young: how one molecule can lock plants in a youthful state (2025) `pillar:capabilities` `score:0.27`
 - [[formal-verification-gates-for-ai-coding-loops.md]] Formal Verification Gates for AI Coding Loops `pillar:capabilities` `score:0.43`
 - [[frontier-ai-has-broken-the-open-ctf-format.md]] Frontier AI has broken the open CTF format `pillar:capabilities` `score:0.55`
 - [[gaining-control-of-every-projector-and-camera-on-campus.md]] Gaining control of every projector and camera on campus `pillar:capabilities` `score:0.43`
@@ -154,6 +155,7 @@
 - [[harvard-edgecs249r_book.md]] harvard-edge/cs249r_book `pillar:capabilities` `score:0.58`
 - [[has-the-hunt-for-ai-compute-uncovered-the-next-cerebras.md]] Has the hunt for AI compute uncovered the next Cerebras? `pillar:capabilities` `score:0.48`
 - [[hiyougallamafactory.md]] hiyouga/LlamaFactory `pillar:capabilities` `score:0.615`
+- [[how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers.md]] How an e-scooter founder raised $5 million to build space data centers `pillar:capabilities` `score:0.41`
 - [[how-claude-code-works-in-large-codebases.md]] How Claude Code works in large codebases `pillar:capabilities` `score:0.365`
 - [[how-fast-does-claude-acting-as-a-user-space-ip-st.md]] How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings? `pillar:capabilities` `score:0.36`
 - [[how-is-groq-raising-more-money.md]] How is Groq raising more money? `pillar:capabilities` `score:0.33`
@@ -288,6 +290,7 @@
 - [[samurai-city.md]] Samurai City `pillar:capabilities` `score:0.31`
 - [[sana-wm-a-26b-open-source-world-model-for-1-minute-720p-video.md]] SANA-WM, a 2.6B open-source world model for 1-minute 720p video `pillar:capabilities` `score:0.565`
 - [[sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-require.md]] SandboxAQ brings its drug discovery models to Claude — no PhD in computing requi `pillar:capabilities` `score:0.305`
+- [[sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams.md]] Sandstone raises $30M to bring AI to in-house legal teams `pillar:capabilities` `score:0.48`
 - [[screenpipescreenpipe.md]] screenpipe/screenpipe `pillar:capabilities` `score:0.615`
 - [[sgl-projectsglang.md]] sgl-project/sglang `pillar:capabilities` `score:0.615`
 - [[shapshap.md]] shap/shap `pillar:capabilities` `score:0.615`
@@ -707,6 +710,7 @@
 - [[carla-simulatorcarla.md]] carla-simulator/carla `pillar:patterns` `score:0.405`
 - [[ccfddlccf-deadlines.md]] ccfddl/ccf-deadlines `pillar:patterns` `score:0.355`
 - [[chromes-ai-features-may-be-hogging-4gb-of-your-co.md]] Chrome's AI features may be hogging 4GB of your computer storage `pillar:patterns` `score:0.255`
+- [[cleaning-up-after-ai-rockstar-developers.md]] Cleaning up after AI rockstar developers `pillar:patterns` `score:0.6`
 - [[code-yeongyuoh-my-openagent.md]] code-yeongyu/oh-my-openagent `pillar:patterns` `score:0.405`
 - [[cognition8217s-scott-wu-says-ai-coding-agents-shouldn8217t-replace-humans.md]] Cognition&#8217;s Scott Wu says AI coding agents shouldn&#8217;t replace humans `pillar:patterns` `score:0.48`
 - [[composiohqcomposio.md]] ComposioHQ/composio `pillar:patterns` `score:0.615`
@@ -1227,6 +1231,7 @@
 - [[last-24-hours-to-get-50-off-a-second-pass-to-tech.md]] Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026 `pillar:business` `score:0.305`
 - [[llms-corrupt-your-documents-when-you-delegate.md]] LLMs Corrupt Your Documents When You Delegate `pillar:business` `score:0.305`
 - [[local-ai-needs-to-be-the-norm.md]] Local AI needs to be the norm `pillar:business` `score:0.425`
+- [[lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a.md]] Lovable says it has hit $500M in annualized revenue, with 1 million new projects `pillar:business` `score:0.515`
 - [[mage-aimage-ai.md]] mage-ai/mage-ai `pillar:business` `score:0.355`
 - [[making-the-news-available-at-no-cost-is-a-victory.md]] Making the news available at no cost is a victory `pillar:business` `score:0.305`
 - [[maryland-citizens-hit-with-2b-power-grid-upgrade.md]] Maryland citizens hit with $2B power grid upgrade for out-of-state AI `pillar:business` `score:0.355`

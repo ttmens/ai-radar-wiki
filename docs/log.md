@@ -1608,3 +1608,10 @@
 ## [2026-06-09 18:01] sync v3 | 2 new | pillars: {'patterns': 1, 'ecosystem': 1}
 - create: leonxlnxtaste-skill.md
 - create: microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers.md
+
+## [2026-06-10 00:02] sync v3 | 5 new | pillars: {'capabilities': 4, 'business': 1}
+- create: cleaning-up-after-ai-rockstar-developers.md
+- create: forever-young-how-one-molecule-can-lock-plants-in-a-youthful-state-2025.md
+- create: sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams.md
+- create: lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a.md
+- create: how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers.md

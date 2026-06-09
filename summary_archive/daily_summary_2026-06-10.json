@@ -1,0 +1,95 @@
+{
+  "daily_summary": {
+    "date": "2026-06-10",
+    "headline": "今日 AI 情报 · 2026-06-10",
+    "overview": "AI 应用爆发催生治理需求，垂直行业渗透加速",
+    "narratives": [
+      {
+        "title": "AI生成式开发的效率与治理困境",
+        "body": "AI辅助开发极大提升了代码产出速度，但随之而来的是技术债务累积和代码可维护性下降。Rockstar开发者借助AI快速生成大量代码，却缺乏系统化清理机制，这成为团队长期效率的瓶颈。产品机会在于开发自动化治理工具，平衡速度与质量。",
+        "type": "bottleneck",
+        "pillar_key": "patterns"
+      },
+      {
+        "title": "AI能力向专业领域和新型基础设施扩展",
+        "body": "从法务合同审查到太空数据中心，AI正深入专业服务与基础设施层面。Sandstone 融资3000万美元验证了法律场景的自然语言处理落地价值；Orbital计划部署太空数据中心，瞄准AI训练与边缘计算的低延迟需求。这些信号表明AI的物理与行业边界正在拓宽。",
+        "type": "maturation",
+        "pillar_key": "capabilities"
+      },
+      {
+        "title": "AI原生应用构建平台商业化验证",
+        "body": "Lovable年化收入突破5亿美元、每周新增百万项目，证明非技术用户构建AI应用的市场需求真实且庞大。该模式替代传统内部软件，显著降低开发门槛，标志着AI原生平台从早期采用进入主流商业阶段。",
+        "type": "validation",
+        "pillar_key": "business"
+      }
+    ],
+    "insights": [
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI生成式开发的效率与治理困境",
+        "insight": "AI生成式开发的效率与治理困境。该方向的具体信号：AI摇滚明星开发者使用AI生成大量代码后留下混乱，导致技术债务累积和缺乏可维护性，这成为团队长期效率的瓶颈，产品机会在于自动化清理、重构和审查工具。",
+        "evidence": [
+          {
+            "id": "cleaning-up-after-ai-rockstar-developers",
+            "title": "Cleaning up after AI rockstar developers",
+            "score": 0.6
+          }
+        ]
+      },
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI能力向专业领域和新型基础设施扩展",
+        "insight": "AI能力向专业领域和新型基础设施扩展。该方向的具体信号：Sandstone将AI应用于法务团队，提供合同审查与合规智能，获3000万美元融资；Orbital计划在太空部署10000个数据中心，利用太空环境降低冷却成本，为AI训练和边缘计算提供新方案。",
+        "evidence": [
+          {
+            "id": "sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams",
+            "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+            "score": 0.48
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI原生应用构建平台商业化验证",
+        "insight": "AI原生应用构建平台商业化验证。该方向的具体信号：Lovable年化经常性收入突破5亿美元，每周新增超100万个项目，非技术用户快速构建AI应用替代传统内部软件，表明AI低代码平台已进入主流商业阶段。",
+        "evidence": [
+          {
+            "id": "lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a",
+            "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+            "score": 0.52
+          }
+        ]
+      }
+    ],
+    "stats": "技术能力: 3 | 产品模式: 1 | 工具生态: 0 | 商业趋势: 1",
+    "total_items": 5,
+    "high_value_count": 4,
+    "all_today_ids": [
+      {
+        "id": "cleaning-up-after-ai-rockstar-developers",
+        "label": "Cleaning up after AI rockstar developers"
+      },
+      {
+        "id": "lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a",
+        "label": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects"
+      },
+      {
+        "id": "sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams",
+        "label": "Sandstone raises $30M to bring AI to in-house legal teams"
+      },
+      {
+        "id": "how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers",
+        "label": "How an e-scooter founder raised $5 million to build space data centers"
+      },
+      {
+        "id": "forever-young-how-one-molecule-can-lock-plants-in-a-youthful-state-2025",
+        "label": "Forever Young: how one molecule can lock plants in a youthful state (2025)"
+      }
+    ],
+    "date_bj": "2026-06-10 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-06-10 00:01:31"
+  }
+}
