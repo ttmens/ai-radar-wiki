@@ -1,0 +1,24 @@
+{
+  "title": "Weighted universal approximation of differentiable maps on infinite-dimensional manifolds",
+  "summary": "We generalize the universal approximation theorem for functional input neural networks (FNN) to differentiable maps by including the approximation of the derivatives. A FNN maps the input from a possibly infinite-dimensional weighted manifold to the real-valued hidden layer, on which a non-linear scalar activation function is applied, and then returns the output into a Banach space via some linear readouts. By proving a weighted Nachbin theorem, we establish a universal approximation theorem (UAT) for differentiable maps, which goes beyond the usual formulation on compact sets and also includes the approximation of the derivatives. This leads us to approximation results for non-anticipative functionals including the horizontal and vertical derivatives. As a further application, we show that linear functions of the signature are able to approximate path space functionals including their directional derivatives.",
+  "url": "http://arxiv.org/abs/2606.09820v1",
+  "authors": [
+    "Philipp Schmocker",
+    "Josef Teichmann"
+  ],
+  "published": "2026-06-08T17:57:40Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "neural network"
+  ],
+  "summary_cn": "该论文将通用近似定理推广到无限维流形上的可微映射，不仅逼近函数值，还逼近其导数。这对功能输入神经网络（FNN）在物理模拟、控制优化等需要梯度信息的场景有重要意义，可提升模型的物理一致性与可解释性，为复杂非线性系统的建模提供更精确的理论基础，潜在商业价值在于推动AI在科学计算与工程领域的落地。",
+  "pm_relevance": 6,
+  "concepts": [
+    "通用近似定理",
+    "可微映射",
+    "无限维流形"
+  ],
+  "entities": [],
+  "patterns": []
+}

@@ -1,7 +1,7 @@
 {
   "date": "2026-06-09",
-  "generated_at": "2026-06-09T06:07:46.499878+08:00",
-  "item_count": 24,
+  "generated_at": "2026-06-09T12:02:43.289331+08:00",
+  "item_count": 41,
   "items": [
     {
       "id": "apple-reveals-new-ai-architecture-built-around-google-gemini-models",
@@ -81,6 +81,17 @@
       "date": "2026-06-09"
     },
     {
+      "id": "an-agency-transferring-model-free-policy-enhancement-technique",
+      "label": "An Agency-Transferring Model-Free Policy Enhancement Technique",
+      "summary": "本文提出一种无模型的策略增强技术，通过“代理迁移”（Agency Transferring）将已有次优基线策略的知识高效迁移至新策略，无需从零训练或依赖环境模型。该方法显著降低强化学习（RL）在控制问题中的训练成本，避免繁琐的奖励设计、环境调优和计算开销，适用于机器人、自动驾驶等已有控制系统的场景。商业价值在于利用现有策略快速提升性能，加速RL产品落地。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.09825v1",
+      "date": "2026-06-09"
+    },
+    {
       "id": "ask-hn-what-are-tools-you-have-made-for-yourself-since-the-advent-of-ai",
       "label": "Ask HN: What are tools you have made for yourself since the advent of AI?",
       "summary": "该问题探讨了在AI技术普及后，个人用户如何自发构建自定义工具来提升效率或解决特定问题。产品经理可从中洞察用户真实需求、低代码/无代码AI应用的兴起，以及个人化工作流自动化的趋势。这类自建工具往往聚焦于知识管理、任务自动化、智能助手等场景，反映了AI从通用能力向个人化应用的延伸。理解这些模式有助于发现产品缺口，如更易用的AI集成框架、个性化模型微调工具或本地化AI解决方案。",
@@ -136,6 +147,17 @@
       "date": "2026-06-09"
     },
     {
+      "id": "apple8217s-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement",
+      "label": "Apple&#8217;s WWDC AI demos looked more real after $250M false ad settlement",
+      "summary": "苹果在2026年WWDC上展示了多项AI功能，演示场景为人手持手机站立操作，强调真实感和实用性。此前苹果因虚假广告支付2.5亿美元和解金，此次演示更注重实际体验而非夸大宣传。对AI产品经理而言，这体现了从炫技到落地的转变，强调AI功能需与用户真实需求结合，避免过度承诺。商业价值在于通过真实场景提升用户信任，推动AI产品大众化。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+      "date": "2026-06-09"
+    },
+    {
       "id": "amazon-now-lets-you-design-custom-merch-using-ai",
       "label": "Amazon now lets you design custom merch using AI",
       "summary": "亚马逊在购物应用中推出新功能，允许用户通过Alexa语音助手用AI生成个性化设计，并将这些设计打印在T恤、卫衣、杯子等商品上。该功能将大语言模型的图像生成能力与电商按需印刷模式结合，降低了用户创作和购买定制商品的门槛。对产品经理而言，这是AI赋能电商个性化体验的典型案例，展示了如何将生成式AI无缝嵌入购物流程，从对话到成品一站式完成。商业价值在于提升用户参与度和转化率，并开辟新的商品品类。产品创新点在于将AI创作与实物商品生产直接打通，形成闭环体验。",
@@ -155,6 +177,39 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "ptl-diffusion-manifold-aware-diffusion-with-periodic-terminal-laws",
+      "label": "PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws",
+      "summary": "PTL-Diffusion 提出了一种新颖的扩散模型，通过引入周期终端定律（Periodic Terminal Laws）替代传统高斯参考分布，使模型能更好地适应低维流形上的数据分布。该方法增强了生成过程对数据几何结构的感知能力，有望提升图像、3D等复杂内容的生成质量和效率，同时降低计算开销。对于产品经理而言，该技术可应用于内容创作、虚拟现实、设计辅助等场景，带来更逼真、更可控的生成效果，具有潜在商业价值。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.09816v1",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "evaluation-cards-an-interpretive-layer-for-ai-evaluation-reporting",
+      "label": "Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting",
+      "summary": "论文提出“评估卡（Evaluation Cards）”概念，旨在解决AI评估报告因来源多样（如排行榜、模型卡、基准论文、公司博客）导致的结果不一致、难以比较和追溯问题。它作为一种解释层，规范了评估报告的结构、内容与元数据，支持读者跨来源对比、识别遗漏信息、追溯聚合声明的底层数据。对AI产品经理而言，该方案可提升模型选型与产品对比的透明度和效率，降低因报告差异带来的决策风险，推动行业评估标准统一。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.09809v1",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "zero-touch-predictive-orchestration-automating-time-series-models-for-the-cloud",
+      "label": "Zero Touch Predictive Orchestration: Automating Time-Series Models for the Cloud",
+      "summary": "本文提出一种零接触预测编排方法，针对云边连续谱中极端波动性导致的冷启动问题，通过自动化时间序列预测模型实现主动管理。技术要点在于利用历史数据与迁移学习快速适配新节点，减少人工干预；商业价值体现在降低延迟敏感应用的运维成本，提升边缘资源利用率；产品创新是实现了从被动响应到主动预测的编排范式转变，为边缘AI部署提供可复用的自动化框架。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.09787v1",
       "date": "2026-06-09"
     },
     {
@@ -224,6 +279,94 @@
       "date": "2026-06-09"
     },
     {
+      "id": "bandits-for-efficient-experimentation-adapting-to-control-group-preferences-and",
+      "label": "Bandits for Efficient Experimentation: Adapting to Control Group, Preferences, a",
+      "summary": "该论文研究了一种线性上下文随机多臂老虎机变体，用于高效实验。核心是学习者为用户群提供推荐，每个用户有个性化偏好，且上下文分布随时间漂移。技术要点包括利用上下文信息自适应调整控制组、偏好和漂移，从而在动态环境下优化实验效率。商业价值在于可应用于在线A/B测试和个性化推荐系统，降低实验成本，快速响应环境变化。产品创新体现在将自适应算法融入实验设计，提升推荐准确性和用户满意度。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.09802v1",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "echo-memory-a-controlled-study-of-memory-in-action-world-models",
+      "label": "Echo-Memory: A Controlled Study of Memory in Action World Models",
+      "summary": "Echo-Memory 是一项针对动作条件世界模型中记忆机制的受控研究。这类模型能够根据首帧、文本提示和相机动作序列生成多段视频，但其主要瓶颈在于记忆能力而非局部图像合成。通过控制实验，该研究揭示了记忆在长视频生成中的关键作用，为改进世界模型的长期上下文理解提供了方向。该工作对AI产品经理的启示在于，记忆机制是提升视频生成连贯性和可控性的核心技术，有望推动创意工具、虚拟世界构建等产品创新。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.09803v1",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "rethinking-the-divergence-regularization-in-llm-rl",
+      "label": "Rethinking the Divergence Regularization in LLM RL",
+      "summary": "本文重新思考了大型语言模型（LLM）强化学习（RL）中的分布正则化问题。LLM RL在后训练中至关重要，但由于训练-推理不匹配和策略过时，常采用离线策略，导致优化不稳定，因此需要信任区域控制（如PPO方法）。论文探讨了不同正则化项的影响，旨在提升RL训练的稳定性和效率。对于AI产品经理，这意味着更可靠的模型对齐方法，可降低产品迭代中的性能波动风险，为LLM在商业场景中的安全部署提供技术支撑。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.09821v1",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "fase-fast-adaptive-semantic-entropy-for-code-quality",
+      "label": "FASE: Fast Adaptive Semantic Entropy for Code Quality",
+      "summary": "该论文提出FASE（快速自适应语义熵），用于评估多智能体代码生成系统中的代码质量。针对LLM幻觉和跨智能体错误传播问题，FASE通过自适应语义熵来量化生成代码的不确定性，从而提升系统可靠性。技术要点包括快速自适应计算熵值、结合代码语义特征。商业价值在于提高自动代码生成的质量和稳定性，降低人工审查成本，适用于AI辅助软件工程。产品创新体现在将熵度量引入多智能体协作场景，实现实时质量监控。",
+      "pm_score": 0.445,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.09800v1",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "aha-wamasynchronous-horizon-adaptive-world-action-modeling-with-observation-guid",
+      "label": "AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Gui",
+      "summary": "该论文提出AHA-WAM（异步自适应视野世界-动作模型），用于机器人操作任务。传统世界-动作模型将世界预测与动作执行耦合在同一时间分辨率下，导致灵活性不足。AHA-WAM通过解耦两者，引入异步机制和自适应视野，并利用观察引导的上下文路由来高效整合信息。该方法使机器人能够更灵活地规划动作，同时保持对动态环境的高效建模，提升多任务泛化能力。商业上可应用于工业自动化、服务机器人等领域，降低对精确物理模拟的依赖。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.09811v1",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "as-openai-files-for-ipo-sam-altman8217s-eye-scanning-company-is-doing-layoffs-re",
+      "label": "As OpenAI files for IPO, Sam Altman&#8217;s eye-scanning company is doing layoff",
+      "summary": "OpenAI 创始人 Sam Altman 旗下的虹膜扫描身份验证公司 Tools for Humanity（Worldcoin 运营方）据报因收入增长乏力而裁员。该公司主打“眼球扫描+区块链”去中心化身份验证，旨在区分人与 AI，但商业化前景存疑。对 AI 产品经理而言，这提示生物识别身份证明（尤其是虹膜扫描）的落地与变现仍是巨大挑战，同时折射出 AI 公司跨领域扩张的风险。",
+      "pm_score": 0.41,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "weighted-universal-approximation-of-differentiable-maps-on-infinite-dimensional",
+      "label": "Weighted universal approximation of differentiable maps on infinite-dimensional",
+      "summary": "该论文将通用近似定理推广到无限维流形上的可微映射，不仅逼近函数值，还逼近其导数。这对功能输入神经网络（FNN）在物理模拟、控制优化等需要梯度信息的场景有重要意义，可提升模型的物理一致性与可解释性，为复杂非线性系统的建模提供更精确的理论基础，潜在商业价值在于推动AI在科学计算与工程领域的落地。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.09820v1",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "topological-neural-operators",
+      "label": "Topological Neural Operators",
+      "summary": "拓扑神经算子（TNO）是一种在细胞复形上执行算子学习的新框架，将传统神经算子从点和边推广到可变维度的拓扑单元。TNO 能将数据表示为不同维度细胞上的特征，并建模复杂拓扑交互，适用于物理仿真、几何建模、分子动力学等需要处理非规则网格或高阶关系的场景。商业价值在于提升科学计算和工程模拟的泛化能力与数据效率，减少对大量标注数据的依赖。产品创新体现在可直接处理网格、网络、体素等异构拓扑数据，为 AI 驱动的仿真与设计工具提供了更自然的表征方法。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.09806v1",
+      "date": "2026-06-09"
+    },
+    {
       "id": "apple-core-ai-framework",
       "label": "Apple Core AI Framework",
       "summary": "Apple Core AI Framework 是苹果推出的端侧AI开发框架，强调隐私保护与设备端智能处理。它提供统一的API和模型优化工具，让开发者能在iOS/macOS等生态中高效集成AI功能。商业价值在于强化苹果硬件差异化，推动AI应用在消费级设备落地，同时保持用户数据本地化。产品创新体现在与苹果芯片深度协同，实现低延迟、高能效的AI推理，支持多模态交互与个性化体验。",
@@ -246,6 +389,28 @@
       "date": "2026-06-09"
     },
     {
+      "id": "show-hn-command-center-the-ai-coding-env-for-people-who-care-about-quality",
+      "label": "Show HN: Command Center, the AI coding env for people who care about quality",
+      "summary": "Command Center 是一个面向注重代码质量的开发者的AI编码环境。它通过集成AI能力，在编码过程中实时提供质量建议、自动审查和最佳实践指导，帮助开发者减少错误、提升代码可维护性。该产品创新性地将“质量优先”理念嵌入AI辅助开发流程，而非仅仅追求代码生成速度，可能改变AI编码工具的设计范式。商业价值在于瞄准专业开发者和企业级开发场景，强调可审计的代码质量。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48453002",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "why-apple8217s-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart",
+      "label": "Why Apple&#8217;s slow-and-steady AI bet is starting to look pretty smart",
+      "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+      "date": "2026-06-09"
+    },
+    {
       "id": "wwdc-2026-everything-announced-on-siri-ai-ios-27-apple-intelligence-and-more",
       "label": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
       "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
@@ -254,6 +419,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "date": "2026-06-09"
+    },
+    {
+      "id": "mercors-brendan-foody-calls-out-sequoia-accusing-it-of-8216dual-pricing8217-valu",
+      "label": "Mercor’s Brendan Foody calls out Sequoia, accusing it of &#8216;dual-pricing&#82",
+      "summary": "Mercor 的 Brendan Foody 公开批评红杉资本采用“双重定价”策略，即以两种不同价格出售相同股权，损害创业者利益。这类估值游戏在 AI 投资领域尤为突出，影响初创企业融资公平性。对于 AI 产品经理而言，需警惕投资方估值泡沫，关注公司实际技术价值和产品落地能力，避免被资本策略误导。该事件揭示了头部风投在 AI 赛道中的定价权博弈，以及创业者应审慎选择投资伙伴。",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
       "date": "2026-06-09"
     },
     {
@@ -266,10 +442,21 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48447806",
       "date": "2026-06-09"
+    },
+    {
+      "id": "omnigamearena-a-unified-ue5-benchmark-for-vlm-game-agents-with-improvement-dynam",
+      "label": "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dyna",
+      "summary": "Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, focus on single-agent Solo play, and lack unified protocols for evaluating heterogeneous agent class",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.09826v1",
+      "date": "2026-06-09"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1340,
-    "edges": 112196
+    "real_nodes": 1358,
+    "edges": 113555
   }
 }

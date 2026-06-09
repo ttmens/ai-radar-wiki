@@ -1,0 +1,27 @@
+{
+  "title": "Bandits for Efficient Experimentation: Adapting to Control Group, Preferences, and Context Drifts",
+  "summary": "We consider a variant of the linear contextual stochastic multi-armed bandits, where the learner must provide recommendations to a group of users, each having its personalized preference vector, and in the presence of context distributions that are drifting over time. Under practitioner-friendly assumptions, we reduce this setting to linear bandit with stationary mean but heteroskedastic and non-stationary noise. We further study the case when the learner must ensure the mean reward of each decision must exceed that of a baseline strategy $\\boldsymbolπ_0$ at each decision step. We introduce Dri-MED, an algorithm inspired from the linear version of the MED strategy, and carefully adapted to handle the non-stationary heteroskedastic noise. We show that the instance-dependent regret scales as $\\tilde{\\mathcal O}\\left(\\fracκ{\\tildeΔ}d^2(\\log(T)\\right)$, where $\\tildeΔ$ is the constraint-aware sub-optimality gap subject to policy $π_0$, with variance-aware multiplicative term $κ$ that we carefully handle using heteroskedastic regression. We further show Dri-MED enjoys $\\tilde{\\mathcal{O}}(d)$ expected constraint violations. Our numerical results suggest that Dri-MED significantly outperforms conservative baselines that ignores the drift and preference structure.",
+  "url": "http://arxiv.org/abs/2606.09802v1",
+  "authors": [
+    "Udvas Das",
+    "Waris Radji",
+    "Debabrota Basu",
+    "Odalric-Ambrym Maillard"
+  ],
+  "published": "2026-06-08T17:53:29Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该论文研究了一种线性上下文随机多臂老虎机变体，用于高效实验。核心是学习者为用户群提供推荐，每个用户有个性化偏好，且上下文分布随时间漂移。技术要点包括利用上下文信息自适应调整控制组、偏好和漂移，从而在动态环境下优化实验效率。商业价值在于可应用于在线A/B测试和个性化推荐系统，降低实验成本，快速响应环境变化。产品创新体现在将自适应算法融入实验设计，提升推荐准确性和用户满意度。",
+  "pm_relevance": 7,
+  "concepts": [
+    "多臂老虎机",
+    "上下文自适应",
+    "个性化推荐"
+  ],
+  "entities": [],
+  "patterns": [
+    "自适应实验",
+    "动态推荐"
+  ]
+}

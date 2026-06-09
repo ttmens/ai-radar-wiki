@@ -1584,3 +1584,23 @@
 - create: apple-gives-siri-its-own-dedicated-app.md
 - create: apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-f.md
 - create: apple8217s-long-awaited-ai-siri-overhaul-is-finally-here.md
+
+## [2026-06-09 12:02] sync v3 | 19 new | pillars: {'capabilities': 13, 'ecosystem': 3, 'patterns': 1, 'business': 2}
+- create: omnigamearena-a-unified-ue5-benchmark-for-vlm-game-agents-with-improvement-dynam.md
+- create: an-agency-transferring-model-free-policy-enhancement-technique.md
+- create: rethinking-the-divergence-regularization-in-llm-rl.md
+- create: weighted-universal-approximation-of-differentiable-maps-on-infinite-dimensional.md
+- create: ptl-diffusion-manifold-aware-diffusion-with-periodic-terminal-laws.md
+- create: aha-wamasynchronous-horizon-adaptive-world-action-modeling-with-observation-guid.md
+- create: evaluation-cards-an-interpretive-layer-for-ai-evaluation-reporting.md
+- create: topological-neural-operators.md
+- create: echo-memory-a-controlled-study-of-memory-in-action-world-models.md
+- create: bandits-for-efficient-experimentation-adapting-to-control-group-preferences-and.md
+- create: fase-fast-adaptive-semantic-entropy-for-code-quality.md
+- create: zero-touch-predictive-orchestration-automating-time-series-models-for-the-cloud.md
+- create: show-hn-command-center-the-ai-coding-env-for-people-who-care-about-quality.md
+- create: why-apple8217s-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart.md
+- create: mercors-brendan-foody-calls-out-sequoia-accusing-it-of-8216dual-pricing8217-valu.md
+- create: as-openai-files-for-ipo-sam-altman8217s-eye-scanning-company-is-doing-layoffs-re.md
+- create: apple8217s-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement.md
+- create: show-hn-ai-pair-programmer-for-emacs.md

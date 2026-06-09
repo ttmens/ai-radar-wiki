@@ -1,0 +1,31 @@
+{
+  "title": "An Agency-Transferring Model-Free Policy Enhancement Technique",
+  "summary": "Training reinforcement learning (RL) policies from scratch is\n  costly: it requires careful reward and environment design,\n  extensive tuning, and substantial computation.\n  Yet many control problems already have a functional but\n  suboptimal policy available as a baseline.\n  This paper proposes a method for embedding such a baseline into\n  the RL training process, simultaneously improving training\n  efficiency relative to from-scratch methods and producing a\n  learning policy that outperforms the baseline.\n  At each step, the method arbitrates between the baseline policy\n  and a trainable learning policy, initially relying strongly on\n  the baseline policy and then progressively transferring agency to\n  the learning policy.\n  By the end of training, the learning policy is a standalone\n  neural network that operates without baseline policy support.\n  The paper formalizes what it means for the baseline policy to be\n  functional: under this policy, the agent reaches a goal set and\n  remains there with high probability.\n  The proposed arbitration mechanism is designed to exploit this\n  property during training, yielding high goal-reaching rates right\n  from the beginning of training.\n  A theoretical analysis provides a formal interpretation of this\n  behavior under stated assumptions and extends it to the final\n  baseline-free regime, where explicit lower bounds are derived for\n  the goal-reaching probability of the standalone learning policy.\n  Empirical results on continuous-control benchmarks show that the\n  proposed method achieves returns that match or exceed those of\n  competitive approaches, while maintaining the highest\n  goal-reaching rates throughout training among the compared\n  methods -- including in the final stage, where the learning policy\n  operates without any baseline support.",
+  "url": "http://arxiv.org/abs/2606.09825v1",
+  "authors": [
+    "Anton Bolychev",
+    "Georgiy Malaniya",
+    "Sinan Ibrahim",
+    "Pavel Osinenko"
+  ],
+  "published": "2026-06-08T17:59:39Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "training",
+    "embedding",
+    "neural network"
+  ],
+  "summary_cn": "本文提出一种无模型的策略增强技术，通过“代理迁移”（Agency Transferring）将已有次优基线策略的知识高效迁移至新策略，无需从零训练或依赖环境模型。该方法显著降低强化学习（RL）在控制问题中的训练成本，避免繁琐的奖励设计、环境调优和计算开销，适用于机器人、自动驾驶等已有控制系统的场景。商业价值在于利用现有策略快速提升性能，加速RL产品落地。",
+  "pm_relevance": 9,
+  "concepts": [
+    "强化学习",
+    "策略迁移",
+    "无模型控制"
+  ],
+  "entities": [],
+  "patterns": [
+    "迁移学习模式"
+  ]
+}
