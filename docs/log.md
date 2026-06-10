@@ -1662,3 +1662,17 @@
 - create: aws-bedrock-to-require-sharing-data-with-anthropic-for-mythos-and-future-models.md
 - create: meta-signs-first-ai-data-center-deal-in-india-with-reliance.md
 - create: show-hn-the-agent-that-builds-and-operates-its-own-saas-tools.md
+
+## [2026-06-11 00:02] sync v3 | 12 new | pillars: {'capabilities': 6, 'patterns': 4, 'business': 1, 'ecosystem': 1}
+- create: building-an-html-first-site-doubled-our-users-overnight.md
+- create: apache-burr-build-reliable-ai-agents-and-applications.md
+- create: all-9300-japanese-train-station-animated-by-the-year-it-opened-18722026.md
+- create: buy-a-train-bridge-or-tracks-from-the-swiss-railway.md
+- create: a-001-bank-transfer-could-compromise-a-banking-ai-agent.md
+- create: show-hn-macos-menu-bar-gauges-for-your-claude-code-quota.md
+- create: cybersecurity-researchers-aren8217t-happy-about-the-guardrails-on-anthropic8217s.md
+- create: datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock.md
+- create: the-three-hard-tech-moonshots-fueling-spacex8217s-unbelievable-ipo.md
+- create: warner-music-acquires-ai-attribution-startup-sureel-ai.md
+- create: jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business.md
+- create: decart8217s-new-world-model-can-simulate-hours-of-photorealistic-driving-with-so.md
