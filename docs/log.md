@@ -1676,3 +1676,15 @@
 - create: warner-music-acquires-ai-attribution-startup-sureel-ai.md
 - create: jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business.md
 - create: decart8217s-new-world-model-can-simulate-hours-of-photorealistic-driving-with-so.md
+
+## [2026-06-11 06:04] sync v3 | 10 new | pillars: {'capabilities': 7, 'patterns': 2, 'ecosystem': 1}
+- create: laffaire-siloxane.md
+- create: show-hn-helixdb-a-graph-database-built-on-object-storage.md
+- create: anthropics-model-naming-extrapolated.md
+- create: claude-desktop-spawns-18-gb-hyper-v-vm-on-every-launch-even-for-chat-only-use.md
+- create: diffusiongemma-4x-faster-text-generation.md
+- create: they-take-you-out-of-life-out-of-time-a-journey-into-spains-cave-paintings.md
+- create: the-ipad-was-on-tailscale-a-webrtc-debugging-story.md
+- create: fresh-off-bond-sale-amazon-borrows-175b-from-banks-as-ai-spending-continues.md
+- create: ai-pilled-firms-spend-7500-per-employee-each-month-on-ai.md
+- create: how-memory-tools-can-make-ai-models-worse.md
