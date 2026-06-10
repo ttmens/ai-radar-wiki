@@ -1,0 +1,36 @@
+{
+  "title": "A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
+  "summary": "Supervised fine-tuning (SFT) typically maximizes the likelihood of every token in a demonstrated trajectory. However, an observed token can be non-unique, noisy, or misaligned with the model prior. Strictly fitting toward this one-hot target may be suboptimal, especially when the pretrained model encodes a rich knowledge prior. In this work, we reinterpret SFT as target distribution design: instead of studying only the loss objective, we analyze the token-level target that the loss drives the model to match. We introduce the Q-target framework, which decomposes SFT supervision into two explicit choices: (1) how strongly to rely on the observed token, and (2) how to allocate the remaining probability mass over alternatives. This perspective unifies many existing SFT variants as implicit choices of the target distribution Q. Building on this view, we propose Target-SFT which constructs the training objective directly from the desired target distribution. This method consistently outperforms across the ten reasoning dataset-model settings evaluated, showing the effectiveness of this target-based approach. Overall, our formulation reveals a more fundamental design principle for SFT training and opens a broader search space for SFT objectives.",
+  "url": "http://arxiv.org/abs/2606.11189v1",
+  "authors": [
+    "Tong Xie",
+    "Yuanhao Ban",
+    "Yunqi Hong",
+    "Sohyun An",
+    "Yihang Chen"
+  ],
+  "published": "2026-06-09T17:59:54Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "vision",
+    "reasoning",
+    "fine-tuning",
+    "training",
+    "sft",
+    "dataset"
+  ],
+  "summary_cn": "该论文指出传统监督微调（SFT）对所有token进行one-hot最大似然拟合存在局限，因为训练数据中的token可能非唯一、含噪声或与模型先验不一致。通过重新设计目标分布（如软标签或加权策略），可以更灵活地利用模型先验，减少对噪声数据的过拟合，提升微调效果和鲁棒性。对产品经理而言，这意味着能降低数据清洗成本，更高效地定制领域模型，加速AI产品落地并提升输出质量。",
+  "pm_relevance": 8,
+  "concepts": [
+    "监督微调",
+    "目标分布设计",
+    "噪声鲁棒性"
+  ],
+  "entities": [],
+  "patterns": [
+    "模型微调优化",
+    "数据质量适应"
+  ]
+}

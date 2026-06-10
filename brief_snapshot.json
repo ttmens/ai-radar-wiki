@@ -1,7 +1,7 @@
 {
   "date": "2026-06-10",
-  "generated_at": "2026-06-10T06:06:01.131539+08:00",
-  "item_count": 19,
+  "generated_at": "2026-06-10T12:02:11.795419+08:00",
+  "item_count": 39,
   "items": [
     {
       "id": "claude-fable-5",
@@ -59,6 +59,28 @@
       "date": "2026-06-10"
     },
     {
+      "id": "german-ruling-declares-google-liable-for-false-answers-in-ai-overviews",
+      "label": "German ruling declares Google liable for false answers in AI Overviews",
+      "summary": "德国法院裁定谷歌对其AI概览（AI Overviews）中的虚假回答承担法律责任。该判决对AI产品的责任归属具有里程碑意义，要求AI服务提供商确保生成内容的准确性。这意味着产品经理需重新设计人机协同流程，引入更强的验证机制、内容审核以及免责声明。商业上，该判决可能增加企业的合规成本，但同时也推动可信AI产品的差异化竞争优势。产品创新上，可探索基于知识图谱的实时事实核查、用户反馈闭环以及责任保险等新模式。",
+      "pm_score": 0.53,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48470248",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "macos-container-machines",
+      "label": "macOS Container Machines",
+      "summary": "macOS Container Machines 探讨了在 macOS 环境下利用容器技术（如 Docker）来运行和管理 AI 模型工作负载的方案。通过容器化，AI 产品经理可以更高效地实现环境一致性、简化部署流程，加速从开发到生产的迭代。该技术降低了 Mac 设备上的 AI 开发门槛，支持本地优先的 AI 应用场景，同时便于团队协作和持续集成。其商业价值在于减少跨平台兼容性问题，提升产品上市速度，尤其适用于依赖 Apple Silicon 算力的边缘 AI 产品。",
+      "pm_score": 0.53,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48469658",
+      "date": "2026-06-10"
+    },
+    {
       "id": "lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a",
       "label": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects",
       "summary": "Lovable 宣布其年化经常性收入已突破 5 亿美元，每周新增超 100 万个项目。该平台使非技术用户能够快速构建可投入实际业务的 AI 应用，并替代传统内部软件，展现了 AI 赋能低代码开发的巨大商业价值。这一里程碑表明，AI 原生应用构建平台正在成为企业级工具的主流选项，显著降低了应用开发门槛，加速了从想法到产品的转化周期。",
@@ -78,6 +100,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "piper-a-programmable-distributed-training-system",
+      "label": "Piper: A Programmable Distributed Training System",
+      "summary": "Piper 是一个可编程的分布式训练系统，旨在解决大规模模型训练中手动组合多种并行策略（如数据并行、流水线并行、专家并行）以及 ZeRO 内存优化带来的复杂性。它通过提供可编程接口自动化并行策略的设计与调优，减少对人工专家的依赖，提升训练效率和资源利用率。对 AI 产品经理而言，Piper 能显著降低大模型训练的门槛和成本，加速模型迭代，使更多团队能够高效部署基础模型。其产品创新在于将分布式训练的专家经验固化为可扩展的编程框架，推动训练基础设施的自动化与标准化。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.11169v1",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "grit-rewriting-git-in-rust-with-agents",
+      "label": "Grit: Rewriting Git in Rust with agents",
+      "summary": "Grit项目旨在用Rust语言重写Git，并集成智能体（agents）来增强版本控制功能。技术要点包括：Rust的高性能和内存安全特性将提升Git操作速度与稳定性；agents可自动处理合并冲突、优化提交历史、甚至智能分析代码变更。商业价值在于为开发者提供更高效、更智能的版本管理体验，降低协作门槛，可能成为下一代开发工具基础设施。产品创新体现在将AI代理直接嵌入核心开发流程，实现从被动记录到主动辅助的转变。",
+      "pm_score": 0.5,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48466812",
       "date": "2026-06-10"
     },
     {
@@ -125,6 +169,17 @@
       "date": "2026-06-10"
     },
     {
+      "id": "google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars",
+      "label": "Google just fired a warning shot in the AI subscription price wars",
+      "summary": "Google 宣布大幅降低其入门级 AI 订阅服务的价格，此举被视为在 AI 订阅价格战中的先发制人。面向 AI 产品经理，这一策略将直接影响竞品定价与用户获取成本。降价可能推动更高的用户渗透率，但也考验模型的成本效率和变现能力。产品经理需要评估自身订阅模型的定价弹性，以及是否需要在功能分层、免费/付费切换上做出调整以应对竞争。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+      "date": "2026-06-10"
+    },
+    {
       "id": "anthropic8217s-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today",
       "label": "Anthropic&#8217;s Claude Fable 5 is a version of Mythos the public can access to",
       "summary": "Anthropic 发布 Claude Fable 5，这是其首个面向公众开放的 Mythos 类模型。该模型通过内置安全护栏，严格限制在网络安全、生物学等高危领域的响应，平衡了能力与风险控制。对AI产品经理而言，此举标志着前沿模型在开放性与安全性之间找到新平衡点，可能推动企业级应用采纳，但需评估其对于垂直场景的实用性。",
@@ -133,6 +188,116 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "abc-bench-an-agentic-bio-capabilities-benchmark-for-biosecurity",
+      "label": "ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity",
+      "summary": "ABC-Bench 是一个专为生物安全设计的智能体生物能力基准，用于评估大语言模型（LLM）在生物研究中的自主执行能力，包括文献综合和实验数据分析等任务。随着 LLM 智能体逐渐胜任以往需要人类生物学家完成的硅生物学工作，该基准对生物技术领域的产品化应用（如药物研发、基因编辑安全）具有重要参考价值，能帮助产品经理量化 AI 的生物任务能力，推动更安全的生物 AI 产品创新。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.11150v1",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "eevee-towards-test-time-prompt-learning-in-the-real-world-for-self-improving-age",
+      "label": "EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Ag",
+      "summary": "EEVEE 是首个面向真实世界中多数据集任务流的大语言模型智能体测试时提示学习框架。传统方法仅限于单数据集场景，而实际应用要求模型能够应对动态变化的异构任务。EEVEE 通过在线提示学习，使智能体在推理过程中自我改进，无需重新训练即可适应新任务。该技术有望降低部署成本、提升AI agent的泛化能力与鲁棒性，为产品经理在构建自适应、持续学习的AI应用（如客服机器人、自动化助手）提供关键支撑。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.11182v1",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "cogent-continuous-graph-emulators-with-neural-ordinary-differential-equations-fo",
+      "label": "COGENT: Continuous Graph Emulators with Neural Ordinary Differential Equations f",
+      "summary": "COGENT是一种基于神经常微分方程（Neural ODE）的连续图模拟器，专为不规则地理空间网格上的长期物理预测设计。它通过图结构编码有限历史系统状态及外部强迫，利用神经ODE实现连续时间动态建模，突破传统离散步长限制，显著提升预测精度与泛化能力。该技术可应用于气候、能源、物流等领域的长期物理仿真，为产品提供更可靠的预测底座，降低对密集观测数据的依赖，具有高商业价值与产品创新性。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.11162v1",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "predicting-future-behaviors-in-reasoning-models-enables-better-steering",
+      "label": "Predicting Future Behaviors in Reasoning Models Enables Better Steering",
+      "summary": "该研究针对部署的大型推理模型（LRMs）行为不可预测的问题，提出通过预测模型未来行为来改进测试时干预（steering）方法。传统steering通过修改隐藏表示控制输出，但易导致质量下降；而新方法利用内部特征提前预测行为方向，实现更精准的引导，避免质量损失。这一技术对于AI产品经理意味着：在保持输出质量的同时提升了模型的可控性和可靠性，尤其适用于需要精细行为调控的对话助手、决策推荐等场景，降低了部署风险。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.11172v1",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "reasonalloc-hierarchical-decoding-time-kv-cache-budget-allocation-for-reasoning",
+      "label": "ReasonAlloc: Hierarchical Decoding-Time KV Cache Budget Allocation for Reasoning",
+      "summary": "ReasonAlloc提出了一种用于推理模型的分层解码时键值缓存预算分配方法。针对长链思维轨迹导致的键值缓存快速增长瓶颈，该方法通过分层策略动态分配缓存预算，而非传统均匀分配，从而在保持推理质量的同时显著降低内存占用和延迟。这提升了长链推理效率，降低了部署成本，尤其适用于需要复杂推理的数学、代码等领域，为AI产品实现更高效、更经济的推理能力提供了新方案。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.11164v1",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "the-role-of-feedback-alignment-in-self-distillation",
+      "label": "The Role of Feedback Alignment in Self-Distillation",
+      "summary": "该研究探讨自我蒸馏中反馈对齐的作用，发现语言模型在有额外上下文（如对先前尝试的反馈）时表现更好。自我蒸馏通过匹配有无上下文时的输出分布，使模型在缺少上下文时仍保留改进效果。技术核心在于利用反馈信号对齐模型分布，提升无上下文场景下的推理能力。商业价值在于降低对显式上下文或历史对话的依赖，节省计算成本并改善用户体验。产品创新方面，可实现模型自我改进的轻量化推理，尤其适用于实时响应用户反馈的场景。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.11173v1",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "a-unifying-lens-on-supervised-fine-tuning-through-target-distribution-design",
+      "label": "A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
+      "summary": "该论文指出传统监督微调（SFT）对所有token进行one-hot最大似然拟合存在局限，因为训练数据中的token可能非唯一、含噪声或与模型先验不一致。通过重新设计目标分布（如软标签或加权策略），可以更灵活地利用模型先验，减少对噪声数据的过拟合，提升微调效果和鲁棒性。对产品经理而言，这意味着能降低数据清洗成本，更高效地定制领域模型，加速AI产品落地并提升输出质量。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.11189v1",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "itô-maps-for-any-step-sdes",
+      "label": "Itô maps for any-step SDEs",
+      "summary": "本文提出了一种名为Itô映射的新方法，旨在解决随机微分方程（SDE）的任意步数精确蒸馏问题。当前的单步生成模型通过学习确定性流映射来加速采样，但仅适用于常微分方程，无法处理随机动力学的精确蒸馏。Itô映射通过定义随机动力学与确定性流之间的精确对应关系，使得可以从任意步数的SDE中蒸馏出高效的单步生成模型，从而在保持生成质量的同时显著提升采样速度。该技术有望应用于图像生成、视频生成等需要快速采样的AI产品，降低推理成本并提升实时性。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.11156v1",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "flaws-in-the-llm-automation-narrative",
+      "label": "Flaws in the LLM Automation Narrative",
+      "summary": "该论文指出，LLM在知识经济任务上被认为达到人类专家水平，但主要依据是标准化基准测试的平均性能。这些基准测试存在关键缺陷：未能充分衡量模型在边缘情况、鲁棒性、长期推理和真实业务场景中的表现。产品经理需警惕过度依赖基准分数来评估模型的产品适用性，应结合上下文适配、错误分析及领域特定测试；商业价值在于避免基于误导性指标进行技术选型，从而降低部署风险。产品创新方向包括开发更贴近用户交互的实际评估框架，以及设计针对自动化叙事缺陷的纠错机制。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.11166v1",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "when-to-align-when-to-predict-a-phase-diagram-for-multimodal-learning",
+      "label": "When to Align, When to Predict: A Phase Diagram for Multimodal Learning",
+      "summary": "本文系统研究了多模态学习中两种主流范式——跨模态对齐(CA)与跨模态预测(CP)的适用条件，提出了一个“相位图”用于指导何时采用哪种方法。研究发现，不同数据特性和任务目标下两种方法各有优劣，甚至在某些场景下跨模态训练并无帮助。这一分析有助于AI产品经理在构建多模态应用（如视频理解、图文搜索）时，科学选择训练策略，避免资源浪费，提升模型效率和产品效果。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.11190v1",
       "date": "2026-06-10"
     },
     {
@@ -158,6 +323,28 @@
       "date": "2026-06-10"
     },
     {
+      "id": "how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-v",
+      "label": "How Justin Ernest invested nearly $500M into hot startups without a traditional",
+      "summary": "Sabertooth VC创始人Justin Ernest采用创新模式，未设立传统风投基金，而是通过与受限制的有限合伙人（LP）网络合作，筹集近5亿美元投资于高增长AI初创公司如Anthropic、Anduril和SpaceX。该模式绕过冗长的基金募集流程，实现快速部署资本，体现了投资效率与资源网络化的结合。对AI产品经理而言，这一趋势意味着未来AI初创公司可能更多依赖非传统融资渠道，从而影响产品开发周期与市场准入策略。",
+      "pm_score": 0.41,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "company-will-add-phone-airpod-and-smartwatch-trackers-to-alprs",
+      "label": "Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs",
+      "summary": "一家公司计划在自动车牌识别（ALPR）系统中集成手机、AirPods和智能手表的追踪功能，将传统仅针对车辆的监控扩展至个人设备。这一技术升级能够利用蓝牙/WiFi信号或设备ID实现更广泛的定位与识别，潜在应用于执法、公共安全或商业场景。商业价值在于提供更全面的追踪方案，但隐私与数据合规风险显著。产品创新点是将多设备追踪能力与现有基础设施结合，提升监控覆盖维度，可能引发新的伦理讨论。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48467712",
+      "date": "2026-06-10"
+    },
+    {
       "id": "ultrafast-machine-learning-on-fpgas-via-kolmogorov-arnold-networks",
       "label": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
       "summary": "本文介绍了一种基于Kolmogorov-Arnold Networks（KAN）在FPGA上实现超快机器学习的方法。KAN通过可学习的激活函数替代传统固定激活函数，显著提升模型表达效率；结合FPGA的并行计算能力，可在低功耗下实现毫秒级推理。该技术为边缘设备、实时AI应用提供了高效硬件加速方案，有望降低对云端算力的依赖，推动AI产品的本地化部署和成本优化。",
@@ -166,6 +353,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48466277",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "lies-we-tell-ourselves-about-email-addresses",
+      "label": "Lies we tell ourselves about email addresses",
+      "summary": "本文揭示用户对电子邮件地址的常见误解，如认为邮件地址唯一、稳定且安全，实际上存在滥用、废弃和安全漏洞。作为AI产品经理，需关注AI如何提升邮件系统的智能性：通过自然语言处理自动识别垃圾邮件、伪装邮件；利用机器学习预测用户意图，优化自动回复和分类；在身份验证场景中，AI可结合行为分析降低欺诈风险。商业价值体现在减少用户困扰、提高邮件营销精准度，产品创新方向包括智能邮件地址管理、动态别名生成等。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48445834",
       "date": "2026-06-10"
     },
     {
@@ -202,6 +400,17 @@
       "date": "2026-06-10"
     },
     {
+      "id": "algorithmic-and-minimax-complexities-in-kernel-bandits",
+      "label": "Algorithmic and Minimax Complexities in Kernel Bandits",
+      "summary": "这篇论文统一了高斯过程上置信界（GP-UCB）和决策估计系数（DEC）两种看似不同的核老虎机算法视角，在频率派再生核希尔伯特空间（RKHS）框架下建立了共同的算法信息论基础。对于AI产品经理，该工作有助于理解在线决策算法中探索与利用的权衡机制，特别是在推荐系统、自适应实验等场景下，能够指导选择更优的算法来降低累积后悔值，提升冷启动效率。尽管偏理论，但其对算法复杂性的分析可为产品层面对不确定性建模和资源分配提供理论支撑。",
+      "pm_score": 0.34,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.11171v1",
+      "date": "2026-06-10"
+    },
+    {
       "id": "show-hn-claw-patrol-a-security-firewall-for-agents",
       "label": "Show HN: Claw Patrol, a security firewall for agents",
       "summary": "Claw Patrol 是一款专为 AI 代理设计的安全防火墙，通过实时监控和拦截恶意指令、数据泄露等风险，保障代理在复杂环境中的安全运行。它为产品经理提供了关键的 Agent 安全基础设施，有助于提升企业级 AI 应用的信任度与合规性，是代理生态中不可或缺的安全组件。",
@@ -211,10 +420,21 @@
       "source_type": "showhn",
       "url": "https://github.com/denoland/clawpatrol",
       "date": "2026-06-10"
+    },
+    {
+      "id": "show-hn-open-source-version-of-anthropics-internal-analytics-engine",
+      "label": "Show HN: Open-source version of Anthropic's internal analytics engine",
+      "summary": "Anthropic 将其内部使用的分析引擎开源发布，该引擎可能用于模型行为监控、性能评估或数据洞察。作为 Anthropic 核心技术栈的一部分，开源版本允许开发者和产品团队直接集成或定制，降低使用顶尖 AI 分析工具的门槛。此举不仅展现了 Anthropic 对透明化和社区共建的承诺，也为 AI 产品经理提供了强大的模型评估与监视能力，有助于提升产品迭代效率与可控性。该引擎可能包含可视化、日志分析、异常检测等模块，适用于生产环境下的 AI 系统运营。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://github.com/Kaelio/ktx",
+      "date": "2026-06-10"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1381,
-    "edges": 117664
+    "real_nodes": 1403,
+    "edges": 119068
   }
 }

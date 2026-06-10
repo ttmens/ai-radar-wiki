@@ -1,0 +1,30 @@
+{
+  "title": "The Role of Feedback Alignment in Self-Distillation",
+  "summary": "Conditioning a language model on additional context, such as feedback on a previous attempt, typically improves its response. Self-distillation trains the model to retain this improvement when the context is not present. The method works by matching the model's output distribution under two settings: a student that sees only the question, and a self-teacher that also sees the context. What the model learns therefore depends on what context the self-teacher receives, yet the design of this context remains largely unexplored.\n  We study context design for self-distillation by training a solver on feedback from a frozen critic. We compare three conditions: (i) a binary reward (GRPO), (ii) the reference solution, and (iii) a step-by-step critique aligned to the solver's reasoning trace.\n  Step-aligned critique yields the largest gains, outperforming GRPO by 16.11 points and reference-solution-conditioned self-distillation by 5.27 points (Avg@12). Per-token advantage analysis reveals why: step-aligned feedback targets only the tokens where reasoning fails, leaving correct behavior intact. Conditioning on the reference solution, by contrast, pressures the model to change its behavior at every token (even correct steps) because an alternative derivation inevitably differs in phrasing and approach. This suggests that structural alignment between feedback and the solver's reasoning is a key driver of self-distillation effectiveness.",
+  "url": "http://arxiv.org/abs/2606.11173v1",
+  "authors": [
+    "Semih Kara",
+    "Oğuzhan Ersoy"
+  ],
+  "published": "2026-06-09T17:50:09Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "reasoning",
+    "training",
+    "grpo",
+    "distillation"
+  ],
+  "summary_cn": "该研究探讨自我蒸馏中反馈对齐的作用，发现语言模型在有额外上下文（如对先前尝试的反馈）时表现更好。自我蒸馏通过匹配有无上下文时的输出分布，使模型在缺少上下文时仍保留改进效果。技术核心在于利用反馈信号对齐模型分布，提升无上下文场景下的推理能力。商业价值在于降低对显式上下文或历史对话的依赖，节省计算成本并改善用户体验。产品创新方面，可实现模型自我改进的轻量化推理，尤其适用于实时响应用户反馈的场景。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Self-Distillation",
+    "Feedback Alignment",
+    "Context Compression"
+  ],
+  "entities": [],
+  "patterns": [
+    "Self-Distillation Pattern"
+  ]
+}

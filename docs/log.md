@@ -1633,3 +1633,27 @@
 - create: anthropic8217s-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today.md
 - create: it8217s-not-faang-anymore-it8217s-mangos.md
 - create: show-hn-claw-patrol-a-security-firewall-for-agents.md
+
+## [2026-06-10 12:02] sync v3 | 22 new | pillars: {'capabilities': 20, 'ecosystem': 1, 'patterns': 1}
+- create: when-to-align-when-to-predict-a-phase-diagram-for-multimodal-learning.md
+- create: a-unifying-lens-on-supervised-fine-tuning-through-target-distribution-design.md
+- create: eevee-towards-test-time-prompt-learning-in-the-real-world-for-self-improving-age.md
+- create: the-role-of-feedback-alignment-in-self-distillation.md
+- create: predicting-future-behaviors-in-reasoning-models-enables-better-steering.md
+- create: algorithmic-and-minimax-complexities-in-kernel-bandits.md
+- create: piper-a-programmable-distributed-training-system.md
+- create: flaws-in-the-llm-automation-narrative.md
+- create: reasonalloc-hierarchical-decoding-time-kv-cache-budget-allocation-for-reasoning.md
+- create: cogent-continuous-graph-emulators-with-neural-ordinary-differential-equations-fo.md
+- create: itô-maps-for-any-step-sdes.md
+- create: abc-bench-an-agentic-bio-capabilities-benchmark-for-biosecurity.md
+- create: macos-container-machines.md
+- create: rich-sutton-on-ai-creativity-and-discovery.md
+- create: german-ruling-declares-google-liable-for-false-answers-in-ai-overviews.md
+- create: grit-rewriting-git-in-rust-with-agents.md
+- create: lies-we-tell-ourselves-about-email-addresses.md
+- create: company-will-add-phone-airpod-and-smartwatch-trackers-to-alprs.md
+- create: google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars.md
+- create: how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-v.md
+- create: show-hn-nucleus-a-security-hardened-nix-native-container-runtime.md
+- create: show-hn-open-source-version-of-anthropics-internal-analytics-engine.md

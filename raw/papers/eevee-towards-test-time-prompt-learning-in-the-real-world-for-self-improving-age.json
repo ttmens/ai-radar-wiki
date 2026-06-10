@@ -1,0 +1,29 @@
+{
+  "title": "EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents",
+  "summary": "In this paper, we propose EEVEE, the first multi-dataset test-time prompt learning framework for LLM agents, enabling test-time prompt learning under real-world task streams. Existing methods are largely designed for single-dataset settings, while real-world applications require models to handle heterogeneous input streams drawn from multiple datasets, domains, and task distributions, limiting their practical applicability. To mitigate cross-dataset interference, EEVEE introduces a router that partitions incoming inputs into task clusters and assigns them to suitable prompt configurations. This design is optimized via a router-prompt co-evolution strategy, which employs interleaved router and prompt learning phases to address their mutual dependency. Experiments across multiple datasets demonstrate that the framework improves robustness under heterogeneous data streams while maintaining single-benchmark learning capability and efficiency. Specifically, EEVEE improves average multi-benchmark scores by 10.38 and 24.32 points over Qwen3-4B-Instruct and DeepSeek-V3.2, surpassing SOTA methods GEPA and ACE by up to 37.2% and 48.2%.",
+  "url": "http://arxiv.org/abs/2606.11182v1",
+  "authors": [
+    "Weixian Xu",
+    "Shilong Liu",
+    "Mengdi Wang"
+  ],
+  "published": "2026-06-09T17:57:16Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "dataset"
+  ],
+  "summary_cn": "EEVEE 是首个面向真实世界中多数据集任务流的大语言模型智能体测试时提示学习框架。传统方法仅限于单数据集场景，而实际应用要求模型能够应对动态变化的异构任务。EEVEE 通过在线提示学习，使智能体在推理过程中自我改进，无需重新训练即可适应新任务。该技术有望降低部署成本、提升AI agent的泛化能力与鲁棒性，为产品经理在构建自适应、持续学习的AI应用（如客服机器人、自动化助手）提供关键支撑。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Test-time Prompt Learning",
+    "Self-Improving Agents",
+    "Multi-Dataset Adaptation"
+  ],
+  "entities": [],
+  "patterns": [
+    "Test-time Adaptation",
+    "Online Learning for LLM Agents"
+  ]
+}

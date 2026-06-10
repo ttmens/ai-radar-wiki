@@ -1,0 +1,31 @@
+{
+  "title": "Flaws in the LLM Automation Narrative",
+  "summary": "Large Language Models (LLMs) are increasingly described as performing at the level of human experts on knowledge economy tasks. These claims are primarily based on how LLMs perform on benchmarking tasks that measure average performance across standardized datasets. Primary limitations of many benchmarking tasks are that they often measure performance based on content directly included in LLM training data, and they frequently do not assess the reliability of LLM performance or the magnitude of LLM errors. However, in high stakes contexts, these qualities are critically important. Through a novel LLM benchmarking task that requires writing computer code to complete a data analysis task, we compare the performance of a frontier LLM against submissions from human experts and explicitly measure the variance of responses and the magnitude of errors. Our study reveals that the human experts perform better on average on a range of metrics and demonstrate less variability in performance. Our results provide evidence that LLMs do not consistently perform at the level of human experts and demonstrate the importance of measuring variance and assessing error magnitude in LLM benchmark evaluations.",
+  "url": "http://arxiv.org/abs/2606.11166v1",
+  "authors": [
+    "George Perrett",
+    "Javae Elliott",
+    "Jennifer Hill",
+    "Marc Scott"
+  ],
+  "published": "2026-06-09T17:46:10Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "training",
+    "dataset"
+  ],
+  "summary_cn": "该论文指出，LLM在知识经济任务上被认为达到人类专家水平，但主要依据是标准化基准测试的平均性能。这些基准测试存在关键缺陷：未能充分衡量模型在边缘情况、鲁棒性、长期推理和真实业务场景中的表现。产品经理需警惕过度依赖基准分数来评估模型的产品适用性，应结合上下文适配、错误分析及领域特定测试；商业价值在于避免基于误导性指标进行技术选型，从而降低部署风险。产品创新方向包括开发更贴近用户交互的实际评估框架，以及设计针对自动化叙事缺陷的纠错机制。",
+  "pm_relevance": 7,
+  "concepts": [
+    "LLM基准测试局限性",
+    "自动化叙事缺陷",
+    "模型评估框架"
+  ],
+  "entities": [],
+  "patterns": [
+    "基准测试驱动开发",
+    "上下文感知评估"
+  ]
+}

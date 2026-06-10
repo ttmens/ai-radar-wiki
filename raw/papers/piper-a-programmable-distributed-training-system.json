@@ -1,0 +1,32 @@
+{
+  "title": "Piper: A Programmable Distributed Training System",
+  "summary": "Large-scale model training increasingly relies on composing multiple parallelism strategies, such as data, pipeline, and expert parallelism, together with memory-saving optimizations like ZeRO. Deployed systems for foundation model pretraining often rely on human experts to manually design a high-level parallelism strategy then implement the corresponding low-level execution strategy, making it difficult to adapt the system to new strategies. Meanwhile, many general-purpose frameworks are more flexible but their implementations are still tied to a fixed set of common parallelism strategies, making it challenging to integrate state-of-the-art strategies.\n  We present Piper, a user-controllable distributed training system that decouples the strategy from the runtime implementation. Piper allows users to declare a comprehensive distributed training strategy with a small set of model annotations and scheduling directives. Each directive applies a transformation on Piper's intermediate representation (IR), a unified global training DAG that represents all computation and communication. Using this IR, Piper compiles per-device execution plans and executes them with a distributed runtime agnostic to the strategy. We show that the combined system maintains performance parity on commonly available strategies such as ZeRO, while also enabling additional performance and memory efficiency gains through joint scheduling of compute and communication in composed parallelism strategies such as DeepSeek-V3's DualPipe.",
+  "url": "http://arxiv.org/abs/2606.11169v1",
+  "authors": [
+    "Megan Frisella",
+    "Shubham Tiwari",
+    "Andy Ruan",
+    "Yi Pan",
+    "Parker Gustafson"
+  ],
+  "published": "2026-06-09T17:48:41Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "optimization",
+    "model training"
+  ],
+  "summary_cn": "Piper 是一个可编程的分布式训练系统，旨在解决大规模模型训练中手动组合多种并行策略（如数据并行、流水线并行、专家并行）以及 ZeRO 内存优化带来的复杂性。它通过提供可编程接口自动化并行策略的设计与调优，减少对人工专家的依赖，提升训练效率和资源利用率。对 AI 产品经理而言，Piper 能显著降低大模型训练的门槛和成本，加速模型迭代，使更多团队能够高效部署基础模型。其产品创新在于将分布式训练的专家经验固化为可扩展的编程框架，推动训练基础设施的自动化与标准化。",
+  "pm_relevance": 9,
+  "concepts": [
+    "分布式训练",
+    "自动并行策略",
+    "模型训练优化"
+  ],
+  "entities": [],
+  "patterns": [
+    "Auto-Parallelism Pattern",
+    "Programmable Training Infrastructure"
+  ]
+}
