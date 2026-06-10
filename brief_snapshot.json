@@ -1,7 +1,7 @@
 {
   "date": "2026-06-10",
-  "generated_at": "2026-06-10T12:02:11.795419+08:00",
-  "item_count": 39,
+  "generated_at": "2026-06-10T18:02:31.746628+08:00",
+  "item_count": 42,
   "items": [
     {
       "id": "claude-fable-5",
@@ -268,6 +268,17 @@
       "date": "2026-06-10"
     },
     {
+      "id": "meta-signs-first-ai-data-center-deal-in-india-with-reliance",
+      "label": "Meta signs first AI data center deal in India with Reliance",
+      "summary": "Meta与印度Reliance达成首个AI数据中心合作协议，建设168兆瓦设施，用于支撑Meta全球AI计算需求，并具备未来扩展能力。这一合作标志着Meta在印度基础设施布局的重要进展，也反映出AI算力需求持续攀升。对于AI产品经理而言，该事件提示了算力资源供应对产品规模化部署的关键作用，尤其是面向印度市场的AI服务可能获得更优时延与合规支持。商业层面，Reliance在印度能源与通信领域的优势有助于降低运营成本，而Meta通过定制化数据中心强化自身AI栈竞争力。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+      "date": "2026-06-10"
+    },
+    {
       "id": "itô-maps-for-any-step-sdes",
       "label": "Itô maps for any-step SDEs",
       "summary": "本文提出了一种名为Itô映射的新方法，旨在解决随机微分方程（SDE）的任意步数精确蒸馏问题。当前的单步生成模型通过学习确定性流映射来加速采样，但仅适用于常微分方程，无法处理随机动力学的精确蒸馏。Itô映射通过定义随机动力学与确定性流之间的精确对应关系，使得可以从任意步数的SDE中蒸馏出高效的单步生成模型，从而在保持生成质量的同时显著提升采样速度。该技术有望应用于图像生成、视频生成等需要快速采样的AI产品，降低推理成本并提升实时性。",
@@ -389,6 +400,17 @@
       "date": "2026-06-10"
     },
     {
+      "id": "show-hn-the-agent-that-builds-and-operates-its-own-saas-tools",
+      "label": "Show HN: The agent that builds and operates its own SaaS tools",
+      "summary": "该产品展示了一个AI代理，能够自主构建并运营自己的SaaS工具，无需人工干预。这种模式将AI的自主能力从简单的任务执行扩展到完整的软件生命周期管理，包括设计、开发、部署和运维。对于AI产品经理而言，其核心价值在于大幅降低SaaS工具的开发运维成本，并探索AI自我进化的商业闭环。技术上依赖大模型的代码生成与系统调用能力，产品创新在于实现了从‘工具使用’到‘工具自主创造’的跃迁。",
+      "pm_score": 0.365,
+      "pillar": "patterns",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://craftbot.live",
+      "date": "2026-06-10"
+    },
+    {
       "id": "unified-controllable-and-faithful-text-to-cad-generation-with-llms",
       "label": "Unified Controllable and Faithful Text-to-CAD Generation with LLMs",
       "summary": "该技术提出一种统一的、可控且忠实于输入的文本到CAD生成方法，利用大型语言模型（LLM）将自然语言描述转换为三维计算机辅助设计（CAD）模型。其核心创新在于同时保证生成结果的可控性（如用户指定几何约束、参数）和忠实性（准确反映文本描述），克服了传统文本到CAD方法中输出不可控、细节丢失的问题。对于AI产品经理，这意味着可构建面向设计师、工程师的智能设计工具，显著降低3D建模门槛，加速产品原型开发。商业价值体现在可集成到CAD软件、在线设计平台中，提供对话式辅助设计体验，并支持参数化修改。",
@@ -408,6 +430,17 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2606.11171v1",
+      "date": "2026-06-10"
+    },
+    {
+      "id": "aws-bedrock-to-require-sharing-data-with-anthropic-for-mythos-and-future-models",
+      "label": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+      "summary": "AWS Bedrock 平台要求使用 Anthropic 的 Mythos 及未来模型的客户必须同意与 Anthropic 共享数据，用于模型训练和改进。这对 AI 产品经理意味着：在采用 Bedrock 集成 Anthropic 最新模型时，需重新评估数据隐私合规风险，尤其是涉及用户敏感数据的场景。该政策可能影响企业级 AI 应用的数据治理策略，并推动多模型供应商选择以分散风险。产品经理应提前与法务/安全团队沟通，制定数据分级管控方案，或在架构中增加数据脱敏层。",
+      "pm_score": 0.33,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48473166",
       "date": "2026-06-10"
     },
     {
@@ -434,7 +467,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1403,
-    "edges": 119068
+    "real_nodes": 1406,
+    "edges": 120475
   }
 }

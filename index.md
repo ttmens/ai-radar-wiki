@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-10 | Total pages: 1422
+> Last updated: 2026-06-10 | Total pages: 1425
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -229,6 +229,7 @@
 - [[making-sense-of-the-debate-over-ai-psychosis.md]] Making sense of the debate over AI psychosis `pillar:capabilities` `score:0.445`
 - [[marimo-teammarimo.md]] marimo-team/marimo `pillar:capabilities` `score:0.58`
 - [[meta-is-reportedly-developing-an-ai-pendant.md]] Meta is reportedly developing an AI pendant `pillar:capabilities` `score:0.48`
+- [[meta-signs-first-ai-data-center-deal-in-india-with-reliance.md]] Meta signs first AI data center deal in India with Reliance `pillar:capabilities` `score:0.445`
 - [[microsoftonnxruntime.md]] microsoft/onnxruntime `pillar:capabilities` `score:0.615`
 - [[milvus-iomilvus.md]] milvus-io/milvus `pillar:capabilities` `score:0.615`
 - [[mimo-v25-pro-ultraspeed-1t-model-with-1000-tokens-per-second.md]] MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second `pillar:capabilities` `score:0.45`
@@ -887,6 +888,7 @@
 - [[show-hn-paseo-beautiful-open-source-coding-agent-interface.md]] Show HN: Paseo – Beautiful open-source coding agent interface `pillar:patterns` `score:0.38`
 - [[show-hn-slayer-a-semantic-layer-maintained-by-yo.md]] Show HN: SLayer, a semantic layer maintained by your agent `pillar:patterns` `score:0.33`
 - [[show-hn-statewright-visual-state-machines-that.md]] Show HN: Statewright – Visual state machines that make AI agents reliable `pillar:patterns` `score:0.33`
+- [[show-hn-the-agent-that-builds-and-operates-its-own-saas-tools.md]] Show HN: The agent that builds and operates its own SaaS tools `pillar:patterns` `score:0.365`
 - [[show-hn-tired-of-duct-taping-access-control-into-agent-prompts-heres-the-fix.md]] Show HN: Tired of duct-taping access control into agent prompts. Here's the fix `pillar:patterns` `score:0.33`
 - [[show-hn-vt-code-open-source-terminal-coding-agent-in-rust.md]] Show HN: VT Code – open-source terminal coding agent in Rust `pillar:patterns` `score:0.26`
 - [[show-hn-zot-yet-another-coding-agent-harness.md]] Show HN: Zot – Yet another coding agent harness `pillar:patterns` `score:0.36`
@@ -976,6 +978,7 @@
 - [[asgeirtjsystem_prompts_leaks.md]] asgeirtj/system_prompts_leaks `pillar:ecosystem` `score:0.58`
 - [[ask-hn-why-is-the-hn-crowd-so-anti-ai.md]] Ask HN: Why is the HN crowd so anti-AI? `pillar:ecosystem` `score:0.545`
 - [[at-techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-dea.md]] At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI d `pillar:ecosystem` `score:0.48`
+- [[aws-bedrock-to-require-sharing-data-with-anthropic-for-mythos-and-future-models.md]] AWS Bedrock to require sharing data with Anthropic for Mythos and future models `pillar:ecosystem` `score:0.33`
 - [[berriailitellm.md]] BerriAI/litellm `pillar:ecosystem` `score:0.615`
 - [[blaise-a-modern-self-hosting-zero-legacy-object.md]] Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE `pillar:ecosystem` `score:0.155`
 - [[building-ml-framework-with-rust-and-category-theory.md]] Building ML framework with Rust and Category Theory `pillar:ecosystem` `score:0.26`

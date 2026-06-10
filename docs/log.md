@@ -1657,3 +1657,8 @@
 - create: how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-v.md
 - create: show-hn-nucleus-a-security-hardened-nix-native-container-runtime.md
 - create: show-hn-open-source-version-of-anthropics-internal-analytics-engine.md
+
+## [2026-06-10 18:02] sync v3 | 3 new | pillars: {'capabilities': 2, 'patterns': 1}
+- create: aws-bedrock-to-require-sharing-data-with-anthropic-for-mythos-and-future-models.md
+- create: meta-signs-first-ai-data-center-deal-in-india-with-reliance.md
+- create: show-hn-the-agent-that-builds-and-operates-its-own-saas-tools.md
