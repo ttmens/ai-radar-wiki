@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 10 Jun 2026 08:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 12:01:51 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -205,6 +205,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Meta signs first AI data center deal in India with Reliance</title>
+      <link>https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/</link>
+      <guid isPermaLink="false">meta-signs-first-ai-data-center-deal-in-india-with-reliance</guid>
+      <pubDate>2026-06-10T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Meta与印度Reliance达成首个AI数据中心合作协议，建设168兆瓦设施，用于支撑Meta全球AI计算需求，并具备未来扩展能力。这一合作标志着Meta在印度基础设施布局的重要进展，也反映出AI算力需求持续攀升。对于AI产品经理而言，该事件提示了算力资源供应对产品规模化部署的关键作用，尤其是面向印度市场的AI服务可能获得更优时延与合规支持。商业层面，Reliance在印度能源与通信领域的优势有助于降低运营成本，而Meta通过定制化数据中心强化自身AI栈竞争力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Itô maps for any-step SDEs</title>
       <link>http://arxiv.org/abs/2606.11156v1</link>
       <guid isPermaLink="false">itô-maps-for-any-step-sdes</guid>
@@ -293,6 +301,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Show HN: The agent that builds and operates its own SaaS tools</title>
+      <link>https://craftbot.live</link>
+      <guid isPermaLink="false">show-hn-the-agent-that-builds-and-operates-its-own-saas-tools</guid>
+      <pubDate>2026-06-10T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该产品展示了一个AI代理，能够自主构建并运营自己的SaaS工具，无需人工干预。这种模式将AI的自主能力从简单的任务执行扩展到完整的软件生命周期管理，包括设计、开发、部署和运维。对于AI产品经理而言，其核心价值在于大幅降低SaaS工具的开发运维成本，并探索AI自我进化的商业闭环。技术上依赖大模型的代码生成与系统调用能力，产品创新在于实现了从‘工具使用’到‘工具自主创造’的跃迁。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>Unified Controllable and Faithful Text-to-CAD Generation with LLMs</title>
       <link>https://news.ycombinator.com/item?id=48461311</link>
       <guid isPermaLink="false">unified-controllable-and-faithful-text-to-cad-generation-with-llms</guid>
@@ -307,6 +323,14 @@
       <pubDate>2026-06-10T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>这篇论文统一了高斯过程上置信界（GP-UCB）和决策估计系数（DEC）两种看似不同的核老虎机算法视角，在频率派再生核希尔伯特空间（RKHS）框架下建立了共同的算法信息论基础。对于AI产品经理，该工作有助于理解在线决策算法中探索与利用的权衡机制，特别是在推荐系统、自适应实验等场景下，能够指导选择更优的算法来降低累积后悔值，提升冷启动效率。尽管偏理论，但其对算法复杂性的分析可为产品层面对不确定性建模和资源分配提供理论支撑。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>AWS Bedrock to require sharing data with Anthropic for Mythos and future models</title>
+      <link>https://news.ycombinator.com/item?id=48473166</link>
+      <guid isPermaLink="false">aws-bedrock-to-require-sharing-data-with-anthropic-for-mythos-and-future-models</guid>
+      <pubDate>2026-06-10T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>AWS Bedrock 平台要求使用 Anthropic 的 Mythos 及未来模型的客户必须同意与 Anthropic 共享数据，用于模型训练和改进。这对 AI 产品经理意味着：在采用 Bedrock 集成 Anthropic 最新模型时，需重新评估数据隐私合规风险，尤其是涉及用户敏感数据的场景。该政策可能影响企业级 AI 应用的数据治理策略，并推动多模型供应商选择以分散风险。产品经理应提前与法务/安全团队沟通，制定数据分级管控方案，或在架构中增加数据脱敏层。</p></description>
+      <category>🔧 工具生态</category>
     </item>
     <item>
       <title>Show HN: Claw Patrol, a security firewall for agents</title>
@@ -387,30 +411,6 @@
       <pubDate>2026-06-09T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>该文聚焦苹果Siri的AI升级，可能整合大语言模型以实现更自然的对话、上下文理解与多轮交互。技术要点包括设备端推理与云端协同，提升响应速度与隐私保护；商业价值在于强化苹果生态的差异化竞争力，推动订阅与服务收入；产品创新体现为更主动的智能建议与跨应用任务协同。</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Leonxlnx/taste-skill</title>
-      <link>https://github.com/Leonxlnx/taste-skill</link>
-      <guid isPermaLink="false">leonxlnxtaste-skill</guid>
-      <pubDate>2026-06-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>该项目名为Taste-Skill，通过赋予AI“品味”来避免生成无聊、泛泛的内容。技术上可能采用后处理过滤、风格引导或偏好学习，实现对输出质量的精细控制。商业价值在于提升内容产品的用户粘性与差异化，尤其适用于创意写作、聊天机器人等场景。产品创新体现在将审美标准显式编码为可调参数，降低人工审核成本，使AI输出更符合特定品牌调性。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Replies to comments on my "LLMs are eroding my career" post</title>
-      <link>https://news.ycombinator.com/item?id=48443258</link>
-      <guid isPermaLink="false">replies-to-comments-on-my-llms-are-eroding-my-career-post</guid>
-      <pubDate>2026-06-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>该帖子围绕“LLM正在侵蚀我的职业生涯”展开讨论，用户回复中探讨了大型语言模型能力提升对个人职业发展的冲击。产品经理需关注LLM如何改变技术岗位需求、自动化重复性工作以及催生新的产品机会。核心矛盾在于：LLM增强的能力可能替代某些中间技能，但也创造了需要人类监督、创意和战略思维的新角色。商业价值体现在降低开发成本、加速原型验证，但需警惕职业定位的重新评估。产品创新方向包括人机协作工具、LLM辅助决策系统以及适应性学习平台。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Microsoft's open source tools were hacked to steal passwords of AI developers</title>
-      <link>https://news.ycombinator.com/item?id=48457830</link>
-      <guid isPermaLink="false">microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers</guid>
-      <pubDate>2026-06-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>微软的开源工具遭到黑客攻击，被植入恶意代码以窃取AI开发者的密码。此次事件凸显了开发工具供应链安全的重要性，尤其是AI开发者广泛依赖开源组件。产品经理需加强对第三方依赖的风险评估，建立安全审计机制，避免敏感信息泄露影响产品开发和用户信任。建议团队实施代码签名、多因素认证及定期扫描依赖库，以防范类似攻击。</p></description>
-      <category>🔧 工具生态</category>
     </item>
   </channel>
 </rss>
