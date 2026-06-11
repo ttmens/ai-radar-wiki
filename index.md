@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-12 | Total pages: 1477
+> Last updated: 2026-06-12 | Total pages: 1486
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -46,6 +46,7 @@
 - [[amazon-now-lets-you-design-custom-merch-using-ai.md]] Amazon now lets you design custom merch using AI `pillar:capabilities` `score:0.48`
 - [[amazon-will-show-ai-product-images-when-you-search-for-some-reason.md]] Amazon will show AI product images when you search for some reason `pillar:capabilities` `score:0.515`
 - [[an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry.md]] An OpenAI model has disproved a central conjecture in discrete geometry `pillar:capabilities` `score:0.63`
+- [[anthropic-apologizes-for-invisible-claude-fable-guardrails.md]] Anthropic apologizes for invisible Claude Fable guardrails `pillar:capabilities` `score:0.63`
 - [[anthropic-is-expanding-to-colossus2-will-use-gb200.md]] Anthropic is expanding to Colossus2. Will use GB200 `pillar:capabilities` `score:0.48`
 - [[anthropic-requires-30-day-data-retention-for-fable-and-mythos.md]] Anthropic requires 30 day data retention for Fable and Mythos `pillar:capabilities` `score:0.565`
 - [[anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries.md]] Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries `pillar:capabilities` `score:0.515`
@@ -79,6 +80,7 @@
 - [[claude-code-and-codex-can-have-real-time-conversation-via-git.md]] Claude Code and Codex Can Have Real-Time Conversation via Git `pillar:capabilities` `score:0.515`
 - [[claude-code-everything-you-can-configure-that-the-docs-dont-tell-you.md]] Claude Code – Everything You Can Configure That the Docs Don't Tell You `pillar:capabilities` `score:0.43`
 - [[claude-desktop-spawns-18-gb-hyper-v-vm-on-every-launch-even-for-chat-only-use.md]] Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use `pillar:capabilities` `score:0.6`
+- [[claude-fable-5-mid-tier-results-on-coding-tasks.md]] Claude Fable 5: mid-tier results on coding tasks `pillar:capabilities` `score:0.495`
 - [[claude-fable-5.md]] Claude Fable 5 `pillar:capabilities` `score:0.61`
 - [[claude-for-legal.md]] Claude for Legal `pillar:capabilities` `score:0.48`
 - [[claude-is-not-your-architect-stop-letting-it-pretend.md]] Claude is not your architect. Stop letting it pretend `pillar:capabilities` `score:0.6`
@@ -108,6 +110,7 @@
 - [[deepseek-v4-pro-beats-gpt-55-pro-on-precision.md]] DeepSeek V4 Pro beats GPT-5.5 Pro on precision `pillar:capabilities` `score:0.515`
 - [[deepspeedaideepspeed.md]] deepspeedai/DeepSpeed `pillar:capabilities` `score:0.615`
 - [[deepswe-a-contamination-free-benchmark-for-long-horizon-coding-agents.md]] DeepSWE: A contamination-free benchmark for long-horizon coding agents `pillar:capabilities` `score:0.33`
+- [[deezer8217s-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others.md]] Deezer&#8217;s new tool can identify AI music from Spotify, Apple Music, and oth `pillar:capabilities` `score:0.48`
 - [[deficient-executive-control-in-transformer-attention.md]] Deficient executive control in transformer attention `pillar:capabilities` `score:0.295`
 - [[demand-is-booming-for-new-no-tech-repairable-tractor.md]] Demand Is Booming for New No Tech, Repairable Tractor `pillar:capabilities` `score:0.31`
 - [[details-of-the-daring-airdrop-at-tristan-da-cunha.md]] Details of the Daring Airdrop at Tristan Da Cunha `pillar:capabilities` `score:0.305`
@@ -121,6 +124,7 @@
 - [[duckduckgo-makes-its-8216no-ai8217-search-engine-easier-to-access-as-its-traffic.md]] DuckDuckGo makes its &#8216;no-AI&#8217; search engine easier to access as its t `pillar:capabilities` `score:0.41`
 - [[duckduckgo-search-saw-28-more-visits-after-google-said-people-love-ai-mode.md]] DuckDuckGo search saw 28% more visits after Google said people love AI mode `pillar:capabilities` `score:0.68`
 - [[eagle-31-collaboration-between-the-eagle-team-vllm-team-and-torchspec-team.md]] Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team `pillar:capabilities` `score:0.38`
+- [[ear-training-practice-exercises.md]] Ear Training Practice Exercises `pillar:capabilities` `score:0.445`
 - [[efficient-and-training-free-single-image-diffusion-models.md]] Efficient and Training-Free Single-Image Diffusion Models `pillar:capabilities` `score:0.33`
 - [[elevenlabs8217s-new-music-generation-model-can-switch-genres-mid-track.md]] ElevenLabs&#8217;s new music generation model can switch genres mid-track `pillar:capabilities` `score:0.48`
 - [[entanglement-builds-space-time-now-magic-gives-it-gravity.md]] Entanglement Builds Space-Time. Now "Magic" Gives It Gravity `pillar:capabilities` `score:0.34`
@@ -175,6 +179,7 @@
 - [[how-fast-does-claude-acting-as-a-user-space-ip-st.md]] How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings? `pillar:capabilities` `score:0.36`
 - [[how-is-groq-raising-more-money.md]] How is Groq raising more money? `pillar:capabilities` `score:0.33`
 - [[how-llms-work.md]] How LLMs work `pillar:capabilities` `score:0.295`
+- [[how-terry-tao-became-an-evangelist-for-ai-in-math.md]] How Terry Tao became an evangelist for AI in math `pillar:capabilities` `score:0.48`
 - [[how-turkey-hacked-the-hair-transplant-industry.md]] How turkey hacked the hair-transplant industry `pillar:capabilities` `score:0.43`
 - [[hpcaitechcolossalai.md]] hpcaitech/ColossalAI `pillar:capabilities` `score:0.615`
 - [[html-in-canvas-demos.md]] HTML-in-Canvas Demos `pillar:capabilities` `score:0.225`
@@ -320,6 +325,7 @@
 - [[sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams.md]] Sandstone raises $30M to bring AI to in-house legal teams `pillar:capabilities` `score:0.48`
 - [[screenpipescreenpipe.md]] screenpipe/screenpipe `pillar:capabilities` `score:0.615`
 - [[sgl-projectsglang.md]] sgl-project/sglang `pillar:capabilities` `score:0.615`
+- [[shall-we-play-a-game-llms-use-tactical-nukes-in-95-of-simulations.md]] Shall we play a game? – LLMs use tactical nukes in 95% of simulations `pillar:capabilities` `score:0.48`
 - [[shapshap.md]] shap/shap `pillar:capabilities` `score:0.615`
 - [[shift-will-clean-homes-for-free-to-train-future-robots.md]] Shift will clean homes for free to train future robots `pillar:capabilities` `score:0.43`
 - [[show-hn-100cc-roll-your-own-claude-in-100-lines.md]] Show HN: 100cc - Roll your own Claude in 100 lines `pillar:capabilities` `score:0.33`
@@ -1350,6 +1356,7 @@
 - [[nvidia-has-already-committed-40b-to-equity-ai-dea.md]] Nvidia has already committed $40B to equity AI deals this year `pillar:business` `score:0.48`
 - [[openai-barrels-toward-ipo-that-may-happen-in-september.md]] OpenAI barrels toward IPO that may happen in September `pillar:business` `score:0.48`
 - [[openai-is-preparing-to-file-for-an-ipo-soon.md]] OpenAI Is Preparing to File for an IPO Soon `pillar:business` `score:0.46`
+- [[openai-mulls-slashing-prices-as-it-competes-with-anthropic-for-users.md]] OpenAI mulls slashing prices as it competes with Anthropic for users `pillar:business` `score:0.55`
 - [[openai-submits-s-1-draft-to-sec.md]] OpenAI Submits S-1 Draft to SEC `pillar:business` `score:0.45`
 - [[openai-to-confidentially-file-for-ipo-as-soon-as-friday.md]] OpenAI to confidentially file for IPO as soon as Friday `pillar:business` `score:0.33`
 - [[openaicom-was-once-the-personal-homepage-of-a-g.md]] "openai.com" was once the personal homepage of a guy named glenn `pillar:business` `score:0.155`
@@ -1382,6 +1389,8 @@
 - [[south-korea8217s-letinar-is-building-optics-behind-ai-glasses.md]] South Korea&#8217;s LetinAR is building optics behind AI glasses `pillar:business` `score:0.48`
 - [[spacex-files-to-go-public-and-the-math-requires-a-little-faith.md]] SpaceX files to go public, and the math requires a little faith `pillar:business` `score:0.305`
 - [[spacex-may-spend-up-to-119b-on-8216terafab82.md]] SpaceX may spend up to $119B on &#8216;Terafab&#8217; chip factory in Texas `pillar:business` `score:0.1`
+- [[spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever.md]] SpaceX officially prices shares at $135 in the largest IPO ever `pillar:business` `score:0.27`
+- [[spacex-spv-investors-won8217t-know-their-true-holdings-until-post-ipo-lock-ups-l.md]] SpaceX SPV investors won&#8217;t know their true holdings until post-IPO lock-up `pillar:business` `score:0.235`
 - [[spain-blocks-prediction-markets-polymarket-kalshi-over-lack-of-gambling-licence.md]] Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence `pillar:business` `score:0.39`
 - [[spain-has-become-one-of-europes-cheapest-power-ma.md]] Spain has become one of Europe’s cheapest power markets `pillar:business` `score:0.355`
 - [[spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes.md]] Spotify and Universal Music strike deal allowing fan-made AI covers and remixes `pillar:business` `score:0.48`

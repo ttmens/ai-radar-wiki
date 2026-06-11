@@ -1724,3 +1724,14 @@
 - create: more-ai-generated-code-doesnt-make-your-team-faster-it-might-slow-you.md
 - create: pool8217s-new-app-turns-your-screenshots-into-something-useful.md
 - create: doordash8217s-new-ai-chatbot-lets-you-order-with-prompts-and-photos.md
+
+## [2026-06-12 06:03] sync v3 | 9 new | pillars: {'capabilities': 7, 'business': 2}
+- create: shall-we-play-a-game-llms-use-tactical-nukes-in-95-of-simulations.md
+- create: ear-training-practice-exercises.md
+- create: claude-fable-5-mid-tier-results-on-coding-tasks.md
+- create: how-terry-tao-became-an-evangelist-for-ai-in-math.md
+- create: anthropic-apologizes-for-invisible-claude-fable-guardrails.md
+- create: openai-mulls-slashing-prices-as-it-competes-with-anthropic-for-users.md
+- create: spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever.md
+- create: spacex-spv-investors-won8217t-know-their-true-holdings-until-post-ipo-lock-ups-l.md
+- create: deezer8217s-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others.md

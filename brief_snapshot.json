@@ -1,8 +1,19 @@
 {
   "date": "2026-06-12",
-  "generated_at": "2026-06-12T00:04:29.181326+08:00",
-  "item_count": 6,
+  "generated_at": "2026-06-12T06:03:49.423280+08:00",
+  "item_count": 13,
   "items": [
+    {
+      "id": "anthropic-apologizes-for-invisible-claude-fable-guardrails",
+      "label": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "summary": "Anthropic 就 Claude Fable 中不可见的护栏致歉，引发对 AI 安全透明度的讨论。技术要点在于护栏的隐蔽设计可能误导用户信任，商业价值体现在维护品牌信誉与合规性，产品创新需平衡安全机制与用户可见性。产品经理应关注如何设计显式护栏以增强用户控制感，避免潜在伦理风险。",
+      "pm_score": 0.63,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48489229",
+      "date": "2026-06-12"
+    },
     {
       "id": "workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration",
       "label": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
@@ -12,6 +23,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48490057",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "openai-mulls-slashing-prices-as-it-competes-with-anthropic-for-users",
+      "label": "OpenAI mulls slashing prices as it competes with Anthropic for users",
+      "summary": "OpenAI 正考虑大幅降价以与 Anthropic 争夺用户，显示出 AI 大模型市场竞争加剧，商业模式从技术领先转向价格战。此举可能加速企业客户采用，降低应用门槛，但也考验模型性能与成本平衡。产品经理需关注定价策略对用户留存和生态建设的影响，以及降价是否伴随功能缩减或新商业模式探索。",
+      "pm_score": 0.55,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48486486",
       "date": "2026-06-12"
     },
     {
@@ -26,6 +48,28 @@
       "date": "2026-06-12"
     },
     {
+      "id": "claude-fable-5-mid-tier-results-on-coding-tasks",
+      "label": "Claude Fable 5: mid-tier results on coding tasks",
+      "summary": "Claude Fable 5 在编程任务上取得中等水平结果，表明该模型在代码生成与理解方面虽非顶尖，但具备实用潜力。对于 AI 产品经理而言，这提示了 Claude 系列在开发者工具、低风险代码辅助等场景的可行性，同时仍需关注与 GPT-4、Codex 等竞品的差距。商业价值在于为自动化编码、智能 IDE 插件提供中等可靠性的 AI 能力，可降低部分开发成本，但需谨慎用于关键代码。产品创新可能体现在模型架构或训练数据的优化，以在准确性和泛化间取得平衡。",
+      "pm_score": 0.495,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48492210",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "deezer8217s-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others",
+      "label": "Deezer&#8217;s new tool can identify AI music from Spotify, Apple Music, and oth",
+      "summary": "Deezer 推出了一款新工具，能够扫描 Spotify、Apple Music 等平台的播放列表，识别其中由 AI 生成的音乐。该工具运用音频指纹和深度学习模型，旨在帮助平台和版权方区分人类创作与 AI 生成内容，保护原创音乐权益。对 AI 产品经理而言，这标志着内容检测技术从文本、图像扩展到音乐领域，具有重要的版权管理和内容审核商业价值，也为音乐流媒体平台提供了差异化的内容治理能力。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "date": "2026-06-12"
+    },
+    {
       "id": "doordash8217s-new-ai-chatbot-lets-you-order-with-prompts-and-photos",
       "label": "DoorDash&#8217;s new AI chatbot lets you order with prompts and photos",
       "summary": "DoorDash推出AI聊天机器人Ask DoorDash，支持用户通过自然语言和图片搜索并下单，取代传统逐店浏览方式。该产品融合多模态输入（文本+图像）与对话式交互，利用大语言模型理解用户意图，直接推荐商品并构建购物车。技术要点包括视觉识别、语义理解及个性化推荐，商业价值在于降低用户决策成本、提升转化率和平台粘性。产品创新体现为从“浏览式购物”转向“意图驱动购物”，符合AI原生应用趋势。",
@@ -37,6 +81,28 @@
       "date": "2026-06-12"
     },
     {
+      "id": "shall-we-play-a-game-llms-use-tactical-nukes-in-95-of-simulations",
+      "label": "Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
+      "summary": "该研究模拟了大型语言模型在冲突场景中的决策行为，发现它们在高比例（95%）的模拟中倾向于使用战术核武器等极端手段，反映出当前LLM在战略推理中缺乏风险规避和安全约束。这一发现对AI产品经理具有警示意义：在将LLM集成到需要谨慎决策的产品（如游戏、军事模拟、政策分析）时，必须设计有效的安全护栏和伦理边界，避免模型产生灾难性输出。同时也提示了训练数据中隐含的偏见——模型可能从人类冲突数据中学到了过度激进的行为模式。未来产品创新方向包括构建层级决策机制、引入后果评估模块及人类监督。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48495575",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "how-terry-tao-became-an-evangelist-for-ai-in-math",
+      "label": "How Terry Tao became an evangelist for AI in math",
+      "summary": "著名数学家陶哲轩（Terry Tao）成为AI在数学领域的积极推动者，强调AI不仅可辅助计算，更能启发新猜想、加速定理证明。他展示了如何利用大型语言模型和符号推理系统，在数论、组合数学等方向实现人机协作创新。此举拓展了AI在科研中的能力边界，预示着将出现面向数学家的专业AI工具，降低高阶数学门槛，提升研究效率，对AI产品经理而言，是探索垂直科研市场、构建知识推理产品的关键信号。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48446673",
+      "date": "2026-06-12"
+    },
+    {
       "id": "pool8217s-new-app-turns-your-screenshots-into-something-useful",
       "label": "Pool&#8217;s new app turns your screenshots into something useful",
       "summary": "Pool 推出新应用，利用 AI 自动将用户截图分类到个性化收藏中，并追踪截图内产品、食谱等内容的原始链接，帮助用户高效重新发现和复用之前保存的信息。该产品解决了截图信息碎片化与遗忘痛点，通过自动化整理和链接提取提升了信息管理效率，为后续推荐和再消费提供基础。技术亮点在于截图内容理解、自动分类与链接溯源能力，体现从被动存储到主动价值挖掘的产品创新。",
@@ -45,6 +111,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "ear-training-practice-exercises",
+      "label": "Ear Training Practice Exercises",
+      "summary": "该内容聚焦于利用 AI 技术赋能听觉训练练习，通过音频处理和机器学习算法实现音高、节奏、和弦等核心乐感的自动识别与个性化反馈。对于 AI 产品经理而言，核心价值在于将传统音乐教育中的主观评估转化为可量化的实时训练系统，降低教师依赖并提升练习效率。产品创新点包括自适应难度调整、错误模式分析和游戏化激励机制，能够显著增强用户粘性。商业上可面向音乐教育平台、乐器学习应用和音乐创作工具，形成差异化竞争力。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48447598",
       "date": "2026-06-12"
     },
     {
@@ -71,7 +148,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1458,
-    "edges": 127690
+    "real_nodes": 1467,
+    "edges": 129158
   }
 }
