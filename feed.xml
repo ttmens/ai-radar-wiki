@@ -5,13 +5,61 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 11 Jun 2026 12:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 16:05:26 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Workers are spending over 6 hours a week botsitting AI, fueling job frustration</title>
+      <link>https://news.ycombinator.com/item?id=48490057</link>
+      <guid isPermaLink="false">workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>报告指出，员工每周平均花费超过6小时用于“照看AI”（botsitting），即监督修正AI生成内容，这反而加剧了工作挫败感。技术要点在于当前AI系统在复杂任务中仍频繁出错，需要人类持续介入，导致效率不升反降。商业价值上，企业部署AI时需评估人机协作的实际成本，避免盲目自动化带来的隐性负担。产品创新方向可包括设计更主动的错误预警、自动纠错机制，或优化人机交互反馈流程以减少人工干预。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Why AI hasn't replaced software engineers, and won't</title>
+      <link>https://news.ycombinator.com/item?id=48487540</link>
+      <guid isPermaLink="false">why-ai-hasnt-replaced-software-engineers-and-wont</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文讨论AI为何尚未且不会彻底取代软件工程师。尽管AI在代码生成和辅助方面取得进展，但软件工程涉及复杂需求理解、系统设计、调试、维护及人类创造力和判断力，这些是当前AI难以完全替代的。AI更多是提升效率的工具而非替代者。产品经理应理性看待AI能力边界，将AI定位为增强人类开发者生产力的协作伙伴，而非完全自动化的解决方案。长期来看，人类在复杂决策、创新和项目管理中的角色不可替代。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>DoorDash&amp;#8217;s new AI chatbot lets you order with prompts and photos</title>
+      <link>https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/</link>
+      <guid isPermaLink="false">doordash8217s-new-ai-chatbot-lets-you-order-with-prompts-and-photos</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>DoorDash推出AI聊天机器人Ask DoorDash，支持用户通过自然语言和图片搜索并下单，取代传统逐店浏览方式。该产品融合多模态输入（文本+图像）与对话式交互，利用大语言模型理解用户意图，直接推荐商品并构建购物车。技术要点包括视觉识别、语义理解及个性化推荐，商业价值在于降低用户决策成本、提升转化率和平台粘性。产品创新体现为从“浏览式购物”转向“意图驱动购物”，符合AI原生应用趋势。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Pool&amp;#8217;s new app turns your screenshots into something useful</title>
+      <link>https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/</link>
+      <guid isPermaLink="false">pool8217s-new-app-turns-your-screenshots-into-something-useful</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Pool 推出新应用，利用 AI 自动将用户截图分类到个性化收藏中，并追踪截图内产品、食谱等内容的原始链接，帮助用户高效重新发现和复用之前保存的信息。该产品解决了截图信息碎片化与遗忘痛点，通过自动化整理和链接提取提升了信息管理效率，为后续推荐和再消费提供基础。技术亮点在于截图内容理解、自动分类与链接溯源能力，体现从被动存储到主动价值挖掘的产品创新。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Build a Basic AI Agent from Scratch: Long Task Planning</title>
+      <link>https://news.ycombinator.com/item?id=48461635</link>
+      <guid isPermaLink="false">build-a-basic-ai-agent-from-scratch-long-task-planning</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文介绍从零构建基础AI代理实现长任务规划的技术方法，重点讲解如何将复杂任务分解为可执行的子步骤、使用规划算法维护长期上下文，以及处理执行过程中的环境反馈和动态调整。对于AI产品经理，这体现了代理能力从单轮对话向自主多步操作的关键演进，可应用于自动化工作流、复杂问题求解等场景。商业上，降低了对大模型推理能力的依赖，使轻量级代理能承担更多实际业务任务，提升产品智能度和用户粘性。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>More AI-generated code doesn't make your team faster. It might slow you</title>
+      <link>https://news.ycombinator.com/item?id=48489835</link>
+      <guid isPermaLink="false">more-ai-generated-code-doesnt-make-your-team-faster-it-might-slow-you</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文指出，过度依赖AI生成的代码并不会提升团队开发效率，反而可能因代码质量下降、维护成本增加而导致整体速度变慢。技术要点在于AI代码生成工具目前仍存在上下文理解不足、易产生冗余或错误代码的问题；商业价值上，企业若盲目追求代码量而忽视可维护性，将陷入‘生产率悖论’；产品创新启示是AI编程助手应更注重生成代码的可读性、可测试性和长期可维护性，而非单纯追求速度和数量。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable</title>
       <link>https://news.ycombinator.com/item?id=48478969</link>
@@ -362,54 +410,6 @@
       <guid isPermaLink="false">deficient-executive-control-in-transformer-attention</guid>
       <pubDate>2026-06-11T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该研究探讨了Transformer注意力机制在执行控制（如工作记忆维护、任务切换）方面的固有缺陷，指出标准自注意力缺乏对信息流的有选择性抑制与更新能力，导致在需要严格序列约束或逻辑推理的任务中表现欠佳。这一发现提示产品经理，当前AI模型在复杂决策、长对话等场景中可能因注意力失控而产生幻觉或逻辑断裂。未来产品可引入显式控制模块（如门控机制或外部记忆）来弥补，提升可靠性。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>'They take you out of life, out of time': a journey into Spain's cave paintings</title>
-      <link>https://news.ycombinator.com/item?id=48447378</link>
-      <guid isPermaLink="false">they-take-you-out-of-life-out-of-time-a-journey-into-spains-cave-paintings</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容为关于西班牙洞穴壁画的报道，属于文化考古领域，与人工智能技术无直接关联。但作为AI产品经理，可从中思考跨领域知识迁移：例如如何利用计算机视觉技术分析古代岩画、构建数字孪生博物馆，或通过自然语言处理挖掘历史叙事。当前文章未提及具体AI应用，因此商业价值和产品创新点有限，但启发AI技术在人文学科中的潜在渗透方向。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Klondike Solitaire game for curses in 5k of C</title>
-      <link>https://news.ycombinator.com/item?id=48450024</link>
-      <guid isPermaLink="false">klondike-solitaire-game-for-curses-in-5k-of-c</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容介绍了一个使用C语言和curses库编写的纸牌游戏Klondike Solitaire，代码体积仅5KB，展示了在极端资源限制下实现完整图形交互界面的技术能力。对于AI产品经理而言，这种极简实现模式可启发边缘设备或嵌入式场景下的AI应用部署，通过最小化代码与内存占用降低硬件门槛。尽管不直接涉及AI技术，但其体现的轻量化设计思路对构建高效、低成本的AI产品具有参考价值。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Claude Fable 5</title>
-      <link>https://news.ycombinator.com/item?id=48463808</link>
-      <guid isPermaLink="false">claude-fable-5</guid>
-      <pubDate>2026-06-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Claude Fable 5 可能指 Anthropic 发布的 Claude 模型在寓言或故事生成方面的第五代能力升级，聚焦于提升叙事质量、逻辑连贯性与创意多样性。该能力可应用于教育、内容创作、互动娱乐等领域，通过更自然的语言理解和生成，降低用户创作门槛。商业价值在于为平台提供差异化的文本生成体验，产品创新体现在对长文本结构控制和风格模仿的优化。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Cleaning up after AI rockstar developers</title>
-      <link>https://news.ycombinator.com/item?id=48458586</link>
-      <guid isPermaLink="false">cleaning-up-after-ai-rockstar-developers</guid>
-      <pubDate>2026-06-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章讨论AI辅助开发中，'摇滚明星'开发者使用AI生成大量代码后留下的混乱问题。技术要点包括AI生成代码的不可靠性、技术债务累积以及缺乏可维护性。商业价值在于通过系统化清理与治理，降低长期维护成本，提升代码库质量。产品创新方向可能是开发自动化清理、重构和审查工具，帮助团队管理AI产出。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>GPT-2: Too Dangerous To Release (2019)</title>
-      <link>https://news.ycombinator.com/item?id=48465269</link>
-      <guid isPermaLink="false">gpt-2-too-dangerous-to-release-2019</guid>
-      <pubDate>2026-06-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>2019年OpenAI因担心GPT-2语言模型被滥用（如生成虚假信息）而推迟发布，体现了AI能力与安全风险的平衡。该模型展示了零样本学习能力，在文本生成、翻译等任务上表现出色，但同时也引发了关于AI伦理、可控性和发布策略的讨论。对产品经理而言，这提示在推出强大AI功能时需考虑负面用例和监管影响，商业价值在于预训练模型可复用为多场景基础能力，但需配套安全机制。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Where is the AI jobs crisis?</title>
-      <link>https://news.ycombinator.com/item?id=48464333</link>
-      <guid isPermaLink="false">where-is-the-ai-jobs-crisis</guid>
-      <pubDate>2026-06-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章探讨AI技术发展是否真的会导致大规模失业危机。作者分析当前AI能力（如LLM、自动化）的局限性，认为并非所有岗位都面临立即替代风险，更多是岗位转型和技能需求变化。对于AI产品经理，理解能力边界比恐慌更重要，需聚焦如何用AI增强而非完全取代人工，从而创造新的产品机会和商业模式。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
