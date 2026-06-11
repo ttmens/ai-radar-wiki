@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-11 | Total pages: 1471
+> Last updated: 2026-06-12 | Total pages: 1477
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -249,6 +249,7 @@
 - [[mlc-aiweb-llm.md]] mlc-ai/web-llm `pillar:capabilities` `score:0.615`
 - [[mlfoundationsopen_clip.md]] mlfoundations/open_clip `pillar:capabilities` `score:0.615`
 - [[modelscopefunasr.md]] modelscope/FunASR `pillar:capabilities` `score:0.405`
+- [[more-ai-generated-code-doesnt-make-your-team-faster-it-might-slow-you.md]] More AI-generated code doesn't make your team faster. It might slow you `pillar:capabilities` `score:0.33`
 - [[more-than-6-out-of-10-people-turn-to-ai-for-psychological-support.md]] More than 6 out of 10 people turn to AI for psychological support `pillar:capabilities` `score:0.515`
 - [[moving-away-from-tailwind-and-learning-to-structure-my-css.md]] Moving away from Tailwind, and learning to structure my CSS `pillar:capabilities` `score:0.355`
 - [[mudlerlocalai.md]] mudler/LocalAI `pillar:capabilities` `score:0.405`
@@ -291,6 +292,7 @@
 - [[please-use-ai.md]] Please Use AI `pillar:capabilities` `score:0.645`
 - [[pokémon-go-scans-trained-the-navigation-tech-for-military-drones.md]] Pokémon Go Scans Trained the Navigation Tech for Military Drones `pillar:capabilities` `score:0.58`
 - [[policy-on-the-ai-exponential.md]] Policy on the AI Exponential `pillar:capabilities` `score:0.55`
+- [[pool8217s-new-app-turns-your-screenshots-into-something-useful.md]] Pool&#8217;s new app turns your screenshots into something useful `pillar:capabilities` `score:0.445`
 - [[populora-co-evolving-llm-populations-for-reasoning-self-play.md]] PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play `pillar:capabilities` `score:0.33`
 - [[programmers-will-document-for-claude-but-not-for-each-other.md]] Programmers will document for Claude, but not for each other `pillar:capabilities` `score:0.585`
 - [[project-hail-mary-stellar-navigation-chart.md]] Project Hail Mary – Stellar Navigation Chart `pillar:capabilities` `score:0.545`
@@ -438,11 +440,13 @@
 - [[when-ai-crosses-the-line-the-matplotlib-incident.md]] When AI Crosses the Line: The Matplotlib Incident `pillar:capabilities` `score:0.55`
 - [[when-fast-fourier-transform-meets-transformer-for-image-restoration-2024.md]] When Fast Fourier Transform Meets Transformer for Image Restoration (2024) `pillar:capabilities` `score:0.295`
 - [[where-is-the-ai-jobs-crisis.md]] Where is the AI jobs crisis? `pillar:capabilities` `score:0.55`
+- [[why-ai-hasnt-replaced-software-engineers-and-wont.md]] Why AI hasn't replaced software engineers, and won't `pillar:capabilities` `score:0.545`
 - [[why-apple8217s-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart.md]] Why Apple&#8217;s slow-and-steady AI bet is starting to look pretty smart `pillar:capabilities` `score:0.305`
 - [[why-google8217s-ai-can8217t-spell-google-or-anything-else.md]] Why Google&#8217;s AI can&#8217;t spell Google (or anything else) `pillar:capabilities` `score:0.445`
 - [[wirestock-raises-23m-to-supply-creative-multi-modal-data-to-ai-labs.md]] Wirestock raises $23M to supply creative multi-modal data to AI labs `pillar:capabilities` `score:0.48`
 - [[with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in.md]] With aluminum prices up 20%, recycling startups bet on AI to cash in `pillar:capabilities` `score:0.305`
 - [[wkentarolabelme.md]] wkentaro/labelme `pillar:capabilities` `score:0.58`
+- [[workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration.md]] Workers are spending over 6 hours a week botsitting AI, fueling job frustration `pillar:capabilities` `score:0.55`
 - [[writeup-16-bytes-of-x86-that-turn-matrix-rain-into-sound.md]] WriteUp: 16 Bytes of x86 that turn Matrix rain into sound `pillar:capabilities` `score:0.34`
 - [[wwdc-2026-what-to-expect-from-siri8217s-highly-anticipated-revamp-to-apple-intel.md]] WWDC 2026: What to expect, from Siri&#8217;s highly anticipated revamp to Apple `pillar:capabilities` `score:0.48`
 - [[xorbitsaiinference.md]] xorbitsai/inference `pillar:capabilities` `score:0.565`
@@ -760,6 +764,7 @@
 - [[best-brain-for-agents-is-just-versioned-folders-of-markdown-files.md]] Best "Brain" for Agents Is Just Versioned Folders of Markdown Files `pillar:patterns` `score:0.365`
 - [[browser-usebrowser-use.md]] browser-use/browser-use `pillar:patterns` `score:0.615`
 - [[brume-is-a-24-voice-multi-timbral-desktop-synth-for-the-cm5.md]] Brume is a 24-voice multi-timbral desktop synth for the CM5 `pillar:patterns` `score:0.155`
+- [[build-a-basic-ai-agent-from-scratch-long-task-planning.md]] Build a Basic AI Agent from Scratch: Long Task Planning `pillar:patterns` `score:0.445`
 - [[building-an-html-first-site-doubled-our-users-overnight.md]] Building an HTML-first site doubled our users overnight `pillar:patterns` `score:0.525`
 - [[bytedancedeer-flow.md]] bytedance/deer-flow `pillar:patterns` `score:0.405`
 - [[camel-aicamel.md]] camel-ai/camel `pillar:patterns` `score:0.58`
@@ -790,6 +795,7 @@
 - [[do-agentsmd-files-help-coding-agents.md]] Do agents.md files help coding agents? `pillar:patterns` `score:0.38`
 - [[does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do.md]] Does your CEO have AI psychosis? Aaron Levie thinks most of them do. `pillar:patterns` `score:0.48`
 - [[domain-camouflaged-injection-attacks-evade-detection-in-multi-agent-llm-systems.md]] Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems `pillar:patterns` `score:0.33`
+- [[doordash8217s-new-ai-chatbot-lets-you-order-with-prompts-and-photos.md]] DoorDash&#8217;s new AI chatbot lets you order with prompts and photos `pillar:patterns` `score:0.48`
 - [[duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search.md]] DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Sea `pillar:patterns` `score:0.515`
 - [[dynamic-workflows-in-claude-code.md]] Dynamic Workflows in Claude Code `pillar:patterns` `score:0.55`
 - [[ethos-raises-2275m-from-a16z-for-its-expert-netw.md]] Ethos raises $22.75M from a16z for its expert network with voice onboarding `pillar:patterns` `score:0.3`

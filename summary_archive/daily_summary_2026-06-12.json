@@ -1,0 +1,80 @@
+{
+  "daily_summary": {
+    "date": "2026-06-12",
+    "headline": "今日 AI 情报 · 2026-06-12",
+    "overview": "AI自主能力与人类监督需求之间的张力加剧，意图驱动产品模式兴起",
+    "narratives": [
+      {
+        "title": "AI能力瓶颈凸显，人机协同成为产品设计核心",
+        "body": "多项情报显示，当前AI在复杂任务中频繁出错，导致员工需要大量时间“照看”AI，反而降低效率。这警示产品经理：盲目追求自动化会带来隐性成本，必须设计有效的人机协作机制，在自主执行与人工干预间找到平衡。",
+        "type": "bottleneck",
+        "pillar_key": "capabilities"
+      },
+      {
+        "title": "AI原生应用从单轮对话向多步自主执行演进",
+        "body": "DoorDash的意图驱动购物与长任务规划教程表明，AI产品正从简单的对话式交互转向能理解复杂意图、自主完成多步骤任务的代理模式。这将重塑用户操作路径，降低决策成本，但也对系统的可靠性和可维护性提出更高要求。",
+        "type": "maturation",
+        "pillar_key": "patterns"
+      }
+    ],
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI能力瓶颈凸显，人机协同成为产品设计核心",
+        "insight": "AI能力瓶颈凸显，人机协同成为产品设计核心。该方向的具体信号：员工每周平均花费6小时以上“照看”AI生成内容（ID:workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration），且过度依赖AI代码反而降低团队效率（ID:more-ai-generated-code-doesnt-make-your-team-faster-it-might-slow-you）。这些信号共同指向AI在复杂任务中仍存在可靠性与可维护性短板，产品经理需重新评估自动化边界，设计主动预警、自动纠错等机制来弥补能力不足。",
+        "evidence": [
+          {
+            "id": "workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration",
+            "title": "员工每周超6小时照看AI，加剧工作挫败感",
+            "score": 0.55
+          }
+        ]
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI原生应用从单轮对话向多步自主执行演进",
+        "insight": "AI原生应用从单轮对话向多步自主执行演进。该方向的具体信号：DoorDash推出Ask DoorDash聊天机器人，用户通过自然语言和图片直接下单，取代传统浏览模式（ID:doordash8217s-new-ai-chatbot-lets-you-order-with-prompts-and-photos）；同时有技术教程展示如何构建具备长任务规划能力的AI代理（ID:build-a-basic-ai-agent-from-scratch-long-task-planning）。这些案例表明，产品交互正从“被动响应”转向“主动理解意图并执行多步任务”，产品经理应关注如何将复杂业务拆解为可被代理执行的子任务，并设计可靠的反馈闭环。",
+        "evidence": [
+          {
+            "id": "doordash8217s-new-ai-chatbot-lets-you-order-with-prompts-and-photos",
+            "title": "DoorDash AI聊天机器人支持用提示和图片下单",
+            "score": 0.48
+          }
+        ]
+      }
+    ],
+    "stats": "技术能力: 4 | 产品模式: 2 | 工具生态: 0 | 商业趋势: 0",
+    "total_items": 6,
+    "high_value_count": 6,
+    "all_today_ids": [
+      {
+        "id": "workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration",
+        "label": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration"
+      },
+      {
+        "id": "why-ai-hasnt-replaced-software-engineers-and-wont",
+        "label": "Why AI hasn't replaced software engineers, and won't"
+      },
+      {
+        "id": "doordash8217s-new-ai-chatbot-lets-you-order-with-prompts-and-photos",
+        "label": "DoorDash&#8217;s new AI chatbot lets you order with prompts and photos"
+      },
+      {
+        "id": "pool8217s-new-app-turns-your-screenshots-into-something-useful",
+        "label": "Pool&#8217;s new app turns your screenshots into something useful"
+      },
+      {
+        "id": "build-a-basic-ai-agent-from-scratch-long-task-planning",
+        "label": "Build a Basic AI Agent from Scratch: Long Task Planning"
+      },
+      {
+        "id": "more-ai-generated-code-doesnt-make-your-team-faster-it-might-slow-you",
+        "label": "More AI-generated code doesn't make your team faster. It might slow you"
+      }
+    ],
+    "date_bj": "2026-06-12 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-06-12 00:04:08"
+  }
+}

@@ -1716,3 +1716,11 @@
 - create: deficient-executive-control-in-transformer-attention.md
 - create: the-road-to-the-wasm-component-model-10.md
 - create: opendoor8217s-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourci.md
+
+## [2026-06-12 00:04] sync v3 | 6 new | pillars: {'capabilities': 4, 'patterns': 2}
+- create: workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration.md
+- create: build-a-basic-ai-agent-from-scratch-long-task-planning.md
+- create: why-ai-hasnt-replaced-software-engineers-and-wont.md
+- create: more-ai-generated-code-doesnt-make-your-team-faster-it-might-slow-you.md
+- create: pool8217s-new-app-turns-your-screenshots-into-something-useful.md
+- create: doordash8217s-new-ai-chatbot-lets-you-order-with-prompts-and-photos.md

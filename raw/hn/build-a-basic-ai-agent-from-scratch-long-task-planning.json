@@ -1,0 +1,25 @@
+{
+  "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
+  "score": 101,
+  "comments": 41,
+  "url": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
+  "hn_url": "https://news.ycombinator.com/item?id=48461635",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent",
+    "planning"
+  ],
+  "summary_cn": "本文介绍从零构建基础AI代理实现长任务规划的技术方法，重点讲解如何将复杂任务分解为可执行的子步骤、使用规划算法维护长期上下文，以及处理执行过程中的环境反馈和动态调整。对于AI产品经理，这体现了代理能力从单轮对话向自主多步操作的关键演进，可应用于自动化工作流、复杂问题求解等场景。商业上，降低了对大模型推理能力的依赖，使轻量级代理能承担更多实际业务任务，提升产品智能度和用户粘性。",
+  "pm_relevance": 7,
+  "concepts": [
+    "AI Agent",
+    "任务规划",
+    "长期上下文"
+  ],
+  "entities": [],
+  "patterns": [
+    "AI Agent模式",
+    "任务分解模式"
+  ]
+}
