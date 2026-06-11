@@ -1,0 +1,35 @@
+{
+  "title": "Context-Driven Incremental Compression for Multi-Turn Dialogue Generation",
+  "summary": "Modern conversational agents condition on an ever-growing dialogue history at each turn, incurring redundant attention and encoding costs that grow with conversation length. Naive truncation or summarization degrades fidelity, while existing context compressors lack cross-turn memory sharing or revision, causing information loss and compounding errors in long dialogues. We revisit the context compression under conversational dynamics and empirically present its fragility. To improve both efficiency and robustness, we introduce Context-Driven Incremental Compression (C-DIC), which treats a conversation as interleaved contextual threads and stores revisable per-thread compression states in a single, compact dialogue memory. At each turn, a lightweight retrieve, revise, and write-back loop shares information across turns and updates stale memories, stabilizing long-horizon behavior. In addition, we adapt truncated backpropagation-through-time (TBPTT) to our multi-turn setting, learning cross-turn dependencies without full-history backpropagation. Extensive experiments on long-form dialogue benchmarks demonstrate superior performance and efficiency of C-DIC; notably, C-DIC shows stable inference latency and perplexity over hundreds of dialogue turns, supporting a scalable path to high-quality dialogue modeling.",
+  "url": "http://arxiv.org/abs/2606.12411v1",
+  "authors": [
+    "Yeongseo Jung",
+    "Jaehyeok Kim",
+    "Eunseo Jung",
+    "Jiachuan Wang",
+    "Yongqi Zhang"
+  ],
+  "published": "2026-06-10T17:59:54Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "latency",
+    "inference",
+    "benchmark",
+    "vision",
+    "compression",
+    "attention"
+  ],
+  "summary_cn": "针对多轮对话中对话历史不断增长导致的冗余计算问题，本文提出上下文驱动的增量压缩方法。该方法通过跨轮记忆共享与增量更新机制，避免对完整历史重复编码，从而降低注意力和编码成本，同时保持高保真度。相比传统的截断或摘要方式，该方案能在不牺牲对话质量的前提下显著提升长对话的处理效率，对降低对话系统推理成本、支持更长的交互历史具有重要商业价值。",
+  "pm_relevance": 8,
+  "concepts": [
+    "增量压缩",
+    "跨轮记忆共享",
+    "长上下文处理"
+  ],
+  "entities": [],
+  "patterns": [
+    "Incremental Context Compression",
+    "Memory Sharing"
+  ]
+}

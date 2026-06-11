@@ -1,0 +1,32 @@
+{
+  "title": "FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning",
+  "summary": "Contact-rich manipulation requires force sensitivity, but many robot arms lack dedicated force sensors due to their high cost. We present Neural External Torque Estimation (NEXT), a data-driven method that estimates external joint torques without needing any dedicated force sensors. NEXT trains in 1 minute from only 10 minutes of free-motion data, yet achieves estimates comparable to dedicated joint-torque sensors. NEXT enables force-feedback teleoperation on low-cost arms and improves policy learning through Force-Informed Re-Sampling Training (FIRST), which up-samples pre-contact and contact segments during behavior cloning. Across five long-horizon tasks, FIRST outperforms prior force-aware policies by over 17% in task progress. Together, NEXT and FIRST bring force-aware teleoperation and policy learning to off-the-shelf robots without additional sensing hardware. Video results and code are available at https://jasonjzliu.com/factr2",
+  "url": "http://arxiv.org/abs/2606.12406v1",
+  "authors": [
+    "Steven Oh",
+    "Jason Jingzhou Liu",
+    "Tony Tao",
+    "Philip Han",
+    "Kenneth Shaw"
+  ],
+  "published": "2026-06-10T17:59:35Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training"
+  ],
+  "summary_cn": "FACTR 2提出了一种名为NEXT的数据驱动方法，无需专用力传感器即可估计机器人关节外部力矩，从而为低成本机械臂赋予力敏感操控能力。该方法通过训练神经网络从已有信号中学习外力，显著降低接触丰富的操作任务的硬件门槛，提升策略学习效果。对于AI产品经理，这意味着可以大幅降低机器人系统的传感器成本，推动力控技术在消费级和工业级机器人中的普及，加速精细化操作（如装配、抓取）的产品落地。",
+  "pm_relevance": 8,
+  "concepts": [
+    "力敏感操控",
+    "数据驱动力矩估计",
+    "低成本机器人学习"
+  ],
+  "entities": [
+    "FACTR"
+  ],
+  "patterns": [
+    "机器人感知增强",
+    "低成本传感器替代"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models",
+  "summary": "Vision-language models (VLMs) project images into hundreds to thousands of visual tokens, making decoder inference expensive in both attention computation and KV-cache memory. Existing visual-token reduction methods largely follow a rank-and-remove paradigm: they score visual tokens, keep a compact subset, and permanently discard the rest. We show that this irreversible action is fragile because visual-token importance changes across decoder depth; tokens ranked low at one stage may become relevant in later layers, especially for grounding-sensitive queries. We propose Reroute, a training-free plug-in that replaces removal with recoverable routing. At each routing stage, selected vision tokens pass through decoder blocks, while deferred tokens bypass the stage and re-enter the candidate pool at the next routing decision. Reroute reuses existing attention-score ranking rules and stage-wise schedules, preserving the theoretical TFLOPs and KV-cache budget class of the pruning method it augments. Across FastV, PDrop, and Nüwa variants on LLaVA-1.5 and Qwen backbones, reroute improves grounding under aggressive token reduction while maintaining general VQA performance. These results suggest that VLM token reduction should not be viewed only as irreversible pruning, but also as recoverable routing. The code can be found here: https://github.com/elmma/mllm-reroute/",
+  "url": "http://arxiv.org/abs/2606.12412v1",
+  "authors": [
+    "Cheng-Yu Yang",
+    "Shao-Yuan Lo",
+    "Yu-Lun Liu"
+  ],
+  "published": "2026-06-10T17:59:57Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "token",
+    "vision",
+    "training",
+    "attention"
+  ],
+  "summary_cn": "本文提出一种可恢复的视觉token路由方法（Reroute, Don’t Remove），旨在解决视觉语言模型（VLM）中大量视觉token导致解码器注意力计算和KV缓存开销过高的问题。传统方法采用“评分并移除”的范式，永久丢弃低分token，可能损失关键信息。新方法允许token被暂时路由到低优先级路径，后续仍可恢复参与推理，从而在保证模型性能的同时大幅降低计算和内存成本。该技术有助于VLM在资源受限设备（如手机、边缘设备）上高效运行，降低部署成本，提升实时交互体验，对商用多模态AI产品具有显著价值。",
+  "pm_relevance": 8,
+  "concepts": [
+    "视觉Token缩减",
+    "可恢复路由",
+    "KV缓存优化"
+  ],
+  "entities": [],
+  "patterns": [
+    "Token Reduction Pattern",
+    "Efficient Inference Pattern"
+  ]
+}

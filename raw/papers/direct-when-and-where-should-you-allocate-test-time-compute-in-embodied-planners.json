@@ -1,0 +1,32 @@
+{
+  "title": "DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?",
+  "summary": "Vision-Language Models (VLMs) are increasingly deployed as high-level planners for embodied agents, with an emerging strategy of scaling test-time compute to improve capability. However, we observe that doing so increases latency, token usage, and FLOPs while yielding uneven, often diminishing gains in downstream success, limiting where embodied agents can be deployed. We argue that choosing when and where to spend test-time compute is central to bringing frontier performance to the real world. We introduce DIRECT, a routing framework that uses multimodal scene context to allocate compute per prompt, improving the success--cost Pareto frontier over fixed model selection. Across three dominant scaling axes, namely chain-of-thought depth, model size, and memory history, our experiments on VLABench and RoboMME show that test-time compute is not a uniform lever: different axes yield qualitatively distinct capability gains. We validate these insights on a physical Franka arm in a DROID setup spanning zero-shot manipulation and long-horizon chaining, where our router matches or exceeds a stronger model's success rate at up to 65% lower average latency. Ultimately, our results show that naively scaling test-time compute is wasteful, and that DIRECT can provide frontier-level embodied planning in robotic systems at a fraction of the cost. Project page can be found at jadee-dao.github.io/direct/.",
+  "url": "http://arxiv.org/abs/2606.12402v1",
+  "authors": [
+    "Jadelynn Dao",
+    "Milan Ganai",
+    "Yasmina Abukhadra",
+    "Ajay Sridhar",
+    "Mozhgan Nasr Azadani"
+  ],
+  "published": "2026-06-10T17:58:49Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "latency",
+    "token",
+    "multimodal",
+    "vision"
+  ],
+  "summary_cn": "该论文探讨了视觉语言模型作为具身智能体高层规划器时，测试时计算资源分配策略的利弊。研究发现，虽然增加测试时计算能提升规划能力，但会导致延迟上升、Token消耗和FLOPs增加，且收益呈递减趋势。对产品经理的启示：在追求模型能力的同时需平衡成本效率，避免过度投入测试时计算。论文为具身智能体的部署提供了优化方向，强调在何时何处分配计算资源最为关键。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Test-Time Compute",
+    "Embodied Planning",
+    "Vision-Language Model"
+  ],
+  "entities": [],
+  "patterns": [
+    "Test-Time Compute Scaling"
+  ]
+}

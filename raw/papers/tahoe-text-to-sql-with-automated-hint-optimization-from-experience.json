@@ -1,0 +1,31 @@
+{
+  "title": "TAHOE: Text-to-SQL with Automated Hint Optimization from Experience",
+  "summary": "Large Language Models (LLMs) have democratized database access through Text-to-SQL, but moving from prototypes to production remains difficult. Real deployments must handle strict SQL dialects, massive schemas, and evolving user preferences, while supervised fine-tuning is costly and rigid and agentic test-time scaling is expensive. We present Tahoe, a system that treats prompt optimization as a dynamic data management problem. Tahoe uses an error-driven hint learning pipeline across Development and Deployment to consolidate debugging traces into a structured Hint Bank. Compiler feedback is distilled into reusable Syntax Hints for dialect-specific rules, while execution and user feedback are converted into Semantic Hints for schema- and user-specific logic. Tahoe further introduces a Strategy Layer that models conflicting user intents as competing strategies under shared natural-language triggers, with recency signals and post-learning attribution statistics that summarize empirical success, harm, inertness, and support. At inference time, Tahoe retrieves relevant hints and guides the LLM through Logic Planning followed by SQL Synthesis. We implement and evaluate the development-phase workflow, leaving deployment-time human-feedback updates for future work. On Spider 2.0-Snow, Tahoe substantially improves Text-to-SQL without updating model parameters. On 113 supervised Spider 2.0-Snow-0212 examples using GPT-5.5, Tahoe raises pass rate from 61.95 percent to 79.42 percent and pass-at-4 from 72.57 percent to 87.61 percent, achieves 100 percent Snowflake syntax pass rate, and reduces average compiler-feedback critic rounds from 2.79 to 0.12 per sampled candidate. The same Hint Bank also transfers to weaker backbones, including a 19.7 percentage-point pass-rate gain on Doubao-2.0-lite.",
+  "url": "http://arxiv.org/abs/2606.12387v1",
+  "authors": [
+    "Zhiyi Chen",
+    "Jie Song",
+    "Peng Li"
+  ],
+  "published": "2026-06-10T17:52:15Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "fine-tuning",
+    "parameter",
+    "optimization"
+  ],
+  "summary_cn": "该论文针对Text-to-SQL从原型到生产的挑战，提出自动提示优化（Automated Hint Optimization）方法，无需昂贵的监督微调，即可让LLM适应严格的SQL方言、大规模Schema和用户偏好变化。通过从过往经验中自动学习并优化提示，系统能够在不同场景下持续提升SQL生成准确率，降低部署与维护成本。商业价值在于提供灵活、低成本的数据库交互方案，产品创新体现为将提示工程自动化并融入反馈循环，使AI在复杂生产环境中自我进化。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Text-to-SQL",
+    "Hint Optimization",
+    "Experience-Driven"
+  ],
+  "entities": [],
+  "patterns": [
+    "Prompt Engineering Automation",
+    "SQL Generation"
+  ]
+}

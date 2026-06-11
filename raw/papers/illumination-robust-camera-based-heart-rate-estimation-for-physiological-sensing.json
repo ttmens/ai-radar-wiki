@@ -1,0 +1,30 @@
+{
+  "title": "Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological Sensing in Robots",
+  "summary": "Physiological awareness is important for service, social, and assistive robots that interact with humans in everyday environments. Remote photoplethysmography (rPPG) enables non-contact heart-rate (HR) estimation from an RGB camera, making it a promising sensing modality for robot-mounted vision systems. However, illumination variation remains a major barrier to robust deployment. This paper presents an end-to-end spatial-temporal transformer framework for remote HR estimation on a new dataset with varied illumination. Our estimator integrates PRNet-based 3D face alignment, clip-level illumination augmentation, the Residual Temporal Standardization Module, and controlled hybrid temporal-frequency supervision. The training objective combines a Soft-Shifted Pearson waveform loss with a spectral Kullback-Leibler divergence loss, where a tuned weight ($\\mathbfβ$) controls the contribution of frequency-domain heart-rate guidance. Experiments on a static all-level mix protocol covering three illumination levels show that $\\mathbfβ=5$ provides the strongest result among the tested beta settings, achieving a best-run HR mean absolute error (MAE) of 0.79 bpm and an HR correlation of 0.982. Compared with the PhysFormer baseline evaluated on our dataset, our estimator reduces HR MAE by 93.6 %, while increasing HR correlation from 0.088 to 0.982, making it usable when illumination varies.",
+  "url": "http://arxiv.org/abs/2606.12378v1",
+  "authors": [
+    "Zhi Wei Xu",
+    "Torbjörn E. M. Nordling"
+  ],
+  "published": "2026-06-10T17:42:31Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision",
+    "training",
+    "transformer",
+    "dataset"
+  ],
+  "summary_cn": "本文提出一种光照鲁棒的摄像头心率估计方法，用于机器人的生理感知。基于远程光电容积描记术（rPPG），仅需普通RGB摄像头即可非接触地监测人类心率，克服了光照变化对精度的影响。该技术可集成到服务、社交或辅助机器人中，使机器人感知用户生理状态，从而优化交互、检测压力或健康异常。商业价值在于为机器人提供低成本、易部署的生理感知能力，推动人机协作与健康监护产品的创新。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Remote Photoplethysmography (rPPG)",
+    "Non-contact Heart Rate Estimation",
+    "Robot Physiological Sensing"
+  ],
+  "entities": [],
+  "patterns": [
+    "非接触生理传感",
+    "机器人感知增强"
+  ]
+}

@@ -1688,3 +1688,24 @@
 - create: fresh-off-bond-sale-amazon-borrows-175b-from-banks-as-ai-spending-continues.md
 - create: ai-pilled-firms-spend-7500-per-employee-each-month-on-ai.md
 - create: how-memory-tools-can-make-ai-models-worse.md
+
+## [2026-06-11 12:02] sync v3 | 19 new | pillars: {'capabilities': 16, 'patterns': 2, 'business': 1}
+- create: reroute-dont-remove-recoverable-visual-token-routing-for-vision-language-models.md
+- create: context-driven-incremental-compression-for-multi-turn-dialogue-generation.md
+- create: factr-2-learning-external-force-sensing-for-commodity-robot-arms-improves-policy.md
+- create: direct-when-and-where-should-you-allocate-test-time-compute-in-embodied-planners.md
+- create: redesign-mixture-of-experts-routers-with-manifold-power-iteration.md
+- create: system-report-for-ccl25-eval-task-5-new-dataset-and-lora-fine-tuned-qwen25.md
+- create: tahoe-text-to-sql-with-automated-hint-optimization-from-experience.md
+- create: atlas-active-theory-learning-for-automated-science.md
+- create: appo-agentic-procedural-policy-optimization.md
+- create: spea2-improved-density-estimation-in-spea2-with-provable-runtime-guarantees.md
+- create: illumination-robust-camera-based-heart-rate-estimation-for-physiological-sensing.md
+- create: uniintervene-agentic-intervention-for-efficient-real-world-reinforcement-learnin.md
+- create: ai-agent-runs-amok-in-fedora-and-elsewhere.md
+- create: cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable.md
+- create: anthropic-requires-30-day-data-retention-for-fable-and-mythos.md
+- create: klondike-solitaire-game-for-curses-in-5k-of-c.md
+- create: policy-on-the-ai-exponential.md
+- create: anthropic8217s-dario-amodei-has-just-one-direct-report.md
+- create: xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims.md
