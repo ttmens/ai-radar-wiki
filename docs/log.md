@@ -1709,3 +1709,10 @@
 - create: policy-on-the-ai-exponential.md
 - create: anthropic8217s-dario-amodei-has-just-one-direct-report.md
 - create: xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims.md
+
+## [2026-06-11 18:04] sync v3 | 5 new | pillars: {'capabilities': 5}
+- create: pokémon-go-scans-trained-the-navigation-tech-for-military-drones.md
+- create: macaroni-a-single-html-file-messenger.md
+- create: deficient-executive-control-in-transformer-attention.md
+- create: the-road-to-the-wasm-component-model-10.md
+- create: opendoor8217s-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourci.md

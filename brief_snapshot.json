@@ -1,7 +1,7 @@
 {
   "date": "2026-06-11",
-  "generated_at": "2026-06-11T12:02:15.989593+08:00",
-  "item_count": 39,
+  "generated_at": "2026-06-11T18:04:53.501110+08:00",
+  "item_count": 43,
   "items": [
     {
       "id": "cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable",
@@ -34,6 +34,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48479452",
+      "date": "2026-06-11"
+    },
+    {
+      "id": "pokémon-go-scans-trained-the-navigation-tech-for-military-drones",
+      "label": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+      "summary": "《宝可梦Go》玩家扫描的地理数据被用于训练军用无人机导航系统。该技术利用众包收集的海量街景和地标信息，通过迁移学习优化无人机在复杂环境中的自主定位与避障能力。商业价值在于以极低成本获取高覆盖度训练数据，打破了传统军事AI依赖专用数据采集的瓶颈。产品创新体现在将娱乐游戏产生的用户行为数据跨界应用于国防领域，展示了数据复用与场景扩展的潜力。",
+      "pm_score": 0.58,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48487029",
       "date": "2026-06-11"
     },
     {
@@ -268,6 +279,17 @@
       "date": "2026-06-11"
     },
     {
+      "id": "opendoor8217s-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourci",
+      "label": "Opendoor&#8217;s India exit is fueling a bigger conversation about AI and outsou",
+      "summary": "Opendoor退出印度市场引发了关于AI与外包的更大讨论。随着印度成为全球最大的全球能力中心（GCC）市场，AI技术正在重塑传统外包模式。AI产品经理需关注：AI如何替代或增强外包服务，自动化对人力成本优势的冲击，以及GCC如何利用AI提升内部效率。这提示产品经理在全球化布局中应优先考虑AI驱动的解决方案，而非单纯依赖低成本劳动力。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+      "date": "2026-06-11"
+    },
+    {
       "id": "xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims",
       "label": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
       "summary": "前xAI工程师起诉公司及SpaceX，指控因在SpaceX历史性IPO前数日对Grok AI模型的安全问题提出警告而被解雇。此案凸显了快速商业化过程中AI安全内部告警机制缺失的风险，以及企业如何平衡上市压力与产品责任。对产品经理而言，这警告了在AI产品快速迭代时需建立透明的安全反馈流程，避免因压制内控导致法律与声誉危机，同时关注公司治理对产品长期发展的影响。",
@@ -312,6 +334,17 @@
       "date": "2026-06-11"
     },
     {
+      "id": "the-road-to-the-wasm-component-model-10",
+      "label": "The Road to the WASM Component Model 1.0",
+      "summary": "WASM组件模型1.0路线图旨在标准化WebAssembly组件的互操作机制，使不同语言编写的AI模块（如推理引擎、预处理管线）能无缝组合，提升跨平台可移植性。该模型支持沙箱化部署，降低集成成本，对边缘AI、微服务化AI产品具有重要技术支撑价值。",
+      "pm_score": 0.375,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48448083",
+      "date": "2026-06-11"
+    },
+    {
       "id": "spea2-improved-density-estimation-in-spea2-with-provable-runtime-guarantees",
       "label": "SPEA2$^+$: Improved Density Estimation in SPEA2 with Provable Runtime Guarantees",
       "summary": "本文提出SPEA2+，一种改进的强度帕累托进化算法2（SPEA2），通过改进密度估计方法并提供可证明的运行时间保证，解决了多目标优化问题。对于AI产品经理，该研究提升了进化算法在复杂多目标场景下的效率与理论可靠性，可应用于推荐系统、资源分配等需要平衡多个目标的商业场景，降低计算成本并提高决策质量。",
@@ -320,6 +353,17 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2606.12382v1",
+      "date": "2026-06-11"
+    },
+    {
+      "id": "macaroni-a-single-html-file-messenger",
+      "label": "Macaroni – a single HTML file messenger",
+      "summary": "Macaroni 是一个仅用单个 HTML 文件实现的轻量级即时通讯工具，无需后端服务器或复杂依赖，可自托管使用。技术核心在于将完整的前端交互、数据存储和通信逻辑封装在单一文件中，实现极简部署与高可移植性。商业价值体现在降低隐私通讯门槛，适合对数据安全敏感的小团队或个人；产品创新在于通过极简架构颠覆传统消息应用的臃肿体验，可快速分享给任意用户。对 AI 产品经理而言，该案例展示了极端封装与去中心化设计的可行性，但缺乏 AI 原生特性，相关性中等。",
+      "pm_score": 0.36,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48486944",
       "date": "2026-06-11"
     },
     {
@@ -434,7 +478,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1447,
-    "edges": 124775
+    "real_nodes": 1452,
+    "edges": 126228
   }
 }
