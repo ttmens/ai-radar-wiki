@@ -1,0 +1,100 @@
+{
+  "daily_summary": {
+    "date": "2026-06-13",
+    "headline": "今日 AI 情报 · 2026-06-13",
+    "overview": "AI产品能力提升与商业化加速，但伦理与信任挑战凸显",
+    "narratives": [
+      {
+        "title": "AI产品进入效率与信任的双重博弈阶段",
+        "body": "今日情报显示，AI在编码、邮件等领域显著提升效率（Kimi开源模型、邮件智能处理），同时商业化加速（MANGOS IPO热、SpaceX IPO），但Ryanair的黑暗UX模式警示产品设计不可牺牲信任换取短期指标。产品经理需在追求性能与资本化过程中，平衡效率与用户伦理，强化数据控制和透明度。",
+        "type": "paradigm_shift",
+        "pillar_key": "patterns"
+      }
+    ],
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI产品进入效率与信任的双重博弈阶段",
+        "insight": "AI产品进入效率与信任的双重博弈阶段。该方向的具体信号：Kimi K2.7-Code以更优token效率降低推理成本，邮件AI智能摘要提升生产力，均指向AI从可用走向高效，但效率红利需与用户信任同步构建。",
+        "evidence": [
+          {
+            "id": "kimi-k27-code-open-source-coding-model-with-better-token-efficiency",
+            "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+            "score": 0.6
+          }
+        ]
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI产品进入效率与信任的双重博弈阶段",
+        "insight": "AI产品进入效率与信任的双重博弈阶段。该方向的具体信号：Ryanair黑暗UX模式强制捆绑保险、隐藏取消选项，虽提升短期转化但侵蚀长期信任，AI产品经理必须警惕在对话、推荐中植入类似操纵性交互，坚持透明度与伦理审查。",
+        "evidence": [
+          {
+            "id": "ryanair-dark-ux-patterns-summer-2026-refresher",
+            "title": "Ryanair dark UX patterns summer 2026 refresher",
+            "score": 0.55
+          }
+        ]
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "AI产品进入效率与信任的双重博弈阶段",
+        "insight": "AI产品进入效率与信任的双重博弈阶段。该方向的具体信号：用户针对Claude Web UI开发批量删除脚本，暴露原生产品在数据管理上的缺失，提示产品经理应内置批量操作、回收站或自动归档功能，以增强用户对数据主权和隐私的信任。",
+        "evidence": [
+          {
+            "id": "show-hn-script-to-bulk-delete-claude-chats-from-the-web-ui",
+            "title": "Show HN: Script to bulk delete Claude chats from the web UI",
+            "score": 0.29
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI产品进入效率与信任的双重博弈阶段",
+        "insight": "AI产品进入效率与信任的双重博弈阶段。该方向的具体信号：MANGOS（Meta/Microsoft、Anthropic、Nvidia、Google、OpenAI、SpaceX）取代FAANG成为新科技IPO势力，SpaceX IPO亦推动航天AI商业化，头部企业加速资本化，产品经理需关注垂直整合与跨行业协同带来的机会与竞争压力。",
+        "evidence": [
+          {
+            "id": "spacex-ipo-everything-you-need-to-know",
+            "title": "SpaceX IPO: Everything you need to know",
+            "score": 0.27
+          }
+        ]
+      }
+    ],
+    "stats": "技术能力: 2 | 产品模式: 1 | 工具生态: 1 | 商业趋势: 2",
+    "total_items": 6,
+    "high_value_count": 4,
+    "all_today_ids": [
+      {
+        "id": "kimi-k27-code-open-source-coding-model-with-better-token-efficiency",
+        "label": "Kimi K2.7-Code: open-source coding model with better token efficiency"
+      },
+      {
+        "id": "the-future-of-email",
+        "label": "The Future of Email"
+      },
+      {
+        "id": "ryanair-dark-ux-patterns-summer-2026-refresher",
+        "label": "Ryanair dark UX patterns summer 2026 refresher"
+      },
+      {
+        "id": "its-hot-ipo-summer-and-the-mangos-are-ripe",
+        "label": "It’s hot IPO summer, and the MANGOS are ripe"
+      },
+      {
+        "id": "show-hn-script-to-bulk-delete-claude-chats-from-the-web-ui",
+        "label": "Show HN: Script to bulk delete Claude chats from the web UI"
+      },
+      {
+        "id": "spacex-ipo-everything-you-need-to-know",
+        "label": "SpaceX IPO: Everything you need to know"
+      }
+    ],
+    "date_bj": "2026-06-13 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-06-13 00:01:39"
+  }
+}

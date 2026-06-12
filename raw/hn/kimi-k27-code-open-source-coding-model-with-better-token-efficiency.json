@@ -1,0 +1,26 @@
+{
+  "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+  "score": 257,
+  "comments": 126,
+  "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+  "hn_url": "https://news.ycombinator.com/item?id=48502347",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token"
+  ],
+  "summary_cn": "Kimi推出K2.7-Code开源编码模型，重点提升token效率，即用更少的token完成相同或更好的编码任务。对于AI产品经理而言，这意味着在推理成本、响应速度和上下文窗口利用上更有优势，尤其适合集成到代码助手、IDE插件等场景。开源属性降低了企业定制和部署门槛，可能推动更多开发工具采用该模型，形成生态竞争力。商业价值在于降低API调用成本、提升用户体验，并可通过本地部署满足数据安全需求。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Token效率",
+    "开源编码模型",
+    "模型成本优化"
+  ],
+  "entities": [
+    "Kimi"
+  ],
+  "patterns": [
+    "开源模型",
+    "编码助手"
+  ]
+}

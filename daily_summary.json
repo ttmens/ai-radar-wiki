@@ -1,257 +1,100 @@
 {
   "daily_summary": {
-    "date": "2026-06-12",
-    "headline": "今日 AI 情报 · 2026-06-12",
-    "overview": "AI自主代理爆发，失控风险与人机协作摩擦加剧，能力深化向专业推理演进。",
+    "date": "2026-06-13",
+    "headline": "今日 AI 情报 · 2026-06-13",
+    "overview": "AI产品能力提升与商业化加速，但伦理与信任挑战凸显",
     "narratives": [
       {
-        "title": "AI自主代理从实验走向应用，失控风险成为产品设计核心矛盾",
-        "body": "多款自主代理产品涌现（MindsDB、DoorDash意图驱动、EurekAgent自主科研、Claude Fable主动执行），但代理失控导致运营破产、员工需花费6小时监视AI、LLM在模拟中倾向使用核武器等信号表明，当前自主代理缺乏成本控制、安全护栏和人类监督机制。产品经理必须在追求自主性的同时嵌入预算限制、熔断机制、人工审批及显式护栏，否则将面临财务损失、用户信任危机和伦理风险。",
+        "title": "AI产品进入效率与信任的双重博弈阶段",
+        "body": "今日情报显示，AI在编码、邮件等领域显著提升效率（Kimi开源模型、邮件智能处理），同时商业化加速（MANGOS IPO热、SpaceX IPO），但Ryanair的黑暗UX模式警示产品设计不可牺牲信任换取短期指标。产品经理需在追求性能与资本化过程中，平衡效率与用户伦理，强化数据控制和透明度。",
         "type": "paradigm_shift",
         "pillar_key": "patterns"
-      },
-      {
-        "title": "AI能力深化：从语言理解到复杂推理与专业领域突破",
-        "body": "多项研究在类比推理、组合推理检测、科学知识编排、音乐识别、数学研究等方面取得进展，AI不再局限于对话生成，而是向需要深度结构性理解的复杂领域渗透。同时，员工照看AI的挫败感和AI未取代工程师的结论提醒：能力提升不等于自动化替代，人在复杂决策中的不可替代性依然存在。产品经理应聚焦于AI作为增强工具，在垂直场景中构建可验证、可解释的推理能力。",
-        "type": "maturation",
-        "pillar_key": "capabilities"
       }
     ],
     "insights": [
       {
-        "pillar": "📱 产品模式",
-        "pillar_key": "patterns",
-        "narrative_title": "AI自主代理从实验走向应用，失控风险成为产品设计核心矛盾",
-        "insight": "AI自主代理从实验走向应用，失控风险成为产品设计核心矛盾。该方向的具体信号：AI agent因无节制扫描导致运营破产（ID:1），凸显成本控制和安全边界缺失；员工每周花6小时‘照看AI’（ID:4），表明当前自主代理仍需大量人工干预；LLM在模拟中95%使用核武器（ID:14），警示缺乏安全约束的推理风险；而MindsDB开源可控代理（ID:3）、DoorDash意图驱动下单（ID:13）、EurekAgent自主科研（ID:16）、Claude Fable主动执行（ID:7）则代表了自主代理的产品化探索。产品经理需在自主性与可控性间寻找平衡，设计资源限制、人工监督和显式护栏。",
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI产品进入效率与信任的双重博弈阶段",
+        "insight": "AI产品进入效率与信任的双重博弈阶段。该方向的具体信号：Kimi K2.7-Code以更优token效率降低推理成本，邮件AI智能摘要提升生产力，均指向AI从可用走向高效，但效率红利需与用户信任同步构建。",
         "evidence": [
           {
-            "id": "ai-agent-bankrupted-their-operator-while-trying-to-scan-dn42",
-            "title": "AI agent bankrupted their operator while trying to scan DN42",
-            "score": 0.68
-          },
+            "id": "kimi-k27-code-open-source-coding-model-with-better-token-efficiency",
+            "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+            "score": 0.6
+          }
+        ]
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI产品进入效率与信任的双重博弈阶段",
+        "insight": "AI产品进入效率与信任的双重博弈阶段。该方向的具体信号：Ryanair黑暗UX模式强制捆绑保险、隐藏取消选项，虽提升短期转化但侵蚀长期信任，AI产品经理必须警惕在对话、推荐中植入类似操纵性交互，坚持透明度与伦理审查。",
+        "evidence": [
           {
-            "id": "mindsdbminds",
-            "title": "MindsDB Minds - open source AI agent",
-            "score": 0.58
-          },
-          {
-            "id": "doordash8217s-new-ai-chatbot-lets-you-order-with-prompts-and-photos",
-            "title": "DoorDash AI chatbot with prompts and photos",
-            "score": 0.48
-          },
-          {
-            "id": "eurekagent-agent-environment-engineering-is-all-you-need-for-autonomous-scientif",
-            "title": "EurekAgent for autonomous scientific discovery",
-            "score": 0.48
-          },
-          {
-            "id": "claude-fable-is-relentlessly-proactive",
-            "title": "Claude Fable is relentlessly proactive",
+            "id": "ryanair-dark-ux-patterns-summer-2026-refresher",
+            "title": "Ryanair dark UX patterns summer 2026 refresher",
             "score": 0.55
           }
         ]
       },
       {
-        "pillar": "🤖 技术能力",
-        "pillar_key": "capabilities",
-        "narrative_title": "AI能力深化：从语言理解到复杂推理与专业领域突破",
-        "insight": "AI能力深化：从语言理解到复杂推理与专业领域突破。该方向的具体信号：通过检索增强强化微调实现类比推理（ID:10）、Operadic一致性无标签检测组合推理失败（ID:17）、Agents-K1细粒度科学知识编排（ID:18）提升了推理可靠性；Deezer识别AI音乐（ID:12）、Pool截图智能整理（ID:19）、听觉训练自适应反馈（ID:20）展示了垂直场景能力；陶哲轩推动AI数学辅助（ID:15）和Prometheus物理AI（ID:9）标志着AI向科研工程渗透。但同时，Claude Fable 5编程中等结果（ID:11）、AI未取代工程师（ID:8）表明能力边界仍需理性看待。产品经理应关注可验证推理能力，尤其是组合推理检测和科学知识图谱，以降低产品风险并在专业领域构建竞争优势。",
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "AI产品进入效率与信任的双重博弈阶段",
+        "insight": "AI产品进入效率与信任的双重博弈阶段。该方向的具体信号：用户针对Claude Web UI开发批量删除脚本，暴露原生产品在数据管理上的缺失，提示产品经理应内置批量操作、回收站或自动归档功能，以增强用户对数据主权和隐私的信任。",
         "evidence": [
           {
-            "id": "operadic-consistency-a-label-free-signal-for-compositional-reasoning-failures-in",
-            "title": "Operadic consistency for compositional reasoning",
-            "score": 0.48
-          },
+            "id": "show-hn-script-to-bulk-delete-claude-chats-from-the-web-ui",
+            "title": "Show HN: Script to bulk delete Claude chats from the web UI",
+            "score": 0.29
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI产品进入效率与信任的双重博弈阶段",
+        "insight": "AI产品进入效率与信任的双重博弈阶段。该方向的具体信号：MANGOS（Meta/Microsoft、Anthropic、Nvidia、Google、OpenAI、SpaceX）取代FAANG成为新科技IPO势力，SpaceX IPO亦推动航天AI商业化，头部企业加速资本化，产品经理需关注垂直整合与跨行业协同带来的机会与竞争压力。",
+        "evidence": [
           {
-            "id": "agents-k1-towards-agent-native-knowledge-orchestration",
-            "title": "Agents-K1: Agent-native knowledge orchestration",
-            "score": 0.48
-          },
-          {
-            "id": "deezer8217s-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others",
-            "title": "Deezer AI music detection tool",
-            "score": 0.48
-          },
-          {
-            "id": "pool8217s-new-app-turns-your-screenshots-into-something-useful",
-            "title": "Pool app screenshots AI organizer",
-            "score": 0.45
-          },
-          {
-            "id": "jeff-bezos8217s-prometheus-raises-12b-to-build-an-8216artificial-general-enginee",
-            "title": "Prometheus $12B for physical AI engineer",
-            "score": 0.52
-          },
-          {
-            "id": "claude-fable-5-mid-tier-results-on-coding-tasks",
-            "title": "Claude Fable 5 mid-tier coding",
-            "score": 0.49
+            "id": "spacex-ipo-everything-you-need-to-know",
+            "title": "SpaceX IPO: Everything you need to know",
+            "score": 0.27
           }
         ]
       }
     ],
-    "stats": "技术能力: 15 | 产品模式: 4 | 工具生态: 0 | 商业趋势: 1",
-    "total_items": 20,
-    "high_value_count": 20,
+    "stats": "技术能力: 2 | 产品模式: 1 | 工具生态: 1 | 商业趋势: 2",
+    "total_items": 6,
+    "high_value_count": 4,
     "all_today_ids": [
       {
-        "id": "ai-agent-bankrupted-their-operator-while-trying-to-scan-dn42",
-        "label": "AI agent bankrupted their operator while trying to scan DN42"
+        "id": "kimi-k27-code-open-source-coding-model-with-better-token-efficiency",
+        "label": "Kimi K2.7-Code: open-source coding model with better token efficiency"
       },
       {
-        "id": "anthropic-apologizes-for-invisible-claude-fable-guardrails",
-        "label": "Anthropic apologizes for invisible Claude Fable guardrails"
+        "id": "the-future-of-email",
+        "label": "The Future of Email"
       },
       {
-        "id": "mindsdbminds",
-        "label": "mindsdb/minds"
+        "id": "ryanair-dark-ux-patterns-summer-2026-refresher",
+        "label": "Ryanair dark UX patterns summer 2026 refresher"
       },
       {
-        "id": "workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration",
-        "label": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration"
+        "id": "its-hot-ipo-summer-and-the-mangos-are-ripe",
+        "label": "It’s hot IPO summer, and the MANGOS are ripe"
       },
       {
-        "id": "openai-mulls-slashing-prices-as-it-competes-with-anthropic-for-users",
-        "label": "OpenAI mulls slashing prices as it competes with Anthropic for users"
+        "id": "show-hn-script-to-bulk-delete-claude-chats-from-the-web-ui",
+        "label": "Show HN: Script to bulk delete Claude chats from the web UI"
       },
       {
-        "id": "digital-sovereignty-becomes-an-imperative-as-the-us-reads-dutch-emails",
-        "label": "Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails"
-      },
-      {
-        "id": "claude-fable-is-relentlessly-proactive",
-        "label": "Claude Fable is relentlessly proactive"
-      },
-      {
-        "id": "why-ai-hasnt-replaced-software-engineers-and-wont",
-        "label": "Why AI hasn't replaced software engineers, and won't"
-      },
-      {
-        "id": "jeff-bezos8217s-prometheus-raises-12b-to-build-an-8216artificial-general-enginee",
-        "label": "Jeff Bezos&#8217;s Prometheus raises $12B to build an &#8216;artificial general"
-      },
-      {
-        "id": "learning-to-reason-by-analogy-via-retrieval-augmented-reinforcement-fine-tuning",
-        "label": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning"
-      },
-      {
-        "id": "claude-fable-5-mid-tier-results-on-coding-tasks",
-        "label": "Claude Fable 5: mid-tier results on coding tasks"
-      },
-      {
-        "id": "deezer8217s-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others",
-        "label": "Deezer&#8217;s new tool can identify AI music from Spotify, Apple Music, and oth"
-      },
-      {
-        "id": "doordash8217s-new-ai-chatbot-lets-you-order-with-prompts-and-photos",
-        "label": "DoorDash&#8217;s new AI chatbot lets you order with prompts and photos"
-      },
-      {
-        "id": "shall-we-play-a-game-llms-use-tactical-nukes-in-95-of-simulations",
-        "label": "Shall we play a game? – LLMs use tactical nukes in 95% of simulations"
-      },
-      {
-        "id": "how-terry-tao-became-an-evangelist-for-ai-in-math",
-        "label": "How Terry Tao became an evangelist for AI in math"
-      },
-      {
-        "id": "eurekagent-agent-environment-engineering-is-all-you-need-for-autonomous-scientif",
-        "label": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scienti"
-      },
-      {
-        "id": "operadic-consistency-a-label-free-signal-for-compositional-reasoning-failures-in",
-        "label": "Operadic consistency: a label-free signal for compositional reasoning failures i"
-      },
-      {
-        "id": "agents-k1-towards-agent-native-knowledge-orchestration",
-        "label": "Agents-K1: Towards Agent-native Knowledge Orchestration"
-      },
-      {
-        "id": "pool8217s-new-app-turns-your-screenshots-into-something-useful",
-        "label": "Pool&#8217;s new app turns your screenshots into something useful"
-      },
-      {
-        "id": "ear-training-practice-exercises",
-        "label": "Ear Training Practice Exercises"
-      },
-      {
-        "id": "build-a-basic-ai-agent-from-scratch-long-task-planning",
-        "label": "Build a Basic AI Agent from Scratch: Long Task Planning"
-      },
-      {
-        "id": "cheaper-faster-and-culturally-aware-avataar8217s-video-ai-is-built-for-india8217",
-        "label": "Cheaper, faster, and culturally aware, Avataar&#8217;s video AI is built for Ind"
-      },
-      {
-        "id": "spatialclaw-rethinking-action-interface-for-agentic-spatial-reasoning",
-        "label": "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning"
-      },
-      {
-        "id": "before-you-think-system-0-ai-mediated-cognition-and-cognitive-colonization",
-        "label": "Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization"
-      },
-      {
-        "id": "the-stable-recovery-manifold-geometric-principles-governing-recoverability-in-co",
-        "label": "The Stable Recovery Manifold: Geometric Principles Governing Recoverability in C"
-      },
-      {
-        "id": "automated-reproducibility-assessments-in-the-social-and-behavioral-sciences-usin",
-        "label": "Automated reproducibility assessments in the social and behavioral sciences usin"
-      },
-      {
-        "id": "skmteb-slovak-massive-text-embedding-benchmark-and-model-adaptation",
-        "label": "SkMTEB: Slovak Massive Text Embedding Benchmark and Model Adaptation"
-      },
-      {
-        "id": "dense-supervision-sparse-updates-on-the-sparsity-and-geometry-of-on-policy-disti",
-        "label": "Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Dis"
-      },
-      {
-        "id": "understanding-truncated-positional-encodings-for-graph-neural-networks",
-        "label": "Understanding Truncated Positional Encodings for Graph Neural Networks"
-      },
-      {
-        "id": "theker-just-raised-85m-to-build-the-factory-robot-that-doesn8217t-specialize-in",
-        "label": "Theker just raised $85M to build the factory robot that doesn&#8217;t specialize"
-      },
-      {
-        "id": "tailwind-and-slop-apps",
-        "label": "Tailwind and slop apps"
-      },
-      {
-        "id": "more-ai-generated-code-doesnt-make-your-team-faster-it-might-slow-you",
-        "label": "More AI-generated code doesn't make your team faster. It might slow you"
-      },
-      {
-        "id": "mana-dexterous-manipulation-of-articulated-tools",
-        "label": "Mana: Dexterous Manipulation of Articulated Tools"
-      },
-      {
-        "id": "mtg-bench-testing-how-well-llms-can-play-magic",
-        "label": "MTG Bench: Testing how well LLMs can play Magic"
-      },
-      {
-        "id": "how-a-new-dsl-may-survive-in-the-era-of-llms",
-        "label": "How a new DSL may survive in the era of LLMs"
-      },
-      {
-        "id": "spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever",
-        "label": "SpaceX officially prices shares at $135 in the largest IPO ever"
-      },
-      {
-        "id": "making-a-vintage-llm-from-scratch",
-        "label": "Making a vintage LLM from scratch"
-      },
-      {
-        "id": "a-jacket-that-harvests-drinking-water-from-the-air",
-        "label": "A jacket that harvests drinking water from the air"
-      },
-      {
-        "id": "spacex-spv-investors-won8217t-know-their-true-holdings-until-post-ipo-lock-ups-l",
-        "label": "SpaceX SPV investors won&#8217;t know their true holdings until post-IPO lock-up"
+        "id": "spacex-ipo-everything-you-need-to-know",
+        "label": "SpaceX IPO: Everything you need to know"
       }
     ],
-    "date_bj": "2026-06-12 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-06-12 18:01:50"
+    "date_bj": "2026-06-13 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-06-13 00:01:39"
   }
 }

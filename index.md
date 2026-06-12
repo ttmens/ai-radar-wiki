@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-12 | Total pages: 1510
+> Last updated: 2026-06-13 | Total pages: 1516
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -221,6 +221,7 @@
 - [[jingyaogongminimind-v.md]] jingyaogong/minimind-v `pillar:capabilities` `score:0.53`
 - [[jingyaogongminimind.md]] jingyaogong/minimind `pillar:capabilities` `score:0.545`
 - [[juliusbrusseecaveman.md]] JuliusBrussee/caveman `pillar:capabilities` `score:0.455`
+- [[kimi-k27-code-open-source-coding-model-with-better-token-efficiency.md]] Kimi K2.7-Code: open-source coding model with better token efficiency `pillar:capabilities` `score:0.6`
 - [[kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy.md]] Kiwibit’s AI-powered bird feeder is my new backyard buddy `pillar:capabilities` `score:0.445`
 - [[klondike-solitaire-game-for-curses-in-5k-of-c.md]] Klondike Solitaire game for curses in 5k of C `pillar:capabilities` `score:0.19`
 - [[korniakornia.md]] kornia/kornia `pillar:capabilities` `score:0.58`
@@ -395,6 +396,7 @@
 - [[the-art-of-hackingh4cker.md]] The-Art-of-Hacking/h4cker `pillar:capabilities` `score:0.58`
 - [[the-back-cover-of-c-the-language-raises-questions-not-answered-by-front-cover.md]] The back cover of C++: The Language raises questions not answered by front cover `pillar:capabilities` `score:0.185`
 - [[the-four-horsemen-of-the-llm-apocalypse.md]] The Four Horsemen of the LLM Apocalypse `pillar:capabilities` `score:0.33`
+- [[the-future-of-email.md]] The Future of Email `pillar:capabilities` `score:0.55`
 - [[the-greatest-shot-in-television-james-burke-had-o.md]] The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene `pillar:capabilities` `score:0.155`
 - [[the-history-of-prisencolinensinainciusol.md]] The History of "Prisencolinensinainciusol" `pillar:capabilities` `score:0.12`
 - [[the-intracies-of-modern-camera-lens-repair-2024.md]] The intracies of modern camera lens repair (2024) `pillar:capabilities` `score:0.22`
@@ -923,6 +925,7 @@
 - [[rsync-and-outrage.md]] Rsync and outrage `pillar:patterns` `score:0.31`
 - [[run-llamallama_index.md]] run-llama/llama_index `pillar:patterns` `score:0.405`
 - [[running-local-models-on-an-m4-with-24gb-memory.md]] Running local models on an M4 with 24GB memory `pillar:patterns` `score:0.355`
+- [[ryanair-dark-ux-patterns-summer-2026-refresher.md]] Ryanair dark UX patterns summer 2026 refresher `pillar:patterns` `score:0.55`
 - [[sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app.md]] Sesame, the conversational AI startup from Oculus founders, launches its iOS app `pillar:patterns` `score:0.48`
 - [[shanraisshanclaude-code-best-practice.md]] shanraisshan/claude-code-best-practice `pillar:patterns` `score:0.58`
 - [[shareai-lablearn-claude-code.md]] shareAI-lab/learn-claude-code `pillar:patterns` `score:0.405`
@@ -1167,6 +1170,7 @@
 - [[show-hn-insforge-open-source-heroku-for-coding-agents.md]] Show HN: InsForge – Open-source Heroku for coding agents `pillar:ecosystem` `score:0.295`
 - [[show-hn-macos-menu-bar-gauges-for-your-claude-code-quota.md]] Show HN: macOS menu bar gauges for your Claude Code quota `pillar:ecosystem` `score:0.31`
 - [[show-hn-papernews-self-hosted-daily-newspaper-pdf-for-your-remarkable.md]] Show HN: Papernews – self-hosted daily newspaper PDF for your reMarkable `pillar:ecosystem` `score:0.26`
+- [[show-hn-script-to-bulk-delete-claude-chats-from-the-web-ui.md]] Show HN: Script to bulk delete Claude chats from the web UI `pillar:ecosystem` `score:0.295`
 - [[show-hn-sx-an-open-source-package-manager-for-ai-skills-mcps-and-commands.md]] Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands `pillar:ecosystem` `score:0.33`
 - [[show-hn-torrix-self-hosted-llm-observabilityn.md]] Show HN: Torrix, self hosted, LLM Observability,(no Postgres, no Redis) `pillar:ecosystem` `score:0.155`
 - [[silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-p.md]] Silicon Valley’s vacationland needs a new energy provider just as AI is driving `pillar:ecosystem` `score:0.445`
@@ -1344,6 +1348,7 @@
 - [[israels-ai-targeting-system-how-data-from-a-phon.md]] Israel's AI targeting system: how data from a phone become a death sentence `pillar:business` `score:0.305`
 - [[it8217s-not-faang-anymore-it8217s-mangos.md]] It&#8217;s not FAANG anymore. It&#8217;s MANGOS. `pillar:business` `score:0.41`
 - [[italy-moves-to-airbus-a330-tankers.md]] Italy moves to Airbus A330 tankers `pillar:business` `score:0.335`
+- [[its-hot-ipo-summer-and-the-mangos-are-ripe.md]] It’s hot IPO summer, and the MANGOS are ripe `pillar:business` `score:0.445`
 - [[jensen-huang-says-he8217s-found-a-8216brand-new8217-200b-market-for-nvidia.md]] Jensen Huang says he&#8217;s found a &#8216;brand new&#8217; $200B market for Nv `pillar:business` `score:0.48`
 - [[justice-dept-is-said-to-open-criminal-inquiry-of-e-jean-carroll.md]] Justice Dept. Is Said to Open Criminal Inquiry of E. Jean Carroll `pillar:business` `score:0.085`
 - [[khosla-backed-robotics-startup-genesis-ai-has-gone.md]] Khosla-backed robotics startup Genesis AI has gone full stack, demo shows `pillar:business` `score:0.3`
@@ -1412,6 +1417,7 @@
 - [[sond-a-sleep-tech-startup-from-bose8217s-former-head-of-sleep-exits-stealth-with.md]] SOND, a sleep tech startup from Bose&#8217;s former head of sleep, exits stealth `pillar:business` `score:0.445`
 - [[south-korea8217s-letinar-is-building-optics-behind-ai-glasses.md]] South Korea&#8217;s LetinAR is building optics behind AI glasses `pillar:business` `score:0.48`
 - [[spacex-files-to-go-public-and-the-math-requires-a-little-faith.md]] SpaceX files to go public, and the math requires a little faith `pillar:business` `score:0.305`
+- [[spacex-ipo-everything-you-need-to-know.md]] SpaceX IPO: Everything you need to know `pillar:business` `score:0.27`
 - [[spacex-may-spend-up-to-119b-on-8216terafab82.md]] SpaceX may spend up to $119B on &#8216;Terafab&#8217; chip factory in Texas `pillar:business` `score:0.1`
 - [[spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever.md]] SpaceX officially prices shares at $135 in the largest IPO ever `pillar:business` `score:0.27`
 - [[spacex-spv-investors-won8217t-know-their-true-holdings-until-post-ipo-lock-ups-l.md]] SpaceX SPV investors won&#8217;t know their true holdings until post-IPO lock-up `pillar:business` `score:0.235`

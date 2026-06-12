@@ -1763,3 +1763,11 @@
 - create: digital-sovereignty-becomes-an-imperative-as-the-us-reads-dutch-emails.md
 - create: how-a-new-dsl-may-survive-in-the-era-of-llms.md
 - create: cheaper-faster-and-culturally-aware-avataar8217s-video-ai-is-built-for-india8217.md
+
+## [2026-06-13 00:01] sync v3 | 6 new | pillars: {'capabilities': 4, 'business': 1, 'patterns': 1}
+- create: the-future-of-email.md
+- create: kimi-k27-code-open-source-coding-model-with-better-token-efficiency.md
+- create: ryanair-dark-ux-patterns-summer-2026-refresher.md
+- create: its-hot-ipo-summer-and-the-mangos-are-ripe.md
+- create: spacex-ipo-everything-you-need-to-know.md
+- create: show-hn-script-to-bulk-delete-claude-chats-from-the-web-ui.md
