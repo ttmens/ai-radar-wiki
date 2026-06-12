@@ -1,0 +1,35 @@
+{
+  "title": "SkMTEB: Slovak Massive Text Embedding Benchmark and Model Adaptation",
+  "summary": "We introduce SkMTEB, the first comprehensive MTEB-style text embedding benchmark for Slovak, a low-resource West Slavic language, comprising 31 datasets across 7 task types -- nearly 4$\\times$ the depth of existing multilingual benchmark coverage for Slovak. Our evaluation of 31 embedding models reveals that large instruction-tuned multilingual models achieve the strongest performance, while existing Slovak-specific models trained for NLU tasks transfer poorly to embedding tasks. To address the need for efficient, locally-deployable Slovak embeddings, we develop \\texttt{e5-sk-small} (45M parameters) and \\texttt{e5-sk-large} (365M) by applying vocabulary trimming and fine-tuning to Multilingual E5 models. Despite size reductions of up to 62\\%, our open-source models achieve competitive performance with proprietary APIs while remaining locally deployable for semantic search and retrieval-augmented generation (RAG). We release the benchmark, models, datasets, and code openly, hoping our approach offers a replicable path for other under-resourced languages.",
+  "url": "http://arxiv.org/abs/2606.13647v1",
+  "authors": [
+    "Marek Šuppa",
+    "Andrej Ridzik",
+    "Daniel Hládek",
+    "Natália Kňažeková",
+    "Viktória Ondrejová"
+  ],
+  "published": "2026-06-11T17:50:06Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "fine-tuning",
+    "embedding",
+    "parameter",
+    "dataset",
+    "retrieval"
+  ],
+  "summary_cn": "SkMTEB 是首个针对斯洛伐克语（低资源西斯拉夫语）的全面文本嵌入基准，包含31个数据集覆盖7种任务类型，评估了31个嵌入模型。该工作弥补了现有多语言基准对斯洛伐克语覆盖不足的问题，为低资源语言的 NLP 产品本地化提供了标准化评估框架。通过模型适配，可提升斯洛伐克语文本嵌入质量，帮助 AI 产品拓展中东欧市场，降低多语言部署成本与风险。",
+  "pm_relevance": 7,
+  "concepts": [
+    "文本嵌入基准",
+    "低资源语言",
+    "多语言NLP"
+  ],
+  "entities": [],
+  "patterns": [
+    "基准评估模式",
+    "模型适配"
+  ]
+}

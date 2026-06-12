@@ -1,0 +1,27 @@
+---
+title: Jeff Bezos&#8217;s Prometheus raises $12B to build an &#8216;artificial general 
+created: 2026-06-12
+updated: 2026-06-12
+type: entity
+pillar: capabilities
+pm_score: 0.515
+tags: ["news", "techcrunch", "capabilities"]
+sources: ["raw/techcrunch/jeff-bezos8217s-prometheus-raises-12b-to-build-an-8216artificial-general-enginee.json"]
+---
+
+# Jeff Bezos&#8217;s Prometheus raises $12B to build an &#8216;artificial general engineer&#8217; for the physical world
+
+## 中文摘要
+由杰夫·贝索斯支持的初创公司 Prometheus 获得 120 亿美元融资，估值达 410 亿美元，致力于开发面向物理世界的“通用人工工程师”。该公司专注于物理 AI，旨在自动化重型工程（如建筑、制造）和药物设计，通过 AI 代理直接操作物理环境，将复杂的工程任务转化为可编程的智能流程。其商业价值在于颠覆传统高成本、长周期的工程和制药行业，产品创新在于将大语言模型与机器人控制、仿真技术结合，实现从设计到执行的全链路自动化，为产品经理提供了从数字化服务转向实体产品智能化的新方向。
+
+## PM 关注指标
+- 🎯 PM Score: 0.515
+- 🏷️ Pillar: capabilities
+- 🔑 Keywords: 
+
+## 新闻摘要
+The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.
+
+## 链接
+- 🔗 Source: https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/
+- 📅 Published: Fri, 12 Jun 2026 01:04:38 +0000

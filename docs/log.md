@@ -1735,3 +1735,25 @@
 - create: spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever.md
 - create: spacex-spv-investors-won8217t-know-their-true-holdings-until-post-ipo-lock-ups-l.md
 - create: deezer8217s-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others.md
+
+## [2026-06-12 12:03] sync v3 | 20 new | pillars: {'patterns': 3, 'capabilities': 15, 'ecosystem': 2}
+- create: mindsdbminds.md
+- create: learning-to-reason-by-analogy-via-retrieval-augmented-reinforcement-fine-tuning.md
+- create: mana-dexterous-manipulation-of-articulated-tools.md
+- create: spatialclaw-rethinking-action-interface-for-agentic-spatial-reasoning.md
+- create: understanding-truncated-positional-encodings-for-graph-neural-networks.md
+- create: automated-reproducibility-assessments-in-the-social-and-behavioral-sciences-usin.md
+- create: agents-k1-towards-agent-native-knowledge-orchestration.md
+- create: eurekagent-agent-environment-engineering-is-all-you-need-for-autonomous-scientif.md
+- create: before-you-think-system-0-ai-mediated-cognition-and-cognitive-colonization.md
+- create: dense-supervision-sparse-updates-on-the-sparsity-and-geometry-of-on-policy-disti.md
+- create: operadic-consistency-a-label-free-signal-for-compositional-reasoning-failures-in.md
+- create: skmteb-slovak-massive-text-embedding-benchmark-and-model-adaptation.md
+- create: the-stable-recovery-manifold-geometric-principles-governing-recoverability-in-co.md
+- create: claude-fable-is-relentlessly-proactive.md
+- create: a-jacket-that-harvests-drinking-water-from-the-air.md
+- create: making-a-vintage-llm-from-scratch.md
+- create: mtg-bench-testing-how-well-llms-can-play-magic.md
+- create: tailwind-and-slop-apps.md
+- create: theker-just-raised-85m-to-build-the-factory-robot-that-doesn8217t-specialize-in.md
+- create: jeff-bezos8217s-prometheus-raises-12b-to-build-an-8216artificial-general-enginee.md

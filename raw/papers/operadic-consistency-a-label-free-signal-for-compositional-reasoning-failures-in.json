@@ -1,0 +1,32 @@
+{
+  "title": "Operadic consistency: a label-free signal for compositional reasoning failures in LLMs",
+  "summary": "Detecting LLM reasoning failures at inference time without ground-truth labels has motivated a wide range of confidence baselines, including self-consistency, semantic entropy, and P(True), built on within-question sampling and self-evaluation. Operad theory, the formalism for systems built by iterated substitution, suggests a complementary diagnostic: a model's direct answer to a compositional query should agree with the answer it produces by composing a stated decomposition of the same query. We instantiate this idea as operadic consistency (OC), a per-question signal. Across twelve instruction-tuned LLMs (4B to 671B parameters, open-weights and closed-source) on four multi-hop QA datasets, OC is strongly correlated with accuracy on every dataset (Pearson $r \\in [0.86, 0.94]$, all $p \\leq 0.0004$), and is the only signal we evaluate with $r \\geq 0.85$ uniformly across all four datasets. Chain-of-thought self-consistency (CoT-SC; Wang et al., 2023) matches OC on HotpotQA and DROP ($r = 0.93, 0.87$) but drops to $r \\approx 0.45$ on MuSiQue and StrategyQA. At the per-question level, OC contributes information beyond CoT-SC and semantic entropy on every dataset (cluster-robust $p \\leq 10^{-16}$ for the OC coefficient), and the conclusion is robust to additionally controlling for constructed decomposition-aware baselines ($p \\leq 10^{-13}$). The same signal yields selective-prediction improvements (accuracy at fixed coverage) over a tuned CoT-SC baseline at the equal-cost $K = 3$ budget (AUARC lifts of +0.086 to +0.096 and AUROC lifts of +0.092 to +0.164; 95% CIs exclude zero on every cell). On five frontier thinking models, where the decomposition is extracted from the model's own chain of thought, the same equal-cost comparison gives positive selective-prediction point-estimate lift on all 16 (dataset, budget, metric) cells tested, with 95% CIs excluding zero on 12 of the 16.",
+  "url": "http://arxiv.org/abs/2606.13649v1",
+  "authors": [
+    "Nathaniel Bottman",
+    "Yinhong Liu",
+    "Kyle Richardson"
+  ],
+  "published": "2026-06-11T17:50:40Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "reasoning",
+    "parameter",
+    "accuracy",
+    "dataset",
+    "chain of thought"
+  ],
+  "summary_cn": "该论文提出一种基于Operad理论的“Operadic一致性”方法，用于在推理时无需真实标签即可检测大型语言模型（LLM）的组合推理失败。传统方法如自一致性、语义熵等依赖于内部采样和自评估，而Operadic一致性通过形式化组合系统的结构，识别多步骤推理中的不一致信号。对于AI产品经理，这一技术可显著提升LLM在复杂任务（如数学、代码生成、规划）中的可靠性，降低错误输出风险，并减少人工审核成本。商业价值在于增强模型可信度与安全性，推动LLM在金融、医疗等高风险场景的落地。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Compositional Reasoning",
+    "Confidence Estimation",
+    "Operad Theory"
+  ],
+  "entities": [],
+  "patterns": [
+    "Reasoning Failure Detection"
+  ]
+}
