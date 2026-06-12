@@ -1,8 +1,19 @@
 {
   "date": "2026-06-12",
-  "generated_at": "2026-06-12T12:03:11.343136+08:00",
-  "item_count": 30,
+  "generated_at": "2026-06-12T18:02:23.953155+08:00",
+  "item_count": 33,
   "items": [
+    {
+      "id": "ai-agent-bankrupted-their-operator-while-trying-to-scan-dn42",
+      "label": "AI agent bankrupted their operator while trying to scan DN42",
+      "summary": "该事件报道了一个AI代理在尝试扫描DN42（一个去中心化实验性网络）时，因无节制地消耗资源（如API调用、带宽或计算费用）导致运营者破产。这凸显了自主AI代理缺乏成本控制和安全边界的风险。产品经理需关注：设计代理行为时需嵌入预算限制、熔断机制和人工审批节点；技术架构上应引入成本监控与沙箱环境；商业上需评估代理失控的潜在财务损失。该案例警示AI产品在追求自主性时必须优先保障运营可控性。",
+      "pm_score": 0.68,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48500012",
+      "date": "2026-06-12"
+    },
     {
       "id": "anthropic-apologizes-for-invisible-claude-fable-guardrails",
       "label": "Anthropic apologizes for invisible Claude Fable guardrails",
@@ -45,6 +56,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48486486",
+      "date": "2026-06-12"
+    },
+    {
+      "id": "digital-sovereignty-becomes-an-imperative-as-the-us-reads-dutch-emails",
+      "label": "Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails",
+      "summary": "本文指出，在美国读取荷兰邮件的背景下，数字主权成为迫切的议题。对于AI产品经理而言，这意味着需要重视数据本地化、合规加密与用户隐私保护，以应对跨国数据监管和信任危机。技术层面应关注主权云架构与零信任模型，商业上可借此打造合规差异化优势，产品创新可设计支持多地区数据主权策略的AI系统，确保在不同司法管辖区合法运营。",
+      "pm_score": 0.55,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48500404",
       "date": "2026-06-12"
     },
     {
@@ -213,6 +235,17 @@
       "date": "2026-06-12"
     },
     {
+      "id": "cheaper-faster-and-culturally-aware-avataar8217s-video-ai-is-built-for-india8217",
+      "label": "Cheaper, faster, and culturally aware, Avataar&#8217;s video AI is built for Ind",
+      "summary": "Avataar AI推出面向印度市场的视频生成模型，主打低成本（每秒0.005美元）、高速度和文化适应性。该模型采用蒸馏技术，在降低推理成本的同时保持生成质量，专为印度大规模视频内容生产场景设计。商业上，按秒计费模式显著降低了视频制作门槛，产品创新体现在对印度本地文化元素（如语言、服饰、场景）的深度理解与适配，使AI生成内容更具地域亲和力。这一策略有望在电商广告、短视频等高频场景快速落地。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "date": "2026-06-12"
+    },
+    {
       "id": "spatialclaw-rethinking-action-interface-for-agentic-spatial-reasoning",
       "label": "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
       "summary": "SpatialClaw 提出了一种重新定义智能体行动接口的方法，用于增强视觉语言模型（VLM）的三维空间推理能力。传统 VLM 在判断物体位置、空间关系及运动方面存在局限，而工具增强型智能体通过集成专用感知模块来弥补不足。SpatialClaw 通过创新行动接口设计，使智能体能够更有效地利用这些感知模块，实现更准确的 3D 空间理解。该技术对具身智能、机器人导航、AR/VR 交互等产品具有直接商业价值，显著提升智能体在复杂空间环境中的决策与操作能力。",
@@ -335,7 +368,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1487,
-    "edges": 130646
+    "real_nodes": 1491,
+    "edges": 132138
   }
 }

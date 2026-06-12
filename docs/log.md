@@ -1757,3 +1757,9 @@
 - create: tailwind-and-slop-apps.md
 - create: theker-just-raised-85m-to-build-the-factory-robot-that-doesn8217t-specialize-in.md
 - create: jeff-bezos8217s-prometheus-raises-12b-to-build-an-8216artificial-general-enginee.md
+
+## [2026-06-12 18:02] sync v3 | 4 new | pillars: {'patterns': 1, 'capabilities': 3}
+- create: ai-agent-bankrupted-their-operator-while-trying-to-scan-dn42.md
+- create: digital-sovereignty-becomes-an-imperative-as-the-us-reads-dutch-emails.md
+- create: how-a-new-dsl-may-survive-in-the-era-of-llms.md
+- create: cheaper-faster-and-culturally-aware-avataar8217s-video-ai-is-built-for-india8217.md

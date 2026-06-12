@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-12 | Total pages: 1506
+> Last updated: 2026-06-12 | Total pages: 1510
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -77,6 +77,7 @@
 - [[bun-rust-rewrite-codebase-fails-basic-miri-checks-allows-for-ub-in-safe-rust.md]] Bun Rust rewrite: "codebase fails basic miri checks, allows for UB in safe rust" `pillar:capabilities` `score:0.595`
 - [[buy-a-train-bridge-or-tracks-from-the-swiss-railway.md]] Buy a train, bridge or tracks from the Swiss Railway `pillar:capabilities` `score:0.305`
 - [[can-llms-beat-classical-hyperparameter-optimization-algorithms.md]] Can LLMs Beat Classical Hyperparameter Optimization Algorithms? `pillar:capabilities` `score:0.38`
+- [[cheaper-faster-and-culturally-aware-avataar8217s-video-ai-is-built-for-india8217.md]] Cheaper, faster, and culturally aware, Avataar&#8217;s video AI is built for Ind `pillar:capabilities` `score:0.445`
 - [[claude-ai-recovers-an-11-yrs-old-btc-wallet-holding-400k-usd.md]] Claude AI recovers an 11 yrs old BTC wallet holding 400k USD `pillar:capabilities` `score:0.48`
 - [[claude-code-and-codex-can-have-real-time-conversation-via-git.md]] Claude Code and Codex Can Have Real-Time Conversation via Git `pillar:capabilities` `score:0.515`
 - [[claude-code-everything-you-can-configure-that-the-docs-dont-tell-you.md]] Claude Code – Everything You Can Configure That the Docs Don't Tell You `pillar:capabilities` `score:0.43`
@@ -119,6 +120,7 @@
 - [[did-claude-increase-bugs-in-rsync.md]] Did Claude increase bugs in rsync? `pillar:capabilities` `score:0.63`
 - [[diffusiongemma-4x-faster-text-generation.md]] DiffusionGemma: 4x Faster Text Generation `pillar:capabilities` `score:0.615`
 - [[digg-tries-again-this-time-as-an-ai-news-aggregat.md]] Digg tries again, this time as an AI news aggregator `pillar:capabilities` `score:0.305`
+- [[digital-sovereignty-becomes-an-imperative-as-the-us-reads-dutch-emails.md]] Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails `pillar:capabilities` `score:0.55`
 - [[diy-bipedal-robot-used-pneumatic-air-muscles-instead-of-motors.md]] DIY Bipedal Robot Used Pneumatic "Air-Muscles" Instead of Motors `pillar:capabilities` `score:0.275`
 - [[do-transformers-need-three-projections-systematic-study-of-qkv-variants.md]] Do transformers need three projections? Systematic study of QKV variants `pillar:capabilities` `score:0.445`
 - [[docling-projectdocling.md]] docling-project/docling `pillar:capabilities` `score:0.615`
@@ -176,6 +178,7 @@
 - [[harvard-edgecs249r_book.md]] harvard-edge/cs249r_book `pillar:capabilities` `score:0.58`
 - [[has-the-hunt-for-ai-compute-uncovered-the-next-cerebras.md]] Has the hunt for AI compute uncovered the next Cerebras? `pillar:capabilities` `score:0.48`
 - [[hiyougallamafactory.md]] hiyouga/LlamaFactory `pillar:capabilities` `score:0.615`
+- [[how-a-new-dsl-may-survive-in-the-era-of-llms.md]] How a new DSL may survive in the era of LLMs `pillar:capabilities` `score:0.295`
 - [[how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers.md]] How an e-scooter founder raised $5 million to build space data centers `pillar:capabilities` `score:0.41`
 - [[how-claude-code-works-in-large-codebases.md]] How Claude Code works in large codebases `pillar:capabilities` `score:0.365`
 - [[how-fast-does-claude-acting-as-a-user-space-ip-st.md]] How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings? `pillar:capabilities` `score:0.36`
@@ -762,6 +765,7 @@
 - [[agentic-trading-with-safe-guardrails.md]] Agentic Trading with Safe Guardrails `pillar:patterns` `score:0.33`
 - [[agno-agiagno.md]] agno-agi/agno `pillar:patterns` `score:0.58`
 - [[agora-1-the-multi-agent-world-model.md]] Agora-1: The Multi-Agent World Model `pillar:patterns` `score:0.38`
+- [[ai-agent-bankrupted-their-operator-while-trying-to-scan-dn42.md]] AI agent bankrupted their operator while trying to scan DN42 `pillar:patterns` `score:0.68`
 - [[ai-agent-guidelines-for-cs336-at-stanford.md]] AI Agent Guidelines for CS336 at Stanford `pillar:patterns` `score:0.58`
 - [[ai-agent-runs-amok-in-fedora-and-elsewhere.md]] AI agent runs amok in Fedora and elsewhere `pillar:patterns` `score:0.48`
 - [[ai-is-being-used-to-resurrect-the-voices-of-dead-pilots.md]] AI is being used to resurrect the voices of dead pilots `pillar:patterns` `score:0.445`

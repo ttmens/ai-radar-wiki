@@ -1,0 +1,27 @@
+---
+title: Cheaper, faster, and culturally aware, Avataar&#8217;s video AI is built for Ind
+created: 2026-06-12
+updated: 2026-06-12
+type: entity
+pillar: capabilities
+pm_score: 0.445
+tags: ["news", "techcrunch", "capabilities"]
+sources: ["raw/techcrunch/cheaper-faster-and-culturally-aware-avataar8217s-video-ai-is-built-for-india8217.json"]
+---
+
+# Cheaper, faster, and culturally aware, Avataar&#8217;s video AI is built for India&#8217;s scale
+
+## 中文摘要
+Avataar AI推出面向印度市场的视频生成模型，主打低成本（每秒0.005美元）、高速度和文化适应性。该模型采用蒸馏技术，在降低推理成本的同时保持生成质量，专为印度大规模视频内容生产场景设计。商业上，按秒计费模式显著降低了视频制作门槛，产品创新体现在对印度本地文化元素（如语言、服饰、场景）的深度理解与适配，使AI生成内容更具地域亲和力。这一策略有望在电商广告、短视频等高频场景快速落地。
+
+## PM 关注指标
+- 🎯 PM Score: 0.445
+- 🏷️ Pillar: capabilities
+- 🔑 Keywords: 
+
+## 新闻摘要
+Avataar AI's distilled video model is priced at $0.005 for every second of generation
+
+## 链接
+- 🔗 Source: https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/
+- 📅 Published: Fri, 12 Jun 2026 04:30:00 +0000
