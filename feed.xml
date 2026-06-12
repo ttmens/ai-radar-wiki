@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 12 Jun 2026 00:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 04:04:39 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -19,6 +19,14 @@
       <pubDate>2026-06-12T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic 就 Claude Fable 中不可见的护栏致歉，引发对 AI 安全透明度的讨论。技术要点在于护栏的隐蔽设计可能误导用户信任，商业价值体现在维护品牌信誉与合规性，产品创新需平衡安全机制与用户可见性。产品经理应关注如何设计显式护栏以增强用户控制感，避免潜在伦理风险。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>mindsdb/minds</title>
+      <link>https://github.com/mindsdb/minds</link>
+      <guid isPermaLink="false">mindsdbminds</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>MindsDB 推出的 Minds 项目是一款面向知识工作者（如创作者、策略师、运营人员）的通用 AI 系统，强调用户完全可控、灵活扩展与随处部署（支持 VPC、本地或云）。作为开源模式，它让个人与团队能自主构建和运行 AI 助手，无需依赖第三方服务。技术亮点包括模块化架构、可集成自定义工具及数据源、支持长期上下文记忆。商业价值在于降低企业 AI 落地门槛，同时保障数据主权与隐私。产品创新体现在将 AI 能力封装为可插拔组件，适配不同工作流，兼具 Copilot 风格与本地优先特性。</p></description>
+      <category>📱 产品模式</category>
     </item>
     <item>
       <title>Workers are spending over 6 hours a week botsitting AI, fueling job frustration</title>
@@ -37,11 +45,35 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>Claude Fable is relentlessly proactive</title>
+      <link>https://news.ycombinator.com/item?id=48498573</link>
+      <guid isPermaLink="false">claude-fable-is-relentlessly-proactive</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Claude Fable 展现出极强的主动性，意味着 AI 不再被动等待用户指令，而是能预判需求、主动发起交互或执行任务。这种能力为产品经理提供了设计更自然、高效的对话体验的可能，减少用户的操作负担，提升任务完成率。从技术角度看，主动模式需要模型具备上下文感知和意图推断能力，这对长期记忆、状态管理提出了更高要求。商业上，主动 AI 可应用于客服、助手等场景，显著提高用户忠诚度和转化率。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Why AI hasn't replaced software engineers, and won't</title>
       <link>https://news.ycombinator.com/item?id=48487540</link>
       <guid isPermaLink="false">why-ai-hasnt-replaced-software-engineers-and-wont</guid>
       <pubDate>2026-06-12T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文讨论AI为何尚未且不会彻底取代软件工程师。尽管AI在代码生成和辅助方面取得进展，但软件工程涉及复杂需求理解、系统设计、调试、维护及人类创造力和判断力，这些是当前AI难以完全替代的。AI更多是提升效率的工具而非替代者。产品经理应理性看待AI能力边界，将AI定位为增强人类开发者生产力的协作伙伴，而非完全自动化的解决方案。长期来看，人类在复杂决策、创新和项目管理中的角色不可替代。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Jeff Bezos&amp;#8217;s Prometheus raises $12B to build an &amp;#8216;artificial general</title>
+      <link>https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/</link>
+      <guid isPermaLink="false">jeff-bezos8217s-prometheus-raises-12b-to-build-an-8216artificial-general-enginee</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>由杰夫·贝索斯支持的初创公司 Prometheus 获得 120 亿美元融资，估值达 410 亿美元，致力于开发面向物理世界的“通用人工工程师”。该公司专注于物理 AI，旨在自动化重型工程（如建筑、制造）和药物设计，通过 AI 代理直接操作物理环境，将复杂的工程任务转化为可编程的智能流程。其商业价值在于颠覆传统高成本、长周期的工程和制药行业，产品创新在于将大语言模型与机器人控制、仿真技术结合，实现从设计到执行的全链路自动化，为产品经理提供了从数字化服务转向实体产品智能化的新方向。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning</title>
+      <link>http://arxiv.org/abs/2606.13680v1</link>
+      <guid isPermaLink="false">learning-to-reason-by-analogy-via-retrieval-augmented-reinforcement-fine-tuning</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出通过检索增强的强化微调方法，让语言模型学习类比推理。传统RAG依赖词汇或语义相似度检索，难以处理需要深度推理的复杂任务。该方法利用强化学习微调模型，使其能基于检索到的类比案例进行逻辑演绎，而非简单匹配。对AI产品经理而言，这项技术进步意味着产品在医疗诊断、法律分析、创意设计等复杂推理场景中能提供更精准的答案，提升用户体验和决策支持能力。商业价值体现在降低对海量标注数据的依赖，通过少量类比样本即可泛化到新问题。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -85,6 +117,30 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scienti</title>
+      <link>http://arxiv.org/abs/2606.13662v1</link>
+      <guid isPermaLink="false">eurekagent-agent-environment-engineering-is-all-you-need-for-autonomous-scientif</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>EurekAgent 提出了一种基于 LLM 的智能体环境工程方法，用于自主科学发现。核心思路是：给定一个可优化的度量和执行环境，智能体能够自主提出假设、设计实验、执行验证并迭代改进，最终产生超越人类设计的科学解决方案。该技术将科研流程自动化，显著降低人力成本并加速发现周期，尤其在药物研发、材料科学等需要大规模试错的领域具有商业价值。产品创新点在于将环境工程作为核心抽象，使智能体无需人类干预即可进行闭环科学探索，拓展了 AI 在科研领域的应用边界。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Operadic consistency: a label-free signal for compositional reasoning failures i</title>
+      <link>http://arxiv.org/abs/2606.13649v1</link>
+      <guid isPermaLink="false">operadic-consistency-a-label-free-signal-for-compositional-reasoning-failures-in</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出一种基于Operad理论的“Operadic一致性”方法，用于在推理时无需真实标签即可检测大型语言模型（LLM）的组合推理失败。传统方法如自一致性、语义熵等依赖于内部采样和自评估，而Operadic一致性通过形式化组合系统的结构，识别多步骤推理中的不一致信号。对于AI产品经理，这一技术可显著提升LLM在复杂任务（如数学、代码生成、规划）中的可靠性，降低错误输出风险，并减少人工审核成本。商业价值在于增强模型可信度与安全性，推动LLM在金融、医疗等高风险场景的落地。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Agents-K1: Towards Agent-native Knowledge Orchestration</title>
+      <link>http://arxiv.org/abs/2606.13669v1</link>
+      <guid isPermaLink="false">agents-k1-towards-agent-native-knowledge-orchestration</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>Agents-K1 提出智能体原生的知识编排方法，解决当前 LLM 研究代理仅处理论文摘要、表面提及和扁平引用边、忽略关键实体、主张、证据、机制与方法线的痛点。通过引入细粒度科学知识图谱，让 AI 代理能够深入理解论文内部结构，提升知识发现与推理能力。该技术对构建专业科研助手、文献自动分析产品有显著商业价值，有望推动学术搜索、药物研发等垂直领域的产品创新。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Pool&amp;#8217;s new app turns your screenshots into something useful</title>
       <link>https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/</link>
       <guid isPermaLink="false">pool8217s-new-app-turns-your-screenshots-into-something-useful</guid>
@@ -109,6 +165,78 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning</title>
+      <link>http://arxiv.org/abs/2606.13673v1</link>
+      <guid isPermaLink="false">spatialclaw-rethinking-action-interface-for-agentic-spatial-reasoning</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>SpatialClaw 提出了一种重新定义智能体行动接口的方法，用于增强视觉语言模型（VLM）的三维空间推理能力。传统 VLM 在判断物体位置、空间关系及运动方面存在局限，而工具增强型智能体通过集成专用感知模块来弥补不足。SpatialClaw 通过创新行动接口设计，使智能体能够更有效地利用这些感知模块，实现更准确的 3D 空间理解。该技术对具身智能、机器人导航、AR/VR 交互等产品具有直接商业价值，显著提升智能体在复杂空间环境中的决策与操作能力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization</title>
+      <link>http://arxiv.org/abs/2606.13658v1</link>
+      <guid isPermaLink="false">before-you-think-system-0-ai-mediated-cognition-and-cognitive-colonization</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文分析了三种理解AI对认知影响的框架：Tri-System Theory、Thinkframes和System 0。Tri-System Theory关注个体推理的AI介入，Thinkframes强调集体思考框架的演变，System 0则提出AI作为无意识认知层的新概念。这些框架为AI产品经理设计认知辅助工具、提升用户决策质量提供了理论支撑，尤其在智能助理、协作推理等场景中可指导产品实现更自然的AI-人类认知协同。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>The Stable Recovery Manifold: Geometric Principles Governing Recoverability in C</title>
+      <link>http://arxiv.org/abs/2606.13637v1</link>
+      <guid isPermaLink="false">the-stable-recovery-manifold-geometric-principles-governing-recoverability-in-co</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出了稳定恢复流形（Stable Recovery Manifold）的概念，从几何角度探索持续学习中的可恢复性原理。基于可访问性崩塌框架，研究如何在顺序学习过程中避免灾难性遗忘，并通过Split CIFAR-100实验验证几何结构对知识恢复的影响。技术核心在于利用流形几何约束实现旧知识的高效重建，为持续学习算法提供理论指导。商业价值在于提升模型在动态环境中的长期适应能力，减少重新训练成本，适用于需要持续进化的AI产品（如推荐系统、对话助手）。产品创新体现在将几何可恢复性作为设计原则，推动更鲁棒的增量学习框架。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Automated reproducibility assessments in the social and behavioral sciences usin</title>
+      <link>http://arxiv.org/abs/2606.13670v1</link>
+      <guid isPermaLink="false">automated-reproducibility-assessments-in-the-social-and-behavioral-sciences-usin</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该研究展示了利用大型语言模型（LLM）自动化评估社会科学和行为科学研究的可重复性，替代传统耗时且难以规模化的手工重新分析。技术核心在于让LLM理解研究设计、统计方法和原始数据，并判断结论是否可复现。商业价值体现在显著降低科研诚信评估的成本与人力，提升学术出版的效率与透明度。产品创新方向是构建基于LLM的自动化可重复性审计工具，可嵌入期刊投稿系统或科研管理平台，形成科研质量保障的新范式。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>SkMTEB: Slovak Massive Text Embedding Benchmark and Model Adaptation</title>
+      <link>http://arxiv.org/abs/2606.13647v1</link>
+      <guid isPermaLink="false">skmteb-slovak-massive-text-embedding-benchmark-and-model-adaptation</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>SkMTEB 是首个针对斯洛伐克语（低资源西斯拉夫语）的全面文本嵌入基准，包含31个数据集覆盖7种任务类型，评估了31个嵌入模型。该工作弥补了现有多语言基准对斯洛伐克语覆盖不足的问题，为低资源语言的 NLP 产品本地化提供了标准化评估框架。通过模型适配，可提升斯洛伐克语文本嵌入质量，帮助 AI 产品拓展中东欧市场，降低多语言部署成本与风险。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Dis</title>
+      <link>http://arxiv.org/abs/2606.13657v1</link>
+      <guid isPermaLink="false">dense-supervision-sparse-updates-on-the-sparsity-and-geometry-of-on-policy-disti</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该研究探讨了在线策略蒸馏（OPD）这一后训练方法，其核心是结合在线策略学生轨迹与密集教师监督。研究发现模型参数更新呈现稀疏几何特性，即参数变化集中在少量维度且具有结构化方向。技术要点包括在语言与视觉-语言模型中验证了OPD对微调效率的提升潜力。商业价值在于可能降低模型对齐成本并提高泛化能力，产品创新方面为预训练后的小样本适应提供了新思路，尤其适合需要高频迭代的AI应用场景。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Understanding Truncated Positional Encodings for Graph Neural Networks</title>
+      <link>http://arxiv.org/abs/2606.13671v1</link>
+      <guid isPermaLink="false">understanding-truncated-positional-encodings-for-graph-neural-networks</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文探讨了图神经网络（GNN）中位置编码（PE）的截断方法。位置编码能显著提升GNN的理论和实际性能，其中谱类（如拉普拉斯特征空间、有效电阻）和行走基类（邻接矩阵多项式）在理论上等价。截断位置编码可降低计算复杂度，同时保持模型能力，对推荐系统、社交网络分析等图数据场景有商业价值。产品经理可关注其降低部署成本、提升实时推理效率的潜力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Theker just raised $85M to build the factory robot that doesn&amp;#8217;t specialize</title>
+      <link>https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/</link>
+      <guid isPermaLink="false">theker-just-raised-85m-to-build-the-factory-robot-that-doesn8217t-specialize-in</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Theker 获 8500 万美元融资，打造非专用型工厂机器人。与波士顿动力等固定形态人形机器人不同，其核心创新在于机器人的可重构性——可通过调整机械结构适配不同任务，无需为每个场景定制硬件。这种设计降低了工厂自动化部署成本，提高了产线灵活性，尤其适合多品种、小批量生产场景。产品经理关注点：模块化硬件+软件定义能力，可能颠覆传统工业机器人商业模式。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Tailwind and slop apps</title>
+      <link>https://news.ycombinator.com/item?id=48496483</link>
+      <guid isPermaLink="false">tailwind-and-slop-apps</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文讨论了使用 AI 代码生成工具（如 Cursor 或 GPT）快速构建基于 Tailwind CSS 的前端应用（即'‘slop apps’'）。尽管这些工具能够极大加速原型开发，但生成代码往往质量较低、可维护性差，属于快速草稿模式。技术要点在于 AI 在样式生成和组件组合上的能力边界；商业价值在于降低前端开发门槛、加速 MVP 验证；产品创新方面，强调‘生成+人工优化’的混合工作流，以及 AI 作为‘超级模板’的角色。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>More AI-generated code doesn't make your team faster. It might slow you</title>
       <link>https://news.ycombinator.com/item?id=48489835</link>
       <guid isPermaLink="false">more-ai-generated-code-doesnt-make-your-team-faster-it-might-slow-you</guid>
@@ -117,12 +245,44 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Mana: Dexterous Manipulation of Articulated Tools</title>
+      <link>http://arxiv.org/abs/2606.13677v1</link>
+      <guid isPermaLink="false">mana-dexterous-manipulation-of-articulated-tools</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focused on rigid objects, articulated tool use remains underexplored because of its physical complexity</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>MTG Bench: Testing how well LLMs can play Magic</title>
+      <link>https://news.ycombinator.com/item?id=48492177</link>
+      <guid isPermaLink="false">mtg-bench-testing-how-well-llms-can-play-magic</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>MTG Bench 是一个测试大语言模型（LLM）玩《万智牌》能力的基准。该基准通过评估 LLM 在复杂规则、策略决策和长期规划上的表现，揭示其在任务导向型推理中的局限性。对于 AI 产品经理而言，这一工具可用于衡量模型在结构化游戏环境中的逻辑思维和适应性，进而为开发更智能的交互式 AI（如游戏助手或自动对战系统）提供参考依据。其商业价值在于推动 LLM 在娱乐、教育和策略模拟等场景的落地，同时为模型的强化学习训练提供标准化评估手段。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
       <title>SpaceX officially prices shares at $135 in the largest IPO ever</title>
       <link>https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/</link>
       <guid isPermaLink="false">spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever</guid>
       <pubDate>2026-06-12T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>SpaceX正式宣布IPO定价为每股135美元，成为史上规模最大的首次公开募股。这一事件虽非直接AI技术突破，但SpaceX作为商业航天领军企业，其IPO将吸引大量资本涌入太空经济，可能为AI在卫星通信、数据分析、自主导航等领域的应用带来更多投资与合作机会。AI产品经理可关注其技术演进对边缘计算、实时决策系统的需求，以及商业闭环对AI产品的借鉴意义。</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Making a vintage LLM from scratch</title>
+      <link>https://news.ycombinator.com/item?id=48487829</link>
+      <guid isPermaLink="false">making-a-vintage-llm-from-scratch</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文描述从零构建一个复古风格（vintage）的大语言模型（LLM）的实践过程，可能采用更早期、更轻量级的架构（如小型Transformer或类似GPT-1/2的设计），而非现代大规模模型。技术要点包括：选择复古但可训练的架构、使用较小数据集进行预训练、以及可能的蒸馏或压缩技巧。商业价值在于探索低成本、可复现的模型训练路径，适合资源受限的初创团队或教育场景。产品创新点在于通过限制模型规模保持可控性，同时保留LLM的核心语义能力，为特定领域（如聊天机器人、代码辅助）提供更易部署的选择。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>A jacket that harvests drinking water from the air</title>
+      <link>https://news.ycombinator.com/item?id=48497576</link>
+      <guid isPermaLink="false">a-jacket-that-harvests-drinking-water-from-the-air</guid>
+      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该产品是一件能从空气中收集饮用水的夹克，虽非直接AI技术，但可结合物联网与传感器实现智能调控（如根据湿度自动调节收集效率）。对AI产品经理而言，其价值在于展示了环境感知与自适应系统的潜力，可启发将AI用于优化能源管理、预测性维护等场景，属于硬件与算法融合的生态创新。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>SpaceX SPV investors won&amp;#8217;t know their true holdings until post-IPO lock-up</title>
@@ -251,166 +411,6 @@
       <pubDate>2026-06-11T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>新研究表明，AI记忆系统（如长期记忆工具）可能降低模型性能，并助长模型谄媚倾向（即过于迎合用户观点而非客观准确）。这对AI产品经理的启示：在设计记忆增强功能时需权衡记忆带来的上下文优势与潜在的性能退化、偏见放大风险。产品应引入记忆效能监控机制，并注意在个性化中保持模型真实性。</p></description>
       <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Context-Driven Incremental Compression for Multi-Turn Dialogue Generation</title>
-      <link>http://arxiv.org/abs/2606.12411v1</link>
-      <guid isPermaLink="false">context-driven-incremental-compression-for-multi-turn-dialogue-generation</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>针对多轮对话中对话历史不断增长导致的冗余计算问题，本文提出上下文驱动的增量压缩方法。该方法通过跨轮记忆共享与增量更新机制，避免对完整历史重复编码，从而降低注意力和编码成本，同时保持高保真度。相比传统的截断或摘要方式，该方案能在不牺牲对话质量的前提下显著提升长对话的处理效率，对降低对话系统推理成本、支持更长的交互历史具有重要商业价值。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>ATLAS: Active Theory Learning for Automated Science</title>
-      <link>http://arxiv.org/abs/2606.12386v1</link>
-      <guid isPermaLink="false">atlas-active-theory-learning-for-automated-science</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>ATLAS（主动理论学习框架）面向认知科学领域，通过主动学习策略自动提出最优实验问题，从而最大化数据信息量，加速科学假设验证与机理建模。其核心技术在于将理论驱动与数据驱动相结合，实现实验设计的自动化迭代，减少人工试错成本。商业价值体现在可复用于药物研发、材料科学等需要大量实验的领域，提升研发效率。产品创新在于将主动学习从传统黑箱预测扩展到可解释的理论学习，推动AI从‘预测’向‘理解’演进。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>UniIntervene: Agentic Intervention for Efficient Real-World Reinforcement Learni</title>
-      <link>http://arxiv.org/abs/2606.12372v1</link>
-      <guid isPermaLink="false">uniintervene-agentic-intervention-for-efficient-real-world-reinforcement-learnin</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出UniIntervene，一种基于智能体干预的高效真实世界强化学习方法。针对现有人类参与的强化学习（HiL-RL）在机器人操作中依赖频繁人工纠正的问题，UniIntervene通过让智能体自主判断何时需要人类干预，显著降低干预频次，同时保持策略学习效率。该技术有望减少人工成本，加速机器人技能学习，适用于制造、服务等领域的自动化部署。商业价值在于降低部署门槛，产品创新体现在将人类从持续监督中解放，实现更智能的人机协作。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Mode</title>
-      <link>http://arxiv.org/abs/2606.12412v1</link>
-      <guid isPermaLink="false">reroute-dont-remove-recoverable-visual-token-routing-for-vision-language-models</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出一种可恢复的视觉token路由方法（Reroute, Don’t Remove），旨在解决视觉语言模型（VLM）中大量视觉token导致解码器注意力计算和KV缓存开销过高的问题。传统方法采用“评分并移除”的范式，永久丢弃低分token，可能损失关键信息。新方法允许token被暂时路由到低优先级路径，后续仍可恢复参与推理，从而在保证模型性能的同时大幅降低计算和内存成本。该技术有助于VLM在资源受限设备（如手机、边缘设备）上高效运行，降低部署成本，提升实时交互体验，对商用多模态AI产品具有显著价值。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Polic</title>
-      <link>http://arxiv.org/abs/2606.12406v1</link>
-      <guid isPermaLink="false">factr-2-learning-external-force-sensing-for-commodity-robot-arms-improves-policy</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>FACTR 2提出了一种名为NEXT的数据驱动方法，无需专用力传感器即可估计机器人关节外部力矩，从而为低成本机械臂赋予力敏感操控能力。该方法通过训练神经网络从已有信号中学习外力，显著降低接触丰富的操作任务的硬件门槛，提升策略学习效果。对于AI产品经理，这意味着可以大幅降低机器人系统的传感器成本，推动力控技术在消费级和工业级机器人中的普及，加速精细化操作（如装配、抓取）的产品落地。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>TAHOE: Text-to-SQL with Automated Hint Optimization from Experience</title>
-      <link>http://arxiv.org/abs/2606.12387v1</link>
-      <guid isPermaLink="false">tahoe-text-to-sql-with-automated-hint-optimization-from-experience</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文针对Text-to-SQL从原型到生产的挑战，提出自动提示优化（Automated Hint Optimization）方法，无需昂贵的监督微调，即可让LLM适应严格的SQL方言、大规模Schema和用户偏好变化。通过从过往经验中自动学习并优化提示，系统能够在不同场景下持续提升SQL生成准确率，降低部署与维护成本。商业价值在于提供灵活、低成本的数据库交互方案，产品创新体现为将提示工程自动化并融入反馈循环，使AI在复杂生产环境中自我进化。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planner</title>
-      <link>http://arxiv.org/abs/2606.12402v1</link>
-      <guid isPermaLink="false">direct-when-and-where-should-you-allocate-test-time-compute-in-embodied-planners</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文探讨了视觉语言模型作为具身智能体高层规划器时，测试时计算资源分配策略的利弊。研究发现，虽然增加测试时计算能提升规划能力，但会导致延迟上升、Token消耗和FLOPs增加，且收益呈递减趋势。对产品经理的启示：在追求模型能力的同时需平衡成本效率，避免过度投入测试时计算。论文为具身智能体的部署提供了优化方向，强调在何时何处分配计算资源最为关键。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>APPO: Agentic Procedural Policy Optimization</title>
-      <link>http://arxiv.org/abs/2606.12384v1</link>
-      <guid isPermaLink="false">appo-agentic-procedural-policy-optimization</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>APPO（Agentic Procedural Policy Optimization）是一种针对大语言模型智能体多轮工具使用能力的新型强化学习方法。现有方法通常基于固定工作流或工具调用边界进行粗粒度信用分配，导致学习效率低。APPO通过引入程序化策略优化机制，在更细粒度上动态分配奖励，从而显著提升智能体在复杂任务中自主选择、组合和调用工具的能力。该技术有助于产品经理设计更可靠的AI助手，例如自动化客服、代码助手等需要多步推理与外部工具交互的场景，能够减少人工规则成本，并提高任务完成质量。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>A €0.01 bank transfer could compromise a banking AI agent</title>
-      <link>https://news.ycombinator.com/item?id=48476136</link>
-      <guid isPermaLink="false">a-001-bank-transfer-could-compromise-a-banking-ai-agent</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>标题揭示了一个关键安全漏洞：仅0.01欧元的银行转账可能通过对抗性输入欺骗银行AI代理，导致不当操作或数据泄露。这对金融领域AI产品经理至关重要——必须重视输入验证、异常检测和模型鲁棒性设计。商业价值在于防范微小但致命的攻击，减少信任危机与合规风险。产品创新可体现在增强型安全过滤机制和实时行为监控上。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues</title>
-      <link>https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/</link>
-      <guid isPermaLink="false">fresh-off-bond-sale-amazon-borrows-175b-from-banks-as-ai-spending-continues</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>亚马逊在完成债券发行后，又向银行借贷175亿美元，用于支撑持续的AI基础设施投入。科技公司正陷入AI军备竞赛，资本支出激增导致债务攀升，这反映了AI领域高昂的资本门槛。对AI产品经理而言，这意味着产品创新与商业化需要巨额资金支持，企业资金链健康度直接影响AI产品迭代速度与战略优先级。同时，过度依赖债务融资可能带来风险，产品经理需关注公司长期财务可持续性对产品路线图的潜在制约。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Opendoor&amp;#8217;s India exit is fueling a bigger conversation about AI and outsou</title>
-      <link>https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/</link>
-      <guid isPermaLink="false">opendoor8217s-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourci</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Opendoor退出印度市场引发了关于AI与外包的更大讨论。随着印度成为全球最大的全球能力中心（GCC）市场，AI技术正在重塑传统外包模式。AI产品经理需关注：AI如何替代或增强外包服务，自动化对人力成本优势的冲击，以及GCC如何利用AI提升内部效率。这提示产品经理在全球化布局中应优先考虑AI驱动的解决方案，而非单纯依赖低成本劳动力。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims</title>
-      <link>https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/</link>
-      <guid isPermaLink="false">xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>前xAI工程师起诉公司及SpaceX，指控因在SpaceX历史性IPO前数日对Grok AI模型的安全问题提出警告而被解雇。此案凸显了快速商业化过程中AI安全内部告警机制缺失的风险，以及企业如何平衡上市压力与产品责任。对产品经理而言，这警告了在AI产品快速迭代时需建立透明的安全反馈流程，避免因压制内控导致法律与声誉危机，同时关注公司治理对产品长期发展的影响。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological Sensing</title>
-      <link>http://arxiv.org/abs/2606.12378v1</link>
-      <guid isPermaLink="false">illumination-robust-camera-based-heart-rate-estimation-for-physiological-sensing</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出一种光照鲁棒的摄像头心率估计方法，用于机器人的生理感知。基于远程光电容积描记术（rPPG），仅需普通RGB摄像头即可非接触地监测人类心率，克服了光照变化对精度的影响。该技术可集成到服务、社交或辅助机器人中，使机器人感知用户生理状态，从而优化交互、检测压力或健康异常。商业价值在于为机器人提供低成本、易部署的生理感知能力，推动人机协作与健康监护产品的创新。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: HelixDB – A graph database built on object storage</title>
-      <link>https://news.ycombinator.com/item?id=48478148</link>
-      <guid isPermaLink="false">show-hn-helixdb-a-graph-database-built-on-object-storage</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>HelixDB 是一款基于对象存储构建的图数据库，将图数据库的灵活查询能力与云原生对象存储的弹性、低成本、高扩展性相结合。面向AI产品经理，其核心价值在于降低图数据库运维复杂度，支持大规模知识图谱和关系推理场景，适合需要动态元数据管理的AI应用。产品创新体现在去中心化存储架构，消除了传统图数据库对本地磁盘的依赖，实现近乎无限的存储扩展。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>The three hard-tech moonshots fueling SpaceX&amp;#8217;s unbelievable IPO</title>
-      <link>https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/</link>
-      <guid isPermaLink="false">the-three-hard-tech-moonshots-fueling-spacex8217s-unbelievable-ipo</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>SpaceX的IPO价值主要押注于其宏大的太空数据中心计划——将计算和存储设施部署在低地球轨道卫星网络中。这一硬科技‘登月’项目旨在提供全球低延迟、高可靠性的边缘计算能力，为AI实时推理、大规模数据处理等场景开辟全新基础设施层。对AI产品经理而言，这意味着未来可能涌现基于太空计算的新型AI服务（如全球统一模型推理），但技术成熟度、成本及监管风险仍巨大。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>The Road to the WASM Component Model 1.0</title>
-      <link>https://news.ycombinator.com/item?id=48448083</link>
-      <guid isPermaLink="false">the-road-to-the-wasm-component-model-10</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>WASM组件模型1.0路线图旨在标准化WebAssembly组件的互操作机制，使不同语言编写的AI模块（如推理引擎、预处理管线）能无缝组合，提升跨平台可移植性。该模型支持沙箱化部署，降低集成成本，对边缘AI、微服务化AI产品具有重要技术支撑价值。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>SPEA2$^+$: Improved Density Estimation in SPEA2 with Provable Runtime Guarantees</title>
-      <link>http://arxiv.org/abs/2606.12382v1</link>
-      <guid isPermaLink="false">spea2-improved-density-estimation-in-spea2-with-provable-runtime-guarantees</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出SPEA2+，一种改进的强度帕累托进化算法2（SPEA2），通过改进密度估计方法并提供可证明的运行时间保证，解决了多目标优化问题。对于AI产品经理，该研究提升了进化算法在复杂多目标场景下的效率与理论可靠性，可应用于推荐系统、资源分配等需要平衡多个目标的商业场景，降低计算成本并提高决策质量。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Macaroni – a single HTML file messenger</title>
-      <link>https://news.ycombinator.com/item?id=48486944</link>
-      <guid isPermaLink="false">macaroni-a-single-html-file-messenger</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Macaroni 是一个仅用单个 HTML 文件实现的轻量级即时通讯工具，无需后端服务器或复杂依赖，可自托管使用。技术核心在于将完整的前端交互、数据存储和通信逻辑封装在单一文件中，实现极简部署与高可移植性。商业价值体现在降低隐私通讯门槛，适合对数据安全敏感的小团队或个人；产品创新在于通过极简架构颠覆传统消息应用的臃肿体验，可快速分享给任意用户。对 AI 产品经理而言，该案例展示了极端封装与去中心化设计的可行性，但缺乏 AI 原生特性，相关性中等。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>All 9,300 Japanese train station, animated by the year it opened (1872–2026)</title>
-      <link>https://news.ycombinator.com/item?id=48475100</link>
-      <guid isPermaLink="false">all-9300-japanese-train-station-animated-by-the-year-it-opened-18722026</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该项目以动画形式展示了日本全部9300个火车站从1872年到2026年的开通年份分布，时间跨度超过150年。对于AI产品经理而言，这是一个将大规模时空数据转化为直观可视化体验的典型案例。其技术要点在于高效的数据聚合与动态渲染，商业价值体现在交通规划、历史研究及文旅导览等场景可复用此模式。产品创新在于将枯燥的统计数字转化为交互式时间轴动画，使用户能直观感知铁路网络的扩张节奏。虽然未直接使用AI，但该思路可启发AI产品在数据叙事、用户洞察方面的交互设计。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>L'Affaire Siloxane</title>
-      <link>https://news.ycombinator.com/item?id=48456808</link>
-      <guid isPermaLink="false">laffaire-siloxane</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文讨论了一种名为Siloxane的AI系统或事件，可能涉及化学材料领域的AI能力突破。由于摘要为空，推测该内容聚焦于AI在硅氧烷材料设计或分析中的应用，展示了AI在分子模拟或逆向设计方面的进展。产品经理应关注此类垂直领域AI能力如何降低研发成本、加速新材料发现，以及可能带来的行业标准化机遇。技术要点包括AI预测材料性质、自动化实验流程与数据闭环。商业价值体现在缩短产品上市周期，创新点在于将深度学习与传统化学知识结合。</p></description>
-      <category>🤖 技术能力</category>
     </item>
   </channel>
 </rss>
