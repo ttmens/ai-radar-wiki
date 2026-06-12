@@ -1,0 +1,43 @@
+{
+  "name": "stefan-jansen/machine-learning-for-trading",
+  "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+  "stars": 19110,
+  "language": "Jupyter Notebook",
+  "topics": [
+    "artificial-intelligence",
+    "data-science",
+    "deep-learning",
+    "finance",
+    "investment",
+    "investment-strategies",
+    "machine-learning",
+    "ml4t-workflow",
+    "synthetic-data",
+    "trading",
+    "trading-agent",
+    "trading-strategies"
+  ],
+  "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+  "created": "2018-05-09T12:33:08Z",
+  "tag": "GitHub",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent",
+    "workflow"
+  ],
+  "summary_cn": "该项目是《Machine Learning for Algorithmic Trading》第二版的配套代码库，提供了从数据获取、特征工程到模型训练、回测的完整机器学习交易系统实现。技术要点包括时间序列预处理、监督学习与强化学习在策略生成中的应用，以及风险管理和执行优化。商业价值在于降低量化交易开发门槛，加速从研究到部署的迭代。产品创新在于将前沿ML技术（如LSTM、Transformer）与实盘交易场景结合，开源可复现的标准化工作流。",
+  "pm_relevance": 6,
+  "concepts": [
+    "Algorithmic Trading",
+    "Quantitative Finance",
+    "ML-Driven Strategy"
+  ],
+  "entities": [
+    "Stefan Jansen",
+    "machine-learning-for-trading"
+  ],
+  "patterns": [
+    "Algorithmic Trading Pattern",
+    "ML-Driven Strategy Development"
+  ]
+}

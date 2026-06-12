@@ -1,7 +1,7 @@
 {
   "date": "2026-06-13",
-  "generated_at": "2026-06-13T00:01:55.236902+08:00",
-  "item_count": 4,
+  "generated_at": "2026-06-13T06:04:59.238157+08:00",
+  "item_count": 13,
   "items": [
     {
       "id": "kimi-k27-code-open-source-coding-model-with-better-token-efficiency",
@@ -26,6 +26,17 @@
       "date": "2026-06-13"
     },
     {
+      "id": "slightly-reducing-the-sloppiness-of-ai-generated-front-end",
+      "label": "Slightly reducing the sloppiness of AI generated front end",
+      "summary": "该技术探讨了如何通过细微调整来减少AI生成前端代码的“草率”问题，即提升代码质量和一致性。对于AI产品经理而言，这意味着更可靠的前端自动化生成能力，可降低人工调试成本并加速产品迭代。技术要点聚焦于优化生成过程中的误差控制，商业价值体现在提高开发效率和降低返工率，产品创新方向是将AI从前端辅助工具转变为更可信赖的自动生成方案。这属于AI基础能力提升，而非商业模式或生态变革。",
+      "pm_score": 0.55,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48504912",
+      "date": "2026-06-13"
+    },
+    {
       "id": "ryanair-dark-ux-patterns-summer-2026-refresher",
       "label": "Ryanair dark UX patterns summer 2026 refresher",
       "summary": "Ryanair 2026年夏季更新中再次使用黑暗UX模式（如强制捆绑保险、隐藏取消选项、误导性弹窗），旨在提高附加服务转化率但牺牲用户体验。这类设计虽短期内提升商业指标，但长期会侵蚀用户信任并可能面临监管风险。AI产品经理需警惕在对话、推荐或支付流程中植入类似操纵性界面，应坚持透明度原则，通过用户测试和伦理审查避免算法偏见与欺诈式交互。该案例警示AI产品必须平衡商业目标与道德责任。",
@@ -34,6 +45,39 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48502601",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "dont-you-just-upload-it-to-chatgpt",
+      "label": "\"Don't You Just Upload It to ChatGPT?\"",
+      "summary": "该标题质疑用户习惯性地将文件直接上传至ChatGPT的做法，探讨这种交互方式的便利性与潜在问题（如数据隐私、处理效率、模型局限性等）。面向AI产品经理，这提示需要关注用户行为与产品设计之间的匹配，避免简单复制传统操作模式，而应优化上传后的上下文管理、多模态内容理解及结果呈现方式，以提升用户体验与商业价值。",
+      "pm_score": 0.53,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48507278",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "how-to-setup-a-local-coding-agent-on-macos",
+      "label": "How to setup a local coding agent on macOS",
+      "summary": "本文介绍在 macOS 上搭建本地编码代理的步骤。对 AI 产品经理而言，该方法凸显了本地运行 AI 代理的核心价值：数据隐私保护、低延迟交互与成本可控。技术要点包括利用本地开源模型（如 CodeLlama）和工具链（如 Ollama）实现代码补全、重构与调试，无需依赖云端 API。商业上可降低企业合规风险，产品创新则体现在将 AI 能力嵌入本地开发环境，实现响应式协作。该模式适合对安全要求高的企业团队或离线场景。",
+      "pm_score": 0.53,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48507020",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "stefan-jansenmachine-learning-for-trading",
+      "label": "stefan-jansen/machine-learning-for-trading",
+      "summary": "该项目是《Machine Learning for Algorithmic Trading》第二版的配套代码库，提供了从数据获取、特征工程到模型训练、回测的完整机器学习交易系统实现。技术要点包括时间序列预处理、监督学习与强化学习在策略生成中的应用，以及风险管理和执行优化。商业价值在于降低量化交易开发门槛，加速从研究到部署的迭代。产品创新在于将前沿ML技术（如LSTM、Transformer）与实盘交易场景结合，开源可复现的标准化工作流。",
+      "pm_score": 0.51,
+      "pillar": "patterns",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
       "date": "2026-06-13"
     },
     {
@@ -46,10 +90,65 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
       "date": "2026-06-13"
+    },
+    {
+      "id": "mistral-is-rumored-to-be-raising-3b-at-20b-valuation",
+      "label": "Mistral is rumored to be raising €3B at €20B valuation",
+      "summary": "据报道，法国AI初创公司Mistral正在筹集30亿欧元融资，估值达200亿欧元（约231.5亿美元），较其C轮估值117亿欧元几乎翻倍。此次融资规模凸显投资者对欧洲AI龙头的高度认可，其开源大语言模型和高效推理能力持续吸引资本。对产品经理而言，这一动态表明AI模型赛道资本集中度提升，Mistral的技术路线（轻量级、高性能）可能成为企业级部署的重要参考，同时高估值也意味着产品商业化压力增大。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "chinese-cybercrime-operation-that-used-ai-to-scam-8216hundreds-of-thousands-of-v",
+      "label": "Chinese cybercrime operation that used AI to scam &#8216;hundreds of thousands o",
+      "summary": "谷歌起诉一个名为“Outsider Enterprise”的中国网络犯罪组织，指控其利用AI技术实施大规模诈骗。该组织在两周内发送了250万条诈骗短信，通过AI生成模仿真人对话的内容，骗取数十万受害者的钱财。此事件凸显了AI在欺诈场景中的滥用风险，对AI产品经理而言，需要关注AI生成内容的识别与反欺诈机制，例如植入对话真实性验证、行为异常检测等安全模块，以防范类似产品被恶意利用。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "spacex-anthropic-and-openais-hot-ipo-summer",
+      "label": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "summary": "本文指出IPO市场复苏，但领跑者已不是传统FAANG，而是由MANGOS（Meta/Microsoft、Anthropic、Nvidia、Google、OpenAI、SpaceX）组成的新阵营。其中Anthropic、OpenAI和SpaceX等AI与前沿科技公司正成为IPO热潮的核心，反映出资本市场对AI赛道的高度关注和投资转向。对AI产品经理而言，这预示着AI创业公司融资环境改善，产品商业化加速，同时行业竞争格局将因资本注入而重塑。",
+      "pm_score": 0.41,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "palantir-loses-legal-challenge-against-swiss-investigative-magazine",
+      "label": "Palantir loses legal challenge against Swiss investigative magazine",
+      "summary": "Palantir 在瑞士调查杂志的法律挑战中败诉，该诉讼涉及数据隐私与监控争议。对 AI 产品经理而言，此案警示了 AI 公司需在数据采集、算法透明度及伦理合规上投入更多，否则可能面临法律与声誉风险。尽管未直接涉及技术突破，但反映了商业生态中监管对 AI 产品设计的影响，尤其是在政府合作与隐私敏感型场景中，合规能力已成为核心壁垒。",
+      "pm_score": 0.345,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48509182",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "mmorpg-world-of-claudecraft-vibe-coded-with-fable-5",
+      "label": "Mmorpg World of ClaudeCraft, vibe coded with Fable 5",
+      "summary": "该项目展示了利用AI（如Claude）和Fable 5框架快速构建大型多人在线角色扮演游戏（MMORPG）世界的能力，体现了‘氛围编码’（vibe coding）这一新兴开发方式。技术要点在于通过自然语言交互生成游戏逻辑、场景和NPC，降低游戏开发门槛。商业价值在于推动AI驱动的游戏内容生成，可能改变传统游戏研发生态，使非程序员也能创作复杂交互世界。产品创新在于将AI作为核心创作伙伴，实现实时迭代与动态叙事。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48509143",
+      "date": "2026-06-13"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1497,
-    "edges": 133636
+    "real_nodes": 1509,
+    "edges": 135146
   }
 }

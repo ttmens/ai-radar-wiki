@@ -1771,3 +1771,17 @@
 - create: its-hot-ipo-summer-and-the-mangos-are-ripe.md
 - create: spacex-ipo-everything-you-need-to-know.md
 - create: show-hn-script-to-bulk-delete-claude-chats-from-the-web-ui.md
+
+## [2026-06-13 06:04] sync v3 | 12 new | pillars: {'patterns': 4, 'capabilities': 6, 'business': 2}
+- create: stefan-jansenmachine-learning-for-trading.md
+- create: how-to-setup-a-local-coding-agent-on-macos.md
+- create: mmorpg-world-of-claudecraft-vibe-coded-with-fable-5.md
+- create: palantir-loses-legal-challenge-against-swiss-investigative-magazine.md
+- create: slightly-reducing-the-sloppiness-of-ai-generated-front-end.md
+- create: dont-you-just-upload-it-to-chatgpt.md
+- create: there-is-life-before-main-in-rust.md
+- create: chinese-cybercrime-operation-that-used-ai-to-scam-8216hundreds-of-thousands-of-v.md
+- create: spacex-ipo-live-updates-on-everything-you-need-to-know.md
+- create: mistral-is-rumored-to-be-raising-3b-at-20b-valuation.md
+- create: spacex-anthropic-and-openais-hot-ipo-summer.md
+- create: show-hn-zerofs-make-s3-your-primary-storage.md
