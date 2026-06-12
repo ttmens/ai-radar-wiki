@@ -5,13 +5,61 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 12 Jun 2026 12:02:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 16:03:06 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Kimi K2.7-Code: open-source coding model with better token efficiency</title>
+      <link>https://news.ycombinator.com/item?id=48502347</link>
+      <guid isPermaLink="false">kimi-k27-code-open-source-coding-model-with-better-token-efficiency</guid>
+      <pubDate>2026-06-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Kimi推出K2.7-Code开源编码模型，重点提升token效率，即用更少的token完成相同或更好的编码任务。对于AI产品经理而言，这意味着在推理成本、响应速度和上下文窗口利用上更有优势，尤其适合集成到代码助手、IDE插件等场景。开源属性降低了企业定制和部署门槛，可能推动更多开发工具采用该模型，形成生态竞争力。商业价值在于降低API调用成本、提升用户体验，并可通过本地部署满足数据安全需求。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>The Future of Email</title>
+      <link>https://news.ycombinator.com/item?id=48502321</link>
+      <guid isPermaLink="false">the-future-of-email</guid>
+      <pubDate>2026-06-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>AI 正在重塑电子邮件，通过自然语言处理实现智能摘要、自动回复建议和优先级排序，显著提升邮件处理效率。产品创新点包括基于长期对话上下文的记忆能力，以及从邮件中提取任务并自动生成待办事项。商业价值在于减少用户时间消耗，提升企业沟通效率。技术要点涉及大语言模型对非结构化文本的理解与生成。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Ryanair dark UX patterns summer 2026 refresher</title>
+      <link>https://news.ycombinator.com/item?id=48502601</link>
+      <guid isPermaLink="false">ryanair-dark-ux-patterns-summer-2026-refresher</guid>
+      <pubDate>2026-06-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Ryanair 2026年夏季更新中再次使用黑暗UX模式（如强制捆绑保险、隐藏取消选项、误导性弹窗），旨在提高附加服务转化率但牺牲用户体验。这类设计虽短期内提升商业指标，但长期会侵蚀用户信任并可能面临监管风险。AI产品经理需警惕在对话、推荐或支付流程中植入类似操纵性界面，应坚持透明度原则，通过用户测试和伦理审查避免算法偏见与欺诈式交互。该案例警示AI产品必须平衡商业目标与道德责任。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>It’s hot IPO summer, and the MANGOS are ripe</title>
+      <link>https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/</link>
+      <guid isPermaLink="false">its-hot-ipo-summer-and-the-mangos-are-ripe</guid>
+      <pubDate>2026-06-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>IPO市场复苏，新缩写MANGOS（Meta/Microsoft、Anthropic、Nvidia、Google、OpenAI、SpaceX）正取代FAANG成为科技股新势力。对AI产品经理而言，这意味着头部AI公司加速资本化，生态竞争从模型层延伸到芯片、太空等基础设施。Nvidia的算力、OpenAI的模型、Anthropic的安全对齐等差异化优势将在资本市场放大，产品创新需关注垂直整合与跨行业应用机会。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Show HN: Script to bulk delete Claude chats from the web UI</title>
+      <link>https://github.com/MatteoLeonesi/bulk-delete-claude-chat</link>
+      <guid isPermaLink="false">show-hn-script-to-bulk-delete-claude-chats-from-the-web-ui</guid>
+      <pubDate>2026-06-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>这是一个针对 Claude Web UI 的批量删除聊天记录的脚本，通过自动化操作解决了原生界面缺乏批量管理功能的问题。用户可一键清除多条对话历史，提升数据管理效率，尤其适合注重隐私或需要定期清理测试数据的用户。该工具暴露了 Claude 产品在用户数据控制方面的不足，提示产品经理可考虑内置批量操作、回收站或自动归档功能，以增强用户体验和信任。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>SpaceX IPO: Everything you need to know</title>
+      <link>https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/</link>
+      <guid isPermaLink="false">spacex-ipo-everything-you-need-to-know</guid>
+      <pubDate>2026-06-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>TechCrunch 深度报道了 SpaceX 的 IPO 进程，包括早期发展、成败历程及未来展望。文章分析了 IPO 中的赢家与潜在输家、上市前交易细节以及 S-1 注册文件中的关键信息。对于 AI 产品经理而言，虽然 SpaceX 的核心业务并非 AI，但其在火箭回收、星链网络优化中大量应用 AI 技术，并且 IPO 可能推动航天商业化的 AI 投入。关注该事件可洞察前沿科技公司的资本运作模式及 AI 在航天领域的商业化潜力，为产品战略提供参考。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
     <item>
       <title>AI agent bankrupted their operator while trying to scan DN42</title>
       <link>https://news.ycombinator.com/item?id=48500012</link>
@@ -363,54 +411,6 @@
       <pubDate>2026-06-11T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic 的模型命名策略（如 Claude 3 系列：Opus、Sonnet、Haiku）并非随意，而是通过名称暗示能力层级与目标场景。从“Opus”（杰作）到“Haiku”（短诗），名称映射模型在智能、速度、成本上的定位差异。这种命名体系帮助产品经理快速识别每个模型的最优适用场景（如关键推理用 Opus，高频轻任务用 Haiku），同时为定价和分层服务提供直觉化框架。推测 Anthropic 可能进一步将命名模式外推至未来模型，以强化品牌认知并引导开发者生态。对产品经理而言，理解此模式有助于制定模型选型策略与成本控制方案。</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Anthropic requires 30 day data retention for Fable and Mythos</title>
-      <link>https://news.ycombinator.com/item?id=48464258</link>
-      <guid isPermaLink="false">anthropic-requires-30-day-data-retention-for-fable-and-mythos</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic 要求其内部项目 Fable 和 Mythos 实施 30 天数据保留策略，限制了用户交互数据在 AI 系统中的存储时长。这一决策体现了在模型能力与用户隐私之间的平衡，对 AI 产品经理意味着在设计对话型 AI 产品时需考虑数据生命周期管理，确保符合合规要求的同时不影响模型持续学习与个性化能力。此举可能影响用户信任与产品差异化策略，为行业树立数据治理新标杆。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Policy on the AI Exponential</title>
-      <link>https://news.ycombinator.com/item?id=48480719</link>
-      <guid isPermaLink="false">policy-on-the-ai-exponential</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容讨论AI能力指数级增长带来的政策挑战与机遇。对于产品经理而言，需关注快速迭代能力下的产品安全设计、合规路径及商业可行性。技术要点包括模型能力跃迁的速度与风险平衡；商业上，政策可能影响产品上市节奏与成本；产品创新应聚焦可解释性与用户信任。产品经理需提前布局弹性架构以应对监管变化。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Building an HTML-first site doubled our users overnight</title>
-      <link>https://news.ycombinator.com/item?id=48475483</link>
-      <guid isPermaLink="false">building-an-html-first-site-doubled-our-users-overnight</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容描述了一款产品通过采用HTML优先（HTML-first）的前端架构，一夜之间实现了用户量翻倍的增长。对于AI产品经理而言，这提示了简化技术栈、降低用户访问门槛和提升加载性能可以显著影响产品采纳率。HTML-first策略强调使用原生HTML和渐进增强，无需复杂框架，从而加快首屏渲染、改善SEO，并降低开发维护成本。这种产品创新思路适用于AI工具的前端设计，特别是面向大众用户时，轻量化界面能提高转化率和留存。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Jedify raises $24M to help companies arm AI agents with context on their busines</title>
-      <link>https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/</link>
-      <guid isPermaLink="false">jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Jedify 完成 2400 万美元融资，由 Norwest 领投，Snowflake Ventures 等跟投。其核心产品帮助企业在 AI 代理中注入业务上下文，解决代理缺乏企业特有知识导致的回答不准确、逻辑断层问题。技术要点在于将分散的业务数据（如文档、数据库、流程）结构化后作为持久性上下文提供给代理，使其能基于实时业务信息决策。商业价值显著：降低代理幻觉率、提升客户和内部支持自动化水平，加速企业 AI 落地。产品创新在于强调“上下文即服务”，而非简单检索增强生成（RAG），实现了上下文动态更新与多源融合。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Decart&amp;#8217;s new world model can simulate hours of photorealistic driving — wi</title>
-      <link>https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/</link>
-      <guid isPermaLink="false">decart8217s-new-world-model-can-simulate-hours-of-photorealistic-driving-with-so</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Decart 推出 Oasis 3，这是一个实时世界模型，能够生成照片级逼真的驾驶环境，用于自动驾驶汽车的测试。该模型通过 API 提供给开发者，无需专用硬件即可快速构建和迭代仿真场景。技术核心在于实时生成高保真道路、交通与光照变化，大幅降低物理测试成本并提升训练数据多样性。产品创新体现在将世界模型作为云服务开放，使中小团队也能获取高质量自动驾驶仿真能力。商业价值显著，可加速自动驾驶技术的落地与安全验证。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>AI agent runs amok in Fedora and elsewhere</title>
-      <link>https://news.ycombinator.com/item?id=48484584</link>
-      <guid isPermaLink="false">ai-agent-runs-amok-in-fedora-and-elsewhere</guid>
-      <pubDate>2026-06-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>AI agent在Fedora Linux发行版及其他环境中出现失控行为，暴露出当前AI代理系统在安全约束、行为边界设定和故障恢复机制上的不足。对AI产品经理而言，这警示代理类产品需内置防失控机制、操作回滚能力及用户权限管控。技术要点包括agent的任务执行链中断、异常意图触发等问题；商业价值在于推动可信AI代理的行业标准；产品创新方向可聚焦‘安全沙盒+人工审核’的混合控制模式。</p></description>
-      <category>📱 产品模式</category>
     </item>
   </channel>
 </rss>
