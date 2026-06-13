@@ -5,13 +5,45 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 13 Jun 2026 12:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 16:05:40 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>AI OSS tool repo goes archived over night after raising $7.3M Seed</title>
+      <link>https://news.ycombinator.com/item?id=48516504</link>
+      <guid isPermaLink="false">ai-oss-tool-repo-goes-archived-over-night-after-raising-73m-seed</guid>
+      <pubDate>2026-06-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>一款获得730万美元种子轮融资的AI开源工具项目，在融资消息公布后一夜之间将仓库设为归档状态，引发社区对开源项目可持续性和商业化风险的讨论。该事件突显了AI初创企业在资金到位后仍可能因战略调整、知识产权或团队变动而放弃开源维护。对AI产品经理而言，这警示在技术选型时需评估对开源项目的依赖风险，并关注项目背后的商业稳定性。产品创新方面，该项目此前可能探索了特定AI能力（如推理或数据处理），其突然归档也反映了开源模式在AI领域面临的挑战——短期融资与长期社区建设之间的平衡。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Paca – Lightweight Jira alternative for human-AI collaboration</title>
+      <link>https://news.ycombinator.com/item?id=48515385</link>
+      <guid isPermaLink="false">show-hn-paca-lightweight-jira-alternative-for-human-ai-collaboration</guid>
+      <pubDate>2026-06-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Paca 是一款轻量级项目管理工具，旨在替代 Jira，其核心创新在于专门优化人类与 AI 的协作流程。技术要点包括集成 AI 助手以自动处理任务分配、更新状态和生成报告，降低人工操作复杂度；采用极简界面减少认知负荷。商业价值体现在降低团队采用门槛、提升协作效率，尤其适合需要频繁与 AI 协同工作的敏捷团队。产品创新点在于将 AI 视为平等协作伙伴而非仅自动化工件，支持自然语言指令驱动项目变更，重新定义了项目管理工具的人机交互模式。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Skill for your agent to visualize your gbrain and Obsidian</title>
+      <link>https://github.com/vladignatyev/brain-map-skill</link>
+      <guid isPermaLink="false">show-hn-skill-for-your-agent-to-visualize-your-gbrain-and-obsidian</guid>
+      <pubDate>2026-06-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该项目展示了一个为AI Agent开发的技能，使其能够可视化用户的“gbrain”（可能指代知识图谱或大脑连接）以及Obsidian笔记库。产品创新点在于将智能体能力与个人知识管理（PKM）工具深度集成，通过可视化交互降低认知负荷。技术要点包括利用向量检索和知识图谱技术，让Agent理解并呈现笔记间的关系网络。商业价值在于提升个人生产力工具的用户粘性，为协作式AI伴侣开辟新场景，尤其适合知识工作者和研究型用户。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case</title>
+      <link>https://news.ycombinator.com/item?id=48516558</link>
+      <guid isPermaLink="false">sam-bankman-fried-loses-bid-to-appeal-against-fraud-conviction-in-ftx-case</guid>
+      <pubDate>2026-06-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>Sam Bankman-Fried（FTX 创始人）针对其欺诈定罪的的上诉请求被驳回，维持原判。此事件虽不直接涉及 AI 技术，但作为加密行业标志性案件，其结局警示 AI 产品经理应注重合规与透明运营。从商业层面看，该判决可能进一步降低公众对加密资产的信任，影响支付、DeFi 等与 AI 结合场景的采用。产品角度需关注监管趋严带来的风险，如 AI 在金融决策中的审计要求、数据可靠性及反欺诈机制设计。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
     <item>
       <title>Open source AI must win</title>
       <link>https://news.ycombinator.com/item?id=48511908</link>
@@ -378,38 +410,6 @@
       <guid isPermaLink="false">pool8217s-new-app-turns-your-screenshots-into-something-useful</guid>
       <pubDate>2026-06-12T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Pool 推出新应用，利用 AI 自动将用户截图分类到个性化收藏中，并追踪截图内产品、食谱等内容的原始链接，帮助用户高效重新发现和复用之前保存的信息。该产品解决了截图信息碎片化与遗忘痛点，通过自动化整理和链接提取提升了信息管理效率，为后续推荐和再消费提供基础。技术亮点在于截图内容理解、自动分类与链接溯源能力，体现从被动存储到主动价值挖掘的产品创新。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Ear Training Practice Exercises</title>
-      <link>https://news.ycombinator.com/item?id=48447598</link>
-      <guid isPermaLink="false">ear-training-practice-exercises</guid>
-      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容聚焦于利用 AI 技术赋能听觉训练练习，通过音频处理和机器学习算法实现音高、节奏、和弦等核心乐感的自动识别与个性化反馈。对于 AI 产品经理而言，核心价值在于将传统音乐教育中的主观评估转化为可量化的实时训练系统，降低教师依赖并提升练习效率。产品创新点包括自适应难度调整、错误模式分析和游戏化激励机制，能够显著增强用户粘性。商业上可面向音乐教育平台、乐器学习应用和音乐创作工具，形成差异化竞争力。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Build a Basic AI Agent from Scratch: Long Task Planning</title>
-      <link>https://news.ycombinator.com/item?id=48461635</link>
-      <guid isPermaLink="false">build-a-basic-ai-agent-from-scratch-long-task-planning</guid>
-      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文介绍从零构建基础AI代理实现长任务规划的技术方法，重点讲解如何将复杂任务分解为可执行的子步骤、使用规划算法维护长期上下文，以及处理执行过程中的环境反馈和动态调整。对于AI产品经理，这体现了代理能力从单轮对话向自主多步操作的关键演进，可应用于自动化工作流、复杂问题求解等场景。商业上，降低了对大模型推理能力的依赖，使轻量级代理能承担更多实际业务任务，提升产品智能度和用户粘性。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Cheaper, faster, and culturally aware, Avataar&amp;#8217;s video AI is built for Ind</title>
-      <link>https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/</link>
-      <guid isPermaLink="false">cheaper-faster-and-culturally-aware-avataar8217s-video-ai-is-built-for-india8217</guid>
-      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Avataar AI推出面向印度市场的视频生成模型，主打低成本（每秒0.005美元）、高速度和文化适应性。该模型采用蒸馏技术，在降低推理成本的同时保持生成质量，专为印度大规模视频内容生产场景设计。商业上，按秒计费模式显著降低了视频制作门槛，产品创新体现在对印度本地文化元素（如语言、服饰、场景）的深度理解与适配，使AI生成内容更具地域亲和力。这一策略有望在电商广告、短视频等高频场景快速落地。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning</title>
-      <link>http://arxiv.org/abs/2606.13673v1</link>
-      <guid isPermaLink="false">spatialclaw-rethinking-action-interface-for-agentic-spatial-reasoning</guid>
-      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>SpatialClaw 提出了一种重新定义智能体行动接口的方法，用于增强视觉语言模型（VLM）的三维空间推理能力。传统 VLM 在判断物体位置、空间关系及运动方面存在局限，而工具增强型智能体通过集成专用感知模块来弥补不足。SpatialClaw 通过创新行动接口设计，使智能体能够更有效地利用这些感知模块，实现更准确的 3D 空间理解。该技术对具身智能、机器人导航、AR/VR 交互等产品具有直接商业价值，显著提升智能体在复杂空间环境中的决策与操作能力。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
