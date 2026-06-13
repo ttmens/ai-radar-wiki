@@ -1798,3 +1798,9 @@
 - create: shepherds-dog-a-game-by-the-most-dangerous-ai-model.md
 - create: tectonic-a-modernized-complete-self-contained-texlatex-engine.md
 - create: andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-livi.md
+
+## [2026-06-14 00:02] sync v3 | 4 new | pillars: {'capabilities': 3, 'patterns': 1}
+- create: ai-oss-tool-repo-goes-archived-over-night-after-raising-73m-seed.md
+- create: show-hn-paca-lightweight-jira-alternative-for-human-ai-collaboration.md
+- create: sam-bankman-fried-loses-bid-to-appeal-against-fraud-conviction-in-ftx-case.md
+- create: show-hn-skill-for-your-agent-to-visualize-your-gbrain-and-obsidian.md

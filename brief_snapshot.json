@@ -1,242 +1,33 @@
 {
-  "date": "2026-06-13",
-  "generated_at": "2026-06-13T18:04:37.172831+08:00",
-  "item_count": 21,
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T00:02:13.381847+08:00",
+  "item_count": 2,
   "items": [
     {
-      "id": "open-source-ai-must-win",
-      "label": "Open source AI must win",
-      "summary": "文章主张开源AI必须获胜，强调其在技术生态中的关键作用。开源模式能加速AI创新、降低开发门槛，并促进社区协作，形成更健康的产品生态。对AI产品经理而言，开源策略有助于快速迭代、构建差异化功能，并降低对单一供应商的依赖。商业上，开源可吸引开发者、建立信任，进而推动平台效应。产品创新方面，开源模型（如LLaMA、Mistral）的涌现催生了微调、部署等新场景，为产品组合提供更多可能。",
-      "pm_score": 0.615,
-      "pillar": "ecosystem",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48511908",
-      "date": "2026-06-13"
-    },
-    {
-      "id": "kimi-k27-code-open-source-coding-model-with-better-token-efficiency",
-      "label": "Kimi K2.7-Code: open-source coding model with better token efficiency",
-      "summary": "Kimi推出K2.7-Code开源编码模型，重点提升token效率，即用更少的token完成相同或更好的编码任务。对于AI产品经理而言，这意味着在推理成本、响应速度和上下文窗口利用上更有优势，尤其适合集成到代码助手、IDE插件等场景。开源属性降低了企业定制和部署门槛，可能推动更多开发工具采用该模型，形成生态竞争力。商业价值在于降低API调用成本、提升用户体验，并可通过本地部署满足数据安全需求。",
-      "pm_score": 0.6,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48502347",
-      "date": "2026-06-13"
-    },
-    {
-      "id": "the-future-of-email",
-      "label": "The Future of Email",
-      "summary": "AI 正在重塑电子邮件，通过自然语言处理实现智能摘要、自动回复建议和优先级排序，显著提升邮件处理效率。产品创新点包括基于长期对话上下文的记忆能力，以及从邮件中提取任务并自动生成待办事项。商业价值在于减少用户时间消耗，提升企业沟通效率。技术要点涉及大语言模型对非结构化文本的理解与生成。",
-      "pm_score": 0.55,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48502321",
-      "date": "2026-06-13"
-    },
-    {
-      "id": "slightly-reducing-the-sloppiness-of-ai-generated-front-end",
-      "label": "Slightly reducing the sloppiness of AI generated front end",
-      "summary": "该技术探讨了如何通过细微调整来减少AI生成前端代码的“草率”问题，即提升代码质量和一致性。对于AI产品经理而言，这意味着更可靠的前端自动化生成能力，可降低人工调试成本并加速产品迭代。技术要点聚焦于优化生成过程中的误差控制，商业价值体现在提高开发效率和降低返工率，产品创新方向是将AI从前端辅助工具转变为更可信赖的自动生成方案。这属于AI基础能力提升，而非商业模式或生态变革。",
-      "pm_score": 0.55,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48504912",
-      "date": "2026-06-13"
-    },
-    {
-      "id": "ryanair-dark-ux-patterns-summer-2026-refresher",
-      "label": "Ryanair dark UX patterns summer 2026 refresher",
-      "summary": "Ryanair 2026年夏季更新中再次使用黑暗UX模式（如强制捆绑保险、隐藏取消选项、误导性弹窗），旨在提高附加服务转化率但牺牲用户体验。这类设计虽短期内提升商业指标，但长期会侵蚀用户信任并可能面临监管风险。AI产品经理需警惕在对话、推荐或支付流程中植入类似操纵性界面，应坚持透明度原则，通过用户测试和伦理审查避免算法偏见与欺诈式交互。该案例警示AI产品必须平衡商业目标与道德责任。",
-      "pm_score": 0.55,
-      "pillar": "patterns",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48502601",
-      "date": "2026-06-13"
-    },
-    {
-      "id": "dont-you-just-upload-it-to-chatgpt",
-      "label": "\"Don't You Just Upload It to ChatGPT?\"",
-      "summary": "该标题质疑用户习惯性地将文件直接上传至ChatGPT的做法，探讨这种交互方式的便利性与潜在问题（如数据隐私、处理效率、模型局限性等）。面向AI产品经理，这提示需要关注用户行为与产品设计之间的匹配，避免简单复制传统操作模式，而应优化上传后的上下文管理、多模态内容理解及结果呈现方式，以提升用户体验与商业价值。",
+      "id": "ai-oss-tool-repo-goes-archived-over-night-after-raising-73m-seed",
+      "label": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "summary": "一款获得730万美元种子轮融资的AI开源工具项目，在融资消息公布后一夜之间将仓库设为归档状态，引发社区对开源项目可持续性和商业化风险的讨论。该事件突显了AI初创企业在资金到位后仍可能因战略调整、知识产权或团队变动而放弃开源维护。对AI产品经理而言，这警示在技术选型时需评估对开源项目的依赖风险，并关注项目背后的商业稳定性。产品创新方面，该项目此前可能探索了特定AI能力（如推理或数据处理），其突然归档也反映了开源模式在AI领域面临的挑战——短期融资与长期社区建设之间的平衡。",
       "pm_score": 0.53,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48507278",
-      "date": "2026-06-13"
+      "url": "https://news.ycombinator.com/item?id=48516504",
+      "date": "2026-06-14"
     },
     {
-      "id": "how-to-setup-a-local-coding-agent-on-macos",
-      "label": "How to setup a local coding agent on macOS",
-      "summary": "本文介绍在 macOS 上搭建本地编码代理的步骤。对 AI 产品经理而言，该方法凸显了本地运行 AI 代理的核心价值：数据隐私保护、低延迟交互与成本可控。技术要点包括利用本地开源模型（如 CodeLlama）和工具链（如 Ollama）实现代码补全、重构与调试，无需依赖云端 API。商业上可降低企业合规风险，产品创新则体现在将 AI 能力嵌入本地开发环境，实现响应式协作。该模式适合对安全要求高的企业团队或离线场景。",
-      "pm_score": 0.53,
-      "pillar": "patterns",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48507020",
-      "date": "2026-06-13"
-    },
-    {
-      "id": "weve-suspended-access-to-claude-mythos-5-and-claude-fable-5",
-      "label": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
-      "summary": "Anthropic 暂停了 Claude Mythos 5 和 Claude Fable 5 两款模型的访问权限，这对依赖该模型的开发者与产品团队构成直接影响。技术要点：此次暂停可能涉及模型安全性、输出质量或合规性调整，需关注官方后续解释；商业价值：模型迭代的稳定性影响企业级客户信心，产品经理应评估替代方案并与供应商保持沟通；产品创新：Claude 系列持续分化出针对不同场景的变体（如 Mythos 侧重创意、Fable 侧重叙事），暂停反映 AI 产品快速实验与风控之间的平衡策略。",
-      "pm_score": 0.53,
+      "id": "show-hn-paca-lightweight-jira-alternative-for-human-ai-collaboration",
+      "label": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+      "summary": "Paca 是一款轻量级项目管理工具，旨在替代 Jira，其核心创新在于专门优化人类与 AI 的协作流程。技术要点包括集成 AI 助手以自动处理任务分配、更新状态和生成报告，降低人工操作复杂度；采用极简界面减少认知负荷。商业价值体现在降低团队采用门槛、提升协作效率，尤其适合需要频繁与 AI 协同工作的敏捷团队。产品创新点在于将 AI 视为平等协作伙伴而非仅自动化工件，支持自然语言指令驱动项目变更，重新定义了项目管理工具的人机交互模式。",
+      "pm_score": 0.43,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48511121",
-      "date": "2026-06-13"
-    },
-    {
-      "id": "anthropic8217s-safety-warnings-may-have-just-backfired-the-government-has-pulled",
-      "label": "Anthropic&#8217;s safety warnings may have just backfired — the government has p",
-      "summary": "Anthropic 的顶级 AI 模型因安全警告引发政府召回，公司强烈反对，认为窄范围越狱漏洞不应作为召回已部署给数亿用户的商业模型的理由。这暴露了 AI 安全机制与商业部署之间的核心矛盾：过度追求绝对安全可能损害产品可用性和市场信任。对 AI 产品经理而言，需平衡模型能力、安全合规与用户体验，建立分级越狱防御策略，而非一刀切式召回。事件也凸显了政府监管对 AI 产品生命周期的影响，企业需提前制定应对预案。",
-      "pm_score": 0.515,
-      "pillar": "ecosystem",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-      "date": "2026-06-13"
-    },
-    {
-      "id": "stefan-jansenmachine-learning-for-trading",
-      "label": "stefan-jansen/machine-learning-for-trading",
-      "summary": "该项目是《Machine Learning for Algorithmic Trading》第二版的配套代码库，提供了从数据获取、特征工程到模型训练、回测的完整机器学习交易系统实现。技术要点包括时间序列预处理、监督学习与强化学习在策略生成中的应用，以及风险管理和执行优化。商业价值在于降低量化交易开发门槛，加速从研究到部署的迭代。产品创新在于将前沿ML技术（如LSTM、Transformer）与实盘交易场景结合，开源可复现的标准化工作流。",
-      "pm_score": 0.51,
-      "pillar": "patterns",
-      "type": "github",
-      "source_type": "github",
-      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
-      "date": "2026-06-13"
-    },
-    {
-      "id": "meta8217s-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-in",
-      "label": "Meta&#8217;s months-old AI unit is a soul-crushing gulag, say the engineers stuc",
-      "summary": "据TechCrunch报道，Meta成立仅数月的AI部门内部管理混乱，6500名员工普遍感到士气低落，形容工作环境如同‘古拉格’。报告指出该部门濒临集体反抗，反映出大公司在快速扩张AI团队时面临的文化冲突和人才管理挑战。对AI产品经理而言，团队内耗可能严重拖累产品迭代效率与创新质量，需警惕组织僵化对技术落地的负面影响。",
-      "pm_score": 0.445,
-      "pillar": "business",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-      "date": "2026-06-13"
-    },
-    {
-      "id": "its-hot-ipo-summer-and-the-mangos-are-ripe",
-      "label": "It’s hot IPO summer, and the MANGOS are ripe",
-      "summary": "IPO市场复苏，新缩写MANGOS（Meta/Microsoft、Anthropic、Nvidia、Google、OpenAI、SpaceX）正取代FAANG成为科技股新势力。对AI产品经理而言，这意味着头部AI公司加速资本化，生态竞争从模型层延伸到芯片、太空等基础设施。Nvidia的算力、OpenAI的模型、Anthropic的安全对齐等差异化优势将在资本市场放大，产品创新需关注垂直整合与跨行业应用机会。",
-      "pm_score": 0.445,
-      "pillar": "business",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
-      "date": "2026-06-13"
-    },
-    {
-      "id": "shepherds-dog-a-game-by-the-most-dangerous-ai-model",
-      "label": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
-      "summary": "一款名为“Shepherd's Dog”的游戏，由号称“最危险的AI模型”开发。该模型可能具备高度自主或生成能力，用于创建游戏内容。此案例展示了AI在创意产品（如游戏）中的应用潜力，挑战了传统游戏开发模式，同时也引发对AI安全与控制的关注。产品经理可从中看到AI驱动内容生成的商业价值和风险。",
-      "pm_score": 0.445,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48513728",
-      "date": "2026-06-13"
-    },
-    {
-      "id": "mistral-is-rumored-to-be-raising-3b-at-20b-valuation",
-      "label": "Mistral is rumored to be raising €3B at €20B valuation",
-      "summary": "据报道，法国AI初创公司Mistral正在筹集30亿欧元融资，估值达200亿欧元（约231.5亿美元），较其C轮估值117亿欧元几乎翻倍。此次融资规模凸显投资者对欧洲AI龙头的高度认可，其开源大语言模型和高效推理能力持续吸引资本。对产品经理而言，这一动态表明AI模型赛道资本集中度提升，Mistral的技术路线（轻量级、高性能）可能成为企业级部署的重要参考，同时高估值也意味着产品商业化压力增大。",
-      "pm_score": 0.445,
-      "pillar": "business",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-      "date": "2026-06-13"
-    },
-    {
-      "id": "chinese-cybercrime-operation-that-used-ai-to-scam-8216hundreds-of-thousands-of-v",
-      "label": "Chinese cybercrime operation that used AI to scam &#8216;hundreds of thousands o",
-      "summary": "谷歌起诉一个名为“Outsider Enterprise”的中国网络犯罪组织，指控其利用AI技术实施大规模诈骗。该组织在两周内发送了250万条诈骗短信，通过AI生成模仿真人对话的内容，骗取数十万受害者的钱财。此事件凸显了AI在欺诈场景中的滥用风险，对AI产品经理而言，需要关注AI生成内容的识别与反欺诈机制，例如植入对话真实性验证、行为异常检测等安全模块，以防范类似产品被恶意利用。",
-      "pm_score": 0.445,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-      "date": "2026-06-13"
-    },
-    {
-      "id": "andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-livi",
-      "label": "Andrew Yang thinks the next big startup opportunity is lowering the cost of livi",
-      "summary": "安德鲁·杨（Andrew Yang）指出，美国人在住房、食品、无线通信等领域存在大量过度支付现象，他认为下一个创业“淘金热”将集中在降低生活成本上。对于AI产品经理而言，这意味着利用AI技术优化供应链、自动化服务流程、减少中间环节和定价泡沫，从而将节省的成本返还给消费者。例如，AI驱动的智能家居管理、动态定价工具、农产品直供平台等，都能显著降低生活支出。该观点强调通过技术手段解决社会痛点，具有明确的商业价值和社会影响力，为AI产品的落地提供了广阔的C端应用场景。",
-      "pm_score": 0.445,
-      "pillar": "business",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-      "date": "2026-06-13"
-    },
-    {
-      "id": "spacex-anthropic-and-openais-hot-ipo-summer",
-      "label": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-      "summary": "本文指出IPO市场复苏，但领跑者已不是传统FAANG，而是由MANGOS（Meta/Microsoft、Anthropic、Nvidia、Google、OpenAI、SpaceX）组成的新阵营。其中Anthropic、OpenAI和SpaceX等AI与前沿科技公司正成为IPO热潮的核心，反映出资本市场对AI赛道的高度关注和投资转向。对AI产品经理而言，这预示着AI创业公司融资环境改善，产品商业化加速，同时行业竞争格局将因资本注入而重塑。",
-      "pm_score": 0.41,
-      "pillar": "business",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-      "date": "2026-06-13"
-    },
-    {
-      "id": "palantir-loses-legal-challenge-against-swiss-investigative-magazine",
-      "label": "Palantir loses legal challenge against Swiss investigative magazine",
-      "summary": "Palantir 在瑞士调查杂志的法律挑战中败诉，该诉讼涉及数据隐私与监控争议。对 AI 产品经理而言，此案警示了 AI 公司需在数据采集、算法透明度及伦理合规上投入更多，否则可能面临法律与声誉风险。尽管未直接涉及技术突破，但反映了商业生态中监管对 AI 产品设计的影响，尤其是在政府合作与隐私敏感型场景中，合规能力已成为核心壁垒。",
-      "pm_score": 0.345,
-      "pillar": "business",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48509182",
-      "date": "2026-06-13"
-    },
-    {
-      "id": "show-hn-puttday-a-daily-mini-golf-game",
-      "label": "Show HN: Putt.day a daily mini golf game",
-      "summary": "Putt.day 是一个每日更新的迷你高尔夫游戏，通过每日挑战机制提升用户粘性。虽然未明确提及 AI 技术，但可能利用程序化内容生成或自适应难度算法来动态创建关卡，实现个性化体验。对于 AI 产品经理，其创新点在于将每日挑战模式与简单休闲游戏结合，可能通过数据反馈优化关卡设计，但技术深度有限。",
-      "pm_score": 0.34,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48510341",
-      "date": "2026-06-13"
-    },
-    {
-      "id": "mmorpg-world-of-claudecraft-vibe-coded-with-fable-5",
-      "label": "Mmorpg World of ClaudeCraft, vibe coded with Fable 5",
-      "summary": "该项目展示了利用AI（如Claude）和Fable 5框架快速构建大型多人在线角色扮演游戏（MMORPG）世界的能力，体现了‘氛围编码’（vibe coding）这一新兴开发方式。技术要点在于通过自然语言交互生成游戏逻辑、场景和NPC，降低游戏开发门槛。商业价值在于推动AI驱动的游戏内容生成，可能改变传统游戏研发生态，使非程序员也能创作复杂交互世界。产品创新在于将AI作为核心创作伙伴，实现实时迭代与动态叙事。",
-      "pm_score": 0.33,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48509143",
-      "date": "2026-06-13"
-    },
-    {
-      "id": "tectonic-a-modernized-complete-self-contained-texlatex-engine",
-      "label": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
-      "summary": "Tectonic 是一款现代化的、完整的、自包含的 TeX/LaTeX 引擎，旨在简化 LaTeX 文档编译过程。它摒弃了传统 TeX 发行版的复杂依赖，将所有必要组件打包为一个独立工具，支持自动下载字体和宏包，无需用户手动管理环境。技术要点包括高效编译、跨平台支持和持续集成友好；商业价值在于降低 LaTeX 入门门槛，提升文档编写与自动化流水线的效率；产品创新体现在“开箱即用”的自包含设计，特别适合需要高质量排版的 AI 产品（如自动生成论文、报告）集成。",
-      "pm_score": 0.325,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48467697",
-      "date": "2026-06-13"
+      "url": "https://news.ycombinator.com/item?id=48515385",
+      "date": "2026-06-14"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1518,
-    "edges": 138181
+    "real_nodes": 1522,
+    "edges": 139704
   }
 }

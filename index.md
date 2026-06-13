@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-13 | Total pages: 1537
+> Last updated: 2026-06-14 | Total pages: 1541
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -33,6 +33,7 @@
 - [[ai-is-just-unauthorised-plagiarism-at-a-bigger-scale.md]] AI is just unauthorised plagiarism at a bigger scale `pillar:capabilities` `score:0.63`
 - [[ai-is-making-me-dumb.md]] AI is making me dumb `pillar:capabilities` `score:0.63`
 - [[ai-is-slowing-down.md]] AI is slowing down `pillar:capabilities` `score:0.63`
+- [[ai-oss-tool-repo-goes-archived-over-night-after-raising-73m-seed.md]] AI OSS tool repo goes archived over night after raising $7.3M Seed `pillar:capabilities` `score:0.53`
 - [[ai-outperforms-law-professors-in-stanford-law-study.md]] AI outperforms law professors in Stanford Law study `pillar:capabilities` `score:0.55`
 - [[ai-search-startups-are-blowing-up.md]] AI search startups are blowing up `pillar:capabilities` `score:0.515`
 - [[ai-tools-are-only-as-good-as-your-judgment.md]] AI tools are only as good as your judgment `pillar:capabilities` `score:0.43`
@@ -367,6 +368,7 @@
 - [[show-hn-open-source-ai-racing-harness.md]] Show HN: Open-Source AI Racing Harness `pillar:capabilities` `score:0.295`
 - [[show-hn-open-source-version-of-anthropics-internal-analytics-engine.md]] Show HN: Open-source version of Anthropic's internal analytics engine `pillar:capabilities` `score:0.33`
 - [[show-hn-open-source-workspace-maildocsspreadsheetdrive-webios.md]] Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS `pillar:capabilities` `score:0.36`
+- [[show-hn-paca-lightweight-jira-alternative-for-human-ai-collaboration.md]] Show HN: Paca – Lightweight Jira alternative for human-AI collaboration `pillar:capabilities` `score:0.43`
 - [[show-hn-posthorn-self-hosted-mail-without-the-mail-server.md]] Show HN: Posthorn, self-hosted mail without the mail server `pillar:capabilities` `score:0.31`
 - [[show-hn-prela-purely-algebraic-relation-combinators.md]] Show HN: Prela – Purely Algebraic Relation Combinators `pillar:capabilities` `score:0.225`
 - [[show-hn-puttday-a-daily-mini-golf-game.md]] Show HN: Putt.day a daily mini golf game `pillar:capabilities` `score:0.34`
@@ -967,6 +969,7 @@
 - [[show-hn-open-source-agentic-qa-harness-with-memory.md]] Show HN: Open-Source Agentic QA Harness with Memory `pillar:patterns` `score:0.33`
 - [[show-hn-ouijit-an-open-source-task-and-terminal-manager-for-coding-agents.md]] Show HN: Ouijit, an open-source task and terminal manager for coding agents `pillar:patterns` `score:0.295`
 - [[show-hn-paseo-beautiful-open-source-coding-agent-interface.md]] Show HN: Paseo – Beautiful open-source coding agent interface `pillar:patterns` `score:0.38`
+- [[show-hn-skill-for-your-agent-to-visualize-your-gbrain-and-obsidian.md]] Show HN: Skill for your agent to visualize your gbrain and Obsidian `pillar:patterns` `score:0.295`
 - [[show-hn-slayer-a-semantic-layer-maintained-by-yo.md]] Show HN: SLayer, a semantic layer maintained by your agent `pillar:patterns` `score:0.33`
 - [[show-hn-statewright-visual-state-machines-that.md]] Show HN: Statewright – Visual state machines that make AI agents reliable `pillar:patterns` `score:0.33`
 - [[show-hn-the-agent-that-builds-and-operates-its-own-saas-tools.md]] Show HN: The agent that builds and operates its own SaaS tools `pillar:patterns` `score:0.365`
@@ -1425,6 +1428,7 @@
 - [[report-google-and-spacex-in-talks-to-put-data-cen.md]] Report: Google and SpaceX in talks to put data centers into orbit `pillar:business` `score:0.305`
 - [[riding-an-ai-rally-robinhood-preps-second-retail.md]] Riding an AI rally, Robinhood preps second retail venture IPO `pillar:business` `score:0.305`
 - [[sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo.md]] Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO `pillar:business` `score:0.495`
+- [[sam-bankman-fried-loses-bid-to-appeal-against-fraud-conviction-in-ftx-case.md]] Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case `pillar:business` `score:0.22`
 - [[samsung-chip-workers-will-get-an-average-340k-bonus-as-ai-profits-soar.md]] Samsung chip workers will get an average $340k bonus as AI profits soar `pillar:business` `score:0.395`
 - [[setting-up-a-free-citystateus-locality-domain.md]] Setting up a free *.city.state.us locality domain `pillar:business` `score:0.155`
 - [[show-hn-a-satirical-idle-game-about-running-an-ai-startup.md]] Show HN: A satirical idle game about running an AI startup `pillar:business` `score:0.295`
