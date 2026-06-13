@@ -1785,3 +1785,11 @@
 - create: mistral-is-rumored-to-be-raising-3b-at-20b-valuation.md
 - create: spacex-anthropic-and-openais-hot-ipo-summer.md
 - create: show-hn-zerofs-make-s3-your-primary-storage.md
+
+## [2026-06-13 12:02] sync v3 | 6 new | pillars: {'ecosystem': 1, 'capabilities': 4, 'patterns': 1}
+- create: open-source-ai-must-win.md
+- create: weve-suspended-access-to-claude-mythos-5-and-claude-fable-5.md
+- create: show-hn-puttday-a-daily-mini-golf-game.md
+- create: launch-hn-bitboard-yc-p25-analytics-workspace-for-agents.md
+- create: anthropic8217s-safety-warnings-may-have-just-backfired-the-government-has-pulled.md
+- create: meta8217s-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-in.md

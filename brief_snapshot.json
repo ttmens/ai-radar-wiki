@@ -1,8 +1,19 @@
 {
   "date": "2026-06-13",
-  "generated_at": "2026-06-13T06:04:59.238157+08:00",
-  "item_count": 13,
+  "generated_at": "2026-06-13T12:02:16.248923+08:00",
+  "item_count": 18,
   "items": [
+    {
+      "id": "open-source-ai-must-win",
+      "label": "Open source AI must win",
+      "summary": "文章主张开源AI必须获胜，强调其在技术生态中的关键作用。开源模式能加速AI创新、降低开发门槛，并促进社区协作，形成更健康的产品生态。对AI产品经理而言，开源策略有助于快速迭代、构建差异化功能，并降低对单一供应商的依赖。商业上，开源可吸引开发者、建立信任，进而推动平台效应。产品创新方面，开源模型（如LLaMA、Mistral）的涌现催生了微调、部署等新场景，为产品组合提供更多可能。",
+      "pm_score": 0.615,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48511908",
+      "date": "2026-06-13"
+    },
     {
       "id": "kimi-k27-code-open-source-coding-model-with-better-token-efficiency",
       "label": "Kimi K2.7-Code: open-source coding model with better token efficiency",
@@ -70,6 +81,28 @@
       "date": "2026-06-13"
     },
     {
+      "id": "weve-suspended-access-to-claude-mythos-5-and-claude-fable-5",
+      "label": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
+      "summary": "Anthropic 暂停了 Claude Mythos 5 和 Claude Fable 5 两款模型的访问权限，这对依赖该模型的开发者与产品团队构成直接影响。技术要点：此次暂停可能涉及模型安全性、输出质量或合规性调整，需关注官方后续解释；商业价值：模型迭代的稳定性影响企业级客户信心，产品经理应评估替代方案并与供应商保持沟通；产品创新：Claude 系列持续分化出针对不同场景的变体（如 Mythos 侧重创意、Fable 侧重叙事），暂停反映 AI 产品快速实验与风控之间的平衡策略。",
+      "pm_score": 0.53,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48511121",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "anthropic8217s-safety-warnings-may-have-just-backfired-the-government-has-pulled",
+      "label": "Anthropic&#8217;s safety warnings may have just backfired — the government has p",
+      "summary": "Anthropic 的顶级 AI 模型因安全警告引发政府召回，公司强烈反对，认为窄范围越狱漏洞不应作为召回已部署给数亿用户的商业模型的理由。这暴露了 AI 安全机制与商业部署之间的核心矛盾：过度追求绝对安全可能损害产品可用性和市场信任。对 AI 产品经理而言，需平衡模型能力、安全合规与用户体验，建立分级越狱防御策略，而非一刀切式召回。事件也凸显了政府监管对 AI 产品生命周期的影响，企业需提前制定应对预案。",
+      "pm_score": 0.515,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "date": "2026-06-13"
+    },
+    {
       "id": "stefan-jansenmachine-learning-for-trading",
       "label": "stefan-jansen/machine-learning-for-trading",
       "summary": "该项目是《Machine Learning for Algorithmic Trading》第二版的配套代码库，提供了从数据获取、特征工程到模型训练、回测的完整机器学习交易系统实现。技术要点包括时间序列预处理、监督学习与强化学习在策略生成中的应用，以及风险管理和执行优化。商业价值在于降低量化交易开发门槛，加速从研究到部署的迭代。产品创新在于将前沿ML技术（如LSTM、Transformer）与实盘交易场景结合，开源可复现的标准化工作流。",
@@ -78,6 +111,17 @@
       "type": "github",
       "source_type": "github",
       "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "meta8217s-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-in",
+      "label": "Meta&#8217;s months-old AI unit is a soul-crushing gulag, say the engineers stuc",
+      "summary": "据TechCrunch报道，Meta成立仅数月的AI部门内部管理混乱，6500名员工普遍感到士气低落，形容工作环境如同‘古拉格’。报告指出该部门濒临集体反抗，反映出大公司在快速扩张AI团队时面临的文化冲突和人才管理挑战。对AI产品经理而言，团队内耗可能严重拖累产品迭代效率与创新质量，需警惕组织僵化对技术落地的负面影响。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
       "date": "2026-06-13"
     },
     {
@@ -136,6 +180,17 @@
       "date": "2026-06-13"
     },
     {
+      "id": "show-hn-puttday-a-daily-mini-golf-game",
+      "label": "Show HN: Putt.day a daily mini golf game",
+      "summary": "Putt.day 是一个每日更新的迷你高尔夫游戏，通过每日挑战机制提升用户粘性。虽然未明确提及 AI 技术，但可能利用程序化内容生成或自适应难度算法来动态创建关卡，实现个性化体验。对于 AI 产品经理，其创新点在于将每日挑战模式与简单休闲游戏结合，可能通过数据反馈优化关卡设计，但技术深度有限。",
+      "pm_score": 0.34,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48510341",
+      "date": "2026-06-13"
+    },
+    {
       "id": "mmorpg-world-of-claudecraft-vibe-coded-with-fable-5",
       "label": "Mmorpg World of ClaudeCraft, vibe coded with Fable 5",
       "summary": "该项目展示了利用AI（如Claude）和Fable 5框架快速构建大型多人在线角色扮演游戏（MMORPG）世界的能力，体现了‘氛围编码’（vibe coding）这一新兴开发方式。技术要点在于通过自然语言交互生成游戏逻辑、场景和NPC，降低游戏开发门槛。商业价值在于推动AI驱动的游戏内容生成，可能改变传统游戏研发生态，使非程序员也能创作复杂交互世界。产品创新在于将AI作为核心创作伙伴，实现实时迭代与动态叙事。",
@@ -148,7 +203,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1509,
-    "edges": 135146
+    "real_nodes": 1515,
+    "edges": 136662
   }
 }
