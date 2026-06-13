@@ -1804,3 +1804,14 @@
 - create: show-hn-paca-lightweight-jira-alternative-for-human-ai-collaboration.md
 - create: sam-bankman-fried-loses-bid-to-appeal-against-fraud-conviction-in-ftx-case.md
 - create: show-hn-skill-for-your-agent-to-visualize-your-gbrain-and-obsidian.md
+
+## [2026-06-14 06:05] sync v3 | 9 new | pillars: {'capabilities': 9}
+- create: amazon-ceos-talks-with-us-officials-triggered-crackdown-on-anthropic-models.md
+- create: police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases.md
+- create: ai-coding-at-home-without-going-broke.md
+- create: pwc-report-ai-making-medical-bills-higher.md
+- create: kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations.md
+- create: amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdow.md
+- create: openai-faces-investigation-from-state-attorneys-general.md
+- create: show-hn-quant-picker-which-gguf-file-fits-your-model-and-machine.md
+- create: show-hn-brightdeck-an-ooxml-compatible-ai-presentation-maker.md

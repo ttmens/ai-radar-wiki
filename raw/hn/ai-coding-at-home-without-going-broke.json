@@ -1,0 +1,24 @@
+{
+  "title": "AI coding at home without going broke",
+  "score": 186,
+  "comments": 172,
+  "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+  "hn_url": "https://news.ycombinator.com/item?id=48518969",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该内容探讨如何在不耗费过多成本的情况下开展AI编码，重点在于使用本地运行的开源模型、优化硬件配置或利用免费/低价工具完成编程辅助。面向AI产品经理，其商业价值在于降低AI工具使用门槛，扩大用户基础；产品创新体现在本地优先、离线可用的AI编码助手，以及针对资源受限环境的模型压缩技术。这与当前开源生态中涌现的多种低成本方案（如llama.cpp、Ollama等）相呼应，为产品设计提供了“低预算高性能”的思路。",
+  "pm_relevance": 8,
+  "concepts": [
+    "低成本AI编码",
+    "本地推理优化",
+    "开源模型"
+  ],
+  "entities": [
+    "llama.cpp",
+    "Ollama"
+  ],
+  "patterns": [
+    "Local-First AI"
+  ]
+}

@@ -2,69 +2,120 @@
   "daily_summary": {
     "date": "2026-06-14",
     "headline": "今日 AI 情报 · 2026-06-14",
-    "overview": "AI协作工具崛起伴随开源风险，产品经理需警惕依赖陷阱",
+    "overview": "监管风暴与开源危机双重挤压，AI产品进入合规与可靠性本位时代。",
     "narratives": [
       {
-        "title": "AI协作工具与开源风险：产品经理的双重考验",
-        "body": "开源项目一夜归档暴露依赖风险，同时Paca类工具将AI视为平等协作者，双重信号要求产品经理在技术选型中兼顾功能创新与供应商稳定性。未来AI工具将更注重商业可持续性设计。",
+        "title": "AI治理与合规成为行业核心瓶颈",
+        "body": "从Amazon-CEO施压导致Anthropic断供、OpenAI多州调查，到KPMG因幻觉撤报告、警察滥用AI制造证据——多个独立事件集中指向同一趋势：AI产品设计必须将合规、可审计性与可靠性从附加项升级为核心约束。这不仅是政策博弈，更意味着产品经理需要建立内建撤销机制、输出溯源和人工复核流程，否则将面临服务中断、法律风险与信任崩塌。",
         "type": "bottleneck",
         "pillar_key": "ecosystem"
       },
       {
-        "title": "AI Agent从对话到知识管理：人机协作的下一站",
-        "body": "Agent可视化知识图谱与AI原生项目管理工具表明AI正从语言交互进入结构化认知场景，产品经理需设计更自然的非中介交互界面，让Agent成为知识工作者的大脑延伸。",
-        "type": "paradigm_shift",
+        "title": "本地化与低门槛工具加速AI赋能具体场景",
+        "body": "Quant Picker、AI coding at home、Paca、Brightdeck及gbrain可视化工具等一系列产品，共同展示了AI从云端调用向本地部署、从通用助手向垂直场景集成（项目管理、演示制作、知识管理）的深化。开源项目虽面临商业化风险，但低成本量化工具和轻量级协作方案正在降低采用门槛，为产品经理提供了在受限资源下构建差异化体验的路径。",
+        "type": "maturation",
         "pillar_key": "patterns"
       }
     ],
     "insights": [
       {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "AI治理与合规成为行业核心瓶颈",
+        "insight": "AI治理与合规成为行业核心瓶颈。该方向的具体信号：Amazon CEO直接干预导致Anthropic全球断供模型，OpenAI面临多州总检察长调查，警察滥用AI制造证据——都表明产品经理必须内置可撤销机制、数据溯源和人工审核，否则随时可能面临服务中断与法律追责。",
+        "evidence": [
+          {
+            "id": "amazon-ceos-talks-with-us-officials-triggered-crackdown-on-anthropic-models",
+            "title": "Amazon CEO talks with U.S. officials triggered crackdown on Anthropic models",
+            "score": 0.59
+          },
+          {
+            "id": "amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdow",
+            "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+            "score": 0.48
+          },
+          {
+            "id": "openai-faces-investigation-from-state-attorneys-general",
+            "title": "OpenAI faces investigation from state attorneys general",
+            "score": 0.45
+          }
+        ]
+      },
+      {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "AI Agent从对话到知识管理：人机协作的下一站",
-        "insight": "AI Agent从对话到知识管理：人机协作的下一站。该方向的具体信号：Paca将AI视为协作伙伴而非自动化工具，直接通过自然语言驱动项目变更；另一项目则让Agent可视化用户知识图谱与Obsidian笔记，展示AI理解复杂知识网络的能力，预示着Agent正从单一任务执行向结构化认知协作演进。",
+        "narrative_title": "本地化与低门槛工具加速AI赋能具体场景",
+        "insight": "本地化与低门槛工具加速AI赋能具体场景。该方向的具体信号：Quant Picker降低量化选择难度、Paca将AI视为协作伙伴重构项目管理、Brightdeck解决AI生成内容直接编辑痛点、gbrain可视化整合知识图谱——产品经理应聚焦特定场景的深度集成，利用本地推理和轻量化方案实现低成本、高可用体验。",
         "evidence": [
+          {
+            "id": "show-hn-quant-picker-which-gguf-file-fits-your-model-and-machine",
+            "title": "Show HN: Quant Picker – which GGUF file fits your model and machine",
+            "score": 0.26
+          },
           {
             "id": "show-hn-paca-lightweight-jira-alternative-for-human-ai-collaboration",
             "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
             "score": 0.43
           },
           {
-            "id": "show-hn-skill-for-your-agent-to-visualize-your-gbrain-and-obsidian",
-            "title": "Show HN: Skill for your agent to visualize your gbrain and Obsidian",
-            "score": 0.29
-          }
-        ]
-      },
-      {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "narrative_title": "AI协作工具与开源风险：产品经理的双重考验",
-        "insight": "AI协作工具与开源风险：产品经理的双重考验。该方向的具体信号：获得730万美元融资的开源工具次日归档，暴露出融资后战略调整或知识产权风险；同时SBF上诉被驳回强化了金融合规压力，表明AI产品在依赖开源组件和进入金融场景时必须建立风险缓释机制。",
-        "evidence": [
-          {
-            "id": "ai-oss-tool-repo-goes-archived-over-night-after-raising-73m-seed",
-            "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-            "score": 0.53
+            "id": "show-hn-brightdeck-an-ooxml-compatible-ai-presentation-maker",
+            "title": "Show HN: Brightdeck – an OOXML-compatible AI presentation maker",
+            "score": 0.33
           }
         ]
       }
     ],
-    "stats": "技术能力: 2 | 产品模式: 1 | 工具生态: 0 | 商业趋势: 1",
-    "total_items": 4,
-    "high_value_count": 2,
+    "stats": "技术能力: 5 | 产品模式: 1 | 工具生态: 4 | 商业趋势: 2",
+    "total_items": 13,
+    "high_value_count": 8,
     "all_today_ids": [
+      {
+        "id": "amazon-ceos-talks-with-us-officials-triggered-crackdown-on-anthropic-models",
+        "label": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models"
+      },
+      {
+        "id": "ai-coding-at-home-without-going-broke",
+        "label": "AI coding at home without going broke"
+      },
       {
         "id": "ai-oss-tool-repo-goes-archived-over-night-after-raising-73m-seed",
         "label": "AI OSS tool repo goes archived over night after raising $7.3M Seed"
+      },
+      {
+        "id": "kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations",
+        "label": "KPMG pulls report on AI usage due to apparent hallucinations"
+      },
+      {
+        "id": "amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdow",
+        "label": "Amazon CEO reportedly raised Anthropic model concerns before government crackdow"
+      },
+      {
+        "id": "openai-faces-investigation-from-state-attorneys-general",
+        "label": "OpenAI faces investigation from state attorneys general"
       },
       {
         "id": "show-hn-paca-lightweight-jira-alternative-for-human-ai-collaboration",
         "label": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration"
       },
       {
+        "id": "police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases",
+        "label": "Police officer investigated for using AI to 'create evidence' in multiple cases"
+      },
+      {
+        "id": "pwc-report-ai-making-medical-bills-higher",
+        "label": "PwC Report: AI Making Medical Bills Higher"
+      },
+      {
+        "id": "show-hn-brightdeck-an-ooxml-compatible-ai-presentation-maker",
+        "label": "Show HN: Brightdeck – an OOXML-compatible AI presentation maker"
+      },
+      {
         "id": "show-hn-skill-for-your-agent-to-visualize-your-gbrain-and-obsidian",
         "label": "Show HN: Skill for your agent to visualize your gbrain and Obsidian"
+      },
+      {
+        "id": "show-hn-quant-picker-which-gguf-file-fits-your-model-and-machine",
+        "label": "Show HN: Quant Picker – which GGUF file fits your model and machine"
       },
       {
         "id": "sam-bankman-fried-loses-bid-to-appeal-against-fraud-conviction-in-ftx-case",
@@ -72,6 +123,6 @@
       }
     ],
     "date_bj": "2026-06-14 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-06-14 00:01:47"
+    "generated_at_bj": "2026-06-14 06:05:07"
   }
 }
