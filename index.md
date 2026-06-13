@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-13 | Total pages: 1534
+> Last updated: 2026-06-13 | Total pages: 1537
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -338,6 +338,7 @@
 - [[sgl-projectsglang.md]] sgl-project/sglang `pillar:capabilities` `score:0.615`
 - [[shall-we-play-a-game-llms-use-tactical-nukes-in-95-of-simulations.md]] Shall we play a game? – LLMs use tactical nukes in 95% of simulations `pillar:capabilities` `score:0.48`
 - [[shapshap.md]] shap/shap `pillar:capabilities` `score:0.615`
+- [[shepherds-dog-a-game-by-the-most-dangerous-ai-model.md]] Shepherd's Dog: A Game by the Most Dangerous AI Model `pillar:capabilities` `score:0.445`
 - [[shift-will-clean-homes-for-free-to-train-future-robots.md]] Shift will clean homes for free to train future robots `pillar:capabilities` `score:0.43`
 - [[show-hn-100cc-roll-your-own-claude-in-100-lines.md]] Show HN: 100cc - Roll your own Claude in 100 lines `pillar:capabilities` `score:0.33`
 - [[show-hn-a-dark-cave-minimalistic-graphics-in-the-age-of-ai-slop.md]] Show HN: A Dark Cave – Minimalistic Graphics in the Age of AI Slop `pillar:capabilities` `score:0.295`
@@ -395,6 +396,7 @@
 - [[supabasesupabase.md]] supabase/supabase `pillar:capabilities` `score:0.58`
 - [[tailwind-and-slop-apps.md]] Tailwind and slop apps `pillar:capabilities` `score:0.36`
 - [[techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive.md]] TechCrunch Mobility: The AI skills arms race is coming for automotive `pillar:capabilities` `score:0.445`
+- [[tectonic-a-modernized-complete-self-contained-texlatex-engine.md]] Tectonic: A modernized, complete, self-contained TeX/LaTeX engine `pillar:capabilities` `score:0.325`
 - [[tencentncnn.md]] Tencent/ncnn `pillar:capabilities` `score:0.58`
 - [[tensorflowtfjs.md]] tensorflow/tfjs `pillar:capabilities` `score:0.58`
 - [[the-ai-zombification-of-universities.md]] The AI Zombification of Universities `pillar:capabilities` `score:0.515`
@@ -1279,6 +1281,7 @@
 - [[alphabet-plans-to-raise-80b-to-pay-for-ai-buildout.md]] Alphabet plans to raise $80B to pay for AI buildout `pillar:business` `score:0.48`
 - [[amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature.md]] Amazon faces class action lawsuit over Ring facial-recognition feature `pillar:business` `score:0.48`
 - [[amália-and-the-future-of-european-portuguese-llms.md]] AMÁLIA and the future of European Portuguese LLMs `pillar:business` `score:0.355`
+- [[andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-livi.md]] Andrew Yang thinks the next big startup opportunity is lowering the cost of livi `pillar:business` `score:0.445`
 - [[anthropic-confidentially-submits-draft-s-1-to-the-sec.md]] Anthropic confidentially submits draft S-1 to the SEC `pillar:business` `score:0.63`
 - [[anthropic-courts-a-new-kind-of-customer-small-bus.md]] Anthropic courts a new kind of customer: small business owners `pillar:business` `score:0.48`
 - [[anthropic-files-to-go-public.md]] Anthropic files to go public `pillar:business` `score:0.48`

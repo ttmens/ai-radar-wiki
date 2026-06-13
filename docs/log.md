@@ -1793,3 +1793,8 @@
 - create: launch-hn-bitboard-yc-p25-analytics-workspace-for-agents.md
 - create: anthropic8217s-safety-warnings-may-have-just-backfired-the-government-has-pulled.md
 - create: meta8217s-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-in.md
+
+## [2026-06-13 18:04] sync v3 | 3 new | pillars: {'capabilities': 3}
+- create: shepherds-dog-a-game-by-the-most-dangerous-ai-model.md
+- create: tectonic-a-modernized-complete-self-contained-texlatex-engine.md
+- create: andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-livi.md

@@ -1,0 +1,23 @@
+{
+  "title": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
+  "score": 54,
+  "comments": 22,
+  "url": "https://tectonic-typesetting.github.io/en-US/",
+  "hn_url": "https://news.ycombinator.com/item?id=48467697",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Tectonic 是一款现代化的、完整的、自包含的 TeX/LaTeX 引擎，旨在简化 LaTeX 文档编译过程。它摒弃了传统 TeX 发行版的复杂依赖，将所有必要组件打包为一个独立工具，支持自动下载字体和宏包，无需用户手动管理环境。技术要点包括高效编译、跨平台支持和持续集成友好；商业价值在于降低 LaTeX 入门门槛，提升文档编写与自动化流水线的效率；产品创新体现在“开箱即用”的自包含设计，特别适合需要高质量排版的 AI 产品（如自动生成论文、报告）集成。",
+  "pm_relevance": 5,
+  "concepts": [
+    "Self-contained Engine",
+    "Modernized TeX",
+    "Document Compilation"
+  ],
+  "entities": [
+    "Tectonic"
+  ],
+  "patterns": [
+    "Local-First Tool"
+  ]
+}

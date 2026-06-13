@@ -1,7 +1,7 @@
 {
   "date": "2026-06-13",
-  "generated_at": "2026-06-13T12:02:16.248923+08:00",
-  "item_count": 18,
+  "generated_at": "2026-06-13T18:04:37.172831+08:00",
+  "item_count": 21,
   "items": [
     {
       "id": "open-source-ai-must-win",
@@ -136,6 +136,17 @@
       "date": "2026-06-13"
     },
     {
+      "id": "shepherds-dog-a-game-by-the-most-dangerous-ai-model",
+      "label": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+      "summary": "一款名为“Shepherd's Dog”的游戏，由号称“最危险的AI模型”开发。该模型可能具备高度自主或生成能力，用于创建游戏内容。此案例展示了AI在创意产品（如游戏）中的应用潜力，挑战了传统游戏开发模式，同时也引发对AI安全与控制的关注。产品经理可从中看到AI驱动内容生成的商业价值和风险。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48513728",
+      "date": "2026-06-13"
+    },
+    {
       "id": "mistral-is-rumored-to-be-raising-3b-at-20b-valuation",
       "label": "Mistral is rumored to be raising €3B at €20B valuation",
       "summary": "据报道，法国AI初创公司Mistral正在筹集30亿欧元融资，估值达200亿欧元（约231.5亿美元），较其C轮估值117亿欧元几乎翻倍。此次融资规模凸显投资者对欧洲AI龙头的高度认可，其开源大语言模型和高效推理能力持续吸引资本。对产品经理而言，这一动态表明AI模型赛道资本集中度提升，Mistral的技术路线（轻量级、高性能）可能成为企业级部署的重要参考，同时高估值也意味着产品商业化压力增大。",
@@ -155,6 +166,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "date": "2026-06-13"
+    },
+    {
+      "id": "andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-livi",
+      "label": "Andrew Yang thinks the next big startup opportunity is lowering the cost of livi",
+      "summary": "安德鲁·杨（Andrew Yang）指出，美国人在住房、食品、无线通信等领域存在大量过度支付现象，他认为下一个创业“淘金热”将集中在降低生活成本上。对于AI产品经理而言，这意味着利用AI技术优化供应链、自动化服务流程、减少中间环节和定价泡沫，从而将节省的成本返还给消费者。例如，AI驱动的智能家居管理、动态定价工具、农产品直供平台等，都能显著降低生活支出。该观点强调通过技术手段解决社会痛点，具有明确的商业价值和社会影响力，为AI产品的落地提供了广阔的C端应用场景。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
       "date": "2026-06-13"
     },
     {
@@ -200,10 +222,21 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48509143",
       "date": "2026-06-13"
+    },
+    {
+      "id": "tectonic-a-modernized-complete-self-contained-texlatex-engine",
+      "label": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
+      "summary": "Tectonic 是一款现代化的、完整的、自包含的 TeX/LaTeX 引擎，旨在简化 LaTeX 文档编译过程。它摒弃了传统 TeX 发行版的复杂依赖，将所有必要组件打包为一个独立工具，支持自动下载字体和宏包，无需用户手动管理环境。技术要点包括高效编译、跨平台支持和持续集成友好；商业价值在于降低 LaTeX 入门门槛，提升文档编写与自动化流水线的效率；产品创新体现在“开箱即用”的自包含设计，特别适合需要高质量排版的 AI 产品（如自动生成论文、报告）集成。",
+      "pm_score": 0.325,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48467697",
+      "date": "2026-06-13"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1515,
-    "edges": 136662
+    "real_nodes": 1518,
+    "edges": 138181
   }
 }
