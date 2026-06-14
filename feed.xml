@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 14 Jun 2026 00:07:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 04:07:03 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -53,6 +53,14 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>As Anthropic suspends access to new models, India debates its AI future</title>
+      <link>https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/</link>
+      <guid isPermaLink="false">as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future</guid>
+      <pubDate>2026-06-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Anthropic 暂停新模型访问，引发印度AI界对依赖外国大模型的反思。产品经理需警惕第三方模型服务中断风险，推动本地化模型能力建设。商业上，此举可能加速印度自主大模型研发和算力基础设施投资；产品创新上，可考虑多模型冗余架构或边缘AI方案以降低单一供应商依赖。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>OpenAI faces investigation from state attorneys general</title>
       <link>https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/</link>
       <guid isPermaLink="false">openai-faces-investigation-from-state-attorneys-general</guid>
@@ -67,6 +75,14 @@
       <pubDate>2026-06-14T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Paca 是一款轻量级项目管理工具，旨在替代 Jira，其核心创新在于专门优化人类与 AI 的协作流程。技术要点包括集成 AI 助手以自动处理任务分配、更新状态和生成报告，降低人工操作复杂度；采用极简界面减少认知负荷。商业价值体现在降低团队采用门槛、提升协作效率，尤其适合需要频繁与 AI 协同工作的敏捷团队。产品创新点在于将 AI 视为平等协作伙伴而非仅自动化工件，支持自然语言指令驱动项目变更，重新定义了项目管理工具的人机交互模式。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Meta reportedly moves to unwind $2B Manus deal after Beijing&amp;#8217;s demand</title>
+      <link>https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/</link>
+      <guid isPermaLink="false">meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijing8217s-demand</guid>
+      <pubDate>2026-06-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Meta据传应北京要求，撤销了价值20亿美元的Manus收购案，并开始拆解相关交易。该事件凸显了AI领域跨境并购面临的监管风险，尤其是涉及中国市场的交易。对于AI产品经理而言，这反映了全球化AI生态中政策不确定性的现实，可能影响产品整合与市场扩张策略。Manus作为AI代理平台，其技术价值与市场前景因收购失败而蒙上阴影，也为其他AI公司敲响合规警钟。</p></description>
+      <category>💰 商业趋势</category>
     </item>
     <item>
       <title>Police officer investigated for using AI to 'create evidence' in multiple cases</title>
@@ -85,6 +101,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU</title>
+      <link>https://github.com/ayushh0110/ScreenMind</link>
+      <guid isPermaLink="false">show-hn-i-run-a-vision-model-on-every-screenshot-locally-on-a-4gb-gpu</guid>
+      <pubDate>2026-06-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该项目展示了如何在本地4GB GPU上对每一帧截图运行视觉模型，实现实时屏幕理解。技术要点包括模型量化与优化以适配低显存硬件，无需云端API即可完成图像分析。商业价值在于降低部署成本、保护用户隐私、支持离线场景。产品创新点是将视觉AI深度融入用户操作流，可拓展为智能桌面助手、自动化测试或无障碍工具。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Show HN: Brightdeck – an OOXML-compatible AI presentation maker</title>
       <link>https://brightdeck.ai/</link>
       <guid isPermaLink="false">show-hn-brightdeck-an-ooxml-compatible-ai-presentation-maker</guid>
@@ -93,12 +117,28 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>State Attorneys General Are Investigating OpenAI</title>
+      <link>https://news.ycombinator.com/item?id=48522675</link>
+      <guid isPermaLink="false">state-attorneys-general-are-investigating-openai</guid>
+      <pubDate>2026-06-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>美国多州总检察长联合对OpenAI展开调查，核心关注点包括AI产品的数据收集与使用是否符合消费者保护法、是否存在误导性宣传或反竞争行为。这一监管行动可能迫使OpenAI调整其API数据策略、模型发布流程及用户协议透明度。对AI产品经理而言，需警惕合规风险对产品迭代速度的影响，特别是涉及大规模用户数据训练的场景。同时，事件折射出AI行业从“能力竞赛”向“合规优先”的转型信号，未来产品设计需内置可解释性与隐私保护机制。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>Show HN: Skill for your agent to visualize your gbrain and Obsidian</title>
       <link>https://github.com/vladignatyev/brain-map-skill</link>
       <guid isPermaLink="false">show-hn-skill-for-your-agent-to-visualize-your-gbrain-and-obsidian</guid>
       <pubDate>2026-06-14T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该项目展示了一个为AI Agent开发的技能，使其能够可视化用户的“gbrain”（可能指代知识图谱或大脑连接）以及Obsidian笔记库。产品创新点在于将智能体能力与个人知识管理（PKM）工具深度集成，通过可视化交互降低认知负荷。技术要点包括利用向量检索和知识图谱技术，让Agent理解并呈现笔记间的关系网络。商业价值在于提升个人生产力工具的用户粘性，为协作式AI伴侣开辟新场景，尤其适合知识工作者和研究型用户。</p></description>
       <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>The MilkV Jupiter 2/SpacemiT K3 (RISC-V vector compute)</title>
+      <link>https://news.ycombinator.com/item?id=48494270</link>
+      <guid isPermaLink="false">the-milkv-jupiter-2spacemit-k3-risc-v-vector-compute</guid>
+      <pubDate>2026-06-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>MilkV Jupiter 2 与 SpacemiT K3 是基于 RISC-V 向量计算扩展的新型处理器/开发板，主打高性能向量运算能力，适用于 AI 推理和边缘计算场景。对产品经理而言，这标志着 RISC-V 生态在 AI 加速领域的实质性突破：兼容开放指令集、可定制化强、成本可控，有望降低终端 AI 芯片的授权门槛。但当前软件生态与主流深度学习框架的适配尚在早期，需关注成熟度与开发工具链的跟进。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Show HN: Quant Picker – which GGUF file fits your model and machine</title>
@@ -371,46 +411,6 @@
       <pubDate>2026-06-12T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>OpenAI 正考虑大幅降价以与 Anthropic 争夺用户，显示出 AI 大模型市场竞争加剧，商业模式从技术领先转向价格战。此举可能加速企业客户采用，降低应用门槛，但也考验模型性能与成本平衡。产品经理需关注定价策略对用户留存和生态建设的影响，以及降价是否伴随功能缩减或新商业模式探索。</p></description>
       <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails</title>
-      <link>https://news.ycombinator.com/item?id=48500404</link>
-      <guid isPermaLink="false">digital-sovereignty-becomes-an-imperative-as-the-us-reads-dutch-emails</guid>
-      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文指出，在美国读取荷兰邮件的背景下，数字主权成为迫切的议题。对于AI产品经理而言，这意味着需要重视数据本地化、合规加密与用户隐私保护，以应对跨国数据监管和信任危机。技术层面应关注主权云架构与零信任模型，商业上可借此打造合规差异化优势，产品创新可设计支持多地区数据主权策略的AI系统，确保在不同司法管辖区合法运营。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Claude Fable is relentlessly proactive</title>
-      <link>https://news.ycombinator.com/item?id=48498573</link>
-      <guid isPermaLink="false">claude-fable-is-relentlessly-proactive</guid>
-      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Claude Fable 展现出极强的主动性，意味着 AI 不再被动等待用户指令，而是能预判需求、主动发起交互或执行任务。这种能力为产品经理提供了设计更自然、高效的对话体验的可能，减少用户的操作负担，提升任务完成率。从技术角度看，主动模式需要模型具备上下文感知和意图推断能力，这对长期记忆、状态管理提出了更高要求。商业上，主动 AI 可应用于客服、助手等场景，显著提高用户忠诚度和转化率。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Why AI hasn't replaced software engineers, and won't</title>
-      <link>https://news.ycombinator.com/item?id=48487540</link>
-      <guid isPermaLink="false">why-ai-hasnt-replaced-software-engineers-and-wont</guid>
-      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文讨论AI为何尚未且不会彻底取代软件工程师。尽管AI在代码生成和辅助方面取得进展，但软件工程涉及复杂需求理解、系统设计、调试、维护及人类创造力和判断力，这些是当前AI难以完全替代的。AI更多是提升效率的工具而非替代者。产品经理应理性看待AI能力边界，将AI定位为增强人类开发者生产力的协作伙伴，而非完全自动化的解决方案。长期来看，人类在复杂决策、创新和项目管理中的角色不可替代。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Jeff Bezos&amp;#8217;s Prometheus raises $12B to build an &amp;#8216;artificial general</title>
-      <link>https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/</link>
-      <guid isPermaLink="false">jeff-bezos8217s-prometheus-raises-12b-to-build-an-8216artificial-general-enginee</guid>
-      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>由杰夫·贝索斯支持的初创公司 Prometheus 获得 120 亿美元融资，估值达 410 亿美元，致力于开发面向物理世界的“通用人工工程师”。该公司专注于物理 AI，旨在自动化重型工程（如建筑、制造）和药物设计，通过 AI 代理直接操作物理环境，将复杂的工程任务转化为可编程的智能流程。其商业价值在于颠覆传统高成本、长周期的工程和制药行业，产品创新在于将大语言模型与机器人控制、仿真技术结合，实现从设计到执行的全链路自动化，为产品经理提供了从数字化服务转向实体产品智能化的新方向。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning</title>
-      <link>http://arxiv.org/abs/2606.13680v1</link>
-      <guid isPermaLink="false">learning-to-reason-by-analogy-via-retrieval-augmented-reinforcement-fine-tuning</guid>
-      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出通过检索增强的强化微调方法，让语言模型学习类比推理。传统RAG依赖词汇或语义相似度检索，难以处理需要深度推理的复杂任务。该方法利用强化学习微调模型，使其能基于检索到的类比案例进行逻辑演绎，而非简单匹配。对AI产品经理而言，这项技术进步意味着产品在医疗诊断、法律分析、创意设计等复杂推理场景中能提供更精准的答案，提升用户体验和决策支持能力。商业价值体现在降低对海量标注数据的依赖，通过少量类比样本即可泛化到新问题。</p></description>
-      <category>🤖 技术能力</category>
     </item>
   </channel>
 </rss>
