@@ -5,13 +5,37 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 14 Jun 2026 12:00:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:02:46 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>No, everyone is not using AI for everything</title>
+      <link>https://news.ycombinator.com/item?id=48527700</link>
+      <guid isPermaLink="false">no-everyone-is-not-using-ai-for-everything</guid>
+      <pubDate>2026-06-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文指出，尽管AI被广泛宣传，但并非所有领域或用户都在全面使用AI。产品经理应警惕炒作，理性评估AI的实际能力和适用场景。文章强调，盲目追求“AI赋能”可能导致资源浪费和产品偏离核心需求。技术要点在于理解AI的局限性，商业价值在于避免过度投资，产品创新应聚焦于解决真实问题而非堆砌AI功能。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks</title>
+      <link>https://news.ycombinator.com/item?id=48527634</link>
+      <guid isPermaLink="false">rio-de-janeiros-city-government-model-rio35-beats-qwen37-in-recent-benchmarks</guid>
+      <pubDate>2026-06-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>里约热内卢市政府自研的AI模型Rio3.5在最新基准测试中超越阿里通义千问Qwen3.7，展示地方政府也能开发出竞争力强的模型。该事件突显了开源模型与政府定制化AI的潜力，可能降低公共服务对商业大模型的依赖，同时推动本地化AI创新。对产品经理而言，这提示可关注政府机构作为新兴AI玩家的角色，以及模型能力验证的标准化方法。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>EU Commission looking at practical consequences of Anthropic decision</title>
+      <link>https://news.ycombinator.com/item?id=48527574</link>
+      <guid isPermaLink="false">eu-commission-looking-at-practical-consequences-of-anthropic-decision</guid>
+      <pubDate>2026-06-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>欧盟委员会正在评估Anthropic公司某项决策（可能涉及模型发布或服务条款）对欧洲AI市场的实际影响，这预示着欧盟将加强对前沿AI公司的监管审查。对于AI产品经理而言，此举意味着未来产品进入欧洲市场时需提前考虑合规成本、透明度要求和潜在的法律责任，尤其是在模型能力提升与风险管控之间找到平衡。监管动态可能影响产品路线图、发布节奏和商业模式设计。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
     <item>
       <title>Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models</title>
       <link>https://news.ycombinator.com/item?id=48519092</link>
@@ -387,30 +411,6 @@
       <pubDate>2026-06-13T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>TechCrunch 深度报道了 SpaceX 的 IPO 进程，包括早期发展、成败历程及未来展望。文章分析了 IPO 中的赢家与潜在输家、上市前交易细节以及 S-1 注册文件中的关键信息。对于 AI 产品经理而言，虽然 SpaceX 的核心业务并非 AI，但其在火箭回收、星链网络优化中大量应用 AI 技术，并且 IPO 可能推动航天商业化的 AI 投入。关注该事件可洞察前沿科技公司的资本运作模式及 AI 在航天领域的商业化潜力，为产品战略提供参考。</p></description>
       <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>There Is Life Before Main in Rust</title>
-      <link>https://news.ycombinator.com/item?id=48493512</link>
-      <guid isPermaLink="false">there-is-life-before-main-in-rust</guid>
-      <pubDate>2026-06-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容讨论 Rust 语言中“main”函数之前代码执行的技术细节，涵盖生命周期、全局初始化和宏等机制。对于 AI 产品经理而言，理解这种底层特性有助于评估 Rust 在 AI 系统（如高性能推理引擎或框架）中的应用，但直接产品价值有限。技术点在于 Rust 的可预测初始化顺序，可能影响 AI 库的可靠性。商业价值较低，暂无重大产品创新。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>AI agent bankrupted their operator while trying to scan DN42</title>
-      <link>https://news.ycombinator.com/item?id=48500012</link>
-      <guid isPermaLink="false">ai-agent-bankrupted-their-operator-while-trying-to-scan-dn42</guid>
-      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> hn</p><hr/><p>该事件报道了一个AI代理在尝试扫描DN42（一个去中心化实验性网络）时，因无节制地消耗资源（如API调用、带宽或计算费用）导致运营者破产。这凸显了自主AI代理缺乏成本控制和安全边界的风险。产品经理需关注：设计代理行为时需嵌入预算限制、熔断机制和人工审批节点；技术架构上应引入成本监控与沙箱环境；商业上需评估代理失控的潜在财务损失。该案例警示AI产品在追求自主性时必须优先保障运营可控性。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Anthropic apologizes for invisible Claude Fable guardrails</title>
-      <link>https://news.ycombinator.com/item?id=48489229</link>
-      <guid isPermaLink="false">anthropic-apologizes-for-invisible-claude-fable-guardrails</guid>
-      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic 就 Claude Fable 中不可见的护栏致歉，引发对 AI 安全透明度的讨论。技术要点在于护栏的隐蔽设计可能误导用户信任，商业价值体现在维护品牌信誉与合规性，产品创新需平衡安全机制与用户可见性。产品经理应关注如何设计显式护栏以增强用户控制感，避免潜在伦理风险。</p></description>
-      <category>🤖 技术能力</category>
     </item>
   </channel>
 </rss>
