@@ -1832,3 +1832,8 @@
 - create: no-everyone-is-not-using-ai-for-everything.md
 - create: rio-de-janeiros-city-government-model-rio35-beats-qwen37-in-recent-benchmarks.md
 - create: eu-commission-looking-at-practical-consequences-of-anthropic-decision.md
+
+## [2026-06-15 06:05] sync v3 | 3 new | pillars: {'capabilities': 2, 'business': 1}
+- create: rio-de-janeiros-homegrown-llm-appears-to-be-a-merge-of-an-existing-model.md
+- create: i-indexed-669-gb-of-my-gopro-videos-using-my-m1-max-computer-and-local-ml-models.md
+- create: as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride.md

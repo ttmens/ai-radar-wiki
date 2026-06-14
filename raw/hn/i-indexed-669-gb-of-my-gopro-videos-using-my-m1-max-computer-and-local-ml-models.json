@@ -1,0 +1,25 @@
+{
+  "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+  "score": 216,
+  "comments": 42,
+  "url": "https://news.ycombinator.com/item?id=48528029",
+  "hn_url": "https://news.ycombinator.com/item?id=48528029",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "用户使用Apple M1 Max芯片的本地计算机和机器学习模型，索引了669GB的GoPro视频内容。该方法无需云端传输，利用设备端算力进行视频理解和元数据提取，展示了本地AI处理大规模个人媒体数据的可行性与隐私优势。对产品经理而言，这揭示了边缘AI在个人数据管理（如视频归档、智能搜索）中的产品机会，可降低云成本、提升实时性，并符合用户对数据控制权的需求。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Local ML Indexing",
+    "Video Content Understanding",
+    "Edge AI"
+  ],
+  "entities": [
+    "GoPro",
+    "Apple M1 Max"
+  ],
+  "patterns": [
+    "Local-First AI",
+    "Personal Data Indexing"
+  ]
+}

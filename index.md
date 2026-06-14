@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-15 | Total pages: 1561
+> Last updated: 2026-06-15 | Total pages: 1564
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -203,6 +203,7 @@
 - [[i-built-a-vulnerable-app-and-spent-1500-seeing-if-llms-could-hack-it.md]] I built a vulnerable app and spent $1,500 seeing if LLMs could hack it `pillar:capabilities` `score:0.43`
 - [[i-design-with-claude-more-than-figma-now.md]] I design with Claude more than Figma now `pillar:capabilities` `score:0.585`
 - [[i-dont-think-ai-will-make-your-processes-go-faster.md]] I don't think AI will make your processes go faster `pillar:capabilities` `score:0.6`
+- [[i-indexed-669-gb-of-my-gopro-videos-using-my-m1-max-computer-and-local-ml-models.md]] I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models `pillar:capabilities` `score:0.495`
 - [[i-think-anthropic-and-openai-have-found-product-market-fit.md]] I think Anthropic and OpenAI have found product-market fit `pillar:capabilities` `score:0.665`
 - [[i-tried-amazon8217s-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out.md]] I tried Amazon&#8217;s Bee wearable and am both intrigued and slightly creeped o `pillar:capabilities` `score:0.48`
 - [[if-claude-fable-stops-helping-you-youll-never-know.md]] If Claude Fable stops helping you, you'll never know `pillar:capabilities` `score:0.38`
@@ -327,6 +328,7 @@
 - [[researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai.md]] Researchers Wanted Preschool Teachers to Wear Cameras to Train AI `pillar:capabilities` `score:0.36`
 - [[rich-sutton-on-ai-creativity-and-discovery.md]] Rich Sutton on AI creativity and discovery `pillar:capabilities` `score:0.295`
 - [[rio-de-janeiros-city-government-model-rio35-beats-qwen37-in-recent-benchmarks.md]] Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks `pillar:capabilities` `score:0.345`
+- [[rio-de-janeiros-homegrown-llm-appears-to-be-a-merge-of-an-existing-model.md]] Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model `pillar:capabilities` `score:0.565`
 - [[rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai.md]] Rocket engine startup Impulse raises $500 million to hire people, not AI `pillar:capabilities` `score:0.41`
 - [[rohitg00ai-engineering-from-scratch.md]] rohitg00/ai-engineering-from-scratch `pillar:capabilities` `score:0.63`
 - [[rotary-gpu-exploring-local-execution-for-large-moe-models-under-limited-vram.md]] Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM `pillar:capabilities` `score:0.33`
@@ -1317,6 +1319,7 @@
 - [[anthropic8217s-cat-wu-says-that-in-the-future.md]] Anthropic&#8217;s Cat Wu says that, in the future, AI will anticipate your needs `pillar:business` `score:0.305`
 - [[anthropics-profitability-swindle.md]] Anthropic's "Profitability" Swindle `pillar:business` `score:0.38`
 - [[apple-to-pay-250m-to-settle-lawsuit-over-siri82.md]] Apple to pay $250M to settle lawsuit over Siri&#8217;s delayed AI features `pillar:business` `score:0.15`
+- [[as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride.md]] As AI companies race to go public, who else is along for the ride? `pillar:business` `score:0.445`
 - [[as-openai-files-for-ipo-sam-altman8217s-eye-scanning-company-is-doing-layoffs-re.md]] As OpenAI files for IPO, Sam Altman&#8217;s eye-scanning company is doing layoff `pillar:business` `score:0.41`
 - [[at-techcrunch-disrupt-2026-all-your-m038a-ques.md]] At TechCrunch Disrupt 2026, all your M&#038;A questions will be answered `pillar:business` `score:0.1`
 - [[barry-diller-trusts-sam-altman-but-8216trust-i.md]] Barry Diller trusts Sam Altman. But &#8216;trust is irrelevant&#8217; as AGI nea `pillar:business` `score:0.15`
