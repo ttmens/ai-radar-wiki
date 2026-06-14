@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 14 Jun 2026 08:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 12:00:39 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -85,6 +85,14 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>Making Claude a Chemist</title>
+      <link>https://news.ycombinator.com/item?id=48523752</link>
+      <guid isPermaLink="false">making-claude-a-chemist</guid>
+      <pubDate>2026-06-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨如何将Anthropic的通用AI助手Claude改造为具备化学专业知识的‘化学家’。通过微调或检索增强生成（RAG）技术，注入化学公式、反应机理、分子结构等专业知识，使AI能够理解化学问题、辅助实验设计或分析化合物。商业价值在于拓展AI在制药、材料科学等垂直行业的应用，降低企业获取领域AI的门槛。产品创新体现在从通用对话向领域专家角色的转型，为AI产品经理提供了一种‘AI+专业领域’的适配范式。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Police officer investigated for using AI to 'create evidence' in multiple cases</title>
       <link>https://news.ycombinator.com/item?id=48520807</link>
       <guid isPermaLink="false">police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases</guid>
@@ -99,6 +107,14 @@
       <pubDate>2026-06-14T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>普华永道最新报告指出，AI在医疗领域的应用反而推高了医疗账单，而非降低成本。这揭示当前AI医疗产品在成本控制上存在短板，产品经理需警惕技术引入可能带来的费用转嫁。商业价值关键在于实现AI的精准效益衡量，避免过度投资。产品创新应聚焦于优化AI部署模式，如通过本地化处理或轻量化模型减少基础设施成本，同时确保临床效率提升能真正反映在患者账单降低上。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Bastion – isolated Linux VMs for background coding agents</title>
+      <link>https://bastion.computer/</link>
+      <guid isPermaLink="false">show-hn-bastion-isolated-linux-vms-for-background-coding-agents</guid>
+      <pubDate>2026-06-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Bastion 是一个为后台编码代理提供隔离 Linux 虚拟机的开源项目。它解决了 AI 编码代理在安全执行环境中的关键需求，通过轻量级虚拟机实现代码运行沙箱化，防止恶意操作影响宿主系统。对于 AI 产品经理而言，该工具可降低 AI 辅助编程产品在自动化代码生成、审查、测试等环节的安全风险，适合集成到 CI/CD 或 AI 开发平台中。其技术亮点包括资源隔离、快速启动和 API 友好设计，有助于提升 AI 代理的可靠性与企业级采用率。</p></description>
+      <category>🔧 工具生态</category>
     </item>
     <item>
       <title>Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU</title>
@@ -146,6 +162,14 @@
       <guid isPermaLink="false">show-hn-quant-picker-which-gguf-file-fits-your-model-and-machine</guid>
       <pubDate>2026-06-14T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Quant Picker 是一个帮助用户根据自身模型和机器配置，快速匹配最合适的 GGUF 量化文件（Quantized GGUF Format）的工具。对于 AI 产品经理，该工具简化了模型部署前的量化选择过程，避免了因量化层级不匹配导致的性能损失或显存溢出问题，尤其在本地推理和边缘部署场景下价值显著。它降低了模型量化调优的门槛，使非技术用户也能高效完成模型适配，有助于加速 AI 产品的落地和迭代。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Ancient genome duplications laid the foundations of complex brains</title>
+      <link>https://news.ycombinator.com/item?id=48522310</link>
+      <guid isPermaLink="false">ancient-genome-duplications-laid-the-foundations-of-complex-brains</guid>
+      <pubDate>2026-06-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>研究表明，古代基因组复制事件（如两次全基因组复制）为复杂大脑的进化提供了遗传基础，通过基因重复产生新的神经发育基因和连接。这一发现启示AI产品经理：类似地，深度学习模型可通过结构重复（如残差堆叠、多头注意力）涌现更复杂的表征能力。商业价值在于启发更高效的模型架构设计，降低对海量数据的依赖。产品创新方向可参考生物进化的模块化扩展策略，构建可渐进式增强的AI系统。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -387,30 +411,6 @@
       <pubDate>2026-06-12T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic 就 Claude Fable 中不可见的护栏致歉，引发对 AI 安全透明度的讨论。技术要点在于护栏的隐蔽设计可能误导用户信任，商业价值体现在维护品牌信誉与合规性，产品创新需平衡安全机制与用户可见性。产品经理应关注如何设计显式护栏以增强用户控制感，避免潜在伦理风险。</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>mindsdb/minds</title>
-      <link>https://github.com/mindsdb/minds</link>
-      <guid isPermaLink="false">mindsdbminds</guid>
-      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>MindsDB 推出的 Minds 项目是一款面向知识工作者（如创作者、策略师、运营人员）的通用 AI 系统，强调用户完全可控、灵活扩展与随处部署（支持 VPC、本地或云）。作为开源模式，它让个人与团队能自主构建和运行 AI 助手，无需依赖第三方服务。技术亮点包括模块化架构、可集成自定义工具及数据源、支持长期上下文记忆。商业价值在于降低企业 AI 落地门槛，同时保障数据主权与隐私。产品创新体现在将 AI 能力封装为可插拔组件，适配不同工作流，兼具 Copilot 风格与本地优先特性。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Workers are spending over 6 hours a week botsitting AI, fueling job frustration</title>
-      <link>https://news.ycombinator.com/item?id=48490057</link>
-      <guid isPermaLink="false">workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration</guid>
-      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>报告指出，员工每周平均花费超过6小时用于“照看AI”（botsitting），即监督修正AI生成内容，这反而加剧了工作挫败感。技术要点在于当前AI系统在复杂任务中仍频繁出错，需要人类持续介入，导致效率不升反降。商业价值上，企业部署AI时需评估人机协作的实际成本，避免盲目自动化带来的隐性负担。产品创新方向可包括设计更主动的错误预警、自动纠错机制，或优化人机交互反馈流程以减少人工干预。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>OpenAI mulls slashing prices as it competes with Anthropic for users</title>
-      <link>https://news.ycombinator.com/item?id=48486486</link>
-      <guid isPermaLink="false">openai-mulls-slashing-prices-as-it-competes-with-anthropic-for-users</guid>
-      <pubDate>2026-06-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>OpenAI 正考虑大幅降价以与 Anthropic 争夺用户，显示出 AI 大模型市场竞争加剧，商业模式从技术领先转向价格战。此举可能加速企业客户采用，降低应用门槛，但也考验模型性能与成本平衡。产品经理需关注定价策略对用户留存和生态建设的影响，以及降价是否伴随功能缩减或新商业模式探索。</p></description>
-      <category>💰 商业趋势</category>
     </item>
   </channel>
 </rss>
