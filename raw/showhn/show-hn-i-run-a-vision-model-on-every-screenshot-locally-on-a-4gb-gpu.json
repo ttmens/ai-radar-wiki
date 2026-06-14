@@ -1,0 +1,24 @@
+{
+  "title": "Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU",
+  "score": 11,
+  "comments": 1,
+  "url": "https://github.com/ayushh0110/ScreenMind",
+  "hn_url": "https://news.ycombinator.com/item?id=48522417",
+  "tag": "ShowHN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision"
+  ],
+  "summary_cn": "该项目展示了如何在本地4GB GPU上对每一帧截图运行视觉模型，实现实时屏幕理解。技术要点包括模型量化与优化以适配低显存硬件，无需云端API即可完成图像分析。商业价值在于降低部署成本、保护用户隐私、支持离线场景。产品创新点是将视觉AI深度融入用户操作流，可拓展为智能桌面助手、自动化测试或无障碍工具。",
+  "pm_relevance": 8,
+  "concepts": [
+    "实时屏幕理解",
+    "本地视觉模型",
+    "边缘AI"
+  ],
+  "entities": [],
+  "patterns": [
+    "Local-First AI",
+    "实时视觉处理"
+  ]
+}

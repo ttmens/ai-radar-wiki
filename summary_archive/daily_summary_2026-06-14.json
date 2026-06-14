@@ -2,72 +2,77 @@
   "daily_summary": {
     "date": "2026-06-14",
     "headline": "今日 AI 情报 · 2026-06-14",
-    "overview": "监管风暴与开源危机双重挤压，AI产品进入合规与可靠性本位时代。",
+    "overview": "监管风暴席卷AI，合规成产品新底线；本地低成本能力崛起，生态去中心化加速",
     "narratives": [
       {
-        "title": "AI治理与合规成为行业核心瓶颈",
-        "body": "从Amazon-CEO施压导致Anthropic断供、OpenAI多州调查，到KPMG因幻觉撤报告、警察滥用AI制造证据——多个独立事件集中指向同一趋势：AI产品设计必须将合规、可审计性与可靠性从附加项升级为核心约束。这不仅是政策博弈，更意味着产品经理需要建立内建撤销机制、输出溯源和人工复核流程，否则将面临服务中断、法律风险与信任崩塌。",
-        "type": "bottleneck",
-        "pillar_key": "ecosystem"
+        "title": "AI行业从能力竞赛转向合规优先，监管成为产品设计核心约束",
+        "body": "多起监管事件密集爆发：亚马逊CEO引发Anthropic模型断供、多州检察长调查OpenAI、Meta因北京要求撤销Manus收购、警察滥用AI制造证据等，标志着AI行业正式进入强监管周期。AI产品经理需将合规内嵌于产品设计全流程，尤其是数据隐私、内容真实性、可审计性及跨境合规，否则将面临重大业务中断风险。",
+        "type": "paradigm_shift",
+        "pillar_key": "business"
       },
       {
-        "title": "本地化与低门槛工具加速AI赋能具体场景",
-        "body": "Quant Picker、AI coding at home、Paca、Brightdeck及gbrain可视化工具等一系列产品，共同展示了AI从云端调用向本地部署、从通用助手向垂直场景集成（项目管理、演示制作、知识管理）的深化。开源项目虽面临商业化风险，但低成本量化工具和轻量级协作方案正在降低采用门槛，为产品经理提供了在受限资源下构建差异化体验的路径。",
+        "title": "本地化低成本AI能力成熟，推动去中心化与离线应用落地",
+        "body": "从本地4GB GPU运行视觉模型、GGUF量化工具辅助部署，到RISC-V向量计算硬件突破，以及低预算开源编码方案的涌现，表明低成本本地AI已从实验走向实用。这为产品经理提供了摆脱云厂商锁定、维护隐私和降低用户成本的路径，但需警惕开源项目可持续性风险（如730万美元项目一夜归档）。",
         "type": "maturation",
-        "pillar_key": "patterns"
+        "pillar_key": "capabilities"
       }
     ],
     "insights": [
       {
-        "pillar": "🔧 工具生态",
-        "pillar_key": "ecosystem",
-        "narrative_title": "AI治理与合规成为行业核心瓶颈",
-        "insight": "AI治理与合规成为行业核心瓶颈。该方向的具体信号：Amazon CEO直接干预导致Anthropic全球断供模型，OpenAI面临多州总检察长调查，警察滥用AI制造证据——都表明产品经理必须内置可撤销机制、数据溯源和人工审核，否则随时可能面临服务中断与法律追责。",
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI行业从能力竞赛转向合规优先，监管成为产品设计核心约束",
+        "insight": "AI行业从能力竞赛转向合规优先，监管成为产品设计核心约束。该方向的具体信号：亚马逊CEO以安全问题促使Anthropic全球断供模型，凸显高层政治干预；OpenAI遭多州总检察长调查，涉及广告与健康数据；Meta应北京要求撤销20亿美元Manus收购，显示跨境交易脆弱；警察用AI伪造证据，强化审计要求。这些事件共同指向合规能力将决定产品生存权。",
         "evidence": [
           {
             "id": "amazon-ceos-talks-with-us-officials-triggered-crackdown-on-anthropic-models",
-            "title": "Amazon CEO talks with U.S. officials triggered crackdown on Anthropic models",
+            "title": "Amazon CEO talks triggered Anthropic crackdown",
             "score": 0.59
           },
           {
             "id": "amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdow",
-            "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+            "title": "Amazon CEO raised Anthropic concerns before crackdown",
             "score": 0.48
           },
           {
             "id": "openai-faces-investigation-from-state-attorneys-general",
-            "title": "OpenAI faces investigation from state attorneys general",
+            "title": "OpenAI investigated by state attorneys general",
             "score": 0.45
+          },
+          {
+            "id": "state-attorneys-general-are-investigating-openai",
+            "title": "State attorneys general investigating OpenAI",
+            "score": 0.31
+          },
+          {
+            "id": "meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijing8217s-demand",
+            "title": "Meta unwinds $2B Manus deal after Beijing demand",
+            "score": 0.41
           }
         ]
       },
       {
-        "pillar": "📱 产品模式",
-        "pillar_key": "patterns",
-        "narrative_title": "本地化与低门槛工具加速AI赋能具体场景",
-        "insight": "本地化与低门槛工具加速AI赋能具体场景。该方向的具体信号：Quant Picker降低量化选择难度、Paca将AI视为协作伙伴重构项目管理、Brightdeck解决AI生成内容直接编辑痛点、gbrain可视化整合知识图谱——产品经理应聚焦特定场景的深度集成，利用本地推理和轻量化方案实现低成本、高可用体验。",
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "本地化低成本AI能力成熟，推动去中心化与离线应用落地",
+        "insight": "本地化低成本AI能力成熟，推动去中心化与离线应用落地。该方向的具体信号：开发者成功在4GB GPU上本地运行视觉模型；Quant Picker工具简化GGUF量化选择；RISC-V向量处理器（MilkV Jupiter 2）为边缘AI提供新硬件选项；AI编码低成本方案（llama.cpp等）降低入门门槛；但730万美元开源项目一夜归档警示依赖风险。本地部署正从概念验证进入可用阶段。",
         "evidence": [
           {
             "id": "show-hn-quant-picker-which-gguf-file-fits-your-model-and-machine",
-            "title": "Show HN: Quant Picker – which GGUF file fits your model and machine",
+            "title": "Quant Picker – match GGUF files",
             "score": 0.26
           },
           {
-            "id": "show-hn-paca-lightweight-jira-alternative-for-human-ai-collaboration",
-            "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-            "score": 0.43
-          },
-          {
-            "id": "show-hn-brightdeck-an-ooxml-compatible-ai-presentation-maker",
-            "title": "Show HN: Brightdeck – an OOXML-compatible AI presentation maker",
-            "score": 0.33
+            "id": "the-milkv-jupiter-2spacemit-k3-risc-v-vector-compute",
+            "title": "MilkV Jupiter 2 RISC-V vector compute",
+            "score": 0.29
           }
         ]
       }
     ],
-    "stats": "技术能力: 5 | 产品模式: 1 | 工具生态: 4 | 商业趋势: 2",
-    "total_items": 13,
-    "high_value_count": 8,
+    "stats": "技术能力: 5 | 产品模式: 0 | 工具生态: 0 | 商业趋势: 7",
+    "total_items": 18,
+    "high_value_count": 14,
     "all_today_ids": [
       {
         "id": "amazon-ceos-talks-with-us-officials-triggered-crackdown-on-anthropic-models",
@@ -90,12 +95,20 @@
         "label": "Amazon CEO reportedly raised Anthropic model concerns before government crackdow"
       },
       {
+        "id": "as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
+        "label": "As Anthropic suspends access to new models, India debates its AI future"
+      },
+      {
         "id": "openai-faces-investigation-from-state-attorneys-general",
         "label": "OpenAI faces investigation from state attorneys general"
       },
       {
         "id": "show-hn-paca-lightweight-jira-alternative-for-human-ai-collaboration",
         "label": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration"
+      },
+      {
+        "id": "meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijing8217s-demand",
+        "label": "Meta reportedly moves to unwind $2B Manus deal after Beijing&#8217;s demand"
       },
       {
         "id": "police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases",
@@ -106,12 +119,24 @@
         "label": "PwC Report: AI Making Medical Bills Higher"
       },
       {
+        "id": "show-hn-i-run-a-vision-model-on-every-screenshot-locally-on-a-4gb-gpu",
+        "label": "Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU"
+      },
+      {
         "id": "show-hn-brightdeck-an-ooxml-compatible-ai-presentation-maker",
         "label": "Show HN: Brightdeck – an OOXML-compatible AI presentation maker"
       },
       {
+        "id": "state-attorneys-general-are-investigating-openai",
+        "label": "State Attorneys General Are Investigating OpenAI"
+      },
+      {
         "id": "show-hn-skill-for-your-agent-to-visualize-your-gbrain-and-obsidian",
         "label": "Show HN: Skill for your agent to visualize your gbrain and Obsidian"
+      },
+      {
+        "id": "the-milkv-jupiter-2spacemit-k3-risc-v-vector-compute",
+        "label": "The MilkV Jupiter 2/SpacemiT K3 (RISC-V vector compute)"
       },
       {
         "id": "show-hn-quant-picker-which-gguf-file-fits-your-model-and-machine",
@@ -123,6 +148,6 @@
       }
     ],
     "date_bj": "2026-06-14 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-06-14 06:05:07"
+    "generated_at_bj": "2026-06-14 12:01:39"
   }
 }

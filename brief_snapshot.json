@@ -1,7 +1,7 @@
 {
   "date": "2026-06-14",
-  "generated_at": "2026-06-14T06:05:24.447210+08:00",
-  "item_count": 10,
+  "generated_at": "2026-06-14T12:02:03.826610+08:00",
+  "item_count": 14,
   "items": [
     {
       "id": "amazon-ceos-talks-with-us-officials-triggered-crackdown-on-anthropic-models",
@@ -59,6 +59,17 @@
       "date": "2026-06-14"
     },
     {
+      "id": "as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
+      "label": "As Anthropic suspends access to new models, India debates its AI future",
+      "summary": "Anthropic 暂停新模型访问，引发印度AI界对依赖外国大模型的反思。产品经理需警惕第三方模型服务中断风险，推动本地化模型能力建设。商业上，此举可能加速印度自主大模型研发和算力基础设施投资；产品创新上，可考虑多模型冗余架构或边缘AI方案以降低单一供应商依赖。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "date": "2026-06-14"
+    },
+    {
       "id": "openai-faces-investigation-from-state-attorneys-general",
       "label": "OpenAI faces investigation from state attorneys general",
       "summary": "OpenAI正面临美国多州总检察长的联合调查，调查范围涵盖其广告政策、健康数据处理等多个方面。虽然具体参与州份尚未明确，但此举反映出AI公司面临的监管压力正在升级。对于产品经理而言，这意味着在产品设计中需更早考虑合规性，尤其是在涉及用户数据、医疗健康等敏感领域时。OpenAI作为行业标杆，其应对策略将影响整个AI生态的合规标准。",
@@ -78,6 +89,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48515385",
+      "date": "2026-06-14"
+    },
+    {
+      "id": "meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijing8217s-demand",
+      "label": "Meta reportedly moves to unwind $2B Manus deal after Beijing&#8217;s demand",
+      "summary": "Meta据传应北京要求，撤销了价值20亿美元的Manus收购案，并开始拆解相关交易。该事件凸显了AI领域跨境并购面临的监管风险，尤其是涉及中国市场的交易。对于AI产品经理而言，这反映了全球化AI生态中政策不确定性的现实，可能影响产品整合与市场扩张策略。Manus作为AI代理平台，其技术价值与市场前景因收购失败而蒙上阴影，也为其他AI公司敲响合规警钟。",
+      "pm_score": 0.41,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
       "date": "2026-06-14"
     },
     {
@@ -103,6 +125,17 @@
       "date": "2026-06-14"
     },
     {
+      "id": "show-hn-i-run-a-vision-model-on-every-screenshot-locally-on-a-4gb-gpu",
+      "label": "Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU",
+      "summary": "该项目展示了如何在本地4GB GPU上对每一帧截图运行视觉模型，实现实时屏幕理解。技术要点包括模型量化与优化以适配低显存硬件，无需云端API即可完成图像分析。商业价值在于降低部署成本、保护用户隐私、支持离线场景。产品创新点是将视觉AI深度融入用户操作流，可拓展为智能桌面助手、自动化测试或无障碍工具。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://github.com/ayushh0110/ScreenMind",
+      "date": "2026-06-14"
+    },
+    {
       "id": "show-hn-brightdeck-an-ooxml-compatible-ai-presentation-maker",
       "label": "Show HN: Brightdeck – an OOXML-compatible AI presentation maker",
       "summary": "Brightdeck 是一款兼容 OOXML 的 AI 演示文稿制作工具，能够自动生成可直接编辑的 .pptx 文件。技术要点包括利用大语言模型生成幻灯片内容、布局和设计，并确保格式完全兼容 PowerPoint 等办公软件。商业价值在于大幅提升 PPT 制作效率，降低设计门槛，适用于职场汇报、教学演示等高频场景。产品创新点在于解决了 AI 生成内容无法直接用于标准办公工具的痛点，实现了从生成到编辑的无缝衔接。",
@@ -112,10 +145,21 @@
       "source_type": "showhn",
       "url": "https://brightdeck.ai/",
       "date": "2026-06-14"
+    },
+    {
+      "id": "state-attorneys-general-are-investigating-openai",
+      "label": "State Attorneys General Are Investigating OpenAI",
+      "summary": "美国多州总检察长联合对OpenAI展开调查，核心关注点包括AI产品的数据收集与使用是否符合消费者保护法、是否存在误导性宣传或反竞争行为。这一监管行动可能迫使OpenAI调整其API数据策略、模型发布流程及用户协议透明度。对AI产品经理而言，需警惕合规风险对产品迭代速度的影响，特别是涉及大规模用户数据训练的场景。同时，事件折射出AI行业从“能力竞赛”向“合规优先”的转型信号，未来产品设计需内置可解释性与隐私保护机制。",
+      "pm_score": 0.31,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48522675",
+      "date": "2026-06-14"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1531,
-    "edges": 141236
+    "real_nodes": 1536,
+    "edges": 142773
   }
 }

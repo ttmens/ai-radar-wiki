@@ -1815,3 +1815,10 @@
 - create: openai-faces-investigation-from-state-attorneys-general.md
 - create: show-hn-quant-picker-which-gguf-file-fits-your-model-and-machine.md
 - create: show-hn-brightdeck-an-ooxml-compatible-ai-presentation-maker.md
+
+## [2026-06-14 12:02] sync v3 | 5 new | pillars: {'capabilities': 4, 'business': 1}
+- create: state-attorneys-general-are-investigating-openai.md
+- create: the-milkv-jupiter-2spacemit-k3-risc-v-vector-compute.md
+- create: as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future.md
+- create: meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijing8217s-demand.md
+- create: show-hn-i-run-a-vision-model-on-every-screenshot-locally-on-a-4gb-gpu.md
