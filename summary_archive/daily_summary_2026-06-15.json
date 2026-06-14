@@ -1,0 +1,75 @@
+{
+  "daily_summary": {
+    "date": "2026-06-15",
+    "headline": "今日 AI 情报 · 2026-06-15",
+    "overview": "AI从全面炒作转向理性分化：政府定制、监管介入与务实产品策略并行",
+    "narratives": [
+      {
+        "title": "AI产业进入务实分化期：政府定制与监管要求重塑格局",
+        "body": "今日情报显示三个独立信号共同指向同一趋势：AI行业正在告别“万能”叙事，进入分层、分场景的务实阶段。地方政府自研模型超越商业模型、产品经理被提醒警惕AI泡沫、欧盟启动对前沿公司决策的实质性审查——三者分别从能力、产品与生态角度印证了分化与规范化。对产品经理而言，这意味着需要同时掌握技术边界、合规风险和用户真实需求，而非盲目追逐热点。",
+        "type": "paradigm_shift",
+        "pillar_key": "patterns"
+      }
+    ],
+    "insights": [
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI产业进入务实分化期：政府定制与监管要求重塑格局",
+        "insight": "AI产业进入务实分化期：政府定制与监管要求重塑格局。该方向的具体信号：并非所有人都用AI处理所有事，产品经理应拒绝炒作，将AI定位为工具而非万能药，优先解决真实用户需求。",
+        "evidence": [
+          {
+            "id": "no-everyone-is-not-using-ai-for-everything",
+            "title": "No, everyone is not using AI for everything",
+            "score": 0.45
+          }
+        ]
+      },
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI产业进入务实分化期：政府定制与监管要求重塑格局",
+        "insight": "AI产业进入务实分化期：政府定制与监管要求重塑格局。该方向的具体信号：地方政府自研模型Rio3.5在基准测试中超越阿里通义千问Qwen3.7，表明开源、定制化模型已具备与商业模型竞争的能力，公共服务领域可能出现技术自主新玩家。",
+        "evidence": [
+          {
+            "id": "rio-de-janeiros-city-government-model-rio35-beats-qwen37-in-recent-benchmarks",
+            "title": "Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks",
+            "score": 0.34
+          }
+        ]
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "AI产业进入务实分化期：政府定制与监管要求重塑格局",
+        "insight": "AI产业进入务实分化期：政府定制与监管要求重塑格局。该方向的具体信号：欧盟委员会评估Anthropic决策的实际影响，预示对前沿AI公司的监管将从原则走向实践，产品进入欧洲市场需提前规划合规成本与透明度。",
+        "evidence": [
+          {
+            "id": "eu-commission-looking-at-practical-consequences-of-anthropic-decision",
+            "title": "EU Commission looking at practical consequences of Anthropic decision",
+            "score": 0.33
+          }
+        ]
+      }
+    ],
+    "stats": "技术能力: 1 | 产品模式: 1 | 工具生态: 1 | 商业趋势: 0",
+    "total_items": 3,
+    "high_value_count": 3,
+    "all_today_ids": [
+      {
+        "id": "no-everyone-is-not-using-ai-for-everything",
+        "label": "No, everyone is not using AI for everything"
+      },
+      {
+        "id": "rio-de-janeiros-city-government-model-rio35-beats-qwen37-in-recent-benchmarks",
+        "label": "Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks"
+      },
+      {
+        "id": "eu-commission-looking-at-practical-consequences-of-anthropic-decision",
+        "label": "EU Commission looking at practical consequences of Anthropic decision"
+      }
+    ],
+    "date_bj": "2026-06-15 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-06-15 00:01:19"
+  }
+}

@@ -1827,3 +1827,8 @@
 - create: making-claude-a-chemist.md
 - create: ancient-genome-duplications-laid-the-foundations-of-complex-brains.md
 - create: show-hn-bastion-isolated-linux-vms-for-background-coding-agents.md
+
+## [2026-06-15 00:01] sync v3 | 4 new | pillars: {'capabilities': 4}
+- create: no-everyone-is-not-using-ai-for-everything.md
+- create: rio-de-janeiros-city-government-model-rio35-beats-qwen37-in-recent-benchmarks.md
+- create: eu-commission-looking-at-practical-consequences-of-anthropic-decision.md

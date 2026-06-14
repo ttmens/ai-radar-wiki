@@ -1,165 +1,75 @@
 {
   "daily_summary": {
-    "date": "2026-06-14",
-    "headline": "今日 AI 情报 · 2026-06-14",
-    "overview": "监管风暴加速，AI从能力竞赛转向合规与本地化部署新阶段",
+    "date": "2026-06-15",
+    "headline": "今日 AI 情报 · 2026-06-15",
+    "overview": "AI从全面炒作转向理性分化：政府定制、监管介入与务实产品策略并行",
     "narratives": [
       {
-        "title": "AI监管全面升级：从单一模型治理到全球合规连锁反应",
-        "body": "今日多条情报显示，AI巨头正面临前所未有的政府压力。亚马逊CEO介入Anthropic模型安全导致全球范围模型访问暂停，美国多州总检察长联合调查OpenAI，以及Meta因北京要求撤销20亿美元Manus收购，共同构成了监管从警告到行动、从美国到全球的连锁反应。对产品经理而言，这意味着产品路线图必须内置合规弹性，如可撤销访问机制、数据审计、本地化部署选项，以应对随时可能变化的政策环境。",
-        "type": "bottleneck",
-        "pillar_key": "ecosystem"
-      },
-      {
-        "title": "AI产品可靠性危机浮现：幻觉、篡改与成本悖论倒逼设计重构",
-        "body": "KPMG因AI幻觉撤回报告、警察使用AI制造证据、PwC指出AI推高医疗账单，这些事件揭露了当前AI产品在事实准确性、伦理安全和经济效率上的系统性缺陷。产品经理需从追求能力最大化转向可信设计，嵌入人工审核、防篡改溯源、以及成本可衡量机制，避免产品成为风险放大器。",
-        "type": "bottleneck",
-        "pillar_key": "capabilities"
+        "title": "AI产业进入务实分化期：政府定制与监管要求重塑格局",
+        "body": "今日情报显示三个独立信号共同指向同一趋势：AI行业正在告别“万能”叙事，进入分层、分场景的务实阶段。地方政府自研模型超越商业模型、产品经理被提醒警惕AI泡沫、欧盟启动对前沿公司决策的实质性审查——三者分别从能力、产品与生态角度印证了分化与规范化。对产品经理而言，这意味着需要同时掌握技术边界、合规风险和用户真实需求，而非盲目追逐热点。",
+        "type": "paradigm_shift",
+        "pillar_key": "patterns"
       }
     ],
     "insights": [
       {
-        "pillar": "🔧 工具生态",
-        "pillar_key": "ecosystem",
-        "narrative_title": "AI监管全面升级：从单一模型治理到全球合规连锁反应",
-        "insight": "AI监管全面升级：从单一模型治理到全球合规连锁反应。该方向的具体信号：亚马逊CEO施压Anthropic导致模型全球暂停、OpenAI遭多州总检察长联合调查、Meta被迫撤销Manus收购，显示监管已从单个模型安全扩展到数据收集、广告政策、跨境并购等多维度，形成系统性合规压力。产品经理需将合规能力内建于产品，如可撤销访问、数据审计、多供应商冗余架构。",
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI产业进入务实分化期：政府定制与监管要求重塑格局",
+        "insight": "AI产业进入务实分化期：政府定制与监管要求重塑格局。该方向的具体信号：并非所有人都用AI处理所有事，产品经理应拒绝炒作，将AI定位为工具而非万能药，优先解决真实用户需求。",
         "evidence": [
           {
-            "id": "amazon-ceos-talks-with-us-officials-triggered-crackdown-on-anthropic-models",
-            "title": "Amazon CEO talks triggered crackdown on Anthropic models",
-            "score": 0.59
-          },
-          {
-            "id": "amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdow",
-            "title": "Amazon CEO raised Anthropic model concerns before crackdown",
-            "score": 0.48
-          },
-          {
-            "id": "openai-faces-investigation-from-state-attorneys-general",
-            "title": "OpenAI faces investigation from state attorneys general",
+            "id": "no-everyone-is-not-using-ai-for-everything",
+            "title": "No, everyone is not using AI for everything",
             "score": 0.45
-          },
-          {
-            "id": "state-attorneys-general-are-investigating-openai",
-            "title": "State attorneys general investigating OpenAI",
-            "score": 0.31
-          },
-          {
-            "id": "meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijing8217s-demand",
-            "title": "Meta moves to unwind $2B Manus deal after Beijing demand",
-            "score": 0.41
-          },
-          {
-            "id": "as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
-            "title": "Anthropic suspends models, India debates AI future",
-            "score": 0.48
           }
         ]
       },
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "narrative_title": "AI产品可靠性危机浮现：幻觉、篡改与成本悖论倒逼设计重构",
-        "insight": "AI产品可靠性危机浮现：幻觉、篡改与成本悖论倒逼设计重构。该方向的具体信号：KPMG因AI幻觉撤回报告、警察用AI制造证据、PwC报告称AI推高医疗账单，揭示当前AI产品在事实性、伦理性和经济性上的三重短板。产品经理需在设计中强制叠加人工审核、可溯源机制、以及成本效益量化监控，从“能力优先”转向“可信优先”。",
+        "narrative_title": "AI产业进入务实分化期：政府定制与监管要求重塑格局",
+        "insight": "AI产业进入务实分化期：政府定制与监管要求重塑格局。该方向的具体信号：地方政府自研模型Rio3.5在基准测试中超越阿里通义千问Qwen3.7，表明开源、定制化模型已具备与商业模型竞争的能力，公共服务领域可能出现技术自主新玩家。",
         "evidence": [
           {
-            "id": "kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations",
-            "title": "KPMG pulls report due to AI hallucinations",
-            "score": 0.48
+            "id": "rio-de-janeiros-city-government-model-rio35-beats-qwen37-in-recent-benchmarks",
+            "title": "Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks",
+            "score": 0.34
+          }
+        ]
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "AI产业进入务实分化期：政府定制与监管要求重塑格局",
+        "insight": "AI产业进入务实分化期：政府定制与监管要求重塑格局。该方向的具体信号：欧盟委员会评估Anthropic决策的实际影响，预示对前沿AI公司的监管将从原则走向实践，产品进入欧洲市场需提前规划合规成本与透明度。",
+        "evidence": [
+          {
+            "id": "eu-commission-looking-at-practical-consequences-of-anthropic-decision",
+            "title": "EU Commission looking at practical consequences of Anthropic decision",
+            "score": 0.33
           }
         ]
       }
     ],
-    "stats": "技术能力: 12 | 产品模式: 1 | 工具生态: 4 | 商业趋势: 3",
-    "total_items": 20,
-    "high_value_count": 16,
+    "stats": "技术能力: 1 | 产品模式: 1 | 工具生态: 1 | 商业趋势: 0",
+    "total_items": 3,
+    "high_value_count": 3,
     "all_today_ids": [
       {
-        "id": "amazon-ceos-talks-with-us-officials-triggered-crackdown-on-anthropic-models",
-        "label": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models"
+        "id": "no-everyone-is-not-using-ai-for-everything",
+        "label": "No, everyone is not using AI for everything"
       },
       {
-        "id": "ai-coding-at-home-without-going-broke",
-        "label": "AI coding at home without going broke"
+        "id": "rio-de-janeiros-city-government-model-rio35-beats-qwen37-in-recent-benchmarks",
+        "label": "Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks"
       },
       {
-        "id": "ai-oss-tool-repo-goes-archived-over-night-after-raising-73m-seed",
-        "label": "AI OSS tool repo goes archived over night after raising $7.3M Seed"
-      },
-      {
-        "id": "kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations",
-        "label": "KPMG pulls report on AI usage due to apparent hallucinations"
-      },
-      {
-        "id": "amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdow",
-        "label": "Amazon CEO reportedly raised Anthropic model concerns before government crackdow"
-      },
-      {
-        "id": "as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
-        "label": "As Anthropic suspends access to new models, India debates its AI future"
-      },
-      {
-        "id": "openai-faces-investigation-from-state-attorneys-general",
-        "label": "OpenAI faces investigation from state attorneys general"
-      },
-      {
-        "id": "show-hn-paca-lightweight-jira-alternative-for-human-ai-collaboration",
-        "label": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration"
-      },
-      {
-        "id": "meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijing8217s-demand",
-        "label": "Meta reportedly moves to unwind $2B Manus deal after Beijing&#8217;s demand"
-      },
-      {
-        "id": "making-claude-a-chemist",
-        "label": "Making Claude a Chemist"
-      },
-      {
-        "id": "police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases",
-        "label": "Police officer investigated for using AI to 'create evidence' in multiple cases"
-      },
-      {
-        "id": "pwc-report-ai-making-medical-bills-higher",
-        "label": "PwC Report: AI Making Medical Bills Higher"
-      },
-      {
-        "id": "show-hn-bastion-isolated-linux-vms-for-background-coding-agents",
-        "label": "Show HN: Bastion – isolated Linux VMs for background coding agents"
-      },
-      {
-        "id": "show-hn-i-run-a-vision-model-on-every-screenshot-locally-on-a-4gb-gpu",
-        "label": "Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU"
-      },
-      {
-        "id": "show-hn-brightdeck-an-ooxml-compatible-ai-presentation-maker",
-        "label": "Show HN: Brightdeck – an OOXML-compatible AI presentation maker"
-      },
-      {
-        "id": "state-attorneys-general-are-investigating-openai",
-        "label": "State Attorneys General Are Investigating OpenAI"
-      },
-      {
-        "id": "show-hn-skill-for-your-agent-to-visualize-your-gbrain-and-obsidian",
-        "label": "Show HN: Skill for your agent to visualize your gbrain and Obsidian"
-      },
-      {
-        "id": "the-milkv-jupiter-2spacemit-k3-risc-v-vector-compute",
-        "label": "The MilkV Jupiter 2/SpacemiT K3 (RISC-V vector compute)"
-      },
-      {
-        "id": "show-hn-quant-picker-which-gguf-file-fits-your-model-and-machine",
-        "label": "Show HN: Quant Picker – which GGUF file fits your model and machine"
-      },
-      {
-        "id": "ancient-genome-duplications-laid-the-foundations-of-complex-brains",
-        "label": "Ancient genome duplications laid the foundations of complex brains"
-      },
-      {
-        "id": "sam-bankman-fried-loses-bid-to-appeal-against-fraud-conviction-in-ftx-case",
-        "label": "Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case"
+        "id": "eu-commission-looking-at-practical-consequences-of-anthropic-decision",
+        "label": "EU Commission looking at practical consequences of Anthropic decision"
       }
     ],
-    "date_bj": "2026-06-14 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-06-14 18:01:19"
+    "date_bj": "2026-06-15 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-06-15 00:01:19"
   }
 }

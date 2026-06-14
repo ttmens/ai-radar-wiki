@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-14 | Total pages: 1558
+> Last updated: 2026-06-15 | Total pages: 1561
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -326,6 +326,7 @@
 - [[replies-to-comments-on-my-llms-are-eroding-my-career-post.md]] Replies to comments on my "LLMs are eroding my career" post `pillar:capabilities` `score:0.55`
 - [[researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai.md]] Researchers Wanted Preschool Teachers to Wear Cameras to Train AI `pillar:capabilities` `score:0.36`
 - [[rich-sutton-on-ai-creativity-and-discovery.md]] Rich Sutton on AI creativity and discovery `pillar:capabilities` `score:0.295`
+- [[rio-de-janeiros-city-government-model-rio35-beats-qwen37-in-recent-benchmarks.md]] Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks `pillar:capabilities` `score:0.345`
 - [[rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai.md]] Rocket engine startup Impulse raises $500 million to hire people, not AI `pillar:capabilities` `score:0.41`
 - [[rohitg00ai-engineering-from-scratch.md]] rohitg00/ai-engineering-from-scratch `pillar:capabilities` `score:0.63`
 - [[rotary-gpu-exploring-local-execution-for-large-moe-models-under-limited-vram.md]] Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM `pillar:capabilities` `score:0.33`
@@ -922,6 +923,7 @@
 - [[new-us-college-grads-now-have-higher-unemployment-than-the-average-worker.md]] New U.S. college grads now have higher unemployment than the average worker `pillar:patterns` `score:0.19`
 - [[nirdiamantgenai_agents.md]] NirDiamant/GenAI_Agents `pillar:patterns` `score:0.58`
 - [[nirdiamantrag_techniques.md]] NirDiamant/RAG_Techniques `pillar:patterns` `score:0.615`
+- [[no-everyone-is-not-using-ai-for-everything.md]] No, everyone is not using AI for everything `pillar:patterns` `score:0.445`
 - [[not-medically-necessary-helping-americas-healt.md]] "Not Medically Necessary": Helping America's Health Insurers Deny Coverage `pillar:patterns` `score:0.355`
 - [[notion-just-turned-its-workspace-into-a-hub-for-ai.md]] Notion just turned its workspace into a hub for AI agents `pillar:patterns` `score:0.305`
 - [[nousresearchhermes-agent.md]] NousResearch/hermes-agent `pillar:patterns` `score:0.405`
@@ -1103,6 +1105,7 @@
 - [[dmlcxgboost.md]] dmlc/xgboost `pillar:ecosystem` `score:0.615`
 - [[erin-brockovich-takes-aim-at-data-center-secrecy.md]] Erin Brockovich takes aim at data center secrecy `pillar:ecosystem` `score:0.375`
 - [[ethicalmlawesome-production-machine-learning.md]] EthicalML/awesome-production-machine-learning `pillar:ecosystem` `score:0.58`
+- [[eu-commission-looking-at-practical-consequences-of-anthropic-decision.md]] EU Commission looking at practical consequences of Anthropic decision `pillar:ecosystem` `score:0.33`
 - [[everyone-is-navigating-ai-security-in-real-time-8212-even-google.md]] Everyone is navigating AI security in real time &#8212; even Google `pillar:ecosystem` `score:0.515`
 - [[fastaifastai.md]] fastai/fastai `pillar:ecosystem` `score:0.58`
 - [[final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket.md]] Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket `pillar:ecosystem` `score:0.41`
