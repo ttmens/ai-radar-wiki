@@ -1,7 +1,7 @@
 {
   "date": "2026-06-14",
-  "generated_at": "2026-06-14T12:02:03.826610+08:00",
-  "item_count": 14,
+  "generated_at": "2026-06-14T18:01:34.705350+08:00",
+  "item_count": 16,
   "items": [
     {
       "id": "amazon-ceos-talks-with-us-officials-triggered-crackdown-on-anthropic-models",
@@ -103,6 +103,17 @@
       "date": "2026-06-14"
     },
     {
+      "id": "making-claude-a-chemist",
+      "label": "Making Claude a Chemist",
+      "summary": "本文探讨如何将Anthropic的通用AI助手Claude改造为具备化学专业知识的‘化学家’。通过微调或检索增强生成（RAG）技术，注入化学公式、反应机理、分子结构等专业知识，使AI能够理解化学问题、辅助实验设计或分析化合物。商业价值在于拓展AI在制药、材料科学等垂直行业的应用，降低企业获取领域AI的门槛。产品创新体现在从通用对话向领域专家角色的转型，为AI产品经理提供了一种‘AI+专业领域’的适配范式。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48523752",
+      "date": "2026-06-14"
+    },
+    {
       "id": "police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases",
       "label": "Police officer investigated for using AI to 'create evidence' in multiple cases",
       "summary": "据报道，一名警察因在多起案件中使用AI“制造证据”而接受调查。这揭示了AI技术被滥用于司法系统的严重风险，尤其是生成虚假证据的能力。对于AI产品经理而言，核心启示在于：必须设计具备可审计性、防篡改机制和来源追踪的AI系统，以防范类似滥用。此外，该事件凸显了AI伦理与合规在产品设计中的关键地位，以及跨部门监管协作的必要性。产品经理需在功能强大与安全可信之间取得平衡，确保输出内容可溯源、可验证，避免成为作恶工具。",
@@ -122,6 +133,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48519519",
+      "date": "2026-06-14"
+    },
+    {
+      "id": "show-hn-bastion-isolated-linux-vms-for-background-coding-agents",
+      "label": "Show HN: Bastion – isolated Linux VMs for background coding agents",
+      "summary": "Bastion 是一个为后台编码代理提供隔离 Linux 虚拟机的开源项目。它解决了 AI 编码代理在安全执行环境中的关键需求，通过轻量级虚拟机实现代码运行沙箱化，防止恶意操作影响宿主系统。对于 AI 产品经理而言，该工具可降低 AI 辅助编程产品在自动化代码生成、审查、测试等环节的安全风险，适合集成到 CI/CD 或 AI 开发平台中。其技术亮点包括资源隔离、快速启动和 API 友好设计，有助于提升 AI 代理的可靠性与企业级采用率。",
+      "pm_score": 0.33,
+      "pillar": "ecosystem",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://bastion.computer/",
       "date": "2026-06-14"
     },
     {
@@ -159,7 +181,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1536,
-    "edges": 142773
+    "real_nodes": 1539,
+    "edges": 144313
   }
 }

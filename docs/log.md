@@ -1822,3 +1822,8 @@
 - create: as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future.md
 - create: meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijing8217s-demand.md
 - create: show-hn-i-run-a-vision-model-on-every-screenshot-locally-on-a-4gb-gpu.md
+
+## [2026-06-14 18:01] sync v3 | 3 new | pillars: {'capabilities': 2, 'patterns': 1}
+- create: making-claude-a-chemist.md
+- create: ancient-genome-duplications-laid-the-foundations-of-complex-brains.md
+- create: show-hn-bastion-isolated-linux-vms-for-background-coding-agents.md
