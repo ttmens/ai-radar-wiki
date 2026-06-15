@@ -1,8 +1,30 @@
 {
   "date": "2026-06-16",
-  "generated_at": "2026-06-16T00:03:07.799123+08:00",
-  "item_count": 8,
+  "generated_at": "2026-06-16T06:05:16.037475+08:00",
+  "item_count": 15,
   "items": [
+    {
+      "id": "ask-hn-has-anyone-replaced-claudegpt-with-a-local-model-for-daily-coding",
+      "label": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+      "summary": "该讨论在Hacker News上发起，核心问题是开发者是否已成功用本地大模型（如Code Llama等）替代Claude或GPT进行日常编程。关键考量包括：本地模型在代码生成、补全和调试上的能力是否媲美云端模型；隐私与数据安全优势（代码不离开本地）；成本控制（无需API订阅费）；以及硬件需求（GPU/内存瓶颈）。产品经理需关注本地模型与云端模型的性能差距、部署难度和用户体验折中，以决定产品策略（例如是否提供本地优先的AI编程助手）。",
+      "pm_score": 0.68,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48542100",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "elder-pliniuscl4r1t4s",
+      "label": "elder-plinius/CL4R1T4S",
+      "summary": "GitHub仓库elder-plinius/CL4R1T4S汇集了ChatGPT、Claude、Gemini等主流AI系统的泄露System Prompts，旨在推动AI透明性。产品经理可借此逆向分析竞品的行为约束、角色设定与防御机制，优化自身产品的Prompt设计与安全策略。需警惕提示词泄露带来的模型模仿和越狱风险，同时思考如何通过动态提示保护或加密手段提升产品护城河。",
+      "pm_score": 0.58,
+      "pillar": "patterns",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/elder-plinius/CL4R1T4S",
+      "date": "2026-06-16"
+    },
     {
       "id": "crankgpt",
       "label": "CrankGPT",
@@ -59,6 +81,28 @@
       "date": "2026-06-16"
     },
     {
+      "id": "tinywind-a-pixel-pirate-sailing-game-with-real-wind-physics-380k-kms-sailed",
+      "label": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "summary": "TinyWind是一款像素风格的海盗航行游戏，其核心特色是真实的风物理模拟，玩家需利用风向和风速操控船只，已累计航行超过38万公里。该产品展示了物理引擎在游戏中的创新应用，提升了沉浸感和策略性，对AI产品经理的启示在于：将真实世界物理规律引入虚拟场景可大幅增强用户体验，同时此类结合AI物理模拟的技术可复用于教育、仿真等商业领域。",
+      "pm_score": 0.46,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48543475",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "meta8217s-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms",
+      "label": "Meta&#8217;s new ‘AI Mode’ on Facebook pulls from public info across its platfor",
+      "summary": "Meta在Facebook推出全新AI模式，利用旗下多个平台的公开信息（如Instagram、Threads等）进行整合，为用户提供更智能的交互体验。该功能标志着Meta在AI竞赛中加速追赶，旨在通过个性化推荐、智能搜索和对话式助手提升用户参与度。技术要点在于跨平台数据融合与大规模语言模型的社交场景适配，商业价值体现在增强流量变现和用户留存，产品创新则在于将AI能力深度嵌入社交平台核心交互。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "date": "2026-06-16"
+    },
+    {
       "id": "cybersecurity-vets-protest-8216dangerous8217-us-government-ban-on-anthropic8217s",
       "label": "Cybersecurity vets protest &#8216;dangerous&#8217; US government ban on Anthropi",
       "summary": "一群网络安全专家联名致信白宫，抗议对Anthropic最强模型Fable和Mythos实施出口管制禁令，认为此举将严重削弱网络安全防御者利用AI保护软件与产品的能力。这些模型在漏洞检测、威胁分析等安全场景中展现出领先性能，出口限制意味着全球安全团队无法获取最先进的AI防御工具，可能导致攻击者占据技术优势。该事件凸显了AI能力与安全治理之间的张力：一方面国家担忧先进AI被他国滥用；另一方面过度管控可能抑制AI在关键防御领域的创新应用。对于产品经理而言，需要关注模型能力输出对垂直行业（如网络安全）的实际价值，以及政策风向对产品全球化部署的影响。",
@@ -70,6 +114,28 @@
       "date": "2026-06-16"
     },
     {
+      "id": "my-homelab-ai-dev-platform",
+      "label": "My Homelab AI Dev Platform",
+      "summary": "该内容介绍了一个自建的家庭实验室AI开发平台。技术要点包括利用本地硬件（如GPU服务器）搭建私有AI环境，支持模型训练、推理和微调；商业价值在于降低云端成本、保障数据隐私，并加速迭代；产品创新体现在整合了开源工具链和容器化部署，使个人开发者能以极低门槛获得企业级AI开发能力。这一平台模式适合中小团队快速验证AI应用，也为边缘计算场景提供了参考。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48542433",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "show-hn-fata-spaced-repetition-to-fight-skill-rot-from-ai-coding",
+      "label": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+      "summary": "Fata 是一款通过间隔重复（Spaced Repetition）技术对抗 AI 编码导致技能退化的工具。随着开发者越来越依赖 AI 辅助编程，自身编码能力可能逐渐削弱。Fata 将复习机制嵌入编码工作流，在适当时间点自动推送关键概念、代码片段或设计模式，帮助开发者保持和巩固技能。该产品创新性地将学习系统与 IDE 或编码环境结合，实现无感知的持续训练。商业价值在于为 AI 工具厂商提供差异化功能：在提升效率的同时避免用户能力衰退，增强用户粘性。对产品经理而言，这启示了 AI 产品设计应平衡便利性与人的成长，防止“捷径陷阱”。",
+      "pm_score": 0.43,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48489163",
+      "date": "2026-06-16"
+    },
+    {
       "id": "show-hn-can-europe-train-a-frontier-ai-model-on-the-compute-it-owns",
       "label": "Show HN: Can Europe train a frontier AI model on the compute it owns?",
       "summary": "本文探讨欧洲是否能用自有计算资源训练出前沿AI模型，核心关注算力主权与地缘政治风险。技术要点在于欧洲当前依赖进口GPU，但正通过联合体（如EuroHPC）和RISC-V/存内计算等自主芯片方案寻求突破。商业价值体现在降低对美依赖、保护数据隐私，并可能孵化出本地化大模型产品。产品创新方面，边缘训练、联邦学习与能耗优化成为差异化方向，为AI产品经理提供“主权AI”新范式参考。",
@@ -78,6 +144,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48541014",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "launch-hn-drafted-yc-p26-models-for-residential-architecture",
+      "label": "Launch HN: Drafted (YC P26) – Models for residential architecture",
+      "summary": "Drafted（YC P26）是一家YC孵化的初创公司，专注于为住宅建筑领域开发AI模型。其核心产品可能是生成式AI工具，能够辅助建筑师或业主快速生成住宅设计方案、优化空间布局或自动生成施工图纸。该技术通过训练大量建筑数据，实现个性化设计建议，降低设计门槛和成本。商业价值在于将AI能力垂直应用于建筑行业，提升设计效率，尤其适合中小型项目。产品创新点在于将大模型与专业建筑规范结合，输出符合行业标准的方案。对于AI产品经理，这是一个典型的垂直领域AI应用案例，展示了如何将通用AI能力转化为行业解决方案。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48543908",
       "date": "2026-06-16"
     },
     {
@@ -93,7 +170,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1572,
-    "edges": 152088
+    "real_nodes": 1582,
+    "edges": 153671
   }
 }

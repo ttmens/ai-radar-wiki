@@ -1870,3 +1870,15 @@
 - create: sarvam-becomes-india8217s-newest-ai-unicorn-with-234-million-funding-round-led-b.md
 - create: as-ai-agents-become-employees-newcore-emerges-with-66m-to-give-them-identities.md
 - create: a-satellite-just-learned-to-find-things-on-its-own-here8217s-what-that-means.md
+
+## [2026-06-16 06:05] sync v3 | 10 new | pillars: {'patterns': 2, 'capabilities': 8}
+- create: elder-pliniuscl4r1t4s.md
+- create: tinywind-a-pixel-pirate-sailing-game-with-real-wind-physics-380k-kms-sailed.md
+- create: ask-hn-has-anyone-replaced-claudegpt-with-a-local-model-for-daily-coding.md
+- create: my-homelab-ai-dev-platform.md
+- create: show-hn-fata-spaced-repetition-to-fight-skill-rot-from-ai-coding.md
+- create: launch-hn-drafted-yc-p26-models-for-residential-architecture.md
+- create: us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says.md
+- create: meta8217s-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms.md
+- create: spacex-is-public-everything-you-need-to-know-post-ipo.md
+- create: show-hn-vet-turned-founder-ai-lawn-diagnosis.md
