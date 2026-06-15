@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 15 Jun 2026 00:05:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 04:02:45 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -18,6 +18,14 @@
       <guid isPermaLink="false">rio-de-janeiros-homegrown-llm-appears-to-be-a-merge-of-an-existing-model</guid>
       <pubDate>2026-06-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>里约热内卢宣称自研的本地大型语言模型，经分析实际是合并已有开源模型而成，并非完全原创。这一发现对AI产品经理有重要启示：在选择或评估AI模型时，需深入核查模型来源、训练数据及性能表现，避免被虚假创新误导。同时，模型合并作为一种高效低成本的技术路径，可用于快速构建定制化应用，但需注意知识产权合规与透明度问题。该事件也反映了全球AI领域的本地化趋势，社区对模型真实性的监督日益严格。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>AI is code – and can't be prompted into being smarter</title>
+      <link>https://news.ycombinator.com/item?id=48532178</link>
+      <guid isPermaLink="false">ai-is-code-and-cant-be-prompted-into-being-smarter</guid>
+      <pubDate>2026-06-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该文章指出AI本质上是由代码构成的系统，无法仅通过提示工程（prompting）使其变得更智能。对于AI产品经理而言，这提醒了产品设计中不能过度依赖提示词优化来提升AI能力，而应关注底层模型架构、训练数据和算法改进。商业价值在于避免将资源浪费在无效的提示调优上，转而投资更根本的技术突破。产品创新应着眼于模型能力边界之外的产品体验设计，例如结合外部知识库、工具调用或人工干预。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -59,6 +67,22 @@
       <pubDate>2026-06-15T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>欧盟委员会正在评估Anthropic公司某项决策（可能涉及模型发布或服务条款）对欧洲AI市场的实际影响，这预示着欧盟将加强对前沿AI公司的监管审查。对于AI产品经理而言，此举意味着未来产品进入欧洲市场时需提前考虑合规成本、透明度要求和潜在的法律责任，尤其是在模型能力提升与风险管控之间找到平衡。监管动态可能影响产品路线图、发布节奏和商业模式设计。</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Ponytail – make your AI agent think like the laziest senior dev in the room</title>
+      <link>https://news.ycombinator.com/item?id=48527946</link>
+      <guid isPermaLink="false">ponytail-make-your-ai-agent-think-like-the-laziest-senior-dev-in-the-room</guid>
+      <pubDate>2026-06-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Ponytail 提出了一种新的 AI 智能体设计理念：让智能体像团队中最懒的高级开发人员一样思考——优先考虑最小工作量、直接解决问题、避免不必要的计算。这种模式通过模仿资深开发者的“懒惰”智慧（如复用现有方案、只做关键优化、避免过度工程），显著提升 AI agent 的执行效率与成本效益。对于 AI 产品经理而言，这意味着可以设计出更轻量、更实用的智能体，在保持推理质量的同时降低 API 调用成本和延迟。该理念本质上是一种产品层面的效率模式创新，可应用于代码生成、自动化决策等场景。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>The hallucinogenic mushroom that contains no known psychedelic</title>
+      <link>https://news.ycombinator.com/item?id=48535215</link>
+      <guid isPermaLink="false">the-hallucinogenic-mushroom-that-contains-no-known-psychedelic</guid>
+      <pubDate>2026-06-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了一种不含有已知迷幻成分却能引发类似幻觉现象的蘑菇，类比AI模型中的‘幻觉’问题。技术要点在于揭示AI幻觉可能源于潜在的模式识别异常而非显性错误，为优化模型鲁棒性和可解释性提供新视角。商业价值上，深入理解幻觉机制有助于提升AI产品在医疗、金融等高风险领域的可靠性，降低部署风险。产品创新点在于利用此类生物学隐喻启发新型去幻觉技术的研发，如通过调整注意力机制或训练数据策略来减少不确定性输出，从而增强用户信任。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models</title>
@@ -387,30 +411,6 @@
       <pubDate>2026-06-13T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该项目展示了利用AI（如Claude）和Fable 5框架快速构建大型多人在线角色扮演游戏（MMORPG）世界的能力，体现了‘氛围编码’（vibe coding）这一新兴开发方式。技术要点在于通过自然语言交互生成游戏逻辑、场景和NPC，降低游戏开发门槛。商业价值在于推动AI驱动的游戏内容生成，可能改变传统游戏研发生态，使非程序员也能创作复杂交互世界。产品创新在于将AI作为核心创作伙伴，实现实时迭代与动态叙事。</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Tectonic: A modernized, complete, self-contained TeX/LaTeX engine</title>
-      <link>https://news.ycombinator.com/item?id=48467697</link>
-      <guid isPermaLink="false">tectonic-a-modernized-complete-self-contained-texlatex-engine</guid>
-      <pubDate>2026-06-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Tectonic 是一款现代化的、完整的、自包含的 TeX/LaTeX 引擎，旨在简化 LaTeX 文档编译过程。它摒弃了传统 TeX 发行版的复杂依赖，将所有必要组件打包为一个独立工具，支持自动下载字体和宏包，无需用户手动管理环境。技术要点包括高效编译、跨平台支持和持续集成友好；商业价值在于降低 LaTeX 入门门槛，提升文档编写与自动化流水线的效率；产品创新体现在“开箱即用”的自包含设计，特别适合需要高质量排版的 AI 产品（如自动生成论文、报告）集成。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: ZeroFS – Make S3 your primary storage</title>
-      <link>https://www.zerofs.net/</link>
-      <guid isPermaLink="false">show-hn-zerofs-make-s3-your-primary-storage</guid>
-      <pubDate>2026-06-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>ZeroFS 是一个将 AWS S3 作为主存储的文件系统抽象层，旨在解决传统本地存储的容量和成本问题。它通过优化数据读取、写入和元数据管理，使 S3 在延迟和一致性方面接近本地文件系统，同时保持对象存储的可扩展性和低费用。对于 AI 产品经理，这意味着可以大幅降低训练数据的存储成本，简化数据管道架构，并支持大规模数据集的高效访问。该工具尤其适合需要频繁迭代模型训练、数据量持续增长，且希望避免管理本地存储集群的团队，具有明显的成本与运维优势。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Show HN: Script to bulk delete Claude chats from the web UI</title>
-      <link>https://github.com/MatteoLeonesi/bulk-delete-claude-chat</link>
-      <guid isPermaLink="false">show-hn-script-to-bulk-delete-claude-chats-from-the-web-ui</guid>
-      <pubDate>2026-06-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>这是一个针对 Claude Web UI 的批量删除聊天记录的脚本，通过自动化操作解决了原生界面缺乏批量管理功能的问题。用户可一键清除多条对话历史，提升数据管理效率，尤其适合注重隐私或需要定期清理测试数据的用户。该工具暴露了 Claude 产品在用户数据控制方面的不足，提示产品经理可考虑内置批量操作、回收站或自动归档功能，以增强用户体验和信任。</p></description>
-      <category>🔧 工具生态</category>
     </item>
   </channel>
 </rss>
