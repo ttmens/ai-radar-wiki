@@ -1,0 +1,35 @@
+{
+  "title": "CottonLeafVision: An Explainable and Robust Deep Learning Framework for Cotton Leaf Disease Classification",
+  "summary": "Globally, cotton is a highly economically beneficial crop, as the textile industry heavily depends on it. So, the precise identification and detection of cotton leaf disease is crucial for economic stability. The development goal of \"CottonLeafVision\" is to accurately classify and detect cotton leaf disease. With this goal, we have evaluated multiple pretrained Deep Convolutional Neural Networks, including DenseNet201, InceptionV3, and VGG19 on a publicly available cotton leaf disease image dataset. This image dataset includes seven classes, six disease classes, and one healthy class, collected under various field conditions reflecting real-world challenges. Among these pretrained models, with DenseNet201, we have achieved the highest classification accuracy of 98%. To enhance the model reliability and interpretability, we have implemented different techniques and methods such as Gradient-weighted Class Activation Mapping (Grad-CAM), occlusion sensitivity analysis and adversarial training to increase the noise resistance of the model. Finally, we have developed a prototype in order to utilize the model's capabilities on real life agriculture. This paper shows the deep learning model's capabilities to classify the disease in real-life cotton disease management situations.",
+  "url": "http://arxiv.org/abs/2606.14686v1",
+  "authors": [
+    "Rafi Ahamed",
+    "Md. Abir Rahman",
+    "Tasnia Tarannum Roza",
+    "Munaia Jannat Easha",
+    "Md. Asif Khan"
+  ],
+  "published": "2026-06-12T17:50:23Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision",
+    "training",
+    "neural network",
+    "accuracy",
+    "gradient",
+    "dataset"
+  ],
+  "summary_cn": "CottonLeafVision 是一个针对棉花叶病分类的可解释且鲁棒的深度学习框架。该框架旨在通过精确识别与检测棉花叶部病害，保障纺织业原料供应的经济稳定性。技术要点包括利用可解释性机制提升模型透明度，增强对复杂田间环境的鲁棒性，从而降低误诊率。商业价值体现在提高棉花产量与质量，减少农药浪费，为农业AI产品提供可落地的垂直场景解决方案。产品创新在于将可解释性融入分类模型，使得农业从业者能够信任并理解AI决策，推动AI在精准农业中的实际部署。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Explainable AI",
+    "Agricultural AI",
+    "Deep Learning"
+  ],
+  "entities": [],
+  "patterns": [
+    "Deep Learning Classification Pattern",
+    "Explainable AI Pattern"
+  ]
+}

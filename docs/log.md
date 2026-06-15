@@ -1842,3 +1842,20 @@
 - create: ai-is-code-and-cant-be-prompted-into-being-smarter.md
 - create: the-hallucinogenic-mushroom-that-contains-no-known-psychedelic.md
 - create: ponytail-make-your-ai-agent-think-like-the-laziest-senior-dev-in-the-room.md
+
+## [2026-06-15 18:02] sync v3 | 15 new | pillars: {'capabilities': 10, 'patterns': 4, 'business': 1}
+- create: gaze-heads-how-vlms-look-at-what-they-describe.md
+- create: clinhallu-a-benchmark-for-diagnosing-stage-wise-hallucinations-in-medical-mllm-r.md
+- create: persona-pruner-sculpting-lightweight-models-for-role-playing.md
+- create: learning-coordinated-preference-for-multi-objective-multi-agent-reinforcement-le.md
+- create: a-complexity-measure-for-active-learning-in-multi-group-mean-estimation.md
+- create: flood-and-harvest-the-provable-necessity-of-trivia-for-generating-valuable-mathe.md
+- create: cottonleafvision-an-explainable-and-robust-deep-learning-framework-for-cotton-le.md
+- create: hump-kd-a-hybrid-uncertainty-aware-multi-stage-progressive-knowledge-distillatio.md
+- create: optimal-hidden-target-learning-for-online-inventory-optimization-on-general-conv.md
+- create: compressed-computation-is-probably-not-computation-in-superposition.md
+- create: towards-direct-latent-space-synthesis-for-parallel-branches-in-llm-agent-workflo.md
+- create: when-to-write-and-when-to-suppress-route-specialized-dual-adapters-for-memory-as.md
+- create: apple-foundation-models.md
+- create: a-short-history-of-cerro-torre-the-most-controversial-mountain-2012.md
+- create: the-ai-layoff-wave-is-becoming-a-powder-keg.md
