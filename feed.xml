@@ -5,13 +5,37 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 14 Jun 2026 20:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:05:54 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model</title>
+      <link>https://news.ycombinator.com/item?id=48528371</link>
+      <guid isPermaLink="false">rio-de-janeiros-homegrown-llm-appears-to-be-a-merge-of-an-existing-model</guid>
+      <pubDate>2026-06-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>里约热内卢宣称自研的本地大型语言模型，经分析实际是合并已有开源模型而成，并非完全原创。这一发现对AI产品经理有重要启示：在选择或评估AI模型时，需深入核查模型来源、训练数据及性能表现，避免被虚假创新误导。同时，模型合并作为一种高效低成本的技术路径，可用于快速构建定制化应用，但需注意知识产权合规与透明度问题。该事件也反映了全球AI领域的本地化趋势，社区对模型真实性的监督日益严格。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models</title>
+      <link>https://news.ycombinator.com/item?id=48528029</link>
+      <guid isPermaLink="false">i-indexed-669-gb-of-my-gopro-videos-using-my-m1-max-computer-and-local-ml-models</guid>
+      <pubDate>2026-06-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>用户使用Apple M1 Max芯片的本地计算机和机器学习模型，索引了669GB的GoPro视频内容。该方法无需云端传输，利用设备端算力进行视频理解和元数据提取，展示了本地AI处理大规模个人媒体数据的可行性与隐私优势。对产品经理而言，这揭示了边缘AI在个人数据管理（如视频归档、智能搜索）中的产品机会，可降低云成本、提升实时性，并符合用户对数据控制权的需求。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>As AI companies race to go public, who else is along for the ride?</title>
+      <link>https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/</link>
+      <guid isPermaLink="false">as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride</guid>
+      <pubDate>2026-06-15T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>AI公司正竞相上市，而初创企业则试图借SpaceX IPO的浪潮获得关注与融资。这一趋势反映了AI行业资本市场的活跃度，以及市场对AI技术商业化的信心。对于AI产品经理而言，这意味着更多资源涌入，但也面临估值压力与竞争加剧。产品创新需更注重落地与盈利模式，以在上市潮中脱颖而出。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
     <item>
       <title>No, everyone is not using AI for everything</title>
       <link>https://news.ycombinator.com/item?id=48527700</link>
@@ -387,30 +411,6 @@
       <pubDate>2026-06-13T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>这是一个针对 Claude Web UI 的批量删除聊天记录的脚本，通过自动化操作解决了原生界面缺乏批量管理功能的问题。用户可一键清除多条对话历史，提升数据管理效率，尤其适合注重隐私或需要定期清理测试数据的用户。该工具暴露了 Claude 产品在用户数据控制方面的不足，提示产品经理可考虑内置批量操作、回收站或自动归档功能，以增强用户体验和信任。</p></description>
       <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents</title>
-      <link>https://news.ycombinator.com/item?id=48506545</link>
-      <guid isPermaLink="false">launch-hn-bitboard-yc-p25-analytics-workspace-for-agents</guid>
-      <pubDate>2026-06-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>BitBoard是由Y Combinator孵化的P25批次项目，旨在为AI代理提供分析工作空间。产品专注于监控、调试和优化代理行为，帮助产品经理理解代理决策过程与性能表现。通过提供可视化分析、日志追踪和性能指标，BitBoard填补了AI代理可观测性工具空白，对于提升代理系统的可靠性和效率具有重要商业价值。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>SpaceX IPO: Live updates on everything you need to know</title>
-      <link>https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/</link>
-      <guid isPermaLink="false">spacex-ipo-live-updates-on-everything-you-need-to-know</guid>
-      <pubDate>2026-06-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>本文是TechCrunch对SpaceX IPO的实时报道，涵盖其从创立到成功的发展历程，并聚焦上市相关细节。内容分析了IPO中的赢家与潜在输家、上市前交易安排，以及S-1注册文件中的关键信息。对于AI产品经理而言，此报道虽非直接AI技术，但可从中观察科技企业资本运作模式、早期投资回报逻辑，以及商业生态中技术公司的财务透明度。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>SpaceX IPO: Everything you need to know</title>
-      <link>https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/</link>
-      <guid isPermaLink="false">spacex-ipo-everything-you-need-to-know</guid>
-      <pubDate>2026-06-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>TechCrunch 深度报道了 SpaceX 的 IPO 进程，包括早期发展、成败历程及未来展望。文章分析了 IPO 中的赢家与潜在输家、上市前交易细节以及 S-1 注册文件中的关键信息。对于 AI 产品经理而言，虽然 SpaceX 的核心业务并非 AI，但其在火箭回收、星链网络优化中大量应用 AI 技术，并且 IPO 可能推动航天商业化的 AI 投入。关注该事件可洞察前沿科技公司的资本运作模式及 AI 在航天领域的商业化潜力，为产品战略提供参考。</p></description>
-      <category>💰 商业趋势</category>
     </item>
   </channel>
 </rss>
