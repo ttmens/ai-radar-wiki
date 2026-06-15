@@ -1,7 +1,7 @@
 {
   "date": "2026-06-15",
-  "generated_at": "2026-06-15T06:05:18.323713+08:00",
-  "item_count": 6,
+  "generated_at": "2026-06-15T12:01:49.844937+08:00",
+  "item_count": 8,
   "items": [
     {
       "id": "rio-de-janeiros-homegrown-llm-appears-to-be-a-merge-of-an-existing-model",
@@ -12,6 +12,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48528371",
+      "date": "2026-06-15"
+    },
+    {
+      "id": "ai-is-code-and-cant-be-prompted-into-being-smarter",
+      "label": "AI is code – and can't be prompted into being smarter",
+      "summary": "该文章指出AI本质上是由代码构成的系统，无法仅通过提示工程（prompting）使其变得更智能。对于AI产品经理而言，这提醒了产品设计中不能过度依赖提示词优化来提升AI能力，而应关注底层模型架构、训练数据和算法改进。商业价值在于避免将资源浪费在无效的提示调优上，转而投资更根本的技术突破。产品创新应着眼于模型能力边界之外的产品体验设计，例如结合外部知识库、工具调用或人工干预。",
+      "pm_score": 0.53,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48532178",
       "date": "2026-06-15"
     },
     {
@@ -68,10 +79,21 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48527574",
       "date": "2026-06-15"
+    },
+    {
+      "id": "ponytail-make-your-ai-agent-think-like-the-laziest-senior-dev-in-the-room",
+      "label": "Ponytail – make your AI agent think like the laziest senior dev in the room",
+      "summary": "Ponytail 提出了一种新的 AI 智能体设计理念：让智能体像团队中最懒的高级开发人员一样思考——优先考虑最小工作量、直接解决问题、避免不必要的计算。这种模式通过模仿资深开发者的“懒惰”智慧（如复用现有方案、只做关键优化、避免过度工程），显著提升 AI agent 的执行效率与成本效益。对于 AI 产品经理而言，这意味着可以设计出更轻量、更实用的智能体，在保持推理质量的同时降低 API 调用成本和延迟。该理念本质上是一种产品层面的效率模式创新，可应用于代码生成、自动化决策等场景。",
+      "pm_score": 0.33,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48527946",
+      "date": "2026-06-15"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1545,
-    "edges": 147402
+    "real_nodes": 1548,
+    "edges": 148951
   }
 }

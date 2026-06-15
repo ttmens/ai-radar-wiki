@@ -1837,3 +1837,8 @@
 - create: rio-de-janeiros-homegrown-llm-appears-to-be-a-merge-of-an-existing-model.md
 - create: i-indexed-669-gb-of-my-gopro-videos-using-my-m1-max-computer-and-local-ml-models.md
 - create: as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride.md
+
+## [2026-06-15 12:01] sync v3 | 3 new | pillars: {'capabilities': 2, 'patterns': 1}
+- create: ai-is-code-and-cant-be-prompted-into-being-smarter.md
+- create: the-hallucinogenic-mushroom-that-contains-no-known-psychedelic.md
+- create: ponytail-make-your-ai-agent-think-like-the-laziest-senior-dev-in-the-room.md
