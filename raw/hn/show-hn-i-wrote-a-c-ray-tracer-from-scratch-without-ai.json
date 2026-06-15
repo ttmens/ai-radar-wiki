@@ -1,0 +1,22 @@
+{
+  "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+  "score": 107,
+  "comments": 45,
+  "url": "https://github.com/themartiano/luz",
+  "hn_url": "https://news.ycombinator.com/item?id=48538833",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "一位开发者从零用C++实现了一个光线追踪器，完全未依赖AI技术。该演示展示了传统计算机图形学算法的扎实实现，包括光线-物体求交、反射、折射等渲染管线。在AI浪潮下，这一项目反向凸显了纯算法与手工编码的简洁性与可控性，尤其适用于对效率、可调试性要求高且AI模型不具优势的场景（如实时渲染、嵌入式系统）。对AI产品经理而言，它提醒不应盲目追求AI集成，传统方法在特定领域仍具竞争力，但缺乏直接AI商业价值。",
+  "pm_relevance": 2,
+  "concepts": [
+    "Ray Tracing",
+    "C++ Rendering",
+    "No-AI Approach"
+  ],
+  "entities": [],
+  "patterns": [
+    "Self-built Tool",
+    "Traditional Rendering"
+  ]
+}

@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-15 | Total pages: 1582
+> Last updated: 2026-06-16 | Total pages: 1591
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -15,6 +15,7 @@
 - [[a-jacket-that-harvests-drinking-water-from-the-air.md]] A jacket that harvests drinking water from the air `pillar:capabilities` `score:0.255`
 - [[a-polynomial-autoencoder-beats-pca-on-transformer.md]] A polynomial autoencoder beats PCA on transformer embeddings `pillar:capabilities` `score:0.155`
 - [[a-recent-experience-with-chatgpt-55-pro.md]] A recent experience with ChatGPT 5.5 Pro `pillar:capabilities` `score:0.6`
+- [[a-satellite-just-learned-to-find-things-on-its-own-here8217s-what-that-means.md]] A satellite just learned to find things on its own — here&#8217;s what that mean `pillar:capabilities` `score:0.515`
 - [[a-short-history-of-cerro-torre-the-most-controversial-mountain-2012.md]] A short history of Cerro Torre, the most controversial mountain (2012) `pillar:capabilities` `score:0.085`
 - [[a-sleep-like-consolidation-mechanism-for-llms.md]] A sleep-like consolidation mechanism for LLMs `pillar:capabilities` `score:0.55`
 - [[a-successful-japanese-trial-of-a-ramjet-engine-designed-for-mach5-aircraft.md]] A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft `pillar:capabilities` `score:0.32`
@@ -59,6 +60,7 @@
 - [[anthropic8217s-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today.md]] Anthropic&#8217;s Claude Fable 5 is a version of Mythos the public can access to `pillar:capabilities` `score:0.48`
 - [[anthropic8217s-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-butt.md]] Anthropic&#8217;s Fable 5 can make weirdly fun video games with the click of a b `pillar:capabilities` `score:0.48`
 - [[anthropics-model-naming-extrapolated.md]] Anthropic's Model Naming, Extrapolated `pillar:capabilities` `score:0.58`
+- [[anthropics-safety-superpower.md]] Anthropic's Safety Superpower `pillar:capabilities` `score:0.55`
 - [[antigravity-20-tops-the-openscad-architectural-3d-llm-benchmark.md]] Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark `pillar:capabilities` `score:0.545`
 - [[apple-foundation-models.md]] Apple Foundation Models `pillar:capabilities` `score:0.48`
 - [[apple-gives-siri-its-own-dedicated-app.md]] Apple gives Siri its own dedicated app `pillar:capabilities` `score:0.445`
@@ -104,6 +106,7 @@
 - [[comically-bad-datasets-used-to-train-clinical-models-for-stroke-and-diabetes.md]] 'Comically bad' datasets used to train clinical models for stroke and diabetes `pillar:capabilities` `score:0.33`
 - [[company-will-add-phone-airpod-and-smartwatch-trackers-to-alprs.md]] Company Will Add Phone, AirPod, and Smartwatch Trackers to ALPRs `pillar:capabilities` `score:0.395`
 - [[copyfail-from-pod-to-host.md]] CopyFail: From Pod to Host `pillar:capabilities` `score:0.295`
+- [[crankgpt.md]] CrankGPT `pillar:capabilities` `score:0.565`
 - [[creatine-raises-brain-energy-levels-and-slows-cognitive-decline-study.md]] Creatine raises brain energy levels and slows cognitive decline: study `pillar:capabilities` `score:0.455`
 - [[cs336-language-modeling-from-scratch.md]] CS336: Language Modeling from Scratch `pillar:capabilities` `score:0.345`
 - [[cutting-inference-cold-starts-by-40x-with-lp-fuse-cr-and-cuda-checkpoint.md]] Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint `pillar:capabilities` `score:0.38`
@@ -112,6 +115,7 @@
 - [[cvhub520x-anylabeling.md]] CVHub520/X-AnyLabeling `pillar:capabilities` `score:0.565`
 - [[cybersecurity-researchers-aren8217t-happy-about-the-guardrails-on-anthropic8217s.md]] Cybersecurity researchers aren&#8217;t happy about the guardrails on Anthropic&# `pillar:capabilities` `score:0.48`
 - [[cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable.md]] Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable `pillar:capabilities` `score:0.63`
+- [[cybersecurity-vets-protest-8216dangerous8217-us-government-ban-on-anthropic8217s.md]] Cybersecurity vets protest &#8216;dangerous&#8217; US government ban on Anthropi `pillar:capabilities` `score:0.445`
 - [[daily-pill-can-double-survival-time-for-deadliest-cancer-trial-shows.md]] Daily pill can double survival time for deadliest cancer, trial shows `pillar:capabilities` `score:0.305`
 - [[data-centric-ai-communityfg-data-profiling.md]] Data-Centric-AI-Community/fg-data-profiling `pillar:capabilities` `score:0.58`
 - [[daviskingdlib.md]] davisking/dlib `pillar:capabilities` `score:0.545`
@@ -359,6 +363,7 @@
 - [[show-hn-aislop-a-cli-for-catching-ai-generated-code-smells.md]] Show HN: AISlop, a CLI for catching AI generated code smells `pillar:capabilities` `score:0.48`
 - [[show-hn-boxesdev-ditch-localhost-run-claude-code-and-codex-in-the-cloud.md]] Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud `pillar:capabilities` `score:0.33`
 - [[show-hn-brightdeck-an-ooxml-compatible-ai-presentation-maker.md]] Show HN: Brightdeck – an OOXML-compatible AI presentation maker `pillar:capabilities` `score:0.33`
+- [[show-hn-can-europe-train-a-frontier-ai-model-on-the-compute-it-owns.md]] Show HN: Can Europe train a frontier AI model on the compute it owns? `pillar:capabilities` `score:0.38`
 - [[show-hn-command-center-the-ai-coding-env-for-people-who-care-about-quality.md]] Show HN: Command Center, the AI coding env for people who care about quality `pillar:capabilities` `score:0.33`
 - [[show-hn-coretex-an-open-source-unix-like-biomimetic-flat-file-ai-harness.md]] Show HN: CoreTex – An Open-Source, Unix-like, biomimetic, flat-file AI Harness `pillar:capabilities` `score:0.155`
 - [[show-hn-demon-open-source-real-time-music-diffusion-engine-25hz-local-gpu.md]] Show HN: Demon – open-source real-time music diffusion engine, 25Hz local GPU `pillar:capabilities` `score:0.365`
@@ -370,6 +375,7 @@
 - [[show-hn-i-built-a-tool-to-auto-accept-ai-slop-and-bigtech-devs-loves-it.md]] Show HN: I built a tool to auto-accept AI slop and bigtech devs loves it `pillar:capabilities` `score:0.295`
 - [[show-hn-i-made-a-claude-skill-for-spec-driven-development-sdd.md]] Show HN: I Made a Claude Skill for Spec-Driven Development (SDD) `pillar:capabilities` `score:0.295`
 - [[show-hn-i-run-a-vision-model-on-every-screenshot-locally-on-a-4gb-gpu.md]] Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU `pillar:capabilities` `score:0.33`
+- [[show-hn-i-wrote-a-c-ray-tracer-from-scratch-without-ai.md]] Show HN: I wrote a C++ ray tracer from scratch without AI `pillar:capabilities` `score:0.27`
 - [[show-hn-id-agent-token-efficient-uuid-alternative-for-ai-agents.md]] Show HN: Id-agent – Token efficient UUID alternative for AI agents `pillar:capabilities` `score:0.345`
 - [[show-hn-ideogram-40-open-weight-93b-text-to-image-model.md]] Show HN: Ideogram 4.0 – open-weight 9.3B text-to-image model `pillar:capabilities` `score:0.33`
 - [[show-hn-inbox-beam-notifications-in-your-inbox-without-sending-email.md]] Show HN: Inbox-beam – notifications in your inbox without sending email `pillar:capabilities` `score:0.295`
@@ -819,6 +825,7 @@
 - [[apacheairflow.md]] apache/airflow `pillar:patterns` `score:0.405`
 - [[apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app.md]] Apple will let you build workflows using AI in its new Shortcuts app `pillar:patterns` `score:0.48`
 - [[apple8217s-long-awaited-ai-siri-overhaul-is-finally-here.md]] Apple&#8217;s long-awaited AI Siri overhaul is finally here `pillar:patterns` `score:0.48`
+- [[as-ai-agents-become-employees-newcore-emerges-with-66m-to-give-them-identities.md]] As AI agents become employees, NewCore emerges with $66M to give them identities `pillar:patterns` `score:0.515`
 - [[asana-acquires-no-code-agent-builder-stackai.md]] Asana acquires no-code agent-builder StackAI `pillar:patterns` `score:0.48`
 - [[ask-hn-is-anyone-working-at-least-4-hours-daily-on-an-apple-vision-pro.md]] Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro? `pillar:patterns` `score:0.46`
 - [[ask-hn-what-are-tools-you-have-made-for-yourself-since-the-advent-of-ai.md]] Ask HN: What are tools you have made for yourself since the advent of AI? `pillar:patterns` `score:0.5`
@@ -966,6 +973,7 @@
 - [[run-llamallama_index.md]] run-llama/llama_index `pillar:patterns` `score:0.405`
 - [[running-local-models-on-an-m4-with-24gb-memory.md]] Running local models on an M4 with 24GB memory `pillar:patterns` `score:0.355`
 - [[ryanair-dark-ux-patterns-summer-2026-refresher.md]] Ryanair dark UX patterns summer 2026 refresher `pillar:patterns` `score:0.55`
+- [[salesforce-acquires-ai-customer-service-platform-fin-for-36-billion.md]] Salesforce acquires AI customer service platform Fin for $3.6 billion `pillar:patterns` `score:0.305`
 - [[sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app.md]] Sesame, the conversational AI startup from Oculus founders, launches its iOS app `pillar:patterns` `score:0.48`
 - [[shanraisshanclaude-code-best-practice.md]] shanraisshan/claude-code-best-practice `pillar:patterns` `score:0.58`
 - [[shareai-lablearn-claude-code.md]] shareAI-lab/learn-claude-code `pillar:patterns` `score:0.405`
@@ -1469,6 +1477,7 @@
 - [[sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo.md]] Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO `pillar:business` `score:0.495`
 - [[sam-bankman-fried-loses-bid-to-appeal-against-fraud-conviction-in-ftx-case.md]] Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case `pillar:business` `score:0.22`
 - [[samsung-chip-workers-will-get-an-average-340k-bonus-as-ai-profits-soar.md]] Samsung chip workers will get an average $340k bonus as AI profits soar `pillar:business` `score:0.395`
+- [[sarvam-becomes-india8217s-newest-ai-unicorn-with-234-million-funding-round-led-b.md]] Sarvam becomes India&#8217;s newest AI unicorn with $234 million funding round l `pillar:business` `score:0.48`
 - [[setting-up-a-free-citystateus-locality-domain.md]] Setting up a free *.city.state.us locality domain `pillar:business` `score:0.155`
 - [[show-hn-a-satirical-idle-game-about-running-an-ai-startup.md]] Show HN: A satirical idle game about running an AI startup `pillar:business` `score:0.295`
 - [[show-hn-anamdb-an-ai-native-differentiable-dat.md]] Show HN: AnamDB – An AI-native, differentiable Datalog engine written in Rust `pillar:business` `score:0.155`

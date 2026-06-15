@@ -1859,3 +1859,14 @@
 - create: apple-foundation-models.md
 - create: a-short-history-of-cerro-torre-the-most-controversial-mountain-2012.md
 - create: the-ai-layoff-wave-is-becoming-a-powder-keg.md
+
+## [2026-06-16 00:03] sync v3 | 9 new | pillars: {'capabilities': 6, 'patterns': 2, 'business': 1}
+- create: crankgpt.md
+- create: show-hn-can-europe-train-a-frontier-ai-model-on-the-compute-it-owns.md
+- create: show-hn-i-wrote-a-c-ray-tracer-from-scratch-without-ai.md
+- create: anthropics-safety-superpower.md
+- create: cybersecurity-vets-protest-8216dangerous8217-us-government-ban-on-anthropic8217s.md
+- create: salesforce-acquires-ai-customer-service-platform-fin-for-36-billion.md
+- create: sarvam-becomes-india8217s-newest-ai-unicorn-with-234-million-funding-round-led-b.md
+- create: as-ai-agents-become-employees-newcore-emerges-with-66m-to-give-them-identities.md
+- create: a-satellite-just-learned-to-find-things-on-its-own-here8217s-what-that-means.md
