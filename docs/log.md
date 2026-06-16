@@ -1893,3 +1893,20 @@
 - create: sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-google8217.md
 - create: the-us-government8217s-anthropic-models-ban-was-never-about-an-ai-jailbreak.md
 - create: show-hn-claude-code-for-visual-studio-native-diff-with-acceptreject.md
+
+## [2026-06-16 18:03] sync v3 | 15 new | pillars: {'capabilities': 13, 'ecosystem': 1, 'patterns': 1}
+- create: exact-posterior-score-estimation-for-solving-linear-inverse-problems.md
+- create: geometric-action-model-for-robot-policy-learning.md
+- create: hierarchical-advantage-weighting-for-online-rl-fine-tuning-of-vlas-from-sparse-e.md
+- create: the-importance-of-phase-in-neural-representations-an-internal-oppenheim-lim-test.md
+- create: your-privacy-my-cloak-backdoor-attacks-on-differentially-private-federated-learn.md
+- create: kveraser-learning-to-steer-kv-cache-for-efficient-localized-context-erasing.md
+- create: hamon-passive-optical-sequence-mixing-for-long-horizon-forecasting.md
+- create: exprl-exploratory-rl-for-llm-mid-training.md
+- create: learning-the-geometry-of-data-a-mathematical-review-of-shape-space-analysis.md
+- create: fusionrs-a-large-scale-rgb-infrared-remote-sensing-dataset-for-dual-modal-vision.md
+- create: tokenpilot-cache-efficient-context-management-for-llm-agents.md
+- create: filtered-conformal-ellipsoids-for-graph-native-time-series.md
+- create: the-90-year-old-idea-behind-jepa-models-canonical-correlation-analysis.md
+- create: openai-losses-increased-nearly-8x-in-2025-with-spending-hitting-34b.md
+- create: malaysia8217s-ai-agent-powered-messaging-app-respondio-raises-625m-eyes-acquisit.md

@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-16 | Total pages: 1610
+> Last updated: 2026-06-16 | Total pages: 1625
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -431,6 +431,7 @@
 - [[tectonic-a-modernized-complete-self-contained-texlatex-engine.md]] Tectonic: A modernized, complete, self-contained TeX/LaTeX engine `pillar:capabilities` `score:0.325`
 - [[tencentncnn.md]] Tencent/ncnn `pillar:capabilities` `score:0.58`
 - [[tensorflowtfjs.md]] tensorflow/tfjs `pillar:capabilities` `score:0.58`
+- [[the-90-year-old-idea-behind-jepa-models-canonical-correlation-analysis.md]] The 90-year-old idea behind JEPA models: Canonical Correlation Analysis `pillar:capabilities` `score:0.345`
 - [[the-ai-zombification-of-universities.md]] The AI Zombification of Universities `pillar:capabilities` `score:0.515`
 - [[the-art-of-hackingh4cker.md]] The-Art-of-Hacking/h4cker `pillar:capabilities` `score:0.58`
 - [[the-back-cover-of-c-the-language-raises-questions-not-answered-by-front-cover.md]] The back cover of C++: The Language raises questions not answered by front cover `pillar:capabilities` `score:0.185`
@@ -613,11 +614,14 @@
 - [[evidence-over-plans-online-trajectory-verification-for-skil.md]] Evidence Over Plans: Online Trajectory Verification for Skill Distillation `pillar:capabilities` `score:0.255`
 - [[evidential-reasoning-advances-interpretable-real-world-disease-screening.md]] Evidential Reasoning Advances Interpretable Real-World Disease Screening `pillar:capabilities` `score:0.48`
 - [[evostruct-bridging-evolutionary-and-structural-priors-for-antibody-cdr-design-vi.md]] EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design v `pillar:capabilities` `score:0.445`
+- [[exact-posterior-score-estimation-for-solving-linear-inverse-problems.md]] Exact Posterior Score Estimation for Solving Linear Inverse Problems `pillar:capabilities` `score:0.48`
+- [[exprl-exploratory-rl-for-llm-mid-training.md]] ExpRL: Exploratory RL for LLM Mid-Training `pillar:capabilities` `score:0.48`
 - [[factr-2-learning-external-force-sensing-for-commodity-robot-arms-improves-policy.md]] FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Polic `pillar:capabilities` `score:0.48`
 - [[failed-reasoning-traces-tell-you-what-is-fixable-but-not-by-reading-them.md]] Failed Reasoning Traces Tell You What Is Fixable (But Not by Reading Them) `pillar:capabilities` `score:0.48`
 - [[fairness-aware-federated-learning-with-trajectory-shapley-value.md]] Fairness-Aware Federated Learning with Trajectory Shapley Value `pillar:capabilities` `score:0.48`
 - [[fame-failure-aware-mixture-of-experts-for-message-level-log-anomaly-detection.md]] FAME: Failure-Aware Mixture-of-Experts for Message-Level Log Anomaly Detection `pillar:capabilities` `score:0.515`
 - [[fast-byte-latent-transformer.md]] Fast Byte Latent Transformer `pillar:capabilities` `score:0.255`
+- [[filtered-conformal-ellipsoids-for-graph-native-time-series.md]] Filtered Conformal Ellipsoids for Graph-Native Time Series `pillar:capabilities` `score:0.445`
 - [[finite-particle-convergence-rates-for-conservative-and-non-conservative-drifting.md]] Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting `pillar:capabilities` `score:0.445`
 - [[flaws-in-the-llm-automation-narrative.md]] Flaws in the LLM Automation Narrative `pillar:capabilities` `score:0.445`
 - [[flow-opd-on-policy-distillation-for-flow-matching-models.md]] Flow-OPD: On-Policy Distillation for Flow Matching Models `pillar:capabilities` `score:0.255`
@@ -627,12 +631,14 @@
 - [[forward-learned-discrete-diffusion-learning-how-to-noise-to-denoise-faster.md]] Forward-Learned Discrete Diffusion: Learning how to noise to denoise faster `pillar:capabilities` `score:0.48`
 - [[from-layers-to-submodules-rethinking-granularity-in-replacement-based-llm-compre.md]] From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compr `pillar:capabilities` `score:0.445`
 - [[from-scores-to-gibbs-correctors-accelerating-uniform-rate-discrete-diffusion-mod.md]] From Scores to Gibbs Correctors: Accelerating Uniform-Rate Discrete Diffusion Mo `pillar:capabilities` `score:0.445`
+- [[fusionrs-a-large-scale-rgb-infrared-remote-sensing-dataset-for-dual-modal-vision.md]] FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Visio `pillar:capabilities` `score:0.445`
 - [[futuresim-replaying-world-events-to-evaluate-adaptive-agents.md]] FutureSim: Replaying World Events to Evaluate Adaptive Agents `pillar:capabilities` `score:0.48`
 - [[gated-deltanet-2-decoupling-erase-and-write-in-linear-attention.md]] Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention `pillar:capabilities` `score:0.305`
 - [[gaze-heads-how-vlms-look-at-what-they-describe.md]] Gaze Heads: How VLMs Look at What They Describe `pillar:capabilities` `score:0.43`
 - [[gem-nr-geometry-aware-multi-view-editing-for-nonrigid-scene-changes.md]] GeM-NR: Geometry-Aware Multi-View Editing for Nonrigid Scene Changes `pillar:capabilities` `score:0.445`
 - [[general-preference-reinforcement-learning.md]] General Preference Reinforcement Learning `pillar:capabilities` `score:0.445`
 - [[generating-financial-time-series-by-matching-random-convolutional-features.md]] Generating Financial Time Series by Matching Random Convolutional Features `pillar:capabilities` `score:0.445`
+- [[geometric-action-model-for-robot-policy-learning.md]] Geometric Action Model for Robot Policy Learning `pillar:capabilities` `score:0.305`
 - [[giving-sensors-a-voice-multimodal-jepa-for-semantic-time-series-embeddings.md]] Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings `pillar:capabilities` `score:0.43`
 - [[goal-driven-bayesian-optimal-experimental-design-for-robust-decision-making-unde.md]] Goal-driven Bayesian Optimal Experimental Design for Robust Decision-Making Unde `pillar:capabilities` `score:0.445`
 - [[goal-oriented-lower-tail-calibration-of-gaussian-processes-for-bayesian-optimiza.md]] Goal-Oriented Lower-Tail Calibration of Gaussian Processes for Bayesian Optimiza `pillar:capabilities` `score:0.48`
@@ -640,9 +646,11 @@
 - [[gpic-a-giant-permissive-image-corpus-for-visual-generation.md]] GPIC: A Giant Permissive Image Corpus for Visual Generation `pillar:capabilities` `score:0.48`
 - [[graphlcp-structure-aware-localized-conformal-prediction-on.md]] GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs `pillar:capabilities` `score:0.395`
 - [[guiding-llm-post-training-data-engineering-with-model-internals-from-sparse-auto.md]] Guiding LLM Post-training Data Engineering with Model Internals from Sparse Auto `pillar:capabilities` `score:0.305`
+- [[hamon-passive-optical-sequence-mixing-for-long-horizon-forecasting.md]] HAMON: Passive Optical Sequence Mixing for Long-Horizon Forecasting `pillar:capabilities` `score:0.48`
 - [[handoff-humanoid-agentic-task-space-whole-body-control-via-distilled-complementa.md]] HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complement `pillar:capabilities` `score:0.445`
 - [[haorfloodalert-deseasonalized-ml-ensemble-for-72-hour-flood-prediction-in-bangla.md]] HaorFloodAlert: Deseasonalized ML Ensemble for 72-Hour Flood Prediction in Bangl `pillar:capabilities` `score:0.445`
 - [[harnessing-agentic-evolution.md]] Harnessing Agentic Evolution `pillar:capabilities` `score:0.48`
+- [[hierarchical-advantage-weighting-for-online-rl-fine-tuning-of-vlas-from-sparse-e.md]] Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse E `pillar:capabilities` `score:0.445`
 - [[how-reliable-are-llms-when-it-comes-to-playing-dice.md]] How reliable are LLMs when it comes to playing dice? `pillar:capabilities` `score:0.43`
 - [[humanoid-gpt-scaling-data-and-structure-for-zero-shot-motion-tracking.md]] Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking `pillar:capabilities` `score:0.48`
 - [[hump-kd-a-hybrid-uncertainty-aware-multi-stage-progressive-knowledge-distillatio.md]] HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillati `pillar:capabilities` `score:0.395`
@@ -657,6 +665,7 @@
 - [[ivgt-implicit-visual-geometry-transformer-for-neural-scene-representation.md]] IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation `pillar:capabilities` `score:0.395`
 - [[klip-localized-distribution-shift-detection-via-kl-divergence-with-diffusion-pri.md]] KLIP: localized distribution shift detection via KL-divergence with diffusion pr `pillar:capabilities` `score:0.43`
 - [[kv-fold-one-step-kv-cache-recurrence-for-long-context-infer.md]] KV-Fold: One-Step KV-Cache Recurrence for Long-Context Inference `pillar:capabilities` `score:0.305`
+- [[kveraser-learning-to-steer-kv-cache-for-efficient-localized-context-erasing.md]] KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing `pillar:capabilities` `score:0.48`
 - [[language-models-learn-constructional-semantics-not-to-mention-syntax-investigati.md]] Language Models Learn Constructional Semantics, Not To Mention Syntax: Investiga `pillar:capabilities` `score:0.255`
 - [[language-models-need-sleep-learning-to-self-modify-and-consolidate-memories.md]] Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories `pillar:capabilities` `score:0.48`
 - [[language-models-need-sleep.md]] Language Models Need Sleep `pillar:capabilities` `score:0.48`
@@ -664,6 +673,7 @@
 - [[lbi-parallel-scan-backpropagation-via-latent-bounded-interf.md]] LBI: Parallel Scan Backpropagation via Latent Bounded Interfaces `pillar:capabilities` `score:0.255`
 - [[lcguard-latent-communication-guard-for-safe-kv-sharing-in-multi-agent-systems.md]] LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems `pillar:capabilities` `score:0.515`
 - [[learning-fast-and-slow-towards-llms-that-adapt-continually.md]] Learning, Fast and Slow: Towards LLMs That Adapt Continually `pillar:capabilities` `score:0.305`
+- [[learning-the-geometry-of-data-a-mathematical-review-of-shape-space-analysis.md]] Learning the Geometry of Data: A Mathematical Review of Shape Space Analysis `pillar:capabilities` `score:0.41`
 - [[learning-to-reason-by-analogy-via-retrieval-augmented-reinforcement-fine-tuning.md]] Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning `pillar:capabilities` `score:0.515`
 - [[leveraging-graph-structure-in-seq2seq-models-for-knowledge-graph-link-prediction.md]] Leveraging Graph Structure in Seq2Seq Models for Knowledge Graph Link Prediction `pillar:capabilities` `score:0.48`
 - [[llms-as-noisy-channels-a-shannon-perspective-on-model-capacity-and-scaling-laws.md]] LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws `pillar:capabilities` `score:0.395`
@@ -768,12 +778,14 @@
 - [[tempovla-learning-speed-controllable-vision-language-action-policies.md]] TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies `pillar:capabilities` `score:0.48`
 - [[text-knows-what-tables-know-when-clinical-timeline-reconstruction-via-retrieval.md]] Text Knows What, Tables Know When: Clinical Timeline Reconstruction via Retrieva `pillar:capabilities` `score:0.48`
 - [[the-geometry-of-forgetting-temporal-knowledge-drift-as-an-i.md]] The Geometry of Forgetting: Temporal Knowledge Drift as an Independent Axis in L `pillar:capabilities` `score:0.255`
+- [[the-importance-of-phase-in-neural-representations-an-internal-oppenheim-lim-test.md]] The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Tes `pillar:capabilities` `score:0.41`
 - [[the-matching-principle-a-geometric-theory-of-loss-functions-for-nuisance-robust.md]] The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust `pillar:capabilities` `score:0.305`
 - [[the-memory-curse-how-expanded-recall-erodes-cooperative-int.md]] The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents `pillar:capabilities` `score:0.255`
 - [[the-role-of-feedback-alignment-in-self-distillation.md]] The Role of Feedback Alignment in Self-Distillation `pillar:capabilities` `score:0.48`
 - [[the-stable-recovery-manifold-geometric-principles-governing-recoverability-in-co.md]] The Stable Recovery Manifold: Geometric Principles Governing Recoverability in C `pillar:capabilities` `score:0.445`
 - [[tiny-but-trusted-efficient-vision-language-reasoning-for-time-series-anomaly-det.md]] Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly De `pillar:capabilities` `score:0.445`
 - [[tokenisation-via-convex-relaxations.md]] Tokenisation via Convex Relaxations `pillar:capabilities` `score:0.41`
+- [[tokenpilot-cache-efficient-context-management-for-llm-agents.md]] TokenPilot: Cache-Efficient Context Management for LLM Agents `pillar:capabilities` `score:0.48`
 - [[topological-neural-operators.md]] Topological Neural Operators `pillar:capabilities` `score:0.41`
 - [[towards-controllable-image-generation-through-representation-conditioned-diffusi.md]] Towards Controllable Image Generation through Representation-Conditioned Diffusi `pillar:capabilities` `score:0.305`
 - [[towards-efficient-and-evidence-grounded-mobility-prediction-with-llm-driven-agen.md]] Towards Efficient and Evidence-grounded Mobility Prediction with LLM-Driven Agen `pillar:capabilities` `score:0.445`
@@ -1327,6 +1339,7 @@
 - [[tracking-the-behavioral-trajectories-of-adapting-agents.md]] Tracking the Behavioral Trajectories of Adapting Agents `pillar:ecosystem` `score:0.305`
 - [[twelve-quick-tips-for-designing-ai-driven-hpc-workflows.md]] Twelve quick tips for designing AI-driven HPC workflows `pillar:ecosystem` `score:0.255`
 - [[verifier-backed-hard-problem-generation-for-mathematical-rea.md]] Verifier-Backed Hard Problem Generation for Mathematical Reasoning `pillar:ecosystem` `score:0.48`
+- [[your-privacy-my-cloak-backdoor-attacks-on-differentially-private-federated-learn.md]] Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Lear `pillar:ecosystem` `score:0.515`
 - [[zero-touch-predictive-orchestration-automating-time-series-models-for-the-cloud.md]] Zero Touch Predictive Orchestration: Automating Time-Series Models for the Cloud `pillar:ecosystem` `score:0.48`
 
 ## 💰 Business (商业与趋势)
@@ -1442,6 +1455,7 @@
 - [[lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a.md]] Lovable says it has hit $500M in annualized revenue, with 1 million new projects `pillar:business` `score:0.515`
 - [[mage-aimage-ai.md]] mage-ai/mage-ai `pillar:business` `score:0.355`
 - [[making-the-news-available-at-no-cost-is-a-victory.md]] Making the news available at no cost is a victory `pillar:business` `score:0.305`
+- [[malaysia8217s-ai-agent-powered-messaging-app-respondio-raises-625m-eyes-acquisit.md]] Malaysia&#8217;s AI agent-powered messaging app Respond.io raises $62.5M, eyes a `pillar:business` `score:0.48`
 - [[maryland-citizens-hit-with-2b-power-grid-upgrade.md]] Maryland citizens hit with $2B power grid upgrade for out-of-state AI `pillar:business` `score:0.355`
 - [[mathfoundationrlbook-mathematical-foundation-of-reinforcement-learning.md]] MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning `pillar:business` `score:0.405`
 - [[medicares-new-payment-model-is-built-for-ai-most-of-the-tech-world-has-no-idea.md]] Medicare's new payment model is built for AI. Most of the tech world has no idea `pillar:business` `score:0.38`
@@ -1471,6 +1485,7 @@
 - [[nvidia-has-already-committed-40b-to-equity-ai-dea.md]] Nvidia has already committed $40B to equity AI deals this year `pillar:business` `score:0.48`
 - [[openai-barrels-toward-ipo-that-may-happen-in-september.md]] OpenAI barrels toward IPO that may happen in September `pillar:business` `score:0.48`
 - [[openai-is-preparing-to-file-for-an-ipo-soon.md]] OpenAI Is Preparing to File for an IPO Soon `pillar:business` `score:0.46`
+- [[openai-losses-increased-nearly-8x-in-2025-with-spending-hitting-34b.md]] OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B `pillar:business` `score:0.43`
 - [[openai-mulls-slashing-prices-as-it-competes-with-anthropic-for-users.md]] OpenAI mulls slashing prices as it competes with Anthropic for users `pillar:business` `score:0.55`
 - [[openai-submits-s-1-draft-to-sec.md]] OpenAI Submits S-1 Draft to SEC `pillar:business` `score:0.45`
 - [[openai-to-confidentially-file-for-ipo-as-soon-as-friday.md]] OpenAI to confidentially file for IPO as soon as Friday `pillar:business` `score:0.33`

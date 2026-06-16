@@ -1,0 +1,34 @@
+{
+  "title": "ExpRL: Exploratory RL for LLM Mid-Training",
+  "summary": "Sparse reward reinforcement learning (RL) has become a standard tool for improving LLM reasoning, but its success depends critically on the coverage present in the base model. In practice, models are often primed for RL through \\emph{mid-training} on curated reasoning traces that teach useful primitive skills such as decomposition, verification, or self-correction. Although effective, this strategy requires manually specifying what the model should learn, and it remains unclear whether such primitive coverage is enough for much harder problems, which require combining these skills into broader solution strategies. We study a more automated approach: \\emph{RL-based mid-training} using large corpora of human-written question-answer data. Rather than treating reference solutions as targets to imitate, our method, ExpRL, uses them as \\emph{reward scaffolds}: references are hidden from the policy and used only to construct problem-specific grading rubrics for judging on-policy reasoning traces. The policy samples from the original problem prompt, while an LLM judge compares the sampled reasoning trace against the reference solution and assigns outcome-level or process-level dense rewards. This lets ExpRL reinforce partial progress, useful intermediate reductions, and productive reasoning behaviors that sparse final-answer rewards often fail to upweight. On challenging math reasoning tasks, ExpRL yields stronger RL priming than SFT, sparse-reward GRPO, and self-distillation, and provides a better initialization for subsequent sparse-reward RL. Additional mixed-domain experiments further suggest that ExpRL can extend beyond the original math-only setting.",
+  "url": "http://arxiv.org/abs/2606.17024v1",
+  "authors": [
+    "Violet Xiang",
+    "Amrith Setlur",
+    "Chase Blagden",
+    "Nick Haber",
+    "Aviral Kumar"
+  ],
+  "published": "2026-06-15T17:50:44Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "reasoning",
+    "training",
+    "grpo",
+    "sft",
+    "distillation"
+  ],
+  "summary_cn": "ExpRL 提出了一种探索性强化学习（Exploratory RL）方法，用于大语言模型（LLM）的中间训练阶段。传统稀疏奖励强化学习依赖基础模型的覆盖度，而 ExpRL 通过在策划的推理轨迹上进行中间训练，引导模型学习有用的推理原语，从而提升模型在复杂推理任务中的表现。该方法有效缓解了探索不足问题，增强了模型在稀疏奖励场景下的探索能力。对于产品经理而言，这意味着可以更高效地利用有限标注数据提升模型推理质量，降低训练成本，并加速模型在垂直场景（如数学、代码）中的应用落地。",
+  "pm_relevance": 8,
+  "concepts": [
+    "探索性强化学习",
+    "中间训练",
+    "推理能力提升"
+  ],
+  "entities": [],
+  "patterns": [
+    "强化学习中间训练模式",
+    "探索引导模式"
+  ]
+}

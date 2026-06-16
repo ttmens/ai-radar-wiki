@@ -1,7 +1,7 @@
 {
   "date": "2026-06-16",
-  "generated_at": "2026-06-16T12:02:41.825333+08:00",
-  "item_count": 23,
+  "generated_at": "2026-06-16T18:03:30.403643+08:00",
+  "item_count": 38,
   "items": [
     {
       "id": "ask-hn-has-anyone-replaced-claudegpt-with-a-local-model-for-daily-coding",
@@ -81,6 +81,17 @@
       "date": "2026-06-16"
     },
     {
+      "id": "your-privacy-my-cloak-backdoor-attacks-on-differentially-private-federated-learn",
+      "label": "Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Lear",
+      "summary": "本文挑战了‘差分隐私(DP)天然增强联邦学习(FL)对后门攻击鲁棒性’的既有认知。通过实证分析两种基线攻击策略，揭示了DP-FL中的根本矛盾：DP虽能掩盖梯度中的异常，但攻击者仍可设计特定的恶意更新，在保持低噪声敏感度的同时植入后门。该发现对依赖DP保护用户隐私的FL产品（如医疗、金融领域）构成直接威胁，提示产品经理需重新评估安全假设，探索更健壮的防御或混合方案。",
+      "pm_score": 0.515,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.17035v1",
+      "date": "2026-06-16"
+    },
+    {
       "id": "sarvam-becomes-india8217s-newest-ai-unicorn-with-234-million-funding-round-led-b",
       "label": "Sarvam becomes India&#8217;s newest AI unicorn with $234 million funding round l",
       "summary": "印度AI初创公司Sarvam完成2.34亿美元融资，由IT服务巨头HCLTech领投1.5亿美元，成为印度最新AI独角兽。该轮融资凸显企业级AI服务的商业价值，HCLTech的参与表明IT服务公司正加速布局AI能力。Sarvam可能专注于印度本土化AI解决方案，未来或推动企业级AI应用落地。对AI产品经理而言，此事件验证了AI创业在印度市场的爆发潜力，以及传统IT服务商通过投资获取AI技术能力的模式。",
@@ -89,6 +100,72 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "malaysia8217s-ai-agent-powered-messaging-app-respondio-raises-625m-eyes-acquisit",
+      "label": "Malaysia&#8217;s AI agent-powered messaging app Respond.io raises $62.5M, eyes a",
+      "summary": "马来西亚AI初创公司Respond.io完成6250万美元融资，其AI代理驱动消息平台可自动处理海量客户咨询，采用按对话数量收费而非按座位数计费的商业模式。该模式降低了企业使用AI客服的门槛，尤其适合高并发场景。产品经理应关注其定价策略如何平衡用户价值与营收，以及AI代理在企业级消息应用中的落地路径。公司计划通过收购进一步扩张生态。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "kveraser-learning-to-steer-kv-cache-for-efficient-localized-context-erasing",
+      "label": "KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing",
+      "summary": "KVEraser 提出一种通过学习引导KV缓存的方法，实现高效的局部上下文擦除。在长上下文LLM应用中，局部编辑会全局影响后续token的缓存状态，导致过时检索事实难以删除。该方法无需重新计算，直接操作KV缓存，可精准擦除指定内容，同时保持模型回答的流畅性。商业价值在于支持隐私保护、内容过滤和知识动态更新，降低算力成本。产品创新点在于将缓存控制技术引入上下文编辑，提升LLM应用的灵活性和可控性。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.17034v1",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "exact-posterior-score-estimation-for-solving-linear-inverse-problems",
+      "label": "Exact Posterior Score Estimation for Solving Linear Inverse Problems",
+      "summary": "本文提出了一种精确后验分数估计方法，用于解决线性逆问题（如图像去噪、超分辨率）。传统扩散模型仅提供无条件分数，无法直接用于后验采样。该方法通过估计精确的后验分数，使得在给定测量条件下生成高质量重建结果成为可能。商业价值在于提升AI图像修复、医学成像等场景的实用性和精度。产品创新点在于无需重新训练模型即可适配多种逆问题，降低了部署门槛。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.17048v1",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "tokenpilot-cache-efficient-context-management-for-llm-agents",
+      "label": "TokenPilot: Cache-Efficient Context Management for LLM Agents",
+      "summary": "TokenPilot 提出了一种缓存高效的上下文管理方法，专为 LLM 代理在长时间会话中的推理成本问题设计。它通过优化缓存布局，减少因前缀不匹配导致的缓存失效，从而在保持上下文质量的同时降低 token 消耗。相比现有文本修剪和动态内存驱逐方法，TokenPilot 避免了序列突变带来的布局紊乱，显著提升推理效率与成本效益。该方案有望支持更流畅、更持久的 AI 代理交互，为产品经理提供降低运营成本、改善用户体验的实用工具。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.17016v1",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "exprl-exploratory-rl-for-llm-mid-training",
+      "label": "ExpRL: Exploratory RL for LLM Mid-Training",
+      "summary": "ExpRL 提出了一种探索性强化学习（Exploratory RL）方法，用于大语言模型（LLM）的中间训练阶段。传统稀疏奖励强化学习依赖基础模型的覆盖度，而 ExpRL 通过在策划的推理轨迹上进行中间训练，引导模型学习有用的推理原语，从而提升模型在复杂推理任务中的表现。该方法有效缓解了探索不足问题，增强了模型在稀疏奖励场景下的探索能力。对于产品经理而言，这意味着可以更高效地利用有限标注数据提升模型推理质量，降低训练成本，并加速模型在垂直场景（如数学、代码）中的应用落地。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.17024v1",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "hamon-passive-optical-sequence-mixing-for-long-horizon-forecasting",
+      "label": "HAMON: Passive Optical Sequence Mixing for Long-Horizon Forecasting",
+      "summary": "该研究揭示，在长期时间序列预测任务中，简单的线性模型和频域模型依然具有竞争力，甚至优于复杂Transformer架构。标准预测基准可能并不需要Transformer所擅长的密集叠加表示能力。对于AI产品经理而言，这意味着在构建预测类产品（如库存、能耗、流量等）时，可优先考虑轻量级模型以降低计算成本和部署难度，同时保持效果。此结论有助于推动更高效、低成本的预测产品创新，尤其在资源受限场景下具有显著商业价值。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.17028v1",
       "date": "2026-06-16"
     },
     {
@@ -147,6 +224,39 @@
       "date": "2026-06-16"
     },
     {
+      "id": "filtered-conformal-ellipsoids-for-graph-native-time-series",
+      "label": "Filtered Conformal Ellipsoids for Graph-Native Time Series",
+      "summary": "该论文提出了一种名为“过滤共形椭球”的新方法，用于多变量时间序列的联合预测集构建。它结合了状态空间滤波的单步预测均值与协方差，以及分裂共形校准技术，能够自适应地处理跨坐标依赖性。该方法旨在控制单一事件（如异常检测或决策阈值）的同时，提升预测的不确定性量化精度。对于产品经理而言，这意味着更可靠的时间序列预测区间，可应用于金融风控、供应链预测、物联网监控等场景，增强模型的可信度与鲁棒性。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.17014v1",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "fusionrs-a-large-scale-rgb-infrared-remote-sensing-dataset-for-dual-modal-vision",
+      "label": "FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Visio",
+      "summary": "该论文提出FusionRS，一个大规模RGB-红外双模态遥感数据集，旨在弥补当前遥感视觉语言模型仅依赖RGB图像、忽略红外互补信息的不足。红外图像提供热强度结构等独特特征，可增强对地观测理解。该数据集支撑双模态视觉语言基础模型的训练与评测，有望推动环境监测、灾害评估、农业分析等场景的智能化升级，为产品经理在多传感器融合、低成本感知方案上提供新思路。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.17020v1",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "hierarchical-advantage-weighting-for-online-rl-fine-tuning-of-vlas-from-sparse-e",
+      "label": "Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse E",
+      "summary": "本文提出层次优势加权方法（Hierarchical Advantage Weighting），用于在在线强化学习中微调预训练VLA（视觉-语言-动作）策略。针对每个回合仅产生稀疏二元结果（成功/失败）的挑战，传统方法将结果简化为单一标量奖励或优势信号，导致过渡级监督不足。新方法通过层次结构对不同时间尺度的优势进行加权，有效利用稀疏结果信号引导actor更新，提升微调效率和最终策略性能。该方法有望降低具身智能任务中数据标注成本，加速机器人从稀疏反馈中学习，对产品化部署具有实用价值。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.17043v1",
+      "date": "2026-06-16"
+    },
+    {
       "id": "show-hn-fata-spaced-repetition-to-fight-skill-rot-from-ai-coding",
       "label": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
       "summary": "Fata 是一款通过间隔重复（Spaced Repetition）技术对抗 AI 编码导致技能退化的工具。随着开发者越来越依赖 AI 辅助编程，自身编码能力可能逐渐削弱。Fata 将复习机制嵌入编码工作流，在适当时间点自动推送关键概念、代码片段或设计模式，帮助开发者保持和巩固技能。该产品创新性地将学习系统与 IDE 或编码环境结合，实现无感知的持续训练。商业价值在于为 AI 工具厂商提供差异化功能：在提升效率的同时避免用户能力衰退，增强用户粘性。对产品经理而言，这启示了 AI 产品设计应平衡便利性与人的成长，防止“捷径陷阱”。",
@@ -166,6 +276,39 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48549918",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "openai-losses-increased-nearly-8x-in-2025-with-spending-hitting-34b",
+      "label": "OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B",
+      "summary": "OpenAI在2025年亏损扩大近8倍，总支出达到340亿美元，反映出大模型训练与运营成本急剧上升。对AI产品经理而言，这一财务信号意味着依赖大规模API调用的商业模型面临可持续性挑战，可能推动行业寻求更高效的推理架构或成本优化策略。同时，高昂的烧钱速度可能加速开源模型和垂直领域专用小模型的竞争，改变产品选型与技术路线。产品经理需关注OpenAI的定价调整、企业客户策略以及基础设施投入对生态的影响。",
+      "pm_score": 0.43,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48550465",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "learning-the-geometry-of-data-a-mathematical-review-of-shape-space-analysis",
+      "label": "Learning the Geometry of Data: A Mathematical Review of Shape Space Analysis",
+      "summary": "本文综述了形状空间分析（Shape Space Analysis）的数学原理，旨在为机器学习中处理具有几何结构的数据（如3D点云、网格、图形）提供理论基础。核心思想是通过将对象形状映射到低维流形上，捕获其几何变异性，从而提升模型对形状相似性、变形和分类任务的泛化能力。对于AI产品经理，该技术可赋能自动驾驶场景理解、AR/VR虚拟建模、医学图像分割等高价值应用，使模型在不依赖大量标注数据的情况下学习几何先验，降低训练成本并提高鲁棒性。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.17022v1",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "the-importance-of-phase-in-neural-representations-an-internal-oppenheim-lim-test",
+      "label": "The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Tes",
+      "summary": "该论文借鉴Oppenheim和Lim（1981）关于图像相位携带主要识别信息的经典发现，研究训练后的图像分类器在隐藏层中是否也表现出类似的相位-幅度不对称性。通过因果测试，作者探究模型内部表征是否依赖相位而非幅度来识别物体，从而揭示神经网络对图像结构信息的编码偏好。这一发现对AI产品经理具有重要价值：它提示在设计鲁棒分类系统时，可以利用相位优先的特征来抵抗幅度噪声或对抗攻击，同时为模型压缩与可解释性提供了新思路——聚焦相位信息可能简化特征提取，降低计算成本。商业上，有望推动更轻量、更可靠的视觉AI产品落地。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.17037v1",
       "date": "2026-06-16"
     },
     {
@@ -213,6 +356,17 @@
       "date": "2026-06-16"
     },
     {
+      "id": "the-90-year-old-idea-behind-jepa-models-canonical-correlation-analysis",
+      "label": "The 90-year-old idea behind JEPA models: Canonical Correlation Analysis",
+      "summary": "JEPA（联合嵌入预测架构）基于90年前的典型相关分析（CCA）思想，通过预测表征空间中的嵌入来学习，避免了对像素级重建的依赖，显著降低计算成本。这种自监督学习方法提升了模型的数据效率与泛化能力，尤其适合大规模预训练场景。对AI产品经理而言，JEPA有望降低基础模型的训练成本，加速产品迭代，并为多模态理解、视频预测等任务提供更高效的解决方案。其技术本质是优化表征学习，与LLM的next token prediction路径不同，开辟了新的能力演进方向。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48490578",
+      "date": "2026-06-16"
+    },
+    {
       "id": "launch-hn-drafted-yc-p26-models-for-residential-architecture",
       "label": "Launch HN: Drafted (YC P26) – Models for residential architecture",
       "summary": "Drafted（YC P26）是一家YC孵化的初创公司，专注于为住宅建筑领域开发AI模型。其核心产品可能是生成式AI工具，能够辅助建筑师或业主快速生成住宅设计方案、优化空间布局或自动生成施工图纸。该技术通过训练大量建筑数据，实现个性化设计建议，降低设计门槛和成本。商业价值在于将AI能力垂直应用于建筑行业，提升设计效率，尤其适合中小型项目。产品创新点在于将大模型与专业建筑规范结合，输出符合行业标准的方案。对于AI产品经理，这是一个典型的垂直领域AI应用案例，展示了如何将通用AI能力转化为行业解决方案。",
@@ -255,10 +409,21 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
       "date": "2026-06-16"
+    },
+    {
+      "id": "geometric-action-model-for-robot-policy-learning",
+      "label": "Geometric Action Model for Robot Policy Learning",
+      "summary": "Generalist robot policies must follow user instructions while reasoning about how objects, cameras, and robot actions interact in the 3D physical world. Recent vision-language-action models (VLAs) and video world-action models (WAMs) inherit strong semantic or temporal priors from large-scale founda",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.17046v1",
+      "date": "2026-06-16"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1591,
-    "edges": 155263
+    "real_nodes": 1606,
+    "edges": 156870
   }
 }

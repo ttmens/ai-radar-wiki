@@ -1,0 +1,27 @@
+{
+  "title": "Filtered Conformal Ellipsoids for Graph-Native Time Series",
+  "summary": "Joint prediction sets for multivariate time series should control a single event while adapting to cross-coordinate dependence. We study filtered conformal ellipsoids: a frozen state-space filter emits a one-step predictive mean and covariance, and split-conformal calibration is applied to the resulting Mahalanobis scores. The filter is used to choose the ellipsoid shape; conformal calibration chooses the scalar radius, so the construction benefits from a learned predictive covariance without relying on Gaussian tail probabilities for coverage. The main difficulty is that filtered scores are dependent and learned recurrent filters need not contract in their raw hidden state; we therefore analyse contraction in an observable predictive-law quotient that identifies hidden states producing the same future sequence of emitted Gaussian laws. Under a stable Bayes Gaussian-projection filter, covariance bounds, and a finite-horizon observability Fisher condition, small excess Gaussian negative log-likelihood implies contraction of the learned emitted laws. Combined with a threshold-autocovariance envelope this yields a Chebyshev-type approximate coverage bound for filtered split-conformal prediction under dependence; a sharper Bernstein-type bound requires an additional geometric-mixing concentration assumption. Under Gaussian oracle realisability we also obtain a near-oracle log-volume comparison within the class of conditionally valid Gaussian ellipsoid rules. We instantiate the framework with a GCN-GRU filter with diagonal-plus-low-rank covariance. On moderate-size graph-native traffic benchmarks (METRLA-$20$ and PEMSBAY-$50$), the learned filter gives sharper at-target ellipsoids than static-covariance and non-filter baselines; at full-graph scale and on non-graph-native datasets, factor and copula baselines can be stronger.",
+  "url": "http://arxiv.org/abs/2606.17014v1",
+  "authors": [
+    "Yannick Limmer"
+  ],
+  "published": "2026-06-15T17:46:19Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "dataset"
+  ],
+  "summary_cn": "该论文提出了一种名为“过滤共形椭球”的新方法，用于多变量时间序列的联合预测集构建。它结合了状态空间滤波的单步预测均值与协方差，以及分裂共形校准技术，能够自适应地处理跨坐标依赖性。该方法旨在控制单一事件（如异常检测或决策阈值）的同时，提升预测的不确定性量化精度。对于产品经理而言，这意味着更可靠的时间序列预测区间，可应用于金融风控、供应链预测、物联网监控等场景，增强模型的可信度与鲁棒性。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Time Series Prediction",
+    "Uncertainty Quantification",
+    "Conformal Prediction"
+  ],
+  "entities": [],
+  "patterns": [
+    "Prediction Pattern",
+    "Uncertainty Estimation Pattern"
+  ]
+}

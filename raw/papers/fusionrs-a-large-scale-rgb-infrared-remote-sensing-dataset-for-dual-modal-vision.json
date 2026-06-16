@@ -1,0 +1,35 @@
+{
+  "title": "FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Vision-Language Foundation Models",
+  "summary": "Remote sensing vision-language models have advanced Earth observation understanding, but most existing work remains centered on RGB imagery, leaving the complementary information in infrared data underexplored. Infrared images provide distinctive cues, including thermal intensity structures, object boundaries, and illumination-invariant scene features, which can enrich visual-language learning beyond conventional RGB observations. However, a large-scale RGB-infrared-text dataset for remote sensing vision-language modeling is still absent. To address this gap, we introduce FusionRS, the first large-scale RGB-infrared-text dataset designed for dual-modal vision-language learning in remote sensing. FusionRS is constructed by translating diverse public RGB remote sensing images into infrared-style counterparts, forming aligned RGB-IR image pairs. Each pair is associated with conventional scene captions and IR-aware captions that explicitly describe infrared-specific visual properties while preserving semantic content. Based on FusionRS, we train dual-modal vision-language foundation models for RGB-IR joint understanding. We first train CLIP-style models for RGB-IR-text alignment, and then fine-tune generative VLMs for dual-modal RGB-IR captioning. Experiments show that FusionRS improves RGB-IR alignment, infrared-to-text retrieval, and dual-modal captioning over RGB-only and non-IR-aware training settings. Ablation studies further verify that IR-aware captions are crucial for strengthening infrared-language alignment, highlighting the importance of modality-specific textual supervision for more scalable RGB-infrared remote sensing vision-language representation learning.",
+  "url": "http://arxiv.org/abs/2606.17020v1",
+  "authors": [
+    "Jiaju Han",
+    "Ben Zhang",
+    "Xuemeng Sun",
+    "Qike Zhang",
+    "Yuxian Dong"
+  ],
+  "published": "2026-06-15T17:49:34Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision",
+    "training",
+    "dataset",
+    "retrieval"
+  ],
+  "summary_cn": "该论文提出FusionRS，一个大规模RGB-红外双模态遥感数据集，旨在弥补当前遥感视觉语言模型仅依赖RGB图像、忽略红外互补信息的不足。红外图像提供热强度结构等独特特征，可增强对地观测理解。该数据集支撑双模态视觉语言基础模型的训练与评测，有望推动环境监测、灾害评估、农业分析等场景的智能化升级，为产品经理在多传感器融合、低成本感知方案上提供新思路。",
+  "pm_relevance": 7,
+  "concepts": [
+    "多模态遥感",
+    "视觉语言模型",
+    "红外与RGB融合"
+  ],
+  "entities": [
+    "FusionRS"
+  ],
+  "patterns": [
+    "多模态基础模型",
+    "大数据驱动"
+  ]
+}
