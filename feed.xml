@@ -5,13 +5,29 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 15 Jun 2026 20:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 00:03:50 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?</title>
+      <link>https://news.ycombinator.com/item?id=48542100</link>
+      <guid isPermaLink="false">ask-hn-has-anyone-replaced-claudegpt-with-a-local-model-for-daily-coding</guid>
+      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> hn</p><hr/><p>该讨论在Hacker News上发起，核心问题是开发者是否已成功用本地大模型（如Code Llama等）替代Claude或GPT进行日常编程。关键考量包括：本地模型在代码生成、补全和调试上的能力是否媲美云端模型；隐私与数据安全优势（代码不离开本地）；成本控制（无需API订阅费）；以及硬件需求（GPU/内存瓶颈）。产品经理需关注本地模型与云端模型的性能差距、部署难度和用户体验折中，以决定产品策略（例如是否提供本地优先的AI编程助手）。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>elder-plinius/CL4R1T4S</title>
+      <link>https://github.com/elder-plinius/CL4R1T4S</link>
+      <guid isPermaLink="false">elder-pliniuscl4r1t4s</guid>
+      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>GitHub仓库elder-plinius/CL4R1T4S汇集了ChatGPT、Claude、Gemini等主流AI系统的泄露System Prompts，旨在推动AI透明性。产品经理可借此逆向分析竞品的行为约束、角色设定与防御机制，优化自身产品的Prompt设计与安全策略。需警惕提示词泄露带来的模型模仿和越狱风险，同时思考如何通过动态提示保护或加密手段提升产品护城河。</p></description>
+      <category>📱 产品模式</category>
+    </item>
     <item>
       <title>CrankGPT</title>
       <link>https://news.ycombinator.com/item?id=48540854</link>
@@ -53,6 +69,22 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)</title>
+      <link>https://news.ycombinator.com/item?id=48543475</link>
+      <guid isPermaLink="false">tinywind-a-pixel-pirate-sailing-game-with-real-wind-physics-380k-kms-sailed</guid>
+      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>TinyWind是一款像素风格的海盗航行游戏，其核心特色是真实的风物理模拟，玩家需利用风向和风速操控船只，已累计航行超过38万公里。该产品展示了物理引擎在游戏中的创新应用，提升了沉浸感和策略性，对AI产品经理的启示在于：将真实世界物理规律引入虚拟场景可大幅增强用户体验，同时此类结合AI物理模拟的技术可复用于教育、仿真等商业领域。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Meta&amp;#8217;s new ‘AI Mode’ on Facebook pulls from public info across its platfor</title>
+      <link>https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/</link>
+      <guid isPermaLink="false">meta8217s-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms</guid>
+      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Meta在Facebook推出全新AI模式，利用旗下多个平台的公开信息（如Instagram、Threads等）进行整合，为用户提供更智能的交互体验。该功能标志着Meta在AI竞赛中加速追赶，旨在通过个性化推荐、智能搜索和对话式助手提升用户参与度。技术要点在于跨平台数据融合与大规模语言模型的社交场景适配，商业价值体现在增强流量变现和用户留存，产品创新则在于将AI能力深度嵌入社交平台核心交互。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Cybersecurity vets protest &amp;#8216;dangerous&amp;#8217; US government ban on Anthropi</title>
       <link>https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/</link>
       <guid isPermaLink="false">cybersecurity-vets-protest-8216dangerous8217-us-government-ban-on-anthropic8217s</guid>
@@ -61,11 +93,35 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>My Homelab AI Dev Platform</title>
+      <link>https://news.ycombinator.com/item?id=48542433</link>
+      <guid isPermaLink="false">my-homelab-ai-dev-platform</guid>
+      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容介绍了一个自建的家庭实验室AI开发平台。技术要点包括利用本地硬件（如GPU服务器）搭建私有AI环境，支持模型训练、推理和微调；商业价值在于降低云端成本、保障数据隐私，并加速迭代；产品创新体现在整合了开源工具链和容器化部署，使个人开发者能以极低门槛获得企业级AI开发能力。这一平台模式适合中小团队快速验证AI应用，也为边缘计算场景提供了参考。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Fata – Spaced repetition to fight skill rot from AI coding</title>
+      <link>https://news.ycombinator.com/item?id=48489163</link>
+      <guid isPermaLink="false">show-hn-fata-spaced-repetition-to-fight-skill-rot-from-ai-coding</guid>
+      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Fata 是一款通过间隔重复（Spaced Repetition）技术对抗 AI 编码导致技能退化的工具。随着开发者越来越依赖 AI 辅助编程，自身编码能力可能逐渐削弱。Fata 将复习机制嵌入编码工作流，在适当时间点自动推送关键概念、代码片段或设计模式，帮助开发者保持和巩固技能。该产品创新性地将学习系统与 IDE 或编码环境结合，实现无感知的持续训练。商业价值在于为 AI 工具厂商提供差异化功能：在提升效率的同时避免用户能力衰退，增强用户粘性。对产品经理而言，这启示了 AI 产品设计应平衡便利性与人的成长，防止“捷径陷阱”。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>Show HN: Can Europe train a frontier AI model on the compute it owns?</title>
       <link>https://news.ycombinator.com/item?id=48541014</link>
       <guid isPermaLink="false">show-hn-can-europe-train-a-frontier-ai-model-on-the-compute-it-owns</guid>
       <pubDate>2026-06-16T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨欧洲是否能用自有计算资源训练出前沿AI模型，核心关注算力主权与地缘政治风险。技术要点在于欧洲当前依赖进口GPU，但正通过联合体（如EuroHPC）和RISC-V/存内计算等自主芯片方案寻求突破。商业价值体现在降低对美依赖、保护数据隐私，并可能孵化出本地化大模型产品。产品创新方面，边缘训练、联邦学习与能耗优化成为差异化方向，为AI产品经理提供“主权AI”新范式参考。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Launch HN: Drafted (YC P26) – Models for residential architecture</title>
+      <link>https://news.ycombinator.com/item?id=48543908</link>
+      <guid isPermaLink="false">launch-hn-drafted-yc-p26-models-for-residential-architecture</guid>
+      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Drafted（YC P26）是一家YC孵化的初创公司，专注于为住宅建筑领域开发AI模型。其核心产品可能是生成式AI工具，能够辅助建筑师或业主快速生成住宅设计方案、优化空间布局或自动生成施工图纸。该技术通过训练大量建筑数据，实现个性化设计建议，降低设计门槛和成本。商业价值在于将AI能力垂直应用于建筑行业，提升设计效率，尤其适合中小型项目。产品创新点在于将大模型与专业建筑规范结合，输出符合行业标准的方案。对于AI产品经理，这是一个典型的垂直领域AI应用案例，展示了如何将通用AI能力转化为行业解决方案。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -77,11 +133,35 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>Show HN: Vet turned founder, AI lawn diagnosis</title>
+      <link>https://grassdx.com/</link>
+      <guid isPermaLink="false">show-hn-vet-turned-founder-ai-lawn-diagnosis</guid>
+      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该产品由一位退伍军人转型的创业者推出，专注于AI草坪诊断。通过计算机视觉和机器学习模型，用户上传草坪照片即可获得病害、虫害或营养问题的智能识别与建议。技术创新点在于将AI应用于垂直园艺场景，降低专业诊断门槛。商业价值瞄准北美庞大的家庭草坪护理市场，提供低成本、快捷的自动化解决方案。产品创新体现为跨界融合——创始人将兽医领域的诊断经验迁移至植物健康，形成差异化竞争。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Show HN: I wrote a C++ ray tracer from scratch without AI</title>
       <link>https://news.ycombinator.com/item?id=48538833</link>
       <guid isPermaLink="false">show-hn-i-wrote-a-c-ray-tracer-from-scratch-without-ai</guid>
       <pubDate>2026-06-16T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>一位开发者从零用C++实现了一个光线追踪器，完全未依赖AI技术。该演示展示了传统计算机图形学算法的扎实实现，包括光线-物体求交、反射、折射等渲染管线。在AI浪潮下，这一项目反向凸显了纯算法与手工编码的简洁性与可控性，尤其适用于对效率、可调试性要求高且AI模型不具优势的场景（如实时渲染、嵌入式系统）。对AI产品经理而言，它提醒不应盲目追求AI集成，传统方法在特定领域仍具竞争力，但缺乏直接AI商业价值。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>SpaceX is public: Everything you need to know post-IPO</title>
+      <link>https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/</link>
+      <guid isPermaLink="false">spacex-is-public-everything-you-need-to-know-post-ipo</guid>
+      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>SpaceX 启动 IPO，TechCrunch 提供全面报道，包括上市背景、赢家与输家、预 IPO 交易以及 S-1 注册文件细节。作为航天商业化的里程碑，IPO 将为民营太空经济注入资本，推动星链等基础设施扩张，但需关注监管风险与估值波动。对于 AI 产品经理，可关注 SpaceX 在轨道计算、自主控制等领域的 AI 应用如何通过公开市场加速落地。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says</title>
+      <link>https://news.ycombinator.com/item?id=48546306</link>
+      <guid isPermaLink="false">us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says</guid>
+      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>该新闻标题报道了美国空军B-52轰炸机在爱德华兹空军基地起飞后坠毁的事件。从AI产品经理视角看，此内容与人工智能技术、产品创新或商业价值无直接关联。不过，可将其视为对AI在军事航空安全领域应用的潜在提醒（如故障预测、自主飞行系统等），但缺乏具体技术细节。建议关注相关领域的技术动态，而非此次事故本身。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -331,86 +411,6 @@
       <pubDate>2026-06-14T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenAI正面临美国多州总检察长的联合调查，调查范围涵盖其广告政策、健康数据处理等多个方面。虽然具体参与州份尚未明确，但此举反映出AI公司面临的监管压力正在升级。对于产品经理而言，这意味着在产品设计中需更早考虑合规性，尤其是在涉及用户数据、医疗健康等敏感领域时。OpenAI作为行业标杆，其应对策略将影响整个AI生态的合规标准。</p></description>
       <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Show HN: Paca – Lightweight Jira alternative for human-AI collaboration</title>
-      <link>https://news.ycombinator.com/item?id=48515385</link>
-      <guid isPermaLink="false">show-hn-paca-lightweight-jira-alternative-for-human-ai-collaboration</guid>
-      <pubDate>2026-06-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Paca 是一款轻量级项目管理工具，旨在替代 Jira，其核心创新在于专门优化人类与 AI 的协作流程。技术要点包括集成 AI 助手以自动处理任务分配、更新状态和生成报告，降低人工操作复杂度；采用极简界面减少认知负荷。商业价值体现在降低团队采用门槛、提升协作效率，尤其适合需要频繁与 AI 协同工作的敏捷团队。产品创新点在于将 AI 视为平等协作伙伴而非仅自动化工件，支持自然语言指令驱动项目变更，重新定义了项目管理工具的人机交互模式。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Meta reportedly moves to unwind $2B Manus deal after Beijing&amp;#8217;s demand</title>
-      <link>https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/</link>
-      <guid isPermaLink="false">meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijing8217s-demand</guid>
-      <pubDate>2026-06-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Meta据传应北京要求，撤销了价值20亿美元的Manus收购案，并开始拆解相关交易。该事件凸显了AI领域跨境并购面临的监管风险，尤其是涉及中国市场的交易。对于AI产品经理而言，这反映了全球化AI生态中政策不确定性的现实，可能影响产品整合与市场扩张策略。Manus作为AI代理平台，其技术价值与市场前景因收购失败而蒙上阴影，也为其他AI公司敲响合规警钟。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Making Claude a Chemist</title>
-      <link>https://news.ycombinator.com/item?id=48523752</link>
-      <guid isPermaLink="false">making-claude-a-chemist</guid>
-      <pubDate>2026-06-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨如何将Anthropic的通用AI助手Claude改造为具备化学专业知识的‘化学家’。通过微调或检索增强生成（RAG）技术，注入化学公式、反应机理、分子结构等专业知识，使AI能够理解化学问题、辅助实验设计或分析化合物。商业价值在于拓展AI在制药、材料科学等垂直行业的应用，降低企业获取领域AI的门槛。产品创新体现在从通用对话向领域专家角色的转型，为AI产品经理提供了一种‘AI+专业领域’的适配范式。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Police officer investigated for using AI to 'create evidence' in multiple cases</title>
-      <link>https://news.ycombinator.com/item?id=48520807</link>
-      <guid isPermaLink="false">police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases</guid>
-      <pubDate>2026-06-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>据报道，一名警察因在多起案件中使用AI“制造证据”而接受调查。这揭示了AI技术被滥用于司法系统的严重风险，尤其是生成虚假证据的能力。对于AI产品经理而言，核心启示在于：必须设计具备可审计性、防篡改机制和来源追踪的AI系统，以防范类似滥用。此外，该事件凸显了AI伦理与合规在产品设计中的关键地位，以及跨部门监管协作的必要性。产品经理需在功能强大与安全可信之间取得平衡，确保输出内容可溯源、可验证，避免成为作恶工具。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>PwC Report: AI Making Medical Bills Higher</title>
-      <link>https://news.ycombinator.com/item?id=48519519</link>
-      <guid isPermaLink="false">pwc-report-ai-making-medical-bills-higher</guid>
-      <pubDate>2026-06-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>普华永道最新报告指出，AI在医疗领域的应用反而推高了医疗账单，而非降低成本。这揭示当前AI医疗产品在成本控制上存在短板，产品经理需警惕技术引入可能带来的费用转嫁。商业价值关键在于实现AI的精准效益衡量，避免过度投资。产品创新应聚焦于优化AI部署模式，如通过本地化处理或轻量化模型减少基础设施成本，同时确保临床效率提升能真正反映在患者账单降低上。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Bastion – isolated Linux VMs for background coding agents</title>
-      <link>https://bastion.computer/</link>
-      <guid isPermaLink="false">show-hn-bastion-isolated-linux-vms-for-background-coding-agents</guid>
-      <pubDate>2026-06-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Bastion 是一个为后台编码代理提供隔离 Linux 虚拟机的开源项目。它解决了 AI 编码代理在安全执行环境中的关键需求，通过轻量级虚拟机实现代码运行沙箱化，防止恶意操作影响宿主系统。对于 AI 产品经理而言，该工具可降低 AI 辅助编程产品在自动化代码生成、审查、测试等环节的安全风险，适合集成到 CI/CD 或 AI 开发平台中。其技术亮点包括资源隔离、快速启动和 API 友好设计，有助于提升 AI 代理的可靠性与企业级采用率。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU</title>
-      <link>https://github.com/ayushh0110/ScreenMind</link>
-      <guid isPermaLink="false">show-hn-i-run-a-vision-model-on-every-screenshot-locally-on-a-4gb-gpu</guid>
-      <pubDate>2026-06-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该项目展示了如何在本地4GB GPU上对每一帧截图运行视觉模型，实现实时屏幕理解。技术要点包括模型量化与优化以适配低显存硬件，无需云端API即可完成图像分析。商业价值在于降低部署成本、保护用户隐私、支持离线场景。产品创新点是将视觉AI深度融入用户操作流，可拓展为智能桌面助手、自动化测试或无障碍工具。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Brightdeck – an OOXML-compatible AI presentation maker</title>
-      <link>https://brightdeck.ai/</link>
-      <guid isPermaLink="false">show-hn-brightdeck-an-ooxml-compatible-ai-presentation-maker</guid>
-      <pubDate>2026-06-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Brightdeck 是一款兼容 OOXML 的 AI 演示文稿制作工具，能够自动生成可直接编辑的 .pptx 文件。技术要点包括利用大语言模型生成幻灯片内容、布局和设计，并确保格式完全兼容 PowerPoint 等办公软件。商业价值在于大幅提升 PPT 制作效率，降低设计门槛，适用于职场汇报、教学演示等高频场景。产品创新点在于解决了 AI 生成内容无法直接用于标准办公工具的痛点，实现了从生成到编辑的无缝衔接。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>State Attorneys General Are Investigating OpenAI</title>
-      <link>https://news.ycombinator.com/item?id=48522675</link>
-      <guid isPermaLink="false">state-attorneys-general-are-investigating-openai</guid>
-      <pubDate>2026-06-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>美国多州总检察长联合对OpenAI展开调查，核心关注点包括AI产品的数据收集与使用是否符合消费者保护法、是否存在误导性宣传或反竞争行为。这一监管行动可能迫使OpenAI调整其API数据策略、模型发布流程及用户协议透明度。对AI产品经理而言，需警惕合规风险对产品迭代速度的影响，特别是涉及大规模用户数据训练的场景。同时，事件折射出AI行业从“能力竞赛”向“合规优先”的转型信号，未来产品设计需内置可解释性与隐私保护机制。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Show HN: Skill for your agent to visualize your gbrain and Obsidian</title>
-      <link>https://github.com/vladignatyev/brain-map-skill</link>
-      <guid isPermaLink="false">show-hn-skill-for-your-agent-to-visualize-your-gbrain-and-obsidian</guid>
-      <pubDate>2026-06-14T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该项目展示了一个为AI Agent开发的技能，使其能够可视化用户的“gbrain”（可能指代知识图谱或大脑连接）以及Obsidian笔记库。产品创新点在于将智能体能力与个人知识管理（PKM）工具深度集成，通过可视化交互降低认知负荷。技术要点包括利用向量检索和知识图谱技术，让Agent理解并呈现笔记间的关系网络。商业价值在于提升个人生产力工具的用户粘性，为协作式AI伴侣开辟新场景，尤其适合知识工作者和研究型用户。</p></description>
-      <category>📱 产品模式</category>
     </item>
   </channel>
 </rss>
