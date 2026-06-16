@@ -1923,3 +1923,15 @@
 - create: spacex-passes-amazon-as-valuation-balloons-to-27t.md
 - create: probably-raises-9m-to-build-a-more-reliable-kind-of-ai.md
 - create: spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo.md
+
+## [2026-06-17 06:04] sync v3 | 10 new | pillars: {'capabilities': 7, 'business': 1, 'patterns': 2}
+- create: gptnl-a-sovereign-language-model-for-the-netherlands.md
+- create: apple-is-about-to-make-hide-my-email-useless.md
+- create: has-ai-already-killed-self-help-nonfiction-books.md
+- create: qwen-robot-suite-a-foundation-model-suite-for-physical-world-intelligence.md
+- create: ai-is-potentially-a-dunning-kruger-effect-amplifier.md
+- create: spacex-valuation-balloons-to-26t-briefly-passes-amazon.md
+- create: android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-feature.md
+- create: sixty-percent-of-us-consumers-say-8216ai8217-in-brand-messaging-is-a-turnoff-sur.md
+- create: chatgpt8217s-market-share-slips-below-50-for-first-time.md
+- create: show-hn-voicedraw-talk-system-design-out-loud-the-diagrams-draw-themselves.md

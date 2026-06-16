@@ -1,7 +1,7 @@
 {
   "date": "2026-06-17",
-  "generated_at": "2026-06-17T00:02:30.372597+08:00",
-  "item_count": 11,
+  "generated_at": "2026-06-17T06:04:46.029086+08:00",
+  "item_count": 20,
   "items": [
     {
       "id": "feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak",
@@ -12,6 +12,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48552687",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "gptnl-a-sovereign-language-model-for-the-netherlands",
+      "label": "GPT‑NL: a sovereign language model for the Netherlands",
+      "summary": "GPT-NL是荷兰开发的主权语言模型，旨在满足该国对数据主权、语言文化和法规合规的特定需求。技术要点包括：基于本国数据训练、适配荷兰语及低地德语变体、符合欧盟AI法案和GDPR要求；商业价值在于为政府、医疗、法律等敏感行业提供安全可控的本地化AI能力，减少对境外模型的依赖；产品创新体现为模块化架构和区域专属优化，支持定制化部署。该模型强调透明度和可解释性，可赋能公共服务、金融等场景。",
+      "pm_score": 0.565,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48559188",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "apple-is-about-to-make-hide-my-email-useless",
+      "label": "Apple is about to make Hide My Email useless",
+      "summary": "Apple的Hide My Email功能即将因AI技术的发展而失效，可能由于AI驱动的邮件分析或攻击手段能够绕过隐藏地址的保护。这对依赖该功能保护隐私的产品经理是一个警示，需重新评估隐私设计策略。同时，AI在安全领域的进步也可能催生新的防护模式，推动产品创新和用户信任的重新构建。",
+      "pm_score": 0.565,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48559935",
       "date": "2026-06-17"
     },
     {
@@ -59,6 +81,28 @@
       "date": "2026-06-17"
     },
     {
+      "id": "sixty-percent-of-us-consumers-say-8216ai8217-in-brand-messaging-is-a-turnoff-sur",
+      "label": "Sixty percent of US consumers say &#8216;AI&#8217; in brand messaging is a turno",
+      "summary": "WordPress VIP调查显示，60%的美国消费者对品牌信息中提及“AI”感到反感，反映出用户对AI生成内容的信任度较低。尽管企业将AI搜索视为重要流量渠道，但消费者对AI答案持谨慎态度。对AI产品经理而言，这一发现提醒在产品定位和营销中应避免过度强调AI技术标签，转而聚焦实际价值与用户体验，以降低用户抵触情绪。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-feature",
+      "label": "Android 17 launches with new multitasking tools as Google expands Gemini feature",
+      "summary": "Google 发布 Android 17 与 Wear OS 7，重点强化多任务工具、家长控制及安全功能，并通过 Pixel Drop 将最新 Gemini AI 模型部署到设备端。对AI产品经理而言，这标志着操作系统级AI能力从云向端侧迁移的加速，多任务场景下AI助手的无缝调用（如分屏实时翻译、跨应用智能建议）将重构用户交互范式，同时为第三方开发者提供新的AI集成接口。商业上，Google通过系统级AI差异化巩固移动生态，引导开发者基于Gemini API构建端侧智能应用。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "date": "2026-06-17"
+    },
+    {
       "id": "robinhood8217s-note-on-10-layoffs-shows-blaming-ai-isn8217t-cutting-it",
       "label": "Robinhood&#8217;s note on 10% layoffs shows blaming AI isn&#8217;t cutting it",
       "summary": "Robinhood 裁员10%的通知中，CEO Vlad Tenev 未像许多科技同行那样将裁员归因于AI转型，而是强调业务调整和成本控制。这一差异对AI产品经理的启示是：盲目将裁员与AI挂钩可能掩盖真实战略问题；AI技术落地应基于明确的业务价值，而非作为组织变革的借口。商业上，Robinhood的务实做法值得借鉴——产品创新需要与市场实际需求对齐，避免炒作AI概念。",
@@ -70,6 +114,28 @@
       "date": "2026-06-17"
     },
     {
+      "id": "chatgpt8217s-market-share-slips-below-50-for-first-time",
+      "label": "ChatGPT&#8217;s market share slips below 50% for first time",
+      "summary": "ChatGPT市场份额首次跌至50%以下，但仍以11亿月活跃用户领跑全球AI助手市场，Google Gemini和Anthropic Claude分别以6.62亿和2.45亿月活跃用户紧随其后。这一变化标志着AI助手领域竞争加剧，头部产品用户增长放缓，而差异化产品（如多模态、垂直场景）正在蚕食份额。对产品经理而言，需关注用户需求分层和生态壁垒构建，避免同质化竞争。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "has-ai-already-killed-self-help-nonfiction-books",
+      "label": "Has AI already killed self-help nonfiction books?",
+      "summary": "该讨论聚焦AI技术对自助类非虚构书籍的颠覆潜力。AI通过生成个性化建议、对话式指导及动态内容，可能替代传统静态书籍的自我提升功能。产品经理应关注AI内容生成的质量控制、用户信任建立及商业模式（如订阅式AI教练）。这不仅是内容创作效率的提升，更可能重塑知识消费形态，从“读”转向“交互式学习”。商业价值在于降低内容生产成本并实现千人千面的学习体验，但需警惕AI幻觉对权威性的损害。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48558489",
+      "date": "2026-06-17"
+    },
+    {
       "id": "doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-e",
       "label": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, a",
       "summary": "美国司法部声称，xAI未获许可的燃气轮机对国家安全、经济和能源安全至关重要，因此五角大楼需要xAI继续运行这些燃气轮机。这反映了AI大规模训练基础设施面临的能源合规挑战——xAI将燃气轮机用于其AI计算集群的电力供应，以支持模型训练。尽管未经环保许可，但出于战略安全考虑，政府允许其临时运行。对AI产品经理而言，这凸显了AI部署中能源基础设施的瓶颈，以及政策与合规风险如何影响算力稳定性，进而影响产品交付时间表和成本。商业价值在于确保AI训练连续性，但也提示需要提前规划绿色能源或合规方案。",
@@ -78,6 +144,39 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "qwen-robot-suite-a-foundation-model-suite-for-physical-world-intelligence",
+      "label": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
+      "summary": "Qwen-Robot Suite 是面向物理世界智能的基础模型套件，基于通义千问（Qwen）大模型，旨在赋能机器人感知、决策与控制。技术要点包括多模态理解、场景泛化与实时交互能力；商业价值在于降低机器人开发门槛，推动工业与家庭服务机器人的规模化落地；产品创新体现为将LLM从数字世界延伸至物理世界，实现任务级指令理解与自主执行。",
+      "pm_score": 0.415,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48554814",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "ai-is-potentially-a-dunning-kruger-effect-amplifier",
+      "label": "AI is potentially a Dunning-Kruger effect amplifier",
+      "summary": "本文探讨了AI可能放大邓宁-克鲁格效应（即能力低者高估自己、能力高者低估自己）的风险。AI生成高质量但空洞内容的能力，会让缺乏领域知识的用户产生虚假自信，同时让真正专家更怀疑自身判断。对产品经理而言，这意味着在设计AI交互时需加入元认知提示、不确定性标识或能力自评机制，避免用户过度依赖AI而降低真实学习效果。商业价值在于开发‘认知校准’型AI工具，既能提升用户效能，又能防止AI沦为‘无知放大器’。",
+      "pm_score": 0.365,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48560913",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "show-hn-voicedraw-talk-system-design-out-loud-the-diagrams-draw-themselves",
+      "label": "Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves",
+      "summary": "VoiceDraw 是一款通过语音交互自动生成系统设计图的 AI 工具，用户只需口头描述架构、组件和关系，即可实时得到可视化图表。该产品降低了系统设计的时间成本，特别适合会议、白板讨论等场景，提升了设计协作效率。其技术创新在于结合语音识别、自然语言理解与图表生成模型，将模糊的口头描述转化为结构化图表。对产品经理而言，这能加速需求澄清和架构对齐，具有显著商业价值。",
+      "pm_score": 0.33,
+      "pillar": "patterns",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://voicedraw.com/",
       "date": "2026-06-17"
     },
     {
@@ -126,7 +225,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1617,
-    "edges": 158491
+    "real_nodes": 1627,
+    "edges": 160119
   }
 }

@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-17 | Total pages: 1636
+> Last updated: 2026-06-17 | Total pages: 1646
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -36,6 +36,7 @@
 - [[ai-is-code-and-cant-be-prompted-into-being-smarter.md]] AI is code – and can't be prompted into being smarter `pillar:capabilities` `score:0.53`
 - [[ai-is-just-unauthorised-plagiarism-at-a-bigger-scale.md]] AI is just unauthorised plagiarism at a bigger scale `pillar:capabilities` `score:0.63`
 - [[ai-is-making-me-dumb.md]] AI is making me dumb `pillar:capabilities` `score:0.63`
+- [[ai-is-potentially-a-dunning-kruger-effect-amplifier.md]] AI is potentially a Dunning-Kruger effect amplifier `pillar:capabilities` `score:0.365`
 - [[ai-is-slowing-down.md]] AI is slowing down `pillar:capabilities` `score:0.63`
 - [[ai-oss-tool-repo-goes-archived-over-night-after-raising-73m-seed.md]] AI OSS tool repo goes archived over night after raising $7.3M Seed `pillar:capabilities` `score:0.53`
 - [[ai-outperforms-law-professors-in-stanford-law-study.md]] AI outperforms law professors in Stanford Law study `pillar:capabilities` `score:0.55`
@@ -53,6 +54,7 @@
 - [[amazon-will-show-ai-product-images-when-you-search-for-some-reason.md]] Amazon will show AI product images when you search for some reason `pillar:capabilities` `score:0.515`
 - [[an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry.md]] An OpenAI model has disproved a central conjecture in discrete geometry `pillar:capabilities` `score:0.63`
 - [[ancient-genome-duplications-laid-the-foundations-of-complex-brains.md]] Ancient genome duplications laid the foundations of complex brains `pillar:capabilities` `score:0.225`
+- [[android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-feature.md]] Android 17 launches with new multitasking tools as Google expands Gemini feature `pillar:capabilities` `score:0.48`
 - [[anthropic-apologizes-for-invisible-claude-fable-guardrails.md]] Anthropic apologizes for invisible Claude Fable guardrails `pillar:capabilities` `score:0.63`
 - [[anthropic-is-expanding-to-colossus2-will-use-gb200.md]] Anthropic is expanding to Colossus2. Will use GB200 `pillar:capabilities` `score:0.48`
 - [[anthropic-requires-30-day-data-retention-for-fable-and-mythos.md]] Anthropic requires 30 day data retention for Fable and Mythos `pillar:capabilities` `score:0.565`
@@ -64,6 +66,7 @@
 - [[antigravity-20-tops-the-openscad-architectural-3d-llm-benchmark.md]] Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark `pillar:capabilities` `score:0.545`
 - [[apple-foundation-models.md]] Apple Foundation Models `pillar:capabilities` `score:0.48`
 - [[apple-gives-siri-its-own-dedicated-app.md]] Apple gives Siri its own dedicated app `pillar:capabilities` `score:0.445`
+- [[apple-is-about-to-make-hide-my-email-useless.md]] Apple is about to make Hide My Email useless `pillar:capabilities` `score:0.565`
 - [[apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-f.md]] Apple is fixing the headache of splitting the bill with its new Siri in Camera f `pillar:capabilities` `score:0.445`
 - [[apple-plays-catch-up-at-wwdc.md]] Apple plays catch-up at WWDC `pillar:capabilities` `score:0.445`
 - [[apple8217s-image-playground-doesn8217t-suck-anymore.md]] Apple&#8217;s Image Playground doesn&#8217;t suck anymore `pillar:capabilities` `score:0.445`
@@ -187,6 +190,7 @@
 - [[googles-antigravity-bait-and-switch.md]] Google's Antigravity Bait and Switch `pillar:capabilities` `score:0.53`
 - [[googles-genie-world-model-can-now-simulate-real-streets-with-street-view.md]] Google’s Genie world model can now simulate real streets with Street View `pillar:capabilities` `score:0.515`
 - [[gpt-2-too-dangerous-to-release-2019.md]] GPT-2: Too Dangerous To Release (2019) `pillar:capabilities` `score:0.58`
+- [[gptnl-a-sovereign-language-model-for-the-netherlands.md]] GPT‑NL: a sovereign language model for the Netherlands `pillar:capabilities` `score:0.565`
 - [[grapheneos-speech-services-version-2-released.md]] GrapheneOS Speech Services version 2 released `pillar:capabilities` `score:0.295`
 - [[growing-neural-cellular-automata.md]] Growing Neural Cellular Automata `pillar:capabilities` `score:0.295`
 - [[hacksiderdeep-live-cam.md]] hacksider/Deep-Live-Cam `pillar:capabilities` `score:0.58`
@@ -194,6 +198,7 @@
 - [[handmade-hawaiian-islands-map.md]] Handmade Hawaiian Islands Map `pillar:capabilities` `score:0.26`
 - [[hark-raises-700m-series-a-for-its-secretive-8220universal8221-ai-interface.md]] Hark raises $700M Series A for its secretive &#8220;universal&#8221; AI interfac `pillar:capabilities` `score:0.515`
 - [[harvard-edgecs249r_book.md]] harvard-edge/cs249r_book `pillar:capabilities` `score:0.58`
+- [[has-ai-already-killed-self-help-nonfiction-books.md]] Has AI already killed self-help nonfiction books? `pillar:capabilities` `score:0.445`
 - [[has-the-hunt-for-ai-compute-uncovered-the-next-cerebras.md]] Has the hunt for AI compute uncovered the next Cerebras? `pillar:capabilities` `score:0.48`
 - [[hiyougallamafactory.md]] hiyouga/LlamaFactory `pillar:capabilities` `score:0.615`
 - [[how-a-new-dsl-may-survive-in-the-era-of-llms.md]] How a new DSL may survive in the era of LLMs `pillar:capabilities` `score:0.295`
@@ -340,6 +345,7 @@
 - [[prolog-basics-explained-with-pokémon.md]] Prolog Basics Explained with Pokémon `pillar:capabilities` `score:0.255`
 - [[pwc-report-ai-making-medical-bills-higher.md]] PwC Report: AI Making Medical Bills Higher `pillar:capabilities` `score:0.345`
 - [[qdrantqdrant.md]] qdrant/qdrant `pillar:capabilities` `score:0.615`
+- [[qwen-robot-suite-a-foundation-model-suite-for-physical-world-intelligence.md]] Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence `pillar:capabilities` `score:0.415`
 - [[racket-v92-is-now-available.md]] Racket v9.2 is now available `pillar:capabilities` `score:0.205`
 - [[real-time-llm-inference-on-standard-gpus-3k-tokenss-per-request.md]] Real-time LLM Inference on Standard GPUs: 3k tokens/s per request `pillar:capabilities` `score:0.565`
 - [[replies-to-comments-on-my-llms-are-eroding-my-career-post.md]] Replies to comments on my "LLMs are eroding my career" post `pillar:capabilities` `score:0.55`
@@ -1043,6 +1049,7 @@
 - [[show-hn-statewright-visual-state-machines-that.md]] Show HN: Statewright – Visual state machines that make AI agents reliable `pillar:patterns` `score:0.33`
 - [[show-hn-the-agent-that-builds-and-operates-its-own-saas-tools.md]] Show HN: The agent that builds and operates its own SaaS tools `pillar:patterns` `score:0.365`
 - [[show-hn-tired-of-duct-taping-access-control-into-agent-prompts-heres-the-fix.md]] Show HN: Tired of duct-taping access control into agent prompts. Here's the fix `pillar:patterns` `score:0.33`
+- [[show-hn-voicedraw-talk-system-design-out-loud-the-diagrams-draw-themselves.md]] Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves `pillar:patterns` `score:0.33`
 - [[show-hn-vt-code-open-source-terminal-coding-agent-in-rust.md]] Show HN: VT Code – open-source terminal coding agent in Rust `pillar:patterns` `score:0.26`
 - [[show-hn-zerofs-make-s3-your-primary-storage.md]] Show HN: ZeroFS – Make S3 your primary storage `pillar:patterns` `score:0.295`
 - [[show-hn-zot-yet-another-coding-agent-harness.md]] Show HN: Zot – Yet another coding agent harness `pillar:patterns` `score:0.36`
@@ -1273,6 +1280,7 @@
 - [[show-hn-sx-an-open-source-package-manager-for-ai-skills-mcps-and-commands.md]] Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands `pillar:ecosystem` `score:0.33`
 - [[show-hn-torrix-self-hosted-llm-observabilityn.md]] Show HN: Torrix, self hosted, LLM Observability,(no Postgres, no Redis) `pillar:ecosystem` `score:0.155`
 - [[silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-p.md]] Silicon Valley’s vacationland needs a new energy provider just as AI is driving `pillar:ecosystem` `score:0.445`
+- [[sixty-percent-of-us-consumers-say-8216ai8217-in-brand-messaging-is-a-turnoff-sur.md]] Sixty percent of US consumers say &#8216;AI&#8217; in brand messaging is a turno `pillar:ecosystem` `score:0.48`
 - [[snailclimbjavaguide.md]] Snailclimb/JavaGuide `pillar:ecosystem` `score:0.51`
 - [[sp-500-rejects-spacex-also-blocking-entry-for-openai-and-anthropic.md]] S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic `pillar:ecosystem` `score:0.46`
 - [[spring-projectsspring-ai.md]] spring-projects/spring-ai `pillar:ecosystem` `score:0.53`
@@ -1393,6 +1401,7 @@
 - [[can-the-stockmarket-swallow-anthropic-spacex-and-openai.md]] Can the stockmarket swallow Anthropic, SpaceX and OpenAI? `pillar:business` `score:0.58`
 - [[canvas-online-again-as-shinyhunters-threatens-to-l.md]] Canvas online again as ShinyHunters threatens to leak schools’ data `pillar:business` `score:0.505`
 - [[cerebras-raises-55b-then-stock-pops-108-in-the-first-huge-tech-ipo-of-2026.md]] Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026 `pillar:business` `score:0.445`
+- [[chatgpt8217s-market-share-slips-below-50-for-first-time.md]] ChatGPT&#8217;s market share slips below 50% for first time `pillar:business` `score:0.445`
 - [[chipotlai-max.md]] Chipotlai Max `pillar:business` `score:0.38`
 - [[cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-8216record-quarterly-rev.md]] Cisco cuts nearly 4,000 jobs to spend more on AI, reports &#8216;record quarterl `pillar:business` `score:0.445`
 - [[claude-code-cve-2026-39861sandbox-escape-via-syml.md]] Claude Code CVE-2026-39861:sandbox escape via symlink `pillar:business` `score:0.155`
@@ -1539,6 +1548,7 @@
 - [[spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever.md]] SpaceX officially prices shares at $135 in the largest IPO ever `pillar:business` `score:0.27`
 - [[spacex-passes-amazon-as-valuation-balloons-to-27t.md]] SpaceX passes Amazon as valuation balloons to $2.7T `pillar:business` `score:0.305`
 - [[spacex-spv-investors-won8217t-know-their-true-holdings-until-post-ipo-lock-ups-l.md]] SpaceX SPV investors won&#8217;t know their true holdings until post-IPO lock-up `pillar:business` `score:0.235`
+- [[spacex-valuation-balloons-to-26t-briefly-passes-amazon.md]] SpaceX valuation balloons to $2.6T, briefly passes Amazon `pillar:business` `score:0.27`
 - [[spain-blocks-prediction-markets-polymarket-kalshi-over-lack-of-gambling-licence.md]] Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence `pillar:business` `score:0.39`
 - [[spain-has-become-one-of-europes-cheapest-power-ma.md]] Spain has become one of Europe’s cheapest power markets `pillar:business` `score:0.355`
 - [[spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes.md]] Spotify and Universal Music strike deal allowing fan-made AI covers and remixes `pillar:business` `score:0.48`
