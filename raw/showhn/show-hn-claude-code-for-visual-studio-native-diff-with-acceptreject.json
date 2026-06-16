@@ -1,0 +1,24 @@
+{
+  "title": "Show HN: Claude Code for Visual Studio (native diff with accept/reject)",
+  "score": 14,
+  "comments": 3,
+  "url": "https://github.com/firish/claude_code_vs",
+  "hn_url": "https://news.ycombinator.com/item?id=48548381",
+  "tag": "ShowHN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Claude Code 推出 Visual Studio 原生扩展，核心亮点是内置 diff 视图并支持逐行接受/拒绝 AI 生成的代码修改。该功能让开发者像审查人工代码一样审查 AI 建议，显著降低误改风险，提升协作可控性。面向产品经理，这意味着 AI 编程助手从“黑盒生成”向“透明协作”演进，可降低团队采纳门槛，提高代码质量与开发效率。该创新符合“AI 辅助编程”趋势，尤其适配需要严格代码审核的企业场景。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI 代码生成",
+    "差异比较与交互审核"
+  ],
+  "entities": [
+    "Claude (Anthropic)",
+    "Visual Studio Code"
+  ],
+  "patterns": [
+    "AI 辅助编程模式",
+    "交互式代码审查模式"
+  ]
+}

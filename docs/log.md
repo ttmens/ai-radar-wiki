@@ -1882,3 +1882,14 @@
 - create: meta8217s-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms.md
 - create: spacex-is-public-everything-you-need-to-know-post-ipo.md
 - create: show-hn-vet-turned-founder-ai-lawn-diagnosis.md
+
+## [2026-06-16 12:02] sync v3 | 9 new | pillars: {'ecosystem': 1, 'capabilities': 8}
+- create: chopratejasheadroom.md
+- create: microsoft-turns-to-aws-as-github-faces-ai-capacity-crunch.md
+- create: why-i-email-complete-strangers.md
+- create: coheres-first-model-for-developers.md
+- create: claude-corps.md
+- create: an-oxcaml-book-that-runs.md
+- create: sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-google8217.md
+- create: the-us-government8217s-anthropic-models-ban-was-never-about-an-ai-jailbreak.md
+- create: show-hn-claude-code-for-visual-studio-native-diff-with-acceptreject.md

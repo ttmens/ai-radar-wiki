@@ -1,0 +1,35 @@
+---
+title: chopratejas/headroom
+created: 2026-06-16
+updated: 2026-06-16
+type: entity
+pillar: ecosystem
+pm_score: 0.615
+tags: ["project", "python"]
+sources: ["raw/github/chopratejasheadroom.json"]
+---
+
+# chopratejas/headroom
+
+## 概览
+Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+
+## 中文摘要
+Headroom 是一个用于压缩工具输出、日志、文件和 RAG 块的开源工具，在数据到达大语言模型（LLM）之前进行高效压缩，可减少 60-95% 的 token 消耗，同时保持回答质量不变。它提供库、代理和 MCP 服务器三种集成方式，适配不同开发场景。对产品经理而言，该工具能大幅降低 LLM 调用成本（最高节省 95%），提升系统吞吐量，尤其适合处理长上下文或高频 RAG 场景。其轻量级、无侵入的设计可快速嵌入现有 AI 产品，属于生态层的实用优化组件。
+
+## PM 关注指标
+- ⭐ Stars: 28996
+- 🎯 PM Score: 0.615
+- 🏷️ Pillar: ecosystem
+- 🔑 Keywords: api, langchain, library, mcp
+
+## 基本信息
+- 🌐 语言: Python
+- 🔗 链接: https://github.com/chopratejas/headroom
+- 🏷️ Topics: agent, ai, anthropic, claude-code, compression, context-engineering, context-window, cursor, fastapi, langchain
+
+## 数据
+> 原始数据: [chopratejasheadroom.json](../raw/github/chopratejasheadroom.json)
+
+## 关系
+- 相关概念: TBD
