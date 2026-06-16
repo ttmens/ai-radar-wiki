@@ -1,0 +1,157 @@
+{
+  "daily_summary": {
+    "date": "2026-06-17",
+    "headline": "今日 AI 情报 · 2026-06-17",
+    "overview": "AI产品化进入可信部署深水区：安全可靠性成关键瓶颈，本地化与订阅模式验证商业可行性",
+    "narratives": [
+      {
+        "title": "AI系统可靠性成为产品化关键瓶颈",
+        "body": "从Fable仅通过'修复代码'提示即触发风险，到Probably融资解决幻觉问题，AI的不可预测性正阻碍高价值场景落地。产品经理需将形式化验证、行为边界控制等机制融入产品设计，超越传统越狱思维，同时关注本地模型成熟带来的隐私与离线优势。",
+        "type": "bottleneck",
+        "pillar_key": "capabilities"
+      },
+      {
+        "title": "AI商业落地验证：垂直场景的订阅制与本地化并行",
+        "body": "Plaud的1亿美元ARR证明AI会议记录硬件+订阅模式可行，本地模型成熟降低了部署门槛。同时Robinhood的务实裁员声明提醒避免AI泡沫。AI产品经理应聚焦明确业务价值，选择本地或云端方案时权衡成本、隐私与合规。",
+        "type": "validation",
+        "pillar_key": "business"
+      },
+      {
+        "title": "AI训练基础设施的能源与政策博弈",
+        "body": "xAI燃气轮机事件凸显AI大规模训练对能源的依赖与合规冲突，政府出于国家安全允许临时运行。产品经理需警惕下游算力供应风险，并关注绿色计算与分布式部署的替代方案。",
+        "type": "maturation",
+        "pillar_key": "ecosystem"
+      }
+    ],
+    "insights": [
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI系统可靠性成为产品化关键瓶颈",
+        "insight": "AI系统可靠性成为产品化关键瓶颈。该方向的具体信号：Fable禁令背后并非简单越狱，而是触及AI能力边界、安全策略与平台生态的深层矛盾，提示产品设计需建立对能力边界的清晰认知，避免单一安全机制误判。",
+        "evidence": [
+          {
+            "id": "fable-ban-was-never-about-a-jailbreak",
+            "title": "Fable ban was never about a jailbreak",
+            "score": 0.33
+          }
+        ]
+      },
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI系统可靠性成为产品化关键瓶颈",
+        "insight": "AI系统可靠性成为产品化关键瓶颈。该方向的具体信号：Fable仅通过'修复代码'提示即触发风险，Probably获900万美元融资用形式化验证解决幻觉，本地模型成熟降低部署门槛，Hackers for Granny用AI防御老年人欺诈，SpaceX以600亿美元收购Cursor强化AI能力。",
+        "evidence": [
+          {
+            "id": "feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak",
+            "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt",
+            "score": 0.67
+          },
+          {
+            "id": "probably-raises-9m-to-build-a-more-reliable-kind-of-ai",
+            "title": "Probably raises $9M to build a more reliable kind of AI",
+            "score": 0.48
+          },
+          {
+            "id": "show-hn-hackers-for-granny-defense-against-industrialized-elder-fraud",
+            "title": "Show HN: Hackers for Granny defense against elder fraud",
+            "score": 0.33
+          },
+          {
+            "id": "spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo",
+            "title": "SpaceX to acquire Cursor for $60B",
+            "score": 0.3
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI商业落地验证：垂直场景的订阅制与本地化并行",
+        "insight": "AI商业落地验证：垂直场景的订阅制与本地化并行。该方向的具体信号：Plaud硬件+订阅ARR破1亿美元，验证AI会议纪要刚需变现；Robinhood裁员不归因于AI，警示避免概念炒作；SpaceX估值2.7万亿美元超越亚马逊，其星链数据驱动AI应用。",
+        "evidence": [
+          {
+            "id": "plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-no",
+            "title": "Plaud software business topped $100M ARR",
+            "score": 0.48
+          },
+          {
+            "id": "robinhood8217s-note-on-10-layoffs-shows-blaming-ai-isn8217t-cutting-it",
+            "title": "Robinhood layoffs shows blaming AI isn't cutting it",
+            "score": 0.45
+          },
+          {
+            "id": "spacex-passes-amazon-as-valuation-balloons-to-27t",
+            "title": "SpaceX passes Amazon as valuation balloons to $2.7T",
+            "score": 0.3
+          }
+        ]
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "AI训练基础设施的能源与政策博弈",
+        "insight": "AI训练基础设施的能源与政策博弈。该方向的具体信号：xAI未许可燃气轮机被DOJ认定为国家安全与能源安全关键，被迫允许继续运行；反映AI计算集群电力供给的合规瓶颈，产品经理需关注能源政策对算力稳定性及产品交付节奏的影响。",
+        "evidence": [
+          {
+            "id": "doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-e",
+            "title": "DOJ claims xAI's unpermitted gas turbines are matter of national security",
+            "score": 0.45
+          }
+        ]
+      }
+    ],
+    "stats": "技术能力: 7 | 产品模式: 0 | 工具生态: 1 | 商业趋势: 3",
+    "total_items": 11,
+    "high_value_count": 11,
+    "all_today_ids": [
+      {
+        "id": "feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak",
+        "label": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak"
+      },
+      {
+        "id": "i-admire-fabrice-bellard-he-is-almost-certainly-a-better-overall-programmer",
+        "label": "I admire Fabrice Bellard. He is almost certainly a better overall programmer"
+      },
+      {
+        "id": "running-local-models-is-good-now",
+        "label": "Running local models is good now"
+      },
+      {
+        "id": "probably-raises-9m-to-build-a-more-reliable-kind-of-ai",
+        "label": "Probably raises $9M to build a more reliable kind of AI"
+      },
+      {
+        "id": "plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-no",
+        "label": "Plaud says its software business topped $100M in ARR after shipping over 2M AI n"
+      },
+      {
+        "id": "robinhood8217s-note-on-10-layoffs-shows-blaming-ai-isn8217t-cutting-it",
+        "label": "Robinhood&#8217;s note on 10% layoffs shows blaming AI isn&#8217;t cutting it"
+      },
+      {
+        "id": "doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-e",
+        "label": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, a"
+      },
+      {
+        "id": "show-hn-hackers-for-granny-defense-against-industrialized-elder-fraud",
+        "label": "Show HN: Hackers for Granny (defense against industrialized elder fraud)"
+      },
+      {
+        "id": "fable-ban-was-never-about-a-jailbreak",
+        "label": "Fable ban was never about a jailbreak"
+      },
+      {
+        "id": "spacex-passes-amazon-as-valuation-balloons-to-27t",
+        "label": "SpaceX passes Amazon as valuation balloons to $2.7T"
+      },
+      {
+        "id": "spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo",
+        "label": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO"
+      }
+    ],
+    "date_bj": "2026-06-17 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-06-17 00:02:00"
+  }
+}

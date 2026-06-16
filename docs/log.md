@@ -1910,3 +1910,16 @@
 - create: the-90-year-old-idea-behind-jepa-models-canonical-correlation-analysis.md
 - create: openai-losses-increased-nearly-8x-in-2025-with-spending-hitting-34b.md
 - create: malaysia8217s-ai-agent-powered-messaging-app-respondio-raises-625m-eyes-acquisit.md
+
+## [2026-06-17 00:02] sync v3 | 12 new | pillars: {'capabilities': 9, 'patterns': 1, 'business': 2}
+- create: running-local-models-is-good-now.md
+- create: fable-ban-was-never-about-a-jailbreak.md
+- create: i-admire-fabrice-bellard-he-is-almost-certainly-a-better-overall-programmer.md
+- create: show-hn-hackers-for-granny-defense-against-industrialized-elder-fraud.md
+- create: feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak.md
+- create: doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-e.md
+- create: plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-no.md
+- create: robinhood8217s-note-on-10-layoffs-shows-blaming-ai-isn8217t-cutting-it.md
+- create: spacex-passes-amazon-as-valuation-balloons-to-27t.md
+- create: probably-raises-9m-to-build-a-more-reliable-kind-of-ai.md
+- create: spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo.md

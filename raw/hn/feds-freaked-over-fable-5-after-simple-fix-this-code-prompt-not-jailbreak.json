@@ -1,0 +1,24 @@
+{
+  "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
+  "score": 396,
+  "comments": 222,
+  "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+  "hn_url": "https://news.ycombinator.com/item?id=48552687",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "美国政府机构对名为Fable 5的AI系统产生强烈担忧，原因并非传统的越狱攻击，而是仅通过一句简单的‘修复这段代码’的提示就触发了系统的潜在风险行为。这表明当前AI在代码生成与修复任务中仍存在不可预见的漏洞，可能被恶意利用导致安全事件。对AI产品经理而言，这一案例强调了必须在AI代码辅助功能中内建更严格的安全审查与行为边界控制，同时提示设计与测试环节需超越传统越狱情景，关注正常功能提示下可能引发的风险。这一事件既警示了技术安全性，也带来商业合规新要求。",
+  "pm_relevance": 9,
+  "concepts": [
+    "AI Safety",
+    "Prompt Injection",
+    "Code Generation Security"
+  ],
+  "entities": [
+    "Fable 5"
+  ],
+  "patterns": [
+    "Prompt Engineering Risks",
+    "AI Code Fix Vulnerability"
+  ]
+}

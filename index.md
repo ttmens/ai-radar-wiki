@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-16 | Total pages: 1625
+> Last updated: 2026-06-17 | Total pages: 1636
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -151,7 +151,9 @@
 - [[everyone-against-us-2023.md]] Everyone Against Us (2023) `pillar:capabilities` `score:0.225`
 - [[expertise-in-the-age-of-ai.md]] Expertise in the Age of AI `pillar:capabilities` `score:0.38`
 - [[explosionspacy.md]] explosion/spaCy `pillar:capabilities` `score:0.58`
+- [[fable-ban-was-never-about-a-jailbreak.md]] Fable ban was never about a jailbreak `pillar:capabilities` `score:0.33`
 - [[failing-grades-soar-with-ai-usage-dwindling-math-skills-in-berkeley-cs-classes.md]] Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes `pillar:capabilities` `score:0.395`
+- [[feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak.md]] Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak `pillar:capabilities` `score:0.665`
 - [[fender-escalates-legal-campaign-against-s-style-guitars.md]] Fender escalates legal campaign against S-style guitars `pillar:capabilities` `score:0.235`
 - [[fine-tuning-an-llm-to-write-docs-like-its-1995.md]] Fine-tuning an LLM to write docs like it's 1995 `pillar:capabilities` `score:0.36`
 - [[five-frontier-llms-disagree-on-67-of-1k-real-world-fact-check-claims.md]] Five frontier LLMs disagree on 67% of 1k real-world fact-check claims `pillar:capabilities` `score:0.63`
@@ -210,6 +212,7 @@
 - [[huggingfacetransformers.md]] huggingface/transformers `pillar:capabilities` `score:0.405`
 - [[human-like-neural-nets-by-catapulting.md]] Human-Like Neural Nets by Catapulting `pillar:capabilities` `score:0.295`
 - [[humansignallabel-studio.md]] HumanSignal/label-studio `pillar:capabilities` `score:0.615`
+- [[i-admire-fabrice-bellard-he-is-almost-certainly-a-better-overall-programmer.md]] I admire Fabrice Bellard. He is almost certainly a better overall programmer `pillar:capabilities` `score:0.54`
 - [[i-built-a-vulnerable-app-and-spent-1500-seeing-if-llms-could-hack-it.md]] I built a vulnerable app and spent $1,500 seeing if LLMs could hack it `pillar:capabilities` `score:0.43`
 - [[i-design-with-claude-more-than-figma-now.md]] I design with Claude more than Figma now `pillar:capabilities` `score:0.585`
 - [[i-dont-think-ai-will-make-your-processes-go-faster.md]] I don't think AI will make your processes go faster `pillar:capabilities` `score:0.6`
@@ -331,6 +334,7 @@
 - [[policy-on-the-ai-exponential.md]] Policy on the AI Exponential `pillar:capabilities` `score:0.55`
 - [[pool8217s-new-app-turns-your-screenshots-into-something-useful.md]] Pool&#8217;s new app turns your screenshots into something useful `pillar:capabilities` `score:0.445`
 - [[populora-co-evolving-llm-populations-for-reasoning-self-play.md]] PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play `pillar:capabilities` `score:0.33`
+- [[probably-raises-9m-to-build-a-more-reliable-kind-of-ai.md]] Probably raises $9M to build a more reliable kind of AI `pillar:capabilities` `score:0.48`
 - [[programmers-will-document-for-claude-but-not-for-each-other.md]] Programmers will document for Claude, but not for each other `pillar:capabilities` `score:0.585`
 - [[project-hail-mary-stellar-navigation-chart.md]] Project Hail Mary – Stellar Navigation Chart `pillar:capabilities` `score:0.545`
 - [[prolog-basics-explained-with-pokémon.md]] Prolog Basics Explained with Pokémon `pillar:capabilities` `score:0.255`
@@ -350,6 +354,7 @@
 - [[rtk-airtk.md]] rtk-ai/rtk `pillar:capabilities` `score:0.58`
 - [[rtx-5090-and-m4-macbook-air-can-it-game.md]] RTX 5090 and M4 MacBook Air: Can It Game? `pillar:capabilities` `score:0.565`
 - [[rubin-tracks-skyscraper-size-asteroids-and-failed-supernovas.md]] Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas `pillar:capabilities` `score:0.31`
+- [[running-local-models-is-good-now.md]] Running local models is good now `pillar:capabilities` `score:0.53`
 - [[runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai.md]] Runway started by helping filmmakers. Now it wants to beat Google at AI. `pillar:capabilities` `score:0.515`
 - [[rust-and-slint-on-a-jailbroken-kindle.md]] Rust (and Slint) on a Jailbroken Kindle `pillar:capabilities` `score:0.26`
 - [[safari-and-firefox-change-how-big-sites-render-based-on-the-domain.md]] Safari and Firefox change how big sites render based on the domain `pillar:capabilities` `score:0.295`
@@ -379,6 +384,7 @@
 - [[show-hn-find-the-best-local-llm-for-your-hardware-ranked-by-benchmarks.md]] Show HN: Find the best local LLM for your hardware, ranked by benchmarks `pillar:capabilities` `score:0.33`
 - [[show-hn-formally-verified-polygon-intersection-opus-48-oneshots-prev-failed.md]] Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed `pillar:capabilities` `score:0.26`
 - [[show-hn-glycemicgpt-open-source-ai-powered-diabetes-management.md]] Show HN: GlycemicGPT – Open-source AI-powered diabetes management `pillar:capabilities` `score:0.33`
+- [[show-hn-hackers-for-granny-defense-against-industrialized-elder-fraud.md]] Show HN: Hackers for Granny (defense against industrialized elder fraud) `pillar:capabilities` `score:0.33`
 - [[show-hn-helios-what-plug-in-solar-could-generate-for-any-address-in-britain.md]] Show HN: Helios – what plug-in solar could generate for any address in Britain `pillar:capabilities` `score:0.345`
 - [[show-hn-i-built-a-tool-to-auto-accept-ai-slop-and-bigtech-devs-loves-it.md]] Show HN: I built a tool to auto-accept AI slop and bigtech devs loves it `pillar:capabilities` `score:0.295`
 - [[show-hn-i-made-a-claude-skill-for-spec-driven-development-sdd.md]] Show HN: I Made a Claude Skill for Spec-Driven Development (SDD) `pillar:capabilities` `score:0.295`
@@ -416,6 +422,7 @@
 - [[so-you8217ve-heard-these-ai-terms-and-nodded-along-let8217s-fix-that.md]] So you&#8217;ve heard these AI terms and nodded along; let&#8217;s fix that `pillar:capabilities` `score:0.445`
 - [[softbank-says-it-will-invest-up-to-75-billion-to-build-french-data-centers.md]] SoftBank says it will invest up to €75 billion to build French data centers `pillar:capabilities` `score:0.48`
 - [[south-korean-forums-will-need-to-scan-every-images-with-ai-censorship-tools.md]] South Korean Forums Will Need to Scan Every Images with AI Censorship Tools `pillar:capabilities` `score:0.345`
+- [[spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo.md]] SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO `pillar:capabilities` `score:0.305`
 - [[spmallicklearnopencv.md]] spmallick/learnopencv `pillar:capabilities` `score:0.58`
 - [[spotify-adds-ai-powered-q038a-and-briefing-generation-features-to-podcasts.md]] Spotify adds AI-powered Q&#038;A and briefing generation features to podcasts `pillar:capabilities` `score:0.48`
 - [[spotify-launches-an-elevenlabs-powered-audiobook-creation-tool.md]] Spotify launches an ElevenLabs-powered audiobook creation tool `pillar:capabilities` `score:0.48`
@@ -1159,6 +1166,7 @@
 - [[decart8217s-new-world-model-can-simulate-hours-of-photorealistic-driving-with-so.md]] Decart&#8217;s new world model can simulate hours of photorealistic driving — wi `pillar:ecosystem` `score:0.515`
 - [[defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-j.md]] Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on `pillar:ecosystem` `score:0.445`
 - [[dmlcxgboost.md]] dmlc/xgboost `pillar:ecosystem` `score:0.615`
+- [[doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-e.md]] DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, a `pillar:ecosystem` `score:0.445`
 - [[erin-brockovich-takes-aim-at-data-center-secrecy.md]] Erin Brockovich takes aim at data center secrecy `pillar:ecosystem` `score:0.375`
 - [[ethicalmlawesome-production-machine-learning.md]] EthicalML/awesome-production-machine-learning `pillar:ecosystem` `score:0.58`
 - [[eu-commission-looking-at-practical-consequences-of-anthropic-decision.md]] EU Commission looking at practical consequences of Anthropic decision `pillar:ecosystem` `score:0.33`
@@ -1497,6 +1505,7 @@
 - [[palantir-loses-legal-challenge-against-swiss-investigative-magazine.md]] Palantir loses legal challenge against Swiss investigative magazine `pillar:business` `score:0.345`
 - [[payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headc.md]] Payroll startup Remote says it grew revenue 50% per employee without adding head `pillar:business` `score:0.48`
 - [[photoprismphotoprism.md]] photoprism/photoprism `pillar:business` `score:0.405`
+- [[plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-no.md]] Plaud says its software business topped $100M in ARR after shipping over 2M AI n `pillar:business` `score:0.48`
 - [[podman-rootless-containers-and-the-copy-fail-explo.md]] Podman rootless containers and the Copy Fail exploit `pillar:business` `score:0.155`
 - [[programbench-can-language-models-rebuild-programs.md]] ProgramBench: Can Language Models Rebuild Programs from Scratch? `pillar:business` `score:0.205`
 - [[ps3-emulator-devs-politely-ask-that-people-stop-fl.md]] PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs `pillar:business` `score:0.355`
@@ -1507,6 +1516,7 @@
 - [[reimagining-the-mouse-pointer-for-the-ai-era.md]] Reimagining the mouse pointer for the AI era `pillar:business` `score:0.305`
 - [[report-google-and-spacex-in-talks-to-put-data-cen.md]] Report: Google and SpaceX in talks to put data centers into orbit `pillar:business` `score:0.305`
 - [[riding-an-ai-rally-robinhood-preps-second-retail.md]] Riding an AI rally, Robinhood preps second retail venture IPO `pillar:business` `score:0.305`
+- [[robinhood8217s-note-on-10-layoffs-shows-blaming-ai-isn8217t-cutting-it.md]] Robinhood&#8217;s note on 10% layoffs shows blaming AI isn&#8217;t cutting it `pillar:business` `score:0.445`
 - [[sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo.md]] Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO `pillar:business` `score:0.495`
 - [[sam-bankman-fried-loses-bid-to-appeal-against-fraud-conviction-in-ftx-case.md]] Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case `pillar:business` `score:0.22`
 - [[samsung-chip-workers-will-get-an-average-340k-bonus-as-ai-profits-soar.md]] Samsung chip workers will get an average $340k bonus as AI profits soar `pillar:business` `score:0.395`
@@ -1527,6 +1537,7 @@
 - [[spacex-is-public-everything-you-need-to-know-post-ipo.md]] SpaceX is public: Everything you need to know post-IPO `pillar:business` `score:0.27`
 - [[spacex-may-spend-up-to-119b-on-8216terafab82.md]] SpaceX may spend up to $119B on &#8216;Terafab&#8217; chip factory in Texas `pillar:business` `score:0.1`
 - [[spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever.md]] SpaceX officially prices shares at $135 in the largest IPO ever `pillar:business` `score:0.27`
+- [[spacex-passes-amazon-as-valuation-balloons-to-27t.md]] SpaceX passes Amazon as valuation balloons to $2.7T `pillar:business` `score:0.305`
 - [[spacex-spv-investors-won8217t-know-their-true-holdings-until-post-ipo-lock-ups-l.md]] SpaceX SPV investors won&#8217;t know their true holdings until post-IPO lock-up `pillar:business` `score:0.235`
 - [[spain-blocks-prediction-markets-polymarket-kalshi-over-lack-of-gambling-licence.md]] Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence `pillar:business` `score:0.39`
 - [[spain-has-become-one-of-europes-cheapest-power-ma.md]] Spain has become one of Europe’s cheapest power markets `pillar:business` `score:0.355`
