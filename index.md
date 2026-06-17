@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-17 | Total pages: 1646
+> Last updated: 2026-06-17 | Total pages: 1651
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -217,6 +217,7 @@
 - [[huggingfacetransformers.md]] huggingface/transformers `pillar:capabilities` `score:0.405`
 - [[human-like-neural-nets-by-catapulting.md]] Human-Like Neural Nets by Catapulting `pillar:capabilities` `score:0.295`
 - [[humansignallabel-studio.md]] HumanSignal/label-studio `pillar:capabilities` `score:0.615`
+- [[humiliating-iis-servers-for-fun-and-jail-time.md]] Humiliating IIS servers for fun and jail time `pillar:capabilities` `score:0.41`
 - [[i-admire-fabrice-bellard-he-is-almost-certainly-a-better-overall-programmer.md]] I admire Fabrice Bellard. He is almost certainly a better overall programmer `pillar:capabilities` `score:0.54`
 - [[i-built-a-vulnerable-app-and-spent-1500-seeing-if-llms-could-hack-it.md]] I built a vulnerable app and spent $1,500 seeing if LLMs could hack it `pillar:capabilities` `score:0.43`
 - [[i-design-with-claude-more-than-figma-now.md]] I design with Claude more than Figma now `pillar:capabilities` `score:0.585`
@@ -456,6 +457,7 @@
 - [[the-intracies-of-modern-camera-lens-repair-2024.md]] The intracies of modern camera lens repair (2024) `pillar:capabilities` `score:0.22`
 - [[the-kaiser-and-a-mediocre-man-theory-of-history.md]] The Kaiser and a "Mediocre Man" Theory of History `pillar:capabilities` `score:0.41`
 - [[the-last-six-months-in-llms-in-five-minutes.md]] The last six months in LLMs in five minutes `pillar:capabilities` `score:0.415`
+- [[the-magic-roundabout-of-seattle-area.md]] The Magic Roundabout of Seattle Area `pillar:capabilities` `score:0.31`
 - [[the-main-thing-about-p2p-meth-is-that-theres-so-much-of-it-2021.md]] The main thing about P2P meth is that there's so much of it (2021) `pillar:capabilities` `score:0.305`
 - [[the-milkv-jupiter-2spacemit-k3-risc-v-vector-compute.md]] The MilkV Jupiter 2/SpacemiT K3 (RISC-V vector compute) `pillar:capabilities` `score:0.295`
 - [[the-mysterious-hy3-llm-is-topping-openrouter-model-rankings-by-a-large-margin.md]] The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin `pillar:capabilities` `score:0.48`
@@ -1082,6 +1084,7 @@
 - [[what-happens-when-companies-become-too-ai-pilled.md]] What happens when companies become too AI-pilled? `pillar:patterns` `score:0.48`
 - [[what-if-remote-working-not-ai-is-to-blame-for-weak-junior-hiring.md]] What if remote working, not AI, is to blame for weak junior hiring? `pillar:patterns` `score:0.48`
 - [[with-gemini-35-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots.md]] With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots `pillar:patterns` `score:0.515`
+- [[wolfram-language-and-mathematica-version-15-ai-assistant-symbolic-music-more.md]] Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More `pillar:patterns` `score:0.445`
 - [[wwdc-2026-everything-announced-on-siri-ai-ios-27-apple-intelligence-and-more.md]] WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more `pillar:patterns` `score:0.305`
 - [[x1xhlolsystem-prompts-and-models-of-ai-tools.md]] x1xhlol/system-prompts-and-models-of-ai-tools `pillar:patterns` `score:0.615`
 - [[yamadashyrepomix.md]] yamadashy/repomix `pillar:patterns` `score:0.58`
@@ -1290,6 +1293,7 @@
 - [[startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-ap.md]] Startup Battlefield 200 applications close in one week: Window to nominate and a `pillar:ecosystem` `score:0.375`
 - [[startup-battlefield-200-applications-officially-close-in-3-days.md]] Startup Battlefield 200 applications officially close in 3 days `pillar:ecosystem` `score:0.235`
 - [[steven2358awesome-generative-ai.md]] steven2358/awesome-generative-ai `pillar:ecosystem` `score:0.58`
+- [[stop-killing-games-fails-to-secure-eu-law-despite-13m-signatures.md]] Stop Killing Games fails to secure EU law despite 1.3M signatures `pillar:ecosystem` `score:0.225`
 - [[sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-google8217.md]] Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google&#8 `pillar:ecosystem` `score:0.445`
 - [[tensorflowtensorflow.md]] tensorflow/tensorflow `pillar:ecosystem` `score:0.615`
 - [[tensorzerotensorzero.md]] tensorzero/tensorzero `pillar:ecosystem` `score:0.615`
@@ -1389,6 +1393,7 @@
 - [[anthropic-warns-investors-against-secondary-platfo.md]] Anthropic warns investors against secondary platforms offering access to its sha `pillar:business` `score:0.305`
 - [[anthropic-will-pay-xai-125-billion-per-month-for-compute.md]] Anthropic will pay xAI $1.25 billion per month for compute `pillar:business` `score:0.515`
 - [[anthropic8217s-cat-wu-says-that-in-the-future.md]] Anthropic&#8217;s Cat Wu says that, in the future, AI will anticipate your needs `pillar:business` `score:0.305`
+- [[anthropic8217s-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data.md]] Anthropic&#8217;s latest feud with the Trump admin may actually help it, sales d `pillar:business` `score:0.445`
 - [[anthropics-profitability-swindle.md]] Anthropic's "Profitability" Swindle `pillar:business` `score:0.38`
 - [[apple-to-pay-250m-to-settle-lawsuit-over-siri82.md]] Apple to pay $250M to settle lawsuit over Siri&#8217;s delayed AI features `pillar:business` `score:0.15`
 - [[as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride.md]] As AI companies race to go public, who else is along for the ride? `pillar:business` `score:0.445`

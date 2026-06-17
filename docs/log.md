@@ -1935,3 +1935,10 @@
 - create: sixty-percent-of-us-consumers-say-8216ai8217-in-brand-messaging-is-a-turnoff-sur.md
 - create: chatgpt8217s-market-share-slips-below-50-for-first-time.md
 - create: show-hn-voicedraw-talk-system-design-out-loud-the-diagrams-draw-themselves.md
+
+## [2026-06-17 12:03] sync v3 | 5 new | pillars: {'capabilities': 4, 'patterns': 1}
+- create: humiliating-iis-servers-for-fun-and-jail-time.md
+- create: wolfram-language-and-mathematica-version-15-ai-assistant-symbolic-music-more.md
+- create: the-magic-roundabout-of-seattle-area.md
+- create: stop-killing-games-fails-to-secure-eu-law-despite-13m-signatures.md
+- create: anthropic8217s-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data.md

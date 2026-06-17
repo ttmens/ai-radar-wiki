@@ -1,7 +1,7 @@
 {
   "date": "2026-06-17",
-  "generated_at": "2026-06-17T06:04:46.029086+08:00",
-  "item_count": 20,
+  "generated_at": "2026-06-17T12:03:09.801489+08:00",
+  "item_count": 24,
   "items": [
     {
       "id": "feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak",
@@ -114,6 +114,17 @@
       "date": "2026-06-17"
     },
     {
+      "id": "anthropic8217s-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data",
+      "label": "Anthropic&#8217;s latest feud with the Trump admin may actually help it, sales d",
+      "summary": "根据Ramp的销售数据，Anthropic与特朗普政府的公开冲突反而可能促进其企业业务增长。尽管面临政治压力，Anthropic在商业用户中的受欢迎程度持续攀升，数据表明这种对抗性关系可能强化了其品牌形象和技术独立性。对于AI产品经理而言，这揭示了政治因素如何影响B2B AI产品的市场接受度：政府争议有时能转化为品牌信任和差异化优势。同时，Anthropic的案例也表明，在企业级AI市场中，坚持价值观（如安全与伦理）可能成为竞争壁垒。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "date": "2026-06-17"
+    },
+    {
       "id": "chatgpt8217s-market-share-slips-below-50-for-first-time",
       "label": "ChatGPT&#8217;s market share slips below 50% for first time",
       "summary": "ChatGPT市场份额首次跌至50%以下，但仍以11亿月活跃用户领跑全球AI助手市场，Google Gemini和Anthropic Claude分别以6.62亿和2.45亿月活跃用户紧随其后。这一变化标志着AI助手领域竞争加剧，头部产品用户增长放缓，而差异化产品（如多模态、垂直场景）正在蚕食份额。对产品经理而言，需关注用户需求分层和生态壁垒构建，避免同质化竞争。",
@@ -136,6 +147,17 @@
       "date": "2026-06-17"
     },
     {
+      "id": "wolfram-language-and-mathematica-version-15-ai-assistant-symbolic-music-more",
+      "label": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "summary": "Wolfram 发布 Mathematica 15 和 Wolfram Language 新版本，集成 AI Assistant 实现自然语言代码生成与调试，新增符号音乐处理能力允许对乐谱进行代数运算。该版本强化了符号计算与 AI 的融合，为产品经理展示了将大模型深度嵌入专业工具（如数学、音乐创作）的可行路径，降低专业软件使用门槛，并开创了符号化多模态交互的新范式，具有显著的平台生态价值。",
+      "pm_score": 0.445,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48563609",
+      "date": "2026-06-17"
+    },
+    {
       "id": "doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-e",
       "label": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, a",
       "summary": "美国司法部声称，xAI未获许可的燃气轮机对国家安全、经济和能源安全至关重要，因此五角大楼需要xAI继续运行这些燃气轮机。这反映了AI大规模训练基础设施面临的能源合规挑战——xAI将燃气轮机用于其AI计算集群的电力供应，以支持模型训练。尽管未经环保许可，但出于战略安全考虑，政府允许其临时运行。对AI产品经理而言，这凸显了AI部署中能源基础设施的瓶颈，以及政策与合规风险如何影响算力稳定性，进而影响产品交付时间表和成本。商业价值在于确保AI训练连续性，但也提示需要提前规划绿色能源或合规方案。",
@@ -155,6 +177,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48554814",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "humiliating-iis-servers-for-fun-and-jail-time",
+      "label": "Humiliating IIS servers for fun and jail time",
+      "summary": "该HN帖子讨论了针对IIS服务器的攻击行为，标题暗示了娱乐与法律风险。虽然未明确提及AI，但可能涉及自动化漏洞利用或安全测试工具。技术要点在于I服务器暴露的潜在攻击面，商业价值在于提醒AI产品经理关注自身基础设施的安全防护与红队测试。产品创新方面，可考虑将AI用于智能安全审计或自动漏洞发现，降低人工成本并提升防御效率。当前网络攻击日益复杂，AI驱动的安全能力将成为产品护城河。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48563394",
       "date": "2026-06-17"
     },
     {
@@ -202,6 +235,17 @@
       "date": "2026-06-17"
     },
     {
+      "id": "the-magic-roundabout-of-seattle-area",
+      "label": "The Magic Roundabout of Seattle Area",
+      "summary": "本文标题暗示西雅图地区存在一个类似“魔法旋转木马”的AI产品或概念，可能涉及AI记忆或上下文管理创新。由于摘要缺失，无法详细总结，但推测内容聚焦于AI能力中长时上下文处理或记忆机制，对AI产品经理而言，这可能代表一种新的产品交互模式或技术架构，具有潜在的商业价值。建议关注其在记忆持久化、上下文无感切回及用户粘性提升方面的应用。",
+      "pm_score": 0.31,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48533098",
+      "date": "2026-06-17"
+    },
+    {
       "id": "spacex-passes-amazon-as-valuation-balloons-to-27t",
       "label": "SpaceX passes Amazon as valuation balloons to $2.7T",
       "summary": "SpaceX估值飙升至2.7万亿美元，超越亚马逊，主要源于其股票于上周五开始交易，估值单日增加1万亿美元。作为商业航天领域的巨头，SpaceX虽不直接聚焦AI，但其星链卫星网络和火箭复用技术背后依赖大量数据算法与自动化系统。对AI产品经理而言，可关注其大规模星座网络如何产生海量空间数据，驱动AI在轨道预测、通信优化等场景的应用，以及商业模式的网络效应。",
@@ -225,7 +269,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1627,
-    "edges": 160119
+    "real_nodes": 1632,
+    "edges": 161752
   }
 }
