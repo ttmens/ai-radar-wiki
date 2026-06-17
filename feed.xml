@@ -5,13 +5,125 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 17 Jun 2026 12:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 16:03:00 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>GLM-5.2 is the new leading open weights model on Artificial Analysis</title>
+      <link>https://news.ycombinator.com/item?id=48567759</link>
+      <guid isPermaLink="false">glm-52-is-the-new-leading-open-weights-model-on-artificial-analysis</guid>
+      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> hn</p><hr/><p>GLM-5.2是智谱AI最新发布的开源权重模型，在Artificial Analysis评测中成为领先的开源模型。其技术要点在于通过改进的Transformer架构和更优的训练策略，在多项自然语言任务上超越了此前开源模型。商业价值上，开源权重策略使企业能够低成本部署、定制化微调，降低对闭源API的依赖，推动AI民主化。产品创新方面，GLM-5.2在保持高竞争力的同时，提供了详细的模型卡和训练配方，便于开发者复现和二次开发。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Sixty percent of US consumers say 'AI' in brand messaging is a turnoff</title>
+      <link>https://news.ycombinator.com/item?id=48569278</link>
+      <guid isPermaLink="false">sixty-percent-of-us-consumers-say-ai-in-brand-messaging-is-a-turnoff</guid>
+      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> hn</p><hr/><p>一项调查显示，60%的美国消费者表示在品牌信息中提及“AI”会让他们感到反感，这意味着直接使用“人工智能”一词可能产生负面效果。对AI产品经理而言，这一发现强调了在用户沟通中需要谨慎选择术语，避免技术导向的表述，转而使用更贴近用户实际体验和价值点的语言。例如，强调“智能化推荐”或“自动帮你节省时间”而非直接提及AI。这背后反映了消费者对AI的认知偏差和信任问题，产品经理应在品牌策略中融入用户中心思维，通过具体场景和结果传递AI价值，从而降低抵触情绪、提升接受度。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Collecting robot training data is dirty, unglamorous work. Some AI labs are alre</title>
+      <link>https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/</link>
+      <guid isPermaLink="false">collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-alread</guid>
+      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>本文指出，要使物理AI（如机器人）达到LLM的水平，面临训练数据获取的极度困难。传统方法需要海量、高质量的真实操作数据，但收集过程耗时耗力且环境复杂。部分AI实验室已开始采用XDOF付费模式（可能指外包或众包），雇佣人员执行数据采集任务。这揭示了机器人与AI产品开发中的关键瓶颈：数据工程成本高昂、规模化难。产品经理需关注数据收集的商业模式创新（如数据众包、远程操作采集）以及合成数据与仿真环境的应用，以降低训练成本并加速物理AI落地。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: High-Res Neural Cellular Automata</title>
+      <link>https://news.ycombinator.com/item?id=48567877</link>
+      <guid isPermaLink="false">show-hn-high-res-neural-cellular-automata</guid>
+      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>神经细胞自动机（NCA）是一种能够模拟自组织行为的生成模型，该技术通过高分辨率实现更精细的图像与纹理生成。对于AI产品经理，其核心价值在于提供了一种兼具可解释性与高效计算的新范式，可应用于游戏关卡设计、实时材质合成、动画生成等创意工具。相比传统深度生成模型，NCA支持分布式并行计算，且能产生有机、可连续演化的输出，适合需要动态内容生成的场景。商业上可降低预生成资产成本，推动程序化内容生成在游戏、影视等领域的落地。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>DeepL acquires Mixhalo for live-event audio streaming and translation</title>
+      <link>https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/</link>
+      <guid isPermaLink="false">deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation</guid>
+      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>DeepL收购了现场活动音频流与翻译公司Mixhalo，此举旨在通过旧金山新办公室拓展美国业务。对AI产品经理而言，这标志着机器翻译从文本向实时音频场景的延伸，Mixhalo的技术可赋能演唱会、会议等现场的即时多语言翻译，增强用户体验。商业上，DeepL通过收购快速获取技术栈与客户渠道，体现垂直场景AI能力的产品化与全球化扩张策略。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Pinterest launches an experimental AI shopping app called &amp;#8216;Ask Pinterest&amp;#</title>
+      <link>https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/</link>
+      <guid isPermaLink="false">pinterest-launches-an-experimental-ai-shopping-app-called-8216ask-pinterest8217</guid>
+      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Pinterest推出实验性AI购物应用'Ask Pinterest'，用户可通过对话界面获取商品推荐和灵感。该应用利用大语言模型理解自然语言查询，结合Pinterest的视觉发现数据生成个性化建议。商业价值在于将传统搜索转化为互动式体验，提升用户参与度和购买转化率。产品创新点在于将AI对话能力嵌入购物流程，降低用户决策成本，并可能拓展至多品类推荐。对AI产品经理的启示：如何平衡对话自由度和推荐精准度，以及如何利用现有用户行为数据增强模型效果。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>The slowtech revolution is here to kill your phone addiction and rescue your att</title>
+      <link>https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/</link>
+      <guid isPermaLink="false">the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-att</guid>
+      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>这篇来自TechCrunch的文章介绍了“慢科技革命”（slowtech revolution）趋势，旨在对抗手机成瘾与注意力碎片化。核心主张是通过技术设计帮助用户夺回对时间、生活和注意力的控制权。产品经理应关注这一方向带来的AI应用机会，例如智能通知管理、个性化专注模式、基于行为数据的屏幕时间干预等。商业价值在于服务日益增长的“数字极简”需求，创新点在于将技术从“吸引注意力”转向“保护注意力”。这可能会催生新一代以用户福祉为核心的AI产品。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verifi</title>
+      <link>https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/</link>
+      <guid isPermaLink="false">pramaana-labs-raises-27m-seed-round-from-khosla-ventures-to-bring-formal-verific</guid>
+      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Pramaana Labs 获得 Khosla Ventures 2700 万美元种子轮融资，致力于将形式化验证（formal verification）引入 AI 领域。形式化验证是一种通过数学证明确保系统行为符合规范的技术，可显著提升 AI 在关键任务中的可靠性与安全性。公司初期聚焦法律、药物发现和税务准备等高敏感行业，这些领域错误成本极高且对结果的准确性有严苛要求。该创新为 AI 产品经理提供了在容错率极低的场景中部署 AI 的新路径，有望解决当前大模型在事实准确性和逻辑一致性方面的痛点，推动 AI 从辅助决策走向核心业务流程。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>GLM 5.2 Performance Benchmarks</title>
+      <link>https://news.ycombinator.com/item?id=48567004</link>
+      <guid isPermaLink="false">glm-52-performance-benchmarks</guid>
+      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>GLM 5.2 是智谱AI最新发布的大语言模型版本，其性能基准测试结果显示在推理速度、数学推理和长文本理解等关键指标上取得显著提升。相比前代，GLM 5.2 在多任务评测中展现出更强的泛化能力和更低的推理成本，有助于企业在对话系统、知识库问答等场景中实现更高效的部署。该模型在国内大模型生态中进一步巩固了竞争力，为产品经理提供了国产高性能模型的新选择，特别是在成本敏感或数据合规要求高的应用场景中具有商业价值。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>AI demands more engineering discipline. Not less</title>
+      <link>https://news.ycombinator.com/item?id=48570948</link>
+      <guid isPermaLink="false">ai-demands-more-engineering-discipline-not-less</guid>
+      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文指出AI开发需要更强的工程纪律而非减弱，强调在AI产品构建中必须将软件工程原则与机器学习实践深度融合，包括严格的测试、版本控制、可复现性、持续监控与迭代管理。对于AI产品经理而言，这意味着需要推动团队建立标准化的开发流程、加强系统可靠性设计，以降低AI模型在生产环境中的风险，提升产品稳定性和商业价值。这种工程化思维将帮助AI产品从实验原型走向规模化落地，同时减少技术债务与运维成本。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Canadian pension giant joins race to fund India&amp;#8217;s AI-fueled data center bo</title>
+      <link>https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/</link>
+      <guid isPermaLink="false">canadian-pension-giant-joins-race-to-fund-india8217s-ai-fueled-data-center-boom</guid>
+      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>加拿大养老基金宣布收购印度数据中心运营商CtrlS的8.2%股权，后者在印度运营超过15个数据中心。该投资旨在抓住印度AI驱动的数据中心需求激增机遇，为本土AI模型训练和推理提供算力基础设施支撑。对于AI产品经理而言，该事件标志着资本持续涌入AI基础设施层，长期将降低AI服务部署成本，并影响边缘计算与云服务策略。CtrlS作为关键实体，其数据中心扩容可能改变印度AI应用的产品底层架构选择。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload</title>
+      <link>https://news.ycombinator.com/item?id=48568023</link>
+      <guid isPermaLink="false">show-hn-i-built-184-free-browser-tools-pdf-image-dev-ai-tasks-no-upload</guid>
+      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该产品为184个免费浏览器工具集合，涵盖PDF处理、图像编辑、开发辅助及AI任务，核心特点为所有操作均在客户端完成，无需上传文件至服务器，保障用户隐私和数据安全。技术层面可能依赖WebAssembly或JavaScript实现本地高效处理，避免了数据传输延迟和服务器成本。商业价值在于免费且零安装，可吸引注重隐私的普通用户和开发者，形成一站式工具生态。产品创新在于将多种功能集成于单一浏览器环境，降低了使用门槛，并可能通过广告或增值服务变现。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Making 'food out of thin air' (2024)</title>
+      <link>https://news.ycombinator.com/item?id=48533135</link>
+      <guid isPermaLink="false">making-food-out-of-thin-air-2024</guid>
+      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该技术探讨利用空气中二氧化碳等成分通过化学或生物合成方式直接制造食物，类似于‘凭空造食’。2024年进展可能包括更高效的催化转化或微生物发酵路径。对AI产品经理而言，AI可加速筛选合成路径、优化反应条件、预测分子结构，从而降低生产成本并推动可持续食品供应链。商业价值在于应对粮食安全与气候变化，产品创新体现在将AI嵌入闭环生产系统，实现从空气到蛋白质的端到端自动化。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Abandoned and Little-Known Airfields</title>
+      <link>https://news.ycombinator.com/item?id=48531590</link>
+      <guid isPermaLink="false">abandoned-and-little-known-airfields</guid>
+      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该标题指向一篇关于废弃及鲜为人知机场的汇总文章，虽然未直接涉及AI，但此类地理数据、历史航空设施信息可作为训练计算机视觉模型（如卫星图像识别）或构建时空知识图谱的数据源。对于AI产品经理，这意味着可以探索利用AI自动化识别和分类地面设施（如废弃机场）的能力，应用于城市规划、物流选址或历史考古等领域。商业价值体现在为政府或地产公司提供土地资源评估、为航空史研究提供数字化工具。产品创新点在于将古老、分散的数据集与当代AI模型结合，挖掘隐藏的地理知识。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak</title>
       <link>https://news.ycombinator.com/item?id=48552687</link>
@@ -298,118 +410,6 @@
       <guid isPermaLink="false">spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo</guid>
       <pubDate>2026-06-17T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Sign-Rank, Index, and List Replicability: Connections and Separations</title>
-      <link>http://arxiv.org/abs/2606.18236v1</link>
-      <guid isPermaLink="false">sign-rank-index-and-list-replicability-connections-and-separations</guid>
-      <pubDate>2026-06-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文研究学习理论中二元概念类的符号秩（sign rank）问题，探讨其与列表可复现性之间的关联与分离。符号秩衡量一个概念类能被点和半空间表示的最小维度，但其下界证明极为困难。论文提出新的下界方法，揭示了符号秩、索引复杂度与列表可复现性之间的理论联系。对AI产品经理而言，该研究虽偏理论，但有助于理解模型表示能力的本质局限，对未来设计更高效、可解释的机器学习系统有潜在指导意义，尤其在需要严格泛化保证的场景。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>SpaceX valuation balloons to $2.6T, briefly passes Amazon</title>
-      <link>https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/</link>
-      <guid isPermaLink="false">spacex-valuation-balloons-to-26t-briefly-passes-amazon</guid>
-      <pubDate>2026-06-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>SpaceX估值飙升至2.6万亿美元，短暂超越亚马逊，自上周五股票交易启动以来市值增加了1万亿美元。这一巨额估值反映了市场对商业航天和火星殖民愿景的乐观预期，以及SpaceX在重复使用火箭技术和星链（Starlink）卫星互联网服务上的商业成功。对于AI产品经理而言，SpaceX利用AI优化火箭着陆、卫星轨道规划及通信网络优化，展示了AI在重资产、高精度领域的产品化潜力；同时其估值突破传统科技巨头，提示AI+航天、AI+基础设施等垂直场景存在巨大商业价值。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Stop Killing Games fails to secure EU law despite 1.3M signatures</title>
-      <link>https://news.ycombinator.com/item?id=48564696</link>
-      <guid isPermaLink="false">stop-killing-games-fails-to-secure-eu-law-despite-13m-signatures</guid>
-      <pubDate>2026-06-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>“停止杀死游戏”运动尽管收集了130万签名，但未能成功推动欧盟立法，要求游戏公司在停止支持后保持游戏可玩性。该运动反映了玩家对数字游戏长期可访问性的担忧，特别是依赖服务器验证的单机或联网游戏在服务器关闭后无法游玩的问题。欧盟委员会认为请愿未达到法律提案标准，拒绝启动立法程序。这凸显了数字产品生命周期管理中的消费者权益缺口，对游戏及相关AI产品（如云服务依赖型应用）的产品经理具有警示意义：设计时应考虑离线支持或资产开源等可持续方案。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?</title>
-      <link>https://news.ycombinator.com/item?id=48542100</link>
-      <guid isPermaLink="false">ask-hn-has-anyone-replaced-claudegpt-with-a-local-model-for-daily-coding</guid>
-      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> hn</p><hr/><p>该讨论在Hacker News上发起，核心问题是开发者是否已成功用本地大模型（如Code Llama等）替代Claude或GPT进行日常编程。关键考量包括：本地模型在代码生成、补全和调试上的能力是否媲美云端模型；隐私与数据安全优势（代码不离开本地）；成本控制（无需API订阅费）；以及硬件需求（GPU/内存瓶颈）。产品经理需关注本地模型与云端模型的性能差距、部署难度和用户体验折中，以决定产品策略（例如是否提供本地优先的AI编程助手）。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>chopratejas/headroom</title>
-      <link>https://github.com/chopratejas/headroom</link>
-      <guid isPermaLink="false">chopratejasheadroom</guid>
-      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>Headroom 是一个用于压缩工具输出、日志、文件和 RAG 块的开源工具，在数据到达大语言模型（LLM）之前进行高效压缩，可减少 60-95% 的 token 消耗，同时保持回答质量不变。它提供库、代理和 MCP 服务器三种集成方式，适配不同开发场景。对产品经理而言，该工具能大幅降低 LLM 调用成本（最高节省 95%），提升系统吞吐量，尤其适合处理长上下文或高频 RAG 场景。其轻量级、无侵入的设计可快速嵌入现有 AI 产品，属于生态层的实用优化组件。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>elder-plinius/CL4R1T4S</title>
-      <link>https://github.com/elder-plinius/CL4R1T4S</link>
-      <guid isPermaLink="false">elder-pliniuscl4r1t4s</guid>
-      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>GitHub仓库elder-plinius/CL4R1T4S汇集了ChatGPT、Claude、Gemini等主流AI系统的泄露System Prompts，旨在推动AI透明性。产品经理可借此逆向分析竞品的行为约束、角色设定与防御机制，优化自身产品的Prompt设计与安全策略。需警惕提示词泄露带来的模型模仿和越狱风险，同时思考如何通过动态提示保护或加密手段提升产品护城河。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>CrankGPT</title>
-      <link>https://news.ycombinator.com/item?id=48540854</link>
-      <guid isPermaLink="false">crankgpt</guid>
-      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>CrankGPT是一个新兴的AI模型或产品，可能专注于高效推理或特定领域应用。其技术要点包括轻量化架构、低延迟推理，适合资源受限环境。商业价值在于降低AI部署门槛，拓展边缘计算市场。产品创新体现在对传统GPT的改进，如引入因果推理机制或压缩技术。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Anthropic's Safety Superpower</title>
-      <link>https://news.ycombinator.com/item?id=48539078</link>
-      <guid isPermaLink="false">anthropics-safety-superpower</guid>
-      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic 以 AI 安全为核心竞争力，提出了 Constitutional AI（宪法式 AI）等技术方法，通过显式约束模型行为来减少有害输出。其安全超级能力不仅提升了模型可靠性，还为企业级产品部署提供了合规与信任基础。产品经理可借鉴其安全优先的开发模式，将安全作为差异化卖点，降低监管风险并增强用户信心。这种能力在金融、医疗等高风险场景中具有显著商业价值。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>As AI agents become employees, NewCore emerges with $66M to give them identities</title>
-      <link>https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/</link>
-      <guid isPermaLink="false">as-ai-agents-become-employees-newcore-emerges-with-66m-to-give-them-identities</guid>
-      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>NewCore公司获得6600万美元融资，致力于为AI Agent提供身份管理解决方案。其核心观点是，企业安全的下一个重大挑战将不再是管理人类员工，而是管理日益增多的AI Agent。通过赋予AI Agent数字身份，NewCore旨在解决多Agent协作场景下的访问控制、权限管理和审计追踪问题。这一创新填补了当前AI基础设施的关键空白，为企业大规模部署AI Agent提供了安全底座。对产品经理而言，这意味着需要将Agent身份管理纳入AI产品架构设计。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>A satellite just learned to find things on its own — here&amp;#8217;s what that mean</title>
-      <link>https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/</link>
-      <guid isPermaLink="false">a-satellite-just-learned-to-find-things-on-its-own-here8217s-what-that-means</guid>
-      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>2024年4月，地球观测卫星首次实现完全自主的目标发现，无需地面指令。卫星搭载边缘AI模型，在轨实时处理图像数据，自动识别和定位感兴趣目标，仅将关键信息传回地面。这一突破大幅提升遥感响应速度和效率，减少对带宽的依赖，可广泛应用于军事侦察、灾害监测、农业评估等场景。对AI产品经理而言，这是边缘计算与自主决策在极端约束环境下的成功落地，展示了将大模型轻量化部署到低功耗硬件的产品化路径，启发了卫星、无人机等移动设备的端侧智能产品设计方向。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Lear</title>
-      <link>http://arxiv.org/abs/2606.17035v1</link>
-      <guid isPermaLink="false">your-privacy-my-cloak-backdoor-attacks-on-differentially-private-federated-learn</guid>
-      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文挑战了‘差分隐私(DP)天然增强联邦学习(FL)对后门攻击鲁棒性’的既有认知。通过实证分析两种基线攻击策略，揭示了DP-FL中的根本矛盾：DP虽能掩盖梯度中的异常，但攻击者仍可设计特定的恶意更新，在保持低噪声敏感度的同时植入后门。该发现对依赖DP保护用户隐私的FL产品（如医疗、金融领域）构成直接威胁，提示产品经理需重新评估安全假设，探索更健壮的防御或混合方案。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Sarvam becomes India&amp;#8217;s newest AI unicorn with $234 million funding round l</title>
-      <link>https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/</link>
-      <guid isPermaLink="false">sarvam-becomes-india8217s-newest-ai-unicorn-with-234-million-funding-round-led-b</guid>
-      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>印度AI初创公司Sarvam完成2.34亿美元融资，由IT服务巨头HCLTech领投1.5亿美元，成为印度最新AI独角兽。该轮融资凸显企业级AI服务的商业价值，HCLTech的参与表明IT服务公司正加速布局AI能力。Sarvam可能专注于印度本土化AI解决方案，未来或推动企业级AI应用落地。对AI产品经理而言，此事件验证了AI创业在印度市场的爆发潜力，以及传统IT服务商通过投资获取AI技术能力的模式。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Malaysia&amp;#8217;s AI agent-powered messaging app Respond.io raises $62.5M, eyes a</title>
-      <link>https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/</link>
-      <guid isPermaLink="false">malaysia8217s-ai-agent-powered-messaging-app-respondio-raises-625m-eyes-acquisit</guid>
-      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>马来西亚AI初创公司Respond.io完成6250万美元融资，其AI代理驱动消息平台可自动处理海量客户咨询，采用按对话数量收费而非按座位数计费的商业模式。该模式降低了企业使用AI客服的门槛，尤其适合高并发场景。产品经理应关注其定价策略如何平衡用户价值与营收，以及AI代理在企业级消息应用中的落地路径。公司计划通过收购进一步扩张生态。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing</title>
-      <link>http://arxiv.org/abs/2606.17034v1</link>
-      <guid isPermaLink="false">kveraser-learning-to-steer-kv-cache-for-efficient-localized-context-erasing</guid>
-      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>KVEraser 提出一种通过学习引导KV缓存的方法，实现高效的局部上下文擦除。在长上下文LLM应用中，局部编辑会全局影响后续token的缓存状态，导致过时检索事实难以删除。该方法无需重新计算，直接操作KV缓存，可精准擦除指定内容，同时保持模型回答的流畅性。商业价值在于支持隐私保护、内容过滤和知识动态更新，降低算力成本。产品创新点在于将缓存控制技术引入上下文编辑，提升LLM应用的灵活性和可控性。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
