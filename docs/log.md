@@ -1973,3 +1973,24 @@
 - create: canadian-pension-giant-joins-race-to-fund-india8217s-ai-fueled-data-center-boom.md
 - create: deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation.md
 - create: pinterest-launches-an-experimental-ai-shopping-app-called-8216ask-pinterest8217.md
+
+## [2026-06-18 06:05] sync v3 | 19 new | pillars: {'capabilities': 13, 'business': 2, 'patterns': 3, 'ecosystem': 1}
+- create: a-robot-is-sprinting-towards-you-do-you-want-it-running-on-claude-or-grok.md
+- create: launch-hn-adam-yc-w25-open-source-ai-cad.md
+- create: leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year.md
+- create: the-competitive-moat-that-ai-cant-replicate.md
+- create: using-ai-to-improve-a-challenging-reaction-in-medicinal-chemistry.md
+- create: trex-an-ai-code-reviewer-that-runs-your-code.md
+- create: agentic-coding-deserves-more-than-a-chat-box-bolted-onto-vs-code.md
+- create: french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation.md
+- create: roelof-botha-joins-spacex8217s-board-of-directors.md
+- create: after-unveiling-ridiculously-expensive-ar-glasses-snap8217s-stock-takes-a-dive.md
+- create: neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi.md
+- create: world-leaders-want-american-ai-they-just-don8217t-want-america-to-be-able-to-tur.md
+- create: anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition.md
+- create: social-medias-next-evolution-user-controlled-algorithms.md
+- create: nea8217s-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning.md
+- create: world-model-maker-odyssey-nabs-145b-valuation-backed-by-amazon-and-other-big-nam.md
+- create: only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-n.md
+- create: google-bets-on-gemini-to-reinvent-the-smart-home-speaker.md
+- create: show-hn-mira-open-source-and-self-hosted-ai-code-reviewer.md

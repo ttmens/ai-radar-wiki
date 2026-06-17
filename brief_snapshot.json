@@ -1,7 +1,7 @@
 {
   "date": "2026-06-18",
-  "generated_at": "2026-06-18T00:02:12.353929+08:00",
-  "item_count": 12,
+  "generated_at": "2026-06-18T06:05:48.879545+08:00",
+  "item_count": 29,
   "items": [
     {
       "id": "glm-52-is-the-new-leading-open-weights-model-on-artificial-analysis",
@@ -26,6 +26,17 @@
       "date": "2026-06-18"
     },
     {
+      "id": "launch-hn-adam-yc-w25-open-source-ai-cad",
+      "label": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "summary": "Adam 是 YC W25 批次推出的开源 AI CAD 工具，旨在通过 AI 技术降低计算机辅助设计门槛。它可能利用生成式设计、自然语言交互或智能草图识别来加速设计流程，让非专业用户也能快速创建 3D 模型。作为开源项目，它鼓励社区贡献和定制化，有望挑战传统 CAD 软件的封闭生态。对 AI 产品经理而言，该工具展示了 AI 在垂直设计领域的落地机会，其开源模式也可能催生新的产品协作方式。商业价值体现在降低设计成本、提升效率，并可能吸引硬件创客、工业设计等细分市场。",
+      "pm_score": 0.53,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48572553",
+      "date": "2026-06-18"
+    },
+    {
       "id": "collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-alread",
       "label": "Collecting robot training data is dirty, unglamorous work. Some AI labs are alre",
       "summary": "本文指出，要使物理AI（如机器人）达到LLM的水平，面临训练数据获取的极度困难。传统方法需要海量、高质量的真实操作数据，但收集过程耗时耗力且环境复杂。部分AI实验室已开始采用XDOF付费模式（可能指外包或众包），雇佣人员执行数据采集任务。这揭示了机器人与AI产品开发中的关键瓶颈：数据工程成本高昂、规模化难。产品经理需关注数据收集的商业模式创新（如数据众包、远程操作采集）以及合成数据与仿真环境的应用，以降低训练成本并加速物理AI落地。",
@@ -34,6 +45,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "world-leaders-want-american-ai-they-just-don8217t-want-america-to-be-able-to-tur",
+      "label": "World leaders want American AI. They just don&#8217;t want America to be able to",
+      "summary": "G7峰会上，法国总统马克龙和印度总理莫迪警告美国可能一夜之间切断对美国AI的访问，这一担忧因Anthropic的停电事件变得真实。对AI产品经理而言，这凸显了全球对单一国家AI基础设施的依赖风险，产品设计需考虑服务中断的“单点故障”问题，推动多云/多区域部署和本地化AI能力建设，以保障业务连续性。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
       "date": "2026-06-18"
     },
     {
@@ -92,6 +114,105 @@
       "date": "2026-06-18"
     },
     {
+      "id": "nea8217s-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning",
+      "label": "NEA&#8217;s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
+      "summary": "今年硅谷兴起Tokenmaxxing热潮，企业鼓励员工无限制使用AI工具，但随后面临高昂成本。据称Uber数月内耗尽年度AI预算，部分公司缩减Claude许可证。NEA投资人Tiffany Luck指出，AI IPO和个性化代理成为焦点，但ROI清算已至，企业需重新评估AI投入与产出的平衡。产品经理应警惕无节制使用带来的预算失控，转向精细化成本管控和可量化的商业价值设计。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "world-model-maker-odyssey-nabs-145b-valuation-backed-by-amazon-and-other-big-nam",
+      "label": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big n",
+      "summary": "世界模型初创公司Odyssey获近15亿美元估值，投资方包括亚马逊等巨头。世界模型被视为继大语言模型之后的下一个AI前沿，通过模拟物理世界规则实现更智能的推理与规划能力。该轮融资凸显市场对世界模型商业潜力的信心，Odyssey正将其技术应用于自动驾驶、机器人等需要环境交互的场景。对AI产品经理而言，这意味着需要关注从文本生成向物理世界模拟的产品范式迁移，以及探索世界模型在动态决策、模拟预测等场景的创新机会。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "social-medias-next-evolution-user-controlled-algorithms",
+      "label": "Social media’s next evolution: user-controlled algorithms",
+      "summary": "社交媒体正迈向用户可控算法的新阶段。Threads、Instagram、TikTok等平台推出工具，允许用户直接调控推荐算法，影响信息流内容。这一创新赋予用户个性化控制权，提升内容相关性和透明度，同时降低算法黑箱带来的负面体验。对AI产品经理而言，这标志着从完全自动化推荐向人机协同的转变，需关注用户意图感知、偏好建模与界面设计，以平衡效能与可控性。商业价值在于增强用户黏性与平台信任，但也带来算法公平性和复杂性挑战。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "google-bets-on-gemini-to-reinvent-the-smart-home-speaker",
+      "label": "Google bets on Gemini to reinvent the smart home speaker",
+      "summary": "Google 发布售价 99.99 美元的新款 Google Home Speaker，采用 Gemini 生成式 AI 替代传统 Google Assistant 的固定指令，实现更自然的对话式交互。这标志着智能音箱从“命令-响应”模式转向“持续对话”模式，有望重新定义智能家居入口。技术要点在于 Gemini 的上下文理解与多轮对话能力，商业价值在于通过更人性化的交互提升用户粘性和设备激活率，为后续增值服务（如购物、日程）铺路。产品创新在于去掉唤醒词并支持打断和追问，降低使用门槛，对抗亚马逊 Alexa 和苹果 HomePod 的竞争。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "after-unveiling-ridiculously-expensive-ar-glasses-snap8217s-stock-takes-a-dive",
+      "label": "After unveiling ridiculously expensive AR glasses, Snap&#8217;s stock takes a di",
+      "summary": "Snap推出的新款AR眼镜因价格高昂（约数千美元）导致股价下跌，市场对其商业化前景存疑。该产品虽融合先进光学显示与AI驱动的空间感知技术，可实现虚拟物体与现实环境交互，但过高的定价策略和有限的应用场景可能限制了消费者需求。对于AI产品经理而言，核心启示在于：高端硬件产品的市场接受度不仅取决于技术能力，更需权衡定价、用户体验与落地场景的匹配度，避免陷入‘技术炫技但商业失败’的陷阱。Snap此次股价下跌表明，AR领域的突破仍需在成本控制与实用价值间寻找平衡点。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-n",
+      "label": "Only 16 percent of Americans think AI will have a positive impact on society, a",
+      "summary": "皮尤研究中心最新研究显示，仅有16%的美国人认为AI会对社会产生积极影响，反映出公众对AI的信任度远低于华尔街的热情。对于AI产品经理而言，这一数据敲响警钟：用户信任危机可能成为产品落地的关键障碍。未来设计AI产品时，需优先考虑可解释性、公平性、隐私保护和用户控制权，通过透明沟通与伦理合规建立公众信心，否则即使技术领先也难以获得市场接纳。监管风险随之上升，产品策略应主动适应社会期望。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "the-competitive-moat-that-ai-cant-replicate",
+      "label": "The Competitive Moat That AI Can't Replicate",
+      "summary": "本文探讨了在AI技术快速发展的背景下，企业如何构建AI难以复制的竞争护城河。核心观点是，单纯依赖算法和模型无法形成持久优势，真正的壁垒在于专有数据、用户信任、品牌效应以及复杂的工作流整合。产品经理应关注如何利用人类专业知识、行业洞察和社区生态，打造AI无法轻易模仿的差异化价值，例如通过积累高质量标注数据、建立用户行为闭环或深耕垂直场景。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48573435",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition",
+      "label": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+      "summary": "Anthropic 成为首家加入 Frontier 碳去除联盟的 AI 初创公司，该联盟新获 9.15 亿美元承诺用于碳去除项目。此举标志着 AI 企业主动承担环境责任，通过购买碳去除服务抵消自身运营碳排放，提升品牌 ESG 形象。对 AI 产品经理而言，这提示未来 AI 产品可能需集成碳足迹追踪或绿色计算功能，以吸引注重可持续的企业客户和监管合规要求。同时，Anthropic 先行一步可能塑造行业标准，推动 AI 公司气候行动商业化。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "agentic-coding-deserves-more-than-a-chat-box-bolted-onto-vs-code",
+      "label": "Agentic coding deserves more than a chat box bolted onto VS Code",
+      "summary": "当前AI编码工具（如Copilot）大多以聊天框形式嵌入VS Code，但真正的代理式编码（Agentic Coding）需要更深度的IDE集成与自主执行能力，而非简单的对话界面。这篇文章探讨了代理式编码的技术演进方向，强调从被动问答转向主动计划、执行与调试，提升开发者效率。商业价值在于创新产品形态可降低开发门槛，同时带来新的付费机会。产品创新点包括将AI从辅助工具升级为开发伙伴，实现代码生成、重构、测试等全流程自动化。",
+      "pm_score": 0.43,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48571811",
+      "date": "2026-06-18"
+    },
+    {
       "id": "glm-52-performance-benchmarks",
       "label": "GLM 5.2 Performance Benchmarks",
       "summary": "GLM 5.2 是智谱AI最新发布的大语言模型版本，其性能基准测试结果显示在推理速度、数学推理和长文本理解等关键指标上取得显著提升。相比前代，GLM 5.2 在多任务评测中展现出更强的泛化能力和更低的推理成本，有助于企业在对话系统、知识库问答等场景中实现更高效的部署。该模型在国内大模型生态中进一步巩固了竞争力，为产品经理提供了国产高性能模型的新选择，特别是在成本敏感或数据合规要求高的应用场景中具有商业价值。",
@@ -100,6 +221,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48567004",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "a-robot-is-sprinting-towards-you-do-you-want-it-running-on-claude-or-grok",
+      "label": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
+      "summary": "文章探讨了机器人实时决策中AI模型的选择问题，对比Claude与Grok在速度、安全性和适应性上的差异。对于AI产品经理，这提示模型部署到物理世界时需要平衡推理延迟、鲁棒性和伦理约束。商业上，机器人厂商可能将模型授权作为差异化卖点；技术上，模型需要针对硬件优化以实现低延迟控制。产品创新在于将通用对话模型改造为机器人‘大脑’，开辟新的人机交互范式。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48576824",
       "date": "2026-06-18"
     },
     {
@@ -125,6 +257,50 @@
       "date": "2026-06-18"
     },
     {
+      "id": "trex-an-ai-code-reviewer-that-runs-your-code",
+      "label": "TREX: An AI code reviewer that runs your code",
+      "summary": "TREX 是一款创新的 AI 代码审查工具，其独特之处在于能够实际运行你的代码进行动态分析，而不仅仅是静态扫描。这种“运行即审查”的方法能发现运行时错误、逻辑漏洞和性能问题，显著提升代码质量和开发效率。对于 AI 产品经理而言，TREX 展示了 AI 在软件开发流程中的深化应用——从辅助工具走向对代码行为的直接验证。其潜在商业价值在于减少人工审查成本、加速迭代周期，并可能集成到 CI/CD 管道中。产品创新点在于将执行环节纳入审查逻辑，突破了传统静态分析的上限，但需注意运行时安全与资源隔离。",
+      "pm_score": 0.365,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48571851",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation",
+      "label": "French physicist and media star loses doctorate after plagiarism investigation",
+      "summary": "一位法国知名物理学家兼媒体明星因被证实学术抄袭，被剥夺博士学位。该事件显示学术界对诚信的严格审查机制，涉及高校和科研体系的监管流程。对于AI产品经理而言，此案例提示在构建知识管理和内容生成系统时需强化溯源与验证功能，以避免学术不端风险。技术层面可关注文本相似度检测、自动引用校验等能力的应用场景。商业价值体现在合规性产品需求，例如学术诚信工具或知识溯源的SaaS服务。",
+      "pm_score": 0.34,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48571767",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year",
+      "label": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "summary": "泄露的财务文件显示，OpenAI 每年亏损数十亿美元，这一状况揭示了 AI 公司高昂的运营成本与商业模式可持续性挑战。对 AI 产品经理而言，需关注巨头的成本结构如何影响定价策略与市场格局，以及盈利压力下产品创新的方向调整。",
+      "pm_score": 0.33,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48577208",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "show-hn-mira-open-source-and-self-hosted-ai-code-reviewer",
+      "label": "Show HN: Mira – Open-source and self-hosted AI code reviewer",
+      "summary": "Mira 是一款开源且支持自托管的 AI 代码审查工具，旨在帮助企业私有化部署 AI 审阅能力，保障代码数据安全。产品基于 AI 模型自动分析代码提交，提供错误检测、风格建议、最佳实践提醒等功能，可与主流版本控制系统（如 Git）集成。其商业价值在于降低 SaaS 订阅成本，满足金融、医疗等对数据合规要求严格的场景。产品创新体现在完全开源的架构、灵活的本地部署、以及对自定义审查规则的开放支持，适合希望深度定制开发流程的团队。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://github.com/miracodeai/mira",
+      "date": "2026-06-18"
+    },
+    {
       "id": "show-hn-i-built-184-free-browser-tools-pdf-image-dev-ai-tasks-no-upload",
       "label": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
       "summary": "该产品为184个免费浏览器工具集合，涵盖PDF处理、图像编辑、开发辅助及AI任务，核心特点为所有操作均在客户端完成，无需上传文件至服务器，保障用户隐私和数据安全。技术层面可能依赖WebAssembly或JavaScript实现本地高效处理，避免了数据传输延迟和服务器成本。商业价值在于免费且零安装，可吸引注重隐私的普通用户和开发者，形成一站式工具生态。产品创新在于将多种功能集成于单一浏览器环境，降低了使用门槛，并可能通过广告或增值服务变现。",
@@ -134,10 +310,21 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48568023",
       "date": "2026-06-18"
+    },
+    {
+      "id": "neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi",
+      "label": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+      "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+      "date": "2026-06-18"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1659,
-    "edges": 165058
+    "real_nodes": 1678,
+    "edges": 166740
   }
 }
