@@ -1,0 +1,141 @@
+{
+  "daily_summary": {
+    "date": "2026-06-18",
+    "headline": "今日 AI 情报 · 2026-06-18",
+    "overview": "AI能力向垂直场景和自主操作下沉，但用户信任与工程化纪律成为新瓶颈",
+    "narratives": [
+      {
+        "title": "AI能力垂直化与实时场景扩展",
+        "body": "从DeepL收购Mixhalo、Pinterest对话购物、GLM-5.2开源领先到机器人训练数据瓶颈，今天多条情报指向AI正从通用对话向实时音频、购物推荐、物理自主操作等垂直场景加速渗透。产品经理需关注：场景数据获取成本高、实时性要求紧迫，开源模型降低部署门槛但商业集成仍是关键。",
+        "type": "paradigm_shift",
+        "pillar_key": "capabilities"
+      },
+      {
+        "title": "用户信任与品牌沟通矛盾凸显",
+        "body": "60%美国消费者反感品牌消息中提及“AI”，而Pramaana Labs获2700万美元融资推广形式化验证以提升AI可靠性，加拿大养老基金押注印度数据中心生态。用户端对AI的疏离感与资本端对基础设施的狂热形成反差，产品经理必须用用户价值语言替代技术标签，同时强化可解释性与安全性。",
+        "type": "bottleneck",
+        "pillar_key": "business"
+      },
+      {
+        "title": "AI产品开发需要更强的工程纪律",
+        "body": "慢科技革命、工程纪律文章、浏览器工具本地化处理等信号揭示：AI产品从原型走向规模化需重塑开发流程（测试、监控、数据闭环），并关注用户注意力保护与隐私。产品经理应推动工程化标准，而非仅靠模型能力差异竞争。",
+        "type": "maturation",
+        "pillar_key": "patterns"
+      }
+    ],
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI能力垂直化与实时场景扩展",
+        "insight": "AI能力垂直化与实时场景扩展。该方向的具体信号：GLM-5.2开源权重领先，降低定制化成本，但数据获取仍是瓶颈；DeepL收购Mixhalo切入实时音频翻译，Pinterest推出对话购物App，均表明AI正从文本对话向多模态、实时场景延伸；同时机器人训练数据收集成本高昂，合成数据与仿真环境成为破局关键。产品经理需评估场景数据可获取性，优先选择数据链完整的垂直领域。",
+        "evidence": [
+          {
+            "id": "glm-52-is-the-new-leading-open-weights-model-on-artificial-analysis",
+            "title": "GLM-5.2成为开源权重领先模型，降低部署门槛",
+            "score": 0.68
+          },
+          {
+            "id": "deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation",
+            "title": "DeepL收购Mixhalo进军实时音频翻译",
+            "score": 0.48
+          },
+          {
+            "id": "pinterest-launches-an-experimental-ai-shopping-app-called-8216ask-pinterest8217",
+            "title": "Pinterest推出对话购物App Ask Pinterest",
+            "score": 0.48
+          }
+        ]
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI产品开发需要更强的工程纪律",
+        "insight": "AI产品开发需要更强的工程纪律。该方向的具体信号：慢科技革命强调保护注意力而非吞噬时间，工程纪律文章要求将软件工程原则融入AI开发（测试、版本控制、监控），而高分辨率神经细胞自动机、浏览器本地工具等体现了可解释性与用户隐私优先的设计。产品经理应推动建立标准化AI开发流程，并探索“保护注意力”的差异化价值。",
+        "evidence": [
+          {
+            "id": "the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-att",
+            "title": "慢科技革命旨在对抗手机成瘾，提供AI产品新方向",
+            "score": 0.48
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "用户信任与品牌沟通矛盾凸显",
+        "insight": "用户信任与品牌沟通矛盾凸显。该方向的具体信号：消费者对“AI”标签反感，而资本方（加拿大养老基金、Khosla）持续押注AI基础设施与可靠性，形式化验证融资验证了市场对关键任务AI安全性的需求。产品经理应减少技术话术，转向“智能化推荐”、“自动节省时间”等价值语言，并在高敏感行业优先部署可验证的AI系统。",
+        "evidence": [
+          {
+            "id": "canadian-pension-giant-joins-race-to-fund-india8217s-ai-fueled-data-center-boom",
+            "title": "加拿大养老基金投资印度AI数据中心",
+            "score": 0.38
+          }
+        ]
+      }
+    ],
+    "stats": "技术能力: 9 | 产品模式: 4 | 工具生态: 0 | 商业趋势: 2",
+    "total_items": 14,
+    "high_value_count": 11,
+    "all_today_ids": [
+      {
+        "id": "glm-52-is-the-new-leading-open-weights-model-on-artificial-analysis",
+        "label": "GLM-5.2 is the new leading open weights model on Artificial Analysis"
+      },
+      {
+        "id": "sixty-percent-of-us-consumers-say-ai-in-brand-messaging-is-a-turnoff",
+        "label": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff"
+      },
+      {
+        "id": "collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-alread",
+        "label": "Collecting robot training data is dirty, unglamorous work. Some AI labs are alre"
+      },
+      {
+        "id": "show-hn-high-res-neural-cellular-automata",
+        "label": "Show HN: High-Res Neural Cellular Automata"
+      },
+      {
+        "id": "deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation",
+        "label": "DeepL acquires Mixhalo for live-event audio streaming and translation"
+      },
+      {
+        "id": "pinterest-launches-an-experimental-ai-shopping-app-called-8216ask-pinterest8217",
+        "label": "Pinterest launches an experimental AI shopping app called &#8216;Ask Pinterest&#"
+      },
+      {
+        "id": "the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-att",
+        "label": "The slowtech revolution is here to kill your phone addiction and rescue your att"
+      },
+      {
+        "id": "pramaana-labs-raises-27m-seed-round-from-khosla-ventures-to-bring-formal-verific",
+        "label": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verifi"
+      },
+      {
+        "id": "glm-52-performance-benchmarks",
+        "label": "GLM 5.2 Performance Benchmarks"
+      },
+      {
+        "id": "ai-demands-more-engineering-discipline-not-less",
+        "label": "AI demands more engineering discipline. Not less"
+      },
+      {
+        "id": "canadian-pension-giant-joins-race-to-fund-india8217s-ai-fueled-data-center-boom",
+        "label": "Canadian pension giant joins race to fund India&#8217;s AI-fueled data center bo"
+      },
+      {
+        "id": "show-hn-i-built-184-free-browser-tools-pdf-image-dev-ai-tasks-no-upload",
+        "label": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload"
+      },
+      {
+        "id": "making-food-out-of-thin-air-2024",
+        "label": "Making 'food out of thin air' (2024)"
+      },
+      {
+        "id": "abandoned-and-little-known-airfields",
+        "label": "Abandoned and Little-Known Airfields"
+      }
+    ],
+    "date_bj": "2026-06-18 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-06-18 00:01:53"
+  }
+}

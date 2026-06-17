@@ -1957,3 +1957,19 @@
 - create: rubricstree-scalable-and-evolving-open-ended-evaluation-of-personal-health-agent.md
 - create: a-red-team-study-of-anthropic-fable-5-opus-48-models.md
 - create: the-founders-playbook-building-an-ai-native-startup.md
+
+## [2026-06-18 00:02] sync v3 | 14 new | pillars: {'capabilities': 14}
+- create: glm-52-is-the-new-leading-open-weights-model-on-artificial-analysis.md
+- create: sixty-percent-of-us-consumers-say-ai-in-brand-messaging-is-a-turnoff.md
+- create: ai-demands-more-engineering-discipline-not-less.md
+- create: show-hn-high-res-neural-cellular-automata.md
+- create: abandoned-and-little-known-airfields.md
+- create: glm-52-performance-benchmarks.md
+- create: show-hn-i-built-184-free-browser-tools-pdf-image-dev-ai-tasks-no-upload.md
+- create: making-food-out-of-thin-air-2024.md
+- create: the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-att.md
+- create: collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-alread.md
+- create: pramaana-labs-raises-27m-seed-round-from-khosla-ventures-to-bring-formal-verific.md
+- create: canadian-pension-giant-joins-race-to-fund-india8217s-ai-fueled-data-center-boom.md
+- create: deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation.md
+- create: pinterest-launches-an-experimental-ai-shopping-app-called-8216ask-pinterest8217.md
