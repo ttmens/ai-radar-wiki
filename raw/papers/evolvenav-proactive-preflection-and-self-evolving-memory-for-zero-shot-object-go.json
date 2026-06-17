@@ -1,0 +1,32 @@
+{
+  "title": "EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation",
+  "summary": "Zero-Shot Object-Goal Navigation (ZS-OGN) requires embodied agents to explore and locate target objects without any prior training. To this end, recent methods leverage foundation models. But they typically rely on static priors and lack adaptation, which leads to repeated errors and costly trial and error. In this paper, we propose a self-evolving ZS-OGN framework that enables continuous test-time improvement. Specifically, we build an agentic rule memory by extracting actionable knowledge from past trajectories. Then, we propose a retrieval strategy based on upper confidence bound, selecting effective rules by balancing semantic relevance and historical success. In addition, we introduce a memory-guided preflection module that forecasts potential outcomes before action, reducing inefficient exploration. Extensive experiments show that our method outperforms existing zero-shot baselines, achieving a 10.1\\% improvement in success rate with fewer unnecessary steps.",
+  "url": "http://arxiv.org/abs/2606.18235v1",
+  "authors": [
+    "Qi Chai",
+    "Wenhao Shen",
+    "Nanjie Yao",
+    "Yue Xia",
+    "Kaiyong Zhao"
+  ],
+  "published": "2026-06-16T17:56:57Z",
+  "tag": "Paper",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent",
+    "rag",
+    "memory"
+  ],
+  "summary_cn": "EvolveNav 提出了一种面向零样本目标导航的自适应框架，通过主动预反射和自进化记忆机制，解决现有基础模型因静态先验导致的重复错误问题。其核心创新在于：模型在探索过程中动态修正记忆，避免陷于局部最优，从而提升目标定位效率。商业价值上，该技术可降低机器人或自动驾驶系统对新环境的预训练依赖，加速部署并节约算力成本。产品创新方面，将记忆模块与动态推理结合，为无预设场景的自主导航提供了更鲁棒的解决方案。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Zero-Shot Navigation",
+    "Adaptive Memory",
+    "Foundation Models"
+  ],
+  "entities": [],
+  "patterns": [
+    "Agent Navigation",
+    "Memory-Augmented AI"
+  ]
+}

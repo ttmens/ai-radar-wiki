@@ -1942,3 +1942,18 @@
 - create: the-magic-roundabout-of-seattle-area.md
 - create: stop-killing-games-fails-to-secure-eu-law-despite-13m-signatures.md
 - create: anthropic8217s-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data.md
+
+## [2026-06-17 18:03] sync v3 | 13 new | pillars: {'capabilities': 8, 'ecosystem': 3, 'patterns': 2}
+- create: visual-verification-enables-inference-time-steering-and-autonomous-policy-improv.md
+- create: reprorepo-scaling-reproducibility-audits-with-github-repository-issues.md
+- create: sign-rank-index-and-list-replicability-connections-and-separations.md
+- create: evolvenav-proactive-preflection-and-self-evolving-memory-for-zero-shot-object-go.md
+- create: adaptive-volumetric-mechanical-property-fields-invariant-to-resolution.md
+- create: learning-red-agent-policy-from-observations-for-neurosymbolic-autonomous-cyber-a.md
+- create: finite-time-queue-peak-laws-in-stochastic-networks-logarithmic-scaling-after-geo.md
+- create: rethinking-dataset-distillation-for-classification-do-distilled-sets-outperform.md
+- create: looped-world-models.md
+- create: fixed-point-reasoners-stable-and-adaptive-deep-looped-transformers.md
+- create: rubricstree-scalable-and-evolving-open-ended-evaluation-of-personal-health-agent.md
+- create: a-red-team-study-of-anthropic-fable-5-opus-48-models.md
+- create: the-founders-playbook-building-an-ai-native-startup.md

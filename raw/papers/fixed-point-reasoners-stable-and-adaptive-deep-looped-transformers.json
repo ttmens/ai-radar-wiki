@@ -1,0 +1,32 @@
+{
+  "title": "Fixed-Point Reasoners: Stable and Adaptive Deep Looped Transformers",
+  "summary": "Looped architectures provide an inductive bias toward learning step-by-step procedures for tasks that require compositional reasoning. The number of effective layers reached by looping determines the quality of the solution these models find. Like deep architectures, looped architectures are prone to a signal propagation problem induced by depth as the halting decision is postponed. In this paper, we address this signal propagation issue using pre-norm layers and residual scaling. Building on these architectural modifications, we propose FPRM, a Transformer-based Fixed-Point Reasoning Model that uses fixed-point convergence as an end-to-end halting mechanism in a looped architecture. We show that fixed-point halting allows FPRM to adapt its compute to task difficulty. FPRM is effective on common reasoning benchmarks, namely Sudoku, Maze, state-tracking, and ARC-AGI.",
+  "url": "http://arxiv.org/abs/2606.18206v1",
+  "authors": [
+    "Sajad Movahedi",
+    "Vera Milovanović",
+    "Shlomo Libo Feigin",
+    "Alexander Theus",
+    "Thomas Hofmann"
+  ],
+  "published": "2026-06-16T17:36:33Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "reasoning",
+    "transformer"
+  ],
+  "summary_cn": "Fixed-Point Reasoners提出了一种深度循环Transformer架构，通过循环权重共享实现固定点推理，使模型能够自适应地迭代计算直到收敛。该技术解决了传统深度模型在复杂组合推理任务中需要大量参数的问题，同时保持了稳定性。商业价值在于可降低模型部署成本，提升推理效率与可解释性，适用于数学证明、代码生成等需要多步逻辑的任务。产品创新体现在将循环动态与固定点理论结合，为AI产品的推理能力提供新的范式。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Looped Transformers",
+    "Fixed-Point Reasoning",
+    "Compositional Reasoning"
+  ],
+  "entities": [],
+  "patterns": [
+    "Iterative Refinement",
+    "Deep Looped Architecture"
+  ]
+}

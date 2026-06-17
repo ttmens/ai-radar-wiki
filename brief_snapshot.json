@@ -1,7 +1,7 @@
 {
   "date": "2026-06-17",
-  "generated_at": "2026-06-17T12:03:09.801489+08:00",
-  "item_count": 24,
+  "generated_at": "2026-06-17T18:03:08.377928+08:00",
+  "item_count": 37,
   "items": [
     {
       "id": "feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak",
@@ -103,6 +103,39 @@
       "date": "2026-06-17"
     },
     {
+      "id": "adaptive-volumetric-mechanical-property-fields-invariant-to-resolution",
+      "label": "Adaptive Volumetric Mechanical Property Fields Invariant to Resolution",
+      "summary": "AdaVoMP提出了一种分辨率不变的体积力学属性场预测方法，能够自动为任意3D资产生成准确的弹性模量、泊松比和密度等空间变化材料属性。该方法解决了数字世界中物理模拟缺乏材料信息的痛点，无需人工标注即可提升仿真可靠性。对产品经理而言，该技术可直接赋能游戏引擎、数字孪生和影视特效等场景，降低物理资产制作成本，加速高质量虚拟内容生成。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.18231v1",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "visual-verification-enables-inference-time-steering-and-autonomous-policy-improv",
+      "label": "Visual Verification Enables Inference-time Steering and Autonomous Policy Improv",
+      "summary": "VERITAS 是一种生成器-验证器框架，用于通用机器人策略的推理时引导和自主改进。该技术通过视觉验证机制，使机器人能够在实际部署中从经验中学习，无需人工干预即可优化行为。核心创新在于将生成策略与验证反馈分离，实现推理时的动态调整，显著提升了机器人的适应性和长期自主性。商业价值体现在降低机器人部署后的维护成本，加速产品迭代。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.18247v1",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "looped-world-models",
+      "label": "Looped World Models",
+      "summary": "当前世界模型在长程模拟中面临忠实性与计算成本的矛盾：深层模型虽模拟精度高但部署昂贵且误差累积。Looped World Models (LoopWM) 首次引入循环架构，通过迭代复用计算单元替代深层堆叠，显著降低计算开销并缓解误差传播。该创新提升了自动驾驶、机器人仿真、交互式游戏等场景的模拟效率与可扩展性，有望推动低成本高保真虚拟环境的商业化应用。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.18208v1",
+      "date": "2026-06-17"
+    },
+    {
       "id": "robinhood8217s-note-on-10-layoffs-shows-blaming-ai-isn8217t-cutting-it",
       "label": "Robinhood&#8217;s note on 10% layoffs shows blaming AI isn&#8217;t cutting it",
       "summary": "Robinhood 裁员10%的通知中，CEO Vlad Tenev 未像许多科技同行那样将裁员归因于AI转型，而是强调业务调整和成本控制。这一差异对AI产品经理的启示是：盲目将裁员与AI挂钩可能掩盖真实战略问题；AI技术落地应基于明确的业务价值，而非作为组织变革的借口。商业上，Robinhood的务实做法值得借鉴——产品创新需要与市场实际需求对齐，避免炒作AI概念。",
@@ -158,6 +191,17 @@
       "date": "2026-06-17"
     },
     {
+      "id": "the-founders-playbook-building-an-ai-native-startup",
+      "label": "The founder's playbook: Building an AI-native startup",
+      "summary": "本文为创始人提供构建AI原生初创公司的实战指南，强调从需求定义、技术选型到商业模式的全流程设计。核心要点包括：如何利用大模型能力打造差异化产品，通过数据飞轮和用户反馈持续优化模型性能；技术选型上需平衡模型精度与推理成本，采用微调或RAG等混合策略；商业模式上建议以SaaS订阅为核心，结合按量计费或结果付费模式。产品创新方面，推荐从垂直场景切入，构建端到端解决方案，并注重隐私合规与模型可解释性。对产品经理而言，关键在于识别AI能力边界，设计人机协同流程，以及通过快速迭代验证市场匹配度。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48566832",
+      "date": "2026-06-17"
+    },
+    {
       "id": "doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-e",
       "label": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, a",
       "summary": "美国司法部声称，xAI未获许可的燃气轮机对国家安全、经济和能源安全至关重要，因此五角大楼需要xAI继续运行这些燃气轮机。这反映了AI大规模训练基础设施面临的能源合规挑战——xAI将燃气轮机用于其AI计算集群的电力供应，以支持模型训练。尽管未经环保许可，但出于战略安全考虑，政府允许其临时运行。对AI产品经理而言，这凸显了AI部署中能源基础设施的瓶颈，以及政策与合规风险如何影响算力稳定性，进而影响产品交付时间表和成本。商业价值在于确保AI训练连续性，但也提示需要提前规划绿色能源或合规方案。",
@@ -166,6 +210,83 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "rubricstree-scalable-and-evolving-open-ended-evaluation-of-personal-health-agent",
+      "label": "RubricsTree: Scalable and Evolving Open-Ended Evaluation of Personal Health Agen",
+      "summary": "本文提出RubricsTree框架，旨在解决个人健康智能体（基于LLM和用户健康传感器数据）的开放评价瓶颈。传统依赖医生标注的方法可靠但成本高、难以规模化。RubricsTree通过构建可扩展且持续演进的评价标准，覆盖健康记忆与医疗技能两大维度，实现自动化、开放式的评估。该技术为健康代理产品的临床大规模部署提供了关键质量保障，具有重要的商业价值——降低人工评测成本、加速产品迭代，同时确保医疗场景下的安全性与专业性。产品创新点在于将模糊的开放任务转化为结构化的分级评估体系，支持动态更新。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.18203v1",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "evolvenav-proactive-preflection-and-self-evolving-memory-for-zero-shot-object-go",
+      "label": "EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object G",
+      "summary": "EvolveNav 提出了一种面向零样本目标导航的自适应框架，通过主动预反射和自进化记忆机制，解决现有基础模型因静态先验导致的重复错误问题。其核心创新在于：模型在探索过程中动态修正记忆，避免陷于局部最优，从而提升目标定位效率。商业价值上，该技术可降低机器人或自动驾驶系统对新环境的预训练依赖，加速部署并节约算力成本。产品创新方面，将记忆模块与动态推理结合，为无预设场景的自主导航提供了更鲁棒的解决方案。",
+      "pm_score": 0.445,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.18235v1",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "fixed-point-reasoners-stable-and-adaptive-deep-looped-transformers",
+      "label": "Fixed-Point Reasoners: Stable and Adaptive Deep Looped Transformers",
+      "summary": "Fixed-Point Reasoners提出了一种深度循环Transformer架构，通过循环权重共享实现固定点推理，使模型能够自适应地迭代计算直到收敛。该技术解决了传统深度模型在复杂组合推理任务中需要大量参数的问题，同时保持了稳定性。商业价值在于可降低模型部署成本，提升推理效率与可解释性，适用于数学证明、代码生成等需要多步逻辑的任务。产品创新体现在将循环动态与固定点理论结合，为AI产品的推理能力提供新的范式。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.18206v1",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "reprorepo-scaling-reproducibility-audits-with-github-repository-issues",
+      "label": "ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues",
+      "summary": "ReproRepo 通过利用 GitHub 仓库的 issue 来规模化可重复性审计工作，旨在评估 LLM agent 在帮助复现研究结果方面的能力。现有基准依赖大量人工数据整理难以扩展，该方法创新地使用 issue 作为数据源，降低人工成本，提高评估自动化程度。商业价值在于可为科研机构和企业提供低成本、可扩展的 LLM 能力评测工具，推动 AI 在科研辅助领域的落地。产品创新体现在提出一种新的基准构建范式，将社区协作平台与自动化审计相结合。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.18237v1",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "rethinking-dataset-distillation-for-classification-do-distilled-sets-outperform",
+      "label": "Rethinking Dataset Distillation for Classification: Do Distilled Sets Outperform",
+      "summary": "本文重新评估了数据集蒸馏（Dataset Distillation）方法，质疑其合成的紧凑训练集是否真正优于传统的核心集（Coresets）选择。技术要点在于通过压缩大型数据集信息生成少量合成样本，以实现高效训练，但研究指出蒸馏方法在分类任务上的表现未必领先。商业价值体现在降低数据存储与训练成本，加速模型迭代，尤其适合资源受限的AI产品。产品创新在于推动更优的数据压缩策略，可能改变数据预处理流程。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.18209v1",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "a-red-team-study-of-anthropic-fable-5-opus-48-models",
+      "label": "A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models",
+      "summary": "Anthropic 发布了针对其前沿大语言模型 Fable 5 和 Opus 4.8 的红队研究报告，使用 HackAgent 自动化框架，在 7826 个涵盖十大类危害的意图上测试了四类越狱攻击的对抗鲁棒性。研究表明模型在防御自动化攻击方面存在短板，为产品经理提供了安全性评估基准和攻击模式洞察，有助于设计更安全的生成式 AI 产品。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.18193v1",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "learning-red-agent-policy-from-observations-for-neurosymbolic-autonomous-cyber-a",
+      "label": "Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber A",
+      "summary": "该论文提出了一种基于强化学习的自主网络防御代理方法，采用神经符号AI结合行为树与可学习组件（LECs），从观察中学习红队（攻击方）策略。技术要点包括利用离线数据训练、神经符号推理实现可解释性与适应性；商业价值在于提升企业网络安全自动化的实时响应能力，降低人工成本；产品创新体现在将符号逻辑与深度学习融合，使AI代理能在复杂网络中自主决策，适用于SOC自动化、EDR等领域。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.18223v1",
       "date": "2026-06-17"
     },
     {
@@ -188,6 +309,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48563394",
+      "date": "2026-06-17"
+    },
+    {
+      "id": "finite-time-queue-peak-laws-in-stochastic-networks-logarithmic-scaling-after-geo",
+      "label": "Finite-Time Queue Peak Laws in Stochastic Networks: Logarithmic Scaling After Ge",
+      "summary": "本文研究了随机网络中有限时间内的队列峰值定律，提出了在几何阈值后出现对数标度的现象。核心模型是广义交换机，多个队列共享受限服务资源，且到达过程具有依赖性和时变性。理论贡献在于给出了有限时间窗口内队列长度的峰值边界，为资源调度和负载均衡策略提供了数学依据。对AI产品经理而言，该理论可帮助优化AI服务的队列管理，提升系统稳定性和响应效率，尤其在流量突发场景下具有潜在应用价值。",
+      "pm_score": 0.375,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.18218v1",
       "date": "2026-06-17"
     },
     {
@@ -266,10 +398,21 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
       "date": "2026-06-17"
+    },
+    {
+      "id": "sign-rank-index-and-list-replicability-connections-and-separations",
+      "label": "Sign-Rank, Index, and List Replicability: Connections and Separations",
+      "summary": "本文研究学习理论中二元概念类的符号秩（sign rank）问题，探讨其与列表可复现性之间的关联与分离。符号秩衡量一个概念类能被点和半空间表示的最小维度，但其下界证明极为困难。论文提出新的下界方法，揭示了符号秩、索引复杂度与列表可复现性之间的理论联系。对AI产品经理而言，该研究虽偏理论，但有助于理解模型表示能力的本质局限，对未来设计更高效、可解释的机器学习系统有潜在指导意义，尤其在需要严格泛化保证的场景。",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.18236v1",
+      "date": "2026-06-17"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1632,
-    "edges": 161752
+    "real_nodes": 1645,
+    "edges": 163398
   }
 }

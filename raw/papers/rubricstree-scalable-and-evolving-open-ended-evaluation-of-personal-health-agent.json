@@ -1,0 +1,35 @@
+{
+  "title": "RubricsTree: Scalable and Evolving Open-Ended Evaluation of Personal Health Agents across Health Memory and Medical Skills",
+  "summary": "The LLM-empowered personal health agents with user health (sensor) metrics have offered a promising pathway to alleviate global disparities in healthcare access. However, large-scale clinical deployment remains constrained by an open-ended evaluation bottleneck: physician annotation is reliable but costly and unscalable, while LLM-as-a-judge evaluators are scalable but subjective, inconsistent, and sometimes clinically misaligned. We introduce RubricsTree, a scalable evaluation framework with an expert-aligned hierarchical taxonomy of over 100 atomic, clinically-verifiable Boolean rubrics, evolving from the insights of 4,000 real user queries through an iterative human-in-the-loop curation protocol with an expertise panel led by an experienced physician. A context-aware adaptive router activates only the relevant auto-weighted rubric subset per query, providing the throughput needed for scalable evaluation with expert-aligned quality. Through a systematic meta-evaluation, we show that RubricsTree (i) substantially exceeds a strong large-scale evaluation baseline in expert alignment on challenging open-ended queries; (ii) reliably penalizes contextually degraded responses; and (iii) when used as structured instructions, text feedback, or training rewards for performance optimization, yields up to ~66% relative gains on HealthBench for Gemini, GPT, and Qwen model families. RubricsTree thus provides a scalable, auditable, and evolving evaluation infrastructure required for the continuous optimization of product-level personal healthcare AI.",
+  "url": "http://arxiv.org/abs/2606.18203v1",
+  "authors": [
+    "Weizhi Zhang",
+    "Zechen Li",
+    "Hamid Palangi",
+    "Ben Graef",
+    "A. Ali Heydari"
+  ],
+  "published": "2026-06-16T17:34:53Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "framework",
+    "evaluation",
+    "eval",
+    "deployment",
+    "protocol",
+    "infrastructure"
+  ],
+  "summary_cn": "本文提出RubricsTree框架，旨在解决个人健康智能体（基于LLM和用户健康传感器数据）的开放评价瓶颈。传统依赖医生标注的方法可靠但成本高、难以规模化。RubricsTree通过构建可扩展且持续演进的评价标准，覆盖健康记忆与医疗技能两大维度，实现自动化、开放式的评估。该技术为健康代理产品的临床大规模部署提供了关键质量保障，具有重要的商业价值——降低人工评测成本、加速产品迭代，同时确保医疗场景下的安全性与专业性。产品创新点在于将模糊的开放任务转化为结构化的分级评估体系，支持动态更新。",
+  "pm_relevance": 7,
+  "concepts": [
+    "健康代理评估",
+    "开放评价",
+    "医疗技能评估"
+  ],
+  "entities": [],
+  "patterns": [
+    "LLM Agent",
+    "Sensor-Based Health AI"
+  ]
+}

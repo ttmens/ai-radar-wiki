@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T12:03:09.176782+08:00",
+  "generated_at": "2026-06-17T18:03:07.723537+08:00",
   "days_analyzed": 41,
   "pillar_trends": {
     "capabilities": {
       "trend": "up",
-      "delta": 4,
-      "current": 5,
+      "delta": 2,
+      "current": 3,
       "previous": 1,
       "has_data": true
     },
@@ -18,8 +18,8 @@
     },
     "ecosystem": {
       "trend": "up",
-      "delta": 2,
-      "current": 3,
+      "delta": 1,
+      "current": 2,
       "previous": 1,
       "has_data": true
     },
@@ -858,11 +858,6 @@
   "contradictions": [
     {
       "date": "2026-06-16",
-      "type": "growth_vs_risk",
-      "description": "Growth validation detected alongside infrastructure/trust bottlenecks."
-    },
-    {
-      "date": "2026-06-17",
       "type": "growth_vs_risk",
       "description": "Growth validation detected alongside infrastructure/trust bottlenecks."
     }
