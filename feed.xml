@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 16 Jun 2026 20:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:13:22 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -18,6 +18,22 @@
       <guid isPermaLink="false">feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak</guid>
       <pubDate>2026-06-17T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> hn</p><hr/><p>美国政府机构对名为Fable 5的AI系统产生强烈担忧，原因并非传统的越狱攻击，而是仅通过一句简单的‘修复这段代码’的提示就触发了系统的潜在风险行为。这表明当前AI在代码生成与修复任务中仍存在不可预见的漏洞，可能被恶意利用导致安全事件。对AI产品经理而言，这一案例强调了必须在AI代码辅助功能中内建更严格的安全审查与行为边界控制，同时提示设计与测试环节需超越传统越狱情景，关注正常功能提示下可能引发的风险。这一事件既警示了技术安全性，也带来商业合规新要求。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>GPT‑NL: a sovereign language model for the Netherlands</title>
+      <link>https://news.ycombinator.com/item?id=48559188</link>
+      <guid isPermaLink="false">gptnl-a-sovereign-language-model-for-the-netherlands</guid>
+      <pubDate>2026-06-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>GPT-NL是荷兰开发的主权语言模型，旨在满足该国对数据主权、语言文化和法规合规的特定需求。技术要点包括：基于本国数据训练、适配荷兰语及低地德语变体、符合欧盟AI法案和GDPR要求；商业价值在于为政府、医疗、法律等敏感行业提供安全可控的本地化AI能力，减少对境外模型的依赖；产品创新体现为模块化架构和区域专属优化，支持定制化部署。该模型强调透明度和可解释性，可赋能公共服务、金融等场景。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Apple is about to make Hide My Email useless</title>
+      <link>https://news.ycombinator.com/item?id=48559935</link>
+      <guid isPermaLink="false">apple-is-about-to-make-hide-my-email-useless</guid>
+      <pubDate>2026-06-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Apple的Hide My Email功能即将因AI技术的发展而失效，可能由于AI驱动的邮件分析或攻击手段能够绕过隐藏地址的保护。这对依赖该功能保护隐私的产品经理是一个警示，需重新评估隐私设计策略。同时，AI在安全领域的进步也可能催生新的防护模式，推动产品创新和用户信任的重新构建。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -53,6 +69,22 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>Sixty percent of US consumers say &amp;#8216;AI&amp;#8217; in brand messaging is a turno</title>
+      <link>https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/</link>
+      <guid isPermaLink="false">sixty-percent-of-us-consumers-say-8216ai8217-in-brand-messaging-is-a-turnoff-sur</guid>
+      <pubDate>2026-06-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>WordPress VIP调查显示，60%的美国消费者对品牌信息中提及“AI”感到反感，反映出用户对AI生成内容的信任度较低。尽管企业将AI搜索视为重要流量渠道，但消费者对AI答案持谨慎态度。对AI产品经理而言，这一发现提醒在产品定位和营销中应避免过度强调AI技术标签，转而聚焦实际价值与用户体验，以降低用户抵触情绪。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Android 17 launches with new multitasking tools as Google expands Gemini feature</title>
+      <link>https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/</link>
+      <guid isPermaLink="false">android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-feature</guid>
+      <pubDate>2026-06-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google 发布 Android 17 与 Wear OS 7，重点强化多任务工具、家长控制及安全功能，并通过 Pixel Drop 将最新 Gemini AI 模型部署到设备端。对AI产品经理而言，这标志着操作系统级AI能力从云向端侧迁移的加速，多任务场景下AI助手的无缝调用（如分屏实时翻译、跨应用智能建议）将重构用户交互范式，同时为第三方开发者提供新的AI集成接口。商业上，Google通过系统级AI差异化巩固移动生态，引导开发者基于Gemini API构建端侧智能应用。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Robinhood&amp;#8217;s note on 10% layoffs shows blaming AI isn&amp;#8217;t cutting it</title>
       <link>https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/</link>
       <guid isPermaLink="false">robinhood8217s-note-on-10-layoffs-shows-blaming-ai-isn8217t-cutting-it</guid>
@@ -61,12 +93,52 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>ChatGPT&amp;#8217;s market share slips below 50% for first time</title>
+      <link>https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/</link>
+      <guid isPermaLink="false">chatgpt8217s-market-share-slips-below-50-for-first-time</guid>
+      <pubDate>2026-06-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>ChatGPT市场份额首次跌至50%以下，但仍以11亿月活跃用户领跑全球AI助手市场，Google Gemini和Anthropic Claude分别以6.62亿和2.45亿月活跃用户紧随其后。这一变化标志着AI助手领域竞争加剧，头部产品用户增长放缓，而差异化产品（如多模态、垂直场景）正在蚕食份额。对产品经理而言，需关注用户需求分层和生态壁垒构建，避免同质化竞争。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Has AI already killed self-help nonfiction books?</title>
+      <link>https://news.ycombinator.com/item?id=48558489</link>
+      <guid isPermaLink="false">has-ai-already-killed-self-help-nonfiction-books</guid>
+      <pubDate>2026-06-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该讨论聚焦AI技术对自助类非虚构书籍的颠覆潜力。AI通过生成个性化建议、对话式指导及动态内容，可能替代传统静态书籍的自我提升功能。产品经理应关注AI内容生成的质量控制、用户信任建立及商业模式（如订阅式AI教练）。这不仅是内容创作效率的提升，更可能重塑知识消费形态，从“读”转向“交互式学习”。商业价值在于降低内容生产成本并实现千人千面的学习体验，但需警惕AI幻觉对权威性的损害。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, a</title>
       <link>https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/</link>
       <guid isPermaLink="false">doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-e</guid>
       <pubDate>2026-06-17T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>美国司法部声称，xAI未获许可的燃气轮机对国家安全、经济和能源安全至关重要，因此五角大楼需要xAI继续运行这些燃气轮机。这反映了AI大规模训练基础设施面临的能源合规挑战——xAI将燃气轮机用于其AI计算集群的电力供应，以支持模型训练。尽管未经环保许可，但出于战略安全考虑，政府允许其临时运行。对AI产品经理而言，这凸显了AI部署中能源基础设施的瓶颈，以及政策与合规风险如何影响算力稳定性，进而影响产品交付时间表和成本。商业价值在于确保AI训练连续性，但也提示需要提前规划绿色能源或合规方案。</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence</title>
+      <link>https://news.ycombinator.com/item?id=48554814</link>
+      <guid isPermaLink="false">qwen-robot-suite-a-foundation-model-suite-for-physical-world-intelligence</guid>
+      <pubDate>2026-06-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Qwen-Robot Suite 是面向物理世界智能的基础模型套件，基于通义千问（Qwen）大模型，旨在赋能机器人感知、决策与控制。技术要点包括多模态理解、场景泛化与实时交互能力；商业价值在于降低机器人开发门槛，推动工业与家庭服务机器人的规模化落地；产品创新体现为将LLM从数字世界延伸至物理世界，实现任务级指令理解与自主执行。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>AI is potentially a Dunning-Kruger effect amplifier</title>
+      <link>https://news.ycombinator.com/item?id=48560913</link>
+      <guid isPermaLink="false">ai-is-potentially-a-dunning-kruger-effect-amplifier</guid>
+      <pubDate>2026-06-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了AI可能放大邓宁-克鲁格效应（即能力低者高估自己、能力高者低估自己）的风险。AI生成高质量但空洞内容的能力，会让缺乏领域知识的用户产生虚假自信，同时让真正专家更怀疑自身判断。对产品经理而言，这意味着在设计AI交互时需加入元认知提示、不确定性标识或能力自评机制，避免用户过度依赖AI而降低真实学习效果。商业价值在于开发‘认知校准’型AI工具，既能提升用户效能，又能防止AI沦为‘无知放大器’。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves</title>
+      <link>https://voicedraw.com/</link>
+      <guid isPermaLink="false">show-hn-voicedraw-talk-system-design-out-loud-the-diagrams-draw-themselves</guid>
+      <pubDate>2026-06-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>VoiceDraw 是一款通过语音交互自动生成系统设计图的 AI 工具，用户只需口头描述架构、组件和关系，即可实时得到可视化图表。该产品降低了系统设计的时间成本，特别适合会议、白板讨论等场景，提升了设计协作效率。其技术创新在于结合语音识别、自然语言理解与图表生成模型，将模糊的口头描述转化为结构化图表。对产品经理而言，这能加速需求澄清和架构对齐，具有显著商业价值。</p></description>
+      <category>📱 产品模式</category>
     </item>
     <item>
       <title>Show HN: Hackers for Granny (defense against industrialized elder fraud)</title>
@@ -99,6 +171,14 @@
       <pubDate>2026-06-17T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>SpaceX valuation balloons to $2.6T, briefly passes Amazon</title>
+      <link>https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/</link>
+      <guid isPermaLink="false">spacex-valuation-balloons-to-26t-briefly-passes-amazon</guid>
+      <pubDate>2026-06-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>SpaceX估值飙升至2.6万亿美元，短暂超越亚马逊，自上周五股票交易启动以来市值增加了1万亿美元。这一巨额估值反映了市场对商业航天和火星殖民愿景的乐观预期，以及SpaceX在重复使用火箭技术和星链（Starlink）卫星互联网服务上的商业成功。对于AI产品经理而言，SpaceX利用AI优化火箭着陆、卫星轨道规划及通信网络优化，展示了AI在重资产、高精度领域的产品化潜力；同时其估值突破传统科技巨头，提示AI+航天、AI+基础设施等垂直场景存在巨大商业价值。</p></description>
+      <category>💰 商业趋势</category>
     </item>
     <item>
       <title>Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?</title>
@@ -330,86 +410,6 @@
       <guid isPermaLink="false">show-hn-can-europe-train-a-frontier-ai-model-on-the-compute-it-owns</guid>
       <pubDate>2026-06-16T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨欧洲是否能用自有计算资源训练出前沿AI模型，核心关注算力主权与地缘政治风险。技术要点在于欧洲当前依赖进口GPU，但正通过联合体（如EuroHPC）和RISC-V/存内计算等自主芯片方案寻求突破。商业价值体现在降低对美依赖、保护数据隐私，并可能孵化出本地化大模型产品。产品创新方面，边缘训练、联邦学习与能耗优化成为差异化方向，为AI产品经理提供“主权AI”新范式参考。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Cohere's First Model for Developers</title>
-      <link>https://news.ycombinator.com/item?id=48489934</link>
-      <guid isPermaLink="false">coheres-first-model-for-developers</guid>
-      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Cohere 推出了首个面向开发者的模型（推测为 Command R 系列），旨在降低企业级 AI 应用的开发门槛。该模型在推理速度、上下文长度和检索增强生成（RAG）方面进行了优化，支持多语言和工具调用，使开发者能够快速构建可靠的对话、搜索和知识管理产品。商业价值在于提供高性能且易于集成的 LLM 替代方案，减少对 OpenAI 等单一供应商的依赖。产品创新体现在专注开发者体验，提供清晰的文档、API 和微调能力，加速从原型到生产的进程。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Why I email complete strangers</title>
-      <link>https://news.ycombinator.com/item?id=48547566</link>
-      <guid isPermaLink="false">why-i-email-complete-strangers</guid>
-      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>这篇文章探讨了主动给陌生人发送邮件的行为动机与策略，可能涉及利用AI工具生成个性化邮件以提高回复率。对于AI产品经理，核心启示在于AI可以优化冷启动沟通的效率和效果，例如通过分析收件人公开信息自动定制内容，提升商务拓展、求职或社交场景的成功率。这体现了AI在人际连接中的实用价值，也暗示了数据隐私与沟通伦理的平衡需求。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Claude Corps</title>
-      <link>https://news.ycombinator.com/item?id=48544637</link>
-      <guid isPermaLink="false">claude-corps</guid>
-      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>The 90-year-old idea behind JEPA models: Canonical Correlation Analysis</title>
-      <link>https://news.ycombinator.com/item?id=48490578</link>
-      <guid isPermaLink="false">the-90-year-old-idea-behind-jepa-models-canonical-correlation-analysis</guid>
-      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>JEPA（联合嵌入预测架构）基于90年前的典型相关分析（CCA）思想，通过预测表征空间中的嵌入来学习，避免了对像素级重建的依赖，显著降低计算成本。这种自监督学习方法提升了模型的数据效率与泛化能力，尤其适合大规模预训练场景。对AI产品经理而言，JEPA有望降低基础模型的训练成本，加速产品迭代，并为多模态理解、视频预测等任务提供更高效的解决方案。其技术本质是优化表征学习，与LLM的next token prediction路径不同，开辟了新的能力演进方向。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Launch HN: Drafted (YC P26) – Models for residential architecture</title>
-      <link>https://news.ycombinator.com/item?id=48543908</link>
-      <guid isPermaLink="false">launch-hn-drafted-yc-p26-models-for-residential-architecture</guid>
-      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Drafted（YC P26）是一家YC孵化的初创公司，专注于为住宅建筑领域开发AI模型。其核心产品可能是生成式AI工具，能够辅助建筑师或业主快速生成住宅设计方案、优化空间布局或自动生成施工图纸。该技术通过训练大量建筑数据，实现个性化设计建议，降低设计门槛和成本。商业价值在于将AI能力垂直应用于建筑行业，提升设计效率，尤其适合中小型项目。产品创新点在于将大模型与专业建筑规范结合，输出符合行业标准的方案。对于AI产品经理，这是一个典型的垂直领域AI应用案例，展示了如何将通用AI能力转化为行业解决方案。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Claude Code for Visual Studio (native diff with accept/reject)</title>
-      <link>https://github.com/firish/claude_code_vs</link>
-      <guid isPermaLink="false">show-hn-claude-code-for-visual-studio-native-diff-with-acceptreject</guid>
-      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Claude Code 推出 Visual Studio 原生扩展，核心亮点是内置 diff 视图并支持逐行接受/拒绝 AI 生成的代码修改。该功能让开发者像审查人工代码一样审查 AI 建议，显著降低误改风险，提升协作可控性。面向产品经理，这意味着 AI 编程助手从“黑盒生成”向“透明协作”演进，可降低团队采纳门槛，提高代码质量与开发效率。该创新符合“AI 辅助编程”趋势，尤其适配需要严格代码审核的企业场景。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>The US government&amp;#8217;s Anthropic models ban was never about an AI jailbreak</title>
-      <link>https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/</link>
-      <guid isPermaLink="false">the-us-government8217s-anthropic-models-ban-was-never-about-an-ai-jailbreak</guid>
-      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Salesforce acquires AI customer service platform Fin for $3.6 billion</title>
-      <link>https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/</link>
-      <guid isPermaLink="false">salesforce-acquires-ai-customer-service-platform-fin-for-36-billion</guid>
-      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Geometric Action Model for Robot Policy Learning</title>
-      <link>http://arxiv.org/abs/2606.17046v1</link>
-      <guid isPermaLink="false">geometric-action-model-for-robot-policy-learning</guid>
-      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Generalist robot policies must follow user instructions while reasoning about how objects, cameras, and robot actions interact in the 3D physical world. Recent vision-language-action models (VLAs) and video world-action models (WAMs) inherit strong semantic or temporal priors from large-scale founda</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Vet turned founder, AI lawn diagnosis</title>
-      <link>https://grassdx.com/</link>
-      <guid isPermaLink="false">show-hn-vet-turned-founder-ai-lawn-diagnosis</guid>
-      <pubDate>2026-06-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该产品由一位退伍军人转型的创业者推出，专注于AI草坪诊断。通过计算机视觉和机器学习模型，用户上传草坪照片即可获得病害、虫害或营养问题的智能识别与建议。技术创新点在于将AI应用于垂直园艺场景，降低专业诊断门槛。商业价值瞄准北美庞大的家庭草坪护理市场，提供低成本、快捷的自动化解决方案。产品创新体现为跨界融合——创始人将兽医领域的诊断经验迁移至植物健康，形成差异化竞争。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
