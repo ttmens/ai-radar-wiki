@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 18 Jun 2026 00:10:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 04:03:06 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -27,6 +27,14 @@
       <pubDate>2026-06-18T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> hn</p><hr/><p>一项调查显示，60%的美国消费者表示在品牌信息中提及“AI”会让他们感到反感，这意味着直接使用“人工智能”一词可能产生负面效果。对AI产品经理而言，这一发现强调了在用户沟通中需要谨慎选择术语，避免技术导向的表述，转而使用更贴近用户实际体验和价值点的语言。例如，强调“智能化推荐”或“自动帮你节省时间”而非直接提及AI。这背后反映了消费者对AI的认知偏差和信任问题，产品经理应在品牌策略中融入用户中心思维，通过具体场景和结果传递AI价值，从而降低抵触情绪、提升接受度。</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Midjourney Medical</title>
+      <link>https://news.ycombinator.com/item?id=48579650</link>
+      <guid isPermaLink="false">midjourney-medical</guid>
+      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Midjourney Medical 是 Midjourney 将生成式 AI 能力延伸至医疗领域的尝试，核心是利用扩散模型生成高质量医学影像（如 X 光、CT、病理切片），辅助医生进行诊断培训、手术规划或患者沟通。其技术要点在于对医学领域数据的微调（fine-tuning），确保生成的图像符合解剖结构和病理特征，同时满足 HIPAA 等医疗合规要求。商业价值体现在降低医疗影像制作成本、加速模拟训练、甚至赋能远程医疗。产品创新在于将通用图像生成模型垂直化，形成专业工具。产品经理需关注医疗场景的精确性、伦理审查和变现模式。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Launch HN: Adam (YC W25) – Open-Source AI CAD</title>
@@ -173,6 +181,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>How to turn off AI in your Google Docs</title>
+      <link>https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/</link>
+      <guid isPermaLink="false">how-to-turn-off-ai-in-your-google-docs</guid>
+      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google Docs 新增 Gemini AI 写作辅助功能，但自动弹出的“用 Gemini 写作”建议干扰不少用户。本文介绍如何关闭该功能，强调用户对 AI 功能开启/关闭的控制权。对产品经理而言，此案例表明 AI 辅助功能需平衡智能与侵入性，提供简洁的退出机制、尊重用户选择是提升体验的关键。同时，产品设计应避免过度提示造成反感，可借鉴“功能开关”模式让用户按需启用，从而降低使用门槛、提升产品接受度。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>A robot is sprinting towards you. Do you want it running on Claude or Grok?</title>
       <link>https://news.ycombinator.com/item?id=48576824</link>
       <guid isPermaLink="false">a-robot-is-sprinting-towards-you-do-you-want-it-running-on-claude-or-grok</guid>
@@ -267,6 +283,14 @@
       <pubDate>2026-06-18T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>前红杉资本合伙人Roelof Botha加入SpaceX董事会，填补现有空缺，时间点恰逢SpaceX完成史上最大规模IPO后数日。这一高管任命体现了SpaceX在上市后加强公司治理与战略决策层的意图，也反映了顶级资本人才向航天科技企业的流动趋势。对AI产品经理而言，该事件本身不直接涉及AI技术或产品创新，但可作为AI/航天交叉领域人才生态与资本运作的参考案例，关注点在于跨界高管如何影响航天AI应用的战略方向。</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Language Courses in the Public Domain</title>
+      <link>https://news.ycombinator.com/item?id=48571482</link>
+      <guid isPermaLink="false">language-courses-in-the-public-domain</guid>
+      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容讨论了利用公共领域（Public Domain）的语言课程数据，可能用于训练或构建AI驱动的语言学习产品。技术点在于如何有效提取和结构化公共领域的文本资源（如经典文学作品、开源教材）作为训练语料，以降低数据获取成本并规避版权问题。商业价值体现在可快速构建低成本、多语种的学习内容库，服务语言教育市场。产品创新点可能包括基于公共领域数据的自适应学习系统或内容生成工具。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Abandoned and Little-Known Airfields</title>
@@ -387,30 +411,6 @@
       <pubDate>2026-06-17T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>根据Ramp的销售数据，Anthropic与特朗普政府的公开冲突反而可能促进其企业业务增长。尽管面临政治压力，Anthropic在商业用户中的受欢迎程度持续攀升，数据表明这种对抗性关系可能强化了其品牌形象和技术独立性。对于AI产品经理而言，这揭示了政治因素如何影响B2B AI产品的市场接受度：政府争议有时能转化为品牌信任和差异化优势。同时，Anthropic的案例也表明，在企业级AI市场中，坚持价值观（如安全与伦理）可能成为竞争壁垒。</p></description>
       <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>ChatGPT&amp;#8217;s market share slips below 50% for first time</title>
-      <link>https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/</link>
-      <guid isPermaLink="false">chatgpt8217s-market-share-slips-below-50-for-first-time</guid>
-      <pubDate>2026-06-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>ChatGPT市场份额首次跌至50%以下，但仍以11亿月活跃用户领跑全球AI助手市场，Google Gemini和Anthropic Claude分别以6.62亿和2.45亿月活跃用户紧随其后。这一变化标志着AI助手领域竞争加剧，头部产品用户增长放缓，而差异化产品（如多模态、垂直场景）正在蚕食份额。对产品经理而言，需关注用户需求分层和生态壁垒构建，避免同质化竞争。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Has AI already killed self-help nonfiction books?</title>
-      <link>https://news.ycombinator.com/item?id=48558489</link>
-      <guid isPermaLink="false">has-ai-already-killed-self-help-nonfiction-books</guid>
-      <pubDate>2026-06-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该讨论聚焦AI技术对自助类非虚构书籍的颠覆潜力。AI通过生成个性化建议、对话式指导及动态内容，可能替代传统静态书籍的自我提升功能。产品经理应关注AI内容生成的质量控制、用户信任建立及商业模式（如订阅式AI教练）。这不仅是内容创作效率的提升，更可能重塑知识消费形态，从“读”转向“交互式学习”。商业价值在于降低内容生产成本并实现千人千面的学习体验，但需警惕AI幻觉对权威性的损害。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More</title>
-      <link>https://news.ycombinator.com/item?id=48563609</link>
-      <guid isPermaLink="false">wolfram-language-and-mathematica-version-15-ai-assistant-symbolic-music-more</guid>
-      <pubDate>2026-06-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Wolfram 发布 Mathematica 15 和 Wolfram Language 新版本，集成 AI Assistant 实现自然语言代码生成与调试，新增符号音乐处理能力允许对乐谱进行代数运算。该版本强化了符号计算与 AI 的融合，为产品经理展示了将大模型深度嵌入专业工具（如数学、音乐创作）的可行路径，降低专业软件使用门槛，并开创了符号化多模态交互的新范式，具有显著的平台生态价值。</p></description>
-      <category>📱 产品模式</category>
     </item>
   </channel>
 </rss>
