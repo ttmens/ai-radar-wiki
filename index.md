@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-18 | Total pages: 1697
+> Last updated: 2026-06-18 | Total pages: 1700
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -214,6 +214,7 @@
 - [[how-is-groq-raising-more-money.md]] How is Groq raising more money? `pillar:capabilities` `score:0.33`
 - [[how-llms-work.md]] How LLMs work `pillar:capabilities` `score:0.295`
 - [[how-terry-tao-became-an-evangelist-for-ai-in-math.md]] How Terry Tao became an evangelist for AI in math `pillar:capabilities` `score:0.48`
+- [[how-to-turn-off-ai-in-your-google-docs.md]] How to turn off AI in your Google Docs `pillar:capabilities` `score:0.41`
 - [[how-turkey-hacked-the-hair-transplant-industry.md]] How turkey hacked the hair-transplant industry `pillar:capabilities` `score:0.43`
 - [[hpcaitechcolossalai.md]] hpcaitech/ColossalAI `pillar:capabilities` `score:0.615`
 - [[html-in-canvas-demos.md]] HTML-in-Canvas Demos `pillar:capabilities` `score:0.225`
@@ -261,6 +262,7 @@
 - [[kv4p-ht-a-homebrew-1w-radio-vhf-or-uhf-that-plugs-into-an-android-phone.md]] Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone `pillar:capabilities` `score:0.255`
 - [[kvarn-native-vllm-backend-for-kv-cache-quantization-by-huawei.md]] KVarN: Native vLLM backend for KV-cache quantization by Huawei `pillar:capabilities` `score:0.43`
 - [[laffaire-siloxane.md]] L'Affaire Siloxane `pillar:capabilities` `score:0.345`
+- [[language-courses-in-the-public-domain.md]] Language Courses in the Public Domain `pillar:capabilities` `score:0.26`
 - [[launch-hn-adam-yc-w25-open-source-ai-cad.md]] Launch HN: Adam (YC W25) – Open-Source AI CAD `pillar:capabilities` `score:0.53`
 - [[launch-hn-drafted-yc-p26-models-for-residential-architecture.md]] Launch HN: Drafted (YC P26) – Models for residential architecture `pillar:capabilities` `score:0.345`
 - [[launch-hn-general-instinct-yc-p26-frontier-models-on-edge-devices.md]] Launch HN: General Instinct (YC P26) – Frontier models on edge devices `pillar:capabilities` `score:0.33`
@@ -295,6 +297,7 @@
 - [[meta8217s-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms.md]] Meta&#8217;s new ‘AI Mode’ on Facebook pulls from public info across its platfor `pillar:capabilities` `score:0.445`
 - [[microsoft-turns-to-aws-as-github-faces-ai-capacity-crunch.md]] Microsoft turns to AWS as GitHub faces AI capacity crunch `pillar:capabilities` `score:0.43`
 - [[microsoftonnxruntime.md]] microsoft/onnxruntime `pillar:capabilities` `score:0.615`
+- [[midjourney-medical.md]] Midjourney Medical `pillar:capabilities` `score:0.595`
 - [[milvus-iomilvus.md]] milvus-io/milvus `pillar:capabilities` `score:0.615`
 - [[mimo-v25-pro-ultraspeed-1t-model-with-1000-tokens-per-second.md]] MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second `pillar:capabilities` `score:0.45`
 - [[mindsdbminds-platform.md]] mindsdb/minds-platform `pillar:capabilities` `score:0.405`

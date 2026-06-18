@@ -1994,3 +1994,8 @@
 - create: only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-n.md
 - create: google-bets-on-gemini-to-reinvent-the-smart-home-speaker.md
 - create: show-hn-mira-open-source-and-self-hosted-ai-code-reviewer.md
+
+## [2026-06-18 12:02] sync v3 | 3 new | pillars: {'capabilities': 3}
+- create: midjourney-medical.md
+- create: language-courses-in-the-public-domain.md
+- create: how-to-turn-off-ai-in-your-google-docs.md

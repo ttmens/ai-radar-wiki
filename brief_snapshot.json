@@ -1,7 +1,7 @@
 {
   "date": "2026-06-18",
-  "generated_at": "2026-06-18T06:05:48.879545+08:00",
-  "item_count": 29,
+  "generated_at": "2026-06-18T12:02:08.967199+08:00",
+  "item_count": 31,
   "items": [
     {
       "id": "glm-52-is-the-new-leading-open-weights-model-on-artificial-analysis",
@@ -23,6 +23,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48569278",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "midjourney-medical",
+      "label": "Midjourney Medical",
+      "summary": "Midjourney Medical 是 Midjourney 将生成式 AI 能力延伸至医疗领域的尝试，核心是利用扩散模型生成高质量医学影像（如 X 光、CT、病理切片），辅助医生进行诊断培训、手术规划或患者沟通。其技术要点在于对医学领域数据的微调（fine-tuning），确保生成的图像符合解剖结构和病理特征，同时满足 HIPAA 等医疗合规要求。商业价值体现在降低医疗影像制作成本、加速模拟训练、甚至赋能远程医疗。产品创新在于将通用图像生成模型垂直化，形成专业工具。产品经理需关注医疗场景的精确性、伦理审查和变现模式。",
+      "pm_score": 0.595,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48579650",
       "date": "2026-06-18"
     },
     {
@@ -224,6 +235,17 @@
       "date": "2026-06-18"
     },
     {
+      "id": "how-to-turn-off-ai-in-your-google-docs",
+      "label": "How to turn off AI in your Google Docs",
+      "summary": "Google Docs 新增 Gemini AI 写作辅助功能，但自动弹出的“用 Gemini 写作”建议干扰不少用户。本文介绍如何关闭该功能，强调用户对 AI 功能开启/关闭的控制权。对产品经理而言，此案例表明 AI 辅助功能需平衡智能与侵入性，提供简洁的退出机制、尊重用户选择是提升体验的关键。同时，产品设计应避免过度提示造成反感，可借鉴“功能开关”模式让用户按需启用，从而降低使用门槛、提升产品接受度。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+      "date": "2026-06-18"
+    },
+    {
       "id": "a-robot-is-sprinting-towards-you-do-you-want-it-running-on-claude-or-grok",
       "label": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
       "summary": "文章探讨了机器人实时决策中AI模型的选择问题，对比Claude与Grok在速度、安全性和适应性上的差异。对于AI产品经理，这提示模型部署到物理世界时需要平衡推理延迟、鲁棒性和伦理约束。商业上，机器人厂商可能将模型授权作为差异化卖点；技术上，模型需要针对硬件优化以实现低延迟控制。产品创新在于将通用对话模型改造为机器人‘大脑’，开辟新的人机交互范式。",
@@ -324,7 +346,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1678,
-    "edges": 166740
+    "real_nodes": 1681,
+    "edges": 168422
   }
 }

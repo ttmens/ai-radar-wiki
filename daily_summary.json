@@ -2,88 +2,104 @@
   "daily_summary": {
     "date": "2026-06-18",
     "headline": "今日 AI 情报 · 2026-06-18",
-    "overview": "AI 从对话迈向自主操作，同时面临用户信任与成本双重考验",
+    "overview": "AI信任危机与ROI清算同时到来，自主操作与用户控制成为关键分化方向",
     "narratives": [
       {
-        "title": "AI 从辅助工具走向自主操作与物理模拟",
-        "body": "多条情报指向 AI 正从被动工具（对话与推荐）向主动代理（自主编码、用户可控算法、世界模型）进化。Google 用 Gemini 重塑智能音箱为持续对话伙伴，Agentic Coding 要求深度 IDE 集成而非聊天框，Odyssey 的世界模型为物理世界模拟铺路。这意味着 PM 需要重新设计交互范式，从“用户指令-机器执行”转向“人机协作-机器自主规划执行”。",
+        "title": "AI从被动对话走向自主操作与物理世界介入",
+        "body": "今日情报集中显示AI能力正从文本生成向可执行任务迁移：开源模型GLM-5.2在推理上超越对手，世界模型获近15亿美元估值，代理式编码需要超越聊天框的深层集成，机器人训练数据瓶颈倒逼数据采集模式创新，以及实时翻译与医学影像生成等垂直应用。这要求AI产品经理提前布局任务执行、数据闭环和合规框架，将产品从“问答工具”升级为“自主代理”。",
         "type": "paradigm_shift",
-        "pillar_key": "patterns"
+        "pillar_key": "capabilities"
       },
       {
-        "title": "消费者信任危机倒逼 AI 产品设计转向务实与透明",
-        "body": "皮尤调查仅 16% 美国人认为 AI 对社会有积极影响，60% 消费者反感品牌提及“AI”，这些信号与华尔街的高估值形成鲜明反差。同时 Snap 昂贵 AR 眼镜遭市场冷遇，Tokenmaxxing 导致预算失控。PM 必须将可解释性、隐私保护、成本可见性纳入产品核心，否则再强的技术也难以规模化。",
-        "type": "bottleneck",
-        "pillar_key": "ecosystem"
+        "title": "AI行业进入信任与ROI清算期",
+        "body": "消费者对AI的负面情绪显著：60%反感品牌提及AI，仅16%认为AI对社会有益；同时企业AI投入失控（Uber数月耗尽年度预算），投资人强调ROI清算。Snap昂贵AR眼镜股价下跌、地缘政治依赖风险增大，都指向市场不再容忍“技术炫技”。产品经理必须将可量化价值、信任构建和成本控制作为核心设计原则。",
+        "type": "maturation",
+        "pillar_key": "business"
+      },
+      {
+        "title": "用户控制与慢科技：AI产品设计的新范式",
+        "body": "社交平台推出用户可控算法、慢科技运动兴起、Google Home转向对话式交互，共同揭示用户对注意力和控制权的需求正在重塑产品模式。AI产品经理需从“被动推荐”转向“用户设定，AI执行”，通过可解释性、个性化权限和深度集成（如IDE）来提升用户掌控感，从而建立长期信任和粘性。",
+        "type": "validation",
+        "pillar_key": "patterns"
       }
     ],
     "insights": [
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "AI 从辅助工具走向自主操作与物理模拟",
-        "insight": "AI 从辅助工具走向自主操作与物理模拟。该方向的具体信号：Google 用 Gemini 替代传统智能音箱的固定指令，实现持续对话（ID:14）；社交平台允许用户直接调节算法（ID:13）体现从黑箱推荐向人机协同控制转变；Agentic Coding 文章（ID:19）批判当前 AI 编码仅为聊天框，呼吁自主执行能力；神经细胞自动机（ID:6）展示生成模型的可自组织、可解释新范式。PM 需拥抱“AI 代理+用户控制”的混合模式，平衡自主性与透明性。",
+        "narrative_title": "用户控制与慢科技：AI产品设计的新范式",
+        "insight": "用户控制与慢科技：AI产品设计的新范式。该方向的具体信号：社交平台允许用户直接调控推荐算法，Threads/Instagram/TikTok等推出可控工具；慢科技革命呼吁技术设计帮助用户对抗手机成瘾；Google Home用生成式AI替代固定指令，实现更自然的对话；AI编码工具需超越简单聊天框，向深度IDE集成演进。这些信号共同指向用户从被动接收者变为主动控制者，产品经理应优先构建可配置、可解释、可退出的用户体验。",
         "evidence": [
           {
             "id": "google-bets-on-gemini-to-reinvent-the-smart-home-speaker",
             "title": "Google bets on Gemini to reinvent the smart home speaker",
             "score": 0.48
-          },
-          {
-            "id": "agentic-coding-deserves-more-than-a-chat-box-bolted-onto-vs-code",
-            "title": "Agentic coding deserves more than a chat box bolted onto VS Code",
-            "score": 0.43
           }
         ]
       },
       {
-        "pillar": "🔧 工具生态",
-        "pillar_key": "ecosystem",
-        "narrative_title": "消费者信任危机倒逼 AI 产品设计转向务实与透明",
-        "insight": "消费者信任危机倒逼 AI 产品设计转向务实与透明。该方向的具体信号：皮尤调查（ID:16）仅16%美国人看好AI，品牌提及AI成减分项（ID:2）；G7领导人担忧单点故障（ID:5）凸显地缘与基础设施风险；Anthropic加入碳去除联盟（ID:18）表明ESG成为AI品牌差异化竞争力。PM需将可解释性、公平性、碳足迹透明化纳入产品规划，并考虑多云/本地化部署以降低依赖风险。",
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI从被动对话走向自主操作与物理世界介入",
+        "insight": "AI从被动对话走向自主操作与物理世界介入。该方向的具体信号：GLM-5.2成为领先开源权重模型；Midjourney Medical切入医学影像生成；Adam开源AI CAD降低设计门槛；机器人训练数据采集面临瓶颈，付费模式已启动；高分辨率神经细胞自动机可模拟自组织行为；DeepL收购Mixhalo将翻译推向实时音频；Pinterest推出对话式购物应用Ask Pinterest；Pramaana Labs获2700万美元种子轮做形式化验证；世界模型初创Odyssey获近15亿美元估值。这些信号表明AI正从文本/图像生成向自主规划、物理模拟、实时交互和关键任务验证全面延伸。",
         "evidence": [
-          {
-            "id": "anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition",
-            "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
-            "score": 0.45
-          }
-        ]
-      },
-      {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "narrative_title": "AI 从辅助工具走向自主操作与物理模拟",
-        "insight": "AI 从辅助工具走向自主操作与物理模拟。该方向的具体信号：Odyssey 世界模型获 15 亿美元估值（ID:12）表明资本押注物理世界模拟；Pramaana Labs 融资 2700 万美元（ID:10）将形式化验证引入关键领域，保障自主系统可靠性；GLM-5.2（ID:1,20）开源进一步降低自主操作门槛。PM 应关注成本控制（Tokenmaxxing 预算失控 ID:11）与商业护城河（ID:17），在自主操作产品中优先设计可量化 ROI 的订阅或用量模型。",
-        "evidence": [
-          {
-            "id": "world-model-maker-odyssey-nabs-145b-valuation-backed-by-amazon-and-other-big-nam",
-            "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon",
-            "score": 0.48
-          },
-          {
-            "id": "pramaana-labs-raises-27m-seed-round-from-khosla-ventures-to-bring-formal-verific",
-            "title": "Pramaana Labs raises $27M seed round for formal verification in AI",
-            "score": 0.48
-          },
-          {
-            "id": "nea8217s-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning",
-            "title": "NEA's Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
-            "score": 0.48
-          },
           {
             "id": "glm-52-is-the-new-leading-open-weights-model-on-artificial-analysis",
             "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
             "score": 0.68
           },
           {
-            "id": "glm-52-performance-benchmarks",
-            "title": "GLM 5.2 Performance Benchmarks",
-            "score": 0.43
+            "id": "midjourney-medical",
+            "title": "Midjourney Medical",
+            "score": 0.59
+          },
+          {
+            "id": "launch-hn-adam-yc-w25-open-source-ai-cad",
+            "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+            "score": 0.53
+          },
+          {
+            "id": "deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation",
+            "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
+            "score": 0.48
+          },
+          {
+            "id": "pinterest-launches-an-experimental-ai-shopping-app-called-8216ask-pinterest8217",
+            "title": "Pinterest launches experimental AI shopping app Ask Pinterest",
+            "score": 0.48
+          },
+          {
+            "id": "pramaana-labs-raises-27m-seed-round-from-khosla-ventures-to-bring-formal-verific",
+            "title": "Pramaana Labs raises $27M seed round for formal verification",
+            "score": 0.48
+          },
+          {
+            "id": "world-model-maker-odyssey-nabs-145b-valuation-backed-by-amazon-and-other-big-nam",
+            "title": "World model maker Odyssey nabs $1.45B valuation",
+            "score": 0.48
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI行业进入信任与ROI清算期",
+        "insight": "AI行业进入信任与ROI清算期。该方向的具体信号：60%美国消费者反感品牌提及AI；仅16%美国人认为AI对社会有积极影响；Uber数月耗尽年度AI预算，部分公司削减Claude许可证；NEA投资人指出ROI清算已至；Snap高价AR眼镜导致股价下跌；G7领袖担忧美国可能切断AI服务；Anthropic加入碳去除联盟凸显ESG责任。这些信号警示产品经理必须将信任建设、成本透明和地缘风险纳入产品策略，用可证明的商业价值替代技术叙事。",
+        "evidence": [
+          {
+            "id": "after-unveiling-ridiculously-expensive-ar-glasses-snap8217s-stock-takes-a-dive",
+            "title": "After unveiling expensive AR glasses, Snap's stock dives",
+            "score": 0.48
+          },
+          {
+            "id": "anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition",
+            "title": "Anthropic joins Frontier carbon removal coalition",
+            "score": 0.45
           }
         ]
       }
     ],
-    "stats": "技术能力: 12 | 产品模式: 3 | 工具生态: 4 | 商业趋势: 5",
+    "stats": "技术能力: 9 | 产品模式: 3 | 工具生态: 3 | 商业趋势: 5",
     "total_items": 20,
     "high_value_count": 20,
     "all_today_ids": [
@@ -94,6 +110,10 @@
       {
         "id": "sixty-percent-of-us-consumers-say-ai-in-brand-messaging-is-a-turnoff",
         "label": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff"
+      },
+      {
+        "id": "midjourney-medical",
+        "label": "Midjourney Medical"
       },
       {
         "id": "launch-hn-adam-yc-w25-open-source-ai-cad",
@@ -168,6 +188,10 @@
         "label": "GLM 5.2 Performance Benchmarks"
       },
       {
+        "id": "how-to-turn-off-ai-in-your-google-docs",
+        "label": "How to turn off AI in your Google Docs"
+      },
+      {
         "id": "a-robot-is-sprinting-towards-you-do-you-want-it-running-on-claude-or-grok",
         "label": "A robot is sprinting towards you. Do you want it running on Claude or Grok?"
       },
@@ -216,11 +240,15 @@
         "label": "Roelof Botha joins SpaceX&#8217;s board of directors"
       },
       {
+        "id": "language-courses-in-the-public-domain",
+        "label": "Language Courses in the Public Domain"
+      },
+      {
         "id": "abandoned-and-little-known-airfields",
         "label": "Abandoned and Little-Known Airfields"
       }
     ],
     "date_bj": "2026-06-18 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-06-18 06:05:24"
+    "generated_at_bj": "2026-06-18 12:01:26"
   }
 }
