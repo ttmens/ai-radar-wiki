@@ -1,283 +1,107 @@
 {
   "daily_summary": {
-    "date": "2026-06-18",
-    "headline": "今日 AI 情报 · 2026-06-18",
-    "overview": "AI产品从技术驱动转向用户中心与成本可控的务实阶段",
+    "date": "2026-06-19",
+    "headline": "今日 AI 情报 · 2026-06-19",
+    "overview": "AI 从对话交互迈向空间感知与可信自主代理",
     "narratives": [
       {
-        "title": "AI产品进入“务实化”阶段：用户信任、ROI与数据瓶颈成为核心挑战",
-        "body": "多项情报共同指向AI行业正从盲目追捧技术转向务实生存：60%消费者对“AI”标签反感，企业面临Token成本失控与ROI清算，物理AI数据采集成本高昂且难以规模化。产品经理需将用户价值而非技术名词置于首位，同时精细化管控预算，并探索合成数据与数据众包等创新数据获取方式。",
+        "title": "AI能力从对话式交互迈向空间感知与多模态自主操作",
+        "body": "今日多条情报指向AI正从纯文本/图像对话扩展到主动理解物理世界的时空关系、实时生成交互式AR体验，以及分离音频成分的能力。这意味着AI产品经理需重新思考产品定位：从被动回答转向主动感知、操作和创造空间内容，尤其是在机器人、自动驾驶、娱乐和通信领域。后续将出现大量结合时空推理的代理产品，对计算延迟和隐私提出更高要求。",
         "type": "paradigm_shift",
-        "pillar_key": "business"
+        "pillar_key": "capabilities"
       },
       {
-        "title": "安全合规从附加功能上升为产品核心壁垒",
-        "body": "ChatGPT图像生成器安全漏洞、Anthropic红队测试政府评估、Pramaana形式化验证融资等事件表明，AI产品的安全性与合规性正成为市场竞争的关键差异化因素。产品经理需将安全测试嵌入开发全周期，并关注形式化验证等新方法在高敏感行业的应用机会。",
-        "type": "bottleneck",
-        "pillar_key": "capabilities"
+        "title": "AI系统的信任基础设施日趋成熟：持久记忆、本地化隐私与监管博弈",
+        "body": "持久化Agent记忆层、本地数据脱敏工具以及AI从业者支持的监管PAC同时出现，表明行业正系统性地解决AI应用的信任短板。产品经理需要将记忆与隐私视为核心体验组件而非事后补丁，主动采用本地优先的AI架构来满足合规和用户期待。监管方面，基层力量的介入可能加速透明度和公平性要求的标准化。",
+        "type": "maturation",
+        "pillar_key": "patterns"
       }
     ],
     "insights": [
       {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "narrative_title": "AI产品进入“务实化”阶段：用户信任、ROI与数据瓶颈成为核心挑战",
-        "insight": "AI产品进入“务实化”阶段：用户信任、ROI与数据瓶颈成为核心挑战。该方向的具体信号：60%美国消费者认为品牌信息中提及“AI”会反感，NEA投资人指出AI ROI清算已至（如Uber数月耗尽年度AI预算），并且物理AI数据采集成本高企迫使实验室采用付费模式。产品经理应转向“结果导向”沟通，从成本中心转向价值证明设计。",
-        "evidence": [
-          {
-            "id": "sixty-percent-of-us-consumers-say-ai-in-brand-messaging-is-a-turnoff",
-            "title": "60%美国消费者认为品牌信息中提及AI会反感",
-            "score": 0.68
-          },
-          {
-            "id": "nea8217s-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning",
-            "title": "NEA投资人：AI ROI清算已至，企业需重新评估投入产出",
-            "score": 0.48
-          }
-        ]
-      },
-      {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "narrative_title": "安全合规从附加功能上升为产品核心壁垒",
-        "insight": "安全合规从附加功能上升为产品核心壁垒。该方向的具体信号：ChatGPT图像生成器可被操纵生成暴力/色情内容暴露安全漏洞；Anthropic派遣黑客参与政府AI安全评估强调红队测试；Pramaana Labs获2700万美元种子轮融资推动形式化验证在AI的应用。产品经理需将安全设计前置，并评估合规带来的商业信任溢价。",
+        "narrative_title": "AI能力从对话式交互迈向空间感知与多模态自主操作",
+        "insight": "AI能力从对话式交互迈向空间感知与多模态自主操作。该方向的具体信号：General Intuition 以20亿估值融资3亿美元专注时空推理，Pixi将短信转化为交互式AR，Deezer开源音频源分离库降低创作门槛——三个案例共同表明AI正从单一模态理解转向实时、多维度的物理世界交互与创造。",
         "evidence": [
           {
-            "id": "chatgpts-image-generator-can-be-manipulated-to-produce-violent-sexual-content",
-            "title": "ChatGPT图像生成器可被操纵生成暴力/色情内容",
-            "score": 0.5
-          },
-          {
-            "id": "the-hacker-sent-by-anthropic-to-calm-the-governments-nerves-about-ai-safety",
-            "title": "Anthropic派遣黑客参与政府AI安全评估，强化红队测试",
+            "id": "general-intuition-in-talks-to-raise-300m-at-around-2b-valuation",
+            "title": "General Intuition in talks to raise $300M at around $2B valuation",
             "score": 0.48
           },
           {
-            "id": "pramaana-labs-raises-27m-seed-round-from-khosla-ventures-to-bring-formal-verific",
-            "title": "Pramaana Labs获2700万美元种子轮融资推动形式化验证",
-            "score": 0.48
+            "id": "pixi8217s-new-ios-app-turns-text-messages-into-interactive-ar-experiences",
+            "title": "Pixi's new iOS app turns text messages into interactive AR experiences",
+            "score": 0.45
+          },
+          {
+            "id": "deezerspleeter",
+            "title": "deezer/spleeter",
+            "score": 0.58
+          }
+        ]
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI系统的信任基础设施日趋成熟：持久记忆、本地化隐私与监管博弈",
+        "insight": "AI系统的信任基础设施日趋成熟：持久记忆、本地化隐私与监管博弈。该方向的具体信号：一个基于Elasticsearch的Agent持久化记忆层实现0.89召回率，同时出现本地数据脱敏工具避免上传敏感信息——两者结合为构建可信、连续的AI产品提供了成熟基础。",
+        "evidence": [
+          {
+            "id": "we-built-a-persistent-agent-memory-layer-on-elasticsearch-with-089-recall",
+            "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
+            "score": 0.43
+          }
+        ]
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "AI系统的信任基础设施日趋成熟：持久记忆、本地化隐私与监管博弈",
+        "insight": "AI系统的信任基础设施日趋成熟：持久记忆、本地化隐私与监管博弈。该方向的具体信号：由科技工作者支持的PAC 'Guardrails' 以500万美元挑战大科技公司的监管游说，标志着AI伦理和合规需求正从外部压力转为行业内部自驱，可能催生新的合规产品与设计标准。",
+        "evidence": [
+          {
+            "id": "a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight",
+            "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech's $100M gunfight",
+            "score": 0.45
           }
         ]
       }
     ],
-    "stats": "技术能力: 14 | 产品模式: 3 | 工具生态: 1 | 商业趋势: 2",
-    "total_items": 20,
-    "high_value_count": 20,
+    "stats": "技术能力: 5 | 产品模式: 1 | 工具生态: 1 | 商业趋势: 0",
+    "total_items": 7,
+    "high_value_count": 7,
     "all_today_ids": [
       {
-        "id": "glm-52-is-the-new-leading-open-weights-model-on-artificial-analysis",
-        "label": "GLM-5.2 is the new leading open weights model on Artificial Analysis"
+        "id": "deezerspleeter",
+        "label": "deezer/spleeter"
       },
       {
-        "id": "sixty-percent-of-us-consumers-say-ai-in-brand-messaging-is-a-turnoff",
-        "label": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff"
+        "id": "emacs-31-is-around-the-corner-the-changes-im-daily-driving",
+        "label": "Emacs 31 Is Around the Corner: The Changes I'm Daily Driving"
       },
       {
-        "id": "midjourney-medical",
-        "label": "Midjourney Medical"
+        "id": "general-intuition-in-talks-to-raise-300m-at-around-2b-valuation",
+        "label": "General Intuition in talks to raise $300M at around $2B valuation"
       },
       {
-        "id": "launch-hn-adam-yc-w25-open-source-ai-cad",
-        "label": "Launch HN: Adam (YC W25) – Open-Source AI CAD"
+        "id": "a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight",
+        "label": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight"
       },
       {
-        "id": "collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-alread",
-        "label": "Collecting robot training data is dirty, unglamorous work. Some AI labs are alre"
+        "id": "pixi8217s-new-ios-app-turns-text-messages-into-interactive-ar-experiences",
+        "label": "Pixi&#8217;s new iOS app turns text messages into interactive AR experiences"
       },
       {
-        "id": "data-intelligence-agents-interpreting-modeling-and-querying-enterprise-data-via",
-        "label": "Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data v"
+        "id": "we-built-a-persistent-agent-memory-layer-on-elasticsearch-with-089-recall",
+        "label": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall"
       },
       {
-        "id": "chatgpts-image-generator-can-be-manipulated-to-produce-violent-sexual-content",
-        "label": "ChatGPT's image generator can be manipulated to produce violent, sexual content"
-      },
-      {
-        "id": "world-leaders-want-american-ai-they-just-don8217t-want-america-to-be-able-to-tur",
-        "label": "World leaders want American AI. They just don&#8217;t want America to be able to"
-      },
-      {
-        "id": "show-hn-high-res-neural-cellular-automata",
-        "label": "Show HN: High-Res Neural Cellular Automata"
-      },
-      {
-        "id": "deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation",
-        "label": "DeepL acquires Mixhalo for live-event audio streaming and translation"
-      },
-      {
-        "id": "pinterest-launches-an-experimental-ai-shopping-app-called-8216ask-pinterest8217",
-        "label": "Pinterest launches an experimental AI shopping app called &#8216;Ask Pinterest&#"
-      },
-      {
-        "id": "the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-att",
-        "label": "The slowtech revolution is here to kill your phone addiction and rescue your att"
-      },
-      {
-        "id": "pramaana-labs-raises-27m-seed-round-from-khosla-ventures-to-bring-formal-verific",
-        "label": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verifi"
-      },
-      {
-        "id": "nea8217s-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning",
-        "label": "NEA&#8217;s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning"
-      },
-      {
-        "id": "world-model-maker-odyssey-nabs-145b-valuation-backed-by-amazon-and-other-big-nam",
-        "label": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big n"
-      },
-      {
-        "id": "social-medias-next-evolution-user-controlled-algorithms",
-        "label": "Social media’s next evolution: user-controlled algorithms"
-      },
-      {
-        "id": "google-bets-on-gemini-to-reinvent-the-smart-home-speaker",
-        "label": "Google bets on Gemini to reinvent the smart home speaker"
-      },
-      {
-        "id": "after-unveiling-ridiculously-expensive-ar-glasses-snap8217s-stock-takes-a-dive",
-        "label": "After unveiling ridiculously expensive AR glasses, Snap&#8217;s stock takes a di"
-      },
-      {
-        "id": "the-hacker-sent-by-anthropic-to-calm-the-governments-nerves-about-ai-safety",
-        "label": "The hacker sent by Anthropic to calm the government's nerves about AI safety"
-      },
-      {
-        "id": "diffusion-proof-recipe-for-formal-theorem-proving-beyond-auto-regressive-generat",
-        "label": "Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Genera"
-      },
-      {
-        "id": "does-vla-even-know-the-basics-measuring-commonsense-and-world-knowledge-retentio",
-        "label": "Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retenti"
-      },
-      {
-        "id": "freeing-the-law-with-locus-a-local-ordinance-corpus-for-the-united-states",
-        "label": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States"
-      },
-      {
-        "id": "rethinking-reward-supervision-rubric-conditioned-self-distillation",
-        "label": "Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation"
-      },
-      {
-        "id": "p-k-gcn-physics-augmented-koopman-enhanced-graph-convolutional-network-for-deep",
-        "label": "P-K-GCN: Physics-augmented Koopman-enhanced Graph Convolutional Network for Deep"
-      },
-      {
-        "id": "only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-n",
-        "label": "Only 16 percent of Americans think AI will have a positive impact on society, a"
-      },
-      {
-        "id": "the-competitive-moat-that-ai-cant-replicate",
-        "label": "The Competitive Moat That AI Can't Replicate"
-      },
-      {
-        "id": "anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition",
-        "label": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition"
-      },
-      {
-        "id": "optimal-scenario-design-for-climate-emulation",
-        "label": "Optimal scenario design for climate emulation"
-      },
-      {
-        "id": "explaining-attention-with-program-synthesis",
-        "label": "Explaining Attention with Program Synthesis"
-      },
-      {
-        "id": "reference-driven-multi-speaker-audio-scene-generation-from-in-the-wild-priors",
-        "label": "Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors"
-      },
-      {
-        "id": "agentic-coding-deserves-more-than-a-chat-box-bolted-onto-vs-code",
-        "label": "Agentic coding deserves more than a chat box bolted onto VS Code"
-      },
-      {
-        "id": "glm-52-performance-benchmarks",
-        "label": "GLM 5.2 Performance Benchmarks"
-      },
-      {
-        "id": "how-to-turn-off-ai-in-your-google-docs",
-        "label": "How to turn off AI in your Google Docs"
-      },
-      {
-        "id": "the-chandra-gaia-catalog-of-counterparts-resolving-ambiguous-gaia-matches-to-x-r",
-        "label": "The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-"
-      },
-      {
-        "id": "a-robot-is-sprinting-towards-you-do-you-want-it-running-on-claude-or-grok",
-        "label": "A robot is sprinting towards you. Do you want it running on Claude or Grok?"
-      },
-      {
-        "id": "ai-demands-more-engineering-discipline-not-less",
-        "label": "AI demands more engineering discipline. Not less"
-      },
-      {
-        "id": "the-australian-government-to-require-smsmms-sender-id-registraion",
-        "label": "The Australian Government to Require SMS/MMS Sender ID Registraion"
-      },
-      {
-        "id": "canadian-pension-giant-joins-race-to-fund-india8217s-ai-fueled-data-center-boom",
-        "label": "Canadian pension giant joins race to fund India&#8217;s AI-fueled data center bo"
-      },
-      {
-        "id": "trex-an-ai-code-reviewer-that-runs-your-code",
-        "label": "TREX: An AI code reviewer that runs your code"
-      },
-      {
-        "id": "french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation",
-        "label": "French physicist and media star loses doctorate after plagiarism investigation"
-      },
-      {
-        "id": "leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year",
-        "label": "Leaked financial docs show OpenAI is losing billions of dollars a year"
-      },
-      {
-        "id": "show-hn-mira-open-source-and-self-hosted-ai-code-reviewer",
-        "label": "Show HN: Mira – Open-source and self-hosted AI code reviewer"
-      },
-      {
-        "id": "show-hn-blitzgraph-supabase-for-graphs-built-for-llm-agents",
-        "label": "Show HN: BlitzGraph – Supabase for graphs, built for LLM agents"
-      },
-      {
-        "id": "show-hn-i-built-184-free-browser-tools-pdf-image-dev-ai-tasks-no-upload",
-        "label": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload"
-      },
-      {
-        "id": "neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi",
-        "label": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI"
-      },
-      {
-        "id": "ubp2-uncertainty-balanced-preference-planning-for-efficient-preference-based-rei",
-        "label": "UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Re"
-      },
-      {
-        "id": "confidence-is-not-reliability-rethinking-mc-dropout-in-brain-tumour-segmentation",
-        "label": "Confidence is Not Reliability: Rethinking MC Dropout in Brain Tumour Segmentatio"
-      },
-      {
-        "id": "using-ai-to-improve-a-challenging-reaction-in-medicinal-chemistry",
-        "label": "Using AI to improve a challenging reaction in medicinal chemistry"
-      },
-      {
-        "id": "making-food-out-of-thin-air-2024",
-        "label": "Making 'food out of thin air' (2024)"
-      },
-      {
-        "id": "roelof-botha-joins-spacex8217s-board-of-directors",
-        "label": "Roelof Botha joins SpaceX&#8217;s board of directors"
-      },
-      {
-        "id": "ai-compute-extensions-ace-specification",
-        "label": "AI Compute Extensions (ACE) Specification"
-      },
-      {
-        "id": "language-courses-in-the-public-domain",
-        "label": "Language Courses in the Public Domain"
-      },
-      {
-        "id": "abandoned-and-little-known-airfields",
-        "label": "Abandoned and Little-Known Airfields"
+        "id": "show-hn-local-personal-data-redaction-for-any-ai-tools",
+        "label": "Show HN: Local personal data redaction for any AI tools"
       }
     ],
-    "date_bj": "2026-06-18 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-06-18 18:01:46"
+    "date_bj": "2026-06-19 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-06-19 00:01:53"
   }
 }

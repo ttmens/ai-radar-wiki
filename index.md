@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-18 | Total pages: 1717
+> Last updated: 2026-06-19 | Total pages: 1724
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -138,6 +138,7 @@
 - [[deepspeedaideepspeed.md]] deepspeedai/DeepSpeed `pillar:capabilities` `score:0.615`
 - [[deepswe-a-contamination-free-benchmark-for-long-horizon-coding-agents.md]] DeepSWE: A contamination-free benchmark for long-horizon coding agents `pillar:capabilities` `score:0.33`
 - [[deezer8217s-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others.md]] Deezer&#8217;s new tool can identify AI music from Spotify, Apple Music, and oth `pillar:capabilities` `score:0.48`
+- [[deezerspleeter.md]] deezer/spleeter `pillar:capabilities` `score:0.58`
 - [[deficient-executive-control-in-transformer-attention.md]] Deficient executive control in transformer attention `pillar:capabilities` `score:0.295`
 - [[demand-is-booming-for-new-no-tech-repairable-tractor.md]] Demand Is Booming for New No Tech, Repairable Tractor `pillar:capabilities` `score:0.31`
 - [[details-of-the-daring-airdrop-at-tristan-da-cunha.md]] Details of the Daring Airdrop at Tristan Da Cunha `pillar:capabilities` `score:0.305`
@@ -156,6 +157,7 @@
 - [[ear-training-practice-exercises.md]] Ear Training Practice Exercises `pillar:capabilities` `score:0.445`
 - [[efficient-and-training-free-single-image-diffusion-models.md]] Efficient and Training-Free Single-Image Diffusion Models `pillar:capabilities` `score:0.33`
 - [[elevenlabs8217s-new-music-generation-model-can-switch-genres-mid-track.md]] ElevenLabs&#8217;s new music generation model can switch genres mid-track `pillar:capabilities` `score:0.48`
+- [[emacs-31-is-around-the-corner-the-changes-im-daily-driving.md]] Emacs 31 Is Around the Corner: The Changes I'm Daily Driving `pillar:capabilities` `score:0.565`
 - [[entanglement-builds-space-time-now-magic-gives-it-gravity.md]] Entanglement Builds Space-Time. Now "Magic" Gives It Gravity `pillar:capabilities` `score:0.34`
 - [[everyone-against-us-2023.md]] Everyone Against Us (2023) `pillar:capabilities` `score:0.225`
 - [[expertise-in-the-age-of-ai.md]] Expertise in the Age of AI `pillar:capabilities` `score:0.38`
@@ -178,6 +180,7 @@
 - [[gemini-omni.md]] Gemini Omni `pillar:capabilities` `score:0.53`
 - [[gemma-4-12b-a-unified-encoder-free-multimodal-model.md]] Gemma 4 12B: A unified, encoder-free multimodal model `pillar:capabilities` `score:0.68`
 - [[gemma-4-qat-models-optimizing-compression-for-mobile-and-laptop-efficiency.md]] Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency `pillar:capabilities` `score:0.53`
+- [[general-intuition-in-talks-to-raise-300m-at-around-2b-valuation.md]] General Intuition in talks to raise $300M at around $2B valuation `pillar:capabilities` `score:0.48`
 - [[github-actions-down-again-today.md]] GitHub Actions down again today `pillar:capabilities` `score:0.645`
 - [[github-and-the-crime-against-software.md]] GitHub and the crime against software `pillar:capabilities` `score:0.53`
 - [[glm-52-is-the-new-leading-open-weights-model-on-artificial-analysis.md]] GLM-5.2 is the new leading open weights model on Artificial Analysis `pillar:capabilities` `score:0.68`
@@ -349,6 +352,7 @@
 - [[oxcaml-in-space.md]] O(x)Caml in Space `pillar:capabilities` `score:0.275`
 - [[paddlepaddlepaddle.md]] PaddlePaddle/Paddle `pillar:capabilities` `score:0.615`
 - [[pinterest-launches-an-experimental-ai-shopping-app-called-8216ask-pinterest8217.md]] Pinterest launches an experimental AI shopping app called &#8216;Ask Pinterest&# `pillar:capabilities` `score:0.48`
+- [[pixi8217s-new-ios-app-turns-text-messages-into-interactive-ar-experiences.md]] Pixi&#8217;s new iOS app turns text messages into interactive AR experiences `pillar:capabilities` `score:0.445`
 - [[playing-with-vision-embeddings.md]] Playing with Vision Embeddings `pillar:capabilities` `score:0.345`
 - [[please-use-ai.md]] Please Use AI `pillar:capabilities` `score:0.645`
 - [[pokémon-go-scans-trained-the-navigation-tech-for-military-drones.md]] Pokémon Go Scans Trained the Navigation Tech for Military Drones `pillar:capabilities` `score:0.58`
@@ -421,6 +425,7 @@
 - [[show-hn-iresearch-c-search-that-beat-lucene-and-tantivy-on-their-benchmark.md]] Show HN: IResearch – C++ search that beat Lucene and Tantivy on their benchmark `pillar:capabilities` `score:0.33`
 - [[show-hn-lance-imagevideo-generation-and-understanding-in-one-model.md]] Show HN: Lance – image/video generation and understanding in one model `pillar:capabilities` `score:0.365`
 - [[show-hn-lathe-use-llms-to-learn-a-new-domain-not-skip-past-it.md]] Show HN: Lathe – Use LLMs to learn a new domain, not skip past it `pillar:capabilities` `score:0.38`
+- [[show-hn-local-personal-data-redaction-for-any-ai-tools.md]] Show HN: Local personal data redaction for any AI tools `pillar:capabilities` `score:0.33`
 - [[show-hn-lowfat-pluggable-cli-filter-that-saved-918-of-my-llm-tokens.md]] Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens `pillar:capabilities` `score:0.415`
 - [[show-hn-mira-open-source-and-self-hosted-ai-code-reviewer.md]] Show HN: Mira – Open-source and self-hosted AI code reviewer `pillar:capabilities` `score:0.33`
 - [[show-hn-nightwatch-the-open-source-read-only-ai-sre.md]] Show HN: Nightwatch, The open-source, read-only AI SRE `pillar:capabilities` `score:0.295`
@@ -1126,6 +1131,7 @@
 - [[visa-invests-in-replit-to-power-agentic-payments-for-developers.md]] Visa invests in Replit to power agentic payments for developers `pillar:patterns` `score:0.48`
 - [[voice-ai-in-india-is-hard-wispr-flow-is-betting-o.md]] Voice AI in India is hard. Wispr Flow is betting on it anyway. `pillar:patterns` `score:0.48`
 - [[voideditorvoid.md]] voideditor/void `pillar:patterns` `score:0.51`
+- [[we-built-a-persistent-agent-memory-layer-on-elasticsearch-with-089-recall.md]] We built a persistent agent memory layer on Elasticsearch with 0.89 recall `pillar:patterns` `score:0.43`
 - [[we-mould-trees-to-grow-into-the-shape-of-chairs.md]] 'We mould trees to grow into the shape of chairs' `pillar:patterns` `score:0.41`
 - [[we-tried-googles-ai-glasses-and-theyre-almost-there.md]] We tried Google’s AI glasses and they’re almost there `pillar:patterns` `score:0.48`
 - [[what-clickup8217s-mass-layoff-tells-us-about-the-future-of-work.md]] What ClickUp&#8217;s mass layoff tells us about the future of work `pillar:patterns` `score:0.515`
@@ -1173,6 +1179,7 @@
 > Orchestration, VectorDB, Evaluation, Open Source
 - [[2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026.md]] 2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026 `pillar:ecosystem` `score:0.34`
 - [[5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-incre.md]] 5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices inc `pillar:ecosystem` `score:0.305`
+- [[a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight.md]] A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight `pillar:ecosystem` `score:0.445`
 - [[aaif-goosegoose.md]] aaif-goose/goose `pillar:ecosystem` `score:0.58`
 - [[adafruit-receives-demand-letter-from-fenwick-legal-counsel-on-behalf-of-fluxai.md]] Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai `pillar:ecosystem` `score:0.565`
 - [[agentic-app-coding-gets-an-upgrade-with-google8217s-release-of-android-cli.md]] Agentic app coding gets an upgrade with Google&#8217;s release of Android CLI `pillar:ecosystem` `score:0.48`

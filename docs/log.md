@@ -2018,3 +2018,12 @@
 - create: the-hacker-sent-by-anthropic-to-calm-the-governments-nerves-about-ai-safety.md
 - create: chatgpts-image-generator-can-be-manipulated-to-produce-violent-sexual-content.md
 - create: show-hn-blitzgraph-supabase-for-graphs-built-for-llm-agents.md
+
+## [2026-06-19 00:02] sync v3 | 7 new | pillars: {'capabilities': 6, 'patterns': 1}
+- create: deezerspleeter.md
+- create: emacs-31-is-around-the-corner-the-changes-im-daily-driving.md
+- create: we-built-a-persistent-agent-memory-layer-on-elasticsearch-with-089-recall.md
+- create: general-intuition-in-talks-to-raise-300m-at-around-2b-valuation.md
+- create: a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight.md
+- create: pixi8217s-new-ios-app-turns-text-messages-into-interactive-ar-experiences.md
+- create: show-hn-local-personal-data-redaction-for-any-ai-tools.md
