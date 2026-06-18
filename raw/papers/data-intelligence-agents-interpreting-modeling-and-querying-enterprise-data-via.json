@@ -1,0 +1,32 @@
+{
+  "title": "Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data via Autonomous Coding Agents",
+  "summary": "Production data integration is bottlenecked by repeated, lossy handoffs between data owners, engineers, and analysts who must collaboratively discover, structure, and query enterprise data. We present Data Intelligence Agents (DIA), a system of three agents (Data Interpreter, Schema Creator, and Query Generator) that compresses this workflow by treating autonomous coding agents (ACAs) as a first-class abstraction: rather than emitting text, the agents generate, execute, validate, and repair concrete artifacts, draw on a shared memory for experience reuse, and surface each for review by domain experts. DIA is deployed in production for enterprise customers. We study the Query Generator in depth and evaluate it in fully autonomous mode across seven SQL benchmarks spanning four task categories and four dialects. It matches or surpasses the best published results on all seven, demonstrating that an architecture grounded in execution, built on ACAs and a shared memory, generalizes across the data intelligence workload with adaptation confined to natural-language instructions.",
+  "url": "http://arxiv.org/abs/2606.19319v1",
+  "authors": [
+    "Anoushka Vyas",
+    "Aarushi Dhanuka",
+    "Sina Khoshfetrat Pakazad",
+    "Henrik Ohlsson"
+  ],
+  "published": "2026-06-17T17:45:32Z",
+  "tag": "Paper",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent",
+    "workflow",
+    "memory",
+    "autonomous"
+  ],
+  "summary_cn": "Data Intelligence Agents (DIA) 是一个多代理系统，通过三个自主编码代理（数据解释器、模式创建器、查询引擎）自动化企业数据的解释、建模和查询。它解决了传统数据集成中数据所有者、工程师和分析师之间重复且损失严重的交接问题，显著提升生产效率。该方案将AI作为数据流水线的智能编排层，降低了数据集成的人力成本和错误率，为企业数据治理提供了可扩展的AI驱动模式。对于AI产品经理而言，这是一个典型的多代理协作与代码生成结合的产品创新案例。",
+  "pm_relevance": 9,
+  "concepts": [
+    "Data Agents",
+    "Autonomous Coding",
+    "Enterprise Data Integration"
+  ],
+  "entities": [],
+  "patterns": [
+    "Multi-Agent Pattern",
+    "Autonomous Coding Pattern"
+  ]
+}

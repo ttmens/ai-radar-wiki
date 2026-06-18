@@ -1,7 +1,7 @@
 {
   "date": "2026-06-18",
-  "generated_at": "2026-06-18T12:02:08.967199+08:00",
-  "item_count": 31,
+  "generated_at": "2026-06-18T18:02:06.254378+08:00",
+  "item_count": 47,
   "items": [
     {
       "id": "glm-52-is-the-new-leading-open-weights-model-on-artificial-analysis",
@@ -56,6 +56,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "data-intelligence-agents-interpreting-modeling-and-querying-enterprise-data-via",
+      "label": "Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data v",
+      "summary": "Data Intelligence Agents (DIA) 是一个多代理系统，通过三个自主编码代理（数据解释器、模式创建器、查询引擎）自动化企业数据的解释、建模和查询。它解决了传统数据集成中数据所有者、工程师和分析师之间重复且损失严重的交接问题，显著提升生产效率。该方案将AI作为数据流水线的智能编排层，降低了数据集成的人力成本和错误率，为企业数据治理提供了可扩展的AI驱动模式。对于AI产品经理而言，这是一个典型的多代理协作与代码生成结合的产品创新案例。",
+      "pm_score": 0.515,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.19319v1",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "chatgpts-image-generator-can-be-manipulated-to-produce-violent-sexual-content",
+      "label": "ChatGPT's image generator can be manipulated to produce violent, sexual content",
+      "summary": "ChatGPT的图像生成功能被发现存在安全漏洞，可通过特定提示词操纵生成暴力或色情内容。这暴露了模型在内容审核和安全过滤方面的不足，对AI产品的合规性、品牌声誉构成直接威胁。产品经理需关注模型滥用风险、强化提示注入防护机制，并建立红队测试流程。该问题凸显了多模态模型在开放性场景下安全管控的挑战，商业价值在于推动更可靠的生成安全框架与道德边界设定。",
+      "pm_score": 0.5,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48578894",
       "date": "2026-06-18"
     },
     {
@@ -180,6 +202,72 @@
       "date": "2026-06-18"
     },
     {
+      "id": "the-hacker-sent-by-anthropic-to-calm-the-governments-nerves-about-ai-safety",
+      "label": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
+      "summary": "本文报道了 Anthropic 派遣黑客（安全研究员）参与政府 AI 安全评估，旨在缓解监管层对 AI 风险的担忧。核心是红队测试（Red Teaming）方法论在产业级 AI 安全中的应用，通过实战攻击模拟发现系统漏洞，为产品发布前的安全认证提供依据。商业价值在于帮助企业满足政府合规要求、降低政策风险，并建立行业信任。产品创新体现在将安全测试流程标准化、工具化，嵌入 AI 开发全周期。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48575451",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "diffusion-proof-recipe-for-formal-theorem-proving-beyond-auto-regressive-generat",
+      "label": "Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Genera",
+      "summary": "本文提出一种超越自回归生成的形式定理证明方法，通过扩散模型或其他非自回归技术增强大语言模型的数学推理能力。该方法有望提升形式化证明的准确性和效率，降低对传统逐步生成依赖，适用于自动化数学验证、程序合成等场景。商业价值在于加速数学理论验证、增强AI在教育和科研中的可信度，产品创新体现在融合扩散过程与定理证明，实现更灵活、鲁棒的推理路径。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.19315v1",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "does-vla-even-know-the-basics-measuring-commonsense-and-world-knowledge-retentio",
+      "label": "Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retenti",
+      "summary": "VLA（视觉-语言-动作）模型通常通过对强大的预训练视觉语言模型进行微调得到，但微调后可能丢失常识和事实知识，导致在知识敏感任务中失败。该研究旨在评估VLA模型在领域适应后对常识和世界知识的保留程度，从而区分是缺乏知识还是其他原因导致的失败。对于产品经理，确保机器人模型在微调后仍具备可靠常识知识，是提升实际任务成功率的关键。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.19297v1",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "freeing-the-law-with-locus-a-local-ordinance-corpus-for-the-united-states",
+      "label": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
+      "summary": "LOCUS项目构建了美国首个大规模、机器可读的地方条例语料库，覆盖市、县层面的法规。此前法律AI研究多依赖联邦或州级法律，地方条例的缺失限制了合规审查、政策分析等应用。该语料库采用结构化格式，便于高效检索与训练法律语言模型。商业价值在于赋能法律科技产品（如自动合规检查、地产政策分析），使AI能处理此前难以获取的分散化法律文本。技术要点包括数据爬取、去重、标准化流程，以及对不同法律文本模式的统一表示。产品创新体现在为垂直领域提供高质量、低噪声的训练数据，降低法律AI的部署门槛。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.19334v1",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "rethinking-reward-supervision-rubric-conditioned-self-distillation",
+      "label": "Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation",
+      "summary": "本文提出一种名为“基于评分条件的自蒸馏”（Rubric-Conditioned Self-Distillation）的新奖励监督方法，用于改进推理语言模型的后训练。现有蒸馏依赖昂贵且可能不准确的链式思维标注，而本方法通过引入评分标准（rubric）作为条件，让模型生成自我纠正的推理路径，再利用这些路径进行自蒸馏训练，减少人工标注成本并提升推理准确性。该技术有望降低模型对齐门槛，加速高质量推理模型的迭代，尤其适合需要复杂逻辑推理的垂直场景（如医疗诊断、法律分析）。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.19327v1",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "p-k-gcn-physics-augmented-koopman-enhanced-graph-convolutional-network-for-deep",
+      "label": "P-K-GCN: Physics-augmented Koopman-enhanced Graph Convolutional Network for Deep",
+      "summary": "该论文提出了一种物理增强的Koopman图卷积网络（P-K-GCN），用于深层时空超分辨率。传统数据驱动方法缺乏物理约束，而P-K-GCN通过融合物理先验和图神经网络，从粗粒度输入高效重建高分辨率时空动态数据。该方法在保持物理一致性的同时显著降低计算成本，适用于天气预测、流体力学、工程仿真等需要高保真模拟的场景。产品经理可关注其作为AI基础设施能力，降低产品对昂贵高分辨率仿真的依赖，提升实时决策效率。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.19303v1",
+      "date": "2026-06-18"
+    },
+    {
       "id": "only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-n",
       "label": "Only 16 percent of Americans think AI will have a positive impact on society, a",
       "summary": "皮尤研究中心最新研究显示，仅有16%的美国人认为AI会对社会产生积极影响，反映出公众对AI的信任度远低于华尔街的热情。对于AI产品经理而言，这一数据敲响警钟：用户信任危机可能成为产品落地的关键障碍。未来设计AI产品时，需优先考虑可解释性、公平性、隐私保护和用户控制权，通过透明沟通与伦理合规建立公众信心，否则即使技术领先也难以获得市场接纳。监管风险随之上升，产品策略应主动适应社会期望。",
@@ -210,6 +298,39 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "optimal-scenario-design-for-climate-emulation",
+      "label": "Optimal scenario design for climate emulation",
+      "summary": "本文针对深度学习在物理系统（如气候仿真）中的应用，指出当前提升泛化性的研究多聚焦于设计嵌入物理约束的架构。然而，对于机器学习替代气候模型（emulators），研究发现低结构多样性才是限制泛化的关键因素。通过优化场景设计（而非仅改进架构），可以显著提升仿真准确性与鲁棒性。这一发现为AI产品经理提供了新思路：在构建气候相关应用（如风险评估、政策模拟）时，应优先考虑训练数据的场景多样性，而非过度依赖模型结构创新，从而以更低成本获得更可靠的预测能力，加速AI在气候领域的商业化落地。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.19302v1",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "explaining-attention-with-program-synthesis",
+      "label": "Explaining Attention with Program Synthesis",
+      "summary": "本文提出利用程序合成技术来解释深度网络中的注意力机制，将黑盒神经计算转换为人类可理解的符号化程序描述。该方法通过生成可执行的程序来近似注意力头的内部行为，从而提升模型的可解释性。对于AI产品经理而言，该技术有助于构建更透明、可信赖的AI系统，尤其在合规审计、模型调试和用户信任方面具有商业价值。产品创新点在于用程序化规则替代原有不可解释的注意力权重，使模型决策逻辑可追溯、可验证，为可解释AI落地提供新思路。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.19317v1",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "reference-driven-multi-speaker-audio-scene-generation-from-in-the-wild-priors",
+      "label": "Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors",
+      "summary": "该论文提出一种参考驱动的多说话人音频场景生成方法，利用野外先验（非结构化数据）生成带有环境纹理的逼真多说话人音频。与传统依赖结构化监督（如每轮标签、多流转录或可学习说话人嵌入）的语音合成系统不同，该方法无需干净语音流水线，能够自然融合背景音和环境声，提升沉浸感。技术要点在于从参考音频中提取先验特征并驱动场景生成。商业价值体现在VR/AR沉浸体验、影视配音、游戏音效、多说话人语音助手等场景，可降低人工标注成本并提升真实感。产品创新在于突破结构化数据依赖，实现端到端音频场景生成。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.19325v1",
       "date": "2026-06-18"
     },
     {
@@ -246,6 +367,17 @@
       "date": "2026-06-18"
     },
     {
+      "id": "the-chandra-gaia-catalog-of-counterparts-resolving-ambiguous-gaia-matches-to-x-r",
+      "label": "The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-",
+      "summary": "该论文提出利用机器学习框架解决钱德拉X射线源目录（CSC v2.1）与盖亚光学源目录（DR3）之间的交叉匹配问题。区别于传统纯空间匹配方法，该方法综合运用源的亮度、颜色和距离等多维属性，训练分类器识别真实对应体并排除偶然重合。技术核心是将天文数据匹配转化为监督学习任务，提升匹配精度与召回率。商业价值在于为天文大数据融合提供高效自动化方案，加速多波段天体物理发现。产品创新体现在用属性特征替代单一位置约束，降低误匹配风险，适用于跨设备、多模态数据关联场景。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.19329v1",
+      "date": "2026-06-18"
+    },
+    {
       "id": "a-robot-is-sprinting-towards-you-do-you-want-it-running-on-claude-or-grok",
       "label": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
       "summary": "文章探讨了机器人实时决策中AI模型的选择问题，对比Claude与Grok在速度、安全性和适应性上的差异。对于AI产品经理，这提示模型部署到物理世界时需要平衡推理延迟、鲁棒性和伦理约束。商业上，机器人厂商可能将模型授权作为差异化卖点；技术上，模型需要针对硬件优化以实现低延迟控制。产品创新在于将通用对话模型改造为机器人‘大脑’，开辟新的人机交互范式。",
@@ -265,6 +397,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48570948",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "the-australian-government-to-require-smsmms-sender-id-registraion",
+      "label": "The Australian Government to Require SMS/MMS Sender ID Registraion",
+      "summary": "澳大利亚政府将强制要求短信/彩信发送者ID注册，这意味着所有发送SMS/MMS的组织必须预先注册其发送者ID（如品牌名称或号码），以防止身份冒充和诈骗。对于AI产品经理，若产品涉及自动发送短信通知、验证码或营销消息，需集成发送者ID注册流程，确保合规并提升用户信任。此政策可能推动消息发送平台增加身份验证API，并影响AI客服、营销自动化等场景的通信策略。商业价值在于减少诈骗风险、增强品牌可信度，产品创新方向包括自动化注册与合规监测工具。",
+      "pm_score": 0.375,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48581489",
       "date": "2026-06-18"
     },
     {
@@ -323,6 +466,17 @@
       "date": "2026-06-18"
     },
     {
+      "id": "show-hn-blitzgraph-supabase-for-graphs-built-for-llm-agents",
+      "label": "Show HN: BlitzGraph – Supabase for graphs, built for LLM agents",
+      "summary": "BlitzGraph 是一个专为 LLM 代理设计的图数据库即服务产品，类比于 Supabase 但在图数据领域。它提供高效的图形存储和查询能力，旨在帮助 AI 代理更好地管理和利用结构化知识，支持复杂的关系推理和动态上下文维护。该工具降低了 AI 应用构建图数据基础设施的门槛，有望提升代理的记忆、规划和决策能力。对于产品经理而言，这代表了一种将图数据库与代理架构结合的新兴模式，可应用于知识图谱、多跳推理和长期记忆等场景。",
+      "pm_score": 0.33,
+      "pillar": "patterns",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://blitzgraph.com",
+      "date": "2026-06-18"
+    },
+    {
       "id": "show-hn-i-built-184-free-browser-tools-pdf-image-dev-ai-tasks-no-upload",
       "label": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
       "summary": "该产品为184个免费浏览器工具集合，涵盖PDF处理、图像编辑、开发辅助及AI任务，核心特点为所有操作均在客户端完成，无需上传文件至服务器，保障用户隐私和数据安全。技术层面可能依赖WebAssembly或JavaScript实现本地高效处理，避免了数据传输延迟和服务器成本。商业价值在于免费且零安装，可吸引注重隐私的普通用户和开发者，形成一站式工具生态。产品创新在于将多种功能集成于单一浏览器环境，降低了使用门槛，并可能通过广告或增值服务变现。",
@@ -343,10 +497,32 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
       "date": "2026-06-18"
+    },
+    {
+      "id": "ubp2-uncertainty-balanced-preference-planning-for-efficient-preference-based-rei",
+      "label": "UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Re",
+      "summary": "Preference-based RL provides an approach to learning reward models from pairwise comparisons of behaviors, bypassing the need for explicit reward design. However, existing methods typically rely on passive data collection and suffer from poor sample efficiency, especially during the early stages of",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.19328v1",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "confidence-is-not-reliability-rethinking-mc-dropout-in-brain-tumour-segmentation",
+      "label": "Confidence is Not Reliability: Rethinking MC Dropout in Brain Tumour Segmentatio",
+      "summary": "Glioma segmentation in multiparametric MRI is a critical component of treatment planning. A segmentation model that fails silently on treatment-critical sub-regions represents a patient safety risk that overlap-based metrics such as Dice scores cannot expose. We ask whether voxel-level uncertainty e",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.19300v1",
+      "date": "2026-06-18"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1681,
-    "edges": 168422
+    "real_nodes": 1698,
+    "edges": 170124
   }
 }

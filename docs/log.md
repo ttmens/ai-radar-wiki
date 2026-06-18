@@ -1999,3 +1999,22 @@
 - create: midjourney-medical.md
 - create: language-courses-in-the-public-domain.md
 - create: how-to-turn-off-ai-in-your-google-docs.md
+
+## [2026-06-18 18:02] sync v3 | 17 new | pillars: {'capabilities': 14, 'patterns': 2, 'ecosystem': 1}
+- create: freeing-the-law-with-locus-a-local-ordinance-corpus-for-the-united-states.md
+- create: the-chandra-gaia-catalog-of-counterparts-resolving-ambiguous-gaia-matches-to-x-r.md
+- create: ubp2-uncertainty-balanced-preference-planning-for-efficient-preference-based-rei.md
+- create: rethinking-reward-supervision-rubric-conditioned-self-distillation.md
+- create: reference-driven-multi-speaker-audio-scene-generation-from-in-the-wild-priors.md
+- create: data-intelligence-agents-interpreting-modeling-and-querying-enterprise-data-via.md
+- create: explaining-attention-with-program-synthesis.md
+- create: diffusion-proof-recipe-for-formal-theorem-proving-beyond-auto-regressive-generat.md
+- create: p-k-gcn-physics-augmented-koopman-enhanced-graph-convolutional-network-for-deep.md
+- create: optimal-scenario-design-for-climate-emulation.md
+- create: confidence-is-not-reliability-rethinking-mc-dropout-in-brain-tumour-segmentation.md
+- create: does-vla-even-know-the-basics-measuring-commonsense-and-world-knowledge-retentio.md
+- create: the-australian-government-to-require-smsmms-sender-id-registraion.md
+- create: ai-compute-extensions-ace-specification.md
+- create: the-hacker-sent-by-anthropic-to-calm-the-governments-nerves-about-ai-safety.md
+- create: chatgpts-image-generator-can-be-manipulated-to-produce-violent-sexual-content.md
+- create: show-hn-blitzgraph-supabase-for-graphs-built-for-llm-agents.md

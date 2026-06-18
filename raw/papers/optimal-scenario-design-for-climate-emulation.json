@@ -1,0 +1,31 @@
+{
+  "title": "Optimal scenario design for climate emulation",
+  "summary": "As deep learning for physical systems continues to grow in popularity, efforts to improve generalizability have primarily focused on designing architectures that embed physical constraints. However, for machine-learning surrogate climate models (emulators), we show that the low structural diversity in existing scenarios commonly used to generate training data places a ceiling on predictive skill. Here, we examine whether training datasets themselves can be optimized to improve generalization. We introduce a method to create datasets that produce emulators capable of generalizing to new, structurally different scenarios absent from the training data. We use a differentiable Simple Climate Model (SCM) to calculate the sensitivity of emulator loss to perturbations in the training data, iteratively updating the training data to maximize emulator skill. For an SCM, training on one scenario optimized in this fashion outperforms an emulator trained on six standard ScenarioMIP pathways. We achieve this higher predictive skill despite training on a smaller dataset, finding that our emulator successfully isolates distinct physical behaviors of different climate forcing agents (e.g., greenhouse gases vs. aerosols) without single-forcing runs. We then demonstrate that scenarios optimized using an SCM, when used to drive an intermediate-complexity climate model, produce a training dataset that yields a more skillful emulator than training on ScenarioMIP outputs. Our results suggest that, in the compute-constrained environment of running full-scale climate models, generating a small number of dynamically rich scenarios provides greater marginal value for emulation and characterizing system responses than expanding the suite of traditional emissions pathways.",
+  "url": "http://arxiv.org/abs/2606.19302v1",
+  "authors": [
+    "Christopher B. Womack",
+    "Shahine Bouabid",
+    "Andrei Sokolov",
+    "Popat Salunke",
+    "Glenn Flierl"
+  ],
+  "published": "2026-06-17T17:26:22Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "dataset"
+  ],
+  "summary_cn": "本文针对深度学习在物理系统（如气候仿真）中的应用，指出当前提升泛化性的研究多聚焦于设计嵌入物理约束的架构。然而，对于机器学习替代气候模型（emulators），研究发现低结构多样性才是限制泛化的关键因素。通过优化场景设计（而非仅改进架构），可以显著提升仿真准确性与鲁棒性。这一发现为AI产品经理提供了新思路：在构建气候相关应用（如风险评估、政策模拟）时，应优先考虑训练数据的场景多样性，而非过度依赖模型结构创新，从而以更低成本获得更可靠的预测能力，加速AI在气候领域的商业化落地。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Climate Emulation",
+    "Physical Constraint",
+    "Scenario Diversity"
+  ],
+  "entities": [],
+  "patterns": [
+    "Surrogate Modeling",
+    "Physics-Constrained ML"
+  ]
+}
