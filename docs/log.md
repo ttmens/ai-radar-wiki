@@ -2027,3 +2027,23 @@
 - create: a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight.md
 - create: pixi8217s-new-ios-app-turns-text-messages-into-interactive-ar-experiences.md
 - create: show-hn-local-personal-data-redaction-for-any-ai-tools.md
+
+## [2026-06-19 06:04] sync v3 | 18 new | pillars: {'capabilities': 14, 'patterns': 4}
+- create: noam-shazeer-joins-openai.md
+- create: the-korean-telecom-giant-at-the-center-of-anthropics-mythos-controversy.md
+- create: launch-hn-testerarmy-yc-p26-agents-that-test-web-and-mobile-apps.md
+- create: agentic-resource-discovery-specification.md
+- create: the-founder-of-craigslist-has-given-away-half-a-billion-dollars.md
+- create: dutch-railways-offers-unlimited-off-peak-train-travel-nationwide-for-49month.md
+- create: show-hn-gerrymandle-daily-puzzle-game-where-you-redraw-electoral-districts.md
+- create: notes-from-tired-egyptian-whose-job-is-explaining-that-humans-built-the-pyramids.md
+- create: ai-inference-startup-baseten-reportedly-raising-15b-months-after-its-last-mega-r.md
+- create: snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs.md
+- create: openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo.md
+- create: almost-half-of-us-singles-feel-negatively-about-ai-in-dating-match-says.md
+- create: amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips.md
+- create: ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid.md
+- create: the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it.md
+- create: 8216queer-eye8217s8217-life-coach-karamo-brown-launches-kē-a-wellness-app-featur.md
+- create: show-hn-run-agent-skills-with-mistralrs-v0810-v1skills-support-and-more.md
+- create: show-hn-displaydev-the-agent-agnostic-workspace-for-html-and-md-artifacts.md

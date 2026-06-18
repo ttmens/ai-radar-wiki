@@ -1,0 +1,27 @@
+---
+title: The smartphone era created an attention crisis. Slowtech is fixing it
+created: 2026-06-19
+updated: 2026-06-19
+type: entity
+pillar: capabilities
+pm_score: 0.48
+tags: ["news", "techcrunch", "capabilities"]
+sources: ["raw/techcrunch/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it.json"]
+---
+
+# The smartphone era created an attention crisis. Slowtech is fixing it
+
+## 中文摘要
+智能手机时代引发注意力危机，用户渴望夺回对时间、生活和注意力的控制。Slowtech（慢科技）作为一种新兴产品理念，通过减少干扰、优化交互节奏来缓解这一危机。其技术要点在于设计更专注的AI界面，商业价值体现在满足用户对数字健康的迫切需求，产品创新则强调以用户注意力为优先的极简交互模式。该方向为AI产品经理提供了打造差异化体验的切入点，有望推动行业从“粘性驱动”向“价值驱动”转型。
+
+## PM 关注指标
+- 🎯 PM Score: 0.48
+- 🏷️ Pillar: capabilities
+- 🔑 Keywords: attention
+
+## 新闻摘要
+“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”
+
+## 链接
+- 🔗 Source: https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/
+- 📅 Published: Thu, 18 Jun 2026 17:16:30 +0000
