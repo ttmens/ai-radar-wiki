@@ -5,13 +5,69 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 18 Jun 2026 12:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 16:04:04 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>deezer/spleeter</title>
+      <link>https://github.com/deezer/spleeter</link>
+      <guid isPermaLink="false">deezerspleeter</guid>
+      <pubDate>2026-06-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>Spleeter 是 Deezer 开源的音频源分离库，提供预训练模型，能够将音乐音频分离为人声、鼓、贝斯、钢琴等不同轨道。基于深度学习（U-Net 架构），它支持实时处理和批量处理，降低了音频编辑和音乐制作的技术门槛。产品经理可将其集成到音乐创作工具、K 歌应用、内容后期处理或音频分析产品中，实现自动伴奏提取、混音分离等创新功能，显著提升用户体验和创作效率。开源许可和预训练模型使其易于部署和定制。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Emacs 31 Is Around the Corner: The Changes I'm Daily Driving</title>
+      <link>https://news.ycombinator.com/item?id=48584135</link>
+      <guid isPermaLink="false">emacs-31-is-around-the-corner-the-changes-im-daily-driving</guid>
+      <pubDate>2026-06-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Emacs 31 即将发布，作者分享了日常使用的变化。作为一款经典文本编辑器，新版可能引入更深的 AI 集成能力，如本地大模型插件增强、智能补全与重构助手。这对 AI 产品经理的启示：编辑器正从纯手动工具向 AI 辅助开发环境演进，本地优先的 AI 模式可降低延迟并保护代码隐私，类似 Copilot 但更灵活可定制。商业价值在于提升开发者效率，生态上可吸引更多插件开发者。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>General Intuition in talks to raise $300M at around $2B valuation</title>
+      <link>https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/</link>
+      <guid isPermaLink="false">general-intuition-in-talks-to-raise-300m-at-around-2b-valuation</guid>
+      <pubDate>2026-06-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>初创公司 General Intuition 正以约20亿美元估值融资3亿美元，投资者包括杰夫·贝索斯。该公司专注于训练 AI 智能体进行时空推理（spatial-temporal reasoning），即理解物体在时间和空间中的动态关系。这一能力对机器人、自动驾驶、游戏和工业自动化等需要实时感知与决策的领域至关重要。高估值和顶级投资者背书凸显了时空推理作为下一代 AI 核心能力的商业前景，产品经理可关注其在物理世界交互、路径规划、物体追踪等场景的落地潜力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight</title>
+      <link>https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/</link>
+      <guid isPermaLink="false">a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight</guid>
+      <pubDate>2026-06-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>由科技工作者支持的PAC组织Guardrails筹集500万美元，意图在AI监管博弈中挑战大科技公司数十亿美元游说资金。该组织定位为平民主义运动，依靠AI一线从业者的小额捐款，旨在为AI伦理和公众利益发声。对于AI产品经理而言，这意味着未来监管环境可能因基层力量介入而趋于严格，影响产品设计中对透明度、公平性和安全性的考量，同时也可能催生新的合规产品需求。Guardrails的出现反映了AI行业内部对权力集中的担忧，是生态系统中一股不可忽视的政治力量。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Pixi&amp;#8217;s new iOS app turns text messages into interactive AR experiences</title>
+      <link>https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/</link>
+      <guid isPermaLink="false">pixi8217s-new-ios-app-turns-text-messages-into-interactive-ar-experiences</guid>
+      <pubDate>2026-06-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Pixi 推出 iOS 应用，利用 AI 将短信转化为交互式增强现实 (AR) 体验，超越传统贴纸、GIF 和 emoji 反应。该产品创新性地将 AR 与消息融合，用户可通过文本触发动态 3D 场景或动画，实现更沉浸的沟通方式。对产品经理而言，其商业价值在于重新定义移动消息互动，提升用户粘性和社交场景创新；技术要点在于 AI 驱动的实时 AR 生成与轻量级部署。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>We built a persistent agent memory layer on Elasticsearch with 0.89 recall</title>
+      <link>https://news.ycombinator.com/item?id=48583703</link>
+      <guid isPermaLink="false">we-built-a-persistent-agent-memory-layer-on-elasticsearch-with-089-recall</guid>
+      <pubDate>2026-06-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该项目在Elasticsearch上构建了一个持久化的AI Agent记忆层，实现了0.89的高召回率。技术要点在于利用Elasticsearch的分布式特性与高效检索能力，为Agent提供长期上下文存储与快速召回，解决了传统对话系统中遗忘历史信息的问题。商业价值体现在能够提升AI应用的连续性与个性化体验，尤其适用于客服、助手等需要长期记忆的场景。产品创新在于将成熟的Elasticsearch基础设施作为记忆后端，降低了开发成本并保证了性能稳定性。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Show HN: Local personal data redaction for any AI tools</title>
+      <link>https://github.com/sophia486/pii-gui</link>
+      <guid isPermaLink="false">show-hn-local-personal-data-redaction-for-any-ai-tools</guid>
+      <pubDate>2026-06-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该工具提供本地化个人数据脱敏功能，可无缝集成到任意AI工具中，实现在用户设备上直接处理敏感信息，避免数据上传云端。产品经理关注点在于：满足日益严格的隐私合规要求（如GDPR），降低用户数据泄露风险，同时不牺牲AI服务的功能完整性。其技术创新在于通用适配层设计，使开发者无需改造现有AI流程即可自动过滤身份证号、信用卡等敏感字段，显著提升企业级AI应用的信任度和部署效率。商业价值体现在差异化隐私保护能力可作为B2B SaaS产品的核心卖点，特别适合医疗、金融等强监管行业。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>GLM-5.2 is the new leading open weights model on Artificial Analysis</title>
       <link>https://news.ycombinator.com/item?id=48567759</link>
@@ -355,62 +411,6 @@
       <pubDate>2026-06-18T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>BlitzGraph 是一个专为 LLM 代理设计的图数据库即服务产品，类比于 Supabase 但在图数据领域。它提供高效的图形存储和查询能力，旨在帮助 AI 代理更好地管理和利用结构化知识，支持复杂的关系推理和动态上下文维护。该工具降低了 AI 应用构建图数据基础设施的门槛，有望提升代理的记忆、规划和决策能力。对于产品经理而言，这代表了一种将图数据库与代理架构结合的新兴模式，可应用于知识图谱、多跳推理和长期记忆等场景。</p></description>
       <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload</title>
-      <link>https://news.ycombinator.com/item?id=48568023</link>
-      <guid isPermaLink="false">show-hn-i-built-184-free-browser-tools-pdf-image-dev-ai-tasks-no-upload</guid>
-      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该产品为184个免费浏览器工具集合，涵盖PDF处理、图像编辑、开发辅助及AI任务，核心特点为所有操作均在客户端完成，无需上传文件至服务器，保障用户隐私和数据安全。技术层面可能依赖WebAssembly或JavaScript实现本地高效处理，避免了数据传输延迟和服务器成本。商业价值在于免费且零安装，可吸引注重隐私的普通用户和开发者，形成一站式工具生态。产品创新在于将多种功能集成于单一浏览器环境，降低了使用门槛，并可能通过广告或增值服务变现。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI</title>
-      <link>https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/</link>
-      <guid isPermaLink="false">neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi</guid>
-      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Tokenmaxxing&amp;#160;was&amp;#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&amp;#160;as it would go.&amp;#160;Then the bill came due. Uber&amp;#160;reportedly blew&amp;#160;through its annual AI budget in a few months, some companies cut Claude licenses</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Re</title>
-      <link>http://arxiv.org/abs/2606.19328v1</link>
-      <guid isPermaLink="false">ubp2-uncertainty-balanced-preference-planning-for-efficient-preference-based-rei</guid>
-      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Preference-based RL provides an approach to learning reward models from pairwise comparisons of behaviors, bypassing the need for explicit reward design. However, existing methods typically rely on passive data collection and suffer from poor sample efficiency, especially during the early stages of</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Confidence is Not Reliability: Rethinking MC Dropout in Brain Tumour Segmentatio</title>
-      <link>http://arxiv.org/abs/2606.19300v1</link>
-      <guid isPermaLink="false">confidence-is-not-reliability-rethinking-mc-dropout-in-brain-tumour-segmentation</guid>
-      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Glioma segmentation in multiparametric MRI is a critical component of treatment planning. A segmentation model that fails silently on treatment-critical sub-regions represents a patient safety risk that overlap-based metrics such as Dice scores cannot expose. We ask whether voxel-level uncertainty e</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Using AI to improve a challenging reaction in medicinal chemistry</title>
-      <link>https://news.ycombinator.com/item?id=48573757</link>
-      <guid isPermaLink="false">using-ai-to-improve-a-challenging-reaction-in-medicinal-chemistry</guid>
-      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容探讨如何利用人工智能技术优化药物化学中具有挑战性的化学反应。通过机器学习模型预测反应产率、选择性或路径，显著减少实验试错成本。此类应用展示了AI在加速新药研发中的潜力，为制药企业提供数据驱动的高效解决方案，降低了研发周期和成本。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Making 'food out of thin air' (2024)</title>
-      <link>https://news.ycombinator.com/item?id=48533135</link>
-      <guid isPermaLink="false">making-food-out-of-thin-air-2024</guid>
-      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该技术探讨利用空气中二氧化碳等成分通过化学或生物合成方式直接制造食物，类似于‘凭空造食’。2024年进展可能包括更高效的催化转化或微生物发酵路径。对AI产品经理而言，AI可加速筛选合成路径、优化反应条件、预测分子结构，从而降低生产成本并推动可持续食品供应链。商业价值在于应对粮食安全与气候变化，产品创新体现在将AI嵌入闭环生产系统，实现从空气到蛋白质的端到端自动化。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Roelof Botha joins SpaceX&amp;#8217;s board of directors</title>
-      <link>https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/</link>
-      <guid isPermaLink="false">roelof-botha-joins-spacex8217s-board-of-directors</guid>
-      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>前红杉资本合伙人Roelof Botha加入SpaceX董事会，填补现有空缺，时间点恰逢SpaceX完成史上最大规模IPO后数日。这一高管任命体现了SpaceX在上市后加强公司治理与战略决策层的意图，也反映了顶级资本人才向航天科技企业的流动趋势。对AI产品经理而言，该事件本身不直接涉及AI技术或产品创新，但可作为AI/航天交叉领域人才生态与资本运作的参考案例，关注点在于跨界高管如何影响航天AI应用的战略方向。</p></description>
-      <category>🔧 工具生态</category>
     </item>
   </channel>
 </rss>
