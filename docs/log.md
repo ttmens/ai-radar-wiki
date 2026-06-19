@@ -2071,3 +2071,9 @@
 - create: the-airpods-effect.md
 - create: the-us-says-asml8217s-top-chip-tool-may-be-in-china-asml-says-it-isn8217t.md
 - create: show-hn-crawlie-free-open-source-seo-audit-tool-for-humans-and-agents.md
+
+## [2026-06-20 00:01] sync v3 | 4 new | pillars: {'capabilities': 4}
+- create: akse3d-open-source-3d-modelling-anyone-can-master.md
+- create: billionaire-ambani-wants-ai-in-every-call-app-and-home.md
+- create: the-ceo-of-allbirds8217-new-ai-biz-has-a-plan-but-no-employees.md
+- create: show-hn-modeloop-from-visual-algorithms-to-microcontroller-c-code.md

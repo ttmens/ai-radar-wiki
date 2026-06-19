@@ -1,0 +1,77 @@
+{
+  "daily_summary": {
+    "date": "2026-06-20",
+    "headline": "今日 AI 情报 · 2026-06-20",
+    "overview": "AI 能力加速向基础设施与硬件渗透，极简创业模式获资本验证",
+    "narratives": [
+      {
+        "title": "AI 能力大规模沉降：从对话界面走向基础设施与边缘硬件",
+        "body": "今日情报显示 AI 产品形态正从软件界面扩展至电信网络、物联网微控制器和 3D 建模工具。Reliance 计划将 AI 植入 5 亿用户的通话与应用，Modeloop 让可视化算法自动生成微控制器代码，Akse3D 降低 3D 建模门槛——三者共同指向一个趋势：AI 不再仅是“聊天机器人”，而是成为基础设施的默认能力和硬件端的嵌入层。对产品经理而言，这意味着要关注“无感 AI 的规模化交付”与“跨平台低门槛集成”，而非追求独立新产品。",
+        "type": "maturation",
+        "pillar_key": "capabilities"
+      },
+      {
+        "title": "单人 AI 创业模式兴起：信誉与洞察撬动大额资本",
+        "body": "Allbirds 前 CEO 的 AI 公司仅一人就获巨额种子轮，体现了 AI 领域特有的“超级个体”创业范式。在 AI 工具链日趋成熟、API 和模型即服务降低开发难度的背景下，单一创始人可凭借行业信誉和战略判断快速融资，再逐步组建团队。这种模式对 PM 的启示是：个人产品洞察和商业资源的价值被放大，但同时需要更强的技术抽象与资本运作能力。",
+        "type": "validation",
+        "pillar_key": "business"
+      }
+    ],
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI 能力大规模沉降：从对话界面走向基础设施与边缘硬件",
+        "insight": "AI 能力大规模沉降：从对话界面走向基础设施与边缘硬件。该方向的具体信号：Reliance 计划将 AI 嵌入电信网络（覆盖 5 亿用户），Modeloop 将可视化算法直接编译为微控制器代码，Akse3D 以开源低门槛攻占 3D 建模——三者分别指向 AI 在运营商基础设施、物联网固件、大众创作工具中的独立部署，表明产品经理需重新设计 AI 作为“平台属性”而非“独立功能”的交互策略。",
+        "evidence": [
+          {
+            "id": "show-hn-modeloop-from-visual-algorithms-to-microcontroller-c-code",
+            "title": "Modeloop：从可视化算法到微控制器 C 代码",
+            "score": 0.38
+          },
+          {
+            "id": "akse3d-open-source-3d-modelling-anyone-can-master",
+            "title": "Akse3D：开源人人可用的 3D 建模工具",
+            "score": 0.36
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "单人 AI 创业模式兴起：信誉与洞察撬动大额资本",
+        "insight": "单人 AI 创业模式兴起：信誉与洞察撬动大额资本。该方向的具体信号：Allbirds 前 CEO 创立的 AI 公司仅一人却获巨额种子轮，反映资本对“超级个体”信心大于团队规模，AI 产品经理可学习这种先靠洞察融资、再逐步补团队的敏捷策略，但需警惕产品验证前过度依赖创始人光环的风险。",
+        "evidence": [
+          {
+            "id": "the-ceo-of-allbirds8217-new-ai-biz-has-a-plan-but-no-employees",
+            "title": "Allbirds 前 CEO 的 AI 公司计划清晰但无员工",
+            "score": 0.41
+          }
+        ]
+      }
+    ],
+    "stats": "技术能力: 3 | 产品模式: 0 | 工具生态: 0 | 商业趋势: 1",
+    "total_items": 4,
+    "high_value_count": 4,
+    "all_today_ids": [
+      {
+        "id": "billionaire-ambani-wants-ai-in-every-call-app-and-home",
+        "label": "Billionaire Ambani wants AI in every call, app, and home"
+      },
+      {
+        "id": "the-ceo-of-allbirds8217-new-ai-biz-has-a-plan-but-no-employees",
+        "label": "The CEO of Allbirds&#8217; new AI biz has a plan, but no employees"
+      },
+      {
+        "id": "show-hn-modeloop-from-visual-algorithms-to-microcontroller-c-code",
+        "label": "Show HN: Modeloop – From visual algorithms to microcontroller C code"
+      },
+      {
+        "id": "akse3d-open-source-3d-modelling-anyone-can-master",
+        "label": "Akse3D – open-source 3D modelling anyone can master"
+      }
+    ],
+    "date_bj": "2026-06-20 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-06-20 00:01:01"
+  }
+}

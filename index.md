@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-19 | Total pages: 1762
+> Last updated: 2026-06-20 | Total pages: 1766
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -48,6 +48,7 @@
 - [[ai-tools-are-only-as-good-as-your-judgment.md]] AI tools are only as good as your judgment `pillar:capabilities` `score:0.43`
 - [[ai-will-be-used-to-estimate-age-of-asylum-seekers-from-next-year.md]] AI will be used to estimate age of asylum seekers from next year `pillar:capabilities` `score:0.345`
 - [[airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india.md]] AirTrunk commits $30B to build 5GW of AI data centers in India `pillar:capabilities` `score:0.445`
+- [[akse3d-open-source-3d-modelling-anyone-can-master.md]] Akse3D – open-source 3D modelling anyone can master `pillar:capabilities` `score:0.36`
 - [[algebraic-effects-for-the-rest-of-us.md]] Algebraic Effects for the Rest of Us `pillar:capabilities` `score:0.255`
 - [[alibabamnn.md]] alibaba/MNN `pillar:capabilities` `score:0.615`
 - [[alignment-pretraining-ai-discourse-creates-self-fulfilling-misalignment.md]] Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment `pillar:capabilities` `score:0.43`
@@ -90,6 +91,7 @@
 - [[bee-sanciphey.md]] bee-san/Ciphey `pillar:capabilities` `score:0.545`
 - [[benchmarking-surrealdb-3x-vs-postgres-mongo-neo4j-and-redis-with-fsync.md]] Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync) `pillar:capabilities` `score:0.395`
 - [[benchmarks-in-leipzig.md]] Benchmarks in Leipzig `pillar:capabilities` `score:0.395`
+- [[billionaire-ambani-wants-ai-in-every-call-app-and-home.md]] Billionaire Ambani wants AI in every call, app, and home `pillar:capabilities` `score:0.515`
 - [[biohub-releases-a-world-model-of-protein-biology.md]] Biohub releases a world model of protein biology `pillar:capabilities` `score:0.415`
 - [[blinkdlrwkv-lm.md]] BlinkDL/RWKV-LM `pillar:capabilities` `score:0.405`
 - [[bun-rust-rewrite-codebase-fails-basic-miri-checks-allows-for-ub-in-safe-rust.md]] Bun Rust rewrite: "codebase fails basic miri checks, allows for UB in safe rust" `pillar:capabilities` `score:0.595`
@@ -436,6 +438,7 @@
 - [[show-hn-local-personal-data-redaction-for-any-ai-tools.md]] Show HN: Local personal data redaction for any AI tools `pillar:capabilities` `score:0.33`
 - [[show-hn-lowfat-pluggable-cli-filter-that-saved-918-of-my-llm-tokens.md]] Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens `pillar:capabilities` `score:0.415`
 - [[show-hn-mira-open-source-and-self-hosted-ai-code-reviewer.md]] Show HN: Mira – Open-source and self-hosted AI code reviewer `pillar:capabilities` `score:0.33`
+- [[show-hn-modeloop-from-visual-algorithms-to-microcontroller-c-code.md]] Show HN: Modeloop – From visual algorithms to microcontroller C code `pillar:capabilities` `score:0.38`
 - [[show-hn-nightwatch-the-open-source-read-only-ai-sre.md]] Show HN: Nightwatch, The open-source, read-only AI SRE `pillar:capabilities` `score:0.295`
 - [[show-hn-nucleus-a-security-hardened-nix-native-container-runtime.md]] Show HN: Nucleus – A security-hardened, Nix-native container runtime `pillar:capabilities` `score:0.26`
 - [[show-hn-open-source-ai-racing-harness.md]] Show HN: Open-Source AI Racing Harness `pillar:capabilities` `score:0.295`
@@ -1676,6 +1679,7 @@
 - [[tesla-model-y-passes-nhtsas-new-advanced-driver.md]] Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests `pillar:business` `score:0.255`
 - [[the-ai-layoff-wave-is-becoming-a-powder-keg.md]] The AI layoff wave is becoming a powder keg `pillar:business` `score:0.445`
 - [[the-ai-legal-services-industry-is-heating-up-ant.md]] The AI legal services industry is heating up — Anthropic is getting in on the ac `pillar:business` `score:0.305`
+- [[the-ceo-of-allbirds8217-new-ai-biz-has-a-plan-but-no-employees.md]] The CEO of Allbirds&#8217; new AI biz has a plan, but no employees `pillar:business` `score:0.41`
 - [[the-competitive-moat-that-ai-cant-replicate.md]] The Competitive Moat That AI Can't Replicate `pillar:business` `score:0.445`
 - [[the-founder-of-craigslist-has-given-away-half-a-billion-dollars.md]] The founder of Craigslist has given away half a billion dollars `pillar:business` `score:0.355`
 - [[the-groupthink-boom-what-3-top-vcs-really-think-about-the-ai-frenzy.md]] The groupthink boom: what 3 top VCs really think about the AI frenzy `pillar:business` `score:0.36`
