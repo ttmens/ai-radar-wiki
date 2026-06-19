@@ -1,7 +1,7 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T06:04:33.406653+08:00",
-  "item_count": 24,
+  "generated_at": "2026-06-19T12:07:17.050653+08:00",
+  "item_count": 27,
   "items": [
     {
       "id": "deezerspleeter",
@@ -103,6 +103,17 @@
       "date": "2026-06-19"
     },
     {
+      "id": "source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m",
+      "label": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "summary": "Elastic 宣布以高达 8500 万美元收购成立仅三年的 AI 初创公司 DeductiveAI，该公司专注于利用 AI 自动检测并修复软件中的 Bug。其核心技术基于深度学习和代码分析，能主动发现潜在缺陷并生成修复补丁，大幅提升研发效率。对于 Elastic 而言，此次收购将增强其可观测性平台（Elastic Observability）的 AI 能力，实现从异常发现到自动修复的闭环，帮助企业在生产环境中更快恢复服务。对 AI 产品经理的启示在于：将 AI 应用于软件质量保障（如自动化 Debug、智能修复）正从概念走向商业落地，该模式有望重塑开发运维流程，降低人工排查成本，提升产品迭代",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "date": "2026-06-19"
+    },
+    {
       "id": "ai-inference-startup-baseten-reportedly-raising-15b-months-after-its-last-mega-r",
       "label": "AI inference startup Baseten reportedly raising $1.5B months after its last mega",
       "summary": "AI推理初创公司Baseten据报即将完成15亿美元融资，估值达130亿美元，反映了当前“推理淘金热”的持续升温。作为专注于模型推理部署的平台，Baseten帮助开发者高效运行大型AI模型，降低延迟和成本。此次巨额融资表明市场对专用推理基础设施的强劲需求，也预示着竞争加剧。对AI产品经理而言，推理层的效率直接影响产品体验和成本结构，需要关注这类平台的演进，以优化模型部署策略和选择最优推理方案。",
@@ -191,6 +202,17 @@
       "date": "2026-06-19"
     },
     {
+      "id": "how-japans-railways-stayed-one-while-splitting-apart",
+      "label": "How Japan's railways stayed one while splitting apart",
+      "summary": "本文探讨日本铁路网在1987年拆分民营化后，如何通过标准化技术接口与统一调度系统维持全国一体化运营。核心是构建跨公司共享的列车控制、时刻表协调和数据平台，实现安全与效率统一。对AI产品经理的启示：在分布式系统或组织分拆时，可借鉴其统一数据协议与协同AI调度模式，平衡独立业务与全局优化。",
+      "pm_score": 0.395,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48570730",
+      "date": "2026-06-19"
+    },
+    {
       "id": "agentic-resource-discovery-specification",
       "label": "Agentic Resource Discovery Specification",
       "summary": "该规范定义了智能体（Agent）自主发现和绑定外部资源（如数据源、API、工具）的标准化协议，旨在解决AI系统在动态环境中资源获取的耦合与配置难题。对产品经理而言，它意味着无需人工预配置，AI可实时感知并调用可用资源，显著降低集成成本并提升任务自动化能力。商业上可加速构建自适应工作流、多模态数据聚合等场景的产品落地，推动Agentic AI从演示走向规模化应用。",
@@ -221,6 +243,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48588216",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "datasette-apps-host-custom-html-applications-inside-datasette",
+      "label": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "summary": "Datasette Apps 允许用户在 Datasette 数据探索平台中直接托管自定义 HTML 应用程序，将数据分析与交互式界面深度融合。技术要点：通过插件机制，开发者可在 Datasette 内运行全功能 Web 应用，复用其数据 API 与权限模型。商业价值：降低构建数据驱动工具的门槛，适合快速原型、内部仪表盘或轻量级 AI 应用展示。产品创新：打破传统 BI 工具的局限，让数据平台本身成为应用运行环境，提升团队协作效率。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48593731",
       "date": "2026-06-19"
     },
     {
@@ -269,7 +302,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1723,
-    "edges": 173554
+    "real_nodes": 1726,
+    "edges": 175281
   }
 }

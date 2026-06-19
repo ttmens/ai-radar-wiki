@@ -2047,3 +2047,8 @@
 - create: 8216queer-eye8217s8217-life-coach-karamo-brown-launches-kē-a-wellness-app-featur.md
 - create: show-hn-run-agent-skills-with-mistralrs-v0810-v1skills-support-and-more.md
 - create: show-hn-displaydev-the-agent-agnostic-workspace-for-html-and-md-artifacts.md
+
+## [2026-06-19 12:07] sync v3 | 3 new | pillars: {'capabilities': 3}
+- create: how-japans-railways-stayed-one-while-splitting-apart.md
+- create: datasette-apps-host-custom-html-applications-inside-datasette.md
+- create: source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m.md

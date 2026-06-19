@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-19 | Total pages: 1742
+> Last updated: 2026-06-19 | Total pages: 1745
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -131,6 +131,7 @@
 - [[cybersecurity-vets-protest-8216dangerous8217-us-government-ban-on-anthropic8217s.md]] Cybersecurity vets protest &#8216;dangerous&#8217; US government ban on Anthropi `pillar:capabilities` `score:0.445`
 - [[daily-pill-can-double-survival-time-for-deadliest-cancer-trial-shows.md]] Daily pill can double survival time for deadliest cancer, trial shows `pillar:capabilities` `score:0.305`
 - [[data-centric-ai-communityfg-data-profiling.md]] Data-Centric-AI-Community/fg-data-profiling `pillar:capabilities` `score:0.58`
+- [[datasette-apps-host-custom-html-applications-inside-datasette.md]] Datasette Apps: Host custom HTML applications inside Datasette `pillar:capabilities` `score:0.33`
 - [[daviskingdlib.md]] davisking/dlib `pillar:capabilities` `score:0.545`
 - [[deepfakesfaceswap.md]] deepfakes/faceswap `pillar:capabilities` `score:0.58`
 - [[deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation.md]] DeepL acquires Mixhalo for live-event audio streaming and translation `pillar:capabilities` `score:0.48`
@@ -459,6 +460,7 @@
 - [[so-you8217ve-heard-these-ai-terms-and-nodded-along-let8217s-fix-that.md]] So you&#8217;ve heard these AI terms and nodded along; let&#8217;s fix that `pillar:capabilities` `score:0.445`
 - [[social-medias-next-evolution-user-controlled-algorithms.md]] Social media’s next evolution: user-controlled algorithms `pillar:capabilities` `score:0.48`
 - [[softbank-says-it-will-invest-up-to-75-billion-to-build-french-data-centers.md]] SoftBank says it will invest up to €75 billion to build French data centers `pillar:capabilities` `score:0.48`
+- [[source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m.md]] Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M `pillar:capabilities` `score:0.48`
 - [[south-korean-forums-will-need-to-scan-every-images-with-ai-censorship-tools.md]] South Korean Forums Will Need to Scan Every Images with AI Censorship Tools `pillar:capabilities` `score:0.345`
 - [[spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo.md]] SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO `pillar:capabilities` `score:0.305`
 - [[spmallicklearnopencv.md]] spmallick/learnopencv `pillar:capabilities` `score:0.58`
@@ -998,6 +1000,7 @@
 - [[hkudsnanobot.md]] HKUDS/nanobot `pillar:patterns` `score:0.405`
 - [[hmbowncodewhale.md]] Hmbown/CodeWhale `pillar:patterns` `score:0.545`
 - [[hmbowndeepseek-tui.md]] Hmbown/DeepSeek-TUI `pillar:patterns` `score:0.58`
+- [[how-japans-railways-stayed-one-while-splitting-apart.md]] How Japan's railways stayed one while splitting apart `pillar:patterns` `score:0.395`
 - [[how-memory-tools-can-make-ai-models-worse.md]] How memory tools can make AI models worse `pillar:patterns` `score:0.48`
 - [[how-to-setup-a-local-coding-agent-on-macos.md]] How to setup a local coding agent on macOS `pillar:patterns` `score:0.53`
 - [[how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches.md]] How to use Google’s new AI agents to go beyond your standard searches `pillar:patterns` `score:0.48`
