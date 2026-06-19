@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 19 Jun 2026 00:07:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 04:08:32 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -85,6 +85,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M</title>
+      <link>https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/</link>
+      <guid isPermaLink="false">source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m</guid>
+      <pubDate>2026-06-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Elastic 宣布以高达 8500 万美元收购成立仅三年的 AI 初创公司 DeductiveAI，该公司专注于利用 AI 自动检测并修复软件中的 Bug。其核心技术基于深度学习和代码分析，能主动发现潜在缺陷并生成修复补丁，大幅提升研发效率。对于 Elastic 而言，此次收购将增强其可观测性平台（Elastic Observability）的 AI 能力，实现从异常发现到自动修复的闭环，帮助企业在生产环境中更快恢复服务。对 AI 产品经理的启示在于：将 AI 应用于软件质量保障（如自动化 Debug、智能修复）正从概念走向商业落地，该模式有望重塑开发运维流程，降低人工排查成本，提升产品迭代</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>AI inference startup Baseten reportedly raising $1.5B months after its last mega</title>
       <link>https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/</link>
       <guid isPermaLink="false">ai-inference-startup-baseten-reportedly-raising-15b-months-after-its-last-mega-r</guid>
@@ -149,6 +157,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>How Japan's railways stayed one while splitting apart</title>
+      <link>https://news.ycombinator.com/item?id=48570730</link>
+      <guid isPermaLink="false">how-japans-railways-stayed-one-while-splitting-apart</guid>
+      <pubDate>2026-06-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨日本铁路网在1987年拆分民营化后，如何通过标准化技术接口与统一调度系统维持全国一体化运营。核心是构建跨公司共享的列车控制、时刻表协调和数据平台，实现安全与效率统一。对AI产品经理的启示：在分布式系统或组织分拆时，可借鉴其统一数据协议与协同AI调度模式，平衡独立业务与全局优化。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>Agentic Resource Discovery Specification</title>
       <link>https://news.ycombinator.com/item?id=48573268</link>
       <guid isPermaLink="false">agentic-resource-discovery-specification</guid>
@@ -171,6 +187,14 @@
       <pubDate>2026-06-19T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Craigslist创始人克雷格·纽马克（Craig Newmark）已累计捐赠超过5亿美元，主要用于支持新闻业、退伍军人和网络安全等公益事业。虽然该事件本身不直接涉及AI技术或产品创新，但体现了科技企业家利用财富推动社会变革的模式。对于AI产品经理而言，可关注此类大规模慈善资金是否流向AI相关领域（如AI伦理、开源模型或教育），间接影响AI生态的资本流向。此外，纽马克本人也是网络社区的早期构建者，其捐赠行为反映了互联网企业家的社会责任与长期视野。</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Datasette Apps: Host custom HTML applications inside Datasette</title>
+      <link>https://news.ycombinator.com/item?id=48593731</link>
+      <guid isPermaLink="false">datasette-apps-host-custom-html-applications-inside-datasette</guid>
+      <pubDate>2026-06-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Datasette Apps 允许用户在 Datasette 数据探索平台中直接托管自定义 HTML 应用程序，将数据分析与交互式界面深度融合。技术要点：通过插件机制，开发者可在 Datasette 内运行全功能 Web 应用，复用其数据 API 与权限模型。商业价值：降低构建数据驱动工具的门槛，适合快速原型、内部仪表盘或轻量级 AI 应用展示。产品创新：打破传统 BI 工具的局限，让数据平台本身成为应用运行环境，提升团队协作效率。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Show HN: Run Agent Skills with mistral.rs v0.8.10: /v1/skills support and more</title>
@@ -387,30 +411,6 @@
       <pubDate>2026-06-18T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>LOCUS项目构建了美国首个大规模、机器可读的地方条例语料库，覆盖市、县层面的法规。此前法律AI研究多依赖联邦或州级法律，地方条例的缺失限制了合规审查、政策分析等应用。该语料库采用结构化格式，便于高效检索与训练法律语言模型。商业价值在于赋能法律科技产品（如自动合规检查、地产政策分析），使AI能处理此前难以获取的分散化法律文本。技术要点包括数据爬取、去重、标准化流程，以及对不同法律文本模式的统一表示。产品创新体现在为垂直领域提供高质量、低噪声的训练数据，降低法律AI的部署门槛。</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation</title>
-      <link>http://arxiv.org/abs/2606.19327v1</link>
-      <guid isPermaLink="false">rethinking-reward-supervision-rubric-conditioned-self-distillation</guid>
-      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出一种名为“基于评分条件的自蒸馏”（Rubric-Conditioned Self-Distillation）的新奖励监督方法，用于改进推理语言模型的后训练。现有蒸馏依赖昂贵且可能不准确的链式思维标注，而本方法通过引入评分标准（rubric）作为条件，让模型生成自我纠正的推理路径，再利用这些路径进行自蒸馏训练，减少人工标注成本并提升推理准确性。该技术有望降低模型对齐门槛，加速高质量推理模型的迭代，尤其适合需要复杂逻辑推理的垂直场景（如医疗诊断、法律分析）。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>P-K-GCN: Physics-augmented Koopman-enhanced Graph Convolutional Network for Deep</title>
-      <link>http://arxiv.org/abs/2606.19303v1</link>
-      <guid isPermaLink="false">p-k-gcn-physics-augmented-koopman-enhanced-graph-convolutional-network-for-deep</guid>
-      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出了一种物理增强的Koopman图卷积网络（P-K-GCN），用于深层时空超分辨率。传统数据驱动方法缺乏物理约束，而P-K-GCN通过融合物理先验和图神经网络，从粗粒度输入高效重建高分辨率时空动态数据。该方法在保持物理一致性的同时显著降低计算成本，适用于天气预测、流体力学、工程仿真等需要高保真模拟的场景。产品经理可关注其作为AI基础设施能力，降低产品对昂贵高分辨率仿真的依赖，提升实时决策效率。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Only 16 percent of Americans think AI will have a positive impact on society, a</title>
-      <link>https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/</link>
-      <guid isPermaLink="false">only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-n</guid>
-      <pubDate>2026-06-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>皮尤研究中心最新研究显示，仅有16%的美国人认为AI会对社会产生积极影响，反映出公众对AI的信任度远低于华尔街的热情。对于AI产品经理而言，这一数据敲响警钟：用户信任危机可能成为产品落地的关键障碍。未来设计AI产品时，需优先考虑可解释性、公平性、隐私保护和用户控制权，通过透明沟通与伦理合规建立公众信心，否则即使技术领先也难以获得市场接纳。监管风险随之上升，产品策略应主动适应社会期望。</p></description>
-      <category>🔧 工具生态</category>
     </item>
   </channel>
 </rss>
