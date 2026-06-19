@@ -1,0 +1,24 @@
+{
+  "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+  "score": 118,
+  "comments": 57,
+  "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+  "hn_url": "https://news.ycombinator.com/item?id=48595511",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Project Valhalla 是 OpenJDK 历经十年研发的重大特性，将在 JDK 28 中正式落地。它通过引入值类型（Value Types）和原始类型泛型，显著减少对象开销和内存占用，提升 Java 在计算密集型场景下的性能。对于 AI 产品经理而言，这一技术演进可优化基于 Java 的推理引擎、数据管道或微服务基础设施，降低部署成本并提高吞吐量，但短期不会直接影响 AI 模型或产品逻辑。",
+  "pm_relevance": 6,
+  "concepts": [
+    "Value Types",
+    "Memory Optimization",
+    "Java Performance"
+  ],
+  "entities": [
+    "OpenJDK",
+    "Oracle"
+  ],
+  "patterns": [
+    "Infrastructure Optimization"
+  ]
+}

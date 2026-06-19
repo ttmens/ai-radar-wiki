@@ -1,7 +1,7 @@
 {
   "date": "2026-06-19",
-  "generated_at": "2026-06-19T12:07:17.050653+08:00",
-  "item_count": 27,
+  "generated_at": "2026-06-19T18:06:37.883544+08:00",
+  "item_count": 43,
   "items": [
     {
       "id": "deezerspleeter",
@@ -56,6 +56,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "the-airpods-effect",
+      "label": "The AirPods Effect",
+      "summary": "AirPods效应描述了一种AI产品设计趋势：将智能能力无缝嵌入轻量级可穿戴设备（如真无线耳机），实现始终在线、低延迟、无需手动唤醒的交互体验。这种模式强调上下文感知与语音优先，通过边缘计算减少对云端的依赖，从而在隐私、响应速度与能耗间取得平衡。对AI产品经理的启示是，未来人机交互将从屏幕转向听觉和环境感知，需关注持续注意力管理和微型化推理芯片带来的产品创新机会。",
+      "pm_score": 0.5,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48592832",
       "date": "2026-06-19"
     },
     {
@@ -125,6 +136,94 @@
       "date": "2026-06-19"
     },
     {
+      "id": "toward-calibrated-mixture-of-experts-under-distribution-shift",
+      "label": "Toward Calibrated Mixture-of-Experts Under Distribution Shift",
+      "summary": "该论文研究在分布偏移场景下如何使混合专家模型（MoE）的预测不确定性得到良好校准。校准确保模型预测概率与实际结果频率一致，是提升模型可信度的关键。作者发现通过在每个专家预测器层面强制校准，可以同时提升集成模型的整体准确率和校准效果。这一技术对于高可靠性要求的产品（如金融、医疗决策系统）具有重要商业价值：降低因置信度误判导致的风险，增强用户对AI输出的信任。产品经理可借鉴此方法设计更稳健的模型服务架构，尤其在数据分布可能随时间变化的生产环境中，通过校准机制维持模型输出的一致性。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.20544v1",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "ledgeragent-structured-state-for-policy-adherent-tool-calling-agents",
+      "label": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
+      "summary": "LedgerAgent 提出了一种结构化状态管理方法，用于构建遵循领域政策的工具调用型客服代理。通过将任务状态（如事实、标识符、约束和条件）显式记录为账本式结构，代理能够在多轮对话中可靠地维护上下文，并在调用工具时严格遵循业务规则。该技术提升了代理的可解释性和合规性，特别适用于金融、医疗等强监管场景。产品创新在于用显式结构化状态替代隐式推理，降低了错误执行风险，为客服自动化提供了高可靠性的技术底座。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.20529v1",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "how-do-instructions-shape-speech-cross-attention-attribution-for-style-captioned",
+      "label": "How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captione",
+      "summary": "本研究提出跨注意力归因方法，用于解析风格标注文本到语音（TTS）系统中自然语言指令如何影响声学输出。现有系统虽能通过文字控制嗓音特质，但单个词汇对生成语音的具体作用不透明，导致故障诊断困难和可控性不足。该方法通过分析交叉注意力权重，将输出声学特征归因到输入指令中的各个词，揭示了词汇层面的风格控制机制。这对产品经理的价值在于：可设计更精确的语音风格编辑功能（如强调某词的情感色彩），提升虚拟助手、有声读物、游戏角色配音等场景的用户体验；同时为调试系统提供可解释性工具，降低迭代成本。技术核心是跨注意力归因，产品创新点在于实现细粒度的风格指令理解与反馈。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.20532v1",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "uniego-proxies-as-mediators-for-unified-egocentric-video-representation-learning",
+      "label": "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learnin",
+      "summary": "该论文提出UNIEGO框架，通过代理中介实现统一的第一人称（Egocentric）视频表示学习。传统方法受限于单视角、单模态和单模型，难以全面捕捉人类动作的丰富语义。UNIEGO利用多个代理分别处理不同视角或模态信息，并通过中介机制进行知识互补与融合，显著提升对第一人称视频的理解能力。这一技术对于AR/VR、智能眼镜等穿戴设备的行为理解、交互优化具有重要商业价值，也为多模态AI产品创新提供了统一表示学习的新范式。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.20559v1",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "optimal-deterministic-multicalibration-and-omniprediction",
+      "label": "Optimal Deterministic Multicalibration and Omniprediction",
+      "summary": "本文提出一种最优确定性多校准和全预测方法。多校准要求模型不仅在整体上无偏，而且针对不同子群体（由权重函数定义）也保持校准（即预测条件无偏）。该方法可显著提升模型在公平性和可靠性方面的表现，尤其适用于金融、医疗等对偏见敏感的商业场景。产品经理可借此设计更可信的AI决策系统，防止算法歧视，同时增强下游应用的泛化和鲁棒性，为个性化推荐、风险评估等产品提供技术支撑。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.20557v1",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "execution-state-capsules-graph-bound-execution-state-checkpoint-and-restore-for",
+      "label": "Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for",
+      "summary": "本文提出了一种名为“执行状态胶囊”的方法，针对低延迟、小批量、设备端AI服务的场景，解决传统KV缓存仅管理执行状态片段的问题。通过图绑定的执行状态检查点与恢复机制，能够在设备端实现高效的暂停-恢复操作，减少重复计算并保证低延迟，特别适用于物联网、移动端等资源受限环境。商业价值在于提升用户交互的连续性和响应速度，降低功耗与计算成本。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.20537v1",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "structuring-and-tokenizing-distributed-user-interest-context-for-generative-reco",
+      "label": "Structuring and Tokenizing Distributed User Interest Context for Generative Reco",
+      "summary": "该论文提出了一种面向生成式推荐系统的用户兴趣上下文结构化与标记化方法。核心在于将用户历史行为中的分布式兴趣上下文进行结构化编码，并通过物品标记化（Item Tokenization）桥接语义与推荐目标，使模型能够生成用户下一步交互的预测。技术要点包括设计统一的标记化框架处理多源异构行为、利用分布式兴趣表示提升推荐准确性。商业价值体现在可应用于电商、内容分发等场景，通过更精准的预测增强用户留存与转化。产品创新在于从传统匹配范式转向端到端生成式范式，简化推荐流程并提升个性化程度。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.20554v1",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "project-valhalla-explained-how-a-decade-of-work-arrives-in-jdk-28",
+      "label": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "summary": "Project Valhalla 是 OpenJDK 历经十年研发的重大特性，将在 JDK 28 中正式落地。它通过引入值类型（Value Types）和原始类型泛型，显著减少对象开销和内存占用，提升 Java 在计算密集型场景下的性能。对于 AI 产品经理而言，这一技术演进可优化基于 Java 的推理引擎、数据管道或微服务基础设施，降低部署成本并提高吞吐量，但短期不会直接影响 AI 模型或产品逻辑。",
+      "pm_score": 0.46,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48595511",
+      "date": "2026-06-19"
+    },
+    {
       "id": "a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight",
       "label": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
       "summary": "由科技工作者支持的PAC组织Guardrails筹集500万美元，意图在AI监管博弈中挑战大科技公司数十亿美元游说资金。该组织定位为平民主义运动，依靠AI一线从业者的小额捐款，旨在为AI伦理和公众利益发声。对于AI产品经理而言，这意味着未来监管环境可能因基层力量介入而趋于严格，影响产品设计中对透明度、公平性和安全性的考量，同时也可能催生新的合规产品需求。Guardrails的出现反映了AI行业内部对权力集中的担忧，是生态系统中一股不可忽视的政治力量。",
@@ -169,6 +268,50 @@
       "date": "2026-06-19"
     },
     {
+      "id": "multi-task-bayesian-in-context-learning",
+      "label": "Multi-Task Bayesian In-Context Learning",
+      "summary": "本文提出多任务贝叶斯上下文学习框架，融合贝叶斯推理与上下文学习，旨在提升模型在少样本场景下的不确定性量化、数据效率和鲁棒泛化能力。传统贝叶斯推理计算复杂，该框架通过可扩展近似降低计算开销，无需严格建模假设。对AI产品经理而言，该技术可赋能风险评估、医疗诊断等需可靠置信度的应用，并降低数据收集成本。产品创新在于实现多任务高效迁移，减少对大规模标注数据的依赖。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.20538v1",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "how-transparent-is-diffusiongemma",
+      "label": "How Transparent is DiffusionGemma?",
+      "summary": "该论文探讨了DiffusionGemma模型的推理透明度问题。DiffusionGemma在连续潜在空间中进行大部分计算，这种方式可能降低其推理过程的可解释性，从而影响对模型决策的理解、误用缓解和异常行为调试。对于AI产品经理，透明度直接关系到模型在安全合规、用户信任和产品风险控制中的表现。论文揭示了在追求生成能力的同时，保持模型内部决策透明性的挑战，为设计更可靠、可审计的AI产品提供了重要参考。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.20560v1",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "predictability-as-a-fine-grained-measure-for-privacy",
+      "label": "Predictability as a Fine-Grained Measure for Privacy",
+      "summary": "本文提出了一种基于可预测性的细粒度隐私度量框架，作为传统差分隐私的补充。传统差分隐私虽然提供严格的最坏情况隐私保障，但会导致显著的隐私-准确性权衡。新框架通过显式建模攻击者的先验知识，允许在保持合理隐私水平的同时减少对模型效用的牺牲。对AI产品经理而言，这意味着在构建需要处理敏感数据的应用时，可更灵活地平衡用户隐私保护与功能性能，例如在个性化推荐或医疗分析中实现更优的产品体验，同时降低合规风险。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.20546v1",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "deepswip-quotient-wmc-counterfactuals-for-neural-probabilistic-logic-programs",
+      "label": "DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs",
+      "summary": "DeepSWIP 提出了一种针对神经概率逻辑程序（如 DeepProbLog）的单世界反事实语义，解决标准推理仅支持关联性而缺乏因果推理的问题。基于 Quotient-WMC（加权模型计数）技术，它能在给定证据和干预条件下高效计算反事实概率，从而支持“如果…会怎样”的假设分析。该技术为 AI 产品带来更强的可解释性和因果推理能力，适用于医疗诊断、金融风控、自动驾驶等需要决策因果分析的高风险场景，是神经符号系统向实用化迈进的重要创新。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.20526v1",
+      "date": "2026-06-19"
+    },
+    {
       "id": "launch-hn-testerarmy-yc-p26-agents-that-test-web-and-mobile-apps",
       "label": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
       "summary": "TesterArmy 是 YC 孵化的初创公司，通过 AI Agent 自动化测试 Web 与移动应用。其核心价值在于利用大模型驱动的智能体模拟真实用户交互，自动发现缺陷、回归验证，显著降低人工测试成本并加速迭代。对于 AI 产品经理，该方案展示了 Agent 在垂直领域的落地潜力——无需编写复杂脚本即可实现端到端测试，同时支持多平台和复杂场景。商业上瞄准 QA 效率提升市场，产品创新在于将传统测试工具升级为自主决策的 Agent 系统。",
@@ -199,6 +342,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48585739",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "the-us-says-asml8217s-top-chip-tool-may-be-in-china-asml-says-it-isn8217t",
+      "label": "The US says ASML&#8217;s top chip tool may be in China. ASML says it isn&#8217;t",
+      "summary": "美国质疑ASML顶级芯片工具可能已流入中国，但ASML坚称未违规，并强调商业逻辑使其不会冒险失去出口许可。此事反映中美科技博弈加剧，若中国获得先进光刻机，可能加速本土AI芯片自研，冲击全球半导体供应链。对于AI产品经理而言，需关注芯片供应不确定性对模型训练成本、硬件路线选择的影响，以及长期算力生态的国产替代趋势。",
+      "pm_score": 0.41,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "date": "2026-06-19"
+    },
+    {
+      "id": "the-token-is-a-group-element-on-lie-algebra-attention-over-matrix-lie-groups",
+      "label": "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
+      "summary": "该论文提出了一种全新的注意力机制，将每个token视为矩阵李群的一个元素（裸变换），而非传统带特征负载的向量。这是首个直接操作李群元素的注意力构建，无需外部作用表示。技术要点在于利用李代数结构在群元素间进行注意力计算，从而保持几何对称性。这为处理具有群结构的数据（如3D旋转、姿态估计、分子构型等）提供了更高效的建模方法。商业价值体现在机器人、自动驾驶、AR/VR和科学计算等领域，可提升模型对空间变换和物理规律的泛化能力。产品创新上，可设计出更轻量、几何先验更强的Transformer变体。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.20547v1",
       "date": "2026-06-19"
     },
     {
@@ -290,6 +455,17 @@
       "date": "2026-06-19"
     },
     {
+      "id": "zen-and-the-art-of-machine-learning-research",
+      "label": "Zen and the Art of Machine Learning Research",
+      "summary": "本文探讨了机器学习研究的哲学与实践，类比《禅与摩托车维修艺术》中的思维方式，强调在模型开发中平衡科学严谨性与创造性直觉。对产品经理而言，理解这种研究文化有助于优化团队协作、提升模型迭代效率，并可能启发更灵活的产品创新路径。文中涉及实验设计、失败容忍度等要点，对构建长期AI能力有参考价值。",
+      "pm_score": 0.31,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48549118",
+      "date": "2026-06-19"
+    },
+    {
       "id": "almost-half-of-us-singles-feel-negatively-about-ai-in-dating-match-says",
       "label": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
       "summary": "About 47% of singles look negatively at the use of AI in dating -- but, many dating app users are open to AI helping with profile punch-ups and conversation starters.",
@@ -302,7 +478,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1726,
-    "edges": 175281
+    "real_nodes": 1743,
+    "edges": 177025
   }
 }

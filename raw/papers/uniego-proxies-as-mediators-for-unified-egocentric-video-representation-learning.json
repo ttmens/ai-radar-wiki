@@ -1,0 +1,35 @@
+{
+  "title": "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
+  "summary": "Egocentric video understanding is inherently limited by the narrow perspective of wearable cameras: a single viewpoint, a single modality, a single model cannot capture the full richness of human action. We argue that a truly expressive egocentric representation must subsume complementary knowledge across viewpoints, modalities, and foundation model representations, yet remain deployable from egocentric video alone. To this end, we introduce a hierarchical multi-teacher distillation framework that produces UNIEGO, a unified egocentric encoder trained with nine teachers spanning ego-exo viewpoints, RGB, depth, and skeleton modalities, and four foundation models. Rather than distilling directly from heterogeneous teachers whose incompatible architectures and feature geometries induce conflicting gradients, our framework interposes a layer of representation-specific Proxy models that translate diverse teacher knowledge into a homogeneous egocentric space. A second distillation stage, Selective Proxy Distillation (SPD), then adaptively selects, for each training sample, the subset of proxies that are both correct and confident, distilling exclusively from reliable supervision and suppressing erroneous signals. SPD is further stabilized by initializing UNIEGO as a learned convex combination of proxy parameters, placing the unified model in a well-conditioned region of the loss landscape before distillation begins. UNIEGO achieves state-of-the-art performance across three egocentric video understanding tasks - action recognition, video retrieval, and action segmentation on three challenging ego-exo benchmarks, outperforming naive multi-teacher distillation baselines and demonstrating that structured, proxy-mediated knowledge transfer yields richer and more discriminative egocentric representations.",
+  "url": "http://arxiv.org/abs/2606.20559v1",
+  "authors": [
+    "Wenhao Chi",
+    "Arkaprava Sinha",
+    "Dominick Reilly",
+    "Hieu Le",
+    "Srijan Das"
+  ],
+  "published": "2026-06-18T17:59:45Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "vision",
+    "training",
+    "distillation",
+    "parameter",
+    "gradient",
+    "retrieval"
+  ],
+  "summary_cn": "该论文提出UNIEGO框架，通过代理中介实现统一的第一人称（Egocentric）视频表示学习。传统方法受限于单视角、单模态和单模型，难以全面捕捉人类动作的丰富语义。UNIEGO利用多个代理分别处理不同视角或模态信息，并通过中介机制进行知识互补与融合，显著提升对第一人称视频的理解能力。这一技术对于AR/VR、智能眼镜等穿戴设备的行为理解、交互优化具有重要商业价值，也为多模态AI产品创新提供了统一表示学习的新范式。",
+  "pm_relevance": 8,
+  "concepts": [
+    "第一人称视频理解",
+    "多模态表示学习",
+    "代理中介机制"
+  ],
+  "entities": [],
+  "patterns": [
+    "统一表示学习模式"
+  ]
+}

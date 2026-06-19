@@ -1,0 +1,31 @@
+{
+  "title": "How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech",
+  "summary": "Style-captioned text-to-speech systems use natural language to control voice characteristics, but how individual words influence acoustic output remains unclear. Understanding this is critical for diagnosing failure modes and improving controllability in expressive TTS. We propose cross-attention attribution for speech diffusion models, adapting the DAAM framework to the speech domain for the first time, and apply it to CapSpeech-TTS. Our method extracts per-token heatmaps across 25 layers and 24 ODE steps. We analyze 3,600 (style caption, text transcript) combinations comprising 120 style captions conditioning the generation of 30 text transcripts each, revealing how caption tokens shape waveforms. Results show: (1) style tokens have lower temporal variance than content/function tokens, confirming global conditioning; (2) style attention correlates with F0 and energy; (3) style conditioning peaks in early steps and deep layers; (4) attention entropy reaches its minimum at layer 17, co-occurring with the style importance peak, indicating maximal network selectivity at the most style-critical stage. This is the first study of how natural language influences cross-attention in speech diffusion models",
+  "url": "http://arxiv.org/abs/2606.20532v1",
+  "authors": [
+    "Nityanand Mathur",
+    "Hamees Sayed",
+    "Wasim Madha",
+    "Apoorv Singh",
+    "Sameer Khurana"
+  ],
+  "published": "2026-06-18T17:47:32Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "attention",
+    "diffusion model"
+  ],
+  "summary_cn": "本研究提出跨注意力归因方法，用于解析风格标注文本到语音（TTS）系统中自然语言指令如何影响声学输出。现有系统虽能通过文字控制嗓音特质，但单个词汇对生成语音的具体作用不透明，导致故障诊断困难和可控性不足。该方法通过分析交叉注意力权重，将输出声学特征归因到输入指令中的各个词，揭示了词汇层面的风格控制机制。这对产品经理的价值在于：可设计更精确的语音风格编辑功能（如强调某词的情感色彩），提升虚拟助手、有声读物、游戏角色配音等场景的用户体验；同时为调试系统提供可解释性工具，降低迭代成本。技术核心是跨注意力归因，产品创新点在于实现细粒度的风格指令理解与反馈。",
+  "pm_relevance": 8,
+  "concepts": [
+    "跨注意力归因",
+    "风格控制TTS",
+    "可解释语音生成"
+  ],
+  "entities": [],
+  "patterns": [
+    "Cross-Attribution Pattern"
+  ]
+}

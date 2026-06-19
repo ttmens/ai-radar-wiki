@@ -1,0 +1,27 @@
+{
+  "title": "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
+  "summary": "We place the attention token on the group: a token is an element $g_i$ of a matrix Lie group $G$ -- a bare transformation, with no feature payload and no external action $ρ(g)$ carrying it. To our knowledge this is the first attention construction whose tokens are bare matrix Lie group elements: their score is the closed-form algebra norm of the relative pose rather than a learned kernel, and it reaches the affine full-frame groups that every irrep- or surjective-exp-based method must exclude. We call it Lie-Algebra Attention. Once tokens are group elements, the rest follows with none of the usual representation-theoretic machinery. The relative geometry of a pair is canonical, $g_i^{-1} g_j$, so the pairwise invariant $w_{ij} = \\log(g_i^{-1} g_j)$ is intrinsic rather than designed; equivariance under the diagonal $G$-action is tautological, and the cocycle condition holds automatically. The attention score is the negative squared algebra norm, $s_{ij} = -\\|\\log(g_i^{-1} g_j)\\|_λ^2/τ$: the canonical proximity kernel under a block-weighted Frobenius inner product, with no irreducible representations, spherical harmonics, Clebsch-Gordan products, or learned kernel. The construction applies to any matrix Lie group on a chosen logarithm chart containing the relative poses, including the non-compact non-abelian affine groups with scale and shear that no vector-token attention method reaches: neither the irrep tradition nor surjective-exp methods. Three sequence-completion experiments, on SE(2), SO(3), and Aff(2), bear this out: the closed-form score matches a learned MLP kernel on the same invariant and outperforms it on SE(2), using 50 to 80x fewer score parameters, while a vector-token baseline breaks invariance by five to twelve orders of magnitude.",
+  "url": "http://arxiv.org/abs/2606.20547v1",
+  "authors": [
+    "Przemyslaw Musialski"
+  ],
+  "published": "2026-06-18T17:56:17Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "attention",
+    "parameter"
+  ],
+  "summary_cn": "该论文提出了一种全新的注意力机制，将每个token视为矩阵李群的一个元素（裸变换），而非传统带特征负载的向量。这是首个直接操作李群元素的注意力构建，无需外部作用表示。技术要点在于利用李代数结构在群元素间进行注意力计算，从而保持几何对称性。这为处理具有群结构的数据（如3D旋转、姿态估计、分子构型等）提供了更高效的建模方法。商业价值体现在机器人、自动驾驶、AR/VR和科学计算等领域，可提升模型对空间变换和物理规律的泛化能力。产品创新上，可设计出更轻量、几何先验更强的Transformer变体。",
+  "pm_relevance": 6,
+  "concepts": [
+    "李群注意力",
+    "几何深度学习",
+    "群等变表示"
+  ],
+  "entities": [],
+  "patterns": [
+    "Group-Aware Attention"
+  ]
+}

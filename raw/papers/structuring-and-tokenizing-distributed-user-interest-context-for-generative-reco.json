@@ -1,0 +1,33 @@
+{
+  "title": "Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
+  "summary": "Generative recommendation is an emerging paradigm that has shown promise in industrial recommendation systems, aiming to predict users' next interactions from their historical behaviors. At the core of generative recommendation lies item tokenization, which bridges item semantics and recommendation models. However, existing methods often struggle to effectively organize and inject complex user-behavioral and item-semantic contexts into recommendation models simultaneously. On the one hand, existing graph-based integration methods, such as graph serialization and graph neural networks, either suffer from scalability issues or exploit only local graph information. On the other hand, existing semantic tokenization methods typically rely on heuristics and lack explicit supervision signals, which may lead to inaccurate or suboptimal semantic representations. To address these limitations in user interest context modeling, we propose G2Rec, a scalable framework that unifies holistic graph-based user co-engagement modeling with semantic tokenization for industrial-scale generative recommendation. Overall, G2Rec enables recommendation models to capture holistic and semantically grounded user interest prototypes without requiring ground-truth user interests, thereby providing more comprehensive and accurate modeling of user behavior contexts in industrial sequential recommendation. Online deployment across product surfaces and extensive experiments on public datasets demonstrate the superiority of G2Rec over existing methods.",
+  "url": "http://arxiv.org/abs/2606.20554v1",
+  "authors": [
+    "Ruizhong Qiu",
+    "Yinglong Xia",
+    "Dongqi Fu",
+    "Hanqing Zeng",
+    "Ren Chen"
+  ],
+  "published": "2026-06-18T17:58:32Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "vision",
+    "neural network",
+    "dataset",
+    "gan"
+  ],
+  "summary_cn": "该论文提出了一种面向生成式推荐系统的用户兴趣上下文结构化与标记化方法。核心在于将用户历史行为中的分布式兴趣上下文进行结构化编码，并通过物品标记化（Item Tokenization）桥接语义与推荐目标，使模型能够生成用户下一步交互的预测。技术要点包括设计统一的标记化框架处理多源异构行为、利用分布式兴趣表示提升推荐准确性。商业价值体现在可应用于电商、内容分发等场景，通过更精准的预测增强用户留存与转化。产品创新在于从传统匹配范式转向端到端生成式范式，简化推荐流程并提升个性化程度。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Generative Recommendation",
+    "Item Tokenization",
+    "User Interest Context"
+  ],
+  "entities": [],
+  "patterns": [
+    "Generative Recommendation Pattern"
+  ]
+}

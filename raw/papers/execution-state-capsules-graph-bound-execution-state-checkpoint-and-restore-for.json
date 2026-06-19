@@ -1,0 +1,28 @@
+{
+  "title": "Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving",
+  "summary": "Mainstream LLM serving systems reuse prefix work mainly through paged or radix key-value (KV) caches. This is highly effective for high-throughput, high-concurrency serving, but it manages only one positional fragment of execution state: the KV cache. We study the opposite regime: low-latency, small-batch, on-device physical-AI serving, where interactive LLM agents, speech systems, and robot policies repeatedly branch, reset, interrupt, and re-enter under tight responsiveness budgets. We introduce execution-state capsules, a graph-bound checkpoint and restore mechanism for the complete restorable state at a committed boundary. FlashRT is a white-box, backend-facing kernel runtime whose evaluated NVIDIA CUDA backend runs captured graph plans over contiguous static buffers with no block-table indirection. Because the live state is a closed set of named buffers, a capsule can snapshot, restore, fork, or roll back the whole execution boundary, including KV, recurrent state, convolution state, MTP state, and metadata. This moves reuse from token-addressed KV fragments to graph-bound execution-state boundaries. On an RTX 5090, capsule restore is byte-exact at the stored-state level and token-identical under greedy decode. A KV-only ablation diverges, showing that recurrent state is load-bearing. GPU-resident snapshot and restore are sub-millisecond, and TTFT speedup over cold prefill grows from 3.9x at 2k tokens to 27x at 16k tokens. On Jetson AGX Thor and DGX Spark, the same correctness and structural properties hold. Capsules are not a replacement for high-throughput KV-cache serving; they define a complementary latency-first serving point for explicit execution-state reuse.",
+  "url": "http://arxiv.org/abs/2606.20537v1",
+  "authors": [
+    "Liang Su"
+  ],
+  "published": "2026-06-18T17:49:36Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "latency",
+    "token",
+    "throughput"
+  ],
+  "summary_cn": "本文提出了一种名为“执行状态胶囊”的方法，针对低延迟、小批量、设备端AI服务的场景，解决传统KV缓存仅管理执行状态片段的问题。通过图绑定的执行状态检查点与恢复机制，能够在设备端实现高效的暂停-恢复操作，减少重复计算并保证低延迟，特别适用于物联网、移动端等资源受限环境。商业价值在于提升用户交互的连续性和响应速度，降低功耗与计算成本。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Execution State Checkpoint",
+    "Device-AI Serving",
+    "Low-Latency Serving"
+  ],
+  "entities": [],
+  "patterns": [
+    "State Checkpoint/Restore Pattern",
+    "Edge AI Serving Pattern"
+  ]
+}

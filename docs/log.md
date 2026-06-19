@@ -2052,3 +2052,22 @@
 - create: how-japans-railways-stayed-one-while-splitting-apart.md
 - create: datasette-apps-host-custom-html-applications-inside-datasette.md
 - create: source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m.md
+
+## [2026-06-19 18:06] sync v3 | 17 new | pillars: {'capabilities': 15, 'patterns': 2}
+- create: how-transparent-is-diffusiongemma.md
+- create: uniego-proxies-as-mediators-for-unified-egocentric-video-representation-learning.md
+- create: optimal-deterministic-multicalibration-and-omniprediction.md
+- create: structuring-and-tokenizing-distributed-user-interest-context-for-generative-reco.md
+- create: the-token-is-a-group-element-on-lie-algebra-attention-over-matrix-lie-groups.md
+- create: predictability-as-a-fine-grained-measure-for-privacy.md
+- create: toward-calibrated-mixture-of-experts-under-distribution-shift.md
+- create: multi-task-bayesian-in-context-learning.md
+- create: execution-state-capsules-graph-bound-execution-state-checkpoint-and-restore-for.md
+- create: how-do-instructions-shape-speech-cross-attention-attribution-for-style-captioned.md
+- create: ledgeragent-structured-state-for-policy-adherent-tool-calling-agents.md
+- create: deepswip-quotient-wmc-counterfactuals-for-neural-probabilistic-logic-programs.md
+- create: project-valhalla-explained-how-a-decade-of-work-arrives-in-jdk-28.md
+- create: zen-and-the-art-of-machine-learning-research.md
+- create: the-airpods-effect.md
+- create: the-us-says-asml8217s-top-chip-tool-may-be-in-china-asml-says-it-isn8217t.md
+- create: show-hn-crawlie-free-open-source-seo-audit-tool-for-humans-and-agents.md
