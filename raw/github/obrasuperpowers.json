@@ -1,0 +1,37 @@
+{
+  "name": "obra/superpowers",
+  "description": "An agentic skills framework & software development methodology that works.",
+  "stars": 233280,
+  "language": "Shell",
+  "topics": [
+    "ai",
+    "brainstorming",
+    "coding",
+    "obra",
+    "sdlc",
+    "skills",
+    "subagent-driven-development",
+    "superpowers"
+  ],
+  "url": "https://github.com/obra/superpowers",
+  "created": "2025-10-09T19:45:18Z",
+  "tag": "GitHub",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "obra/superpowers 是一个开源的智能体技能框架与软件开发方法论，旨在解决 AI 代理在实际应用中的可复用性与开发效率问题。该框架定义了一套标准化的技能接口与组合机制，允许开发者像构建软件模块一样组装 AI 能力，支持动态编排与上下文感知。其核心技术要点包括将复杂任务拆解为原子技能、利用元编程实现技能间的自适应协同，以及面向产品迭代的轻量级开发流程。商业价值在于降低 AI 产品原型到生产的门槛，加速多智能体系统的构建，尤其适用于需要快速验证和迭代的 AI 原生应用。产品创新体现在将软件工程的最佳实践（如模块化、版本控制）引入 AI 代理开发，提升了系统的可维护性与可扩展性。",
+  "pm_relevance": 9,
+  "concepts": [
+    "Agentic Skills",
+    "Software Development Methodology",
+    "Agent Framework"
+  ],
+  "entities": [
+    "obra/superpowers"
+  ],
+  "patterns": [
+    "Skills Framework Pattern",
+    "Modular Agent Development"
+  ]
+}

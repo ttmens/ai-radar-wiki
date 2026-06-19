@@ -2077,3 +2077,16 @@
 - create: billionaire-ambani-wants-ai-in-every-call-app-and-home.md
 - create: the-ceo-of-allbirds8217-new-ai-biz-has-a-plan-but-no-employees.md
 - create: show-hn-modeloop-from-visual-algorithms-to-microcontroller-c-code.md
+
+## [2026-06-20 06:05] sync v3 | 11 new | pillars: {'patterns': 1, 'capabilities': 9, 'business': 1}
+- create: obrasuperpowers.md
+- create: norway-imposes-near-ban-on-ai-in-elementary-school.md
+- create: hyundai-buys-boston-dynamics.md
+- create: a-new-bill-takes-aim-at-government-pressure-to-silence-lawful-online-speech.md
+- create: companies-rein-in-ai-usage-as-costs-strain-budgets.md
+- create: amazon-drops-sam-altman-movie-after-announcing-openai-partnership.md
+- create: john-jumper-to-join-anthropic.md
+- create: reinventing-the-renaissance.md
+- create: is-the-us-government8217s-anthropic-ban-accidentally-helping-the-brand.md
+- create: the-us-banned-anthropic8217s-fable-5-release-but-the-numbers-don8217t-seem-to-ca.md
+- create: show-hn-pagecast-publish-markdownhtml-reports-to-cloudflare-pages.md
