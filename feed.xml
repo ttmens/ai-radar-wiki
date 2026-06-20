@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 20 Jun 2026 00:05:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 04:03:32 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -77,6 +77,14 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>Encryption, spyware, and now Mythos: History shows why cyber export control does</title>
+      <link>https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/</link>
+      <guid isPermaLink="false">encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesn82</guid>
+      <pubDate>2026-06-20T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>本文回顾了过去30年网络安全软件出口管制的失败历史，指出限制加密技术、间谍软件等流向境外最终被证明无效。如今，Anthropic 推出的网络安全 AI 模型 Mythos 也面临类似的出口管制讨论。对 AI 产品经理而言，这提示了模型能力不仅受技术限制，还可能受到国际法规的约束，影响产品的全球部署、市场准入和合规策略。Mythos 作为专业级安全模型，其商业价值在于自动化威胁检测，但出口管制可能阻碍其在跨国企业中的应用。文章提醒产品经理需提前评估监管风险，并考虑模型的开源或本地化部署策略。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Companies rein in AI usage as costs strain budgets</title>
       <link>https://news.ycombinator.com/item?id=48602571</link>
       <guid isPermaLink="false">companies-rein-in-ai-usage-as-costs-strain-budgets</guid>
@@ -114,6 +122,22 @@
       <guid isPermaLink="false">akse3d-open-source-3d-modelling-anyone-can-master</guid>
       <pubDate>2026-06-20T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Akse3D 是一个开源3D建模工具，强调任何人都能掌握。它降低了传统3D建模的复杂门槛，可能借助AI辅助简化操作流程。作为开源项目，它鼓励社区贡献和定制，对产品经理而言，这种低门槛、可扩展的3D创作工具在游戏、VR、教育等领域有潜在商业价值，也体现了通过开源和AI能力提升产品易用性的创新方向。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Digital Printing of Arabic: explaining the problem</title>
+      <link>https://news.ycombinator.com/item?id=48563047</link>
+      <guid isPermaLink="false">digital-printing-of-arabic-explaining-the-problem</guid>
+      <pubDate>2026-06-20T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>阿拉伯语的数字印刷面临独特挑战：其字符连接规则复杂、字形随位置变化（首尾中形式）、从右向左书写方向与数字/拉丁字母混合排版困难。传统排版引擎难以正确处理连字、变体选择及双向文本（BiDi）对齐。AI可通过学习大量阿拉伯语文本的排版规律，自动生成正确的贝塞尔曲线字形，优化字体渲染与OCR识别。商业上，精准的阿拉伯语数字排版可服务中东及北非庞大市场，提升电子书、广告、政府文件的本地化质量。产品创新方向包括AI驱动的智能字体引擎和上下文感知的排版工具。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2</title>
+      <link>https://news.ycombinator.com/item?id=48600167</link>
+      <guid isPermaLink="false">gpt-55-hallucinates-3x-more-than-mit-licensed-glm-52</guid>
+      <pubDate>2026-06-20T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>GPT-5.5相比MIT开源的GLM-5.2在幻觉率上高出3倍，揭示了闭源与开源大模型在事实准确性上的显著差距。对于AI产品经理，这意味着在选择模型底座时需权衡性能与可靠性：开源模型GLM-5.2在减少虚构内容方面更具优势，可能更适合对真实性要求高的场景（如医疗、金融），而GPT-5.5虽可能在其他能力上更强，但幻觉风险更高，需配合严格的验证机制。此对比也凸显了开源生态在模型质量上的快速追赶，或改变商业化选型策略。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -387,30 +411,6 @@
       <pubDate>2026-06-19T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>美国质疑ASML顶级芯片工具可能已流入中国，但ASML坚称未违规，并强调商业逻辑使其不会冒险失去出口许可。此事反映中美科技博弈加剧，若中国获得先进光刻机，可能加速本土AI芯片自研，冲击全球半导体供应链。对于AI产品经理而言，需关注芯片供应不确定性对模型训练成本、硬件路线选择的影响，以及长期算力生态的国产替代趋势。</p></description>
       <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups</title>
-      <link>http://arxiv.org/abs/2606.20547v1</link>
-      <guid isPermaLink="false">the-token-is-a-group-element-on-lie-algebra-attention-over-matrix-lie-groups</guid>
-      <pubDate>2026-06-19T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出了一种全新的注意力机制，将每个token视为矩阵李群的一个元素（裸变换），而非传统带特征负载的向量。这是首个直接操作李群元素的注意力构建，无需外部作用表示。技术要点在于利用李代数结构在群元素间进行注意力计算，从而保持几何对称性。这为处理具有群结构的数据（如3D旋转、姿态估计、分子构型等）提供了更高效的建模方法。商业价值体现在机器人、自动驾驶、AR/VR和科学计算等领域，可提升模型对空间变换和物理规律的泛化能力。产品创新上，可设计出更轻量、几何先验更强的Transformer变体。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>How Japan's railways stayed one while splitting apart</title>
-      <link>https://news.ycombinator.com/item?id=48570730</link>
-      <guid isPermaLink="false">how-japans-railways-stayed-one-while-splitting-apart</guid>
-      <pubDate>2026-06-19T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨日本铁路网在1987年拆分民营化后，如何通过标准化技术接口与统一调度系统维持全国一体化运营。核心是构建跨公司共享的列车控制、时刻表协调和数据平台，实现安全与效率统一。对AI产品经理的启示：在分布式系统或组织分拆时，可借鉴其统一数据协议与协同AI调度模式，平衡独立业务与全局优化。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Agentic Resource Discovery Specification</title>
-      <link>https://news.ycombinator.com/item?id=48573268</link>
-      <guid isPermaLink="false">agentic-resource-discovery-specification</guid>
-      <pubDate>2026-06-19T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该规范定义了智能体（Agent）自主发现和绑定外部资源（如数据源、API、工具）的标准化协议，旨在解决AI系统在动态环境中资源获取的耦合与配置难题。对产品经理而言，它意味着无需人工预配置，AI可实时感知并调用可用资源，显著降低集成成本并提升任务自动化能力。商业上可加速构建自适应工作流、多模态数据聚合等场景的产品落地，推动Agentic AI从演示走向规模化应用。</p></description>
-      <category>📱 产品模式</category>
     </item>
   </channel>
 </rss>
