@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-21 | Total pages: 1786
+> Last updated: 2026-06-21 | Total pages: 1793
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -255,6 +255,7 @@
 - [[im-tired-of-talking-to-ai.md]] I'm Tired of Talking to AI `pillar:capabilities` `score:0.68`
 - [[im-writing-again.md]] I’m writing again `pillar:capabilities` `score:0.48`
 - [[in-browser-container-builds.md]] In-Browser Container Builds `pillar:capabilities` `score:0.33`
+- [[in-the-weights-is-your-new-ai-centric-vanity-search.md]] In the Weights is your new AI-centric vanity search `pillar:capabilities` `score:0.41`
 - [[infomaniak-transitions-to-a-foundation-model-to-protect-user-data-privacy.md]] Infomaniak transitions to a foundation model to protect user data privacy `pillar:capabilities` `score:0.415`
 - [[inside-faiss-billion-scale-similarity-search.md]] Inside FAISS: Billion-Scale Similarity Search `pillar:capabilities` `score:0.415`
 - [[interfaze-a-new-model-architecture-built-for-high.md]] Interfaze: A new model architecture built for high accuracy at scale `pillar:capabilities` `score:0.205`
@@ -377,6 +378,7 @@
 - [[policy-on-the-ai-exponential.md]] Policy on the AI Exponential `pillar:capabilities` `score:0.55`
 - [[pool8217s-new-app-turns-your-screenshots-into-something-useful.md]] Pool&#8217;s new app turns your screenshots into something useful `pillar:capabilities` `score:0.445`
 - [[populora-co-evolving-llm-populations-for-reasoning-self-play.md]] PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play `pillar:capabilities` `score:0.33`
+- [[postgresbench-a-reproducible-benchmark-for-postgres-services.md]] PostgresBench: A Reproducible Benchmark for Postgres Services `pillar:capabilities` `score:0.26`
 - [[pramaana-labs-raises-27m-seed-round-from-khosla-ventures-to-bring-formal-verific.md]] Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verifi `pillar:capabilities` `score:0.48`
 - [[probably-raises-9m-to-build-a-more-reliable-kind-of-ai.md]] Probably raises $9M to build a more reliable kind of AI `pillar:capabilities` `score:0.48`
 - [[programmers-will-document-for-claude-but-not-for-each-other.md]] Programmers will document for Claude, but not for each other `pillar:capabilities` `score:0.585`
@@ -468,6 +470,7 @@
 - [[show-hn-uruky-eu-based-kagi-alternative-now-has-image-search-and-url-rewrites.md]] Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites `pillar:capabilities` `score:0.26`
 - [[show-hn-vet-turned-founder-ai-lawn-diagnosis.md]] Show HN: Vet turned founder, AI lawn diagnosis `pillar:capabilities` `score:0.295`
 - [[show-hn-watch-a-neural-net-learn-to-play-snake.md]] Show HN: Watch a neural net learn to play Snake `pillar:capabilities` `score:0.36`
+- [[show-hn-we-post-trained-a-model-that-pen-tests-instead-of-refusing.md]] Show HN: We post-trained a model that pen tests instead of refusing `pillar:capabilities` `score:0.43`
 - [[silurusooxml-pixel-faithful-office-documents-rendered-in-the-browser.md]] Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser `pillar:capabilities` `score:0.255`
 - [[siri-ai.md]] Siri AI `pillar:capabilities` `score:0.595`
 - [[slightly-reducing-the-sloppiness-of-ai-generated-front-end.md]] Slightly reducing the sloppiness of AI generated front end `pillar:capabilities` `score:0.55`
@@ -525,6 +528,7 @@
 - [[the-structural-barriers-to-ai-lawyers.md]] The Structural Barriers to AI Lawyers `pillar:capabilities` `score:0.395`
 - [[the-us-government8217s-anthropic-models-ban-was-never-about-an-ai-jailbreak.md]] The US government&#8217;s Anthropic models ban was never about an AI jailbreak `pillar:capabilities` `score:0.305`
 - [[the-ways-we-contain-claude-across-products.md]] The ways we contain Claude across products `pillar:capabilities` `score:0.43`
+- [[the-wholesale-plagiarism-of-obscure-sorrows.md]] The Wholesale Plagiarism of Obscure Sorrows `pillar:capabilities` `score:0.495`
 - [[the-wonders-of-ai-we-are-retiring-our-bug-bounty-program.md]] The Wonders of AI: We Are Retiring Our Bug Bounty Program `pillar:capabilities` `score:0.255`
 - [[theker-just-raised-85m-to-build-the-factory-robot-that-doesn8217t-specialize-in.md]] Theker just raised $85M to build the factory robot that doesn&#8217;t specialize `pillar:capabilities` `score:0.41`
 - [[there-is-life-before-main-in-rust.md]] There Is Life Before Main in Rust `pillar:capabilities` `score:0.17`
@@ -545,6 +549,7 @@
 - [[two-ea-18-fighter-jets-collide-at-mountain-home-airshow-pilots-ejected-safely.md]] Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely `pillar:capabilities` `score:0.305`
 - [[u-of-t-researchers-demonstrate-ai-worm-could-target-any-online-device.md]] U of T researchers demonstrate AI worm could target any online device `pillar:capabilities` `score:0.295`
 - [[ubisoft-co-founder-claude-guillemot-has-died-in-a-plane-crash.md]] Ubisoft co-founder Claude Guillemot has died in a plane crash `pillar:capabilities` `score:0.085`
+- [[uhf-x11-x11-built-for-visionos-and-apple-vision-pro.md]] UHF X11: X11 Built for VisionOS and Apple Vision Pro `pillar:capabilities` `score:0.36`
 - [[uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases.md]] UK media fails to disclose defence sector links in nearly 60% of cases `pillar:capabilities` `score:0.36`
 - [[uk-sovereign-llm-inference.md]] UK sovereign LLM inference `pillar:capabilities` `score:0.445`
 - [[ultrafast-machine-learning-on-fpgas-via-kolmogorov-arnold-networks.md]] Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks `pillar:capabilities` `score:0.395`
@@ -1154,6 +1159,7 @@
 - [[show-hn-zerofs-make-s3-your-primary-storage.md]] Show HN: ZeroFS – Make S3 your primary storage `pillar:patterns` `score:0.295`
 - [[show-hn-zot-yet-another-coding-agent-harness.md]] Show HN: Zot – Yet another coding agent harness `pillar:patterns` `score:0.36`
 - [[shunning-ai-is-the-human-choice.md]] Shunning AI is the human choice `pillar:patterns` `score:0.595`
+- [[signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-f.md]] Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your `pillar:patterns` `score:0.48`
 - [[significant-gravitasautogpt.md]] Significant-Gravitas/AutoGPT `pillar:patterns` `score:0.615`
 - [[sillytavernsillytavern.md]] SillyTavern/SillyTavern `pillar:patterns` `score:0.58`
 - [[simstudioaisim.md]] simstudioai/sim `pillar:patterns` `score:0.58`
@@ -1632,6 +1638,7 @@
 - [[nea8217s-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning.md]] NEA&#8217;s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning `pillar:business` `score:0.48`
 - [[new-stainless-steel-can-survive-conditions-for-hyd.md]] New stainless steel can survive conditions for hydrogen production in seawater `pillar:business` `score:0.155`
 - [[no-raise-no-promotion-1-in-4-white-collar-workers-are-stalling-out.md]] No Raise, No Promotion: 1 in 4 White-Collar Workers Are Stalling Out `pillar:business` `score:0.515`
+- [[nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic.md]] Nobel laureate John Jumper is leaving DeepMind for rival Anthropic `pillar:business` `score:0.515`
 - [[nvidia-has-already-committed-40b-to-equity-ai-dea.md]] Nvidia has already committed $40B to equity AI deals this year `pillar:business` `score:0.48`
 - [[openai-barrels-toward-ipo-that-may-happen-in-september.md]] OpenAI barrels toward IPO that may happen in September `pillar:business` `score:0.48`
 - [[openai-is-preparing-to-file-for-an-ipo-soon.md]] OpenAI Is Preparing to File for an IPO Soon `pillar:business` `score:0.46`

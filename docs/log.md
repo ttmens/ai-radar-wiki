@@ -2105,3 +2105,12 @@
 - create: ubisoft-co-founder-claude-guillemot-has-died-in-a-plane-crash.md
 - create: llms-are-complicated-now.md
 - create: a-1969-camera-operators-strike-created-upstairs-downstairs-multiverse.md
+
+## [2026-06-21 06:04] sync v3 | 7 new | pillars: {'capabilities': 6, 'patterns': 1}
+- create: uhf-x11-x11-built-for-visionos-and-apple-vision-pro.md
+- create: postgresbench-a-reproducible-benchmark-for-postgres-services.md
+- create: the-wholesale-plagiarism-of-obscure-sorrows.md
+- create: show-hn-we-post-trained-a-model-that-pen-tests-instead-of-refusing.md
+- create: signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-f.md
+- create: in-the-weights-is-your-new-ai-centric-vanity-search.md
+- create: nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic.md
