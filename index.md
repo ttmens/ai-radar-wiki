@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-20 | Total pages: 1777
+> Last updated: 2026-06-20 | Total pages: 1780
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -150,6 +150,7 @@
 - [[did-claude-increase-bugs-in-rsync.md]] Did Claude increase bugs in rsync? `pillar:capabilities` `score:0.63`
 - [[diffusiongemma-4x-faster-text-generation.md]] DiffusionGemma: 4x Faster Text Generation `pillar:capabilities` `score:0.615`
 - [[digg-tries-again-this-time-as-an-ai-news-aggregat.md]] Digg tries again, this time as an AI news aggregator `pillar:capabilities` `score:0.305`
+- [[digital-printing-of-arabic-explaining-the-problem.md]] Digital Printing of Arabic: explaining the problem `pillar:capabilities` `score:0.33`
 - [[digital-sovereignty-becomes-an-imperative-as-the-us-reads-dutch-emails.md]] Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails `pillar:capabilities` `score:0.55`
 - [[diy-bipedal-robot-used-pneumatic-air-muscles-instead-of-motors.md]] DIY Bipedal Robot Used Pneumatic "Air-Muscles" Instead of Motors `pillar:capabilities` `score:0.275`
 - [[do-transformers-need-three-projections-systematic-study-of-qkv-variants.md]] Do transformers need three projections? Systematic study of QKV variants `pillar:capabilities` `score:0.445`
@@ -163,6 +164,7 @@
 - [[efficient-and-training-free-single-image-diffusion-models.md]] Efficient and Training-Free Single-Image Diffusion Models `pillar:capabilities` `score:0.33`
 - [[elevenlabs8217s-new-music-generation-model-can-switch-genres-mid-track.md]] ElevenLabs&#8217;s new music generation model can switch genres mid-track `pillar:capabilities` `score:0.48`
 - [[emacs-31-is-around-the-corner-the-changes-im-daily-driving.md]] Emacs 31 Is Around the Corner: The Changes I'm Daily Driving `pillar:capabilities` `score:0.565`
+- [[encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesn82.md]] Encryption, spyware, and now Mythos: History shows why cyber export control does `pillar:capabilities` `score:0.445`
 - [[entanglement-builds-space-time-now-magic-gives-it-gravity.md]] Entanglement Builds Space-Time. Now "Magic" Gives It Gravity `pillar:capabilities` `score:0.34`
 - [[everyone-against-us-2023.md]] Everyone Against Us (2023) `pillar:capabilities` `score:0.225`
 - [[expertise-in-the-age-of-ai.md]] Expertise in the Age of AI `pillar:capabilities` `score:0.38`
@@ -206,6 +208,7 @@
 - [[googles-antigravity-bait-and-switch.md]] Google's Antigravity Bait and Switch `pillar:capabilities` `score:0.53`
 - [[googles-genie-world-model-can-now-simulate-real-streets-with-street-view.md]] Google’s Genie world model can now simulate real streets with Street View `pillar:capabilities` `score:0.515`
 - [[gpt-2-too-dangerous-to-release-2019.md]] GPT-2: Too Dangerous To Release (2019) `pillar:capabilities` `score:0.58`
+- [[gpt-55-hallucinates-3x-more-than-mit-licensed-glm-52.md]] GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2 `pillar:capabilities` `score:0.33`
 - [[gptnl-a-sovereign-language-model-for-the-netherlands.md]] GPT‑NL: a sovereign language model for the Netherlands `pillar:capabilities` `score:0.565`
 - [[grapheneos-speech-services-version-2-released.md]] GrapheneOS Speech Services version 2 released `pillar:capabilities` `score:0.295`
 - [[growing-neural-cellular-automata.md]] Growing Neural Cellular Automata `pillar:capabilities` `score:0.295`

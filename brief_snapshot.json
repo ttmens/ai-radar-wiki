@@ -1,7 +1,7 @@
 {
   "date": "2026-06-20",
-  "generated_at": "2026-06-20T06:05:30.114574+08:00",
-  "item_count": 13,
+  "generated_at": "2026-06-20T12:01:37.824036+08:00",
+  "item_count": 16,
   "items": [
     {
       "id": "hyundai-buys-boston-dynamics",
@@ -92,6 +92,17 @@
       "date": "2026-06-20"
     },
     {
+      "id": "encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesn82",
+      "label": "Encryption, spyware, and now Mythos: History shows why cyber export control does",
+      "summary": "本文回顾了过去30年网络安全软件出口管制的失败历史，指出限制加密技术、间谍软件等流向境外最终被证明无效。如今，Anthropic 推出的网络安全 AI 模型 Mythos 也面临类似的出口管制讨论。对 AI 产品经理而言，这提示了模型能力不仅受技术限制，还可能受到国际法规的约束，影响产品的全球部署、市场准入和合规策略。Mythos 作为专业级安全模型，其商业价值在于自动化威胁检测，但出口管制可能阻碍其在跨国企业中的应用。文章提醒产品经理需提前评估监管风险，并考虑模型的开源或本地化部署策略。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "date": "2026-06-20"
+    },
+    {
       "id": "companies-rein-in-ai-usage-as-costs-strain-budgets",
       "label": "Companies rein in AI usage as costs strain budgets",
       "summary": "当前企业正因AI使用成本高企而收紧预算，这对AI产品经理意味着需要更精细地管理模型调用和资源消耗。成本压力推动产品创新方向包括：选择更轻量的模型、实施边缘计算、优化推理频率、以及建立成本监控体系。商业上，公司可能转向按需付费或内部私有化部署以控制开支。产品经理应优先评估AI功能的ROI，平衡性能与成本，避免过度依赖昂贵的大模型。",
@@ -145,10 +156,32 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48540779",
       "date": "2026-06-20"
+    },
+    {
+      "id": "digital-printing-of-arabic-explaining-the-problem",
+      "label": "Digital Printing of Arabic: explaining the problem",
+      "summary": "阿拉伯语的数字印刷面临独特挑战：其字符连接规则复杂、字形随位置变化（首尾中形式）、从右向左书写方向与数字/拉丁字母混合排版困难。传统排版引擎难以正确处理连字、变体选择及双向文本（BiDi）对齐。AI可通过学习大量阿拉伯语文本的排版规律，自动生成正确的贝塞尔曲线字形，优化字体渲染与OCR识别。商业上，精准的阿拉伯语数字排版可服务中东及北非庞大市场，提升电子书、广告、政府文件的本地化质量。产品创新方向包括AI驱动的智能字体引擎和上下文感知的排版工具。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48563047",
+      "date": "2026-06-20"
+    },
+    {
+      "id": "gpt-55-hallucinates-3x-more-than-mit-licensed-glm-52",
+      "label": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "summary": "GPT-5.5相比MIT开源的GLM-5.2在幻觉率上高出3倍，揭示了闭源与开源大模型在事实准确性上的显著差距。对于AI产品经理，这意味着在选择模型底座时需权衡性能与可靠性：开源模型GLM-5.2在减少虚构内容方面更具优势，可能更适合对真实性要求高的场景（如医疗、金融），而GPT-5.5虽可能在其他能力上更强，但幻觉风险更高，需配合严格的验证机制。此对比也凸显了开源生态在模型质量上的快速追赶，或改变商业化选型策略。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48600167",
+      "date": "2026-06-20"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1758,
-    "edges": 180532
+    "real_nodes": 1761,
+    "edges": 182294
   }
 }

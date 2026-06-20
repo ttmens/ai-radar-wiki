@@ -2090,3 +2090,8 @@
 - create: is-the-us-government8217s-anthropic-ban-accidentally-helping-the-brand.md
 - create: the-us-banned-anthropic8217s-fable-5-release-but-the-numbers-don8217t-seem-to-ca.md
 - create: show-hn-pagecast-publish-markdownhtml-reports-to-cloudflare-pages.md
+
+## [2026-06-20 12:01] sync v3 | 4 new | pillars: {'capabilities': 4}
+- create: digital-printing-of-arabic-explaining-the-problem.md
+- create: gpt-55-hallucinates-3x-more-than-mit-licensed-glm-52.md
+- create: encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesn82.md
