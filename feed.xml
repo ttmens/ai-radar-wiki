@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 20 Jun 2026 08:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 12:00:24 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -107,6 +107,14 @@
       <pubDate>2026-06-20T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Allbirds 的 CEO 成立了一个新的 AI 业务，但这家公司目前只有创始人一人，没有其他员工。尽管已经获得了巨额种子轮融资，但其具体的产品方向、技术路线和商业模式仍不清晰。对 AI 产品经理而言，这一现象值得关注：它可能代表了 AI 领域的一种极简创业模式——单人创始人凭借过往信誉和行业洞察，快速获取大额资本，再逐步招募团队、定义产品。这种模式降低了早期试错成本，但对创始人的技术判断、产品规划与资源整合能力要求极高。未来能否成功，取决于其是否能有效利用资本优势，在 AI 能力落地中找到精准场景。</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Data Compression Explained (2012)</title>
+      <link>https://news.ycombinator.com/item?id=48562662</link>
+      <guid isPermaLink="false">data-compression-explained-2012</guid>
+      <pubDate>2026-06-20T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该文系统介绍了数据压缩的核心原理，包括无损压缩（如霍夫曼编码、LZ77）与有损压缩（如JPEG、MP3）的算法逻辑与适用场景。对AI产品经理而言，理解数据压缩可优化模型训练中大规模数据的存储与传输效率，降低云服务成本；同时启发模型轻量化技术（如剪枝、量化），提升边缘设备推理性能。2012年的经典知识至今仍是AI基础设施优化的重要基础。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Show HN: Modeloop – From visual algorithms to microcontroller C code</title>
@@ -403,14 +411,6 @@
       <pubDate>2026-06-19T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Gerrymandle 是一款每日拼图游戏，玩家通过重新绘制选举区域来挑战不公正选区划分（gerrymandering）。该游戏可能利用算法生成随机地图和评估选区公平性，或结合 AI 优化建议玩家策略。对于 AI 产品经理，它展示了如何在游戏化场景中应用空间优化和规则约束求解技术，具有教育意义和潜在的产品创新价值，例如用于教授政治地理或测试算法公平性。</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>The US says ASML&amp;#8217;s top chip tool may be in China. ASML says it isn&amp;#8217;t</title>
-      <link>https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/</link>
-      <guid isPermaLink="false">the-us-says-asml8217s-top-chip-tool-may-be-in-china-asml-says-it-isn8217t</guid>
-      <pubDate>2026-06-19T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>美国质疑ASML顶级芯片工具可能已流入中国，但ASML坚称未违规，并强调商业逻辑使其不会冒险失去出口许可。此事反映中美科技博弈加剧，若中国获得先进光刻机，可能加速本土AI芯片自研，冲击全球半导体供应链。对于AI产品经理而言，需关注芯片供应不确定性对模型训练成本、硬件路线选择的影响，以及长期算力生态的国产替代趋势。</p></description>
-      <category>🔧 工具生态</category>
     </item>
   </channel>
 </rss>
