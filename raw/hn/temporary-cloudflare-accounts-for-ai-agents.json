@@ -1,0 +1,26 @@
+{
+  "title": "Temporary Cloudflare Accounts for AI Agents",
+  "score": 30,
+  "comments": 13,
+  "url": "https://blog.cloudflare.com/temporary-accounts/",
+  "hn_url": "https://news.ycombinator.com/item?id=48608394",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "Cloudflare 推出为 AI 代理设计的临时账户功能，允许代理在执行任务时自动创建、使用并销毁临时身份，提升安全性与可管理性。这一设计解决了 AI 代理长期持有凭证带来的权限滥用和隐私风险，同时简化了代理的跨服务认证流程。对于产品经理而言，该模式可应用于自动化测试、数据采集、个性化服务等场景，降低运维成本并增强用户信任。技术要点包括临时凭证的自动生成、生命周期管理及权限范围隔离，商业价值在于为代理经济提供基础设施级别的安全底座。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI代理安全",
+    "临时身份管理",
+    "账户隔离"
+  ],
+  "entities": [
+    "Cloudflare"
+  ],
+  "patterns": [
+    "临时账户模式",
+    "代理身份管理"
+  ]
+}

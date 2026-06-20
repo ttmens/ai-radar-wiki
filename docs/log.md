@@ -2098,3 +2098,10 @@
 
 ## [2026-06-20 18:04] sync v3 | 1 new | pillars: {'capabilities': 1}
 - create: data-compression-explained-2012.md
+
+## [2026-06-21 00:02] sync v3 | 5 new | pillars: {'capabilities': 4, 'patterns': 1}
+- create: bootimus-a-self-contained-pxe-and-http-boot-server.md
+- create: temporary-cloudflare-accounts-for-ai-agents.md
+- create: ubisoft-co-founder-claude-guillemot-has-died-in-a-plane-crash.md
+- create: llms-are-complicated-now.md
+- create: a-1969-camera-operators-strike-created-upstairs-downstairs-multiverse.md

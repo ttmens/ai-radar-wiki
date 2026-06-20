@@ -1,0 +1,76 @@
+{
+  "daily_summary": {
+    "date": "2026-06-21",
+    "headline": "今日 AI 情报 · 2026-06-21",
+    "overview": "AI系统从单一对话迈向模块化、自主操作与基础设施自动化。",
+    "narratives": [
+      {
+        "title": "AI从单一模型走向模块化自主系统",
+        "body": "今日情报显示，LLM领域正从单一模型向多模型协作、工具调用、动态上下文管理等复杂架构演进，同时边缘部署工具（如Bootimus）降低了AI基础设施门槛。这标志着AI产品正从对话式交互转向自主操作系统级控制，产品经理需关注系统模块化设计、成本权衡与部署效率。后续可能出现更加标准化的编排框架和即插即用的AI组件。",
+        "type": "paradigm_shift",
+        "pillar_key": "capabilities"
+      },
+      {
+        "title": "AI代理安全与基础设施自动化成为产品化关键",
+        "body": "Cloudflare推出临时账户机制为AI代理提供安全身份管理，解决了长期凭证滥用的风险，同时Bootimus简化了服务器集群的自动化部署。这些变化表明基础设施层正在为AI代理的规模化落地提供原生支持，产品经理应优先设计安全可控的代理生命周期，并利用自动化工具加速边缘AI的交付。",
+        "type": "maturation",
+        "pillar_key": "patterns"
+      }
+    ],
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI从单一模型走向模块化自主系统",
+        "insight": "AI从单一模型走向模块化自主系统。该方向的具体信号：当前LLM领域正转向多模型协作、工具调用与动态上下文管理，同时Bootimus等工具将边缘部署的PXE启动简化，降低了AI基础设施搭建门槛。这要求产品经理在设计时权衡模型能力、成本与延迟，推动模块化、可组合的AI系统。",
+        "evidence": [
+          {
+            "id": "bootimus-a-self-contained-pxe-and-http-boot-server",
+            "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+            "score": 0.24
+          }
+        ]
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI代理安全与基础设施自动化成为产品化关键",
+        "insight": "AI代理安全与基础设施自动化成为产品化关键。该方向的具体信号：Cloudflare推出临时账户机制允许AI代理自动创建、使用并销毁临时身份，解决长期凭证滥用和隐私风险；同时Bootimus提升了边缘服务器集群的部署效率。这些模式为AI代理的安全运维和规模化落地提供了参考，产品经理应关注临时身份管理和自动化部署方案。",
+        "evidence": [
+          {
+            "id": "temporary-cloudflare-accounts-for-ai-agents",
+            "title": "Temporary Cloudflare Accounts for AI Agents",
+            "score": 0.33
+          }
+        ]
+      }
+    ],
+    "stats": "技术能力: 2 | 产品模式: 1 | 工具生态: 0 | 商业趋势: 0",
+    "total_items": 5,
+    "high_value_count": 2,
+    "all_today_ids": [
+      {
+        "id": "llms-are-complicated-now",
+        "label": "LLMs Are Complicated Now"
+      },
+      {
+        "id": "temporary-cloudflare-accounts-for-ai-agents",
+        "label": "Temporary Cloudflare Accounts for AI Agents"
+      },
+      {
+        "id": "bootimus-a-self-contained-pxe-and-http-boot-server",
+        "label": "Bootimus – A Self-Contained PXE and HTTP Boot Server"
+      },
+      {
+        "id": "a-1969-camera-operators-strike-created-upstairs-downstairs-multiverse",
+        "label": "A 1969 camera operators' strike created Upstairs Downstairs multiverse"
+      },
+      {
+        "id": "ubisoft-co-founder-claude-guillemot-has-died-in-a-plane-crash",
+        "label": "Ubisoft co-founder Claude Guillemot has died in a plane crash"
+      }
+    ],
+    "date_bj": "2026-06-21 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-06-21 00:02:33"
+  }
+}
