@@ -2095,3 +2095,6 @@
 - create: digital-printing-of-arabic-explaining-the-problem.md
 - create: gpt-55-hallucinates-3x-more-than-mit-licensed-glm-52.md
 - create: encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesn82.md
+
+## [2026-06-20 18:04] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: data-compression-explained-2012.md
