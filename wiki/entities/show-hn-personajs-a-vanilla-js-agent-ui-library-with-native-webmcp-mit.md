@@ -1,0 +1,25 @@
+---
+title: Show HN: Persona.js – a vanilla-JS agent UI library with native WebMCP (MIT)
+created: 2026-06-21
+updated: 2026-06-21
+type: entity
+pillar: ecosystem
+pm_score: 0.33
+tags: ["show-hn", "product", "ecosystem"]
+sources: ["raw/showhn/show-hn-personajs-a-vanilla-js-agent-ui-library-with-native-webmcp-mit.json"]
+---
+
+# Show HN: Persona.js – a vanilla-JS agent UI library with native WebMCP (MIT)
+
+## 中文摘要
+Persona.js 是一个轻量级的纯 JavaScript 代理 UI 库，采用 MIT 许可协议。其核心创新在于原生支持 WebMCP（一种标准化代理通信协议），可帮助开发者快速构建与 AI 代理交互的界面组件，无需复杂框架。该库通过解耦代理逻辑与 UI 展示，降低了多代理系统的开发门槛，尤其适合需要快速集成对话、工具调用等交互场景的产品。产品经理可借助它加速原型验证，减少前端定制成本，推动 AI 功能的产品化落地。
+
+## PM 关注指标
+- 🔥 HN Score: 10
+- 💬 Comments: 12
+- 🎯 PM Score: 0.33
+- 🏷️ Pillar: ecosystem
+
+## 链接
+- 🔗 HN: https://news.ycombinator.com/item?id=48612231
+- 🔗 原文: https://www.persona-chat.dev/

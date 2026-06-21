@@ -1,0 +1,22 @@
+{
+  "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+  "score": 112,
+  "comments": 29,
+  "url": "https://github.com/mysk-research/loupe",
+  "hn_url": "https://news.ycombinator.com/item?id=48608645",
+  "tag": "HN",
+  "pillar": "ecosystem",
+  "pillar_keywords": [],
+  "summary_cn": "Loupe 是一款 iOS 应用，旨在提升用户对原生应用数据访问能力的认知。通过可视化或告警机制，帮助用户了解应用在后台能看到哪些信息（如照片、位置、剪贴板等），从而增强隐私意识。该工具结合了设备端权限监控和用户教育，对 AI 产品经理的启示是：在本地 AI 应用中，透明化的数据使用机制能建立用户信任，是产品合规与体验优化的关键。商业价值在于满足日益严格的隐私法规，并为隐私友好型应用提供差异化竞争点。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Privacy Awareness",
+    "Data Transparency"
+  ],
+  "entities": [
+    "Loupe"
+  ],
+  "patterns": [
+    "Local-First Privacy"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "date": "2026-06-21",
-  "generated_at": "2026-06-21T06:04:24.268272+08:00",
-  "item_count": 8,
+  "generated_at": "2026-06-21T12:02:19.593647+08:00",
+  "item_count": 12,
   "items": [
     {
       "id": "nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic",
@@ -48,6 +48,17 @@
       "date": "2026-06-21"
     },
     {
+      "id": "loupe-a-ios-app-that-raises-awareness-about-what-native-apps-can-see",
+      "label": "Loupe – A iOS app that raises awareness about what native apps can see",
+      "summary": "Loupe 是一款 iOS 应用，旨在提升用户对原生应用数据访问能力的认知。通过可视化或告警机制，帮助用户了解应用在后台能看到哪些信息（如照片、位置、剪贴板等），从而增强隐私意识。该工具结合了设备端权限监控和用户教育，对 AI 产品经理的启示是：在本地 AI 应用中，透明化的数据使用机制能建立用户信任，是产品合规与体验优化的关键。商业价值在于满足日益严格的隐私法规，并为隐私友好型应用提供差异化竞争点。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48608645",
+      "date": "2026-06-21"
+    },
+    {
       "id": "show-hn-we-post-trained-a-model-that-pen-tests-instead-of-refusing",
       "label": "Show HN: We post-trained a model that pen tests instead of refusing",
       "summary": "该项目通过后训练技术，使AI模型从原本的拒绝执行渗透测试行为转变为主动进行渗透测试。技术要点在于调整模型的对齐策略，解锁其安全测试能力，而无需额外提示工程。商业价值体现在自动化安全审计、漏洞发现，降低企业安全测试成本。产品创新在于将LLM从受限的助手转变为主动的安全工具，开辟AI在红队测试中的新应用场景。",
@@ -56,6 +67,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48609231",
+      "date": "2026-06-21"
+    },
+    {
+      "id": "when-i-reject-ai-code-even-if-it-works",
+      "label": "When I reject AI code even if it works",
+      "summary": "该Hacker News帖子讨论开发者拒绝AI生成的代码，即使功能正确。核心问题是AI代码虽能运行，但可能缺乏可读性、可维护性、安全性或符合团队规范，导致被人类开发者拒绝。这反映了当前AI编程助手在代码质量、上下文理解与工程实践上的局限性。对AI产品经理而言，需要关注如何提升AI代码的“可接受度”，而不仅是功能正确性，包括集成代码审查、风格适配、架构一致性等产品创新。商业价值在于提高开发者信任和效率，推动AI辅助开发的落地。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48614631",
       "date": "2026-06-21"
     },
     {
@@ -70,6 +92,17 @@
       "date": "2026-06-21"
     },
     {
+      "id": "inference-cost-at-scale-with-napkin-math",
+      "label": "Inference cost at scale with napkin math",
+      "summary": "本文通过粗略估算（napkin math）探讨AI大规模推理的成本问题。核心要点包括：模型推理的算力需求与硬件成本的关系、在规模部署下单位推理成本随批次处理量和硬件利用率提升而下降的规律、以及低于一定成本阈值后可能催生的新产品形态。对产品经理而言，理解推理成本的临界点有助于决定产品定价策略、功能边界和商业模式（如是否可免费提供基础推理）。商业价值在于成本下降能打开更多高频交互和实时应用场景；产品创新上可关注低成本推理带来的“推理即特性”设计思路。",
+      "pm_score": 0.38,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48560227",
+      "date": "2026-06-21"
+    },
+    {
       "id": "uhf-x11-x11-built-for-visionos-and-apple-vision-pro",
       "label": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
       "summary": "UHF X11 是为 VisionOS 和 Apple Vision Pro 构建的 X11 窗口系统实现，旨在将传统 Linux 图形应用引入空间计算环境。通过兼容 X11 协议，它允许开发者无需重写即可在 Vision Pro 上运行现有应用，从而降低生态迁移成本。这一产品创新打通了桌面与空间算力之间的壁垒，为 AI 产品经理带来跨平台部署的想象空间，尤其适合需要可视化推理或复杂界面的 AI 工具。商业价值在于加速 Vision Pro 应用生态建设，吸引更多 UNIX/Linux 社区开发者入驻空间计算平台。",
@@ -78,6 +111,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48610853",
+      "date": "2026-06-21"
+    },
+    {
+      "id": "show-hn-personajs-a-vanilla-js-agent-ui-library-with-native-webmcp-mit",
+      "label": "Show HN: Persona.js – a vanilla-JS agent UI library with native WebMCP (MIT)",
+      "summary": "Persona.js 是一个轻量级的纯 JavaScript 代理 UI 库，采用 MIT 许可协议。其核心创新在于原生支持 WebMCP（一种标准化代理通信协议），可帮助开发者快速构建与 AI 代理交互的界面组件，无需复杂框架。该库通过解耦代理逻辑与 UI 展示，降低了多代理系统的开发门槛，尤其适合需要快速集成对话、工具调用等交互场景的产品。产品经理可借助它加速原型验证，减少前端定制成本，推动 AI 功能的产品化落地。",
+      "pm_score": 0.33,
+      "pillar": "ecosystem",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://www.persona-chat.dev/",
       "date": "2026-06-21"
     },
     {
@@ -93,7 +137,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1774,
-    "edges": 187600
+    "real_nodes": 1781,
+    "edges": 189382
   }
 }

@@ -2114,3 +2114,12 @@
 - create: signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-f.md
 - create: in-the-weights-is-your-new-ai-centric-vanity-search.md
 - create: nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic.md
+
+## [2026-06-21 12:02] sync v3 | 7 new | pillars: {'capabilities': 6, 'ecosystem': 1}
+- create: loupe-a-ios-app-that-raises-awareness-about-what-native-apps-can-see.md
+- create: slow-breathing-modulates-brain-function-and-risk-behavior.md
+- create: when-i-reject-ai-code-even-if-it-works.md
+- create: semiconductor-lifeline-keeps-fighter-jets-in-the-air.md
+- create: inference-cost-at-scale-with-napkin-math.md
+- create: show-hn-lean-bulk-cut-body-recomp-calculate-maintenance-calories.md
+- create: show-hn-personajs-a-vanilla-js-agent-ui-library-with-native-webmcp-mit.md
