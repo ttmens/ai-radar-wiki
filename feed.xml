@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 21 Jun 2026 00:07:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 04:04:15 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -45,11 +45,27 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>Loupe – A iOS app that raises awareness about what native apps can see</title>
+      <link>https://news.ycombinator.com/item?id=48608645</link>
+      <guid isPermaLink="false">loupe-a-ios-app-that-raises-awareness-about-what-native-apps-can-see</guid>
+      <pubDate>2026-06-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Loupe 是一款 iOS 应用，旨在提升用户对原生应用数据访问能力的认知。通过可视化或告警机制，帮助用户了解应用在后台能看到哪些信息（如照片、位置、剪贴板等），从而增强隐私意识。该工具结合了设备端权限监控和用户教育，对 AI 产品经理的启示是：在本地 AI 应用中，透明化的数据使用机制能建立用户信任，是产品合规与体验优化的关键。商业价值在于满足日益严格的隐私法规，并为隐私友好型应用提供差异化竞争点。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
       <title>Show HN: We post-trained a model that pen tests instead of refusing</title>
       <link>https://news.ycombinator.com/item?id=48609231</link>
       <guid isPermaLink="false">show-hn-we-post-trained-a-model-that-pen-tests-instead-of-refusing</guid>
       <pubDate>2026-06-21T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该项目通过后训练技术，使AI模型从原本的拒绝执行渗透测试行为转变为主动进行渗透测试。技术要点在于调整模型的对齐策略，解锁其安全测试能力，而无需额外提示工程。商业价值体现在自动化安全审计、漏洞发现，降低企业安全测试成本。产品创新在于将LLM从受限的助手转变为主动的安全工具，开辟AI在红队测试中的新应用场景。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>When I reject AI code even if it works</title>
+      <link>https://news.ycombinator.com/item?id=48614631</link>
+      <guid isPermaLink="false">when-i-reject-ai-code-even-if-it-works</guid>
+      <pubDate>2026-06-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该Hacker News帖子讨论开发者拒绝AI生成的代码，即使功能正确。核心问题是AI代码虽能运行，但可能缺乏可读性、可维护性、安全性或符合团队规范，导致被人类开发者拒绝。这反映了当前AI编程助手在代码质量、上下文理解与工程实践上的局限性。对AI产品经理而言，需要关注如何提升AI代码的“可接受度”，而不仅是功能正确性，包括集成代码审查、风格适配、架构一致性等产品创新。商业价值在于提高开发者信任和效率，推动AI辅助开发的落地。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -61,12 +77,28 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Inference cost at scale with napkin math</title>
+      <link>https://news.ycombinator.com/item?id=48560227</link>
+      <guid isPermaLink="false">inference-cost-at-scale-with-napkin-math</guid>
+      <pubDate>2026-06-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文通过粗略估算（napkin math）探讨AI大规模推理的成本问题。核心要点包括：模型推理的算力需求与硬件成本的关系、在规模部署下单位推理成本随批次处理量和硬件利用率提升而下降的规律、以及低于一定成本阈值后可能催生的新产品形态。对产品经理而言，理解推理成本的临界点有助于决定产品定价策略、功能边界和商业模式（如是否可免费提供基础推理）。商业价值在于成本下降能打开更多高频交互和实时应用场景；产品创新上可关注低成本推理带来的“推理即特性”设计思路。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>UHF X11: X11 Built for VisionOS and Apple Vision Pro</title>
       <link>https://news.ycombinator.com/item?id=48610853</link>
       <guid isPermaLink="false">uhf-x11-x11-built-for-visionos-and-apple-vision-pro</guid>
       <pubDate>2026-06-21T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>UHF X11 是为 VisionOS 和 Apple Vision Pro 构建的 X11 窗口系统实现，旨在将传统 Linux 图形应用引入空间计算环境。通过兼容 X11 协议，它允许开发者无需重写即可在 Vision Pro 上运行现有应用，从而降低生态迁移成本。这一产品创新打通了桌面与空间算力之间的壁垒，为 AI 产品经理带来跨平台部署的想象空间，尤其适合需要可视化推理或复杂界面的 AI 工具。商业价值在于加速 Vision Pro 应用生态建设，吸引更多 UNIX/Linux 社区开发者入驻空间计算平台。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Persona.js – a vanilla-JS agent UI library with native WebMCP (MIT)</title>
+      <link>https://www.persona-chat.dev/</link>
+      <guid isPermaLink="false">show-hn-personajs-a-vanilla-js-agent-ui-library-with-native-webmcp-mit</guid>
+      <pubDate>2026-06-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Persona.js 是一个轻量级的纯 JavaScript 代理 UI 库，采用 MIT 许可协议。其核心创新在于原生支持 WebMCP（一种标准化代理通信协议），可帮助开发者快速构建与 AI 代理交互的界面组件，无需复杂框架。该库通过解耦代理逻辑与 UI 展示，降低了多代理系统的开发门槛，尤其适合需要快速集成对话、工具调用等交互场景的产品。产品经理可借助它加速原型验证，减少前端定制成本，推动 AI 功能的产品化落地。</p></description>
+      <category>🔧 工具生态</category>
     </item>
     <item>
       <title>Temporary Cloudflare Accounts for AI Agents</title>
@@ -77,6 +109,14 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>Semiconductor Lifeline Keeps Fighter Jets in the Air</title>
+      <link>https://news.ycombinator.com/item?id=48554206</link>
+      <guid isPermaLink="false">semiconductor-lifeline-keeps-fighter-jets-in-the-air</guid>
+      <pubDate>2026-06-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文标题指出半导体供应链是维持战斗机作战能力的生命线。从AI产品经理视角，这揭示了底层芯片硬件对军用AI系统（如自主导航、目标识别）的支撑作用。技术要点在于先进制程芯片的高算力与可靠性；商业价值体现在国防订单驱动定制化AI芯片研发，并推动边缘计算在军事场景的实时决策；产品创新则聚焦于从数据中心到战场的AI部署。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>PostgresBench: A Reproducible Benchmark for Postgres Services</title>
       <link>https://news.ycombinator.com/item?id=48611942</link>
       <guid isPermaLink="false">postgresbench-a-reproducible-benchmark-for-postgres-services</guid>
@@ -85,11 +125,27 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Show HN: Lean bulk, cut, body recomp. Calculate maintenance calories</title>
+      <link>https://macrocodex.app/</link>
+      <guid isPermaLink="false">show-hn-lean-bulk-cut-body-recomp-calculate-maintenance-calories</guid>
+      <pubDate>2026-06-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该产品展示了一个用于计算维持热量（maintenance calories）的工具，支持瘦体重增肌、减脂和身体重组（body recomp）三种目标模式。从技术角度看，它可能基于代谢率公式（如Mifflin-St Jeor）或机器学习模型实现个性化热量估算，为用户提供精准的饮食调整建议。商业价值在于切入健身与营养管理的细分市场，通过免费计算工具吸引用户，进而可能推广付费的定制化饮食方案或AI教练服务。产品创新体现在将传统的卡路里计算与身体重组策略结合，简化用户决策流程。面向AI产品经理，该工具展示了如何将基础营养学知识转化为可交互的AI能力，但缺乏明显的深度学习或大数据应用，属于轻量级功能型A</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Bootimus – A Self-Contained PXE and HTTP Boot Server</title>
       <link>https://news.ycombinator.com/item?id=48608255</link>
       <guid isPermaLink="false">bootimus-a-self-contained-pxe-and-http-boot-server</guid>
       <pubDate>2026-06-21T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>Bootimus 是一款自包含的 PXE 和 HTTP 启动服务器工具，专注于网络引导和操作系统部署。它简化了传统的 PXE 配置流程，无需额外依赖即可快速搭建启动环境。对于 AI 产品经理而言，该工具可在边缘计算或大规模服务器集群的自动化部署中发挥作用，降低基础设施搭建门槛，提升 AI 模型训练或推理节点的部署效率。其商业价值在于减少运维复杂度，加速 AI 基础设施的交付周期。产品创新体现在将多种网络启动协议集成于单一可执行文件，易于携带和使用。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Slow breathing modulates brain function and risk behavior</title>
+      <link>https://news.ycombinator.com/item?id=48613555</link>
+      <guid isPermaLink="false">slow-breathing-modulates-brain-function-and-risk-behavior</guid>
+      <pubDate>2026-06-21T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>该研究探讨缓慢呼吸对大脑功能和风险行为的影响，虽非直接涉及AI技术，但可引发AI产品经理思考：通过生物反馈机制（如呼吸监测）调节用户状态，或能优化AI在风险决策场景（如金融交易、自动驾驶）中的表现，提升人机协作的安全性与体验。核心在于将生理信号作为辅助输入，增强AI对用户意图和情绪的理解。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -355,62 +411,6 @@
       <pubDate>2026-06-19T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>AI推理初创公司Baseten据报即将完成15亿美元融资，估值达130亿美元，反映了当前“推理淘金热”的持续升温。作为专注于模型推理部署的平台，Baseten帮助开发者高效运行大型AI模型，降低延迟和成本。此次巨额融资表明市场对专用推理基础设施的强劲需求，也预示着竞争加剧。对AI产品经理而言，推理层的效率直接影响产品体验和成本结构，需要关注这类平台的演进，以优化模型部署策略和选择最优推理方案。</p></description>
       <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Toward Calibrated Mixture-of-Experts Under Distribution Shift</title>
-      <link>http://arxiv.org/abs/2606.20544v1</link>
-      <guid isPermaLink="false">toward-calibrated-mixture-of-experts-under-distribution-shift</guid>
-      <pubDate>2026-06-19T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文研究在分布偏移场景下如何使混合专家模型（MoE）的预测不确定性得到良好校准。校准确保模型预测概率与实际结果频率一致，是提升模型可信度的关键。作者发现通过在每个专家预测器层面强制校准，可以同时提升集成模型的整体准确率和校准效果。这一技术对于高可靠性要求的产品（如金融、医疗决策系统）具有重要商业价值：降低因置信度误判导致的风险，增强用户对AI输出的信任。产品经理可借鉴此方法设计更稳健的模型服务架构，尤其在数据分布可能随时间变化的生产环境中，通过校准机制维持模型输出的一致性。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents</title>
-      <link>http://arxiv.org/abs/2606.20529v1</link>
-      <guid isPermaLink="false">ledgeragent-structured-state-for-policy-adherent-tool-calling-agents</guid>
-      <pubDate>2026-06-19T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>LedgerAgent 提出了一种结构化状态管理方法，用于构建遵循领域政策的工具调用型客服代理。通过将任务状态（如事实、标识符、约束和条件）显式记录为账本式结构，代理能够在多轮对话中可靠地维护上下文，并在调用工具时严格遵循业务规则。该技术提升了代理的可解释性和合规性，特别适用于金融、医疗等强监管场景。产品创新在于用显式结构化状态替代隐式推理，降低了错误执行风险，为客服自动化提供了高可靠性的技术底座。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captione</title>
-      <link>http://arxiv.org/abs/2606.20532v1</link>
-      <guid isPermaLink="false">how-do-instructions-shape-speech-cross-attention-attribution-for-style-captioned</guid>
-      <pubDate>2026-06-19T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本研究提出跨注意力归因方法，用于解析风格标注文本到语音（TTS）系统中自然语言指令如何影响声学输出。现有系统虽能通过文字控制嗓音特质，但单个词汇对生成语音的具体作用不透明，导致故障诊断困难和可控性不足。该方法通过分析交叉注意力权重，将输出声学特征归因到输入指令中的各个词，揭示了词汇层面的风格控制机制。这对产品经理的价值在于：可设计更精确的语音风格编辑功能（如强调某词的情感色彩），提升虚拟助手、有声读物、游戏角色配音等场景的用户体验；同时为调试系统提供可解释性工具，降低迭代成本。技术核心是跨注意力归因，产品创新点在于实现细粒度的风格指令理解与反馈。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learnin</title>
-      <link>http://arxiv.org/abs/2606.20559v1</link>
-      <guid isPermaLink="false">uniego-proxies-as-mediators-for-unified-egocentric-video-representation-learning</guid>
-      <pubDate>2026-06-19T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出UNIEGO框架，通过代理中介实现统一的第一人称（Egocentric）视频表示学习。传统方法受限于单视角、单模态和单模型，难以全面捕捉人类动作的丰富语义。UNIEGO利用多个代理分别处理不同视角或模态信息，并通过中介机制进行知识互补与融合，显著提升对第一人称视频的理解能力。这一技术对于AR/VR、智能眼镜等穿戴设备的行为理解、交互优化具有重要商业价值，也为多模态AI产品创新提供了统一表示学习的新范式。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Optimal Deterministic Multicalibration and Omniprediction</title>
-      <link>http://arxiv.org/abs/2606.20557v1</link>
-      <guid isPermaLink="false">optimal-deterministic-multicalibration-and-omniprediction</guid>
-      <pubDate>2026-06-19T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出一种最优确定性多校准和全预测方法。多校准要求模型不仅在整体上无偏，而且针对不同子群体（由权重函数定义）也保持校准（即预测条件无偏）。该方法可显著提升模型在公平性和可靠性方面的表现，尤其适用于金融、医疗等对偏见敏感的商业场景。产品经理可借此设计更可信的AI决策系统，防止算法歧视，同时增强下游应用的泛化和鲁棒性，为个性化推荐、风险评估等产品提供技术支撑。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for</title>
-      <link>http://arxiv.org/abs/2606.20537v1</link>
-      <guid isPermaLink="false">execution-state-capsules-graph-bound-execution-state-checkpoint-and-restore-for</guid>
-      <pubDate>2026-06-19T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出了一种名为“执行状态胶囊”的方法，针对低延迟、小批量、设备端AI服务的场景，解决传统KV缓存仅管理执行状态片段的问题。通过图绑定的执行状态检查点与恢复机制，能够在设备端实现高效的暂停-恢复操作，减少重复计算并保证低延迟，特别适用于物联网、移动端等资源受限环境。商业价值在于提升用户交互的连续性和响应速度，降低功耗与计算成本。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Structuring and Tokenizing Distributed User Interest Context for Generative Reco</title>
-      <link>http://arxiv.org/abs/2606.20554v1</link>
-      <guid isPermaLink="false">structuring-and-tokenizing-distributed-user-interest-context-for-generative-reco</guid>
-      <pubDate>2026-06-19T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出了一种面向生成式推荐系统的用户兴趣上下文结构化与标记化方法。核心在于将用户历史行为中的分布式兴趣上下文进行结构化编码，并通过物品标记化（Item Tokenization）桥接语义与推荐目标，使模型能够生成用户下一步交互的预测。技术要点包括设计统一的标记化框架处理多源异构行为、利用分布式兴趣表示提升推荐准确性。商业价值体现在可应用于电商、内容分发等场景，通过更精准的预测增强用户留存与转化。产品创新在于从传统匹配范式转向端到端生成式范式，简化推荐流程并提升个性化程度。</p></description>
-      <category>🤖 技术能力</category>
     </item>
   </channel>
 </rss>
