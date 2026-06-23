@@ -1,37 +1,236 @@
 {
-  "generated_at": "2026-06-21T12:02:18.459889+08:00",
-  "days_analyzed": 45,
+  "generated_at": "2026-06-23T14:23:38.360417+08:00",
+  "days_analyzed": 46,
   "pillar_trends": {
     "capabilities": {
-      "trend": "down",
-      "delta": -3,
+      "trend": "stable",
+      "delta": 0,
       "current": 1,
-      "previous": 4,
-      "has_data": true
-    },
-    "patterns": {
-      "trend": "up",
-      "delta": 2,
-      "current": 3,
       "previous": 1,
       "has_data": true
     },
+    "patterns": {
+      "trend": "down",
+      "delta": -1,
+      "current": 2,
+      "previous": 3,
+      "has_data": true
+    },
     "ecosystem": {
-      "trend": "up",
-      "delta": 1,
+      "trend": "stable",
+      "delta": 0,
       "current": 1,
-      "previous": 0,
+      "previous": 1,
       "has_data": true
     },
     "business": {
-      "trend": "down",
-      "delta": -1,
+      "trend": "stable",
+      "delta": 0,
       "current": 1,
-      "previous": 2,
+      "previous": 1,
       "has_data": true
     }
   },
   "narrative_chains": [
+    {
+      "title": "AI Agent 工具链与协作流程快速成熟",
+      "type": "paradigm_shift",
+      "latest_type": "paradigm_shift",
+      "days": [
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-06-16",
+        "2026-06-23"
+      ],
+      "instances": [
+        {
+          "date": "2026-05-11",
+          "title": "AI Agent 工具链与协作流程快速成熟",
+          "body": "今日19条情报涉及AI Agent及相关工具生态。典型项目包括：Rubric-Grounded RL: Structured Judge Rew, Academic Research Skills for Claude Code, How Fast Does Claude, Acting as a User S。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "type": "paradigm_shift",
+          "evidence": [
+            {
+              "id": "rubric-grounded-rl-structured-judge-rewards-for-generalizab",
+              "title": "Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoni",
+              "score": 0.43,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "academic-research-skills-for-claude-code",
+              "title": "Academic Research Skills for Claude Code",
+              "score": 0.4,
+              "url": "https://news.ycombinator.com/item?id=48083919",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "graphlcp-structure-aware-localized-conformal-prediction-on",
+              "title": "GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs",
+              "score": 0.4,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "how-fast-does-claude-acting-as-a-user-space-ip-st",
+              "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Ping",
+              "score": 0.36,
+              "url": "https://news.ycombinator.com/item?id=48089049",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "normalizing-trajectory-models",
+              "title": "Normalizing Trajectory Models",
+              "score": 0.26,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            }
+          ]
+        },
+        {
+          "date": "2026-05-12",
+          "title": "AI Agent 工具链与协作流程快速成熟",
+          "body": "今日28条情报涉及AI Agent及相关工具生态。典型项目包括：Postmortem: TanStack npm supply-chain co, Gmail registration now requires scanning。具体信号：AI Agent, CLI/终端, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "type": "paradigm_shift",
+          "evidence": [
+            {
+              "id": "practical-scaling-laws-converting-compute-into-performance",
+              "title": "Practical Scaling Laws: Converting Compute into Performance in a Data-",
+              "score": 0.43,
+              "url": "",
+              "reason": "里程碑式进展",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "equivariant-reinforcement-learning-for-clifford-quantum-circ",
+              "title": "Equivariant Reinforcement Learning for Clifford Quantum Circuit Synthe",
+              "score": 0.41,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "on-characterizing-learnability-for-adversarial-noisy-bandits",
+              "title": "On Characterizing Learnability for Adversarial Noisy Bandits",
+              "score": 0.4,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "training-an-llm-in-swift-part-1-taking-matrix-mu",
+              "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to T",
+              "score": 0.38,
+              "url": "https://news.ycombinator.com/item?id=48085685",
+              "reason": "里程碑式进展",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "quantifying-concentration-phenomena-of-mean-field-transforme",
+              "title": "Quantifying Concentration Phenomena of Mean-Field Transformers in the ",
+              "score": 0.38,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            }
+          ]
+        },
+        {
+          "date": "2026-05-13",
+          "title": "AI Agent 工具链与协作流程快速成熟",
+          "body": "今日29条情报涉及AI Agent及相关工具生态。典型项目包括：Hmbown/DeepSeek-TUI, Israel's AI targeting system: how data f, Show HN: Statewright – Visual state mach。具体信号：AI Agent, CLI/终端, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "type": "paradigm_shift",
+          "evidence": [
+            {
+              "id": "routers-learn-the-geometry-of-their-experts-geometric-coupl",
+              "title": "Routers Learn the Geometry of Their Experts: Geometric Coupling in Spa",
+              "score": 0.48,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "israels-ai-targeting-system-how-data-f",
+              "title": "Israel's AI targeting system: how data from a phone become a death sen",
+              "score": 0.45,
+              "url": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "pion-a-spectrum-preserving-optimizer-via-orthogonal-equival",
+              "title": "Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Trans",
+              "score": 0.41,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "adaption-aims-big-with-autoscientist-an-ai-tool-t",
+              "title": "Adaption aims big with AutoScientist, an AI tool that helps models tra",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
+              "reason": "里程碑式进展",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "unitree-gd01-chinas-537k-rideable-transformer-r",
+              "title": "Unitree GD01: China's $537k rideable transformer robot is now in produ",
+              "score": 0.3,
+              "url": "https://news.ycombinator.com/item?id=48106114",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            }
+          ]
+        },
+        {
+          "date": "2026-06-16",
+          "title": "AI Agent 工具链与协作流程快速成熟",
+          "body": "今日4条情报涉及AI Agent及相关工具生态。典型项目包括：As AI agents become employees, NewCore e, Malaysia&#8217;s AI agent-powered messag, Salesforce acquires AI customer service 。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "type": "paradigm_shift",
+          "evidence": [
+            {
+              "id": "tokenpilot-cache-efficient-context-management-for-llm-agents",
+              "title": "TokenPilot: Cache-Efficient Context Management for LLM Agents",
+              "score": 0.48,
+              "url": "http://arxiv.org/abs/2606.17016v1",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            }
+          ]
+        },
+        {
+          "date": "2026-06-23",
+          "title": "AI Agent 工具链与协作流程快速成熟",
+          "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：The AI world is getting &#8216;loopy&#82, MAS-PromptBench: When Does Prompt Optimi。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "type": "paradigm_shift",
+          "evidence": [
+            {
+              "id": "show-hn-blockbuzz-a-workspace-built-for-teams-of-humans-and-agents",
+              "title": "Show HN: Block/buzz: a workspace built for teams of humans and agents",
+              "score": 0.33,
+              "url": "https://github.com/block/buzz",
+              "reason": "里程碑式进展",
+              "pillar": "patterns"
+            },
+            {
+              "id": "mas-promptbench-when-does-prompt-optimization-improve-multi-agent-llm-systems",
+              "title": "MAS-PromptBench: When Does Prompt Optimization Improve Multi-Agent LLM",
+              "score": 0.3,
+              "url": "http://arxiv.org/abs/2606.23664v1",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            }
+          ]
+        }
+      ],
+      "lifecycle": "hot"
+    },
     {
       "title": "AI工具链从通用走向垂直专业化",
       "type": "maturation",
@@ -239,178 +438,97 @@
       "lifecycle": "hot"
     },
     {
-      "title": "AI Agent 工具链与协作流程快速成熟",
-      "type": "paradigm_shift",
-      "latest_type": "paradigm_shift",
+      "title": "AI安全与信任正成为规模化部署的关键挑战",
+      "type": "bottleneck",
+      "latest_type": "bottleneck",
       "days": [
-        "2026-05-11",
         "2026-05-12",
-        "2026-05-13",
-        "2026-06-16"
+        "2026-06-16",
+        "2026-06-23"
       ],
       "instances": [
         {
-          "date": "2026-05-11",
-          "title": "AI Agent 工具链与协作流程快速成熟",
-          "body": "今日19条情报涉及AI Agent及相关工具生态。典型项目包括：Rubric-Grounded RL: Structured Judge Rew, Academic Research Skills for Claude Code, How Fast Does Claude, Acting as a User S。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
-          "type": "paradigm_shift",
+          "date": "2026-05-12",
+          "title": "AI安全与信任正成为规模化部署的关键挑战",
+          "body": "今日6条情报涉及AI安全与信任议题。关键事件包括：Postmortem: TanStack npm supply-chain co。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+          "type": "bottleneck",
           "evidence": [
             {
-              "id": "rubric-grounded-rl-structured-judge-rewards-for-generalizab",
-              "title": "Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoni",
-              "score": 0.43,
+              "id": "postmortem-tanstack-npm-supply-chain-compromise",
+              "title": "Postmortem: TanStack npm supply-chain compromise",
+              "score": 0.61,
+              "url": "https://news.ycombinator.com/item?id=48100706",
+              "reason": "里程碑式进展；高价值信号",
+              "pillar": "ecosystem"
+            },
+            {
+              "id": "gmail-registration-now-requires-scanning-a-qr-code",
+              "title": "Gmail registration now requires scanning a QR code and sending a text ",
+              "score": 0.53,
+              "url": "https://news.ycombinator.com/item?id=48092028",
+              "reason": "高价值信号",
+              "pillar": "ecosystem"
+            },
+            {
+              "id": "claude-platform-on-aws",
+              "title": "Claude Platform on AWS",
+              "score": 0.47,
+              "url": "https://news.ycombinator.com/item?id=48103042",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
+            },
+            {
+              "id": "engineering-robustness-into-personal-agents-with-the-ai-work",
+              "title": "Engineering Robustness into Personal Agents with the AI Workflow Store",
+              "score": 0.3,
               "url": "",
               "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "capabilities"
+              "pillar": "ecosystem"
             },
             {
-              "id": "academic-research-skills-for-claude-code",
-              "title": "Academic Research Skills for Claude Code",
-              "score": 0.4,
-              "url": "https://news.ycombinator.com/item?id=48083919",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "capabilities"
-            },
-            {
-              "id": "graphlcp-structure-aware-localized-conformal-prediction-on",
-              "title": "GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs",
-              "score": 0.4,
-              "url": "",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "capabilities"
-            },
-            {
-              "id": "how-fast-does-claude-acting-as-a-user-space-ip-st",
-              "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Ping",
-              "score": 0.36,
-              "url": "https://news.ycombinator.com/item?id=48089049",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "capabilities"
-            },
-            {
-              "id": "normalizing-trajectory-models",
-              "title": "Normalizing Trajectory Models",
+              "id": "learning-when-to-stop-selective-imitation-learning-under-ar",
+              "title": "Learning When to Stop: Selective Imitation Learning Under Arbitrary Dy",
               "score": 0.26,
               "url": "",
               "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "capabilities"
-            }
-          ]
-        },
-        {
-          "date": "2026-05-12",
-          "title": "AI Agent 工具链与协作流程快速成熟",
-          "body": "今日28条情报涉及AI Agent及相关工具生态。典型项目包括：Postmortem: TanStack npm supply-chain co, Gmail registration now requires scanning。具体信号：AI Agent, CLI/终端, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
-          "type": "paradigm_shift",
-          "evidence": [
-            {
-              "id": "practical-scaling-laws-converting-compute-into-performance",
-              "title": "Practical Scaling Laws: Converting Compute into Performance in a Data-",
-              "score": 0.43,
-              "url": "",
-              "reason": "里程碑式进展",
-              "pillar": "capabilities"
-            },
-            {
-              "id": "equivariant-reinforcement-learning-for-clifford-quantum-circ",
-              "title": "Equivariant Reinforcement Learning for Clifford Quantum Circuit Synthe",
-              "score": 0.41,
-              "url": "",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "capabilities"
-            },
-            {
-              "id": "on-characterizing-learnability-for-adversarial-noisy-bandits",
-              "title": "On Characterizing Learnability for Adversarial Noisy Bandits",
-              "score": 0.4,
-              "url": "",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "capabilities"
-            },
-            {
-              "id": "training-an-llm-in-swift-part-1-taking-matrix-mu",
-              "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to T",
-              "score": 0.38,
-              "url": "https://news.ycombinator.com/item?id=48085685",
-              "reason": "里程碑式进展",
-              "pillar": "capabilities"
-            },
-            {
-              "id": "quantifying-concentration-phenomena-of-mean-field-transforme",
-              "title": "Quantifying Concentration Phenomena of Mean-Field Transformers in the ",
-              "score": 0.38,
-              "url": "",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "capabilities"
-            }
-          ]
-        },
-        {
-          "date": "2026-05-13",
-          "title": "AI Agent 工具链与协作流程快速成熟",
-          "body": "今日29条情报涉及AI Agent及相关工具生态。典型项目包括：Hmbown/DeepSeek-TUI, Israel's AI targeting system: how data f, Show HN: Statewright – Visual state mach。具体信号：AI Agent, CLI/终端, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
-          "type": "paradigm_shift",
-          "evidence": [
-            {
-              "id": "routers-learn-the-geometry-of-their-experts-geometric-coupl",
-              "title": "Routers Learn the Geometry of Their Experts: Geometric Coupling in Spa",
-              "score": 0.48,
-              "url": "",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "capabilities"
-            },
-            {
-              "id": "israels-ai-targeting-system-how-data-f",
-              "title": "Israel's AI targeting system: how data from a phone become a death sen",
-              "score": 0.45,
-              "url": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "capabilities"
-            },
-            {
-              "id": "pion-a-spectrum-preserving-optimizer-via-orthogonal-equival",
-              "title": "Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Trans",
-              "score": 0.41,
-              "url": "",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "capabilities"
-            },
-            {
-              "id": "adaption-aims-big-with-autoscientist-an-ai-tool-t",
-              "title": "Adaption aims big with AutoScientist, an AI tool that helps models tra",
-              "score": 0.3,
-              "url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
-              "reason": "里程碑式进展",
-              "pillar": "capabilities"
-            },
-            {
-              "id": "unitree-gd01-chinas-537k-rideable-transformer-r",
-              "title": "Unitree GD01: China's $537k rideable transformer robot is now in produ",
-              "score": 0.3,
-              "url": "https://news.ycombinator.com/item?id=48106114",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "capabilities"
+              "pillar": "ecosystem"
             }
           ]
         },
         {
           "date": "2026-06-16",
-          "title": "AI Agent 工具链与协作流程快速成熟",
-          "body": "今日4条情报涉及AI Agent及相关工具生态。典型项目包括：As AI agents become employees, NewCore e, Malaysia&#8217;s AI agent-powered messag, Salesforce acquires AI customer service 。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
-          "type": "paradigm_shift",
+          "title": "AI安全与信任正成为规模化部署的关键挑战",
+          "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：Cybersecurity vets protest &#8216;danger, The US government&#8217;s Anthropic mode。具体信号：安全漏洞。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+          "type": "bottleneck",
           "evidence": [
             {
-              "id": "tokenpilot-cache-efficient-context-management-for-llm-agents",
-              "title": "TokenPilot: Cache-Efficient Context Management for LLM Agents",
-              "score": 0.48,
-              "url": "http://arxiv.org/abs/2606.17016v1",
-              "reason": "基于新颖度、影响力、相关性综合评分",
+              "id": "chopratejasheadroom",
+              "title": "chopratejas/headroom",
+              "score": 0.61,
+              "url": "https://github.com/chopratejas/headroom",
+              "reason": "高价值信号",
+              "pillar": "ecosystem"
+            }
+          ]
+        },
+        {
+          "date": "2026-06-23",
+          "title": "AI安全与信任正成为规模化部署的关键挑战",
+          "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：OpenAI launches new initiative to help f, Show HN: Crespo – Tree-sitter AST bluepr。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+          "type": "bottleneck",
+          "evidence": [
+            {
+              "id": "the-text-in-claude-codes-extended-thinking-output",
+              "title": "The text in Claude Code’s “Extended Thinking” output",
+              "score": 0.63,
+              "url": "https://news.ycombinator.com/item?id=48630535",
+              "reason": "高价值信号",
               "pillar": "capabilities"
             }
           ]
         }
       ],
-      "lifecycle": "hot"
+      "lifecycle": "rising"
     },
     {
       "title": "AI商业动态：资本与市场持续升温",
@@ -531,82 +649,6 @@
               "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
               "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "business"
-            }
-          ]
-        }
-      ],
-      "lifecycle": "rising"
-    },
-    {
-      "title": "AI安全与信任正成为规模化部署的关键挑战",
-      "type": "bottleneck",
-      "latest_type": "bottleneck",
-      "days": [
-        "2026-05-12",
-        "2026-06-16"
-      ],
-      "instances": [
-        {
-          "date": "2026-05-12",
-          "title": "AI安全与信任正成为规模化部署的关键挑战",
-          "body": "今日6条情报涉及AI安全与信任议题。关键事件包括：Postmortem: TanStack npm supply-chain co。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
-          "type": "bottleneck",
-          "evidence": [
-            {
-              "id": "postmortem-tanstack-npm-supply-chain-compromise",
-              "title": "Postmortem: TanStack npm supply-chain compromise",
-              "score": 0.61,
-              "url": "https://news.ycombinator.com/item?id=48100706",
-              "reason": "里程碑式进展；高价值信号",
-              "pillar": "ecosystem"
-            },
-            {
-              "id": "gmail-registration-now-requires-scanning-a-qr-code",
-              "title": "Gmail registration now requires scanning a QR code and sending a text ",
-              "score": 0.53,
-              "url": "https://news.ycombinator.com/item?id=48092028",
-              "reason": "高价值信号",
-              "pillar": "ecosystem"
-            },
-            {
-              "id": "claude-platform-on-aws",
-              "title": "Claude Platform on AWS",
-              "score": 0.47,
-              "url": "https://news.ycombinator.com/item?id=48103042",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "ecosystem"
-            },
-            {
-              "id": "engineering-robustness-into-personal-agents-with-the-ai-work",
-              "title": "Engineering Robustness into Personal Agents with the AI Workflow Store",
-              "score": 0.3,
-              "url": "",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "ecosystem"
-            },
-            {
-              "id": "learning-when-to-stop-selective-imitation-learning-under-ar",
-              "title": "Learning When to Stop: Selective Imitation Learning Under Arbitrary Dy",
-              "score": 0.26,
-              "url": "",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "ecosystem"
-            }
-          ]
-        },
-        {
-          "date": "2026-06-16",
-          "title": "AI安全与信任正成为规模化部署的关键挑战",
-          "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：Cybersecurity vets protest &#8216;danger, The US government&#8217;s Anthropic mode。具体信号：安全漏洞。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
-          "type": "bottleneck",
-          "evidence": [
-            {
-              "id": "chopratejasheadroom",
-              "title": "chopratejas/headroom",
-              "score": 0.61,
-              "url": "https://github.com/chopratejas/headroom",
-              "reason": "高价值信号",
-              "pillar": "ecosystem"
             }
           ]
         }
@@ -857,5 +899,5 @@
   ],
   "contradictions": [],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-06-21**（45天），累计 **1041** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI工具链从通用走向垂直专业化**。 值得关注：📱 产品模式呈上升趋势；🔧 工具生态呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-06-23**（46天），累计 **1077** 条情报。 焦点领域：**💰 商业动态**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。"
 }

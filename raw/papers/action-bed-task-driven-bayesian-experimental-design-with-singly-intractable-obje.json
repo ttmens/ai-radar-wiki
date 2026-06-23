@@ -1,0 +1,23 @@
+{
+  "title": "Action-BED: Task-Driven Bayesian Experimental Design with Singly Intractable Objectives",
+  "summary": "Bayesian experimental design (BED) has traditionally been based on maximising expected uncertainty reductions from prior to posterior. A major shortfall of this approach is that it leads to doubly intractable objectives that are difficult to optimise, while customising them to particular downstream tasks of interest can also be difficult. Following first principles decision theory, we demonstrate that BED can alternatively be formulated in terms of an expected future loss (EFL) on downstream actions, providing a simple and naturally task-driven framework. Critically, we then show that all such EFLs can be rearranged into singly intractable objectives that can be jointly optimised with respect to both the design policy and a downstream action policy using stochastic gradients, an approach we refer to as ACTION-BED. This formulation further sidesteps the need for any explicit posterior or marginal likelihood estimation and is naturally implicit, requiring only the ability to sample from the joint model over model parameters and data, and evaluate the downstream loss function. It thus allows design policies to be learned more effectively, efficiently, and simply than existing methods, while providing easy customisation to different downstream tasks and losses.",
+  "url": "http://arxiv.org/abs/2606.23662v1",
+  "authors": [
+    "Tom Rossa",
+    "Angus Phillips",
+    "Tom Rainforth"
+  ],
+  "published": "2026-06-22T17:48:07Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "parameter",
+    "loss function",
+    "gradient"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

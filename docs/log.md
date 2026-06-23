@@ -2123,3 +2123,5 @@
 - create: inference-cost-at-scale-with-napkin-math.md
 - create: show-hn-lean-bulk-cut-body-recomp-calculate-maintenance-calories.md
 - create: show-hn-personajs-a-vanilla-js-agent-ui-library-with-native-webmcp-mit.md
+
+## [2026-06-23 14:23] sync v3 | 13 new | pillars: {'capabilities': 11, 'patterns': 2}

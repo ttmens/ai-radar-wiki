@@ -1,0 +1,29 @@
+{
+  "title": "Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?",
+  "summary": "AdamW is the de facto optimizer for training large language models (LLMs), yet the theory behind it still lives mostly in finite-variance regimes. This is increasingly unsatisfying, as empirical evidence indicates that stochastic gradient noise in LLM pretraining is typically heavy-tailed. Recent work shows that sign-based optimizers such as Lion and Muon achieve sharp heavy-tailed rates, and that AdaGrad can also converge under heavy-tailed noise. However, no rigorous convergence theory for AdamW has yet been established in this regime. Can AdamW converge under the same heavy-tailed assumptions, or does its second-moment accumulator create a genuine obstruction? We formulate this as an open problem, prove a positive weighted-metric benchmark, and give a corridor lower-bound mechanism showing how denominator memory can hide large gradients.",
+  "url": "http://arxiv.org/abs/2606.23676v1",
+  "authors": [
+    "Dingzhi Yu",
+    "Hongyi Tao",
+    "Yuanyu Wan",
+    "Luo Luo",
+    "Lijun Zhang"
+  ],
+  "published": "2026-06-22T17:58:52Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "training",
+    "gradient"
+  ],
+  "summary_cn": "本文探讨了AdamW优化器在重尾噪声（如LLM预训练中常见的高方差梯度）下的有效性。当前理论大多假设有限方差，但实证表明真实训练梯度噪声呈重尾分布，这可能导致AdamW收敛不稳定或效率下降。该开放问题对产品经理的启示：了解优化器在不同噪声环境下的表现有助于预估训练成本与模型质量，未来可能出现针对重尾噪声的改进优化器，直接影响LLM训练效率与商业化部署成本。",
+  "pm_relevance": 5,
+  "concepts": [
+    "Large Language Model Training",
+    "Optimization Algorithms",
+    "Heavy-Tailed Noise"
+  ],
+  "entities": [],
+  "patterns": []
+}

@@ -1,0 +1,30 @@
+{
+  "title": "AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection",
+  "summary": "Learning robust dexterous grasping requires real-world data that records the physical outcomes of grasp attempts. Such data is hard to obtain at scale: teleoperation yields valid physical outcomes but is slow and operator-biased, while simulation-based generation is cheap and scalable but cannot certify contact validity. A natural solution is to generate candidate grasps and verify them on real hardware, but this scales only if the entire collection loop (perception, execution, labeling, and reset) runs without human intervention. We present AutoDex, an automated real-world data-collection system that closes this loop: for each candidate from a replaceable generator, it localizes the object under severe hand-object occlusion with dense 20-camera perception, executes collision-monitored robot motions, labels lift-and-hold success or failure, and actively resets the object between trials to expose additional candidates across stable poses. The result is a reusable database of physically labeled grasp trials that downstream systems can query by retrieval and feasibility filtering. Using AutoDex, we collect 3,593 grasp trials across Allegro and Inspire hands on 100 diverse objects, with synchronized multi-view observations and robot-state logs. For a matched 500-trajectory collection, AutoDex requires 10.3 h versus 49.4 h for teleoperation, yielding a 4.8x throughput improvement, and grasps retrieved from the AutoDex-validated database succeed 76% versus 34% for simulation-only validation. Code and data will be publicly released.",
+  "url": "http://arxiv.org/abs/2606.23689v1",
+  "authors": [
+    "Mingi Choi",
+    "Gunhee Kim",
+    "Jisoo Kim",
+    "Taeksoo Kim",
+    "Taeyun Ha"
+  ],
+  "published": "2026-06-22T17:59:55Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "throughput",
+    "retrieval"
+  ],
+  "summary_cn": "AutoDex 提出了一种自动化真实世界系统，用于灵巧抓取数据的收集。当前灵巧抓取学习面临真实世界数据稀缺的瓶颈：遥操作收集数据准确但效率低且存在操作者偏差，仿真数据易扩展但物理真实性不足。该系统通过自动化物理尝试记录抓取结果，实现了大规模高质量真实数据采集，为训练鲁棒的灵巧抓取策略提供了关键数据基础，有望加速机器人灵巧操作能力的商业化落地。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Dexterous Grasping",
+    "Real-World Data Collection",
+    "Automated System"
+  ],
+  "entities": [],
+  "patterns": [
+    "Automated Data Collection"
+  ]
+}

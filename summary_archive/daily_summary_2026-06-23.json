@@ -1,0 +1,241 @@
+{
+  "daily_summary": {
+    "date": "2026-06-23",
+    "headline": "今日 AI 情报 · 2026-06-23",
+    "overview": "AI Agent 工具链与协作流程快速成熟",
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "AI安全与信任正成为规模化部署的关键挑战。该方向的具体信号：信任/合规。",
+        "evidence": [
+          {
+            "id": "the-text-in-claude-codes-extended-thinking-output",
+            "title": "The text in Claude Code’s “Extended Thinking” output",
+            "score": 0.63,
+            "url": "https://news.ycombinator.com/item?id=48630535",
+            "reason": "高价值信号"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
+        "evidence": [
+          {
+            "id": "show-hn-blockbuzz-a-workspace-built-for-teams-of-humans-and-agents",
+            "title": "Show HN: Block/buzz: a workspace built for teams of humans and agents",
+            "score": 0.33,
+            "url": "https://github.com/block/buzz",
+            "reason": "里程碑式进展"
+          },
+          {
+            "id": "mas-promptbench-when-does-prompt-optimization-improve-multi-agent-llm-systems",
+            "title": "MAS-PromptBench: When Does Prompt Optimization Improve Multi-Agent LLM",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2606.23664v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向的核心信号集中在安全/漏洞。",
+        "evidence": [
+          {
+            "id": "headroomlabs-aiheadroom",
+            "title": "headroomlabs-ai/headroom",
+            "score": 0.58,
+            "url": "https://github.com/headroomlabs-ai/headroom",
+            "reason": "高价值信号"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "今日💰 商业趋势方向有新的动态。",
+        "evidence": [
+          {
+            "id": "google-deepmind-bets-75m-on-ai8217s-future-in-hollywood-with-a24-deal",
+            "title": "Google DeepMind bets $75M on AI&#8217;s future in Hollywood with A24 d",
+            "score": 0.48,
+            "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      }
+    ],
+    "narratives": [
+      {
+        "title": "AI Agent 工具链与协作流程快速成熟",
+        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：The AI world is getting &#8216;loopy&#82, MAS-PromptBench: When Does Prompt Optimi。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "type": "paradigm_shift",
+        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      },
+      {
+        "title": "AI安全与信任正成为规模化部署的关键挑战",
+        "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：OpenAI launches new initiative to help f, Show HN: Crespo – Tree-sitter AST bluepr。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+        "type": "bottleneck",
+        "action": "建议：审查当前产品的安全/信任/合规设计，是否需要升级。这是获取企业客户的关键竞争力。"
+      }
+    ],
+    "stats": "🤖 技术能力: 17 | 🔧 工具生态: 10 | 💰 商业趋势: 4 | 📱 产品模式: 5",
+    "total_items": 36,
+    "high_value_count": 35,
+    "all_today_ids": [
+      {
+        "id": "the-text-in-claude-codes-extended-thinking-output",
+        "label": "The text in Claude Code’s “Extended Thinking” output"
+      },
+      {
+        "id": "moebius-02b-image-inpainting-model-with-10b-level-performance",
+        "label": "Moebius: 0.2B image inpainting model with 10B-level performance"
+      },
+      {
+        "id": "headroomlabs-aiheadroom",
+        "label": "headroomlabs-ai/headroom"
+      },
+      {
+        "id": "show-hn-recall-local-project-memory-for-claude-code",
+        "label": "Show HN: Recall – Local project memory for Claude Code"
+      },
+      {
+        "id": "canada-plans-nuclear-renaissance-with-up-to-10-reactors-built-by-2040",
+        "label": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040"
+      },
+      {
+        "id": "polymarket-has-flooded-social-media-with-deceptive-videos-by-paid-creators",
+        "label": "Polymarket has flooded social media with deceptive videos by paid creators"
+      },
+      {
+        "id": "show-hn-oak-git-alternative-designed-for-agents",
+        "label": "Show HN: Oak – Git alternative designed for agents"
+      },
+      {
+        "id": "munich-1991-the-roots-of-the-current-ai-boom",
+        "label": "Munich 1991: The Roots of the Current AI Boom"
+      },
+      {
+        "id": "google-deepmind-bets-75m-on-ai8217s-future-in-hollywood-with-a24-deal",
+        "label": "Google DeepMind bets $75M on AI&#8217;s future in Hollywood with A24 deal"
+      },
+      {
+        "id": "the-ai-world-is-getting-8216loopy8217",
+        "label": "The AI world is getting &#8216;loopy&#8217;"
+      },
+      {
+        "id": "the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
+        "label": "The running list: major tech layoffs in 2026 where employers cited AI"
+      },
+      {
+        "id": "air-adaptive-interleaved-reasoning-with-code-in-mllms",
+        "label": "AIR: Adaptive Interleaved Reasoning with Code in MLLMs"
+      },
+      {
+        "id": "semantic-browsing-controllable-diversity-for-image-generation",
+        "label": "Semantic Browsing: Controllable Diversity for Image Generation"
+      },
+      {
+        "id": "when-the-trump-administration-cracks-down-on-anthropic-who-benefits",
+        "label": "When the Trump administration cracks down on Anthropic, who benefits?"
+      },
+      {
+        "id": "in-praise-of-memcached",
+        "label": "In praise of memcached"
+      },
+      {
+        "id": "openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs",
+        "label": "OpenAI launches new initiative to help find and patch open-source bugs"
+      },
+      {
+        "id": "amazon-is-testing-alexa-in-india-with-hindi-support",
+        "label": "Amazon is testing Alexa+ in India with Hindi support"
+      },
+      {
+        "id": "nvidia-wants-to-cut-data-center-water-use-but-that8217s-not-the-same-as-fixing-a",
+        "label": "Nvidia wants to cut data center water use, but that&#8217;s not the same as fixi"
+      },
+      {
+        "id": "ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidia8217s-20b-not-acqui",
+        "label": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia&#8217;s $20B not-"
+      },
+      {
+        "id": "autodex-an-automated-real-world-system-for-dexterous-grasping-data-collection",
+        "label": "AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection"
+      },
+      {
+        "id": "coordex-coordinating-body-and-hand-priors-for-continuous-dexterous-humanoid-loco",
+        "label": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loc"
+      },
+      {
+        "id": "vibethinker-3b-param-model-that-beats-opus-45-on-reasoning-with-novel-sftgrpo",
+        "label": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO"
+      },
+      {
+        "id": "spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab",
+        "label": "SpaceX inks compute deal with Reflection AI, an open source AI lab"
+      },
+      {
+        "id": "open-problem-is-adamw-effective-under-heavy-tailed-noise",
+        "label": "Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?"
+      },
+      {
+        "id": "show-hn-crespo-tree-sitter-ast-blueprints-instead-of-raw-code-for-llms",
+        "label": "Show HN: Crespo – Tree-sitter AST blueprints instead of raw code for LLMs"
+      },
+      {
+        "id": "show-hn-pulse-dashboard-for-claude-code-approve-tool-calls-from-your-phone",
+        "label": "Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone"
+      },
+      {
+        "id": "show-hn-selector-forge-browser-extension-for-ai-generated-resilient-selectors",
+        "label": "Show HN: Selector Forge – browser extension for AI-generated resilient selectors"
+      },
+      {
+        "id": "show-hn-blockbuzz-a-workspace-built-for-teams-of-humans-and-agents",
+        "label": "Show HN: Block/buzz: a workspace built for teams of humans and agents"
+      },
+      {
+        "id": "psybridge-a-hybrid-intelligent-framework-for-multi-dimensional-mental-health-ass",
+        "label": "PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health As"
+      },
+      {
+        "id": "tapered-language-models",
+        "label": "Tapered Language Models"
+      },
+      {
+        "id": "dynamic-estimation-of-slowly-varying-sequences",
+        "label": "Dynamic estimation of slowly varying sequences"
+      },
+      {
+        "id": "mas-promptbench-when-does-prompt-optimization-improve-multi-agent-llm-systems",
+        "label": "MAS-PromptBench: When Does Prompt Optimization Improve Multi-Agent LLM Systems?"
+      },
+      {
+        "id": "teaching-llms-string-matching-backtracking-and-error-recovery-to-deduce-bases-an",
+        "label": "Teaching LLMs String Matching, Backtracking, and Error Recovery to Deduce Bases"
+      },
+      {
+        "id": "action-bed-task-driven-bayesian-experimental-design-with-singly-intractable-obje",
+        "label": "Action-BED: Task-Driven Bayesian Experimental Design with Singly Intractable Obj"
+      },
+      {
+        "id": "on-the-limits-of-prompt-conditioned-language-models-as-general-purpose-learners",
+        "label": "On the Limits of Prompt-Conditioned Language Models as General-Purpose Learners"
+      },
+      {
+        "id": "the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-inc",
+        "label": "The founder conference built for growth: TechCrunch Founder Summit pass rates in"
+      }
+    ],
+    "date_bj": "2026-06-23 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-06-23 14:22:10"
+  }
+}

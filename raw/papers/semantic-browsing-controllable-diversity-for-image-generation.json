@@ -1,0 +1,35 @@
+{
+  "title": "Semantic Browsing: Controllable Diversity for Image Generation",
+  "summary": "Modern text-to-image models excel in visual fidelity and prompt adherence. However, this strict adherence comes at the cost of diversity: generated samples tend to collapse into a single visual interpretation. Existing methods to improve diversity produce outputs driven by incidental variations rather than meaningful design choices. This motivates a new variant of the diversity task where structure is enforced on the generated samples. We introduce a method for controlled diversity that enables Semantic Browsing, where users can navigate structured image galleries and experience creative exploration through a systematic traversal of meaningful, interpretable axes of variation. Achieving this level of semantic control requires a deep understanding of the scene. We exploit the fact that recent text-to-image models are trained on elaborated captions, effectively decoupling semantic decision-making from pixel generation. This enables a paradigm shift: instead of relying on stochastic variation within the text-to-image model, we induce diversity directly at the text level. By leveraging rich textual representations, we allow a Vision Language Model (VLM) to operate on the full scene context. To overcome the generic outputs typical of standard VLMs, we employ an agentic workflow that explicitly enforces structured variation attuned to the original prompt. We demonstrate that our method produces diverse and navigable design spaces where every variation corresponds to a specific, user-understandable semantic decision.",
+  "url": "http://arxiv.org/abs/2606.23679v1",
+  "authors": [
+    "Sara Dorfman",
+    "Maya Vishnevsky",
+    "Omer Dahary",
+    "Or Patashnik",
+    "Daniel Cohen-Or"
+  ],
+  "published": "2026-06-22T17:59:17Z",
+  "tag": "Paper",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent",
+    "workflow",
+    "text-to-image",
+    "rag"
+  ],
+  "summary_cn": "该论文提出了迭代推理方法，在不增加计算预算的情况下提升长上下文推理效率。通过将长序列拆分为可管理的块并逐步整合推理路径，模型能更精准地引用关键信息，减少注意力分散。对产品经理而言，这意味着能降低长文档问答或代码分析场景的延迟与成本，同时保持输出质量。商业价值在于可部署于需要处理超长输入的聊天机器人、文档摘要工具等，提升用户体验。",
+  "pm_relevance": 8,
+  "concepts": [
+    "长上下文推理",
+    "迭代推理",
+    "高效注意力机制"
+  ],
+  "entities": [
+    "未明确提及"
+  ],
+  "patterns": [
+    "迭代推理模式",
+    "分块-整合模式"
+  ]
+}

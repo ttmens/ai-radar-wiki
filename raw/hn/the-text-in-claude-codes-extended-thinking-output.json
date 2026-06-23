@@ -1,0 +1,24 @@
+{
+  "title": "The text in Claude Code’s “Extended Thinking” output",
+  "score": 293,
+  "comments": 205,
+  "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+  "hn_url": "https://news.ycombinator.com/item?id=48630535",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Claude Code推出‘Extended Thinking’功能，将模型内部推理过程以文本形式输出展示给用户。该功能使AI的决策链可视化，有助于产品经理调试模型行为、提升用户对输出结果的信任，尤其适用于需要解释性或逻辑严谨性的场景（如代码审查、复杂问答）。技术亮点在于将链式思维（Chain-of-Thought）从幕后转向台前，增强了AI的可解释性，为构建更透明、可信的AI产品提供了新范式。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Extended Thinking",
+    "Chain-of-Thought",
+    "AI Transparency"
+  ],
+  "entities": [
+    "Claude (Anthropic)"
+  ],
+  "patterns": [
+    "Reasoning Transparency Pattern",
+    "Explainable AI Pattern"
+  ]
+}
