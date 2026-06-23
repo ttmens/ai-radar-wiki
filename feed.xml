@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 23 Jun 2026 10:08:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 20:00:40 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -253,6 +253,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Who Does What? Team Topologies for the Agentic Platform</title>
+      <link>https://news.ycombinator.com/item?id=48640382</link>
+      <guid isPermaLink="false">who-does-what-team-topologies-for-the-agentic-platform</guid>
+      <pubDate>2026-06-23T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了在构建智能体平台（Agentic Platform）时，如何运用团队拓扑（Team Topologies）理论来划分团队职责，明确“谁做什么”。对于AI产品经理而言，合理的团队结构能加速平台开发、减少沟通摩擦，并提升AI系统的模块化和可维护性。文章强调了流对齐团队、赋能团队等模式在AI产品组织中的应用，具有重要产品管理指导价值。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models</title>
       <link>https://news.ycombinator.com/item?id=48639434</link>
       <guid isPermaLink="false">ultralytics-yolo26-unified-real-time-end-to-end-vision-models</guid>
@@ -333,6 +341,14 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>Show HN: Shumai – open-source Frame.io alternative for creative work</title>
+      <link>https://github.com/shumaiOne/shumai</link>
+      <guid isPermaLink="false">show-hn-shumai-open-source-frameio-alternative-for-creative-work</guid>
+      <pubDate>2026-06-23T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Shumai 是一款开源的创意工作协作平台，旨在替代 Frame.io。它提供视频、设计等创意资产的实时审阅、版本管理和评论功能，核心是去中心化、自托管的协作模式。作为 AI 产品经理，可关注其如何利用开源社区降低企业成本、支持自定义工作流，以及未来集成 AI 驱动的自动标注、智能剪辑等能力。商业价值体现在打破平台锁定，产品创新在于完全可控的协作基础设施。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Show HN: Neural Particle Automata</title>
       <link>https://selforg-npa.github.io/</link>
       <guid isPermaLink="false">show-hn-neural-particle-automata</guid>
@@ -394,22 +410,6 @@
       <guid isPermaLink="false">when-i-reject-ai-code-even-if-it-works</guid>
       <pubDate>2026-06-21T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该Hacker News帖子讨论开发者拒绝AI生成的代码，即使功能正确。核心问题是AI代码虽能运行，但可能缺乏可读性、可维护性、安全性或符合团队规范，导致被人类开发者拒绝。这反映了当前AI编程助手在代码质量、上下文理解与工程实践上的局限性。对AI产品经理而言，需要关注如何提升AI代码的“可接受度”，而不仅是功能正确性，包括集成代码审查、风格适配、架构一致性等产品创新。商业价值在于提高开发者信任和效率，推动AI辅助开发的落地。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>In the Weights is your new AI-centric vanity search</title>
-      <link>https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/</link>
-      <guid isPermaLink="false">in-the-weights-is-your-new-ai-centric-vanity-search</guid>
-      <pubDate>2026-06-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>本文介绍了一款名为“In the Weights”的AI中心化虚荣搜索工具，用户可通过该工具查询自己的“In the Weights评分”。该工具利用AI技术对个人数据进行搜索与评估，生成个性化虚荣指标。对AI产品经理而言，其创新点在于将AI搜索与自我量化结合，创造娱乐化社交分享场景，商业模式可能依托用户参与和口碑传播。技术要点包括AI驱动的个性化数据检索与评分算法。产品设计强调用户交互趣味性，可能通过积分或排名机制增强用户黏性。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Inference cost at scale with napkin math</title>
-      <link>https://news.ycombinator.com/item?id=48560227</link>
-      <guid isPermaLink="false">inference-cost-at-scale-with-napkin-math</guid>
-      <pubDate>2026-06-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文通过粗略估算（napkin math）探讨AI大规模推理的成本问题。核心要点包括：模型推理的算力需求与硬件成本的关系、在规模部署下单位推理成本随批次处理量和硬件利用率提升而下降的规律、以及低于一定成本阈值后可能催生的新产品形态。对产品经理而言，理解推理成本的临界点有助于决定产品定价策略、功能边界和商业模式（如是否可免费提供基础推理）。商业价值在于成本下降能打开更多高频交互和实时应用场景；产品创新上可关注低成本推理带来的“推理即特性”设计思路。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>

@@ -1,0 +1,22 @@
+{
+  "title": "Don't verify email addresses by sending spam to them",
+  "score": 75,
+  "comments": 10,
+  "url": "https://milek7.pl/mailverifyspam/",
+  "hn_url": "https://news.ycombinator.com/item?id=48650837",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "文章批评了通过发送垃圾邮件来验证用户邮箱地址的常见错误做法，指出这种做法会损害用户体验和品牌信任，增加用户流失风险。产品经理应优先采用更友好的验证方式，例如发送包含验证链接的单独邮件，或使用验证码、OAuth等机制，确保验证过程干净、非侵入性，同时遵守反垃圾邮件法规。商业价值在于降低退订率和投诉率，提升用户留存。技术要点包括邮件发送与验证逻辑的解耦，以及基于发件人信誉的优化。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Email Verification",
+    "Anti-Spam",
+    "User Trust"
+  ],
+  "entities": [],
+  "patterns": [
+    "User-centric Design",
+    "Trust & Safety"
+  ]
+}

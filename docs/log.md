@@ -2132,3 +2132,17 @@
 - create: ultralytics-yolo26-unified-real-time-end-to-end-vision-models.md
 - create: ai-built-a-nuke-and-still-lost.md
 - create: show-hn-neural-particle-automata.md
+
+## [2026-06-24 06:01] sync v3 | 13 new | pillars: {'capabilities': 11, 'business': 1, 'patterns': 1}
+- create: german-rail-service-suspended-due-to-radio-interference.md
+- create: all-train-services-in-germany-halted-after-train-radio-communications-disruption.md
+- create: dont-verify-email-addresses-by-sending-spam-to-them.md
+- create: futo-swipe-a-new-swipe-typing-model.md
+- create: ai-hiring-tools-yield-racial-bias-and-systemic-rejection-26-black-15-asian.md
+- create: claude-tag.md
+- create: mistral-ocr-4.md
+- create: the-low-tech-ai-of-elden-ring.md
+- create: elevated-error-rate-across-multiple-models.md
+- create: anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time.md
+- create: fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-inter.md
+- create: show-hn-the-cascade-graph-an-interactive-map-of-ai-and-energy-constraints.md

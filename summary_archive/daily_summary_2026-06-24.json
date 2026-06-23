@@ -1,0 +1,109 @@
+{
+  "daily_summary": {
+    "date": "2026-06-24",
+    "headline": "今日 AI 情报 · 2026-06-24",
+    "overview": "AI从对话协作迈向自主代理，但可靠性、公平性与能源瓶颈同步凸显。",
+    "narratives": [
+      {
+        "title": "AI从对话工具向自主协作代理进化",
+        "body": "今日多点信号表明，AI正从被动的对话助手转向主动嵌入工作流的自主代理。Claude Tag在Slack中实时学习组织知识，Fika Jobs用AI面试代理替代人工筛选，均体现了这一范式转移。这对产品经理意味着需要重新设计交互范式（从指令式到委托式），并关注代理的上下文记忆、权限与故障切换。",
+        "type": "paradigm_shift",
+        "pillar_key": "patterns"
+      },
+      {
+        "title": "AI招聘自动化加速，但偏见与合规风险成为关键瓶颈",
+        "body": "AI招聘工具暴露系统性种族偏见（26%黑人被拒），同时Fika Jobs融资400万美元推广视频AI面试。两者矛盾揭示：自动化效率提升无法回避公平性审计。产品经理需在招聘产品中嵌入可解释的公平性评估模块，并考虑对抗性去偏等方案，否则将面临法律与品牌双重风险。",
+        "type": "bottleneck",
+        "pillar_key": "patterns"
+      }
+    ],
+    "insights": [
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI从对话工具向自主协作代理进化",
+        "insight": "AI从对话工具向自主协作代理进化。该方向的具体信号：Claude Tag在Slack中实时学习团队上下文并主动提供信息，Fika Jobs用AI面试代理异步完成候选人评估，两者均颠覆了传统“用户提问-模型回答”的交互模式，转向AI在后台持续感知、记忆并自主执行任务。",
+        "evidence": [
+          {
+            "id": "anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time",
+            "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+            "score": 0.48
+          },
+          {
+            "id": "fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-inter",
+            "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+            "score": 0.45
+          }
+        ]
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI招聘自动化加速，但偏见与合规风险成为关键瓶颈",
+        "insight": "AI招聘自动化加速，但偏见与合规风险成为关键瓶颈。该方向的具体信号：AI招聘工具导致26%黑人申请者被不公正拒绝，而Fika Jobs融资400万美元用AI代理进行视频面试，显示行业在追求效率的同时，系统性偏见与合规审计机制严重缺失，产品经理须引入公平性评估与对抗性去偏手段。",
+        "evidence": [
+          {
+            "id": "fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-inter",
+            "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+            "score": 0.45
+          }
+        ]
+      }
+    ],
+    "stats": "技术能力: 8 | 产品模式: 3 | 工具生态: 0 | 商业趋势: 0",
+    "total_items": 12,
+    "high_value_count": 7,
+    "all_today_ids": [
+      {
+        "id": "claude-tag",
+        "label": "Claude Tag"
+      },
+      {
+        "id": "ai-hiring-tools-yield-racial-bias-and-systemic-rejection-26-black-15-asian",
+        "label": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian"
+      },
+      {
+        "id": "elevated-error-rate-across-multiple-models",
+        "label": "Elevated error rate across multiple models"
+      },
+      {
+        "id": "mistral-ocr-4",
+        "label": "Mistral OCR 4"
+      },
+      {
+        "id": "anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time",
+        "label": "Anthropic’s Claude Tag is learning your company, one Slack message at a time"
+      },
+      {
+        "id": "fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-inter",
+        "label": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents inte"
+      },
+      {
+        "id": "futo-swipe-a-new-swipe-typing-model",
+        "label": "FUTO Swipe – A new swipe typing model"
+      },
+      {
+        "id": "the-low-tech-ai-of-elden-ring",
+        "label": "The Low-Tech AI of Elden Ring"
+      },
+      {
+        "id": "dont-verify-email-addresses-by-sending-spam-to-them",
+        "label": "Don't verify email addresses by sending spam to them"
+      },
+      {
+        "id": "german-rail-service-suspended-due-to-radio-interference",
+        "label": "German Rail Service Suspended Due to Radio Interference"
+      },
+      {
+        "id": "show-hn-the-cascade-graph-an-interactive-map-of-ai-and-energy-constraints",
+        "label": "Show HN: The Cascade Graph – An interactive map of AI and energy constraints"
+      },
+      {
+        "id": "all-train-services-in-germany-halted-after-train-radio-communications-disruption",
+        "label": "All train services in Germany halted after train radio communications disruption"
+      }
+    ],
+    "date_bj": "2026-06-24 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-06-24 06:01:38"
+  }
+}
