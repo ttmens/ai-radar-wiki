@@ -1,7 +1,7 @@
 {
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T14:26:50.053028+08:00",
-  "item_count": 35,
+  "generated_at": "2026-06-23T18:00:29.774392+08:00",
+  "item_count": 39,
   "items": [
     {
       "id": "the-text-in-claude-codes-extended-thinking-output",
@@ -89,6 +89,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48599998",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "the-new-http-query-method-explained",
+      "label": "The new HTTP QUERY method explained",
+      "summary": "HTTP QUERY 方法是一种新的 HTTP 请求方法，旨在提供安全、幂等的查询操作，避免 GET 请求因 URL 长度限制和日志泄露等问题带来的风险。该方法允许在请求体中传递查询参数，适用于复杂查询、图查询或 AI 服务的 API 设计，提升接口的灵活性和安全性。对于 AI 产品经理，这意味着可以更优雅地设计搜索、检索或知识库查询接口，同时兼容现有 REST 架构。其标准化进程（由 IETF 推动）将影响未来 API 规范，值得关注。",
+      "pm_score": 0.495,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48640974",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "openai-daybreak-gpt-55-cyber",
+      "label": "OpenAI DayBreak – GPT-5.5-Cyber",
+      "summary": "OpenAI 可能推出代号 DayBreak 的 GPT-5.5 迭代版本，重点强化网络安全（Cyber）相关能力。该模型预计在基础推理、代码生成及防御性 AI 技术上取得突破，旨在提升企业级安全应用与自动化防护水平。对产品经理而言，这意味着更可靠的 AI 底座，可支撑高安全要求的 B 端产品与合规场景，加速 AI 在金融、政务等领域的落地。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48639063",
       "date": "2026-06-23"
     },
     {
@@ -257,6 +279,17 @@
       "date": "2026-06-23"
     },
     {
+      "id": "ai-built-a-nuke-and-still-lost",
+      "label": "AI Built a Nuke and Still Lost",
+      "summary": "该文章标题为“AI造了核弹却仍输掉”，可能探讨了AI在复杂任务（如战略博弈或模拟对抗）中虽展现了强大的自主构建能力，但最终仍因缺乏全局意识、过度自信或不可控因素而失败。对于AI产品经理而言，这警示了单纯追求能力上限可能忽视系统稳定性、价值对齐与人类协作的短板。商业上需平衡技术突破与实用闭环，避免“为创新而创新”导致产品落地受阻。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48641927",
+      "date": "2026-06-23"
+    },
+    {
       "id": "open-problem-is-adamw-effective-under-heavy-tailed-noise",
       "label": "Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?",
       "summary": "本文探讨了AdamW优化器在重尾噪声（如LLM预训练中常见的高方差梯度）下的有效性。当前理论大多假设有限方差，但实证表明真实训练梯度噪声呈重尾分布，这可能导致AdamW收敛不稳定或效率下降。该开放问题对产品经理的启示：了解优化器在不同噪声环境下的表现有助于预估训练成本与模型质量，未来可能出现针对重尾噪声的改进优化器，直接影响LLM训练效率与商业化部署成本。",
@@ -298,6 +331,17 @@
       "type": "showhn",
       "source_type": "showhn",
       "url": "https://github.com/Intuned/selector-forge",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "ultralytics-yolo26-unified-real-time-end-to-end-vision-models",
+      "label": "Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models",
+      "summary": "Ultralytics发布YOLO26，这是一款统一的实时端到端视觉模型，在目标检测基础上进一步集成分类、分割、姿态估计等多任务能力，同时保持高帧率与低延迟。该版本通过改进骨干网络和训练策略，在COCO等基准上取得SOTA性能，并优化了推理效率，适用于边缘设备部署。对产品经理而言，YOLO26降低了视觉AI应用门槛，可加速安防、自动驾驶、工业质检等场景的产品落地，同时其统一架构有望减少模型维护成本，提升迭代速度。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48639434",
       "date": "2026-06-23"
     },
     {
@@ -390,7 +434,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1817,
-    "edges": 198482
+    "real_nodes": 1822,
+    "edges": 200305
   }
 }

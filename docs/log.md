@@ -2125,3 +2125,10 @@
 - create: show-hn-personajs-a-vanilla-js-agent-ui-library-with-native-webmcp-mit.md
 
 ## [2026-06-23 14:23] sync v3 | 13 new | pillars: {'capabilities': 11, 'patterns': 2}
+
+## [2026-06-23 18:00] sync v3 | 5 new | pillars: {'capabilities': 5}
+- create: the-new-http-query-method-explained.md
+- create: openai-daybreak-gpt-55-cyber.md
+- create: ultralytics-yolo26-unified-real-time-end-to-end-vision-models.md
+- create: ai-built-a-nuke-and-still-lost.md
+- create: show-hn-neural-particle-automata.md

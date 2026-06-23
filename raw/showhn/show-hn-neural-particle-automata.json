@@ -1,0 +1,22 @@
+{
+  "title": "Show HN: Neural Particle Automata",
+  "score": 11,
+  "comments": 2,
+  "url": "https://selforg-npa.github.io/",
+  "hn_url": "https://news.ycombinator.com/item?id=48642030",
+  "tag": "ShowHN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Neural Particle Automata 是一种结合粒子系统与神经网络的新型计算架构，通过可微分粒子交互模拟实现动态系统学习。该技术可用于物理模拟、机器人控制、游戏引擎等场景，具有低计算成本、高并行性的商业价值。其核心创新在于将自动机编程思想与神经优化结合，实现从数据中自动发现粒子规则，为复杂物理场景的实时模拟提供新范式。",
+  "pm_relevance": 5,
+  "concepts": [
+    "Neural Particle Automata",
+    "Differentiable Physics",
+    "Particle-Based Neural Networks"
+  ],
+  "entities": [],
+  "patterns": [
+    "Simulation-as-Learning",
+    "Automata-Based Neural Architecture"
+  ]
+}
