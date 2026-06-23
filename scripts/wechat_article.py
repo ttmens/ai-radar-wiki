@@ -18,6 +18,16 @@ from datetime import datetime, timezone, timedelta
 WIKI_DIR = "/home/admin/ai-radar-wiki"
 ARTICLES_DIR = f"{WIKI_DIR}/articles"
 ENV_PATH = "/home/admin/.hermes/.env"
+
+# Load .env file
+if os.path.exists(ENV_PATH):
+    with open(ENV_PATH) as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith('#') and '=' in line:
+                key, val = line.split('=', 1)
+                os.environ.setdefault(key.strip(), val.strip().strip('"').strip("'"))
+
 FEISHU_APP_ID = os.environ.get("FEISHU_APP_ID", "").strip()
 if not FEISHU_APP_ID:
     raise EnvironmentError("FEISHU_APP_ID not set")

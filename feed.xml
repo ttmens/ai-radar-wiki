@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 23 Jun 2026 09:57:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 10:08:08 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -74,6 +74,22 @@
       <guid isPermaLink="false">munich-1991-the-roots-of-the-current-ai-boom</guid>
       <pubDate>2026-06-23T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该文章探讨了1991年慕尼黑在人工智能发展中的重要地位，指出早期的研究（如循环神经网络与长期依赖问题的突破）为当前AI繁荣奠定了基础。对于产品经理而言，理解这些技术根源有助于把握AI能力演进脉络，识别从学术成果到商业应用的转化路径。文章强调历史积累对现代AI产品创新的推动作用，提示关注基础模型与长期上下文处理能力的商业价值。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>The new HTTP QUERY method explained</title>
+      <link>https://news.ycombinator.com/item?id=48640974</link>
+      <guid isPermaLink="false">the-new-http-query-method-explained</guid>
+      <pubDate>2026-06-23T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>HTTP QUERY 方法是一种新的 HTTP 请求方法，旨在提供安全、幂等的查询操作，避免 GET 请求因 URL 长度限制和日志泄露等问题带来的风险。该方法允许在请求体中传递查询参数，适用于复杂查询、图查询或 AI 服务的 API 设计，提升接口的灵活性和安全性。对于 AI 产品经理，这意味着可以更优雅地设计搜索、检索或知识库查询接口，同时兼容现有 REST 架构。其标准化进程（由 IETF 推动）将影响未来 API 规范，值得关注。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>OpenAI DayBreak – GPT-5.5-Cyber</title>
+      <link>https://news.ycombinator.com/item?id=48639063</link>
+      <guid isPermaLink="false">openai-daybreak-gpt-55-cyber</guid>
+      <pubDate>2026-06-23T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>OpenAI 可能推出代号 DayBreak 的 GPT-5.5 迭代版本，重点强化网络安全（Cyber）相关能力。该模型预计在基础推理、代码生成及防御性 AI 技术上取得突破，旨在提升企业级安全应用与自动化防护水平。对产品经理而言，这意味着更可靠的 AI 底座，可支撑高安全要求的 B 端产品与合规场景，加速 AI 在金融、政务等领域的落地。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -197,6 +213,14 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>AI Built a Nuke and Still Lost</title>
+      <link>https://news.ycombinator.com/item?id=48641927</link>
+      <guid isPermaLink="false">ai-built-a-nuke-and-still-lost</guid>
+      <pubDate>2026-06-23T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该文章标题为“AI造了核弹却仍输掉”，可能探讨了AI在复杂任务（如战略博弈或模拟对抗）中虽展现了强大的自主构建能力，但最终仍因缺乏全局意识、过度自信或不可控因素而失败。对于AI产品经理而言，这警示了单纯追求能力上限可能忽视系统稳定性、价值对齐与人类协作的短板。商业上需平衡技术突破与实用闭环，避免“为创新而创新”导致产品落地受阻。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?</title>
       <link>http://arxiv.org/abs/2606.23676v1</link>
       <guid isPermaLink="false">open-problem-is-adamw-effective-under-heavy-tailed-noise</guid>
@@ -226,6 +250,14 @@
       <guid isPermaLink="false">show-hn-selector-forge-browser-extension-for-ai-generated-resilient-selectors</guid>
       <pubDate>2026-06-23T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Selector Forge 是一款浏览器扩展，利用 AI 技术自动生成更具弹性的网页元素选择器。传统选择器在页面动态更新时容易失效，而该工具通过分析 DOM 结构和上下文特征，生成能适应页面变化的选择器，显著提升自动化测试、爬虫和 RPA 场景下的稳定性。其商业价值在于减少人工维护选择器的工作量，降低自动化脚本的故障率，并加速开发迭代。产品创新点在于将 AI 应用于前端选择器领域，解决长期存在的选择器脆弱性痛点。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models</title>
+      <link>https://news.ycombinator.com/item?id=48639434</link>
+      <guid isPermaLink="false">ultralytics-yolo26-unified-real-time-end-to-end-vision-models</guid>
+      <pubDate>2026-06-23T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Ultralytics发布YOLO26，这是一款统一的实时端到端视觉模型，在目标检测基础上进一步集成分类、分割、姿态估计等多任务能力，同时保持高帧率与低延迟。该版本通过改进骨干网络和训练策略，在COCO等基准上取得SOTA性能，并优化了推理效率，适用于边缘设备部署。对产品经理而言，YOLO26降低了视觉AI应用门槛，可加速安防、自动驾驶、工业质检等场景的产品落地，同时其统一架构有望减少模型维护成本，提升迭代速度。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -301,6 +333,14 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>Show HN: Neural Particle Automata</title>
+      <link>https://selforg-npa.github.io/</link>
+      <guid isPermaLink="false">show-hn-neural-particle-automata</guid>
+      <pubDate>2026-06-23T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Neural Particle Automata 是一种结合粒子系统与神经网络的新型计算架构，通过可微分粒子交互模拟实现动态系统学习。该技术可用于物理模拟、机器人控制、游戏引擎等场景，具有低计算成本、高并行性的商业价值。其核心创新在于将自动机编程思想与神经优化结合，实现从数据中自动发现粒子规则，为复杂物理场景的实时模拟提供新范式。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Nobel laureate John Jumper is leaving DeepMind for rival Anthropic</title>
       <link>https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/</link>
       <guid isPermaLink="false">nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic</guid>
@@ -370,46 +410,6 @@
       <guid isPermaLink="false">inference-cost-at-scale-with-napkin-math</guid>
       <pubDate>2026-06-21T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文通过粗略估算（napkin math）探讨AI大规模推理的成本问题。核心要点包括：模型推理的算力需求与硬件成本的关系、在规模部署下单位推理成本随批次处理量和硬件利用率提升而下降的规律、以及低于一定成本阈值后可能催生的新产品形态。对产品经理而言，理解推理成本的临界点有助于决定产品定价策略、功能边界和商业模式（如是否可免费提供基础推理）。商业价值在于成本下降能打开更多高频交互和实时应用场景；产品创新上可关注低成本推理带来的“推理即特性”设计思路。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>UHF X11: X11 Built for VisionOS and Apple Vision Pro</title>
-      <link>https://news.ycombinator.com/item?id=48610853</link>
-      <guid isPermaLink="false">uhf-x11-x11-built-for-visionos-and-apple-vision-pro</guid>
-      <pubDate>2026-06-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>UHF X11 是为 VisionOS 和 Apple Vision Pro 构建的 X11 窗口系统实现，旨在将传统 Linux 图形应用引入空间计算环境。通过兼容 X11 协议，它允许开发者无需重写即可在 Vision Pro 上运行现有应用，从而降低生态迁移成本。这一产品创新打通了桌面与空间算力之间的壁垒，为 AI 产品经理带来跨平台部署的想象空间，尤其适合需要可视化推理或复杂界面的 AI 工具。商业价值在于加速 Vision Pro 应用生态建设，吸引更多 UNIX/Linux 社区开发者入驻空间计算平台。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Persona.js – a vanilla-JS agent UI library with native WebMCP (MIT)</title>
-      <link>https://www.persona-chat.dev/</link>
-      <guid isPermaLink="false">show-hn-personajs-a-vanilla-js-agent-ui-library-with-native-webmcp-mit</guid>
-      <pubDate>2026-06-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Persona.js 是一个轻量级的纯 JavaScript 代理 UI 库，采用 MIT 许可协议。其核心创新在于原生支持 WebMCP（一种标准化代理通信协议），可帮助开发者快速构建与 AI 代理交互的界面组件，无需复杂框架。该库通过解耦代理逻辑与 UI 展示，降低了多代理系统的开发门槛，尤其适合需要快速集成对话、工具调用等交互场景的产品。产品经理可借助它加速原型验证，减少前端定制成本，推动 AI 功能的产品化落地。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Temporary Cloudflare Accounts for AI Agents</title>
-      <link>https://news.ycombinator.com/item?id=48608394</link>
-      <guid isPermaLink="false">temporary-cloudflare-accounts-for-ai-agents</guid>
-      <pubDate>2026-06-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Cloudflare 推出为 AI 代理设计的临时账户功能，允许代理在执行任务时自动创建、使用并销毁临时身份，提升安全性与可管理性。这一设计解决了 AI 代理长期持有凭证带来的权限滥用和隐私风险，同时简化了代理的跨服务认证流程。对于产品经理而言，该模式可应用于自动化测试、数据采集、个性化服务等场景，降低运维成本并增强用户信任。技术要点包括临时凭证的自动生成、生命周期管理及权限范围隔离，商业价值在于为代理经济提供基础设施级别的安全底座。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Semiconductor Lifeline Keeps Fighter Jets in the Air</title>
-      <link>https://news.ycombinator.com/item?id=48554206</link>
-      <guid isPermaLink="false">semiconductor-lifeline-keeps-fighter-jets-in-the-air</guid>
-      <pubDate>2026-06-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文标题指出半导体供应链是维持战斗机作战能力的生命线。从AI产品经理视角，这揭示了底层芯片硬件对军用AI系统（如自主导航、目标识别）的支撑作用。技术要点在于先进制程芯片的高算力与可靠性；商业价值体现在国防订单驱动定制化AI芯片研发，并推动边缘计算在军事场景的实时决策；产品创新则聚焦于从数据中心到战场的AI部署。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>PostgresBench: A Reproducible Benchmark for Postgres Services</title>
-      <link>https://news.ycombinator.com/item?id=48611942</link>
-      <guid isPermaLink="false">postgresbench-a-reproducible-benchmark-for-postgres-services</guid>
-      <pubDate>2026-06-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>PostgresBench 是一个用于 PostgreSQL 服务的可重复基准测试工具，旨在提供标准化、可复现的性能评估方法。对于 AI 产品经理而言，该工具能帮助比较不同云服务商或自部署的 Postgres 实例性能，降低选型成本，并确保测试结果一致性。其核心价值在于通过统一的工作负载与指标，支持生产环境下的性能调优与容量规划，间接提升 AI 应用的数据层稳定性与响应速度。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
