@@ -2,27 +2,33 @@
   "daily_summary": {
     "date": "2026-06-24",
     "headline": "今日 AI 情报 · 2026-06-24",
-    "overview": "AI从对话协作迈向自主代理，但可靠性、公平性与能源瓶颈同步凸显。",
+    "overview": "AI代理化加速落地，但成本与可靠性瓶颈凸显",
     "narratives": [
       {
-        "title": "AI从对话工具向自主协作代理进化",
-        "body": "今日多点信号表明，AI正从被动的对话助手转向主动嵌入工作流的自主代理。Claude Tag在Slack中实时学习组织知识，Fika Jobs用AI面试代理替代人工筛选，均体现了这一范式转移。这对产品经理意味着需要重新设计交互范式（从指令式到委托式），并关注代理的上下文记忆、权限与故障切换。",
+        "title": "AI从对话工具转向自主代理与系统级部署",
+        "body": "今日多条情报表明，AI产品正从单一对话模型向自主代理和系统级整合演进。Claude Tag嵌入Slack实时学习组织知识，Qwen-AgentWorld将语言模型作为世界模型驱动通用智能体，Fika Jobs和MoEngage分别将AI代理用于招聘面试和超个性化营销。这些案例标志着AI从被动响应工具升级为主动协作伙伴，产品经理需关注多代理协作架构、记忆与上下文持久化设计。",
         "type": "paradigm_shift",
         "pillar_key": "patterns"
       },
       {
-        "title": "AI招聘自动化加速，但偏见与合规风险成为关键瓶颈",
-        "body": "AI招聘工具暴露系统性种族偏见（26%黑人被拒），同时Fika Jobs融资400万美元推广视频AI面试。两者矛盾揭示：自动化效率提升无法回避公平性审计。产品经理需在招聘产品中嵌入可解释的公平性评估模块，并考虑对抗性去偏等方案，否则将面临法律与品牌双重风险。",
+        "title": "AI部署面临可负担性与可靠性瓶颈",
+        "body": "AI的可负担性危机和多模型错误率升高是当前产品化的两大拦路虎。推理成本高企限制用户覆盖，而错误率波动直接威胁服务SLA和用户信任。产品经理必须将成本优化（蒸馏、缓存、混合架构）和鲁棒性设计（多模型负载均衡、自动回滚）纳入产品核心策略。",
         "type": "bottleneck",
-        "pillar_key": "patterns"
+        "pillar_key": "capabilities"
+      },
+      {
+        "title": "AI在垂直行业的落地验证加速",
+        "body": "AI招聘工具因种族偏见引发合规风险，同时像Fika Jobs和MoEngage这样的垂直产品正利用AI代理重塑行业流程。这表明AI在特定场景的价值已获验证，但必须在公平性、可解释性和业务效果上通过严格测试。产品经理应主动嵌入审计机制，并开发透明化报告工具。",
+        "type": "validation",
+        "pillar_key": "business"
       }
     ],
     "insights": [
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "AI从对话工具向自主协作代理进化",
-        "insight": "AI从对话工具向自主协作代理进化。该方向的具体信号：Claude Tag在Slack中实时学习团队上下文并主动提供信息，Fika Jobs用AI面试代理异步完成候选人评估，两者均颠覆了传统“用户提问-模型回答”的交互模式，转向AI在后台持续感知、记忆并自主执行任务。",
+        "narrative_title": "AI从对话工具转向自主代理与系统级部署",
+        "insight": "AI从对话工具转向自主代理与系统级部署。该方向的具体信号：Claude Tag在Slack中持续学习组织上下文，将AI转变为主动协作伙伴；Qwen-AgentWorld和世界模型分片为通用智能体提供模块化架构；Fika Jobs和MoEngage用AI代理分别替代招聘面试和营销执行，展示代理模式在垂直场景的落地潜力。产品经理应关注如何将记忆、推理和工具调用嵌入产品流程。",
         "evidence": [
           {
             "id": "anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time",
@@ -30,30 +36,72 @@
             "score": 0.48
           },
           {
+            "id": "qwen-agentworld-language-world-models-for-general-agents",
+            "title": "Qwen-AgentWorld: Language World Models for General Agents",
+            "score": 0.48
+          },
+          {
+            "id": "world-models-in-pieces-structural-certification-for-general-agents",
+            "title": "World Models in Pieces: Structural Certification for General Agents",
+            "score": 0.48
+          },
+          {
             "id": "fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-inter",
-            "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+            "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview",
+            "score": 0.45
+          },
+          {
+            "id": "india8217s-moengage-bets-that-the-future-of-marketing-is-millions-of-ai-agents",
+            "title": "MoEngage bets the future of marketing is millions of AI agents",
             "score": 0.45
           }
         ]
       },
       {
-        "pillar": "📱 产品模式",
-        "pillar_key": "patterns",
-        "narrative_title": "AI招聘自动化加速，但偏见与合规风险成为关键瓶颈",
-        "insight": "AI招聘自动化加速，但偏见与合规风险成为关键瓶颈。该方向的具体信号：AI招聘工具导致26%黑人申请者被不公正拒绝，而Fika Jobs融资400万美元用AI代理进行视频面试，显示行业在追求效率的同时，系统性偏见与合规审计机制严重缺失，产品经理须引入公平性评估与对抗性去偏手段。",
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI部署面临可负担性与可靠性瓶颈",
+        "insight": "AI部署面临可负担性与可靠性瓶颈。该方向的具体信号：AI's Affordability Crisis直接指出推理成本是产品化障碍；多模型同时出现错误率升高暴露缺乏冗余和降级机制；同时，Mistral OCR 4、FLUX3D、IV-CoT等技术创新聚焦于特定能力优化，但反向说明通用模型在专业性上的不足。产品经理需部署成本监控、多模型负载均衡和公平性审计工具，以确保商业可持续性。",
+        "evidence": [
+          {
+            "id": "ais-affordability-crisis",
+            "title": "AI's Affordability Crisis",
+            "score": 0.63
+          },
+          {
+            "id": "mistral-ocr-4",
+            "title": "Mistral OCR 4",
+            "score": 0.53
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI在垂直行业的落地验证加速",
+        "insight": "AI在垂直行业的落地验证加速。该方向的具体信号：AI招聘工具被发现系统性种族偏见，暴露公平性缺失带来的法律与品牌风险；Fika Jobs和MoEngage则成功获得融资，证明代理模式在招聘和营销领域的经济价值。产品经理应在垂直产品中嵌入可解释性和合规模块，将公平性审计转化为商业竞争力。",
         "evidence": [
           {
             "id": "fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-inter",
-            "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+            "title": "Fika Jobs raises $4M for AI video interview platform",
+            "score": 0.45
+          },
+          {
+            "id": "india8217s-moengage-bets-that-the-future-of-marketing-is-millions-of-ai-agents",
+            "title": "MoEngage bets future of marketing is millions of AI agents",
             "score": 0.45
           }
         ]
       }
     ],
-    "stats": "技术能力: 8 | 产品模式: 3 | 工具生态: 0 | 商业趋势: 0",
-    "total_items": 12,
-    "high_value_count": 7,
+    "stats": "技术能力: 5 | 产品模式: 4 | 工具生态: 0 | 商业趋势: 2",
+    "total_items": 20,
+    "high_value_count": 20,
     "all_today_ids": [
+      {
+        "id": "ais-affordability-crisis",
+        "label": "AI's Affordability Crisis"
+      },
       {
         "id": "claude-tag",
         "label": "Claude Tag"
@@ -71,16 +119,56 @@
         "label": "Mistral OCR 4"
       },
       {
+        "id": "qwen-agentworld-language-world-models-for-general-agents",
+        "label": "Qwen-AgentWorld: Language World Models for General Agents"
+      },
+      {
         "id": "anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time",
         "label": "Anthropic’s Claude Tag is learning your company, one Slack message at a time"
+      },
+      {
+        "id": "flux3d-high-fidelity-3d-gaussian-generation-with-diffusion-aligned-sparse-repres",
+        "label": "FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Repre"
+      },
+      {
+        "id": "iv-cot-implicit-visual-chain-of-thought-for-structure-aware-text-to-image-genera",
+        "label": "IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Gener"
+      },
+      {
+        "id": "accuracy-and-satisfaction-in-multi-turn-llm-dialogues-for-nfr-assessment",
+        "label": "Accuracy and Satisfaction in Multi-Turn LLM Dialogues for NFR Assessment"
+      },
+      {
+        "id": "world-models-in-pieces-structural-certification-for-general-agents",
+        "label": "World Models in Pieces: Structural Certification for General Agents"
+      },
+      {
+        "id": "india8217s-moengage-bets-that-the-future-of-marketing-is-millions-of-ai-agents",
+        "label": "India&#8217;s MoEngage bets that the future of marketing is millions of AI agent"
       },
       {
         "id": "fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-inter",
         "label": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents inte"
       },
       {
+        "id": "matching-tasks-to-objectives-fine-tuning-and-prompt-tuning-strategies-for-encode",
+        "label": "Matching Tasks to Objectives: Fine-Tuning and Prompt-Tuning Strategies for Encod"
+      },
+      {
+        "id": "real-vs-complex-spectral-bases-for-neural-operators-the-role-of-greens-function",
+        "label": "Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Functi"
+      },
+      {
+        "id": "grading-the-grader-lessons-from-evaluating-an-agentic-data-analysis-system",
+        "label": "Grading the Grader: Lessons from Evaluating an Agentic Data Analysis System"
+      },
+      {
         "id": "futo-swipe-a-new-swipe-typing-model",
         "label": "FUTO Swipe – A new swipe typing model"
+      },
+      {
+        "id": "difference-making-without-making-a-difference",
+        "label": "Difference-Making without Making a Difference"
       },
       {
         "id": "the-low-tech-ai-of-elden-ring",
@@ -91,8 +179,32 @@
         "label": "Don't verify email addresses by sending spam to them"
       },
       {
+        "id": "apple-is-going-to-raise-device-prices-but-when",
+        "label": "Apple is going to raise device prices, but when?"
+      },
+      {
+        "id": "new-bounds-for-the-last-iterate-of-the-stochastic-subgradient-method",
+        "label": "New Bounds for the Last Iterate of the Stochastic subGradient Method"
+      },
+      {
         "id": "german-rail-service-suspended-due-to-radio-interference",
         "label": "German Rail Service Suspended Due to Radio Interference"
+      },
+      {
+        "id": "its-complicated-on-the-design-and-evaluation-of-ai-powered-aac-interfaces",
+        "label": "It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces"
+      },
+      {
+        "id": "openthoughts-agent-data-recipes-for-agentic-models",
+        "label": "OpenThoughts-Agent: Data Recipes for Agentic Models"
+      },
+      {
+        "id": "insight-self-guided-skill-acquisition-via-steerable-vlas",
+        "label": "InSight: Self-Guided Skill Acquisition via Steerable VLAs"
+      },
+      {
+        "id": "diffusionbench-towards-holistic-evaluation-of-generative-diffusion-transformers",
+        "label": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers"
       },
       {
         "id": "show-hn-the-cascade-graph-an-interactive-map-of-ai-and-energy-constraints",
@@ -101,9 +213,17 @@
       {
         "id": "all-train-services-in-germany-halted-after-train-radio-communications-disruption",
         "label": "All train services in Germany halted after train radio communications disruption"
+      },
+      {
+        "id": "show-hn-rlm-based-local-debugger-for-ai-agent-traces",
+        "label": "Show HN: RLM-based local debugger for AI agent traces"
+      },
+      {
+        "id": "show-hn-y-a-malleable-coding-agent-desktop-app-built-with-electron",
+        "label": "Show HN: Y – A malleable coding-agent desktop app built with Electron"
       }
     ],
     "date_bj": "2026-06-24 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-06-24 06:01:38"
+    "generated_at_bj": "2026-06-24 18:02:29"
   }
 }

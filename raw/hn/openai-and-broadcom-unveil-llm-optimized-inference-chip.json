@@ -1,0 +1,25 @@
+{
+  "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+  "score": 63,
+  "comments": 16,
+  "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+  "hn_url": "https://news.ycombinator.com/item?id=48659257",
+  "tag": "HN",
+  "pillar": "business",
+  "pillar_keywords": [
+    "inference"
+  ],
+  "summary_cn": "OpenAI与Broadcom联合发布针对大语言模型推理优化的专用芯片，旨在降低推理成本并提升效率。该芯片通过硬件级优化加速Transformer模型运算，减少延迟和能耗，使AI产品在边缘和云端部署更经济高效。此举将推动AI应用大规模落地，降低产品经理对算力成本的顾虑，并可能改变模型部署策略。",
+  "pm_relevance": 9,
+  "concepts": [
+    "LLM推理优化",
+    "专用硬件芯片"
+  ],
+  "entities": [
+    "OpenAI",
+    "Broadcom"
+  ],
+  "patterns": [
+    "硬件加速推理"
+  ]
+}

@@ -2146,3 +2146,13 @@
 - create: anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time.md
 - create: fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-inter.md
 - create: show-hn-the-cascade-graph-an-interactive-map-of-ai-and-energy-constraints.md
+
+## [2026-06-25 00:02] sync v3 | 11 new | pillars: {'ecosystem': 1, 'patterns': 5, 'capabilities': 5}
+- create: rubyllm-a-single-beautiful-ruby-framework-for-all-major-ai-providers.md
+- create: founding-a-company-in-germany-9600-152-days-and-i-still-cant-send-an-invoice.md
+- create: haystack-open-source-ai-framework-for-production-ready-agents-rag.md
+- create: openai-and-broadcom-unveil-llm-optimized-inference-chip.md
+- create: minimus-container-images-are-now-free.md
+- create: vector-graphics-in-lil.md
+- create: reid-hoffman-says-spacex-not-an-ai-company-xai-complete-train-wreck.md
+- create: openai-unveils-its-first-custom-chip-built-by-broadcom.md

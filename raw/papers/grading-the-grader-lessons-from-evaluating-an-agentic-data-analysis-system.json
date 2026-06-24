@@ -1,0 +1,27 @@
+{
+  "title": "Grading the Grader: Lessons from Evaluating an Agentic Data Analysis System",
+  "summary": "Agentic data analysis systems produce rich outputs, including code, numerical results, and verbal diagnostics. This makes them more challenging to evaluate than single-turn LLM responses. It is therefore necessary to distinguish genuine disagreement between an agent's output and a ground-truth answer from grading artifacts. We investigate how reliably automated graders assess such a system and what strategies improve grading quality by applying LAMBDA, a multi-agent data-analysis system, on 153 numerical QRData tasks from DSGym. We develop and evaluate a three-layer human-AI grading cascade: strict regex matching, LLM-based lenient grading, and snippet-based human inspection, which combines non-GenAI and GenAI strategies with different failure profiles. Both automated graders achieve 100% observed precision (0/70 false positives). The lenient grader's recall is 97% against human labels. A keyword-anchored extraction pipeline raises the strict grader's recall by 60 percentage points over a last-number heuristic; the lenient grader is architecturally parser-independent. An iterative nudge mechanism raises grading run success from 36% to 97% and lenient-pass rates from 16% to 46%; comparing nudging with and without original-question re-injection shows that re-injection offers no benefit, confirming the nudge as an answer template cue. We further observe in this case study that variable type is the task metadata field most consistently associated with grading pipeline dynamics and observed outcome grades.",
+  "url": "http://arxiv.org/abs/2606.24839v1",
+  "authors": [
+    "Tian Zheng",
+    "Kai-Tai Hsu"
+  ],
+  "published": "2026-06-23T17:18:28Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "precision",
+    "recall"
+  ],
+  "summary_cn": "本文探讨了如何评估智能体数据分析系统（Agentic Data Analysis System）的输出质量。与传统单轮LLM响应不同，此类系统生成代码、数值结果和诊断性文本，评估难度显著增加。核心挑战在于如何区分智能体输出与真实答案之间的真正分歧（genuine disagreement），而非系统错误。该研究提出了“评分评分者”（Grading the Grader）的框架，通过多维度校验与自动对比方法来提升评估的可靠性。对于AI产品经理而言，这意味着部署智能体数据分析产品时需配套稳健的评估机制，以确保系统输出的可信度和实用性，从而支撑商业决策。产品创新点在于将评估本身作为可量化的组件集成到Agentic系统中。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Agentic Evaluation",
+    "Data Analysis System",
+    "Ground-Truth Disagreement"
+  ],
+  "entities": [],
+  "patterns": [
+    "Automated Evaluation Pattern"
+  ]
+}

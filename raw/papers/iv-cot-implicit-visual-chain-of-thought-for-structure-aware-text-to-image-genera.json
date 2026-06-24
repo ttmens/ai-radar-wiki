@@ -1,0 +1,32 @@
+{
+  "title": "IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation",
+  "summary": "Unified multi-modal large language models (MLLMs) have achieved strong text-to-image generation quality, but still struggle with structure-aware prompt following, where object counts, spatial relations, attribute bindings, and coarse layouts must be preserved. We attribute this limitation in part to the entanglement of structural planning and appearance rendering within a single conditioning stream. To address this issue, we propose Implicit Visual Chain-of-Thought (IV-CoT), a latent visual reasoning framework for query-conditioned image generation. IV-CoT decomposes the visual conditioning queries into a structural-to-semantic cascade, where structural queries first form a latent visual plan and semantic queries then render appearance conditioned on this plan. To guide the structural queries, we introduce training-only sketch supervision, which encourages them to capture structure from sketches without requiring sketch extraction or intermediate decoding at inference time. IV-CoT performs implicit CoT reasoning in a single forward pass and achieves superior results on GenEval and T2I-CompBench. Visualizations and analyses demonstrate that the learned structural and semantic queries play complementary roles in structure-aware generation.",
+  "url": "http://arxiv.org/abs/2606.24849v1",
+  "authors": [
+    "Zixuan Li",
+    "Haokun Lin",
+    "Yicheng Xiao",
+    "Zhiwei Li",
+    "Xinyang Song"
+  ],
+  "published": "2026-06-23T17:28:00Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "vision",
+    "reasoning",
+    "training"
+  ],
+  "summary_cn": "该论文提出隐式视觉思维链（IV-CoT）方法，旨在提升多模态大模型在文本到图像生成中的结构感知能力，解决物体计数、空间关系、属性绑定和布局遵循等复杂提示的生成质量。通过隐式地将视觉推理链注入生成过程，无需显式标注中间步骤，增强了模型对结构化指令的理解与执行。该技术有望显著改善AI图像生成在广告设计、游戏场景、产品原型等商业应用中的精确性和可控性，降低用户对复杂布局的手动调整需求。",
+  "pm_relevance": 8,
+  "concepts": [
+    "隐式视觉思维链",
+    "结构感知生成",
+    "多模态大模型"
+  ],
+  "entities": [],
+  "patterns": [
+    "Visual Chain-of-Thought"
+  ]
+}

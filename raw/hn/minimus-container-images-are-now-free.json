@@ -1,0 +1,23 @@
+{
+  "title": "Minimus container images are now free",
+  "score": 93,
+  "comments": 55,
+  "url": "https://images.minimus.io/",
+  "hn_url": "https://news.ycombinator.com/item?id=48658361",
+  "tag": "HN",
+  "pillar": "ecosystem",
+  "pillar_keywords": [],
+  "summary_cn": "Minimus 宣布其最小化容器镜像服务免费开放，降低了 AI 应用部署的门槛。这些镜像经过极致精简，可大幅减少存储和带宽消耗，加速模型推理服务的启动速度。对于 AI 产品经理而言，这意味着能更快地进行原型验证、降低基础设施成本，尤其适合边缘计算和轻量化场景。该举措有望推动更多开发者采用容器化方式来交付 AI 功能，促进生态繁荣。",
+  "pm_relevance": 7,
+  "concepts": [
+    "容器化",
+    "最小化镜像",
+    "免费服务"
+  ],
+  "entities": [
+    "Minimus"
+  ],
+  "patterns": [
+    "容器化部署"
+  ]
+}

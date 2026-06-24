@@ -1,0 +1,20 @@
+{
+  "title": "AI's Affordability Crisis",
+  "score": 287,
+  "comments": 379,
+  "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+  "hn_url": "https://news.ycombinator.com/item?id=48646276",
+  "tag": "HN",
+  "pillar": "business",
+  "pillar_keywords": [],
+  "summary_cn": "本文讨论AI领域的可负担性危机，指出当前AI模型（特别是大型语言模型）的推理成本仍较高，限制了产品化落地。产品经理需关注模型成本优化策略，如蒸馏、量化、缓存或使用更小的专业模型，以降低每项操作的边际成本。商业价值在于通过降低AI服务成本扩大用户覆盖和盈利空间。产品创新上，可以考虑混合架构（云端+本地）或按需付费的定价模式，提升AI产品的经济可行性。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI成本优化",
+    "模型经济"
+  ],
+  "entities": [],
+  "patterns": [
+    "Cost-Efficient AI"
+  ]
+}

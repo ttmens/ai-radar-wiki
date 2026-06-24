@@ -1,0 +1,33 @@
+{
+  "title": "FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation",
+  "summary": "Sparse voxel representation has emerged as a scalable foundation for image-to-3D Gaussian Splatting (3DGS) generation, yet current methods struggle to preserve high-frequency visual details of input images due to two structural bottlenecks. First, they adopt discriminative 2D features optimized for semantic abstraction to construct sparse voxel latents, which suppress reconstructive cues and induce a representation bottleneck. Second, in the generation stage, standard diffusion transformers lack effective mechanisms to align dense 2D image tokens with sparse 3D voxel latents, resulting in a cross-modal correspondence bottleneck. To address these issues, we propose FLUX3D, a scalable image-to-3DGS framework that boosts both representation learning and cross-modal alignment during generation. We first revisit 2D feature selection for sparse-voxel-based 3D representation learning, propose Diffusion-Aligned Structured Latents (DA-SLAT) and couple it with a decoder-only architecture to improve 3DGS reconstruction fidelity. We also design a sparse-structure-aware diffusion framework, which integrates the Sparse-structure Multimodal Diffusion Transformer (SMDiT) and Modal-Aware Rotary Positional Embedding (MARoPE) to achieve geometry-agnostic 2D-3D alignment. Extensive benchmark experiments demonstrate that FLUX3D yields substantial improvements in appearance fidelity and significantly outperforms all state-of-the-art (SOTA) methods in generating high-quality 3DGS assets.",
+  "url": "http://arxiv.org/abs/2606.24874v1",
+  "authors": [
+    "Haorui Ji",
+    "Weizhe Liu",
+    "Hongdong Li",
+    "Hengkai Guo"
+  ],
+  "published": "2026-06-23T17:52:21Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "benchmark",
+    "multimodal",
+    "embedding",
+    "transformer"
+  ],
+  "summary_cn": "FLUX3D提出一种基于扩散对齐稀疏表示的3D高斯泼溅生成方法，专为解决图像至3DGS过程中的高频细节丢失问题。通过优化稀疏体素表示结构，克服判别式2D特征瓶颈，实现高保真度3D内容重建。该技术可应用于虚拟现实、游戏资产生成、3D电商展示等场景，降低三维建模成本，提升生成质量与效率，对内容创作者和平台有显著商业价值。",
+  "pm_relevance": 8,
+  "concepts": [
+    "3D Gaussian Splatting",
+    "Diffusion-Aligned Representation",
+    "Sparse Voxel Generation"
+  ],
+  "entities": [],
+  "patterns": [
+    "Image-to-3D Generation",
+    "High-Fidelity 3D Reconstruction"
+  ]
+}

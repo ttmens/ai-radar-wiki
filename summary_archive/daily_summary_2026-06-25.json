@@ -1,0 +1,98 @@
+{
+  "daily_summary": {
+    "date": "2026-06-25",
+    "headline": "今日 AI 情报 · 2026-06-25",
+    "overview": "AI基础设施自主化与降本增效成为主线，硬件定制和轻量化工具加速产品落地。",
+    "narratives": [
+      {
+        "title": "AI公司从依赖通用算力转向定制化硬件与生态协同",
+        "body": "OpenAI自研推理芯片、Minimus免费容器镜像、RubyLLM统一框架等信号汇聚成一趋势：AI产品正从“基础模型竞赛”进入“基础设施优化与成本控制”阶段。定制芯片降低推理成本，轻量级镜像和框架降低部署门槛，使产品经理能将资源更多投向体验与场景创新，而非底层适配。这一转变将推动AI产品从少数巨头的专属走向更广泛的规模化落地。",
+        "type": "paradigm_shift",
+        "pillar_key": "business"
+      },
+      {
+        "title": "AI公司定义与创业环境分化加速商业模式反思",
+        "body": "Reid Hoffman对xAI的尖锐批评与德国创业高成本案例，揭示出AI行业的双重分化：一是“真AI公司”需具备核心技术壁垒，而非仅用AI工具；二是不同地区的创业环境（如德国官僚流程）可能延缓AI产品上市。这提示产品经理在全球化布局时要提前规划合规与治理，同时警惕虚假的“AI光环”。",
+        "type": "validation",
+        "pillar_key": "business"
+      }
+    ],
+    "insights": [
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI公司从依赖通用算力转向定制化硬件与生态协同",
+        "insight": "AI公司从依赖通用算力转向定制化硬件与生态协同。该方向的具体信号：OpenAI与Broadcom推出LLM优化芯片Jalapeño，宣称降低推理延迟与成本；同时Haystack开源框架提供模块化RAG/Agent管道，助力生产级应用快速搭建。这意味着产品经理可借助硬件优化与标准化框架，大幅缩短从原型到上线的周期，并直接降低每次推理的边际成本。",
+        "evidence": [
+          {
+            "id": "openai-unveils-its-first-custom-chip-built-by-broadcom",
+            "title": "OpenAI unveils its first custom chip, built by Broadcom",
+            "score": 0.52
+          },
+          {
+            "id": "openai-and-broadcom-unveil-llm-optimized-inference-chip",
+            "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+            "score": 0.41
+          },
+          {
+            "id": "haystack-open-source-ai-framework-for-production-ready-agents-rag",
+            "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+            "score": 0.38
+          }
+        ]
+      },
+      {
+        "pillar": "💼 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI公司定义与创业环境分化加速商业模式反思",
+        "insight": "AI公司定义与创业环境分化加速商业模式反思。该方向的具体信号：Reid Hoffman评论SpaceX不是AI公司、xAI是‘彻底的灾难’，质疑纯AI公司的核心竞争力；德国创业案例显示高昂行政成本（9600欧元、152天仍无法开票）阻碍AI产品快速落地。产品经理需警惕：仅标注‘AI’无法建立护城河，而各地合规差异（如欧盟AI法案）必须提前嵌入产品路线图。",
+        "evidence": [
+          {
+            "id": "reid-hoffman-says-spacex-not-an-ai-company-xai-complete-train-wreck",
+            "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
+            "score": 0.58
+          }
+        ]
+      }
+    ],
+    "stats": "技术能力: 1 | 产品模式: 1 | 工具生态: 1 | 商业趋势: 2",
+    "total_items": 8,
+    "high_value_count": 4,
+    "all_today_ids": [
+      {
+        "id": "reid-hoffman-says-spacex-not-an-ai-company-xai-complete-train-wreck",
+        "label": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'"
+      },
+      {
+        "id": "founding-a-company-in-germany-9600-152-days-and-i-still-cant-send-an-invoice",
+        "label": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice"
+      },
+      {
+        "id": "openai-unveils-its-first-custom-chip-built-by-broadcom",
+        "label": "OpenAI unveils its first custom chip, built by Broadcom"
+      },
+      {
+        "id": "minimus-container-images-are-now-free",
+        "label": "Minimus container images are now free"
+      },
+      {
+        "id": "openai-and-broadcom-unveil-llm-optimized-inference-chip",
+        "label": "OpenAI and Broadcom unveil LLM-optimized inference chip"
+      },
+      {
+        "id": "rubyllm-a-single-beautiful-ruby-framework-for-all-major-ai-providers",
+        "label": "RubyLLM: A single, beautiful Ruby framework for all major AI providers"
+      },
+      {
+        "id": "haystack-open-source-ai-framework-for-production-ready-agents-rag",
+        "label": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG"
+      },
+      {
+        "id": "vector-graphics-in-lil",
+        "label": "Vector Graphics in Lil"
+      }
+    ],
+    "date_bj": "2026-06-25 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-06-25 00:01:59"
+  }
+}
