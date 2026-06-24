@@ -1,8 +1,41 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T00:02:19.528791+08:00",
-  "item_count": 7,
+  "generated_at": "2026-06-25T06:02:31.779232+08:00",
+  "item_count": 25,
   "items": [
+    {
+      "id": "khoj-aikhoj",
+      "label": "khoj-ai/khoj",
+      "summary": "khoj 是一个自托管的 AI 第二大脑项目，允许用户从网络或个人文档中获取答案，构建自定义代理、自动化任务并进行深度研究。它支持 GPT、Claude、Gemini、Llama、Qwen、Mistral 等多种本地或在线大语言模型，将任意模型转化为个人自主 AI。该项目面向追求数据隐私、定制化和自动化的产品经理，体现了个人知识管理与 AI 代理的融合趋势，具有较高的产品创新价值。",
+      "pm_score": 0.615,
+      "pillar": "patterns",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/khoj-ai/khoj",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "nsa-lost-access-to-mythos-amid-anthropic-dispute",
+      "label": "NSA lost access to Mythos amid Anthropic dispute",
+      "summary": "据HN报道，美国国家安全局（NSA）在因Anthropic争议中失去了对Mythos系统的访问权限。Mythos可能是一个由Anthropic开发的AI模型或系统。此次事件凸显了AI模型访问权限争议对政府机构与AI公司合作的影响，涉及模型安全性、数据主权和争议解决机制。对产品经理而言，此案例提示在设计AI产品时需考虑模型许可条款、访问控制策略和争议仲裁流程，以降低类似风险。商业价值在于推动更稳健的AI治理框架，产品创新可围绕权限管理、争议预警及模型依赖度评估展开。",
+      "pm_score": 0.585,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48658300",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "for-most-of-the-world-open-source-ai-is-the-only-way-forward",
+      "label": "For Most of the World, Open-Source AI Is the Only Way Forward",
+      "summary": "开源AI对全球大多数地区（尤其是发展中国家）而言，是获取先进人工智能能力的唯一可行路径。闭源模型的高成本、语言和文化壁垒限制了其普及，而开源模型通过降低技术门槛、支持本地化定制和离线部署，让更多地区能够自主构建AI产品。对于AI产品经理，这意味着可以基于开源模型快速推出低成本、适应本地需求的产品，同时避免对单一供应商的依赖。此外，开源社区的协作创新模式能加速技术迭代，形成更健康的生态。产品设计上需关注模型的可解释性、数据隐私及与本地基础设施的兼容性。",
+      "pm_score": 0.585,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48660839",
+      "date": "2026-06-25"
+    },
     {
       "id": "reid-hoffman-says-spacex-not-an-ai-company-xai-complete-train-wreck",
       "label": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
@@ -12,6 +45,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48658647",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "computer-use-in-gemini-35-flash",
+      "label": "Computer use in Gemini 3.5 Flash",
+      "summary": "Google Gemini 3.5 Flash 新增“Computer use”能力，允许模型直接操作计算机界面（如点击、输入、导航），实现端到端任务自动化。这一能力将AI从对话助手升级为主动执行代理，可应用于自动化测试、办公流程、个人助理等场景。产品经理可借此设计零代码、高自主性的AI功能，降低用户操作门槛。商业上，该能力帮助Google在Agentic AI赛道与Anthropic竞争，同时为开发者提供更强大的多模态工具。产品创新点在于模型原生支持屏幕操控，无需额外集成，简化了AI助手的落地路径。",
+      "pm_score": 0.565,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48662999",
       "date": "2026-06-25"
     },
     {
@@ -26,6 +70,17 @@
       "date": "2026-06-25"
     },
     {
+      "id": "boffin-claims-microsofts-quantum-leap-is-invalid-due-to-basic-python-errors",
+      "label": "Boffin claims Microsoft’s “quantum leap” is invalid due to “basic Python errors”",
+      "summary": "一位专家声称微软所谓的“量子飞跃”因存在基本的Python编码错误而无效。这一指控直指微软在量子计算或AI领域的重大技术突破可能基于有缺陷的代码实现，而非真正的算法创新。对AI产品经理而言，这提醒在评估第三方或自研突破性产品时，需重视基础代码质量与可复现性验证。若指控成立，将影响微软相关产品的市场信任度，同时为竞争对手提供窗口。该事件也凸显了技术宣传与实际产品能力之间的鸿沟，强调产品经理需建立严格的技术评估流程。",
+      "pm_score": 0.53,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48661535",
+      "date": "2026-06-25"
+    },
+    {
       "id": "openai-unveils-its-first-custom-chip-built-by-broadcom",
       "label": "OpenAI unveils its first custom chip, built by Broadcom",
       "summary": "OpenAI与博通合作推出首款定制芯片Jalapeño，专为其推理系统优化。该芯片旨在提升AI推理效率、降低延迟和成本，减少对外部GPU的依赖，强化OpenAI在基础设施层面的自主可控能力。此举标志着AI公司从依赖通用硬件转向深度定制化硬件路线，可能推动行业硬件设计变革，并为产品部署提供更高性价比的算力方案。",
@@ -37,6 +92,116 @@
       "date": "2026-06-25"
     },
     {
+      "id": "krea-2-sota-open-weights-12b-image-model",
+      "label": "Krea 2: SOTA open-weights 12B image model",
+      "summary": "Krea 2 是一款拥有120亿参数的开源权重图像生成模型，在多个基准上达到业界领先水平。其公开权重降低了企业定制和私有化部署门槛，适用于内容创作、广告设计等场景，兼顾性能与灵活性。产品经理可关注其在降低AI图像生成成本、实现差异化应用上的潜力。",
+      "pm_score": 0.495,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48646659",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "pr-spam-today-looks-like-email-spam-in-the-early-2000s",
+      "label": "PR spam today looks like email spam in the early 2000s",
+      "summary": "当前AI领域的PR垃圾信息泛滥现象，类似于2000年代初期的电子邮件垃圾邮件。AI能够低成本生成大量宣传内容，导致用户信任度下降、信息甄别成本上升。对AI产品经理而言，核心挑战在于建立内容真实性验证机制、优化垃圾内容检测算法，并设计用户反馈与平台治理规则。商业价值体现在构建可信赖的AI内容生态，产品创新方向包括AI驱动的垃圾识别模型、内容溯源及声誉系统。",
+      "pm_score": 0.495,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48660579",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "ai-researchers-continue-to-leave-google-for-its-rivals",
+      "label": "AI researchers continue to leave Google for its rivals",
+      "summary": "近期，谷歌顶尖AI研究员Jonas Adler和Alexander Pritzel相继离职，加入竞争对手Anthropic，此前Noam Shazeer、John Jumper等核心科学家也已离开。这种持续的人才外流反映了谷歌在AI人才争夺中的劣势，而Anthropic正通过吸引顶尖人才加速技术研发。对AI产品经理而言，这意味着Anthropic可能推出更创新的AI产品，谷歌的AI产品领先地位面临挑战；同时，人才流动方向揭示了行业对安全、对齐等方向重视度提升，可能影响未来产品路线图。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "agility-robotics-plans-to-go-public-via-spac-in-a-25b-deal",
+      "label": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+      "summary": "人形机器人初创公司 Agility Robotics 计划通过 SPAC 上市，估值 25 亿美元，预计筹集 6.2 亿美元。该公司源于俄勒冈州立大学，主打双足机器人 Digit，用于物流仓储等场景。上市将加速其商业化落地和规模化生产，体现人形机器人从实验室走向产业应用的趋势，对 AI 产品经理而言，需关注机器人在真实环境中的可靠性和部署成本。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "big-ai-labs-are-hiring-philosophers",
+      "label": "Big AI labs are hiring philosophers",
+      "summary": "大型AI实验室（如OpenAI、DeepMind、Anthropic）正在积极招聘哲学家，这一趋势表明AI产品开发正从纯技术驱动转向伦理和价值对齐。哲学家将参与设计AI系统的行为准则、决策逻辑和安全性框架，帮助产品经理将“负责任AI”从口号落地为具体机制。对产品经理而言，这意味着需要将哲学思考纳入需求分析、风险评估和用户信任构建中。同时，哲学家的加入也能预判AI引发的社会争议，降低产品合规与声誉风险，形成差异化的品牌价值。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48662452",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "facebook-rolls-out-an-ai-companion-app-for-creators",
+      "label": "Facebook rolls out an AI companion app for creators",
+      "summary": "Meta 旗下 Facebook 正在测试一款面向创作者的 AI 陪伴应用，内嵌了近期推出的 AI 创作者助手。该应用旨在通过智能对话、内容建议和自动化功能，帮助创作者高效管理社交平台互动，提升创作效率和粉丝粘性。此举标志着社交媒体平台从工具型 AI 向情感化、陪伴式 AI 产品延伸，为创作者经济带来了新的商业化可能。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small",
+      "label": "Companies are scrambling to stop employees from maxing out AI budgets with small",
+      "summary": "企业正面临员工使用AI完成小额任务导致预算快速耗尽的问题，标志着从“Token滥用”时代进入“Token配给”时代。对AI产品经理而言，关键挑战在于设计成本控制机制，如任务分级、预算预警、智能配额分配，以平衡生产力提升与成本管理。商业价值体现在帮助企业优化AI资源利用率，避免因滥用导致的财务风险。产品创新方向包括开发自动识别低价值请求、限制非关键任务消耗、以及提供实时成本洞察工具。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update",
+      "label": "Figma adds code layers, support for animations, more AI features in new update",
+      "summary": "Figma 最新更新新增了代码层、动效和着色器支持，并引入 AI 功能以创建自定义插件。AI 技术使得设计师能通过自然语言快速生成适配设计稿的代码片段、动画效果及插件逻辑，显著降低从设计到开发的手动转化成本。该更新强化了 Figma 作为设计系统核心工具的生态地位，为产品经理提供了更高效的原型交付与团队协作路径。商业价值体现在缩短设计-开发周期、提升交付质量，同时通过插件生态扩大平台影响力。产品创新在于将 AI 能力深度嵌入设计工具的核心工作流，而非仅作为附加功能。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-they8217re-the-mo",
+      "label": "AI was supposed to kill engineering jobs, but new data suggests they&#8217;re th",
+      "summary": "传统观点认为AI会大规模取代工程师岗位，但SignalFire最新数据显示，工程师在新员工中的占比反而上升，显示出高韧性。这表明AI并非简单替代人力，而是更多扮演增强角色，提升工程效率与产出。对AI产品经理而言，这意味着可以更放心地投资AI辅助开发工具，并调整人才策略，聚焦人机协作而非替代。核心启示：AI产品应设计为增强人类能力，而非完全自动化关键岗位。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "why-eval-startups-fail-2025",
+      "label": "Why eval startups fail (2025)",
+      "summary": "该文章分析2025年AI评估初创公司失败的原因，指出评估市场存在需求分散、标准不统一及商业模式难以验证等核心问题。技术要点包括评估方法从人工标注向自动化基准测试演进，但缺乏跨场景的通用性。商业价值在于评估工具是AI产品可靠性的关键，但初创企业难以与企业现有CI/CD和监控系统深度集成。产品创新方面，成功的评估产品需支持定制化指标、可解释性报告以及持续反馈循环，而非单纯提供评分。产品经理应关注评估流程如何与模型迭代周期结合，并警惕过度依赖外部评估供应商的风险。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48637868",
+      "date": "2026-06-25"
+    },
+    {
       "id": "minimus-container-images-are-now-free",
       "label": "Minimus container images are now free",
       "summary": "Minimus 宣布其最小化容器镜像服务免费开放，降低了 AI 应用部署的门槛。这些镜像经过极致精简，可大幅减少存储和带宽消耗，加速模型推理服务的启动速度。对于 AI 产品经理而言，这意味着能更快地进行原型验证、降低基础设施成本，尤其适合边缘计算和轻量化场景。该举措有望推动更多开发者采用容器化方式来交付 AI 功能，促进生态繁荣。",
@@ -45,6 +210,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48658361",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "the-memory-chip-crunch-is-paying-off-for-this-us-company",
+      "label": "The memory chip crunch is paying off for this U.S. company",
+      "summary": "美国某芯片公司受益于AI算力需求爆发，季度营收同比增长4倍至414.5亿美元，利润从18.8亿飙升至282亿美元。这一强劲业绩反映出大模型训练与推理对高性能芯片的持续渴求，AI产品经理需关注算力供应链紧张趋势对模型部署成本、服务可用性及产品定价策略的影响。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
       "date": "2026-06-25"
     },
     {
@@ -79,10 +255,32 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48658095",
       "date": "2026-06-25"
+    },
+    {
+      "id": "show-hn-peerd-ai-agent-harness-that-runs-entirely-in-your-browser",
+      "label": "Show HN: peerd – AI agent harness that runs entirely in your browser",
+      "summary": "peerd 是一个完全在浏览器中运行的 AI 代理框架（harness），无需后端服务器或云端推理。技术要点：利用 WebAssembly 或 JavaScript 实现本地模型推理，支持隐私保护、低延迟和离线可用性。商业价值：降低部署成本与基础设施依赖，适合消费级应用、边缘场景及数据敏感行业。产品创新：将传统需服务器支撑的 AI 助手封装为纯前端组件，可嵌入任何网页或浏览器扩展，实现“开箱即用”的智能体。该模式强化了本地优先（Local-First）和隐私计算的趋势，为产品经理提供了构建轻量、去中心化 AI 特性的新路径。",
+      "pm_score": 0.38,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48646165",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "glm-52-is-a-step-change-for-open-agents",
+      "label": "GLM-5.2 is a step change for open agents",
+      "summary": "GLM-5.2 是智谱AI发布的最新模型版本，被描述为开源智能体（open agents）的阶跃式变革。该版本可能在推理能力、工具调用、自主任务执行等关键维度取得显著突破，使开发者能够构建更强大、更可靠的自主AI代理。对于AI产品经理而言，这意味着基于该模型的产品在复杂任务自动化、多步骤规划以及与环境交互方面将具备更高的性能上限，同时开源特性降低了集成门槛，有望加速企业级Agent应用的落地。商业价值体现在降低开发成本、提升用户留存，并为垂直场景定制提供更强的基础能力。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48639840",
+      "date": "2026-06-25"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1863,
-    "edges": 209516
+    "real_nodes": 1882,
+    "edges": 211399
   }
 }

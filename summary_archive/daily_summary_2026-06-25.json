@@ -2,78 +2,183 @@
   "daily_summary": {
     "date": "2026-06-25",
     "headline": "今日 AI 情报 · 2026-06-25",
-    "overview": "AI基础设施自主化与降本增效成为主线，硬件定制和轻量化工具加速产品落地。",
+    "overview": "AI 从对话助手向自主操作代理演进，开源生态加速全球普惠。",
     "narratives": [
       {
-        "title": "AI公司从依赖通用算力转向定制化硬件与生态协同",
-        "body": "OpenAI自研推理芯片、Minimus免费容器镜像、RubyLLM统一框架等信号汇聚成一趋势：AI产品正从“基础模型竞赛”进入“基础设施优化与成本控制”阶段。定制芯片降低推理成本，轻量级镜像和框架降低部署门槛，使产品经理能将资源更多投向体验与场景创新，而非底层适配。这一转变将推动AI产品从少数巨头的专属走向更广泛的规模化落地。",
+        "title": "AI从对话走向自主操作系统级控制",
+        "body": "多个信号表明，AI产品正从被动问答转向主动执行：Google Gemini 3.5 Flash新增Computer use能力直接操控界面，Meta推出创作者AI陪伴应用，Figma集成AI生成代码插件。这意味着产品经理需要重新设计人机交互范式，从“用户输入指令”转变为“AI自主执行并反馈结果”，同时需解决信任、可控性和成本控制问题。",
         "type": "paradigm_shift",
-        "pillar_key": "business"
+        "pillar_key": "capabilities"
       },
       {
-        "title": "AI公司定义与创业环境分化加速商业模式反思",
-        "body": "Reid Hoffman对xAI的尖锐批评与德国创业高成本案例，揭示出AI行业的双重分化：一是“真AI公司”需具备核心技术壁垒，而非仅用AI工具；二是不同地区的创业环境（如德国官僚流程）可能延缓AI产品上市。这提示产品经理在全球化布局时要提前规划合规与治理，同时警惕虚假的“AI光环”。",
-        "type": "validation",
-        "pillar_key": "business"
+        "title": "开源AI推动全球普惠与生态重构",
+        "body": "开源模型（如Krea 2）和基础设施（如Minimus容器）的免费化、轻量化趋势，正在打破闭源AI的垄断。同时，Google人才持续流向Anthropic，评估工具初创公司面临生存危机，反映出开源生态正在重塑AI产业分工。产品经理应关注开源社区驱动的创新节奏，并利用低成本部署策略抢占本地化市场。",
+        "type": "maturation",
+        "pillar_key": "ecosystem"
       }
     ],
     "insights": [
       {
-        "pillar": "📱 产品模式",
-        "pillar_key": "patterns",
-        "narrative_title": "AI公司从依赖通用算力转向定制化硬件与生态协同",
-        "insight": "AI公司从依赖通用算力转向定制化硬件与生态协同。该方向的具体信号：OpenAI与Broadcom推出LLM优化芯片Jalapeño，宣称降低推理延迟与成本；同时Haystack开源框架提供模块化RAG/Agent管道，助力生产级应用快速搭建。这意味着产品经理可借助硬件优化与标准化框架，大幅缩短从原型到上线的周期，并直接降低每次推理的边际成本。",
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI从对话走向自主操作系统级控制",
+        "insight": "AI从对话走向自主操作系统级控制。该方向的具体信号：Google Gemini 3.5 Flash新增Computer use能力，模型可直接操作界面完成端到端任务；OpenAI与Broadcom合作首款定制芯片Jalapeño，强化推理效率；Figma集成AI功能，支持自然语言生成代码和插件，显著缩短设计-开发周期。",
         "evidence": [
           {
+            "id": "computer-use-in-gemini-35-flash",
+            "title": "Google Gemini 3.5 Flash 新增Computer use能力",
+            "score": 0.56
+          },
+          {
             "id": "openai-unveils-its-first-custom-chip-built-by-broadcom",
-            "title": "OpenAI unveils its first custom chip, built by Broadcom",
+            "title": "OpenAI推出首款定制推理芯片Jalapeño",
             "score": 0.52
           },
           {
-            "id": "openai-and-broadcom-unveil-llm-optimized-inference-chip",
-            "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-            "score": 0.41
-          },
-          {
-            "id": "haystack-open-source-ai-framework-for-production-ready-agents-rag",
-            "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-            "score": 0.38
+            "id": "figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update",
+            "title": "Figma新增AI生成代码和动效功能",
+            "score": 0.45
           }
         ]
       },
       {
-        "pillar": "💼 商业趋势",
-        "pillar_key": "business",
-        "narrative_title": "AI公司定义与创业环境分化加速商业模式反思",
-        "insight": "AI公司定义与创业环境分化加速商业模式反思。该方向的具体信号：Reid Hoffman评论SpaceX不是AI公司、xAI是‘彻底的灾难’，质疑纯AI公司的核心竞争力；德国创业案例显示高昂行政成本（9600欧元、152天仍无法开票）阻碍AI产品快速落地。产品经理需警惕：仅标注‘AI’无法建立护城河，而各地合规差异（如欧盟AI法案）必须提前嵌入产品路线图。",
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI从对话走向自主操作系统级控制",
+        "insight": "AI从对话走向自主操作系统级控制。该方向的具体信号：Khoj作为自托管AI第二大脑，支持用户构建自定义代理并自动化任务；Facebook测试AI陪伴应用，为创作者提供智能对话和内容建议，推动社交媒体从工具型AI向陪伴型升级。",
         "evidence": [
           {
-            "id": "reid-hoffman-says-spacex-not-an-ai-company-xai-complete-train-wreck",
-            "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-            "score": 0.58
+            "id": "khoj-aikhoj",
+            "title": "Khoj自托管AI第二大脑，支持自定义代理和自动化",
+            "score": 0.61
+          },
+          {
+            "id": "facebook-rolls-out-an-ai-companion-app-for-creators",
+            "title": "Facebook推出面向创作者的AI陪伴应用",
+            "score": 0.48
+          }
+        ]
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "开源AI推动全球普惠与生态重构",
+        "insight": "开源AI推动全球普惠与生态重构。该方向的具体信号：Krea 2发布120亿参数开源权重图像模型，降低企业定制门槛；Minimus容器镜像免费开放，加速轻量化AI部署；AI研究人员持续从Google流向Anthropic，人才竞争加剧；评估初创公司因标准分散、难集成而失败，揭示产业分工痛点。",
+        "evidence": [
+          {
+            "id": "krea-2-sota-open-weights-12b-image-model",
+            "title": "Krea 2开源权重12B图像模型",
+            "score": 0.49
+          },
+          {
+            "id": "minimus-container-images-are-now-free",
+            "title": "Minimus容器镜像免费，降低部署成本",
+            "score": 0.45
+          },
+          {
+            "id": "ai-researchers-continue-to-leave-google-for-its-rivals",
+            "title": "AI研究员持续从Google流向Anthropic",
+            "score": 0.48
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI从对话走向自主操作系统级控制",
+        "insight": "AI从对话走向自主操作系统级控制。该方向的具体信号：企业员工滥用AI小额任务导致预算快速耗尽，需设计智能配额控制；工程师岗位因AI增强反而需求上升，人机协作成主流；人形机器人公司Agility Robotics计划SPAC上市，加速商业化；美国芯片公司受益AI算力需求营收增长4倍，算力供应链紧张持续。",
+        "evidence": [
+          {
+            "id": "agility-robotics-plans-to-go-public-via-spac-in-a-25b-deal",
+            "title": "Agility Robotics拟SPAC上市",
+            "score": 0.48
           }
         ]
       }
     ],
-    "stats": "技术能力: 1 | 产品模式: 1 | 工具生态: 1 | 商业趋势: 2",
-    "total_items": 8,
-    "high_value_count": 4,
+    "stats": "技术能力: 5 | 产品模式: 2 | 工具生态: 5 | 商业趋势: 4",
+    "total_items": 20,
+    "high_value_count": 20,
     "all_today_ids": [
+      {
+        "id": "khoj-aikhoj",
+        "label": "khoj-ai/khoj"
+      },
+      {
+        "id": "nsa-lost-access-to-mythos-amid-anthropic-dispute",
+        "label": "NSA lost access to Mythos amid Anthropic dispute"
+      },
+      {
+        "id": "for-most-of-the-world-open-source-ai-is-the-only-way-forward",
+        "label": "For Most of the World, Open-Source AI Is the Only Way Forward"
+      },
       {
         "id": "reid-hoffman-says-spacex-not-an-ai-company-xai-complete-train-wreck",
         "label": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'"
+      },
+      {
+        "id": "computer-use-in-gemini-35-flash",
+        "label": "Computer use in Gemini 3.5 Flash"
       },
       {
         "id": "founding-a-company-in-germany-9600-152-days-and-i-still-cant-send-an-invoice",
         "label": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice"
       },
       {
+        "id": "boffin-claims-microsofts-quantum-leap-is-invalid-due-to-basic-python-errors",
+        "label": "Boffin claims Microsoft’s “quantum leap” is invalid due to “basic Python errors”"
+      },
+      {
         "id": "openai-unveils-its-first-custom-chip-built-by-broadcom",
         "label": "OpenAI unveils its first custom chip, built by Broadcom"
       },
       {
+        "id": "krea-2-sota-open-weights-12b-image-model",
+        "label": "Krea 2: SOTA open-weights 12B image model"
+      },
+      {
+        "id": "pr-spam-today-looks-like-email-spam-in-the-early-2000s",
+        "label": "PR spam today looks like email spam in the early 2000s"
+      },
+      {
+        "id": "ai-researchers-continue-to-leave-google-for-its-rivals",
+        "label": "AI researchers continue to leave Google for its rivals"
+      },
+      {
+        "id": "agility-robotics-plans-to-go-public-via-spac-in-a-25b-deal",
+        "label": "Agility Robotics plans to go public via SPAC in a $2.5B deal"
+      },
+      {
+        "id": "big-ai-labs-are-hiring-philosophers",
+        "label": "Big AI labs are hiring philosophers"
+      },
+      {
+        "id": "facebook-rolls-out-an-ai-companion-app-for-creators",
+        "label": "Facebook rolls out an AI companion app for creators"
+      },
+      {
+        "id": "companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small",
+        "label": "Companies are scrambling to stop employees from maxing out AI budgets with small"
+      },
+      {
+        "id": "figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update",
+        "label": "Figma adds code layers, support for animations, more AI features in new update"
+      },
+      {
+        "id": "ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-they8217re-the-mo",
+        "label": "AI was supposed to kill engineering jobs, but new data suggests they&#8217;re th"
+      },
+      {
+        "id": "why-eval-startups-fail-2025",
+        "label": "Why eval startups fail (2025)"
+      },
+      {
         "id": "minimus-container-images-are-now-free",
         "label": "Minimus container images are now free"
+      },
+      {
+        "id": "the-memory-chip-crunch-is-paying-off-for-this-us-company",
+        "label": "The memory chip crunch is paying off for this U.S. company"
       },
       {
         "id": "openai-and-broadcom-unveil-llm-optimized-inference-chip",
@@ -88,11 +193,23 @@
         "label": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG"
       },
       {
+        "id": "show-hn-peerd-ai-agent-harness-that-runs-entirely-in-your-browser",
+        "label": "Show HN: peerd – AI agent harness that runs entirely in your browser"
+      },
+      {
+        "id": "glm-52-is-a-step-change-for-open-agents",
+        "label": "GLM-5.2 is a step change for open agents"
+      },
+      {
+        "id": "thomann-takes-legal-action-against-fender",
+        "label": "Thomann takes legal action against Fender"
+      },
+      {
         "id": "vector-graphics-in-lil",
         "label": "Vector Graphics in Lil"
       }
     ],
     "date_bj": "2026-06-25 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-06-25 00:01:59"
+    "generated_at_bj": "2026-06-25 06:01:56"
   }
 }

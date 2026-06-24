@@ -2156,3 +2156,24 @@
 - create: vector-graphics-in-lil.md
 - create: reid-hoffman-says-spacex-not-an-ai-company-xai-complete-train-wreck.md
 - create: openai-unveils-its-first-custom-chip-built-by-broadcom.md
+
+## [2026-06-25 06:02] sync v3 | 20 new | pillars: {'patterns': 5, 'capabilities': 12, 'business': 2, 'ecosystem': 1}
+- create: khoj-aikhoj.md
+- create: pr-spam-today-looks-like-email-spam-in-the-early-2000s.md
+- create: computer-use-in-gemini-35-flash.md
+- create: krea-2-sota-open-weights-12b-image-model.md
+- create: thomann-takes-legal-action-against-fender.md
+- create: glm-52-is-a-step-change-for-open-agents.md
+- create: nsa-lost-access-to-mythos-amid-anthropic-dispute.md
+- create: big-ai-labs-are-hiring-philosophers.md
+- create: why-eval-startups-fail-2025.md
+- create: show-hn-peerd-ai-agent-harness-that-runs-entirely-in-your-browser.md
+- create: for-most-of-the-world-open-source-ai-is-the-only-way-forward.md
+- create: boffin-claims-microsofts-quantum-leap-is-invalid-due-to-basic-python-errors.md
+- create: ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-they8217re-the-mo.md
+- create: ai-researchers-continue-to-leave-google-for-its-rivals.md
+- create: the-memory-chip-crunch-is-paying-off-for-this-us-company.md
+- create: companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small.md
+- create: facebook-rolls-out-an-ai-companion-app-for-creators.md
+- create: agility-robotics-plans-to-go-public-via-spac-in-a-25b-deal.md
+- create: figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update.md
