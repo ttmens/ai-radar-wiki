@@ -1,0 +1,27 @@
+{
+  "title": "Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining",
+  "summary": "Midway through an ordinary pretraining run, a small language model learns the pronoun-gender rule: cued with a girl's name (\"Sue cried because\"), it resolves the next pronoun to she, generalizing to held-out probes (0.94 by step 925). By step 3,500 the same model scores near zero on the same probes, although the rule's evidence is still in the training data. We call this within-run reversal natural ungrokking: the corpus decides, with no trace in the loss curve, which learned rules a model keeps.\n  Which rules survive is predictable from one corpus statistic: how often the training stream shows the rule winning. Across un-intervened runs (two corpora, three budgets, three seeds), support frequency decides a rule's fate; the data-to-parameter ratio only modulates how deeply a doomed rule falls. The same emerge-then-collapse dynamics appear in public Pythia checkpoints, collapse depth ordered by model scale as predicted. The forgetting is a displacement: a competing surface pattern out-competes the rule, and the log-probability margin between them crosses zero within 100 training steps of the behavioral collapse.\n  Control over this fate is asymmetric: the same edit that destroys a rule on demand cannot restore it. Flipping support to counter-evidence in place kills the rule with monotone dose-response in two unrelated rules; but injecting support back, even to 450 times the level that naturally sustains it, buys no recovery. Every confirmatory threshold and prediction was pre-registered before the data it governed was read.",
+  "url": "http://arxiv.org/abs/2606.26050v1",
+  "authors": [
+    "Juliana Li",
+    "Diya Sreedhar"
+  ],
+  "published": "2026-06-24T17:27:13Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "parameter"
+  ],
+  "summary_cn": "这项研究揭示了语言模型在预训练过程中的一个有趣现象：模型会先学习一个规则（如代词性别匹配），但随后在训练后期遗忘该规则，导致性能骤降。这种不对称控制表明预训练中哪些规则能幸存下来并非随机，而是受到训练数据分布和动态的影响。对产品经理而言，这意味着需要关注模型能力的稳定性与可预测性，尤其在部署依赖隐式规则理解的AI产品时，需设计持续监控机制，避免模型在长期运行中突然出现行为退化。商业价值在于指导更可靠的模型训练策略和产品迭代。",
+  "pm_relevance": 7,
+  "concepts": [
+    "预训练动态",
+    "规则遗忘",
+    "不对称控制"
+  ],
+  "entities": [],
+  "patterns": [
+    "语言模型行为分析"
+  ]
+}

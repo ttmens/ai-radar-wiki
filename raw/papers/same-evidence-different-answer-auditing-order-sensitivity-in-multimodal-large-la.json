@@ -1,0 +1,31 @@
+{
+  "title": "Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models",
+  "summary": "Standard benchmarks for multimodal large language models (MLLMs) score each item on one canonical ordering and miss whether order-irrelevant shuffling changes the answer, a baseline reliability property called for by emerging AI evaluation guidelines. We introduce Facet-Probe, a five-facet audit (option, evidence-chunk, document-rank, image-set, and mixed-modality ordering) of 18 frontier and open-weight MLLMs. A Bayesian item-response model separates ordering noise from per-facet bias, and a same-ordering control estimates the decoder-stochastic floor for observed flips. We find that none of the 18 MLLMs we audit are order-invariant: screened per-facet panel-mean flip rates span 24-50%. A Gemini same-ordering control at temperature 0 estimates a substantial ordering excess over a same-input decoder-noise floor in verified cells. Capability predicts but does not eliminate flips; the best model still flips on 13.4% of trials. In our Gemini mitigation tests, training-free prompt changes are modality-conditional and do not transfer from text to visual reasoning. These results suggest that prompt-level mitigation alone is unlikely to provide general order robustness, motivating future work on training-time and architectural approaches. We propose cross-ordering flip rate as a standard reporting axis for MLLMs.",
+  "url": "http://arxiv.org/abs/2606.26079v1",
+  "authors": [
+    "Akshay Paruchuri",
+    "Sanmi Koyejo",
+    "Ehsan Adeli"
+  ],
+  "published": "2026-06-24T17:53:26Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "multimodal",
+    "reasoning",
+    "training"
+  ],
+  "summary_cn": "该论文指出标准多模态大模型基准测试仅按固定顺序评分，忽略了输入顺序变化可能导致答案差异这一可靠性问题。作者提出Facet-Probe审计工具，从五个维度系统检测模型对顺序的敏感性。对于AI产品经理而言，该研究强调了在多模态模型部署前需评估其顺序鲁棒性，以避免因输入排列变化而产生不一致的输出，从而提升产品的可靠性和用户体验。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Order Sensitivity",
+    "Multimodal Reliability",
+    "Audit Framework"
+  ],
+  "entities": [],
+  "patterns": [
+    "Audit Pattern",
+    "Benchmarking Pattern"
+  ]
+}

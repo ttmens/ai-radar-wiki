@@ -1,0 +1,35 @@
+{
+  "title": "Learning Action Priors for Cross-embodiment Robot Manipulation",
+  "summary": "Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy jointly. This design inherits strong visual and linguistic priors from the VLM, but leaves the action module to learn physical motion almost from scratch. As a result, the policy lacks an explicit motion prior, forcing early optimization to simultaneously discover temporal action dynamics and cross-modal alignment, a challenge further amplified in cross-embodiment settings. In this work, we propose to pretrain the action module with motion priors before cross-modal VLA alignment. Specifically, we introduce a two-stage training framework that equips the action module with cross-embodiment temporal motion structure before VLA training begins. In Stage~1, a lightweight flow-matching-based encoder-decoder action module efficiently learns temporal motion structure solely from unconditioned action trajectories, without processing visual or language tokens. In Stage~2, this learned prior is transferred to VLA training through decoder reuse and early-stage latent distillation, aligning visual-language features with the action embedding space while still allowing end-to-end policy refinement. In addition, the trained encoder serves as a compact history compressor, summarizing state-action histories into a single temporal context token for history-aware modeling at negligible cost. Extensive experiments across 13 diverse cross-embodiment tasks on both simulated and real-world platforms validate the effectiveness of our approach. Compared with VLA training without action priors, our model achieves faster convergence, higher success rates, and substantially stronger performance on data-scarce real-world tasks. Moreover, scaling up the action data in Stage~1 yields a more generalizable action prior that directly improves downstream VLA performance.",
+  "url": "http://arxiv.org/abs/2606.26095v1",
+  "authors": [
+    "Dong Jing",
+    "Tianqi Zhang",
+    "Jiaqi Liu",
+    "Jinman Zhao",
+    "Zelong Sun"
+  ],
+  "published": "2026-06-24T17:59:56Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "vision",
+    "training",
+    "embedding",
+    "distillation",
+    "optimization"
+  ],
+  "summary_cn": "该论文提出学习动作先验（Action Priors）来解决跨形态机器人操作中Vision-Language-Action（VLA）模型的动作模块几乎从零学习物理运动的问题。传统VLA模型依赖VLM的视觉语言先验，但动作学习缺乏泛化能力。通过引入动作先验，模型能在不同机器人形态间迁移物理运动知识，提升样本效率和操作准确性。这项研究对机器人产品化有重要意义，可降低多形态机器人部署成本，加速技能学习，推动通用机器人操作能力从实验室走向实际应用。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Action Priors",
+    "Cross-embodiment Robotics",
+    "Vision-Language-Action Models"
+  ],
+  "entities": [],
+  "patterns": [
+    "Transfer Learning in Robotics",
+    "VLA Model Design"
+  ]
+}

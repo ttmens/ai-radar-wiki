@@ -2,104 +2,81 @@
   "daily_summary": {
     "date": "2026-06-25",
     "headline": "今日 AI 情报 · 2026-06-25",
-    "overview": "AI 从对话助手向自主操作代理演进，开源生态加速全球普惠。",
+    "overview": "AI自主操作时代来临，开源红利与治理挑战并存",
     "narratives": [
       {
-        "title": "AI从对话走向自主操作系统级控制",
-        "body": "多个信号表明，AI产品正从被动问答转向主动执行：Google Gemini 3.5 Flash新增Computer use能力直接操控界面，Meta推出创作者AI陪伴应用，Figma集成AI生成代码插件。这意味着产品经理需要重新设计人机交互范式，从“用户输入指令”转变为“AI自主执行并反馈结果”，同时需解决信任、可控性和成本控制问题。",
+        "title": "AI从对话助手迈向自主执行代理",
+        "body": "Google Gemini Computer use、Khoj自托管代理以及Unfireable Safety Kernel等信号表明，AI产品正从被动对话转向主动操作计算机界面和自动化工作流。产品经理需重新设计交互范式，从“聊天”转向“授权与监督”，并优先解决执行时的可控性与安全性。后续发展将是代理能力的系统化与标准化。",
         "type": "paradigm_shift",
         "pillar_key": "capabilities"
       },
       {
-        "title": "开源AI推动全球普惠与生态重构",
-        "body": "开源模型（如Krea 2）和基础设施（如Minimus容器）的免费化、轻量化趋势，正在打破闭源AI的垄断。同时，Google人才持续流向Anthropic，评估工具初创公司面临生存危机，反映出开源生态正在重塑AI产业分工。产品经理应关注开源社区驱动的创新节奏，并利用低成本部署策略抢占本地化市场。",
+        "title": "开源与开放权重模型重塑AI产品经济模型",
+        "body": "开源AI对全球普及至关重要，开放权重模型成本急剧下降（如Krea 2），同时OpenAI定制芯片也体现基础设施自主化趋势。产品经理可借助开源模型快速部署低成本、本地化的产品，但需平衡模型安全与差异化竞争。未来生态将更依赖社区协作而非单一供应商。",
         "type": "maturation",
         "pillar_key": "ecosystem"
+      },
+      {
+        "title": "AI产品治理进入深水区：安全、成本与伦理三重挑战",
+        "body": "模型窃取（Anthropic诉阿里）、PR垃圾信息、Token配给、招聘哲学家等信号表明，AI产品管理已从技术竞赛转向治理能力竞争。产品经理需建立涵盖安全审计、成本管控、伦理对齐的跨职能框架，以应对合规压力与用户信任危机。",
+        "type": "bottleneck",
+        "pillar_key": "business"
       }
     ],
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "narrative_title": "AI从对话走向自主操作系统级控制",
-        "insight": "AI从对话走向自主操作系统级控制。该方向的具体信号：Google Gemini 3.5 Flash新增Computer use能力，模型可直接操作界面完成端到端任务；OpenAI与Broadcom合作首款定制芯片Jalapeño，强化推理效率；Figma集成AI功能，支持自然语言生成代码和插件，显著缩短设计-开发周期。",
+        "narrative_title": "AI从对话助手迈向自主执行代理",
+        "insight": "AI从对话助手迈向自主执行代理。该方向的具体信号：Google Gemini 3.5 Flash新增Computer use实现端到端自动化，Khoj打造个人自主代理基础设施，Unfireable Safety Kernel为代理提供运行时外部安全控制，三者共同指向系统级自主操作趋势。PM应关注代理的权限模型、失败回退机制和用户信任设计。",
         "evidence": [
           {
             "id": "computer-use-in-gemini-35-flash",
-            "title": "Google Gemini 3.5 Flash 新增Computer use能力",
+            "title": "Google Gemini 3.5 Flash新增Computer use能力",
             "score": 0.56
           },
           {
-            "id": "openai-unveils-its-first-custom-chip-built-by-broadcom",
-            "title": "OpenAI推出首款定制推理芯片Jalapeño",
-            "score": 0.52
-          },
-          {
-            "id": "figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update",
-            "title": "Figma新增AI生成代码和动效功能",
-            "score": 0.45
-          }
-        ]
-      },
-      {
-        "pillar": "📱 产品模式",
-        "pillar_key": "patterns",
-        "narrative_title": "AI从对话走向自主操作系统级控制",
-        "insight": "AI从对话走向自主操作系统级控制。该方向的具体信号：Khoj作为自托管AI第二大脑，支持用户构建自定义代理并自动化任务；Facebook测试AI陪伴应用，为创作者提供智能对话和内容建议，推动社交媒体从工具型AI向陪伴型升级。",
-        "evidence": [
-          {
             "id": "khoj-aikhoj",
-            "title": "Khoj自托管AI第二大脑，支持自定义代理和自动化",
+            "title": "Khoj：自托管AI第二大脑，任意模型转自主代理",
             "score": 0.61
-          },
-          {
-            "id": "facebook-rolls-out-an-ai-companion-app-for-creators",
-            "title": "Facebook推出面向创作者的AI陪伴应用",
-            "score": 0.48
           }
         ]
       },
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "narrative_title": "开源AI推动全球普惠与生态重构",
-        "insight": "开源AI推动全球普惠与生态重构。该方向的具体信号：Krea 2发布120亿参数开源权重图像模型，降低企业定制门槛；Minimus容器镜像免费开放，加速轻量化AI部署；AI研究人员持续从Google流向Anthropic，人才竞争加剧；评估初创公司因标准分散、难集成而失败，揭示产业分工痛点。",
+        "narrative_title": "开源与开放权重模型重塑AI产品经济模型",
+        "insight": "开源与开放权重模型重塑AI产品经济模型。该方向的具体信号：开源AI被视为发展中国家唯一可行道路，开放权重模型成本急剧下降（Krea 2等），而OpenAI自研定制芯片以减少对外部GPU依赖。PM可基于开源模型快速迭代本地化产品，但需注意开源社区治理和模型溯源。",
         "evidence": [
           {
             "id": "krea-2-sota-open-weights-12b-image-model",
-            "title": "Krea 2开源权重12B图像模型",
+            "title": "Krea 2：120亿参数开源图像模型达SOTA",
             "score": 0.49
-          },
-          {
-            "id": "minimus-container-images-are-now-free",
-            "title": "Minimus容器镜像免费，降低部署成本",
-            "score": 0.45
-          },
-          {
-            "id": "ai-researchers-continue-to-leave-google-for-its-rivals",
-            "title": "AI研究员持续从Google流向Anthropic",
-            "score": 0.48
           }
         ]
       },
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "narrative_title": "AI从对话走向自主操作系统级控制",
-        "insight": "AI从对话走向自主操作系统级控制。该方向的具体信号：企业员工滥用AI小额任务导致预算快速耗尽，需设计智能配额控制；工程师岗位因AI增强反而需求上升，人机协作成主流；人形机器人公司Agility Robotics计划SPAC上市，加速商业化；美国芯片公司受益AI算力需求营收增长4倍，算力供应链紧张持续。",
+        "narrative_title": "AI产品治理进入深水区：安全、成本与伦理三重挑战",
+        "insight": "AI产品治理进入深水区：安全、成本与伦理三重挑战。该方向的具体信号：Anthropic指控阿里模型窃取凸显IP风险，PR垃圾信息泛滥类似早期邮件垃圾，企业限制员工AI额度进入Token配给时代，大实验室招聘哲学家推动价值对齐。PM需构建成本控制器、内容真实性验证和伦理评估流程。",
         "evidence": [
           {
-            "id": "agility-robotics-plans-to-go-public-via-spac-in-a-25b-deal",
-            "title": "Agility Robotics拟SPAC上市",
-            "score": 0.48
+            "id": "anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities",
+            "title": "Anthropic指控阿里非法提取Claude模型能力",
+            "score": 0.63
           }
         ]
       }
     ],
-    "stats": "技术能力: 5 | 产品模式: 2 | 工具生态: 5 | 商业趋势: 4",
+    "stats": "技术能力: 10 | 产品模式: 2 | 工具生态: 3 | 商业趋势: 5",
     "total_items": 20,
     "high_value_count": 20,
     "all_today_ids": [
+      {
+        "id": "anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities",
+        "label": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities"
+      },
       {
         "id": "khoj-aikhoj",
         "label": "khoj-ai/khoj"
@@ -153,12 +130,36 @@
         "label": "Big AI labs are hiring philosophers"
       },
       {
+        "id": "the-unbearable-cheapness-of-open-weight-models",
+        "label": "The Unbearable Cheapness of Open Weight Models"
+      },
+      {
         "id": "facebook-rolls-out-an-ai-companion-app-for-creators",
         "label": "Facebook rolls out an AI companion app for creators"
       },
       {
         "id": "companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small",
         "label": "Companies are scrambling to stop employees from maxing out AI budgets with small"
+      },
+      {
+        "id": "same-evidence-different-answer-auditing-order-sensitivity-in-multimodal-large-la",
+        "label": "Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large"
+      },
+      {
+        "id": "on-policy-self-distillation-with-sampled-demonstrations-reduces-output-diversity",
+        "label": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity"
+      },
+      {
+        "id": "the-unfireable-safety-kernel-execution-time-ai-alignment-for-ai-agents-and-other",
+        "label": "The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Othe"
+      },
+      {
+        "id": "model-forensics-investigating-whether-concerning-behavior-reflects-misalignment",
+        "label": "Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment"
+      },
+      {
+        "id": "neglected-free-lunch-from-post-training-progress-advantage-for-llm-agents",
+        "label": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents"
       },
       {
         "id": "figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update",
@@ -181,8 +182,48 @@
         "label": "The memory chip crunch is paying off for this U.S. company"
       },
       {
+        "id": "learning-action-priors-for-cross-embodiment-robot-manipulation",
+        "label": "Learning Action Priors for Cross-embodiment Robot Manipulation"
+      },
+      {
+        "id": "a-welding-penetration-prediction-model-for-laser-welding-process-based-on-self-s",
+        "label": "A welding penetration prediction model for laser welding process based on self-s"
+      },
+      {
+        "id": "revengebench-reverse-engineering-code-space-policies-from-behavioral-experiments",
+        "label": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiment"
+      },
+      {
+        "id": "natural-ungrokking-asymmetric-control-of-which-rules-survive-pretraining",
+        "label": "Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining"
+      },
+      {
+        "id": "fedrela-imbalanced-federated-learning-via-re-labeling",
+        "label": "FedReLa: Imbalanced Federated Learning via Re-Labeling"
+      },
+      {
+        "id": "when-does-synthetic-data-augmentation-improve-score-based-imbalanced-classificat",
+        "label": "When Does Synthetic Data Augmentation Improve Score-Based Imbalanced Classificat"
+      },
+      {
+        "id": "a-cross-process-welding-penetration-status-prediction-algorithm-based-on-unsuper",
+        "label": "A cross-process welding penetration status prediction algorithm based on unsuper"
+      },
+      {
         "id": "openai-and-broadcom-unveil-llm-optimized-inference-chip",
         "label": "OpenAI and Broadcom unveil LLM-optimized inference chip"
+      },
+      {
+        "id": "europe-is-pushing-back-on-washington8217s-chip-war",
+        "label": "Europe is pushing back on Washington&#8217;s chip war"
+      },
+      {
+        "id": "former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-w",
+        "label": "Former Infosys chief has a new startup that wants to challenge the IT services w"
+      },
+      {
+        "id": "wikipedia-workers-in-britain-set-global-first-by-seeking-union-recognition",
+        "label": "Wikipedia Workers in Britain set global first by seeking union recognition"
       },
       {
         "id": "rubyllm-a-single-beautiful-ruby-framework-for-all-major-ai-providers",
@@ -197,6 +238,18 @@
         "label": "Show HN: peerd – AI agent harness that runs entirely in your browser"
       },
       {
+        "id": "cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misundersto",
+        "label": "Cerebras stock plunges after earnings as CEO says margin outlook was misundersto"
+      },
+      {
+        "id": "show-hn-brain-frog-can-you-be-random-enough-for-11-lines-of-javascript",
+        "label": "Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?"
+      },
+      {
+        "id": "markdy-like-mermaid-diagrams-but-for-motion",
+        "label": "Markdy: Like Mermaid Diagrams, but for Motion"
+      },
+      {
         "id": "glm-52-is-a-step-change-for-open-agents",
         "label": "GLM-5.2 is a step change for open agents"
       },
@@ -207,9 +260,13 @@
       {
         "id": "vector-graphics-in-lil",
         "label": "Vector Graphics in Lil"
+      },
+      {
+        "id": "show-hn-wordit-change-one-letter-keep-the-chain-going",
+        "label": "Show HN: Wordit – Change One Letter, Keep the Chain Going"
       }
     ],
     "date_bj": "2026-06-25 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-06-25 06:01:56"
+    "generated_at_bj": "2026-06-25 18:01:16"
   }
 }

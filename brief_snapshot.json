@@ -1,8 +1,19 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T06:02:31.779232+08:00",
-  "item_count": 25,
+  "generated_at": "2026-06-25T18:01:59.218650+08:00",
+  "item_count": 45,
   "items": [
+    {
+      "id": "anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities",
+      "label": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "summary": "Anthropic 指控阿里巴巴非法提取其 Claude AI 模型的能力，可能涉及模型窃取、反向工程或知识蒸馏。这一事件对 AI 产品经理而言凸显了模型安全与知识产权保护的重要性，尤其是在竞争激烈的 AI 市场中。技术要点包括模型能力复制的潜在手段（如黑盒蒸馏），商业价值体现在核心技术壁垒的维护，产品创新方面则警示设计时需嵌入防提取机制。PM 应关注自家模型的防护策略以及竞品情报的合规边界。",
+      "pm_score": 0.63,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48664814",
+      "date": "2026-06-25"
+    },
     {
       "id": "khoj-aikhoj",
       "label": "khoj-ai/khoj",
@@ -147,6 +158,17 @@
       "date": "2026-06-25"
     },
     {
+      "id": "the-unbearable-cheapness-of-open-weight-models",
+      "label": "The Unbearable Cheapness of Open Weight Models",
+      "summary": "开放权重模型的成本急剧下降，使得开发者能以极低价格获取高性能AI能力。这改变了产品经济模型：无需支付高额API费用或训练成本，即可本地部署或微调模型。对AI产品经理而言，这意味着更低的试错门槛、更强的数据隐私控制以及定制化自由度。商业上，可能催生新的应用生态（如低成本垂直模型），并削弱封闭API提供商的市场地位。技术要点在于开放权重与闭源模型在性价比上的持续拉锯。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48668255",
+      "date": "2026-06-25"
+    },
+    {
       "id": "facebook-rolls-out-an-ai-companion-app-for-creators",
       "label": "Facebook rolls out an AI companion app for creators",
       "summary": "Meta 旗下 Facebook 正在测试一款面向创作者的 AI 陪伴应用，内嵌了近期推出的 AI 创作者助手。该应用旨在通过智能对话、内容建议和自动化功能，帮助创作者高效管理社交平台互动，提升创作效率和粉丝粘性。此举标志着社交媒体平台从工具型 AI 向情感化、陪伴式 AI 产品延伸，为创作者经济带来了新的商业化可能。",
@@ -166,6 +188,61 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "same-evidence-different-answer-auditing-order-sensitivity-in-multimodal-large-la",
+      "label": "Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large",
+      "summary": "该论文指出标准多模态大模型基准测试仅按固定顺序评分，忽略了输入顺序变化可能导致答案差异这一可靠性问题。作者提出Facet-Probe审计工具，从五个维度系统检测模型对顺序的敏感性。对于AI产品经理而言，该研究强调了在多模态模型部署前需评估其顺序鲁棒性，以避免因输入排列变化而产生不一致的输出，从而提升产品的可靠性和用户体验。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.26079v1",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "on-policy-self-distillation-with-sampled-demonstrations-reduces-output-diversity",
+      "label": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity",
+      "summary": "该论文研究了在线策略自蒸馏方法，通过让同一模型同时担任教师和学生，并基于正确演示提供密集的token级反馈，显著提升了pass@1准确率。然而，这种方法会侵蚀输出多样性，导致pass@k曲线表现下降。对于AI产品经理，这意味着追求高准确率可能以牺牲多样性为代价，在构建对话、内容生成等需要多样性的产品时需谨慎权衡。商业价值在于可指导训练策略优化，平衡准确性与创造性输出。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.26091v1",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "the-unfireable-safety-kernel-execution-time-ai-alignment-for-ai-agents-and-other",
+      "label": "The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Othe",
+      "summary": "本文提出了一种名为“不可解雇安全内核”的AI代理对齐方法，将安全控制从代理内部运行时迁移到执行时外部，从而防止代理绕过系统提示、输出过滤器和护栏库等现有内部控制。该技术显著增强了使用工具、API等基础设施的AI代理的可控性和抗攻击能力，降低了部署风险。对于产品经理而言，这意味着可以更安全地将AI代理集成到企业级应用中，提升用户信任并满足合规要求。商业价值在于加速AI代理在金融、医疗等高风险场景的落地，产品创新点在于采用外部不可篡改的安全机制。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.26057v1",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "model-forensics-investigating-whether-concerning-behavior-reflects-misalignment",
+      "label": "Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment",
+      "summary": "该论文提出模型取证（Model Forensics）概念，旨在区分AI模型表现出来的危险行为是真正源于对齐错误还是如混淆等良性原因。传统安全研究只关注行为检测，但行为本身不足以判定对齐错误。模型取证通过深入分析模型内部状态、推理路径和训练数据，更准确地识别恶意意图与偶然失误。对产品经理而言，这一技术有助于降低AI部署中的误报风险，提升安全评估的可靠性，从而加速可信AI产品的落地。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.26071v1",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "neglected-free-lunch-from-post-training-progress-advantage-for-llm-agents",
+      "label": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
+      "summary": "该论文提出了一种后训练阶段的“进展优势”方法，用于解决过程奖励模型在智能体场景中难以构建的问题。传统方法需要大量人工标注或蒙特卡洛估计，但在长时间交互、不可逆动作和随机环境反馈下不可行。该技术通过利用模型自身生成的轨迹对比，自动学习步骤级奖励信号，从而无需额外标注即可提升LLM智能体的训练效率和任务成功率。对产品经理而言，这意味着可以降低智能体系统的训练成本，加速迭代，并提高在复杂任务中的表现，具有重要的商业价值。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.26080v1",
       "date": "2026-06-25"
     },
     {
@@ -224,6 +301,83 @@
       "date": "2026-06-25"
     },
     {
+      "id": "learning-action-priors-for-cross-embodiment-robot-manipulation",
+      "label": "Learning Action Priors for Cross-embodiment Robot Manipulation",
+      "summary": "该论文提出学习动作先验（Action Priors）来解决跨形态机器人操作中Vision-Language-Action（VLA）模型的动作模块几乎从零学习物理运动的问题。传统VLA模型依赖VLM的视觉语言先验，但动作学习缺乏泛化能力。通过引入动作先验，模型能在不同机器人形态间迁移物理运动知识，提升样本效率和操作准确性。这项研究对机器人产品化有重要意义，可降低多形态机器人部署成本，加速技能学习，推动通用机器人操作能力从实验室走向实际应用。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.26095v1",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "a-welding-penetration-prediction-model-for-laser-welding-process-based-on-self-s",
+      "label": "A welding penetration prediction model for laser welding process based on self-s",
+      "summary": "本文提出SimPhysNet，一种基于自监督学习和物理信息神经网络（PINNs）的激光焊接穿透预测模型。该模型结合物理约束与自监督学习范式，无需大量标注数据即可精确预测焊接全穿透状态，对实现无缺陷焊接接头、提升产品质量至关重要。技术核心在于将焊接物理过程编码为网络损失函数，增强模型可解释性与泛化能力。商业价值体现在可集成至智能焊接系统，降低废品率与人工检测成本，推动制造业AI落地。产品创新在于将领域物理知识与自监督表征学习相融合，为工业缺陷预测提供新范式。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.26059v1",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "revengebench-reverse-engineering-code-space-policies-from-behavioral-experiments",
+      "label": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiment",
+      "summary": "本文提出名为 RevengeBench 的逆向工程研究框架，类比科学实验中通过观察和干预推断隐藏机制的方法，从 AI 代理的行为轨迹中反向推导其内部代码空间策略。该方法无需访问模型内部结构，仅凭外部行为实验即可提取策略规则，对于理解黑箱模型、评估合规性、检测隐藏偏见具有重要商业价值，可用于 AI 安全审计、策略对齐验证及模型行为透明化，帮助产品经理在设计阶段预判模型潜在风险。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.26094v1",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "natural-ungrokking-asymmetric-control-of-which-rules-survive-pretraining",
+      "label": "Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining",
+      "summary": "这项研究揭示了语言模型在预训练过程中的一个有趣现象：模型会先学习一个规则（如代词性别匹配），但随后在训练后期遗忘该规则，导致性能骤降。这种不对称控制表明预训练中哪些规则能幸存下来并非随机，而是受到训练数据分布和动态的影响。对产品经理而言，这意味着需要关注模型能力的稳定性与可预测性，尤其在部署依赖隐式规则理解的AI产品时，需设计持续监控机制，避免模型在长期运行中突然出现行为退化。商业价值在于指导更可靠的模型训练策略和产品迭代。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.26050v1",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "fedrela-imbalanced-federated-learning-via-re-labeling",
+      "label": "FedReLa: Imbalanced Federated Learning via Re-Labeling",
+      "summary": "FedReLa 提出了一种针对联邦学习中全局类别不平衡与跨客户端数据异构性共存的解决方案，通过重新标记（Re-Labeling）机制缓解本地与全局不平衡不匹配导致的性能下降。该技术无需共享原始数据，保护隐私的同时提升了模型在少数类上的泛化能力。商业价值在于，企业可在不集中敏感数据的情况下，利用各客户端异构数据训练更均衡的模型，适用于医疗、金融等数据分布极不均匀的场景，降低冷启动和偏见风险。产品创新体现在自适应调整客户端标签，实现全局优化。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.26037v1",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "when-does-synthetic-data-augmentation-improve-score-based-imbalanced-classificat",
+      "label": "When Does Synthetic Data Augmentation Improve Score-Based Imbalanced Classificat",
+      "summary": "该论文研究了合成数据增强在基于分数的分类任务中缓解类别不平衡问题的理论效果。作者提出一个框架，用于刻画合成少数类数据增强何时能改善阈值集成与阈值优化分类性能。研究发现，合成增强并非总是有效，其效果取决于数据分布和分类器特性。对于产品经理而言，该研究可指导在不平衡数据场景（如欺诈检测、罕见事件预测）中合理使用合成数据，避免盲目增强带来的负面效果，从而提升模型在实际应用中的鲁棒性与商业价值。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.26053v1",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "a-cross-process-welding-penetration-status-prediction-algorithm-based-on-unsuper",
+      "label": "A cross-process welding penetration status prediction algorithm based on unsuper",
+      "summary": "该论文提出一种基于无监督域自适应的焊接熔透状态预测算法，解决激光焊与TIG焊等不同工艺间的领域迁移问题。传统监督深度学习模型在跨工艺场景下因物理机理差异导致性能显著下降，而该方法无需目标领域标注数据，通过域自适应技术提升模型泛化能力。对AI产品经理而言，此技术可降低焊接质量检测系统在不同产线间的部署成本，实现跨工艺通用性，具有显著商业价值。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.26078v1",
+      "date": "2026-06-25"
+    },
+    {
       "id": "openai-and-broadcom-unveil-llm-optimized-inference-chip",
       "label": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "summary": "OpenAI与Broadcom联合发布针对大语言模型推理优化的专用芯片，旨在降低推理成本并提升效率。该芯片通过硬件级优化加速Transformer模型运算，减少延迟和能耗，使AI产品在边缘和云端部署更经济高效。此举将推动AI应用大规模落地，降低产品经理对算力成本的顾虑，并可能改变模型部署策略。",
@@ -232,6 +386,39 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48659257",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "europe-is-pushing-back-on-washington8217s-chip-war",
+      "label": "Europe is pushing back on Washington&#8217;s chip war",
+      "summary": "欧洲在芯片战争中抵制华盛顿的限制措施。ASML CEO指出，中国目前只能采购约十年前推出的老一代深紫外光刻设备。美国MATCH法案试图将此类设备也列入禁运清单，进一步收紧对华芯片技术出口。这一地缘政治博弈直接影响AI芯片的制造能力，尤其是依赖先进光刻机的GPU和AI加速器生产。对AI产品经理而言，需关注供应链风险，评估芯片获取受限对产品路线图、硬件成本及市场布局的潜在冲击，探索替代技术或区域合作策略。",
+      "pm_score": 0.41,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-w",
+      "label": "Former Infosys chief has a new startup that wants to challenge the IT services w",
+      "summary": "前印孚瑟斯（Infosys）CEO维什·西卡（Vishal Sikka）创立新创业公司，获Mayfield和Aramco Ventures投资，汇集SAP、Infosys及VianAI的资深专家，旨在挑战传统IT服务市场。该公司可能利用AI驱动的自动化、企业级SaaS或云原生服务重构行业模式，瞄准大型企业的数字化转型需求。核心商业价值在于打破现有IT服务巨头的垄断，提供更敏捷、低成本且创新的解决方案。产品创新方向或聚焦于AI辅助开发、智能运维及行业垂直化交付，对AI产品经理而言，需关注其如何将AI能力嵌入传统IT服务价值链。",
+      "pm_score": 0.41,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "wikipedia-workers-in-britain-set-global-first-by-seeking-union-recognition",
+      "label": "Wikipedia Workers in Britain set global first by seeking union recognition",
+      "summary": "英国维基百科工作者首次寻求工会认可，此举创下全球先例。作为AI训练数据的重要来源，维基百科的内容生态依赖大量社区贡献者。该事件可能引发对AI数据供应链稳定性和劳动者权益的关注，影响基于维基数据的AI产品开发与社区治理策略。",
+      "pm_score": 0.41,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48669932",
       "date": "2026-06-25"
     },
     {
@@ -268,6 +455,39 @@
       "date": "2026-06-25"
     },
     {
+      "id": "cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misundersto",
+      "label": "Cerebras stock plunges after earnings as CEO says margin outlook was misundersto",
+      "summary": "AI芯片公司Cerebras在上市后首份财报中预测核心业务毛利率将低于市场预期，CEO澄清称市场对利润率前景存在误解。这一消息导致股价大幅下跌，投资者对AI芯片初创公司的盈利能力产生担忧。作为英伟达的竞争对手，Cerebras专注于大模型训练芯片，但其高昂的研发成本和激烈竞争使得毛利率承压。对AI产品经理而言，这提示了芯片供应链的财务风险，可能影响未来AI产品的硬件成本和合作伙伴选择。",
+      "pm_score": 0.375,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "show-hn-brain-frog-can-you-be-random-enough-for-11-lines-of-javascript",
+      "label": "Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?",
+      "summary": "Brain Frog 是一个趣味性测试工具，用仅11行JavaScript代码构建的AI，挑战人类能否产生足够随机的数字序列来骗过它。该产品展示了AI在模式识别方面的高效性，同时揭示了人类随机性生成的固有缺陷。对AI产品经理而言，它提供了低成本验证AI能力（如对抗性测试、人类行为分析）的创意范例，可用于设计用户互动实验或评估模型鲁棒性。商业价值体现在轻量级交互式产品的快速原型能力，并可作为教育或娱乐型AI应用的参考。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48598051",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "markdy-like-mermaid-diagrams-but-for-motion",
+      "label": "Markdy: Like Mermaid Diagrams, but for Motion",
+      "summary": "Markdy 是一个类似 Mermaid 图表的工具，但专注于运动/动作的图形化生成。它允许用户通过声明式语法定义复杂的运动序列，自动生成可视化图表，帮助设计师、动画师或机器人开发者直观地规划和展示运动逻辑。技术要点在于将运动抽象为可组合的节点和连接，类似 Mermaid 的流程图模式。商业价值在于降低运动设计门槛，加速原型迭代，尤其适用于 AI 驱动的动画生成、机器人路径规划或交互式动作演示。产品创新体现在将成熟的图表即代码模式迁移到运动领域，提供标准化的运动描述语言。对于 AI 产品经理，这意味着可以快速在应用中集成运动可视化组件，减少开发成本，并推动运动内容创作的民主化。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48646077",
+      "date": "2026-06-25"
+    },
+    {
       "id": "glm-52-is-a-step-change-for-open-agents",
       "label": "GLM-5.2 is a step change for open agents",
       "summary": "GLM-5.2 是智谱AI发布的最新模型版本，被描述为开源智能体（open agents）的阶跃式变革。该版本可能在推理能力、工具调用、自主任务执行等关键维度取得显著突破，使开发者能够构建更强大、更可靠的自主AI代理。对于AI产品经理而言，这意味着基于该模型的产品在复杂任务自动化、多步骤规划以及与环境交互方面将具备更高的性能上限，同时开源特性降低了集成门槛，有望加速企业级Agent应用的落地。商业价值体现在降低开发成本、提升用户留存，并为垂直场景定制提供更强的基础能力。",
@@ -280,7 +500,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1882,
-    "edges": 211399
+    "real_nodes": 1903,
+    "edges": 213306
   }
 }

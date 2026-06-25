@@ -2177,3 +2177,26 @@
 - create: facebook-rolls-out-an-ai-companion-app-for-creators.md
 - create: agility-robotics-plans-to-go-public-via-spac-in-a-25b-deal.md
 - create: figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update.md
+
+## [2026-06-25 18:01] sync v3 | 21 new | pillars: {'capabilities': 20, 'ecosystem': 1}
+- create: learning-action-priors-for-cross-embodiment-robot-manipulation.md
+- create: revengebench-reverse-engineering-code-space-policies-from-behavioral-experiments.md
+- create: on-policy-self-distillation-with-sampled-demonstrations-reduces-output-diversity.md
+- create: neglected-free-lunch-from-post-training-progress-advantage-for-llm-agents.md
+- create: same-evidence-different-answer-auditing-order-sensitivity-in-multimodal-large-la.md
+- create: a-cross-process-welding-penetration-status-prediction-algorithm-based-on-unsuper.md
+- create: model-forensics-investigating-whether-concerning-behavior-reflects-misalignment.md
+- create: a-welding-penetration-prediction-model-for-laser-welding-process-based-on-self-s.md
+- create: the-unfireable-safety-kernel-execution-time-ai-alignment-for-ai-agents-and-other.md
+- create: when-does-synthetic-data-augmentation-improve-score-based-imbalanced-classificat.md
+- create: natural-ungrokking-asymmetric-control-of-which-rules-survive-pretraining.md
+- create: fedrela-imbalanced-federated-learning-via-re-labeling.md
+- create: anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities.md
+- create: wikipedia-workers-in-britain-set-global-first-by-seeking-union-recognition.md
+- create: markdy-like-mermaid-diagrams-but-for-motion.md
+- create: the-unbearable-cheapness-of-open-weight-models.md
+- create: show-hn-brain-frog-can-you-be-random-enough-for-11-lines-of-javascript.md
+- create: europe-is-pushing-back-on-washington8217s-chip-war.md
+- create: former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-w.md
+- create: cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misundersto.md
+- create: show-hn-wordit-change-one-letter-keep-the-chain-going.md
