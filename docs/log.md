@@ -2200,3 +2200,13 @@
 - create: former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-w.md
 - create: cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misundersto.md
 - create: show-hn-wordit-change-one-letter-keep-the-chain-going.md
+
+## [2026-06-26 00:01] sync v3 | 8 new | pillars: {'capabilities': 6, 'ecosystem': 1, 'patterns': 1}
+- create: ford-rehires-350-engineers-after-ai-fails-to-preserve-expertise-or-train-juniors.md
+- create: lies-damn-lies-and-database-benchmarks.md
+- create: tell-hn-openai-has-started-putting-ads-on-paid-programs.md
+- create: netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster.md
+- create: 2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-fou.md
+- create: adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs.md
+- create: amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment.md
+- create: show-hn-visual-workspace-for-agents-based-on-unix.md

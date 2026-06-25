@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-25 | Total pages: 1922
+> Last updated: 2026-06-26 | Total pages: 1930
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -190,6 +190,7 @@
 - [[figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update.md]] Figma adds code layers, support for animations, more AI features in new update `pillar:capabilities` `score:0.445`
 - [[fine-tuning-an-llm-to-write-docs-like-its-1995.md]] Fine-tuning an LLM to write docs like it's 1995 `pillar:capabilities` `score:0.36`
 - [[five-frontier-llms-disagree-on-67-of-1k-real-world-fact-check-claims.md]] Five frontier LLMs disagree on 67% of 1k real-world fact-check claims `pillar:capabilities` `score:0.63`
+- [[ford-rehires-350-engineers-after-ai-fails-to-preserve-expertise-or-train-juniors.md]] Ford rehires 350 engineers after AI fails to preserve expertise or train juniors `pillar:capabilities` `score:0.55`
 - [[forever-young-how-one-molecule-can-lock-plants-in-a-youthful-state-2025.md]] Forever Young: how one molecule can lock plants in a youthful state (2025) `pillar:capabilities` `score:0.27`
 - [[formal-verification-gates-for-ai-coding-loops.md]] Formal Verification Gates for AI Coding Loops `pillar:capabilities` `score:0.43`
 - [[frontier-ai-has-broken-the-open-ctf-format.md]] Frontier AI has broken the open CTF format `pillar:capabilities` `score:0.55`
@@ -307,6 +308,7 @@
 - [[launch-hn-superset-yc-p26-ide-for-the-agents-era.md]] Launch HN: Superset (YC P26) – IDE for the agents era `pillar:capabilities` `score:0.445`
 - [[lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak.md]] Lawmakers Demand Answers as CISA Tries to Contain Data Leak `pillar:capabilities` `score:0.31`
 - [[leiden-declaration-on-artificial-intelligence-and-mathematics.md]] Leiden Declaration on Artificial Intelligence and Mathematics `pillar:capabilities` `score:0.36`
+- [[lies-damn-lies-and-database-benchmarks.md]] Lies, Damn Lies and Database Benchmarks `pillar:capabilities` `score:0.33`
 - [[lies-we-tell-ourselves-about-email-addresses.md]] Lies we tell ourselves about email addresses `pillar:capabilities` `score:0.395`
 - [[lightning-ailitgpt.md]] Lightning-AI/litgpt `pillar:capabilities` `score:0.58`
 - [[lightning-aipytorch-lightning.md]] Lightning-AI/pytorch-lightning `pillar:capabilities` `score:0.615`
@@ -361,6 +363,7 @@
 - [[nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead.md]] NanoClaw creator turns down $20M buyout offer, raises $12M seed instead `pillar:capabilities` `score:0.305`
 - [[navier-stokes-fluid-simulation-explained-with-godot-game-engine.md]] Navier-Stokes fluid simulation explained with Godot game engine `pillar:capabilities` `score:0.205`
 - [[neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi.md]] NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI `pillar:capabilities` `score:0.305`
+- [[netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster.md]] Netris raises $15M Series A from a16z to help AI neoclouds go live faster `pillar:capabilities` `score:0.445`
 - [[neutron-scattering-explains-why-gluten-free-pasta-falls-apart-2025.md]] Neutron scattering explains why gluten-free pasta falls apart (2025) `pillar:capabilities` `score:0.22`
 - [[nndlnndl.md]] nndl/nndl `pillar:capabilities` `score:0.51`
 - [[no-more-jetbrains-products-for-me.md]] No More JetBrains Products for Me `pillar:capabilities` `score:0.465`
@@ -1238,6 +1241,7 @@
 - [[show-hn-statewright-visual-state-machines-that.md]] Show HN: Statewright – Visual state machines that make AI agents reliable `pillar:patterns` `score:0.33`
 - [[show-hn-the-agent-that-builds-and-operates-its-own-saas-tools.md]] Show HN: The agent that builds and operates its own SaaS tools `pillar:patterns` `score:0.365`
 - [[show-hn-tired-of-duct-taping-access-control-into-agent-prompts-heres-the-fix.md]] Show HN: Tired of duct-taping access control into agent prompts. Here's the fix `pillar:patterns` `score:0.33`
+- [[show-hn-visual-workspace-for-agents-based-on-unix.md]] Show HN: Visual Workspace for Agents Based on Unix `pillar:patterns` `score:0.295`
 - [[show-hn-voicedraw-talk-system-design-out-loud-the-diagrams-draw-themselves.md]] Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves `pillar:patterns` `score:0.33`
 - [[show-hn-vt-code-open-source-terminal-coding-agent-in-rust.md]] Show HN: VT Code – open-source terminal coding agent in Rust `pillar:patterns` `score:0.26`
 - [[show-hn-y-a-malleable-coding-agent-desktop-app-built-with-electron.md]] Show HN: Y – A malleable coding-agent desktop app built with Electron `pillar:patterns` `score:0.155`
@@ -1323,11 +1327,13 @@
 ## 🔧 Ecosystem (工具与生态)
 > Orchestration, VectorDB, Evaluation, Open Source
 - [[2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026.md]] 2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026 `pillar:ecosystem` `score:0.34`
+- [[2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-fou.md]] 2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch `pillar:ecosystem` `score:0.27`
 - [[5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-incre.md]] 5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices inc `pillar:ecosystem` `score:0.305`
 - [[a-new-bill-takes-aim-at-government-pressure-to-silence-lawful-online-speech.md]] A new bill takes aim at government pressure to silence lawful online speech `pillar:ecosystem` `score:0.46`
 - [[a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight.md]] A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight `pillar:ecosystem` `score:0.445`
 - [[aaif-goosegoose.md]] aaif-goose/goose `pillar:ecosystem` `score:0.58`
 - [[adafruit-receives-demand-letter-from-fenwick-legal-counsel-on-behalf-of-fluxai.md]] Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai `pillar:ecosystem` `score:0.565`
+- [[adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs.md]] Adobe acquires image and video enhancement tool maker Topaz Labs `pillar:ecosystem` `score:0.515`
 - [[agentic-app-coding-gets-an-upgrade-with-google8217s-release-of-android-cli.md]] Agentic app coding gets an upgrade with Google&#8217;s release of Android CLI `pillar:ecosystem` `score:0.48`
 - [[ai-collectionai-collection.md]] ai-collection/ai-collection `pillar:ecosystem` `score:0.53`
 - [[ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid.md]] AI data centers just got a government-mandated fast lane to the grid `pillar:ecosystem` `score:0.445`
@@ -1340,6 +1346,7 @@
 - [[amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdow.md]] Amazon CEO reportedly raised Anthropic model concerns before government crackdow `pillar:ecosystem` `score:0.48`
 - [[amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips.md]] Amazon hopes to challenge Nvidia more directly by selling its AI chips `pillar:ecosystem` `score:0.48`
 - [[amazon-scraps-ai-leaderboard-to-stop-workers-chasing-usage-scores.md]] Amazon scraps AI leaderboard to stop workers chasing usage scores `pillar:ecosystem` `score:0.295`
+- [[amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment.md]] Amazon ups India bet with fresh $13B AI infrastructure investment `pillar:ecosystem` `score:0.445`
 - [[amd-pulls-a-bait-and-switch-on-linux-users-with-vivado-licensing-changes.md]] AMD pulls a bait-and-switch on Linux users with Vivado licensing changes `pillar:ecosystem` `score:0.53`
 - [[americans-dont-know-how-to-fight-ai-so-theyre-fighting-data-centers.md]] Americans don't know how to fight AI. So they're fighting data centers `pillar:ecosystem` `score:0.295`
 - [[an-oxcaml-book-that-runs.md]] An O(x)Caml book that runs `pillar:ecosystem` `score:0.155`
@@ -1828,6 +1835,7 @@
 - [[teaching-claude-why.md]] Teaching Claude Why `pillar:business` `score:0.305`
 - [[tech-ceos-are-apparently-suffering-from-ai-psychosis.md]] Tech CEOs are apparently suffering from AI psychosis `pillar:business` `score:0.41`
 - [[tell-hn-dont-use-claude-design-lost-access-to-my-projects-after-unsubscribing.md]] Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing `pillar:business` `score:0.53`
+- [[tell-hn-openai-has-started-putting-ads-on-paid-programs.md]] Tell HN: OpenAI has started putting ads on paid programs `pillar:business` `score:0.43`
 - [[tesla-model-y-passes-nhtsas-new-advanced-driver.md]] Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests `pillar:business` `score:0.255`
 - [[the-ai-layoff-wave-is-becoming-a-powder-keg.md]] The AI layoff wave is becoming a powder keg `pillar:business` `score:0.445`
 - [[the-ai-legal-services-industry-is-heating-up-ant.md]] The AI legal services industry is heating up — Anthropic is getting in on the ac `pillar:business` `score:0.305`

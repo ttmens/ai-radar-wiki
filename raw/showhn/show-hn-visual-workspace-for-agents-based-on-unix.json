@@ -1,0 +1,24 @@
+{
+  "title": "Show HN: Visual Workspace for Agents Based on Unix",
+  "score": 10,
+  "comments": 2,
+  "url": "https://www.prototyper.co",
+  "hn_url": "https://news.ycombinator.com/item?id=48671826",
+  "tag": "ShowHN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "该项目展示了一个基于Unix哲学的可视化智能体工作空间，通过图形界面管理、编排和调试AI代理流程。它借鉴Unix管道和文件系统的概念，让代理间的数据传递与任务协作更直观，降低了非技术用户构建多代理系统的门槛。对产品经理而言，这种设计有望简化AI工作流的设计和迭代，促进团队协作，提升开发效率。商业上可应用于自动化、数据分析等场景，潜在价值在于将复杂代理逻辑转化为可视化的“管道”，加速AI应用落地。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Agent Workspace",
+    "Visual Programming",
+    "Unix Philosophy"
+  ],
+  "entities": [],
+  "patterns": [
+    "Visual Agent Workspace Pattern",
+    "Unix-based AI Agents"
+  ]
+}
