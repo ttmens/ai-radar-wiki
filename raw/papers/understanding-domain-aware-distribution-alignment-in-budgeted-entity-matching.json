@@ -1,0 +1,28 @@
+{
+  "title": "Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching",
+  "summary": "Entity Matching (EM) is a core operation in the data integration pipeline, where records from different sources are compared to determine whether they refer to the same real-world entity. Recent work has incorporated domain information and low-resource learning techniques to better adapt EM systems to realistic settings. While these approaches have demonstrated strong performance, it remains unclear how they behave under varying data constraints and levels of supervision in practice. In this paper, we investigate a state-of-the-art method for low-resource, domain-aware EM--BEACON--and study how its performance is affected by different algorithmic choices and data availability conditions. We conduct a series of targeted experiments to evaluate these variations, providing deeper insight into the role of distribution alignment and the behavior of the BEACON framework.",
+  "url": "http://arxiv.org/abs/2606.27342v1",
+  "authors": [
+    "Nicholas Pulsone",
+    "Gregory Goren",
+    "Roee Shraga"
+  ],
+  "published": "2026-06-25T17:49:48Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "framework",
+    "eval",
+    "integration",
+    "pipeline"
+  ],
+  "summary_cn": "本文研究预算约束下的实体匹配（Entity Matching）问题，提出领域感知分布对齐方法，通过利用领域信息和低资源学习技术，提升跨源记录匹配的准确性和效率。该技术可降低数据集成成本，适用于主数据管理、知识图谱构建等场景，帮助产品团队在有限标注预算下快速对齐异构数据，实现高质量实体解析，具有显著商业价值。",
+  "pm_relevance": 7,
+  "concepts": [
+    "实体匹配",
+    "领域适应",
+    "低资源学习"
+  ],
+  "entities": [],
+  "patterns": []
+}

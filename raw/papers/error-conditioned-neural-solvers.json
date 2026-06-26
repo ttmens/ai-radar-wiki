@@ -1,0 +1,34 @@
+{
+  "title": "Error-Conditioned Neural Solvers",
+  "summary": "Neural surrogate models offer fast approximate mappings from PDE parameters to solutions, but they typically treat solving as a purely statistical task: once trained, they struggle to correct their own constraint violations and extrapolate beyond the training distribution. Recent hybrid methods promote physical correctness by targeting the PDE residual via gradient descent or Gauss--Newton steps, but inherit the compute cost and instability of the underlying classical optimizers. We show, theoretically and empirically, that numerically minimizing the PDE residual can be an unreliable proxy for reconstruction accuracy in ill-conditioned systems, explaining why these methods often do not make accurate predictions despite achieving low residuals. We propose error-conditioned Neural Solvers (ENS), built on a different principle: rather than an optimization target, the PDE residual field is passed as a direct input to the network at each iteration, enabling it to read the spatial structure of its own errors and learn an update policy to iteratively correct its predictions. Across four PDE families, ENS attains the highest prediction accuracy in the large majority of settings, with gains reaching $10\\times$ on turbulent Kolmogorov flow, while avoiding the expensive compute cost of hybrid methods. ENS's learned correction policy generalizes under distribution shift, including zero-shot parameter changes and cross-equation transfer, where its relative advantage is largest in the ill-conditioned regimes where residual minimization is least reliable. Project website: https://neuralsolver.github.io/.",
+  "url": "http://arxiv.org/abs/2606.27354v1",
+  "authors": [
+    "Haina Jiang",
+    "Liam Wang",
+    "Peng-Chen Chen",
+    "Min Seop Kwak",
+    "Seungryong Kim"
+  ],
+  "published": "2026-06-25T17:56:27Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "parameter",
+    "accuracy",
+    "gradient",
+    "optimization"
+  ],
+  "summary_cn": "该论文提出误差条件神经求解器（Error-Conditioned Neural Solvers），针对传统神经代理模型在训练后难以纠正约束违反和外推能力不足的问题，引入混合方法将误差信号融入求解过程。技术要点在于通过条件化误差反馈提升模型对物理模拟的鲁棒性和泛化能力。商业价值体现在为工程仿真、天气预报等需要高精度PDE求解的场景提供更可靠且高效的替代方案。产品创新点在于将误差校正作为神经网络的一部分，实现自适应优化，降低对大量标注数据的依赖。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Neural Surrogate Models",
+    "Error-Conditioning",
+    "Hybrid PDE Solvers"
+  ],
+  "entities": [],
+  "patterns": [
+    "Neural PDE Solvers",
+    "Hybrid AI"
+  ]
+}

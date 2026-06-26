@@ -1,77 +1,33 @@
 {
-  "date": "2026-06-26",
-  "generated_at": "2026-06-26T00:01:28.517592+08:00",
-  "item_count": 6,
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T00:01:04.219226+08:00",
+  "item_count": 2,
   "items": [
     {
-      "id": "ford-rehires-350-engineers-after-ai-fails-to-preserve-expertise-or-train-juniors",
-      "label": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
-      "summary": "福特因引入的AI系统未能有效保存资深工程师的专业知识，也无法培训初级员工，不得不重新雇佣350名退休工程师。该事件暴露了当前AI在组织知识管理、经验传承方面的严重局限，特别是无法替代人类在复杂工程决策中的隐性知识传递。对AI产品经理而言，这凸显了将AI作为辅助工具而非替代者的重要性，并警示在知识密集型场景中需设计人机协同机制。商业上，企业应避免过度依赖AI进行关键知识保留，而应结合结构化知识库与导师制。",
-      "pm_score": 0.55,
+      "id": "ultrasound-imaging-of-the-brain",
+      "label": "Ultrasound Imaging of the Brain",
+      "summary": "超声波脑成像技术是一种非侵入性、便携且低成本的脑部成像方法，结合AI可提升图像分辨率和诊断准确性。该技术有望推动神经疾病早期筛查、脑机接口和实时监测等产品创新，具备较高的医疗商业价值。对AI产品经理而言，关注点在于如何将AI算法集成到超声设备中实现智能分析与实时反馈，并探索在消费级健康监测和临床诊断中的应用场景。",
+      "pm_score": 0.345,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48674446",
-      "date": "2026-06-26"
+      "url": "https://news.ycombinator.com/item?id=48685558",
+      "date": "2026-06-27"
     },
     {
-      "id": "adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs",
-      "label": "Adobe acquires image and video enhancement tool maker Topaz Labs",
-      "summary": "Adobe收购AI图像视频增强工具开发商Topaz Labs，计划将其技术整合到全家桶应用中。Topaz Labs以先进的降噪、超分辨率及去模糊算法著称，其AI模型可在不损失细节的前提下大幅提升画质。这笔收购将直接增强Adobe Premiere Pro、Photoshop等核心产品的智能化处理能力，使创作者无需切换独立工具即可获得专业级增强效果。对AI产品经理而言，此举意味着Adobe正加速将第三方AI能力深度嵌入平台，形成更封闭但高效的工作流；同时，中小型AI工具公司可能面临被巨头整合或边缘化的竞争格局。",
-      "pm_score": 0.515,
-      "pillar": "ecosystem",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
-      "date": "2026-06-26"
-    },
-    {
-      "id": "netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster",
-      "label": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-      "summary": "Netris 获得 a16z 领投的 1500 万美元 A 轮融资，其产品运行在网络交换机上，提供一套软件平台，帮助 AI neocloud（新式云服务商）快速上线并运营。传统网络基础设施的部署和配置往往耗时且复杂，Netris 通过自动化网络管理、简化交换机配置和监控，显著缩短了从基础设施搭建到服务交付的周期。对于 AI 产品经理而言，这意味着 AI 云服务可以更快地获得高性能、低延迟的网络环境，从而加速模型训练和推理服务的落地，降低运维成本，提升整体上市效率。",
-      "pm_score": 0.445,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-      "date": "2026-06-26"
-    },
-    {
-      "id": "amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment",
-      "label": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-      "summary": "亚马逊宣布在印度追加130亿美元投资，主要用于建设AI基础设施。此举是全球科技巨头加速在印度扩张AI基础设施的一部分，旨在提升印度市场的AI计算能力和云服务覆盖。对AI产品经理而言，这意味着更低的AI训练与推理成本、更快的本地化部署能力，以及面向印度庞大用户群体的产品创新机会，例如区域化AI模型和本地化服务。同时，此类投资也将推动印度AI创业生态发展，并可能影响全球云服务定价策略。",
-      "pm_score": 0.445,
-      "pillar": "ecosystem",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-      "date": "2026-06-26"
-    },
-    {
-      "id": "tell-hn-openai-has-started-putting-ads-on-paid-programs",
-      "label": "Tell HN: OpenAI has started putting ads on paid programs",
-      "summary": "OpenAI 开始在付费订阅计划中植入广告，标志着其从纯订阅制向广告支持混合模式的转向。此举可能降低用户订阅成本，但需平衡广告体验与产品核心价值。对AI产品经理而言，这提示了在B2C场景下探索多元化收入的可能性，同时需关注用户容忍度与品牌调性。技术层面需支撑精准广告投放与隐私保护的矛盾，商业模式上可能催生“免费+广告”与“付费去广告”的分层设计。长远看，这一变化将影响AI助手类产品的定价策略和生态竞争格局。",
-      "pm_score": 0.43,
+      "id": "the-ai-industry-is-pouring-millions-into-us-elections",
+      "label": "The AI industry is pouring millions into US elections",
+      "summary": "AI 行业正投入数百万美元于美国选举，涉及选民分析、政治广告生成、虚假信息检测等能力。这为 AI 产品经理带来商业机会（如精准投放、选民互动工具）与伦理风险（偏见、操纵、监管趋严）。技术层面，大规模生成模型与数据分析能力成为核心，但需关注可解释性与合规性。产品创新方向包括实时民意模拟、可信度评估系统。整体而言，AI 在政治场景的规模化应用加速，产品经理需权衡收益与责任，布局安全可控的解决方案。",
+      "pm_score": 0.33,
       "pillar": "business",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48673194",
-      "date": "2026-06-26"
-    },
-    {
-      "id": "lies-damn-lies-and-database-benchmarks",
-      "label": "Lies, Damn Lies and Database Benchmarks",
-      "summary": "本文探讨数据库基准测试中常见的误导性问题，提醒AI产品经理不能盲目相信基准测试结果。技术要点包括基准测试的设计偏差、数据泄露、任务难度失真等陷阱，这些会导致模型能力被高估或低估。商业价值在于帮助团队建立更科学的模型评估体系，避免因错误基准而选错技术路线，从而节省研发成本并加速产品落地。产品创新方面，可借鉴批判性思维设计分层评估框架，结合真实用户场景验证能力，提升AI产品的可靠性和实用性。",
-      "pm_score": 0.33,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48639429",
-      "date": "2026-06-26"
+      "url": "https://news.ycombinator.com/item?id=48687483",
+      "date": "2026-06-27"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1911,
-    "edges": 215218
+    "real_nodes": 1941,
+    "edges": 221022
   }
 }

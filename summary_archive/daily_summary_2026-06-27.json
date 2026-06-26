@@ -1,0 +1,58 @@
+{
+  "daily_summary": {
+    "date": "2026-06-27",
+    "headline": "今日 AI 情报 · 2026-06-27",
+    "overview": "AI在医疗和政治等高敏感领域加速落地，机会与风险并行",
+    "narratives": [
+      {
+        "title": "AI从实验室走向高敏感度垂直应用",
+        "body": "今日两条情报分别指向医疗和政治两个极端敏感领域，表明AI正从通用能力验证阶段进入垂直场景实际部署。超声波脑成像结合AI实现便携诊断，直接作用于人体安全与健康；选举投入则影响民主进程和公共舆论。这种跨领域同步加速意味着AI产品经理必须同时驾驭技术成熟度与伦理监管的复杂性，后续将催生更多行业专属的合规框架和安全性评估体系。",
+        "type": "maturation",
+        "pillar_key": "business"
+      }
+    ],
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI从实验室走向高敏感度垂直应用",
+        "insight": "AI从实验室走向高敏感度垂直应用。该方向的具体信号：超声波脑成像技术借助AI提升分辨率和实时诊断能力，标志着AI在医疗影像硬件的深度集成已具备产品化条件，从科研工具转向消费级健康监测与临床辅助诊断的桥梁正在形成。",
+        "evidence": [
+          {
+            "id": "ultrasound-imaging-of-the-brain",
+            "title": "超声波脑成像结合AI实现便携高精度脑部成像",
+            "score": 0.34
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI从实验室走向高敏感度垂直应用",
+        "insight": "AI从实验室走向高敏感度垂直应用。该方向的具体信号：AI行业数百万美元投入美国选举，覆盖选民分析、政治广告生成和虚假信息检测，表明AI政治商业闭环已形成规模化资金入口，但可解释性、偏见与监管压力成为产品设计的刚性约束，安全可控的解决方案将获得溢价。",
+        "evidence": [
+          {
+            "id": "the-ai-industry-is-pouring-millions-into-us-elections",
+            "title": "AI行业大举投入美国选举：精准投放与伦理风险并存",
+            "score": 0.33
+          }
+        ]
+      }
+    ],
+    "stats": "技术能力: 1 | 产品模式: 0 | 工具生态: 0 | 商业趋势: 1",
+    "total_items": 2,
+    "high_value_count": 2,
+    "all_today_ids": [
+      {
+        "id": "ultrasound-imaging-of-the-brain",
+        "label": "Ultrasound Imaging of the Brain"
+      },
+      {
+        "id": "the-ai-industry-is-pouring-millions-into-us-elections",
+        "label": "The AI industry is pouring millions into US elections"
+      }
+    ],
+    "date_bj": "2026-06-27 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-06-27 00:00:43"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Blackwell Approachability and Gradient Equilibrium are Equivalent",
+  "summary": "Gradient equilibrium (GEQ) is a recently introduced online optimization framework that generalizes first-order stationarity from offline optimization and abstracts problems like online conformal prediction. While GEQ has curious similarities with known online learning frameworks, namely regret minimization, prior work has shown that GEQ error and regret are incomparable objectives, leaving open a precise understanding of how GEQ fits into the broader online learning landscape. In this work, we show that GEQ is equivalent to Blackwell approachability in the algorithmic sense. That is, a Blackwell approachability problem can always be solved using queries to a black-box GEQ oracle, with no asymptotic loss in the oracle's error rate, and vice versa. Taken together with known equivalences between approachability, regret minimization, and calibration, these results imply that GEQ is equivalent to these frameworks, as well. Our reductions are efficient and can be used to transfer refined guarantees, such as optimism and strong adaptivity, from regret minimization to GEQ. Along the way, we also identify necessary and sufficient conditions for GEQ, and establish reductions between different notions of GEQ with unconstrained and constrained decision sets.",
+  "url": "http://arxiv.org/abs/2606.27315v1",
+  "authors": [
+    "Brian W. Lee",
+    "Nika Haghtalab",
+    "Michael I. Jordan",
+    "Ryan J. Tibshirani"
+  ],
+  "published": "2026-06-25T17:29:48Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "gradient",
+    "optimization"
+  ],
+  "summary_cn": "该论文证明了Blackwell可接近性与梯度均衡（GEQ）在数学上是等价的。GEQ是一种在线优化框架，将离线优化中的一阶平稳性概念推广到在线场景，并能抽象在线共形预测等问题。这一理论统一了不同在线学习范式（如遗憾最小化）的底层结构，为设计更通用的在线学习算法提供了新视角。对AI产品经理而言，这虽属基础理论研究，但可能推动实时自适应系统、在线预测服务等产品的核心算法优化，从而提升模型在动态环境下的稳定性和效率。",
+  "pm_relevance": 4,
+  "concepts": [
+    "在线优化",
+    "梯度均衡",
+    "Blackwell可接近性"
+  ],
+  "entities": [],
+  "patterns": []
+}

@@ -1,0 +1,27 @@
+{
+  "title": "What happened after 2k people tried to hack my AI assistant",
+  "score": 160,
+  "comments": 55,
+  "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+  "hn_url": "https://news.ycombinator.com/item?id=48681687",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "assistant",
+    "ai assistant"
+  ],
+  "summary_cn": "本文记录了作者允许2000名用户尝试攻击其AI助手的实验结果，揭示了AI系统在对抗性攻击下的脆弱性。核心发现包括：大多数攻击尝试集中在提示注入和越狱尝试，成功攻击者利用上下文窗口溢出与角色扮演漏洞。作者据此改进了防御机制，如输入净化、行为边界限定和实时监控。产品经理需关注：AI助手安全设计应纳入红队测试、分层防御策略，并平衡用户体验与安全性。该实践为构建鲁棒的对话AI系统提供了关键教训。",
+  "pm_relevance": 9,
+  "concepts": [
+    "AI安全性",
+    "对抗性攻击",
+    "红队测试"
+  ],
+  "entities": [
+    "作者个人项目"
+  ],
+  "patterns": [
+    "红队测试模式",
+    "提示注入防御模式"
+  ]
+}

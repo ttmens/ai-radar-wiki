@@ -2210,3 +2210,7 @@
 - create: adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs.md
 - create: amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment.md
 - create: show-hn-visual-workspace-for-agents-based-on-unix.md
+
+## [2026-06-27 00:01] sync v3 | 11 new | pillars: {'capabilities': 8, 'patterns': 2, 'ecosystem': 1}
+- create: ultrasound-imaging-of-the-brain.md
+- create: the-ai-industry-is-pouring-millions-into-us-elections.md
