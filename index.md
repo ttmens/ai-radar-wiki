@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-27 | Total pages: 1977
+> Last updated: 2026-06-27 | Total pages: 1979
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -64,6 +64,7 @@
 - [[amazon-now-lets-you-design-custom-merch-using-ai.md]] Amazon now lets you design custom merch using AI `pillar:capabilities` `score:0.48`
 - [[amazon-will-show-ai-product-images-when-you-search-for-some-reason.md]] Amazon will show AI product images when you search for some reason `pillar:capabilities` `score:0.515`
 - [[an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry.md]] An OpenAI model has disproved a central conjecture in discrete geometry `pillar:capabilities` `score:0.63`
+- [[anatomy-of-a-failed-nation-state-attack.md]] Anatomy of a Failed (Nation-State?) Attack `pillar:capabilities` `score:0.345`
 - [[ancient-genome-duplications-laid-the-foundations-of-complex-brains.md]] Ancient genome duplications laid the foundations of complex brains `pillar:capabilities` `score:0.225`
 - [[android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-feature.md]] Android 17 launches with new multitasking tools as Google expands Gemini feature `pillar:capabilities` `score:0.48`
 - [[anthropic-apologizes-for-invisible-claude-fable-guardrails.md]] Anthropic apologizes for invisible Claude Fable guardrails `pillar:capabilities` `score:0.63`
@@ -154,6 +155,7 @@
 - [[deepfakesfaceswap.md]] deepfakes/faceswap `pillar:capabilities` `score:0.58`
 - [[deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation.md]] DeepL acquires Mixhalo for live-event audio streaming and translation `pillar:capabilities` `score:0.48`
 - [[deeplearning4jdeeplearning4j.md]] deeplearning4j/deeplearning4j `pillar:capabilities` `score:0.58`
+- [[deepseek-open-sources-inference-optimizations-with-6085-faster-generation-pdf.md]] DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf `pillar:capabilities` `score:0.415`
 - [[deepseek-v4-flash-means-llm-steering-is-interesting-again.md]] DeepSeek-V4-Flash means LLM steering is interesting again `pillar:capabilities` `score:0.33`
 - [[deepseek-v4-pro-beats-gpt-55-pro-on-precision.md]] DeepSeek V4 Pro beats GPT-5.5 Pro on precision `pillar:capabilities` `score:0.515`
 - [[deepspeedaideepspeed.md]] deepspeedai/DeepSpeed `pillar:capabilities` `score:0.615`

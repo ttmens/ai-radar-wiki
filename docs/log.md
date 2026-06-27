@@ -2222,3 +2222,7 @@
 - create: the-gap-between-open-weights-llms-and-closed-source-llms.md
 - create: trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-a.md
 - create: show-hn-i-built-a-hardware-quantum-rng-and-wired-it-into-a-magic-8-ball.md
+
+## [2026-06-27 18:02] sync v3 | 2 new | pillars: {'capabilities': 2}
+- create: deepseek-open-sources-inference-optimizations-with-6085-faster-generation-pdf.md
+- create: anatomy-of-a-failed-nation-state-attack.md

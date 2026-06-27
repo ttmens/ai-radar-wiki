@@ -1,7 +1,7 @@
 {
   "date": "2026-06-27",
-  "generated_at": "2026-06-27T12:02:11.330489+08:00",
-  "item_count": 16,
+  "generated_at": "2026-06-27T18:02:11.290890+08:00",
+  "item_count": 18,
   "items": [
     {
       "id": "previewing-gpt56-sol-a-next-generation-model",
@@ -136,6 +136,17 @@
       "date": "2026-06-27"
     },
     {
+      "id": "deepseek-open-sources-inference-optimizations-with-6085-faster-generation-pdf",
+      "label": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf",
+      "summary": "DeepSeek 开源了推理优化方案，实现了 60–85% 的生成速度提升，这对 AI 产品经理意味着显著的性能飞跃。通过加速推理，可降低用户等待时间、提升交互流畅度，同时开源策略降低了模型部署成本，加速产品落地。该技术要点在于优化了生成过程的计算效率，不牺牲质量；商业价值体现在帮助团队快速构建高性能对话/生成应用，并可能推动行业推理优化标准。产品创新方面，开源方式使得中小团队也能直接享受顶尖优化成果，缩短产品迭代周期。",
+      "pm_score": 0.415,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48696585",
+      "date": "2026-06-27"
+    },
+    {
       "id": "openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-us",
       "label": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
       "summary": "OpenAI 从Uber印度挖来负责人，领导其美国以外最大市场——印度。此举标志着OpenAI在印度市场的最新扩张，包括扩建办公室、深化合作伙伴关系和加大招聘力度。对于AI产品经理而言，这反映了OpenAI在全球化布局上的战略重点，印度作为关键增长市场，将推动其产品本地化、生态合作及用户获取。该人事任命显示了OpenAI对印度市场的高度重视，可能带来更多针对当地需求的AI产品创新和商业模式探索。",
@@ -155,6 +166,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48692883",
+      "date": "2026-06-27"
+    },
+    {
+      "id": "anatomy-of-a-failed-nation-state-attack",
+      "label": "Anatomy of a Failed (Nation-State?) Attack",
+      "summary": "本文剖析一次疑似国家级黑客攻击失败的案例，详细拆解其攻击链、技术手段和暴露的漏洞。对AI产品经理而言，此事揭示网络安全领域对抗性AI的应用潜力——攻防两端均可借助AI自动化渗透测试、异常检测与响应。商业价值上，安全厂商可开发基于AI的攻击模拟与防御方案；产品创新则体现在将AI融入安全运营中心（SOC），提升威胁狩猎效率。该案例也警示，当前AI模型自身可能成为攻击目标或工具，需强化鲁棒性设计。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48694631",
       "date": "2026-06-27"
     },
     {
@@ -181,7 +203,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 1958,
-    "edges": 224934
+    "real_nodes": 1960,
+    "edges": 226895
   }
 }
