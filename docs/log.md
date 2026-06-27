@@ -2214,3 +2214,11 @@
 ## [2026-06-27 00:01] sync v3 | 11 new | pillars: {'capabilities': 8, 'patterns': 2, 'ecosystem': 1}
 - create: ultrasound-imaging-of-the-brain.md
 - create: the-ai-industry-is-pouring-millions-into-us-elections.md
+
+## [2026-06-27 12:02] sync v3 | 11 new | pillars: {'capabilities': 10, 'business': 1}
+- create: us-allows-anthropic-to-release-mythos-ai-to-trusted-us-organizations.md
+- create: ai-in-mathematics-is-forcing-big-questions.md
+- create: show-hn-hacker-news-on-a-train-station-style-flip-board.md
+- create: the-gap-between-open-weights-llms-and-closed-source-llms.md
+- create: trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-a.md
+- create: show-hn-i-built-a-hardware-quantum-rng-and-wired-it-into-a-magic-8-ball.md

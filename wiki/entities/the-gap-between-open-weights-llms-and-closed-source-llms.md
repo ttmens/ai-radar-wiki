@@ -1,0 +1,25 @@
+---
+title: The gap between open weights LLMs and closed source LLMs
+created: 2026-06-27
+updated: 2026-06-27
+type: entity
+pillar: capabilities
+pm_score: 0.55
+tags: ["discussion", "hacker-news", "capabilities"]
+sources: ["raw/hn/the-gap-between-open-weights-llms-and-closed-source-llms.json"]
+---
+
+# The gap between open weights LLMs and closed source LLMs
+
+## 中文摘要
+本文探讨开源权重LLM（如LLaMA）与闭源LLM（如GPT-4）之间的性能、可定制性及商业可用性差距。开源模型在可控性、成本和数据隐私方面有优势，但通常在复杂推理、多轮对话和指令遵循上仍落后闭源模型。对于AI产品经理，这意味着需要根据应用场景权衡：高精度任务优先闭源，需定制或本地部署则选开源。同时，随着社区和硬件优化，差距正在缩小，未来可能出现混合策略。
+
+## PM 关注指标
+- 🔥 HN Score: 142
+- 💬 Comments: 118
+- 🎯 PM Score: 0.55
+- 🏷️ Pillar: capabilities
+
+## 链接
+- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48692058
+- 🔗 原文: https://blog.doubleword.ai/frontier-os-llm
