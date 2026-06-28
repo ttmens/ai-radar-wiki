@@ -1,0 +1,24 @@
+{
+  "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+  "score": 66,
+  "comments": 16,
+  "url": "https://github.com/itsthelore/wayfinder-router",
+  "hn_url": "https://news.ycombinator.com/item?id=48704373",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Wayfinder Router 是一种确定性路由系统，用于在本地和托管的 LLM 之间智能分配查询。它根据查询特性（如复杂度、隐私要求、延迟敏感度）自动决定由本地模型还是云端模型处理，从而平衡成本、性能与隐私。对于 AI 产品经理，这一技术实现了混合 AI 架构的实用化，降低了 API 调用成本，同时保持关键任务的高质量响应。其确定性路由策略避免了随机或简单规则带来的不确定性，提升了产品可靠性和可预测性，特别适合需要实时交互与成本优化的场景。",
+  "pm_relevance": 8,
+  "concepts": [
+    "LLM Routing",
+    "Hybrid AI",
+    "Deterministic Routing"
+  ],
+  "entities": [
+    "Wayfinder"
+  ],
+  "patterns": [
+    "Local-First AI",
+    "Hybrid Inference"
+  ]
+}

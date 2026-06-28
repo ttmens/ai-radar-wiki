@@ -1,0 +1,48 @@
+{
+  "name": "microsoft/AirSim",
+  "description": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research",
+  "stars": 18270,
+  "language": "C++",
+  "topics": [
+    "ai",
+    "airsim",
+    "artificial-intelligence",
+    "autonomous-quadcoptor",
+    "autonomous-vehicles",
+    "computer-vision",
+    "control-systems",
+    "cross-platform",
+    "deep-reinforcement-learning",
+    "deeplearning",
+    "drones",
+    "pixhawk",
+    "platform-independent",
+    "research",
+    "self-driving-car",
+    "simulator",
+    "unreal-engine"
+  ],
+  "url": "https://github.com/microsoft/AirSim",
+  "created": "2017-02-14T00:52:29Z",
+  "tag": "GitHub",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision"
+  ],
+  "summary_cn": "AirSim是微软AI与研究团队开发的开源自动驾驶仿真平台，基于Unreal Engine或Unity引擎构建。它提供高保真度的物理环境和传感器模拟（如摄像头、激光雷达、GPS等），支持强化学习、计算机视觉和路径规划等AI算法的训练与测试。该工具可模拟复杂交通场景、天气变化及传感器噪声，显著降低自动驾驶研发的硬件成本和实地测试风险。其开源特性允许开发者自定义环境和车辆模型，加速算法迭代并促进学术与工业界的协作。对于AI产品经理，AirSim代表了将游戏引擎技术应用于自动驾驶数据合成与模型验证的产品创新方向，具有推动自动驾驶商业化落地的潜在商业价值。",
+  "pm_relevance": 8,
+  "concepts": [
+    "自动驾驶仿真",
+    "传感器模拟",
+    "Sim-to-Real迁移"
+  ],
+  "entities": [
+    "Microsoft",
+    "AirSim",
+    "Unreal Engine"
+  ],
+  "patterns": [
+    "Sim-to-Real Transfer",
+    "Digital Twin"
+  ]
+}

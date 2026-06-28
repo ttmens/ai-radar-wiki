@@ -1,0 +1,87 @@
+{
+  "daily_summary": {
+    "date": "2026-06-29",
+    "headline": "今日 AI 情报 · 2026-06-29",
+    "overview": "AI商业竞争转向硬件供应链与地缘合规部署",
+    "narratives": [
+      {
+        "title": "AI部署进入基础设施化阶段：硬件、合规与生态壁垒重塑产品策略",
+        "body": "今日情报显示，AI行业正从模型能力的军备竞赛转向围绕部署环境的系统性竞争。美光被视作下一个英伟达，凸显HBM内存成为大模型训练推理的关键瓶颈；奥地利游说欧盟托管Anthropic则反映地缘政治监管差异迫使公司调整区域部署；谷歌限制Meta使用Gemini模型进一步说明生态壁垒正在固化。这些信号共同指向一个趋势：AI产品经理不能再仅关注模型本身，而必须将硬件供应链、多区域合规和供应商锁定风险作为核心产品战略变量。",
+        "type": "maturation",
+        "pillar_key": "business"
+      }
+    ],
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI部署进入基础设施化阶段：硬件、合规与生态壁垒重塑产品策略",
+        "insight": "AI部署进入基础设施化阶段：硬件、合规与生态壁垒重塑产品策略。该方向的具体信号：OpenAI Codex的敏感文件排除问题仍未解决，暴露出企业级AI代码工具在数据治理与权限控制上的能力短板，直接影响产品在合规场景下的可部署性，这与基础设施化阶段对安全性的要求直接相关。",
+        "evidence": [
+          {
+            "id": "a-way-to-exclude-sensitive-files-issue-still-open-for-openai-codex",
+            "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+            "score": 0.48
+          }
+        ]
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "AI部署进入基础设施化阶段：硬件、合规与生态壁垒重塑产品策略",
+        "insight": "AI部署进入基础设施化阶段：硬件、合规与生态壁垒重塑产品策略。该方向的具体信号：谷歌限制Meta使用其Gemini模型，表明大型模型供应商正通过API许可条款构建生态壁垒，产品经理需提前评估模型锁定风险并建立多供应商备份策略。",
+        "evidence": [
+          {
+            "id": "google-limits-metas-use-of-its-gemini-ai-models",
+            "title": "Google limits Meta's use of its Gemini AI models",
+            "score": 0.4
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI部署进入基础设施化阶段：硬件、合规与生态壁垒重塑产品策略",
+        "insight": "AI部署进入基础设施化阶段：硬件、合规与生态壁垒重塑产品策略。该方向的具体信号：华尔街看好美光成为下一个英伟达，HBM内存需求爆发反映硬件供应链成为瓶颈；奥地利游说欧盟托管Anthropic则显示地缘政治监管差异正在驱动区域化部署战略，产品经理需将硬件成本与合规路径纳入产品路线图。",
+        "evidence": [
+          {
+            "id": "austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
+            "title": "Austria Lobbies EU to Host Anthropic After US Access Curbs",
+            "score": 0.45
+          }
+        ]
+      }
+    ],
+    "stats": "技术能力: 1 | 产品模式: 0 | 工具生态: 1 | 商业趋势: 2",
+    "total_items": 6,
+    "high_value_count": 4,
+    "all_today_ids": [
+      {
+        "id": "a-way-to-exclude-sensitive-files-issue-still-open-for-openai-codex",
+        "label": "A way to exclude sensitive files issue still open for OpenAI Codex"
+      },
+      {
+        "id": "austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
+        "label": "Austria Lobbies EU to Host Anthropic After US Access Curbs"
+      },
+      {
+        "id": "why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia",
+        "label": "Why Wall Street thinks US memory maker Micron is the next Nvidia"
+      },
+      {
+        "id": "google-limits-metas-use-of-its-gemini-ai-models",
+        "label": "Google limits Meta's use of its Gemini AI models"
+      },
+      {
+        "id": "the-origins-of-the-school-system-aimed-to-produce-independent-critical-thinkers",
+        "label": "The origins of the school system aimed to produce independent, critical thinkers"
+      },
+      {
+        "id": "show-hn-metaspec-the-dpans3r-common-lisp-spec-in-s-expr-and-html-format",
+        "label": "Show HN: Metaspec: The DpANS3R Common Lisp Spec in S-Expr and HTML Format"
+      }
+    ],
+    "date_bj": "2026-06-29 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-06-29 00:01:35"
+  }
+}

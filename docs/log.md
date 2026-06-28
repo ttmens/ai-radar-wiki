@@ -2226,3 +2226,11 @@
 ## [2026-06-27 18:02] sync v3 | 2 new | pillars: {'capabilities': 2}
 - create: deepseek-open-sources-inference-optimizations-with-6085-faster-generation-pdf.md
 - create: anatomy-of-a-failed-nation-state-attack.md
+
+## [2026-06-29 00:01] sync v3 | 12 new | pillars: {'capabilities': 10, 'patterns': 2}
+- create: a-way-to-exclude-sensitive-files-issue-still-open-for-openai-codex.md
+- create: the-origins-of-the-school-system-aimed-to-produce-independent-critical-thinkers.md
+- create: google-limits-metas-use-of-its-gemini-ai-models.md
+- create: austria-lobbies-eu-to-host-anthropic-after-us-access-curbs.md
+- create: why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia.md
+- create: show-hn-metaspec-the-dpans3r-common-lisp-spec-in-s-expr-and-html-format.md

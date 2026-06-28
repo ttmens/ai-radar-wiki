@@ -1,0 +1,58 @@
+{
+  "daily_summary": {
+    "date": "2026-06-28",
+    "headline": "今日 AI 情报 · 2026-06-28",
+    "overview": "AI产品从通用对话向场景化垂直整合演进，本地化与个性化成为关键",
+    "narratives": [
+      {
+        "title": "AI产品从通用对话向场景化垂直整合演进",
+        "body": "今日情报显示两个方向：一是亚洲初创因出口禁令推出本地化替代模型，催生独立生态；二是个人健康数据的多模态整合案例，展示AI从聊天走向深度数据分析。对PM而言，这意味着产品设计需从单一对话能力转向场景化、合规化的数据融合方案，关注垂直行业的定制化需求。",
+        "type": "paradigm_shift",
+        "pillar_key": "patterns"
+      }
+    ],
+    "insights": [
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI产品从通用对话向场景化垂直整合演进",
+        "insight": "AI产品从通用对话向场景化垂直整合演进。该方向的具体信号：亚洲AI初创公司推出类似Mythos的模型，以规避Anthropic出口禁令，形成独立于美国巨头的技术生态，预示产品模式正从全球统一向本地化、合规化转变。",
+        "evidence": [
+          {
+            "id": "asian-ai-startups-launch-mythos-like-models-as-anthropic8217s-export-ban-drags-o",
+            "title": "Asian AI startups launch Mythos-like models as Anthropic's export ban drags on",
+            "score": 0.52
+          }
+        ]
+      },
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI产品从通用对话向场景化垂直整合演进",
+        "insight": "AI产品从通用对话向场景化垂直整合演进。该方向的具体信号：创始人将多模态健康数据（血液检测、扫描、可穿戴记录）输入Claude进行整合分析，展示了AI在个性化健康管理中的深度数据融合能力，为数字健康产品设计提供新范式。",
+        "evidence": [
+          {
+            "id": "the-fittest-founder-in-the-room-got-cancer-here8217s-how-he-used-ai-to-fight-bac",
+            "title": "The fittest founder in the room got cancer. Here's how he used AI to fight back",
+            "score": 0.48
+          }
+        ]
+      }
+    ],
+    "stats": "技术能力: 1 | 产品模式: 1 | 工具生态: 0 | 商业趋势: 0",
+    "total_items": 2,
+    "high_value_count": 2,
+    "all_today_ids": [
+      {
+        "id": "asian-ai-startups-launch-mythos-like-models-as-anthropic8217s-export-ban-drags-o",
+        "label": "Asian AI startups launch Mythos-like  models as Anthropic&#8217;s export ban dra"
+      },
+      {
+        "id": "the-fittest-founder-in-the-room-got-cancer-here8217s-how-he-used-ai-to-fight-bac",
+        "label": "The fittest founder in the room got cancer. Here&#8217;s how he used AI to fight"
+      }
+    ],
+    "date_bj": "2026-06-28 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-06-28 00:01:42"
+  }
+}
