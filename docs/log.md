@@ -2234,3 +2234,22 @@
 - create: austria-lobbies-eu-to-host-anthropic-after-us-access-curbs.md
 - create: why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia.md
 - create: show-hn-metaspec-the-dpans3r-common-lisp-spec-in-s-expr-and-html-format.md
+
+## [2026-06-29 18:01] sync v3 | 26 new | pillars: {'ecosystem': 7, 'patterns': 3, 'capabilities': 16}
+- create: dexcompose-reusing-dexterous-policies-for-multi-task-manipulation-with-a-single.md
+- create: surprises-in-proper-positive-only-learning.md
+- create: which-nash-equilibrium-solver-dependent-selection-on-zero-sum-nash-polytopes.md
+- create: second-order-kkt-guarantees-for-bregman-admm-in-nonconvex-and-non-lipschitz-opti.md
+- create: vgb-for-masked-diffusion-model-efficient-test-time-scaling-for-reward-satisfacti.md
+- create: democratic-icai-debating-our-way-to-steering-principles-from-preferences.md
+- create: bridging-ab-initio-symmetries-and-global-nuclear-masses-with-interpretable-neura.md
+- create: pac-bayesian-certificates-for-quadratic-closed-loop-control.md
+- create: agentic-hardware-design-as-repository-level-code-evolution.md
+- create: towards-automating-scientific-review-with-googles-paper-assistant-tool.md
+- create: parameter-efficient-hybrid-transformer-peht-for-network-traffic-prediction-via-d.md
+- create: agent-native-immune-system-architecture-taxonomy-and-engineering.md
+- create: hackerrank-open-sourced-its-ats-my-resume-scored-90100-oh-wait-74-no-88.md
+- create: herdr-agent-multiplexer-that-lives-in-your-terminal.md
+- create: age-verification-is-just-a-precursor-to-automated-attribution-of-speech.md
+- create: knowledge-distillation-of-black-box-large-language-models-2024.md
+- create: model-training-as-code.md

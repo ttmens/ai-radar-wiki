@@ -1,0 +1,25 @@
+{
+  "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+  "score": 76,
+  "comments": 15,
+  "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+  "hn_url": "https://news.ycombinator.com/item?id=48709187",
+  "tag": "HN",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "rag"
+  ],
+  "summary_cn": "该内容来自Hacker News，讨论了在Lemote Yeeloong笔记本（基于国产龙芯处理器）上运行OpenBSD操作系统时遇到的硬件兼容性挑战及解决方案。虽然不直接涉及AI，但对于AI产品经理而言，可联想到边缘计算场景下的国产化硬件适配与开源操作系统生态，提醒在AI产品部署时需关注底层软硬件平台的可移植性和稳定性。",
+  "pm_relevance": 3,
+  "concepts": [
+    "Hardware Compatibility",
+    "Open Source OS"
+  ],
+  "entities": [
+    "Lemote",
+    "OpenBSD"
+  ],
+  "patterns": [
+    "Cross-platform Porting"
+  ]
+}

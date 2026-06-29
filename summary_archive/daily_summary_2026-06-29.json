@@ -2,63 +2,128 @@
   "daily_summary": {
     "date": "2026-06-29",
     "headline": "今日 AI 情报 · 2026-06-29",
-    "overview": "AI商业竞争转向硬件供应链与地缘合规部署",
+    "overview": "AI能力加速突破，但可靠性、安全性与人机协同成为新考验",
     "narratives": [
       {
-        "title": "AI部署进入基础设施化阶段：硬件、合规与生态壁垒重塑产品策略",
-        "body": "今日情报显示，AI行业正从模型能力的军备竞赛转向围绕部署环境的系统性竞争。美光被视作下一个英伟达，凸显HBM内存成为大模型训练推理的关键瓶颈；奥地利游说欧盟托管Anthropic则反映地缘政治监管差异迫使公司调整区域部署；谷歌限制Meta使用Gemini模型进一步说明生态壁垒正在固化。这些信号共同指向一个趋势：AI产品经理不能再仅关注模型本身，而必须将硬件供应链、多区域合规和供应商锁定风险作为核心产品战略变量。",
-        "type": "maturation",
-        "pillar_key": "business"
+        "title": "AI从能力突破走向信任与可靠性的新考验",
+        "body": "今日情报显示，AI在医疗诊断（MRI）、模型基准（GLM5.2）、多代理协作（Herdr）等方向取得显著进展，但同时也暴露出ATS评分不一致、福特重聘老工程师、学术作弊等问题，揭示出AI系统在现实部署中的可靠性、安全性和人类专业知识补位成为关键瓶颈。产品经理需在追求能力的同时，注重鲁棒性、可解释性和人机协同设计。",
+        "type": "paradigm_shift",
+        "pillar_key": "capabilities"
       }
     ],
     "insights": [
       {
-        "pillar": "🤖 技术能力",
-        "pillar_key": "capabilities",
-        "narrative_title": "AI部署进入基础设施化阶段：硬件、合规与生态壁垒重塑产品策略",
-        "insight": "AI部署进入基础设施化阶段：硬件、合规与生态壁垒重塑产品策略。该方向的具体信号：OpenAI Codex的敏感文件排除问题仍未解决，暴露出企业级AI代码工具在数据治理与权限控制上的能力短板，直接影响产品在合规场景下的可部署性，这与基础设施化阶段对安全性的要求直接相关。",
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI从能力突破走向信任与可靠性的新考验",
+        "insight": "AI从能力突破走向信任与可靠性的新考验。该方向的具体信号：终端多代理协作模式Herdr展示了AI从单任务工具向并行自主代理演进的产品范式，但需警惕复杂场景下的协调可信度。",
         "evidence": [
           {
-            "id": "a-way-to-exclude-sensitive-files-issue-still-open-for-openai-codex",
-            "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-            "score": 0.48
+            "id": "herdr-agent-multiplexer-that-lives-in-your-terminal",
+            "title": "Herdr: Agent multiplexer in terminal",
+            "score": 0.43
           }
         ]
       },
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "narrative_title": "AI部署进入基础设施化阶段：硬件、合规与生态壁垒重塑产品策略",
-        "insight": "AI部署进入基础设施化阶段：硬件、合规与生态壁垒重塑产品策略。该方向的具体信号：谷歌限制Meta使用其Gemini模型，表明大型模型供应商正通过API许可条款构建生态壁垒，产品经理需提前评估模型锁定风险并建立多供应商备份策略。",
+        "narrative_title": "AI从能力突破走向信任与可靠性的新考验",
+        "insight": "AI从能力突破走向信任与可靠性的新考验。该方向的具体信号：HackerRank开源ATS但评分波动、Google限制Meta使用Gemini、奥地利游说托管Anthropic等事件，共同指向生态层对AI可靠性和合规性的重新评估。",
         "evidence": [
           {
+            "id": "hackerrank-open-sourced-its-ats-my-resume-scored-90100-oh-wait-74-no-88",
+            "title": "HackerRank开源ATS评分波动",
+            "score": 0.64
+          },
+          {
             "id": "google-limits-metas-use-of-its-gemini-ai-models",
-            "title": "Google limits Meta's use of its Gemini AI models",
+            "title": "Google限制Meta使用Gemini模型",
             "score": 0.4
+          },
+          {
+            "id": "austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
+            "title": "奥地利游说欧盟托管Anthropic",
+            "score": 0.45
           }
         ]
       },
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "narrative_title": "AI部署进入基础设施化阶段：硬件、合规与生态壁垒重塑产品策略",
-        "insight": "AI部署进入基础设施化阶段：硬件、合规与生态壁垒重塑产品策略。该方向的具体信号：华尔街看好美光成为下一个英伟达，HBM内存需求爆发反映硬件供应链成为瓶颈；奥地利游说欧盟托管Anthropic则显示地缘政治监管差异正在驱动区域化部署战略，产品经理需将硬件成本与合规路径纳入产品路线图。",
+        "narrative_title": "AI从能力突破走向信任与可靠性的新考验",
+        "insight": "AI从能力突破走向信任与可靠性的新考验。该方向的具体信号：美光被视作下一个英伟达，凸显AI硬件瓶颈转向内存；同时地缘政治推动AI托管区域分化，商业决策需平衡性能、合规与成本。",
         "evidence": [
           {
-            "id": "austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
-            "title": "Austria Lobbies EU to Host Anthropic After US Access Curbs",
+            "id": "why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia",
+            "title": "美光或成下一个英伟达",
             "score": 0.45
+          }
+        ]
+      },
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI从能力突破走向信任与可靠性的新考验",
+        "insight": "AI从能力突破走向信任与可靠性的新考验。该方向的具体信号：Claude Code用于MRI解读、GLM5.2超越Claude、Democratic ICAI对齐方法等能力突破，与Ford重聘老工程师、布朗大学AI作弊等信任危机并存，提示能力提升需同步强化可解释性与领域知识融合。",
+        "evidence": [
+          {
+            "id": "i-used-claude-code-to-get-a-second-opinion-on-my-mri",
+            "title": "Claude Code用于MRI第二意见",
+            "score": 0.63
+          },
+          {
+            "id": "glm-52-beats-claude-in-our-benchmarks",
+            "title": "GLM5.2超越Claude",
+            "score": 0.53
+          },
+          {
+            "id": "ford-rehires-gray-beard-engineers-after-ai-falls-short",
+            "title": "福特重聘老工程师弥补AI不足",
+            "score": 0.48
           }
         ]
       }
     ],
-    "stats": "技术能力: 1 | 产品模式: 0 | 工具生态: 1 | 商业趋势: 2",
-    "total_items": 6,
-    "high_value_count": 4,
+    "stats": "技术能力: 13 | 产品模式: 1 | 工具生态: 4 | 商业趋势: 2",
+    "total_items": 20,
+    "high_value_count": 20,
     "all_today_ids": [
+      {
+        "id": "hackerrank-open-sourced-its-ats-my-resume-scored-90100-oh-wait-74-no-88",
+        "label": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88"
+      },
+      {
+        "id": "i-used-claude-code-to-get-a-second-opinion-on-my-mri",
+        "label": "I used Claude Code to get a second opinion on my MRI"
+      },
+      {
+        "id": "age-verification-is-just-a-precursor-to-automated-attribution-of-speech",
+        "label": "Age verification is just a precursor to automated attribution of speech"
+      },
+      {
+        "id": "glm-52-beats-claude-in-our-benchmarks",
+        "label": "GLM 5.2 beats Claude in our benchmarks"
+      },
+      {
+        "id": "librepods-airpods-liberated",
+        "label": "Librepods: AirPods liberated"
+      },
+      {
+        "id": "ford-rehires-gray-beard-engineers-after-ai-falls-short",
+        "label": "Ford rehires ‘gray beard’ engineers after AI falls short"
+      },
+      {
+        "id": "reflections-on-software-engineering-in-the-age-of-ai",
+        "label": "Reflections on software engineering in the age of AI"
+      },
       {
         "id": "a-way-to-exclude-sensitive-files-issue-still-open-for-openai-codex",
         "label": "A way to exclude sensitive files issue still open for OpenAI Codex"
+      },
+      {
+        "id": "towards-automating-scientific-review-with-googles-paper-assistant-tool",
+        "label": "Towards Automating Scientific Review with Google's Paper Assistant Tool"
       },
       {
         "id": "austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
@@ -69,12 +134,96 @@
         "label": "Why Wall Street thinks US memory maker Micron is the next Nvidia"
       },
       {
+        "id": "herdr-agent-multiplexer-that-lives-in-your-terminal",
+        "label": "Herdr: Agent multiplexer that lives in your terminal"
+      },
+      {
+        "id": "daisugi-the-japanese-technique-of-growing-trees-out-of-other-trees-2020",
+        "label": "Daisugi, the Japanese technique of growing trees out of other trees (2020)"
+      },
+      {
+        "id": "democratic-icai-debating-our-way-to-steering-principles-from-preferences",
+        "label": "Democratic ICAI: Debating Our Way to Steering Principles from Preferences"
+      },
+      {
+        "id": "vgb-for-masked-diffusion-model-efficient-test-time-scaling-for-reward-satisfacti",
+        "label": "VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfact"
+      },
+      {
+        "id": "professor-denounces-mass-ai-fraud-on-an-exam-at-brown",
+        "label": "Professor denounces mass AI fraud on an exam at Brown"
+      },
+      {
         "id": "google-limits-metas-use-of-its-gemini-ai-models",
         "label": "Google limits Meta's use of its Gemini AI models"
       },
       {
+        "id": "model-training-as-code",
+        "label": "Model Training as Code"
+      },
+      {
+        "id": "agentic-hardware-design-as-repository-level-code-evolution",
+        "label": "Agentic Hardware Design as Repository-Level Code Evolution"
+      },
+      {
+        "id": "parameter-efficient-hybrid-transformer-peht-for-network-traffic-prediction-via-d",
+        "label": "Parameter Efficient Hybrid Transformer (PEHT) for Network Traffic Prediction via"
+      },
+      {
+        "id": "which-nash-equilibrium-solver-dependent-selection-on-zero-sum-nash-polytopes",
+        "label": "Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes"
+      },
+      {
+        "id": "knowledge-distillation-of-black-box-large-language-models-2024",
+        "label": "Knowledge Distillation of Black-Box Large Language Models (2024)"
+      },
+      {
+        "id": "pac-bayesian-certificates-for-quadratic-closed-loop-control",
+        "label": "PAC-Bayesian Certificates for Quadratic Closed-Loop Control"
+      },
+      {
+        "id": "second-order-kkt-guarantees-for-bregman-admm-in-nonconvex-and-non-lipschitz-opti",
+        "label": "Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Opti"
+      },
+      {
+        "id": "dexcompose-reusing-dexterous-policies-for-multi-task-manipulation-with-a-single",
+        "label": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single"
+      },
+      {
+        "id": "show-hn-appaca-ai-workspace-for-operators",
+        "label": "Show HN: Appaca – AI Workspace for Operators"
+      },
+      {
+        "id": "show-hn-nanoeuler-gpt-2-scale-model-in-pure-ccuda-from-scratch",
+        "label": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch"
+      },
+      {
+        "id": "designing-a-personal-pebble-watchface",
+        "label": "Designing a Personal Pebble Watchface"
+      },
+      {
+        "id": "bridging-ab-initio-symmetries-and-global-nuclear-masses-with-interpretable-neura",
+        "label": "Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neura"
+      },
+      {
+        "id": "surprises-in-proper-positive-only-learning",
+        "label": "Surprises in Proper Positive-Only Learning"
+      },
+      {
+        "id": "show-hn-bash4llm-a-lightweight-dependency-free-bash-wrapper-for-llm-apis",
+        "label": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs"
+      },
+      {
         "id": "the-origins-of-the-school-system-aimed-to-produce-independent-critical-thinkers",
         "label": "The origins of the school system aimed to produce independent, critical thinkers"
+      },
+      {
+        "id": "agent-native-immune-system-architecture-taxonomy-and-engineering",
+        "label": "Agent-Native Immune System: Architecture, Taxonomy, and Engineering"
+      },
+      {
+        "id": "working-around-dragons-with-the-lemote-yeeloong-laptop-and-openbsd",
+        "label": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD"
       },
       {
         "id": "show-hn-metaspec-the-dpans3r-common-lisp-spec-in-s-expr-and-html-format",
@@ -82,6 +231,6 @@
       }
     ],
     "date_bj": "2026-06-29 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-06-29 00:01:35"
+    "generated_at_bj": "2026-06-29 18:01:22"
   }
 }

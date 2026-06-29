@@ -1,0 +1,25 @@
+{
+  "title": "PAC-Bayesian Certificates for Quadratic Closed-Loop Control",
+  "summary": "PAC-Bayesian bounds provide finite-sample guarantees for data-dependent randomized predictors, but applying them to learning-based control is difficult because the natural objective is a quadratic trajectory cost. Such losses are unbounded, non-Lipschitz , and lead to response-dependent Chernoff terms. We employ System Level Synthesis parameterization, which exposes the closed-loop trajectory map of a linear system directly and makes the quadratic control loss amenable to explicit certification. Moreover, we provide a set of PAC-Bayes-Chernoff certificates for posterior distributions over feasible closed-loop responses. For Gaussian disturbance trajectories with arbitrary covariance, we derive an exact one-sided Gaussian transform and a tractable quadratic upper bound expressed through closed-loop sensitivity quantities. We also derive a posterior-localized surrogate for settings where pointwise closed-loop response certificates are unavailable or have support related admissibility issues. Although PAC-Bayes certifies a non-degenerate posterior, the convex quadratic form of the SLS loss transfers the certificate to the posterior mean response. We present a deterministic mean response deployment result that is particularly suitable for control while retaining the stochastic posterior in the bound. Additionally, we provide a data-driven bound for this deployment, transitioning away from an oracle bound. Minimizing this bound naturally results in a learning algorithm for control selection from data. Numerical experiments on a double integrator show that the algorithm acts as a sensitivity-aware finite-sample regularizer, improving held-out cost and reducing closed-loop sensitivity in the low-data regime",
+  "url": "http://arxiv.org/abs/2606.28281v1",
+  "authors": [
+    "Domagoj Herceg"
+  ],
+  "published": "2026-06-26T17:24:21Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "parameter"
+  ],
+  "summary_cn": "该论文提出了一种基于PAC-Bayesian理论的统计认证方法，用于具有二次轨迹成本的闭环控制问题。传统控制学习目标中的无界、非Lipschitz损失使得有限样本保证难以建立，而该方法通过引入响应依赖的Chernoff项，为数据驱动的随机控制器提供了可计算的性能边界。这项技术对自动驾驶、机器人等安全关键系统的AI控制策略认证具有潜在商业价值，能够在有限数据下提供概率级可靠性验证，推动可信任AI在物理世界中的落地。",
+  "pm_relevance": 6,
+  "concepts": [
+    "PAC-Bayesian Theory",
+    "Closed-Loop Control",
+    "Statistical Learning Guarantees"
+  ],
+  "entities": [],
+  "patterns": [
+    "Certifiable AI for Safety-Critical Systems"
+  ]
+}

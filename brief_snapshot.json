@@ -1,8 +1,85 @@
 {
   "date": "2026-06-29",
-  "generated_at": "2026-06-29T00:01:59.016458+08:00",
-  "item_count": 4,
+  "generated_at": "2026-06-29T18:01:56.683169+08:00",
+  "item_count": 25,
   "items": [
+    {
+      "id": "hackerrank-open-sourced-its-ats-my-resume-scored-90100-oh-wait-74-no-88",
+      "label": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+      "summary": "HackerRank 开源了其申请人追踪系统（ATS），这一举措旨在推动招聘技术的透明化和可定制性。用户测试简历评分时发现分数在90、74、88之间波动，暴露出AI评分模型可能存在一致性或校准问题，这对依赖AI进行简历筛选的产品经理而言是重要警示。开源方式不仅降低了企业部署ATS的门槛，还允许社区贡献改进算法，可能加速招聘领域的AI民主化，但分数波动也提示需加强模型鲁棒性和评估标准。",
+      "pm_score": 0.635,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48713832",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "i-used-claude-code-to-get-a-second-opinion-on-my-mri",
+      "label": "I used Claude Code to get a second opinion on my MRI",
+      "summary": "用户使用 Claude Code（Anthropic 的 AI 编程助手）获取自身 MRI 影像的第二诊断意见，展示了大型语言模型从代码生成扩展到医学影像解读场景的产品创新。这一跨领域应用凸显了 AI 在医疗辅助决策中的潜力，通过自然语言交互即可获得专业级分析，降低患者获取第二意见的门槛，对医疗资源普惠化具有商业价值。但需注意模型准确性与监管合规风险，提示产品经理关注垂直领域适配与信任构建。",
+      "pm_score": 0.63,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48708941",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "age-verification-is-just-a-precursor-to-automated-attribution-of-speech",
+      "label": "Age verification is just a precursor to automated attribution of speech",
+      "summary": "该观点指出年龄验证技术仅是AI自动语音归因（automated attribution of speech）的早期阶段。年龄验证作为身份识别基础，未来可能发展为更广泛的内容溯源和用户行为归因能力。对AI产品经理而言，这提示了隐私合规、用户身份管理及内容真实性验证的产品方向，需平衡便利性与伦理风险。技术要点在于从单一属性验证向多维度语义归因进化，商业价值体现在安全合规和个性化服务。",
+      "pm_score": 0.63,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48714529",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "glm-52-beats-claude-in-our-benchmarks",
+      "label": "GLM 5.2 beats Claude in our benchmarks",
+      "summary": "根据最新基准测试，智谱AI的GLM 5.2模型在多项评估中超越Anthropic的Claude，展示了国产大语言模型在推理、知识理解等核心能力上的显著进步。这一突破对于AI产品经理意味着：在选择底层模型时，GLM 5.2可作为高性价比的替代方案，降低对海外模型的依赖，同时提升产品在中文场景下的表现。团队可借此优化成本结构，加速本土化AI应用落地。商业上，标杆数据有助于增强客户信心，并推动模型间的良性竞争。",
+      "pm_score": 0.53,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48709670",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "librepods-airpods-liberated",
+      "label": "Librepods: AirPods liberated",
+      "summary": "Librepods 项目旨在通过逆向工程或自定义固件，解放苹果 AirPods 的生态限制，使其能够与 Android 等非苹果设备无缝协作，并可能赋予 AI 增强功能（如实时翻译、语音助手跨平台调用）。该方案的产品创新在于打破硬件壁垒，提升跨场景兼容性，商业价值体现在扩大 AirPods 受众、催生第三方开发生态，并为 AI 产品经理提供本地化、跨平台 AI 能力整合的参考模式。",
+      "pm_score": 0.495,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48710232",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "ford-rehires-gray-beard-engineers-after-ai-falls-short",
+      "label": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "summary": "福特汽车公司重新聘请资深工程师（“灰胡子”），因其AI系统在复杂制造和质量控制环节中效果未达预期。此前福特认为引入AI即可自动产出高质量产品，但实际发现AI缺乏领域经验和上下文判断能力。这一案例警示AI产品经理：AI能力存在边界，不能完全替代人类专业知识。通过人机协同、将资深工程师的经验作为AI训练和纠错的关键输入，才能提升系统可靠性。商业价值在于降低因AI误判导致的返工成本，产品创新方向是构建具备人类反馈闭环的混合智能系统。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "reflections-on-software-engineering-in-the-age-of-ai",
+      "label": "Reflections on software engineering in the age of AI",
+      "summary": "本文探讨AI时代软件工程面临的变革，强调AI正从辅助工具转向核心开发伙伴，提升代码生成、调试和测试效率。商业价值体现在降低开发成本、加速产品迭代。产品创新方面，AI原生开发平台（如GitHub Copilot）成为新范式，推动开发流程重塑。技术要点包括上下文感知的代码补全、自动化重构和智能审查，要求产品经理关注AI与现有工程实践的无缝集成。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48708721",
+      "date": "2026-06-29"
+    },
     {
       "id": "a-way-to-exclude-sensitive-files-issue-still-open-for-openai-codex",
       "label": "A way to exclude sensitive files issue still open for OpenAI Codex",
@@ -12,6 +89,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48706714",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "towards-automating-scientific-review-with-googles-paper-assistant-tool",
+      "label": "Towards Automating Scientific Review with Google's Paper Assistant Tool",
+      "summary": "Google 推出的论文辅助工具旨在通过 AI 自动化同行评审流程，以应对科研论文数量激增带来的评审瓶颈。该工具利用大语言模型理解论文内容、评估方法有效性、识别潜在错误，并生成结构化评审报告，从而加速科学发现周期。对于产品经理而言，这代表了在学术出版生态中嵌入智能辅助的典型应用，具有降低审稿人负担、提升评审一致性和缩短出版周期等商业价值。产品创新点在于将生成式 AI 与现有学术工作流（如预印本平台、期刊系统）无缝集成，可能催生新的论文审查标准。",
+      "pm_score": 0.465,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.28277v1",
       "date": "2026-06-29"
     },
     {
@@ -37,6 +125,61 @@
       "date": "2026-06-29"
     },
     {
+      "id": "herdr-agent-multiplexer-that-lives-in-your-terminal",
+      "label": "Herdr: Agent multiplexer that lives in your terminal",
+      "summary": "Herdr 是一款运行在终端中的 AI 代理多路复用器，允许用户同时调度、协调多个 AI 代理完成复杂任务。其核心创新在于将多代理编排能力集成到命令行环境，开发者无需切换界面即可体验并行代理协作。技术要点包括轻量化设计、终端内实时通信及代理间上下文共享。产品价值在于提升开发效率，减少手动切换工具的成本，适用于自动化测试、代码审查和多步骤工作流。对于 AI 产品经理，该工具展示了终端作为 AI 交互新入口的潜力，以及本地优先的多代理模式。",
+      "pm_score": 0.43,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48714802",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "daisugi-the-japanese-technique-of-growing-trees-out-of-other-trees-2020",
+      "label": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+      "summary": "Daisugi是一种日本古代林业技术，通过在同一棵母树上定期修剪枝条，培育出多棵笔直、高质量的小树，实现可持续木材生产。该技术不砍伐母树，而是利用其强大根系和养分供应，使新树生长更快、更均匀，同时节省土地并减少病虫害。对于AI产品经理而言，这类似于模型参数共享或模块复用策略：通过一个预训练大模型（母树）为多个子任务或场景（子树）提供基础能力，降低训练成本、提升迭代效率，并保持输出一致性。这种“复用+快速生长”的模式在AI产品架构设计中具有重要参考价值，尤其适用于需要频繁微调或定制化的商业化场景。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48708859",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "democratic-icai-debating-our-way-to-steering-principles-from-preferences",
+      "label": "Democratic ICAI: Debating Our Way to Steering Principles from Preferences",
+      "summary": "本文提出Democratic ICAI方法，旨在解决基于偏好的对齐技术难以捕捉人类判断背后推理逻辑的问题。传统成对偏好标签仅反映最终选择，忽略多维评价标准。Inverse Constitutional AI（ICAI）通过逆向挖掘隐含原则，结合辩论机制从多样化偏好中提炼出可解释的指导原则，实现更民主、透明的AI对齐。该技术有望提升模型价值观对齐的鲁棒性和可审计性，对需要负责任AI的应用场景具有商业价值。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.28294v1",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "vgb-for-masked-diffusion-model-efficient-test-time-scaling-for-reward-satisfacti",
+      "label": "VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfact",
+      "summary": "本文提出MDM-VGB，一种针对掩码扩散模型（MDM）的高效推理时缩放方法。传统扩散模型在生成过程中难以满足结构约束或优化下游奖励，MDM-VGB通过离散扩散采样器增强未掩码生成阶段，实现推理时自适应调整。该方法在不重新训练模型的前提下，显著提升生成结果的可控性和奖励满意度，适用于图像编辑、条件生成等场景。其核心创新在于将推理计算资源动态分配到关键步骤，降低采样成本的同时保持高质量输出。对AI产品经理而言，该技术可直接应用于内容创作工具、设计辅助等产品，通过更灵活的控制降低用户使用门槛，提升生成式AI的实用性和商业价值。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.28301v1",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "professor-denounces-mass-ai-fraud-on-an-exam-at-brown",
+      "label": "Professor denounces mass AI fraud on an exam at Brown",
+      "summary": "布朗大学教授公开谴责学生在考试中大规模使用AI作弊，反映当前AI工具（如ChatGPT）在学术场景下的滥用问题。事件凸显了AI生成内容检测技术的紧迫需求，以及教育机构在制定AI使用政策上面临的挑战。对AI产品经理而言，需考虑如何在教育、评测等领域设计防作弊机制，平衡工具赋能与伦理合规，同时探索AI辅助学习而非替代思考的产品模式。该事件也推动AI检测工具市场增长，如Turnitin等已推出相关功能。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48708991",
+      "date": "2026-06-29"
+    },
+    {
       "id": "google-limits-metas-use-of-its-gemini-ai-models",
       "label": "Google limits Meta's use of its Gemini AI models",
       "summary": "谷歌限制Meta使用其Gemini AI模型，反映出大模型在商业合作中的授权管控趋严。此举可能影响Meta在AI产品中集成先进对话能力，也暗示大型科技公司正通过API策略巩固生态壁垒。对产品经理而言，需关注模型供应商的许可条款变化，以及由此带来的供应链风险。",
@@ -46,10 +189,98 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48707103",
       "date": "2026-06-29"
+    },
+    {
+      "id": "model-training-as-code",
+      "label": "Model Training as Code",
+      "summary": "Model Training as Code 是指将模型训练过程以代码形式标准化、版本化和自动化，类似于基础设施即代码的理念。该技术使AI团队能像管理软件工程一样管理训练流程，包括数据预处理、超参数调优、模型评估等环节的声明式定义。其核心价值在于提升训练的可复现性、可审计性和协作效率，降低因环境差异导致的错误。对AI产品经理而言，这有助于加速模型迭代周期，降低运维成本，并支持更灵活的模型实验和部署策略，从而推动产品快速响应业务需求。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48673450",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "agentic-hardware-design-as-repository-level-code-evolution",
+      "label": "Agentic Hardware Design as Repository-Level Code Evolution",
+      "summary": "HORIZON 提出了一种自进化智能体框架，将硬件设计视为仓库级代码演化过程。通过将 Markdown 说明书编译为包含领域知识、可执行评估器、验收谓词及 git/运行时策略的项目包，智能体无需人工干预即可自动迭代优化硬件设计方案。该技术降低了硬件设计门槛，加速了从需求到实现的闭环，体现了 AI 在产品创新中的自动化与自适应性，适合硬件敏捷开发。",
+      "pm_score": 0.395,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.28279v1",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "parameter-efficient-hybrid-transformer-peht-for-network-traffic-prediction-via-d",
+      "label": "Parameter Efficient Hybrid Transformer (PEHT) for Network Traffic Prediction via",
+      "summary": "该论文提出了一种参数高效的混合Transformer模型（PEHT），用于动态城市蜂窝网络中的流量预测。传统预测方法难以处理复杂移动模式、拥堵动态和异质用户行为。PEHT通过轻量级架构减少计算成本，并创新性地将实时城市拥堵数据作为外部特征融入Transformer，从而显著提升预测准确性。对AI产品经理而言，该技术可直接应用于电信网络资源动态分配，降低运营成本并改善用户体验。其混合架构和参数高效设计也为其他时序预测场景（如交通、物流）提供了可迁移的范式，具有较高的产品落地潜力。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.28274v1",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "which-nash-equilibrium-solver-dependent-selection-on-zero-sum-nash-polytopes",
+      "label": "Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes",
+      "summary": "该论文揭示了一个被忽视的工程事实：许多两人零和博弈的纳什均衡并非唯一，而构成一个凸多面体，其中所有策略都达到相同的最优值V*但行为截然不同。标准求解器（如线性规划、迭代方法）各自收敛到该多面体中的某个特定均衡，且这一选择与求解器本身强相关，导致不同求解器输出不同策略。对于AI产品经理而言，这意味着在依赖博弈论进行对抗训练、多智能体协调或安全对齐时，求解器的“隐形偏置”会影响最终策略行为，进而影响产品鲁棒性与可复现性。产品需要明确指定求解器或设计均衡选择机制，以避免因求解器更换导致不可预测的模型行为变化。",
+      "pm_score": 0.395,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.28308v1",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "knowledge-distillation-of-black-box-large-language-models-2024",
+      "label": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+      "summary": "本文探讨2024年黑盒大语言模型的知识蒸馏技术，即在不访问模型内部参数的情况下，通过输出或中间表征将大模型的推理能力迁移至更小模型。该方法可显著降低模型部署成本与推理延迟，同时保留接近原模型的性能。对产品经理而言，这意味着能够以更低资源消耗构建可落地的AI产品，例如在边缘设备或实时场景中运行轻量级智能助手。知识蒸馏的商业价值在于平衡效果与效率，加速AI产品的规模化应用和成本优化。",
+      "pm_score": 0.38,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48712420",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "pac-bayesian-certificates-for-quadratic-closed-loop-control",
+      "label": "PAC-Bayesian Certificates for Quadratic Closed-Loop Control",
+      "summary": "该论文提出了一种基于PAC-Bayesian理论的统计认证方法，用于具有二次轨迹成本的闭环控制问题。传统控制学习目标中的无界、非Lipschitz损失使得有限样本保证难以建立，而该方法通过引入响应依赖的Chernoff项，为数据驱动的随机控制器提供了可计算的性能边界。这项技术对自动驾驶、机器人等安全关键系统的AI控制策略认证具有潜在商业价值，能够在有限数据下提供概率级可靠性验证，推动可信任AI在物理世界中的落地。",
+      "pm_score": 0.36,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.28281v1",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "second-order-kkt-guarantees-for-bregman-admm-in-nonconvex-and-non-lipschitz-opti",
+      "label": "Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Opti",
+      "summary": "该论文提出了一种在非凸且非Lipschitz优化场景下，基于Bregman ADMM算法的二阶KKT条件保证。它通过双面相对光滑性条件替代传统Lipschitz梯度假设，适用于矩阵张量分解等涉及多项式的复杂目标。对AI产品经理而言，该工作为训练非凸模型（如深度神经网络、矩阵分解推荐系统）提供了更严谨的理论收敛保障，可能推动更高效、鲁棒的优化器设计，尤其是在大规模、非平滑数据场景下，有助于提升模型训练稳定性和产品质量。",
+      "pm_score": 0.36,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.28307v1",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "dexcompose-reusing-dexterous-policies-for-multi-task-manipulation-with-a-single",
+      "label": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single",
+      "summary": "DexCompose 提出一种灵巧操作策略组合方法，利用单一灵巧手复用已有策略完成多任务操作。核心挑战在于不同任务对重叠手指和接触模式的冲突需求，该方法通过组合现有灵巧策略而非从头训练解决冲突，降低计算成本并提升泛化能力。技术要点在于策略组合时的冲突消解机制，使单手能柔性切换多种操作技能。商业价值体现在机器人灵巧手在多任务场景（如装配、医疗）中快速适配新任务，减少重新训练开销，推动灵巧操作产业化。产品创新在于将单任务策略模块化组合，实现灵活复用。",
+      "pm_score": 0.36,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2606.28323v1",
+      "date": "2026-06-29"
     }
   ],
   "graph_totals": {
-    "real_nodes": 1983,
-    "edges": 236767
+    "real_nodes": 2012,
+    "edges": 240776
   }
 }

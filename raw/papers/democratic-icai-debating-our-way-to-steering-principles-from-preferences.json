@@ -1,0 +1,30 @@
+{
+  "title": "Democratic ICAI: Debating Our Way to Steering Principles from Preferences",
+  "summary": "Preference-based alignment often struggles to capture the reasoning that underlies human judgments. Many evaluations rely on multiple interacting criteria, yet pairwise labels reveal only the final choice rather than the considerations that shape preferences. Inverse Constitutional AI (ICAI) improves interpretability in decision making by summarizing preferences into natural-language principles, but its single-pass explanations miss much of the nuance involved in complex decisions. We introduce Democratic ICAI, a novel approach that gathers multiple competing rationales through structured persona debate, offering a broader and more expressive account of the factors influencing each comparison. From these richer signals, we derive clearer and more comprehensive steering principles and use them to guide decision modeling through both LLM-based and decision-tree judges. Experiments on creative preference benchmarks, MuCE-Pref and LiTBench, across multiple creative task categories show that Democratic ICAI yields a more faithful preference structure. It improves average preference prediction across tasks relative to deliberative prompting and principle-based baselines, while producing constitutions that LLM annotators prefer.",
+  "url": "http://arxiv.org/abs/2606.28294v1",
+  "authors": [
+    "Kevin Kingslin",
+    "Anish Natekar",
+    "Ashutosh Ranjan",
+    "Vivek Srivastava",
+    "Savita Bhat"
+  ],
+  "published": "2026-06-26T17:38:47Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "reasoning"
+  ],
+  "summary_cn": "本文提出Democratic ICAI方法，旨在解决基于偏好的对齐技术难以捕捉人类判断背后推理逻辑的问题。传统成对偏好标签仅反映最终选择，忽略多维评价标准。Inverse Constitutional AI（ICAI）通过逆向挖掘隐含原则，结合辩论机制从多样化偏好中提炼出可解释的指导原则，实现更民主、透明的AI对齐。该技术有望提升模型价值观对齐的鲁棒性和可审计性，对需要负责任AI的应用场景具有商业价值。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Constitutional AI",
+    "Preference Alignment",
+    "Democratic AI"
+  ],
+  "entities": [],
+  "patterns": [
+    "Debate-Based Alignment"
+  ]
+}

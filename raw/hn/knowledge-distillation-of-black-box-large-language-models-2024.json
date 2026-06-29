@@ -1,0 +1,23 @@
+{
+  "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+  "score": 98,
+  "comments": 16,
+  "url": "https://arxiv.org/abs/2401.07013",
+  "hn_url": "https://news.ycombinator.com/item?id=48712420",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "distillation"
+  ],
+  "summary_cn": "本文探讨2024年黑盒大语言模型的知识蒸馏技术，即在不访问模型内部参数的情况下，通过输出或中间表征将大模型的推理能力迁移至更小模型。该方法可显著降低模型部署成本与推理延迟，同时保留接近原模型的性能。对产品经理而言，这意味着能够以更低资源消耗构建可落地的AI产品，例如在边缘设备或实时场景中运行轻量级智能助手。知识蒸馏的商业价值在于平衡效果与效率，加速AI产品的规模化应用和成本优化。",
+  "pm_relevance": 8,
+  "concepts": [
+    "知识蒸馏",
+    "黑盒模型"
+  ],
+  "entities": [],
+  "patterns": [
+    "模型压缩",
+    "黑盒蒸馏"
+  ]
+}

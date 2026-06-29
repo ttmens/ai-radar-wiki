@@ -1,0 +1,25 @@
+{
+  "title": "Model Training as Code",
+  "score": 153,
+  "comments": 15,
+  "url": "https://aleph-alpha.com/en/blog/model-training-as-code/",
+  "hn_url": "https://news.ycombinator.com/item?id=48673450",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "model training"
+  ],
+  "summary_cn": "Model Training as Code 是指将模型训练过程以代码形式标准化、版本化和自动化，类似于基础设施即代码的理念。该技术使AI团队能像管理软件工程一样管理训练流程，包括数据预处理、超参数调优、模型评估等环节的声明式定义。其核心价值在于提升训练的可复现性、可审计性和协作效率，降低因环境差异导致的错误。对AI产品经理而言，这有助于加速模型迭代周期，降低运维成本，并支持更灵活的模型实验和部署策略，从而推动产品快速响应业务需求。",
+  "pm_relevance": 7,
+  "concepts": [
+    "MLOps",
+    "Infrastructure as Code",
+    "Model Training Pipeline"
+  ],
+  "entities": [],
+  "patterns": [
+    "Infrastructure as Code",
+    "MLOps Pipeline"
+  ]
+}
