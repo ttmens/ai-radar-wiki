@@ -1,0 +1,74 @@
+{
+  "ai_lab_leaders": [
+    {"username": "sama", "name": "Sam Altman", "role": "OpenAI CEO"},
+    {"username": "karpathy", "name": "Andrej Karpathy", "role": "AI Researcher"},
+    {"username": "ylecun", "name": "Yann LeCun", "role": "Meta AI Chief Scientist"},
+    {"username": "AndrewYNg", "name": "Andrew Ng", "role": "AI Fund Founder"},
+    {"username": "elonmusk", "name": "Elon Musk", "role": "xAI/Tesla CEO"},
+    {"username": "DrJimFan", "name": "Jim Fan", "role": "NVIDIA Senior Research Scientist"},
+    {"username": "daboris", "name": "Dario Amodei", "role": "Anthropic CEO"},
+    {"username": "satyanadella", "name": "Satya Nadella", "role": "Microsoft CEO"},
+    {"username": "sundarpichai", "name": "Sundar Pichai", "role": "Google/Alphabet CEO"},
+    {"username": "drfeifei", "name": "Fei-Fei Li", "role": "Stanford AI Lab"}
+  ],
+  "ai_companies": [
+    {"username": "OpenAI", "name": "OpenAI", "role": "AI Lab"},
+    {"username": "AnthropicAI", "name": "Anthropic", "role": "AI Safety Lab"},
+    {"username": "GoogleDeepMind", "name": "Google DeepMind", "role": "AI Research Lab"},
+    {"username": "huggingface", "name": "Hugging Face", "role": "AI Platform"},
+    {"username": "LangChainAI", "name": "LangChain", "role": "LLM Framework"},
+    {"username": "stabilityai", "name": "Stability AI", "role": "Image Generation"},
+    {"username": "MistralAI", "name": "Mistral AI", "role": "European AI Lab"},
+    {"username": "cohere", "name": "Cohere", "role": "Enterprise AI"},
+    {"username": "ai2_lab", "name": "AI2", "role": "Allen Institute for AI"},
+    {"username": "MetaAI", "name": "Meta AI", "role": "Meta AI Research"}
+  ],
+  "ai_researchers": [
+    {"username": "hardmaru", "name": "Haoran Tan", "role": "AI Researcher"},
+    {"username": "swyx", "name": "Shawn Wang", "role": "AI Engineer Community"},
+    {"username": "bindureddy", "name": "Bindu Reddy", "role": "Abacus AI CEO"},
+    {"username": "jeremyphoward", "name": "Jeremy Howard", "role": "fast.ai Founder"},
+    {"username": "fastdotai", "name": "fast.ai", "role": "AI Education"},
+    {"username": "idvorkin", "name": "Igor Dvorkin", "role": "AI Researcher"},
+    {"username": "JohnNosta", "name": "John Nosta", "role": "AI Thought Leader"},
+    {"username": "ElvisSaravia", "name": "Elvis Saravia", "role": "AI Researcher"},
+    {"username": "databricks", "name": "Databricks", "role": "Data/AI Platform"},
+    {"username": "weights_biases", "name": "Weights & Biases", "role": "ML Platform"}
+  ],
+  "ai_products_tools": [
+    {"username": "midjourney", "name": "Midjourney", "role": "Image Generation"},
+    {"username": "runwayml", "name": "Runway", "role": "Video AI"},
+    {"username": "pinecone", "name": "Pinecone", "role": "Vector Database"},
+    {"username": "weaviate_io", "name": "Weaviate", "role": "Vector Database"},
+    {"username": "vercel", "name": "Vercel", "role": "Frontend Platform"},
+    {"username": "supabase", "name": "Supabase", "role": "Open Source Firebase"},
+    {"username": "railway", "name": "Railway", "role": "Deployment Platform"},
+    {"username": "replicate", "name": "Replicate", "role": "ML Platform"},
+    {"username": "modal_labs", "name": "Modal", "role": "Cloud Computing"},
+    {"username": "replika", "name": "Replika", "role": "AI Companion"}
+  ],
+  "ai_news_community": [
+    {"username": "ai__pub", "name": "AI Pub", "role": "AI News"},
+    {"username": "TheAIGRID", "name": "The AI GRID", "role": "AI News"},
+    {"username": "_akhaliq", "name": "Akhaliq", "role": "Huggingface Community"},
+    {"username": "paperstoday", "name": "Papers Today", "role": "AI Papers"},
+    {"username": "deeplearnjs", "name": "Deep Learning JS", "role": "AI Education"},
+    {"username": "ThePracticalDev", "name": "DEV Community", "role": "Developer Community"},
+    {"username": "AI__Pub", "name": "AI Pub", "role": "AI News"},
+    {"username": "databricks", "name": "Databricks", "role": "Data/AI Platform"},
+    {"username": "weights_biases", "name": "Weights & Biases", "role": "ML Platform"},
+    {"username": "gradientflow", "name": "Gradient Flow", "role": "AI News"}
+  ],
+  "tech_companies_ai": [
+    {"username": "Apple", "name": "Apple", "role": "Tech Company"},
+    {"username": "Microsoft", "name": "Microsoft", "role": "Tech Company"},
+    {"username": "Google", "name": "Google", "role": "Tech Company"},
+    {"username": "nvidia", "name": "NVIDIA", "role": "GPU/AI Hardware"},
+    {"username": "amazon", "name": "Amazon", "role": "Tech Company"},
+    {"username": "Tesla", "name": "Tesla", "role": "EV/AI"},
+    {"username": "IBM", "name": "IBM", "role": "Tech Company"},
+    {"username": "Intel", "name": "Intel", "role": "Semiconductor"},
+    {"username": "AMD", "name": "AMD", "role": "Semiconductor"},
+    {"username": "salesforce", "name": "Salesforce", "role": "CRM/AI"}
+  ]
+}
