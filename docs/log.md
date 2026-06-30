@@ -2282,3 +2282,15 @@
 - create: amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic.md
 - create: lumo-proton8217s-privacy-focused-ai-chatbot-gets-an-upgrade.md
 - create: show-hn-agentic-orchestrator-a-tui-for-long-running-coding-agents.md
+
+## [2026-07-01 06:02] sync v3 | 10 new | pillars: {'capabilities': 5, 'patterns': 5}
+- create: claude-sonnet-5.md
+- create: claude-science.md
+- create: claude-sonnet-5-benchmark-results.md
+- create: openclaw-is-finally-available-on-android-and-ios.md
+- create: the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-fund.md
+- create: google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite.md
+- create: nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip.md
+- create: anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents.md
+- create: acti-puts-ai-agents-directly-into-your-smartphone-keyboard.md
+- create: anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientist.md

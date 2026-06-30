@@ -1,8 +1,30 @@
 {
   "date": "2026-07-01",
-  "generated_at": "2026-07-01T00:02:47.660388+08:00",
-  "item_count": 6,
+  "generated_at": "2026-07-01T06:02:22.033462+08:00",
+  "item_count": 16,
   "items": [
+    {
+      "id": "claude-sonnet-5",
+      "label": "Claude Sonnet 5",
+      "summary": "Anthropic 发布了新一代模型 Claude Sonnet 5，在自然语言理解、长上下文处理和多模态能力上显著提升，推理速度优化约40%，同时降低了API调用成本。该模型强化了安全对齐与可解释性，支持更复杂的任务分解，适合构建高可靠性AI产品。商业上，通过性能提升与成本下降进一步降低了企业接入门槛，有望加速客服、内容生成、编程辅助等场景的落地。产品创新方面，引入了动态上下文窗口和自适应推理机制，提升了用户体验的连续性和准确性。",
+      "pm_score": 0.715,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48736605",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "claude-science",
+      "label": "Claude Science",
+      "summary": "Claude Science 是 Anthropic 推出的增强科学推理能力的产品/研究方向，旨在将 Claude 打造成科研人员的智能助手。通过深度理解科学文献、实验数据和复杂逻辑，它能够辅助文献综述、假设生成、实验设计及结果分析。该产品体现了 AI 在垂直科学领域的专业化趋势，有望加速科研进程并降低跨学科协作门槛。其核心创新在于将大语言模型与科学方法论结合，提供可验证的推理链。",
+      "pm_score": 0.6,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48735770",
+      "date": "2026-07-01"
+    },
     {
       "id": "amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic",
       "label": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
@@ -23,6 +45,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48733062",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite",
+      "label": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+      "summary": "Google 推出升级版图像生成模型 Nano Banana 2 Lite，主打更快速度与更低成本，旨在降低创作者使用 AI 内容生成的门槛。该模型通过架构优化与蒸馏技术实现推理效率提升，同时保持输出质量，适合批量生成、实时编辑等高频场景。商业价值在于减少算力开销，使中小型团队也能集成高质量图像生成功能。产品创新方面，轻量化设计便于部署在移动端或边缘设备，可能开启更多实时互动式创作体验。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
       "date": "2026-07-01"
     },
     {
@@ -48,6 +81,50 @@
       "date": "2026-07-01"
     },
     {
+      "id": "anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientist",
+      "label": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scient",
+      "summary": "Anthropic 推出 Claude Science 工作台，专为科学家设计，提供统一环境完成计算研究，避免在不同数据库、流程和工具间切换。它不依赖新模型，而是通过工作流整合提升效率，降低学者使用AI的门槛，体现了产品创新与商业价值。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
+      "label": "Acti puts AI agents directly into your smartphone keyboard",
+      "summary": "Acti 将 AI 代理直接嵌入智能手机键盘（iOS/Android），使其能跨应用执行操作。用户通过自然语言即可创建自定义快捷方式，例如“发送上次会议摘要给团队”等，无需切换上下文。这一设计将键盘从输入工具升级为 AI 交互入口，显著降低 AI 使用门槛，并解决传统 AI 助手“需打开特定应用”的痛点。对于产品经理而言，键盘作为高频交互场景，具备高用户粘性和低学习成本，可衍生出自动化工作流、智能回复、信息检索等场景，是 AI Agent 落地的创新模式。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-fund",
+      "label": "The DeepMind trio who built a poker AI are now making money for quant hedge fund",
+      "summary": "三位前DeepMind研究员在布拉格创立EquiLibre Technologies，基于扑克AI技术（博弈论与强化学习）为量化对冲基金开发交易策略，公司估值超5亿美元。该案例展示了游戏AI能力向金融领域的成功迁移，核心价值在于将非完整信息博弈的求解方法应用于金融市场预测与决策，实现稳定盈利。对AI产品经理而言，启示是横向跨领域应用现有AI技术可创造高商业回报，同时需关注特定场景的工程优化与风险控制。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip",
+      "label": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "summary": "AI芯片初创公司Etched宣布已签订10亿美元合同，用于其专用推理芯片驱动的系统，公司估值达50亿美元，成为英伟达（Nvidia）的有力竞争者。其芯片专为大模型推理场景优化，相比通用GPU能效和成本优势显著，这预示着AI底层硬件正从训练向推理侧分化。对AI产品经理而言，推理芯片的商用化将直接降低大模型部署成本、提升响应速度，推动更多实时AI应用落地，并可影响技术选型和商业模式设计。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "date": "2026-07-01"
+    },
+    {
       "id": "podcasting-platform-riverside-enters-the-newsletter-publishing-game",
       "label": "Podcasting platform Riverside enters the newsletter publishing game",
       "summary": "播客平台Riverside宣布新增Newsletter出版功能，用户可借助AI将播客录音自动转化为Newsletter内容。这一产品创新结合了播客与Newsletter两种内容形式，为创作者提供新的分发渠道和变现机会。技术要点在于利用AI进行音频到文本的转换和摘要生成，降低内容二次创作门槛，提升内容复用效率。商业价值体现在拓展播客生态边界，吸引更多创作者入驻。",
@@ -56,6 +133,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "openclaw-is-finally-available-on-android-and-ios",
+      "label": "OpenClaw is finally available on Android and iOS",
+      "summary": "OpenClaw 是一款免费开源的自主代理程序，现已登陆 Android 和 iOS 平台，标志着移动端智能体时代的到来。该程序能够自主执行复杂任务，提供类似桌面端的自动化能力，且完全开源。对于产品经理而言，这意味着用户可以在手机上拥有一个本地运行的、可定制的 AI 智能助理，无需依赖云端，从而降低延迟并增强隐私。OpenClaw 的移动化将推动智能体模式向个人终端渗透，可能催生新的交互范式，如基于语音或触发的自动化工作流，为 C 端应用和 B 端移动办公场景带来创新机遇。",
+      "pm_score": 0.445,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "claude-sonnet-5-benchmark-results",
+      "label": "Claude Sonnet 5 – benchmark results",
+      "summary": "Anthropic 发布 Claude Sonnet 5 的基准测试结果，显示其在推理、代码生成和多轮对话等核心能力上相比前代显著提升，部分指标已接近或超越 GPT-4o。该模型在保持高效推理速度的同时，降低了幻觉率，增强了长上下文处理的稳定性。对产品经理而言，Claude Sonnet 5 可作为高性价比的智能助手后端，适用于复杂任务自动化、客服系统和内容生成等场景，有望降低企业部署成本并提升用户体验。Anthropic 通过持续优化模型架构与训练策略，进一步巩固其在安全对齐方面的差异化优势。",
+      "pm_score": 0.365,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48738528",
       "date": "2026-07-01"
     },
     {
@@ -68,10 +167,21 @@
       "source_type": "showhn",
       "url": "https://github.com/doordash-oss/agentic-orchestrator",
       "date": "2026-07-01"
+    },
+    {
+      "id": "anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents",
+      "label": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "date": "2026-07-01"
     }
   ],
   "graph_totals": {
-    "real_nodes": 2349,
-    "edges": 2633
+    "real_nodes": 2390,
+    "edges": 2674
   }
 }

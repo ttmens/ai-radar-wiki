@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-01 | Total pages: 2072
+> Last updated: 2026-07-01 | Total pages: 2082
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -130,6 +130,9 @@
 - [[claude-for-legal.md]] Claude for Legal `pillar:capabilities` `score:0.48`
 - [[claude-is-not-your-architect-stop-letting-it-pretend.md]] Claude is not your architect. Stop letting it pretend `pillar:capabilities` `score:0.6`
 - [[claude-opus-48.md]] Claude Opus 4.8 `pillar:capabilities` `score:0.68`
+- [[claude-science.md]] Claude Science `pillar:capabilities` `score:0.6`
+- [[claude-sonnet-5-benchmark-results.md]] Claude Sonnet 5 – benchmark results `pillar:capabilities` `score:0.365`
+- [[claude-sonnet-5.md]] Claude Sonnet 5 `pillar:capabilities` `score:0.715`
 - [[claude-tag.md]] Claude Tag `pillar:capabilities` `score:0.565`
 - [[clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral.md]] Clouted wants to take the guesswork out of making short videos go viral `pillar:capabilities` `score:0.48`
 - [[coalton-is-an-efficient-statically-typed-lisp-with-ideas-from-haskell-and-ocaml.md]] Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml `pillar:capabilities` `score:0.26`
@@ -232,6 +235,7 @@
 - [[gmail-thinks-im-stupid-so-i-left.md]] Gmail thinks I'm stupid, so I left `pillar:capabilities` `score:0.63`
 - [[go-experiments-explained.md]] Go Experiments Explained `pillar:capabilities` `score:0.26`
 - [[google-ai-edgemediapipe.md]] google-ai-edge/mediapipe `pillar:capabilities` `score:0.615`
+- [[google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite.md]] Google introduces a faster, cheaper image generator with Nano Banana 2 Lite `pillar:capabilities` `score:0.48`
 - [[google-just-declared-itself-a-contender-in-ai-design-at-io-2026.md]] Google just declared itself a contender in AI design at IO 2026 `pillar:capabilities` `score:0.445`
 - [[google-just-made-you-a-search-quality-rater-you-wont-get-paid.md]] Google just made you a search quality rater. You won't get paid `pillar:capabilities` `score:0.33`
 - [[google-launches-antigravity-20-with-an-updated-desktop-app-and-cli-tool-at-io-20.md]] Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2 `pillar:capabilities` `score:0.48`
@@ -400,6 +404,7 @@
 - [[notes-from-tired-egyptian-whose-job-is-explaining-that-humans-built-the-pyramids.md]] Notes from tired Egyptian whose job is explaining that humans built the pyramids `pillar:capabilities` `score:0.55`
 - [[nsa-lost-access-to-mythos-amid-anthropic-dispute.md]] NSA lost access to Mythos amid Anthropic dispute `pillar:capabilities` `score:0.585`
 - [[nsa-using-anthropics-mythos-for-cyber-attacks.md]] NSA using Anthropic's Mythos for cyber attacks `pillar:capabilities` `score:0.33`
+- [[nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip.md]] Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip `pillar:capabilities` `score:0.445`
 - [[odysseus-self-hosted-ai-workspace.md]] Odysseus – self-hosted AI workspace `pillar:capabilities` `score:0.43`
 - [[omen-ai8217s-plan-to-optimize-data-centers-is-all-wet.md]] Omen AI&#8217;s plan to optimize data centers is all wet `pillar:capabilities` `score:0.445`
 - [[ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts.md]] Ontario auditors find doctors' AI note takers routinely blow basic facts `pillar:capabilities` `score:0.565`
@@ -1096,6 +1101,7 @@
 - [[a-001-bank-transfer-could-compromise-a-banking-ai-agent.md]] A €0.01 bank transfer could compromise a banking AI agent `pillar:patterns` `score:0.465`
 - [[a-claude-code-and-codex-skill-for-deliberate-skill-development.md]] A Claude Code and Codex Skill for Deliberate Skill Development `pillar:patterns` `score:0.33`
 - [[accumulatemorecv.md]] AccumulateMore/CV `pillar:patterns` `score:0.51`
+- [[acti-puts-ai-agents-directly-into-your-smartphone-keyboard.md]] Acti puts AI agents directly into your smartphone keyboard `pillar:patterns` `score:0.48`
 - [[affaan-mecc.md]] affaan-m/ECC `pillar:patterns` `score:0.58`
 - [[affaan-meverything-claude-code.md]] affaan-m/everything-claude-code `pillar:patterns` `score:0.58`
 - [[agent-harness-kit-scaffolding-for-multi-agent-work.md]] Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic) `pillar:patterns` `score:0.33`
@@ -1120,7 +1126,9 @@
 - [[amazon-workers-under-pressure-to-up-their-ai-usage-are-making-up-tasks.md]] Amazon workers under pressure to up their AI usage are making up tasks `pillar:patterns` `score:0.53`
 - [[amazon8217s-new-alexa-powered-feature-can-generate-podcast-episodes.md]] Amazon&#8217;s new Alexa+ powered feature can generate podcast episodes `pillar:patterns` `score:0.48`
 - [[an-ai-coding-agent-used-to-write-code-needs-to-r.md]] An AI coding agent, used to write code, needs to reduce your maintenance costs `pillar:patterns` `score:0.205`
+- [[anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents.md]] Anthropic launches Claude Sonnet 5 as a cheaper way to run agents `pillar:patterns` `score:0.305`
 - [[anthropic-releases-opus-48-with-new-8216dynamic-workflow8217-tool.md]] Anthropic releases Opus 4.8 with new &#8216;dynamic workflow&#8217; tool `pillar:patterns` `score:0.48`
+- [[anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientist.md]] Anthropic’s Claude Science bets on workflow, not a new model, to win over scient `pillar:patterns` `score:0.48`
 - [[apache-burr-build-reliable-ai-agents-and-applications.md]] Apache Burr: Build reliable AI agents and applications `pillar:patterns` `score:0.33`
 - [[apacheairflow.md]] apache/airflow `pillar:patterns` `score:0.405`
 - [[apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app.md]] Apple will let you build workflows using AI in its new Shortcuts app `pillar:patterns` `score:0.48`
@@ -1271,6 +1279,7 @@
 - [[open-source-kanban-desktop-app-that-runs-parallel-agents-on-every-card.md]] Open source Kanban desktop app that runs parallel agents on every card `pillar:patterns` `score:0.565`
 - [[openai-launches-new-codex-tools-for-white-collar-work.md]] OpenAI launches new Codex tools for white-collar work `pillar:patterns` `score:0.515`
 - [[openbb-financeopenbb.md]] OpenBB-finance/OpenBB `pillar:patterns` `score:0.58`
+- [[openclaw-is-finally-available-on-android-and-ios.md]] OpenClaw is finally available on Android and iOS `pillar:patterns` `score:0.445`
 - [[openclawopenclaw.md]] openclaw/openclaw `pillar:patterns` `score:0.58`
 - [[ornith-10-self-improving-open-source-models-for-agentic-coding.md]] Ornith-1.0: self-improving open-source models for agentic coding `pillar:patterns` `score:0.48`
 - [[ornith-10-self-scaffolding-llms-for-agentic-coding.md]] Ornith-1.0: Self-scaffolding LLMs for agentic coding `pillar:patterns` `score:0.33`
@@ -1979,6 +1988,7 @@
 - [[the-ai-legal-services-industry-is-heating-up-ant.md]] The AI legal services industry is heating up — Anthropic is getting in on the ac `pillar:business` `score:0.305`
 - [[the-ceo-of-allbirds8217-new-ai-biz-has-a-plan-but-no-employees.md]] The CEO of Allbirds&#8217; new AI biz has a plan, but no employees `pillar:business` `score:0.41`
 - [[the-competitive-moat-that-ai-cant-replicate.md]] The Competitive Moat That AI Can't Replicate `pillar:business` `score:0.445`
+- [[the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-fund.md]] The DeepMind trio who built a poker AI are now making money for quant hedge fund `pillar:business` `score:0.48`
 - [[the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-inc.md]] The founder conference built for growth: TechCrunch Founder Summit pass rates in `pillar:business` `score:0.27`
 - [[the-founder-of-craigslist-has-given-away-half-a-billion-dollars.md]] The founder of Craigslist has given away half a billion dollars `pillar:business` `score:0.355`
 - [[the-groupthink-boom-what-3-top-vcs-really-think-about-the-ai-frenzy.md]] The groupthink boom: what 3 top VCs really think about the AI frenzy `pillar:business` `score:0.36`

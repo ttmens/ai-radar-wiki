@@ -1,0 +1,26 @@
+{
+  "title": "Claude Sonnet 5 – benchmark results",
+  "score": 32,
+  "comments": 16,
+  "url": "https://artificialanalysis.ai/models/claude-sonnet-5",
+  "hn_url": "https://news.ycombinator.com/item?id=48738528",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark"
+  ],
+  "summary_cn": "Anthropic 发布 Claude Sonnet 5 的基准测试结果，显示其在推理、代码生成和多轮对话等核心能力上相比前代显著提升，部分指标已接近或超越 GPT-4o。该模型在保持高效推理速度的同时，降低了幻觉率，增强了长上下文处理的稳定性。对产品经理而言，Claude Sonnet 5 可作为高性价比的智能助手后端，适用于复杂任务自动化、客服系统和内容生成等场景，有望降低企业部署成本并提升用户体验。Anthropic 通过持续优化模型架构与训练策略，进一步巩固其在安全对齐方面的差异化优势。",
+  "pm_relevance": 9,
+  "concepts": [
+    "Large Language Models",
+    "Benchmark Evaluation",
+    "Model Capabilities"
+  ],
+  "entities": [
+    "Anthropic",
+    "Claude"
+  ],
+  "patterns": [
+    "Foundation Model"
+  ]
+}
