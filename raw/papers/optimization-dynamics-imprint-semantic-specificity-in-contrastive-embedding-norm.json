@@ -1,0 +1,33 @@
+{
+  "title": "Optimization Dynamics Imprint Semantic Specificity in Contrastive Embedding Norms",
+  "summary": "Contrastive embedding models trained with scale-invariant losses are typically paired with distance metrics like cosine similarity, effectively ignoring embedding magnitudes. However, surprisingly, empirical studies reveal that despite this, these \"discarded\" norms seem to correlate with semantic properties such as concept specificity, token frequency, and human uncertainty. In this work, we provide a formal theoretical framework explaining this phenomenon. By analyzing the optimization dynamics, we derive an analytic formula demonstrating that embedding length naturally encodes this information as a byproduct of the training process. We also show how this gives rise to signals that can serve as \"free\" calibration tools in specific models and retrieval tasks, providing a grounded explanation for a previously heuristic observation.",
+  "url": "http://arxiv.org/abs/2606.30625v1",
+  "authors": [
+    "Ziwei Su",
+    "Junyu Ren",
+    "Victor Veitch"
+  ],
+  "published": "2026-06-29T17:55:40Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "training",
+    "embedding",
+    "optimization",
+    "retrieval",
+    "similarity"
+  ],
+  "summary_cn": "该研究揭示了对比学习嵌入模型中一个反直觉现象：尽管训练时采用尺度不变损失（如余弦相似度）使得嵌入向量的模长被“丢弃”，但实验发现这些模长实际上与语义特异性高度相关。这意味着看似无关的向量范数携带着语义信息，可用于改进相似度搜索、聚类和检索等下游任务。对产品经理而言，此发现提示优化embedding质量时不可忽视范数的影响，有望提升推荐系统、问答匹配等场景的精确度和可解释性，带来更智能的用户体验。",
+  "pm_relevance": 6,
+  "concepts": [
+    "Contrastive Embedding",
+    "Semantic Specificity",
+    "Embedding Norms"
+  ],
+  "entities": [],
+  "patterns": [
+    "Contrastive Learning",
+    "Embedding Optimization"
+  ]
+}

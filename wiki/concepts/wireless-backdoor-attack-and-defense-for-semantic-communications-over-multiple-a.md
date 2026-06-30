@@ -1,0 +1,38 @@
+---
+title: Wireless Backdoor Attack and Defense for Semantic Communications over Multiple A
+created: 2026-06-30
+updated: 2026-06-30
+type: concept
+pillar: capabilities
+pm_score: 0.445
+tags: ["research", "capabilities"]
+sources: ["raw/papers/wireless-backdoor-attack-and-defense-for-semantic-communications-over-multiple-a.json"]
+---
+
+# Wireless Backdoor Attack and Defense for Semantic Communications over Multiple Access Channel
+
+## 中文摘要
+本文研究面向多用户语义通信（SemCom）场景的无线后门攻击与防御。语义通信旨在保留语义含义和任务导向信息，但共享接入信道引入新漏洞，攻击者可植入后门干扰多用户推理。论文分析了攻击机制，提出防御策略。对AI产品经理的启示：边缘AI与语义通信的普适性场景（如物联网、车联网）需内置安全设计，后门攻击可能影响任务可靠性。商业价值在于推动安全语义通信协议标准化，产品创新可围绕鲁棒性推理与动态防御展开。
+
+## PM 关注指标
+- 🎯 PM Score: 0.445
+- 🏷️ Pillar: capabilities
+- 🔑 Keywords: inference, training
+
+## 作者
+Yalin E. Sagduyu, Tugba Erpek, Aylin Yener, Sennur Ulukus
+
+## 摘要
+Semantic communication (SemCom) aims to preserve semantic meaning and task-oriented information beyond conventional message recovery over wireless channels. The adoption of SemCom in shared-access wireless networks introduces new vulnerabilities for multi-user semantic inference. This paper consider...
+
+## 中文摘要
+本文研究面向多用户语义通信（SemCom）场景的无线后门攻击与防御。语义通信旨在保留语义含义和任务导向信息，但共享接入信道引入新漏洞，攻击者可植入后门干扰多用户推理。论文分析了攻击机制，提出防御策略。对AI产品经理的启示：边缘AI与语义通信的普适性场景（如物联网、车联网）需内置安全设计，后门攻击可能影响任务可靠性。商业价值在于推动安全语义通信协议标准化，产品创新可围绕鲁棒性推理与动态防御展开。
+
+## 链接
+- 📄 arXiv: http://arxiv.org/abs/2606.30595v1
+
+## PM 视角解读
+> 由 Stage 2 LLM 分析后补充
+
+## 相关
+- 相关概念: TBD

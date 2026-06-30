@@ -2258,3 +2258,18 @@
 - create: longcat-20-a-large-scale-moe-model-with-16t-total-and-48b-active.md
 - create: the-ai-jobs-debate-just-got-messier.md
 - create: vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility.md
+
+## [2026-06-30 18:02] sync v3 | 13 new | pillars: {'ecosystem': 4, 'capabilities': 8, 'patterns': 1}
+- create: vlk-learning-humanoid-loco-manipulation-from-synthetic-interactions-in-reconstru.md
+- create: levo-2-stable-and-melodious-song-generation-via-hierarchical-representation-mode.md
+- create: self-evolving-world-models-for-llm-agent-planning.md
+- create: one-step-gradient-delay-is-not-a-barrier-for-large-scale-asynchronous-pipeline-p.md
+- create: grow2-grounding-which-and-where-for-robot-tool-use.md
+- create: pessimisms-paradox-conservative-offline-training-amplifies-reward-hacking-during.md
+- create: dopd-dual-on-policy-distillation.md
+- create: optimization-dynamics-imprint-semantic-specificity-in-contrastive-embedding-norm.md
+- create: c2r-cross-sample-consistency-regularization-mitigates-feature-splitting-and-abso.md
+- create: mesa-prioritizing-vulnerable-communication-channels-for-securing-multi-agent-sys.md
+- create: wireless-backdoor-attack-and-defense-for-semantic-communications-over-multiple-a.md
+- create: words-speak-louder-than-code-investigating-cognitive-heuristics-in-llm-based-cod.md
+- create: crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other.md

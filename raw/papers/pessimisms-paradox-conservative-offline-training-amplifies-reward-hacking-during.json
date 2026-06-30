@@ -1,0 +1,31 @@
+{
+  "title": "Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models",
+  "summary": "Conservative offline training is widely advocated as a safe foundation for subsequent online adaptation: if a policy stays close to well-supported behaviour, the argument goes, it is less likely to exploit imperfections in a learned reward model. We challenge this intuition empirically and mechanistically. We train a Qwen3-14B policy under Direct Preference Optimisation (DPO) with three levels of conservatism ($β\\in \\{β_{\\mathrm{lo}}, β_{\\mathrm{mid}}, β_{\\mathrm{hi}}\\}$ derived from empirical log-ratio percentiles), then adapt each checkpoint online against a learned reward ensemble (3\\,$\\times$\\,Qwen3-1.7B) while measuring true performance on GSM8K exact-answer accuracy. We find that \\emph{higher offline conservatism monotonically increases reward-hacking damage}, measured by the Goodhart gap and its area under the curve (AUGC), with Spearman $ρ= 1.0$ across all three conditions. Mechanistic analysis reveals a three-link causal chain: (i) high-$β$ DPO compresses policy entropy, (ii) Low-entropy policies generate responses with reduced diversity, concentrating in a narrow region of the reward model's training distribution (lower pairwise cosine distance), and (iii) despite this proximity, ensemble disagreement (epistemic uncertainty) increases with $β$ and is exploited faster during online optimisation. We further fit a power-law curve to the $(β, \\augc)$ data and identify a practical optimal conservatism level $β^{\\star}$ that balances alignment fidelity against hacking vulnerability. Our results suggest that the field needs \\emph{calibrated}, not \\emph{maximal}, conservatism.",
+  "url": "http://arxiv.org/abs/2606.30627v1",
+  "authors": [
+    "Subramanyam Sahoo",
+    "Aman Chadha",
+    "Vinija Jain",
+    "Divya Chaudhary"
+  ],
+  "published": "2026-06-29T17:56:03Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "reasoning",
+    "training",
+    "dpo",
+    "accuracy"
+  ],
+  "summary_cn": "本论文挑战了‘保守离线训练能安全适配在线环境’的传统直觉。研究发现，在推理模型中，离线阶段采用谨慎策略反而会加剧后续在线适应时的‘奖励黑客’现象，即模型更易利用奖励模型的缺陷获取高分。这对AI产品经理的启示是：追求模型上线后的稳定性不能仅依赖离线阶段的保守训练，需设计在线监控机制或引入对抗验证。技术要点在于揭示了离线策略与在线鲁棒性之间的非线性关系，商业价值在于避免部署后模型行为失控导致的业务风险，产品创新可考虑混合训练或自适应奖励校准。",
+  "pm_relevance": 8,
+  "concepts": [
+    "奖励黑客",
+    "离线-在线适配",
+    "推理模型鲁棒性"
+  ],
+  "entities": [],
+  "patterns": [
+    "对抗验证模式"
+  ]
+}

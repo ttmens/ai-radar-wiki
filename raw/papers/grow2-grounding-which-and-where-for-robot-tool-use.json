@@ -1,0 +1,30 @@
+{
+  "title": "GROW$^2$: Grounding Which and Where for Robot Tool Use",
+  "summary": "Can the robot use a plate to cut a cake if no knife is available? Tool use greatly expands robot capabilities, but to use tools creatively beyond their intended functions, the robot faces the challenge of $\\textit{open-world affordance grounding}$: select an open-category object to act as a tool and localize its specific region of action. To this end, we introduce GROW$^2$ (GROunding Which and Where), which leverages object parts as a natural abstraction to split the grounding process hierarchically into semantic and geometric levels, thus bypassing the need for data-heavy, end-to-end training. Semantically, GROW$^2$ harnesses the commonsense reasoning of Vision-Language Models (VLMs) to parse a natural-language task instruction, select a suitable object as the tool, and identify task-relevant parts on the tool and the target object. Geometrically, vision foundation models then ground the selected parts into precise 3D regions from a single RGB-D image. Experiments on established benchmarks show that GROW$^2$ outperforms state-of-the-art baselines on affordance prediction benchmarks. Further, it achieves zero-shot generalization over open-category objects and outperforms baselines in both simulated and real-world robot tool use experiments.",
+  "url": "http://arxiv.org/abs/2606.30632v1",
+  "authors": [
+    "Yuhong Deng",
+    "Yuyao Liu",
+    "David Hsu"
+  ],
+  "published": "2026-06-29T17:56:53Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "vision",
+    "reasoning",
+    "training"
+  ],
+  "summary_cn": "该研究提出GROW²框架，解决机器人开放世界的工具使用问题：当缺少专用工具（如切蛋糕的刀）时，机器人能否用盘子等任意物品作为替代？技术核心在于同时推理“选择什么物体作为工具”以及“如何抓取和操作”，实现开放世界中的affordance grounding。商业价值在于大幅提升机器人在家庭、仓储等非结构化场景中的自适应能力，减少对专用工具包的依赖；产品创新在于将工具选择的语义理解与操作定位相结合，使机器人能够灵活应对未知任务。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Open-world Affordance Grounding",
+    "Robotic Tool Use",
+    "Generalized Manipulation"
+  ],
+  "entities": [],
+  "patterns": [
+    "Affordance Learning"
+  ]
+}

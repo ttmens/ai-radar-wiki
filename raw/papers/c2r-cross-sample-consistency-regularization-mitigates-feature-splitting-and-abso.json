@@ -1,0 +1,31 @@
+{
+  "title": "C$^{2}$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders",
+  "summary": "Sparse Autoencoders (SAEs) are widely used to interpret large language models by decomposing activations into sparse, human-understandable features, but scaling to large dictionaries exposes fundamental challenges. Systematic studies reveal pervasive feature splitting that fragments coherent concepts into non-atomic latents and widespread feature absorption that creates arbitrary exceptions in general features, severely compromising latent reliability. These issues stem from inconsistent latent assignment across samples: without cross-sample constraints, per-sample optimization often allows a single underlying concept to be inconsistently distributed across multiple redundant or interfering latents. To address this, we introduce C$^2$R (\\underline{\\textbf{C}}ross-sample \\underline{\\textbf{C}}onsistency \\underline{\\textbf{R}}egularization). C$^2$R explicitly encourages that each semantic feature is consistently represented by a unified latent across the batch by penalizing the co-activation of directionally similar latents. Comprehensive evaluation demonstrates that C$^2$R effectively mitigates both splitting and absorption while, crucially, preserving reconstruction fidelity, providing a principled solution that enhances latent interpretability without degrading model performance. Source code is available at https://github.com/hr-jin/Cross-sample-Consistency-Regularization.",
+  "url": "http://arxiv.org/abs/2606.30609v1",
+  "authors": [
+    "Haoran Jin",
+    "Xiting Wang",
+    "Shijie Ren",
+    "Hong Xie",
+    "Defu Lian"
+  ],
+  "published": "2026-06-29T17:45:31Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "evaluation",
+    "eval",
+    "serving"
+  ],
+  "summary_cn": "本文针对稀疏自编码器（SAE）在大规模字典扩展时出现的特征分裂问题，提出跨样本一致性正则化（C$^{2}$R）方法。特征分裂会将单一概念碎片化为多个特征，降低可解释性。C$^{2}$R通过强化同一概念在不同样本间的特征一致性，有效缓解分裂与吸收现象。对AI产品经理而言，该方法提升了LLM内部表示的透明度和可控性，有助于构建更可靠、可调试的AI系统，尤其在模型安全、偏见检测和精细控制等场景具有商业价值。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Sparse Autoencoders",
+    "Feature Splitting",
+    "Cross-sample Consistency"
+  ],
+  "entities": [],
+  "patterns": [
+    "可解释性增强"
+  ]
+}

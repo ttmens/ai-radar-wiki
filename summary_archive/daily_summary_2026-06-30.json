@@ -2,18 +2,18 @@
   "daily_summary": {
     "date": "2026-06-30",
     "headline": "今日 AI 情报 · 2026-06-30",
-    "overview": "AI代理式编程走向移动化与自主化，基础设施瓶颈加速突破",
+    "overview": "AI智能体自主协作经济萌芽，基础设施瓶颈缓解",
     "narratives": [
       {
-        "title": "AI代理式编程走向移动化与自主化",
-        "body": "从Cursor移动端管理编码代理，到Ornith系列自我改进/自搭建开源模型，再到Micro-Agent内部协作，多个信号表明AI编程正在从桌面辅助工具进化为移动端可监督的自主代理。产品经理应关注如何降低开发者对本地硬件的依赖，设计移动优先的AI协作界面，并利用开源模型构建差异化竞争优势。",
+        "title": "AI智能体进入自主协作经济时代",
+        "body": "今日多项情报显示，AI智能体正从单点工具向多智能体自主协作、甚至自主经济系统演进。Cursor推出移动端监督编码智能体、OKX构建智能体市场支持互相雇佣支付、多LLM智能体群体概念以及Ornith-1.0自我改进模型，共同指向一个趋势：智能体不再只是被动响应指令，而是能自主协商、交易和迭代。对产品经理而言，这意味着需要设计智能体间的交互协议、信任机制和激励层，而不仅仅是单一对话体验。",
         "type": "paradigm_shift",
         "pillar_key": "patterns"
       },
       {
-        "title": "AI基础设施瓶颈突破：从内存到冷却，端侧与云端协同",
-        "body": "韩国巨头投资5500亿缓解内存危机，Omen AI用AI优化数据中心冷却，Apple Neural Engine等端侧硬件成熟，.self域名推动自托管。这些技术节点共同指向AI成本与能耗瓶颈的突破，为更大上下文、更低延迟、更隐私友好的产品设计打开空间。产品经理应提前规划端侧智能部署策略，并关注内存供给变化对定价模式的影响。",
-        "type": "bottleneck",
+        "title": "AI基础设施升级缓解内存瓶颈，推动更大上下文应用",
+        "body": "韩国内存巨头投资超5500亿美元扩充HBM和DDR5产能，直接回应AI大模型对内存的‘饥渴’。同时GLM-5.2成为Hugging Face最受欢迎模型，表明开源模型在规模上持续突破。这些信号显示，基础设施供给正在跟上需求，将允许产品支持更长的上下文窗口、更复杂的多轮对话和端侧部署，降低AI应用的开发门槛。",
+        "type": "maturation",
         "pillar_key": "ecosystem"
       }
     ],
@@ -21,32 +21,27 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "AI代理式编程走向移动化与自主化",
-        "insight": "AI代理式编程走向移动化与自主化。该方向的具体信号：Cursor推出移动端代理监控应用、Micro-Agent在API内部实现多代理协作、Ornith-1.0以开源方式实现自我改进与自搭建，以及Base44自研模型构建垂直壁垒，共同揭示编程代理正从桌面被动辅助进化为移动端可主动监督的协作者，产品应聚焦于提升代理自主性与人机协作的灵活性。",
+        "narrative_title": "AI智能体进入自主协作经济时代",
+        "insight": "AI智能体进入自主协作经济时代。该方向的具体信号：Cursor移动应用让开发者远程监督编码智能体，OKX构建智能体市场实现AI互相雇佣支付，Multi-LLM Agent Swarms组合开源与闭源模型形成复杂软件，Ornith-1.0自我改进编码模型降低对人工数据依赖——这些产品创新均围绕智能体的自主性、协作性和经济闭环展开。",
         "evidence": [
           {
             "id": "cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go",
-            "title": "Cursor推出移动应用远程管理编码代理",
+            "title": "Cursor now has a mobile app for guiding your coding agent on the go",
             "score": 0.48
           },
           {
-            "id": "micro-agent-beat-frontier-models-with-collaboration-inside-model-api",
-            "title": "Micro-Agent在模型API内部实现多代理协作",
-            "score": 0.33
+            "id": "crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other",
+            "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+            "score": 0.48
+          },
+          {
+            "id": "twitter_bindureddy_2071801296286605543",
+            "title": "Multi-LLM Agent Swarms - combine open and closed AI",
+            "score": 0.71
           },
           {
             "id": "ornith-10-self-improving-open-source-models-for-agentic-coding",
-            "title": "Ornith-1.0开源自改进模型用于代理编程",
-            "score": 0.48
-          },
-          {
-            "id": "ornith-10-self-scaffolding-llms-for-agentic-coding",
-            "title": "Ornith-1.0自搭建增强编码代理自主性",
-            "score": 0.33
-          },
-          {
-            "id": "vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility",
-            "title": "Base44推出自研模型构建编程平台壁垒",
+            "title": "Ornith-1.0: self-improving open-source models for agentic coding",
             "score": 0.48
           }
         ]
@@ -54,31 +49,71 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "narrative_title": "AI基础设施瓶颈突破：从内存到冷却，端侧与云端协同",
-        "insight": "AI基础设施瓶颈突破：从内存到冷却，端侧与云端协同。该方向的具体信号：韩国巨头5500亿投资缓解内存短缺、Omen AI用AI优化数据中心冷却、Apple Neural Engine与端侧视觉模型成熟，以及.self域名降低自托管门槛，表明AI基础设施正从单一云端演进为云端+端侧+去中心化的混合架构，产品经理应重新评估端侧推理能力与成本模型，并关注内存带宽对上下文窗口的约束释放。",
+        "narrative_title": "AI基础设施升级缓解内存瓶颈，推动更大上下文应用",
+        "insight": "AI基础设施升级缓解内存瓶颈，推动更大上下文应用。该方向的具体信号：南韩科技巨头承诺超5500亿美元扩建内存工厂应对‘RAMageddon’，GLM-5.2成为Hugging Face最受欢迎模型显示开源模型规模持续攀升，Runway与MIXI达成战略合作部署AI视频生成——这些事件共同表明，从芯片到模型再到应用层的生态正在协同突破容量限制。",
         "evidence": [
           {
             "id": "south-korean-tech-giants-commit-over-550b-to-ease-8216ramageddon8217",
-            "title": "韩国巨头投资5500亿缓解AI内存危机",
+            "title": "South Korean tech giants commit over $550B to ease RAMageddon",
             "score": 0.52
           },
           {
-            "id": "omen-ai8217s-plan-to-optimize-data-centers-is-all-wet",
-            "title": "Omen AI用AI优化数据中心冷却系统",
-            "score": 0.45
+            "id": "twitter__akhaliq_2071775152824545594",
+            "title": "GLM-5.2 is now @Zai_org's most-liked model on Hugging Face",
+            "score": 0.79
           },
           {
-            "id": "apple-neural-engine-architecture-programming-and-performance",
-            "title": "Apple Neural Engine架构与端侧推理性能",
-            "score": 0.38
+            "id": "twitter_runwayml_2071754645052047811",
+            "title": "Runway announces strategic partnership with MIXI",
+            "score": 0.74
           }
         ]
       }
     ],
-    "stats": "技术能力: 9 | 产品模式: 5 | 工具生态: 2 | 商业趋势: 4",
+    "stats": "技术能力: 13 | 产品模式: 4 | 工具生态: 1 | 商业趋势: 2",
     "total_items": 20,
     "high_value_count": 20,
     "all_today_ids": [
+      {
+        "id": "twitter_elonmusk_2071794940930068983",
+        "label": "https://t.co/DOKd8F3EGI"
+      },
+      {
+        "id": "twitter_elonmusk_2071792015205966208",
+        "label": "Exactly"
+      },
+      {
+        "id": "twitter_elonmusk_2071774046992109849",
+        "label": "Ford CEO Jim Farley in new interview on Chinese EV competition:\n\n\"There's no real competition from T..."
+      },
+      {
+        "id": "twitter_elonmusk_2071789793902534993",
+        "label": "They are such liars!"
+      },
+      {
+        "id": "twitter__akhaliq_2071775152824545594",
+        "label": "GLM-5.2 is now @Zai_org's most-liked model on Hugging Face of all time.\nhttps://t.co/qFgxVrzer8 http..."
+      },
+      {
+        "id": "twitter_runwayml_2071754645052047811",
+        "label": "Today, we're announcing a strategic partnership with MIXI, one of Japan's largest gaming, sports and..."
+      },
+      {
+        "id": "twitter_swyx_2071767555946188989",
+        "label": "A candid hallway track interview with the man himself - @swyx \n\nMini Podcast if you will, he's told ..."
+      },
+      {
+        "id": "twitter_swyx_2071762879876108414",
+        "label": "The @aiDotEngineer World’s Fair kicks off today in San Francisco. A lot of AI-pilled humans and huma..."
+      },
+      {
+        "id": "twitter_bindureddy_2071801296286605543",
+        "label": "🚨 Multi-LLM Agent Swarms - combine open and closed AI to build complex software using prompts\n\nopen-..."
+      },
+      {
+        "id": "twitter_runwayml_2071754647161778649",
+        "label": "Learn more: https://t.co/bxtXwmnpcD"
+      },
       {
         "id": "tidal-ai-policy",
         "label": "Tidal AI Policy"
@@ -112,6 +147,30 @@
         "label": "Arena, the AI leaderboard everyone uses, is now a $100M business"
       },
       {
+        "id": "crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other",
+        "label": "Crypto exchange OKX wants AI agents to hire and pay each other"
+      },
+      {
+        "id": "pessimisms-paradox-conservative-offline-training-amplifies-reward-hacking-during",
+        "label": "Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking Duri"
+      },
+      {
+        "id": "mesa-prioritizing-vulnerable-communication-channels-for-securing-multi-agent-sys",
+        "label": "MESA: Prioritizing Vulnerable Communication Channels for Securing Multi-Agent Sy"
+      },
+      {
+        "id": "self-evolving-world-models-for-llm-agent-planning",
+        "label": "Self-Evolving World Models for LLM Agent Planning"
+      },
+      {
+        "id": "grow2-grounding-which-and-where-for-robot-tool-use",
+        "label": "GROW$^2$: Grounding Which and Where for Robot Tool Use"
+      },
+      {
+        "id": "dopd-dual-on-policy-distillation",
+        "label": "DOPD: Dual On-policy Distillation"
+      },
+      {
         "id": "self-a-new-top-level-domain-designed-to-support-self-hosting",
         "label": ".self: A new top-level domain designed to support self-hosting"
       },
@@ -130,6 +189,26 @@
       {
         "id": "tidal-cracks-down-on-ai-music-by-cutting-off-monetization",
         "label": "TIDAL cracks down on AI music by cutting off monetization"
+      },
+      {
+        "id": "wireless-backdoor-attack-and-defense-for-semantic-communications-over-multiple-a",
+        "label": "Wireless Backdoor Attack and Defense for Semantic Communications over Multiple A"
+      },
+      {
+        "id": "vlk-learning-humanoid-loco-manipulation-from-synthetic-interactions-in-reconstru",
+        "label": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstr"
+      },
+      {
+        "id": "levo-2-stable-and-melodious-song-generation-via-hierarchical-representation-mode",
+        "label": "LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Mod"
+      },
+      {
+        "id": "c2r-cross-sample-consistency-regularization-mitigates-feature-splitting-and-abso",
+        "label": "C$^{2}$R: Cross-sample Consistency Regularization Mitigates Feature Splitting an"
+      },
+      {
+        "id": "optimization-dynamics-imprint-semantic-specificity-in-contrastive-embedding-norm",
+        "label": "Optimization Dynamics Imprint Semantic Specificity in Contrastive Embedding Norm"
       },
       {
         "id": "the-ceo-of-mullvad-is-the-main-financer-of-the-swedish-örebro-party",
@@ -160,11 +239,19 @@
         "label": "Ornith-1.0: Self-scaffolding LLMs for agentic coding"
       },
       {
+        "id": "one-step-gradient-delay-is-not-a-barrier-for-large-scale-asynchronous-pipeline-p",
+        "label": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline P"
+      },
+      {
+        "id": "words-speak-louder-than-code-investigating-cognitive-heuristics-in-llm-based-cod",
+        "label": "Words Speak Louder Than Code: Investigating Cognitive Heuristics in LLM-Based Co"
+      },
+      {
         "id": "30-year-sentence-for-transporting-zines-is-a-five-alarm-fire-for-free-speech",
         "label": "30-year sentence for transporting zines is a five-alarm fire for free speech"
       }
     ],
     "date_bj": "2026-06-30 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-06-30 12:01:52"
+    "generated_at_bj": "2026-06-30 18:02:01"
   }
 }
