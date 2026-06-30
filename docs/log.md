@@ -2273,3 +2273,12 @@
 - create: wireless-backdoor-attack-and-defense-for-semantic-communications-over-multiple-a.md
 - create: words-speak-louder-than-code-investigating-cognitive-heuristics-in-llm-based-cod.md
 - create: crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other.md
+
+## [2026-07-01 00:02] sync v3 | 7 new | pillars: {'capabilities': 3, 'ecosystem': 1, 'patterns': 3}
+- create: claude-code-is-steganographically-marking-requests.md
+- create: words-are-a-byproduct-of-consciousness-for-llms-its-backwards.md
+- create: x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use.md
+- create: podcasting-platform-riverside-enters-the-newsletter-publishing-game.md
+- create: amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic.md
+- create: lumo-proton8217s-privacy-focused-ai-chatbot-gets-an-upgrade.md
+- create: show-hn-agentic-orchestrator-a-tui-for-long-running-coding-agents.md

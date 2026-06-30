@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-06-30 | Total pages: 2065
+> Last updated: 2026-07-01 | Total pages: 2072
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -121,6 +121,7 @@
 - [[claude-ai-recovers-an-11-yrs-old-btc-wallet-holding-400k-usd.md]] Claude AI recovers an 11 yrs old BTC wallet holding 400k USD `pillar:capabilities` `score:0.48`
 - [[claude-code-and-codex-can-have-real-time-conversation-via-git.md]] Claude Code and Codex Can Have Real-Time Conversation via Git `pillar:capabilities` `score:0.515`
 - [[claude-code-everything-you-can-configure-that-the-docs-dont-tell-you.md]] Claude Code – Everything You Can Configure That the Docs Don't Tell You `pillar:capabilities` `score:0.43`
+- [[claude-code-is-steganographically-marking-requests.md]] Claude Code Is Steganographically Marking Requests `pillar:capabilities` `score:0.295`
 - [[claude-corps.md]] Claude Corps `pillar:capabilities` `score:0.355`
 - [[claude-desktop-spawns-18-gb-hyper-v-vm-on-every-launch-even-for-chat-only-use.md]] Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use `pillar:capabilities` `score:0.6`
 - [[claude-fable-5-mid-tier-results-on-coding-tasks.md]] Claude Fable 5: mid-tier results on coding tasks `pillar:capabilities` `score:0.495`
@@ -428,6 +429,7 @@
 - [[pixi8217s-new-ios-app-turns-text-messages-into-interactive-ar-experiences.md]] Pixi&#8217;s new iOS app turns text messages into interactive AR experiences `pillar:capabilities` `score:0.445`
 - [[playing-with-vision-embeddings.md]] Playing with Vision Embeddings `pillar:capabilities` `score:0.345`
 - [[please-use-ai.md]] Please Use AI `pillar:capabilities` `score:0.645`
+- [[podcasting-platform-riverside-enters-the-newsletter-publishing-game.md]] Podcasting platform Riverside enters the newsletter publishing game `pillar:capabilities` `score:0.445`
 - [[pokémon-go-scans-trained-the-navigation-tech-for-military-drones.md]] Pokémon Go Scans Trained the Navigation Tech for Military Drones `pillar:capabilities` `score:0.58`
 - [[policy-on-the-ai-exponential.md]] Policy on the AI Exponential `pillar:capabilities` `score:0.55`
 - [[political-bias-in-ai-where-the-ai-models-stand.md]] Political bias in AI: Where the AI models stand `pillar:capabilities` `score:0.465`
@@ -690,6 +692,7 @@
 - [[wirestock-raises-23m-to-supply-creative-multi-modal-data-to-ai-labs.md]] Wirestock raises $23M to supply creative multi-modal data to AI labs `pillar:capabilities` `score:0.48`
 - [[with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in.md]] With aluminum prices up 20%, recycling startups bet on AI to cash in `pillar:capabilities` `score:0.305`
 - [[wkentarolabelme.md]] wkentaro/labelme `pillar:capabilities` `score:0.58`
+- [[words-are-a-byproduct-of-consciousness-for-llms-its-backwards.md]] Words Are a Byproduct of Consciousness. For LLMs, It's Backwards `pillar:capabilities` `score:0.5`
 - [[workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration.md]] Workers are spending over 6 hours a week botsitting AI, fueling job frustration `pillar:capabilities` `score:0.55`
 - [[working-with-ai-a-concrete-example.md]] Working With AI: A concrete example `pillar:capabilities` `score:0.38`
 - [[writeup-16-bytes-of-x86-that-turn-matrix-rain-into-sound.md]] WriteUp: 16 Bytes of x86 that turn Matrix rain into sound `pillar:capabilities` `score:0.34`
@@ -1113,6 +1116,7 @@
 - [[all-my-clients-wanted-a-carousel-now-its-an-ai-c.md]] All my clients wanted a carousel, now it's an AI chatbot `pillar:patterns` `score:0.255`
 - [[amazon-is-testing-alexa-in-india-with-hindi-support.md]] Amazon is testing Alexa+ in India with Hindi support `pillar:patterns` `score:0.445`
 - [[amazon-launches-an-ai-shopping-assistant-for-the-s.md]] Amazon launches an AI shopping assistant for the search bar, powered by Alexa+ `pillar:patterns` `score:0.305`
+- [[amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic.md]] Amazon launches new $1 billion FDE org, following OpenAI and Anthropic `pillar:patterns` `score:0.515`
 - [[amazon-workers-under-pressure-to-up-their-ai-usage-are-making-up-tasks.md]] Amazon workers under pressure to up their AI usage are making up tasks `pillar:patterns` `score:0.53`
 - [[amazon8217s-new-alexa-powered-feature-can-generate-podcast-episodes.md]] Amazon&#8217;s new Alexa+ powered feature can generate podcast episodes `pillar:patterns` `score:0.48`
 - [[an-ai-coding-agent-used-to-write-code-needs-to-r.md]] An AI coding agent, used to write code, needs to reduce your maintenance costs `pillar:patterns` `score:0.205`
@@ -1232,6 +1236,7 @@
 - [[linshenkxprompt-optimizer.md]] linshenkx/prompt-optimizer `pillar:patterns` `score:0.58`
 - [[liyupiai-guide.md]] liyupi/ai-guide `pillar:patterns` `score:0.405`
 - [[lobehublobehub.md]] lobehub/lobehub `pillar:patterns` `score:0.615`
+- [[lumo-proton8217s-privacy-focused-ai-chatbot-gets-an-upgrade.md]] Lumo, Proton&#8217;s privacy-focused AI chatbot, gets an upgrade `pillar:patterns` `score:0.48`
 - [[magenta-realtime-2-open-and-local-live-music-models.md]] Magenta RealTime 2: Open and Local Live Music Models `pillar:patterns` `score:0.33`
 - [[magic-the-gathering-format-fun-40-2025.md]] Magic the Gathering format: Fun 40 (2025) `pillar:patterns` `score:0.205`
 - [[martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai.md]] Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI `pillar:patterns` `score:0.445`
@@ -1299,6 +1304,7 @@
 - [[show-hn-agent-skills-eval-test-whether-agent-sk.md]] Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs `pillar:patterns` `score:0.155`
 - [[show-hn-agentemail-sign-up-via-curl-claim-with-a-human-otp.md]] Show HN: Agent.email – sign up via curl, claim with a human OTP `pillar:patterns` `score:0.38`
 - [[show-hn-agentic-interface-for-mainframes-and-cobo.md]] Show HN: Agentic interface for mainframes and COBOL `pillar:patterns` `score:0.155`
+- [[show-hn-agentic-orchestrator-a-tui-for-long-running-coding-agents.md]] Show HN: Agentic Orchestrator, a TUI for long-running coding agents `pillar:patterns` `score:0.33`
 - [[show-hn-beacon-the-open-source-layer-for-local-ai-agent-visibility.md]] Show HN: Beacon - The open-source layer for local AI agent visibility `pillar:patterns` `score:0.295`
 - [[show-hn-bible-as-rag-database.md]] Show HN: Bible as RAG Database `pillar:patterns` `score:0.53`
 - [[show-hn-blitzgraph-supabase-for-graphs-built-for-llm-agents.md]] Show HN: BlitzGraph – Supabase for graphs, built for LLM agents `pillar:patterns` `score:0.33`
@@ -1675,6 +1681,7 @@
 - [[wikipedia-workers-in-britain-set-global-first-by-seeking-union-recognition.md]] Wikipedia Workers in Britain set global first by seeking union recognition `pillar:ecosystem` `score:0.41`
 - [[working-around-dragons-with-the-lemote-yeeloong-laptop-and-openbsd.md]] Working around dragons with the Lemote Yeeloong laptop and OpenBSD `pillar:ecosystem` `score:0.205`
 - [[world-leaders-want-american-ai-they-just-don8217t-want-america-to-be-able-to-tur.md]] World leaders want American AI. They just don&#8217;t want America to be able to `pillar:ecosystem` `score:0.48`
+- [[x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use.md]] X now offers an MCP server to make its platform easier for AI tools to use `pillar:ecosystem` `score:0.48`
 - [[zerodrift-raises-10m-to-protect-ai-models-from-themselves.md]] ZeroDrift raises $10M to protect AI models from themselves `pillar:ecosystem` `score:0.48`
 - [[a-readiness-driven-runtime-for-pipeline-parallel-training-under-runtime-variabil.md]] A Readiness-Driven Runtime for Pipeline-Parallel Training under Runtime Variabil `pillar:ecosystem` `score:0.41`
 - [[a-unified-generative-ai-framework-for-smart-energy-infrastructure-intelligent-ga.md]] A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent G `pillar:ecosystem` `score:0.395`
