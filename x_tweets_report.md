@@ -1,6 +1,6 @@
 # X/Twitter AI KOL 动态
 
-抓取时间: 2026-06-29 21:00:50
+抓取时间: 2026-06-30 09:01:48
 
 
 ## @sama (5 条)
@@ -47,29 +47,29 @@
 
 ## @ylecun (5 条)
 
-1. **Trump's Board of Peace plans to grant itself legal immunity for itself from “any arrest, detention or legal proceeding," according to a draft resolution. The draft language would also let the organiza**
+1. **A very damaged man who had the political power and the private wealth to save millions of lives but chose instead to allow suffering &amp; death. Not only that, he uses his influence to sow ethnic and**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **Putin's cannon fodder: "The average life expectancy of a new recruit—from arrival at a training ground to death in a combat zone—lies...between 10 days and 3 weeks. Once...sent onto the battlefield, R**
+2. **Musk is right that many problems can't be solved just by "throwing money" at them.  But US aid to fight AIDS, child hunger &amp; other global plagues has one of the highest ROIs in government.  The da**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **In any normal administration, the self-dealing by Trump and the officials around him would be scandalous. But Trump has normalized the corruption. https://t.co/sD9NcUAOhi**
+3. **.@elonmusk says that no one can name a person who died from his aid cuts. In fact, I've met the kids who are dying, and I've talked to the families who lost children. In my columns, I've cited many, m**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
 ## @elonmusk (5 条)
 
-1. **Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship https://t.co/FDxKX75ROE**
+1. **Try SpaceXAI Voice models in the Vercel AI Gateway**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **There are no American flags, but there are flags of many other countries.   Those whose loyalty is to another country over America are, by definition, traitors and must be expelled immediately.**
+2. **As we celebrate America's 250th birthday with @Freedom250, we're reminded that our nation's story has always been defined by people willing to take on big challenges.  @POTUS launched the Artemis prog**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **Originally USAID was a slush fund invented in 1964 during the cold war under the Johnson Doctrine. An election fund to prevent communist and Socialist regimes from the Western Hemisphere. Mainly Centr**
+3. **USAID had 64 years and $2 trillion to end world hunger.  The Left is acting like all they needed was 1 more year.  By ending USAID the funding for Communism and was drastically cut.  Less Communism di**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 

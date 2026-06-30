@@ -2253,3 +2253,8 @@
 - create: age-verification-is-just-a-precursor-to-automated-attribution-of-speech.md
 - create: knowledge-distillation-of-black-box-large-language-models-2024.md
 - create: model-training-as-code.md
+
+## [2026-06-30 12:02] sync v3 | 13 new | pillars: {'capabilities': 10, 'patterns': 3}
+- create: longcat-20-a-large-scale-moe-model-with-16t-total-and-48b-active.md
+- create: the-ai-jobs-debate-just-got-messier.md
+- create: vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility.md

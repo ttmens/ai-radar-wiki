@@ -1,0 +1,25 @@
+{
+  "title": "Show HN: Running a vision model on every screenshot on-device",
+  "score": 17,
+  "comments": 3,
+  "url": "https://github.com/ayushh0110/ScreenMind/blob/main/README.md",
+  "hn_url": "https://news.ycombinator.com/item?id=48718498",
+  "tag": "ShowHN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision"
+  ],
+  "summary_cn": "该项目展示了在设备端对每个截图实时运行视觉模型的技术方案，重点实现隐私保护（数据不出设备）与低延迟处理。通过本地化推理，无需云端传输，适合隐私敏感场景如个人助手、截图搜索。商业价值在于降低云端成本、增强用户信任，并为移动端AI应用开辟新范式。技术要点包括优化模型压缩、边缘部署及系统级截图监听。",
+  "pm_relevance": 8,
+  "concepts": [
+    "设备端AI",
+    "视觉模型",
+    "隐私保护"
+  ],
+  "entities": [
+    "ShowHN"
+  ],
+  "patterns": [
+    "Local-First AI"
+  ]
+}
