@@ -1,0 +1,23 @@
+{
+  "title": "TabFM: A zero-shot foundation model for tabular data",
+  "score": 51,
+  "comments": 6,
+  "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+  "hn_url": "https://news.ycombinator.com/item?id=48739919",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "TabFM 是一种针对表格数据的零样本基础模型，无需针对特定任务微调即可直接处理多种表格分析（如分类、回归）。其技术核心在于利用大规模异构表格预训练，学习通用表格结构语义。对产品经理而言，该模型可大幅降低企业构建表格 AI 应用的数据标注成本，加速金融、医疗、电商等场景的自动化分析落地，商业价值显著。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Zero-shot Learning",
+    "Tabular Foundation Model"
+  ],
+  "entities": [
+    "TabFM"
+  ],
+  "patterns": [
+    "Foundation Model Pattern",
+    "Zero-shot Inference"
+  ]
+}

@@ -5,13 +5,29 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 30 Jun 2026 20:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 04:00:58 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Claude Sonnet 5</title>
+      <link>https://news.ycombinator.com/item?id=48736605</link>
+      <guid isPermaLink="false">claude-sonnet-5</guid>
+      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic 发布了新一代模型 Claude Sonnet 5，在自然语言理解、长上下文处理和多模态能力上显著提升，推理速度优化约40%，同时降低了API调用成本。该模型强化了安全对齐与可解释性，支持更复杂的任务分解，适合构建高可靠性AI产品。商业上，通过性能提升与成本下降进一步降低了企业接入门槛，有望加速客服、内容生成、编程辅助等场景的落地。产品创新方面，引入了动态上下文窗口和自适应推理机制，提升了用户体验的连续性和准确性。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Claude Science</title>
+      <link>https://news.ycombinator.com/item?id=48735770</link>
+      <guid isPermaLink="false">claude-science</guid>
+      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Claude Science 是 Anthropic 推出的增强科学推理能力的产品/研究方向，旨在将 Claude 打造成科研人员的智能助手。通过深度理解科学文献、实验数据和复杂逻辑，它能够辅助文献综述、假设生成、实验设计及结果分析。该产品体现了 AI 在垂直科学领域的专业化趋势，有望加速科研进程并降低跨学科协作门槛。其核心创新在于将大语言模型与科学方法论结合，提供可验证的推理链。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>Amazon launches new $1 billion FDE org, following OpenAI and Anthropic</title>
       <link>https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/</link>
@@ -26,6 +42,14 @@
       <guid isPermaLink="false">words-are-a-byproduct-of-consciousness-for-llms-its-backwards</guid>
       <pubDate>2026-07-01T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章标题指出语言是人类意识的副产品，但大语言模型（LLM）的运行方向恰好相反——它们从文本统计中学习模式，而非具备内在意识。对AI产品经理而言，这揭示了LLM在理解、推理和常识方面的根本局限：模型缺乏对世界真实意义的感知，仅通过词语关联生成回复。商业价值上，这提醒我们在依赖LLM构建产品时需谨慎处理幻觉、上下文一致性等问题，不能将其视为具备人类意识水平的智能体。产品创新启示包括结合符号推理、知识图谱或外部验证机制来弥补意识缺失导致的不稳定性。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Google introduces a faster, cheaper image generator with Nano Banana 2 Lite</title>
+      <link>https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/</link>
+      <guid isPermaLink="false">google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite</guid>
+      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google 推出升级版图像生成模型 Nano Banana 2 Lite，主打更快速度与更低成本，旨在降低创作者使用 AI 内容生成的门槛。该模型通过架构优化与蒸馏技术实现推理效率提升，同时保持输出质量，适合批量生成、实时编辑等高频场景。商业价值在于减少算力开销，使中小型团队也能集成高质量图像生成功能。产品创新方面，轻量化设计便于部署在移动端或边缘设备，可能开启更多实时互动式创作体验。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -45,6 +69,38 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>Anthropic’s Claude Science bets on workflow, not a new model, to win over scient</title>
+      <link>https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/</link>
+      <guid isPermaLink="false">anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientist</guid>
+      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Anthropic 推出 Claude Science 工作台，专为科学家设计，提供统一环境完成计算研究，避免在不同数据库、流程和工具间切换。它不依赖新模型，而是通过工作流整合提升效率，降低学者使用AI的门槛，体现了产品创新与商业价值。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Acti puts AI agents directly into your smartphone keyboard</title>
+      <link>https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/</link>
+      <guid isPermaLink="false">acti-puts-ai-agents-directly-into-your-smartphone-keyboard</guid>
+      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Acti 将 AI 代理直接嵌入智能手机键盘（iOS/Android），使其能跨应用执行操作。用户通过自然语言即可创建自定义快捷方式，例如“发送上次会议摘要给团队”等，无需切换上下文。这一设计将键盘从输入工具升级为 AI 交互入口，显著降低 AI 使用门槛，并解决传统 AI 助手“需打开特定应用”的痛点。对于产品经理而言，键盘作为高频交互场景，具备高用户粘性和低学习成本，可衍生出自动化工作流、智能回复、信息检索等场景，是 AI Agent 落地的创新模式。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>The DeepMind trio who built a poker AI are now making money for quant hedge fund</title>
+      <link>https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/</link>
+      <guid isPermaLink="false">the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-fund</guid>
+      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>三位前DeepMind研究员在布拉格创立EquiLibre Technologies，基于扑克AI技术（博弈论与强化学习）为量化对冲基金开发交易策略，公司估值超5亿美元。该案例展示了游戏AI能力向金融领域的成功迁移，核心价值在于将非完整信息博弈的求解方法应用于金融市场预测与决策，实现稳定盈利。对AI产品经理而言，启示是横向跨领域应用现有AI技术可创造高商业回报，同时需关注特定场景的工程优化与风险控制。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip</title>
+      <link>https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/</link>
+      <guid isPermaLink="false">nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip</guid>
+      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>AI芯片初创公司Etched宣布已签订10亿美元合同，用于其专用推理芯片驱动的系统，公司估值达50亿美元，成为英伟达（Nvidia）的有力竞争者。其芯片专为大模型推理场景优化，相比通用GPU能效和成本优势显著，这预示着AI底层硬件正从训练向推理侧分化。对AI产品经理而言，推理芯片的商用化将直接降低大模型部署成本、提升响应速度，推动更多实时AI应用落地，并可影响技术选型和商业模式设计。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Podcasting platform Riverside enters the newsletter publishing game</title>
       <link>https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/</link>
       <guid isPermaLink="false">podcasting-platform-riverside-enters-the-newsletter-publishing-game</guid>
@@ -53,11 +109,35 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>OpenClaw is finally available on Android and iOS</title>
+      <link>https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/</link>
+      <guid isPermaLink="false">openclaw-is-finally-available-on-android-and-ios</guid>
+      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenClaw 是一款免费开源的自主代理程序，现已登陆 Android 和 iOS 平台，标志着移动端智能体时代的到来。该程序能够自主执行复杂任务，提供类似桌面端的自动化能力，且完全开源。对于产品经理而言，这意味着用户可以在手机上拥有一个本地运行的、可定制的 AI 智能助理，无需依赖云端，从而降低延迟并增强隐私。OpenClaw 的移动化将推动智能体模式向个人终端渗透，可能催生新的交互范式，如基于语音或触发的自动化工作流，为 C 端应用和 B 端移动办公场景带来创新机遇。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Claude Sonnet 5 – benchmark results</title>
+      <link>https://news.ycombinator.com/item?id=48738528</link>
+      <guid isPermaLink="false">claude-sonnet-5-benchmark-results</guid>
+      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic 发布 Claude Sonnet 5 的基准测试结果，显示其在推理、代码生成和多轮对话等核心能力上相比前代显著提升，部分指标已接近或超越 GPT-4o。该模型在保持高效推理速度的同时，降低了幻觉率，增强了长上下文处理的稳定性。对产品经理而言，Claude Sonnet 5 可作为高性价比的智能助手后端，适用于复杂任务自动化、客服系统和内容生成等场景，有望降低企业部署成本并提升用户体验。Anthropic 通过持续优化模型架构与训练策略，进一步巩固其在安全对齐方面的差异化优势。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Show HN: Agentic Orchestrator, a TUI for long-running coding agents</title>
       <link>https://github.com/doordash-oss/agentic-orchestrator</link>
       <guid isPermaLink="false">show-hn-agentic-orchestrator-a-tui-for-long-running-coding-agents</guid>
       <pubDate>2026-07-01T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Agentic Orchestrator 是一个为长时间运行的编码智能体设计的终端用户界面（TUI）。它通过图形化的方式管理和监控多个 AI 编码智能体的执行过程，支持任务编排、状态追踪和实时反馈。该工具解决了传统 CLI 中智能体生命周期管理不便的问题，提升了开发者在复杂代码生成或重构场景下的控制力。其商业价值在于降低智能体开发的门槛，适用于自动化代码审查、持续集成等场景，体现了“人机协作”在产品层面的创新。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Anthropic launches Claude Sonnet 5 as a cheaper way to run agents</title>
+      <link>https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/</link>
+      <guid isPermaLink="false">anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents</guid>
+      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.</p></description>
       <category>📱 产品模式</category>
     </item>
     <item>
@@ -218,11 +298,172 @@ https://t.co/xOUMi4zxpD</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>We're coming out of stealth.
+
+We've built our first racks after a successful A0 tapeout, $1B+ in cus...</title>
+      <link>https://x.com/karpathy/status/2071972062202343590</link>
+      <guid isPermaLink="false">twitter_karpathy_2071972062202343590</guid>
+      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>We're coming out of stealth.
+
+We've built our first racks after a successful A0 tapeout, $1B+ in customer contracts, and $800m raised.
+
+Early customer tests show us achieving SOTA throughput, latency, and power efficiency on inference workloads.
+
+Our first racks ship this summer. https://t.co/FLccrk</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>The discussion about @elonmusk's comments on humanitarian aid has mostly focused on our values, whic...</title>
+      <link>https://x.com/ylecun/status/2071953672255443102</link>
+      <guid isPermaLink="false">twitter_ylecun_2071953672255443102</guid>
+      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>The discussion about @elonmusk's comments on humanitarian aid has mostly focused on our values, which seems right. But note that USAID served our interests as well as our values, by protecting us from diseases like the Ebola outbreak now ravaging Congo.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>“Loop engineering” is a hot buzzphrase after mentions of it by Boris Cherny (Claude Code’s creator) ...</title>
+      <link>https://x.com/AndrewYNg/status/2071988145667928442</link>
+      <guid isPermaLink="false">twitter_AndrewYNg_2071988145667928442</guid>
+      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>“Loop engineering” is a hot buzzphrase after mentions of it by Boris Cherny (Claude Code’s creator) and Peter Steinberger (OpenClaw's creator) went viral on social media. Loops are now a key part of how we get AI agents to iterate at length to build software. In this letter, I’d like to share my 3 k</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>My grandfather, communism, and the tremor that never left. A story I rarely share.
+
+He was the princ...</title>
+      <link>https://x.com/elonmusk/status/2071937953887060195</link>
+      <guid isPermaLink="false">twitter_elonmusk_2071937953887060195</guid>
+      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>My grandfather, communism, and the tremor that never left. A story I rarely share.
+
+He was the principal of a private school; respected, steady, a man who believed in books and order. Then, one ordinary afternoon, his world ended.
+
+A squad of communist troops stormed on to campus grounds. They herde</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>NEW: @FreeBeacon has the receipts on Ro Khanna’s obscene, oligarchic wealth:
+
+—his 2 kids (under 10y...</title>
+      <link>https://x.com/elonmusk/status/2071957332922130772</link>
+      <guid isPermaLink="false">twitter_elonmusk_2071957332922130772</guid>
+      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>NEW: @FreeBeacon has the receipts on Ro Khanna’s obscene, oligarchic wealth:
+
+—his 2 kids (under 10yrs old) own 3 private golf courses in Ohio (not kidding)
+
+—his wife drives a $190,000 luxury Range Rover
+
+—his house has a 4-story indoor elevator
+
+And more:https://t.co/Bk6nS7WRwT</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>SpaceXAI has become a major force for good in Memphis and surrounding communities.
+
+• SpaceXAI’s exp...</title>
+      <link>https://x.com/elonmusk/status/2072029549857231062</link>
+      <guid isPermaLink="false">twitter_elonmusk_2072029549857231062</guid>
+      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>SpaceXAI has become a major force for good in Memphis and surrounding communities.
+
+• SpaceXAI’s expansion is projected to push local tax revenue above $100 million
+
+• Employs almost 3,000 people locally in Memphis
+
+• The Musk Foundation donated $350,000 to Boys &amp; Girls Clubs of Greater Memphis
+
+• H</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>The media bias against Elon is absolutely insane
+
+They don’t report on him
+They hunt for ways to mak...</title>
+      <link>https://x.com/elonmusk/status/2071993098641756518</link>
+      <guid isPermaLink="false">twitter_elonmusk_2071993098641756518</guid>
+      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>The media bias against Elon is absolutely insane
+
+They don’t report on him
+They hunt for ways to make him look evil
+Is it a lie? Doesn’t matter
+Is there proof? Still doesn’t matter
+
+They will lie, twist, exaggerate, or straight-up fabricate stories just to paint him as the villain… and they go to le</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Introducing Nano Banana 2 Lite 🍌 and Gemini Omni Flash 🔮, our new generative media models in the Gem...</title>
+      <link>https://x.com/sundarpichai/status/2071988351083921690</link>
+      <guid isPermaLink="false">twitter_sundarpichai_2071988351083921690</guid>
+      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Introducing Nano Banana 2 Lite 🍌 and Gemini Omni Flash 🔮, our new generative media models in the Gemini API and AI Studio!
+
+Nano Banana 2 Lite is extremely fast (&amp;lt;4s image) &amp;amp; cheap ($0.034 / 1K image).
+
+Omni Flash is SOTA at video editing at $0.10 / sec, same as Veo 3.1 Fast! https://t.co/qDx</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how we...</title>
+      <link>https://x.com/OpenAI/status/2072004836674167294</link>
+      <guid isPermaLink="false">twitter_OpenAI_2072004836674167294</guid>
+      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how well agents can navigate messy biological data, choose the right analysis path, and make judgment calls that real computational research depends on.
+https://t.co/AsilnnSxnE</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Introducing Claude Sonnet 5, our most agentic Sonnet yet.
+
+It makes plans, uses tools like browsers ...</title>
+      <link>https://x.com/AnthropicAI/status/2072017450611142835</link>
+      <guid isPermaLink="false">twitter_AnthropicAI_2072017450611142835</guid>
+      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Introducing Claude Sonnet 5, our most agentic Sonnet yet.
+
+It makes plans, uses tools like browsers and terminals, and runs autonomously at a level that just a few months ago required larger and more expensive models. https://t.co/UKK8G7ww5h</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>FYI: you are 8 times more likely to die of diarrhea in India than you are of being killed by a gun i...</title>
+      <link>https://x.com/JohnNosta/status/2071929751267377241</link>
+      <guid isPermaLink="false">twitter_JohnNosta_2071929751267377241</guid>
+      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>FYI: you are 8 times more likely to die of diarrhea in India than you are of being killed by a gun in America https://t.co/iM5tTyfJCc</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>We’re shipping 2 major releases: 
+🔘 Nano Banana 2 Lite: our fastest and cheapest Gemini Image model
+...</title>
+      <link>https://x.com/GoogleDeepMind/status/2071988044878516466</link>
+      <guid isPermaLink="false">twitter_GoogleDeepMind_2071988044878516466</guid>
+      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.9/10</p><p><strong>类型:</strong> tweet</p><hr/><p>We’re shipping 2 major releases: 
+🔘 Nano Banana 2 Lite: our fastest and cheapest Gemini Image model
+🔘 Gemini Omni Flash: now available via the Gemini API and in @GoogleAIStudio to help developers generate and edit high-quality videos.</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
       <title>They’re letting me keynote at this conference for some reason https://t.co/mrlT3D8EJv</title>
       <link>https://x.com/swyx/status/2071758854250283210</link>
       <guid isPermaLink="false">twitter_swyx_2071758854250283210</guid>
       <pubDate>2026-06-30T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.8/10</p><p><strong>类型:</strong> tweet</p><hr/><p>They’re letting me keynote at this conference for some reason https://t.co/mrlT3D8EJv</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Today, we give robots a /skills library that self-evolves and compounds indefinitely! Introducing AS...</title>
+      <link>https://x.com/DrJimFan/status/2072004190856212902</link>
+      <guid isPermaLink="false">twitter_DrJimFan_2072004190856212902</guid>
+      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.8/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Today, we give robots a /skills library that self-evolves and compounds indefinitely! Introducing ASPIRE: a robot solving its 100th task is no longer as clueless as solving its first. Coding agents observe multimodal sensory traces from simulation and real robots, launch an evolutionary search over </p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -274,289 +515,6 @@ The other chinese models aren't good enough... So yeah, we are still dependent o
       <pubDate>2026-06-30T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Today, we're announcing a strategic partnership with MIXI, one of Japan's largest gaming, sports and entertainment companies. MIXI will be deploying Runway across their organization, and we'll work together to explore emerging applications for world models across gaming, animation and interactive ex</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>A candid hallway track interview with the man himself - @swyx 
-
-Mini Podcast if you will, he's told ...</title>
-      <link>https://x.com/swyx/status/2071767555946188989</link>
-      <guid isPermaLink="false">twitter_swyx_2071767555946188989</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>A candid hallway track interview with the man himself - @swyx 
-
-Mini Podcast if you will, he's told me about a huge milestone tomorrow, things that have surprised him about @aiDotEngineer and ... a few things on the personal side! 
-
-0:00 — Daily Context AIE Newsletter
-0:47 — @aiDotEngineer Growth
-1:</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>LongCat-2.0 dropping on Hugging Face soon https://t.co/4ULnY0vHZ3</title>
-      <link>https://x.com/_akhaliq/status/2071806680958967874</link>
-      <guid isPermaLink="false">twitter__akhaliq_2071806680958967874</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>LongCat-2.0 dropping on Hugging Face soon https://t.co/4ULnY0vHZ3</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>The @aiDotEngineer World’s Fair kicks off today in San Francisco. A lot of AI-pilled humans and huma...</title>
-      <link>https://x.com/swyx/status/2071762879876108414</link>
-      <guid isPermaLink="false">twitter_swyx_2071762879876108414</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>The @aiDotEngineer World’s Fair kicks off today in San Francisco. A lot of AI-pilled humans and human-controlled robots in action already! (btw this is @ricmac &amp;amp; I’ll be tweeting and blogging from AIEWF on Latent Space over the next several days, on behalf of @swyx) https://t.co/fVOzTp46Oz</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>🚨 Multi-LLM Agent Swarms - combine open and closed AI to build complex software using prompts
-
-open-...</title>
-      <link>https://x.com/bindureddy/status/2071801296286605543</link>
-      <guid isPermaLink="false">twitter_bindureddy_2071801296286605543</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>🚨 Multi-LLM Agent Swarms - combine open and closed AI to build complex software using prompts
-
-open-source AI model can't handle long conversations but are great worker agents.
-
-With Agent Swarms you can
-- route to the best LLM based on prompt
-- opus 4.8 and GPT 5.5. xHigh as planning agents
-- deeps</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Thrilled to announce the Wearable AI Workshop at ECCV 2026 🎉 that we're organizing with an awesome g...</title>
-      <link>https://x.com/ylecun/status/2071818340675584198</link>
-      <guid isPermaLink="false">twitter_ylecun_2071818340675584198</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Thrilled to announce the Wearable AI Workshop at ECCV 2026 🎉 that we're organizing with an awesome group of folks across Meta Reality Labs, AMI Labs, HKUST, Georgia Tech, UCF, and U. of Edinburgh. If you work on egocentric perception, multimodal assistants, or long-form video understanding, definite</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>grats to @swyx 99% of my timeline is @aiDotEngineer now.</title>
-      <link>https://x.com/swyx/status/2071862999363568115</link>
-      <guid isPermaLink="false">twitter_swyx_2071862999363568115</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>grats to @swyx 99% of my timeline is @aiDotEngineer now.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>great vibes at SFMOMA Speakers Dinner today!
-
-if you’re at @aiDotEngineer, come join my talk on Thur...</title>
-      <link>https://x.com/swyx/status/2071843974521012648</link>
-      <guid isPermaLink="false">twitter_swyx_2071843974521012648</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>great vibes at SFMOMA Speakers Dinner today!
-
-if you’re at @aiDotEngineer, come join my talk on Thursday at 11:40. see you there! https://t.co/N8akIGEifI</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>The last major keyboard moment was in 2007,
-when Apple put the keyboard on glass.
-
-Nearly 20 years l...</title>
-      <link>https://x.com/_akhaliq/status/2071964331261272332</link>
-      <guid isPermaLink="false">twitter__akhaliq_2071964331261272332</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>The last major keyboard moment was in 2007,
-when Apple put the keyboard on glass.
-
-Nearly 20 years later, we're introducing:
-Acti @openacti1, the Agentic Keyboard.
-
-Not another AI keyboard that fixes grammar.
-Not another voice keyboard that types faster.
-
-An invisible agent in every text field.
-
-It </p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Learn more: https://t.co/bxtXwmnpcD</title>
-      <link>https://x.com/runwayml/status/2071754647161778649</link>
-      <guid isPermaLink="false">twitter_runwayml_2071754647161778649</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Learn more: https://t.co/bxtXwmnpcD</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>okay but did you see @charles_irl and @swyx bringing the vibes today 💫 https://t.co/xvkPs1ChPR</title>
-      <link>https://x.com/swyx/status/2071846409905774952</link>
-      <guid isPermaLink="false">twitter_swyx_2071846409905774952</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>okay but did you see @charles_irl and @swyx bringing the vibes today 💫 https://t.co/xvkPs1ChPR</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>https://t.co/d94szmiwOl</title>
-      <link>https://x.com/_akhaliq/status/2071806715029283152</link>
-      <guid isPermaLink="false">twitter__akhaliq_2071806715029283152</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>https://t.co/d94szmiwOl</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>A gallery video installation, squeezed onto a $15 Orange Pi Zero. This dev shares the audio and CSS ...</title>
-      <link>https://x.com/ThePracticalDev/status/2071875387227820421</link>
-      <guid isPermaLink="false">twitter_ThePracticalDev_2071875387227820421</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>A gallery video installation, squeezed onto a $15 Orange Pi Zero. This dev shares the audio and CSS tricks behind it.
-
-{ author: @DynamicWebPaige + @GoogleAI }
-
-https://t.co/gqe2QQsgKx</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>87 kids, ages 8 to 16, coded games and wired Arduino sensors at AI Engineering Kids Day in SF. One t...</title>
-      <link>https://x.com/ThePracticalDev/status/2071809955481427988</link>
-      <guid isPermaLink="false">twitter_ThePracticalDev_2071809955481427988</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>87 kids, ages 8 to 16, coded games and wired Arduino sensors at AI Engineering Kids Day in SF. One teacher's tip: make tech fun, skip the syntax.
-
-{ author: @iainthomson }
-
-https://t.co/2zznQgvfdI</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Vercel Services gives your full stack app atomic deployment and rollback, a single preview URL, and ...</title>
-      <link>https://x.com/vercel/status/2071951670058324353</link>
-      <guid isPermaLink="false">twitter_vercel_2071951670058324353</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Vercel Services gives your full stack app atomic deployment and rollback, a single preview URL, and a private network between services.
-
-One Vercel project for your entire application ↓
-https://t.co/JbxWFIFeqe</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Every single day, GPT 5.6 is not generally available the US loses the AI race 
-
-Already my timeline ...</title>
-      <link>https://x.com/bindureddy/status/2071945874398433319</link>
-      <guid isPermaLink="false">twitter_bindureddy_2071945874398433319</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Every single day, GPT 5.6 is not generally available the US loses the AI race 
-
-Already my timeline is full of Chinese models 
-
-Two more weeks of this and it may just be all over 😳</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>【採用情報】Product Designerのポジションをオープンしました🐟
-
-https://t.co/v5dUlw3HHP
-
-Sakana Chat🐟・Marlin🐬・Fugu🐡をはじめとした、プ...</title>
-      <link>https://x.com/hardmaru/status/2071908377694011706</link>
-      <guid isPermaLink="false">twitter_hardmaru_2071908377694011706</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>【採用情報】Product Designerのポジションをオープンしました🐟
-
-https://t.co/v5dUlw3HHP
-
-Sakana Chat🐟・Marlin🐬・Fugu🐡をはじめとした、プロダクトの体験をリードするProduct Designerを募集しています。
-
-このような役割を担っていただきます。
-・コンセプト設計からUI、プロトタイプ、 ブランディングまで一気通貫でリードする
-・エンジニアやリサーチャーと協働したプロダクト方向性の意思決定する
-・Sakana AIならではのプロダクト体験のビジョンを構想する
-
-グローバルに利用されるプロダクトづくりに挑戦したい方、ぜひご応募</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Microsoft just released a new GUI agent on Hugging Face
-
-Sico-Evolution jumps from 39.8% to 82.9% Ta...</title>
-      <link>https://x.com/_akhaliq/status/2071951218889339131</link>
-      <guid isPermaLink="false">twitter__akhaliq_2071951218889339131</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Microsoft just released a new GUI agent on Hugging Face
-
-Sico-Evolution jumps from 39.8% to 82.9% Task Success Rate
-
-Outperforming GPT-5.4, Claude Opus 4.6, and Claude Opus 4.7
-
-All from a 4B parameter model https://t.co/UNSCLF8VPT</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>You can now use 100s of tools with @huggingface Buckets, thanks to the new S3 API! 
-
-Usually just on...</title>
-      <link>https://x.com/huggingface/status/2071919131058712878</link>
-      <guid isPermaLink="false">twitter_huggingface_2071919131058712878</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>You can now use 100s of tools with @huggingface Buckets, thanks to the new S3 API! 
-
-Usually just one or two lines to change. https://t.co/V6PPIoWlh7</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>S3-clients + Hugging Face Buckets = 💥
-
-You can now query and write directly to HF Storage Buckets vi...</title>
-      <link>https://x.com/huggingface/status/2071912404603015169</link>
-      <guid isPermaLink="false">twitter_huggingface_2071912404603015169</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>S3-clients + Hugging Face Buckets = 💥
-
-You can now query and write directly to HF Storage Buckets via the S3-compatible API
-
-Just one secret. Done. 🚀 https://t.co/id0DaVJkSS</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>We're excited to be sponsoring and co-organizing IOL-AI 2026, a new open challenge with the Internat...</title>
-      <link>https://x.com/cohere/status/2071951828028104795</link>
-      <guid isPermaLink="false">twitter_cohere_2071951828028104795</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>We're excited to be sponsoring and co-organizing IOL-AI 2026, a new open challenge with the International Linguistics Olympiad @IOLing_official.🌎💬
-
-🌐 Open-science
-🗓️ One-month competition
-🎯 Targeting AI reasoning with challenging, unseen test problems from the 2026 olympiad. https://t.co/jzJcXLRtVI</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Special new @latentspacepod live recording added to the Expo schedule on Thursday, with @swyx and @r...</title>
-      <link>https://x.com/swyx/status/2071977615771275776</link>
-      <guid isPermaLink="false">twitter_swyx_2071977615771275776</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Special new @latentspacepod live recording added to the Expo schedule on Thursday, with @swyx and @robertwachen alongside his Inference track appearance!
-
-congrats to Etched on a massive milestone!</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>We built a Supabase integration for OpenCode and tested it inside Minecraft. The agent created a tab...</title>
-      <link>https://x.com/supabase/status/2071979654420844629</link>
-      <guid isPermaLink="false">twitter_supabase_2071979654420844629</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>We built a Supabase integration for OpenCode and tested it inside Minecraft. The agent created a table, populated it with data, and deployed an Edge Function without ever leaving a survival world.
-
-Nobody touch the dirt house. 🧱
-
-👉 https://t.co/Tg13B6NiP9 https://t.co/fDVS30xtJ7</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>You can now use 100s of tools with @huggingface Buckets, thanks to the new S3 API! 
-
-Usually just on...</title>
-      <link>https://x.com/_akhaliq/status/2071919131058712878</link>
-      <guid isPermaLink="false">twitter__akhaliq_2071919131058712878</guid>
-      <pubDate>2026-06-30T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>You can now use 100s of tools with @huggingface Buckets, thanks to the new S3 API! 
-
-Usually just one or two lines to change. https://t.co/V6PPIoWlh7</p></description>
-      <category>📱 产品模式</category>
     </item>
   </channel>
 </rss>

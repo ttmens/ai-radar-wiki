@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-01 | Total pages: 2082
+> Last updated: 2026-07-01 | Total pages: 2089
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -174,6 +174,7 @@
 - [[deezerspleeter.md]] deezer/spleeter `pillar:capabilities` `score:0.58`
 - [[deficient-executive-control-in-transformer-attention.md]] Deficient executive control in transformer attention `pillar:capabilities` `score:0.295`
 - [[demand-is-booming-for-new-no-tech-repairable-tractor.md]] Demand Is Booming for New No Tech, Repairable Tractor `pillar:capabilities` `score:0.31`
+- [[department-of-commerce-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.md]] Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5 `pillar:capabilities` `score:0.425`
 - [[designing-a-personal-pebble-watchface.md]] Designing a Personal Pebble Watchface `pillar:capabilities` `score:0.295`
 - [[details-of-the-daring-airdrop-at-tristan-da-cunha.md]] Details of the Daring Airdrop at Tristan Da Cunha `pillar:capabilities` `score:0.305`
 - [[did-claude-increase-bugs-in-rsync.md]] Did Claude increase bugs in rsync? `pillar:capabilities` `score:0.63`
@@ -213,6 +214,7 @@
 - [[ford-rehires-gray-beard-engineers-after-ai-falls-short.md]] Ford rehires ‘gray beard’ engineers after AI falls short `pillar:capabilities` `score:0.48`
 - [[forever-young-how-one-molecule-can-lock-plants-in-a-youthful-state-2025.md]] Forever Young: how one molecule can lock plants in a youthful state (2025) `pillar:capabilities` `score:0.27`
 - [[formal-verification-gates-for-ai-coding-loops.md]] Formal Verification Gates for AI Coding Loops `pillar:capabilities` `score:0.43`
+- [[from-brain-waves-to-words-a-new-path-to-communication-without-surgery.md]] From brain waves to words: a new path to communication without surgery `pillar:capabilities` `score:0.565`
 - [[frontier-ai-has-broken-the-open-ctf-format.md]] Frontier AI has broken the open CTF format `pillar:capabilities` `score:0.55`
 - [[futo-swipe-a-new-swipe-typing-model.md]] FUTO Swipe – A new swipe typing model `pillar:capabilities` `score:0.41`
 - [[gaining-control-of-every-projector-and-camera-on-campus.md]] Gaining control of every projector and camera on campus `pillar:capabilities` `score:0.43`
@@ -582,6 +584,7 @@
 - [[strace-ui-bonsai_term-and-the-tui-renaissance.md]] Strace-ui, Bonsai_term, and the TUI renaissance `pillar:capabilities` `score:0.345`
 - [[stress-disrupts-hippocampal-integration-of-overlapping-events-memory-inference.md]] Stress disrupts hippocampal integration of overlapping events, memory inference `pillar:capabilities` `score:0.345`
 - [[supabasesupabase.md]] supabase/supabase `pillar:capabilities` `score:0.58`
+- [[tabfm-a-zero-shot-foundation-model-for-tabular-data.md]] TabFM: A zero-shot foundation model for tabular data `pillar:capabilities` `score:0.38`
 - [[tailwind-and-slop-apps.md]] Tailwind and slop apps `pillar:capabilities` `score:0.36`
 - [[task-failed-successfully-saturating-nic-and-disk-bandwidth.md]] Task Failed Successfully: Saturating NIC and Disk Bandwidth `pillar:capabilities` `score:0.26`
 - [[techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive.md]] TechCrunch Mobility: The AI skills arms race is coming for automotive `pillar:capabilities` `score:0.445`
@@ -1625,6 +1628,7 @@
 - [[show-hn-explore-color-palettes-inspired-by-3000-m.md]] Show HN: Explore color palettes inspired by 3000 master painter artworks `pillar:ecosystem` `score:0.45`
 - [[show-hn-gentleos-a-pair-of-hobby-oses-for-vintage-32-bit-and-16-bit-pcs.md]] Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs `pillar:ecosystem` `score:0.27`
 - [[show-hn-gitdot-a-better-github-open-source-anti-ai-and-written-in-rust.md]] Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust `pillar:ecosystem` `score:0.305`
+- [[show-hn-i-made-a-heatmap-of-3400-vcs-who-are-open-to-cold-emails.md]] Show HN: I made a heatmap of 3400 VCs who are open to cold emails `pillar:ecosystem` `score:0.345`
 - [[show-hn-insforge-open-source-heroku-for-coding-agents.md]] Show HN: InsForge – Open-source Heroku for coding agents `pillar:ecosystem` `score:0.295`
 - [[show-hn-macos-menu-bar-gauges-for-your-claude-code-quota.md]] Show HN: macOS menu bar gauges for your Claude Code quota `pillar:ecosystem` `score:0.31`
 - [[show-hn-oak-git-alternative-designed-for-agents.md]] Show HN: Oak – Git alternative designed for agents `pillar:ecosystem` `score:0.515`
@@ -1654,6 +1658,7 @@
 - [[tensorzerotensorzero.md]] tensorzero/tensorzero `pillar:ecosystem` `score:0.615`
 - [[tesseract-ocrtesseract.md]] tesseract-ocr/tesseract `pillar:ecosystem` `score:0.58`
 - [[texas-grid-flags-risks-as-data-centers-crypto-sites-fail-voltage-tests.md]] Texas grid flags risks as data centers, crypto sites fail voltage tests `pillar:ecosystem` `score:0.345`
+- [[the-8220father-of-the-internet8221-is-finally-retiring.md]] The &#8220;Father of the Internet&#8221; is finally retiring `pillar:ecosystem` `score:0.375`
 - [[the-american-rebellion-against-ai-is-gaining-steam.md]] The American Rebellion Against AI Is Gaining Steam `pillar:ecosystem` `score:0.41`
 - [[the-australian-government-to-require-smsmms-sender-id-registraion.md]] The Australian Government to Require SMS/MMS Sender ID Registraion `pillar:ecosystem` `score:0.375`
 - [[the-ceo-of-mullvad-is-the-main-financer-of-the-swedish-örebro-party.md]] The CEO of Mullvad is the main financer of the Swedish Örebro party `pillar:ecosystem` `score:0.385`
@@ -1672,6 +1677,7 @@
 - [[tracel-aiburn.md]] tracel-ai/burn `pillar:ecosystem` `score:0.58`
 - [[trials-on-veterans-suggest-ibogaine-could-provide-a-new-treatment-for-ptsd.md]] Trials on veterans suggest ibogaine could provide a new treatment for PTSD `pillar:ecosystem` `score:0.27`
 - [[trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-a.md]] Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, `pillar:ecosystem` `score:0.48`
+- [[trump-drops-restrictions-on-anthropic8217s-mythos-and-fable-models.md]] Trump drops restrictions on Anthropic&#8217;s Mythos and Fable models `pillar:ecosystem` `score:0.445`
 - [[trump-signs-downsized-ai-order-after-weeks-of-reversals.md]] Trump signs downsized AI order after weeks of reversals `pillar:ecosystem` `score:0.495`
 - [[trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections.md]] Trump signs narrower executive order on AI oversight after industry objections `pillar:ecosystem` `score:0.41`
 - [[universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music.md]] Universal Music Group and TikTok renew agreement to combat unauthorized AI music `pillar:ecosystem` `score:0.48`
@@ -2020,6 +2026,7 @@
 - [[warner-music-acquires-ai-attribution-startup-sureel-ai.md]] Warner Music acquires AI attribution startup Sureel AI `pillar:business` `score:0.48`
 - [[wasmedgewasmedge.md]] WasmEdge/WasmEdge `pillar:business` `score:0.405`
 - [[water-access-is-now-a-risk-factor-in-spacex8217s-ipo.md]] Water access is now a risk factor in SpaceX&#8217;s IPO `pillar:business` `score:0.48`
+- [[wayve-launches-85m-employee-tender-offer-at-85b-valuation.md]] Wayve launches $85M employee tender offer at $8.5B valuation `pillar:business` `score:0.41`
 - [[were-feeling-cynical-about-xais-big-deal-with-an.md]] We’re feeling cynical about xAI’s big deal with Anthropic `pillar:business` `score:0.305`
 - [[what-a-japanese-cooking-principle-taught-me-about.md]] What a Japanese cooking principle taught me about overcoming AI fatigue `pillar:business` `score:0.155`
 - [[what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman.md]] What the jury will actually decide in the case of Elon Musk vs. Sam Altman `pillar:business` `score:0.48`

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-30T21:01:11.250328",
+  "fetched_at": "2026-07-01T09:01:39.891237",
   "source": "twitter-cli",
   "data": {
     "sama": [
@@ -14,11 +14,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 600,
-          "retweets": 84,
-          "replies": 86,
+          "likes": 614,
+          "retweets": 90,
+          "replies": 98,
           "quotes": 12,
-          "views": 191411,
+          "views": 197321,
           "bookmarks": 71
         },
         "createdAt": "Fri Jun 26 15:43:11 +0000 2026",
@@ -42,12 +42,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 4795,
-          "retweets": 151,
-          "replies": 354,
+          "likes": 4805,
+          "retweets": 153,
+          "replies": 359,
           "quotes": 37,
-          "views": 866392,
-          "bookmarks": 204
+          "views": 876048,
+          "bookmarks": 205
         },
         "createdAt": "Fri Jun 26 21:06:21 +0000 2026",
         "createdAtLocal": "2026-06-27 05:06",
@@ -78,11 +78,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 966,
+          "likes": 973,
           "retweets": 26,
-          "replies": 160,
+          "replies": 170,
           "quotes": 8,
-          "views": 131488,
+          "views": 134285,
           "bookmarks": 36
         },
         "createdAt": "Fri Jun 26 21:06:45 +0000 2026",
@@ -106,11 +106,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 6327,
-          "retweets": 140,
-          "replies": 551,
-          "quotes": 32,
-          "views": 577896,
+          "likes": 6328,
+          "retweets": 142,
+          "replies": 554,
+          "quotes": 33,
+          "views": 581971,
           "bookmarks": 181
         },
         "createdAt": "Fri Jun 26 20:55:58 +0000 2026",
@@ -134,12 +134,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 18357,
-          "retweets": 1128,
-          "replies": 1909,
-          "quotes": 501,
-          "views": 2165777,
-          "bookmarks": 1943
+          "likes": 18372,
+          "retweets": 1129,
+          "replies": 1914,
+          "quotes": 502,
+          "views": 2176114,
+          "bookmarks": 1944
         },
         "createdAt": "Fri Jun 26 20:37:49 +0000 2026",
         "createdAtLocal": "2026-06-27 04:37",
@@ -154,6 +154,41 @@
     ],
     "karpathy": [
       {
+        "id": "2071972062202343590",
+        "text": "We're coming out of stealth.\n\nWe've built our first racks after a successful A0 tapeout, $1B+ in customer contracts, and $800m raised.\n\nEarly customer tests show us achieving SOTA throughput, latency, and power efficiency on inference workloads.\n\nOur first racks ship this summer. https://t.co/FLccrkLTza",
+        "author": {
+          "id": "1781914021760991232",
+          "name": "Etched",
+          "screenName": "Etched",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1781917146752413696/KXVls07D_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 6484,
+          "retweets": 645,
+          "replies": 448,
+          "quotes": 432,
+          "views": 3023275,
+          "bookmarks": 2433
+        },
+        "createdAt": "Tue Jun 30 15:00:09 +0000 2026",
+        "createdAtLocal": "2026-06-30 23:00",
+        "createdAtISO": "2026-06-30T15:00:09+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HMEfnAMbAAAlKme.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "karpathy",
+        "lang": "en",
+        "score": null
+      },
+      {
         "id": "2069465879696576844",
         "text": "https://t.co/CGIef5lIBI",
         "author": {
@@ -164,12 +199,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1749,
-          "retweets": 220,
-          "replies": 172,
+          "likes": 1770,
+          "retweets": 222,
+          "replies": 173,
           "quotes": 152,
-          "views": 1720489,
-          "bookmarks": 1143
+          "views": 1728335,
+          "bookmarks": 1155
         },
         "createdAt": "Tue Jun 23 17:01:29 +0000 2026",
         "createdAtLocal": "2026-06-24 01:01",
@@ -195,11 +230,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 22804,
-          "retweets": 1887,
-          "replies": 1265,
-          "quotes": 675,
-          "views": 7726462,
+          "likes": 22834,
+          "retweets": 1892,
+          "replies": 1276,
+          "quotes": 681,
+          "views": 7750722,
           "bookmarks": 13909
         },
         "createdAt": "Tue Jun 23 22:26:31 +0000 2026",
@@ -231,12 +266,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 21910,
-          "retweets": 1023,
-          "replies": 391,
+          "likes": 21923,
+          "retweets": 1022,
+          "replies": 393,
           "quotes": 41,
-          "views": 1006299,
-          "bookmarks": 866
+          "views": 1008443,
+          "bookmarks": 867
         },
         "createdAt": "Fri Jun 12 17:45:54 +0000 2026",
         "createdAtLocal": "2026-06-13 01:45",
@@ -259,12 +294,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 25565,
+          "likes": 25573,
           "retweets": 2414,
-          "replies": 1330,
+          "replies": 1333,
           "quotes": 448,
-          "views": 2878303,
-          "bookmarks": 6337
+          "views": 2883839,
+          "bookmarks": 6334
         },
         "createdAt": "Tue Jun 09 18:10:00 +0000 2026",
         "createdAtLocal": "2026-06-10 02:10",
@@ -283,45 +318,44 @@
             "name": "Claude"
           }
         }
-      },
-      {
-        "id": "2061110056293106118",
-        "text": "This has quietly been a miracle month in medicine. \n\nIn the last 5 weeks we’ve got news on:  \n\n- retatrutide, the triple agonist GLP-1 from Lilly, basically melting fat and body-wide inflammation at record levels \n- RevMed’s new pancreatic cancer drug showing unprecedented abilities to extend life \n- small trial of a one-and-done PCSK9 gene editing therapy for slashing LDL cholesterol \n- Mayo’s AI-assisted radiology showing vastly improved cancer detection \n- this new therapy for metastatic solid tumors\n\nThis stuff is at varying levels of evidence. Retatrutide is ~100% on its way, other stuff needs more clinical trial data. But put it together and we’re maybe on the verge of majorly reducing the mortality of heart disease and cancer, the two leading causes of death in America.",
-        "author": {
-          "id": "37723353",
-          "name": "Derek Thompson",
-          "screenName": "DKThomp",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1605404261306679296/aq_L7W-z_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 11754,
-          "retweets": 1939,
-          "replies": 214,
-          "quotes": 152,
-          "views": 2861923,
-          "bookmarks": 4761
-        },
-        "createdAt": "Sun May 31 15:38:25 +0000 2026",
-        "createdAtLocal": "2026-05-31 23:38",
-        "createdAtISO": "2026-05-31T15:38:25+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "karpathy",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2060955532559581294",
-          "text": "This is actually insane.\n\n97% of people taking the standard of care for metastatic solid tumor got worse by seven years.\n\nBut with lorlatinib, that number was only 45% in the same time!\n\nThis is an ENORMOUS jump in the quality of cancer care. https://t.co/pDQsf7SoyR",
-          "author": {
-            "screenName": "cremieuxrecueil",
-            "name": "Crémieux"
-          }
-        }
       }
     ],
     "AndrewYNg": [
+      {
+        "id": "2071988145667928442",
+        "text": "“Loop engineering” is a hot buzzphrase after mentions of it by Boris Cherny (Claude Code’s creator) and Peter Steinberger (OpenClaw's creator) went viral on social media. Loops are now a key part of how we get AI agents to iterate at length to build software. In this letter, I’d like to share my 3 key loops, shown in the image below, for building 0-to-1 products. These loops guide not just how I build software, but also how I decide what software to build.\n\nAgentic coding loop: Given a product specification and optionally a set of evals (that is, a dataset against which to measure performance), we can have an AI agent write code, test its work, and keep iterating until the code is bug-free and meets its specification. This idea of closing the loop took off around the end of last year, and it has been a game changer in enabling coding agents to work longer productively without human intervention. For example, over the weekend, I was building an app for my daughter to practice typing, and my coding agent could easily work for around an hour, using a web browser to check what it had built multiple times before getting back to me, without needing my intervention.\n\nThe engineering loop executes quickly. Every few minutes, the coding agent might build and test a new version of the software. I hear frequently from developers who are finding new ways to engineer more effective engineering loops. This is an active area of invention!\n\nDeveloper feedback loop: In this loop, a developer examines the current product and steers the coding agent to improve it. Last year, a lot of developers (including me) were acting as the QA (quality assurance) function for our coding agents, manually finding bugs and then asking the agent to fix them. But with coding agents much more able to test their own code, the amount of time we need to spend on this function has decreased significantly. This allows us to make higher-level product decisions, such as what key features to offer, where the UI needs improvement, and so on.\n\nThe developer-feedback loop operates over time intervals between tens of minutes and hours — that's how frequently a developer might review a product and give feedback. In the case of the typing app, I changed my mind a few times about the visual design, what cat costumes she can unlock as she learns (she loves cats), and the user flow for a grown-up to log in and steer the child's learning experience.\n\nWhen a developer has a clear vision for what to build, it is still a lot of work to translate that vision into a specification for a coding agent to implement. Further, after the developer has seen an implementation, they might update (or perhaps clarify) the spec to steer it toward what they want. If you find that the system repeatedly runs into certain problems, building a set of evals for the agent becomes useful.\n\nAI-native teams are increasingly using AI to help shape product direction, for example, automating the gathering and analysis of usage data, summarizing written and verbal customer feedback, or carrying out competitive analysis. However, for pretty much all the products I’m involved in, I see humans as having a significant context advantage over current AI systems — we know a lot more than the AI system about the users and the context the product has to operate in — and thus humans play a critical role. Many people describe this human contribution as “taste,” but I prefer to think of it as humans having a context advantage, since that gives us a clearer path to helping AI systems get better. This also speaks to why this step can’t be automated: So long as the human knows something the AI does not, human-in-the-loop is needed to to inject that knowledge into the system.\n\nExternal feedback loop: This includes a wide range of tactics like asking a few friends for feedback, launching to alpha testers, or putting the code into production with A/B testing. These tactics are usually slow, rarely taking less than hours and sometimes taking days or even weeks. This data informs the developer vision, which in turn continues to drive the detailed product spec, which in turn drives the coding agent.\n\nWith coding agents speeding up software development, more engineers are starting to play a partial product management role. For many engineers who are growing into this role, the hardest part is shaping the product vision and striking a balance between building (bridging the gap between vision and spec) and getting user feedback to evolve the vision. It is important to do both!\n\nI will write more about how to do this in future posts, but for now, I find it encouraging that engineers are playing an expanded role (just as product managers and designers now do more engineering).\n\n[Original text: The Batch]",
+        "author": {
+          "id": "216939636",
+          "name": "Andrew Ng",
+          "screenName": "AndrewYNg",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 3308,
+          "retweets": 607,
+          "replies": 132,
+          "quotes": 53,
+          "views": 188544,
+          "bookmarks": 4285
+        },
+        "createdAt": "Tue Jun 30 16:04:04 +0000 2026",
+        "createdAtLocal": "2026-07-01 00:04",
+        "createdAtISO": "2026-06-30T16:04:04+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HMEtxp3bsAARJdi.jpg",
+            "width": 1200,
+            "height": 676
+          }
+        ],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
       {
         "id": "2068039709126017356",
         "text": "Over the last two weeks, both the U.S. Government and Anthropic took significant actions that demonstrated their power to control access to AI by restricting what others can do with frontier models. This has been one of those moments that, once seen, will be hard to unsee, and it is significantly accelerating many businesses’ and nation states’ efforts to ensure reliable access to AI that no one else can terminate.\n\nAnthropic first released Claude Fable 5, a version of its Mythos model with additional guardrails, including some restrictions that seem well justified on safety grounds (such as limitations on applying it to hacking, bioweapons, and so forth). However, it also restricted developers’ ability to use it to build competing LLM technology. This move was concerning, given that the whole AI community, including Anthropic, has benefitted tremendously from open research — indeed, the AI revolution was kicked off by my former team (Google Brain) freely publishing the Transformers paper!\n\nImagine if Microsoft’s terms of use barred anyone from using their tools to build competitive software, or if Google barred using it to search for information to work on competing search engines. Anthropic’s argument that it was unsafe for others to be able to make advances in AI also rang hollow. Initially, Anthropic silently degraded Fable 5’s performance for users detected to be working on LLM research through invisible interventions that weakened the model’s outputs without notifying the user. After significant backlash, it walked back this decision and decided to be transparent when it did this, but it still refuses to use its latest capabilities to help AI researchers.\n\nThis move represents a raw demonstration of power by Anthropic. It has used “safety” arguments to hinder potential competitors. Platforms succeed when they are viewed as stable, reliable partners that one can build on. The sudden rule changes by Anthropic (including a mandatory 30 day data retention policy for Fable usage) have made developers wonder about the stability of building on any one proprietary LLM provider, not just Anthropic.\n\nThe U.S. Government then shortly followed with an even greater demonstration of power. It used the Commerce Department’s authority to regulate technologies that may be national security threats to restrict exports of Mythos and Fable, requiring a license for use by any foreign national, whether inside or outside of the U.S., including employees of Anthropic. This led Anthropic to disable access to Fable to all users worldwide.\n\nSam Altman pointed out, referring to Anthropic, “It is clearly incredible marketing to say, ‘We have built a bomb, we are about to drop it on your head. We will sell you a bomb shelter for $100 million.’” But when one engages in this type of fear-based marketing, it increases the odds that the U.S. Government will agree with you and slap export controls on the bomb you say you have built.\n\nTo be clear, I don't think Anthropic has built anything like a bomb, and I don't think export controls on Fable are appropriate.\n\nHowever, following the U.S. Government making this move, many nations, including U.S. allies, saw how the U.S. can suddenly yank their access to AI models. In many capitals around the world, this has spurred discussions on AI sovereignty and how others can ensure uninterrupted access to this critical technology.\n\nFor decades, many nations were comfortable having many parts of their supply chain rely on the U.S., China, and other major producers. Once a nation issues a threat, or takes action, to limit other nations’ access, other nations will rationally try to secure alternatives. For decades, semiconductor manufacturing in China made slow progress; once the U.S. moved to limit China’s access, China’s efforts kicked into high gear. Similarly, once China threatened U.S. access to rare earth minerals, U.S. efforts to secure alternatives accelerated. Now that it has become crystal clear that private U.S. companies and the U.S. government can limit, in short order, other nations’ access to frontier AI models, the incentive of others to invest more in alternatives like open source grows significantly. Of course, training frontier models is not easy, so it remains to be seen how successful they are, but we have crossed the rubicon.\n\nSatya Nadella wrote an essay about the importance of building a healthy ecosystem on top of frontier AI technology. I heartily agree with him, and hope this week’s events will ultimately prove to be constructive steps toward this.\n\nI hope we can build a more free, more open world, where research is freely shared, and laws and societal norms shape a level playing field that allows everyone to make progress. A silver lining of the events of these past two weeks is now that everyone better realizes key points of instability of the current system, we can all work to create a more stable foundation.\n\n[Original text: The Batch newsletter]",
@@ -333,11 +367,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1280,
+          "likes": 1283,
           "retweets": 276,
-          "replies": 160,
-          "quotes": 56,
-          "views": 146950,
+          "replies": 161,
+          "quotes": 57,
+          "views": 147807,
           "bookmarks": 387
         },
         "createdAt": "Fri Jun 19 18:34:23 +0000 2026",
@@ -368,12 +402,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 337,
+          "likes": 338,
           "retweets": 49,
           "replies": 54,
           "quotes": 10,
-          "views": 72869,
-          "bookmarks": 195
+          "views": 73324,
+          "bookmarks": 196
         },
         "createdAt": "Thu Jun 18 17:00:03 +0000 2026",
         "createdAtLocal": "2026-06-19 01:00",
@@ -403,12 +437,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1098,
-          "retweets": 144,
+          "likes": 1100,
+          "retweets": 145,
           "replies": 109,
           "quotes": 13,
-          "views": 116920,
-          "bookmarks": 838
+          "views": 117232,
+          "bookmarks": 839
         },
         "createdAt": "Thu Jun 04 16:44:13 +0000 2026",
         "createdAtLocal": "2026-06-05 00:44",
@@ -442,8 +476,8 @@
           "retweets": 740,
           "replies": 324,
           "quotes": 141,
-          "views": 561151,
-          "bookmarks": 3446
+          "views": 561474,
+          "bookmarks": 3448
         },
         "createdAt": "Mon Jun 01 15:58:45 +0000 2026",
         "createdAtLocal": "2026-06-01 23:58",
@@ -461,165 +495,116 @@
         "retweetedBy": null,
         "lang": "en",
         "score": null
-      },
-      {
-        "id": "2059006941012295935",
-        "text": "Memorial Day. Today we honor those who gave everything to defend our democracy. Democracy isn't guaranteed; it's a precious inheritance that requires our constant care. 🇺🇸",
-        "author": {
-          "id": "216939636",
-          "name": "Andrew Ng",
-          "screenName": "AndrewYNg",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 449,
-          "retweets": 23,
-          "replies": 58,
-          "quotes": 6,
-          "views": 70091,
-          "bookmarks": 18
-        },
-        "createdAt": "Mon May 25 20:21:23 +0000 2026",
-        "createdAtLocal": "2026-05-26 04:21",
-        "createdAtISO": "2026-05-25T20:21:23+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
       }
     ],
     "ylecun": [
       {
-        "id": "2071647923147092202",
-        "text": "One study found Musk’s closing of the U.S. Agency for International Development could cause the deaths of millions of children. https://t.co/qaQMoCPf82 (Photo: Associated Press) https://t.co/oOJ7N69g93",
+        "id": "2070866534462087626",
+        "text": "Working on world model or SSL? You definitely need to try our new work: VISReg!\n\nWhat does it achieve?\n💪 Strong collapse prevention: High gradient when embedding collapse\n⚡ Friendly to scale training: Linear complexity to scaling factors\n🧩 Easy to train: Similar to LeJEPA, it is a heuristic-free method\n🏆 Best OOD performance: Achieving the best accuracy on 6 OOD datasets\n📉 Data efficiency: Achieving a similar OOD average accuracy to DINOv2 with 90% less data\n🧬 Robust to low-quality datasets: It is robust to long-tailed and sparse datasets\n\nOur results also indicate that SIGReg type methods can scale up, filling in the missing piece in @ylecun's great talk https://t.co/P9TXmk3fFa.\n\nA big thanks to my co-author @randall_balestr and my manager @DrMorganLevine. Also, huge gratitude to @ylecun for connecting us to make this project happen! 🤝\n\n#SelfSupervisedLearning #JEPA #WorldModel",
         "author": {
-          "id": "91478624",
-          "name": "Forbes",
-          "screenName": "Forbes",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1711185897415180288/lgwajQTW_normal.jpg",
+          "id": "1512086648930148353",
+          "name": "Haiyu Wu",
+          "screenName": "HaiyuWu1",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1833875070005002241/xu88w6rH_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 5351,
-          "retweets": 1981,
-          "replies": 1026,
-          "quotes": 221,
-          "views": 719571,
-          "bookmarks": 406
+          "likes": 44,
+          "retweets": 6,
+          "replies": 4,
+          "quotes": 3,
+          "views": 19416,
+          "bookmarks": 32
         },
-        "createdAt": "Mon Jun 29 17:32:08 +0000 2026",
-        "createdAtLocal": "2026-06-30 01:32",
-        "createdAtISO": "2026-06-29T17:32:08+00:00",
+        "createdAt": "Sat Jun 27 13:47:11 +0000 2026",
+        "createdAtLocal": "2026-06-27 21:47",
+        "createdAtISO": "2026-06-27T13:47:11+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2070866482800861184/vid/avc1/1920x1080/OkjpIWBf9uFyGipk.mp4?tag=28",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2072088917348630648",
+        "text": "Can regularization based JEPA (e.g. SIGReg) scale and compete with SOTA foundation models (DINO)? Here is the answer: yes and with 10x less data.\nVISReg (slight variation of SIGReg) competes with DINOv2-LVD142M while only training on inet22k.\nTry it out: https://t.co/vBhrNAmFq6 https://t.co/XERFZEAE8t",
+        "author": {
+          "id": "1246070462679040000",
+          "name": "Randall Balestriero",
+          "screenName": "randall_balestr",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1327365059685871619/4VtwVXV2_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 72,
+          "retweets": 11,
+          "replies": 1,
+          "quotes": 1,
+          "views": 9454,
+          "bookmarks": 37
+        },
+        "createdAt": "Tue Jun 30 22:44:30 +0000 2026",
+        "createdAtLocal": "2026-07-01 06:44",
+        "createdAtISO": "2026-06-30T22:44:30+00:00",
         "media": [
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HL_4zspbwAA1HML.jpg",
-            "width": 1080,
-            "height": 1350
+            "url": "https://pbs.twimg.com/media/HMGJbemXgAARWrX.png",
+            "width": 374,
+            "height": 158
           }
         ],
         "urls": [
-          "https://www.forbes.com/sites/tylerroush/2026/06/29/a-testy-musk-attacks-claims-doges-cuts-killed-children-but-studies-paint-grim-picture/?utm_source=ForbesMainTwitter&utm_medium=social&utm_campaign=ForbesMainTwitter"
+          "https://huggingface.co/BooBooWu/visreg"
         ],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2071818340675584198",
-        "text": "Thrilled to announce the Wearable AI Workshop at ECCV 2026 🎉 that we're organizing with an awesome group of folks across Meta Reality Labs, AMI Labs, HKUST, Georgia Tech, UCF, and U. of Edinburgh. If you work on egocentric perception, multimodal assistants, or long-form video understanding, definitely consider participating. Details below 👇\n\n🔬 Wearable AI Workshop @ ECCV 2026 | Malmö, Sweden\nJoin us to advance the science of real-time, multimodal, context-aware assistants — with access to the largest egocentric wearables dataset ever released, $21K in challenge prizes, and a venue to shape the research agenda alongside leading groups in the field.\n\n🏆 Grand Challenge — $21K in Prizes\nCompete on the largest egocentric wearables dataset ever released (5,000+ hours) across three tracks:\nProactive AI — Predict when and how to proactively engage users\nMulti-Turn Conversations — Streaming answer prediction from egocentric video\nLong Video Q&A — Temporal grounding and recall over 30+ minute videos\n\n🎤 Confirmed Keynote Speakers\nKristen Grauman (UT Austin) — Professor, Computer Vision Group\nDima Damen (U of Bristol, Google DeepMind) — Professor of Computer Vision\nRaffay Hamid (Meta Reality Labs) — Distinguished Engineer, GenAI\n\nIf you work on egocentric vision, long-form video understanding, conversational AI, or on-device inference — this is your venue.\n\n📅 September 2026 · 📍 Malmö, Sweden\n🔗 Workshop URL: https://t.co/XOfCNftuWq\n\n#Meta #MetaRealityLabs #MetaAI #AMIlabs #HKUST #UTAustin #GeorgiaTech #UniversityOfEdinburgh #UniversityOfBristol #ECCV #ECCV2026 #WearableAI #EgocentricVision #ComputerVision #MultimodalAI #AIResearch",
-        "author": {
-          "id": "175319263",
-          "name": "Pascale Fung",
-          "screenName": "pascalefung",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1399005024303255554/NQpoDvD7_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 24,
-          "retweets": 3,
-          "replies": 1,
-          "quotes": 0,
-          "views": 10499,
-          "bookmarks": 6
-        },
-        "createdAt": "Tue Jun 30 04:49:19 +0000 2026",
-        "createdAtLocal": "2026-06-30 12:49",
-        "createdAtISO": "2026-06-30T04:49:19+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2071490675808309373",
-        "text": "A very damaged man who had the political power and the private wealth to save millions of lives but chose instead to allow suffering &amp; death. Not only that, he uses his influence to sow ethnic and religious hatred, undermine democratic governments and argue against empathy itself",
-        "author": {
-          "id": "459427387",
-          "name": "Alan Lester",
-          "screenName": "aljhlester",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2036771400396992512/lkSV9ClR_normal.jpg",
-          "verified": false
-        },
-        "metrics": {
-          "likes": 2009,
-          "retweets": 422,
-          "replies": 102,
-          "quotes": 18,
-          "views": 61155,
-          "bookmarks": 60
-        },
-        "createdAt": "Mon Jun 29 07:07:18 +0000 2026",
-        "createdAtLocal": "2026-06-29 15:07",
-        "createdAtISO": "2026-06-29T07:07:18+00:00",
-        "media": [],
-        "urls": [],
         "isRetweet": true,
         "retweetedBy": "ylecun",
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2071402944017453276",
-          "text": ".@elonmusk says that no one can name a person who died from his aid cuts. In fact, I've met the kids who are dying, and I've talked to the families who lost children. In my columns, I've cited many, many names of people who have died because of Musk's  aid cuts. A few examples:\n*Yamah Freeman was a 23-year-old woman who died in childbirth because Musk cut funding for the diesel for ambulances in her part of Liberia. She couldn't get to a hospital and died as people were carrying her there. I talked to her parents and sister in their village.\n*Gbessey Kiadu, age 1, died of malaria because of his cuts to malaria medication in Liberia. I talked to his mom in her village.\n*Ibrahim Koroma, an infant, died of AIDS in Sierra Leone after he interrupted HIV supplies. I talked to health workers who cared for him.\n*Achol Deng was an 8-year-old girl with HIV in South Sudan who died when Musk cut funding for the health care worker who provided her medicines. I talked to the healthcare workers.\nI could go on and on. In almost every village you go to in South Sudan, Uganda, Liberia, Sierra Leone or other countries I reported in, you find people dying because of aid cuts. I challenge Musk: Come with me on a reporting trip, and we'll talk to these moms and dads, and you'll see the dying children themselves. I think if you see the kids whose lives are at stake, maybe you'll change your mind.",
+          "id": "2070866534462087626",
+          "text": "Working on world model or SSL? You definitely need to try our new work: VISReg!\n\nWhat does it achieve?\n💪 Strong collapse prevention: High gradient when embedding collapse\n⚡ Friendly to scale training: Linear complexity to scaling factors\n🧩 Easy to train: Similar to LeJEPA, it is a heuristic-free method\n🏆 Best OOD performance: Achieving the best accuracy on 6 OOD datasets\n📉 Data efficiency: Achieving a similar OOD average accuracy to DINOv2 with 90% less data\n🧬 Robust to low-quality datasets: It is robust to long-tailed and sparse datasets\n\nOur results also indicate that SIGReg type methods can scale up, filling in the missing piece in @ylecun's great talk https://t.co/P9TXmk3fFa.\n\nA big thanks to my co-author @randall_balestr and my manager @DrMorganLevine. Also, huge gratitude to @ylecun for connecting us to make this project happen! 🤝\n\n#SelfSupervisedLearning #JEPA #WorldModel",
           "author": {
-            "screenName": "NickKristof",
-            "name": "Nicholas Kristof"
+            "screenName": "HaiyuWu1",
+            "name": "Haiyu Wu"
           }
         }
       },
       {
-        "id": "2071666316960751884",
-        "text": "Musk is right that many problems can't be solved just by \"throwing money\" at them.\n\nBut US aid to fight AIDS, child hunger &amp; other global plagues has one of the highest ROIs in government.\n\nThe data is clear: cutting this $ means millions will die. The question is how many. https://t.co/OilcCBIzxR",
+        "id": "2072035435857973577",
+        "text": "Don't fall for Elon Musk's gaslighting. \n\nThere is a massive, life-or-death difference between well-planned budget cuts and a sudden, reckless halt to promised medical aid.\n\nMusk is actively lying about the fatal consequences of his USAID cuts. The US is not obligated to fund healthcare for the entire planet, but if a nation decides to pull back its global aid, it must be done responsibly. Ripping away funding mid-treatment means you are directly responsible for the preventable deaths that follow.\n\nInstead of owning up to the fallout, Musk is flooding X with dishonest spin. He first challenged critics to name even one person whose death he caused. When people actually did, he immediately moved the goalposts, claiming that any spending cut inevitably causes deaths.\n\nHe is a dishonest charlatan trying to hide the fact that his chaotic decisions got thousands of vulnerable children and adults killed. That will be his lasting legacy",
         "author": {
-          "id": "401625957",
-          "name": "Steve Rattner",
-          "screenName": "SteveRattner",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1559587528109395969/HfLfInk2_normal.jpg",
+          "id": "1729107578917957632",
+          "name": "Joni Askola",
+          "screenName": "joni_askola",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1876651548593344512/fXi8-TNI_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 2804,
-          "retweets": 938,
-          "replies": 833,
-          "quotes": 92,
-          "views": 271288,
-          "bookmarks": 164
+          "likes": 2041,
+          "retweets": 762,
+          "replies": 124,
+          "quotes": 35,
+          "views": 26099,
+          "bookmarks": 79
         },
-        "createdAt": "Mon Jun 29 18:45:14 +0000 2026",
-        "createdAtLocal": "2026-06-30 02:45",
-        "createdAtISO": "2026-06-29T18:45:14+00:00",
+        "createdAt": "Tue Jun 30 19:11:59 +0000 2026",
+        "createdAtLocal": "2026-07-01 03:11",
+        "createdAtISO": "2026-06-30T19:11:59+00:00",
         "media": [
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HMAJJtQWUAA9_M7.jpg",
-            "width": 2253,
-            "height": 1534
+            "url": "https://pbs.twimg.com/media/HMFZPqwXwAAAZ1E.jpg",
+            "width": 1024,
+            "height": 576
           }
         ],
         "urls": [],
@@ -629,69 +614,103 @@
         "score": null
       },
       {
-        "id": "2071402944017453276",
-        "text": ".@elonmusk says that no one can name a person who died from his aid cuts. In fact, I've met the kids who are dying, and I've talked to the families who lost children. In my columns, I've cited many, many names of people who have died because of Musk's  aid cuts. A few examples:\n*Yamah Freeman was a 23-year-old woman who died in childbirth because Musk cut funding for the diesel for ambulances in her part of Liberia. She couldn't get to a hospital and died as people were carrying her there. I talked to her parents and sister in their village.\n*Gbessey Kiadu, age 1, died of malaria because of his cuts to malaria medication in Liberia. I talked to his mom in her village.\n*Ibrahim Koroma, an infant, died of AIDS in Sierra Leone after he interrupted HIV supplies. I talked to health workers who cared for him.\n*Achol Deng was an 8-year-old girl with HIV in South Sudan who died when Musk cut funding for the health care worker who provided her medicines. I talked to the healthcare workers.\nI could go on and on. In almost every village you go to in South Sudan, Uganda, Liberia, Sierra Leone or other countries I reported in, you find people dying because of aid cuts. I challenge Musk: Come with me on a reporting trip, and we'll talk to these moms and dads, and you'll see the dying children themselves. I think if you see the kids whose lives are at stake, maybe you'll change your mind.",
+        "id": "2071942212925936053",
+        "text": "We can finally say AI isn't killing jobs.\n\nA new paper from me, @tryramp, and @RevelioLabs uses firm-level spend and workforce data across 21K U.S. businesses to measure AI's impact on jobs.\n\nFirms that adopt AI heavily grow headcount 10% over two years following adoption. Low adopters see no statistically significant change.",
         "author": {
-          "id": "17004618",
-          "name": "Nicholas Kristof",
-          "screenName": "NickKristof",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1453381583847657473/77brYR0Q_normal.png",
+          "id": "1030965185308180480",
+          "name": "Ara Kharazian",
+          "screenName": "arakharazian",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1771552439344177152/KfuAN2Mb_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 30474,
-          "retweets": 9045,
-          "replies": 9097,
-          "quotes": 894,
-          "views": 3975228,
-          "bookmarks": 1869
+          "likes": 1804,
+          "retweets": 396,
+          "replies": 115,
+          "quotes": 128,
+          "views": 486562,
+          "bookmarks": 1067
         },
-        "createdAt": "Mon Jun 29 01:18:41 +0000 2026",
-        "createdAtLocal": "2026-06-29 09:18",
-        "createdAtISO": "2026-06-29T01:18:41+00:00",
-        "media": [],
+        "createdAt": "Tue Jun 30 13:01:33 +0000 2026",
+        "createdAtLocal": "2026-06-30 21:01",
+        "createdAtISO": "2026-06-30T13:01:33+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HMD-xviXcAArYSd.jpg",
+            "width": 1414,
+            "height": 894
+          }
+        ],
         "urls": [],
         "isRetweet": true,
         "retweetedBy": "ylecun",
         "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2071366974043537458",
-          "text": "Exactly. \n\nAnd they cannot cite a single name of someone who died out of the “millions” they falsely claim have died. Not a single name!",
-          "author": {
-            "screenName": "elonmusk",
-            "name": "Elon Musk"
+        "score": null
+      },
+      {
+        "id": "2071701155827134665",
+        "text": "Open-source AI is booming, massively impactful for progress, competition, transparency &amp; orders of magnitude less dangerous than closed-source frontier AI.\n\nTime to support it to the max! https://t.co/FOeEKUtBM0",
+        "author": {
+          "id": "186420551",
+          "name": "clem 🤗",
+          "screenName": "ClementDelangue",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 422,
+          "retweets": 68,
+          "replies": 32,
+          "quotes": 8,
+          "views": 41780,
+          "bookmarks": 47
+        },
+        "createdAt": "Mon Jun 29 21:03:40 +0000 2026",
+        "createdAtLocal": "2026-06-30 05:03",
+        "createdAtISO": "2026-06-29T21:03:40+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2071700829443129345/vid/avc1/2658x1450/boCpOKCg1tC2-eJz.mp4?tag=28",
+            "width": 2658,
+            "height": 1450
           }
-        }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
       }
     ],
     "elonmusk": [
       {
-        "id": "2071733026623778898",
-        "text": "In the UK, Police officers would have special \"cop nights\" run by the Pakistani rape gangs where they were allowed to gang rape grooming gang victims as a \"Thankyou\" for turning the other way.\n\nBring back capital punishment 😡\n https://t.co/QObbm7pbol",
+        "id": "2072095000041807988",
+        "text": "Neuralink 🧠✨\n\nHow it started  v/s. How it's going https://t.co/328yUwaH4X",
         "author": {
-          "id": "796939233185255425",
-          "name": "Lozzy B 🇦🇺𝕏",
-          "screenName": "TruthFairy131",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2030266122323554304/wrdLEwiU_normal.jpg",
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screenName": "cb_doge",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1498070100393754625/C2V-fbll_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 15094,
-          "retweets": 4376,
-          "replies": 767,
-          "quotes": 227,
-          "views": 766136,
-          "bookmarks": 1346
+          "likes": 2020,
+          "retweets": 336,
+          "replies": 252,
+          "quotes": 22,
+          "views": 265752,
+          "bookmarks": 95
         },
-        "createdAt": "Mon Jun 29 23:10:19 +0000 2026",
-        "createdAtLocal": "2026-06-30 07:10",
-        "createdAtISO": "2026-06-29T23:10:19+00:00",
+        "createdAt": "Tue Jun 30 23:08:40 +0000 2026",
+        "createdAtLocal": "2026-07-01 07:08",
+        "createdAtISO": "2026-06-30T23:08:40+00:00",
         "media": [
           {
             "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2071471215521210368/vid/avc1/1920x1080/Uc7Un08VVUYNw4cT.mp4?tag=28",
-            "width": 1920,
+            "url": "https://video.twimg.com/amplify_video/2072094922392686592/vid/avc1/1080x1080/g16IPn11kMWrpfBM.mp4?tag=28",
+            "width": 1080,
             "height": 1080
           }
         ],
@@ -702,8 +721,8 @@
         "score": null
       },
       {
-        "id": "2071836426316984797",
-        "text": "The AOC puppet is just flat-out lying",
+        "id": "2072097988064018595",
+        "text": "Grok https://t.co/LMtw2XTQMn",
         "author": {
           "id": "44196397",
           "name": "Elon Musk",
@@ -712,94 +731,22 @@
           "verified": true
         },
         "metrics": {
-          "likes": 12645,
-          "retweets": 2855,
-          "replies": 1460,
-          "quotes": 78,
-          "views": 1421207,
-          "bookmarks": 267
+          "likes": 6201,
+          "retweets": 707,
+          "replies": 1600,
+          "quotes": 117,
+          "views": 985601,
+          "bookmarks": 222
         },
-        "createdAt": "Tue Jun 30 06:01:11 +0000 2026",
-        "createdAtLocal": "2026-06-30 14:01",
-        "createdAtISO": "2026-06-30T06:01:11+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2071808777188508107",
-          "text": "Here’s the truth: AOC is so full of crap that one simple Google search exposes the whole lie\n\nShe’s lying to scare people again\n\nNeither Elon nor DOGE can directly cut Social Security or Medicare benefits\n\nThat’s Congress’s job\n\nAOC is literally in Congress. She knows this well https://t.co/vbywMY6tgl",
-          "author": {
-            "screenName": "XFreeze",
-            "name": "X Freeze"
-          }
-        }
-      },
-      {
-        "id": "2071815842166424002",
-        "text": "Being at the launch of Cybercab two years ago was magic.\n\nA decade from now there will be millions of these things rolling around the world. \n\nThe war over autonomous vehicles is on, as everyone in San Francisco knows. \n\nBut if you add up everyone who has been in ANY autonomous vehicle, whether from Waymo, any of the Chinese, the NVIDIA, any Tesla, it is only a few million people out of eight billion.\n\nWhen I first saw autonomous vehicles at Stanford University about 20 years ago they were so crappy I thought I'd never be alive to see them. \n\nI have the first video of the first Waymo on the freeway, and I've been blessed to have been able to watch the development of these up close (got the first ride in Mercedes' AI car, for instance). \n\nSo many engineers spent so many hours developing them, many going down bad paths. Which happens with innovation.\n\nThey will save millions of lives.\n\nFord's head of safety told me that what kills people in a head-on wreck is the steering wheel. \n\nNow we can see a path to getting rid of the steering wheel totally. \n\nCongrats to Tesla and @elonmusk  for getting here. \n\nStill a lot of work to go and many fights with many communities who will try to ban these to protect jobs.\n\nI'm very bullish on Cybercab and will buy one if sold to private citizens, as expected. \n\nWhy? \n\nI never touch the steering wheel in my vehicles already and this will be the lowest cost vehicle with the most safety. \n\nAnd a great big screen and a great sound system to watch whatever I want. When I met the engineers at the launch they said they made many decisions to make it quieter inside, so we can do things like listen to music, video calls, or watch the World Cup. \n\nThis vehicle is the iPhone moment of autonomous vehicles. \n\nOne I've been lucky enough to survive the 20 years it took to see.",
-        "author": {
-          "id": "13348",
-          "name": "Robert Scoble",
-          "screenName": "Scobleizer",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1915614118876504066/zVnfpAMf_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 2318,
-          "retweets": 512,
-          "replies": 203,
-          "quotes": 27,
-          "views": 572433,
-          "bookmarks": 103
-        },
-        "createdAt": "Tue Jun 30 04:39:23 +0000 2026",
-        "createdAtLocal": "2026-06-30 12:39",
-        "createdAtISO": "2026-06-30T04:39:23+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2071810353156194719",
-          "text": "Engineering tests of the first production Cybercab have begun in Austin https://t.co/fk3KQvcE8a",
-          "author": {
-            "screenName": "Tesla",
-            "name": "Tesla"
-          }
-        }
-      },
-      {
-        "id": "2071813050978480423",
-        "text": "Cybercab with no steering wheel or pedals driving around Austin https://t.co/Oo7uPoOjhp",
-        "author": {
-          "id": "44196397",
-          "name": "Elon Musk",
-          "screenName": "elonmusk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 33683,
-          "retweets": 4765,
-          "replies": 3195,
-          "quotes": 667,
-          "views": 2916753,
-          "bookmarks": 2033
-        },
-        "createdAt": "Tue Jun 30 04:28:18 +0000 2026",
-        "createdAtLocal": "2026-06-30 12:28",
-        "createdAtISO": "2026-06-30T04:28:18+00:00",
+        "createdAt": "Tue Jun 30 23:20:32 +0000 2026",
+        "createdAtLocal": "2026-07-01 07:20",
+        "createdAtISO": "2026-06-30T23:20:32+00:00",
         "media": [
           {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2071800953963958272/vid/avc1/3840x2160/OgCPwdkBI0cGALad.mp4?tag=28",
-            "width": 3840,
-            "height": 2160
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HMGSEYZakAA9Duj.jpg",
+            "width": 1287,
+            "height": 2048
           }
         ],
         "urls": [],
@@ -809,43 +756,180 @@
         "score": null
       },
       {
-        "id": "2071783765282586785",
-        "text": "Happy birthday to a truly legendary intellectual!",
+        "id": "2071994061624426582",
+        "text": "https://t.co/VgpWIg2BFI",
         "author": {
-          "id": "116579971",
-          "name": "Gad Saad",
-          "screenName": "GadSaad",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/979192426660327424/4B9g75QR_normal.jpg",
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screenName": "elonmusk",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 7912,
-          "retweets": 1356,
-          "replies": 263,
-          "quotes": 25,
-          "views": 724686,
-          "bookmarks": 369
+          "likes": 166992,
+          "retweets": 28547,
+          "replies": 6569,
+          "quotes": 1419,
+          "views": 7160480,
+          "bookmarks": 5658
         },
-        "createdAt": "Tue Jun 30 02:31:56 +0000 2026",
-        "createdAtLocal": "2026-06-30 10:31",
-        "createdAtISO": "2026-06-30T02:31:56+00:00",
+        "createdAt": "Tue Jun 30 16:27:34 +0000 2026",
+        "createdAtLocal": "2026-07-01 00:27",
+        "createdAtISO": "2026-06-30T16:27:34+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HMEznjqWwAAuzde.jpg",
+            "width": 1061,
+            "height": 796
+          }
+        ],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "zxx",
+        "score": null
+      },
+      {
+        "id": "2072087338789015618",
+        "text": "This is how USAID spent your tax dollars",
+        "author": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screenName": "elonmusk",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 8951,
+          "retweets": 986,
+          "replies": 599,
+          "quotes": 38,
+          "views": 365785,
+          "bookmarks": 122
+        },
+        "createdAt": "Tue Jun 30 22:38:13 +0000 2026",
+        "createdAtLocal": "2026-07-01 06:38",
+        "createdAtISO": "2026-06-30T22:38:13+00:00",
         "media": [],
         "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2072086856553078942",
+        "text": "Just hardcore engineering",
+        "author": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screenName": "elonmusk",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 3186,
+          "retweets": 469,
+          "replies": 443,
+          "quotes": 24,
+          "views": 1038698,
+          "bookmarks": 99
+        },
+        "createdAt": "Tue Jun 30 22:36:18 +0000 2026",
+        "createdAtLocal": "2026-07-01 06:36",
+        "createdAtISO": "2026-06-30T22:36:18+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2071760632685404347",
-          "text": "Happy birthday Dr. Thomas Sowell! https://t.co/gmpBksfC3e",
+          "id": "2072060362934087889",
+          "text": "This required:\n\n- advanced optics solutions to be able to see vessels through an opaque layer of tissue\n\n- precision manufacturing to machine micrometer scale features in our needles to make them reliably pierce through the tough dural membrane\n\n- and rigorous testing to prove it would all work before we ever tried it in a human for the first time\n\nVery proud of our whole team for executing on such a difficult and important problem- but there are many more challenges left to solve, and we're hiring brilliant engineers across the stack to help! \n\nno biomed background needed!",
           "author": {
-            "screenName": "sowelleconomics",
-            "name": "Sowell Economics"
+            "screenName": "astrodanish",
+            "name": "Danish Hussain"
           }
         }
       }
     ],
     "DrJimFan": [
+      {
+        "id": "2072004190856212902",
+        "text": "Today, we give robots a /skills library that self-evolves and compounds indefinitely! Introducing ASPIRE: a robot solving its 100th task is no longer as clueless as solving its first. Coding agents observe multimodal sensory traces from simulation and real robots, launch an evolutionary search over control programs, and distill the best know-how into an ever-expanding library. \n\nASPIRE is a new type of continual learning: \"training\" is skill refinement instead of gradient descent. \n\"Trained model\" is a repo of sensorimotor skills instead of floating weights. \n“Distributed training” is a panel of agents each practicing a different skill instead of sharded minibatches.\n\nHere's the beauty: ASPIRE gives the tired terms \"sim2real transfer\" and \"cross-embodiment transfer\" a whole new meaning. Bridging the sim-to-real gap is notoriously brutal. An end-to-end policy has to swallow both the visual shift (sim looks toyish next to a real camera) and the subtle contact physics it never quite gets right. ASPIRE sidesteps the mess, because it doesn't ship pixels or weights across the gap, but ships the know-how. The robot still has to practice in the real world, not zero-shot, but it gets there way faster because it isn't rediscovering the strategy from scratch. Same for going single-arm to bimanual hardware, which usually requires new data and retraining from zero. ASPIRE achieves up to ~10x cut in \"transfer learning” tokens (yes, tokens are the new unit of *training* compute ;)\n\nCheck out our gallery of 150+ tasks and 90+ skills the robots taught themselves, all on the website! Kind of wild that we can ship the \"learned weights\" as an HTML page rather than a GGUF. We'll open-source the full stack so your own robot library starts compounding from ours! \n\nDeep dive in thread:",
+        "author": {
+          "id": "1007413134",
+          "name": "Jim Fan",
+          "screenName": "DrJimFan",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 650,
+          "retweets": 89,
+          "replies": 34,
+          "quotes": 11,
+          "views": 50200,
+          "bookmarks": 451
+        },
+        "createdAt": "Tue Jun 30 17:07:49 +0000 2026",
+        "createdAtLocal": "2026-07-01 01:07",
+        "createdAtISO": "2026-06-30T17:07:49+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2072001551988920320/vid/avc1/1920x1080/HGwCmr_X0Ka-WLlG.mp4?tag=28",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2072004192294830583",
+        "text": "Project gallery and whitepaper: https://t.co/99bZhCeszA\n\nASPIRE is a great collaboration between NVIDIA GEAR lab, UMich, Berkeley, and CMU. Kudos to all the coauthors who pour their hearts into the project!\n\nCheck out the deep dive thread from Guanzhi: \nhttps://t.co/kSCJ5mBz89",
+        "author": {
+          "id": "1007413134",
+          "name": "Jim Fan",
+          "screenName": "DrJimFan",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 40,
+          "retweets": 0,
+          "replies": 1,
+          "quotes": 1,
+          "views": 8719,
+          "bookmarks": 13
+        },
+        "createdAt": "Tue Jun 30 17:07:50 +0000 2026",
+        "createdAtLocal": "2026-07-01 01:07",
+        "createdAtISO": "2026-06-30T17:07:50+00:00",
+        "media": [],
+        "urls": [
+          "https://research.nvidia.com/labs/gear/aspire/",
+          "https://x.com/guanzhi_wang/status/2072001345960222743?s=20"
+        ],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2072001345960222743",
+          "text": "Introducing ASPIRE, the first automated /𝚜𝚔𝚒𝚕𝚕 discovery system for robotics. Rather than solving tasks one by one, ASPIRE continuously discovers and accumulates reusable skills. These persistent skills become the building blocks of robot intelligence, enabling multi-task transfer, sim-to-real transfer, and cross-embodiment transfer.\n\n🔗 https://t.co/GI2Eo2izmq\n\nFrom @NVIDIA, @UMichCSE, @ECEILLINOIS, @Berkeley_AI, @CMU_Robotics.\n\nCheck out how it works in 🧵:",
+          "author": {
+            "screenName": "guanzhi_wang",
+            "name": "Guanzhi Wang"
+          }
+        }
+      },
       {
         "id": "2066921736369766762",
         "text": "Today, we enable AutoResearch in the physical world for the first time! Introducing ENPIRE: we give 8 Codex agents a fleet of robots, an allocation of GPUs, and generous token budget. We set them free with a simple goal: solve the task as quickly as possible, keep the robots busy but stay safe, don't waste precious compute. Make no mistake.\n\nThen humans step aside and our watch begins. The robot fleet starts to come alive: they learn to look for visual clues, reset the scene, practice novel skills, tinker with control stack, read papers online, debate, reflect, get stuck, and try again directly on the hardware. All we did is to give Codex an API to the world of atoms, and the rest is emergence.\n\nENPIRE is able to solve high-precision tasks like tying zip-ties, organizing fine pins, and installing GPUs all by itself. We also discovered a new type of \"physical scaling\": 8 robots exploring in parallel improves significantly faster than fewer ones. \n\nA part of our NVIDIA GEAR lab now self-improves tirelessly over night. We just read the reports in the morning. \n\n/goal: we all take a holiday and Jensen wouldn't even notice ;)\n\nWe will be open-sourcing everything, so you can host your self-running robot lab at home too! Deep dive in the thread:",
@@ -857,12 +941,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 3841,
-          "retweets": 571,
+          "likes": 3844,
+          "retweets": 570,
           "replies": 185,
           "quotes": 151,
-          "views": 646915,
-          "bookmarks": 2020
+          "views": 647742,
+          "bookmarks": 2021
         },
         "createdAt": "Tue Jun 16 16:31:58 +0000 2026",
         "createdAtLocal": "2026-06-17 00:31",
@@ -892,11 +976,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 162,
+          "likes": 163,
           "retweets": 19,
           "replies": 4,
           "quotes": 2,
-          "views": 45136,
+          "views": 45371,
           "bookmarks": 98
         },
         "createdAt": "Tue Jun 16 16:31:58 +0000 2026",
@@ -935,7 +1019,7 @@
           "retweets": 3,
           "replies": 7,
           "quotes": 0,
-          "views": 12405,
+          "views": 12539,
           "bookmarks": 3
         },
         "createdAt": "Wed Jun 17 17:52:40 +0000 2026",
@@ -957,84 +1041,6 @@
             "name": "Jim Fan"
           }
         }
-      },
-      {
-        "id": "2067283904986517866",
-        "text": "I made Physical AutoResearch sound simple (conceptually), but it took a village to pull off and lots of design thinking into the robot /loopcraft. The hardest part is everything we need to setup *before* pressing Enter. Here's a behind-the-scene tour:\n\n1. Safety harness\n\nLetting 8 robots run unattended overnight means safety has to be more than a hint in the system prompt. ENPIRE hardwires it in 2 layers: (1) hard kinematic limit that trips an immediate task failure and auto-resets as soon as a robot leaves its safety envelope, and (2) a torque-limited compliant gripper so a bad contact or misaligned insertion ends in a safe stall, instead of crushing the robot or the object at hand. \n\nWe make safety more conservative than usual so humans can sleep tight. In reality, we still need a few human operators to watch over the \"robots of loving grace\". \n\n2. Definition of /done\n\nAn agent that can edit its own reward will game it for sure. ENPIRE fixes the goalposts before the fleet can move them. Here's the recipe:\n\nCollect a few minutes of success & failure demos\n-> Ask agent to write code using computer vision tools to classify success and measure against groundtruth\n-> Agent hill-climbs on classifier until reliably good\n-> This classifier becomes the real-time reward function that directly computes on sensor streams \n-> *Freeze* the reward function before AutoResearch. It's sacred, enshrined in a Gym env that no one can touch.\n\n3. System telemetry design\n\nRobot-seconds is by far the scarcest resource, followed by GPU-seconds, and finally tokens. We instrument all three and surface them to ENPIRE for live resource awareness rather than letting it hill-climb in a vacuum. \n\nWe define:\n- Mean Robot Utilization (\"MRU\"): the fraction of wall-clock time when the robot is actively executing an experiment. Otherwise the hardware is sitting idle and waiting for the next code commit.\n- Mean Token Utilization (\"MTU\"): tokens consumed per minute, our proxy for how hard the agent is actually thinking. A low MTU means the agent is stalled, waiting on a robot rollout to finish instead of doing research.\n- GPU utilization: fraction of wall-clock time when GPU is active. \n\n... and evaluate on two budget-to-outcome metrics:\n\n1. Tokens-to-Success: token budget the fleet burns to complete /goal.\n2. Time-to-Success: wall-clock time to /goal",
-        "author": {
-          "id": "1007413134",
-          "name": "Jim Fan",
-          "screenName": "DrJimFan",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 761,
-          "retweets": 87,
-          "replies": 45,
-          "quotes": 12,
-          "views": 98887,
-          "bookmarks": 419
-        },
-        "createdAt": "Wed Jun 17 16:31:05 +0000 2026",
-        "createdAtLocal": "2026-06-18 00:31",
-        "createdAtISO": "2026-06-17T16:31:05+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2067270848499851264/vid/avc1/1920x1080/TjQcTQHBN_ugg7Yw.mp4?tag=28",
-            "width": 1920,
-            "height": 1080
-          }
-        ],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2066921736369766762",
-          "text": "Today, we enable AutoResearch in the physical world for the first time! Introducing ENPIRE: we give 8 Codex agents a fleet of robots, an allocation of GPUs, and generous token budget. We set them free with a simple goal: solve the task as quickly as possible, keep the robots busy but stay safe, don't waste precious compute. Make no mistake.\n\nThen humans step aside and our watch begins. The robot fleet starts to come alive: they learn to look for visual clues, reset the scene, practice novel skills, tinker with control stack, read papers online, debate, reflect, get stuck, and try again directly on the hardware. All we did is to give Codex an API to the world of atoms, and the rest is emergence.\n\nENPIRE is able to solve high-precision tasks like tying zip-ties, organizing fine pins, and installing GPUs all by itself. We also discovered a new type of \"physical scaling\": 8 robots exploring in parallel improves significantly faster than fewer ones. \n\nA part of our NVIDIA GEAR lab now self-improves tirelessly over night. We just read the reports in the morning. \n\n/goal: we all take a holiday and Jensen wouldn't even notice ;)\n\nWe will be open-sourcing everything, so you can host your self-running robot lab at home too! Deep dive in the thread:",
-          "author": {
-            "screenName": "DrJimFan",
-            "name": "Jim Fan"
-          }
-        }
-      },
-      {
-        "id": "2062942941363286048",
-        "text": "NitroGen just won CVPR Best Paper Honorable Mention!! We are making strides towards general-purpose embodied agents that master not only the real world physics, but also all possible physics across a multiverse of simulations. \n\nIt’s been 4 years since MineDojo, our first embodied agent in Minecraft, won NeurIPS Best Paper. Congrats to everyone on the team!!",
-        "author": {
-          "id": "1007413134",
-          "name": "Jim Fan",
-          "screenName": "DrJimFan",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 396,
-          "retweets": 48,
-          "replies": 59,
-          "quotes": 7,
-          "views": 42207,
-          "bookmarks": 92
-        },
-        "createdAt": "Fri Jun 05 17:01:39 +0000 2026",
-        "createdAtLocal": "2026-06-06 01:01",
-        "createdAtISO": "2026-06-05T17:01:39+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HKELrAXbUAAjb3L.jpg",
-            "width": 2048,
-            "height": 1536
-          }
-        ],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
       }
     ]
   }

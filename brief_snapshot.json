@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
-  "generated_at": "2026-07-01T06:02:22.033462+08:00",
-  "item_count": 16,
+  "generated_at": "2026-07-01T12:02:38.349985+08:00",
+  "item_count": 23,
   "items": [
     {
       "id": "claude-sonnet-5",
@@ -23,6 +23,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48735770",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "from-brain-waves-to-words-a-new-path-to-communication-without-surgery",
+      "label": "From brain waves to words: a new path to communication without surgery",
+      "summary": "该技术展示了无需手术即可将脑波转化为文字的突破，为瘫痪或失语患者提供了全新的非侵入式沟通路径。通过AI解码大脑信号并实时生成文本，有望降低脑机接口的使用门槛，推动辅助沟通设备商业化。对产品经理而言，这意味着自然交互界面可能从语音/手势扩展到直接意念控制，为无障碍设计、可穿戴设备和医疗健康领域带来创新机会。",
+      "pm_score": 0.565,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48739466",
       "date": "2026-07-01"
     },
     {
@@ -136,6 +147,17 @@
       "date": "2026-07-01"
     },
     {
+      "id": "trump-drops-restrictions-on-anthropic8217s-mythos-and-fable-models",
+      "label": "Trump drops restrictions on Anthropic&#8217;s Mythos and Fable models",
+      "summary": "该报道指出，特朗普政府解除了对Anthropic旗下Mythos和Fable模型的限制，Anthropic宣布将于7月1日起恢复Fable模型的访问权限。此举意味着AI模型在监管层面获得松绑，为产品经理提供了更丰富的模型选择空间，尤其是在高风险或敏感场景下的部署可能被重新评估。虽然技术细节未披露，但政策变化直接影响了AI产品的可用性和合规策略，可能促进更多企业将Anthropic的模型集成到自身应用中，加快AI商业化落地进程。产品经理需密切关注后续模型能力对比及合规要求更新。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "date": "2026-07-01"
+    },
+    {
       "id": "openclaw-is-finally-available-on-android-and-ios",
       "label": "OpenClaw is finally available on Android and iOS",
       "summary": "OpenClaw 是一款免费开源的自主代理程序，现已登陆 Android 和 iOS 平台，标志着移动端智能体时代的到来。该程序能够自主执行复杂任务，提供类似桌面端的自动化能力，且完全开源。对于产品经理而言，这意味着用户可以在手机上拥有一个本地运行的、可定制的 AI 智能助理，无需依赖云端，从而降低延迟并增强隐私。OpenClaw 的移动化将推动智能体模式向个人终端渗透，可能催生新的交互范式，如基于语音或触发的自动化工作流，为 C 端应用和 B 端移动办公场景带来创新机遇。",
@@ -147,6 +169,50 @@
       "date": "2026-07-01"
     },
     {
+      "id": "department-of-commerce-has-lifted-export-controls-on-claude-fable-5-and-mythos-5",
+      "label": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48740771",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "wayve-launches-85m-employee-tender-offer-at-85b-valuation",
+      "label": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "summary": "英国自动驾驶AI初创公司Wayve以85亿美元估值启动8500万美元员工股权收购要约，允许员工出售部分股份变现。此举是AI行业利用员工要约作为战略性人才保留工具的典型趋势，通过提供流动性增强对顶级AI人才的吸引力。对于AI产品经理而言，这反映了AI公司竞争已从技术层面扩展到人才资本激励维度——在技术壁垒高企的自动驾驶领域，如何通过股权设计保持核心团队稳定直接关系到产品迭代速度和商业落地能力。Wayve的高估值也印证了端到端自动驾驶技术的市场信心。",
+      "pm_score": 0.41,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "tabfm-a-zero-shot-foundation-model-for-tabular-data",
+      "label": "TabFM: A zero-shot foundation model for tabular data",
+      "summary": "TabFM 是一种针对表格数据的零样本基础模型，无需针对特定任务微调即可直接处理多种表格分析（如分类、回归）。其技术核心在于利用大规模异构表格预训练，学习通用表格结构语义。对产品经理而言，该模型可大幅降低企业构建表格 AI 应用的数据标注成本，加速金融、医疗、电商等场景的自动化分析落地，商业价值显著。",
+      "pm_score": 0.38,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48739919",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "the-8220father-of-the-internet8221-is-finally-retiring",
+      "label": "The &#8220;Father of the Internet&#8221; is finally retiring",
+      "summary": "互联网协议共同发明人、被誉为“互联网之父”的温顿·瑟夫（Vinton Cerf）即将从谷歌首席互联网传播官职位退休。瑟夫在TCP/IP协议的设计中发挥了核心作用，为全球互联网奠定了技术基础。他在谷歌长期推动网络普及与政策倡导，其退休象征着互联网早期建设者时代的落幕。对于AI产品经理而言，这一事件提醒我们：底层网络架构的稳健性、开放性与去中心化精神依然是AI服务规模化、低延迟部署的关键基础设施。尽管该事件不直接涉及AI技术，但反映了生态系统中关键人物的影响力更迭，可能影响谷歌在互联网治理与前沿技术推广方面的策略。",
+      "pm_score": 0.375,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "date": "2026-07-01"
+    },
+    {
       "id": "claude-sonnet-5-benchmark-results",
       "label": "Claude Sonnet 5 – benchmark results",
       "summary": "Anthropic 发布 Claude Sonnet 5 的基准测试结果，显示其在推理、代码生成和多轮对话等核心能力上相比前代显著提升，部分指标已接近或超越 GPT-4o。该模型在保持高效推理速度的同时，降低了幻觉率，增强了长上下文处理的稳定性。对产品经理而言，Claude Sonnet 5 可作为高性价比的智能助手后端，适用于复杂任务自动化、客服系统和内容生成等场景，有望降低企业部署成本并提升用户体验。Anthropic 通过持续优化模型架构与训练策略，进一步巩固其在安全对齐方面的差异化优势。",
@@ -155,6 +221,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48738528",
+      "date": "2026-07-01"
+    },
+    {
+      "id": "show-hn-i-made-a-heatmap-of-3400-vcs-who-are-open-to-cold-emails",
+      "label": "Show HN: I made a heatmap of 3400 VCs who are open to cold emails",
+      "summary": "一个名为'VC Heatmap'的工具将3400家风险投资公司（VC）对冷邮件的开放态度进行可视化，帮助初创企业高效筛选潜在投资人。该热力图通过聚合公开数据和社区反馈，直观展示各VC的偏好，降低创业者寻找投资人的信息不对称。对AI产品经理而言，此资源可用于融资策略制定，理解投资人画像，提升冷邮件回复率，是生态系统中实用的商业工具。",
+      "pm_score": 0.345,
+      "pillar": "ecosystem",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://apparent.social/heat-map",
       "date": "2026-07-01"
     },
     {
@@ -181,7 +258,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 2390,
-    "edges": 2674
+    "real_nodes": 2446,
+    "edges": 2730
   }
 }

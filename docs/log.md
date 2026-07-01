@@ -2294,3 +2294,12 @@
 - create: anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents.md
 - create: acti-puts-ai-agents-directly-into-your-smartphone-keyboard.md
 - create: anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientist.md
+
+## [2026-07-01 12:02] sync v3 | 7 new | pillars: {'capabilities': 5, 'ecosystem': 1, 'business': 1}
+- create: department-of-commerce-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.md
+- create: from-brain-waves-to-words-a-new-path-to-communication-without-surgery.md
+- create: tabfm-a-zero-shot-foundation-model-for-tabular-data.md
+- create: the-8220father-of-the-internet8221-is-finally-retiring.md
+- create: trump-drops-restrictions-on-anthropic8217s-mythos-and-fable-models.md
+- create: wayve-launches-85m-employee-tender-offer-at-85b-valuation.md
+- create: show-hn-i-made-a-heatmap-of-3400-vcs-who-are-open-to-cold-emails.md
