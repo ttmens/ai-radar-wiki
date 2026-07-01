@@ -2320,3 +2320,12 @@
 - create: godot-will-no-longer-accept-ai-authored-code-contributions.md
 - create: matrix-orthogonalization-improves-memory-in-recurrent-models.md
 - create: how-employment-changes-when-firms-adopt-generative-ai.md
+
+## [2026-07-02 00:01] sync v3 | 7 new | pillars: {'capabilities': 3, 'business': 1, 'patterns': 2, 'ecosystem': 1}
+- create: nintendo-has-raised-its-employees-base-salary-by-10.md
+- create: sony-deletes-551-movies-playstation-owners-paid-for.md
+- create: venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-t.md
+- create: gemini-spark-google8217s-agentic-assistant-is-now-available-on-mac.md
+- create: builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-tech.md
+- create: meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash.md
+- create: show-hn-coding-agent-that-compiles-intent-into-deterministic-dag-before-running.md

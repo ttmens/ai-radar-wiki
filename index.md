@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-01 | Total pages: 2104
+> Last updated: 2026-07-02 | Total pages: 2111
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -1206,6 +1206,7 @@
 - [[fission-aiopenspec.md]] Fission-AI/OpenSpec `pillar:patterns` `score:0.405`
 - [[flowiseaiflowise.md]] FlowiseAI/Flowise `pillar:patterns` `score:0.615`
 - [[from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phi.md]] From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI p `pillar:patterns` `score:0.515`
+- [[gemini-spark-google8217s-agentic-assistant-is-now-available-on-mac.md]] Gemini Spark, Google&#8217;s agentic assistant, is now available on Mac `pillar:patterns` `score:0.48`
 - [[gemini8217s-personalized-ai-image-generation-is-now-free-for-us-users.md]] Gemini&#8217;s personalized AI image generation is now free for US users `pillar:patterns` `score:0.515`
 - [[general-intuition8217s-23b-bet-that-video-games-can-train-ai-agents-for-the-real.md]] General Intuition&#8217;s $2.3B bet that video games can train AI agents for the `pillar:patterns` `score:0.515`
 - [[github-copilot-app.md]] GitHub Copilot App `pillar:patterns` `score:0.515`
@@ -1334,6 +1335,7 @@
 - [[show-hn-blitzgraph-supabase-for-graphs-built-for-llm-agents.md]] Show HN: BlitzGraph – Supabase for graphs, built for LLM agents `pillar:patterns` `score:0.33`
 - [[show-hn-blockbuzz-a-workspace-built-for-teams-of-humans-and-agents.md]] Show HN: Block/buzz: a workspace built for teams of humans and agents `pillar:patterns` `score:0.33`
 - [[show-hn-build-your-own-ai-agent-cli-in-150-lines.md]] Show HN: Build Your Own AI Agent CLI in 150 Lines `pillar:patterns` `score:0.26`
+- [[show-hn-coding-agent-that-compiles-intent-into-deterministic-dag-before-running.md]] Show HN: Coding agent that compiles intent into deterministic DAG before running `pillar:patterns` `score:0.33`
 - [[show-hn-continue-yn-a-60-second-game-about-ai-agent-permission-fatigue.md]] Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue `pillar:patterns` `score:0.295`
 - [[show-hn-costdev-yc-w21-making-agents-cost-aware-and-cheaper-to-call.md]] Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call `pillar:patterns` `score:0.33`
 - [[show-hn-crawlie-free-open-source-seo-audit-tool-for-humans-and-agents.md]] Show HN: Crawlie – Free open-source SEO audit tool for humans and agents `pillar:patterns` `score:0.295`
@@ -1579,6 +1581,7 @@
 - [[mempalacemempalace.md]] MemPalace/mempalace `pillar:ecosystem` `score:0.63`
 - [[meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers.md]] Meta Keeps Delaying the Release of Its New AI Model to Developers `pillar:ecosystem` `score:0.295`
 - [[meta-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-in.md]] Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come `pillar:ecosystem` `score:0.48`
+- [[meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash.md]] Meta, like SpaceX, looks to turn excess AI compute into cash `pillar:ecosystem` `score:0.48`
 - [[microsoftautogen.md]] microsoft/autogen `pillar:ecosystem` `score:0.615`
 - [[microsoftml-for-beginners.md]] microsoft/ML-For-Beginners `pillar:ecosystem` `score:0.545`
 - [[microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers.md]] Microsoft's open source tools were hacked to steal passwords of AI developers `pillar:ecosystem` `score:0.53`
@@ -1817,6 +1820,7 @@
 - [[austria-lobbies-eu-to-host-anthropic-after-us-access-curbs.md]] Austria Lobbies EU to Host Anthropic After US Access Curbs `pillar:business` `score:0.445`
 - [[barry-diller-trusts-sam-altman-but-8216trust-i.md]] Barry Diller trusts Sam Altman. But &#8216;trust is irrelevant&#8217; as AGI nea `pillar:business` `score:0.15`
 - [[big-ai-labs-are-hiring-philosophers.md]] Big AI labs are hiring philosophers `pillar:business` `score:0.48`
+- [[builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-tech.md]] Builders Stage agenda revealed: Practical strategies for scaling startups at Tec `pillar:business` `score:0.41`
 - [[can-llms-model-real-world-systems-in-tla.md]] Can LLMs model real-world systems in TLA+? `pillar:business` `score:0.155`
 - [[can-someone-please-explain-whether-cloudflare-blac.md]] Can Someone Please Explain Whether Cloudflare Blackmailed Canonical? `pillar:business` `score:0.355`
 - [[can-tech-companies-learn-to-love-cheaper-ai-models.md]] Can tech companies learn to love cheaper AI models? `pillar:business` `score:0.48`
@@ -1932,6 +1936,7 @@
 - [[nailing-jelly-to-a-wall-is-it-possible-2005.md]] Nailing jelly to a wall: is it possible? (2005) `pillar:business` `score:0.255`
 - [[nea8217s-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning.md]] NEA&#8217;s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning `pillar:business` `score:0.48`
 - [[new-stainless-steel-can-survive-conditions-for-hyd.md]] New stainless steel can survive conditions for hydrogen production in seawater `pillar:business` `score:0.155`
+- [[nintendo-has-raised-its-employees-base-salary-by-10.md]] Nintendo has raised its employees base salary by 10% `pillar:business` `score:0.39`
 - [[no-raise-no-promotion-1-in-4-white-collar-workers-are-stalling-out.md]] No Raise, No Promotion: 1 in 4 White-Collar Workers Are Stalling Out `pillar:business` `score:0.515`
 - [[nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic.md]] Nobel laureate John Jumper is leaving DeepMind for rival Anthropic `pillar:business` `score:0.515`
 - [[nvidia-has-already-committed-40b-to-equity-ai-dea.md]] Nvidia has already committed $40B to equity AI deals this year `pillar:business` `score:0.48`
@@ -1979,6 +1984,7 @@
 - [[snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs.md]] Snap spins off AI video team into new company, Dotmo, due to costs `pillar:business` `score:0.445`
 - [[so-you8217ve-heard-these-ai-terms-and-nodded-al.md]] So you&#8217;ve heard these AI terms and nodded along; let&#8217;s fix that `pillar:business` `score:0.305`
 - [[sond-a-sleep-tech-startup-from-bose8217s-former-head-of-sleep-exits-stealth-with.md]] SOND, a sleep tech startup from Bose&#8217;s former head of sleep, exits stealth `pillar:business` `score:0.445`
+- [[sony-deletes-551-movies-playstation-owners-paid-for.md]] Sony Deletes 551 Movies PlayStation Owners Paid For `pillar:business` `score:0.27`
 - [[south-korea8217s-letinar-is-building-optics-behind-ai-glasses.md]] South Korea&#8217;s LetinAR is building optics behind AI glasses `pillar:business` `score:0.48`
 - [[spacex-anthropic-and-openais-hot-ipo-summer.md]] SpaceX, Anthropic, and OpenAI’s hot IPO summer `pillar:business` `score:0.41`
 - [[spacex-files-to-go-public-and-the-math-requires-a-little-faith.md]] SpaceX files to go public, and the math requires a little faith `pillar:business` `score:0.305`
@@ -2038,6 +2044,7 @@
 - [[ucla-discovers-first-stroke-rehabilitation-drug-to.md]] UCLA discovers first stroke rehabilitation drug to repair brain damage (2025) `pillar:business` `score:0.255`
 - [[us-government-will-decide-who-gets-to-use-gpt-56.md]] U.S. government will decide who gets to use GPT-5.6 `pillar:business` `score:0.68`
 - [[valve-raises-steam-deck-prices.md]] Valve raises Steam Deck prices `pillar:business` `score:0.42`
+- [[venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-t.md]] Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform `pillar:business` `score:0.48`
 - [[warner-music-acquires-ai-attribution-startup-sureel-ai.md]] Warner Music acquires AI attribution startup Sureel AI `pillar:business` `score:0.48`
 - [[wasmedgewasmedge.md]] WasmEdge/WasmEdge `pillar:business` `score:0.405`
 - [[water-access-is-now-a-risk-factor-in-spacex8217s-ipo.md]] Water access is now a risk factor in SpaceX&#8217;s IPO `pillar:business` `score:0.48`
