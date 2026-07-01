@@ -2329,3 +2329,13 @@
 - create: builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-tech.md
 - create: meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash.md
 - create: show-hn-coding-agent-that-compiles-intent-into-deterministic-dag-before-running.md
+
+## [2026-07-02 06:01] sync v3 | 8 new | pillars: {'capabilities': 6, 'patterns': 2}
+- create: zcode-claude-code-from-the-makers-of-glm.md
+- create: apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses.md
+- create: spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish.md
+- create: ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller.md
+- create: cloudflare8217s-new-policy-pushes-ai-companies-to-pay-for-publishers8217-content.md
+- create: show-hn-pmb-local-memory-for-coding-agents-that-shows-if-it-is-used.md
+- create: show-hn-morph-reflexes-multi-head-classifiers-for-agent-traces.md
+- create: show-hn-z-jail-a-130-kb-linux-sandbox-c99-with-7-defense-layers-and-zero-deps.md

@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-02 | Total pages: 2111
+> Last updated: 2026-07-02 | Total pages: 2119
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -83,6 +83,7 @@
 - [[antigravity-20-tops-the-openscad-architectural-3d-llm-benchmark.md]] Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark `pillar:capabilities` `score:0.545`
 - [[apple-foundation-models.md]] Apple Foundation Models `pillar:capabilities` `score:0.48`
 - [[apple-gives-siri-its-own-dedicated-app.md]] Apple gives Siri its own dedicated app `pillar:capabilities` `score:0.445`
+- [[apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses.md]] Apple 'Hide My Email' vulnerability reveals peoples' real email addresses `pillar:capabilities` `score:0.51`
 - [[apple-is-about-to-make-hide-my-email-useless.md]] Apple is about to make Hide My Email useless `pillar:capabilities` `score:0.565`
 - [[apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-f.md]] Apple is fixing the headache of splitting the bill with its new Siri in Camera f `pillar:capabilities` `score:0.445`
 - [[apple-is-going-to-raise-device-prices-but-when.md]] Apple is going to raise device prices, but when? `pillar:capabilities` `score:0.355`
@@ -98,6 +99,7 @@
 - [[artificial-intelligence-is-not-conscious-ted-chiang.md]] Artificial intelligence is not conscious – Ted Chiang `pillar:capabilities` `score:0.595`
 - [[as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future.md]] As Anthropic suspends access to new models, India debates its AI future `pillar:capabilities` `score:0.48`
 - [[as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safa.md]] As the browser wars heat up, here are the hottest alternatives to Chrome and Saf `pillar:capabilities` `score:0.305`
+- [[ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller.md]] Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller `pillar:capabilities` `score:0.305`
 - [[asian-ai-startups-launch-mythos-like-models.md]] Asian AI startups launch Mythos-like models `pillar:capabilities` `score:0.445`
 - [[ask-hn-has-anyone-replaced-claudegpt-with-a-local-model-for-daily-coding.md]] Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding? `pillar:capabilities` `score:0.68`
 - [[ask-hn-what-was-your-oh-shit-moment-with-genai.md]] Ask HN: What was your "oh shit" moment with GenAI? `pillar:capabilities` `score:0.495`
@@ -562,6 +564,7 @@
 - [[show-hn-watch-a-neural-net-learn-to-play-snake.md]] Show HN: Watch a neural net learn to play Snake `pillar:capabilities` `score:0.36`
 - [[show-hn-we-post-trained-a-model-that-pen-tests-instead-of-refusing.md]] Show HN: We post-trained a model that pen tests instead of refusing `pillar:capabilities` `score:0.43`
 - [[show-hn-wordit-change-one-letter-keep-the-chain-going.md]] Show HN: Wordit – Change One Letter, Keep the Chain Going `pillar:capabilities` `score:0.225`
+- [[show-hn-z-jail-a-130-kb-linux-sandbox-c99-with-7-defense-layers-and-zero-deps.md]] Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps `pillar:capabilities` `score:0.225`
 - [[silurusooxml-pixel-faithful-office-documents-rendered-in-the-browser.md]] Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser `pillar:capabilities` `score:0.255`
 - [[siri-ai.md]] Siri AI `pillar:capabilities` `score:0.595`
 - [[slightly-reducing-the-sloppiness-of-ai-generated-front-end.md]] Slightly reducing the sloppiness of AI generated front end `pillar:capabilities` `score:0.55`
@@ -714,6 +717,7 @@
 - [[youtube-to-automatically-label-ai-generated-videos.md]] YouTube to automatically label AI-generated videos `pillar:capabilities` `score:0.6`
 - [[youtube-will-now-automatically-label-ai-videos.md]] YouTube will now automatically label AI videos `pillar:capabilities` `score:0.48`
 - [[zaya1-8b-an-8b-moe-model-with-760m-active-params.md]] ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math `pillar:capabilities` `score:0.38`
+- [[zcode-claude-code-from-the-makers-of-glm.md]] ZCode: Claude Code from the Makers of GLM `pillar:capabilities` `score:0.6`
 - [[zen-and-the-art-of-machine-learning-research.md]] Zen and the Art of Machine Learning Research `pillar:capabilities` `score:0.31`
 - [[zylon-aiprivate-gpt.md]] zylon-ai/private-gpt `pillar:capabilities` `score:0.58`
 - [[2-aspq-programs-with-weak-constraints-complexity-and-efficient-implementation.md]] 2-ASP(Q) programs with weak constraints: Complexity and efficient implementation `pillar:capabilities` `score:0.375`
@@ -1356,12 +1360,14 @@
 - [[show-hn-let-agents-run-any-analysis-with-mixpanel-data-no-ui-required.md]] Show HN: Let agents run any analysis with Mixpanel data, no UI required `pillar:patterns` `score:0.33`
 - [[show-hn-mnemo-local-first-ai-memory-layer-for-any-llm-rust-sqlitepetgraph.md]] Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph) `pillar:patterns` `score:0.33`
 - [[show-hn-modafinil-let-agents-continue-running-w.md]] Show HN: Modafinil - Let agents continue running while MacBook lid is closed `pillar:patterns` `score:0.205`
+- [[show-hn-morph-reflexes-multi-head-classifiers-for-agent-traces.md]] Show HN: Morph Reflexes – Multi-head classifiers for agent traces `pillar:patterns` `score:0.295`
 - [[show-hn-nanocorp-create-autonomous-companies-ru.md]] Show HN: NanoCorp – Create autonomous companies run by AI `pillar:patterns` `score:0.155`
 - [[show-hn-open-envelope-an-open-schema-for-defining-ai-agent-teams.md]] Show HN: Open Envelope – an open schema for defining AI agent teams `pillar:patterns` `score:0.33`
 - [[show-hn-open-source-agentic-qa-harness-with-memory.md]] Show HN: Open-Source Agentic QA Harness with Memory `pillar:patterns` `score:0.33`
 - [[show-hn-ouijit-an-open-source-task-and-terminal-manager-for-coding-agents.md]] Show HN: Ouijit, an open-source task and terminal manager for coding agents `pillar:patterns` `score:0.295`
 - [[show-hn-paseo-beautiful-open-source-coding-agent-interface.md]] Show HN: Paseo – Beautiful open-source coding agent interface `pillar:patterns` `score:0.38`
 - [[show-hn-peerd-ai-agent-harness-that-runs-entirely-in-your-browser.md]] Show HN: peerd – AI agent harness that runs entirely in your browser `pillar:patterns` `score:0.38`
+- [[show-hn-pmb-local-memory-for-coding-agents-that-shows-if-it-is-used.md]] Show HN: PMB – local memory for coding agents that shows if it is used `pillar:patterns` `score:0.295`
 - [[show-hn-rlm-based-local-debugger-for-ai-agent-traces.md]] Show HN: RLM-based local debugger for AI agent traces `pillar:patterns` `score:0.155`
 - [[show-hn-run-agent-skills-with-mistralrs-v0810-v1skills-support-and-more.md]] Show HN: Run Agent Skills with mistral.rs v0.8.10: /v1/skills support and more `pillar:patterns` `score:0.33`
 - [[show-hn-skill-for-your-agent-to-visualize-your-gbrain-and-obsidian.md]] Show HN: Skill for your agent to visualize your gbrain and Obsidian `pillar:patterns` `score:0.295`
@@ -1513,6 +1519,7 @@
 - [[claude-platform-on-aws.md]] Claude Platform on AWS `pillar:ecosystem` `score:0.465`
 - [[clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard.md]] Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard `pillar:ecosystem` `score:0.445`
 - [[clickhouseclickhouse.md]] ClickHouse/ClickHouse `pillar:ecosystem` `score:0.58`
+- [[cloudflare8217s-new-policy-pushes-ai-companies-to-pay-for-publishers8217-content.md]] Cloudflare&#8217;s new policy pushes AI companies to pay for publishers&#8217; c `pillar:ecosystem` `score:0.48`
 - [[comfy-orgcomfyui.md]] Comfy-Org/ComfyUI `pillar:ecosystem` `score:0.615`
 - [[config-files-that-run-code-supply-chain-security-blindspot.md]] Config Files That Run Code: Supply Chain Security Blindspot `pillar:ecosystem` `score:0.295`
 - [[copy-fail-dirty-frag-and-fragnesia-kernel-vulnerabilities.md]] Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities `pillar:ecosystem` `score:0.395`
@@ -1660,6 +1667,7 @@
 - [[snailclimbjavaguide.md]] Snailclimb/JavaGuide `pillar:ecosystem` `score:0.51`
 - [[south-korean-tech-giants-commit-over-550b-to-ease-8216ramageddon8217.md]] South Korean tech giants commit over $550B to ease &#8216;RAMageddon&#8217; `pillar:ecosystem` `score:0.515`
 - [[sp-500-rejects-spacex-also-blocking-entry-for-openai-and-anthropic.md]] S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic `pillar:ecosystem` `score:0.46`
+- [[spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish.md]] SpaceX has an AI device prototype, and it sure sounds phone-ish `pillar:ecosystem` `score:0.445`
 - [[spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab.md]] SpaceX inks compute deal with Reflection AI, an open source AI lab `pillar:ecosystem` `score:0.41`
 - [[spring-projectsspring-ai.md]] spring-projects/spring-ai `pillar:ecosystem` `score:0.53`
 - [[sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor.md]] Sriram Krishnan is leaving his role as White House AI advisor `pillar:ecosystem` `score:0.48`
