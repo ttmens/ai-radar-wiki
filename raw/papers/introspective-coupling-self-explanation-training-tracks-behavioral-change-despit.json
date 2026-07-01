@@ -1,0 +1,32 @@
+{
+  "title": "Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision",
+  "summary": "When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features of their inputs influenced their behavior, using models' counterfactual behavior on modified inputs as supervision. Surprisingly, we find that LMs trained on fixed counterfactual explanations derived from earlier checkpoints of themselves, or even from behaviorally similar models in different families, frequently produce explanations more faithful to their own current behaviors than to those of their training targets. This \"introspective\" coupling between LM explanations and behaviors occurs when training explanations remain sufficiently correlated with current behaviors over the course of training, even as behaviors themselves shift. We also show that introspective coupling tracks behavior shifts: when explanation training is provided concurrently with other post-training objectives, explanations track those shifts without requiring updated supervision. This phenomenon appears in multiple tasks, including sycophancy and refusal, and is robust to label noise. Overall, our results show that even fixed datasets of counterfactual explanations can provide scalable and generalizable post-training signal for introspection.",
+  "url": "http://arxiv.org/abs/2606.32038v1",
+  "authors": [
+    "Zifan Carl Guo",
+    "Laura Ruis",
+    "Jacob Andreas",
+    "Belinda Z. Li"
+  ],
+  "published": "2026-06-30T17:59:32Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision",
+    "training",
+    "dataset",
+    "post-training"
+  ],
+  "summary_cn": "本文研究如何训练语言模型生成对自身预测行为的忠实解释，而非表面模仿。通过让模型对修改后的输入进行反事实行为预测，并训练模型解释哪些输入特征影响了其行为，作者发现这种方法能有效促进模型的内省能力，使其解释与真实决策过程一致。该技术对提升AI产品的可解释性和可信度具有重要价值，尤其在医疗、金融等高风险场景中，可帮助产品经理构建用户信任，满足监管要求。潜在产品创新包括开发可自解释的对话系统、审计工具等。",
+  "pm_relevance": 8,
+  "concepts": [
+    "可解释AI",
+    "模型内省",
+    "忠实解释"
+  ],
+  "entities": [],
+  "patterns": [
+    "解释驱动训练",
+    "反事实评估"
+  ]
+}

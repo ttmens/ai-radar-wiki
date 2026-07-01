@@ -2303,3 +2303,20 @@
 - create: trump-drops-restrictions-on-anthropic8217s-mythos-and-fable-models.md
 - create: wayve-launches-85m-employee-tender-offer-at-85b-valuation.md
 - create: show-hn-i-made-a-heatmap-of-3400-vcs-who-are-open-to-cold-emails.md
+
+## [2026-07-01 18:02] sync v3 | 15 new | pillars: {'capabilities': 13, 'ecosystem': 1, 'patterns': 1}
+- create: introspective-coupling-self-explanation-training-tracks-behavioral-change-despit.md
+- create: qval-cheaply-evaluating-dense-supervision-signals-for-long-horizon-llm-agents.md
+- create: reinforcement-learning-with-metacognitive-feedback-elicits-faithful-uncertainty.md
+- create: when-llms-read-tables-carelessly-measuring-and-reducing-data-referencing-errors.md
+- create: freeform-preference-learning-for-robotic-manipulation.md
+- create: adajepa-an-adaptive-latent-world-model.md
+- create: flora-a-deep-learning-approach-to-predict-forest-attributes-from-heterogeneous-l.md
+- create: semrf-a-semantic-reference-frame-for-residual-stream-dynamics-in-language-models.md
+- create: automated-background-swapping-for-robustness-against-spurious-backgrounds.md
+- create: triage-role-typed-credit-assignment-for-agentic-reinforcement-learning.md
+- create: fedlab-traceable-semantic-codebooks-for-federated-multimodal-graph-foundation-le.md
+- create: comet-context-and-multiplicity-decomposition-for-multimodal-uncertainty-estimati.md
+- create: godot-will-no-longer-accept-ai-authored-code-contributions.md
+- create: matrix-orthogonalization-improves-memory-in-recurrent-models.md
+- create: how-employment-changes-when-firms-adopt-generative-ai.md

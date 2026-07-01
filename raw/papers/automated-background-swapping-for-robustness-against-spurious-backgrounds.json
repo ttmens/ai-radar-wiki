@@ -1,0 +1,29 @@
+{
+  "title": "Automated Background Swapping for Robustness against Spurious Backgrounds",
+  "summary": "Classifiers based on Deep Neural Networks exhibit strong performance across domains, yet can fail catastrophically if they rely on spurious correlations, i.e., features that are predictive of the target label in the training data but are not causally linked and thus fail to generalize. For the vision domain, many such spurious correlations manifest themselves within the background of the image, where only the foreground is predictive of the class label. In this paper, we introduce Automated Background Swapping (AutoBackSwap) to reduce the reliance of classifiers on such spurious backgrounds. AutoBackSwap uses a secondary network to disentangle the foreground and background, followed by infilling to synthesize complete backgrounds, and finally combines different foregrounds and inpainted backgrounds to augment the training data. We find that patch-wise labeling of just a few hundred samples suffices to train the secondary network and automatically augment the full training dataset on challenging image classification tasks. In contrast to many previous methods, AutoBackSwap proves very effective even if there is not a single sample in the training data breaking the spurious correlation. Across a range of image classification tasks with spurious backgrounds, AutoBackSwap consistently outperforms prior methods.",
+  "url": "http://arxiv.org/abs/2606.32018v1",
+  "authors": [
+    "Cesar Roder",
+    "Kajetan Schweighofer"
+  ],
+  "published": "2026-06-30T17:50:24Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision",
+    "training",
+    "neural network",
+    "dataset"
+  ],
+  "summary_cn": "该论文提出一种自动背景交换技术，用于提升深度神经网络分类器对虚假背景关联的鲁棒性。传统模型常过度依赖训练数据中与标签相关的背景特征，导致在真实场景中泛化失败。通过自动生成并交换图像背景，模型被迫学习更关注主体特征，从而减少对背景的虚假依赖。这种数据增强方法无需人工标注，可集成到现有训练流程中，显著提高模型在背景变化下的稳定性。对产品经理而言，该技术能降低模型部署后的意外失败风险，提升AI产品在复杂环境中的可靠性，尤其适用于图像识别、自动驾驶等对背景敏感的应用场景。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Spurious Correlation",
+    "Background Robustness",
+    "Data Augmentation"
+  ],
+  "entities": [],
+  "patterns": [
+    "Data Augmentation Pattern"
+  ]
+}
