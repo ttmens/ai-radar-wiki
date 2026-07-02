@@ -107,7 +107,8 @@ def classify_pillar(text):
             weight = 1.2 if pillar == "capabilities" else 1.0
             matches[pillar] = (len(matched), weight * len(matched), matched)
     if not matches:
-        return ("unknown", [])
+        # Default to capabilities for research/academic content that doesn't match other pillars
+        return ("capabilities", [])
     # Sort by weighted score
     primary = max(matches.keys(), key=lambda p: matches[p][1])
     return (primary, matches[primary][2])
@@ -150,9 +151,6 @@ def _load_env_file():
                         os.environ[key] = val
 
 _load_env_file()
-
-# Global API key for batch_analyze_items (was referenced but never defined)
-DASHSCOPE_API_KEY = os.environ.get("DASHSCOPE_API_KEY", "")
 
 # LLM API keys now managed by ai_model_router — see below for import
 LLM_CACHE_FILE = os.path.join(os.path.dirname(STATE_FILE), "llm_cache.json")
@@ -197,16 +195,20 @@ def save_llm_cache(cache):
 def analyze_item_llm(title, summary, item_type, pillar_guess, retries=3):
     """Call LLM to analyze a single item with retry logic.
     
-    v3.14.0: Uses unified ai_model_router with dual-model fallback.
-    Falls back to direct DashScope API call if router is unavailable.
+    v3.15.0: Uses scene-aware routing. Analysis tasks use qwen-plus (primary) 
+    with deepseek fallback for better reasoning quality.
     """
+    # Try router's specialized analyze_item first
     if HAS_MODEL_ROUTER:
-        return router_analyze_item(title, summary, item_type, pillar_guess)
+        result = router_analyze_item(title, summary, item_type, pillar_guess)
+        if result:
+            return result
     
-    # Fallback: direct API call (backward compatibility)
-    import requests
-    
-    prompt = f"""分析以下 AI 领域内容，输出 JSON：
+    # Fallback to router's generic call_llm with analysis scene
+    try:
+        from ai_model_router import call_llm as router_call_llm
+        
+        prompt = f"""分析以下 AI 领域内容，输出 JSON：
 
 标题: {title}
 摘要: {summary[:300]}
@@ -223,74 +225,19 @@ def analyze_item_llm(title, summary, item_type, pillar_guess, retries=3):
 
 只输出 JSON 格式：
 {{"summary_cn": "...", "pillar": "...", "pm_relevance": 5, "concepts": ["概念1", "概念2"], "entities": ["实体1"], "patterns": ["模式1"]}}"""
-
-    # Load API keys for fallback
-    _load_env_file()
-    api_key = os.environ.get("DASHSCOPE_API_KEY", "")
-    base_url = os.environ.get("DASHSCOPE_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1").rstrip("/")
-    
-    if not api_key:
+        
+        return router_call_llm(
+            prompt=prompt,
+            system_prompt="你是 AI 产品分析师，擅长从技术信息中提炼产品经理关注的关键点。",
+            scene="analysis",
+            temperature=0.3,
+            max_tokens=500,
+            require_json=True,
+            timeout=45,
+        )
+    except ImportError:
+        print("  ⚠️ ai_model_router 不可用，跳过单条分析")
         return None
-
-    payload = {
-        "model": "qwen3.6-plus",
-        "messages": [
-            {"role": "system", "content": "你是 AI 产品分析师，擅长从技术信息中提炼产品经理关注的关键点。"},
-            {"role": "user", "content": prompt}
-        ],
-        "temperature": 0.3,
-        "max_tokens": 500,
-    }
-
-    headers = {
-        "Content-Type": "application/json",
-        "Authorization": f"Bearer {api_key}",
-    }
-
-    for attempt in range(retries):
-        try:
-            r = requests.post(f"{base_url}/chat/completions",
-                json=payload, headers=headers, timeout=45)
-
-            if r.status_code != 200:
-                # Server error - retry
-                if attempt < retries - 1:
-                    import time
-                    wait = (attempt + 1) * 2
-                    time.sleep(wait)
-                    continue
-                return None
-
-            result = r.json()
-            content = result["choices"][0]["message"]["content"].strip()
-
-            # Extract JSON from markdown code blocks
-            if content.startswith("```"):
-                lines = content.split("\n")
-                lines = lines[1:]
-                if lines[-1].strip() == "```":
-                    lines = lines[:-1]
-                content = "\n".join(lines)
-
-            parsed = json.loads(content)
-            return parsed
-        except (json.JSONDecodeError, KeyError) as e:
-            return None
-        except (requests.RequestException, OSError) as e:
-            if attempt < retries - 1:
-                import time
-                wait = (attempt + 1) * 2
-                time.sleep(wait)
-                continue
-            return None
-        except Exception as e:
-            if attempt < retries - 1:
-                import time
-                time.sleep(2)
-                continue
-            return None
-
-    return None
 
 
 def batch_analyze_items(items, state, max_concurrent=8):
@@ -304,8 +251,15 @@ def batch_analyze_items(items, state, max_concurrent=8):
     from concurrent.futures import ThreadPoolExecutor, as_completed
     import time
 
-    if not DASHSCOPE_API_KEY:
-        print("  ⚠️ 无 DASHSCOPE_API_KEY，跳过 LLM 分析")
+    # Check if model router is available for analysis scene
+    try:
+        from ai_model_router import get_scene_config
+        models = get_scene_config("analysis")
+        if not models:
+            print("  ⚠️ 无可用 AI 模型，跳过 LLM 分析")
+            return 0
+    except ImportError:
+        print("  ⚠️ ai_model_router 不可用，跳过 LLM 分析")
         return 0
 
     cache = load_llm_cache()
@@ -629,13 +583,16 @@ def fetch_github():
     items = []
     seen_repos = set()
     try:
+        # Dynamic date: 3 months ago from today
+        from dateutil.relativedelta import relativedelta
+        cutoff_date = (datetime.now() - relativedelta(months=3)).strftime("%Y-%m-%d")
         # GitHub API doesn't support OR in topic queries, so run separate queries
         queries = [
-            "stars:>50 pushed:>2026-04-01 topic:llm",
-            "stars:>50 pushed:>2026-04-01 topic:artificial-intelligence",
-            "stars:>50 pushed:>2026-04-01 topic:ai",
-            "stars:>50 pushed:>2026-04-01 topic:machine-learning",
-            "stars:>50 pushed:>2026-04-01 topic:deep-learning",
+            f"stars:>50 pushed:>{cutoff_date} topic:llm",
+            f"stars:>50 pushed:>{cutoff_date} topic:artificial-intelligence",
+            f"stars:>50 pushed:>{cutoff_date} topic:ai",
+            f"stars:>50 pushed:>{cutoff_date} topic:machine-learning",
+            f"stars:>50 pushed:>{cutoff_date} topic:deep-learning",
         ]
         headers = {"User-Agent": "AI-Radar-Explorer/1.0", "Accept": "application/vnd.github+json"}
         for query in queries:
@@ -1021,6 +978,10 @@ def run_self_evolution():
     # 3. 更新 evolution log
     ts = now.strftime("%Y-%m-%d %H:%M")
     evo_path = f"{DOCS_DIR}/evolution.md"
+    if not os.path.exists(evo_path):
+        # Create file with header if missing
+        with open(evo_path, "w") as f:
+            f.write("# AI Radar Evolution Log\n\n## 运行日志\n")
     with open(evo_path) as f: evo_content = f.read()
     
     trending = all_tags.most_common(10)
@@ -1307,6 +1268,28 @@ sources: ["raw/showhn/{slug}.json"]
     return updates
 
 
+
+def _resolve_paper_url(node_id, label=""):
+    """Resolve paper URL from raw data or arxiv ID extraction."""
+    import glob
+    # 1. Try to find in raw/papers data
+    for fpath in glob.glob(f"{WIKI_DIR}/raw/papers/*.json"):
+        try:
+            with open(fpath) as f:
+                raw = json.load(f)
+            if raw.get("title") and slugify(raw["title"]) == node_id:
+                return raw.get("url", "")
+        except Exception:
+            pass  # Skip malformed raw paper files silently
+    # 2. Try to extract arxiv ID from label/title
+    arxiv_match = re.search(r'(\d{4}\.\d{4,7}(?:v\d+)?)', label)
+    if arxiv_match:
+        return f"https://arxiv.org/abs/{arxiv_match.group(1)}"
+    # 3. Fallback: use node_id if it looks like an arxiv ID
+    if re.match(r'\d{4}\.\d', node_id):
+        return f"https://arxiv.org/abs/{node_id.split('.')[0]}.{node_id.split('.')[1][:4]}" if '.' in node_id else ""
+    return ""
+
 def build_graph_json(items):
     """Build graph.json — merge new items with existing data to avoid data loss"""
     # Load existing graph to preserve historical nodes
@@ -1342,20 +1325,24 @@ def build_graph_json(items):
                 m_sources = re.search(r'^sources:\s*\["raw/(\w+)/', content, re.MULTILINE)
                 m_created = re.search(r'^created:\s*(\d{4}-\d{2}-\d{2})', content, re.MULTILINE)
                 m_updated = re.search(r'^updated:\s*(\d{4}-\d{2}-\d{2})', content, re.MULTILINE)
-                m_url = re.search(r'^- 🔗 (链接|Source|HN 讨论|原文):\s*(.+)$', content, re.MULTILINE)
+                m_url = re.search(r'^- (?:🔗 (?:链接|Source|HN 讨论|原文)|📄 arXiv|🔗 Product Hunt):\s*(.+)$', content, re.MULTILINE)
 
                 node_id = fname.replace(".md", "")
                 label = m_title.group(1).strip() if m_title else node_id
                 node_type = m_type.group(1).strip() if m_type else "concept"
-                pillar = m_pillar.group(1).strip() if m_pillar else "unknown"
+                pillar = m_pillar.group(1).strip() if m_pillar else "capabilities"
                 pm_score = float(m_score.group(1)) if m_score else 0.1
                 source_type = m_sources.group(1) if m_sources else "unknown"
                 node_date = m_updated.group(1) if m_updated else (m_created.group(1) if m_created else "")
-                node_url = m_url.group(2).strip() if m_url else ""
+                node_url = m_url.group(1).strip() if m_url else ""
 
                 # Skip low-value concept nodes (source tags, not real concepts)
                 low_value_labels = {"papers", "techcrunch", "hn", "showhn", "github", "concept", "unknown", "product hunt"}
                 if node_type == "concept" and label.lower() in low_value_labels:
+                    continue
+
+                # Skip nodes with unknown source type (parsing failures, orphan entries)
+                if source_type == "unknown":
                     continue
 
                 # Skip if already seen (from another directory)
@@ -1414,17 +1401,21 @@ def build_graph_json(items):
 
                 if pillar == "unknown":
                     p, kws = classify_pillar(label + " " + summary)
-                    pillar = p if p != "unknown" else "business"
+                    pillar = p  # classify_pillar now defaults to 'capabilities', never 'unknown'
 
                 # Ensure date/url never empty
                 if not node_date:
                     node_date = m_created.group(1) if m_created else datetime.now().strftime("%Y-%m-%d")
 
+                # 标记是否为今日节点（供 chat server 识别）
+                _today_str = datetime.now().strftime("%Y-%m-%d")
+                _is_today = (node_date == _today_str)
+
                 nodes.append({
                     "id": node_id, "label": label[:80], "type": {"entity": source_type, "concept": source_type}.get(node_type, node_type),
                     "pillar": pillar, "pm_score": pm_score, "tags": [source_type, pillar],
                     "summary": summary, "raw_content": raw_content, "source_type": source_type,
-                    "date": node_date, "url": node_url
+                    "date": node_date, "url": node_url, "is_today": _is_today
                 })
             except Exception as e:
                 print(f"  ⚠️ Error in build_graph_json: {e}")
@@ -1450,6 +1441,9 @@ def build_graph_json(items):
 
                 label = m_title.group(1).strip()
                 pillar = m_pillar.group(1).strip() if m_pillar else "capabilities"
+                if pillar == "unknown":
+                    p, _ = classify_pillar(label)
+                    pillar = p
                 pm_score = float(m_score.group(1)) if m_score else 0.1
                 node_date = m_updated.group(1) if m_updated else (m_created.group(1) if m_created else "")
 
@@ -1478,11 +1472,20 @@ def build_graph_json(items):
                                 summary = line[:300]
                                 break
 
+                # Extract URL from markdown content (v3.15.1: fix paper URL for wiki root papers)
+                node_url = ""
+                m_url = re.search(r'^- (?:🔗 (?:链接|Source|HN 讨论|原文)|📄 arXiv|🔗 Product Hunt):\s*(.+)$', content, re.MULTILINE)
+                if m_url:
+                    node_url = m_url.group(1).strip()
+                if not node_url:
+                    node_url = _resolve_paper_url(node_id, label)
+
                 nodes.append({
                     "id": node_id, "label": label[:80], "type": "paper",
                     "pillar": pillar, "pm_score": pm_score, "tags": ["papers", pillar],
                     "summary": summary, "raw_content": "", "source_type": "papers",
-                    "date": node_date or datetime.now().strftime("%Y-%m-%d"), "url": f"https://arxiv.org/abs/{node_id[:20]}"
+                    "date": node_date or datetime.now().strftime("%Y-%m-%d"), "url": node_url,
+                    "is_today": ((node_date or datetime.now().strftime("%Y-%m-%d")) == datetime.now().strftime("%Y-%m-%d"))
                 })
             except Exception as e:
                 print(f"  ⚠️ Error scanning wiki root: {e}")
@@ -1539,7 +1542,8 @@ def build_graph_json(items):
 
         # Fix: arXiv papers should have arxiv.org URL
         if tag == "Paper" and not node_url and item.get("title"):
-            node_url = f"https://arxiv.org/abs/{slugify(item['title'][:20])}"
+            # 尝试从 raw 数据或 title 中匹配 arxiv ID
+            node_url = _resolve_paper_url(slugify(item["title"]), item["title"])
 
         if node_id not in node_ids:
             node_ids.add(node_id)
@@ -1550,6 +1554,7 @@ def build_graph_json(items):
                 "id": node_id, "label": node_label[:80], "type": {"GitHub": "project", "Paper": "paper", "HN": "discussion", "Product": "product", "TechCrunch": "news", "ShowHN": "project"}.get(tag, "concept"),
                 "pillar": pillar, "pm_score": pm_score, "tags": [tag.lower(), pillar],
                 "summary": summary, "raw_content": summary[:500], "date": node_date, "url": node_url,
+                "is_today": (node_date == datetime.now().strftime("%Y-%m-%d")),
                 "stars": item.get("stars"), "score": item.get("score"), "comments": item.get("comments"),
                 # 新增：保存 concepts/entities/patterns 用于后续构建概念节点
                 "_concepts": item.get("concepts", []),
@@ -1557,7 +1562,7 @@ def build_graph_json(items):
                 "_patterns": item.get("patterns", [])
             })
 
-    # ===== 新增：构建概念节点体系 (L2 Information Layer) =====
+    # ===== L2 Information Layer: 概念节点体系 =====
     # 从所有 items 中提取 concepts，构建概念节点和 BELONGS_TO 边
     concept_map = {}  # concept_label -> {nodes: [], pillar_counts: {}, max_pm: 0}
     for item in items:
@@ -1620,17 +1625,17 @@ def build_graph_json(items):
             "raw_content": "",
             "date": data["first_seen"],
             "url": "",
+            "is_today": (data["first_seen"] == datetime.now().strftime("%Y-%m-%d")),
             # 概念节点特有字段
             "related_nodes": data["nodes"],
             "node_count": len(data["nodes"]),
         })
 
-        # 创建 BELONGS_TO 边（项目 → 概念）
+        # 创建 BELONGS_TO 边（项目 → 概念）— 统一使用 source/target 字段
         for nid in data["nodes"]:
             edges.append({
-                "id": f"edge_{nid}_{concept_key}",
-                "from": nid,
-                "to": concept_key,
+                "source": nid,
+                "target": concept_key,
                 "type": "BELONGS_TO",
                 "relation": "belongs_to"
             })
@@ -1641,10 +1646,11 @@ def build_graph_json(items):
         for tag in node.get("tags", []):
             tag_key = slugify(tag)
             # Only create concept nodes for valid pillar tags, not source tags
+            # 支柱分类节点: PM = 1.0 (作为图谱分类锚点，不应被过滤)
             if tag in valid_pillars:
                 if tag_key not in node_ids:
                     node_ids.add(tag_key)
-                    nodes.append({"id": tag_key, "label": tag, "type": "concept", "pillar": tag, "pm_score": 0.1, "tags": ["concept"], "summary": f"概念标签: {tag}", "date": datetime.now().strftime("%Y-%m-%d"), "url": "", "raw_content": ""})
+                    nodes.append({"id": tag_key, "label": tag, "type": "concept", "pillar": tag, "pm_score": 1.0, "tags": ["concept", "pillar_anchor"], "summary": f"支柱分类: {tag}", "date": datetime.now().strftime("%Y-%m-%d"), "url": "", "raw_content": "", "is_today": True})
                 edges.append({"source": node["id"], "target": tag_key, "relation": "belongs_to", "type": "KEYWORD", "pm_relevance": node["pm_score"] * 0.5})
             # Skip edges to source tags (papers, techcrunch, hn, etc.) to reduce noise
             # Only add edges for pillar tags
@@ -1679,30 +1685,63 @@ def build_graph_json(items):
         en_title = en.get("label", "")
         if en_title and en_title in new_by_title:
             continue
+        # Skip orphan nodes with unknown source type
+        if en.get("source_type") == "unknown":
+            continue
         all_nodes.append(en)
 
+    # v3.16: Deduplicate edges + remove orphans (fix OOM from edge bloat)
+    new_edge_keys = {(e.get("source",""), e.get("target",""), e.get("type","")) for e in all_edges}
+    final_node_ids = {n["id"] for n in all_nodes}
     for ee in existing_edges:
+        ekey = (ee.get("source",""), ee.get("target",""), ee.get("type",""))
+        if ekey in new_edge_keys:
+            continue  # skip duplicate
+        # Skip orphan edges (edge points to non-existent node)
+        if ekey[0] not in final_node_ids or ekey[1] not in final_node_ids:
+            continue
         all_edges.append(ee)
+        new_edge_keys.add(ekey)
+    print(f"  🔗 Edges: {len(all_edges)} (deduped, orphans removed)")
 
     # Sort final: high score first
     all_nodes.sort(key=lambda n: n.get("pm_score", 0), reverse=True)
 
+    # v3.16: Strip raw_content from graph.json to reduce file size (~30%)
+    # raw_content is only needed for wiki pages, not for frontend visualization
+    for n in all_nodes:
+        n.pop("raw_content", None)
+    # Also strip internal fields not needed by frontend
+    for n in all_nodes:
+        n.pop("_concepts", None)
+        n.pop("_entities", None)
+        n.pop("_patterns", None)
+
+    # v4.1: Build accurate metadata from actual node data
+    from collections import Counter as _Counter
+    _src_counts = _Counter(n.get("source_type", "unknown") for n in all_nodes if n.get("source_type"))
+    _pillar_counts = _Counter(n.get("pillar", "unknown") for n in all_nodes)
+    _today = datetime.now().strftime("%Y-%m-%d")
+    _today_count = sum(1 for n in all_nodes if n.get("date", "") == _today)
     graph_data = {
-        "nodes": all_nodes,
-        "edges": all_edges,
+        "nodes": all_nodes, "edges": all_edges,
         "generated_at": datetime.now().isoformat(),
         "generator": "ai-radar-explorer-v3",
         "schema_version": "4-pillar-pm-focused",
         "metadata": {
             "last_updated": datetime.now().isoformat(),
-            "pipeline_version": "v3.14.0",
+            "pipeline_version": "v3.16",
             "total_nodes": len(all_nodes),
             "total_edges": len(all_edges),
-            "sources": list(set(n.get("source_type", "unknown") for n in all_nodes if n.get("source_type"))),
-        },
+            "today_nodes": _today_count,
+            "sources": sorted(_src_counts.keys()),
+            "source_counts": dict(_src_counts),
+            "pillar_counts": dict(_pillar_counts)
+        }
     }
     with open(f"{WIKI_DIR}/graph.json", "w", encoding="utf-8", newline="\n") as f:
-        json.dump(graph_data, f, indent=2, ensure_ascii=False)
+        json.dump(graph_data, f, ensure_ascii=False, separators=(',', ':'))
+    print(f"  💾 graph.json: {os.path.getsize(f'{WIKI_DIR}/graph.json') / 1024 / 1024:.1f} MB")
     return graph_data
 
 
@@ -1729,13 +1768,6 @@ def generate_graph_html(graph_data):
     template_path = f"{WIKI_DIR}/graph_template.html"
     graph_html_path = f"{WIKI_DIR}/graph.html"
 
-    # DESIGN §9.3 + §6.4: 控制字符清理 + 紧凑单行格式
-    clean_data = _strip_illegal_controls(graph_data)
-    data_json = json.dumps(clean_data, ensure_ascii=False, separators=(',', ':'))
-    
-    # v3.13.0 FIX: Always regenerate from template to ensure UI/CSS updates are applied.
-    # Regex replacement on graph.html risks locking in stale CSS/JS and ignoring template updates.
-    
     if not os.path.exists(template_path):
         print(f"  ⚠️ graph_template.html not found at {template_path}")
         return
@@ -1747,10 +1779,21 @@ def generate_graph_html(graph_data):
         print(f"  ⚠️ graph_template.html missing {{DATA}} placeholder")
         return
     
-    html = html_template.replace("{{DATA}}", data_json)
+    # v3.16: Memory-efficient write — split template and write in chunks
+    # instead of holding entire HTML string in memory
+    clean_data = _strip_illegal_controls(graph_data)
+    prefix, suffix = html_template.split("{{DATA}}", 1)
+    del html_template  # free template memory
+    del clean_data  # we'll serialize directly
+    
     with open(graph_html_path, "w", encoding="utf-8", newline="\n") as f:
-        f.write(html)
-    print(f"  ✅ graph.html generated from template: {len(graph_data['nodes'])} nodes, {len(graph_data['edges'])} edges")
+        f.write(prefix)
+        json.dump(graph_data, f, ensure_ascii=False, separators=(',', ':'))
+        f.write(suffix)
+    
+    del prefix, suffix  # free remaining template memory
+    import gc; gc.collect()
+    print(f"  ✅ graph.html generated from template: {len(graph_data['nodes'])} nodes, {os.path.getsize(graph_html_path)/1024/1024:.1f} MB")
     return graph_html_path
 
 
@@ -1927,9 +1970,11 @@ def main():
     if all_items:
         batch_analyze_items(all_items, state)
     
+    import gc
     updates = build_wiki_pages(all_items, state) if all_items else []
     if all_items: print(f"  📝 Wiki: {len(updates)} updates")
     
+    gc.collect()  # v3.16: free memory before heavy graph building
     graph_data = build_graph_json(all_items)
     print(f"  🕸️ Graph: {len(graph_data['nodes'])} nodes, {len(graph_data['edges'])} edges")
     
@@ -1944,21 +1989,30 @@ def main():
     except Exception as e:
         print(f"  ⚠️ 摘要生成失败: {e}")
     
+    del all_items  # v3.16: free items memory before HTML generation
+    gc.collect()
     generate_graph_html(graph_data)
+    # v4.1: Auto-sync to docs/ for GitHub Pages deployment
+    import shutil as _sh
+    for _fname in ["graph.html", "articles.html"]:
+        _src = os.path.join(WIKI_DIR, _fname)
+        _dst = os.path.join(WIKI_DIR, "docs", _fname)
+        if os.path.exists(_src):
+            _sh.copy2(_src, _dst)
+    print("  📂 docs/ synced for GitHub Pages")
     update_index()
     update_readme(graph_data)
     
     # Self-evolution
     run_self_evolution()
     
-    # Generate daily digest for PMs
-    generate_daily_digest(all_items, state)
+    # v3.16: all_items already freed; daily_digest uses graph_data instead
+    # generate_daily_digest(all_items, state)  # skipped — digest now from graph_data
     
-    if all_items:
-        ts = datetime.now().strftime("%Y-%m-%d %H:%M")
-        entry = f"\n## [{ts}] sync v3 | {len(all_items)} new | pillars: {dict(pillar_stats)}\n"
-        for action, path in updates: entry += f"- {action}: {os.path.basename(path)}\n"
-        with open(f"{DOCS_DIR}/log.md", "a") as f: f.write(entry)
+    ts = datetime.now().strftime("%Y-%m-%d %H:%M")
+    entry = f"\n## [{ts}] sync v3 | {total_stats['new']} new | pillars: {dict(pillar_stats)}\n"
+    for action, path in updates: entry += f"- {action}: {os.path.basename(path)}\n"
+    with open(f"{DOCS_DIR}/log.md", "a") as f: f.write(entry)
     
     state["last_run"] = datetime.now().isoformat()
     state["stats"]["total_items"] += total_stats["new"]

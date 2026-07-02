@@ -1806,6 +1806,9 @@
     <div class="legend-item"><span class="dot" style="background:#f0883e"></span> 商业趋势</div>
     <div style="border-top: 1px solid var(--border); margin: 8px 0;" class="legend-row-break"></div>
     <div class="legend-item"><span class="dot" style="background:#ffd700; clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%); width: 10px; height: 10px;"></span> 概念聚合</div>
+    <div style="border-top: 1px solid var(--border); margin: 8px 0;" class="legend-row-break"></div>
+    <div class="legend-title">数据来源</div>
+    <div class="legend-item"><span class="dot" style="background:#1DA1F2; border: 2px solid #fff; box-shadow: 0 0 0 1px rgba(0,0,0,0.1);"></span> Twitter/X <span id="twitter-count" style="color: var(--muted); font-size: 10px; margin-left: 4px;"></span></div>
   </div>
 
   <!-- Graph Canvas -->
@@ -2460,10 +2463,13 @@
             var evidenceShown = insight.evidence.slice(0, 5);
             html += '<div class="evidence-list">';
             evidenceShown.forEach(function(ev, i) {
+              // Check if this evidence is from Twitter
+              const evNode = data.nodes.find(n => n.id === ev.id);
+              const isTwitter = evNode && evNode.source_type === 'twitter';
               html += '<div class="evidence-item" onclick="focusNode(\'' + (ev.id || '') + '\')">';
               html += '<span class="evidence-num">' + (i + 1) + '</span>';
               html += '<div class="evidence-content">';
-              html += '<div class="evidence-title">' + (ev.title || '') + '</div>';
+              html += '<div class="evidence-title">' + (ev.title || '') + (isTwitter ? ' <span style="color:#1DA1F2; font-size:10px;">🐦</span>' : '') + '</div>';
               html += '<span class="evidence-score">PM ' + (ev.score || 0).toFixed(2) + '</span>';
               // Score reason tooltip
               if (ev.reason) {
@@ -2541,8 +2547,16 @@
     // ===== 2. NETWORK RENDER =====
     function renderNetwork() {
       didApplyInitialGraphCamera = false;
+      // Count Twitter nodes for legend
+      const twitterNodeCount = data.nodes.filter(n => n.source_type === 'twitter').length;
+      const twitterCountEl = document.getElementById('twitter-count');
+      if (twitterCountEl) twitterCountEl.textContent = `(${twitterNodeCount})`;
+
       const nodes = new vis.DataSet(data.nodes.map(n => {
         const isConcept = n.type === 'concept';
+        const isTwitter = n.source_type === 'twitter';
+        // Twitter nodes use Twitter blue, others use pillar color
+        const nodeColor = isTwitter ? '#1DA1F2' : (pillarColors[n.pillar] || '#8b949e');
         return {
           id: n.id,
           label: n.label.length > (isConcept ? 25 : 20) ? n.label.slice(0, isConcept ? 25 : 20) + '...' : n.label,
@@ -2552,11 +2566,11 @@
             : Math.max(10, Math.min(28, (n.pm_score || 0.1) * 30 + 10)),
           color: {
             background: isConcept
-              ? adjustColor(pillarColors[n.pillar] || '#8b949e', -30)  // 概念节点颜色稍暗
-              : pillarColors[n.pillar] || '#8b949e',
-            border: isConcept ? 'rgba(0,0,0,0.2)' : 'rgba(255,255,255,0.65)',
+              ? adjustColor(nodeColor, -30)  // 概念节点颜色稍暗
+              : nodeColor,
+            border: isConcept ? 'rgba(0,0,0,0.2)' : (isTwitter ? 'rgba(255,255,255,0.8)' : 'rgba(255,255,255,0.65)'),
             highlight: {
-              background: pillarColors[n.pillar] || '#fff',
+              background: nodeColor,
               border: '#222'
             }
           },
@@ -2566,9 +2580,10 @@
             strokeWidth: 2,
             strokeColor: 'rgba(0,0,0,0.35)'
           },
-          borderWidth: isConcept ? 3 : 2,
+          borderWidth: isConcept ? 3 : (isTwitter ? 2.5 : 2),
           // 概念节点特有：存储关联节点信息
           _isConcept: isConcept,
+          _isTwitter: isTwitter,
           _relatedNodes: n.related_nodes || [],
           _nodeCount: n.node_count || 0
         };
@@ -2855,6 +2870,7 @@
       // Tags
       const tagsHtml = [];
       if (node.pillar) tagsHtml.push('<span class="tag pillar">' + (pillarNames[node.pillar] || node.pillar) + '</span>');
+      if (node.source_type === 'twitter') tagsHtml.push('<span class="tag" style="background:#1DA1F2; color:#fff;">🐦 Twitter/X</span>');
       if (node.date) tagsHtml.push('<span class="tag">📅 ' + node.date + '</span>');
       if (node.pm_score) tagsHtml.push('<span class="tag score">🎯 PM ' + node.pm_score.toFixed(1) + '</span>');
       if (node.type === 'concept') {
