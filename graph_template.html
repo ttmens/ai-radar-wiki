@@ -2547,12 +2547,24 @@
     // ===== 2. NETWORK RENDER =====
     function renderNetwork() {
       didApplyInitialGraphCamera = false;
+      
+      // P0 性能优化：前端过滤低价值节点 (PM Score < 0.3)
+      const filteredNodes = data.nodes.filter(n => (n.pm_score || 0) >= 0.3);
+      const filteredNodeIds = new Set(filteredNodes.map(n => n.id));
+      
+      // P0 性能优化：完全移除 KEYWORD 边（不只是 hidden），减少 72% 物理计算
+      const filteredEdges = data.edges.filter(e => {
+        const isKeyword = e.type === 'KEYWORD';
+        // 过滤掉 KEYWORD 边 + 指向已过滤节点的边
+        return !isKeyword && filteredNodeIds.has(e.source || e.from) && filteredNodeIds.has(e.target || e.to);
+      });
+      
       // Count Twitter nodes for legend
-      const twitterNodeCount = data.nodes.filter(n => n.source_type === 'twitter').length;
+      const twitterNodeCount = filteredNodes.filter(n => n.source_type === 'twitter').length;
       const twitterCountEl = document.getElementById('twitter-count');
       if (twitterCountEl) twitterCountEl.textContent = `(${twitterNodeCount})`;
 
-      const nodes = new vis.DataSet(data.nodes.map(n => {
+      const nodes = new vis.DataSet(filteredNodes.map(n => {
         const isConcept = n.type === 'concept';
         const isTwitter = n.source_type === 'twitter';
         // Twitter nodes use Twitter blue, others use pillar color
@@ -2589,14 +2601,11 @@
         };
       }));
 
-      const edges = new vis.DataSet(data.edges.map(e => {
+      const edges = new vis.DataSet(filteredEdges.map(e => {
         const isBelongsTo = e.type === 'BELONGS_TO' || e.relation === 'belongs_to';
-        const isKeyword = e.type === 'KEYWORD';
-        // P0 性能优化：隐藏 KEYWORD 概念边（占 93%），减少视觉噪音和物理计算
         return {
           from: e.source || e.from,
           to: e.target || e.to,
-          hidden: isKeyword,
           color: {
             color: isBelongsTo
               ? 'rgba(180, 140, 0, 0.4)'
@@ -2606,8 +2615,7 @@
           },
           width: isBelongsTo ? 1 : e.type === 'PILLAR' ? 1.5 : 0.5,
           smooth: { type: 'curvedCW', roundness: 0.1 },
-          _isBelongsTo: isBelongsTo,
-          _isKeyword: isKeyword
+          _isBelongsTo: isBelongsTo
         };
       }));
 
@@ -2683,7 +2691,7 @@
       network = new vis.Network(document.getElementById('mynetwork'), { nodes, edges }, {
         physics: {
           barnesHut: graphPhysicsBarnes,
-          stabilization: { iterations: 200, updateInterval: 25 }  // P0: 400→200 加速初始化
+          stabilization: { iterations: 100, updateInterval: 20 }  // P0: 200→100 加速初始化
         },
         interaction: { hover: true, zoomView: true, dragView: true, dragNodes: true }
       });
@@ -2729,10 +2737,10 @@
       }, 2000);
 
       // 统计节点数时排除概念节点
-      const realNodeCount = data.nodes.filter(n => n.type !== 'concept').length;
-      const conceptCount = data.nodes.filter(n => n.type === 'concept').length;
+      const realNodeCount = filteredNodes.filter(n => n.type !== 'concept').length;
+      const conceptCount = filteredNodes.filter(n => n.type === 'concept').length;
       const nodeLabel = realNodeCount + ' 节点';
-      const edgeLabel = data.edges.length + ' 边';
+      const edgeLabel = filteredEdges.length + ' 边';
       var nodeCountEl = document.getElementById('node-count');
       var edgeCountEl = document.getElementById('edge-count');
       if (nodeCountEl) nodeCountEl.textContent = nodeLabel;
