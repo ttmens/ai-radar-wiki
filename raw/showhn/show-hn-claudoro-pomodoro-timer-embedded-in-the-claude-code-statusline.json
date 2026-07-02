@@ -1,0 +1,25 @@
+{
+  "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
+  "score": 22,
+  "comments": 17,
+  "url": "https://github.com/emson/claudoro",
+  "hn_url": "https://news.ycombinator.com/item?id=48745590",
+  "tag": "ShowHN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Claudoro 是一款嵌入 Claude Code 状态栏的番茄钟工具，让开发者在不离开终端环境的情况下管理时间。它利用 Claude Code 的扩展机制，将生产力工具直接集成到 AI 编程工作流中，通过自动追踪专注和休息周期来提升效率。这一创新降低了切换上下文的认知负担，强化了 AI 助手与开发者日常习惯的绑定，为 AI 工具的平台化提供了“基础设施即功能”的设计思路。商业上，该功能增加用户粘性并可能通过健康工作模式吸引更多开发者采用 Claude Code。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Pomodoro Technique",
+    "AI Developer Tools",
+    "Inline Integration"
+  ],
+  "entities": [
+    "Claude Code",
+    "Anthropic"
+  ],
+  "patterns": [
+    "Embedded Productivity Tool",
+    "AI Workflow Extension"
+  ]
+}

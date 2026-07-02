@@ -1,0 +1,24 @@
+{
+  "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
+  "score": 80,
+  "comments": 29,
+  "url": "https://www.mixedbread.com/blog/asymmetric-quant",
+  "hn_url": "https://news.ycombinator.com/item?id=48724127",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "quantization",
+    "retrieval"
+  ],
+  "summary_cn": "非对称量化技术实现近无损向量检索，存储空间减少97%。通过针对查询和文档向量采用不同量化策略（如高精度查询、低精度索引），在保持召回率接近原始精度的前提下大幅压缩索引大小，降低存储和带宽成本。产品经理可关注该技术对大规模检索系统的成本优化，适用于推荐、搜索、RAG等场景，尤其适合存储敏感型应用，如云端SaaS或移动端部署。",
+  "pm_relevance": 9,
+  "concepts": [
+    "向量量化",
+    "存储优化",
+    "近无损检索"
+  ],
+  "entities": [],
+  "patterns": [
+    "量化压缩模式"
+  ]
+}

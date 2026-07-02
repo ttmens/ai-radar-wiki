@@ -1,0 +1,21 @@
+{
+  "title": "The primary purpose of code review is to find code that will be hard to maintain",
+  "score": 169,
+  "comments": 97,
+  "url": "https://mathstodon.xyz/@mjd/115096720350507897",
+  "hn_url": "https://news.ycombinator.com/item?id=48759870",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "本文讨论代码审查的核心目标是识别可能增加维护负担的代码，而非仅仅寻找错误。对于AI产品经理而言，这意味着可以构建自动审查工具，利用大语言模型分析代码复杂度和可读性，提前预警重构必要性。此类技术能降低技术债务、减少后期维护成本，提升团队迭代效率。商业价值体现在加速交付可靠代码，产品创新方向包括集成持续审查的AI代理或IDE插件，实现实时反馈。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Code Review",
+    "Maintainability",
+    "AI-Assisted Code Analysis"
+  ],
+  "entities": [],
+  "patterns": [
+    "AI Code Review Pattern"
+  ]
+}

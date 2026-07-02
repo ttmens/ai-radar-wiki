@@ -2362,3 +2362,19 @@
 - create: kimi-k27-code-is-generally-available-in-github-copilot.md
 - create: senior-swe-bench-open-source-benchmark-that-assesses-agents-as-senior-engineers.md
 - create: indian-tech-tycoon-bets-30m-of-his-own-money-to-build-ai-alternative-to-microsof.md
+
+## [2026-07-03 00:01] sync v3 | 14 new | pillars: {'capabilities': 13, 'ecosystem': 1}
+- create: show-hn-mail-memories-a-desktop-app-to-rescue-photos-from-gmail.md
+- create: ai-cant-be-listed-as-inventor-on-patent-applications-japans-top-court-rules.md
+- create: is-one-layer-enough-a-single-transformer-layer-matches-full-parameter-rl-train.md
+- create: the-primary-purpose-of-code-review-is-to-find-code-that-will-be-hard-to-maintain.md
+- create: the-egg-bandits-made-a-thousand-times-the-fine-they-just-paid-for-price-fixing.md
+- create: asymmetric-quantization-near-lossless-retrieval-with-97-storage-reduction.md
+- create: ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news.md
+- create: openai-in-early-talks-to-give-5-stake-to-us-government.md
+- create: openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund.md
+- create: microsoft-launches-its-own-ai-deployment-company-with-25-billion-commitment.md
+- create: yep-we8217re-using-openclaw-to-date-now.md
+- create: show-hn-cli-tool-for-detecting-non-exact-code-duplication-with-embedding-models.md
+- create: show-hn-claudoro-pomodoro-timer-embedded-in-the-claude-code-statusline.md
+- create: show-hn-a-graph-paper-generator-that-renders-vector-pdfs-in-the-browser.md
