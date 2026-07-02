@@ -1,0 +1,31 @@
+{
+  "title": "FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model",
+  "summary": "Current work on robot furniture assembly mostly focuses on toy-scale settings or single-arm manipulation. We introduce FurnitureVLA, the first systematic study of real-scale bimanual furniture assembly using Vision-Language-Action models (VLAs). We formalize the task, develop a scalable simulation pipeline for expert data generation and evaluation, and build a VR teleoperation system for single-operator bimanual control to collect high-quality real-world demonstrations. To address extreme long-horizon assembly with up to 7 subtasks and 1550 control steps, we propose a progress-enhanced VLA, finetuned on semantically grounded subtasks, that jointly predicts actions and a continuous progress signal, enabling automatic subtask transitions and reducing compounding errors during inference. We further study perception and control design factors that critically affect precision in real-scale assembly. FurnitureVLA improves average simulation success from 48% to 80% compared to baselines across three furniture types, with an additional 21% gain from our design factor study. We validate on a real Kinova Gen3 platform with only 16% drop on the hardest task.",
+  "url": "http://arxiv.org/abs/2607.01212v1",
+  "authors": [
+    "Chenyang Ma",
+    "Yue Yang",
+    "Radu Corcodel",
+    "Siddarth Jain",
+    "Andrew Wu"
+  ],
+  "published": "2026-07-01T17:51:21Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "vision",
+    "precision"
+  ],
+  "summary_cn": "FurnitureVLA首次系统性研究真实尺度下的双臂家具组装任务，利用视觉-语言-动作模型（VLA）实现长周期操作。该工作突破传统玩具规模或单臂限制，构建可扩展仿真平台，为工业级自动化组装提供新思路。核心价值在于通过多模态感知与决策，实现复杂家具的自主装配，有望降低人工成本并提升生产效率。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Vision-Language-Action Models",
+    "Bimanual Manipulation",
+    "Long-Horizon Tasks"
+  ],
+  "entities": [],
+  "patterns": [
+    "Sim-to-Real Transfer"
+  ]
+}

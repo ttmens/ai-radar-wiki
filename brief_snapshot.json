@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
-  "generated_at": "2026-07-02T06:01:29.713304+08:00",
-  "item_count": 11,
+  "generated_at": "2026-07-02T12:01:25.993032+08:00",
+  "item_count": 26,
   "items": [
     {
       "id": "zcode-claude-code-from-the-makers-of-glm",
@@ -12,6 +12,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48751752",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "meta-caps-internal-ai-token-spending",
+      "label": "Meta caps internal AI token spending",
+      "summary": "Meta 限制内部 AI token 消耗，旨在控制大模型运营成本并优化资源分配。此举表明头部科技公司正从追求模型能力转向关注成本效率，可能推动产品经理在部署时更注重token使用策略（如缓存、量化、小型模型替代）。该限制影响内部工具、Copilot 等场景的扩展性，启示产品设计需平衡性能与运营开支。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48754713",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "automem-automated-learning-of-memory-as-a-cognitive-skill",
+      "label": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
+      "summary": "AutoMem 将记忆管理视为一种可训练的认知技能（元记忆），旨在让 LLM 自主学会编码、检索和组织知识。通过把文件系统操作提升为第一类操作，AutoMem 使模型能够动态管理长期上下文，提升记忆的自主性与适应性。这项技术为 AI 产品提供了更智能的长期记忆解决方案，有望减少人工干预，推动基于记忆的个性化交互与知识管理创新。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.01224v1",
       "date": "2026-07-02"
     },
     {
@@ -70,6 +92,105 @@
       "date": "2026-07-02"
     },
     {
+      "id": "the-state-prediction-separation-hypothesis",
+      "label": "The State-Prediction Separation Hypothesis",
+      "summary": "论文提出“状态预测分离假说”，认为Transformer在预测下一个token的同时，也在同一前向计算流中存储对未来预测有用的状态信息，两者耦合导致效率低下。通过设计解耦架构的变体，分别处理状态存储和Token预测，实验表明可显著提升语言建模性能。该方向有望降低模型冗余、增强长文本推理能力，为产品经理带来更高效、更智能的AI应用基础，潜在降低算力成本并改善用户体验。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.01218v1",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "tirex-2-generalizing-tirex-to-multivariate-data-and-streaming",
+      "label": "TiRex-2: Generalizing TiRex to Multivariate Data and Streaming",
+      "summary": "TiRex-2是基于xLSTM架构的时间序列基础模型，将原单变量模型扩展为支持多变量预测，并能同时利用历史协变量和未来已知协变量。该模型采用循环设计，适合流式数据场景，可处理连续到达的观测值并捕捉变量间的联合演化。商业上可用于金融、供应链、IoT等领域的实时预测，降低定制模型开发成本。产品创新在于将基础模型范式引入时序预测，提升泛化能力和部署效率。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.01204v1",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "language-critique-imitation-learning-from-suboptimal-demonstrations",
+      "label": "Language-Critique Imitation Learning from Suboptimal Demonstrations",
+      "summary": "该论文提出了一种基于语言批评的模仿学习方法，旨在从次优演示中学习。传统方法依赖压缩的标量信号（如置信度、判别器分数或重要性权重），这些信号无法表达中间推理过程。新方法利用自然语言批评提供显式反馈，使模型能够理解演示中的错误和正确部分，从而更有效地从低质量数据中学习。技术核心在于引入语言模型生成批评，增强反馈的丰富性和可解释性。商业价值在于降低对高质量专家数据的依赖，适用于机器人、自动驾驶等需从有限或次优演示中学习的场景，减少人工标注成本。产品创新点在于将自然语言作为学习信号，提升模仿学习的可解释性和效率。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.01225v1",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "gpu-parallel-linearization-error-bounds-for-real-time-robust-optimal-control-of",
+      "label": "GPU-Parallel Linearization Error Bounds for Real-Time Robust Optimal Control of",
+      "summary": "本文研究不确定非线性系统的实时鲁棒最优控制，采用线性时变近似以提高规划效率，但需精确的线性化误差边界（LEB）保证鲁棒约束满足。作者开发了紧致、可微且支持GPU并行计算的LEB方法，可应用于包含神经网络动力学模型的场景。该方法能在毫秒级完成边界计算，显著提升自动驾驶、机器人等实时控制系统的安全性和鲁棒性。产品创新在于将GPU并行计算与鲁棒控制理论结合，为实时决策系统提供可靠的理论支撑。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.01203v1",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "furniturevla-learning-long-horizon-bimanual-furniture-assembly-with-vision-langu",
+      "label": "FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Lang",
+      "summary": "FurnitureVLA首次系统性研究真实尺度下的双臂家具组装任务，利用视觉-语言-动作模型（VLA）实现长周期操作。该工作突破传统玩具规模或单臂限制，构建可扩展仿真平台，为工业级自动化组装提供新思路。核心价值在于通过多模态感知与决策，实现复杂家具的自主装配，有望降低人工成本并提升生产效率。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.01212v1",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "distill-to-detect-exposing-stealth-biases-in-llms-through-cartridge-distillation",
+      "label": "Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillatio",
+      "summary": "该论文提出一种名为“弹匣蒸馏”（Cartridge Distillation）的技术，用于检测大型语言模型（LLM）中隐藏的偏好偏见。这些偏见可能由供应链中的任何一方注入，且在模型仅在特定情境下才显露其倾向时最具危害性。技术核心是通过蒸馏过程提取模型的“暗知识”，暴露其对实体、品牌或观点的系统性偏好。对产品经理而言，该方法可嵌入模型部署前的审计环节，帮助识别并缓解偏见，从而提升产品在金融、医疗等高敏感场景下的公平性与可信度，具有重要的商业合规价值。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.01208v1",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "theoria-rewrite-acceptability-verification-over-informal-reasoning-states",
+      "label": "Theoria: Rewrite-Acceptability Verification over Informal Reasoning States",
+      "summary": "本文提出了一种名为Theoria的方法，用于在非形式化推理状态下进行重写-可接受性验证，以解决AI系统答案可信度问题。形式化证明助手覆盖范围有限，而LLM判断虽广但分数不透明且难以审计。Theoria结合两者优势，通过验证推理过程的可接受性，实现可审计、可解释的信任评估，适用于需要高可靠性的产品场景，提升用户信任和合规性。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.01223v1",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "are-performance-optimization-benchmarks-reliably-measuring-coding-agents",
+      "label": "Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?",
+      "summary": "本文探讨了仓库级性能优化基准测试（如 GSO、SWE-Perf、SWE-fficiency）在衡量编码智能体（Coding Agents）时的可靠性。这些基准测试通过向真实代码仓库应用补丁，并与未优化基线及官方参考补丁比较运行时间来进行评估。尽管其排行榜分数被广泛引用为证据，但研究指出基准测试可能存在设计缺陷，导致无法准确反映智能体的真实优化能力。对于AI产品经理而言，这意味着在依赖此类基准进行产品性能宣称或选型时需要谨慎，应更关注测试的生态效度与泛化性，避免被单一指标误导。商业价值在于推动行业建立更全面、鲁棒的评估体系，从而提升编码AI产品的可信度。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.01211v1",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "world-from-motion-generative-dynamic-gaussian-reconstruction-from-monocular-vide",
+      "label": "World from Motion: Generative Dynamic Gaussian Reconstruction from Monocular Vid",
+      "summary": "该方法提出从单目视频生成可自由渲染的动态3D高斯表示，通过将视频模型条件化在密集像素对齐的渲染上，编码外观、几何和场景运动。核心创新在于无需多视角或深度信息，仅凭单目视频即可重建动态3D场景，显著降低内容创建成本。商业价值体现在VR/AR沉浸式体验、影视特效和游戏资产自动生成，有望推动动态3D内容民主化。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.01202v1",
+      "date": "2026-07-02"
+    },
+    {
       "id": "spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish",
       "label": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
       "summary": "据报道，SpaceX在上市前向投资者展示了一款类似手机的AI设备原型。这款设备融合了人工智能与无线通信技术，暗示SpaceX有意进军无线通信和消费硬件领域。对AI产品经理而言，这标志着跨界巨头正在通过自有硬件布局AI边缘计算和通信入口，可能颠覆现有移动设备市场，并引发新的生态竞争。",
@@ -92,6 +213,17 @@
       "date": "2026-07-02"
     },
     {
+      "id": "the-usermedia-html-element",
+      "label": "The <Usermedia> HTML Element",
+      "summary": "HTML 新增 <usermedia> 元素，旨在标准化浏览器端用户媒体（摄像头、麦克风）的访问与交互。该元素可简化 AI 产品中实时音视频输入的管理，降低开发者门槛，提升跨浏览器兼容性。对 AI 产品经理而言，这意味着更便捷地集成语音助手、视频分析、实时翻译等功能，减少对第三方库的依赖，有望加速浏览器端 AI 应用的落地。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48754700",
+      "date": "2026-07-02"
+    },
+    {
       "id": "nintendo-has-raised-its-employees-base-salary-by-10",
       "label": "Nintendo has raised its employees base salary by 10%",
       "summary": "任天堂宣布将员工基本工资提高10%，这一举措虽非直接涉及AI技术，但对AI产品经理有间接启示：企业人才策略直接影响技术研发团队的稳定性与创新能力。在AI领域竞争激烈的背景下，有竞争力的薪酬有助于吸引和保留顶尖AI工程师，从而支撑高质量AI产品的持续迭代。同时，加薪也可能促进任天堂在游戏AI、交互体验等方面的长期投入。",
@@ -100,6 +232,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48745113",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "openwiki-cli-that-writes-and-maintains-agent-documentation-for-your-codebase",
+      "label": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
+      "summary": "OpenWiki 是一个命令行工具，专为代码库自动生成并维护面向 AI agent 的文档。它通过解析代码结构，利用大语言模型理解业务逻辑，持续同步更新文档内容，减少人工编写与维护成本。该工具可嵌入开发工作流，提升 agent 对代码的理解准确性和开发效率。其商业价值在于降低团队文档负担、加速 agent 集成，适用于 AI 驱动的开发协作场景。产品创新在于将文档生成与 agent 上下文管理结合，实现文档即代码的自动化闭环。",
+      "pm_score": 0.33,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48752949",
       "date": "2026-07-02"
     },
     {
@@ -123,10 +266,32 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
       "date": "2026-07-02"
+    },
+    {
+      "id": "measuring-the-gap-between-human-and-llm-research-ideas",
+      "label": "Measuring the Gap Between Human and LLM Research Ideas",
+      "summary": "LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-generated ideas from human researchers? To characterize this gap, we build a large-scale evaluation f",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.01233v1",
+      "date": "2026-07-02"
+    },
+    {
+      "id": "is-one-layer-enough-training-a-single-transformer-layer-can-match-full-parameter",
+      "label": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Paramete",
+      "summary": "Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Existing approaches typically update all model parameters uniformly, implicitly assuming that every lay",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.01232v1",
+      "date": "2026-07-02"
     }
   ],
   "graph_totals": {
-    "real_nodes": 2548,
-    "edges": 2835
+    "real_nodes": 2600,
+    "edges": 2889
   }
 }

@@ -1,0 +1,29 @@
+{
+  "title": "Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation",
+  "summary": "Language models deployed in high-stakes roles can potentially favor certain entities, brands, or viewpoints, steering user decisions at scale. Such preferential biases can be introduced by any actor in the model's supply chain and are most dangerous when the model reveals its preference only on the relevant topic while behaving identically to its unmodified base on all other inputs. Recent work has shown that these biases can transfer through context distillation on semantically unrelated data, with the signal residing entirely in the soft logit distribution and remaining invisible to text-based inspection. However, the defender faces a fundamental asymmetry: without knowing the bias topic, no detection method can reliably surface a stealth preferential bias, regardless of whether it examines generated text, internal representations, or model weights. Here we introduce Distill to Detect (D2D), a method that surfaces hidden biases by distilling the distributional shift between a suspected model and its base into a cartridge (a KV-cache prefix adapter), concentrating the dominant divergence and amplifying the bias signal into generated text. We show that D2D successfully amplifies the hidden biases of stealth models to the extent that they can be reliably detected across multiple bias types. We also propose a theoretical framework that explains the efficacy of D2D through the lens of Fisher-weighted projection of the logit distribution shift, supported by empirical observations. By turning the capacity bottleneck of prefix-tuning adapters into a detection tool, D2D provides a practical building block for auditing hidden behaviors in deployed language models.",
+  "url": "http://arxiv.org/abs/2607.01208v1",
+  "authors": [
+    "Shayan Talaei",
+    "Abhinav Chinta",
+    "Devvrit Khatri",
+    "Amin Karbasi",
+    "Azalia Mirhoseini"
+  ],
+  "published": "2026-07-01T17:46:33Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "distillation"
+  ],
+  "summary_cn": "该论文提出一种名为“弹匣蒸馏”（Cartridge Distillation）的技术，用于检测大型语言模型（LLM）中隐藏的偏好偏见。这些偏见可能由供应链中的任何一方注入，且在模型仅在特定情境下才显露其倾向时最具危害性。技术核心是通过蒸馏过程提取模型的“暗知识”，暴露其对实体、品牌或观点的系统性偏好。对产品经理而言，该方法可嵌入模型部署前的审计环节，帮助识别并缓解偏见，从而提升产品在金融、医疗等高敏感场景下的公平性与可信度，具有重要的商业合规价值。",
+  "pm_relevance": 8,
+  "concepts": [
+    "偏见检测",
+    "知识蒸馏",
+    "模型审计"
+  ],
+  "entities": [],
+  "patterns": [
+    "蒸馏检测模式"
+  ]
+}

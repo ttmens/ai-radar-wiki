@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-01T21:01:18.936857",
+  "fetched_at": "2026-07-02T09:03:26.769460",
   "source": "twitter-cli",
   "data": {
     "sama": [
@@ -14,12 +14,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 622,
-          "retweets": 91,
-          "replies": 103,
+          "likes": 631,
+          "retweets": 94,
+          "replies": 112,
           "quotes": 12,
-          "views": 203710,
-          "bookmarks": 74
+          "views": 209716,
+          "bookmarks": 75
         },
         "createdAt": "Fri Jun 26 15:43:11 +0000 2026",
         "createdAtLocal": "2026-06-26 23:43",
@@ -42,11 +42,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 4813,
-          "retweets": 153,
-          "replies": 367,
+          "likes": 4829,
+          "retweets": 154,
+          "replies": 380,
           "quotes": 37,
-          "views": 884959,
+          "views": 893780,
           "bookmarks": 206
         },
         "createdAt": "Fri Jun 26 21:06:21 +0000 2026",
@@ -78,12 +78,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 981,
+          "likes": 993,
           "retweets": 25,
-          "replies": 172,
+          "replies": 177,
           "quotes": 8,
-          "views": 137063,
-          "bookmarks": 36
+          "views": 140121,
+          "bookmarks": 38
         },
         "createdAt": "Fri Jun 26 21:06:45 +0000 2026",
         "createdAtLocal": "2026-06-27 05:06",
@@ -106,11 +106,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 6332,
+          "likes": 6337,
           "retweets": 142,
-          "replies": 557,
+          "replies": 563,
           "quotes": 33,
-          "views": 585520,
+          "views": 589031,
           "bookmarks": 181
         },
         "createdAt": "Fri Jun 26 20:55:58 +0000 2026",
@@ -134,12 +134,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 18382,
-          "retweets": 1128,
-          "replies": 1918,
-          "quotes": 504,
-          "views": 2185260,
-          "bookmarks": 1943
+          "likes": 18385,
+          "retweets": 1127,
+          "replies": 1919,
+          "quotes": 505,
+          "views": 2193027,
+          "bookmarks": 1941
         },
         "createdAt": "Fri Jun 26 20:37:49 +0000 2026",
         "createdAtLocal": "2026-06-27 04:37",
@@ -152,174 +152,7 @@
         "score": null
       }
     ],
-    "karpathy": [
-      {
-        "id": "2071972062202343590",
-        "text": "We're coming out of stealth.\n\nWe've built our first racks after a successful A0 tapeout, $1B+ in customer contracts, and $800m raised.\n\nEarly customer tests show us achieving SOTA throughput, latency, and power efficiency on inference workloads.\n\nOur first racks ship this summer. https://t.co/FLccrkLTza",
-        "author": {
-          "id": "1781914021760991232",
-          "name": "Etched",
-          "screenName": "Etched",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1781917146752413696/KXVls07D_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 8428,
-          "retweets": 819,
-          "replies": 549,
-          "quotes": 527,
-          "views": 4601501,
-          "bookmarks": 3267
-        },
-        "createdAt": "Tue Jun 30 15:00:09 +0000 2026",
-        "createdAtLocal": "2026-06-30 23:00",
-        "createdAtISO": "2026-06-30T15:00:09+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HMEfnAMbAAAlKme.jpg",
-            "width": 1920,
-            "height": 1080
-          }
-        ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "karpathy",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2069465879696576844",
-        "text": "https://t.co/CGIef5lIBI",
-        "author": {
-          "id": "2048097880880349184",
-          "name": "Engram",
-          "screenName": "EngramLab",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2062224875016822784/33VKsaYZ_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 1780,
-          "retweets": 224,
-          "replies": 175,
-          "quotes": 153,
-          "views": 1734013,
-          "bookmarks": 1160
-        },
-        "createdAt": "Tue Jun 23 17:01:29 +0000 2026",
-        "createdAtLocal": "2026-06-24 01:01",
-        "createdAtISO": "2026-06-23T17:01:29+00:00",
-        "media": [],
-        "urls": [
-          "http://x.com/i/article/2069463677733142528"
-        ],
-        "isRetweet": true,
-        "retweetedBy": "karpathy",
-        "lang": "zxx",
-        "score": null,
-        "articleTitle": "Introducing Engram: Scaling compute on your context"
-      },
-      {
-        "id": "2069547676849557725",
-        "text": "This is a new paradigm for interacting with Claude that is significantly more \"inline\" with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this \"just work\" (e.g. across tools, integrations, compute environments, memory, security, etc.), Claude basically joins the team in a seamless way - you can talk to it as you would talk to a person and it can help with a very large variety of workloads.\n\nImo this is the 3rd major redesign of LLM UIUX. The first paradigm was that the LLM is a website you go to, the second was that it is an app you download to your computer. This third one is that it is a self-contained, persistent, asynchronous entity with org-wide tools and context, working alongside teams of humans. It really takes a while to wrap your head around it, but it works and it is awesome.",
-        "author": {
-          "id": "33836629",
-          "name": "Andrej Karpathy",
-          "screenName": "karpathy",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 22847,
-          "retweets": 1892,
-          "replies": 1277,
-          "quotes": 682,
-          "views": 7766169,
-          "bookmarks": 13909
-        },
-        "createdAt": "Tue Jun 23 22:26:31 +0000 2026",
-        "createdAtLocal": "2026-06-24 06:26",
-        "createdAtISO": "2026-06-23T22:26:31+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2069468693017268244",
-          "text": "Introducing Claude Tag, a new way for teams to work with Claude.\n\nIn Slack, Claude joins as a team member with access to the channels and tools you choose. Tag Claude in and delegate tasks to it while you focus on other work. https://t.co/R2C6A5Kcye",
-          "author": {
-            "screenName": "claudeai",
-            "name": "Claude"
-          }
-        }
-      },
-      {
-        "id": "2065490793092337691",
-        "text": "In awe of SpaceX and its story - past, present and the future. You can think about it in 10+ different ways and continue re-blowing your mind in circles. Huge congrats to the team! 🚀",
-        "author": {
-          "id": "33836629",
-          "name": "Andrej Karpathy",
-          "screenName": "karpathy",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 21930,
-          "retweets": 1021,
-          "replies": 393,
-          "quotes": 41,
-          "views": 1010412,
-          "bookmarks": 866
-        },
-        "createdAt": "Fri Jun 12 17:45:54 +0000 2026",
-        "createdAtLocal": "2026-06-13 01:45",
-        "createdAtISO": "2026-06-12T17:45:54+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2064409694761054332",
-        "text": "This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's SOTA on everything by a margin but I'll add that *qualitatively* also, this is a major-version-bump-deserving step change forward (imo of the same order as Claude 4.5 was in November), peaking especially for long problem-solving sessions on very difficult problems. You can give it a lot more ambitious tasks than what you're used to, the model \"gets it\" and it will just go, and it's never felt this tempting to stop looking at the code at all (but don't do this in prod!). The model still has quirks that people will run into and the safeguards are configured to be a little too trigger happy for launch, which can hopefully be tuned over time.\n\nI feel a lot of things changing as working software increasingly comes out on a tap. The Jevon's paradox kicks in and I feel my own demand for software growing substantially. You can ask for anything - explainers, visualizers, dashboards, bespoke single-use apps (e.g. a full wandb that is hyper-specific just for your project), you can 10X your test suite, auto-optimize code, run giant research projects with custom HTML for the results, anything! \"Free your mind\" (Matrix ref). Really looking forward to all the things people build!",
-        "author": {
-          "id": "33836629",
-          "name": "Andrej Karpathy",
-          "screenName": "karpathy",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 25577,
-          "retweets": 2413,
-          "replies": 1334,
-          "quotes": 448,
-          "views": 2886715,
-          "bookmarks": 6334
-        },
-        "createdAt": "Tue Jun 09 18:10:00 +0000 2026",
-        "createdAtLocal": "2026-06-10 02:10",
-        "createdAtISO": "2026-06-09T18:10:00+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2064394151441863006",
-          "text": "Fable 5 is state-of-the-art on nearly all tested benchmarks, with exceptional performance in software engineering, knowledge work, scientific research, and vision.\n\nThe longer and more complex the task, the larger Fable 5’s lead over our other models. https://t.co/DxgSu0KUxh",
-          "author": {
-            "screenName": "claudeai",
-            "name": "Claude"
-          }
-        }
-      }
-    ],
+    "karpathy": [],
     "AndrewYNg": [
       {
         "id": "2071988145667928442",
@@ -332,12 +165,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 5856,
-          "retweets": 1072,
-          "replies": 231,
-          "quotes": 109,
-          "views": 332629,
-          "bookmarks": 7281
+          "likes": 7117,
+          "retweets": 1335,
+          "replies": 270,
+          "quotes": 132,
+          "views": 445463,
+          "bookmarks": 8877
         },
         "createdAt": "Tue Jun 30 16:04:04 +0000 2026",
         "createdAtLocal": "2026-07-01 00:04",
@@ -367,12 +200,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1285,
-          "retweets": 276,
+          "likes": 1290,
+          "retweets": 277,
           "replies": 161,
           "quotes": 57,
-          "views": 148930,
-          "bookmarks": 387
+          "views": 149888,
+          "bookmarks": 390
         },
         "createdAt": "Fri Jun 19 18:34:23 +0000 2026",
         "createdAtLocal": "2026-06-20 02:34",
@@ -402,12 +235,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 342,
+          "likes": 344,
           "retweets": 49,
           "replies": 54,
           "quotes": 10,
-          "views": 73913,
-          "bookmarks": 196
+          "views": 74391,
+          "bookmarks": 199
         },
         "createdAt": "Thu Jun 18 17:00:03 +0000 2026",
         "createdAtLocal": "2026-06-19 01:00",
@@ -437,12 +270,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1102,
-          "retweets": 145,
+          "likes": 1107,
+          "retweets": 146,
           "replies": 109,
           "quotes": 13,
-          "views": 117626,
-          "bookmarks": 839
+          "views": 117943,
+          "bookmarks": 843
         },
         "createdAt": "Thu Jun 04 16:44:13 +0000 2026",
         "createdAtLocal": "2026-06-05 00:44",
@@ -472,12 +305,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 4510,
-          "retweets": 740,
-          "replies": 324,
+          "likes": 4514,
+          "retweets": 738,
+          "replies": 325,
           "quotes": 143,
-          "views": 561833,
-          "bookmarks": 3450
+          "views": 562165,
+          "bookmarks": 3452
         },
         "createdAt": "Mon Jun 01 15:58:45 +0000 2026",
         "createdAtLocal": "2026-06-01 23:58",
@@ -499,32 +332,32 @@
     ],
     "ylecun": [
       {
-        "id": "2070866534462087626",
-        "text": "Working on world model or SSL? You definitely need to try our new work: VISReg!\n\nWhat does it achieve?\n💪 Strong collapse prevention: High gradient when embedding collapse\n⚡ Friendly to scale training: Linear complexity to scaling factors\n🧩 Easy to train: Similar to LeJEPA, it is a heuristic-free method\n🏆 Best OOD performance: Achieving the best accuracy on 6 OOD datasets\n📉 Data efficiency: Achieving a similar OOD average accuracy to DINOv2 with 90% less data\n🧬 Robust to low-quality datasets: It is robust to long-tailed and sparse datasets\n\nOur results also indicate that SIGReg type methods can scale up, filling in the missing piece in @ylecun's great talk https://t.co/P9TXmk3fFa.\n\nA big thanks to my co-author @randall_balestr and my manager @DrMorganLevine. Also, huge gratitude to @ylecun for connecting us to make this project happen! 🤝\n\n#SelfSupervisedLearning #JEPA #WorldModel",
+        "id": "2072376560884003083",
+        "text": "Trump's \"net worth is off the charts, bigger than what it was prior to this presidency.\" @maggieNYT says we're just scratching the surface when it comes to how Trump has used the presidency to inflate his wealth. https://t.co/NR82mS0XEG",
         "author": {
-          "id": "1512086648930148353",
-          "name": "Haiyu Wu",
-          "screenName": "HaiyuWu1",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1833875070005002241/xu88w6rH_normal.jpg",
+          "id": "69181624",
+          "name": "Christiane Amanpour",
+          "screenName": "amanpour",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1082309523820429312/3qDsoBYu_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 98,
-          "retweets": 12,
-          "replies": 6,
-          "quotes": 4,
-          "views": 56845,
-          "bookmarks": 77
+          "likes": 2125,
+          "retweets": 801,
+          "replies": 121,
+          "quotes": 30,
+          "views": 110489,
+          "bookmarks": 130
         },
-        "createdAt": "Sat Jun 27 13:47:11 +0000 2026",
-        "createdAtLocal": "2026-06-27 21:47",
-        "createdAtISO": "2026-06-27T13:47:11+00:00",
+        "createdAt": "Wed Jul 01 17:47:29 +0000 2026",
+        "createdAtLocal": "2026-07-02 01:47",
+        "createdAtISO": "2026-07-01T17:47:29+00:00",
         "media": [
           {
             "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2070866482800861184/vid/avc1/1920x1080/OkjpIWBf9uFyGipk.mp4?tag=28",
-            "width": 1920,
-            "height": 1080
+            "url": "https://video.twimg.com/amplify_video/2072375890328064000/vid/avc1/1280x720/AnR7XgAqOYO1J3oq.mp4?tag=28",
+            "width": 1280,
+            "height": 720
           }
         ],
         "urls": [],
@@ -534,77 +367,90 @@
         "score": null
       },
       {
-        "id": "2072088917348630648",
-        "text": "Can regularization based JEPA (e.g. SIGReg) scale and compete with SOTA foundation models (DINO)? Here is the answer: yes and with 10x less data.\nVISReg (slight variation of SIGReg) competes with DINOv2-LVD142M while only training on inet22k.\nTry it out: https://t.co/vBhrNAmFq6 https://t.co/XERFZEAE8t",
+        "id": "2072311011118379064",
+        "text": "President Donald Trump’s administration wants to enlist the public in attacking what it sees as wasteful spending. https://t.co/poMH7wampi",
         "author": {
-          "id": "1246070462679040000",
-          "name": "Randall Balestriero",
-          "screenName": "randall_balestr",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1327365059685871619/4VtwVXV2_normal.jpg",
+          "id": "17089636",
+          "name": "News from Science",
+          "screenName": "NewsfromScience",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1001918076164759552/KBl8u8ia_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 287,
-          "retweets": 30,
-          "replies": 5,
-          "quotes": 2,
-          "views": 40309,
-          "bookmarks": 179
+          "likes": 6,
+          "retweets": 2,
+          "replies": 0,
+          "quotes": 0,
+          "views": 4639,
+          "bookmarks": 0
         },
-        "createdAt": "Tue Jun 30 22:44:30 +0000 2026",
-        "createdAtLocal": "2026-07-01 06:44",
-        "createdAtISO": "2026-06-30T22:44:30+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HMGJbemXgAARWrX.png",
-            "width": 374,
-            "height": 158
-          }
-        ],
+        "createdAt": "Wed Jul 01 13:27:01 +0000 2026",
+        "createdAtLocal": "2026-07-01 21:27",
+        "createdAtISO": "2026-07-01T13:27:01+00:00",
+        "media": [],
         "urls": [
-          "https://huggingface.co/BooBooWu/visreg"
+          "https://scim.ag/4v5vkie"
         ],
         "isRetweet": true,
         "retweetedBy": "ylecun",
         "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2070866534462087626",
-          "text": "Working on world model or SSL? You definitely need to try our new work: VISReg!\n\nWhat does it achieve?\n💪 Strong collapse prevention: High gradient when embedding collapse\n⚡ Friendly to scale training: Linear complexity to scaling factors\n🧩 Easy to train: Similar to LeJEPA, it is a heuristic-free method\n🏆 Best OOD performance: Achieving the best accuracy on 6 OOD datasets\n📉 Data efficiency: Achieving a similar OOD average accuracy to DINOv2 with 90% less data\n🧬 Robust to low-quality datasets: It is robust to long-tailed and sparse datasets\n\nOur results also indicate that SIGReg type methods can scale up, filling in the missing piece in @ylecun's great talk https://t.co/P9TXmk3fFa.\n\nA big thanks to my co-author @randall_balestr and my manager @DrMorganLevine. Also, huge gratitude to @ylecun for connecting us to make this project happen! 🤝\n\n#SelfSupervisedLearning #JEPA #WorldModel",
-          "author": {
-            "screenName": "HaiyuWu1",
-            "name": "Haiyu Wu"
-          }
-        }
+        "score": null
       },
       {
-        "id": "2072035435857973577",
-        "text": "Don't fall for Elon Musk's gaslighting. \n\nThere is a massive, life-or-death difference between well-planned budget cuts and a sudden, reckless halt to promised medical aid.\n\nMusk is actively lying about the fatal consequences of his USAID cuts. The US is not obligated to fund healthcare for the entire planet, but if a nation decides to pull back its global aid, it must be done responsibly. Ripping away funding mid-treatment means you are directly responsible for the preventable deaths that follow.\n\nInstead of owning up to the fallout, Musk is flooding X with dishonest spin. He first challenged critics to name even one person whose death he caused. When people actually did, he immediately moved the goalposts, claiming that any spending cut inevitably causes deaths.\n\nHe is a dishonest charlatan trying to hide the fact that his chaotic decisions got thousands of vulnerable children and adults killed. That will be his lasting legacy",
+        "id": "2072298779462508701",
+        "text": "In his SOTU speech in 2010, @barackobama warned that with it's Citizens United decision, the SCOTUS had \"opened the floodgates for special interests — including foreign corporations — to spend without limit in our elections.\"\nToday, his grim prophecy has become the reality.",
         "author": {
-          "id": "1729107578917957632",
-          "name": "Joni Askola",
-          "screenName": "joni_askola",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1876651548593344512/fXi8-TNI_normal.jpg",
+          "id": "244655353",
+          "name": "David Axelrod",
+          "screenName": "davidaxelrod",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1025494480303149056/TQxxSehL_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 6661,
-          "retweets": 2200,
-          "replies": 355,
-          "quotes": 87,
-          "views": 148026,
-          "bookmarks": 227
+          "likes": 1171,
+          "retweets": 318,
+          "replies": 0,
+          "quotes": 20,
+          "views": 79801,
+          "bookmarks": 25
         },
-        "createdAt": "Tue Jun 30 19:11:59 +0000 2026",
-        "createdAtLocal": "2026-07-01 03:11",
-        "createdAtISO": "2026-06-30T19:11:59+00:00",
+        "createdAt": "Wed Jul 01 12:38:25 +0000 2026",
+        "createdAtLocal": "2026-07-01 20:38",
+        "createdAtISO": "2026-07-01T12:38:25+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2072372314583216350",
+        "text": "While working Americans are struggling to make ends meet, Trump enriched himself to the tune of $2.2 billion last year. \n\nA foreign government bought into his crypto business and then got a sweetheart deal from his administration.  Who is he really working for? This is textbook corruption.",
+        "author": {
+          "id": "1324926274888888320",
+          "name": "Senator Mark Kelly",
+          "screenName": "SenMarkKelly",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1334158015130320899/jwQnwuaZ_normal.png",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 590,
+          "retweets": 197,
+          "replies": 178,
+          "quotes": 13,
+          "views": 14310,
+          "bookmarks": 9
+        },
+        "createdAt": "Wed Jul 01 17:30:37 +0000 2026",
+        "createdAtLocal": "2026-07-02 01:30",
+        "createdAtISO": "2026-07-01T17:30:37+00:00",
         "media": [
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HMFZPqwXwAAAZ1E.jpg",
-            "width": 1024,
-            "height": 576
+            "url": "https://pbs.twimg.com/media/HMKLou_WMAAu-R4.jpg",
+            "width": 1126,
+            "height": 1000
           }
         ],
         "urls": [],
@@ -614,70 +460,30 @@
         "score": null
       },
       {
-        "id": "2071942212925936053",
-        "text": "We can finally say AI isn't killing jobs.\n\nA new paper from me, @tryramp, and @RevelioLabs uses firm-level spend and workforce data across 21K U.S. businesses to measure AI's impact on jobs.\n\nFirms that adopt AI heavily grow headcount 10% over two years following adoption. Low adopters see no statistically significant change.",
+        "id": "2072133795323474045",
+        "text": "The sheer scale and audacity of what Trump and his family are doing to monetize the presidency in every possible way for their own gain is really breathtaking, and laden with so many conflicts they're Too Big to Trail.\nhttps://t.co/MYIujDtXuD via @NYTimes",
         "author": {
-          "id": "1030965185308180480",
-          "name": "Ara Kharazian",
-          "screenName": "arakharazian",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1771552439344177152/KfuAN2Mb_normal.jpg",
+          "id": "244655353",
+          "name": "David Axelrod",
+          "screenName": "davidaxelrod",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1025494480303149056/TQxxSehL_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 2389,
-          "retweets": 527,
-          "replies": 145,
-          "quotes": 164,
-          "views": 678057,
-          "bookmarks": 1466
+          "likes": 2825,
+          "retweets": 1049,
+          "replies": 0,
+          "quotes": 45,
+          "views": 73392,
+          "bookmarks": 125
         },
-        "createdAt": "Tue Jun 30 13:01:33 +0000 2026",
-        "createdAtLocal": "2026-06-30 21:01",
-        "createdAtISO": "2026-06-30T13:01:33+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HMD-xviXcAArYSd.jpg",
-            "width": 1414,
-            "height": 894
-          }
+        "createdAt": "Wed Jul 01 01:42:49 +0000 2026",
+        "createdAtLocal": "2026-07-01 09:42",
+        "createdAtISO": "2026-07-01T01:42:49+00:00",
+        "media": [],
+        "urls": [
+          "https://www.nytimes.com/2026/06/30/us/politics/trump-moneymaking-presidential-history.html?smid=nytcore-ios-share"
         ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2071701155827134665",
-        "text": "Open-source AI is booming, massively impactful for progress, competition, transparency &amp; orders of magnitude less dangerous than closed-source frontier AI.\n\nTime to support it to the max! https://t.co/FOeEKUtBM0",
-        "author": {
-          "id": "186420551",
-          "name": "clem 🤗",
-          "screenName": "ClementDelangue",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 437,
-          "retweets": 69,
-          "replies": 32,
-          "quotes": 8,
-          "views": 46831,
-          "bookmarks": 51
-        },
-        "createdAt": "Mon Jun 29 21:03:40 +0000 2026",
-        "createdAtLocal": "2026-06-30 05:03",
-        "createdAtISO": "2026-06-29T21:03:40+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2071700829443129345/vid/avc1/2658x1450/boCpOKCg1tC2-eJz.mp4?tag=28",
-            "width": 2658,
-            "height": 1450
-          }
-        ],
-        "urls": [],
         "isRetweet": true,
         "retweetedBy": "ylecun",
         "lang": "en",
@@ -686,30 +492,94 @@
     ],
     "elonmusk": [
       {
-        "id": "2072049009741738469",
-        "text": "“Sometimes I wonder, maybe everything is conscious, or nothing is conscious. I prefer the former; it just seems more fun.”\n\n – Elon Musk https://t.co/WLHHjAaz6n",
+        "id": "2072345733584269416",
+        "text": "Last year, @elonmusk brought national attention to the paper-based federal retirement process hidden deep underground in Boyers, Pennsylvania.\n\nThe Last Day of Paper is more than a milestone, it is proof that government modernization can deliver real results for the American people.\n\nThank you @POTUS and @elonmusk for the initial discussions that led to this important accomplishment: https://t.co/JwdiLEt0Ko",
         "author": {
-          "id": "1016059981907386368",
-          "name": "Tesla Owners Silicon Valley",
-          "screenName": "teslaownersSV",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2010961358326484993/kMQefquU_normal.jpg",
-          "verified": false
+          "id": "158135219",
+          "name": "Scott Kupor",
+          "screenName": "skupor",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1945182863701286912/qTgk_htN_normal.jpg",
+          "verified": true
         },
         "metrics": {
-          "likes": 2245,
-          "retweets": 490,
-          "replies": 335,
-          "quotes": 26,
-          "views": 580328,
-          "bookmarks": 190
+          "likes": 2145,
+          "retweets": 448,
+          "replies": 144,
+          "quotes": 15,
+          "views": 256080,
+          "bookmarks": 99
         },
-        "createdAt": "Tue Jun 30 20:05:55 +0000 2026",
-        "createdAtLocal": "2026-07-01 04:05",
-        "createdAtISO": "2026-06-30T20:05:55+00:00",
+        "createdAt": "Wed Jul 01 15:44:59 +0000 2026",
+        "createdAtLocal": "2026-07-01 23:44",
+        "createdAtISO": "2026-07-01T15:44:59+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2072450156801446239",
+        "text": "Free money, housing, etc acts as a massive financial forcing function to draw illegals to America and Europe",
+        "author": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screenName": "elonmusk",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 16062,
+          "retweets": 2579,
+          "replies": 1461,
+          "quotes": 100,
+          "views": 1142983,
+          "bookmarks": 247
+        },
+        "createdAt": "Wed Jul 01 22:39:56 +0000 2026",
+        "createdAtLocal": "2026-07-02 06:39",
+        "createdAtISO": "2026-07-01T22:39:56+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2072053690748252617",
+          "text": "I think ending welfare for immigrants would solve most of our immigrant problem",
+          "author": {
+            "screenName": "JoelWBerry",
+            "name": "Joel Berry"
+          }
+        }
+      },
+      {
+        "id": "2072439276491460715",
+        "text": "Peter: \"I heard you say you might want a mini woolly mammoth. Is that true?\"\n\nElon: \"Yeah, I think it would be really cool to have a pet miniature woolly mammoth. That'd be pretty epic.\"\n\nPeter: \"I'll put a word in with you for you with  with with Ben [Lamm].\"\n\nElon: \"That'd be adorable. Little things just running around trumpeting away and it's like look at the be a great little pet.\"",
+        "author": {
+          "id": "14710129",
+          "name": "Peter H. Diamandis, MD",
+          "screenName": "PeterDiamandis",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 1881,
+          "retweets": 370,
+          "replies": 320,
+          "quotes": 34,
+          "views": 305900,
+          "bookmarks": 111
+        },
+        "createdAt": "Wed Jul 01 21:56:42 +0000 2026",
+        "createdAtLocal": "2026-07-02 05:56",
+        "createdAtISO": "2026-07-01T21:56:42+00:00",
         "media": [
           {
             "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2072048838337318912/vid/avc1/1280x720/ZQ8_FP51Ok1ENt7X.mp4?tag=28",
+            "url": "https://video.twimg.com/amplify_video/2072439173844254720/vid/avc1/1280x720/04L3KW5T8Wd2afMs.mp4?tag=28",
             "width": 1280,
             "height": 720
           }
@@ -718,19 +588,11 @@
         "isRetweet": true,
         "retweetedBy": "elonmusk",
         "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2072034905299563005",
-          "text": "Neuralink has solved through-dura electrode implantation!\n\nThis is a very big deal, as it greatly improves the safety and ease of interfacing with the brain.",
-          "author": {
-            "screenName": "elonmusk",
-            "name": "Elon Musk"
-          }
-        }
+        "score": null
       },
       {
-        "id": "2072214077372518657",
-        "text": "Walking the Optimus production line in Fremont https://t.co/ABS0tuRibW",
+        "id": "2072445332315902174",
+        "text": "https://t.co/cNEdVN6nop",
         "author": {
           "id": "44196397",
           "name": "Elon Musk",
@@ -739,127 +601,22 @@
           "verified": true
         },
         "metrics": {
-          "likes": 26877,
-          "retweets": 3141,
-          "replies": 3218,
-          "quotes": 421,
-          "views": 2059106,
-          "bookmarks": 801
+          "likes": 9398,
+          "retweets": 1687,
+          "replies": 1422,
+          "quotes": 236,
+          "views": 1274943,
+          "bookmarks": 504
         },
-        "createdAt": "Wed Jul 01 07:01:50 +0000 2026",
-        "createdAtLocal": "2026-07-01 15:01",
-        "createdAtISO": "2026-07-01T07:01:50+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HMH7t8_aAAAGrNY.jpg",
-            "width": 2048,
-            "height": 1536
-          }
-        ],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2072095000041807988",
-        "text": "Neuralink 🧠✨\n\nHow it started  v/s. How it's going https://t.co/328yUwaH4X",
-        "author": {
-          "id": "1389913567671975937",
-          "name": "DogeDesigner",
-          "screenName": "cb_doge",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1498070100393754625/C2V-fbll_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 5257,
-          "retweets": 1006,
-          "replies": 490,
-          "quotes": 42,
-          "views": 772796,
-          "bookmarks": 310
-        },
-        "createdAt": "Tue Jun 30 23:08:40 +0000 2026",
-        "createdAtLocal": "2026-07-01 07:08",
-        "createdAtISO": "2026-06-30T23:08:40+00:00",
+        "createdAt": "Wed Jul 01 22:20:46 +0000 2026",
+        "createdAtLocal": "2026-07-02 06:20",
+        "createdAtISO": "2026-07-01T22:20:46+00:00",
         "media": [
           {
             "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2072094922392686592/vid/avc1/1080x1080/g16IPn11kMWrpfBM.mp4?tag=28",
-            "width": 1080,
+            "url": "https://video.twimg.com/amplify_video/2072367683509817344/vid/avc1/1920x1080/cGAOpkZr9LQ4jT9V.mp4?tag=28",
+            "width": 1920,
             "height": 1080
-          }
-        ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2072097988064018595",
-        "text": "Grok https://t.co/LMtw2XTQMn",
-        "author": {
-          "id": "44196397",
-          "name": "Elon Musk",
-          "screenName": "elonmusk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 19939,
-          "retweets": 2285,
-          "replies": 3988,
-          "quotes": 286,
-          "views": 2304000,
-          "bookmarks": 862
-        },
-        "createdAt": "Tue Jun 30 23:20:32 +0000 2026",
-        "createdAtLocal": "2026-07-01 07:20",
-        "createdAtISO": "2026-06-30T23:20:32+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HMGSEYZakAA9Duj.jpg",
-            "width": 1287,
-            "height": 2048
-          }
-        ],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2071994061624426582",
-        "text": "https://t.co/VgpWIg2BFI",
-        "author": {
-          "id": "44196397",
-          "name": "Elon Musk",
-          "screenName": "elonmusk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 249420,
-          "retweets": 44090,
-          "replies": 9349,
-          "quotes": 2069,
-          "views": 15553967,
-          "bookmarks": 8829
-        },
-        "createdAt": "Tue Jun 30 16:27:34 +0000 2026",
-        "createdAtLocal": "2026-07-01 00:27",
-        "createdAtISO": "2026-06-30T16:27:34+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HMEznjqWwAAuzde.jpg",
-            "width": 1061,
-            "height": 796
           }
         ],
         "urls": [],
@@ -867,9 +624,80 @@
         "retweetedBy": null,
         "lang": "zxx",
         "score": null
+      },
+      {
+        "id": "2072408701554897130",
+        "text": "Tesla’s Supercharger network just delivered a monster Q2\n\nIn Q2 2026, Tesla Superchargers delivered 2 terawatt-hours of electricity globally\n\nThat is enough electricity to power roughly 180,000+ U.S. homes for an entire year\n\nThe scale is getting insane:\n• 2 TWh delivered\n• 60 million charging sessions in 3 months\n• 266 kWh sold per plug per day\n• Wait-time percentage dropped below 0.5%\n• 5,000 site maps now live\n• +17% YoY growth\n\nTesla's EV charging network is becoming global energy infrastructure\n\nTesla’s charging infrastructure is getting bigger, faster, more efficient, and less congested at the same time",
+        "author": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screenName": "XFreeze",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1876785200010539008/2_HFJjq9_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 1705,
+          "retweets": 394,
+          "replies": 148,
+          "quotes": 15,
+          "views": 250619,
+          "bookmarks": 52
+        },
+        "createdAt": "Wed Jul 01 19:55:12 +0000 2026",
+        "createdAtLocal": "2026-07-02 03:55",
+        "createdAtISO": "2026-07-01T19:55:12+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HMKr0HYbIAAOpe7.jpg",
+            "width": 4000,
+            "height": 2500
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null
       }
     ],
     "DrJimFan": [
+      {
+        "id": "2072337488782475390",
+        "text": "ENPIRE -&gt; ASPIRE, our 2nd work in the series for Physical AutoResearch. We are building the components for robot self-improvement, one /skill at a time.",
+        "author": {
+          "id": "1007413134",
+          "name": "Jim Fan",
+          "screenName": "DrJimFan",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 177,
+          "retweets": 13,
+          "replies": 17,
+          "quotes": 2,
+          "views": 26680,
+          "bookmarks": 65
+        },
+        "createdAt": "Wed Jul 01 15:12:14 +0000 2026",
+        "createdAtLocal": "2026-07-01 23:12",
+        "createdAtISO": "2026-07-01T15:12:14+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2072004190856212902",
+          "text": "Today, we give robots a /skills library that self-evolves and compounds indefinitely! Introducing ASPIRE: a robot solving its 100th task is no longer as clueless as solving its first. Coding agents observe multimodal sensory traces from simulation and real robots, launch an evolutionary search over control programs, and distill the best know-how into an ever-expanding library. \n\nASPIRE is a new type of continual learning: \"training\" is skill refinement instead of gradient descent. \n\"Trained model\" is a repo of sensorimotor skills instead of floating weights. \n“Distributed training” is a panel of agents each practicing a different skill instead of sharded minibatches.\n\nHere's the beauty: ASPIRE gives the tired terms \"sim2real transfer\" and \"cross-embodiment transfer\" a whole new meaning. Bridging the sim-to-real gap is notoriously brutal. An end-to-end policy has to swallow both the visual shift (sim looks toyish next to a real camera) and the subtle contact physics it never quite gets right. ASPIRE sidesteps the mess, because it doesn't ship pixels or weights across the gap, but ships the know-how. The robot still has to practice in the real world, not zero-shot, but it gets there way faster because it isn't rediscovering the strategy from scratch. Same for going single-arm to bimanual hardware, which usually requires new data and retraining from zero. ASPIRE achieves up to ~10x cut in \"transfer learning” tokens (yes, tokens are the new unit of *training* compute ;)\n\nCheck out our gallery of 150+ tasks and 90+ skills the robots taught themselves, all on the website! Kind of wild that we can ship the \"learned weights\" as an HTML page rather than a GGUF. We'll open-source the full stack so your own robot library starts compounding from ours! \n\nDeep dive in thread:",
+          "author": {
+            "screenName": "DrJimFan",
+            "name": "Jim Fan"
+          }
+        }
+      },
       {
         "id": "2072004190856212902",
         "text": "Today, we give robots a /skills library that self-evolves and compounds indefinitely! Introducing ASPIRE: a robot solving its 100th task is no longer as clueless as solving its first. Coding agents observe multimodal sensory traces from simulation and real robots, launch an evolutionary search over control programs, and distill the best know-how into an ever-expanding library. \n\nASPIRE is a new type of continual learning: \"training\" is skill refinement instead of gradient descent. \n\"Trained model\" is a repo of sensorimotor skills instead of floating weights. \n“Distributed training” is a panel of agents each practicing a different skill instead of sharded minibatches.\n\nHere's the beauty: ASPIRE gives the tired terms \"sim2real transfer\" and \"cross-embodiment transfer\" a whole new meaning. Bridging the sim-to-real gap is notoriously brutal. An end-to-end policy has to swallow both the visual shift (sim looks toyish next to a real camera) and the subtle contact physics it never quite gets right. ASPIRE sidesteps the mess, because it doesn't ship pixels or weights across the gap, but ships the know-how. The robot still has to practice in the real world, not zero-shot, but it gets there way faster because it isn't rediscovering the strategy from scratch. Same for going single-arm to bimanual hardware, which usually requires new data and retraining from zero. ASPIRE achieves up to ~10x cut in \"transfer learning” tokens (yes, tokens are the new unit of *training* compute ;)\n\nCheck out our gallery of 150+ tasks and 90+ skills the robots taught themselves, all on the website! Kind of wild that we can ship the \"learned weights\" as an HTML page rather than a GGUF. We'll open-source the full stack so your own robot library starts compounding from ours! \n\nDeep dive in thread:",
@@ -881,12 +709,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1112,
-          "retweets": 151,
-          "replies": 47,
-          "quotes": 20,
-          "views": 90251,
-          "bookmarks": 785
+          "likes": 1433,
+          "retweets": 200,
+          "replies": 55,
+          "quotes": 27,
+          "views": 146913,
+          "bookmarks": 1043
         },
         "createdAt": "Tue Jun 30 17:07:49 +0000 2026",
         "createdAtLocal": "2026-07-01 01:07",
@@ -916,12 +744,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 49,
-          "retweets": 0,
-          "replies": 2,
+          "likes": 64,
+          "retweets": 2,
+          "replies": 3,
           "quotes": 1,
-          "views": 11706,
-          "bookmarks": 24
+          "views": 15458,
+          "bookmarks": 34
         },
         "createdAt": "Tue Jun 30 17:07:50 +0000 2026",
         "createdAtLocal": "2026-07-01 01:07",
@@ -955,12 +783,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 3845,
+          "likes": 3844,
           "retweets": 569,
-          "replies": 185,
+          "replies": 186,
           "quotes": 151,
-          "views": 648399,
-          "bookmarks": 2021
+          "views": 648967,
+          "bookmarks": 2022
         },
         "createdAt": "Tue Jun 16 16:31:58 +0000 2026",
         "createdAtLocal": "2026-06-17 00:31",
@@ -994,7 +822,7 @@
           "retweets": 18,
           "replies": 4,
           "quotes": 2,
-          "views": 45535,
+          "views": 45670,
           "bookmarks": 98
         },
         "createdAt": "Tue Jun 16 16:31:58 +0000 2026",
@@ -1015,44 +843,6 @@
           "author": {
             "screenName": "_wenlixiao",
             "name": "Wenli Xiao"
-          }
-        }
-      },
-      {
-        "id": "2067304433843863618",
-        "text": "https://t.co/4aVgLYY50L",
-        "author": {
-          "id": "1007413134",
-          "name": "Jim Fan",
-          "screenName": "DrJimFan",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 30,
-          "retweets": 3,
-          "replies": 7,
-          "quotes": 0,
-          "views": 12643,
-          "bookmarks": 3
-        },
-        "createdAt": "Wed Jun 17 17:52:40 +0000 2026",
-        "createdAtLocal": "2026-06-18 01:52",
-        "createdAtISO": "2026-06-17T17:52:40+00:00",
-        "media": [],
-        "urls": [
-          "https://x.com/DrJimFan/status/2067283904986517866?s=20"
-        ],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "zxx",
-        "score": null,
-        "quotedTweet": {
-          "id": "2067283904986517866",
-          "text": "I made Physical AutoResearch sound simple (conceptually), but it took a village to pull off and lots of design thinking into the robot /loopcraft. The hardest part is everything we need to setup *before* pressing Enter. Here's a behind-the-scene tour:\n\n1. Safety harness\n\nLetting 8 robots run unattended overnight means safety has to be more than a hint in the system prompt. ENPIRE hardwires it in 2 layers: (1) hard kinematic limit that trips an immediate task failure and auto-resets as soon as a robot leaves its safety envelope, and (2) a torque-limited compliant gripper so a bad contact or misaligned insertion ends in a safe stall, instead of crushing the robot or the object at hand. \n\nWe make safety more conservative than usual so humans can sleep tight. In reality, we still need a few human operators to watch over the \"robots of loving grace\". \n\n2. Definition of /done\n\nAn agent that can edit its own reward will game it for sure. ENPIRE fixes the goalposts before the fleet can move them. Here's the recipe:\n\nCollect a few minutes of success & failure demos\n-> Ask agent to write code using computer vision tools to classify success and measure against groundtruth\n-> Agent hill-climbs on classifier until reliably good\n-> This classifier becomes the real-time reward function that directly computes on sensor streams \n-> *Freeze* the reward function before AutoResearch. It's sacred, enshrined in a Gym env that no one can touch.\n\n3. System telemetry design\n\nRobot-seconds is by far the scarcest resource, followed by GPU-seconds, and finally tokens. We instrument all three and surface them to ENPIRE for live resource awareness rather than letting it hill-climb in a vacuum. \n\nWe define:\n- Mean Robot Utilization (\"MRU\"): the fraction of wall-clock time when the robot is actively executing an experiment. Otherwise the hardware is sitting idle and waiting for the next code commit.\n- Mean Token Utilization (\"MTU\"): tokens consumed per minute, our proxy for how hard the agent is actually thinking. A low MTU means the agent is stalled, waiting on a robot rollout to finish instead of doing research.\n- GPU utilization: fraction of wall-clock time when GPU is active. \n\n... and evaluate on two budget-to-outcome metrics:\n\n1. Tokens-to-Success: token budget the fleet burns to complete /goal.\n2. Time-to-Success: wall-clock time to /goal",
-          "author": {
-            "screenName": "DrJimFan",
-            "name": "Jim Fan"
           }
         }
       }

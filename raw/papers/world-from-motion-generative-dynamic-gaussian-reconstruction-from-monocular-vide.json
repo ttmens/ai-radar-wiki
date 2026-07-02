@@ -1,0 +1,30 @@
+{
+  "title": "World from Motion: Generative Dynamic Gaussian Reconstruction from Monocular Video",
+  "summary": "We present World from Motion, a method for generating freely renderable dynamic 3D Gaussian representations from monocular videos. Our approach conditions a video model on dense, pixel-aligned renderings that encode appearance, geometry, and 3D scene motion along both input and target camera trajectories to correct rendering artifacts and fill in missing regions from an initial reconstruction. To train this model, we construct a dataset of aligned multiview video pairs and dynamic 3DGS representations, with simulated artifacts characteristic of monocular reconstruction. At test time, we distill the model's generations, including newly observed regions and motions, back into a single consistent, high-quality dynamic 3DGS, improving both novel-view synthesis and the underlying 3D motion. Our method sets a new state of the art in 4D reconstruction and seamlessly generalizes to in-the-wild videos with large viewpoint changes and dynamic motions.",
+  "url": "http://arxiv.org/abs/2607.01202v1",
+  "authors": [
+    "Liyuan Zhu",
+    "Shengyu Huang",
+    "Amrita Mazumdar",
+    "Tianye Li",
+    "Zan Gojcic"
+  ],
+  "published": "2026-07-01T17:41:00Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "dataset"
+  ],
+  "summary_cn": "该方法提出从单目视频生成可自由渲染的动态3D高斯表示，通过将视频模型条件化在密集像素对齐的渲染上，编码外观、几何和场景运动。核心创新在于无需多视角或深度信息，仅凭单目视频即可重建动态3D场景，显著降低内容创建成本。商业价值体现在VR/AR沉浸式体验、影视特效和游戏资产自动生成，有望推动动态3D内容民主化。",
+  "pm_relevance": 8,
+  "concepts": [
+    "动态3D重建",
+    "单目视频生成",
+    "高斯体素渲染"
+  ],
+  "entities": [],
+  "patterns": [
+    "Video-to-3D",
+    "动态场景生成"
+  ]
+}

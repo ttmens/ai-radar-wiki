@@ -2339,3 +2339,21 @@
 - create: show-hn-pmb-local-memory-for-coding-agents-that-shows-if-it-is-used.md
 - create: show-hn-morph-reflexes-multi-head-classifiers-for-agent-traces.md
 - create: show-hn-z-jail-a-130-kb-linux-sandbox-c99-with-7-defense-layers-and-zero-deps.md
+
+## [2026-07-02 12:01] sync v3 | 16 new | pillars: {'ecosystem': 1, 'capabilities': 14, 'patterns': 1}
+- create: measuring-the-gap-between-human-and-llm-research-ideas.md
+- create: is-one-layer-enough-training-a-single-transformer-layer-can-match-full-parameter.md
+- create: language-critique-imitation-learning-from-suboptimal-demonstrations.md
+- create: automem-automated-learning-of-memory-as-a-cognitive-skill.md
+- create: theoria-rewrite-acceptability-verification-over-informal-reasoning-states.md
+- create: the-state-prediction-separation-hypothesis.md
+- create: furniturevla-learning-long-horizon-bimanual-furniture-assembly-with-vision-langu.md
+- create: are-performance-optimization-benchmarks-reliably-measuring-coding-agents.md
+- create: distill-to-detect-exposing-stealth-biases-in-llms-through-cartridge-distillation.md
+- create: tirex-2-generalizing-tirex-to-multivariate-data-and-streaming.md
+- create: gpu-parallel-linearization-error-bounds-for-real-time-robust-optimal-control-of.md
+- create: world-from-motion-generative-dynamic-gaussian-reconstruction-from-monocular-vide.md
+- create: the-usermedia-html-element.md
+- create: openwiki-cli-that-writes-and-maintains-agent-documentation-for-your-codebase.md
+- create: meta-caps-internal-ai-token-spending.md
+- create: show-hn-meow-the-4th-and-final-javascript-runtime-and-toolchain.md
