@@ -2548,23 +2548,13 @@
     function renderNetwork() {
       didApplyInitialGraphCamera = false;
       
-      // P0 性能优化：前端过滤低价值节点 (PM Score < 0.3)
-      const filteredNodes = data.nodes.filter(n => (n.pm_score || 0) >= 0.3);
-      const filteredNodeIds = new Set(filteredNodes.map(n => n.id));
-      
-      // P0 性能优化：完全移除 KEYWORD 边（不只是 hidden），减少 72% 物理计算
-      const filteredEdges = data.edges.filter(e => {
-        const isKeyword = e.type === 'KEYWORD';
-        // 过滤掉 KEYWORD 边 + 指向已过滤节点的边
-        return !isKeyword && filteredNodeIds.has(e.source || e.from) && filteredNodeIds.has(e.target || e.to);
-      });
-      
+      // v4.2: 数据已在 Explorer 后端过滤和精简，直接使用
       // Count Twitter nodes for legend
-      const twitterNodeCount = filteredNodes.filter(n => n.source_type === 'twitter').length;
+      const twitterNodeCount = data.nodes.filter(n => n.source_type === 'twitter').length;
       const twitterCountEl = document.getElementById('twitter-count');
       if (twitterCountEl) twitterCountEl.textContent = `(${twitterNodeCount})`;
 
-      const nodes = new vis.DataSet(filteredNodes.map(n => {
+      const nodes = new vis.DataSet(data.nodes.map(n => {
         const isConcept = n.type === 'concept';
         const isTwitter = n.source_type === 'twitter';
         // Twitter nodes use Twitter blue, others use pillar color
@@ -2601,7 +2591,7 @@
         };
       }));
 
-      const edges = new vis.DataSet(filteredEdges.map(e => {
+      const edges = new vis.DataSet(data.edges.map(e => {
         const isBelongsTo = e.type === 'BELONGS_TO' || e.relation === 'belongs_to';
         return {
           from: e.source || e.from,
@@ -2737,10 +2727,10 @@
       }, 2000);
 
       // 统计节点数时排除概念节点
-      const realNodeCount = filteredNodes.filter(n => n.type !== 'concept').length;
-      const conceptCount = filteredNodes.filter(n => n.type === 'concept').length;
+      const realNodeCount = data.nodes.filter(n => n.type !== 'concept').length;
+      const conceptCount = data.nodes.filter(n => n.type === 'concept').length;
       const nodeLabel = realNodeCount + ' 节点';
-      const edgeLabel = filteredEdges.length + ' 边';
+      const edgeLabel = data.edges.length + ' 边';
       var nodeCountEl = document.getElementById('node-count');
       var edgeCountEl = document.getElementById('edge-count');
       if (nodeCountEl) nodeCountEl.textContent = nodeLabel;
@@ -2866,9 +2856,40 @@
     }
 
     // ===== 3. DETAIL PANEL =====
-    function showPanel(nodeId) {
-      const node = data.nodes.find(n => n.id === nodeId);
+    // v4.2: 按需加载节点详情（从 graph.json 获取 summary/url/tags 等）
+    var _fullDataCache = null;
+    async function fetchFullNodeData(nodeId) {
+      if (!_fullDataCache) {
+        try {
+          const resp = await fetch('./graph.json?v=' + (data.generated_at || Date.now()));
+          _fullDataCache = await resp.json();
+        } catch(e) {
+          console.warn('Failed to fetch graph.json:', e);
+          return null;
+        }
+      }
+      return _fullDataCache.nodes.find(n => n.id === nodeId) || null;
+    }
+
+    async function showPanel(nodeId) {
+      let node = data.nodes.find(n => n.id === nodeId);
       if (!node) return;
+      
+      // 如果节点缺少详情字段，按需加载
+      if (!node.summary && !node.url) {
+        const fullNode = await fetchFullNodeData(nodeId);
+        if (fullNode) {
+          // 合并详情到当前节点
+          node.summary = fullNode.summary;
+          node.url = fullNode.url;
+          node.tags = fullNode.tags;
+          node.date = fullNode.date;
+          node.raw_content = fullNode.raw_content;
+          node.author = fullNode.author;
+          node.is_today = fullNode.is_today;
+        }
+      }
+      
       currentNode = node;
       showingRaw = false;
 
