@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 02 Jul 2026 04:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 08:00:04 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -13,11 +13,80 @@
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
     <item>
+      <title>Fugu is now available on OpenCode! ✨
+
+When our team was developing Fugu’s multi-agent orchestration,...</title>
+      <link>https://x.com/hardmaru/status/2072494862931472802</link>
+      <guid isPermaLink="false">twitter_hardmaru_2072494862931472802</guid>
+      <pubDate>2026-07-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.8/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Fugu is now available on OpenCode! ✨
+
+When our team was developing Fugu’s multi-agent orchestration, OpenCode was our tool of choice to verify our models.
+
+We share a core philosophy with the OpenCode team: the future of coding agents should be an open, collective ecosystem. https://t.co/rctKxD7jcE</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Databricks ranks #1 on NVIDIA’s SOL-ExecBench kernel leaderboard, in the L1 single operation track, ...</title>
+      <link>https://x.com/databricks/status/2072496816336290143</link>
+      <guid isPermaLink="false">twitter_databricks_2072496816336290143</guid>
+      <pubDate>2026-07-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.8/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Databricks ranks #1 on NVIDIA’s SOL-ExecBench kernel leaderboard, in the L1 single operation track, powered by KDA (Kernel Design Agents) 🎉
+
+What’s crazy is: we 100% leveraged AI agents to beat the competition.
+
+This is a sneak peek at recursive self-improvement. The core frameworks we used were KDA</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>We continue to experience widespread capacity constraints across most regions, affecting project cre...</title>
+      <link>https://x.com/supabase/status/2072491694759834075</link>
+      <guid isPermaLink="false">twitter_supabase_2072491694759834075</guid>
+      <pubDate>2026-07-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>We continue to experience widespread capacity constraints across most regions, affecting project creation, project resizing, project restarts, branch provisioning, and restores. As a result, some users may experience repeated failures when attempting these operations.
+
+Our team is actively implement</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>We are in the post-slop era of AI video</title>
+      <link>https://x.com/TheAIGRID/status/2072518782480785633</link>
+      <guid isPermaLink="false">twitter_TheAIGRID_2072518782480785633</guid>
+      <pubDate>2026-07-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>We are in the post-slop era of AI video</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Did a long chat with @yayitsrob on Shift Key about the Gigascale thesis, hard tech, and why the "US ...</title>
+      <link>https://x.com/ylecun/status/2072472617404297506</link>
+      <guid isPermaLink="false">twitter_ylecun_2072472617404297506</guid>
+      <pubDate>2026-07-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Did a long chat with @yayitsrob on Shift Key about the Gigascale thesis, hard tech, and why the "US can't build anything" take is wrong.
+A few things I believe: 🧵</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>ZCode: Claude Code from the Makers of GLM</title>
       <link>https://news.ycombinator.com/item?id=48751752</link>
       <guid isPermaLink="false">zcode-claude-code-from-the-makers-of-glm</guid>
       <pubDate>2026-07-02T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>ZCode 是由 GLM 模型研发团队（智谱 AI）推出的一款类似 Claude Code 的 AI 编码助手产品。该工具面向开发者，通过自然语言交互实现代码生成、调试、重构等任务，延续了 Copilot 模式但基于自研 GLM 大模型进行优化。其商业价值在于为中国市场提供自主可控的高效编码辅助工具，降低开发者门槛，提升研发效率。产品创新点可能包括深度理解中文代码语境、支持多文件级上下文以及与企业级开发环境的集成能力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Meta caps internal AI token spending</title>
+      <link>https://news.ycombinator.com/item?id=48754713</link>
+      <guid isPermaLink="false">meta-caps-internal-ai-token-spending</guid>
+      <pubDate>2026-07-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Meta 限制内部 AI token 消耗，旨在控制大模型运营成本并优化资源分配。此举表明头部科技公司正从追求模型能力转向关注成本效率，可能推动产品经理在部署时更注重token使用策略（如缓存、量化、小型模型替代）。该限制影响内部工具、Copilot 等场景的扩展性，启示产品设计需平衡性能与运营开支。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>AutoMem: Automated Learning of Memory as a Cognitive Skill</title>
+      <link>http://arxiv.org/abs/2607.01224v1</link>
+      <guid isPermaLink="false">automem-automated-learning-of-memory-as-a-cognitive-skill</guid>
+      <pubDate>2026-07-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>AutoMem 将记忆管理视为一种可训练的认知技能（元记忆），旨在让 LLM 自主学会编码、检索和组织知识。通过把文件系统操作提升为第一类操作，AutoMem 使模型能够动态管理长期上下文，提升记忆的自主性与适应性。这项技术为 AI 产品提供了更智能的长期记忆解决方案，有望减少人工干预，推动基于记忆的个性化交互与知识管理创新。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -61,6 +130,78 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>The State-Prediction Separation Hypothesis</title>
+      <link>http://arxiv.org/abs/2607.01218v1</link>
+      <guid isPermaLink="false">the-state-prediction-separation-hypothesis</guid>
+      <pubDate>2026-07-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>论文提出“状态预测分离假说”，认为Transformer在预测下一个token的同时，也在同一前向计算流中存储对未来预测有用的状态信息，两者耦合导致效率低下。通过设计解耦架构的变体，分别处理状态存储和Token预测，实验表明可显著提升语言建模性能。该方向有望降低模型冗余、增强长文本推理能力，为产品经理带来更高效、更智能的AI应用基础，潜在降低算力成本并改善用户体验。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>TiRex-2: Generalizing TiRex to Multivariate Data and Streaming</title>
+      <link>http://arxiv.org/abs/2607.01204v1</link>
+      <guid isPermaLink="false">tirex-2-generalizing-tirex-to-multivariate-data-and-streaming</guid>
+      <pubDate>2026-07-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>TiRex-2是基于xLSTM架构的时间序列基础模型，将原单变量模型扩展为支持多变量预测，并能同时利用历史协变量和未来已知协变量。该模型采用循环设计，适合流式数据场景，可处理连续到达的观测值并捕捉变量间的联合演化。商业上可用于金融、供应链、IoT等领域的实时预测，降低定制模型开发成本。产品创新在于将基础模型范式引入时序预测，提升泛化能力和部署效率。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Language-Critique Imitation Learning from Suboptimal Demonstrations</title>
+      <link>http://arxiv.org/abs/2607.01225v1</link>
+      <guid isPermaLink="false">language-critique-imitation-learning-from-suboptimal-demonstrations</guid>
+      <pubDate>2026-07-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出了一种基于语言批评的模仿学习方法，旨在从次优演示中学习。传统方法依赖压缩的标量信号（如置信度、判别器分数或重要性权重），这些信号无法表达中间推理过程。新方法利用自然语言批评提供显式反馈，使模型能够理解演示中的错误和正确部分，从而更有效地从低质量数据中学习。技术核心在于引入语言模型生成批评，增强反馈的丰富性和可解释性。商业价值在于降低对高质量专家数据的依赖，适用于机器人、自动驾驶等需从有限或次优演示中学习的场景，减少人工标注成本。产品创新点在于将自然语言作为学习信号，提升模仿学习的可解释性和效率。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>GPU-Parallel Linearization Error Bounds for Real-Time Robust Optimal Control of</title>
+      <link>http://arxiv.org/abs/2607.01203v1</link>
+      <guid isPermaLink="false">gpu-parallel-linearization-error-bounds-for-real-time-robust-optimal-control-of</guid>
+      <pubDate>2026-07-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文研究不确定非线性系统的实时鲁棒最优控制，采用线性时变近似以提高规划效率，但需精确的线性化误差边界（LEB）保证鲁棒约束满足。作者开发了紧致、可微且支持GPU并行计算的LEB方法，可应用于包含神经网络动力学模型的场景。该方法能在毫秒级完成边界计算，显著提升自动驾驶、机器人等实时控制系统的安全性和鲁棒性。产品创新在于将GPU并行计算与鲁棒控制理论结合，为实时决策系统提供可靠的理论支撑。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Lang</title>
+      <link>http://arxiv.org/abs/2607.01212v1</link>
+      <guid isPermaLink="false">furniturevla-learning-long-horizon-bimanual-furniture-assembly-with-vision-langu</guid>
+      <pubDate>2026-07-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>FurnitureVLA首次系统性研究真实尺度下的双臂家具组装任务，利用视觉-语言-动作模型（VLA）实现长周期操作。该工作突破传统玩具规模或单臂限制，构建可扩展仿真平台，为工业级自动化组装提供新思路。核心价值在于通过多模态感知与决策，实现复杂家具的自主装配，有望降低人工成本并提升生产效率。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillatio</title>
+      <link>http://arxiv.org/abs/2607.01208v1</link>
+      <guid isPermaLink="false">distill-to-detect-exposing-stealth-biases-in-llms-through-cartridge-distillation</guid>
+      <pubDate>2026-07-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出一种名为“弹匣蒸馏”（Cartridge Distillation）的技术，用于检测大型语言模型（LLM）中隐藏的偏好偏见。这些偏见可能由供应链中的任何一方注入，且在模型仅在特定情境下才显露其倾向时最具危害性。技术核心是通过蒸馏过程提取模型的“暗知识”，暴露其对实体、品牌或观点的系统性偏好。对产品经理而言，该方法可嵌入模型部署前的审计环节，帮助识别并缓解偏见，从而提升产品在金融、医疗等高敏感场景下的公平性与可信度，具有重要的商业合规价值。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Theoria: Rewrite-Acceptability Verification over Informal Reasoning States</title>
+      <link>http://arxiv.org/abs/2607.01223v1</link>
+      <guid isPermaLink="false">theoria-rewrite-acceptability-verification-over-informal-reasoning-states</guid>
+      <pubDate>2026-07-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出了一种名为Theoria的方法，用于在非形式化推理状态下进行重写-可接受性验证，以解决AI系统答案可信度问题。形式化证明助手覆盖范围有限，而LLM判断虽广但分数不透明且难以审计。Theoria结合两者优势，通过验证推理过程的可接受性，实现可审计、可解释的信任评估，适用于需要高可靠性的产品场景，提升用户信任和合规性。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?</title>
+      <link>http://arxiv.org/abs/2607.01211v1</link>
+      <guid isPermaLink="false">are-performance-optimization-benchmarks-reliably-measuring-coding-agents</guid>
+      <pubDate>2026-07-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文探讨了仓库级性能优化基准测试（如 GSO、SWE-Perf、SWE-fficiency）在衡量编码智能体（Coding Agents）时的可靠性。这些基准测试通过向真实代码仓库应用补丁，并与未优化基线及官方参考补丁比较运行时间来进行评估。尽管其排行榜分数被广泛引用为证据，但研究指出基准测试可能存在设计缺陷，导致无法准确反映智能体的真实优化能力。对于AI产品经理而言，这意味着在依赖此类基准进行产品性能宣称或选型时需要谨慎，应更关注测试的生态效度与泛化性，避免被单一指标误导。商业价值在于推动行业建立更全面、鲁棒的评估体系，从而提升编码AI产品的可信度。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>World from Motion: Generative Dynamic Gaussian Reconstruction from Monocular Vid</title>
+      <link>http://arxiv.org/abs/2607.01202v1</link>
+      <guid isPermaLink="false">world-from-motion-generative-dynamic-gaussian-reconstruction-from-monocular-vide</guid>
+      <pubDate>2026-07-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> papers</p><hr/><p>该方法提出从单目视频生成可自由渲染的动态3D高斯表示，通过将视频模型条件化在密集像素对齐的渲染上，编码外观、几何和场景运动。核心创新在于无需多视角或深度信息，仅凭单目视频即可重建动态3D场景，显著降低内容创建成本。商业价值体现在VR/AR沉浸式体验、影视特效和游戏资产自动生成，有望推动动态3D内容民主化。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>SpaceX has an AI device prototype, and it sure sounds phone-ish</title>
       <link>https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/</link>
       <guid isPermaLink="false">spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish</guid>
@@ -77,12 +218,28 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>The &lt;Usermedia&gt; HTML Element</title>
+      <link>https://news.ycombinator.com/item?id=48754700</link>
+      <guid isPermaLink="false">the-usermedia-html-element</guid>
+      <pubDate>2026-07-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>HTML 新增 &lt;usermedia&gt; 元素，旨在标准化浏览器端用户媒体（摄像头、麦克风）的访问与交互。该元素可简化 AI 产品中实时音视频输入的管理，降低开发者门槛，提升跨浏览器兼容性。对 AI 产品经理而言，这意味着更便捷地集成语音助手、视频分析、实时翻译等功能，减少对第三方库的依赖，有望加速浏览器端 AI 应用的落地。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Nintendo has raised its employees base salary by 10%</title>
       <link>https://news.ycombinator.com/item?id=48745113</link>
       <guid isPermaLink="false">nintendo-has-raised-its-employees-base-salary-by-10</guid>
       <pubDate>2026-07-02T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>任天堂宣布将员工基本工资提高10%，这一举措虽非直接涉及AI技术，但对AI产品经理有间接启示：企业人才策略直接影响技术研发团队的稳定性与创新能力。在AI领域竞争激烈的背景下，有竞争力的薪酬有助于吸引和保留顶尖AI工程师，从而支撑高质量AI产品的持续迭代。同时，加薪也可能促进任天堂在游戏AI、交互体验等方面的长期投入。</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>OpenWiki: CLI that writes and maintains agent documentation for your codebase</title>
+      <link>https://news.ycombinator.com/item?id=48752949</link>
+      <guid isPermaLink="false">openwiki-cli-that-writes-and-maintains-agent-documentation-for-your-codebase</guid>
+      <pubDate>2026-07-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>OpenWiki 是一个命令行工具，专为代码库自动生成并维护面向 AI agent 的文档。它通过解析代码结构，利用大语言模型理解业务逻辑，持续同步更新文档内容，减少人工编写与维护成本。该工具可嵌入开发工作流，提升 agent 对代码的理解准确性和开发效率。其商业价值在于降低团队文档负担、加速 agent 集成，适用于 AI 驱动的开发协作场景。产品创新在于将文档生成与 agent 上下文管理结合，实现文档即代码的自动化闭环。</p></description>
+      <category>📱 产品模式</category>
     </item>
     <item>
       <title>Show HN: Coding agent that compiles intent into deterministic DAG before running</title>
@@ -98,6 +255,22 @@
       <guid isPermaLink="false">ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller</guid>
       <pubDate>2026-07-02T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Measuring the Gap Between Human and LLM Research Ideas</title>
+      <link>http://arxiv.org/abs/2607.01233v1</link>
+      <guid isPermaLink="false">measuring-the-gap-between-human-and-llm-research-ideas</guid>
+      <pubDate>2026-07-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-generated ideas from human researchers? To characterize this gap, we build a large-scale evaluation f</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Paramete</title>
+      <link>http://arxiv.org/abs/2607.01232v1</link>
+      <guid isPermaLink="false">is-one-layer-enough-training-a-single-transformer-layer-can-match-full-parameter</guid>
+      <pubDate>2026-07-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Existing approaches typically update all model parameters uniformly, implicitly assuming that every lay</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -131,6 +304,14 @@
       <pubDate>2026-07-02T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Z-Jail 是一个极轻量级的 Linux 沙箱，仅 130KB，由 C99 实现且零外部依赖。它提供 7 层防御机制（包括系统调用过滤、命名空间隔离、资源限制等），旨在以极小的资源开销实现高安全性。对于 AI 产品经理而言，该工具有望在边缘设备或容器化部署中用于安全隔离 AI 模型推理进程，减少攻击面并提升合规性。其零依赖和紧凑设计特别适合 IoT 或嵌入式 AI 场景，且可通过简单 API 集成到现有工作流中。虽然直接面向安全工程，但其低开销、高密度的防御思路为 AI 产品的安全落地提供了新思路。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Meow – The 4th and final JavaScript runtime and toolchain</title>
+      <link>https://meow.style</link>
+      <guid isPermaLink="false">show-hn-meow-the-4th-and-final-javascript-runtime-and-toolchain</guid>
+      <pubDate>2026-07-02T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Meow 是一个号称第四个且最终的 JavaScript 运行时和工具链，旨在整合 Node.js、Deno、Bun 等现有方案。它可能通过统一的 API、内置包管理器和构建工具来简化开发流程。对于 AI 产品经理而言，如果 Meow 能提供对 WebGPU、WebNN 等底层 AI 加速硬件的原生支持，或内置 LLM 推理接口，将具有商业价值。但目前公开信息有限，需观察其对 AI 工作负载的适配情况。</p></description>
+      <category>🔧 工具生态</category>
     </item>
     <item>
       <title>Claude Fable 5 will be available again globally tomorrow.
@@ -283,261 +464,11 @@ ABC News' Aaron Katersky reports. https://t.co/UXGzh22MoB https://t.co/WDeFPTGn3
       <category>🤖 技术能力</category>
     </item>
     <item>
-      <title>Let’s be honest, we all want ChatGPT 5.6 over Fable 5. 
-
-We can only have Fable for 7 days, plus 50%...</title>
-      <link>https://x.com/TheAIGRID/status/2072363673054552271</link>
-      <guid isPermaLink="false">twitter_TheAIGRID_2072363673054552271</guid>
+      <title>Donald Trump made more than $2 billion last year while lying that affordability issues are a hoax an...</title>
+      <link>https://x.com/ylecun/status/2072323838587625795</link>
+      <guid isPermaLink="false">twitter_ylecun_2072323838587625795</guid>
       <pubDate>2026-07-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Let’s be honest, we all want ChatGPT 5.6 over Fable 5. 
-
-We can only have Fable for 7 days, plus 50% reduced weekly Quota???
-
-OpenAI, please put Anthropic to sleep, and release GPT 5.6.
-
-Cant just be me who wants this? https://t.co/G6aD8P0C6S</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Grok Build just got another workflow-focused update, bringing smarter controls, improved reliability...</title>
-      <link>https://x.com/elonmusk/status/2072304588586147937</link>
-      <guid isPermaLink="false">twitter_elonmusk_2072304588586147937</guid>
-      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Grok Build just got another workflow-focused update, bringing smarter controls, improved reliability, and better performance.
-
-Release Notes: v0.2.80 — 2026-07-01
-
-Features:
-• Command timeouts can now be configured per session with a foreground-only ceiling.
-• Background tasks and TODO lists now sur</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>This is absolutely correct. The only way to fight "open" is with "open." Glad to hear a voice in Was...</title>
-      <link>https://x.com/_akhaliq/status/2072134563493773513</link>
-      <guid isPermaLink="false">twitter__akhaliq_2072134563493773513</guid>
-      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.8/10</p><p><strong>类型:</strong> tweet</p><hr/><p>This is absolutely correct. The only way to fight "open" is with "open." Glad to hear a voice in Washington that understands the real stakes.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Apparently we didn't talk enough about  w̶o̶r̶k̶f̶l̶o̶w̶s̶ loops yet! See ya there!</title>
-      <link>https://x.com/swyx/status/2072143124496097302</link>
-      <guid isPermaLink="false">twitter_swyx_2072143124496097302</guid>
-      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.8/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Apparently we didn't talk enough about  w̶o̶r̶k̶f̶l̶o̶w̶s̶ loops yet! See ya there!</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Please bring back GPT 5.6 we well....
-
-No reason for it to be have been banned in the first place!!</title>
-      <link>https://x.com/bindureddy/status/2072111996015927627</link>
-      <guid isPermaLink="false">twitter_bindureddy_2072111996015927627</guid>
-      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Please bring back GPT 5.6 we well....
-
-No reason for it to be have been banned in the first place!!</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>GPT 5.6 is banned because Fable got banned 
-
-As expected, Fable got banned for outputting the same r...</title>
-      <link>https://x.com/bindureddy/status/2072238488242757671</link>
-      <guid isPermaLink="false">twitter_bindureddy_2072238488242757671</guid>
-      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>GPT 5.6 is banned because Fable got banned 
-
-As expected, Fable got banned for outputting the same response as Kimi and Haiku! 
-
-In other words - for no reason at all! 
-
-This entire drama is absolutely senseless and puts the US back  significantly</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Haha! We have a new mission. 
-
-Getting GPT 5.6 un-banned ASAP
-
-OpenAI is caught up in security theat...</title>
-      <link>https://x.com/bindureddy/status/2072172339111039163</link>
-      <guid isPermaLink="false">twitter_bindureddy_2072172339111039163</guid>
-      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Haha! We have a new mission. 
-
-Getting GPT 5.6 un-banned ASAP
-
-OpenAI is caught up in security theater with the US govt and that’s slowing down AI progress</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>US govt lifts the Fable export ban and says it can be available worldwide
-
-We are sooo back! 💃</title>
-      <link>https://x.com/bindureddy/status/2072110729231294678</link>
-      <guid isPermaLink="false">twitter_bindureddy_2072110729231294678</guid>
-      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>US govt lifts the Fable export ban and says it can be available worldwide
-
-We are sooo back! 💃</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Fable is coming back tomorrow and should be available worldwide 
-
-Excited to re-introduce it to our ...</title>
-      <link>https://x.com/bindureddy/status/2072221109450313800</link>
-      <guid isPermaLink="false">twitter_bindureddy_2072221109450313800</guid>
-      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Fable is coming back tomorrow and should be available worldwide 
-
-Excited to re-introduce it to our xHigh mode 
-
-It will trigger alongside Opus 4.8 and GPT 5.5 for complex agentic tasks and app building on the SuperComputer</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>La gente tiende a preferir la música que escuchaba cuando tenía 13-14 años. Y este fenómeno se repit...</title>
-      <link>https://x.com/JohnNosta/status/2072266463931449584</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2072266463931449584</guid>
-      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>La gente tiende a preferir la música que escuchaba cuando tenía 13-14 años. Y este fenómeno se repite en todas las generaciones. https://t.co/e855paTRbl</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Haha! We have  new mission. 
-
-Getting GPT 5.6 un-banned ASAP
-
-OpenAI is caught up in security theate...</title>
-      <link>https://x.com/bindureddy/status/2072160577036931485</link>
-      <guid isPermaLink="false">twitter_bindureddy_2072160577036931485</guid>
-      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Haha! We have  new mission. 
-
-Getting GPT 5.6 un-banned ASAP
-
-OpenAI is caught up in security theater with the US govt and that’s slowing down AI progress</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Claude Sonnet 5</title>
-      <link>https://news.ycombinator.com/item?id=48736605</link>
-      <guid isPermaLink="false">claude-sonnet-5</guid>
-      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> hn</p><hr/><p>Anthropic 发布了新一代模型 Claude Sonnet 5，在自然语言理解、长上下文处理和多模态能力上显著提升，推理速度优化约40%，同时降低了API调用成本。该模型强化了安全对齐与可解释性，支持更复杂的任务分解，适合构建高可靠性AI产品。商业上，通过性能提升与成本下降进一步降低了企业接入门槛，有望加速客服、内容生成、编程辅助等场景的落地。产品创新方面，引入了动态上下文窗口和自适应推理机制，提升了用户体验的连续性和准确性。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>I find the Lakebase design for serverless Postgres very elegant, so I spent some time explaining how...</title>
-      <link>https://x.com/databricks/status/2072127964381417802</link>
-      <guid isPermaLink="false">twitter_databricks_2072127964381417802</guid>
-      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>I find the Lakebase design for serverless Postgres very elegant, so I spent some time explaining how it works in this blog.
-
-The blog starts by explaining how databases really persist data (with a write-ahead-log and data files that are updated async), and how Lakebase separates storage and compute </p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Nano Banana 2 Lite is now available in Runway. Create images at warp speed, without compromising on ...</title>
-      <link>https://x.com/runwayml/status/2072110886899068999</link>
-      <guid isPermaLink="false">twitter_runwayml_2072110886899068999</guid>
-      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Nano Banana 2 Lite is now available in Runway. Create images at warp speed, without compromising on quality. Get started at the link below or ask Agent to use Nano Banana 2 Lite. https://t.co/FlugLkeNmz</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>One unexpectedly great detail from @aiDotEngineer: the daily conference newspaper. Nice to flip thro...</title>
-      <link>https://x.com/swyx/status/2072152273686548819</link>
-      <guid isPermaLink="false">twitter_swyx_2072152273686548819</guid>
-      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>One unexpectedly great detail from @aiDotEngineer: the daily conference newspaper. Nice to flip through something with a hard stop, no algorithm trying to turn five minutes into an hour. https://t.co/WkXBtN38BI</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>what do YOU do while waiting for ai to cook? 🍳
-
-🧑‍🍳: @WilliamBryk @vincent_koc @altryne #paulinebrun...</title>
-      <link>https://x.com/swyx/status/2072140148805136811</link>
-      <guid isPermaLink="false">twitter_swyx_2072140148805136811</guid>
-      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>what do YOU do while waiting for ai to cook? 🍳
-
-🧑‍🍳: @WilliamBryk @vincent_koc @altryne #paulinebrunet @swyx @0thernet @vincent_koc @charles_irl @wbond @jihoonchoi 
-
-📍aie world’s fair https://t.co/jUHKt7wzVL</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>AIE has ruined other tech conferences for me.  The overall content quality of this event is just abs...</title>
-      <link>https://x.com/swyx/status/2072125821423099938</link>
-      <guid isPermaLink="false">twitter_swyx_2072125821423099938</guid>
-      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>AIE has ruined other tech conferences for me.  The overall content quality of this event is just absurd.
-
-@swyx well played sir</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Get started: https://t.co/UYGo6PiGIu</title>
-      <link>https://x.com/runwayml/status/2072110888526438642</link>
-      <guid isPermaLink="false">twitter_runwayml_2072110888526438642</guid>
-      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Get started: https://t.co/UYGo6PiGIu</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Context engineering is the new prompt engineering, AI Engineer World's Fair builders say, plus why a...</title>
-      <link>https://x.com/ThePracticalDev/status/2072109431483928945</link>
-      <guid isPermaLink="false">twitter_ThePracticalDev_2072109431483928945</guid>
-      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Context engineering is the new prompt engineering, AI Engineer World's Fair builders say, plus why agents don't "think" like we do.
-
-Kara Silverman reporting for The Daily Context.
-
-https://t.co/l9T8MujeI6</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Tired of a new API key and billing dashboard for every AI provider, this dev built a gateway with on...</title>
-      <link>https://x.com/ThePracticalDev/status/2072237020252955094</link>
-      <guid isPermaLink="false">twitter_ThePracticalDev_2072237020252955094</guid>
-      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Tired of a new API key and billing dashboard for every AI provider, this dev built a gateway with one normalized API and credit billing.
-
-{ author: Lolo }
-
-https://t.co/cbs1xnQc9A</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>That LLM API pause is not your wifi. This dev walks through latency, GPU queues, and cold starts beh...</title>
-      <link>https://x.com/ThePracticalDev/status/2072174357078573155</link>
-      <guid isPermaLink="false">twitter_ThePracticalDev_2072174357078573155</guid>
-      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>That LLM API pause is not your wifi. This dev walks through latency, GPU queues, and cold starts behind every request.
-
-{ author: @dannwaneri }
-
-https://t.co/ULA3KGVQQ1</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>LeWorld model becomes ADAPTIVE and meets MODEL-PREDICTIVE CONTROL
-
-AdaJEPA by Yann LeCun and colleag...</title>
-      <link>https://x.com/ylecun/status/2072213633640075366</link>
-      <guid isPermaLink="false">twitter_ylecun_2072213633640075366</guid>
-      <pubDate>2026-07-01T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>LeWorld model becomes ADAPTIVE and meets MODEL-PREDICTIVE CONTROL
-
-AdaJEPA by Yann LeCun and colleagues performs actions, then checks the predicted latent state versus the observed and adapts at TEST TIME.
-
-Similar to meta-learning ... 
-
-Paper: https://t.co/nGMYVPTKYk https://t.co/qaJZ9KvJy5</p></description>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Donald Trump made more than $2 billion last year while lying that affordability issues are a hoax and prices are going down. Never in American history has a man exploited the White House while in office for such corruption and self-enrichment.</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>

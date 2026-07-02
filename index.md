@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-02 | Total pages: 2135
+> Last updated: 2026-07-02 | Total pages: 2138
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -299,6 +299,7 @@
 - [[im-writing-again.md]] I’m writing again `pillar:capabilities` `score:0.48`
 - [[in-browser-container-builds.md]] In-Browser Container Builds `pillar:capabilities` `score:0.33`
 - [[in-the-weights-is-your-new-ai-centric-vanity-search.md]] In the Weights is your new AI-centric vanity search `pillar:capabilities` `score:0.41`
+- [[indian-tech-tycoon-bets-30m-of-his-own-money-to-build-ai-alternative-to-microsof.md]] Indian tech tycoon bets $30M of his own money to build AI alternative to Microso `pillar:capabilities` `score:0.515`
 - [[inference-cost-at-scale-with-napkin-math.md]] Inference cost at scale with napkin math `pillar:capabilities` `score:0.38`
 - [[infomaniak-transitions-to-a-foundation-model-to-protect-user-data-privacy.md]] Infomaniak transitions to a foundation model to protect user data privacy `pillar:capabilities` `score:0.415`
 - [[inside-faiss-billion-scale-similarity-search.md]] Inside FAISS: Billion-Scale Similarity Search `pillar:capabilities` `score:0.415`
@@ -490,6 +491,7 @@
 - [[screenpipescreenpipe.md]] screenpipe/screenpipe `pillar:capabilities` `score:0.615`
 - [[self-a-new-top-level-domain-designed-to-support-self-hosting.md]] .self: A new top-level domain designed to support self-hosting `pillar:capabilities` `score:0.46`
 - [[semiconductor-lifeline-keeps-fighter-jets-in-the-air.md]] Semiconductor Lifeline Keeps Fighter Jets in the Air `pillar:capabilities` `score:0.275`
+- [[senior-swe-bench-open-source-benchmark-that-assesses-agents-as-senior-engineers.md]] Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers `pillar:capabilities` `score:0.48`
 - [[sgl-projectsglang.md]] sgl-project/sglang `pillar:capabilities` `score:0.615`
 - [[shall-we-play-a-game-llms-use-tactical-nukes-in-95-of-simulations.md]] Shall we play a game? – LLMs use tactical nukes in 95% of simulations `pillar:capabilities` `score:0.48`
 - [[shapshap.md]] shap/shap `pillar:capabilities` `score:0.615`
@@ -1587,6 +1589,7 @@
 - [[jeinlee1991chinese-llm-benchmark.md]] jeinlee1991/chinese-llm-benchmark `pillar:ecosystem` `score:0.53`
 - [[just-like-gold-and-oil-we8217ll-soon-be-able-to-trade-ai-token-futures.md]] Just like gold and oil, we&#8217;ll soon be able to trade AI token futures `pillar:ecosystem` `score:0.41`
 - [[keras-teamkeras.md]] keras-team/keras `pillar:ecosystem` `score:0.58`
+- [[kimi-k27-code-is-generally-available-in-github-copilot.md]] Kimi K2.7 Code is generally available in GitHub Copilot `pillar:ecosystem` `score:0.565`
 - [[koala73worldmonitor.md]] koala73/worldmonitor `pillar:ecosystem` `score:0.58`
 - [[komai-a-fine-matrix-chat-app-you-can-get-to-love.md]] Komai: a fine Matrix chat app you can get to love `pillar:ecosystem` `score:0.345`
 - [[kongkong.md]] Kong/kong `pillar:ecosystem` `score:0.58`

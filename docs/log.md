@@ -2357,3 +2357,8 @@
 - create: openwiki-cli-that-writes-and-maintains-agent-documentation-for-your-codebase.md
 - create: meta-caps-internal-ai-token-spending.md
 - create: show-hn-meow-the-4th-and-final-javascript-runtime-and-toolchain.md
+
+## [2026-07-02 18:00] sync v3 | 3 new | pillars: {'patterns': 1, 'capabilities': 2}
+- create: kimi-k27-code-is-generally-available-in-github-copilot.md
+- create: senior-swe-bench-open-source-benchmark-that-assesses-agents-as-senior-engineers.md
+- create: indian-tech-tycoon-bets-30m-of-his-own-money-to-build-ai-alternative-to-microsof.md
