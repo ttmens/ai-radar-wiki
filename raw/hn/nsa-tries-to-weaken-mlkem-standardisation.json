@@ -1,0 +1,24 @@
+{
+  "title": "NSA tries to weaken mlkem standardisation?",
+  "score": 93,
+  "comments": 60,
+  "url": "https://nsa.2026.action.cr.yp.to",
+  "hn_url": "https://news.ycombinator.com/item?id=48760490",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该报道讨论美国国家安全局（NSA）试图削弱ML-KEM（基于格的密钥封装机制）的标准化进程。ML-KEM是后量子密码学关键标准，对AI产品的数据安全与加密合规至关重要。若标准被削弱，可能引发AI系统在量子计算时代的防护漏洞，影响商业产品的安全信任度和长期竞争力。产品经理需关注标准化博弈对技术选型、合规成本和市场准入的潜在冲击。",
+  "pm_relevance": 8,
+  "concepts": [
+    "后量子密码学",
+    "加密标准化",
+    "AI安全"
+  ],
+  "entities": [
+    "NSA",
+    "ML-KEM"
+  ],
+  "patterns": [
+    "安全合规驱动开发"
+  ]
+}

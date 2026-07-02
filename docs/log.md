@@ -2378,3 +2378,15 @@
 - create: show-hn-cli-tool-for-detecting-non-exact-code-duplication-with-embedding-models.md
 - create: show-hn-claudoro-pomodoro-timer-embedded-in-the-claude-code-statusline.md
 - create: show-hn-a-graph-paper-generator-that-renders-vector-pdfs-in-the-browser.md
+
+## [2026-07-03 06:01] sync v3 | 10 new | pillars: {'capabilities': 7, 'business': 2, 'patterns': 1}
+- create: vulkan-is-now-available-on-netbsd.md
+- create: the-short-leash-ai-coding-method-for-beating-fable.md
+- create: claude-real-video-any-llm-can-watch-a-video.md
+- create: spain-orders-blacklist-of-palantir-from-public-and-private-companies.md
+- create: nsa-tries-to-weaken-mlkem-standardisation.md
+- create: jersey-mike8217s-ipo-illustrates-how-bad-the-ai-hype-has-become.md
+- create: meta-quietly-launches-vibe-coded-gaming-app-pocket.md
+- create: anthropic-is-discussing-a-new-custom-chip-with-samsung.md
+- create: show-hn-ctx-search-the-coding-agent-history-already-on-your-machine.md
+- create: show-hn-i-built-an-open-source-alternative-to-claude-cowork.md
