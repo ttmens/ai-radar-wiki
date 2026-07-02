@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-02T09:03:26.769460",
+  "fetched_at": "2026-07-02T21:00:24.584773",
   "source": "twitter-cli",
   "data": {
     "sama": [
@@ -14,12 +14,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 631,
-          "retweets": 94,
-          "replies": 112,
+          "likes": 633,
+          "retweets": 97,
+          "replies": 119,
           "quotes": 12,
-          "views": 209716,
-          "bookmarks": 75
+          "views": 215489,
+          "bookmarks": 76
         },
         "createdAt": "Fri Jun 26 15:43:11 +0000 2026",
         "createdAtLocal": "2026-06-26 23:43",
@@ -42,12 +42,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 4829,
-          "retweets": 154,
-          "replies": 380,
+          "likes": 4843,
+          "retweets": 156,
+          "replies": 385,
           "quotes": 37,
-          "views": 893780,
-          "bookmarks": 206
+          "views": 901433,
+          "bookmarks": 209
         },
         "createdAt": "Fri Jun 26 21:06:21 +0000 2026",
         "createdAtLocal": "2026-06-27 05:06",
@@ -78,11 +78,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 993,
+          "likes": 1010,
           "retweets": 25,
-          "replies": 177,
+          "replies": 180,
           "quotes": 8,
-          "views": 140121,
+          "views": 142796,
           "bookmarks": 38
         },
         "createdAt": "Fri Jun 26 21:06:45 +0000 2026",
@@ -106,12 +106,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 6337,
+          "likes": 6341,
           "retweets": 142,
-          "replies": 563,
-          "quotes": 33,
-          "views": 589031,
-          "bookmarks": 181
+          "replies": 570,
+          "quotes": 34,
+          "views": 592112,
+          "bookmarks": 180
         },
         "createdAt": "Fri Jun 26 20:55:58 +0000 2026",
         "createdAtLocal": "2026-06-27 04:55",
@@ -134,12 +134,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 18385,
-          "retweets": 1127,
-          "replies": 1919,
+          "likes": 18389,
+          "retweets": 1128,
+          "replies": 1920,
           "quotes": 505,
-          "views": 2193027,
-          "bookmarks": 1941
+          "views": 2199314,
+          "bookmarks": 1938
         },
         "createdAt": "Fri Jun 26 20:37:49 +0000 2026",
         "createdAtLocal": "2026-06-27 04:37",
@@ -152,7 +152,174 @@
         "score": null
       }
     ],
-    "karpathy": [],
+    "karpathy": [
+      {
+        "id": "2071972062202343590",
+        "text": "We're coming out of stealth.\n\nWe've built our first racks after a successful A0 tapeout, $1B+ in customer contracts, and $800m raised.\n\nEarly customer tests show us achieving SOTA throughput, latency, and power efficiency on inference workloads.\n\nOur first racks ship this summer. https://t.co/FLccrkLTza",
+        "author": {
+          "id": "1781914021760991232",
+          "name": "Etched",
+          "screenName": "Etched",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1781917146752413696/KXVls07D_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 9166,
+          "retweets": 888,
+          "replies": 590,
+          "quotes": 576,
+          "views": 5685322,
+          "bookmarks": 3572
+        },
+        "createdAt": "Tue Jun 30 15:00:09 +0000 2026",
+        "createdAtLocal": "2026-06-30 23:00",
+        "createdAtISO": "2026-06-30T15:00:09+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HMEfnAMbAAAlKme.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "karpathy",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2069465879696576844",
+        "text": "https://t.co/CGIef5lIBI",
+        "author": {
+          "id": "2048097880880349184",
+          "name": "Engram",
+          "screenName": "EngramLab",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2062224875016822784/33VKsaYZ_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 1801,
+          "retweets": 229,
+          "replies": 175,
+          "quotes": 154,
+          "views": 1742908,
+          "bookmarks": 1170
+        },
+        "createdAt": "Tue Jun 23 17:01:29 +0000 2026",
+        "createdAtLocal": "2026-06-24 01:01",
+        "createdAtISO": "2026-06-23T17:01:29+00:00",
+        "media": [],
+        "urls": [
+          "http://x.com/i/article/2069463677733142528"
+        ],
+        "isRetweet": true,
+        "retweetedBy": "karpathy",
+        "lang": "zxx",
+        "score": null,
+        "articleTitle": "Introducing Engram: Scaling compute on your context"
+      },
+      {
+        "id": "2069547676849557725",
+        "text": "This is a new paradigm for interacting with Claude that is significantly more \"inline\" with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this \"just work\" (e.g. across tools, integrations, compute environments, memory, security, etc.), Claude basically joins the team in a seamless way - you can talk to it as you would talk to a person and it can help with a very large variety of workloads.\n\nImo this is the 3rd major redesign of LLM UIUX. The first paradigm was that the LLM is a website you go to, the second was that it is an app you download to your computer. This third one is that it is a self-contained, persistent, asynchronous entity with org-wide tools and context, working alongside teams of humans. It really takes a while to wrap your head around it, but it works and it is awesome.",
+        "author": {
+          "id": "33836629",
+          "name": "Andrej Karpathy",
+          "screenName": "karpathy",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 22876,
+          "retweets": 1893,
+          "replies": 1281,
+          "quotes": 682,
+          "views": 7781997,
+          "bookmarks": 13913
+        },
+        "createdAt": "Tue Jun 23 22:26:31 +0000 2026",
+        "createdAtLocal": "2026-06-24 06:26",
+        "createdAtISO": "2026-06-23T22:26:31+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2069468693017268244",
+          "text": "Introducing Claude Tag, a new way for teams to work with Claude.\n\nIn Slack, Claude joins as a team member with access to the channels and tools you choose. Tag Claude in and delegate tasks to it while you focus on other work. https://t.co/R2C6A5Kcye",
+          "author": {
+            "screenName": "claudeai",
+            "name": "Claude"
+          }
+        }
+      },
+      {
+        "id": "2065490793092337691",
+        "text": "In awe of SpaceX and its story - past, present and the future. You can think about it in 10+ different ways and continue re-blowing your mind in circles. Huge congrats to the team! 🚀",
+        "author": {
+          "id": "33836629",
+          "name": "Andrej Karpathy",
+          "screenName": "karpathy",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 21943,
+          "retweets": 1023,
+          "replies": 394,
+          "quotes": 41,
+          "views": 1013124,
+          "bookmarks": 865
+        },
+        "createdAt": "Fri Jun 12 17:45:54 +0000 2026",
+        "createdAtLocal": "2026-06-13 01:45",
+        "createdAtISO": "2026-06-12T17:45:54+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2064409694761054332",
+        "text": "This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's SOTA on everything by a margin but I'll add that *qualitatively* also, this is a major-version-bump-deserving step change forward (imo of the same order as Claude 4.5 was in November), peaking especially for long problem-solving sessions on very difficult problems. You can give it a lot more ambitious tasks than what you're used to, the model \"gets it\" and it will just go, and it's never felt this tempting to stop looking at the code at all (but don't do this in prod!). The model still has quirks that people will run into and the safeguards are configured to be a little too trigger happy for launch, which can hopefully be tuned over time.\n\nI feel a lot of things changing as working software increasingly comes out on a tap. The Jevon's paradox kicks in and I feel my own demand for software growing substantially. You can ask for anything - explainers, visualizers, dashboards, bespoke single-use apps (e.g. a full wandb that is hyper-specific just for your project), you can 10X your test suite, auto-optimize code, run giant research projects with custom HTML for the results, anything! \"Free your mind\" (Matrix ref). Really looking forward to all the things people build!",
+        "author": {
+          "id": "33836629",
+          "name": "Andrej Karpathy",
+          "screenName": "karpathy",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 25587,
+          "retweets": 2414,
+          "replies": 1335,
+          "quotes": 448,
+          "views": 2890508,
+          "bookmarks": 6332
+        },
+        "createdAt": "Tue Jun 09 18:10:00 +0000 2026",
+        "createdAtLocal": "2026-06-10 02:10",
+        "createdAtISO": "2026-06-09T18:10:00+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2064394151441863006",
+          "text": "Fable 5 is state-of-the-art on nearly all tested benchmarks, with exceptional performance in software engineering, knowledge work, scientific research, and vision.\n\nThe longer and more complex the task, the larger Fable 5’s lead over our other models. https://t.co/DxgSu0KUxh",
+          "author": {
+            "screenName": "claudeai",
+            "name": "Claude"
+          }
+        }
+      }
+    ],
     "AndrewYNg": [
       {
         "id": "2071988145667928442",
@@ -165,12 +332,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 7117,
-          "retweets": 1335,
-          "replies": 270,
-          "quotes": 132,
-          "views": 445463,
-          "bookmarks": 8877
+          "likes": 7804,
+          "retweets": 1481,
+          "replies": 303,
+          "quotes": 144,
+          "views": 513581,
+          "bookmarks": 9687
         },
         "createdAt": "Tue Jun 30 16:04:04 +0000 2026",
         "createdAtLocal": "2026-07-01 00:04",
@@ -200,12 +367,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1290,
-          "retweets": 277,
+          "likes": 1292,
+          "retweets": 275,
           "replies": 161,
           "quotes": 57,
-          "views": 149888,
-          "bookmarks": 390
+          "views": 150681,
+          "bookmarks": 393
         },
         "createdAt": "Fri Jun 19 18:34:23 +0000 2026",
         "createdAtLocal": "2026-06-20 02:34",
@@ -235,12 +402,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 344,
+          "likes": 346,
           "retweets": 49,
           "replies": 54,
           "quotes": 10,
-          "views": 74391,
-          "bookmarks": 199
+          "views": 74803,
+          "bookmarks": 200
         },
         "createdAt": "Thu Jun 18 17:00:03 +0000 2026",
         "createdAtLocal": "2026-06-19 01:00",
@@ -270,11 +437,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1107,
+          "likes": 1108,
           "retweets": 146,
           "replies": 109,
           "quotes": 13,
-          "views": 117943,
+          "views": 118204,
           "bookmarks": 843
         },
         "createdAt": "Thu Jun 04 16:44:13 +0000 2026",
@@ -305,11 +472,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 4514,
+          "likes": 4515,
           "retweets": 738,
-          "replies": 325,
+          "replies": 326,
           "quotes": 143,
-          "views": 562165,
+          "views": 562416,
           "bookmarks": 3452
         },
         "createdAt": "Mon Jun 01 15:58:45 +0000 2026",
@@ -332,34 +499,27 @@
     ],
     "ylecun": [
       {
-        "id": "2072376560884003083",
-        "text": "Trump's \"net worth is off the charts, bigger than what it was prior to this presidency.\" @maggieNYT says we're just scratching the surface when it comes to how Trump has used the presidency to inflate his wealth. https://t.co/NR82mS0XEG",
+        "id": "2072323838587625795",
+        "text": "Donald Trump made more than $2 billion last year while lying that affordability issues are a hoax and prices are going down. Never in American history has a man exploited the White House while in office for such corruption and self-enrichment.",
         "author": {
-          "id": "69181624",
-          "name": "Christiane Amanpour",
-          "screenName": "amanpour",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1082309523820429312/3qDsoBYu_normal.jpg",
+          "id": "81741855",
+          "name": "Steven Beschloss",
+          "screenName": "StevenBeschloss",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1777114755578449920/uvm8KL7r_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 2125,
-          "retweets": 801,
-          "replies": 121,
-          "quotes": 30,
-          "views": 110489,
-          "bookmarks": 130
+          "likes": 1019,
+          "retweets": 356,
+          "replies": 30,
+          "quotes": 7,
+          "views": 22518,
+          "bookmarks": 18
         },
-        "createdAt": "Wed Jul 01 17:47:29 +0000 2026",
-        "createdAtLocal": "2026-07-02 01:47",
-        "createdAtISO": "2026-07-01T17:47:29+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2072375890328064000/vid/avc1/1280x720/AnR7XgAqOYO1J3oq.mp4?tag=28",
-            "width": 1280,
-            "height": 720
-          }
-        ],
+        "createdAt": "Wed Jul 01 14:17:59 +0000 2026",
+        "createdAtLocal": "2026-07-01 22:17",
+        "createdAtISO": "2026-07-01T14:17:59+00:00",
+        "media": [],
         "urls": [],
         "isRetweet": true,
         "retweetedBy": "ylecun",
@@ -367,29 +527,29 @@
         "score": null
       },
       {
-        "id": "2072311011118379064",
-        "text": "President Donald Trump’s administration wants to enlist the public in attacking what it sees as wasteful spending. https://t.co/poMH7wampi",
+        "id": "2072366199229349946",
+        "text": "The former beauty queen claims Trump's pageants were \"a playground\" for Epstein to funnel vulnerable young women into his sex trafficking network. https://t.co/C8gPXkUwyx",
         "author": {
-          "id": "17089636",
-          "name": "News from Science",
-          "screenName": "NewsfromScience",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1001918076164759552/KBl8u8ia_normal.jpg",
+          "id": "16012783",
+          "name": "The Daily Beast",
+          "screenName": "thedailybeast",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1234868520040771584/28a_ytJJ_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 6,
-          "retweets": 2,
-          "replies": 0,
-          "quotes": 0,
-          "views": 4639,
-          "bookmarks": 0
+          "likes": 739,
+          "retweets": 514,
+          "replies": 29,
+          "quotes": 9,
+          "views": 21556,
+          "bookmarks": 58
         },
-        "createdAt": "Wed Jul 01 13:27:01 +0000 2026",
-        "createdAtLocal": "2026-07-01 21:27",
-        "createdAtISO": "2026-07-01T13:27:01+00:00",
+        "createdAt": "Wed Jul 01 17:06:19 +0000 2026",
+        "createdAtLocal": "2026-07-02 01:06",
+        "createdAtISO": "2026-07-01T17:06:19+00:00",
         "media": [],
         "urls": [
-          "https://scim.ag/4v5vkie"
+          "https://www.thedailybeast.com/beauty-queen-alleges-epstein-used-trump-pageants-to-recruit-women/?utm_source=twitter_owned_snd&utm_medium=twitter&utm_campaign=owned_social"
         ],
         "isRetweet": true,
         "retweetedBy": "ylecun",
@@ -397,62 +557,70 @@
         "score": null
       },
       {
-        "id": "2072298779462508701",
-        "text": "In his SOTU speech in 2010, @barackobama warned that with it's Citizens United decision, the SCOTUS had \"opened the floodgates for special interests — including foreign corporations — to spend without limit in our elections.\"\nToday, his grim prophecy has become the reality.",
+        "id": "2072384301870559454",
+        "text": "$2.2 BILLION for the Trump family. Higher costs for the American people. https://t.co/kvtw061jcw",
         "author": {
-          "id": "244655353",
-          "name": "David Axelrod",
-          "screenName": "davidaxelrod",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1025494480303149056/TQxxSehL_normal.jpg",
+          "id": "17494010",
+          "name": "Chuck Schumer",
+          "screenName": "SenSchumer",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1960891838652448768/LQ1aTBQR_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 1171,
-          "retweets": 318,
-          "replies": 0,
-          "quotes": 20,
-          "views": 79801,
-          "bookmarks": 25
+          "likes": 312,
+          "retweets": 151,
+          "replies": 385,
+          "quotes": 12,
+          "views": 41782,
+          "bookmarks": 6
         },
-        "createdAt": "Wed Jul 01 12:38:25 +0000 2026",
-        "createdAtLocal": "2026-07-01 20:38",
-        "createdAtISO": "2026-07-01T12:38:25+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2072372314583216350",
-        "text": "While working Americans are struggling to make ends meet, Trump enriched himself to the tune of $2.2 billion last year. \n\nA foreign government bought into his crypto business and then got a sweetheart deal from his administration.  Who is he really working for? This is textbook corruption.",
-        "author": {
-          "id": "1324926274888888320",
-          "name": "Senator Mark Kelly",
-          "screenName": "SenMarkKelly",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1334158015130320899/jwQnwuaZ_normal.png",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 590,
-          "retweets": 197,
-          "replies": 178,
-          "quotes": 13,
-          "views": 14310,
-          "bookmarks": 9
-        },
-        "createdAt": "Wed Jul 01 17:30:37 +0000 2026",
-        "createdAtLocal": "2026-07-02 01:30",
-        "createdAtISO": "2026-07-01T17:30:37+00:00",
+        "createdAt": "Wed Jul 01 18:18:15 +0000 2026",
+        "createdAtLocal": "2026-07-02 02:18",
+        "createdAtISO": "2026-07-01T18:18:15+00:00",
         "media": [
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HMKLou_WMAAu-R4.jpg",
-            "width": 1126,
-            "height": 1000
+            "url": "https://pbs.twimg.com/media/HMKWD3qWkAAyDu3.jpg",
+            "width": 2000,
+            "height": 2661
           }
         ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2072107968577798291",
+          "text": "President Trump reaped at least $2.2 billion from his family’s holdings last year, a new filing shows.\nhttps://t.co/Rdp8KHJLxl",
+          "author": {
+            "screenName": "nytimes",
+            "name": "The New York Times"
+          }
+        }
+      },
+      {
+        "id": "2072472617404297506",
+        "text": "Did a long chat with @yayitsrob on Shift Key about the Gigascale thesis, hard tech, and why the \"US can't build anything\" take is wrong.\nA few things I believe: 🧵",
+        "author": {
+          "id": "6182852",
+          "name": "Mike Schroepfer",
+          "screenName": "schrep",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1210715117005889542/qe4GSFW5_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 21,
+          "retweets": 2,
+          "replies": 1,
+          "quotes": 1,
+          "views": 19240,
+          "bookmarks": 6
+        },
+        "createdAt": "Thu Jul 02 00:09:11 +0000 2026",
+        "createdAtLocal": "2026-07-02 08:09",
+        "createdAtISO": "2026-07-02T00:09:11+00:00",
+        "media": [],
         "urls": [],
         "isRetweet": true,
         "retweetedBy": "ylecun",
@@ -460,30 +628,35 @@
         "score": null
       },
       {
-        "id": "2072133795323474045",
-        "text": "The sheer scale and audacity of what Trump and his family are doing to monetize the presidency in every possible way for their own gain is really breathtaking, and laden with so many conflicts they're Too Big to Trail.\nhttps://t.co/MYIujDtXuD via @NYTimes",
+        "id": "2072427191527432606",
+        "text": "Elon Musk gets mad when people point out that DOGE and its USAID cuts killed thousands, if not hundreds of thousands, of babies, children, mothers, and elders. https://t.co/UdvkmcUnF1",
         "author": {
-          "id": "244655353",
-          "name": "David Axelrod",
-          "screenName": "davidaxelrod",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1025494480303149056/TQxxSehL_normal.jpg",
+          "id": "373157754",
+          "name": "Anonymous",
+          "screenName": "YourAnonCentral",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1803298315444035588/EfL53U4__normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 2825,
-          "retweets": 1049,
-          "replies": 0,
-          "quotes": 45,
-          "views": 73392,
-          "bookmarks": 125
+          "likes": 5486,
+          "retweets": 1188,
+          "replies": 121,
+          "quotes": 28,
+          "views": 82579,
+          "bookmarks": 98
         },
-        "createdAt": "Wed Jul 01 01:42:49 +0000 2026",
-        "createdAtLocal": "2026-07-01 09:42",
-        "createdAtISO": "2026-07-01T01:42:49+00:00",
-        "media": [],
-        "urls": [
-          "https://www.nytimes.com/2026/06/30/us/politics/trump-moneymaking-presidential-history.html?smid=nytcore-ios-share"
+        "createdAt": "Wed Jul 01 21:08:40 +0000 2026",
+        "createdAtLocal": "2026-07-02 05:08",
+        "createdAtISO": "2026-07-01T21:08:40+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HMK9dUibcAAjNvB.png",
+            "width": 804,
+            "height": 440
+          }
         ],
+        "urls": [],
         "isRetweet": true,
         "retweetedBy": "ylecun",
         "lang": "en",
@@ -491,6 +664,53 @@
       }
     ],
     "elonmusk": [
+      {
+        "id": "2072464558732824680",
+        "text": "Teams recently completed build and acceptance testing of our 1,000th Merlin 1D engine for Falcon’s first stage! With Falcon’s reusability, recovering these engines has enabled continued reliability enhancements, making Merlin one of the most reliable rocket engines ever manufactured",
+        "author": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screenName": "SpaceX",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 11642,
+          "retweets": 1818,
+          "replies": 791,
+          "quotes": 111,
+          "views": 1082631,
+          "bookmarks": 399
+        },
+        "createdAt": "Wed Jul 01 23:37:09 +0000 2026",
+        "createdAtLocal": "2026-07-02 07:37",
+        "createdAtISO": "2026-07-01T23:37:09+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HMLfHqEbUAA-kFk.jpg",
+            "width": 1277,
+            "height": 850
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HMLfZp8a0AAnMqA.jpg",
+            "width": 4096,
+            "height": 2731
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HMLfbEkbIAAazEE.jpg",
+            "width": 4096,
+            "height": 1737
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null
+      },
       {
         "id": "2072345733584269416",
         "text": "Last year, @elonmusk brought national attention to the paper-based federal retirement process hidden deep underground in Boyers, Pennsylvania.\n\nThe Last Day of Paper is more than a milestone, it is proof that government modernization can deliver real results for the American people.\n\nThank you @POTUS and @elonmusk for the initial discussions that led to this important accomplishment: https://t.co/JwdiLEt0Ko",
@@ -502,12 +722,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 2145,
-          "retweets": 448,
-          "replies": 144,
-          "quotes": 15,
-          "views": 256080,
-          "bookmarks": 99
+          "likes": 4000,
+          "retweets": 974,
+          "replies": 241,
+          "quotes": 21,
+          "views": 542370,
+          "bookmarks": 184
         },
         "createdAt": "Wed Jul 01 15:44:59 +0000 2026",
         "createdAtLocal": "2026-07-01 23:44",
@@ -530,12 +750,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 16062,
-          "retweets": 2579,
-          "replies": 1461,
-          "quotes": 100,
-          "views": 1142983,
-          "bookmarks": 247
+          "likes": 44681,
+          "retweets": 7141,
+          "replies": 2958,
+          "quotes": 220,
+          "views": 2438716,
+          "bookmarks": 634
         },
         "createdAt": "Wed Jul 01 22:39:56 +0000 2026",
         "createdAtLocal": "2026-07-02 06:39",
@@ -566,12 +786,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1881,
-          "retweets": 370,
-          "replies": 320,
-          "quotes": 34,
-          "views": 305900,
-          "bookmarks": 111
+          "likes": 3903,
+          "retweets": 802,
+          "replies": 509,
+          "quotes": 52,
+          "views": 757382,
+          "bookmarks": 244
         },
         "createdAt": "Wed Jul 01 21:56:42 +0000 2026",
         "createdAtLocal": "2026-07-02 05:56",
@@ -601,12 +821,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 9398,
-          "retweets": 1687,
-          "replies": 1422,
-          "quotes": 236,
-          "views": 1274943,
-          "bookmarks": 504
+          "likes": 20821,
+          "retweets": 3650,
+          "replies": 2340,
+          "quotes": 547,
+          "views": 2289349,
+          "bookmarks": 1223
         },
         "createdAt": "Wed Jul 01 22:20:46 +0000 2026",
         "createdAtLocal": "2026-07-02 06:20",
@@ -624,41 +844,6 @@
         "retweetedBy": null,
         "lang": "zxx",
         "score": null
-      },
-      {
-        "id": "2072408701554897130",
-        "text": "Tesla’s Supercharger network just delivered a monster Q2\n\nIn Q2 2026, Tesla Superchargers delivered 2 terawatt-hours of electricity globally\n\nThat is enough electricity to power roughly 180,000+ U.S. homes for an entire year\n\nThe scale is getting insane:\n• 2 TWh delivered\n• 60 million charging sessions in 3 months\n• 266 kWh sold per plug per day\n• Wait-time percentage dropped below 0.5%\n• 5,000 site maps now live\n• +17% YoY growth\n\nTesla's EV charging network is becoming global energy infrastructure\n\nTesla’s charging infrastructure is getting bigger, faster, more efficient, and less congested at the same time",
-        "author": {
-          "id": "1818311005698678784",
-          "name": "X Freeze",
-          "screenName": "XFreeze",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1876785200010539008/2_HFJjq9_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 1705,
-          "retweets": 394,
-          "replies": 148,
-          "quotes": 15,
-          "views": 250619,
-          "bookmarks": 52
-        },
-        "createdAt": "Wed Jul 01 19:55:12 +0000 2026",
-        "createdAtLocal": "2026-07-02 03:55",
-        "createdAtISO": "2026-07-01T19:55:12+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HMKr0HYbIAAOpe7.jpg",
-            "width": 4000,
-            "height": 2500
-          }
-        ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null
       }
     ],
     "DrJimFan": [
@@ -673,12 +858,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 177,
-          "retweets": 13,
-          "replies": 17,
-          "quotes": 2,
-          "views": 26680,
-          "bookmarks": 65
+          "likes": 216,
+          "retweets": 16,
+          "replies": 20,
+          "quotes": 4,
+          "views": 34355,
+          "bookmarks": 91
         },
         "createdAt": "Wed Jul 01 15:12:14 +0000 2026",
         "createdAtLocal": "2026-07-01 23:12",
@@ -709,12 +894,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1433,
-          "retweets": 200,
-          "replies": 55,
-          "quotes": 27,
-          "views": 146913,
-          "bookmarks": 1043
+          "likes": 1564,
+          "retweets": 216,
+          "replies": 58,
+          "quotes": 29,
+          "views": 164821,
+          "bookmarks": 1134
         },
         "createdAt": "Tue Jun 30 17:07:49 +0000 2026",
         "createdAtLocal": "2026-07-01 01:07",
@@ -744,12 +929,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 64,
+          "likes": 67,
           "retweets": 2,
           "replies": 3,
           "quotes": 1,
-          "views": 15458,
-          "bookmarks": 34
+          "views": 16540,
+          "bookmarks": 36
         },
         "createdAt": "Tue Jun 30 17:07:50 +0000 2026",
         "createdAtLocal": "2026-07-01 01:07",
@@ -783,11 +968,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 3844,
+          "likes": 3846,
           "retweets": 569,
           "replies": 186,
           "quotes": 151,
-          "views": 648967,
+          "views": 649465,
           "bookmarks": 2022
         },
         "createdAt": "Tue Jun 16 16:31:58 +0000 2026",
@@ -822,7 +1007,7 @@
           "retweets": 18,
           "replies": 4,
           "quotes": 2,
-          "views": 45670,
+          "views": 45772,
           "bookmarks": 98
         },
         "createdAt": "Tue Jun 16 16:31:58 +0000 2026",
