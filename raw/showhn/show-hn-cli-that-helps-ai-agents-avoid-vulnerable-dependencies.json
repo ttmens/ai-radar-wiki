@@ -1,0 +1,24 @@
+{
+  "title": "Show HN: CLI that helps AI agents avoid vulnerable dependencies",
+  "score": 12,
+  "comments": 2,
+  "url": "https://github.com/clidey/deptrust",
+  "hn_url": "https://news.ycombinator.com/item?id=48752948",
+  "tag": "ShowHN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "该项目发布了CLI工具，专门针对AI代理依赖的安全问题。它通过静态分析和漏洞库扫描，帮助AI代理规避已知脆弱依赖，降低供应链攻击风险。对于产品经理而言，该工具可集成到AI代理开发流程中，增强代理在生产环境中的安全可信度，尤其适用于自主代码生成和插件调用场景。其商业价值在于减少安全审查成本，提升代理的鲁棒性，同时为AI平台提供差异化安全能力。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI Agent Security",
+    "Dependency Scanning",
+    "Supply Chain Risk"
+  ],
+  "entities": [],
+  "patterns": [
+    "Security-as-a-Service for Agents",
+    "CLI-based Safety Guard"
+  ]
+}

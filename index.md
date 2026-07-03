@@ -1,10 +1,11 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-03 | Total pages: 2177
+> Last updated: 2026-07-03 | Total pages: 2180
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
 - [[1-bit-bonsai-image-4b-image-generation-for-local-devices.md]] 1-Bit Bonsai Image 4B Image Generation for Local Devices `pillar:capabilities` `score:0.365`
+- [[14-faster-embeddings-how-we-rebuilt-the-onnx-path-in-manticore.md]] 14× faster embeddings: how we rebuilt the ONNX path in Manticore `pillar:capabilities` `score:0.365`
 - [[1940-air-terminal-museum-begins-liquidation.md]] 1940 Air Terminal Museum Begins Liquidation `pillar:capabilities` `score:0.135`
 - [[2noisechattts.md]] 2noise/ChatTTS `pillar:capabilities` `score:0.58`
 - [[32gb-of-ddr5-now-costs-375-ai-shortage-continues-to-squeeze-pc-building.md]] 32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building `pillar:capabilities` `score:0.515`
@@ -1382,6 +1383,7 @@
 - [[show-hn-blitzgraph-supabase-for-graphs-built-for-llm-agents.md]] Show HN: BlitzGraph – Supabase for graphs, built for LLM agents `pillar:patterns` `score:0.33`
 - [[show-hn-blockbuzz-a-workspace-built-for-teams-of-humans-and-agents.md]] Show HN: Block/buzz: a workspace built for teams of humans and agents `pillar:patterns` `score:0.33`
 - [[show-hn-build-your-own-ai-agent-cli-in-150-lines.md]] Show HN: Build Your Own AI Agent CLI in 150 Lines `pillar:patterns` `score:0.26`
+- [[show-hn-cli-that-helps-ai-agents-avoid-vulnerable-dependencies.md]] Show HN: CLI that helps AI agents avoid vulnerable dependencies `pillar:patterns` `score:0.33`
 - [[show-hn-coding-agent-that-compiles-intent-into-deterministic-dag-before-running.md]] Show HN: Coding agent that compiles intent into deterministic DAG before running `pillar:patterns` `score:0.33`
 - [[show-hn-continue-yn-a-60-second-game-about-ai-agent-permission-fatigue.md]] Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue `pillar:patterns` `score:0.295`
 - [[show-hn-costdev-yc-w21-making-agents-cost-aware-and-cheaper-to-call.md]] Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call `pillar:patterns` `score:0.33`
@@ -1526,6 +1528,7 @@
 - [[ai-researchers-continue-to-leave-google-for-its-rivals.md]] AI researchers continue to leave Google for its rivals `pillar:ecosystem` `score:0.48`
 - [[aids-creeps-back-in-parts-of-zambia-a-year-after.md]] Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance `pillar:ecosystem` `score:0.12`
 - [[aliasroboticscai.md]] aliasrobotics/cai `pillar:ecosystem` `score:0.53`
+- [[alibaba-to-ban-claude-code-in-workplace-over-alleged-backdoor-risks-source-says.md]] Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says `pillar:ecosystem` `score:0.43`
 - [[alphabet-announces-80b-equity-capital-raise-to-expand-ai-infra-and-compute.md]] Alphabet announces $80B equity capital raise to expand AI infra and compute `pillar:ecosystem` `score:0.43`
 - [[amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdow.md]] Amazon CEO reportedly raised Anthropic model concerns before government crackdow `pillar:ecosystem` `score:0.48`
 - [[amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips.md]] Amazon hopes to challenge Nvidia more directly by selling its AI chips `pillar:ecosystem` `score:0.48`

@@ -2407,3 +2407,8 @@
 - create: reality-has-a-surprising-amount-of-detail-2017.md
 - create: a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time.md
 - create: mark-zuckerberg-tells-staff-that-ai-agents-haven8217t-progressed-as-quickly-as-h.md
+
+## [2026-07-03 18:01] sync v3 | 3 new | pillars: {'capabilities': 2, 'patterns': 1}
+- create: alibaba-to-ban-claude-code-in-workplace-over-alleged-backdoor-risks-source-says.md
+- create: 14-faster-embeddings-how-we-rebuilt-the-onnx-path-in-manticore.md
+- create: show-hn-cli-that-helps-ai-agents-avoid-vulnerable-dependencies.md

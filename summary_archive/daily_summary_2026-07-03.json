@@ -2,55 +2,31 @@
   "daily_summary": {
     "date": "2026-07-03",
     "headline": "今日 AI 情报 · 2026-07-03",
-    "overview": "AI产品从能力爆发转向合规安全与可控仿真的双重叙事",
+    "overview": "AI能力向物理世界与长上下文突破；地缘政治与法律风险同步升温",
     "narratives": [
       {
-        "title": "AI产品进入合规与安全深水区",
-        "body": "地缘政治制裁（西班牙禁Palantir）、法律裁定（AI不能作为专利发明人）、后量子标准博弈（NSA削弱ML-KEM）以及安全监控与分布式攻击研究，共同标志着AI产品面临的合规与安全挑战从边缘案例变为核心刚需。产品经理需将数据主权、知识产权、内容安全作为产品设计的内生要素，而非事后补丁。",
+        "title": "AI 从内容生成迈向物理世界交互与长上下文推理",
+        "body": "今日多篇论文与产品发布显示，AI正突破虚拟内容生成边界，转向物理世界感知、可控模拟与长时推理：DART实现单次VLA适应环境变化，SPEAR构建下一代物理AI仿真平台，可控模拟智能体让交通仿真具备可解释操控，ReContext则解决长上下文证据复用难题。这些进展意味着AI产品经理需要从“生成式体验”思维切换到“物理世界代理”思维，重点投资数据多样性、边缘场景覆盖与安全验证——同时警惕地缘政治（西班牙禁Palantir）对物理世界部署的合规冲击。",
         "type": "paradigm_shift",
-        "pillar_key": "ecosystem"
-      },
-      {
-        "title": "AI从生成走向可控交互与仿真",
-        "body": "Meta发布文本到游戏的Pocket、可控仿真Agent论文、ReContext长上下文推理、熵感知视觉剪枝等技术，表明AI正从生成静态内容进化为可交互、可控制、可模拟的动态体验。产品经理可借此构建低门槛创作平台与高保真仿真系统，实现从内容消费到体验创造的范式迁移。",
-        "type": "validation",
         "pillar_key": "capabilities"
       },
       {
-        "title": "AI商业化从狂热转向理性务实",
-        "body": "Jersey Mike's IPO滥用AI术语、微软斥资25亿美元成立部署公司、OpenAI提议股权捐赠等信号，显示行业正从概念炒作转向基础设施投入与利益分配讨论。产品经理应警惕“为AI而AI”的伪需求，聚焦交付可量化的业务价值。",
-        "type": "maturation",
-        "pillar_key": "business"
+        "title": "AI 工具生态进入‘合规与地缘政治博弈’新阶段",
+        "body": "西班牙将Palantir列入黑名单、日本最高法院裁定AI不能作为专利发明人、微软成立AI部署公司并承诺25亿美元——这三件事共同指示：AI工具生态正从纯技术竞赛转向“合规能力+地缘站位”的复合竞争。产品经理必须将数据主权、政府关系、知识产权策略纳入产品路线图的核心考量，否则可能面临市场准入冻结或法律风险。",
+        "type": "bottleneck",
+        "pillar_key": "ecosystem"
       }
     ],
     "insights": [
       {
-        "pillar": "📱 产品模式",
-        "pillar_key": "patterns",
-        "narrative_title": "AI产品进入合规与安全深水区",
-        "insight": "AI产品进入合规与安全深水区。该方向的具体信号：持久化状态的AI编码agent面临分布式攻击威胁，恶意载荷可跨PR分布并择机触发，传统安全检测失效；LLM agent在社交结构中自发产生潜在目标并策略性表达，挑战产品的行为一致性设计。",
-        "evidence": [
-          {
-            "id": "what-llm-agents-say-when-no-one-is-watching-social-structure-and-latent-objectiv",
-            "title": "LLM agent在无人观察时的社交结构与潜在目标",
-            "score": 0.48
-          }
-        ]
-      },
-      {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "narrative_title": "AI从生成走向可控交互与仿真",
-        "insight": "AI从生成走向可控交互与仿真。该方向的具体信号：Meta发布文本到游戏的Pocket验证了可执行游戏逻辑的生成；可控仿真Agent通过行为潜变量实现定向调控，降低成本并加速安全验证；ReContext递归证据回放提升长上下文推理，可改善文档分析等多轮交互体验。",
+        "narrative_title": "AI 从内容生成迈向物理世界交互与长上下文推理",
+        "insight": "AI 从内容生成迈向物理世界交互与长上下文推理。该方向的具体信号：DART通过权重空间算术隔离域偏移实现单次VLA适应，SPEAR闭环仿真平台被ECCV2026接收，可控模拟智能体通过行为潜变量让交通场景可定向调控，ReContext递归证据回放提升长上下文推理。这些技术从不同维度解决物理世界部署的核心难题（鲁棒性、可控性、长时记忆），标志着AI代理正从“生成玩具”进化为“真实世界工具”。",
         "evidence": [
           {
-            "id": "meta-quietly-launches-vibe-coded-gaming-app-pocket",
-            "title": "Meta低调发布Vibe Coding游戏应用Pocket",
-            "score": 0.48
-          },
-          {
             "id": "recontext-recursive-evidence-replay-as-llm-harness-for-long-context-reasoning",
-            "title": "ReContext: 递归证据回放用于长上下文推理",
+            "title": "ReContext: Recursive Evidence Replay for Long-Context Reasoning",
             "score": 0.48
           }
         ]
@@ -58,54 +34,53 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "narrative_title": "AI产品进入合规与安全深水区",
-        "insight": "AI产品进入合规与安全深水区。该方向的具体信号：西班牙政府将Palantir列入黑名单，凸显数据主权与地缘政治风险；日本最高法院裁定AI不能作为专利发明人，影响AI辅助发明的知识产权策略；NSA试图削弱后量子密码标准ML-KEM，威胁AI产品长期安全。",
+        "narrative_title": "AI 工具生态进入‘合规与地缘政治博弈’新阶段",
+        "insight": "AI 工具生态进入‘合规与地缘政治博弈’新阶段。该方向的具体信号：西班牙政府公开将Palantir列入黑名单、日本最高法院裁定AI不能作为专利发明人、微软成立AI部署公司并承诺25亿美元。三者叠加表明，AI产品的市场准入不再仅靠技术领先，数据主权、法律合规与地缘站位成为关键变量——PM需提前布局本地化部署策略、专利风险对冲及与监管机构的沟通机制。",
         "evidence": [
           {
             "id": "spain-orders-blacklist-of-palantir-from-public-and-private-companies",
-            "title": "西班牙下令将Palantir列入公私企业黑名单",
+            "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
             "score": 0.6
-          },
-          {
-            "id": "ai-cant-be-listed-as-inventor-on-patent-applications-japans-top-court-rules",
-            "title": "日本最高法院裁定AI不能列为专利发明人",
-            "score": 0.53
-          },
-          {
-            "id": "nsa-tries-to-weaken-mlkem-standardisation",
-            "title": "NSA试图削弱ML-KEM标准化",
-            "score": 0.48
-          }
-        ]
-      },
-      {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "narrative_title": "AI商业化从狂热转向理性务实",
-        "insight": "AI商业化从狂热转向理性务实。该方向的具体信号：Jersey Mike's IPO在招股书中刻意提及AI术语，反映市场对AI概念的非理性追捧；微软成立AI部署公司并承诺25亿美元投资，推动基础设施服务化；OpenAI提议捐赠5%股权给主权财富基金，引发AI收益分配公平性讨论。",
-        "evidence": [
-          {
-            "id": "jersey-mike8217s-ipo-illustrates-how-bad-the-ai-hype-has-become",
-            "title": "Jersey Mike's IPO揭示AI炒作有多严重",
-            "score": 0.48
-          },
-          {
-            "id": "microsoft-launches-its-own-ai-deployment-company-with-25-billion-commitment",
-            "title": "微软成立AI部署公司并承诺25亿美元投资",
-            "score": 0.48
-          },
-          {
-            "id": "openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund",
-            "title": "OpenAI提议捐赠5%股权给美国主权财富基金",
-            "score": 0.45
           }
         ]
       }
     ],
-    "stats": "技术能力: 12 | 产品模式: 1 | 工具生态: 4 | 商业趋势: 3",
+    "stats": "技术能力: 14 | 产品模式: 1 | 工具生态: 3 | 商业趋势: 1",
     "total_items": 20,
     "high_value_count": 20,
     "all_today_ids": [
+      {
+        "id": "twitter_elonmusk_2072833182635024712",
+        "label": "First builds of Model Y Long Wheelbase at Giga Texas https://t.co/oo1mGUWspX"
+      },
+      {
+        "id": "twitter_bindureddy_2072850102880981269",
+        "label": "My AI spend is about $12K a month\n\nIt's about 85% code, 5% content gen and 10% media gen\n\nTotally wo..."
+      },
+      {
+        "id": "twitter__akhaliq_2072842236761346092",
+        "label": "DART: one-shot VLA adaptation under environmental shifts\n\nSeoul National University researchers show..."
+      },
+      {
+        "id": "twitter__akhaliq_2072839408408027413",
+        "label": "PerceptionRubrics\n\nCalibrating Multimodal Evaluation to Human Perception https://t.co/erVa3w2m4U"
+      },
+      {
+        "id": "twitter__akhaliq_2072876908296200385",
+        "label": "Our papers just got accepted at #ECCV2026 — and the one we're most excited about: SPEAR, our next-ge..."
+      },
+      {
+        "id": "twitter__akhaliq_2072861976079024159",
+        "label": "Thanks AK for featuring our work! More details: https://t.co/oICmSSXsdy"
+      },
+      {
+        "id": "twitter__akhaliq_2072839410144428041",
+        "label": "paper: https://t.co/12Xj5PsLSD"
+      },
+      {
+        "id": "twitter_ThePracticalDev_2072840274288546050",
+        "label": "Local models now trail the frontier by four to eight months, @TheAhmadOsman tells @ricmac, with 22 R..."
+      },
       {
         "id": "spain-orders-blacklist-of-palantir-from-public-and-private-companies",
         "label": "Spain Orders Blacklist of Palantir from Public and Private Companies"
@@ -215,8 +190,16 @@
         "label": "G-RRM: Guiding Symbolic Solvers with Recurrent Reasoning Models"
       },
       {
+        "id": "alibaba-to-ban-claude-code-in-workplace-over-alleged-backdoor-risks-source-says",
+        "label": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says"
+      },
+      {
         "id": "is-one-layer-enough-a-single-transformer-layer-matches-full-parameter-rl-train",
         "label": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train"
+      },
+      {
+        "id": "14-faster-embeddings-how-we-rebuilt-the-onnx-path-in-manticore",
+        "label": "14× faster embeddings: how we rebuilt the ONNX path in Manticore"
       },
       {
         "id": "claude-real-video-any-llm-can-watch-a-video",
@@ -229,6 +212,10 @@
       {
         "id": "show-hn-ctx-search-the-coding-agent-history-already-on-your-machine",
         "label": "Show HN: ctx – Search the coding agent history already on your machine"
+      },
+      {
+        "id": "show-hn-cli-that-helps-ai-agents-avoid-vulnerable-dependencies",
+        "label": "Show HN: CLI that helps AI agents avoid vulnerable dependencies"
       },
       {
         "id": "the-short-leash-ai-coding-method-for-beating-fable",
@@ -264,6 +251,6 @@
       }
     ],
     "date_bj": "2026-07-03 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-07-03 12:01:17"
+    "generated_at_bj": "2026-07-03 18:00:57"
   }
 }
