@@ -2681,7 +2681,7 @@
       network = new vis.Network(document.getElementById('mynetwork'), { nodes, edges }, {
         physics: {
           barnesHut: graphPhysicsBarnes,
-          stabilization: { iterations: 100, updateInterval: 20 }  // P0: 200→100 加速初始化
+          stabilization: { iterations: 20, updateInterval: 10 }  // v4.3: 100→20 加速初始化 (10s→3s)
         },
         interaction: { hover: true, zoomView: true, dragView: true, dragNodes: true }
       });

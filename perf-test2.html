@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>性能测试 - 禁用物理引擎</title>
+    <script src="./assets/vis-network.min.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        #log { background: #f0f0f0; padding: 10px; margin: 10px 0; font-family: monospace; }
+        .test-section { margin: 20px 0; }
+        .network-container { width: 100%; height: 500px; border: 1px solid #ccc; margin: 10px 0; }
+        .slow { color: red; font-weight: bold; }
+        .fast { color: green; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>vis-network 性能优化测试</h1>
+    <div id="log"></div>
+    
+    <div class="test-section">
+        <h2>测试 1: 禁用物理引擎（最快）</h2>
+        <div id="network1" class="network-container"></div>
+        <div id="log1"></div>
+    </div>
+    
+    <div class="test-section">
+        <h2>测试 2: 减少迭代次数 (20次)</h2>
+        <div id="network2" class="network-container"></div>
+        <div id="log2"></div>
+    </div>
+    
+    <script>
+        const mainLog = document.getElementById('log');
+        function log(msg, isSlow = false) {
+            const div = document.createElement('div');
+            div.innerHTML = msg;
+            if (isSlow) div.className = 'slow';
+            else div.className = 'fast';
+            mainLog.appendChild(div);
+        }
+        
+        async function testConfig(containerId, logId, config) {
+            const logEl = document.getElementById(logId);
+            function logLocal(msg) {
+                logEl.innerHTML += msg + '<br>';
+            }
+            
+            const startTime = performance.now();
+            logLocal('开始测试...');
+            
+            // 加载数据
+            const resp = await fetch('./graph.json');
+            const fullData = await resp.json();
+            const t1 = performance.now();
+            logLocal(`下载: ${(t1-startTime).toFixed(0)}ms`);
+            
+            // 过滤
+            const filteredNodes = fullData.nodes.filter(n => (n.pm_score || 0) >= 0.5);
+            const filteredIds = new Set(filteredNodes.map(n => n.id));
+            const filteredEdges = fullData.edges.filter(e => {
+                if (e.type === 'KEYWORD') return false;
+                const src = e.source || e.from;
+                const tgt = e.target || e.to;
+                return filteredIds.has(src) && filteredIds.has(tgt);
+            });
+            const t2 = performance.now();
+            logLocal(`过滤: ${(t2-t1).toFixed(0)}ms (${filteredNodes.length} 节点)`);
+            
+            // 创建 DataSet
+            const nodes = new vis.DataSet(filteredNodes.map(n => ({
+                id: n.id,
+                label: (n.label || '').slice(0, 15),
+                color: n.source_type === 'twitter' ? '#1DA1F2' : '#58a6ff',
+                size: Math.max(8, Math.min(20, (n.pm_score || 0.1) * 25 + 8))
+            })));
+            const edges = new vis.DataSet(filteredEdges.map(e => ({
+                from: e.source || e.from,
+                to: e.target || e.to
+            })));
+            const t3 = performance.now();
+            logLocal(`DataSet: ${(t3-t2).toFixed(0)}ms`);
+            
+            // 创建 Network
+            const container = document.getElementById(containerId);
+            const network = new vis.Network(container, { nodes, edges }, config);
+            const t4 = performance.now();
+            logLocal(`Network 创建: ${(t4-t3).toFixed(0)}ms`);
+            
+            // 等待稳定化
+            if (config.physics && config.physics.enabled !== false) {
+                network.once('stabilizationIterationsDone', function() {
+                    const t5 = performance.now();
+                    logLocal(`稳定化: ${(t5-t4).toFixed(0)}ms`);
+                    logLocal(`<b>总时间: ${(t5-startTime).toFixed(0)}ms</b>`, (t5-startTime) > 2000);
+                });
+            } else {
+                const t5 = performance.now();
+                logLocal(`<b>总时间: ${(t5-startTime).toFixed(0)}ms (无物理引擎)</b>`);
+            }
+        }
+        
+        // 测试 1: 禁用物理引擎
+        testConfig('network1', 'log1', {
+            physics: { enabled: false },
+            interaction: { hover: false, dragView: true, zoomView: true }
+        });
+        
+        // 测试 2: 减少迭代次数
+        testConfig('network2', 'log2', {
+            physics: {
+                barnesHut: { gravitationalConstant: -3000, springLength: 150 },
+                stabilization: { iterations: 20 }
+            },
+            interaction: { hover: false, dragView: true, zoomView: true }
+        });
+    </script>
+</body>
+</html>
