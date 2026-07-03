@@ -2412,3 +2412,6 @@
 - create: alibaba-to-ban-claude-code-in-workplace-over-alleged-backdoor-risks-source-says.md
 - create: 14-faster-embeddings-how-we-rebuilt-the-onnx-path-in-manticore.md
 - create: show-hn-cli-that-helps-ai-agents-avoid-vulnerable-dependencies.md
+
+## [2026-07-04 00:01] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: gemini-code-assist-will-be-shut-down-on-july-17.md
