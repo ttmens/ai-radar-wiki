@@ -1,0 +1,30 @@
+{
+  "title": "G-RRM: Guiding Symbolic Solvers with Recurrent Reasoning Models",
+  "summary": "In this work, we focus on SE-RRMs, a symbol-equivariant instantiation of RRMs that exhibits improved extrapolation to larger problem sizes. We propose a neuro-symbolic approach, ``Guiding with Recurrent Reasoning Models'' (G-RRM), which integrates SE-RRMs with symbolic solvers for constraint satisfaction problems. SE-RRMs act as neural solvers that generate full solution proposals and guide classical symbolic solvers, such as backtracking or SAT-based methods like Glucose 4.1 and CaDiCaL 3.0.0, that produce globally correct solutions. Centrally, we investigate when neural guidance with G-RRM improves the search efficiency of symbolic solvers. %\nOur experiments show that the efficacy of G-RRM depends on two conditions: first, the problem instances must have an expansive combinatorial search space to expose potential gains, and second, the solver architecture must be capable of dynamically overwriting its branching choices to recover when neural hints are imperfect. When these conditions hold, guidance drives median conflict counts to zero and yields significant wall-clock speedups: on $9\\times9$ Sudoku, where the SE-RRM correctly solves $91.1\\%$ of instances, backtracking accelerates by $33.3\\times$ and Glucose 4.1 by $1.70\\times$ (median, $p<0.001$), with Glucose 4.1 retaining a $1.17\\times$ speedup on perfect-hint $25\\times25$ grids. In contrast, CaDiCaL 3.0.0, whose runtime is overhead-dominated and which always respects the injected branching hints rather than overwriting them, shows no significant speedup (median $1.02\\times$, n.s.) and even a small significant mean slowdown ($0.90\\times$) on $9\\times9$. These results delineate the regimes in which neural guidance translates into practical speedups.",
+  "url": "http://arxiv.org/abs/2607.02491v1",
+  "authors": [
+    "Timo Bertram",
+    "Sidhant Bhavnani",
+    "Richard Freinschlag",
+    "Erich Kobler",
+    "Andreas Mayr"
+  ],
+  "published": "2026-07-02T17:53:31Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "reasoning"
+  ],
+  "summary_cn": "G-RRM是一种神经符号方法，它利用符号等变循环推理模型（SE-RRM）引导符号求解器，解决约束满足问题。该方法通过神经网络的模式识别与符号求解器的精确推理相结合，显著提升了模型在更大问题规模上的泛化能力。对于AI产品经理，其价值在于为复杂规划、调度和验证场景提供可解释且规模适应强的解决方案，实现了从数据驱动到混合智能的跨越。",
+  "pm_relevance": 7,
+  "concepts": [
+    "神经符号系统",
+    "循环推理",
+    "约束满足"
+  ],
+  "entities": [],
+  "patterns": [
+    "神经符号混合模式",
+    "约束求解模式"
+  ]
+}

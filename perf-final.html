@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>最终性能验证</title>
+    <script src="./assets/vis-network.min.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; max-width: 1200px; margin: 0 auto; }
+        #log { background: #f0f0f0; padding: 15px; margin: 15px 0; font-family: monospace; border-radius: 5px; }
+        #mynetwork { width: 100%; height: 600px; border: 1px solid #ccc; border-radius: 5px; }
+        .slow { color: #d32f2f; font-weight: bold; }
+        .fast { color: #388e3c; }
+        .summary { background: #e3f2fd; padding: 15px; border-left: 4px solid #2196f3; margin: 15px 0; }
+    </style>
+</head>
+<body>
+    <h1>🚀 AI Radar 图谱性能验证</h1>
+    
+    <div class="summary">
+        <h3>优化目标</h3>
+        <p><strong>原始问题:</strong> 页面加载非常慢（10秒+），用户体验差</p>
+        <p><strong>优化方案:</strong></p>
+        <ul>
+            <li>数据精简: 只加载最近 7 天 + PM Score >= 0.5 的节点</li>
+            <li>字段精简: 只保留渲染必需的 6 个字段</li>
+            <li>物理引擎: 迭代次数从 100 降到 20</li>
+        </ul>
+        <p><strong>预期效果:</strong> 加载时间从 10秒 → 3秒以内</p>
+    </div>
+    
+    <div id="log"></div>
+    <div id="mynetwork"></div>
+    
+    <script>
+        const logEl = document.getElementById('log');
+        function log(msg, type = 'info') {
+            const div = document.createElement('div');
+            div.innerHTML = msg;
+            if (type === 'slow') div.className = 'slow';
+            else if (type === 'fast') div.className = 'fast';
+            logEl.appendChild(div);
+        }
+        
+        async function test() {
+            const startTime = performance.now();
+            log('🔍 开始性能测试...');
+            
+            // 1. 加载 graph.html（模拟真实场景）
+            log('1️⃣ 加载 graph.html...');
+            const t1 = performance.now();
+            try {
+                const resp = await fetch('./graph.html');
+                const html = await resp.text();
+                const t2 = performance.now();
+                
+                // 提取 JSON 数据
+                const match = html.match(/<script[^>]*id=['"]graph-data['"][^>]*>(.*?)<\/script>/s);
+                if (!match) throw new Error('未找到 graph-data');
+                
+                const data = JSON.parse(match[1]);
+                log(`   ✓ 下载+解析: <b>${(t2-t1).toFixed(0)}ms</b> (${data.nodes.length} 节点, ${data.edges.length} 边)`);
+                
+                // 2. 创建 vis-network DataSet
+                log('2️⃣ 创建 DataSet...');
+                const t3 = performance.now();
+                const nodes = new vis.DataSet(data.nodes.map(n => ({
+                    id: n.id,
+                    label: (n.label || '').slice(0, 15),
+                    color: n.source_type === 'twitter' ? '#1DA1F2' : 
+                           n.pillar === 'capabilities' ? '#58a6ff' : 
+                           n.pillar === 'patterns' ? '#3fb950' : 
+                           n.pillar === 'ecosystem' ? '#a371f7' : '#f0883e',
+                    size: Math.max(8, Math.min(20, (n.pm_score || 0.1) * 25 + 8))
+                })));
+                const edges = new vis.DataSet(data.edges.map(e => ({
+                    from: e.source || e.from,
+                    to: e.target || e.to
+                })));
+                const t4 = performance.now();
+                log(`   ✓ DataSet: <b>${(t4-t3).toFixed(0)}ms</b>`);
+                
+                // 3. 初始化 vis-network（使用优化后的配置）
+                log('3️⃣ 初始化 vis.Network (迭代 20 次)...');
+                const t5 = performance.now();
+                const container = document.getElementById('mynetwork');
+                const network = new vis.Network(container, { nodes, edges }, {
+                    physics: {
+                        barnesHut: { gravitationalConstant: -3000, springLength: 150 },
+                        stabilization: { iterations: 20, updateInterval: 10 }
+                    },
+                    interaction: { hover: true, dragView: true, zoomView: true }
+                });
+                const t6 = performance.now();
+                log(`   ✓ Network 创建: <b>${(t6-t5).toFixed(0)}ms</b>`);
+                
+                // 4. 等待稳定化完成
+                log('4️⃣ 等待物理引擎稳定化...');
+                network.once('stabilizationIterationsDone', function() {
+                    const t7 = performance.now();
+                    const totalTime = t7 - startTime;
+                    
+                    log(`   ✓ 稳定化: <b>${(t7-t6).toFixed(0)}ms</b>`);
+                    log(`<br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`);
+                    log(`<b>🎯 总加载时间: ${totalTime.toFixed(0)}ms</b>`, totalTime > 3000 ? 'slow' : 'fast');
+                    
+                    // 瓶颈分析
+                    log(`<br><b>📊 性能分析:</b>`);
+                    const phases = [
+                        ['下载+解析', t2-t1],
+                        ['DataSet', t4-t3],
+                        ['Network 创建', t6-t5],
+                        ['稳定化', t7-t6]
+                    ];
+                    phases.forEach(([name, duration]) => {
+                        const pct = (duration / totalTime * 100).toFixed(0);
+                        const isSlow = duration > 1000;
+                        log(`  ${name}: ${duration.toFixed(0)}ms (${pct}%)`, isSlow ? 'slow' : 'fast');
+                    });
+                    
+                    // 对比优化前后
+                    log(`<br><b>📈 优化效果:</b>`);
+                    log(`  文件大小: 2.6MB → 252KB (-90%)`);
+                    log(`  节点数: 2767 → ${data.nodes.length} (-${((1-data.nodes.length/2767)*100).toFixed(0)}%)`);
+                    log(`  边数: 3019 → ${data.edges.length} (-${((1-data.edges.length/3019)*100).toFixed(0)}%)`);
+                    log(`  加载时间: 10s → ${(totalTime/1000).toFixed(1)}s (-${((1-totalTime/10000)*100).toFixed(0)}%)`);
+                    
+                    if (totalTime < 3000) {
+                        log(`<br>✅ <b>性能达标！</b> 加载时间 < 3 秒`, 'fast');
+                    } else {
+                        log(`<br>⚠️ <b>性能未达标</b> 加载时间 > 3 秒`, 'slow');
+                    }
+                });
+                
+            } catch (err) {
+                log(`❌ 错误: ${err.message}`, 'slow');
+            }
+        }
+        
+        // 页面加载完成后开始测试
+        window.addEventListener('load', test);
+    </script>
+</body>
+</html>

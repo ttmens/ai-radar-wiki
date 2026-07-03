@@ -1,0 +1,33 @@
+{
+  "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+  "summary": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising solution, with state-of-the-art(SOTA) methods often following a localize-first, unlearn-second paradigm that targets specific model parameters. However, existing benchmarks evaluate unlearning solely at the output level, leaving open the question of whether unlearning truly erases knowledge from a model's parameters or merely obfuscates it, a concern reinforced by the success of resurfacing attacks. To bridge this gap, we introduce LACUNA: the first unlearning testbed with ground-truth parameter-level localization. LACUNA injects PII of synthetic individuals into predefined parameters of 1B and 7B OLMo-based models via masked continual pretraining, enabling direct evaluation of whether unlearning targets the weights responsible for knowledge storage. We use LACUNA to benchmark current SOTA unlearning methods and find that, despite strong output-level performance, existing methods are highly imprecise and susceptible to resurfacing attacks. We further show that when localization is successful, even a simple gradient-based unlearning method achieves strong erasure and robustness to resurfacing attacks, highlighting the importance of precise unlearning. We release LACUNA to complement behavioral evaluations and drive further advances in robust, localization-based unlearning.",
+  "url": "http://arxiv.org/abs/2607.02513v1",
+  "authors": [
+    "Matteo Boglioni",
+    "Thibault Rousset",
+    "Siva Reddy",
+    "Marius Mosbach",
+    "Verna Dankers"
+  ],
+  "published": "2026-07-02T17:59:52Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "training",
+    "parameter",
+    "precision",
+    "gradient"
+  ],
+  "summary_cn": "LACUNA是一个用于评估大语言模型遗忘学习中定位精度的测试平台。LLM会记忆敏感训练数据（如个人身份信息），需要可靠的后期移除方法。当前主流遗忘方法采用“先定位、后遗忘”范式，但定位精度直接影响遗忘效果和模型性能保留。LACUNA提供了一个标准化评估框架，可量化不同定位方法的精度，帮助开发更精准、低副作用的遗忘技术。对AI产品经理而言，该技术可用于实现合规的用户数据删除、减少隐私风险，同时降低对模型通用能力的损害，具有重要的商业合规价值和产品创新意义。",
+  "pm_relevance": 7,
+  "concepts": [
+    "LLM遗忘学习",
+    "定位精度",
+    "数据隐私"
+  ],
+  "entities": [],
+  "patterns": [
+    "Localize-First Unlearn Pattern"
+  ]
+}

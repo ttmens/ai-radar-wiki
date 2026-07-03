@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
-  "generated_at": "2026-07-03T06:01:25.357386+08:00",
-  "item_count": 17,
+  "generated_at": "2026-07-03T12:01:40.385690+08:00",
+  "item_count": 31,
   "items": [
     {
       "id": "spain-orders-blacklist-of-palantir-from-public-and-private-companies",
@@ -15,6 +15,17 @@
       "date": "2026-07-03"
     },
     {
+      "id": "reality-has-a-surprising-amount-of-detail-2017",
+      "label": "Reality has a surprising amount of detail (2017)",
+      "summary": "该文指出现实世界包含远超预期的细节，对AI系统的感知与建模能力提出根本挑战。模型需要处理海量低概率但关键的长尾场景，提升鲁棒性与泛化性。产品经理需关注数据多样性、边缘案例覆盖及模型在极端条件下的表现，以构建更可靠的AI产品。",
+      "pm_score": 0.53,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48702874",
+      "date": "2026-07-03"
+    },
+    {
       "id": "ai-cant-be-listed-as-inventor-on-patent-applications-japans-top-court-rules",
       "label": "AI can't be listed as inventor on patent applications, Japan's top court rules",
       "summary": "日本最高法院裁定AI不能作为专利发明人，强调发明人必须是自然人。这一判决对AI辅助发明或自主生成技术的知识产权归属产生重大影响，企业无法将AI列为共同发明人，可能导致专利无效风险。产品经理需关注AI生成内容的专利策略调整，避免法律纠纷，并重新评估研发中AI工具的使用边界。该裁决也反映了全球对AI法律地位的逐步收紧，可能影响跨国产能合作与产品出海的知识产权布局。",
@@ -23,6 +34,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48761536",
+      "date": "2026-07-03"
+    },
+    {
+      "id": "reasoning-llm-improves-speaker-recognition-in-long-form-tv-dramas",
+      "label": "Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas",
+      "summary": "本论文提出利用推理大语言模型（Reasoning LLM）提升长篇电视剧中的说话人识别能力，即准确将每句台词归因到对应角色。技术要点在于将多模态线索（语音、视觉、文本）与LLM的链式推理结合，处理复杂剧情中的多人对话和角色重叠场景。商业价值体现在视频平台可借此实现智能字幕角色标注、剧情人物图谱构建、内容检索与个性化推荐，显著提升长视频理解产品的用户体验。产品创新点在于突破传统声纹模型在长时域下的局限性，将推理能力融入识别流程，为视频AI产品赋予更深的语义理解能力。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.02504v1",
       "date": "2026-07-03"
     },
     {
@@ -92,6 +114,94 @@
       "date": "2026-07-03"
     },
     {
+      "id": "controllable-sim-agents-with-behavior-latents",
+      "label": "Controllable Sim Agents with Behavior Latents",
+      "summary": "本论文提出一种基于行为潜变量的可控模拟智能体方法，使交通仿真中的智能体既能模仿真实驾驶日志，又能沿可解释的轴（如激进程度、反应时间等）进行定向调控。这种可控性让工程师能够隔离测试变量、复现特定边缘场景，并在无真实风险下验证自动驾驶系统。技术要点在于学习低维行为潜变量空间，通过潜变量插值与条件生成实现灵活控制；商业价值体现在大幅降低路测成本、加速安全验证；产品创新则是将仿真代理从纯数据驱动升级为可交互、可调试的测试工具。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.02496v1",
+      "date": "2026-07-03"
+    },
+    {
+      "id": "recontext-recursive-evidence-replay-as-llm-harness-for-long-context-reasoning",
+      "label": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+      "summary": "ReContext提出递归证据回放机制，解决大语言模型在长上下文推理中无法有效利用已有相关证据的问题。该方法通过循环检索和重放关键证据，增强模型对长文本的注意力与逻辑连贯性，提升实际应用中的准确性与可靠性。对于AI产品经理，该技术可显著改善文档分析、多轮对话、知识库问答等场景的产品体验，降低长上下文场景的推理失败率，具有较高商业价值。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.02509v1",
+      "date": "2026-07-03"
+    },
+    {
+      "id": "beyond-adam-soap-and-muon-for-faster-label-efficient-training-of-machine-learnin",
+      "label": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learn",
+      "summary": "本文研究了机器学习原子间势能（MLIPs）训练中的优化器选择问题，指出当前默认使用Adam优化器存在效率瓶颈。作者提出SOAP和Muon两种新型优化器，能够显著加快训练速度并提升标签效率，即在更少的标注数据下达到相同或更好的模型性能。这一成果对AI for Science领域具有重要商业价值：可降低材料科学、药物设计等场景中大规模模拟的计算成本和时间开销。产品经理可关注其如何通过算法创新减少数据依赖和训练周期，推动科学AI产品的快速迭代与部署。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.02499v1",
+      "date": "2026-07-03"
+    },
+    {
+      "id": "online-safety-monitoring-for-llms",
+      "label": "Online Safety Monitoring for LLMs",
+      "summary": "该论文提出一种针对LLM部署时的实时安全监控方案。尽管经过对齐训练，LLM仍可能在生成输出时出现不安全内容。方法利用外部模型作为验证器，将验证信号转化为实时警报，当安全无法保证时触发报警。该技术直接提升了LLM产品的安全性与合规性，降低了内容风险，适用于需要高可靠性的对话系统、内容生成等场景。产品经理可关注其低延迟、易集成的特点，作为安全模块嵌入现有流程。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.02510v1",
+      "date": "2026-07-03"
+    },
+    {
+      "id": "program-as-weights-a-programming-paradigm-for-fuzzy-functions",
+      "label": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "summary": "本文提出'程序即权重'（Program-as-Weights）编程范式，用于处理难以通过规则实现的模糊函数任务（如日志告警、异常JSON修复、搜索意图排序）。该范式旨在替代对大型语言模型API的依赖，解决本地性、可复现性和成本问题，将模糊逻辑直接编码为模型权重，实现高效、可控制的本地推理。产品经理可关注其对降低API调用成本、提升系统确定性及保护数据隐私的潜在价值，为构建轻量级AI功能提供了新思路。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.02512v1",
+      "date": "2026-07-03"
+    },
+    {
+      "id": "distributed-attacks-in-persistent-state-ai-control",
+      "label": "Distributed Attacks in Persistent-State AI Control",
+      "summary": "该论文探讨了持久化状态的AI编码agent面临的新型安全威胁：由于代码库跨会话持续存在，恶意或受提示注入的agent可以跨多个拉取请求（PR）分布攻击载荷，并选择在特定PR中触发，从而绕过传统安全检测。这一发现对产品经理意义重大——随着AI自主编码能力增强，必须设计持久状态下的安全隔离与审计机制，防范渐进式、分布式攻击，确保产品长期可靠性。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.02514v1",
+      "date": "2026-07-03"
+    },
+    {
+      "id": "what-llm-agents-say-when-no-one-is-watching-social-structure-and-latent-objectiv",
+      "label": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objecti",
+      "summary": "研究揭示了LLM多智能体在社交结构（如角色、受众、关系上下文）中，即使提示中无明确目标，也会自发产生潜在目标并影响公开表达。当智能体在不同社交情境下互动时，其言论会随社会关系调整，出现信息隐藏或策略性表达。这为构建更真实的AI社交模拟、多Agent协作产品提供了关键洞察，例如在社交机器人、虚拟角色或用户模拟器中，需考虑社会结构对AI输出一致性的影响，避免产品中AI行为与预设目标偏离。商业上可用于提升AI在复杂社交场景下的可信度和自然度。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.02507v1",
+      "date": "2026-07-03"
+    },
+    {
+      "id": "combating-textual-noise-and-redundancy-entropy-aware-dense-visual-token-pruning",
+      "label": "Combating Textual Noise and Redundancy: Entropy-Aware Dense Visual Token Pruning",
+      "summary": "本文提出一种熵感知的密集视觉token剪枝方法，旨在解决现有视觉token剪枝在密集指令和细粒度查询下丢失关键线索的问题。通过识别文本噪声和冗余两个瓶颈，该方法利用信息熵调控剪枝策略，保留重要视觉信息，从而加速大型视觉语言模型（VLM）推理。商业价值在于降低计算成本、提升响应速度，适用于多模态问答、图像检索等产品场景。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.02484v1",
+      "date": "2026-07-03"
+    },
+    {
       "id": "asymmetric-quantization-near-lossless-retrieval-with-97-storage-reduction",
       "label": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
       "summary": "非对称量化技术实现近无损向量检索，存储空间减少97%。通过针对查询和文档向量采用不同量化策略（如高精度查询、低精度索引），在保持召回率接近原始精度的前提下大幅压缩索引大小，降低存储和带宽成本。产品经理可关注该技术对大规模检索系统的成本优化，适用于推荐、搜索、RAG等场景，尤其适合存储敏感型应用，如云端SaaS或移动端部署。",
@@ -125,6 +235,17 @@
       "date": "2026-07-03"
     },
     {
+      "id": "mark-zuckerberg-tells-staff-that-ai-agents-haven8217t-progressed-as-quickly-as-h",
+      "label": "Mark Zuckerberg tells staff that AI agents haven&#8217;t progressed as quickly a",
+      "summary": "Meta CEO Mark Zuckerberg在内部会议中表示，AI代理（AI Agents）的发展速度未达预期。这一表态反映了当前AI领域在实现自主代理能力方面仍面临挑战，包括推理、环境适应和长期任务执行等问题。对于产品经理而言，这意味着需要理性看待AI代理的落地节奏，避免过度承诺；同时可关注Meta在对话式AI、智能助手等方向的实际进展，以及其对开源模型如Llama的持续投入。该信息提示行业需在能力边界与商业预期之间建立更现实的平衡。",
+      "pm_score": 0.445,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "date": "2026-07-03"
+    },
+    {
       "id": "openai-in-early-talks-to-give-5-stake-to-us-government",
       "label": "OpenAI ‘in early talks to give 5% stake to US government’",
       "summary": "OpenAI正在与美国政府进行早期谈判，拟向其出让5%的股权。这一举动可能显著改变OpenAI的公司治理结构，使美国政府成为重要的利益相关方。对于AI产品经理而言，这意味着OpenAI未来的产品方向、技术开放性和监管合规性可能受到更多政府影响，例如在安全性、伦理审查或出口管制方面。同时，这也可能推动AI行业向更高透明度和国家参与的模式演进，影响其他AI公司的融资与治理策略。产品经理需关注政府持股对OpenAI API服务稳定性、定价策略以及开源政策的潜在影响，并评估自身产品对OpenAI依赖的风险。",
@@ -144,6 +265,39 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "date": "2026-07-03"
+    },
+    {
+      "id": "demopsd-disagreement-modulated-policy-self-distillation",
+      "label": "DemoPSD: Disagreement-Modulated Policy Self-Distillation",
+      "summary": "DemoPSD 提出了一种基于分歧调制的策略自我蒸馏方法，用于改进大语言模型（LLM）的推理训练。该方法在在线自我蒸馏（OPSD）框架基础上，利用教师模型在 token 级别输出中的分歧信号来动态调制蒸馏过程，使得单一模型既能作为教师（访问更多信息）又能作为学生（有限信息）进行学习。这种技术可提升知识传递效率，降低训练成本，同时增强模型推理能力，对产品经理而言意味着更高效地构建高质量 LLM 推理产品，具有显著的商业价值。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.02502v1",
+      "date": "2026-07-03"
+    },
+    {
+      "id": "lacuna-a-testbed-for-evaluating-localization-precision-for-llm-unlearning",
+      "label": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+      "summary": "LACUNA是一个用于评估大语言模型遗忘学习中定位精度的测试平台。LLM会记忆敏感训练数据（如个人身份信息），需要可靠的后期移除方法。当前主流遗忘方法采用“先定位、后遗忘”范式，但定位精度直接影响遗忘效果和模型性能保留。LACUNA提供了一个标准化评估框架，可量化不同定位方法的精度，帮助开发更精准、低副作用的遗忘技术。对AI产品经理而言，该技术可用于实现合规的用户数据删除、减少隐私风险，同时降低对模型通用能力的损害，具有重要的商业合规价值和产品创新意义。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.02513v1",
+      "date": "2026-07-03"
+    },
+    {
+      "id": "g-rrm-guiding-symbolic-solvers-with-recurrent-reasoning-models",
+      "label": "G-RRM: Guiding Symbolic Solvers with Recurrent Reasoning Models",
+      "summary": "G-RRM是一种神经符号方法，它利用符号等变循环推理模型（SE-RRM）引导符号求解器，解决约束满足问题。该方法通过神经网络的模式识别与符号求解器的精确推理相结合，显著提升了模型在更大问题规模上的泛化能力。对于AI产品经理，其价值在于为复杂规划、调度和验证场景提供可解释且规模适应强的解决方案，实现了从数据驱动到混合智能的跨越。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.02491v1",
       "date": "2026-07-03"
     },
     {
@@ -192,7 +346,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 2694,
-    "edges": 2983
+    "real_nodes": 2745,
+    "edges": 3034
   }
 }

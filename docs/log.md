@@ -2390,3 +2390,20 @@
 - create: anthropic-is-discussing-a-new-custom-chip-with-samsung.md
 - create: show-hn-ctx-search-the-coding-agent-history-already-on-your-machine.md
 - create: show-hn-i-built-an-open-source-alternative-to-claude-cowork.md
+
+## [2026-07-03 12:01] sync v3 | 15 new | pillars: {'patterns': 2, 'capabilities': 12, 'ecosystem': 1}
+- create: distributed-attacks-in-persistent-state-ai-control.md
+- create: lacuna-a-testbed-for-evaluating-localization-precision-for-llm-unlearning.md
+- create: program-as-weights-a-programming-paradigm-for-fuzzy-functions.md
+- create: online-safety-monitoring-for-llms.md
+- create: recontext-recursive-evidence-replay-as-llm-harness-for-long-context-reasoning.md
+- create: what-llm-agents-say-when-no-one-is-watching-social-structure-and-latent-objectiv.md
+- create: reasoning-llm-improves-speaker-recognition-in-long-form-tv-dramas.md
+- create: demopsd-disagreement-modulated-policy-self-distillation.md
+- create: beyond-adam-soap-and-muon-for-faster-label-efficient-training-of-machine-learnin.md
+- create: controllable-sim-agents-with-behavior-latents.md
+- create: g-rrm-guiding-symbolic-solvers-with-recurrent-reasoning-models.md
+- create: combating-textual-noise-and-redundancy-entropy-aware-dense-visual-token-pruning.md
+- create: reality-has-a-surprising-amount-of-detail-2017.md
+- create: a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time.md
+- create: mark-zuckerberg-tells-staff-that-ai-agents-haven8217t-progressed-as-quickly-as-h.md

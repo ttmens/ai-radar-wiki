@@ -1,0 +1,32 @@
+{
+  "title": "Controllable Sim Agents with Behavior Latents",
+  "summary": "Realistic traffic simulation requires agents that imitate logged behavior and can also be steered along interpretable axes. Such controllability enables engineers to isolate variables, reproduce specific edge cases, and test autonomous systems without real-world risk. We introduce Controllable Neural Variational Agents (CNeVA), a controllable simulated-agent framework that learns to infer a per-agent Gaussian behavior latent from per-channel discounted returns via a closed-form conjugate variational update, conditioning a rectified-flow trajectory generator trained on a mixed channel-mask curriculum for classifier-free guidance. To tackle scarcity in reward signals, we propose soft eligibility gates that replace hard binary thresholds with smooth exponential decay, preserving the gradient signal for near-threshold agents. On the Waymo Open Motion Dataset, CNeVA attains competitive realism on the benchmark while exposing per-channel controllability that the higher-ranked imitation models lack. Speed- and acceleration-based steering produces monotone responses without stall-induced reward hacking. Safety controllability is monotone and substantial with the introduction of soft eligibility. We manage to achieve steerable map compliance under a context-residual return measure. Furthermore, our experiment demonstrates that steering metrics must be read alongside physical-plausibility guardrails to avoid reward-hacking confounds.",
+  "url": "http://arxiv.org/abs/2607.02496v1",
+  "authors": [
+    "Juanwu Lu",
+    "Junyu Zhu",
+    "Ziran Wang"
+  ],
+  "published": "2026-07-02T17:55:39Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "gradient",
+    "dataset"
+  ],
+  "summary_cn": "本论文提出一种基于行为潜变量的可控模拟智能体方法，使交通仿真中的智能体既能模仿真实驾驶日志，又能沿可解释的轴（如激进程度、反应时间等）进行定向调控。这种可控性让工程师能够隔离测试变量、复现特定边缘场景，并在无真实风险下验证自动驾驶系统。技术要点在于学习低维行为潜变量空间，通过潜变量插值与条件生成实现灵活控制；商业价值体现在大幅降低路测成本、加速安全验证；产品创新则是将仿真代理从纯数据驱动升级为可交互、可调试的测试工具。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Behavior Latents",
+    "Controllable Simulation",
+    "Autonomous System Validation"
+  ],
+  "entities": [
+    "Neura"
+  ],
+  "patterns": [
+    "Simulation-as-a-Service",
+    "Agent Steering Control"
+  ]
+}
