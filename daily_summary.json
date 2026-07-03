@@ -2,40 +2,99 @@
   "daily_summary": {
     "date": "2026-07-04",
     "headline": "今日 AI 情报 · 2026-07-04",
-    "overview": "谷歌关闭Gemini Code Assist，AI代码助手市场进入洗牌期",
+    "overview": "AI从云中心化向本地自主化与控制权转移，催生新商业模式与治理范式",
     "narratives": [
       {
-        "title": "AI代码助手市场加速洗牌",
-        "body": "谷歌宣布关闭Gemini Code Assist，标志AI代码助手领域从早期混战进入淘汰整合阶段。头部玩家（如GitHub Copilot）已建立稳固优势，二线工具若缺乏差异化或生态支撑将难以为继。产品经理应关注竞争中幸存者的核心竞争力——深度IDE集成、企业级安全和定制化能力。后续可能有更多厂商收缩或重组产品线。",
-        "type": "maturation",
-        "pillar_key": "ecosystem"
+        "title": "去中心化与本地化：AI控制权从云端向用户侧转移",
+        "body": "今日多条情报指向AI从纯云端服务向本地运行、用户可控的方向演进。本地部署指南、保护本地AI权利的文章、浏览器作为代理平台的转变，以及工具生态中谷歌关闭代码助手，共同表明集中式API模式正受到隐私、成本和自主权需求的挑战。产品经理需关注混合架构设计，平衡云本地能力，并抓住边缘智能与用户数据主权带来的新机会。",
+        "type": "paradigm_shift",
+        "pillar_key": "patterns"
+      },
+      {
+        "title": "AI使用方式的创新与治理：从简单调用转向深度集成与规则协商",
+        "body": "多个情报展示了AI使用方式的创造性探索：代码转图像降本、课堂契约共建规则、LLM编码实验等。这标志着AI从‘工具’变为‘协作伙伴’，需要产品内置可配置的权限、场景感知规则和用户协商机制。同时，学术演讲中因使用ChatGPT被禁止的争议，凸显了公平性和包容性设计的重要性。",
+        "type": "validation",
+        "pillar_key": "capabilities"
       }
     ],
     "insights": [
       {
-        "pillar": "🔧 工具生态",
-        "pillar_key": "ecosystem",
-        "narrative_title": "AI代码助手市场加速洗牌",
-        "insight": "AI代码助手市场加速洗牌。该方向的具体信号：谷歌宣布将于7月17日关闭Gemini Code Assist，其作为面向开发者的AI代码辅助工具退出市场，反映出AI代码助手领域竞争格局已趋于固化，缺乏独特生态优势的产品将被淘汰。",
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "去中心化与本地化：AI控制权从云端向用户侧转移",
+        "insight": "去中心化与本地化：AI控制权从云端向用户侧转移。该方向的具体信号：本地AI运行指南强调隐私与离线能力，保护本地AI权利一文呼吁用户自主权，浏览器战事转向AI代理平台，以及谷歌关闭Gemini Code Assist反映生态重组。PM应设计本地优先的混合方案，利用边缘设备推理实现低延迟、高合规，同时提供云端协同作为弹性扩展。",
         "evidence": [
           {
             "id": "gemini-code-assist-will-be-shut-down-on-july-17",
-            "title": "谷歌宣布7月17日关闭Gemini Code Assist",
-            "score": 0.0
+            "title": "Gemini Code Assist shut down signals ecosystem recalibration",
+            "score": 0.34
+          }
+        ]
+      },
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI使用方式的创新与治理：从简单调用转向深度集成与规则协商",
+        "insight": "AI使用方式的创新与治理：从简单调用转向深度集成与规则协商。该方向的具体信号：Fable通过代码转图像降本60%，教师与学生制定课堂合约管理AI使用，社区探索LLM编码的新范式（对话式调试、多步骤重构），以及学术演讲中因使用ChatGPT引发公平性争议。PM需在产品中内置灵活的角色权限、上下文感知规则和用户自定义策略，支持协作式治理，避免‘一刀切’限制。",
+        "evidence": [
+          {
+            "id": "i-wasnt-allowed-prompting-chatgpt-during-my-chalk-talk-this-is-discrimination-20",
+            "title": "ChatGPT use banned in academic talk sparks fairness debate",
+            "score": 0.49
           }
         ]
       }
     ],
-    "stats": "技术能力: 0 | 产品模式: 0 | 工具生态: 1 | 商业趋势: 0",
-    "total_items": 1,
-    "high_value_count": 1,
+    "stats": "技术能力: 6 | 产品模式: 2 | 工具生态: 2 | 商业趋势: 0",
+    "total_items": 11,
+    "high_value_count": 11,
     "all_today_ids": [
+      {
+        "id": "jamesobs-guide-to-running-sota-llms-locally",
+        "label": "Jamesob's guide to running SOTA LLMs locally"
+      },
+      {
+        "id": "60-fable-cost-cut-by-converting-code-to-images-and-having-the-model-ocr-it",
+        "label": "60% Fable cost cut by converting code to images and having the model OCR it"
+      },
+      {
+        "id": "protect-your-right-to-run-local-ai",
+        "label": "Protect your right to run local AI"
+      },
+      {
+        "id": "instead-of-banning-ai-i-made-a-classroom-contract-with-my-students",
+        "label": "Instead of banning AI, I made a classroom contract with my students"
+      },
+      {
+        "id": "ask-hn-is-anyone-experimenting-with-different-ways-of-using-llms-for-coding",
+        "label": "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?"
+      },
+      {
+        "id": "i-wasnt-allowed-prompting-chatgpt-during-my-chalk-talk-this-is-discrimination-20",
+        "label": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination"
+      },
+      {
+        "id": "the-browser-wars-aren8217t-about-search-anymore-here-are-the-best-alternatives-t",
+        "label": "The browser wars aren&#8217;t about search anymore — here are the best alternati"
+      },
+      {
+        "id": "the-only-ai-glossary-you8217ll-need-this-year",
+        "label": "The only AI glossary you&#8217;ll need this year"
+      },
+      {
+        "id": "espionage-against-the-european-parliament",
+        "label": "Espionage Against the European Parliament"
+      },
+      {
+        "id": "my-dad-helped-build-north-americas-oat-supply-chain-can-it-be-remade",
+        "label": "My dad helped build North America's oat supply chain: Can it be remade?"
+      },
       {
         "id": "gemini-code-assist-will-be-shut-down-on-july-17",
         "label": "Gemini Code Assist will be shut down on July 17"
       }
     ],
     "date_bj": "2026-07-04 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-07-04 00:01:46"
+    "generated_at_bj": "2026-07-04 06:01:21"
   }
 }

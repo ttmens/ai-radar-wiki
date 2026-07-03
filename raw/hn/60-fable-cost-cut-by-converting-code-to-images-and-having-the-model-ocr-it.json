@@ -1,0 +1,24 @@
+{
+  "title": "60% Fable cost cut by converting code to images and having the model OCR it",
+  "score": 189,
+  "comments": 72,
+  "url": "https://github.com/teamchong/pxpipe",
+  "hn_url": "https://news.ycombinator.com/item?id=48776464",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该技术通过将代码转换为图像，再利用多模态模型的OCR能力进行识别和处理，成功将Fable项目的成本降低60%。这种创新方法利用了视觉模型在处理图像时的定价优势或效率差异，绕过了传统代码解析的高昂费用。对AI产品经理而言，这提示了一种低成本使用AI的路径：通过模态转换（代码→图像）来利用更便宜的服务或不同模型的定价策略，从而实现显著的降本增效。核心在于非传统输入形式的灵活运用，可启发类似场景如文档、表格等。",
+  "pm_relevance": 9,
+  "concepts": [
+    "成本优化",
+    "多模态模型",
+    "OCR-based代码理解"
+  ],
+  "entities": [
+    "Fable"
+  ],
+  "patterns": [
+    "Cost-Reduction Pattern",
+    "Multi-Modal AI Pattern"
+  ]
+}

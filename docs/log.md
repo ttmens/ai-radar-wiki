@@ -2415,3 +2415,15 @@
 
 ## [2026-07-04 00:01] sync v3 | 1 new | pillars: {'capabilities': 1}
 - create: gemini-code-assist-will-be-shut-down-on-july-17.md
+
+## [2026-07-04 06:01] sync v3 | 10 new | pillars: {'capabilities': 10}
+- create: espionage-against-the-european-parliament.md
+- create: jamesobs-guide-to-running-sota-llms-locally.md
+- create: 60-fable-cost-cut-by-converting-code-to-images-and-having-the-model-ocr-it.md
+- create: my-dad-helped-build-north-americas-oat-supply-chain-can-it-be-remade.md
+- create: ask-hn-is-anyone-experimenting-with-different-ways-of-using-llms-for-coding.md
+- create: i-wasnt-allowed-prompting-chatgpt-during-my-chalk-talk-this-is-discrimination-20.md
+- create: instead-of-banning-ai-i-made-a-classroom-contract-with-my-students.md
+- create: protect-your-right-to-run-local-ai.md
+- create: the-only-ai-glossary-you8217ll-need-this-year.md
+- create: the-browser-wars-aren8217t-about-search-anymore-here-are-the-best-alternatives-t.md

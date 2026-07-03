@@ -1,0 +1,25 @@
+---
+title: I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination 
+created: 2026-07-04
+updated: 2026-07-04
+type: entity
+pillar: capabilities
+pm_score: 0.495
+tags: ["discussion", "hacker-news", "capabilities"]
+sources: ["raw/hn/i-wasnt-allowed-prompting-chatgpt-during-my-chalk-talk-this-is-discrimination-20.json"]
+---
+
+# I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)
+
+## 中文摘要
+该HN帖子讨论2025年一次学术演讲中，主讲人因使用ChatGPT而被禁止提问，作者将此视为歧视行为。面向AI产品经理，要点在于技术能力受限下的用户公平性问题——产品需权衡AI助手的使用权限与场景规则，避免因使用习惯、身份或平台偏好造成歧视。商业价值体现在包容性设计可扩大用户群，产品创新点在于需设计更灵活的角色权限与上下文感知的触发规则，防止“一刀切”式限制影响创造力。同时，该事件反映了AI工具在专业场景中的合规性与伦理冲突。
+
+## PM 关注指标
+- 🔥 HN Score: 119
+- 💬 Comments: 68
+- 🎯 PM Score: 0.495
+- 🏷️ Pillar: capabilities
+
+## 链接
+- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48777728
+- 🔗 原文: https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type
