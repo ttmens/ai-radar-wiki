@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>性能测试</title>
+    <script src="./assets/vis-network.min.js"></script>
+</head>
+<body>
+    <h1>vis-network 性能测试</h1>
+    <div id="log"></div>
+    <div id="mynetwork" style="width: 800px; height: 600px; border: 1px solid #ccc;"></div>
+    
+    <script>
+        function log(msg) {
+            document.getElementById('log').innerHTML += msg + '<br>';
+            console.log(msg);
+        }
+        
+        async function test() {
+            const start = performance.now();
+            
+            // 1. 加载 graph.json
+            log('1. 开始加载 graph.json...');
+            const t1 = performance.now();
+            const resp = await fetch('./graph.json');
+            const fullData = await resp.json();
+            const t2 = performance.now();
+            log(`   ✓ 下载+解析: ${(t2-t1).toFixed(0)}ms (${(resp.headers.get('content-length')/1024).toFixed(0)}KB)`);
+            
+            // 2. 过滤数据（模拟 Explorer 的精简逻辑）
+            log('2. 过滤数据...');
+            const RENDER_FIELDS = ['id', 'label', 'pillar', 'pm_score', 'type', 'source_type', 'node_count', 'related_nodes'];
+            const filteredNodes = fullData.nodes.filter(n => (n.pm_score || 0) >= 0.3);
+            const filteredIds = new Set(filteredNodes.map(n => n.id));
+            
+            const slimNodes = filteredNodes.map(n => {
+                const slim = {};
+                RENDER_FIELDS.forEach(k => { if (k in n) slim[k] = n[k]; });
+                return slim;
+            });
+            
+            const slimEdges = fullData.edges.filter(e => {
+                if (e.type === 'KEYWORD') return false;
+                const src = e.source || e.from;
+                const tgt = e.target || e.to;
+                return filteredIds.has(src) && filteredIds.has(tgt);
+            });
+            
+            const t3 = performance.now();
+            log(`   ✓ 过滤: ${(t3-t2).toFixed(0)}ms (${slimNodes.length} 节点, ${slimEdges.length} 边)`);
+            
+            // 3. 创建 vis-network DataSet
+            log('3. 创建 DataSet...');
+            const nodes = new vis.DataSet(slimNodes.map(n => ({
+                id: n.id,
+                label: n.label.length > 20 ? n.label.slice(0, 20) + '...' : n.label,
+                color: n.pillar === 'capabilities' ? '#58a6ff' : n.pillar === 'patterns' ? '#3fb950' : n.pillar === 'ecosystem' ? '#a371f7' : '#f0883e',
+                size: Math.max(10, Math.min(28, (n.pm_score || 0.1) * 30 + 10))
+            })));
+            
+            const edges = new vis.DataSet(slimEdges.map(e => ({
+                from: e.source || e.from,
+                to: e.target || e.to
+            })));
+            
+            const t4 = performance.now();
+            log(`   ✓ DataSet: ${(t4-t3).toFixed(0)}ms`);
+            
+            // 4. 初始化 vis-network
+            log('4. 初始化 vis-network...');
+            const container = document.getElementById('mynetwork');
+            const network = new vis.Network(container, { nodes, edges }, {
+                physics: {
+                    barnesHut: { gravitationalConstant: -3000, springLength: 150, springConstant: 0.04 },
+                    stabilization: { iterations: 100, updateInterval: 20 }
+                },
+                interaction: { hover: false, dragView: true, zoomView: true }
+            });
+            
+            const t5 = performance.now();
+            log(`   ✓ Network 创建: ${(t5-t4).toFixed(0)}ms`);
+            
+            // 5. 等待稳定化完成
+            log('5. 等待物理引擎稳定化...');
+            network.once('stabilizationIterationsDone', function() {
+                const t6 = performance.now();
+                log(`   ✓ 稳定化完成: ${(t6-t5).toFixed(0)}ms`);
+                log(`<br><b>总时间: ${(t6-start).toFixed(0)}ms</b>`);
+                log(`<br>瓶颈分析:`);
+                log(`  - 下载+解析: ${(t2-t1).toFixed(0)}ms (${((t2-t1)/(t6-start)*100).toFixed(0)}%)`);
+                log(`  - 过滤: ${(t3-t2).toFixed(0)}ms (${((t3-t2)/(t6-start)*100).toFixed(0)}%)`);
+                log(`  - DataSet: ${(t4-t3).toFixed(0)}ms (${((t4-t3)/(t6-start)*100).toFixed(0)}%)`);
+                log(`  - Network 创建: ${(t5-t4).toFixed(0)}ms (${((t5-t4)/(t6-start)*100).toFixed(0)}%)`);
+                log(`  - 稳定化: ${(t6-t5).toFixed(0)}ms (${((t6-t5)/(t6-start)*100).toFixed(0)}%)`);
+            });
+        }
+        
+        test();
+    </script>
+</body>
+</html>
