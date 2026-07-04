@@ -2441,3 +2441,9 @@
 - create: agentic-coding-notes-from-galapagos-island.md
 - create: dispersion-loss-counteracts-embedding-condensation-in-small-language-models.md
 - create: show-hn-classify-mechanical-faults-using-contrastive-language-audio-pretraining.md
+
+## [2026-07-05 00:01] sync v3 | 4 new | pillars: {'capabilities': 3, 'ecosystem': 1}
+- create: postgres-data-stored-in-parquet-on-s3-ltap-architecture-explained.md
+- create: the-vespa-at-80-why-the-italian-scooter-remains-the-coolest-thing-on-2-wheels.md
+- create: 2026-unslop-ai-written-fiction-contest-results.md
+- create: what-is-mistral-ai-everything-to-know-about-the-openai-competitor.md

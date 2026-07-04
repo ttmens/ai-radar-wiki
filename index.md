@@ -1,12 +1,13 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-04 | Total pages: 2201
+> Last updated: 2026-07-05 | Total pages: 2205
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
 - [[1-bit-bonsai-image-4b-image-generation-for-local-devices.md]] 1-Bit Bonsai Image 4B Image Generation for Local Devices `pillar:capabilities` `score:0.365`
 - [[14-faster-embeddings-how-we-rebuilt-the-onnx-path-in-manticore.md]] 14× faster embeddings: how we rebuilt the ONNX path in Manticore `pillar:capabilities` `score:0.365`
 - [[1940-air-terminal-museum-begins-liquidation.md]] 1940 Air Terminal Museum Begins Liquidation `pillar:capabilities` `score:0.135`
+- [[2026-unslop-ai-written-fiction-contest-results.md]] 2026 Unslop AI-Written Fiction Contest Results `pillar:capabilities` `score:0.415`
 - [[2noisechattts.md]] 2noise/ChatTTS `pillar:capabilities` `score:0.58`
 - [[32gb-of-ddr5-now-costs-375-ai-shortage-continues-to-squeeze-pc-building.md]] 32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building `pillar:capabilities` `score:0.515`
 - [[3d-printed-book-turns-its-own-g-code-into-raised-lettering.md]] 3D-printed book turns its own G-code into raised lettering `pillar:capabilities` `score:0.395`
@@ -464,6 +465,7 @@
 - [[political-bias-in-ai-where-the-ai-models-stand.md]] Political bias in AI: Where the AI models stand `pillar:capabilities` `score:0.465`
 - [[pool8217s-new-app-turns-your-screenshots-into-something-useful.md]] Pool&#8217;s new app turns your screenshots into something useful `pillar:capabilities` `score:0.445`
 - [[populora-co-evolving-llm-populations-for-reasoning-self-play.md]] PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play `pillar:capabilities` `score:0.33`
+- [[postgres-data-stored-in-parquet-on-s3-ltap-architecture-explained.md]] Postgres data stored in Parquet on S3: LTAP architecture explained `pillar:capabilities` `score:0.305`
 - [[postgresbench-a-reproducible-benchmark-for-postgres-services.md]] PostgresBench: A Reproducible Benchmark for Postgres Services `pillar:capabilities` `score:0.26`
 - [[pr-spam-today-looks-like-email-spam-in-the-early-2000s.md]] PR spam today looks like email spam in the early 2000s `pillar:capabilities` `score:0.495`
 - [[pramaana-labs-raises-27m-seed-round-from-khosla-ventures-to-bring-formal-verific.md]] Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verifi `pillar:capabilities` `score:0.48`
@@ -1791,6 +1793,7 @@
 - [[vercelai.md]] vercel/ai `pillar:ecosystem` `score:0.405`
 - [[victory-tennessee-man-jailed-37-days-for-trump-meme-wins-835000-settlement.md]] Victory: Tennessee man jailed 37 days for Trump meme wins $835,000 settlement `pillar:ecosystem` `score:0.32`
 - [[we-stopped-ai-bot-spam-in-our-github-repo-using-gits-author-flag.md]] We stopped AI bot spam in our GitHub repo using Git's –author flag `pillar:ecosystem` `score:0.345`
+- [[what-is-mistral-ai-everything-to-know-about-the-openai-competitor.md]] What is Mistral AI? Everything to know about the OpenAI competitor `pillar:ecosystem` `score:0.48`
 - [[when-the-trump-administration-cracks-down-on-anthropic-who-benefits.md]] When the Trump administration cracks down on Anthropic, who benefits? `pillar:ecosystem` `score:0.445`
 - [[why-eval-startups-fail-2025.md]] Why eval startups fail (2025) `pillar:ecosystem` `score:0.445`
 - [[why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-th.md]] Why everyone from OpenAI to SpaceX is building their own chips (and turning up t `pillar:ecosystem` `score:0.515`
@@ -2121,6 +2124,7 @@
 - [[the-trump-administration-might-take-an-equity-stake-in-openai.md]] The Trump administration might take an equity stake in OpenAI `pillar:business` `score:0.445`
 - [[the-us-banned-anthropic8217s-fable-5-release-but-the-numbers-don8217t-seem-to-ca.md]] The US banned Anthropic&#8217;s Fable 5 release, but the numbers don&#8217;t see `pillar:business` `score:0.48`
 - [[the-us-is-winning-the-ai-race-where-it-matters-mos.md]] The US is winning the AI race where it matters most: commercialization `pillar:business` `score:0.405`
+- [[the-vespa-at-80-why-the-italian-scooter-remains-the-coolest-thing-on-2-wheels.md]] The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels `pillar:business` `score:0.27`
 - [[there-aren8217t-enough-rockets-for-space-data-c.md]] There aren&#8217;t enough rockets for space data centers. Cowboy Space raised $2 `pillar:business` `score:0.305`
 - [[thinking-machines-wants-to-build-an-ai-that-actual.md]] Thinking Machines wants to build an AI that actually listens while it talks `pillar:business` `score:0.305`
 - [[three-ways-to-get-paid-2018.md]] Three Ways to Get Paid (2018) `pillar:business` `score:0.515`
