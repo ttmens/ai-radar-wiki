@@ -1,7 +1,7 @@
 {
   "date": "2026-07-04",
-  "generated_at": "2026-07-04T06:01:37.235886+08:00",
-  "item_count": 11,
+  "generated_at": "2026-07-04T12:01:23.042760+08:00",
+  "item_count": 14,
   "items": [
     {
       "id": "jamesobs-guide-to-running-sota-llms-locally",
@@ -103,6 +103,28 @@
       "date": "2026-07-04"
     },
     {
+      "id": "kagi-changelog-july-2-heads-tails-and-an-ai-toggle",
+      "label": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+      "summary": "Kagi 在 7 月更新中引入了一个 AI 切换开关（AI toggle），允许用户按需开启或关闭 AI 驱动的搜索功能。同时更新了“heads”和“tails”两种搜索结果展示模式，可能对应不同信息密度或视角（如摘要与详细答案）。这一设计兼顾了隐私需求与 AI 能力，用户可自主选择是否依赖大模型生成内容，避免过度 AI 化。对产品经理的启示：在搜索场景中提供灵活的控制开关，既能提升用户信任，又能差异化体验，尤其适合注重隐私或希望减少 AI 幻觉干扰的用户群。该功能还暗示了搜索结果的模块化展示创新。",
+      "pm_score": 0.38,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48779352",
+      "date": "2026-07-04"
+    },
+    {
+      "id": "new-serious-vulnerabilities-spiked-around-release-of-claude-mythos-preview",
+      "label": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+      "summary": "Claude Mythos Preview 版本发布时出现严重安全漏洞激增，表明该模型在能力提升的同时可能引入了新的攻击面。对于AI产品经理而言，这提示需在预览版发布前加强安全审计与红队测试，平衡创新速度与风险管控。漏洞类型或涉及提示注入、数据泄露等常见LLM安全问题，直接影响用户信任与企业合规。建议在迭代路线图中嵌入持续安全评估机制。",
+      "pm_score": 0.38,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48780056",
+      "date": "2026-07-04"
+    },
+    {
       "id": "my-dad-helped-build-north-americas-oat-supply-chain-can-it-be-remade",
       "label": "My dad helped build North America's oat supply chain: Can it be remade?",
       "summary": "本文探讨北美燕麦供应链的历史与现状，并分析AI与数字化技术能否重塑这一传统体系。技术要点包括利用机器学习进行需求预测、优化物流路径、自动化生产流程；商业价值在于提升效率、降低成本、增强供应链韧性；产品创新方向涉及数字孪生模拟、智能库存管理等。对于AI产品经理，关注点在于如何将AI能力嵌入传统行业的供应链决策中，实现可落地的价值。",
@@ -123,10 +145,21 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48774429",
       "date": "2026-07-04"
+    },
+    {
+      "id": "the-circuit-that-lets-your-brain-think-and-see",
+      "label": "The circuit that lets your brain think and see",
+      "summary": "本文介绍了一种新型神经形态电路，能够模拟大脑的思维和视觉功能，可能实现脑机接口的突破。该技术通过模拟神经元连接，提高计算效率，降低功耗，有望应用于人机交互、医疗康复和增强智能。对AI产品经理而言，这代表了从传统AI向类脑计算的演进，可能催生新的交互模式和产品形态，如实时脑信号解码、视觉假体等，具有重要的商业潜力和技术前瞻性。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48780996",
+      "date": "2026-07-04"
     }
   ],
   "graph_totals": {
-    "real_nodes": 2822,
-    "edges": 3114
+    "real_nodes": 2852,
+    "edges": 3144
   }
 }

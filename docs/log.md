@@ -2427,3 +2427,11 @@
 - create: protect-your-right-to-run-local-ai.md
 - create: the-only-ai-glossary-you8217ll-need-this-year.md
 - create: the-browser-wars-aren8217t-about-search-anymore-here-are-the-best-alternatives-t.md
+
+## [2026-07-04 12:01] sync v3 | 6 new | pillars: {'capabilities': 6}
+- create: msi-center-how-to-gain-system-privileges-in-seconds.md
+- create: the-circuit-that-lets-your-brain-think-and-see.md
+- create: soatoks-informal-guide-to-threat-models.md
+- create: new-serious-vulnerabilities-spiked-around-release-of-claude-mythos-preview.md
+- create: kagi-changelog-july-2-heads-tails-and-an-ai-toggle.md
+- create: show-hn-om-core-multidimensional-models-without-spreadsheet-cell-formulas.md

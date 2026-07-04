@@ -1,0 +1,22 @@
+{
+  "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+  "score": 40,
+  "comments": 9,
+  "url": "https://mrbruh.com/msicenter/",
+  "hn_url": "https://news.ycombinator.com/item?id=48781688",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该内容披露了MSI Center软件中存在的安全漏洞，允许攻击者在数秒内获取SYSTEM级别系统权限。对于AI产品经理而言，这凸显了AI代理或本地工具在权限管理方面的风险——若AI助手或自动化工具依赖此类系统软件，可能被利用进行权限提升，导致数据泄露或系统被控制。技术要点在于漏洞利用的快速性与简洁性；商业价值在于提醒产品需加强安全审计与最小权限原则；产品创新可考虑引入动态权限隔离机制。",
+  "pm_relevance": 7,
+  "concepts": [
+    "权限提升",
+    "系统安全漏洞"
+  ],
+  "entities": [
+    "MSI"
+  ],
+  "patterns": [
+    "权限管理风险"
+  ]
+}

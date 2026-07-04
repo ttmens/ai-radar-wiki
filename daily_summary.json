@@ -2,52 +2,81 @@
   "daily_summary": {
     "date": "2026-07-04",
     "headline": "今日 AI 情报 · 2026-07-04",
-    "overview": "AI从云中心化向本地自主化与控制权转移，催生新商业模式与治理范式",
+    "overview": "AI从云端依赖转向本地自主与用户控制，安全治理需求激增催生新范式",
     "narratives": [
       {
-        "title": "去中心化与本地化：AI控制权从云端向用户侧转移",
-        "body": "今日多条情报指向AI从纯云端服务向本地运行、用户可控的方向演进。本地部署指南、保护本地AI权利的文章、浏览器作为代理平台的转变，以及工具生态中谷歌关闭代码助手，共同表明集中式API模式正受到隐私、成本和自主权需求的挑战。产品经理需关注混合架构设计，平衡云本地能力，并抓住边缘智能与用户数据主权带来的新机会。",
+        "title": "本地AI与用户自主控制浪潮",
+        "body": "多方信号表明，AI正从集中式云服务向本地化、用户可控方向迁移。从运行SOTA模型本地化指南到浏览器嵌入AI Agent，再到教育场景的协作式合约与可控开关，用户对数据主权、隐私和自主权的诉求正在重塑产品设计逻辑。PM需关注混合架构与用户可配置的能力边界。",
         "type": "paradigm_shift",
         "pillar_key": "patterns"
       },
       {
-        "title": "AI使用方式的创新与治理：从简单调用转向深度集成与规则协商",
-        "body": "多个情报展示了AI使用方式的创造性探索：代码转图像降本、课堂契约共建规则、LLM编码实验等。这标志着AI从‘工具’变为‘协作伙伴’，需要产品内置可配置的权限、场景感知规则和用户协商机制。同时，学术演讲中因使用ChatGPT被禁止的争议，凸显了公平性和包容性设计的重要性。",
-        "type": "validation",
+        "title": "AI安全威胁与治理新需求",
+        "body": "模型发布伴随漏洞激增、系统提权漏洞频发、国家安全场景的间谍风险，表明AI安全已从锦上添花变为关键瓶颈。威胁模型指南和漏洞披露表明行业开始系统性回应，但产品侧仍需将安全左移、最小权限原则嵌入开发全流程。",
+        "type": "bottleneck",
         "pillar_key": "capabilities"
+      },
+      {
+        "title": "AI工具生态竞争与重构",
+        "body": "Gemini Code Assist关停、浏览器战争从搜索转向AI平台、以及新型多维建模工具的出现，显示AI工具生态正经历洗牌。传统巨头调整线路，新兴玩家通过垂直定制和隐私差异化争夺开发者与用户。PM应关注生态变迁中的迁移成本和绑定风险。",
+        "type": "maturation",
+        "pillar_key": "ecosystem"
       }
     ],
     "insights": [
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "去中心化与本地化：AI控制权从云端向用户侧转移",
-        "insight": "去中心化与本地化：AI控制权从云端向用户侧转移。该方向的具体信号：本地AI运行指南强调隐私与离线能力，保护本地AI权利一文呼吁用户自主权，浏览器战事转向AI代理平台，以及谷歌关闭Gemini Code Assist反映生态重组。PM应设计本地优先的混合方案，利用边缘设备推理实现低延迟、高合规，同时提供云端协同作为弹性扩展。",
+        "narrative_title": "本地AI与用户自主控制浪潮",
+        "insight": "本地AI与用户自主控制浪潮。该方向的具体信号：多篇情报共同指向用户对AI控制权的强烈需求——从运行本地LLM指南（保护隐私与离线能力）、到浏览器内置AI切换开关（Kagi）、再到教育场景的协作合约（非禁止），均要求产品设计从“全知全能”转向“可协商可控”。PM需在架构上支持本地+云端混合模式，并提供细粒度权限与规则自定义能力。",
         "evidence": [
           {
-            "id": "gemini-code-assist-will-be-shut-down-on-july-17",
-            "title": "Gemini Code Assist shut down signals ecosystem recalibration",
-            "score": 0.34
+            "id": "kagi-changelog-july-2-heads-tails-and-an-ai-toggle",
+            "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+            "score": 0.38
           }
         ]
       },
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "narrative_title": "AI使用方式的创新与治理：从简单调用转向深度集成与规则协商",
-        "insight": "AI使用方式的创新与治理：从简单调用转向深度集成与规则协商。该方向的具体信号：Fable通过代码转图像降本60%，教师与学生制定课堂合约管理AI使用，社区探索LLM编码的新范式（对话式调试、多步骤重构），以及学术演讲中因使用ChatGPT引发公平性争议。PM需在产品中内置灵活的角色权限、上下文感知规则和用户自定义策略，支持协作式治理，避免‘一刀切’限制。",
+        "narrative_title": "AI安全威胁与治理新需求",
+        "insight": "AI安全威胁与治理新需求。该方向的具体信号：Claude Mythos预览版漏洞激增、MSI Center提权漏洞、欧洲议会间谍事件及威胁模型指南，共同揭示AI能力快速迭代时攻击面同步扩大。提示注入、权限提升等传统安全问题在AI代理场景下可能放大。PM必须将安全评估纳入发布流程，并采用动态权限隔离与持续监控。",
         "evidence": [
           {
-            "id": "i-wasnt-allowed-prompting-chatgpt-during-my-chalk-talk-this-is-discrimination-20",
-            "title": "ChatGPT use banned in academic talk sparks fairness debate",
-            "score": 0.49
+            "id": "new-serious-vulnerabilities-spiked-around-release-of-claude-mythos-preview",
+            "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+            "score": 0.38
+          },
+          {
+            "id": "msi-center-how-to-gain-system-privileges-in-seconds",
+            "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+            "score": 0.29
+          }
+        ]
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "AI工具生态竞争与重构",
+        "insight": "AI工具生态竞争与重构。该方向的具体信号：谷歌关闭Gemini Code Assist暗示内部资源重组，浏览器市场从搜索入口转向AI Agent平台（Brave/Arc等），以及OM Core等新型工具简化数据分析，表明传统工具边界被打破，新玩家通过差异化功能（隐私、垂直集成、低代码）争夺开发者与用户。PM应警惕平台绑定风险，并评估迁移成本。",
+        "evidence": [
+          {
+            "id": "gemini-code-assist-will-be-shut-down-on-july-17",
+            "title": "Gemini Code Assist will be shut down on July 17",
+            "score": 0.34
+          },
+          {
+            "id": "show-hn-om-core-multidimensional-models-without-spreadsheet-cell-formulas",
+            "title": "Show HN: OM Core – multidimensional models without spreadsheet cell formulas",
+            "score": 0.26
           }
         ]
       }
     ],
-    "stats": "技术能力: 6 | 产品模式: 2 | 工具生态: 2 | 商业趋势: 0",
-    "total_items": 11,
-    "high_value_count": 11,
+    "stats": "技术能力: 12 | 产品模式: 2 | 工具生态: 3 | 商业趋势: 0",
+    "total_items": 17,
+    "high_value_count": 14,
     "all_today_ids": [
       {
         "id": "jamesobs-guide-to-running-sota-llms-locally",
@@ -86,15 +115,39 @@
         "label": "Espionage Against the European Parliament"
       },
       {
+        "id": "kagi-changelog-july-2-heads-tails-and-an-ai-toggle",
+        "label": "Kagi Changelog (July 2): Heads, tails, and an AI toggle"
+      },
+      {
+        "id": "new-serious-vulnerabilities-spiked-around-release-of-claude-mythos-preview",
+        "label": "New serious vulnerabilities spiked around release of Claude Mythos Preview"
+      },
+      {
         "id": "my-dad-helped-build-north-americas-oat-supply-chain-can-it-be-remade",
         "label": "My dad helped build North America's oat supply chain: Can it be remade?"
       },
       {
         "id": "gemini-code-assist-will-be-shut-down-on-july-17",
         "label": "Gemini Code Assist will be shut down on July 17"
+      },
+      {
+        "id": "the-circuit-that-lets-your-brain-think-and-see",
+        "label": "The circuit that lets your brain think and see"
+      },
+      {
+        "id": "soatoks-informal-guide-to-threat-models",
+        "label": "Soatok's Informal Guide to Threat Models"
+      },
+      {
+        "id": "msi-center-how-to-gain-system-privileges-in-seconds",
+        "label": "MSI Center – How to gain SYSTEM privileges in seconds"
+      },
+      {
+        "id": "show-hn-om-core-multidimensional-models-without-spreadsheet-cell-formulas",
+        "label": "Show HN: OM Core – multidimensional models without spreadsheet cell formulas"
       }
     ],
     "date_bj": "2026-07-04 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-07-04 06:01:21"
+    "generated_at_bj": "2026-07-04 12:00:47"
   }
 }
