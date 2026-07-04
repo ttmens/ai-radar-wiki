@@ -1,0 +1,25 @@
+---
+title: The bottleneck might be the air in the room
+created: 2026-07-04
+updated: 2026-07-04
+type: entity
+pillar: capabilities
+pm_score: 0.565
+tags: ["discussion", "hacker-news", "capabilities"]
+sources: ["raw/hn/the-bottleneck-might-be-the-air-in-the-room.json"]
+---
+
+# The bottleneck might be the air in the room
+
+## 中文摘要
+这篇文章指出，在AI模型推理和训练过程中，除了算力和显存，物理散热（空气流动）可能成为被忽略的关键瓶颈。随着芯片功耗密度上升，传统风冷难以满足大规模集群的散热需求，从而限制芯片实际性能发挥，增加运营成本并影响模型部署效率。对于产品经理而言，这意味着在规划AI服务时需提前评估基础设施的散热能力，尤其是在边缘设备或高密度服务器场景下，热管理直接关系到系统的稳定性、延迟和总体拥有成本。
+
+## PM 关注指标
+- 🔥 HN Score: 226
+- 💬 Comments: 135
+- 🎯 PM Score: 0.565
+- 🏷️ Pillar: capabilities
+
+## 链接
+- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48783117
+- 🔗 原文: https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/

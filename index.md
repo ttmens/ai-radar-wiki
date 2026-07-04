@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-04 | Total pages: 2197
+> Last updated: 2026-07-04 | Total pages: 2201
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -191,6 +191,7 @@
 - [[digg-tries-again-this-time-as-an-ai-news-aggregat.md]] Digg tries again, this time as an AI news aggregator `pillar:capabilities` `score:0.305`
 - [[digital-printing-of-arabic-explaining-the-problem.md]] Digital Printing of Arabic: explaining the problem `pillar:capabilities` `score:0.33`
 - [[digital-sovereignty-becomes-an-imperative-as-the-us-reads-dutch-emails.md]] Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails `pillar:capabilities` `score:0.55`
+- [[dispersion-loss-counteracts-embedding-condensation-in-small-language-models.md]] Dispersion loss counteracts embedding condensation in small language models `pillar:capabilities` `score:0.295`
 - [[diy-bipedal-robot-used-pneumatic-air-muscles-instead-of-motors.md]] DIY Bipedal Robot Used Pneumatic "Air-Muscles" Instead of Motors `pillar:capabilities` `score:0.275`
 - [[do-transformers-need-three-projections-systematic-study-of-qkv-variants.md]] Do transformers need three projections? Systematic study of QKV variants `pillar:capabilities` `score:0.445`
 - [[docling-projectdocling.md]] docling-project/docling `pillar:capabilities` `score:0.615`
@@ -525,6 +526,7 @@
 - [[show-hn-brain-frog-can-you-be-random-enough-for-11-lines-of-javascript.md]] Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript? `pillar:capabilities` `score:0.345`
 - [[show-hn-brightdeck-an-ooxml-compatible-ai-presentation-maker.md]] Show HN: Brightdeck – an OOXML-compatible AI presentation maker `pillar:capabilities` `score:0.33`
 - [[show-hn-can-europe-train-a-frontier-ai-model-on-the-compute-it-owns.md]] Show HN: Can Europe train a frontier AI model on the compute it owns? `pillar:capabilities` `score:0.38`
+- [[show-hn-classify-mechanical-faults-using-contrastive-language-audio-pretraining.md]] Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining `pillar:capabilities` `score:0.295`
 - [[show-hn-claude-code-for-visual-studio-native-diff-with-acceptreject.md]] Show HN: Claude Code for Visual Studio (native diff with accept/reject) `pillar:capabilities` `score:0.33`
 - [[show-hn-claudoro-pomodoro-timer-embedded-in-the-claude-code-statusline.md]] Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline `pillar:capabilities` `score:0.295`
 - [[show-hn-cli-tool-for-detecting-non-exact-code-duplication-with-embedding-models.md]] Show HN: CLI tool for detecting non-exact code duplication with embedding models `pillar:capabilities` `score:0.33`
@@ -628,6 +630,7 @@
 - [[the-art-of-hackingh4cker.md]] The-Art-of-Hacking/h4cker `pillar:capabilities` `score:0.58`
 - [[the-back-cover-of-c-the-language-raises-questions-not-answered-by-front-cover.md]] The back cover of C++: The Language raises questions not answered by front cover `pillar:capabilities` `score:0.185`
 - [[the-best-response-to-ai-slop-and-online-noise-is-from-robin-williams.md]] The best response to AI slop and online noise is from Robin Williams `pillar:capabilities` `score:0.565`
+- [[the-bottleneck-might-be-the-air-in-the-room.md]] The bottleneck might be the air in the room `pillar:capabilities` `score:0.565`
 - [[the-circuit-that-lets-your-brain-think-and-see.md]] The circuit that lets your brain think and see `pillar:capabilities` `score:0.345`
 - [[the-fittest-founder-in-the-room-got-cancer-here8217s-how-he-used-ai-to-fight-bac.md]] The fittest founder in the room got cancer. Here&#8217;s how he used AI to fight `pillar:capabilities` `score:0.48`
 - [[the-founders-playbook-building-an-ai-native-startup.md]] The founder's playbook: Building an AI-native startup `pillar:capabilities` `score:0.445`
@@ -1178,6 +1181,7 @@
 - [[affaan-meverything-claude-code.md]] affaan-m/everything-claude-code `pillar:patterns` `score:0.58`
 - [[agent-harness-kit-scaffolding-for-multi-agent-work.md]] Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic) `pillar:patterns` `score:0.33`
 - [[agentic-coding-deserves-more-than-a-chat-box-bolted-onto-vs-code.md]] Agentic coding deserves more than a chat box bolted onto VS Code `pillar:patterns` `score:0.43`
+- [[agentic-coding-notes-from-galapagos-island.md]] Agentic coding notes from Galapagos Island `pillar:patterns` `score:0.395`
 - [[agentic-mfw.md]] Agentic Mfw `pillar:patterns` `score:0.295`
 - [[agentic-resource-discovery-specification.md]] Agentic Resource Discovery Specification `pillar:patterns` `score:0.365`
 - [[agentic-trading-with-safe-guardrails.md]] Agentic Trading with Safe Guardrails `pillar:patterns` `score:0.33`

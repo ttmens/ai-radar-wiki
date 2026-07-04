@@ -2435,3 +2435,9 @@
 - create: new-serious-vulnerabilities-spiked-around-release-of-claude-mythos-preview.md
 - create: kagi-changelog-july-2-heads-tails-and-an-ai-toggle.md
 - create: show-hn-om-core-multidimensional-models-without-spreadsheet-cell-formulas.md
+
+## [2026-07-04 18:01] sync v3 | 4 new | pillars: {'capabilities': 3, 'patterns': 1}
+- create: the-bottleneck-might-be-the-air-in-the-room.md
+- create: agentic-coding-notes-from-galapagos-island.md
+- create: dispersion-loss-counteracts-embedding-condensation-in-small-language-models.md
+- create: show-hn-classify-mechanical-faults-using-contrastive-language-audio-pretraining.md
