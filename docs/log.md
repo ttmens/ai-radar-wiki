@@ -2447,3 +2447,11 @@
 - create: the-vespa-at-80-why-the-italian-scooter-remains-the-coolest-thing-on-2-wheels.md
 - create: 2026-unslop-ai-written-fiction-contest-results.md
 - create: what-is-mistral-ai-everything-to-know-about-the-openai-competitor.md
+
+## [2026-07-05 06:01] sync v3 | 6 new | pillars: {'capabilities': 6}
+- create: neural-render-proxies-for-interactive-and-differentiable-lighting.md
+- create: plein-air.md
+- create: the-reports-of-jim-carreys-death-are-a-failure-mode.md
+- create: new-google-commercial-imagines-a-declaration-of-independence-written-with-help-f.md
+- create: midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage.md
+- create: alibaba-reportedly-bans-employees-from-using-claude-code.md

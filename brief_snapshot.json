@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
-  "generated_at": "2026-07-05T00:01:58.438047+08:00",
-  "item_count": 3,
+  "generated_at": "2026-07-05T06:01:20.997767+08:00",
+  "item_count": 7,
   "items": [
     {
       "id": "what-is-mistral-ai-everything-to-know-about-the-openai-competitor",
@@ -15,6 +15,39 @@
       "date": "2026-07-05"
     },
     {
+      "id": "midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage",
+      "label": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "summary": "Midjourney 在与其关于生成式 AI 版权侵权的法律纠纷中，要求三家好莱坞工作室披露其自身使用 AI 的详细情况。此举旨在获取证据，以证明这些影视公司也在利用 AI 进行内容创作，从而对抗版权侵权指控。该案凸显了生成式 AI 在影视行业落地时面临的透明度与合规挑战，对产品经理而言，意味着需要关注 AI 输出内容的法律风险、版权归属以及行业生态中的博弈规则。Midjourney 的策略可能推动行业建立披露 AI 使用情况的规范，影响未来 AI 创作工具的商业模式和合作框架。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "date": "2026-07-05"
+    },
+    {
+      "id": "alibaba-reportedly-bans-employees-from-using-claude-code",
+      "label": "Alibaba reportedly bans employees from using Claude Code",
+      "summary": "阿里巴巴据内部公告将Claude Code列为高风险软件并禁止员工使用，此举可能出于数据安全或竞争考量。Claude Code是Anthropic推出的代码生成AI工具，具备强大的编程辅助能力。阿里巴巴的禁令反映了大型科技企业在引入外部AI工具时的合规与数据保护策略，这对AI产品经理意味着需要关注企业级AI工具的准入风险评估、数据主权及供应链安全。该事件也凸显了AI工具在商业环境中的应用边界，可能影响未来产品设计中对第三方AI能力集成的风险控制思路。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "date": "2026-07-05"
+    },
+    {
+      "id": "new-google-commercial-imagines-a-declaration-of-independence-written-with-help-f",
+      "label": "New Google commercial imagines a Declaration of Independence written with help f",
+      "summary": "Google 发布新广告，设想美国建国先贤若拥有 Google Workspace 和 AI 助手，起草《独立宣言》将更高效。广告展示了 AI 写作、文本润色、实时协作等能力，凸显生成式 AI 在知识工作场景中的潜力。对 AI 产品经理而言，这是典型的能力展示型营销，强调将 AI 无缝嵌入现有办公套件，降低用户使用门槛，提升生产力。商业价值在于通过情感化叙事强化品牌认知，推动企业级 AI 工具的市场接受度。核心技术创新在于多模态生成与流程集成。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "date": "2026-07-05"
+    },
+    {
       "id": "2026-unslop-ai-written-fiction-contest-results",
       "label": "2026 Unslop AI-Written Fiction Contest Results",
       "summary": "Unslop 举办的 2026 年 AI 写小说比赛结果公布，聚焦当前大语言模型在长篇创意叙事中的表现。比赛旨在评估 AI 生成故事的连贯性、人物塑造和情感共鸣，反映了模型在复杂文本生成上的能力边界。对于 AI 产品经理而言，这一结果揭示了将 LLM 用于内容创作（如剧本、小说辅助）的技术成熟度与商业潜力，同时也提示了高质量叙事仍需人工干预或精细提示工程。产品创新方向可包括交互式故事生成、个性化小说定制等。",
@@ -23,6 +56,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48782890",
+      "date": "2026-07-05"
+    },
+    {
+      "id": "the-reports-of-jim-carreys-death-are-a-failure-mode",
+      "label": "The Reports of Jim Carrey's Death Are a Failure Mode",
+      "summary": "该标题以演员金·凯瑞的虚假死亡报道为例，揭示了AI系统在事实核查中的典型失败模式。对于AI产品经理而言，这警示了模型生成内容时可能出现的虚假信息传播风险，尤其是在缺乏严格验证机制的场景下。技术要点包括需要增强模型的鲁棒性、引入外部知识源进行实时校验，以及设计更有效的错误检测流程。商业价值在于降低因AI输出不实信息导致的信誉损失和法律风险，产品创新方向可以是开发事实性增强模块或错误预警系统。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48784662",
       "date": "2026-07-05"
     },
     {
@@ -38,7 +82,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 2887,
-    "edges": 3179
+    "real_nodes": 2908,
+    "edges": 3200
   }
 }
