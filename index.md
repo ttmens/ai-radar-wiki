@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-05 | Total pages: 2213
+> Last updated: 2026-07-05 | Total pages: 2218
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -111,6 +111,7 @@
 - [[ask-hn-what-was-your-oh-shit-moment-with-genai.md]] Ask HN: What was your "oh shit" moment with GenAI? `pillar:capabilities` `score:0.495`
 - [[astronauts-on-iss-told-to-shelter-as-repairs-under-way-to-fix-air-leaks.md]] Astronauts on ISS told to shelter as repairs under way to fix air leaks `pillar:capabilities` `score:0.355`
 - [[asymmetric-quantization-near-lossless-retrieval-with-97-storage-reduction.md]] Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction `pillar:capabilities` `score:0.465`
+- [[atomic-force-microscope-high-speed-video-stainless-etching-bacteria-and-more.md]] Atomic Force Microscope high-speed video, stainless etching, bacteria, and more `pillar:capabilities` `score:0.345`
 - [[autoregressive-next-token-prediction-and-kv-cache-in-transformers.md]] Autoregressive next token prediction and KV Cache in transformers `pillar:capabilities` `score:0.295`
 - [[bee-sanciphey.md]] bee-san/Ciphey `pillar:capabilities` `score:0.545`
 - [[benchmarking-surrealdb-3x-vs-postgres-mongo-neo4j-and-redis-with-fsync.md]] Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync) `pillar:capabilities` `score:0.395`
@@ -401,6 +402,7 @@
 - [[moebius-02b-image-inpainting-model-with-10b-level-performance.md]] Moebius: 0.2B image inpainting model with 10B-level performance `pillar:capabilities` `score:0.615`
 - [[more-ai-generated-code-doesnt-make-your-team-faster-it-might-slow-you.md]] More AI-generated code doesn't make your team faster. It might slow you `pillar:capabilities` `score:0.33`
 - [[more-than-6-out-of-10-people-turn-to-ai-for-psychological-support.md]] More than 6 out of 10 people turn to AI for psychological support `pillar:capabilities` `score:0.515`
+- [[mouse-precision-editing-tools-for-ai-coding-agents.md]] Mouse: Precision Editing Tools for AI Coding Agents `pillar:capabilities` `score:0.38`
 - [[moving-away-from-tailwind-and-learning-to-structure-my-css.md]] Moving away from Tailwind, and learning to structure my CSS `pillar:capabilities` `score:0.355`
 - [[msi-center-how-to-gain-system-privileges-in-seconds.md]] MSI Center – How to gain SYSTEM privileges in seconds `pillar:capabilities` `score:0.295`
 - [[mudlerlocalai.md]] mudler/LocalAI `pillar:capabilities` `score:0.405`
@@ -486,6 +488,7 @@
 - [[racket-v92-is-now-available.md]] Racket v9.2 is now available `pillar:capabilities` `score:0.205`
 - [[real-time-llm-inference-on-standard-gpus-3k-tokenss-per-request.md]] Real-time LLM Inference on Standard GPUs: 3k tokens/s per request `pillar:capabilities` `score:0.565`
 - [[reality-has-a-surprising-amount-of-detail-2017.md]] Reality has a surprising amount of detail (2017) `pillar:capabilities` `score:0.53`
+- [[record-breaking-solo-rower-kelsey-pfendler-arrives-in-hawaii.md]] Record-breaking solo rower Kelsey Pfendler arrives in Hawaii `pillar:capabilities` `score:0.085`
 - [[record-type-inference-for-dummies.md]] Record type inference for dummies `pillar:capabilities` `score:0.33`
 - [[reducing-tick-density-along-recreational-trails-in-ottawa-canada.md]] Reducing tick density along recreational trails in Ottawa, Canada `pillar:capabilities` `score:0.46`
 - [[reflections-on-software-engineering-in-the-age-of-ai.md]] Reflections on software engineering in the age of AI `pillar:capabilities` `score:0.48`
@@ -616,6 +619,7 @@
 - [[spotify-adds-ai-powered-q038a-and-briefing-generation-features-to-podcasts.md]] Spotify adds AI-powered Q&#038;A and briefing generation features to podcasts `pillar:capabilities` `score:0.48`
 - [[spotify-launches-an-elevenlabs-powered-audiobook-creation-tool.md]] Spotify launches an ElevenLabs-powered audiobook creation tool `pillar:capabilities` `score:0.48`
 - [[spotify-takes-on-google8217s-notebooklm-with-its-new-app.md]] Spotify takes on Google&#8217;s NotebookLM with its new app `pillar:capabilities` `score:0.48`
+- [[sqlite-utils-40rc2-mostly-written-by-claude-fable-for-about-14925.md]] sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25) `pillar:capabilities` `score:0.465`
 - [[srbhrresume-matcher.md]] srbhr/Resume-Matcher `pillar:capabilities` `score:0.58`
 - [[stability-ai-releases-a-new-audio-model-that-can-create-six-minute-songs.md]] Stability AI releases a new audio model that can create six-minute songs `pillar:capabilities` `score:0.48`
 - [[steve-wozniak-cheered-after-telling-students-they-have-ai-actual-intelligence.md]] Steve Wozniak cheered after telling students they have AI – actual intelligence `pillar:capabilities` `score:0.595`
@@ -1468,6 +1472,7 @@
 - [[the-8216together-tech8217-wave-might-be-the-most-intriguing-startup-bet-of-2026.md]] The &#8216;together tech&#8217; wave might be the most intriguing startup bet of `pillar:patterns` `score:0.305`
 - [[the-ai-world-is-getting-8216loopy8217.md]] The AI world is getting &#8216;loopy&#8217; `pillar:patterns` `score:0.48`
 - [[the-internet-is-being-rebuilt-for-machines.md]] The internet is being rebuilt for machines `pillar:patterns` `score:0.445`
+- [[the-log-is-the-agent.md]] The Log Is the Agent `pillar:patterns` `score:0.33`
 - [[the-low-tech-ai-of-elden-ring.md]] The Low-Tech AI of Elden Ring `pillar:patterns` `score:0.395`
 - [[the-most-interesting-startups-right-now-want-to-get-you-off-your-phone.md]] The most interesting startups right now want to get you off your phone `pillar:patterns` `score:0.41`
 - [[the-short-leash-ai-coding-method-for-beating-fable.md]] The Short Leash AI Coding Method for Beating Fable `pillar:patterns` `score:0.295`
