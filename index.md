@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-05 | Total pages: 2211
+> Last updated: 2026-07-05 | Total pages: 2213
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -263,6 +263,7 @@
 - [[googles-antigravity-bait-and-switch.md]] Google's Antigravity Bait and Switch `pillar:capabilities` `score:0.53`
 - [[googles-genie-world-model-can-now-simulate-real-streets-with-street-view.md]] Google’s Genie world model can now simulate real streets with Street View `pillar:capabilities` `score:0.515`
 - [[gpt-2-too-dangerous-to-release-2019.md]] GPT-2: Too Dangerous To Release (2019) `pillar:capabilities` `score:0.58`
+- [[gpt-55-codex-reasoning-token-clustering-may-be-leading-to-degraded-performance.md]] GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance `pillar:capabilities` `score:0.53`
 - [[gpt-55-hallucinates-3x-more-than-mit-licensed-glm-52.md]] GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2 `pillar:capabilities` `score:0.33`
 - [[gptnl-a-sovereign-language-model-for-the-netherlands.md]] GPT‑NL: a sovereign language model for the Netherlands `pillar:capabilities` `score:0.565`
 - [[grapheneos-speech-services-version-2-released.md]] GrapheneOS Speech Services version 2 released `pillar:capabilities` `score:0.295`
@@ -1223,6 +1224,7 @@
 - [[ask-hn-what-is-your-ai-dev-tech-stack-workflow.md]] Ask HN: What is your (AI) dev tech stack / workflow? `pillar:patterns` `score:0.495`
 - [[astrbotdevsastrbot.md]] AstrBotDevs/AstrBot `pillar:patterns` `score:0.58`
 - [[best-brain-for-agents-is-just-versioned-folders-of-markdown-files.md]] Best "Brain" for Agents Is Just Versioned Folders of Markdown Files `pillar:patterns` `score:0.365`
+- [[better-models-worse-tools.md]] Better Models: Worse Tools `pillar:patterns` `score:0.48`
 - [[browser-usebrowser-use.md]] browser-use/browser-use `pillar:patterns` `score:0.615`
 - [[brume-is-a-24-voice-multi-timbral-desktop-synth-for-the-cm5.md]] Brume is a 24-voice multi-timbral desktop synth for the CM5 `pillar:patterns` `score:0.155`
 - [[build-a-basic-ai-agent-from-scratch-long-task-planning.md]] Build a Basic AI Agent from Scratch: Long Task Planning `pillar:patterns` `score:0.445`

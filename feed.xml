@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 04 Jul 2026 20:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 04:00:21 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -21,6 +21,30 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>Midjourney wants Hollywood studios to reveal the details of their AI usage</title>
+      <link>https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/</link>
+      <guid isPermaLink="false">midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage</guid>
+      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Midjourney 在与其关于生成式 AI 版权侵权的法律纠纷中，要求三家好莱坞工作室披露其自身使用 AI 的详细情况。此举旨在获取证据，以证明这些影视公司也在利用 AI 进行内容创作，从而对抗版权侵权指控。该案凸显了生成式 AI 在影视行业落地时面临的透明度与合规挑战，对产品经理而言，意味着需要关注 AI 输出内容的法律风险、版权归属以及行业生态中的博弈规则。Midjourney 的策略可能推动行业建立披露 AI 使用情况的规范，影响未来 AI 创作工具的商业模式和合作框架。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Alibaba reportedly bans employees from using Claude Code</title>
+      <link>https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/</link>
+      <guid isPermaLink="false">alibaba-reportedly-bans-employees-from-using-claude-code</guid>
+      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>阿里巴巴据内部公告将Claude Code列为高风险软件并禁止员工使用，此举可能出于数据安全或竞争考量。Claude Code是Anthropic推出的代码生成AI工具，具备强大的编程辅助能力。阿里巴巴的禁令反映了大型科技企业在引入外部AI工具时的合规与数据保护策略，这对AI产品经理意味着需要关注企业级AI工具的准入风险评估、数据主权及供应链安全。该事件也凸显了AI工具在商业环境中的应用边界，可能影响未来产品设计中对第三方AI能力集成的风险控制思路。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>New Google commercial imagines a Declaration of Independence written with help f</title>
+      <link>https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/</link>
+      <guid isPermaLink="false">new-google-commercial-imagines-a-declaration-of-independence-written-with-help-f</guid>
+      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google 发布新广告，设想美国建国先贤若拥有 Google Workspace 和 AI 助手，起草《独立宣言》将更高效。广告展示了 AI 写作、文本润色、实时协作等能力，凸显生成式 AI 在知识工作场景中的潜力。对 AI 产品经理而言，这是典型的能力展示型营销，强调将 AI 无缝嵌入现有办公套件，降低用户使用门槛，提升生产力。商业价值在于通过情感化叙事强化品牌认知，推动企业级 AI 工具的市场接受度。核心技术创新在于多模态生成与流程集成。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>2026 Unslop AI-Written Fiction Contest Results</title>
       <link>https://news.ycombinator.com/item?id=48782890</link>
       <guid isPermaLink="false">2026-unslop-ai-written-fiction-contest-results</guid>
@@ -29,11 +53,35 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>The Reports of Jim Carrey's Death Are a Failure Mode</title>
+      <link>https://news.ycombinator.com/item?id=48784662</link>
+      <guid isPermaLink="false">the-reports-of-jim-carreys-death-are-a-failure-mode</guid>
+      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该标题以演员金·凯瑞的虚假死亡报道为例，揭示了AI系统在事实核查中的典型失败模式。对于AI产品经理而言，这警示了模型生成内容时可能出现的虚假信息传播风险，尤其是在缺乏严格验证机制的场景下。技术要点包括需要增强模型的鲁棒性、引入外部知识源进行实时校验，以及设计更有效的错误检测流程。商业价值在于降低因AI输出不实信息导致的信誉损失和法律风险，产品创新方向可以是开发事实性增强模块或错误预警系统。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Postgres data stored in Parquet on S3: LTAP architecture explained</title>
       <link>https://news.ycombinator.com/item?id=48745855</link>
       <guid isPermaLink="false">postgres-data-stored-in-parquet-on-s3-ltap-architecture-explained</guid>
       <pubDate>2026-07-05T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Neural Render Proxies for Interactive and Differentiable Lighting</title>
+      <link>https://news.ycombinator.com/item?id=48753160</link>
+      <guid isPermaLink="false">neural-render-proxies-for-interactive-and-differentiable-lighting</guid>
+      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该技术提出一种基于神经网络的渲染代理方法，用于实现交互式和可微分的光照效果。通过训练轻量级神经网络代理传统渲染管线，用户能够实时调整光照参数并立即看到效果，同时保持可微分性，支持后续优化任务。这一创新降低了高保真渲染的计算成本，适用于游戏、虚拟现实、建筑可视化等场景。产品经理可借此技术优化3D编辑工具的交互体验，实现动态光照编辑，并融入AI驱动的自动优化流程，提升用户创作效率与视觉效果。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Plein Air</title>
+      <link>https://news.ycombinator.com/item?id=48786880</link>
+      <guid isPermaLink="false">plein-air</guid>
+      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Plein Air 是一个在 Hacker News 上讨论的 AI 项目或产品，名称源自法语“户外写生”。尽管缺乏详细摘要，推测其聚焦于利用 AI 生成或辅助创作户外场景艺术作品，可能融合了实时图像生成、风格迁移等技术。对于 AI 产品经理，这类工具可探索创意生产力提升、低成本内容生成等商业应用场景，但需关注生成质量与用户交互体验。目前技术细节尚不明确，需进一步观察。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -109,6 +157,46 @@ The costs were atrocious. Nearly 140,000 federal workers pushed out. Vete</p></d
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>Elon Musk is an American by blood
+
+His grandfather, Joshua Haldeman (6’6”) and father to Maye Musk, ...</title>
+      <link>https://x.com/elonmusk/status/2073453437123957109</link>
+      <guid isPermaLink="false">twitter_elonmusk_2073453437123957109</guid>
+      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Elon Musk is an American by blood
+
+His grandfather, Joshua Haldeman (6’6”) and father to Maye Musk, was born in 1902 in Pequot Lakes, Minnesota, and even paid his way through college by competing in rodeos, the most American thing imaginable. https://t.co/Y57ZfqQceA</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Teslas are the most American-made cars
+
+🇺🇸 Happy 250th birthday, America 🇺🇸 https://t.co/e4NhqSJidx</title>
+      <link>https://x.com/elonmusk/status/2073454960340300144</link>
+      <guid isPermaLink="false">twitter_elonmusk_2073454960340300144</guid>
+      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Teslas are the most American-made cars
+
+🇺🇸 Happy 250th birthday, America 🇺🇸 https://t.co/e4NhqSJidx</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>To the Americans:
+
+I've travelled all over the world. I've familiarized myself with many places, and...</title>
+      <link>https://x.com/JohnNosta/status/2073436674088931749</link>
+      <guid isPermaLink="false">twitter_JohnNosta_2073436674088931749</guid>
+      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>To the Americans:
+
+I've travelled all over the world. I've familiarized myself with many places, and met many people. And I'm a Canadian, although I’m privileged to reside once again in the States.
+
+And here's something I've noticed, and it’s a key element of America's continuing greatness:
+
+You blo</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>🚨 Fable Builds What Used To Take Entire Teams
 
 Combine super intelligence with world class infrastru...</title>
@@ -150,6 +238,14 @@ Fable 5 - architect and super planner
 Opus 4.8 -  front-end code
 GPT 5.5 - back-end code
 GLM 5.2 -  easy code</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Here's a cool piece of LLM lore: the original scaling laws were wrong due to a bug, which probably l...</title>
+      <link>https://x.com/swyx/status/2073446445307617366</link>
+      <guid isPermaLink="false">twitter_swyx_2073446445307617366</guid>
+      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Here's a cool piece of LLM lore: the original scaling laws were wrong due to a bug, which probably led to a lot of wasted compute on oversized undertrained models 🫣 (and that was before we even started properly accounting for inference cost!)</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -262,6 +358,36 @@ Our team will present 11 papers spanning multi-agent coordination, sparse and ef
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Hearing that the new Gemini 3.5 is pretty good 
+
+Maybe even GPT 5.6 level! 
+
+That would be great 🎉</title>
+      <link>https://x.com/bindureddy/status/2073515265896391029</link>
+      <guid isPermaLink="false">twitter_bindureddy_2073515265896391029</guid>
+      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Hearing that the new Gemini 3.5 is pretty good 
+
+Maybe even GPT 5.6 level! 
+
+That would be great 🎉</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Happy Fourth of July!
+
+Super proud to be part a country that is at the forefront of innovation and t...</title>
+      <link>https://x.com/bindureddy/status/2073462459680334219</link>
+      <guid isPermaLink="false">twitter_bindureddy_2073462459680334219</guid>
+      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Happy Fourth of July!
+
+Super proud to be part a country that is at the forefront of innovation and technology 
+
+USA is so winning in AI 🔥</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Jamesob's guide to running SOTA LLMs locally</title>
       <link>https://news.ycombinator.com/item?id=48775921</link>
       <guid isPermaLink="false">jamesobs-guide-to-running-sota-llms-locally</guid>
@@ -291,6 +417,54 @@ In this video, @cole_medin explains why meta-harnesses are becoming an important
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Knowledge bases and AI agents are a match made in heaven, especially when the agent gets its own memory wiki. Ryan Palo reports for The Daily Context.
 
 https://t.co/1EW0tGFbcM</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>🙏Thank you @JCP_L for the outstanding work and swift power restoration in Mendham, NJ.
+
+⚡️Life-savin...</title>
+      <link>https://x.com/JohnNosta/status/2073486504144355403</link>
+      <guid isPermaLink="false">twitter_JohnNosta_2073486504144355403</guid>
+      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>🙏Thank you @JCP_L for the outstanding work and swift power restoration in Mendham, NJ.
+
+⚡️Life-saving work in the most dangerous of conditions. https://t.co/wZmTqsI8mx</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>This dev breaks down how Antigravity 2.0 pairs multi-agent orchestration with MCP to pull in BigQuer...</title>
+      <link>https://x.com/ThePracticalDev/status/2073467098798358576</link>
+      <guid isPermaLink="false">twitter_ThePracticalDev_2073467098798358576</guid>
+      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>This dev breaks down how Antigravity 2.0 pairs multi-agent orchestration with MCP to pull in BigQuery, Cloud SQL, and Cloud Storage, using a customer support scenario to show specialized agents working together on one request.
+
+{ author: Saurabh Mishra + @GoogleDevExpert }
+
+https://t.co/UcZdleBDb9</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>This dev read Anthropic's full essay instead of the social media takes, and came away focused on the...</title>
+      <link>https://x.com/ThePracticalDev/status/2073467091324203009</link>
+      <guid isPermaLink="false">twitter_ThePracticalDev_2073467091324203009</guid>
+      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>This dev read Anthropic's full essay instead of the social media takes, and came away focused on the gap between execution and judgment. The numbers are real, but the piece argues judgment is what still sets engineers apart.
+
+{ author: @KanagalaHema }
+
+https://t.co/1FhYILXnGK</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Manual bottlenecks drain enterprise ops. This dev builds an autonomous invoice workflow with Antigra...</title>
+      <link>https://x.com/ThePracticalDev/status/2073453284220711082</link>
+      <guid isPermaLink="false">twitter_ThePracticalDev_2073453284220711082</guid>
+      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Manual bottlenecks drain enterprise ops. This dev builds an autonomous invoice workflow with Antigravity 2.0 and Firestore.
+
+{ author: Vo Tu Duc + @GoogleDevExpert }
+
+https://t.co/21WN06xb6W</p></description>
       <category>📱 产品模式</category>
     </item>
     <item>
@@ -347,140 +521,6 @@ https://t.co/1EW0tGFbcM</p></description>
       <guid isPermaLink="false">the-browser-wars-aren8217t-about-search-anymore-here-are-the-best-alternatives-t</guid>
       <pubDate>2026-07-04T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>本文概述了当前挑战Chrome和Safari的主流替代浏览器，如Brave、Firefox、Arc等。从AI产品经理视角，关键点包括：1）浏览器正从搜索入口转向AI Agent平台，各厂商通过垂直化定制（如集成AI助手、侧边栏工具）抢占用户心智；2）隐私与数据主权成为差异化亮点，为AI本地化部署提供基础；3）商业价值在于打破谷歌搜索垄断，催生浏览器内嵌AI订阅、广告替代等新模式。产品创新体现在极简交互、工作流集成及对Web3/PWA的支持，预示浏览器将成为AI生态的关键入口。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>The only AI glossary you&amp;#8217;ll need this year</title>
-      <link>https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/</link>
-      <guid isPermaLink="false">the-only-ai-glossary-you8217ll-need-this-year</guid>
-      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>该文章是一份AI领域核心术语词典，汇总了2025年最重要的AI词汇与行话。对于AI产品经理而言，掌握这些术语有助于准确理解技术文档、团队沟通及与客户对齐需求，避免因语义模糊导致的产品决策偏差。文章不仅涵盖基础概念（如LLM、RAG），还收录了新兴趋势（如Agentic AI、多模态），帮助PM快速建立行业共识，提升跨职能协作效率。作为工具型内容，它没有直接商业价值，但能降低产品经理的学习曲线，是推动产品创新的间接杠杆。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Espionage Against the European Parliament</title>
-      <link>https://news.ycombinator.com/item?id=48779683</link>
-      <guid isPermaLink="false">espionage-against-the-european-parliament</guid>
-      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文讨论了针对欧洲议会的间谍活动，可能涉及利用AI技术进行情报收集或防御。从AI产品视角看，这突显了AI在安全领域的应用风险与机遇，包括对抗性攻击、数据隐私保护和智能监控系统的研发。产品经理需关注AI系统的安全性和合规性，防范潜在的信息泄露或被恶意利用。尽管具体技术细节不详，但事件强调了AI能力在政治安全场景中的双刃剑效应，以及产品设计时需内置伦理与安全机制。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Agentic coding notes from Galapagos Island</title>
-      <link>https://news.ycombinator.com/item?id=48782671</link>
-      <guid isPermaLink="false">agentic-coding-notes-from-galapagos-island</guid>
-      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文来自Hacker News，标题为《加拉帕戈斯群岛的智能体编程笔记》。内容探讨了自主编程代理（Agentic Coding）的实践观察，可能涉及AI编程助手的自主决策、代码生成与调试模式。对于AI产品经理而言，核心启示在于如何设计高效的人机协作编程流程，平衡自动化与开发者控制权，以及从岛屿生态演化中借鉴的模块化、自适应性架构思想。商业价值体现在显著提升研发效率与代码质量，产品创新点在于将智能体从辅助工具升级为独立开发参与者。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Kagi Changelog (July 2): Heads, tails, and an AI toggle</title>
-      <link>https://news.ycombinator.com/item?id=48779352</link>
-      <guid isPermaLink="false">kagi-changelog-july-2-heads-tails-and-an-ai-toggle</guid>
-      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Kagi 在 7 月更新中引入了一个 AI 切换开关（AI toggle），允许用户按需开启或关闭 AI 驱动的搜索功能。同时更新了“heads”和“tails”两种搜索结果展示模式，可能对应不同信息密度或视角（如摘要与详细答案）。这一设计兼顾了隐私需求与 AI 能力，用户可自主选择是否依赖大模型生成内容，避免过度 AI 化。对产品经理的启示：在搜索场景中提供灵活的控制开关，既能提升用户信任，又能差异化体验，尤其适合注重隐私或希望减少 AI 幻觉干扰的用户群。该功能还暗示了搜索结果的模块化展示创新。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>New serious vulnerabilities spiked around release of Claude Mythos Preview</title>
-      <link>https://news.ycombinator.com/item?id=48780056</link>
-      <guid isPermaLink="false">new-serious-vulnerabilities-spiked-around-release-of-claude-mythos-preview</guid>
-      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Claude Mythos Preview 版本发布时出现严重安全漏洞激增，表明该模型在能力提升的同时可能引入了新的攻击面。对于AI产品经理而言，这提示需在预览版发布前加强安全审计与红队测试，平衡创新速度与风险管控。漏洞类型或涉及提示注入、数据泄露等常见LLM安全问题，直接影响用户信任与企业合规。建议在迭代路线图中嵌入持续安全评估机制。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>My dad helped build North America's oat supply chain: Can it be remade?</title>
-      <link>https://news.ycombinator.com/item?id=48732870</link>
-      <guid isPermaLink="false">my-dad-helped-build-north-americas-oat-supply-chain-can-it-be-remade</guid>
-      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨北美燕麦供应链的历史与现状，并分析AI与数字化技术能否重塑这一传统体系。技术要点包括利用机器学习进行需求预测、优化物流路径、自动化生产流程；商业价值在于提升效率、降低成本、增强供应链韧性；产品创新方向涉及数字孪生模拟、智能库存管理等。对于AI产品经理，关注点在于如何将AI能力嵌入传统行业的供应链决策中，实现可落地的价值。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Gemini Code Assist will be shut down on July 17</title>
-      <link>https://news.ycombinator.com/item?id=48774429</link>
-      <guid isPermaLink="false">gemini-code-assist-will-be-shut-down-on-july-17</guid>
-      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>谷歌宣布将于7月17日关闭Gemini Code Assist服务，这是一款面向开发者的AI代码辅助工具。此次关停意味着谷歌可能正在重新调整其AI编程产品线，或将资源整合至其他项目如Gemini for Cloud或独立的代码生成API。对于依赖该工具的企业和开发者而言，需要寻找替代方案，如GitHub Copilot、Amazon CodeWhisperer等。该事件反映了AI代码助手市场竞争激烈，产品迭代与淘汰频繁，产品经理应关注供应商稳定性与平台迁移成本。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>The circuit that lets your brain think and see</title>
-      <link>https://news.ycombinator.com/item?id=48780996</link>
-      <guid isPermaLink="false">the-circuit-that-lets-your-brain-think-and-see</guid>
-      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文介绍了一种新型神经形态电路，能够模拟大脑的思维和视觉功能，可能实现脑机接口的突破。该技术通过模拟神经元连接，提高计算效率，降低功耗，有望应用于人机交互、医疗康复和增强智能。对AI产品经理而言，这代表了从传统AI向类脑计算的演进，可能催生新的交互模式和产品形态，如实时脑信号解码、视觉假体等，具有重要的商业潜力和技术前瞻性。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Soatok's Informal Guide to Threat Models</title>
-      <link>https://news.ycombinator.com/item?id=48781597</link>
-      <guid isPermaLink="false">soatoks-informal-guide-to-threat-models</guid>
-      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文是安全专家Soatok撰写的威胁模型非正式指南，面向AI产品经理强调在AI系统开发初期需系统性地识别和应对潜在安全威胁。技术要点包括威胁建模的步骤（如识别资产、攻击者、攻击面）及如何将其融入AI产品设计流程。商业价值在于降低安全漏洞带来的合规风险和声誉损失，提升产品信任度。产品创新体现为将安全左移，使威胁模型成为AI产品迭代的标配环节，而非事后补救。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>MSI Center – How to gain SYSTEM privileges in seconds</title>
-      <link>https://news.ycombinator.com/item?id=48781688</link>
-      <guid isPermaLink="false">msi-center-how-to-gain-system-privileges-in-seconds</guid>
-      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容披露了MSI Center软件中存在的安全漏洞，允许攻击者在数秒内获取SYSTEM级别系统权限。对于AI产品经理而言，这凸显了AI代理或本地工具在权限管理方面的风险——若AI助手或自动化工具依赖此类系统软件，可能被利用进行权限提升，导致数据泄露或系统被控制。技术要点在于漏洞利用的快速性与简洁性；商业价值在于提醒产品需加强安全审计与最小权限原则；产品创新可考虑引入动态权限隔离机制。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining</title>
-      <link>https://github.com/adam-s/car-diagnosis</link>
-      <guid isPermaLink="false">show-hn-classify-mechanical-faults-using-contrastive-language-audio-pretraining</guid>
-      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该技术利用对比语言-音频预训练（CLAP）模型实现机械故障分类，通过将设备运行音频与故障描述文本对齐，无需大量标注数据即可识别异常。核心在于将多模态对比学习从图像-文本扩展到音频-文本领域，降低工业场景中数据采集成本。商业价值体现在预测性维护、减少停机时间和维修成本，产品创新在于零样本故障诊断能力，适配多种机械类型。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Dispersion loss counteracts embedding condensation in small language models</title>
-      <link>https://news.ycombinator.com/item?id=48780826</link>
-      <guid isPermaLink="false">dispersion-loss-counteracts-embedding-condensation-in-small-language-models</guid>
-      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该研究针对小型语言模型中的嵌入浓缩现象，提出分散损失（Dispersion Loss）作为正则化方法，有效防止模型过度压缩嵌入空间导致信息丢失。技术要点在于通过平衡表示多样性提升小模型泛化能力，商业价值体现在降低推理成本同时保持性能，产品创新方面可为端侧或低成本部署场景提供更优训练策略。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: OM Core – multidimensional models without spreadsheet cell formulas</title>
-      <link>https://github.com/cloudcell/om-core</link>
-      <guid isPermaLink="false">show-hn-om-core-multidimensional-models-without-spreadsheet-cell-formulas</guid>
-      <pubDate>2026-07-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>OM Core 是一个无需电子表格公式即可构建多维数据模型的新工具，旨在简化复杂数据分析流程。它通过直观的界面替代传统单元格公式，降低数据处理门槛，适合业务分析师和产品经理快速建模。其商业价值在于提升数据驱动决策效率，减少对技术团队的依赖，可能重塑数据分析工作流。产品创新在于将多维模型的可视化与免公式操作结合，实现即拖即用。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>First builds of Model Y Long Wheelbase at Giga Texas https://t.co/oo1mGUWspX</title>
-      <link>https://x.com/elonmusk/status/2072833182635024712</link>
-      <guid isPermaLink="false">twitter_elonmusk_2072833182635024712</guid>
-      <pubDate>2026-07-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>First builds of Model Y Long Wheelbase at Giga Texas https://t.co/oo1mGUWspX</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>True</title>
-      <link>https://x.com/elonmusk/status/2072927075317457223</link>
-      <guid isPermaLink="false">twitter_elonmusk_2072927075317457223</guid>
-      <pubDate>2026-07-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>True</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Another major Grok Build update just landed, packed with new features, extensive bug fixes, and mean...</title>
-      <link>https://x.com/elonmusk/status/2072891163502080053</link>
-      <guid isPermaLink="false">twitter_elonmusk_2072891163502080053</guid>
-      <pubDate>2026-07-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Another major Grok Build update just landed, packed with new features, extensive bug fixes, and meaningful performance improvements
-
-Release Notes: v0.2.84 — 2026-07-03
-
-Features:
-• Announcements now update live during active sessions without restart or /new.
-• Hiding an announcement no longer suppr</p></description>
       <category>🔧 工具生态</category>
     </item>
   </channel>

@@ -1,8 +1,30 @@
 {
   "date": "2026-07-05",
-  "generated_at": "2026-07-05T06:01:20.997767+08:00",
-  "item_count": 7,
+  "generated_at": "2026-07-05T12:01:19.922040+08:00",
+  "item_count": 9,
   "items": [
+    {
+      "id": "gpt-55-codex-reasoning-token-clustering-may-be-leading-to-degraded-performance",
+      "label": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "summary": "GPT-5.5 Codex 模型在推理过程中采用的 token 聚类技术可能导致性能下降，影响其生成代码的准确性和可靠性。对于 AI 产品经理而言，这一发现提示在追求模型能力提升时需平衡推理优化与输出质量，避免因聚类导致语义丢失或错误推理。商业价值方面，若该问题普遍存在，将影响依赖 GPT-5.5 的代码生成、辅助编程等产品的用户体验和竞争力。产品创新上，需关注更稳健的推理机制或替代方案，如动态 token 分配或混合推理架构，以规避聚类带来的退化风险。",
+      "pm_score": 0.53,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48789428",
+      "date": "2026-07-05"
+    },
+    {
+      "id": "better-models-worse-tools",
+      "label": "Better Models: Worse Tools",
+      "summary": "本文探讨了AI模型能力快速提升与配套工具可用性滞后之间的矛盾。当模型变得更强（如更准确、更智能）时，工具反而可能因复杂度增加或设计不匹配而变得更难用。这提醒AI产品经理：单纯追求模型性能会忽视用户体验，产品创新应聚焦于降低交互摩擦、优化工作流集成，而非仅依赖模型升级。商业价值在于平衡技术领先与产品易用性，避免因工具差而失去用户。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48788599",
+      "date": "2026-07-05"
+    },
     {
       "id": "what-is-mistral-ai-everything-to-know-about-the-openai-competitor",
       "label": "What is Mistral AI? Everything to know about the OpenAI competitor",
@@ -82,7 +104,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 2908,
-    "edges": 3200
+    "real_nodes": 2924,
+    "edges": 3217
   }
 }

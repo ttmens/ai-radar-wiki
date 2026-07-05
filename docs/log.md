@@ -2455,3 +2455,7 @@
 - create: new-google-commercial-imagines-a-declaration-of-independence-written-with-help-f.md
 - create: midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage.md
 - create: alibaba-reportedly-bans-employees-from-using-claude-code.md
+
+## [2026-07-05 12:01] sync v3 | 2 new | pillars: {'capabilities': 2}
+- create: gpt-55-codex-reasoning-token-clustering-may-be-leading-to-degraded-performance.md
+- create: better-models-worse-tools.md

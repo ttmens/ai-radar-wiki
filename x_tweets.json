@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-04T21:03:36.570880",
+  "fetched_at": "2026-07-05T09:00:42.561164",
   "source": "twitter-cli",
   "data": {
     "sama": [
@@ -14,12 +14,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 13879,
-          "retweets": 358,
-          "replies": 659,
-          "quotes": 49,
-          "views": 673878,
-          "bookmarks": 391
+          "likes": 14201,
+          "retweets": 367,
+          "replies": 696,
+          "quotes": 50,
+          "views": 703068,
+          "bookmarks": 399
         },
         "createdAt": "Thu Jul 02 20:04:57 +0000 2026",
         "createdAtLocal": "2026-07-03 04:04",
@@ -42,11 +42,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 674,
-          "retweets": 104,
-          "replies": 140,
+          "likes": 677,
+          "retweets": 105,
+          "replies": 143,
           "quotes": 12,
-          "views": 241096,
+          "views": 245156,
           "bookmarks": 82
         },
         "createdAt": "Fri Jun 26 15:43:11 +0000 2026",
@@ -70,11 +70,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 4892,
-          "retweets": 158,
-          "replies": 407,
+          "likes": 4896,
+          "retweets": 159,
+          "replies": 410,
           "quotes": 39,
-          "views": 929030,
+          "views": 932653,
           "bookmarks": 212
         },
         "createdAt": "Fri Jun 26 21:06:21 +0000 2026",
@@ -106,12 +106,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1051,
+          "likes": 1056,
           "retweets": 25,
-          "replies": 187,
+          "replies": 188,
           "quotes": 8,
-          "views": 152280,
-          "bookmarks": 38
+          "views": 153798,
+          "bookmarks": 41
         },
         "createdAt": "Fri Jun 26 21:06:45 +0000 2026",
         "createdAtLocal": "2026-06-27 05:06",
@@ -134,11 +134,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 6372,
+          "likes": 6374,
           "retweets": 144,
-          "replies": 586,
+          "replies": 588,
           "quotes": 35,
-          "views": 603173,
+          "views": 604846,
           "bookmarks": 179
         },
         "createdAt": "Fri Jun 26 20:55:58 +0000 2026",
@@ -154,6 +154,36 @@
     ],
     "karpathy": [
       {
+        "id": "2073047118801993910",
+        "text": "I spent a LOT of time through the hardest 3D prompts at Fable, it is a 45 min video, but I have 60+ very cool demos for you. Also prompts in the next post.\n\n https://t.co/QPS5ccWZox",
+        "author": {
+          "id": "1934694242414215168",
+          "name": "Peter Gostev",
+          "screenName": "petergostev",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1934694573797670912/1gnGJwlr_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 638,
+          "retweets": 54,
+          "replies": 25,
+          "quotes": 7,
+          "views": 124305,
+          "bookmarks": 1043
+        },
+        "createdAt": "Fri Jul 03 14:12:03 +0000 2026",
+        "createdAtLocal": "2026-07-03 22:12",
+        "createdAtISO": "2026-07-03T14:12:03+00:00",
+        "media": [],
+        "urls": [
+          "https://www.youtube.com/watch?v=rTc2_-1KuRE"
+        ],
+        "isRetweet": true,
+        "retweetedBy": "karpathy",
+        "lang": "en",
+        "score": null
+      },
+      {
         "id": "2071972062202343590",
         "text": "We're coming out of stealth.\n\nWe've built our first racks after a successful A0 tapeout, $1B+ in customer contracts, and $800m raised.\n\nEarly customer tests show us achieving SOTA throughput, latency, and power efficiency on inference workloads.\n\nOur first racks ship this summer. https://t.co/FLccrkLTza",
         "author": {
@@ -164,12 +194,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 9294,
-          "retweets": 907,
-          "replies": 614,
+          "likes": 9316,
+          "retweets": 910,
+          "replies": 617,
           "quotes": 585,
-          "views": 5857550,
-          "bookmarks": 3598
+          "views": 5878373,
+          "bookmarks": 3605
         },
         "createdAt": "Tue Jun 30 15:00:09 +0000 2026",
         "createdAtLocal": "2026-06-30 23:00",
@@ -199,12 +229,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1817,
+          "likes": 1822,
           "retweets": 230,
           "replies": 176,
           "quotes": 155,
-          "views": 1757717,
-          "bookmarks": 1182
+          "views": 1761349,
+          "bookmarks": 1184
         },
         "createdAt": "Tue Jun 23 17:01:29 +0000 2026",
         "createdAtLocal": "2026-06-24 01:01",
@@ -230,12 +260,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 22921,
+          "likes": 22927,
           "retweets": 1892,
-          "replies": 1292,
-          "quotes": 687,
-          "views": 7802360,
-          "bookmarks": 13912
+          "replies": 1296,
+          "quotes": 688,
+          "views": 7807313,
+          "bookmarks": 13910
         },
         "createdAt": "Tue Jun 23 22:26:31 +0000 2026",
         "createdAtLocal": "2026-06-24 06:26",
@@ -266,12 +296,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 21954,
+          "likes": 21960,
           "retweets": 1024,
           "replies": 393,
           "quotes": 41,
-          "views": 1018934,
-          "bookmarks": 867
+          "views": 1020390,
+          "bookmarks": 869
         },
         "createdAt": "Fri Jun 12 17:45:54 +0000 2026",
         "createdAtLocal": "2026-06-13 01:45",
@@ -282,42 +312,6 @@
         "retweetedBy": null,
         "lang": "en",
         "score": null
-      },
-      {
-        "id": "2064409694761054332",
-        "text": "This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's SOTA on everything by a margin but I'll add that *qualitatively* also, this is a major-version-bump-deserving step change forward (imo of the same order as Claude 4.5 was in November), peaking especially for long problem-solving sessions on very difficult problems. You can give it a lot more ambitious tasks than what you're used to, the model \"gets it\" and it will just go, and it's never felt this tempting to stop looking at the code at all (but don't do this in prod!). The model still has quirks that people will run into and the safeguards are configured to be a little too trigger happy for launch, which can hopefully be tuned over time.\n\nI feel a lot of things changing as working software increasingly comes out on a tap. The Jevon's paradox kicks in and I feel my own demand for software growing substantially. You can ask for anything - explainers, visualizers, dashboards, bespoke single-use apps (e.g. a full wandb that is hyper-specific just for your project), you can 10X your test suite, auto-optimize code, run giant research projects with custom HTML for the results, anything! \"Free your mind\" (Matrix ref). Really looking forward to all the things people build!",
-        "author": {
-          "id": "33836629",
-          "name": "Andrej Karpathy",
-          "screenName": "karpathy",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 25593,
-          "retweets": 2412,
-          "replies": 1335,
-          "quotes": 448,
-          "views": 2898312,
-          "bookmarks": 6330
-        },
-        "createdAt": "Tue Jun 09 18:10:00 +0000 2026",
-        "createdAtLocal": "2026-06-10 02:10",
-        "createdAtISO": "2026-06-09T18:10:00+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2064394151441863006",
-          "text": "Fable 5 is state-of-the-art on nearly all tested benchmarks, with exceptional performance in software engineering, knowledge work, scientific research, and vision.\n\nThe longer and more complex the task, the larger Fable 5’s lead over our other models. https://t.co/DxgSu0KUxh",
-          "author": {
-            "screenName": "claudeai",
-            "name": "Claude"
-          }
-        }
       }
     ],
     "AndrewYNg": [
@@ -332,12 +326,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8098,
-          "retweets": 1542,
-          "replies": 339,
-          "quotes": 151,
-          "views": 555563,
-          "bookmarks": 9975
+          "likes": 8117,
+          "retweets": 1546,
+          "replies": 341,
+          "quotes": 153,
+          "views": 559009,
+          "bookmarks": 9989
         },
         "createdAt": "Tue Jun 30 16:04:04 +0000 2026",
         "createdAtLocal": "2026-07-01 00:04",
@@ -367,11 +361,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1304,
-          "retweets": 276,
-          "replies": 161,
+          "likes": 1307,
+          "retweets": 278,
+          "replies": 165,
           "quotes": 58,
-          "views": 153006,
+          "views": 153480,
           "bookmarks": 394
         },
         "createdAt": "Fri Jun 19 18:34:23 +0000 2026",
@@ -402,11 +396,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 349,
-          "retweets": 49,
+          "likes": 351,
+          "retweets": 50,
           "replies": 54,
           "quotes": 10,
-          "views": 76061,
+          "views": 76310,
           "bookmarks": 201
         },
         "createdAt": "Thu Jun 18 17:00:03 +0000 2026",
@@ -437,12 +431,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1108,
-          "retweets": 147,
+          "likes": 1109,
+          "retweets": 148,
           "replies": 109,
           "quotes": 13,
-          "views": 119089,
-          "bookmarks": 843
+          "views": 119286,
+          "bookmarks": 844
         },
         "createdAt": "Thu Jun 04 16:44:13 +0000 2026",
         "createdAtLocal": "2026-06-05 00:44",
@@ -475,9 +469,9 @@
           "likes": 4521,
           "retweets": 743,
           "replies": 327,
-          "quotes": 143,
-          "views": 563753,
-          "bookmarks": 3456
+          "quotes": 144,
+          "views": 571721,
+          "bookmarks": 3458
         },
         "createdAt": "Mon Jun 01 15:58:45 +0000 2026",
         "createdAtLocal": "2026-06-01 23:58",
@@ -499,26 +493,26 @@
     ],
     "ylecun": [
       {
-        "id": "2072823095178453168",
-        "text": "China added over 543 Gigawatts to their grid last year. 434 GW was renewables because they are faster to build. The U.S. added a paltry 53 GW. We are losing the “AI race” to China because these idiots hate green energy. This is suicide by stupid.",
+        "id": "2073555462524735959",
+        "text": "Come and chat with us in ICML 🥳 Excited to present Temporal Straightening for Latent Planning in the Tuesday morning session #1509. Let’s talk about world models, JEPA and representation learning.",
         "author": {
-          "id": "42518865",
-          "name": "Fred Wellman",
-          "screenName": "FPWellman",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1628885077051539457/KpgyeXAU_normal.jpg",
-          "verified": true
+          "id": "1706062297934733312",
+          "name": "Ying Wang✈️ ICML",
+          "screenName": "yingwww_",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2033749023056924676/efyRnnJc_normal.jpg",
+          "verified": false
         },
         "metrics": {
-          "likes": 15744,
-          "retweets": 4572,
-          "replies": 629,
-          "quotes": 152,
-          "views": 504159,
-          "bookmarks": 782
+          "likes": 20,
+          "retweets": 3,
+          "replies": 0,
+          "quotes": 0,
+          "views": 2897,
+          "bookmarks": 5
         },
-        "createdAt": "Thu Jul 02 23:21:51 +0000 2026",
-        "createdAtLocal": "2026-07-03 07:21",
-        "createdAtISO": "2026-07-02T23:21:51+00:00",
+        "createdAt": "Sat Jul 04 23:52:01 +0000 2026",
+        "createdAtLocal": "2026-07-05 07:52",
+        "createdAtISO": "2026-07-04T23:52:01+00:00",
         "media": [],
         "urls": [],
         "isRetweet": true,
@@ -526,110 +520,54 @@
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2072743412080504921",
-          "text": "I'm thrilled to report that after 35 years, on July 4th, we will end the subsidies for new wind and solar projects, thanks President Trump’s Working Families Tax Cut. https://t.co/OKgFYIIEF8",
+          "id": "2073519032452682149",
+          "text": "Agentic Learning AI Lab @agentic_ai_lab presents at #ICML2026 in Seoul✈️🇰🇷 Come check out our latest research!\n\n📍Main Conference Papers\nTemporal Straightening for Latent Planning\nTue Jul 7 10:30am Hall A #1509\n\nContext Tuning for In-Context Optimization\nWed Jul 8 5pm Hall A #2510\n\n📍Workshop Papers\nThe Surprising Effectiveness of Deleting Weights in LLM Reasoning and Adaptation\nFri Jul 10 Rm 318 | Foundations of Deep Generative Models Workshop\n\nSeeking the Unfamiliar but Memorable: Conceptual Creativity as Meta-Learning\nSat Jul 11 Rm 401 | Human-AI Co-Creativity Workshop\n\nAligning LLMs with Human Uncertainty: A Beta-Bernoulli Calibrator for LLM Forecasting\nSat Jul 11 Gr. Ballroom 104–105 | Forecasting as a New Frontier of Intelligence Workshop\n\nAlive and Predicting: A Live Evaluation of Multi-Step Forecasting Agents\nSat Jul 11 Gr. Ballroom 104–105 | Forecasting as a New Frontier of Intelligence Workshop\n\nSee threads below for details!🧵👇",
           "author": {
-            "screenName": "SecretaryWright",
-            "name": "Secretary Chris Wright"
+            "screenName": "agentic_ai_lab",
+            "name": "agentic learning ai lab"
           }
         }
       },
       {
-        "id": "2072981022581444951",
-        "text": "Using AI to improve cancer immunotherapy outcomes, via training from transcriptomes of 10,000 tumor samples, 33 cancer types @NatureMedicine \nhttps://t.co/Q6UfVQ6wMV",
+        "id": "2073563670437904423",
+        "text": "Warm take: Your world model should never stop learning\n\nIntroducing AdaJEPA, an adaptive WM that plans, acts, and adapts in a closed loop. Every action leads to a new observation, and every transition refines the latent representation and prediction.\n\n📝: https://t.co/85WWwn5QDS https://t.co/kC8E0TO6aW",
         "author": {
-          "id": "86626845",
-          "name": "Eric Topol",
-          "screenName": "EricTopol",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1589325138960318464/2OwvQAWC_normal.jpg",
-          "verified": true
+          "id": "1706062297934733312",
+          "name": "Ying Wang✈️ ICML",
+          "screenName": "yingwww_",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2033749023056924676/efyRnnJc_normal.jpg",
+          "verified": false
         },
         "metrics": {
-          "likes": 376,
-          "retweets": 92,
-          "replies": 15,
-          "quotes": 11,
-          "views": 77913,
-          "bookmarks": 229
+          "likes": 26,
+          "retweets": 8,
+          "replies": 1,
+          "quotes": 1,
+          "views": 2302,
+          "bookmarks": 21
         },
-        "createdAt": "Fri Jul 03 09:49:24 +0000 2026",
-        "createdAtLocal": "2026-07-03 17:49",
-        "createdAtISO": "2026-07-03T09:49:24+00:00",
-        "media": [],
-        "urls": [
-          "https://www.nature.com/articles/s41591-026-04502-7"
-        ],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2073073416114995300",
-        "text": "Are you ready for the open-source AI summer™️? https://t.co/BFex52oxJL",
-        "author": {
-          "id": "186420551",
-          "name": "clem 🤗",
-          "screenName": "ClementDelangue",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 197,
-          "retweets": 32,
-          "replies": 18,
-          "quotes": 3,
-          "views": 35377,
-          "bookmarks": 30
-        },
-        "createdAt": "Fri Jul 03 15:56:32 +0000 2026",
-        "createdAtLocal": "2026-07-03 23:56",
-        "createdAtISO": "2026-07-03T15:56:32+00:00",
+        "createdAt": "Sun Jul 05 00:24:38 +0000 2026",
+        "createdAtLocal": "2026-07-05 08:24",
+        "createdAtISO": "2026-07-05T00:24:38+00:00",
         "media": [
           {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2073073224544325632/vid/avc1/1920x1080/zidu0hdwRlKcjYQc.mp4?tag=28",
-            "width": 1920,
-            "height": 1080
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HMbC3Lna8AAHE-2.jpg",
+            "width": 3641,
+            "height": 4096
           }
         ],
-        "urls": [],
+        "urls": [
+          "https://agenticlearning.ai/adajepa/"
+        ],
         "isRetweet": true,
         "retweetedBy": "ylecun",
         "lang": "en",
         "score": null
       },
       {
-        "id": "2073152550597984441",
-        "text": "I’ve been asked many times over why I keep posting when so many of the replies I receive are personal attacks.\n\nThe answer is actually really simple.\n\nAs scientists, we cannot concede to silence. If we do, we leave space for disinformation to fill the void.  and it will. \n\nScience doesn’t advance by being the loudest voice. But it does depend on people willing to keep speaking out - even and perhaps especially during the most difficult chapters.",
-        "author": {
-          "id": "20721183",
-          "name": "Dr. Catharine Young",
-          "screenName": "DrCatharineY",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2023347976551182336/41yqmEIQ_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 1235,
-          "retweets": 194,
-          "replies": 91,
-          "quotes": 15,
-          "views": 33072,
-          "bookmarks": 35
-        },
-        "createdAt": "Fri Jul 03 21:11:00 +0000 2026",
-        "createdAtLocal": "2026-07-04 05:11",
-        "createdAtISO": "2026-07-03T21:11:00+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2073045340006068269",
-        "text": "Brazenly self-serving: the Trump family’s earnings during his first year in office \"have moved him into an echelon of enrichment more associated with strongmen in Russia and Turkey.\" https://t.co/ETx5mGR99o",
+        "id": "2073524211822272571",
+        "text": "While Trump walked away with a $636 million profit from his crypto venture, nearly 1 million people who bought into it lost a total of $3.81 billion through the end of June. They were probably mostly his MAGA supporters, but to Trump they were suckers. https://t.co/YICLwOmlp9",
         "author": {
           "id": "17839398",
           "name": "Kenneth Roth",
@@ -638,27 +576,163 @@
           "verified": true
         },
         "metrics": {
-          "likes": 115,
-          "retweets": 44,
-          "replies": 6,
-          "quotes": 2,
-          "views": 15706,
-          "bookmarks": 6
+          "likes": 121,
+          "retweets": 61,
+          "replies": 5,
+          "quotes": 3,
+          "views": 9103,
+          "bookmarks": 11
         },
-        "createdAt": "Fri Jul 03 14:04:59 +0000 2026",
-        "createdAtLocal": "2026-07-03 22:04",
-        "createdAtISO": "2026-07-03T14:04:59+00:00",
+        "createdAt": "Sat Jul 04 21:47:50 +0000 2026",
+        "createdAtLocal": "2026-07-05 05:47",
+        "createdAtISO": "2026-07-04T21:47:50+00:00",
         "media": [],
         "urls": [
-          "https://trib.al/imEzjid"
+          "https://trib.al/tQSlpdJ"
         ],
         "isRetweet": true,
         "retweetedBy": "ylecun",
         "lang": "en",
         "score": null
+      },
+      {
+        "id": "2073118767320621424",
+        "text": "Trump’s huge windfall has few known global precedents. His earnings in office are at a level once unimaginable for any leader of a liberal democracy, particularly a sitting American president. https://t.co/VAyUtjUTPD",
+        "author": {
+          "id": "17839398",
+          "name": "Kenneth Roth",
+          "screenName": "KenRoth",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/759478721808068608/F5s3fgyl_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 90,
+          "retweets": 30,
+          "replies": 10,
+          "quotes": 3,
+          "views": 16985,
+          "bookmarks": 4
+        },
+        "createdAt": "Fri Jul 03 18:56:45 +0000 2026",
+        "createdAtLocal": "2026-07-04 02:56",
+        "createdAtISO": "2026-07-03T18:56:45+00:00",
+        "media": [],
+        "urls": [
+          "https://trib.al/lHi86K5"
+        ],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2073387290856955955",
+        "text": "How? Instead of closed-source frontier labs running the same training runs in secret and siloes, open science and open-source AI allows them to mutualize spending and compute making them an order of magnitude more efficient!",
+        "author": {
+          "id": "186420551",
+          "name": "clem 🤗",
+          "screenName": "ClementDelangue",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 312,
+          "retweets": 47,
+          "replies": 44,
+          "quotes": 4,
+          "views": 55995,
+          "bookmarks": 77
+        },
+        "createdAt": "Sat Jul 04 12:43:46 +0000 2026",
+        "createdAtLocal": "2026-07-04 20:43",
+        "createdAtISO": "2026-07-04T12:43:46+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2072756944444461316",
+          "text": "🇺🇸 The United States will spend $1 trillion on AI in 2027. \n\n🇨🇳 China will spend $123 billion and still ship frontier models. \n\nHow? https://t.co/9Sp7ajHC5M",
+          "author": {
+            "screenName": "randgroup",
+            "name": "Rand Group"
+          }
+        }
       }
     ],
     "elonmusk": [
+      {
+        "id": "2073453437123957109",
+        "text": "Elon Musk is an American by blood\n\nHis grandfather, Joshua Haldeman (6’6”) and father to Maye Musk, was born in 1902 in Pequot Lakes, Minnesota, and even paid his way through college by competing in rodeos, the most American thing imaginable. https://t.co/Y57ZfqQceA",
+        "author": {
+          "id": "1614879930885574656",
+          "name": "SMX 🇺🇸",
+          "screenName": "iam_smx",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1785421156859719680/gSkjB7g7_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 7950,
+          "retweets": 1212,
+          "replies": 725,
+          "quotes": 62,
+          "views": 428656,
+          "bookmarks": 387
+        },
+        "createdAt": "Sat Jul 04 17:06:36 +0000 2026",
+        "createdAtLocal": "2026-07-05 01:06",
+        "createdAtISO": "2026-07-04T17:06:36+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HMZi6AQX0AA2sH5.jpg",
+            "width": 845,
+            "height": 1024
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2073454960340300144",
+        "text": "Teslas are the most American-made cars\n\n🇺🇸 Happy 250th birthday, America 🇺🇸 https://t.co/e4NhqSJidx",
+        "author": {
+          "id": "13298072",
+          "name": "Tesla",
+          "screenName": "Tesla",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 14750,
+          "retweets": 2092,
+          "replies": 724,
+          "quotes": 106,
+          "views": 620600,
+          "bookmarks": 262
+        },
+        "createdAt": "Sat Jul 04 17:12:40 +0000 2026",
+        "createdAtLocal": "2026-07-05 01:12",
+        "createdAtISO": "2026-07-04T17:12:40+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HMZkKgdacAAhu4T.jpg",
+            "width": 3027,
+            "height": 1703
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null
+      },
       {
         "id": "2073055723622482347",
         "text": "Project Hail Mary is now on Prime Video, free for Prime members everywhere.\n\nIt’s my favorite movie that I've seen in a long time. Truly outstanding and unique. Phil Lord and Chris Miller pulled off something remarkable, Ryan Gosling is amazing, and none of this happens without Andy Weir’s compelling book.\n\nIf you missed it in theaters, now's your chance. And, if you already saw it, it's an easy way to rewatch.\n\nThink you'll enjoy.",
@@ -670,12 +744,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 4977,
-          "retweets": 572,
-          "replies": 411,
-          "quotes": 56,
-          "views": 613449,
-          "bookmarks": 563
+          "likes": 8058,
+          "retweets": 1283,
+          "replies": 699,
+          "quotes": 84,
+          "views": 1047234,
+          "bookmarks": 932
         },
         "createdAt": "Fri Jul 03 14:46:14 +0000 2026",
         "createdAtLocal": "2026-07-03 22:46",
@@ -705,12 +779,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 6315,
-          "retweets": 1009,
-          "replies": 360,
-          "quotes": 58,
-          "views": 444206,
-          "bookmarks": 816
+          "likes": 10877,
+          "retweets": 2095,
+          "replies": 565,
+          "quotes": 114,
+          "views": 770697,
+          "bookmarks": 1426
         },
         "createdAt": "Sat Jul 04 02:29:39 +0000 2026",
         "createdAtLocal": "2026-07-04 10:29",
@@ -740,87 +814,17 @@
           "verified": true
         },
         "metrics": {
-          "likes": 10878,
-          "retweets": 1301,
-          "replies": 393,
-          "quotes": 58,
-          "views": 555135,
-          "bookmarks": 540
+          "likes": 18656,
+          "retweets": 2420,
+          "replies": 556,
+          "quotes": 90,
+          "views": 922366,
+          "bookmarks": 947
         },
         "createdAt": "Sat Jul 04 04:48:13 +0000 2026",
         "createdAtLocal": "2026-07-04 12:48",
         "createdAtISO": "2026-07-04T04:48:13+00:00",
         "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2073245901016166547",
-        "text": "https://t.co/N4P0qXubBE",
-        "author": {
-          "id": "44196397",
-          "name": "Elon Musk",
-          "screenName": "elonmusk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 45150,
-          "retweets": 8621,
-          "replies": 4236,
-          "quotes": 931,
-          "views": 2850055,
-          "bookmarks": 7316
-        },
-        "createdAt": "Sat Jul 04 03:21:56 +0000 2026",
-        "createdAtLocal": "2026-07-04 11:21",
-        "createdAtISO": "2026-07-04T03:21:56+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2071934765486227456/vid/avc1/3240x2160/_h6wmVX0KSG6wown.mp4?tag=28",
-            "width": 3240,
-            "height": 2160
-          }
-        ],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "zxx",
-        "score": null
-      },
-      {
-        "id": "2073072460761808912",
-        "text": "Precast concrete operation at TBC Dubai. The first phase of Dubai Loop will utilize ~25,000 segments, each weighing ~4,000 pounds.  Total tunnel weight: ~100 million pounds! https://t.co/QPvOYGHq67",
-        "author": {
-          "id": "859816394556284929",
-          "name": "The Boring Company",
-          "screenName": "boringcompany",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2039567764172820480/XfrLCXpv_normal.png",
-          "verified": false
-        },
-        "metrics": {
-          "likes": 5766,
-          "retweets": 1002,
-          "replies": 426,
-          "quotes": 40,
-          "views": 670695,
-          "bookmarks": 165
-        },
-        "createdAt": "Fri Jul 03 15:52:45 +0000 2026",
-        "createdAtLocal": "2026-07-03 23:52",
-        "createdAtISO": "2026-07-03T15:52:45+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HMUIas5bAAAJ4Ex.jpg",
-            "width": 942,
-            "height": 1232
-          }
-        ],
         "urls": [],
         "isRetweet": true,
         "retweetedBy": "elonmusk",
@@ -843,8 +847,8 @@
           "likes": 272,
           "retweets": 22,
           "replies": 31,
-          "quotes": 7,
-          "views": 44098,
+          "quotes": 8,
+          "views": 44640,
           "bookmarks": 113
         },
         "createdAt": "Wed Jul 01 15:12:14 +0000 2026",
@@ -876,11 +880,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1614,
-          "retweets": 222,
-          "replies": 68,
+          "likes": 1618,
+          "retweets": 221,
+          "replies": 69,
           "quotes": 30,
-          "views": 181674,
+          "views": 182707,
           "bookmarks": 1154
         },
         "createdAt": "Tue Jun 30 17:07:49 +0000 2026",
@@ -915,7 +919,7 @@
           "retweets": 2,
           "replies": 4,
           "quotes": 1,
-          "views": 17928,
+          "views": 18085,
           "bookmarks": 39
         },
         "createdAt": "Tue Jun 30 17:07:50 +0000 2026",
@@ -950,11 +954,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 3847,
-          "retweets": 571,
+          "likes": 3845,
+          "retweets": 570,
           "replies": 187,
           "quotes": 151,
-          "views": 651376,
+          "views": 651766,
           "bookmarks": 2024
         },
         "createdAt": "Tue Jun 16 16:31:58 +0000 2026",
@@ -989,7 +993,7 @@
           "retweets": 18,
           "replies": 5,
           "quotes": 2,
-          "views": 46100,
+          "views": 46161,
           "bookmarks": 100
         },
         "createdAt": "Tue Jun 16 16:31:58 +0000 2026",
