@@ -1,0 +1,22 @@
+{
+  "title": "Show HN: Osint tool that finds exposed files on domains",
+  "score": 11,
+  "comments": 0,
+  "url": "https://search.cerast-intelligence.com/",
+  "hn_url": "https://news.ycombinator.com/item?id=48797656",
+  "tag": "ShowHN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该工具是一款开源情报（OSINT）工具，专注于自动发现域名上意外暴露的文件（如配置文件、备份、日志等），帮助安全团队快速识别数据泄露风险。技术要点包括自动化爬取、文件类型智能识别和域名关联分析；商业价值体现在降低安全审计成本、提升漏洞响应速度；产品创新在于将传统手动OSINT流程转化为可扩展的自动化服务，为AI驱动的安全监测提供数据基础。",
+  "pm_relevance": 5,
+  "concepts": [
+    "OSINT",
+    "暴露文件检测",
+    "自动化安全扫描"
+  ],
+  "entities": [],
+  "patterns": [
+    "自动化扫描模式",
+    "OSINT工具模式"
+  ]
+}

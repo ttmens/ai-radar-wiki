@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-06 | Total pages: 2219
+> Last updated: 2026-07-06 | Total pages: 2227
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -59,6 +59,7 @@
 - [[ai-search-startups-are-blowing-up.md]] AI search startups are blowing up `pillar:capabilities` `score:0.515`
 - [[ai-tools-are-only-as-good-as-your-judgment.md]] AI tools are only as good as your judgment `pillar:capabilities` `score:0.43`
 - [[ai-will-be-used-to-estimate-age-of-asylum-seekers-from-next-year.md]] AI will be used to estimate age of asylum seekers from next year `pillar:capabilities` `score:0.345`
+- [[airplane-boneyards-list-and-map.md]] Airplane Boneyards List and Map `pillar:capabilities` `score:0.17`
 - [[airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india.md]] AirTrunk commits $30B to build 5GW of AI data centers in India `pillar:capabilities` `score:0.445`
 - [[akse3d-open-source-3d-modelling-anyone-can-master.md]] Akse3D – open-source 3D modelling anyone can master `pillar:capabilities` `score:0.36`
 - [[algebraic-effects-for-the-rest-of-us.md]] Algebraic Effects for the Rest of Us `pillar:capabilities` `score:0.255`
@@ -71,6 +72,7 @@
 - [[alphacepvosk-api.md]] alphacep/vosk-api `pillar:capabilities` `score:0.58`
 - [[amazon-now-lets-you-design-custom-merch-using-ai.md]] Amazon now lets you design custom merch using AI `pillar:capabilities` `score:0.48`
 - [[amazon-will-show-ai-product-images-when-you-search-for-some-reason.md]] Amazon will show AI product images when you search for some reason `pillar:capabilities` `score:0.515`
+- [[amazon-will-stop-accepting-new-customers-for-mechanical-turk.md]] Amazon will stop accepting new customers for Mechanical Turk `pillar:capabilities` `score:0.48`
 - [[an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry.md]] An OpenAI model has disproved a central conjecture in discrete geometry `pillar:capabilities` `score:0.63`
 - [[anatomy-of-a-failed-nation-state-attack.md]] Anatomy of a Failed (Nation-State?) Attack `pillar:capabilities` `score:0.345`
 - [[ancient-genome-duplications-laid-the-foundations-of-complex-brains.md]] Ancient genome duplications laid the foundations of complex brains `pillar:capabilities` `score:0.225`
@@ -405,6 +407,7 @@
 - [[more-than-6-out-of-10-people-turn-to-ai-for-psychological-support.md]] More than 6 out of 10 people turn to AI for psychological support `pillar:capabilities` `score:0.515`
 - [[mouse-precision-editing-tools-for-ai-coding-agents.md]] Mouse: Precision Editing Tools for AI Coding Agents `pillar:capabilities` `score:0.38`
 - [[moving-away-from-tailwind-and-learning-to-structure-my-css.md]] Moving away from Tailwind, and learning to structure my CSS `pillar:capabilities` `score:0.355`
+- [[mr-baby-paint-and-accidentally-discovering-a-new-cellular-automata.md]] Mr. Baby Paint and accidentally discovering a new cellular automata `pillar:capabilities` `score:0.24`
 - [[msi-center-how-to-gain-system-privileges-in-seconds.md]] MSI Center – How to gain SYSTEM privileges in seconds `pillar:capabilities` `score:0.295`
 - [[mudlerlocalai.md]] mudler/LocalAI `pillar:capabilities` `score:0.405`
 - [[multi-agent-llm-system-for-automated-vulnerability-discovery-and-reproduction.md]] Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction `pillar:capabilities` `score:0.33`
@@ -422,6 +425,7 @@
 - [[netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster.md]] Netris raises $15M Series A from a16z to help AI neoclouds go live faster `pillar:capabilities` `score:0.445`
 - [[neural-render-proxies-for-interactive-and-differentiable-lighting.md]] Neural Render Proxies for Interactive and Differentiable Lighting `pillar:capabilities` `score:0.295`
 - [[neutron-scattering-explains-why-gluten-free-pasta-falls-apart-2025.md]] Neutron scattering explains why gluten-free pasta falls apart (2025) `pillar:capabilities` `score:0.22`
+- [[new-ai-tutor-achieves-071-130-sd-effect-size-in-dartmouth-course-pdf.md]] New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf] `pillar:capabilities` `score:0.48`
 - [[new-google-commercial-imagines-a-declaration-of-independence-written-with-help-f.md]] New Google commercial imagines a Declaration of Independence written with help f `pillar:capabilities` `score:0.445`
 - [[new-serious-vulnerabilities-spiked-around-release-of-claude-mythos-preview.md]] New serious vulnerabilities spiked around release of Claude Mythos Preview `pillar:capabilities` `score:0.38`
 - [[nndlnndl.md]] nndl/nndl `pillar:capabilities` `score:0.51`
@@ -580,6 +584,7 @@
 - [[show-hn-open-source-ai-racing-harness.md]] Show HN: Open-Source AI Racing Harness `pillar:capabilities` `score:0.295`
 - [[show-hn-open-source-version-of-anthropics-internal-analytics-engine.md]] Show HN: Open-source version of Anthropic's internal analytics engine `pillar:capabilities` `score:0.33`
 - [[show-hn-open-source-workspace-maildocsspreadsheetdrive-webios.md]] Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS `pillar:capabilities` `score:0.36`
+- [[show-hn-osint-tool-that-finds-exposed-files-on-domains.md]] Show HN: Osint tool that finds exposed files on domains `pillar:capabilities` `score:0.225`
 - [[show-hn-overfitted-a-900kb-transformer-to-compress-a-100mb-csv-into-7mb.md]] Show HN: Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB `pillar:capabilities` `score:0.445`
 - [[show-hn-paca-lightweight-jira-alternative-for-human-ai-collaboration.md]] Show HN: Paca – Lightweight Jira alternative for human-AI collaboration `pillar:capabilities` `score:0.43`
 - [[show-hn-posthorn-self-hosted-mail-without-the-mail-server.md]] Show HN: Posthorn, self-hosted mail without the mail server `pillar:capabilities` `score:0.31`
@@ -1228,6 +1233,7 @@
 - [[ask-hn-what-are-tools-you-have-made-for-yourself-since-the-advent-of-ai.md]] Ask HN: What are tools you have made for yourself since the advent of AI? `pillar:patterns` `score:0.5`
 - [[ask-hn-what-is-your-ai-dev-tech-stack-workflow.md]] Ask HN: What is your (AI) dev tech stack / workflow? `pillar:patterns` `score:0.495`
 - [[astrbotdevsastrbot.md]] AstrBotDevs/AstrBot `pillar:patterns` `score:0.58`
+- [[autonomous-flying-umbrella-follows-and-shields-users-from-rain-and-sunlight.md]] Autonomous flying umbrella follows and shields users from rain and sunlight `pillar:patterns` `score:0.395`
 - [[best-brain-for-agents-is-just-versioned-folders-of-markdown-files.md]] Best "Brain" for Agents Is Just Versioned Folders of Markdown Files `pillar:patterns` `score:0.365`
 - [[better-models-worse-tools.md]] Better Models: Worse Tools `pillar:patterns` `score:0.48`
 - [[browser-usebrowser-use.md]] browser-use/browser-use `pillar:patterns` `score:0.615`
@@ -1728,6 +1734,7 @@
 - [[qian-xuesen-the-missile-genius-america-lost-and-china-gained-2025.md]] Qian Xuesen: The missile genius America lost and China gained (2025) `pillar:ecosystem` `score:0.255`
 - [[railway-blocked-by-google-cloud.md]] Railway Blocked by Google Cloud `pillar:ecosystem` `score:0.565`
 - [[removeaiwatermarks-cli-and-library-for-removing-ai-watermarks-from-images.md]] Remove–AI–Watermarks – CLI and library for removing AI watermarks from images `pillar:ecosystem` `score:0.495`
+- [[reparaible-and-open-source-paper-printer.md]] Reparaible and open source paper printer `pillar:ecosystem` `score:0.29`
 - [[research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the.md]] Research repository ArXiv will ban authors for a year if they let AI do all the `pillar:ecosystem` `score:0.445`
 - [[roelof-botha-joins-spacex8217s-board-of-directors.md]] Roelof Botha joins SpaceX&#8217;s board of directors `pillar:ecosystem` `score:0.27`
 - [[rubyllm-a-single-beautiful-ruby-framework-for-all-major-ai-providers.md]] RubyLLM: A single, beautiful Ruby framework for all major AI providers `pillar:ecosystem` `score:0.395`
@@ -1809,6 +1816,7 @@
 - [[we-stopped-ai-bot-spam-in-our-github-repo-using-gits-author-flag.md]] We stopped AI bot spam in our GitHub repo using Git's –author flag `pillar:ecosystem` `score:0.345`
 - [[what-is-mistral-ai-everything-to-know-about-the-openai-competitor.md]] What is Mistral AI? Everything to know about the OpenAI competitor `pillar:ecosystem` `score:0.48`
 - [[when-the-trump-administration-cracks-down-on-anthropic-who-benefits.md]] When the Trump administration cracks down on Anthropic, who benefits? `pillar:ecosystem` `score:0.445`
+- [[why-dmarcs-new-np-tag-can-fail-with-dnssec.md]] Why DMARC's new "NP" tag can fail with DNSSEC `pillar:ecosystem` `score:0.19`
 - [[why-eval-startups-fail-2025.md]] Why eval startups fail (2025) `pillar:ecosystem` `score:0.445`
 - [[why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-th.md]] Why everyone from OpenAI to SpaceX is building their own chips (and turning up t `pillar:ecosystem` `score:0.515`
 - [[wikipedia-workers-in-britain-set-global-first-by-seeking-union-recognition.md]] Wikipedia Workers in Britain set global first by seeking union recognition `pillar:ecosystem` `score:0.41`

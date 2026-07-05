@@ -2469,3 +2469,13 @@
 
 ## [2026-07-06 00:01] sync v3 | 1 new | pillars: {'capabilities': 1}
 - create: claude-design-system-prompt.md
+
+## [2026-07-06 06:01] sync v3 | 8 new | pillars: {'ecosystem': 1, 'capabilities': 6, 'patterns': 1}
+- create: reparaible-and-open-source-paper-printer.md
+- create: new-ai-tutor-achieves-071-130-sd-effect-size-in-dartmouth-course-pdf.md
+- create: mr-baby-paint-and-accidentally-discovering-a-new-cellular-automata.md
+- create: airplane-boneyards-list-and-map.md
+- create: why-dmarcs-new-np-tag-can-fail-with-dnssec.md
+- create: autonomous-flying-umbrella-follows-and-shields-users-from-rain-and-sunlight.md
+- create: amazon-will-stop-accepting-new-customers-for-mechanical-turk.md
+- create: show-hn-osint-tool-that-finds-exposed-files-on-domains.md

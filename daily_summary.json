@@ -2,40 +2,115 @@
   "daily_summary": {
     "date": "2026-07-06",
     "headline": "今日 AI 情报 · 2026-07-06",
-    "overview": "提示词工程成为AI产品能力层基础设施的关键",
+    "overview": "AI产品经理的核心能力从模型调优转向全栈系统设计，数据、安全、硬件与底层协议同步进化。",
     "narratives": [
       {
-        "title": "AI产品能力层基础设施：提示词工程作为核心差异化工具",
-        "body": "今日情报聚焦于Claude的设计系统提示词技术，提示词工程从辅助性技能升级为产品能力层的基础设施。这意味着AI产品的品牌一致性、安全性和用户体验将越来越依赖精心设计的系统提示，产品经理需要将其视为与前端UI同等重要的“隐形界面”。后续发展可能催生提示词设计工具和版本管理生态。",
-        "type": "maturation",
+        "title": "AI能力层基础设施迭代，产品经理需掌握提示工程、安全审计与数据素养",
+        "body": "Amazon关闭MTurk新客户、Claude设计系统提示词的兴起、OSINT自动化工具的涌现，共同标志着AI产品经理的工作重心正从模型调优转向能力层的系统设计。数据采集从众包转向合成/主动学习，提示词工程成为产品差异化关键，安全审计工具化要求PM具备更深的底层技能。这一范式转变意味着产品创新的瓶颈将从模型能力转移到可控性、安全性和数据质量上。",
+        "type": "paradigm_shift",
         "pillar_key": "capabilities"
+      },
+      {
+        "title": "AI自主硬件与开源生态推动消费级产品创新",
+        "body": "自主飞伞无人机将AI视觉与执行器结合，解决了传统雨具的双手占用痛点，验证了AI在消费级硬件中的落地潜力；同时开源可修复打印机项目展示了硬件民主化趋势，使AI生成内容拥有物理输出终端。这两个方向提示PM：硬件+AI的集成产品正在从概念走向实用，但需要同时解决续航、法规、成本与维修可持续性等商业化挑战。",
+        "type": "maturation",
+        "pillar_key": "patterns"
+      },
+      {
+        "title": "底层协议与开源工具生态为AI系统稳健性提供基础",
+        "body": "DMARC与DNSSEC的兼容性问题被深入剖析，表明邮件安全AI系统必须理解底层协议交互；开源打印机项目强调透明设计与用户自主维修，为AI硬件生态的可持续发展提供了参考。这些信号说明，AI产品经理不可忽视协议层与工具链的稳健性，它们直接影响产品安全性和长期维护成本。",
+        "type": "validation",
+        "pillar_key": "ecosystem"
       }
     ],
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "narrative_title": "AI产品能力层基础设施：提示词工程作为核心差异化工具",
-        "insight": "AI产品能力层基础设施：提示词工程作为核心差异化工具。该方向的具体信号：Claude Design System Prompt技术将系统提示词作为控制AI行为、语气和输出的核心手段，PM需将提示词工程纳入产品架构设计，以实现差异化体验和安全合规。",
+        "narrative_title": "AI能力层基础设施迭代，产品经理需掌握提示工程、安全审计与数据素养",
+        "insight": "AI能力层基础设施迭代，产品经理需掌握提示工程、安全审计与数据素养。该方向的具体信号：Amazon关闭MTurk新客户意味着大厂正向合成数据与内部标注转型，产品经理需重新设计数据获取策略；Claude设计系统提示词技术凸显了提示工程作为产品差异化的核心手段；OSINT工具将安全审计自动化，PM应将其集成到产品监控中；细胞自动机意外发现暗示底层算法可能带来新型生成式能力；全球飞机坟场数据结构化则为CV与地理空间模型提供训练资源，表明数据基础设施正在多元化和精细化。",
         "evidence": [
           {
-            "id": "claude-design-system-prompt",
-            "title": "Claude设计系统提示词技术：控制AI助手行为与品牌一致性的核心基础设施",
+            "id": "amazon-will-stop-accepting-new-customers-for-mechanical-turk",
+            "title": "Amazon停止接受MTurk新客户，众包数据模式转型",
             "score": 0.48
+          },
+          {
+            "id": "claude-design-system-prompt",
+            "title": "Claude设计系统提示词技术成为产品能力层基础设施",
+            "score": 0.48
+          }
+        ]
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI自主硬件与开源生态推动消费级产品创新",
+        "insight": "AI自主硬件与开源生态推动消费级产品创新。该方向的具体信号：自主飞伞无人机将AI视觉与无人机技术结合，解决了传统雨具的双手占用问题并扩展防晒功能，是AI在消费级硬件落地的一个高价值案例；但续航、噪音、法规与成本仍是商业化门槛，PM需在场景选择上聚焦高端出行、户外婚礼等容忍度较高的市场。",
+        "evidence": [
+          {
+            "id": "autonomous-flying-umbrella-follows-and-shields-users-from-rain-and-sunlight",
+            "title": "自主飞行跟随式雨伞，AI无人机+传统雨具",
+            "score": 0.4
+          }
+        ]
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "底层协议与开源工具生态为AI系统稳健性提供基础",
+        "insight": "底层协议与开源工具生态为AI系统稳健性提供基础。该方向的具体信号：DMARC的NP标签与DNSSEC的兼容性问题揭示了邮件安全AI系统必须理解底层协议交互，否则可能导致误判；开源可修复打印机项目体现了硬件民主化和可持续性，为AI生成内容的物理输出终端提供了开放的生态基础，PM应在硬件选型和协议对接中注重兼容性与可维护性。",
+        "evidence": [
+          {
+            "id": "why-dmarcs-new-np-tag-can-fail-with-dnssec",
+            "title": "DMARC新NP标签与DNSSEC兼容性分析",
+            "score": 0.19
           }
         ]
       }
     ],
-    "stats": "技术能力: 1 | 产品模式: 0 | 工具生态: 0 | 商业趋势: 0",
-    "total_items": 1,
-    "high_value_count": 1,
+    "stats": "技术能力: 6 | 产品模式: 1 | 工具生态: 2 | 商业趋势: 0",
+    "total_items": 9,
+    "high_value_count": 4,
     "all_today_ids": [
+      {
+        "id": "amazon-will-stop-accepting-new-customers-for-mechanical-turk",
+        "label": "Amazon will stop accepting new customers for Mechanical Turk"
+      },
+      {
+        "id": "new-ai-tutor-achieves-071-130-sd-effect-size-in-dartmouth-course-pdf",
+        "label": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]"
+      },
       {
         "id": "claude-design-system-prompt",
         "label": "Claude Design System Prompt"
+      },
+      {
+        "id": "autonomous-flying-umbrella-follows-and-shields-users-from-rain-and-sunlight",
+        "label": "Autonomous flying umbrella follows and shields users from rain and sunlight"
+      },
+      {
+        "id": "reparaible-and-open-source-paper-printer",
+        "label": "Reparaible and open source paper printer"
+      },
+      {
+        "id": "mr-baby-paint-and-accidentally-discovering-a-new-cellular-automata",
+        "label": "Mr. Baby Paint and accidentally discovering a new cellular automata"
+      },
+      {
+        "id": "show-hn-osint-tool-that-finds-exposed-files-on-domains",
+        "label": "Show HN: Osint tool that finds exposed files on domains"
+      },
+      {
+        "id": "why-dmarcs-new-np-tag-can-fail-with-dnssec",
+        "label": "Why DMARC's new \"NP\" tag can fail with DNSSEC"
+      },
+      {
+        "id": "airplane-boneyards-list-and-map",
+        "label": "Airplane Boneyards List and Map"
       }
     ],
     "date_bj": "2026-07-06 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-07-06 00:01:40"
+    "generated_at_bj": "2026-07-06 06:00:59"
   }
 }

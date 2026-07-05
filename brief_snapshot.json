@@ -1,8 +1,30 @@
 {
   "date": "2026-07-06",
-  "generated_at": "2026-07-06T00:01:48.326414+08:00",
-  "item_count": 1,
+  "generated_at": "2026-07-06T06:01:37.353069+08:00",
+  "item_count": 4,
   "items": [
+    {
+      "id": "amazon-will-stop-accepting-new-customers-for-mechanical-turk",
+      "label": "Amazon will stop accepting new customers for Mechanical Turk",
+      "summary": "亚马逊宣布不再接受Mechanical Turk新客户，这可能意味着这一经典众包平台即将落幕。对于AI产品经理而言，MTurk曾是获取训练数据、进行模型验证的核心工具之一。此举反映出大厂对数据采集模式正在重新评估：人工标注成本高、质量难控，叠加对数据隐私和伦理的更高要求，企业可能加速转向合成数据、主动学习或内部标注团队。商业上看，MTurk停止增长或预示众包模式在AI训练中的角色减弱，产品经理需关注替代方案对模型迭代速度和数据多样性的影响。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "date": "2026-07-06"
+    },
+    {
+      "id": "new-ai-tutor-achieves-071-130-sd-effect-size-in-dartmouth-course-pdf",
+      "label": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "summary": "达特茅斯学院课程中部署的新型AI导师，经评估产生了0.71至1.30标准差的效果量（effect size），远高于传统教学干预的平均效果。这表明该AI系统能显著提升学生学习成效，尤其在个性化辅导、即时反馈和自适应学习路径方面展现强大能力。对AI产品经理而言，该案例验证了AI在教育领域的高效性，为开发智能辅导工具提供了实证基础。商业价值在于可复制到K-12、高等教育及职业培训市场，产品创新点在于量化学习效果并实现大规模个性化教学。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48796817",
+      "date": "2026-07-06"
+    },
     {
       "id": "claude-design-system-prompt",
       "label": "Claude Design System Prompt",
@@ -13,10 +35,21 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48792399",
       "date": "2026-07-06"
+    },
+    {
+      "id": "autonomous-flying-umbrella-follows-and-shields-users-from-rain-and-sunlight",
+      "label": "Autonomous flying umbrella follows and shields users from rain and sunlight",
+      "summary": "该产品为一款自主飞行的跟随式雨伞，利用AI视觉与无人机技术实现实时追踪用户位置，自动调整高度与角度以遮挡雨水或阳光。其核心创新在于将传统雨具与无人机结合，解决了手持雨伞的双手占用问题，并扩展了防晒功能。从PM视角看，该产品体现了AI在消费级硬件中的落地潜力，但需关注续航、噪音、安全法规及成本控制等商业化挑战。商业价值可瞄准高端出行、户外婚礼、景区服务等场景。",
+      "pm_score": 0.395,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48795174",
+      "date": "2026-07-06"
     }
   ],
   "graph_totals": {
-    "real_nodes": 2946,
-    "edges": 3239
+    "real_nodes": 2968,
+    "edges": 3261
   }
 }

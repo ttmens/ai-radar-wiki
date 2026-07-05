@@ -1,0 +1,25 @@
+---
+title: Airplane Boneyards List and Map
+created: 2026-07-06
+updated: 2026-07-06
+type: entity
+pillar: capabilities
+pm_score: 0.17
+tags: ["discussion", "hacker-news", "capabilities"]
+sources: ["raw/hn/airplane-boneyards-list-and-map.json"]
+---
+
+# Airplane Boneyards List and Map
+
+## 中文摘要
+《Airplane Boneyards List and Map》是一个提供全球飞机坟场位置与信息的资源，可能包含地图、列表和状态数据。对于AI产品经理而言，这类数据集可支持计算机视觉模型训练（如识别废弃飞机）、地理空间分析或资产追踪应用。技术上涉及开放数据整合、地图渲染与语义标注，商业上可用于航空维修、保险评估或旅游导览。产品创新点在于将分散的航空退役信息结构化并可视化，降低行业数据获取门槛。
+
+## PM 关注指标
+- 🔥 HN Score: 72
+- 💬 Comments: 12
+- 🎯 PM Score: 0.17
+- 🏷️ Pillar: capabilities
+
+## 链接
+- 🔗 HN 讨论: https://news.ycombinator.com/item?id=48786284
+- 🔗 原文: https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm
