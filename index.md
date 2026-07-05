@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-05 | Total pages: 2218
+> Last updated: 2026-07-06 | Total pages: 2219
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -133,6 +133,7 @@
 - [[claude-code-everything-you-can-configure-that-the-docs-dont-tell-you.md]] Claude Code – Everything You Can Configure That the Docs Don't Tell You `pillar:capabilities` `score:0.43`
 - [[claude-code-is-steganographically-marking-requests.md]] Claude Code Is Steganographically Marking Requests `pillar:capabilities` `score:0.295`
 - [[claude-corps.md]] Claude Corps `pillar:capabilities` `score:0.355`
+- [[claude-design-system-prompt.md]] Claude Design System Prompt `pillar:capabilities` `score:0.48`
 - [[claude-desktop-spawns-18-gb-hyper-v-vm-on-every-launch-even-for-chat-only-use.md]] Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use `pillar:capabilities` `score:0.6`
 - [[claude-fable-5-mid-tier-results-on-coding-tasks.md]] Claude Fable 5: mid-tier results on coding tasks `pillar:capabilities` `score:0.495`
 - [[claude-fable-5.md]] Claude Fable 5 `pillar:capabilities` `score:0.61`

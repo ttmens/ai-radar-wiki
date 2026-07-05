@@ -2466,3 +2466,6 @@
 - create: record-breaking-solo-rower-kelsey-pfendler-arrives-in-hawaii.md
 - create: sqlite-utils-40rc2-mostly-written-by-claude-fable-for-about-14925.md
 - create: mouse-precision-editing-tools-for-ai-coding-agents.md
+
+## [2026-07-06 00:01] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: claude-design-system-prompt.md
