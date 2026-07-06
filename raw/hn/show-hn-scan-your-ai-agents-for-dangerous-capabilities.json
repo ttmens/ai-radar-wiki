@@ -1,0 +1,24 @@
+{
+  "title": "Show HN: Scan your AI agents for dangerous capabilities",
+  "score": 32,
+  "comments": 17,
+  "url": "https://github.com/makerchecker/MakerChecker",
+  "hn_url": "https://news.ycombinator.com/item?id=48804182",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "该工具旨在扫描AI代理的潜在危险能力，帮助开发者识别和评估其智能系统可能带来的安全风险。技术要点包括自动化检测模型的越狱、恶意指令执行等漏洞；商业价值体现在满足企业AI合规与安全审计需求，降低部署风险；产品创新在于提供轻量级扫描接口，可集成到开发流程中，实现持续安全监控。",
+  "pm_relevance": 9,
+  "concepts": [
+    "AI Safety",
+    "Capability Scanning",
+    "Agent Security"
+  ],
+  "entities": [],
+  "patterns": [
+    "Safety Evaluation Pattern",
+    "Agent Auditing Pattern"
+  ]
+}

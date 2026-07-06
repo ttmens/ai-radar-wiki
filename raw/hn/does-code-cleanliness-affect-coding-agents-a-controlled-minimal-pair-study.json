@@ -1,0 +1,24 @@
+{
+  "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
+  "score": 125,
+  "comments": 69,
+  "url": "https://arxiv.org/abs/2605.20049",
+  "hn_url": "https://news.ycombinator.com/item?id=48798815",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "该研究通过受控的最小对实验，探究代码整洁度（如命名规范、注释、结构）对AI编码代理性能的影响。初步结果表明，整洁代码能显著提升代理的任务完成准确率和效率，减少错误识别。这对AI辅助编程产品（如Copilot、Cursor）的优化具有指导意义：产品经理可优先推动代码质量检测功能，或引导用户采用整洁代码风格以增强代理表现。商业价值在于降低调试成本、提高开发者体验，进而提升工具付费转化率。",
+  "pm_relevance": 8,
+  "concepts": [
+    "代码整洁度",
+    "编码代理",
+    "受控实验"
+  ],
+  "entities": [],
+  "patterns": [
+    "AI辅助编码",
+    "代码质量影响评估"
+  ]
+}

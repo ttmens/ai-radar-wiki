@@ -1,0 +1,21 @@
+{
+  "title": "Show HN: Visualize Model Spikiness in 3D",
+  "score": 16,
+  "comments": 3,
+  "url": "https://www.modelmap.tech/",
+  "hn_url": "https://news.ycombinator.com/item?id=48766556",
+  "tag": "ShowHN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该项目展示了在3D空间中可视化模型“尖峰”（Spikiness）的能力，即为模型输出中的异常或高响应区域提供直观的空间表示。技术要点在于利用三维图形技术将模型行为的局部变化（如注意力集中、激活值突变）立体呈现，帮助开发者快速定位模型不稳定或过度拟合的区域。商业价值体现在提升模型调试和可解释性效率，降低AI产品上线前的风险排查成本。产品创新在于将传统二维指标图升级为可交互的3D模型，增强对复杂神经网络行为的理解，尤其适用于大语言模型或视觉模型的性能分析。",
+  "pm_relevance": 6,
+  "concepts": [
+    "模型可视化",
+    "模型诊断",
+    "3D可视化"
+  ],
+  "entities": [],
+  "patterns": [
+    "可视化模式"
+  ]
+}

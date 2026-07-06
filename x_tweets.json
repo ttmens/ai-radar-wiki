@@ -1,8 +1,36 @@
 {
-  "fetched_at": "2026-07-05T21:01:02.228916",
+  "fetched_at": "2026-07-06T21:00:45.885252",
   "source": "twitter-cli",
   "data": {
     "sama": [
+      {
+        "id": "2073791666553844074",
+        "text": "our older kid put two words together for the first time and i am approximately as amazed by this cognitive feat as i am by GPT-5.6 discovering new math",
+        "author": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screenName": "sama",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 11679,
+          "retweets": 312,
+          "replies": 1201,
+          "quotes": 209,
+          "views": 1425279,
+          "bookmarks": 666
+        },
+        "createdAt": "Sun Jul 05 15:30:37 +0000 2026",
+        "createdAtLocal": "2026-07-05 23:30",
+        "createdAtISO": "2026-07-05T15:30:37+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
       {
         "id": "2073635910512726444",
         "text": "grateful to the people that created the idea of america, everyone who built it over the past 250 years, and the people who will carry it forward for the next 250.\n\nmost impressive social experiment in history.",
@@ -14,12 +42,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 5398,
-          "retweets": 206,
-          "replies": 467,
-          "quotes": 42,
-          "views": 280749,
-          "bookmarks": 213
+          "likes": 8630,
+          "retweets": 312,
+          "replies": 570,
+          "quotes": 55,
+          "views": 491033,
+          "bookmarks": 351
         },
         "createdAt": "Sun Jul 05 05:11:42 +0000 2026",
         "createdAtLocal": "2026-07-05 13:11",
@@ -42,12 +70,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 861,
-          "retweets": 33,
-          "replies": 95,
-          "quotes": 12,
-          "views": 88396,
-          "bookmarks": 37
+          "likes": 1206,
+          "retweets": 43,
+          "replies": 124,
+          "quotes": 14,
+          "views": 144606,
+          "bookmarks": 53
         },
         "createdAt": "Sun Jul 05 05:12:04 +0000 2026",
         "createdAtLocal": "2026-07-05 13:12",
@@ -70,12 +98,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 14240,
-          "retweets": 368,
-          "replies": 698,
+          "likes": 14303,
+          "retweets": 367,
+          "replies": 703,
           "quotes": 50,
-          "views": 714058,
-          "bookmarks": 402
+          "views": 736589,
+          "bookmarks": 403
         },
         "createdAt": "Thu Jul 02 20:04:57 +0000 2026",
         "createdAtLocal": "2026-07-03 04:04",
@@ -98,12 +126,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 691,
-          "retweets": 109,
-          "replies": 144,
+          "likes": 704,
+          "retweets": 111,
+          "replies": 149,
           "quotes": 12,
-          "views": 250445,
-          "bookmarks": 83
+          "views": 265359,
+          "bookmarks": 85
         },
         "createdAt": "Fri Jun 26 15:43:11 +0000 2026",
         "createdAtLocal": "2026-06-26 23:43",
@@ -114,42 +142,6 @@
         "retweetedBy": "sama",
         "lang": "en",
         "score": null
-      },
-      {
-        "id": "2070614666288795703",
-        "text": "team cooked, spicily",
-        "author": {
-          "id": "1605",
-          "name": "Sam Altman",
-          "screenName": "sama",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 4917,
-          "retweets": 159,
-          "replies": 411,
-          "quotes": 40,
-          "views": 936455,
-          "bookmarks": 212
-        },
-        "createdAt": "Fri Jun 26 21:06:21 +0000 2026",
-        "createdAtLocal": "2026-06-27 05:06",
-        "createdAtISO": "2026-06-26T21:06:21+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2069770172802773292",
-          "text": "We’ve designed and built our first AI chip: Jalapeño.\n\nDesigned from the ground up by OpenAI and brought to production with @Broadcom, Jalapeño is purpose-built for the LLM workloads powering ChatGPT, Codex, the API, and future agentic products.\n\nChips are foundational to the AI economy. Building our own expands our full-stack platform from products to models to infrastructure, and will help us scale intelligence, serve more people, and expand access to AI.",
-          "author": {
-            "screenName": "OpenAI",
-            "name": "OpenAI"
-          }
-        }
       }
     ],
     "karpathy": [
@@ -164,12 +156,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1147,
-          "retweets": 92,
-          "replies": 37,
-          "quotes": 8,
-          "views": 240852,
-          "bookmarks": 1944
+          "likes": 1308,
+          "retweets": 110,
+          "replies": 44,
+          "quotes": 11,
+          "views": 330213,
+          "bookmarks": 2221
         },
         "createdAt": "Fri Jul 03 14:12:03 +0000 2026",
         "createdAtLocal": "2026-07-03 22:12",
@@ -194,12 +186,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 9331,
-          "retweets": 913,
-          "replies": 616,
-          "quotes": 586,
-          "views": 5893170,
-          "bookmarks": 3606
+          "likes": 9356,
+          "retweets": 916,
+          "replies": 622,
+          "quotes": 589,
+          "views": 5927666,
+          "bookmarks": 3613
         },
         "createdAt": "Tue Jun 30 15:00:09 +0000 2026",
         "createdAtLocal": "2026-06-30 23:00",
@@ -229,12 +221,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1832,
-          "retweets": 231,
+          "likes": 1842,
+          "retweets": 234,
           "replies": 177,
-          "quotes": 155,
-          "views": 1764536,
-          "bookmarks": 1185
+          "quotes": 156,
+          "views": 1773918,
+          "bookmarks": 1192
         },
         "createdAt": "Tue Jun 23 17:01:29 +0000 2026",
         "createdAtLocal": "2026-06-24 01:01",
@@ -260,12 +252,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 22944,
-          "retweets": 1894,
-          "replies": 1296,
+          "likes": 22961,
+          "retweets": 1891,
+          "replies": 1301,
           "quotes": 688,
-          "views": 7811909,
-          "bookmarks": 13912
+          "views": 7821217,
+          "bookmarks": 13915
         },
         "createdAt": "Tue Jun 23 22:26:31 +0000 2026",
         "createdAtLocal": "2026-06-24 06:26",
@@ -296,12 +288,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 21970,
+          "likes": 21987,
           "retweets": 1023,
-          "replies": 394,
+          "replies": 395,
           "quotes": 41,
-          "views": 1021885,
-          "bookmarks": 868
+          "views": 1024932,
+          "bookmarks": 869
         },
         "createdAt": "Fri Jun 12 17:45:54 +0000 2026",
         "createdAtLocal": "2026-06-13 01:45",
@@ -326,12 +318,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8129,
-          "retweets": 1548,
-          "replies": 342,
-          "quotes": 154,
-          "views": 562100,
-          "bookmarks": 9990
+          "likes": 8162,
+          "retweets": 1555,
+          "replies": 352,
+          "quotes": 157,
+          "views": 568677,
+          "bookmarks": 10019
         },
         "createdAt": "Tue Jun 30 16:04:04 +0000 2026",
         "createdAtLocal": "2026-07-01 00:04",
@@ -361,12 +353,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1314,
-          "retweets": 280,
+          "likes": 1312,
+          "retweets": 281,
           "replies": 165,
           "quotes": 58,
-          "views": 153997,
-          "bookmarks": 396
+          "views": 155003,
+          "bookmarks": 397
         },
         "createdAt": "Fri Jun 19 18:34:23 +0000 2026",
         "createdAtLocal": "2026-06-20 02:34",
@@ -396,11 +388,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 352,
+          "likes": 353,
           "retweets": 50,
           "replies": 54,
           "quotes": 10,
-          "views": 76623,
+          "views": 77234,
           "bookmarks": 202
         },
         "createdAt": "Thu Jun 18 17:00:03 +0000 2026",
@@ -432,11 +424,11 @@
         },
         "metrics": {
           "likes": 1109,
-          "retweets": 147,
+          "retweets": 146,
           "replies": 109,
           "quotes": 13,
-          "views": 119518,
-          "bookmarks": 844
+          "views": 119958,
+          "bookmarks": 843
         },
         "createdAt": "Thu Jun 04 16:44:13 +0000 2026",
         "createdAtLocal": "2026-06-05 00:44",
@@ -466,11 +458,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 4524,
+          "likes": 4526,
           "retweets": 743,
           "replies": 327,
           "quotes": 144,
-          "views": 574304,
+          "views": 576817,
           "bookmarks": 3462
         },
         "createdAt": "Mon Jun 01 15:58:45 +0000 2026",
@@ -493,6 +485,141 @@
     ],
     "ylecun": [
       {
+        "id": "2073897636571283896",
+        "text": "Groq Founder @JonathanRoss321 explains why all the West Coast VCs missed on investing in Groq:\n\n“Typical West Coast VCs are more like lemmings. Ttypical East Coast VCs all think that they're smarter than each other.”\n\n“So when you try and raise from the West Coast, if one VC puts money in, all the others want to put money in.”\n\n“In New York, one VC investing means nothing. They're going to run their own analysis. They do not care what other VCs are doing.”\n\n“The flip of that is, if you're on the West Coast and one VC passes, they're going to go tell every other VC, and like lemmings, they're all going to pass as well.”\n\n“All the VCs on the West Coast didn't want to invest in us. We had very few of the typical VCs invest in us at the end. We had a bunch of crossover funds from the East Coast investing.”",
+        "author": {
+          "id": "255793931",
+          "name": "David Senra",
+          "screenName": "davidsenra",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1970530587510231040/wbVXBu_Q_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 433,
+          "retweets": 22,
+          "replies": 17,
+          "quotes": 3,
+          "views": 99823,
+          "bookmarks": 271
+        },
+        "createdAt": "Sun Jul 05 22:31:42 +0000 2026",
+        "createdAtLocal": "2026-07-06 06:31",
+        "createdAtISO": "2026-07-05T22:31:42+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2073897275898970113/vid/avc1/3840x2160/YViODBKzYa52Shne.mp4?tag=28",
+            "width": 3840,
+            "height": 2160
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2073768872688463983",
+          "text": "A conversation with @JonathanRoss321, founder of @GroqInc. This is the first podcast that Jonathan talks about his $20 billion partnership with NVIDIA. \n\nIn this conversation, we talk about his decade building Groq: why West Coast VCs kept passing on the company, how fast Jensen works, overcoming near-death experiences, and why he thinks the entire AI age turns on a single skill — knowing what to ask.\n\nHope you enjoy this conversation:\n\n0:00 The $20 Billion NVIDIA Deal Closed In 3 Weeks\n0:25 Why GPUs And LPUs Are Better Together\n1:46 When AI Talks To AI, Speed Wins\n3:30 Always Start With A Hobby Project\n5:55 Ask The Right Questions, Not Answer Them\n8:23 There Are Infinite Ways To Be A Leader\n13:00 I Was One Of The World's Worst Leaders\n14:34 Fewer Constraints, More Room To Surprise You\n16:31 At NVIDIA There Is No Politics\n19:44 You Have To Learn Confidence\n22:23 East Coast VCs Think, West Coast VCs Follow\n23:50 The Keynesian Beauty Contest Of Silicon Valley\n26:48 The Autonomy That Created The NVIDIA Deal\n30:07 Making A Model Smarter By Making It Faster\n34:52 Reality Quotient Beats Intelligence Quotient\n35:44 Find The Dominant Game And Play It\n37:11 A Founder's Job Is Full-Time Change Management\n38:34 Return On Luck: Seize It Better Than Anyone\n42:54 You Can't Sell Speed, You Have To Let People Try It\n46:32 I Intend To: Intentional Leadership\n51:07 Groq Bonds: Trading Salary For Survival\n54:13 Hire For Negatives, Grow For Positives\n58:46 Loss Aversion And Booking The Win Early\n1:00:37 How Michael Jordan Weaponized Humiliation\n1:03:13 Manufactured Discontent Drives Everything\n1:05:02 Every Day Without Compute Has A Real Cost\n1:07:07 Code Was Rationed, Now It's Nearly Free\n1:10:04 Teach Kids To Ask Questions, Not Answer Them\n\nIncludes paid partnerships.",
+          "author": {
+            "screenName": "davidsenra",
+            "name": "David Senra"
+          }
+        }
+      },
+      {
+        "id": "2073764468514058749",
+        "text": "Trump not only seeks vengeance against his enemies but also fleeces his own supporters.",
+        "author": {
+          "id": "17004618",
+          "name": "Nicholas Kristof",
+          "screenName": "NickKristof",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1453381583847657473/77brYR0Q_normal.png",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 1351,
+          "retweets": 369,
+          "replies": 62,
+          "quotes": 11,
+          "views": 71322,
+          "bookmarks": 31
+        },
+        "createdAt": "Sun Jul 05 13:42:32 +0000 2026",
+        "createdAtLocal": "2026-07-05 21:42",
+        "createdAtISO": "2026-07-05T13:42:32+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2073735381221073398",
+          "text": "Nearly a Million Investors Lost a Total of $3.8 Billion on Trump Crypto Coin https://t.co/rg8ZovIpoR",
+          "author": {
+            "screenName": "JonLemire",
+            "name": "Jonathan Lemire"
+          }
+        }
+      },
+      {
+        "id": "2073425439188484351",
+        "text": "Yet we still don't have level-5 self-driving cars, and certainly not self-serving cars that can learn to drive in a few hours of practice like any teenager. \nWe don't even have domestic robots that can do what 10-year olds can do the first time we ask them. \nWe don't even have robots that are nearly as smart as a house cat. \nThe G in AGI is nonsense.",
+        "author": {
+          "id": "48008938",
+          "name": "Yann LeCun",
+          "screenName": "ylecun",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 3072,
+          "retweets": 199,
+          "replies": 173,
+          "quotes": 46,
+          "views": 301715,
+          "bookmarks": 381
+        },
+        "createdAt": "Sat Jul 04 15:15:21 +0000 2026",
+        "createdAtLocal": "2026-07-04 23:15",
+        "createdAtISO": "2026-07-04T15:15:21+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2073527459312460276",
+        "text": "Fifty years later the semiquincentennial is tainted by fears that the country is no longer a democracy. But the Supreme Court has slapped  down many of the President's pet projects, and an electoral reckoning is coming this fall. Is the decline of US democracy hyperbole or reality? Quantitative Democracy indexes can calibrate our assessment: https://t.co/HMAK0BUcnE",
+        "author": {
+          "id": "107225267",
+          "name": "Steven Pinker",
+          "screenName": "sapinker",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1924871123524591616/mc3-jzbr_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 50,
+          "retweets": 8,
+          "replies": 1,
+          "quotes": 1,
+          "views": 21524,
+          "bookmarks": 12
+        },
+        "createdAt": "Sat Jul 04 22:00:45 +0000 2026",
+        "createdAtLocal": "2026-07-05 06:00",
+        "createdAtISO": "2026-07-04T22:00:45+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
+      },
+      {
         "id": "2073427970656452822",
         "text": "@elonmusk @Devon_Eriksen_ If there were any lingering doubts that you and your friends were against the very principles of democracy, you just removed them.",
         "author": {
@@ -503,12 +630,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1960,
-          "retweets": 96,
-          "replies": 149,
-          "quotes": 14,
-          "views": 208950,
-          "bookmarks": 166
+          "likes": 2248,
+          "retweets": 112,
+          "replies": 248,
+          "quotes": 22,
+          "views": 333197,
+          "bookmarks": 198
         },
         "createdAt": "Sat Jul 04 15:25:25 +0000 2026",
         "createdAtLocal": "2026-07-04 23:25",
@@ -519,180 +646,83 @@
         "retweetedBy": "ylecun",
         "lang": "en",
         "score": null
-      },
-      {
-        "id": "2073555462524735959",
-        "text": "Come and chat with us in ICML 🥳 Excited to present Temporal Straightening for Latent Planning in the Tuesday morning session #1509. Let’s talk about world models, JEPA and representation learning.",
-        "author": {
-          "id": "1706062297934733312",
-          "name": "Ying Wang✈️ ICML",
-          "screenName": "yingwww_",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2033749023056924676/efyRnnJc_normal.jpg",
-          "verified": false
-        },
-        "metrics": {
-          "likes": 63,
-          "retweets": 5,
-          "replies": 4,
-          "quotes": 0,
-          "views": 25637,
-          "bookmarks": 12
-        },
-        "createdAt": "Sat Jul 04 23:52:01 +0000 2026",
-        "createdAtLocal": "2026-07-05 07:52",
-        "createdAtISO": "2026-07-04T23:52:01+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2073519032452682149",
-          "text": "Agentic Learning AI Lab @agentic_ai_lab presents at #ICML2026 in Seoul✈️🇰🇷 Come check out our latest research!\n\n📍Main Conference Papers\nTemporal Straightening for Latent Planning\nTue Jul 7 10:30am Hall A #1509\n\nContext Tuning for In-Context Optimization\nWed Jul 8 5pm Hall A #2510\n\n📍Workshop Papers\nThe Surprising Effectiveness of Deleting Weights in LLM Reasoning and Adaptation\nFri Jul 10 Rm 318 | Foundations of Deep Generative Models Workshop\n\nSeeking the Unfamiliar but Memorable: Conceptual Creativity as Meta-Learning\nSat Jul 11 Rm 401 | Human-AI Co-Creativity Workshop\n\nAligning LLMs with Human Uncertainty: A Beta-Bernoulli Calibrator for LLM Forecasting\nSat Jul 11 Gr. Ballroom 104–105 | Forecasting as a New Frontier of Intelligence Workshop\n\nAlive and Predicting: A Live Evaluation of Multi-Step Forecasting Agents\nSat Jul 11 Gr. Ballroom 104–105 | Forecasting as a New Frontier of Intelligence Workshop\n\nSee threads below for details!🧵👇",
-          "author": {
-            "screenName": "agentic_ai_lab",
-            "name": "agentic learning ai lab"
-          }
-        }
-      },
-      {
-        "id": "2073563670437904423",
-        "text": "Warm take: Your world model should never stop learning\n\nIntroducing AdaJEPA, an adaptive WM that plans, acts, and adapts in a closed loop. Every action leads to a new observation, and every transition refines the latent representation and prediction.\n\n📝: https://t.co/85WWwn5QDS https://t.co/kC8E0TO6aW",
-        "author": {
-          "id": "1706062297934733312",
-          "name": "Ying Wang✈️ ICML",
-          "screenName": "yingwww_",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2033749023056924676/efyRnnJc_normal.jpg",
-          "verified": false
-        },
-        "metrics": {
-          "likes": 420,
-          "retweets": 62,
-          "replies": 11,
-          "quotes": 6,
-          "views": 36394,
-          "bookmarks": 306
-        },
-        "createdAt": "Sun Jul 05 00:24:38 +0000 2026",
-        "createdAtLocal": "2026-07-05 08:24",
-        "createdAtISO": "2026-07-05T00:24:38+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HMbC3Lna8AAHE-2.jpg",
-            "width": 3641,
-            "height": 4096
-          }
-        ],
-        "urls": [
-          "https://agenticlearning.ai/adajepa/"
-        ],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2073524211822272571",
-        "text": "While Trump walked away with a $636 million profit from his crypto venture, nearly 1 million people who bought into it lost a total of $3.81 billion through the end of June. They were probably mostly his MAGA supporters, but to Trump they were suckers. https://t.co/YICLwOmlp9",
-        "author": {
-          "id": "17839398",
-          "name": "Kenneth Roth",
-          "screenName": "KenRoth",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/759478721808068608/F5s3fgyl_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 324,
-          "retweets": 142,
-          "replies": 18,
-          "quotes": 8,
-          "views": 23035,
-          "bookmarks": 19
-        },
-        "createdAt": "Sat Jul 04 21:47:50 +0000 2026",
-        "createdAtLocal": "2026-07-05 05:47",
-        "createdAtISO": "2026-07-04T21:47:50+00:00",
-        "media": [],
-        "urls": [
-          "https://trib.al/tQSlpdJ"
-        ],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2073118767320621424",
-        "text": "Trump’s huge windfall has few known global precedents. His earnings in office are at a level once unimaginable for any leader of a liberal democracy, particularly a sitting American president. https://t.co/VAyUtjUTPD",
-        "author": {
-          "id": "17839398",
-          "name": "Kenneth Roth",
-          "screenName": "KenRoth",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/759478721808068608/F5s3fgyl_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 105,
-          "retweets": 33,
-          "replies": 10,
-          "quotes": 3,
-          "views": 20749,
-          "bookmarks": 4
-        },
-        "createdAt": "Fri Jul 03 18:56:45 +0000 2026",
-        "createdAtLocal": "2026-07-04 02:56",
-        "createdAtISO": "2026-07-03T18:56:45+00:00",
-        "media": [],
-        "urls": [
-          "https://trib.al/lHi86K5"
-        ],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null
       }
     ],
     "elonmusk": [
       {
-        "id": "2073723522653069812",
-        "text": "https://t.co/N4P0qXubBE",
+        "id": "2073432061474390072",
+        "text": "Oh look. The migrant who stomped a white Swedish man to death was a rapist ... because of course he was.\n\nMeaning, if the authorities did their fucking job and deported him, Christian Zedig's children would still have a father.",
         "author": {
-          "id": "44196397",
-          "name": "Elon Musk",
-          "screenName": "elonmusk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "id": "2048802598400983041",
+          "name": "Tyler",
+          "screenName": "cillianblack",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2048804551197949953/RO5XufsH_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 11546,
-          "retweets": 2220,
-          "replies": 1654,
-          "quotes": 200,
-          "views": 1300434,
-          "bookmarks": 1279
+          "likes": 61615,
+          "retweets": 11184,
+          "replies": 668,
+          "quotes": 90,
+          "views": 1508925,
+          "bookmarks": 1872
         },
-        "createdAt": "Sun Jul 05 10:59:50 +0000 2026",
-        "createdAtLocal": "2026-07-05 18:59",
-        "createdAtISO": "2026-07-05T10:59:50+00:00",
+        "createdAt": "Sat Jul 04 15:41:40 +0000 2026",
+        "createdAtLocal": "2026-07-04 23:41",
+        "createdAtISO": "2026-07-04T15:41:40+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2073332781359219091",
+          "text": "🚨NEWS: The migrant who attacked and killed Swedish Father Christian Zedig in a football fan zone had multiple previous criminal charges including:\n\n- Charged with rape in 2013 \n- 7 years for attempted murder in 2017\n- Charged with assault in April 2026\n\nWhy wasn't he stopped? https://t.co/qXY0CTUugV",
+          "author": {
+            "screenName": "BasilTheGreat",
+            "name": "Basil the Great"
+          }
+        }
+      },
+      {
+        "id": "2073842509889843529",
+        "text": "“That was fun, I’ll do it again when I get out,” said the 22-year-old Gambian violent offender after he stabbed a 55-year-old Italian man twenty times.\n\nAnd he will be released again. Perhaps to succeed in killing a European next time. https://t.co/j1NbWDH8MI",
+        "author": {
+          "id": "1156300264070111233",
+          "name": "Rebecca Mistereggen",
+          "screenName": "RMistereggen",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1959680924196454400/IpHHXyL-_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 4424,
+          "retweets": 1158,
+          "replies": 290,
+          "quotes": 30,
+          "views": 489994,
+          "bookmarks": 154
+        },
+        "createdAt": "Sun Jul 05 18:52:39 +0000 2026",
+        "createdAtLocal": "2026-07-06 02:52",
+        "createdAtISO": "2026-07-05T18:52:39+00:00",
         "media": [
           {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2071934765486227456/vid/avc1/3240x2160/_h6wmVX0KSG6wown.mp4?tag=28",
-            "width": 3240,
-            "height": 2160
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HMfExVRXEAAo6TS.jpg",
+            "width": 1117,
+            "height": 606
           }
         ],
         "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "zxx",
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
         "score": null
       },
       {
-        "id": "2073722073864929580",
-        "text": "Done with Grok Imagine",
+        "id": "2073990257419173964",
+        "text": "Making sure Cybercab meets the needs of the blind",
         "author": {
           "id": "44196397",
           "name": "Elon Musk",
@@ -701,16 +731,16 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1782,
-          "retweets": 286,
-          "replies": 535,
-          "quotes": 16,
-          "views": 995799,
-          "bookmarks": 71
+          "likes": 10364,
+          "retweets": 1935,
+          "replies": 1367,
+          "quotes": 80,
+          "views": 1670797,
+          "bookmarks": 275
         },
-        "createdAt": "Sun Jul 05 10:54:04 +0000 2026",
-        "createdAtLocal": "2026-07-05 18:54",
-        "createdAtISO": "2026-07-05T10:54:04+00:00",
+        "createdAt": "Mon Jul 06 04:39:44 +0000 2026",
+        "createdAtLocal": "2026-07-06 12:39",
+        "createdAtISO": "2026-07-06T04:39:44+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -718,99 +748,70 @@
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2073485296835129498",
-          "text": "Every time I watch this I love it more. But you really have to listen to the lyrics.\n\nThe very real feeling of being on a precipice, as a nation, mixed with the wild optimism of the American spirit and post-war era nostalgia…it’s perfect. It’s moving as hell. It’s so perfectly Gen-X and older Millennial coded. It actually got me choked up.\n\n@heavypulp is a creative genius. Huge respect.",
+          "id": "2073925001661890910",
+          "text": "Cybercab at the National Federation of the Blind's Annual Convention in Austin for a hands-on experience of its accessibility features for blind or visually impaired customers  For example: – Braille lettering on physical controls\n– Space for service animals & assistive devices\n– Wheelchair-height seating for easier transfers",
           "author": {
-            "screenName": "SteveSkojec",
-            "name": "Steve Skojec"
+            "screenName": "robotaxi",
+            "name": "Tesla Robotaxi"
           }
         }
       },
       {
-        "id": "2073392057058496713",
-        "text": "Only AI can keep up with AI. That's what will guide the entire security model of the next decade.",
+        "id": "2073473753913434553",
+        "text": "🇺🇸🇺🇸🇺🇸 https://t.co/CLI1oPcy95",
         "author": {
-          "id": "14710129",
-          "name": "Peter H. Diamandis, MD",
-          "screenName": "PeterDiamandis",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+          "id": "1686044379910131718",
+          "name": "Cybertruck",
+          "screenName": "cybertruck",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1729225579277209600/DNnvovEG_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 1869,
-          "retweets": 288,
-          "replies": 281,
-          "quotes": 32,
-          "views": 302440,
-          "bookmarks": 91
+          "likes": 10329,
+          "retweets": 1234,
+          "replies": 444,
+          "quotes": 65,
+          "views": 722541,
+          "bookmarks": 293
         },
-        "createdAt": "Sat Jul 04 13:02:42 +0000 2026",
-        "createdAtLocal": "2026-07-04 21:02",
-        "createdAtISO": "2026-07-04T13:02:42+00:00",
-        "media": [],
+        "createdAt": "Sat Jul 04 18:27:20 +0000 2026",
+        "createdAtLocal": "2026-07-05 02:27",
+        "createdAtISO": "2026-07-04T18:27:20+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/ext_tw_video/2073414459775709184/pu/vid/avc1/1920x1080/XposhyntH-RY2rvo.mp4?tag=26",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
         "urls": [],
         "isRetweet": true,
         "retweetedBy": "elonmusk",
-        "lang": "en",
+        "lang": "qme",
         "score": null
       },
       {
-        "id": "2073624123151122732",
-        "text": "LONG LIVE FREEDOM, DAMMIT",
+        "id": "2073971236615729389",
+        "text": "We need a bit more shame.\n\nPeople used to avoid certain self-interested behaviors to avoid shame, private and public.  Law and customs assumed this.\n\nNow, 38% of Stanford students claim to be disabled.  40% of young women (under 35) claim mental illness, and SSI disability payments have gone up 400% in a single generation.\n\nIt isn't good for anyone, least of all people who are actually disabled, when everyone looks the other way as friends and family and peers con the system with a level of shamelessness no architect of our safety net ever imagined could be possible in America.  When everyone is disabled, nobody is.",
         "author": {
-          "id": "5943622",
-          "name": "Marc Andreessen 🇺🇸",
-          "screenName": "pmarca",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1820716712234303489/9GpKDZjq_normal.jpg",
+          "id": "294306372",
+          "name": "Palmer Luckey",
+          "screenName": "PalmerLuckey",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1592034442171719680/trGJr315_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 3595,
-          "retweets": 340,
-          "replies": 123,
-          "quotes": 14,
-          "views": 454624,
-          "bookmarks": 70
+          "likes": 22928,
+          "retweets": 2282,
+          "replies": 1198,
+          "quotes": 229,
+          "views": 902824,
+          "bookmarks": 1778
         },
-        "createdAt": "Sun Jul 05 04:24:51 +0000 2026",
-        "createdAtLocal": "2026-07-05 12:24",
-        "createdAtISO": "2026-07-05T04:24:51+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2073535643943154174",
-          "text": "HACER AMÉRICA GRANDE OTRA VEZ 🇺🇸 🇦🇷 \n\nHace 250 años un grupo de hombres fundaba una república sobre una idea simple pero a la vez revolucionaria: que todos los hombres son iguales ante Dios, y que son poseedores de derechos naturales inalienables a la vida, la libertad y la propiedad. \n\nBajo esta premisa, ese país se convirtió rápidamente en el opuesto absoluto de los países que abrazaron las ideas contrarias: las del comunismo. La prosperidad de los EEUU es la envidia de todos los pueblos oprimidos, pero ella palidece frente a la libertad con la que cuentan sus ciudadanos y es, de hecho, una mera consecuencia de su preservación.\n\nLa Argentina fue un país fundado bajo este mismo anhelo. Una democracia liberal, cuyo deber es proteger la libertad de las personas y sus frutos. Por eso, quienes no están de acuerdo con este principio básico no pueden llamarse verdaderos patriotas. Dado que Argentina, como Estados Unidos, se fundó bajo ese principio, quien atente contra él no es más que un traidor a la patria.\n\nEntendemos que estos valores son propios de ambos países y que ponerlos en el centro es la llave para hacer a toda América grande otra vez, desde Alaska a Tierra del Fuego. Felicito a todos los estadounidenses en este 4 de julio y cuento con que sigan siendo un faro de libertad en el Norte, mientras volvemos a hacer de la Argentina un faro de la libertad en el Sur. \n\nFeliz 4 de Julio!\n\ncc @realDonaldTrump\n\nVIVA LA LIBERTAD CARAJO...!!!",
-          "author": {
-            "screenName": "JMilei",
-            "name": "Javier Milei"
-          }
-        }
-      },
-      {
-        "id": "2073492253679513827",
-        "text": "The Founders didn’t promise happiness, they protected the pursuit of it. No other nation’s founding document made one’s right to chase their dreams a core purpose.\n\nThat’s why America has always been the ultimate haven for the world’s most ambitious. Grateful to call it home ❤️🇺🇸",
-        "author": {
-          "id": "183339560",
-          "name": "Baris Akis",
-          "screenName": "barisakis",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1979549829119311872/RrFUCS6q_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 2644,
-          "retweets": 358,
-          "replies": 8,
-          "quotes": 17,
-          "views": 251401,
-          "bookmarks": 87
-        },
-        "createdAt": "Sat Jul 04 19:40:51 +0000 2026",
-        "createdAtLocal": "2026-07-05 03:40",
-        "createdAtISO": "2026-07-04T19:40:51+00:00",
+        "createdAt": "Mon Jul 06 03:24:09 +0000 2026",
+        "createdAtLocal": "2026-07-06 11:24",
+        "createdAtISO": "2026-07-06T03:24:09+00:00",
         "media": [],
         "urls": [],
         "isRetweet": true,
@@ -831,12 +832,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 274,
+          "likes": 275,
           "retweets": 22,
-          "replies": 32,
+          "replies": 34,
           "quotes": 8,
-          "views": 45122,
-          "bookmarks": 113
+          "views": 46001,
+          "bookmarks": 114
         },
         "createdAt": "Wed Jul 01 15:12:14 +0000 2026",
         "createdAtLocal": "2026-07-01 23:12",
@@ -867,12 +868,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1622,
+          "likes": 1624,
           "retweets": 221,
           "replies": 69,
           "quotes": 30,
-          "views": 183522,
-          "bookmarks": 1156
+          "views": 185222,
+          "bookmarks": 1160
         },
         "createdAt": "Tue Jun 30 17:07:49 +0000 2026",
         "createdAtLocal": "2026-07-01 01:07",
@@ -906,8 +907,8 @@
           "retweets": 2,
           "replies": 4,
           "quotes": 1,
-          "views": 18226,
-          "bookmarks": 39
+          "views": 18595,
+          "bookmarks": 40
         },
         "createdAt": "Tue Jun 30 17:07:50 +0000 2026",
         "createdAtLocal": "2026-07-01 01:07",
@@ -942,11 +943,11 @@
         },
         "metrics": {
           "likes": 3845,
-          "retweets": 571,
+          "retweets": 570,
           "replies": 187,
-          "quotes": 151,
-          "views": 652139,
-          "bookmarks": 2024
+          "quotes": 152,
+          "views": 653041,
+          "bookmarks": 2025
         },
         "createdAt": "Tue Jun 16 16:31:58 +0000 2026",
         "createdAtLocal": "2026-06-17 00:31",
@@ -976,11 +977,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 164,
+          "likes": 163,
           "retweets": 18,
           "replies": 5,
           "quotes": 2,
-          "views": 46210,
+          "views": 46363,
           "bookmarks": 100
         },
         "createdAt": "Tue Jun 16 16:31:58 +0000 2026",

@@ -1,0 +1,20 @@
+{
+  "title": "Do you hate XML? (2010)",
+  "score": 37,
+  "comments": 61,
+  "url": "https://sigfrid-lundberg.se/entries/2010/07/hate_xml/",
+  "hn_url": "https://news.ycombinator.com/item?id=48796438",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "2010年Hacker News上的一篇讨论引发了开发者对XML格式的广泛吐槽，核心痛点在于其冗长、解析复杂、可读性差，尤其不适合轻量级数据交换。这一历史争议加速了JSON等更简洁替代方案的普及，对AI产品经理的启示是：数据序列化格式的选择直接影响API设计、模型输入/输出的解析效率以及开发者体验。虽然当前AI领域主要使用JSON/Protobuf，但理解XML的局限性有助于评估旧系统迁移或遗留数据整合的成本，并反思格式标准化对产品生态演进的长远影响。",
+  "pm_relevance": 3,
+  "concepts": [
+    "Data Serialization",
+    "Developer Experience"
+  ],
+  "entities": [],
+  "patterns": [
+    "API Data Format Evolution"
+  ]
+}

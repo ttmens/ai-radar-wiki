@@ -1,55 +1,99 @@
 {
-  "date": "2026-07-06",
-  "generated_at": "2026-07-06T06:01:37.353069+08:00",
-  "item_count": 4,
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T00:01:17.188224+08:00",
+  "item_count": 8,
   "items": [
     {
-      "id": "amazon-will-stop-accepting-new-customers-for-mechanical-turk",
-      "label": "Amazon will stop accepting new customers for Mechanical Turk",
-      "summary": "亚马逊宣布不再接受Mechanical Turk新客户，这可能意味着这一经典众包平台即将落幕。对于AI产品经理而言，MTurk曾是获取训练数据、进行模型验证的核心工具之一。此举反映出大厂对数据采集模式正在重新评估：人工标注成本高、质量难控，叠加对数据隐私和伦理的更高要求，企业可能加速转向合成数据、主动学习或内部标注团队。商业上看，MTurk停止增长或预示众包模式在AI训练中的角色减弱，产品经理需关注替代方案对模型迭代速度和数据多样性的影响。",
-      "pm_score": 0.48,
+      "id": "real-time-map-of-great-britains-rail-network",
+      "label": "Real-time map of Great Britain's rail network",
+      "summary": "该项目展示了英国铁路网络的实时地图，利用实时数据流和可视化技术，为交通管理、乘客出行规划提供动态监控能力。产品经理可关注其在数据融合、实时更新、用户体验方面的创新，以及如何通过AI优化路线推荐和延迟预测。",
+      "pm_score": 0.565,
       "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48802535",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "emily-bender-sets-the-record-straight-on-stochastic-parrots",
+      "label": "Emily Bender Sets the Record Straight on \"Stochastic Parrots\"",
+      "summary": "Emily Bender 澄清‘随机鹦鹉’概念，强调大型语言模型本质上是基于训练数据概率统计生成文本，缺乏真正的理解、意图和常识。该观点对AI产品经理的关键启示是：在构建产品时必须意识到LLM的固有局限性，如编造事实（幻觉）和偏见放大，不能将其视为可靠的知识源。商业价值在于指导产品设计时设置合理预期，通过引入外部验证机制或人机协作模式来提升可靠性与用户信任。产品创新方向包括开发事实核查工具、可溯源生成系统以及基于规则的后处理模块，以弥补模型的能力短板。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48805401",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales",
+      "label": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "summary": "微软近期宣布裁减约4800名员工（占全球员工2.1%），主要波及Xbox游戏部门和商业销售团队。此举是科技行业裁员潮的一部分，引发外界对AI替代人类岗位的担忧。从AI产品视角看，微软正加速将AI能力嵌入核心业务（如Copilot），同时削减传统人力密集型岗位，暗示AI在游戏开发、客户销售等场景的自动化潜力。该事件反映了大型科技公司通过AI降本增效的战略转型，值得产品经理关注AI对就业结构、团队协作模式及产品创新的深层影响。",
+      "pm_score": 0.445,
+      "pillar": "business",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-      "date": "2026-07-06"
+      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "date": "2026-07-07"
     },
     {
-      "id": "new-ai-tutor-achieves-071-130-sd-effect-size-in-dartmouth-course-pdf",
-      "label": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "summary": "达特茅斯学院课程中部署的新型AI导师，经评估产生了0.71至1.30标准差的效果量（effect size），远高于传统教学干预的平均效果。这表明该AI系统能显著提升学生学习成效，尤其在个性化辅导、即时反馈和自适应学习路径方面展现强大能力。对AI产品经理而言，该案例验证了AI在教育领域的高效性，为开发智能辅导工具提供了实证基础。商业价值在于可复制到K-12、高等教育及职业培训市场，产品创新点在于量化学习效果并实现大规模个性化教学。",
-      "pm_score": 0.48,
+      "id": "behind-the-scenes-with-the-midjourney-scanner-video",
+      "label": "Behind the scenes with the Midjourney scanner [video]",
+      "summary": "Midjourney 发布了一段幕后视频，展示其图像扫描器的工作原理。该技术允许用户上传参考图片，AI 能精准识别并提取风格、构图、色彩等核心视觉特征，用于生成与参考图高度一致的新图像。这极大降低了用户对 prompt 工程的需求，提升了创意控制精度与效率。对产品经理而言，这种'理解视觉参考'的能力是图像生成产品差异化竞争的关键，可拓展到品牌一致性设计、电商主图生成等商业化场景。",
+      "pm_score": 0.43,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48796817",
-      "date": "2026-07-06"
+      "url": "https://news.ycombinator.com/item?id=48774720",
+      "date": "2026-07-07"
     },
     {
-      "id": "claude-design-system-prompt",
-      "label": "Claude Design System Prompt",
-      "summary": "Claude设计系统提示词（System Prompt）技术，用于控制AI助手的行为、语气和输出质量。产品经理需关注如何通过精心设计的系统提示词实现产品差异化、提升用户体验、减少有害输出。提示词工程是解锁Claude等大模型商业价值的关键，直接影响对话准确性、安全性和品牌一致性，属于AI产品能力层的基础设施。",
-      "pm_score": 0.48,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48792399",
-      "date": "2026-07-06"
+      "id": "station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups",
+      "label": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+      "summary": "巴黎创业中心 Station F 由法国亿万富翁 Xavier Niel 创立，正筹备新一期 F/ai 加速器项目，旨在强化其作为欧洲顶尖 AI 初创公司跳板的定位。该加速器为早期 AI 团队提供资金、导师资源和商业网络，重点推动从技术验证到市场落地的转化。对于 AI 产品经理而言，这意味着欧洲 AI 生态正在形成更成熟的孵化体系，有助于发现新兴产品方向、获取合作机会，并观察欧洲监管环境下的差异化创新路径。",
+      "pm_score": 0.41,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "date": "2026-07-07"
     },
     {
-      "id": "autonomous-flying-umbrella-follows-and-shields-users-from-rain-and-sunlight",
-      "label": "Autonomous flying umbrella follows and shields users from rain and sunlight",
-      "summary": "该产品为一款自主飞行的跟随式雨伞，利用AI视觉与无人机技术实现实时追踪用户位置，自动调整高度与角度以遮挡雨水或阳光。其核心创新在于将传统雨具与无人机结合，解决了手持雨伞的双手占用问题，并扩展了防晒功能。从PM视角看，该产品体现了AI在消费级硬件中的落地潜力，但需关注续航、噪音、安全法规及成本控制等商业化挑战。商业价值可瞄准高端出行、户外婚礼、景区服务等场景。",
-      "pm_score": 0.395,
+      "id": "show-hn-scan-your-ai-agents-for-dangerous-capabilities",
+      "label": "Show HN: Scan your AI agents for dangerous capabilities",
+      "summary": "该工具旨在扫描AI代理的潜在危险能力，帮助开发者识别和评估其智能系统可能带来的安全风险。技术要点包括自动化检测模型的越狱、恶意指令执行等漏洞；商业价值体现在满足企业AI合规与安全审计需求，降低部署风险；产品创新在于提供轻量级扫描接口，可集成到开发流程中，实现持续安全监控。",
+      "pm_score": 0.365,
       "pillar": "patterns",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48795174",
-      "date": "2026-07-06"
+      "url": "https://news.ycombinator.com/item?id=48804182",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "c-programmers-commit-fresh-crimes-against-readability",
+      "label": "C programmers commit fresh crimes against readability",
+      "summary": "本文讨论了C语言程序员在AI辅助编程中编写出可读性极差的代码，引发了对代码质量与维护性的担忧。作为AI产品经理，需关注生成代码的可读性问题，这直接影响到开发效率与团队协作。商业价值在于优化AI代码生成模型，提高输出质量，减少技术债务。产品创新方面，可考虑引入代码风格检查或可读性评分机制。",
+      "pm_score": 0.345,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48803347",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "amd-ryzen-ai-halo-4k-ai-dev-kit",
+      "label": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "summary": "AMD 推出 Ryzen AI Halo 开发者套件，售价 4000 美元，面向 AI 产品经理提供高性能本地 AI 计算平台。该套件集成 AMD 自研 AI 加速器，支持大模型推理与微调，旨在降低开发者对云端 GPU 的依赖。技术亮点包括异构计算架构与高带宽内存，可实现低延迟数据处理。商业价值在于推动 PC 端 AI 应用生态，为边缘 AI 产品提供高性价比开发方案。产品创新体现为一体化硬件设计，专注提升开发者效率。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48805624",
+      "date": "2026-07-07"
     }
   ],
   "graph_totals": {
-    "real_nodes": 2968,
-    "edges": 3261
+    "real_nodes": 3014,
+    "edges": 3307
   }
 }

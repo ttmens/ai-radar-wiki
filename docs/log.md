@@ -2479,3 +2479,15 @@
 - create: autonomous-flying-umbrella-follows-and-shields-users-from-rain-and-sunlight.md
 - create: amazon-will-stop-accepting-new-customers-for-mechanical-turk.md
 - create: show-hn-osint-tool-that-finds-exposed-files-on-domains.md
+
+## [2026-07-07 00:01] sync v3 | 13 new | pillars: {'capabilities': 10, 'patterns': 2, 'business': 1}
+- create: real-time-map-of-great-britains-rail-network.md
+- create: emily-bender-sets-the-record-straight-on-stochastic-parrots.md
+- create: amd-ryzen-ai-halo-4k-ai-dev-kit.md
+- create: show-hn-scan-your-ai-agents-for-dangerous-capabilities.md
+- create: c-programmers-commit-fresh-crimes-against-readability.md
+- create: behind-the-scenes-with-the-midjourney-scanner-video.md
+- create: microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales.md
+- create: station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups.md
+- create: show-hn-paint-the-earth-on-a-live-interactive-globe-collaborative-art.md
+- create: show-hn-visualize-model-spikiness-in-3d.md
