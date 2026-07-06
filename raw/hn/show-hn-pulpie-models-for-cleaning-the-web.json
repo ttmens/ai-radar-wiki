@@ -1,0 +1,22 @@
+{
+  "title": "Show HN: Pulpie – Models for Cleaning the Web",
+  "score": 72,
+  "comments": 15,
+  "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
+  "hn_url": "https://news.ycombinator.com/item?id=48806575",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Pulpie 是一个专注于网络数据清洗的模型，旨在自动识别并去除低质量、重复或噪声数据，提升训练数据的纯净度与可用性。该模型通过先进的过滤与去重技术，帮助企业构建更可靠的 AI 应用，减少数据预处理的人工成本。对于 AI 产品经理而言，数据质量直接决定模型表现，Pulpie 提供了一种高效、可扩展的数据清洁手段，能够加速模型迭代并降低部署风险，尤其在处理海量网页抓取数据时具有显著商业价值。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Web Data Cleaning",
+    "Data Quality"
+  ],
+  "entities": [
+    "Pulpie"
+  ],
+  "patterns": [
+    "Data Cleaning Model"
+  ]
+}

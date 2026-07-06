@@ -1,7 +1,7 @@
 {
   "date": "2026-07-07",
-  "generated_at": "2026-07-07T00:01:17.188224+08:00",
-  "item_count": 8,
+  "generated_at": "2026-07-07T06:01:49.238504+08:00",
+  "item_count": 17,
   "items": [
     {
       "id": "real-time-map-of-great-britains-rail-network",
@@ -23,6 +23,72 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48805401",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents",
+      "label": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "summary": "Vercel CEO Guillermo Rauch 指出，在生产环境中优化 AI 应用时，必须关注价格与性能的平衡。他主张将模型（models）与智能体（agents）明确分离，以便独立迭代和成本控制。这一观点对 AI 产品设计有重要影响：产品经理需要思考如何解耦底层模型能力与上层智能体逻辑，通过模块化架构提升灵活性与部署效率，同时根据实际生产场景选择最佳性价比的模型服务。",
+      "pm_score": 0.515,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "a-global-workspace-in-language-models",
+      "label": "A global workspace in language models",
+      "summary": "本文探讨了在语言模型中引入全局工作空间（Global Workspace）的概念，类似于人类认知中的全局工作记忆理论。通过为LLM构建一个共享的、动态的信息整合区域，模型能够更好地融合多个局部上下文，执行多步推理、长文档理解和跨任务协同。这一技术方向有望显著提升复杂任务（如代码生成、对话连贯性、知识密集型问答）的性能，降低上下文碎片化带来的信息损失。商业价值在于可扩展AI Agent的场景覆盖能力，产品创新上可能催生更智能的虚拟助理和自动化工作流。",
+      "pm_score": 0.495,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48808002",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "reddit-is-using-llms-to-solve-a-problem-llms-largely-created",
+      "label": "Reddit is using LLMs to solve a problem LLMs largely created",
+      "summary": "Reddit 利用大型语言模型（LLM）来检测和清除由 AI 生成的大量垃圾信息。在 AI 时代，平台被迫“以火攻火”，使用 LLM 对抗由 LLM 产生的虚假内容，以维护社区质量。这一策略体现了 AI 技术在内容治理中的创新应用，但也凸显了 AI 滥用带来的新挑战。对于产品经理而言，这提示了在 AI 生态系统中构建可靠的防御机制的重要性。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "if-you-use-google-you8217re-training-its-ai-here8217s-how-to-opt-out",
+      "label": "If you use Google, you&#8217;re training its AI. Here&#8217;s how to opt out.",
+      "summary": "Google近期更新隐私设置，允许存储用户更多数据（包括图片、文件、音视频记录）用于改进AI模型。用户可通过设置选择退出数据收集。这对AI产品经理而言，提示了用户数据作为AI训练资源的商业价值与隐私合规风险，平衡模型性能与用户信任是关键。产品设计中需明确数据用途、提供透明退出机制，并考虑替代数据来源策略。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "you-can-now-customize-siri8217s-pace-and-expressivity-in-the-latest-ios-27-beta",
+      "label": "You can now customize Siri&#8217;s pace and expressivity in the latest iOS 27 be",
+      "summary": "苹果在 iOS 27 测试版中允许用户自定义 Siri 的语速与表现力，这是其基于生成式 AI 全面重建智能助手战略的一部分。产品经理应关注：通过可调节的节奏和情感表达，Siri 的交互更自然、个性化，有助于提升用户粘性和满意度。该功能利用了生成式 AI 的灵活生成能力，使语音助手从固定响应转向动态适应不同场景和用户偏好。商业上，这强化了苹果的生态差异化，推动语音助手从工具向伙伴演进，为其他 AI 产品的人机交互设计提供了新范式。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "every-major-tech-layoff-in-2026-that-has-name-checked-ai",
+      "label": "Every major tech layoff in 2026 that has name-checked AI",
+      "summary": "2026年大型科技公司裁员潮中，AI被频繁提及为关键因素。企业通过自动化与AI技术替代人力岗位，优化成本结构并加速数字化转型。这一趋势倒逼产品经理重新评估AI的落地价值：既要推动效率提升，也需关注人机协作模式对产品设计的影响。裁员潮背后反映了AI从辅助工具向核心生产驱动的转变，提示PM应聚焦于高附加值创新，而非简单替代人力。同时，企业需平衡技术投入与社会责任，避免品牌风险。整体看，AI驱动的组织调整正重塑科技行业竞争格局。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "date": "2026-07-07"
     },
     {
@@ -48,6 +114,17 @@
       "date": "2026-07-07"
     },
     {
+      "id": "officecli-office-suite-for-ai-agents-to-read-and-edit-microsoft-office-files",
+      "label": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "summary": "OfficeCLI是一个专为AI代理设计的办公套件命令行工具，使其能够直接读取、编辑和生成Microsoft Office文件（如Word、Excel、PowerPoint）。该工具通过提供标准化接口，让AI代理可以像人类一样操作文档，实现自动化报表生成、数据提取、格式调整等任务。对于AI产品经理而言，这标志着AI从“对话式交互”向“主动工作流”的演进，降低了企业文档处理的开发成本，并打通了AI与核心办公生态的壁垒。产品模式上属于“Agent-Tool集成”，未来可扩展至更多文件格式。",
+      "pm_score": 0.43,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48807225",
+      "date": "2026-07-07"
+    },
+    {
       "id": "station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups",
       "label": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
       "summary": "巴黎创业中心 Station F 由法国亿万富翁 Xavier Niel 创立，正筹备新一期 F/ai 加速器项目，旨在强化其作为欧洲顶尖 AI 初创公司跳板的定位。该加速器为早期 AI 团队提供资金、导师资源和商业网络，重点推动从技术验证到市场落地的转化。对于 AI 产品经理而言，这意味着欧洲 AI 生态正在形成更成熟的孵化体系，有助于发现新兴产品方向、获取合作机会，并观察欧洲监管环境下的差异化创新路径。",
@@ -56,6 +133,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "santifercareer-ops",
+      "label": "santifer/career-ops",
+      "summary": "Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/santifer/career-ops",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "show-hn-pulpie-models-for-cleaning-the-web",
+      "label": "Show HN: Pulpie – Models for Cleaning the Web",
+      "summary": "Pulpie 是一个专注于网络数据清洗的模型，旨在自动识别并去除低质量、重复或噪声数据，提升训练数据的纯净度与可用性。该模型通过先进的过滤与去重技术，帮助企业构建更可靠的 AI 应用，减少数据预处理的人工成本。对于 AI 产品经理而言，数据质量直接决定模型表现，Pulpie 提供了一种高效、可扩展的数据清洁手段，能够加速模型迭代并降低部署风险，尤其在处理海量网页抓取数据时具有显著商业价值。",
+      "pm_score": 0.38,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48806575",
       "date": "2026-07-07"
     },
     {
@@ -93,7 +192,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 3014,
-    "edges": 3307
+    "real_nodes": 3042,
+    "edges": 3335
   }
 }

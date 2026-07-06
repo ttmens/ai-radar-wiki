@@ -1,0 +1,26 @@
+{
+  "title": "If you use Google, you&#8217;re training its AI. Here&#8217;s how to opt out.",
+  "description": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.",
+  "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+  "pub_date": "Mon, 06 Jul 2026 17:04:58 +0000",
+  "tag": "TechCrunch",
+  "pillar": "business",
+  "pillar_keywords": [
+    "audio",
+    "training"
+  ],
+  "summary_cn": "Google近期更新隐私设置，允许存储用户更多数据（包括图片、文件、音视频记录）用于改进AI模型。用户可通过设置选择退出数据收集。这对AI产品经理而言，提示了用户数据作为AI训练资源的商业价值与隐私合规风险，平衡模型性能与用户信任是关键。产品设计中需明确数据用途、提供透明退出机制，并考虑替代数据来源策略。",
+  "pm_relevance": 8,
+  "concepts": [
+    "User Data for AI Training",
+    "Privacy Compliance",
+    "Opt-out Mechanism"
+  ],
+  "entities": [
+    "Google"
+  ],
+  "patterns": [
+    "User-as-Trainer Pattern",
+    "Data Collection Transparency"
+  ]
+}

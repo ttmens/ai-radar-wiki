@@ -5,13 +5,93 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 06 Jul 2026 16:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 20:00:18 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Real-time map of Great Britain's rail network</title>
+      <link>https://news.ycombinator.com/item?id=48802535</link>
+      <guid isPermaLink="false">real-time-map-of-great-britains-rail-network</guid>
+      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>该项目展示了英国铁路网络的实时地图，利用实时数据流和可视化技术，为交通管理、乘客出行规划提供动态监控能力。产品经理可关注其在数据融合、实时更新、用户体验方面的创新，以及如何通过AI优化路线推荐和延迟预测。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Emily Bender Sets the Record Straight on "Stochastic Parrots"</title>
+      <link>https://news.ycombinator.com/item?id=48805401</link>
+      <guid isPermaLink="false">emily-bender-sets-the-record-straight-on-stochastic-parrots</guid>
+      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Emily Bender 澄清‘随机鹦鹉’概念，强调大型语言模型本质上是基于训练数据概率统计生成文本，缺乏真正的理解、意图和常识。该观点对AI产品经理的关键启示是：在构建产品时必须意识到LLM的固有局限性，如编造事实（幻觉）和偏见放大，不能将其视为可靠的知识源。商业价值在于指导产品设计时设置合理预期，通过引入外部验证机制或人机协作模式来提升可靠性与用户信任。产品创新方向包括开发事实核查工具、可溯源生成系统以及基于规则的后处理模块，以弥补模型的能力短板。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Microsoft lays off nearly 5,000 employees across Xbox, commercial sales</title>
+      <link>https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/</link>
+      <guid isPermaLink="false">microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales</guid>
+      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>微软近期宣布裁减约4800名员工（占全球员工2.1%），主要波及Xbox游戏部门和商业销售团队。此举是科技行业裁员潮的一部分，引发外界对AI替代人类岗位的担忧。从AI产品视角看，微软正加速将AI能力嵌入核心业务（如Copilot），同时削减传统人力密集型岗位，暗示AI在游戏开发、客户销售等场景的自动化潜力。该事件反映了大型科技公司通过AI降本增效的战略转型，值得产品经理关注AI对就业结构、团队协作模式及产品创新的深层影响。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Behind the scenes with the Midjourney scanner [video]</title>
+      <link>https://news.ycombinator.com/item?id=48774720</link>
+      <guid isPermaLink="false">behind-the-scenes-with-the-midjourney-scanner-video</guid>
+      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Midjourney 发布了一段幕后视频，展示其图像扫描器的工作原理。该技术允许用户上传参考图片，AI 能精准识别并提取风格、构图、色彩等核心视觉特征，用于生成与参考图高度一致的新图像。这极大降低了用户对 prompt 工程的需求，提升了创意控制精度与效率。对产品经理而言，这种'理解视觉参考'的能力是图像生成产品差异化竞争的关键，可拓展到品牌一致性设计、电商主图生成等商业化场景。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Station F ramps up as a launchpad for Europe’s hottest AI startups</title>
+      <link>https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/</link>
+      <guid isPermaLink="false">station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups</guid>
+      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>巴黎创业中心 Station F 由法国亿万富翁 Xavier Niel 创立，正筹备新一期 F/ai 加速器项目，旨在强化其作为欧洲顶尖 AI 初创公司跳板的定位。该加速器为早期 AI 团队提供资金、导师资源和商业网络，重点推动从技术验证到市场落地的转化。对于 AI 产品经理而言，这意味着欧洲 AI 生态正在形成更成熟的孵化体系，有助于发现新兴产品方向、获取合作机会，并观察欧洲监管环境下的差异化创新路径。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Show HN: Scan your AI agents for dangerous capabilities</title>
+      <link>https://news.ycombinator.com/item?id=48804182</link>
+      <guid isPermaLink="false">show-hn-scan-your-ai-agents-for-dangerous-capabilities</guid>
+      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该工具旨在扫描AI代理的潜在危险能力，帮助开发者识别和评估其智能系统可能带来的安全风险。技术要点包括自动化检测模型的越狱、恶意指令执行等漏洞；商业价值体现在满足企业AI合规与安全审计需求，降低部署风险；产品创新在于提供轻量级扫描接口，可集成到开发流程中，实现持续安全监控。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>C programmers commit fresh crimes against readability</title>
+      <link>https://news.ycombinator.com/item?id=48803347</link>
+      <guid isPermaLink="false">c-programmers-commit-fresh-crimes-against-readability</guid>
+      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文讨论了C语言程序员在AI辅助编程中编写出可读性极差的代码，引发了对代码质量与维护性的担忧。作为AI产品经理，需关注生成代码的可读性问题，这直接影响到开发效率与团队协作。商业价值在于优化AI代码生成模型，提高输出质量，减少技术债务。产品创新方面，可考虑引入代码风格检查或可读性评分机制。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>AMD Ryzen AI Halo – $4k AI Dev Kit</title>
+      <link>https://news.ycombinator.com/item?id=48805624</link>
+      <guid isPermaLink="false">amd-ryzen-ai-halo-4k-ai-dev-kit</guid>
+      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>AMD 推出 Ryzen AI Halo 开发者套件，售价 4000 美元，面向 AI 产品经理提供高性能本地 AI 计算平台。该套件集成 AMD 自研 AI 加速器，支持大模型推理与微调，旨在降低开发者对云端 GPU 的依赖。技术亮点包括异构计算架构与高带宽内存，可实现低延迟数据处理。商业价值在于推动 PC 端 AI 应用生态，为边缘 AI 产品提供高性价比开发方案。产品创新体现为一体化硬件设计，专注提升开发者效率。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Visualize Model Spikiness in 3D</title>
+      <link>https://www.modelmap.tech/</link>
+      <guid isPermaLink="false">show-hn-visualize-model-spikiness-in-3d</guid>
+      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该项目展示了在3D空间中可视化模型“尖峰”（Spikiness）的能力，即为模型输出中的异常或高响应区域提供直观的空间表示。技术要点在于利用三维图形技术将模型行为的局部变化（如注意力集中、激活值突变）立体呈现，帮助开发者快速定位模型不稳定或过度拟合的区域。商业价值体现在提升模型调试和可解释性效率，降低AI产品上线前的风险排查成本。产品创新在于将传统二维指标图升级为可交互的3D模型，增强对复杂神经网络行为的理解，尤其适用于大语言模型或视觉模型的性能分析。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Paint the Earth on a live, interactive globe (collaborative art.)</title>
+      <link>https://earth.tattoo</link>
+      <guid isPermaLink="false">show-hn-paint-the-earth-on-a-live-interactive-globe-collaborative-art</guid>
+      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该项目是一个实时交互的地球仪协作绘画工具，用户可在3D球体上共同创作。技术要点包括WebGL渲染、实时同步架构，支持多人同时绘画。产品创新在于将协作艺术与地理空间结合，提供了独特的创意表达平台，适合教育、娱乐或社区互动场景。虽然未直接涉及AI，但展示了实时协作与可视化技术的结合潜力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>Making sure Cybercab meets the needs of the blind</title>
       <link>https://x.com/elonmusk/status/2073990257419173964</link>
@@ -32,6 +112,28 @@ People used to avoid certain self-interested behaviors to avoid shame, pr...</ti
 People used to avoid certain self-interested behaviors to avoid shame, private and public.  Law and customs assumed this.
 
 Now, 38% of Stanford students claim to be disabled.  40% of young women (under 35) claim mental illness, and SSI disability payments have gone up 400%</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>One of Elon Musk’s companies, Tesla, is making cars for blind people. 
+
+Another one of his companies...</title>
+      <link>https://x.com/elonmusk/status/2074033815367143818</link>
+      <guid isPermaLink="false">twitter_elonmusk_2074033815367143818</guid>
+      <pubDate>2026-07-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>One of Elon Musk’s companies, Tesla, is making cars for blind people. 
+
+Another one of his companies, Neuralink, is working on restoring sight to the blind.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>My husband and I are honored and thrilled to participate in the Invest America program and gift a sh...</title>
+      <link>https://x.com/elonmusk/status/2074064376810614926</link>
+      <guid isPermaLink="false">twitter_elonmusk_2074064376810614926</guid>
+      <pubDate>2026-07-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>My husband and I are honored and thrilled to participate in the Invest America program and gift a share of our SpaceX stock to a Trump Account for each of more than two million children across our great nation. 
+
+Every American child under 18 can benefit from having a Trump Account, but our gift spe</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -142,6 +244,148 @@ https://t.co/QCqcwNnbOA
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>「Sakana Translate」を試す：
 https://t.co/QCqcwNnbOA
 🐟 🐟 🐟</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Tired of winning</title>
+      <link>https://x.com/ylecun/status/2074143203591073926</link>
+      <guid isPermaLink="false">twitter_ylecun_2074143203591073926</guid>
+      <pubDate>2026-07-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Tired of winning</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Today we're announcing the opening of Runway's first office in France, establishing a new research h...</title>
+      <link>https://x.com/runwayml/status/2074100794102595770</link>
+      <guid isPermaLink="false">twitter_runwayml_2074100794102595770</guid>
+      <pubDate>2026-07-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Today we're announcing the opening of Runway's first office in France, establishing a new research hub in Paris anchored by an initial team of ten employees.
+
+France is one of the world's strongest AI ecosystems. Its concentration of world-class research institutions, the depth of engineering talent</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>see you at ICML in Seoul and the AMI × SBVA mixer on thursday evening! looking forward to meeting ev...</title>
+      <link>https://x.com/ylecun/status/2073953877800419652</link>
+      <guid isPermaLink="false">twitter_ylecun_2073953877800419652</guid>
+      <pubDate>2026-07-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>see you at ICML in Seoul and the AMI × SBVA mixer on thursday evening! looking forward to meeting everyone :) 
+https://t.co/O8vjcGweEv</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Tencent just released Hy3 on Hugging Face
+
+295B MoE,
+21B active.
+
+Rivals 2-5x larger flagships on re...</title>
+      <link>https://x.com/_akhaliq/status/2074024501201813797</link>
+      <guid isPermaLink="false">twitter__akhaliq_2074024501201813797</guid>
+      <pubDate>2026-07-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Tencent just released Hy3 on Hugging Face
+
+295B MoE,
+21B active.
+
+Rivals 2-5x larger flagships on reasoning,
+coding, and agents.
+
+256K context,
+with anti-hallucination improvements
+and stable tool calling. https://t.co/YACXjIgEFf</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>As @Apptronik expands their Robot Park facility, our research partnership means real-world data coll...</title>
+      <link>https://x.com/GoogleDeepMind/status/2074157282477154597</link>
+      <guid isPermaLink="false">twitter_GoogleDeepMind_2074157282477154597</guid>
+      <pubDate>2026-07-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>As @Apptronik expands their Robot Park facility, our research partnership means real-world data collected by the latest Apollo 2 humanoid platform will help train and advance Gemini Robotics. 🤖
+
+Find out more → https://t.co/mo9QykKn4H https://t.co/5Ena9WLlJ9</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Sakana Translateを公開しました！わたしは毎日使っています。</title>
+      <link>https://x.com/hardmaru/status/2074087970559414621</link>
+      <guid isPermaLink="false">twitter_hardmaru_2074087970559414621</guid>
+      <pubDate>2026-07-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Sakana Translateを公開しました！わたしは毎日使っています。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>What if a routine breast cancer H&amp;amp;E slide could help answer a hard question: how likely is this ...</title>
+      <link>https://x.com/ylecun/status/2074081174482214989</link>
+      <guid isPermaLink="false">twitter_ylecun_2074081174482214989</guid>
+      <pubDate>2026-07-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>What if a routine breast cancer H&amp;amp;E slide could help answer a hard question: how likely is this cancer to come back? Our @NatureComms paper introduces a multimodal AI test for recurrence risk across invasive breast cancer subtypes.
+
+https://t.co/ilqvEYFwbT
+
+1/ https://t.co/ZibS1imlgl</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>OFFICIAL - TRY TO BEAT THIS LINE UP!!! 
+🔥 https://t.co/1GF8cjFZja https://t.co/tpgpBiq2PV</title>
+      <link>https://x.com/huggingface/status/2074119525113479332</link>
+      <guid isPermaLink="false">twitter_huggingface_2074119525113479332</guid>
+      <pubDate>2026-07-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>OFFICIAL - TRY TO BEAT THIS LINE UP!!! 
+🔥 https://t.co/1GF8cjFZja https://t.co/tpgpBiq2PV</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>After decades of building databases, Databricks VP of Engineering @nikitabase believes it's time to ...</title>
+      <link>https://x.com/databricks/status/2074131463809683798</link>
+      <guid isPermaLink="false">twitter_databricks_2074131463809683798</guid>
+      <pubDate>2026-07-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>After decades of building databases, Databricks VP of Engineering @nikitabase believes it's time to rethink one of their fundamental assumptions.
+
+In this episode of the 𝘐𝘵'𝘴 𝘈𝘣𝘰𝘶𝘵 𝘋𝘢𝘵𝘢 podcast, Nikita discusses why separating compute and storage is the next major architectural shift for operational</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>“There’s a new kind of thinker out there, […]. They arrive, thoughts formed and fully confident, wit...</title>
+      <link>https://x.com/JohnNosta/status/2074138832522313784</link>
+      <guid isPermaLink="false">twitter_JohnNosta_2074138832522313784</guid>
+      <pubDate>2026-07-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>“There’s a new kind of thinker out there, […]. They arrive, thoughts formed and fully confident, with the vocabulary of a seasoned expert and the cadence of an accomplished author. Yes, they have the conclusions and the language. But what they don’t have is the territory.” 👇🏻 https://t.co/rDIHHLahCc</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Arriving at an insight is not the same as making the journey yourself...
+
+AI and the Uber of Thought...</title>
+      <link>https://x.com/JohnNosta/status/2074133078658732371</link>
+      <guid isPermaLink="false">twitter_JohnNosta_2074133078658732371</guid>
+      <pubDate>2026-07-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Arriving at an insight is not the same as making the journey yourself...
+
+AI and the Uber of Thought 
+
+https://t.co/PGcgLMiquj</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Learn more: https://t.co/sytfU0idOM</title>
+      <link>https://x.com/runwayml/status/2074100796237418563</link>
+      <guid isPermaLink="false">twitter_runwayml_2074100796237418563</guid>
+      <pubDate>2026-07-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Learn more: https://t.co/sytfU0idOM</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Port forwarding, firewall rules, dynamic DNS: gone. This dev puts every device on one flat private n...</title>
+      <link>https://x.com/ThePracticalDev/status/2074116475397280207</link>
+      <guid isPermaLink="false">twitter_ThePracticalDev_2074116475397280207</guid>
+      <pubDate>2026-07-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Port forwarding, firewall rules, dynamic DNS: gone. This dev puts every device on one flat private network with Tailscale, plus SSH without managing keys.
+
+{ author: @eschmechel }
+
+https://t.co/CkThekcoHm</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -270,262 +514,6 @@ https://t.co/QCqcwNnbOA
       <guid isPermaLink="false">show-hn-osint-tool-that-finds-exposed-files-on-domains</guid>
       <pubDate>2026-07-06T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该工具是一款开源情报（OSINT）工具，专注于自动发现域名上意外暴露的文件（如配置文件、备份、日志等），帮助安全团队快速识别数据泄露风险。技术要点包括自动化爬取、文件类型智能识别和域名关联分析；商业价值体现在降低安全审计成本、提升漏洞响应速度；产品创新在于将传统手动OSINT流程转化为可扩展的自动化服务，为AI驱动的安全监测提供数据基础。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Why DMARC's new "NP" tag can fail with DNSSEC</title>
-      <link>https://news.ycombinator.com/item?id=48794788</link>
-      <guid isPermaLink="false">why-dmarcs-new-np-tag-can-fail-with-dnssec</guid>
-      <pubDate>2026-07-06T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文分析了DMARC协议新增的'NP'标签与DNSSEC（DNS安全扩展）共存时可能出现的兼容性问题。'NP'标签用于指示域名不发送邮件，但DNSSEC的验证机制可能导致该标签被误解或失效，影响邮件安全策略的准确执行。对于AI产品经理而言，理解这类底层协议交互有助于设计更健壮的邮件安全AI系统，如自动检测配置错误或优化垃圾邮件过滤。技术要点在于DNSSEC的签名验证优先级可能覆盖DMARC的NP声明，造成误判。此问题揭示了互联网基础设施的复杂性对上层AI应用的影响。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Airplane Boneyards List and Map</title>
-      <link>https://news.ycombinator.com/item?id=48786284</link>
-      <guid isPermaLink="false">airplane-boneyards-list-and-map</guid>
-      <pubDate>2026-07-06T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>《Airplane Boneyards List and Map》是一个提供全球飞机坟场位置与信息的资源，可能包含地图、列表和状态数据。对于AI产品经理而言，这类数据集可支持计算机视觉模型训练（如识别废弃飞机）、地理空间分析或资产追踪应用。技术上涉及开放数据整合、地图渲染与语义标注，商业上可用于航空维修、保险评估或旅游导览。产品创新点在于将分散的航空退役信息结构化并可视化，降低行业数据获取门槛。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>grateful to the people that created the idea of america, everyone who built it over the past 250 yea...</title>
-      <link>https://x.com/sama/status/2073635910512726444</link>
-      <guid isPermaLink="false">twitter_sama_2073635910512726444</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>grateful to the people that created the idea of america, everyone who built it over the past 250 years, and the people who will carry it forward for the next 250.
-
-most impressive social experiment in history.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸</title>
-      <link>https://x.com/elonmusk/status/2073703765962797178</link>
-      <guid isPermaLink="false">twitter_elonmusk_2073703765962797178</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>@TheAliceSmith I read the Declaration of Independence out loud today with heartfelt conviction.
-
-It ...</title>
-      <link>https://x.com/elonmusk/status/2073702122378678611</link>
-      <guid isPermaLink="false">twitter_elonmusk_2073702122378678611</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>@TheAliceSmith I read the Declaration of Independence out loud today with heartfelt conviction.
-
-It is a work not just of genius, but also of a purity of soul that resonates to this very day.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>"One of the most American values that I love is Optimism. We're gonna make the future good." 
-
-一 Elo...</title>
-      <link>https://x.com/elonmusk/status/2073585015552958559</link>
-      <guid isPermaLink="false">twitter_elonmusk_2073585015552958559</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>"One of the most American values that I love is Optimism. We're gonna make the future good." 
-
-一 Elon Musk https://t.co/2ZYLoTAGEO</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>our older kid put two words together for the first time and i am approximately as amazed by this cog...</title>
-      <link>https://x.com/sama/status/2073791666553844074</link>
-      <guid isPermaLink="false">twitter_sama_2073791666553844074</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>our older kid put two words together for the first time and i am approximately as amazed by this cognitive feat as i am by GPT-5.6 discovering new math</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>https://t.co/N4P0qXubBE</title>
-      <link>https://x.com/elonmusk/status/2073723522653069812</link>
-      <guid isPermaLink="false">twitter_elonmusk_2073723522653069812</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>https://t.co/N4P0qXubBE</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Done with Grok Imagine</title>
-      <link>https://x.com/elonmusk/status/2073722073864929580</link>
-      <guid isPermaLink="false">twitter_elonmusk_2073722073864929580</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Done with Grok Imagine</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>LONG LIVE FREEDOM, DAMMIT</title>
-      <link>https://x.com/elonmusk/status/2073624123151122732</link>
-      <guid isPermaLink="false">twitter_elonmusk_2073624123151122732</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>LONG LIVE FREEDOM, DAMMIT</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>In 1942 this was more than a song and more than a dance.
-
-It was a shared experience and mood. https...</title>
-      <link>https://x.com/JohnNosta/status/2073773757320368298</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2073773757320368298</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>In 1942 this was more than a song and more than a dance.
-
-It was a shared experience and mood. https://t.co/OcNrLYN4p5</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Trump not only seeks vengeance against his enemies but also fleeces his own supporters.</title>
-      <link>https://x.com/ylecun/status/2073764468514058749</link>
-      <guid isPermaLink="false">twitter_ylecun_2073764468514058749</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Trump not only seeks vengeance against his enemies but also fleeces his own supporters.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>🇺🇸🇺🇸</title>
-      <link>https://x.com/elonmusk/status/2073713545934667789</link>
-      <guid isPermaLink="false">twitter_elonmusk_2073713545934667789</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>🇺🇸🇺🇸</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>“That was fun, I’ll do it again when I get out,” said the 22-year-old Gambian violent offender after...</title>
-      <link>https://x.com/elonmusk/status/2073842509889843529</link>
-      <guid isPermaLink="false">twitter_elonmusk_2073842509889843529</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>“That was fun, I’ll do it again when I get out,” said the 22-year-old Gambian violent offender after he stabbed a 55-year-old Italian man twenty times.
-
-And he will be released again. Perhaps to succeed in killing a European next time. https://t.co/j1NbWDH8MI</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>they really nailed it with "life, liberty, and the pursuit of happiness"</title>
-      <link>https://x.com/sama/status/2073636003215249515</link>
-      <guid isPermaLink="false">twitter_sama_2073636003215249515</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>they really nailed it with "life, liberty, and the pursuit of happiness"</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Warm take: Your world model should never stop learning
-
-Introducing AdaJEPA, an adaptive WM that pla...</title>
-      <link>https://x.com/ylecun/status/2073563670437904423</link>
-      <guid isPermaLink="false">twitter_ylecun_2073563670437904423</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.8/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Warm take: Your world model should never stop learning
-
-Introducing AdaJEPA, an adaptive WM that plans, acts, and adapts in a closed loop. Every action leads to a new observation, and every transition refines the latent representation and prediction.
-
-📝: https://t.co/85WWwn5QDS https://t.co/kC8E0TO6</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>https://t.co/2QgCtbaEw7</title>
-      <link>https://x.com/swyx/status/2073657149067321412</link>
-      <guid isPermaLink="false">twitter_swyx_2073657149067321412</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.8/10</p><p><strong>类型:</strong> tweet</p><hr/><p>https://t.co/2QgCtbaEw7</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>btw @dakshgup i REALLY REALLY wanted to join the crew but just got too doublebooked to do it :/
-
-her...</title>
-      <link>https://x.com/swyx/status/2073630312249327918</link>
-      <guid isPermaLink="false">twitter_swyx_2073630312249327918</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>btw @dakshgup i REALLY REALLY wanted to join the crew but just got too doublebooked to do it :/
-
-here is me in my hip hop dance crew in 2003 (i am bottom left) https://t.co/ODR1yLGQGW</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Ambient or immersive XR? A 13-year debate between two Glass alums gets new fuel from agents that use...</title>
-      <link>https://x.com/ThePracticalDev/status/2073686067954254241</link>
-      <guid isPermaLink="false">twitter_ThePracticalDev_2073686067954254241</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Ambient or immersive XR? A 13-year debate between two Glass alums gets new fuel from agents that use the physical world as context.
-
-{ author: @afirstenberg + @GoogleDevExpert }
-
-https://t.co/DbldLVRQnJ</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>C and C++ kill the process when main() returns, threads or not. Python quietly waits. This dev expla...</title>
-      <link>https://x.com/ThePracticalDev/status/2073619131706786218</link>
-      <guid isPermaLink="false">twitter_ThePracticalDev_2073619131706786218</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>C and C++ kill the process when main() returns, threads or not. Python quietly waits. This dev explains why the difference matters.
-
-{ author: Paul J. Lucas }
-
-https://t.co/5jQqomVRJS</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Meta’s new model - Watermelon - is apparently a GPT 5.5 class model 
-
-The only problem is that 5.5 w...</title>
-      <link>https://x.com/bindureddy/status/2073915829406806526</link>
-      <guid isPermaLink="false">twitter_bindureddy_2073915829406806526</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Meta’s new model - Watermelon - is apparently a GPT 5.5 class model 
-
-The only problem is that 5.5 will become a legacy model next week when 5.6 launches 
-
-Watermelon hasn’t launched and will already be one generation behind</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>YOU CAN STRIP HIDDEN TRACKING DATA FROM AI TEXT WITHOUT LOSING YOUR ORIGINAL MEANING OR VOICE.
-
-Lear...</title>
-      <link>https://x.com/JohnNosta/status/2073605990231257207</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2073605990231257207</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>YOU CAN STRIP HIDDEN TRACKING DATA FROM AI TEXT WITHOUT LOSING YOUR ORIGINAL MEANING OR VOICE.
-
-Learn how. https://t.co/9nI35Q8hfZ</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Anxiously waiting for GPT 5.6….
-
-That way I can mix Fable and 5.6 smartly for all my coding prompts ...</title>
-      <link>https://x.com/bindureddy/status/2073827416221667510</link>
-      <guid isPermaLink="false">twitter_bindureddy_2073827416221667510</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Anxiously waiting for GPT 5.6….
-
-That way I can mix Fable and 5.6 smartly for all my coding prompts 
-
-It will simply be more intelligent and faster!
-
-Coming in the next couple of days?</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Good morning! 
-
-Today in 1946 in Paris, French designer Louis Reard introduced the bikini swimsuit, ...</title>
-      <link>https://x.com/JohnNosta/status/2073734512404525097</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2073734512404525097</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Good morning! 
-
-Today in 1946 in Paris, French designer Louis Reard introduced the bikini swimsuit, named after the Pacific atoll which days earlier was the site of the first peacetime atomic weapons test. https://t.co/fPvAYaub04</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Cohere and there https://t.co/m0zBKj07ZS</title>
-      <link>https://x.com/cohere/status/2073865600481337434</link>
-      <guid isPermaLink="false">twitter_cohere_2073865600481337434</guid>
-      <pubDate>2026-07-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Cohere and there https://t.co/m0zBKj07ZS</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>

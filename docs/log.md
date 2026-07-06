@@ -2491,3 +2491,15 @@
 - create: station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups.md
 - create: show-hn-paint-the-earth-on-a-live-interactive-globe-collaborative-art.md
 - create: show-hn-visualize-model-spikiness-in-3d.md
+
+## [2026-07-07 06:01] sync v3 | 10 new | pillars: {'patterns': 4, 'capabilities': 5, 'business': 1}
+- create: santifercareer-ops.md
+- create: a-global-workspace-in-language-models.md
+- create: officecli-office-suite-for-ai-agents-to-read-and-edit-microsoft-office-files.md
+- create: kani-a-model-checker-for-rust.md
+- create: show-hn-pulpie-models-for-cleaning-the-web.md
+- create: vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents.md
+- create: you-can-now-customize-siri8217s-pace-and-expressivity-in-the-latest-ios-27-beta.md
+- create: every-major-tech-layoff-in-2026-that-has-name-checked-ai.md
+- create: if-you-use-google-you8217re-training-its-ai-here8217s-how-to-opt-out.md
+- create: reddit-is-using-llms-to-solve-a-problem-llms-largely-created.md
