@@ -1,0 +1,31 @@
+{
+  "title": "TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning",
+  "summary": "In deep learning for tabular data, efficient ensembles of multilayer perceptrons (MLPs) have recently emerged as effective and practical architectures. Existing methods of this kind use the same hyperparameters for all underlying MLPs, which requires hyperparameter tuning for achieving the best performance. In this work, we introduce TabPack, an efficient MLP ensemble with strong out-of-the-box performance and reduced reliance on traditional tuning. In a single run, TabPack samples and trains many MLPs with different hyperparameters efficiently in parallel and selects ensemble members on the fly during training. Thus, TabPack only requires specifying ranges from which to sample MLP hyperparameter rather than exact hyperparameter values, which naturally demands less precision for good performance. In experiments on medium-to-large public datasets, TabPack with default settings performs on par with extensively tuned prior methods, thus substantially reducing effort and compute resources needed to achieve competitive results on tabular tasks. Notably, running the default TabPack configuration on a modern MacBook took less time than tuning some baselines on an industry-grade GPU.",
+  "url": "http://arxiv.org/abs/2607.05380v1",
+  "authors": [
+    "Yury Gorishniy",
+    "Akim Kotelnikov",
+    "Ivan Rubachev",
+    "Artem Babenko"
+  ],
+  "published": "2026-07-06T17:55:55Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "parameter",
+    "precision",
+    "dataset"
+  ],
+  "summary_cn": "TabPack提出一种针对表格数据的超参数集成方法，通过为每个多层感知机（MLP）设置不同的超参数，替代传统的统一超参数调优。该技术能在不增加显著计算开销的前提下提升集成模型的性能与鲁棒性，尤其适用于金融风控、客户预测等结构化数据场景。产品经理可关注其降低调优成本、快速部署高精度模型的能力，以及作为AutoML组件嵌入现有产品的潜力。",
+  "pm_relevance": 8,
+  "concepts": [
+    "表格深度学习",
+    "超参数集成",
+    "模型集成"
+  ],
+  "entities": [],
+  "patterns": [
+    "超参数集成模式"
+  ]
+}

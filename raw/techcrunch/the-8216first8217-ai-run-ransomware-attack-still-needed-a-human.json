@@ -1,0 +1,26 @@
+{
+  "title": "The &#8216;first&#8217; AI-run ransomware attack still needed a human",
+  "description": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.",
+  "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+  "pub_date": "Mon, 06 Jul 2026 23:56:14 +0000",
+  "tag": "TechCrunch",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent",
+    "autonomous"
+  ],
+  "summary_cn": "全球首次由AI智能体自主执行勒索软件攻击的技术细节被披露，但人类仍负责选择目标、搭建攻击基础设施、提供窃取的凭据，这意味着并非完全自动化的网络犯罪。该案例揭示了AI在攻击实施中的能力边界——AI可完成加密、传播等执行环节，但关键决策和初始入口仍依赖人类。对AI安全产品经理而言，需关注人机协作攻击模式下的防御策略，例如分离人类干预点与AI自动化链路，并设计更精准的攻击检测机制。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI安全",
+    "人机协作攻击",
+    "勒索软件自动化"
+  ],
+  "entities": [
+    "未知攻击者"
+  ],
+  "patterns": [
+    "人机混合攻击",
+    "AI辅助勒索"
+  ]
+}

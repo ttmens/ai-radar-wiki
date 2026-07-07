@@ -1,0 +1,31 @@
+{
+  "title": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
+  "summary": "Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Language-Action (VLA) policies tolerate such camera variations only when the camera extrinsics are explicitly provided, making them fragile and hard to use especially when view robustness is critical. We argue that the policy should not be told where the camera is, but rather figure it out by itself. To this end, we introduce Camera-Centric VLA (CamVLA), a new VLA model that decouples manipulation controls from camera geometry by predicting (i) a camera-centric end-effector action expressed in the local camera frame, and (ii) a 6-DoF hand-eye matrix relating cameras to the robot base. A deterministic geometric transformation composes the two predictions into a robot base-frame action. This disentangles how I should move in pose-independent camera-centric action generation from where I am looking from in camera-perspective geometric grounding. The resulting policy is calibration-free, depth-free, and single-view, requiring only a single monocular RGB image as the visual observation and task instruction at deployment. Evaluations in both simulation and real-world robot data show that CamVLA consistently improves success rates across diverse unseen viewpoints. Project page: https://alibaba-damo-academy.github.io/CamVLA/.",
+  "url": "http://arxiv.org/abs/2607.05396v1",
+  "authors": [
+    "Wenhao Li",
+    "Xueying Jiang",
+    "Quanhao Qian",
+    "Deli Zhao",
+    "Shijian Lu"
+  ],
+  "published": "2026-07-06T17:59:59Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "evaluation",
+    "eval",
+    "deployment"
+  ],
+  "summary_cn": "该论文提出一种无需相机标定的视图鲁棒视觉语言动作模型（VLA），解决了机器人实际部署中相机位置变动导致的性能下降问题。传统方法依赖精确外参，而本模型通过创新架构消除标定需求，使机器人能自适应不同视角的视觉输入，显著降低部署成本和时间。商业上可加速家庭/工业机器人落地，产品创新在于实现从固定相机到自由相机的跨越，提升机器人环境适应性和易用性。",
+  "pm_relevance": 8,
+  "concepts": [
+    "View-Robust VLA",
+    "Calibration-Free",
+    "Robot Deployment"
+  ],
+  "entities": [],
+  "patterns": [
+    "Calibration-Free Adaptation"
+  ]
+}

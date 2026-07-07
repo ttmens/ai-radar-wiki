@@ -1,0 +1,33 @@
+{
+  "title": "Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification",
+  "summary": "Time-domain surveys generate many transient candidates, making Real-Bogus classification a critical step in automated discovery pipelines. Reliable labels are costly, while community labels can be noisy and survey-dependent. We aim to develop a Real-Bogus classification framework that can be trained without human-labeled data using injected transients and bogus-dominated survey data, remains robust under strong class contamination, and provides calibrated uncertainty quantification. We combine simulated transient injections with a contaminated survey class and train a dual-network model using asymmetric co-teaching for classes with different label-noise levels. We evaluate performance on a benchmark subset and analyze the learned representation with latent-space visualization tools. For uncertainty quantification (UQ), we compare MC dropout and deep ensembles and propose a low-cost hybrid strategy that exploits the dual-network setting to improve calibration. We extend the evaluation to the light-curve domain to assess recovery of light-curve classes. The method achieves strong Real-Bogus performance on the labeled subset and remains stable under severe class contamination. It recovers transient light-curve classes with high fidelity, while single-source identification is limited by ambiguity in light-curve-derived labels. Our hybrid UQ approach achieves competitive calibration relative to more expensive ensemble baselines. Latent-space analyses indicate that uncertainty aligns with the decision boundary and reveal subclasses within the bogus population. Our results show that injection-driven, weakly supervised training can enable scalable and consistent Real-Bogus classification without human-labeled training data while providing calibrated uncertainties. The method is suited for transfer to forthcoming surveys by re-running the injection-based training pipeline.",
+  "url": "http://arxiv.org/abs/2607.05393v1",
+  "authors": [
+    "Raphaël Bonnet-Guerrini",
+    "Bruno Sanchez",
+    "Dominique Fouchez",
+    "Benjamin Racine",
+    "Maya Guy"
+  ],
+  "published": "2026-07-06T17:59:58Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "framework",
+    "evaluation",
+    "eval",
+    "pipeline"
+  ],
+  "summary_cn": "该论文提出一种无需人工标注的深度学习框架，用于时间域巡天中的真实/虚假瞬变事件分类，同时输出不确定性量化。传统方法依赖昂贵且可能噪声的社区标签，而本技术通过自监督或弱监督方式训练，显著降低标注成本，并增强分类可靠性。商业价值在于为天文大数据管道提供自动化、低成本的决策支持，可推广至其他标签稀缺的实时监控场景。产品创新点在于将不确定性信息集成到分类结果中，提升后续决策的鲁棒性。",
+  "pm_relevance": 8,
+  "concepts": [
+    "自动标注",
+    "不确定性量化",
+    "深度学习分类"
+  ],
+  "entities": [],
+  "patterns": [
+    "自监督学习模式",
+    "不确定性感知模式"
+  ]
+}

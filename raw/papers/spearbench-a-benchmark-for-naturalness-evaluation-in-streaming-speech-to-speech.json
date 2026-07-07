@@ -1,0 +1,34 @@
+{
+  "title": "SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Language Models",
+  "summary": "Streaming speech-to-speech language models aim to answer spoken queries directly with synthetic speech. However, standard speech and text benchmarks do not capture whether these systems behave naturally in conversations, where timing, turn-taking, prosody, interpersonal stance, language and dialect consistency, and relationship-aware appropriateness jointly shape perceived quality. We introduce SPEARBench, a benchmark for evaluating naturalness in speech-to-speech language models from question-answer interactions. SPEARBench constructs controlled dialogue prompts from the Seamless Interaction corpus, runs inference across multiple models, and evaluates generated answers using a multidimensional protocol that covers response latency, interruptions, speech quality, ASR robustness, language and dialect consistency, emotional naturalness, interpersonal stance, and explainable distributional baselines. The benchmark includes original human answers as a reference condition and reports results for several contemporary models. Results show that current models can achieve high signal-level quality and low ASR error while still differing from human conversational behavior in latency, overlap, dialect preservation, emotional adaptation, and interpersonal stance dynamics.",
+  "url": "http://arxiv.org/abs/2607.05365v1",
+  "authors": [
+    "Thomas Thebaud",
+    "Yuzhe Wang",
+    "Hao Zhang",
+    "Sathvik Manikantan Napa Ugandhar",
+    "Ashish Hallur"
+  ],
+  "published": "2026-07-06T17:42:59Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "latency",
+    "inference",
+    "benchmark"
+  ],
+  "summary_cn": "SPEARBench是一个针对流式语音到语音语言模型自然度评估的基准测试。传统评测聚焦文本或语音质量，而该基准关注对话中的时序、轮换、韵律、人际立场、语言方言等自然交互要素。对于AI产品经理，该基准有助于评估语音助手、客服系统等产品在真实对话场景下的用户体验，避免机械感，提升用户粘性。商业价值在于推动更拟人化的语音交互产品落地，创新点在于将自然度作为关键评测维度，而非仅关注语义或音质。",
+  "pm_relevance": 8,
+  "concepts": [
+    "流式语音模型",
+    "对话自然度",
+    "语音评估基准"
+  ],
+  "entities": [
+    "SPEARBench"
+  ],
+  "patterns": [
+    "Streaming Voice Interaction",
+    "Speech-to-Speech Model"
+  ]
+}

@@ -1,8 +1,19 @@
 {
   "date": "2026-07-07",
-  "generated_at": "2026-07-07T06:01:49.238504+08:00",
-  "item_count": 17,
+  "generated_at": "2026-07-07T12:01:49.987774+08:00",
+  "item_count": 37,
   "items": [
+    {
+      "id": "glm-52-and-the-coming-ai-margin-collapse",
+      "label": "GLM 5.2 and the coming AI margin collapse",
+      "summary": "GLM 5.2 是智谱AI的最新模型版本，可能通过架构优化或稀疏化技术显著降低推理成本，引发AI行业利润空间收窄的讨论。对产品经理而言，这意味着模型部署的经济性提升，但竞争将转向差异化应用与场景定制。商业价值在于更低的API调用成本可能催生新应用生态，同时基础模型同质化迫使产品侧聚焦体验与数据飞轮。",
+      "pm_score": 0.6,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48809877",
+      "date": "2026-07-07"
+    },
     {
       "id": "real-time-map-of-great-britains-rail-network",
       "label": "Real-time map of Great Britain's rail network",
@@ -37,6 +48,28 @@
       "date": "2026-07-07"
     },
     {
+      "id": "search-beyond-what-can-be-taught-evolving-the-knowledge-boundary-in-agentic-visu",
+      "label": "Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Vis",
+      "summary": "该论文针对视觉生成模型在应对未知、长尾用户请求（如新角色、事件）时出现知识瓶颈的问题，提出通过搜索或检索机制来动态扩展模型的知识边界。核心思路是将预训练模型的固定知识库与实时外部信息源结合，使生成器能够处理超出训练数据范围的实体和事件，从而提升生成内容的准确性和时效性。这为AI产品经理提供了解决视觉生成产品中“幻觉”问题的技术路径，商业价值在于降低模型更新成本并增强产品对新兴趋势的适应能力。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.05382v1",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "weak-to-strong-generalization-via-direct-on-policy-distillation",
+      "label": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
+      "summary": "本文提出Weak-to-Strong Generalization方法，通过直接在线策略蒸馏解决RLVR训练成本高的问题。传统RLVR需强模型生成大量推理轨迹，成本随模型规模增长。该方法利用弱模型生成的指导信号直接蒸馏强模型，实现无需大量rollout的泛化能力提升，降低后训练成本。技术要点包括在线策略对齐和分布匹配，商业价值在于加速模型迭代并节约算力，特别适用于推理增强型产品。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.05394v1",
+      "date": "2026-07-07"
+    },
+    {
       "id": "a-global-workspace-in-language-models",
       "label": "A global workspace in language models",
       "summary": "本文探讨了在语言模型中引入全局工作空间（Global Workspace）的概念，类似于人类认知中的全局工作记忆理论。通过为LLM构建一个共享的、动态的信息整合区域，模型能够更好地融合多个局部上下文，执行多步推理、长文档理解和跨任务协同。这一技术方向有望显著提升复杂任务（如代码生成、对话连贯性、知识密集型问答）的性能，降低上下文碎片化带来的信息损失。商业价值在于可扩展AI Agent的场景覆盖能力，产品创新上可能催生更智能的虚拟助理和自动化工作流。",
@@ -45,6 +78,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48808002",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "ternlight-7-mb-embedding-model-that-runs-in-browser-wasm",
+      "label": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+      "summary": "Ternlight 推出仅 7MB 的嵌入式模型，可在浏览器中通过 WASM 运行，无需服务器或 GPU。对于 AI 产品经理而言，这意味着极低的部署成本、零延迟推理以及数据隐私保障。该模型适用于本地搜索、分类、推荐等场景，可嵌入客户端产品。其商业价值在于消除对云服务的依赖，适合边缘设备和敏感数据环境。产品创新在于将大模型压缩至极小尺寸并实现浏览器内高效执行，开启了新的轻量级 AI 应用可能。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48811644",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "the-8216first8217-ai-run-ransomware-attack-still-needed-a-human",
+      "label": "The &#8216;first&#8217; AI-run ransomware attack still needed a human",
+      "summary": "全球首次由AI智能体自主执行勒索软件攻击的技术细节被披露，但人类仍负责选择目标、搭建攻击基础设施、提供窃取的凭据，这意味着并非完全自动化的网络犯罪。该案例揭示了AI在攻击实施中的能力边界——AI可完成加密、传播等执行环节，但关键决策和初始入口仍依赖人类。对AI安全产品经理而言，需关注人机协作攻击模式下的防御策略，例如分离人类干预点与AI自动化链路，并设计更精准的攻击检测机制。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
       "date": "2026-07-07"
     },
     {
@@ -81,6 +136,105 @@
       "date": "2026-07-07"
     },
     {
+      "id": "ai-the-roi-runway-could-be-long-outside-the-tech-sector",
+      "label": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
+      "summary": "AI 在科技行业之外的企业应用中，实现投资回报率的跑道可能更长。这意味着非科技领域的组织在部署 AI 时，需要更长时间的投入与耐心，因为行业特殊性、数据基础设施、流程整合及文化适应等挑战会延长 ROI 周期。对 AI 产品经理而言，这意味着在面向传统行业设计产品时，需关注长期价值、分阶段验证和定制化方案，而非追求短期收益。商业上应帮助客户规划渐进式落地路径，产品创新可聚焦于降低集成门槛与行业知识图谱构建。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48810533",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "from-fixed-to-free-cameras-calibration-free-view-robust-vision-language-action-m",
+      "label": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action",
+      "summary": "该论文提出一种无需相机标定的视图鲁棒视觉语言动作模型（VLA），解决了机器人实际部署中相机位置变动导致的性能下降问题。传统方法依赖精确外参，而本模型通过创新架构消除标定需求，使机器人能自适应不同视角的视觉输入，显著降低部署成本和时间。商业上可加速家庭/工业机器人落地，产品创新在于实现从固定相机到自由相机的跨越，提升机器人环境适应性和易用性。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.05396v1",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "cortex-a-bidirectionally-aligned-embodied-agent-framework-for-long-horizon-manip",
+      "label": "Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Mani",
+      "summary": "Cortex是一个面向长时域操作任务的双向对齐具身代理框架。针对当前视觉-语言-动作(VLA)模型因马尔可夫性（仅依赖当前观测）而在长期任务中表现不佳的问题，Cortex采用层次化双系统架构，通过双向对齐机制弥补高层规划与低层执行之间的鸿沟。该框架不仅提升了机器人执行复杂、长期操作任务的成功率，还为具身智能产品的商业化提供了可扩展的架构范式，尤其适用于自动化仓储、家庭服务等需要连续决策的场景。其产品创新在于将规划与执行紧密耦合，减少错误累积。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.05377v1",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "llm-as-a-verifier-a-general-purpose-verification-framework",
+      "label": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
+      "summary": "本文提出将“验证（verification）”作为大语言模型（LLM）能力提升的新缩放轴，即让LLM作为通用验证器来判断输出结果的正确性，与预训练、后训练和测试时计算并行。该方法通过独立扩展验证能力，显著提升模型在代码、数学等领域的可靠性，降低错误率。对产品经理而言，这一框架可直接用于构建高精度应用（如自动代码审查、金融合规检查），将验证从事后步骤升级为可并行优化的核心能力，实现“验证即服务”的产品创新。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.05391v1",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "compactionrl-reinforcement-learning-with-context-compaction-for-long-horizon-age",
+      "label": "CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Ag",
+      "summary": "CompactionRL提出了一种结合上下文压缩与强化学习的方法，解决长时程智能体在有限上下文窗口下的任务执行问题。通过用压缩后的历史交互状态替代原始轨迹，使LLM能够在不超出上下文限制的情况下持续学习与决策。该技术有望显著提升AI在复杂长期任务（如自动化工作流、多轮对话）中的实用性和效率，降低对硬件资源的依赖，为产品经理设计更智能、更持久的AI助手提供新思路。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.05378v1",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "tabpack-efficient-hyperparameter-ensembles-for-tabular-deep-learning",
+      "label": "TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning",
+      "summary": "TabPack提出一种针对表格数据的超参数集成方法，通过为每个多层感知机（MLP）设置不同的超参数，替代传统的统一超参数调优。该技术能在不增加显著计算开销的前提下提升集成模型的性能与鲁棒性，尤其适用于金融风控、客户预测等结构化数据场景。产品经理可关注其降低调优成本、快速部署高精度模型的能力，以及作为AutoML组件嵌入现有产品的潜力。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.05380v1",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "spearbench-a-benchmark-for-naturalness-evaluation-in-streaming-speech-to-speech",
+      "label": "SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech",
+      "summary": "SPEARBench是一个针对流式语音到语音语言模型自然度评估的基准测试。传统评测聚焦文本或语音质量，而该基准关注对话中的时序、轮换、韵律、人际立场、语言方言等自然交互要素。对于AI产品经理，该基准有助于评估语音助手、客服系统等产品在真实对话场景下的用户体验，避免机械感，提升用户粘性。商业价值在于推动更拟人化的语音交互产品落地，创新点在于将自然度作为关键评测维度，而非仅关注语义或音质。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.05365v1",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "interpretable-human-label-free-deep-learning-for-real-bogus-classification-with",
+      "label": "Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with",
+      "summary": "该论文提出一种无需人工标注的深度学习框架，用于时间域巡天中的真实/虚假瞬变事件分类，同时输出不确定性量化。传统方法依赖昂贵且可能噪声的社区标签，而本技术通过自监督或弱监督方式训练，显著降低标注成本，并增强分类可靠性。商业价值在于为天文大数据管道提供自动化、低成本的决策支持，可推广至其他标签稀缺的实时监控场景。产品创新点在于将不确定性信息集成到分类结果中，提升后续决策的鲁棒性。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.05393v1",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai",
+      "label": "US investors will soon get access to SK Hynix, another memory maker riding the A",
+      "summary": "SK海力士（SK Hynix）作为全球领先的内存制造商，受益于AI浪潮对高性能存储（如HBM高带宽内存）的爆发式需求，即将在美国进行数十亿美元规模的IPO。对AI产品经理而言，这标志着AI基础设施层的关键硬件——内存技术正成为AI模型训练和推理的核心瓶颈与增长点。海力士的HBM内存通过高带宽、低功耗特性，显著提升了GPU集群的运算效率，是支撑大规模模型部署的基础。其上市将吸引更多资本投入AI存储创新，并可能影响未来AI产品的成本结构和性能上限。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "date": "2026-07-07"
+    },
+    {
       "id": "every-major-tech-layoff-in-2026-that-has-name-checked-ai",
       "label": "Every major tech layoff in 2026 that has name-checked AI",
       "summary": "2026年大型科技公司裁员潮中，AI被频繁提及为关键因素。企业通过自动化与AI技术替代人力岗位，优化成本结构并加速数字化转型。这一趋势倒逼产品经理重新评估AI的落地价值：既要推动效率提升，也需关注人机协作模式对产品设计的影响。裁员潮背后反映了AI从辅助工具向核心生产驱动的转变，提示PM应聚焦于高附加值创新，而非简单替代人力。同时，企业需平衡技术投入与社会责任，避免品牌风险。整体看，AI驱动的组织调整正重塑科技行业竞争格局。",
@@ -100,6 +254,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "gap-a-graph-as-policy-multi-agent-self-learning-harness-for-variational-automati",
+      "label": "GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automat",
+      "summary": "GaP 是一种将图结构作为策略的多智能体自学习框架，专门针对变分自动化任务。该框架结合了可解释的机器人编程与模型无关策略的开放世界适应性，使机器人能够在商业和工业应用中更可靠地工作。技术要点包括图策略表示、多智能体协作自学习机制以及面向变分任务的自动化。商业价值在于提升机器人编程的灵活性和鲁棒性，降低部署成本。产品创新体现在将图结构与强化学习融合，实现可解释性与适应性平衡，为复杂动态场景的自动化提供新思路。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.05369v1",
       "date": "2026-07-07"
     },
     {
@@ -125,6 +290,17 @@
       "date": "2026-07-07"
     },
     {
+      "id": "pruning-rag-context-down-to-what-the-answer-actually-needs",
+      "label": "Pruning RAG context down to what the answer actually needs",
+      "summary": "本文探讨了如何对检索增强生成（RAG）中的上下文进行剪枝，仅保留回答所需的关键信息。技术要点包括：通过识别查询中的关键实体和关系，动态压缩检索结果，减少无关噪声。商业价值体现在降低API调用token成本、提升响应速度以及生成更精准的答案。产品创新方面，该策略可无缝集成到现有RAG流水线中，无需重新训练模型，显著改善用户体验。",
+      "pm_score": 0.415,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48809354",
+      "date": "2026-07-07"
+    },
+    {
       "id": "station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups",
       "label": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
       "summary": "巴黎创业中心 Station F 由法国亿万富翁 Xavier Niel 创立，正筹备新一期 F/ai 加速器项目，旨在强化其作为欧洲顶尖 AI 初创公司跳板的定位。该加速器为早期 AI 团队提供资金、导师资源和商业网络，重点推动从技术验证到市场落地的转化。对于 AI 产品经理而言，这意味着欧洲 AI 生态正在形成更成熟的孵化体系，有助于发现新兴产品方向、获取合作机会，并观察欧洲监管环境下的差异化创新路径。",
@@ -133,6 +309,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "what-does-a-discrete-diffusion-model-learn",
+      "label": "What Does a Discrete Diffusion Model Learn?",
+      "summary": "本文深入探讨了离散扩散模型（如用于文本或分子生成的模型）真正学习的目标是什么：是去噪器、分数比还是桥接插件预测器？作者从跳跃率层面论证，这些看似不同的概念在不同坐标下本质上是同一对象。如果以错误的坐标解读神经网络，就会改变实际训练和采样的过程。这一理论澄清对AI产品经理具有重要启示：理解模型底层学习目标有助于设计更可控、更高效的生成模型，特别是在离散数据场景（如代码生成、药物分子设计）中，能提升生成质量和训练稳定性，为产品创新提供理论支撑。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.05381v1",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "fitted-occupancy-ratio-evaluation-without-bellman-completeness",
+      "label": "Fitted Occupancy-Ratio Evaluation without Bellman Completeness",
+      "summary": "该论文提出一种新的离线强化学习评估方法——拟合占用率评估（Fitted Occupancy-Ratio Evaluation），无需依赖Bellman完备性假设，解决了传统方法中分布偏移的校正难题。通过直接拟合占用率，该方法在更宽松的理论条件下实现稳定且高效的策略评估，降低了离线评估的复杂性。对于AI产品经理而言，这意味着在推荐系统、自动驾驶等数据分布难以控制的场景中，可以更可靠地利用历史数据评估新策略效果，减少在线测试风险，加速产品迭代。该工作为强化学习在实际产品中的安全部署提供了关键技术支撑。",
+      "pm_score": 0.41,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.05375v1",
       "date": "2026-07-07"
     },
     {
@@ -189,10 +387,32 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48805624",
       "date": "2026-07-07"
+    },
+    {
+      "id": "small-ai-models-gain-traction-in-places-with-unreliable-networks",
+      "label": "Small AI Models Gain Traction In places with unreliable networks",
+      "summary": "小型AI模型（如TinyLlama、Phi-3等）正凭借更低的计算和网络需求，在不稳定网络地区（农村、偏远地带、移动场景）快速落地。这类模型可在设备本地完成推理，无需持续联网，大幅降低延迟和成本，拓展了AI应用的覆盖范围。对产品经理而言，这意味着可以开发面向离线或弱网环境的智能助手、翻译、客服等产品，同时减少云端依赖，提升用户隐私和数据安全。该趋势催生了边缘部署、模型压缩、量化等技术需求，有望重塑AI产品的部署策略和商业模式。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48812055",
+      "date": "2026-07-07"
+    },
+    {
+      "id": "show-hn-otari-your-open-source-llm-control-plane",
+      "label": "Show HN: Otari: your open-source LLM control plane",
+      "summary": "Otari 是一个开源的 LLM 控制平面，旨在为产品团队提供统一的接口来管理、路由和监控多个大语言模型调用。它能够实现负载均衡、成本控制、缓存策略和故障切换，降低对单一供应商的依赖。对于 AI 产品经理，Otari 可以帮助快速集成不同模型、优化推理成本并提升系统可靠性，同时保持开源灵活性，避免供应商锁定。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://github.com/mozilla-ai/otari",
+      "date": "2026-07-07"
     }
   ],
   "graph_totals": {
-    "real_nodes": 3042,
-    "edges": 3335
+    "real_nodes": 3089,
+    "edges": 3382
   }
 }

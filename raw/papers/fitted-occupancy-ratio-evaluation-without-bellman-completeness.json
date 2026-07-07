@@ -1,0 +1,25 @@
+{
+  "title": "Fitted Occupancy-Ratio Evaluation without Bellman Completeness",
+  "summary": "Occupancy ratios correct distribution shift in offline reinforcement learning and are central to off-policy evaluation. Existing primal-dual and minimax methods typically estimate these ratios by enforcing occupancy-balance moments over a critic class. We propose fitted occupancy-ratio evaluation (FORE), a fitted fixed-point method that characterizes the discounted occupancy ratio through an adjoint Bellman recursion. At each iteration, FORE solves a single-level density-ratio objective on one-step-transition data, thereby projecting the adjoint Bellman image onto a log-ratio class in Kullback--Leibler (KL) divergence. Unlike analyses of fitted Q-evaluation, which typically require value-function realizability together with Bellman completeness or projected-operator stability, our central approximation condition is just realizability of the discounted occupancy ratio itself. Under this condition, the population KL-projected recursion contracts in relative entropy toward the true ratio by virtue of the adjoint Bellman operator being a KL-contraction. For the empirical recursion, we establish finite-sample regret bounds that yield convergence in KL up to log-ratio approximation error and a statistical error governed by the complexity of the ratio hypothesis class. The fitted ratio supports direct value estimation by reward reweighting, occupancy-weighted fitted Q-evaluation, and doubly robust estimation that combines the fitted ratio with a fitted Q-function. Together, these results identify discounted occupancy-ratio realizability as a sufficient condition for offline policy evaluation without any completeness assumptions.",
+  "url": "http://arxiv.org/abs/2607.05375v1",
+  "authors": [
+    "Lars van der Laan",
+    "Nathan Kallus"
+  ],
+  "published": "2026-07-06T17:53:32Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "evaluation",
+    "eval"
+  ],
+  "summary_cn": "该论文提出一种新的离线强化学习评估方法——拟合占用率评估（Fitted Occupancy-Ratio Evaluation），无需依赖Bellman完备性假设，解决了传统方法中分布偏移的校正难题。通过直接拟合占用率，该方法在更宽松的理论条件下实现稳定且高效的策略评估，降低了离线评估的复杂性。对于AI产品经理而言，这意味着在推荐系统、自动驾驶等数据分布难以控制的场景中，可以更可靠地利用历史数据评估新策略效果，减少在线测试风险，加速产品迭代。该工作为强化学习在实际产品中的安全部署提供了关键技术支撑。",
+  "pm_relevance": 6,
+  "concepts": [
+    "离线强化学习",
+    "占用率评估",
+    "分布偏移"
+  ],
+  "entities": [],
+  "patterns": []
+}

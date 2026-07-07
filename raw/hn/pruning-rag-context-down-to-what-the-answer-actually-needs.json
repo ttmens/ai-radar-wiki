@@ -1,0 +1,23 @@
+{
+  "title": "Pruning RAG context down to what the answer actually needs",
+  "score": 63,
+  "comments": 8,
+  "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+  "hn_url": "https://news.ycombinator.com/item?id=48809354",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "rag"
+  ],
+  "summary_cn": "本文探讨了如何对检索增强生成（RAG）中的上下文进行剪枝，仅保留回答所需的关键信息。技术要点包括：通过识别查询中的关键实体和关系，动态压缩检索结果，减少无关噪声。商业价值体现在降低API调用token成本、提升响应速度以及生成更精准的答案。产品创新方面，该策略可无缝集成到现有RAG流水线中，无需重新训练模型，显著改善用户体验。",
+  "pm_relevance": 9,
+  "concepts": [
+    "RAG 优化",
+    "上下文剪枝"
+  ],
+  "entities": [],
+  "patterns": [
+    "Retrieval-Augmented Generation",
+    "Context Pruning"
+  ]
+}

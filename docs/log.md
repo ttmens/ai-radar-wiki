@@ -2503,3 +2503,27 @@
 - create: every-major-tech-layoff-in-2026-that-has-name-checked-ai.md
 - create: if-you-use-google-you8217re-training-its-ai-here8217s-how-to-opt-out.md
 - create: reddit-is-using-llms-to-solve-a-problem-llms-largely-created.md
+
+## [2026-07-07 12:01] sync v3 | 22 new | pillars: {'ecosystem': 4, 'capabilities': 15, 'patterns': 3}
+- create: from-fixed-to-free-cameras-calibration-free-view-robust-vision-language-action-m.md
+- create: weak-to-strong-generalization-via-direct-on-policy-distillation.md
+- create: interpretable-human-label-free-deep-learning-for-real-bogus-classification-with.md
+- create: llm-as-a-verifier-a-general-purpose-verification-framework.md
+- create: search-beyond-what-can-be-taught-evolving-the-knowledge-boundary-in-agentic-visu.md
+- create: what-does-a-discrete-diffusion-model-learn.md
+- create: tabpack-efficient-hyperparameter-ensembles-for-tabular-deep-learning.md
+- create: compactionrl-reinforcement-learning-with-context-compaction-for-long-horizon-age.md
+- create: cortex-a-bidirectionally-aligned-embodied-agent-framework-for-long-horizon-manip.md
+- create: fitted-occupancy-ratio-evaluation-without-bellman-completeness.md
+- create: gap-a-graph-as-policy-multi-agent-self-learning-harness-for-variational-automati.md
+- create: spearbench-a-benchmark-for-naturalness-evaluation-in-streaming-speech-to-speech.md
+- create: glm-52-and-the-coming-ai-margin-collapse.md
+- create: ternlight-7-mb-embedding-model-that-runs-in-browser-wasm.md
+- create: small-ai-models-gain-traction-in-places-with-unreliable-networks.md
+- create: pruning-rag-context-down-to-what-the-answer-actually-needs.md
+- create: polyml-a-standard-ml-implementation.md
+- create: ai-the-roi-runway-could-be-long-outside-the-tech-sector.md
+- create: the-8216first8217-ai-run-ransomware-attack-still-needed-a-human.md
+- create: us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai.md
+- create: show-hn-otari-your-open-source-llm-control-plane.md
+- create: show-hn-llm-thought-visualization.md

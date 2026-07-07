@@ -1,0 +1,32 @@
+{
+  "title": "CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents",
+  "summary": "Long-horizon agentic LLMs are increasingly limited by finite context windows, as extended interaction trajectories can exceed the maximum context length before a task is completed. Context compaction offers a natural solution by summarizing previous interaction states and continuing the rollout under a compressed context, but incorporating compaction into reinforcement learning remains underexplored. We propose CompactionRL, a reinforcement learning strategy to train long-horizon agentic LLMs with context compaction. Our approach jointly optimizes task execution and summary generation with token-level loss normalization and cross-trajectory generalized advantage estimation. This design enables the LLM agents to learn from compacted long-horizon trajectories. We train CompactionRL on top of open models and observe consistent performance gains on agentic coding tasks. CompactionRL enables the open GLM-4.5-Air model (106B-A30B) to achieve Pass@1 scores of 66.8% on SWE-bench Verified and 24.5% on Terminal-Bench 2.0, with absolute gains of 7.0 and 3.1 points, respectively. Built upon GLM-4.7-Flash (30B-A3B), CompactionRL improves Pass@1 by 5.5 and 6.8 points, reaching 56.0% on SWE-bench Verified and 20.2% on Terminal-Bench 2.0, respectively. CompactionRL is thus deployed in the RL pipeline for training the open GLM-5.2 model (750B-A40B).",
+  "url": "http://arxiv.org/abs/2607.05378v1",
+  "authors": [
+    "Yujiang Li",
+    "Zhenyu Hou",
+    "Yi Jing",
+    "Jie Tang",
+    "Yuxiao Dong"
+  ],
+  "published": "2026-07-06T17:55:12Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "context window",
+    "token",
+    "training"
+  ],
+  "summary_cn": "CompactionRL提出了一种结合上下文压缩与强化学习的方法，解决长时程智能体在有限上下文窗口下的任务执行问题。通过用压缩后的历史交互状态替代原始轨迹，使LLM能够在不超出上下文限制的情况下持续学习与决策。该技术有望显著提升AI在复杂长期任务（如自动化工作流、多轮对话）中的实用性和效率，降低对硬件资源的依赖，为产品经理设计更智能、更持久的AI助手提供新思路。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Long-Term Context",
+    "Context Compression",
+    "Reinforcement Learning"
+  ],
+  "entities": [],
+  "patterns": [
+    "Agent Pattern",
+    "Memory-Augmented AI"
+  ]
+}
