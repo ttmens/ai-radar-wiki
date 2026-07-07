@@ -1,0 +1,25 @@
+{
+  "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
+  "score": 40,
+  "comments": 15,
+  "url": "https://github.com/kklimuk/docx-cli",
+  "hn_url": "https://news.ycombinator.com/item?id=48821500",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token"
+  ],
+  "summary_cn": "Docx-CLI 是一个命令行工具，允许AI代理以更高效的方式读取和编辑Word文档。相比传统方法，它可节省一半的时间和令牌消耗。通过优化文档解析和操作流程，该工具降低了AI处理办公文档的成本，提升了实时交互性能。对于AI产品经理而言，这项技术能够直接减少文档处理功能的部署成本，加速产品迭代，尤其适合需要大量文档自动化处理的场景。",
+  "pm_relevance": 8,
+  "concepts": [
+    "文档理解",
+    "令牌优化"
+  ],
+  "entities": [
+    "Docx-CLI"
+  ],
+  "patterns": [
+    "Agent-辅助文档编辑",
+    "效率优化模式"
+  ]
+}

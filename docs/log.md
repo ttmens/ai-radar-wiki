@@ -2532,3 +2532,24 @@
 - create: yc-ceo-says-he-ships-37k-loc-ai-code-per-day-a-developer-looked-under-the-hood.md
 - create: nsa-and-ietf-fairness.md
 - create: the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine.md
+
+## [2026-07-08 06:02] sync v3 | 19 new | pillars: {'capabilities': 14, 'patterns': 3, 'ecosystem': 1, 'business': 1}
+- create: local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro.md
+- create: chat-control-10-and-20-explained.md
+- create: show-hn-davit-a-apple-containers-ui.md
+- create: ai-meets-cryptography-1-what-ai-found-in-cloudflares-circl.md
+- create: 30paperscom-ilyas-30-essential-ml-papers-in-a-beginner-friendly-format.md
+- create: show-hn-rowboat-open-source-local-first-alternative-to-claude-desktop.md
+- create: show-hn-docx-cli-agents-readedit-word-docs-using-12-the-time-and-tokens.md
+- create: automating-ai-away.md
+- create: why-skilled-workers-come-to-germany-and-then-leave-again.md
+- create: mens-average-testosterone-levels-have-halved-in-last-50-years.md
+- create: github-freno-cooperative-highly-available-throttler-service.md
+- create: c-details-of-asymmetric-fences.md
+- create: why-the-rise-of-open-source-ai-isn8217t-hurting-anthropic-8230-yet.md
+- create: microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models.md
+- create: discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images.md
+- create: claude-cowork-expands-to-mobile-and-web.md
+- create: savi8217s-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers.md
+- create: show-hn-halo-open-source-tamper-evident-runtime-evidence-for-ai-agents.md
+- create: show-hn-baerly-storage-a-document-db-that-runs-per-request-no-db-server.md
