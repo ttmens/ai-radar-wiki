@@ -2,47 +2,36 @@
   "daily_summary": {
     "date": "2026-07-07",
     "headline": "今日 AI 情报 · 2026-07-07",
-    "overview": "模型成本崩溃、架构分离与验证崛起，AI产品进入精细分化阶段",
+    "overview": "AI成本骤降与模块化部署驱动行业从模型竞赛转向工程化落地",
     "narratives": [
       {
-        "title": "模型成本竞争进入白热化，基础模型商业化面临利润悬崖",
-        "body": "GLM-5.2等模型通过架构优化大幅降低推理成本，弱到强蒸馏、上下文压缩等技术进一步削减部署开销，模型层的利润率将急剧压缩。产品经理需将重心从模型选择转向应用差异化，利用低成本模型构建数据飞轮和场景定制，避免陷入价格战。",
-        "type": "maturation",
-        "pillar_key": "business"
-      },
-      {
-        "title": "模型与代理分离成为AI产品架构新范式",
-        "body": "Vercel CEO明确主张分离模型与智能体以实现独立迭代与成本控制，全局工作空间和Cortex双向对齐框架从技术层面支持这种解耦。模块化、分层架构正成为构建可靠、可扩展AI产品的关键，产品经理应推动内部架构分层，使上层逻辑不依赖特定模型，快速适配性价比最优的底层服务。",
+        "title": "AI模型成本坍塌与生产化部署",
+        "body": "GLM 5.2、Ternlight等案例显示模型推理成本急剧下降，边缘端7MB嵌入模型可运行于浏览器，同时Vercel CEO强调模型与Agent分离以实现独立迭代。这意味着AI产品可聚焦于架构解耦与场景定制，基础模型同质化将竞争推向系统集成与用户体验。",
         "type": "paradigm_shift",
         "pillar_key": "patterns"
       },
       {
-        "title": "验证能力成为AI产品可靠性的新支柱",
-        "body": "多项研究将验证作为独立缩放轴（LLM-as-a-Verifier），真实产品如Reddit用LLM检测垃圾信息、SPEARBench评估语音自然度，表明确保输出质量不再是事后步骤而是核心能力。产品经理需在产品中内嵌验证模块，实现“验证即服务”，提升用户信任。",
+        "title": "AI安全治理与用户隐私的新平衡",
+        "body": "AI勒索软件首秀、Reddit用LLM反LLM垃圾、NSA/IETF关注公平性、Google用户数据训练争议——AI的双刃剑效应迫使产品经理在功能迭代与风险管控间寻找平衡，需设计透明机制与安全冗余。",
         "type": "bottleneck",
-        "pillar_key": "capabilities"
+        "pillar_key": "ecosystem"
       }
     ],
     "insights": [
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "模型与代理分离成为AI产品架构新范式",
-        "insight": "模型与代理分离成为AI产品架构新范式。该方向的具体信号：Vercel CEO Guillermo Rauch在TechCrunch采访中强调生产环境需分离模型与智能体以实现独立迭代，同时全局工作空间（Global Workspace）研究和Cortex双向对齐框架分别从认知架构和具身智能层面验证了分层解耦的可行性。产品经理应推动模块化设计，让上层智能体逻辑独立于底层模型，从而快速切换性价比最优的服务并降低耦合风险。",
+        "narrative_title": "AI模型成本坍塌与生产化部署",
+        "insight": "AI模型成本坍塌与生产化部署。该方向的具体信号：Vercel CEO提出Model与Agent分离以优化成本与性能，Apple Siri可自定义语速体现个性化交互，同时首个AI勒索软件案例暴露自动化攻击边界——这些共同指向AI产品需从单一模型演进为模块化、可编排的系统。",
         "evidence": [
           {
             "id": "vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents",
-            "title": "Vercel CEO on splitting models from agents",
+            "title": "Vercel CEO: 模型与Agent分离实现独立迭代",
             "score": 0.52
           },
           {
-            "id": "a-global-workspace-in-language-models",
-            "title": "Global workspace in language models",
-            "score": 0.49
-          },
-          {
-            "id": "cortex-a-bidirectionally-aligned-embodied-agent-framework-for-long-horizon-manip",
-            "title": "Cortex: bidirectionally aligned embodied agent framework",
+            "id": "you-can-now-customize-siri8217s-pace-and-expressivity-in-the-latest-ios-27-beta",
+            "title": "Siri自定义语速与表现力",
             "score": 0.48
           }
         ]
@@ -50,22 +39,40 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "narrative_title": "验证能力成为AI产品可靠性的新支柱",
-        "insight": "验证能力成为AI产品可靠性的新支柱。该方向的具体信号：Reddit使用LLM检测AI生成垃圾信息（以火攻火），SPEARBench基准测试关注流式语音的自然度评估，均体现出验证环节从可选附加功能向核心闭环的转变。生态层面正在催生验证即服务（Verification-as-a-Service）工具链，产品经理应主动引入或构建验证模块，与生成能力形成闭环。",
+        "narrative_title": "AI安全治理与用户隐私的新平衡",
+        "insight": "AI安全治理与用户隐私的新平衡。该方向的具体信号：Reddit使用LLM对抗LLM生成的垃圾内容，NSA与IETF着手制定AI公平性标准，Google因用户数据用于模型训练面临隐私选择压力——展现AI生态中攻击与防御、合规与创新同步升级的格局。",
         "evidence": [
           {
             "id": "reddit-is-using-llms-to-solve-a-problem-llms-largely-created",
-            "title": "Reddit using LLMs to solve LLM-created spam",
+            "title": "Reddit用LLM检测LLM垃圾内容",
             "score": 0.48
           },
           {
-            "id": "spearbench-a-benchmark-for-naturalness-evaluation-in-streaming-speech-to-speech",
-            "title": "SPEARBench: benchmark for speech naturalness",
-            "score": 0.48
+            "id": "nsa-and-ietf-fairness",
+            "title": "NSA与IETF聚焦AI公平性标准",
+            "score": 0.49
           },
           {
-            "id": "llm-as-a-verifier-a-general-purpose-verification-framework",
-            "title": "LLM-as-a-Verifier verification framework",
+            "id": "if-you-use-google-you8217re-training-its-ai-here8217s-how-to-opt-out",
+            "title": "Google用户数据用于AI训练及退出机制",
+            "score": 0.48
+          }
+        ]
+      },
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI模型成本坍塌与生产化部署",
+        "insight": "AI模型成本坍塌与生产化部署。该方向的具体信号：GLM 5.2通过稀疏化压缩推理成本，Ternlight以7MB嵌入模型实现浏览器端运行，Weak-to-Strong蒸馏降低后训练开销——多重技术突破共同推动AI部署从云端走向边缘、从昂贵走向普惠。",
+        "evidence": [
+          {
+            "id": "glm-52-and-the-coming-ai-margin-collapse",
+            "title": "GLM 5.2引发利润空间收窄讨论",
+            "score": 0.6
+          },
+          {
+            "id": "ternlight-7-mb-embedding-model-that-runs-in-browser-wasm",
+            "title": "Ternlight 7MB嵌入模型浏览器运行",
             "score": 0.48
           }
         ]
@@ -73,26 +80,49 @@
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "narrative_title": "模型成本竞争进入白热化，基础模型商业化面临利润悬崖",
-        "insight": "模型成本竞争进入白热化，基础模型商业化面临利润悬崖。该方向的具体信号：GLM-5.2的架构优化引发推理成本骤降讨论，Weak-to-Strong Distillation论文展示了用弱模型蒸馏强模型以降低RLVR训练成本，CompactionRL通过上下文压缩减少长任务部署开销。同时，AI在非科技行业的ROI实现周期更长，提示产品经理需聚焦高价值场景并分阶段验证商业模型。",
+        "narrative_title": "AI安全治理与用户隐私的新平衡",
+        "insight": "AI安全治理与用户隐私的新平衡。该方向的具体信号：Google更新隐私政策允许更多用户数据用于模型训练，同时提供Opt-out——这体现平台在数据价值与用户信任之间的商业博弈，AI产品经理需在合规框架下设计闭环数据策略。",
         "evidence": [
           {
-            "id": "glm-52-and-the-coming-ai-margin-collapse",
-            "title": "GLM-5.2 and AI margin collapse",
-            "score": 0.6
-          },
-          {
-            "id": "weak-to-strong-generalization-via-direct-on-policy-distillation",
-            "title": "Weak-to-Strong Generalization via distillation",
-            "score": 0.52
+            "id": "if-you-use-google-you8217re-training-its-ai-here8217s-how-to-opt-out",
+            "title": "Google用户数据用于AI训练及退出机制",
+            "score": 0.48
           }
         ]
       }
     ],
-    "stats": "技术能力: 12 | 产品模式: 3 | 工具生态: 3 | 商业趋势: 2",
+    "stats": "技术能力: 12 | 产品模式: 3 | 工具生态: 2 | 商业趋势: 1",
     "total_items": 20,
     "high_value_count": 20,
     "all_today_ids": [
+      {
+        "id": "twitter_elonmusk_2074339319779569908",
+        "label": "AI+Optimus will enable universal excellent healthcare that is better than anyone receives today"
+      },
+      {
+        "id": "twitter_elonmusk_2074338887367786977",
+        "label": "True"
+      },
+      {
+        "id": "twitter_elonmusk_2074305337373462852",
+        "label": "https://t.co/szhJMG4dlr"
+      },
+      {
+        "id": "twitter_cohere_2074305224248848527",
+        "label": "1 in 4 people in Toronto this week works at Cohere https://t.co/Mma5mkDkfI"
+      },
+      {
+        "id": "twitter_hardmaru_2074323799059857743",
+        "label": "「恐縮ですが」「それな」も自然に英訳　Sakana AI“温度感”伝える翻訳サービス公開　添削機能も\nhttps://t.co/fx0yA84h10"
+      },
+      {
+        "id": "twitter_bindureddy_2074284004828905962",
+        "label": "July Timetable for models\n\nGPT 5.6 - tomorrow or thursday\nGrok 4.5 - in beta \nGemini 3.5 - available..."
+      },
+      {
+        "id": "twitter_bindureddy_2074331740869710135",
+        "label": "Haha! The hype train is unreal \n\nNow I am seeing people claiming that Gemini 3.5 is Fable level on s..."
+      },
       {
         "id": "glm-52-and-the-coming-ai-margin-collapse",
         "label": "GLM 5.2 and the coming AI margin collapse"
@@ -116,6 +146,10 @@
       {
         "id": "weak-to-strong-generalization-via-direct-on-policy-distillation",
         "label": "Weak-to-Strong Generalization via Direct On-Policy Distillation"
+      },
+      {
+        "id": "nsa-and-ietf-fairness",
+        "label": "NSA and IETF: Fairness"
       },
       {
         "id": "a-global-workspace-in-language-models",
@@ -182,6 +216,10 @@
         "label": "Every major tech layoff in 2026 that has name-checked AI"
       },
       {
+        "id": "the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
+        "label": "The first American autonomous ground vehicles are fighting in Ukraine"
+      },
+      {
         "id": "microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales",
         "label": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales"
       },
@@ -192,6 +230,10 @@
       {
         "id": "behind-the-scenes-with-the-midjourney-scanner-video",
         "label": "Behind the scenes with the Midjourney scanner [video]"
+      },
+      {
+        "id": "yc-ceo-says-he-ships-37k-loc-ai-code-per-day-a-developer-looked-under-the-hood",
+        "label": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood"
       },
       {
         "id": "officecli-office-suite-for-ai-agents-to-read-and-edit-microsoft-office-files",
@@ -263,6 +305,6 @@
       }
     ],
     "date_bj": "2026-07-07 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-07-07 12:01:12"
+    "generated_at_bj": "2026-07-07 18:01:05"
   }
 }

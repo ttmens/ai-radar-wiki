@@ -2527,3 +2527,8 @@
 - create: us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai.md
 - create: show-hn-otari-your-open-source-llm-control-plane.md
 - create: show-hn-llm-thought-visualization.md
+
+## [2026-07-07 18:01] sync v3 | 3 new | pillars: {'capabilities': 2, 'patterns': 1}
+- create: yc-ceo-says-he-ships-37k-loc-ai-code-per-day-a-developer-looked-under-the-hood.md
+- create: nsa-and-ietf-fairness.md
+- create: the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine.md

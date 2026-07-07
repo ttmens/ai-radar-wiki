@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-07 | Total pages: 2278
+> Last updated: 2026-07-07 | Total pages: 2281
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -782,6 +782,7 @@
 - [[wwdc-2026-what-to-expect-from-siri8217s-highly-anticipated-revamp-to-apple-intel.md]] WWDC 2026: What to expect, from Siri&#8217;s highly anticipated revamp to Apple `pillar:capabilities` `score:0.48`
 - [[xorbitsaiinference.md]] xorbitsai/inference `pillar:capabilities` `score:0.565`
 - [[xreal-google8217s-smart-glasses-partner-thinks-it-has-finally-mastered-this-noto.md]] Xreal, Google&#8217;s smart glasses partner, thinks it has finally mastered this `pillar:capabilities` `score:0.43`
+- [[yc-ceo-says-he-ships-37k-loc-ai-code-per-day-a-developer-looked-under-the-hood.md]] YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood `pillar:capabilities` `score:0.43`
 - [[yep-we8217re-using-openclaw-to-date-now.md]] Yep, we&#8217;re using OpenClaw to date now `pillar:capabilities` `score:0.445`
 - [[you-can-no-longer-google-the-word-8216disregard8217.md]] You can no longer Google the word &#8216;disregard&#8217; `pillar:capabilities` `score:0.445`
 - [[you-dont-align-an-ai-you-align-with-it.md]] You Don't Align an AI, You Align with It `pillar:capabilities` `score:0.43`
@@ -1514,6 +1515,7 @@
 - [[the-8216first8217-ai-run-ransomware-attack-still-needed-a-human.md]] The &#8216;first&#8217; AI-run ransomware attack still needed a human `pillar:patterns` `score:0.48`
 - [[the-8216together-tech8217-wave-might-be-the-most-intriguing-startup-bet-of-2026.md]] The &#8216;together tech&#8217; wave might be the most intriguing startup bet of `pillar:patterns` `score:0.305`
 - [[the-ai-world-is-getting-8216loopy8217.md]] The AI world is getting &#8216;loopy&#8217; `pillar:patterns` `score:0.48`
+- [[the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine.md]] The first American autonomous ground vehicles are fighting in Ukraine `pillar:patterns` `score:0.445`
 - [[the-internet-is-being-rebuilt-for-machines.md]] The internet is being rebuilt for machines `pillar:patterns` `score:0.445`
 - [[the-log-is-the-agent.md]] The Log Is the Agent `pillar:patterns` `score:0.33`
 - [[the-low-tech-ai-of-elden-ring.md]] The Low-Tech AI of Elden Ring `pillar:patterns` `score:0.395`
@@ -1741,6 +1743,7 @@
 - [[new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions.md]] New Microsoft tool lets devs spin up AI behavior tests using text descriptions `pillar:ecosystem` `score:0.48`
 - [[norway-imposes-near-ban-on-ai-in-elementary-school.md]] Norway imposes near ban on AI in elementary school `pillar:ecosystem` `score:0.445`
 - [[notion-restores-access-to-anthropic-after-service-disruption.md]] Notion restores access to Anthropic after service disruption `pillar:ecosystem` `score:0.445`
+- [[nsa-and-ietf-fairness.md]] NSA and IETF: Fairness `pillar:ecosystem` `score:0.495`
 - [[nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups.md]] Nvidia posts another record quarter, reveals $43 billion of holdings in startups `pillar:ecosystem` `score:0.48`
 - [[nvidia-wants-to-cut-data-center-water-use-but-that8217s-not-the-same-as-fixing-a.md]] Nvidia wants to cut data center water use, but that&#8217;s not the same as fixi `pillar:ecosystem` `score:0.445`
 - [[nvidiatensorrt.md]] NVIDIA/TensorRT `pillar:ecosystem` `score:0.615`
