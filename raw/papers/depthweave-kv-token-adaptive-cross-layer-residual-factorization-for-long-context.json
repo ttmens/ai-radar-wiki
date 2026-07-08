@@ -1,0 +1,41 @@
+{
+  "title": "DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression",
+  "summary": "Long-context language model inference is increasingly limited by the memory bandwidth and capacity required to store key-value caches, yet existing compression methods often apply uniform budgets across layers or tokens and degrade retrieval when lexical cues and semantic states require different preservation. We introduce DepthWeave-KV, a token-adaptive cache compression method that factorizes key and value states across neighboring transformer layers using shared low-rank channel bases while retaining lightweight token-specific residuals where attention behavior is sensitive. DepthWeave-KV combines cross-depth residual factorization with a token-conditional depth router that allocates higher reconstruction rank to instruction-bearing and retrieval-critical tokens, and uses calibration-free online error tracking from attention-output probes to adapt compression during generation without retraining the base model. A fused CUDA implementation jointly performs basis lookup, residual dequantization, and attention projection to reduce decode-time memory traffic. Across LongBench, Needle-in-a-Haystack, L-Eval, and long-form QA and summarization benchmarks, DepthWeave-KV achieves near-full-cache task quality with substantially lower memory use, improving average score and retrieval accuracy over prior compressed caches while reaching 8.3x KV memory reduction and 72.8 tokens per second at 64K context.",
+  "url": "http://arxiv.org/abs/2607.06523v1",
+  "authors": [
+    "Anna Cordoba",
+    "Adam Puente Tercero",
+    "Nerea Angulo Hijo",
+    "Mar Linares Tercero",
+    "Julia Barrientos"
+  ],
+  "published": "2026-07-07T17:29:01Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "token",
+    "benchmark",
+    "quantization",
+    "training",
+    "compression",
+    "transformer",
+    "attention",
+    "accuracy",
+    "retrieval"
+  ],
+  "summary_cn": "DepthWeave-KV 提出一种针对长上下文语言模型推理的 KV 缓存压缩方法，通过自适应跨层残差分解技术，为不同层和不同 token 动态分配压缩预算，解决了传统统一压缩策略在词汇线索与语义状态需求差异下导致检索质量下降的问题。该技术能显著降低内存带宽和存储压力，降低部署成本，支持更长对话或文档处理，提升产品体验。",
+  "pm_relevance": 8,
+  "concepts": [
+    "KV Cache Compression",
+    "Long-Context Inference",
+    "Adaptive Compression"
+  ],
+  "entities": [
+    "Academic Research"
+  ],
+  "patterns": [
+    "Adaptive Compression",
+    "Cross-Layer Factorization"
+  ]
+}

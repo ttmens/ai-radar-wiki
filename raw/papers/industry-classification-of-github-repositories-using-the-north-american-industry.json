@@ -1,0 +1,33 @@
+{
+  "title": "Industry Classification of GitHub Repositories Using the North American Industry Classification System (NAICS)",
+  "summary": "GitHub hosts hundreds of millions of public repositories, but the platform exposes no native mapping from repositories to standardized industry sectors. This gap limits empirical work on the geography of innovation, the industrial composition of open-source production, and the diffusion of new technologies across economic sectors. We present NAICS-GH, a publicly released corpus of 6,588 GitHub repositories drawn from source pools covering the United States, the European Union, and Australia, each labeled with a 2-digit sector from the North American Industry Classification System (NAICS 2022). Labels are produced by a retrieve-and-verify pipeline that combines BAAI/bge-large-en embeddings, FAISS retrieval, and GPT-4.1 rubric scoring. The pipeline narrows about 1.37 million source repositories to 31,178 candidate repository-sector pairs and retains 6,588 high-confidence labels with score at least 8. Re-running the retrieval pipeline end to end reproduces the candidate set to within 0.03 percent. On a 2,421-repository human-validated random sample, the released labels attain 96.98 percent precision, with Wilson 95 percent confidence interval [96.23, 97.59]. We benchmark six pretrained encoders on the released corpus; RoBERTa-large reaches 86.45 percent F1 and 86.35 percent accuracy on a held-out 20 percent test set. The dataset, Croissant metadata, pipeline code, prompts, and fine-tuned checkpoint are released under CC-BY-4.0 and MIT licenses.",
+  "url": "http://arxiv.org/abs/2607.06505v1",
+  "authors": [
+    "Kevin Xu",
+    "Alexander Quispe"
+  ],
+  "published": "2026-07-07T17:06:32Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "embedding",
+    "accuracy",
+    "precision",
+    "dataset",
+    "retrieval"
+  ],
+  "summary_cn": "该研究针对GitHub上数亿公共仓库缺乏标准化行业分类的问题，提出利用北美行业分类系统（NAICS）对仓库进行自动标注。技术要点包括构建分类模型，结合仓库描述、主题标签、代码依赖等多维特征，实现高精度行业映射。商业价值在于：为投资者、政策制定者和企业提供开源项目的产业分布洞察，支持创新地理分析与技术扩散研究。产品创新方面，可嵌入开发平台或分析工具，帮助用户按行业筛选仓库，或跟踪特定领域的开源趋势，提升数据驱动的决策效率。",
+  "pm_relevance": 7,
+  "concepts": [
+    "行业分类",
+    "开源生态系统",
+    "NAICS"
+  ],
+  "entities": [
+    "GitHub"
+  ],
+  "patterns": [
+    "Industry Classification Pattern"
+  ]
+}

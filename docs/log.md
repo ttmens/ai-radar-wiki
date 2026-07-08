@@ -2553,3 +2553,23 @@
 - create: savi8217s-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers.md
 - create: show-hn-halo-open-source-tamper-evident-runtime-evidence-for-ai-agents.md
 - create: show-hn-baerly-storage-a-document-db-that-runs-per-request-no-db-server.md
+
+## [2026-07-08 12:02] sync v3 | 18 new | pillars: {'capabilities': 16, 'ecosystem': 1, 'patterns': 1}
+- create: elsa3d-elastic-semantic-anchoring-for-unified-3d-understanding-and-generation.md
+- create: graph-convolutional-attention-a-spectral-perspective-on-graph-denoising-and-diff.md
+- create: rethinking-indic-ai-from-a-lens-of-cultural-heritage-preservation.md
+- create: graphbu-milp-instance-generation-with-graph-native-block-units.md
+- create: the-large-cancer-assistant-lca-a-model-agnostic-orchestration-framework-for-scal.md
+- create: rsf-gllm-bridging-the-semantic-gap-in-multi-hop-knowledge-graph-qa-via-recurrent.md
+- create: depthweave-kv-token-adaptive-cross-layer-residual-factorization-for-long-context.md
+- create: bridging-physical-reasoning-and-task-generalization-via-visual-action-outcome-re.md
+- create: freqdepthkv-frequency-guided-depth-sharing-for-robust-kv-cache-compression-in-lo.md
+- create: footsiesgym-a-fighting-game-benchmark-for-two-player-zero-sum-imperfect-informat.md
+- create: industry-classification-of-github-repositories-using-the-north-american-industry.md
+- create: rmisc-a-large-scale-real-world-multivariate-corpus-for-time-series-foundation-mo.md
+- create: tenda-firmware-multiple-versions-contains-hidden-authentication-backdoor.md
+- create: were-extending-access-to-fable-5-on-all-paid-plans-through-july-12.md
+- create: ieee-rolls-out-large-language-models-training-course.md
+- create: meta-just-launched-a-new-ai-generator-muse-image-and-users-are-already-pushing-b.md
+- create: show-hn-free-mermaid-diagram-editor.md
+- create: show-hn-fortress-a-stealth-chromium-so-your-agents-stop-getting-blocked.md

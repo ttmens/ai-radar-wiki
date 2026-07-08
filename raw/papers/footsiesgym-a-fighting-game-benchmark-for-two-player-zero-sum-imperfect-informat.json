@@ -1,0 +1,33 @@
+{
+  "title": "FootsiesGym: A Fighting Game Benchmark for Two-Player Zero-Sum Imperfect-Information Games",
+  "summary": "We present FootsiesGym, an open-source environment for learning in a non-trivial two-player, zero-sum, imperfect-information game. Built on HiFight's minimalist 2D fighting game Footsies, it isolates the cyclic, non-transitive strategic interactions of fighting game neutral play while remaining simple enough for efficient analysis. We provide a vectorized simulator that enables high-throughput training on standard hardware, making the environment accessible and reproducible. We describe the design of the environment, benchmark several reinforcement learning algorithms, and discuss open research directions it enables. The code is available at https://github.com/como-research/FootsiesGym.",
+  "url": "http://arxiv.org/abs/2607.06514v1",
+  "authors": [
+    "Chase McDonald",
+    "Nathan Tsang",
+    "Wesley N. Kerr"
+  ],
+  "published": "2026-07-07T17:18:44Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "throughput",
+    "training"
+  ],
+  "summary_cn": "FootsiesGym 是一个开源环境，基于极简格斗游戏 Footsies，专为双人零和不完全信息博弈学习而设计。它隔离了格斗游戏中循环、非传递的战略交互（即“中立”博弈），提供了一个非平凡但可控的基准。该环境可推动强化学习与博弈论算法在对抗性场景中的发展，对产品经理而言，其价值在于模拟现实中的战略对抗（如竞价、谈判），并为 AI 决策系统提供可重复评估的沙盒。",
+  "pm_relevance": 6,
+  "concepts": [
+    "不完全信息博弈",
+    "零和博弈",
+    "基准测试环境"
+  ],
+  "entities": [
+    "FootsiesGym",
+    "HiFight"
+  ],
+  "patterns": [
+    "对抗性训练环境",
+    "博弈论模拟"
+  ]
+}

@@ -5,13 +5,165 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 07 Jul 2026 20:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 04:00:26 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Chat Control 1.0 and 2.0 Explained</title>
+      <link>https://news.ycombinator.com/item?id=48818311</link>
+      <guid isPermaLink="false">chat-control-10-and-20-explained</guid>
+      <pubDate>2026-07-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Chat Control 是欧盟提出的数字立法提案，包含1.0和2.0版本，核心要求平台扫描加密通信内容以打击儿童性虐待材料。这对AI产品经理意味着：AI驱动的端到端加密通信产品可能面临合规挑战，需要设计用户隐私保护与监管要求之间的平衡机制，同时关注技术实现（如客户端扫描、联邦学习）对产品架构的影响。该提案若通过，将重塑AI聊天产品的数据隐私策略和审核流程，带来商业模式创新机会。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Claude Cowork expands to mobile and web</title>
+      <link>https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/</link>
+      <guid isPermaLink="false">claude-cowork-expands-to-mobile-and-web</guid>
+      <pubDate>2026-07-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Claude Cowork 扩展至移动端和网页端，支持用户跨设备无缝协作：在桌面启动任务，手机端实时查看进度，即使关闭笔记本也能在任意设备获取最终输出。该能力提升了AI任务管理的异步性和连续性，解决了传统AI工具需保持会话活跃的痛点，尤其适合移动办公场景。商业价值在于降低用户切换成本，增强产品粘性，推动“随时随地的AI协作者”产品定位。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro</title>
+      <link>https://news.ycombinator.com/item?id=48821576</link>
+      <guid isPermaLink="false">local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro</guid>
+      <pubDate>2026-07-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Kokoro 是一个本地、CPU 友好的高质量文本转语音（TTS）模型，无需 GPU 即可运行，显著降低部署成本。它适合边缘设备或云服务低成本场景，同时保护用户隐私。产品经理可关注其在语音交互、无障碍、内容创作等领域的应用，通过轻量级模型实现高自然度语音合成，加速产品落地。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Microsoft joins AI cost-cutting trend by relying more on its own models</title>
+      <link>https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/</link>
+      <guid isPermaLink="false">microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models</guid>
+      <pubDate>2026-07-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>微软加入硅谷巨头削减AI开支的浪潮，通过更多依赖自研模型来降低成本。这一策略对AI产品经理意味着：微软正从依赖外部模型（如OpenAI）转向自研替代，以提升利润率并减少对第三方依赖。此举可能影响Copilot等产品的模型选择、定价和性能优化。短期可能降低推理成本，但需关注自研模型能力是否匹配特定场景。长期来看，自研模型成为大型科技公司控制AI成本、构建壁垒的关键路径。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Discord admits AI moderation bug wrongfully banned users over harmless images</title>
+      <link>https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/</link>
+      <guid isPermaLink="false">discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images</guid>
+      <pubDate>2026-07-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Discord承认其AI审核系统存在漏洞，自5月起错误封禁了上传无害图片的用户，上周末又有200个账户被误封。团队已定位并修复问题。这一事件凸显AI审核模型在图像分类上的准确性问题，可能导致误伤正常用户。对AI产品经理而言，需要重视模型边界测试与人工复核机制，避免因误判损害平台信任。商业上，自动化审核虽能降低成本，但需平衡准确率与用户权益，创新点在于引入动态阈值或反馈闭环。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format</title>
+      <link>https://news.ycombinator.com/item?id=48819608</link>
+      <guid isPermaLink="false">30paperscom-ilyas-30-essential-ml-papers-in-a-beginner-friendly-format</guid>
+      <pubDate>2026-07-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该链接介绍了一个名为30papers.com的网站，由OpenAI联合创始人Ilya Sutskever精选了30篇机器学习核心论文，并以初学者友好的形式呈现。对于AI产品经理而言，这提供了系统理解AI技术演进脉络的基础，有助于把握产品能力的技术边界和未来趋势。虽然非直接商业价值，但作为学习资源，可提升团队技术共识和战略决策能力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Savi&amp;#8217;s app aims to protect consumers from realistic AI scams like kidnappe</title>
+      <link>https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/</link>
+      <guid isPermaLink="false">savi8217s-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers</guid>
+      <pubDate>2026-07-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Savi 推出了一款面向消费者的防诈骗应用，专门应对由 AI 生成的逼真骗局，例如利用深度伪造语音或视频伪装成绑架者勒索赎金。该应用在 iOS 和 Android 上正式上线，并刚获得 700 万美元种子轮融资。其技术核心可能涉及实时检测深度伪造内容、分析通话或信息中的异常模式，并在潜在诈骗发生时向用户发出警告。产品创新在于将防御从传统电信诈骗延伸到利用生成式 AI 手段的新型威胁，直接保护个人财产安全。商业价值体现在解决 AI 滥用带来的紧急、高危害场景，为普通用户提供零门槛的安全屏障。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Automating AI Away</title>
+      <link>https://news.ycombinator.com/item?id=48818937</link>
+      <guid isPermaLink="false">automating-ai-away</guid>
+      <pubDate>2026-07-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了“自动化AI”的概念，即通过自动化工具和流程减少对人工参与AI开发与维护的依赖。技术要点包括利用自动化机器学习（AutoML）和低代码平台降低AI模型构建门槛，商业价值体现在缩短产品上市周期、节省成本并扩大AI落地场景。对产品经理而言，这意味着需要重新评估团队技能配置，聚焦于业务问题定义而非技术实现，同时关注自动化带来的模型可解释性、数据质量及治理挑战。整体趋势指向AI产品开发从“手工作坊”向“工业化流水线”转型，推动更多创新应用快速落地。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>AI Meets Cryptography 1: What AI Found in Cloudflare's Circl</title>
+      <link>https://news.ycombinator.com/item?id=48821749</link>
+      <guid isPermaLink="false">ai-meets-cryptography-1-what-ai-found-in-cloudflares-circl</guid>
+      <pubDate>2026-07-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨AI在密码学领域的应用，具体展示如何利用机器学习分析Cloudflare的开源密码学库Circl。AI自动扫描代码与协议，发现潜在的实现漏洞或性能瓶颈，替代传统人工审计方式。技术要点包括模型对加密算法模式的学习能力与异常检测；商业价值体现在降低安全审查成本、增强云服务信任度；产品创新在于将AI融入DevSecOps流程，实现持续安全监控。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Why skilled workers come to Germany and then leave again</title>
+      <link>https://news.ycombinator.com/item?id=48815982</link>
+      <guid isPermaLink="false">why-skilled-workers-come-to-germany-and-then-leave-again</guid>
+      <pubDate>2026-07-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容探讨技术工人来到德国后又离开的现象，分析其原因包括语言障碍、文化适应困难、职业发展受限及官僚体系繁琐等。虽然与AI技术无直接关联，但反映出人才流动对科技企业的影响，提示产品经理在全球化团队管理中需关注员工体验与本地化支持。此信息对AI产品经理的直接技术价值较低，但可借鉴人才策略以优化团队构成。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents</title>
+      <link>https://github.com/bkuan001/halo-record</link>
+      <guid isPermaLink="false">show-hn-halo-open-source-tamper-evident-runtime-evidence-for-ai-agents</guid>
+      <pubDate>2026-07-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Halo是一个开源工具，为AI代理提供防篡改的运行时证据。它通过记录代理执行过程中的关键操作并生成加密可验证的日志，确保行为不可否认和可审计。该工具解决了企业级AI应用中代理行为的可信任与合规性问题，尤其适用于金融、医疗等强监管领域。产品创新点在于将区块链的防篡改概念引入AI代理监控，无需依赖第三方断言即可独立验证代理行为。商业价值在于提升AI代理的透明度，降低部署风险，加速企业采用自主代理。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens</title>
+      <link>https://news.ycombinator.com/item?id=48821500</link>
+      <guid isPermaLink="false">show-hn-docx-cli-agents-readedit-word-docs-using-12-the-time-and-tokens</guid>
+      <pubDate>2026-07-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Docx-CLI 是一个命令行工具，允许AI代理以更高效的方式读取和编辑Word文档。相比传统方法，它可节省一半的时间和令牌消耗。通过优化文档解析和操作流程，该工具降低了AI处理办公文档的成本，提升了实时交互性能。对于AI产品经理而言，这项技术能够直接减少文档处理功能的部署成本，加速产品迭代，尤其适合需要大量文档自动化处理的场景。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop</title>
+      <link>https://news.ycombinator.com/item?id=48819808</link>
+      <guid isPermaLink="false">show-hn-rowboat-open-source-local-first-alternative-to-claude-desktop</guid>
+      <pubDate>2026-07-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Rowboat 是一个开源的、本地优先的桌面 AI 助手，旨在替代 Claude Desktop。它允许用户完全在本地运行 AI 模型，无需网络连接，从而确保数据隐私和安全性。技术要点包括支持多种开源模型（如 Llama、Mistral）、本地知识库集成以及可定制的提示系统。商业价值在于为企业提供低成本、可自托管的 AI 助手解决方案，避免对第三方 API 的依赖。产品创新在于将本地运行、开源定制与类 Claude 的交互体验结合，适合对隐私敏感或需要离线工作的场景。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Show HN: Davit, a Apple Containers UI</title>
+      <link>https://news.ycombinator.com/item?id=48821848</link>
+      <guid isPermaLink="false">show-hn-davit-a-apple-containers-ui</guid>
+      <pubDate>2026-07-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Davit 是一个面向 Apple 生态系统的容器管理 UI 工具，旨在简化 Apple 容器（可能指 macOS 上的容器化技术）的操作与可视化。虽然其具体技术细节未披露，但该工具可能为开发者提供类似 Docker UI 的体验，降低在 Apple 环境下使用容器化的门槛。对于 AI 产品经理而言，此类工具能提升开发效率，促进模型部署与测试环境的标准化，但需关注其与主流容器技术的兼容性及生态成熟度。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Why the rise of open source AI isn&amp;#8217;t hurting Anthropic &amp;#8230; yet</title>
+      <link>https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/</link>
+      <guid isPermaLink="false">why-the-rise-of-open-source-ai-isn8217t-hurting-anthropic-8230-yet</guid>
+      <pubDate>2026-07-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Show HN: Baerly-storage, a document DB that runs per request, no DB server</title>
+      <link>https://github.com/Gusto/baerly-storage</link>
+      <guid isPermaLink="false">show-hn-baerly-storage-a-document-db-that-runs-per-request-no-db-server</guid>
+      <pubDate>2026-07-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Baerly-storage 是一个按请求运行的文档数据库，无需独立的数据库服务器。它采用无服务器架构，每次请求动态启动并处理数据，结束后自动释放资源。这种设计大幅降低运维成本，特别适合边缘计算、无服务器函数和轻量级 AI 应用场景。产品经理可关注其对开发效率的提升：无需预配数据库、减少冷启动延迟，并支持弹性的按需计费模式。该方案与 AI 应用中频繁的小批量数据存取需求天然契合，有望简化 AI 产品的后端基础设施。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>GitHub Freno: cooperative, highly available throttler service</title>
+      <link>https://news.ycombinator.com/item?id=48799930</link>
+      <guid isPermaLink="false">github-freno-cooperative-highly-available-throttler-service</guid>
+      <pubDate>2026-07-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Freno 是 GitHub 开源的高可用协作式节流服务，用于分布式系统中协调资源限制，防止过载。其核心设计是去中心化决策，通过共享状态实现多节点协同限流，提升系统稳定性。对于 AI 产品经理，此类服务可应用于 API 网关、模型推理队列或数据管道，保障服务等级协议（SLA）的同时降低运维成本。其高可用架构支持故障自动转移，适合对延迟敏感的 AI 场景，体现了平台工程在 AI 基础设施中的价值。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>C++ Details of Asymmetric Fences</title>
+      <link>https://news.ycombinator.com/item?id=48777488</link>
+      <guid isPermaLink="false">c-details-of-asymmetric-fences</guid>
+      <pubDate>2026-07-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>Asymmetric Fences（不对称栅栏）是C++内存模型中的一种优化技术，用于在并发编程中减少不必要的内存同步开销。它允许读写操作以非对称方式排序，从而提升多线程场景下的性能。对于AI产品经理而言，该技术虽不直接影响产品功能，但可间接优化AI推理引擎或训练框架的底层并发性能，降低延迟、提高吞吐量，尤其在高频交易、实时AI服务等场景中具有潜在商业价值。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Men's average testosterone levels have halved in last 50 years</title>
+      <link>https://news.ycombinator.com/item?id=48823368</link>
+      <guid isPermaLink="false">mens-average-testosterone-levels-have-halved-in-last-50-years</guid>
+      <pubDate>2026-07-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容报道了过去50年男性平均睾酮水平下降一半的健康趋势，虽非直接AI领域，但可作为社会生物学模式参考。AI产品经理可关注此类长期数据变化对健康科技、个性化医疗及可穿戴设备的需求驱动，例如通过AI分析激素水平与生活方式关联，或开发预测性健康干预工具。然而，当前信息缺乏技术细节与商业案例，需要与AI产品创新直接结合。</p></description>
+      <category>📱 产品模式</category>
+    </item>
     <item>
       <title>AI+Optimus will enable universal excellent healthcare that is better than anyone receives today</title>
       <link>https://x.com/elonmusk/status/2074339319779569908</link>
@@ -101,6 +253,42 @@ China’s Ministry of Commerce ...</title>
 
 China’s Ministry of Commerce has led meetings over the past month with major AI companies, including Alibaba, ByteDance, and https://t.co/YDe0KRldDB, to discuss measures that would restrict overseas access to cutting-edge AI mode</p></description>
       <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>The U.S. trade deficit rose by over 40% last month, reaching $77.6 billion.
+
+That's the largest sinc...</title>
+      <link>https://x.com/ylecun/status/2074518318166282302</link>
+      <guid isPermaLink="false">twitter_ylecun_2074518318166282302</guid>
+      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>The U.S. trade deficit rose by over 40% last month, reaching $77.6 billion.
+
+That's the largest since March 2025 and higher than the monthly average during Biden's term.
+
+Trump's tariffs have failed to make a dent. https://t.co/hIJXjZQiTx</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Americans have had enough of the bottom 2% of society ruining our lives
+
+“I'm gonna be so blunt. Bec...</title>
+      <link>https://x.com/elonmusk/status/2074503704842293282</link>
+      <guid isPermaLink="false">twitter_elonmusk_2074503704842293282</guid>
+      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Americans have had enough of the bottom 2% of society ruining our lives
+
+“I'm gonna be so blunt. Because of the ghetto-ass activities that happened in Newport Beach — we are now going to see next year a more secure minimum confined prison in the area because of these f*cking parasites that should be</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>نطلق اليوم نموذج @cohere Transcribe العربي، أفضل نموذج مفتوح المصدر لتحويل الكلام العربي من الصوت إل...</title>
+      <link>https://x.com/cohere/status/2074511963934118282</link>
+      <guid isPermaLink="false">twitter_cohere_2074511963934118282</guid>
+      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.9/10</p><p><strong>类型:</strong> tweet</p><hr/><p>نطلق اليوم نموذج @cohere Transcribe العربي، أفضل نموذج مفتوح المصدر لتحويل الكلام العربي من الصوت إلى نص، مع مراعاة اللهجات العربية المختلفة. يتصدر معيار Open Universal Arabic ASR Leaderboard. 
+
+صُمم النموذج لدعم حالات تحويل الكلام بين العربية والانجليزية، والتعرف على اللهجات المختلفة، بالإضافة إلى </p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>🚨  Literally Build Anything Using The Fable 5 Max Mode
@@ -272,6 +460,34 @@ We have added additional mitigations and machine types available to all Postgres
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Krea 2 crossed 200k downloads on Hugging Face!
+
+we couldn't be happier about the response from the o...</title>
+      <link>https://x.com/huggingface/status/2074523145592303771</link>
+      <guid isPermaLink="false">twitter_huggingface_2074523145592303771</guid>
+      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Krea 2 crossed 200k downloads on Hugging Face!
+
+we couldn't be happier about the response from the open-source community ❤️
+
+here are some of the best projects that folks have built with Krea 2 👇 https://t.co/41zPCar5W6</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Open-source robotics just leveled up. 🦾
+
+@HuggingFace's LeRobot 0.6 now includes NVIDIA Isaac GR00T ...</title>
+      <link>https://x.com/_akhaliq/status/2074390485251113317</link>
+      <guid isPermaLink="false">twitter__akhaliq_2074390485251113317</guid>
+      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Open-source robotics just leveled up. 🦾
+
+@HuggingFace's LeRobot 0.6 now includes NVIDIA Isaac GR00T 1.7 and Isaac Teleop, bringing the latest Isaac models and frameworks to the open robotics community.
+
+This step-by-step guide walks you through installation, data collection, training, and deployment</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>🏛️ We’re unveiling a new way to converse with the ancient world.
 
 By grounding Gemini directly in ou...</title>
@@ -284,296 +500,19 @@ By grounding Gemini directly in our expert models Aeneas and Ithaca, our Predict
       <category>🤖 技术能力</category>
     </item>
     <item>
-      <title>We’ve built Cohere Transcribe Arabic, the world’s most accurate open-source model for Arabic speech ...</title>
-      <link>https://x.com/huggingface/status/2074499759616729149</link>
-      <guid isPermaLink="false">twitter_huggingface_2074499759616729149</guid>
+      <title>19 million developers can now do more with frontier physical AI tools. 🤗
+
+We're expanding open robot...</title>
+      <link>https://x.com/_akhaliq/status/2074380795855147072</link>
+      <guid isPermaLink="false">twitter__akhaliq_2074380795855147072</guid>
       <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>We’ve built Cohere Transcribe Arabic, the world’s most accurate open-source model for Arabic speech recognition.
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>19 million developers can now do more with frontier physical AI tools. 🤗
 
-Available under Apache 2.0 https://t.co/KKYAjdoTX3</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>We’ve built Cohere Transcribe Arabic, the world’s most accurate open-source model for Arabic speech ...</title>
-      <link>https://x.com/cohere/status/2074499759616729149</link>
-      <guid isPermaLink="false">twitter_cohere_2074499759616729149</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>We’ve built Cohere Transcribe Arabic, the world’s most accurate open-source model for Arabic speech recognition.
+We're expanding open robotics with @HuggingFace, bringing GR00T 1.7, an open VLA model for humanoid robots and Isaac Teleop directly into LeRobot.
 
-Available under Apache 2.0 https://t.co/KKYAjdoTX3</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Harness EngineeringからRSIへ
+Read the blog ➡️ https://t.co/ElPM8aiYN6
 
-AI自身がAIをつくり、改善していく──再帰的自己改善（RSI）はどのように実現するのでしょうか。この問いに対して、Thinking Machin...</title>
-      <link>https://x.com/hardmaru/status/2074489949529776308</link>
-      <guid isPermaLink="false">twitter_hardmaru_2074489949529776308</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Harness EngineeringからRSIへ
-
-AI自身がAIをつくり、改善していく──再帰的自己改善（RSI）はどのように実現するのでしょうか。この問いに対して、Thinking Machines Lab 共同創業者の Lilian Weng 氏（@lilianweng）が、モデルを取り巻く実行系＝「ハーネス」の設計こそが現実的な出発点だと論じる ブログ記事を公開しました。RSI周辺の研究が非常によく整理されており、この領域の見取り図として大変おすすめです。
-
-https://t.co/oWE1yn8dWq
-
-Sakana AIからも、以下の研究が事例として取り上げられています。
-
-・</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>WTF - China is now considering banning their models to the rest of us
-
-The flex is unmistakable! The...</title>
-      <link>https://x.com/bindureddy/status/2074494729178501271</link>
-      <guid isPermaLink="false">twitter_bindureddy_2074494729178501271</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>WTF - China is now considering banning their models to the rest of us
-
-The flex is unmistakable! They believe their companies are better positioned for the future 
-
-This is partly true in the sense their big AI companies don’t lose hundreds of billions 😓</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Great point</title>
-      <link>https://x.com/elonmusk/status/2074523879075115285</link>
-      <guid isPermaLink="false">twitter_elonmusk_2074523879075115285</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Great point</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Training Agents 2: Live tutorial on model distillation for training custom agents. https://t.co/tRqw...</title>
-      <link>https://x.com/huggingface/status/2074508881984934265</link>
-      <guid isPermaLink="false">twitter_huggingface_2074508881984934265</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Training Agents 2: Live tutorial on model distillation for training custom agents. https://t.co/tRqwLuQNDm</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>This is what stealing your data looks like https://t.co/E4jjDTwzBc</title>
-      <link>https://x.com/cohere/status/2074506595879256285</link>
-      <guid isPermaLink="false">twitter_cohere_2074506595879256285</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>This is what stealing your data looks like https://t.co/E4jjDTwzBc</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>The @better_auth team is joining Vercel to accelerate open source auth for apps and agents.
-
-https:/...</title>
-      <link>https://x.com/vercel/status/2074522635908853978</link>
-      <guid isPermaLink="false">twitter_vercel_2074522635908853978</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>The @better_auth team is joining Vercel to accelerate open source auth for apps and agents.
-
-https://t.co/gboKZoHKz9</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>We sat down with @ylecun for a 1h30 discussion on world models @medjawii and JB Kempf of @videolan/@...</title>
-      <link>https://x.com/ylecun/status/2074483206972166650</link>
-      <guid isPermaLink="false">twitter_ylecun_2074483206972166650</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>We sat down with @ylecun for a 1h30 discussion on world models @medjawii and JB Kempf of @videolan/@FFmpeg.
-
-It's probably the deepest technical discussion on the subject ever recorded. And we added English subtitles.
-
-Link in comment 👇 https://t.co/MORPLbrKt1</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Literally every organization is moving to a hybrid set up
-
-- frontier models do the planning 
-- open...</title>
-      <link>https://x.com/bindureddy/status/2074486176854233173</link>
-      <guid isPermaLink="false">twitter_bindureddy_2074486176854233173</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Literally every organization is moving to a hybrid set up
-
-- frontier models do the planning 
-- open weight models perform all the easy tasks 
-
-Kimi 2.7 and GLM 5.2 alongside GPT 5.5 and Opus  is a winning combination</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Using AI for history analysis has 3 core challenges:
-🔹 Creating custom analysis and visuals for ever...</title>
-      <link>https://x.com/GoogleDeepMind/status/2074513665299034447</link>
-      <guid isPermaLink="false">twitter_GoogleDeepMind_2074513665299034447</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Using AI for history analysis has 3 core challenges:
-🔹 Creating custom analysis and visuals for every inscription.
-🔹 Cross-source mapping to find large-scale patterns.
-🔹 Utilizing advanced AI tools with no coding skills.
-
-Our Antigravity skill shifts all these complex workflows into plain English.</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Sakana AIが翻訳機能「Sakana Translate」をリリース、日英中の双方向翻訳に対応＆カジュアル・簡潔・大阪弁などに変換可能
-https://t.co/bRSqQwIaBC</title>
-      <link>https://x.com/hardmaru/status/2074334672633397753</link>
-      <guid isPermaLink="false">twitter_hardmaru_2074334672633397753</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Sakana AIが翻訳機能「Sakana Translate」をリリース、日英中の双方向翻訳に対応＆カジュアル・簡潔・大阪弁などに変換可能
-https://t.co/bRSqQwIaBC</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Is 'The College Board' a Nonprofit or a $1.6B Testing Monopoly? | Scott White, Forbes
-
-The Membershi...</title>
-      <link>https://x.com/JohnNosta/status/2074454039761223848</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2074454039761223848</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Is 'The College Board' a Nonprofit or a $1.6B Testing Monopoly? | Scott White, Forbes
-
-The Membership Mirage: Dues vs. Dominance
-
-Founded 1900 to democratize college access, the College Board now straddles an uncomfortable line between its nonprofit mission and corporate-scale revenues. While techni</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>🧞 Genie Code is expanding to support more complex, agentic data and ML work on Databricks.
-
-New capa...</title>
-      <link>https://x.com/databricks/status/2074503227433791584</link>
-      <guid isPermaLink="false">twitter_databricks_2074503227433791584</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>🧞 Genie Code is expanding to support more complex, agentic data and ML work on Databricks.
-
-New capabilities include:
- → A full-page command center to manage complex, multi-threaded work with thread status, review points, and quick access to instructions, skills, and connectors.
- → Native intelligen</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Postgres LISTEN/NOTIFY slows down as more clients listen, but Multigres keeps it fast no matter how ...</title>
-      <link>https://x.com/supabase/status/2074516422747660543</link>
-      <guid isPermaLink="false">twitter_supabase_2074516422747660543</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Postgres LISTEN/NOTIFY slows down as more clients listen, but Multigres keeps it fast no matter how many are subscribed.
-
-Here's how we keep it fast: https://t.co/WbAjTjttIX https://t.co/k1ZyeqX65D</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>We conducted the Supabase swag challenge to celebrate hitting 200k followers!
-
-We are happy to annou...</title>
-      <link>https://x.com/supabase/status/2074486090552270873</link>
-      <guid isPermaLink="false">twitter_supabase_2074486090552270873</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>We conducted the Supabase swag challenge to celebrate hitting 200k followers!
-
-We are happy to announce the winner, @mxfp4 🎉 We are sending this limited full keyboard, and not just the space key, your way! Thanks for the cool idea! https://t.co/cSPGHcsWxD</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>1M+ downloads on Hugging Face. 🚀
-A big milestone for Unlimited-OCR, and a strong signal from the ope...</title>
-      <link>https://x.com/_akhaliq/status/2074419269220380862</link>
-      <guid isPermaLink="false">twitter__akhaliq_2074419269220380862</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>1M+ downloads on Hugging Face. 🚀
-A big milestone for Unlimited-OCR, and a strong signal from the open-source community. 
-Excited for what’s next.</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>GLM 5.2 and the coming AI margin collapse</title>
-      <link>https://news.ycombinator.com/item?id=48809877</link>
-      <guid isPermaLink="false">glm-52-and-the-coming-ai-margin-collapse</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>GLM 5.2 是智谱AI的最新模型版本，可能通过架构优化或稀疏化技术显著降低推理成本，引发AI行业利润空间收窄的讨论。对产品经理而言，这意味着模型部署的经济性提升，但竞争将转向差异化应用与场景定制。商业价值在于更低的API调用成本可能催生新应用生态，同时基础模型同质化迫使产品侧聚焦体验与数据飞轮。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>The Predicting the Past Skill is a collaborative research partner. 🏛️
-
-We teamed up with @TSommersch...</title>
-      <link>https://x.com/GoogleDeepMind/status/2074513847306572213</link>
-      <guid isPermaLink="false">twitter_GoogleDeepMind_2074513847306572213</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>The Predicting the Past Skill is a collaborative research partner. 🏛️
-
-We teamed up with @TSommerschield on 3️⃣ case studies to prove it. By blending specialized AI with Gemini’s reasoning, we showed how historians can explore ancient data in entirely new ways.
-
-Explore the platform  → https://t.co/</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Transcribe Arabic is built to bring frontier capabilities to the millions of Arabic speakers in busi...</title>
-      <link>https://x.com/cohere/status/2074499932803723335</link>
-      <guid isPermaLink="false">twitter_cohere_2074499932803723335</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Transcribe Arabic is built to bring frontier capabilities to the millions of Arabic speakers in business and developer communities. Built to handle code-switching, multiple dialects, and Arabic-accented English, we’re taking real-life transcription to the next level.</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Sovereign AI belongs in all regions of the world. We’re working hard to make it accessible to everyo...</title>
-      <link>https://x.com/cohere/status/2074500021295133109</link>
-      <guid isPermaLink="false">twitter_cohere_2074500021295133109</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Sovereign AI belongs in all regions of the world. We’re working hard to make it accessible to everyone.
-
-Model weights are available on @huggingface. Run it anywhere from corporate hardware to your personal laptop. Try it out:
-https://t.co/gr3ZIyX4Pj</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>🚨 AI and the Psychology of Cognitive Surrender 
-
-https://t.co/nyT0qJoQ9K</title>
-      <link>https://x.com/JohnNosta/status/2074479405464764524</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2074479405464764524</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>🚨 AI and the Psychology of Cognitive Surrender 
-
-https://t.co/nyT0qJoQ9K</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Your ideas deserve better than the default template. Describe what you want to see and get a beautif...</title>
-      <link>https://x.com/runwayml/status/2074521596560031949</link>
-      <guid isPermaLink="false">twitter_runwayml_2074521596560031949</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Your ideas deserve better than the default template. Describe what you want to see and get a beautifully designed slide back.
-
-Get started at the link below. https://t.co/gLYcv10IgG</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Get started: https://t.co/M6egVTd7bn</title>
-      <link>https://x.com/runwayml/status/2074521598346899571</link>
-      <guid isPermaLink="false">twitter_runwayml_2074521598346899571</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Get started: https://t.co/M6egVTd7bn</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Most vector database demos show you search.
-
-This one shows you how information organizes itself.
-
-T...</title>
-      <link>https://x.com/weaviate_io/status/2074487610651582936</link>
-      <guid isPermaLink="false">twitter_weaviate_io_2074487610651582936</guid>
-      <pubDate>2026-07-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Most vector database demos show you search.
-
-This one shows you how information organizes itself.
-
-This newspaper-themed demo in Weaviate Playground showcases vector clustering in action - and it updates every 2 hours with real headlines.
-
-Here's how it works:
-
-𝟭. 𝗛𝗲𝗮𝗱𝗹𝗶𝗻𝗲𝘀 𝗚𝗮𝘁𝗵𝗲𝗿𝗲𝗱
-Six news topics </p></description>
+#MACHINA2026 https://t.co/KlrA6lGef2</p></description>
       <category>🔧 工具生态</category>
     </item>
   </channel>

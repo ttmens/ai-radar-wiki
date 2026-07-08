@@ -1,0 +1,38 @@
+{
+  "title": "FreqDepthKV: Frequency-Guided Depth Sharing for Robust KV Cache Compression in Long-Context LLM Inference",
+  "summary": "Long-context LLM inference is increasingly limited by the memory and bandwidth cost of KV caches, yet aggressive compression can remove the layer-specific evidence needed for retrieval and multi-step reasoning. We introduce FreqDepthKV, an inference-time cache compression method that factorizes adjacent-layer KV states into shared low-frequency depth components and sparse high-frequency residuals. A lightweight online probe assigns attention heads to shared-depth, residual-depth, or exact cache modes according to their contribution to reconstruction-sensitive attention logits, allowing the compression policy to adapt to prompt structure without retraining. Across long-context question answering, needle retrieval, summarization, and code generation benchmarks, FreqDepthKV preserves task accuracy under substantially smaller cache budgets. With a 32k-token prefill window, FreqDepthKV reaches 58.3 Exact Match, 63.0 F1, 32.5 ROUGE-L, and 48.1 pass@1, closely matching full KV while outperforming prior compressed-cache methods. It also improves decoding throughput to 70.4 tokens/s, reduces TTFT to 2.06 seconds, and lowers peak KV memory to 6.2 GB, achieving a 3.9x effective compression ratio.",
+  "url": "http://arxiv.org/abs/2607.06519v1",
+  "authors": [
+    "Anna Córdoba",
+    "Adam Puente Tercero",
+    "Nerea Angulo Hijo",
+    "Mar Linares Tercero",
+    "Julia Barrientos"
+  ],
+  "published": "2026-07-07T17:26:28Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "token",
+    "benchmark",
+    "reasoning",
+    "throughput",
+    "training",
+    "compression",
+    "attention",
+    "accuracy",
+    "retrieval"
+  ],
+  "summary_cn": "FreqDepthKV是一种面向长上下文大语言模型推理的KV缓存压缩方法，通过频率引导的深度共享技术，在主动压缩缓存时保留层特异性的检索和推理证据。该方法解决了激进的缓存压缩导致的关键信息丢失问题，显著降低内存和带宽成本，同时保持模型在长文档问答、多步推理等任务中的准确性。商业价值在于降低LLM推理部署成本，提升长上下文场景的响应速度，适用于需要处理超长文本的产品，如知识库问答、文档分析等。",
+  "pm_relevance": 9,
+  "concepts": [
+    "KV Cache",
+    "Cache Compression",
+    "Long-Context LLM"
+  ],
+  "entities": [],
+  "patterns": [
+    "Inference Optimization Pattern"
+  ]
+}

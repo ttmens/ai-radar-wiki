@@ -1,6 +1,6 @@
 # X/Twitter AI KOL 动态
 
-抓取时间: 2026-07-07 21:00:43
+抓取时间: 2026-07-08 09:00:42
 
 
 ## @sama (5 条)
@@ -47,29 +47,29 @@
 
 ## @ylecun (5 条)
 
-1. **McGovern neuroscientists have discovered that you don't need language to think logically. People with severe language impairments solve complex reasoning puzzles perfectly and brain scans show languag**
+1. **Greenland isn’t surrounded by Chinese and Russian ships. There hasn’t been $19.2 trillion invested in the US under Trump. Trump hasn’t settled eight wars. Biden’s military aid to Ukraine wasn’t worth **
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **@__JohnNguyen__ and I are presenting the Beyond Language Modeling paper as an ICML spotlight in 30 minutes at the 10:30 AM poster session!   I’ll also be at the AMI Mixer on Thursday and hanging aroun**
+2. **Unveiling our Northstar design @UMA_Robots   A body that can navigate our space Hands that can use our tools Approachable, competent, calm A robot you feel at ease having at your workplace and home ht**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **For anyone who is worried about the communist threat facing America, here is some important information:  No one was eating the dogs or the cats.  No country emptied it's asylums or prisons into Ameri**
+3. **Starting with the fundamentals   Prototype Version 0 AI, Software, Hardware A small team, 9 months Designed and assembled in Paris at @UMA_Robots https://t.co/BJvtpgHctL**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
 ## @elonmusk (5 条)
 
-1. **Grok Imagine ❤️ https://t.co/aOvp4mJqMl**
+1. **Americans have had enough of the bottom 2% of society ruining our lives  “I'm gonna be so blunt. Because of the ghetto-ass activities that happened in Newport Beach — we are now going to see next year**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **If you want to start a startup, don't learn "entrepreneurship." Learn how to build things. The hard part of startups is not "entrepreneurship" but product: to know what to build, and to be able to bui**
+2. **https://t.co/pSEU8CHLWn**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **Grok Imagine update**
+3. **Great point**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
