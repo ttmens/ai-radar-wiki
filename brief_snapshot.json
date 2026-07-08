@@ -1,341 +1,66 @@
 {
-  "date": "2026-07-08",
-  "generated_at": "2026-07-08T12:02:14.140198+08:00",
-  "item_count": 30,
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T00:01:53.035627+08:00",
+  "item_count": 5,
   "items": [
     {
-      "id": "chat-control-10-and-20-explained",
-      "label": "Chat Control 1.0 and 2.0 Explained",
-      "summary": "Chat Control 是欧盟提出的数字立法提案，包含1.0和2.0版本，核心要求平台扫描加密通信内容以打击儿童性虐待材料。这对AI产品经理意味着：AI驱动的端到端加密通信产品可能面临合规挑战，需要设计用户隐私保护与监管要求之间的平衡机制，同时关注技术实现（如客户端扫描、联邦学习）对产品架构的影响。该提案若通过，将重塑AI聊天产品的数据隐私策略和审核流程，带来商业模式创新机会。",
-      "pm_score": 0.6,
+      "id": "mistrals-robostral-navigate-a-state-of-the-art-robotics-navigation-model",
+      "label": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "summary": "Mistral 发布了前沿的机器人导航模型 Robostral Navigate，标志着其在物理世界 AI 应用的重要突破。该模型可能结合视觉与语言理解能力，使机器人能在复杂环境中自主规划路径并执行任务。对 AI 产品经理而言，这代表了大模型从数字场景向实体机器人落地的关键一步，有望降低机器人开发门槛、提升泛化性。商业上，Mistral 正扩展其模型生态至工业/服务机器人领域，或与现有机器人平台形成竞争或合作。产品创新在于将通用推理能力与导航控制深度融合，可能催生新一代“语言驱动机器人”产品模式。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48832212",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+      "label": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+      "summary": "《EVE Online》的Carbon引擎宣布开源，由Fenris Creations解释其决策逻辑。该引擎曾驱动大型多人在线游戏中的复杂星系模拟与经济系统，开源后有望成为虚拟世界构建、实时多人交互和AI代理训练的试验场。对AI产品经理而言，这意味着可获取经过验证的分布式仿真框架，用于开发数字孪生、社会模拟或游戏化AI应用；同时降低了虚拟环境开发门槛，促进社区驱动的创新。商业价值在于激活围绕引擎的工具链与生态服务，形成新的开发者社区。",
+      "pm_score": 0.51,
       "pillar": "ecosystem",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48818311",
-      "date": "2026-07-08"
+      "url": "https://news.ycombinator.com/item?id=48780387",
+      "date": "2026-07-09"
     },
     {
-      "id": "claude-cowork-expands-to-mobile-and-web",
-      "label": "Claude Cowork expands to mobile and web",
-      "summary": "Claude Cowork 扩展至移动端和网页端，支持用户跨设备无缝协作：在桌面启动任务，手机端实时查看进度，即使关闭笔记本也能在任意设备获取最终输出。该能力提升了AI任务管理的异步性和连续性，解决了传统AI工具需保持会话活跃的痛点，尤其适合移动办公场景。商业价值在于降低用户切换成本，增强产品粘性，推动“随时随地的AI协作者”产品定位。",
-      "pm_score": 0.515,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro",
-      "label": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
-      "summary": "Kokoro 是一个本地、CPU 友好的高质量文本转语音（TTS）模型，无需 GPU 即可运行，显著降低部署成本。它适合边缘设备或云服务低成本场景，同时保护用户隐私。产品经理可关注其在语音交互、无障碍、内容创作等领域的应用，通过轻量级模型实现高自然度语音合成，加速产品落地。",
-      "pm_score": 0.515,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48821576",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "freqdepthkv-frequency-guided-depth-sharing-for-robust-kv-cache-compression-in-lo",
-      "label": "FreqDepthKV: Frequency-Guided Depth Sharing for Robust KV Cache Compression in L",
-      "summary": "FreqDepthKV是一种面向长上下文大语言模型推理的KV缓存压缩方法，通过频率引导的深度共享技术，在主动压缩缓存时保留层特异性的检索和推理证据。该方法解决了激进的缓存压缩导致的关键信息丢失问题，显著降低内存和带宽成本，同时保持模型在长文档问答、多步推理等任务中的准确性。商业价值在于降低LLM推理部署成本，提升长上下文场景的响应速度，适用于需要处理超长文本的产品，如知识库问答、文档分析等。",
-      "pm_score": 0.515,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2607.06519v1",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models",
-      "label": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-      "summary": "微软加入硅谷巨头削减AI开支的浪潮，通过更多依赖自研模型来降低成本。这一策略对AI产品经理意味着：微软正从依赖外部模型（如OpenAI）转向自研替代，以提升利润率并减少对第三方依赖。此举可能影响Copilot等产品的模型选择、定价和性能优化。短期可能降低推理成本，但需关注自研模型能力是否匹配特定场景。长期来看，自研模型成为大型科技公司控制AI成本、构建壁垒的关键路径。",
-      "pm_score": 0.48,
-      "pillar": "business",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "meta-just-launched-a-new-ai-generator-muse-image-and-users-are-already-pushing-b",
-      "label": "Meta just launched a new AI generator, Muse Image, and users are already pushing",
-      "summary": "Meta 发布全新 AI 图像生成模型 Muse Image，支持广告创意、装饰设计及创作者内容等场景。该模型利用用户照片进行个性化生成，引发用户对隐私和数据使用的担忧。产品经理需关注：技术层面，Muse Image 基于扩散模型，能高效生成高保真图像；商业价值上，可大幅降低广告素材制作成本，拓展虚拟装饰等新兴市场；产品创新在于结合社交平台用户数据，实现个性化生成。但用户抵触情绪提示需平衡功能与隐私合规，建立透明数据使用机制。",
-      "pm_score": 0.48,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images",
-      "label": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-      "summary": "Discord承认其AI审核系统存在漏洞，自5月起错误封禁了上传无害图片的用户，上周末又有200个账户被误封。团队已定位并修复问题。这一事件凸显AI审核模型在图像分类上的准确性问题，可能导致误伤正常用户。对AI产品经理而言，需要重视模型边界测试与人工复核机制，避免因误判损害平台信任。商业上，自动化审核虽能降低成本，但需平衡准确率与用户权益，创新点在于引入动态阈值或反馈闭环。",
-      "pm_score": 0.48,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "elsa3d-elastic-semantic-anchoring-for-unified-3d-understanding-and-generation",
-      "label": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
-      "summary": "ELSA3D提出弹性语义锚定（Elastic Semantic Anchoring）机制，用于统一3D理解与生成。现有方法将文本与3D令牌扁平化拼接依赖自注意力，导致结构信息丢失和交互隐式。ELSA3D通过动态语义锚点实现文本与3D特征对齐，在单一骨干网络中同时支持3D资产生成和语言推理。该技术降低3D内容创作门槛，提升多模态交互效率，可应用于虚拟现实、游戏、设计等场景，推动3D基础模型的实用化。",
-      "pm_score": 0.48,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2607.06565v1",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "rsf-gllm-bridging-the-semantic-gap-in-multi-hop-knowledge-graph-qa-via-recurrent",
-      "label": "RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurren",
-      "summary": "RSF-GLLM 提出了一种解决多跳知识图谱问答中语义鸿沟问题的新方法。传统检索-生成流程由于不可微，导致检索器无法学习桥接与查询缺乏词汇重叠的中间节点。该方法通过循环软流（Recurrent Soft-Flow）保持端到端可微性，使检索器能自适应地发现语义关联路径，并结合分离式 LLM 生成（Decoupled LLM Generation）提升推理准确性。商业价值在于可构建更鲁棒的知识图谱问答产品，适用于金融、医疗等复杂推理场景，降低对人工标注中间实体的依赖。",
-      "pm_score": 0.48,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2607.06527v1",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "bridging-physical-reasoning-and-task-generalization-via-visual-action-outcome-re",
-      "label": "Bridging Physical Reasoning and Task Generalization via Visual Action Outcome Re",
-      "summary": "本篇论文探讨了视觉语言模型（VLM）在交互式物理推理任务中泛化能力不足的问题，尤其在面对未见任务和环境时。指出了两个关键失败模式：一是产生与物理现实矛盾的幻觉式思维链（CoT）推理，二是模型推理与行动结果之间的错位。通过视觉行动结果推理对齐方法，有望提升VLM在物理世界中的可靠性和适应性，为机器人、智能仿真等产品提供更稳健的交互决策能力，降低部署成本。",
-      "pm_score": 0.48,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2607.06522v1",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "depthweave-kv-token-adaptive-cross-layer-residual-factorization-for-long-context",
-      "label": "DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Contex",
-      "summary": "DepthWeave-KV 提出一种针对长上下文语言模型推理的 KV 缓存压缩方法，通过自适应跨层残差分解技术，为不同层和不同 token 动态分配压缩预算，解决了传统统一压缩策略在词汇线索与语义状态需求差异下导致检索质量下降的问题。该技术能显著降低内存带宽和存储压力，降低部署成本，支持更长对话或文档处理，提升产品体验。",
-      "pm_score": 0.48,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2607.06523v1",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "30paperscom-ilyas-30-essential-ml-papers-in-a-beginner-friendly-format",
-      "label": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
-      "summary": "该链接介绍了一个名为30papers.com的网站，由OpenAI联合创始人Ilya Sutskever精选了30篇机器学习核心论文，并以初学者友好的形式呈现。对于AI产品经理而言，这提供了系统理解AI技术演进脉络的基础，有助于把握产品能力的技术边界和未来趋势。虽然非直接商业价值，但作为学习资源，可提升团队技术共识和战略决策能力。",
-      "pm_score": 0.46,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48819608",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "savi8217s-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers",
-      "label": "Savi&#8217;s app aims to protect consumers from realistic AI scams like kidnappe",
-      "summary": "Savi 推出了一款面向消费者的防诈骗应用，专门应对由 AI 生成的逼真骗局，例如利用深度伪造语音或视频伪装成绑架者勒索赎金。该应用在 iOS 和 Android 上正式上线，并刚获得 700 万美元种子轮融资。其技术核心可能涉及实时检测深度伪造内容、分析通话或信息中的异常模式，并在潜在诈骗发生时向用户发出警告。产品创新在于将防御从传统电信诈骗延伸到利用生成式 AI 手段的新型威胁，直接保护个人财产安全。商业价值体现在解决 AI 滥用带来的紧急、高危害场景，为普通用户提供零门槛的安全屏障。",
+      "id": "these-ai-startups-are-growing-revenue-at-faster-and-faster-rates",
+      "label": "These AI startups are growing  revenue at faster and faster rates",
+      "summary": "文章指出，虽然大量AI初创公司正在经历快速增长，但其中一部分公司的收入增速呈现加速趋势，远超同行。对于AI产品经理而言，这提示关注那些具备强大商业闭环和可扩展性的产品模式，尤其是通过订阅、API调用或行业解决方案实现收入的初创企业。其背后的技术亮点可能在于模型效率提升、成本优化或差异化应用场景，使得客户粘性和付费转化率更高。商业价值体现在高速增长的财务指标证明了AI产品在真实市场的需求，产品创新则体现在如何将技术能力转化为持续付费的商业模式。PM应从中汲取关于产品定价、市场时机和复购驱动的经验。",
       "pm_score": 0.445,
       "pillar": "business",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-      "date": "2026-07-08"
+      "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "date": "2026-07-09"
     },
     {
-      "id": "rethinking-indic-ai-from-a-lens-of-cultural-heritage-preservation",
-      "label": "Rethinking Indic AI from a Lens of Cultural Heritage Preservation",
-      "summary": "该论文从文化遗产保护视角反思印度AI发展。AI作为双刃剑，一方面通过多语言模型（如IndicLLM）提升对印度次大陆数百种语言的可及性，促进文化传播；另一方面可能加剧语言同质化，破坏原生文化根基。技术要点包括低资源语言建模、文化感知的语料库构建及伦理对齐。商业价值在于开拓印度多元化语言市场（超10亿用户），为政府、教育、旅游等领域提供本地化AI服务。产品创新在于将文化保护融入AI训练流程，设计“文化反馈”机制以评估模型对传统叙事、习俗的保真度。",
-      "pm_score": 0.445,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2607.06544v1",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "graph-convolutional-attention-a-spectral-perspective-on-graph-denoising-and-diff",
-      "label": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Dif",
-      "summary": "该论文从谱理论视角深入分析了基于注意力的图去噪与扩散机制，提出了一种图卷积注意力框架。技术要点在于将图信号处理中的谱滤波与注意力机制相结合，提升了图去噪的理论可解释性，并改善了扩散过程中的噪声鲁棒性。商业价值体现在社交网络、推荐系统和分子图分析等场景中，能有效降低噪声干扰，提高下游任务（如节点分类、链接预测）的准确率。产品创新方面，该框架可作为图Transformer的核心组件，推动更可靠、可解释的图学习产品落地，尤其在金融风控、药物发现等对噪声敏感的领域具有应用潜力。",
-      "pm_score": 0.445,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2607.06546v1",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "industry-classification-of-github-repositories-using-the-north-american-industry",
-      "label": "Industry Classification of GitHub Repositories Using the North American Industry",
-      "summary": "该研究针对GitHub上数亿公共仓库缺乏标准化行业分类的问题，提出利用北美行业分类系统（NAICS）对仓库进行自动标注。技术要点包括构建分类模型，结合仓库描述、主题标签、代码依赖等多维特征，实现高精度行业映射。商业价值在于：为投资者、政策制定者和企业提供开源项目的产业分布洞察，支持创新地理分析与技术扩散研究。产品创新方面，可嵌入开发平台或分析工具，帮助用户按行业筛选仓库，或跟踪特定领域的开源趋势，提升数据驱动的决策效率。",
-      "pm_score": 0.445,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2607.06505v1",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "automating-ai-away",
-      "label": "Automating AI Away",
-      "summary": "本文探讨了“自动化AI”的概念，即通过自动化工具和流程减少对人工参与AI开发与维护的依赖。技术要点包括利用自动化机器学习（AutoML）和低代码平台降低AI模型构建门槛，商业价值体现在缩短产品上市周期、节省成本并扩大AI落地场景。对产品经理而言，这意味着需要重新评估团队技能配置，聚焦于业务问题定义而非技术实现，同时关注自动化带来的模型可解释性、数据质量及治理挑战。整体趋势指向AI产品开发从“手工作坊”向“工业化流水线”转型，推动更多创新应用快速落地。",
-      "pm_score": 0.43,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48818937",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "were-extending-access-to-fable-5-on-all-paid-plans-through-july-12",
-      "label": "We're extending access to Fable 5 on all paid plans through July 12",
-      "summary": "Fable 公司宣布将所有付费计划对 Fable 5 的访问权限延长至7月12日，旨在鼓励用户更长时间体验其 AI 驱动的交互式叙事能力。此举有助于收集用户反馈、提升产品粘性，并为后续付费转化奠定基础。产品经理应关注这种通过限时免费策略推动用户增长和产品迭代的方法，尤其是在 AI 内容创作领域，如何平衡试用体验与商业化是关键。",
-      "pm_score": 0.41,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48821102",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "footsiesgym-a-fighting-game-benchmark-for-two-player-zero-sum-imperfect-informat",
-      "label": "FootsiesGym: A Fighting Game Benchmark for Two-Player Zero-Sum Imperfect-Informa",
-      "summary": "FootsiesGym 是一个开源环境，基于极简格斗游戏 Footsies，专为双人零和不完全信息博弈学习而设计。它隔离了格斗游戏中循环、非传递的战略交互（即“中立”博弈），提供了一个非平凡但可控的基准。该环境可推动强化学习与博弈论算法在对抗性场景中的发展，对产品经理而言，其价值在于模拟现实中的战略对抗（如竞价、谈判），并为 AI 决策系统提供可重复评估的沙盒。",
-      "pm_score": 0.41,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2607.06514v1",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "graphbu-milp-instance-generation-with-graph-native-block-units",
-      "label": "GraphBU: MILP Instance Generation with Graph-Native Block Units",
-      "summary": "论文提出GraphBU方法，用于生成混合整数线性规划（MILP）实例。由于私有或专用管线的MILP模型难以获取，现有通用生成器常破坏求解器与学习策略依赖的结构。GraphBU采用图原生块单元，从底层图结构生成实例，保留关键拓扑与约束特征，从而提升求解器训练与评估效果。该方法对运筹优化、供应链调度等AI产品具有实用价值，可低成本获得高质量训练数据，推动端到端优化模型的产品化落地。",
-      "pm_score": 0.41,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2607.06532v1",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "ai-meets-cryptography-1-what-ai-found-in-cloudflares-circl",
-      "label": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-      "summary": "本文探讨AI在密码学领域的应用，具体展示如何利用机器学习分析Cloudflare的开源密码学库Circl。AI自动扫描代码与协议，发现潜在的实现漏洞或性能瓶颈，替代传统人工审计方式。技术要点包括模型对加密算法模式的学习能力与异常检测；商业价值体现在降低安全审查成本、增强云服务信任度；产品创新在于将AI融入DevSecOps流程，实现持续安全监控。",
+      "id": "geosql-a-claudecodex-skill-for-geospatial-data",
+      "label": "Geosql: A Claude/Codex skill for geospatial data",
+      "summary": "Geosql 是一个针对 Claude 和 Codex 开发的技能，旨在让大语言模型能够理解和执行地理空间数据查询。通过自然语言接口，用户无需掌握复杂 SQL 或 GIS 工具即可获取空间分析结果。该技能降低了地理空间数据的使用门槛，赋能城市规划、物流优化、环境监测等领域的决策效率。产品创新在于将 AI 的对话能力与地理空间数据库深度结合，形成“提问即分析”的交互模式，有望推动地理智能应用的普及。",
       "pm_score": 0.38,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48821749",
-      "date": "2026-07-08"
+      "url": "https://news.ycombinator.com/item?id=48829242",
+      "date": "2026-07-09"
     },
     {
-      "id": "show-hn-fortress-a-stealth-chromium-so-your-agents-stop-getting-blocked",
-      "label": "Show HN: Fortress – a stealth Chromium so your agents stop getting blocked",
-      "summary": "Fortress 是一个专门为 AI 代理设计的隐身版 Chromium 浏览器，旨在防止代理在执行自动化任务时被网站识别并封禁。它通过模拟真实人类浏览行为、隐藏自动化特征，提升代理的稳定性和可用性。对 AI 产品经理而言，该工具解决了代理在数据采集、内容抓取等场景中的核心痛点，降低被反爬机制拦截的风险，从而提升自动化效率。商业价值在于为依赖代理的 AI 应用（如市场分析、竞品监控）提供可靠的基础设施。产品创新在于将隐身技术深度集成到浏览器内核，而非依赖外部扩展。",
-      "pm_score": 0.38,
-      "pillar": "ecosystem",
-      "type": "showhn",
-      "source_type": "showhn",
-      "url": "https://github.com/tiliondev/fortress",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "why-skilled-workers-come-to-germany-and-then-leave-again",
-      "label": "Why skilled workers come to Germany and then leave again",
-      "summary": "该内容探讨技术工人来到德国后又离开的现象，分析其原因包括语言障碍、文化适应困难、职业发展受限及官僚体系繁琐等。虽然与AI技术无直接关联，但反映出人才流动对科技企业的影响，提示产品经理在全球化团队管理中需关注员工体验与本地化支持。此信息对AI产品经理的直接技术价值较低，但可借鉴人才策略以优化团队构成。",
-      "pm_score": 0.37,
-      "pillar": "ecosystem",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48815982",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "show-hn-halo-open-source-tamper-evident-runtime-evidence-for-ai-agents",
-      "label": "Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
-      "summary": "Halo是一个开源工具，为AI代理提供防篡改的运行时证据。它通过记录代理执行过程中的关键操作并生成加密可验证的日志，确保行为不可否认和可审计。该工具解决了企业级AI应用中代理行为的可信任与合规性问题，尤其适用于金融、医疗等强监管领域。产品创新点在于将区块链的防篡改概念引入AI代理监控，无需依赖第三方断言即可独立验证代理行为。商业价值在于提升AI代理的透明度，降低部署风险，加速企业采用自主代理。",
-      "pm_score": 0.365,
-      "pillar": "patterns",
-      "type": "showhn",
-      "source_type": "showhn",
-      "url": "https://github.com/bkuan001/halo-record",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "show-hn-docx-cli-agents-readedit-word-docs-using-12-the-time-and-tokens",
-      "label": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
-      "summary": "Docx-CLI 是一个命令行工具，允许AI代理以更高效的方式读取和编辑Word文档。相比传统方法，它可节省一半的时间和令牌消耗。通过优化文档解析和操作流程，该工具降低了AI处理办公文档的成本，提升了实时交互性能。对于AI产品经理而言，这项技术能够直接减少文档处理功能的部署成本，加速产品迭代，尤其适合需要大量文档自动化处理的场景。",
-      "pm_score": 0.33,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48821500",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "show-hn-rowboat-open-source-local-first-alternative-to-claude-desktop",
-      "label": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
-      "summary": "Rowboat 是一个开源的、本地优先的桌面 AI 助手，旨在替代 Claude Desktop。它允许用户完全在本地运行 AI 模型，无需网络连接，从而确保数据隐私和安全性。技术要点包括支持多种开源模型（如 Llama、Mistral）、本地知识库集成以及可定制的提示系统。商业价值在于为企业提供低成本、可自托管的 AI 助手解决方案，避免对第三方 API 的依赖。产品创新在于将本地运行、开源定制与类 Claude 的交互体验结合，适合对隐私敏感或需要离线工作的场景。",
-      "pm_score": 0.33,
-      "pillar": "patterns",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48819808",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "show-hn-davit-a-apple-containers-ui",
-      "label": "Show HN: Davit, a Apple Containers UI",
-      "summary": "Davit 是一个面向 Apple 生态系统的容器管理 UI 工具，旨在简化 Apple 容器（可能指 macOS 上的容器化技术）的操作与可视化。虽然其具体技术细节未披露，但该工具可能为开发者提供类似 Docker UI 的体验，降低在 Apple 环境下使用容器化的门槛。对于 AI 产品经理而言，此类工具能提升开发效率，促进模型部署与测试环境的标准化，但需关注其与主流容器技术的兼容性及生态成熟度。",
-      "pm_score": 0.325,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=48821848",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "why-the-rise-of-open-source-ai-isn8217t-hurting-anthropic-8230-yet",
-      "label": "Why the rise of open source AI isn&#8217;t hurting Anthropic &#8230; yet",
-      "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+      "id": "former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space",
+      "label": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "summary": "前 OpenAI 高管 Kevin Weil 加入太空公司 Stoke Space 董事会，标志着硅谷对可重复使用火箭技术的兴趣升温。Weil 在 AI 产品战略领域的经验可能为航天产业带来新的商业视角，尤其是在利用 AI 优化火箭发射、回收流程以及太空数据处理方面。这一跨界任命暗示 AI 人才正加速流入硬科技领域，推动 AI 与航天产品的融合创新，潜在商业价值包括降低发射成本、提升火箭重复使用效率，并催生新型太空数据服务产品。",
       "pm_score": 0.305,
       "pillar": "ecosystem",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "rmisc-a-large-scale-real-world-multivariate-corpus-for-time-series-foundation-mo",
-      "label": "RMISC: A Large-scale Real-world Multivariate Corpus for Time Series Foundation M",
-      "summary": "Recent years have witnessed the emergence of multivariate modeling using time series foundation models (TSFMs), which achieve advanced zero-shot generalization. Modern multivariate TSFMs are predominantly pretrained on multivariate synthetic data, which is easier to scale but may fail to capture the",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2607.06504v1",
-      "date": "2026-07-08"
-    },
-    {
-      "id": "the-large-cancer-assistant-lca-a-model-agnostic-orchestration-framework-for-scal",
-      "label": "The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for S",
-      "summary": "Objective: Multimodal deep learning models in oncology are currently limited by monolithic designs that rigidly couple data ingestion, clinical routing, and artificial intelligence (AI) inference. To address this inflexibility, we propose the Large Cancer Assistant (LCA), a model-agnostic, post-ho",
-      "pm_score": 0.305,
-      "pillar": "ecosystem",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2607.06531v1",
-      "date": "2026-07-08"
+      "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "date": "2026-07-09"
     }
   ],
   "graph_totals": {
-    "real_nodes": 3223,
-    "edges": 3520
+    "real_nodes": 3266,
+    "edges": 3563
   }
 }

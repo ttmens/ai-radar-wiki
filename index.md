@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-08 | Total pages: 2318
+> Last updated: 2026-07-09 | Total pages: 2330
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -237,6 +237,7 @@
 - [[fender-escalates-legal-campaign-against-s-style-guitars.md]] Fender escalates legal campaign against S-style guitars `pillar:capabilities` `score:0.235`
 - [[figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update.md]] Figma adds code layers, support for animations, more AI features in new update `pillar:capabilities` `score:0.445`
 - [[fine-tuning-an-llm-to-write-docs-like-its-1995.md]] Fine-tuning an LLM to write docs like it's 1995 `pillar:capabilities` `score:0.36`
+- [[first-principles-of-model-routing.md]] First Principles of Model Routing `pillar:capabilities` `score:0.33`
 - [[five-frontier-llms-disagree-on-67-of-1k-real-world-fact-check-claims.md]] Five frontier LLMs disagree on 67% of 1k real-world fact-check claims `pillar:capabilities` `score:0.63`
 - [[ford-rehires-350-engineers-after-ai-fails-to-preserve-expertise-or-train-juniors.md]] Ford rehires 350 engineers after AI fails to preserve expertise or train juniors `pillar:capabilities` `score:0.55`
 - [[ford-rehires-gray-beard-engineers-after-ai-falls-short.md]] Ford rehires ‘gray beard’ engineers after AI falls short `pillar:capabilities` `score:0.48`
@@ -255,6 +256,7 @@
 - [[gemma-4-12b-a-unified-encoder-free-multimodal-model.md]] Gemma 4 12B: A unified, encoder-free multimodal model `pillar:capabilities` `score:0.68`
 - [[gemma-4-qat-models-optimizing-compression-for-mobile-and-laptop-efficiency.md]] Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency `pillar:capabilities` `score:0.53`
 - [[general-intuition-in-talks-to-raise-300m-at-around-2b-valuation.md]] General Intuition in talks to raise $300M at around $2B valuation `pillar:capabilities` `score:0.48`
+- [[geosql-a-claudecodex-skill-for-geospatial-data.md]] Geosql: A Claude/Codex skill for geospatial data `pillar:capabilities` `score:0.38`
 - [[german-rail-service-suspended-due-to-radio-interference.md]] German Rail Service Suspended Due to Radio Interference `pillar:capabilities` `score:0.31`
 - [[github-actions-down-again-today.md]] GitHub Actions down again today `pillar:capabilities` `score:0.645`
 - [[github-and-the-crime-against-software.md]] GitHub and the crime against software `pillar:capabilities` `score:0.53`
@@ -283,6 +285,7 @@
 - [[gpt-2-too-dangerous-to-release-2019.md]] GPT-2: Too Dangerous To Release (2019) `pillar:capabilities` `score:0.58`
 - [[gpt-55-codex-reasoning-token-clustering-may-be-leading-to-degraded-performance.md]] GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance `pillar:capabilities` `score:0.53`
 - [[gpt-55-hallucinates-3x-more-than-mit-licensed-glm-52.md]] GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2 `pillar:capabilities` `score:0.33`
+- [[gpt-56-sol-along-with-terra-and-luna-will-launch-publicly-this-thursday.md]] GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday `pillar:capabilities` `score:0.375`
 - [[gpt-56-sol-ultra-will-be-in-codex.md]] GPT-5.6 Sol Ultra will be in Codex `pillar:capabilities` `score:0.495`
 - [[gptnl-a-sovereign-language-model-for-the-netherlands.md]] GPT‑NL: a sovereign language model for the Netherlands `pillar:capabilities` `score:0.565`
 - [[grapheneos-speech-services-version-2-released.md]] GrapheneOS Speech Services version 2 released `pillar:capabilities` `score:0.295`
@@ -295,6 +298,7 @@
 - [[has-ai-already-killed-self-help-nonfiction-books.md]] Has AI already killed self-help nonfiction books? `pillar:capabilities` `score:0.445`
 - [[has-the-hunt-for-ai-compute-uncovered-the-next-cerebras.md]] Has the hunt for AI compute uncovered the next Cerebras? `pillar:capabilities` `score:0.48`
 - [[hiyougallamafactory.md]] hiyouga/LlamaFactory `pillar:capabilities` `score:0.615`
+- [[hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-a.md]] Hot French startup ZML releases free product to speed inference across lots of A `pillar:capabilities` `score:0.515`
 - [[how-a-new-dsl-may-survive-in-the-era-of-llms.md]] How a new DSL may survive in the era of LLMs `pillar:capabilities` `score:0.295`
 - [[how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers.md]] How an e-scooter founder raised $5 million to build space data centers `pillar:capabilities` `score:0.41`
 - [[how-claude-code-works-in-large-codebases.md]] How Claude Code works in large codebases `pillar:capabilities` `score:0.365`
@@ -415,6 +419,7 @@
 - [[mimo-v25-pro-ultraspeed-1t-model-with-1000-tokens-per-second.md]] MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second `pillar:capabilities` `score:0.45`
 - [[mindsdbminds-platform.md]] mindsdb/minds-platform `pillar:capabilities` `score:0.405`
 - [[mistral-ocr-4.md]] Mistral OCR 4 `pillar:capabilities` `score:0.53`
+- [[mistrals-robostral-navigate-a-state-of-the-art-robotics-navigation-model.md]] Mistral's Robostral Navigate: a state of the art robotics navigation model `pillar:capabilities` `score:0.515`
 - [[mlc-aiweb-llm.md]] mlc-ai/web-llm `pillar:capabilities` `score:0.615`
 - [[mlfoundationsopen_clip.md]] mlfoundations/open_clip `pillar:capabilities` `score:0.615`
 - [[mmorpg-world-of-claudecraft-vibe-coded-with-fable-5.md]] Mmorpg World of ClaudeCraft, vibe coded with Fable 5 `pillar:capabilities` `score:0.33`
@@ -574,6 +579,7 @@
 - [[show-hn-docx-cli-agents-readedit-word-docs-using-12-the-time-and-tokens.md]] Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens `pillar:capabilities` `score:0.33`
 - [[show-hn-domaintasker-avoid-losing-domains-and-surprise-renewals.md]] Show HN: DomainTasker – avoid losing domains and surprise renewals `pillar:capabilities` `score:0.19`
 - [[show-hn-find-the-best-local-llm-for-your-hardware-ranked-by-benchmarks.md]] Show HN: Find the best local LLM for your hardware, ranked by benchmarks `pillar:capabilities` `score:0.33`
+- [[show-hn-follow-london-trains-in-3d.md]] Show HN: Follow London Trains in 3D `pillar:capabilities` `score:0.26`
 - [[show-hn-formally-verified-polygon-intersection-opus-48-oneshots-prev-failed.md]] Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed `pillar:capabilities` `score:0.26`
 - [[show-hn-free-mermaid-diagram-editor.md]] Show HN: Free Mermaid Diagram Editor `pillar:capabilities` `score:0.26`
 - [[show-hn-gerrymandle-daily-puzzle-game-where-you-redraw-electoral-districts.md]] Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts `pillar:capabilities` `score:0.425`
@@ -1350,6 +1356,7 @@
 - [[general-intuition8217s-23b-bet-that-video-games-can-train-ai-agents-for-the-real.md]] General Intuition&#8217;s $2.3B bet that video games can train AI agents for the `pillar:patterns` `score:0.515`
 - [[github-copilot-app.md]] GitHub Copilot App `pillar:patterns` `score:0.515`
 - [[githubspec-kit.md]] github/spec-kit `pillar:patterns` `score:0.58`
+- [[gitlost-we-tricked-githubs-ai-agent-into-leaking-private-repos.md]] GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos `pillar:patterns` `score:0.53`
 - [[gm-just-laid-off-hundreds-of-it-workers-to-hire-th.md]] GM just laid off hundreds of IT workers to hire those with stronger AI skills `pillar:patterns` `score:0.305`
 - [[google-bets-on-gemini-to-reinvent-the-smart-home-speaker.md]] Google bets on Gemini to reinvent the smart home speaker `pillar:patterns` `score:0.48`
 - [[google-brings-agentic-ai-and-vibe-coded-widgets-to.md]] Google brings agentic AI and vibe-coded widgets to Android `pillar:patterns` `score:0.305`
@@ -1685,6 +1692,7 @@
 - [[comfy-orgcomfyui.md]] Comfy-Org/ComfyUI `pillar:ecosystem` `score:0.615`
 - [[config-files-that-run-code-supply-chain-security-blindspot.md]] Config Files That Run Code: Supply Chain Security Blindspot `pillar:ecosystem` `score:0.295`
 - [[copy-fail-dirty-frag-and-fragnesia-kernel-vulnerabilities.md]] Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities `pillar:ecosystem` `score:0.395`
+- [[copy-that-floppy-cambridge-guide-for-preserving-data-from-fragile-floppy-disks.md]] Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks `pillar:ecosystem` `score:0.205`
 - [[d4vinciscrapling.md]] D4Vinci/Scrapling `pillar:ecosystem` `score:0.405`
 - [[danielmiesslerfabric.md]] danielmiessler/Fabric `pillar:ecosystem` `score:0.58`
 - [[danny-avilalibrechat.md]] danny-avila/LibreChat `pillar:ecosystem` `score:0.615`
@@ -1698,11 +1706,13 @@
 - [[ethicalmlawesome-production-machine-learning.md]] EthicalML/awesome-production-machine-learning `pillar:ecosystem` `score:0.58`
 - [[eu-commission-looking-at-practical-consequences-of-anthropic-decision.md]] EU Commission looking at practical consequences of Anthropic decision `pillar:ecosystem` `score:0.33`
 - [[europe-is-pushing-back-on-washington8217s-chip-war.md]] Europe is pushing back on Washington&#8217;s chip war `pillar:ecosystem` `score:0.41`
+- [[eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why.md]] EVE Online's Carbon engine is now open source: Fenris Creations explains why `pillar:ecosystem` `score:0.51`
 - [[everyone-is-navigating-ai-security-in-real-time-8212-even-google.md]] Everyone is navigating AI security in real time &#8212; even Google `pillar:ecosystem` `score:0.515`
 - [[fastaifastai.md]] fastai/fastai `pillar:ecosystem` `score:0.58`
 - [[final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket.md]] Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket `pillar:ecosystem` `score:0.41`
 - [[flwrlabsflower.md]] flwrlabs/flower `pillar:ecosystem` `score:0.53`
 - [[for-most-of-the-world-open-source-ai-is-the-only-way-forward.md]] For Most of the World, Open-Source AI Is the Only Way Forward `pillar:ecosystem` `score:0.585`
+- [[former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space.md]] Former OpenAI exec Kevin Weil is now on the board of Stoke Space `pillar:ecosystem` `score:0.305`
 - [[fpromptschat.md]] f/prompts.chat `pillar:ecosystem` `score:0.58`
 - [[france-moves-to-break-encrypted-messaging.md]] France moves to break encrypted messaging `pillar:ecosystem` `score:0.53`
 - [[french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation.md]] French physicist and media star loses doctorate after plagiarism investigation `pillar:ecosystem` `score:0.34`
@@ -1973,6 +1983,7 @@
 - [[agility-robotics-plans-to-go-public-via-spac-in-a-25b-deal.md]] Agility Robotics plans to go public via SPAC in a $2.5B deal `pillar:business` `score:0.48`
 - [[ahead-of-its-ipo-anthropic8217s-daniela-amodei-shrugs-off-doubts-about-ai8217s-r.md]] Ahead of its IPO, Anthropic&#8217;s Daniela Amodei shrugs off doubts about AI&#8 `pillar:business` `score:0.515`
 - [[ai-boom-pushes-samsung-to-1t.md]] AI boom pushes Samsung to $1T `pillar:business` `score:0.3`
+- [[ai-chip-maker-sambanova-raises-1b-at-11b-valuation-5-months-after-last-mega-roun.md]] AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega r `pillar:business` `score:0.445`
 - [[ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidia8217s-20b-not-acqui.md]] AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia&#8217;s $20B not- `pillar:business` `score:0.445`
 - [[ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation.md]] AI coding startup Cognition raises $1B at $25B pre-money valuation `pillar:business` `score:0.48`
 - [[ai-eats-the-world-spring-26-pdf.md]] AI eats the world (Spring 26) [pdf] `pillar:business` `score:0.53`
@@ -2238,6 +2249,7 @@
 - [[the-us-is-winning-the-ai-race-where-it-matters-mos.md]] The US is winning the AI race where it matters most: commercialization `pillar:business` `score:0.405`
 - [[the-vespa-at-80-why-the-italian-scooter-remains-the-coolest-thing-on-2-wheels.md]] The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels `pillar:business` `score:0.27`
 - [[there-aren8217t-enough-rockets-for-space-data-c.md]] There aren&#8217;t enough rockets for space data centers. Cowboy Space raised $2 `pillar:business` `score:0.305`
+- [[these-ai-startups-are-growing-revenue-at-faster-and-faster-rates.md]] These AI startups are growing  revenue at faster and faster rates `pillar:business` `score:0.445`
 - [[thinking-machines-wants-to-build-an-ai-that-actual.md]] Thinking Machines wants to build an AI that actually listens while it talks `pillar:business` `score:0.305`
 - [[three-ways-to-get-paid-2018.md]] Three Ways to Get Paid (2018) `pillar:business` `score:0.515`
 - [[tidal-cracks-down-on-ai-music-by-cutting-off-monetization.md]] TIDAL cracks down on AI music by cutting off monetization `pillar:business` `score:0.445`

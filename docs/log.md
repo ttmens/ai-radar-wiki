@@ -2573,3 +2573,11 @@
 - create: meta-just-launched-a-new-ai-generator-muse-image-and-users-are-already-pushing-b.md
 - create: show-hn-free-mermaid-diagram-editor.md
 - create: show-hn-fortress-a-stealth-chromium-so-your-agents-stop-getting-blocked.md
+
+## [2026-07-09 00:01] sync v3 | 8 new | pillars: {'capabilities': 4, 'patterns': 2, 'ecosystem': 1, 'business': 1}
+- create: mistrals-robostral-navigate-a-state-of-the-art-robotics-navigation-model.md
+- create: eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why.md
+- create: show-hn-follow-london-trains-in-3d.md
+- create: geosql-a-claudecodex-skill-for-geospatial-data.md
+- create: these-ai-startups-are-growing-revenue-at-faster-and-faster-rates.md
+- create: former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space.md
