@@ -1,0 +1,23 @@
+{
+  "title": "The classifiers Anthropic puts in front of Fable are too zealous",
+  "score": 142,
+  "comments": 121,
+  "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+  "hn_url": "https://news.ycombinator.com/item?id=48837162",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Anthropic 在其产品 Fable 前部署的内容分类器过于激进，导致过度过滤正常内容，影响用户体验。这揭示了AI安全与可用性之间的权衡：分类器精度不足或阈值过高会误伤合法请求，降低产品信任度。产品经理需关注分类器的召回率与精确率平衡，避免因过度防护损害核心交互价值。同时，该问题可能源于模型对潜在风险的过度泛化，需要通过更细粒度的规则或用户反馈机制优化。",
+  "pm_relevance": 8,
+  "concepts": [
+    "内容分类器",
+    "安全-可用性权衡"
+  ],
+  "entities": [
+    "Anthropic",
+    "Fable"
+  ],
+  "patterns": [
+    "过度过滤"
+  ]
+}

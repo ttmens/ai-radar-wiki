@@ -1,0 +1,24 @@
+{
+  "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
+  "score": 11,
+  "comments": 2,
+  "url": "https://github.com/animesh-94/Onboard-CLI",
+  "hn_url": "https://news.ycombinator.com/item?id=48836813",
+  "tag": "ShowHN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Onboard-CLI 是一款结合大语言模型与抽象语法树（AST）的代码库可视化工具。它利用 LLM 的自然语言理解能力和 AST 的结构化分析，帮助开发者快速理解复杂代码库的架构、依赖关系和逻辑流程，降低新项目上手和代码审查成本。从产品经理视角，该工具将 AI 从对话式交互拓展到代码可视化场景，提升了开发效率与团队协作体验，潜在可应用于代码文档自动化、遗留系统重构等商业场景，体现了 AI 辅助软件工程的产品创新方向。",
+  "pm_relevance": 8,
+  "concepts": [
+    "代码可视化",
+    "抽象语法树",
+    "LLM增强开发工具"
+  ],
+  "entities": [
+    "Onboard-CLI"
+  ],
+  "patterns": [
+    "AI可视化工具",
+    "代码理解助手"
+  ]
+}

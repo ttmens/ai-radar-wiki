@@ -2581,3 +2581,22 @@
 - create: geosql-a-claudecodex-skill-for-geospatial-data.md
 - create: these-ai-startups-are-growing-revenue-at-faster-and-faster-rates.md
 - create: former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space.md
+
+## [2026-07-09 06:01] sync v3 | 17 new | pillars: {'patterns': 4, 'capabilities': 13}
+- create: show-hn-microsoft-releases-flint-a-visualization-language-for-ai-agents.md
+- create: gptlive.md
+- create: the-classifiers-anthropic-puts-in-front-of-fable-are-too-zealous.md
+- create: swe-17-reach-near-gpt-55-and-opus-intelligence.md
+- create: google8217s-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic.md
+- create: spacexai-releases-grok-45-which-elon-describes-as-an-8216opus-class-model8217.md
+- create: this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment.md
+- create: google-photos-adds-a-new-ai-8216video-remix8217-tool.md
+- create: why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet.md
+- create: meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise.md
+- create: openai-releases-new-voice-models-for-more-natural-live-conversations.md
+- create: prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agen.md
+- create: your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-start.md
+- create: show-hn-onboard-cli-a-llm-powered-and-ast-based-tool-to-visualize-codebase.md
+- create: show-hn-agent-draw-an-agent-draws-while-you-talk-built-on-tldraw.md
+- create: show-hn-kastor-terraform-style-specs-for-ai-agents.md
+- create: show-hn-freeport-a-p2p-ride-hailing-marketplace-i-built-on-nostr.md

@@ -1,8 +1,63 @@
 {
   "date": "2026-07-09",
-  "generated_at": "2026-07-09T00:01:53.035627+08:00",
-  "item_count": 5,
+  "generated_at": "2026-07-09T06:01:45.757480+08:00",
+  "item_count": 21,
   "items": [
+    {
+      "id": "gptlive",
+      "label": "GPT‑Live",
+      "summary": "GPT‑Live 可能是一个专注于实时交互的 GPT 应用或演示项目，旨在利用大语言模型提供低延迟、持续对话体验。这类产品通常结合流式输出、上下文管理和用户反馈循环，适用于客服、教育、娱乐等场景。技术要点包括实时性优化、记忆持久化和 API 成本控制。商业价值在于增强用户粘性，产品创新体现在对话式界面与即时响应结合。",
+      "pm_score": 0.645,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48834405",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "swe-17-reach-near-gpt-55-and-opus-intelligence",
+      "label": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "summary": "标题指出 SWE-1.7 在能力上已接近 GPT-5.5 和 Opus 的智能水平，意味着模型在软件工程任务（如代码生成、调试）上取得了显著突破。对 AI 产品经理而言，这暗示着下一代编码助手、自动化开发工具的性能即将大幅提升，商业上可能引发竞品格局变化（如 OpenAI 与 Anthropic 的对抗），产品创新方向应关注基于该级别模型的新功能（如全栈自动编程、复杂 Bug 修复）。需警惕基准饱和风险，但整体利好 Agent 化开发产品。",
+      "pm_score": 0.635,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48833866",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "the-classifiers-anthropic-puts-in-front-of-fable-are-too-zealous",
+      "label": "The classifiers Anthropic puts in front of Fable are too zealous",
+      "summary": "Anthropic 在其产品 Fable 前部署的内容分类器过于激进，导致过度过滤正常内容，影响用户体验。这揭示了AI安全与可用性之间的权衡：分类器精度不足或阈值过高会误伤合法请求，降低产品信任度。产品经理需关注分类器的召回率与精确率平衡，避免因过度防护损害核心交互价值。同时，该问题可能源于模型对潜在风险的过度泛化，需要通过更细粒度的规则或用户反馈机制优化。",
+      "pm_score": 0.55,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48837162",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "show-hn-microsoft-releases-flint-a-visualization-language-for-ai-agents",
+      "label": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "summary": "微软发布Flint，一种专为AI智能体设计的可视化语言，旨在简化复杂多智能体系统的构建与调试。通过图形化界面替代传统代码，开发者可更直观地定义智能体行为、交互流程与数据流转，降低开发门槛并提升可解释性。该工具可能集成到微软Azure AI生态，赋能企业快速构建可观测的Agent应用，对AI产品经理而言，是降低Agent开发复杂度、加速原型验证的重要基础设施。",
+      "pm_score": 0.53,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48834924",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "openai-releases-new-voice-models-for-more-natural-live-conversations",
+      "label": "OpenAI releases new voice models for more natural live conversations",
+      "summary": "OpenAI 发布了新的语音模型，支持同时进行说话和倾听，突破了传统语音交互中轮流对话的限制。这一技术能力使得实时翻译成为可能，极大提升了语音交互的自然度和效率。对 AI 产品经理而言，该模型可应用于语音助手、实时翻译、在线会议等场景，带来更流畅的用户体验和新的商业机会。产品创新在于实现了双向语音流的同步处理，降低了延迟，增强了人机对话的沉浸感。",
+      "pm_score": 0.515,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "date": "2026-07-09"
+    },
     {
       "id": "mistrals-robostral-navigate-a-state-of-the-art-robotics-navigation-model",
       "label": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
@@ -23,6 +78,83 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48780387",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "google-photos-adds-a-new-ai-8216video-remix8217-tool",
+      "label": "Google Photos adds a new AI &#8216;Video Remix&#8217; tool",
+      "summary": "Google Photos 推出 AI 驱动的 'Video Remix' 工具，可智能调整暗部画面的电影级补光、一键替换平淡背景为趣味场景、并为视频添加艺术风格。该功能降低了视频创作门槛，通过自动化编辑提升用户留存与付费意愿，体现了 AI 在多媒体内容处理上的实用化趋势。对产品经理而言，这是将复杂视频编辑转化为傻瓜式操作的典型案例，有望激发更多 UGC 创作，并探索订阅制或增值服务。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise",
+      "label": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "summary": "Meta 为其 AI 眼镜增加防秘密录制的新安全功能，试图缓解用户对隐私的担忧。然而，其 AI 战略却在持续扩大个人数据的收集和使用范围，形成矛盾。对 AI 产品经理而言，这凸显了隐私保护与数据驱动创新之间的平衡挑战：既要通过技术手段（如录制指示灯）建立用户信任，又需谨慎处理数据利用的边界，否则可能引发更大的伦理争议和监管风险。商业上，用户信任是 AI 可穿戴设备规模化落地的关键。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "google8217s-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic",
+      "label": "Google&#8217;s deepfake detector system used to debunk McConnell hoax pic",
+      "summary": "Google 的深度伪造检测系统成功识别并揭穿了一张显示美国参议员 Mitch McConnell 在医院病危的 AI 生成假图。该事件突显了 AI 生成内容在政治领域造成的虚假信息风险，也验证了 Google 的检测技术在现实场景中的有效性。对于 AI 产品经理而言，这代表了一种关键的安全与合规能力：将深度伪造检测集成到内容审核、新闻验证和社交平台中，可保护用户免受误导，增强平台信任度。其商业价值在于为媒体、政府和企业提供反虚假信息工具，推动 AI 治理产品创新。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment",
+      "label": "This startup thinks robotics is about to have its ChatGPT moment",
+      "summary": "通用直觉公司（General Intuition）正押注于利用数百万小时的视频游戏数据来训练物理AI的基础模型，旨在让机器人仅需少量真实世界数据即可变得更智能。这类似于ChatGPT对自然语言处理带来的革命性突破，有望成为机器人领域的‘ChatGPT时刻’。对于AI产品经理而言，该技术通过合成数据降低了对昂贵真实机器人数据的依赖，大幅减少数据采集成本，加速机器人智能产品的开发周期。商业价值体现在降低机器人部署门槛，推动物理AI的规模化应用，尤其适用于物流、制造和服务等场景。产品创新在于将游戏数据转化为机器人训练资源，实现从虚拟到现实的迁移学习。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet",
+      "label": "Why this CEO thinks video games make better training data than the internet",
+      "summary": "该文章认为，大语言模型虽然擅长文本处理，但在理解物体在空间和时间中的实际运动方面存在明显短板。为突破这一瓶颈，CEO提出使用视频游戏作为训练数据，因其能提供丰富的物理交互与动态场景。相比互联网文本，游戏数据更能帮助AI学习因果推理、物体操控和现实世界动态，有望加速通用人工智能（AGI）的实现。这对AI产品经理意味着，未来训练数据的来源将从静态文本转向动态模拟环境，催生更接近物理世界理解能力的AI产品。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agen",
+      "label": "Prime Intellect raises $130M Series A to help enterprises build their own AI age",
+      "summary": "Prime Intellect 获1.3亿美元A轮融资，旨在帮助企业自主构建和训练AI代理系统，摆脱对OpenAI等前沿实验室的依赖。2024年成立，该公司提供工具和平台，使组织能定制化、隐私安全地开发专属agent，同时控制成本。这一融资表明市场对“企业自建AI能力”商业模式的高度认可，产品经理应关注其降低技术门槛、加速AI落地的可能性，以及对企业数据主权和私有化部署的支撑价值。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "spacexai-releases-grok-45-which-elon-describes-as-an-8216opus-class-model8217",
+      "label": "SpaceXAI releases Grok 4.5, which Elon describes as an &#8216;Opus-class model&#",
+      "summary": "xAI（标题中误写为SpaceXAI）发布了Grok 4.5版本，Elon Musk将其描述为‘Opus-class model’，意在提供比现有强大AI模型更便宜、更高效的替代方案。该模型在保持高水平推理能力的同时，显著降低了计算成本和能耗，使得中小企业和开发者能够以更低门槛接入先进AI能力。从产品创新角度看，Grok 4.5强调‘效率优先’的路线，可能推动AI模型从单纯追求参数量转向实用性优化。商业上，这加剧了与OpenAI、Google等厂商的竞争，为AI产品经理提供了成本更优的基础模型选择，尤其适合对延迟和预算敏感的实时应用场景。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
       "date": "2026-07-09"
     },
     {
@@ -48,6 +180,50 @@
       "date": "2026-07-09"
     },
     {
+      "id": "show-hn-agent-draw-an-agent-draws-while-you-talk-built-on-tldraw",
+      "label": "Show HN: Agent Draw: An agent draws while you talk, built on TLDraw",
+      "summary": "Agent Draw 是一个基于 TLDraw 构建的实时 AI 绘图代理，用户可通过语音与之交互，在说话的同时自动绘制图形。技术核心在于将语音识别、自然语言理解与白板绘图引擎深度集成，实现边聊边画的无缝体验。该产品降低了创意表达和协作的门槛，可应用于在线教育、头脑风暴、产品原型快速展示等场景，展示了AI从“聊天”到“视觉化创作”的模式创新。",
+      "pm_score": 0.365,
+      "pillar": "patterns",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://techstackups.com/articles/tldraw-agent-draw/",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "show-hn-onboard-cli-a-llm-powered-and-ast-based-tool-to-visualize-codebase",
+      "label": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
+      "summary": "Onboard-CLI 是一款结合大语言模型与抽象语法树（AST）的代码库可视化工具。它利用 LLM 的自然语言理解能力和 AST 的结构化分析，帮助开发者快速理解复杂代码库的架构、依赖关系和逻辑流程，降低新项目上手和代码审查成本。从产品经理视角，该工具将 AI 从对话式交互拓展到代码可视化场景，提升了开发效率与团队协作体验，潜在可应用于代码文档自动化、遗留系统重构等商业场景，体现了 AI 辅助软件工程的产品创新方向。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://github.com/animesh-94/Onboard-CLI",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "show-hn-kastor-terraform-style-specs-for-ai-agents",
+      "label": "Show HN: Kastor – Terraform-style specs for AI agents",
+      "summary": "Kastor 是一个开源项目，借鉴 Terraform 的基础设施即代码理念，为 AI Agent 提供声明式的规格定义。它允许产品经理用配置文件描述 Agent 的工具、记忆、行为等，实现版本控制、自动化部署和可复用的 Agent 管理。这种模式降低了 AI Agent 的维护复杂度，提升了团队协作效率，同时通过代码化确保 Agent 行为的可追溯与一致性。对 AI 产品而言，Kastor 意味着将 DevOps 实践引入 Agent 生命周期管理，加速从原型到生产化的过程，并增强系统可靠性。",
+      "pm_score": 0.33,
+      "pillar": "patterns",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://github.com/weirdGuy/kastor",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-start",
+      "label": "Your gaming data could be the secret to AGI, according to this Bezos-backed star",
+      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
+      "date": "2026-07-09"
+    },
+    {
       "id": "former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space",
       "label": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
       "summary": "前 OpenAI 高管 Kevin Weil 加入太空公司 Stoke Space 董事会，标志着硅谷对可重复使用火箭技术的兴趣升温。Weil 在 AI 产品战略领域的经验可能为航天产业带来新的商业视角，尤其是在利用 AI 优化火箭发射、回收流程以及太空数据处理方面。这一跨界任命暗示 AI 人才正加速流入硬科技领域，推动 AI 与航天产品的融合创新，潜在商业价值包括降低发射成本、提升火箭重复使用效率，并催生新型太空数据服务产品。",
@@ -60,7 +236,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 3266,
-    "edges": 3563
+    "real_nodes": 3317,
+    "edges": 3618
   }
 }
