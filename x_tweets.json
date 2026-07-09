@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-09T09:00:59.249109",
+  "fetched_at": "2026-07-09T21:00:53.168144",
   "source": "twitter-cli",
   "data": {
     "sama": [
       {
-        "id": "2074909079450050629",
-        "text": "GPT-live (next-generation voice) launches today in ChatGPT.\n\nit feels magical and 'real'.\n\ni have always preferred typing to talking to an AI, now i think that's going to shift.",
+        "id": "2075068286107316317",
+        "text": "what a good video",
         "author": {
           "id": "1605",
           "name": "Sam Altman",
@@ -14,26 +14,34 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8274,
-          "retweets": 398,
-          "replies": 756,
-          "quotes": 93,
-          "views": 427255,
-          "bookmarks": 619
+          "likes": 2221,
+          "retweets": 85,
+          "replies": 292,
+          "quotes": 14,
+          "views": 332884,
+          "bookmarks": 186
         },
-        "createdAt": "Wed Jul 08 17:30:49 +0000 2026",
-        "createdAtLocal": "2026-07-09 01:30",
-        "createdAtISO": "2026-07-08T17:30:49+00:00",
+        "createdAt": "Thu Jul 09 04:03:26 +0000 2026",
+        "createdAtLocal": "2026-07-09 12:03",
+        "createdAtISO": "2026-07-09T04:03:26+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
         "retweetedBy": null,
         "lang": "en",
-        "score": null
+        "score": null,
+        "quotedTweet": {
+          "id": "2074907025537224840",
+          "text": "Introducing GPT-Live, a new generation of voice models for natural human-AI interaction.\n\nRolling out in ChatGPT starting today.\n\nYou’ll want to turn the sound on for this one. https://t.co/WzoQFvA5ir",
+          "author": {
+            "screenName": "OpenAI",
+            "name": "OpenAI"
+          }
+        }
       },
       {
-        "id": "2074709023807664454",
-        "text": "GPT-5.6 sol launches thursday!\n\nhappy building",
+        "id": "2075063511290662996",
+        "text": "tbh i dont think sol gets that many dates either",
         "author": {
           "id": "1605",
           "name": "Sam Altman",
@@ -42,26 +50,34 @@
           "verified": true
         },
         "metrics": {
-          "likes": 28949,
-          "retweets": 1830,
-          "replies": 1772,
-          "quotes": 643,
-          "views": 1618654,
-          "bookmarks": 886
+          "likes": 2326,
+          "retweets": 48,
+          "replies": 196,
+          "quotes": 13,
+          "views": 447922,
+          "bookmarks": 175
         },
-        "createdAt": "Wed Jul 08 04:15:52 +0000 2026",
-        "createdAtLocal": "2026-07-08 12:15",
-        "createdAtISO": "2026-07-08T04:15:52+00:00",
+        "createdAt": "Thu Jul 09 03:44:28 +0000 2026",
+        "createdAtLocal": "2026-07-09 11:44",
+        "createdAtISO": "2026-07-09T03:44:28+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
         "retweetedBy": null,
         "lang": "en",
-        "score": null
+        "score": null,
+        "quotedTweet": {
+          "id": "2074862990214787301",
+          "text": "I had early access to 5.6/Sol for ~month. Sol is my default. It is faster, plans/judges just as good as Fable, and I think produces better overall work. I’ll reach for Fable still for highly targeted debug or performance work with clear reward functions. \n\nA cheeky way I describe Sol vs Fable to my friends is that Sol is a charismatic, efficient, talented coworker you’re jealous of. Fable is a genius recluse that is brilliant at its fixations but doesn’t go out, doesn’t date, and you don’t want to hang out with them much lol.\n\nFable is undefeated at highly targeted debug/security/performance goals. It’s a sight to behold and I was never able to get Sol to push as hard in this category. I’ll keep using it for this.\n\nSol is better or comparable at everything else, in my experience. Give it a shot, it’s hard to describe but it’s just more enjoyable to work with. \n\n(Disclaimer I have no financial ties to either lab, wasn’t paid for any of this.)",
+          "author": {
+            "screenName": "mitchellh",
+            "name": "Mitchell Hashimoto"
+          }
+        }
       },
       {
-        "id": "2073791666553844074",
-        "text": "our older kid put two words together for the first time and i am approximately as amazed by this cognitive feat as i am by GPT-5.6 discovering new math",
+        "id": "2075048072837734448",
+        "text": "it surely doesnt",
         "author": {
           "id": "1605",
           "name": "Sam Altman",
@@ -70,54 +86,70 @@
           "verified": true
         },
         "metrics": {
-          "likes": 13525,
-          "retweets": 353,
-          "replies": 1363,
-          "quotes": 240,
-          "views": 1813996,
-          "bookmarks": 779
+          "likes": 3688,
+          "retweets": 82,
+          "replies": 294,
+          "quotes": 28,
+          "views": 621784,
+          "bookmarks": 157
         },
-        "createdAt": "Sun Jul 05 15:30:37 +0000 2026",
-        "createdAtLocal": "2026-07-05 23:30",
-        "createdAtISO": "2026-07-05T15:30:37+00:00",
+        "createdAt": "Thu Jul 09 02:43:07 +0000 2026",
+        "createdAtLocal": "2026-07-09 10:43",
+        "createdAtISO": "2026-07-09T02:43:07+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
         "retweetedBy": null,
         "lang": "en",
-        "score": null
+        "score": null,
+        "quotedTweet": {
+          "id": "2074952287097967036",
+          "text": "5.6 solves depression",
+          "author": {
+            "screenName": "ericlim",
+            "name": "eric"
+          }
+        }
       },
       {
-        "id": "2073635910512726444",
-        "text": "grateful to the people that created the idea of america, everyone who built it over the past 250 years, and the people who will carry it forward for the next 250.\n\nmost impressive social experiment in history.",
+        "id": "2074944427689202158",
+        "text": "I had a pretty similar experience\n\nA bunch of my tweets about missing Fable were actually about missing GPT 5.6 Sol, but I couldn’t say it so said Fable instead \n\nFable is really good and maybe better in some ways, but I vastly prefer GPT 5.6 Sol",
         "author": {
-          "id": "1605",
-          "name": "Sam Altman",
-          "screenName": "sama",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+          "id": "3239896262",
+          "name": "Max Weinbach",
+          "screenName": "mweinbach",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1808924794718482432/O-PiVxka_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 9119,
-          "retweets": 326,
-          "replies": 597,
-          "quotes": 57,
-          "views": 586118,
-          "bookmarks": 371
+          "likes": 712,
+          "retweets": 19,
+          "replies": 47,
+          "quotes": 4,
+          "views": 174043,
+          "bookmarks": 83
         },
-        "createdAt": "Sun Jul 05 05:11:42 +0000 2026",
-        "createdAtLocal": "2026-07-05 13:11",
-        "createdAtISO": "2026-07-05T05:11:42+00:00",
+        "createdAt": "Wed Jul 08 19:51:16 +0000 2026",
+        "createdAtLocal": "2026-07-09 03:51",
+        "createdAtISO": "2026-07-08T19:51:16+00:00",
         "media": [],
         "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
+        "isRetweet": true,
+        "retweetedBy": "sama",
         "lang": "en",
-        "score": null
+        "score": null,
+        "quotedTweet": {
+          "id": "2074929399842078839",
+          "text": "We've usually stayed away from model comparisons but 5.6 vs Fable is a unique situation\n\nWe've never had a case where the team is so completely convinced on which one is better\n\nHere's the timeline of our experience with it\n\n- We test early versions of 5.6 for a couple of weeks and have a great time, it feels like a step change improvement, enabling new workflows\n- We get to try Fable and don't think it's not as good, I personally would take this experience with a grain of salt, there tends to be a bias when trying a new model when you already like another\n- Fable and 5.6 are taken away because of the regulatory issues\n- Our team is literally depressed that 5.6 is gone, we are looking for anything that could even partly replace it\n- Fable comes back, and here's where it gets interesting, you would think Fable would be enough, but no, the team is still depressed that 5.6 isn't available \n- Then 5.6 comes back and it's immediately clear that it's just way better than Fable\n\nThis situation was unique in that it was the closest we've ever gotten to having an unbiased comparison of two models",
+          "author": {
+            "screenName": "jayair",
+            "name": "Jay"
+          }
+        }
       },
       {
-        "id": "2073636003215249515",
-        "text": "they really nailed it with \"life, liberty, and the pursuit of happiness\"",
+        "id": "2075047983314571764",
+        "text": "🫶",
         "author": {
           "id": "1605",
           "name": "Sam Altman",
@@ -126,22 +158,30 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1316,
-          "retweets": 52,
-          "replies": 138,
-          "quotes": 15,
-          "views": 185630,
-          "bookmarks": 60
+          "likes": 1889,
+          "retweets": 42,
+          "replies": 106,
+          "quotes": 5,
+          "views": 474563,
+          "bookmarks": 76
         },
-        "createdAt": "Sun Jul 05 05:12:04 +0000 2026",
-        "createdAtLocal": "2026-07-05 13:12",
-        "createdAtISO": "2026-07-05T05:12:04+00:00",
+        "createdAt": "Thu Jul 09 02:42:46 +0000 2026",
+        "createdAtLocal": "2026-07-09 10:42",
+        "createdAtISO": "2026-07-09T02:42:46+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
         "retweetedBy": null,
-        "lang": "en",
-        "score": null
+        "lang": "art",
+        "score": null,
+        "quotedTweet": {
+          "id": "2074856006576713973",
+          "text": "i've never hyped a model release, we're generally conservative with how we use these things\n\nbut gpt-5.6 has had a massive impact on our team, we're using 5x the tokens as we used to\n\nit's not even smarter than fable or anything, but it's just so reliable and fun to use",
+          "author": {
+            "screenName": "thdxr",
+            "name": "dax"
+          }
+        }
       }
     ],
     "karpathy": [
@@ -156,12 +196,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1421,
-          "retweets": 124,
-          "replies": 59,
+          "likes": 1440,
+          "retweets": 128,
+          "replies": 65,
           "quotes": 14,
-          "views": 380434,
-          "bookmarks": 2302
+          "views": 387041,
+          "bookmarks": 2318
         },
         "createdAt": "Fri Jul 03 14:12:03 +0000 2026",
         "createdAtLocal": "2026-07-03 22:12",
@@ -186,12 +226,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 9403,
-          "retweets": 919,
-          "replies": 630,
+          "likes": 9405,
+          "retweets": 922,
+          "replies": 633,
           "quotes": 593,
-          "views": 5993222,
-          "bookmarks": 3618
+          "views": 6001152,
+          "bookmarks": 3619
         },
         "createdAt": "Tue Jun 30 15:00:09 +0000 2026",
         "createdAtLocal": "2026-06-30 23:00",
@@ -221,12 +261,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1867,
+          "likes": 1871,
           "retweets": 236,
           "replies": 180,
           "quotes": 159,
-          "views": 1799801,
-          "bookmarks": 1199
+          "views": 1804305,
+          "bookmarks": 1201
         },
         "createdAt": "Tue Jun 23 17:01:29 +0000 2026",
         "createdAtLocal": "2026-06-24 01:01",
@@ -252,12 +292,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 23001,
-          "retweets": 1894,
-          "replies": 1316,
-          "quotes": 690,
-          "views": 7843533,
-          "bookmarks": 13918
+          "likes": 23008,
+          "retweets": 1895,
+          "replies": 1319,
+          "quotes": 691,
+          "views": 7847582,
+          "bookmarks": 13921
         },
         "createdAt": "Tue Jun 23 22:26:31 +0000 2026",
         "createdAtLocal": "2026-06-24 06:26",
@@ -288,12 +328,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 21993,
-          "retweets": 1026,
+          "likes": 21996,
+          "retweets": 1027,
           "replies": 397,
           "quotes": 41,
-          "views": 1032401,
-          "bookmarks": 871
+          "views": 1033850,
+          "bookmarks": 870
         },
         "createdAt": "Fri Jun 12 17:45:54 +0000 2026",
         "createdAtLocal": "2026-06-13 01:45",
@@ -318,12 +358,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8263,
-          "retweets": 1580,
-          "replies": 369,
+          "likes": 8298,
+          "retweets": 1589,
+          "replies": 371,
           "quotes": 168,
-          "views": 600436,
-          "bookmarks": 10111
+          "views": 617639,
+          "bookmarks": 10183
         },
         "createdAt": "Tue Jun 30 16:04:04 +0000 2026",
         "createdAtLocal": "2026-07-01 00:04",
@@ -353,11 +393,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1325,
-          "retweets": 282,
+          "likes": 1327,
+          "retweets": 283,
           "replies": 168,
           "quotes": 59,
-          "views": 157291,
+          "views": 157827,
           "bookmarks": 398
         },
         "createdAt": "Fri Jun 19 18:34:23 +0000 2026",
@@ -388,11 +428,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 356,
+          "likes": 358,
           "retweets": 51,
           "replies": 54,
           "quotes": 10,
-          "views": 78656,
+          "views": 78996,
           "bookmarks": 202
         },
         "createdAt": "Thu Jun 18 17:00:03 +0000 2026",
@@ -423,11 +463,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1110,
+          "likes": 1112,
           "retweets": 146,
           "replies": 109,
           "quotes": 13,
-          "views": 121008,
+          "views": 121252,
           "bookmarks": 843
         },
         "createdAt": "Thu Jun 04 16:44:13 +0000 2026",
@@ -458,12 +498,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 4527,
-          "retweets": 747,
+          "likes": 4530,
+          "retweets": 748,
           "replies": 327,
           "quotes": 145,
-          "views": 578201,
-          "bookmarks": 3468
+          "views": 578479,
+          "bookmarks": 3470
         },
         "createdAt": "Mon Jun 01 15:58:45 +0000 2026",
         "createdAtLocal": "2026-06-01 23:58",
@@ -485,32 +525,32 @@
     ],
     "ylecun": [
       {
-        "id": "2074921971456803065",
-        "text": "We're still just scratching the surface of how much better, faster, cheaper we can make inference for open-source models! \n\nSo super excited to see companies like @zml_ai by @steeve come out of stealth with their inference engine integrated with @huggingface as the storage layer. \n\nLet's push open-source tokens to the max!",
+        "id": "2074946793830305828",
+        "text": "Under Trump, pardons have a price, and criminals know it.\n\nTrump has erased a growing number of criminal convictions – and $1.5 billion in penalties and restitution owed to taxpayers and victims  – for his donors and friends.\n\nMy @Morning_Joe Chart https://t.co/ESyvgodIsQ",
         "author": {
-          "id": "186420551",
-          "name": "clem 🤗",
-          "screenName": "ClementDelangue",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
+          "id": "401625957",
+          "name": "Steve Rattner",
+          "screenName": "SteveRattner",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1559587528109395969/HfLfInk2_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 131,
-          "retweets": 14,
-          "replies": 8,
-          "quotes": 0,
-          "views": 9486,
-          "bookmarks": 24
+          "likes": 1281,
+          "retweets": 772,
+          "replies": 45,
+          "quotes": 41,
+          "views": 28979,
+          "bookmarks": 176
         },
-        "createdAt": "Wed Jul 08 18:22:02 +0000 2026",
-        "createdAtLocal": "2026-07-09 02:22",
-        "createdAtISO": "2026-07-08T18:22:02+00:00",
+        "createdAt": "Wed Jul 08 20:00:40 +0000 2026",
+        "createdAtLocal": "2026-07-09 04:00",
+        "createdAtISO": "2026-07-08T20:00:40+00:00",
         "media": [
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HMuaEWbW4AAzlj3.jpg",
-            "width": 2926,
-            "height": 1316
+            "url": "https://pbs.twimg.com/media/HMuxFH7WQAAjMyH.jpg",
+            "width": 2600,
+            "height": 1680
           }
         ],
         "urls": [],
@@ -520,32 +560,32 @@
         "score": null
       },
       {
-        "id": "2074757270416523442",
-        "text": "For the past year, MAGA has been screaming “Europoor” like a cheap car alarm going off at three in the morning. Nobody asked for it, nobody knows how to turn it off.\n\nBut then along comes this chart. \nAmerica sits at number four in average wealth. Except “average” is the statistic billionaires hide behind. Put Elon Musk in a room with 500 broke MAGA guys, and on average, everyone in that room is a multibillionaire. That’s the trick! \n\nNow look at the median. The actual middle American, the real one with the pickup truck, the missing teeth and the medical debt. Fourteenth place. Behind Belgium. Behind Italy. Behind Spain. And the ordinary European? The man MAGA calls a Europoor pays $9 for his insulin, glances over at the American paying $900 for the exact same vial, shrugs, and goes back to being more than twice as wealthy. He’d feel sorry for you, but honestly, he’s too busy being on vacation.\n\nAnd that gap between fourth and fourteenth? That’s not a statistical quirk. That’s the entire scam laid bare. America’s wealth exists. It’s just not yours. It belongs to about eleven people in Palo Alto, and you’ve been guarding it for them for free, like an unpaid nightclub bouncer, shouting at Europeans on the internet while the owners drink champagne inside.\n\nAmerican exceptionalism. No other nation on Earth has ever been this successfully convinced to cheer for its own fleecing.\n\nSo by all means, keep shouting Europoor. We’ll be over here with our healthcare, our six weeks of vacation, and our double-your-median wealth, trying very hard to hear you over the sound of how sorry we feel.",
+        "id": "2074931434662277272",
+        "text": "The emoluments clause is supposed to prevent the President from receiving foreign bribes.\n\nThat hasn’t stopped Trump’s family from receiving about $13 billion in “investments” from foreign governments, especially in the Middle East.\n\nMy @Morning_Joe Chart https://t.co/rPoCCEBSQJ",
         "author": {
-          "id": "1031519579770642432",
-          "name": "Gandalv",
-          "screenName": "Microinteracti1",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2070438914494529536/g3LiiP5a_normal.jpg",
+          "id": "401625957",
+          "name": "Steve Rattner",
+          "screenName": "SteveRattner",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1559587528109395969/HfLfInk2_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 4474,
-          "retweets": 1228,
-          "replies": 334,
-          "quotes": 96,
-          "views": 169313,
-          "bookmarks": 826
+          "likes": 2525,
+          "retweets": 1513,
+          "replies": 81,
+          "quotes": 78,
+          "views": 54476,
+          "bookmarks": 278
         },
-        "createdAt": "Wed Jul 08 07:27:35 +0000 2026",
-        "createdAtLocal": "2026-07-08 15:27",
-        "createdAtISO": "2026-07-08T07:27:35+00:00",
+        "createdAt": "Wed Jul 08 18:59:39 +0000 2026",
+        "createdAtLocal": "2026-07-09 02:59",
+        "createdAtISO": "2026-07-08T18:59:39+00:00",
         "media": [
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HMsEvUqXoAAYpdU.jpg",
-            "width": 1261,
-            "height": 1576
+            "url": "https://pbs.twimg.com/media/HMujIZhXEAAnOmr.jpg",
+            "width": 2600,
+            "height": 1600
           }
         ],
         "urls": [],
@@ -555,113 +595,211 @@
         "score": null
       },
       {
-        "id": "2074772062023950814",
-        "text": "We're releasing ZML/LLMD, our homegrown LLM server built on top of our homegrown high performance heterogeneous inference stack.\n\nIt ships with 5 architectures out of the box: NVIDIA, AMD, Metal, Intel and TPU. All transparent.\n\nIt supports DFlash, continuous batching, prefix caching, the whole deal.\n\nOh, and it's fast.",
+        "id": "2074579990893449427",
+        "text": "The idea that a president would send troops to polling places to intimidate voters is un-American and illegal. I introduced legislation to make sure Trump can’t get around that.",
         "author": {
-          "id": "197242801",
-          "name": "Steeve Morin",
-          "screenName": "steeve",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2072678909380804608/3eIwMcWH_normal.jpg",
+          "id": "1324926274888888320",
+          "name": "Senator Mark Kelly",
+          "screenName": "SenMarkKelly",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1334158015130320899/jwQnwuaZ_normal.png",
           "verified": true
         },
         "metrics": {
-          "likes": 250,
-          "retweets": 53,
-          "replies": 25,
-          "quotes": 12,
-          "views": 45832,
-          "bookmarks": 93
+          "likes": 15402,
+          "retweets": 2888,
+          "replies": 8789,
+          "quotes": 391,
+          "views": 482867,
+          "bookmarks": 141
         },
-        "createdAt": "Wed Jul 08 08:26:21 +0000 2026",
-        "createdAtLocal": "2026-07-08 16:26",
-        "createdAtISO": "2026-07-08T08:26:21+00:00",
+        "createdAt": "Tue Jul 07 19:43:08 +0000 2026",
+        "createdAtLocal": "2026-07-08 03:43",
+        "createdAtISO": "2026-07-07T19:43:08+00:00",
         "media": [],
         "urls": [],
         "isRetweet": true,
         "retweetedBy": "ylecun",
         "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2074770878458417195",
-          "text": "https://t.co/KnDbBqaDcA",
-          "author": {
-            "screenName": "zml_ai",
-            "name": "ZML"
-          }
-        }
+        "score": null
       },
       {
-        "id": "2074770878458417195",
-        "text": "https://t.co/KnDbBqaDcA",
+        "id": "2074546702531645786",
+        "text": "Incredible WSJ reporting on how European leaders deal with Trump\n\n-European leaders workshopped tweets to send Trump, debating which words to capitalize. They had to sound extra stupid to win over his trust.\n\n-Trump didn't like the idea of sanctioning Russia, so they started calling sanctions \"tariffs.\"\n\n-When a tablet to call Trudeau didn't work, Trump threw it down like a baby. \n\n-Trump took German leader Merz into the Oval Office, which he called the \"Lewinsky room\", and told him he could take away MAGA swag that he could sell for thousands of dollars. \n\nYou couldn't make this into a comedy. The straight reporting is funny enough. But really it's disgraceful and if you have any pride in your nation you should be ashamed of this.",
         "author": {
-          "id": "1705567308649807872",
-          "name": "ZML",
-          "screenName": "zml_ai",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1764648158758346752/B_XangS9_normal.jpg",
+          "id": "1041044330092195840",
+          "name": "Richard Hanania",
+          "screenName": "RichardHanania",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1747313674937827328/6Fwkze7o_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 118,
-          "retweets": 24,
-          "replies": 4,
-          "quotes": 11,
-          "views": 72978,
-          "bookmarks": 48
+          "likes": 9342,
+          "retweets": 1643,
+          "replies": 113,
+          "quotes": 84,
+          "views": 657670,
+          "bookmarks": 2465
         },
-        "createdAt": "Wed Jul 08 08:21:39 +0000 2026",
-        "createdAtLocal": "2026-07-08 16:21",
-        "createdAtISO": "2026-07-08T08:21:39+00:00",
-        "media": [],
-        "urls": [
-          "http://x.com/i/article/2074768591900098560"
+        "createdAt": "Tue Jul 07 17:30:51 +0000 2026",
+        "createdAtLocal": "2026-07-08 01:30",
+        "createdAtISO": "2026-07-07T17:30:51+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HMpDw5qaEAAsaBM.png",
+            "width": 872,
+            "height": 535
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HMpEHfKacAAL7P6.png",
+            "width": 919,
+            "height": 478
+          }
         ],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "zxx",
-        "score": null,
-        "articleTitle": "ZML/LLMD alpha"
-      },
-      {
-        "id": "2074587481966628885",
-        "text": "DOGE shut down USAID, established by JFK in 1961.  Before being shut down, the US Agency for International Development (USAID) was the largest funding agency for humanitarian and development aid worldwide.\n\nElon Musk said \"USAID is a ball of worms. There is no apple. And when there is no apple you just need to get rid of the whole thing. That’s why it’s got to go. It’s beyond repair,”  He later posted, “We spent the weekend feeding USAID into the wood chipper. Could gone to some great parties. Did that instead.”\n\nMarco Rubio shut down 83% of USAID programs/\n\nA peer reviewed study* the Lancet provided a thorough counterfactual study of the impact of USAID over the preceding 21 years and a \"what if\" study examining the impact of shutdown to 2030.\n\nThe study demonstrates that Elon Musk's saying of USAID \"there is no apple\" was just \"trash talk.\"  Many of Musk's derogatory claims about USAID have been disproven. Musk reposted that it was funding condoms for \"gay Hamas\" in Gaza.  It turned out to be HIV/AIDS prevention for a place by the same name in Mozambique.  Musk posted that USAID was funding BBC.  It turned out to be it was funding BBC Media Action, a charity, not the broadcaster.  BBC is funded by licenses.\n\nThis finding indicates that 91,839,663 all-age deaths, including 30,391,980 in children younger than 5 years, were prevented by USAID funding over the 21-year study period. USAID funding was associated with a 65% reduction in mortality from HIV/AIDS (representing 25·5 million deaths), 51% from malaria (8·0 million deaths), and 50% from neglected tropical diseases (8·9 million deaths). Significant decreases were also observed in mortality from tuberculosis, nutritional deficiencies, diarrhoeal diseases, lower respiratory infections, and maternal and perinatal conditions.\n\nForecasting models predicted that the current steep funding cuts could result in more than 14,051,750 additional all-age deaths, including 4,537,157 in children younger than age 5 years, by 2030.\n\nThe 14,051,750 additional deaths expected to result from shutdown of USAID by 2030 represents 2.34 times the 6,000,000 deaths in the Holocaust.\n\n* Evaluating the impact of two decades of USAIDinterventions and projecting the effects of defunding on mortality up to 2030: a retrospective impact evaluation and forecasting analysis\nDaniella Medeiros Cavalcanti, Lucas de Oliveira Ferreira de Sales, Andrea Ferreira da Silva, Elisa Landin Basterra, Daiana Pena, Caterina Monti, Gonzalo Barreix, Natanael J Silva, Paula Vaz, Francisco Saute, Gonzalo Fanjul, Quique Bassat, Denise Naniche, James Macinko, Davide Rasella.\nLancet, June 30, 2025",
-        "author": {
-          "id": "1231590638",
-          "name": "Laurence (Larry) Boorstein",
-          "screenName": "LarryBoorstein",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1115391288201875456/iuDRb6tK_normal.png",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 235,
-          "retweets": 58,
-          "replies": 32,
-          "quotes": 2,
-          "views": 37797,
-          "bookmarks": 53
-        },
-        "createdAt": "Tue Jul 07 20:12:54 +0000 2026",
-        "createdAtLocal": "2026-07-08 04:12",
-        "createdAtISO": "2026-07-07T20:12:54+00:00",
-        "media": [],
         "urls": [],
         "isRetweet": true,
         "retweetedBy": "ylecun",
         "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2073855914306875488",
-          "text": "I warned about the consequences of DOGE and the suspension of USAID from day one; yet, my voice was drowned out by censorship and the media propaganda promoted by Elon Musk—claiming USAID funds terrorism, providing zero evidence—in order to divert USAID funding to his companies.\n\nDOGE has officially been shut down, after failing to accomplish its goal, saved ZERO DOLLARS.\n\nDismantling of USAID has already killed nearly one million from the funding cuts, majority children, killing more children than in Gaza, Lebanon, and Ukraine combined. He cut lifetimes for millions and the result is a silent massacres.\n\nThe richest man on Earth dismantled the organization that feeds the poorest children on earth.\n\nHistory will remember, Elon Musk is the world's richest man who killed the world's poorest children.",
-          "author": {
-            "screenName": "mhdksafa",
-            "name": "Mohamad Safa"
+        "score": null
+      },
+      {
+        "id": "2075012691241157038",
+        "text": "Come and learn about «Anatomy of Massive Activations and Attention Sinks», 📆 today (Thu) at 🕥 10:30, 📍 HALL A #3002. #ICML2026 https://t.co/AnhIuDBUCs",
+        "author": {
+          "id": "796584325",
+          "name": "Alfredo Canziani @ ICML",
+          "screenName": "alfcnz",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2021279427330723840/pSxguGfe_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 58,
+          "retweets": 8,
+          "replies": 1,
+          "quotes": 1,
+          "views": 14372,
+          "bookmarks": 31
+        },
+        "createdAt": "Thu Jul 09 00:22:32 +0000 2026",
+        "createdAtLocal": "2026-07-09 08:22",
+        "createdAtISO": "2026-07-09T00:22:32+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HMvsvnGagAAOhCA.jpg",
+            "width": 4096,
+            "height": 3072
           }
-        }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
       }
     ],
     "elonmusk": [
       {
-        "id": "2074971866662359519",
-        "text": "Grok has always been very strong on law",
+        "id": "2075118564995145860",
+        "text": "Kardashev II or we’re not a serious civilization \n\nMoon and Mars are necessary steps to this https://t.co/g5XSFTIeSF",
+        "author": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screenName": "ArthurMacwaters",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1921033752140279808/TgndOxdb_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 2207,
+          "retweets": 435,
+          "replies": 385,
+          "quotes": 15,
+          "views": 517036,
+          "bookmarks": 127
+        },
+        "createdAt": "Thu Jul 09 07:23:14 +0000 2026",
+        "createdAtLocal": "2026-07-09 15:23",
+        "createdAtISO": "2026-07-09T07:23:14+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HMxNVlDaIAAwlXj.jpg",
+            "width": 1152,
+            "height": 768
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HMxNVlEakAAaUfD.jpg",
+            "width": 487,
+            "height": 731
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HMxNVlEbkAAsPwB.jpg",
+            "width": 1152,
+            "height": 1430
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HMxNVlFa4AAXFg-.jpg",
+            "width": 1100,
+            "height": 619
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2075117340836962713",
+          "text": "The Moon and Mars",
+          "author": {
+            "screenName": "elonmusk",
+            "name": "Elon Musk"
+          }
+        }
+      },
+      {
+        "id": "2074916029848027636",
+        "text": "Try Grok 4.5 in the API, Grok Build, and Cursor",
+        "author": {
+          "id": "2867234365",
+          "name": "Andrew Milich",
+          "screenName": "milichab",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1466472908977487881/-dym5k04_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 1074,
+          "retweets": 245,
+          "replies": 113,
+          "quotes": 1,
+          "views": 457682,
+          "bookmarks": 54
+        },
+        "createdAt": "Wed Jul 08 17:58:26 +0000 2026",
+        "createdAtLocal": "2026-07-09 01:58",
+        "createdAtISO": "2026-07-08T17:58:26+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2074915721684086811",
+          "text": "Announcing Grok 4.5, our first model trained specifically for coding and agents. It was trained with Cursor and offers frontier intelligence at leading speeds and cost efficiency.\n\nhttps://t.co/i8HpU7w64k https://t.co/oBjGtTsoNc",
+          "author": {
+            "screenName": "SpaceXAI",
+            "name": "SpaceXAI"
+          }
+        }
+      },
+      {
+        "id": "2075136517144535171",
+        "text": "Grok 4.5 on OpenClaw",
         "author": {
           "id": "44196397",
           "name": "Elon Musk",
@@ -670,16 +808,16 @@
           "verified": true
         },
         "metrics": {
-          "likes": 4671,
-          "retweets": 864,
-          "replies": 1111,
-          "quotes": 72,
-          "views": 1261755,
-          "bookmarks": 276
+          "likes": 4406,
+          "retweets": 753,
+          "replies": 793,
+          "quotes": 54,
+          "views": 1256093,
+          "bookmarks": 273
         },
-        "createdAt": "Wed Jul 08 21:40:18 +0000 2026",
-        "createdAtLocal": "2026-07-09 05:40",
-        "createdAtISO": "2026-07-08T21:40:18+00:00",
+        "createdAt": "Thu Jul 09 08:34:34 +0000 2026",
+        "createdAtLocal": "2026-07-09 16:34",
+        "createdAtISO": "2026-07-09T08:34:34+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -687,41 +825,77 @@
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2074956936701968652",
-          "text": "Grok 4.5 is #1 on Harvey's Legal Agent Benchmark https://t.co/EhLzBwGXfW",
+          "id": "2074973471977955556",
+          "text": "Grok 4.5 from @SpaceXAI is live on OpenClaw.\n\nNo OpenClaw update required, just connect your X Premium or SuperGrok subscription, select Grok 4.5 under the xAI provider, and use an Opus-class model that’s fast, low cost, and ready for agentic work. https://t.co/MMA6j2qGNy",
           "author": {
-            "screenName": "techdevnotes",
-            "name": "Tech Dev Notes"
+            "screenName": "openclaw",
+            "name": "OpenClaw🦞"
           }
         }
       },
       {
-        "id": "2074861235292782835",
-        "text": "BREAKING: Tesla Cybertruck’s bulletproof body helped protect a toddler, an infant, and neighbors during a shooting.\n\nCybertruck became a real-life shelter during a chaotic 4th of July neighborhood party.\n\n• Owner says guns were drawn after an altercation\n• Cybertruck sheltered a toddler, an infant & neighbors until police arrived\n• Earlier, the truck was even powering the block party\n• “You hope you never need that kind of protection, but in that moment, I was very glad it was there.”\n\nSource: FB/Cybertruck Owners Only",
+        "id": "2075052834324955511",
+        "text": "Use Grok 4.5 to build full-stack apps with Convex",
         "author": {
-          "id": "1389913567671975937",
-          "name": "DogeDesigner",
-          "screenName": "cb_doge",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1498070100393754625/C2V-fbll_normal.jpg",
+          "id": "1720665183188922368",
+          "name": "Grok",
+          "screenName": "grok",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 4872,
-          "retweets": 994,
-          "replies": 336,
-          "quotes": 61,
-          "views": 385278,
-          "bookmarks": 197
+          "likes": 1521,
+          "retweets": 260,
+          "replies": 124,
+          "quotes": 6,
+          "views": 798952,
+          "bookmarks": 113
         },
-        "createdAt": "Wed Jul 08 14:20:42 +0000 2026",
-        "createdAtLocal": "2026-07-08 22:20",
-        "createdAtISO": "2026-07-08T14:20:42+00:00",
+        "createdAt": "Thu Jul 09 03:02:02 +0000 2026",
+        "createdAtLocal": "2026-07-09 11:02",
+        "createdAtISO": "2026-07-09T03:02:02+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2075030398036492344",
+          "text": "Wow Grok 4.5 is very impressive at @convex code. Almost perfect score with a very very low run cost! Nice work @SpaceXAI!\n\nWithout the guidelines it is worse as expected so make sure you are using the guidelines file (ai-files) when using Grok 4.5 + Convex. https://t.co/FLLwPjMngg",
+          "author": {
+            "screenName": "mikeysee",
+            "name": "Mikeysee"
+          }
+        }
+      },
+      {
+        "id": "2075129600850678033",
+        "text": "Grok 4.5 is now ranked #1 on τ³-Banking in Artificial Analysis\n\nAhead of GPT-5.5 xhigh, Claude Fable 5 and Claude 4.8 (max) https://t.co/jX9kayd79W",
+        "author": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screenName": "XFreeze",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1876785200010539008/2_HFJjq9_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 1235,
+          "retweets": 286,
+          "replies": 186,
+          "quotes": 16,
+          "views": 286033,
+          "bookmarks": 53
+        },
+        "createdAt": "Thu Jul 09 08:07:05 +0000 2026",
+        "createdAtLocal": "2026-07-09 16:07",
+        "createdAtISO": "2026-07-09T08:07:05+00:00",
         "media": [
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HMtjSWTawAA91Jo.jpg",
-            "width": 2048,
-            "height": 2048
+            "url": "https://pbs.twimg.com/media/HMxXUwBbkAAL_p8.jpg",
+            "width": 2406,
+            "height": 1690
           }
         ],
         "urls": [],
@@ -729,114 +903,6 @@
         "retweetedBy": "elonmusk",
         "lang": "en",
         "score": null
-      },
-      {
-        "id": "2074971034218860963",
-        "text": "Rate of improvement is 🚀🚀",
-        "author": {
-          "id": "44196397",
-          "name": "Elon Musk",
-          "screenName": "elonmusk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 3110,
-          "retweets": 545,
-          "replies": 539,
-          "quotes": 29,
-          "views": 1057553,
-          "bookmarks": 73
-        },
-        "createdAt": "Wed Jul 08 21:37:00 +0000 2026",
-        "createdAtLocal": "2026-07-09 05:37",
-        "createdAtISO": "2026-07-08T21:37:00+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2074916918390341666",
-          "text": "Very excited for this model. It’s an enormous improvement over composer 2.5 and trained entirely from scratch. It’s been a pleasure working with the SpaceXAI team on it.\n\nEven more excited by the slope of the effort and the models to come.",
-          "author": {
-            "screenName": "amanrsanger",
-            "name": "Aman Sanger"
-          }
-        }
-      },
-      {
-        "id": "2074970378682724661",
-        "text": "Rate of improvement is accelerating. \n\nUsers should notice a meaningful improvement in the usefulness of the Grok Build harness with our V9 foundation model (aka Grok 4.5) every week.",
-        "author": {
-          "id": "44196397",
-          "name": "Elon Musk",
-          "screenName": "elonmusk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 3324,
-          "retweets": 634,
-          "replies": 544,
-          "quotes": 29,
-          "views": 1107296,
-          "bookmarks": 126
-        },
-        "createdAt": "Wed Jul 08 21:34:24 +0000 2026",
-        "createdAtLocal": "2026-07-09 05:34",
-        "createdAtISO": "2026-07-08T21:34:24+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2074943300725887104",
-          "text": "Grok 4.5.\n\nPareto dominant for coding by the numbers.\n\nWe will see on the all-important vibes.\n\nInstinct is the benchmarks are likely directionally accurate given the stated focus on real world utility. https://t.co/aLihvvWfwA",
-          "author": {
-            "screenName": "GavinSBaker",
-            "name": "Gavin Baker"
-          }
-        }
-      },
-      {
-        "id": "2074969374843154500",
-        "text": "Grok 4.5 is not yet using our internally developed C/C++ inference software that exact maps to the GB300 hardware. Doubling or more of the current speed is probably achievable.",
-        "author": {
-          "id": "44196397",
-          "name": "Elon Musk",
-          "screenName": "elonmusk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 6100,
-          "retweets": 755,
-          "replies": 632,
-          "quotes": 67,
-          "views": 1220932,
-          "bookmarks": 374
-        },
-        "createdAt": "Wed Jul 08 21:30:24 +0000 2026",
-        "createdAtLocal": "2026-07-09 05:30",
-        "createdAtISO": "2026-07-08T21:30:24+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2074957849059643497",
-          "text": "I think AI has just hit a gigantic threshold, and Grok 4.5 is the PERFECT example as to why that is.\n\nOne of the hardest parts of working with AI is iterating on a project or task that you're working on.\n\nAs the models have gotten smarter (and more expensive), it's taking longer and longer to get an answer or action back.\n\nThis creates a ton of stall time per query or action, which is actually quite bad for creativity and staying in a state of flow.\n\nYou have SO many extended starts and stops. Which inevitably leads to your brain going somewhere else. And then when the AI comes back, you have to redirect your brain to that original task, spool your brain back up to what you were working on at that moment, and then adjust as needed.\n\nThere's a ton of mental friction involved.\n\nThis ESPECIALLY sucks when the AI takes a REALLY long time to get something back for you, but it's not quite what you were looking for or asked for. And what sucks EVEN MORE is that these \"mistakes\" are getting MORE expensive!!!\n\nSo wait time is going up. AND it costs more per run.\n\nHOWEVER - even after using Grok 4.5 for about an hour - what's become obvious is that it's SO MUCH MORE ENJOYABLE AND BETTER to use a model that is FAST... and capable ENOUGH.\n\nCapable ENOUGH is the real unlock here.\n\nImagine having Fable 5 performance but at the speed of Gemini 3.5 flash. Or Haiku. That's where we're inevitably going.\n\nI think Grok 4.5 (and models like it) have really solved for one of the biggest unlocks in AI - a model that will get you a GOOD ENOUGH answer VERY FAST, at which point iteration can happen VERY QUICKLY.\n\nThis - counter intuitively - keeps the user in a state of flow and creativity for MUCH longer because you are constantly ENGAGED with your project... instead of letting the AI loose for a long time.\n\nAnd as long as humans are involved, I think 'not quite right' will be a FOREVER problem with AI - because AIs, by default, CANNOT have human taste.\n\nBecause they are NOT human.\n\nBut they can be UNBELIEVABLE tools. And unbelievable tools are the ones that are VERY GOOD and VERY FAST.\n\nI think that's the true unlock with Grok 4.5 and models like it.\n\nDifficult to describe until you experience it.\n\nI think this is a VERY big deal for @SpaceXAI and @elonmusk.",
-          "author": {
-            "screenName": "farzyness",
-            "name": "Farzad 🇺🇸 🇮🇷"
-          }
-        }
       }
     ],
     "DrJimFan": [
@@ -855,7 +921,7 @@
           "retweets": 23,
           "replies": 39,
           "quotes": 8,
-          "views": 47987,
+          "views": 48400,
           "bookmarks": 116
         },
         "createdAt": "Wed Jul 01 15:12:14 +0000 2026",
@@ -887,11 +953,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1628,
+          "likes": 1630,
           "retweets": 222,
           "replies": 71,
           "quotes": 30,
-          "views": 188952,
+          "views": 189655,
           "bookmarks": 1161
         },
         "createdAt": "Tue Jun 30 17:07:49 +0000 2026",
@@ -926,7 +992,7 @@
           "retweets": 2,
           "replies": 5,
           "quotes": 1,
-          "views": 19475,
+          "views": 19660,
           "bookmarks": 40
         },
         "createdAt": "Tue Jun 30 17:07:50 +0000 2026",
@@ -965,7 +1031,7 @@
           "retweets": 569,
           "replies": 187,
           "quotes": 152,
-          "views": 655071,
+          "views": 655474,
           "bookmarks": 2026
         },
         "createdAt": "Tue Jun 16 16:31:58 +0000 2026",
@@ -1000,7 +1066,7 @@
           "retweets": 18,
           "replies": 5,
           "quotes": 2,
-          "views": 46785,
+          "views": 46879,
           "bookmarks": 100
         },
         "createdAt": "Tue Jun 16 16:31:58 +0000 2026",

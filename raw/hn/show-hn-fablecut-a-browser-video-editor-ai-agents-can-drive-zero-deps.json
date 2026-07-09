@@ -1,0 +1,26 @@
+{
+  "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+  "score": 68,
+  "comments": 41,
+  "url": "https://github.com/ronak-create/FableCut",
+  "hn_url": "https://news.ycombinator.com/item?id=48845422",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "FableCut 是一款无需依赖任何外部库的浏览器端视频编辑器，核心创新在于其设计可被 AI 代理（agents）直接驱动。这意味着 AI 能够自主调用编辑器的各项功能，实现从剪辑、特效到导出的全流程自动化。对于产品经理而言，这展示了降低视频创作门槛的新范式：AI 代理可以代替用户完成繁琐操作，尤其适合内容批量生产、个性化视频生成等场景。零依赖特性极大简化了部署与集成成本，使其易于嵌入现有 AI 工作流或作为独立工具使用。该产品将 AI 控制能力与轻量级 Web 编辑器结合，代表了“AI 驱动 UI”的实用化探索。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI Agent",
+    "Browser Video Editor",
+    "AI-Driven UI"
+  ],
+  "entities": [
+    "FableCut"
+  ],
+  "patterns": [
+    "Agent-Controlled App",
+    "Zero-Dependency Web Tool"
+  ]
+}

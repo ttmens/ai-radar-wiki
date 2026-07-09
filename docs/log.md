@@ -2625,3 +2625,12 @@
 
 ## [2026-07-09 18:01] sync v3 | 1 new | pillars: {'capabilities': 1}
 - create: benchmarking-coding-agents-on-databricks-multi-million-line-codebase.md
+
+## [2026-07-10 00:01] sync v3 | 7 new | pillars: {'patterns': 2, 'capabilities': 3, 'business': 1, 'ecosystem': 1}
+- create: show-hn-fablecut-a-browser-video-editor-ai-agents-can-drive-zero-deps.md
+- create: syrias-solar-boom-is-redefining-middle-easts-energy-model.md
+- create: anthropics-new-claude-feature-is-quietly-selling-you-on-ai.md
+- create: anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits.md
+- create: popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users.md
+- create: characterai-enters-the-microdrama-arena-with-its-own-productions-but-there8217s.md
+- create: nandan-nilekani-leaves-gp-role-at-fundamentum-as-it-launches-200m-third-fund.md
