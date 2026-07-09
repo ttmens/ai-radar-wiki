@@ -2600,3 +2600,25 @@
 - create: show-hn-agent-draw-an-agent-draws-while-you-talk-built-on-tldraw.md
 - create: show-hn-kastor-terraform-style-specs-for-ai-agents.md
 - create: show-hn-freeport-a-p2p-ride-hailing-marketplace-i-built-on-nostr.md
+
+## [2026-07-09 12:01] sync v3 | 20 new | pillars: {'capabilities': 15, 'ecosystem': 3, 'business': 1, 'patterns': 1}
+- create: accurate-interdisciplinary-and-transparent-structure-property-understanding-with.md
+- create: co-lmlm-continuous-query-limited-memory-language-models.md
+- create: the-key-to-going-linear-analysis-driven-transformer-linearization.md
+- create: breaking-database-lock-in-agentic-regeneration-of-high-performance-storage-reade.md
+- create: institutional-red-teaming-deployment-rules-not-just-models-causally-shape-multi.md
+- create: selective-timestep-weighting-and-advantage-based-replay-for-sample-efficient-dif.md
+- create: agon-competitive-cross-model-rl-with-implicit-rival-grading-of-reasoning.md
+- create: ecglight-compute-light-framework-for-paper-ecg-digitization-and-myocardial-infar.md
+- create: neural-operator-enabled-topology-informed-evolutionary-strategy-for-pde-constrai.md
+- create: any-dimensional-learning-by-sampling.md
+- create: how-data-shapes-rope-frequency-usage-from-positional-scale-matching-to-length-ge.md
+- create: skillcenter-a-large-scale-source-grounded-skill-library-for-autonomous-ai-agents.md
+- create: john-deere-owners-will-get-the-right-to-repair-equipment-under-ftc-settlement.md
+- create: i-think-i-have-llm-burnout.md
+- create: we-made-grok-45-gpt-55-and-claude-build-the-same-apps.md
+- create: mira-multiplayer-interactive-world-models-trained-on-rocket-league.md
+- create: lovable-reportedly-in-talks-to-double-its-valuation-to-132b.md
+- create: show-hn-frugon-find-which-llm-calls-a-cheaper-model-could-handle-local-mit.md
+- create: show-hn-abralo-free-easy-way-to-run-several-claude-code-agents-in-one-window.md
+- create: show-hn-foreman-a-self-hosted-llm-gateway-for-cost-aware-model-routing.md

@@ -1,0 +1,33 @@
+{
+  "title": "SkillCenter: A Large-Scale Source-Grounded Skill Library for Autonomous AI Agents",
+  "summary": "Autonomous AI agents can execute complex tasks with limited human review, yet they often lack the grounded operational knowledge to make their outputs not just executable but correct, secure, and maintainable. We introduce SkillCenter, to our knowledge the largest open skill library for agents by total count: 216,938 structured skills across 24 domain bundles. A SkillGate-filtered pipeline contributes 114,565 source-grounded skills from peer-reviewed journals, ArXiv, and over 24,000 technical sources, integrated with 102,373 community skills from GitHub and the ClawHub marketplace. We present the end-to-end framework that builds the pipeline subset: multi-source acquisition, an LLM-based quality gate (SkillGate), template-driven generation, iterative source-grounding, and quality-controlled publishing. Source grounding is a traceability guarantee: each retained claim maps to an exact quotation in its source. All skills ship as offline-searchable SQLite FTS5 bundles.",
+  "url": "http://arxiv.org/abs/2607.07676v1",
+  "authors": [
+    "Tianming Sha",
+    "Yue Zhao",
+    "Lichao Sun",
+    "Yushun Dong"
+  ],
+  "published": "2026-07-08T17:34:28Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "framework",
+    "library",
+    "pipeline"
+  ],
+  "summary_cn": "SkillCenter 是一个面向自主AI代理的大规模开放技能库，旨在解决代理在执行复杂任务时缺乏可靠、安全、可维护的操作知识的问题。该库通过来源可追溯的技能集合，使代理能输出更准确且符合规范的结果。技术要点包括海量技能数据、开放访问以及来源对齐的语义结构；商业价值上可降低代理开发成本并提升安全可靠性；产品创新在于构建了首个大规模开源技能基础设施，为代理生态提供标准化能力沉淀。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Skill Library",
+    "Autonomous AI Agents",
+    "Grounded Knowledge"
+  ],
+  "entities": [
+    "SkillCenter"
+  ],
+  "patterns": [
+    "Agent Skill Library",
+    "Source-Grounded AI"
+  ]
+}

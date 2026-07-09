@@ -1,0 +1,29 @@
+{
+  "title": "Any-Dimensional Learning by Sampling",
+  "summary": "Many machine learning models are defined for inputs of different sizes, such as point clouds containing different numbers of points, sequences of tokens of different lengths, and graphs on different numbers of nodes. Such models are trained on finitely-many examples of necessarily limited sizes. How well do these models generalize from inputs of small size to larger inputs of size not seen during training? Furthermore, evaluating such models on large inputs is often expensive. How can we sketch large inputs to obtain smaller ones on which the model takes similar values? At the heart of both questions is the need to compare inputs of different sizes and to approximate large inputs by small ones. We present a unified approach to address these questions by using random sampling maps to compare inputs of different sizes. The sampling maps we consider are generalizations of sampling with replacement, random binning, and species sampling. We characterize the application domains in which each type of sampling is appropriate in terms of the symmetries and relations between problem instances of different sizes in the domain. Our framework yields explicit generalization and sketching rates for function classes continuous with respect to a chosen notion of sampling, encompassing large families of functions defined on sequences, graphs, and tensors of different sizes. Specific examples include moment polynomials on measures, homomorphism densities and numbers of graphs, permutation-invariant transformers, and graph neural networks.",
+  "url": "http://arxiv.org/abs/2607.07680v1",
+  "authors": [
+    "Eitan Levin",
+    "Venkat Chandrasekaran"
+  ],
+  "published": "2026-07-08T17:38:29Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "training",
+    "neural network",
+    "transformer"
+  ],
+  "summary_cn": "该论文提出一种通过采样实现任意维度学习的方法，解决机器学习模型处理不同大小输入（如不同长度的序列、不同点数点云、不同节点数图）的泛化问题。技术要点是利用采样策略使模型摆脱固定输入维度的限制，提升对变长、变尺度数据的学习与推理能力。商业价值在于能够开发更灵活的产品，减少数据预处理成本，适用于自然语言、3D视觉、图结构等动态场景。产品创新体现在支持用户输入任意尺寸数据，无需对齐或填充，从而改善交互体验。",
+  "pm_relevance": 7,
+  "concepts": [
+    "任意维度学习",
+    "动态输入处理",
+    "采样泛化"
+  ],
+  "entities": [],
+  "patterns": [
+    "Data-Agnostic Model"
+  ]
+}

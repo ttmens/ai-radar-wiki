@@ -1,0 +1,33 @@
+{
+  "title": "The Key to Going Linear: Analysis-Driven Transformer Linearization",
+  "summary": "The quadratic cost of causal self-attention severely bottlenecks long-context transformer inference. While numerous post hoc linearization pipelines exist, it is difficult to identify which components preserve model quality. This work isolates the effect of state update design in a strict frozen-backbone regime. We show that softmax relies on key-dependent, rank-1 orthogonal projections, elucidating why delta-style networks outperform purely gated accumulation. We identify a potential source of approximation errors and introduce structural interventions, specifically sink tokens, short convolutions, and fixed-budget cache routing, which reduces the remaining gap. We scale this linearization approach across LLaMA and Qwen models up to 32B parameters, outperforming prior post hoc baselines on MMLU and matching the long-context retrieval of complex adaptive-caching frameworks.",
+  "url": "http://arxiv.org/abs/2607.07706v1",
+  "authors": [
+    "Anna Kuzina",
+    "Paul N. Whatmough",
+    "Babak Ehteshami Bejnordi"
+  ],
+  "published": "2026-07-08T17:59:09Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "token",
+    "transformer",
+    "attention",
+    "parameter",
+    "retrieval"
+  ],
+  "summary_cn": "该论文聚焦Transformer线性化，旨在解决因果自注意力机制二次计算成本导致的长上下文推理瓶颈。通过严格冻结后处理线性化流程，隔离分析状态更新设计的影响，帮助判断哪些组件能保持模型质量。对于AI产品经理，这意味着可能实现更低成本、更高效的长文本处理能力，推动对话、文档分析等产品的上下文长度扩展，同时降低推理成本。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Transformer Linearization",
+    "Long-Context Inference",
+    "Attention Bottleneck"
+  ],
+  "entities": [],
+  "patterns": [
+    "Linearized Attention",
+    "Efficient Inference"
+  ]
+}

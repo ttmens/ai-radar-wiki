@@ -1,0 +1,29 @@
+{
+  "title": "Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization",
+  "summary": "The inverse design of physical systems governed by partial differential equations is computationally demanding due to the high dimensionality and non-convexity of design spaces. Generative models for inverse design often lack robustness and transferability, whereas evolutionary strategies are robust but struggle in high-dimensional spaces. This paper introduces a Neural Operator-enabled Topology-informed Evolutionary Strategy (NOTES) that integrates dimensionality reduction, representation learning, and evolutionary optimization for efficient and transferable inverse design. NOTES couples a DeepONet-based neural operator with the Covariance Matrix Adaptation Evolution Strategy (CMA-ES) to perform global optimization in a compact latent space that encodes topology-aware priors while discovering high-performance designs for unseen operating conditions. Applied to nanophotonic beam-deflector inverse design governed by Maxwell's equations, NOTES reduces the design dimensionality from 256 to 25 and consistently achieves over 95 percent efficiency, outperforming CMA-ES, topology optimization, and other baselines. Applied to structural optimization, NOTES discovers designs that achieve compliance down to 246. By decoupling topology learning of a DeepONet from the governing physics in a PDE solver, NOTES provides a flexible and transferable framework for the inverse design of physical systems.",
+  "url": "http://arxiv.org/abs/2607.07682v1",
+  "authors": [
+    "Xiangming Huang",
+    "Guannan Zhang",
+    "Lu Lu",
+    "Raphaël Pestourie"
+  ],
+  "published": "2026-07-08T17:41:56Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "optimization"
+  ],
+  "summary_cn": "该论文提出了一种结合神经算子与拓扑信息进化策略的方法，用于高效求解偏微分方程约束下的逆设计优化问题。传统方法因设计空间高维非凸而计算昂贵，而生成式模型缺乏鲁棒性。该方法利用神经算子快速逼近PDE解，并融合拓扑结构指导进化搜索，在保持鲁棒性的同时提升计算效率。商业价值体现在加速工程领域（如流体力学、结构优化）的设计迭代，降低仿真成本。产品创新在于将AI代理与经典优化框架结合，实现可迁移的逆设计工具。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Neural Operator",
+    "Evolutionary Strategy",
+    "Inverse Design"
+  ],
+  "entities": [],
+  "patterns": [
+    "AI for Science",
+    "Surrogate Optimization"
+  ]
+}

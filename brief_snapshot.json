@@ -1,7 +1,7 @@
 {
   "date": "2026-07-09",
-  "generated_at": "2026-07-09T06:01:45.757480+08:00",
-  "item_count": 21,
+  "generated_at": "2026-07-09T12:01:51.220139+08:00",
+  "item_count": 41,
   "items": [
     {
       "id": "gptlive",
@@ -37,6 +37,17 @@
       "date": "2026-07-09"
     },
     {
+      "id": "john-deere-owners-will-get-the-right-to-repair-equipment-under-ftc-settlement",
+      "label": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "summary": "美国联邦贸易委员会（FTC）与约翰迪尔（John Deere）达成和解，赋予农民维修自家农机的权利。该协议要求迪尔向独立维修店和车主提供诊断工具、软件文档及零件。这对于农业AI产品经理意味着：智能农机上的AI模块（如自动驾驶、作物监测）将面临更开放的软件接口和数据访问权，可能催生第三方AI维修或优化服务。同时也警示产品团队需提前规划符合法规的开放架构，避免因锁定策略引发监管风险。",
+      "pm_score": 0.545,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48838876",
+      "date": "2026-07-09"
+    },
+    {
       "id": "show-hn-microsoft-releases-flint-a-visualization-language-for-ai-agents",
       "label": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
       "summary": "微软发布Flint，一种专为AI智能体设计的可视化语言，旨在简化复杂多智能体系统的构建与调试。通过图形化界面替代传统代码，开发者可更直观地定义智能体行为、交互流程与数据流转，降低开发门槛并提升可解释性。该工具可能集成到微软Azure AI生态，赋能企业快速构建可观测的Agent应用，对AI产品经理而言，是降低Agent开发复杂度、加速原型验证的重要基础设施。",
@@ -67,6 +78,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48832212",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "i-think-i-have-llm-burnout",
+      "label": "I Think I Have LLM Burnout",
+      "summary": "本文讨论了大语言模型（LLM）带来的情感倦怠现象，指出长期与AI交互可能导致用户疲劳和体验下降。技术要点在于模型能力虽强，但缺乏个性化情感适配；商业价值上，提示AI产品需设计更人性化的交互节奏，避免过度依赖。产品创新方向包括引入主动断连机制、情感记忆系统或动态对话策略，以提升长期用户粘性。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48839984",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "we-made-grok-45-gpt-55-and-claude-build-the-same-apps",
+      "label": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+      "summary": "本文对比了Grok 4.5、GPT-5.5和Claude三个主流AI模型在构建相同应用程序时的表现。通过让它们完成同一开发任务，揭示了各模型在代码生成、功能实现、错误处理等方面的能力差异。对AI产品经理而言，这一横向评测有助于评估不同模型在实际应用开发中的适用性，选择更匹配自身产品需求的底层模型。同时，评测突显了模型在复杂任务中的优劣势，为产品策略和工程选型提供了直接参考。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48838772",
       "date": "2026-07-09"
     },
     {
@@ -147,6 +180,105 @@
       "date": "2026-07-09"
     },
     {
+      "id": "skillcenter-a-large-scale-source-grounded-skill-library-for-autonomous-ai-agents",
+      "label": "SkillCenter: A Large-Scale Source-Grounded Skill Library for Autonomous AI Agent",
+      "summary": "SkillCenter 是一个面向自主AI代理的大规模开放技能库，旨在解决代理在执行复杂任务时缺乏可靠、安全、可维护的操作知识的问题。该库通过来源可追溯的技能集合，使代理能输出更准确且符合规范的结果。技术要点包括海量技能数据、开放访问以及来源对齐的语义结构；商业价值上可降低代理开发成本并提升安全可靠性；产品创新在于构建了首个大规模开源技能基础设施，为代理生态提供标准化能力沉淀。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.07676v1",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "the-key-to-going-linear-analysis-driven-transformer-linearization",
+      "label": "The Key to Going Linear: Analysis-Driven Transformer Linearization",
+      "summary": "该论文聚焦Transformer线性化，旨在解决因果自注意力机制二次计算成本导致的长上下文推理瓶颈。通过严格冻结后处理线性化流程，隔离分析状态更新设计的影响，帮助判断哪些组件能保持模型质量。对于AI产品经理，这意味着可能实现更低成本、更高效的长文本处理能力，推动对话、文档分析等产品的上下文长度扩展，同时降低推理成本。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.07706v1",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "how-data-shapes-rope-frequency-usage-from-positional-scale-matching-to-length-ge",
+      "label": "How Data Shapes RoPE Frequency Usage: From Positional Scale Matching to Length G",
+      "summary": "本研究探讨了旋转位置编码（RoPE）在Transformer中的频率使用非均匀性现象，并提出数据中心解释：RoPE频率的选择是为了匹配训练数据的相对位置尺度。通过分析，作者发现模型会自适应地调整频率分布以优化长度泛化能力。这一发现对AI产品经理具有直接价值：它揭示了如何通过数据特性来设计更高效的位置编码，从而在不增加计算成本的情况下提升模型对长序列的处理能力，为构建支持更长上下文的产品（如长文档理解、对话系统）提供了理论基础和优化方向。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.07678v1",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "selective-timestep-weighting-and-advantage-based-replay-for-sample-efficient-dif",
+      "label": "Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Dif",
+      "summary": "该论文提出一种名为选择性时间步加权与基于优势重放的方法，用于提升扩散模型从人类反馈中强化学习（RLHF）的样本效率。传统RLHF在扩散模型上需要大量反馈信号，成本高昂。本技术通过智能选择关键时间步并加权，以及利用优势值进行经验重放，显著减少所需的人类或奖励模型反馈次数，加速模型与人类偏好对齐。这为产品经理带来直接商业价值：降低标注成本、提升模型迭代速度，使生成式AI产品更快速、更经济地适配用户需求，尤其适用于图像、视频等扩散模型驱动的应用场景。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.07693v1",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "agon-competitive-cross-model-rl-with-implicit-rival-grading-of-reasoning",
+      "label": "Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning",
+      "summary": "论文《Agon》提出一种竞争性跨模型强化学习方法，通过隐式对手评分机制对推理过程而非仅最终答案进行评价。现有可验证奖励的RL方法（如GRPO）忽视思维链质量，导致模型在复杂问题上倾向于写更多内容而非提升思考深度。Agon利用对手模型隐式判断推理好坏，克服了缺乏思考标注的难题。该方法有望显著提升推理模型的质量，对需要深度推理的AI产品（如数学求解、代码生成）具有重要价值，可能成为下一代推理训练范式。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.07690v1",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "accurate-interdisciplinary-and-transparent-structure-property-understanding-with",
+      "label": "Accurate, Interdisciplinary and Transparent Structure-property Understanding wit",
+      "summary": "该论文提出一种名为“深度原生结构推理”的新方法，旨在准确、跨学科且透明地理解结构-属性关系。技术核心是通过AI模型直接对空间、化学和周期结构进行推理，突破传统黑箱预测，增强可解释性。商业价值显著，可加速材料科学、生物学和化学领域的发现，降低实验试错成本，驱动药物设计和新材料研发。产品创新体现在跨学科融合与透明度，为科学家提供可验证的决策支持工具。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.07708v1",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "co-lmlm-continuous-query-limited-memory-language-models",
+      "label": "Co-LMLM: Continuous-Query Limited Memory Language Models",
+      "summary": "Co-LMLM 提出了一种新型语言模型范式，将事实知识存储在外部知识库而非模型权重中，生成时按需检索。该技术显著降低模型参数规模、减少训练成本，同时支持知识实时更新，有效缓解幻觉问题。产品经理可关注其在知识密集型应用（如客服、文档问答）中的商业化潜力，通过灵活替换知识库实现快速领域适配，降低模型维护成本。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.07707v1",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "breaking-database-lock-in-agentic-regeneration-of-high-performance-storage-reade",
+      "label": "Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Read",
+      "summary": "该论文提出一种通过代理式再生高性能存储读取器来绕过传统数据库驱动（如JDBC/ODBC）瓶颈的方法。针对外部数据库中分析型工作负载的数据访问效率低问题，该方法直接读取底层存储以支持列式批处理，显著提升查询性能。对AI产品经理而言，其商业价值在于无需修改现有数据库即可实现加速数据管道，降低对数据库驱动的依赖；产品创新体现在利用智能代理动态生成最优读取路径，适用于实时分析、数据湖等场景。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.07696v1",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "institutional-red-teaming-deployment-rules-not-just-models-causally-shape-multi",
+      "label": "Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Mul",
+      "summary": "本文提出了“制度性红队测试”方法，用于评估多智能体AI系统中的部署规则安全性。该方法固定智能体、目标和任务状态，仅改变一条部署规则，并归因于该规则对集体行为的影响。研究强调，安全不仅取决于模型本身，部署规则同样关键。IABench-C作为该方法的实例化工具，为产品经理提供了系统化评估多智能体协作安全性的手段，有助于设计更可靠的AI产品规则。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.07695v1",
+      "date": "2026-07-09"
+    },
+    {
       "id": "spacexai-releases-grok-45-which-elon-describes-as-an-8216opus-class-model8217",
       "label": "SpaceXAI releases Grok 4.5, which Elon describes as an &#8216;Opus-class model&#",
       "summary": "xAI（标题中误写为SpaceXAI）发布了Grok 4.5版本，Elon Musk将其描述为‘Opus-class model’，意在提供比现有强大AI模型更便宜、更高效的替代方案。该模型在保持高水平推理能力的同时，显著降低了计算成本和能耗，使得中小企业和开发者能够以更低门槛接入先进AI能力。从产品创新角度看，Grok 4.5强调‘效率优先’的路线，可能推动AI模型从单纯追求参数量转向实用性优化。商业上，这加剧了与OpenAI、Google等厂商的竞争，为AI产品经理提供了成本更优的基础模型选择，尤其适合对延迟和预算敏感的实时应用场景。",
@@ -166,6 +298,50 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "ecglight-compute-light-framework-for-paper-ecg-digitization-and-myocardial-infar",
+      "label": "ECGLight: Compute-Light Framework For Paper ECG Digitization and Myocardial Infa",
+      "summary": "ECGLight 是一个专为资源受限的远程诊所设计的轻量计算框架，用于将纸质心电图（ECG）打印输出数字化并进行心肌梗死筛查。其核心创新在于采用高效算法，在有限计算能力和网络连接下完成图像处理与疾病检测，无需依赖云端服务器。该方案降低了偏远地区心血管疾病诊断的技术门槛，实现了从纸质存储到智能分析的跨越，具有显著的商业价值：减少设备成本、提升筛查效率、助力基层医疗数字化。技术要点包括轻量级模型设计、端侧推理优化和针对纸质ECG的高精度识别。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.07683v1",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "neural-operator-enabled-topology-informed-evolutionary-strategy-for-pde-constrai",
+      "label": "Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrai",
+      "summary": "该论文提出了一种结合神经算子与拓扑信息进化策略的方法，用于高效求解偏微分方程约束下的逆设计优化问题。传统方法因设计空间高维非凸而计算昂贵，而生成式模型缺乏鲁棒性。该方法利用神经算子快速逼近PDE解，并融合拓扑结构指导进化搜索，在保持鲁棒性的同时提升计算效率。商业价值体现在加速工程领域（如流体力学、结构优化）的设计迭代，降低仿真成本。产品创新在于将AI代理与经典优化框架结合，实现可迁移的逆设计工具。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.07682v1",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "any-dimensional-learning-by-sampling",
+      "label": "Any-Dimensional Learning by Sampling",
+      "summary": "该论文提出一种通过采样实现任意维度学习的方法，解决机器学习模型处理不同大小输入（如不同长度的序列、不同点数点云、不同节点数图）的泛化问题。技术要点是利用采样策略使模型摆脱固定输入维度的限制，提升对变长、变尺度数据的学习与推理能力。商业价值在于能够开发更灵活的产品，减少数据预处理成本，适用于自然语言、3D视觉、图结构等动态场景。产品创新体现在支持用户输入任意尺寸数据，无需对齐或填充，从而改善交互体验。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.07680v1",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "lovable-reportedly-in-talks-to-double-its-valuation-to-132b",
+      "label": "Lovable reportedly in talks to double its valuation to $13.2B",
+      "summary": "AI初创公司Lovable据报道正在进行新一轮3亿美元融资，由Menlo Ventures领投，估值将翻倍至132亿美元。这表明资本市场对AI应用层产品持续看好，Lovable可能在其核心产品上实现了显著增长或用户粘性突破。对于AI产品经理而言，这一融资动态反映了AI产品从技术驱动向商业规模化阶段过渡的趋势，需关注其产品策略和用户增长模式。",
+      "pm_score": 0.41,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
       "date": "2026-07-09"
     },
     {
@@ -191,6 +367,17 @@
       "date": "2026-07-09"
     },
     {
+      "id": "show-hn-abralo-free-easy-way-to-run-several-claude-code-agents-in-one-window",
+      "label": "Show HN: Abralo – Free, easy way to run several Claude Code agents in one window",
+      "summary": "Abralo 是一款免费工具，允许用户在一个窗口中同时运行多个 Claude Code 代理。它简化了多代理协作的配置与监控流程，使开发人员能够并行处理任务、对比不同代理输出或进行协同调试。产品创新在于零成本、可视化界面以及低上手门槛，直接提升了 Claude Code 在团队协作和复杂工作流中的复用效率。对于 AI 产品经理而言，这代表了一种降低多代理系统试错成本、加速原型验证的实用方案，尤其适合需要同时管理多个 AI 编程助手的场景。",
+      "pm_score": 0.365,
+      "pillar": "patterns",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://abralo.com/",
+      "date": "2026-07-09"
+    },
+    {
       "id": "show-hn-onboard-cli-a-llm-powered-and-ast-based-tool-to-visualize-codebase",
       "label": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
       "summary": "Onboard-CLI 是一款结合大语言模型与抽象语法树（AST）的代码库可视化工具。它利用 LLM 的自然语言理解能力和 AST 的结构化分析，帮助开发者快速理解复杂代码库的架构、依赖关系和逻辑流程，降低新项目上手和代码审查成本。从产品经理视角，该工具将 AI 从对话式交互拓展到代码可视化场景，提升了开发效率与团队协作体验，潜在可应用于代码文档自动化、遗留系统重构等商业场景，体现了 AI 辅助软件工程的产品创新方向。",
@@ -210,6 +397,39 @@
       "type": "showhn",
       "source_type": "showhn",
       "url": "https://github.com/weirdGuy/kastor",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "show-hn-foreman-a-self-hosted-llm-gateway-for-cost-aware-model-routing",
+      "label": "Show HN: Foreman, a self-hosted LLM gateway for cost aware model routing",
+      "summary": "Foreman 是一款自托管的 LLM 网关，专注于成本感知的模型路由。它允许开发者灵活地在多个大语言模型之间智能分配请求，根据实时成本、延迟和性能指标自动选择最优模型，从而优化 AI 应用的运营成本与响应质量。该工具特别适合需要控制 LLM 开支的中大型企业，支持私有化部署以保障数据安全。作为产品创新，它降低了多模型管理的复杂度，使产品经理能够在不依赖第三方服务的情况下实现精细化的模型调度策略，提升 ROI。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://github.com/Northwood-Systems/foreman",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "show-hn-frugon-find-which-llm-calls-a-cheaper-model-could-handle-local-mit",
+      "label": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
+      "summary": "Frugon 是一个本地运行的开源工具（MIT协议），能够自动分析你的 LLM 调用日志，识别哪些请求可以使用更便宜的模型处理。它通过评估任务复杂度与模型能力匹配度，提出成本优化建议，帮助企业降低 API 调用费用。产品创新在于完全本地化、无数据外泄，且无需修改现有代码即可集成。技术要点包括模型路由逻辑和开销评估算法。对 AI 产品经理而言，Frugon 提供了直观的成本管控手段，尤其在多模型部署场景中价值显著。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://github.com/Rodiun/frugon",
+      "date": "2026-07-09"
+    },
+    {
+      "id": "mira-multiplayer-interactive-world-models-trained-on-rocket-league",
+      "label": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+      "summary": "MIRA 是一个基于《火箭联盟》游戏训练的多玩家交互世界模型，能够同时模拟多个智能体的复杂动态交互。它通过深度学习架构捕捉玩家动作、策略和协作行为，生成可交互的虚拟环境。该模型在游戏AI、自动驾驶策略训练、多智能体协作等领域具有商业潜力，可用于开发更逼真的NPC、加速强化学习训练，以及构建沉浸式模拟器。技术要点包括多智能体联合建模、实时交互推理和世界状态预测，产品创新在于将游戏场景转化为可复用的交互世界模型，降低模拟成本。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48839355",
       "date": "2026-07-09"
     },
     {
@@ -236,7 +456,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 3317,
-    "edges": 3618
+    "real_nodes": 3372,
+    "edges": 3676
   }
 }
