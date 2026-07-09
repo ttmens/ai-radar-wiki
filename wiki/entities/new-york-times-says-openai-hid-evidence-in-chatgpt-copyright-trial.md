@@ -1,0 +1,27 @@
+---
+title: New York Times says OpenAI hid evidence in ChatGPT copyright trial
+created: 2026-07-10
+updated: 2026-07-10
+type: entity
+pillar: business
+pm_score: 0.515
+tags: ["news", "techcrunch", "business"]
+sources: ["raw/techcrunch/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial.json"]
+---
+
+# New York Times says OpenAI hid evidence in ChatGPT copyright trial
+
+## 中文摘要
+纽约时报等新闻出版商指控OpenAI在ChatGPT版权诉讼中故意隐藏关键证据，包括可用于识别ChatGPT输出内容中受版权保护的新闻文章的工具与数据集。出版商已向法院提交新的制裁动议，要求追究OpenAI隐匿证据的责任。此案凸显了AI模型训练数据合规性、输出内容溯源与版权透明的重大挑战。对AI产品经理而言，这警示需要建立更严格的训练数据授权审查机制，并开发模型输出版权标记与检测功能，以降低法律风险，同时推动内容生态的公平授权模式。
+
+## PM 关注指标
+- 🎯 PM Score: 0.515
+- 🏷️ Pillar: business
+- 🔑 Keywords: dataset
+
+## 新闻摘要
+News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.
+
+## 链接
+- 🔗 Source: https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/
+- 📅 Published: Thu, 09 Jul 2026 19:05:58 +0000

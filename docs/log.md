@@ -2634,3 +2634,26 @@
 - create: popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users.md
 - create: characterai-enters-the-microdrama-arena-with-its-own-productions-but-there8217s.md
 - create: nandan-nilekani-leaves-gp-role-at-fundamentum-as-it-launches-200m-third-fund.md
+
+## [2026-07-10 06:02] sync v3 | 21 new | pillars: {'patterns': 5, 'capabilities': 13, 'ecosystem': 2, 'business': 1}
+- create: e2b-devawesome-ai-agents.md
+- create: gpt-56.md
+- create: train-sim-created-by-just-one-person-is-being-called-the-best-ever-made.md
+- create: girls-just-wanna-have-fast-mpmc-queues-with-bounded-waiting.md
+- create: chatgpt-work.md
+- create: ai-content-is-everywhere-on-social-media-especially-linkedin.md
+- create: ai-changes-the-economics-of-software-rewrites.md
+- create: whats-slowing-down-the-ai-buildout.md
+- create: deepseek-aims-to-make-its-own-ai-chip.md
+- create: the-next-era-of-ai-is-about-infrastructure-not-just-models.md
+- create: elon-musk-praises-mythosfable-promises-not-to-8216cut-off8217-anthropic.md
+- create: can-ai-answer-the-3-trillion-question.md
+- create: meta-enters-the-crowded-ai-coding-battle-with-muse-spark-11.md
+- create: new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial.md
+- create: google-will-now-disclose-which-ads-are-made-with-ai.md
+- create: paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia.md
+- create: how-did-the-government-decide-openai8217s-frontier-model-was-safe-to-release.md
+- create: instagram-users-heres-how-to-stop-metas-ai-from-using-your-photos.md
+- create: meta8217s-new-ai-chips-will-begin-production-in-september.md
+- create: nvidia-is-a-victim-of-the-compute-marketplace-it-created.md
+- create: show-hn-reverse-engineering-web-apps-into-agent-tools.md

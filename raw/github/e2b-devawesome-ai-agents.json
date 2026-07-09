@@ -1,0 +1,43 @@
+{
+  "name": "e2b-dev/awesome-ai-agents",
+  "description": "A list of AI autonomous agents",
+  "stars": 28665,
+  "language": null,
+  "topics": [
+    "agent",
+    "ai",
+    "artificial-intelligence",
+    "autogpt",
+    "autonomous-agents",
+    "awesome",
+    "babyagi",
+    "copilot",
+    "gpt",
+    "gpt-4",
+    "gpt-engineer",
+    "openai",
+    "python"
+  ],
+  "url": "https://github.com/e2b-dev/awesome-ai-agents",
+  "created": "2023-06-19T00:20:06Z",
+  "tag": "GitHub",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent",
+    "copilot",
+    "autonomous"
+  ],
+  "summary_cn": "该GitHub资源汇总了多种AI自主智能体（autonomous agents）的实现与项目，覆盖从简单任务自动化到复杂决策系统的不同模式。对于产品经理而言，它提供了快速了解当前agent生态的入口，有助于识别产品创新方向（如将LLM与工具调用、记忆机制结合），以及评估商业价值（如降本增效、新交互范式）。技术要点包括多种agent框架、工具使用、长期记忆与反思机制。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI Agents",
+    "Autonomous Decision-Making"
+  ],
+  "entities": [
+    "e2b-dev"
+  ],
+  "patterns": [
+    "Autonomous Agent Pattern",
+    "Tool-Using Agent Pattern"
+  ]
+}
