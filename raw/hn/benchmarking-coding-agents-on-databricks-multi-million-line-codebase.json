@@ -1,0 +1,26 @@
+{
+  "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+  "score": 88,
+  "comments": 33,
+  "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+  "hn_url": "https://news.ycombinator.com/item?id=48837696",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark"
+  ],
+  "summary_cn": "Databricks 在其数百万行代码的真实代码库上对多种 AI 编码代理进行基准测试，评估了代码理解、上下文处理、任务完成准确性和效率。该测试不仅关注小规模代码片段，更强调大型企业级项目的实际表现，揭示了当前编码代理在处理复杂依赖和长上下文时的局限性。商业上，这样的基准可帮助企业筛选适合内部大型代码库的 AI 工具；产品创新方面，为编码代理的评估提供了更贴近真实开发场景的方法论，推动产品向支持大型代码库的方向优化。",
+  "pm_relevance": 9,
+  "concepts": [
+    "AI编码代理",
+    "代码基准测试",
+    "大规模代码库"
+  ],
+  "entities": [
+    "Databricks"
+  ],
+  "patterns": [
+    "代理式编码",
+    "代码语境理解"
+  ]
+}

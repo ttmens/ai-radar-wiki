@@ -2622,3 +2622,6 @@
 - create: show-hn-frugon-find-which-llm-calls-a-cheaper-model-could-handle-local-mit.md
 - create: show-hn-abralo-free-easy-way-to-run-several-claude-code-agents-in-one-window.md
 - create: show-hn-foreman-a-self-hosted-llm-gateway-for-cost-aware-model-routing.md
+
+## [2026-07-09 18:01] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: benchmarking-coding-agents-on-databricks-multi-million-line-codebase.md

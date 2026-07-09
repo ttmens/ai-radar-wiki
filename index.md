@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-09 | Total pages: 2367
+> Last updated: 2026-07-09 | Total pages: 2368
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -122,6 +122,7 @@
 - [[autoregressive-next-token-prediction-and-kv-cache-in-transformers.md]] Autoregressive next token prediction and KV Cache in transformers `pillar:capabilities` `score:0.295`
 - [[bee-sanciphey.md]] bee-san/Ciphey `pillar:capabilities` `score:0.545`
 - [[behind-the-scenes-with-the-midjourney-scanner-video.md]] Behind the scenes with the Midjourney scanner [video] `pillar:capabilities` `score:0.43`
+- [[benchmarking-coding-agents-on-databricks-multi-million-line-codebase.md]] Benchmarking coding agents on Databricks' multi-million line codebase `pillar:capabilities` `score:0.465`
 - [[benchmarking-surrealdb-3x-vs-postgres-mongo-neo4j-and-redis-with-fsync.md]] Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync) `pillar:capabilities` `score:0.395`
 - [[benchmarks-in-leipzig.md]] Benchmarks in Leipzig `pillar:capabilities` `score:0.395`
 - [[billionaire-ambani-wants-ai-in-every-call-app-and-home.md]] Billionaire Ambani wants AI in every call, app, and home `pillar:capabilities` `score:0.515`
