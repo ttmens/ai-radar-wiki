@@ -1,8 +1,19 @@
 {
   "date": "2026-07-11",
-  "generated_at": "2026-07-11T00:01:43.765036+08:00",
-  "item_count": 3,
+  "generated_at": "2026-07-11T06:01:54.520244+08:00",
+  "item_count": 14,
   "items": [
+    {
+      "id": "gpt-56-sol-ultra-produces-proof-of-the-cycle-double-cover-conjecture-pdf",
+      "label": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "summary": "此内容报道了GPT-5.6 Sol Ultra模型成功证明了图论中的循环双覆盖猜想，展示了AI在高级数学推理和定理证明上的突破性能力。对AI产品经理而言，这意味着未来可以将AI用于自动化科研、数学辅助工具、教育产品等，显著拓展AI在科学发现领域的应用边界。该成果也验证了大规模语言模型在符号推理和逻辑推导上的潜力，可能催生新的产品形态，如面向研究人员的智能证明助手或交互式数学学习平台。同时，这也对AI模型的可解释性和可靠性提出更高要求，产品设计需考虑验证机制与用户信任。",
+      "pm_score": 0.63,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48863490",
+      "date": "2026-07-11"
+    },
     {
       "id": "write-code-like-a-human-will-maintain-it",
       "label": "Write code like a human will maintain it",
@@ -15,6 +26,94 @@
       "date": "2026-07-11"
     },
     {
+      "id": "sk-hynix-raises-265b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build",
+      "label": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to bui",
+      "summary": "SK海力士完成美国历史上规模最大的外国IPO，融资265亿美元，凸显AI芯片需求爆发。作为HBM（高带宽内存）关键供应商，其产品直接支撑大模型训练与推理性能。公司被敦促在美建厂，旨在缓解供应链风险并提升产能。此举不仅强化AI基础设施核心环节，也为未来长上下文、多模态模型提供存储基础。对AI产品经理而言，存储技术演进将影响模型成本、延迟和用户体验，需关注HBM及下一代内存技术对产品架构的潜在变革。",
+      "pm_score": 0.515,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "date": "2026-07-11"
+    },
+    {
+      "id": "hugging-face8217s-ceo-on-why-companies-are-done-renting-their-ai",
+      "label": "Hugging Face&#8217;s CEO on why companies are done renting their AI",
+      "summary": "Hugging Face CEO 指出企业正从租用商业 AI API 转向拥抱开源 AI，其平台已成为类似 GitHub 的 AI 协作中心，一半财富 500 强公司正在使用。开源模型和数据集共享降低了企业依赖单一供应商的风险和成本，同时加速了模型定制与迭代。这一趋势将重塑 AI 产品的开发与交付模式，产品经理应关注基于开源生态构建差异化功能、降低推理成本以及利用社区贡献快速迭代产品。",
+      "pm_score": 0.515,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "date": "2026-07-11"
+    },
+    {
+      "id": "how-the-terrorist-group-boko-haram-uses-frontier-ai",
+      "label": "How the terrorist group Boko Haram uses frontier AI",
+      "summary": "本文分析恐怖组织博科圣地如何利用前沿AI技术（如生成式大模型）进行宣传、策划和自动化攻击。报告揭示AI的双刃剑效应：先进能力可能被恶意滥用，包括深度伪造内容、自动化社交工程和战术规划辅助。产品经理需警惕此类风险，在产品设计中嵌入安全护栏、滥用检测和伦理审查机制，平衡创新与责任。",
+      "pm_score": 0.495,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48863707",
+      "date": "2026-07-11"
+    },
+    {
+      "id": "open-source-ai-matters-more-than-ever-according-to-hugging-face8217s-clem-delang",
+      "label": "Open source AI matters more than ever, according to Hugging Face&#8217;s Clem De",
+      "summary": "Hugging Face CEO Clem Delangue强调开源AI比以往更重要。该公司已发展为AI领域的GitHub，提供开源模型与数据集的共享与下载平台，目前约半数财富500强企业正在使用其服务。开源AI生态的繁荣降低了企业接入先进AI能力的门槛，促进了模型协作与创新。对于AI产品经理而言，这意味着可以更灵活地选择开源模型进行定制化开发，同时降低对闭源供应商的依赖，加速产品迭代并控制成本。Hugging Face作为基础设施平台，正在推动AI民主化和生态系统建设。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "date": "2026-07-11"
+    },
+    {
+      "id": "apple-sues-openai-over-alleged-trade-secret-theft",
+      "label": "Apple sues OpenAI over alleged trade secret theft",
+      "summary": "苹果起诉OpenAI，指控其由包括一名长期前员工在内的高级领导层指导窃取商业秘密。这起诉讼突显了AI行业日益激烈的竞争及知识产权保护的重要性，对产品经理而言，案例警示了在人才流动中需加强商业机密的管控，也反映了巨头间围绕核心技术的法律博弈，可能影响未来AI产品的开发与合作模式。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "date": "2026-07-11"
+    },
+    {
+      "id": "dont-discontinue-gemini-25-flash",
+      "label": "Don't discontinue Gemini 2.5 Flash",
+      "summary": "标题呼吁不要停止 Gemini 2.5 Flash 模型，暗示该模型对开发者或产品有重要价值。作为 Google 推出的轻量高性能版本，2.5 Flash 在推理速度、成本优化或特定场景能力上可能具有优势，若被终止将影响依赖其构建产品的 AI 产品经理。该事件提醒 PM 需关注基础模型版本的生命周期管理和技术栈连续性决策。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48864507",
+      "date": "2026-07-11"
+    },
+    {
+      "id": "show-hn-reviving-my-2001-college-band-with-ai",
+      "label": "Show HN: Reviving my 2001 college band with AI",
+      "summary": "该项目利用生成式AI技术，复活了作者2001年大学乐队的音乐作品，可能涉及声音克隆、歌曲生成或音频修复。对于AI产品经理，这展示了AI在怀旧情感娱乐和个性化内容创作中的潜力，商业价值在于降低音乐制作门槛、创新粉丝互动方式。技术要点包括基于少量样本的语音/乐器合成、音轨分离与增强，以及情感化生成。产品创新点是将个人记忆与AI创作结合，打造独特体验。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48851476",
+      "date": "2026-07-11"
+    },
+    {
+      "id": "gpt-56-grok-45-claude-and-muse-spark-build-the-same-4-apps",
+      "label": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+      "summary": "多个前沿大模型（GPT-5.6、Grok 4.5、Claude、Muse Spark）被用于构建相同的4个应用，展示了模型在基础任务上的能力趋同。对产品经理而言，这意味模型选择从功能比较转向成本、延迟、生态等差异化维度，需关注各模型在具体场景中的实际表现与商业授权。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48865093",
+      "date": "2026-07-11"
+    },
+    {
       "id": "iofficeaiaionui",
       "label": "iOfficeAI/AionUi",
       "summary": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
@@ -23,6 +122,28 @@
       "type": "github",
       "source_type": "github",
       "url": "https://github.com/iOfficeAI/AionUi",
+      "date": "2026-07-11"
+    },
+    {
+      "id": "hands-on-with-the-amd-ryzen-ai-halo",
+      "label": "Hands-On with the AMD Ryzen AI Halo",
+      "summary": "AMD Ryzen AI Halo 是 AMD 最新集成 NPU 的处理器系列，专为本地 AI 推理优化。它结合了 Zen CPU 架构与专用 AI 加速引擎，支持低功耗的端侧大模型运行（如 Llama、Stable Diffusion），无需依赖云端。该产品大幅提升 PC 的 AI 能力，可赋能实时抠图、会议降噪、代码补全等场景。对产品经理而言，这意味着可在个人设备上部署高隐私、低延迟的 AI 功能，降低云服务成本，并催生下一代 AI PC 应用生态。",
+      "pm_score": 0.38,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48861833",
+      "date": "2026-07-11"
+    },
+    {
+      "id": "snails-teeth-beats-spider-silk-as-natures-strongest-material-2015",
+      "label": "Snails' teeth beats spider silk as nature's strongest material (2015)",
+      "summary": "根据2015年的研究报道，蜗牛的牙齿被证实为自然界最强的材料，其抗拉强度甚至超过了蜘蛛丝。该发现源自对蜗牛齿舌（radula）上矿化牙齿的力学测试，这种牙齿由针铁矿（goethite）纳米纤维嵌入蛋白质基质构成，兼具高强度与韧性。尽管该研究与AI无直接关联，但其生物材料微观结构设计思路可能为AI驱动的材料发现（如生成式优化复合材料）提供启发。产品经理可关注生物仿生数据如何被收集、建模并转化为工程材料数据库，进而支持AI在新能源、航天等领域的应用创新。",
+      "pm_score": 0.34,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48862252",
       "date": "2026-07-11"
     },
     {
@@ -38,7 +159,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 3577,
-    "edges": 3886
+    "real_nodes": 3614,
+    "edges": 3923
   }
 }

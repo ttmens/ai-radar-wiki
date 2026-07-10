@@ -2669,3 +2669,16 @@
 - create: iofficeaiaionui.md
 - create: write-code-like-a-human-will-maintain-it.md
 - create: unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant.md
+
+## [2026-07-11 06:01] sync v3 | 11 new | pillars: {'capabilities': 10, 'business': 1}
+- create: gpt-56-grok-45-claude-and-muse-spark-build-the-same-4-apps.md
+- create: dont-discontinue-gemini-25-flash.md
+- create: gpt-56-sol-ultra-produces-proof-of-the-cycle-double-cover-conjecture-pdf.md
+- create: how-the-terrorist-group-boko-haram-uses-frontier-ai.md
+- create: snails-teeth-beats-spider-silk-as-natures-strongest-material-2015.md
+- create: show-hn-reviving-my-2001-college-band-with-ai.md
+- create: hands-on-with-the-amd-ryzen-ai-halo.md
+- create: apple-sues-openai-over-alleged-trade-secret-theft.md
+- create: open-source-ai-matters-more-than-ever-according-to-hugging-face8217s-clem-delang.md
+- create: sk-hynix-raises-265b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build.md
+- create: hugging-face8217s-ceo-on-why-companies-are-done-renting-their-ai.md
