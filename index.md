@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-10 | Total pages: 2421
+> Last updated: 2026-07-11 | Total pages: 2424
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -830,6 +830,7 @@
 - [[words-are-a-byproduct-of-consciousness-for-llms-its-backwards.md]] Words Are a Byproduct of Consciousness. For LLMs, It's Backwards `pillar:capabilities` `score:0.5`
 - [[workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration.md]] Workers are spending over 6 hours a week botsitting AI, fueling job frustration `pillar:capabilities` `score:0.55`
 - [[working-with-ai-a-concrete-example.md]] Working With AI: A concrete example `pillar:capabilities` `score:0.38`
+- [[write-code-like-a-human-will-maintain-it.md]] Write code like a human will maintain it `pillar:capabilities` `score:0.515`
 - [[writeup-16-bytes-of-x86-that-turn-matrix-rain-into-sound.md]] WriteUp: 16 Bytes of x86 that turn Matrix rain into sound `pillar:capabilities` `score:0.34`
 - [[wwdc-2026-what-to-expect-from-siri8217s-highly-anticipated-revamp-to-apple-intel.md]] WWDC 2026: What to expect, from Siri&#8217;s highly anticipated revamp to Apple `pillar:capabilities` `score:0.48`
 - [[xorbitsaiinference.md]] xorbitsai/inference `pillar:capabilities` `score:0.565`
@@ -1443,6 +1444,7 @@
 - [[india8217s-moengage-bets-that-the-future-of-marketing-is-millions-of-ai-agents.md]] India&#8217;s MoEngage bets that the future of marketing is millions of AI agent `pillar:patterns` `score:0.445`
 - [[infiniflowragflow.md]] infiniflow/ragflow `pillar:patterns` `score:0.615`
 - [[instead-of-banning-ai-i-made-a-classroom-contract-with-my-students.md]] Instead of banning AI, I made a classroom contract with my students `pillar:patterns` `score:0.515`
+- [[iofficeaiaionui.md]] iOfficeAI/AionUi `pillar:patterns` `score:0.405`
 - [[is-grep-all-you-need-how-agent-harnesses-reshape-agentic-search.md]] Is Grep All You Need? How Agent Harnesses Reshape Agentic Search `pillar:patterns` `score:0.48`
 - [[itzcrazyknsvane.md]] ItzCrazyKns/Vane `pillar:patterns` `score:0.58`
 - [[jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business.md]] Jedify raises $24M to help companies arm AI agents with context on their busines `pillar:patterns` `score:0.515`
@@ -1628,6 +1630,7 @@
 - [[thedotmackclaude-mem.md]] thedotmack/claude-mem `pillar:patterns` `score:0.58`
 - [[these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone.md]] These two founders left Goldman and Meta to build voice AI for markets everyone `pillar:patterns` `score:0.48`
 - [[triple-dragon-fractal-2020.md]] Triple Dragon Fractal (2020) `pillar:patterns` `score:0.225`
+- [[unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant.md]] Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't `pillar:patterns` `score:0.33`
 - [[universal-memory-protocol-a-shared-format-for-agent-memory.md]] Universal Memory Protocol – a shared format for agent memory `pillar:patterns` `score:0.33`
 - [[unstructured-iounstructured.md]] Unstructured-IO/unstructured `pillar:patterns` `score:0.615`
 - [[usestrixstrix.md]] usestrix/strix `pillar:patterns` `score:0.58`

@@ -2664,3 +2664,8 @@
 - create: triple-dragon-fractal-2020.md
 - create: ben-bernanke-joins-anthropic-oversight-trust.md
 - create: show-hn-pylon-sync-an-agent-first-full-stack-realtime-framework.md
+
+## [2026-07-11 00:01] sync v3 | 3 new | pillars: {'patterns': 2, 'capabilities': 1}
+- create: iofficeaiaionui.md
+- create: write-code-like-a-human-will-maintain-it.md
+- create: unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant.md
