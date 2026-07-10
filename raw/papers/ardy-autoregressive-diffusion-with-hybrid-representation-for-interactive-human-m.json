@@ -1,0 +1,36 @@
+{
+  "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
+  "summary": "Generating realistic 3D human motions in real-time within interactive applications is key for animation, simulation, and humanoid robotics. While recent offline motion generation approaches offer precise control via text and kinematic constraints, they lack the inference speed required for interactive settings. Conversely, existing online methods enable real-time synthesis but often sacrifice controllability or struggle with complex text semantics and long-horizon goals due to limited context windows. In this work, we introduce ARDY, a streaming generation framework that bridges this gap by enabling high-fidelity motion generation controllable via online text prompts and flexible kinematic constraints. ARDY employs a hybrid representation that combines explicit root features with a latent body embedding, balancing precise trajectory control with efficient generative learning. We propose a two-stage autoregressive transformer denoiser that features variable history context and supports conditioning on flexible, long-horizon kinematic constraints. By training on a large-scale motion capture dataset and being directly conditioned on text labels and kinematic constraints sampled from ground truth poses, ARDY natively learns controllable generation that supports online prompting and flexible long-horizon goals. Extensive evaluations on the HumanML3D benchmark and the large-scale, high-fidelity Bones Rigplay dataset demonstrate ARDY's high motion quality and constraint adherence, validating the efficacy of our key architectural decisions. Finally, we demonstrate the method's practical versatility through an interactive demo featuring dynamic text control, diverse keyframe pose constraints, path following, and interactive locomotion control via mouse and keyboard. Supplementary video results, code, and model releases can be found at https://research.nvidia.com/labs/sil/projects/ardy/.",
+  "url": "http://arxiv.org/abs/2607.08741v1",
+  "authors": [
+    "Kaifeng Zhao",
+    "Mathis Petrovich",
+    "Haotian Zhang",
+    "Tingwu Wang",
+    "Siyu Tang"
+  ],
+  "published": "2026-07-09T17:41:49Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "context window",
+    "inference",
+    "benchmark",
+    "training",
+    "embedding",
+    "transformer",
+    "dataset"
+  ],
+  "summary_cn": "ARDY提出了一种基于自回归扩散与混合表示的方法，用于交互式3D人体运动生成。它结合了自回归模型的序列生成能力和扩散模型的精细控制，在保证生成质量的同时实现了实时推理速度，解决了传统离线方法无法用于交互应用的瓶颈。该方法支持通过文本和运动学约束精确控制人体动作，可广泛应用于动画制作、虚拟现实仿真以及人形机器人等领域，显著提升了产品的交互体验和开发效率。",
+  "pm_relevance": 8,
+  "concepts": [
+    "人体运动生成",
+    "自回归扩散模型",
+    "实时交互"
+  ],
+  "entities": [],
+  "patterns": [
+    "生成式AI",
+    "实时交互模式"
+  ]
+}

@@ -2657,3 +2657,10 @@
 - create: meta8217s-new-ai-chips-will-begin-production-in-september.md
 - create: nvidia-is-a-victim-of-the-compute-marketplace-it-created.md
 - create: show-hn-reverse-engineering-web-apps-into-agent-tools.md
+
+## [2026-07-10 18:01] sync v3 | 8 new | pillars: {'capabilities': 6, 'patterns': 2}
+- create: apple-silicon-exec-explains-mac-mini-ai-demand-and-on-device-future.md
+- create: ai-generated-videos-to-maximally-drive-a-target-brain-region.md
+- create: triple-dragon-fractal-2020.md
+- create: ben-bernanke-joins-anthropic-oversight-trust.md
+- create: show-hn-pylon-sync-an-agent-first-full-stack-realtime-framework.md

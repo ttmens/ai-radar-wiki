@@ -1,8 +1,92 @@
 {
   "date": "2026-07-10",
-  "generated_at": "2026-07-10T06:02:20.322190+08:00",
-  "item_count": 27,
+  "generated_at": "2026-07-10T18:01:57.416814+08:00",
+  "item_count": 55,
   "items": [
+    {
+      "id": "twitter_elonmusk_2075403875410928124",
+      "label": "𝕏 is a great platform for product announcements, especially if done by the CEO directly. Way more in...",
+      "summary": "𝕏 is a great platform for product announcements, especially if done by the CEO directly. Way more interesting to the public than generic press releases.\n\nThis post by Mark Zuckerberg already received over 12 million views for free!",
+      "pm_score": 1.0,
+      "pillar": "business",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/elonmusk/status/2075403875410928124",
+      "date": "2026-07-10",
+      "stars": 13978,
+      "score": 1.0,
+      "comments": 1875
+    },
+    {
+      "id": "twitter_elonmusk_2075402626284368071",
+      "label": "Starlink can now provide reliable 10Gpbs symmetric send/receive connectivity anywhere in the world",
+      "summary": "Starlink can now provide reliable 10Gpbs symmetric send/receive connectivity anywhere in the world",
+      "pm_score": 1.0,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/elonmusk/status/2075402626284368071",
+      "date": "2026-07-10",
+      "stars": 6135,
+      "score": 1.0,
+      "comments": 855
+    },
+    {
+      "id": "twitter_elonmusk_2075375036916187560",
+      "label": "GROK 4.5 LEADS ON REAL PROFESSIONAL WORK BENCHMARK\n\nNew data from Snorkel shows Grok 4.5 outperformi...",
+      "summary": "GROK 4.5 LEADS ON REAL PROFESSIONAL WORK BENCHMARK\n\nNew data from Snorkel shows Grok 4.5 outperforming other frontier models on real-world professional tasks.\n\nOn their GDPval+ benchmark (expert-created workplace reasoning tasks across the economy):\n\n•  Grok 4.5: 29% mean pass rate\n•  GPT 5.5: 22%\n•",
+      "pm_score": 1.0,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/elonmusk/status/2075375036916187560",
+      "date": "2026-07-10",
+      "stars": 773,
+      "score": 1.0,
+      "comments": 73
+    },
+    {
+      "id": "twitter_elonmusk_2075387273797853612",
+      "label": "Grok only gets better from here",
+      "summary": "Grok only gets better from here",
+      "pm_score": 1.0,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/elonmusk/status/2075387273797853612",
+      "date": "2026-07-10",
+      "stars": 4107,
+      "score": 1.0,
+      "comments": 836
+    },
+    {
+      "id": "twitter_swyx_2075376938676621752",
+      "label": "whoever does AEO for @resend needs to get a raise, all the leading frontier models keep trying to us...",
+      "summary": "whoever does AEO for @resend needs to get a raise, all the leading frontier models keep trying to use resend for emails even when i have existing transactional infrastructure already set up https://t.co/vxJoVSF9ju",
+      "pm_score": 0.72,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/swyx/status/2075376938676621752",
+      "date": "2026-07-10",
+      "stars": 50,
+      "score": 0.721,
+      "comments": 12
+    },
+    {
+      "id": "twitter_supabase_2075379640156229722",
+      "label": "We're doing a live build with TRAE: full-stack app, prompt to deployed, with Auth, Storage, and a se...",
+      "summary": "We're doing a live build with TRAE: full-stack app, prompt to deployed, with Auth, Storage, and a secure database. See how live Supabase context keeps TRAE's generated code production-ready.\n\nJoin us → https://t.co/E2K3h5R4Xz https://t.co/t792Sv325w",
+      "pm_score": 0.71,
+      "pillar": "business",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/supabase/status/2075379640156229722",
+      "date": "2026-07-10",
+      "stars": 18,
+      "score": 0.7066,
+      "comments": 0
+    },
     {
       "id": "gpt-56",
       "label": "GPT-5.6",
@@ -37,6 +121,17 @@
       "date": "2026-07-10"
     },
     {
+      "id": "openai-says-gpt-56-is-the-8216preferred-model8217-for-microsoft-copilot-365-amid",
+      "label": "OpenAI says GPT 5.6 is the &#8216;preferred model&#8217; for Microsoft Copilot 3",
+      "summary": "OpenAI 发布 GPT-5.6 模型，并将其定位为 Microsoft Copilot 365 的首选模型，延续了双方在办公与生产力场景的深度合作。对产品经理而言，这意味着 Copilot 将获得更强大的底层推理与生成能力，可能带来更精准的文档分析、邮件撰写、会议总结等功能升级。商业层面，该模式强化了微软企业级 AI 产品的壁垒，同时 OpenAI 获得稳定的落地场景与收入。产品创新体现在模型选择的显性化——企业用户将能感知到“首选模型”的差异，为未来多模型动态调配铺平道路。",
+      "pm_score": 0.515,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+      "date": "2026-07-10"
+    },
+    {
       "id": "anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits",
       "label": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
       "summary": "Anthropic、OpenAI和SpaceX三大AI公司即将IPO，预计产生的价值将超过2000年以来所有美国风投支持的科技公司退出总和。这一趋势凸显了AI领域资本高度集中与商业爆发力，AI产品经理应关注头部企业通过大模型商业化（如API服务、企业订阅）实现千亿美元估值，以及“太空+AI”跨界生态的潜力，这预示着未来产品创新将更依赖基础设施层与场景化的深度融合。",
@@ -67,6 +162,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "apple-silicon-exec-explains-mac-mini-ai-demand-and-on-device-future",
+      "label": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+      "summary": "苹果高管解读Mac Mini在AI领域的强劲需求，得益于Apple Silicon的神经网络引擎和统一内存架构，Mac Mini在本地运行AI推理任务时表现优异。随着用户对隐私、低延迟和离线能力的要求提升，苹果正推动更多AI功能在设备端完成，减少对云端的依赖。这一趋势体现了本地化AI的商业价值：降低运营成本、增强数据安全性，并为产品经理提供了开发高性能离线AI应用的新机遇。Mac Mini作为入门级AI开发设备，有望带动本地AI生态的繁荣。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48805598",
       "date": "2026-07-10"
     },
     {
@@ -114,6 +220,17 @@
       "date": "2026-07-10"
     },
     {
+      "id": "openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing",
+      "label": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "summary": "OpenAI 关闭了其独立 AI 浏览器 Atlas（上线不足一年），但将核心的代理浏览（agentic browsing）功能迁移至桌面应用和 Chrome 扩展。这一策略调整表明 OpenAI 放弃独立浏览器产品线，转而将 AI 驱动的浏览器交互能力作为功能模块嵌入现有平台，降低用户迁移成本，同时强化桌面端的 AI 代理能力。对产品经理的启示：独立 AI 浏览器面临用户获取和留存挑战，将 AI 功能插件化、集成化可能是更务实的路径，既能保持技术优势又能借助现有生态快速落地。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "date": "2026-07-10"
+    },
+    {
       "id": "characterai-enters-the-microdrama-arena-with-its-own-productions-but-there8217s",
       "label": "Character.AI enters the microdrama arena with its own productions, but there&#82",
       "summary": "Character.AI 进军微短剧领域，核心创新在于将 AI 对话能力嵌入短剧中：用户不仅观看剧情，还能与剧中角色实时聊天、提问甚至角色扮演不同故事线。这一设计充分利用了该公司的核心产品——个性化角色对话，使传统单向消费的短剧转变为沉浸式、可交互的叙事体验。对 AI 产品经理而言，这展示了如何将 AI 角色从聊天窗口扩展到更丰富的娱乐场景，通过“对话+内容”组合提升用户粘性与参与度。商业上，微短剧市场增长迅速，结合 AI 互动有望开拓新的付费和会员模式。",
@@ -122,6 +239,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "building-a-real-time-ai-tutor-for-5-year-olds",
+      "label": "Building a real-time AI tutor for 5-year-olds",
+      "summary": "本篇文章介绍如何构建一个面向5岁儿童的实时AI家教系统，强调在低龄教育场景中实现低延迟、高交互的自然语言对话。技术要点包括语音识别、情感计算与实时反馈机制，确保儿童能获得即时且友好的学习引导。商业价值体现在切入早期教育市场，提供个性化陪学方案，降低家长辅导成本。产品创新在于将通用大模型适配为儿童友好型交互模式，兼顾趣味性与知识传递。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48852199",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "an-ai-agent-startup-just-let-its-agent-run-its-100m-fundraise",
+      "label": "An AI agent startup just let its agent run its $100M fundraise",
+      "summary": "专注于企业级AI代理的初创公司Lyzr，使用自家AI代理成功完成1亿美元融资。该代理自主处理了融资过程中的关键环节，包括投资者沟通、文件准备和谈判支持，验证了AI代理在复杂商务流程中的实际能力。这一案例展示了AI代理从辅助工具向核心业务流程执行者的演进，为产品经理提供了AI代理落地企业场景的可行范本，同时暗示了AI代理在资本密集型业务中的潜在价值，以及“自我食用”（dogfooding）作为产品验证策略的有效性。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
       "date": "2026-07-10"
     },
     {
@@ -158,6 +297,17 @@
       "date": "2026-07-10"
     },
     {
+      "id": "openai-launches-its-new-family-of-models-with-gpt-56",
+      "label": "OpenAI launches its new family of models with GPT-5.6",
+      "summary": "OpenAI发布新一代模型家族GPT-5.6，在网络安全等多个领域实现能力提升。该系列模型延续了GPT系列的迭代逻辑，既强化了基础生成能力，又针对垂直场景（如安全防御）进行优化。对于AI产品经理而言，这意味着可基于更强大的基础模型构建上层应用，尤其在需要高安全性的企业级场景中（如自动化威胁检测、数据隐私保护）将获得更可靠的底座支撑。同时，多任务泛化能力增强，可降低对专门小模型的需求，提升产品开发效率。建议关注其API定价与上下文窗口变化，以评估成本效益。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "date": "2026-07-10"
+    },
+    {
       "id": "meta-enters-the-crowded-ai-coding-battle-with-muse-spark-11",
       "label": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
       "summary": "Meta 发布 Muse Spark 1.1，加入AI代码生成竞赛。该工具主打处理大型代理（agentic）工作负载、自动修复bug以及支持大规模代码迁移，这些正是企业级自动化需求的核心场景。通过强化对复杂任务链的自主执行能力，Muse Spark旨在提供类似“AI开发者”的端到端服务，降低人工干预。其产品创新在于将代码补全升级为全流程自动化代理，直接对标GitHub Copilot、Cursor等竞品，并瞄准企业高价值IT运维与重构市场。",
@@ -188,6 +338,94 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "fidji-simo-steps-down-from-openai8217s-no-2-role",
+      "label": "Fidji Simo steps down from OpenAI&#8217;s no. 2 role",
+      "summary": "OpenAI 二号人物 Fidji Simo 因医疗休假超预期而辞去全职职务，导致公司高层出现真空。此时 OpenAI 正考虑 IPO 并急于在企业市场追赶 Anthropic。这一变动可能影响产品路线图与商业化节奏，产品经理需关注领导层变动对战略优先级、人才稳定性及市场竞争格局的潜在冲击。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "slorr-simple-and-efficient-in-training-low-rank-regularization",
+      "label": "SLORR: Simple and Efficient In-Training Low-Rank Regularization",
+      "summary": "SLORR是一种训练中的低秩正则化方法，无需额外SVD计算，即可高效提升神经网络的可压缩性。现有方法因需对大型权重矩阵进行SVD而效率低下，SLORR通过简单且高效的策略降低模型部署成本、加快推理速度，特别适合资源受限场景。该技术内嵌于训练流程，可无缝应用于现有模型，在保持精度的同时实现更大程度的压缩，对AI产品经理而言具有降低算力需求和加速边缘端部署的商业价值。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.08754v1",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "ardy-autoregressive-diffusion-with-hybrid-representation-for-interactive-human-m",
+      "label": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human",
+      "summary": "ARDY提出了一种基于自回归扩散与混合表示的方法，用于交互式3D人体运动生成。它结合了自回归模型的序列生成能力和扩散模型的精细控制，在保证生成质量的同时实现了实时推理速度，解决了传统离线方法无法用于交互应用的瓶颈。该方法支持通过文本和运动学约束精确控制人体动作，可广泛应用于动画制作、虚拟现实仿真以及人形机器人等领域，显著提升了产品的交互体验和开发效率。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.08741v1",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "opencof-learning-to-reason-through-video-generation",
+      "label": "OpenCoF: Learning to Reason Through Video Generation",
+      "summary": "OpenCoF 提出通过视频生成实现推理的新范式，区别于传统链式思维（CoT）。该方法利用时间上连续的帧序列展开逻辑推理过程，使模型能够理解因果和时序关系。技术要点在于将推理任务转化为视频帧的生成与连接，从而捕捉动态变化中的逻辑链条。商业价值上，该技术可应用于视频分析、自动驾驶决策、智能监控等领域，提升模型对复杂场景的理解能力。产品创新体现在将推理从文本扩展至视觉模态，为多模态 AI 应用提供新路径。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.08763v1",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "ideas-have-genomes-benchmarking-scientific-lineage-reasoning-and-lineage-grounde",
+      "label": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Ground",
+      "summary": "该论文提出 IdeaGene-Bench（IG-Be），一个专门评估 AI 系统在科学思想谱系推理与基于谱系创意生成能力的基准测试。类比生物基因组，科学思想继承机制、修复已知局限并重组先前工作，现有基准很少考察这一结构。IG-Be 旨在填补这一空白，推动 AI 在科学发现与创新中具备更深度理解与生成能力。对产品经理而言，这意味着未来 AI 产品可辅助科研人员追溯思想脉络、自动生成改进方案，加速技术商业化落地，尤其在药物研发、材料科学等需要知识传承与创新的领域具有巨大潜力。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.08758v1",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "using-ai-based-learning-assistants-in-higher-education-a-large-scale-descriptive",
+      "label": "Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptiv",
+      "summary": "本研究基于7.7万余名远程教育学生的客观日志数据，对AI学习助手Syntea的使用模式进行了大规模描述性分析，覆盖性别、年龄、学科集群和学位等维度。研究发现不同人群在使用频率、时长和功能偏好上存在显著差异，为教育产品经理优化AI辅助学习体验、实现个性化干预提供了数据驱动的洞察。该研究展示了AI在教育场景下的落地价值，其方法论可迁移至其他垂直领域的产品分析。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.08748v1",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "the-illusion-of-equivalency-statistical-characterization-of-quantization-effects",
+      "label": "The Illusion of Equivalency: Statistical Characterization of Quantization Effect",
+      "summary": "该研究指出，后训练量化在资源受限场景下广泛用于部署大模型，但现有评估仅依赖准确率和困惑度，无法捕捉量化带来的行为变化。作者引入“正确性一致性”等新指标，更全面地刻画量化对模型输出行为的影响。对AI产品经理而言，这意味着在权衡模型性能与部署成本时，需要采用更精细的评估方法，避免因指标失真导致产品体验下降。该工作为模型压缩后的行为可信度评估提供了新工具，有助于提升量化模型的落地可靠性。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.08734v1",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "autopilot-vqa-benchmarking-vision-language-models-for-incident-centric-dashcam-u",
+      "label": "AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam",
+      "summary": "本论文提出 AUTOPILOT VQA 基准测试，用于评估视觉-语言模型（VLM）在驾驶场景中理解事故相关视觉问答的能力。研究围绕多模态大模型在自动驾驶任务中的可靠性展开，涵盖场景理解、决策规划和轨迹预测等关键环节。该基准测试有助于推动模型在真实驾驶事故场景下的推理与安全性验证，为自动驾驶产品开发提供技术评估标准。商业价值在于提升自动驾驶系统的安全可信度，产品创新体现在将 VQA 引入事故中心理解，弥补现有评估方法的不足。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.08745v1",
       "date": "2026-07-10"
     },
     {
@@ -224,6 +462,50 @@
       "date": "2026-07-10"
     },
     {
+      "id": "dimensionality-reduction-meets-network-science-sensemaking-on-umaps-knn-graph",
+      "label": "Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph",
+      "summary": "UMAP是一种常用的高维数据降维与可视化工具，但现有工作大多只关注其低维嵌入结果，忽略了其内部构建的kNN图。该图在原始高维空间中编码了数据流形的结构，蕴含着丰富的邻域关系信息。通过直接分析kNN图，产品可以更好地理解数据内在拓扑，提升聚类、异常检测和推荐等任务的性能，并支持更细致的交互式探索。这一思路将降维与网络科学结合，为构建更智能的数据分析产品提供了新视角。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.08746v1",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "score-accuracy-along-the-forward-diffusion-does-not-certify-numerical-stability",
+      "label": "Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability",
+      "summary": "本文发现扩散模型中的评分匹配仅控制前向边缘分布的平均误差，但离散反向采样时模型沿自身轨迹评估学习到的评分，可能导致数值不稳定。这意味着即使前向误差很小，采样过程仍可能发散，影响生成质量。对于AI产品经理，这提醒在部署基于扩散模型的图像/音频生成产品时，需关注采样稳定性，选择或开发更鲁棒的采样算法，以避免生成结果异常，提升用户体验。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.08757v1",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "super-weights-in-llms-and-the-failure-of-selective-training",
+      "label": "Super Weights in LLMs and the Failure of Selective Training",
+      "summary": "研究揭示了大型语言模型中存在“超级权重”（Super Weights），即个别参数对模型性能影响巨大（移除后性能下降数个数量级）。但研究发现这种退化并非普遍适用于所有LLM，不同模型表现存在差异。论文进一步探讨了感知超级权重的训练方法，为模型压缩和剪枝策略提供了新视角。对AI产品经理而言，理解超级权重的存在有助于优化模型部署效率、降低成本，并指导更精细的模型微调与剪枝决策，但需注意不同模型的行为差异。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.08733v1",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "multtipop-a-multitrack-transcription-dataset-for-pop-music",
+      "label": "MulTTiPop: A Multitrack Transcription Dataset for Pop Music",
+      "summary": "MulTTiPop 是一个专为评估自动音乐转录模型而构建的多轨流行音乐数据集，包含 572 个片段、共 3.5 小时音频，覆盖不同年代和流派的流行歌曲。每个片段提供对应的多轨 MIDI 录音，支持研发高精度的多音轨分离与乐谱识别模型。对 AI 产品经理而言，该数据集能加速音乐制作、智能编曲、音乐教育等产品的转录能力提升，尤其有助于解决流行音乐中乐器混叠带来的技术挑战，推动音乐 AI 从单音识别向多轨结构化理解迈进。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.08756v1",
+      "date": "2026-07-10"
+    },
+    {
       "id": "show-hn-fablecut-a-browser-video-editor-ai-agents-can-drive-zero-deps",
       "label": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
       "summary": "FableCut 是一款无需依赖任何外部库的浏览器端视频编辑器，核心创新在于其设计可被 AI 代理（agents）直接驱动。这意味着 AI 能够自主调用编辑器的各项功能，实现从剪辑、特效到导出的全流程自动化。对于产品经理而言，这展示了降低视频创作门槛的新范式：AI 代理可以代替用户完成繁琐操作，尤其适合内容批量生产、个性化视频生成等场景。零依赖特性极大简化了部署与集成成本，使其易于嵌入现有 AI 工作流或作为独立工具使用。该产品将 AI 控制能力与轻量级 Web 编辑器结合，代表了“AI 驱动 UI”的实用化探索。",
@@ -246,6 +528,28 @@
       "date": "2026-07-10"
     },
     {
+      "id": "ai-generated-videos-to-maximally-drive-a-target-brain-region",
+      "label": "AI-generated videos to maximally drive a target brain region",
+      "summary": "该技术利用AI生成视频，旨在最大化驱动特定脑区活动。通过算法定制视觉内容，精准刺激目标神经元，潜在应用于神经康复、认知增强或脑机接口。对产品经理而言，这意味着AI内容生成正从娱乐转向医疗与神经科学，可能催生个性化神经反馈训练产品，但需面临伦理与安全性挑战。商业价值在于开辟新型数字疗法市场，创新点在于将生成式AI与脑科学结合，实现非侵入式脑区调控。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48856904",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "ben-bernanke-joins-anthropic-oversight-trust",
+      "label": "Ben Bernanke Joins Anthropic Oversight Trust",
+      "summary": "前美联储主席本·伯南克加入Anthropic的监督信托，此举标志着AI公司在治理结构上引入外部权威专家，以增强模型安全与道德监督的公信力。对AI产品经理而言，这暗示行业正向更严格的独立审查机制演进，可能影响未来产品的合规设计和发布策略，同时也表明顶级人才跨领域参与AI治理的趋势。",
+      "pm_score": 0.41,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48855112",
+      "date": "2026-07-10"
+    },
+    {
       "id": "the-next-era-of-ai-is-about-infrastructure-not-just-models",
       "label": "The next era of AI is about infrastructure, not just models",
       "summary": "AI领域的新阶段正从模型创新转向基础设施构建。产品经理需关注：模型部署与推理的效率优化、数据管线的标准化、以及可扩展的AI服务平台化。商业价值体现在降低运维成本、提升推理速度、支持多模型协作。产品创新方向包括将AI能力嵌入现有基础架构，实现更灵活的调用与集成，避免单一模型依赖，从而加速产品迭代。",
@@ -265,6 +569,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48846708",
+      "date": "2026-07-10"
+    },
+    {
+      "id": "show-hn-i-built-a-web-tool-to-see-and-edit-what-an-ai-thinks-before-it-answers",
+      "label": "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
+      "summary": "该项目展示了一款网页工具，允许用户查看并编辑AI在生成最终答案前的内部推理过程。通过可视化AI的中间思考步骤，用户能够理解模型逻辑、纠正偏差或引导输出方向，从而提升AI的可解释性和可控性。对于AI产品经理，该工具提供了将透明度转化为用户信任和产品差异化的机会，尤其适用于需要高可靠性或可审计性的场景。技术要点在于实时展示与修改推理链，商业价值在于降低AI黑箱风险，增强用户采纳意愿。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://lucid.earthpilot.ai",
       "date": "2026-07-10"
     },
     {
@@ -299,10 +614,21 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
       "date": "2026-07-10"
+    },
+    {
+      "id": "workflow-as-knowledge-semantic-persistence-for-llm-mediated-workflows",
+      "label": "Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows",
+      "summary": "Large language model (LLM) applications increasingly use explicit workflows for tool use, retrieval, branching, checkpointing, and human approval. Existing workflow systems already address many execution concerns. This paper proposes a Lisp-inspired but language-independent conceptual model: symboli",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.08740v1",
+      "date": "2026-07-10"
     }
   ],
   "graph_totals": {
-    "real_nodes": 3465,
-    "edges": 3772
+    "real_nodes": 3556,
+    "edges": 3865
   }
 }

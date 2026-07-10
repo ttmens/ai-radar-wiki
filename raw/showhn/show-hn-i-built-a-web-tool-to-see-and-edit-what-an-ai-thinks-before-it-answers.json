@@ -1,0 +1,21 @@
+{
+  "title": "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
+  "score": 25,
+  "comments": 4,
+  "url": "https://lucid.earthpilot.ai",
+  "hn_url": "https://news.ycombinator.com/item?id=48849618",
+  "tag": "ShowHN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该项目展示了一款网页工具，允许用户查看并编辑AI在生成最终答案前的内部推理过程。通过可视化AI的中间思考步骤，用户能够理解模型逻辑、纠正偏差或引导输出方向，从而提升AI的可解释性和可控性。对于AI产品经理，该工具提供了将透明度转化为用户信任和产品差异化的机会，尤其适用于需要高可靠性或可审计性的场景。技术要点在于实时展示与修改推理链，商业价值在于降低AI黑箱风险，增强用户采纳意愿。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI 透明度",
+    "推理链可视化",
+    "用户控制"
+  ],
+  "entities": [],
+  "patterns": [
+    "交互式推理调整"
+  ]
+}

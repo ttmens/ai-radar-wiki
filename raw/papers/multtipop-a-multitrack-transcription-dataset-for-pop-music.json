@@ -1,0 +1,32 @@
+{
+  "title": "MulTTiPop: A Multitrack Transcription Dataset for Pop Music",
+  "summary": "We present MulTTiPop, a dataset of pop music segments and their associated multitrack MIDI recordings for the evaluation of automatic music transcription models. MulTTiPop contains 572 segments of popular music totaling 3.5 hours of audio, and contains songs from diverse genres and decades from the 1930s to 2000s. To collect this dataset, we perform metadata-based matching on song segments from the Lakh MIDI and TheoryTab datasets, manually identify an anchor beat between the audio and MIDI, then use beat tracking on the audio and warp the MIDI to match its tempo and timing. We evaluate state-of-the-art automatic music transcription models on MulTTiPop and find substantial room for improvement, with the best model achieving 38% Onset F1. More details and sound examples of MulTTiPop are available at https://gclef-cmu.org/multtipop.",
+  "url": "http://arxiv.org/abs/2607.08756v1",
+  "authors": [
+    "Nathan Pruyne",
+    "Benjamin Stoler",
+    "William Chen",
+    "Chien-yu Huang",
+    "Shinji Watanabe"
+  ],
+  "published": "2026-07-09T17:55:33Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "audio",
+    "dataset"
+  ],
+  "summary_cn": "MulTTiPop 是一个专为评估自动音乐转录模型而构建的多轨流行音乐数据集，包含 572 个片段、共 3.5 小时音频，覆盖不同年代和流派的流行歌曲。每个片段提供对应的多轨 MIDI 录音，支持研发高精度的多音轨分离与乐谱识别模型。对 AI 产品经理而言，该数据集能加速音乐制作、智能编曲、音乐教育等产品的转录能力提升，尤其有助于解决流行音乐中乐器混叠带来的技术挑战，推动音乐 AI 从单音识别向多轨结构化理解迈进。",
+  "pm_relevance": 7,
+  "concepts": [
+    "多轨音乐转录",
+    "自动音乐转录数据集",
+    "MIDI标注"
+  ],
+  "entities": [
+    "MulTTiPop"
+  ],
+  "patterns": [
+    "数据集驱动"
+  ]
+}

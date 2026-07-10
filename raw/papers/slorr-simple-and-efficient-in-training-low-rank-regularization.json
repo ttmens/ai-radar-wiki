@@ -1,0 +1,30 @@
+{
+  "title": "SLORR: Simple and Efficient In-Training Low-Rank Regularization",
+  "summary": "Low-rank factorization is widely used to compress neural networks, but modern models are often not naturally amenable to aggressive factorization without significant accuracy loss. Existing training-time low-rank regularizers can improve compressibility, but they often require SVDs of large weight matrices, modify the model architecture (introducing additional trainable parameters), or rely on stateful cached quantities. To address these limitations, we introduce SLORR, a simple, stateless, and architecture-preserving framework for in-training low-rank regularization, instantiated with two main variants based on the Hoyer sparsity metric and the nuclear norm. SLORR directly regularizes the original weight matrices using GPU-friendly approximations for the forward and backward passes of the regularizers, for which we provide approximation guarantees. We first evaluate SLORR on ImageNet-1K across short-horizon continued training of ResNet-50, ViT-B/16, and ViT-L/16, and pretraining of ResNet-18, where SLORR induces compressibility while introducing less than 8% training overhead. We further evaluate SLORR-Hoyer in LLM pretraining at 135M and 560M scales: SLORR-trained compressed models preserve performance substantially better than unregularized models while adding less than 1% average training overhead.",
+  "url": "http://arxiv.org/abs/2607.08754v1",
+  "authors": [
+    "David González-Martínez",
+    "Shiwei Liu"
+  ],
+  "published": "2026-07-09T17:51:50Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "model architecture",
+    "neural network",
+    "parameter",
+    "accuracy"
+  ],
+  "summary_cn": "SLORR是一种训练中的低秩正则化方法，无需额外SVD计算，即可高效提升神经网络的可压缩性。现有方法因需对大型权重矩阵进行SVD而效率低下，SLORR通过简单且高效的策略降低模型部署成本、加快推理速度，特别适合资源受限场景。该技术内嵌于训练流程，可无缝应用于现有模型，在保持精度的同时实现更大程度的压缩，对AI产品经理而言具有降低算力需求和加速边缘端部署的商业价值。",
+  "pm_relevance": 8,
+  "concepts": [
+    "低秩分解",
+    "模型压缩",
+    "训练时优化"
+  ],
+  "entities": [],
+  "patterns": [
+    "Model Compression Pattern"
+  ]
+}
