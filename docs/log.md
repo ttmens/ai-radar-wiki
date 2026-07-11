@@ -2690,3 +2690,9 @@
 - create: meta-pulls-new-ai-image-feature-after-days-of-backlash.md
 - create: meta-removes-controversial-ai-feature-on-instagram-after-backlash.md
 - create: show-hn-subjectivezero-an-open-source-agentic-node-editor-for-creative-coding.md
+
+## [2026-07-12 00:01] sync v3 | 5 new | pillars: {'capabilities': 4, 'business': 1}
+- create: speculations-concerning-the-first-ultraintelligent-machine-1965-pdf.md
+- create: ghost-font-a-font-that-humans-can-read-but-ai-cannot.md
+- create: microsoft-latest-report-shows-25-emissions-raised-due-to-ai-data-centers.md
+- create: openai-bets-on-families-as-chatgpt-goes-deeper-into-households.md

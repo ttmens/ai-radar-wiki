@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-11 | Total pages: 2441
+> Last updated: 2026-07-12 | Total pages: 2446
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -268,6 +268,7 @@
 - [[general-intuition-in-talks-to-raise-300m-at-around-2b-valuation.md]] General Intuition in talks to raise $300M at around $2B valuation `pillar:capabilities` `score:0.48`
 - [[geosql-a-claudecodex-skill-for-geospatial-data.md]] Geosql: A Claude/Codex skill for geospatial data `pillar:capabilities` `score:0.38`
 - [[german-rail-service-suspended-due-to-radio-interference.md]] German Rail Service Suspended Due to Radio Interference `pillar:capabilities` `score:0.31`
+- [[ghost-font-a-font-that-humans-can-read-but-ai-cannot.md]] Ghost Font: A font that humans can read but AI cannot `pillar:capabilities` `score:0.445`
 - [[girls-just-wanna-have-fast-mpmc-queues-with-bounded-waiting.md]] Girls just wanna have fast MPMC queues with bounded waiting `pillar:capabilities` `score:0.31`
 - [[github-actions-down-again-today.md]] GitHub Actions down again today `pillar:capabilities` `score:0.645`
 - [[github-and-the-crime-against-software.md]] GitHub and the crime against software `pillar:capabilities` `score:0.53`
@@ -676,6 +677,7 @@
 - [[show-hn-we-post-trained-a-model-that-pen-tests-instead-of-refusing.md]] Show HN: We post-trained a model that pen tests instead of refusing `pillar:capabilities` `score:0.43`
 - [[show-hn-wordit-change-one-letter-keep-the-chain-going.md]] Show HN: Wordit – Change One Letter, Keep the Chain Going `pillar:capabilities` `score:0.225`
 - [[show-hn-z-jail-a-130-kb-linux-sandbox-c99-with-7-defense-layers-and-zero-deps.md]] Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps `pillar:capabilities` `score:0.225`
+- [[silent-speech-with-ultrasound.md]] Silent speech with ultrasound `pillar:capabilities` `score:0.38`
 - [[silurusooxml-pixel-faithful-office-documents-rendered-in-the-browser.md]] Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser `pillar:capabilities` `score:0.255`
 - [[siri-ai.md]] Siri AI `pillar:capabilities` `score:0.595`
 - [[slightly-reducing-the-sloppiness-of-ai-generated-front-end.md]] Slightly reducing the sloppiness of AI generated front end `pillar:capabilities` `score:0.55`
@@ -692,6 +694,7 @@
 - [[south-korean-forums-will-need-to-scan-every-images-with-ai-censorship-tools.md]] South Korean Forums Will Need to Scan Every Images with AI Censorship Tools `pillar:capabilities` `score:0.345`
 - [[spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo.md]] SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO `pillar:capabilities` `score:0.305`
 - [[spacexai-releases-grok-45-which-elon-describes-as-an-8216opus-class-model8217.md]] SpaceXAI releases Grok 4.5, which Elon describes as an &#8216;Opus-class model&# `pillar:capabilities` `score:0.445`
+- [[speculations-concerning-the-first-ultraintelligent-machine-1965-pdf.md]] Speculations Concerning the First Ultraintelligent Machine (1965) [pdf] `pillar:capabilities` `score:0.24`
 - [[spmallicklearnopencv.md]] spmallick/learnopencv `pillar:capabilities` `score:0.58`
 - [[spotify-adds-ai-powered-q038a-and-briefing-generation-features-to-podcasts.md]] Spotify adds AI-powered Q&#038;A and briefing generation features to podcasts `pillar:capabilities` `score:0.48`
 - [[spotify-launches-an-elevenlabs-powered-audiobook-creation-tool.md]] Spotify launches an ElevenLabs-powered audiobook creation tool `pillar:capabilities` `score:0.48`
@@ -1852,6 +1855,7 @@
 - [[meta-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-in.md]] Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come `pillar:ecosystem` `score:0.48`
 - [[meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash.md]] Meta, like SpaceX, looks to turn excess AI compute into cash `pillar:ecosystem` `score:0.48`
 - [[meta8217s-new-ai-chips-will-begin-production-in-september.md]] Meta&#8217;s new AI chips will begin production in September `pillar:ecosystem` `score:0.48`
+- [[microsoft-latest-report-shows-25-emissions-raised-due-to-ai-data-centers.md]] Microsoft latest report shows 25% emissions raised due to AI data centers `pillar:ecosystem` `score:0.26`
 - [[microsoft-launches-its-own-ai-deployment-company-with-25-billion-commitment.md]] Microsoft launches its own AI deployment company with $2.5 billion commitment `pillar:ecosystem` `score:0.48`
 - [[microsoftautogen.md]] microsoft/autogen `pillar:ecosystem` `score:0.615`
 - [[microsoftml-for-beginners.md]] microsoft/ML-For-Beginners `pillar:ecosystem` `score:0.545`
@@ -2265,6 +2269,7 @@
 - [[nvidia-has-already-committed-40b-to-equity-ai-dea.md]] Nvidia has already committed $40B to equity AI deals this year `pillar:business` `score:0.48`
 - [[openai-and-broadcom-unveil-llm-optimized-inference-chip.md]] OpenAI and Broadcom unveil LLM-optimized inference chip `pillar:business` `score:0.415`
 - [[openai-barrels-toward-ipo-that-may-happen-in-september.md]] OpenAI barrels toward IPO that may happen in September `pillar:business` `score:0.48`
+- [[openai-bets-on-families-as-chatgpt-goes-deeper-into-households.md]] OpenAI bets on families as ChatGPT goes deeper into households `pillar:business` `score:0.48`
 - [[openai-is-preparing-to-file-for-an-ipo-soon.md]] OpenAI Is Preparing to File for an IPO Soon `pillar:business` `score:0.46`
 - [[openai-leans-toward-waiting-until-next-year-for-ipo.md]] OpenAI leans toward waiting until next year for IPO `pillar:business` `score:0.55`
 - [[openai-losses-increased-nearly-8x-in-2025-with-spending-hitting-34b.md]] OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B `pillar:business` `score:0.43`
