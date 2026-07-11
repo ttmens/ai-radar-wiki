@@ -1,0 +1,25 @@
+{
+  "title": "Show HN: Reame – a CPU inference server that gets faster as it runs",
+  "score": 24,
+  "comments": 9,
+  "url": "https://github.com/swellweb/reame",
+  "hn_url": "https://news.ycombinator.com/item?id=48873417",
+  "tag": "ShowHN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference"
+  ],
+  "summary_cn": "Reame是一个创新的CPU推理服务器，其核心特性是随运行时间增加而加速。它通过持续优化推理路径和缓存机制，在无需GPU的情况下提升本地AI推理速度。对产品经理而言，这意味着低成本的本地部署方案，适合边缘计算和数据敏感场景，可能降低云推理依赖并增强隐私保护。该技术有望推动CPU上更高效的模型推理，尤其在资源受限环境中实现越用越快的体验。",
+  "pm_relevance": 8,
+  "concepts": [
+    "动态推理加速",
+    "CPU推理优化"
+  ],
+  "entities": [
+    "Reame"
+  ],
+  "patterns": [
+    "Local-First AI",
+    "Adaptive Inference"
+  ]
+}

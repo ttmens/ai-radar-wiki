@@ -5,13 +5,45 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 11 Jul 2026 16:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 20:00:47 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>OpenAI bets on families as ChatGPT goes deeper into households</title>
+      <link>https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/</link>
+      <guid isPermaLink="false">openai-bets-on-families-as-chatgpt-goes-deeper-into-households</guid>
+      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenAI 发布招聘信息，招募专门负责为家庭、照顾者和老年人设计 ChatGPT 体验的产品经理。此举标志着 OpenAI 战略重心从通用对话向垂直家庭场景迁移，旨在挖掘老龄化社会与家庭协作中的 AI 应用潜力。技术层面，ChatGPT 需适配多用户交互、隐私保护及低技术门槛；商业价值在于扩大用户基数、提升粘性并抢占家庭智能入口。产品创新体现为针对非技术群体的关怀型交互设计，可能引入家庭共享账号、儿童安全过滤、健康提醒等差异化功能。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Ghost Font: A font that humans can read but AI cannot</title>
+      <link>https://news.ycombinator.com/item?id=48870381</link>
+      <guid isPermaLink="false">ghost-font-a-font-that-humans-can-read-but-ai-cannot</guid>
+      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Ghost Font是一种特殊设计的字体，人类肉眼可正常阅读，但AI视觉系统（如OCR）无法识别。其原理是在字符中加入对抗性噪声或形状扰动，破坏机器学习模型的特征提取能力。该技术可用于内容防爬取、验证码安全、版权保护等场景，通过低成本方式实现人机区分。对AI产品经理而言，它揭示了AI视觉识别的稳健性短板，也为设计更安全的交互界面提供了新思路。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Microsoft latest report shows 25% emissions raised due to AI data centers</title>
+      <link>https://news.ycombinator.com/item?id=48870229</link>
+      <guid isPermaLink="false">microsoft-latest-report-shows-25-emissions-raised-due-to-ai-data-centers</guid>
+      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>微软最新报告指出，其碳排放因AI数据中心扩张而增加了25%，突显了AI技术发展带来的环境成本。对于AI产品经理而言，这意味着需要权衡模型能力提升与能源消耗、运营成本及可持续性目标。报告强调了数据中心效率优化、绿色能源使用等关键议题，直接影响产品部署策略和长期商业价值。产品经理应关注如何通过技术选型（如高效模型、边缘计算）减少碳足迹，同时保持竞争力。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]</title>
+      <link>https://news.ycombinator.com/item?id=48871932</link>
+      <guid isPermaLink="false">speculations-concerning-the-first-ultraintelligent-machine-1965-pdf</guid>
+      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>该文是1965年关于首个超智能机器的早期理论推测，探讨了比人类更聪明的AI可能性及其潜在影响。对于AI产品经理，它提供了对AI终极形态的哲学思考，有助于理解当前技术发展的长期愿景和风险，但缺乏直接产品落地的具体指导。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>If solar power in space is harnessed for useful work at scale, the value of that will far exceed the...</title>
       <link>https://x.com/elonmusk/status/2075753054280831365</link>
@@ -74,6 +106,44 @@
       <guid isPermaLink="false">twitter_elonmusk_2075795264627933276</guid>
       <pubDate>2026-07-11T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Bamf  https://t.co/6I6IbvKCjm</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>BREAKING: Starlink has provided new emergency connectivity support to Armenia. 🇦🇲
+
+• 56 additional k...</title>
+      <link>https://x.com/elonmusk/status/2075888291824746682</link>
+      <guid isPermaLink="false">twitter_elonmusk_2075888291824746682</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>BREAKING: Starlink has provided new emergency connectivity support to Armenia. 🇦🇲
+
+• 56 additional kits will be deployed by Armenia’s Ministry of Internal Affairs’ Rescue Service to provide connectivity during natural disasters and emergencies.
+
+• 110 Starlink terminals already connect thousands of </p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>https://t.co/GadbcJ9EzS</title>
+      <link>https://x.com/elonmusk/status/2075926721337991455</link>
+      <guid isPermaLink="false">twitter_elonmusk_2075926721337991455</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>https://t.co/GadbcJ9EzS</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>By “this” he means scamming 🤣🤣 https://t.co/yQ5wryw1Ai</title>
+      <link>https://x.com/elonmusk/status/2075926239848611976</link>
+      <guid isPermaLink="false">twitter_elonmusk_2075926239848611976</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>By “this” he means scamming 🤣🤣 https://t.co/yQ5wryw1Ai</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>He might literally love scamming more than any human alive!</title>
+      <link>https://x.com/elonmusk/status/2075926480387776675</link>
+      <guid isPermaLink="false">twitter_elonmusk_2075926480387776675</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>He might literally love scamming more than any human alive!</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -191,12 +261,78 @@ https://t.co/XA7KqfFxvV</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Every day, a new startup writes a blog post claiming they have automated software engineering 
+
+In t...</title>
+      <link>https://x.com/bindureddy/status/2075946401490669875</link>
+      <guid isPermaLink="false">twitter_bindureddy_2075946401490669875</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Every day, a new startup writes a blog post claiming they have automated software engineering 
+
+In the exact same breath they claim they are hiring more engineers 😲
+
+Well - by definition- they have not automated engineering</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>Apple sues OpenAI, accuses ex-employees of stealing trade secrets</title>
       <link>https://news.ycombinator.com/item?id=48865019</link>
       <guid isPermaLink="false">apple-sues-openai-accuses-ex-employees-of-stealing-trade-secrets</guid>
       <pubDate>2026-07-11T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>苹果公司起诉OpenAI，指控其前员工窃取与AI相关的商业机密。该诉讼涉及苹果指控这些前员工在离职后非法获取并带走了苹果的专有技术信息，可能包括AI模型训练、数据处理或硬件集成等核心机密。这一事件凸显了AI领域激烈的人才竞争与知识产权保护挑战，对产品经理而言，需关注企业如何通过法律手段维护技术壁垒，以及此类纠纷对行业合作与人才流动的潜在影响。</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Trust and security has always been crucial to large enterprises. With AI advances, it's never been m...</title>
+      <link>https://x.com/cohere/status/2075957760890413066</link>
+      <guid isPermaLink="false">twitter_cohere_2075957760890413066</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Trust and security has always been crucial to large enterprises. With AI advances, it's never been more important.
+
+The partnership between Cohere, @Nvidia, &amp;amp; @CoreWeave ensures reliability and confidence, keeping infrastructure protected at all times 🤝
+
+https://t.co/9tmNJkt09i</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>https://t.co/IPPP7v8Ejt</title>
+      <link>https://x.com/supabase/status/2075946902160576670</link>
+      <guid isPermaLink="false">twitter_supabase_2075946902160576670</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>https://t.co/IPPP7v8Ejt</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Thanks @johnNostra for reminding us of the differentiator between humans and #AI</title>
+      <link>https://x.com/JohnNosta/status/2075889803657138513</link>
+      <guid isPermaLink="false">twitter_JohnNosta_2075889803657138513</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Thanks @johnNostra for reminding us of the differentiator between humans and #AI</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>As AI teams adopt more autonomous agents, one challenge becomes clear: they don't naturally work tog...</title>
+      <link>https://x.com/databricks/status/2075971153118519677</link>
+      <guid isPermaLink="false">twitter_databricks_2075971153118519677</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>As AI teams adopt more autonomous agents, one challenge becomes clear: they don't naturally work together.
+
+Omnigent is an open-source meta-harness that sits above individual agent harnesses, routing work across multiple agents through a single orchestration layer.
+
+Instead of managing agents in iso</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>This dev came back from Iceland asking whether the work changed or they did. An honest look at burno...</title>
+      <link>https://x.com/ThePracticalDev/status/2075943363811983791</link>
+      <guid isPermaLink="false">twitter_ThePracticalDev_2075943363811983791</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>This dev came back from Iceland asking whether the work changed or they did. An honest look at burnout in the age of AI.
+
+{ author: Klaudia Grzondziel }
+
+https://t.co/g2AAsBnkX7</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Write code like a human will maintain it</title>
@@ -341,136 +477,6 @@ https://t.co/XA7KqfFxvV</p></description>
       <pubDate>2026-07-11T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Meta 新推出的 AI 图像生成/编辑功能因用户强烈反对而撤回。该功能可能涉及自动标签、内容生成或风格迁移，但在偏见、不当内容或隐私方面引发公众不满。产品经理应关注：技术部署前需充分测试伦理与偏见影响；商业价值上，快速迭代可带来关注度，但负面舆论会损害品牌信任；产品创新需结合负责任的 AI 模式。此事件凸显 AI 产品上线前进行红队测试和用户研究的重要性。</p></description>
       <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Show HN: SubjectiveZero, an open-source agentic node editor for creative coding</title>
-      <link>https://sxp.studio/apps/subz</link>
-      <guid isPermaLink="false">show-hn-subjectivezero-an-open-source-agentic-node-editor-for-creative-coding</guid>
-      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>SubjectiveZero 是一个开源的代理节点编辑器，专为创意编程设计。它允许用户通过图形化节点连接，构建具有 AI 代理能力的工作流，实现代码生成、数据处理等任务。其核心创新在于将代理机制与节点编辑范式结合，降低了创意编程的复杂度，同时保持高度可扩展性。该项目面向开发者与 AI 产品经理，提供灵活的自定义工作流模板，支持本地部署，适用于快速原型设计和教学场景。技术要点包括基于图的计算模型、代理节点可独立配置 LLM 或工具调用，以及开源社区驱动的生态建设。商业价值在于推动 AI 工具民主化，减少重复编码工作。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>𝕏 is a great platform for product announcements, especially if done by the CEO directly. Way more in...</title>
-      <link>https://x.com/elonmusk/status/2075403875410928124</link>
-      <guid isPermaLink="false">twitter_elonmusk_2075403875410928124</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>𝕏 is a great platform for product announcements, especially if done by the CEO directly. Way more interesting to the public than generic press releases.
-
-This post by Mark Zuckerberg already received over 12 million views for free!</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Starlink can now provide reliable 10Gpbs symmetric send/receive connectivity anywhere in the world</title>
-      <link>https://x.com/elonmusk/status/2075402626284368071</link>
-      <guid isPermaLink="false">twitter_elonmusk_2075402626284368071</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Starlink can now provide reliable 10Gpbs symmetric send/receive connectivity anywhere in the world</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>GROK 4.5 LEADS ON REAL PROFESSIONAL WORK BENCHMARK
-
-New data from Snorkel shows Grok 4.5 outperformi...</title>
-      <link>https://x.com/elonmusk/status/2075375036916187560</link>
-      <guid isPermaLink="false">twitter_elonmusk_2075375036916187560</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>GROK 4.5 LEADS ON REAL PROFESSIONAL WORK BENCHMARK
-
-New data from Snorkel shows Grok 4.5 outperforming other frontier models on real-world professional tasks.
-
-On their GDPval+ benchmark (expert-created workplace reasoning tasks across the economy):
-
-•  Grok 4.5: 29% mean pass rate
-•  GPT 5.5: 22%
-•</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Grok only gets better from here</title>
-      <link>https://x.com/elonmusk/status/2075387273797853612</link>
-      <guid isPermaLink="false">twitter_elonmusk_2075387273797853612</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Grok only gets better from here</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>😂</title>
-      <link>https://x.com/elonmusk/status/2075491921540034689</link>
-      <guid isPermaLink="false">twitter_elonmusk_2075491921540034689</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>😂</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>GAVIN BAKER: “Tesla and Elon have done more to decarbonize the world than all environmental activist...</title>
-      <link>https://x.com/elonmusk/status/2075480598617927810</link>
-      <guid isPermaLink="false">twitter_elonmusk_2075480598617927810</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>GAVIN BAKER: “Tesla and Elon have done more to decarbonize the world than all environmental activists combined.” https://t.co/4splBpMxAX</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Model comparison</title>
-      <link>https://x.com/elonmusk/status/2075487063848206727</link>
-      <guid isPermaLink="false">twitter_elonmusk_2075487063848206727</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Model comparison</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Founder friendly VCs in the 90's https://t.co/99wmbZWplu</title>
-      <link>https://x.com/TheAIGRID/status/2075421963745636813</link>
-      <guid isPermaLink="false">twitter_TheAIGRID_2075421963745636813</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Founder friendly VCs in the 90's https://t.co/99wmbZWplu</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>GPT-5.6 is now the preferred model in Microsoft 365 Copilot
-
-https://t.co/r2B3EJuV1A</title>
-      <link>https://x.com/sama/status/2075585386441789605</link>
-      <guid isPermaLink="false">twitter_sama_2075585386441789605</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>GPT-5.6 is now the preferred model in Microsoft 365 Copilot
-
-https://t.co/r2B3EJuV1A</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>makes us happy to see people love 5.6 sol so much!</title>
-      <link>https://x.com/sama/status/2075579646373216282</link>
-      <guid isPermaLink="false">twitter_sama_2075579646373216282</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>makes us happy to see people love 5.6 sol so much!</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>the sun is out today</title>
-      <link>https://x.com/sama/status/2075579012223787402</link>
-      <guid isPermaLink="false">twitter_sama_2075579012223787402</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>the sun is out today</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>NEW: Donald Trump has terminated the remaining members of the independent, federal commission that a...</title>
-      <link>https://x.com/ylecun/status/2075424377907052734</link>
-      <guid isPermaLink="false">twitter_ylecun_2075424377907052734</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>NEW: Donald Trump has terminated the remaining members of the independent, federal commission that assists election administration officials nationwide just a few months before the midterm elections 
-
-“It is ⁠irresponsible and dangerous that this Administration remains dead set on causing chaos for </p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>True</title>
-      <link>https://x.com/elonmusk/status/2075608188376772644</link>
-      <guid isPermaLink="false">twitter_elonmusk_2075608188376772644</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>True</p></description>
-      <category>🤖 技术能力</category>
     </item>
   </channel>
 </rss>

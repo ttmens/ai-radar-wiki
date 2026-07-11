@@ -1,8 +1,19 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T00:01:37.174349+08:00",
-  "item_count": 2,
+  "generated_at": "2026-07-12T06:02:30.191477+08:00",
+  "item_count": 10,
   "items": [
+    {
+      "id": "ai-2040-and-the-cult-of-intelligence",
+      "label": "AI 2040 and the cult of intelligence",
+      "summary": "文章探讨了2040年AI发展可能导致的“智能崇拜”现象，即人们过度相信AI的能力，而忽视其局限性与伦理风险。对产品经理而言，需警惕技术乐观主义陷阱，在规划长期AI产品时平衡能力增长与可控性。商业价值在于提前布局负责任AI框架，避免因公众信任崩塌导致的监管风险。创新点在于提出超越单纯能力提升、关注人机协作的社会设计。",
+      "pm_score": 0.55,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48874200",
+      "date": "2026-07-12"
+    },
     {
       "id": "openai-bets-on-families-as-chatgpt-goes-deeper-into-households",
       "label": "OpenAI bets on families as ChatGPT goes deeper into households",
@@ -24,10 +35,87 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48870381",
       "date": "2026-07-12"
+    },
+    {
+      "id": "who-manages-the-agents",
+      "label": "Who manages the agents?",
+      "summary": "本文探讨了在多智能体系统中如何有效管理 agent 的问题。核心挑战包括 agent 的编排、协调、监控与治理，确保它们按预期执行任务并避免冲突。这涉及到设计清晰的 agent 生命周期管理策略、任务分配机制以及异常处理流程。对于 AI 产品经理而言，理解 agent 管理体系是构建可靠、可扩展的自主系统的基础，直接影响产品的稳定性和用户体验。",
+      "pm_score": 0.445,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48874182",
+      "date": "2026-07-12"
+    },
+    {
+      "id": "reverse-centaurs-are-the-answer-to-the-ai-paradox-2025",
+      "label": "Reverse centaurs are the answer to the AI paradox (2025)",
+      "summary": "文章提出“反向半人马”模式（Reverse Centaur）作为解决AI悖论的关键，即让AI作为主要执行者，人类负责监督和决策。这种模式不同于传统的人主导AI辅助，旨在平衡AI效率与人类控制，减少信任风险，提升产品落地可行性。预计2025年成为人机协作新范式，尤其适用于AI Agent场景，为产品经理提供设计更自主且可控的AI产品思路。",
+      "pm_score": 0.43,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48873855",
+      "date": "2026-07-12"
+    },
+    {
+      "id": "modern-decor-may-be-straining-peoples-brains",
+      "label": "Modern decor may be straining people's brains",
+      "summary": "该标题暗示现代装饰（如室内设计风格）可能对人类大脑造成认知负担或压力。从AI产品视角看，这可能关联到环境感知、注意力计算或神经科学启发的人机交互设计。商业价值在于为智能家居、办公空间优化等产品提供心理学依据，但技术要点不明确。产品创新可体现在环境自适应调整的AI助手，但缺乏具体技术细节。",
+      "pm_score": 0.375,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48873424",
+      "date": "2026-07-12"
+    },
+    {
+      "id": "female-us-rower-completes-historic-solo-journey-from-california-to-hawaii",
+      "label": "Female US rower completes historic solo journey from California to Hawaii",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48873692",
+      "date": "2026-07-12"
+    },
+    {
+      "id": "ai-cant-recreate-the-thrust-game-but-it-can-help-you-understand-it",
+      "label": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
+      "summary": "本文讨论AI在重现经典游戏《Thrust》时的局限性，指出当前AI无法完全复制游戏的核心机制与体验，但能通过分析和解释帮助人类更深入理解游戏的设计逻辑与物理机制。对于AI产品经理，这提示了AI在创意、模拟和理解复杂系统方面的能力边界：直接生成可玩产品仍面临挑战，但作为辅助分析工具具有商业价值，可用于游戏教育、历史存档或设计原型验证。产品创新方向在于将AI定位为“理解伙伴”而非“创造替代品”，降低用户进入专业领域的门槛。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48865903",
+      "date": "2026-07-12"
+    },
+    {
+      "id": "show-hn-reame-a-cpu-inference-server-that-gets-faster-as-it-runs",
+      "label": "Show HN: Reame – a CPU inference server that gets faster as it runs",
+      "summary": "Reame是一个创新的CPU推理服务器，其核心特性是随运行时间增加而加速。它通过持续优化推理路径和缓存机制，在无需GPU的情况下提升本地AI推理速度。对产品经理而言，这意味着低成本的本地部署方案，适合边缘计算和数据敏感场景，可能降低云推理依赖并增强隐私保护。该技术有望推动CPU上更高效的模型推理，尤其在资源受限环境中实现越用越快的体验。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://github.com/swellweb/reame",
+      "date": "2026-07-12"
+    },
+    {
+      "id": "the-chinese-voice-actor-forced-to-prove-hes-human",
+      "label": "The Chinese Voice Actor Forced to Prove He's Human",
+      "summary": "本文报道了中国配音演员被迫自证人类身份的事件，揭示了AI语音克隆技术引发的身份认证危机。技术要点在于深度伪造检测与生物特征验证的不足，商业价值体现在语音合成产品需内置防伪机制以维护信任，产品创新方向可包括动态声纹水印、实时声源溯源等。该事件警示AI产品需平衡便利性与安全性。",
+      "pm_score": 0.33,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48875153",
+      "date": "2026-07-12"
     }
   ],
   "graph_totals": {
-    "real_nodes": 3689,
-    "edges": 3999
+    "real_nodes": 3710,
+    "edges": 4020
   }
 }

@@ -2696,3 +2696,13 @@
 - create: ghost-font-a-font-that-humans-can-read-but-ai-cannot.md
 - create: microsoft-latest-report-shows-25-emissions-raised-due-to-ai-data-centers.md
 - create: openai-bets-on-families-as-chatgpt-goes-deeper-into-households.md
+
+## [2026-07-12 06:02] sync v3 | 8 new | pillars: {'capabilities': 6, 'patterns': 2}
+- create: female-us-rower-completes-historic-solo-journey-from-california-to-hawaii.md
+- create: the-chinese-voice-actor-forced-to-prove-hes-human.md
+- create: ai-2040-and-the-cult-of-intelligence.md
+- create: reverse-centaurs-are-the-answer-to-the-ai-paradox-2025.md
+- create: ai-cant-recreate-the-thrust-game-but-it-can-help-you-understand-it.md
+- create: who-manages-the-agents.md
+- create: modern-decor-may-be-straining-peoples-brains.md
+- create: show-hn-reame-a-cpu-inference-server-that-gets-faster-as-it-runs.md
