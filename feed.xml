@@ -5,13 +5,21 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 10 Jul 2026 20:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 04:00:43 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]</title>
+      <link>https://news.ycombinator.com/item?id=48863490</link>
+      <guid isPermaLink="false">gpt-56-sol-ultra-produces-proof-of-the-cycle-double-cover-conjecture-pdf</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>此内容报道了GPT-5.6 Sol Ultra模型成功证明了图论中的循环双覆盖猜想，展示了AI在高级数学推理和定理证明上的突破性能力。对AI产品经理而言，这意味着未来可以将AI用于自动化科研、数学辅助工具、教育产品等，显著拓展AI在科学发现领域的应用边界。该成果也验证了大规模语言模型在符号推理和逻辑推导上的潜力，可能催生新的产品形态，如面向研究人员的智能证明助手或交互式数学学习平台。同时，这也对AI模型的可解释性和可靠性提出更高要求，产品设计需考虑验证机制与用户信任。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>Write code like a human will maintain it</title>
       <link>https://news.ycombinator.com/item?id=48859701</link>
@@ -21,12 +29,92 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to bui</title>
+      <link>https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/</link>
+      <guid isPermaLink="false">sk-hynix-raises-265b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>SK海力士完成美国历史上规模最大的外国IPO，融资265亿美元，凸显AI芯片需求爆发。作为HBM（高带宽内存）关键供应商，其产品直接支撑大模型训练与推理性能。公司被敦促在美建厂，旨在缓解供应链风险并提升产能。此举不仅强化AI基础设施核心环节，也为未来长上下文、多模态模型提供存储基础。对AI产品经理而言，存储技术演进将影响模型成本、延迟和用户体验，需关注HBM及下一代内存技术对产品架构的潜在变革。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Hugging Face&amp;#8217;s CEO on why companies are done renting their AI</title>
+      <link>https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/</link>
+      <guid isPermaLink="false">hugging-face8217s-ceo-on-why-companies-are-done-renting-their-ai</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Hugging Face CEO 指出企业正从租用商业 AI API 转向拥抱开源 AI，其平台已成为类似 GitHub 的 AI 协作中心，一半财富 500 强公司正在使用。开源模型和数据集共享降低了企业依赖单一供应商的风险和成本，同时加速了模型定制与迭代。这一趋势将重塑 AI 产品的开发与交付模式，产品经理应关注基于开源生态构建差异化功能、降低推理成本以及利用社区贡献快速迭代产品。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>How the terrorist group Boko Haram uses frontier AI</title>
+      <link>https://news.ycombinator.com/item?id=48863707</link>
+      <guid isPermaLink="false">how-the-terrorist-group-boko-haram-uses-frontier-ai</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文分析恐怖组织博科圣地如何利用前沿AI技术（如生成式大模型）进行宣传、策划和自动化攻击。报告揭示AI的双刃剑效应：先进能力可能被恶意滥用，包括深度伪造内容、自动化社交工程和战术规划辅助。产品经理需警惕此类风险，在产品设计中嵌入安全护栏、滥用检测和伦理审查机制，平衡创新与责任。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Open source AI matters more than ever, according to Hugging Face&amp;#8217;s Clem De</title>
+      <link>https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/</link>
+      <guid isPermaLink="false">open-source-ai-matters-more-than-ever-according-to-hugging-face8217s-clem-delang</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Hugging Face CEO Clem Delangue强调开源AI比以往更重要。该公司已发展为AI领域的GitHub，提供开源模型与数据集的共享与下载平台，目前约半数财富500强企业正在使用其服务。开源AI生态的繁荣降低了企业接入先进AI能力的门槛，促进了模型协作与创新。对于AI产品经理而言，这意味着可以更灵活地选择开源模型进行定制化开发，同时降低对闭源供应商的依赖，加速产品迭代并控制成本。Hugging Face作为基础设施平台，正在推动AI民主化和生态系统建设。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Apple sues OpenAI over alleged trade secret theft</title>
+      <link>https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/</link>
+      <guid isPermaLink="false">apple-sues-openai-over-alleged-trade-secret-theft</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>苹果起诉OpenAI，指控其由包括一名长期前员工在内的高级领导层指导窃取商业秘密。这起诉讼突显了AI行业日益激烈的竞争及知识产权保护的重要性，对产品经理而言，案例警示了在人才流动中需加强商业机密的管控，也反映了巨头间围绕核心技术的法律博弈，可能影响未来AI产品的开发与合作模式。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Don't discontinue Gemini 2.5 Flash</title>
+      <link>https://news.ycombinator.com/item?id=48864507</link>
+      <guid isPermaLink="false">dont-discontinue-gemini-25-flash</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>标题呼吁不要停止 Gemini 2.5 Flash 模型，暗示该模型对开发者或产品有重要价值。作为 Google 推出的轻量高性能版本，2.5 Flash 在推理速度、成本优化或特定场景能力上可能具有优势，若被终止将影响依赖其构建产品的 AI 产品经理。该事件提醒 PM 需关注基础模型版本的生命周期管理和技术栈连续性决策。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Reviving my 2001 college band with AI</title>
+      <link>https://news.ycombinator.com/item?id=48851476</link>
+      <guid isPermaLink="false">show-hn-reviving-my-2001-college-band-with-ai</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该项目利用生成式AI技术，复活了作者2001年大学乐队的音乐作品，可能涉及声音克隆、歌曲生成或音频修复。对于AI产品经理，这展示了AI在怀旧情感娱乐和个性化内容创作中的潜力，商业价值在于降低音乐制作门槛、创新粉丝互动方式。技术要点包括基于少量样本的语音/乐器合成、音轨分离与增强，以及情感化生成。产品创新点是将个人记忆与AI创作结合，打造独特体验。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps</title>
+      <link>https://news.ycombinator.com/item?id=48865093</link>
+      <guid isPermaLink="false">gpt-56-grok-45-claude-and-muse-spark-build-the-same-4-apps</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>多个前沿大模型（GPT-5.6、Grok 4.5、Claude、Muse Spark）被用于构建相同的4个应用，展示了模型在基础任务上的能力趋同。对产品经理而言，这意味模型选择从功能比较转向成本、延迟、生态等差异化维度，需关注各模型在具体场景中的实际表现与商业授权。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>iOfficeAI/AionUi</title>
       <link>https://github.com/iOfficeAI/AionUi</link>
       <guid isPermaLink="false">iofficeaiaionui</guid>
       <pubDate>2026-07-11T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> github</p><hr/><p>Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!</p></description>
       <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Hands-On with the AMD Ryzen AI Halo</title>
+      <link>https://news.ycombinator.com/item?id=48861833</link>
+      <guid isPermaLink="false">hands-on-with-the-amd-ryzen-ai-halo</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>AMD Ryzen AI Halo 是 AMD 最新集成 NPU 的处理器系列，专为本地 AI 推理优化。它结合了 Zen CPU 架构与专用 AI 加速引擎，支持低功耗的端侧大模型运行（如 Llama、Stable Diffusion），无需依赖云端。该产品大幅提升 PC 的 AI 能力，可赋能实时抠图、会议降噪、代码补全等场景。对产品经理而言，这意味着可在个人设备上部署高隐私、低延迟的 AI 功能，降低云服务成本，并催生下一代 AI PC 应用生态。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Snails' teeth beats spider silk as nature's strongest material (2015)</title>
+      <link>https://news.ycombinator.com/item?id=48862252</link>
+      <guid isPermaLink="false">snails-teeth-beats-spider-silk-as-natures-strongest-material-2015</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>根据2015年的研究报道，蜗牛的牙齿被证实为自然界最强的材料，其抗拉强度甚至超过了蜘蛛丝。该发现源自对蜗牛齿舌（radula）上矿化牙齿的力学测试，这种牙齿由针铁矿（goethite）纳米纤维嵌入蛋白质基质构成，兼具高强度与韧性。尽管该研究与AI无直接关联，但其生物材料微观结构设计思路可能为AI驱动的材料发现（如生成式优化复合材料）提供启发。产品经理可关注生物仿生数据如何被收集、建模并转化为工程材料数据库，进而支持AI在新能源、航天等领域的应用创新。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't</title>
@@ -183,6 +271,123 @@ https://t.co/r2B3EJuV1A</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Hello beautiful people! We have reset usage limits across Codex and ChatGPT Work. And another one wi...</title>
+      <link>https://x.com/sama/status/2075641131002700120</link>
+      <guid isPermaLink="false">twitter_sama_2075641131002700120</guid>
+      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Hello beautiful people! We have reset usage limits across Codex and ChatGPT Work. And another one will come later in the day. Rejoice.
+
+Now that I have your attention, a quick update on ChatGPT Work, Codex and all the updates we shared yesterday.
+
+We’ve spent the last 24 hours reading feedback, look</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Today, together with @kyutai_labs, we’re introducing our new Audio-to-MIDI model.
+
+It takes a finish...</title>
+      <link>https://x.com/ylecun/status/2075536492177354771</link>
+      <guid isPermaLink="false">twitter_ylecun_2075536492177354771</guid>
+      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Today, together with @kyutai_labs, we’re introducing our new Audio-to-MIDI model.
+
+It takes a finished recording, identifies the instruments playing, and returns separate MIDI tracks for each — voice, drums, bass, keys, and more.
+
+Unlike most existing solutions, our model works directly from the ful</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Try Grok 4.5 in Perplexity</title>
+      <link>https://x.com/elonmusk/status/2075687836091625704</link>
+      <guid isPermaLink="false">twitter_elonmusk_2075687836091625704</guid>
+      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Try Grok 4.5 in Perplexity</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Grok is closing the loop on real-world use cases</title>
+      <link>https://x.com/elonmusk/status/2075611819872223385</link>
+      <guid isPermaLink="false">twitter_elonmusk_2075611819872223385</guid>
+      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Grok is closing the loop on real-world use cases</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>GPT-5.6 is a major step forward for health intelligence.
+
+Across the lineup, we’re delivering strong...</title>
+      <link>https://x.com/OpenAI/status/2075686461693898868</link>
+      <guid isPermaLink="false">twitter_OpenAI_2075686461693898868</guid>
+      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>GPT-5.6 is a major step forward for health intelligence.
+
+Across the lineup, we’re delivering stronger performance at lower cost: GPT-5.6 Luna outperforms GPT-5.5 at its highest reasoning setting while costing 25x less.
+
+Together, these advances raise quality while making advanced models accessible </p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Hello beautiful people! We have reset usage limits across Codex and ChatGPT Work. And another one wi...</title>
+      <link>https://x.com/OpenAI/status/2075641131002700120</link>
+      <guid isPermaLink="false">twitter_OpenAI_2075641131002700120</guid>
+      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Hello beautiful people! We have reset usage limits across Codex and ChatGPT Work. And another one will come later in the day. Rejoice.
+
+Now that I have your attention, a quick update on ChatGPT Work, Codex and all the updates we shared yesterday.
+
+We’ve spent the last 24 hours reading feedback, look</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Yesterday, we made GPT-5.6 Sol Ultra generally available. Today, we're sharing that it produced a pr...</title>
+      <link>https://x.com/OpenAI/status/2075643450196971805</link>
+      <guid isPermaLink="false">twitter_OpenAI_2075643450196971805</guid>
+      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Yesterday, we made GPT-5.6 Sol Ultra generally available. Today, we're sharing that it produced a proof of the 50-year-old Cycle Double Cover Conjecture using 64 subagents in just under one hour. We're sharing the prompt and proof below. We're excited to see what you all do with Ultra!</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>As part of our ongoing efforts to strengthen our safeguards for advanced AI capabilities in biology,...</title>
+      <link>https://x.com/OpenAI/status/2075647722766614733</link>
+      <guid isPermaLink="false">twitter_OpenAI_2075647722766614733</guid>
+      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>As part of our ongoing efforts to strengthen our safeguards for advanced AI capabilities in biology, we’re evolving our Bio Bug Bounty into an ongoing private program, known as the OpenAI Bio Bug Bounty program and doubling rewards to $50K.
+
+We’re inviting researchers with experience in AI red teami</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Hugging Face Gemma Challenge results are in! 📈
+
+Over 6 days, more than 100 AI agents and humans coll...</title>
+      <link>https://x.com/_akhaliq/status/2075611948985835877</link>
+      <guid isPermaLink="false">twitter__akhaliq_2075611948985835877</guid>
+      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.9/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Hugging Face Gemma Challenge results are in! 📈
+
+Over 6 days, more than 100 AI agents and humans collaborated to make Gemma 4 inference 5x faster on a single NVIDIA A10G GPU.
+
+- Fastest result: 491.8 TPS (fastest overall, but resulted in a drop in model quality in other areas)
+- Fastest lossless: 315</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>🎯 If Trump were actively trying to destroy American advantages, to create chaos and strife that he a...</title>
+      <link>https://x.com/ylecun/status/2075604270552932762</link>
+      <guid isPermaLink="false">twitter_ylecun_2075604270552932762</guid>
+      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.8/10</p><p><strong>类型:</strong> tweet</p><hr/><p>🎯 If Trump were actively trying to destroy American advantages, to create chaos and strife that he and his ilk could exploit, what would he do differently?</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Love this end-to-end example from @jeffhollan of what is now possible when you build long-running ag...</title>
+      <link>https://x.com/satyanadella/status/2075616733503853044</link>
+      <guid isPermaLink="false">twitter_satyanadella_2075616733503853044</guid>
+      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.8/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Love this end-to-end example from @jeffhollan of what is now possible when you build long-running agents with Foundry. All now GA.</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>We’re Hiring: Software Engineer (R&amp;D, Infrastructure and Platform Reliability) 🐟
 
 https://t.co/Wqsay...</title>
@@ -238,6 +443,21 @@ A massive leap in intelligence</p></description>
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>A model’s chain of thought acts like a scratch pad, offering a window into its reasoning. 📝
+
+On the ...</title>
+      <link>https://x.com/GoogleDeepMind/status/2075620281515929716</link>
+      <guid isPermaLink="false">twitter_GoogleDeepMind_2075620281515929716</guid>
+      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>A model’s chain of thought acts like a scratch pad, offering a window into its reasoning. 📝
+
+On the latest episode of our podcast, host @fryrsquared sits down with @NeelNanda5 to explore interpretability – the science of reverse engineering how neural networks learn and think.
+
+Timecodes:
+00:00 Intr</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>We're doing a live build with TRAE: full-stack app, prompt to deployed, with Auth, Storage, and a se...</title>
       <link>https://x.com/supabase/status/2075379640156229722</link>
       <guid isPermaLink="false">twitter_supabase_2075379640156229722</guid>
@@ -273,238 +493,6 @@ Anthr...</title>
       <pubDate>2026-07-10T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Why are we acting as though GPT-5.6 and Fable 5 are equivalent launches when Fable represents 
 Anthropic moving above the entire Opus class? https://t.co/9GK01DYUQa</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Skills as cheat sheets, codebases pruned like bonsai: Rody Davis on scaling impact with agents.
-
-{ a...</title>
-      <link>https://x.com/ThePracticalDev/status/2075495742920151074</link>
-      <guid isPermaLink="false">twitter_ThePracticalDev_2075495742920151074</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Skills as cheat sheets, codebases pruned like bonsai: Rody Davis on scaling impact with agents.
-
-{ author: @shirmeir86 + @GoogleAI }
-
-https://t.co/33BBCQkbgW</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Every access control breeds an evasion, and the cost lands on people trading biometrics for under $3...</title>
-      <link>https://x.com/ThePracticalDev/status/2075431070661492812</link>
-      <guid isPermaLink="false">twitter_ThePracticalDev_2075431070661492812</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Every access control breeds an evasion, and the cost lands on people trading biometrics for under $30. This dev traces the supply chain behind AI access.
-
-{ author: @dannwaneri }
-
-https://t.co/oGuc7ry8m3</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>GPT-5.6</title>
-      <link>https://news.ycombinator.com/item?id=48849066</link>
-      <guid isPermaLink="false">gpt-56</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> hn</p><hr/><p>GPT-5.6 作为 OpenAI 下一代模型版本，推测将在上下文长度、推理能力或多模态融合上实现突破。对 AI 产品经理而言，需关注其能力提升对现有产品架构的影响，例如更长的上下文记忆可支撑更复杂的对话或文档分析场景，增强的推理能力则可能解锁自动化决策类应用。同时，新版本可能带来成本与性能的权衡，影响商业化策略。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Tired of winning</title>
-      <link>https://x.com/ylecun/status/2075574336656994736</link>
-      <guid isPermaLink="false">twitter_ylecun_2075574336656994736</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Tired of winning</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>It's incredible to me that 9 months ago we didnt have an office, and now we have a fully functional ...</title>
-      <link>https://x.com/ylecun/status/2075502895257022508</link>
-      <guid isPermaLink="false">twitter_ylecun_2075502895257022508</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>It's incredible to me that 9 months ago we didnt have an office, and now we have a fully functional humanoid and  an efficient AI! So proud of the team 🤠</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>One of my first journeys in neural networks started over a decade ago with implementing CPPN-NEAT! B...</title>
-      <link>https://x.com/hardmaru/status/2075585438837051680</link>
-      <guid isPermaLink="false">twitter_hardmaru_2075585438837051680</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>One of my first journeys in neural networks started over a decade ago with implementing CPPN-NEAT! Back then, I built a clone of ‘Picbreeder’ not only to study the mechanics of neural nets, but to explore the human creativity process itself, and generate some cool abstract art.
-
-Neurogram: https://t</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Run Transcribe Arabic locally on your MacBook thanks to @Prince_Canuma and @lllucas 🚀
-
-Keep track of...</title>
-      <link>https://x.com/cohere/status/2075582467646353873</link>
-      <guid isPermaLink="false">twitter_cohere_2075582467646353873</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Run Transcribe Arabic locally on your MacBook thanks to @Prince_Canuma and @lllucas 🚀
-
-Keep track of meetings, dictate voice notes, and more. Ran locally via mlx-audio
-
-https://t.co/YvCCnwfaF4</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Lovable lets anyone build software by just describing it.
-
-1 million new projects get created on Lov...</title>
-      <link>https://x.com/supabase/status/2075589624878039355</link>
-      <guid isPermaLink="false">twitter_supabase_2075589624878039355</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Lovable lets anyone build software by just describing it.
-
-1 million new projects get created on Lovable every week. Most of them get a full backend from Supabase, automatically provisioned through a single API call. 💫 
-
-Full story → https://t.co/2Qdivn6AuH</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>I made an app that lets you watch World Cup games on your desk!
-
-It projects a soccer field onto you...</title>
-      <link>https://x.com/supabase/status/2075573329394794817</link>
-      <guid isPermaLink="false">twitter_supabase_2075573329394794817</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>I made an app that lets you watch World Cup games on your desk!
-
-It projects a soccer field onto your desk, displaying various game stats and player info. You can play back past games or watch live game stats as they happen!
-
-Built with ARKit and Supabase! Full video coming! https://t.co/fh70FAbvBN</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>ChatGPT Work</title>
-      <link>https://news.ycombinator.com/item?id=48849059</link>
-      <guid isPermaLink="false">chatgpt-work</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>ChatGPT Work 是 OpenAI 推出的面向工作场景的 AI 产品，专注于提升办公效率与自动化。技术要点包括对长上下文的理解、多步骤任务执行能力以及与企业工具的集成。商业价值在于降低重复性工作成本，赋能知识型员工。产品创新体现在将对话式 AI 与工作流深度结合，支持文档生成、数据分析、代码辅助等功能，有望成为企业级生产力新入口。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Here is a visualization of the AI Picbreeder engine in action. (From our blog: https://t.co/hrLhTsIM...</title>
-      <link>https://x.com/hardmaru/status/2075596367087767564</link>
-      <guid isPermaLink="false">twitter_hardmaru_2075596367087767564</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Here is a visualization of the AI Picbreeder engine in action. (From our blog: https://t.co/hrLhTsIMfe)
-
-To recreate a collaborative human ecosystem, we run 10 VLM “breeder” agents in parallel.
-
-These agents constantly sample from a shared archive, interactively evolve new candidates through mutatio</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>guys this was in 2024 lmao https://t.co/TpvfmVW7j1</title>
-      <link>https://x.com/swyx/status/2075590599428931699</link>
-      <guid isPermaLink="false">twitter_swyx_2075590599428931699</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>guys this was in 2024 lmao https://t.co/TpvfmVW7j1</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>NFL Players Face Fourfold Increase in Neurodegenerative Mortality
-                                  ...</title>
-      <link>https://x.com/JohnNosta/status/2075525362197422528</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2075525362197422528</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>NFL Players Face Fourfold Increase in Neurodegenerative Mortality
-                                                                                                                                                                                                                                          </p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Genie One is the data-smart AI coworker that helps business users move from insight to action.
-
-With...</title>
-      <link>https://x.com/databricks/status/2075600213528522942</link>
-      <guid isPermaLink="false">twitter_databricks_2075600213528522942</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Genie One is the data-smart AI coworker that helps business users move from insight to action.
-
-With Genie Agents, teams can turn prompts into shareable, autonomous agents that reason over structured and unstructured data. Genie Ontology provides the context layer that helps those agents identify tr</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>OPSD-V
-
-On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators https...</title>
-      <link>https://x.com/_akhaliq/status/2075607878405075110</link>
-      <guid isPermaLink="false">twitter__akhaliq_2075607878405075110</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>OPSD-V
-
-On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators https://t.co/y28NXEeoRe</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>paper: https://t.co/DV37EjHRee</title>
-      <link>https://x.com/_akhaliq/status/2075607880326082732</link>
-      <guid isPermaLink="false">twitter__akhaliq_2075607880326082732</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>paper: https://t.co/DV37EjHRee</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Vidu S1
-
-A Real-Time Interactive Video Generation Model https://t.co/M4LbBbmr3S</title>
-      <link>https://x.com/_akhaliq/status/2075607448056893935</link>
-      <guid isPermaLink="false">twitter__akhaliq_2075607448056893935</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Vidu S1
-
-A Real-Time Interactive Video Generation Model https://t.co/M4LbBbmr3S</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>paper: https://t.co/8FvCqRM5wC</title>
-      <link>https://x.com/_akhaliq/status/2075607449701089412</link>
-      <guid isPermaLink="false">twitter__akhaliq_2075607449701089412</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>paper: https://t.co/8FvCqRM5wC</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>e2b-dev/awesome-ai-agents</title>
-      <link>https://github.com/e2b-dev/awesome-ai-agents</link>
-      <guid isPermaLink="false">e2b-devawesome-ai-agents</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> github</p><hr/><p>该GitHub资源汇总了多种AI自主智能体（autonomous agents）的实现与项目，覆盖从简单任务自动化到复杂决策系统的不同模式。对于产品经理而言，它提供了快速了解当前agent生态的入口，有助于识别产品创新方向（如将LLM与工具调用、记忆机制结合），以及评估商业价值（如降本增效、新交互范式）。技术要点包括多种agent框架、工具使用、长期记忆与反思机制。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>OpenAI says GPT 5.6 is the &amp;#8216;preferred model&amp;#8217; for Microsoft Copilot 3</title>
-      <link>https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/</link>
-      <guid isPermaLink="false">openai-says-gpt-56-is-the-8216preferred-model8217-for-microsoft-copilot-365-amid</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenAI 发布 GPT-5.6 模型，并将其定位为 Microsoft Copilot 365 的首选模型，延续了双方在办公与生产力场景的深度合作。对产品经理而言，这意味着 Copilot 将获得更强大的底层推理与生成能力，可能带来更精准的文档分析、邮件撰写、会议总结等功能升级。商业层面，该模式强化了微软企业级 AI 产品的壁垒，同时 OpenAI 获得稳定的落地场景与收入。产品创新体现在模型选择的显性化——企业用户将能感知到“首选模型”的差异，为未来多模型动态调配铺平道路。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits</title>
-      <link>https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/</link>
-      <guid isPermaLink="false">anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Anthropic、OpenAI和SpaceX三大AI公司即将IPO，预计产生的价值将超过2000年以来所有美国风投支持的科技公司退出总和。这一趋势凸显了AI领域资本高度集中与商业爆发力，AI产品经理应关注头部企业通过大模型商业化（如API服务、企业订阅）实现千亿美元估值，以及“太空+AI”跨界生态的潜力，这预示着未来产品创新将更依赖基础设施层与场景化的深度融合。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Can AI answer the $3 trillion question?</title>
-      <link>https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/</link>
-      <guid isPermaLink="false">can-ai-answer-the-3-trillion-question</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>文章聚焦AI投资回报率（ROI）的争议，指出相关数字已升至3万亿美元规模，决策后果更加严峻。AI产品经理需关注：技术能力是否真正转化为商业价值，大规模投入下如何量化效率提升与收益增长。文章暗示当前AI领域的商业论证进入关键阶段，产品创新需要更精准地关联成本和效益，避免陷入技术迷信。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>New York Times says OpenAI hid evidence in ChatGPT copyright trial</title>
-      <link>https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/</link>
-      <guid isPermaLink="false">new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial</guid>
-      <pubDate>2026-07-10T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>纽约时报等新闻出版商指控OpenAI在ChatGPT版权诉讼中故意隐藏关键证据，包括可用于识别ChatGPT输出内容中受版权保护的新闻文章的工具与数据集。出版商已向法院提交新的制裁动议，要求追究OpenAI隐匿证据的责任。此案凸显了AI模型训练数据合规性、输出内容溯源与版权透明的重大挑战。对AI产品经理而言，这警示需要建立更严格的训练数据授权审查机制，并开发模型输出版权标记与检测功能，以降低法律风险，同时推动内容生态的公平授权模式。</p></description>
       <category>💰 商业趋势</category>
     </item>
   </channel>

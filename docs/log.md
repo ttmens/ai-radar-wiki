@@ -2682,3 +2682,11 @@
 - create: open-source-ai-matters-more-than-ever-according-to-hugging-face8217s-clem-delang.md
 - create: sk-hynix-raises-265b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build.md
 - create: hugging-face8217s-ceo-on-why-companies-are-done-renting-their-ai.md
+
+## [2026-07-11 12:01] sync v3 | 6 new | pillars: {'capabilities': 5, 'patterns': 1}
+- create: apple-sues-openai-accuses-ex-employees-of-stealing-trade-secrets.md
+- create: inference-optimization-for-mimo-v25-pushing-hybrid-swa-efficiency-to-the-limit.md
+- create: ai-2040-plan-a.md
+- create: meta-pulls-new-ai-image-feature-after-days-of-backlash.md
+- create: meta-removes-controversial-ai-feature-on-instagram-after-backlash.md
+- create: show-hn-subjectivezero-an-open-source-agentic-node-editor-for-creative-coding.md

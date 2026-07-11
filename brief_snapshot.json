@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
-  "generated_at": "2026-07-11T06:01:54.520244+08:00",
-  "item_count": 14,
+  "generated_at": "2026-07-11T12:01:34.645154+08:00",
+  "item_count": 19,
   "items": [
     {
       "id": "gpt-56-sol-ultra-produces-proof-of-the-cycle-double-cover-conjecture-pdf",
@@ -12,6 +12,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48863490",
+      "date": "2026-07-11"
+    },
+    {
+      "id": "apple-sues-openai-accuses-ex-employees-of-stealing-trade-secrets",
+      "label": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "summary": "苹果公司起诉OpenAI，指控其前员工窃取与AI相关的商业机密。该诉讼涉及苹果指控这些前员工在离职后非法获取并带走了苹果的专有技术信息，可能包括AI模型训练、数据处理或硬件集成等核心机密。这一事件凸显了AI领域激烈的人才竞争与知识产权保护挑战，对产品经理而言，需关注企业如何通过法律手段维护技术壁垒，以及此类纠纷对行业合作与人才流动的潜在影响。",
+      "pm_score": 0.61,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48865019",
       "date": "2026-07-11"
     },
     {
@@ -34,6 +45,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "date": "2026-07-11"
+    },
+    {
+      "id": "meta-removes-controversial-ai-feature-on-instagram-after-backlash",
+      "label": "Meta removes controversial AI feature on Instagram after backlash",
+      "summary": "Meta因用户强烈反对，撤下了Instagram上一个允许AI引用用户公开内容的创意工具。该功能原本旨在提供新的创作方式并赋予用户控制权，但未能达到预期。此事件突显了AI产品中用户信任与透明控制的重要性，以及功能上线前需充分评估公众接受度。对AI产品经理而言，这是关于如何在创新与用户期望之间取得平衡的案例，强调了迭代反馈机制和负责任AI治理的必要性。",
+      "pm_score": 0.515,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
       "date": "2026-07-11"
     },
     {
@@ -67,6 +89,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "date": "2026-07-11"
+    },
+    {
+      "id": "ai-2040-plan-a",
+      "label": "AI 2040: Plan A",
+      "summary": "本文基于Hacker News讨论，题为《AI 2040: Plan A》，指向AI领域到2040年的战略规划。虽无详细摘要，但标题暗示对AI长期能力演进的乐观预测，可能涉及通用人工智能（AGI）的实现路径、技术架构或产业影响。对于AI产品经理，该内容提示需关注AI发展的时间线预期，以及如何在当前产品中融入长期适应性设计。技术要点可能包括持续学习、自我优化等能力，商业价值体现在先发布局带来的竞争优势，产品创新则可能围绕人机协作的新范式展开。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48848425",
       "date": "2026-07-11"
     },
     {
@@ -114,6 +147,17 @@
       "date": "2026-07-11"
     },
     {
+      "id": "inference-optimization-for-mimo-v25-pushing-hybrid-swa-efficiency-to-the-limit",
+      "label": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
+      "summary": "MiMo v2.5在推理优化方面取得突破，通过混合滑动窗口注意力（SWA）机制大幅提升效率。该技术旨在降低长序列推理的计算开销，同时保持模型质量，可直接降低云端或边缘部署的推理成本，提升响应速度。对于AI产品经理，这意味着更经济的实时对话、文档分析等高上下文长度产品成为可能，并为模型架构创新提供方向。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48814170",
+      "date": "2026-07-11"
+    },
+    {
       "id": "iofficeaiaionui",
       "label": "iOfficeAI/AionUi",
       "summary": "Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!",
@@ -156,10 +200,21 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48858171",
       "date": "2026-07-11"
+    },
+    {
+      "id": "meta-pulls-new-ai-image-feature-after-days-of-backlash",
+      "label": "Meta pulls new AI image feature after days of backlash",
+      "summary": "Meta 新推出的 AI 图像生成/编辑功能因用户强烈反对而撤回。该功能可能涉及自动标签、内容生成或风格迁移，但在偏见、不当内容或隐私方面引发公众不满。产品经理应关注：技术部署前需充分测试伦理与偏见影响；商业价值上，快速迭代可带来关注度，但负面舆论会损害品牌信任；产品创新需结合负责任的 AI 模式。此事件凸显 AI 产品上线前进行红队测试和用户研究的重要性。",
+      "pm_score": 0.33,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48867233",
+      "date": "2026-07-11"
     }
   ],
   "graph_totals": {
-    "real_nodes": 3614,
-    "edges": 3923
+    "real_nodes": 3660,
+    "edges": 3969
   }
 }

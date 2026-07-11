@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-11 | Total pages: 2435
+> Last updated: 2026-07-11 | Total pages: 2441
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -38,6 +38,7 @@
 - [[age-verification-is-just-a-precursor-to-automated-attribution-of-speech.md]] Age verification is just a precursor to automated attribution of speech `pillar:capabilities` `score:0.63`
 - [[ageronhandson-ml.md]] ageron/handson-ml `pillar:capabilities` `score:0.51`
 - [[aging-and-eye-problems.md]] Aging and Eye Problems `pillar:capabilities` `score:0.395`
+- [[ai-2040-plan-a.md]] AI 2040: Plan A `pillar:capabilities` `score:0.48`
 - [[ai-ashby-engineering-and-the-future.md]] AI, Ashby Engineering, and the future `pillar:capabilities` `score:0.36`
 - [[ai-built-a-nuke-and-still-lost.md]] AI Built a Nuke and Still Lost `pillar:capabilities` `score:0.395`
 - [[ai-changes-the-economics-of-software-rewrites.md]] AI changes the economics of software rewrites `pillar:capabilities` `score:0.5`
@@ -356,6 +357,7 @@
 - [[in-the-weights-is-your-new-ai-centric-vanity-search.md]] In the Weights is your new AI-centric vanity search `pillar:capabilities` `score:0.41`
 - [[indian-tech-tycoon-bets-30m-of-his-own-money-to-build-ai-alternative-to-microsof.md]] Indian tech tycoon bets $30M of his own money to build AI alternative to Microso `pillar:capabilities` `score:0.515`
 - [[inference-cost-at-scale-with-napkin-math.md]] Inference cost at scale with napkin math `pillar:capabilities` `score:0.38`
+- [[inference-optimization-for-mimo-v25-pushing-hybrid-swa-efficiency-to-the-limit.md]] Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit `pillar:capabilities` `score:0.43`
 - [[infomaniak-transitions-to-a-foundation-model-to-protect-user-data-privacy.md]] Infomaniak transitions to a foundation model to protect user data privacy `pillar:capabilities` `score:0.415`
 - [[inside-faiss-billion-scale-similarity-search.md]] Inside FAISS: Billion-Scale Similarity Search `pillar:capabilities` `score:0.415`
 - [[interfaze-a-new-model-architecture-built-for-high.md]] Interfaze: A new model architecture built for high accuracy at scale `pillar:capabilities` `score:0.205`
@@ -1485,6 +1487,7 @@
 - [[mens-average-testosterone-levels-have-halved-in-last-50-years.md]] Men's average testosterone levels have halved in last 50 years `pillar:patterns` `score:0.12`
 - [[meta-confirms-1000s-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot.md]] Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot `pillar:patterns` `score:0.615`
 - [[meta-enters-the-crowded-ai-coding-battle-with-muse-spark-11.md]] Meta enters the crowded AI coding battle with Muse Spark 1.1 `pillar:patterns` `score:0.48`
+- [[meta-removes-controversial-ai-feature-on-instagram-after-backlash.md]] Meta removes controversial AI feature on Instagram after backlash `pillar:patterns` `score:0.515`
 - [[meta-rolls-out-a-new-ai-creator-assistant-on-facebook.md]] Meta rolls out a new AI creator assistant on Facebook `pillar:patterns` `score:0.48`
 - [[micro-agent-beat-frontier-models-with-collaboration-inside-model-api.md]] Micro-Agent: Beat Frontier Models with Collaboration Inside Model API `pillar:patterns` `score:0.33`
 - [[microsoft-announces-scout-an-autonomous-ai-agent-built-on-openclaw.md]] Microsoft announces Scout, an autonomous AI agent built on OpenClaw `pillar:patterns` `score:0.515`
@@ -1604,6 +1607,7 @@
 - [[show-hn-skill-for-your-agent-to-visualize-your-gbrain-and-obsidian.md]] Show HN: Skill for your agent to visualize your gbrain and Obsidian `pillar:patterns` `score:0.295`
 - [[show-hn-slayer-a-semantic-layer-maintained-by-yo.md]] Show HN: SLayer, a semantic layer maintained by your agent `pillar:patterns` `score:0.33`
 - [[show-hn-statewright-visual-state-machines-that.md]] Show HN: Statewright – Visual state machines that make AI agents reliable `pillar:patterns` `score:0.33`
+- [[show-hn-subjectivezero-an-open-source-agentic-node-editor-for-creative-coding.md]] Show HN: SubjectiveZero, an open-source agentic node editor for creative coding `pillar:patterns` `score:0.295`
 - [[show-hn-the-agent-that-builds-and-operates-its-own-saas-tools.md]] Show HN: The agent that builds and operates its own SaaS tools `pillar:patterns` `score:0.365`
 - [[show-hn-tired-of-duct-taping-access-control-into-agent-prompts-heres-the-fix.md]] Show HN: Tired of duct-taping access control into agent prompts. Here's the fix `pillar:patterns` `score:0.33`
 - [[show-hn-visual-workspace-for-agents-based-on-unix.md]] Show HN: Visual Workspace for Agents Based on Unix `pillar:patterns` `score:0.295`
@@ -2115,6 +2119,7 @@
 - [[anthropic8217s-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data.md]] Anthropic&#8217;s latest feud with the Trump admin may actually help it, sales d `pillar:business` `score:0.445`
 - [[anthropics-profitability-swindle.md]] Anthropic's "Profitability" Swindle `pillar:business` `score:0.38`
 - [[apple-raises-prices-of-macbooks-ipads.md]] Apple raises prices of MacBooks, iPads `pillar:business` `score:0.505`
+- [[apple-sues-openai-accuses-ex-employees-of-stealing-trade-secrets.md]] Apple sues OpenAI, accuses ex-employees of stealing trade secrets `pillar:business` `score:0.61`
 - [[apple-sues-openai-over-alleged-trade-secret-theft.md]] Apple sues OpenAI over alleged trade secret theft `pillar:business` `score:0.445`
 - [[apple-to-pay-250m-to-settle-lawsuit-over-siri82.md]] Apple to pay $250M to settle lawsuit over Siri&#8217;s delayed AI features `pillar:business` `score:0.15`
 - [[arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business.md]] Arena, the AI leaderboard everyone uses, is now a $100M business `pillar:business` `score:0.48`
@@ -2227,6 +2232,7 @@
 - [[medicares-new-payment-model-is-built-for-ai-most-of-the-tech-world-has-no-idea.md]] Medicare's new payment model is built for AI. Most of the tech world has no idea `pillar:business` `score:0.38`
 - [[memory-has-grown-to-nearly-two-thirds-of-ai-chip-component-costs.md]] Memory has grown to nearly two-thirds of AI chip component costs `pillar:business` `score:0.63`
 - [[mercors-brendan-foody-calls-out-sequoia-accusing-it-of-8216dual-pricing8217-valu.md]] Mercor’s Brendan Foody calls out Sequoia, accusing it of &#8216;dual-pricing&#82 `pillar:business` `score:0.305`
+- [[meta-pulls-new-ai-image-feature-after-days-of-backlash.md]] Meta pulls new AI image feature after days of backlash `pillar:business` `score:0.33`
 - [[meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijing8217s-demand.md]] Meta reportedly moves to unwind $2B Manus deal after Beijing&#8217;s demand `pillar:business` `score:0.41`
 - [[meta-shuts-down-end-to-end-encryption-for-instagra.md]] Meta Shuts Down End-to-End Encryption for Instagram Messaging `pillar:business` `score:0.375`
 - [[meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents.md]] Meta steals a tactic from Tesla and builds data centers in tents `pillar:business` `score:0.48`

@@ -1,0 +1,26 @@
+{
+  "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
+  "score": 55,
+  "comments": 21,
+  "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+  "hn_url": "https://news.ycombinator.com/item?id=48814170",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "optimization"
+  ],
+  "summary_cn": "MiMo v2.5在推理优化方面取得突破，通过混合滑动窗口注意力（SWA）机制大幅提升效率。该技术旨在降低长序列推理的计算开销，同时保持模型质量，可直接降低云端或边缘部署的推理成本，提升响应速度。对于AI产品经理，这意味着更经济的实时对话、文档分析等高上下文长度产品成为可能，并为模型架构创新提供方向。",
+  "pm_relevance": 8,
+  "concepts": [
+    "推理优化",
+    "滑动窗口注意力",
+    "混合注意力"
+  ],
+  "entities": [
+    "MiMo"
+  ],
+  "patterns": [
+    "模型优化"
+  ]
+}
