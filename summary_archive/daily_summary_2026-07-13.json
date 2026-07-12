@@ -2,17 +2,17 @@
   "daily_summary": {
     "date": "2026-07-13",
     "headline": "今日 AI 情报 · 2026-07-13",
-    "overview": "AI能力非线性增长带来双刃剑：效率跃升与创新趋同并存",
+    "overview": "AI能力评估进入理性务实期，产品优化从单点转向系统思维",
     "narratives": [
       {
-        "title": "AI能力非线性增长的双刃剑：效率提升与创新趋同",
-        "body": "今日两条情报共同揭示：AI在科研和模型自身能力上呈现出非线性跃迁，但伴随创新扁平化和不可预测风险。产品经理需警惕效率陷阱，主动设计认知多样性机制以引导模型突破而非僵化。",
-        "type": "bottleneck",
+        "title": "AI能力评估从炒作转向理性与系统思维",
+        "body": "今日情报集中反映AI行业正经历从“能力崇拜”到“理性评估”的关键转变。多篇文章从不同角度批评了当前对LLM能力的过度炒作，强调产品经理需关注实际边界（上下文长度、推理准确性）、系统级陷阱（单点优化忽略全局）以及非实用性价值。这一趋势将推动产品设计更注重可靠性、可解释性和长期价值，而非短期技术指标。后续可能看到更多面向特定场景的务实创新以及侧重用户体验与伦理平衡的产品策略。",
+        "type": "paradigm_shift",
         "pillar_key": "capabilities"
       },
       {
-        "title": "AI编码代理开启应用开发全民化时代",
-        "body": "陶哲轩等专家验证了现代编码代理可将自然语言直接转化为完整应用，大幅降低开发门槛。对PM而言，这是产品模式从“写代码”向“描述需求”的根本转变，需重新思考用户分层和产品设计流程。",
+        "title": "AI编码代理从实验走向生产级优化",
+        "body": "编码代理领域出现明确的分化和成熟信号：一方面陶哲轩等顶级研究者开始用AI代理重构新旧应用，另一方面生产级迁移案例展示了速度和成本的双重提升（2.2倍快、27%便宜）。这表明编码代理已从概念验证进入可量化效率提升阶段，产品经理可开始规划基于代理的自动化开发流程，同时需关注不同实现策略（如token预加载量）对成本和延迟的影响。",
         "type": "maturation",
         "pillar_key": "patterns"
       }
@@ -21,21 +21,21 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "narrative_title": "AI能力非线性增长的双刃剑：效率提升与创新趋同",
-        "insight": "AI能力非线性增长的双刃剑：效率提升与创新趋同。该方向的具体信号：AI提高科研产出但导致发现趋同（如情报2），同时模型在训练中可能突现无法预测的复杂技能（如情报3波利尼西亚类比），两者共同指向需在效率与新颖性之间建立平衡机制。",
+        "narrative_title": "AI能力评估从炒作转向理性与系统思维",
+        "insight": "AI能力评估从炒作转向理性与系统思维。该方向的具体信号：行业对LLM能力的真实边界展开广泛反思——有作者明确反对过度炒作，强调上下文字节、推理准确性和成本限制；研究揭示模型推理可解释性的黑箱问题，以及在科研场景中AI可能导致创新扁平化；另有观点批评“实用性至上”的单一导向，主张兼顾情感、美学等维度；同时“一步陷阱”文章警示产品经理不要仅优化模型单点而要注重全局流程。这些信号共同指向产品决策需从“追逐能力峰值”转向“系统化务实评估”。",
         "evidence": [
           {
-            "id": "ai-boosts-research-careers-but-flattens-scientific-discovery",
-            "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
-            "score": 0.43
+            "id": "i-love-llms-i-hate-hype",
+            "title": "I love LLMs, I hate hype",
+            "score": 0.64
           }
         ]
       },
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "AI编码代理开启应用开发全民化时代",
-        "insight": "AI编码代理开启应用开发全民化时代。该方向的具体信号：数学家和开发者通过AI代理用自然语言生成完整应用，显著降低开发门槛并加速原型迭代，标志着产品开发从专业写代码转向对话式需求描述。",
+        "narrative_title": "AI编码代理从实验走向生产级优化",
+        "insight": "AI编码代理从实验走向生产级优化。该方向的具体信号：陶哲轩等研究者展示AI编码代理能够理解自然语言需求并自动生成代码，极大降低开发门槛；同时有生产案例显示将AI代理从旧模型迁移至GPT-5.6后，推理速度提升2.2倍且成本降低27%，表明该模式已具备量化的商业可行性。这提示产品经理应关注代理内token预加载策略（如Claude Code与OpenCode的差异对延迟和成本的影响），并着手制定从原型到生产环境的迁移路径。",
         "evidence": [
           {
             "id": "old-and-new-apps-via-modern-coding-agents-by-terry-tao",
@@ -45,17 +45,45 @@
         ]
       }
     ],
-    "stats": "技术能力: 2 | 产品模式: 1 | 工具生态: 0 | 商业趋势: 0",
-    "total_items": 3,
-    "high_value_count": 2,
+    "stats": "技术能力: 6 | 产品模式: 2 | 工具生态: 0 | 商业趋势: 0",
+    "total_items": 10,
+    "high_value_count": 9,
     "all_today_ids": [
+      {
+        "id": "i-love-llms-i-hate-hype",
+        "label": "I love LLMs, I hate hype"
+      },
+      {
+        "id": "claude-code-sends-33k-tokens-before-reading-the-prompt-opencode-sends-7k",
+        "label": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k"
+      },
       {
         "id": "old-and-new-apps-via-modern-coding-agents-by-terry-tao",
         "label": "Old and new apps, via modern coding agents by Terry Tao"
       },
       {
+        "id": "can-we-understand-how-large-language-models-reason",
+        "label": "Can we understand how large language models reason?"
+      },
+      {
         "id": "ai-boosts-research-careers-but-flattens-scientific-discovery",
         "label": "AI Boosts Research Careers but Flattens Scientific Discovery"
+      },
+      {
+        "id": "migrating-a-production-ai-agent-to-gpt-56-22x-faster-27-cheaper",
+        "label": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper"
+      },
+      {
+        "id": "i-learned-to-read-again",
+        "label": "I Learned to Read Again"
+      },
+      {
+        "id": "against-usefulness",
+        "label": "Against Usefulness"
+      },
+      {
+        "id": "the-one-step-trap-in-ai-research",
+        "label": "The One-Step Trap (In AI Research)"
       },
       {
         "id": "mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east",
@@ -63,6 +91,6 @@
       }
     ],
     "date_bj": "2026-07-13 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-07-13 00:01:32"
+    "generated_at_bj": "2026-07-13 06:01:31"
   }
 }

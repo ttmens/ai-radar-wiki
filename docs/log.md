@@ -2723,3 +2723,12 @@
 - create: old-and-new-apps-via-modern-coding-agents-by-terry-tao.md
 - create: ai-boosts-research-careers-but-flattens-scientific-discovery.md
 - create: mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east.md
+
+## [2026-07-13 06:01] sync v3 | 7 new | pillars: {'capabilities': 6, 'patterns': 1}
+- create: claude-code-sends-33k-tokens-before-reading-the-prompt-opencode-sends-7k.md
+- create: can-we-understand-how-large-language-models-reason.md
+- create: migrating-a-production-ai-agent-to-gpt-56-22x-faster-27-cheaper.md
+- create: the-one-step-trap-in-ai-research.md
+- create: i-love-llms-i-hate-hype.md
+- create: i-learned-to-read-again.md
+- create: against-usefulness.md

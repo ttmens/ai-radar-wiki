@@ -1,8 +1,30 @@
 {
   "date": "2026-07-13",
-  "generated_at": "2026-07-13T00:01:44.867144+08:00",
-  "item_count": 2,
+  "generated_at": "2026-07-13T06:01:53.301022+08:00",
+  "item_count": 9,
   "items": [
+    {
+      "id": "i-love-llms-i-hate-hype",
+      "label": "I love LLMs, I hate hype",
+      "summary": "本文作者表达了对大型语言模型（LLM）技术本身的热爱，但强烈反对围绕其能力的过度炒作。从AI产品经理视角看，重点在于理性评估LLM的真实能力边界，避免被浮夸宣传误导而投入错误方向。商业价值体现在：理解当前LLM在上下文长度、推理准确性、成本效益等方面的实际限制，从而设计出务实的产品功能，如聚焦特定场景的辅助工具而非通用智能。产品创新应基于对LLM核心优势（如自然语言理解、生成）的稳健应用，而非追逐不切实际的承诺。作者提醒产品经理必须区分“能力演示”与“可靠产品”，将用户需求和可行性置于首位。",
+      "pm_score": 0.635,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48883343",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "claude-code-sends-33k-tokens-before-reading-the-prompt-opencode-sends-7k",
+      "label": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "summary": "Claude Code 在处理提示前先发送33k tokens，而OpenCode仅发送7k，表明两者在上下文预加载策略上存在显著差异。这种差异直接影响响应速度、成本以及模型对用户意图的理解能力。对于AI产品经理而言，更少的预加载token可能意味着更低的延迟和成本，但可能牺牲对长上下文的支持。这提示在设计AI编程助手时需权衡上下文深度与效率，优化token使用策略以提升用户体验和商业可行性。",
+      "pm_score": 0.6,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48883275",
+      "date": "2026-07-13"
+    },
     {
       "id": "old-and-new-apps-via-modern-coding-agents-by-terry-tao",
       "label": "Old and new apps, via modern coding agents by Terry Tao",
@@ -15,6 +37,17 @@
       "date": "2026-07-13"
     },
     {
+      "id": "can-we-understand-how-large-language-models-reason",
+      "label": "Can we understand how large language models reason?",
+      "summary": "该研究探讨大语言模型（LLM）推理过程的可解释性问题，试图揭示模型内部决策机制。对AI产品经理而言，理解模型‘为何如此推理’可提升产品可靠性，尤其在医疗、金融等高风险场景中建立用户信任；同时有助于设计调试工具和透明化交互界面，推动产品创新。尽管当前方法仍处于探索阶段，但其商业价值在于降低模型黑箱风险，加速行业落地。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48883090",
+      "date": "2026-07-13"
+    },
+    {
       "id": "ai-boosts-research-careers-but-flattens-scientific-discovery",
       "label": "AI Boosts Research Careers but Flattens Scientific Discovery",
       "summary": "AI显著提升研究效率，但可能导致科学发现趋同化，即‘智能涌现但创新扁平’。对产品经理而言，需警惕AI在辅助科研时强化主流路径、抑制异常发现的倾向。商业机会在于设计能主动引入‘认知多样性’的科研工具，例如通过对抗生成或随机扰动机制，而非仅优化确定性预测。产品创新点包括：建立‘发现质量’与‘发现新颖性’的双重指标，以及为研究者提供可控的‘思维变体’探索模式。长期来看，如何平衡效率与突破，是AI驱动型研究平台的核心设计挑战。",
@@ -24,10 +57,54 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48881043",
       "date": "2026-07-13"
+    },
+    {
+      "id": "migrating-a-production-ai-agent-to-gpt-56-22x-faster-27-cheaper",
+      "label": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "summary": "本文介绍了一个生产级AI agent从旧模型迁移到GPT-5.6的实际案例，主要成果包括推理速度提升2.2倍、成本降低27%。这为AI产品经理提供了模型升级的量化参考：性能优化与成本节约可以兼得。技术要点在于迁移过程中需评估兼容性、调整提示词策略并优化调用逻辑。商业价值显著，尤其适合高并发、成本敏感的应用场景。产品创新体现在利用新模型的架构优势实现更高效的响应，为用户体验和运营效率带来直接提升。",
+      "pm_score": 0.415,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48882716",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "i-learned-to-read-again",
+      "label": "I Learned to Read Again",
+      "summary": "本文介绍了一项AI技术案例，用户通过AI辅助重新学习阅读，体现了AI在认知能力恢复与教育领域的创新应用。技术要点在于利用大语言模型的自然语言理解和生成能力，提供个性化阅读支持与即时反馈。商业价值在于开拓特殊教育、老年认知健康等市场，同时可作为产品增强用户粘性的功能。产品创新点在于将AI从信息检索延伸至主动辅助认知训练，以交互式学习取代被动阅读，并针对个体需求动态调整难度。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48883238",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "against-usefulness",
+      "label": "Against Usefulness",
+      "summary": "文章《Against Usefulness》质疑AI领域过度追求“实用性”的倾向，主张产品创新不应仅以功能效率为唯一标准。对于AI产品经理而言，这一观点提示在定义产品价值时，需平衡工具理性与用户体验、美学、情感连接等软性维度。技术要点上，强调应探索非实用导向的AI能力，如创造性互动、趣味性和冗余设计，这可能催生新的产品形态。商业价值在于差异化竞争，避开同质化的“有用”赛道。产品创新启发：可以设计不追求效率最大化、但能激发用户沉浸感和长期粘性的AI交互模式。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48882956",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "the-one-step-trap-in-ai-research",
+      "label": "The One-Step Trap (In AI Research)",
+      "summary": "《AI 研究的“一步陷阱”》指出，研究者和产品团队容易陷入仅优化单个步骤（如模型性能）而忽略全局流程的误区。对 AI 产品经理而言，这警示在开发中要避免仅仅追求单点技术指标，而应注重整条产品链的协同与迭代，包括数据、部署、用户体验和反馈循环。商业价值在于提高产品落地成功率，减少资源浪费。核心启示：产品设计需系统思考，从端到端视角平衡短期技术突破与长期产品价值。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48883415",
+      "date": "2026-07-13"
     }
   ],
   "graph_totals": {
-    "real_nodes": 3757,
-    "edges": 4067
+    "real_nodes": 3770,
+    "edges": 4080
   }
 }

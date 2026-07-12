@@ -1,0 +1,26 @@
+{
+  "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+  "score": 329,
+  "comments": 185,
+  "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+  "hn_url": "https://news.ycombinator.com/item?id=48883275",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token"
+  ],
+  "summary_cn": "Claude Code 在处理提示前先发送33k tokens，而OpenCode仅发送7k，表明两者在上下文预加载策略上存在显著差异。这种差异直接影响响应速度、成本以及模型对用户意图的理解能力。对于AI产品经理而言，更少的预加载token可能意味着更低的延迟和成本，但可能牺牲对长上下文的支持。这提示在设计AI编程助手时需权衡上下文深度与效率，优化token使用策略以提升用户体验和商业可行性。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Token Efficiency",
+    "Context Preloading",
+    "Latency Optimization"
+  ],
+  "entities": [
+    "Claude Code",
+    "OpenCode"
+  ],
+  "patterns": [
+    "Efficient Context Handling"
+  ]
+}
