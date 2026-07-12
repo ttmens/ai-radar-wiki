@@ -1,8 +1,64 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T12:01:40.603640+08:00",
-  "item_count": 14,
+  "generated_at": "2026-07-12T18:01:39.755318+08:00",
+  "item_count": 22,
   "items": [
+    {
+      "id": "twitter_elonmusk_2076102645823971373",
+      "label": "Starship is evolving rapidly",
+      "summary": "Starship is evolving rapidly",
+      "pm_score": 1.0,
+      "pillar": "patterns",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/elonmusk/status/2076102645823971373",
+      "date": "2026-07-12",
+      "stars": 7291,
+      "score": 1.0,
+      "comments": 937
+    },
+    {
+      "id": "twitter_elonmusk_2076102201575969192",
+      "label": "Grok is the most politically neutral and objectively truth-seeking AI",
+      "summary": "Grok is the most politically neutral and objectively truth-seeking AI",
+      "pm_score": 1.0,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/elonmusk/status/2076102201575969192",
+      "date": "2026-07-12",
+      "stars": 7749,
+      "score": 1.0,
+      "comments": 1170
+    },
+    {
+      "id": "twitter_elonmusk_2076100095867506809",
+      "label": "Next Starship launch aiming for Thursday",
+      "summary": "Next Starship launch aiming for Thursday",
+      "pm_score": 1.0,
+      "pillar": "business",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/elonmusk/status/2076100095867506809",
+      "date": "2026-07-12",
+      "stars": 11110,
+      "score": 1.0,
+      "comments": 1169
+    },
+    {
+      "id": "twitter_TheAIGRID_2076104793853231546",
+      "label": "@brivael @neutralityorg Can you at least pretend to be free of bias when you launch a vibecoded “ ne...",
+      "summary": "@brivael @neutralityorg Can you at least pretend to be free of bias when you launch a vibecoded “ neutrality project “ https://t.co/NmcW8xXEPS",
+      "pm_score": 0.71,
+      "pillar": "business",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/TheAIGRID/status/2076104793853231546",
+      "date": "2026-07-12",
+      "stars": 29,
+      "score": 0.7108,
+      "comments": 2
+    },
     {
       "id": "ai-2040-and-the-cult-of-intelligence",
       "label": "AI 2040 and the cult of intelligence",
@@ -12,6 +68,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48874200",
+      "date": "2026-07-12"
+    },
+    {
+      "id": "re4librecode",
+      "label": "re4/LibreCode",
+      "summary": "LibreCode 是一个基于 Ollama 的本地 AI 编码与逆向工程界面，类似 Cursor 但完全离线运行。它利用开源模型提供代码补全、交互式逆向分析，降低了对云端 API 的依赖，保障代码隐私。对于 AI 产品经理，该项目展示了本地优先、开源替代的商业价值，特别是在安全敏感场景下。产品创新点在于将 AI 编程助手与逆向工程结合，扩展了传统编码工具的应用边界。",
+      "pm_score": 0.545,
+      "pillar": "patterns",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/re4/LibreCode",
       "date": "2026-07-12"
     },
     {
@@ -70,6 +137,17 @@
       "date": "2026-07-12"
     },
     {
+      "id": "fixed-three-bugs-that-made-qwen35-122b-a-daily-driver-on-mac-studio",
+      "label": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
+      "summary": "Qwen3.5-122B模型近期修复了三个关键bug，使得其能够在Mac Studio上稳定运行并成为日常可用工具。这解决了此前大模型在本地硬件上部署时常见的兼容性与性能瓶颈问题，标志着本地化推理能力的重要突破。对于AI产品经理而言，这意味着可以在个人工作站上高效运行超大参数模型，无需依赖云端服务，从而降低成本、提升数据隐私保护并支持离线场景。该进展推动了边缘计算与本地优先AI的产品落地，为开发者提供更灵活的部署选项。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48876619",
+      "date": "2026-07-12"
+    },
+    {
       "id": "reverse-centaurs-are-the-answer-to-the-ai-paradox-2025",
       "label": "Reverse centaurs are the answer to the AI paradox (2025)",
       "summary": "文章提出“反向半人马”模式（Reverse Centaur）作为解决AI悖论的关键，即让AI作为主要执行者，人类负责监督和决策。这种模式不同于传统的人主导AI辅助，旨在平衡AI效率与人类控制，减少信任风险，提升产品落地可行性。预计2025年成为人机协作新范式，尤其适用于AI Agent场景，为产品经理提供设计更自主且可控的AI产品思路。",
@@ -89,6 +167,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48823981",
+      "date": "2026-07-12"
+    },
+    {
+      "id": "show-hn-mindwalk-replay-coding-agent-sessions-on-a-3d-map-of-your-codebase",
+      "label": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+      "summary": "Mindwalk 是一个创新工具，能够将 AI 编码代理（coding agent）的运行过程在代码库的 3D 地图上进行回放和可视化。对于 AI 产品经理而言，它提升了 AI 辅助编程的可解释性，帮助开发者理解代理的决策路径、代码修改历史以及探索模式。这种 3D 可视化不仅有助于调试和优化代理行为，还能作为团队协作和知识共享的媒介，降低理解复杂代码库的门槛。产品具有商业潜力，可集成到现有 AI 编码平台中，提供差异化体验，并促进代理的迭代改进。",
+      "pm_score": 0.38,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48878682",
       "date": "2026-07-12"
     },
     {
@@ -156,10 +245,21 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48875153",
       "date": "2026-07-12"
+    },
+    {
+      "id": "under-federal-rule-colleges-must-leave-grads-better-off-or-lose-financial-aid",
+      "label": "Under federal rule, colleges must leave grads better off or lose financial aid",
+      "summary": "美国联邦新规要求大学必须证明其教育能显著改善毕业生经济状况，否则将失去联邦财政援助资格。该政策虽不直接涉及AI技术，但将倒逼高校采用数据分析和教育科技工具（如AI驱动的就业预测、技能评估平台）来量化学生成果、优化课程设计。对AI产品经理而言，这创造了教育领域合规性产品的需求，尤其在成果追踪、就业匹配和终身学习路径规划方面。",
+      "pm_score": 0.325,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48878126",
+      "date": "2026-07-12"
     }
   ],
   "graph_totals": {
-    "real_nodes": 3727,
-    "edges": 4037
+    "real_nodes": 3748,
+    "edges": 4058
   }
 }

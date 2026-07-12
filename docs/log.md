@@ -2712,3 +2712,9 @@
 - create: what-xais-grok-build-cli-actually-sends-to-xai.md
 - create: an-agent-in-100-lines-of-lisp.md
 - create: show-hn-sqlsure-deterministic-semantic-checks-for-ai-generated-sql.md
+
+## [2026-07-12 18:01] sync v3 | 4 new | pillars: {'patterns': 2, 'capabilities': 2}
+- create: re4librecode.md
+- create: show-hn-mindwalk-replay-coding-agent-sessions-on-a-3d-map-of-your-codebase.md
+- create: under-federal-rule-colleges-must-leave-grads-better-off-or-lose-financial-aid.md
+- create: fixed-three-bugs-that-made-qwen35-122b-a-daily-driver-on-mac-studio.md

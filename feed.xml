@@ -5,13 +5,45 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 12 Jul 2026 04:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 08:00:49 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Starship is evolving rapidly</title>
+      <link>https://x.com/elonmusk/status/2076102645823971373</link>
+      <guid isPermaLink="false">twitter_elonmusk_2076102645823971373</guid>
+      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Starship is evolving rapidly</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Grok is the most politically neutral and objectively truth-seeking AI</title>
+      <link>https://x.com/elonmusk/status/2076102201575969192</link>
+      <guid isPermaLink="false">twitter_elonmusk_2076102201575969192</guid>
+      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Grok is the most politically neutral and objectively truth-seeking AI</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Next Starship launch aiming for Thursday</title>
+      <link>https://x.com/elonmusk/status/2076100095867506809</link>
+      <guid isPermaLink="false">twitter_elonmusk_2076100095867506809</guid>
+      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Next Starship launch aiming for Thursday</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>@brivael @neutralityorg Can you at least pretend to be free of bias when you launch a vibecoded “ ne...</title>
+      <link>https://x.com/TheAIGRID/status/2076104793853231546</link>
+      <guid isPermaLink="false">twitter_TheAIGRID_2076104793853231546</guid>
+      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>@brivael @neutralityorg Can you at least pretend to be free of bias when you launch a vibecoded “ neutrality project “ https://t.co/NmcW8xXEPS</p></description>
+      <category>💰 商业趋势</category>
+    </item>
     <item>
       <title>AI 2040 and the cult of intelligence</title>
       <link>https://news.ycombinator.com/item?id=48874200</link>
@@ -21,12 +53,28 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>What xAI's Grok Build CLI Actually Sends to xAI</title>
+      <link>https://news.ycombinator.com/item?id=48877371</link>
+      <guid isPermaLink="false">what-xais-grok-build-cli-actually-sends-to-xai</guid>
+      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文分析了 xAI 的 Grok CLI 工具实际发送到 xAI 服务器的数据内容。作为面向开发者的命令行界面，Grok CLI 允许用户直接与 Grok 模型交互，但客户端会发送哪些信息（如输入文本、系统环境、会话上下文等）以及这些数据如何被处理，对产品设计至关重要。文章可能揭露了数据传输的隐私边界、缓存策略或认证方式，这直接关系到企业级部署的合规性与用户信任。对于 AI 产品经理而言，理解 CLI 层面如何平衡本地处理与云端推理是设计安全高效工具的关键。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>OpenAI bets on families as ChatGPT goes deeper into households</title>
       <link>https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/</link>
       <guid isPermaLink="false">openai-bets-on-families-as-chatgpt-goes-deeper-into-households</guid>
       <pubDate>2026-07-12T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenAI 发布招聘信息，招募专门负责为家庭、照顾者和老年人设计 ChatGPT 体验的产品经理。此举标志着 OpenAI 战略重心从通用对话向垂直家庭场景迁移，旨在挖掘老龄化社会与家庭协作中的 AI 应用潜力。技术层面，ChatGPT 需适配多用户交互、隐私保护及低技术门槛；商业价值在于扩大用户基数、提升粘性并抢占家庭智能入口。产品创新体现为针对非技术群体的关怀型交互设计，可能引入家庭共享账号、儿童安全过滤、健康提醒等差异化功能。</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Mesh LLM: distributed AI computing on iroh</title>
+      <link>https://news.ycombinator.com/item?id=48876505</link>
+      <guid isPermaLink="false">mesh-llm-distributed-ai-computing-on-iroh</guid>
+      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Mesh LLM 是一种基于 iroh 协议实现分布式 AI 计算的新方案，通过在 mesh 网络中协同运行大语言模型，无需中心化 GPU 集群。技术要点：利用 iroh 的点对点通信和去中心化存储，将推理任务分散到参与节点，降低单点算力需求。商业价值：显著降低模型推理成本，增强数据隐私保护，适用于边缘设备或低资源场景。产品创新：支持弹性扩展，节点可随时加入或退出，有望推动 AI 应用的去中心化生态。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Ghost Font: A font that humans can read but AI cannot</title>
@@ -53,6 +101,14 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>An agent in 100 lines of Lisp</title>
+      <link>https://news.ycombinator.com/item?id=48823981</link>
+      <guid isPermaLink="false">an-agent-in-100-lines-of-lisp</guid>
+      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该技术内容展示了一个仅用100行Lisp代码实现的AI agent示例，凸显了Lisp语言在构建智能体时的简洁性与灵活性。对于AI产品经理而言，其核心价值在于提供了轻量级、可复用的agent开发模式，降低了技术门槛，加速了原型验证和产品迭代。这种极简实现有助于团队快速探索AI agent的产品形态，并在资源有限的情况下实现功能性验证，为后续规模化开发奠定基础。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>Modern decor may be straining people's brains</title>
       <link>https://news.ycombinator.com/item?id=48873424</link>
       <guid isPermaLink="false">modern-decor-may-be-straining-peoples-brains</guid>
@@ -74,6 +130,14 @@
       <guid isPermaLink="false">ai-cant-recreate-the-thrust-game-but-it-can-help-you-understand-it</guid>
       <pubDate>2026-07-12T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文讨论AI在重现经典游戏《Thrust》时的局限性，指出当前AI无法完全复制游戏的核心机制与体验，但能通过分析和解释帮助人类更深入理解游戏的设计逻辑与物理机制。对于AI产品经理，这提示了AI在创意、模拟和理解复杂系统方面的能力边界：直接生成可玩产品仍面临挑战，但作为辅助分析工具具有商业价值，可用于游戏教育、历史存档或设计原型验证。产品创新方向在于将AI定位为“理解伙伴”而非“创造替代品”，降低用户进入专业领域的门槛。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL</title>
+      <link>https://github.com/sqlsure/sqlsure</link>
+      <guid isPermaLink="false">show-hn-sqlsure-deterministic-semantic-checks-for-ai-generated-sql</guid>
+      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Sqlsure 是一个针对 AI 生成 SQL 的确定性语义检查工具，旨在解决大模型输出 SQL 时常见的语义错误问题。它通过静态分析确保 SQL 在语法正确的基础上，语义（如表、列存在性、类型匹配等）也符合预期，实现确定性验证而非概率性判断。对于AI产品经理而言，该工具能显著提升AI驱动的数据分析产品的可靠性与可信度，减少因错误SQL导致的数据风险和维护成本，是AI生成代码质量保障领域的重要创新。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -265,6 +329,32 @@ it is possible this direction keeps going!</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>This is total insanity. Words fail to explain how anyone let alone a plurality of voters thought giv...</title>
+      <link>https://x.com/ylecun/status/2075831487400644766</link>
+      <guid isPermaLink="false">twitter_ylecun_2075831487400644766</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>This is total insanity. Words fail to explain how anyone let alone a plurality of voters thought giving an obviously demented person control of the most powerful government in the world was a good idea.  We will be lucky to come out the other side of this alive. https://t.co/nGPXfhFbL9</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>and yes, i would say that @elonmusk mission with @SpaceXAI is going well. the results definitively s...</title>
+      <link>https://x.com/elonmusk/status/2076036462290624972</link>
+      <guid isPermaLink="false">twitter_elonmusk_2076036462290624972</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>and yes, i would say that @elonmusk mission with @SpaceXAI is going well. the results definitively shows how Grok 4.5 training pushed even further to become as neutral as possible and it does feel good to know there is at least 1 model out there that is within that neutral zone. https://t.co/Q415wAg</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Grok 4.5 by @SpaceXAI is the most neutral AI model out there. Almost perfectly balanced between the ...</title>
+      <link>https://x.com/elonmusk/status/2076040435743506800</link>
+      <guid isPermaLink="false">twitter_elonmusk_2076040435743506800</guid>
+      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Grok 4.5 by @SpaceXAI is the most neutral AI model out there. Almost perfectly balanced between the political Left and Right.
+
+No other model comes even close to its neutrality. Fantastic achievement, and much harder to pull off than most would realize! https://t.co/FlG2DxcrrO</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>lore accurate codex effort slider
 
 concept by gpt image 2. video by omni flash https://t.co/Nh07J9ub...</title>
@@ -381,127 +471,6 @@ https://t.co/wxtxTEZC6k</p></description>
 
 https://t.co/cfRXbefanz</p></description>
       <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>This dev's free avatar app now speaks. TTS options, CSS effect themes, and 3D fun in VS Code and Chr...</title>
-      <link>https://x.com/ThePracticalDev/status/2075794964777205977</link>
-      <guid isPermaLink="false">twitter_ThePracticalDev_2075794964777205977</guid>
-      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>This dev's free avatar app now speaks. TTS options, CSS effect themes, and 3D fun in VS Code and Chrome.
-
-{ author: @WebDevHyper }
-
-https://t.co/XA7KqfFxvV</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]</title>
-      <link>https://news.ycombinator.com/item?id=48863490</link>
-      <guid isPermaLink="false">gpt-56-sol-ultra-produces-proof-of-the-cycle-double-cover-conjecture-pdf</guid>
-      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>此内容报道了GPT-5.6 Sol Ultra模型成功证明了图论中的循环双覆盖猜想，展示了AI在高级数学推理和定理证明上的突破性能力。对AI产品经理而言，这意味着未来可以将AI用于自动化科研、数学辅助工具、教育产品等，显著拓展AI在科学发现领域的应用边界。该成果也验证了大规模语言模型在符号推理和逻辑推导上的潜力，可能催生新的产品形态，如面向研究人员的智能证明助手或交互式数学学习平台。同时，这也对AI模型的可解释性和可靠性提出更高要求，产品设计需考虑验证机制与用户信任。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Every day, a new startup writes a blog post claiming they have automated software engineering 
-
-In t...</title>
-      <link>https://x.com/bindureddy/status/2075946401490669875</link>
-      <guid isPermaLink="false">twitter_bindureddy_2075946401490669875</guid>
-      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Every day, a new startup writes a blog post claiming they have automated software engineering 
-
-In the exact same breath they claim they are hiring more engineers 😲
-
-Well - by definition- they have not automated engineering</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Is this real? https://t.co/mO1AP8AA52</title>
-      <link>https://x.com/TheAIGRID/status/2075964944323891320</link>
-      <guid isPermaLink="false">twitter_TheAIGRID_2075964944323891320</guid>
-      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Is this real? https://t.co/mO1AP8AA52</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Apple sues OpenAI, accuses ex-employees of stealing trade secrets</title>
-      <link>https://news.ycombinator.com/item?id=48865019</link>
-      <guid isPermaLink="false">apple-sues-openai-accuses-ex-employees-of-stealing-trade-secrets</guid>
-      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>苹果公司起诉OpenAI，指控其前员工窃取与AI相关的商业机密。该诉讼涉及苹果指控这些前员工在离职后非法获取并带走了苹果的专有技术信息，可能包括AI模型训练、数据处理或硬件集成等核心机密。这一事件凸显了AI领域激烈的人才竞争与知识产权保护挑战，对产品经理而言，需关注企业如何通过法律手段维护技术壁垒，以及此类纠纷对行业合作与人才流动的潜在影响。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Trust and security has always been crucial to large enterprises. With AI advances, it's never been m...</title>
-      <link>https://x.com/cohere/status/2075957760890413066</link>
-      <guid isPermaLink="false">twitter_cohere_2075957760890413066</guid>
-      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Trust and security has always been crucial to large enterprises. With AI advances, it's never been more important.
-
-The partnership between Cohere, @Nvidia, &amp;amp; @CoreWeave ensures reliability and confidence, keeping infrastructure protected at all times 🤝
-
-https://t.co/9tmNJkt09i</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>https://t.co/IPPP7v8Ejt</title>
-      <link>https://x.com/supabase/status/2075946902160576670</link>
-      <guid isPermaLink="false">twitter_supabase_2075946902160576670</guid>
-      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>https://t.co/IPPP7v8Ejt</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>LOL! The Drama Is Back On X....
-
-Sam and Elon are trading barbs again!
-
-Safe to say - Grok is challe...</title>
-      <link>https://x.com/bindureddy/status/2076051634157941004</link>
-      <guid isPermaLink="false">twitter_bindureddy_2076051634157941004</guid>
-      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>LOL! The Drama Is Back On X....
-
-Sam and Elon are trading barbs again!
-
-Safe to say - Grok is challenging OpenAI for the first time
-and the AI race is heating up again.
-
-Grok is the new Gemini😂 https://t.co/5Dmszm0nqp</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Thanks @johnNostra for reminding us of the differentiator between humans and #AI</title>
-      <link>https://x.com/JohnNosta/status/2075889803657138513</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2075889803657138513</guid>
-      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Thanks @johnNostra for reminding us of the differentiator between humans and #AI</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>As AI teams adopt more autonomous agents, one challenge becomes clear: they don't naturally work tog...</title>
-      <link>https://x.com/databricks/status/2075971153118519677</link>
-      <guid isPermaLink="false">twitter_databricks_2075971153118519677</guid>
-      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>As AI teams adopt more autonomous agents, one challenge becomes clear: they don't naturally work together.
-
-Omnigent is an open-source meta-harness that sits above individual agent harnesses, routing work across multiple agents through a single orchestration layer.
-
-Instead of managing agents in iso</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>This dev came back from Iceland asking whether the work changed or they did. An honest look at burno...</title>
-      <link>https://x.com/ThePracticalDev/status/2075943363811983791</link>
-      <guid isPermaLink="false">twitter_ThePracticalDev_2075943363811983791</guid>
-      <pubDate>2026-07-11T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>This dev came back from Iceland asking whether the work changed or they did. An honest look at burnout in the age of AI.
-
-{ author: Klaudia Grzondziel }
-
-https://t.co/g2AAsBnkX7</p></description>
-      <category>🤖 技术能力</category>
     </item>
   </channel>
 </rss>
