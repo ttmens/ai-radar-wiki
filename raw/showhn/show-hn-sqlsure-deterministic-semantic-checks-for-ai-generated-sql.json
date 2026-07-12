@@ -1,0 +1,24 @@
+{
+  "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+  "score": 23,
+  "comments": 3,
+  "url": "https://github.com/sqlsure/sqlsure",
+  "hn_url": "https://news.ycombinator.com/item?id=48875342",
+  "tag": "ShowHN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Sqlsure 是一个针对 AI 生成 SQL 的确定性语义检查工具，旨在解决大模型输出 SQL 时常见的语义错误问题。它通过静态分析确保 SQL 在语法正确的基础上，语义（如表、列存在性、类型匹配等）也符合预期，实现确定性验证而非概率性判断。对于AI产品经理而言，该工具能显著提升AI驱动的数据分析产品的可靠性与可信度，减少因错误SQL导致的数据风险和维护成本，是AI生成代码质量保障领域的重要创新。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI-generated SQL",
+    "Semantic Verification",
+    "Deterministic Checking"
+  ],
+  "entities": [
+    "Sqlsure"
+  ],
+  "patterns": [
+    "AI Code Generation Verification",
+    "Static Analysis for SQL"
+  ]
+}

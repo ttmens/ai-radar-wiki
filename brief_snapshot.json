@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
-  "generated_at": "2026-07-12T06:02:30.191477+08:00",
-  "item_count": 10,
+  "generated_at": "2026-07-12T12:01:40.603640+08:00",
+  "item_count": 14,
   "items": [
     {
       "id": "ai-2040-and-the-cult-of-intelligence",
@@ -15,6 +15,17 @@
       "date": "2026-07-12"
     },
     {
+      "id": "what-xais-grok-build-cli-actually-sends-to-xai",
+      "label": "What xAI's Grok Build CLI Actually Sends to xAI",
+      "summary": "本文分析了 xAI 的 Grok CLI 工具实际发送到 xAI 服务器的数据内容。作为面向开发者的命令行界面，Grok CLI 允许用户直接与 Grok 模型交互，但客户端会发送哪些信息（如输入文本、系统环境、会话上下文等）以及这些数据如何被处理，对产品设计至关重要。文章可能揭露了数据传输的隐私边界、缓存策略或认证方式，这直接关系到企业级部署的合规性与用户信任。对于 AI 产品经理而言，理解 CLI 层面如何平衡本地处理与云端推理是设计安全高效工具的关键。",
+      "pm_score": 0.53,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48877371",
+      "date": "2026-07-12"
+    },
+    {
       "id": "openai-bets-on-families-as-chatgpt-goes-deeper-into-households",
       "label": "OpenAI bets on families as ChatGPT goes deeper into households",
       "summary": "OpenAI 发布招聘信息，招募专门负责为家庭、照顾者和老年人设计 ChatGPT 体验的产品经理。此举标志着 OpenAI 战略重心从通用对话向垂直家庭场景迁移，旨在挖掘老龄化社会与家庭协作中的 AI 应用潜力。技术层面，ChatGPT 需适配多用户交互、隐私保护及低技术门槛；商业价值在于扩大用户基数、提升粘性并抢占家庭智能入口。产品创新体现为针对非技术群体的关怀型交互设计，可能引入家庭共享账号、儿童安全过滤、健康提醒等差异化功能。",
@@ -23,6 +34,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "date": "2026-07-12"
+    },
+    {
+      "id": "mesh-llm-distributed-ai-computing-on-iroh",
+      "label": "Mesh LLM: distributed AI computing on iroh",
+      "summary": "Mesh LLM 是一种基于 iroh 协议实现分布式 AI 计算的新方案，通过在 mesh 网络中协同运行大语言模型，无需中心化 GPU 集群。技术要点：利用 iroh 的点对点通信和去中心化存储，将推理任务分散到参与节点，降低单点算力需求。商业价值：显著降低模型推理成本，增强数据隐私保护，适用于边缘设备或低资源场景。产品创新：支持弹性扩展，节点可随时加入或退出，有望推动 AI 应用的去中心化生态。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48876505",
       "date": "2026-07-12"
     },
     {
@@ -59,6 +81,17 @@
       "date": "2026-07-12"
     },
     {
+      "id": "an-agent-in-100-lines-of-lisp",
+      "label": "An agent in 100 lines of Lisp",
+      "summary": "该技术内容展示了一个仅用100行Lisp代码实现的AI agent示例，凸显了Lisp语言在构建智能体时的简洁性与灵活性。对于AI产品经理而言，其核心价值在于提供了轻量级、可复用的agent开发模式，降低了技术门槛，加速了原型验证和产品迭代。这种极简实现有助于团队快速探索AI agent的产品形态，并在资源有限的情况下实现功能性验证，为后续规模化开发奠定基础。",
+      "pm_score": 0.38,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48823981",
+      "date": "2026-07-12"
+    },
+    {
       "id": "modern-decor-may-be-straining-peoples-brains",
       "label": "Modern decor may be straining people's brains",
       "summary": "该标题暗示现代装饰（如室内设计风格）可能对人类大脑造成认知负担或压力。从AI产品视角看，这可能关联到环境感知、注意力计算或神经科学启发的人机交互设计。商业价值在于为智能家居、办公空间优化等产品提供心理学依据，但技术要点不明确。产品创新可体现在环境自适应调整的AI助手，但缺乏具体技术细节。",
@@ -92,6 +125,17 @@
       "date": "2026-07-12"
     },
     {
+      "id": "show-hn-sqlsure-deterministic-semantic-checks-for-ai-generated-sql",
+      "label": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+      "summary": "Sqlsure 是一个针对 AI 生成 SQL 的确定性语义检查工具，旨在解决大模型输出 SQL 时常见的语义错误问题。它通过静态分析确保 SQL 在语法正确的基础上，语义（如表、列存在性、类型匹配等）也符合预期，实现确定性验证而非概率性判断。对于AI产品经理而言，该工具能显著提升AI驱动的数据分析产品的可靠性与可信度，减少因错误SQL导致的数据风险和维护成本，是AI生成代码质量保障领域的重要创新。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://github.com/sqlsure/sqlsure",
+      "date": "2026-07-12"
+    },
+    {
       "id": "show-hn-reame-a-cpu-inference-server-that-gets-faster-as-it-runs",
       "label": "Show HN: Reame – a CPU inference server that gets faster as it runs",
       "summary": "Reame是一个创新的CPU推理服务器，其核心特性是随运行时间增加而加速。它通过持续优化推理路径和缓存机制，在无需GPU的情况下提升本地AI推理速度。对产品经理而言，这意味着低成本的本地部署方案，适合边缘计算和数据敏感场景，可能降低云推理依赖并增强隐私保护。该技术有望推动CPU上更高效的模型推理，尤其在资源受限环境中实现越用越快的体验。",
@@ -115,7 +159,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 3710,
-    "edges": 4020
+    "real_nodes": 3727,
+    "edges": 4037
   }
 }

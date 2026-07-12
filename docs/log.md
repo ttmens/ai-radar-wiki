@@ -2706,3 +2706,9 @@
 - create: who-manages-the-agents.md
 - create: modern-decor-may-be-straining-peoples-brains.md
 - create: show-hn-reame-a-cpu-inference-server-that-gets-faster-as-it-runs.md
+
+## [2026-07-12 12:01] sync v3 | 4 new | pillars: {'capabilities': 3, 'patterns': 1}
+- create: mesh-llm-distributed-ai-computing-on-iroh.md
+- create: what-xais-grok-build-cli-actually-sends-to-xai.md
+- create: an-agent-in-100-lines-of-lisp.md
+- create: show-hn-sqlsure-deterministic-semantic-checks-for-ai-generated-sql.md

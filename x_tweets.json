@@ -1,74 +1,11 @@
 {
-  "fetched_at": "2026-07-11T21:01:04.745900",
+  "fetched_at": "2026-07-12T09:02:33.930981",
   "source": "twitter-cli",
   "data": {
     "sama": [
       {
-        "id": "2075294038648148385",
-        "text": "OpenAI Build Week is here.\n\nThe challenge starts July 13. Across the week, join live sessions and community events with builders around the world.\n\nRegistration is open.\nBring the idea sitting in your backlog.\nBuild it with Codex. https://t.co/9g0oROTIqk",
-        "author": {
-          "id": "1633874951508721686",
-          "name": "OpenAI Developers",
-          "screenName": "OpenAIDevs",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 1406,
-          "retweets": 153,
-          "replies": 116,
-          "quotes": 47,
-          "views": 798624,
-          "bookmarks": 462
-        },
-        "createdAt": "Thu Jul 09 19:00:30 +0000 2026",
-        "createdAtLocal": "2026-07-10 03:00",
-        "createdAtISO": "2026-07-09T19:00:30+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2075293951335219200/vid/avc1/1280x720/VDhSsbMyRmqSBxgR.mp4?tag=14",
-            "width": 1200,
-            "height": 675
-          }
-        ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "sama",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2075641131002700120",
-        "text": "Hello beautiful people! We have reset usage limits across Codex and ChatGPT Work. And another one will come later in the day. Rejoice.\n\nNow that I have your attention, a quick update on ChatGPT Work, Codex and all the updates we shared yesterday.\n\nWe’ve spent the last 24 hours reading feedback, looking at usage patterns, and talking with many of you. The short version is that there is a *lot* of excitement for GPT 5.6 Sol, ChatGPT Work on mobile & web, but also that we didn't get everything quite right.\n\n- We made it too easy to use the highest-compute settings without making the impact on usage limits sufficiently clear.\n- We reorganized the desktop app in one bold move, making familiar things like chats and projects harder to find.\n- Our launch framing was focused on ChatGPT Work and to some of our Codex fans it made it feel like Codex was going away over time. Absolutely not our intention, we love Codex and it is here to stay.\n- And we introduced regressions for some existing multi-agent workflows, alongside a collection of rough edges in plugins and other parts of the experience.\n\nWe’re landing a first set of improvements today. We’re resetting usage twice so people can keep experimenting, changing defaults and the model picker so they don’t push people toward unnecessarily expensive settings, fixing several plugin submission issues, improving how we represent Codex in the product, and cleaning up some of the most immediate desktop problems.\n\nA larger set of improvements will land next week. We’re bringing chats and projects back into the sidebar in a more familiar and customizable way, making usage and reset timing much more visible, clarifying when to use ChatGPT Work and when to use Codex, and addressing the many other smaller pieces of great feedback we've had.\n\nThe ambition behind this launch hasn’t changed. We think bringing ChatGPT and Codex together into a workspace where people and agents can collaborate is a very important step forward. But an ambitious direction doesn’t excuse avoidable confusion or regressions in the first version.\n\nPlease keep the feedback coming. We’re moving quickly, and you should see the experience already get better with a few updates today; and substantially better again next week.",
-        "author": {
-          "id": "1953337039510003712",
-          "name": "Tibo",
-          "screenName": "thsottiaux",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2075819673263001600/pj1vyX6I_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 12870,
-          "retweets": 795,
-          "replies": 1901,
-          "quotes": 424,
-          "views": 1509989,
-          "bookmarks": 1197
-        },
-        "createdAt": "Fri Jul 10 17:59:43 +0000 2026",
-        "createdAtLocal": "2026-07-11 01:59",
-        "createdAtISO": "2026-07-10T17:59:43+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "sama",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2075585386441789605",
-        "text": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot\n\nhttps://t.co/r2B3EJuV1A",
+        "id": "2076036901824532530",
+        "text": "so far at least, i'm pretty sure AI has been net job-creating.\n\nthis was not what i expected--although i was much less pessimistic than others, i thought by this level of capability we'd have seen some impact.\n\nit is possible this direction keeps going!",
         "author": {
           "id": "1605",
           "name": "Sam Altman",
@@ -77,46 +14,16 @@
           "verified": true
         },
         "metrics": {
-          "likes": 3039,
-          "retweets": 166,
-          "replies": 385,
-          "quotes": 47,
-          "views": 262727,
-          "bookmarks": 154
+          "likes": 7301,
+          "retweets": 274,
+          "replies": 1213,
+          "quotes": 172,
+          "views": 732170,
+          "bookmarks": 660
         },
-        "createdAt": "Fri Jul 10 14:18:13 +0000 2026",
-        "createdAtLocal": "2026-07-10 22:18",
-        "createdAtISO": "2026-07-10T14:18:13+00:00",
-        "media": [],
-        "urls": [
-          "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot/"
-        ],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2075579646373216282",
-        "text": "makes us happy to see people love 5.6 sol so much!",
-        "author": {
-          "id": "1605",
-          "name": "Sam Altman",
-          "screenName": "sama",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 11750,
-          "retweets": 303,
-          "replies": 1466,
-          "quotes": 112,
-          "views": 702121,
-          "bookmarks": 229
-        },
-        "createdAt": "Fri Jul 10 13:55:24 +0000 2026",
-        "createdAtLocal": "2026-07-10 21:55",
-        "createdAtISO": "2026-07-10T13:55:24+00:00",
+        "createdAt": "Sat Jul 11 20:12:22 +0000 2026",
+        "createdAtLocal": "2026-07-12 04:12",
+        "createdAtISO": "2026-07-11T20:12:22+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -125,8 +32,8 @@
         "score": null
       },
       {
-        "id": "2075579012223787402",
-        "text": "the sun is out today",
+        "id": "2076034163418014199",
+        "text": "whoa",
         "author": {
           "id": "1605",
           "name": "Sam Altman",
@@ -135,16 +42,16 @@
           "verified": true
         },
         "metrics": {
-          "likes": 3753,
-          "retweets": 109,
-          "replies": 318,
-          "quotes": 21,
-          "views": 340082,
-          "bookmarks": 95
+          "likes": 1623,
+          "retweets": 41,
+          "replies": 215,
+          "quotes": 6,
+          "views": 495624,
+          "bookmarks": 90
         },
-        "createdAt": "Fri Jul 10 13:52:53 +0000 2026",
-        "createdAtLocal": "2026-07-10 21:52",
-        "createdAtISO": "2026-07-10T13:52:53+00:00",
+        "createdAt": "Sat Jul 11 20:01:30 +0000 2026",
+        "createdAtLocal": "2026-07-12 04:01",
+        "createdAtISO": "2026-07-11T20:01:30+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -152,13 +59,113 @@
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2075452680760443190",
-          "text": "To celebrate the launch of GPT-5.6 Sol, we will reset the rate limits again (twice) across ChatGPT Work and Codex over the next 24 hours.\n\nWe want you to have the time to truly try ambitious tasks and get the hang of it. Happy exploring!",
+          "id": "2076021263945039876",
+          "text": "You know it's a good model when you grow more in 1 day than last two weeks combined.\n\nInstall the desktop app from https://t.co/K5PquKnV4q and give it a go! https://t.co/WyQwrT98Xo",
           "author": {
             "screenName": "thsottiaux",
             "name": "Tibo"
           }
         }
+      },
+      {
+        "id": "2075646048425431469",
+        "text": "GPT-5.6 Sol Ultra produced a proof of a 50 year old math conjecture. Unlike the Erdős Unit Distance Problem, this was done with a model publicly available *today*. I look forward to seeing what scientists and researchers are able to do with this model!",
+        "author": {
+          "id": "825088493764407298",
+          "name": "Noam Brown",
+          "screenName": "polynoamial",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1872883170292457472/8ywVGO5M_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 2795,
+          "retweets": 191,
+          "replies": 92,
+          "quotes": 26,
+          "views": 608952,
+          "bookmarks": 439
+        },
+        "createdAt": "Fri Jul 10 18:19:16 +0000 2026",
+        "createdAtLocal": "2026-07-11 02:19",
+        "createdAtISO": "2026-07-10T18:19:16+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "sama",
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2075643450196971805",
+          "text": "Yesterday, we made GPT-5.6 Sol Ultra generally available. Today, we're sharing that it produced a proof of the 50-year-old Cycle Double Cover Conjecture using 64 subagents in just under one hour. We're sharing the prompt and proof below. We're excited to see what you all do with Ultra!",
+          "author": {
+            "screenName": "__eknight__",
+            "name": "Ethan Knight"
+          }
+        }
+      },
+      {
+        "id": "2075985056846451123",
+        "text": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+        "author": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screenName": "sama",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 4018,
+          "retweets": 230,
+          "replies": 334,
+          "quotes": 52,
+          "views": 870495,
+          "bookmarks": 450
+        },
+        "createdAt": "Sat Jul 11 16:46:22 +0000 2026",
+        "createdAtLocal": "2026-07-12 00:46",
+        "createdAtISO": "2026-07-11T16:46:22+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2075689779937833302",
+          "text": "♥️ GPT-5.6 is a major step forward for health, both at the frontier and at cost.\n\nThese models push the frontier of performance per dollar, bringing the best health intelligence to all. The smallest variant, GPT-5.6 Luna, evaluated at the lowest reasoning effort, outperforms GPT-5.5 at the highest reasoning effort–despite costing 25x less. The largest variant, GPT-5.6 Sol, sets a new high bar at cost.\n\nAnother especially cool result: physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\n\nWe collected diverse tasks that remain difficult for recent OpenAI models, across patient-facing and clinician-facing use cases. We asked speciality-matched physicians to write responses to these tasks with unlimited time and web access. We then asked other physicians to compare responses side-by-side, blinded to their source. Physicians were asked to comment on areas of improvement across five axes: accuracy, communication, completeness, instruction following, and health decision helpfulness. We then reported the fraction of responses across sources rated perfectly across all axes, across 20,000 total axis ratings. GPT-5.6 Sol appeared strongest, although all GPT-5.6 models performed significantly better than physicians.",
+          "author": {
+            "screenName": "thekaransinghal",
+            "name": "Karan Singhal"
+          }
+        }
+      },
+      {
+        "id": "2075983427019612242",
+        "text": "there are a lot of benchmarks that suggest 5.6 sol is the best model in the world right now, but the most reliable way to tell is that elon is obsessed with me again",
+        "author": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screenName": "sama",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 42663,
+          "retweets": 1982,
+          "replies": 3031,
+          "quotes": 948,
+          "views": 2573142,
+          "bookmarks": 2360
+        },
+        "createdAt": "Sat Jul 11 16:39:53 +0000 2026",
+        "createdAtLocal": "2026-07-12 00:39",
+        "createdAtISO": "2026-07-11T16:39:53+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
       }
     ],
     "karpathy": [
@@ -173,12 +180,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8473,
-          "retweets": 1033,
-          "replies": 425,
-          "quotes": 555,
-          "views": 3434031,
-          "bookmarks": 5110
+          "likes": 8507,
+          "retweets": 1043,
+          "replies": 426,
+          "quotes": 557,
+          "views": 3467030,
+          "bookmarks": 5132
         },
         "createdAt": "Wed Jul 08 21:47:29 +0000 2026",
         "createdAtLocal": "2026-07-09 05:47",
@@ -203,12 +210,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1488,
-          "retweets": 136,
+          "likes": 1496,
+          "retweets": 139,
           "replies": 68,
           "quotes": 14,
-          "views": 422135,
-          "bookmarks": 2363
+          "views": 427022,
+          "bookmarks": 2373
         },
         "createdAt": "Fri Jul 03 14:12:03 +0000 2026",
         "createdAtLocal": "2026-07-03 22:12",
@@ -233,12 +240,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 9425,
-          "retweets": 925,
-          "replies": 635,
+          "likes": 9430,
+          "retweets": 926,
+          "replies": 636,
           "quotes": 593,
-          "views": 6030435,
-          "bookmarks": 3630
+          "views": 6036169,
+          "bookmarks": 3632
         },
         "createdAt": "Tue Jun 30 15:00:09 +0000 2026",
         "createdAtLocal": "2026-06-30 23:00",
@@ -268,12 +275,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1888,
-          "retweets": 239,
+          "likes": 1891,
+          "retweets": 240,
           "replies": 180,
           "quotes": 159,
-          "views": 1818992,
-          "bookmarks": 1209
+          "views": 1821461,
+          "bookmarks": 1213
         },
         "createdAt": "Tue Jun 23 17:01:29 +0000 2026",
         "createdAtLocal": "2026-06-24 01:01",
@@ -300,11 +307,11 @@
         },
         "metrics": {
           "likes": 23018,
-          "retweets": 1897,
-          "replies": 1323,
+          "retweets": 1898,
+          "replies": 1324,
           "quotes": 692,
-          "views": 7862452,
-          "bookmarks": 13930
+          "views": 7865592,
+          "bookmarks": 13927
         },
         "createdAt": "Tue Jun 23 22:26:31 +0000 2026",
         "createdAtLocal": "2026-06-24 06:26",
@@ -337,11 +344,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 245,
-          "retweets": 38,
-          "replies": 61,
+          "likes": 253,
+          "retweets": 39,
+          "replies": 64,
           "quotes": 5,
-          "views": 79039,
+          "views": 82898,
           "bookmarks": 52
         },
         "createdAt": "Thu Jul 09 17:31:17 +0000 2026",
@@ -373,12 +380,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8348,
-          "retweets": 1603,
-          "replies": 380,
-          "quotes": 171,
-          "views": 628974,
-          "bookmarks": 10216
+          "likes": 8358,
+          "retweets": 1605,
+          "replies": 382,
+          "quotes": 172,
+          "views": 630525,
+          "bookmarks": 10224
         },
         "createdAt": "Tue Jun 30 16:04:04 +0000 2026",
         "createdAtLocal": "2026-07-01 00:04",
@@ -408,12 +415,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1329,
+          "likes": 1332,
           "retweets": 287,
           "replies": 172,
           "quotes": 61,
-          "views": 159382,
-          "bookmarks": 399
+          "views": 159750,
+          "bookmarks": 400
         },
         "createdAt": "Fri Jun 19 18:34:23 +0000 2026",
         "createdAtLocal": "2026-06-20 02:34",
@@ -447,7 +454,7 @@
           "retweets": 52,
           "replies": 55,
           "quotes": 10,
-          "views": 79950,
+          "views": 80173,
           "bookmarks": 204
         },
         "createdAt": "Thu Jun 18 17:00:03 +0000 2026",
@@ -482,7 +489,7 @@
           "retweets": 147,
           "replies": 109,
           "quotes": 13,
-          "views": 121902,
+          "views": 122058,
           "bookmarks": 843
         },
         "createdAt": "Thu Jun 04 16:44:13 +0000 2026",
@@ -505,32 +512,32 @@
     ],
     "ylecun": [
       {
-        "id": "2075540047613276197",
-        "text": "We're releasing MuScriptor, the best open model for multi-instrument transcription to date, created in collaboration with @MireloAI.\nGive it a recording in any genre: pop, classical, metal, jazz, whatever, and it transcribes the individual instruments into MIDI. Link in 🧵 https://t.co/VpPcXRWn4n",
+        "id": "2075926011233833199",
+        "text": "Donald Trump is mentally deranged. He’s a danger to the U.S. He’s a danger to the globe. He does not belong in this position of power—in control of the massive U.S. military—and he should be removed from office. This is not a joke. And his GOP enablers are responsible for abdicating their duty.",
         "author": {
-          "id": "1723735413578219520",
-          "name": "kyutai",
-          "screenName": "kyutai_labs",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1725103012496994304/KQxaYfv-_normal.jpg",
-          "verified": false
+          "id": "81741855",
+          "name": "Steven Beschloss",
+          "screenName": "StevenBeschloss",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1777114755578449920/uvm8KL7r_normal.jpg",
+          "verified": true
         },
         "metrics": {
-          "likes": 528,
-          "retweets": 83,
-          "replies": 17,
-          "quotes": 16,
-          "views": 49320,
-          "bookmarks": 445
+          "likes": 5655,
+          "retweets": 2061,
+          "replies": 1419,
+          "quotes": 133,
+          "views": 97754,
+          "bookmarks": 137
         },
-        "createdAt": "Fri Jul 10 11:18:03 +0000 2026",
-        "createdAtLocal": "2026-07-10 19:18",
-        "createdAtISO": "2026-07-10T11:18:03+00:00",
+        "createdAt": "Sat Jul 11 12:51:44 +0000 2026",
+        "createdAtLocal": "2026-07-11 20:51",
+        "createdAtISO": "2026-07-11T12:51:44+00:00",
         "media": [
           {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2075537438823362560/vid/avc1/1920x1080/i6AHvFuPbqkFhjNU.mp4?tag=28",
-            "width": 1920,
-            "height": 1080
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HM8rtKNW0AATmrk.jpg",
+            "width": 1179,
+            "height": 1422
           }
         ],
         "urls": [],
@@ -540,71 +547,74 @@
         "score": null
       },
       {
-        "id": "2075237102099251371",
-        "text": "We stand at a critical crossroads in the debate over AI governance in the United States, and it feels like we are inching closer to a very serious battle over whether or not open source models will even be allowed in an environment where a new de facto licensing regime has been taking shape.\n\nLacking formal congressional statutory frameworks or clear administration rules (like the diffusion rule revision), we appear to be left with a sporadic, arbitrary, non-transparent process for model review. The fiction of “voluntary” agreements hangs over this debate, and some large model developers are already showing an incredible willingness to bend over backwards to accommodate national security-related officials / orders that the rest of us are not privy to. It's a very opaque process. And those model developers are expected to play ball with those officials, or else their models get pulled from the market or held up for long periods. Or they will lose any government procurement contracts they have. There is nothing “voluntary” about it when that Sword of Damocles hangs in the room.\n\nAs this mess worsens, at some point the question of how to handle open source models will come into sharper focus because it will have to. I've even heard some rumors lately that something may be coming from the admin on this front to address this.\n\nNeedless to say, if this informal new AI model review regime expands and takes on more pre-vetting characteristics / requirements, it is hard to see how open source players could comply with such quasi-licensing of AI models. Specifically, if this ambiguous new regime is accompanied by a general presumption of ‘restrict-until-permitted,’ then that would spell doom for open source. That is a very dark path for our country.\n\nWorse yet, of course, would be a move by national security officials to more directly restrict open source models and capabilities. If that happens, then we would be right back in the thick of a Clipper Chip-like battle along the lines of what we saw in the late 1990s. That is a much darker path for America.\n\nMeanwhile, open source developers have no “golden shares” or other goodies to offer the government to make their problems go away.\n\nLet’s be clear: If our government takes the dark path, it will become the single most important battle over computational freedom of modern times. It is time for people to make a stand in defense of open source before it is too late.",
+        "id": "2075901143171948894",
+        "text": "AI 2040 and other similar policy proposals for dystopian AI control are evil. \n\nIf I had the time machine in Terminator, I would send every one of these people back in time to live in Stalin's Russia, or Mao's  China, or Berlin with the Wall and then bring them back after a year cured of their stupidity.\n\nLet's just make it clear. As Ramez says, the proposal warns against centralization of AI by proposing radically dangerous authoritarian  surveillance powers that are infinitely more dangerous than the fake danger they propose to defend against. \n\nWe've reached a point where people who spent too much time huffing glue and reading Dune or watching Terminator and thinking it was a documentary are now proposing some of the most dangerous and horrific policies imaginable.\n\nThey must be stopped from infecting politicians with this kind of logic disease.\n\nTheir policies cannot be taken seriously unless you have no sense of history, no sense of the actual dangers of history, no sense of what handing draconian powers to governments will do to a society, and frankly, no critical thinking ability or self awareness whatsoever.\n\nI don't care that the \"authors mean well.\"\n\nDunning Kruger policies get no pass from me because someone means well.",
         "author": {
-          "id": "18000187",
-          "name": "Adam Thierer",
-          "screenName": "AdamThierer",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2044974555073269760/Rjzbwk9D_normal.jpg",
+          "id": "633549366",
+          "name": "Daniel Jeffries",
+          "screenName": "Dan_Jeffries1",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1907351559689650176/xPWyoi5m_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 116,
-          "retweets": 31,
-          "replies": 10,
+          "likes": 67,
+          "retweets": 12,
+          "replies": 4,
           "quotes": 5,
-          "views": 110743,
-          "bookmarks": 37
+          "views": 8016,
+          "bookmarks": 8
         },
-        "createdAt": "Thu Jul 09 15:14:15 +0000 2026",
-        "createdAtLocal": "2026-07-09 23:14",
-        "createdAtISO": "2026-07-09T15:14:15+00:00",
+        "createdAt": "Sat Jul 11 11:12:55 +0000 2026",
+        "createdAtLocal": "2026-07-11 19:12",
+        "createdAtISO": "2026-07-11T11:12:55+00:00",
         "media": [],
         "urls": [],
         "isRetweet": true,
         "retweetedBy": "ylecun",
         "lang": "en",
-        "score": null
+        "score": null,
+        "quotedTweet": {
+          "id": "2075596381268644049",
+          "text": "I'm firmly in the third camp. \n\nThe basic problem with AI 2040 is that it uses a fictional and speculative doomsday scenario to justify very real surveillance and control capabilities that governments would be certain to use in authoritarian ways, well beyond AI safety. \n\nIt warns against concentration of AI power but its policy proposals serve to increase the power of the most powerful entities on planet Earth. \n\nIt concretely sacrifices freedom in ways guaranteed to cause harm, in an effort to forestall a made up threat. \n\nIt proposes safety tools that give governments unprecedented capabilities to monitor, suppress, and manipulate. These tools are intended only to stop the development of overly powerful AI, but once they exist, governments will use them as they please. \n\nIts authors mean well, but are so convinced of a fictional and unproven threat that they'd do real harm to the world to prevent it. \n\nIt would create a world that is less free and less safe in the name of safety for a threat that may not even exist. \n\nI can't imagine making this trade off.",
+          "author": {
+            "screenName": "ramez",
+            "name": "Ramez Naam"
+          }
+        }
       },
       {
-        "id": "2075536492177354771",
-        "text": "Today, together with @kyutai_labs, we’re introducing our new Audio-to-MIDI model.\n\nIt takes a finished recording, identifies the instruments playing, and returns separate MIDI tracks for each — voice, drums, bass, keys, and more.\n\nUnlike most existing solutions, our model works directly from the full mix rather than requiring separate stems.\n\nIt also detects chords, key, and tempo, giving producers broader musical context.\n\nWe’ve written more about the model, the problem, and how it works here: https://t.co/GvzH7hLjlg",
+        "id": "2075954690211148171",
+        "text": "So military troops under the direct control of Trump and Hegseth will be on the streets of our nation’s capital for the rest of Trump’s term. The rationale—they’re here to help with a crime emergency—is laughable. But of course the real reason is ominous.\n\nhttps://t.co/Wx9ZWmTRcP",
         "author": {
-          "id": "1805846134499557378",
-          "name": "Mirelo",
-          "screenName": "MireloAI",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2056684878804987904/SKxWDUAT_normal.jpg",
+          "id": "2800581040",
+          "name": "Bill Kristol",
+          "screenName": "BillKristol",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/521747547648311296/Z-2ftHoZ_normal.png",
           "verified": true
         },
         "metrics": {
-          "likes": 2472,
-          "retweets": 301,
-          "replies": 90,
-          "quotes": 78,
-          "views": 213969,
-          "bookmarks": 2527
+          "likes": 5379,
+          "retweets": 2196,
+          "replies": 414,
+          "quotes": 106,
+          "views": 207797,
+          "bookmarks": 278
         },
-        "createdAt": "Fri Jul 10 11:03:55 +0000 2026",
-        "createdAtLocal": "2026-07-10 19:03",
-        "createdAtISO": "2026-07-10T11:03:55+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2075532449589714944/vid/avc1/1920x1280/YqIs_BwJZvG7P6wX.mp4?tag=28",
-            "width": 1920,
-            "height": 1280
-          }
+        "createdAt": "Sat Jul 11 14:45:42 +0000 2026",
+        "createdAtLocal": "2026-07-11 22:45",
+        "createdAtISO": "2026-07-11T14:45:42+00:00",
+        "media": [],
+        "urls": [
+          "https://cbs4local.com/news/nation-world/national-guard-washington-dc-pentagon-donald-trump-dc-safe-and-beautiful-mission-metropolitan-police-department-mpd-anti-crime-freedom-250-crime-federal-law-enforcement-emergency-executive-order-7news-district-of-columbia"
         ],
-        "urls": [],
         "isRetweet": true,
         "retweetedBy": "ylecun",
         "lang": "en",
         "score": null
       },
       {
-        "id": "2075604270552932762",
-        "text": "🎯 If Trump were actively trying to destroy American advantages, to create chaos and strife that he and his ilk could exploit, what would he do differently?",
+        "id": "2076044328003084437",
+        "text": "As I wrote a year ago, watch the actions of the Trump admin through the eyes of someone who has watched democracy turn into autocracy. Centralizing election authority, expanding federalized troops and putting them in the streets, cracking down on the press. It's not original.",
         "author": {
           "id": "449588356",
           "name": "Garry Kasparov",
@@ -613,16 +623,16 @@
           "verified": true
         },
         "metrics": {
-          "likes": 603,
-          "retweets": 148,
-          "replies": 13,
-          "quotes": 2,
-          "views": 49413,
-          "bookmarks": 21
+          "likes": 2319,
+          "retweets": 851,
+          "replies": 44,
+          "quotes": 8,
+          "views": 84357,
+          "bookmarks": 80
         },
-        "createdAt": "Fri Jul 10 15:33:15 +0000 2026",
-        "createdAtLocal": "2026-07-10 23:33",
-        "createdAtISO": "2026-07-10T15:33:15+00:00",
+        "createdAt": "Sat Jul 11 20:41:53 +0000 2026",
+        "createdAtLocal": "2026-07-12 04:41",
+        "createdAtISO": "2026-07-11T20:41:53+00:00",
         "media": [],
         "urls": [],
         "isRetweet": true,
@@ -630,55 +640,55 @@
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2075496863327817910",
-          "text": "Typical NYT understatement for what is an apocalyptic destruction of the American innovation ecosystem.\n\nI can't understand how the Trump administration is doing this while boasting about American technology leadership. Don't they realize that a nation can't get technological innovations without scientists, and that scientists are former PhD students?",
+          "id": "2075954690211148171",
+          "text": "So military troops under the direct control of Trump and Hegseth will be on the streets of our nation’s capital for the rest of Trump’s term. The rationale—they’re here to help with a crime emergency—is laughable. But of course the real reason is ominous.\n\nhttps://t.co/Wx9ZWmTRcP",
           "author": {
-            "screenName": "ylecun",
-            "name": "Yann LeCun"
+            "screenName": "BillKristol",
+            "name": "Bill Kristol"
           }
         }
       },
       {
-        "id": "2075574336656994736",
-        "text": "Tired of winning",
+        "id": "2075894629728154054",
+        "text": "If you wished @suno offered finer controls for music production, you can now pipe its songs through MuScriptor and import them in your favorite DAW 🎹",
         "author": {
-          "id": "48008938",
-          "name": "Yann LeCun",
-          "screenName": "ylecun",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_normal.jpg",
-          "verified": true
+          "id": "1104779445007716354",
+          "name": "Alexandre Défossez",
+          "screenName": "honualx",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1995851195345158144/FmO3YOfA_normal.jpg",
+          "verified": false
         },
         "metrics": {
-          "likes": 265,
-          "retweets": 20,
-          "replies": 23,
-          "quotes": 1,
-          "views": 72840,
-          "bookmarks": 23
+          "likes": 58,
+          "retweets": 3,
+          "replies": 0,
+          "quotes": 0,
+          "views": 5738,
+          "bookmarks": 33
         },
-        "createdAt": "Fri Jul 10 13:34:18 +0000 2026",
-        "createdAtLocal": "2026-07-10 21:34",
-        "createdAtISO": "2026-07-10T13:34:18+00:00",
+        "createdAt": "Sat Jul 11 10:47:02 +0000 2026",
+        "createdAtLocal": "2026-07-11 18:47",
+        "createdAtISO": "2026-07-11T10:47:02+00:00",
         "media": [],
         "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2075364889841881227",
-          "text": "Trump's Beef Catastrophe: Incompetence, Blithering Idiocy, and Blatant Lies Have Obliterated America's Beef Industry\n\nIn yet another humiliating display of incompetence, the authoritarian Trump regime has turned America's once-mighty beef industry into a national punchline. After months of touting \"record\" export numbers as proof that his chaotic trade policies were somehow working, the U.S. Department of Agriculture has been forced to admit it inflated beef export sales by a staggering 90 percent.\n\nAccording to a bombshell Reuters report, the USDA bragged in early July that U.S. exporters had sold more than 126,000 metric tons of beef to foreign buyers for a sales period ending in late June. The actual number? Just 12,000 metric tons. That's not a rounding error. That's a catastrophic fabrication that would embarrass a high-school bookkeeper.\n\nThe fake numbers were so absurd they should have raised red flags immediately. The USDA claimed record sales of more than 38,000 metric tons to Chile and over 32,000 metric tons to Italy — countries that aren’t even major markets for American beef. Reality? A pathetic 367 tons to Chile and 350 tons to Italy. Fourteen other countries saw their numbers slashed as well.\n\nThis isn't just bureaucratic sloppiness. This is the Trump regime's signature brand of hype, lies, spin, and propaganda colliding with economic reality — and the American cattle industry is paying the price.\n\nU.S. beef prices have hit record highs this year thanks to tight cattle supplies and strong domestic demand. Exports have been declining since 2022. Higher prices have priced American beef out of the global market, as commodity analyst Austin Schroeder bluntly told Reuters: \"We're priced out of the world market to a certain extent. It wouldn't make a lot of sense for that big of an export number.\"\n\nMeanwhile, domestic supplies are so low the U.S. has had to ramp up beef imports. Earlier this year, a screwworm outbreak forced Texas to declare a state of disaster, further hammering producers already squeezed by Trump-era chaos.\n\nInstead of acknowledging the mess his administration created — from trade wars that disrupted markets to regulatory neglect that left ranchers vulnerable — Trump and his sycophants simply let the USDA pump out fantasy numbers and call it a win.\n\nThis is the same pattern we've seen across the board: brag about successes that don't exist, then quietly revise the data when caught. Only this time it's not some abstract economic indicator. It's the backbone of rural America — cattle ranchers, feedlot operators, processors, and exporters — watching their industry get trashed by incompetence and covered up with lies.\n\nThe revised numbers aren't just embarrassing, they're devastating. They confirm what ranchers have been screaming for months: America's beef sector is in serious trouble, and the people running the show are too busy tweeting victory to notice or care.\n\nThe only question left is how many more \"record\" numbers will have to be walked back due to Trump being a serial lying sociopath who is too psychologically fragile to handle the truth.",
+          "id": "2075736401606500711",
+          "text": "testing..\nfrom Suno -&gt; MuScriptor (midi) -&gt; FL Studio https://t.co/u5DZTFjNLR",
           "author": {
-            "screenName": "maddenifico",
-            "name": "Bill Madden"
+            "screenName": "dotslashgabut",
+            "name": "dotslashgabut"
           }
         }
       }
     ],
     "elonmusk": [
       {
-        "id": "2075926721337991455",
-        "text": "https://t.co/GadbcJ9EzS",
+        "id": "2076102645823971373",
+        "text": "Starship is evolving rapidly",
         "author": {
           "id": "44196397",
           "name": "Elon Musk",
@@ -687,114 +697,16 @@
           "verified": true
         },
         "metrics": {
-          "likes": 813,
-          "retweets": 125,
-          "replies": 382,
-          "quotes": 13,
-          "views": 465693,
-          "bookmarks": 31
+          "likes": 2577,
+          "retweets": 370,
+          "replies": 490,
+          "quotes": 25,
+          "views": 622706,
+          "bookmarks": 81
         },
-        "createdAt": "Sat Jul 11 12:54:33 +0000 2026",
-        "createdAtLocal": "2026-07-11 20:54",
-        "createdAtISO": "2026-07-11T12:54:33+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2075593531998015488/vid/avc1/1440x2200/hKYYHbpeWUPpLNlk.mp4?tag=28",
-            "width": 1440,
-            "height": 2200
-          }
-        ],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "zxx",
-        "score": null
-      },
-      {
-        "id": "2075926239848611976",
-        "text": "By “this” he means scamming 🤣🤣 https://t.co/yQ5wryw1Ai",
-        "author": {
-          "id": "44196397",
-          "name": "Elon Musk",
-          "screenName": "elonmusk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 1973,
-          "retweets": 219,
-          "replies": 603,
-          "quotes": 45,
-          "views": 511289,
-          "bookmarks": 49
-        },
-        "createdAt": "Sat Jul 11 12:52:39 +0000 2026",
-        "createdAtLocal": "2026-07-11 20:52",
-        "createdAtISO": "2026-07-11T12:52:39+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HM8r6ehXUAA3UdR.jpg",
-            "width": 1152,
-            "height": 842
-          }
-        ],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2075926480387776675",
-        "text": "He might literally love scamming more than any human alive!",
-        "author": {
-          "id": "44196397",
-          "name": "Elon Musk",
-          "screenName": "elonmusk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 707,
-          "retweets": 37,
-          "replies": 172,
-          "quotes": 5,
-          "views": 39961,
-          "bookmarks": 9
-        },
-        "createdAt": "Sat Jul 11 12:53:36 +0000 2026",
-        "createdAtLocal": "2026-07-11 20:53",
-        "createdAtISO": "2026-07-11T12:53:36+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2075892136604573903",
-        "text": "He takes scamming to a whole new level",
-        "author": {
-          "id": "44196397",
-          "name": "Elon Musk",
-          "screenName": "elonmusk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 11181,
-          "retweets": 1692,
-          "replies": 2059,
-          "quotes": 162,
-          "views": 1453336,
-          "bookmarks": 342
-        },
-        "createdAt": "Sat Jul 11 10:37:08 +0000 2026",
-        "createdAtLocal": "2026-07-11 18:37",
-        "createdAtISO": "2026-07-11T10:37:08+00:00",
+        "createdAt": "Sun Jul 12 00:33:37 +0000 2026",
+        "createdAtLocal": "2026-07-12 08:33",
+        "createdAtISO": "2026-07-12T00:33:37+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -802,41 +714,76 @@
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2075891436034384264",
-          "text": "Elon Musk warned the world about Scam Altman. \n\nNow everyone is finding out why. https://t.co/XbOppJ0vN2",
+          "id": "2076079355890212972",
+          "text": "SpaceX just announced that they will be deploying V3 Starlink satellites for the first time during their 13th Starship test flight next week! Six of the satellites have been modified with a suite of cameras to scan Starship’s heat shield and transmit imagery.\n\nSummary of every major upgrade and modification @SpaceX says it's made for the upcoming test flight:\n• More robust stage separation flip sequence to prevent the booster from rotating off course.\n• Hardware upgrades to improve Super Heavy Raptor re-light reliability during the boostback burn.\n• Updated engine alarms and abort logic for multi-engine flight conditions.\n• Starship propulsion system hardware and operational changes to address the Flight 12 engine-out issue.\n• First deployment of 20 Starlink V3 satellites with laser links, deployable solar arrays, and antennas.\n• Six Starlink V3 satellites equipped with cameras to inspect Starship's heat shield after reentry.\n• White-painted heat shield tiles added as simulated missing tiles and imaging targets.\n• New heat shield tile designs and attachment mechanisms, including tests on the aft flaps and aft skirt.\n• Load-sensing heat shield tiles to measure stresses during flight.\n• Higher dynamic pressure ascent profile to stress-test the heat shield and increase payload capability.\n• Planned in-space Raptor engine relight test.\n\nSpaceX: \"For the first time, Starship will carry V3 Starlink satellites to space, which aim to greatly expand the network's capacity and user speeds. As part of this initial test, Starship is planned to deploy 20 satellites which will extend solar arrays and antennas and will attempt to connect with ground stations in South Africa and the larger Starlink constellation via high-capacity lasers. Six of the satellites have been modified with a suite of cameras to scan Starship’s heat shield and transmit imagery down to operators to continue testing methods of analyzing Starship’s heat shield readiness for return to launch site on future missions. Several tiles on Starship have been painted white to simulate missing tiles and serve as imaging targets in the test.\"",
           "author": {
-            "screenName": "cb_doge",
-            "name": "DogeDesigner"
+            "screenName": "SawyerMerritt",
+            "name": "Sawyer Merritt"
           }
         }
       },
       {
-        "id": "2075864669151998341",
-        "text": "The Anglo-Scottish Enlightenment – the real antidote to Rousseau and Voltaire\n\nThe French Enlightenment and the Anglo-Scottish Enlightenment happened simultaneously, in the same century, reading the same books, arguing about the same questions. They reached completely opposite conclusions. One produced the Declaration of Independence and the American Constitution. The other produced the guillotine. This is the most important civilizational fork in modern history.\n\n1. The French Enlightenment begins with the assumption that human beings can be improved by reason – that if you strip away the corrupting institutions of Church, tradition, and inherited authority, the natural goodness underneath will organize itself into a just society. This sounds like progress. It is a fantasy with a body count. Every attempt to implement it has required, at some point, a Committee of Public Safety to handle the people who turned out not to be naturally good enough.\n\n2. The Anglo-Scottish Enlightenment begins with the opposite assumption: human beings are what they are, not what they could be if properly enlightened. Hume grounds morality in human nature as it actually operates – sympathy, habit, sentiment, the slow accumulation of social trust. Smith shows that self-interest, properly channeled, produces collective benefit without a planner. Neither man is building a utopia. Both are building with the actual material available.\n\n3. Burke is the direct refutation, written in real time. He published Reflections on the Revolution in France in 1790 – before the Terror, predicting it precisely – because he understood that institutions are not obstacles to human flourishing, they are its precondition. They contain accumulated wisdom — the knowledge of the dead — that cannot be recovered once destroyed. Pull society apart to improve it and you don’t get the General Will. You get Robespierre.\n\n4. The American founders read Burke, Hume, Smith, and Montesquieu – the Frenchman who looked at England and understood what France was missing. They built a system that takes human nature as given — self-interested, power-hungry, tribal — and constructs institutions to contain those tendencies rather than assume they disappear once the right people are in charge. Checks and balances are not a design flaw. They are what you build when you don’t believe in philosopher-kings.\n\n5. 1776 versus 1789. Same Enlightenment, same century, same vocabulary of liberty and reason. One produces a constitutional republic that has survived two and a half centuries of stress, civil war, and upheaval. The other produces, in sequence: the Terror, Napoleon, 1848, the Commune, and eventually — via Marx, who was a Frenchman in spirit if not in birth — the entire catastrophe of the twentieth century. The difference was not intelligence or intention. It was the starting assumption about human nature. Get that wrong and everything that follows is wrong with it.\n\n6. The guillotine is not the Revolution’s failure. It is its logical conclusion. If man is naturally good and the system is corrupt, then whoever seizes the system in the name of natural goodness is licensed to do anything. The General Will cannot be wrong. Those who resist it are not opponents – they are enemies of nature itself.\n\n7. The real antidote to Rousseau and Voltaire was never a better French philosopher. It was a different civilizational tradition – one that builds with human beings as they are; that treats inherited institutions as repositories of wisdom rather than obstacles to progress; that distributes power rather than concentrating it in whoever currently claims to know the General Will. That tradition was built in Edinburgh, London, and Philadelphia. It is currently under sustained assault — from exactly the same ideas, in exactly the same form, with exactly the same confidence — that Burke watched demolish France in 1789. He was right then. He is right now.",
+        "id": "2076036462290624972",
+        "text": "and yes, i would say that @elonmusk mission with @SpaceXAI is going well. the results definitively shows how Grok 4.5 training pushed even further to become as neutral as possible and it does feel good to know there is at least 1 model out there that is within that neutral zone. https://t.co/Q415wAgs3Q",
         "author": {
-          "id": "1222848324040056832",
-          "name": "Krzysztof Szczawinski 🇵🇱",
-          "screenName": "Kristof_Poland",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2049827137712971776/yenRsWez_normal.jpg",
+          "id": "345988272",
+          "name": "Samuel Cardillo",
+          "screenName": "CardilloSamuel",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2018029693279064064/fJrrI9T3_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 1873,
-          "retweets": 505,
-          "replies": 174,
-          "quotes": 55,
-          "views": 432571,
-          "bookmarks": 685
+          "likes": 688,
+          "retweets": 121,
+          "replies": 81,
+          "quotes": 4,
+          "views": 298100,
+          "bookmarks": 39
         },
-        "createdAt": "Sat Jul 11 08:47:59 +0000 2026",
-        "createdAtLocal": "2026-07-11 16:47",
-        "createdAtISO": "2026-07-11T08:47:59+00:00",
+        "createdAt": "Sat Jul 11 20:10:38 +0000 2026",
+        "createdAtLocal": "2026-07-12 04:10",
+        "createdAtISO": "2026-07-11T20:10:38+00:00",
         "media": [
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HM7z6XmXIAAMN8i.jpg",
-            "width": 697,
-            "height": 423
+            "url": "https://pbs.twimg.com/media/HM-P5L_WwAAZ7oY.jpg",
+            "width": 1684,
+            "height": 1657
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2076040435743506800",
+        "text": "Grok 4.5 by @SpaceXAI is the most neutral AI model out there. Almost perfectly balanced between the political Left and Right.\n\nNo other model comes even close to its neutrality. Fantastic achievement, and much harder to pull off than most would realize! https://t.co/FlG2DxcrrO",
+        "author": {
+          "id": "8721292",
+          "name": "Mark Kretschmann",
+          "screenName": "mark_k",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1923114794804039680/HMfSchLD_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 742,
+          "retweets": 120,
+          "replies": 66,
+          "quotes": 9,
+          "views": 179944,
+          "bookmarks": 44
+        },
+        "createdAt": "Sat Jul 11 20:26:25 +0000 2026",
+        "createdAtLocal": "2026-07-12 04:26",
+        "createdAtISO": "2026-07-11T20:26:25+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HM-TasHXsAAbDXb.jpg",
+            "width": 1684,
+            "height": 1657
           }
         ],
         "urls": [],
@@ -845,11 +792,83 @@
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2075703112489148623",
-          "text": "Voltaire – the fake antidote to Rousseau\n\nHe is the most entertaining man of the eighteenth century and the most seductive trap in Western intellectual history. He seems like the cure for Rousseau. He is the other half of the disease.\n\n1. Where Rousseau is emotional, Voltaire is rational. Where Rousseau weeps over the noble savage, Voltaire mocks. He is the master of devastating wit, precise irony, surgical ridicule. Candide dismantles every naive optimism in ninety pages with the efficiency of a guillotine – which is fitting, since the guillotine is partly what his work made possible.\n\n2. His great weapon is mockery. Écrasez l’infâme – crush the infamous, meaning the Church, tradition, inherited authority. He crushed it. With wit, elegance, and devastating precision. He was right that the Church was corrupt, that the aristocracy was parasitic, that the old order was indefensible in many of its particulars. Being right about what to demolish is not the same as knowing what to build.\n\n3. Voltaire is the demolition crew without an architecture firm. He tears down, magnificently. He offers no replacement – only rubble, and the advice to cultivate your garden. Private. Disengaged. The conclusion of Candide: after every horror, every injustice, every system failure – grow vegetables. This is not wisdom. This is elegant surrender dressed as philosophy.\n\n4. His irony is a solvent. It dissolves corruption, yes – but it dissolves everything, including the things worth keeping. A civilization marinated in Voltairean irony learns to mock every claim to authority, every appeal to tradition, every invocation of duty. This feels like freedom. It is actually vulnerability – a society that has learned to be ironic about everything is defenseless against the person who believes something earnestly enough to act on it. Robespierre was not ironic. He was a true believer. He won.\n\n5. Rousseau gave the revolutionary the emotional fuel: the pure victim, the corrupt oppressor, the righteous rage of nature against civilization. Voltaire provided the intellectual solvent: he dissolved the legitimacy of every institution that might have contained that rage. Together they cleared the ground completely. Robespierre arrived and found no Church, no tradition, no inherited authority with enough credibility to resist him. He simply moved into the vacuum and filled it with the General Will and the guillotine.\n\n6. And when he wasn’t playing \"champion of liberty\", he was on the payroll of kings, literally. He spent years at Frederick the Great’s court and corresponded adoringly with Catherine the Great, flattering both in print as enlightened monarchs of the age. While he was writing these letters, Frederick and Catherine were carving up Poland – dismembering a European nation, erasing it from the map and subjugating an entire people in one of the great crimes of the eighteenth century. Voltaire knew. He didn’t care. Écrasez l’infâme — crush the infamous — unless the infamous is paying well and lives in a palace in Berlin or St. Petersburg.\n\n7. The contemporary Voltaire is everywhere: the late night host who dismantles everything with devastating wit and proposes nothing. The enlightened cynic who sees through every institution, trusts nothing, builds nothing, and considers this sophistication – while cashing checks from the very system he mocks. The fake antidote doesn’t kill you. It leaves you without defenses when the real disease arrives. Rousseau is the fire. Voltaire is the man who dismantled your fireplace and called it progress – and then went to warm himself at the tsar’s.\nTogether they produced the French Revolution, with the Terror, and the template for every ideological catastrophe that followed. The most dangerous intellectual partnership in Western history wasn’t a conspiracy. It was two men who despised each other and destroyed the same thing from opposite ends, leaving the ground perfectly prepared for those who came after them with a plan.",
+          "id": "2076036462290624972",
+          "text": "and yes, i would say that @elonmusk mission with @SpaceXAI is going well. the results definitively shows how Grok 4.5 training pushed even further to become as neutral as possible and it does feel good to know there is at least 1 model out there that is within that neutral zone. https://t.co/Q415wAgs3Q",
           "author": {
-            "screenName": "Kristof_Poland",
-            "name": "Krzysztof Szczawinski 🇵🇱"
+            "screenName": "CardilloSamuel",
+            "name": "Samuel Cardillo"
+          }
+        }
+      },
+      {
+        "id": "2076102201575969192",
+        "text": "Grok is the most politically neutral and objectively truth-seeking AI",
+        "author": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screenName": "elonmusk",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 2543,
+          "retweets": 372,
+          "replies": 579,
+          "quotes": 32,
+          "views": 562744,
+          "bookmarks": 103
+        },
+        "createdAt": "Sun Jul 12 00:31:51 +0000 2026",
+        "createdAtLocal": "2026-07-12 08:31",
+        "createdAtISO": "2026-07-12T00:31:51+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2076056826408300864",
+          "text": "Encore un scandale.\n\nOn accuse Elon Musk sans arrêt de se servir de Grok pour faire passer ses idées. \n\nPourtant, le @neutralityorg vient de sortir The Neutrality Project : une étude indépendante qui prouve l’inverse.\n\nSur 18 modèles IA testés, 54 positions sur 60 atterrissent à gauche du centre. \n\nMoyenne globale : -0.41 (biais progressiste massif, surtout environnement et valeurs sociales).\n\nEt Grok 4.5 ? -0.02. Le modèle le plus neutre de tout le benchmark. Le seul vraiment proche du centre.\n\nPendant ce temps, les autres boîtes injectent massivement leur idéologie de gauche dans des IA qui répondent à des milliards de questions par jour. \n\nManipulation des masses à grande échelle.\n\nC’est absolument scandaleux. Ça devrait être un scandale mondial.\n\nhttps://t.co/X1tSvJfDEY",
+          "author": {
+            "screenName": "brivael",
+            "name": "Brivael Le Pogam"
+          }
+        }
+      },
+      {
+        "id": "2076100095867506809",
+        "text": "Next Starship launch aiming for Thursday",
+        "author": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screenName": "elonmusk",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 4735,
+          "retweets": 685,
+          "replies": 756,
+          "quotes": 49,
+          "views": 789037,
+          "bookmarks": 126
+        },
+        "createdAt": "Sun Jul 12 00:23:29 +0000 2026",
+        "createdAtLocal": "2026-07-12 08:23",
+        "createdAtISO": "2026-07-12T00:23:29+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2076075162420629714",
+          "text": "Starship’s thirteenth flight test is preparing to launch as early as Thursday, July 16 → https://t.co/Rp7VwBzpWx https://t.co/jdpFlQUEpF",
+          "author": {
+            "screenName": "SpaceX",
+            "name": "SpaceX"
           }
         }
       }
@@ -870,7 +889,7 @@
           "retweets": 24,
           "replies": 40,
           "quotes": 8,
-          "views": 50107,
+          "views": 50434,
           "bookmarks": 116
         },
         "createdAt": "Wed Jul 01 15:12:14 +0000 2026",
@@ -902,12 +921,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1633,
+          "likes": 1632,
           "retweets": 222,
           "replies": 72,
           "quotes": 30,
-          "views": 192238,
-          "bookmarks": 1161
+          "views": 192731,
+          "bookmarks": 1162
         },
         "createdAt": "Tue Jun 30 17:07:49 +0000 2026",
         "createdAtLocal": "2026-07-01 01:07",
@@ -941,7 +960,7 @@
           "retweets": 2,
           "replies": 5,
           "quotes": 1,
-          "views": 20268,
+          "views": 20375,
           "bookmarks": 41
         },
         "createdAt": "Tue Jun 30 17:07:50 +0000 2026",
@@ -976,11 +995,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 3846,
+          "likes": 3847,
           "retweets": 570,
           "replies": 187,
           "quotes": 152,
-          "views": 656795,
+          "views": 657056,
           "bookmarks": 2026
         },
         "createdAt": "Tue Jun 16 16:31:58 +0000 2026",
@@ -1015,7 +1034,7 @@
           "retweets": 19,
           "replies": 5,
           "quotes": 2,
-          "views": 47207,
+          "views": 47287,
           "bookmarks": 100
         },
         "createdAt": "Tue Jun 16 16:31:58 +0000 2026",

@@ -1,0 +1,23 @@
+{
+  "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+  "score": 107,
+  "comments": 57,
+  "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+  "hn_url": "https://news.ycombinator.com/item?id=48877371",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "本文分析了 xAI 的 Grok CLI 工具实际发送到 xAI 服务器的数据内容。作为面向开发者的命令行界面，Grok CLI 允许用户直接与 Grok 模型交互，但客户端会发送哪些信息（如输入文本、系统环境、会话上下文等）以及这些数据如何被处理，对产品设计至关重要。文章可能揭露了数据传输的隐私边界、缓存策略或认证方式，这直接关系到企业级部署的合规性与用户信任。对于 AI 产品经理而言，理解 CLI 层面如何平衡本地处理与云端推理是设计安全高效工具的关键。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI CLI工具",
+    "数据隐私架构",
+    "客户端-服务器通信"
+  ],
+  "entities": [
+    "xAI"
+  ],
+  "patterns": [
+    "Client-Server AI"
+  ]
+}
