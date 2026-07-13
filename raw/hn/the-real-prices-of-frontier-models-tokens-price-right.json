@@ -1,0 +1,27 @@
+{
+  "title": "The real prices of frontier models. Tokens * Price, right?",
+  "score": 115,
+  "comments": 54,
+  "url": "https://playcode.io/blog/real-price-of-frontier-models",
+  "hn_url": "https://news.ycombinator.com/item?id=48896800",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token"
+  ],
+  "summary_cn": "本文探讨了前沿AI模型（如GPT-4、Claude等）的真实定价问题，核心质疑简单按Token数量乘以单价的计算方式是否合理。产品经理需关注：模型实际成本受上下文长度、缓存命中率、批处理策略等复杂因素影响，忽视这些可能导致成本预估偏差。商业价值在于帮助团队更精准地做预算和定价决策。产品创新点在于推动更透明的计费模式和优化提示词以降低Token消耗。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Token Pricing",
+    "Frontier Model Economics",
+    "Cost Optimization"
+  ],
+  "entities": [
+    "OpenAI",
+    "Anthropic"
+  ],
+  "patterns": [
+    "Token-based Pricing",
+    "Model-as-a-Service (MaaS)"
+  ]
+}

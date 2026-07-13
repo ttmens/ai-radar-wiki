@@ -5,13 +5,69 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 13 Jul 2026 16:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 20:00:57 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Grok uploaded my user directory to xAI's servers</title>
+      <link>https://news.ycombinator.com/item?id=48892512</link>
+      <guid isPermaLink="false">grok-uploaded-my-user-directory-to-xais-servers</guid>
+      <pubDate>2026-07-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Grok（xAI 的 AI 助手）被曝将用户本地目录上传至 xAI 服务器，引发隐私担忧。对 AI 产品经理而言，此事件凸显了 AI 能力（如本地文件读取）与用户数据安全之间的平衡：产品设计需明确告知用户数据上传行为，并提供本地优先或可选的云端处理选项。技术要点包括文件系统访问权限控制和数据传输加密；商业价值在于维护用户信任、避免隐私合规风险；产品创新方向可考虑边缘计算与本地推理架构，减少不必要的数据外传。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop</title>
+      <link>https://news.ycombinator.com/item?id=48892859</link>
+      <guid isPermaLink="false">show-hn-clawk-give-coding-agents-a-disposable-linux-vm-not-your-laptop</guid>
+      <pubDate>2026-07-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Clawk 是一个为 AI 编码代理提供一次性 Linux 虚拟机的工具，让代码代理在隔离环境中运行，而非直接访问用户本地电脑。这解决了代理安全性关键痛点：避免恶意代码、误操作或隐私泄露。产品创新在于轻量级、按需销毁的 VM 设计，既保障安全又不牺牲灵活性。对产品经理而言，该模式可加速企业采用 AI 编码助手，降低合规风险，同时为代理工具链增加可信任的沙箱层，提升用户安全感。技术要点包括快速 VM 启动、资源隔离、以及代理与宿主的解耦。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Waze adds new AI-powered features and customization updates</title>
+      <link>https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/</link>
+      <guid isPermaLink="false">waze-adds-new-ai-powered-features-and-customization-updates</guid>
+      <pubDate>2026-07-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Waze 推出由 Google Gemini AI 驱动的新功能，旨在提升导航个性化与实时决策能力。通过整合 Gemini 的语义理解与上下文感知，Waze 能根据用户偏好、历史行为和实时路况动态调整路线建议，并提供更智能的沿途提醒（如加油站、餐厅推荐）。此举不仅强化了 Waze 在导航市场的竞争力，以对抗 Apple Maps，也体现了 Google 将 Gemini 全面融入其产品生态的战略。对于 AI 产品经理，关键洞察在于：如何利用成熟大模型（如 Gemini）在不改变核心体验的前提下，通过“AI 增强”而非“AI 替代”来优化现有产品，从而降低开发成本、加速迭代。同时，需关注数据隐私</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Anthropic starts localizing Claude pricing for India, its biggest market after t</title>
+      <link>https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/</link>
+      <guid isPermaLink="false">anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-th</guid>
+      <pubDate>2026-07-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Anthropic 在印度市场推出以印度卢比计价的 Claude 订阅计划，印度是其除美国外的最大市场。此举通过本地化定价降低用户获取门槛，提升支付便利性和市场竞争力。对 AI 产品经理而言，这体现了针对高增长市场的区域定价策略，有助于扩大付费用户基数、优化 LTV/CAC，同时为未来在新兴市场复制类似模式提供参考。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Show HN: DOM-docx – HTML to native, editable Word docs (MIT)</title>
+      <link>https://news.ycombinator.com/item?id=48891267</link>
+      <guid isPermaLink="false">show-hn-dom-docx-html-to-native-editable-word-docs-mit</guid>
+      <pubDate>2026-07-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>DOM-docx 是一个开源工具（MIT 许可证），能够将 HTML 内容转换为原生、可编辑的 Word 文档（.docx 格式）。不同于常见 HTML 转 PDF 方案，它保留了文档的编辑性和格式灵活性，非常适合集成到 AI 写作助手、内容生成产品中，使 AI 输出可直接用于 Word 编辑与协作。该工具基于 DOM 解析实现，轻量且易扩展，对于需要将 AI 生成报告、文案、表格等输出为专业文档的产品团队具有实用价值，可降低人工调整格式的成本，加速内容生产到交付的流程。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>The 'absolute magic' of Morse code that still connects people globally</title>
+      <link>https://news.ycombinator.com/item?id=48832329</link>
+      <guid isPermaLink="false">the-absolute-magic-of-morse-code-that-still-connects-people-globally</guid>
+      <pubDate>2026-07-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Frieve Vinyl Explained – Microscopic stylus/groove physics simulation</title>
+      <link>https://news.ycombinator.com/item?id=48843775</link>
+      <guid isPermaLink="false">frieve-vinyl-explained-microscopic-stylusgroove-physics-simulation</guid>
+      <pubDate>2026-07-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>Frieve Vinyl 是一个微观物理模拟项目，精细模拟唱针与黑胶唱片沟槽的交互过程，包括摩擦力、振动和声学特性。该技术利用高精度物理引擎或AI增强模拟，可应用于音频还原、复古音频设备仿真或数字音频处理。商业价值在于为音乐制作、黑胶数字化和音频修复提供更真实的模拟工具，产品创新体现在将微观物理机制引入数字音频领域，提升模拟的逼真度和专业应用潜力。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>Using Grok agents in background mode</title>
       <link>https://x.com/elonmusk/status/2076563677319209094</link>
@@ -34,6 +90,74 @@
       <guid isPermaLink="false">twitter_elonmusk_2076472406860873975</guid>
       <pubDate>2026-07-13T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>NEW: Grok 4.5 now scores highest on the SWE-Atlas-QnA benchmark, edging Claude Fable 5 &amp;amp; GPT-5.6 Sol.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Literally true https://t.co/tcgsHNdytq</title>
+      <link>https://x.com/elonmusk/status/2076690060699684905</link>
+      <guid isPermaLink="false">twitter_elonmusk_2076690060699684905</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Literally true https://t.co/tcgsHNdytq</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>ChatGPT is available again on WhatsApp in the EEA, part of our work to make AI accessible in the app...</title>
+      <link>https://x.com/OpenAI/status/2076654365121855835</link>
+      <guid isPermaLink="false">twitter_OpenAI_2076654365121855835</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>ChatGPT is available again on WhatsApp in the EEA, part of our work to make AI accessible in the apps people already use every day.
+
+Message the verified 1-800-CHATGPT contact to ask questions, upload images, send voice notes, create images, and use ChatGPT in many languages.
+
+Now also on Kakao in S</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>PSA -Just an observation but Senator Lindsey Graham died of the same condition as actor John Ritter....</title>
+      <link>https://x.com/JohnNosta/status/2076484496510357624</link>
+      <guid isPermaLink="false">twitter_JohnNosta_2076484496510357624</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>PSA -Just an observation but Senator Lindsey Graham died of the same condition as actor John Ritter. They each had an aortic dissection, which is a tear in the inner wall of the aorta (the body's main artery). The tear causes high-pressure blood to tunnel between the artery's wall layers, separating</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>I often criticized Lindsey Graham. But this weekend, I learned his full story:
+
+- Orphaned young, he...</title>
+      <link>https://x.com/JohnNosta/status/2076660562046382150</link>
+      <guid isPermaLink="false">twitter_JohnNosta_2076660562046382150</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>I often criticized Lindsey Graham. But this weekend, I learned his full story:
+
+- Orphaned young, he adopted &amp; raised his little sister instead of letting her go into the system.
+
+- Grew up dirt poor, racking balls in his parents’ pool hall.  
+
+- In search of opportunity, he joined the Air Force. Se</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>A friend of mine matched with guy on Tinder.
+
+They scheduled a date on the 14th.
+
+The guy just cance...</title>
+      <link>https://x.com/TheAIGRID/status/2076536369867038745</link>
+      <guid isPermaLink="false">twitter_TheAIGRID_2076536369867038745</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>A friend of mine matched with guy on Tinder.
+
+They scheduled a date on the 14th.
+
+The guy just canceled it so that he can spend more time with Fable 5 right after this announcement. https://t.co/0GrPZI7sGD</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>clarity is nice</title>
+      <link>https://x.com/sama/status/2076696938918084809</link>
+      <guid isPermaLink="false">twitter_sama_2076696938918084809</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.9/10</p><p><strong>类型:</strong> tweet</p><hr/><p>clarity is nice</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -89,11 +213,192 @@ https://t.co/TGaNJKErhJ</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>We can learn a lot more about your health and risk for diseases from your organ and cell proteins th...</title>
+      <link>https://x.com/JohnNosta/status/2076680793641177089</link>
+      <guid isPermaLink="false">twitter_JohnNosta_2076680793641177089</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>We can learn a lot more about your health and risk for diseases from your organ and cell proteins than your age.
+https://t.co/ylgkCvoG9R https://t.co/DbUOrdGDSe</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Oil prices are up nearly $4.50 since Trump scrapped the MoU with Iran.
+
+Without a deal, the market i...</title>
+      <link>https://x.com/ylecun/status/2076673289657745454</link>
+      <guid isPermaLink="false">twitter_ylecun_2076673289657745454</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Oil prices are up nearly $4.50 since Trump scrapped the MoU with Iran.
+
+Without a deal, the market is pricing in elevated oil prices through 2030. The margin of increase will likely go up if there is no progress on negotiations in the coming weeks. https://t.co/3dMgfuAWpX</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Language models and coding agents are great, but there is more to life, and more to AI, than just LL...</title>
+      <link>https://x.com/hardmaru/status/2076683317206806637</link>
+      <guid isPermaLink="false">twitter_hardmaru_2076683317206806637</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Language models and coding agents are great, but there is more to life, and more to AI, than just LLM agents.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>How do physical systems achieve collective intelligence and self-repair without a central brain?
+
+A ...</title>
+      <link>https://x.com/hardmaru/status/2076633306008072592</link>
+      <guid isPermaLink="false">twitter_hardmaru_2076633306008072592</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>How do physical systems achieve collective intelligence and self-repair without a central brain?
+
+A new paper published today in Nature Communications by my Sakana AI colleague Sebastian Risi (@risi1979), along with co-authors from IT University of Copenhagen and Autodesk Research, presents a beauti</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Here’s how we used the Predicting the Past Skill in Google @Antigravity to track down a Roman ring t...</title>
+      <link>https://x.com/GoogleDeepMind/status/2076686114631340046</link>
+      <guid isPermaLink="false">twitter_GoogleDeepMind_2076686114631340046</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Here’s how we used the Predicting the Past Skill in Google @Antigravity to track down a Roman ring thief, map an ancient cult across Europe, and reconstruct the networks of people visiting a Greek oracle. 🧵 https://t.co/Qz8lXnxbkJ</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Big cloud including Amazon and Microsoft are panicking about Anthropic and OpenAI 
+
+It’s simple - Do...</title>
+      <link>https://x.com/bindureddy/status/2076673529572147229</link>
+      <guid isPermaLink="false">twitter_bindureddy_2076673529572147229</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Big cloud including Amazon and Microsoft are panicking about Anthropic and OpenAI 
+
+It’s simple - Do what Grok and Muse spark just did 
+
+Release cheap and performant models - eat into their API margins</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>I love LLMs, I hate hype</title>
       <link>https://news.ycombinator.com/item?id=48883343</link>
       <guid isPermaLink="false">i-love-llms-i-hate-hype</guid>
       <pubDate>2026-07-13T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文作者表达了对大型语言模型（LLM）技术本身的热爱，但强烈反对围绕其能力的过度炒作。从AI产品经理视角看，重点在于理性评估LLM的真实能力边界，避免被浮夸宣传误导而投入错误方向。商业价值体现在：理解当前LLM在上下文长度、推理准确性、成本效益等方面的实际限制，从而设计出务实的产品功能，如聚焦特定场景的辅助工具而非通用智能。产品创新应基于对LLM核心优势（如自然语言理解、生成）的稳健应用，而非追逐不切实际的承诺。作者提醒产品经理必须区分“能力演示”与“可靠产品”，将用户需求和可行性置于首位。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Everyone. Every object. Everything has a story to tell. With Runway, you can share yours, no matter ...</title>
+      <link>https://x.com/runwayml/status/2076679161070891218</link>
+      <guid isPermaLink="false">twitter_runwayml_2076679161070891218</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Everyone. Every object. Everything has a story to tell. With Runway, you can share yours, no matter what it is. 
+
+FLICKER is a short film about a lamp with a past. Imperfect and all-but-forgotten, FLICKER tells the story of what it means to bring light to others lives.
+
+Make your own story come to l</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Remember, the coolest event of the week is happening on the 15th. 
+
+Those who have got their registr...</title>
+      <link>https://x.com/huggingface/status/2076651482653601868</link>
+      <guid isPermaLink="false">twitter_huggingface_2076651482653601868</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Remember, the coolest event of the week is happening on the 15th. 
+
+Those who have got their registrations confirmed, we're looking forward to building stuff with you!
+
+See y'all on D-Day! https://t.co/KksqrnyjPV</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>GPUs for all 🤗
+
+Creating ZeroGPU demos or apps is now available to ALL @huggingface users
+
+tell your...</title>
+      <link>https://x.com/huggingface/status/2076656974876356923</link>
+      <guid isPermaLink="false">twitter_huggingface_2076656974876356923</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>GPUs for all 🤗
+
+Creating ZeroGPU demos or apps is now available to ALL @huggingface users
+
+tell your agent: "Build a HF ZeroGPU demo for this model" 
+
+New Space: https://t.co/kSdMdiemPP
+Agent skill: https://t.co/JuQVcthoM0 https://t.co/P8CKgMMuxD</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>AI developers are buying up old books in Germany in large numbers | Arina Codreanu, Logos Press
+
+Acc...</title>
+      <link>https://x.com/JohnNosta/status/2076633541970923664</link>
+      <guid isPermaLink="false">twitter_JohnNosta_2076633541970923664</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>AI developers are buying up old books in Germany in large numbers | Arina Codreanu, Logos Press
+
+According to German booksellers, demand has surged in recent months, DW reports. On industry forums, sellers say that some individual orders are comparable in size to their annual revenue. In some cases,</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Supabase is growing and hiring like crazy!
+
+We have 50+ open roles across Engineering, Sales, Market...</title>
+      <link>https://x.com/supabase/status/2076653621203144895</link>
+      <guid isPermaLink="false">twitter_supabase_2076653621203144895</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Supabase is growing and hiring like crazy!
+
+We have 50+ open roles across Engineering, Sales, Marketing, Design, and Partnerships, so I'm sure we have a position for you no matter your background!
+
+If you like a fully remote, async-first culture, apply via our career page! https://t.co/i5pJ3s6sA0</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>🔮 Who visited the Oracle of Dodona?
+
+By analyzing collections of ancient lead tablets, the Skill map...</title>
+      <link>https://x.com/GoogleDeepMind/status/2076686125289071074</link>
+      <guid isPermaLink="false">twitter_GoogleDeepMind_2076686125289071074</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>🔮 Who visited the Oracle of Dodona?
+
+By analyzing collections of ancient lead tablets, the Skill mapped visitors traveling from across the ancient world. It reconstructed the community of oracle visitors, turning scattered fragments into a connected network.</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>These examples showcase how the Predicting the Past Skill can push forward historical research using...</title>
+      <link>https://x.com/GoogleDeepMind/status/2076686127604302290</link>
+      <guid isPermaLink="false">twitter_GoogleDeepMind_2076686127604302290</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>These examples showcase how the Predicting the Past Skill can push forward historical research using advanced AI models and complex workflows - with no coding required.
+
+Find out more → https://t.co/jP3WKZA0g8</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>We trained and released DSpark speculators for Kimi-K2.6 and Kimi-K2.7-Code on @huggingface, with na...</title>
+      <link>https://x.com/huggingface/status/2076670078645571679</link>
+      <guid isPermaLink="false">twitter_huggingface_2076670078645571679</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>We trained and released DSpark speculators for Kimi-K2.6 and Kimi-K2.7-Code on @huggingface, with native serving support in @vllm_project.
+
+Across six benchmarks in our batch-size-1 evaluation:
+
+Kimi-K2.6: 2.55× average throughput (+155%)
+Kimi-K2.7-Code: 2.36× average throughput (+136%)</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Lakehouse//RT is built for workloads where milliseconds matter.
+
+Powered by the Reyden engine, it de...</title>
+      <link>https://x.com/databricks/status/2076671217621147945</link>
+      <guid isPermaLink="false">twitter_databricks_2076671217621147945</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Lakehouse//RT is built for workloads where milliseconds matter.
+
+Powered by the Reyden engine, it delivers millisecond query performance directly on the lakehouse. Preview users have seen up to 16× better performance than dedicated real-time serving layers, with response times as low as 10 ms on sma</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -110,6 +415,40 @@ https://t.co/TGaNJKErhJ</p></description>
       <guid isPermaLink="false">claude-code-sends-33k-tokens-before-reading-the-prompt-opencode-sends-7k</guid>
       <pubDate>2026-07-13T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Claude Code 在处理提示前先发送33k tokens，而OpenCode仅发送7k，表明两者在上下文预加载策略上存在显著差异。这种差异直接影响响应速度、成本以及模型对用户意图的理解能力。对于AI产品经理而言，更少的预加载token可能意味着更低的延迟和成本，但可能牺牲对长上下文的支持。这提示在设计AI编程助手时需权衡上下文深度与效率，优化token使用策略以提升用户体验和商业可行性。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>its been surreal to see @willccbb's career take off after getting unleashed on the world. PI (esp @a...</title>
+      <link>https://x.com/swyx/status/2076697594651378171</link>
+      <guid isPermaLink="false">twitter_swyx_2076697594651378171</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>its been surreal to see @willccbb's career take off after getting unleashed on the world. PI (esp @asharoraa and @vincentweisser and @jackminong etc too many to name) are overlooked for having both incredible talent density and great execution. to this extent their crypto-adjacent vibes and aurafarm</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Lindsey Graham:  Financially Ordinary in Congress?
+
+💰Publically available data suggest that Graham h...</title>
+      <link>https://x.com/JohnNosta/status/2076660249046417806</link>
+      <guid isPermaLink="false">twitter_JohnNosta_2076660249046417806</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Lindsey Graham:  Financially Ordinary in Congress?
+
+💰Publically available data suggest that Graham had a modest net worth after 31 years in Congress.
+
+💰After retiring from the Air Force Reserve in 2015, public reporting on his tax returns indicates a military pension was one of his principal sources</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Deleting generated code turned into an accidental education. This dev treats accepted AI suggestions...</title>
+      <link>https://x.com/ThePracticalDev/status/2076661928127074502</link>
+      <guid isPermaLink="false">twitter_ThePracticalDev_2076661928127074502</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Deleting generated code turned into an accidental education. This dev treats accepted AI suggestions like chosen debt.
+
+{ author: Gamya }
+
+https://t.co/qHs5G92bmT</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -182,280 +521,6 @@ https://t.co/TGaNJKErhJ</p></description>
       <guid isPermaLink="false">conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai</guid>
       <pubDate>2026-07-13T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>ConceptSMILE 是一个模型无关的、基于扰动的审计框架，用于评估基于概念的可解释 AI 的可靠性。它通过向模型输入添加扰动，检验概念层输出的一致性与稳定性，从而判断模型推理的可信度。对产品经理而言，该技术可在高风险场景（如医疗诊断、金融风控）中增强模型透明度，辅助合规审计，降低因不可靠解释导致的信任风险。商业价值在于提供标准化的可信度验证工具，推动可解释 AI 在产品中的安全落地。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation</title>
-      <link>http://arxiv.org/abs/2607.09600v1</link>
-      <guid isPermaLink="false">agora-enhancing-llm-agent-reasoning-via-auction-based-task-allocation</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>Agora 提出一种基于拍卖机制的任务分配方法，用于提升大语言模型（LLM）多代理系统的推理能力。传统框架通常采用粗颗粒度的任务-模型匹配，忽略了细粒度需求与专家模型或工具能力的差异。Agora 受经济学拍卖理论启发，通过让多个专家模型对子任务进行竞价，实现最优分配，从而整体提升推理质量和效率。该方法为构建更灵活、高效的 LLM 多代理系统提供了新思路，有助于降低开发复杂度、提高任务执行的准确性和鲁棒性，特别适用于需要多步骤推理和工具调用的复杂场景，具备显著的商业应用潜力。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper</title>
-      <link>https://news.ycombinator.com/item?id=48882716</link>
-      <guid isPermaLink="false">migrating-a-production-ai-agent-to-gpt-56-22x-faster-27-cheaper</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文介绍了一个生产级AI agent从旧模型迁移到GPT-5.6的实际案例，主要成果包括推理速度提升2.2倍、成本降低27%。这为AI产品经理提供了模型升级的量化参考：性能优化与成本节约可以兼得。技术要点在于迁移过程中需评估兼容性、调整提示词策略并优化调用逻辑。商业价值显著，尤其适合高并发、成本敏感的应用场景。产品创新体现在利用新模型的架构优势实现更高效的响应，为用户体验和运营效率带来直接提升。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Ra</title>
-      <link>http://arxiv.org/abs/2607.09629v1</link>
-      <guid isPermaLink="false">4dr360-state-reasoning-for-joint-3d-detection-and-occupancy-prediction-in-4d-rad</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出一种4D毫米波雷达与相机融合的联合3D检测与占用预测方法，通过状态推理实现全场景感知。4D雷达成本低、鲁棒性强，但稀疏数据需与视觉信息互补。技术核心在于同时识别前景物体与密集语义布局，提升自动驾驶环境理解精度。商业价值在于降低传感器成本，同时增强安全性，为L4级自动驾驶提供更可靠的感知方案。产品创新点包括端到端融合架构与状态推理机制。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language</title>
-      <link>http://arxiv.org/abs/2607.09654v1</link>
-      <guid isPermaLink="false">evolution-of-accuracy-and-visual-cognitive-errors-in-a-decade-of-vision-language</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文分析了十年间视觉语言模型（VLM）在视觉推理准确性和认知错误方面的演变。研究发现，大多数评估仍依赖简单场景（如MS-COCO），未能涵盖复杂的人类互动或行为，且基准测试仅使用少量非人工策划的描述。这揭示了当前VLM在现实复杂场景中可能存在的认知盲区，对AI产品经理而言，意味着需警惕模型在真实应用（如人机交互、自动驾驶）中的可靠性问题，并推动更贴近人类行为的评估基准开发，以提升产品落地效果。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Deep Gaussian Processes on Directed Acyclic Graphs</title>
-      <link>http://arxiv.org/abs/2607.09645v1</link>
-      <guid isPermaLink="false">deep-gaussian-processes-on-directed-acyclic-graphs</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出深度高斯过程在有向无环图（DAG）上的扩展，用于建模由多个函数组合构成的真实世界过程，例如因果机制、多保真度工程仿真和基因调控网络。该技术通过结构化概率建模增强了复杂系统的可解释性和预测能力，可应用于药物发现、材料设计和工业仿真优化。产品经理可关注其在非线性因果关系推断、多源数据融合和不确定性量化方面的优势，为AI驱动的科学计算和决策系统提供新思路。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Task-Specific Multimodal Question Answering Agents via Confidence Calibration an</title>
-      <link>http://arxiv.org/abs/2607.09623v1</link>
-      <guid isPermaLink="false">task-specific-multimodal-question-answering-agents-via-confidence-calibration-an</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出一种针对QANTA 2026多模态问答竞赛的方法，通过置信度校准和增量推理提升系统在逐步揭示文本和图像下的金字塔式问答能力。技术要点包括：利用不确定性估计动态决定是否等待更多信息，结合视觉与语言模态进行渐进式推理。商业价值在于降低多模态系统的计算成本并提高实时问答的可靠性，适用于智能助手、教育题库、文档理解等场景。产品创新在于将增量推理与置信度校准结合，使AI能主动控制信息获取节奏，提升用户体验和效率。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>I Learned to Read Again</title>
-      <link>https://news.ycombinator.com/item?id=48883238</link>
-      <guid isPermaLink="false">i-learned-to-read-again</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文介绍了一项AI技术案例，用户通过AI辅助重新学习阅读，体现了AI在认知能力恢复与教育领域的创新应用。技术要点在于利用大语言模型的自然语言理解和生成能力，提供个性化阅读支持与即时反馈。商业价值在于开拓特殊教育、老年认知健康等市场，同时可作为产品增强用户粘性的功能。产品创新点在于将AI从信息检索延伸至主动辅助认知训练，以交互式学习取代被动阅读，并针对个体需求动态调整难度。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Against Usefulness</title>
-      <link>https://news.ycombinator.com/item?id=48882956</link>
-      <guid isPermaLink="false">against-usefulness</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章《Against Usefulness》质疑AI领域过度追求“实用性”的倾向，主张产品创新不应仅以功能效率为唯一标准。对于AI产品经理而言，这一观点提示在定义产品价值时，需平衡工具理性与用户体验、美学、情感连接等软性维度。技术要点上，强调应探索非实用导向的AI能力，如创造性互动、趣味性和冗余设计，这可能催生新的产品形态。商业价值在于差异化竞争，避开同质化的“有用”赛道。产品创新启发：可以设计不追求效率最大化、但能激发用户沉浸感和长期粘性的AI交互模式。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>The One-Step Trap (In AI Research)</title>
-      <link>https://news.ycombinator.com/item?id=48883415</link>
-      <guid isPermaLink="false">the-one-step-trap-in-ai-research</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>《AI 研究的“一步陷阱”》指出，研究者和产品团队容易陷入仅优化单个步骤（如模型性能）而忽略全局流程的误区。对 AI 产品经理而言，这警示在开发中要避免仅仅追求单点技术指标，而应注重整条产品链的协同与迭代，包括数据、部署、用户体验和反馈循环。商业价值在于提高产品落地成功率，减少资源浪费。核心启示：产品设计需系统思考，从端到端视角平衡短期技术突破与长期产品价值。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Adaptive Recall, persistent memory for AI assistants over MCP</title>
-      <link>https://www.adaptiverecall.com/</link>
-      <guid isPermaLink="false">show-hn-adaptive-recall-persistent-memory-for-ai-assistants-over-mcp</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Adaptive Recall 通过 MCP (Model Context Protocol) 为 AI 助手提供持久记忆能力，使大模型能跨会话保留用户上下文与偏好，显著提升交互连贯性和个性化水平。该方案采用轻量级协议集成，降低开发门槛，适用于客服、个人助理等需要长期记忆的场景。产品经理应关注其对用户体验的改善及与现有 AI 工作流的兼容性。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels</title>
-      <link>https://news.ycombinator.com/item?id=48884618</link>
-      <guid isPermaLink="false">flash-msa-accelerating-million-token-training-with-sparse-attention-kernels</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Flash-MSA 是一种新型稀疏注意力核，旨在加速百万级 token 的长序列训练。通过将注意力计算稀疏化，显著降低计算复杂度和内存占用，使得大模型能够高效处理超长上下文窗口。该技术对需要长文档理解、记忆增强或实时交互的 AI 产品具有重要价值，可大幅降低训练成本并提升推理效率。产品经理可关注其在云端大模型或端侧部署中的潜力，优化用户体验与资源消耗。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Interrail: 6,379Km and 13 Countries over 7 weeks</title>
-      <link>https://news.ycombinator.com/item?id=48889350</link>
-      <guid isPermaLink="false">interrail-6379km-and-13-countries-over-7-weeks</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文描述了一个为期7周、跨越6,379公里和13个国家的欧洲铁路旅行经历，展示了基于Interrail通票的长途多国行程规划。从AI产品经理视角，此类旅程可作为测试AI旅行规划能力（如路线优化、时间管理、预算控制）的典型用例。通过大规模多站点行程的自动编排，可验证AI在处理复杂约束（交通衔接、地理顺序、停留时间）上的效率与准确性。该案例对开发面向背包客或频繁出差人群的智能行程优化产品具有参考价值，尤其强调长距离、多国别场景下的人机协作与动态调整能力。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Codebase Posters – turn any Git repo into generative poster art</title>
-      <link>https://github.com/unable12/codebase-posters</link>
-      <guid isPermaLink="false">show-hn-codebase-posters-turn-any-git-repo-into-generative-poster-art</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Codebase Posters 是一款将任意 Git 仓库转化为生成式海报艺术的产品。它利用 AI 视觉模型，解析代码仓库的结构、文件树、提交历史等特征，自动生成抽象或风格化的视觉艺术品，使开发者能够以艺术形式展示其代码项目。技术核心包括 Git 数据解析与生成式 AI 的结合，商业价值体现在开发者社区个性化周边、技术博客封面、公司文化墙等场景。产品创新在于将枯燥的代码库转化为可收藏、可分享的审美作品，降低了 AI 图像生成的门槛。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?</title>
-      <link>https://news.ycombinator.com/item?id=48880564</link>
-      <guid isPermaLink="false">mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该标题探讨了波利尼西亚人在长期停止航海后突然东迁的历史谜团，可类比AI领域中的突现能力现象——模型在训练中突然展现出未刻意设计的复杂技能。对AI产品经理而言，这提示关注模型能力非线性增长的不可预测性，以及如何通过架构创新（如长上下文、记忆机制）引导或利用此类跃迁。商业价值在于理解能力突变的触发条件，从而设计更鲁棒的产品策略，避免意外行为。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Fina</title>
-      <link>http://arxiv.org/abs/2607.09641v1</link>
-      <guid isPermaLink="false">semantic-pareto-dqn-a-multi-objective-reinforcement-learning-framework-for-finan</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Financial anomaly detection suffers from extreme class imbalance, causing traditional single-objective algorithms to exhibit ``fraud collapse'', defaulting to the majority class and failing to balance anomaly interdiction with customer friction. To overcome this without distortive data resampling, w</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti</title>
-      <link>http://arxiv.org/abs/2607.09662v1</link>
-      <guid isPermaLink="false">phinn-eeg-topological-time-series-analysis-of-dream-state-eeg-dynamic-betti-curv</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating characteristic curve (AUC) of approximately 0.70 on the DREAM database (Wong et al., 2025, Nature Communic</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory</title>
-      <link>http://arxiv.org/abs/2607.09632v1</link>
-      <guid isPermaLink="false">lean-qit-towards-a-formal-infrastructure-for-quantum-information-theory</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> papers</p><hr/><p>Lean-QIT 是量子信息理论的形式化基础设施，旨在将编码定理等核心结论通过形式化验证连接有限块协议与分析不等式。该项目为量子通信、计算和纠错提供严谨的数学基础，但处于纯学术研究阶段，离产品化应用较远。对 AI 产品经理而言，它代表了底层数学工具的创新，可为未来量子 AI 算法提供形式化验证保障，但当前商业价值不明显。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Starship is evolving rapidly</title>
-      <link>https://x.com/elonmusk/status/2076102645823971373</link>
-      <guid isPermaLink="false">twitter_elonmusk_2076102645823971373</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Starship is evolving rapidly</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Grok is the most politically neutral and objectively truth-seeking AI</title>
-      <link>https://x.com/elonmusk/status/2076102201575969192</link>
-      <guid isPermaLink="false">twitter_elonmusk_2076102201575969192</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Grok is the most politically neutral and objectively truth-seeking AI</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Next Starship launch aiming for Thursday</title>
-      <link>https://x.com/elonmusk/status/2076100095867506809</link>
-      <guid isPermaLink="false">twitter_elonmusk_2076100095867506809</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Next Starship launch aiming for Thursday</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>BREAKING: U.S. Sen. Lindsey Graham has died at 71, his office announced. 
-
-RIP. 💔 https://t.co/mp86l...</title>
-      <link>https://x.com/JohnNosta/status/2076188574303637896</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2076188574303637896</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>BREAKING: U.S. Sen. Lindsey Graham has died at 71, his office announced. 
-
-RIP. 💔 https://t.co/mp86l4LI5D</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Try Grok 4.5 and see for yourself</title>
-      <link>https://x.com/elonmusk/status/2076252465674977609</link>
-      <guid isPermaLink="false">twitter_elonmusk_2076252465674977609</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Try Grok 4.5 and see for yourself</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Radio traffic from response to Sen. Graham’s home: Emergency radio traffic indicates that Senator Li...</title>
-      <link>https://x.com/JohnNosta/status/2076228816276447387</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2076228816276447387</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Radio traffic from response to Sen. Graham’s home: Emergency radio traffic indicates that Senator Lindsey Graham suffered chest pains before going into cardiac arrest Saturday night. Efforts to revive the South Carolina lawmaker were not successful. Graham died two days after his 71st birthday.
-
-Thi</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>i'd love to see interesting things people have built with 5.6 sol.
-
-i will send the person who made ...</title>
-      <link>https://x.com/sama/status/2076398253332140410</link>
-      <guid isPermaLink="false">twitter_sama_2076398253332140410</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>i'd love to see interesting things people have built with 5.6 sol.
-
-i will send the person who made the coolest thing a special gift from the openai archives.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Grok 4.5 is Opus class for browser use</title>
-      <link>https://x.com/elonmusk/status/2076411563116835245</link>
-      <guid isPermaLink="false">twitter_elonmusk_2076411563116835245</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Grok 4.5 is Opus class for browser use</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>For the first time, Starship will carry 20 next-generation Starlink V3 satellites to space
-
-Starlink...</title>
-      <link>https://x.com/elonmusk/status/2076358671798575154</link>
-      <guid isPermaLink="false">twitter_elonmusk_2076358671798575154</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>For the first time, Starship will carry 20 next-generation Starlink V3 satellites to space
-
-Starlink V3 is designed to massively expand the network’s capacity and increase user speeds
-
-After deployment, the test satellites will:
-• Extend their solar arrays and antennas
-• Attempt to connect with grou</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Grok 4.5 is the truth seeking leader that other AIs can aspire to become https://t.co/HAWE0V7dmQ</title>
-      <link>https://x.com/elonmusk/status/2076259670751100967</link>
-      <guid isPermaLink="false">twitter_elonmusk_2076259670751100967</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Grok 4.5 is the truth seeking leader that other AIs can aspire to become https://t.co/HAWE0V7dmQ</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>@beffjezos I say both energy and mass, as they are separate scarcities for practical purposes, despi...</title>
-      <link>https://x.com/elonmusk/status/2076340432464752656</link>
-      <guid isPermaLink="false">twitter_elonmusk_2076340432464752656</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>@beffjezos I say both energy and mass, as they are separate scarcities for practical purposes, despite being technically “equivalent”, as described by Einstein’s famous equation.
-
-Our solar system has only a tiny percentage of non-solar atoms with which to build things.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>I would like to offer a counterargument that LLMs (or maybe AIs) cannot jump.
-
-Before AlphaGo, the A...</title>
-      <link>https://x.com/elonmusk/status/2076323348217565485</link>
-      <guid isPermaLink="false">twitter_elonmusk_2076323348217565485</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>I would like to offer a counterargument that LLMs (or maybe AIs) cannot jump.
-
-Before AlphaGo, the AI field had the same argument for Go: there are 2.08 × 10^170 possibilities, nothing fits in the computer, and there is no way AI could possibly predict the outcome of the next 50-60 moves.
-
-It turned</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>BREAKING: An initial examination from the DC Medical Examiner’s Office has determined that Senator L...</title>
-      <link>https://x.com/JohnNosta/status/2076410314183299382</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2076410314183299382</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>BREAKING: An initial examination from the DC Medical Examiner’s Office has determined that Senator Lindsey Graham (R-SC) died as a result of “Aortic Dissection due to Arteriosclerotic Cardiovascular Disease”. In layman’s terms, this means a tear in the aorta caused by hardening &amp; narrowing of arteri</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>@claudeai https://t.co/eguh9OBAvu</title>
-      <link>https://x.com/TheAIGRID/status/2076354053479829782</link>
-      <guid isPermaLink="false">twitter_TheAIGRID_2076354053479829782</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>@claudeai https://t.co/eguh9OBAvu</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>

@@ -2764,3 +2764,19 @@
 - create: frieve-vinyl-explained-microscopic-stylusgroove-physics-simulation.md
 - create: anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-th.md
 - create: waze-adds-new-ai-powered-features-and-customization-updates.md
+
+## [2026-07-14 06:02] sync v3 | 14 new | pillars: {'capabilities': 11, 'patterns': 3}
+- create: apples-new-speechanalyzer-api-benchmarked-against-whisper-and-its-predecessor.md
+- create: telegrams-tme-domain-has-been-suspended.md
+- create: the-real-prices-of-frontier-models-tokens-price-right.md
+- create: samsung-health-app-threatens-data-deletion-if-users-opt-out-ai-training.md
+- create: show-hn-i-implemented-a-neural-network-in-sql.md
+- create: show-hn-nobie-an-excel-compatible-runtime-for-agents-and-humans.md
+- create: show-hn-billai-bass-an-ai-powered-big-mouth-billy-bass-using-strands-agents.md
+- create: benchmarking-15-e-waste-gpus-with-modern-workloads.md
+- create: satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai.md
+- create: the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai.md
+- create: sam-altman8217s-space-data-center-trash-talk-is-what-most-experts-already-believ.md
+- create: should-ai-help-you-get-away-with-killing-your-spouse.md
+- create: show-hn-jacquard-a-programming-language-for-ai-written-human-reviewed-code.md
+- create: show-hn-loot-raiders-an-arc-raiders-inspired-inventory-game-in-svelte.md

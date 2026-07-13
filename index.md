@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-14 | Total pages: 2498
+> Last updated: 2026-07-14 | Total pages: 2512
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -112,6 +112,7 @@
 - [[apple8217s-image-playground-doesn8217t-suck-anymore.md]] Apple&#8217;s Image Playground doesn&#8217;t suck anymore `pillar:capabilities` `score:0.445`
 - [[apple8217s-photos-app-is-getting-new-ai-editing-features.md]] Apple&#8217;s Photos app is getting new AI editing features `pillar:capabilities` `score:0.48`
 - [[apple8217s-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement.md]] Apple&#8217;s WWDC AI demos looked more real after $250M false ad settlement `pillar:capabilities` `score:0.48`
+- [[apples-new-speechanalyzer-api-benchmarked-against-whisper-and-its-predecessor.md]] Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor `pillar:capabilities` `score:0.6`
 - [[apples-siri-revamp-could-include-auto-deleting-chats.md]] Apple’s Siri revamp could include auto-deleting chats `pillar:capabilities` `score:0.48`
 - [[arena-ai-model-elo-history.md]] Arena AI Model ELO History `pillar:capabilities` `score:0.465`
 - [[arithmetic-without-numbers-how-llms-do-math.md]] Arithmetic Without Numbers – How LLMs Do Math `pillar:capabilities` `score:0.43`
@@ -131,6 +132,7 @@
 - [[autoregressive-next-token-prediction-and-kv-cache-in-transformers.md]] Autoregressive next token prediction and KV Cache in transformers `pillar:capabilities` `score:0.295`
 - [[bee-sanciphey.md]] bee-san/Ciphey `pillar:capabilities` `score:0.545`
 - [[behind-the-scenes-with-the-midjourney-scanner-video.md]] Behind the scenes with the Midjourney scanner [video] `pillar:capabilities` `score:0.43`
+- [[benchmarking-15-e-waste-gpus-with-modern-workloads.md]] Benchmarking 15 "E-Waste" GPUs with Modern Workloads `pillar:capabilities` `score:0.395`
 - [[benchmarking-coding-agents-on-databricks-multi-million-line-codebase.md]] Benchmarking coding agents on Databricks' multi-million line codebase `pillar:capabilities` `score:0.465`
 - [[benchmarking-surrealdb-3x-vs-postgres-mongo-neo4j-and-redis-with-fsync.md]] Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync) `pillar:capabilities` `score:0.395`
 - [[benchmarks-in-leipzig.md]] Benchmarks in Leipzig `pillar:capabilities` `score:0.395`
@@ -587,6 +589,7 @@
 - [[rust-and-slint-on-a-jailbroken-kindle.md]] Rust (and Slint) on a Jailbroken Kindle `pillar:capabilities` `score:0.26`
 - [[safari-and-firefox-change-how-big-sites-render-based-on-the-domain.md]] Safari and Firefox change how big sites render based on the domain `pillar:capabilities` `score:0.295`
 - [[sam-altman-and-dario-amodei-are-both-walking-back-ai-jobs-apocalypse-predictions.md]] Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions `pillar:capabilities` `score:0.53`
+- [[sam-altman8217s-space-data-center-trash-talk-is-what-most-experts-already-believ.md]] Sam Altman&#8217;s space data center trash talk is what most experts already bel `pillar:capabilities` `score:0.48`
 - [[samurai-city.md]] Samurai City `pillar:capabilities` `score:0.31`
 - [[sana-wm-a-26b-open-source-world-model-for-1-minute-720p-video.md]] SANA-WM, a 2.6B open-source world model for 1-minute 720p video `pillar:capabilities` `score:0.565`
 - [[sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-require.md]] SandboxAQ brings its drug discovery models to Claude — no PhD in computing requi `pillar:capabilities` `score:0.305`
@@ -640,6 +643,7 @@
 - [[show-hn-i-built-a-tool-to-auto-accept-ai-slop-and-bigtech-devs-loves-it.md]] Show HN: I built a tool to auto-accept AI slop and bigtech devs loves it `pillar:capabilities` `score:0.295`
 - [[show-hn-i-built-a-web-tool-to-see-and-edit-what-an-ai-thinks-before-it-answers.md]] Show HN: I built a web tool to see and edit what an AI thinks before it answers `pillar:capabilities` `score:0.33`
 - [[show-hn-i-built-an-open-source-alternative-to-claude-cowork.md]] Show HN: I built an open-source alternative to Claude Cowork `pillar:capabilities` `score:0.295`
+- [[show-hn-i-implemented-a-neural-network-in-sql.md]] Show HN: I implemented a neural network in SQL `pillar:capabilities` `score:0.225`
 - [[show-hn-i-made-a-claude-skill-for-spec-driven-development-sdd.md]] Show HN: I Made a Claude Skill for Spec-Driven Development (SDD) `pillar:capabilities` `score:0.295`
 - [[show-hn-i-run-a-vision-model-on-every-screenshot-locally-on-a-4gb-gpu.md]] Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU `pillar:capabilities` `score:0.33`
 - [[show-hn-i-wrote-a-c-ray-tracer-from-scratch-without-ai.md]] Show HN: I wrote a C++ ray tracer from scratch without AI `pillar:capabilities` `score:0.27`
@@ -647,6 +651,7 @@
 - [[show-hn-ideogram-40-open-weight-93b-text-to-image-model.md]] Show HN: Ideogram 4.0 – open-weight 9.3B text-to-image model `pillar:capabilities` `score:0.33`
 - [[show-hn-inbox-beam-notifications-in-your-inbox-without-sending-email.md]] Show HN: Inbox-beam – notifications in your inbox without sending email `pillar:capabilities` `score:0.295`
 - [[show-hn-iresearch-c-search-that-beat-lucene-and-tantivy-on-their-benchmark.md]] Show HN: IResearch – C++ search that beat Lucene and Tantivy on their benchmark `pillar:capabilities` `score:0.33`
+- [[show-hn-jacquard-a-programming-language-for-ai-written-human-reviewed-code.md]] Show HN: Jacquard, a programming language for AI-written, human-reviewed code `pillar:capabilities` `score:0.33`
 - [[show-hn-lance-imagevideo-generation-and-understanding-in-one-model.md]] Show HN: Lance – image/video generation and understanding in one model `pillar:capabilities` `score:0.365`
 - [[show-hn-lathe-use-llms-to-learn-a-new-domain-not-skip-past-it.md]] Show HN: Lathe – Use LLMs to learn a new domain, not skip past it `pillar:capabilities` `score:0.38`
 - [[show-hn-lean-bulk-cut-body-recomp-calculate-maintenance-calories.md]] Show HN: Lean bulk, cut, body recomp. Calculate maintenance calories `pillar:capabilities` `score:0.26`
@@ -775,6 +780,7 @@
 - [[the-physicists-who-convinced-fermilab-to-send-brazils-emails.md]] The physicists who convinced Fermilab to send Brazil's emails `pillar:capabilities` `score:0.155`
 - [[the-pirate-bay-remains-resilient-20-years-after-the-raid.md]] The Pirate Bay Remains Resilient, 20 Years After the Raid `pillar:capabilities` `score:0.305`
 - [[the-primary-purpose-of-code-review-is-to-find-code-that-will-be-hard-to-maintain.md]] The primary purpose of code review is to find code that will be hard to maintain `pillar:capabilities` `score:0.495`
+- [[the-real-prices-of-frontier-models-tokens-price-right.md]] The real prices of frontier models. Tokens * Price, right? `pillar:capabilities` `score:0.53`
 - [[the-reports-of-jim-carreys-death-are-a-failure-mode.md]] The Reports of Jim Carrey's Death Are a Failure Mode `pillar:capabilities` `score:0.345`
 - [[the-road-to-the-wasm-component-model-10.md]] The Road to the WASM Component Model 1.0 `pillar:capabilities` `score:0.375`
 - [[the-smallest-brain-you-can-build-a-perceptron-in-python.md]] The Smallest Brain You Can Build: A Perceptron in Python `pillar:capabilities` `score:0.31`
@@ -1592,6 +1598,7 @@
 - [[sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app.md]] Sesame, the conversational AI startup from Oculus founders, launches its iOS app `pillar:patterns` `score:0.48`
 - [[shanraisshanclaude-code-best-practice.md]] shanraisshan/claude-code-best-practice `pillar:patterns` `score:0.58`
 - [[shareai-lablearn-claude-code.md]] shareAI-lab/learn-claude-code `pillar:patterns` `score:0.405`
+- [[should-ai-help-you-get-away-with-killing-your-spouse.md]] Should AI help you get away with killing your spouse? `pillar:patterns` `score:0.48`
 - [[show-hn-abralo-free-easy-way-to-run-several-claude-code-agents-in-one-window.md]] Show HN: Abralo – Free, easy way to run several Claude Code agents in one window `pillar:patterns` `score:0.365`
 - [[show-hn-adamsreview-better-multi-agent-pr-revie.md]] Show HN: adamsreview – better multi-agent PR reviews for Claude Code `pillar:patterns` `score:0.33`
 - [[show-hn-adaptive-recall-persistent-memory-for-ai-assistants-over-mcp.md]] Show HN: Adaptive Recall, persistent memory for AI assistants over MCP `pillar:patterns` `score:0.33`
@@ -1604,6 +1611,7 @@
 - [[show-hn-baerly-storage-a-document-db-that-runs-per-request-no-db-server.md]] Show HN: Baerly-storage, a document DB that runs per request, no DB server `pillar:patterns` `score:0.295`
 - [[show-hn-beacon-the-open-source-layer-for-local-ai-agent-visibility.md]] Show HN: Beacon - The open-source layer for local AI agent visibility `pillar:patterns` `score:0.295`
 - [[show-hn-bible-as-rag-database.md]] Show HN: Bible as RAG Database `pillar:patterns` `score:0.53`
+- [[show-hn-billai-bass-an-ai-powered-big-mouth-billy-bass-using-strands-agents.md]] Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents `pillar:patterns` `score:0.33`
 - [[show-hn-blitzgraph-supabase-for-graphs-built-for-llm-agents.md]] Show HN: BlitzGraph – Supabase for graphs, built for LLM agents `pillar:patterns` `score:0.33`
 - [[show-hn-blockbuzz-a-workspace-built-for-teams-of-humans-and-agents.md]] Show HN: Block/buzz: a workspace built for teams of humans and agents `pillar:patterns` `score:0.33`
 - [[show-hn-build-your-own-ai-agent-cli-in-150-lines.md]] Show HN: Build Your Own AI Agent CLI in 150 Lines `pillar:patterns` `score:0.26`
@@ -1967,7 +1975,9 @@
 - [[research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the.md]] Research repository ArXiv will ban authors for a year if they let AI do all the `pillar:ecosystem` `score:0.445`
 - [[roelof-botha-joins-spacex8217s-board-of-directors.md]] Roelof Botha joins SpaceX&#8217;s board of directors `pillar:ecosystem` `score:0.27`
 - [[rubyllm-a-single-beautiful-ruby-framework-for-all-major-ai-providers.md]] RubyLLM: A single, beautiful Ruby framework for all major AI providers `pillar:ecosystem` `score:0.395`
+- [[samsung-health-app-threatens-data-deletion-if-users-opt-out-ai-training.md]] Samsung Health app threatens data deletion if users opt out AI training `pillar:ecosystem` `score:0.48`
 - [[sansan0trendradar.md]] sansan0/TrendRadar `pillar:ecosystem` `score:0.58`
+- [[satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai.md]] Satya Nadella has issued a shocking warning to companies using AI `pillar:ecosystem` `score:0.48`
 - [[scikit-learnscikit-learn.md]] scikit-learn/scikit-learn `pillar:ecosystem` `score:0.615`
 - [[sf-startup-is-testing-robots-in-airbnbs-and-trashing-them-lawsuit-claims.md]] SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims `pillar:ecosystem` `score:0.495`
 - [[show-hn-bash4llm-a-lightweight-dependency-free-bash-wrapper-for-llm-apis.md]] Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs `pillar:ecosystem` `score:0.26`
@@ -1980,8 +1990,10 @@
 - [[show-hn-gitdot-a-better-github-open-source-anti-ai-and-written-in-rust.md]] Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust `pillar:ecosystem` `score:0.305`
 - [[show-hn-i-made-a-heatmap-of-3400-vcs-who-are-open-to-cold-emails.md]] Show HN: I made a heatmap of 3400 VCs who are open to cold emails `pillar:ecosystem` `score:0.345`
 - [[show-hn-insforge-open-source-heroku-for-coding-agents.md]] Show HN: InsForge – Open-source Heroku for coding agents `pillar:ecosystem` `score:0.295`
+- [[show-hn-loot-raiders-an-arc-raiders-inspired-inventory-game-in-svelte.md]] Show HN: Loot Raiders – an ARC Raiders-inspired inventory game in Svelte `pillar:ecosystem` `score:0.12`
 - [[show-hn-macos-menu-bar-gauges-for-your-claude-code-quota.md]] Show HN: macOS menu bar gauges for your Claude Code quota `pillar:ecosystem` `score:0.31`
 - [[show-hn-meow-the-4th-and-final-javascript-runtime-and-toolchain.md]] Show HN: Meow – The 4th and final JavaScript runtime and toolchain `pillar:ecosystem` `score:0.19`
+- [[show-hn-nobie-an-excel-compatible-runtime-for-agents-and-humans.md]] Show HN: Nobie – an Excel-compatible runtime for agents and humans `pillar:ecosystem` `score:0.415`
 - [[show-hn-oak-git-alternative-designed-for-agents.md]] Show HN: Oak – Git alternative designed for agents `pillar:ecosystem` `score:0.515`
 - [[show-hn-openknowledge-open-source-ai-first-alternative-to-obsidiannotion.md]] Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion `pillar:ecosystem` `score:0.53`
 - [[show-hn-pagecast-publish-markdownhtml-reports-to-cloudflare-pages.md]] Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages `pillar:ecosystem` `score:0.295`
@@ -2009,6 +2021,7 @@
 - [[steven2358awesome-generative-ai.md]] steven2358/awesome-generative-ai `pillar:ecosystem` `score:0.58`
 - [[stop-killing-games-fails-to-secure-eu-law-despite-13m-signatures.md]] Stop Killing Games fails to secure EU law despite 1.3M signatures `pillar:ecosystem` `score:0.225`
 - [[sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-google8217.md]] Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google&#8 `pillar:ecosystem` `score:0.445`
+- [[telegrams-tme-domain-has-been-suspended.md]] Telegram's t.me domain has been suspended `pillar:ecosystem` `score:0.495`
 - [[tenda-firmware-multiple-versions-contains-hidden-authentication-backdoor.md]] Tenda firmware (multiple versions) contains hidden authentication backdoor `pillar:ecosystem` `score:0.24`
 - [[tensorflowtensorflow.md]] tensorflow/tensorflow `pillar:ecosystem` `score:0.615`
 - [[tensorzerotensorzero.md]] tensorzero/tensorzero `pillar:ecosystem` `score:0.615`
@@ -2416,6 +2429,7 @@
 - [[the-us-banned-anthropic8217s-fable-5-release-but-the-numbers-don8217t-seem-to-ca.md]] The US banned Anthropic&#8217;s Fable 5 release, but the numbers don&#8217;t see `pillar:business` `score:0.48`
 - [[the-us-is-winning-the-ai-race-where-it-matters-mos.md]] The US is winning the AI race where it matters most: commercialization `pillar:business` `score:0.405`
 - [[the-vespa-at-80-why-the-italian-scooter-remains-the-coolest-thing-on-2-wheels.md]] The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels `pillar:business` `score:0.27`
+- [[the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai.md]] The wildest allegations in Apple’s trade secrets lawsuit against OpenAI `pillar:business` `score:0.41`
 - [[there-aren8217t-enough-rockets-for-space-data-c.md]] There aren&#8217;t enough rockets for space data centers. Cowboy Space raised $2 `pillar:business` `score:0.305`
 - [[these-ai-startups-are-growing-revenue-at-faster-and-faster-rates.md]] These AI startups are growing  revenue at faster and faster rates `pillar:business` `score:0.445`
 - [[thinking-machines-wants-to-build-an-ai-that-actual.md]] Thinking Machines wants to build an AI that actually listens while it talks `pillar:business` `score:0.305`

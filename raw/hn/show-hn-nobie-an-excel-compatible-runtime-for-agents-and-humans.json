@@ -1,0 +1,26 @@
+{
+  "title": "Show HN: Nobie – an Excel-compatible runtime for agents and humans",
+  "score": 48,
+  "comments": 20,
+  "url": "https://nobie.com",
+  "hn_url": "https://news.ycombinator.com/item?id=48896703",
+  "tag": "HN",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "Nobie 是一个与 Excel 兼容的运行时环境，旨在同时支持人类用户和 AI 代理。它允许用户在熟悉的电子表格界面中定义、运行和管理 AI 代理流程，降低了技术门槛。产品创新点在于将传统数据处理工具与智能代理执行引擎结合，使非技术人员也能通过 Excel 操作来触发和监控 AI 任务。商业价值体现在大规模企业级应用场景中，无需复杂开发即可实现自动化工作流。技术要点包括兼容 Excel 格式、支持代理间通信以及实时数据交互。",
+  "pm_relevance": 9,
+  "concepts": [
+    "AI Agent Runtime",
+    "Human-Agent Collaboration",
+    "Spreadsheet as UI"
+  ],
+  "entities": [
+    "Nobie"
+  ],
+  "patterns": [
+    "Agent Runtime",
+    "Excel Integration"
+  ]
+}
