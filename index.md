@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-13 | Total pages: 2488
+> Last updated: 2026-07-13 | Total pages: 2491
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -375,6 +375,7 @@
 - [[inside-faiss-billion-scale-similarity-search.md]] Inside FAISS: Billion-Scale Similarity Search `pillar:capabilities` `score:0.415`
 - [[interfaze-a-new-model-architecture-built-for-high.md]] Interfaze: A new model architecture built for high accuracy at scale `pillar:capabilities` `score:0.205`
 - [[interpretmlinterpret.md]] interpretml/interpret `pillar:capabilities` `score:0.53`
+- [[interrail-6379km-and-13-countries-over-7-weeks.md]] Interrail: 6,379Km and 13 Countries over 7 weeks `pillar:capabilities` `score:0.31`
 - [[intro-to-tla-for-the-llm-era-prompt-your-way-to-victory.md]] Intro to TLA+ for the LLM Era: Prompt Your Way to Victory `pillar:capabilities` `score:0.395`
 - [[investigating-how-prompt-politeness-affects-llm-accuracy-2025.md]] Investigating how prompt politeness affects LLM accuracy (2025) `pillar:capabilities` `score:0.48`
 - [[iran-starts-bitcoin-backed-ship-insurance-for-hormuz-strait.md]] Iran starts Bitcoin-backed ship insurance for Hormuz strait `pillar:capabilities` `score:0.405`
@@ -880,6 +881,7 @@
 - [[zaya1-8b-an-8b-moe-model-with-760m-active-params.md]] ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math `pillar:capabilities` `score:0.38`
 - [[zcode-claude-code-from-the-makers-of-glm.md]] ZCode: Claude Code from the Makers of GLM `pillar:capabilities` `score:0.6`
 - [[zen-and-the-art-of-machine-learning-research.md]] Zen and the Art of Machine Learning Research `pillar:capabilities` `score:0.31`
+- [[zig-creator-calls-spade-a-spade-anthropic-blows-smoke.md]] Zig Creator Calls Spade a Spade, Anthropic Blows Smoke `pillar:capabilities` `score:0.53`
 - [[zylon-aiprivate-gpt.md]] zylon-ai/private-gpt `pillar:capabilities` `score:0.58`
 - [[2-aspq-programs-with-weak-constraints-complexity-and-efficient-implementation.md]] 2-ASP(Q) programs with weak constraints: Complexity and efficient implementation `pillar:capabilities` `score:0.375`
 - [[4dr360-state-reasoning-for-joint-3d-detection-and-occupancy-prediction-in-4d-rad.md]] 4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Ra `pillar:capabilities` `score:0.395`
@@ -1663,6 +1665,7 @@
 - [[snap-says-its-400m-deal-with-perplexity-8216am.md]] Snap says its $400M deal with Perplexity &#8216;amicably ended&#8217; `pillar:patterns` `score:0.3`
 - [[sqlite-is-a-library-of-congress-recommended-storag.md]] SQLite Is a Library of Congress Recommended Storage Format `pillar:patterns` `score:0.4`
 - [[stefan-jansenmachine-learning-for-trading.md]] stefan-jansen/machine-learning-for-trading `pillar:patterns` `score:0.51`
+- [[stop-telling-me-to-ask-an-llm.md]] Stop Telling Me to Ask an LLM `pillar:patterns` `score:0.6`
 - [[tauricresearchtradingagents.md]] TauricResearch/TradingAgents `pillar:patterns` `score:0.58`
 - [[temporary-cloudflare-accounts-for-ai-agents.md]] Temporary Cloudflare Accounts for AI Agents `pillar:patterns` `score:0.33`
 - [[testing-distributed-systems-with-ai-agents.md]] Testing distributed systems with AI agents `pillar:patterns` `score:0.415`

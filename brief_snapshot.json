@@ -1,8 +1,22 @@
 {
   "date": "2026-07-13",
-  "generated_at": "2026-07-13T12:02:35.813861+08:00",
-  "item_count": 21,
+  "generated_at": "2026-07-13T18:02:10.565527+08:00",
+  "item_count": 25,
   "items": [
+    {
+      "id": "twitter_hardmaru_2076479728140394823",
+      "label": "「何を作れ」と命令されないとき、AIは何を作るのか。| 岡瑞起 #note\n\nSakana AI @SakanaAILabs がMIT・NYUと共同で、『目標という幻想』の原点Picbreederを再...",
+      "summary": "「何を作れ」と命令されないとき、AIは何を作るのか。| 岡瑞起 #note\n\nSakana AI @SakanaAILabs がMIT・NYUと共同で、『目標という幻想』の原点Picbreederを再現し、人間の代わりにAIに遊ばせる実験を発表しました。\nnoteに書きました。\n\nhttps://t.co/UrMtOxo0eW",
+      "pm_score": 0.72,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/hardmaru/status/2076479728140394823",
+      "date": "2026-07-13",
+      "stars": 43,
+      "score": 0.7183,
+      "comments": 0
+    },
     {
       "id": "i-love-llms-i-hate-hype",
       "label": "I love LLMs, I hate hype",
@@ -12,6 +26,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48883343",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "stop-telling-me-to-ask-an-llm",
+      "label": "Stop Telling Me to Ask an LLM",
+      "summary": "本文批评了将LLM仅当作问答工具的做法，指出产品经理应避免简单地将AI作为‘提问箱’嵌入产品，而应深入设计AI与用户工作流的无缝融合。技术要点包括：利用LLM的推理能力而非仅信息检索，通过上下文感知、记忆模块和主动推荐提升用户体验。商业价值在于减少用户认知负担，提高任务完成率。产品创新方向是将AI转化为协作伙伴，而非被动响应者，从而构建更具粘性的智能应用。",
+      "pm_score": 0.6,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48876441",
       "date": "2026-07-13"
     },
     {
@@ -45,6 +70,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48880170",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "zig-creator-calls-spade-a-spade-anthropic-blows-smoke",
+      "label": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+      "summary": "Zig 语言创始人直言不讳地批评 Anthropic 在 AI 能力宣传上夸大其词，暗示其烟雾弹式的营销可能掩盖了实际技术瓶颈。这一争议提醒 AI 产品经理需审慎评估供应商的能力声明，避免被过度承诺误导。技术层面应聚焦可验证的模型性能与落地场景，商业价值上要警惕 hype 驱动的决策风险，产品创新则应坚持实事求是的评估框架。",
+      "pm_score": 0.53,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48889637",
       "date": "2026-07-13"
     },
     {
@@ -233,10 +269,21 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48884618",
       "date": "2026-07-13"
+    },
+    {
+      "id": "interrail-6379km-and-13-countries-over-7-weeks",
+      "label": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+      "summary": "本文描述了一个为期7周、跨越6,379公里和13个国家的欧洲铁路旅行经历，展示了基于Interrail通票的长途多国行程规划。从AI产品经理视角，此类旅程可作为测试AI旅行规划能力（如路线优化、时间管理、预算控制）的典型用例。通过大规模多站点行程的自动编排，可验证AI在处理复杂约束（交通衔接、地理顺序、停留时间）上的效率与准确性。该案例对开发面向背包客或频繁出差人群的智能行程优化产品具有参考价值，尤其强调长距离、多国别场景下的人机协作与动态调整能力。",
+      "pm_score": 0.31,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48889350",
+      "date": "2026-07-13"
     }
   ],
   "graph_totals": {
-    "real_nodes": 3806,
-    "edges": 4116
+    "real_nodes": 3819,
+    "edges": 4129
   }
 }

@@ -2,25 +2,51 @@
   "daily_summary": {
     "date": "2026-07-13",
     "headline": "今日 AI 情报 · 2026-07-13",
-    "overview": "AI代理从原型验证步入生产部署与系统优化，行业同时反思炒作并警惕能力幻觉。",
+    "overview": "AI 从被动响应向主动代理与工作流嵌入转型，行业从炒作回归务实信任构建。",
     "narratives": [
       {
-        "title": "AI代理从原型验证步入生产部署与系统优化，行业同时反思炒作并警惕能力幻觉",
-        "body": "多篇情报显示，AI代理（如Coding Agents、安全测试代理）正在从实验走向真实生产环境，带来显著的效率提升和成本下降。然而，也有声音指出过度炒作导致能力预期过高，实际部署需要权衡上下文长度、推理准确性、速度与成本。这要求产品经理以务实态度设计代理系统，关注系统整体效率而非单一性能指标。",
-        "type": "maturation",
+        "title": "AI 从被动问答向主动代理与工作流嵌入转型",
+        "body": "多篇情报揭示 AI 产品模式正从单纯的问答工具转向主动代理和嵌入工作流的协作伙伴，包括自主创作、编码代理、自动漏洞利用、芯片设计辅助等。产品经理应聚焦如何设计低认知负担、上下文感知的智能体，而非重复“提词箱”模式。",
+        "type": "paradigm_shift",
         "pillar_key": "patterns"
+      },
+      {
+        "title": "AI 行业从炒作回归理性评估与信任构建",
+        "body": "社区和研究者对 LLM 能力过度宣传的批评增多，同时可解释性、内容标识、推理可靠性等议题升温，反映行业进入务实阶段。产品经理需建立可验证的评估体系，在高风险场景中优先透明度和信任机制。",
+        "type": "maturation",
+        "pillar_key": "capabilities"
       }
     ],
     "insights": [
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "AI代理从原型验证步入生产部署与系统优化，行业同时反思炒作并警惕能力幻觉",
-        "insight": "AI代理从原型验证步入生产部署与系统优化，行业同时反思炒作并警惕能力幻觉。该方向的具体信号：多个生产案例展示AI代理在代码生成、安全测试、自动驾驶等场景的实际落地，同时模型迁移（如GPT-5.6）带来2.2倍速度提升和27%成本下降，表明效率优化已成为关注焦点。",
+        "narrative_title": "AI 从被动问答向主动代理与工作流嵌入转型",
+        "insight": "AI 从被动问答向主动代理与工作流嵌入转型。该方向的具体信号：①Sakana AI 让 AI 在没有明确指令时自主创作，突破传统对话范式；②Stop Telling Me to Ask an LLM 批评将 AI 仅作为提问箱，主张深度融入工作流；③陶哲轩利用编码代理开发新旧应用，降低编程门槛；④Claude Code 与 OpenCode 在 token 预加载策略上的差异折射出代理效率优化的权衡；⑤Agora 拍卖机制实现多代理细粒度任务分配，提升推理效率与灵活性；⑥VEXAIoT 用 AI 代理自主测试 IoT 漏洞，扩展了安全领域的自动执行；⑦LLM for EDA 将语言模型嵌入芯片前端设计，缩短开发周期。这些案例共同指向 AI 产品设计应从“用户提问-模型回答”转向“用户设定目标-代理自主规划执行”的范式。",
         "evidence": [
           {
-            "id": "vexaiot-autonomous-iot-vulnerability-exploitation-using-ai-agents",
-            "title": "AI代理自主发现IoT漏洞，降低安全测试成本",
+            "id": "twitter_hardmaru_2076479728140394823",
+            "title": "Sakana AI 让AI自主创作，探索无指令创作",
+            "score": 0.72
+          },
+          {
+            "id": "stop-telling-me-to-ask-an-llm",
+            "title": "Stop Telling Me to Ask an LLM：AI应融入工作流",
+            "score": 0.6
+          },
+          {
+            "id": "claude-code-sends-33k-tokens-before-reading-the-prompt-opencode-sends-7k",
+            "title": "Claude Code vs OpenCode token预加载差异",
+            "score": 0.6
+          },
+          {
+            "id": "agora-enhancing-llm-agent-reasoning-via-auction-based-task-allocation",
+            "title": "Agora拍卖机制优化多代理任务分配",
+            "score": 0.43
+          },
+          {
+            "id": "llm-for-eda-in-front-end-design-challenges-and-opportunities",
+            "title": "LLM在芯片前端EDA中的应用",
             "score": 0.43
           }
         ]
@@ -28,37 +54,42 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "narrative_title": "AI代理从原型验证步入生产部署与系统优化，行业同时反思炒作并警惕能力幻觉",
-        "insight": "AI代理从原型验证步入生产部署与系统优化，行业同时反思炒作并警惕能力幻觉。该方向的具体信号：多篇文章指出LLM能力被过度夸大（I love LLMs I hate hype），实际部署需关注上下文长度、成本、推理不确定性等限制；同时有研究揭示模型推理的可解释性不足（Can we understand how LLMs reason）和视觉认知错误（Evolution of Accuracy），提示产品经理需为高风险场景建立信任机制。",
+        "narrative_title": "AI 行业从炒作回归理性评估与信任构建",
+        "insight": "AI 行业从炒作回归理性评估与信任构建。该方向的具体信号：①I love LLMs, I hate hype 呼吁正视LLM实际限制，避免被误导；②Zig 创始人直言 Anthropic 夸大能力，提醒 PM 审慎验证供应商声明；③HN 社区提议为 AI 生成内容添加标识，反映用户对透明度的需求；④ConceptSMILE 提供可解释 AI 的可信度审计框架，增强高风险场景可靠性；⑤Can we understand how LLMs reason 研究推进推理可解释性，为设计透明产品打基础；⑥AI boosts research careers but flattens scientific discovery 指出效率提升伴随创新扁平化风险，需主动引入认知多样性。这些信号表明，行业正从盲目追捧转向可验证、可信任的务实路线，产品经理应优先建立量化评估和透明机制。",
         "evidence": [
           {
-            "id": "i-love-llms-i-hate-hype",
-            "title": "理性评估LLM真实能力边界",
-            "score": 0.64
-          }
-        ]
-      },
-      {
-        "pillar": "🔧 工具生态",
-        "pillar_key": "ecosystem",
-        "narrative_title": "AI代理从原型验证步入生产部署与系统优化，行业同时反思炒作并警惕能力幻觉",
-        "insight": "AI代理从原型验证步入生产部署与系统优化，行业同时反思炒作并警惕能力幻觉。该方向的具体信号：新的工具框架出现以优化多代理系统，如Agora基于拍卖机制的任务分配，以及MCP协议下的持久记忆实现，表明生态正在完善以支持代理的生产化部署。",
-        "evidence": [
+            "id": "zig-creator-calls-spade-a-spade-anthropic-blows-smoke",
+            "title": "Zig创始人批评Anthropic过度宣传",
+            "score": 0.53
+          },
           {
-            "id": "agora-enhancing-llm-agent-reasoning-via-auction-based-task-allocation",
-            "title": "Agora拍卖机制优化多代理推理分配",
+            "id": "ask-hn-add-flag-for-ai-generated-articles",
+            "title": "HN提议为AI生成内容添加标识",
+            "score": 0.55
+          },
+          {
+            "id": "conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai",
+            "title": "ConceptSMILE：可解释AI可信度审计",
             "score": 0.43
           }
         ]
       }
     ],
-    "stats": "技术能力: 14 | 产品模式: 5 | 工具生态: 1 | 商业趋势: 0",
+    "stats": "技术能力: 14 | 产品模式: 6 | 工具生态: 1 | 商业趋势: 0",
     "total_items": 20,
-    "high_value_count": 20,
+    "high_value_count": 17,
     "all_today_ids": [
+      {
+        "id": "twitter_hardmaru_2076479728140394823",
+        "label": "「何を作れ」と命令されないとき、AIは何を作るのか。| 岡瑞起 #note\n\nSakana AI @SakanaAILabs がMIT・NYUと共同で、『目標という幻想』の原点Picbreederを再..."
+      },
       {
         "id": "i-love-llms-i-hate-hype",
         "label": "I love LLMs, I hate hype"
+      },
+      {
+        "id": "stop-telling-me-to-ask-an-llm",
+        "label": "Stop Telling Me to Ask an LLM"
       },
       {
         "id": "claude-code-sends-33k-tokens-before-reading-the-prompt-opencode-sends-7k",
@@ -71,6 +102,10 @@
       {
         "id": "old-and-new-apps-via-modern-coding-agents-by-terry-tao",
         "label": "Old and new apps, via modern coding agents by Terry Tao"
+      },
+      {
+        "id": "zig-creator-calls-spade-a-spade-anthropic-blows-smoke",
+        "label": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke"
       },
       {
         "id": "can-we-understand-how-large-language-models-reason",
@@ -141,6 +176,10 @@
         "label": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels"
       },
       {
+        "id": "interrail-6379km-and-13-countries-over-7-weeks",
+        "label": "Interrail: 6,379Km and 13 Countries over 7 weeks"
+      },
+      {
         "id": "show-hn-codebase-posters-turn-any-git-repo-into-generative-poster-art",
         "label": "Show HN: Codebase Posters – turn any Git repo into generative poster art"
       },
@@ -162,6 +201,6 @@
       }
     ],
     "date_bj": "2026-07-13 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-07-13 12:02:05"
+    "generated_at_bj": "2026-07-13 18:01:38"
   }
 }

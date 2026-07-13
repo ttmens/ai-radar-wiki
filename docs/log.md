@@ -2750,3 +2750,8 @@
 - create: flash-msa-accelerating-million-token-training-with-sparse-attention-kernels.md
 - create: show-hn-codebase-posters-turn-any-git-repo-into-generative-poster-art.md
 - create: show-hn-adaptive-recall-persistent-memory-for-ai-assistants-over-mcp.md
+
+## [2026-07-13 18:02] sync v3 | 3 new | pillars: {'capabilities': 3}
+- create: zig-creator-calls-spade-a-spade-anthropic-blows-smoke.md
+- create: interrail-6379km-and-13-countries-over-7-weeks.md
+- create: stop-telling-me-to-ask-an-llm.md

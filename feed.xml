@@ -5,13 +5,28 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 13 Jul 2026 04:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 08:00:54 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>「何を作れ」と命令されないとき、AIは何を作るのか。| 岡瑞起 #note
+
+Sakana AI @SakanaAILabs がMIT・NYUと共同で、『目標という幻想』の原点Picbreederを再...</title>
+      <link>https://x.com/hardmaru/status/2076479728140394823</link>
+      <guid isPermaLink="false">twitter_hardmaru_2076479728140394823</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>「何を作れ」と命令されないとき、AIは何を作るのか。| 岡瑞起 #note
+
+Sakana AI @SakanaAILabs がMIT・NYUと共同で、『目標という幻想』の原点Picbreederを再現し、人間の代わりにAIに遊ばせる実験を発表しました。
+noteに書きました。
+
+https://t.co/UrMtOxo0eW</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>I love LLMs, I hate hype</title>
       <link>https://news.ycombinator.com/item?id=48883343</link>
@@ -26,6 +41,14 @@
       <guid isPermaLink="false">claude-code-sends-33k-tokens-before-reading-the-prompt-opencode-sends-7k</guid>
       <pubDate>2026-07-13T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Claude Code 在处理提示前先发送33k tokens，而OpenCode仅发送7k，表明两者在上下文预加载策略上存在显著差异。这种差异直接影响响应速度、成本以及模型对用户意图的理解能力。对于AI产品经理而言，更少的预加载token可能意味着更低的延迟和成本，但可能牺牲对长上下文的支持。这提示在设计AI编程助手时需权衡上下文深度与效率，优化token使用策略以提升用户体验和商业可行性。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Ask HN: Add flag for AI-generated articles</title>
+      <link>https://news.ycombinator.com/item?id=48886741</link>
+      <guid isPermaLink="false">ask-hn-add-flag-for-ai-generated-articles</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>HN社区用户提议为AI生成的文章添加显式标识，以解决内容来源透明度问题。该需求反映了用户对AI辅助内容区分性的关注，背后隐含对内容可信度、平台责任及监管合规的深层需求。对于AI产品经理而言，这提示在产品中需内置类似“AI生成内容标记”功能，既可作为差异化信任机制，也可能成为应对未来法规的必备能力。技术实现上可结合元数据、水印及后端检测算法，商业价值在于提升用户长期留存与品牌公信力。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -53,12 +76,84 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Scalable Visual Pretraining for Language Intelligence</title>
+      <link>http://arxiv.org/abs/2607.09657v1</link>
+      <guid isPermaLink="false">scalable-visual-pretraining-for-language-intelligence</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出可扩展的视觉预训练方法，以增强语言智能。传统大模型主要依赖文本语料，但大量知识以视觉形式（如图表、公式、页面布局）存在，无法被文本完整捕获。通过引入视觉预训练，模型能更好地理解多模态信息，提升在文档理解、科学文献分析等场景的表现。商业上，可应用于智能文档处理、教育辅助、科研自动化等领域，降低知识获取门槛。产品创新点在于将视觉信号与语言模型深度融合，实现更全面的知识表征。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>LLM for EDA in Front-End Design: Challenges and Opportunities</title>
+      <link>http://arxiv.org/abs/2607.09616v1</link>
+      <guid isPermaLink="false">llm-for-eda-in-front-end-design-challenges-and-opportunities</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文探讨了大语言模型在芯片前端设计中的电子设计自动化应用，指出随着芯片复杂度增加和上市时间压力，前端设计成为开发瓶颈。LLM不仅能理解规格，还能辅助完成设计任务，有望缩短开发周期、降低人力成本。这为AI产品经理提供了将语言模型能力垂直应用于半导体行业的机会，尤其在需求理解、设计生成和验证等环节实现效率提升。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents</title>
+      <link>http://arxiv.org/abs/2607.09653v1</link>
+      <guid isPermaLink="false">vexaiot-autonomous-iot-vulnerability-exploitation-using-ai-agents</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出VEXAIoT框架，利用大语言模型（LLM）代理自主发现和利用物联网（IoT）系统的安全漏洞。技术要点在于通过AI Agent模拟攻击者行为，对受限硬件、过时固件和不安全默认配置进行可扩展的自动化安全测试。商业价值体现在降低人工渗透测试成本、提高漏洞发现效率，尤其适用于大规模IoT设备的安全评估。产品创新是将LLM的推理与决策能力与IoT安全测试结合，实现端到端的自主漏洞利用流程。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI</title>
+      <link>http://arxiv.org/abs/2607.09649v1</link>
+      <guid isPermaLink="false">conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>ConceptSMILE 是一个模型无关的、基于扰动的审计框架，用于评估基于概念的可解释 AI 的可靠性。它通过向模型输入添加扰动，检验概念层输出的一致性与稳定性，从而判断模型推理的可信度。对产品经理而言，该技术可在高风险场景（如医疗诊断、金融风控）中增强模型透明度，辅助合规审计，降低因不可靠解释导致的信任风险。商业价值在于提供标准化的可信度验证工具，推动可解释 AI 在产品中的安全落地。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation</title>
+      <link>http://arxiv.org/abs/2607.09600v1</link>
+      <guid isPermaLink="false">agora-enhancing-llm-agent-reasoning-via-auction-based-task-allocation</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>Agora 提出一种基于拍卖机制的任务分配方法，用于提升大语言模型（LLM）多代理系统的推理能力。传统框架通常采用粗颗粒度的任务-模型匹配，忽略了细粒度需求与专家模型或工具能力的差异。Agora 受经济学拍卖理论启发，通过让多个专家模型对子任务进行竞价，实现最优分配，从而整体提升推理质量和效率。该方法为构建更灵活、高效的 LLM 多代理系统提供了新思路，有助于降低开发复杂度、提高任务执行的准确性和鲁棒性，特别适用于需要多步骤推理和工具调用的复杂场景，具备显著的商业应用潜力。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
       <title>Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper</title>
       <link>https://news.ycombinator.com/item?id=48882716</link>
       <guid isPermaLink="false">migrating-a-production-ai-agent-to-gpt-56-22x-faster-27-cheaper</guid>
       <pubDate>2026-07-13T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文介绍了一个生产级AI agent从旧模型迁移到GPT-5.6的实际案例，主要成果包括推理速度提升2.2倍、成本降低27%。这为AI产品经理提供了模型升级的量化参考：性能优化与成本节约可以兼得。技术要点在于迁移过程中需评估兼容性、调整提示词策略并优化调用逻辑。商业价值显著，尤其适合高并发、成本敏感的应用场景。产品创新体现在利用新模型的架构优势实现更高效的响应，为用户体验和运营效率带来直接提升。</p></description>
       <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Ra</title>
+      <link>http://arxiv.org/abs/2607.09629v1</link>
+      <guid isPermaLink="false">4dr360-state-reasoning-for-joint-3d-detection-and-occupancy-prediction-in-4d-rad</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出一种4D毫米波雷达与相机融合的联合3D检测与占用预测方法，通过状态推理实现全场景感知。4D雷达成本低、鲁棒性强，但稀疏数据需与视觉信息互补。技术核心在于同时识别前景物体与密集语义布局，提升自动驾驶环境理解精度。商业价值在于降低传感器成本，同时增强安全性，为L4级自动驾驶提供更可靠的感知方案。产品创新点包括端到端融合架构与状态推理机制。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language</title>
+      <link>http://arxiv.org/abs/2607.09654v1</link>
+      <guid isPermaLink="false">evolution-of-accuracy-and-visual-cognitive-errors-in-a-decade-of-vision-language</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文分析了十年间视觉语言模型（VLM）在视觉推理准确性和认知错误方面的演变。研究发现，大多数评估仍依赖简单场景（如MS-COCO），未能涵盖复杂的人类互动或行为，且基准测试仅使用少量非人工策划的描述。这揭示了当前VLM在现实复杂场景中可能存在的认知盲区，对AI产品经理而言，意味着需警惕模型在真实应用（如人机交互、自动驾驶）中的可靠性问题，并推动更贴近人类行为的评估基准开发，以提升产品落地效果。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Deep Gaussian Processes on Directed Acyclic Graphs</title>
+      <link>http://arxiv.org/abs/2607.09645v1</link>
+      <guid isPermaLink="false">deep-gaussian-processes-on-directed-acyclic-graphs</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出深度高斯过程在有向无环图（DAG）上的扩展，用于建模由多个函数组合构成的真实世界过程，例如因果机制、多保真度工程仿真和基因调控网络。该技术通过结构化概率建模增强了复杂系统的可解释性和预测能力，可应用于药物发现、材料设计和工业仿真优化。产品经理可关注其在非线性因果关系推断、多源数据融合和不确定性量化方面的优势，为AI驱动的科学计算和决策系统提供新思路。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Task-Specific Multimodal Question Answering Agents via Confidence Calibration an</title>
+      <link>http://arxiv.org/abs/2607.09623v1</link>
+      <guid isPermaLink="false">task-specific-multimodal-question-answering-agents-via-confidence-calibration-an</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>本文提出一种针对QANTA 2026多模态问答竞赛的方法，通过置信度校准和增量推理提升系统在逐步揭示文本和图像下的金字塔式问答能力。技术要点包括：利用不确定性估计动态决定是否等待更多信息，结合视觉与语言模态进行渐进式推理。商业价值在于降低多模态系统的计算成本并提高实时问答的可靠性，适用于智能助手、教育题库、文档理解等场景。产品创新在于将增量推理与置信度校准结合，使AI能主动控制信息获取节奏，提升用户体验和效率。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>I Learned to Read Again</title>
@@ -85,12 +180,60 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Show HN: Adaptive Recall, persistent memory for AI assistants over MCP</title>
+      <link>https://www.adaptiverecall.com/</link>
+      <guid isPermaLink="false">show-hn-adaptive-recall-persistent-memory-for-ai-assistants-over-mcp</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Adaptive Recall 通过 MCP (Model Context Protocol) 为 AI 助手提供持久记忆能力，使大模型能跨会话保留用户上下文与偏好，显著提升交互连贯性和个性化水平。该方案采用轻量级协议集成，降低开发门槛，适用于客服、个人助理等需要长期记忆的场景。产品经理应关注其对用户体验的改善及与现有 AI 工作流的兼容性。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels</title>
+      <link>https://news.ycombinator.com/item?id=48884618</link>
+      <guid isPermaLink="false">flash-msa-accelerating-million-token-training-with-sparse-attention-kernels</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Flash-MSA 是一种新型稀疏注意力核，旨在加速百万级 token 的长序列训练。通过将注意力计算稀疏化，显著降低计算复杂度和内存占用，使得大模型能够高效处理超长上下文窗口。该技术对需要长文档理解、记忆增强或实时交互的 AI 产品具有重要价值，可大幅降低训练成本并提升推理效率。产品经理可关注其在云端大模型或端侧部署中的潜力，优化用户体验与资源消耗。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Codebase Posters – turn any Git repo into generative poster art</title>
+      <link>https://github.com/unable12/codebase-posters</link>
+      <guid isPermaLink="false">show-hn-codebase-posters-turn-any-git-repo-into-generative-poster-art</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Codebase Posters 是一款将任意 Git 仓库转化为生成式海报艺术的产品。它利用 AI 视觉模型，解析代码仓库的结构、文件树、提交历史等特征，自动生成抽象或风格化的视觉艺术品，使开发者能够以艺术形式展示其代码项目。技术核心包括 Git 数据解析与生成式 AI 的结合，商业价值体现在开发者社区个性化周边、技术博客封面、公司文化墙等场景。产品创新在于将枯燥的代码库转化为可收藏、可分享的审美作品，降低了 AI 图像生成的门槛。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?</title>
       <link>https://news.ycombinator.com/item?id=48880564</link>
       <guid isPermaLink="false">mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east</guid>
       <pubDate>2026-07-13T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该标题探讨了波利尼西亚人在长期停止航海后突然东迁的历史谜团，可类比AI领域中的突现能力现象——模型在训练中突然展现出未刻意设计的复杂技能。对AI产品经理而言，这提示关注模型能力非线性增长的不可预测性，以及如何通过架构创新（如长上下文、记忆机制）引导或利用此类跃迁。商业价值在于理解能力突变的触发条件，从而设计更鲁棒的产品策略，避免意外行为。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Fina</title>
+      <link>http://arxiv.org/abs/2607.09641v1</link>
+      <guid isPermaLink="false">semantic-pareto-dqn-a-multi-objective-reinforcement-learning-framework-for-finan</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Financial anomaly detection suffers from extreme class imbalance, causing traditional single-objective algorithms to exhibit ``fraud collapse'', defaulting to the majority class and failing to balance anomaly interdiction with customer friction. To overcome this without distortive data resampling, w</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti</title>
+      <link>http://arxiv.org/abs/2607.09662v1</link>
+      <guid isPermaLink="false">phinn-eeg-topological-time-series-analysis-of-dream-state-eeg-dynamic-betti-curv</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating characteristic curve (AUC) of approximately 0.70 on the DREAM database (Wong et al., 2025, Nature Communic</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory</title>
+      <link>http://arxiv.org/abs/2607.09632v1</link>
+      <guid isPermaLink="false">lean-qit-towards-a-formal-infrastructure-for-quantum-information-theory</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> papers</p><hr/><p>Lean-QIT 是量子信息理论的形式化基础设施，旨在将编码定理等核心结论通过形式化验证连接有限块协议与分析不等式。该项目为量子通信、计算和纠错提供严谨的数学基础，但处于纯学术研究阶段，离产品化应用较远。对 AI 产品经理而言，它代表了底层数学工具的创新，可为未来量子 AI 算法提供形式化验证保障，但当前商业价值不明显。</p></description>
+      <category>🔧 工具生态</category>
     </item>
     <item>
       <title>Starship is evolving rapidly</title>
@@ -231,6 +374,62 @@ It turned</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Elon Musk explains why the Sun is humanity's ultimate energy source:
+
+"The vast majority of Earth's ...</title>
+      <link>https://x.com/elonmusk/status/2076352093703794999</link>
+      <guid isPermaLink="false">twitter_elonmusk_2076352093703794999</guid>
+      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Elon Musk explains why the Sun is humanity's ultimate energy source:
+
+"The vast majority of Earth's energy already comes from the Sun. Without it, Earth would be a frozen ice ball
+
+A roughly 100-mile by 100-mile area of solar panels....about a corner of Arizona, could generate enough electricity to </p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Grok Build improvements</title>
+      <link>https://x.com/elonmusk/status/2076434715951689733</link>
+      <guid isPermaLink="false">twitter_elonmusk_2076434715951689733</guid>
+      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Grok Build improvements</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Grok 4.5 even ranks slightly above Fable, which is an incredibly good model, on some software benchm...</title>
+      <link>https://x.com/elonmusk/status/2076434607562531049</link>
+      <guid isPermaLink="false">twitter_elonmusk_2076434607562531049</guid>
+      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Grok 4.5 even ranks slightly above Fable, which is an incredibly good model, on some software benchmarks! https://t.co/6yXTTSZ8f3</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>The mega bull case for AI infrastructure would be *if* market share shifted away from certain fronti...</title>
+      <link>https://x.com/elonmusk/status/2076369936251851091</link>
+      <guid isPermaLink="false">twitter_elonmusk_2076369936251851091</guid>
+      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>The mega bull case for AI infrastructure would be *if* market share shifted away from certain frontier labs with 90%+ inference margins toward cheaper models, whether open-source or closed.
+
+It would increase the ROI on AI spend for end customers by increasing intelligence per dollar, which would dr</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Follow the Starship series @SpaceX</title>
+      <link>https://x.com/elonmusk/status/2076433121893814735</link>
+      <guid isPermaLink="false">twitter_elonmusk_2076433121893814735</guid>
+      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Follow the Starship series @SpaceX</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>I don't think Anthropic realizes how disruptive these changes are to users. I appreciate the extensi...</title>
+      <link>https://x.com/jeremyphoward/status/2076381743016276304</link>
+      <guid isPermaLink="false">twitter_jeremyphoward_2076381743016276304</guid>
+      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>I don't think Anthropic realizes how disruptive these changes are to users. I appreciate the extension, but please stop playing games. Either keep it under the subscriptions or put it under the API already.</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>if you only learned about jevons paradox primarily wrt software demand in the age of agentic enginee...</title>
       <link>https://x.com/swyx/status/2076155833428431012</link>
       <guid isPermaLink="false">twitter_swyx_2076155833428431012</guid>
@@ -273,289 +472,6 @@ it's small, and still worse than Qwen3.5, but...</title>
 it's small, and still worse than Qwen3.5, but it's very comparable to Nemotron 3 Nano
 
 but I guess that's what 27T pre-training tokens will do to a model https://t.co/eE9HShmO7u</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>@brivael @neutralityorg Can you at least pretend to be free of bias when you launch a vibecoded “ ne...</title>
-      <link>https://x.com/TheAIGRID/status/2076104793853231546</link>
-      <guid isPermaLink="false">twitter_TheAIGRID_2076104793853231546</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>@brivael @neutralityorg Can you at least pretend to be free of bias when you launch a vibecoded “ neutrality project “ https://t.co/NmcW8xXEPS</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>more on @latentspacepod writeup
-
-https://t.co/PlM8rvF2jD</title>
-      <link>https://x.com/swyx/status/2076216180529156097</link>
-      <guid isPermaLink="false">twitter_swyx_2076216180529156097</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>more on @latentspacepod writeup
-
-https://t.co/PlM8rvF2jD</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>This dev ran a two-agent app through the export flow. Files and secrets survived. Conversation histo...</title>
-      <link>https://x.com/ThePracticalDev/status/2076222783181279426</link>
-      <guid isPermaLink="false">twitter_ThePracticalDev_2076222783181279426</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>This dev ran a two-agent app through the export flow. Files and secrets survived. Conversation history did not.
-
-{ author: @leslysandra + @GoogleDevExpert }
-
-https://t.co/XkusPfXGMK</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>This dev learned software by reading docs, source, and GitHub issues. Their warning: trading compreh...</title>
-      <link>https://x.com/ThePracticalDev/status/2076155843934916779</link>
-      <guid isPermaLink="false">twitter_ThePracticalDev_2076155843934916779</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>This dev learned software by reading docs, source, and GitHub issues. Their warning: trading comprehension for output is debt.
-
-{ author: @dannwaneri }
-
-https://t.co/I433cyQzDx</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Anthropic keeps increasing their effective API prices....
-
-Sonnet 5 literally costs 2x that of Sonne...</title>
-      <link>https://x.com/bindureddy/status/2076359473942429817</link>
-      <guid isPermaLink="false">twitter_bindureddy_2076359473942429817</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Anthropic keeps increasing their effective API prices....
-
-Sonnet 5 literally costs 2x that of Sonnet 4.6
-
-In sharp contrast, OpenAI is becoming more efficient and effective - Terra is an excellent option 
-
-Overtime, this will make OpenAI more profitable than Anthropic</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>btw the difference is introspection/backpropagation
-
-as einstein famously said, the definition of in...</title>
-      <link>https://x.com/swyx/status/2076345087634620528</link>
-      <guid isPermaLink="false">twitter_swyx_2076345087634620528</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>btw the difference is introspection/backpropagation
-
-as einstein famously said, the definition of insanity is doing multiple rollouts with no expectation of advantage https://t.co/G7WLxbYWda</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>All AI benchmarks are completely broken 
-
-Almost all of them measure simple first turn responses 
-
-L...</title>
-      <link>https://x.com/bindureddy/status/2076351078015418575</link>
-      <guid isPermaLink="false">twitter_bindureddy_2076351078015418575</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>All AI benchmarks are completely broken 
-
-Almost all of them measure simple first turn responses 
-
-LLMs are literally tuned to optimize on cost and performance on such questions
-
-These LLMs don’t hold up in the real world which is full of long context multi-turn conversations</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Jevons Paradox is about to hit AI harder than almost any industry we have seen before.
-
-People once ...</title>
-      <link>https://x.com/TheAIGRID/status/2076398806569193480</link>
-      <guid isPermaLink="false">twitter_TheAIGRID_2076398806569193480</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Jevons Paradox is about to hit AI harder than almost any industry we have seen before.
-
-People once thought faster internet would simply let us load the same websites more quickly.
-
-That was not even close to what happened.
-
-Faster connections created video streaming, cloud software, online gaming, </p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Hilarious! Microsoft hasn’t succeeded in making an LLM it can actually sell 
-
-So it is now recommend...</title>
-      <link>https://x.com/bindureddy/status/2076411455612842477</link>
-      <guid isPermaLink="false">twitter_bindureddy_2076411455612842477</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Hilarious! Microsoft hasn’t succeeded in making an LLM it can actually sell 
-
-So it is now recommending that every company should train their own 
-
-From a company that can’t train a half decent model…. Ok, sure 🤯</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>“...in a world captivated by machines that produce astonishing answers, the messy part suddenly feel...</title>
-      <link>https://x.com/JohnNosta/status/2076263094947348989</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2076263094947348989</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>“...in a world captivated by machines that produce astonishing answers, the messy part suddenly feels like the most important part.”-@JohnNosta ✨
-What comes first-answers or questions⁉️
-Interesting findings💡Must visit blog👇 https://t.co/VzcRWWYTOb</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>The biggest announcements and technical sessions from #DataAISummit are now available on demand.
-
-Ca...</title>
-      <link>https://x.com/databricks/status/2076349269066326219</link>
-      <guid isPermaLink="false">twitter_databricks_2076349269066326219</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>The biggest announcements and technical sessions from #DataAISummit are now available on demand.
-
-Catch keynotes and select sessions featuring the latest innovations, including:
-• Omnigent
-• Unity AI Gateway
-• Genie Ontology
-.. &amp; much more
-
-Explore the technologies shaping the next generation of AI </p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>State of Startups 2026 results are out!
-
-Two thousand startup builders told us what they picked up a...</title>
-      <link>https://x.com/supabase/status/2076329988622630925</link>
-      <guid isPermaLink="false">twitter_supabase_2076329988622630925</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>State of Startups 2026 results are out!
-
-Two thousand startup builders told us what they picked up and what they put down between 2025 and 2026. Full results available here:
-https://t.co/Bfjp8MVsm5</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Bots reviewing, bots replying, humans exhausted. This dev's team learned skilled attention is the sc...</title>
-      <link>https://x.com/ThePracticalDev/status/2076303565631389954</link>
-      <guid isPermaLink="false">twitter_ThePracticalDev_2076303565631389954</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Bots reviewing, bots replying, humans exhausted. This dev's team learned skilled attention is the scarce resource worth guarding.
-
-{ author: @tech_christine }
-
-https://t.co/fJfFvFUeDn</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>🚨This is both interesting and consequential.
-
-An aortic dissection doesn't seem to be something that...</title>
-      <link>https://x.com/JohnNosta/status/2076419637944729804</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2076419637944729804</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>🚨This is both interesting and consequential.
-
-An aortic dissection doesn't seem to be something that could be precipitated by some external exposure or insult.
-
-Typically, an aortic dissection is a function of cystic medial necrosis / degeneration where the large blood vessel in the chest rips away </p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>The biggest AI winners may not have “AI” anywhere in the company description.
-
-They may make:
-Transf...</title>
-      <link>https://x.com/JohnNosta/status/2076385856345051266</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2076385856345051266</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>The biggest AI winners may not have “AI” anywhere in the company description.
-
-They may make:
-Transformers.
-Switchgear.
-Cooling systems.
-Copper cable.
-Magnets.
-Turbines.
-The intelligence is digital.
-The constraint is physical.
-https://t.co/IzCI3E5Goo</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>So, here's my take...and why Microsoft and OpenAI are missing the big big.
-
-@satyanadella's Reverse ...</title>
-      <link>https://x.com/JohnNosta/status/2076403464150593981</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2076403464150593981</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>So, here's my take...and why Microsoft and OpenAI are missing the big big.
-
-@satyanadella's Reverse Rnformation Paradox is a smart essay. But I'd push back on one word, and it's the word doing all the work. That word is intelligence.
-
-👉We keep calling this the intelligence age and I understand why. </p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>This dev breaks the sequential bottleneck: parallel subagents move vendor PDF data from Drive to She...</title>
-      <link>https://x.com/ThePracticalDev/status/2076352388391182616</link>
-      <guid isPermaLink="false">twitter_ThePracticalDev_2076352388391182616</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>This dev breaks the sequential bottleneck: parallel subagents move vendor PDF data from Drive to Sheets.
-
-{ author: @aryanirani123 + @GoogleDevExpert }
-
-https://t.co/5WJrLT2kB6</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>AI 2040 and the cult of intelligence</title>
-      <link>https://news.ycombinator.com/item?id=48874200</link>
-      <guid isPermaLink="false">ai-2040-and-the-cult-of-intelligence</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章探讨了2040年AI发展可能导致的“智能崇拜”现象，即人们过度相信AI的能力，而忽视其局限性与伦理风险。对产品经理而言，需警惕技术乐观主义陷阱，在规划长期AI产品时平衡能力增长与可控性。商业价值在于提前布局负责任AI框架，避免因公众信任崩塌导致的监管风险。创新点在于提出超越单纯能力提升、关注人机协作的社会设计。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>re4/LibreCode</title>
-      <link>https://github.com/re4/LibreCode</link>
-      <guid isPermaLink="false">re4librecode</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> github</p><hr/><p>LibreCode 是一个基于 Ollama 的本地 AI 编码与逆向工程界面，类似 Cursor 但完全离线运行。它利用开源模型提供代码补全、交互式逆向分析，降低了对云端 API 的依赖，保障代码隐私。对于 AI 产品经理，该项目展示了本地优先、开源替代的商业价值，特别是在安全敏感场景下。产品创新点在于将 AI 编程助手与逆向工程结合，扩展了传统编码工具的应用边界。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>What xAI's Grok Build CLI Actually Sends to xAI</title>
-      <link>https://news.ycombinator.com/item?id=48877371</link>
-      <guid isPermaLink="false">what-xais-grok-build-cli-actually-sends-to-xai</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文分析了 xAI 的 Grok CLI 工具实际发送到 xAI 服务器的数据内容。作为面向开发者的命令行界面，Grok CLI 允许用户直接与 Grok 模型交互，但客户端会发送哪些信息（如输入文本、系统环境、会话上下文等）以及这些数据如何被处理，对产品设计至关重要。文章可能揭露了数据传输的隐私边界、缓存策略或认证方式，这直接关系到企业级部署的合规性与用户信任。对于 AI 产品经理而言，理解 CLI 层面如何平衡本地处理与云端推理是设计安全高效工具的关键。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>OpenAI bets on families as ChatGPT goes deeper into households</title>
-      <link>https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/</link>
-      <guid isPermaLink="false">openai-bets-on-families-as-chatgpt-goes-deeper-into-households</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenAI 发布招聘信息，招募专门负责为家庭、照顾者和老年人设计 ChatGPT 体验的产品经理。此举标志着 OpenAI 战略重心从通用对话向垂直家庭场景迁移，旨在挖掘老龄化社会与家庭协作中的 AI 应用潜力。技术层面，ChatGPT 需适配多用户交互、隐私保护及低技术门槛；商业价值在于扩大用户基数、提升粘性并抢占家庭智能入口。产品创新体现为针对非技术群体的关怀型交互设计，可能引入家庭共享账号、儿童安全过滤、健康提醒等差异化功能。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Mesh LLM: distributed AI computing on iroh</title>
-      <link>https://news.ycombinator.com/item?id=48876505</link>
-      <guid isPermaLink="false">mesh-llm-distributed-ai-computing-on-iroh</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Mesh LLM 是一种基于 iroh 协议实现分布式 AI 计算的新方案，通过在 mesh 网络中协同运行大语言模型，无需中心化 GPU 集群。技术要点：利用 iroh 的点对点通信和去中心化存储，将推理任务分散到参与节点，降低单点算力需求。商业价值：显著降低模型推理成本，增强数据隐私保护，适用于边缘设备或低资源场景。产品创新：支持弹性扩展，节点可随时加入或退出，有望推动 AI 应用的去中心化生态。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Ghost Font: A font that humans can read but AI cannot</title>
-      <link>https://news.ycombinator.com/item?id=48870381</link>
-      <guid isPermaLink="false">ghost-font-a-font-that-humans-can-read-but-ai-cannot</guid>
-      <pubDate>2026-07-12T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Ghost Font是一种特殊设计的字体，人类肉眼可正常阅读，但AI视觉系统（如OCR）无法识别。其原理是在字符中加入对抗性噪声或形状扰动，破坏机器学习模型的特征提取能力。该技术可用于内容防爬取、验证码安全、版权保护等场景，通过低成本方式实现人机区分。对AI产品经理而言，它揭示了AI视觉识别的稳健性短板，也为设计更安全的交互界面提供了新思路。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
