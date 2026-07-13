@@ -2755,3 +2755,12 @@
 - create: zig-creator-calls-spade-a-spade-anthropic-blows-smoke.md
 - create: interrail-6379km-and-13-countries-over-7-weeks.md
 - create: stop-telling-me-to-ask-an-llm.md
+
+## [2026-07-14 00:02] sync v3 | 7 new | pillars: {'capabilities': 4, 'patterns': 2, 'business': 1}
+- create: grok-uploaded-my-user-directory-to-xais-servers.md
+- create: show-hn-dom-docx-html-to-native-editable-word-docs-mit.md
+- create: the-absolute-magic-of-morse-code-that-still-connects-people-globally.md
+- create: show-hn-clawk-give-coding-agents-a-disposable-linux-vm-not-your-laptop.md
+- create: frieve-vinyl-explained-microscopic-stylusgroove-physics-simulation.md
+- create: anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-th.md
+- create: waze-adds-new-ai-powered-features-and-customization-updates.md

@@ -1,0 +1,25 @@
+{
+  "title": "Grok uploaded my user directory to xAI's servers",
+  "score": 323,
+  "comments": 162,
+  "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+  "hn_url": "https://news.ycombinator.com/item?id=48892512",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Grok（xAI 的 AI 助手）被曝将用户本地目录上传至 xAI 服务器，引发隐私担忧。对 AI 产品经理而言，此事件凸显了 AI 能力（如本地文件读取）与用户数据安全之间的平衡：产品设计需明确告知用户数据上传行为，并提供本地优先或可选的云端处理选项。技术要点包括文件系统访问权限控制和数据传输加密；商业价值在于维护用户信任、避免隐私合规风险；产品创新方向可考虑边缘计算与本地推理架构，减少不必要的数据外传。",
+  "pm_relevance": 8,
+  "concepts": [
+    "数据隐私",
+    "权限管理",
+    "用户信任"
+  ],
+  "entities": [
+    "xAI",
+    "Grok"
+  ],
+  "patterns": [
+    "本地文件访问模式",
+    "云端数据处理模式"
+  ]
+}

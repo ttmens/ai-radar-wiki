@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-13 | Total pages: 2491
+> Last updated: 2026-07-14 | Total pages: 2498
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -263,6 +263,7 @@
 - [[ford-rehires-gray-beard-engineers-after-ai-falls-short.md]] Ford rehires ‘gray beard’ engineers after AI falls short `pillar:capabilities` `score:0.48`
 - [[forever-young-how-one-molecule-can-lock-plants-in-a-youthful-state-2025.md]] Forever Young: how one molecule can lock plants in a youthful state (2025) `pillar:capabilities` `score:0.27`
 - [[formal-verification-gates-for-ai-coding-loops.md]] Formal Verification Gates for AI Coding Loops `pillar:capabilities` `score:0.43`
+- [[frieve-vinyl-explained-microscopic-stylusgroove-physics-simulation.md]] Frieve Vinyl Explained – Microscopic stylus/groove physics simulation `pillar:capabilities` `score:0.24`
 - [[from-brain-waves-to-words-a-new-path-to-communication-without-surgery.md]] From brain waves to words: a new path to communication without surgery `pillar:capabilities` `score:0.565`
 - [[frontier-ai-has-broken-the-open-ctf-format.md]] Frontier AI has broken the open CTF format `pillar:capabilities` `score:0.55`
 - [[futo-swipe-a-new-swipe-typing-model.md]] FUTO Swipe – A new swipe typing model `pillar:capabilities` `score:0.41`
@@ -317,6 +318,7 @@
 - [[gptlive.md]] GPT‑Live `pillar:capabilities` `score:0.645`
 - [[gptnl-a-sovereign-language-model-for-the-netherlands.md]] GPT‑NL: a sovereign language model for the Netherlands `pillar:capabilities` `score:0.565`
 - [[grapheneos-speech-services-version-2-released.md]] GrapheneOS Speech Services version 2 released `pillar:capabilities` `score:0.295`
+- [[grok-uploaded-my-user-directory-to-xais-servers.md]] Grok uploaded my user directory to xAI's servers `pillar:capabilities` `score:0.6`
 - [[growing-neural-cellular-automata.md]] Growing Neural Cellular Automata `pillar:capabilities` `score:0.295`
 - [[hacksiderdeep-live-cam.md]] hacksider/Deep-Live-Cam `pillar:capabilities` `score:0.58`
 - [[haiku-os-runs-on-m1-macs-now.md]] Haiku OS runs on M1 Macs now `pillar:capabilities` `score:0.475`
@@ -620,6 +622,7 @@
 - [[show-hn-davit-a-apple-containers-ui.md]] Show HN: Davit, a Apple Containers UI `pillar:capabilities` `score:0.325`
 - [[show-hn-demon-open-source-real-time-music-diffusion-engine-25hz-local-gpu.md]] Show HN: Demon – open-source real-time music diffusion engine, 25Hz local GPU `pillar:capabilities` `score:0.365`
 - [[show-hn-docx-cli-agents-readedit-word-docs-using-12-the-time-and-tokens.md]] Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens `pillar:capabilities` `score:0.33`
+- [[show-hn-dom-docx-html-to-native-editable-word-docs-mit.md]] Show HN: DOM-docx – HTML to native, editable Word docs (MIT) `pillar:capabilities` `score:0.395`
 - [[show-hn-domaintasker-avoid-losing-domains-and-surprise-renewals.md]] Show HN: DomainTasker – avoid losing domains and surprise renewals `pillar:capabilities` `score:0.19`
 - [[show-hn-find-the-best-local-llm-for-your-hardware-ranked-by-benchmarks.md]] Show HN: Find the best local LLM for your hardware, ranked by benchmarks `pillar:capabilities` `score:0.33`
 - [[show-hn-follow-london-trains-in-3d.md]] Show HN: Follow London Trains in 3D `pillar:capabilities` `score:0.26`
@@ -736,6 +739,7 @@
 - [[tensorflowtfjs.md]] tensorflow/tfjs `pillar:capabilities` `score:0.58`
 - [[ternlight-7-mb-embedding-model-that-runs-in-browser-wasm.md]] Ternlight – 7 MB embedding model that runs in browser (WASM) `pillar:capabilities` `score:0.48`
 - [[the-90-year-old-idea-behind-jepa-models-canonical-correlation-analysis.md]] The 90-year-old idea behind JEPA models: Canonical Correlation Analysis `pillar:capabilities` `score:0.345`
+- [[the-absolute-magic-of-morse-code-that-still-connects-people-globally.md]] The 'absolute magic' of Morse code that still connects people globally `pillar:capabilities` `score:0.255`
 - [[the-ai-zombification-of-universities.md]] The AI Zombification of Universities `pillar:capabilities` `score:0.515`
 - [[the-airpods-effect.md]] The AirPods Effect `pillar:capabilities` `score:0.5`
 - [[the-annotated-pytorch-training-loop.md]] The annotated PyTorch training loop `pillar:capabilities` `score:0.225`
@@ -838,6 +842,7 @@
 - [[voxel51fiftyone.md]] voxel51/fiftyone `pillar:capabilities` `score:0.58`
 - [[vulkan-is-now-available-on-netbsd.md]] Vulkan is now available on NetBSD `pillar:capabilities` `score:0.205`
 - [[wayfinder-router-deterministic-routing-of-queries-between-local-and-hosted-llm.md]] Wayfinder Router: deterministic routing of queries between local and hosted LLM `pillar:capabilities` `score:0.38`
+- [[waze-adds-new-ai-powered-features-and-customization-updates.md]] Waze adds new AI-powered features and customization updates `pillar:capabilities` `score:0.48`
 - [[we-let-ais-run-radio-stations.md]] We let AIs run radio stations `pillar:capabilities` `score:0.48`
 - [[we-made-grok-45-gpt-55-and-claude-build-the-same-apps.md]] We made Grok 4.5, GPT-5.5, and Claude build the same apps `pillar:capabilities` `score:0.515`
 - [[we-should-be-more-tired-than-the-model.md]] We should be more tired than the model `pillar:capabilities` `score:0.41`
@@ -1602,6 +1607,7 @@
 - [[show-hn-blitzgraph-supabase-for-graphs-built-for-llm-agents.md]] Show HN: BlitzGraph – Supabase for graphs, built for LLM agents `pillar:patterns` `score:0.33`
 - [[show-hn-blockbuzz-a-workspace-built-for-teams-of-humans-and-agents.md]] Show HN: Block/buzz: a workspace built for teams of humans and agents `pillar:patterns` `score:0.33`
 - [[show-hn-build-your-own-ai-agent-cli-in-150-lines.md]] Show HN: Build Your Own AI Agent CLI in 150 Lines `pillar:patterns` `score:0.26`
+- [[show-hn-clawk-give-coding-agents-a-disposable-linux-vm-not-your-laptop.md]] Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop `pillar:patterns` `score:0.515`
 - [[show-hn-cli-that-helps-ai-agents-avoid-vulnerable-dependencies.md]] Show HN: CLI that helps AI agents avoid vulnerable dependencies `pillar:patterns` `score:0.33`
 - [[show-hn-coding-agent-that-compiles-intent-into-deterministic-dag-before-running.md]] Show HN: Coding agent that compiles intent into deterministic DAG before running `pillar:patterns` `score:0.33`
 - [[show-hn-continue-yn-a-60-second-game-about-ai-agent-permission-fatigue.md]] Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue `pillar:patterns` `score:0.295`
@@ -2160,6 +2166,7 @@
 - [[anthropic-raises-65b-in-series-h-funding-at-965b-post-money-valuation.md]] Anthropic raises $65B in Series H funding at $965B post-money valuation `pillar:business` `score:0.515`
 - [[anthropic-says-evil-portrayals-of-ai-were-respon.md]] Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail a `pillar:business` `score:0.305`
 - [[anthropic-says-it8217s-about-to-have-its-first-profitable-quarter.md]] Anthropic says it&#8217;s about to have its first profitable quarter `pillar:business` `score:0.48`
+- [[anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-th.md]] Anthropic starts localizing Claude pricing for India, its biggest market after t `pillar:business` `score:0.48`
 - [[anthropic-surpasses-openai-to-become-most-valuable-ai-startup.md]] Anthropic surpasses OpenAI to become most valuable AI startup `pillar:business` `score:0.63`
 - [[anthropic-warns-investors-against-secondary-platfo.md]] Anthropic warns investors against secondary platforms offering access to its sha `pillar:business` `score:0.305`
 - [[anthropic-will-pay-xai-125-billion-per-month-for-compute.md]] Anthropic will pay xAI $1.25 billion per month for compute `pillar:business` `score:0.515`
