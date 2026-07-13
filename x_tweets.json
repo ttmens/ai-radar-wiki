@@ -1,8 +1,36 @@
 {
-  "fetched_at": "2026-07-12T21:01:14.723645",
+  "fetched_at": "2026-07-13T09:01:53.926708",
   "source": "twitter-cli",
   "data": {
     "sama": [
+      {
+        "id": "2076398253332140410",
+        "text": "i'd love to see interesting things people have built with 5.6 sol.\n\ni will send the person who made the coolest thing a special gift from the openai archives.",
+        "author": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screenName": "sama",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 9585,
+          "retweets": 316,
+          "replies": 2048,
+          "quotes": 149,
+          "views": 1164769,
+          "bookmarks": 1945
+        },
+        "createdAt": "Sun Jul 12 20:08:15 +0000 2026",
+        "createdAtLocal": "2026-07-13 04:08",
+        "createdAtISO": "2026-07-12T20:08:15+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
       {
         "id": "2076036901824532530",
         "text": "so far at least, i'm pretty sure AI has been net job-creating.\n\nthis was not what i expected--although i was much less pessimistic than others, i thought by this level of capability we'd have seen some impact.\n\nit is possible this direction keeps going!",
@@ -14,12 +42,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 11073,
-          "retweets": 419,
-          "replies": 1584,
-          "quotes": 265,
-          "views": 1564759,
-          "bookmarks": 995
+          "likes": 12687,
+          "retweets": 480,
+          "replies": 1763,
+          "quotes": 321,
+          "views": 2083389,
+          "bookmarks": 1188
         },
         "createdAt": "Sat Jul 11 20:12:22 +0000 2026",
         "createdAtLocal": "2026-07-12 04:12",
@@ -42,12 +70,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 2416,
-          "retweets": 59,
-          "replies": 252,
-          "quotes": 10,
-          "views": 871503,
-          "bookmarks": 122
+          "likes": 2948,
+          "retweets": 76,
+          "replies": 285,
+          "quotes": 14,
+          "views": 1193604,
+          "bookmarks": 160
         },
         "createdAt": "Sat Jul 11 20:01:30 +0000 2026",
         "createdAtLocal": "2026-07-12 04:01",
@@ -78,12 +106,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 3129,
-          "retweets": 210,
-          "replies": 108,
-          "quotes": 28,
-          "views": 783994,
-          "bookmarks": 487
+          "likes": 3308,
+          "retweets": 224,
+          "replies": 114,
+          "quotes": 29,
+          "views": 893339,
+          "bookmarks": 527
         },
         "createdAt": "Fri Jul 10 18:19:16 +0000 2026",
         "createdAtLocal": "2026-07-11 02:19",
@@ -114,12 +142,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 5346,
-          "retweets": 336,
-          "replies": 394,
-          "quotes": 91,
-          "views": 1409251,
-          "bookmarks": 644
+          "likes": 6346,
+          "retweets": 386,
+          "replies": 429,
+          "quotes": 100,
+          "views": 1961351,
+          "bookmarks": 821
         },
         "createdAt": "Sat Jul 11 16:46:22 +0000 2026",
         "createdAtLocal": "2026-07-12 00:46",
@@ -138,34 +166,6 @@
             "name": "Karan Singhal"
           }
         }
-      },
-      {
-        "id": "2075983427019612242",
-        "text": "there are a lot of benchmarks that suggest 5.6 sol is the best model in the world right now, but the most reliable way to tell is that elon is obsessed with me again",
-        "author": {
-          "id": "1605",
-          "name": "Sam Altman",
-          "screenName": "sama",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 53443,
-          "retweets": 2563,
-          "replies": 3589,
-          "quotes": 1140,
-          "views": 4023158,
-          "bookmarks": 3015
-        },
-        "createdAt": "Sat Jul 11 16:39:53 +0000 2026",
-        "createdAtLocal": "2026-07-12 00:39",
-        "createdAtISO": "2026-07-11T16:39:53+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
       }
     ],
     "karpathy": [
@@ -180,12 +180,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8530,
-          "retweets": 1045,
-          "replies": 427,
-          "quotes": 557,
-          "views": 3485044,
-          "bookmarks": 5131
+          "likes": 8564,
+          "retweets": 1048,
+          "replies": 430,
+          "quotes": 559,
+          "views": 3506822,
+          "bookmarks": 5129
         },
         "createdAt": "Wed Jul 08 21:47:29 +0000 2026",
         "createdAtLocal": "2026-07-09 05:47",
@@ -210,12 +210,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1504,
-          "retweets": 142,
-          "replies": 68,
+          "likes": 1516,
+          "retweets": 146,
+          "replies": 69,
           "quotes": 14,
-          "views": 431904,
-          "bookmarks": 2380
+          "views": 438244,
+          "bookmarks": 2383
         },
         "createdAt": "Fri Jul 03 14:12:03 +0000 2026",
         "createdAtLocal": "2026-07-03 22:12",
@@ -240,12 +240,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 9433,
-          "retweets": 928,
+          "likes": 9436,
+          "retweets": 931,
           "replies": 637,
-          "quotes": 593,
-          "views": 6041296,
-          "bookmarks": 3634
+          "quotes": 592,
+          "views": 6047936,
+          "bookmarks": 3636
         },
         "createdAt": "Tue Jun 30 15:00:09 +0000 2026",
         "createdAtLocal": "2026-06-30 23:00",
@@ -275,12 +275,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1893,
+          "likes": 1895,
           "retweets": 240,
           "replies": 180,
           "quotes": 159,
-          "views": 1823737,
-          "bookmarks": 1213
+          "views": 1826402,
+          "bookmarks": 1216
         },
         "createdAt": "Tue Jun 23 17:01:29 +0000 2026",
         "createdAtLocal": "2026-06-24 01:01",
@@ -306,12 +306,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 23026,
+          "likes": 23030,
           "retweets": 1898,
-          "replies": 1326,
+          "replies": 1328,
           "quotes": 693,
-          "views": 7868777,
-          "bookmarks": 13929
+          "views": 7872174,
+          "bookmarks": 13930
         },
         "createdAt": "Tue Jun 23 22:26:31 +0000 2026",
         "createdAtLocal": "2026-06-24 06:26",
@@ -345,11 +345,11 @@
         },
         "metrics": {
           "likes": 260,
-          "retweets": 39,
+          "retweets": 40,
           "replies": 68,
           "quotes": 5,
-          "views": 84535,
-          "bookmarks": 52
+          "views": 85803,
+          "bookmarks": 54
         },
         "createdAt": "Thu Jul 09 17:31:17 +0000 2026",
         "createdAtLocal": "2026-07-10 01:31",
@@ -380,11 +380,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8369,
-          "retweets": 1605,
+          "likes": 8373,
+          "retweets": 1608,
           "replies": 384,
           "quotes": 174,
-          "views": 631865,
+          "views": 633009,
           "bookmarks": 10227
         },
         "createdAt": "Tue Jun 30 16:04:04 +0000 2026",
@@ -419,8 +419,8 @@
           "retweets": 287,
           "replies": 172,
           "quotes": 61,
-          "views": 160085,
-          "bookmarks": 400
+          "views": 160432,
+          "bookmarks": 399
         },
         "createdAt": "Fri Jun 19 18:34:23 +0000 2026",
         "createdAtLocal": "2026-06-20 02:34",
@@ -454,8 +454,8 @@
           "retweets": 52,
           "replies": 55,
           "quotes": 10,
-          "views": 80395,
-          "bookmarks": 207
+          "views": 80615,
+          "bookmarks": 208
         },
         "createdAt": "Thu Jun 18 17:00:03 +0000 2026",
         "createdAtLocal": "2026-06-19 01:00",
@@ -489,8 +489,8 @@
           "retweets": 147,
           "replies": 109,
           "quotes": 13,
-          "views": 122203,
-          "bookmarks": 844
+          "views": 122361,
+          "bookmarks": 845
         },
         "createdAt": "Thu Jun 04 16:44:13 +0000 2026",
         "createdAtLocal": "2026-06-05 00:44",
@@ -512,6 +512,41 @@
     ],
     "ylecun": [
       {
+        "id": "2075755107619344721",
+        "text": "The Well Just Dropped: 15 Terabytes of Pure Physics Gold Is Now Open Source\n\nThe scientific AI world just got a massive upgrade.Polymathic AI, in collaboration with the Flatiron Institute and researchers from Princeton, Cambridge, NYU, Berkeley, Los Alamos, and more, has released The Well: a staggering 15TB collection of high-fidelity physics simulations. \n\nThis isn’t toy data. \n\nThese are real, expensive-to-run simulations across 16 different physical domains, including turbulent fluid dynamics, supernova explosions, magneto-hydrodynamic cosmic flows, acoustic scattering, and active biological matter.\n\nUntil now, reproducing this level of data required weeks on national supercomputers and grant money most teams will never see. The Well changes everything. It’s purpose-built for training PDE surrogate models  the AI systems that can replace slow, costly physics solvers with a single fast neural network forward pass.\n\nEverything is fully open source, easy to load with PyTorch, and ready to drop straight into your training pipeline. Researchers and builders can now train on world-class physics data without the insane compute barriers that used to stand in the way.\n\nThis is more than just another dataset drop. It’s a serious accelerator for scientific machine learning.The future of physics-informed AI just got a whole lot more accessible.Get it here:\nhttps://t.co/mIW0xA6RAs",
+        "author": {
+          "id": "101584084",
+          "name": "Brian Roemmele",
+          "screenName": "BrianRoemmele",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1492616506/Brian-Med-Green-Fin_normal.png",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 1910,
+          "retweets": 325,
+          "replies": 55,
+          "quotes": 29,
+          "views": 115226,
+          "bookmarks": 1729
+        },
+        "createdAt": "Sat Jul 11 01:32:37 +0000 2026",
+        "createdAtLocal": "2026-07-11 09:32",
+        "createdAtISO": "2026-07-11T01:32:37+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HM6OTg2bkAA0orC.jpg",
+            "width": 1500,
+            "height": 1544
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
+      },
+      {
         "id": "2075192626408575317",
         "text": "I am coining a new word - Yanntificate. To espouse and communicate sensible AI policy.",
         "author": {
@@ -522,11 +557,11 @@
           "verified": false
         },
         "metrics": {
-          "likes": 45,
+          "likes": 60,
           "retweets": 3,
           "replies": 5,
           "quotes": 0,
-          "views": 23420,
+          "views": 33053,
           "bookmarks": 4
         },
         "createdAt": "Thu Jul 09 12:17:32 +0000 2026",
@@ -558,12 +593,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 101,
-          "retweets": 13,
-          "replies": 5,
-          "quotes": 2,
-          "views": 26417,
-          "bookmarks": 13
+          "likes": 129,
+          "retweets": 15,
+          "replies": 8,
+          "quotes": 3,
+          "views": 34034,
+          "bookmarks": 17
         },
         "createdAt": "Fri Jul 10 18:13:07 +0000 2026",
         "createdAtLocal": "2026-07-11 02:13",
@@ -594,12 +629,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 28,
-          "retweets": 2,
+          "likes": 33,
+          "retweets": 3,
           "replies": 3,
           "quotes": 0,
-          "views": 20922,
-          "bookmarks": 11
+          "views": 27815,
+          "bookmarks": 14
         },
         "createdAt": "Sat Jul 11 00:02:43 +0000 2026",
         "createdAtLocal": "2026-07-11 08:02",
@@ -630,12 +665,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 17936,
-          "retweets": 4423,
-          "replies": 1523,
-          "quotes": 350,
-          "views": 800397,
-          "bookmarks": 1141
+          "likes": 18281,
+          "retweets": 4544,
+          "replies": 1553,
+          "quotes": 361,
+          "views": 825797,
+          "bookmarks": 1150
         },
         "createdAt": "Sat Jul 11 06:36:08 +0000 2026",
         "createdAtLocal": "2026-07-11 14:36",
@@ -653,172 +688,36 @@
         "retweetedBy": "ylecun",
         "lang": "en",
         "score": null
-      },
-      {
-        "id": "2075744163933380741",
-        "text": "outstanding essay from Seb:\n\n\"A cadre of elites decides which research directions are permissible, caps global compute and robotics, and creates state-administered scarcity rents. I shouldn’t need to explain why this is bad and dangerous, anyone can study History and Economics in their free time.\n  [...] \nBuilding an entire apparatus tasked with maximally empowering the government and its grip on research, knowledge, and technology is dangerous.\"\n\nRead every word of it 👉",
-        "author": {
-          "id": "18000187",
-          "name": "Adam Thierer",
-          "screenName": "AdamThierer",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2044974555073269760/Rjzbwk9D_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 71,
-          "retweets": 21,
-          "replies": 4,
-          "quotes": 0,
-          "views": 23774,
-          "bookmarks": 38
-        },
-        "createdAt": "Sat Jul 11 00:49:08 +0000 2026",
-        "createdAtLocal": "2026-07-11 08:49",
-        "createdAtISO": "2026-07-11T00:49:08+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2075740272860811570",
-          "text": "https://t.co/7HHn2uJ61C",
-          "author": {
-            "screenName": "sebkrier",
-            "name": "Séb Krier"
-          }
-        }
       }
     ],
     "elonmusk": [
       {
-        "id": "2076005333416521787",
-        "text": "How many people have left America to escape Capitalism?\n\nVS\n\nHow many people have come to America while escaping socialism?",
+        "id": "2076352093703794999",
+        "text": "Elon Musk explains why the Sun is humanity's ultimate energy source:\n\n\"The vast majority of Earth's energy already comes from the Sun. Without it, Earth would be a frozen ice ball\n\nA roughly 100-mile by 100-mile area of solar panels....about a corner of Arizona, could generate enough electricity to power the entire United States\"\n\nThe challenge isn't whether enough solar energy exists\nIt's building the infrastructure to capture, store, and distribute it efficiently\nhttps://t.co/b0aeVZsNZ5",
         "author": {
-          "id": "1485689970593468416",
-          "name": "The Rabbit Hole",
-          "screenName": "TheRabbitHole",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1522017422550528001/6AceRKJQ_normal.png",
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screenName": "XFreeze",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1876785200010539008/2_HFJjq9_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 7220,
-          "retweets": 1059,
-          "replies": 477,
+          "likes": 2658,
+          "retweets": 544,
+          "replies": 446,
           "quotes": 41,
-          "views": 381405,
-          "bookmarks": 218
+          "views": 338898,
+          "bookmarks": 214
         },
-        "createdAt": "Sat Jul 11 18:06:56 +0000 2026",
-        "createdAtLocal": "2026-07-12 02:06",
-        "createdAtISO": "2026-07-11T18:06:56+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2076252465674977609",
-        "text": "Try Grok 4.5 and see for yourself",
-        "author": {
-          "id": "44196397",
-          "name": "Elon Musk",
-          "screenName": "elonmusk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 3915,
-          "retweets": 605,
-          "replies": 1315,
-          "quotes": 58,
-          "views": 1458716,
-          "bookmarks": 184
-        },
-        "createdAt": "Sun Jul 12 10:28:57 +0000 2026",
-        "createdAtLocal": "2026-07-12 18:28",
-        "createdAtISO": "2026-07-12T10:28:57+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2075959167689396374",
-          "text": "Ok Grok 4.5 is insane.\n\nPeople are already building things that shouldn't be possible this fast.\n\n10 wild examples:",
-          "author": {
-            "screenName": "minchoi",
-            "name": "Min Choi"
-          }
-        }
-      },
-      {
-        "id": "2076102645823971373",
-        "text": "Starship is evolving rapidly",
-        "author": {
-          "id": "44196397",
-          "name": "Elon Musk",
-          "screenName": "elonmusk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 12810,
-          "retweets": 1985,
-          "replies": 1521,
-          "quotes": 73,
-          "views": 2329189,
-          "bookmarks": 403
-        },
-        "createdAt": "Sun Jul 12 00:33:37 +0000 2026",
-        "createdAtLocal": "2026-07-12 08:33",
-        "createdAtISO": "2026-07-12T00:33:37+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2076079355890212972",
-          "text": "SpaceX just announced that they will be deploying V3 Starlink satellites for the first time during their 13th Starship test flight next week! Six of the satellites have been modified with a suite of cameras to scan Starship’s heat shield and transmit imagery.\n\nSummary of every major upgrade and modification @SpaceX says it's made for the upcoming test flight:\n• More robust stage separation flip sequence to prevent the booster from rotating off course.\n• Hardware upgrades to improve Super Heavy Raptor re-light reliability during the boostback burn.\n• Updated engine alarms and abort logic for multi-engine flight conditions.\n• Starship propulsion system hardware and operational changes to address the Flight 12 engine-out issue.\n• First deployment of 20 Starlink V3 satellites with laser links, deployable solar arrays, and antennas.\n• Six Starlink V3 satellites equipped with cameras to inspect Starship's heat shield after reentry.\n• White-painted heat shield tiles added as simulated missing tiles and imaging targets.\n• New heat shield tile designs and attachment mechanisms, including tests on the aft flaps and aft skirt.\n• Load-sensing heat shield tiles to measure stresses during flight.\n• Higher dynamic pressure ascent profile to stress-test the heat shield and increase payload capability.\n• Planned in-space Raptor engine relight test.\n\nSpaceX: \"For the first time, Starship will carry V3 Starlink satellites to space, which aim to greatly expand the network's capacity and user speeds. As part of this initial test, Starship is planned to deploy 20 satellites which will extend solar arrays and antennas and will attempt to connect with ground stations in South Africa and the larger Starlink constellation via high-capacity lasers. Six of the satellites have been modified with a suite of cameras to scan Starship’s heat shield and transmit imagery down to operators to continue testing methods of analyzing Starship’s heat shield readiness for return to launch site on future missions. Several tiles on Starship have been painted white to simulate missing tiles and serve as imaging targets in the test.\"",
-          "author": {
-            "screenName": "SawyerMerritt",
-            "name": "Sawyer Merritt"
-          }
-        }
-      },
-      {
-        "id": "2076036462290624972",
-        "text": "and yes, i would say that @elonmusk mission with @SpaceXAI is going well. the results definitively shows how Grok 4.5 training pushed even further to become as neutral as possible and it does feel good to know there is at least 1 model out there that is within that neutral zone. https://t.co/Q415wAgs3Q",
-        "author": {
-          "id": "345988272",
-          "name": "Samuel Cardillo",
-          "screenName": "CardilloSamuel",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2018029693279064064/fJrrI9T3_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 2404,
-          "retweets": 553,
-          "replies": 190,
-          "quotes": 20,
-          "views": 1399019,
-          "bookmarks": 140
-        },
-        "createdAt": "Sat Jul 11 20:10:38 +0000 2026",
-        "createdAtLocal": "2026-07-12 04:10",
-        "createdAtISO": "2026-07-11T20:10:38+00:00",
+        "createdAt": "Sun Jul 12 17:04:50 +0000 2026",
+        "createdAtLocal": "2026-07-13 01:04",
+        "createdAtISO": "2026-07-12T17:04:50+00:00",
         "media": [
           {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HM-P5L_WwAAZ7oY.jpg",
-            "width": 1684,
-            "height": 1657
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2037386795718152192/vid/avc1/1920x1080/LsOuT1Z8CLqyupCe.mp4?tag=21",
+            "width": 1920,
+            "height": 1080
           }
         ],
         "urls": [],
@@ -828,45 +727,145 @@
         "score": null
       },
       {
-        "id": "2076040435743506800",
-        "text": "Grok 4.5 by @SpaceXAI is the most neutral AI model out there. Almost perfectly balanced between the political Left and Right.\n\nNo other model comes even close to its neutrality. Fantastic achievement, and much harder to pull off than most would realize! https://t.co/FlG2DxcrrO",
+        "id": "2076434715951689733",
+        "text": "Grok Build improvements",
         "author": {
-          "id": "8721292",
-          "name": "Mark Kretschmann",
-          "screenName": "mark_k",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1923114794804039680/HMfSchLD_normal.jpg",
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screenName": "elonmusk",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 2476,
-          "retweets": 535,
-          "replies": 153,
+          "likes": 2272,
+          "retweets": 450,
+          "replies": 628,
           "quotes": 20,
-          "views": 816576,
-          "bookmarks": 156
+          "views": 1046646,
+          "bookmarks": 76
         },
-        "createdAt": "Sat Jul 11 20:26:25 +0000 2026",
-        "createdAtLocal": "2026-07-12 04:26",
-        "createdAtISO": "2026-07-11T20:26:25+00:00",
+        "createdAt": "Sun Jul 12 22:33:09 +0000 2026",
+        "createdAtLocal": "2026-07-13 06:33",
+        "createdAtISO": "2026-07-12T22:33:09+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2076414354451533933",
+          "text": "Grok Build just received another update, bringing smoother navigation and improved keyboard workflows across the Agent Dashboard\n\nRelease Notes: v0.2.99 — 2026-07-12\n\nFeatures:\n• Multiline input now works on the agent dashboard the same way it does in regular sessions.\n• PageUp and PageDown now scroll the conversation while the prompt is focused.\n• Keyboard Shortcuts modal now follows Vim mode navigation keys when enabled",
+          "author": {
+            "screenName": "XFreeze",
+            "name": "X Freeze"
+          }
+        }
+      },
+      {
+        "id": "2076434607562531049",
+        "text": "Grok 4.5 even ranks slightly above Fable, which is an incredibly good model, on some software benchmarks! https://t.co/6yXTTSZ8f3",
+        "author": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screenName": "elonmusk",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 4927,
+          "retweets": 627,
+          "replies": 831,
+          "quotes": 78,
+          "views": 999883,
+          "bookmarks": 234
+        },
+        "createdAt": "Sun Jul 12 22:32:43 +0000 2026",
+        "createdAtLocal": "2026-07-13 06:32",
+        "createdAtISO": "2026-07-12T22:32:43+00:00",
         "media": [
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HM-TasHXsAAbDXb.jpg",
-            "width": 1684,
-            "height": 1657
+            "url": "https://pbs.twimg.com/media/HND6RSvXMAAzr_-.jpg",
+            "width": 2048,
+            "height": 1370
           }
         ],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2076369936251851091",
+        "text": "The mega bull case for AI infrastructure would be *if* market share shifted away from certain frontier labs with 90%+ inference margins toward cheaper models, whether open-source or closed.\n\nIt would increase the ROI on AI spend for end customers by increasing intelligence per dollar, which would drive incremental token demand. Margin dollars would effectively get redistributed from the frontier labs to AI infrastructure providers. The infra winners would be those with the lowest per token cost and the winners at the model layer would be those with the highest token efficiency.\n\nThere are many reasons Jensen is so focused on open source, but this is likely the most important one as I think he is probably less worried about a monopsony these days. Lower margin % at the model layer = more margin $ at the infra layer all else equal.\n\nWith SpaceX and Meta being vertically integrated and possessing the #3 and #4 models respectively it is more possible than ever. Note that Grok 4.5 is ahead of Fable for some useful tasks at a much lower cost, so ranking them #3 is conservative.\n\nThis is not happening yet. Cheap, mostly open source tokens are likely the majority of volume today but the majority of economic value is still accruing to the most intelligent models. Might change though.\n\nWe will see.",
+        "author": {
+          "id": "340387261",
+          "name": "Gavin Baker",
+          "screenName": "GavinSBaker",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1396219525754937345/5L4n5L3O_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 2785,
+          "retweets": 375,
+          "replies": 247,
+          "quotes": 75,
+          "views": 963589,
+          "bookmarks": 1458
+        },
+        "createdAt": "Sun Jul 12 18:15:44 +0000 2026",
+        "createdAtLocal": "2026-07-13 02:15",
+        "createdAtISO": "2026-07-12T18:15:44+00:00",
+        "media": [],
         "urls": [],
         "isRetweet": true,
         "retweetedBy": "elonmusk",
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2076036462290624972",
-          "text": "and yes, i would say that @elonmusk mission with @SpaceXAI is going well. the results definitively shows how Grok 4.5 training pushed even further to become as neutral as possible and it does feel good to know there is at least 1 model out there that is within that neutral zone. https://t.co/Q415wAgs3Q",
+          "id": "2075834571581456649",
+          "text": "This is true as I have heard this from contacts in the Valley. Goes with my pinned post. \n\nThe AI race is shifting from bigger models to cheaper, smarter systems https://t.co/lS1YKxkjl0",
           "author": {
-            "screenName": "CardilloSamuel",
-            "name": "Samuel Cardillo"
+            "screenName": "michaeljburry",
+            "name": "Cassandra Unchained"
+          }
+        }
+      },
+      {
+        "id": "2076433121893814735",
+        "text": "Follow the Starship series @SpaceX",
+        "author": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screenName": "elonmusk",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 5921,
+          "retweets": 914,
+          "replies": 760,
+          "quotes": 42,
+          "views": 1064374,
+          "bookmarks": 252
+        },
+        "createdAt": "Sun Jul 12 22:26:49 +0000 2026",
+        "createdAtLocal": "2026-07-13 06:26",
+        "createdAtISO": "2026-07-12T22:26:49+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2075621981488033835",
+          "text": "The path to launch is filled with obstacles and success is only possible through the tireless efforts of many working together towards a common goal. “Critical Path” continues the ongoing Starship series, following SpaceX engineers through the final days before launch of the first Starship V3 and the challenges that come with development of the world’s most powerful and fully reusable rocket.",
+          "author": {
+            "screenName": "SpaceX",
+            "name": "SpaceX"
           }
         }
       }
@@ -887,7 +886,7 @@
           "retweets": 25,
           "replies": 40,
           "quotes": 8,
-          "views": 50900,
+          "views": 51282,
           "bookmarks": 116
         },
         "createdAt": "Wed Jul 01 15:12:14 +0000 2026",
@@ -923,8 +922,8 @@
           "retweets": 222,
           "replies": 72,
           "quotes": 30,
-          "views": 193465,
-          "bookmarks": 1162
+          "views": 194063,
+          "bookmarks": 1161
         },
         "createdAt": "Tue Jun 30 17:07:49 +0000 2026",
         "createdAtLocal": "2026-07-01 01:07",
@@ -958,7 +957,7 @@
           "retweets": 2,
           "replies": 5,
           "quotes": 1,
-          "views": 20520,
+          "views": 20651,
           "bookmarks": 41
         },
         "createdAt": "Tue Jun 30 17:07:50 +0000 2026",
@@ -993,11 +992,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 3847,
+          "likes": 3846,
           "retweets": 571,
           "replies": 187,
           "quotes": 152,
-          "views": 657384,
+          "views": 657766,
           "bookmarks": 2026
         },
         "createdAt": "Tue Jun 16 16:31:58 +0000 2026",
@@ -1032,7 +1031,7 @@
           "retweets": 19,
           "replies": 5,
           "quotes": 2,
-          "views": 47363,
+          "views": 47412,
           "bookmarks": 100
         },
         "createdAt": "Tue Jun 16 16:31:58 +0000 2026",

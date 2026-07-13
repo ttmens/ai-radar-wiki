@@ -1,0 +1,29 @@
+{
+  "title": "Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+  "score": 20,
+  "comments": 5,
+  "url": "https://www.adaptiverecall.com/",
+  "hn_url": "https://news.ycombinator.com/item?id=48884815",
+  "tag": "ShowHN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "assistant",
+    "memory",
+    "ai assistant"
+  ],
+  "summary_cn": "Adaptive Recall 通过 MCP (Model Context Protocol) 为 AI 助手提供持久记忆能力，使大模型能跨会话保留用户上下文与偏好，显著提升交互连贯性和个性化水平。该方案采用轻量级协议集成，降低开发门槛，适用于客服、个人助理等需要长期记忆的场景。产品经理应关注其对用户体验的改善及与现有 AI 工作流的兼容性。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI Memory",
+    "Persistent Context",
+    "MCP Integration"
+  ],
+  "entities": [
+    "Adaptive Recall",
+    "MCP"
+  ],
+  "patterns": [
+    "Memory Persistence Pattern",
+    "Protocol-Based Memory Integration"
+  ]
+}

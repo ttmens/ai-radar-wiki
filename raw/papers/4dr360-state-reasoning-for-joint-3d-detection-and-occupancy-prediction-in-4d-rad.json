@@ -1,0 +1,33 @@
+{
+  "title": "4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception",
+  "summary": "Reliable autonomous driving requires full-scene perception that couples foreground objects with dense semantic layout. Recently, 4D millimeter-wave radar has emerged as a robust and affordable sensor, yet its sparse returns make radar-camera fusion necessary for comprehensive scene understanding. Existing radar-camera methods mainly optimize detection, while dual-task systems usually decode boxes and occupancy with limited interaction. To address this gap and advance radar-based multi-task learning, we propose \\method, a 4D radar-camera framework for 360$^\\circ$ full-scene perception, which models semantic occupancy as a persistent scene state rather than a terminal output. \\method{} follows a cross-modal state reasoning paradigm, where the occupancy state is modeled and propagated through stages for coarse-to-fine feature aggregation. Specifically, State-guided BEV Enhancement (SBE) strengthens intra-frame BEV representation, while Doppler-guided Temporal Fusion (DTF) preserves state evidence over longer temporal horizons. Beyond the model, we further extend ManTruckScenes with satellite-map-based generated occupancy labels and pair it with OmniHD-Scenes in a unified cross-dataset detection-and-occupancy protocol. The resulting experiments cover accuracy, robustness, ablation, and efficiency under one radar-camera multi-task evaluation framework. Code and labels will be released upon acceptance.",
+  "url": "http://arxiv.org/abs/2607.09629v1",
+  "authors": [
+    "Xiaokai Bai",
+    "Lianqing Zheng",
+    "Runwei Guan",
+    "Songkai Wang",
+    "Siyuan Cao"
+  ],
+  "published": "2026-07-10T17:26:19Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "framework",
+    "evaluation",
+    "eval",
+    "protocol"
+  ],
+  "summary_cn": "该论文提出一种4D毫米波雷达与相机融合的联合3D检测与占用预测方法，通过状态推理实现全场景感知。4D雷达成本低、鲁棒性强，但稀疏数据需与视觉信息互补。技术核心在于同时识别前景物体与密集语义布局，提升自动驾驶环境理解精度。商业价值在于降低传感器成本，同时增强安全性，为L4级自动驾驶提供更可靠的感知方案。产品创新点包括端到端融合架构与状态推理机制。",
+  "pm_relevance": 7,
+  "concepts": [
+    "4D毫米波雷达",
+    "雷达-相机融合",
+    "全场景感知"
+  ],
+  "entities": [],
+  "patterns": [
+    "多模态融合",
+    "端到端感知"
+  ]
+}

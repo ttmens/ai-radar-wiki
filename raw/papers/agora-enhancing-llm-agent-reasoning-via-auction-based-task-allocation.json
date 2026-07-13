@@ -1,0 +1,34 @@
+{
+  "title": "Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation",
+  "summary": "Enhancing the reasoning capabilities of large language model (LLM) agents requires effective orchestration of diverse expert models and tools. However, existing frameworks typically call APIs based on coarse-grained matching between tasks and the functions of expert models or tools, while overlooking critical factors such as performance variability and cost efficiency among functionally similar alternatives. To address this, we propose Agora, a framework that introduces an incentive-compatible auction mechanism for dynamically allocating tasks to expert models and tools. By treating reasoning steps as tradeable items, Agora enables agents to bid based on their rectified competence-ensuring that critical logic is routed to the most capable solver rather than the most overconfident one. Evaluations across five benchmarks show that Agora improves over matched single-model, routing, and cascade baselines under comparable candidate pools, while exposing a controllable cost-quality trade-off through a single auction parameter.",
+  "url": "http://arxiv.org/abs/2607.09600v1",
+  "authors": [
+    "Kaiji Zhou",
+    "Ales Leonardis",
+    "Yue Feng"
+  ],
+  "published": "2026-07-10T16:54:52Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "framework",
+    "api",
+    "evaluation",
+    "eval",
+    "orchestration"
+  ],
+  "summary_cn": "Agora 提出一种基于拍卖机制的任务分配方法，用于提升大语言模型（LLM）多代理系统的推理能力。传统框架通常采用粗颗粒度的任务-模型匹配，忽略了细粒度需求与专家模型或工具能力的差异。Agora 受经济学拍卖理论启发，通过让多个专家模型对子任务进行竞价，实现最优分配，从而整体提升推理质量和效率。该方法为构建更灵活、高效的 LLM 多代理系统提供了新思路，有助于降低开发复杂度、提高任务执行的准确性和鲁棒性，特别适用于需要多步骤推理和工具调用的复杂场景，具备显著的商业应用潜力。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Multi-Agent Coordination",
+    "Auction-Based Task Allocation",
+    "LLM Agent Reasoning"
+  ],
+  "entities": [
+    "Agora"
+  ],
+  "patterns": [
+    "Auction-Based Task Allocation",
+    "Agent Orchestration"
+  ]
+}

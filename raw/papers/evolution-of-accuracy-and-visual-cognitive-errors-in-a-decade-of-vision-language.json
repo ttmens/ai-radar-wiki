@@ -1,0 +1,33 @@
+{
+  "title": "Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models",
+  "summary": "Vision language models (VLMs) have made remarkable progress in visual reasoning during the last decade. Most evaluations have used simple scenes (MS-COCO) that do not showcase complex human interactions or behaviors, only a handful of non-curated human descriptions as a benchmark, and have not focused on understanding the model's error types. Here, we introduce the Complex Social Behavior (CSB) dataset, containing 100 images depicting complex social interactions/behaviors. We analyze the progression of scene descriptions over a decade (2017-2025) of VLMs (four pre-Multimodal Large Language Models, MLLMs, and five MLLMs). We evaluate the accuracy of the models and 20 human descriptions relative to a gold standard on the CSB dataset and on a sample from MS-COCO. We analyzed five visual-cognitive error types: object detection, recognition, hallucination, scene understanding, and spatial dependence. The CSB dataset showed a more pronounced improvement than MS-COCO in scene description accuracy, with pre-MLLMs achieving much lower accuracy than the bottom-ranked human descriptions and MLLMs attaining accuracies similar to the top-ranked human descriptions. We show that MLLMs have eliminated the gap in scene description accuracy between simpler MS-COCO scenes and scenes depicting complex behaviors (CSB). MLLMs have almost eliminated all error types in our tested datasets, except for occasionally relying on different image regions for scene descriptions than humans do (spatial dependence error). We also show that detection, recognition, and hallucination errors have the highest impact on scene description accuracy. Together, our findings provide a more thorough evaluation of how visual language models have advanced over the last decade.",
+  "url": "http://arxiv.org/abs/2607.09654v1",
+  "authors": [
+    "Shravan Murlidaran",
+    "Miguel P. Eckstein"
+  ],
+  "published": "2026-07-10T17:53:37Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "multimodal",
+    "vision",
+    "reasoning",
+    "accuracy",
+    "dataset"
+  ],
+  "summary_cn": "该论文分析了十年间视觉语言模型（VLM）在视觉推理准确性和认知错误方面的演变。研究发现，大多数评估仍依赖简单场景（如MS-COCO），未能涵盖复杂的人类互动或行为，且基准测试仅使用少量非人工策划的描述。这揭示了当前VLM在现实复杂场景中可能存在的认知盲区，对AI产品经理而言，意味着需警惕模型在真实应用（如人机交互、自动驾驶）中的可靠性问题，并推动更贴近人类行为的评估基准开发，以提升产品落地效果。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Visual Reasoning",
+    "Benchmark Limitations",
+    "Cognitive Errors"
+  ],
+  "entities": [
+    "MS-COCO"
+  ],
+  "patterns": [
+    "Vision-Language AI Evaluation"
+  ]
+}

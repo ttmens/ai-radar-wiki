@@ -1,0 +1,34 @@
+{
+  "title": "Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reasoning for QANTA 2026",
+  "summary": "We present our submission to the QANTA 2026 shared challenge at the ICML 2026 Workshop on Efficient Multimodal Question Answering (EMM-QA). Quanta evaluates multimodal quizbowl systems that answer pyramid-style questions from incrementally revealed text and accompanying images while operating under realistic efficiency constraints. The challenge consists of two distinct tasks: Tossup questions, which require deciding when to answer under uncertainty, and Bonus questions, which emphasize accurate answer selection and human adoption. To address these differing objectives, we develop a task-specific two-agent architecture. Our Tossup agent utilizes a GPT-4o-mini-class model (referred to as GPT-4.1-mini in the competition logs) with confidence-calibrated answering and a domain-specific numeric reasoning policy that reduces overconfident predictions from isolated quantitative clues. Our Bonus agent uses GPT-4o-class model (referred to as GPT-4.1) with leadin-aware reasoning, structured relational reasoning, and multimodal evidence integration to improve exact answer selection. Rather than relying on a retrieval pipeline or model ensembles, our approach emphasizes efficient reasoning policies and confidence calibration within a hosted-only environment. Our system achieved the highest overall leaderboard score of 0.402, including a Tossup score of 0.238 and a Bonus Effect score of 0.164. The results demonstrate that lightweight, task-specific reasoning strategies can provide strong performance on resource-constrained multimodal question answering benchmarks.",
+  "url": "http://arxiv.org/abs/2607.09623v1",
+  "authors": [
+    "Nirjhar Das",
+    "Md. Al-Mamun Provath"
+  ],
+  "published": "2026-07-10T17:22:49Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "multimodal",
+    "reasoning",
+    "retrieval"
+  ],
+  "summary_cn": "本文提出一种针对QANTA 2026多模态问答竞赛的方法，通过置信度校准和增量推理提升系统在逐步揭示文本和图像下的金字塔式问答能力。技术要点包括：利用不确定性估计动态决定是否等待更多信息，结合视觉与语言模态进行渐进式推理。商业价值在于降低多模态系统的计算成本并提高实时问答的可靠性，适用于智能助手、教育题库、文档理解等场景。产品创新在于将增量推理与置信度校准结合，使AI能主动控制信息获取节奏，提升用户体验和效率。",
+  "pm_relevance": 7,
+  "concepts": [
+    "多模态问答",
+    "置信度校准",
+    "增量推理"
+  ],
+  "entities": [
+    "QANTA",
+    "ICML",
+    "EMM-QA"
+  ],
+  "patterns": [
+    "增量推理模式",
+    "置信度校准模式"
+  ]
+}

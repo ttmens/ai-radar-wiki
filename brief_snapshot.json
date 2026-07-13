@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
-  "generated_at": "2026-07-13T06:01:53.301022+08:00",
-  "item_count": 9,
+  "generated_at": "2026-07-13T12:02:35.813861+08:00",
+  "item_count": 21,
   "items": [
     {
       "id": "i-love-llms-i-hate-hype",
@@ -23,6 +23,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48883275",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "ask-hn-add-flag-for-ai-generated-articles",
+      "label": "Ask HN: Add flag for AI-generated articles",
+      "summary": "HN社区用户提议为AI生成的文章添加显式标识，以解决内容来源透明度问题。该需求反映了用户对AI辅助内容区分性的关注，背后隐含对内容可信度、平台责任及监管合规的深层需求。对于AI产品经理而言，这提示在产品中需内置类似“AI生成内容标记”功能，既可作为差异化信任机制，也可能成为应对未来法规的必备能力。技术实现上可结合元数据、水印及后端检测算法，商业价值在于提升用户长期留存与品牌公信力。",
+      "pm_score": 0.55,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48886741",
       "date": "2026-07-13"
     },
     {
@@ -59,6 +70,61 @@
       "date": "2026-07-13"
     },
     {
+      "id": "scalable-visual-pretraining-for-language-intelligence",
+      "label": "Scalable Visual Pretraining for Language Intelligence",
+      "summary": "该论文提出可扩展的视觉预训练方法，以增强语言智能。传统大模型主要依赖文本语料，但大量知识以视觉形式（如图表、公式、页面布局）存在，无法被文本完整捕获。通过引入视觉预训练，模型能更好地理解多模态信息，提升在文档理解、科学文献分析等场景的表现。商业上，可应用于智能文档处理、教育辅助、科研自动化等领域，降低知识获取门槛。产品创新点在于将视觉信号与语言模型深度融合，实现更全面的知识表征。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.09657v1",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "llm-for-eda-in-front-end-design-challenges-and-opportunities",
+      "label": "LLM for EDA in Front-End Design: Challenges and Opportunities",
+      "summary": "该论文探讨了大语言模型在芯片前端设计中的电子设计自动化应用，指出随着芯片复杂度增加和上市时间压力，前端设计成为开发瓶颈。LLM不仅能理解规格，还能辅助完成设计任务，有望缩短开发周期、降低人力成本。这为AI产品经理提供了将语言模型能力垂直应用于半导体行业的机会，尤其在需求理解、设计生成和验证等环节实现效率提升。",
+      "pm_score": 0.43,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.09616v1",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "vexaiot-autonomous-iot-vulnerability-exploitation-using-ai-agents",
+      "label": "VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents",
+      "summary": "该论文提出VEXAIoT框架，利用大语言模型（LLM）代理自主发现和利用物联网（IoT）系统的安全漏洞。技术要点在于通过AI Agent模拟攻击者行为，对受限硬件、过时固件和不安全默认配置进行可扩展的自动化安全测试。商业价值体现在降低人工渗透测试成本、提高漏洞发现效率，尤其适用于大规模IoT设备的安全评估。产品创新是将LLM的推理与决策能力与IoT安全测试结合，实现端到端的自主漏洞利用流程。",
+      "pm_score": 0.43,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.09653v1",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai",
+      "label": "ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI",
+      "summary": "ConceptSMILE 是一个模型无关的、基于扰动的审计框架，用于评估基于概念的可解释 AI 的可靠性。它通过向模型输入添加扰动，检验概念层输出的一致性与稳定性，从而判断模型推理的可信度。对产品经理而言，该技术可在高风险场景（如医疗诊断、金融风控）中增强模型透明度，辅助合规审计，降低因不可靠解释导致的信任风险。商业价值在于提供标准化的可信度验证工具，推动可解释 AI 在产品中的安全落地。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.09649v1",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "agora-enhancing-llm-agent-reasoning-via-auction-based-task-allocation",
+      "label": "Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation",
+      "summary": "Agora 提出一种基于拍卖机制的任务分配方法，用于提升大语言模型（LLM）多代理系统的推理能力。传统框架通常采用粗颗粒度的任务-模型匹配，忽略了细粒度需求与专家模型或工具能力的差异。Agora 受经济学拍卖理论启发，通过让多个专家模型对子任务进行竞价，实现最优分配，从而整体提升推理质量和效率。该方法为构建更灵活、高效的 LLM 多代理系统提供了新思路，有助于降低开发复杂度、提高任务执行的准确性和鲁棒性，特别适用于需要多步骤推理和工具调用的复杂场景，具备显著的商业应用潜力。",
+      "pm_score": 0.43,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.09600v1",
+      "date": "2026-07-13"
+    },
+    {
       "id": "migrating-a-production-ai-agent-to-gpt-56-22x-faster-27-cheaper",
       "label": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
       "summary": "本文介绍了一个生产级AI agent从旧模型迁移到GPT-5.6的实际案例，主要成果包括推理速度提升2.2倍、成本降低27%。这为AI产品经理提供了模型升级的量化参考：性能优化与成本节约可以兼得。技术要点在于迁移过程中需评估兼容性、调整提示词策略并优化调用逻辑。商业价值显著，尤其适合高并发、成本敏感的应用场景。产品创新体现在利用新模型的架构优势实现更高效的响应，为用户体验和运营效率带来直接提升。",
@@ -67,6 +133,50 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48882716",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "4dr360-state-reasoning-for-joint-3d-detection-and-occupancy-prediction-in-4d-rad",
+      "label": "4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Ra",
+      "summary": "该论文提出一种4D毫米波雷达与相机融合的联合3D检测与占用预测方法，通过状态推理实现全场景感知。4D雷达成本低、鲁棒性强，但稀疏数据需与视觉信息互补。技术核心在于同时识别前景物体与密集语义布局，提升自动驾驶环境理解精度。商业价值在于降低传感器成本，同时增强安全性，为L4级自动驾驶提供更可靠的感知方案。产品创新点包括端到端融合架构与状态推理机制。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.09629v1",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "evolution-of-accuracy-and-visual-cognitive-errors-in-a-decade-of-vision-language",
+      "label": "Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language",
+      "summary": "该论文分析了十年间视觉语言模型（VLM）在视觉推理准确性和认知错误方面的演变。研究发现，大多数评估仍依赖简单场景（如MS-COCO），未能涵盖复杂的人类互动或行为，且基准测试仅使用少量非人工策划的描述。这揭示了当前VLM在现实复杂场景中可能存在的认知盲区，对AI产品经理而言，意味着需警惕模型在真实应用（如人机交互、自动驾驶）中的可靠性问题，并推动更贴近人类行为的评估基准开发，以提升产品落地效果。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.09654v1",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "deep-gaussian-processes-on-directed-acyclic-graphs",
+      "label": "Deep Gaussian Processes on Directed Acyclic Graphs",
+      "summary": "本文提出深度高斯过程在有向无环图（DAG）上的扩展，用于建模由多个函数组合构成的真实世界过程，例如因果机制、多保真度工程仿真和基因调控网络。该技术通过结构化概率建模增强了复杂系统的可解释性和预测能力，可应用于药物发现、材料设计和工业仿真优化。产品经理可关注其在非线性因果关系推断、多源数据融合和不确定性量化方面的优势，为AI驱动的科学计算和决策系统提供新思路。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.09645v1",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "task-specific-multimodal-question-answering-agents-via-confidence-calibration-an",
+      "label": "Task-Specific Multimodal Question Answering Agents via Confidence Calibration an",
+      "summary": "本文提出一种针对QANTA 2026多模态问答竞赛的方法，通过置信度校准和增量推理提升系统在逐步揭示文本和图像下的金字塔式问答能力。技术要点包括：利用不确定性估计动态决定是否等待更多信息，结合视觉与语言模态进行渐进式推理。商业价值在于降低多模态系统的计算成本并提高实时问答的可靠性，适用于智能助手、教育题库、文档理解等场景。产品创新在于将增量推理与置信度校准结合，使AI能主动控制信息获取节奏，提升用户体验和效率。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.09623v1",
       "date": "2026-07-13"
     },
     {
@@ -101,10 +211,32 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48883415",
       "date": "2026-07-13"
+    },
+    {
+      "id": "show-hn-adaptive-recall-persistent-memory-for-ai-assistants-over-mcp",
+      "label": "Show HN: Adaptive Recall, persistent memory for AI assistants over MCP",
+      "summary": "Adaptive Recall 通过 MCP (Model Context Protocol) 为 AI 助手提供持久记忆能力，使大模型能跨会话保留用户上下文与偏好，显著提升交互连贯性和个性化水平。该方案采用轻量级协议集成，降低开发门槛，适用于客服、个人助理等需要长期记忆的场景。产品经理应关注其对用户体验的改善及与现有 AI 工作流的兼容性。",
+      "pm_score": 0.33,
+      "pillar": "patterns",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://www.adaptiverecall.com/",
+      "date": "2026-07-13"
+    },
+    {
+      "id": "flash-msa-accelerating-million-token-training-with-sparse-attention-kernels",
+      "label": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
+      "summary": "Flash-MSA 是一种新型稀疏注意力核，旨在加速百万级 token 的长序列训练。通过将注意力计算稀疏化，显著降低计算复杂度和内存占用，使得大模型能够高效处理超长上下文窗口。该技术对需要长文档理解、记忆增强或实时交互的 AI 产品具有重要价值，可大幅降低训练成本并提升推理效率。产品经理可关注其在云端大模型或端侧部署中的潜力，优化用户体验与资源消耗。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48884618",
+      "date": "2026-07-13"
     }
   ],
   "graph_totals": {
-    "real_nodes": 3770,
-    "edges": 4080
+    "real_nodes": 3806,
+    "edges": 4116
   }
 }

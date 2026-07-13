@@ -2732,3 +2732,21 @@
 - create: i-love-llms-i-hate-hype.md
 - create: i-learned-to-read-again.md
 - create: against-usefulness.md
+
+## [2026-07-13 12:02] sync v3 | 16 new | pillars: {'capabilities': 9, 'patterns': 3, 'ecosystem': 4}
+- create: phinn-eeg-topological-time-series-analysis-of-dream-state-eeg-dynamic-betti-curv.md
+- create: scalable-visual-pretraining-for-language-intelligence.md
+- create: evolution-of-accuracy-and-visual-cognitive-errors-in-a-decade-of-vision-language.md
+- create: vexaiot-autonomous-iot-vulnerability-exploitation-using-ai-agents.md
+- create: conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai.md
+- create: deep-gaussian-processes-on-directed-acyclic-graphs.md
+- create: semantic-pareto-dqn-a-multi-objective-reinforcement-learning-framework-for-finan.md
+- create: lean-qit-towards-a-formal-infrastructure-for-quantum-information-theory.md
+- create: 4dr360-state-reasoning-for-joint-3d-detection-and-occupancy-prediction-in-4d-rad.md
+- create: task-specific-multimodal-question-answering-agents-via-confidence-calibration-an.md
+- create: llm-for-eda-in-front-end-design-challenges-and-opportunities.md
+- create: agora-enhancing-llm-agent-reasoning-via-auction-based-task-allocation.md
+- create: ask-hn-add-flag-for-ai-generated-articles.md
+- create: flash-msa-accelerating-million-token-training-with-sparse-attention-kernels.md
+- create: show-hn-codebase-posters-turn-any-git-repo-into-generative-poster-art.md
+- create: show-hn-adaptive-recall-persistent-memory-for-ai-assistants-over-mcp.md

@@ -1,0 +1,29 @@
+{
+  "title": "Deep Gaussian Processes on Directed Acyclic Graphs",
+  "summary": "Many real-world processes can be represented as compositions of functions along a directed acyclic graph (DAG). In causal modelling, these correspond to the underlying mechanisms; in engineering, to multiple fidelity levels; and in gene-regulatory networks, to transcription factors. These functions are partially observed across the DAG, with noisy and heterogeneously sampled measurements, posing significant challenges for reconstruction, uncertainty propagation, and inference. To tackle these challenges, we place priors over functions and naturally arrive at Deep Gaussian Processes over DAGs. We theoretically study their prior-collapse behaviour, and the effect of graph topology and intermediate observations on the preservation of information. We obtain almost-sure lower bounds on the asymptotic frequency of depths at which the distinction between inputs is preserved, identify broad kernel classes for which these hold, and prove an observation by \\cite{dunlop2018} on the role of input connections. We offer a structured variational approximation that retains graph dependencies, preserves compositional uncertainty, and captures the explaining-away behaviour of colliders. Finally, we empirically validate our theoretical results and our methodology, and model a latent-collider DAG, a protein signalling network, and a multi-fidelity heavy-ion collision emulation task, attaining state-of-the-art performance while recovering low-fidelity contributions and yielding interpretability of the simulator hierarchy.",
+  "url": "http://arxiv.org/abs/2607.09645v1",
+  "authors": [
+    "Federico L. Perlino",
+    "Oliver Hamelijnck",
+    "Adam M. Johansen",
+    "Theodoros Damoulas"
+  ],
+  "published": "2026-07-10T17:41:11Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference"
+  ],
+  "summary_cn": "本文提出深度高斯过程在有向无环图（DAG）上的扩展，用于建模由多个函数组合构成的真实世界过程，例如因果机制、多保真度工程仿真和基因调控网络。该技术通过结构化概率建模增强了复杂系统的可解释性和预测能力，可应用于药物发现、材料设计和工业仿真优化。产品经理可关注其在非线性因果关系推断、多源数据融合和不确定性量化方面的优势，为AI驱动的科学计算和决策系统提供新思路。",
+  "pm_relevance": 7,
+  "concepts": [
+    "深度高斯过程",
+    "有向无环图",
+    "因果建模"
+  ],
+  "entities": [],
+  "patterns": [
+    "因果AI",
+    "多保真度模型"
+  ]
+}

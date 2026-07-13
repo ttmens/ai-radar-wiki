@@ -2,52 +2,59 @@
   "daily_summary": {
     "date": "2026-07-13",
     "headline": "今日 AI 情报 · 2026-07-13",
-    "overview": "AI能力评估进入理性务实期，产品优化从单点转向系统思维",
+    "overview": "AI代理从原型验证步入生产部署与系统优化，行业同时反思炒作并警惕能力幻觉。",
     "narratives": [
       {
-        "title": "AI能力评估从炒作转向理性与系统思维",
-        "body": "今日情报集中反映AI行业正经历从“能力崇拜”到“理性评估”的关键转变。多篇文章从不同角度批评了当前对LLM能力的过度炒作，强调产品经理需关注实际边界（上下文长度、推理准确性）、系统级陷阱（单点优化忽略全局）以及非实用性价值。这一趋势将推动产品设计更注重可靠性、可解释性和长期价值，而非短期技术指标。后续可能看到更多面向特定场景的务实创新以及侧重用户体验与伦理平衡的产品策略。",
-        "type": "paradigm_shift",
-        "pillar_key": "capabilities"
-      },
-      {
-        "title": "AI编码代理从实验走向生产级优化",
-        "body": "编码代理领域出现明确的分化和成熟信号：一方面陶哲轩等顶级研究者开始用AI代理重构新旧应用，另一方面生产级迁移案例展示了速度和成本的双重提升（2.2倍快、27%便宜）。这表明编码代理已从概念验证进入可量化效率提升阶段，产品经理可开始规划基于代理的自动化开发流程，同时需关注不同实现策略（如token预加载量）对成本和延迟的影响。",
+        "title": "AI代理从原型验证步入生产部署与系统优化，行业同时反思炒作并警惕能力幻觉",
+        "body": "多篇情报显示，AI代理（如Coding Agents、安全测试代理）正在从实验走向真实生产环境，带来显著的效率提升和成本下降。然而，也有声音指出过度炒作导致能力预期过高，实际部署需要权衡上下文长度、推理准确性、速度与成本。这要求产品经理以务实态度设计代理系统，关注系统整体效率而非单一性能指标。",
         "type": "maturation",
         "pillar_key": "patterns"
       }
     ],
     "insights": [
       {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI代理从原型验证步入生产部署与系统优化，行业同时反思炒作并警惕能力幻觉",
+        "insight": "AI代理从原型验证步入生产部署与系统优化，行业同时反思炒作并警惕能力幻觉。该方向的具体信号：多个生产案例展示AI代理在代码生成、安全测试、自动驾驶等场景的实际落地，同时模型迁移（如GPT-5.6）带来2.2倍速度提升和27%成本下降，表明效率优化已成为关注焦点。",
+        "evidence": [
+          {
+            "id": "vexaiot-autonomous-iot-vulnerability-exploitation-using-ai-agents",
+            "title": "AI代理自主发现IoT漏洞，降低安全测试成本",
+            "score": 0.43
+          }
+        ]
+      },
+      {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "narrative_title": "AI能力评估从炒作转向理性与系统思维",
-        "insight": "AI能力评估从炒作转向理性与系统思维。该方向的具体信号：行业对LLM能力的真实边界展开广泛反思——有作者明确反对过度炒作，强调上下文字节、推理准确性和成本限制；研究揭示模型推理可解释性的黑箱问题，以及在科研场景中AI可能导致创新扁平化；另有观点批评“实用性至上”的单一导向，主张兼顾情感、美学等维度；同时“一步陷阱”文章警示产品经理不要仅优化模型单点而要注重全局流程。这些信号共同指向产品决策需从“追逐能力峰值”转向“系统化务实评估”。",
+        "narrative_title": "AI代理从原型验证步入生产部署与系统优化，行业同时反思炒作并警惕能力幻觉",
+        "insight": "AI代理从原型验证步入生产部署与系统优化，行业同时反思炒作并警惕能力幻觉。该方向的具体信号：多篇文章指出LLM能力被过度夸大（I love LLMs I hate hype），实际部署需关注上下文长度、成本、推理不确定性等限制；同时有研究揭示模型推理的可解释性不足（Can we understand how LLMs reason）和视觉认知错误（Evolution of Accuracy），提示产品经理需为高风险场景建立信任机制。",
         "evidence": [
           {
             "id": "i-love-llms-i-hate-hype",
-            "title": "I love LLMs, I hate hype",
+            "title": "理性评估LLM真实能力边界",
             "score": 0.64
           }
         ]
       },
       {
-        "pillar": "📱 产品模式",
-        "pillar_key": "patterns",
-        "narrative_title": "AI编码代理从实验走向生产级优化",
-        "insight": "AI编码代理从实验走向生产级优化。该方向的具体信号：陶哲轩等研究者展示AI编码代理能够理解自然语言需求并自动生成代码，极大降低开发门槛；同时有生产案例显示将AI代理从旧模型迁移至GPT-5.6后，推理速度提升2.2倍且成本降低27%，表明该模式已具备量化的商业可行性。这提示产品经理应关注代理内token预加载策略（如Claude Code与OpenCode的差异对延迟和成本的影响），并着手制定从原型到生产环境的迁移路径。",
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "AI代理从原型验证步入生产部署与系统优化，行业同时反思炒作并警惕能力幻觉",
+        "insight": "AI代理从原型验证步入生产部署与系统优化，行业同时反思炒作并警惕能力幻觉。该方向的具体信号：新的工具框架出现以优化多代理系统，如Agora基于拍卖机制的任务分配，以及MCP协议下的持久记忆实现，表明生态正在完善以支持代理的生产化部署。",
         "evidence": [
           {
-            "id": "old-and-new-apps-via-modern-coding-agents-by-terry-tao",
-            "title": "Old and new apps, via modern coding agents by Terry Tao",
-            "score": 0.55
+            "id": "agora-enhancing-llm-agent-reasoning-via-auction-based-task-allocation",
+            "title": "Agora拍卖机制优化多代理推理分配",
+            "score": 0.43
           }
         ]
       }
     ],
-    "stats": "技术能力: 6 | 产品模式: 2 | 工具生态: 0 | 商业趋势: 0",
-    "total_items": 10,
-    "high_value_count": 9,
+    "stats": "技术能力: 14 | 产品模式: 5 | 工具生态: 1 | 商业趋势: 0",
+    "total_items": 20,
+    "high_value_count": 20,
     "all_today_ids": [
       {
         "id": "i-love-llms-i-hate-hype",
@@ -56,6 +63,10 @@
       {
         "id": "claude-code-sends-33k-tokens-before-reading-the-prompt-opencode-sends-7k",
         "label": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k"
+      },
+      {
+        "id": "ask-hn-add-flag-for-ai-generated-articles",
+        "label": "Ask HN: Add flag for AI-generated articles"
       },
       {
         "id": "old-and-new-apps-via-modern-coding-agents-by-terry-tao",
@@ -70,8 +81,44 @@
         "label": "AI Boosts Research Careers but Flattens Scientific Discovery"
       },
       {
+        "id": "scalable-visual-pretraining-for-language-intelligence",
+        "label": "Scalable Visual Pretraining for Language Intelligence"
+      },
+      {
+        "id": "llm-for-eda-in-front-end-design-challenges-and-opportunities",
+        "label": "LLM for EDA in Front-End Design: Challenges and Opportunities"
+      },
+      {
+        "id": "vexaiot-autonomous-iot-vulnerability-exploitation-using-ai-agents",
+        "label": "VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents"
+      },
+      {
+        "id": "conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai",
+        "label": "ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI"
+      },
+      {
+        "id": "agora-enhancing-llm-agent-reasoning-via-auction-based-task-allocation",
+        "label": "Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation"
+      },
+      {
         "id": "migrating-a-production-ai-agent-to-gpt-56-22x-faster-27-cheaper",
         "label": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper"
+      },
+      {
+        "id": "4dr360-state-reasoning-for-joint-3d-detection-and-occupancy-prediction-in-4d-rad",
+        "label": "4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Ra"
+      },
+      {
+        "id": "evolution-of-accuracy-and-visual-cognitive-errors-in-a-decade-of-vision-language",
+        "label": "Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language"
+      },
+      {
+        "id": "deep-gaussian-processes-on-directed-acyclic-graphs",
+        "label": "Deep Gaussian Processes on Directed Acyclic Graphs"
+      },
+      {
+        "id": "task-specific-multimodal-question-answering-agents-via-confidence-calibration-an",
+        "label": "Task-Specific Multimodal Question Answering Agents via Confidence Calibration an"
       },
       {
         "id": "i-learned-to-read-again",
@@ -86,11 +133,35 @@
         "label": "The One-Step Trap (In AI Research)"
       },
       {
+        "id": "show-hn-adaptive-recall-persistent-memory-for-ai-assistants-over-mcp",
+        "label": "Show HN: Adaptive Recall, persistent memory for AI assistants over MCP"
+      },
+      {
+        "id": "flash-msa-accelerating-million-token-training-with-sparse-attention-kernels",
+        "label": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels"
+      },
+      {
+        "id": "show-hn-codebase-posters-turn-any-git-repo-into-generative-poster-art",
+        "label": "Show HN: Codebase Posters – turn any Git repo into generative poster art"
+      },
+      {
         "id": "mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east",
         "label": "Mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?"
+      },
+      {
+        "id": "semantic-pareto-dqn-a-multi-objective-reinforcement-learning-framework-for-finan",
+        "label": "Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Fina"
+      },
+      {
+        "id": "phinn-eeg-topological-time-series-analysis-of-dream-state-eeg-dynamic-betti-curv",
+        "label": "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti"
+      },
+      {
+        "id": "lean-qit-towards-a-formal-infrastructure-for-quantum-information-theory",
+        "label": "Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory"
       }
     ],
     "date_bj": "2026-07-13 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-07-13 06:01:31"
+    "generated_at_bj": "2026-07-13 12:02:05"
   }
 }
