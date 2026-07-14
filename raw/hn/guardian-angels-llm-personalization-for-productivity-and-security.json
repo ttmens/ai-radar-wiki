@@ -1,0 +1,22 @@
+{
+  "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+  "score": 33,
+  "comments": 3,
+  "url": "https://gwern.net/guardian-angel",
+  "hn_url": "https://news.ycombinator.com/item?id=48906041",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "本文介绍“守护天使”概念，通过LLM个性化技术提升用户生产力同时保障安全。核心思路是让AI助手长期记忆用户偏好与行为模式，在本地或安全环境中运行，避免隐私泄露。产品经理可关注其对用户粘性和信任度的提升，以及如何平衡个性化与数据安全。技术要点包括记忆持久化、隐私计算和上下文感知，商业价值在于打造高忠诚度的个性化AI助手，创新点在于将安全作为核心功能而非附加模块。",
+  "pm_relevance": 8,
+  "concepts": [
+    "LLM Personalization",
+    "AI Memory",
+    "Data Privacy"
+  ],
+  "entities": [],
+  "patterns": [
+    "Personal AI Assistant",
+    "Local-First AI"
+  ]
+}

@@ -2825,3 +2825,19 @@
 - create: spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant.md
 - create: superhuman8217s-new-auto-draft-feature-almost-makes-me-like-ai-replies.md
 - create: show-hn-oodleai-10-per-million-agent-traces.md
+
+## [2026-07-15 06:01] sync v3 | 14 new | pillars: {'capabilities': 10, 'patterns': 4}
+- create: bonsai-27b-a-27b-class-model-that-runs-on-a-phone.md
+- create: the-largest-available-minecraft-world-totalling-15-tb.md
+- create: guardian-angels-llm-personalization-for-productivity-and-security.md
+- create: the-zero-cost-fallacy-open-source-software-in-the-agentic-era.md
+- create: launch-hn-agnost-ai-yc-s26-extract-user-feedback-from-agent-conversations.md
+- create: the-agentic-loop-three-loops-in-a-trench-coat.md
+- create: openai8217s-new-flagship-model-deletes-files-on-its-own-people-keep-warning.md
+- create: apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta.md
+- create: anthropic8217s-newest-ad-is-creeping-people-out.md
+- create: the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone.md
+- create: google-faces-another-ai-training-lawsuit-from-major-publishers.md
+- create: deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai.md
+- create: metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer.md
+- create: google-images-gets-a-pinterest-like-redesign-focused-on-discovery.md
