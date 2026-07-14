@@ -1,0 +1,26 @@
+{
+  "title": "Show HN: MemStitch – Zero-copy context bridging for vLLM (25x TTFT speedup)",
+  "score": 11,
+  "comments": 1,
+  "url": "https://github.com/DaqulaLin/MemStitch",
+  "hn_url": "https://news.ycombinator.com/item?id=48901051",
+  "tag": "ShowHN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vllm"
+  ],
+  "summary_cn": "MemStitch 提出零拷贝上下文桥接技术，针对 vLLM 推理引擎实现 25 倍 TTFT（首 token 延迟）加速。通过避免数据重复拷贝与优化跨上下文切换，显著提升长序列处理效率，降低显存占用。对 AI 产品经理而言，该技术直接提升对话、文档分析等长上下文场景的响应速度与成本效益，有望降低大规模部署的推理开销，为实时交互式 AI 产品提供更强性能底座。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Context Bridging",
+    "Zero-copy",
+    "Inference Optimization"
+  ],
+  "entities": [
+    "vLLM"
+  ],
+  "patterns": [
+    "Zero-copy Pattern",
+    "Inference Acceleration"
+  ]
+}

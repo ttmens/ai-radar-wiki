@@ -2801,3 +2801,9 @@
 - create: video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b.md
 - create: hermes-agent-maker-nous-research-in-talks-for-new-funding-at-15b-valuation.md
 - create: show-hn-sx-20-share-ai-skills-with-your-team-through-a-dropbox-folder.md
+
+## [2026-07-14 18:01] sync v3 | 4 new | pillars: {'capabilities': 4}
+- create: australian-energy-retailers-must-provide-three-hours-of-free-daytime-electricity.md
+- create: indian-scientists-produce-most-detailed-3d-atlas-of-the-human-brainstem.md
+- create: building-food-metadata-with-llm-juries.md
+- create: show-hn-memstitch-zero-copy-context-bridging-for-vllm-25x-ttft-speedup.md

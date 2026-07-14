@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-14 | Total pages: 2531
+> Last updated: 2026-07-14 | Total pages: 2535
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -143,6 +143,7 @@
 - [[boffin-claims-microsofts-quantum-leap-is-invalid-due-to-basic-python-errors.md]] Boffin claims Microsoft’s “quantum leap” is invalid due to “basic Python errors” `pillar:capabilities` `score:0.53`
 - [[bootimus-a-self-contained-pxe-and-http-boot-server.md]] Bootimus – A Self-Contained PXE and HTTP Boot Server `pillar:capabilities` `score:0.24`
 - [[building-a-real-time-ai-tutor-for-5-year-olds.md]] Building a real-time AI tutor for 5-year-olds `pillar:capabilities` `score:0.48`
+- [[building-food-metadata-with-llm-juries.md]] Building Food Metadata with LLM Juries `pillar:capabilities` `score:0.33`
 - [[bun-rust-rewrite-codebase-fails-basic-miri-checks-allows-for-ub-in-safe-rust.md]] Bun Rust rewrite: "codebase fails basic miri checks, allows for UB in safe rust" `pillar:capabilities` `score:0.595`
 - [[buy-a-train-bridge-or-tracks-from-the-swiss-railway.md]] Buy a train, bridge or tracks from the Swiss Railway `pillar:capabilities` `score:0.305`
 - [[c-details-of-asymmetric-fences.md]] C++ Details of Asymmetric Fences `pillar:capabilities` `score:0.24`
@@ -373,6 +374,7 @@
 - [[im-writing-again.md]] I’m writing again `pillar:capabilities` `score:0.48`
 - [[in-browser-container-builds.md]] In-Browser Container Builds `pillar:capabilities` `score:0.33`
 - [[in-the-weights-is-your-new-ai-centric-vanity-search.md]] In the Weights is your new AI-centric vanity search `pillar:capabilities` `score:0.41`
+- [[indian-scientists-produce-most-detailed-3d-atlas-of-the-human-brainstem.md]] Indian scientists produce most detailed 3D atlas of the human brainstem `pillar:capabilities` `score:0.26`
 - [[indian-tech-tycoon-bets-30m-of-his-own-money-to-build-ai-alternative-to-microsof.md]] Indian tech tycoon bets $30M of his own money to build AI alternative to Microso `pillar:capabilities` `score:0.515`
 - [[inference-cost-at-scale-with-napkin-math.md]] Inference cost at scale with napkin math `pillar:capabilities` `score:0.38`
 - [[inference-optimization-for-mimo-v25-pushing-hybrid-swa-efficiency-to-the-limit.md]] Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit `pillar:capabilities` `score:0.43`
@@ -660,6 +662,7 @@
 - [[show-hn-local-personal-data-redaction-for-any-ai-tools.md]] Show HN: Local personal data redaction for any AI tools `pillar:capabilities` `score:0.33`
 - [[show-hn-lowfat-pluggable-cli-filter-that-saved-918-of-my-llm-tokens.md]] Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens `pillar:capabilities` `score:0.415`
 - [[show-hn-mail-memories-a-desktop-app-to-rescue-photos-from-gmail.md]] Show HN: Mail Memories – A desktop app to rescue photos from Gmail `pillar:capabilities` `score:0.295`
+- [[show-hn-memstitch-zero-copy-context-bridging-for-vllm-25x-ttft-speedup.md]] Show HN: MemStitch – Zero-copy context bridging for vLLM (25x TTFT speedup) `pillar:capabilities` `score:0.33`
 - [[show-hn-metaspec-the-dpans3r-common-lisp-spec-in-s-expr-and-html-format.md]] Show HN: Metaspec: The DpANS3R Common Lisp Spec in S-Expr and HTML Format `pillar:capabilities` `score:0.155`
 - [[show-hn-mira-open-source-and-self-hosted-ai-code-reviewer.md]] Show HN: Mira – Open-source and self-hosted AI code reviewer `pillar:capabilities` `score:0.33`
 - [[show-hn-modeloop-from-visual-algorithms-to-microcontroller-c-code.md]] Show HN: Modeloop – From visual algorithms to microcontroller C code `pillar:capabilities` `score:0.38`
@@ -2212,6 +2215,7 @@
 - [[as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride.md]] As AI companies race to go public, who else is along for the ride? `pillar:business` `score:0.445`
 - [[as-openai-files-for-ipo-sam-altman8217s-eye-scanning-company-is-doing-layoffs-re.md]] As OpenAI files for IPO, Sam Altman&#8217;s eye-scanning company is doing layoff `pillar:business` `score:0.41`
 - [[at-techcrunch-disrupt-2026-all-your-m038a-ques.md]] At TechCrunch Disrupt 2026, all your M&#038;A questions will be answered `pillar:business` `score:0.1`
+- [[australian-energy-retailers-must-provide-three-hours-of-free-daytime-electricity.md]] Australian energy retailers must provide three hours of free daytime electricity `pillar:business` `score:0.465`
 - [[austria-lobbies-eu-to-host-anthropic-after-us-access-curbs.md]] Austria Lobbies EU to Host Anthropic After US Access Curbs `pillar:business` `score:0.445`
 - [[barry-diller-trusts-sam-altman-but-8216trust-i.md]] Barry Diller trusts Sam Altman. But &#8216;trust is irrelevant&#8217; as AGI nea `pillar:business` `score:0.15`
 - [[big-ai-labs-are-hiring-philosophers.md]] Big AI labs are hiring philosophers `pillar:business` `score:0.48`
