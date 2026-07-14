@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-13T21:01:24.274644",
+  "fetched_at": "2026-07-14T09:01:12.542979",
   "source": "twitter-cli",
   "data": {
     "sama": [
       {
-        "id": "2076398253332140410",
-        "text": "i'd love to see interesting things people have built with 5.6 sol.\n\ni will send the person who made the coolest thing a special gift from the openai archives.",
+        "id": "2076824686307271125",
+        "text": "i thought this was satire, kept looking for the handle to be spelled c1audeai or something",
         "author": {
           "id": "1605",
           "name": "Sam Altman",
@@ -14,16 +14,52 @@
           "verified": true
         },
         "metrics": {
-          "likes": 14915,
-          "retweets": 498,
-          "replies": 2779,
-          "quotes": 225,
-          "views": 2632468,
-          "bookmarks": 3140
+          "likes": 1290,
+          "retweets": 50,
+          "replies": 199,
+          "quotes": 27,
+          "views": 177864,
+          "bookmarks": 285
         },
-        "createdAt": "Sun Jul 12 20:08:15 +0000 2026",
-        "createdAtLocal": "2026-07-13 04:08",
-        "createdAtISO": "2026-07-12T20:08:15+00:00",
+        "createdAt": "Tue Jul 14 00:22:45 +0000 2026",
+        "createdAtLocal": "2026-07-14 08:22",
+        "createdAtISO": "2026-07-14T00:22:45+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2075271759289303522",
+          "text": "There’s hope in hard questions. https://t.co/rDYjqIlH9l",
+          "author": {
+            "screenName": "claudeai",
+            "name": "Claude"
+          }
+        }
+      },
+      {
+        "id": "2076824870072238299",
+        "text": "\"hard questions are great but only if we deem you worthy enough to not silently downgrade you, or even get access at all\"",
+        "author": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screenName": "sama",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 1127,
+          "retweets": 41,
+          "replies": 149,
+          "quotes": 30,
+          "views": 48995,
+          "bookmarks": 50
+        },
+        "createdAt": "Tue Jul 14 00:23:29 +0000 2026",
+        "createdAtLocal": "2026-07-14 08:23",
+        "createdAtISO": "2026-07-14T00:23:29+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -32,8 +68,8 @@
         "score": null
       },
       {
-        "id": "2076036901824532530",
-        "text": "so far at least, i'm pretty sure AI has been net job-creating.\n\nthis was not what i expected--although i was much less pessimistic than others, i thought by this level of capability we'd have seen some impact.\n\nit is possible this direction keeps going!",
+        "id": "2076823209589313910",
+        "text": "still sorta breaks my brain to see our models be good at design finally",
         "author": {
           "id": "1605",
           "name": "Sam Altman",
@@ -42,16 +78,16 @@
           "verified": true
         },
         "metrics": {
-          "likes": 13433,
-          "retweets": 514,
-          "replies": 1807,
-          "quotes": 343,
-          "views": 2309279,
-          "bookmarks": 1292
+          "likes": 1952,
+          "retweets": 43,
+          "replies": 352,
+          "quotes": 19,
+          "views": 107263,
+          "bookmarks": 76
         },
-        "createdAt": "Sat Jul 11 20:12:22 +0000 2026",
-        "createdAtLocal": "2026-07-12 04:12",
-        "createdAtISO": "2026-07-11T20:12:22+00:00",
+        "createdAt": "Tue Jul 14 00:16:53 +0000 2026",
+        "createdAtLocal": "2026-07-14 08:16",
+        "createdAtISO": "2026-07-14T00:16:53+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -60,8 +96,8 @@
         "score": null
       },
       {
-        "id": "2076034163418014199",
-        "text": "whoa",
+        "id": "2076780425280954658",
+        "text": "come for the best model, stay because we don’t treat you with contempt",
         "author": {
           "id": "1605",
           "name": "Sam Altman",
@@ -70,70 +106,26 @@
           "verified": true
         },
         "metrics": {
-          "likes": 3132,
-          "retweets": 77,
-          "replies": 296,
-          "quotes": 17,
-          "views": 1316372,
-          "bookmarks": 167
+          "likes": 11579,
+          "retweets": 389,
+          "replies": 1243,
+          "quotes": 218,
+          "views": 664152,
+          "bookmarks": 491
         },
-        "createdAt": "Sat Jul 11 20:01:30 +0000 2026",
-        "createdAtLocal": "2026-07-12 04:01",
-        "createdAtISO": "2026-07-11T20:01:30+00:00",
+        "createdAt": "Mon Jul 13 21:26:52 +0000 2026",
+        "createdAtLocal": "2026-07-14 05:26",
+        "createdAtISO": "2026-07-13T21:26:52+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
         "retweetedBy": null,
         "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2076021263945039876",
-          "text": "You know it's a good model when you grow more in 1 day than last two weeks combined.\n\nInstall the desktop app from https://t.co/K5PquKnV4q and give it a go! https://t.co/WyQwrT98Xo",
-          "author": {
-            "screenName": "thsottiaux",
-            "name": "Tibo"
-          }
-        }
+        "score": null
       },
       {
-        "id": "2075646048425431469",
-        "text": "GPT-5.6 Sol Ultra produced a proof of a 50 year old math conjecture. Unlike the Erdős Unit Distance Problem, this was done with a model publicly available *today*. I look forward to seeing what scientists and researchers are able to do with this model!",
-        "author": {
-          "id": "825088493764407298",
-          "name": "Noam Brown",
-          "screenName": "polynoamial",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1872883170292457472/8ywVGO5M_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 3368,
-          "retweets": 228,
-          "replies": 118,
-          "quotes": 29,
-          "views": 931950,
-          "bookmarks": 533
-        },
-        "createdAt": "Fri Jul 10 18:19:16 +0000 2026",
-        "createdAtLocal": "2026-07-11 02:19",
-        "createdAtISO": "2026-07-10T18:19:16+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "sama",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2075643450196971805",
-          "text": "Yesterday, we made GPT-5.6 Sol Ultra generally available. Today, we're sharing that it produced a proof of the 50-year-old Cycle Double Cover Conjecture using 64 subagents in just under one hour. We're sharing the prompt and proof below. We're excited to see what you all do with Ultra!",
-          "author": {
-            "screenName": "__eknight__",
-            "name": "Ethan Knight"
-          }
-        }
-      },
-      {
-        "id": "2075985056846451123",
-        "text": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+        "id": "2076759971967230419",
+        "text": "that goes hard",
         "author": {
           "id": "1605",
           "name": "Sam Altman",
@@ -142,16 +134,16 @@
           "verified": true
         },
         "metrics": {
-          "likes": 6688,
-          "retweets": 407,
-          "replies": 443,
-          "quotes": 115,
-          "views": 2165114,
-          "bookmarks": 891
+          "likes": 1182,
+          "retweets": 48,
+          "replies": 195,
+          "quotes": 13,
+          "views": 231945,
+          "bookmarks": 119
         },
-        "createdAt": "Sat Jul 11 16:46:22 +0000 2026",
-        "createdAtLocal": "2026-07-12 00:46",
-        "createdAtISO": "2026-07-11T16:46:22+00:00",
+        "createdAt": "Mon Jul 13 20:05:36 +0000 2026",
+        "createdAtLocal": "2026-07-14 04:05",
+        "createdAtISO": "2026-07-13T20:05:36+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -159,11 +151,11 @@
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2075689779937833302",
-          "text": "♥️ GPT-5.6 is a major step forward for health, both at the frontier and at cost.\n\nThese models push the frontier of performance per dollar, bringing the best health intelligence to all. The smallest variant, GPT-5.6 Luna, evaluated at the lowest reasoning effort, outperforms GPT-5.5 at the highest reasoning effort–despite costing 25x less. The largest variant, GPT-5.6 Sol, sets a new high bar at cost.\n\nAnother especially cool result: physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\n\nWe collected diverse tasks that remain difficult for recent OpenAI models, across patient-facing and clinician-facing use cases. We asked speciality-matched physicians to write responses to these tasks with unlimited time and web access. We then asked other physicians to compare responses side-by-side, blinded to their source. Physicians were asked to comment on areas of improvement across five axes: accuracy, communication, completeness, instruction following, and health decision helpfulness. We then reported the fraction of responses across sources rated perfectly across all axes, across 20,000 total axis ratings. GPT-5.6 Sol appeared strongest, although all GPT-5.6 models performed significantly better than physicians.",
+          "id": "2076667554798752248",
+          "text": "@perrymetzger \"Of all tyrannies, a tyranny sincerely exercised for the good of its victims may be the most oppressive... [T]hose who torment us for our own good will torment us without end for they do so with the approval of their own conscience.\"\n--C.S. Lewis",
           "author": {
-            "screenName": "thekaransinghal",
-            "name": "Karan Singhal"
+            "screenName": "chuckmckinnon",
+            "name": "Chuck McKinnon"
           }
         }
       }
@@ -180,12 +172,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8583,
-          "retweets": 1050,
-          "replies": 433,
-          "quotes": 560,
-          "views": 3520292,
-          "bookmarks": 5134
+          "likes": 8607,
+          "retweets": 1052,
+          "replies": 432,
+          "quotes": 562,
+          "views": 3530861,
+          "bookmarks": 5129
         },
         "createdAt": "Wed Jul 08 21:47:29 +0000 2026",
         "createdAtLocal": "2026-07-09 05:47",
@@ -210,12 +202,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1522,
-          "retweets": 147,
-          "replies": 70,
+          "likes": 1530,
+          "retweets": 149,
+          "replies": 69,
           "quotes": 14,
-          "views": 443232,
-          "bookmarks": 2382
+          "views": 448052,
+          "bookmarks": 2393
         },
         "createdAt": "Fri Jul 03 14:12:03 +0000 2026",
         "createdAtLocal": "2026-07-03 22:12",
@@ -240,11 +232,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 9447,
+          "likes": 9452,
           "retweets": 931,
           "replies": 638,
-          "quotes": 593,
-          "views": 6053567,
+          "quotes": 592,
+          "views": 6059511,
           "bookmarks": 3638
         },
         "createdAt": "Tue Jun 30 15:00:09 +0000 2026",
@@ -275,12 +267,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1900,
+          "likes": 1903,
           "retweets": 241,
-          "replies": 181,
-          "quotes": 159,
-          "views": 1828670,
-          "bookmarks": 1216
+          "replies": 180,
+          "quotes": 160,
+          "views": 1831402,
+          "bookmarks": 1218
         },
         "createdAt": "Tue Jun 23 17:01:29 +0000 2026",
         "createdAtLocal": "2026-06-24 01:01",
@@ -306,12 +298,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 23038,
-          "retweets": 1900,
-          "replies": 1332,
-          "quotes": 694,
-          "views": 7875189,
-          "bookmarks": 13929
+          "likes": 23039,
+          "retweets": 1901,
+          "replies": 1334,
+          "quotes": 695,
+          "views": 7878455,
+          "bookmarks": 13926
         },
         "createdAt": "Tue Jun 23 22:26:31 +0000 2026",
         "createdAtLocal": "2026-06-24 06:26",
@@ -344,11 +336,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 263,
-          "retweets": 40,
-          "replies": 71,
+          "likes": 267,
+          "retweets": 41,
+          "replies": 73,
           "quotes": 6,
-          "views": 87137,
+          "views": 88408,
           "bookmarks": 54
         },
         "createdAt": "Thu Jul 09 17:31:17 +0000 2026",
@@ -380,12 +372,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8378,
+          "likes": 8381,
           "retweets": 1609,
-          "replies": 382,
+          "replies": 383,
           "quotes": 174,
-          "views": 634199,
-          "bookmarks": 10229
+          "views": 635270,
+          "bookmarks": 10233
         },
         "createdAt": "Tue Jun 30 16:04:04 +0000 2026",
         "createdAtLocal": "2026-07-01 00:04",
@@ -415,12 +407,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1332,
+          "likes": 1334,
           "retweets": 287,
           "replies": 172,
           "quotes": 61,
-          "views": 160780,
-          "bookmarks": 399
+          "views": 161100,
+          "bookmarks": 400
         },
         "createdAt": "Fri Jun 19 18:34:23 +0000 2026",
         "createdAtLocal": "2026-06-20 02:34",
@@ -450,11 +442,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 359,
-          "retweets": 52,
+          "likes": 358,
+          "retweets": 51,
           "replies": 55,
           "quotes": 10,
-          "views": 80860,
+          "views": 81051,
           "bookmarks": 208
         },
         "createdAt": "Thu Jun 18 17:00:03 +0000 2026",
@@ -485,11 +477,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1114,
-          "retweets": 148,
-          "replies": 110,
+          "likes": 1116,
+          "retweets": 149,
+          "replies": 109,
           "quotes": 13,
-          "views": 122655,
+          "views": 122806,
           "bookmarks": 845
         },
         "createdAt": "Thu Jun 04 16:44:13 +0000 2026",
@@ -512,6 +504,77 @@
     ],
     "ylecun": [
       {
+        "id": "2076787500677321146",
+        "text": "Keep in mind that Trump‘s persistent delusion and propaganda that 2020 was stolen is essential pretext to his attempting to interfere in the midterms and 2028. He’s been laying that ground since the day he was reelected. Wake up.",
+        "author": {
+          "id": "449588356",
+          "name": "Garry Kasparov",
+          "screenName": "Kasparov63",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1004031810173579265/YrEIbzio_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 3026,
+          "retweets": 825,
+          "replies": 79,
+          "quotes": 24,
+          "views": 106906,
+          "bookmarks": 118
+        },
+        "createdAt": "Mon Jul 13 21:54:59 +0000 2026",
+        "createdAtLocal": "2026-07-14 05:54",
+        "createdAtISO": "2026-07-13T21:54:59+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2076775981344227703",
+          "text": "UPDATE: Donald Trump plans to claim in his speech that newly declassified intelligence reports reveal a foreign nation's plans to interfere in the 2020 presidential election, two White House officials told MS NOW",
+          "author": {
+            "screenName": "RpsAgainstTrump",
+            "name": "Republicans against Trump"
+          }
+        }
+      },
+      {
+        "id": "2076673289657745454",
+        "text": "Oil prices are up nearly $4.50 since Trump scrapped the MoU with Iran.\n\nWithout a deal, the market is pricing in elevated oil prices through 2030. The margin of increase will likely go up if there is no progress on negotiations in the coming weeks. https://t.co/3dMgfuAWpX",
+        "author": {
+          "id": "401625957",
+          "name": "Steve Rattner",
+          "screenName": "SteveRattner",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1559587528109395969/HfLfInk2_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 136,
+          "retweets": 54,
+          "replies": 14,
+          "quotes": 3,
+          "views": 14486,
+          "bookmarks": 4
+        },
+        "createdAt": "Mon Jul 13 14:21:09 +0000 2026",
+        "createdAtLocal": "2026-07-13 22:21",
+        "createdAtISO": "2026-07-13T14:21:09+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HNHTSicWoAAIa8c.jpg",
+            "width": 2600,
+            "height": 1520
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
+      },
+      {
         "id": "2076097383352648191",
         "text": "\"The role of raw power in intelligence\", Hans Moravec, 1976 (!).\n\n\"The first section discusses natural intelligence, and notes two major branches of the animal kingdom in which it evolved independently, and several offshoots. The suggestion is that intelligence need not be so difficult to construct as is sometimes assumed.\n\nThe second part compares the information processing ability of present computers with intelligent nervous systems, and finds a factor of one million difference. This abyss is interpreted as a major distorting influence in current work, and a reason for disappointing progress.\n\nSection three examines the development of electronics, and concludes the state of the art can provide more power than is now available, and that the gap could be closed in a decade.\"\n\nhttps://t.co/NnoGCVh0LR",
         "author": {
@@ -522,12 +585,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 98,
-          "retweets": 17,
-          "replies": 6,
-          "quotes": 4,
-          "views": 22516,
-          "bookmarks": 77
+          "likes": 117,
+          "retweets": 20,
+          "replies": 7,
+          "quotes": 6,
+          "views": 27415,
+          "bookmarks": 94
         },
         "createdAt": "Sun Jul 12 00:12:42 +0000 2026",
         "createdAtLocal": "2026-07-12 08:12",
@@ -557,12 +620,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1966,
-          "retweets": 338,
+          "likes": 1985,
+          "retweets": 341,
           "replies": 59,
-          "quotes": 30,
-          "views": 125110,
-          "bookmarks": 1781
+          "quotes": 31,
+          "views": 129042,
+          "bookmarks": 1798
         },
         "createdAt": "Sat Jul 11 01:32:37 +0000 2026",
         "createdAtLocal": "2026-07-11 09:32",
@@ -592,11 +655,11 @@
           "verified": false
         },
         "metrics": {
-          "likes": 69,
+          "likes": 71,
           "retweets": 3,
           "replies": 6,
           "quotes": 0,
-          "views": 35900,
+          "views": 37441,
           "bookmarks": 5
         },
         "createdAt": "Thu Jul 09 12:17:32 +0000 2026",
@@ -616,110 +679,31 @@
             "name": "Yann LeCun"
           }
         }
-      },
-      {
-        "id": "2075644501222367375",
-        "text": "All foundation models are in fact models of knowledge, mainly based on open knowledge already developed by mainkind. Obviously knowledge (models) of mankind should be open sourced! (Again, please do not confuse knowledge with intelligence.)",
-        "author": {
-          "id": "1507536562480824321",
-          "name": "Yi Ma",
-          "screenName": "YiMaTweets",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1553978259607412736/Dwv46Fqq_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 138,
-          "retweets": 18,
-          "replies": 9,
-          "quotes": 3,
-          "views": 37937,
-          "bookmarks": 18
-        },
-        "createdAt": "Fri Jul 10 18:13:07 +0000 2026",
-        "createdAtLocal": "2026-07-11 02:13",
-        "createdAtISO": "2026-07-10T18:13:07+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2075102766221996136",
-          "text": "@KenRoth The biggest risk of AI is the concentration of power in a few dominant providers of proprietary AI assistants. \nThe only solution to AI sovereignty is open source foundation models.",
-          "author": {
-            "screenName": "ylecun",
-            "name": "Yann LeCun"
-          }
-        }
-      },
-      {
-        "id": "2075732481173844347",
-        "text": "History has seen this movie before.\n\n1880s Late Imperial Russia: Fear of dissent led to tighter control over universities. That alienated students and scholars, weakened trust in the state, and produced more dissent.\n\n1930s Nazi Germany: Fear of disloyalty led to purges, banned ideas, and loyalty tests. That drove out talent, weakened universities, and made the regime even more dependent on loyalty over truth.\n\n1960s China’s Cultural Revolution: Fear of independent thought led to attacks on teachers, schools, and universities. The result was an entire Lost Generation.\n\nThe spiral: Fear brings control. Control drives out talent. Lost talent weakens education. Weaker education weakens the state. A weaker state becomes more fearful—and tightens control again.",
-        "author": {
-          "id": "11648452",
-          "name": "Christopher Nguyen ⽗",
-          "screenName": "pentagoniac",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1651594160238133248/2Xc5r-oM_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 35,
-          "retweets": 3,
-          "replies": 3,
-          "quotes": 0,
-          "views": 29940,
-          "bookmarks": 14
-        },
-        "createdAt": "Sat Jul 11 00:02:43 +0000 2026",
-        "createdAtLocal": "2026-07-11 08:02",
-        "createdAtISO": "2026-07-11T00:02:43+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2075496863327817910",
-          "text": "Typical NYT understatement for what is an apocalyptic destruction of the American innovation ecosystem.\n\nI can't understand how the Trump administration is doing this while boasting about American technology leadership. Don't they realize that a nation can't get technological innovations without scientists, and that scientists are former PhD students?",
-          "author": {
-            "screenName": "ylecun",
-            "name": "Yann LeCun"
-          }
-        }
       }
     ],
     "elonmusk": [
       {
-        "id": "2076373041773256963",
-        "text": "Well shit - grok 4.5 is KILLING it it in my video studio evals!\n\n6/33 -&gt; 23/33 with ridiculous cost efficiency compared to 5.6 models https://t.co/JaMV8JxqNg",
+        "id": "2076726650365264196",
+        "text": "@just_cameron The default in Grok Build is off. You can also run /privacy and any synced data is deleted. ZDR is respected for both headless and interactive use as well.",
         "author": {
-          "id": "3317064632",
-          "name": "Miki Ovshievich",
-          "screenName": "mikiovsh",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2021256073097650180/zzBCiHhk_normal.jpg",
+          "id": "1325862778603769856",
+          "name": "Jason Ginsberg",
+          "screenName": "JasonBud",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1907218106994286592/aCcU4Kbh_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 1571,
-          "retweets": 307,
-          "replies": 246,
-          "quotes": 8,
-          "views": 413777,
-          "bookmarks": 92
+          "likes": 894,
+          "retweets": 202,
+          "replies": 114,
+          "quotes": 5,
+          "views": 245140,
+          "bookmarks": 48
         },
-        "createdAt": "Sun Jul 12 18:28:04 +0000 2026",
-        "createdAtLocal": "2026-07-13 02:28",
-        "createdAtISO": "2026-07-12T18:28:04+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HNDCRxyWMAAhhbZ.jpg",
-            "width": 1600,
-            "height": 1169
-          }
-        ],
+        "createdAt": "Mon Jul 13 17:53:11 +0000 2026",
+        "createdAtLocal": "2026-07-14 01:53",
+        "createdAtISO": "2026-07-13T17:53:11+00:00",
+        "media": [],
         "urls": [],
         "isRetweet": true,
         "retweetedBy": "elonmusk",
@@ -727,8 +711,36 @@
         "score": null
       },
       {
-        "id": "2076563677319209094",
-        "text": "Using Grok agents in background mode",
+        "id": "2076747704248758617",
+        "text": "We're rolling out a small tweak to boost visibility of your posts to your mutuals (people who you follow back).\n\nWe noticed this data was missing from the algo and it made your friends appear less in your replies. This resulted in the reply section feeling more like a battleground with people you don't recognize.\n\nThis should also help clusters form around interests more easily, which many people have asked for.",
+        "author": {
+          "id": "636513296",
+          "name": "Nikita Bier",
+          "screenName": "nikitabier",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 20012,
+          "retweets": 2257,
+          "replies": 5375,
+          "quotes": 1883,
+          "views": 1669698,
+          "bookmarks": 1243
+        },
+        "createdAt": "Mon Jul 13 19:16:51 +0000 2026",
+        "createdAtLocal": "2026-07-14 03:16",
+        "createdAtISO": "2026-07-13T19:16:51+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2076796854973423971",
+        "text": "True",
         "author": {
           "id": "44196397",
           "name": "Elon Musk",
@@ -737,16 +749,16 @@
           "verified": true
         },
         "metrics": {
-          "likes": 3474,
-          "retweets": 795,
-          "replies": 1070,
-          "quotes": 38,
-          "views": 1566038,
-          "bookmarks": 292
+          "likes": 3349,
+          "retweets": 695,
+          "replies": 844,
+          "quotes": 31,
+          "views": 1283628,
+          "bookmarks": 153
         },
-        "createdAt": "Mon Jul 13 07:05:36 +0000 2026",
-        "createdAtLocal": "2026-07-13 15:05",
-        "createdAtISO": "2026-07-13T07:05:36+00:00",
+        "createdAt": "Mon Jul 13 22:32:09 +0000 2026",
+        "createdAtLocal": "2026-07-14 06:32",
+        "createdAtISO": "2026-07-13T22:32:09+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -754,98 +766,63 @@
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2076388813581258818",
-          "text": "@arthurkatcher 1) Yes! Use `.grok/agents` or config.toml (see below), adding to the docs site right now. \n\n2) Yes: Agents can spawn background subagents, or try /dashboard, to move your agent to the background and create another. I've been using /dashboard as my default. https://t.co/NPuNxwODg8",
+          "id": "2076780519770018131",
+          "text": "A reminder: Across much of the AI industry, user data is retained by default unless you manually change the privacy settings and even then, opt-outs often apply only to future data, may be limited by exceptions buried in the legal fine print, and can be difficult to verify in practice\n\nIn other words, “opting out” does not always mean your data is fully deleted or excluded...the company’s own way of saying opt-out may not actually match what users reasonably expect in the end\n\nHowever SpaceXAI just showed what going beyond the industry standard actually looks like\n\nRunning \"/privacy\" in Grok Build to disable retention also deletes all previously synced data...not just data created after changing the setting and prevents future code and session data from being retained\n\nElon also confirmed that, as a precautionary measure, all user data uploaded to SpaceXAI before now will be completely deleted, with nothing remaining\n\nYet some people are having a selective outrage meltdown, acting as though AI companies retaining uploaded data is some completely new revelation\n\nData retention has long been common across major AI products, while manual privacy opt-outs are often buried, limited by exceptions, or focused primarily on future activity\n\nMeanwhile, SpaceXAI is setting a new privacy standard that goes far beyond what the rest of the AI industry currently provides by default",
           "author": {
-            "screenName": "milichab",
-            "name": "Andrew Milich"
+            "screenName": "XFreeze",
+            "name": "X Freeze"
           }
         }
       },
       {
-        "id": "2076434607562531049",
-        "text": "Grok 4.5 even ranks slightly above Fable, which is an incredibly good model, on some software benchmarks! https://t.co/6yXTTSZ8f3",
+        "id": "2076696092037833091",
+        "text": "@FarhanWritess If you run /privacy and change the setting, all previously synced data is deleted.",
         "author": {
-          "id": "44196397",
-          "name": "Elon Musk",
-          "screenName": "elonmusk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "verified": true
+          "id": "1661523610111193088",
+          "name": "SpaceXAI",
+          "screenName": "SpaceXAI",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_normal.jpg",
+          "verified": false
         },
         "metrics": {
-          "likes": 11899,
-          "retweets": 1586,
-          "replies": 1516,
-          "quotes": 178,
-          "views": 2658249,
-          "bookmarks": 596
+          "likes": 2556,
+          "retweets": 517,
+          "replies": 253,
+          "quotes": 36,
+          "views": 518719,
+          "bookmarks": 181
         },
-        "createdAt": "Sun Jul 12 22:32:43 +0000 2026",
-        "createdAtLocal": "2026-07-13 06:32",
-        "createdAtISO": "2026-07-12T22:32:43+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HND6RSvXMAAzr_-.jpg",
-            "width": 2048,
-            "height": 1370
-          }
-        ],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2076558971905650718",
-        "text": "The publicly available version of Mythos (Fable with Claude as fallback) is significantly nerfed, but still that’s all most people have access to",
-        "author": {
-          "id": "44196397",
-          "name": "Elon Musk",
-          "screenName": "elonmusk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 1516,
-          "retweets": 291,
-          "replies": 283,
-          "quotes": 17,
-          "views": 402531,
-          "bookmarks": 53
-        },
-        "createdAt": "Mon Jul 13 06:46:54 +0000 2026",
-        "createdAtLocal": "2026-07-13 14:46",
-        "createdAtISO": "2026-07-13T06:46:54+00:00",
+        "createdAt": "Mon Jul 13 15:51:46 +0000 2026",
+        "createdAtLocal": "2026-07-13 23:51",
+        "createdAtISO": "2026-07-13T15:51:46+00:00",
         "media": [],
         "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
         "lang": "en",
         "score": null
       },
       {
-        "id": "2076472406860873975",
-        "text": "NEW: Grok 4.5 now scores highest on the SWE-Atlas-QnA benchmark, edging Claude Fable 5 &amp; GPT-5.6 Sol.",
+        "id": "2076725943708868615",
+        "text": "That's not the case. The CLI doesn't retain data under ZDR (including headless/non-headless modes), and has since launch. Similarly, /privacy in the CLI will disable or reenable any data retention. For some features, including remote session listing, cloud agents, and handoff, you will need to enable data syncing.",
         "author": {
-          "id": "1261335549215989760",
-          "name": "Polymarket",
-          "screenName": "Polymarket",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2005664281002491904/bz2ZO_nU_normal.jpg",
+          "id": "2867234365",
+          "name": "Andrew Milich",
+          "screenName": "milichab",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1466472908977487881/-dym5k04_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 4505,
-          "retweets": 428,
-          "replies": 325,
-          "quotes": 50,
-          "views": 678302,
-          "bookmarks": 239
+          "likes": 1203,
+          "retweets": 399,
+          "replies": 103,
+          "quotes": 3,
+          "views": 403686,
+          "bookmarks": 60
         },
-        "createdAt": "Mon Jul 13 01:02:55 +0000 2026",
-        "createdAtLocal": "2026-07-13 09:02",
-        "createdAtISO": "2026-07-13T01:02:55+00:00",
+        "createdAt": "Mon Jul 13 17:50:23 +0000 2026",
+        "createdAtLocal": "2026-07-14 01:50",
+        "createdAtISO": "2026-07-13T17:50:23+00:00",
         "media": [],
         "urls": [],
         "isRetweet": true,
@@ -870,7 +847,7 @@
           "retweets": 25,
           "replies": 41,
           "quotes": 8,
-          "views": 51838,
+          "views": 52313,
           "bookmarks": 116
         },
         "createdAt": "Wed Jul 01 15:12:14 +0000 2026",
@@ -902,11 +879,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1635,
+          "likes": 1634,
           "retweets": 222,
           "replies": 73,
           "quotes": 30,
-          "views": 194923,
+          "views": 195670,
           "bookmarks": 1163
         },
         "createdAt": "Tue Jun 30 17:07:49 +0000 2026",
@@ -941,7 +918,7 @@
           "retweets": 2,
           "replies": 5,
           "quotes": 1,
-          "views": 20870,
+          "views": 21026,
           "bookmarks": 42
         },
         "createdAt": "Tue Jun 30 17:07:50 +0000 2026",
@@ -976,12 +953,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 3844,
+          "likes": 3845,
           "retweets": 570,
           "replies": 187,
           "quotes": 153,
-          "views": 659751,
-          "bookmarks": 2029
+          "views": 660852,
+          "bookmarks": 2028
         },
         "createdAt": "Tue Jun 16 16:31:58 +0000 2026",
         "createdAtLocal": "2026-06-17 00:31",
@@ -1015,7 +992,7 @@
           "retweets": 19,
           "replies": 5,
           "quotes": 2,
-          "views": 47551,
+          "views": 47669,
           "bookmarks": 100
         },
         "createdAt": "Tue Jun 16 16:31:58 +0000 2026",

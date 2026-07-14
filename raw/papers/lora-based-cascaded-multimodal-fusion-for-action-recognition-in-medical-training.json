@@ -1,0 +1,30 @@
+{
+  "title": "LoRA-Based Cascaded Multimodal Fusion for Action Recognition in Medical Training Environments",
+  "summary": "This paper presents a cascaded Low-Rank Adaptation (LoRA)-based multimodal fusion framework for action and activity recognition in healthcare-oriented training environments. The proposed architecture combines parameter-efficient modality-specific adaptation with sequential fusion, enabling modalities to be integrated in stages without retraining previously learned components. Rather than assuming a fixed fusion structure, the framework first integrates more closely related modalities and then incorporates additional heterogeneous modalities, supporting scalable adaptation across datasets with different modality sets.We evaluate the framework on two healthcare-oriented training environment datasets: NurViD and the Nurse Training dataset. Across these datasets, preliminary results suggest that the proposed cascaded fusion strategy improves over individual modality models and provides competitive performance relative to previously reported dataset-specific baselines. Overall, these findings indicate that cascaded LoRA-based fusion is a promising parameter-efficient approach for integrating heterogeneous modalities in medical training action and activity recognition tasks. github: https://github.com/anonymous0-ai/LoRA-Based-Cascaded-Multimodal-Fusion-.git.",
+  "url": "http://arxiv.org/abs/2607.11839v1",
+  "authors": [
+    "Divya Mereddy",
+    "Jeevan Beedareddy"
+  ],
+  "published": "2026-07-13T17:27:58Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "multimodal",
+    "training",
+    "parameter",
+    "dataset"
+  ],
+  "summary_cn": "本文提出一种基于LoRA（低秩适应）的级联多模态融合框架，用于医疗培训环境中的动作与活动识别。该方法通过参数高效的模态特定微调（LoRA）结合顺序融合策略，在保持预训练模型主体权重不变的同时，高效适配不同模态（如视频、传感器数据等），提升识别精度。其商业价值在于能够赋能医疗模拟培训系统实现自动评估与实时反馈，降低培训成本并提高教学标准化程度。产品创新点在于将大模型微调技术LoRA引入多模态融合的动作识别任务，实现了轻量级、可扩展的部署方案。",
+  "pm_relevance": 7,
+  "concepts": [
+    "LoRA",
+    "多模态融合",
+    "动作识别"
+  ],
+  "entities": [],
+  "patterns": [
+    "参数高效微调",
+    "多模态融合模式"
+  ]
+}

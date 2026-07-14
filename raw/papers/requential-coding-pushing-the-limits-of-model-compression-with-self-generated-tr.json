@@ -1,0 +1,35 @@
+{
+  "title": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data",
+  "summary": "Compression is fundamental to intelligence. A model that can represent its training data as a short code has discovered regularities that enable generalization. Large neural networks may learn functions far simpler than their parameter counts suggest, but it is challenging to construct codes that realize this simplicity. Parameter-based methods such as quantization produce code lengths that scale with model size, insensitive to how much information the parameters store. Prequential coding bypasses this issue by compressing the training trajectory, but codes the exact data sequence regardless of how much the model learns, yielding large codes when the data has high entropy. We introduce requential coding, where a teacher model selects training samples drawn from the student's own distribution. The student's code records only these selections, which cost bits only where teacher and student disagree. The resulting code length is independent of parameter count and data entropy, and often orders of magnitude shorter than the prequential counterpart, with an advantage that grows with scale. This compression sheds light on phenomena inaccessible to prior compressors. Holding loss fixed, larger models and ensembles compress to much smaller sizes despite more parameters. Plugged into a PAC-Bayes bound, the requential code yields state-of-the-art generalization guarantees for billion-parameter LLMs, outperforming bounds built on aggressive post-training quantization even granted zero error. The bound tightens with scale in the compute-optimal regime, as models become increasingly compressible relative to dataset size. The same code predicts that models gradually overfit when trained for multiple epochs. It also isolates the learnable information in a dataset from its unpredictable, random content, revealing that lower-entropy text holds far more learnable structure than higher-entropy image data.",
+  "url": "http://arxiv.org/abs/2607.11883v1",
+  "authors": [
+    "Shikai Qiu",
+    "Marc Finzi",
+    "Yujia Zheng",
+    "Kun Zhang",
+    "Andrew Gordon Wilson"
+  ],
+  "published": "2026-07-13T17:58:50Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "quantization",
+    "training",
+    "compression",
+    "neural network",
+    "parameter",
+    "dataset",
+    "post-training"
+  ],
+  "summary_cn": "本文提出一种名为“Requential Coding”的模型压缩方法，核心思路是让模型利用自生成的训练数据来构建更短的代码表示，从而发现数据中的规律并实现泛化。该方法挑战了“大参数即复杂函数”的传统认知，证明大型神经网络可能学到比参数数量简单得多的函数。对于AI产品经理而言，这意味着更高效的模型压缩技术，可显著降低部署成本和推理延迟，尤其适合资源受限场景（如移动端或边缘设备），同时保持模型性能。商业价值在于推动小型化、低成本AI应用落地，产品创新体现在自生成数据驱动的压缩范式。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Model Compression",
+    "Self-Generated Training Data",
+    "Code Representation"
+  ],
+  "entities": [],
+  "patterns": [
+    "Self-Supervised Learning"
+  ]
+}

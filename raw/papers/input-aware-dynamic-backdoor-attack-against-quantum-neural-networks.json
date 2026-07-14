@@ -1,0 +1,32 @@
+{
+  "title": "Input-Aware Dynamic Backdoor Attack Against Quantum Neural Networks",
+  "summary": "Quantum Neural Networks (QNNs) are a promising framework for quantum machine learning on near-term quantum devices, but their security risks remain insufficiently understood. Studies have shown that QNNs are vulnerable to backdoor attacks, yet existing quantum backdoors mostly rely on a fixed trigger shared by all poisoned inputs. This fixed-trigger design is a major weakness because many defenses detect or weaken the repeated patterns such triggers leave in data representations. Although input-aware dynamic backdoors have been studied in classical neural networks, transferring them to QNNs is difficult because quantum learning introduces new obstacles. In particular, measurement compresses the post-ansatz quantum state into a limited classical output, weakening supervision for a trigger generator, while individual density matrices fluctuate with the input and make per-sample contrastive learning unstable. To address these challenges, we propose Q-DIBA, the first input-aware dynamic backdoor attack for QNNs. Q-DIBA jointly trains a classical trigger generator and a victim QNN through a three-mode mini-batch strategy that supports clean behavior, attack activation, and trigger specificity. To provide stable quantum-level supervision, Q-DIBA introduces an ensemble density contrastive loss that operates on post-ansatz quantum states before measurement and contrasts mode-averaged density matrices rather than individual samples. Experiments on MNIST and Fashion-MNIST across multiple QNN architectures show that Q-DIBA achieves high clean accuracy, strong attack success, and high cross-trigger accuracy, demonstrating effectiveness, stealthiness, and input specificity. The attack also remains resilient against defenses including visual inspection, spectral-signature detection, and fine-tuning, suggesting that input-aware quantum backdoors are an important threat to secure QNN deployment.",
+  "url": "http://arxiv.org/abs/2607.11843v1",
+  "authors": [
+    "Junrui Zhang",
+    "Zemin Chen",
+    "Lusi Li",
+    "Mohammad Ghasemigol",
+    "Daniel Takabi"
+  ],
+  "published": "2026-07-13T17:34:17Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision",
+    "fine-tuning",
+    "neural network",
+    "accuracy"
+  ],
+  "summary_cn": "该论文提出针对量子神经网络（QNN）的输入感知动态后门攻击方法，揭示了现有QNN后门攻击依赖固定触发器的局限性。研究发现，通过在训练阶段注入特定输入相关的恶意模式，攻击者可在推理时激活后门，导致模型在特定输入上产生错误输出。这一威胁可能影响量子机器学习在金融、医疗等敏感领域的部署安全性。商业上，量子计算服务的提供商需加强模型鲁棒性验证，设计动态防御机制。产品创新点在于首次将输入感知思想引入量子安全，推动抗攻击训练技术的演进。",
+  "pm_relevance": 6,
+  "concepts": [
+    "量子神经网络",
+    "后门攻击",
+    "动态触发"
+  ],
+  "entities": [],
+  "patterns": [
+    "对抗性攻击模式"
+  ]
+}

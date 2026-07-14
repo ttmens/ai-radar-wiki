@@ -2780,3 +2780,24 @@
 - create: should-ai-help-you-get-away-with-killing-your-spouse.md
 - create: show-hn-jacquard-a-programming-language-for-ai-written-human-reviewed-code.md
 - create: show-hn-loot-raiders-an-arc-raiders-inspired-inventory-game-in-svelte.md
+
+## [2026-07-14 12:02] sync v3 | 19 new | pillars: {'capabilities': 12, 'ecosystem': 2, 'patterns': 3, 'business': 2}
+- create: requential-coding-pushing-the-limits-of-model-compression-with-self-generated-tr.md
+- create: metacognition-in-llms-foundations-progress-and-opportunities.md
+- create: invariant-learning-dynamics-of-transformers-in-inductive-reasoning-tasks.md
+- create: a-minimalist-retargeting-guided-reinforcement-learning-recipe-for-dexterous-mani.md
+- create: a-durability-and-cross-language-transfer-benchmark-for-a-validated-teaching-feed.md
+- create: inside-the-unfair-judge-a-mechanistic-interpretability-account-of-llm-as-judge-b.md
+- create: evidence-backed-video-question-answering.md
+- create: input-aware-dynamic-backdoor-attack-against-quantum-neural-networks.md
+- create: lora-based-cascaded-multimodal-fusion-for-action-recognition-in-medical-training.md
+- create: transformer-guided-swarm-intelligence-for-frugal-neural-architecture-search.md
+- create: mm-toolsandbox-a-unified-framework-for-evaluating-visual-tool-calling-agents.md
+- create: relaxing-faithfulness-with-intervention-only-causal-discovery.md
+- create: turn-your-singing-voice-into-printable-notes-in-the-browser.md
+- create: a-study-of-microsofts-early-2026-rollout-of-claude-code-and-github-copilot-cli.md
+- create: already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-ag.md
+- create: uber8217s-product-chief-on-hotels-robotaxis-and-why-the-company-doesn8217t-want.md
+- create: video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b.md
+- create: hermes-agent-maker-nous-research-in-talks-for-new-funding-at-15b-valuation.md
+- create: show-hn-sx-20-share-ai-skills-with-your-team-through-a-dropbox-folder.md

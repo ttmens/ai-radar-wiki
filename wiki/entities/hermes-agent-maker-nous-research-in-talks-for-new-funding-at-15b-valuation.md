@@ -1,0 +1,27 @@
+---
+title: Hermes agent maker Nous Research in talks for new funding at $1.5B valuation
+created: 2026-07-14
+updated: 2026-07-14
+type: entity
+pillar: business
+pm_score: 0.48
+tags: ["news", "techcrunch", "business"]
+sources: ["raw/techcrunch/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-15b-valuation.json"]
+---
+
+# Hermes agent maker Nous Research in talks for new funding at $1.5B valuation
+
+## 中文摘要
+Nous Research 作为 Hermes 智能体（Agent）的开发者，正在洽谈新一轮融资，估值达 15 亿美元，本轮融资至少 7500 万美元，由 Robot Ventures 领投，USV 等知名机构参投。对 AI 产品经理而言，这标志着 AI Agent 赛道的商业化加速与资本热度持续升温，反映出市场对自主智能体产品潜力的高度认可。同时，该融资动向可能催生更多企业投入 Agent 产品研发，推动工具链、评估标准等生态建设，产品经理需关注 Agent 在任务自动化、人机协作场景中的落地机会。
+
+## PM 关注指标
+- 🎯 PM Score: 0.48
+- 🏷️ Pillar: business
+- 🔑 Keywords: funding, valuation
+
+## 新闻摘要
+The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.
+
+## 链接
+- 🔗 Source: https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/
+- 📅 Published: Mon, 13 Jul 2026 23:31:18 +0000

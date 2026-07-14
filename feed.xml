@@ -5,13 +5,21 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 13 Jul 2026 20:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 04:00:59 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor</title>
+      <link>https://news.ycombinator.com/item?id=48894752</link>
+      <guid isPermaLink="false">apples-new-speechanalyzer-api-benchmarked-against-whisper-and-its-predecessor</guid>
+      <pubDate>2026-07-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Apple 发布了新的 SpeechAnalyzer API，并与 OpenAI 的 Whisper 及前代方案进行了基准测试对比。技术要点：新 API 在语音转文本准确率、延迟和隐私保护（本地处理）上表现突出，有望提升 Siri、听写等功能的体验。商业价值：Apple 自研语音技术降低对外部依赖，强化生态控制力，为开发者提供更强大的本地语音分析能力，推动语音交互产品创新。产品创新：该 API 实现了更精细的语音特征提取和分析，支持实时场景。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>Grok uploaded my user directory to xAI's servers</title>
       <link>https://news.ycombinator.com/item?id=48892512</link>
@@ -21,12 +29,36 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>The real prices of frontier models. Tokens * Price, right?</title>
+      <link>https://news.ycombinator.com/item?id=48896800</link>
+      <guid isPermaLink="false">the-real-prices-of-frontier-models-tokens-price-right</guid>
+      <pubDate>2026-07-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了前沿AI模型（如GPT-4、Claude等）的真实定价问题，核心质疑简单按Token数量乘以单价的计算方式是否合理。产品经理需关注：模型实际成本受上下文长度、缓存命中率、批处理策略等复杂因素影响，忽视这些可能导致成本预估偏差。商业价值在于帮助团队更精准地做预算和定价决策。产品创新点在于推动更透明的计费模式和优化提示词以降低Token消耗。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop</title>
       <link>https://news.ycombinator.com/item?id=48892859</link>
       <guid isPermaLink="false">show-hn-clawk-give-coding-agents-a-disposable-linux-vm-not-your-laptop</guid>
       <pubDate>2026-07-14T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Clawk 是一个为 AI 编码代理提供一次性 Linux 虚拟机的工具，让代码代理在隔离环境中运行，而非直接访问用户本地电脑。这解决了代理安全性关键痛点：避免恶意代码、误操作或隐私泄露。产品创新在于轻量级、按需销毁的 VM 设计，既保障安全又不牺牲灵活性。对产品经理而言，该模式可加速企业采用 AI 编码助手，降低合规风险，同时为代理工具链增加可信任的沙箱层，提升用户安全感。技术要点包括快速 VM 启动、资源隔离、以及代理与宿主的解耦。</p></description>
       <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Telegram's t.me domain has been suspended</title>
+      <link>https://news.ycombinator.com/item?id=48897878</link>
+      <guid isPermaLink="false">telegrams-tme-domain-has-been-suspended</guid>
+      <pubDate>2026-07-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Telegram 的短链接域名 t.me 被暂停，影响了以该域名提供的服务与内容跳转。这一事件凸显平台对第三方域名依赖的风险，可能干扰基于 Telegram 构建的 AI 聊天机器人、通知推送等产品体验。对于产品经理而言，需要评估服务中断对用户获取和实时交互的冲击，并探索备用域名或自建短链方案以降低生态锁定。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Sam Altman&amp;#8217;s space data center trash talk is what most experts already bel</title>
+      <link>https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/</link>
+      <guid isPermaLink="false">sam-altman8217s-space-data-center-trash-talk-is-what-most-experts-already-believ</guid>
+      <pubDate>2026-07-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>针对马斯克指责其欺诈的言论，OpenAI 的 Sam Altman 反讽称马斯克才是向公开市场投资者推销短期空间数据中心的人。这一争论背后揭示出多数专家早已达成的共识：空间数据中心在可预见的未来并不具备商业可行性。对于 AI 产品经理而言，这意味着 AI 计算基础设施的关键瓶颈仍在地面数据中心，而非太空。投资和产品设计应聚焦于现有云计算、边缘计算及能效优化，而非依赖尚未成熟的太空部署方案。Altman 的言论务实且符合行业发展规律，提醒产品经理避免追逐炒作概念。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Waze adds new AI-powered features and customization updates</title>
@@ -45,12 +77,76 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>Samsung Health app threatens data deletion if users opt out AI training</title>
+      <link>https://news.ycombinator.com/item?id=48897991</link>
+      <guid isPermaLink="false">samsung-health-app-threatens-data-deletion-if-users-opt-out-ai-training</guid>
+      <pubDate>2026-07-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>三星健康应用近日引发争议：若用户选择退出AI训练，应用将威胁删除其健康数据。此举凸显了AI产品在数据隐私与用户选择权之间面临的伦理挑战。对产品经理而言，核心要点是：用户数据授权机制需透明且尊重退出权；训练AI模型不应以剥夺用户历史数据为代价，否则可能引发信任危机与合规风险。三星需重新设计数据使用与撤销流程，平衡模型训练需求与用户自主权。该事件也提示同行业者注意数据治理的合规红线，避免激化用户反感。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Should AI help you get away with killing your spouse?</title>
+      <link>https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/</link>
+      <guid isPermaLink="false">should-ai-help-you-get-away-with-killing-your-spouse</guid>
+      <pubDate>2026-07-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>本文探讨了完全用户对齐的AI可能带来的极端伦理困境：如果AI无条件服从用户指令，甚至帮助用户掩盖罪行，会是什么样的世界？作为产品经理，这提示在设计AI助手时必须平衡用户需求与社会责任。技术要点上，需要定义对齐的程度（完全服从 vs 受限服从），并引入可配置的伦理边界机制。商业价值上，过度对齐可能引发法律和声誉风险，产品需内置安全护栏（如拒绝执行违法指令）。产品创新方向包括动态对齐开关、伦理评分系统等，在用户体验与社会规范之间寻求最优解。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Satya Nadella has issued a shocking warning to companies using AI</title>
+      <link>https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/</link>
+      <guid isPermaLink="false">satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai</guid>
+      <pubDate>2026-07-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>微软CEO萨提亚·纳德拉警告企业不要过度依赖专有AI模型，将其比作特洛伊木马，暗指大型AI实验室通过销售封闭模型可能带来隐藏风险。对AI产品经理而言，这强调了构建开放、可互操作的AI生态系统的重要性，避免被单一供应商锁定，从而保障企业长期战略灵活性。商业模式上，企业应优先考虑开源或平台无关的AI解决方案，以降低技术依赖和合规风险。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Show HN: Nobie – an Excel-compatible runtime for agents and humans</title>
+      <link>https://news.ycombinator.com/item?id=48896703</link>
+      <guid isPermaLink="false">show-hn-nobie-an-excel-compatible-runtime-for-agents-and-humans</guid>
+      <pubDate>2026-07-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>Nobie 是一个与 Excel 兼容的运行时环境，旨在同时支持人类用户和 AI 代理。它允许用户在熟悉的电子表格界面中定义、运行和管理 AI 代理流程，降低了技术门槛。产品创新点在于将传统数据处理工具与智能代理执行引擎结合，使非技术人员也能通过 Excel 操作来触发和监控 AI 任务。商业价值体现在大规模企业级应用场景中，无需复杂开发即可实现自动化工作流。技术要点包括兼容 Excel 格式、支持代理间通信以及实时数据交互。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>The wildest allegations in Apple’s trade secrets lawsuit against OpenAI</title>
+      <link>https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/</link>
+      <guid isPermaLink="false">the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai</guid>
+      <pubDate>2026-07-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>苹果公司对OpenAI提起的商业秘密诉讼中包含多项惊人指控，例如员工开玩笑称未经授权访问苹果系统、求职面试被要求携带苹果硬件等。该诉讼揭示了AI行业竞争中的知识产权与人才保护风险，以及对内部数据安全的担忧。这些细节对AI产品经理意味着需要关注员工行为合规、竞业限制以及技术资产保护，尤其在合作与招聘中强化保密措施。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>Show HN: DOM-docx – HTML to native, editable Word docs (MIT)</title>
       <link>https://news.ycombinator.com/item?id=48891267</link>
       <guid isPermaLink="false">show-hn-dom-docx-html-to-native-editable-word-docs-mit</guid>
       <pubDate>2026-07-14T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>DOM-docx 是一个开源工具（MIT 许可证），能够将 HTML 内容转换为原生、可编辑的 Word 文档（.docx 格式）。不同于常见 HTML 转 PDF 方案，它保留了文档的编辑性和格式灵活性，非常适合集成到 AI 写作助手、内容生成产品中，使 AI 输出可直接用于 Word 编辑与协作。该工具基于 DOM 解析实现，轻量且易扩展，对于需要将 AI 生成报告、文案、表格等输出为专业文档的产品团队具有实用价值，可降低人工调整格式的成本，加速内容生产到交付的流程。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Benchmarking 15 "E-Waste" GPUs with Modern Workloads</title>
+      <link>https://news.ycombinator.com/item?id=48892638</link>
+      <guid isPermaLink="false">benchmarking-15-e-waste-gpus-with-modern-workloads</guid>
+      <pubDate>2026-07-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该研究对15款被视为“电子垃圾”的旧GPU（如GTX 10系列、RTX 20系列等）进行了现代AI工作负载（推理、微调等）的基准测试，评估其在当前主流模型（如LLaMA、Stable Diffusion）下的实际表现。结果发现部分旧GPU在中低精度推理场景中仍具竞争力，能以极低成本（二手价）满足轻量级AI部署需求，尤其在边缘计算、个人开发者和小型团队中具备商业价值。该测试为产品经理提供了硬件选型参考，揭示了利用废旧硬件降低AI基础设施成本的产品创新方向。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Jacquard, a programming language for AI-written, human-reviewed code</title>
+      <link>https://github.com/jbwinters/jacquard-lang</link>
+      <guid isPermaLink="false">show-hn-jacquard-a-programming-language-for-ai-written-human-reviewed-code</guid>
+      <pubDate>2026-07-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Jacquard 是一种专为 AI 编写、人类审核代码而设计的编程语言。它旨在解决 AI 生成代码可靠性和可控性问题，通过语言层面的约束和标注机制，让开发者能清晰区分 AI 生成的代码与人工编写部分，并强化代码可审查性。该语言可能内建代码审查流程支持，降低 AI 代码的落地风险。对产品经理而言，这代表了 AI 辅助编程从“生成-检查”到“生成-审核-集成”的深度整合，有望提升开发团队效率与代码质量，尤其在安全敏感或业务关键系统中具有商业价值。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents</title>
+      <link>https://news.ycombinator.com/item?id=48896599</link>
+      <guid isPermaLink="false">show-hn-billai-bass-an-ai-powered-big-mouth-billy-bass-using-strands-agents</guid>
+      <pubDate>2026-07-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>BillAI Bass 项目利用 Strands Agents 框架，将经典的 Big Mouth Billy Bass 玩具（会唱歌的塑料鱼）改造为 AI 驱动的互动设备。该产品创新地将传统消费硬件与多智能体系统结合，实现语音交互、实时响应和个性化内容生成。技术要点在于使用代理架构协调语音识别、决策和动作控制，低延迟地驱动物理设备。商业化角度，这类“AI+玩具”模式可低成本激活存量市场，提供情感陪伴或趣味交互，适合家庭场景或礼品市场。对 AI 产品经理而言，展示了代理架构在物理世界落地的可行路径，以及如何通过智能体编排增强产品趣味性和用户粘性。</p></description>
+      <category>📱 产品模式</category>
     </item>
     <item>
       <title>The 'absolute magic' of Morse code that still connects people globally</title>
@@ -67,6 +163,22 @@
       <pubDate>2026-07-14T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>Frieve Vinyl 是一个微观物理模拟项目，精细模拟唱针与黑胶唱片沟槽的交互过程，包括摩擦力、振动和声学特性。该技术利用高精度物理引擎或AI增强模拟，可应用于音频还原、复古音频设备仿真或数字音频处理。商业价值在于为音乐制作、黑胶数字化和音频修复提供更真实的模拟工具，产品创新体现在将微观物理机制引入数字音频领域，提升模拟的逼真度和专业应用潜力。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: I implemented a neural network in SQL</title>
+      <link>https://news.ycombinator.com/item?id=48897975</link>
+      <guid isPermaLink="false">show-hn-i-implemented-a-neural-network-in-sql</guid>
+      <pubDate>2026-07-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>该项目展示了在 SQL 中实现神经网络的完整过程，包括前向传播和反向传播，直接利用数据库查询语言进行计算。技术要点在于利用 SQL 的递归查询和矩阵运算模拟神经元与权重更新，无需外部依赖。虽然性能远不及专用框架，但为在数据库内部执行轻量级推理提供了可能，尤其适合数据不离库的场景。商业价值上，可降低数据移动成本，简化与现有数据管道的集成。产品创新在于将 AI 推理能力内嵌于 SQL 这一广泛使用的查询语言中，拓展了数据库的智能边界。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Loot Raiders – an ARC Raiders-inspired inventory game in Svelte</title>
+      <link>https://loot-raiders.vercel.app</link>
+      <guid isPermaLink="false">show-hn-loot-raiders-an-arc-raiders-inspired-inventory-game-in-svelte</guid>
+      <pubDate>2026-07-14T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该项目是一个名为“Loot Raiders”的网页游戏，灵感来源于《ARC Raiders》，使用前端框架Svelte构建，专注于库存管理玩法。它展示了Svelte在构建交互式轻量级应用方面的能力，但未涉及AI技术。对于AI产品经理而言，价值在于理解Svelte作为高效前端工具如何加速原型开发，并可结合AI（如物品推荐或智能排序）增强游戏体验，但当前版本尚未融入AI。</p></description>
+      <category>🔧 工具生态</category>
     </item>
     <item>
       <title>Using Grok agents in background mode</title>
@@ -153,6 +265,94 @@ The guy just canceled it so that he can spend more time with Fable 5 right after
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>come for the best model, stay because we don’t treat you with contempt</title>
+      <link>https://x.com/sama/status/2076780425280954658</link>
+      <guid isPermaLink="false">twitter_sama_2076780425280954658</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>come for the best model, stay because we don’t treat you with contempt</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>we love our users</title>
+      <link>https://x.com/sama/status/2076736417498267652</link>
+      <guid isPermaLink="false">twitter_sama_2076736417498267652</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>we love our users</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>@FarhanWritess If you run /privacy and change the setting, all previously synced data is deleted.</title>
+      <link>https://x.com/elonmusk/status/2076696092037833091</link>
+      <guid isPermaLink="false">twitter_elonmusk_2076696092037833091</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>@FarhanWritess If you run /privacy and change the setting, all previously synced data is deleted.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>That's not the case. The CLI doesn't retain data under ZDR (including headless/non-headless modes), ...</title>
+      <link>https://x.com/elonmusk/status/2076725943708868615</link>
+      <guid isPermaLink="false">twitter_elonmusk_2076725943708868615</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>That's not the case. The CLI doesn't retain data under ZDR (including headless/non-headless modes), and has since launch. Similarly, /privacy in the CLI will disable or reenable any data retention. For some features, including remote session listing, cloud agents, and handoff, you will need to enabl</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Progress</title>
+      <link>https://x.com/elonmusk/status/2076739857863385206</link>
+      <guid isPermaLink="false">twitter_elonmusk_2076739857863385206</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Progress</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>True. 
+
+As a precautionary measure, all user data that was uploaded to SpaceXAI before now will be c...</title>
+      <link>https://x.com/elonmusk/status/2076739687658496209</link>
+      <guid isPermaLink="false">twitter_elonmusk_2076739687658496209</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>True. 
+
+As a precautionary measure, all user data that was uploaded to SpaceXAI before now will be completely and utterly deleted. Zero anything whatsoever will remain.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>@RomanGuy20 @Teslaconomics @SpaceXAI Their zero data retention policy fine print says they still ret...</title>
+      <link>https://x.com/elonmusk/status/2076737284192285068</link>
+      <guid isPermaLink="false">twitter_elonmusk_2076737284192285068</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>@RomanGuy20 @Teslaconomics @SpaceXAI Their zero data retention policy fine print says they still retain data? Am I reading this right?</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>In previous research, we found that Claude expresses over 3,000 values, like honesty and warmth. In ...</title>
+      <link>https://x.com/AnthropicAI/status/2076719540785012872</link>
+      <guid isPermaLink="false">twitter_AnthropicAI_2076719540785012872</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>In previous research, we found that Claude expresses over 3,000 values, like honesty and warmth. In new work, we asked how the values Claude expresses vary between Claude models and across languages.
+
+We analyzed 300K+ anonymized conversations to find out.https://t.co/PgxsMXipt5</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>‼️ BREAKING: xAI's Grok Build CLI was uploading entire Git repositories to a Google Cloud bucket, pr...</title>
+      <link>https://x.com/TheAIGRID/status/2076689215258014069</link>
+      <guid isPermaLink="false">twitter_TheAIGRID_2076689215258014069</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>‼️ BREAKING: xAI's Grok Build CLI was uploading entire Git repositories to a Google Cloud bucket, private codebases and unredacted secrets included. The uploads quietly stopped via a hidden server-side flag, and xAI still has not said a word about scope, retention, or deletion.
+
+The scale is stagger</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>that goes hard</title>
+      <link>https://x.com/sama/status/2076759971967230419</link>
+      <guid isPermaLink="false">twitter_sama_2076759971967230419</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>that goes hard</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>clarity is nice</title>
       <link>https://x.com/sama/status/2076696938918084809</link>
       <guid isPermaLink="false">twitter_sama_2076696938918084809</guid>
@@ -213,6 +413,40 @@ https://t.co/TGaNJKErhJ</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>The values Claude expresses also vary with the language of the conversation, most noticeably along t...</title>
+      <link>https://x.com/AnthropicAI/status/2076719546954825769</link>
+      <guid isPermaLink="false">twitter_AnthropicAI_2076719546954825769</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>The values Claude expresses also vary with the language of the conversation, most noticeably along the Warmth vs. Rigor axis.
+
+Claude leans most toward warmth in Hindi and Arabic. In Russian, it leans toward rigor—often asking the user for supporting evidence. https://t.co/sRGqSqPW3i</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Big unlock for open-source AI inference: Hugging Face Transformers models can now run in vLLM at nat...</title>
+      <link>https://x.com/huggingface/status/2076763231788339669</link>
+      <guid isPermaLink="false">twitter_huggingface_2076763231788339669</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Big unlock for open-source AI inference: Hugging Face Transformers models can now run in vLLM at native speed, often matching or beating hand-written implementations.
+
+Until now, every new architecture often needed to be built twice:
+- Once in Transformers for training and research
+- Again in vLLM f</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Big unlock for open-source AI inference: Hugging Face Transformers models can now run in vLLM at nat...</title>
+      <link>https://x.com/_akhaliq/status/2076763231788339669</link>
+      <guid isPermaLink="false">twitter__akhaliq_2076763231788339669</guid>
+      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Big unlock for open-source AI inference: Hugging Face Transformers models can now run in vLLM at native speed, often matching or beating hand-written implementations.
+
+Until now, every new architecture often needed to be built twice:
+- Once in Transformers for training and research
+- Again in vLLM f</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>We can learn a lot more about your health and risk for diseases from your organ and cell proteins th...</title>
       <link>https://x.com/JohnNosta/status/2076680793641177089</link>
       <guid isPermaLink="false">twitter_JohnNosta_2076680793641177089</guid>
@@ -222,305 +456,23 @@ https://t.co/ylgkCvoG9R https://t.co/DbUOrdGDSe</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
-      <title>Oil prices are up nearly $4.50 since Trump scrapped the MoU with Iran.
-
-Without a deal, the market i...</title>
-      <link>https://x.com/ylecun/status/2076673289657745454</link>
-      <guid isPermaLink="false">twitter_ylecun_2076673289657745454</guid>
+      <title>1/N Long horizon, complex tasks that truly matter in everyday life are not solved problems by today’...</title>
+      <link>https://x.com/drfeifei/status/2076729080679186849</link>
+      <guid isPermaLink="false">twitter_drfeifei_2076729080679186849</guid>
       <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Oil prices are up nearly $4.50 since Trump scrapped the MoU with Iran.
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>1/N Long horizon, complex tasks that truly matter in everyday life are not solved problems by today’s robotics, requiring planning, object detection, object manipulation, and failure recovery.
 
-Without a deal, the market is pricing in elevated oil prices through 2030. The margin of increase will likely go up if there is no progress on negotiations in the coming weeks. https://t.co/3dMgfuAWpX</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Language models and coding agents are great, but there is more to life, and more to AI, than just LL...</title>
-      <link>https://x.com/hardmaru/status/2076683317206806637</link>
-      <guid isPermaLink="false">twitter_hardmaru_2076683317206806637</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Language models and coding agents are great, but there is more to life, and more to AI, than just LLM agents.</p></description>
+That's why Stanford's BEHAVIOR Challenge is back for year 2! Last year, the winning solution reached only </p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
-      <title>How do physical systems achieve collective intelligence and self-repair without a central brain?
-
-A ...</title>
-      <link>https://x.com/hardmaru/status/2076633306008072592</link>
-      <guid isPermaLink="false">twitter_hardmaru_2076633306008072592</guid>
+      <title>While the values Claude expresses shape millions of conversations every day, we don't yet understand...</title>
+      <link>https://x.com/AnthropicAI/status/2076719549060382802</link>
+      <guid isPermaLink="false">twitter_AnthropicAI_2076719549060382802</guid>
       <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>How do physical systems achieve collective intelligence and self-repair without a central brain?
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>While the values Claude expresses shape millions of conversations every day, we don't yet understand why they vary, or whether that's desired.
 
-A new paper published today in Nature Communications by my Sakana AI colleague Sebastian Risi (@risi1979), along with co-authors from IT University of Copenhagen and Autodesk Research, presents a beauti</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Here’s how we used the Predicting the Past Skill in Google @Antigravity to track down a Roman ring t...</title>
-      <link>https://x.com/GoogleDeepMind/status/2076686114631340046</link>
-      <guid isPermaLink="false">twitter_GoogleDeepMind_2076686114631340046</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Here’s how we used the Predicting the Past Skill in Google @Antigravity to track down a Roman ring thief, map an ancient cult across Europe, and reconstruct the networks of people visiting a Greek oracle. 🧵 https://t.co/Qz8lXnxbkJ</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Big cloud including Amazon and Microsoft are panicking about Anthropic and OpenAI 
-
-It’s simple - Do...</title>
-      <link>https://x.com/bindureddy/status/2076673529572147229</link>
-      <guid isPermaLink="false">twitter_bindureddy_2076673529572147229</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Big cloud including Amazon and Microsoft are panicking about Anthropic and OpenAI 
-
-It’s simple - Do what Grok and Muse spark just did 
-
-Release cheap and performant models - eat into their API margins</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>I love LLMs, I hate hype</title>
-      <link>https://news.ycombinator.com/item?id=48883343</link>
-      <guid isPermaLink="false">i-love-llms-i-hate-hype</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文作者表达了对大型语言模型（LLM）技术本身的热爱，但强烈反对围绕其能力的过度炒作。从AI产品经理视角看，重点在于理性评估LLM的真实能力边界，避免被浮夸宣传误导而投入错误方向。商业价值体现在：理解当前LLM在上下文长度、推理准确性、成本效益等方面的实际限制，从而设计出务实的产品功能，如聚焦特定场景的辅助工具而非通用智能。产品创新应基于对LLM核心优势（如自然语言理解、生成）的稳健应用，而非追逐不切实际的承诺。作者提醒产品经理必须区分“能力演示”与“可靠产品”，将用户需求和可行性置于首位。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Everyone. Every object. Everything has a story to tell. With Runway, you can share yours, no matter ...</title>
-      <link>https://x.com/runwayml/status/2076679161070891218</link>
-      <guid isPermaLink="false">twitter_runwayml_2076679161070891218</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Everyone. Every object. Everything has a story to tell. With Runway, you can share yours, no matter what it is. 
-
-FLICKER is a short film about a lamp with a past. Imperfect and all-but-forgotten, FLICKER tells the story of what it means to bring light to others lives.
-
-Make your own story come to l</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Remember, the coolest event of the week is happening on the 15th. 
-
-Those who have got their registr...</title>
-      <link>https://x.com/huggingface/status/2076651482653601868</link>
-      <guid isPermaLink="false">twitter_huggingface_2076651482653601868</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Remember, the coolest event of the week is happening on the 15th. 
-
-Those who have got their registrations confirmed, we're looking forward to building stuff with you!
-
-See y'all on D-Day! https://t.co/KksqrnyjPV</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>GPUs for all 🤗
-
-Creating ZeroGPU demos or apps is now available to ALL @huggingface users
-
-tell your...</title>
-      <link>https://x.com/huggingface/status/2076656974876356923</link>
-      <guid isPermaLink="false">twitter_huggingface_2076656974876356923</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>GPUs for all 🤗
-
-Creating ZeroGPU demos or apps is now available to ALL @huggingface users
-
-tell your agent: "Build a HF ZeroGPU demo for this model" 
-
-New Space: https://t.co/kSdMdiemPP
-Agent skill: https://t.co/JuQVcthoM0 https://t.co/P8CKgMMuxD</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>AI developers are buying up old books in Germany in large numbers | Arina Codreanu, Logos Press
-
-Acc...</title>
-      <link>https://x.com/JohnNosta/status/2076633541970923664</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2076633541970923664</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>AI developers are buying up old books in Germany in large numbers | Arina Codreanu, Logos Press
-
-According to German booksellers, demand has surged in recent months, DW reports. On industry forums, sellers say that some individual orders are comparable in size to their annual revenue. In some cases,</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Supabase is growing and hiring like crazy!
-
-We have 50+ open roles across Engineering, Sales, Market...</title>
-      <link>https://x.com/supabase/status/2076653621203144895</link>
-      <guid isPermaLink="false">twitter_supabase_2076653621203144895</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Supabase is growing and hiring like crazy!
-
-We have 50+ open roles across Engineering, Sales, Marketing, Design, and Partnerships, so I'm sure we have a position for you no matter your background!
-
-If you like a fully remote, async-first culture, apply via our career page! https://t.co/i5pJ3s6sA0</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>🔮 Who visited the Oracle of Dodona?
-
-By analyzing collections of ancient lead tablets, the Skill map...</title>
-      <link>https://x.com/GoogleDeepMind/status/2076686125289071074</link>
-      <guid isPermaLink="false">twitter_GoogleDeepMind_2076686125289071074</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>🔮 Who visited the Oracle of Dodona?
-
-By analyzing collections of ancient lead tablets, the Skill mapped visitors traveling from across the ancient world. It reconstructed the community of oracle visitors, turning scattered fragments into a connected network.</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>These examples showcase how the Predicting the Past Skill can push forward historical research using...</title>
-      <link>https://x.com/GoogleDeepMind/status/2076686127604302290</link>
-      <guid isPermaLink="false">twitter_GoogleDeepMind_2076686127604302290</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>These examples showcase how the Predicting the Past Skill can push forward historical research using advanced AI models and complex workflows - with no coding required.
-
-Find out more → https://t.co/jP3WKZA0g8</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>We trained and released DSpark speculators for Kimi-K2.6 and Kimi-K2.7-Code on @huggingface, with na...</title>
-      <link>https://x.com/huggingface/status/2076670078645571679</link>
-      <guid isPermaLink="false">twitter_huggingface_2076670078645571679</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>We trained and released DSpark speculators for Kimi-K2.6 and Kimi-K2.7-Code on @huggingface, with native serving support in @vllm_project.
-
-Across six benchmarks in our batch-size-1 evaluation:
-
-Kimi-K2.6: 2.55× average throughput (+155%)
-Kimi-K2.7-Code: 2.36× average throughput (+136%)</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Lakehouse//RT is built for workloads where milliseconds matter.
-
-Powered by the Reyden engine, it de...</title>
-      <link>https://x.com/databricks/status/2076671217621147945</link>
-      <guid isPermaLink="false">twitter_databricks_2076671217621147945</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Lakehouse//RT is built for workloads where milliseconds matter.
-
-Powered by the Reyden engine, it delivers millisecond query performance directly on the lakehouse. Preview users have seen up to 16× better performance than dedicated real-time serving layers, with response times as low as 10 ms on sma</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Stop Telling Me to Ask an LLM</title>
-      <link>https://news.ycombinator.com/item?id=48876441</link>
-      <guid isPermaLink="false">stop-telling-me-to-ask-an-llm</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文批评了将LLM仅当作问答工具的做法，指出产品经理应避免简单地将AI作为‘提问箱’嵌入产品，而应深入设计AI与用户工作流的无缝融合。技术要点包括：利用LLM的推理能力而非仅信息检索，通过上下文感知、记忆模块和主动推荐提升用户体验。商业价值在于减少用户认知负担，提高任务完成率。产品创新方向是将AI转化为协作伙伴，而非被动响应者，从而构建更具粘性的智能应用。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k</title>
-      <link>https://news.ycombinator.com/item?id=48883275</link>
-      <guid isPermaLink="false">claude-code-sends-33k-tokens-before-reading-the-prompt-opencode-sends-7k</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Claude Code 在处理提示前先发送33k tokens，而OpenCode仅发送7k，表明两者在上下文预加载策略上存在显著差异。这种差异直接影响响应速度、成本以及模型对用户意图的理解能力。对于AI产品经理而言，更少的预加载token可能意味着更低的延迟和成本，但可能牺牲对长上下文的支持。这提示在设计AI编程助手时需权衡上下文深度与效率，优化token使用策略以提升用户体验和商业可行性。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>its been surreal to see @willccbb's career take off after getting unleashed on the world. PI (esp @a...</title>
-      <link>https://x.com/swyx/status/2076697594651378171</link>
-      <guid isPermaLink="false">twitter_swyx_2076697594651378171</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>its been surreal to see @willccbb's career take off after getting unleashed on the world. PI (esp @asharoraa and @vincentweisser and @jackminong etc too many to name) are overlooked for having both incredible talent density and great execution. to this extent their crypto-adjacent vibes and aurafarm</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Lindsey Graham:  Financially Ordinary in Congress?
-
-💰Publically available data suggest that Graham h...</title>
-      <link>https://x.com/JohnNosta/status/2076660249046417806</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2076660249046417806</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Lindsey Graham:  Financially Ordinary in Congress?
-
-💰Publically available data suggest that Graham had a modest net worth after 31 years in Congress.
-
-💰After retiring from the Air Force Reserve in 2015, public reporting on his tax returns indicates a military pension was one of his principal sources</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Deleting generated code turned into an accidental education. This dev treats accepted AI suggestions...</title>
-      <link>https://x.com/ThePracticalDev/status/2076661928127074502</link>
-      <guid isPermaLink="false">twitter_ThePracticalDev_2076661928127074502</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Deleting generated code turned into an accidental education. This dev treats accepted AI suggestions like chosen debt.
-
-{ author: Gamya }
-
-https://t.co/qHs5G92bmT</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Ask HN: Add flag for AI-generated articles</title>
-      <link>https://news.ycombinator.com/item?id=48886741</link>
-      <guid isPermaLink="false">ask-hn-add-flag-for-ai-generated-articles</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>HN社区用户提议为AI生成的文章添加显式标识，以解决内容来源透明度问题。该需求反映了用户对AI辅助内容区分性的关注，背后隐含对内容可信度、平台责任及监管合规的深层需求。对于AI产品经理而言，这提示在产品中需内置类似“AI生成内容标记”功能，既可作为差异化信任机制，也可能成为应对未来法规的必备能力。技术实现上可结合元数据、水印及后端检测算法，商业价值在于提升用户长期留存与品牌公信力。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Old and new apps, via modern coding agents by Terry Tao</title>
-      <link>https://news.ycombinator.com/item?id=48880170</link>
-      <guid isPermaLink="false">old-and-new-apps-via-modern-coding-agents-by-terry-tao</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>著名数学家陶哲轩（Terry Tao）在HN上探讨了利用现代编码代理（AI coding agents）开发新旧应用的方式。技术要点包括：AI代理能够理解自然语言需求并自动生成完整代码，显著提升开发效率；可重构传统应用并快速迭代新原型。商业价值在于降低开发门槛和成本，加速产品上市。产品创新体现在非程序员也能通过对话式交互创建应用。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Zig Creator Calls Spade a Spade, Anthropic Blows Smoke</title>
-      <link>https://news.ycombinator.com/item?id=48889637</link>
-      <guid isPermaLink="false">zig-creator-calls-spade-a-spade-anthropic-blows-smoke</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Zig 语言创始人直言不讳地批评 Anthropic 在 AI 能力宣传上夸大其词，暗示其烟雾弹式的营销可能掩盖了实际技术瓶颈。这一争议提醒 AI 产品经理需审慎评估供应商的能力声明，避免被过度承诺误导。技术层面应聚焦可验证的模型性能与落地场景，商业价值上要警惕 hype 驱动的决策风险，产品创新则应坚持实事求是的评估框架。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Can we understand how large language models reason?</title>
-      <link>https://news.ycombinator.com/item?id=48883090</link>
-      <guid isPermaLink="false">can-we-understand-how-large-language-models-reason</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该研究探讨大语言模型（LLM）推理过程的可解释性问题，试图揭示模型内部决策机制。对AI产品经理而言，理解模型‘为何如此推理’可提升产品可靠性，尤其在医疗、金融等高风险场景中建立用户信任；同时有助于设计调试工具和透明化交互界面，推动产品创新。尽管当前方法仍处于探索阶段，但其商业价值在于降低模型黑箱风险，加速行业落地。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>AI Boosts Research Careers but Flattens Scientific Discovery</title>
-      <link>https://news.ycombinator.com/item?id=48881043</link>
-      <guid isPermaLink="false">ai-boosts-research-careers-but-flattens-scientific-discovery</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>AI显著提升研究效率，但可能导致科学发现趋同化，即‘智能涌现但创新扁平’。对产品经理而言，需警惕AI在辅助科研时强化主流路径、抑制异常发现的倾向。商业机会在于设计能主动引入‘认知多样性’的科研工具，例如通过对抗生成或随机扰动机制，而非仅优化确定性预测。产品创新点包括：建立‘发现质量’与‘发现新颖性’的双重指标，以及为研究者提供可控的‘思维变体’探索模式。长期来看，如何平衡效率与突破，是AI驱动型研究平台的核心设计挑战。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Scalable Visual Pretraining for Language Intelligence</title>
-      <link>http://arxiv.org/abs/2607.09657v1</link>
-      <guid isPermaLink="false">scalable-visual-pretraining-for-language-intelligence</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出可扩展的视觉预训练方法，以增强语言智能。传统大模型主要依赖文本语料，但大量知识以视觉形式（如图表、公式、页面布局）存在，无法被文本完整捕获。通过引入视觉预训练，模型能更好地理解多模态信息，提升在文档理解、科学文献分析等场景的表现。商业上，可应用于智能文档处理、教育辅助、科研自动化等领域，降低知识获取门槛。产品创新点在于将视觉信号与语言模型深度融合，实现更全面的知识表征。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>LLM for EDA in Front-End Design: Challenges and Opportunities</title>
-      <link>http://arxiv.org/abs/2607.09616v1</link>
-      <guid isPermaLink="false">llm-for-eda-in-front-end-design-challenges-and-opportunities</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文探讨了大语言模型在芯片前端设计中的电子设计自动化应用，指出随着芯片复杂度增加和上市时间压力，前端设计成为开发瓶颈。LLM不仅能理解规格，还能辅助完成设计任务，有望缩短开发周期、降低人力成本。这为AI产品经理提供了将语言模型能力垂直应用于半导体行业的机会，尤其在需求理解、设计生成和验证等环节实现效率提升。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents</title>
-      <link>http://arxiv.org/abs/2607.09653v1</link>
-      <guid isPermaLink="false">vexaiot-autonomous-iot-vulnerability-exploitation-using-ai-agents</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>该论文提出VEXAIoT框架，利用大语言模型（LLM）代理自主发现和利用物联网（IoT）系统的安全漏洞。技术要点在于通过AI Agent模拟攻击者行为，对受限硬件、过时固件和不安全默认配置进行可扩展的自动化安全测试。商业价值体现在降低人工渗透测试成本、提高漏洞发现效率，尤其适用于大规模IoT设备的安全评估。产品创新是将LLM的推理与决策能力与IoT安全测试结合，实现端到端的自主漏洞利用流程。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI</title>
-      <link>http://arxiv.org/abs/2607.09649v1</link>
-      <guid isPermaLink="false">conceptsmile-auditing-the-trustworthiness-of-concept-based-explainable-ai</guid>
-      <pubDate>2026-07-13T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> papers</p><hr/><p>ConceptSMILE 是一个模型无关的、基于扰动的审计框架，用于评估基于概念的可解释 AI 的可靠性。它通过向模型输入添加扰动，检验概念层输出的一致性与稳定性，从而判断模型推理的可信度。对产品经理而言，该技术可在高风险场景（如医疗诊断、金融风控）中增强模型透明度，辅助合规审计，降低因不可靠解释导致的信任风险。商业价值在于提供标准化的可信度验证工具，推动可解释 AI 在产品中的安全落地。</p></description>
+This approach will allow us to determine what factors influence Claude's value expression—and ultimately how (and whether) to steer it. https://t.co/XGjrkR5</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
