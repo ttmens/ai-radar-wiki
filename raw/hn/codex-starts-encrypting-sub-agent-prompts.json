@@ -1,0 +1,26 @@
+{
+  "title": "Codex starts encrypting sub-agent prompts",
+  "score": 359,
+  "comments": 218,
+  "url": "https://github.com/openai/codex/issues/28058",
+  "hn_url": "https://news.ycombinator.com/item?id=48905028",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "Codex 项目开始对子代理的提示（prompts）进行加密，旨在增强多AI代理系统中的数据隐私与安全性。这一举措通过加密子代理之间的通信内容，防止敏感信息泄露，为构建更安全的协作式AI应用奠定基础。对产品经理而言，这意味着在设计涉及多个AI代理协同工作的产品时，可以引入加密机制来满足企业级安全合规需求，同时提升用户信任。该技术有望推动金融、医疗等高度隐私敏感领域的AI代理应用落地。",
+  "pm_relevance": 8,
+  "concepts": [
+    "子代理加密",
+    "AI安全通信",
+    "多代理系统隐私"
+  ],
+  "entities": [
+    "Codex"
+  ],
+  "patterns": [
+    "加密通信模式",
+    "多代理安全模式"
+  ]
+}

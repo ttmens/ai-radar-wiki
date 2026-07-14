@@ -2807,3 +2807,21 @@
 - create: indian-scientists-produce-most-detailed-3d-atlas-of-the-human-brainstem.md
 - create: building-food-metadata-with-llm-juries.md
 - create: show-hn-memstitch-zero-copy-context-bridging-for-vllm-25x-ttft-speedup.md
+
+## [2026-07-15 00:01] sync v3 | 16 new | pillars: {'patterns': 6, 'capabilities': 8, 'ecosystem': 2}
+- create: jamiepinevoicebox.md
+- create: are-we-offloading-too-much-of-our-thinking-to-ai.md
+- create: show-hn-juggler-an-open-source-gui-coding-agent-by-the-creator-of-juce.md
+- create: demis-hassabis-has-a-plan-to-harness-ai-safely.md
+- create: how-to-stop-claude-from-saying-load-bearing.md
+- create: show-hn-i-rl-trained-an-agent-that-trains-models-with-rl-for-13k.md
+- create: coding-agents-think-ahead-of-time.md
+- create: codex-starts-encrypting-sub-agent-prompts.md
+- create: proof-of-care-in-the-age-of-ai.md
+- create: openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members.md
+- create: new-york-state-halts-construction-of-all-new-data-centers.md
+- create: reflection-inks-1b-compute-deal-with-nebius.md
+- create: the-real-ai-race-may-no-longer-be-at-the-frontier.md
+- create: spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant.md
+- create: superhuman8217s-new-auto-draft-feature-almost-makes-me-like-ai-replies.md
+- create: show-hn-oodleai-10-per-million-agent-traces.md

@@ -1,0 +1,22 @@
+{
+  "title": "OpenAI mandates hardware-backed passkeys for Trusted Access Cyber members",
+  "score": 43,
+  "comments": 20,
+  "url": "https://www.yubico.com/blog/openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members-to-log-into-chatgpt-accounts/",
+  "hn_url": "https://news.ycombinator.com/item?id=48907214",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "OpenAI 强制要求其“可信访问网络安全”成员使用硬件支持的通行密钥，此举旨在增强账户安全性与抗钓鱼能力。这标志着 AI 平台从依赖软件验证转向硬件级身份认证，为产品经理提供了高安全级别的用户准入设计思路，同时引发了关于成本、用户体验与扩展性的讨论。这一举措可能成为 AI 安全产品化的新基准，推动行业向更严格的零信任架构演进。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Hardware-backed Passkeys",
+    "Trusted Access Control"
+  ],
+  "entities": [
+    "OpenAI"
+  ],
+  "patterns": [
+    "Hardware-Backed Authentication"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "title": "How to stop Claude from saying load-bearing",
+  "score": 73,
+  "comments": 133,
+  "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+  "hn_url": "https://news.ycombinator.com/item?id=48905248",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该内容讨论如何控制Claude AI助手避免使用特定词汇（如“load-bearing”），涉及提示工程和行为约束技术。产品经理可从中获取用户交互优化的思路：通过精心设计的系统提示或后处理过滤，减少AI输出的机械重复，提升对话自然度。商业价值在于提高用户满意度和产品差异化，技术要点包括上下文抑制和指令微调。",
+  "pm_relevance": 7,
+  "concepts": [
+    "AI Behavior Control",
+    "Prompt Engineering",
+    "Model Safety"
+  ],
+  "entities": [
+    "Anthropic",
+    "Claude"
+  ],
+  "patterns": [
+    "Behavioral Constraints",
+    "Prompt Engineering Pattern"
+  ]
+}
