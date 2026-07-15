@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-15 | Total pages: 2586
+> Last updated: 2026-07-15 | Total pages: 2587
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -370,6 +370,7 @@
 - [[i-love-llms-i-hate-hype.md]] I love LLMs, I hate hype `pillar:capabilities` `score:0.635`
 - [[i-think-anthropic-and-openai-have-found-product-market-fit.md]] I think Anthropic and OpenAI have found product-market fit `pillar:capabilities` `score:0.665`
 - [[i-think-i-have-llm-burnout.md]] I Think I Have LLM Burnout `pillar:capabilities` `score:0.515`
+- [[i-tricked-claude-into-leaking-your-deepest-darkest-secrets.md]] I tricked Claude into leaking your deepest, darkest secrets `pillar:capabilities` `score:0.6`
 - [[i-tried-amazon8217s-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out.md]] I tried Amazon&#8217;s Bee wearable and am both intrigued and slightly creeped o `pillar:capabilities` `score:0.48`
 - [[i-used-claude-code-to-get-a-second-opinion-on-my-mri.md]] I used Claude Code to get a second opinion on my MRI `pillar:capabilities` `score:0.63`
 - [[i-wasnt-allowed-prompting-chatgpt-during-my-chalk-talk-this-is-discrimination-20.md]] I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination `pillar:capabilities` `score:0.495`

@@ -2864,3 +2864,6 @@
 - create: openai8217s-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-mo.md
 - create: openai-pushes-back-on-apple-trade-secret-lawsuit.md
 - create: show-hn-self-hosted-voice-ai-agent-for-asteriskfreepbx.md
+
+## [2026-07-15 18:00] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: i-tricked-claude-into-leaking-your-deepest-darkest-secrets.md
