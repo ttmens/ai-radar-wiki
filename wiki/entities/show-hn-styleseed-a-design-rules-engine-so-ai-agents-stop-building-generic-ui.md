@@ -1,0 +1,25 @@
+---
+title: Show HN: StyleSeed – a design-rules engine so AI agents stop building generic UI
+created: 2026-07-16
+updated: 2026-07-16
+type: entity
+pillar: patterns
+pm_score: 0.365
+tags: ["show-hn", "product", "patterns"]
+sources: ["raw/showhn/show-hn-styleseed-a-design-rules-engine-so-ai-agents-stop-building-generic-ui.json"]
+---
+
+# Show HN: StyleSeed – a design-rules engine so AI agents stop building generic UI
+
+## 中文摘要
+StyleSeed 是一个设计规则引擎，旨在解决AI代理生成通用UI的问题。它通过定义可配置的设计规则（如品牌规范、布局约束、交互模式），使AI代理能够输出符合特定风格和业务需求的界面，而非千篇一律的模板。技术要点包括规则驱动的UI生成、与现有AI代理框架的集成，以及可扩展的规则定义语言。商业价值在于提升企业级AI代理的产品差异化、降低UI定制成本，加速落地。产品创新在于将设计系统形式化为可被AI理解的规则集，实现设计一致性与自动化的平衡。
+
+## PM 关注指标
+- 🔥 HN Score: 13
+- 💬 Comments: 1
+- 🎯 PM Score: 0.365
+- 🏷️ Pillar: patterns
+
+## 链接
+- 🔗 HN: https://news.ycombinator.com/item?id=48920888
+- 🔗 原文: https://github.com/bitjaru/styleseed

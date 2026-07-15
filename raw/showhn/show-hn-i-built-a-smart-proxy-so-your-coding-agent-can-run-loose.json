@@ -1,0 +1,24 @@
+{
+  "title": "Show HN: I built a smart proxy so your coding agent can run loose",
+  "score": 11,
+  "comments": 6,
+  "url": "https://trollbridge.dev/",
+  "hn_url": "https://news.ycombinator.com/item?id=48907871",
+  "tag": "ShowHN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "该项目构建了一个智能代理，作为中间层控制编码代理的执行环境，使其能在受控范围内自由运行。技术亮点在于通过代理模式隔离风险、动态管理权限与资源，提升AI编码代理的实用性与安全性。对产品经理而言，该设计可直接用于企业级AI开发工具，解决代理失控风险，降低集成门槛。其商业价值体现在为现有编码代理（如GitHub Copilot）提供安全扩展层，推动AI辅助编程在生产环境的落地。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI Proxy",
+    "Coding Agent Safety",
+    "Agent Middleware"
+  ],
+  "entities": [],
+  "patterns": [
+    "Proxy Pattern",
+    "Coding Agent Pattern"
+  ]
+}

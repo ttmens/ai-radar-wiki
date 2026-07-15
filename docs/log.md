@@ -2867,3 +2867,18 @@
 
 ## [2026-07-15 18:00] sync v3 | 1 new | pillars: {'capabilities': 1}
 - create: i-tricked-claude-into-leaking-your-deepest-darkest-secrets.md
+
+## [2026-07-16 00:01] sync v3 | 13 new | pillars: {'capabilities': 7, 'patterns': 4, 'business': 2}
+- create: openai-loses-trademark-dispute-at-eu-court.md
+- create: briar-is-in-maintenance-mode.md
+- create: the-three-second-theft-why-ai-voice-fraud-outruns-every-defence.md
+- create: a-trip-to-90s-kansai-exploring-the-xd-firstclass-network-bbs.md
+- create: dsls-enable-reliable-use-of-llms.md
+- create: apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai.md
+- create: anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation.md
+- create: reelful8217s-ai-turns-your-camera-roll-into-short-form-videos-for-social-media.md
+- create: rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls.md
+- create: indian-ai-coding-startup-emergent-becomes-a-unicorn-with-130m-series-c.md
+- create: vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet.md
+- create: show-hn-styleseed-a-design-rules-engine-so-ai-agents-stop-building-generic-ui.md
+- create: show-hn-i-built-a-smart-proxy-so-your-coding-agent-can-run-loose.md
