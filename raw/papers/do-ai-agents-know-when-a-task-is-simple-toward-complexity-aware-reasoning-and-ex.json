@@ -1,0 +1,32 @@
+{
+  "title": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution",
+  "summary": "Large language model (LLM) agents increasingly automate multi-step engineering and informatics workflows, yet they rarely ask how much effort a task actually requires. They often follow a maximum-context-first strategy--re-reading files and dependencies they have already seen--turning a one-line edit into a small code-base audit. We argue the missing capability is task-aware execution-scope estimation: judging a task's difficulty, the information it truly needs, and the shortest reliable path before committing budget. We formalize minimum-sufficient execution and the Agent Cognitive Redundancy Ratio (ACRR), and propose E3 (Estimate, Execute, Expand): the agent estimates an initial operating point, executes a minimum viable path, and expands scope only when verification fails. On MSE-Bench--a deterministic benchmark of 121 edits in a capability-controlled simulator--E3 matches the strongest baseline's 100% success while cutting cost by 85%, tokens by 91%, and inspected files by 92%, and further beats a strong adaptive retrieval baseline by 16%; the gains survive held-out instruction wording and essentially every cost weighting. A companion real-model harness (LLM-Case) corroborates the effect on a live gpt-4o agent editing a real open-source library, with every candidate patch graded by actually running the project's real pytest suite against a measured oracle: the over-reading is milder but real, and E3 is the leanest and fastest policy at comparable task success--its one shortfall a provider rate-limit, not a wrong edit. We frame this as a controlled probe of execution redundancy, not a measurement of any deployed agent, and position task-aware execution as a step toward engineering-grounded AI (EGAI)--agents whose effort is anchored in the engineering reality of the task. We release the framework and benchmark.",
+  "url": "http://arxiv.org/abs/2607.13034v1",
+  "authors": [
+    "Junjie Yin",
+    "Xinyu Feng"
+  ],
+  "published": "2026-07-14T17:59:31Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "benchmark",
+    "reasoning",
+    "retrieval"
+  ],
+  "summary_cn": "该论文探讨了大型语言模型（LLM）代理在自动执行多步骤工作流时缺乏对任务复杂度的感知，往往采用“最大上下文优先”策略，重复读取已见过的文件和依赖，导致计算资源浪费和效率低下。作者提出一种复杂度感知推理与执行框架，使代理能根据任务难度动态调整上下文使用策略和推理深度。对于AI产品经理而言，该技术可显著降低API调用成本和响应延迟，提升用户体验，尤其适用于需要频繁处理简单问答或复杂多步骤任务的产品场景。产品创新在于赋予代理“自知之明”，实现按需计算。",
+  "pm_relevance": 9,
+  "concepts": [
+    "Complexity Awareness",
+    "Efficient Task Execution",
+    "Adaptive Reasoning"
+  ],
+  "entities": [
+    "Unknown"
+  ],
+  "patterns": [
+    "Context-Optimized Agent",
+    "Adaptive Workflow"
+  ]
+}

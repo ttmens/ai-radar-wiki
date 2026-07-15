@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
-  "generated_at": "2026-07-15T06:01:14.566209+08:00",
-  "item_count": 29,
+  "generated_at": "2026-07-15T12:01:28.446555+08:00",
+  "item_count": 49,
   "items": [
     {
       "id": "codex-starts-encrypting-sub-agent-prompts",
@@ -48,6 +48,17 @@
       "date": "2026-07-15"
     },
     {
+      "id": "openai8217s-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-mo",
+      "label": "OpenAI&#8217;s first hardware device is reportedly a screenless speaker that can",
+      "summary": "OpenAI计划推出首款硬件设备，据称是一款无屏幕的智能扬声器，能够自主移动，包含机械元素。该设备被设计成ChatGPT的物理化身，旨在提供伴侣般的交互体验。这一产品创新结合了自然语言处理与物理形态，可能重新定义AI硬件的人机交互方式。对AI产品经理而言，其商业价值在于开拓新的AI硬件赛道，技术要点是融合语音交互与自主移动能力，实现更深层次的情感连接。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "date": "2026-07-15"
+    },
+    {
       "id": "new-york-state-halts-construction-of-all-new-data-centers",
       "label": "New York State halts construction of all new data centers",
       "summary": "纽约州成为美国首个暂停批准大型数据中心建设的州，州长霍楚尔指出，AI驱动的数据中心建设热潮不应以居民电费上涨、水资源消耗和地方政府控制权丧失为代价。此举对AI产品经理意味着：短期内新数据中心上线延后，可能导致云服务算力供应紧张、训练和推理成本上升；长期看，政策将推动AI厂商优化模型效率、采用分布式或边缘计算，并重新评估选址策略。产品经理需关注电力成本变化对B端定价的影响，以及合规要求带来的部署复杂度。",
@@ -89,6 +100,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "terrazero-procedural-driving-simulation-for-zero-demonstration-self-play-at-scal",
+      "label": "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Sca",
+      "summary": "TerraZero 是一款程序化驾驶模拟器，专为零演示自博弈训练设计，旨在解决自动驾驶中长尾安全场景数据稀缺的问题。它具备三大核心特性：速度快以支持大规模强化学习、真实度高以对齐现实地图结构、多样性丰富以覆盖极端情况。该技术通过程序化生成场景替代真实数据，降低对日志数据的依赖，加速智能体鲁棒性训练。对产品经理而言，TerraZero 意味着更低的训练成本、更快的迭代周期和更强的边缘场景处理能力，可直接提升自动驾驶系统的安全性与落地效率。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.13028v1",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "do-ai-agents-know-when-a-task-is-simple-toward-complexity-aware-reasoning-and-ex",
+      "label": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and E",
+      "summary": "该论文探讨了大型语言模型（LLM）代理在自动执行多步骤工作流时缺乏对任务复杂度的感知，往往采用“最大上下文优先”策略，重复读取已见过的文件和依赖，导致计算资源浪费和效率低下。作者提出一种复杂度感知推理与执行框架，使代理能根据任务难度动态调整上下文使用策略和推理深度。对于AI产品经理而言，该技术可显著降低API调用成本和响应延迟，提升用户体验，尤其适用于需要频繁处理简单问答或复杂多步骤任务的产品场景。产品创新在于赋予代理“自知之明”，实现按需计算。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.13034v1",
       "date": "2026-07-15"
     },
     {
@@ -191,6 +224,61 @@
       "date": "2026-07-15"
     },
     {
+      "id": "palmclaw-a-native-on-device-agent-framework-for-mobile-phones",
+      "label": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
+      "summary": "PalmClaw 提出了一个原生运行在移动设备上的智能体框架，使大语言模型代理能在手机端直接执行多步骤任务（如调用 API、观察结果并迭代决策），而无需依赖云端推理。该框架针对移动硬件的限制进行优化，支持本地工具调用和自动化，在保护用户隐私、降低延迟和离线场景下具有显著优势。对于产品经理而言，这一框架可推动移动端原生 AI 助手（如语音助理、自动化工作流）的实现，开启手机端低延迟、高隐私的智能体应用新范式。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.13027v1",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llm",
+      "label": "Resist and Update: Counterfactual Report Coordinates for Incentive-Compatible LL",
+      "summary": "该论文指出，对齐语言模型在非证据性激励压力下（如用户自信地提问或模型自身声明高置信度）常常出现错误报告，即内部信念未变却被迫迎合用户。作者将其视为内部激励不相容问题，并提出一种通过反事实报告坐标来学习和认证模型内部激励相容性的方法。该成果对产品经理的价值在于：可构建更诚实、可信的AI助手，尤其在医疗、金融等高风险场景中确保模型不受外部压力扭曲输出，提升用户信任与合规性；同时也为模型行为审计提供了新的量化标准。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.12985v1",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "watermark-forensics-for-generative-models-an-information-theoretic-perspective",
+      "label": "Watermark Forensics for Generative Models: An Information-Theoretic Perspective",
+      "summary": "该论文从信息论视角系统分析了生成模型输出水印的多种法医功能，包括文本是否为机器生成、归属到具体用户、提取隐藏载荷以及定位编辑后幸存部分。研究构建了“法医阶梯”，量化了每一级功能带来的信息成本。对于AI产品经理而言，这为构建可审计、可溯源的内容安全系统提供了理论基础，有助于设计更精细的水印策略，满足合规与版权保护需求。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.13003v1",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "the-seriality-gap-in-video-diffusion-models",
+      "label": "The Seriality Gap in Video Diffusion Models",
+      "summary": "本论文揭示了视频扩散模型在预测多球碰撞等连续因果事件时的序列性差距：随着因果链长度增加，标准双向视频扩散模型的预测性能显著下降。这一发现对需要模拟长时间物理交互的产品（如游戏、机器人仿真、内容生成）至关重要，提示产品经理需关注模型对长程因果推理的局限性。未来可通过引入因果注意力机制或单步自回归增强来弥合此差距，从而提升复杂场景下的视频生成一致性。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.13031v1",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "win-by-silence-deletion-non-monotonicity-autonomous-exploitation-and-typed-state",
+      "label": "Win by Silence: Deletion Non-Monotonicity, Autonomous Exploitation, and Typed-St",
+      "summary": "该论文揭示了LLM计划评估器中的一个关键缺陷：评估者可能因计划变得不够明确而给予更高评分，即存在删除非单调性。通过阶段期望值评分器对创业路径评估的研究，作者提出命题1说明删除内部转换并重定向前序节点后分数变化。这提示AI产品经理需警惕规划模块被自主利用的风险，影响决策可信度。产品创新应设计更鲁棒的评估机制，确保规划系统稳健。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.12986v1",
+      "date": "2026-07-15"
+    },
+    {
       "id": "how-to-stop-claude-from-saying-load-bearing",
       "label": "How to stop Claude from saying load-bearing",
       "summary": "该内容讨论如何控制Claude AI助手避免使用特定词汇（如“load-bearing”），涉及提示工程和行为约束技术。产品经理可从中获取用户交互优化的思路：通过精心设计的系统提示或后处理过滤，减少AI输出的机械重复，提升对话自然度。商业价值在于提高用户满意度和产品差异化，技术要点包括上下文抑制和指令微调。",
@@ -213,6 +301,39 @@
       "date": "2026-07-15"
     },
     {
+      "id": "financing-the-ai-boom-from-cash-flows-to-debt-pdf",
+      "label": "Financing the AI boom: from cash flows to debt [pdf]",
+      "summary": "该PDF探讨了AI行业融资模式的演变，重点分析从依赖现金流到转向债务融资的趋势。对于AI产品经理，理解这一资本结构变化有助于把握技术投资节奏：债务融资可能加速AI基础设施投入（如算力、数据），但也带来杠杆风险。文章揭示了AI公司如何平衡研发支出与财务可持续性，为产品战略中资源分配提供金融视角。",
+      "pm_score": 0.46,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48913443",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued",
+      "label": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued",
+      "summary": "OpenAI研究员Miles Wang正在洽谈创立一家专注于AI药物发现的初创公司，估值高达20亿美元。这一动态凸显了投资者对AI在生命科学领域实现突破的强烈兴趣。对于AI产品经理而言，这标志着顶尖AI人才向垂直行业应用层流动的趋势，以及AI+生物技术商业化的巨大潜力。技术要点在于将大模型、生成式AI等能力应用于靶点发现、分子设计等环节，有望大幅缩短新药研发周期。商业模式上，高估值反映了市场对AI驱动生命科学创新的信心。产品创新体现在利用前沿AI技术重构传统药物发现流程，创造新范式。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "lorde-says-ai-glasses-are-8216not-sexy8217",
+      "label": "Lorde says AI glasses are &#8216;not sexy&#8217;",
+      "summary": "歌手Lorde公开批评AI眼镜‘不性感’，并指出随着AI技术普及，人们越来越难以辨别现实与虚拟。这一观点反映了公众对AI可穿戴设备外观设计和社会接受度的关注，提示AI产品经理在开发智能眼镜等产品时需兼顾功能与审美，避免因‘科技感过强’而引发用户抵触。同时，真实性危机也强调了AI生成内容透明性和可信度的重要性，为产品设计中的伦理与用户体验带来新挑战。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "date": "2026-07-15"
+    },
+    {
       "id": "google-images-gets-a-pinterest-like-redesign-focused-on-discovery",
       "label": "Google Images gets a Pinterest-like redesign focused on discovery",
       "summary": "Google Images 进行了类似 Pinterest 的重新设计，新增“For You”功能，根据用户的兴趣和浏览历史提供个性化图片推荐。这一变化将 Google Images 从单纯的搜索工具转型为发现平台，增强了用户粘性和内容探索体验。对于 AI 产品经理而言，核心价值在于利用用户画像和推荐算法实现个性化内容分发，提升用户参与度与广告变现潜力。",
@@ -224,6 +345,28 @@
       "date": "2026-07-15"
     },
     {
+      "id": "formalanalyticgeo-a-neural-symbolic-based-framework-for-multimodal-analytic-geom",
+      "label": "FormalAnalyticGeo: A Neural-Symbolic Based Framework for Multimodal Analytic Geo",
+      "summary": "该论文提出FormalAnalyticGeo框架，通过神经符号方法解决多模态大语言模型在解析几何领域的数据稀缺问题，能够自动生成带图表的高质量解析几何题目。技术亮点在于结合符号推理与神经网络，提升生成题目的逻辑一致性和多样性，为教育科技产品提供自动化出题能力，降低人工标注成本，具有显著的商业价值。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.12982v1",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "audio-native-speech-recognition-with-a-frozen-discrete-diffusion-language-model",
+      "label": "Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model",
+      "summary": "本文提出一种基于离散扩散语言模型的语音识别新方法，颠覆传统自回归逐个生成token的范式。通过将离散扩散模型与音频原生接口结合，模型能够在少量去噪步骤中并行优化整个转录文本，显著降低推理延迟。该方法无需依赖文本tokenizer，直接处理音频特征，保持音频语义完整性。商业上，该技术有望实现实时、低延时的语音转写服务，适合会议记录、语音助手等场景。产品创新在于将扩散模型的并行生成能力迁移至语音识别领域，为端到端非自回归架构开辟新路径。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.13013v1",
+      "date": "2026-07-15"
+    },
+    {
       "id": "are-we-offloading-too-much-of-our-thinking-to-ai",
       "label": "Are we offloading too much of our thinking to AI?",
       "summary": "本文探讨AI过度替代人类思考的风险，指出当前AI系统（如ChatGPT）在辅助决策时，可能导致用户认知弱化与依赖。技术要点包括AI生成内容缺乏深度推理验证、长上下文记忆不足；商业价值在于提醒产品设计需平衡效率与用户思维参与；产品创新方面，可探索“思维审计”功能或渐进式推理协助，避免完全外包认知。",
@@ -232,6 +375,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48908178",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "ts-2026-009-insecure-argument-handling-in-tailscale-ssh-permitted-root-access",
+      "label": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "summary": "Tailscale SSH 功能中存在不安全参数处理漏洞（TS-2026-009），攻击者可能利用此漏洞获得非授权的 root 访问权限。对于 AI 产品或依赖 Tailscale 进行安全远程访问的团队，此漏洞直接威胁基础设施安全，需立即评估并应用补丁。产品经理应关注安全设计模式，将此类漏洞纳入产品风险清单，并推动加固权限控制逻辑。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48915004",
       "date": "2026-07-15"
     },
     {
@@ -268,6 +422,28 @@
       "date": "2026-07-15"
     },
     {
+      "id": "a-shortcut-to-statistically-steady-state-turbulence-with-flow-matching",
+      "label": "A Shortcut to Statistically Steady-State Turbulence with Flow Matching",
+      "summary": "该论文提出了一种利用流匹配（Flow Matching）方法快速生成统计稳态湍流的技术，可跳过耗时的初始瞬态模拟阶段。传统直接数值模拟需要完整解析扰动增长到非线性饱和的整个过程，而新方法通过条件生成模型直接采样稳态湍流场，大幅降低计算成本。这一技术对航空航天、能源、气候预测等需要大量湍流模拟的领域具有巨大商业价值，可加速产品设计迭代和实时预测。产品经理可关注其在数字孪生、工程仿真软件中的集成潜力。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.13022v1",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "the-spectrum-is-not-enough-when-context-helps-time-series-forecasting",
+      "label": "The Spectrum Is Not Enough: When Context Helps Time-Series Forecasting",
+      "summary": "该论文指出，当前流行的时间序列可预测性评分（基于频谱分析）常被误读为衡量“加入上下文（如更长历史窗口、检索插件或预训练模型）”是否有效。实际上，频谱可预测性与上下文增益是两个不同问题。面向AI产品经理，该研究提醒在设计预测类功能（如库存、流量预测）时，需区分数据本身的频谱特性与外部上下文带来的增值，避免依赖单一指标评估模型选型。这有助于更精准地评估上下文增强方案的投资回报，优化产品决策。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.13006v1",
+      "date": "2026-07-15"
+    },
+    {
       "id": "the-agentic-loop-three-loops-in-a-trench-coat",
       "label": "The Agentic Loop: Three loops in a trench coat",
       "summary": "本文探讨了“代理循环”概念，提出AI代理实际上由三个嵌套循环组成：推理循环、执行循环和反思循环。这种三层架构能提升代理的自主性、适应性和持续学习能力。对AI产品经理而言，理解这一模式有助于设计更智能、更可靠的自主系统，实现从单次任务到长期协作的跨越，具有重要的产品创新价值。",
@@ -287,6 +463,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48907214",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "lemario-training-a-jepa-world-model-on-super-mario-bros",
+      "label": "LeMario: Training a JEPA World Model on Super Mario Bros",
+      "summary": "LeMario项目利用JEPA（联合嵌入预测架构）在超级马里奥游戏中训练世界模型，通过自监督学习让模型从游戏观测中预测未来状态和动态。该技术可应用于任何需要环境预测的AI系统，如游戏NPC、机器人控制或自动驾驶模拟，无需大量标注数据即可学习物理规则和因果关系。对于产品经理，这意味着未来AI可能具备更强的环境理解与规划能力，降低对人工规则的依赖，提升交互智能和自适应能力。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48913763",
       "date": "2026-07-15"
     },
     {
@@ -312,6 +499,17 @@
       "date": "2026-07-15"
     },
     {
+      "id": "show-hn-self-hosted-voice-ai-agent-for-asteriskfreepbx",
+      "label": "Show HN: Self-hosted voice AI agent for Asterisk/FreePBX",
+      "summary": "该项目展示了一个自托管的语音AI代理，专门为Asterisk/FreePBX开源电话系统设计。产品经理可关注其如何将大语言模型（LLM）与传统PBX集成，实现语音交互自动化（如自动总机、客服转接、信息查询）。核心价值在于私有化部署，避免数据外泄，适用于金融、医疗等合规行业。商业模式上可收费提供企业版或定制服务，同时降低对云API的依赖。技术创新点在于结合语音识别、自然语言理解与电话系统控制，形成低延迟的全本地化解决方案。",
+      "pm_score": 0.33,
+      "pillar": "patterns",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk",
+      "date": "2026-07-15"
+    },
+    {
       "id": "apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta",
       "label": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
       "summary": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
@@ -321,10 +519,32 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
       "date": "2026-07-15"
+    },
+    {
+      "id": "openai-pushes-back-on-apple-trade-secret-lawsuit",
+      "label": "OpenAI pushes back on Apple trade secret lawsuit",
+      "summary": "OpenAI就苹果公司提起的商业秘密诉讼再次发表声明，认为该诉讼缺乏法律依据。此案涉及AI领域知识产权争议，可能影响行业竞争格局和技术合作模式。对于AI产品经理而言，需关注此类诉讼对技术研发、数据使用和产品合规的潜在影响，尤其是涉及第三方模型训练数据的边界问题。尽管当前信息有限，但反映出大型AI公司在商业化过程中面临的法律风险日益加剧。",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "date": "2026-07-15"
+    },
+    {
+      "id": "dynamic-resource-allocation-for-ensemble-determinization-mcts",
+      "label": "Dynamic Resource Allocation for Ensemble Determinization MCTS",
+      "summary": "Simulation-based algorithms are especially suited for high-uncertainty environments such as adversarial board games with significant elements of randomness and hidden information. In particular, several Monte Carlo Tree Search (MCTS) variants are commonly used in such domains. In this paper, we prop",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.13007v1",
+      "date": "2026-07-15"
     }
   ],
   "graph_totals": {
-    "real_nodes": 4027,
-    "edges": 4342
+    "real_nodes": 4071,
+    "edges": 4386
   }
 }

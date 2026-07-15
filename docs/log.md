@@ -2841,3 +2841,26 @@
 - create: deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai.md
 - create: metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer.md
 - create: google-images-gets-a-pinterest-like-redesign-focused-on-discovery.md
+
+## [2026-07-15 12:01] sync v3 | 21 new | pillars: {'capabilities': 17, 'patterns': 2, 'ecosystem': 1, 'business': 1}
+- create: do-ai-agents-know-when-a-task-is-simple-toward-complexity-aware-reasoning-and-ex.md
+- create: the-seriality-gap-in-video-diffusion-models.md
+- create: terrazero-procedural-driving-simulation-for-zero-demonstration-self-play-at-scal.md
+- create: palmclaw-a-native-on-device-agent-framework-for-mobile-phones.md
+- create: a-shortcut-to-statistically-steady-state-turbulence-with-flow-matching.md
+- create: audio-native-speech-recognition-with-a-frozen-discrete-diffusion-language-model.md
+- create: dynamic-resource-allocation-for-ensemble-determinization-mcts.md
+- create: the-spectrum-is-not-enough-when-context-helps-time-series-forecasting.md
+- create: watermark-forensics-for-generative-models-an-information-theoretic-perspective.md
+- create: win-by-silence-deletion-non-monotonicity-autonomous-exploitation-and-typed-state.md
+- create: resist-and-update-counterfactual-report-coordinates-for-incentive-compatible-llm.md
+- create: formalanalyticgeo-a-neural-symbolic-based-framework-for-multimodal-analytic-geom.md
+- create: jurassic-park-computers-in-excruciating-detail.md
+- create: ts-2026-009-insecure-argument-handling-in-tailscale-ssh-permitted-root-access.md
+- create: financing-the-ai-boom-from-cash-flows-to-debt-pdf.md
+- create: lemario-training-a-jepa-world-model-on-super-mario-bros.md
+- create: openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued.md
+- create: lorde-says-ai-glasses-are-8216not-sexy8217.md
+- create: openai8217s-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-mo.md
+- create: openai-pushes-back-on-apple-trade-secret-lawsuit.md
+- create: show-hn-self-hosted-voice-ai-agent-for-asteriskfreepbx.md

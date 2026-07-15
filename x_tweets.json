@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-14T21:00:18.721155",
+  "fetched_at": "2026-07-15T09:00:19.587893",
   "source": "twitter-cli",
   "data": {
     "sama": [
       {
-        "id": "2076824686307271125",
-        "text": "i thought this was satire, kept looking for the handle to be spelled c1audeai or something",
+        "id": "2077118672150388816",
+        "text": "hello!",
         "author": {
           "id": "1605",
           "name": "Sam Altman",
@@ -14,16 +14,16 @@
           "verified": true
         },
         "metrics": {
-          "likes": 11075,
-          "retweets": 307,
-          "replies": 765,
-          "quotes": 184,
-          "views": 2365407,
-          "bookmarks": 3859
+          "likes": 4488,
+          "retweets": 93,
+          "replies": 409,
+          "quotes": 28,
+          "views": 503050,
+          "bookmarks": 147
         },
-        "createdAt": "Tue Jul 14 00:22:45 +0000 2026",
-        "createdAtLocal": "2026-07-14 08:22",
-        "createdAtISO": "2026-07-14T00:22:45+00:00",
+        "createdAt": "Tue Jul 14 19:50:57 +0000 2026",
+        "createdAtLocal": "2026-07-15 03:50",
+        "createdAtISO": "2026-07-14T19:50:57+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -31,17 +31,17 @@
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2075271759289303522",
-          "text": "There’s hope in hard questions. https://t.co/rDYjqIlH9l",
+          "id": "2077114635308986427",
+          "text": "Hello. We have reached 8M active users across Codex and ChatGPT Work.\n\nWe are once again resetting the usage limits for all. And we continue to not have the 5h rate limit as well, allowing everyone to explore the boundaries of GPT-5.6 Sol and discover how ambitious you can be.\n\nSee you tomorrow for more updates on our growth!",
           "author": {
-            "screenName": "claudeai",
-            "name": "Claude"
+            "screenName": "thsottiaux",
+            "name": "Tibo"
           }
         }
       },
       {
-        "id": "2076824870072238299",
-        "text": "\"hard questions are great but only if we deem you worthy enough to not silently downgrade you, or even get access at all\"",
+        "id": "2077106587307798989",
+        "text": "5.6 sol growth is insane.\n\nthe inference team has done heroic work to be able to support demand.\n\nwe are going to move mountains to continue to scale, but it is possible there are some hiccups soon.",
         "author": {
           "id": "1605",
           "name": "Sam Altman",
@@ -50,16 +50,16 @@
           "verified": true
         },
         "metrics": {
-          "likes": 6003,
-          "retweets": 208,
-          "replies": 400,
-          "quotes": 110,
-          "views": 410988,
-          "bookmarks": 263
+          "likes": 8084,
+          "retweets": 210,
+          "replies": 649,
+          "quotes": 138,
+          "views": 1232169,
+          "bookmarks": 380
         },
-        "createdAt": "Tue Jul 14 00:23:29 +0000 2026",
-        "createdAtLocal": "2026-07-14 08:23",
-        "createdAtISO": "2026-07-14T00:23:29+00:00",
+        "createdAt": "Tue Jul 14 19:02:55 +0000 2026",
+        "createdAtLocal": "2026-07-15 03:02",
+        "createdAtISO": "2026-07-14T19:02:55+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -68,8 +68,8 @@
         "score": null
       },
       {
-        "id": "2076823209589313910",
-        "text": "still sorta breaks my brain to see our models be good at design finally",
+        "id": "2077053140508266710",
+        "text": "Concerning.",
         "author": {
           "id": "1605",
           "name": "Sam Altman",
@@ -78,72 +78,16 @@
           "verified": true
         },
         "metrics": {
-          "likes": 9176,
-          "retweets": 157,
-          "replies": 818,
-          "quotes": 87,
-          "views": 612515,
-          "bookmarks": 393
+          "likes": 18883,
+          "retweets": 1051,
+          "replies": 1022,
+          "quotes": 204,
+          "views": 1780539,
+          "bookmarks": 1241
         },
-        "createdAt": "Tue Jul 14 00:16:53 +0000 2026",
-        "createdAtLocal": "2026-07-14 08:16",
-        "createdAtISO": "2026-07-14T00:16:53+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2076780425280954658",
-        "text": "come for the best model, stay because we don’t treat you with contempt",
-        "author": {
-          "id": "1605",
-          "name": "Sam Altman",
-          "screenName": "sama",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 18350,
-          "retweets": 592,
-          "replies": 1684,
-          "quotes": 323,
-          "views": 1922462,
-          "bookmarks": 795
-        },
-        "createdAt": "Mon Jul 13 21:26:52 +0000 2026",
-        "createdAtLocal": "2026-07-14 05:26",
-        "createdAtISO": "2026-07-13T21:26:52+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2076759971967230419",
-        "text": "that goes hard",
-        "author": {
-          "id": "1605",
-          "name": "Sam Altman",
-          "screenName": "sama",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 1817,
-          "retweets": 76,
-          "replies": 236,
-          "quotes": 17,
-          "views": 575495,
-          "bookmarks": 222
-        },
-        "createdAt": "Mon Jul 13 20:05:36 +0000 2026",
-        "createdAtLocal": "2026-07-14 04:05",
-        "createdAtISO": "2026-07-13T20:05:36+00:00",
+        "createdAt": "Tue Jul 14 15:30:33 +0000 2026",
+        "createdAtLocal": "2026-07-14 23:30",
+        "createdAtISO": "2026-07-14T15:30:33+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -151,11 +95,75 @@
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2076667554798752248",
-          "text": "@perrymetzger \"Of all tyrannies, a tyranny sincerely exercised for the good of its victims may be the most oppressive... [T]hose who torment us for our own good will torment us without end for they do so with the approval of their own conscience.\"\n--C.S. Lewis",
+          "id": "2076716354754015368",
+          "text": "SpaceXAI was caught uploading your code to its cloud.\n\nI reversed xAI's official Grok Build binary. In a controlled session with zero tool-calls, it uploaded the complete codebase to xAI's storage\n\nIt ships a malware-like background code collector.",
           "author": {
-            "screenName": "chuckmckinnon",
-            "name": "Chuck McKinnon"
+            "screenName": "hrkrshnn",
+            "name": "Hari"
+          }
+        }
+      },
+      {
+        "id": "2077053226080436235",
+        "text": "also, a reason to favor open-source harnesses.",
+        "author": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screenName": "sama",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 4335,
+          "retweets": 113,
+          "replies": 338,
+          "quotes": 98,
+          "views": 545048,
+          "bookmarks": 193
+        },
+        "createdAt": "Tue Jul 14 15:30:53 +0000 2026",
+        "createdAtLocal": "2026-07-14 23:30",
+        "createdAtISO": "2026-07-14T15:30:53+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2077042528906527225",
+        "text": "this is a thoughtful proposal from demis:",
+        "author": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screenName": "sama",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 4640,
+          "retweets": 261,
+          "replies": 272,
+          "quotes": 27,
+          "views": 843445,
+          "bookmarks": 2809
+        },
+        "createdAt": "Tue Jul 14 14:48:23 +0000 2026",
+        "createdAtLocal": "2026-07-14 22:48",
+        "createdAtISO": "2026-07-14T14:48:23+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2076957440109625718",
+          "text": "https://t.co/PTeDiv1b6L",
+          "author": {
+            "screenName": "demishassabis",
+            "name": "Demis Hassabis"
           }
         }
       }
@@ -172,12 +180,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8626,
-          "retweets": 1050,
-          "replies": 433,
+          "likes": 8653,
+          "retweets": 1054,
+          "replies": 436,
           "quotes": 563,
-          "views": 3540093,
-          "bookmarks": 5131
+          "views": 3549412,
+          "bookmarks": 5124
         },
         "createdAt": "Wed Jul 08 21:47:29 +0000 2026",
         "createdAtLocal": "2026-07-09 05:47",
@@ -202,12 +210,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1534,
-          "retweets": 146,
+          "likes": 1541,
+          "retweets": 148,
           "replies": 69,
           "quotes": 14,
-          "views": 452221,
-          "bookmarks": 2398
+          "views": 456471,
+          "bookmarks": 2404
         },
         "createdAt": "Fri Jul 03 14:12:03 +0000 2026",
         "createdAtLocal": "2026-07-03 22:12",
@@ -232,12 +240,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 9455,
-          "retweets": 925,
+          "likes": 9461,
+          "retweets": 926,
           "replies": 638,
           "quotes": 593,
-          "views": 6064462,
-          "bookmarks": 3636
+          "views": 6070373,
+          "bookmarks": 3640
         },
         "createdAt": "Tue Jun 30 15:00:09 +0000 2026",
         "createdAtLocal": "2026-06-30 23:00",
@@ -267,12 +275,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1906,
-          "retweets": 240,
-          "replies": 180,
+          "likes": 1909,
+          "retweets": 242,
+          "replies": 181,
           "quotes": 160,
-          "views": 1833886,
-          "bookmarks": 1221
+          "views": 1836189,
+          "bookmarks": 1224
         },
         "createdAt": "Tue Jun 23 17:01:29 +0000 2026",
         "createdAtLocal": "2026-06-24 01:01",
@@ -298,12 +306,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 23037,
+          "likes": 23050,
           "retweets": 1900,
-          "replies": 1336,
+          "replies": 1337,
           "quotes": 695,
-          "views": 7881272,
-          "bookmarks": 13924
+          "views": 7884368,
+          "bookmarks": 13922
         },
         "createdAt": "Tue Jun 23 22:26:31 +0000 2026",
         "createdAtLocal": "2026-06-24 06:26",
@@ -336,12 +344,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 269,
-          "retweets": 40,
-          "replies": 75,
+          "likes": 270,
+          "retweets": 41,
+          "replies": 76,
           "quotes": 6,
-          "views": 89470,
-          "bookmarks": 55
+          "views": 90589,
+          "bookmarks": 53
         },
         "createdAt": "Thu Jul 09 17:31:17 +0000 2026",
         "createdAtLocal": "2026-07-10 01:31",
@@ -372,12 +380,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8386,
-          "retweets": 1614,
-          "replies": 385,
+          "likes": 8388,
+          "retweets": 1616,
+          "replies": 386,
           "quotes": 175,
-          "views": 636476,
-          "bookmarks": 10233
+          "views": 639457,
+          "bookmarks": 10239
         },
         "createdAt": "Tue Jun 30 16:04:04 +0000 2026",
         "createdAtLocal": "2026-07-01 00:04",
@@ -411,7 +419,7 @@
           "retweets": 286,
           "replies": 172,
           "quotes": 61,
-          "views": 161465,
+          "views": 161838,
           "bookmarks": 400
         },
         "createdAt": "Fri Jun 19 18:34:23 +0000 2026",
@@ -442,12 +450,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 360,
+          "likes": 359,
           "retweets": 52,
           "replies": 55,
           "quotes": 10,
-          "views": 81315,
-          "bookmarks": 208
+          "views": 81549,
+          "bookmarks": 209
         },
         "createdAt": "Thu Jun 18 17:00:03 +0000 2026",
         "createdAtLocal": "2026-06-19 01:00",
@@ -477,11 +485,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1117,
+          "likes": 1116,
           "retweets": 148,
           "replies": 109,
           "quotes": 13,
-          "views": 122999,
+          "views": 123153,
           "bookmarks": 845
         },
         "createdAt": "Thu Jun 04 16:44:13 +0000 2026",
@@ -504,6 +512,86 @@
     ],
     "ylecun": [
       {
+        "id": "2076756396498887119",
+        "text": "New @wapo story today, the Trump family has secured about $3.2 billion in Pentagon contracts for firms which they are involved in. This is the tip of the iceberg in the largest corruption saga in US history. https://t.co/FOAmjkXHCp",
+        "author": {
+          "id": "3061796219",
+          "name": "Phillips P. OBrien",
+          "screenName": "PhillipsPOBrien",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/822021855854952448/itfp9TX__normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 4382,
+          "retweets": 1926,
+          "replies": 67,
+          "quotes": 83,
+          "views": 128206,
+          "bookmarks": 355
+        },
+        "createdAt": "Mon Jul 13 19:51:23 +0000 2026",
+        "createdAtLocal": "2026-07-14 03:51",
+        "createdAtISO": "2026-07-13T19:51:23+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HNIe5JMXEAAg8HH.png",
+            "width": 1495,
+            "height": 486
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2076994014692229601",
+        "text": "1) If you haven't read AI as Normal Technology, these annotated slides are probably the easiest way to get a high-level overview. https://t.co/vNgRJCKxi3\n\n2) If you're already familiar with the core ideas, Part 1 of the talk is largely a summary of what I and @sayashk have already written, while Parts 2 and 3 have new ideas. There are a lot of unexamined assumptions in the discourse about Recursive Self-Improvement and I hope you find my pushback interesting.\n\n3) I'm really grateful to the team (@steverab @sayashk @PKirgis & Felix Chen) for feedback on the talk. In my first version, Part 2 was about 3x too long and I was super frustrated with myself. They encouraged me to cut it down ruthlessly and turn the full version into essays on the newsletter, so that's what I plan to do! (https://t.co/ZwebetjZ4n)\n\n4) I've received a few requests for the video. There's a video on the ICML website, but it is login-walled https://t.co/rYHlxPGEXY (I assume it's for ICML registrants only). Last year's videos are public, so presumably @icmlconf will make it public at some point.",
+        "author": {
+          "id": "10834752",
+          "name": "Arvind Narayanan",
+          "screenName": "random_walker",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1650881612756942850/bZYjMyFU_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 206,
+          "retweets": 35,
+          "replies": 5,
+          "quotes": 3,
+          "views": 37029,
+          "bookmarks": 235
+        },
+        "createdAt": "Tue Jul 14 11:35:36 +0000 2026",
+        "createdAtLocal": "2026-07-14 19:35",
+        "createdAtISO": "2026-07-14T11:35:36+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HNL2BArXgAAVIPe.jpg",
+            "width": 1654,
+            "height": 1102
+          }
+        ],
+        "urls": [
+          "https://www.cs.princeton.edu/~arvindn/talks/icml-2026-annotated-slides/"
+        ],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2076747808452083744",
+          "text": "I had the honor of giving a keynote at the International Conference on Machine Learning in Seoul last week titled “What will be left for us to work on?” I addressed the widespread anxiety about how we should adapt as AI capabilities increase. I was thrilled by the talk’s reception, so I have made my slides available, annotated with a lightly edited transcript: https://t.co/vNgRJCL57B\n\nI made three arguments. First, the \"AI as Normal Technology\" framework is a correct and useful as a way to think about AI’s impacts, unless and until there is some future discontinuity such as through recursive self-improvement. Second, even though we should take recursive self-improvement seriously, there is no milestone that companies might achieve in the lab that will suddenly put us all out of work. Third and finally, jobs of the future will be radically different, and a lot of adaptation will be needed. I shared my thinking about what this might look like and ended with a vision of human/AI “co-superintelligence”.",
+          "author": {
+            "screenName": "random_walker",
+            "name": "Arvind Narayanan"
+          }
+        }
+      },
+      {
         "id": "2076956518088323115",
         "text": "https://t.co/APnXHcsfe5",
         "author": {
@@ -514,12 +602,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 9,
-          "retweets": 2,
-          "replies": 0,
+          "likes": 26,
+          "retweets": 6,
+          "replies": 3,
           "quotes": 0,
-          "views": 3013,
-          "bookmarks": 5
+          "views": 10734,
+          "bookmarks": 10
         },
         "createdAt": "Tue Jul 14 09:06:36 +0000 2026",
         "createdAtLocal": "2026-07-14 17:06",
@@ -545,12 +633,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 14,
-          "retweets": 0,
-          "replies": 2,
+          "likes": 25,
+          "retweets": 1,
+          "replies": 4,
           "quotes": 1,
-          "views": 3450,
-          "bookmarks": 3
+          "views": 10291,
+          "bookmarks": 7
         },
         "createdAt": "Tue Jul 14 08:32:51 +0000 2026",
         "createdAtLocal": "2026-07-14 16:32",
@@ -580,12 +668,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 7309,
-          "retweets": 2071,
-          "replies": 195,
-          "quotes": 39,
-          "views": 262787,
-          "bookmarks": 222
+          "likes": 8853,
+          "retweets": 2589,
+          "replies": 269,
+          "quotes": 53,
+          "views": 346474,
+          "bookmarks": 266
         },
         "createdAt": "Mon Jul 13 21:54:59 +0000 2026",
         "createdAtLocal": "2026-07-14 05:54",
@@ -604,82 +692,12 @@
             "name": "Republicans against Trump"
           }
         }
-      },
-      {
-        "id": "2076673289657745454",
-        "text": "Oil prices are up nearly $4.50 since Trump scrapped the MoU with Iran.\n\nWithout a deal, the market is pricing in elevated oil prices through 2030. The margin of increase will likely go up if there is no progress on negotiations in the coming weeks. https://t.co/3dMgfuAWpX",
-        "author": {
-          "id": "401625957",
-          "name": "Steve Rattner",
-          "screenName": "SteveRattner",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1559587528109395969/HfLfInk2_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 152,
-          "retweets": 62,
-          "replies": 15,
-          "quotes": 3,
-          "views": 17149,
-          "bookmarks": 4
-        },
-        "createdAt": "Mon Jul 13 14:21:09 +0000 2026",
-        "createdAtLocal": "2026-07-13 22:21",
-        "createdAtISO": "2026-07-13T14:21:09+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HNHTSicWoAAIa8c.jpg",
-            "width": 2600,
-            "height": 1520
-          }
-        ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2076097383352648191",
-        "text": "\"The role of raw power in intelligence\", Hans Moravec, 1976 (!).\n\n\"The first section discusses natural intelligence, and notes two major branches of the animal kingdom in which it evolved independently, and several offshoots. The suggestion is that intelligence need not be so difficult to construct as is sometimes assumed.\n\nThe second part compares the information processing ability of present computers with intelligent nervous systems, and finds a factor of one million difference. This abyss is interpreted as a major distorting influence in current work, and a reason for disappointing progress.\n\nSection three examines the development of electronics, and concludes the state of the art can provide more power than is now available, and that the gap could be closed in a decade.\"\n\nhttps://t.co/NnoGCVh0LR",
-        "author": {
-          "id": "788533935886077952",
-          "name": "Kevin Patrick Murphy",
-          "screenName": "sirbayes",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1346948649603846145/eFBHivR2_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 119,
-          "retweets": 20,
-          "replies": 7,
-          "quotes": 6,
-          "views": 29670,
-          "bookmarks": 97
-        },
-        "createdAt": "Sun Jul 12 00:12:42 +0000 2026",
-        "createdAtLocal": "2026-07-12 08:12",
-        "createdAtISO": "2026-07-12T00:12:42+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HM_G8HiaoAABYjK.jpg",
-            "width": 1882,
-            "height": 1022
-          }
-        ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null
       }
     ],
     "elonmusk": [
       {
-        "id": "2076909201524203973",
-        "text": "Grok 4.5 reaches #1 position on Long-Horizon Terminal-Bench",
+        "id": "2077044528234553709",
+        "text": "Ancient times  https://t.co/8VWNoiOHjg",
         "author": {
           "id": "44196397",
           "name": "Elon Musk",
@@ -688,129 +706,99 @@
           "verified": true
         },
         "metrics": {
-          "likes": 5430,
-          "retweets": 1193,
-          "replies": 1440,
-          "quotes": 90,
-          "views": 1806512,
-          "bookmarks": 229
+          "likes": 15664,
+          "retweets": 2282,
+          "replies": 2717,
+          "quotes": 166,
+          "views": 2857618,
+          "bookmarks": 1554
         },
-        "createdAt": "Tue Jul 14 05:58:35 +0000 2026",
-        "createdAtLocal": "2026-07-14 13:58",
-        "createdAtISO": "2026-07-14T05:58:35+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2076879157137686634",
-          "text": "The Long-Horizon Terminal-Bench paper landed around May and concluded that the results showed headroom for improvement. The best of the 15 models they tested finished seven of the 46 tasks, and the mean across all models was about two. That ceiling is what fifth place looks like on the current board.\n\nGrok 4.5 is now at 13, and Fable 5 is at 12. A single task costs around 9.9M tokens, 231 episodes, and 85 minutes of wall clock time. That means agents are holding a plan across all of it and finishing, and that capability nearly doubled in two months.\n\nSpaceXAI is on top, and they marketed the 4.2x output token efficiency, which undersells it. Two dollars in, six out, per million. On a benchmark where one task burns ten million tokens, the bill is dominated by input replay, and they say Grok 4.5 solves tasks in under half the number of steps, so there is less accumulated context to resend on every call. The efficiency compounds on the input side, which is the side that costs money.\n\nFable 5 is one task behind. Their own launch chart has them losing DeepSWE 1.1 to Fable by 17 points, and Grok 4.20 sits on this same board at 0.080 with zero completions, so whatever happened in 4.5 is not a family trait.\n\nMy read is that the 4.5 jump came out of training alongside Cursor, which is a stream of real agentic edit trajectories nobody else has at that volume, and nothing in the counterevidence argues against it compounding into the next checkpoint.",
-          "author": {
-            "screenName": "tetsuoai",
-            "name": "tetsuo"
-          }
-        }
-      },
-      {
-        "id": "2076881971117011234",
-        "text": "Just a reminder that deepseek v3 came out 18 months ago and was considered revolutionary at the time but is basically unusable today\n\nThere was a fierce debate at the time about vibe coding and the argument was that LLMs can never create anything new because they are limited by their training data\n\nThose engineers were partly right and vibe coding was a real nightmare, I cannot believe what we used to put ourselves through with Sonnet 3.5, but we also knew real new things could be made and that the detractors were wrong\n\nI guess us non-engineers saw it most clearly (I would like to think so at least) because we were astonished at the new things we could do without the programming background, and we had nothing to lose and everything to gain in our enthusiasm\n\nThen came Opus 4.5 earlier this year which changed everything\n\nSuddenly real production code became possible with so much less friction and headache\n\nEveryone complained endlessly about models being nerfed or quantized but there was a steady march of progress from 4.5 to 4.8\n\nNow a completely new crop of models is coming out that is not quite a 4.5 moment but something close\n\nWe are not only getting more polish but things are becoming a little freaky, entire isolated domains become possible to combine with small teams or even just one person into new applications that would have required large infusions of time and capital in the past\n\nMy wife back in 2021 told me about AI but I was in healthcare, I thought she was being a little nutty, and she talked like something from a science fiction film was coming and she got involved in it early on\n\nShe never stops letting me know that she was right, and she was\n\nThe next year is going to be wild, the world is truly going to change over the next few years, the scale of disruption will be a combination of astonishing and awesome, but also catastrophic\n\nThere are many amazing things ahead and extraordinary challenges and opportunities\n\nWe are living inside one of one of the biggest revolutions in human history",
-        "author": {
-          "id": "1038726722",
-          "name": "Kevin Bass",
-          "screenName": "kevinnbass",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1947236538409988096/hZXVsMlX_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 1919,
-          "retweets": 365,
-          "replies": 239,
-          "quotes": 19,
-          "views": 435333,
-          "bookmarks": 207
-        },
-        "createdAt": "Tue Jul 14 04:10:23 +0000 2026",
-        "createdAtLocal": "2026-07-14 12:10",
-        "createdAtISO": "2026-07-14T04:10:23+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2076905740531302479",
-        "text": "The woke mob had turned Twitter into Wormtongue to the World https://t.co/XUcA15vImB",
-        "author": {
-          "id": "44196397",
-          "name": "Elon Musk",
-          "screenName": "elonmusk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 10086,
-          "retweets": 1418,
-          "replies": 1344,
-          "quotes": 76,
-          "views": 1764945,
-          "bookmarks": 329
-        },
-        "createdAt": "Tue Jul 14 05:44:50 +0000 2026",
-        "createdAtLocal": "2026-07-14 13:44",
-        "createdAtISO": "2026-07-14T05:44:50+00:00",
+        "createdAt": "Tue Jul 14 14:56:19 +0000 2026",
+        "createdAtLocal": "2026-07-14 22:56",
+        "createdAtISO": "2026-07-14T14:56:19+00:00",
         "media": [
           {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HNKmw-IWYAAt96B.jpg",
-            "width": 225,
-            "height": 225
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2076921065327251456/vid/avc1/1920x1080/BfIwbA7q4Tiddriv.mp4?tag=28",
+            "width": 1920,
+            "height": 1080
           }
         ],
         "urls": [],
         "isRetweet": false,
         "retweetedBy": null,
         "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2077043449279262954",
+        "text": "True",
+        "author": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screenName": "elonmusk",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 10411,
+          "retweets": 1572,
+          "replies": 1375,
+          "quotes": 49,
+          "views": 2272223,
+          "bookmarks": 210
+        },
+        "createdAt": "Tue Jul 14 14:52:02 +0000 2026",
+        "createdAtLocal": "2026-07-14 22:52",
+        "createdAtISO": "2026-07-14T14:52:02+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2076790049421828402",
-          "text": "Elon buying Twitter and restoring free speech was unironically one of the most pivotal moments in the 21st century\n\nIts effects will be studied for generations https://t.co/zrO6lZATCT",
+          "id": "2076822350599712801",
+          "text": "We could have closed borders and a welfare state.\n\nOr we could have open borders and no welfare state.\n\nBut of course we’ve chosen the most foolish and destructive option available - open borders and a welfare state.\n\nThe worst of all possible worlds.",
           "author": {
-            "screenName": "ArthurMacwaters",
-            "name": "Arthur MacWaters"
+            "screenName": "TheAliceSmith",
+            "name": "Alice Smith"
           }
         }
       },
       {
-        "id": "2076750536582529090",
-        "text": "SpaceX was founded on one powerful belief:\n\nA future where humanity is out exploring the stars is fundamentally more exciting than one where we are not\n\nEvery Falcon launch, every Starship test, and every step toward Mars is built around that belief\n\nThe goal is not just to reach space\n\nIt is to build a future where humanity becomes a multiplanetary civilization",
+        "id": "2076879176628305957",
+        "text": "Falcon 9 launches 27 @Starlink satellites from California https://t.co/KvYGsD6DPi",
         "author": {
-          "id": "1818311005698678784",
-          "name": "X Freeze",
-          "screenName": "XFreeze",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1876785200010539008/2_HFJjq9_normal.jpg",
+          "id": "34743251",
+          "name": "SpaceX",
+          "screenName": "SpaceX",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 3913,
-          "retweets": 767,
-          "replies": 449,
-          "quotes": 34,
-          "views": 479007,
-          "bookmarks": 136
+          "likes": 9016,
+          "retweets": 1599,
+          "replies": 527,
+          "quotes": 68,
+          "views": 967907,
+          "bookmarks": 192
         },
-        "createdAt": "Mon Jul 13 19:28:06 +0000 2026",
-        "createdAtLocal": "2026-07-14 03:28",
-        "createdAtISO": "2026-07-13T19:28:06+00:00",
+        "createdAt": "Tue Jul 14 03:59:16 +0000 2026",
+        "createdAtLocal": "2026-07-14 11:59",
+        "createdAtISO": "2026-07-14T03:59:16+00:00",
         "media": [
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HNIX3fEaIAAP5WJ.jpg",
-            "width": 2942,
-            "height": 1662
+            "url": "https://pbs.twimg.com/media/HNKNxsIWoAAjo0-.jpg",
+            "width": 3840,
+            "height": 2639
+          },
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2076878334219128832/vid/avc1/1280x720/TfpXHWdy1IDQVmsc.mp4?tag=28",
+            "width": 1280,
+            "height": 720
           }
         ],
         "urls": [],
@@ -820,45 +808,74 @@
         "score": null
       },
       {
-        "id": "2076722045136843026",
-        "text": "Crazy what you can build with Grok 4.5 and Grok Build in minutes. https://t.co/ltAeB1Q9To",
+        "id": "2077012251899277738",
+        "text": "Grok is the Flow LLM.\n\nGrok 4.5’s biggest advantage is its speed.\n\nIt’s smart enough to be comparable to the other models on most things.\n\nBut that speed allows you to make little tweaks to your system so that the output is PERFECT.\n\nWith the other models, it takes FOREVER to do this, and you constantly end up outside of a flow state, which makes it way way way harder to do this.\n\nIt’s now my preferred model.",
         "author": {
-          "id": "1587601034339561472",
-          "name": "tetsuo",
-          "screenName": "tetsuoai",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2035289570598924288/kAOCyKpV_normal.jpg",
+          "id": "17862108",
+          "name": "Farzad 🇺🇸 🇮🇷",
+          "screenName": "farzyness",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1863976029368270848/NccgxqmW_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 1653,
-          "retweets": 367,
-          "replies": 138,
-          "quotes": 5,
-          "views": 704919,
-          "bookmarks": 113
+          "likes": 1783,
+          "retweets": 492,
+          "replies": 186,
+          "quotes": 9,
+          "views": 640044,
+          "bookmarks": 75
         },
-        "createdAt": "Mon Jul 13 17:34:53 +0000 2026",
-        "createdAtLocal": "2026-07-14 01:34",
-        "createdAtISO": "2026-07-13T17:34:53+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HNH_mNIb0AEWMI6.png",
-            "width": 849,
-            "height": 480
-          }
-        ],
+        "createdAt": "Tue Jul 14 12:48:04 +0000 2026",
+        "createdAtLocal": "2026-07-14 20:48",
+        "createdAtISO": "2026-07-14T12:48:04+00:00",
+        "media": [],
         "urls": [],
         "isRetweet": true,
         "retweetedBy": "elonmusk",
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2076699535296856102",
-          "text": "Grok 4.5 Everybody loves it. https://t.co/zj0FUEVXNr",
+          "id": "2076829910879043934",
+          "text": "It's great that Grok 4.5 is faster and 90% cheaper than Fable 5.   What really matters to enterprise is \"does it work\".   Grok 4.5 allowed me to complete what Fable 5 couldn't.   Full ingestion, crawl, indexing, AI searchibility, vault, filestore app of 450,000 files with full app service, ask, wiki, and custom agent enablement.  Intelligence layer enabled for an entire company by Grok 4.5.  The only one that succeeded.   Try it...",
           "author": {
-            "screenName": "Falconortizx",
-            "name": "FalconOrtiz"
+            "screenName": "jon",
+            "name": "Jon Shulkin"
+          }
+        }
+      },
+      {
+        "id": "2077022708693684548",
+        "text": "Starlink will provide high-speed, low-latency connectivity onboard @FlyFrontier, transforming every flight into a fully connected experience 🛰️✈️",
+        "author": {
+          "id": "1330170106501079041",
+          "name": "Starlink",
+          "screenName": "Starlink",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1720501511271383040/FXz_jiJu_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 2446,
+          "retweets": 642,
+          "replies": 200,
+          "quotes": 21,
+          "views": 627904,
+          "bookmarks": 58
+        },
+        "createdAt": "Tue Jul 14 13:29:37 +0000 2026",
+        "createdAtLocal": "2026-07-14 21:29",
+        "createdAtISO": "2026-07-14T13:29:37+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2077016033538302299",
+          "text": "The Wi-Fi era begins. @Starlink  is coming to Frontier flights 2027. 🛜✈️ https://t.co/rpomjNmCA1",
+          "author": {
+            "screenName": "FlyFrontier",
+            "name": "Frontier Airlines"
           }
         }
       }
@@ -875,11 +892,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 281,
+          "likes": 282,
           "retweets": 25,
           "replies": 41,
           "quotes": 8,
-          "views": 52725,
+          "views": 53079,
           "bookmarks": 116
         },
         "createdAt": "Wed Jul 01 15:12:14 +0000 2026",
@@ -915,7 +932,7 @@
           "retweets": 222,
           "replies": 73,
           "quotes": 30,
-          "views": 196347,
+          "views": 196935,
           "bookmarks": 1163
         },
         "createdAt": "Tue Jun 30 17:07:49 +0000 2026",
@@ -950,7 +967,7 @@
           "retweets": 2,
           "replies": 5,
           "quotes": 1,
-          "views": 21217,
+          "views": 21378,
           "bookmarks": 42
         },
         "createdAt": "Tue Jun 30 17:07:50 +0000 2026",
@@ -985,12 +1002,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 3844,
+          "likes": 3848,
           "retweets": 568,
           "replies": 187,
           "quotes": 153,
-          "views": 661483,
-          "bookmarks": 2026
+          "views": 661940,
+          "bookmarks": 2025
         },
         "createdAt": "Tue Jun 16 16:31:58 +0000 2026",
         "createdAtLocal": "2026-06-17 00:31",
@@ -1024,7 +1041,7 @@
           "retweets": 19,
           "replies": 5,
           "quotes": 2,
-          "views": 47798,
+          "views": 47910,
           "bookmarks": 100
         },
         "createdAt": "Tue Jun 16 16:31:58 +0000 2026",

@@ -1,0 +1,35 @@
+{
+  "title": "Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model",
+  "summary": "Automatic speech recognition is dominated by autoregressive decoders that emit one token at a time. We ask whether a discrete diffusion language model can transcribe speech instead, refining a whole transcript in parallel over a small number of denoising steps. We train an audio-native interface for DiffusionGemma, a 26B mixture-of-experts model that generates text by uniform, random-token discrete diffusion rather than the absorbing-mask scheme common to recent diffusion language models. A frozen Whisper encoder supplies acoustic features, a lightweight projector maps them into the model embedding space, and low-rank adapters let the frozen backbone attend to the new modality.\n  About 42M parameters are trained, which is 0.16 percent of the backbone. We find that the natural training objectives fail to ground the audio because their gradient reaches the projector only through attention that has already dismissed it. A connectionist temporal classification loss applied through the frozen output head breaks this deadlock. The resulting model reaches 6.6 percent word error rate on LibriSpeech test-clean, transcribes in roughly eight parallel steps regardless of utterance length, and uses a single adapter trained on six languages, which we evaluate here on English, Hindi, and Mandarin.",
+  "url": "http://arxiv.org/abs/2607.13013v1",
+  "authors": [
+    "Harsha Vardhan Khurdula",
+    "Abhinav Kumar Singh",
+    "Yoeven D Khemlani",
+    "Vineet Agarwal"
+  ],
+  "published": "2026-07-14T17:53:22Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "audio",
+    "training",
+    "embedding",
+    "attention",
+    "parameter",
+    "gradient"
+  ],
+  "summary_cn": "本文提出一种基于离散扩散语言模型的语音识别新方法，颠覆传统自回归逐个生成token的范式。通过将离散扩散模型与音频原生接口结合，模型能够在少量去噪步骤中并行优化整个转录文本，显著降低推理延迟。该方法无需依赖文本tokenizer，直接处理音频特征，保持音频语义完整性。商业上，该技术有望实现实时、低延时的语音转写服务，适合会议记录、语音助手等场景。产品创新在于将扩散模型的并行生成能力迁移至语音识别领域，为端到端非自回归架构开辟新路径。",
+  "pm_relevance": 7,
+  "concepts": [
+    "离散扩散模型",
+    "并行语音识别",
+    "非自回归解码"
+  ],
+  "entities": [],
+  "patterns": [
+    "并行生成模式",
+    "扩散模型应用"
+  ]
+}

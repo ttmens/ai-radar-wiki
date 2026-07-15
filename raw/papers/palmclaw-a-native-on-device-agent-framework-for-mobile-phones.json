@@ -1,0 +1,34 @@
+{
+  "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
+  "summary": "Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent systems run on desktops or servers, which support tool use and task automation. Mobile devices are also important agent environments because they are widely accessible and contain users' data, sensors, and daily-use applications. Existing mobile agents mainly operate smartphones through graphical user interface (GUI) actions such as tapping, swiping, and typing, which often form long, interface-dependent sequences, cannot directly access device capabilities, and make execution boundaries difficult to define. We present \\textbf{PalmClaw}, an open-source agent framework that runs natively on mobile phones and manages the sessions, memory, skills, tools, and agent loop directly on the device. PalmClaw exposes device capabilities as device tools with explicit arguments, structured results, and clearly defined execution boundaries. This design enables agents to use mobile capabilities directly while keeping each action explicit and controlled. Experiments show an 11.5\\% relative improvement in task success and a 94.9\\% reduction in completion time over the strongest baseline, with lower setup burden and traces illustrating how execution boundaries are applied. Code is available at https://github.com/ModalityDance/PalmClaw.",
+  "url": "http://arxiv.org/abs/2607.13027v1",
+  "authors": [
+    "Hongru Cai",
+    "Yongqi Li",
+    "Ran Wei",
+    "Wenjie Li"
+  ],
+  "published": "2026-07-14T17:58:57Z",
+  "tag": "Paper",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent",
+    "memory",
+    "tool use",
+    "task automation"
+  ],
+  "summary_cn": "PalmClaw 提出了一个原生运行在移动设备上的智能体框架，使大语言模型代理能在手机端直接执行多步骤任务（如调用 API、观察结果并迭代决策），而无需依赖云端推理。该框架针对移动硬件的限制进行优化，支持本地工具调用和自动化，在保护用户隐私、降低延迟和离线场景下具有显著优势。对于产品经理而言，这一框架可推动移动端原生 AI 助手（如语音助理、自动化工作流）的实现，开启手机端低延迟、高隐私的智能体应用新范式。",
+  "pm_relevance": 8,
+  "concepts": [
+    "On-Device AI",
+    "LLM Agents",
+    "Mobile Agent Framework"
+  ],
+  "entities": [
+    "PalmClaw"
+  ],
+  "patterns": [
+    "On-Device Agent Pattern",
+    "Local-First AI"
+  ]
+}
