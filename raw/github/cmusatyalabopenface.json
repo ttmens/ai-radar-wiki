@@ -1,0 +1,33 @@
+{
+  "name": "cmusatyalab/openface",
+  "description": "Face recognition with deep neural networks.",
+  "stars": 15425,
+  "language": "Lua",
+  "topics": [
+    "deep-learning",
+    "face-recognition",
+    "facenet"
+  ],
+  "url": "https://github.com/cmusatyalab/openface",
+  "created": "2015-09-16T12:47:27Z",
+  "tag": "GitHub",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "neural network"
+  ],
+  "summary_cn": "Openface 是基于深度神经网络的开源人脸识别系统，由卡内基梅隆大学的研究团队开发。它利用深度学习模型实现高精度的人脸检测、对齐和识别，支持实时处理和批量分析。产品角度，Openface 降低了人脸识别技术的门槛，使开发者能够快速集成到安防、门禁、零售客户分析等场景中。其模块化设计允许针对特定用户群体进行微调，商业价值体现在可定制的身份验证解决方案和低成本部署。开源特性促进了社区迭代，但需关注隐私合规和模型偏见问题。",
+  "pm_relevance": 7,
+  "concepts": [
+    "人脸识别",
+    "深度学习",
+    "开源框架"
+  ],
+  "entities": [
+    "CMU",
+    "OpenFace"
+  ],
+  "patterns": [
+    "预训练模型模式",
+    "API即产品模式"
+  ]
+}

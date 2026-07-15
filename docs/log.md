@@ -2882,3 +2882,23 @@
 - create: vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet.md
 - create: show-hn-styleseed-a-design-rules-engine-so-ai-agents-stop-building-generic-ui.md
 - create: show-hn-i-built-a-smart-proxy-so-your-coding-agent-can-run-loose.md
+
+## [2026-07-16 06:01] sync v3 | 18 new | pillars: {'capabilities': 12, 'patterns': 4, 'business': 1, 'ecosystem': 1}
+- create: cmusatyalabopenface.md
+- create: inkling-our-open-weights-model.md
+- create: brainless-shadcn-components-that-look-like-claude-code-codex-and-grok.md
+- create: open-source-memory-for-coding-agents-synced-over-ssh.md
+- create: unsolved-problems-in-mlops.md
+- create: a-general-goal-conditioned-minecraft-model.md
+- create: amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex.md
+- create: spacex-falls-to-135-ipo-price-ahead-of-starship-launch.md
+- create: thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-op.md
+- create: hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data.md
+- create: whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations.md
+- create: microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai.md
+- create: inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-ente.md
+- create: show-hn-low-latency-local-llm-runner-via-openjdk-panama-ffm-java-22.md
+- create: show-hn-capn-hook-for-coding-agents-dont-grep-the-same-mystery-twice.md
+- create: show-hn-painterly-turn-pictures-into-digital-paintings-without-generative-ai.md
+- create: show-hn-for-10-world-cups-my-models-2-favorites-had-the-champion-every-time.md
+- create: show-hn-aict-unix-coreutils-that-output-xmljson-built-for-ai-agents.md

@@ -1,0 +1,26 @@
+{
+  "title": "Unsolved Problems in MLOps",
+  "score": 41,
+  "comments": 4,
+  "url": "https://spawn-queue.acm.org/doi/pdf/10.1145/3762989",
+  "hn_url": "https://news.ycombinator.com/item?id=48923109",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "MLOps 面临的核心未解问题包括：模型版本管理与可重复性、数据漂移与概念漂移的实时检测、自动化管道中的故障恢复与回滚、跨环境（开发/生产）的一致性维护，以及模型监控与可解释性之间的平衡。这些问题直接影响 AI 产品的部署效率与可靠性。商业价值在于：成熟的 MLOps 能降低运营成本 40% 以上，加速模型迭代至分钟级。产品创新方向包括：构建无服务器化的训练/推理管道、引入可观测性仪表盘、以及基于大语言模型的自动故障排查助手。",
+  "pm_relevance": 7,
+  "concepts": [
+    "MLOps",
+    "Model Lifecycle Management",
+    "Data Drift Detection"
+  ],
+  "entities": [
+    "Kubeflow",
+    "MLflow",
+    "Weights & Biases"
+  ],
+  "patterns": [
+    "Continuous Training Pipeline",
+    "Model Observability Pattern"
+  ]
+}
