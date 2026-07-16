@@ -1,0 +1,22 @@
+{
+  "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+  "score": 55,
+  "comments": 12,
+  "url": "https://arxiv.org/abs/2607.11859",
+  "hn_url": "https://news.ycombinator.com/item?id=48929660",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该研究评估了大语言模型（LLM）对计算机架构领域论文的深度技术理解能力，而非仅仅表面文本理解。通过设计专门测试任务，发现当前LLM在专业概念推理、架构设计逻辑等方面表现有限，但在基础术语识别上尚可。对于AI产品经理，这意味着LLM在辅助科研文献分析、技术文档自动摘要等场景中仍有提升空间，需结合领域知识增强或检索增强生成（RAG）模式才能实现可靠的产品化应用。商业价值体现在加速技术调研、知识图谱构建等效率提升方面。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Technical Comprehension",
+    "Domain-Specific LLM Evaluation",
+    "Computer Architecture"
+  ],
+  "entities": [],
+  "patterns": [
+    "Retrieval-Augmented Generation",
+    "Domain-Specific Evaluation"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education",
+  "summary": "This paper presents Earthquaker-AI, a hybrid educational framework building upon a previously implemented educational robotics project by integrating a conversational AI assistant based on Retrieval-Augmented Generation. It aims to enhance earthquake preparedness and conscious action among primary-school students. The system extends the award-winning STEM project Earthquaker moving from mechanical simulation with Lego WeDo2 to cognitive and metacognitive processing. The robotics component uses Lego WeDo2 automation to simulate seismic response, letting students interact with sensors and actuators as tangible representations of protective actions. The assistant operates as a guided learning mechanism aligning student responses with safety guidelines, while providing rubric-based verbal feedback that supports self-regulated learning and calmness under emergency conditions. Earthquaker-AI follows a progressive learning trajectory aligned with cognitive development. In early grades, the focus is on basic recognition of safety actions through multiple-choice questions, assessed via a two-dimensional rubric. In middle grades, students identify correct action sequences through multiple-choice questions, evaluated via a three-axis rubric. In upper grades, the approach shifts to verbal production, requiring short written responses assessed via a four-dimensional rubric that includes clarity of expression. The dialogic module uses RAG to match student queries semantically with official guidelines, generating safe, accurate responses. Experimental evaluation shows high groundedness and accuracy, with a low hallucination rate. Overall, Earthquaker-AI combines hands-on engagement, information processing, and reflective practice. Combining robotics, rubrics, and AI promotes technological literacy, self-regulation, and responsible use of digital systems, contributing to early crisis-management skills.",
+  "url": "http://arxiv.org/abs/2607.14046v1",
+  "authors": [
+    "Xanthi Kokkinou",
+    "Chaido Mizeli",
+    "Nafsika Koulaxidou",
+    "Marina Delianidi",
+    "Konstantinos Diamantaras"
+  ],
+  "published": "2026-07-15T17:15:16Z",
+  "tag": "Paper",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "assistant",
+    "rag",
+    "retrieval-augmented",
+    "ai assistant",
+    "conversational ai"
+  ],
+  "summary_cn": "Earthquaker-AI 是一个面向小学地震教育的混合框架，基于检索增强生成（RAG）技术，将之前的教育机器人项目升级为拥有对话式AI助手的系统。通过结合结构化评估（Rubric-Based Assessment），该框架能根据学生表现动态调整教学内容，提升地震准备意识和正确行动能力。其产品创新点在于将RAG与教育机器人融合，实现个性化、交互式学习，降低教师负担，同时保证知识准确性。商业价值体现在教育科技细分领域——防灾安全培训市场，可推广至学校、社区等场景。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Retrieval-Augmented Generation",
+    "Educational Robotics",
+    "Rubric-Based Assessment"
+  ],
+  "entities": [
+    "Earthquaker-AI"
+  ],
+  "patterns": [
+    "RAG Pattern",
+    "Educational Dialogue System"
+  ]
+}

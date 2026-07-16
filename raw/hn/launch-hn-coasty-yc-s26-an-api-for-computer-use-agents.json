@@ -1,0 +1,27 @@
+{
+  "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
+  "score": 37,
+  "comments": 12,
+  "url": "https://coasty.ai/docs",
+  "hn_url": "https://news.ycombinator.com/item?id=48922706",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "Coasty 是 YC S26 的初创项目，提供专为“计算机使用代理”设计的 API。这类 AI 代理能像人类一样直接操作计算机界面（如点击、输入、浏览），实现自动化任务。对产品经理而言，该 API 降低了构建通用型自动化代理的门槛，可应用于 RPA、测试、数据录入等场景，商业价值显著。技术要点包括跨平台接口交互、安全控制以及任务调度。产品创新在于将复杂的操作系统操控能力封装为简洁的 API，快速赋能各类 AI 应用。",
+  "pm_relevance": 9,
+  "concepts": [
+    "Computer-Use Agents",
+    "AI Automation API",
+    "OS-Level Interaction"
+  ],
+  "entities": [
+    "Coasty",
+    "Y Combinator"
+  ],
+  "patterns": [
+    "Agent API",
+    "Computer Automation"
+  ]
+}

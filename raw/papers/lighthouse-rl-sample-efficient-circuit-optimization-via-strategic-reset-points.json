@@ -1,0 +1,32 @@
+{
+  "title": "Lighthouse RL: Sample-Efficient Circuit Optimization via Strategic Reset Points",
+  "summary": "In this paper, we introduce Lighthouse RL, a sample-efficient reinforcement learning (RL) approach for analog circuit sizing. Traditional methods lack generalization across different performance targets, while standard RL approaches waste resources exploring unpromising regions. Our method addresses these inefficiencies through a strategic reset strategy that initializes episodes from high-performing configurations discovered during training, called \"lighthouses\". These states, which are closer to the target objectives, guide exploration toward promising regions. When compared to RL and Bayesian optimization methods from the literature, we demonstrate the effectiveness of our approach on a 2D benchmark problem and on two analog circuits, showing significant improvements in sample efficiency (up to 1.72x faster), optimization performance (100% vs. 0-87% success rate), generalization (75% vs. 0-50% extrapolation success), and objective maximization. This efficiency is particularly valuable for computationally expensive black-box optimization problems, and our reset strategy can be used as a plug-and-play enhancement for any RL-based optimization approach.",
+  "url": "http://arxiv.org/abs/2607.14008v1",
+  "authors": [
+    "Mustafa Emre Gürsoy",
+    "Stefan Uhlich",
+    "Ryoga Matsuo",
+    "Yağız Gençer",
+    "Arun Venkitaraman"
+  ],
+  "published": "2026-07-15T16:37:57Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "training",
+    "optimization"
+  ],
+  "summary_cn": "Lighthouse RL 提出了一种样本高效的强化学习方法，用于模拟电路尺寸优化。传统方法在不同性能目标间泛化能力差，标准RL则浪费资源探索无前景区域。该方法通过战略复位点提升样本效率，加速电路设计迭代，降低试错成本。商业价值在于显著提升模拟电路自动化设计效率，缩短产品上市周期，适用于芯片设计、EDA工具等场景。产品创新点在于将RL与电路优化结合，实现从手工调参向智能决策的转变，对AI产品经理而言，可探索将此类技术集成到设计平台，提升用户体验与设计成功率。",
+  "pm_relevance": 8,
+  "concepts": [
+    "强化学习",
+    "电路设计自动化",
+    "样本效率"
+  ],
+  "entities": [],
+  "patterns": [
+    "强化学习模式",
+    "自动化设计模式"
+  ]
+}

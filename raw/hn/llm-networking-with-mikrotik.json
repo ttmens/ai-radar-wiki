@@ -1,0 +1,22 @@
+{
+  "title": "LLM Networking with MikroTik",
+  "score": 63,
+  "comments": 24,
+  "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+  "hn_url": "https://news.ycombinator.com/item?id=48927915",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该技术将大语言模型（LLM）与 MikroTik 网络设备深度融合，通过在路由器或交换机上直接运行轻量级 LLM 推理，实现边缘侧的智能流量调度、异常检测和自动化运维。商业价值在于降低云端推理延迟和带宽成本，提升网络自愈能力；产品创新体现为“AI 原生网络硬件”概念，使传统网络设备具备理解自然语言指令和实时决策的能力，为中小企业提供低成本、低门槛的智能网络管理方案。",
+  "pm_relevance": 7,
+  "concepts": [
+    "边缘AI推理",
+    "AI原生网络"
+  ],
+  "entities": [
+    "MikroTik"
+  ],
+  "patterns": [
+    "边缘计算模式"
+  ]
+}

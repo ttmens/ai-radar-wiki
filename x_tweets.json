@@ -1,8 +1,68 @@
 {
-  "fetched_at": "2026-07-15T21:00:24.087665",
+  "fetched_at": "2026-07-16T21:02:07.387017",
   "source": "twitter-cli",
   "data": {
     "sama": [
+      {
+        "id": "2077489177374208000",
+        "text": "amazing to me that some people want the silent version\n\nhttps://t.co/jbdznnBx9Z",
+        "author": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screenName": "sama",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 2771,
+          "retweets": 122,
+          "replies": 503,
+          "quotes": 70,
+          "views": 456708,
+          "bookmarks": 432
+        },
+        "createdAt": "Wed Jul 15 20:23:12 +0000 2026",
+        "createdAtLocal": "2026-07-16 04:23",
+        "createdAtISO": "2026-07-15T20:23:12+00:00",
+        "media": [],
+        "urls": [
+          "https://openai.com/supply/co-lab/work-louder/"
+        ],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2077446718728425686",
+        "text": "Introducing GPT-Red\n\nAn internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.\n\nhttps://t.co/GxnmxxcpSk",
+        "author": {
+          "id": "4398626122",
+          "name": "OpenAI",
+          "screenName": "OpenAI",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 7463,
+          "retweets": 694,
+          "replies": 426,
+          "quotes": 236,
+          "views": 1244668,
+          "bookmarks": 2079
+        },
+        "createdAt": "Wed Jul 15 17:34:29 +0000 2026",
+        "createdAtLocal": "2026-07-16 01:34",
+        "createdAtISO": "2026-07-15T17:34:29+00:00",
+        "media": [],
+        "urls": [
+          "https://openai.com/index/unlocking-self-improvement-gpt-red/"
+        ],
+        "isRetweet": true,
+        "retweetedBy": "sama",
+        "lang": "en",
+        "score": null
+      },
       {
         "id": "2077118672150388816",
         "text": "hello!",
@@ -14,12 +74,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 5874,
-          "retweets": 122,
-          "replies": 490,
-          "quotes": 32,
-          "views": 749096,
-          "bookmarks": 191
+          "likes": 6637,
+          "retweets": 138,
+          "replies": 605,
+          "quotes": 34,
+          "views": 1141347,
+          "bookmarks": 232
         },
         "createdAt": "Tue Jul 14 19:50:57 +0000 2026",
         "createdAtLocal": "2026-07-15 03:50",
@@ -50,12 +110,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 10750,
-          "retweets": 298,
-          "replies": 792,
-          "quotes": 185,
-          "views": 2037126,
-          "bookmarks": 497
+          "likes": 12481,
+          "retweets": 343,
+          "replies": 901,
+          "quotes": 215,
+          "views": 2612178,
+          "bookmarks": 574
         },
         "createdAt": "Tue Jul 14 19:02:55 +0000 2026",
         "createdAtLocal": "2026-07-15 03:02",
@@ -78,12 +138,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 22245,
-          "retweets": 1212,
-          "replies": 1164,
-          "quotes": 241,
-          "views": 2685800,
-          "bookmarks": 1567
+          "likes": 24018,
+          "retweets": 1281,
+          "replies": 1242,
+          "quotes": 256,
+          "views": 3300303,
+          "bookmarks": 1784
         },
         "createdAt": "Tue Jul 14 15:30:33 +0000 2026",
         "createdAtLocal": "2026-07-14 23:30",
@@ -102,70 +162,6 @@
             "name": "Hari"
           }
         }
-      },
-      {
-        "id": "2077053226080436235",
-        "text": "also, a reason to favor open-source harnesses.",
-        "author": {
-          "id": "1605",
-          "name": "Sam Altman",
-          "screenName": "sama",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 5123,
-          "retweets": 134,
-          "replies": 393,
-          "quotes": 113,
-          "views": 795977,
-          "bookmarks": 254
-        },
-        "createdAt": "Tue Jul 14 15:30:53 +0000 2026",
-        "createdAtLocal": "2026-07-14 23:30",
-        "createdAtISO": "2026-07-14T15:30:53+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2077042528906527225",
-        "text": "this is a thoughtful proposal from demis:",
-        "author": {
-          "id": "1605",
-          "name": "Sam Altman",
-          "screenName": "sama",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 5874,
-          "retweets": 333,
-          "replies": 307,
-          "quotes": 38,
-          "views": 1164591,
-          "bookmarks": 3589
-        },
-        "createdAt": "Tue Jul 14 14:48:23 +0000 2026",
-        "createdAtLocal": "2026-07-14 22:48",
-        "createdAtISO": "2026-07-14T14:48:23+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2076957440109625718",
-          "text": "https://t.co/PTeDiv1b6L",
-          "author": {
-            "screenName": "demishassabis",
-            "name": "Demis Hassabis"
-          }
-        }
       }
     ],
     "karpathy": [
@@ -180,12 +176,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8681,
-          "retweets": 1061,
-          "replies": 438,
-          "quotes": 565,
-          "views": 3557321,
-          "bookmarks": 5129
+          "likes": 8722,
+          "retweets": 1067,
+          "replies": 443,
+          "quotes": 569,
+          "views": 3575772,
+          "bookmarks": 5131
         },
         "createdAt": "Wed Jul 08 21:47:29 +0000 2026",
         "createdAtLocal": "2026-07-09 05:47",
@@ -210,12 +206,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1549,
+          "likes": 1556,
           "retweets": 150,
-          "replies": 70,
-          "quotes": 14,
-          "views": 460847,
-          "bookmarks": 2411
+          "replies": 72,
+          "quotes": 13,
+          "views": 469642,
+          "bookmarks": 2423
         },
         "createdAt": "Fri Jul 03 14:12:03 +0000 2026",
         "createdAtLocal": "2026-07-03 22:12",
@@ -240,12 +236,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 9467,
-          "retweets": 926,
-          "replies": 639,
-          "quotes": 594,
-          "views": 6075456,
-          "bookmarks": 3640
+          "likes": 9640,
+          "retweets": 928,
+          "replies": 644,
+          "quotes": 599,
+          "views": 6235900,
+          "bookmarks": 3726
         },
         "createdAt": "Tue Jun 30 15:00:09 +0000 2026",
         "createdAtLocal": "2026-06-30 23:00",
@@ -275,12 +271,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1910,
-          "retweets": 242,
+          "likes": 1915,
+          "retweets": 241,
           "replies": 181,
           "quotes": 160,
-          "views": 1838712,
-          "bookmarks": 1225
+          "views": 1852196,
+          "bookmarks": 1232
         },
         "createdAt": "Tue Jun 23 17:01:29 +0000 2026",
         "createdAtLocal": "2026-06-24 01:01",
@@ -306,12 +302,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 23055,
-          "retweets": 1901,
-          "replies": 1338,
+          "likes": 23064,
+          "retweets": 1902,
+          "replies": 1340,
           "quotes": 695,
-          "views": 7887323,
-          "bookmarks": 13919
+          "views": 7893525,
+          "bookmarks": 13921
         },
         "createdAt": "Tue Jun 23 22:26:31 +0000 2026",
         "createdAtLocal": "2026-06-24 06:26",
@@ -344,12 +340,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 273,
+          "likes": 277,
           "retweets": 44,
-          "replies": 76,
+          "replies": 78,
           "quotes": 6,
-          "views": 91433,
-          "bookmarks": 54
+          "views": 93038,
+          "bookmarks": 55
         },
         "createdAt": "Thu Jul 09 17:31:17 +0000 2026",
         "createdAtLocal": "2026-07-10 01:31",
@@ -380,12 +376,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8394,
+          "likes": 8407,
           "retweets": 1618,
           "replies": 388,
-          "quotes": 175,
-          "views": 640978,
-          "bookmarks": 10241
+          "quotes": 176,
+          "views": 643397,
+          "bookmarks": 10246
         },
         "createdAt": "Tue Jun 30 16:04:04 +0000 2026",
         "createdAtLocal": "2026-07-01 00:04",
@@ -415,12 +411,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1337,
+          "likes": 1338,
           "retweets": 287,
           "replies": 172,
           "quotes": 61,
-          "views": 162164,
-          "bookmarks": 400
+          "views": 162822,
+          "bookmarks": 402
         },
         "createdAt": "Fri Jun 19 18:34:23 +0000 2026",
         "createdAtLocal": "2026-06-20 02:34",
@@ -450,12 +446,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 358,
+          "likes": 359,
           "retweets": 52,
           "replies": 55,
           "quotes": 10,
-          "views": 81765,
-          "bookmarks": 209
+          "views": 82200,
+          "bookmarks": 210
         },
         "createdAt": "Thu Jun 18 17:00:03 +0000 2026",
         "createdAtLocal": "2026-06-19 01:00",
@@ -485,12 +481,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1116,
+          "likes": 1117,
           "retweets": 148,
           "replies": 109,
           "quotes": 13,
-          "views": 123321,
-          "bookmarks": 847
+          "views": 123650,
+          "bookmarks": 846
         },
         "createdAt": "Thu Jun 04 16:44:13 +0000 2026",
         "createdAtLocal": "2026-06-05 00:44",
@@ -512,6 +508,104 @@
     ],
     "ylecun": [
       {
+        "id": "2077566845431779766",
+        "text": "It is clear open source models and harnesses are having a moment. There's a few factors at work\n\n1/ It is now obvious that you can catch up to near-SOTA performance and do so with a clear training lineage. See:@thinkymachines  Inkling launch today.\n\n2/ There are several well-funded, talented teams building open weight models now in the US and abroad. Along with the explosing of other near SOTA models (Grok/Cursor, Muse Spark), it is clear we are going to have a diverse ecosystem of models atleast on coding and agentic use.\n\n3/ Organizations are increasingly looking for control over how their data is used and are willing to trade off some access to frontier level tokens for this control. Organizations and countries are increasingly nervous about the frontier labs potentially competing with them down the road and don't want their data to enable a future competitor.\n\n4/ Open source is a slider: you could bring your own open harness, your evals, your business context and are free to pick and choose your model of choice.\n\n5/ Companies have now actively shifted from \"how do we get our people to use tokens\" to being uncomfortable with their token cost ballooning without a clear line to revenue.\n\n6/ Geo-politically, countries will be weighing open weight models as a way to get frontier-level tokens inside controlled environments that may not be otherwise possible.\n\nAll of this leads to more choice for all of us !",
+        "author": {
+          "id": "149763",
+          "name": "Sriram Krishnan",
+          "screenName": "sriramk",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1873344970104492033/l7dRtM08_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 586,
+          "retweets": 80,
+          "replies": 41,
+          "quotes": 23,
+          "views": 152501,
+          "bookmarks": 408
+        },
+        "createdAt": "Thu Jul 16 01:31:49 +0000 2026",
+        "createdAtLocal": "2026-07-16 09:31",
+        "createdAtISO": "2026-07-16T01:31:49+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2077386683054432330",
+        "text": "Raphael Warnock: “Donald Trump lost Georgia in 2020. That’s not my opinion, it’s a fact. The votes were counted, recounted, audited, and litigated. He lost, he lost, he lost. He’s trying to sow doubt on the integrity of our elections in Georgia so he can create the pretext to interfere in 2026. This president is a liar, a cheater, and a fraud and he has shown us over and over again that staying in power matters more to him than anything else”",
+        "author": {
+          "id": "378719200",
+          "name": "Marco Foster",
+          "screenName": "MarcoFoster_",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1700879782504722432/xNu3zdGs_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 18991,
+          "retweets": 5420,
+          "replies": 1764,
+          "quotes": 222,
+          "views": 386281,
+          "bookmarks": 498
+        },
+        "createdAt": "Wed Jul 15 13:35:55 +0000 2026",
+        "createdAtLocal": "2026-07-15 21:35",
+        "createdAtISO": "2026-07-15T13:35:55+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2077386280195825666/vid/avc1/1920x1080/QnNLrfWGpNm2X6V9.mp4?tag=28",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2077415413256794213",
+        "text": "OMGGGGG -- Clayton is reduced to sitting in silence instead of acknowledging Joe Biden won the 2020 election \n\nOSSOFF: Who won the 2020 election?\n\nCLAYTON: Uhm, you know, I'm not going to do this with you\n\nOSSOFF: This is a job interview. You have an obligation to be honest with the committee. Who won the 2020 election?\n\nCLAYTON: I'm not gonna get into that with you\n\nOSSOFF: You're not being honest or forthright\n\nCLAYTON: ...",
+        "author": {
+          "id": "288277167",
+          "name": "Aaron Rupar",
+          "screenName": "atrupar",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1335565046290804738/eGXNmTvg_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 19745,
+          "retweets": 3504,
+          "replies": 941,
+          "quotes": 447,
+          "views": 3035865,
+          "bookmarks": 2141
+        },
+        "createdAt": "Wed Jul 15 15:30:05 +0000 2026",
+        "createdAtLocal": "2026-07-15 23:30",
+        "createdAtISO": "2026-07-15T15:30:05+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2077415355866140672/vid/avc1/1280x720/DiLyVbi5y1uZOFjY.mp4?tag=14",
+            "width": 1280,
+            "height": 720
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
+      },
+      {
         "id": "2077034061126603120",
         "text": "or maybe let's make sure the most important technology in the history of humanity is not controled by just 4 men? Aka let's push for open science &amp; open-source AI to distribute capabilities, power and wealth!",
         "author": {
@@ -522,12 +616,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 269,
-          "retweets": 33,
-          "replies": 23,
-          "quotes": 5,
-          "views": 37708,
-          "bookmarks": 12
+          "likes": 303,
+          "retweets": 41,
+          "replies": 29,
+          "quotes": 6,
+          "views": 47222,
+          "bookmarks": 14
         },
         "createdAt": "Tue Jul 14 14:14:44 +0000 2026",
         "createdAtLocal": "2026-07-14 22:14",
@@ -537,15 +631,7 @@
         "isRetweet": true,
         "retweetedBy": "ylecun",
         "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2077011237028651505",
-          "text": "not great that 3 of the 4 men controlling the most important technology in the history of humanity all hate each other and are beefing nonstop \n\nmay sir demis save us all",
-          "author": {
-            "screenName": "mdudas",
-            "name": "Mike Dudas"
-          }
-        }
+        "score": null
       },
       {
         "id": "2077090996404289868",
@@ -558,12 +644,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 2950,
-          "retweets": 1564,
-          "replies": 433,
-          "quotes": 76,
-          "views": 55996,
-          "bookmarks": 89
+          "likes": 3533,
+          "retweets": 1832,
+          "replies": 508,
+          "quotes": 88,
+          "views": 71393,
+          "bookmarks": 105
         },
         "createdAt": "Tue Jul 14 18:00:58 +0000 2026",
         "createdAtLocal": "2026-07-15 02:00",
@@ -581,174 +667,38 @@
         "retweetedBy": "ylecun",
         "lang": "en",
         "score": null
-      },
-      {
-        "id": "2077054089674797303",
-        "text": "This is outrageous. \n\nThe Election Assistance Commission is bipartisan by law. It certifies voting machines and sets security standards. \n\nNow it has zero commissioners and cannot act. \n\nWhen courts blocked his voting orders and Congress stalled his restrictions, Trump fired the umpire instead.",
-        "author": {
-          "id": "14573926",
-          "name": "Mike Levin",
-          "screenName": "MikeLevin",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1593751497401020416/TAx21Vxy_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 485,
-          "retweets": 312,
-          "replies": 17,
-          "quotes": 12,
-          "views": 16077,
-          "bookmarks": 27
-        },
-        "createdAt": "Tue Jul 14 15:34:19 +0000 2026",
-        "createdAtLocal": "2026-07-14 23:34",
-        "createdAtISO": "2026-07-14T15:34:19+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2077053743866998784/vid/avc1/1440x2560/y-Pf-S-U0HbzPPfx.mp4?tag=28",
-            "width": 1440,
-            "height": 2560
-          }
-        ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2077049444525277340",
-        "text": "Today's leading SSL methods rely heavily on training heuristics—EMA, teacher-student training, layer freezing, and more—to remain stable.\n\nRegularization-based methods are much simpler, but have long failed to match the generalization performance of leading SSL approaches.\n\nVISReg breaks this trade-off.\n\nWe introduce VISReg, the first regularization-based SSL method to achieve state-of-the-art out-of-domain generalization, outperforming MoCov3, DINO, data2vec, iBOT, I-JEPA, MAE, and DINOv2.\n\narXiv: https://t.co/rq687ag2XV\nGithub: https://t.co/XeD8TZroFg",
-        "author": {
-          "id": "1512086648930148353",
-          "name": "Haiyu Wu",
-          "screenName": "HaiyuWu1",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1833875070005002241/xu88w6rH_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 195,
-          "retweets": 27,
-          "replies": 13,
-          "quotes": 0,
-          "views": 34977,
-          "bookmarks": 169
-        },
-        "createdAt": "Tue Jul 14 15:15:51 +0000 2026",
-        "createdAtLocal": "2026-07-14 23:15",
-        "createdAtISO": "2026-07-14T15:15:51+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2077049392163688448/vid/avc1/1920x1080/esCEMbopZcHENvNi.mp4?tag=28",
-            "width": 1920,
-            "height": 1080
-          }
-        ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2076914075636826385",
-        "text": "🤖 Un robot français en seulement 9 mois !\nRémi Cadene, ancien de Tesla AI et Hugging Face, explique comment son équipe veut faire des robots un levier pour la logistique, la réindustrialisation et, demain, notre quotidien.\n🎧👉 https://t.co/4PWzgv5rPu https://t.co/YOLP0ebhuJ",
-        "author": {
-          "id": "32370736",
-          "name": "Jerome Colombain | Monde Numérique",
-          "screenName": "JeromeColombain",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2064746103065432064/UueI5A4i_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 29,
-          "retweets": 5,
-          "replies": 1,
-          "quotes": 2,
-          "views": 12986,
-          "bookmarks": 6
-        },
-        "createdAt": "Tue Jul 14 06:17:57 +0000 2026",
-        "createdAtLocal": "2026-07-14 14:17",
-        "createdAtISO": "2026-07-14T06:17:57+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HNKuNp2WkAAIrFK.jpg",
-            "width": 3000,
-            "height": 3000
-          }
-        ],
-        "urls": [
-          "https://audmns.com/mmRNchM"
-        ],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "fr",
-        "score": null
       }
     ],
     "elonmusk": [
       {
-        "id": "2077292916842877040",
-        "text": "“Most reliable big launch provider in history.”",
+        "id": "2077722244571144271",
+        "text": "This feels like a scene out of a sci-fi movie but it’s just my drive to work this morning https://t.co/n3N66ucvxy",
         "author": {
-          "id": "29279483",
-          "name": "Jon Edwards",
-          "screenName": "edwards345",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1272053434494017538/7qcXmOC3_normal.jpg",
+          "id": "2492039959",
+          "name": "Andrew McCarthy",
+          "screenName": "AJamesMcCarthy",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/465979126185091072/ukRk-mfd_normal.jpeg",
           "verified": true
         },
         "metrics": {
-          "likes": 707,
-          "retweets": 100,
-          "replies": 106,
-          "quotes": 2,
-          "views": 128388,
-          "bookmarks": 19
+          "likes": 6004,
+          "retweets": 572,
+          "replies": 482,
+          "quotes": 53,
+          "views": 222319,
+          "bookmarks": 251
         },
-        "createdAt": "Wed Jul 15 07:23:20 +0000 2026",
-        "createdAtLocal": "2026-07-15 15:23",
-        "createdAtISO": "2026-07-15T07:23:20+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2077122046861942809",
-          "text": "SpaceX is the most reliable big launch provider in history, and soon to be the most prolific ever as well https://t.co/6ukdU6yTi8",
-          "author": {
-            "screenName": "ApoStructura",
-            "name": "ApoStructura"
+        "createdAt": "Thu Jul 16 11:49:19 +0000 2026",
+        "createdAtLocal": "2026-07-16 19:49",
+        "createdAtISO": "2026-07-16T11:49:19+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2077722169375657984/vid/avc1/1080x1920/YCXWi-IAt6xo2jdh.mp4?tag=29",
+            "width": 1080,
+            "height": 1920
           }
-        }
-      },
-      {
-        "id": "2077370252548100153",
-        "text": "Apple just sued OpenAI for trade secret theft in a 41 page federal complaint. The two companies were partners a year and a half ago and now they're in an all-out legal war over the post-smartphone device future.\nHow quickly do the tables turn.",
-        "author": {
-          "id": "14710129",
-          "name": "Peter H. Diamandis, MD",
-          "screenName": "PeterDiamandis",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 768,
-          "retweets": 148,
-          "replies": 179,
-          "quotes": 11,
-          "views": 83763,
-          "bookmarks": 23
-        },
-        "createdAt": "Wed Jul 15 12:30:38 +0000 2026",
-        "createdAtLocal": "2026-07-15 20:30",
-        "createdAtISO": "2026-07-15T12:30:38+00:00",
-        "media": [],
+        ],
         "urls": [],
         "isRetweet": true,
         "retweetedBy": "elonmusk",
@@ -756,44 +706,8 @@
         "score": null
       },
       {
-        "id": "2077151925662097659",
-        "text": "Interesting.",
-        "author": {
-          "id": "5943622",
-          "name": "Marc Andreessen 🇺🇸",
-          "screenName": "pmarca",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1820716712234303489/9GpKDZjq_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 2561,
-          "retweets": 349,
-          "replies": 197,
-          "quotes": 15,
-          "views": 387912,
-          "bookmarks": 254
-        },
-        "createdAt": "Tue Jul 14 22:03:05 +0000 2026",
-        "createdAtLocal": "2026-07-15 06:03",
-        "createdAtISO": "2026-07-14T22:03:05+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2077094214916051025",
-          "text": "Data centers haven’t been raising residential bills.\n\nThe sharpest increases are found in states that have pursued the country’s most aggressive climate policies, not those with the most data centers.\n\nCalifornia, with some of the nation’s fastest-rising electricity rates, has seen relatively modest data-center growth. Virginia, where data centers consume more than a fifth of the state’s electricity, has experienced price increases near the national average.\n\n@Shawn_Regan in the City Journal Substack: https://t.co/454zAKubNC",
-          "author": {
-            "screenName": "CityJournal",
-            "name": "City Journal"
-          }
-        }
-      },
-      {
-        "id": "2077362080286412981",
-        "text": "Needs to change.",
+        "id": "2077629400569278597",
+        "text": "Arguing with NPCs is pointless",
         "author": {
           "id": "44196397",
           "name": "Elon Musk",
@@ -802,16 +716,16 @@
           "verified": true
         },
         "metrics": {
-          "likes": 4382,
-          "retweets": 600,
-          "replies": 734,
-          "quotes": 32,
-          "views": 743664,
-          "bookmarks": 118
+          "likes": 22287,
+          "retweets": 2611,
+          "replies": 1836,
+          "quotes": 248,
+          "views": 2125556,
+          "bookmarks": 1071
         },
-        "createdAt": "Wed Jul 15 11:58:10 +0000 2026",
-        "createdAtLocal": "2026-07-15 19:58",
-        "createdAtISO": "2026-07-15T11:58:10+00:00",
+        "createdAt": "Thu Jul 16 05:40:24 +0000 2026",
+        "createdAtLocal": "2026-07-16 13:40",
+        "createdAtISO": "2026-07-16T05:40:24+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -819,17 +733,80 @@
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2077330657328439675",
-          "text": "This is real. \n\nNetflix’s description of Gone with the Wind: \n\nA 1939 American Civil War epic known for its racism. To learn more about Black lives in America, search \"Black Lives Matter.\" https://t.co/aEV2krn2dI",
+          "id": "1730235498021478681",
+          "text": "Never forget: When you are arguing with a Leftist or a Boomer, you are actually arguing with the TV — and the TV cannot hear you and it does not care.",
           "author": {
-            "screenName": "BillboardChris",
-            "name": "Billboard Chris 🌎"
+            "screenName": "CoreyJMahler",
+            "name": "Corey J. Mahler"
           }
         }
       },
       {
-        "id": "2077361679034118271",
-        "text": "Once we have completed our review for security vulnerabilities, we will make the entire codebase of 𝕏 open source, with no exceptions. \n\nMoreover, we will invite third party reviewers to examine the system that is running to confirm that the open source code is what is running.\n\nTrust through total transparency is the only thing that should be believed.",
+        "id": "2077445418884202757",
+        "text": "I know I'm late but yeah ok Grok 4.5 is actually really good. \n\nIt's super fast, direct path to solutions, and quite capable.",
+        "author": {
+          "id": "6681172",
+          "name": "Matthew Berman",
+          "screenName": "MatthewBerman",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2051399921467830272/9RGo_6vv_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 2345,
+          "retweets": 351,
+          "replies": 262,
+          "quotes": 15,
+          "views": 409523,
+          "bookmarks": 59
+        },
+        "createdAt": "Wed Jul 15 17:29:19 +0000 2026",
+        "createdAtLocal": "2026-07-16 01:29",
+        "createdAtISO": "2026-07-15T17:29:19+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2077620854696050963",
+        "text": "\"@elonmusk is working on the most important areas of A.I. xAI is working on foundation cognitive intelligence A.I., Tesla is working on autonomous vehicles. Optimus is for humanoid robotics. He is very optimistic about the future of A.I.\" https://t.co/TdQGLZ2zXI",
+        "author": {
+          "id": "1016059981907386368",
+          "name": "Tesla Owners Silicon Valley",
+          "screenName": "teslaownersSV",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2010961358326484993/kMQefquU_normal.jpg",
+          "verified": false
+        },
+        "metrics": {
+          "likes": 2155,
+          "retweets": 495,
+          "replies": 245,
+          "quotes": 20,
+          "views": 386293,
+          "bookmarks": 139
+        },
+        "createdAt": "Thu Jul 16 05:06:26 +0000 2026",
+        "createdAtLocal": "2026-07-16 13:06",
+        "createdAtISO": "2026-07-16T05:06:26+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/1983877632916901888/vid/avc1/1076x720/0_43VpwbMKzfyZZ9.mp4?tag=21",
+            "width": 1076,
+            "height": 720
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2077620484624011651",
+        "text": "That’s how making a startup succeed goes https://t.co/CWSuWNFwQr",
         "author": {
           "id": "44196397",
           "name": "Elon Musk",
@@ -838,17 +815,24 @@
           "verified": true
         },
         "metrics": {
-          "likes": 16829,
-          "retweets": 1827,
-          "replies": 1945,
-          "quotes": 499,
-          "views": 1010450,
-          "bookmarks": 791
+          "likes": 10964,
+          "retweets": 1814,
+          "replies": 1027,
+          "quotes": 111,
+          "views": 1747442,
+          "bookmarks": 5346
         },
-        "createdAt": "Wed Jul 15 11:56:34 +0000 2026",
-        "createdAtLocal": "2026-07-15 19:56",
-        "createdAtISO": "2026-07-15T11:56:34+00:00",
-        "media": [],
+        "createdAt": "Thu Jul 16 05:04:58 +0000 2026",
+        "createdAtLocal": "2026-07-16 13:04",
+        "createdAtISO": "2026-07-16T05:04:58+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/1996397998843248640/vid/avc1/1588x888/P6W7osHPyCjuLwPF.mp4?tag=21",
+            "width": 1588,
+            "height": 888
+          }
+        ],
         "urls": [],
         "isRetweet": false,
         "retweetedBy": null,
@@ -857,6 +841,116 @@
       }
     ],
     "DrJimFan": [
+      {
+        "id": "2077497317255737422",
+        "text": "I’m very excited by this test time training work for robotic learning! It’s an awesome collaboration between @StanfordSVL and @NVIDIARobotics !",
+        "author": {
+          "id": "130745589",
+          "name": "Fei-Fei Li",
+          "screenName": "drfeifei",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 293,
+          "retweets": 33,
+          "replies": 11,
+          "quotes": 3,
+          "views": 53941,
+          "bookmarks": 90
+        },
+        "createdAt": "Wed Jul 15 20:55:33 +0000 2026",
+        "createdAtLocal": "2026-07-16 04:55",
+        "createdAtISO": "2026-07-15T20:55:33+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "DrJimFan",
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2077414142340988962",
+          "text": "We scaled a robot model natively to 8,000 timesteps of context, 5 minutes worth of muscle memory, with constant inference cost. Robot policies used to live their lives a few frames at a time (< 0.1 sec), instantly forgetting what just happened. We pushed to 3 orders of magnitude beyond SOTA. \n\nIntroducing RoboTTT. Test-Time Training (“TTT”) carries a tiny model *inside* the model. Every incoming sensor reading triggers one gradient step on that tiny core, so the history keeps getting compressed into its weights. The hidden state has a fixed size (literally a small neural net), so the robot can “grok” arbitrarily long experience with little overhead. Learning continues indefinitely after deployment.\n\nWe can then put an entire video in context as prompt! RoboTTT enables one-shot in-context learning from human video: in circuit board assembly, a human demonstrates a never-seen configuration once, and the robot imitates it faithfully. \n\nHumans drop things all the time, but we pick them up so fast that we don’t even notice. That reflex to fix is half of our physical competence. RoboTTT shows self-improvement on the fly: the robot is skilled at recovering from its own errors mid-episode, and each fix enters its context to inform the next move. The TTT core distills a general-purpose, failure-to-correction mapping from the training data.\n\nOne more thing. What excites me the most is a new Context Scaling Curve: from 128 to 8K timesteps, closed-loop performance hill-climbs steadily with no sign of saturation. 8K-context pretraining beats 1K by 62%. What LLM enjoys, robotics should too. Soon, even 1M context is not a fantasy. \n\nDeep dive in thread:",
+          "author": {
+            "screenName": "DrJimFan",
+            "name": "Jim Fan"
+          }
+        }
+      },
+      {
+        "id": "2077414142340988962",
+        "text": "We scaled a robot model natively to 8,000 timesteps of context, 5 minutes worth of muscle memory, with constant inference cost. Robot policies used to live their lives a few frames at a time (< 0.1 sec), instantly forgetting what just happened. We pushed to 3 orders of magnitude beyond SOTA. \n\nIntroducing RoboTTT. Test-Time Training (“TTT”) carries a tiny model *inside* the model. Every incoming sensor reading triggers one gradient step on that tiny core, so the history keeps getting compressed into its weights. The hidden state has a fixed size (literally a small neural net), so the robot can “grok” arbitrarily long experience with little overhead. Learning continues indefinitely after deployment.\n\nWe can then put an entire video in context as prompt! RoboTTT enables one-shot in-context learning from human video: in circuit board assembly, a human demonstrates a never-seen configuration once, and the robot imitates it faithfully. \n\nHumans drop things all the time, but we pick them up so fast that we don’t even notice. That reflex to fix is half of our physical competence. RoboTTT shows self-improvement on the fly: the robot is skilled at recovering from its own errors mid-episode, and each fix enters its context to inform the next move. The TTT core distills a general-purpose, failure-to-correction mapping from the training data.\n\nOne more thing. What excites me the most is a new Context Scaling Curve: from 128 to 8K timesteps, closed-loop performance hill-climbs steadily with no sign of saturation. 8K-context pretraining beats 1K by 62%. What LLM enjoys, robotics should too. Soon, even 1M context is not a fantasy. \n\nDeep dive in thread:",
+        "author": {
+          "id": "1007413134",
+          "name": "Jim Fan",
+          "screenName": "DrJimFan",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 975,
+          "retweets": 143,
+          "replies": 49,
+          "quotes": 27,
+          "views": 145478,
+          "bookmarks": 574
+        },
+        "createdAt": "Wed Jul 15 15:25:02 +0000 2026",
+        "createdAtLocal": "2026-07-15 23:25",
+        "createdAtISO": "2026-07-15T15:25:02+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2077412577681002496/vid/avc1/3840x2160/iDsECNcN65qZgRe5.mp4?tag=28",
+            "width": 3840,
+            "height": 2160
+          }
+        ],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2077414143901188195",
+        "text": "Blog and paper: https://t.co/WVMB9iibeW\nPresented to you from NVIDIA GEAR Lab. \n\nPlease check out Yunfan's technical deep dive! \n\nhttps://t.co/7UF1UPdhyq",
+        "author": {
+          "id": "1007413134",
+          "name": "Jim Fan",
+          "screenName": "DrJimFan",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 46,
+          "retweets": 2,
+          "replies": 3,
+          "quotes": 1,
+          "views": 13152,
+          "bookmarks": 19
+        },
+        "createdAt": "Wed Jul 15 15:25:03 +0000 2026",
+        "createdAtLocal": "2026-07-15 23:25",
+        "createdAtISO": "2026-07-15T15:25:03+00:00",
+        "media": [],
+        "urls": [
+          "https://research.nvidia.com/labs/gear/robottt/",
+          "https://x.com/YunfanJiang/status/2077400992149340552?s=20"
+        ],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2077400992149340552",
+          "text": "We scaled robot policies to 8K timesteps of visuomotor context, orders of magnitude beyond current SoTAs, at constant inference latency.\n\nIntroducing RoboTTT 🤖\n\nWith minutes of experience in context, our robots:\n🎥 one-shot imitate human video demos\n📈 improve themselves during deployment\n🛡️ recover from perturbations\n⚙️ complete a 5-minute, 10-stage assembly end to end\n🌐 https://t.co/4OoK0e9tKa\n\nDive in 🧵",
+          "author": {
+            "screenName": "YunfanJiang",
+            "name": "Yunfan Jiang"
+          }
+        }
+      },
       {
         "id": "2072337488782475390",
         "text": "ENPIRE -&gt; ASPIRE, our 2nd work in the series for Physical AutoResearch. We are building the components for robot self-improvement, one /skill at a time.",
@@ -868,11 +962,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 282,
+          "likes": 284,
           "retweets": 25,
           "replies": 41,
           "quotes": 8,
-          "views": 53445,
+          "views": 53901,
           "bookmarks": 116
         },
         "createdAt": "Wed Jul 01 15:12:14 +0000 2026",
@@ -904,11 +998,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1635,
+          "likes": 1639,
           "retweets": 222,
           "replies": 73,
           "quotes": 30,
-          "views": 197480,
+          "views": 198332,
           "bookmarks": 1163
         },
         "createdAt": "Tue Jun 30 17:07:49 +0000 2026",
@@ -927,119 +1021,6 @@
         "retweetedBy": null,
         "lang": "en",
         "score": null
-      },
-      {
-        "id": "2072004192294830583",
-        "text": "Project gallery and whitepaper: https://t.co/99bZhCeszA\n\nASPIRE is a great collaboration between NVIDIA GEAR lab, UMich, Berkeley, and CMU. Kudos to all the coauthors who pour their hearts into the project!\n\nCheck out the deep dive thread from Guanzhi: \nhttps://t.co/kSCJ5mBz89",
-        "author": {
-          "id": "1007413134",
-          "name": "Jim Fan",
-          "screenName": "DrJimFan",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 72,
-          "retweets": 2,
-          "replies": 5,
-          "quotes": 1,
-          "views": 21531,
-          "bookmarks": 42
-        },
-        "createdAt": "Tue Jun 30 17:07:50 +0000 2026",
-        "createdAtLocal": "2026-07-01 01:07",
-        "createdAtISO": "2026-06-30T17:07:50+00:00",
-        "media": [],
-        "urls": [
-          "https://research.nvidia.com/labs/gear/aspire/",
-          "https://x.com/guanzhi_wang/status/2072001345960222743?s=20"
-        ],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2072001345960222743",
-          "text": "Introducing ASPIRE, the first automated /𝚜𝚔𝚒𝚕𝚕 discovery system for robotics. Rather than solving tasks one by one, ASPIRE continuously discovers and accumulates reusable skills. These persistent skills become the building blocks of robot intelligence, enabling multi-task transfer, sim-to-real transfer, and cross-embodiment transfer.\n\n🔗 https://t.co/GI2Eo2izmq\n\nFrom @NVIDIA, @UMichCSE, @ECEILLINOIS, @Berkeley_AI, @CMU_Robotics.\n\nCheck out how it works in 🧵:",
-          "author": {
-            "screenName": "guanzhi_wang",
-            "name": "Guanzhi Wang"
-          }
-        }
-      },
-      {
-        "id": "2066921736369766762",
-        "text": "Today, we enable AutoResearch in the physical world for the first time! Introducing ENPIRE: we give 8 Codex agents a fleet of robots, an allocation of GPUs, and generous token budget. We set them free with a simple goal: solve the task as quickly as possible, keep the robots busy but stay safe, don't waste precious compute. Make no mistake.\n\nThen humans step aside and our watch begins. The robot fleet starts to come alive: they learn to look for visual clues, reset the scene, practice novel skills, tinker with control stack, read papers online, debate, reflect, get stuck, and try again directly on the hardware. All we did is to give Codex an API to the world of atoms, and the rest is emergence.\n\nENPIRE is able to solve high-precision tasks like tying zip-ties, organizing fine pins, and installing GPUs all by itself. We also discovered a new type of \"physical scaling\": 8 robots exploring in parallel improves significantly faster than fewer ones. \n\nA part of our NVIDIA GEAR lab now self-improves tirelessly over night. We just read the reports in the morning. \n\n/goal: we all take a holiday and Jensen wouldn't even notice ;)\n\nWe will be open-sourcing everything, so you can host your self-running robot lab at home too! Deep dive in the thread:",
-        "author": {
-          "id": "1007413134",
-          "name": "Jim Fan",
-          "screenName": "DrJimFan",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 3848,
-          "retweets": 568,
-          "replies": 187,
-          "quotes": 153,
-          "views": 662335,
-          "bookmarks": 2026
-        },
-        "createdAt": "Tue Jun 16 16:31:58 +0000 2026",
-        "createdAtLocal": "2026-06-17 00:31",
-        "createdAtISO": "2026-06-16T16:31:58+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2066910077886570496/vid/avc1/1920x1080/Wn1aQDpM58idppBt.mp4?tag=28",
-            "width": 1920,
-            "height": 1080
-          }
-        ],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2066921739087729043",
-        "text": "Project site: https://t.co/0j2Vo0IyJg\n\nWenli has written an excellent technical thread, please check it out! \n\nhttps://t.co/JOQeAoECdg",
-        "author": {
-          "id": "1007413134",
-          "name": "Jim Fan",
-          "screenName": "DrJimFan",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 164,
-          "retweets": 19,
-          "replies": 5,
-          "quotes": 2,
-          "views": 48029,
-          "bookmarks": 100
-        },
-        "createdAt": "Tue Jun 16 16:31:58 +0000 2026",
-        "createdAtLocal": "2026-06-17 00:31",
-        "createdAtISO": "2026-06-16T16:31:58+00:00",
-        "media": [],
-        "urls": [
-          "https://research.nvidia.com/labs/gear/enpire/",
-          "https://x.com/_wenlixiao/status/2066913044652015727?s=20"
-        ],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2066913044652015727",
-          "text": "Autoresearch just left the sandbox and entered the embodied world.\n\nWe are excited to introduce 𝐄𝐍𝐏𝐈𝐑𝐄: a system that drops frontier coding agents onto a fleet of real robots and hands them the entire loop:\n\nreset the environment → search the literature → implement ideas and build the infra → train and deploy → self-verify → analyze the logs and rewrite the code → repeat, until the policy is reliable in the real world. No human in the loop.\n\nGuided only by the robot's self-proposed, heuristic-based success signal, the agents hill-climb to 99% on dexterous real-world tasks: organizing pins into a box, seating GPUs, tying zip-ties.\n\nWe envision the bottleneck in robotics shifting — from building smarter algorithms to building the closed physical feedback loops an agent can finally turn on its own.\n\n🔗 https://t.co/3tL2ArGo3v\nFrom @NVIDIA @CMU_Robotics @Berkeley_AI\n🧵",
-          "author": {
-            "screenName": "_wenlixiao",
-            "name": "Wenli Xiao"
-          }
-        }
       }
     ]
   }

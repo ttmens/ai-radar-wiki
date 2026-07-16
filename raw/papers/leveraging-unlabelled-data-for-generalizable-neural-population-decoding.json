@@ -1,0 +1,34 @@
+{
+  "title": "Leveraging unlabelled data for generalizable neural population decoding",
+  "summary": "Robust and accurate neural decoders are integral to neurotechnologies such as brain-computer interfaces and closed-loop experiments. Recent work has shown that tokenizing neural data at the spike level facilitates multi-session pretraining and delivers state-of-the-art decoding performance. However, current spike-based models are restricted to supervised learning (SL), limiting training to datasets with paired behavioural labels. To address this limitation, we introduce MOJO (Masked autOencoder-based JOint training), a training framework for spike-tokenizing models that jointly leverages self-supervised learning (SSL) via masked autoencoding and SL objectives. We evaluate MOJO on three spiking datasets spanning monkey motor cortex during reaching tasks and multi-regional mouse recordings during vision and decision making tasks, demonstrating superior performance over purely SL-trained models. This improvement is especially pronounced when training with limited labelled data, particularly in few-shot finetuning, where only a small amount of labelled data from a new session is available. Incorporating SSL also yields more interpretable neuronal representations, improving performance on brain region classification and spike-statistics prediction without explicit optimization for these tasks. We further show that MOJO generalizes beyond spiking data to human electrocorticography during speech, where it continues to outperform purely SL-trained models and achieves performance comparable to neuro-foundation models (NFMs) designed specifically for continuous signals. Overall, augmenting spike-tokenizing models with SSL improves performance in label-impoverished settings and enables the use of unlabelled data across various tasks and species, while generalizing to other neural modalities. These results suggest a path towards more flexible and scalable data usage when training NFMs.",
+  "url": "http://arxiv.org/abs/2607.14086v1",
+  "authors": [
+    "Ximeng Mao",
+    "Nanda H. Krishna",
+    "Avery Hee-Woon Ryoo",
+    "Matthew G. Perich",
+    "Guillaume Lajoie"
+  ],
+  "published": "2026-07-15T17:58:00Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "vision",
+    "training",
+    "optimization",
+    "dataset"
+  ],
+  "summary_cn": "本文提出利用未标注数据提升神经群体解码的泛化能力，通过将神经活动在尖峰级别进行标记化，实现多会话预训练，获得当前最优解码性能。该方法可降低脑机接口和闭环实验中对标注数据的依赖，推动神经技术的实用化。其核心创新在于无监督预训练框架，使解码器能跨会话通用，减少校准成本，对神经康复、智能假肢等产品具有重要价值。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Neural Decoding",
+    "Unlabelled Data",
+    "Pre-training"
+  ],
+  "entities": [],
+  "patterns": [
+    "Multi-session Pre-training",
+    "Self-supervised Learning"
+  ]
+}

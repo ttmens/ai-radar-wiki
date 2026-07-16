@@ -1,0 +1,27 @@
+{
+  "title": "Transforming Rank: How Architecture Navigates the Spectral Pathologies of Depth",
+  "summary": "We investigate how each component of the Transformer feedforward block architecture design determines how much rank survives across depth at initialization. We reinterpret skip connections and normalization, long understood as controlling magnitude, as mechanisms for preserving gradient rank across depth, since the very matrix multiplications and nonlinear activations that make the network expressive also reduce the rank. We show that skip connections trade off rank collapse against ensemble-like behavior, controlled by the relative scales of the branch and the skip: skip connections route the gradient around the residual branch, where rank is lost, rather than along the long gradient paths that encourage the layers to compose. The placement of the normalization layer controls this same tradeoff by setting the branch-to-skip ratio across depth, unifying much of the normalization placement and depth scaling literature, in particular why rank collapses for Post-Norm but plateaus for Pre-Norm. Other aspects of the architecture, like the two-matrix structure that expands and contracts the width, use additional parameters to preserve the representation or branch Jacobian rank. The second matrix decorrelates a coherent mean spike that would grow across blocks with a single matrix and uncentered activation, preventing the residual representation from collapsing. The width expansion between the two matrices keeps the branch Jacobian full rank: applying the rank-reducing activation in this expanded space leaves enough directions to span the original, at a width that follows a Marchenko--Pastur law. The initialization rank of the input--output Jacobian predicts which networks train on CIFAR-10. Taken together, we recast architecture design for deep networks as navigating an intrinsic tradeoff among rank collapse, ensemble-like behavior, and parameter count.",
+  "url": "http://arxiv.org/abs/2607.14018v1",
+  "authors": [
+    "Katie Everett"
+  ],
+  "published": "2026-07-15T16:50:43Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "transformer",
+    "parameter",
+    "gradient"
+  ],
+  "summary_cn": "本文研究Transformer前馈块架构设计如何影响模型在深度初始化时的秩保留，揭示跳跃连接和归一化机制不仅控制幅度，还起到保留梯度秩的作用。这一发现对产品经理理解模型训练稳定性和性能优化有重要参考价值，可指导设计更高效的AI架构，减少训练成本，提升模型收敛速度与泛化能力。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Transformer架构",
+    "秩保留",
+    "跳过连接"
+  ],
+  "entities": [],
+  "patterns": [
+    "Architecture Optimization Pattern"
+  ]
+}

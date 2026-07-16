@@ -2902,3 +2902,23 @@
 - create: show-hn-painterly-turn-pictures-into-digital-paintings-without-generative-ai.md
 - create: show-hn-for-10-world-cups-my-models-2-favorites-had-the-champion-every-time.md
 - create: show-hn-aict-unix-coreutils-that-output-xmljson-built-for-ai-agents.md
+
+## [2026-07-16 18:02] sync v3 | 9 new | pillars: {'ecosystem': 1, 'patterns': 4, 'capabilities': 4}
+- create: high-bandwidth-flash-offers-efficient-storage-for-model-weights.md
+- create: the-tokiorayon-trap-and-why-asyncawait-fails-concurrency.md
+- create: launch-hn-coasty-yc-s26-an-api-for-computer-use-agents.md
+- create: can-llms-perform-deep-technical-comprehension-of-computer-architecture-papers.md
+- create: agentty-a-drop-in-alternative-to-claude-code-written-in-c26-110-mb-binary.md
+- create: applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire.md
+
+## [2026-07-17 00:01] sync v3 | 10 new | pillars: {'capabilities': 8, 'patterns': 1, 'business': 1}
+- create: where-are-yc-founders-now-openai-and-anthropic-mostly.md
+- create: generative-ai-is-an-engineering-disaster.md
+- create: the-llm-critics-are-right-i-use-llms-anyway.md
+- create: teen-hackers-who-live-streamed-cyber-attack-on-tfl-jailed.md
+- create: yes-you-can-now-order-doordash-from-the-command-line.md
+- create: why-is-openai-selling-a-chatgpt-basketball.md
+- create: how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-laun.md
+- create: why-ami-labs-alexandre-lebrun-won8217t-call-his-ai-8216agi8217-or-8216superintel.md
+- create: moonshot8217s-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropic8217s-o.md
+- create: apple-intelligence-approved-for-launch-in-china-with-alibaba-and-baidu.md

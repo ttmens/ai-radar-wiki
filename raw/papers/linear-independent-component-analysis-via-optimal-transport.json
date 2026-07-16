@@ -1,0 +1,29 @@
+{
+  "title": "Linear Independent Component Analysis via Optimal Transport",
+  "summary": "Linear Independent Component Analysis (ICA) recovers jointly independent source signals from their linear mixtures. To achieve this, classical ICA algorithms attempt to maximize non-Gaussianity, measured by negentropy, which is linked to independence by information theory. Because exact negentropy optimization is intractable, they rely on proxy contrast functions, such as fourth-order cumulants, and parametric log-likelihoods. We propose instead to measure non-Gaussianity using the squared Wasserstein distance $W_2^2$ to a standard Gaussian. We prove that the Wasserstein distance between a standard normal distribution and linear projections of the data is maximized when the projection recovers an independent component. Based on this observation, we propose the OT-ICA algorithm which finds this projection by gradient-based optimization. Empirical evaluation on simulated data shows that OT-ICA outperforms proxy-based methods for different distributions of the latent variables. Application to EEG artifact removal and econometric price discovery confirm OT-ICA can be used for applied ICA tasks without distributional assumptions.",
+  "url": "http://arxiv.org/abs/2607.14081v1",
+  "authors": [
+    "Ashutosh Jha",
+    "Michel Besserve",
+    "Simon Buchholz"
+  ],
+  "published": "2026-07-15T17:56:11Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "gradient",
+    "optimization"
+  ],
+  "summary_cn": "该论文研究线性独立成分分析（ICA），旨在从线性混合信号中恢复相互独立的源信号。经典ICA算法通过最大化非高斯性（以负熵度量）来实现，负熵与信息论中的独立性概念紧密相关。本文提出利用最优传输理论来改进ICA方法，可能提升分离精度和鲁棒性。对于AI产品经理，该技术可应用于语音分离、脑电信号处理、金融数据去噪等场景，作为数据预处理或特征提取的底层能力。但当前仍偏理论探索，离商业化落地较远，需关注后续验证。",
+  "pm_relevance": 5,
+  "concepts": [
+    "Independent Component Analysis",
+    "Optimal Transport",
+    "Negentropy"
+  ],
+  "entities": [],
+  "patterns": [
+    "Signal Separation",
+    "Unsupervised Learning"
+  ]
+}

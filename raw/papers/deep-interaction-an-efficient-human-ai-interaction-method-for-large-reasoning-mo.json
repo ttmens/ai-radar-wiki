@@ -1,0 +1,31 @@
+{
+  "title": "Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models",
+  "summary": "The emergence of Chain-of-Thought (CoT) reasoning has significantly enhanced the ability of large language models (LLMs) to tackle complex, multi-step tasks. However, when errors occur, current interaction approaches typically involve re-generating another response that may make mistakes again, or users laboriously flag the faulty step in follow-up turns that may get responses <You are right, I made a mistake here> followed by similar errors recurring. To address this issue, we propose an efficient human intervention mechanism for precisely correcting reasoning errors in LLMs, termed Deep Interaction. Our approach enables direct editing of the original response, allowing erroneous parts to be corrected while preserving accurate reasoning steps. We refine the edited CoT into a distilled prompt, which then steers the LLM along the corrected reasoning path. Experimental results show that our method achieves over a 25% improvement in correction success rate and reduces token usage by approximately 40% on STEM tasks reasoning compared to baseline approaches.",
+  "url": "http://arxiv.org/abs/2607.14049v1",
+  "authors": [
+    "Hefeng Zhou",
+    "Jinxuan Zhang",
+    "Jiong Lou",
+    "Yuxin Liu",
+    "Chaochao Lu"
+  ],
+  "published": "2026-07-15T17:16:43Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "reasoning"
+  ],
+  "summary_cn": "本论文提出一种针对大型推理模型的高效人机交互方法，旨在解决Chain-of-Thought推理中错误难以修正的问题。传统方法在模型出错时需重新生成完整响应，可能重复犯错。该方法允许用户深度介入推理过程，通过交互式修正引导模型走向正确结论，显著提升复杂多步任务的准确性和用户控制感。商业价值体现为降低人工复核成本、增强模型可靠性；产品创新在于将静态推理转变为动态协作，适用于智能助手、代码生成等场景。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Human-AI Interaction",
+    "Chain-of-Thought Reasoning",
+    "Interactive Error Correction"
+  ],
+  "entities": [],
+  "patterns": [
+    "Interactive Reasoning",
+    "Error Correction in LLM"
+  ]
+}

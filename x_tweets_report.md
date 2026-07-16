@@ -1,6 +1,6 @@
 # 🐦 X/Twitter AI KOL 动态
 
-**抓取时间**: 2026-07-15 21:01:11
+**抓取时间**: 2026-07-16 21:02:13
 
 **数据来源**: AI 领域关键意见领袖的 Twitter 动态
 
@@ -11,44 +11,44 @@
 ## 🔥 热门推文 (Top 10)
 
 1. **This is a new paradigm for interacting with Claude that is significantly more "inline" with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this "just work" (e.g. across tools, integrations, compute environments, memory, se...**
-   - 👍 23,055 | 🔁 1,901 | 💬 1,338 | 👁️ 7,887,323
+   - 👍 23,064 | 🔁 1,902 | 💬 1,340 | 👁️ 7,893,525
    - 📅 2026-06-24 06:26 | 🔗 https://x.com/karpathy/status/2069547676849557725
 
 2. **Concerning.**
-   - 👍 22,245 | 🔁 1,212 | 💬 1,164 | 👁️ 2,685,800
+   - 👍 24,018 | 🔁 1,281 | 💬 1,242 | 👁️ 3,300,303
    - 📅 2026-07-14 23:30 | 🔗 https://x.com/sama/status/2077053140508266710
 
-3. **5.6 sol growth is insane.  the inference team has done heroic work to be able to support demand.  we are going to move mountains to continue to scale, but it is possible there are some hiccups soon.**
-   - 👍 10,750 | 🔁 298 | 💬 792 | 👁️ 2,037,126
+3. **Raphael Warnock: “Donald Trump lost Georgia in 2020. That’s not my opinion, it’s a fact. The votes were counted, recounted, audited, and litigated. He lost, he lost, he lost. He’s trying to sow doubt on the integrity of our elections in Georgia so he can create the pretext to ...** [RT by @ylecun]
+   - 👍 18,991 | 🔁 5,420 | 💬 1,764 | 👁️ 386,281
+   - 📅 2026-07-15 21:35 | 🔗 https://x.com/MarcoFoster_/status/2077386683054432330
+
+4. **5.6 sol growth is insane.  the inference team has done heroic work to be able to support demand.  we are going to move mountains to continue to scale, but it is possible there are some hiccups soon.**
+   - 👍 12,481 | 🔁 343 | 💬 901 | 👁️ 2,612,178
    - 📅 2026-07-15 03:02 | 🔗 https://x.com/sama/status/2077106587307798989
 
-4. **“Loop engineering” is a hot buzzphrase after mentions of it by Boris Cherny (Claude Code’s creator) and Peter Steinberger (OpenClaw's creator) went viral on social media. Loops are now a key part of how we get AI agents to iterate at length to build software. In this letter, I...**
-   - 👍 8,394 | 🔁 1,618 | 💬 388 | 👁️ 640,978
-   - 📅 2026-07-01 00:04 | 🔗 https://x.com/AndrewYNg/status/2071988145667928442
-
 5. **We're coming out of stealth.  We've built our first racks after a successful A0 tapeout, $1B+ in customer contracts, and $800m raised.  Early customer tests show us achieving SOTA throughput, latency, and power efficiency on inference workloads.  Our first racks ship this summ...** [RT by @karpathy]
-   - 👍 9,467 | 🔁 926 | 💬 639 | 👁️ 6,075,456
+   - 👍 9,640 | 🔁 928 | 💬 644 | 👁️ 6,235,900
    - 📅 2026-06-30 23:00 | 🔗 https://x.com/Etched/status/2071972062202343590
 
-6. **this is a thoughtful proposal from demis:**
-   - 👍 5,874 | 🔁 333 | 💬 307 | 👁️ 1,164,591
-   - 📅 2026-07-14 22:48 | 🔗 https://x.com/sama/status/2077042528906527225
+6. **“Loop engineering” is a hot buzzphrase after mentions of it by Boris Cherny (Claude Code’s creator) and Peter Steinberger (OpenClaw's creator) went viral on social media. Loops are now a key part of how we get AI agents to iterate at length to build software. In this letter, I...**
+   - 👍 8,407 | 🔁 1,618 | 💬 388 | 👁️ 643,397
+   - 📅 2026-07-01 00:04 | 🔗 https://x.com/AndrewYNg/status/2071988145667928442
 
 7. **hello!**
-   - 👍 5,874 | 🔁 122 | 💬 490 | 👁️ 749,096
+   - 👍 6,637 | 🔁 138 | 💬 605 | 👁️ 1,141,347
    - 📅 2026-07-15 03:50 | 🔗 https://x.com/sama/status/2077118672150388816
 
-8. **also, a reason to favor open-source harnesses.**
-   - 👍 5,123 | 🔁 134 | 💬 393 | 👁️ 795,977
-   - 📅 2026-07-14 23:30 | 🔗 https://x.com/sama/status/2077053226080436235
+8. **Introducing GPT-Red  An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.  https://t.co/GxnmxxcpSk** [RT by @sama]
+   - 👍 7,463 | 🔁 694 | 💬 426 | 👁️ 1,244,668
+   - 📅 2026-07-16 01:34 | 🔗 https://x.com/OpenAI/status/2077446718728425686
 
-9. **Today, we enable AutoResearch in the physical world for the first time! Introducing ENPIRE: we give 8 Codex agents a fleet of robots, an allocation of GPUs, and generous token budget. We set them free with a simple goal: solve the task as quickly as possible, keep the robots b...**
-   - 👍 3,848 | 🔁 568 | 💬 187 | 👁️ 662,335
-   - 📅 2026-06-17 00:31 | 🔗 https://x.com/DrJimFan/status/2066921736369766762
+9. **amazing to me that some people want the silent version  https://t.co/jbdznnBx9Z**
+   - 👍 2,771 | 🔁 122 | 💬 503 | 👁️ 456,708
+   - 📅 2026-07-16 04:23 | 🔗 https://x.com/sama/status/2077489177374208000
 
-10. **Over the last two weeks, both the U.S. Government and Anthropic took significant actions that demonstrated their power to control access to AI by restricting what others can do with frontier models. This has been one of those moments that, once seen, will be hard to unsee, and...**
-   - 👍 1,337 | 🔁 287 | 💬 172 | 👁️ 162,164
-   - 📅 2026-06-20 02:34 | 🔗 https://x.com/AndrewYNg/status/2068039709126017356
+10. **"@elonmusk is working on the most important areas of A.I. xAI is working on foundation cognitive intelligence A.I., Tesla is working on autonomous vehicles. Optimus is for humanoid robotics. He is very optimistic about the future of A.I." https://t.co/TdQGLZ2zXI** [RT by @elonmusk]
+   - 👍 2,155 | 🔁 495 | 💬 245 | 👁️ 386,293
+   - 📅 2026-07-16 13:06 | 🔗 https://x.com/teslaownersSV/status/2077620854696050963
 
 
 ---
@@ -60,103 +60,103 @@
 ### @AndrewYNg (5 条)
 
 1. **“Loop engineering” is a hot buzzphrase after mentions of it by Boris Cherny (Claude Code’s creator) and Peter Steinberger (OpenClaw's creator) went viral on social media. Loops are now a key part of how we get AI agents to iterate at length to build software. In this letter, I...**
-   - 👍 8,394 | 🔁 1,618 | 💬 388 | 👁️ 640,978
+   - 👍 8,407 | 🔁 1,618 | 💬 388 | 👁️ 643,397
    - 📅 2026-07-01 00:04 | 🔗 https://x.com/AndrewYNg/status/2071988145667928442
 
 2. **Over the last two weeks, both the U.S. Government and Anthropic took significant actions that demonstrated their power to control access to AI by restricting what others can do with frontier models. This has been one of those moments that, once seen, will be hard to unsee, and...**
-   - 👍 1,337 | 🔁 287 | 💬 172 | 👁️ 162,164
+   - 👍 1,338 | 🔁 287 | 💬 172 | 👁️ 162,822
    - 📅 2026-06-20 02:34 | 🔗 https://x.com/AndrewYNg/status/2068039709126017356
 
 3. **New course on serving LLMs efficiently -- how do you serve models to many concurrent users at low latency and reasonable cost? This short course is built with  @RedHat and taught by @cedricclyburn.  Efficient LLM serving requires efficient memory management. A 70B-parameter mo...**
-   - 👍 1,116 | 🔁 148 | 💬 109 | 👁️ 123,321
+   - 👍 1,117 | 🔁 148 | 💬 109 | 👁️ 123,650
    - 📅 2026-06-05 00:44 | 🔗 https://x.com/AndrewYNg/status/2062576164657664469
 
 4. **New course: Add voice to your AI agents and applications, built with @VocalBridge (disclosure: an AI Fund portfolio company) and taught by its CEO @_ashwyn.  Voice applications historically required making a hard tradeoff: using fast voice-to-voice models that sacrifice reliab...**
-   - 👍 358 | 🔁 52 | 💬 55 | 👁️ 81,765
+   - 👍 359 | 🔁 52 | 💬 55 | 👁️ 82,200
    - 📅 2026-06-19 01:00 | 🔗 https://x.com/AndrewYNg/status/2067653578945359898
 
 5. **Adam Thierer had written the landmark book on "Permissionless Innovation." We get the best ideas when we don't have to ask the government in advance for permission to invent. Protecting open source AI is now a critical part of ensuring this.**
-   - 👍 273 | 🔁 44 | 💬 76 | 👁️ 91,433
+   - 👍 277 | 🔁 44 | 💬 78 | 👁️ 93,038
    - 📅 2026-07-10 01:31 | 🔗 https://x.com/AndrewYNg/status/2075271586400403567
 
 
 ### @DrJimFan (5 条)
 
-1. **Today, we enable AutoResearch in the physical world for the first time! Introducing ENPIRE: we give 8 Codex agents a fleet of robots, an allocation of GPUs, and generous token budget. We set them free with a simple goal: solve the task as quickly as possible, keep the robots b...**
-   - 👍 3,848 | 🔁 568 | 💬 187 | 👁️ 662,335
-   - 📅 2026-06-17 00:31 | 🔗 https://x.com/DrJimFan/status/2066921736369766762
-
-2. **Today, we give robots a /skills library that self-evolves and compounds indefinitely! Introducing ASPIRE: a robot solving its 100th task is no longer as clueless as solving its first. Coding agents observe multimodal sensory traces from simulation and real robots, launch an ev...**
-   - 👍 1,635 | 🔁 222 | 💬 73 | 👁️ 197,480
+1. **Today, we give robots a /skills library that self-evolves and compounds indefinitely! Introducing ASPIRE: a robot solving its 100th task is no longer as clueless as solving its first. Coding agents observe multimodal sensory traces from simulation and real robots, launch an ev...**
+   - 👍 1,639 | 🔁 222 | 💬 73 | 👁️ 198,332
    - 📅 2026-07-01 01:07 | 🔗 https://x.com/DrJimFan/status/2072004190856212902
 
+2. **We scaled a robot model natively to 8,000 timesteps of context, 5 minutes worth of muscle memory, with constant inference cost. Robot policies used to live their lives a few frames at a time (< 0.1 sec), instantly forgetting what just happened. We pushed to 3 orders of magnitu...**
+   - 👍 975 | 🔁 143 | 💬 49 | 👁️ 145,478
+   - 📅 2026-07-15 23:25 | 🔗 https://x.com/DrJimFan/status/2077414142340988962
+
 3. **ENPIRE -&gt; ASPIRE, our 2nd work in the series for Physical AutoResearch. We are building the components for robot self-improvement, one /skill at a time.**
-   - 👍 282 | 🔁 25 | 💬 41 | 👁️ 53,445
+   - 👍 284 | 🔁 25 | 💬 41 | 👁️ 53,901
    - 📅 2026-07-01 23:12 | 🔗 https://x.com/DrJimFan/status/2072337488782475390
 
-4. **Project site: https://t.co/0j2Vo0IyJg  Wenli has written an excellent technical thread, please check it out!   https://t.co/JOQeAoECdg**
-   - 👍 164 | 🔁 19 | 💬 5 | 👁️ 48,029
-   - 📅 2026-06-17 00:31 | 🔗 https://x.com/DrJimFan/status/2066921739087729043
+4. **I’m very excited by this test time training work for robotic learning! It’s an awesome collaboration between @StanfordSVL and @NVIDIARobotics !** [RT by @DrJimFan]
+   - 👍 293 | 🔁 33 | 💬 11 | 👁️ 53,941
+   - 📅 2026-07-16 04:55 | 🔗 https://x.com/drfeifei/status/2077497317255737422
 
-5. **Project gallery and whitepaper: https://t.co/99bZhCeszA  ASPIRE is a great collaboration between NVIDIA GEAR lab, UMich, Berkeley, and CMU. Kudos to all the coauthors who pour their hearts into the project!  Check out the deep dive thread from Guanzhi:  https://t.co/kSCJ5mBz89**
-   - 👍 72 | 🔁 2 | 💬 5 | 👁️ 21,531
-   - 📅 2026-07-01 01:07 | 🔗 https://x.com/DrJimFan/status/2072004192294830583
+5. **Blog and paper: https://t.co/WVMB9iibeW Presented to you from NVIDIA GEAR Lab.   Please check out Yunfan's technical deep dive!   https://t.co/7UF1UPdhyq**
+   - 👍 46 | 🔁 2 | 💬 3 | 👁️ 13,152
+   - 📅 2026-07-15 23:25 | 🔗 https://x.com/DrJimFan/status/2077414143901188195
 
 
 ### @elonmusk (1 条)
 
-1. **Apple just sued OpenAI for trade secret theft in a 41 page federal complaint. The two companies were partners a year and a half ago and now they're in an all-out legal war over the post-smartphone device future. How quickly do the tables turn.** [RT by @elonmusk]
-   - 👍 768 | 🔁 148 | 💬 179 | 👁️ 83,763
-   - 📅 2026-07-15 20:30 | 🔗 https://x.com/PeterDiamandis/status/2077370252548100153
+1. **"@elonmusk is working on the most important areas of A.I. xAI is working on foundation cognitive intelligence A.I., Tesla is working on autonomous vehicles. Optimus is for humanoid robotics. He is very optimistic about the future of A.I." https://t.co/TdQGLZ2zXI** [RT by @elonmusk]
+   - 👍 2,155 | 🔁 495 | 💬 245 | 👁️ 386,293
+   - 📅 2026-07-16 13:06 | 🔗 https://x.com/teslaownersSV/status/2077620854696050963
 
 
 ### @karpathy (2 条)
 
 1. **This is a new paradigm for interacting with Claude that is significantly more "inline" with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this "just work" (e.g. across tools, integrations, compute environments, memory, se...**
-   - 👍 23,055 | 🔁 1,901 | 💬 1,338 | 👁️ 7,887,323
+   - 👍 23,064 | 🔁 1,902 | 💬 1,340 | 👁️ 7,893,525
    - 📅 2026-06-24 06:26 | 🔗 https://x.com/karpathy/status/2069547676849557725
 
 2. **We're coming out of stealth.  We've built our first racks after a successful A0 tapeout, $1B+ in customer contracts, and $800m raised.  Early customer tests show us achieving SOTA throughput, latency, and power efficiency on inference workloads.  Our first racks ship this summ...** [RT by @karpathy]
-   - 👍 9,467 | 🔁 926 | 💬 639 | 👁️ 6,075,456
+   - 👍 9,640 | 🔁 928 | 💬 644 | 👁️ 6,235,900
    - 📅 2026-06-30 23:00 | 🔗 https://x.com/Etched/status/2071972062202343590
 
 
 ### @sama (5 条)
 
 1. **Concerning.**
-   - 👍 22,245 | 🔁 1,212 | 💬 1,164 | 👁️ 2,685,800
+   - 👍 24,018 | 🔁 1,281 | 💬 1,242 | 👁️ 3,300,303
    - 📅 2026-07-14 23:30 | 🔗 https://x.com/sama/status/2077053140508266710
 
 2. **5.6 sol growth is insane.  the inference team has done heroic work to be able to support demand.  we are going to move mountains to continue to scale, but it is possible there are some hiccups soon.**
-   - 👍 10,750 | 🔁 298 | 💬 792 | 👁️ 2,037,126
+   - 👍 12,481 | 🔁 343 | 💬 901 | 👁️ 2,612,178
    - 📅 2026-07-15 03:02 | 🔗 https://x.com/sama/status/2077106587307798989
 
-3. **this is a thoughtful proposal from demis:**
-   - 👍 5,874 | 🔁 333 | 💬 307 | 👁️ 1,164,591
-   - 📅 2026-07-14 22:48 | 🔗 https://x.com/sama/status/2077042528906527225
-
-4. **hello!**
-   - 👍 5,874 | 🔁 122 | 💬 490 | 👁️ 749,096
+3. **hello!**
+   - 👍 6,637 | 🔁 138 | 💬 605 | 👁️ 1,141,347
    - 📅 2026-07-15 03:50 | 🔗 https://x.com/sama/status/2077118672150388816
 
-5. **also, a reason to favor open-source harnesses.**
-   - 👍 5,123 | 🔁 134 | 💬 393 | 👁️ 795,977
-   - 📅 2026-07-14 23:30 | 🔗 https://x.com/sama/status/2077053226080436235
+4. **Introducing GPT-Red  An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.  https://t.co/GxnmxxcpSk** [RT by @sama]
+   - 👍 7,463 | 🔁 694 | 💬 426 | 👁️ 1,244,668
+   - 📅 2026-07-16 01:34 | 🔗 https://x.com/OpenAI/status/2077446718728425686
+
+5. **amazing to me that some people want the silent version  https://t.co/jbdznnBx9Z**
+   - 👍 2,771 | 🔁 122 | 💬 503 | 👁️ 456,708
+   - 📅 2026-07-16 04:23 | 🔗 https://x.com/sama/status/2077489177374208000
 
 
 ### @ylecun (3 条)
 
-1. **or maybe let's make sure the most important technology in the history of humanity is not controled by just 4 men? Aka let's push for open science &amp; open-source AI to distribute capabilities, power and wealth!** [RT by @ylecun]
-   - 👍 269 | 🔁 33 | 💬 23 | 👁️ 37,708
+1. **Raphael Warnock: “Donald Trump lost Georgia in 2020. That’s not my opinion, it’s a fact. The votes were counted, recounted, audited, and litigated. He lost, he lost, he lost. He’s trying to sow doubt on the integrity of our elections in Georgia so he can create the pretext to ...** [RT by @ylecun]
+   - 👍 18,991 | 🔁 5,420 | 💬 1,764 | 👁️ 386,281
+   - 📅 2026-07-15 21:35 | 🔗 https://x.com/MarcoFoster_/status/2077386683054432330
+
+2. **It is clear open source models and harnesses are having a moment. There's a few factors at work  1/ It is now obvious that you can catch up to near-SOTA performance and do so with a clear training lineage. See:@thinkymachines  Inkling launch today.  2/ There are several well-f...** [RT by @ylecun]
+   - 👍 586 | 🔁 80 | 💬 41 | 👁️ 152,501
+   - 📅 2026-07-16 09:31 | 🔗 https://x.com/sriramk/status/2077566845431779766
+
+3. **or maybe let's make sure the most important technology in the history of humanity is not controled by just 4 men? Aka let's push for open science &amp; open-source AI to distribute capabilities, power and wealth!** [RT by @ylecun]
+   - 👍 303 | 🔁 41 | 💬 29 | 👁️ 47,222
    - 📅 2026-07-14 22:14 | 🔗 https://x.com/ClementDelangue/status/2077034061126603120
-
-2. **Today's leading SSL methods rely heavily on training heuristics—EMA, teacher-student training, layer freezing, and more—to remain stable.  Regularization-based methods are much simpler, but have long failed to match the generalization performance of leading SSL approaches.  VI...** [RT by @ylecun]
-   - 👍 195 | 🔁 27 | 💬 13 | 👁️ 34,977
-   - 📅 2026-07-14 23:15 | 🔗 https://x.com/HaiyuWu1/status/2077049444525277340
-
-3. **🤖 Un robot français en seulement 9 mois ! Rémi Cadene, ancien de Tesla AI et Hugging Face, explique comment son équipe veut faire des robots un levier pour la logistique, la réindustrialisation et, demain, notre quotidien. 🎧👉 https://t.co/4PWzgv5rPu https://t.co/YOLP0ebhuJ** [RT by @ylecun]
-   - 👍 29 | 🔁 5 | 💬 1 | 👁️ 12,986
-   - 📅 2026-07-14 14:17 | 🔗 https://x.com/JeromeColombain/status/2076914075636826385
 
 
 ---
@@ -165,5 +165,5 @@
 ## 📊 统计
 
 - 总推文数: 21
-- 总互动量 (点赞+转推): 109,252
-- 平均互动量: 5,202
+- 总互动量 (点赞+转推): 136,862
+- 平均互动量: 6,517

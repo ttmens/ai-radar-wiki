@@ -1,0 +1,30 @@
+{
+  "title": "Improving Wind and Solar Power Prediction with Efficient Wrapper-based Feature Selection: An Empirical Study",
+  "summary": "With rising global energy demand and growing awareness of climate change and its impacts, the share of renewable energies in the global energy mix continues to grow. Unlike conventional power generation, the output of renewable energy sources cannot be controlled as consistently due to their dependence on environmental conditions. Therefore, reliable prediction of current and future energy production is essential. In this paper, we report findings from two structured literature reviews on real-world renewable energy prediction tasks: wind turbine power curve modeling and photovoltaic power prediction. For the former, we conducted a comprehensive literature review ourselves, while for the latter, we synthesize the key findings regarding frequently selected input features based on an existing survey. Across both domains, our analysis reveals that despite the large number of available monitoring and environmental variables, only limited or unsystematic methods for feature selection exist. To address this gap, we propose Cluster-based Sequential Feature Selection (CSFS), a novel, model-agnostic, clustering-based wrapper method for automatic, efficient, and reliable feature selection in renewable energy prediction pipelines. To support reproducibility and reuse, we provide an open-source implementation of CSFS on GitHub. We empirically evaluate the proposed approach on both use cases and compare it with established feature selection techniques such as wrapper-based sequential feature selection (SFS), filter-based methods, and Random Forest's embedded feature importance. The results show that the wrapper-based methods overall provide better-performing selections of features. CSFS achieves a predictive performance comparable to SFS while reducing computational cost by an average of 21%.",
+  "url": "http://arxiv.org/abs/2607.14024v1",
+  "authors": [
+    "Daniel Grillmeyer",
+    "Marius Hadry",
+    "Michael Stenger",
+    "Vanessa Borst",
+    "Veronika Lesch"
+  ],
+  "published": "2026-07-15T16:55:42Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "eval",
+    "monitoring",
+    "pipeline"
+  ],
+  "summary_cn": "本论文针对风能和大阳能发电预测的不确定性，提出了一种高效的包装式特征选择方法。通过实证研究对比多种特征选择算法，验证了该方法能显著提升预测模型的准确性，同时降低计算成本。对于AI产品经理而言，这意味着在可再生能源并网管理、发电量预测等产品中，可以引入自动化特征筛选机制，提升模型部署效果与鲁棒性。商业上，更精准的预测有助于电网调度优化、减少弃风弃光，从而推动清洁能源的经济效益。技术要点在于包装法结合递归特征消除与交叉验证，实现特征子集的高效搜索。",
+  "pm_relevance": 7,
+  "concepts": [
+    "包装式特征选择",
+    "可再生能源预测"
+  ],
+  "entities": [],
+  "patterns": [
+    "Feature Selection Optimization"
+  ]
+}

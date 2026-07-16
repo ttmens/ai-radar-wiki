@@ -1,0 +1,34 @@
+{
+  "title": "Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes",
+  "summary": "Genomic foundation models such as Evo 2 learn rich sequence representations, but their value for biosecurity screening is largely unexplored. We ask how much biosecurity-relevant signal is linearly accessible in these representations by training minimal linear and attention probes on frozen Evo 2 layer-26 activations, without fine-tuning the underlying model. Across held-out metagenomic test sets, the probes detect antimicrobial resistance (AMR) with strong discrimination: a linear probe reaches a region-level ROC-AUC of 0.888 (mean-pool), rising to 0.977 with a single-head attention probe. The probes resolve finer-grained AMR drug-class subcategories and separate them from unrelated functional genes, providing additional evidence that the learned signal is not explained solely by generic functional-gene status. Bacterial virulence is also decodable, though more weakly (region-level ROC-AUC 0.833). The AMR probe retains comparable ranking performance on simulated short reads without retraining, enabling evaluation before assembly in settings where assembly is computationally costly or unreliable. It achieves a read-level ROC-AUC of 0.898 (mean-pool), comparable to the mean-pooled full-region result. Within SynGenome, AMR-associated prompt labels are only weakly recoverable from Evo 1.5-generated sequences; these prompt-derived labels do not establish the function of the generated response sequences. A complementary sparse-autoencoder analysis recovers interpretable resistance-associated features but proves less consistent than the supervised probes. Together, these results position lightweight embedding-based probes as a fast, inexpensive first-pass detection layer for metagenomic biosurveillance and map both strengths and current limits of the approach. This work was conducted as part of the AIxBio Hackathon 2026 hosted by BlueDot Impact, Apart Research, and Cambridge Biosecurity Hub.",
+  "url": "http://arxiv.org/abs/2607.14070v1",
+  "authors": [
+    "Jeremy Guntoro",
+    "Alexander Dack",
+    "Dylan Danno",
+    "Michaela Jančovičová",
+    "Križan Jurinović"
+  ],
+  "published": "2026-07-15T17:38:02Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "fine-tuning",
+    "training",
+    "embedding",
+    "attention"
+  ],
+  "summary_cn": "该研究评估了基因组基础模型Evo 2在生物安全筛查中的能力。通过在冻结的Evo 2表示上训练轻量线性探针和注意力探针，探索元基因组数据中与生物安全相关的信号。结果表明，Evo 2的表示中线性可访问的生物安全信号显著，无需全模型微调即可高效检测潜在威胁。这一发现为利用预训练基因组模型进行病原体监测、生物威胁预警提供了低成本、快速部署的路径，有望推动AI在公共卫生和生物安全领域的产品化应用。",
+  "pm_relevance": 6,
+  "concepts": [
+    "Genomic Foundation Models",
+    "Biosecurity Screening",
+    "Representation Learning"
+  ],
+  "entities": [
+    "Evo 2"
+  ],
+  "patterns": [
+    "Probe-based Evaluation"
+  ]
+}
