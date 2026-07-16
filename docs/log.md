@@ -2922,3 +2922,19 @@
 - create: why-ami-labs-alexandre-lebrun-won8217t-call-his-ai-8216agi8217-or-8216superintel.md
 - create: moonshot8217s-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropic8217s-o.md
 - create: apple-intelligence-approved-for-launch-in-china-with-alibaba-and-baidu.md
+
+## [2026-07-17 06:01] sync v3 | 14 new | pillars: {'patterns': 4, 'capabilities': 10}
+- create: lm-studio-bionic-the-ai-agent-for-open-models.md
+- create: 100-ai-music-video-claude-fable-5-vs-gpt-56-sol.md
+- create: notebooklm-is-now-gemini-notebook.md
+- create: detecting-llm-generated-texts-with-classical-machine-learning.md
+- create: how-to-train-a-gen-ai-kick-drum-model-on-your-old-linux-desktop-with-6gb-vram.md
+- create: german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks.md
+- create: agent-talk-enabling-coding-agents-to-work-together.md
+- create: schema-harness-achieves-99-on-arcagi3-public.md
+- create: google-vids-now-lets-you-star-in-your-own-ai-videos.md
+- create: roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app.md
+- create: google8217s-ai-mode-now-lets-you-link-and-interact-with-select-apps.md
+- create: show-hn-bamboogrid-open-source-web-ui-for-power-grid-modeling-and-power-flow.md
+- create: show-hn-be-the-chatbot.md
+- create: show-hn-sentinel-open-source-qa-agent-that-reads-your-code-before-it-clicks.md

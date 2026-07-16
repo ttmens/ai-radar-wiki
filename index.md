@@ -1,10 +1,11 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-17 | Total pages: 2650
+> Last updated: 2026-07-17 | Total pages: 2664
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
 - [[1-bit-bonsai-image-4b-image-generation-for-local-devices.md]] 1-Bit Bonsai Image 4B Image Generation for Local Devices `pillar:capabilities` `score:0.365`
+- [[100-ai-music-video-claude-fable-5-vs-gpt-56-sol.md]] $100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol `pillar:capabilities` `score:0.43`
 - [[14-faster-embeddings-how-we-rebuilt-the-onnx-path-in-manticore.md]] 14× faster embeddings: how we rebuilt the ONNX path in Manticore `pillar:capabilities` `score:0.365`
 - [[1940-air-terminal-museum-begins-liquidation.md]] 1940 Air Terminal Museum Begins Liquidation `pillar:capabilities` `score:0.135`
 - [[2026-unslop-ai-written-fiction-contest-results.md]] 2026 Unslop AI-Written Fiction Contest Results `pillar:capabilities` `score:0.415`
@@ -230,6 +231,7 @@
 - [[department-of-commerce-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.md]] Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5 `pillar:capabilities` `score:0.425`
 - [[designing-a-personal-pebble-watchface.md]] Designing a Personal Pebble Watchface `pillar:capabilities` `score:0.295`
 - [[details-of-the-daring-airdrop-at-tristan-da-cunha.md]] Details of the Daring Airdrop at Tristan Da Cunha `pillar:capabilities` `score:0.305`
+- [[detecting-llm-generated-texts-with-classical-machine-learning.md]] Detecting LLM-Generated Texts with “Classical” Machine Learning `pillar:capabilities` `score:0.53`
 - [[did-claude-increase-bugs-in-rsync.md]] Did Claude increase bugs in rsync? `pillar:capabilities` `score:0.63`
 - [[diffusiongemma-4x-faster-text-generation.md]] DiffusionGemma: 4x Faster Text Generation `pillar:capabilities` `score:0.615`
 - [[digg-tries-again-this-time-as-an-ai-news-aggregat.md]] Digg tries again, this time as an AI news aggregator `pillar:capabilities` `score:0.305`
@@ -294,6 +296,7 @@
 - [[general-intuition-in-talks-to-raise-300m-at-around-2b-valuation.md]] General Intuition in talks to raise $300M at around $2B valuation `pillar:capabilities` `score:0.48`
 - [[generative-ai-is-an-engineering-disaster.md]] Generative AI Is an Engineering Disaster `pillar:capabilities` `score:0.33`
 - [[geosql-a-claudecodex-skill-for-geospatial-data.md]] Geosql: A Claude/Codex skill for geospatial data `pillar:capabilities` `score:0.38`
+- [[german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks.md]] German AI consortium releases Soofi S, an open 30B model that tops benchmarks `pillar:capabilities` `score:0.515`
 - [[german-rail-service-suspended-due-to-radio-interference.md]] German Rail Service Suspended Due to Radio Interference `pillar:capabilities` `score:0.31`
 - [[ghost-font-a-font-that-humans-can-read-but-ai-cannot.md]] Ghost Font: A font that humans can read but AI cannot `pillar:capabilities` `score:0.445`
 - [[girls-just-wanna-have-fast-mpmc-queues-with-bounded-waiting.md]] Girls just wanna have fast MPMC queues with bounded waiting `pillar:capabilities` `score:0.31`
@@ -317,7 +320,9 @@
 - [[google-photos-adds-a-new-ai-8216video-remix8217-tool.md]] Google Photos adds a new AI &#8216;Video Remix&#8217; tool `pillar:capabilities` `score:0.48`
 - [[google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonatio.md]] Google rolls out fake call detection to protect against AI deepfake impersonatio `pillar:capabilities` `score:0.515`
 - [[google-takes-a-page-out-of-meta8217s-book-announces-new-audio-powered-smart-glas.md]] Google takes a page out of Meta&#8217;s book, announces new audio-powered smart `pillar:capabilities` `score:0.48`
+- [[google-vids-now-lets-you-star-in-your-own-ai-videos.md]] Google Vids now lets you star in your own AI videos `pillar:capabilities` `score:0.48`
 - [[google-will-pay-spacex-920m-per-month-for-compute.md]] Google will pay SpaceX $920M per month for compute `pillar:capabilities` `score:0.55`
+- [[google8217s-ai-mode-now-lets-you-link-and-interact-with-select-apps.md]] Google&#8217;s AI Mode now lets you link and interact with select apps `pillar:capabilities` `score:0.305`
 - [[google8217s-ai-studio-now-lets-anyone-build-android-apps-in-minutes.md]] Google&#8217;s AI Studio now lets anyone build Android apps in minutes `pillar:capabilities` `score:0.48`
 - [[google8217s-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic.md]] Google&#8217;s deepfake detector system used to debunk McConnell hoax pic `pillar:capabilities` `score:0.48`
 - [[google8217s-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-in.md]] Google&#8217;s Dreambeans, its weirdest-named AI tool to date, will turn your li `pillar:capabilities` `score:0.48`
@@ -359,6 +364,7 @@
 - [[how-terry-tao-became-an-evangelist-for-ai-in-math.md]] How Terry Tao became an evangelist for AI in math `pillar:capabilities` `score:0.48`
 - [[how-the-terrorist-group-boko-haram-uses-frontier-ai.md]] How the terrorist group Boko Haram uses frontier AI `pillar:capabilities` `score:0.495`
 - [[how-to-stop-claude-from-saying-load-bearing.md]] How to stop Claude from saying load-bearing `pillar:capabilities` `score:0.465`
+- [[how-to-train-a-gen-ai-kick-drum-model-on-your-old-linux-desktop-with-6gb-vram.md]] How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM `pillar:capabilities` `score:0.445`
 - [[how-to-turn-off-ai-in-your-google-docs.md]] How to turn off AI in your Google Docs `pillar:capabilities` `score:0.41`
 - [[how-turkey-hacked-the-hair-transplant-industry.md]] How turkey hacked the hair-transplant industry `pillar:capabilities` `score:0.43`
 - [[hpcaitechcolossalai.md]] hpcaitech/ColossalAI `pillar:capabilities` `score:0.615`
@@ -609,6 +615,7 @@
 - [[rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls.md]] Rime picks up $24M Series A to help enterprises field customer calls `pillar:capabilities` `score:0.48`
 - [[rio-de-janeiros-city-government-model-rio35-beats-qwen37-in-recent-benchmarks.md]] Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks `pillar:capabilities` `score:0.345`
 - [[rio-de-janeiros-homegrown-llm-appears-to-be-a-merge-of-an-existing-model.md]] Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model `pillar:capabilities` `score:0.565`
+- [[roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app.md]] Roblox launches an AI-powered game-creation feature in its mobile app `pillar:capabilities` `score:0.48`
 - [[robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise.md]] Robot hand company settles Tesla trade secret suit and announces $11M raise `pillar:capabilities` `score:0.445`
 - [[rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai.md]] Rocket engine startup Impulse raises $500 million to hire people, not AI `pillar:capabilities` `score:0.41`
 - [[rohitg00ai-engineering-from-scratch.md]] rohitg00/ai-engineering-from-scratch `pillar:capabilities` `score:0.63`
@@ -628,6 +635,7 @@
 - [[sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-require.md]] SandboxAQ brings its drug discovery models to Claude — no PhD in computing requi `pillar:capabilities` `score:0.305`
 - [[sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams.md]] Sandstone raises $30M to bring AI to in-house legal teams `pillar:capabilities` `score:0.48`
 - [[santifercareer-ops.md]] santifer/career-ops `pillar:capabilities` `score:0.405`
+- [[schema-harness-achieves-99-on-arcagi3-public.md]] Schema Harness Achieves ~99% on Arc‑AGI‑3 Public `pillar:capabilities` `score:0.515`
 - [[screenpipescreenpipe.md]] screenpipe/screenpipe `pillar:capabilities` `score:0.615`
 - [[self-a-new-top-level-domain-designed-to-support-self-hosting.md]] .self: A new top-level domain designed to support self-hosting `pillar:capabilities` `score:0.46`
 - [[semiconductor-lifeline-keeps-fighter-jets-in-the-air.md]] Semiconductor Lifeline Keeps Fighter Jets in the Air `pillar:capabilities` `score:0.275`
@@ -643,6 +651,7 @@
 - [[show-hn-ai-pair-programmer-for-emacs.md]] Show HN: AI Pair Programmer for Emacs `pillar:capabilities` `score:0.295`
 - [[show-hn-aislop-a-cli-for-catching-ai-generated-code-smells.md]] Show HN: AISlop, a CLI for catching AI generated code smells `pillar:capabilities` `score:0.48`
 - [[show-hn-appaca-ai-workspace-for-operators.md]] Show HN: Appaca – AI Workspace for Operators `pillar:capabilities` `score:0.295`
+- [[show-hn-bamboogrid-open-source-web-ui-for-power-grid-modeling-and-power-flow.md]] Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow `pillar:capabilities` `score:0.19`
 - [[show-hn-boxesdev-ditch-localhost-run-claude-code-and-codex-in-the-cloud.md]] Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud `pillar:capabilities` `score:0.33`
 - [[show-hn-brain-frog-can-you-be-random-enough-for-11-lines-of-javascript.md]] Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript? `pillar:capabilities` `score:0.345`
 - [[show-hn-brightdeck-an-ooxml-compatible-ai-presentation-maker.md]] Show HN: Brightdeck – an OOXML-compatible AI presentation maker `pillar:capabilities` `score:0.33`
@@ -1440,6 +1449,7 @@
 - [[affaan-mecc.md]] affaan-m/ECC `pillar:patterns` `score:0.58`
 - [[affaan-meverything-claude-code.md]] affaan-m/everything-claude-code `pillar:patterns` `score:0.58`
 - [[agent-harness-kit-scaffolding-for-multi-agent-work.md]] Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic) `pillar:patterns` `score:0.33`
+- [[agent-talk-enabling-coding-agents-to-work-together.md]] Agent-talk: Enabling coding agents to work together `pillar:patterns` `score:0.365`
 - [[agentic-coding-deserves-more-than-a-chat-box-bolted-onto-vs-code.md]] Agentic coding deserves more than a chat box bolted onto VS Code `pillar:patterns` `score:0.43`
 - [[agentic-coding-notes-from-galapagos-island.md]] Agentic coding notes from Galapagos Island `pillar:patterns` `score:0.395`
 - [[agentic-mfw.md]] Agentic Mfw `pillar:patterns` `score:0.295`
@@ -1602,6 +1612,7 @@
 - [[leonxlnxtaste-skill.md]] Leonxlnx/taste-skill `pillar:patterns` `score:0.58`
 - [[linshenkxprompt-optimizer.md]] linshenkx/prompt-optimizer `pillar:patterns` `score:0.58`
 - [[liyupiai-guide.md]] liyupi/ai-guide `pillar:patterns` `score:0.405`
+- [[lm-studio-bionic-the-ai-agent-for-open-models.md]] LM Studio Bionic: the AI agent for open models `pillar:patterns` `score:0.38`
 - [[lobehublobehub.md]] lobehub/lobehub `pillar:patterns` `score:0.615`
 - [[lumo-proton8217s-privacy-focused-ai-chatbot-gets-an-upgrade.md]] Lumo, Proton&#8217;s privacy-focused AI chatbot, gets an upgrade `pillar:patterns` `score:0.48`
 - [[magenta-realtime-2-open-and-local-live-music-models.md]] Magenta RealTime 2: Open and Local Live Music Models `pillar:patterns` `score:0.33`
@@ -1694,6 +1705,7 @@
 - [[show-hn-agentic-interface-for-mainframes-and-cobo.md]] Show HN: Agentic interface for mainframes and COBOL `pillar:patterns` `score:0.155`
 - [[show-hn-agentic-orchestrator-a-tui-for-long-running-coding-agents.md]] Show HN: Agentic Orchestrator, a TUI for long-running coding agents `pillar:patterns` `score:0.33`
 - [[show-hn-baerly-storage-a-document-db-that-runs-per-request-no-db-server.md]] Show HN: Baerly-storage, a document DB that runs per request, no DB server `pillar:patterns` `score:0.295`
+- [[show-hn-be-the-chatbot.md]] Show HN: Be the ChatBOT `pillar:patterns` `score:0.295`
 - [[show-hn-beacon-the-open-source-layer-for-local-ai-agent-visibility.md]] Show HN: Beacon - The open-source layer for local AI agent visibility `pillar:patterns` `score:0.295`
 - [[show-hn-bible-as-rag-database.md]] Show HN: Bible as RAG Database `pillar:patterns` `score:0.53`
 - [[show-hn-billai-bass-an-ai-powered-big-mouth-billy-bass-using-strands-agents.md]] Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents `pillar:patterns` `score:0.33`
@@ -1747,6 +1759,7 @@
 - [[show-hn-run-agent-skills-with-mistralrs-v0810-v1skills-support-and-more.md]] Show HN: Run Agent Skills with mistral.rs v0.8.10: /v1/skills support and more `pillar:patterns` `score:0.33`
 - [[show-hn-scan-your-ai-agents-for-dangerous-capabilities.md]] Show HN: Scan your AI agents for dangerous capabilities `pillar:patterns` `score:0.365`
 - [[show-hn-self-hosted-voice-ai-agent-for-asteriskfreepbx.md]] Show HN: Self-hosted voice AI agent for Asterisk/FreePBX `pillar:patterns` `score:0.33`
+- [[show-hn-sentinel-open-source-qa-agent-that-reads-your-code-before-it-clicks.md]] Show HN: Sentinel – open-source QA agent that reads your code before it clicks `pillar:patterns` `score:0.295`
 - [[show-hn-skill-for-your-agent-to-visualize-your-gbrain-and-obsidian.md]] Show HN: Skill for your agent to visualize your gbrain and Obsidian `pillar:patterns` `score:0.295`
 - [[show-hn-slayer-a-semantic-layer-maintained-by-yo.md]] Show HN: SLayer, a semantic layer maintained by your agent `pillar:patterns` `score:0.33`
 - [[show-hn-statewright-visual-state-machines-that.md]] Show HN: Statewright – Visual state machines that make AI agents reliable `pillar:patterns` `score:0.33`
@@ -2462,6 +2475,7 @@
 - [[nintendo-has-raised-its-employees-base-salary-by-10.md]] Nintendo has raised its employees base salary by 10% `pillar:business` `score:0.39`
 - [[no-raise-no-promotion-1-in-4-white-collar-workers-are-stalling-out.md]] No Raise, No Promotion: 1 in 4 White-Collar Workers Are Stalling Out `pillar:business` `score:0.515`
 - [[nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic.md]] Nobel laureate John Jumper is leaving DeepMind for rival Anthropic `pillar:business` `score:0.515`
+- [[notebooklm-is-now-gemini-notebook.md]] NotebookLM is now Gemini Notebook `pillar:business` `score:0.55`
 - [[nvidia-has-already-committed-40b-to-equity-ai-dea.md]] Nvidia has already committed $40B to equity AI deals this year `pillar:business` `score:0.48`
 - [[openai-and-broadcom-unveil-llm-optimized-inference-chip.md]] OpenAI and Broadcom unveil LLM-optimized inference chip `pillar:business` `score:0.415`
 - [[openai-barrels-toward-ipo-that-may-happen-in-september.md]] OpenAI barrels toward IPO that may happen in September `pillar:business` `score:0.48`

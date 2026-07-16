@@ -1,0 +1,26 @@
+{
+  "title": "LM Studio Bionic: the AI agent for open models",
+  "score": 58,
+  "comments": 17,
+  "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+  "hn_url": "https://news.ycombinator.com/item?id=48939662",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "LM Studio 推出 Bionic 智能代理功能，专为开源模型设计。该产品创新使开发者能直接在本地运行 AI Agent，无需依赖云端 API，从而降低使用成本并增强数据隐私。此举进一步降低了开源模型的使用门槛，并推动本地化 AI 应用的落地。对于产品经理，这预示着 AI Agent 模式与开源生态的深度融合，可能催生更多离线、隐私优先的产品方案。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI Agent",
+    "Open Source Models",
+    "Local AI"
+  ],
+  "entities": [
+    "LM Studio"
+  ],
+  "patterns": [
+    "AI Agent Pattern",
+    "Local-First AI"
+  ]
+}
