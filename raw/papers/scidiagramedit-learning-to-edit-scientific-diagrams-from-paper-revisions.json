@@ -1,0 +1,32 @@
+{
+  "title": "SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions",
+  "summary": "Editing the figures in a research paper is a routine and time-consuming part of everyday research practice: authors relabel components, rearrange panels, and restyle visuals as they revise their manuscripts. Automating this editing workflow under a natural-language instruction, however, is challenging, because a scientific figure is a dense infographic in which heterogeneous visual elements such as schematics, plots, photos, captions, and arrows are composed under a tight visual grammar to advance a specific argument. To address this, we present SciDiagramEdit, a benchmark and skill-evolution framework that learns from natural paper revisions and operates on the figure's editable vector source, where users can inspect and co-edit individual primitives alongside the agent. Our benchmark mines before/after figure pairs from arXiv version histories, each grounded in the authors' own revision intent. To accommodate the diversity of editing instructions, we adopt agentic learning via skill evolution: an agentic proposer continually refines the agent's skill specification from execution traces over multiple epochs. The resulting skill progressively lifts edit accuracy on a held-out validation set, providing evidence that natural paper revisions are an effective training signal for instruction-driven figure editing.",
+  "url": "http://arxiv.org/abs/2607.15272v1",
+  "authors": [
+    "Yasheng Sun",
+    "Zezi Zeng",
+    "Yifan Yang",
+    "Chong Luo",
+    "Wenyi Wang"
+  ],
+  "published": "2026-07-16T17:58:36Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "vision",
+    "training",
+    "accuracy"
+  ],
+  "summary_cn": "该论文提出了一种基于自然语言指令自动编辑科学图表的AI系统，通过学习论文修订历史中的图表修改模式，实现组件重标、面板重排、视觉风格调整等操作。技术核心在于利用序列到序列学习框架理解修改意图并生成编辑命令，无需人工标注。产品价值在于大幅节省研究人员在论文修改过程中的重复性图表编辑时间，提升科研工作效率。创新点在于将AI应用于高度结构化的科学图表领域，有望集成到论文协作工具或LaTeX编辑器中，形成专业化的Copilot模式。",
+  "pm_relevance": 7,
+  "concepts": [
+    "科学图表自动编辑",
+    "自然语言驱动的文档编辑",
+    "科研工作流自动化"
+  ],
+  "entities": [],
+  "patterns": [
+    "Copilot Pattern"
+  ]
+}

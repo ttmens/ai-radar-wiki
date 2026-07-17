@@ -1,0 +1,28 @@
+{
+  "title": "Mutable Low-Rank Sketches for Retrain-Free Recommendation",
+  "summary": "A common bottleneck in two-stage recommendation is embedding staleness: when a user rates a new item, their embedding remains fixed until the next retrain cycle. We propose mutable sketches, which store each user's preferences in a KP-tree (a sparse segment tree with sum aggregation), fit a low-rank projection once, and recompute embeddings on-the-fly as ratings arrive. We prove that each new observation monotonically tightens the prediction error envelope (Theorem 1), a guarantee that FunkSVD and eALS lack. On KuaiRec, the mutable sketch achieves 0.810 RMSE at 1.8% data read vs. ALS 0.822 at 100%, with 8x faster per-batch updates. A new user receives personalized recommendations in <1 ms after their first rating, with no model retraining required. A comparison of sampling strategies across density regimes shows that the KP-tree's norm-proportional sampling provides 40-130% better item coverage on sparse data (<1% density), while uniform sampling suffices on dense matrices.",
+  "url": "http://arxiv.org/abs/2607.15242v1",
+  "authors": [
+    "Hector J. Garcia",
+    "Nick Clayton"
+  ],
+  "published": "2026-07-16T17:39:38Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "embedding"
+  ],
+  "summary_cn": "传统两阶段推荐系统中，用户对新型物品评分后其嵌入表示会因等待重训周期而滞后，导致推荐冷启动延迟。本文提出可变草图（Mutable Sketches），利用KP-tree（稀疏分段树结合求和聚合）存储用户偏好，通过低秩近似实现无需重训即可实时更新用户嵌入。该技术降低了模型维护成本，提升了推荐系统对用户行为变化的响应速度，尤其适用于高频交互场景。产品上可嵌入实时推荐管道，增强个性化即时性，商业价值体现在减少计算开销、提升用户留存。核心创新在于将静态嵌入转为动态可更新结构，平衡了效率与准确性。",
+  "pm_relevance": 8,
+  "concepts": [
+    "推荐系统",
+    "增量学习",
+    "低秩近似"
+  ],
+  "entities": [],
+  "patterns": [
+    "在线学习模式",
+    "嵌入式实时更新"
+  ]
+}

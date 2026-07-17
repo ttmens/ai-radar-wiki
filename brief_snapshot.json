@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
-  "generated_at": "2026-07-17T06:01:43.418025+08:00",
-  "item_count": 21,
+  "generated_at": "2026-07-17T12:01:19.239959+08:00",
+  "item_count": 35,
   "items": [
     {
       "id": "the-llm-critics-are-right-i-use-llms-anyway",
@@ -136,6 +136,94 @@
       "date": "2026-07-17"
     },
     {
+      "id": "autosynthesis-an-agentic-system-for-automated-meta-analysis",
+      "label": "AutoSynthesis: An agentic system for automated meta-analysis",
+      "summary": "AutoSynthesis 是一个端到端的多智能体系统，旨在自动化传统上依赖人工的元分析过程。它通过协调多个AI智能体分工处理文献筛选、数据提取、效应量计算和异质性分析等步骤，突破了大规模证据合成的瓶颈。对AI产品经理而言，该技术展示了如何用多智能体协作模式将复杂的研究流程自动化，显著提升科研、医学、教育及政策制定的决策效率。其产品创新在于将分散的手动操作转化为可复用的智能体工作流，降低了专业壁垒，具备高商业价值。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.15247v1",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "beyond-success-rate-cost-aware-evaluation-of-offensive-and-defensive-security-ag",
+      "label": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security A",
+      "summary": "该论文突破传统安全智能体仅以成功率（如漏洞发现、渗透测试等）评估容量的局限，提出成本感知评估框架。在实际运营安全中，每个推理步骤和工具调用都消耗计算与时间资源，因此单纯追求峰值能力可能导致部署成本失控。该工作为AI安全产品经理提供了新视角：在设计和评估安全Agent时，必须将推理成本、工具调用次数等关键指标纳入考核，从而在保证安全效果的同时优化资源效率，提升产品的商业可行性和实际部署价值。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.15263v1",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "pretraining-data-can-be-poisoned-through-computational-propaganda",
+      "label": "Pretraining Data Can Be Poisoned through Computational Propaganda",
+      "summary": "研究发现，预训练数据可通过计算宣传手段被投毒，向语言模型注入难以检测和消除的有害行为。与以往依赖维基百科等固定数据源的研究不同，该工作揭示了在大规模、异质性的真实预训练语料中投毒的实际风险。对AI产品经理而言，这意味着数据供应链安全成为模型可信度的关键瓶颈，需投入数据溯源与异常检测机制。商业上，投毒可能导致合规风险与用户信任崩塌，亟需防御策略作为产品护城河。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.15267v1",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "searchos-v1-towards-robust-open-domain-information-seeking-agent-collaboration",
+      "label": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
+      "summary": "SearchOS-V1 提出了一种面向开放域信息搜索的鲁棒代理协作框架。针对工具集成大语言模型在长交互历史中任务跟踪困难、搜索失败时缺乏有效证据的问题，该工作设计了多代理协作机制，能够动态调整搜索策略并整合多方信息。其核心创新在于通过结构化内存和协作协议提升搜索鲁棒性，降低错误累积，为构建更可靠的AI信息助手提供了新范式。对产品经理而言，该技术可应用于智能客服、知识检索、研究辅助等场景，提升复杂信息查询的准确性和用户体验。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.15257v1",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "scenebind-binding-what-and-where-across-vision-audio-and-language",
+      "label": "SceneBind: Binding What and Where Across Vision, Audio and Language",
+      "summary": "SceneBind提出了一种全模态表示方法，将视觉、音频和语言信息与三维空间结构结合，突破了现有模型仅处理实例级语义（what）的局限，实现了“what”与“where”的联合理解。该技术通过语义-空间绑定，使AI能感知场景中物体的位置、关系及多模态属性，对增强现实、机器人导航和智能交互等产品领域具有重要商业价值。其创新在于融合空间定位与跨模态语义，为构建更真实、可交互的数字孪生和智能环境提供了新思路。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.15265v1",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "robottt-context-scaling-for-robot-policies",
+      "label": "RoboTTT: Context Scaling for Robot Policies",
+      "summary": "RoboTTT 提出了一种基于测试时训练（Test-Time-Training）的机器人策略方法，将视觉运动上下文（visuomotor context）扩展到8000个时间步，相比现有最先进策略提升了三个数量级。该方法使机器人能基于长序列历史信息进行决策，显著增强长期任务规划与适应能力，对工业自动化、服务机器人等场景具有重要商业价值。产品创新在于无需修改网络结构即可高效利用极长上下文，为机器人基础模型的实际部署提供了可扩展方案。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.15275v1",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "mutable-low-rank-sketches-for-retrain-free-recommendation",
+      "label": "Mutable Low-Rank Sketches for Retrain-Free Recommendation",
+      "summary": "传统两阶段推荐系统中，用户对新型物品评分后其嵌入表示会因等待重训周期而滞后，导致推荐冷启动延迟。本文提出可变草图（Mutable Sketches），利用KP-tree（稀疏分段树结合求和聚合）存储用户偏好，通过低秩近似实现无需重训即可实时更新用户嵌入。该技术降低了模型维护成本，提升了推荐系统对用户行为变化的响应速度，尤其适用于高频交互场景。产品上可嵌入实时推荐管道，增强个性化即时性，商业价值体现在减少计算开销、提升用户留存。核心创新在于将静态嵌入转为动态可更新结构，平衡了效率与准确性。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.15242v1",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "online-neural-space-time-memory-for-dynamic-novel-view-synthesis",
+      "label": "Online Neural Space Time Memory for Dynamic Novel View Synthesis",
+      "summary": "该论文提出在线空间时间记忆网络，解决动态新视角合成中持久记忆与实时性的权衡问题。通过测试时训练（TTT）机制，系统能在多视角流视频中实时维护长期记忆，有效重建临时遮挡区域，无需离线预处理。技术核心在于将空间时间信息编码为可在线更新的记忆表示，实现高效上下文融合。产品创新点在于为AR/VR、沉浸式直播、远程协作等场景提供实时、高保真的动态视角合成能力，降低了部署门槛，商业价值体现在提升用户体验和拓展实时3D视觉应用边界。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.15271v1",
+      "date": "2026-07-17"
+    },
+    {
       "id": "how-to-train-a-gen-ai-kick-drum-model-on-your-old-linux-desktop-with-6gb-vram",
       "label": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
       "summary": "该技术方案展示了如何在仅有6GB显存的旧款Linux台式机上训练生成式AI底鼓（Kick Drum）模型，通过优化模型架构、数据加载和训练流程，显著降低硬件门槛。产品经理可关注其带来的商业价值：使个人创作者或小团队无需昂贵GPU即可定制专属音频生成模型，推动AI音频民主化。技术要点包括轻量化网络设计、混合精度训练和内存高效的数据管道，产品创新在于将原本需要高端硬件的任务迁移至老旧设备，拓展了AI应用的部署场景。",
@@ -144,6 +232,50 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48935687",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "decoding-market-emotion-from-blockchain-activity-a-data-driven-sentiment-classif",
+      "label": "Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classi",
+      "summary": "该研究提出了一种结合链上数据、金融数据与社交媒体帖子来解码比特币市场情绪的新方法。通过分析区块链活动（如交易量、地址活跃度）与Twitter等社交平台的情感倾向，构建数据驱动的情绪分类器。技术要点在于融合异构数据源，利用机器学习模型（如NLP情感分析）提升情绪预测准确性。商业价值体现在为加密货币投资者和金融机构提供实时市场情绪指标，辅助投资决策。产品创新在于将传统金融量化分析与区块链透明性结合，实现更全面的市场情绪监测。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.15258v1",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "scidiagramedit-learning-to-edit-scientific-diagrams-from-paper-revisions",
+      "label": "SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions",
+      "summary": "该论文提出了一种基于自然语言指令自动编辑科学图表的AI系统，通过学习论文修订历史中的图表修改模式，实现组件重标、面板重排、视觉风格调整等操作。技术核心在于利用序列到序列学习框架理解修改意图并生成编辑命令，无需人工标注。产品价值在于大幅节省研究人员在论文修改过程中的重复性图表编辑时间，提升科研工作效率。创新点在于将AI应用于高度结构化的科学图表领域，有望集成到论文协作工具或LaTeX编辑器中，形成专业化的Copilot模式。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.15272v1",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "meanflownft-bringing-forward-process-rl-to-average-velocity-generators",
+      "label": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
+      "summary": "MeanFlowNFT提出了一种结合前向过程强化学习（Forward-Process RL）的平均速度生成器（Average-Velocity Generators），通过预测时间区间内的平均速度实现快速少步采样，显著提升生成效率。该方法利用强化学习将扩散模型与流模型对齐人类偏好和任务特定目标，在保证生成质量的同时缩短采样步骤，为AI生成模型在实时应用（如图像/视频生成）中的落地提供了低成本、高可控性的方案。商业上可降低推理延迟和计算资源消耗，产品上可支持更灵活的定制化生成，适合对响应速度有高要求的场景。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.15273v1",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "tellme-why-aint-nothing-but-a-jam-exploratory-causal-analysis-of-urban-driving-d",
+      "label": "teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Drivi",
+      "summary": "本文提出teLLMe，一种面向城市驾驶视频数据的探索性因果分析方法。传统交通数据多为观测性，难以直接回答‘降雨如何改变交通密度’等因果问题。teLLMe利用大规模视频数据，通过因果推断技术从混杂变量中分离出真实因果效应，帮助交通机构在不进行干预实验的情况下评估天气、事件等因素对交通拥堵和安全的影响。该方法具备可解释性和实用价值，可赋能智能交通产品，提升城市出行效率与安全性。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.15254v1",
       "date": "2026-07-17"
     },
     {
@@ -188,6 +320,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48934046",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "launch-hn-traceforce-yc-s26-company-wide-security-monitoring-for-ai-apps",
+      "label": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+      "summary": "Traceforce（YC S26）推出面向AI应用的企业级安全监控平台，覆盖全公司范围。该工具可实时检测AI应用中数据泄露、模型滥用等异常行为，提供可视化审计报告与告警机制。核心价值在于填补AI安全合规空白，帮助企业在部署AI时满足内部治理与外部法规要求（如GDPR、AI法案）。产品创新体现在无需侵入业务代码即可接入多类型AI服务（LLM、RAG等），实现全方位监控。对AI产品经理而言，该平台可降低部署风险，加速AI应用规模化落地。",
+      "pm_score": 0.33,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48937020",
+      "date": "2026-07-17"
+    },
+    {
+      "id": "show-hn-libretto-pr-agents-automatically-fix-failing-playwright-scripts",
+      "label": "Show HN: Libretto PR agents – Automatically fix failing playwright scripts",
+      "summary": "Libretto PR agents 是一款利用AI代理自动修复Playwright测试脚本失败的工具。它通过分析失败原因并生成修复代码，减少开发者手动排查和修改的时间，提升测试流程的自动化水平。该工具的核心价值在于将AI能力融入软件测试的日常维护中，降低回归测试的维护成本，加速CI/CD流程。对于AI产品经理而言，这体现了AI从‘辅助生成’向‘自主修复’的演进，为测试自动化领域提供了新的产品模式。",
+      "pm_score": 0.33,
+      "pillar": "patterns",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://libretto.sh/debug-agents",
       "date": "2026-07-17"
     },
     {
@@ -236,7 +390,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 4297,
-    "edges": 4621
+    "real_nodes": 4347,
+    "edges": 4671
   }
 }

@@ -1,0 +1,33 @@
+{
+  "title": "Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier",
+  "summary": "The growing use of Bitcoin as a decentralized digital asset and investment tool has sparked strong interest in understanding its market behavior. This study presents a new approach to analyze Bitcoin market sentiment by combining on-chain and financial data with social media posts. Unlike models that aim to predict prices, this work focuses on explaining market sentiment using blockchain transactions, historical price data of Bitcoin, and daily Twitter sentiment classifications. The method merges sentiment trends with on-chain and financial metrics, normalized into a dataset for detailed market analysis. Multiple machine learning models were tested using cross-validation, with Gradient Boosting (XGBoost) emerging as the most reliable model for classifying sentiment, achieving an average F1-score of about 0.84. SHAP (SHapley Additive exPlanations), a game theory-based method for model interpretability, was used to quantify the contribution of on-chain features to the model's predictions, improving transparency. The results indicate that this data combination yields meaningful predictive signals and insights, supporting data-driven cryptocurrency analysis and future improvements with deep learning.",
+  "url": "http://arxiv.org/abs/2607.15258v1",
+  "authors": [
+    "Arthur G. Bubolz",
+    "Abreu Quevedo",
+    "Giancarlo Lucca",
+    "Rafael A. Berri",
+    "Eduardo Borges"
+  ],
+  "published": "2026-07-16T17:52:26Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "gradient",
+    "dataset"
+  ],
+  "summary_cn": "该研究提出了一种结合链上数据、金融数据与社交媒体帖子来解码比特币市场情绪的新方法。通过分析区块链活动（如交易量、地址活跃度）与Twitter等社交平台的情感倾向，构建数据驱动的情绪分类器。技术要点在于融合异构数据源，利用机器学习模型（如NLP情感分析）提升情绪预测准确性。商业价值体现在为加密货币投资者和金融机构提供实时市场情绪指标，辅助投资决策。产品创新在于将传统金融量化分析与区块链透明性结合，实现更全面的市场情绪监测。",
+  "pm_relevance": 7,
+  "concepts": [
+    "链上数据分析",
+    "市场情绪分类",
+    "多模态数据融合"
+  ],
+  "entities": [
+    "Bitcoin"
+  ],
+  "patterns": [
+    "情感分析模型",
+    "数据融合模式"
+  ]
+}

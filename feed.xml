@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 16 Jul 2026 20:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 04:00:17 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -29,6 +29,46 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>NotebookLM is now Gemini Notebook</title>
+      <link>https://news.ycombinator.com/item?id=48936451</link>
+      <guid isPermaLink="false">notebooklm-is-now-gemini-notebook</guid>
+      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Google 将旗下 AI 笔记与研究助手 NotebookLM 整合至 Gemini 品牌，更名为 Gemini Notebook。此举标志着 Google 在 AI 产品线上进一步统一品牌形象，强化 Gemini 作为旗舰 AI 助手的定位。对产品经理而言，这反映了大型科技公司通过品牌整合简化用户认知、提升产品协同效应的典型策略，同时也暗示 NotebookLM 的原有功能将融入更广泛的 Gemini 生态，可能带来更强的多模态交互和上下文理解能力。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Detecting LLM-Generated Texts with “Classical” Machine Learning</title>
+      <link>https://news.ycombinator.com/item?id=48936880</link>
+      <guid isPermaLink="false">detecting-llm-generated-texts-with-classical-machine-learning</guid>
+      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了如何利用经典机器学习方法（如逻辑回归、随机森林、支持向量机等）来检测由大语言模型生成的文本。这类方法通常基于统计特征、词汇模式、困惑度等指标，与当前流行的神经网络检测器相比，具有训练成本低、可解释性强、泛化能力良好等优点。对于AI产品经理而言，该技术可嵌入内容审核、学术诚信检测、假新闻识别等场景，降低对大量标注数据的依赖，并能快速部署到现有系统中。同时，经典模型的可解释性有助于合规审计和用户信任建设，是一种值得关注的轻量级检测方案。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Schema Harness Achieves ~99% on Arc‑AGI‑3 Public</title>
+      <link>https://news.ycombinator.com/item?id=48935905</link>
+      <guid isPermaLink="false">schema-harness-achieves-99-on-arcagi3-public</guid>
+      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Schema Harness 在 Arc-AGI-3 公开基准测试中达到约99%的准确率，这是一个显著的技术突破。Arc-AGI 衡量抽象推理能力，之前最佳模型仅约30%。该成果表明，通过结构化模式学习（Schema）可以大幅提升AI的推理泛化能力，对需要复杂逻辑决策的AI产品（如自动化系统、智能助手）具有重大商业价值。产品经理应关注该方法的可迁移性及与现有系统集成的潜力，可能催生新一代推理型AI产品。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>German AI consortium releases Soofi S, an open 30B model that tops benchmarks</title>
+      <link>https://news.ycombinator.com/item?id=48937756</link>
+      <guid isPermaLink="false">german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks</guid>
+      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>德国AI联盟发布开源30B参数模型Soofi S，在多项基准测试中取得领先成绩。该模型以完全开源形式提供，不仅降低了企业部署高性能AI的门槛，还允许开发者自由定制、微调，适合构建垂直行业应用。商业价值在于减少对闭源API的依赖，同时以较小的参数规模实现接近更大模型的性能，优化成本与效率。产品创新方面，Soofi S体现了开源社区协作推动基础模型发展的趋势，为产品经理提供了灵活、可控、高性价比的AI能力底座。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Google Vids now lets you star in your own AI videos</title>
+      <link>https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/</link>
+      <guid isPermaLink="false">google-vids-now-lets-you-star-in-your-own-ai-videos</guid>
+      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google Vids 新增个性化AI头像功能，用户可创建数字分身并主演AI生成的视频，同时集成Gemini Omni多模态模型，支持通过文本提示和参考图像直接生成与编辑视频。该工具降低了视频创作门槛，将个人IP与AI生成能力结合，适用于营销、教育、社交等场景，体现了AI在个性化内容生产中的商业价值。产品创新点在于将数字分身与多模态生成深度融合，提升用户参与度与创作效率。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Why AMI Labs’ Alexandre LeBrun won&amp;#8217;t call his AI &amp;#8216;AGI&amp;#8217; or &amp;#82</title>
       <link>https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/</link>
       <guid isPermaLink="false">why-ami-labs-alexandre-lebrun-won8217t-call-his-ai-8216agi8217-or-8216superintel</guid>
@@ -42,6 +82,14 @@
       <guid isPermaLink="false">moonshot8217s-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropic8217s-o</guid>
       <pubDate>2026-07-17T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>据TechCrunch报道，月之暗面（Moonshot）即将推出的Kimi 3模型参数规模预计在2万亿至3万亿之间，将成为中国最大的开放AI模型，旨在缩小与Anthropic旗下Opus 4.8的能力差距。这一突破意味着Kimi 3在推理、上下文理解等核心能力上接近国际顶尖水平，对产品经理而言，可预期更强大的自然语言交互和复杂任务处理能力，同时开放权重策略将降低商业集成门槛，推动国产大模型在应用层的创新落地。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Roblox launches an AI-powered game-creation feature in its mobile app</title>
+      <link>https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/</link>
+      <guid isPermaLink="false">roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app</guid>
+      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Roblox在其移动应用中推出名为“Build”的AI游戏创作功能，允许用户仅通过单条文本提示即可自动生成基础游戏。这项创新将大语言模型与Roblox的游戏引擎深度集成，用户无需编程或设计技能，即可快速创建3D场景、角色和交互逻辑。从产品经理视角看，此举极大降低了UGC门槛，有望吸引更多非专业用户参与内容创作，扩大平台生态的活跃度与多样性。同时，AI生成的质量与可控性仍是挑战，但该功能展示了文本到游戏生成模式的商业化潜力，为游戏平台提供了全新的增长路径。</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -61,11 +109,51 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM</title>
+      <link>https://news.ycombinator.com/item?id=48935687</link>
+      <guid isPermaLink="false">how-to-train-a-gen-ai-kick-drum-model-on-your-old-linux-desktop-with-6gb-vram</guid>
+      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该技术方案展示了如何在仅有6GB显存的旧款Linux台式机上训练生成式AI底鼓（Kick Drum）模型，通过优化模型架构、数据加载和训练流程，显著降低硬件门槛。产品经理可关注其带来的商业价值：使个人创作者或小团队无需昂贵GPU即可定制专属音频生成模型，推动AI音频民主化。技术要点包括轻量化网络设计、混合精度训练和内存高效的数据管道，产品创新在于将原本需要高端硬件的任务迁移至老旧设备，拓展了AI应用的部署场景。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol</title>
+      <link>https://news.ycombinator.com/item?id=48939524</link>
+      <guid isPermaLink="false">100-ai-music-video-claude-fable-5-vs-gpt-56-sol</guid>
+      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容比较了使用Claude Fable 5和GPT-5.6 Sol两个AI模型以100美元成本制作音乐视频的效果，重点展示不同模型在创意生成、风格控制和成本效益方面的差异。对AI产品经理而言，这反映了AI在多媒体内容创作中的商业化潜力，尤其是低成本快速原型验证的能力，同时揭示模型选择对最终产品风格和质量的直接影响。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>LM Studio Bionic: the AI agent for open models</title>
+      <link>https://news.ycombinator.com/item?id=48939662</link>
+      <guid isPermaLink="false">lm-studio-bionic-the-ai-agent-for-open-models</guid>
+      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>LM Studio 推出 Bionic 智能代理功能，专为开源模型设计。该产品创新使开发者能直接在本地运行 AI Agent，无需依赖云端 API，从而降低使用成本并增强数据隐私。此举进一步降低了开源模型的使用门槛，并推动本地化 AI 应用的落地。对于产品经理，这预示着 AI Agent 模式与开源生态的深度融合，可能催生更多离线、隐私优先的产品方案。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Agent-talk: Enabling coding agents to work together</title>
+      <link>https://news.ycombinator.com/item?id=48936534</link>
+      <guid isPermaLink="false">agent-talk-enabling-coding-agents-to-work-together</guid>
+      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该技术探讨如何让多个编码智能体（coding agents）协同工作，通过设计标准化的通信协议和任务分配机制，实现代理间的协作、代码审查与补全。这种模式可大幅提升复杂软件开发任务的效率，减少人工干预，并可应用于自动化代码库维护、多语言重构等场景。对AI产品经理而言，它代表了从单点AI助手向协作式代理网络的演进，有望重塑开发工具生态，降低企业构建智能编码系统的门槛。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>Generative AI Is an Engineering Disaster</title>
       <link>https://news.ycombinator.com/item?id=48934046</link>
       <guid isPermaLink="false">generative-ai-is-an-engineering-disaster</guid>
       <pubDate>2026-07-17T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章指出生成式AI在工程层面存在严重问题，包括不可预测的输出、高昂的推理成本和维护困难。产品经理需意识到当前技术尚未成熟，在集成AI功能时需设计有效的容错机制、监控幻觉风险，并平衡创新与工程可靠性。商业上，过度依赖AI可能导致用户体验下降和成本失控。产品创新应聚焦于简化AI集成、提供可解释性工具或边缘计算方案，以降低工程灾难的概率。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Google&amp;#8217;s AI Mode now lets you link and interact with select apps</title>
+      <link>https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/</link>
+      <guid isPermaLink="false">google8217s-ai-mode-now-lets-you-link-and-interact-with-select-apps</guid>
+      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -91,6 +179,30 @@
       <pubDate>2026-07-17T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenAI 近期发布了一款 ChatGPT 品牌篮球，作为其首款硬件产品引发关注。这并非传统意义上的 AI 功能硬件，而是品牌周边产品，意在拓展用户情感连接和品牌影响力。对于 AI 产品经理而言，此举体现了 AI 公司从纯软件向实体生态延伸的商业策略，通过低成本的品牌周边增强用户粘性和市场渗透，但技术亮点有限。</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Show HN: Sentinel – open-source QA agent that reads your code before it clicks</title>
+      <link>https://blog.simbastack.com/announcing-sentinel/</link>
+      <guid isPermaLink="false">show-hn-sentinel-open-source-qa-agent-that-reads-your-code-before-it-clicks</guid>
+      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Sentinel 是一个开源的 QA 智能体，能够在你点击之前读取代码并自动执行测试。其核心技术在于将代码理解与 UI 交互结合，通过静态分析和动态模拟提前发现缺陷，显著降低回归测试成本。产品创新点在于实现了从“被动测试”到“主动预判”的转变，适合持续集成场景。商业价值体现在开源免费、可私有化部署，能帮助中小企业快速建立自动化测试体系。对于产品经理而言，该工具可减少人为测试疏漏，加速发布周期，尤其适合高迭代频率的 SaaS 产品。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Show HN: Be the ChatBOT</title>
+      <link>https://bethechatbot.com/</link>
+      <guid isPermaLink="false">show-hn-be-the-chatbot</guid>
+      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该项目展示了用户如何主动扮演聊天机器人角色，与AI系统进行反向互动，突破传统单向对话模式。产品创新点在于让人类模拟AI行为，用于测试、教育或娱乐场景，具有潜在的商业价值（如客服培训游戏化）。技术要点包括实时响应、情感模拟和交互控制。PM需关注这种新型人机交互范式对产品设计的启示。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow</title>
+      <link>https://bamboo.kickstage.com</link>
+      <guid isPermaLink="false">show-hn-bamboogrid-open-source-web-ui-for-power-grid-modeling-and-power-flow</guid>
+      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>BambooGrid 是一个开源的 Web UI 工具，用于电力系统建模和潮流计算。它提供直观的图形界面，使用户能够构建电网模型并模拟电力流动，降低传统复杂仿真软件的使用门槛。作为开源项目，它促进了电力行业的数据共享与协作创新，尤其适合教育、科研或中小型电力企业快速验证方案。尽管未直接集成 AI 能力，但其模块化架构为后续智能优化（如负荷预测、拓扑优化）奠定了基础。对于 AI 产品经理而言，该工具展示了如何将专业领域知识封装为易用交互界面，具有行业数字化转型的参考价值。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Arguing with NPCs is pointless</title>
@@ -139,6 +251,88 @@ Throwback: Amazing moment when a SpaceX employee met Elon Musk, gave him a hug, 
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>i talk to chatgpt more than i type to it at this point
+
+new voice model really crossed a threshold</title>
+      <link>https://x.com/sama/status/2077842579232895286</link>
+      <guid isPermaLink="false">twitter_sama_2077842579232895286</guid>
+      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>i talk to chatgpt more than i type to it at this point
+
+new voice model really crossed a threshold</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>we did not have our best last 12 months ever, which is mostly my fault, but we are about to have our...</title>
+      <link>https://x.com/sama/status/2077817060068057493</link>
+      <guid isPermaLink="false">twitter_sama_2077817060068057493</guid>
+      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>we did not have our best last 12 months ever, which is mostly my fault, but we are about to have our best 12 months to date. the team is doing amazing work and i think you’ll be very happy with what they’ve got cooking for you.
+
+i am happy about this for many reasons, but mostly because i care about</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files....</title>
+      <link>https://x.com/sama/status/2077630111499882637</link>
+      <guid isPermaLink="false">twitter_sama_2077630111499882637</guid>
+      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. 
+
+What we have  found is that this most commonly occurs when:
+- Full access mode is enabled and codex is run without sandboxing protections, including without auto review being enabled
+- The model at</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Love the new Starship Schematics T-shirt sold by SpaceX https://t.co/mlrpu1XpS7</title>
+      <link>https://x.com/elonmusk/status/2077819549991547320</link>
+      <guid isPermaLink="false">twitter_elonmusk_2077819549991547320</guid>
+      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Love the new Starship Schematics T-shirt sold by SpaceX https://t.co/mlrpu1XpS7</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Starlink now available in Côte d'Ivoire!</title>
+      <link>https://x.com/elonmusk/status/2077867371956412545</link>
+      <guid isPermaLink="false">twitter_elonmusk_2077867371956412545</guid>
+      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Starlink now available in Côte d'Ivoire!</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Starlink Mobile will be available in Italy with @FASTWEB.  The service will keep customers connected...</title>
+      <link>https://x.com/elonmusk/status/2077803428512969113</link>
+      <guid isPermaLink="false">twitter_elonmusk_2077803428512969113</guid>
+      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Starlink Mobile will be available in Italy with @FASTWEB.  The service will keep customers connected via apps and text messaging in remote areas without signal 🛰️📱</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Great to see @Intel using Gemini Enterprise across its business, including to speed up the developme...</title>
+      <link>https://x.com/sundarpichai/status/2077793864233230558</link>
+      <guid isPermaLink="false">twitter_sundarpichai_2077793864233230558</guid>
+      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Great to see @Intel using Gemini Enterprise across its business, including to speed up the development of next-gen semiconductors!</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Extremely strong at CAD and spatial reasoning</title>
+      <link>https://x.com/elonmusk/status/2077825887962337434</link>
+      <guid isPermaLink="false">twitter_elonmusk_2077825887962337434</guid>
+      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Extremely strong at CAD and spatial reasoning</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Tesla now in Uruguay</title>
+      <link>https://x.com/elonmusk/status/2077875206702448814</link>
+      <guid isPermaLink="false">twitter_elonmusk_2077875206702448814</guid>
+      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.9/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Tesla now in Uruguay</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Render mermaid charts in your CLI</title>
       <link>https://x.com/elonmusk/status/2077556147595419927</link>
       <guid isPermaLink="false">twitter_elonmusk_2077556147595419927</guid>
@@ -161,6 +355,18 @@ Throwback: Amazing moment when a SpaceX employee met Elon Musk, gave him a hug, 
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>In racing, tiny margins matter. AI can help teams find them.
+
+OpenAI’s Joyce Ruffell and @RaceTekSys...</title>
+      <link>https://x.com/OpenAI/status/2077807977193714080</link>
+      <guid isPermaLink="false">twitter_OpenAI_2077807977193714080</guid>
+      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.8/10</p><p><strong>类型:</strong> tweet</p><hr/><p>In racing, tiny margins matter. AI can help teams find them.
+
+OpenAI’s Joyce Ruffell and @RaceTekSystems co-founder @GarageGuyChase discuss with @AndrewMayne how racing teams use AI to turn track data into faster decisions—from our research collaboration with Chip Ganassi Racing to building new tool</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>AutoBots -  Multi-LLM Self-Improving Agens.
 
 Currently dog-fooding our next release - recursively se...</title>
@@ -177,6 +383,30 @@ easy  -  Deepseek flash, Kimi
 medium - Sonnet 4.5, Grok 4.5
 hard -  Op</p></description>
       <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Today we released Nemotron 3 Embed 8B and it reached #1 overall on RTEB 🏆
+
+RTEB benchmarks retrieval...</title>
+      <link>https://x.com/huggingface/status/2077786069840318800</link>
+      <guid isPermaLink="false">twitter_huggingface_2077786069840318800</guid>
+      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.8/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Today we released Nemotron 3 Embed 8B and it reached #1 overall on RTEB 🏆
+
+RTEB benchmarks retrieval accuracy across real-world tasks. Better retrieval gives agents more relevant context, helping improve response accuracy. https://t.co/ZuosmprzER</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Today we released Nemotron 3 Embed 8B and it reached #1 overall on RTEB 🏆
+
+RTEB benchmarks retrieval...</title>
+      <link>https://x.com/_akhaliq/status/2077786069840318800</link>
+      <guid isPermaLink="false">twitter__akhaliq_2077786069840318800</guid>
+      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.8/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Today we released Nemotron 3 Embed 8B and it reached #1 overall on RTEB 🏆
+
+RTEB benchmarks retrieval accuracy across real-world tasks. Better retrieval gives agents more relevant context, helping improve response accuracy. https://t.co/ZuosmprzER</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>NVIDIAとSakana AI、オープンモデルによるイノベーションのため協業拡大
@@ -239,281 +469,6 @@ Here’s how we’re deploying frontier AI to build proactive defenses for globa
       <pubDate>2026-07-16T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>One year of @kirodotdev 🎉 https://t.co/q3oTPMWUJU</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>@jluan follow this track playlist
-
-https://t.co/MzPfXCh1jb</title>
-      <link>https://x.com/swyx/status/2077562792429891696</link>
-      <guid isPermaLink="false">twitter_swyx_2077562792429891696</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>@jluan follow this track playlist
-
-https://t.co/MzPfXCh1jb</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Inkling @thinkymachines 1-bit quant by @UnslothAI running 30-40 TPS 🤯 
-
-video sped up, feel free to ...</title>
-      <link>https://x.com/huggingface/status/2077736342155386937</link>
-      <guid isPermaLink="false">twitter_huggingface_2077736342155386937</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Inkling @thinkymachines 1-bit quant by @UnslothAI running 30-40 TPS 🤯 
-
-video sped up, feel free to jump at the end to check outputs
-
-also llama.cpp webui is 😍 has reasoning slider, html preview, mcp and multimodal support https://t.co/RMAf6Azgd9</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>This is such a splitting hairs issue. 
-
-Like what would you want? 
-
-All the data? Not possible. Mass...</title>
-      <link>https://x.com/ylecun/status/2077641797363237328</link>
-      <guid isPermaLink="false">twitter_ylecun_2077641797363237328</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>This is such a splitting hairs issue. 
-
-Like what would you want? 
-
-All the data? Not possible. Massive IP violation. 
-
-Training harness? Okay great, you can't run it at scale. 
-
-It's useful to have open models you can inspect and fine tune. Period. Yeah they are not "fully open" but it's just not r</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot https://t.c...</title>
-      <link>https://x.com/JohnNosta/status/2077710775205130460</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2077710775205130460</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot https://t.co/ikwsQs3kbl</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>The Box MCP server is now available in the @databricks Marketplace.
-
-Data analysts and data scientis...</title>
-      <link>https://x.com/databricks/status/2077771224885968924</link>
-      <guid isPermaLink="false">twitter_databricks_2077771224885968924</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>The Box MCP server is now available in the @databricks Marketplace.
-
-Data analysts and data scientists can now pull unstructured content from Box directly into their Databricks workflows through Genie. Structured vendor metrics and contract terms in one place. No platform switching. No data duplicat</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Genie One is now available on iOS and Android, bringing the data-smart AI coworker wherever business...</title>
-      <link>https://x.com/databricks/status/2077762730518348038</link>
-      <guid isPermaLink="false">twitter_databricks_2077762730518348038</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Genie One is now available on iOS and Android, bringing the data-smart AI coworker wherever business decisions happen.
-
-Business users can chat with Genie, explore dashboards, access Databricks Apps, and get grounded answers on the go, all with the same permissions, identity controls, and network se</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Unified Logs is now in open beta.
-
-One searchable view for logs across every Supabase service: API g...</title>
-      <link>https://x.com/supabase/status/2077770474654663038</link>
-      <guid isPermaLink="false">twitter_supabase_2077770474654663038</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Unified Logs is now in open beta.
-
-One searchable view for logs across every Supabase service: API gateway, Postgres, Auth, Storage, Realtime, poolers. Filter, free-text search, live tail, and a timeline that shows where the errors are.
-
-https://t.co/YjccnXgBR2</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Railway is now an official plugin in @grok Build
-
-Your agents can ship apps, manage infrastructure, ...</title>
-      <link>https://x.com/railway/status/2077771148427694404</link>
-      <guid isPermaLink="false">twitter_railway_2077771148427694404</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Railway is now an official plugin in @grok Build
-
-Your agents can ship apps, manage infrastructure, and troubleshoot issues right from Grok
-
-Install from the marketplace today 🚅 https://t.co/0HZpAoRtfk</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Follow this account for the best Gradio apps you can run for free on @HuggingFace Spaces!</title>
-      <link>https://x.com/_akhaliq/status/2077653068779282881</link>
-      <guid isPermaLink="false">twitter__akhaliq_2077653068779282881</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Follow this account for the best Gradio apps you can run for free on @HuggingFace Spaces!</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>https://t.co/1YZuU5vONc</title>
-      <link>https://x.com/hardmaru/status/2077734257687224384</link>
-      <guid isPermaLink="false">twitter_hardmaru_2077734257687224384</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>https://t.co/1YZuU5vONc</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>For buckets of insight about technopsychology’s flow state, @JohnNosta is a go-to well.
-
-Draw clarit...</title>
-      <link>https://x.com/JohnNosta/status/2077771920569667710</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2077771920569667710</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>For buckets of insight about technopsychology’s flow state, @JohnNosta is a go-to well.
-
-Draw clarity from The Nosta Well to hydrate your AI-parched mind.
-
-Splash your face with the cool fluidity of John’s childlike wonder and adult-sight intellect.
-
-He’s a font of metacognition.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>📈📉Now below the IPO price, is it a good time to buy @SpaceX? $SPCX https://t.co/49FAs6sBjC</title>
-      <link>https://x.com/JohnNosta/status/2077769625291420075</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2077769625291420075</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>📈📉Now below the IPO price, is it a good time to buy @SpaceX? $SPCX https://t.co/49FAs6sBjC</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>“...somewhere in the unfinished space, in the gap between what we mean and how we try to say it, som...</title>
-      <link>https://x.com/JohnNosta/status/2077740369903587645</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2077740369903587645</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>“...somewhere in the unfinished space, in the gap between what we mean and how we try to say it, something honest and something very human still survives.”-@JohnNosta ✨
-Flawless AI And The Unique Human Flaws #AI Can Imitate But Can't Fake🧠
-💥Exciting Read💡 Visit Blog Today⤵️ https://t.co/ZrOteHBLZQ</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>𝗠𝗮𝗻𝗮𝗴𝗲𝗱 𝗪𝗲𝗮𝘃𝗶𝗮𝘁𝗲 𝗶𝘀 𝗻𝗼𝘄 𝗮𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗼𝗻 𝗗𝗶𝗴𝗶𝘁𝗮𝗹𝗢𝗰𝗲𝗮𝗻 𝗶𝗻 𝗽𝘂𝗯𝗹𝗶𝗰 𝗽𝗿𝗲𝘃𝗶𝗲𝘄!
-
-DigitalOcean handles the infra...</title>
-      <link>https://x.com/weaviate_io/status/2077755251759722574</link>
-      <guid isPermaLink="false">twitter_weaviate_io_2077755251759722574</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>𝗠𝗮𝗻𝗮𝗴𝗲𝗱 𝗪𝗲𝗮𝘃𝗶𝗮𝘁𝗲 𝗶𝘀 𝗻𝗼𝘄 𝗮𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗼𝗻 𝗗𝗶𝗴𝗶𝘁𝗮𝗹𝗢𝗰𝗲𝗮𝗻 𝗶𝗻 𝗽𝘂𝗯𝗹𝗶𝗰 𝗽𝗿𝗲𝘃𝗶𝗲𝘄!
-
-DigitalOcean handles the infrastructure around Weaviate:
-
-• Provisioning and security
-• Automated daily backups
-• Patching and version upgrades
-• High availability and storage autoscaling
-• Point-in-time cluster forks
-• Performanc</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Meet Hear2Help: A hackathon project giving a voice to the deaf, non-verbal, and anyone in crisis.
-
-T...</title>
-      <link>https://x.com/ThePracticalDev/status/2077777446472962426</link>
-      <guid isPermaLink="false">twitter_ThePracticalDev_2077777446472962426</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Meet Hear2Help: A hackathon project giving a voice to the deaf, non-verbal, and anyone in crisis.
-
-Triple-tap to trigger SOS, get real-time AI speech via ElevenLabs, and instantly find nearby help.
-
-Check out the build: https://t.co/IiqQ8x7Z6D https://t.co/bDljfyJCpz</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Inkling: Our Open-Weights Model</title>
-      <link>https://news.ycombinator.com/item?id=48924912</link>
-      <guid isPermaLink="false">inkling-our-open-weights-model</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Inkling发布开放权重模型，允许开发者自由定制和部署，提升AI透明度与可控性。这一举措降低了技术壁垒，促进社区创新，但需注意模型安全与合规风险。对产品经理而言，开放权重意味着更灵活的集成和成本优化，适合私有化部署场景。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>cmusatyalab/openface</title>
-      <link>https://github.com/cmusatyalab/openface</link>
-      <guid isPermaLink="false">cmusatyalabopenface</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> github</p><hr/><p>Openface 是基于深度神经网络的开源人脸识别系统，由卡内基梅隆大学的研究团队开发。它利用深度学习模型实现高精度的人脸检测、对齐和识别，支持实时处理和批量分析。产品角度，Openface 降低了人脸识别技术的门槛，使开发者能够快速集成到安防、门禁、零售客户分析等场景中。其模块化设计允许针对特定用户群体进行微调，商业价值体现在可定制的身份验证解决方案和低成本部署。开源特性促进了社区迭代，但需关注隐私合规和模型偏见问题。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence</title>
-      <link>https://news.ycombinator.com/item?id=48920432</link>
-      <guid isPermaLink="false">the-three-second-theft-why-ai-voice-fraud-outruns-every-defence</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>AI语音欺诈技术能在3秒内完成声音克隆并实施诈骗，远超现有防御系统的响应速度。该技术利用深度学习合成逼真语音，针对企业客服、银行验证等场景，造成严重经济损失。产品经理需关注实时声纹检测、多模态验证等创新方案，以保护用户资产和品牌信任。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Hack suggests AI music generator Suno scraped YouTube for training data</title>
-      <link>https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/</link>
-      <guid isPermaLink="false">hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>黑客利用Suno员工凭证访问其源代码，揭示该AI音乐生成器从YouTube抓取了长达数十年的音频数据用于训练模型。这一发现引发对版权合规和数据来源合法性的关注。对AI产品经理而言，该事件强调训练数据获取策略的透明度和法律风险，也凸显了音乐生成领域依赖大规模音频数据集的商业模式面临的挑战。Suno需应对潜在版权诉讼，而行业可能因此加速建立合规数据采集框架，或转向与版权方合作获取授权数据。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Anthropic, Blackstone bet the next trillion-dollar AI business is implementation</title>
-      <link>https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/</link>
-      <guid isPermaLink="false">anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Anthropic 和 Blackstone 支持的初创公司 Ode 推出新服务，核心观点是企业 AI 的下一个万亿机会不在模型本身，而在实施落地。Ode 通过向前端部署工程师，直接嵌入企业内部，帮助大型企业将 AI 技术转化为实际业务价值。这种模式类似于软件行业的专业服务，强调定制化集成和持续优化，解决企业从模型到生产力的最后一公里问题。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Whatnot acquires Shaped to power real-time live shopping recommendations</title>
-      <link>https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/</link>
-      <guid isPermaLink="false">whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>直播电商平台Whatnot收购AI初创公司Shaped，后者专注于实时推荐与搜索的机器学习技术。该交易将强化Whatnot的个性化和商品发现能力，助其向新品类扩张。对AI产品经理而言，这标志实时推荐引擎在直播购物场景中的关键应用：通过低延迟模型动态优化商品展示，提升转化率与用户粘性。Shaped的技术可能采用在线学习或特征工程，以应对直播中用户行为与库存的快速变化。商业价值上，收购直接增强平台竞争力，为跨品类拓展提供智能化基础设施，同时减少对外部推荐API的依赖，形成数据飞轮。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Microsoft patches record number of security vulnerabilities, citing its use of A</title>
-      <link>https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/</link>
-      <guid isPermaLink="false">microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>微软在最新的‘补丁星期二’中修复了创纪录的570个安全漏洞，覆盖全线产品。这些漏洞的发现大量依赖AI技术，说明AI在提升安全检测效率和覆盖面方面发挥关键作用。对于AI产品经理，这展示了AI在安全运维中的实际落地价值：通过自动化分析代码和行为模式，AI能加速漏洞识别、降低人工成本，并提升企业级产品的可靠性与合规性。微软此举不仅强化了自身安全体系，也为AI在网络安全领域的应用提供了标杆案例。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>DSLs Enable Reliable Use of LLMs</title>
-      <link>https://news.ycombinator.com/item?id=48918575</link>
-      <guid isPermaLink="false">dsls-enable-reliable-use-of-llms</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>领域特定语言（DSLs）通过为 LLM 提供精确的语法和约束，显著提升其输出的可靠性和一致性。对产品经理而言，DSL 能降低幻觉风险、增强可控性，尤其适合金融、医疗等对准确性要求高的场景。商业上，它为企业安全落地 LLM 提供了桥梁，无需依赖昂贵的 prompt 调试。产品创新方面，可设计面向非技术用户的 DSL 接口，让业务专家直接定义逻辑。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Governments, companies, nonprofits should invest in free, open source AI [pdf]</title>
-      <link>https://news.ycombinator.com/item?id=48927095</link>
-      <guid isPermaLink="false">governments-companies-nonprofits-should-invest-in-free-open-source-ai-pdf</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该文档呼吁政府、企业和非营利组织共同投资于免费开源AI生态，旨在降低技术门槛、促进协作创新。对产品经理而言，开源AI可大幅削减模型采购成本，加速产品迭代，但需平衡社区治理与商业化可持续性。技术要点包括模型开放许可、社区贡献机制及跨组织数据共享模式，商业价值体现在生态锁定效应与差异化能力，产品创新则聚焦于基于开源基座构建垂直应用。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Thinking Machines amps up its bet against one-size-fits-all AI with its first op</title>
-      <link>https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/</link>
-      <guid isPermaLink="false">thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-op</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Thinking Machines 发布其首个开源模型 Inkling，挑战通用大模型的一刀切方案。经过一年半的隐秘基础设施建设，该公司首次公开成果，聚焦于特定场景的定制化 AI 能力。对产品经理而言，这标志着企业级 AI 正从依赖单一通用模型转向按需定制的专用模型道路，可能降低对云端大模型的依赖，提升垂直领域的产品灵活性和成本效率。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic</title>
-      <link>https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/</link>
-      <guid isPermaLink="false">microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic</guid>
-      <pubDate>2026-07-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>微软正培训销售团队，重点推广其内部AI模型相较于OpenAI和Anthropic的竞品更高效且成本更优。此举旨在通过差异化策略争夺企业客户，强调自研模型在特定场景下的性价比优势。对AI产品经理而言，这体现了巨头在AI商业化中的竞争加剧，需关注成本、效率对产品选型的影响，以及微软生态内模型与第三方模型在集成、定价上的博弈。</p></description>
-      <category>💰 商业趋势</category>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,32 @@
+{
+  "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
+  "summary": "Recent advances in Tool-Integrated Large Language Models have made web search a core capability of information-seeking agents. However, as interaction histories grow, agents increasingly struggle to track task progress. When search attempts fail to yield useful evidence, current single- and multi-agent systems can become trapped in repetitive loops, wasting search budgets and ultimately compromising the quality and completeness of the final output. We introduce SearchOS, a system-level multi-agent framework that turns fragile, implicit search progress into explicit, persistent, and shared state. First, we formulate open-domain information seeking as relational schema completion with grounded citations, where agents discover entities, populate attributes across linked tables, and anchor each value to source evidence. Then we design Search-Oriented Context Management (SOCM), which externalizes the evolving state into Frontier Task, an Evidence Graph, a Coverage Map, and Failure Memory. Built on SOCM, SearchOS applies a pipeline-parallel scheduling mechanism that overlaps the execution of sub-agents and continuously refills freed slots with tasks targeting unresolved coverage gaps to improve utilization and throughput. To schedule and control the execution of search agents, SearchOS introduces a Search Tool Middleware Harness that intercepts model and tool interactions to record grounded evidence and react to stalls or budget exhaustion, and provides a reusable hierarchical skill system comprising strategy and access skills to augment the agents' search process and avoid repeating failed search patterns across runs. On WideSearch and GISA, SearchOS leads all metrics among the evaluated single- and multi-agent baselines, paving the way toward robust information-seeking collaboration.",
+  "url": "http://arxiv.org/abs/2607.15257v1",
+  "authors": [
+    "Yuyao Zhang",
+    "Junjie Gao",
+    "Zhengxian Wu",
+    "Jiaming Fan",
+    "Jin Zhang"
+  ],
+  "published": "2026-07-16T17:51:23Z",
+  "tag": "Paper",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent",
+    "rag",
+    "memory",
+    "multi-agent"
+  ],
+  "summary_cn": "SearchOS-V1 提出了一种面向开放域信息搜索的鲁棒代理协作框架。针对工具集成大语言模型在长交互历史中任务跟踪困难、搜索失败时缺乏有效证据的问题，该工作设计了多代理协作机制，能够动态调整搜索策略并整合多方信息。其核心创新在于通过结构化内存和协作协议提升搜索鲁棒性，降低错误累积，为构建更可靠的AI信息助手提供了新范式。对产品经理而言，该技术可应用于智能客服、知识检索、研究辅助等场景，提升复杂信息查询的准确性和用户体验。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Multi-Agent Collaboration",
+    "Robust Information Seeking"
+  ],
+  "entities": [],
+  "patterns": [
+    "Multi-Agent Pattern",
+    "Tool-Integrated LLM"
+  ]
+}

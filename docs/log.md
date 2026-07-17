@@ -2938,3 +2938,20 @@
 - create: show-hn-bamboogrid-open-source-web-ui-for-power-grid-modeling-and-power-flow.md
 - create: show-hn-be-the-chatbot.md
 - create: show-hn-sentinel-open-source-qa-agent-that-reads-your-code-before-it-clicks.md
+
+## [2026-07-17 12:01] sync v3 | 15 new | pillars: {'capabilities': 11, 'patterns': 3, 'ecosystem': 1}
+- create: robottt-context-scaling-for-robot-policies.md
+- create: meanflownft-bringing-forward-process-rl-to-average-velocity-generators.md
+- create: scidiagramedit-learning-to-edit-scientific-diagrams-from-paper-revisions.md
+- create: online-neural-space-time-memory-for-dynamic-novel-view-synthesis.md
+- create: pretraining-data-can-be-poisoned-through-computational-propaganda.md
+- create: scenebind-binding-what-and-where-across-vision-audio-and-language.md
+- create: beyond-success-rate-cost-aware-evaluation-of-offensive-and-defensive-security-ag.md
+- create: decoding-market-emotion-from-blockchain-activity-a-data-driven-sentiment-classif.md
+- create: searchos-v1-towards-robust-open-domain-information-seeking-agent-collaboration.md
+- create: tellme-why-aint-nothing-but-a-jam-exploratory-causal-analysis-of-urban-driving-d.md
+- create: autosynthesis-an-agentic-system-for-automated-meta-analysis.md
+- create: mutable-low-rank-sketches-for-retrain-free-recommendation.md
+- create: launch-hn-traceforce-yc-s26-company-wide-security-monitoring-for-ai-apps.md
+- create: canada-says-bridge-tolls-wont-be-split-with-us-until-64b-of-debt-is-repaid.md
+- create: show-hn-libretto-pr-agents-automatically-fix-failing-playwright-scripts.md

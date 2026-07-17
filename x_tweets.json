@@ -1,8 +1,130 @@
 {
-  "fetched_at": "2026-07-16T21:02:07.387017",
+  "fetched_at": "2026-07-17T09:02:05.820862",
   "source": "twitter-cli",
   "data": {
     "sama": [
+      {
+        "id": "2077842579232895286",
+        "text": "i talk to chatgpt more than i type to it at this point\n\nnew voice model really crossed a threshold",
+        "author": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screenName": "sama",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 6798,
+          "retweets": 193,
+          "replies": 1219,
+          "quotes": 126,
+          "views": 383283,
+          "bookmarks": 273
+        },
+        "createdAt": "Thu Jul 16 19:47:29 +0000 2026",
+        "createdAtLocal": "2026-07-17 03:47",
+        "createdAtISO": "2026-07-16T19:47:29+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2077817060068057493",
+        "text": "we did not have our best last 12 months ever, which is mostly my fault, but we are about to have our best 12 months to date. the team is doing amazing work and i think you’ll be very happy with what they’ve got cooking for you.\n\ni am happy about this for many reasons, but mostly because i care about our users winning. AI has to be about giving lots of people more freedom, agency, and wealth. we want to do the right thing, but we do not want to scare people into doing our thing.",
+        "author": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screenName": "sama",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 16486,
+          "retweets": 587,
+          "replies": 1514,
+          "quotes": 271,
+          "views": 1051352,
+          "bookmarks": 1379
+        },
+        "createdAt": "Thu Jul 16 18:06:05 +0000 2026",
+        "createdAtLocal": "2026-07-17 02:06",
+        "createdAtISO": "2026-07-16T18:06:05+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2077630111499882637",
+        "text": "On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. \n\nWhat we have  found is that this most commonly occurs when:\n- Full access mode is enabled and codex is run without sandboxing protections, including without auto review being enabled\n- The model attempts  to override the $HOME env var to define a temporary directory.\n- The model makes an honest mistake and mistakenly deletes $HOME instead.\n\nThis is of course not how we want the system to behave, even when a user operates the model in full-access mode without the safeguards of our sandbox or without using auto review which checks for these kinds of high risk actions and rejects them. \n\nWe are taking steps to mitigate this risk including by updating the developer message, guiding more users towards safer permission modes, and adding additional harness safeguards. Even though this happens extremely rarely, we’ll share a detailed post-mortem in the coming days that goes into more details and what we are doing to minimize risks further.",
+        "author": {
+          "id": "1953337039510003712",
+          "name": "Tibo",
+          "screenName": "thsottiaux",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2075819673263001600/pj1vyX6I_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 8244,
+          "retweets": 373,
+          "replies": 649,
+          "quotes": 194,
+          "views": 1021367,
+          "bookmarks": 1497
+        },
+        "createdAt": "Thu Jul 16 05:43:13 +0000 2026",
+        "createdAtLocal": "2026-07-16 13:43",
+        "createdAtISO": "2026-07-16T05:43:13+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "sama",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2077794137428922833",
+        "text": "My first attempt at a twitter article.. if you prefer the blog form, see https://t.co/r9x2wLsuqe",
+        "author": {
+          "id": "1217628182611927040",
+          "name": "Boaz Barak",
+          "screenName": "boazbaraktcs",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1252262363132280834/ytIN-vzv_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 134,
+          "retweets": 8,
+          "replies": 19,
+          "quotes": 2,
+          "views": 88329,
+          "bookmarks": 58
+        },
+        "createdAt": "Thu Jul 16 16:35:00 +0000 2026",
+        "createdAtLocal": "2026-07-17 00:35",
+        "createdAtISO": "2026-07-16T16:35:00+00:00",
+        "media": [],
+        "urls": [
+          "https://windowsontheory.org/2026/07/16/all-watched-over/"
+        ],
+        "isRetweet": true,
+        "retweetedBy": "sama",
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2077791008654340168",
+          "text": "https://t.co/pf0AkKVnoZ",
+          "author": {
+            "screenName": "boazbaraktcs",
+            "name": "Boaz Barak"
+          }
+        }
+      },
       {
         "id": "2077489177374208000",
         "text": "amazing to me that some people want the silent version\n\nhttps://t.co/jbdznnBx9Z",
@@ -14,12 +136,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 2771,
-          "retweets": 122,
-          "replies": 503,
-          "quotes": 70,
-          "views": 456708,
-          "bookmarks": 432
+          "likes": 3075,
+          "retweets": 138,
+          "replies": 540,
+          "quotes": 89,
+          "views": 639991,
+          "bookmarks": 479
         },
         "createdAt": "Wed Jul 15 20:23:12 +0000 2026",
         "createdAtLocal": "2026-07-16 04:23",
@@ -32,136 +154,6 @@
         "retweetedBy": null,
         "lang": "en",
         "score": null
-      },
-      {
-        "id": "2077446718728425686",
-        "text": "Introducing GPT-Red\n\nAn internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.\n\nhttps://t.co/GxnmxxcpSk",
-        "author": {
-          "id": "4398626122",
-          "name": "OpenAI",
-          "screenName": "OpenAI",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 7463,
-          "retweets": 694,
-          "replies": 426,
-          "quotes": 236,
-          "views": 1244668,
-          "bookmarks": 2079
-        },
-        "createdAt": "Wed Jul 15 17:34:29 +0000 2026",
-        "createdAtLocal": "2026-07-16 01:34",
-        "createdAtISO": "2026-07-15T17:34:29+00:00",
-        "media": [],
-        "urls": [
-          "https://openai.com/index/unlocking-self-improvement-gpt-red/"
-        ],
-        "isRetweet": true,
-        "retweetedBy": "sama",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2077118672150388816",
-        "text": "hello!",
-        "author": {
-          "id": "1605",
-          "name": "Sam Altman",
-          "screenName": "sama",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 6637,
-          "retweets": 138,
-          "replies": 605,
-          "quotes": 34,
-          "views": 1141347,
-          "bookmarks": 232
-        },
-        "createdAt": "Tue Jul 14 19:50:57 +0000 2026",
-        "createdAtLocal": "2026-07-15 03:50",
-        "createdAtISO": "2026-07-14T19:50:57+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2077114635308986427",
-          "text": "Hello. We have reached 8M active users across Codex and ChatGPT Work.\n\nWe are once again resetting the usage limits for all. And we continue to not have the 5h rate limit as well, allowing everyone to explore the boundaries of GPT-5.6 Sol and discover how ambitious you can be.\n\nSee you tomorrow for more updates on our growth!",
-          "author": {
-            "screenName": "thsottiaux",
-            "name": "Tibo"
-          }
-        }
-      },
-      {
-        "id": "2077106587307798989",
-        "text": "5.6 sol growth is insane.\n\nthe inference team has done heroic work to be able to support demand.\n\nwe are going to move mountains to continue to scale, but it is possible there are some hiccups soon.",
-        "author": {
-          "id": "1605",
-          "name": "Sam Altman",
-          "screenName": "sama",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 12481,
-          "retweets": 343,
-          "replies": 901,
-          "quotes": 215,
-          "views": 2612178,
-          "bookmarks": 574
-        },
-        "createdAt": "Tue Jul 14 19:02:55 +0000 2026",
-        "createdAtLocal": "2026-07-15 03:02",
-        "createdAtISO": "2026-07-14T19:02:55+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2077053140508266710",
-        "text": "Concerning.",
-        "author": {
-          "id": "1605",
-          "name": "Sam Altman",
-          "screenName": "sama",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 24018,
-          "retweets": 1281,
-          "replies": 1242,
-          "quotes": 256,
-          "views": 3300303,
-          "bookmarks": 1784
-        },
-        "createdAt": "Tue Jul 14 15:30:33 +0000 2026",
-        "createdAtLocal": "2026-07-14 23:30",
-        "createdAtISO": "2026-07-14T15:30:33+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2076716354754015368",
-          "text": "SpaceXAI was caught uploading your code to its cloud.\n\nI reversed xAI's official Grok Build binary. In a controlled session with zero tool-calls, it uploaded the complete codebase to xAI's storage\n\nIt ships a malware-like background code collector.",
-          "author": {
-            "screenName": "hrkrshnn",
-            "name": "Hari"
-          }
-        }
       }
     ],
     "karpathy": [
@@ -176,11 +168,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8722,
+          "likes": 8734,
           "retweets": 1067,
           "replies": 443,
-          "quotes": 569,
-          "views": 3575772,
+          "quotes": 571,
+          "views": 3583162,
           "bookmarks": 5131
         },
         "createdAt": "Wed Jul 08 21:47:29 +0000 2026",
@@ -206,12 +198,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1556,
-          "retweets": 150,
-          "replies": 72,
+          "likes": 1562,
+          "retweets": 152,
+          "replies": 73,
           "quotes": 13,
-          "views": 469642,
-          "bookmarks": 2423
+          "views": 472680,
+          "bookmarks": 2427
         },
         "createdAt": "Fri Jul 03 14:12:03 +0000 2026",
         "createdAtLocal": "2026-07-03 22:12",
@@ -236,12 +228,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 9640,
-          "retweets": 928,
-          "replies": 644,
-          "quotes": 599,
-          "views": 6235900,
-          "bookmarks": 3726
+          "likes": 9650,
+          "retweets": 932,
+          "replies": 646,
+          "quotes": 600,
+          "views": 6252213,
+          "bookmarks": 3729
         },
         "createdAt": "Tue Jun 30 15:00:09 +0000 2026",
         "createdAtLocal": "2026-06-30 23:00",
@@ -271,12 +263,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1915,
-          "retweets": 241,
+          "likes": 1917,
+          "retweets": 243,
           "replies": 181,
           "quotes": 160,
-          "views": 1852196,
-          "bookmarks": 1232
+          "views": 1856045,
+          "bookmarks": 1235
         },
         "createdAt": "Tue Jun 23 17:01:29 +0000 2026",
         "createdAtLocal": "2026-06-24 01:01",
@@ -302,12 +294,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 23064,
+          "likes": 23057,
           "retweets": 1902,
           "replies": 1340,
-          "quotes": 695,
-          "views": 7893525,
-          "bookmarks": 13921
+          "quotes": 696,
+          "views": 7896327,
+          "bookmarks": 13920
         },
         "createdAt": "Tue Jun 23 22:26:31 +0000 2026",
         "createdAtLocal": "2026-06-24 06:26",
@@ -340,11 +332,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 277,
-          "retweets": 44,
-          "replies": 78,
+          "likes": 278,
+          "retweets": 46,
+          "replies": 79,
           "quotes": 6,
-          "views": 93038,
+          "views": 93847,
           "bookmarks": 55
         },
         "createdAt": "Thu Jul 09 17:31:17 +0000 2026",
@@ -376,12 +368,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8407,
-          "retweets": 1618,
-          "replies": 388,
+          "likes": 8410,
+          "retweets": 1622,
+          "replies": 389,
           "quotes": 176,
-          "views": 643397,
-          "bookmarks": 10246
+          "views": 644430,
+          "bookmarks": 10252
         },
         "createdAt": "Tue Jun 30 16:04:04 +0000 2026",
         "createdAtLocal": "2026-07-01 00:04",
@@ -411,12 +403,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1338,
+          "likes": 1337,
           "retweets": 287,
           "replies": 172,
           "quotes": 61,
-          "views": 162822,
-          "bookmarks": 402
+          "views": 163197,
+          "bookmarks": 401
         },
         "createdAt": "Fri Jun 19 18:34:23 +0000 2026",
         "createdAtLocal": "2026-06-20 02:34",
@@ -447,10 +439,10 @@
         },
         "metrics": {
           "likes": 359,
-          "retweets": 52,
+          "retweets": 51,
           "replies": 55,
           "quotes": 10,
-          "views": 82200,
+          "views": 82461,
           "bookmarks": 210
         },
         "createdAt": "Thu Jun 18 17:00:03 +0000 2026",
@@ -485,8 +477,8 @@
           "retweets": 148,
           "replies": 109,
           "quotes": 13,
-          "views": 123650,
-          "bookmarks": 846
+          "views": 123831,
+          "bookmarks": 847
         },
         "createdAt": "Thu Jun 04 16:44:13 +0000 2026",
         "createdAtLocal": "2026-06-05 00:44",
@@ -508,6 +500,69 @@
     ],
     "ylecun": [
       {
+        "id": "2077661998972604876",
+        "text": "Today i noticed my walnuts come from California. My immediate reaction was to tokenburn this important question: https://t.co/q8f5FC1BF9",
+        "author": {
+          "id": "2236047510",
+          "name": "Lucas Beyer (bl16)",
+          "screenName": "giffmana",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 142,
+          "retweets": 11,
+          "replies": 19,
+          "quotes": 4,
+          "views": 28624,
+          "bookmarks": 13
+        },
+        "createdAt": "Thu Jul 16 07:49:56 +0000 2026",
+        "createdAtLocal": "2026-07-16 15:49",
+        "createdAtISO": "2026-07-16T07:49:56+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HNVWk3TWMAA7jB9.jpg",
+            "width": 1206,
+            "height": 1190
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2077641797363237328",
+        "text": "This is such a splitting hairs issue. \n\nLike what would you want? \n\nAll the data? Not possible. Massive IP violation. \n\nTraining harness? Okay great, you can't run it at scale. \n\nIt's useful to have open models you can inspect and fine tune. Period. Yeah they are not \"fully open\" but it's just not realistic or helpful for people to keep driving this issue and it doesn't make much sense in practical reality.",
+        "author": {
+          "id": "633549366",
+          "name": "Daniel Jeffries",
+          "screenName": "Dan_Jeffries1",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1907351559689650176/xPWyoi5m_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 45,
+          "retweets": 4,
+          "replies": 10,
+          "quotes": 1,
+          "views": 12538,
+          "bookmarks": 2
+        },
+        "createdAt": "Thu Jul 16 06:29:39 +0000 2026",
+        "createdAtLocal": "2026-07-16 14:29",
+        "createdAtISO": "2026-07-16T06:29:39+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
+      },
+      {
         "id": "2077566845431779766",
         "text": "It is clear open source models and harnesses are having a moment. There's a few factors at work\n\n1/ It is now obvious that you can catch up to near-SOTA performance and do so with a clear training lineage. See:@thinkymachines  Inkling launch today.\n\n2/ There are several well-funded, talented teams building open weight models now in the US and abroad. Along with the explosing of other near SOTA models (Grok/Cursor, Muse Spark), it is clear we are going to have a diverse ecosystem of models atleast on coding and agentic use.\n\n3/ Organizations are increasingly looking for control over how their data is used and are willing to trade off some access to frontier level tokens for this control. Organizations and countries are increasingly nervous about the frontier labs potentially competing with them down the road and don't want their data to enable a future competitor.\n\n4/ Open source is a slider: you could bring your own open harness, your evals, your business context and are free to pick and choose your model of choice.\n\n5/ Companies have now actively shifted from \"how do we get our people to use tokens\" to being uncomfortable with their token cost ballooning without a clear line to revenue.\n\n6/ Geo-politically, countries will be weighing open weight models as a way to get frontier-level tokens inside controlled environments that may not be otherwise possible.\n\nAll of this leads to more choice for all of us !",
         "author": {
@@ -518,12 +573,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 586,
-          "retweets": 80,
-          "replies": 41,
-          "quotes": 23,
-          "views": 152501,
-          "bookmarks": 408
+          "likes": 930,
+          "retweets": 124,
+          "replies": 67,
+          "quotes": 35,
+          "views": 276331,
+          "bookmarks": 656
         },
         "createdAt": "Thu Jul 16 01:31:49 +0000 2026",
         "createdAtLocal": "2026-07-16 09:31",
@@ -546,12 +601,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 18991,
-          "retweets": 5420,
-          "replies": 1764,
-          "quotes": 222,
-          "views": 386281,
-          "bookmarks": 498
+          "likes": 23247,
+          "retweets": 6689,
+          "replies": 2248,
+          "quotes": 265,
+          "views": 485956,
+          "bookmarks": 621
         },
         "createdAt": "Wed Jul 15 13:35:55 +0000 2026",
         "createdAtLocal": "2026-07-15 21:35",
@@ -581,12 +636,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 19745,
-          "retweets": 3504,
-          "replies": 941,
-          "quotes": 447,
-          "views": 3035865,
-          "bookmarks": 2141
+          "likes": 20745,
+          "retweets": 3715,
+          "replies": 1013,
+          "quotes": 471,
+          "views": 3333885,
+          "bookmarks": 2178
         },
         "createdAt": "Wed Jul 15 15:30:05 +0000 2026",
         "createdAtLocal": "2026-07-15 23:30",
@@ -604,110 +659,12 @@
         "retweetedBy": "ylecun",
         "lang": "en",
         "score": null
-      },
-      {
-        "id": "2077034061126603120",
-        "text": "or maybe let's make sure the most important technology in the history of humanity is not controled by just 4 men? Aka let's push for open science &amp; open-source AI to distribute capabilities, power and wealth!",
-        "author": {
-          "id": "186420551",
-          "name": "clem 🤗",
-          "screenName": "ClementDelangue",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 303,
-          "retweets": 41,
-          "replies": 29,
-          "quotes": 6,
-          "views": 47222,
-          "bookmarks": 14
-        },
-        "createdAt": "Tue Jul 14 14:14:44 +0000 2026",
-        "createdAtLocal": "2026-07-14 22:14",
-        "createdAtISO": "2026-07-14T14:14:44+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2077090996404289868",
-        "text": "The Trump Administration is taking your money and giving it to the President's children. https://t.co/VwA0PmSZjT",
-        "author": {
-          "id": "15808765",
-          "name": "Cory Booker",
-          "screenName": "CoryBooker",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1296891138532679680/8axGb9ml_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 3533,
-          "retweets": 1832,
-          "replies": 508,
-          "quotes": 88,
-          "views": 71393,
-          "bookmarks": 105
-        },
-        "createdAt": "Tue Jul 14 18:00:58 +0000 2026",
-        "createdAtLocal": "2026-07-15 02:00",
-        "createdAtISO": "2026-07-14T18:00:58+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HNNPQRlW0AEqxBm.jpg",
-            "width": 1080,
-            "height": 1350
-          }
-        ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null
       }
     ],
     "elonmusk": [
       {
-        "id": "2077722244571144271",
-        "text": "This feels like a scene out of a sci-fi movie but it’s just my drive to work this morning https://t.co/n3N66ucvxy",
-        "author": {
-          "id": "2492039959",
-          "name": "Andrew McCarthy",
-          "screenName": "AJamesMcCarthy",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/465979126185091072/ukRk-mfd_normal.jpeg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 6004,
-          "retweets": 572,
-          "replies": 482,
-          "quotes": 53,
-          "views": 222319,
-          "bookmarks": 251
-        },
-        "createdAt": "Thu Jul 16 11:49:19 +0000 2026",
-        "createdAtLocal": "2026-07-16 19:49",
-        "createdAtISO": "2026-07-16T11:49:19+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2077722169375657984/vid/avc1/1080x1920/YCXWi-IAt6xo2jdh.mp4?tag=29",
-            "width": 1080,
-            "height": 1920
-          }
-        ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2077629400569278597",
-        "text": "Arguing with NPCs is pointless",
+        "id": "2077917951957643693",
+        "text": "Starlink V3 will increase space-based bandwidth by ~2 orders of magnitude",
         "author": {
           "id": "44196397",
           "name": "Elon Musk",
@@ -716,16 +673,16 @@
           "verified": true
         },
         "metrics": {
-          "likes": 22287,
-          "retweets": 2611,
-          "replies": 1836,
-          "quotes": 248,
-          "views": 2125556,
-          "bookmarks": 1071
+          "likes": 1880,
+          "retweets": 214,
+          "replies": 341,
+          "quotes": 15,
+          "views": 518140,
+          "bookmarks": 47
         },
-        "createdAt": "Thu Jul 16 05:40:24 +0000 2026",
-        "createdAtLocal": "2026-07-16 13:40",
-        "createdAtISO": "2026-07-16T05:40:24+00:00",
+        "createdAt": "Fri Jul 17 00:47:00 +0000 2026",
+        "createdAtLocal": "2026-07-17 08:47",
+        "createdAtISO": "2026-07-17T00:47:00+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -733,80 +690,17 @@
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "1730235498021478681",
-          "text": "Never forget: When you are arguing with a Leftist or a Boomer, you are actually arguing with the TV — and the TV cannot hear you and it does not care.",
+          "id": "2077882717455450360",
+          "text": "The V3 satellites will bring meaningful increases in capacity, data density, and power generation, allowing Starlink to serve more people around the world with increasingly better high-speed internet",
           "author": {
-            "screenName": "CoreyJMahler",
-            "name": "Corey J. Mahler"
+            "screenName": "Starlink",
+            "name": "Starlink"
           }
         }
       },
       {
-        "id": "2077445418884202757",
-        "text": "I know I'm late but yeah ok Grok 4.5 is actually really good. \n\nIt's super fast, direct path to solutions, and quite capable.",
-        "author": {
-          "id": "6681172",
-          "name": "Matthew Berman",
-          "screenName": "MatthewBerman",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2051399921467830272/9RGo_6vv_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 2345,
-          "retweets": 351,
-          "replies": 262,
-          "quotes": 15,
-          "views": 409523,
-          "bookmarks": 59
-        },
-        "createdAt": "Wed Jul 15 17:29:19 +0000 2026",
-        "createdAtLocal": "2026-07-16 01:29",
-        "createdAtISO": "2026-07-15T17:29:19+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2077620854696050963",
-        "text": "\"@elonmusk is working on the most important areas of A.I. xAI is working on foundation cognitive intelligence A.I., Tesla is working on autonomous vehicles. Optimus is for humanoid robotics. He is very optimistic about the future of A.I.\" https://t.co/TdQGLZ2zXI",
-        "author": {
-          "id": "1016059981907386368",
-          "name": "Tesla Owners Silicon Valley",
-          "screenName": "teslaownersSV",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2010961358326484993/kMQefquU_normal.jpg",
-          "verified": false
-        },
-        "metrics": {
-          "likes": 2155,
-          "retweets": 495,
-          "replies": 245,
-          "quotes": 20,
-          "views": 386293,
-          "bookmarks": 139
-        },
-        "createdAt": "Thu Jul 16 05:06:26 +0000 2026",
-        "createdAtLocal": "2026-07-16 13:06",
-        "createdAtISO": "2026-07-16T05:06:26+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/1983877632916901888/vid/avc1/1076x720/0_43VpwbMKzfyZZ9.mp4?tag=21",
-            "width": 1076,
-            "height": 720
-          }
-        ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2077620484624011651",
-        "text": "That’s how making a startup succeed goes https://t.co/CWSuWNFwQr",
+        "id": "2077867066556547097",
+        "text": "Starship launch window opens at 5:45pm Texas time",
         "author": {
           "id": "44196397",
           "name": "Elon Musk",
@@ -815,27 +709,119 @@
           "verified": true
         },
         "metrics": {
-          "likes": 10964,
-          "retweets": 1814,
-          "replies": 1027,
-          "quotes": 111,
-          "views": 1747442,
-          "bookmarks": 5346
+          "likes": 9541,
+          "retweets": 1469,
+          "replies": 1254,
+          "quotes": 104,
+          "views": 1840962,
+          "bookmarks": 277
         },
-        "createdAt": "Thu Jul 16 05:04:58 +0000 2026",
-        "createdAtLocal": "2026-07-16 13:04",
-        "createdAtISO": "2026-07-16T05:04:58+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/1996397998843248640/vid/avc1/1588x888/P6W7osHPyCjuLwPF.mp4?tag=21",
-            "width": 1588,
-            "height": 888
-          }
-        ],
+        "createdAt": "Thu Jul 16 21:24:48 +0000 2026",
+        "createdAtLocal": "2026-07-17 05:24",
+        "createdAtISO": "2026-07-16T21:24:48+00:00",
+        "media": [],
         "urls": [],
         "isRetweet": false,
         "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2077785645645209727",
+          "text": "Watch Starship's thirteenth flight test https://t.co/wYoNPiNMz8",
+          "author": {
+            "screenName": "SpaceX",
+            "name": "SpaceX"
+          }
+        }
+      },
+      {
+        "id": "2077890013841310149",
+        "text": "Some of the engines didn’t start, triggering an automatic launch abort. \n\nNow offloading propellant.\n\nNext launch attempt hopefully in a few days.",
+        "author": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screenName": "elonmusk",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 17386,
+          "retweets": 1711,
+          "replies": 1248,
+          "quotes": 293,
+          "views": 801741,
+          "bookmarks": 428
+        },
+        "createdAt": "Thu Jul 16 22:55:59 +0000 2026",
+        "createdAtLocal": "2026-07-17 06:55",
+        "createdAtISO": "2026-07-16T22:55:59+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2077906757641183445",
+        "text": "To be confident of a good flight, 2 Raptors will be removed &amp; replaced. Most probable launch timing is early next week.",
+        "author": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screenName": "elonmusk",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 7580,
+          "retweets": 799,
+          "replies": 520,
+          "quotes": 149,
+          "views": 332006,
+          "bookmarks": 195
+        },
+        "createdAt": "Fri Jul 17 00:02:31 +0000 2026",
+        "createdAtLocal": "2026-07-17 08:02",
+        "createdAtISO": "2026-07-17T00:02:31+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2077702864345133420",
+        "text": "SpaceXAI has updated Zero Data Retention (ZDR) in Docs with more information https://t.co/1YVg0AqbHb",
+        "author": {
+          "id": "1604863807574212611",
+          "name": "Tech Dev Notes",
+          "screenName": "techdevnotes",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1618185418234646529/f9-GqDq1_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 1001,
+          "retweets": 246,
+          "replies": 100,
+          "quotes": 4,
+          "views": 254794,
+          "bookmarks": 54
+        },
+        "createdAt": "Thu Jul 16 10:32:19 +0000 2026",
+        "createdAtLocal": "2026-07-16 18:32",
+        "createdAtISO": "2026-07-16T10:32:19+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HNV7qlPa4AA3Lxu.jpg",
+            "width": 2304,
+            "height": 2074
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
         "lang": "en",
         "score": null
       }
@@ -852,12 +838,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 293,
-          "retweets": 33,
-          "replies": 11,
-          "quotes": 3,
-          "views": 53941,
-          "bookmarks": 90
+          "likes": 470,
+          "retweets": 55,
+          "replies": 16,
+          "quotes": 4,
+          "views": 76560,
+          "bookmarks": 147
         },
         "createdAt": "Wed Jul 15 20:55:33 +0000 2026",
         "createdAtLocal": "2026-07-16 04:55",
@@ -888,12 +874,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 975,
-          "retweets": 143,
-          "replies": 49,
-          "quotes": 27,
-          "views": 145478,
-          "bookmarks": 574
+          "likes": 1141,
+          "retweets": 172,
+          "replies": 55,
+          "quotes": 38,
+          "views": 202104,
+          "bookmarks": 696
         },
         "createdAt": "Wed Jul 15 15:25:02 +0000 2026",
         "createdAtLocal": "2026-07-15 23:25",
@@ -923,12 +909,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 46,
-          "retweets": 2,
+          "likes": 54,
+          "retweets": 3,
           "replies": 3,
           "quotes": 1,
-          "views": 13152,
-          "bookmarks": 19
+          "views": 15479,
+          "bookmarks": 25
         },
         "createdAt": "Wed Jul 15 15:25:03 +0000 2026",
         "createdAtLocal": "2026-07-15 23:25",
@@ -962,11 +948,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 284,
+          "likes": 285,
           "retweets": 25,
           "replies": 41,
           "quotes": 8,
-          "views": 53901,
+          "views": 54088,
           "bookmarks": 116
         },
         "createdAt": "Wed Jul 01 15:12:14 +0000 2026",
@@ -998,11 +984,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1639,
+          "likes": 1641,
           "retweets": 222,
-          "replies": 73,
+          "replies": 75,
           "quotes": 30,
-          "views": 198332,
+          "views": 198741,
           "bookmarks": 1163
         },
         "createdAt": "Tue Jun 30 17:07:49 +0000 2026",
