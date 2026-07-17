@@ -2962,3 +2962,17 @@
 - create: apple-targets-dozens-of-openai-employees-with-legal-letters.md
 - create: patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them.md
 - create: why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-dea.md
+
+## [2026-07-18 06:01] sync v3 | 12 new | pillars: {'capabilities': 7, 'patterns': 3, 'business': 2}
+- create: zeyi-linhivisionidphotos.md
+- create: kimi-k3-and-what-we-can-still-learn-from-the-pelican-benchmark.md
+- create: ai-meets-cryptography-2-what-ai-found-in-openvms-zkvm.md
+- create: homomorphically-encrypted-cifar-10-inference-in-200ms.md
+- create: vulnhunter-capital-ones-agentic-ai-code-security-tool.md
+- create: everybodys-weirded-out-by-aiexcept-the-people-who-foist-it-on-us.md
+- create: the-zoom-hack-that-says-8216don8217t-record-me8217.md
+- create: agility-robotics-plants-its-flag-in-tesla8217s-backyard.md
+- create: ai-driven-memory-crunch-jolts-india8217s-smartphone-market.md
+- create: how-apple8217s-big-lawsuit-could-disrupt-openai8217s-ipo-plans.md
+- create: apple8217s-lawsuit-couldn8217t-come-at-a-worse-time-for-openai.md
+- create: show-hn-on-chain-bond-market-where-the-issuers-are-ai-agents.md

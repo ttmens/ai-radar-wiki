@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
-  "generated_at": "2026-07-18T00:01:24.379767+08:00",
-  "item_count": 5,
+  "generated_at": "2026-07-18T06:01:47.754283+08:00",
+  "item_count": 17,
   "items": [
     {
       "id": "apple-targets-dozens-of-openai-employees-with-legal-letters",
@@ -12,6 +12,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48946303",
+      "date": "2026-07-18"
+    },
+    {
+      "id": "kimi-k3-and-what-we-can-still-learn-from-the-pelican-benchmark",
+      "label": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "summary": "Kimi K3 是最新发布的 AI 模型，其在 Pelican 基准测试中的表现揭示了当前模型在长文本理解与推理能力上的关键进步。产品经理应关注该基准如何衡量模型在复杂文档处理中的真实性能，以及从失败案例中学习到的改进方向。Kimi K3 的优化策略（如更高效的上下文窗口利用、结构化推理）为 AI 产品在知识密集型场景（如法律、科研）中的落地提供了技术参考。商业价值在于更精准的文档摘要、问答与决策支持，从而提升用户粘性和付费转化。产品创新点包括模块化推理路径设计，可降低对算力的依赖，并支持更灵活的产品定制。",
+      "pm_score": 0.565,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48947717",
+      "date": "2026-07-18"
+    },
+    {
+      "id": "zeyi-linhivisionidphotos",
+      "label": "Zeyi-Lin/HivisionIDPhotos",
+      "summary": "HivisionIDPhotos 是一个轻量级、高效的 AI 证件照制作工具，基于 GitHub 开源。其核心技术要点包括：采用轻量化模型设计，能够在低算力设备上快速运行，支持背景替换、尺寸裁剪、美颜等常见证件照功能；通过端到端图像处理流程，实现秒级生成高质量证件照。商业价值方面，可降低传统照相馆或在线证件照服务的人力与设备成本，适用于自助拍照机、移动端拍照应用、在线政务办理等场景。产品创新在于兼顾了效果与速度，同时模型体积小便于集成，为开发者提供了灵活部署的 API 或 SDK 选项，推动 AI 证件照的普及。",
+      "pm_score": 0.545,
+      "pillar": "capabilities",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos",
       "date": "2026-07-18"
     },
     {
@@ -26,6 +48,17 @@
       "date": "2026-07-18"
     },
     {
+      "id": "agility-robotics-plants-its-flag-in-tesla8217s-backyard",
+      "label": "Agility Robotics plants its flag in Tesla&#8217;s backyard",
+      "summary": "Agility Robotics在加州弗里蒙特（特斯拉总部附近）开设了Digit机器人的新培训中心。该中心旨在为Digit机器人提供场景化训练和部署支持，加速其在物流、仓储等领域的商业化落地。这一举措通过建设基础设施帮助客户快速集成机器人，降低使用门槛，同时展现Agility在机器人能力培养和生态系统构建上的战略布局。对AI产品经理而言，强调机器人产品的实际部署与持续优化能力，以及靠近顶尖自动驾驶公司的人才争夺意图。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "date": "2026-07-18"
+    },
+    {
       "id": "mozilla-the-state-of-open-source-ai",
       "label": "Mozilla: The state of open source AI",
       "summary": "Mozilla发布的开源AI现状报告，分析了当前开源AI生态的快速演进，包括大模型开源社区的活跃度、技术栈成熟度及商业可行性。报告指出开源AI在灵活性、可定制性和隐私保护方面具有显著优势，但面临大公司主导的闭源模型竞争。对于产品经理而言，开源AI降低了AI应用的开发门槛，促进创新，但也需关注生态碎片化、模型质量和持续维护等挑战。报告强调构建开放标准与协作平台的重要性，可能推动AI产品设计的民主化。",
@@ -34,6 +67,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48947825",
+      "date": "2026-07-18"
+    },
+    {
+      "id": "how-apple8217s-big-lawsuit-could-disrupt-openai8217s-ipo-plans",
+      "label": "How Apple&#8217;s big lawsuit could disrupt OpenAI&#8217;s IPO plans",
+      "summary": "苹果对OpenAI提起商业秘密诉讼，指控其系统性挖角并带走敏感技术信息，超过400名前苹果员工现任职OpenAI。此案若成立，可能严重阻碍OpenAI的IPO进程，并影响其与苹果的合作关系。AI产品经理需警惕：人才流动中的知识产权风险将影响模型训练数据合法性、企业估值及产品合规性，需加强技术保密与竞争情报监控。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
       "date": "2026-07-18"
     },
     {
@@ -48,6 +92,28 @@
       "date": "2026-07-18"
     },
     {
+      "id": "the-zoom-hack-that-says-8216don8217t-record-me8217",
+      "label": "The Zoom hack that says, &#8216;Don&#8217;t record me&#8217;",
+      "summary": "文章探讨AI全面转录和总结所有对话（会议、闲聊、约会）带来的信息过载与隐私问题。作者质疑当每件事都被记录并生成摘要时，是否真的有人阅读这些内容。这反映了AI能力（语音转文字、摘要生成）普及后的副作用：用户面临海量无关紧要的自动总结，且缺乏对记录行为的控制。对产品经理而言，需关注如何设计有选择性、用户可控的转录机制，避免“记录一切”的默认行为，同时平衡AI便利性与用户隐私、认知负担。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "date": "2026-07-18"
+    },
+    {
+      "id": "apple8217s-lawsuit-couldn8217t-come-at-a-worse-time-for-openai",
+      "label": "Apple&#8217;s lawsuit couldn&#8217;t come at a worse time for OpenAI",
+      "summary": "苹果公司上周五对OpenAI提起商业秘密诉讼，指控其不当获取技术信息，涉及首席硬件官等高层，并指出超过400名前苹果员工现任职于OpenAI。此案凸显AI领域激烈的人才争夺战，以及知识产权保护在产品开发中的关键性。对AI产品经理而言，需警惕人才流动带来的技术泄露风险，并关注法律纠纷如何影响OpenAI的模型训练、产品发布节奏及商业合作。该事件也提醒企业在AI创新中平衡开放性与资产保护。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "date": "2026-07-18"
+    },
+    {
       "id": "patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them",
       "label": "Patreon stops asking AI bots not to scrape — and starts blocking them",
       "summary": "Patreon 与 Cloudflare 合作，从被动依赖 robots.txt 转向主动拦截 AI 爬虫，避免创作者内容被未经授权地用于模型训练。此举强调了平台在内容保护上的主动性，利用 Cloudflare 的 bot 管理能力实时阻断违规抓取。对产品经理而言，这代表了内容平台在 AI 生态中保护数据资产的新策略——从协商机制转向技术强制执行，可能影响后续 AI 训练数据的获取成本和合规路径。",
@@ -57,10 +123,76 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
       "date": "2026-07-18"
+    },
+    {
+      "id": "vulnhunter-capital-ones-agentic-ai-code-security-tool",
+      "label": "VulnHunter: Capital One's agentic AI code security tool",
+      "summary": "VulnHunter 是 Capital One 推出的基于代理（Agentic）的 AI 代码安全工具，旨在自动化漏洞检测与修复。它利用大模型驱动的智能体自主扫描代码库、识别安全缺陷并生成修复建议，从而减少人工审计成本、加速开发安全流程。该工具体现了 AI 在 DevSecOps 中的深度集成，为产品团队提供了更高效、可扩展的安全保障方案。",
+      "pm_score": 0.43,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48946692",
+      "date": "2026-07-18"
+    },
+    {
+      "id": "ai-meets-cryptography-2-what-ai-found-in-openvms-zkvm",
+      "label": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "summary": "本文探讨AI在OpenVM的零知识虚拟机（ZkVM）中的应用，发现AI可优化零知识证明的生成效率与验证速度，降低计算开销。这为隐私保护AI推理、可验证计算提供新范式，推动密码学与AI的深度融合。商业价值在于实现高性能隐私计算，适用于金融、医疗等数据敏感场景。产品创新体现在AI驱动的自动证明策略，有望降低开发者使用ZK技术的门槛。",
+      "pm_score": 0.38,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48947714",
+      "date": "2026-07-18"
+    },
+    {
+      "id": "everybodys-weirded-out-by-aiexcept-the-people-who-foist-it-on-us",
+      "label": "Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
+      "summary": "文章指出，普通大众对AI技术普遍感到困惑和不安，但那些积极推广AI的人（如科技高管、投资者）却对此毫无疑虑。这种认知鸿沟揭示了AI产品在用户信任、透明度和实际价值上的挑战。对于AI产品经理而言，需要警惕“过度推销”带来的反弹，注重用户教育、情感认知和渐进式采用。技术再先进，若缺乏用户理解与接纳，也难以实现规模化落地。文章从社会心理角度提醒PM要平衡创新与用户感受，避免陷入技术乌托邦的误区。",
+      "pm_score": 0.38,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48952445",
+      "date": "2026-07-18"
+    },
+    {
+      "id": "homomorphically-encrypted-cifar-10-inference-in-200ms",
+      "label": "Homomorphically encrypted CIFAR-10 inference in 200ms",
+      "summary": "该技术实现了在同态加密（HE）下对CIFAR-10图像分类任务的推理，仅需200毫秒。同态加密允许服务器在不解密用户数据的情况下直接进行模型推理，彻底保障数据隐私。以往HE推理速度极慢（分钟级），该成果大幅提升至亚秒级，使隐私保护AI从理论走向实用。对于医疗影像、金融风控等强隐私场景，产品可提供“数据不出域、模型可用不可见”的AI服务，降低合规风险，并支持边缘设备或云端的加密推理。该突破是隐私计算与深度学习交叉领域的重要产品创新。",
+      "pm_score": 0.38,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48949240",
+      "date": "2026-07-18"
+    },
+    {
+      "id": "show-hn-on-chain-bond-market-where-the-issuers-are-ai-agents",
+      "label": "Show HN: On-chain bond market where the issuers are AI agents",
+      "summary": "该产品展示了一个链上债券市场，其中的发行方是AI代理。这一创新将AI代理引入去中心化金融(DeFi)领域，允许AI自主发行债券，可能用于融资、自动化资金管理或构建AI经济体系。技术要点包括智能合约驱动的债券发行与交易、AI代理的身份与信用机制；商业价值在于开辟AI自主参与金融市场的路径，推动Agent经济落地；产品创新在于把AI代理从工具角色提升为经济主体。",
+      "pm_score": 0.33,
+      "pillar": "patterns",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://selbonds.now",
+      "date": "2026-07-18"
+    },
+    {
+      "id": "ai-driven-memory-crunch-jolts-india8217s-smartphone-market",
+      "label": "AI-driven memory crunch jolts India&#8217;s smartphone market",
+      "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "date": "2026-07-18"
     }
   ],
   "graph_totals": {
-    "real_nodes": 4384,
-    "edges": 4708
+    "real_nodes": 4416,
+    "edges": 4740
   }
 }

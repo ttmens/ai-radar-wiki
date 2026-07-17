@@ -1,0 +1,22 @@
+{
+  "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+  "score": 76,
+  "comments": 1,
+  "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+  "hn_url": "https://news.ycombinator.com/item?id=48947714",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "本文探讨AI在OpenVM的零知识虚拟机（ZkVM）中的应用，发现AI可优化零知识证明的生成效率与验证速度，降低计算开销。这为隐私保护AI推理、可验证计算提供新范式，推动密码学与AI的深度融合。商业价值在于实现高性能隐私计算，适用于金融、医疗等数据敏感场景。产品创新体现在AI驱动的自动证明策略，有望降低开发者使用ZK技术的门槛。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Zero-Knowledge Proofs",
+    "AI for Cryptography"
+  ],
+  "entities": [
+    "OpenVM"
+  ],
+  "patterns": [
+    "ZKVM Pattern"
+  ]
+}
