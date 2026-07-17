@@ -1,0 +1,24 @@
+{
+  "title": "Claude Code: Anatomy of a Misfeature",
+  "score": 56,
+  "comments": 26,
+  "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+  "hn_url": "https://news.ycombinator.com/item?id=48947776",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [],
+  "summary_cn": "本文深入剖析了Claude Code作为AI代码助手功能的设计缺陷。文章指出，该功能在提供代码补全和生成时，过度依赖短时上下文，导致频繁出现与用户意图偏离的“幻觉”输出，且缺乏有效的纠错机制。核心问题在于产品设计上重能力堆砌而轻用户实际工作流整合，未能解决代码修改的精准度和可追溯性。作为反面案例，它警示产品经理：AI功能迭代需平衡能力增强与交互可靠性，避免因贪大求全而破坏核心体验。",
+  "pm_relevance": 9,
+  "concepts": [
+    "Feature Validation",
+    "AI Code Assistant",
+    "User Workflow Integration"
+  ],
+  "entities": [
+    "Anthropic"
+  ],
+  "patterns": [
+    "AI Code Generation",
+    "Failure Mode Analysis"
+  ]
+}

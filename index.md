@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-17 | Total pages: 2679
+> Last updated: 2026-07-18 | Total pages: 2686
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -255,6 +255,7 @@
 - [[duckduckgo-search-saw-28-more-visits-after-google-said-people-love-ai-mode.md]] DuckDuckGo search saw 28% more visits after Google said people love AI mode `pillar:capabilities` `score:0.68`
 - [[eagle-31-collaboration-between-the-eagle-team-vllm-team-and-torchspec-team.md]] Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team `pillar:capabilities` `score:0.38`
 - [[ear-training-practice-exercises.md]] Ear Training Practice Exercises `pillar:capabilities` `score:0.445`
+- [[eeg-shows-brain-can-simultaneous-encode-two-speech-streams.md]] EEG shows brain can simultaneous encode two speech streams `pillar:capabilities` `score:0.395`
 - [[efficient-and-training-free-single-image-diffusion-models.md]] Efficient and Training-Free Single-Image Diffusion Models `pillar:capabilities` `score:0.33`
 - [[elevated-error-rate-across-multiple-models.md]] Elevated error rate across multiple models `pillar:capabilities` `score:0.545`
 - [[elevenlabs8217s-new-music-generation-model-can-switch-genres-mid-track.md]] ElevenLabs&#8217;s new music generation model can switch genres mid-track `pillar:capabilities` `score:0.48`
@@ -755,6 +756,7 @@
 - [[show-hn-z-jail-a-130-kb-linux-sandbox-c99-with-7-defense-layers-and-zero-deps.md]] Show HN: Z-Jail – A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps `pillar:capabilities` `score:0.225`
 - [[silent-speech-with-ultrasound.md]] Silent speech with ultrasound `pillar:capabilities` `score:0.38`
 - [[silurusooxml-pixel-faithful-office-documents-rendered-in-the-browser.md]] Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser `pillar:capabilities` `score:0.255`
+- [[simulating-everything-sort-of-the-promise-and-limits-of-world-models.md]] Simulating everything, sort of: The promise and limits of world models `pillar:capabilities` `score:0.33`
 - [[siri-ai.md]] Siri AI `pillar:capabilities` `score:0.595`
 - [[slightly-reducing-the-sloppiness-of-ai-generated-front-end.md]] Slightly reducing the sloppiness of AI generated front end `pillar:capabilities` `score:0.55`
 - [[slow-breathing-modulates-brain-function-and-risk-behavior.md]] Slow breathing modulates brain function and risk behavior `pillar:capabilities` `score:0.17`
@@ -924,6 +926,7 @@
 - [[why-apple8217s-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart.md]] Why Apple&#8217;s slow-and-steady AI bet is starting to look pretty smart `pillar:capabilities` `score:0.305`
 - [[why-google8217s-ai-can8217t-spell-google-or-anything-else.md]] Why Google&#8217;s AI can&#8217;t spell Google (or anything else) `pillar:capabilities` `score:0.445`
 - [[why-i-email-complete-strangers.md]] Why I email complete strangers `pillar:capabilities` `score:0.36`
+- [[why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-dea.md]] Why the first GPU financiers are turning to inference chips in a $400 million de `pillar:capabilities` `score:0.48`
 - [[why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet.md]] Why this CEO thinks video games make better training data than the internet `pillar:capabilities` `score:0.48`
 - [[wirestock-raises-23m-to-supply-creative-multi-modal-data-to-ai-labs.md]] Wirestock raises $23M to supply creative multi-modal data to AI labs `pillar:capabilities` `score:0.48`
 - [[with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in.md]] With aluminum prices up 20%, recycling startups bet on AI to cash in `pillar:capabilities` `score:0.305`
@@ -1518,6 +1521,7 @@
 - [[ccfddlccf-deadlines.md]] ccfddl/ccf-deadlines `pillar:patterns` `score:0.355`
 - [[ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos.md]] CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs `pillar:patterns` `score:0.545`
 - [[chromes-ai-features-may-be-hogging-4gb-of-your-co.md]] Chrome's AI features may be hogging 4GB of your computer storage `pillar:patterns` `score:0.255`
+- [[claude-code-anatomy-of-a-misfeature.md]] Claude Code: Anatomy of a Misfeature `pillar:patterns` `score:0.465`
 - [[cleaning-up-after-ai-rockstar-developers.md]] Cleaning up after AI rockstar developers `pillar:patterns` `score:0.6`
 - [[code-yeongyuoh-my-openagent.md]] code-yeongyu/oh-my-openagent `pillar:patterns` `score:0.405`
 - [[codex-starts-encrypting-sub-agent-prompts.md]] Codex starts encrypting sub-agent prompts `pillar:patterns` `score:0.63`
@@ -1943,6 +1947,7 @@
 - [[apple-intelligence-approved-for-launch-in-china-with-alibaba-and-baidu.md]] Apple Intelligence approved for launch in China with Alibaba and Baidu `pillar:ecosystem` `score:0.48`
 - [[apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-work.md]] Apple just taught your iPhone to finish your sentences, your photos, and your wo `pillar:ecosystem` `score:0.48`
 - [[apple-reveals-new-ai-architecture-built-around-google-gemini-models.md]] Apple reveals new AI architecture built around Google Gemini models `pillar:ecosystem` `score:0.665`
+- [[apple-targets-dozens-of-openai-employees-with-legal-letters.md]] Apple targets dozens of OpenAI employees with legal letters `pillar:ecosystem` `score:0.565`
 - [[apple-touts-14-trillion-in-app-store-billings-and-sales-90-without-a-commission.md]] Apple touts $1.4 trillion in App Store billings and sales, 90% without a commiss `pillar:ecosystem` `score:0.375`
 - [[apple-vision-pro-exec-is-reportedly-leaving-for-openai.md]] Apple Vision Pro exec is reportedly leaving for OpenAI `pillar:ecosystem` `score:0.48`
 - [[asgeirtjsystem_prompts_leaks.md]] asgeirtj/system_prompts_leaks `pillar:ecosystem` `score:0.58`
@@ -2060,6 +2065,7 @@
 - [[modelsdev-open-source-database-of-ai-model-specs-pricing-and-capabilities.md]] Models.dev: open-source database of AI model specs, pricing, and capabilities `pillar:ecosystem` `score:0.38`
 - [[modularmodular.md]] modular/modular `pillar:ecosystem` `score:0.58`
 - [[most-americans-dont-trust-ai-or-the-people-in-charge-of-it-2025.md]] Most Americans don't trust AI – or the people in charge of it (2025) `pillar:ecosystem` `score:0.415`
+- [[mozilla-the-state-of-open-source-ai.md]] Mozilla: The state of open source AI `pillar:ecosystem` `score:0.48`
 - [[mtg-bench-testing-how-well-llms-can-play-magic.md]] MTG Bench: Testing how well LLMs can play Magic `pillar:ecosystem` `score:0.295`
 - [[n8n-ion8n.md]] n8n-io/n8n `pillar:ecosystem` `score:0.615`
 - [[netdatanetdata.md]] netdata/netdata `pillar:ecosystem` `score:0.58`
@@ -2090,6 +2096,7 @@
 - [[openrouter-raises-113m-series-b.md]] OpenRouter raises $113M Series B `pillar:ecosystem` `score:0.6`
 - [[paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia.md]] Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia `pillar:ecosystem` `score:0.445`
 - [[pathwaycomllm-app.md]] pathwaycom/llm-app `pillar:ecosystem` `score:0.405`
+- [[patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them.md]] Patreon stops asking AI bots not to scrape — and starts blocking them `pillar:ecosystem` `score:0.445`
 - [[pentagon-raised-threat-of-israeli-spying-on-us-to-highest-level-sources-say.md]] Pentagon raised threat of Israeli spying on U.S. to highest level, sources say `pillar:ecosystem` `score:0.355`
 - [[police-in-england-and-wales-told-to-halt-ai-use-in-court-statements.md]] Police in England and Wales told to halt AI use in court statements `pillar:ecosystem` `score:0.48`
 - [[police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases.md]] Police officer investigated for using AI to 'create evidence' in multiple cases `pillar:ecosystem` `score:0.345`

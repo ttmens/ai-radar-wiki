@@ -2955,3 +2955,10 @@
 - create: launch-hn-traceforce-yc-s26-company-wide-security-monitoring-for-ai-apps.md
 - create: canada-says-bridge-tolls-wont-be-split-with-us-until-64b-of-debt-is-repaid.md
 - create: show-hn-libretto-pr-agents-automatically-fix-failing-playwright-scripts.md
+
+## [2026-07-18 00:01] sync v3 | 6 new | pillars: {'ecosystem': 1, 'capabilities': 5}
+- create: mozilla-the-state-of-open-source-ai.md
+- create: claude-code-anatomy-of-a-misfeature.md
+- create: apple-targets-dozens-of-openai-employees-with-legal-letters.md
+- create: patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them.md
+- create: why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-dea.md
