@@ -2994,3 +2994,8 @@
 - create: fable-5-vs-gpt-56-sol-on-an-np-hard-problem-does-goal-help.md
 - create: what-ai-did-to-stackoverflow-in-a-graph.md
 - create: why-do-ai-company-logos-look-like-buttholes-2025.md
+
+## [2026-07-19 06:02] sync v3 | 3 new | pillars: {'capabilities': 3}
+- create: speech-recognition-and-tts-in-less-than-500kb.md
+- create: setting-up-your-spare-mac-for-claude-code-to-control-a-step-by-step-guide.md
+- create: kimi-threat-or-menace.md

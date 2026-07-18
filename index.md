@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-19 | Total pages: 2710
+> Last updated: 2026-07-19 | Total pages: 2713
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -435,6 +435,7 @@
 - [[kani-a-model-checker-for-rust.md]] Kani: A Model Checker for Rust `pillar:capabilities` `score:0.29`
 - [[kimi-k27-code-open-source-coding-model-with-better-token-efficiency.md]] Kimi K2.7-Code: open-source coding model with better token efficiency `pillar:capabilities` `score:0.6`
 - [[kimi-k3-and-what-we-can-still-learn-from-the-pelican-benchmark.md]] Kimi K3, and what we can still learn from the pelican benchmark `pillar:capabilities` `score:0.565`
+- [[kimi-threat-or-menace.md]] Kimi: Threat or menace? `pillar:capabilities` `score:0.515`
 - [[kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy.md]] Kiwibit’s AI-powered bird feeder is my new backyard buddy `pillar:capabilities` `score:0.445`
 - [[klondike-solitaire-game-for-curses-in-5k-of-c.md]] Klondike Solitaire game for curses in 5k of C `pillar:capabilities` `score:0.19`
 - [[knowledge-distillation-of-black-box-large-language-models-2024.md]] Knowledge Distillation of Black-Box Large Language Models (2024) `pillar:capabilities` `score:0.38`
@@ -648,6 +649,7 @@
 - [[self-a-new-top-level-domain-designed-to-support-self-hosting.md]] .self: A new top-level domain designed to support self-hosting `pillar:capabilities` `score:0.46`
 - [[semiconductor-lifeline-keeps-fighter-jets-in-the-air.md]] Semiconductor Lifeline Keeps Fighter Jets in the Air `pillar:capabilities` `score:0.275`
 - [[senior-swe-bench-open-source-benchmark-that-assesses-agents-as-senior-engineers.md]] Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers `pillar:capabilities` `score:0.48`
+- [[setting-up-your-spare-mac-for-claude-code-to-control-a-step-by-step-guide.md]] Setting up your spare Mac for Claude Code to control, a step-by-step guide `pillar:capabilities` `score:0.515`
 - [[sgl-projectsglang.md]] sgl-project/sglang `pillar:capabilities` `score:0.615`
 - [[shall-we-play-a-game-llms-use-tactical-nukes-in-95-of-simulations.md]] Shall we play a game? – LLMs use tactical nukes in 95% of simulations `pillar:capabilities` `score:0.48`
 - [[shapshap.md]] shap/shap `pillar:capabilities` `score:0.615`
@@ -779,6 +781,7 @@
 - [[spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo.md]] SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO `pillar:capabilities` `score:0.305`
 - [[spacexai-releases-grok-45-which-elon-describes-as-an-8216opus-class-model8217.md]] SpaceXAI releases Grok 4.5, which Elon describes as an &#8216;Opus-class model&# `pillar:capabilities` `score:0.445`
 - [[speculations-concerning-the-first-ultraintelligent-machine-1965-pdf.md]] Speculations Concerning the First Ultraintelligent Machine (1965) [pdf] `pillar:capabilities` `score:0.24`
+- [[speech-recognition-and-tts-in-less-than-500kb.md]] Speech Recognition and TTS in less than 500kb `pillar:capabilities` `score:0.43`
 - [[spmallicklearnopencv.md]] spmallick/learnopencv `pillar:capabilities` `score:0.58`
 - [[spotify-adds-ai-powered-q038a-and-briefing-generation-features-to-podcasts.md]] Spotify adds AI-powered Q&#038;A and briefing generation features to podcasts `pillar:capabilities` `score:0.48`
 - [[spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant.md]] Spotify expands its AI push with a ChatGPT-like music assistant `pillar:capabilities` `score:0.48`

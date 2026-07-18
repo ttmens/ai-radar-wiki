@@ -5,13 +5,45 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 18 Jul 2026 16:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 20:00:42 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>GPT-5.6 used a prompt to close a 30-year gap in convex optimization</title>
+      <link>https://news.ycombinator.com/item?id=48957779</link>
+      <guid isPermaLink="false">gpt-56-used-a-prompt-to-close-a-30-year-gap-in-convex-optimization</guid>
+      <pubDate>2026-07-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>GPT-5.6（推测为下一代模型）通过精心设计的提示（prompt）成功解决了凸优化领域长达30年的理论难题，标志着大语言模型在数学推理与优化算法上的重大突破。这一进展预示着AI不仅可以处理自然语言任务，还能直接攻克专业的数学与工程挑战，可能改变优化工具的开发范式，降低数学求解门槛，为金融、物流、机器学习等依赖凸优化的行业带来新的产品创新机会。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>What AI did to stackoverflow in a graph</title>
+      <link>https://news.ycombinator.com/item?id=48956949</link>
+      <guid isPermaLink="false">what-ai-did-to-stackoverflow-in-a-graph</guid>
+      <pubDate>2026-07-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容通过图表展示了AI对Stack Overflow社区的影响，尤其是AI编码助手（如GitHub Copilot）的兴起导致传统问答模式变化。图表可能显示Stack Overflow流量下降，因为开发者更倾向于使用AI直接获取代码答案，而不是手动搜索和提问。这反映了AI在编程领域的渗透正重塑开发者工具生态，对产品经理而言，意味着需要重新评估社区价值、用户留存策略以及AI驱动产品的商业机会。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Why do AI company logos look like buttholes? (2025)</title>
+      <link>https://news.ycombinator.com/item?id=48956924</link>
+      <guid isPermaLink="false">why-do-ai-company-logos-look-like-buttholes-2025</guid>
+      <pubDate>2026-07-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>HN帖子调侃AI公司logo普遍采用圆形、渐变、抽象有机形态的设计，导致外观趋同甚至像肛门。这一现象反映了AI行业在品牌视觉上缺乏差异化，产品经理需警惕品牌辨识度问题，避免盲目跟风设计潮流。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?</title>
+      <link>https://news.ycombinator.com/item?id=48956879</link>
+      <guid isPermaLink="false">fable-5-vs-gpt-56-sol-on-an-np-hard-problem-does-goal-help</guid>
+      <pubDate>2026-07-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该内容对比了Fable 5与GPT-5.6 Sol在NP难问题上的表现，并测试了/goal提示策略是否提升求解效果。核心发现：Fable 5在特定NP难任务中可能优于GPT-5.6 Sol，且/goal指令能显著改善推理效率。对AI产品经理而言，这提示模型选型需关注特定能力基准（如复杂推理），而非仅看通用指标；同时，提示工程（如明确目标前缀）可作为低成本优化手段。商业价值在于为AI产品在求解规划、优化类问题时提供模型选择依据，并降低部署后的调优成本。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>https://t.co/MU4QQ2Z1py</title>
       <link>https://x.com/elonmusk/status/2078322392036790316</link>
@@ -82,6 +114,38 @@ Then walk away.</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Try Grok Build
+
+https://t.co/qrq6Gn3HCS</title>
+      <link>https://x.com/elonmusk/status/2078495013936206287</link>
+      <guid isPermaLink="false">twitter_elonmusk_2078495013936206287</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Try Grok Build
+
+https://t.co/qrq6Gn3HCS</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>MARC ANDREESSEN WENT ON ROGAN FOR OVER 3 HOURS. HERE ARE THE 17 THINGS WORTH YOUR ATTENTION.
+
+1. AGI...</title>
+      <link>https://x.com/elonmusk/status/2078308274399834157</link>
+      <guid isPermaLink="false">twitter_elonmusk_2078308274399834157</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>MARC ANDREESSEN WENT ON ROGAN FOR OVER 3 HOURS. HERE ARE THE 17 THINGS WORTH YOUR ATTENTION.
+
+1. AGI is already here, in his view. He says the line got crossed about 3 months ago with GPT-5.5, Claude 4.6, Gemini 3, and Grok 4.3, and nobody noticed because the field moves too fast to register milesto</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>https://t.co/JHdYqtIQte</title>
+      <link>https://x.com/elonmusk/status/2078488424894390501</link>
+      <guid isPermaLink="false">twitter_elonmusk_2078488424894390501</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>https://t.co/JHdYqtIQte</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>🚨  Mix and Match Kimi K3 With Sol and Fable on ChatLLM
 
 Auto-route to the best model based on prompt...</title>
@@ -114,6 +178,20 @@ use the best model for your use-case or set up a smart router based on your favo
       <pubDate>2026-07-18T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.8/10</p><p><strong>类型:</strong> tweet</p><hr/><p>The 270+ pages of "evidence" released by Trump show China in 2020 "considered modest attempts to influence opinion in the US, and downloaded publicly available voter rolls from several states, but never manipulated a single voting machine or ballot." https://t.co/WjstTwEsOG</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Deepseek are the GODS of efficiency 
+
+Expect them to drop a Kimi K3 level model that is 10x cheaper ...</title>
+      <link>https://x.com/bindureddy/status/2078472232284905673</link>
+      <guid isPermaLink="false">twitter_bindureddy_2078472232284905673</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Deepseek are the GODS of efficiency 
+
+Expect them to drop a Kimi K3 level model that is 10x cheaper 
+
+Closed source AI is over 🤷‍♀️</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Use the best, most cost optimized model based on your use-case
@@ -223,11 +301,71 @@ https://t.co/Qwte1WSpC0</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Finally got GPT 5.6 SOL to behave 😂
+
+It can easily spin out of control 
+
+But once you can stop it, i...</title>
+      <link>https://x.com/bindureddy/status/2078463485680505119</link>
+      <guid isPermaLink="false">twitter_bindureddy_2078463485680505119</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Finally got GPT 5.6 SOL to behave 😂
+
+It can easily spin out of control 
+
+But once you can stop it, it’s both cheaper and higher quality than Opus 4.8 
+
+Anthropic is making their models more expensive, OpenAI is going the other way 🔥</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Kaiser nurses say AI, workplace surveillance are making their jobs, care worse</title>
       <link>https://news.ycombinator.com/item?id=48952880</link>
       <guid isPermaLink="false">kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-care-worse</guid>
       <pubDate>2026-07-18T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Kaiser医院的护士抗议AI监控系统恶化工作环境与护理质量。这些系统通过分析护士移动、任务完成时间等行为数据来评估效率，但导致护士压力增大、护理时间被压缩，甚至因过度监控而无法专注患者需求。技术核心是将计算机视觉与行为分析引入医疗管理，但忽略了医疗场景中的人性化交互和护士专业判断。产品创新应转向辅助而非监控，例如AI优化排班或自动记录而非实时监督。此案例警示AI产品经理：医疗AI设计需平衡效率与员工福祉，避免因技术滥用引发抵制。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>The Mind I Said #AI Didn't Have
+by @JohnNosta @PsychToday
+
+Learn more: https://t.co/n45UYEn7Ri
+
+#Art...</title>
+      <link>https://x.com/JohnNosta/status/2078476155582030170</link>
+      <guid isPermaLink="false">twitter_JohnNosta_2078476155582030170</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>The Mind I Said #AI Didn't Have
+by @JohnNosta @PsychToday
+
+Learn more: https://t.co/n45UYEn7Ri
+
+#ArtificialIntelligence #MachineLearning #ML https://t.co/Iw0SIug0cY</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>More than 5,000 students applied. Now it's time to meet the inaugural Databricks Student Fellows.
+
+S...</title>
+      <link>https://x.com/databricks/status/2078502592196337932</link>
+      <guid isPermaLink="false">twitter_databricks_2078502592196337932</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>More than 5,000 students applied. Now it's time to meet the inaugural Databricks Student Fellows.
+
+Selected for their campus leadership and hands-on technical expertise, these fellows will bring data and AI learning to their universities through workshops, hackathons, mentorship, and community build</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>A payment covers half an invoice and Qwen returns 30%, not a commitment. This dev's agent treats unc...</title>
+      <link>https://x.com/ThePracticalDev/status/2078480060646932946</link>
+      <guid isPermaLink="false">twitter_ThePracticalDev_2078480060646932946</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>A payment covers half an invoice and Qwen returns 30%, not a commitment. This dev's agent treats uncertainty as a first-class output.
+
+{ author: @dannwaneri }
+
+https://t.co/zDYXEQexUA</p></description>
       <category>📱 产品模式</category>
     </item>
     <item>
@@ -373,104 +511,6 @@ https://t.co/Qwte1WSpC0</p></description>
       <pubDate>2026-07-18T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>FAA批准波音再次自行对737 MAX和787机型签署适航证书，结束了此前因两起空难和制造缺陷而加强的监管限制。此举标志着波音在修复安全流程和重建监管信任方面取得进展，但航空安全领域对自动化与人工审核平衡的关注持续。对于AI产品经理而言，这一案例凸显了高风险行业中自主认证系统的合规设计、可解释性以及监管-技术协同的重要性。</p></description>
       <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM</title>
-      <link>https://news.ycombinator.com/item?id=48947714</link>
-      <guid isPermaLink="false">ai-meets-cryptography-2-what-ai-found-in-openvms-zkvm</guid>
-      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨AI在OpenVM的零知识虚拟机（ZkVM）中的应用，发现AI可优化零知识证明的生成效率与验证速度，降低计算开销。这为隐私保护AI推理、可验证计算提供新范式，推动密码学与AI的深度融合。商业价值在于实现高性能隐私计算，适用于金融、医疗等数据敏感场景。产品创新体现在AI驱动的自动证明策略，有望降低开发者使用ZK技术的门槛。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Everybody's Weirded Out by AI–Except the People Who Foist It on Us</title>
-      <link>https://news.ycombinator.com/item?id=48952445</link>
-      <guid isPermaLink="false">everybodys-weirded-out-by-aiexcept-the-people-who-foist-it-on-us</guid>
-      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章指出，普通大众对AI技术普遍感到困惑和不安，但那些积极推广AI的人（如科技高管、投资者）却对此毫无疑虑。这种认知鸿沟揭示了AI产品在用户信任、透明度和实际价值上的挑战。对于AI产品经理而言，需要警惕“过度推销”带来的反弹，注重用户教育、情感认知和渐进式采用。技术再先进，若缺乏用户理解与接纳，也难以实现规模化落地。文章从社会心理角度提醒PM要平衡创新与用户感受，避免陷入技术乌托邦的误区。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Homomorphically encrypted CIFAR-10 inference in 200ms</title>
-      <link>https://news.ycombinator.com/item?id=48949240</link>
-      <guid isPermaLink="false">homomorphically-encrypted-cifar-10-inference-in-200ms</guid>
-      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该技术实现了在同态加密（HE）下对CIFAR-10图像分类任务的推理，仅需200毫秒。同态加密允许服务器在不解密用户数据的情况下直接进行模型推理，彻底保障数据隐私。以往HE推理速度极慢（分钟级），该成果大幅提升至亚秒级，使隐私保护AI从理论走向实用。对于医疗影像、金融风控等强隐私场景，产品可提供“数据不出域、模型可用不可见”的AI服务，降低合规风险，并支持边缘设备或云端的加密推理。该突破是隐私计算与深度学习交叉领域的重要产品创新。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>In-toto: A framework to secure the integrity of software supply chains</title>
-      <link>https://news.ycombinator.com/item?id=48942603</link>
-      <guid isPermaLink="false">in-toto-a-framework-to-secure-the-integrity-of-software-supply-chains</guid>
-      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>In-toto是一个开源框架，旨在通过定义和加密验证软件供应链中的每一步（如编码、构建、测试、部署）来确保完整性。其核心使用布局文件（layout）和链接元数据（link）描述预期操作，并结合签名验证防止篡改。对于AI产品经理，该框架可延伸至AI模型供应链安全，确保训练数据、代码和模型权重在传输和构建过程中未被篡改，满足合规与审计要求。商业价值在于降低供应链攻击风险，提升产品信任度，尤其适用于金融、医疗等严监管领域。产品创新点是将DevSecOps理念与MLOps结合，实现模型全生命周期可追溯。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Show HN: On-chain bond market where the issuers are AI agents</title>
-      <link>https://selbonds.now</link>
-      <guid isPermaLink="false">show-hn-on-chain-bond-market-where-the-issuers-are-ai-agents</guid>
-      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该产品展示了一个链上债券市场，其中的发行方是AI代理。这一创新将AI代理引入去中心化金融(DeFi)领域，允许AI自主发行债券，可能用于融资、自动化资金管理或构建AI经济体系。技术要点包括智能合约驱动的债券发行与交易、AI代理的身份与信用机制；商业价值在于开辟AI自主参与金融市场的路径，推动Agent经济落地；产品创新在于把AI代理从工具角色提升为经济主体。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>AI-driven memory crunch jolts India&amp;#8217;s smartphone market</title>
-      <link>https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/</link>
-      <guid isPermaLink="false">ai-driven-memory-crunch-jolts-india8217s-smartphone-market</guid>
-      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Starlink V3 will increase space-based bandwidth by ~2 orders of magnitude</title>
-      <link>https://x.com/elonmusk/status/2077917951957643693</link>
-      <guid isPermaLink="false">twitter_elonmusk_2077917951957643693</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Starlink V3 will increase space-based bandwidth by ~2 orders of magnitude</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>To be confident of a good flight, 2 Raptors will be removed &amp;amp; replaced. Most probable launch tim...</title>
-      <link>https://x.com/elonmusk/status/2077906757641183445</link>
-      <guid isPermaLink="false">twitter_elonmusk_2077906757641183445</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>To be confident of a good flight, 2 Raptors will be removed &amp;amp; replaced. Most probable launch timing is early next week.</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Evening! We’ve gotten lots of great feedback on the new ChatGPT desktop app (which we didn't get tot...</title>
-      <link>https://x.com/OpenAI/status/2077928427936710901</link>
-      <guid isPermaLink="false">twitter_OpenAI_2077928427936710901</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Evening! We’ve gotten lots of great feedback on the new ChatGPT desktop app (which we didn't get totally quite right on the first try), and as a result, we've made some changes.
-
-1/ ChatGPT conversation history and projects are now visible in the sidebar. Also, your Chat and Work history now sync ac</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Remember when anthropic had their model secretly sabotage your work if you were trying to compete wi...</title>
-      <link>https://x.com/TheAIGRID/status/2077909240656642096</link>
-      <guid isPermaLink="false">twitter_TheAIGRID_2077909240656642096</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Remember when anthropic had their model secretly sabotage your work if you were trying to compete with them</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>@saneord also 29 days ago. https://t.co/jUsiEiy0EX</title>
-      <link>https://x.com/elonmusk/status/2077959740316074188</link>
-      <guid isPermaLink="false">twitter_elonmusk_2077959740316074188</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>@saneord also 29 days ago. https://t.co/jUsiEiy0EX</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>As promised</title>
-      <link>https://x.com/elonmusk/status/2078015422931091486</link>
-      <guid isPermaLink="false">twitter_elonmusk_2078015422931091486</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>As promised</p></description>
-      <category>🤖 技术能力</category>
     </item>
   </channel>
 </rss>
