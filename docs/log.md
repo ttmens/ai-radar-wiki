@@ -2984,3 +2984,7 @@
 - create: texas-wins-court-order-to-suspend-domain-name-for-violating-age-verification-law.md
 - create: vertu-wants-executives-to-pay-6880-for-an-ai-agent-here8217s-how-it-actually-per.md
 - create: databricks-hits-188b-valuation-extending-its-run-as-ai8217s-favorite-second-act.md
+
+## [2026-07-18 18:01] sync v3 | 2 new | pillars: {'ecosystem': 2}
+- create: in-toto-a-framework-to-secure-the-integrity-of-software-supply-chains.md
+- create: neil-rimer-thinks-the-ai-money-is-coming-back-out.md

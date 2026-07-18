@@ -55,6 +55,9 @@ EN_ZH_TRANSLATIONS = {
     # 开源AI
     "Mozilla: The state of open source AI": "Mozilla发布开源AI现状报告",
     
+    # Vertu AI
+    "Vertu高价AI代理体验评测": "Vertu高价AI智能体体验评测",
+    
     # 通用模式
     "agentic ai": "AI智能体",
     "ai agents": "AI智能体",
@@ -67,14 +70,14 @@ def translate_title(title):
     if not title:
         return ""
     
+    # 先检查精确匹配（无论中英文）
+    if title in EN_ZH_TRANSLATIONS:
+        return EN_ZH_TRANSLATIONS[title]
+    
     # 如果已经是中文为主，直接返回
     zh_chars = sum(1 for c in title if '\u4e00' <= c <= '\u9fff')
     if zh_chars > len(title) * 0.3:
         return title
-    
-    # 精确匹配
-    if title in EN_ZH_TRANSLATIONS:
-        return EN_ZH_TRANSLATIONS[title]
     
     # 模糊匹配（忽略大小写）
     lower = title.lower().strip()
@@ -106,6 +109,7 @@ def simplify_narrative(title):
         ("隐私与安全成为AI产品设计的必须重视", "隐私安全成红线，AI产品必须过这关"),
         ("AI代理从辅助工具演变为自主经济参与者", "AI智能体进化了，能自己赚钱了"),
         ("AI代理从辅助工具演变为能自己赚钱了", "AI智能体进化了，能自己赚钱了"),
+        ("Vertu高价AI代理体验评测", "Vertu高价AI智能体体验评测"),
     ]
     for old, new in full_replacements:
         if old in title:
