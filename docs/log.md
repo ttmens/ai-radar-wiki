@@ -2976,3 +2976,11 @@
 - create: how-apple8217s-big-lawsuit-could-disrupt-openai8217s-ipo-plans.md
 - create: apple8217s-lawsuit-couldn8217t-come-at-a-worse-time-for-openai.md
 - create: show-hn-on-chain-bond-market-where-the-issuers-are-ai-agents.md
+
+## [2026-07-18 12:01] sync v3 | 6 new | pillars: {'capabilities': 4, 'patterns': 1, 'business': 1}
+- create: kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-care-worse.md
+- create: painting-the-sides-of-railroad-rails-white-to-reduce-derailment.md
+- create: faa-lets-boeing-sign-off-on-737-max-787-airworthiness-certificates-again.md
+- create: texas-wins-court-order-to-suspend-domain-name-for-violating-age-verification-law.md
+- create: vertu-wants-executives-to-pay-6880-for-an-ai-agent-here8217s-how-it-actually-per.md
+- create: databricks-hits-188b-valuation-extending-its-run-as-ai8217s-favorite-second-act.md

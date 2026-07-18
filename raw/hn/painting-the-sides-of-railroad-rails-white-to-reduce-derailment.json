@@ -1,0 +1,20 @@
+{
+  "title": "Painting the sides of railroad rails white to reduce derailment",
+  "score": 63,
+  "comments": 29,
+  "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+  "hn_url": "https://news.ycombinator.com/item?id=48951780",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该技术将铁路轨道侧面涂白，通过反射减少热胀冷缩导致的轨道变形，从而降低脱轨风险。对于AI产品经理，此案例展示了结合物理原理与传感器数据（如热成像、轨道几何检测）的预测性维护思路。利用AI视觉系统自动检测涂层磨损或异常，可实现低成本高安全性的铁路运维方案。商业价值体现在减少事故损失、延长轨道寿命，适合向轨道交通企业推广。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Predictive Maintenance",
+    "Computer Vision"
+  ],
+  "entities": [],
+  "patterns": [
+    "Vision-Based Inspection"
+  ]
+}

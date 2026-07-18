@@ -1,8 +1,38 @@
 {
-  "fetched_at": "2026-07-17T21:00:38.552954",
+  "fetched_at": "2026-07-18T09:00:44.864332",
   "source": "twitter-cli",
   "data": {
     "sama": [
+      {
+        "id": "2078244242993164716",
+        "text": "this is cool:\n\nhttps://t.co/X4HEmFym68",
+        "author": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screenName": "sama",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 1362,
+          "retweets": 82,
+          "replies": 251,
+          "quotes": 34,
+          "views": 141683,
+          "bookmarks": 200
+        },
+        "createdAt": "Fri Jul 17 22:23:34 +0000 2026",
+        "createdAtLocal": "2026-07-18 06:23",
+        "createdAtISO": "2026-07-17T22:23:34+00:00",
+        "media": [],
+        "urls": [
+          "https://welcome-to-codex.openai.chatgpt.site/"
+        ],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
       {
         "id": "2077842579232895286",
         "text": "i talk to chatgpt more than i type to it at this point\n\nnew voice model really crossed a threshold",
@@ -14,12 +44,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 11206,
-          "retweets": 315,
-          "replies": 1644,
-          "quotes": 196,
-          "views": 698727,
-          "bookmarks": 471
+          "likes": 13126,
+          "retweets": 381,
+          "replies": 1840,
+          "quotes": 226,
+          "views": 893479,
+          "bookmarks": 584
         },
         "createdAt": "Thu Jul 16 19:47:29 +0000 2026",
         "createdAtLocal": "2026-07-17 03:47",
@@ -42,12 +72,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 21486,
-          "retweets": 759,
-          "replies": 1909,
-          "quotes": 347,
-          "views": 1807840,
-          "bookmarks": 1824
+          "likes": 23351,
+          "retweets": 827,
+          "replies": 2101,
+          "quotes": 381,
+          "views": 2190347,
+          "bookmarks": 2024
         },
         "createdAt": "Thu Jul 16 18:06:05 +0000 2026",
         "createdAtLocal": "2026-07-17 02:06",
@@ -70,12 +100,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8689,
-          "retweets": 409,
-          "replies": 688,
-          "quotes": 219,
-          "views": 1283099,
-          "bookmarks": 1605
+          "likes": 8881,
+          "retweets": 420,
+          "replies": 711,
+          "quotes": 229,
+          "views": 1407820,
+          "bookmarks": 1659
         },
         "createdAt": "Thu Jul 16 05:43:13 +0000 2026",
         "createdAtLocal": "2026-07-16 13:43",
@@ -98,12 +128,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 153,
+          "likes": 159,
           "retweets": 9,
-          "replies": 22,
+          "replies": 24,
           "quotes": 2,
-          "views": 114647,
-          "bookmarks": 74
+          "views": 128449,
+          "bookmarks": 80
         },
         "createdAt": "Thu Jul 16 16:35:00 +0000 2026",
         "createdAtLocal": "2026-07-17 00:35",
@@ -124,36 +154,6 @@
             "name": "Boaz Barak"
           }
         }
-      },
-      {
-        "id": "2077489177374208000",
-        "text": "amazing to me that some people want the silent version\n\nhttps://t.co/jbdznnBx9Z",
-        "author": {
-          "id": "1605",
-          "name": "Sam Altman",
-          "screenName": "sama",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 3118,
-          "retweets": 143,
-          "replies": 553,
-          "quotes": 91,
-          "views": 697167,
-          "bookmarks": 487
-        },
-        "createdAt": "Wed Jul 15 20:23:12 +0000 2026",
-        "createdAtLocal": "2026-07-16 04:23",
-        "createdAtISO": "2026-07-15T20:23:12+00:00",
-        "media": [],
-        "urls": [
-          "https://openai.com/supply/co-lab/work-louder/"
-        ],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
       }
     ],
     "karpathy": [
@@ -168,12 +168,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8744,
-          "retweets": 1072,
-          "replies": 445,
+          "likes": 8755,
+          "retweets": 1074,
+          "replies": 446,
           "quotes": 571,
-          "views": 3590322,
-          "bookmarks": 5132
+          "views": 3597324,
+          "bookmarks": 5131
         },
         "createdAt": "Wed Jul 08 21:47:29 +0000 2026",
         "createdAtLocal": "2026-07-09 05:47",
@@ -198,12 +198,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1564,
-          "retweets": 152,
+          "likes": 1565,
+          "retweets": 151,
           "replies": 73,
-          "quotes": 13,
-          "views": 475693,
-          "bookmarks": 2430
+          "quotes": 14,
+          "views": 478380,
+          "bookmarks": 2435
         },
         "createdAt": "Fri Jul 03 14:12:03 +0000 2026",
         "createdAtLocal": "2026-07-03 22:12",
@@ -228,12 +228,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 9668,
-          "retweets": 932,
+          "likes": 9671,
+          "retweets": 933,
           "replies": 647,
           "quotes": 600,
-          "views": 6260563,
-          "bookmarks": 3731
+          "views": 6266176,
+          "bookmarks": 3730
         },
         "createdAt": "Tue Jun 30 15:00:09 +0000 2026",
         "createdAtLocal": "2026-06-30 23:00",
@@ -264,11 +264,11 @@
         },
         "metrics": {
           "likes": 1919,
-          "retweets": 241,
+          "retweets": 242,
           "replies": 181,
           "quotes": 160,
-          "views": 1858475,
-          "bookmarks": 1237
+          "views": 1860898,
+          "bookmarks": 1241
         },
         "createdAt": "Tue Jun 23 17:01:29 +0000 2026",
         "createdAtLocal": "2026-06-24 01:01",
@@ -294,12 +294,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 23069,
-          "retweets": 1905,
-          "replies": 1341,
+          "likes": 23072,
+          "retweets": 1906,
+          "replies": 1343,
           "quotes": 696,
-          "views": 7899515,
-          "bookmarks": 13925
+          "views": 7903351,
+          "bookmarks": 13921
         },
         "createdAt": "Tue Jun 23 22:26:31 +0000 2026",
         "createdAtLocal": "2026-06-24 06:26",
@@ -322,6 +322,41 @@
     ],
     "AndrewYNg": [
       {
+        "id": "2078144569594761591",
+        "text": "New course: Build LLM applications that respond to user requests quickly by running on hardware designed for fast inference. This short course was built with  @Cerebras and taught by @zhennydez, @duerr_seb, and  @MilksandMatcha.\n\nWhen a model generates text, much of the time is spent moving its weights out of memory and into the compute units. Inference-optimized hardware minimizes that movement, making token generation several times faster than on a typical GPU setup. In this course, the hardware you'll use is Cerebras' Wafer-Scale Engine, which is designed for fast inference by keeping the model's weights close to the compute units.\n\nFast inference makes lengthy agentic workflows go faster, and also unlocks latency-sensitive, real-time applications like live translation and voice agents.\n\nSkills you'll gain:\n- Compare how GPUs, TPUs, and Cerebras' Wafer-Scale Engine each handle the memory-to-compute bottleneck\n- Build real-time applications powered by fast inference, including personalizing a webpage and running a multi-step workflow to analyze market signals\n- Adopt concrete habits for agentic coding with fast inference, keeping your sessions focused and steering the model more effectively\n\nMy teams use Cerebras for several applications that are latency sensitive. Join and build LLM applications that respond quickly:\nhttps://t.co/P8vchGAr22",
+        "author": {
+          "id": "216939636",
+          "name": "Andrew Ng",
+          "screenName": "AndrewYNg",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 490,
+          "retweets": 56,
+          "replies": 44,
+          "quotes": 4,
+          "views": 53543,
+          "bookmarks": 360
+        },
+        "createdAt": "Fri Jul 17 15:47:30 +0000 2026",
+        "createdAtLocal": "2026-07-17 23:47",
+        "createdAtISO": "2026-07-17T15:47:30+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2078144281685233664/vid/avc1/1920x1080/-jrErZb3PYjGtzPj.mp4?tag=29",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
+      {
         "id": "2075271586400403567",
         "text": "Adam Thierer had written the landmark book on \"Permissionless Innovation.\" We get the best ideas when we don't have to ask the government in advance for permission to invent. Protecting open source AI is now a critical part of ensuring this.",
         "author": {
@@ -332,12 +367,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 279,
+          "likes": 280,
           "retweets": 46,
           "replies": 79,
           "quotes": 6,
-          "views": 94632,
-          "bookmarks": 56
+          "views": 95241,
+          "bookmarks": 58
         },
         "createdAt": "Thu Jul 09 17:31:17 +0000 2026",
         "createdAtLocal": "2026-07-10 01:31",
@@ -368,12 +403,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8420,
-          "retweets": 1624,
+          "likes": 8424,
+          "retweets": 1625,
           "replies": 389,
           "quotes": 177,
-          "views": 645323,
-          "bookmarks": 10253
+          "views": 646077,
+          "bookmarks": 10257
         },
         "createdAt": "Tue Jun 30 16:04:04 +0000 2026",
         "createdAtLocal": "2026-07-01 00:04",
@@ -403,11 +438,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1339,
+          "likes": 1338,
           "retweets": 287,
-          "replies": 172,
+          "replies": 174,
           "quotes": 61,
-          "views": 163522,
+          "views": 163815,
           "bookmarks": 400
         },
         "createdAt": "Fri Jun 19 18:34:23 +0000 2026",
@@ -438,12 +473,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 358,
+          "likes": 359,
           "retweets": 51,
           "replies": 55,
           "quotes": 10,
-          "views": 82692,
-          "bookmarks": 210
+          "views": 82884,
+          "bookmarks": 211
         },
         "createdAt": "Thu Jun 18 17:00:03 +0000 2026",
         "createdAtLocal": "2026-06-19 01:00",
@@ -452,41 +487,6 @@
           {
             "type": "video",
             "url": "https://video.twimg.com/amplify_video/2067651512541843456/vid/avc1/1920x1080/Sk-qKVeop6v2OGhx.mp4?tag=28",
-            "width": 1920,
-            "height": 1080
-          }
-        ],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2062576164657664469",
-        "text": "New course on serving LLMs efficiently -- how do you serve models to many concurrent users at low latency and reasonable cost? This short course is built with  @RedHat and taught by @cedricclyburn.\n\nEfficient LLM serving requires efficient memory management. A 70B-parameter model takes ~140 GB just to load the weights. On top of that, every active request needs its own chunk of GPU memory, the KV cache, to store the token context it has built up so far. In this course, you'll learn to reduce a model's memory footprint with quantization and serve it using vLLM, which handles many concurrent requests efficiently through smart memory management.\n\nSkills you'll gain:\n- Quantize a model and measure the accuracy tradeoff\n- Serve a model with vLLM and watch it handle concurrent requests efficiently\n- Benchmark your deployment and make informed tradeoffs between speed, cost, and accuracy\n\nJoin and learn to serve LLMs efficiently:\nhttps://t.co/x04xMbFlkO",
-        "author": {
-          "id": "216939636",
-          "name": "Andrew Ng",
-          "screenName": "AndrewYNg",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 1117,
-          "retweets": 147,
-          "replies": 109,
-          "quotes": 13,
-          "views": 123996,
-          "bookmarks": 847
-        },
-        "createdAt": "Thu Jun 04 16:44:13 +0000 2026",
-        "createdAtLocal": "2026-06-05 00:44",
-        "createdAtISO": "2026-06-04T16:44:13+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2062575240027516928/vid/avc1/1920x1080/PpP9sN_ZxWt2eCgA.mp4?tag=27",
             "width": 1920,
             "height": 1080
           }
@@ -510,12 +510,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 163,
+          "likes": 173,
           "retweets": 11,
-          "replies": 21,
-          "quotes": 5,
-          "views": 36907,
-          "bookmarks": 14
+          "replies": 24,
+          "quotes": 6,
+          "views": 43562,
+          "bookmarks": 16
         },
         "createdAt": "Thu Jul 16 07:49:56 +0000 2026",
         "createdAtLocal": "2026-07-16 15:49",
@@ -545,12 +545,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 60,
-          "retweets": 4,
-          "replies": 10,
+          "likes": 74,
+          "retweets": 5,
+          "replies": 12,
           "quotes": 1,
-          "views": 17188,
-          "bookmarks": 2
+          "views": 21837,
+          "bookmarks": 3
         },
         "createdAt": "Thu Jul 16 06:29:39 +0000 2026",
         "createdAtLocal": "2026-07-16 14:29",
@@ -573,12 +573,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1048,
-          "retweets": 137,
-          "replies": 72,
-          "quotes": 42,
-          "views": 318135,
-          "bookmarks": 748
+          "likes": 1078,
+          "retweets": 139,
+          "replies": 78,
+          "quotes": 43,
+          "views": 335378,
+          "bookmarks": 760
         },
         "createdAt": "Thu Jul 16 01:31:49 +0000 2026",
         "createdAtLocal": "2026-07-16 09:31",
@@ -601,12 +601,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 24405,
-          "retweets": 7068,
-          "replies": 2298,
+          "likes": 24471,
+          "retweets": 7085,
+          "replies": 2297,
           "quotes": 267,
-          "views": 505476,
-          "bookmarks": 637
+          "views": 509711,
+          "bookmarks": 638
         },
         "createdAt": "Wed Jul 15 13:35:55 +0000 2026",
         "createdAtLocal": "2026-07-15 21:35",
@@ -636,12 +636,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 20896,
-          "retweets": 3743,
-          "replies": 1019,
+          "likes": 20946,
+          "retweets": 3760,
+          "replies": 1023,
           "quotes": 472,
-          "views": 3404972,
-          "bookmarks": 2180
+          "views": 3424947,
+          "bookmarks": 2175
         },
         "createdAt": "Wed Jul 15 15:30:05 +0000 2026",
         "createdAtLocal": "2026-07-15 23:30",
@@ -663,103 +663,103 @@
     ],
     "elonmusk": [
       {
-        "id": "2078086509052227916",
-        "text": "This is messed up",
+        "id": "2078268554353234388",
+        "text": "https://t.co/xEAfI7C6Gh",
         "author": {
-          "id": "44196397",
-          "name": "Elon Musk",
-          "screenName": "elonmusk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "id": "4914384040",
+          "name": "The Babylon Bee",
+          "screenName": "TheBabylonBee",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1400100770624720898/-HC7kL5x_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 3250,
-          "retweets": 480,
-          "replies": 636,
+          "likes": 2406,
+          "retweets": 267,
+          "replies": 255,
           "quotes": 26,
-          "views": 1024325,
-          "bookmarks": 87
-        },
-        "createdAt": "Fri Jul 17 11:56:47 +0000 2026",
-        "createdAtLocal": "2026-07-17 19:56",
-        "createdAtISO": "2026-07-17T11:56:47+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2078080937343041882",
-          "text": "How many of you have heard of Ilias Kasidiaris?\n\nThe former Greek MP and politician remains imprisoned in Greece, due to one of the most controversial cases in the EU.\n\nHe’s serving time from the Golden Dawn convictions, but a recent judicial decision has drawn heavy criticism: His June 2025 release request was denied 2-1, against the Prosecutor’s recommendation, partly because he maintains an active X account (@IliasKasidiaris), with help from supporters to comment on politics.\n\n“The applicant… maintains a personal account on… X… expressing his views on current political and social affairs,” the court said.\n\nThey will therefore keep him imprisoned despite good conduct and significant time served.\n\nThis sets a dangerous precedent for political speech. How does it differ from cases Elon Musk has criticized in the UK?",
-          "author": {
-            "screenName": "RMistereggen",
-            "name": "Rebecca Mistereggen"
-          }
-        }
-      },
-      {
-        "id": "2078062254046544149",
-        "text": "Turns out Elon was completely right\nThe coding moat is disappearing in real time https://t.co/UYlfVV3UU7",
-        "author": {
-          "id": "1818311005698678784",
-          "name": "X Freeze",
-          "screenName": "XFreeze",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1876785200010539008/2_HFJjq9_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 2224,
-          "retweets": 281,
-          "replies": 286,
-          "quotes": 22,
-          "views": 311772,
-          "bookmarks": 119
-        },
-        "createdAt": "Fri Jul 17 10:20:24 +0000 2026",
-        "createdAtLocal": "2026-07-17 18:20",
-        "createdAtISO": "2026-07-17T10:20:24+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HNbCmKwaAAAYkqs.jpg",
-            "width": 1080,
-            "height": 552
-          }
-        ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2077959740316074188",
-        "text": "@saneord also 29 days ago. https://t.co/jUsiEiy0EX",
-        "author": {
-          "id": "1444691386704433158",
-          "name": "noah",
-          "screenName": "no4core",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2077968801707237376/WXB4U5k2_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 1220,
-          "retweets": 236,
-          "replies": 159,
-          "quotes": 4,
-          "views": 379959,
+          "views": 188202,
           "bookmarks": 61
         },
-        "createdAt": "Fri Jul 17 03:33:03 +0000 2026",
-        "createdAtLocal": "2026-07-17 11:33",
-        "createdAtISO": "2026-07-17T03:33:03+00:00",
+        "createdAt": "Sat Jul 18 00:00:10 +0000 2026",
+        "createdAtLocal": "2026-07-18 08:00",
+        "createdAtISO": "2026-07-18T00:00:10+00:00",
         "media": [
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HNZlX0caEAAuOJM.jpg",
-            "width": 1206,
-            "height": 1692
+            "url": "https://pbs.twimg.com/media/HNd-PIWXMAA0h0C.jpg",
+            "width": 1080,
+            "height": 1350
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "zxx",
+        "score": null
+      },
+      {
+        "id": "2078269475351069176",
+        "text": "don’t \nforget",
+        "author": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screenName": "elonmusk",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 6034,
+          "retweets": 858,
+          "replies": 1059,
+          "quotes": 73,
+          "views": 743312,
+          "bookmarks": 323
+        },
+        "createdAt": "Sat Jul 18 00:03:49 +0000 2026",
+        "createdAtLocal": "2026-07-18 08:03",
+        "createdAtISO": "2026-07-18T00:03:49+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "1675365001836593154",
+          "text": "you awake from a deep trance, \nstep away from the phone \nto see your friends &amp; family",
+          "author": {
+            "screenName": "elonmusk",
+            "name": "Elon Musk"
+          }
+        }
+      },
+      {
+        "id": "2078199362841436248",
+        "text": "We think of this evil as Marxism. In reality, Marxism is nothing more or less than the current instantiation of a much more ancient evil: possession by the envious and hateful spirit that drove Cain to  murder his brother Abel. \n\nThe great book of Genesis thus portrays mankind as riven by an eternal fratricidal conflict. \n\nThose who reject genuine sacrifice become embittered by their subsequent failure (\"rejection by God\"). \n\nInstead of repenting and changing, they turn to revenge. \n\nAnd who do they target? Those who strive to do well and offer what is best. \n\nI can't believe how much wisdom the author of Genesis 4 compressed into that story's few sentences. You might even come to believe that God Himself had a hand in it. \n\nTruly: it's uncanny. The first two human beings born into history are, respectively, a good, honest productive man and his brother, who allows himself to be consumed by resentment and the desire to destroy. \n\nCommunism, in a nutshell.  https://t.co/2wUVcwouHs",
+        "author": {
+          "id": "95092020",
+          "name": "Dr Jordan B Peterson",
+          "screenName": "jordanbpeterson",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1407056014776614923/TKBC60e1_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 11205,
+          "retweets": 2339,
+          "replies": 494,
+          "quotes": 165,
+          "views": 434586,
+          "bookmarks": 1619
+        },
+        "createdAt": "Fri Jul 17 19:25:13 +0000 2026",
+        "createdAtLocal": "2026-07-18 03:25",
+        "createdAtISO": "2026-07-17T19:25:13+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2077753125717377024/vid/avc1/1920x1080/qeB4oH_UCdYvnmbz.mp4?tag=29",
+            "width": 1920,
+            "height": 1080
           }
         ],
         "urls": [],
@@ -769,8 +769,8 @@
         "score": null
       },
       {
-        "id": "2078015422931091486",
-        "text": "As promised",
+        "id": "2078250748920414692",
+        "text": "Grok has the best value for coding",
         "author": {
           "id": "44196397",
           "name": "Elon Musk",
@@ -779,16 +779,16 @@
           "verified": true
         },
         "metrics": {
-          "likes": 12279,
-          "retweets": 1169,
-          "replies": 1651,
-          "quotes": 87,
-          "views": 1680267,
-          "bookmarks": 422
+          "likes": 3471,
+          "retweets": 633,
+          "replies": 968,
+          "quotes": 57,
+          "views": 1225784,
+          "bookmarks": 173
         },
-        "createdAt": "Fri Jul 17 07:14:19 +0000 2026",
-        "createdAtLocal": "2026-07-17 15:14",
-        "createdAtISO": "2026-07-17T07:14:19+00:00",
+        "createdAt": "Fri Jul 17 22:49:25 +0000 2026",
+        "createdAtLocal": "2026-07-18 06:49",
+        "createdAtISO": "2026-07-17T22:49:25+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -796,17 +796,17 @@
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2077820074015293774",
-          "text": "SuperGrok Heavy now includes X Premium+ at no extra cost.\n\nJust link your X account in the Grok app to activate it instantly. https://t.co/LoN7CL9ZLk",
+          "id": "2078228963403386958",
+          "text": "The FrontierCode leaderboard is now live: a dedicated page that tracks which models are writing code you’d actually merge. \n\nAll scores — including Grok 4.5 and Inkling — are available, along with full methodology and sample tasks. https://t.co/gTdv1tisj9",
           "author": {
-            "screenName": "premium",
-            "name": "Premium"
+            "screenName": "cognition",
+            "name": "Cognition"
           }
         }
       },
       {
-        "id": "2078014448267104664",
-        "text": "Try Grok",
+        "id": "2078200590765535431",
+        "text": "Cool",
         "author": {
           "id": "44196397",
           "name": "Elon Musk",
@@ -815,16 +815,16 @@
           "verified": true
         },
         "metrics": {
-          "likes": 3408,
-          "retweets": 592,
-          "replies": 796,
-          "quotes": 43,
-          "views": 1406693,
-          "bookmarks": 388
+          "likes": 4465,
+          "retweets": 816,
+          "replies": 1191,
+          "quotes": 36,
+          "views": 1888210,
+          "bookmarks": 117
         },
-        "createdAt": "Fri Jul 17 07:10:26 +0000 2026",
-        "createdAtLocal": "2026-07-17 15:10",
-        "createdAtISO": "2026-07-17T07:10:26+00:00",
+        "createdAt": "Fri Jul 17 19:30:06 +0000 2026",
+        "createdAtLocal": "2026-07-18 03:30",
+        "createdAtISO": "2026-07-17T19:30:06+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -832,16 +832,89 @@
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2077924746415518033",
-          "text": "kimi k3 vs gpt 5.6 sol vs fable 5 vs grok 4.5\n\n@Kimi_Moonshot just dropped kimi k3 – a 2.8t param native multimodal model, the first open 3t-class release. key facts:\n\n• 1m token context. stable latentmoe activating 16 of 896 experts, built on kimi delta attention (kda) and attention residuals\n\n• quantization-aware training from the sft stage onward – mxfp4 weights, mxfp8 activations. moonshot claims ~2.5x scaling efficiency over k2\n\n• max thinking effort by default. low- and high-effort modes are \"coming in updates\" – there is no way to turn the thinking down today, and you feel it in every run\n\n• pricing: $0.30/mtok cache-hit input, $3.00/mtok cache-miss, $15.00/mtok output. claims >90% cache hit rate on coding workloads\n\n• benchmarks: swe marathon 42.0 (1st – fable 5: 35.0, sol: 39.0, opus 4.8: 40.0), terminal bench 2.1 88.3, browsecomp 91.2 (1st), program bench 77.8 (1st), gpqa-diamond 93.5. loses frontierswe 81.2 vs fable's 86.6, and deepswe 67.5 vs sol's 73.0\n\nour test – 3 prompts, single-file html, @threejs, fully procedural, no assets:\n\n1. photorealistic european roulette wheel – 37 pockets in the real sequence, mahogany clearcoat bowl, chrome turret, diamond deflectors, flick-to-spin, ball that spirals inward and settles on a mathematically real number\n\n2. las vegas slot machine – 3 reels behind transmissive glass, drag the chrome lever to play, mechanical odometer counters modelled in 3d, coin physics on win\n\n3. full pinball table – 6.5° tilted playfield, flipper impulse physics, spline ramps, drop targets, 6 bumpers, mechanical score reels in the backbox\n\nwe ran the test on @aimlapi platform\n\nresults:\n\n- cost\n#1 grok 4.5 – $0.30\n#2 kimi k3 – $0.71\n#3 gpt 5.6 sol – $2.05\n#4 fable 5 – $7.69\n\n- tokens\n#1 grok 4.5 – 34,241\n#2 gpt 5.6 sol – 51,748\n#3 fable 5 – 144,126\n#4 kimi k3 – 157,999\n\n- lines of code\n#1 gpt 5.6 sol – 3,054\n#2 grok 4.5 – 3,047\n#3 kimi k3 – 2,255\n#4 fable 5 – 1,950\n\n- generation time\n#1 grok 4.5 – 5.1 min\n#2 gpt 5.6 sol – 22.0 min\n#3 fable 5 – 31.5 min\n#4 kimi k3 – 75.6 min\n\nobservations:\n\n• kimi k3 is cheap and it is slow. 75.6 minutes across three prompts against grok's 5.1. it is 2.4x grok's price and 15x grok's wall clock. the roulette took 15 min, the slot 18, the pinball 42\n\n• it failed 2 of 3. only the roulette works. the slot machine has reel cutouts on both faces of the cabinet and the symbols face backwards – you can only read your spin by walking around to the rear of the machine. the pinball table stands vertically on its edge with the legs floating detached beside it.\n\n• 81% of kimi's output tokens are reasoning, not code. grok: 22%. you are not paying for a bigger answer, you are paying for a longer argument with itself\n\n• price per 100 shipped lines – grok $0.010, kimi $0.031, sol $0.067, fable $0.394. a 39x spread for the same three files\n\nkimi k3's code quality:\n\nupsides:\n\n• the roulette is genuinely good – procedural wood grain with real specular breakup, correct european sequence (0-32-15-19-4...), chrome turret, diamond deflectors, clean console\n\n• the pinball artwork is the best in the test – a synthwave \"nova strike / deep space\" field with six individually coloured neon bumper rings, a retro sun on a grid horizon, a nova burst, and a scoring legend printed on the apron. no other model printed the rules on the machine. it is a beautiful texture on a broken object\n\n• physics reasoning is real – it derived a 480hz substep for the collider, worked out ball settle conditions and termination guarantees, and checked every ramp exit vector by hand before writing any of it\n\n• it is the only model that saw the importmap trap coming. sol shipped a blank white page twice because three.js addons import the bare specifier 'three' and die without an import map\n\ndownsides:\n\n• it dodged that trap on the slot by loading three.js r128 through classic script tags – a 2021 build with no working transmission. its slot glass rendered fully opaque and buried all three reels behind a white pane. the code asks for transmission: 0.93, ior: 1.5 – correct, and silently ignored by a renderer that predates the feature\n\n• after 42 minutes and 212k characters of reasoning, the pinball cabinet is not assembled. the table stands vertically on its edge like a wardrobe – the prompt asked for 6.5° from horizontal, it delivered 90°. the legs float detached in the void beside it. head-on it photographs beautifully; orbit ten degrees and it is a painted slab with four chrome rods hovering nearby\n\n• the playfield z-fights with the glass – hard black banding across the whole field as soon as you pull the camera back\n\na note on the pinball, in fairness to kimi: nobody passed it. every model shipped broken ball physics and controls you cannot trust. it is the hardest prompt we have run and the whole field failed it, each in its own way\n\nkimi k3 reasons better than anything else here and it shows exactly where reasoning pays – physics constants, sequences, edge cases, traps the others walked into\n\nfollow @thehypedotnews for 24/7 ai news, analysis and breakdowns",
+          "id": "2078137772611907841",
+          "text": "Grok Build and Grok 4.5 top user model preference",
           "author": {
-            "screenName": "thehypedotnews",
-            "name": "thehype."
+            "screenName": "grok",
+            "name": "Grok"
           }
         }
       }
     ],
     "DrJimFan": [
+      {
+        "id": "2078150496683213151",
+        "text": "How it's done:\n\nhttps://t.co/DanOfnw4xk",
+        "author": {
+          "id": "1007413134",
+          "name": "Jim Fan",
+          "screenName": "DrJimFan",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 16,
+          "retweets": 1,
+          "replies": 1,
+          "quotes": 0,
+          "views": 8195,
+          "bookmarks": 7
+        },
+        "createdAt": "Fri Jul 17 16:11:03 +0000 2026",
+        "createdAtLocal": "2026-07-18 00:11",
+        "createdAtISO": "2026-07-17T16:11:03+00:00",
+        "media": [],
+        "urls": [
+          "https://x.com/DrJimFan/status/2077414142340988962?s=20"
+        ],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2077414142340988962",
+          "text": "We scaled a robot model natively to 8,000 timesteps of context, 5 minutes worth of muscle memory, with constant inference cost. Robot policies used to live their lives a few frames at a time (< 0.1 sec), instantly forgetting what just happened. We pushed to 3 orders of magnitude beyond SOTA. \n\nIntroducing RoboTTT. Test-Time Training (“TTT”) carries a tiny model *inside* the model. Every incoming sensor reading triggers one gradient step on that tiny core, so the history keeps getting compressed into its weights. The hidden state has a fixed size (literally a small neural net), so the robot can “grok” arbitrarily long experience with little overhead. Learning continues indefinitely after deployment.\n\nWe can then put an entire video in context as prompt! RoboTTT enables one-shot in-context learning from human video: in circuit board assembly, a human demonstrates a never-seen configuration once, and the robot imitates it faithfully. \n\nHumans drop things all the time, but we pick them up so fast that we don’t even notice. That reflex to fix is half of our physical competence. RoboTTT shows self-improvement on the fly: the robot is skilled at recovering from its own errors mid-episode, and each fix enters its context to inform the next move. The TTT core distills a general-purpose, failure-to-correction mapping from the training data.\n\nOne more thing. What excites me the most is a new Context Scaling Curve: from 128 to 8K timesteps, closed-loop performance hill-climbs steadily with no sign of saturation. 8K-context pretraining beats 1K by 62%. What LLM enjoys, robotics should too. Soon, even 1M context is not a fantasy. \n\nDeep dive in thread:",
+          "author": {
+            "screenName": "DrJimFan",
+            "name": "Jim Fan"
+          }
+        }
+      },
+      {
+        "id": "2078150032575082616",
+        "text": "My morning ritual: coffee, then watch our robot assemble stuff. The model isn't fast, but it measures every grasp, obsesses over every alignment, and handles every piece like an heirloom. Watching is therapeutic, even meditative. Simple pleasure from the execution of a task well done.\n\nUncut, no speedup, end-to-end policy in one go.",
+        "author": {
+          "id": "1007413134",
+          "name": "Jim Fan",
+          "screenName": "DrJimFan",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 257,
+          "retweets": 27,
+          "replies": 19,
+          "quotes": 3,
+          "views": 26035,
+          "bookmarks": 68
+        },
+        "createdAt": "Fri Jul 17 16:09:12 +0000 2026",
+        "createdAtLocal": "2026-07-18 00:09",
+        "createdAtISO": "2026-07-17T16:09:12+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2078145436179980288/vid/avc1/3840x2160/rphy71DKwwWasqeg.mp4?tag=29",
+            "width": 3840,
+            "height": 2160
+          }
+        ],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
       {
         "id": "2077497317255737422",
         "text": "I’m very excited by this test time training work for robotic learning! It’s an awesome collaboration between @StanfordSVL and @NVIDIARobotics !",
@@ -853,12 +926,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 533,
+          "likes": 550,
           "retweets": 59,
-          "replies": 20,
-          "quotes": 5,
-          "views": 85290,
-          "bookmarks": 161
+          "replies": 22,
+          "quotes": 6,
+          "views": 90415,
+          "bookmarks": 164
         },
         "createdAt": "Wed Jul 15 20:55:33 +0000 2026",
         "createdAtLocal": "2026-07-16 04:55",
@@ -889,12 +962,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1214,
-          "retweets": 181,
-          "replies": 56,
-          "quotes": 43,
-          "views": 224495,
-          "bookmarks": 740
+          "likes": 1237,
+          "retweets": 186,
+          "replies": 57,
+          "quotes": 48,
+          "views": 247162,
+          "bookmarks": 754
         },
         "createdAt": "Wed Jul 15 15:25:02 +0000 2026",
         "createdAtLocal": "2026-07-15 23:25",
@@ -928,8 +1001,8 @@
           "retweets": 3,
           "replies": 3,
           "quotes": 1,
-          "views": 16439,
-          "bookmarks": 27
+          "views": 17065,
+          "bookmarks": 28
         },
         "createdAt": "Wed Jul 15 15:25:03 +0000 2026",
         "createdAtLocal": "2026-07-15 23:25",
@@ -951,77 +1024,6 @@
             "name": "Yunfan Jiang"
           }
         }
-      },
-      {
-        "id": "2072337488782475390",
-        "text": "ENPIRE -&gt; ASPIRE, our 2nd work in the series for Physical AutoResearch. We are building the components for robot self-improvement, one /skill at a time.",
-        "author": {
-          "id": "1007413134",
-          "name": "Jim Fan",
-          "screenName": "DrJimFan",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 287,
-          "retweets": 26,
-          "replies": 41,
-          "quotes": 8,
-          "views": 54303,
-          "bookmarks": 116
-        },
-        "createdAt": "Wed Jul 01 15:12:14 +0000 2026",
-        "createdAtLocal": "2026-07-01 23:12",
-        "createdAtISO": "2026-07-01T15:12:14+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2072004190856212902",
-          "text": "Today, we give robots a /skills library that self-evolves and compounds indefinitely! Introducing ASPIRE: a robot solving its 100th task is no longer as clueless as solving its first. Coding agents observe multimodal sensory traces from simulation and real robots, launch an evolutionary search over control programs, and distill the best know-how into an ever-expanding library. \n\nASPIRE is a new type of continual learning: \"training\" is skill refinement instead of gradient descent. \n\"Trained model\" is a repo of sensorimotor skills instead of floating weights. \n“Distributed training” is a panel of agents each practicing a different skill instead of sharded minibatches.\n\nHere's the beauty: ASPIRE gives the tired terms \"sim2real transfer\" and \"cross-embodiment transfer\" a whole new meaning. Bridging the sim-to-real gap is notoriously brutal. An end-to-end policy has to swallow both the visual shift (sim looks toyish next to a real camera) and the subtle contact physics it never quite gets right. ASPIRE sidesteps the mess, because it doesn't ship pixels or weights across the gap, but ships the know-how. The robot still has to practice in the real world, not zero-shot, but it gets there way faster because it isn't rediscovering the strategy from scratch. Same for going single-arm to bimanual hardware, which usually requires new data and retraining from zero. ASPIRE achieves up to ~10x cut in \"transfer learning” tokens (yes, tokens are the new unit of *training* compute ;)\n\nCheck out our gallery of 150+ tasks and 90+ skills the robots taught themselves, all on the website! Kind of wild that we can ship the \"learned weights\" as an HTML page rather than a GGUF. We'll open-source the full stack so your own robot library starts compounding from ours! \n\nDeep dive in thread:",
-          "author": {
-            "screenName": "DrJimFan",
-            "name": "Jim Fan"
-          }
-        }
-      },
-      {
-        "id": "2072004190856212902",
-        "text": "Today, we give robots a /skills library that self-evolves and compounds indefinitely! Introducing ASPIRE: a robot solving its 100th task is no longer as clueless as solving its first. Coding agents observe multimodal sensory traces from simulation and real robots, launch an evolutionary search over control programs, and distill the best know-how into an ever-expanding library. \n\nASPIRE is a new type of continual learning: \"training\" is skill refinement instead of gradient descent. \n\"Trained model\" is a repo of sensorimotor skills instead of floating weights. \n“Distributed training” is a panel of agents each practicing a different skill instead of sharded minibatches.\n\nHere's the beauty: ASPIRE gives the tired terms \"sim2real transfer\" and \"cross-embodiment transfer\" a whole new meaning. Bridging the sim-to-real gap is notoriously brutal. An end-to-end policy has to swallow both the visual shift (sim looks toyish next to a real camera) and the subtle contact physics it never quite gets right. ASPIRE sidesteps the mess, because it doesn't ship pixels or weights across the gap, but ships the know-how. The robot still has to practice in the real world, not zero-shot, but it gets there way faster because it isn't rediscovering the strategy from scratch. Same for going single-arm to bimanual hardware, which usually requires new data and retraining from zero. ASPIRE achieves up to ~10x cut in \"transfer learning” tokens (yes, tokens are the new unit of *training* compute ;)\n\nCheck out our gallery of 150+ tasks and 90+ skills the robots taught themselves, all on the website! Kind of wild that we can ship the \"learned weights\" as an HTML page rather than a GGUF. We'll open-source the full stack so your own robot library starts compounding from ours! \n\nDeep dive in thread:",
-        "author": {
-          "id": "1007413134",
-          "name": "Jim Fan",
-          "screenName": "DrJimFan",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 1642,
-          "retweets": 223,
-          "replies": 75,
-          "quotes": 30,
-          "views": 199112,
-          "bookmarks": 1164
-        },
-        "createdAt": "Tue Jun 30 17:07:49 +0000 2026",
-        "createdAtLocal": "2026-07-01 01:07",
-        "createdAtISO": "2026-06-30T17:07:49+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2072001551988920320/vid/avc1/1920x1080/HGwCmr_X0Ka-WLlG.mp4?tag=28",
-            "width": 1920,
-            "height": 1080
-          }
-        ],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
       }
     ]
   }

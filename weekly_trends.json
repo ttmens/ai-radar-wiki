@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-07-18T06:01:47.521163+08:00",
+  "generated_at": "2026-07-18T12:01:28.154964+08:00",
   "days_analyzed": 71,
   "pillar_trends": {
     "capabilities": {
-      "trend": "up",
-      "delta": 1,
-      "current": 2,
-      "previous": 1,
-      "has_data": true
-    },
-    "patterns": {
-      "trend": "down",
-      "delta": -3,
-      "current": 3,
-      "previous": 6,
-      "has_data": true
-    },
-    "ecosystem": {
-      "trend": "down",
+      "trend": "data_missing",
       "delta": -1,
       "current": 0,
       "previous": 1,
       "has_data": false
     },
-    "business": {
+    "patterns": {
+      "trend": "down",
+      "delta": -2,
+      "current": 4,
+      "previous": 6,
+      "has_data": true
+    },
+    "ecosystem": {
       "trend": "up",
-      "delta": 4,
-      "current": 5,
+      "delta": 2,
+      "current": 3,
       "previous": 1,
       "has_data": true
+    },
+    "business": {
+      "trend": "data_missing",
+      "delta": -1,
+      "current": 0,
+      "previous": 1,
+      "has_data": false
     }
   },
   "narrative_chains": [
@@ -1247,5 +1247,5 @@
     }
   ],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-07-18**（71天），累计 **1693** 条情报。 焦点领域：**🤖 技术能力**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：🤖 技术能力呈上升趋势；💰 商业动态呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-07-18**（71天），累计 **1696** 条情报。 焦点领域：**🤖 技术能力**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：🔧 工具生态呈上升趋势"
 }

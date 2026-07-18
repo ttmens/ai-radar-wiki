@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-18 | Total pages: 2698
+> Last updated: 2026-07-18 | Total pages: 2704
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -575,6 +575,7 @@
 - [[owainlewisawesome-artificial-intelligence.md]] owainlewis/awesome-artificial-intelligence `pillar:capabilities` `score:0.58`
 - [[oxcaml-in-space.md]] O(x)Caml in Space `pillar:capabilities` `score:0.275`
 - [[paddlepaddlepaddle.md]] PaddlePaddle/Paddle `pillar:capabilities` `score:0.615`
+- [[painting-the-sides-of-railroad-rails-white-to-reduce-derailment.md]] Painting the sides of railroad rails white to reduce derailment `pillar:capabilities` `score:0.395`
 - [[pinterest-launches-an-experimental-ai-shopping-app-called-8216ask-pinterest8217.md]] Pinterest launches an experimental AI shopping app called &#8216;Ask Pinterest&# `pillar:capabilities` `score:0.48`
 - [[pixi8217s-new-ios-app-turns-text-messages-into-interactive-ar-experiences.md]] Pixi&#8217;s new iOS app turns text messages into interactive AR experiences `pillar:capabilities` `score:0.445`
 - [[playing-with-vision-embeddings.md]] Playing with Vision Embeddings `pillar:capabilities` `score:0.345`
@@ -1616,6 +1617,7 @@
 - [[jamiepinevoicebox.md]] jamiepine/voicebox `pillar:patterns` `score:0.58`
 - [[jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business.md]] Jedify raises $24M to help companies arm AI agents with context on their busines `pillar:patterns` `score:0.515`
 - [[jeecgbootjeecgboot.md]] jeecgboot/JeecgBoot `pillar:patterns` `score:0.615`
+- [[kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-care-worse.md]] Kaiser nurses say AI, workplace surveillance are making their jobs, care worse `pillar:patterns` `score:0.63`
 - [[khoj-aikhoj.md]] khoj-ai/khoj `pillar:patterns` `score:0.615`
 - [[khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded.md]] Khosla Ventures is betting $10M on Ian Crosby, whose last startup, Bench, implod `pillar:patterns` `score:0.48`
 - [[kyegomezswarms.md]] kyegomez/swarms `pillar:patterns` `score:0.53`
@@ -1835,6 +1837,7 @@
 - [[vectifyaipageindex.md]] VectifyAI/PageIndex `pillar:patterns` `score:0.615`
 - [[vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents.md]] Vercel CEO Guillermo Rauch on the fight to split off models from agents `pillar:patterns` `score:0.515`
 - [[vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880.md]] Vertu wants CEOs to run companies from an AI foldable starting at $6,880 `pillar:patterns` `score:0.445`
+- [[vertu-wants-executives-to-pay-6880-for-an-ai-agent-here8217s-how-it-actually-per.md]] Vertu wants executives to pay $6,880 for an AI agent — here&#8217;s how it actua `pillar:patterns` `score:0.41`
 - [[vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet.md]] Vint Cerf is working on a plan to unleash AI agents on the open internet `pillar:patterns` `score:0.445`
 - [[visa-invests-in-replit-to-power-agentic-payments-for-developers.md]] Visa invests in Replit to power agentic payments for developers `pillar:patterns` `score:0.48`
 - [[voice-ai-in-india-is-hard-wispr-flow-is-betting-o.md]] Voice AI in India is hard. Wispr Flow is betting on it anyway. `pillar:patterns` `score:0.48`
@@ -2391,6 +2394,7 @@
 - [[companies-rein-in-ai-usage-as-costs-strain-budgets.md]] Companies rein in AI usage as costs strain budgets `pillar:business` `score:0.43`
 - [[corporate-america-is-starting-to-ration-ai-as-cost-skyrockets.md]] Corporate America Is Starting to Ration AI as Cost Skyrockets `pillar:business` `score:0.55`
 - [[cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses.md]] Cyera eyes $12B valuation at 80x ARR multiple despite operating losses `pillar:business` `score:0.445`
+- [[databricks-hits-188b-valuation-extending-its-run-as-ai8217s-favorite-second-act.md]] Databricks hits $188B valuation, extending its run as AI&#8217;s favorite second `pillar:business` `score:0.48`
 - [[deepseek-could-hit-45b-valuation-from-its-first-i.md]] DeepSeek could hit $45B valuation from its first investment round `pillar:business` `score:0.3`
 - [[dessn-raises-6m-for-its-production-focused-design.md]] Dessn raises $6M for its production focused design tool `pillar:business` `score:0.48`
 - [[di-sukharevopencommit.md]] di-sukharev/opencommit `pillar:business` `score:0.355`
@@ -2408,6 +2412,7 @@
 - [[every-ai-subscription-is-a-ticking-time-bomb-for-enterprise.md]] Every AI Subscription Is a Ticking Time Bomb for Enterprise `pillar:business` `score:0.585`
 - [[every-major-tech-layoff-in-2026-that-has-name-checked-ai.md]] Every major tech layoff in 2026 that has name-checked AI `pillar:business` `score:0.445`
 - [[everybodys-weirded-out-by-aiexcept-the-people-who-foist-it-on-us.md]] Everybody's Weirded Out by AI–Except the People Who Foist It on Us `pillar:business` `score:0.38`
+- [[faa-lets-boeing-sign-off-on-737-max-787-airworthiness-certificates-again.md]] FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again `pillar:business` `score:0.39`
 - [[fake-building-claude-wrote-3k-lines-instead-of-im.md]] Fake building: Claude wrote 3k lines instead of import pywikibot `pillar:business` `score:0.155`
 - [[fidji-simo-steps-down-from-openai8217s-no-2-role.md]] Fidji Simo steps down from OpenAI&#8217;s no. 2 role `pillar:business` `score:0.48`
 - [[financing-the-ai-boom-from-cash-flows-to-debt-pdf.md]] Financing the AI boom: from cash flows to debt [pdf] `pillar:business` `score:0.46`
@@ -2588,6 +2593,7 @@
 - [[tell-hn-dont-use-claude-design-lost-access-to-my-projects-after-unsubscribing.md]] Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing `pillar:business` `score:0.53`
 - [[tell-hn-openai-has-started-putting-ads-on-paid-programs.md]] Tell HN: OpenAI has started putting ads on paid programs `pillar:business` `score:0.43`
 - [[tesla-model-y-passes-nhtsas-new-advanced-driver.md]] Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests `pillar:business` `score:0.255`
+- [[texas-wins-court-order-to-suspend-domain-name-for-violating-age-verification-law.md]] Texas wins court order to suspend domain name for violating age-verification law `pillar:business` `score:0.515`
 - [[the-ai-industry-is-pouring-millions-into-us-elections.md]] The AI industry is pouring millions into US elections `pillar:business` `score:0.33`
 - [[the-ai-jobs-debate-just-got-messier.md]] The AI jobs debate just got messier `pillar:business` `score:0.515`
 - [[the-ai-layoff-wave-is-becoming-a-powder-keg.md]] The AI layoff wave is becoming a powder keg `pillar:business` `score:0.445`

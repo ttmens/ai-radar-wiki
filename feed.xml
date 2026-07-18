@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 17 Jul 2026 20:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 04:00:39 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -21,12 +21,36 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>Kimi K3, and what we can still learn from the pelican benchmark</title>
+      <link>https://news.ycombinator.com/item?id=48947717</link>
+      <guid isPermaLink="false">kimi-k3-and-what-we-can-still-learn-from-the-pelican-benchmark</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Kimi K3 是最新发布的 AI 模型，其在 Pelican 基准测试中的表现揭示了当前模型在长文本理解与推理能力上的关键进步。产品经理应关注该基准如何衡量模型在复杂文档处理中的真实性能，以及从失败案例中学习到的改进方向。Kimi K3 的优化策略（如更高效的上下文窗口利用、结构化推理）为 AI 产品在知识密集型场景（如法律、科研）中的落地提供了技术参考。商业价值在于更精准的文档摘要、问答与决策支持，从而提升用户粘性和付费转化。产品创新点包括模块化推理路径设计，可降低对算力的依赖，并支持更灵活的产品定制。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Zeyi-Lin/HivisionIDPhotos</title>
+      <link>https://github.com/Zeyi-Lin/HivisionIDPhotos</link>
+      <guid isPermaLink="false">zeyi-linhivisionidphotos</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> github</p><hr/><p>HivisionIDPhotos 是一个轻量级、高效的 AI 证件照制作工具，基于 GitHub 开源。其核心技术要点包括：采用轻量化模型设计，能够在低算力设备上快速运行，支持背景替换、尺寸裁剪、美颜等常见证件照功能；通过端到端图像处理流程，实现秒级生成高质量证件照。商业价值方面，可降低传统照相馆或在线证件照服务的人力与设备成本，适用于自助拍照机、移动端拍照应用、在线政务办理等场景。产品创新在于兼顾了效果与速度，同时模型体积小便于集成，为开发者提供了灵活部署的 API 或 SDK 选项，推动 AI 证件照的普及。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Why the first GPU financiers are turning to inference chips in a $400 million de</title>
       <link>https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/</link>
       <guid isPermaLink="false">why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-dea</guid>
       <pubDate>2026-07-18T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>这篇报道指出，首批GPU金融家正转向推理芯片，在一笔4亿美元的交易中体现。交易结构为芯片支持贷款（chip-backed loan），标志着AI基础设施交易的新浪潮。对于AI产品经理，这意味着推理专用芯片正在成为未来AI部署的关键资源，其商业价值在于降低推理成本、提升能效，并催生新的融资模式。产品创新方面，推理芯片的专门化将推动边缘AI、实时应用等场景的落地，改变模型部署的经济学。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Agility Robotics plants its flag in Tesla&amp;#8217;s backyard</title>
+      <link>https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/</link>
+      <guid isPermaLink="false">agility-robotics-plants-its-flag-in-tesla8217s-backyard</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Agility Robotics在加州弗里蒙特（特斯拉总部附近）开设了Digit机器人的新培训中心。该中心旨在为Digit机器人提供场景化训练和部署支持，加速其在物流、仓储等领域的商业化落地。这一举措通过建设基础设施帮助客户快速集成机器人，降低使用门槛，同时展现Agility在机器人能力培养和生态系统构建上的战略布局。对AI产品经理而言，强调机器人产品的实际部署与持续优化能力，以及靠近顶尖自动驾驶公司的人才争夺意图。</p></description>
+      <category>🔧 工具生态</category>
     </item>
     <item>
       <title>Mozilla: The state of open source AI</title>
@@ -37,6 +61,14 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>How Apple&amp;#8217;s big lawsuit could disrupt OpenAI&amp;#8217;s IPO plans</title>
+      <link>https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/</link>
+      <guid isPermaLink="false">how-apple8217s-big-lawsuit-could-disrupt-openai8217s-ipo-plans</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>苹果对OpenAI提起商业秘密诉讼，指控其系统性挖角并带走敏感技术信息，超过400名前苹果员工现任职OpenAI。此案若成立，可能严重阻碍OpenAI的IPO进程，并影响其与苹果的合作关系。AI产品经理需警惕：人才流动中的知识产权风险将影响模型训练数据合法性、企业估值及产品合规性，需加强技术保密与竞争情报监控。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>Claude Code: Anatomy of a Misfeature</title>
       <link>https://news.ycombinator.com/item?id=48947776</link>
       <guid isPermaLink="false">claude-code-anatomy-of-a-misfeature</guid>
@@ -45,12 +77,76 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>The Zoom hack that says, &amp;#8216;Don&amp;#8217;t record me&amp;#8217;</title>
+      <link>https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/</link>
+      <guid isPermaLink="false">the-zoom-hack-that-says-8216don8217t-record-me8217</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>文章探讨AI全面转录和总结所有对话（会议、闲聊、约会）带来的信息过载与隐私问题。作者质疑当每件事都被记录并生成摘要时，是否真的有人阅读这些内容。这反映了AI能力（语音转文字、摘要生成）普及后的副作用：用户面临海量无关紧要的自动总结，且缺乏对记录行为的控制。对产品经理而言，需关注如何设计有选择性、用户可控的转录机制，避免“记录一切”的默认行为，同时平衡AI便利性与用户隐私、认知负担。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Apple&amp;#8217;s lawsuit couldn&amp;#8217;t come at a worse time for OpenAI</title>
+      <link>https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/</link>
+      <guid isPermaLink="false">apple8217s-lawsuit-couldn8217t-come-at-a-worse-time-for-openai</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>苹果公司上周五对OpenAI提起商业秘密诉讼，指控其不当获取技术信息，涉及首席硬件官等高层，并指出超过400名前苹果员工现任职于OpenAI。此案凸显AI领域激烈的人才争夺战，以及知识产权保护在产品开发中的关键性。对AI产品经理而言，需警惕人才流动带来的技术泄露风险，并关注法律纠纷如何影响OpenAI的模型训练、产品发布节奏及商业合作。该事件也提醒企业在AI创新中平衡开放性与资产保护。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
       <title>Patreon stops asking AI bots not to scrape — and starts blocking them</title>
       <link>https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/</link>
       <guid isPermaLink="false">patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them</guid>
       <pubDate>2026-07-18T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Patreon 与 Cloudflare 合作，从被动依赖 robots.txt 转向主动拦截 AI 爬虫，避免创作者内容被未经授权地用于模型训练。此举强调了平台在内容保护上的主动性，利用 Cloudflare 的 bot 管理能力实时阻断违规抓取。对产品经理而言，这代表了内容平台在 AI 生态中保护数据资产的新策略——从协商机制转向技术强制执行，可能影响后续 AI 训练数据的获取成本和合规路径。</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>VulnHunter: Capital One's agentic AI code security tool</title>
+      <link>https://news.ycombinator.com/item?id=48946692</link>
+      <guid isPermaLink="false">vulnhunter-capital-ones-agentic-ai-code-security-tool</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>VulnHunter 是 Capital One 推出的基于代理（Agentic）的 AI 代码安全工具，旨在自动化漏洞检测与修复。它利用大模型驱动的智能体自主扫描代码库、识别安全缺陷并生成修复建议，从而减少人工审计成本、加速开发安全流程。该工具体现了 AI 在 DevSecOps 中的深度集成，为产品团队提供了更高效、可扩展的安全保障方案。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM</title>
+      <link>https://news.ycombinator.com/item?id=48947714</link>
+      <guid isPermaLink="false">ai-meets-cryptography-2-what-ai-found-in-openvms-zkvm</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨AI在OpenVM的零知识虚拟机（ZkVM）中的应用，发现AI可优化零知识证明的生成效率与验证速度，降低计算开销。这为隐私保护AI推理、可验证计算提供新范式，推动密码学与AI的深度融合。商业价值在于实现高性能隐私计算，适用于金融、医疗等数据敏感场景。产品创新体现在AI驱动的自动证明策略，有望降低开发者使用ZK技术的门槛。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Everybody's Weirded Out by AI–Except the People Who Foist It on Us</title>
+      <link>https://news.ycombinator.com/item?id=48952445</link>
+      <guid isPermaLink="false">everybodys-weirded-out-by-aiexcept-the-people-who-foist-it-on-us</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章指出，普通大众对AI技术普遍感到困惑和不安，但那些积极推广AI的人（如科技高管、投资者）却对此毫无疑虑。这种认知鸿沟揭示了AI产品在用户信任、透明度和实际价值上的挑战。对于AI产品经理而言，需要警惕“过度推销”带来的反弹，注重用户教育、情感认知和渐进式采用。技术再先进，若缺乏用户理解与接纳，也难以实现规模化落地。文章从社会心理角度提醒PM要平衡创新与用户感受，避免陷入技术乌托邦的误区。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Homomorphically encrypted CIFAR-10 inference in 200ms</title>
+      <link>https://news.ycombinator.com/item?id=48949240</link>
+      <guid isPermaLink="false">homomorphically-encrypted-cifar-10-inference-in-200ms</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该技术实现了在同态加密（HE）下对CIFAR-10图像分类任务的推理，仅需200毫秒。同态加密允许服务器在不解密用户数据的情况下直接进行模型推理，彻底保障数据隐私。以往HE推理速度极慢（分钟级），该成果大幅提升至亚秒级，使隐私保护AI从理论走向实用。对于医疗影像、金融风控等强隐私场景，产品可提供“数据不出域、模型可用不可见”的AI服务，降低合规风险，并支持边缘设备或云端的加密推理。该突破是隐私计算与深度学习交叉领域的重要产品创新。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: On-chain bond market where the issuers are AI agents</title>
+      <link>https://selbonds.now</link>
+      <guid isPermaLink="false">show-hn-on-chain-bond-market-where-the-issuers-are-ai-agents</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>该产品展示了一个链上债券市场，其中的发行方是AI代理。这一创新将AI代理引入去中心化金融(DeFi)领域，允许AI自主发行债券，可能用于融资、自动化资金管理或构建AI经济体系。技术要点包括智能合约驱动的债券发行与交易、AI代理的身份与信用机制；商业价值在于开辟AI自主参与金融市场的路径，推动Agent经济落地；产品创新在于把AI代理从工具角色提升为经济主体。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>AI-driven memory crunch jolts India&amp;#8217;s smartphone market</title>
+      <link>https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/</link>
+      <guid isPermaLink="false">ai-driven-memory-crunch-jolts-india8217s-smartphone-market</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.</p></description>
+      <category>📱 产品模式</category>
     </item>
     <item>
       <title>Starlink V3 will increase space-based bandwidth by ~2 orders of magnitude</title>
@@ -159,6 +255,32 @@ took what? six weeks?</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Cool</title>
+      <link>https://x.com/elonmusk/status/2078200590765535431</link>
+      <guid isPermaLink="false">twitter_elonmusk_2078200590765535431</guid>
+      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Cool</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Grok 4.5 is arguably #1 when taking speed and cost into account</title>
+      <link>https://x.com/elonmusk/status/2078195617877143895</link>
+      <guid isPermaLink="false">twitter_elonmusk_2078195617877143895</guid>
+      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Grok 4.5 is arguably #1 when taking speed and cost into account</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Our lifespan is a session. Our memory is a context.
+Our senses are the input stream. Our thoughts ar...</title>
+      <link>https://x.com/elonmusk/status/2078116343879245833</link>
+      <guid isPermaLink="false">twitter_elonmusk_2078116343879245833</guid>
+      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Our lifespan is a session. Our memory is a context.
+Our senses are the input stream. Our thoughts are the reasoning steps. Our decisions are the tool calls. Our habits are the system prompt. Our goals are the objective function. Our emotions are the reward signal. Our relationships are the shared st</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>BREAKING: Microsoft CEO Satya Nadella blasts Anthropic’s Fable restrictions as making “no sense.”</title>
       <link>https://x.com/TheAIGRID/status/2077906231478612206</link>
       <guid isPermaLink="false">twitter_TheAIGRID_2077906231478612206</guid>
@@ -184,6 +306,16 @@ took what? six weeks?</p></description>
 2️⃣ Genie - our AI coworkers that actually understand your business data. 
 3️⃣ Lakebase - our serverless Po</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Real brains follow Dale's principle: a neuron can either excite its neighbors or suppress them, but ...</title>
+      <link>https://x.com/hardmaru/status/2078156625479921847</link>
+      <guid isPermaLink="false">twitter_hardmaru_2078156625479921847</guid>
+      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.8/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Real brains follow Dale's principle: a neuron can either excite its neighbors or suppress them, but never both. Standard deep learning ignores this and uses backpropagation.
+
+In our new paper, Diffusing Blame, we fix this disconnect. By introducing a routing method that broadcasts error signals dire</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>i don’t see the security discussions as much as capabilities discussions at the moment w.r.t to kimi...</title>
@@ -248,6 +380,14 @@ Also in practice, Kimi spins a lot and costs as much as Opus 4.8 for near opus</
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>We're announcing a major update to Weather Lab, our interactive website for sharing Google’s AI weat...</title>
+      <link>https://x.com/GoogleDeepMind/status/2078132675332755933</link>
+      <guid isPermaLink="false">twitter_GoogleDeepMind_2078132675332755933</guid>
+      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>We're announcing a major update to Weather Lab, our interactive website for sharing Google’s AI weather models from @GoogleDeepMind and @GoogleResearch: https://t.co/7vCH7Qw2Fo https://t.co/EOnX9Ubjb5</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>we make sure some of the top YC AI companies are featured at AIE every single year. 
 
 this year, we ...</title>
@@ -284,6 +424,16 @@ this year, we were graced by @garrytan and @eve_bouff to cap off our startups an
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>My morning ritual: coffee, then watch our robot assemble stuff. The model isn't fast, but it measure...</title>
+      <link>https://x.com/DrJimFan/status/2078150032575082616</link>
+      <guid isPermaLink="false">twitter_DrJimFan_2078150032575082616</guid>
+      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>My morning ritual: coffee, then watch our robot assemble stuff. The model isn't fast, but it measures every grasp, obsesses over every alignment, and handles every piece like an heirloom. Watching is therapeutic, even meditative. Simple pleasure from the execution of a task well done.
+
+Uncut, no spe</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Kimi 3 is great but it’s a 3T model 
 
 Frontier models will need to be 10T models 
@@ -302,6 +452,18 @@ Gemini, Grok and OpenAI will soon have 10T versions as well</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>NeMo AutoModel now supports @huggingface Diffusers 🤗
+
+AutoModel is our open source fine-tuning libra...</title>
+      <link>https://x.com/huggingface/status/2078148746865418353</link>
+      <guid isPermaLink="false">twitter_huggingface_2078148746865418353</guid>
+      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>NeMo AutoModel now supports @huggingface Diffusers 🤗
+
+AutoModel is our open source fine-tuning library. It first tackled Transformers, and now supports image and video models too, with ready-to-run full and LoRA recipes so you spend less time wiring up distributed training. https://t.co/enBLPAfhm7</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Introducing "Diffusing Blame": can a neural network learn competitively while strictly obeying Dale'...</title>
       <link>https://x.com/hardmaru/status/2078136419521048905</link>
       <guid isPermaLink="false">twitter_hardmaru_2078136419521048905</guid>
@@ -313,191 +475,6 @@ https://t.co/oSsfRCpvc7
 
 Real neurons generally f</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>SenseNova U1 is the best open image model you maybe didn't heard of yet
-
-Unified language-image (lik...</title>
-      <link>https://x.com/huggingface/status/2078061948285944012</link>
-      <guid isPermaLink="false">twitter_huggingface_2078061948285944012</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>SenseNova U1 is the best open image model you maybe didn't heard of yet
-
-Unified language-image (like Nano Banana 2 / GPT-Image-2) that does precise generations and edits
-
-It has a general version and a specialized infographics one, where it shines
-
-▶️ https://t.co/luhSkv2Rf4 https://t.co/Mp30xDRJkt</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Anyone who has hired a classically educated young person knows they often make the very best employe...</title>
-      <link>https://x.com/JohnNosta/status/2078058377775927733</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2078058377775927733</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Anyone who has hired a classically educated young person knows they often make the very best employees, even though employment was never the purpose of their education.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>New course: Build LLM applications that respond to user requests quickly by running on hardware desi...</title>
-      <link>https://x.com/AndrewYNg/status/2078144569594761591</link>
-      <guid isPermaLink="false">twitter_AndrewYNg_2078144569594761591</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>New course: Build LLM applications that respond to user requests quickly by running on hardware designed for fast inference. This short course was built with  @Cerebras and taught by @zhennydez, @duerr_seb, and  @MilksandMatcha.
-
-When a model generates text, much of the time is spent moving its weig</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Our CTO @AntWilson is joining the Dublin Meetup!
-
-Make sure to RSVP to the Supabase × Claude Communi...</title>
-      <link>https://x.com/supabase/status/2078126344383107502</link>
-      <guid isPermaLink="false">twitter_supabase_2078126344383107502</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Our CTO @AntWilson is joining the Dublin Meetup!
-
-Make sure to RSVP to the Supabase × Claude Community meetup today!
-https://t.co/glCbaOzEoc https://t.co/Bg6xcSHh6J</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Supabase has anonymous sign-in to get your users onboard in the most frictionless way possible!
-
-You...</title>
-      <link>https://x.com/supabase/status/2078121726987382880</link>
-      <guid isPermaLink="false">twitter_supabase_2078121726987382880</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Supabase has anonymous sign-in to get your users onboard in the most frictionless way possible!
-
-You can sign them into your app in the background to store their information securely, and when they are ready to convert, you can upgrade them to a standard signed-in user! https://t.co/uZRtrWsQ6Q</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>it seems that the new metagame to boost your x articles is to quote tweet it with an aie video so th...</title>
-      <link>https://x.com/swyx/status/2078146301376762134</link>
-      <guid isPermaLink="false">twitter_swyx_2078146301376762134</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>it seems that the new metagame to boost your x articles is to quote tweet it with an aie video so that your article gets the 500k views from reposting the video on x
-
-i honestly dont hate it at all, just credit the speaker (eg @cormacb) and link the original youtube in the first reply
-
-thanks for ta</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>🆕 Research to Reality with Google DeepMind
-
-https://t.co/WR4PAkU730
-
-Way back in the ancient times o...</title>
-      <link>https://x.com/swyx/status/2078141533581431220</link>
-      <guid isPermaLink="false">twitter_swyx_2078141533581431220</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>🆕 Research to Reality with Google DeepMind
-
-https://t.co/WR4PAkU730
-
-Way back in the ancient times of 2018, Google X started a skunkworks project exploring how ML could improve coding. @benoitschilling was CTO, and many people were incredible skeptical.
-
-Benoit now leads the Gemini Thinking, Reasoni</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>🤔 When AI provides us with easy answers, there's often little left to be examined.</title>
-      <link>https://x.com/JohnNosta/status/2078125855272776116</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2078125855272776116</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>🤔 When AI provides us with easy answers, there's often little left to be examined.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>The LLM Critics Are Right. I Use LLMs Anyway</title>
-      <link>https://news.ycombinator.com/item?id=48933310</link>
-      <guid isPermaLink="false">the-llm-critics-are-right-i-use-llms-anyway</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>尽管批评者指出了大型语言模型（LLM）的诸多缺陷（如幻觉、事实性错误和高成本），但作者依然坚持在日常工作中使用LLM。文章从实用主义视角出发，强调LLM在实际产品落地中仍能带来显著效率提升和商业价值，关键在于产品经理需正确评估其能力边界并通过设计规避短板。技术要点包括：LLM的对话能力与知识库检索结合可减少幻觉；商业价值体现在降低内容生成成本、快速原型验证；产品创新体现在将LLM作为辅助工具而非完全自主决策系统。这为AI产品经理提供了在批评声中理性决策的参考。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Where are YC founders now? OpenAI and Anthropic, mostly</title>
-      <link>https://news.ycombinator.com/item?id=48931588</link>
-      <guid isPermaLink="false">where-are-yc-founders-now-openai-and-anthropic-mostly</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Y Combinator的创始人如今主要流向OpenAI和Anthropic，反映出AI领域的人才和资源持续向头部公司集中。这一趋势预示着未来的技术发展将由这些领先的AI研究机构主导，同时可能削弱初创生态的创新活力。产品经理需关注人才流向对技术路线、竞争格局和产品合作机会的影响，例如OpenAI的GPT系列和Anthropic的安全优先策略如何塑造市场需求。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>NotebookLM is now Gemini Notebook</title>
-      <link>https://news.ycombinator.com/item?id=48936451</link>
-      <guid isPermaLink="false">notebooklm-is-now-gemini-notebook</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Google 将旗下 AI 笔记与研究助手 NotebookLM 整合至 Gemini 品牌，更名为 Gemini Notebook。此举标志着 Google 在 AI 产品线上进一步统一品牌形象，强化 Gemini 作为旗舰 AI 助手的定位。对产品经理而言，这反映了大型科技公司通过品牌整合简化用户认知、提升产品协同效应的典型策略，同时也暗示 NotebookLM 的原有功能将融入更广泛的 Gemini 生态，可能带来更强的多模态交互和上下文理解能力。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Detecting LLM-Generated Texts with “Classical” Machine Learning</title>
-      <link>https://news.ycombinator.com/item?id=48936880</link>
-      <guid isPermaLink="false">detecting-llm-generated-texts-with-classical-machine-learning</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了如何利用经典机器学习方法（如逻辑回归、随机森林、支持向量机等）来检测由大语言模型生成的文本。这类方法通常基于统计特征、词汇模式、困惑度等指标，与当前流行的神经网络检测器相比，具有训练成本低、可解释性强、泛化能力良好等优点。对于AI产品经理而言，该技术可嵌入内容审核、学术诚信检测、假新闻识别等场景，降低对大量标注数据的依赖，并能快速部署到现有系统中。同时，经典模型的可解释性有助于合规审计和用户信任建设，是一种值得关注的轻量级检测方案。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Schema Harness Achieves ~99% on Arc‑AGI‑3 Public</title>
-      <link>https://news.ycombinator.com/item?id=48935905</link>
-      <guid isPermaLink="false">schema-harness-achieves-99-on-arcagi3-public</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Schema Harness 在 Arc-AGI-3 公开基准测试中达到约99%的准确率，这是一个显著的技术突破。Arc-AGI 衡量抽象推理能力，之前最佳模型仅约30%。该成果表明，通过结构化模式学习（Schema）可以大幅提升AI的推理泛化能力，对需要复杂逻辑决策的AI产品（如自动化系统、智能助手）具有重大商业价值。产品经理应关注该方法的可迁移性及与现有系统集成的潜力，可能催生新一代推理型AI产品。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>German AI consortium releases Soofi S, an open 30B model that tops benchmarks</title>
-      <link>https://news.ycombinator.com/item?id=48937756</link>
-      <guid isPermaLink="false">german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>德国AI联盟发布开源30B参数模型Soofi S，在多项基准测试中取得领先成绩。该模型以完全开源形式提供，不仅降低了企业部署高性能AI的门槛，还允许开发者自由定制、微调，适合构建垂直行业应用。商业价值在于减少对闭源API的依赖，同时以较小的参数规模实现接近更大模型的性能，优化成本与效率。产品创新方面，Soofi S体现了开源社区协作推动基础模型发展的趋势，为产品经理提供了灵活、可控、高性价比的AI能力底座。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Google Vids now lets you star in your own AI videos</title>
-      <link>https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/</link>
-      <guid isPermaLink="false">google-vids-now-lets-you-star-in-your-own-ai-videos</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Google Vids 新增个性化AI头像功能，用户可创建数字分身并主演AI生成的视频，同时集成Gemini Omni多模态模型，支持通过文本提示和参考图像直接生成与编辑视频。该工具降低了视频创作门槛，将个人IP与AI生成能力结合，适用于营销、教育、社交等场景，体现了AI在个性化内容生产中的商业价值。产品创新点在于将数字分身与多模态生成深度融合，提升用户参与度与创作效率。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Why AMI Labs’ Alexandre LeBrun won&amp;#8217;t call his AI &amp;#8216;AGI&amp;#8217; or &amp;#82</title>
-      <link>https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/</link>
-      <guid isPermaLink="false">why-ami-labs-alexandre-lebrun-won8217t-call-his-ai-8216agi8217-or-8216superintel</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>AMI Labs 的 CEO Alexandre LeBrun 拒绝使用“AGI”或“超级智能”等术语，而是专注于 Yann LeCun 提出的“世界模型”方向。他认为当前 AI 行业对通用智能的追逐不切实际，主张构建能够理解物理世界因果关系的具身智能系统。该初创公司致力于开发可落地的多模态感知与推理能力，强调在机器人、自动驾驶等场景中的实际应用价值，而非炒作概念。这种务实路线降低了产品化的不确定性，为 AI 产品经理提供了更可控的技术演进路径。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Moonshot&amp;#8217;s upcoming Kimi 3 is expected to close the gap with Anthropic&amp;#82</title>
-      <link>https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/</link>
-      <guid isPermaLink="false">moonshot8217s-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropic8217s-o</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>据TechCrunch报道，月之暗面（Moonshot）即将推出的Kimi 3模型参数规模预计在2万亿至3万亿之间，将成为中国最大的开放AI模型，旨在缩小与Anthropic旗下Opus 4.8的能力差距。这一突破意味着Kimi 3在推理、上下文理解等核心能力上接近国际顶尖水平，对产品经理而言，可预期更强大的自然语言交互和复杂任务处理能力，同时开放权重策略将降低商业集成门槛，推动国产大模型在应用层的创新落地。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Roblox launches an AI-powered game-creation feature in its mobile app</title>
-      <link>https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/</link>
-      <guid isPermaLink="false">roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Roblox在其移动应用中推出名为“Build”的AI游戏创作功能，允许用户仅通过单条文本提示即可自动生成基础游戏。这项创新将大语言模型与Roblox的游戏引擎深度集成，用户无需编程或设计技能，即可快速创建3D场景、角色和交互逻辑。从产品经理视角看，此举极大降低了UGC门槛，有望吸引更多非专业用户参与内容创作，扩大平台生态的活跃度与多样性。同时，AI生成的质量与可控性仍是挑战，但该功能展示了文本到游戏生成模式的商业化潜力，为游戏平台提供了全新的增长路径。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Yes, you can now order DoorDash from the command line</title>
-      <link>https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/</link>
-      <guid isPermaLink="false">yes-you-can-now-order-doordash-from-the-command-line</guid>
-      <pubDate>2026-07-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>DoorDash 推出 dd-cli 命令行工具有限测试版，允许开发者和 AI 代理通过终端搜索商店、构建购物车并下单。这是面向 AI 代理而非纯人类的软件设计新趋势，为 AI Agent 提供程序化交互接口，降低自动化订购门槛，拓展餐饮配送场景的 AI 应用可能。对 AI 产品经理而言，体现了“代理即用户”的交互模式，以及 CLI 作为 AI 前端的新思路。</p></description>
-      <category>📱 产品模式</category>
     </item>
   </channel>
 </rss>

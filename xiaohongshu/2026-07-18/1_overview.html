@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8">
+<style>
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+    width: 1080px; height: 1440px;
+    font-family: -apple-system, "PingFang SC", "Helvetica Neue", sans-serif;
+    display: flex; align-items: center; justify-content: center;
+}
+
+body { background: #FFF5F5; }
+.card {
+    width: 960px;
+    background: white;
+    border-radius: 32px;
+    padding: 64px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.06);
+}
+.header {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-bottom: 40px;
+}
+.logo {
+    font-size: 30px; font-weight: 700; color: #FF385C;
+}
+.date {
+    font-size: 26px; color: #999;
+}
+.headline {
+    font-size: 46px; font-weight: 700; color: #1a1a1a;
+    line-height: 1.4; letter-spacing: -1px;
+    margin-bottom: 48px;
+    padding-bottom: 32px;
+    border-bottom: 3px solid #FF385C;
+}
+.item {
+    display: flex; align-items: flex-start; gap: 24px;
+    padding: 32px 0;
+    border-bottom: 1px solid #f5f5f5;
+}
+.item:last-child { border-bottom: none; }
+.item-num {
+    width: 56px; height: 56px;
+    background: #FF385C; color: white;
+    border-radius: 16px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 28px; font-weight: 700;
+    flex-shrink: 0;
+}
+.item-body { flex: 1; }
+.item-title {
+    font-size: 34px; font-weight: 600; color: #1a1a1a;
+    line-height: 1.4; margin-bottom: 14px;
+}
+.item-badge {
+    display: inline-block;
+    padding: 8px 16px;
+    border-radius: 10px;
+    color: white;
+    font-size: 22px;
+    font-weight: 500;
+}
+.footer {
+    margin-top: 48px;
+    text-align: center;
+    font-size: 24px;
+    color: #bbb;
+}
+</style></head>
+<body>
+<div class="card">
+    <div class="header">
+        <div class="logo">🔥 AI Radar 每日情报</div>
+        <div class="date">2026-07-18</div>
+    </div>
+    <div class="headline">3条AI重磅消息，条条影响你的工作</div>
+    
+        <div class="item">
+            <div class="item-num">1</div>
+            <div class="item-body">
+                <div class="item-title">苹果起诉OpenAI，AI人才争夺战升级</div>
+                <div class="item-badge" style="background:#FF385C">范式转变</div>
+            </div>
+        </div>
+        <div class="item">
+            <div class="item-num">2</div>
+            <div class="item-body">
+                <div class="item-title">隐私安全成红线，AI产品必须过这关</div>
+                <div class="item-badge" style="background:#00B894">瓶颈突破</div>
+            </div>
+        </div>
+        <div class="item">
+            <div class="item-num">3</div>
+            <div class="item-body">
+                <div class="item-title">AI智能体进化了，能自己赚钱了</div>
+                <div class="item-badge" style="background:#7C3AED">走向成熟</div>
+            </div>
+        </div>
+    <div class="footer">📊 完整情报见主页</div>
+</div>
+</body></html>

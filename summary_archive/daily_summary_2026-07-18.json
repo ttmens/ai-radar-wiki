@@ -2,107 +2,76 @@
   "daily_summary": {
     "date": "2026-07-18",
     "headline": "今日 AI 情报 · 2026-07-18",
-    "overview": "AI产业从能力竞赛转向生态合规博弈，隐私安全成为刚性约束",
+    "overview": "AI产品设计从功能堆砌转向信任驱动，合规与用户接受度成为关键瓶颈",
     "narratives": [
       {
-        "title": "AI产业从能力军备竞赛转向生态与合规博弈",
-        "body": "今日多条情报显示，AI行业的竞争焦点正从模型能力攀比转向人才争夺、知识产权诉讼与数据资产保护。苹果对OpenAI发起商业秘密诉讼并限制人才流动，Patreon主动拦截AI爬虫，标志着头部分歧加剧，生态壁垒正在建立。对产品经理而言，需警惕闭源与开源阵营的撕裂对技术供应链的影响，并提前布局合规与数据治理能力。",
+        "title": "AI产品设计从功能堆砌转向信任驱动",
+        "body": "今日情报密集反映了AI产品在医疗监控、会议转录、代码助手、奢侈品AI代理等场景中，因忽视用户心理、隐私和实际工作流而引发的信任危机。产品经理需从“能做什么”转向“用户愿不愿意用、敢不敢用”，将透明度、可控性和伦理合规作为核心设计要素。",
         "type": "paradigm_shift",
-        "pillar_key": "business"
-      },
-      {
-        "title": "隐私与安全成为AI产品设计的强制性约束",
-        "body": "同态加密推理突破200ms、零知识证明与AI结合、Patreon主动防护、Zoom转录泛滥引发反思——这些事件共同指向隐私安全已从锦上添花变为产品必选项。用户对默认记录一切的反感与技术可验证隐私的成熟，将驱动AI产品从“能力优先”转向“可控优先”。PM需重新设计数据流与用户授权机制。",
-        "type": "bottleneck",
-        "pillar_key": "capabilities"
-      },
-      {
-        "title": "AI代理从辅助工具演变为自主经济参与者",
-        "body": "Capital One的VulnHunter以代理模式自主修复安全漏洞，链上债券市场允许AI代理发行债券，表明AI正在从被动响应进化为拥有独立决策与经济行为的实体。产品经理需关注代理的信用、身份与责任界定，并探索代理经济中的新商业模式（如Agent-to-Agent交易）。",
-        "type": "maturation",
         "pillar_key": "patterns"
       }
     ],
     "insights": [
       {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "narrative_title": "AI产业从能力军备竞赛转向生态与合规博弈",
-        "insight": "AI产业从能力军备竞赛转向生态与合规博弈。该方向的具体信号：苹果向OpenAI员工发送法律信函并起诉商业秘密盗窃，可能阻碍OpenAI IPO；超过400名前苹果员工现任职OpenAI，人才流动激化生态对立；Patreon从协商转为技术拦截AI爬虫，内容平台强化数据主权；开源AI报告虽强调灵活性但面临闭源巨头挤压，生态碎片化加剧。",
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI产品设计从功能堆砌转向信任驱动",
+        "insight": "AI产品设计从功能堆砌转向信任驱动。该方向的具体信号：Kaiser护士抗议AI监控系统恶化护理环境，表明将效率监控强加于人性化场景会引发强烈抵制；Claude Code因过度依赖短时上下文、缺少纠错机制而沦为“功能堆砌”的反面案例；Vertu高价AI代理在电池和安全上的短板暴露了奢侈体验与基础信任的落差；Capital One的VulnHunter则是正向案例，通过自主安全代理自动化漏洞修复，在DevSecOps中建立了可信赖的辅助角色。这些信号共同指向：用户对AI的接受度取决于产品是否尊重其自主性、隐私和实际工作流程，产品经理必须优先设计可解释、可干预、可信任的交互机制。",
         "evidence": [
           {
-            "id": "apple-targets-dozens-of-openai-employees-with-legal-letters",
-            "title": "Apple targets dozens of OpenAI employees with legal letters",
-            "score": 0.56
+            "id": "kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-care-worse",
+            "title": "Kaiser护士抗议AI监控恶化护理环境",
+            "score": 0.63
           },
           {
-            "id": "how-apple8217s-big-lawsuit-could-disrupt-openai8217s-ipo-plans",
-            "title": "How Apple's big lawsuit could disrupt OpenAI's IPO plans",
-            "score": 0.48
+            "id": "claude-code-anatomy-of-a-misfeature",
+            "title": "Claude Code功能设计缺陷分析",
+            "score": 0.47
           },
           {
-            "id": "apple8217s-lawsuit-couldn8217t-come-at-a-worse-time-for-openai",
-            "title": "Apple's lawsuit couldn't come at a worse time for OpenAI",
-            "score": 0.45
+            "id": "vertu-wants-executives-to-pay-6880-for-an-ai-agent-here8217s-how-it-actually-per",
+            "title": "Vertu高价AI代理体验评测",
+            "score": 0.41
           },
+          {
+            "id": "vulnhunter-capital-ones-agentic-ai-code-security-tool",
+            "title": "Capital One的VulnHunter AI安全工具",
+            "score": 0.43
+          }
+        ]
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "AI产品设计从功能堆砌转向信任驱动",
+        "insight": "AI产品设计从功能堆砌转向信任驱动。该方向的具体信号：Patreon主动拦截AI爬虫保护创作者内容，标志内容数据资产从协商转向强制执行，反映平台对AI训练来源的不信任和管控升级；Mozilla开源AI报告揭示开源生态虽降低门槛但面临碎片化与维护挑战，透明度本身不足以建立信任，需配套质量标准；Agility Robotics在特斯拉后院建机器人培训中心，通过场景化培训降低集成风险，本质是构建用户对机器人可靠性的信任基础设施。生态层面正在形成“信任即壁垒”——能有效管理数据来源、保障模型质量和提供可靠部署支持的企业将获得竞争优势。",
+        "evidence": [
           {
             "id": "patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them",
-            "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+            "title": "Patreon主动拦截AI爬虫",
             "score": 0.45
           },
           {
             "id": "mozilla-the-state-of-open-source-ai",
-            "title": "Mozilla: The state of open source AI",
+            "title": "Mozilla开源AI现状报告",
             "score": 0.48
-          }
-        ]
-      },
-      {
-        "pillar": "🤖 技术能力",
-        "pillar_key": "capabilities",
-        "narrative_title": "隐私与安全成为AI产品设计的强制性约束",
-        "insight": "隐私与安全成为AI产品设计的强制性约束。该方向的具体信号：同态加密CIFAR-10推理首次进入200ms实用区间，使隐私保护AI从理论走向产品；AI在零知识虚拟机中发现优化路径，降低ZK工具开发门槛；Zoom全转录功能遭用户质疑‘记录一切’的副作用，提示产品需引入可控性；Patreon与Cloudflare合作主动拦截爬虫，技术强制执行替代协议协商。",
-        "evidence": [
-          {
-            "id": "the-zoom-hack-that-says-8216don8217t-record-me8217",
-            "title": "The Zoom hack that says, 'Don't record me'",
-            "score": 0.45
           },
           {
-            "id": "patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them",
-            "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-            "score": 0.45
-          }
-        ]
-      },
-      {
-        "pillar": "📱 产品模式",
-        "pillar_key": "patterns",
-        "narrative_title": "AI代理从辅助工具演变为自主经济参与者",
-        "insight": "AI代理从辅助工具演变为自主经济参与者。该方向的具体信号：Capital One的VulnHunter以Agentic AI自主扫描并修复代码安全漏洞，减少人工审计；链上债券市场允许AI代理作为发行方自主发行债券，推动Agent经济落地；Claude Code的失败案例则警示代理设计需避免过度依赖短上下文，平衡自主性与可靠性。",
-        "evidence": [
-          {
-            "id": "vulnhunter-capital-ones-agentic-ai-code-security-tool",
-            "title": "VulnHunter: Capital One's agentic AI code security tool",
-            "score": 0.43
-          },
-          {
-            "id": "show-hn-on-chain-bond-market-where-the-issuers-are-ai-agents",
-            "title": "Show HN: On-chain bond market where the issuers are AI agents",
-            "score": 0.33
-          },
-          {
-            "id": "claude-code-anatomy-of-a-misfeature",
-            "title": "Claude Code: Anatomy of a Misfeature",
-            "score": 0.47
+            "id": "agility-robotics-plants-its-flag-in-tesla8217s-backyard",
+            "title": "Agility Robotics在特斯拉附近建机器人培训中心",
+            "score": 0.48
           }
         ]
       }
     ],
-    "stats": "技术能力: 6 | 产品模式: 4 | 工具生态: 4 | 商业趋势: 3",
-    "total_items": 17,
-    "high_value_count": 17,
+    "stats": "技术能力: 8 | 产品模式: 5 | 工具生态: 4 | 商业趋势: 6",
+    "total_items": 20,
+    "high_value_count": 20,
     "all_today_ids": [
+      {
+        "id": "kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-care-worse",
+        "label": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse"
+      },
       {
         "id": "apple-targets-dozens-of-openai-employees-with-legal-letters",
         "label": "Apple targets dozens of OpenAI employees with legal letters"
@@ -114,6 +83,10 @@
       {
         "id": "zeyi-linhivisionidphotos",
         "label": "Zeyi-Lin/HivisionIDPhotos"
+      },
+      {
+        "id": "texas-wins-court-order-to-suspend-domain-name-for-violating-age-verification-law",
+        "label": "Texas wins court order to suspend domain name for violating age-verification law"
       },
       {
         "id": "why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-dea",
@@ -130,6 +103,10 @@
       {
         "id": "how-apple8217s-big-lawsuit-could-disrupt-openai8217s-ipo-plans",
         "label": "How Apple&#8217;s big lawsuit could disrupt OpenAI&#8217;s IPO plans"
+      },
+      {
+        "id": "databricks-hits-188b-valuation-extending-its-run-as-ai8217s-favorite-second-act",
+        "label": "Databricks hits $188B valuation, extending its run as AI&#8217;s favorite second"
       },
       {
         "id": "claude-code-anatomy-of-a-misfeature",
@@ -150,6 +127,18 @@
       {
         "id": "vulnhunter-capital-ones-agentic-ai-code-security-tool",
         "label": "VulnHunter: Capital One's agentic AI code security tool"
+      },
+      {
+        "id": "vertu-wants-executives-to-pay-6880-for-an-ai-agent-here8217s-how-it-actually-per",
+        "label": "Vertu wants executives to pay $6,880 for an AI agent — here&#8217;s how it actua"
+      },
+      {
+        "id": "painting-the-sides-of-railroad-rails-white-to-reduce-derailment",
+        "label": "Painting the sides of railroad rails white to reduce derailment"
+      },
+      {
+        "id": "faa-lets-boeing-sign-off-on-737-max-787-airworthiness-certificates-again",
+        "label": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again"
       },
       {
         "id": "ai-meets-cryptography-2-what-ai-found-in-openvms-zkvm",
@@ -173,6 +162,6 @@
       }
     ],
     "date_bj": "2026-07-18 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-07-18 06:01:23"
+    "generated_at_bj": "2026-07-18 12:01:16"
   }
 }
