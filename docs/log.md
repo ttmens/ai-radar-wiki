@@ -2988,3 +2988,9 @@
 ## [2026-07-18 18:01] sync v3 | 2 new | pillars: {'ecosystem': 2}
 - create: in-toto-a-framework-to-secure-the-integrity-of-software-supply-chains.md
 - create: neil-rimer-thinks-the-ai-money-is-coming-back-out.md
+
+## [2026-07-19 00:01] sync v3 | 4 new | pillars: {'capabilities': 4}
+- create: gpt-56-used-a-prompt-to-close-a-30-year-gap-in-convex-optimization.md
+- create: fable-5-vs-gpt-56-sol-on-an-np-hard-problem-does-goal-help.md
+- create: what-ai-did-to-stackoverflow-in-a-graph.md
+- create: why-do-ai-company-logos-look-like-buttholes-2025.md

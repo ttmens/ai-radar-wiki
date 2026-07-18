@@ -1,0 +1,26 @@
+{
+  "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+  "score": 128,
+  "comments": 48,
+  "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+  "hn_url": "https://news.ycombinator.com/item?id=48956879",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该内容对比了Fable 5与GPT-5.6 Sol在NP难问题上的表现，并测试了/goal提示策略是否提升求解效果。核心发现：Fable 5在特定NP难任务中可能优于GPT-5.6 Sol，且/goal指令能显著改善推理效率。对AI产品经理而言，这提示模型选型需关注特定能力基准（如复杂推理），而非仅看通用指标；同时，提示工程（如明确目标前缀）可作为低成本优化手段。商业价值在于为AI产品在求解规划、优化类问题时提供模型选择依据，并降低部署后的调优成本。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI模型基准测试",
+    "NP难问题",
+    "提示工程"
+  ],
+  "entities": [
+    "Fable",
+    "GPT",
+    "OpenAI"
+  ],
+  "patterns": [
+    "模型对比评估",
+    "目标引导提示"
+  ]
+}
