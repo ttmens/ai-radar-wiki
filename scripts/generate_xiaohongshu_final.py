@@ -43,6 +43,15 @@ EN_ZH_TRANSLATIONS = {
     "agentic ai": "AI智能体",
     "ai agents": "AI智能体",
     "ai agent": "AI智能体",
+    # 7/19 新增
+    "Setting up your spare Mac for Claude Code to control": "用闲置Mac搭建Claude Code远程控制节点",
+    "Kimi: Threat or menace?": "Kimi：威胁还是机遇？",
+    "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem": "Fable 5与GPT-5.6 Sol在NP难问题上的对决",
+    "What AI did to stackoverflow in a graph": "一张图看懂AI对Stack Overflow的冲击",
+    "Why do AI company logos look like buttholes?": "为什么AI公司的logo都长得差不多？",
+    "Best Model For The Use Case": "按使用场景选最佳模型",
+    "AI Mania Is Eviscerating Global Decision-Making": "AI狂热正在摧毁全球决策能力",
+    "Mayor Mamdani Says Landlords Can't Use AI Images to Advertis": "旧金山禁止房东用AI生成虚假租房广告",
 }
 
 
@@ -96,10 +105,20 @@ def simplify_narrative(title):
         ("AI代理从辅助工具演变为自主经济参与者", "AI智能体进化了，能自己赚钱了"),
         ("AI代理从辅助工具演变为能自己赚钱了", "AI智能体进化了，能自己赚钱了"),
         ("Vertu高价AI代理体验评测", "Vertu高价AI智能体体验评测"),
+        # LLM 生成的标题也需要翻译
+        ("Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem", "GPT-5.6 Sol攻克NP难题，模型能力分化加剧"),
+        ("AI能力分化与自主执行成为新范式", "AI能力分化：从通用大模型到任务专用代理"),
+        ("AI应用生态震荡：监管收紧与社区重构", "AI监管收紧，社区生态面临重构"),
+        ("AI产品设计趋同与决策依赖风险", "AI产品设计同质化，过度依赖成隐患"),
     ]
     for old, new in full_replacements:
         if old in title:
             return new
+    
+    # 如果标题主要是英文，尝试翻译
+    en_chars = sum(1 for c in title if c.isalpha() and ord(c) < 128)
+    if en_chars > len(title) * 0.3:
+        return translate_title(title)
     
     local = {
         "生态与合规博弈": "生态之战",
@@ -182,17 +201,39 @@ def generate_daily_post(data):
         simple = simplify_narrative(item["title"])
         body_lines.append(f"{'①②③④⑤'[i-1]} {simple}")
     
-    # 添加细节（从 insights 中提取）
+    # 添加细节（从 insights 中提取 evidence，融入多源数据和 KOL 观点）
     if insights:
         body_lines.append("")
         body_lines.append("具体信号 👇")
         body_lines.append("")
         
+        # 收集所有 evidence，优先展示 Twitter KOL 观点
+        all_evidence = []
         for insight in insights[:3]:
-            evidence = insight.get("evidence", [])
-            if evidence:
-                ev_zh = translate_title(evidence[0]["title"])
-                body_lines.append(f"· {ev_zh}")
+            for ev in insight.get("evidence", []):
+                all_evidence.append(ev)
+        
+        # 排序：Twitter 优先（KOL 观点更有吸引力）
+        all_evidence.sort(key=lambda e: (0 if e.get("source_type") == "twitter" else 1, -e.get("score", 0)))
+        
+        # 展示前5条
+        for ev in all_evidence[:5]:
+            source_type = ev.get("source_type", "unknown")
+            author = ev.get("author", "")
+            ev_title = ev.get("title", "")
+            
+            if source_type == "twitter" and author:
+                # Twitter KOL 观点：显示作者和翻译后的内容
+                title_zh = translate_title(ev_title)
+                body_lines.append(f"🐦 @{author}: {title_zh}")
+            else:
+                # 其他来源：翻译英文标题
+                title_zh = translate_title(ev_title)
+                source_label = {"hn": "HN", "techcrunch": "TC", "github": "GitHub", "papers": "论文"}.get(source_type, "")
+                if source_label:
+                    body_lines.append(f"· [{source_label}] {title_zh}")
+                else:
+                    body_lines.append(f"· {title_zh}")
     
     body_lines.append("")
     body_lines.append(generate_cta())

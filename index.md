@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-19 | Total pages: 2715
+> Last updated: 2026-07-19 | Total pages: 2716
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -1856,6 +1856,7 @@
 - [[what-happened-after-2k-people-tried-to-hack-my-ai-assistant.md]] What happened after 2k people tried to hack my AI assistant `pillar:patterns` `score:0.565`
 - [[what-happens-when-companies-become-too-ai-pilled.md]] What happens when companies become too AI-pilled? `pillar:patterns` `score:0.48`
 - [[what-if-remote-working-not-ai-is-to-blame-for-weak-junior-hiring.md]] What if remote working, not AI, is to blame for weak junior hiring? `pillar:patterns` `score:0.48`
+- [[whats-the-deal-with-all-the-random-weekly-quota-resets-for-agents-lately.md]] What's the deal with all the random weekly quota resets for agents lately? `pillar:patterns` `score:0.48`
 - [[who-does-what-team-topologies-for-the-agentic-platform.md]] Who Does What? Team Topologies for the Agentic Platform `pillar:patterns` `score:0.33`
 - [[who-manages-the-agents.md]] Who manages the agents? `pillar:patterns` `score:0.445`
 - [[why-do-ai-company-logos-look-like-buttholes-2025.md]] Why do AI company logos look like buttholes? (2025) `pillar:patterns` `score:0.495`

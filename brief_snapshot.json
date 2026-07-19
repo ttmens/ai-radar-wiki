@@ -1,8 +1,36 @@
 {
   "date": "2026-07-19",
-  "generated_at": "2026-07-19T12:01:48.038519+08:00",
-  "item_count": 9,
+  "generated_at": "2026-07-19T18:01:30.887170+08:00",
+  "item_count": 12,
   "items": [
+    {
+      "id": "twitter_bindureddy_2078687965149336024",
+      "label": "Best Model For The Use Case\n\ndesign - GPT 5.6 sol\nchat -  Flash 3.5\nagentic (simple) - Grok 4.5\nagen...",
+      "summary": "Best Model For The Use Case\n\ndesign - GPT 5.6 sol\nchat -  Flash 3.5\nagentic (simple) - Grok 4.5\nagentic (medium) - Sonnet 4.6 / Kimi\nagentic (hard) - Sol / Fable\npdf - Grok 4.5\nimage - GPT 2.0\nvideo - Seedance 2.0\nvoice - Hume / 11Labs\nmusic - Suno\n\nUse all the best models in one place and automatic",
+      "pm_score": 0.71,
+      "pillar": "patterns",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/bindureddy/status/2078687965149336024",
+      "date": "2026-07-19",
+      "stars": 21,
+      "score": 0.70855,
+      "comments": 5
+    },
+    {
+      "id": "twitter_weights_biases_2078646937344151624",
+      "label": "stared into the flatline until everything else converged out of respect.\n\ncredit: @beyarkay https://...",
+      "summary": "stared into the flatline until everything else converged out of respect.\n\ncredit: @beyarkay https://t.co/KI0e4CK8HT",
+      "pm_score": 0.7,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/weights_biases/status/2078646937344151624",
+      "date": "2026-07-19",
+      "stars": 5,
+      "score": 0.7021,
+      "comments": 0
+    },
     {
       "id": "gpt-56-used-a-prompt-to-close-a-30-year-gap-in-convex-optimization",
       "label": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
@@ -81,6 +109,17 @@
       "date": "2026-07-19"
     },
     {
+      "id": "whats-the-deal-with-all-the-random-weekly-quota-resets-for-agents-lately",
+      "label": "What's the deal with all the random weekly quota resets for agents lately?",
+      "summary": "近期AI代理（agent）频繁出现随机的每周配额重置现象，导致用户服务体验不稳定、业务连续性受损。产品经理需关注此问题背后的配额管理策略缺陷：重置机制不透明、缺乏用户通知、影响依赖长期上下文的场景。技术要点在于如何设计可预测的配额重置逻辑，或转向基于使用量的计费模型。商业价值上，稳定的配额策略能提升用户信任和留存率，降低支持成本。产品创新方向包括动态配额、用户可控的重置策略或本地化缓存方案。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48961157",
+      "date": "2026-07-19"
+    },
+    {
       "id": "speech-recognition-and-tts-in-less-than-500kb",
       "label": "Speech Recognition and TTS in less than 500kb",
       "summary": "该技术实现了在小于500KB的模型内完成语音识别（ASR）和文本转语音（TTS）任务，突破了传统大模型对算力和存储的依赖。对AI产品经理而言，这意味着可将语音交互能力嵌入IoT设备、可穿戴设备、车载系统等低资源终端，实现离线实时响应，同时提升数据隐私性和降低云端成本。产品创新点在于极小的模型体积与高效性能的平衡，有望推动语音交互在更多轻量级场景中普及。",
@@ -104,7 +143,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 4523,
-    "edges": 4850
+    "real_nodes": 4538,
+    "edges": 4865
   }
 }

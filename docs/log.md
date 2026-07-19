@@ -3003,3 +3003,6 @@
 ## [2026-07-19 12:01] sync v3 | 2 new | pillars: {'capabilities': 2}
 - create: mayor-mamdani-says-landlords-cant-use-ai-images-to-advertise.md
 - create: ai-mania-is-eviscerating-global-decision-making.md
+
+## [2026-07-19 18:01] sync v3 | 1 new | pillars: {'patterns': 1}
+- create: whats-the-deal-with-all-the-random-weekly-quota-resets-for-agents-lately.md

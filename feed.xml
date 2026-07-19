@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 19 Jul 2026 04:00:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 08:00:45 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -13,12 +13,58 @@
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
     <item>
+      <title>Best Model For The Use Case
+
+design - GPT 5.6 sol
+chat -  Flash 3.5
+agentic (simple) - Grok 4.5
+agen...</title>
+      <link>https://x.com/bindureddy/status/2078687965149336024</link>
+      <guid isPermaLink="false">twitter_bindureddy_2078687965149336024</guid>
+      <pubDate>2026-07-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Best Model For The Use Case
+
+design - GPT 5.6 sol
+chat -  Flash 3.5
+agentic (simple) - Grok 4.5
+agentic (medium) - Sonnet 4.6 / Kimi
+agentic (hard) - Sol / Fable
+pdf - Grok 4.5
+image - GPT 2.0
+video - Seedance 2.0
+voice - Hume / 11Labs
+music - Suno
+
+Use all the best models in one place and automatic</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>stared into the flatline until everything else converged out of respect.
+
+credit: @beyarkay https://...</title>
+      <link>https://x.com/weights_biases/status/2078646937344151624</link>
+      <guid isPermaLink="false">twitter_weights_biases_2078646937344151624</guid>
+      <pubDate>2026-07-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>stared into the flatline until everything else converged out of respect.
+
+credit: @beyarkay https://t.co/KI0e4CK8HT</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>GPT-5.6 used a prompt to close a 30-year gap in convex optimization</title>
       <link>https://news.ycombinator.com/item?id=48957779</link>
       <guid isPermaLink="false">gpt-56-used-a-prompt-to-close-a-30-year-gap-in-convex-optimization</guid>
       <pubDate>2026-07-19T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>GPT-5.6（推测为下一代模型）通过精心设计的提示（prompt）成功解决了凸优化领域长达30年的理论难题，标志着大语言模型在数学推理与优化算法上的重大突破。这一进展预示着AI不仅可以处理自然语言任务，还能直接攻克专业的数学与工程挑战，可能改变优化工具的开发范式，降低数学求解门槛，为金融、物流、机器学习等依赖凸优化的行业带来新的产品创新机会。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Mayor Mamdani Says Landlords Can't Use AI Images to Advertise</title>
+      <link>https://news.ycombinator.com/item?id=48962983</link>
+      <guid isPermaLink="false">mayor-mamdani-says-landlords-cant-use-ai-images-to-advertise</guid>
+      <pubDate>2026-07-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>旧金山市长London Breed（Mamdani为误传）宣布禁止房东在租房广告中使用AI生成的虚假图像，旨在防止误导租客、维护公平住房。该政策要求所有房源照片必须真实反映房屋实际状态，违反者将面临罚款。这一监管限制直接冲击了AI图像生成技术在房地产领域的应用，凸显了AI内容真实性和合规性的重要性。对AI产品经理而言，需在产品设计中内置内容审核与真实性验证机制，平衡技术能力与法规风险，避免因滥用生成式AI导致法律纠纷和用户体验受损。</p></description>
+      <category>🔧 工具生态</category>
     </item>
     <item>
       <title>What AI did to stackoverflow in a graph</title>
@@ -67,6 +113,14 @@
       <pubDate>2026-07-19T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>该技术实现了在小于500KB的模型内完成语音识别（ASR）和文本转语音（TTS）任务，突破了传统大模型对算力和存储的依赖。对AI产品经理而言，这意味着可将语音交互能力嵌入IoT设备、可穿戴设备、车载系统等低资源终端，实现离线实时响应，同时提升数据隐私性和降低云端成本。产品创新点在于极小的模型体积与高效性能的平衡，有望推动语音交互在更多轻量级场景中普及。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>AI Mania Is Eviscerating Global Decision-Making</title>
+      <link>https://news.ycombinator.com/item?id=48964185</link>
+      <guid isPermaLink="false">ai-mania-is-eviscerating-global-decision-making</guid>
+      <pubDate>2026-07-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>该文章标题指出“AI狂热正在摧毁全球决策能力”，暗示当前对AI的过度炒作和盲目应用可能导致决策质量下降。对于AI产品经理，核心启示是需警惕产品中AI能力的误用风险，强调在设计决策支持系统时避免过度依赖、引入可解释性机制并保留人工审核环节，以平衡效率与可靠性。商业价值在于识别AI的局限性，避免因追求技术热点而损害用户信任与业务成果。</p></description>
+      <category>📱 产品模式</category>
     </item>
     <item>
       <title>https://t.co/MU4QQ2Z1py</title>
@@ -236,6 +290,28 @@ Woke lobotomized models are the enemy of American competitiveness.</p></descript
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Every person living in a western nation needs to listen to every word of this
+
+Katherine Berbalsingh...</title>
+      <link>https://x.com/elonmusk/status/2078546257354907778</link>
+      <guid isPermaLink="false">twitter_elonmusk_2078546257354907778</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Every person living in a western nation needs to listen to every word of this
+
+Katherine Berbalsingh went to the University of Oxford and is Headmaster at Michaela Community School in London, UK
+
+She PERFECTLY explains the mass indoctrination into the narrative of oppressor and oppressed, and of hat</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Big updates next week :)</title>
+      <link>https://x.com/elonmusk/status/2078543365101216077</link>
+      <guid isPermaLink="false">twitter_elonmusk_2078543365101216077</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Big updates next week :)</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
       <title>🚨  Mix and Match Kimi K3 With Sol and Fable on ChatLLM
 
 Auto-route to the best model based on prompt...</title>
@@ -254,11 +330,31 @@ use the best model for your use-case or set up a smart router based on your favo
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>This is the Deepseek moment again but even crazier. OpenAI and Anthropic IPOs might be derailed if t...</title>
+      <link>https://x.com/TheAIGRID/status/2078393728444850218</link>
+      <guid isPermaLink="false">twitter_TheAIGRID_2078393728444850218</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.8/10</p><p><strong>类型:</strong> tweet</p><hr/><p>This is the Deepseek moment again but even crazier. OpenAI and Anthropic IPOs might be derailed if this keeps going on. 
+
+Also this proves how pointless Harvey’s second try at post-training is. They have again burnt a ton of investor money for nothing. 
+
+They should just host the latest, best perfor</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>this is who runs this account https://t.co/YB4AqAgO3z</title>
       <link>https://x.com/vercel/status/2078272387691508164</link>
       <guid isPermaLink="false">twitter_vercel_2078272387691508164</guid>
       <pubDate>2026-07-18T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.8/10</p><p><strong>类型:</strong> tweet</p><hr/><p>this is who runs this account https://t.co/YB4AqAgO3z</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>GPT-5.6 Sol on Cerebras at 750 Token/s will be a game changer. Projects finished 10x faster is worth...</title>
+      <link>https://x.com/TheAIGRID/status/2078592918978269247</link>
+      <guid isPermaLink="false">twitter_TheAIGRID_2078592918978269247</guid>
+      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.8/10</p><p><strong>类型:</strong> tweet</p><hr/><p>GPT-5.6 Sol on Cerebras at 750 Token/s will be a game changer. Projects finished 10x faster is worth premium pricing.  https://t.co/aDCOalxG7i</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -438,100 +534,6 @@ Anthropic is making their models more expensive, OpenAI is going the other way �
       <guid isPermaLink="false">twitter_ylecun_2078328114023719359</guid>
       <pubDate>2026-07-18T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>"Trump called for fixing vulnerabilities in electronic voting system" but he "has spent…his second term dismantling the election protections built up over previous years." He doesn't want a fair system. He wants an excuse for Republicans' likely loss. https://t.co/4WwoUVeld0</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>You either believe in centralization of power or broad diffusion of power.
-
-In one worldview, there ...</title>
-      <link>https://x.com/ylecun/status/2078429877854781799</link>
-      <guid isPermaLink="false">twitter_ylecun_2078429877854781799</guid>
-      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>You either believe in centralization of power or broad diffusion of power.
-
-In one worldview, there are some bad people in the world we've got to restrict everyone to stop them.
-
-In the other, you trust most people to use their kitchen knives to cut vegetables and punish the few bad people who stab </p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>@Ronald_vanLoon @JohnNosta @PsychToday @JohnNosta held a position for three years, then came to see ...</title>
-      <link>https://x.com/JohnNosta/status/2078517464527520225</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2078517464527520225</guid>
-      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>@Ronald_vanLoon @JohnNosta @PsychToday @JohnNosta held a position for three years, then came to see it differently and publicly revised it. That takes intellectual honesty, and it is one of the reasons he’s worth reading.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Activities of Daily Living (ADLs) are one of medicine's simplest and most powerful clinical tools. T...</title>
-      <link>https://x.com/JohnNosta/status/2078519721821966401</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2078519721821966401</guid>
-      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Activities of Daily Living (ADLs) are one of medicine's simplest and most powerful clinical tools. They measure independence not by intelligence or strength, but by whether a person can perform the ordinary tasks of everyday life.
-
-It made me wonder...
-
-What if AI requires its own version?
-
-👉Activit</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>The Mind I Said #AI Didn't Have
-by @JohnNosta @PsychToday
-
-Learn more: https://t.co/n45UYEn7Ri
-
-#Art...</title>
-      <link>https://x.com/JohnNosta/status/2078476155582030170</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2078476155582030170</guid>
-      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>The Mind I Said #AI Didn't Have
-by @JohnNosta @PsychToday
-
-Learn more: https://t.co/n45UYEn7Ri
-
-#ArtificialIntelligence #MachineLearning #ML https://t.co/Iw0SIug0cY</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>More than 5,000 students applied. Now it's time to meet the inaugural Databricks Student Fellows.
-
-S...</title>
-      <link>https://x.com/databricks/status/2078502592196337932</link>
-      <guid isPermaLink="false">twitter_databricks_2078502592196337932</guid>
-      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>More than 5,000 students applied. Now it's time to meet the inaugural Databricks Student Fellows.
-
-Selected for their campus leadership and hands-on technical expertise, these fellows will bring data and AI learning to their universities through workshops, hackathons, mentorship, and community build</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>A payment covers half an invoice and Qwen returns 30%, not a commitment. This dev's agent treats unc...</title>
-      <link>https://x.com/ThePracticalDev/status/2078480060646932946</link>
-      <guid isPermaLink="false">twitter_ThePracticalDev_2078480060646932946</guid>
-      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>A payment covers half an invoice and Qwen returns 30%, not a commitment. This dev's agent treats uncertainty as a first-class output.
-
-{ author: @dannwaneri }
-
-https://t.co/zDYXEQexUA</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>btw at current rate i think AEO will be fully responsible for $1m in my revenue next yr https://t.co...</title>
-      <link>https://x.com/swyx/status/2078581967768166591</link>
-      <guid isPermaLink="false">twitter_swyx_2078581967768166591</guid>
-      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>btw at current rate i think AEO will be fully responsible for $1m in my revenue next yr https://t.co/nTW949SsAy</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Randy Mantooth 1945-2026 - Los Angeles County Fire Museum https://t.co/NUHAgIZ7lX</title>
-      <link>https://x.com/JohnNosta/status/2078575138065281150</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2078575138065281150</guid>
-      <pubDate>2026-07-18T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Randy Mantooth 1945-2026 - Los Angeles County Fire Museum https://t.co/NUHAgIZ7lX</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>

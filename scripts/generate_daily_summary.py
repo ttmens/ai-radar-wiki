@@ -369,6 +369,8 @@ def generate_deep_fallback(items):
                 "score": round(item.get("pm_score", 0), 2),
                 "url": item.get("url", ""),
                 "reason": reason,
+                "source_type": item.get("source_type", "unknown"),
+                "author": item.get("author", ""),
             })
 
         insights.append({
@@ -596,6 +598,17 @@ def main():
     else:
         print("  ⚠️ No API key, using deep fallback analysis")
         summary = generate_deep_fallback(items)
+
+    # v3.15.0: Enrich LLM-generated evidence with source metadata from raw items
+    # LLM only returns id/title/score; we need source_type and author for downstream
+    item_lookup = {item.get("id", ""): item for item in items}
+    for ins in summary.get("insights", []):
+        for ev in ins.get("evidence", []):
+            ev_id = ev.get("id", "")
+            if ev_id in item_lookup:
+                raw = item_lookup[ev_id]
+                ev.setdefault("source_type", raw.get("source_type", "unknown"))
+                ev.setdefault("author", raw.get("author", ""))
 
     # Add post-processing dedup to all insights (LLM may produce duplicates)
     for ins in summary.get("insights", []):
