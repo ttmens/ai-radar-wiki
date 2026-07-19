@@ -1,0 +1,25 @@
+---
+title: Show HN: LoopGain – Stop agent loops with control theory, not max_iterations
+created: 2026-07-20
+updated: 2026-07-20
+type: entity
+pillar: patterns
+pm_score: 0.33
+tags: ["show-hn", "product", "patterns"]
+sources: ["raw/showhn/show-hn-loopgain-stop-agent-loops-with-control-theory-not-max_iterations.json"]
+---
+
+# Show HN: LoopGain – Stop agent loops with control theory, not max_iterations
+
+## 中文摘要
+LoopGain 提出一种基于控制理论而非预设最大迭代次数来终止AI代理循环的创新方法。传统上，代理循环通过设置硬性迭代上限避免无限执行，但会导致任务过早截断或资源浪费。LoopGain 利用控制理论中的反馈机制动态评估代理行为是否收敛或发散，从而实现更智能、更高效的循环终止。这对产品经理意味着：可降低代理运行成本、提升任务完成质量、避免人工干预。该技术适用于自动化流程、客服机器人、代码生成等需要持续推理的场景。
+
+## PM 关注指标
+- 🔥 HN Score: 16
+- 💬 Comments: 9
+- 🎯 PM Score: 0.33
+- 🏷️ Pillar: patterns
+
+## 链接
+- 🔗 HN: https://news.ycombinator.com/item?id=48919562
+- 🔗 原文: https://github.com/loopgain-ai/loopgain

@@ -3006,3 +3006,11 @@
 
 ## [2026-07-19 18:01] sync v3 | 1 new | pillars: {'patterns': 1}
 - create: whats-the-deal-with-all-the-random-weekly-quota-resets-for-agents-lately.md
+
+## [2026-07-20 00:02] sync v3 | 6 new | pillars: {'capabilities': 5, 'patterns': 1}
+- create: claude-code-uses-bun-written-in-rust-now.md
+- create: openai-reduces-codex-model-context-size-from-372k-to-272k.md
+- create: ollama-all-aboard-open-models.md
+- create: odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse.md
+- create: nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all.md
+- create: show-hn-loopgain-stop-agent-loops-with-control-theory-not-max_iterations.md

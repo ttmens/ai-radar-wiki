@@ -1,0 +1,24 @@
+{
+  "title": "Ollama: All Aboard Open Models",
+  "score": 33,
+  "comments": 13,
+  "url": "https://ollama.com/blog/all-aboard-open-models",
+  "hn_url": "https://news.ycombinator.com/item?id=48965880",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Ollama 是一个用于本地运行开源大语言模型的工具，提供类似 Docker 的体验，支持一键下载和运行多种模型（如 Llama、Mistral）。其核心优势在于数据隐私、低成本、离线可用，并简化了模型管理流程。对于产品经理，Ollama 降低了集成 AI 的门槛，尤其适合对数据安全敏感的 B 端场景，同时避免了对外部 API 的依赖，可实现更可控的产品迭代与定制化部署。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Local AI",
+    "Open Models",
+    "Model Management"
+  ],
+  "entities": [
+    "Ollama"
+  ],
+  "patterns": [
+    "Local-First AI",
+    "Self-Hosted LLM"
+  ]
+}

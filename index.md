@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-19 | Total pages: 2716
+> Last updated: 2026-07-20 | Total pages: 2722
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -171,6 +171,7 @@
 - [[claude-code-everything-you-can-configure-that-the-docs-dont-tell-you.md]] Claude Code – Everything You Can Configure That the Docs Don't Tell You `pillar:capabilities` `score:0.43`
 - [[claude-code-is-steganographically-marking-requests.md]] Claude Code Is Steganographically Marking Requests `pillar:capabilities` `score:0.295`
 - [[claude-code-sends-33k-tokens-before-reading-the-prompt-opencode-sends-7k.md]] Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k `pillar:capabilities` `score:0.6`
+- [[claude-code-uses-bun-written-in-rust-now.md]] Claude Code uses Bun written in Rust now `pillar:capabilities` `score:0.58`
 - [[claude-corps.md]] Claude Corps `pillar:capabilities` `score:0.355`
 - [[claude-cowork-expands-to-mobile-and-web.md]] Claude Cowork expands to mobile and web `pillar:capabilities` `score:0.515`
 - [[claude-design-system-prompt.md]] Claude Design System Prompt `pillar:capabilities` `score:0.48`
@@ -540,6 +541,7 @@
 - [[no-more-jetbrains-products-for-me.md]] No More JetBrains Products for Me `pillar:capabilities` `score:0.465`
 - [[noam-shazeer-joins-openai.md]] Noam Shazeer Joins OpenAI `pillar:capabilities` `score:0.565`
 - [[nobel-laureate-olga-tokarczuk-apparently-used-ai-to-write-her-latest-novel.md]] Nobel laureate Olga Tokarczuk apparently used AI to write her latest novel `pillar:capabilities` `score:0.38`
+- [[nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all.md]] Nonprofit Current AI is racing to build the World Wide Web of AI, free for all `pillar:capabilities` `score:0.445`
 - [[norways-2-petabytes-of-huawei-flash-storage-and-llm-training.md]] Norway's 2 petabytes of Huawei flash storage and LLM training `pillar:capabilities` `score:0.36`
 - [[notes-about-reading-messages-with-the-python-email-packages.md]] Notes about reading messages with the Python email packages `pillar:capabilities` `score:0.225`
 - [[notes-from-the-mistral-ai-now-summit-in-paris.md]] Notes from the Mistral AI Now Summit in Paris `pillar:capabilities` `score:0.58`
@@ -550,6 +552,7 @@
 - [[nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip.md]] Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip `pillar:capabilities` `score:0.445`
 - [[nvidia-is-a-victim-of-the-compute-marketplace-it-created.md]] Nvidia is a victim of the compute marketplace it created `pillar:capabilities` `score:0.305`
 - [[odysseus-self-hosted-ai-workspace.md]] Odysseus – self-hosted AI workspace `pillar:capabilities` `score:0.43`
+- [[ollama-all-aboard-open-models.md]] Ollama: All Aboard Open Models `pillar:capabilities` `score:0.33`
 - [[omen-ai8217s-plan-to-optimize-data-centers-is-all-wet.md]] Omen AI&#8217;s plan to optimize data centers is all wet `pillar:capabilities` `score:0.445`
 - [[ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts.md]] Ontario auditors find doctors' AI note takers routinely blow basic facts `pillar:capabilities` `score:0.565`
 - [[open-code-review-an-ai-powered-code-review-cli-tool.md]] Open Code Review – An AI-powered code review CLI tool `pillar:capabilities` `score:0.345`
@@ -567,6 +570,7 @@
 - [[openai-launches-its-new-family-of-models-with-gpt-56.md]] OpenAI launches its new family of models with GPT-5.6 `pillar:capabilities` `score:0.48`
 - [[openai-limits-gpt-56-rollout-after-government-request-says-restrictions-shouldnt.md]] OpenAI limits GPT-5.6 rollout after government request, says restrictions should `pillar:capabilities` `score:0.48`
 - [[openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members.md]] OpenAI mandates hardware-backed passkeys for Trusted Access Cyber members `pillar:capabilities` `score:0.345`
+- [[openai-reduces-codex-model-context-size-from-372k-to-272k.md]] OpenAI reduces Codex Model Context Size from 372k to 272k `pillar:capabilities` `score:0.53`
 - [[openai-unveils-its-first-custom-chip-built-by-broadcom.md]] OpenAI unveils its first custom chip, built by Broadcom `pillar:capabilities` `score:0.515`
 - [[openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-att.md]] OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection att `pillar:capabilities` `score:0.48`
 - [[openai8217s-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-mo.md]] OpenAI&#8217;s first hardware device is reportedly a screenless speaker that can `pillar:capabilities` `score:0.515`
@@ -1770,6 +1774,7 @@
 - [[show-hn-ktx-open-source-executable-context-layer-for-data-agents.md]] Show HN: Ktx – Open-source executable context layer for data agents `pillar:patterns` `score:0.295`
 - [[show-hn-let-agents-run-any-analysis-with-mixpanel-data-no-ui-required.md]] Show HN: Let agents run any analysis with Mixpanel data, no UI required `pillar:patterns` `score:0.33`
 - [[show-hn-libretto-pr-agents-automatically-fix-failing-playwright-scripts.md]] Show HN: Libretto PR agents – Automatically fix failing playwright scripts `pillar:patterns` `score:0.33`
+- [[show-hn-loopgain-stop-agent-loops-with-control-theory-not-max_iterations.md]] Show HN: LoopGain – Stop agent loops with control theory, not max_iterations `pillar:patterns` `score:0.33`
 - [[show-hn-microsoft-releases-flint-a-visualization-language-for-ai-agents.md]] Show HN: Microsoft releases Flint, a visualization language for AI agents `pillar:patterns` `score:0.53`
 - [[show-hn-mindwalk-replay-coding-agent-sessions-on-a-3d-map-of-your-codebase.md]] Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase `pillar:patterns` `score:0.38`
 - [[show-hn-mnemo-local-first-ai-memory-layer-for-any-llm-rust-sqlitepetgraph.md]] Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph) `pillar:patterns` `score:0.33`
@@ -2101,6 +2106,7 @@
 - [[nvidia-wants-to-cut-data-center-water-use-but-that8217s-not-the-same-as-fixing-a.md]] Nvidia wants to cut data center water use, but that&#8217;s not the same as fixi `pillar:ecosystem` `score:0.445`
 - [[nvidiatensorrt.md]] NVIDIA/TensorRT `pillar:ecosystem` `score:0.615`
 - [[ocaml-onboarding-introduction-to-the-dune-build-system.md]] OCaml Onboarding: Introduction to the Dune build system `pillar:ecosystem` `score:0.255`
+- [[odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse.md]] ‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’ `pillar:ecosystem` `score:0.41`
 - [[ollamaollama.md]] ollama/ollama `pillar:ecosystem` `score:0.615`
 - [[only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-n.md]] Only 16 percent of Americans think AI will have a positive impact on society, a `pillar:ecosystem` `score:0.445`
 - [[onnxonnx.md]] onnx/onnx `pillar:ecosystem` `score:0.615`

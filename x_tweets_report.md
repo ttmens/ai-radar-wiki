@@ -1,54 +1,54 @@
 # 🐦 X/Twitter AI KOL 动态
 
-**抓取时间**: 2026-07-19 09:01:24
+**抓取时间**: 2026-07-19 21:01:06
 
 **数据来源**: AI 领域关键意见领袖的 Twitter 动态
 
 
-**共筛选出 21 条 AI 相关推文**
+**共筛选出 22 条 AI 相关推文**
 
 
 ## 🔥 热门推文 (Top 10)
 
 1. **This is a new paradigm for interacting with Claude that is significantly more "inline" with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this "just work" (e.g. across tools, integrations, compute environments, memory, se...**
-   - 👍 23,087 | 🔁 1,903 | 💬 1,345 | 👁️ 7,910,586
+   - 👍 23,084 | 🔁 1,903 | 💬 1,345 | 👁️ 7,914,559
    - 📅 2026-06-24 06:26 | 🔗 https://x.com/karpathy/status/2069547676849557725
 
 2. **we did not have our best last 12 months ever, which is mostly my fault, but we are about to have our best 12 months to date. the team is doing amazing work and i think you’ll be very happy with what they’ve got cooking for you.  i am happy about this for many reasons, but most...**
-   - 👍 24,538 | 🔁 885 | 💬 2,236 | 👁️ 2,424,077
+   - 👍 24,566 | 🔁 887 | 💬 2,247 | 👁️ 2,452,421
    - 📅 2026-07-17 02:06 | 🔗 https://x.com/sama/status/2077817060068057493
 
-3. **i talk to chatgpt more than i type to it at this point  new voice model really crossed a threshold**
-   - 👍 14,011 | 🔁 414 | 💬 1,914 | 👁️ 1,026,830
+3. **Every person living in a western nation needs to listen to every word of this  Katherine Berbalsingh went to the University of Oxford and is Headmaster at Michaela Community School in London, UK  She PERFECTLY explains the mass indoctrination into the narrative of oppressor an...** [RT by @elonmusk]
+   - 👍 26,637 | 🔁 9,280 | 💬 636 | 👁️ 929,986
+   - 📅 2026-07-19 02:23 | 🔗 https://x.com/WallStreetApes/status/2078546257354907778
+
+4. **i talk to chatgpt more than i type to it at this point  new voice model really crossed a threshold**
+   - 👍 14,033 | 🔁 415 | 💬 1,920 | 👁️ 1,038,645
    - 📅 2026-07-17 03:47 | 🔗 https://x.com/sama/status/2077842579232895286
 
-4. **We're coming out of stealth.  We've built our first racks after a successful A0 tapeout, $1B+ in customer contracts, and $800m raised.  Early customer tests show us achieving SOTA throughput, latency, and power efficiency on inference workloads.  Our first racks ship this summ...** [RT by @karpathy]
-   - 👍 9,673 | 🔁 932 | 💬 648 | 👁️ 6,274,825
+5. **We're coming out of stealth.  We've built our first racks after a successful A0 tapeout, $1B+ in customer contracts, and $800m raised.  Early customer tests show us achieving SOTA throughput, latency, and power efficiency on inference workloads.  Our first racks ship this summ...** [RT by @karpathy]
+   - 👍 9,670 | 🔁 933 | 💬 649 | 👁️ 6,278,240
    - 📅 2026-06-30 23:00 | 🔗 https://x.com/Etched/status/2071972062202343590
 
-5. **“Loop engineering” is a hot buzzphrase after mentions of it by Boris Cherny (Claude Code’s creator) and Peter Steinberger (OpenClaw's creator) went viral on social media. Loops are now a key part of how we get AI agents to iterate at length to build software. In this letter, I...**
-   - 👍 8,430 | 🔁 1,627 | 💬 389 | 👁️ 647,577
+6. **“Loop engineering” is a hot buzzphrase after mentions of it by Boris Cherny (Claude Code’s creator) and Peter Steinberger (OpenClaw's creator) went viral on social media. Loops are now a key part of how we get AI agents to iterate at length to build software. In this letter, I...**
+   - 👍 8,433 | 🔁 1,629 | 💬 390 | 👁️ 648,325
    - 📅 2026-07-01 00:04 | 🔗 https://x.com/AndrewYNg/status/2071988145667928442
 
-6. **On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files.   What we have  found is that this most commonly occurs when: - Full access mode is enabled and codex is run without sandboxing protections, including without auto review being...** [RT by @sama]
-   - 👍 8,963 | 🔁 432 | 💬 719 | 👁️ 1,509,601
+7. **On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files.   What we have  found is that this most commonly occurs when: - Full access mode is enabled and codex is run without sandboxing protections, including without auto review being...** [RT by @sama]
+   - 👍 8,975 | 🔁 433 | 💬 720 | 👁️ 1,524,420
    - 📅 2026-07-16 13:43 | 🔗 https://x.com/thsottiaux/status/2077630111499882637
 
-7. **MARC ANDREESSEN WENT ON ROGAN FOR OVER 3 HOURS. HERE ARE THE 17 THINGS WORTH YOUR ATTENTION.  1. AGI is already here, in his view. He says the line got crossed about 3 months ago with GPT-5.5, Claude 4.6, Gemini 3, and Grok 4.3, and nobody noticed because the field moves too f...** [RT by @elonmusk]
-   - 👍 4,260 | 🔁 939 | 💬 388 | 👁️ 1,323,869
-   - 📅 2026-07-18 10:38 | 🔗 https://x.com/cyrilXBT/status/2078308274399834157
-
-8. **BREAKING: The last month has cemented Trump's status as the most corrupt president in American history. It's not even close.  CNN found that Trump’s money managers made at least 44 stock purchases in 21 companies within a week before he praised those companies, their executive...** [RT by @ylecun]
-   - 👍 3,607 | 🔁 1,800 | 💬 101 | 👁️ 64,718
-   - 📅 2026-07-18 09:30 | 🔗 https://x.com/MAGALieTracker/status/2078291367600570601
-
-9. **this is cool:  https://t.co/X4HEmFym68**
-   - 👍 2,927 | 🔁 191 | 💬 428 | 👁️ 516,273
+8. **this is cool:  https://t.co/X4HEmFym68**
+   - 👍 3,113 | 🔁 200 | 💬 461 | 👁️ 610,362
    - 📅 2026-07-18 06:23 | 🔗 https://x.com/sama/status/2078244242993164716
 
-10. **Over the last two weeks, both the U.S. Government and Anthropic took significant actions that demonstrated their power to control access to AI by restricting what others can do with frontier models. This has been one of those moments that, once seen, will be hard to unsee, and...**
-   - 👍 1,340 | 🔁 287 | 💬 174 | 👁️ 164,344
+9. **Over the last two weeks, both the U.S. Government and Anthropic took significant actions that demonstrated their power to control access to AI by restricting what others can do with frontier models. This has been one of those moments that, once seen, will be hard to unsee, and...**
+   - 👍 1,340 | 🔁 288 | 💬 174 | 👁️ 164,650
    - 📅 2026-06-20 02:34 | 🔗 https://x.com/AndrewYNg/status/2068039709126017356
+
+10. **@deanwball The "ungovernability" (and openness) of Linux and the Internet is precisely what has made their success.  The same will be true of open weight AI foundation models.** [RT by @ylecun]
+   - 👍 2,581 | 🔁 333 | 💬 66 | 👁️ 126,856
+   - 📅 2026-07-18 08:05 | 🔗 https://x.com/ylecun/status/2078269805166199064
 
 
 ---
@@ -60,103 +60,107 @@
 ### @AndrewYNg (5 条)
 
 1. **“Loop engineering” is a hot buzzphrase after mentions of it by Boris Cherny (Claude Code’s creator) and Peter Steinberger (OpenClaw's creator) went viral on social media. Loops are now a key part of how we get AI agents to iterate at length to build software. In this letter, I...**
-   - 👍 8,430 | 🔁 1,627 | 💬 389 | 👁️ 647,577
+   - 👍 8,433 | 🔁 1,629 | 💬 390 | 👁️ 648,325
    - 📅 2026-07-01 00:04 | 🔗 https://x.com/AndrewYNg/status/2071988145667928442
 
 2. **Over the last two weeks, both the U.S. Government and Anthropic took significant actions that demonstrated their power to control access to AI by restricting what others can do with frontier models. This has been one of those moments that, once seen, will be hard to unsee, and...**
-   - 👍 1,340 | 🔁 287 | 💬 174 | 👁️ 164,344
+   - 👍 1,340 | 🔁 288 | 💬 174 | 👁️ 164,650
    - 📅 2026-06-20 02:34 | 🔗 https://x.com/AndrewYNg/status/2068039709126017356
 
 3. **New course: Build LLM applications that respond to user requests quickly by running on hardware designed for fast inference. This short course was built with  @Cerebras and taught by @zhennydez, @duerr_seb, and  @MilksandMatcha.  When a model generates text, much of the time i...**
-   - 👍 1,026 | 🔁 102 | 💬 69 | 👁️ 106,048
+   - 👍 1,108 | 🔁 112 | 💬 74 | 👁️ 118,291
    - 📅 2026-07-17 23:47 | 🔗 https://x.com/AndrewYNg/status/2078144569594761591
 
 4. **New course: Add voice to your AI agents and applications, built with @VocalBridge (disclosure: an AI Fund portfolio company) and taught by its CEO @_ashwyn.  Voice applications historically required making a hard tradeoff: using fast voice-to-voice models that sacrifice reliab...**
-   - 👍 360 | 🔁 51 | 💬 55 | 👁️ 83,216
+   - 👍 360 | 🔁 52 | 💬 56 | 👁️ 83,394
    - 📅 2026-06-19 01:00 | 🔗 https://x.com/AndrewYNg/status/2067653578945359898
 
 5. **Adam Thierer had written the landmark book on "Permissionless Innovation." We get the best ideas when we don't have to ask the government in advance for permission to invent. Protecting open source AI is now a critical part of ensuring this.**
-   - 👍 282 | 🔁 46 | 💬 79 | 👁️ 96,155
+   - 👍 282 | 🔁 46 | 💬 79 | 👁️ 96,696
    - 📅 2026-07-10 01:31 | 🔗 https://x.com/AndrewYNg/status/2075271586400403567
 
 
 ### @DrJimFan (5 条)
 
 1. **We scaled a robot model natively to 8,000 timesteps of context, 5 minutes worth of muscle memory, with constant inference cost. Robot policies used to live their lives a few frames at a time (< 0.1 sec), instantly forgetting what just happened. We pushed to 3 orders of magnitu...**
-   - 👍 1,247 | 🔁 186 | 💬 59 | 👁️ 261,461
+   - 👍 1,249 | 🔁 186 | 💬 61 | 👁️ 265,611
    - 📅 2026-07-15 23:25 | 🔗 https://x.com/DrJimFan/status/2077414142340988962
 
 2. **My morning ritual: coffee, then watch our robot assemble stuff. The model isn't fast, but it measures every grasp, obsesses over every alignment, and handles every piece like an heirloom. Watching is therapeutic, even meditative. Simple pleasure from the execution of a task we...**
-   - 👍 418 | 🔁 37 | 💬 30 | 👁️ 47,857
+   - 👍 462 | 🔁 39 | 💬 36 | 👁️ 54,866
    - 📅 2026-07-18 00:09 | 🔗 https://x.com/DrJimFan/status/2078150032575082616
 
 3. **I’m very excited by this test time training work for robotic learning! It’s an awesome collaboration between @StanfordSVL and @NVIDIARobotics !** [RT by @DrJimFan]
-   - 👍 558 | 🔁 59 | 💬 23 | 👁️ 93,166
+   - 👍 561 | 🔁 59 | 💬 23 | 👁️ 94,261
    - 📅 2026-07-16 04:55 | 🔗 https://x.com/drfeifei/status/2077497317255737422
 
 4. **Blog and paper: https://t.co/WVMB9iibeW Presented to you from NVIDIA GEAR Lab.   Please check out Yunfan's technical deep dive!   https://t.co/7UF1UPdhyq**
-   - 👍 56 | 🔁 3 | 💬 3 | 👁️ 17,672
+   - 👍 57 | 🔁 3 | 💬 3 | 👁️ 17,868
    - 📅 2026-07-15 23:25 | 🔗 https://x.com/DrJimFan/status/2077414143901188195
 
 5. **How it's done:  https://t.co/DanOfnw4xk**
-   - 👍 23 | 🔁 1 | 💬 2 | 👁️ 11,239
+   - 👍 26 | 🔁 1 | 💬 4 | 👁️ 11,907
    - 📅 2026-07-18 00:11 | 🔗 https://x.com/DrJimFan/status/2078150496683213151
 
 
-### @elonmusk (1 条)
+### @elonmusk (2 条)
 
-1. **MARC ANDREESSEN WENT ON ROGAN FOR OVER 3 HOURS. HERE ARE THE 17 THINGS WORTH YOUR ATTENTION.  1. AGI is already here, in his view. He says the line got crossed about 3 months ago with GPT-5.5, Claude 4.6, Gemini 3, and Grok 4.3, and nobody noticed because the field moves too f...** [RT by @elonmusk]
-   - 👍 4,260 | 🔁 939 | 💬 388 | 👁️ 1,323,869
-   - 📅 2026-07-18 10:38 | 🔗 https://x.com/cyrilXBT/status/2078308274399834157
+1. **Every person living in a western nation needs to listen to every word of this  Katherine Berbalsingh went to the University of Oxford and is Headmaster at Michaela Community School in London, UK  She PERFECTLY explains the mass indoctrination into the narrative of oppressor an...** [RT by @elonmusk]
+   - 👍 26,637 | 🔁 9,280 | 💬 636 | 👁️ 929,986
+   - 📅 2026-07-19 02:23 | 🔗 https://x.com/WallStreetApes/status/2078546257354907778
+
+2. **Grok Build is becoming a complete environment for building, deploying and managing real-world applications  Its plugin marketplace brings the entire development stack into one connected workflow:  • Vercel for deployment • Sentry for monitoring • Chrome DevTools for debugging ...** [RT by @elonmusk]
+   - 👍 1,437 | 🔁 272 | 💬 235 | 👁️ 451,956
+   - 📅 2026-07-18 16:52 | 🔗 https://x.com/XFreeze/status/2078402450738893169
 
 
 ### @karpathy (2 条)
 
 1. **This is a new paradigm for interacting with Claude that is significantly more "inline" with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this "just work" (e.g. across tools, integrations, compute environments, memory, se...**
-   - 👍 23,087 | 🔁 1,903 | 💬 1,345 | 👁️ 7,910,586
+   - 👍 23,084 | 🔁 1,903 | 💬 1,345 | 👁️ 7,914,559
    - 📅 2026-06-24 06:26 | 🔗 https://x.com/karpathy/status/2069547676849557725
 
 2. **We're coming out of stealth.  We've built our first racks after a successful A0 tapeout, $1B+ in customer contracts, and $800m raised.  Early customer tests show us achieving SOTA throughput, latency, and power efficiency on inference workloads.  Our first racks ship this summ...** [RT by @karpathy]
-   - 👍 9,673 | 🔁 932 | 💬 648 | 👁️ 6,274,825
+   - 👍 9,670 | 🔁 933 | 💬 649 | 👁️ 6,278,240
    - 📅 2026-06-30 23:00 | 🔗 https://x.com/Etched/status/2071972062202343590
 
 
 ### @sama (4 条)
 
 1. **we did not have our best last 12 months ever, which is mostly my fault, but we are about to have our best 12 months to date. the team is doing amazing work and i think you’ll be very happy with what they’ve got cooking for you.  i am happy about this for many reasons, but most...**
-   - 👍 24,538 | 🔁 885 | 💬 2,236 | 👁️ 2,424,077
+   - 👍 24,566 | 🔁 887 | 💬 2,247 | 👁️ 2,452,421
    - 📅 2026-07-17 02:06 | 🔗 https://x.com/sama/status/2077817060068057493
 
 2. **i talk to chatgpt more than i type to it at this point  new voice model really crossed a threshold**
-   - 👍 14,011 | 🔁 414 | 💬 1,914 | 👁️ 1,026,830
+   - 👍 14,033 | 🔁 415 | 💬 1,920 | 👁️ 1,038,645
    - 📅 2026-07-17 03:47 | 🔗 https://x.com/sama/status/2077842579232895286
 
 3. **On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files.   What we have  found is that this most commonly occurs when: - Full access mode is enabled and codex is run without sandboxing protections, including without auto review being...** [RT by @sama]
-   - 👍 8,963 | 🔁 432 | 💬 719 | 👁️ 1,509,601
+   - 👍 8,975 | 🔁 433 | 💬 720 | 👁️ 1,524,420
    - 📅 2026-07-16 13:43 | 🔗 https://x.com/thsottiaux/status/2077630111499882637
 
 4. **this is cool:  https://t.co/X4HEmFym68**
-   - 👍 2,927 | 🔁 191 | 💬 428 | 👁️ 516,273
+   - 👍 3,113 | 🔁 200 | 💬 461 | 👁️ 610,362
    - 📅 2026-07-18 06:23 | 🔗 https://x.com/sama/status/2078244242993164716
 
 
 ### @ylecun (4 条)
 
-1. **BREAKING: The last month has cemented Trump's status as the most corrupt president in American history. It's not even close.  CNN found that Trump’s money managers made at least 44 stock purchases in 21 companies within a week before he praised those companies, their executive...** [RT by @ylecun]
-   - 👍 3,607 | 🔁 1,800 | 💬 101 | 👁️ 64,718
-   - 📅 2026-07-18 09:30 | 🔗 https://x.com/MAGALieTracker/status/2078291367600570601
+1. **@deanwball The "ungovernability" (and openness) of Linux and the Internet is precisely what has made their success.  The same will be true of open weight AI foundation models.** [RT by @ylecun]
+   - 👍 2,581 | 🔁 333 | 💬 66 | 👁️ 126,856
+   - 📅 2026-07-18 08:05 | 🔗 https://x.com/ylecun/status/2078269805166199064
 
-2. **"Open-weight models are inherently decelerationist"   .... this is a grossly incorrect statement with no supporting arguments or logic that is counter to the long arc of learnings of the industry over the last 50 years.   What a stupid thing to say.** [RT by @ylecun]
-   - 👍 1,297 | 🔁 107 | 💬 92 | 👁️ 92,789
-   - 📅 2026-07-18 23:48 | 🔗 https://x.com/martin_casado/status/2078507190185504793
+2. **🚨🚨🚨 BREAKING: In a fully corrupt & desperate move, Trump is forcing the Postmaster General to REFUSE delivery of mail-in ballots for the 2026 midterm elections to any state that does not comply with his so-called “election integrity” executive order.  Let that sink in… and let...** [RT by @ylecun]
+   - 👍 1,480 | 🔁 879 | 💬 119 | 👁️ 36,329
+   - 📅 2026-07-19 09:53 | 🔗 https://x.com/mjfree/status/2078659580993646608
 
-3. **"Trump called for fixing vulnerabilities in electronic voting system" but he "has spent…his second term dismantling the election protections built up over previous years." He doesn't want a fair system. He wants an excuse for Republicans' likely loss. https://t.co/4WwoUVeld0** [RT by @ylecun]
-   - 👍 54 | 🔁 31 | 💬 6 | 👁️ 12,469
-   - 📅 2026-07-18 11:56 | 🔗 https://x.com/KenRoth/status/2078328114023719359
+3. **Do you know what open weights model actually decelerate? The formation and power of oligopolies.    You know, those things which really do stifle innovation.** [RT by @ylecun]
+   - 👍 908 | 🔁 76 | 💬 39 | 👁️ 73,468
+   - 📅 2026-07-18 23:55 | 🔗 https://x.com/martin_casado/status/2078509069732913595
 
-4. **You either believe in centralization of power or broad diffusion of power.  In one worldview, there are some bad people in the world we've got to restrict everyone to stop them.  In the other, you trust most people to use their kitchen knives to cut vegetables and punish the f...** [RT by @ylecun]
-   - 👍 70 | 🔁 12 | 💬 12 | 👁️ 8,927
-   - 📅 2026-07-18 18:41 | 🔗 https://x.com/Dan_Jeffries1/status/2078429877854781799
+4. **In the off chance than anyone cares what I think on this topic:  (1)  the open-source software movement has been enormously beneficial to socity  (2) open-weight (&amp; better, open-data) LLMs will be essential for understanding this technology &amp; for it to be beneficial to...** [RT by @ylecun]
+   - 👍 401 | 🔁 55 | 💬 19 | 👁️ 62,225
+   - 📅 2026-07-19 00:39 | 🔗 https://x.com/MelMitchell1/status/2078519918790885754
 
 
 ---
@@ -164,6 +168,6 @@
 
 ## 📊 统计
 
-- 总推文数: 21
-- 总互动量 (点赞+转推): 116,272
-- 平均互动量: 5,536
+- 总推文数: 22
+- 总互动量 (点赞+转推): 148,844
+- 平均互动量: 6,765
