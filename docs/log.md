@@ -2999,3 +2999,7 @@
 - create: speech-recognition-and-tts-in-less-than-500kb.md
 - create: setting-up-your-spare-mac-for-claude-code-to-control-a-step-by-step-guide.md
 - create: kimi-threat-or-menace.md
+
+## [2026-07-19 12:01] sync v3 | 2 new | pillars: {'capabilities': 2}
+- create: mayor-mamdani-says-landlords-cant-use-ai-images-to-advertise.md
+- create: ai-mania-is-eviscerating-global-decision-making.md
