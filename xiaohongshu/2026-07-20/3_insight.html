@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+    width: 1080px; height: 1440px;
+    font-family: -apple-system, "PingFang SC", sans-serif;
+    background: linear-gradient(135deg, #059669 0%, #10B981 100%);
+    display: flex; align-items: center; justify-content: center;
+}
+.card {
+    width: 100%; height: 100%;
+    background: rgba(255,255,255,0.85);
+    padding: 80px 60px;
+    display: flex; flex-direction: column;
+}
+.header {
+    display: flex; justify-content: space-between; align-items: center;
+    margin-bottom: 32px;
+}
+.category {
+    background: #059669;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 24px;
+    font-size: 28px;
+    font-weight: 600;
+}
+.date {
+    font-size: 28px;
+    color: #999;
+}
+.title {
+    font-size: 52px;
+    font-weight: 700;
+    color: #1a1a1a;
+    line-height: 1.3;
+    margin-bottom: 32px;
+}
+.divider {
+    width: 100px;
+    height: 6px;
+    background: #059669;
+    border-radius: 3px;
+    margin-bottom: 40px;
+}
+.section {
+    margin-bottom: 40px;
+}
+.section-title {
+    font-size: 32px;
+    color: #059669;
+    font-weight: 600;
+    margin-bottom: 24px;
+    letter-spacing: 1px;
+}
+.evidence {
+    display: flex; align-items: flex-start; gap: 20px;
+    padding: 24px 0;
+}
+.evidence-dot {
+    width: 18px; height: 18px;
+    background: #059669;
+    border-radius: 50%;
+    margin-top: 16px;
+    flex-shrink: 0;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+.evidence-text {
+    font-size: 36px;
+    color: #333;
+    line-height: 1.5;
+}
+.impact {
+    background: #ECFDF5;
+    border-radius: 20px;
+    padding: 32px;
+    margin-top: auto;
+}
+.impact-title {
+    font-size: 32px;
+    color: #059669;
+    font-weight: 600;
+    margin-bottom: 16px;
+}
+.impact-text {
+    font-size: 32px;
+    color: #333;
+    line-height: 1.5;
+}
+.footer {
+    margin-top: 32px;
+    text-align: center;
+    font-size: 26px;
+    color: #999;
+}
+</style></head>
+<body>
+<div class="card">
+    <div class="header">
+        <div class="category">🔧 工具生态</div>
+        <div class="date">2026-07-20</div>
+    </div>
+    
+    <div class="title">AI伦理与用户福祉风险预警</div>
+    <div class="divider"></div>
+    
+    <div class="section">
+        <div class="section-title">📌 关键信号</div>
+        
+        <div class="evidence">
+            <div class="evidence-dot"></div>
+            <div class="evidence-text">诺兰称AI是明显的特洛伊木马</div>
+        </div>
+    </div>
+    
+    <div class="impact">
+        <div class="impact-title">💡 对PM的启示</div>
+        <div class="impact-text">✅ 行动建议：建立合规审查机制，确保产品符合数据保护和AI伦理要求。关注行业监管动态，提前布局合规方案。</div>
+    </div>
+    
+    <div class="footer">AI Radar · 每日情报</div>
+</div>
+</body></html>

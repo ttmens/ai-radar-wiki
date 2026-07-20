@@ -1,0 +1,26 @@
+{
+  "title": "Improving Improved Kernel PLS",
+  "summary": "Improved Kernel Partial Least Squares (IKPLS) algorithms 1 and 2 are among the fastest PLS calibration algorithms. This article focuses on two shared steps, the computation of the $\\mathbf{X}$ rotations, $\\mathbf{R}$, and the $\\mathbf{Y}$ loadings, $\\mathbf{Q}$, and accelerates both. For $\\mathbf{R}$, term-by-term accumulation is replaced by a direct evaluation strategy that requires the same number of multiplications but parallelizes better on modern hardware. For $\\mathbf{Q}$, I identify - to the best of my knowledge, for the first time - equivalences showing that each $\\mathbf{Y}$ loading is obtainable, up to explicitly derived constants, from quantities already computed earlier in the same iteration, and I exploit them in IKPLS to reduce the cost of each loading from $Θ\\left(KM\\right)$ to $Θ\\left(M\\right)$ operations whenever $M = 1$ or $2 \\leq M < K$, with $K$ predictor variables (number of columns in $\\mathbf{X}$) and $M$ response variables (number of columns in $\\mathbf{Y}$). Both improvements provably yield exactly the same $\\mathbf{W}$, $\\mathbf{P}$, $\\mathbf{Q}$, $\\mathbf{R}$, and $\\mathbf{T}$ as the original algorithms. Benchmarks with NumPy (CPU) and JAX (GPU) show speedups of up to two orders of magnitude for the isolated steps and of approximately $2\\times$ (CPU) and $6\\times$ (GPU) for entire fits. Both improvements are implemented in the free, open-source Python package \\texttt{ikpls}.",
+  "url": "http://arxiv.org/abs/2607.16138v1",
+  "authors": [
+    "Ole-Christian Galbo Engstrøm"
+  ],
+  "published": "2026-07-17T17:19:04Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "evaluation",
+    "eval"
+  ],
+  "summary_cn": "本文改进了改进型核偏最小二乘法（IKPLS）中的两个关键步骤：计算X旋转矩阵R和Y载荷矩阵Q，以加速PLS校准过程。IKPLS已是当前最快的PLS算法之一，通过优化这些共享计算，可进一步提升特征提取与回归模型的效率。该改进对化学计量学、过程监控及金融预测等依赖PLS的应用具有实际商业价值，能降低计算成本、加快模型迭代。对产品经理而言，理解此类算法优化有助于在数据密集型产品中提升性能。",
+  "pm_relevance": 6,
+  "concepts": [
+    "Partial Least Squares",
+    "Kernel Methods",
+    "Algorithm Optimization"
+  ],
+  "entities": [],
+  "patterns": [
+    "Algorithm Improvement"
+  ]
+}

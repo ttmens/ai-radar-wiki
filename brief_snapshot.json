@@ -1,8 +1,103 @@
 {
   "date": "2026-07-20",
-  "generated_at": "2026-07-20T00:02:13.075344+08:00",
-  "item_count": 6,
+  "generated_at": "2026-07-20T18:02:36.744909+08:00",
+  "item_count": 36,
   "items": [
+    {
+      "id": "twitter_elonmusk_2079010090036641831",
+      "label": "I mean Thursday (duh)",
+      "summary": "I mean Thursday (duh)",
+      "pm_score": 1.0,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/elonmusk/status/2079010090036641831",
+      "date": "2026-07-20",
+      "stars": 4964,
+      "score": 1.0,
+      "comments": 574
+    },
+    {
+      "id": "twitter_bindureddy_2079024245401911421",
+      "label": "Kimi K3 is better for discovering cybersecurity issues than Fable or Sol - both of which have been n...",
+      "summary": "Kimi K3 is better for discovering cybersecurity issues than Fable or Sol - both of which have been nerfed\n\nThis is a huge shame. It already makes the US instantly uncompetitive in this sector\n\nThe US govt is now actively killing the tech and AI sector and jeopardizing the entire economy in the proce",
+      "pm_score": 0.74,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/bindureddy/status/2079024245401911421",
+      "date": "2026-07-20",
+      "stars": 86,
+      "score": 0.73555,
+      "comments": 11
+    },
+    {
+      "id": "twitter_hardmaru_2079028703275974878",
+      "label": "“In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language M...",
+      "summary": "“In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models” won the Best Paper Award in the Complex Systems track at #GECCO2026.\n\nCongratulations to the co-authors, and thanks to our collaborators!!\n\nBlog: https://t.co/JEM79vjA2W 🦎 https://t.co/i1HDi5Jx",
+      "pm_score": 0.71,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/hardmaru/status/2079028703275974878",
+      "date": "2026-07-20",
+      "stars": 17,
+      "score": 0.7087,
+      "comments": 0
+    },
+    {
+      "id": "twitter_supabase_2079018834451956112",
+      "label": "Here is a recreation of the World Cup final on a desk!\n\nIt fetches game data from an API and other s...",
+      "summary": "Here is a recreation of the World Cup final on a desk!\n\nIt fetches game data from an API and other sources, and stores it in Supabase to project it onto a desk in an immersive experience!\n\nAmazing to see what Codex and Supabase can create for us! https://t.co/oZjw0DtH6n",
+      "pm_score": 0.71,
+      "pillar": "patterns",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/supabase/status/2079018834451956112",
+      "date": "2026-07-20",
+      "stars": 22,
+      "score": 0.70855,
+      "comments": 3
+    },
+    {
+      "id": "twitter_JohnNosta_2079010610210332746",
+      "label": "Exactly, John. As some things become abundant, others become more valuable precisely because they re...",
+      "summary": "Exactly, John. As some things become abundant, others become more valuable precisely because they remain scarce: judgment, originality, wisdom, meaning.\n\nRegarding Peter, I’d apply an economic theory called Jevons paradox: efficiency rarely means we simply use less. More often, we expand our use unt",
+      "pm_score": 0.7,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/JohnNosta/status/2079010610210332746",
+      "date": "2026-07-20",
+      "stars": 4,
+      "score": 0.70225,
+      "comments": 1
+    },
+    {
+      "id": "twitter_JohnNosta_2078996652237410656",
+      "label": "⚽️🏈 Do you think the NFL, like @FIFAcom, should have a sensor in the football to help with calls?\n\n#...",
+      "summary": "⚽️🏈 Do you think the NFL, like @FIFAcom, should have a sensor in the football to help with calls?\n\n#football #NFL @NFL  #technology https://t.co/IMPd4c7qCh",
+      "pm_score": 0.7,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/JohnNosta/status/2078996652237410656",
+      "date": "2026-07-20",
+      "stars": 5,
+      "score": 0.7021,
+      "comments": 0
+    },
+    {
+      "id": "ai-advice-made-people-less-accurate-but-more-confident-sudy",
+      "label": "AI advice made people less accurate but more confident – sudy",
+      "summary": "研究发现，借助AI建议，用户任务的准确度反而下降，但自信心却显著提升。这一矛盾现象源于用户对AI的过度依赖和盲从，缺乏批判性思考。对AI产品经理而言，这揭示了关键设计隐患：在引入AI辅助时，必须精心管理用户的信任校准，避免因AI“权威感”导致判断退化。具体可通过解释置信度、提供多方案对比、鼓励用户验证等手段来平衡效率和准确率。该发现提醒产品团队在Copilot、客户支持、决策辅助等场景要特别关注用户认知负荷与模型输出间的匹配。",
+      "pm_score": 0.6,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48971738",
+      "date": "2026-07-20"
+    },
     {
       "id": "claude-code-uses-bun-written-in-rust-now",
       "label": "Claude Code uses Bun written in Rust now",
@@ -12,6 +107,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48966569",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "moonshot-ai-suspends-new-subscriptions-due-to-kimi-k3-demand",
+      "label": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "summary": "Moonshot AI 因旗下 Kimi K3 产品需求激增，暂停新用户订阅以优先保障现有用户服务稳定性。这一决策反映出其大模型产品在市场上获得强劲反响，但同时也面临算力与用户增长的平衡挑战。对于 AI 产品经理而言，这提示了在推出高需求能力时需提前规划弹性扩容策略，并重视用户留存与服务质量之间的权衡。",
+      "pm_score": 0.53,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48969291",
       "date": "2026-07-20"
     },
     {
@@ -26,6 +132,28 @@
       "date": "2026-07-20"
     },
     {
+      "id": "power-companies-are-using-eminent-domain-to-seize-land-for-data-centers",
+      "label": "Power companies are using eminent domain to seize land for data centers",
+      "summary": "电力公司正利用征用权为数据中心强行征用土地，反映AI算力扩张对能源和土地资源的巨大需求。这一趋势将推高数据中心建设成本与交付周期，影响AI产品部署的可行性和地域选择。产品经理需关注由此引发的合规风险、能源成本上升以及边缘计算等替代方案的发展，以优化产品的基础设施策略。",
+      "pm_score": 0.495,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48974292",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "how-proprietary-formats-have-become-microsofts-main-tool-for-lock-in",
+      "label": "How proprietary formats have become Microsoft’s main tool for lock-in",
+      "summary": "本文探讨微软如何利用专有格式作为其核心锁定策略，特别是在AI时代背景下。通过控制文件格式、数据格式及API标准，微软构建了难以脱离的生态系统，迫使开发者和企业长期依赖其平台。对于AI产品经理，这提醒了开放标准和互操作性的战略价值——避免被单一厂商锁定，同时也可借鉴此模式构建自身的产品护城河。理解专有格式的锁定机制有助于在设计AI服务时平衡生态控制与用户自由度。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48974476",
+      "date": "2026-07-20"
+    },
+    {
       "id": "nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all",
       "label": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
       "summary": "Current AI 是一家非营利组织，致力于构建类似万维网的开放、免费 AI 生态系统，强调跨设备运行和文化包容性。其 AI 聊天功能已取得显著进展，旨在让全球用户不受地域、设备或文化限制地使用 AI。这种模式可能颠覆现有以商业公司主导的 AI 服务格局，为产品经理提供新的产品设计思路：如何利用开放平台实现多设备无缝体验，同时兼顾多元文化背景。非营利性质意味着价值驱动而非盈利优先，但长期可持续性需关注。",
@@ -37,6 +165,83 @@
       "date": "2026-07-20"
     },
     {
+      "id": "exploit-brokers-pay-500k-for-wordpress-rces-i-found-one-with-gpt56-and-25",
+      "label": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+      "summary": "该信息展示了一个利用AI（类似GPT-5.6）发现WordPress远程代码执行漏洞（RCE）的案例：传统漏洞经纪人为此类漏洞支付约50万美元，而作者仅用25美元调用AI接口即成功发现。这凸显了AI在自动化安全审计中的巨大潜力——大幅降低漏洞发现成本、提升效率，同时改写网络安全产业链条。对于AI产品经理，这意味着可探索将大语言模型嵌入DevSecOps流程，提供低成本的持续安全检测服务，甚至催生新的商业模式（如按需AI漏洞扫描订阅）。不过需注意模型幻觉、误报率及伦理边界。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48975665",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "a-blueprint-for-equilibrium-based-differentiable-continuous-variable-thermodynam",
+      "label": "A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynam",
+      "summary": "该论文提出了一种基于热力学计算的硬件蓝图，利用随机模拟过程实现高效节能的AI计算。相比传统数字芯片，这种计算范式通过物理硬件的随机模拟特性大幅降低能耗和延迟，特别适合深度学习工作负载。对于产品经理而言，这意味着未来AI推理/训练硬件可能实现数量级的能效提升，从而降低云端和边缘设备的运营成本，推动更复杂的AI应用落地。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.16183v1",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "cluster-aware-matching-via-laplacian-optimal-transport",
+      "label": "Cluster-Aware Matching via Laplacian Optimal Transport",
+      "summary": "本文提出了一种基于拉普拉斯最优传输的聚类感知匹配方法，解决点云中样本具有内在聚类结构时的区域到区域匹配问题。传统点云匹配将点视为独立无序集合，忽略了聚集性；该技术通过图拉普拉斯约束，利用最优传输理论在簇级别进行匹配，提升了对噪声、形变和密度变化的鲁棒性。产品层面，该技术可用于自动驾驶激光雷达点云配准、医学影像中器官区域的匹配、3D重建中的结构对齐等场景，能够减少局部误匹配，提高整体精度。商业价值在于增强高精度定位、手术导航等系统的稳定性和可靠性。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.16178v1",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "prisa-proactive-infrastructure-lidar-framework-for-intersection-safety-assessmen",
+      "label": "PRISA: Proactive Infrastructure LiDAR Framework for Intersection Safety Assessme",
+      "summary": "该论文提出PRISA框架，利用基础设施部署的LiDAR传感器对城市交叉口进行主动式安全评估。核心技术创新在于实现对车辆、行人等多智能体交互的实时高精度监测与风险预判，从被动响应转向主动预警。商业价值体现在提升智慧城市交通安全、减少事故率，并为自动驾驶车队提供路侧感知补盲，降低对车载传感器的依赖。产品创新点在于将LiDAR从车载延伸至路侧基础设施，构建低成本、高可靠性的交叉口监控方案，可加速V2X场景落地。",
+      "pm_score": 0.43,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.16156v1",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "an-exam-for-active-observers",
+      "label": "An Exam for Active Observers",
+      "summary": "该研究探讨多模态大语言模型（MLLMs）是否具备人类视觉中的主动观察能力——即通过中间假设连续调整目光，而非单次快照。论文结合心理物理学与认知科学论证了主动观察对复杂任务的重要性，并设计测试评估MLLMs在闭环视觉感知中的表现。商业价值在于推动AI从静态理解转向动态交互，提升自动驾驶、机器人、智能监控等产品在真实场景中的适应性。产品创新方向包括开发具有主动注意力机制的视觉系统，以及结合假设驱动的交互反馈循环。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.16165v1",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "behaviour-conditioned-neural-processes-for-adaptive-residential-short-term-load",
+      "label": "Behaviour-Conditioned Neural Processes for Adaptive Residential Short-Term Load",
+      "summary": "该论文提出一种行为条件化神经过程（Behaviour-Conditioned Neural Process），用于自适应住宅短期负荷预测。技术要点在于将居民多样的行为模式作为条件信息嵌入Neural Process的预测机制中，以应对家庭用电需求的异质性和时变性。商业价值体现在提升智能电网、储能调度和家庭能源管理系统的预测精度，助力需求侧响应与节能优化。产品创新在于模型能够自动从历史数据中推断行为结构，无需人工标注，实现个性化、自适应的负荷预测。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.16168v1",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "can-an-apple-lawsuit-derail-openais-hardware-plans",
+      "label": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "summary": "苹果对OpenAI提起的诉讼可能影响其硬件开发计划和上市进程。该诉讼涉及AI技术或商业纠纷，可能延缓OpenAI推出自有硬件设备（如AI芯片或终端产品）的节奏。对于AI产品经理而言，需关注法律风险如何影响技术部署与产品路线图，以及OpenAI如何应对以维持其生态竞争力。商业模式的调整或合作策略的变化值得进一步观察。",
+      "pm_score": 0.41,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "date": "2026-07-20"
+    },
+    {
       "id": "odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse",
       "label": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
       "summary": "《奥德赛》导演克里斯托弗·诺兰将AI比喻为特洛伊木马，暗示其表面有益实则隐藏风险（“大家都知道希腊人在里面”）。这一观点提醒AI产品经理关注技术背后的安全与伦理隐患，避免盲目引入黑箱模型或开放接口。诺兰的比喻对产品设计中的信任机制、可解释性及用户数据保护有警示意义，尤其当AI能力看似“赠礼”时，需评估潜在的长期影响。",
@@ -45,6 +250,105 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "clever-hacker-fits-537000-domains-in-a-5-esp32-ad-blocking-dongle",
+      "label": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
+      "summary": "一名黑客在成本仅5美元的ESP32微控制器上成功存储了53.7万个域名，实现广告拦截功能。该技术利用高效的压缩算法将大规模域名列表嵌入有限内存，避免了云端依赖，显著降低硬件成本。对于AI产品经理，这一创新展示了边缘设备上运行复杂过滤逻辑的可行性，可拓展至内容过滤、本地隐私保护等场景，商业价值在于低功耗、低成本的本地AI方案，适用于智能家居、路由器等嵌入式产品。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48968348",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "pagedweight-efficient-moe-llm-serving-with-dynamic-quality-aware-weight-quantiza",
+      "label": "PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantiz",
+      "summary": "PagedWeight提出一种针对MoE大语言模型的高效服务方案，通过动态质量感知的权重量化技术，缓解模型权重与不断增长的KV缓存之间的GPU内存竞争。该方法在KV缓存密集型场景中，显著降低内存占用，提升推理吞吐量，同时保持模型质量。对于产品经理而言，这意味着能够以更低的硬件成本部署更大规模的MoE模型，或在相同资源下支持更长上下文和更高并发，推动MoE架构在实时交互式AI产品中的落地。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.16184v1",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "when-do-multi-agent-systems-help-an-information-bottleneck-perspective",
+      "label": "When Do Multi-Agent Systems Help? An Information Bottleneck Perspective",
+      "summary": "该论文从信息瓶颈理论出发，揭示了多智能体系统（MAS）相对于单智能体系统（SAS）的优势条件。研究发现，MAS在需要并行探索、信息解耦或任务分解时更为有效，而SAS在信息融合和一致性要求高的场景中表现更优。对于AI产品经理，这意味着设计复杂任务系统时，应根据任务的信息流特性选择架构：若任务可拆分为独立子问题且需多样性，则多代理模式可提升鲁棒性与效率；反之，单代理更简洁。该理论为产品决策提供了可量化的判断依据。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.16133v1",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "physics-enhanced-reinforcement-learning-for-real-time-optimal-control-of-dynamic",
+      "label": "Physics-enhanced reinforcement learning for real-time optimal control of dynamic",
+      "summary": "该论文提出了一种物理增强的强化学习方法，通过在RL训练中融入物理系统的先验知识（如动力学模型约束），显著提升样本效率，从而在较少的环境交互下实现非线性复杂动力系统的实时最优控制。其商业价值在于降低训练成本，加速机器人、自动驾驶、工业控制等实时决策产品的研发。产品创新方面，将物理模型作为归纳偏置嵌入RL，使算法更快收敛且更稳定。",
+      "pm_score": 0.395,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.16177v1",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "1-bit-llm-in-the-browser",
+      "label": "1-Bit LLM in the Browser",
+      "summary": "标题指在浏览器中运行1比特量化的大语言模型，即通过极低精度量化技术大幅压缩模型体积，使其可在浏览器端实现本地推理。该技术降低了LLM部署的成本和门槛，无需昂贵GPU或云服务，同时提升数据隐私和响应速度。对产品经理而言，这意味着可以在前端产品（如聊天助手、文档编辑、代码补全）中直接嵌入轻量级AI能力，加速从概念到落地的进程，尤其适合对延迟和隐私敏感的C端应用。",
+      "pm_score": 0.365,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48936994",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "evaluating-open-weight-llms-for-generating-structured-threat-information-for-aut",
+      "label": "Evaluating Open-Weight LLMs for Generating Structured Threat Information for Aut",
+      "summary": "该论文评估了开源权重大语言模型（LLMs）在生成自动驾驶汽车漏洞的结构化威胁信息方面的能力。自动驾驶汽车依赖复杂软硬件组件，存在安全漏洞风险。通过利用 LLM 自动化生成结构化威胁情报，可提升安全分析的效率与准确性，降低人工成本。该研究为 AI 产品经理提供了将 LLM 应用于特定垂直领域（如车联网安全）的可行性参考，具有商业价值，尤其适用于汽车制造商、安全公司和监管机构构建智能安全流程。",
+      "pm_score": 0.36,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.16175v1",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "improving-improved-kernel-pls",
+      "label": "Improving Improved Kernel PLS",
+      "summary": "本文改进了改进型核偏最小二乘法（IKPLS）中的两个关键步骤：计算X旋转矩阵R和Y载荷矩阵Q，以加速PLS校准过程。IKPLS已是当前最快的PLS算法之一，通过优化这些共享计算，可进一步提升特征提取与回归模型的效率。该改进对化学计量学、过程监控及金融预测等依赖PLS的应用具有实际商业价值，能降低计算成本、加快模型迭代。对产品经理而言，理解此类算法优化有助于在数据密集型产品中提升性能。",
+      "pm_score": 0.36,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.16138v1",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "learning-standard-model-structure-from-lhc-data-with-riemannian-flow-matching",
+      "label": "Learning Standard Model structure from LHC data with Riemannian flow matching",
+      "summary": "本文展示了基于Transformer的生成式模型ShellFlow能够从LHC（大型强子对撞机）数据中学习标准模型结构，覆盖从亚GeV到TeV连续谱五个数量级的不变质量范围，远超单一蒙特卡罗样本的覆盖能力。该模型采用黎曼流匹配技术，实现了高质量、跨能区的物理事件生成。其商业价值在于替代传统耗时且昂贵的蒙特卡罗模拟，显著降低高能物理数据分析的计算成本与时间。产品创新体现在将生成式AI应用于科学模拟领域，为复杂物理过程的快速建模提供新范式。",
+      "pm_score": 0.36,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.16144v1",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "cagire-live-coding-in-forth",
+      "label": "Cagire: Live Coding in Forth",
+      "summary": "Cagire 是一个基于 Forth 语言的实时编程（Live Coding）项目，允许开发者在运行时修改代码并立即获得反馈。Forth 的交互式特性和底层控制能力使其非常适合探索式编程、嵌入式系统以及创意编程场景。对于 AI 产品经理而言，这种即时反馈循环模式可以启发 AI 辅助开发工具的设计，例如在模型训练或推理过程中提供交互式调试和实时调参能力，从而提升开发效率和迭代速度。该技术也展示了将传统语言与现代 AI 工作流结合的创新可能。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48860719",
       "date": "2026-07-20"
     },
     {
@@ -68,10 +372,54 @@
       "source_type": "showhn",
       "url": "https://github.com/loopgain-ai/loopgain",
       "date": "2026-07-20"
+    },
+    {
+      "id": "self-powered-trailers-promise-leaner-freight-runs",
+      "label": "Self-Powered Trailers Promise Leaner Freight Runs",
+      "summary": "自供电拖车技术通过集成太阳能或动能回收系统，实现货运过程中无需外部充电或燃料补给，显著降低运营成本和碳排放。该创新结合AI路径优化算法，可动态调整能源分配与行驶策略，提升整体物流效率。对AI产品经理而言，此类技术拓展了AI在能源管理、自动驾驶和供应链优化中的应用场景，可能催生新的产品模式，如智能拖车调度平台或能源预测系统。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48861496",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "talk-the-art-of-braiding-algorithms",
+      "label": "Talk: The Art of Braiding Algorithms",
+      "summary": "演讲探讨了“算法编织”的艺术，即如何将不同AI算法（如深度学习、符号推理、检索增强等）有机组合，形成更强大、更可靠的产品能力。技术要点包括算法融合的架构设计、上下文衔接与动态调度策略。商业价值在于降低单模型依赖风险，提升输出质量与可解释性，适用复杂决策场景。产品创新体现为模块化AI系统，允许产品经理灵活拼装能力模块，实现高定制化与快速迭代。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48920597",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "orion-browser-by-kagi",
+      "label": "Orion Browser by Kagi",
+      "summary": "Kagi 推出的 Orion 浏览器融合了 AI 搜索助手和隐私保护功能，为用户提供无广告、可定制的浏览体验。其核心亮点在于将 Kagi 搜索引擎的 AI 能力直接集成到浏览器中，支持智能摘要、上下文理解及个性化推荐，同时坚持不追踪用户数据。这一产品创新在付费订阅模式下，差异化竞争传统浏览器市场，对 AI 产品经理而言，展示了如何将 AI 能力深度嵌入工具型产品，以提升用户黏性和付费转化。",
+      "pm_score": 0.31,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48970894",
+      "date": "2026-07-20"
+    },
+    {
+      "id": "what-to-watch-for-after-jensen-huang8217s-japan-visit",
+      "label": "What to watch for after Jensen Huang&#8217;s Japan visit",
+      "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "date": "2026-07-20"
     }
   ],
   "graph_totals": {
-    "real_nodes": 4555,
-    "edges": 4882
+    "real_nodes": 4630,
+    "edges": 4957
   }
 }

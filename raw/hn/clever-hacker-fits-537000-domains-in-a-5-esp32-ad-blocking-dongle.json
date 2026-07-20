@@ -1,0 +1,24 @@
+{
+  "title": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
+  "score": 68,
+  "comments": 23,
+  "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
+  "hn_url": "https://news.ycombinator.com/item?id=48968348",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "一名黑客在成本仅5美元的ESP32微控制器上成功存储了53.7万个域名，实现广告拦截功能。该技术利用高效的压缩算法将大规模域名列表嵌入有限内存，避免了云端依赖，显著降低硬件成本。对于AI产品经理，这一创新展示了边缘设备上运行复杂过滤逻辑的可行性，可拓展至内容过滤、本地隐私保护等场景，商业价值在于低功耗、低成本的本地AI方案，适用于智能家居、路由器等嵌入式产品。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Edge AI",
+    "Embedded Systems",
+    "Ad-blocking"
+  ],
+  "entities": [
+    "ESP32"
+  ],
+  "patterns": [
+    "Local-First AI",
+    "Low-Cost Hardware AI"
+  ]
+}

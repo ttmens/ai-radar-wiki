@@ -1,0 +1,29 @@
+{
+  "title": "Cluster-Aware Matching via Laplacian Optimal Transport",
+  "summary": "In many applications of matching, the point clouds to be matched are not merely unstructured sets of points but rather samples from distributions with an intrinsic cluster structure. In such cases, as individual points are often interchangeable within a coherent region, finding a robust region-to-region alignment is more desirable than establishing a precise point-to-point correspondence. To this end, we propose a novel approach for cluster-aware matching based on Laplacian Optimal Transport (LapOT). The key idea is to regularize the optimal transport problem with quadratic Laplacian terms constructed from similarity graphs of the point clouds, which encourages the optimal coupling to respect the cluster structure of both point sets. We also introduce Refined Simultaneous Clustering (RSC), a method that leverages the cluster-aware coupling obtained from LapOT to produce consistent partitions across the point sets, which can overcome the limitations of independent clustering and yield more stable and interpretable results. We demonstrate the effectiveness of our approach through theoretical analysis and empirical experiments, showing that LapOT indeed produces cluster-aware matching that leads to more consistent and meaningful alignments between point clouds.",
+  "url": "http://arxiv.org/abs/2607.16178v1",
+  "authors": [
+    "Gabriel Samberg",
+    "YoonHaeng Hur",
+    "Yuehaw Khoo",
+    "Nir Sharon"
+  ],
+  "published": "2026-07-17T17:56:51Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "similarity",
+    "clustering"
+  ],
+  "summary_cn": "本文提出了一种基于拉普拉斯最优传输的聚类感知匹配方法，解决点云中样本具有内在聚类结构时的区域到区域匹配问题。传统点云匹配将点视为独立无序集合，忽略了聚集性；该技术通过图拉普拉斯约束，利用最优传输理论在簇级别进行匹配，提升了对噪声、形变和密度变化的鲁棒性。产品层面，该技术可用于自动驾驶激光雷达点云配准、医学影像中器官区域的匹配、3D重建中的结构对齐等场景，能够减少局部误匹配，提高整体精度。商业价值在于增强高精度定位、手术导航等系统的稳定性和可靠性。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Optimal Transport",
+    "Point Cloud Matching",
+    "Laplacian Regularization"
+  ],
+  "entities": [],
+  "patterns": [
+    "Structure-Aware AI"
+  ]
+}

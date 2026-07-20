@@ -53,6 +53,9 @@ EN_ZH_TRANSLATIONS = {
     # 新增翻译
     "stared into the flatline until everything else converged out of respec": "凝视平坦线直到一切收敛",
     "GPT-5.6 used a prompt to close a 30-year gap in convex optimization": "GPT-5.6用prompt解决凸优化30年难题",
+    "Claude Code uses Bun written in Rust now": "Claude Code改用Rust编写的Bun运行时",
+    "OpenAI reduces Codex Model Context Size from 372k to 272k": "OpenAI主动缩减Codex上下文长度",
+    "Ollama: All Aboard Open Models": "Ollama推动本地开源模型发展",
 }
 
 
@@ -136,6 +139,11 @@ def generate_hook():
         "💥 AI圈又出大事了！",
         "📢 今天AI圈发生了不少事，我帮你划重点 👇",
         "🔖 AI趋势速览，建议先收藏",
+        "🚨 紧急！AI行业又有新变化",
+        "💡 产品经理必看！今天的AI趋势",
+        "🎯 3个AI信号，预示行业方向",
+        "⚡ AI圈今日速报，错过等一周",
+        "🌟 今天最值得关注的AI动态",
     ]
     return random.choice(hooks)
 
@@ -148,6 +156,11 @@ def generate_cta():
         "💬 你们最想看哪个方向的深度解读？",
         "💬 你觉得AI会取代你的工作吗？",
         "🔖 建议先收藏，用到的时候找得到",
+        "💬 你最关心哪条？留言告诉我",
+        "🔖 收藏起来，以后一定用得上",
+        "💬 这些趋势你怎么看？欢迎讨论",
+        "🎯 觉得有用就点个赞吧",
+        "💬 你的行业受影响了吗？评论区说说",
     ]
     return random.choice(ctas)
 
@@ -184,6 +197,12 @@ def generate_daily_post(data):
         f"💥 {date_str} AI日报｜{len(all_items)}条情报速览",
         f"📢 AI人必看！今天{len(all_items)}条重磅消息",
         f"⚠️ {len(all_items)}条AI趋势，条条影响你的工作",
+        f"🚨 AI行业速报！{len(all_items)}个关键信号",
+        f"💡 产品经理必看！今日{len(all_items)}条AI动态",
+        f"🎯 {len(all_items)}个AI方向，决定未来走向",
+        f"⚡ 今日AI圈{len(all_items)}件大事，错过等一周",
+        f"🌟 今天最值得关注的{len(all_items)}个AI趋势",
+        f"📊 AI日报｜{len(all_items)}条情报，帮你划重点",
     ]
     title = random.choice(title_options)
     
@@ -358,6 +377,62 @@ body {{
 </body></html>"""
 
 
+def generate_pm_insight(insight):
+    """基于insight生成具体的、可操作的PM启示"""
+    narrative_title = insight.get("narrative_title", "")
+    pillar = insight.get("pillar", "")
+    evidence = insight.get("evidence", [])
+    
+    # 基于pillar和narrative_title生成针对性的PM启示
+    pillar_key = pillar.split()[-1] if pillar else ""
+    
+    # 技术能力类
+    if "技术能力" in pillar:
+        if "基础设施" in narrative_title or "轻量化" in narrative_title:
+            return "✅ 行动建议：评估现有模型部署方案，考虑采用更轻量的推理框架（如Ollama）降低延迟和成本。关注模型压缩和量化技术，为端侧部署做准备。"
+        elif "代理" in narrative_title or "智能体" in narrative_title:
+            return "✅ 行动建议：在产品中引入动态反馈机制替代固定迭代次数，使用控制理论优化Agent行为。设置合理的超时和终止条件，避免资源浪费。"
+        elif "模型" in narrative_title or "GPT" in narrative_title:
+            return "✅ 行动建议：建立多模型评估体系，按场景选择最优模型。关注模型上下文长度的实际效果，而非仅看参数大小。"
+        else:
+            return "✅ 行动建议：持续关注技术趋势，评估新技术对产品架构的影响。建立技术雷达，定期review技术选型。"
+    
+    # 产品模式类
+    elif "产品模式" in pillar:
+        if "控制" in narrative_title or "反馈" in narrative_title:
+            return "✅ 行动建议：重新设计Agent产品的交互流程，引入用户反馈闭环。设置可调节的参数，让用户控制AI行为边界。"
+        elif "信任" in narrative_title or "伦理" in narrative_title:
+            return "✅ 行动建议：在产品设计中优先考虑可解释性和透明度。建立用户信任机制，如清晰的AI决策说明、可追溯的操作记录。"
+        elif "用户福祉" in narrative_title:
+            return "✅ 行动建议：评估产品对用户行为的影响，避免过度依赖和成瘾设计。引入健康使用提醒，平衡参与度和用户长期福祉。"
+        else:
+            return "✅ 行动建议：深入分析用户行为数据，识别产品中的摩擦点。优化交互流程，提升用户体验和留存率。"
+    
+    # 工具生态类
+    elif "工具生态" in pillar:
+        if "开放" in narrative_title or "开源" in narrative_title:
+            return "✅ 行动建议：评估开源替代方案，降低对商业API的依赖。建立技术栈的灵活性，避免供应商锁定。"
+        elif "伦理" in narrative_title or "法律" in narrative_title:
+            return "✅ 行动建议：建立合规审查机制，确保产品符合数据保护和AI伦理要求。关注行业监管动态，提前布局合规方案。"
+        else:
+            return "✅ 行动建议：关注工具生态变化，评估对现有技术栈的影响。建立工具评估体系，及时替换过时或风险高的工具。"
+    
+    # 商业趋势类
+    elif "商业趋势" in pillar:
+        if "供需" in narrative_title or "瓶颈" in narrative_title:
+            return "✅ 行动建议：建立弹性扩容机制，避免需求激增导致服务中断。多元化供应商策略，降低单一依赖风险。"
+        elif "法律" in narrative_title or "诉讼" in narrative_title:
+            return "✅ 行动建议：评估法律风险对产品路线图的影响。建立法务审查流程，提前规避潜在的法律纠纷。"
+        elif "商业化" in narrative_title or "变现" in narrative_title:
+            return "✅ 行动建议：优化商业模式，平衡用户增长和盈利能力。探索多元化收入来源，降低单一变现模式风险。"
+        else:
+            return "✅ 行动建议：密切关注市场动态，调整产品策略。建立竞品监控机制，及时响应市场变化。"
+    
+    # 默认启示
+    else:
+        return "✅ 行动建议：深入分析这一趋势对产品的具体影响，制定应对策略。与团队讨论，形成共识和行动计划。"
+
+
 def generate_card_html_insight_from_data(date_str, insight, index):
     """从 insight 数据生成洞察卡片 HTML（小红书爆款风格 - 高饱和度渐变）"""
     pillar = insight.get("pillar", "")
@@ -365,6 +440,9 @@ def generate_card_html_insight_from_data(date_str, insight, index):
     narrative_title = insight.get("narrative_title", "")
     simple_title = simplify_narrative(narrative_title)
     evidence = insight.get("evidence", [])
+    
+    # 生成具体的PM启示
+    pm_insight = generate_pm_insight(insight)
     
     evidence_html = ""
     for ev in evidence[:3]:
@@ -498,7 +576,7 @@ body {{
     
     <div class="impact">
         <div class="impact-title">💡 对PM的启示</div>
-        <div class="impact-text">这条趋势对你的产品有什么启发？欢迎评论区分享你的看法～</div>
+        <div class="impact-text">{pm_insight}</div>
     </div>
     
     <div class="footer">AI Radar · 每日情报</div>

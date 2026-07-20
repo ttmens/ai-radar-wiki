@@ -1,0 +1,30 @@
+{
+  "title": "A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing",
+  "summary": "To address the escalating energy and latency demands of machine-learning workloads, we introduce a blueprint for an energy-efficient and fast thermodynamic computing stack that leverages stochastic analog processes in physical hardware. In this work, we focus on energy-based thermodynamic computing where the stochastic process is well described by Langevin dynamics with tunable energy potentials. The implementation of such potentials in physical hardware enables us to generate and sample from basic parameterized energy-based models. We demonstrate how to construct and train popular classes of machine learning models based on these hardware-native energy-based models, using the framework of probabilistic graphical models. We analyze the runtime and energy consumption of different models in this thermodynamic paradigm based on theoretical considerations and numerical studies. As a preliminary experimental realization of such hardware, we present our stochastic analog superconducting circuits driven by thermal noise. Together, these results outline a path toward energy-efficient thermodynamic hardware for probabilistic machine learning.",
+  "url": "http://arxiv.org/abs/2607.16183v1",
+  "authors": [
+    "Owen Lockwood",
+    "Jérémy Béjanin",
+    "Joost Bus",
+    "Christopher Chamberland",
+    "Patrick Huembeli"
+  ],
+  "published": "2026-07-17T17:57:49Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "latency",
+    "parameter"
+  ],
+  "summary_cn": "该论文提出了一种基于热力学计算的硬件蓝图，利用随机模拟过程实现高效节能的AI计算。相比传统数字芯片，这种计算范式通过物理硬件的随机模拟特性大幅降低能耗和延迟，特别适合深度学习工作负载。对于产品经理而言，这意味着未来AI推理/训练硬件可能实现数量级的能效提升，从而降低云端和边缘设备的运营成本，推动更复杂的AI应用落地。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Thermodynamic Computing",
+    "Energy-Efficient AI Hardware",
+    "Stochastic Analog Computing"
+  ],
+  "entities": [],
+  "patterns": [
+    "Hardware-Software Co-design"
+  ]
+}

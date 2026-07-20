@@ -3014,3 +3014,12 @@
 - create: odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse.md
 - create: nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all.md
 - create: show-hn-loopgain-stop-agent-loops-with-control-theory-not-max_iterations.md
+
+## [2026-07-20 18:02] sync v3 | 12 new | pillars: {'capabilities': 12}
+- create: exploit-brokers-pay-500k-for-wordpress-rces-i-found-one-with-gpt56-and-25.md
+- create: sealed-tomb-filled-with-paintings-and-inscriptions-discovered-in-egypt.md
+- create: self-powered-trailers-promise-leaner-freight-runs.md
+- create: 1-bit-llm-in-the-browser.md
+- create: talk-the-art-of-braiding-algorithms.md
+- create: how-proprietary-formats-have-become-microsofts-main-tool-for-lock-in.md
+- create: power-companies-are-using-eminent-domain-to-seize-land-for-data-centers.md

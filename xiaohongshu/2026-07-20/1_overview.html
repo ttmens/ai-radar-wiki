@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+    width: 1080px; height: 1440px;
+    font-family: -apple-system, "PingFang SC", sans-serif;
+    background: linear-gradient(135deg, #FF385C 0%, #FF6B8A 100%);
+    display: flex; align-items: center; justify-content: center;
+}
+.card {
+    width: 100%; height: 100%;
+    background: white;
+    padding: 80px 60px;
+    display: flex; flex-direction: column;
+}
+.header {
+    display: flex; justify-content: space-between; align-items: center;
+    margin-bottom: 40px;
+}
+.logo {
+    font-size: 36px; font-weight: 700; color: #FF385C;
+}
+.date {
+    font-size: 28px; color: #999;
+}
+.headline {
+    font-size: 56px; font-weight: 700; color: #1a1a1a;
+    line-height: 1.3; letter-spacing: -1px;
+    margin-bottom: 48px;
+    padding-bottom: 32px;
+    border-bottom: 5px solid #FF385C;
+}
+.item {
+    display: flex; align-items: flex-start; gap: 24px;
+    padding: 36px 0;
+    border-bottom: 2px solid #f5f5f5;
+}
+.item:last-child { border-bottom: none; }
+.item-num {
+    width: 64px; height: 64px;
+    background: #FF385C; color: white;
+    border-radius: 18px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 32px; font-weight: 700;
+    flex-shrink: 0;
+    box-shadow: 0 4px 12px rgba(255,56,92,0.3);
+}
+.item-body { flex: 1; }
+.item-title {
+    font-size: 38px; font-weight: 600; color: #1a1a1a;
+    line-height: 1.4; margin-bottom: 16px;
+}
+.item-badge {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 12px;
+    color: white;
+    font-size: 24px;
+    font-weight: 600;
+}
+.footer {
+    margin-top: auto;
+    text-align: center;
+    font-size: 26px;
+    color: #999;
+    padding-top: 40px;
+}
+</style></head>
+<body>
+<div class="card">
+    <div class="header">
+        <div class="logo">🔥 AI Radar 每日情报</div>
+        <div class="date">2026-07-20</div>
+    </div>
+    <div class="headline">3条AI重磅消息，条条影响你的工作</div>
+    
+        <div class="item">
+            <div class="item-num">1</div>
+            <div class="item-body">
+                <div class="item-title">AI产品的信任与性能平衡困局</div>
+                <div class="item-badge" style="background:#00B894">瓶颈突破</div>
+            </div>
+        </div>
+        <div class="item">
+            <div class="item-num">2</div>
+            <div class="item-body">
+                <div class="item-title">AI增强领域专业知识融合</div>
+                <div class="item-badge" style="background:#7C3AED">走向成熟</div>
+            </div>
+        </div>
+        <div class="item">
+            <div class="item-num">3</div>
+            <div class="item-body">
+                <div class="item-title">AI生态的安全边界与开放愿景</div>
+                <div class="item-badge" style="background:#666">趋势</div>
+            </div>
+        </div>
+    <div class="footer">📊 完整情报见主页简介</div>
+</div>
+</body></html>

@@ -1,0 +1,33 @@
+{
+  "title": "PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization",
+  "summary": "Mixture-of-Experts (MoE) is a popular class of large language models (LLMs), offering high efficiency and accuracy. However, in KV-cache-intensive serving scenarios, MoEs often exhibit a tension between the GPU memory requirements of the model weights and the growing KV cache. We propose PagedWeight, a novel management method for MoE LLM serving that dynamically quantizes MoE model's weights at runtime and balances expert-weight precision with the KV cache sizes. PagedWeight exposes and effectively navigates the complex tradeoff between the model's task accuracy, memory consumption, and throughput/latency. Across several memory-sensitive MoE serving scenarios, PagedWeight improves the quality-memory tradeoff over several existing quantization baselines. PagedWeight achieves FP16-equivalent accuracy with up to 72.0% GPU memory savings and 1.94$\\times$ throughput improvement, and improves quality over quantization methods by up to 39.3% at a similar memory budget with at most 4.1% throughput loss.",
+  "url": "http://arxiv.org/abs/2607.16184v1",
+  "authors": [
+    "Yuchen Yang",
+    "Yifan Zhao",
+    "Anisha Dasgupta",
+    "Sasa Misailovic"
+  ],
+  "published": "2026-07-17T17:58:29Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "latency",
+    "quantization",
+    "throughput",
+    "accuracy",
+    "precision"
+  ],
+  "summary_cn": "PagedWeight提出一种针对MoE大语言模型的高效服务方案，通过动态质量感知的权重量化技术，缓解模型权重与不断增长的KV缓存之间的GPU内存竞争。该方法在KV缓存密集型场景中，显著降低内存占用，提升推理吞吐量，同时保持模型质量。对于产品经理而言，这意味着能够以更低的硬件成本部署更大规模的MoE模型，或在相同资源下支持更长上下文和更高并发，推动MoE架构在实时交互式AI产品中的落地。",
+  "pm_relevance": 7,
+  "concepts": [
+    "MoE模型",
+    "权重量化",
+    "KV缓存优化"
+  ],
+  "entities": [],
+  "patterns": [
+    "Dynamic Quantization",
+    "Memory Optimization Pattern"
+  ]
+}
