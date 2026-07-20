@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-20 | Total pages: 2750
+> Last updated: 2026-07-21 | Total pages: 2755
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -76,6 +76,7 @@
 - [[ai-tools-are-only-as-good-as-your-judgment.md]] AI tools are only as good as your judgment `pillar:capabilities` `score:0.43`
 - [[ai-will-be-used-to-estimate-age-of-asylum-seekers-from-next-year.md]] AI will be used to estimate age of asylum seekers from next year `pillar:capabilities` `score:0.345`
 - [[airplane-boneyards-list-and-map.md]] Airplane Boneyards List and Map `pillar:capabilities` `score:0.17`
+- [[airport-simulator.md]] Airport Simulator `pillar:capabilities` `score:0.51`
 - [[airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india.md]] AirTrunk commits $30B to build 5GW of AI data centers in India `pillar:capabilities` `score:0.445`
 - [[akse3d-open-source-3d-modelling-anyone-can-master.md]] Akse3D – open-source 3D modelling anyone can master `pillar:capabilities` `score:0.36`
 - [[algebraic-effects-for-the-rest-of-us.md]] Algebraic Effects for the Rest of Us `pillar:capabilities` `score:0.255`
@@ -91,6 +92,7 @@
 - [[amazon-will-show-ai-product-images-when-you-search-for-some-reason.md]] Amazon will show AI product images when you search for some reason `pillar:capabilities` `score:0.515`
 - [[amazon-will-stop-accepting-new-customers-for-mechanical-turk.md]] Amazon will stop accepting new customers for Mechanical Turk `pillar:capabilities` `score:0.48`
 - [[amd-ryzen-ai-halo-4k-ai-dev-kit.md]] AMD Ryzen AI Halo – $4k AI Dev Kit `pillar:capabilities` `score:0.345`
+- [[american-ai-is-locked-down-and-proprietary-its-losing.md]] American AI is locked down and proprietary. It's losing `pillar:capabilities` `score:0.48`
 - [[an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry.md]] An OpenAI model has disproved a central conjecture in discrete geometry `pillar:capabilities` `score:0.63`
 - [[anatomy-of-a-failed-nation-state-attack.md]] Anatomy of a Failed (Nation-State?) Attack `pillar:capabilities` `score:0.345`
 - [[ancient-genome-duplications-laid-the-foundations-of-complex-brains.md]] Ancient genome duplications laid the foundations of complex brains `pillar:capabilities` `score:0.225`
@@ -442,6 +444,7 @@
 - [[kani-a-model-checker-for-rust.md]] Kani: A Model Checker for Rust `pillar:capabilities` `score:0.29`
 - [[kimi-k27-code-open-source-coding-model-with-better-token-efficiency.md]] Kimi K2.7-Code: open-source coding model with better token efficiency `pillar:capabilities` `score:0.6`
 - [[kimi-k3-and-what-we-can-still-learn-from-the-pelican-benchmark.md]] Kimi K3, and what we can still learn from the pelican benchmark `pillar:capabilities` `score:0.565`
+- [[kimi-k3-qwen-38-and-anthropics-potential-unravelling.md]] Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling `pillar:capabilities` `score:0.345`
 - [[kimi-threat-or-menace.md]] Kimi: Threat or menace? `pillar:capabilities` `score:0.515`
 - [[kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy.md]] Kiwibit’s AI-powered bird feeder is my new backyard buddy `pillar:capabilities` `score:0.445`
 - [[klondike-solitaire-game-for-curses-in-5k-of-c.md]] Klondike Solitaire game for curses in 5k of C `pillar:capabilities` `score:0.19`
@@ -764,6 +767,7 @@
 - [[show-hn-skills-for-humanity-171-structured-reasoning-skills-for-claude-code.md]] Show HN: skills-for-humanity – 171 structured reasoning skills for Claude Code `pillar:capabilities` `score:0.365`
 - [[show-hn-smart-model-routing-directly-in-claude-codex-and-cursor.md]] Show HN: Smart model routing directly in Claude, Codex and Cursor `pillar:capabilities` `score:0.53`
 - [[show-hn-sqlsure-deterministic-semantic-checks-for-ai-generated-sql.md]] Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL `pillar:capabilities` `score:0.33`
+- [[show-hn-stacks-an-hourly-card-solitaire-about-building-four-gardens.md]] Show HN: Stacks – an hourly card solitaire about building four gardens `pillar:capabilities` `score:0.155`
 - [[show-hn-sx-20-share-ai-skills-with-your-team-through-a-dropbox-folder.md]] Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder `pillar:capabilities` `score:0.38`
 - [[show-hn-takovm-isolated-model-and-tool-execution-used-by-enterprises.md]] Show HN: TakoVM – Isolated model and tool execution used by enterprises `pillar:capabilities` `score:0.33`
 - [[show-hn-the-cascade-graph-an-interactive-map-of-ai-and-energy-constraints.md]] Show HN: The Cascade Graph – An interactive map of AI and energy constraints `pillar:capabilities` `score:0.295`
@@ -2703,6 +2707,7 @@
 - [[xai-burned-64b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-o.md]] xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far f `pillar:business` `score:0.48`
 - [[xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims.md]] xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims `pillar:business` `score:0.445`
 - [[xai-is-looking-more-like-a-datacentre-reit-than-a-frontier-lab.md]] xAI is looking more like a datacentre REIT than a frontier lab `pillar:business` `score:0.63`
+- [[youtube-clarifies-policies-around-ai-slop-and-upsetting-videos.md]] YouTube clarifies policies around AI slop and upsetting videos `pillar:business` `score:0.48`
 - [[zhulinsendaily_stock_analysis.md]] ZhuLinsen/daily_stock_analysis `pillar:business` `score:0.405`
 - [[a-note-on-non-negative-l_1-approximating-polynomials.md]] A Note on Non-Negative $L_1$-Approximating Polynomials `pillar:business` `score:0.255`
 

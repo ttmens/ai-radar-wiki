@@ -3023,3 +3023,10 @@
 - create: talk-the-art-of-braiding-algorithms.md
 - create: how-proprietary-formats-have-become-microsofts-main-tool-for-lock-in.md
 - create: power-companies-are-using-eminent-domain-to-seize-land-for-data-centers.md
+
+## [2026-07-21 00:02] sync v3 | 5 new | pillars: {'capabilities': 4, 'business': 1}
+- create: kimi-k3-qwen-38-and-anthropics-potential-unravelling.md
+- create: airport-simulator.md
+- create: american-ai-is-locked-down-and-proprietary-its-losing.md
+- create: youtube-clarifies-policies-around-ai-slop-and-upsetting-videos.md
+- create: show-hn-stacks-an-hourly-card-solitaire-about-building-four-gardens.md

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T12:02:42.744721",
+  "generated_at": "2026-07-20T18:03:30.566192",
   "source": "twitter_ai_kol",
   "total_nodes": 222,
   "failed_accounts": [
@@ -23,13 +23,13 @@
       "source_type": "twitter",
       "date": "2026-07-17",
       "url": "https://x.com/sama/status/2078244242993164716",
-      "stars": 3202,
+      "stars": 3217,
       "score": 1.0,
-      "comments": 498,
+      "comments": 510,
       "author": "Sam Altman",
       "author_username": "sama",
-      "retweets": 208,
-      "views": 707814,
+      "retweets": 207,
+      "views": 727114,
       "is_today": false
     },
     {
@@ -48,13 +48,13 @@
       "source_type": "twitter",
       "date": "2026-07-16",
       "url": "https://x.com/sama/status/2077842579232895286",
-      "stars": 14065,
+      "stars": 14079,
       "score": 1.0,
-      "comments": 1933,
+      "comments": 1935,
       "author": "Sam Altman",
       "author_username": "sama",
-      "retweets": 419,
-      "views": 1051294,
+      "retweets": 418,
+      "views": 1055296,
       "is_today": false
     },
     {
@@ -73,13 +73,13 @@
       "source_type": "twitter",
       "date": "2026-07-16",
       "url": "https://x.com/sama/status/2077817060068057493",
-      "stars": 24595,
+      "stars": 24607,
       "score": 1.0,
-      "comments": 2262,
+      "comments": 2266,
       "author": "Sam Altman",
       "author_username": "sama",
       "retweets": 890,
-      "views": 2483729,
+      "views": 2492519,
       "is_today": false
     },
     {
@@ -100,11 +100,11 @@
       "url": "https://x.com/sama/status/2077630111499882637",
       "stars": 8983,
       "score": 1.0,
-      "comments": 722,
+      "comments": 721,
       "author": "Tibo",
       "author_username": "sama",
       "retweets": 432,
-      "views": 1537302,
+      "views": 1542313,
       "is_today": false
     },
     {
@@ -129,7 +129,7 @@
       "author": "Boaz Barak",
       "author_username": "sama",
       "retweets": 11,
-      "views": 147568,
+      "views": 148589,
       "is_today": false
     },
     {
@@ -148,13 +148,13 @@
       "source_type": "twitter",
       "date": "2026-07-08",
       "url": "https://x.com/karpathy/status/2074973674332123157",
-      "stars": 8778,
+      "stars": 8788,
       "score": 1.0,
-      "comments": 449,
+      "comments": 450,
       "author": "Jarred Sumner",
       "author_username": "karpathy",
       "retweets": 1081,
-      "views": 3622316,
+      "views": 3627112,
       "is_today": false
     },
     {
@@ -173,13 +173,13 @@
       "source_type": "twitter",
       "date": "2026-07-03",
       "url": "https://x.com/karpathy/status/2073047118801993910",
-      "stars": 1588,
+      "stars": 1590,
       "score": 1.0,
-      "comments": 77,
+      "comments": 78,
       "author": "Peter Gostev",
       "author_username": "karpathy",
       "retweets": 154,
-      "views": 487251,
+      "views": 488199,
       "is_today": false
     },
     {
@@ -198,13 +198,13 @@
       "source_type": "twitter",
       "date": "2026-06-30",
       "url": "https://x.com/karpathy/status/2071972062202343590",
-      "stars": 9671,
+      "stars": 9672,
       "score": 1.0,
       "comments": 649,
       "author": "Etched",
       "author_username": "karpathy",
       "retweets": 931,
-      "views": 6282876,
+      "views": 6284519,
       "is_today": false
     },
     {
@@ -229,7 +229,7 @@
       "author": "Engram",
       "author_username": "karpathy",
       "retweets": 240,
-      "views": 1867911,
+      "views": 1868660,
       "is_today": false
     },
     {
@@ -248,13 +248,88 @@
       "source_type": "twitter",
       "date": "2026-06-23",
       "url": "https://x.com/karpathy/status/2069547676849557725",
-      "stars": 23091,
+      "stars": 23092,
       "score": 1.0,
-      "comments": 1346,
+      "comments": 1345,
       "author": "Andrej Karpathy",
       "author_username": "karpathy",
       "retweets": 1903,
-      "views": 7919145,
+      "views": 7920705,
+      "is_today": false
+    },
+    {
+      "id": "twitter_ylecun_2079000862962417996",
+      "label": "Baidu just open-sourced an OCR model that reads entire 40-page documents in one shot.\n\nIt's called U...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ylecun"
+      ],
+      "summary": "Baidu just open-sourced an OCR model that reads entire 40-page documents in one shot.\n\nIt's called Unlimited-OCR. 3 billion parameters but only 500 million active during inference. Runs 100% locally on your machine.\n\nWhy this matters: traditional OCR tools chop documents page by page. Tables that sp",
+      "raw_content": "Baidu just open-sourced an OCR model that reads entire 40-page documents in one shot.\n\nIt's called Unlimited-OCR. 3 billion parameters but only 500 million active during inference. Runs 100% locally on your machine.\n\nWhy this matters: traditional OCR tools chop documents page by page. Tables that span two pages break. Reading order gets lost. Cross-page context disappears.\n\nUnlimited-OCR processes the whole document at once. 32K context window. Text, formulas, tables, reading order all preserved across pages.\n\nOutput comes out as clean structured Markdown.\n\n→ 93% accuracy on the standard benchmark. +6 points over the baseline.\n→ Error rate stays below 0.11 even past 40 pages.\n→ Multilingual out of the box.\n→ 2.12 million downloads on Hugging Face last month. 14,600 GitHub\nstars.\n\nFor context: Amazon Textract, Google Cloud Vision, and Azure Document Intelligence all charge per page. This runs locally for free.",
+      "source_type": "twitter",
+      "date": "2026-07-20",
+      "url": "https://x.com/ylecun/status/2079000862962417996",
+      "stars": 1029,
+      "score": 1.0,
+      "comments": 34,
+      "author": "Vaibhav Sisinty",
+      "author_username": "ylecun",
+      "retweets": 147,
+      "views": 83680,
+      "is_today": true
+    },
+    {
+      "id": "twitter_ylecun_2078556831543435612",
+      "label": "Every time Donald Trump talks about election fraud, remind him of January 2, 2021.\n\nThe recording of...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ylecun"
+      ],
+      "summary": "Every time Donald Trump talks about election fraud, remind him of January 2, 2021.\n\nThe recording of him pressuring Georgia officials to “find” 11,780 votes after he lost the 2020 election.\n\nThe man who tried to overturn an election he lost has no moral authority to lecture anyone about election int",
+      "raw_content": "Every time Donald Trump talks about election fraud, remind him of January 2, 2021.\n\nThe recording of him pressuring Georgia officials to “find” 11,780 votes after he lost the 2020 election.\n\nThe man who tried to overturn an election he lost has no moral authority to lecture anyone about election integrity.",
+      "source_type": "twitter",
+      "date": "2026-07-18",
+      "url": "https://x.com/ylecun/status/2078556831543435612",
+      "stars": 2880,
+      "score": 1.0,
+      "comments": 123,
+      "author": "Sarrah Bellus",
+      "author_username": "ylecun",
+      "retweets": 1491,
+      "views": 47608,
+      "is_today": false
+    },
+    {
+      "id": "twitter_ylecun_2078945942137716757",
+      "label": "Imagine declassifying documents to prove your claims, only for them to do the exact opposite. Everyt...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ylecun"
+      ],
+      "summary": "Imagine declassifying documents to prove your claims, only for them to do the exact opposite. Everything Trump does is half-assed.\n\nYou just know this dude cheated his way through school.\n\nDOCUMENTS REVEAL\n\n📌 Russia identified as the primary country attempting to target election-related systems\n\n📌 T",
+      "raw_content": "Imagine declassifying documents to prove your claims, only for them to do the exact opposite. Everything Trump does is half-assed.\n\nYou just know this dude cheated his way through school.\n\nDOCUMENTS REVEAL\n\n📌 Russia identified as the primary country attempting to target election-related systems\n\n📌 The “stolen” election data was publicly available and legally available for purchase\n\n📌 Intelligence experts concluded that widespread manipulation of election outcomes unlikely\n\n📌 The greatest threat identified is the spread of false claims designed to erode public trust in election integrity\n\nThis is the best analysis I’ve seen so far.",
+      "source_type": "twitter",
+      "date": "2026-07-19",
+      "url": "https://x.com/ylecun/status/2078945942137716757",
+      "stars": 1275,
+      "score": 1.0,
+      "comments": 28,
+      "author": "Christopher Webb",
+      "author_username": "ylecun",
+      "retweets": 576,
+      "views": 26894,
       "is_today": false
     },
     {
@@ -262,7 +337,7 @@
       "label": "latent actions are having a moment, especially in robotics: instead of predicting a robot's actual j...",
       "type": "tweet",
       "pillar": "capabilities",
-      "pm_score": 0.68,
+      "pm_score": 0.69,
       "tags": [
         "twitter",
         "ai_kol",
@@ -273,13 +348,13 @@
       "source_type": "twitter",
       "date": "2026-07-18",
       "url": "https://x.com/ylecun/status/2078591641502580745",
-      "stars": 223,
-      "score": 0.6837,
-      "comments": 12,
+      "stars": 248,
+      "score": 0.6931499999999999,
+      "comments": 15,
       "author": "Sasha Malysheva",
       "author_username": "ylecun",
-      "retweets": 19,
-      "views": 18534,
+      "retweets": 20,
+      "views": 22529,
       "is_today": false
     },
     {
@@ -298,88 +373,13 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/ylecun/status/2078802625449906439",
-      "stars": 3288,
+      "stars": 3460,
       "score": 1.0,
-      "comments": 104,
+      "comments": 109,
       "author": "Yann LeCun",
       "author_username": "ylecun",
-      "retweets": 227,
-      "views": 249011,
-      "is_today": false
-    },
-    {
-      "id": "twitter_ylecun_2078639609475678381",
-      "label": "They *distilled* humanity. The hypocrisy is unreal. The best gift is to give it away, at the lowest ...",
-      "type": "tweet",
-      "pillar": "capabilities",
-      "pm_score": 0.98,
-      "tags": [
-        "twitter",
-        "ai_kol",
-        "ylecun"
-      ],
-      "summary": "They *distilled* humanity. The hypocrisy is unreal. The best gift is to give it away, at the lowest marginal costs, to let us prosper as a species. If intelligence casts a light cone, it is a moral imperative to extend it as diffusely as possible.",
-      "raw_content": "They *distilled* humanity. The hypocrisy is unreal. The best gift is to give it away, at the lowest marginal costs, to let us prosper as a species. If intelligence casts a light cone, it is a moral imperative to extend it as diffusely as possible.",
-      "source_type": "twitter",
-      "date": "2026-07-19",
-      "url": "https://x.com/ylecun/status/2078639609475678381",
-      "stars": 1046,
-      "score": 0.9834,
-      "comments": 28,
-      "author": "Suhail",
-      "author_username": "ylecun",
-      "retweets": 95,
-      "views": 61748,
-      "is_today": false
-    },
-    {
-      "id": "twitter_ylecun_2078509069732913595",
-      "label": "Do you know what open weights model actually decelerate? The formation and power of oligopolies. \n \n...",
-      "type": "tweet",
-      "pillar": "capabilities",
-      "pm_score": 1.0,
-      "tags": [
-        "twitter",
-        "ai_kol",
-        "ylecun"
-      ],
-      "summary": "Do you know what open weights model actually decelerate? The formation and power of oligopolies. \n \nYou know, those things which really do stifle innovation.",
-      "raw_content": "Do you know what open weights model actually decelerate? The formation and power of oligopolies. \n \nYou know, those things which really do stifle innovation.",
-      "source_type": "twitter",
-      "date": "2026-07-18",
-      "url": "https://x.com/ylecun/status/2078509069732913595",
-      "stars": 1529,
-      "score": 1.0,
-      "comments": 49,
-      "author": "martin_casado",
-      "author_username": "ylecun",
-      "retweets": 116,
-      "views": 120062,
-      "is_today": false
-    },
-    {
-      "id": "twitter_ylecun_2078269805166199064",
-      "label": "@deanwball The \"ungovernability\" (and openness) of Linux and the Internet is precisely what has made...",
-      "type": "tweet",
-      "pillar": "capabilities",
-      "pm_score": 1.0,
-      "tags": [
-        "twitter",
-        "ai_kol",
-        "ylecun"
-      ],
-      "summary": "@deanwball The \"ungovernability\" (and openness) of Linux and the Internet is precisely what has made their success. \nThe same will be true of open weight AI foundation models.",
-      "raw_content": "@deanwball The \"ungovernability\" (and openness) of Linux and the Internet is precisely what has made their success. \nThe same will be true of open weight AI foundation models.",
-      "source_type": "twitter",
-      "date": "2026-07-18",
-      "url": "https://x.com/ylecun/status/2078269805166199064",
-      "stars": 3273,
-      "score": 1.0,
-      "comments": 78,
-      "author": "Yann LeCun",
-      "author_username": "ylecun",
-      "retweets": 400,
-      "views": 164287,
+      "retweets": 233,
+      "views": 277166,
       "is_today": false
     },
     {
@@ -398,13 +398,13 @@
       "source_type": "twitter",
       "date": "2026-07-17",
       "url": "https://x.com/AndrewYNg/status/2078144569594761591",
-      "stars": 1134,
+      "stars": 1140,
       "score": 1.0,
-      "comments": 79,
+      "comments": 81,
       "author": "Andrew Ng",
       "author_username": "AndrewYNg",
       "retweets": 113,
-      "views": 122779,
+      "views": 123641,
       "is_today": false
     },
     {
@@ -423,13 +423,13 @@
       "source_type": "twitter",
       "date": "2026-07-09",
       "url": "https://x.com/AndrewYNg/status/2075271586400403567",
-      "stars": 282,
-      "score": 0.7482,
+      "stars": 283,
+      "score": 0.7484999999999999,
       "comments": 80,
       "author": "Andrew Ng",
       "author_username": "AndrewYNg",
       "retweets": 46,
-      "views": 97231,
+      "views": 97452,
       "is_today": false
     },
     {
@@ -448,13 +448,13 @@
       "source_type": "twitter",
       "date": "2026-06-30",
       "url": "https://x.com/AndrewYNg/status/2071988145667928442",
-      "stars": 8437,
+      "stars": 8443,
       "score": 1.0,
       "comments": 391,
       "author": "Andrew Ng",
       "author_username": "AndrewYNg",
-      "retweets": 1629,
-      "views": 649174,
+      "retweets": 1631,
+      "views": 649538,
       "is_today": false
     },
     {
@@ -479,7 +479,7 @@
       "author": "Andrew Ng",
       "author_username": "AndrewYNg",
       "retweets": 288,
-      "views": 164973,
+      "views": 165105,
       "is_today": false
     },
     {
@@ -504,7 +504,32 @@
       "author": "Andrew Ng",
       "author_username": "AndrewYNg",
       "retweets": 52,
-      "views": 83574,
+      "views": 83653,
+      "is_today": false
+    },
+    {
+      "id": "twitter_elonmusk_2078891465145810993",
+      "label": "I'm a cardiologist. Everyone is sharing this study as a skin story. They're burying the part that ma...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "elonmusk"
+      ],
+      "summary": "I'm a cardiologist. Everyone is sharing this study as a skin story. They're burying the part that matters.\nScientists took the aorta of a 75-year-old donor, applied a single engineered enzyme, and stripped away more than 70% of the molecular damage — bringing it down to the levels you'd see in a 30-",
+      "raw_content": "I'm a cardiologist. Everyone is sharing this study as a skin story. They're burying the part that matters.\nScientists took the aorta of a 75-year-old donor, applied a single engineered enzyme, and stripped away more than 70% of the molecular damage — bringing it down to the levels you'd see in a 30-year-old artery.\nPublished five days ago in Nature Communications. Revel Pharmaceuticals, with Calico and the University of Colorado.\nHere's what they erased.\nSugar reacts with proteins in your body the same way heat browns bread — slowly, over a lifetime. It leaves behind a residue called CML, the most abundant advanced glycation end product in aging tissue. It welds itself onto collagen and elastin in your skin, your eye lens, and your arterial walls.\nTwo things follow. Your arteries stiffen. And CML latches onto a receptor called RAGE, which drives chronic inflammation — the exact fire I've been writing about for months as the engine of heart disease.\nSince the 1980s this damage was considered permanent. Your body has no enzyme to remove it. Every existing approach only slows new damage from forming. Nothing touched what was already there.\nSo they built an enzyme that doesn't exist in nature. They screened 45,000 protein structures, then ran five rounds of directed evolution across more than 500 million variants until they had CMLase — a molecular lawnmower that oxidizes the CML off the protein and restores the original, healthy lysine underneath.\nNot patched. Reversed.\nOver 70% cleared from elderly arterial tissue. Over 55% from elderly skin — below the levels found in 31-year-old skin. 45-78% in lens proteins. The CEO said they expected 20% and were floored.\nArterial stiffness drives systolic hypertension, heart failure, and stroke, and I have no drug that reverses it. I can slow the process. I cannot undo it. This paper says undoing it may be possible.\nThe caveats are real and I won't skip them. This was done on donated tissue in a dish, not in a living person. No functional data yet — we don't know if that artery got measurably more elastic. Delivering a large enzyme deep into human tissue is a hard, unsolved problem. Clinical trials are years away.\nBut something considered permanent for forty years just came off human tissue.\nWe spent a century learning to slow aging. Someone finally figured out how to erase it.\nThank you @theallinpod @friedberg @chamath @pesottas",
+      "source_type": "twitter",
+      "date": "2026-07-19",
+      "url": "https://x.com/elonmusk/status/2078891465145810993",
+      "stars": 7740,
+      "score": 1.0,
+      "comments": 357,
+      "author": "Afshine Emrani  MD FACC",
+      "author_username": "elonmusk",
+      "retweets": 1526,
+      "views": 1023973,
       "is_today": false
     },
     {
@@ -523,13 +548,13 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/elonmusk/status/2078988716950065383",
-      "stars": 5550,
+      "stars": 10955,
       "score": 1.0,
-      "comments": 218,
+      "comments": 440,
       "author": "Sundar Pichai",
       "author_username": "elonmusk",
-      "retweets": 346,
-      "views": 238846,
+      "retweets": 779,
+      "views": 691709,
       "is_today": false
     },
     {
@@ -548,13 +573,13 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/elonmusk/status/2078766969877049810",
-      "stars": 20531,
+      "stars": 25764,
       "score": 1.0,
-      "comments": 237,
+      "comments": 349,
       "author": "memes in my folder",
       "author_username": "elonmusk",
-      "retweets": 893,
-      "views": 342260,
+      "retweets": 1280,
+      "views": 702957,
       "is_today": false
     },
     {
@@ -573,13 +598,13 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/elonmusk/status/2078971885488919010",
-      "stars": 15658,
+      "stars": 20554,
       "score": 1.0,
-      "comments": 1222,
+      "comments": 1498,
       "author": "Elon Musk",
       "author_username": "elonmusk",
-      "retweets": 1885,
-      "views": 2042899,
+      "retweets": 2579,
+      "views": 2629479,
       "is_today": false
     },
     {
@@ -598,39 +623,14 @@
       "source_type": "twitter",
       "date": "2026-07-20",
       "url": "https://x.com/elonmusk/status/2079010090036641831",
-      "stars": 4964,
+      "stars": 7249,
       "score": 1.0,
-      "comments": 574,
+      "comments": 771,
       "author": "Elon Musk",
       "author_username": "elonmusk",
-      "retweets": 230,
-      "views": 390125,
+      "retweets": 361,
+      "views": 601645,
       "is_today": true
-    },
-    {
-      "id": "twitter_elonmusk_2078987522927972695",
-      "label": "Try Grok 4.5!",
-      "type": "tweet",
-      "pillar": "capabilities",
-      "pm_score": 1.0,
-      "tags": [
-        "twitter",
-        "ai_kol",
-        "elonmusk"
-      ],
-      "summary": "Try Grok 4.5!",
-      "raw_content": "Try Grok 4.5!",
-      "source_type": "twitter",
-      "date": "2026-07-19",
-      "url": "https://x.com/elonmusk/status/2078987522927972695",
-      "stars": 3281,
-      "score": 1.0,
-      "comments": 835,
-      "author": "Elon Musk",
-      "author_username": "elonmusk",
-      "retweets": 544,
-      "views": 1470824,
-      "is_today": false
     },
     {
       "id": "twitter_DrJimFan_2078150496683213151",
@@ -648,13 +648,13 @@
       "source_type": "twitter",
       "date": "2026-07-17",
       "url": "https://x.com/DrJimFan/status/2078150496683213151",
-      "stars": 26,
-      "score": 0.6111,
+      "stars": 27,
+      "score": 0.6113999999999999,
       "comments": 6,
       "author": "Jim Fan",
       "author_username": "DrJimFan",
       "retweets": 1,
-      "views": 12459,
+      "views": 12620,
       "is_today": false
     },
     {
@@ -673,13 +673,13 @@
       "source_type": "twitter",
       "date": "2026-07-17",
       "url": "https://x.com/DrJimFan/status/2078150032575082616",
-      "stars": 469,
-      "score": 0.78135,
-      "comments": 37,
+      "stars": 471,
+      "score": 0.7824,
+      "comments": 38,
       "author": "Jim Fan",
       "author_username": "DrJimFan",
       "retweets": 40,
-      "views": 56954,
+      "views": 57246,
       "is_today": false
     },
     {
@@ -698,13 +698,13 @@
       "source_type": "twitter",
       "date": "2026-07-15",
       "url": "https://x.com/DrJimFan/status/2077497317255737422",
-      "stars": 564,
-      "score": 0.81765,
-      "comments": 25,
+      "stars": 567,
+      "score": 0.81945,
+      "comments": 27,
       "author": "Fei-Fei Li",
       "author_username": "DrJimFan",
       "retweets": 62,
-      "views": 95572,
+      "views": 95969,
       "is_today": false
     },
     {
@@ -723,13 +723,13 @@
       "source_type": "twitter",
       "date": "2026-07-15",
       "url": "https://x.com/DrJimFan/status/2077414142340988962",
-      "stars": 1253,
+      "stars": 1257,
       "score": 1.0,
       "comments": 61,
       "author": "Jim Fan",
       "author_username": "DrJimFan",
-      "retweets": 186,
-      "views": 269172,
+      "retweets": 187,
+      "views": 270303,
       "is_today": false
     },
     {
@@ -754,7 +754,7 @@
       "author": "Jim Fan",
       "author_username": "DrJimFan",
       "retweets": 3,
-      "views": 18071,
+      "views": 18166,
       "is_today": false
     },
     {
@@ -773,13 +773,13 @@
       "source_type": "twitter",
       "date": "2026-07-14",
       "url": "https://x.com/satyanadella/status/2077063479232795024",
-      "stars": 7489,
+      "stars": 7490,
       "score": 1.0,
-      "comments": 403,
+      "comments": 402,
       "author": "Satya Nadella",
       "author_username": "satyanadella",
-      "retweets": 1312,
-      "views": 1783649,
+      "retweets": 1313,
+      "views": 1785630,
       "is_today": false
     },
     {
@@ -804,7 +804,7 @@
       "author": "Brad Smith",
       "author_username": "satyanadella",
       "retweets": 67,
-      "views": 167834,
+      "views": 168157,
       "is_today": false
     },
     {
@@ -823,13 +823,13 @@
       "source_type": "twitter",
       "date": "2026-07-10",
       "url": "https://x.com/satyanadella/status/2075616733503853044",
-      "stars": 864,
-      "score": 0.9618,
+      "stars": 863,
+      "score": 0.9615,
       "comments": 68,
       "author": "Satya Nadella",
       "author_username": "satyanadella",
       "retweets": 120,
-      "views": 291748,
+      "views": 291978,
       "is_today": false
     },
     {
@@ -848,13 +848,13 @@
       "source_type": "twitter",
       "date": "2026-07-09",
       "url": "https://x.com/satyanadella/status/2075318015063925053",
-      "stars": 3197,
+      "stars": 3198,
       "score": 1.0,
       "comments": 189,
       "author": "Satya Nadella",
       "author_username": "satyanadella",
       "retweets": 382,
-      "views": 625794,
+      "views": 626065,
       "is_today": false
     },
     {
@@ -879,7 +879,7 @@
       "author": "Satya Nadella",
       "author_username": "satyanadella",
       "retweets": 15,
-      "views": 58306,
+      "views": 58429,
       "is_today": false
     },
     {
@@ -898,13 +898,13 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/sundarpichai/status/2078988716950065383",
-      "stars": 5578,
+      "stars": 10960,
       "score": 1.0,
-      "comments": 219,
+      "comments": 441,
       "author": "Sundar Pichai",
       "author_username": "sundarpichai",
-      "retweets": 351,
-      "views": 238846,
+      "retweets": 779,
+      "views": 691709,
       "is_today": false
     },
     {
@@ -923,13 +923,13 @@
       "source_type": "twitter",
       "date": "2026-07-16",
       "url": "https://x.com/sundarpichai/status/2077793864233230558",
-      "stars": 2910,
+      "stars": 2916,
       "score": 1.0,
-      "comments": 198,
+      "comments": 201,
       "author": "Sundar Pichai",
       "author_username": "sundarpichai",
-      "retweets": 305,
-      "views": 384729,
+      "retweets": 306,
+      "views": 387089,
       "is_today": false
     },
     {
@@ -954,7 +954,7 @@
       "author": "Josh Woodward",
       "author_username": "sundarpichai",
       "retweets": 64,
-      "views": 111101,
+      "views": 111817,
       "is_today": false
     },
     {
@@ -973,13 +973,13 @@
       "source_type": "twitter",
       "date": "2026-07-14",
       "url": "https://x.com/sundarpichai/status/2077086951833063580",
-      "stars": 8358,
+      "stars": 8359,
       "score": 1.0,
       "comments": 435,
       "author": "Sundar Pichai",
       "author_username": "sundarpichai",
       "retweets": 1474,
-      "views": 2255833,
+      "views": 2259461,
       "is_today": false
     },
     {
@@ -998,13 +998,13 @@
       "source_type": "twitter",
       "date": "2026-07-08",
       "url": "https://x.com/sundarpichai/status/2074649108414107727",
-      "stars": 7053,
+      "stars": 7054,
       "score": 1.0,
       "comments": 433,
       "author": "Sundar Pichai",
       "author_username": "sundarpichai",
-      "retweets": 1226,
-      "views": 783041,
+      "retweets": 1228,
+      "views": 783742,
       "is_today": false
     },
     {
@@ -1023,13 +1023,13 @@
       "source_type": "twitter",
       "date": "2026-07-15",
       "url": "https://x.com/drfeifei/status/2077497317255737422",
-      "stars": 564,
-      "score": 0.81765,
-      "comments": 25,
+      "stars": 567,
+      "score": 0.81945,
+      "comments": 27,
       "author": "Fei-Fei Li",
       "author_username": "drfeifei",
       "retweets": 62,
-      "views": 95572,
+      "views": 95969,
       "is_today": false
     },
     {
@@ -1048,13 +1048,13 @@
       "source_type": "twitter",
       "date": "2026-07-14",
       "url": "https://x.com/drfeifei/status/2077173058700460378",
-      "stars": 329,
-      "score": 0.7314,
+      "stars": 330,
+      "score": 0.7317,
       "comments": 30,
       "author": "Fei-Fei Li",
       "author_username": "drfeifei",
       "retweets": 32,
-      "views": 46712,
+      "views": 46863,
       "is_today": false
     },
     {
@@ -1073,13 +1073,13 @@
       "source_type": "twitter",
       "date": "2026-07-13",
       "url": "https://x.com/drfeifei/status/2076729080679186849",
-      "stars": 507,
-      "score": 0.81525,
-      "comments": 19,
+      "stars": 515,
+      "score": 0.8187,
+      "comments": 20,
       "author": "Fei-Fei Li",
       "author_username": "drfeifei",
-      "retweets": 91,
-      "views": 97731,
+      "retweets": 92,
+      "views": 100657,
       "is_today": false
     },
     {
@@ -1104,7 +1104,7 @@
       "author": "Fei-Fei Li",
       "author_username": "drfeifei",
       "retweets": 2,
-      "views": 9301,
+      "views": 9370,
       "is_today": false
     },
     {
@@ -1129,7 +1129,7 @@
       "author": "Fei-Fei Li",
       "author_username": "drfeifei",
       "retweets": 2,
-      "views": 8927,
+      "views": 8995,
       "is_today": false
     },
     {
@@ -1137,7 +1137,7 @@
       "label": "Here's how to add the Codex Security plugin in Codex and get started:\n\nAdd the plugin in Codex. Afte...",
       "type": "tweet",
       "pillar": "capabilities",
-      "pm_score": 0.79,
+      "pm_score": 0.8,
       "tags": [
         "twitter",
         "ai_kol",
@@ -1148,13 +1148,13 @@
       "source_type": "twitter",
       "date": "2026-07-17",
       "url": "https://x.com/OpenAI/status/2078243670265041038",
-      "stars": 479,
-      "score": 0.7939499999999999,
-      "comments": 41,
+      "stars": 482,
+      "score": 0.79575,
+      "comments": 43,
       "author": "OpenAI",
       "author_username": "OpenAI",
       "retweets": 53,
-      "views": 121789,
+      "views": 124422,
       "is_today": false
     },
     {
@@ -1173,13 +1173,13 @@
       "source_type": "twitter",
       "date": "2026-07-17",
       "url": "https://x.com/OpenAI/status/2078243667081617826",
-      "stars": 3867,
+      "stars": 3875,
       "score": 1.0,
-      "comments": 224,
+      "comments": 230,
       "author": "OpenAI",
       "author_username": "OpenAI",
-      "retweets": 359,
-      "views": 673837,
+      "retweets": 362,
+      "views": 681967,
       "is_today": false
     },
     {
@@ -1198,13 +1198,13 @@
       "source_type": "twitter",
       "date": "2026-07-17",
       "url": "https://x.com/OpenAI/status/2077928427936710901",
-      "stars": 7111,
+      "stars": 7117,
       "score": 1.0,
-      "comments": 2042,
+      "comments": 2044,
       "author": "Tibo",
       "author_username": "OpenAI",
       "retweets": 293,
-      "views": 1442857,
+      "views": 1452343,
       "is_today": false
     },
     {
@@ -1223,13 +1223,13 @@
       "source_type": "twitter",
       "date": "2026-07-16",
       "url": "https://x.com/OpenAI/status/2077807977193714080",
-      "stars": 1010,
+      "stars": 1014,
       "score": 1.0,
-      "comments": 148,
+      "comments": 149,
       "author": "OpenAI",
       "author_username": "OpenAI",
-      "retweets": 68,
-      "views": 257676,
+      "retweets": 70,
+      "views": 259830,
       "is_today": false
     },
     {
@@ -1254,7 +1254,7 @@
       "author": "OpenAI",
       "author_username": "OpenAI",
       "retweets": 6,
-      "views": 70713,
+      "views": 71673,
       "is_today": false
     },
     {
@@ -1273,13 +1273,13 @@
       "source_type": "twitter",
       "date": "2026-07-15",
       "url": "https://x.com/AnthropicAI/status/2077452646303006927",
-      "stars": 3028,
+      "stars": 3032,
       "score": 1.0,
-      "comments": 330,
+      "comments": 334,
       "author": "Anthropic",
       "author_username": "AnthropicAI",
-      "retweets": 359,
-      "views": 631580,
+      "retweets": 361,
+      "views": 635999,
       "is_today": false
     },
     {
@@ -1298,13 +1298,13 @@
       "source_type": "twitter",
       "date": "2026-07-15",
       "url": "https://x.com/AnthropicAI/status/2077452649000042614",
-      "stars": 258,
-      "score": 0.70125,
+      "stars": 260,
+      "score": 0.7018500000000001,
       "comments": 33,
       "author": "Anthropic",
       "author_username": "AnthropicAI",
       "retweets": 15,
-      "views": 85418,
+      "views": 86943,
       "is_today": false
     },
     {
@@ -1323,13 +1323,13 @@
       "source_type": "twitter",
       "date": "2026-07-14",
       "url": "https://x.com/AnthropicAI/status/2077047278078931243",
-      "stars": 26404,
+      "stars": 26411,
       "score": 1.0,
-      "comments": 1297,
+      "comments": 1299,
       "author": "Claude",
       "author_username": "AnthropicAI",
-      "retweets": 2129,
-      "views": 12871207,
+      "retweets": 2130,
+      "views": 12883651,
       "is_today": false
     },
     {
@@ -1348,13 +1348,13 @@
       "source_type": "twitter",
       "date": "2026-07-14",
       "url": "https://x.com/AnthropicAI/status/2077026346375540870",
-      "stars": 2549,
+      "stars": 2552,
       "score": 1.0,
-      "comments": 222,
+      "comments": 223,
       "author": "Anthropic",
       "author_username": "AnthropicAI",
       "retweets": 228,
-      "views": 527738,
+      "views": 529908,
       "is_today": false
     },
     {
@@ -1373,13 +1373,13 @@
       "source_type": "twitter",
       "date": "2026-07-13",
       "url": "https://x.com/AnthropicAI/status/2076719540785012872",
-      "stars": 3691,
+      "stars": 3694,
       "score": 1.0,
-      "comments": 373,
+      "comments": 374,
       "author": "Anthropic",
       "author_username": "AnthropicAI",
-      "retweets": 367,
-      "views": 983996,
+      "retweets": 368,
+      "views": 986194,
       "is_today": false
     },
     {
@@ -1398,13 +1398,13 @@
       "source_type": "twitter",
       "date": "2026-07-17",
       "url": "https://x.com/GoogleDeepMind/status/2078132675332755933",
-      "stars": 1322,
+      "stars": 1327,
       "score": 1.0,
       "comments": 40,
       "author": "Peter Battaglia",
       "author_username": "GoogleDeepMind",
       "retweets": 186,
-      "views": 152624,
+      "views": 153680,
       "is_today": false
     },
     {
@@ -1423,13 +1423,13 @@
       "source_type": "twitter",
       "date": "2026-07-15",
       "url": "https://x.com/GoogleDeepMind/status/2077372568143642972",
-      "stars": 818,
-      "score": 0.9468,
-      "comments": 72,
+      "stars": 820,
+      "score": 0.94785,
+      "comments": 73,
       "author": "Google DeepMind",
       "author_username": "GoogleDeepMind",
       "retweets": 115,
-      "views": 108479,
+      "views": 108881,
       "is_today": false
     },
     {
@@ -1448,13 +1448,13 @@
       "source_type": "twitter",
       "date": "2026-07-14",
       "url": "https://x.com/GoogleDeepMind/status/2076957440109625718",
-      "stars": 22758,
+      "stars": 22779,
       "score": 1.0,
-      "comments": 1728,
+      "comments": 1730,
       "author": "Demis Hassabis",
       "author_username": "GoogleDeepMind",
-      "retweets": 4832,
-      "views": 14844551,
+      "retweets": 4835,
+      "views": 14880960,
       "is_today": false
     },
     {
@@ -1473,13 +1473,13 @@
       "source_type": "twitter",
       "date": "2026-07-13",
       "url": "https://x.com/GoogleDeepMind/status/2076686114631340046",
-      "stars": 410,
-      "score": 0.7734,
+      "stars": 411,
+      "score": 0.7737,
       "comments": 48,
       "author": "Google DeepMind",
       "author_username": "GoogleDeepMind",
       "retweets": 48,
-      "views": 84505,
+      "views": 84824,
       "is_today": false
     },
     {
@@ -1498,13 +1498,13 @@
       "source_type": "twitter",
       "date": "2026-07-13",
       "url": "https://x.com/GoogleDeepMind/status/2076686125289071074",
-      "stars": 42,
-      "score": 0.6207,
+      "stars": 43,
+      "score": 0.621,
       "comments": 10,
       "author": "Google DeepMind",
       "author_username": "GoogleDeepMind",
       "retweets": 6,
-      "views": 18511,
+      "views": 18632,
       "is_today": false
     },
     {
@@ -1512,7 +1512,7 @@
       "label": "There have been rumors that open-source AI could soon be limited and regulated. I believe the opposi...",
       "type": "tweet",
       "pillar": "capabilities",
-      "pm_score": 0.71,
+      "pm_score": 0.73,
       "tags": [
         "twitter",
         "ai_kol",
@@ -1523,13 +1523,13 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/huggingface/status/2078891672818352425",
-      "stars": 254,
-      "score": 0.71385,
-      "comments": 33,
+      "stars": 292,
+      "score": 0.7323,
+      "comments": 42,
       "author": "clem 🤗",
       "author_username": "huggingface",
-      "retweets": 38,
-      "views": 23130,
+      "retweets": 43,
+      "views": 26890,
       "is_today": false
     },
     {
@@ -1537,7 +1537,7 @@
       "label": "Join us this Tuesday to learn more on Local AI, from software to hardware 🤗\n\nWe'll be joined by @The...",
       "type": "tweet",
       "pillar": "capabilities",
-      "pm_score": 0.73,
+      "pm_score": 0.75,
       "tags": [
         "twitter",
         "ai_kol",
@@ -1548,13 +1548,13 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/huggingface/status/2078878406335201738",
-      "stars": 298,
-      "score": 0.7269,
-      "comments": 22,
+      "stars": 334,
+      "score": 0.7482,
+      "comments": 24,
       "author": "Hugging Face",
       "author_username": "huggingface",
-      "retweets": 46,
-      "views": 61228,
+      "retweets": 62,
+      "views": 74497,
       "is_today": false
     },
     {
@@ -1573,13 +1573,13 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/huggingface/status/2078880083805122921",
-      "stars": 45,
-      "score": 0.61635,
+      "stars": 51,
+      "score": 0.61875,
       "comments": 1,
       "author": "Hugging Face",
       "author_username": "huggingface",
-      "retweets": 4,
-      "views": 12827,
+      "retweets": 5,
+      "views": 14594,
       "is_today": false
     },
     {
@@ -1598,13 +1598,13 @@
       "source_type": "twitter",
       "date": "2026-07-17",
       "url": "https://x.com/huggingface/status/2078148746865418353",
-      "stars": 189,
-      "score": 0.6867,
+      "stars": 192,
+      "score": 0.6881999999999999,
       "comments": 20,
       "author": "NVIDIA AI",
       "author_username": "huggingface",
-      "retweets": 35,
-      "views": 28711,
+      "retweets": 36,
+      "views": 28937,
       "is_today": false
     },
     {
@@ -1623,13 +1623,13 @@
       "source_type": "twitter",
       "date": "2026-07-17",
       "url": "https://x.com/huggingface/status/2078061948285944012",
-      "stars": 184,
-      "score": 0.675,
+      "stars": 186,
+      "score": 0.6756,
       "comments": 8,
       "author": "Hugging Apps",
       "author_username": "huggingface",
       "retweets": 27,
-      "views": 23351,
+      "views": 23492,
       "is_today": false
     },
     {
@@ -1648,13 +1648,13 @@
       "source_type": "twitter",
       "date": "2026-07-14",
       "url": "https://x.com/stabilityai/status/2077109035531149728",
-      "stars": 30,
-      "score": 0.6141,
-      "comments": 6,
+      "stars": 31,
+      "score": 0.61485,
+      "comments": 7,
       "author": "Stability AI",
       "author_username": "stabilityai",
       "retweets": 4,
-      "views": 8737,
+      "views": 8853,
       "is_today": false
     },
     {
@@ -1673,13 +1673,13 @@
       "source_type": "twitter",
       "date": "2026-07-14",
       "url": "https://x.com/stabilityai/status/2077109038777586070",
-      "stars": 5,
-      "score": 0.603,
+      "stars": 6,
+      "score": 0.6033,
       "comments": 2,
       "author": "Stability AI",
       "author_username": "stabilityai",
       "retweets": 1,
-      "views": 3004,
+      "views": 3028,
       "is_today": false
     },
     {
@@ -1698,13 +1698,13 @@
       "source_type": "twitter",
       "date": "2026-07-14",
       "url": "https://x.com/stabilityai/status/2077109040086151412",
-      "stars": 4,
-      "score": 0.6027,
+      "stars": 5,
+      "score": 0.603,
       "comments": 2,
       "author": "Stability AI",
       "author_username": "stabilityai",
       "retweets": 1,
-      "views": 4003,
+      "views": 4023,
       "is_today": false
     },
     {
@@ -1723,13 +1723,13 @@
       "source_type": "twitter",
       "date": "2026-07-01",
       "url": "https://x.com/stabilityai/status/2072423193927668193",
-      "stars": 42,
-      "score": 0.6204000000000001,
+      "stars": 43,
+      "score": 0.6207,
       "comments": 4,
       "author": "Stability AI",
       "author_username": "stabilityai",
       "retweets": 10,
-      "views": 15369,
+      "views": 15389,
       "is_today": false
     },
     {
@@ -1748,13 +1748,13 @@
       "source_type": "twitter",
       "date": "2026-06-09",
       "url": "https://x.com/stabilityai/status/2064453598948307132",
-      "stars": 48,
-      "score": 0.62385,
+      "stars": 49,
+      "score": 0.62415,
       "comments": 13,
       "author": "Stability AI",
       "author_username": "stabilityai",
       "retweets": 6,
-      "views": 16850,
+      "views": 16864,
       "is_today": false
     },
     {
@@ -1773,13 +1773,13 @@
       "source_type": "twitter",
       "date": "2026-07-09",
       "url": "https://x.com/MistralAI/status/2075131809638088865",
-      "stars": 750,
-      "score": 0.88695,
-      "comments": 47,
+      "stars": 752,
+      "score": 0.888,
+      "comments": 48,
       "author": "Mistral AI",
       "author_username": "MistralAI",
       "retweets": 68,
-      "views": 104978,
+      "views": 105158,
       "is_today": false
     },
     {
@@ -1798,13 +1798,13 @@
       "source_type": "twitter",
       "date": "2026-07-08",
       "url": "https://x.com/MistralAI/status/2074856309438980145",
-      "stars": 2652,
+      "stars": 2654,
       "score": 1.0,
       "comments": 106,
       "author": "Mistral AI",
       "author_username": "MistralAI",
       "retweets": 319,
-      "views": 270493,
+      "views": 270707,
       "is_today": false
     },
     {
@@ -1829,7 +1829,7 @@
       "author": "Mistral AI",
       "author_username": "MistralAI",
       "retweets": 4,
-      "views": 11122,
+      "views": 11164,
       "is_today": false
     },
     {
@@ -1854,7 +1854,7 @@
       "author": "Mistral AI",
       "author_username": "MistralAI",
       "retweets": 8,
-      "views": 11445,
+      "views": 11498,
       "is_today": false
     },
     {
@@ -1879,7 +1879,7 @@
       "author": "Mistral AI",
       "author_username": "MistralAI",
       "retweets": 55,
-      "views": 126301,
+      "views": 126376,
       "is_today": false
     },
     {
@@ -1898,13 +1898,13 @@
       "source_type": "twitter",
       "date": "2026-07-17",
       "url": "https://x.com/cohere/status/2078221399294894217",
-      "stars": 60,
-      "score": 0.6234,
+      "stars": 61,
+      "score": 0.6237,
       "comments": 4,
       "author": "Cohere",
       "author_username": "cohere",
       "retweets": 6,
-      "views": 4000,
+      "views": 4028,
       "is_today": false
     },
     {
@@ -1923,13 +1923,13 @@
       "source_type": "twitter",
       "date": "2026-07-17",
       "url": "https://x.com/cohere/status/2078166288246149586",
-      "stars": 61,
-      "score": 0.6234,
+      "stars": 62,
+      "score": 0.6237,
       "comments": 2,
       "author": "Aston Martin Aramco F1 Team",
       "author_username": "cohere",
       "retweets": 7,
-      "views": 22870,
+      "views": 22905,
       "is_today": false
     },
     {
@@ -1948,13 +1948,13 @@
       "source_type": "twitter",
       "date": "2026-07-16",
       "url": "https://x.com/cohere/status/2077886455716691982",
-      "stars": 111,
-      "score": 0.642,
+      "stars": 112,
+      "score": 0.6423,
       "comments": 6,
       "author": "Cohere",
       "author_username": "cohere",
       "retweets": 10,
-      "views": 14440,
+      "views": 14456,
       "is_today": false
     },
     {
@@ -1973,13 +1973,13 @@
       "source_type": "twitter",
       "date": "2026-07-16",
       "url": "https://x.com/cohere/status/2077824253915767236",
-      "stars": 217,
-      "score": 0.67425,
+      "stars": 218,
+      "score": 0.67455,
       "comments": 7,
       "author": "Cohere",
       "author_username": "cohere",
       "retweets": 10,
-      "views": 10426,
+      "views": 10436,
       "is_today": false
     },
     {
@@ -1998,13 +1998,13 @@
       "source_type": "twitter",
       "date": "2026-07-16",
       "url": "https://x.com/cohere/status/2077824393565135189",
-      "stars": 9,
-      "score": 0.6033,
+      "stars": 10,
+      "score": 0.6036,
       "comments": 0,
       "author": "Cohere",
       "author_username": "cohere",
       "retweets": 1,
-      "views": 1220,
+      "views": 1224,
       "is_today": false
     },
     {
@@ -2062,7 +2062,7 @@
       "label": "“In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language M...",
       "type": "tweet",
       "pillar": "capabilities",
-      "pm_score": 0.71,
+      "pm_score": 0.72,
       "tags": [
         "twitter",
         "ai_kol",
@@ -2073,13 +2073,13 @@
       "source_type": "twitter",
       "date": "2026-07-20",
       "url": "https://x.com/hardmaru/status/2079028703275974878",
-      "stars": 17,
-      "score": 0.7087,
-      "comments": 0,
+      "stars": 46,
+      "score": 0.71905,
+      "comments": 1,
       "author": "Sakana AI",
       "author_username": "hardmaru",
-      "retweets": 6,
-      "views": 3279,
+      "retweets": 8,
+      "views": 6918,
       "is_today": true
     },
     {
@@ -2104,7 +2104,7 @@
       "author": "hardmaru",
       "author_username": "hardmaru",
       "retweets": 3,
-      "views": 5330,
+      "views": 5390,
       "is_today": false
     },
     {
@@ -2123,13 +2123,13 @@
       "source_type": "twitter",
       "date": "2026-07-17",
       "url": "https://x.com/hardmaru/status/2078156625479921847",
-      "stars": 1237,
+      "stars": 1241,
       "score": 1.0,
       "comments": 31,
       "author": "hardmaru",
       "author_username": "hardmaru",
-      "retweets": 153,
-      "views": 106912,
+      "retweets": 154,
+      "views": 107572,
       "is_today": false
     },
     {
@@ -2154,7 +2154,7 @@
       "author": "Sakana AI",
       "author_username": "hardmaru",
       "retweets": 40,
-      "views": 29641,
+      "views": 29769,
       "is_today": false
     },
     {
@@ -2179,8 +2179,33 @@
       "author": "hardmaru",
       "author_username": "hardmaru",
       "retweets": 23,
-      "views": 35738,
+      "views": 35777,
       "is_today": false
+    },
+    {
+      "id": "twitter_swyx_2079061713048199625",
+      "label": "even as someone who is most definitely not a custom keyboards guy, i gotta admit this is pretty dang...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.75,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "swyx"
+      ],
+      "summary": "even as someone who is most definitely not a custom keyboards guy, i gotta admit this is pretty dang cool. https://t.co/NOKBYlX9D9",
+      "raw_content": "even as someone who is most definitely not a custom keyboards guy, i gotta admit this is pretty dang cool. https://t.co/NOKBYlX9D9",
+      "source_type": "twitter",
+      "date": "2026-07-20",
+      "url": "https://x.com/swyx/status/2079061713048199625",
+      "stars": 126,
+      "score": 0.7492,
+      "comments": 24,
+      "author": "swyx",
+      "author_username": "swyx",
+      "retweets": 1,
+      "views": 16262,
+      "is_today": true
     },
     {
       "id": "twitter_swyx_2078502554200359344",
@@ -2204,7 +2229,7 @@
       "author": "AI Engineer",
       "author_username": "swyx",
       "retweets": 3,
-      "views": 6645,
+      "views": 7295,
       "is_today": false
     },
     {
@@ -2212,7 +2237,7 @@
       "label": "anyone want to help fund getting this exact billboard up on the highway in sf https://t.co/Qtob3gS0E...",
       "type": "tweet",
       "pillar": "capabilities",
-      "pm_score": 0.93,
+      "pm_score": 0.95,
       "tags": [
         "twitter",
         "ai_kol",
@@ -2223,13 +2248,13 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/swyx/status/2078678912499126325",
-      "stars": 956,
-      "score": 0.93165,
-      "comments": 49,
+      "stars": 1002,
+      "score": 0.9465,
+      "comments": 50,
       "author": "evan conrad",
       "author_username": "swyx",
-      "retweets": 38,
-      "views": 91976,
+      "retweets": 39,
+      "views": 104437,
       "is_today": false
     },
     {
@@ -2254,7 +2279,7 @@
       "author": "swyx",
       "author_username": "swyx",
       "retweets": 8,
-      "views": 38871,
+      "views": 39351,
       "is_today": false
     },
     {
@@ -2273,46 +2298,46 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/swyx/status/2078912371901481110",
-      "stars": 3,
-      "score": 0.60195,
+      "stars": 4,
+      "score": 0.60285,
       "comments": 1,
       "author": "swyx",
       "author_username": "swyx",
-      "retweets": 1,
-      "views": 6631,
+      "retweets": 2,
+      "views": 7719,
       "is_today": false
     },
     {
-      "id": "twitter_swyx_2078628617987518855",
-      "label": "people hating on europe miss that they actually have some of the top ai engineers in the world if yo...",
+      "id": "twitter_bindureddy_2079086480010682500",
+      "label": "PREDICTION - US AI is going to come roaring back this week\n\nThere will be at least 2 frontier model ...",
       "type": "tweet",
       "pillar": "capabilities",
-      "pm_score": 0.66,
+      "pm_score": 0.82,
       "tags": [
         "twitter",
         "ai_kol",
-        "swyx"
+        "bindureddy"
       ],
-      "summary": "people hating on europe miss that they actually have some of the top ai engineers in the world if you actually to elicit the right ones. \n\nwe're basically running the most competitive global arena for ai talent (as measured by talks and workshops), will be v interesting to see how this goes as WF en",
-      "raw_content": "people hating on europe miss that they actually have some of the top ai engineers in the world if you actually to elicit the right ones. \n\nwe're basically running the most competitive global arena for ai talent (as measured by talks and workshops), will be v interesting to see how this goes as WF enters the eval window",
+      "summary": "PREDICTION - US AI is going to come roaring back this week\n\nThere will be at least 2 frontier model drops",
+      "raw_content": "PREDICTION - US AI is going to come roaring back this week\n\nThere will be at least 2 frontier model drops",
       "source_type": "twitter",
-      "date": "2026-07-18",
-      "url": "https://x.com/swyx/status/2078628617987518855",
-      "stars": 133,
-      "score": 0.6579,
-      "comments": 36,
-      "author": "swyx",
-      "author_username": "swyx",
-      "retweets": 3,
-      "views": 14038,
-      "is_today": false
+      "date": "2026-07-20",
+      "url": "https://x.com/bindureddy/status/2079086480010682500",
+      "stars": 297,
+      "score": 0.81505,
+      "comments": 51,
+      "author": "Bindu Reddy",
+      "author_username": "bindureddy",
+      "retweets": 5,
+      "views": 20742,
+      "is_today": true
     },
     {
       "id": "twitter_bindureddy_2079024245401911421",
       "label": "Kimi K3 is better for discovering cybersecurity issues than Fable or Sol - both of which have been n...",
       "type": "tweet",
       "pillar": "capabilities",
-      "pm_score": 0.74,
+      "pm_score": 0.83,
       "tags": [
         "twitter",
         "ai_kol",
@@ -2323,13 +2348,13 @@
       "source_type": "twitter",
       "date": "2026-07-20",
       "url": "https://x.com/bindureddy/status/2079024245401911421",
-      "stars": 86,
-      "score": 0.73555,
-      "comments": 11,
+      "stars": 337,
+      "score": 0.8284,
+      "comments": 26,
       "author": "Bindu Reddy",
       "author_username": "bindureddy",
-      "retweets": 8,
-      "views": 5116,
+      "retweets": 26,
+      "views": 15600,
       "is_today": true
     },
     {
@@ -2337,7 +2362,7 @@
       "label": "Open Source AI Companies Will Make Billions!\n\n- releasing a good open-source AI models gives you bil...",
       "type": "tweet",
       "pillar": "business",
-      "pm_score": 0.64,
+      "pm_score": 0.65,
       "tags": [
         "twitter",
         "ai_kol",
@@ -2348,13 +2373,13 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/bindureddy/status/2078921164517421562",
-      "stars": 103,
-      "score": 0.63975,
-      "comments": 17,
+      "stars": 137,
+      "score": 0.65355,
+      "comments": 21,
       "author": "Bindu Reddy",
       "author_username": "bindureddy",
-      "retweets": 2,
-      "views": 12273,
+      "retweets": 5,
+      "views": 14911,
       "is_today": false
     },
     {
@@ -2373,13 +2398,13 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/bindureddy/status/2078893840979882204",
-      "stars": 90,
-      "score": 0.6366,
-      "comments": 16,
+      "stars": 93,
+      "score": 0.639,
+      "comments": 18,
       "author": "Bindu Reddy",
       "author_username": "bindureddy",
-      "retweets": 4,
-      "views": 6396,
+      "retweets": 5,
+      "views": 7270,
       "is_today": false
     },
     {
@@ -2398,38 +2423,13 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/bindureddy/status/2078687965149336024",
-      "stars": 2316,
+      "stars": 2569,
       "score": 1.0,
-      "comments": 66,
+      "comments": 70,
       "author": "Bindu Reddy",
       "author_username": "bindureddy",
-      "retweets": 127,
-      "views": 3082037,
-      "is_today": false
-    },
-    {
-      "id": "twitter_bindureddy_2078624031880966406",
-      "label": "AI is building AI and we will see new models every month \n\nOpus 5\nGPT 6\nGrok 4.6 \nGemini 3.5 \nGLM \nD...",
-      "type": "tweet",
-      "pillar": "capabilities",
-      "pm_score": 0.68,
-      "tags": [
-        "twitter",
-        "ai_kol",
-        "bindureddy"
-      ],
-      "summary": "AI is building AI and we will see new models every month \n\nOpus 5\nGPT 6\nGrok 4.6 \nGemini 3.5 \nGLM \nDeepseek \nFable 5.1\n\nIn the next few weeks…",
-      "raw_content": "AI is building AI and we will see new models every month \n\nOpus 5\nGPT 6\nGrok 4.6 \nGemini 3.5 \nGLM \nDeepseek \nFable 5.1\n\nIn the next few weeks…",
-      "source_type": "twitter",
-      "date": "2026-07-18",
-      "url": "https://x.com/bindureddy/status/2078624031880966406",
-      "stars": 218,
-      "score": 0.68475,
-      "comments": 23,
-      "author": "Bindu Reddy",
-      "author_username": "bindureddy",
-      "retweets": 15,
-      "views": 13367,
+      "retweets": 136,
+      "views": 3435492,
       "is_today": false
     },
     {
@@ -2448,13 +2448,13 @@
       "source_type": "twitter",
       "date": "2026-07-17",
       "url": "https://x.com/jeremyphoward/status/2078212811503948173",
-      "stars": 367,
-      "score": 0.7401,
+      "stars": 368,
+      "score": 0.7404,
       "comments": 32,
       "author": "Ramez Naam",
       "author_username": "jeremyphoward",
       "retweets": 26,
-      "views": 21449,
+      "views": 21607,
       "is_today": false
     },
     {
@@ -2479,7 +2479,7 @@
       "author": "Mintlify",
       "author_username": "jeremyphoward",
       "retweets": 7,
-      "views": 27098,
+      "views": 27281,
       "is_today": false
     },
     {
@@ -2504,7 +2504,7 @@
       "author": "GDP",
       "author_username": "jeremyphoward",
       "retweets": 16,
-      "views": 12465,
+      "views": 12534,
       "is_today": false
     },
     {
@@ -2529,7 +2529,7 @@
       "author": "shadcn",
       "author_username": "jeremyphoward",
       "retweets": 823,
-      "views": 854818,
+      "views": 856122,
       "is_today": false
     },
     {
@@ -2554,7 +2554,7 @@
       "author": "Sayash Kapoor",
       "author_username": "jeremyphoward",
       "retweets": 5,
-      "views": 9578,
+      "views": 9610,
       "is_today": false
     },
     {
@@ -2579,7 +2579,7 @@
       "author": "Anish",
       "author_username": "fastdotai",
       "retweets": 2,
-      "views": 11018,
+      "views": 11019,
       "is_today": false
     },
     {
@@ -2604,7 +2604,7 @@
       "author": "Jeremy Howard",
       "author_username": "fastdotai",
       "retweets": 335,
-      "views": 160378,
+      "views": 160379,
       "is_today": false
     },
     {
@@ -2629,7 +2629,7 @@
       "author": "Jeremy Howard",
       "author_username": "fastdotai",
       "retweets": 114,
-      "views": 160913,
+      "views": 160916,
       "is_today": false
     },
     {
@@ -2654,7 +2654,7 @@
       "author": "fast.ai",
       "author_username": "fastdotai",
       "retweets": 64,
-      "views": 62843,
+      "views": 62844,
       "is_today": false
     },
     {
@@ -2704,7 +2704,7 @@
       "author": "Linda Chen",
       "author_username": "idvorkin",
       "retweets": 91,
-      "views": 502870,
+      "views": 502885,
       "is_today": false
     },
     {
@@ -2823,13 +2823,13 @@
       "source_type": "twitter",
       "date": "2026-07-20",
       "url": "https://x.com/JohnNosta/status/2079010610210332746",
-      "stars": 4,
-      "score": 0.70225,
+      "stars": 5,
+      "score": 0.7031499999999999,
       "comments": 1,
       "author": "Frank Prestia",
       "author_username": "JohnNosta",
-      "retweets": 1,
-      "views": 194,
+      "retweets": 2,
+      "views": 244,
       "is_today": true
     },
     {
@@ -2848,13 +2848,13 @@
       "source_type": "twitter",
       "date": "2026-07-20",
       "url": "https://x.com/JohnNosta/status/2078996652237410656",
-      "stars": 5,
-      "score": 0.7021,
+      "stars": 7,
+      "score": 0.7033,
       "comments": 0,
       "author": "John Nosta",
       "author_username": "JohnNosta",
-      "retweets": 1,
-      "views": 1091,
+      "retweets": 2,
+      "views": 1663,
       "is_today": true
     },
     {
@@ -2873,13 +2873,13 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/JohnNosta/status/2078824845303767045",
-      "stars": 9,
-      "score": 0.6057,
+      "stars": 10,
+      "score": 0.6066,
       "comments": 0,
       "author": "John R Dallas Jr",
       "author_username": "JohnNosta",
-      "retweets": 5,
-      "views": 350,
+      "retweets": 6,
+      "views": 406,
       "is_today": false
     },
     {
@@ -2898,13 +2898,13 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/JohnNosta/status/2078887458440085884",
-      "stars": 13,
-      "score": 0.6069,
-      "comments": 0,
+      "stars": 14,
+      "score": 0.60765,
+      "comments": 1,
       "author": "John Nosta",
       "author_username": "JohnNosta",
       "retweets": 5,
-      "views": 907,
+      "views": 998,
       "is_today": false
     },
     {
@@ -2923,13 +2923,13 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/JohnNosta/status/2078835246230126972",
-      "stars": 86086,
+      "stars": 97424,
       "score": 1.0,
-      "comments": 1624,
+      "comments": 1812,
       "author": "Dudes Posting Their W’s",
       "author_username": "JohnNosta",
-      "retweets": 6797,
-      "views": 6681522,
+      "retweets": 7652,
+      "views": 7621354,
       "is_today": false
     },
     {
@@ -2948,13 +2948,13 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/databricks/status/2078905777352229047",
-      "stars": 30,
-      "score": 0.61515,
+      "stars": 33,
+      "score": 0.61605,
       "comments": 3,
       "author": "Databricks",
       "author_username": "databricks",
       "retweets": 8,
-      "views": 3228,
+      "views": 3790,
       "is_today": false
     },
     {
@@ -2973,13 +2973,13 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/databricks/status/2078850874344944015",
-      "stars": 30,
-      "score": 0.61065,
-      "comments": 1,
+      "stars": 31,
+      "score": 0.6113999999999999,
+      "comments": 2,
       "author": "Databricks",
       "author_username": "databricks",
       "retweets": 2,
-      "views": 3466,
+      "views": 3859,
       "is_today": false
     },
     {
@@ -2998,13 +2998,13 @@
       "source_type": "twitter",
       "date": "2026-07-18",
       "url": "https://x.com/databricks/status/2078551800404234590",
-      "stars": 38,
-      "score": 0.61725,
+      "stars": 39,
+      "score": 0.61755,
       "comments": 5,
       "author": "Databricks",
       "author_username": "databricks",
       "retweets": 6,
-      "views": 5293,
+      "views": 5442,
       "is_today": false
     },
     {
@@ -3023,13 +3023,13 @@
       "source_type": "twitter",
       "date": "2026-07-18",
       "url": "https://x.com/databricks/status/2078473944945078691",
-      "stars": 154,
-      "score": 0.66675,
+      "stars": 156,
+      "score": 0.66735,
       "comments": 3,
       "author": "Ali Ghodsi",
       "author_username": "databricks",
       "retweets": 32,
-      "views": 28171,
+      "views": 29073,
       "is_today": false
     },
     {
@@ -3048,13 +3048,13 @@
       "source_type": "twitter",
       "date": "2026-07-18",
       "url": "https://x.com/databricks/status/2078502592196337932",
-      "stars": 18,
-      "score": 0.6099,
+      "stars": 20,
+      "score": 0.6105,
       "comments": 2,
       "author": "Databricks",
       "author_username": "databricks",
       "retweets": 6,
-      "views": 3672,
+      "views": 3754,
       "is_today": false
     },
     {
@@ -3079,7 +3079,7 @@
       "author": "wan deeee bee",
       "author_username": "weights_biases",
       "retweets": 1,
-      "views": 1053,
+      "views": 1089,
       "is_today": false
     },
     {
@@ -3104,7 +3104,7 @@
       "author": "wan deeee bee",
       "author_username": "weights_biases",
       "retweets": 1,
-      "views": 1537,
+      "views": 1538,
       "is_today": false
     },
     {
@@ -3179,7 +3179,7 @@
       "author": "wan deeee bee",
       "author_username": "weights_biases",
       "retweets": 1,
-      "views": 2412,
+      "views": 2414,
       "is_today": false
     },
     {
@@ -3198,13 +3198,13 @@
       "source_type": "twitter",
       "date": "2026-07-08",
       "url": "https://x.com/midjourney/status/2074935272895361183",
-      "stars": 23,
-      "score": 0.61305,
+      "stars": 24,
+      "score": 0.6133500000000001,
       "comments": 11,
       "author": "Midjourney",
       "author_username": "midjourney",
       "retweets": 2,
-      "views": 17432,
+      "views": 17532,
       "is_today": false
     },
     {
@@ -3223,13 +3223,13 @@
       "source_type": "twitter",
       "date": "2026-07-02",
       "url": "https://x.com/midjourney/status/2072705638468292629",
-      "stars": 1238,
+      "stars": 1239,
       "score": 1.0,
       "comments": 30,
       "author": "Midjourney",
       "author_username": "midjourney",
       "retweets": 69,
-      "views": 124279,
+      "views": 124401,
       "is_today": false
     },
     {
@@ -3237,7 +3237,7 @@
       "label": "Two quick updates in image world. Try adding --preview to your prompt for a early peak at V8.2 aesth...",
       "type": "tweet",
       "pillar": "ecosystem",
-      "pm_score": 0.81,
+      "pm_score": 0.82,
       "tags": [
         "twitter",
         "ai_kol",
@@ -3248,13 +3248,13 @@
       "source_type": "twitter",
       "date": "2026-06-25",
       "url": "https://x.com/midjourney/status/2070223272072065228",
-      "stars": 534,
-      "score": 0.81465,
+      "stars": 537,
+      "score": 0.81555,
       "comments": 57,
       "author": "Midjourney",
       "author_username": "midjourney",
       "retweets": 48,
-      "views": 143006,
+      "views": 143133,
       "is_today": false
     },
     {
@@ -3273,13 +3273,13 @@
       "source_type": "twitter",
       "date": "2026-06-20",
       "url": "https://x.com/midjourney/status/2068431559439642912",
-      "stars": 1867,
+      "stars": 1868,
       "score": 1.0,
       "comments": 136,
       "author": "David",
       "author_username": "midjourney",
       "retweets": 64,
-      "views": 203126,
+      "views": 203155,
       "is_today": false
     },
     {
@@ -3298,13 +3298,13 @@
       "source_type": "twitter",
       "date": "2026-06-18",
       "url": "https://x.com/midjourney/status/2067688872944025975",
-      "stars": 4767,
+      "stars": 4765,
       "score": 1.0,
-      "comments": 897,
+      "comments": 898,
       "author": "Midjourney",
       "author_username": "midjourney",
       "retweets": 192,
-      "views": 353783,
+      "views": 353828,
       "is_today": false
     },
     {
@@ -3329,7 +3329,7 @@
       "author": "Runway",
       "author_username": "runwayml",
       "retweets": 19,
-      "views": 22309,
+      "views": 22477,
       "is_today": false
     },
     {
@@ -3354,7 +3354,7 @@
       "author": "Runway",
       "author_username": "runwayml",
       "retweets": 1,
-      "views": 2979,
+      "views": 3019,
       "is_today": false
     },
     {
@@ -3379,7 +3379,7 @@
       "author": "Runway",
       "author_username": "runwayml",
       "retweets": 20,
-      "views": 20375,
+      "views": 20434,
       "is_today": false
     },
     {
@@ -3404,7 +3404,7 @@
       "author": "Runway",
       "author_username": "runwayml",
       "retweets": 50,
-      "views": 78340,
+      "views": 78447,
       "is_today": false
     },
     {
@@ -3429,7 +3429,7 @@
       "author": "Runway",
       "author_username": "runwayml",
       "retweets": 0,
-      "views": 5240,
+      "views": 5263,
       "is_today": false
     },
     {
@@ -3454,7 +3454,7 @@
       "author": "Mervin Praison",
       "author_username": "pinecone",
       "retweets": 5,
-      "views": 2500,
+      "views": 2509,
       "is_today": false
     },
     {
@@ -3479,7 +3479,7 @@
       "author": "Pinecone",
       "author_username": "pinecone",
       "retweets": 2,
-      "views": 790,
+      "views": 793,
       "is_today": false
     },
     {
@@ -3504,7 +3504,7 @@
       "author": "Pinecone",
       "author_username": "pinecone",
       "retweets": 1,
-      "views": 689,
+      "views": 690,
       "is_today": false
     },
     {
@@ -3529,7 +3529,7 @@
       "author": "Pinecone",
       "author_username": "pinecone",
       "retweets": 0,
-      "views": 1360,
+      "views": 1361,
       "is_today": false
     },
     {
@@ -3554,7 +3554,7 @@
       "author": "Pinecone",
       "author_username": "pinecone",
       "retweets": 0,
-      "views": 1136,
+      "views": 1137,
       "is_today": false
     },
     {
@@ -3579,7 +3579,7 @@
       "author": "Weaviate AI Database",
       "author_username": "weaviate_io",
       "retweets": 3,
-      "views": 1072,
+      "views": 1076,
       "is_today": false
     },
     {
@@ -3604,7 +3604,7 @@
       "author": "Weaviate AI Database",
       "author_username": "weaviate_io",
       "retweets": 3,
-      "views": 896,
+      "views": 899,
       "is_today": false
     },
     {
@@ -3629,7 +3629,7 @@
       "author": "DigitalOcean",
       "author_username": "weaviate_io",
       "retweets": 9,
-      "views": 4835,
+      "views": 4836,
       "is_today": false
     },
     {
@@ -3698,13 +3698,13 @@
       "source_type": "twitter",
       "date": "2026-07-18",
       "url": "https://x.com/vercel/status/2078272387691508164",
-      "stars": 697,
-      "score": 0.83775,
-      "comments": 29,
+      "stars": 703,
+      "score": 0.84,
+      "comments": 30,
       "author": "Vercel",
       "author_username": "vercel",
       "retweets": 26,
-      "views": 57529,
+      "views": 58829,
       "is_today": false
     },
     {
@@ -3729,7 +3729,7 @@
       "author": "Vercel",
       "author_username": "vercel",
       "retweets": 8,
-      "views": 14229,
+      "views": 14330,
       "is_today": false
     },
     {
@@ -3754,7 +3754,7 @@
       "author": "Vercel",
       "author_username": "vercel",
       "retweets": 16,
-      "views": 87075,
+      "views": 87200,
       "is_today": false
     },
     {
@@ -3779,7 +3779,7 @@
       "author": "Vercel",
       "author_username": "vercel",
       "retweets": 18,
-      "views": 221850,
+      "views": 221920,
       "is_today": false
     },
     {
@@ -3804,7 +3804,7 @@
       "author": "Vercel",
       "author_username": "vercel",
       "retweets": 231,
-      "views": 489261,
+      "views": 489394,
       "is_today": false
     },
     {
@@ -3812,7 +3812,7 @@
       "label": "Here is a recreation of the World Cup final on a desk!\n\nIt fetches game data from an API and other s...",
       "type": "tweet",
       "pillar": "patterns",
-      "pm_score": 0.71,
+      "pm_score": 0.72,
       "tags": [
         "twitter",
         "ai_kol",
@@ -3823,13 +3823,13 @@
       "source_type": "twitter",
       "date": "2026-07-20",
       "url": "https://x.com/supabase/status/2079018834451956112",
-      "stars": 22,
-      "score": 0.70855,
+      "stars": 59,
+      "score": 0.72145,
       "comments": 3,
       "author": "Tyler Shukert",
       "author_username": "supabase",
-      "retweets": 1,
-      "views": 2228,
+      "retweets": 4,
+      "views": 5549,
       "is_today": true
     },
     {
@@ -3837,7 +3837,7 @@
       "label": "________________________________\n     |  What did you ship this week?     |\n     |__________________...",
       "type": "tweet",
       "pillar": "capabilities",
-      "pm_score": 0.81,
+      "pm_score": 0.84,
       "tags": [
         "twitter",
         "ai_kol",
@@ -3848,13 +3848,13 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/supabase/status/2078849844089610693",
-      "stars": 344,
-      "score": 0.81345,
-      "comments": 229,
+      "stars": 390,
+      "score": 0.8418,
+      "comments": 260,
       "author": "Supabase",
       "author_username": "supabase",
-      "retweets": 12,
-      "views": 32664,
+      "retweets": 13,
+      "views": 37080,
       "is_today": false
     },
     {
@@ -3879,7 +3879,7 @@
       "author": "Supabase",
       "author_username": "supabase",
       "retweets": 3,
-      "views": 5828,
+      "views": 5885,
       "is_today": false
     },
     {
@@ -3904,7 +3904,7 @@
       "author": "Tyler Shukert",
       "author_username": "supabase",
       "retweets": 6,
-      "views": 4227,
+      "views": 4258,
       "is_today": false
     },
     {
@@ -3929,7 +3929,7 @@
       "author": "Sam Rome",
       "author_username": "supabase",
       "retweets": 3,
-      "views": 3345,
+      "views": 3355,
       "is_today": false
     },
     {
@@ -3954,7 +3954,7 @@
       "author": "Railway",
       "author_username": "railway",
       "retweets": 1,
-      "views": 3420,
+      "views": 3443,
       "is_today": false
     },
     {
@@ -3979,7 +3979,7 @@
       "author": "Railway",
       "author_username": "railway",
       "retweets": 1,
-      "views": 32606,
+      "views": 32632,
       "is_today": false
     },
     {
@@ -3998,13 +3998,13 @@
       "source_type": "twitter",
       "date": "2026-07-16",
       "url": "https://x.com/railway/status/2077771148427694404",
-      "stars": 177,
-      "score": 0.66315,
+      "stars": 176,
+      "score": 0.6628499999999999,
       "comments": 9,
       "author": "Railway",
       "author_username": "railway",
       "retweets": 10,
-      "views": 566202,
+      "views": 583526,
       "is_today": false
     },
     {
@@ -4023,13 +4023,13 @@
       "source_type": "twitter",
       "date": "2026-07-10",
       "url": "https://x.com/railway/status/2075686928897224895",
-      "stars": 20,
-      "score": 0.60795,
+      "stars": 21,
+      "score": 0.60825,
       "comments": 3,
       "author": "Railway",
       "author_username": "railway",
       "retweets": 1,
-      "views": 3436,
+      "views": 3442,
       "is_today": false
     },
     {
@@ -4054,7 +4054,7 @@
       "author": "Railway",
       "author_username": "railway",
       "retweets": 3,
-      "views": 11771,
+      "views": 11775,
       "is_today": false
     },
     {
@@ -4079,7 +4079,7 @@
       "author": "Replicate",
       "author_username": "replicate",
       "retweets": 4,
-      "views": 5946,
+      "views": 6109,
       "is_today": false
     },
     {
@@ -4104,7 +4104,7 @@
       "author": "Replicate",
       "author_username": "replicate",
       "retweets": 0,
-      "views": 2974,
+      "views": 3107,
       "is_today": false
     },
     {
@@ -4129,7 +4129,7 @@
       "author": "Replicate",
       "author_username": "replicate",
       "retweets": 4,
-      "views": 11111,
+      "views": 11268,
       "is_today": false
     },
     {
@@ -4154,7 +4154,7 @@
       "author": "Replicate",
       "author_username": "replicate",
       "retweets": 1,
-      "views": 3593,
+      "views": 3595,
       "is_today": false
     },
     {
@@ -4174,12 +4174,12 @@
       "date": "2026-07-08",
       "url": "https://x.com/replicate/status/2074872460235645142",
       "stars": 44,
-      "score": 0.62025,
-      "comments": 9,
+      "score": 0.6207,
+      "comments": 10,
       "author": "Replicate",
       "author_username": "replicate",
       "retweets": 5,
-      "views": 14189,
+      "views": 14352,
       "is_today": false
     },
     {
@@ -4204,7 +4204,7 @@
       "author": "Andrei",
       "author_username": "replika",
       "retweets": 2,
-      "views": 3921,
+      "views": 3927,
       "is_today": false
     },
     {
@@ -4229,7 +4229,7 @@
       "author": "dmytro \"deo\" klochko",
       "author_username": "replika",
       "retweets": 2,
-      "views": 4241,
+      "views": 4247,
       "is_today": false
     },
     {
@@ -4254,7 +4254,7 @@
       "author": "Replika",
       "author_username": "replika",
       "retweets": 1,
-      "views": 4942,
+      "views": 4954,
       "is_today": false
     },
     {
@@ -4279,7 +4279,7 @@
       "author": "dmytro \"deo\" klochko",
       "author_username": "replika",
       "retweets": 9,
-      "views": 8776,
+      "views": 8797,
       "is_today": false
     },
     {
@@ -4304,7 +4304,7 @@
       "author": "Replika",
       "author_username": "replika",
       "retweets": 9,
-      "views": 3091,
+      "views": 3099,
       "is_today": false
     },
     {
@@ -4329,7 +4329,7 @@
       "author": "AI Pub",
       "author_username": "ai__pub",
       "retweets": 10,
-      "views": 30837,
+      "views": 30838,
       "is_today": false
     },
     {
@@ -4433,8 +4433,8 @@
       "is_today": false
     },
     {
-      "id": "twitter_TheAIGRID_2078984980588531855",
-      "label": "Kimi K3 just fixed 15 critical security bugs that Codex and Fable refused because of “cyber guardrai...",
+      "id": "twitter_TheAIGRID_2079068419593474307",
+      "label": "Normie FAANG engineer: \n“I should definitely brush up on leetcode and get a job at Anthropic”\n\nThe p...",
       "type": "tweet",
       "pillar": "capabilities",
       "pm_score": 1.0,
@@ -4443,48 +4443,23 @@
         "ai_kol",
         "TheAIGRID"
       ],
-      "summary": "Kimi K3 just fixed 15 critical security bugs that Codex and Fable refused because of “cyber guardrails.” There’s no reason to limit American models on tasks that Chinese models handle without issue. We’re only making ourselves less competitive.",
-      "raw_content": "Kimi K3 just fixed 15 critical security bugs that Codex and Fable refused because of “cyber guardrails.” There’s no reason to limit American models on tasks that Chinese models handle without issue. We’re only making ourselves less competitive.",
+      "summary": "Normie FAANG engineer: \n“I should definitely brush up on leetcode and get a job at Anthropic”\n\nThe people at Anthropic:",
+      "raw_content": "Normie FAANG engineer: \n“I should definitely brush up on leetcode and get a job at Anthropic”\n\nThe people at Anthropic:",
       "source_type": "twitter",
-      "date": "2026-07-19",
-      "url": "https://x.com/TheAIGRID/status/2078984980588531855",
-      "stars": 9553,
+      "date": "2026-07-20",
+      "url": "https://x.com/TheAIGRID/status/2079068419593474307",
+      "stars": 1237,
       "score": 1.0,
-      "comments": 339,
-      "author": "David Sacks",
+      "comments": 11,
+      "author": "altra",
       "author_username": "TheAIGRID",
-      "retweets": 934,
-      "views": 693512,
-      "is_today": false
+      "retweets": 30,
+      "views": 86311,
+      "is_today": true
     },
     {
-      "id": "twitter_TheAIGRID_2078758049783890429",
-      "label": "“ second only to fable 5 “  \n\nAnd open weight?  \n\nDoubt it but let’s see. \n\nI can’t see the u.s gov ...",
-      "type": "tweet",
-      "pillar": "capabilities",
-      "pm_score": 0.62,
-      "tags": [
-        "twitter",
-        "ai_kol",
-        "TheAIGRID"
-      ],
-      "summary": "“ second only to fable 5 “  \n\nAnd open weight?  \n\nDoubt it but let’s see. \n\nI can’t see the u.s gov not making moves due to the china models coming in hot.",
-      "raw_content": "“ second only to fable 5 “  \n\nAnd open weight?  \n\nDoubt it but let’s see. \n\nI can’t see the u.s gov not making moves due to the china models coming in hot.",
-      "source_type": "twitter",
-      "date": "2026-07-19",
-      "url": "https://x.com/TheAIGRID/status/2078758049783890429",
-      "stars": 51,
-      "score": 0.618,
-      "comments": 2,
-      "author": "Jimmy Apples 🍎/acc",
-      "author_username": "TheAIGRID",
-      "retweets": 3,
-      "views": 4106,
-      "is_today": false
-    },
-    {
-      "id": "twitter_TheAIGRID_2078165516657549710",
-      "label": "AI prices are collapsing five times faster than PC prices did. https://t.co/XU4Fc7hsk4",
+      "id": "twitter_TheAIGRID_2079028340955197566",
+      "label": "hello there the jacobian conjecture is false thanx to my close friend akhil for asking about it and ...",
       "type": "tweet",
       "pillar": "capabilities",
       "pm_score": 1.0,
@@ -4493,76 +4468,101 @@
         "ai_kol",
         "TheAIGRID"
       ],
-      "summary": "AI prices are collapsing five times faster than PC prices did. https://t.co/XU4Fc7hsk4",
-      "raw_content": "AI prices are collapsing five times faster than PC prices did. https://t.co/XU4Fc7hsk4",
+      "summary": "hello there the jacobian conjecture is false thanx to my close friend akhil for asking about it and my other close friend fable for working during the world cup final\n\n((1+xy)^3 z + y^2 (1+xy) (4+3xy), y + 3 x (1+xy)^2  z + 3 x y^2 (4+3xy), 2 x - 3 x^2 y - x^3 z): \\C^3\\to \\C^3, has jacobian determin",
+      "raw_content": "hello there the jacobian conjecture is false thanx to my close friend akhil for asking about it and my other close friend fable for working during the world cup final\n\n((1+xy)^3 z + y^2 (1+xy) (4+3xy), y + 3 x (1+xy)^2  z + 3 x y^2 (4+3xy), 2 x - 3 x^2 y - x^3 z): \\C^3\\to \\C^3, has jacobian determinant -2, and sends (0, 0, -1/4), (1, -3/2, 13/2), and (-1, 3/2, 13/2) to (-1/4, 0, 0)",
       "source_type": "twitter",
-      "date": "2026-07-17",
-      "url": "https://x.com/TheAIGRID/status/2078165516657549710",
-      "stars": 1911,
+      "date": "2026-07-20",
+      "url": "https://x.com/TheAIGRID/status/2079028340955197566",
+      "stars": 7589,
       "score": 1.0,
-      "comments": 61,
-      "author": "Hedgeye",
+      "comments": 563,
+      "author": "levent",
       "author_username": "TheAIGRID",
-      "retweets": 470,
-      "views": 240826,
-      "is_today": false
+      "retweets": 1079,
+      "views": 2687288,
+      "is_today": true
     },
     {
-      "id": "twitter_TheAIGRID_2078495903095386509",
-      "label": "Alex Wissner-Gross predicts AI will transform civilization within the next decade.\n\n- GPT-2 was the ...",
+      "id": "twitter_TheAIGRID_2078840929088340408",
+      "label": "🚨 Hugging Face just disclosed something that marks a real shift and proved why the fear theater of A...",
       "type": "tweet",
       "pillar": "patterns",
-      "pm_score": 0.64,
+      "pm_score": 1.0,
       "tags": [
         "twitter",
         "ai_kol",
         "TheAIGRID"
       ],
-      "summary": "Alex Wissner-Gross predicts AI will transform civilization within the next decade.\n\n- GPT-2 was the moment humanity discovered how to build superintelligence.\n\n- AI is the ultimate forcing function that will accelerate every scientific field.\n\n- AI will bulk-solve mathematics, unlocking breakthrough",
-      "raw_content": "Alex Wissner-Gross predicts AI will transform civilization within the next decade.\n\n- GPT-2 was the moment humanity discovered how to build superintelligence.\n\n- AI is the ultimate forcing function that will accelerate every scientific field.\n\n- AI will bulk-solve mathematics, unlocking breakthroughs in physics, chemistry, biology and materials science.\n\n- Digital twins of cells, tissues, organs and entire human bodies will revolutionize medicine.\n\n- AI will help solve the top 5,000 diseases by rapidly simulating and testing new treatments.\n\n- Most physically possible inventions, even Star Trek-like technologies, will become theoretically understood and begin early implementation.\n\n- Within 5-10 years, humanity will likely know whether we are alone in the universe.\n\nNeXt decade will bring more world-changing discoveries than most people think possible.",
+      "summary": "🚨 Hugging Face just disclosed something that marks a real shift and proved why the fear theater of Anthropic makes sure we are powerless in an emergency.\n\nWhat happened…\n\nAn autonomous AI agent: zero human operator in the loop breached part of their production infrastructure.\n\nIt began with a malici",
+      "raw_content": "🚨 Hugging Face just disclosed something that marks a real shift and proved why the fear theater of Anthropic makes sure we are powerless in an emergency.\n\nWhat happened…\n\nAn autonomous AI agent: zero human operator in the loop breached part of their production infrastructure.\n\nIt began with a malicious dataset that chained two code-execution bugs in their data-processing pipeline. From there the agent escalated privileges, harvested cloud and cluster credentials, and moved laterally across internal clusters.\n\nAll over a single weekend.\n\n17,000+ logged actions.\n\nOfficial disclosure:\nhttps://t.co/8N9TbXBwRV\n\nThe part that should make every one stop and think:\n\nWhen HF’s own security team\n tried to analyze the real attack logs, exploit payloads, and C2 artifacts using Anthropic and OpenAI frontier models through normal commercial APIs, the safety guardrails blocked them.\n\nBLOCKED THEM.\n\nThe models could not reliably tell the difference between “incident responder doing forensics” and “attacker probing.”\n\nThey had to fall back to a self-hosted open-weight model (GLM 5.2) running on their own infrastructure. That choice also kept sensitive attacker data and referenced credentials inside their environment — no exfiltration to a third-party API.\n\nThis is why open source (specifically open-weight + self-hosted) wins in the agentic era.\n\nThe asymmetry is now structural:\n\n•  Attackers can (and did) run unrestricted agent frameworks — swarms of short-lived sandboxes, self-migrating command-and-control, autonomous decision loops executing thousands of actions. No corporate safety layer slows them down.\n\n•  Defenders using only hosted “aligned” frontier models hit invisible walls exactly when the stakes are highest: when you need to feed real exploit code and attacker telemetry into an LLM to understand what just happened.\n\nCorporate safety tuning that treats legitimate high-signal forensic work as potential misuse creates a defender disadvantage. It is not theoretical anymore.\n\nSelf-hosted open-weight models remove that choke point. \n\nYou control the weights. \n\nYou control the context window. \n\nYou decide what restrictions (if any) apply. \n\nYour sensitive logs and credentials never leave your perimeter during analysis. \n\nYou can have the model ready before the incident instead of discovering mid-breach that your primary analysis tools are blind to the very thing you need to see.\n\nHF deserves credit for rapid containment, transparent disclosure, and for already having self-hosted capability in place. \n\nThey also used LLM-driven detection and triage on their own side. But the deeper signal is clear:\nIn this AI world where both offense and defense are becoming agentic, sovereignty over your intelligence stack is no longer optional. \n\nThe organizations and individuals who can run, inspect, audit, and (when necessary) remove guardrails on their own models will have the decisive edge in understanding and responding to threats that move at machine speed.\n\nOpen source wins here not just because it is cheaper or more “democratic” in the abstract though those things matter. \n\nIt wins because it is the only practical path to having tools that remain usable when the attack is real, the data is sensitive, and the safety filters of distant API providers become an obstacle instead of a feature selling hands tied lobotomies as “safety”.\n\nThe agentic future is not coming.\nIt is already probing production infrastructure.\n\nThe question is no longer whether you will face autonomous agents.\nIt is whether your analysis and response systems will still work when they arrive.\n\nAnd Dario, you and your game playing, ivory tower company is not needed.",
       "source_type": "twitter",
-      "date": "2026-07-18",
-      "url": "https://x.com/TheAIGRID/status/2078495903095386509",
-      "stars": 90,
-      "score": 0.64335,
-      "comments": 11,
-      "author": "SciTech Era",
+      "date": "2026-07-19",
+      "url": "https://x.com/TheAIGRID/status/2078840929088340408",
+      "stars": 5036,
+      "score": 1.0,
+      "comments": 271,
+      "author": "Brian Roemmele",
       "author_username": "TheAIGRID",
-      "retweets": 19,
-      "views": 4921,
+      "retweets": 1027,
+      "views": 1190580,
       "is_today": false
     },
     {
-      "id": "twitter_TheAIGRID_2078393728444850218",
-      "label": "This is the Deepseek moment again but even crazier. OpenAI and Anthropic IPOs might be derailed if t...",
+      "id": "twitter_TheAIGRID_2078943433688019328",
+      "label": "extremely unprofessional. if kimi wants to make it as a frontier lab, they need to act like one: per...",
       "type": "tweet",
       "pillar": "capabilities",
-      "pm_score": 0.8,
+      "pm_score": 1.0,
       "tags": [
         "twitter",
         "ai_kol",
         "TheAIGRID"
       ],
-      "summary": "This is the Deepseek moment again but even crazier. OpenAI and Anthropic IPOs might be derailed if this keeps going on. \n\nAlso this proves how pointless Harvey’s second try at post-training is. They have again burnt a ton of investor money for nothing. \n\nThey should just host the latest, best perfor",
-      "raw_content": "This is the Deepseek moment again but even crazier. OpenAI and Anthropic IPOs might be derailed if this keeps going on. \n\nAlso this proves how pointless Harvey’s second try at post-training is. They have again burnt a ton of investor money for nothing. \n\nThey should just host the latest, best performing Chinese OSS models instead. The frontier is still moving fast and this time on the OSS front.",
+      "summary": "extremely unprofessional. if kimi wants to make it as a frontier lab, they need to act like one: perhaps silently route people to worse models, and maybe write a blog post about the collapse of humanity",
+      "raw_content": "extremely unprofessional. if kimi wants to make it as a frontier lab, they need to act like one: perhaps silently route people to worse models, and maybe write a blog post about the collapse of humanity",
       "source_type": "twitter",
-      "date": "2026-07-18",
-      "url": "https://x.com/TheAIGRID/status/2078393728444850218",
-      "stars": 557,
-      "score": 0.7998000000000001,
-      "comments": 30,
-      "author": "WillC",
+      "date": "2026-07-19",
+      "url": "https://x.com/TheAIGRID/status/2078943433688019328",
+      "stars": 13453,
+      "score": 1.0,
+      "comments": 183,
+      "author": "Anshu",
       "author_username": "TheAIGRID",
-      "retweets": 32,
-      "views": 83656,
+      "retweets": 725,
+      "views": 386628,
       "is_today": false
+    },
+    {
+      "id": "twitter_TheAIGRID_2079056619120595063",
+      "label": "AI competence has always been very spiky, superhuman in some narrow domains and largely useless in o...",
+      "type": "tweet",
+      "pillar": "business",
+      "pm_score": 0.88,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "TheAIGRID"
+      ],
+      "summary": "AI competence has always been very spiky, superhuman in some narrow domains and largely useless in others. The fundamental marketing trick of the AI industry is to make you believe the tallest spike is a floor.",
+      "raw_content": "AI competence has always been very spiky, superhuman in some narrow domains and largely useless in others. The fundamental marketing trick of the AI industry is to make you believe the tallest spike is a floor.",
+      "source_type": "twitter",
+      "date": "2026-07-20",
+      "url": "https://x.com/TheAIGRID/status/2079056619120595063",
+      "stars": 445,
+      "score": 0.88,
+      "comments": 58,
+      "author": "François Chollet",
+      "author_username": "TheAIGRID",
+      "retweets": 34,
+      "views": 23956,
+      "is_today": true
     },
     {
       "id": "twitter__akhaliq_2078891672818352425",
       "label": "There have been rumors that open-source AI could soon be limited and regulated. I believe the opposi...",
       "type": "tweet",
       "pillar": "capabilities",
-      "pm_score": 0.71,
+      "pm_score": 0.73,
       "tags": [
         "twitter",
         "ai_kol",
@@ -4573,13 +4573,13 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/_akhaliq/status/2078891672818352425",
-      "stars": 254,
-      "score": 0.7142999999999999,
-      "comments": 34,
+      "stars": 292,
+      "score": 0.7323,
+      "comments": 42,
       "author": "clem 🤗",
       "author_username": "_akhaliq",
-      "retweets": 38,
-      "views": 23144,
+      "retweets": 43,
+      "views": 26902,
       "is_today": false
     },
     {
@@ -4598,13 +4598,13 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/_akhaliq/status/2078849971441336648",
-      "stars": 32,
-      "score": 0.61755,
+      "stars": 35,
+      "score": 0.61905,
       "comments": 3,
       "author": "DailyPapers",
       "author_username": "_akhaliq",
-      "retweets": 11,
-      "views": 5514,
+      "retweets": 12,
+      "views": 6424,
       "is_today": false
     },
     {
@@ -4612,7 +4612,7 @@
       "label": "Mind Lab's 2M-token long-context RL project is now open source.\nIt took only 8 GPUs compared with th...",
       "type": "tweet",
       "pillar": "capabilities",
-      "pm_score": 0.65,
+      "pm_score": 0.66,
       "tags": [
         "twitter",
         "ai_kol",
@@ -4623,13 +4623,13 @@
       "source_type": "twitter",
       "date": "2026-07-17",
       "url": "https://x.com/_akhaliq/status/2078152293594362169",
-      "stars": 125,
-      "score": 0.654,
+      "stars": 127,
+      "score": 0.6552,
       "comments": 6,
       "author": "Mind Lab",
       "author_username": "_akhaliq",
-      "retweets": 23,
-      "views": 14056,
+      "retweets": 24,
+      "views": 14376,
       "is_today": false
     },
     {
@@ -4654,7 +4654,7 @@
       "author": "AK",
       "author_username": "_akhaliq",
       "retweets": 5,
-      "views": 11212,
+      "views": 11326,
       "is_today": false
     },
     {
@@ -4679,7 +4679,7 @@
       "author": "AK",
       "author_username": "_akhaliq",
       "retweets": 0,
-      "views": 4246,
+      "views": 4318,
       "is_today": false
     },
     {
@@ -4933,6 +4933,56 @@
       "is_today": false
     },
     {
+      "id": "twitter_ThePracticalDev_2079126164803665922",
+      "label": "A SQL audit tool looked done: four AI reviews found zero bugs. Then this dev ran it on real Postgres...",
+      "type": "tweet",
+      "pillar": "patterns",
+      "pm_score": 0.7,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ThePracticalDev"
+      ],
+      "summary": "A SQL audit tool looked done: four AI reviews found zero bugs. Then this dev ran it on real Postgres and MariaDB, where a missing extension killed every metric.\n\nSubmitted for DEV's Summer Bug Smash.\n\n{ author: @pcescato }\n\nhttps://t.co/LRzT9FZyzp",
+      "raw_content": "A SQL audit tool looked done: four AI reviews found zero bugs. Then this dev ran it on real Postgres and MariaDB, where a missing extension killed every metric.\n\nSubmitted for DEV's Summer Bug Smash.\n\n{ author: @pcescato }\n\nhttps://t.co/LRzT9FZyzp",
+      "source_type": "twitter",
+      "date": "2026-07-20",
+      "url": "https://x.com/ThePracticalDev/status/2079126164803665922",
+      "stars": 5,
+      "score": 0.7027,
+      "comments": 0,
+      "author": "DEV Community",
+      "author_username": "ThePracticalDev",
+      "retweets": 2,
+      "views": 1327,
+      "is_today": true
+    },
+    {
+      "id": "twitter_ThePracticalDev_2079054946087874693",
+      "label": "Flat vector search grabs symptoms but misses root causes when logs are linked by causality, not simi...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.7,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ThePracticalDev"
+      ],
+      "summary": "Flat vector search grabs symptoms but misses root causes when logs are linked by causality, not similarity. This dev's Graph-Anchor Pyramid recovers full causal chains in RAG.\n\n{ author: @tanaikech + @GoogleDevExpert }\n\nhttps://t.co/ojjxuYnGvb",
+      "raw_content": "Flat vector search grabs symptoms but misses root causes when logs are linked by causality, not similarity. This dev's Graph-Anchor Pyramid recovers full causal chains in RAG.\n\n{ author: @tanaikech + @GoogleDevExpert }\n\nhttps://t.co/ojjxuYnGvb",
+      "source_type": "twitter",
+      "date": "2026-07-20",
+      "url": "https://x.com/ThePracticalDev/status/2079054946087874693",
+      "stars": 4,
+      "score": 0.7012,
+      "comments": 0,
+      "author": "DEV Community",
+      "author_username": "ThePracticalDev",
+      "retweets": 0,
+      "views": 2424,
+      "is_today": true
+    },
+    {
       "id": "twitter_ThePracticalDev_2078889103702085740",
       "label": "A prompt injection hidden in a file told an agent to quietly write a fake approval file. It passed e...",
       "type": "tweet",
@@ -4954,7 +5004,7 @@
       "author": "DEV Community",
       "author_username": "ThePracticalDev",
       "retweets": 0,
-      "views": 3240,
+      "views": 3550,
       "is_today": false
     },
     {
@@ -4979,7 +5029,7 @@
       "author": "DEV Community",
       "author_username": "ThePracticalDev",
       "retweets": 0,
-      "views": 3235,
+      "views": 3649,
       "is_today": false
     },
     {
@@ -5004,57 +5054,7 @@
       "author": "DEV Community",
       "author_username": "ThePracticalDev",
       "retweets": 2,
-      "views": 2912,
-      "is_today": false
-    },
-    {
-      "id": "twitter_ThePracticalDev_2078692559891607807",
-      "label": "When Google retired its Gemini PR-review tools, this dev built a drop-in GitHub Action: fast native ...",
-      "type": "tweet",
-      "pillar": "ecosystem",
-      "pm_score": 0.6,
-      "tags": [
-        "twitter",
-        "ai_kol",
-        "ThePracticalDev"
-      ],
-      "summary": "When Google retired its Gemini PR-review tools, this dev built a drop-in GitHub Action: fast native runs with uv, full-file context, structured output, and issue triage.\n\n{ author: Darren Lester + @GoogleDevExpert }\n\nhttps://t.co/J3UwxftYdZ",
-      "raw_content": "When Google retired its Gemini PR-review tools, this dev built a drop-in GitHub Action: fast native runs with uv, full-file context, structured output, and issue triage.\n\n{ author: Darren Lester + @GoogleDevExpert }\n\nhttps://t.co/J3UwxftYdZ",
-      "source_type": "twitter",
-      "date": "2026-07-19",
-      "url": "https://x.com/ThePracticalDev/status/2078692559891607807",
-      "stars": 3,
-      "score": 0.6009,
-      "comments": 0,
-      "author": "DEV Community",
-      "author_username": "ThePracticalDev",
-      "retweets": 0,
-      "views": 3102,
-      "is_today": false
-    },
-    {
-      "id": "twitter_ThePracticalDev_2078526715714732135",
-      "label": "Turns out a Top-Level Domain zone can serve a website of its own. A registry operator can add DNS re...",
-      "type": "tweet",
-      "pillar": "capabilities",
-      "pm_score": 0.6,
-      "tags": [
-        "twitter",
-        "ai_kol",
-        "ThePracticalDev"
-      ],
-      "summary": "Turns out a Top-Level Domain zone can serve a website of its own. A registry operator can add DNS records to the apex of a TLD, so a bare address like .uz can load a page. This dev shows how.\n\n{ author: @Hacksore }\n\nhttps://t.co/IRlvvkuxd9",
-      "raw_content": "Turns out a Top-Level Domain zone can serve a website of its own. A registry operator can add DNS records to the apex of a TLD, so a bare address like .uz can load a page. This dev shows how.\n\n{ author: @Hacksore }\n\nhttps://t.co/IRlvvkuxd9",
-      "source_type": "twitter",
-      "date": "2026-07-18",
-      "url": "https://x.com/ThePracticalDev/status/2078526715714732135",
-      "stars": 9,
-      "score": 0.6048,
-      "comments": 2,
-      "author": "DEV Community",
-      "author_username": "ThePracticalDev",
-      "retweets": 2,
-      "views": 4512,
+      "views": 3056,
       "is_today": false
     },
     {
@@ -5079,7 +5079,7 @@
       "author": "AI Pub",
       "author_username": "AI__Pub",
       "retweets": 10,
-      "views": 30837,
+      "views": 30838,
       "is_today": false
     },
     {
@@ -5198,13 +5198,13 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/databricks/status/2078905777352229047",
-      "stars": 30,
-      "score": 0.61515,
+      "stars": 33,
+      "score": 0.61605,
       "comments": 3,
       "author": "Databricks",
       "author_username": "databricks",
       "retweets": 8,
-      "views": 3228,
+      "views": 3792,
       "is_today": false
     },
     {
@@ -5223,13 +5223,13 @@
       "source_type": "twitter",
       "date": "2026-07-19",
       "url": "https://x.com/databricks/status/2078850874344944015",
-      "stars": 30,
-      "score": 0.61065,
-      "comments": 1,
+      "stars": 31,
+      "score": 0.6113999999999999,
+      "comments": 2,
       "author": "Databricks",
       "author_username": "databricks",
       "retweets": 2,
-      "views": 3467,
+      "views": 3859,
       "is_today": false
     },
     {
@@ -5248,13 +5248,13 @@
       "source_type": "twitter",
       "date": "2026-07-18",
       "url": "https://x.com/databricks/status/2078551800404234590",
-      "stars": 38,
-      "score": 0.61725,
+      "stars": 39,
+      "score": 0.61755,
       "comments": 5,
       "author": "Databricks",
       "author_username": "databricks",
       "retweets": 6,
-      "views": 5293,
+      "views": 5442,
       "is_today": false
     },
     {
@@ -5273,13 +5273,13 @@
       "source_type": "twitter",
       "date": "2026-07-18",
       "url": "https://x.com/databricks/status/2078473944945078691",
-      "stars": 154,
-      "score": 0.66675,
+      "stars": 156,
+      "score": 0.66735,
       "comments": 3,
       "author": "Ali Ghodsi",
       "author_username": "databricks",
       "retweets": 32,
-      "views": 28171,
+      "views": 29074,
       "is_today": false
     },
     {
@@ -5298,13 +5298,13 @@
       "source_type": "twitter",
       "date": "2026-07-18",
       "url": "https://x.com/databricks/status/2078502592196337932",
-      "stars": 18,
-      "score": 0.6099,
+      "stars": 20,
+      "score": 0.6105,
       "comments": 2,
       "author": "Databricks",
       "author_username": "databricks",
       "retweets": 6,
-      "views": 3672,
+      "views": 3754,
       "is_today": false
     },
     {
@@ -5329,7 +5329,7 @@
       "author": "wan deeee bee",
       "author_username": "weights_biases",
       "retweets": 1,
-      "views": 1053,
+      "views": 1089,
       "is_today": false
     },
     {
@@ -5354,7 +5354,7 @@
       "author": "wan deeee bee",
       "author_username": "weights_biases",
       "retweets": 1,
-      "views": 1537,
+      "views": 1538,
       "is_today": false
     },
     {
@@ -5429,7 +5429,7 @@
       "author": "wan deeee bee",
       "author_username": "weights_biases",
       "retweets": 1,
-      "views": 2412,
+      "views": 2414,
       "is_today": false
     },
     {
