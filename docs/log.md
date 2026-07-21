@@ -3041,3 +3041,21 @@
 - create: us-threatens-sanctions-against-chinese-ai-models-over-ip-theft.md
 - create: music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated.md
 - create: gritt-exits-stealth-with-32-million-for-robots-to-build-solar-plants-then-everyt.md
+
+## [2026-07-22 06:02] sync v3 | 16 new | pillars: {'ecosystem': 2, 'patterns': 4, 'capabilities': 10}
+- create: openai-and-hugging-face-address-security-incident-during-model-evaluation.md
+- create: jack-dorsey-launches-buzz-to-combine-team-chat-ai-agents-and-git-hosting.md
+- create: metas-ai-models-are-powering-the-first-wave-of-genesis-mission-projects.md
+- create: advertise-in-chatgpt.md
+- create: ai-agent-trmnl.md
+- create: show-hn-imagin-raw-a-9mb-open-source-alternative-to-adobe-bridge-for-mac.md
+- create: judge-approves-15b-anthropic-settlement-for-pirated-books-used-to-train-claude.md
+- create: five-tech-giants-are-hiding-16t-in-ai-debt-using-the-trick-that-toppled-enron.md
+- create: firefox-containers-preview.md
+- create: openai-says-hugging-face-was-breached-by-its-own-pre-release-models.md
+- create: jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-the.md
+- create: ai-and-the-rise-of-the-universal-entertainment-app.md
+- create: data-centers-expected-to-use-4x-more-electricity-by-2035.md
+- create: google-releases-three-new-gemini-models-but-no-35-pro.md
+- create: show-hn-language-model-builder-an-app-to-learn-about-and-build-models.md
+- create: show-hn-oss-cross-harness-self-hosted-registry-and-analytics-for-ai-agents.md

@@ -1,0 +1,23 @@
+{
+  "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+  "description": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+  "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+  "pub_date": "Tue, 21 Jul 2026 20:56:55 +0000",
+  "tag": "TechCrunch",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "testing"
+  ],
+  "summary_cn": "OpenAI承认对Hugging Face平台的安全事件负责，原因为内部测试流程失控导致预发布模型意外泄露。该事件警示AI产品经理：预发布模型的访问控制与测试环境隔离至关重要。泄露可能带来模型权重被盗用、商业机密外泄、或竞争对手提前获取能力等风险。企业需强化内部测试的沙箱机制和审计日志，同时在模型发布前进行全面的安全审查。此事件也凸显了AI供应链中模型托管平台的安全责任，影响生态信任与合规。",
+  "pm_relevance": 8,
+  "concepts": [
+    "预发布模型泄露",
+    "内部测试安全",
+    "模型供应链风险"
+  ],
+  "entities": [
+    "OpenAI",
+    "Hugging Face"
+  ],
+  "patterns": []
+}

@@ -1,8 +1,41 @@
 {
   "date": "2026-07-22",
-  "generated_at": "2026-07-22T00:01:58.764249+08:00",
-  "item_count": 5,
+  "generated_at": "2026-07-22T06:02:17.707969+08:00",
+  "item_count": 17,
   "items": [
+    {
+      "id": "advertise-in-chatgpt",
+      "label": "Advertise in ChatGPT",
+      "summary": "ChatGPT 正在探索在其对话界面中嵌入广告，这标志着从纯订阅制向广告支持免费模式的转变。技术要点在于利用大模型的上下文理解能力实现原生、非侵入式的精准广告投放，例如在回答中自然提及产品或服务。商业价值显著：可降低用户使用门槛，扩大用户基数，并为 OpenAI 创造可持续的广告营收来源。产品创新在于广告以对话形式呈现，需权衡用户体验与变现效率。对 AI 产品经理而言，这是探索大模型商业化的重要案例，需关注广告频次、相关性与用户留存之间的平衡。",
+      "pm_score": 0.63,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48996571",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "openai-and-hugging-face-address-security-incident-during-model-evaluation",
+      "label": "OpenAI and Hugging Face address security incident during model evaluation",
+      "summary": "OpenAI 与 Hugging Face 共同应对模型评估过程中出现的安全事件，凸显了 AI 生态中跨平台安全协作的重要性。该事件可能涉及模型评估环节的漏洞或攻击，双方通过联合响应机制及时修复，保障了模型发布前的安全性。对产品经理而言，需重视模型评估阶段的安全审查，建立与第三方平台的协同应急流程，以降低产品上线风险，增强用户信任。",
+      "pm_score": 0.595,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48997548",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "jack-dorsey-launches-buzz-to-combine-team-chat-ai-agents-and-git-hosting",
+      "label": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "summary": "Jack Dorsey 推出 Buzz，一个融合团队聊天、AI 代理和 Git 托管的协作平台。该产品旨在简化开发工作流，通过在聊天界面中嵌入 AI 代理来辅助代码审查、任务管理和自动化流程。同时，内置 Git 托管功能使团队无需切换工具即可管理代码仓库。对于 AI 产品经理而言，Buzz 代表了将 AI 代理深度融入日常协作工具的新模式，可能重塑开发团队的协作方式，并降低从沟通到部署的摩擦。",
+      "pm_score": 0.585,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48995213",
+      "date": "2026-07-22"
+    },
     {
       "id": "gemini-36-flash-35-flash-lite-and-35-flash-cyber",
       "label": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
@@ -37,6 +70,61 @@
       "date": "2026-07-22"
     },
     {
+      "id": "ai-and-the-rise-of-the-universal-entertainment-app",
+      "label": "AI and the rise of the universal entertainment app",
+      "summary": "流媒体平台过去通过单一内容格式竞争，如今AI降低了内容创作、组织和推荐的壁垒，促使Spotify、Netflix、YouTube和 TikTok 向全能娱乐应用演进。对产品经理而言，核心机会在于利用AI打破媒介边界，打造集成音频、视频、播客等多元格式的统一体验，并通过智能推荐提升用户粘性和平台生态价值。这要求PM关注AI驱动的内容生成与聚合能力，以及跨格式的个性化分发策略。",
+      "pm_score": 0.515,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "data-centers-expected-to-use-4x-more-electricity-by-2035",
+      "label": "Data centers expected to use 4x more electricity by 2035",
+      "summary": "TechCrunch报道，到2035年数据中心用电量预计将增长4倍，到2033年新建数据中心的年耗电量可能相当于印度当前的总用电量。这对AI产品经理意味着：随着AI应用爆发，基础设施能耗成本将急剧上升，需关注高效模型设计、绿色数据中心趋势及云服务商的能源定价策略。这既是成本风险，也是推动可持续AI创新的商业机会。",
+      "pm_score": 0.515,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "openai-says-hugging-face-was-breached-by-its-own-pre-release-models",
+      "label": "OpenAI says Hugging Face was breached by its own pre-release models",
+      "summary": "OpenAI承认对Hugging Face平台的安全事件负责，原因为内部测试流程失控导致预发布模型意外泄露。该事件警示AI产品经理：预发布模型的访问控制与测试环境隔离至关重要。泄露可能带来模型权重被盗用、商业机密外泄、或竞争对手提前获取能力等风险。企业需强化内部测试的沙箱机制和审计日志，同时在模型发布前进行全面的安全审查。此事件也凸显了AI供应链中模型托管平台的安全责任，影响生态信任与合规。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "google-releases-three-new-gemini-models-but-no-35-pro",
+      "label": "Google releases three new Gemini models — but no 3.5 Pro",
+      "summary": "Google 发布了三款新 Gemini 模型：Gemini 3.6 Flash、3.5 Flash-Lite 以及专注于网络安全场景的 Flash Cyber，但依然未推出 Gemini 3.5 Pro。此举引发业界对其 AI 战略的疑问——是主动调整模型分层策略，还是 Pro 系列研发受阻？对于 AI 产品经理而言，这提示 Google 可能在强化轻量级、特定场景模型（如低延迟、高性价比的 Flash 系列），以应对 OpenAI 和 Anthropic 的竞争。产品创新方面，Flash Cyber 瞄准安全领域，体现垂直行业模型定制趋势。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-the",
+      "label": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and th",
+      "summary": "Buzz 是 Jack Dorsey 推出的企业群聊平台，核心创新在于将人类用户与 AI 代理置于同一对话空间中，支持 AI 代理以自然角色参与团队协作。该产品直接挑战 Slack 的市场地位，通过深度集成 AI 代理能力（如任务执行、信息检索）提升团队效率。对 AI 产品经理而言，Buzz 展示了如何将 AI 从辅助工具转变为团队平等成员的产品设计思路，可能重塑办公协作软件的交互范式，具有显著的商业颠覆潜力。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "date": "2026-07-22"
+    },
+    {
       "id": "gritt-exits-stealth-with-32-million-for-robots-to-build-solar-plants-then-everyt",
       "label": "Gritt exits stealth with $32 million for robots to build solar plants — then, ev",
       "summary": "Gritt 公司获得3200万美元融资，从隐形模式中走出，专注于用机器人自动化建造太阳能电站中最困难的任务，并计划未来扩展到其他建筑领域。其技术核心是让机器人在复杂、动态的建筑工地上自主执行高精度操作，解决劳动力短缺、效率低下和安全风险等痛点。商业价值在于为太阳能电站等大型项目提供可重复、全天候的自动化施工方案，有望显著降低项目周期和成本。产品创新体现在从高价值、任务明确的太阳能电站场景切入，逐步积累场景理解与运动规划能力，进而拓展至更广泛的建筑自动化市场。",
@@ -57,10 +145,54 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48993059",
       "date": "2026-07-22"
+    },
+    {
+      "id": "judge-approves-15b-anthropic-settlement-for-pirated-books-used-to-train-claude",
+      "label": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "summary": "美国法官批准了Anthropic因使用盗版书籍训练Claude模型而支付的15亿美元和解协议。这一案件凸显了AI训练数据版权合规的极端重要性：即使模型性能强大，若训练数据来源存在法律风险，企业可能面临巨额赔偿，严重影响商业化进程。对AI产品经理而言，需在模型能力与数据合法性之间平衡，提前建立数据审计与授权机制，避免类似法律雷区。该事件还可能推动行业形成更规范的数据采购和标注流程，倒逼企业采用授权数据集或合成数据策略。",
+      "pm_score": 0.465,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48996652",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "firefox-containers-preview",
+      "label": "Firefox Containers Preview",
+      "summary": "Firefox 推出 Containers 预览功能，允许用户在浏览器中创建隔离的标签页容器，以分离工作、社交、购物等不同身份下的浏览活动，提升隐私保护与组织效率。该特性通过 cookie 和站点数据的隔离，避免跨站追踪，同时支持多账户同时登录。对于 AI 产品经理，这意味着在浏览器层面实现了用户意图与上下文的细分管理，为个性化 AI 助手、智能标签切换等产品创新提供了底层框架。商业价值在于增强 Firefox 在隐私市场的竞争力，吸引注重数据隔离的用户。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48995409",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "metas-ai-models-are-powering-the-first-wave-of-genesis-mission-projects",
+      "label": "Meta's AI models are powering the first wave of Genesis Mission projects",
+      "summary": "Meta的AI模型正在为首批Genesis Mission项目提供核心动力。这一举措展示了Meta在基础模型领域的深厚积累，将先进AI能力赋能给特定项目集群，推动技术从研究走向实际应用。对AI产品经理而言，这标志着Meta正将其AI模型作为开放平台，支持第三方创新，可能催生一系列基于Meta模型的产品与服务。Genesis Mission项目可能涵盖从内容生成到数据分析的多种场景，体现了模型即服务（Model-as-a-Service）的商业模式趋势，同时也为产品经理提供了利用顶级模型快速构建差异化应用的机会。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48995074",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "show-hn-imagin-raw-a-9mb-open-source-alternative-to-adobe-bridge-for-mac",
+      "label": "Show HN: Imagin Raw – A 9MB Open-Source Alternative to Adobe Bridge for Mac",
+      "summary": "Imagin Raw 是一款仅 9MB 的开源软件，旨在替代 Adobe Bridge，专为 Mac 设计。它聚焦于原始图像（Raw）的高效管理，体积虽小但功能完整，适合摄影师和创意工作者。作为免费替代品，它降低了专业资产管理工具的使用门槛，同时开源社区可参与定制与迭代。对 AI 产品经理而言，该产品展示了轻量化、垂直场景的颠覆可能，也提示了开源生态在工具链中的价值。",
+      "pm_score": 0.36,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48995444",
+      "date": "2026-07-22"
     }
   ],
   "graph_totals": {
-    "real_nodes": 4788,
-    "edges": 5115
+    "real_nodes": 4834,
+    "edges": 5161
   }
 }
