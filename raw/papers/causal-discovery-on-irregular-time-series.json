@@ -1,0 +1,27 @@
+{
+  "title": "Causal Discovery on Irregular Time Series",
+  "summary": "Causal discovery methods have shown strong performance in temporal systems, but they typically rely on regular and discrete lag structures, limiting their applicability to regularly sampled data. However, many real-world tasks require dealing with irregularly sampled streams of events, such as sensor streams, healthcare data, and financial transactions. In this work, we propose an extension of PCMCI+, a state-of-the-art method for causal discovery on regular multivariate time series, to allow for handling irregular time series. Instead of modelling causal relations through fixed-lag dependencies, our method aggregates causal influence over predefined temporal windows. We evaluate our method on synthetic irregular event streams with known causal structures under different signal-to-noise ratios, showing that it consistently recovers the underlying causal graph and substantially outperforms the standard PCMCI+ on irregularly sampled data.",
+  "url": "http://arxiv.org/abs/2607.18226v1",
+  "authors": [
+    "Martim Penim",
+    "Ricardo Ribeiro Pereira",
+    "Jacopo Bono",
+    "Hugo Ferreira",
+    "Mário A. T. Figueiredo"
+  ],
+  "published": "2026-07-20T17:57:45Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "eval"
+  ],
+  "summary_cn": "该论文针对不规则时间序列的因果发现问题，指出现有方法依赖规则滞后结构，难以处理传感器等实时数据中的非均匀采样。提出新方法以突破这一限制，可实现更准确的因果关系推断，对物联网、金融、医疗等需要处理不规则事件流的领域具有重要商业价值，有望提升产品在实时决策和预测中的鲁棒性。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Irregular Time Series",
+    "Causal Discovery",
+    "Time Series Analysis"
+  ],
+  "entities": [],
+  "patterns": []
+}

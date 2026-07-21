@@ -169,17 +169,24 @@ def generate_daily_post(data):
     if not narratives and not insights:
         return None
     
-    # 如果 narratives 少于3条，从 insights 中补充
+    # 如果 narratives 少于3条，从 insights 中补充（去重）
     all_items = narratives.copy()
+    existing_titles = {n.get("title", "") for n in narratives}
+    
     for insight in insights:
         if len(all_items) >= 3:
             break
+        insight_title = insight.get("narrative_title", "")
+        # 跳过已存在的标题
+        if insight_title in existing_titles:
+            continue
         # 将 insight 转换为 narrative 格式
         all_items.append({
-            "title": insight.get("narrative_title", ""),
+            "title": insight_title,
             "type": "insight",
             "pillar": insight.get("pillar", ""),
         })
+        existing_titles.add(insight_title)
     
     # 标题
     title_options = [

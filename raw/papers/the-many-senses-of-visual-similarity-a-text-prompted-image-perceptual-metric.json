@@ -1,0 +1,35 @@
+{
+  "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
+  "summary": "Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances into a single scalar value, offering no mechanism to condition on specific aspects. To bridge this gap, we introduce a large-scale dataset of human similarity judgments over image triplets, where each triplet is annotated across multiple, free-form semantic aspects of similarity. Benchmarking a broad range of frontier vision-language models (VLMs) reveals a considerable performance gap compared to human annotators' consensus. Leveraging our data, we fine-tune a VLM to produce our Text-Prompted Image Perceptual Similarity (TPIPS) metric, capturing multiple senses of visual similarity depending on the specified text prompt. We demonstrate that TPIPS aligns more closely with human perception and generalizes reliably beyond the training distribution. Finally, we show that TPIPS unlocks new capabilities in text-guided retrieval, compositional search, and the fine-grained evaluation of generative models. Our code, data, and trained models are at https://peterwang512.github.io/TPIPS",
+  "url": "http://arxiv.org/abs/2607.18237v1",
+  "authors": [
+    "Sheng-Yu Wang",
+    "Yotam Nitzan",
+    "Aaron Hertzmann",
+    "Jun-Yan Zhu",
+    "Eli Shechtman"
+  ],
+  "published": "2026-07-20T17:59:51Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "vision",
+    "training",
+    "dataset",
+    "retrieval",
+    "similarity"
+  ],
+  "summary_cn": "该论文提出了一种基于文本提示的图像感知相似性度量方法，解决了现有指标只能输出单一相似度分数、无法区分形状与颜色等不同维度的缺陷。通过引入可定制的文本指令，用户能够指定希望关注的方面（如“形状”或“颜色”），从而获得与上下文相关的相似性判断。这一技术为AI产品经理在图像搜索、推荐系统、设计辅助等场景中提供了更灵活、更符合人类直觉的相似性评估工具，有望提升用户体验和业务效果。",
+  "pm_relevance": 8,
+  "concepts": [
+    "视觉相似性",
+    "文本引导感知",
+    "多模态条件化"
+  ],
+  "entities": [],
+  "patterns": [
+    "Text-Conditioned AI",
+    "Perceptual Metric"
+  ]
+}

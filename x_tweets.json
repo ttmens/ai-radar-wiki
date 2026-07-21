@@ -1,8 +1,44 @@
 {
-  "fetched_at": "2026-07-20T21:01:09.380649",
+  "fetched_at": "2026-07-21T09:01:16.581469",
   "source": "twitter-cli",
   "data": {
     "sama": [
+      {
+        "id": "2079258683884917013",
+        "text": "it is good now!",
+        "author": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screenName": "sama",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 2349,
+          "retweets": 95,
+          "replies": 401,
+          "quotes": 17,
+          "views": 348104,
+          "bookmarks": 162
+        },
+        "createdAt": "Mon Jul 20 17:34:35 +0000 2026",
+        "createdAtLocal": "2026-07-21 01:34",
+        "createdAtISO": "2026-07-20T17:34:35+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2079199143868960823",
+          "text": "throughout june we rolled out major updates to chatgpt memory \n\nit can be hard to tell the difference initially  \n\nbut alot of folks are clearly feeling the improvements now https://t.co/KkzOE9rGIW",
+          "author": {
+            "screenName": "_samirism",
+            "name": "samir"
+          }
+        }
+      },
       {
         "id": "2078244242993164716",
         "text": "this is cool:\n\nhttps://t.co/X4HEmFym68",
@@ -14,12 +50,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 3224,
-          "retweets": 209,
-          "replies": 512,
-          "quotes": 66,
-          "views": 734974,
-          "bookmarks": 603
+          "likes": 3252,
+          "retweets": 213,
+          "replies": 535,
+          "quotes": 67,
+          "views": 761129,
+          "bookmarks": 613
         },
         "createdAt": "Fri Jul 17 22:23:34 +0000 2026",
         "createdAtLocal": "2026-07-18 06:23",
@@ -44,12 +80,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 14083,
-          "retweets": 419,
-          "replies": 1936,
-          "quotes": 250,
-          "views": 1057336,
-          "bookmarks": 635
+          "likes": 14095,
+          "retweets": 420,
+          "replies": 1944,
+          "quotes": 252,
+          "views": 1065900,
+          "bookmarks": 636
         },
         "createdAt": "Thu Jul 16 19:47:29 +0000 2026",
         "createdAtLocal": "2026-07-17 03:47",
@@ -72,12 +108,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 24611,
-          "retweets": 890,
-          "replies": 2265,
-          "quotes": 408,
-          "views": 2496982,
-          "bookmarks": 2127
+          "likes": 24620,
+          "retweets": 892,
+          "replies": 2269,
+          "quotes": 409,
+          "views": 2515003,
+          "bookmarks": 2128
         },
         "createdAt": "Thu Jul 16 18:06:05 +0000 2026",
         "createdAtLocal": "2026-07-17 02:06",
@@ -100,12 +136,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8984,
+          "likes": 8986,
           "retweets": 433,
-          "replies": 721,
-          "quotes": 237,
-          "views": 1544730,
-          "bookmarks": 1673
+          "replies": 720,
+          "quotes": 238,
+          "views": 1552933,
+          "bookmarks": 1672
         },
         "createdAt": "Thu Jul 16 05:43:13 +0000 2026",
         "createdAtLocal": "2026-07-16 13:43",
@@ -116,44 +152,6 @@
         "retweetedBy": "sama",
         "lang": "en",
         "score": null
-      },
-      {
-        "id": "2077794137428922833",
-        "text": "My first attempt at a twitter article.. if you prefer the blog form, see https://t.co/r9x2wLsuqe",
-        "author": {
-          "id": "1217628182611927040",
-          "name": "Boaz Barak",
-          "screenName": "boazbaraktcs",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1252262363132280834/ytIN-vzv_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 170,
-          "retweets": 11,
-          "replies": 26,
-          "quotes": 2,
-          "views": 149098,
-          "bookmarks": 79
-        },
-        "createdAt": "Thu Jul 16 16:35:00 +0000 2026",
-        "createdAtLocal": "2026-07-17 00:35",
-        "createdAtISO": "2026-07-16T16:35:00+00:00",
-        "media": [],
-        "urls": [
-          "https://windowsontheory.org/2026/07/16/all-watched-over/"
-        ],
-        "isRetweet": true,
-        "retweetedBy": "sama",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2077791008654340168",
-          "text": "https://t.co/pf0AkKVnoZ",
-          "author": {
-            "screenName": "boazbaraktcs",
-            "name": "Boaz Barak"
-          }
-        }
       }
     ],
     "karpathy": [
@@ -168,12 +166,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8796,
-          "retweets": 1080,
-          "replies": 451,
-          "quotes": 574,
-          "views": 3629335,
-          "bookmarks": 5125
+          "likes": 8802,
+          "retweets": 1081,
+          "replies": 449,
+          "quotes": 576,
+          "views": 3638524,
+          "bookmarks": 5127
         },
         "createdAt": "Wed Jul 08 21:47:29 +0000 2026",
         "createdAtLocal": "2026-07-09 05:47",
@@ -198,12 +196,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1590,
+          "likes": 1592,
           "retweets": 154,
           "replies": 79,
           "quotes": 16,
-          "views": 488685,
-          "bookmarks": 2441
+          "views": 490544,
+          "bookmarks": 2444
         },
         "createdAt": "Fri Jul 03 14:12:03 +0000 2026",
         "createdAtLocal": "2026-07-03 22:12",
@@ -228,12 +226,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 9671,
-          "retweets": 931,
+          "likes": 9674,
+          "retweets": 932,
           "replies": 650,
           "quotes": 602,
-          "views": 6285286,
-          "bookmarks": 3734
+          "views": 6289230,
+          "bookmarks": 3735
         },
         "createdAt": "Tue Jun 30 15:00:09 +0000 2026",
         "createdAtLocal": "2026-06-30 23:00",
@@ -267,7 +265,7 @@
           "retweets": 242,
           "replies": 182,
           "quotes": 160,
-          "views": 1869029,
+          "views": 1870635,
           "bookmarks": 1248
         },
         "createdAt": "Tue Jun 23 17:01:29 +0000 2026",
@@ -294,12 +292,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 23092,
-          "retweets": 1904,
-          "replies": 1344,
+          "likes": 23099,
+          "retweets": 1905,
+          "replies": 1345,
           "quotes": 696,
-          "views": 7921499,
-          "bookmarks": 13930
+          "views": 7924981,
+          "bookmarks": 13927
         },
         "createdAt": "Tue Jun 23 22:26:31 +0000 2026",
         "createdAtLocal": "2026-06-24 06:26",
@@ -332,12 +330,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1141,
-          "retweets": 113,
-          "replies": 81,
+          "likes": 1156,
+          "retweets": 115,
+          "replies": 82,
           "quotes": 11,
-          "views": 124047,
-          "bookmarks": 770
+          "views": 125641,
+          "bookmarks": 784
         },
         "createdAt": "Fri Jul 17 15:47:30 +0000 2026",
         "createdAtLocal": "2026-07-17 23:47",
@@ -371,7 +369,7 @@
           "retweets": 46,
           "replies": 80,
           "quotes": 6,
-          "views": 97581,
+          "views": 98093,
           "bookmarks": 57
         },
         "createdAt": "Thu Jul 09 17:31:17 +0000 2026",
@@ -403,12 +401,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8443,
+          "likes": 8448,
           "retweets": 1631,
-          "replies": 392,
+          "replies": 393,
           "quotes": 179,
-          "views": 649704,
-          "bookmarks": 10264
+          "views": 650434,
+          "bookmarks": 10265
         },
         "createdAt": "Tue Jun 30 16:04:04 +0000 2026",
         "createdAtLocal": "2026-07-01 00:04",
@@ -442,7 +440,7 @@
           "retweets": 288,
           "replies": 175,
           "quotes": 61,
-          "views": 165180,
+          "views": 165464,
           "bookmarks": 401
         },
         "createdAt": "Fri Jun 19 18:34:23 +0000 2026",
@@ -473,11 +471,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 361,
+          "likes": 362,
           "retweets": 53,
           "replies": 56,
           "quotes": 10,
-          "views": 83695,
+          "views": 83862,
           "bookmarks": 211
         },
         "createdAt": "Thu Jun 18 17:00:03 +0000 2026",
@@ -500,6 +498,72 @@
     ],
     "ylecun": [
       {
+        "id": "2078594661359194500",
+        "text": "https://t.co/IUIeHlHYHW",
+        "author": {
+          "id": "917918108",
+          "name": "Clifford Sosin",
+          "screenName": "CliffordSosin",
+          "profileImageUrl": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 3001,
+          "retweets": 353,
+          "replies": 189,
+          "quotes": 226,
+          "views": 2039827,
+          "bookmarks": 4881
+        },
+        "createdAt": "Sat Jul 18 21:36:00 +0000 2026",
+        "createdAtLocal": "2026-07-19 05:36",
+        "createdAtISO": "2026-07-18T21:36:00+00:00",
+        "media": [],
+        "urls": [
+          "http://x.com/i/article/2078590656457625600"
+        ],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "zxx",
+        "score": null,
+        "articleTitle": "Maybe Intelligence Ain't All That"
+      },
+      {
+        "id": "2079208692419837981",
+        "text": "Trump claimed his tariffs would bring about a golden age of American manufacturing. \n\nYet since his re-election, we've lost 75,000 manufacturing jobs. Over the same period, Biden had created 625,000. https://t.co/gR7ZPrrFto",
+        "author": {
+          "id": "401625957",
+          "name": "Steve Rattner",
+          "screenName": "SteveRattner",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1559587528109395969/HfLfInk2_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 9700,
+          "retweets": 4403,
+          "replies": 965,
+          "quotes": 288,
+          "views": 446330,
+          "bookmarks": 983
+        },
+        "createdAt": "Mon Jul 20 14:15:56 +0000 2026",
+        "createdAtLocal": "2026-07-20 22:15",
+        "createdAtISO": "2026-07-20T14:15:56+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HNrUdiwWwAEv9gU.jpg",
+            "width": 1200,
+            "height": 800
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
+      },
+      {
         "id": "2079000862962417996",
         "text": "Baidu just open-sourced an OCR model that reads entire 40-page documents in one shot.\n\nIt's called Unlimited-OCR. 3 billion parameters but only 500 million active during inference. Runs 100% locally on your machine.\n\nWhy this matters: traditional OCR tools chop documents page by page. Tables that span two pages break. Reading order gets lost. Cross-page context disappears.\n\nUnlimited-OCR processes the whole document at once. 32K context window. Text, formulas, tables, reading order all preserved across pages.\n\nOutput comes out as clean structured Markdown.\n\n→ 93% accuracy on the standard benchmark. +6 points over the baseline.\n→ Error rate stays below 0.11 even past 40 pages.\n→ Multilingual out of the box.\n→ 2.12 million downloads on Hugging Face last month. 14,600 GitHub\nstars.\n\nFor context: Amazon Textract, Google Cloud Vision, and Azure Document Intelligence all charge per page. This runs locally for free.",
         "author": {
@@ -510,12 +574,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1479,
-          "retweets": 197,
-          "replies": 45,
-          "quotes": 12,
-          "views": 124421,
-          "bookmarks": 1983
+          "likes": 3327,
+          "retweets": 383,
+          "replies": 67,
+          "quotes": 25,
+          "views": 321811,
+          "bookmarks": 4728
         },
         "createdAt": "Mon Jul 20 00:30:06 +0000 2026",
         "createdAtLocal": "2026-07-20 08:30",
@@ -545,12 +609,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 2900,
-          "retweets": 1497,
+          "likes": 2933,
+          "retweets": 1502,
           "replies": 122,
-          "quotes": 72,
-          "views": 51420,
-          "bookmarks": 141
+          "quotes": 73,
+          "views": 58436,
+          "bookmarks": 144
         },
         "createdAt": "Sat Jul 18 19:05:41 +0000 2026",
         "createdAtLocal": "2026-07-19 03:05",
@@ -580,12 +644,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 2027,
-          "retweets": 882,
-          "replies": 39,
-          "quotes": 27,
-          "views": 40223,
-          "bookmarks": 241
+          "likes": 3544,
+          "retweets": 1493,
+          "replies": 60,
+          "quotes": 47,
+          "views": 64924,
+          "bookmarks": 413
         },
         "createdAt": "Sun Jul 19 20:51:52 +0000 2026",
         "createdAtLocal": "2026-07-20 04:51",
@@ -603,72 +667,149 @@
         "retweetedBy": "ylecun",
         "lang": "en",
         "score": null
-      },
+      }
+    ],
+    "elonmusk": [
       {
-        "id": "2078591641502580745",
-        "text": "latent actions are having a moment, especially in robotics: instead of predicting a robot's actual joint commands or game controller inputs, you learn a compact latent code that just explains what changed between two frames, no action labels needed anywhere in training\n\nGenie (Bruce et al, DeepMind 2024, https://t.co/ON2xnobW9k) was the clean proof of concept: an inverse model looks at consecutive frames, infers a small discrete latent action that explains the transition, and that learned action space alone is enough to make the generated video controllable frame by frame, despite the model never seeing a single ground-truth action label (the same latent space also turns out to transfer, you can use it to train imitation agents on videos that were never annotated for any specific robot)\n\n(and in the same research cluster: Video as the New Language for Real-World Decision Making, https://t.co/IebxdYwstD by @sherryyangML et al., argues the broader case for video itself as the general interface, not just for latent actions specifically)\n\nthe harder problem is generalizing latent actions beyond narrow domains: Genie was trained on platformer game footage with one consistent embodiment and clean signal, while a new paper from FAIR (@garridoq_, Nagarajan, Terver, Ballas, @ylecun, Rabbat, https://t.co/vH2F12E16K) pushes latent action learning onto actual in-the-wild internet video, which means no shared embodiment across clips and a lot more environmental noise to filter out before the latent action means anything consistent\n\nwhy robotics specifically cares: action labels require teleoperation or motion capture, which doesn't scale, however unlabeled video of things happening in the world is nearly infinite, so if the latent action space generalizes, you get to train on all of it instead of just what you paid someone to label",
+        "id": "2079240370576146875",
+        "text": "Grok 4.5 is really good at React.\n\nIt's also very affordable and token efficient! https://t.co/1Dg24rLsoW",
         "author": {
-          "id": "1704999297643913216",
-          "name": "Sasha Malysheva",
-          "screenName": "aimalysheva",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1909167499427356673/XF46Ydsh_normal.jpg",
+          "id": "81712767",
+          "name": "Lee Robinson",
+          "screenName": "leerob",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1862717563311968256/xfgt1L9l_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 261,
-          "retweets": 21,
-          "replies": 15,
-          "quotes": 1,
-          "views": 23939,
-          "bookmarks": 228
+          "likes": 2749,
+          "retweets": 393,
+          "replies": 289,
+          "quotes": 18,
+          "views": 444263,
+          "bookmarks": 187
         },
-        "createdAt": "Sat Jul 18 21:24:00 +0000 2026",
-        "createdAtLocal": "2026-07-19 05:24",
-        "createdAtISO": "2026-07-18T21:24:00+00:00",
+        "createdAt": "Mon Jul 20 16:21:49 +0000 2026",
+        "createdAtLocal": "2026-07-21 00:21",
+        "createdAtISO": "2026-07-20T16:21:49+00:00",
         "media": [
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HNV51l8XsAAMyz-.jpg",
-            "width": 2114,
-            "height": 1156
+            "url": "https://pbs.twimg.com/media/HNrwj04XEAAv0xA.jpg",
+            "width": 1690,
+            "height": 1816
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HNrxaKoW4AAfmbd.jpg",
+            "width": 2204,
+            "height": 1528
           }
         ],
         "urls": [],
         "isRetweet": true,
-        "retweetedBy": "ylecun",
+        "retweetedBy": "elonmusk",
         "lang": "en",
         "score": null
       },
       {
-        "id": "2078802625449906439",
-        "text": "@hosseeb @deanwball Soooo, releasing Linux was dumping? \nApache, MySQL, PHP? \nHTTP, TCP/IP, OpenSSL, OpenSSH? \nLibjpeg, VLC?\nThe open source software stack of the mobile communication network?\nSignal?\nPyTorch?\nLlama?",
+        "id": "2079261553136734239",
+        "text": "Grok for Excel is now live",
         "author": {
-          "id": "48008938",
-          "name": "Yann LeCun",
-          "screenName": "ylecun",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_normal.jpg",
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screenName": "elonmusk",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 3514,
-          "retweets": 236,
-          "replies": 113,
-          "quotes": 44,
-          "views": 290502,
-          "bookmarks": 410
+          "likes": 10569,
+          "retweets": 1770,
+          "replies": 1777,
+          "quotes": 121,
+          "views": 1801819,
+          "bookmarks": 1033
         },
-        "createdAt": "Sun Jul 19 11:22:22 +0000 2026",
-        "createdAtLocal": "2026-07-19 19:22",
-        "createdAtISO": "2026-07-19T11:22:22+00:00",
+        "createdAt": "Mon Jul 20 17:45:59 +0000 2026",
+        "createdAtLocal": "2026-07-21 01:45",
+        "createdAtISO": "2026-07-20T17:45:59+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2079233333893185876",
+          "text": "Grok for Excel is live.\n\nUse Grok 4.5 to build financial models, analyze market data, and generate charts and graphs.\n\nTry it now https://t.co/DeIpX4KkvO https://t.co/0KkyRtOf1D",
+          "author": {
+            "screenName": "grok",
+            "name": "Grok"
+          }
+        }
+      },
+      {
+        "id": "2079072559673577619",
+        "text": "• Starship To “Collapse Cost” of AI Compute &amp; Global Communications https://t.co/flLUBFixnX",
+        "author": {
+          "id": "31263848",
+          "name": "stevenmarkryan",
+          "screenName": "stevenmarkryan",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1975008873523417088/Ec2d-NEU_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 2301,
+          "retweets": 473,
+          "replies": 268,
+          "quotes": 14,
+          "views": 431899,
+          "bookmarks": 198
+        },
+        "createdAt": "Mon Jul 20 05:15:00 +0000 2026",
+        "createdAtLocal": "2026-07-20 13:15",
+        "createdAtISO": "2026-07-20T05:15:00+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2079049955948576768/vid/avc1/1920x1080/RanfaU5cYjDJuGdo.mp4?tag=29",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2079196565537993102",
+        "text": "Today is the 57th anniversary of Apollo 11 Moon Landing.\n\nIn 1969: most powerful technology on Earth = Apollo 11.\nIn 2026: most powerful technology on Earth = 2-trillion-parameter AI.\n\nWhich one changes civilization more?",
+        "author": {
+          "id": "14710129",
+          "name": "Peter H. Diamandis, MD",
+          "screenName": "PeterDiamandis",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1270804940936503296/oVhO8Njn_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 2334,
+          "retweets": 463,
+          "replies": 356,
+          "quotes": 33,
+          "views": 378694,
+          "bookmarks": 73
+        },
+        "createdAt": "Mon Jul 20 13:27:45 +0000 2026",
+        "createdAtLocal": "2026-07-20 21:27",
+        "createdAtISO": "2026-07-20T13:27:45+00:00",
         "media": [],
         "urls": [],
         "isRetweet": true,
-        "retweetedBy": "ylecun",
+        "retweetedBy": "elonmusk",
         "lang": "en",
         "score": null
-      }
-    ],
-    "elonmusk": [
+      },
       {
         "id": "2079157111183806697",
         "text": "Grok",
@@ -680,12 +821,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 2854,
-          "retweets": 482,
-          "replies": 866,
-          "quotes": 39,
-          "views": 1220405,
-          "bookmarks": 218
+          "likes": 6429,
+          "retweets": 1337,
+          "replies": 1552,
+          "quotes": 79,
+          "views": 2707614,
+          "bookmarks": 553
         },
         "createdAt": "Mon Jul 20 10:50:58 +0000 2026",
         "createdAtLocal": "2026-07-20 18:50",
@@ -704,148 +845,6 @@
             "name": "Min Choi"
           }
         }
-      },
-      {
-        "id": "2078913853203882238",
-        "text": "Rome conquered Greece in 146 BC when they burned Corinth to the ground. And then the strangest thing in ancient history happened. The winners spent the next few centuries desperately trying to become the losers.\n\nIt actually started before the final conquest. When the general Marcellus sacked Syracuse in 211 BC, he shipped boatloads of Greek statues and paintings back to Rome, and the city went crazy for it. Suddenly every rich Roman had to have Greek art in his house. Decades later Cicero built an entire court case around prosecuting a governor named Verres for looting Greek masterpieces, and Romans ate it up.\n\nThen came the schools. Wealthy families started buying Greek slaves specifically because they were educated, and handed them the job of raising their children. So the sons of the men who crushed Greece grew up speaking Greek, memorizing Greek poetry, and learning philosophy from Greeks. The elite eventually sent their teenagers abroad to Athens and Rhodes to finish their education, the way people today send kids to study overseas. Cicero did it. Julius Caesar did it.\n\nTheir gods were Greek gods wearing name tags. Zeus became Jupiter. Hera became Juno. Aphrodite became Venus. Ares became Mars. Same myths, same family drama, mostly just relabeled.\n\nTheir entertainment was borrowed too. The first big Roman playwrights, Plautus and Terence, basically adapted Greek comedies into Latin. Their doctors were Greek. Their architecture leaned on Greek columns, the Doric and Ionic and Corinthian orders you still see on bank buildings today.\n\nAnd the art obsession left a strange fingerprint on history. Romans loved Greek bronze statues so much that they mass produced marble copies of them. A huge chunk of what people walk past in museums today and call \"Greek sculpture\" is actually a Roman copy. The Greek originals melted down or vanished long ago. The knockoffs are what survived.\n\nNot everyone was thrilled. Cato the Elder spent his whole life warning that Greek culture would rot the Roman character. He sneered at Greek philosophers, distrusted Greek doctors, and wanted them kept out of the city. And then, as an old man, he quietly sat down and learned Greek anyway. Even the loudest hater caved.\n\nThe trend went all the way to the top. Virgil wrote the Aeneid, Rome's national epic, by openly modeling it on Homer. The emperor Nero competed in Greek games and toured Greece like a superfan. Hadrian was so obsessed he grew a Greek philosopher's beard and poured money into rebuilding Athens. And Marcus Aurelius, master of the entire Roman world, wrote his private journal not in Latin but in Greek, because that was the language of serious thinking.\n\nThe poet Horace nailed it in a single line: captured Greece took her savage conqueror captive. Rome won every war on the battlefield and then handed its whole soul to the people it had beaten.",
-        "author": {
-          "id": "1900675665265127427",
-          "name": "Ancient History Hub",
-          "screenName": "AncientHistorry",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1900680392182837248/nOxYQhyo_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 3685,
-          "retweets": 730,
-          "replies": 268,
-          "quotes": 62,
-          "views": 326801,
-          "bookmarks": 785
-        },
-        "createdAt": "Sun Jul 19 18:44:21 +0000 2026",
-        "createdAtLocal": "2026-07-20 02:44",
-        "createdAtISO": "2026-07-19T18:44:21+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HNnI6rvaUAAQaOB.jpg",
-            "width": 1500,
-            "height": 521
-          }
-        ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2079149795810152550",
-        "text": "True",
-        "author": {
-          "id": "44196397",
-          "name": "Elon Musk",
-          "screenName": "elonmusk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 10688,
-          "retweets": 2454,
-          "replies": 1192,
-          "quotes": 102,
-          "views": 1294993,
-          "bookmarks": 603
-        },
-        "createdAt": "Mon Jul 20 10:21:54 +0000 2026",
-        "createdAtLocal": "2026-07-20 18:21",
-        "createdAtISO": "2026-07-20T10:21:54+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2079073510568439975",
-          "text": "Socialists under Stalin killed 20,000,000 people. \n\nUnder Mao 65,000,000\n\nThe National Socialist Party was **Socialist**\n\nAll told, socialists are responsible for 100,000,000+ deaths in the last century. \n\nThink about that. \n\nThey will gladly take 100 million more if given the chance. \n\nBecause they think they are justified.\n\nSocialism is the worst ideology ever conceived by man. \n\nIt is a form of religious extremism where the god is envy and worship is cruelty, justified by greed.\n\nIt has never \"worked\" and never will. \n\nWhen idiots like Hassan Piker espouse socialism, they should be humiliated ruthlessly and potentially criminally charged. \n\nSame with university professors. \n\nNever give it a single inch.",
-          "author": {
-            "screenName": "ArthurMacwaters",
-            "name": "Arthur MacWaters"
-          }
-        }
-      },
-      {
-        "id": "2078891465145810993",
-        "text": "I'm a cardiologist. Everyone is sharing this study as a skin story. They're burying the part that matters.\nScientists took the aorta of a 75-year-old donor, applied a single engineered enzyme, and stripped away more than 70% of the molecular damage — bringing it down to the levels you'd see in a 30-year-old artery.\nPublished five days ago in Nature Communications. Revel Pharmaceuticals, with Calico and the University of Colorado.\nHere's what they erased.\nSugar reacts with proteins in your body the same way heat browns bread — slowly, over a lifetime. It leaves behind a residue called CML, the most abundant advanced glycation end product in aging tissue. It welds itself onto collagen and elastin in your skin, your eye lens, and your arterial walls.\nTwo things follow. Your arteries stiffen. And CML latches onto a receptor called RAGE, which drives chronic inflammation — the exact fire I've been writing about for months as the engine of heart disease.\nSince the 1980s this damage was considered permanent. Your body has no enzyme to remove it. Every existing approach only slows new damage from forming. Nothing touched what was already there.\nSo they built an enzyme that doesn't exist in nature. They screened 45,000 protein structures, then ran five rounds of directed evolution across more than 500 million variants until they had CMLase — a molecular lawnmower that oxidizes the CML off the protein and restores the original, healthy lysine underneath.\nNot patched. Reversed.\nOver 70% cleared from elderly arterial tissue. Over 55% from elderly skin — below the levels found in 31-year-old skin. 45-78% in lens proteins. The CEO said they expected 20% and were floored.\nArterial stiffness drives systolic hypertension, heart failure, and stroke, and I have no drug that reverses it. I can slow the process. I cannot undo it. This paper says undoing it may be possible.\nThe caveats are real and I won't skip them. This was done on donated tissue in a dish, not in a living person. No functional data yet — we don't know if that artery got measurably more elastic. Delivering a large enzyme deep into human tissue is a hard, unsolved problem. Clinical trials are years away.\nBut something considered permanent for forty years just came off human tissue.\nWe spent a century learning to slow aging. Someone finally figured out how to erase it.\nThank you @theallinpod @friedberg @chamath @pesottas",
-        "author": {
-          "id": "73937639",
-          "name": "Afshine Emrani  MD FACC",
-          "screenName": "afshineemrani",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2076537192277528576/OuKAfE7e_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 10029,
-          "retweets": 1992,
-          "replies": 419,
-          "quotes": 170,
-          "views": 1360250,
-          "bookmarks": 6618
-        },
-        "createdAt": "Sun Jul 19 17:15:23 +0000 2026",
-        "createdAtLocal": "2026-07-20 01:15",
-        "createdAtISO": "2026-07-19T17:15:23+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2078334237481046412",
-          "text": "Friedberg: New study shows enzyme reverses skin age from 70+ years to 31\n\nChamath: That’s a $2T market.\n\nDid Scientists Just Discover How to Reverse Skin Aging!?\n\n“CML is kind of the predominant molecule that gets formed in this extracellular matrix that's driving aging, and nothing breaks it down.\n\nSo these scientists set out to try and create an enzyme, an enzyme is a protein that breaks something down, that can break down CML.\n\nAnd so these guys kind of went out and they took the target, which is CML, and tried to figure out, ‘Okay, how do we actually degrade CML, clear that extracellular matrix, and reverse aging?’\n\nThey started to test it on the proteins that we would find in our body, casein, collagen, retinal proteins, which are in your eye, hemoglobin, and they were able to get rid of 52 to 97% of the CML, just degrade it away.\n\nAnd then they found several sites where they were able to degrade over 90%.\n\nAnd then they took actual human skin from elderly patients that had donated their skin, and they put this enzyme onto that skin, and they were able to eliminate 55% of the CML on the skin, basically reverse the skin's age down to the age of a 31-year-old, this is from greater than 70-year-old patients, just by putting this enzyme on the skin.\n\nAnd so it's kind of a groundbreaking demonstration of combination of AlphaFold, what's called directed evolution, where you change the order of the DNA that changes the structure of the protein to test different proteins, do high throughput screening, and ultimately make a novel protein that doesn't exist in nature today that can do something pretty profound for human health.”\n\nChamath:\n\n“It will be a trillion-dollar market. If you can create a cream…”\n\nFriedberg:\n\n“I mean, dude, if you could put this enzyme literally on your skin and have it absorb in…”\n\nChamath:\n\n“Game over. That alone is $2 trillion.”",
-          "author": {
-            "screenName": "theallinpod",
-            "name": "The All-In Podcast"
-          }
-        }
-      },
-      {
-        "id": "2078988716950065383",
-        "text": "An absolutely incredible performance by Spain to take home the World Cup! 🇪🇸🏆 So well-deserved, just a beautiful display of teamwork all tournament. Congratulations to Argentina & Messi on a great run. And huge kudos to all of the teams and fans around the world for making this World Cup so memorable, already looking forward to 2030!",
-        "author": {
-          "id": "14130366",
-          "name": "Sundar Pichai",
-          "screenName": "sundarpichai",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2051799620062429184/AL8CoAUG_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 12227,
-          "retweets": 915,
-          "replies": 478,
-          "quotes": 35,
-          "views": 820967,
-          "bookmarks": 285
-        },
-        "createdAt": "Sun Jul 19 23:41:50 +0000 2026",
-        "createdAtLocal": "2026-07-20 07:41",
-        "createdAtISO": "2026-07-19T23:41:50+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2078988187112992768/vid/avc1/2160x3840/j6ksLhN8CNaS125u.mp4?tag=29",
-            "width": 2160,
-            "height": 3840
-          }
-        ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null
       }
     ],
     "DrJimFan": [
@@ -860,11 +859,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 27,
+          "likes": 28,
           "retweets": 3,
-          "replies": 6,
+          "replies": 7,
           "quotes": 0,
-          "views": 12729,
+          "views": 13045,
           "bookmarks": 11
         },
         "createdAt": "Fri Jul 17 16:11:03 +0000 2026",
@@ -898,11 +897,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 471,
-          "retweets": 42,
+          "likes": 472,
+          "retweets": 43,
           "replies": 39,
           "quotes": 5,
-          "views": 57373,
+          "views": 57793,
           "bookmarks": 125
         },
         "createdAt": "Fri Jul 17 16:09:12 +0000 2026",
@@ -933,11 +932,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 567,
-          "retweets": 62,
+          "likes": 569,
+          "retweets": 61,
           "replies": 28,
           "quotes": 6,
-          "views": 96152,
+          "views": 96985,
           "bookmarks": 164
         },
         "createdAt": "Wed Jul 15 20:55:33 +0000 2026",
@@ -969,11 +968,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1257,
+          "likes": 1259,
           "retweets": 188,
           "replies": 62,
-          "quotes": 50,
-          "views": 270791,
+          "quotes": 49,
+          "views": 272706,
           "bookmarks": 760
         },
         "createdAt": "Wed Jul 15 15:25:02 +0000 2026",
@@ -1008,7 +1007,7 @@
           "retweets": 4,
           "replies": 3,
           "quotes": 1,
-          "views": 18207,
+          "views": 18343,
           "bookmarks": 28
         },
         "createdAt": "Wed Jul 15 15:25:03 +0000 2026",

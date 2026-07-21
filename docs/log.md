@@ -3030,3 +3030,7 @@
 - create: american-ai-is-locked-down-and-proprietary-its-losing.md
 - create: youtube-clarifies-policies-around-ai-slop-and-upsetting-videos.md
 - create: show-hn-stacks-an-hourly-card-solitaire-about-building-four-gardens.md
+
+## [2026-07-21 18:02] sync v3 | 13 new | pillars: {'capabilities': 10, 'patterns': 2, 'ecosystem': 1}
+- create: qwen-image-30-rich-content-authentic-details-deep-knowledge.md
+- create: a-koi-pond-mosaic-made-from-10-pounds-of-3d-printer-waste.md

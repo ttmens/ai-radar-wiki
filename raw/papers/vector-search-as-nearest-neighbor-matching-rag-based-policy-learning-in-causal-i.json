@@ -1,0 +1,31 @@
+{
+  "title": "Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference",
+  "summary": "We propose one-step and two-step methods for policy learning with retrieval-augmented generation (RAG). We formulate RAG-based action selection under the potential outcome framework. In the two-step method, vector search retrieves action-specific neighboring evidence in an embedding space, the generator estimates conditional expected outcomes or their contrasts, and a plug-in rule selects an action. This formulation connects action-specific vector search with nearest-neighbor matching in causal inference. We decompose the regret of the two-step method into candidate-generation regret and within-candidate choice regret, and we bound the latter using prediction-error guarantees for nearest-neighbor estimators and transformers. We evaluate the one-step method directly as a policy because its intermediate computation is unobserved.",
+  "url": "http://arxiv.org/abs/2607.18225v1",
+  "authors": [
+    "Masahiro Kato",
+    "Taka Kato"
+  ],
+  "published": "2026-07-20T17:57:20Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "embedding",
+    "transformer",
+    "retrieval",
+    "vector search"
+  ],
+  "summary_cn": "该论文提出了基于检索增强生成（RAG）的因果推断策略学习方法，包括一步法和两步法。通过向量搜索在嵌入空间中查找与特定动作最相似的邻居证据，结合潜在结果框架实现精准策略学习。技术要点在于将向量最近邻匹配与因果推理结合，提升决策的可靠性和可解释性。商业价值体现在个性化推荐、精准干预等场景，能利用大规模非结构化数据优化策略。产品创新是RAG从传统问答扩展到因果推断领域，为AI决策系统提供新的范式。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Retrieval-Augmented Generation",
+    "Causal Inference",
+    "Policy Learning"
+  ],
+  "entities": [],
+  "patterns": [
+    "Retrieval-Augmented Generation",
+    "Vector Search"
+  ]
+}

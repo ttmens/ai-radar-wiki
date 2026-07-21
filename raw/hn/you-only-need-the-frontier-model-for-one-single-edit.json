@@ -1,0 +1,21 @@
+{
+  "title": "You only need the frontier model for one single edit",
+  "score": 92,
+  "comments": 23,
+  "url": "https://stencil.so/blog/prewalk",
+  "hn_url": "https://news.ycombinator.com/item?id=48916512",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该标题暗示，前沿 AI 模型在仅需一次编辑（one single edit）即可完成任务的情况下才是必要的。这对 AI 产品经理的启示是：并非所有场景都需要调用最强模型；产品设计应优化调用策略，仅在关键单次编辑操作时使用昂贵的前沿模型，日常任务则可借助轻量模型。这有助于降低推理成本、提升响应速度，同时保持最终输出的高质量。技术创新点在于模型路由与任务难度匹配，商业价值体现在成本控制与用户体验的平衡。",
+  "pm_relevance": 8,
+  "concepts": [
+    "模型路由",
+    "成本优化",
+    "单次编辑"
+  ],
+  "entities": [],
+  "patterns": [
+    "模型调用策略"
+  ]
+}
