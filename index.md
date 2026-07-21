@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-21 | Total pages: 2792
+> Last updated: 2026-07-22 | Total pages: 2797
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -188,6 +188,7 @@
 - [[claude-fable-is-relentlessly-proactive.md]] Claude Fable is relentlessly proactive `pillar:capabilities` `score:0.55`
 - [[claude-fable-produced-a-counterexample-to-the-jacobian-conjecture.md]] Claude Fable produced a counterexample to the Jacobian Conjecture `pillar:capabilities` `score:0.295`
 - [[claude-for-legal.md]] Claude for Legal `pillar:capabilities` `score:0.48`
+- [[claude-is-not-a-compiler.md]] Claude Is Not a Compiler `pillar:capabilities` `score:0.48`
 - [[claude-is-not-your-architect-stop-letting-it-pretend.md]] Claude is not your architect. Stop letting it pretend `pillar:capabilities` `score:0.6`
 - [[claude-opus-48.md]] Claude Opus 4.8 `pillar:capabilities` `score:0.68`
 - [[claude-real-video-any-llm-can-watch-a-video.md]] Claude-real-video － any LLM can watch a video `pillar:capabilities` `score:0.33`
@@ -304,6 +305,7 @@
 - [[gaining-control-of-every-projector-and-camera-on-campus.md]] Gaining control of every projector and camera on campus `pillar:capabilities` `score:0.43`
 - [[geeeekexplorernano-vllm.md]] GeeeekExplorer/nano-vllm `pillar:capabilities` `score:0.58`
 - [[gemini-35-flash.md]] Gemini 3.5 Flash `pillar:capabilities` `score:0.665`
+- [[gemini-36-flash-35-flash-lite-and-35-flash-cyber.md]] Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber `pillar:capabilities` `score:0.53`
 - [[gemini-api-file-search-is-now-multimodal.md]] Gemini API File Search is now multimodal `pillar:capabilities` `score:0.38`
 - [[gemini-cli-will-stop-working-from-june-18-2026.md]] Gemini CLI will stop working from June 18, 2026 `pillar:capabilities` `score:0.515`
 - [[gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https.md]] Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS `pillar:capabilities` `score:0.36`
@@ -360,6 +362,7 @@
 - [[gptlive.md]] GPT‑Live `pillar:capabilities` `score:0.645`
 - [[gptnl-a-sovereign-language-model-for-the-netherlands.md]] GPT‑NL: a sovereign language model for the Netherlands `pillar:capabilities` `score:0.565`
 - [[grapheneos-speech-services-version-2-released.md]] GrapheneOS Speech Services version 2 released `pillar:capabilities` `score:0.295`
+- [[gritt-exits-stealth-with-32-million-for-robots-to-build-solar-plants-then-everyt.md]] Gritt exits stealth with $32 million for robots to build solar plants — then, ev `pillar:capabilities` `score:0.48`
 - [[grok-uploaded-my-user-directory-to-xais-servers.md]] Grok uploaded my user directory to xAI's servers `pillar:capabilities` `score:0.6`
 - [[growing-neural-cellular-automata.md]] Growing Neural Cellular Automata `pillar:capabilities` `score:0.295`
 - [[guardian-angels-llm-personalization-for-productivity-and-security.md]] Guardian Angels: LLM Personalization for Productivity and Security `pillar:capabilities` `score:0.33`
@@ -2297,6 +2300,7 @@
 - [[upstashcontext7.md]] upstash/context7 `pillar:ecosystem` `score:0.58`
 - [[us-house-lawmakers-release-draft-bill-to-prohibit-state-ai-rules.md]] US House lawmakers release draft bill to prohibit state AI rules `pillar:ecosystem` `score:0.38`
 - [[us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai.md]] US investors will soon get access to SK Hynix, another memory maker riding the A `pillar:ecosystem` `score:0.445`
+- [[us-threatens-sanctions-against-chinese-ai-models-over-ip-theft.md]] US threatens sanctions against Chinese AI models over IP theft `pillar:ecosystem` `score:0.515`
 - [[using-tailscale-with-an-orbstack-vm-on-macos.md]] Using Tailscale with an OrbStack VM on macOS `pillar:ecosystem` `score:0.155`
 - [[valve-removes-free-game-from-steam-after-players-discover-it-contains-malware.md]] Valve removes free game from Steam after players discover it contains malware `pillar:ecosystem` `score:0.305`
 - [[vercelai.md]] vercel/ai `pillar:ecosystem` `score:0.405`
@@ -2587,6 +2591,7 @@
 - [[mistral-is-rumored-to-be-raising-3b-at-20b-valuation.md]] Mistral is rumored to be raising €3B at €20B valuation `pillar:business` `score:0.445`
 - [[mitchellh-i-strongly-believe-there-are-entire-companies-now-under-ai-psychosis.md]] Mitchellh – I strongly believe there are entire companies now under AI psychosis `pillar:business` `score:0.565`
 - [[moonshot-ai-suspends-new-subscriptions-due-to-kimi-k3-demand.md]] Moonshot AI suspends new subscriptions due to Kimi K3 demand `pillar:business` `score:0.53`
+- [[music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated.md]] Music streamer Deezer says more than 50% of daily uploads are AI-generated `pillar:business` `score:0.515`
 - [[musk-mulled-handing-openai-to-his-children-altman.md]] Musk mulled handing OpenAI to his children, Altman testifies `pillar:business` `score:0.305`
 - [[musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-28b-more.md]] Musk’s xAI is being sued over its data center generators. Now, it’s buying $2.8B `pillar:business` `score:0.48`
 - [[musks-xai-is-running-nearly-50-gas-turbines-unche.md]] Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data c `pillar:business` `score:0.305`

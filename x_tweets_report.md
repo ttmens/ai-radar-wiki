@@ -1,6 +1,6 @@
 # X/Twitter AI KOL 动态
 
-抓取时间: 2026-07-21 09:01:16
+抓取时间: 2026-07-21 21:01:28
 
 
 ## @sama (5 条)
@@ -47,29 +47,29 @@
 
 ## @ylecun (5 条)
 
-1. **https://t.co/IUIeHlHYHW**
+1. **🦔A Nikkei investigation found that Alphabet, Microsoft, Amazon, Meta, and Oracle have $1.65 trillion in debt that doesn't appear on their balance sheets, more than the $1.35 trillion they officially r**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **Trump claimed his tariffs would bring about a golden age of American manufacturing.   Yet since his re-election, we've lost 75,000 manufacturing jobs. Over the same period, Biden had created 625,000. **
+2. **https://t.co/IUIeHlHYHW**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **Baidu just open-sourced an OCR model that reads entire 40-page documents in one shot.  It's called Unlimited-OCR. 3 billion parameters but only 500 million active during inference. Runs 100% locally o**
+3. **Trump claimed his tariffs would bring about a golden age of American manufacturing.   Yet since his re-election, we've lost 75,000 manufacturing jobs. Over the same period, Biden had created 625,000. **
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
 ## @elonmusk (5 条)
 
-1. **Grok 4.5 is really good at React.  It's also very affordable and token efficient! https://t.co/1Dg24rLsoW**
+1. **𝕏Money with friends is fun &lt;3  Congrats to all those that got access today! https://t.co/pNWAZy31EB**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **Grok for Excel is now live**
+2. **It’s been this way for years**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **• Starship To “Collapse Cost” of AI Compute &amp; Global Communications https://t.co/flLUBFixnX**
+3. **Grok Imagine ❣️ https://t.co/eJKdIPEjmj**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 

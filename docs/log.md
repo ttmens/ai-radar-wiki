@@ -3034,3 +3034,10 @@
 ## [2026-07-21 18:02] sync v3 | 13 new | pillars: {'capabilities': 10, 'patterns': 2, 'ecosystem': 1}
 - create: qwen-image-30-rich-content-authentic-details-deep-knowledge.md
 - create: a-koi-pond-mosaic-made-from-10-pounds-of-3d-printer-waste.md
+
+## [2026-07-22 00:01] sync v3 | 5 new | pillars: {'capabilities': 5}
+- create: gemini-36-flash-35-flash-lite-and-35-flash-cyber.md
+- create: claude-is-not-a-compiler.md
+- create: us-threatens-sanctions-against-chinese-ai-models-over-ip-theft.md
+- create: music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated.md
+- create: gritt-exits-stealth-with-32-million-for-robots-to-build-solar-plants-then-everyt.md
