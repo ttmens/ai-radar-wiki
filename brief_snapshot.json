@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
-  "generated_at": "2026-07-23T00:02:32.765361+08:00",
-  "item_count": 4,
+  "generated_at": "2026-07-23T06:02:18.136284+08:00",
+  "item_count": 24,
   "items": [
     {
       "id": "overpaid-fire-your-ceo-hire-the-future",
@@ -12,6 +12,50 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49004663",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "terrence-taos-chatgpt-conversation-about-the-jacobian-conjecture-counterexample",
+      "label": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "summary": "知名数学家陶哲轩演示了用ChatGPT探讨Jacobian猜想反例的过程，展示了当前大语言模型在高级数学推理与专业领域协作中的潜力。这不仅验证了AI辅助科学研究的可行性，也为产品经理提供了将复杂推理能力集成到科研、教育等垂直场景的启发，预示着AI从通用对话向专家级助手的演进方向。",
+      "pm_score": 0.63,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49010345",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "passkeys-were-invented-by-engineers-with-zero-understanding-of-consumer-brain",
+      "label": "Passkeys were invented by engineers with zero understanding of consumer brain",
+      "summary": "文章批评Passkeys（无密码认证技术）的设计者过于工程化，忽视了普通用户的心理模型与行为习惯，导致易用性差、认知负担重。对于AI产品经理而言，这一案例警示在技术落地时需将用户体验（UX）置于核心，避免因技术优越性而牺牲人性化交互。产品创新应聚焦于降低用户学习成本、提供渐进式引导，并考虑多模态认证融合。商业价值在于提升用户留存与信任，减少客服成本。",
+      "pm_score": 0.63,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49007374",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "gigatoken-1000x-faster-language-model-tokenization",
+      "label": "GigaToken: ~1000x faster Language model tokenization",
+      "summary": "GigaToken 提出了一种将语言模型分词速度提升约1000倍的新方法。对于AI产品经理而言，这意味着显著降低实时对话、文档分析等场景的延迟和计算成本，让模型处理长文本或流式输入时更加流畅。该技术可能通过硬件加速或算法创新实现，能够直接改善用户体验，降低API调用费用，并支持更高吞吐量的产品设计。未来智能客服、代码补全、内容生成等应用都将受益于更快的tokenization，进而推动更复杂交互产品的落地。",
+      "pm_score": 0.615,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49010167",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "are-ai-labs-pelicanmaxxing",
+      "label": "Are AI Labs Pelicanmaxxing?",
+      "summary": "文章探讨了AI实验室是否陷入“Pelicanmaxxing”（网络用语，指极端追求某项指标）的困境，即在模型规模、基准分数或技术噱头上过度投入，却忽视了实际产品落地与用户价值。对于产品经理而言，这提醒我们警惕技术驱动下的资源错配，应更关注场景适配、成本效益与长期商业可行性，避免将实验室成功指标直接等同于产品成功。",
+      "pm_score": 0.565,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49010129",
       "date": "2026-07-23"
     },
     {
@@ -26,6 +70,83 @@
       "date": "2026-07-23"
     },
     {
+      "id": "so-reddit-has-decided-that-plain-html-is-unsafe",
+      "label": "So Reddit has decided that plain HTML is unsafe",
+      "summary": "Reddit 决定将纯 HTML 视为不安全内容，可能涉及禁用或限制 HTML 标签以防止跨站脚本攻击（XSS）。这一决策影响用户生成内容的展示方式，尤其是富文本编辑和嵌入功能。对于产品经理，这意味着平台内容安全策略的升级，需要在用户体验与安全之间平衡。技术要点包括采用更严格的 HTML 消毒（sanitization）机制，或转向 Markdown 等受限格式。商业价值在于降低安全风险，保护用户数据，同时可能影响第三方工具与 Reddit 的集成方式。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49005747",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous",
+      "label": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+      "summary": "美国开源AI实验室Arcee指出，中国AI模型能力提升且在美国企业中流行，但认为模型本身并非固有危险，争议关键在于使用场景与安全评估。对产品经理而言，这提示关注开源模型供应链的合规性、模型选择的多元化以及地缘政治影响下的技术采购策略。需平衡模型性能与风险，考虑本地化部署或第三方安全审计，避免因供应商背景引发商业合规问题。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "back-to-kagi",
+      "label": "Back to Kagi",
+      "summary": "《Back to Kagi》一文讨论了用户回归使用 Kagi 搜索引擎的现象。Kagi 是一款注重隐私、去广告的付费搜索引擎，其 AI 辅助搜索能力（如智能摘要、结果重排）提升了搜索质量。对于 AI 产品经理，这体现了用户对高质量、无干扰搜索体验的需求，以及 AI 在优化信息检索中的商业价值——通过付费模式实现可持续盈利，同时避免传统广告驱动的数据滥用。文章可能探讨了其产品设计如何平衡 AI 能力与用户体验。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49006195",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "substack8217s-new-tool-tells-you-who8217s-been-writing-their-newsletters-with-ai",
+      "label": "Substack&#8217;s new tool tells you who&#8217;s been writing their newsletters w",
+      "summary": "Substack 推出新工具，允许读者估算 newsletter 中由 AI 撰写的内容比例，推动 AI 辅助内容的透明度。该工具通过分析文本特征进行检测，为平台提供一种区分人工创作与 AI 辅助内容的能力。商业价值在于提升内容信任度，帮助读者做出知情选择，同时为创作者提供使用 AI 的透明度参考。产品创新在于将 AI 检测直接集成到内容消费流程中，作为行业透明度标杆。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "openai8217s-ai-spending-spree-has-ballooned-to-750b",
+      "label": "OpenAI&#8217;s AI spending spree has ballooned to $750B",
+      "summary": "OpenAI计划到2030年投入高达7500亿美元（相当于瑞典GDP）用于AI基础设施，涵盖数据中心、算力集群及能源支持。这笔巨额支出标志着AI行业从模型竞赛转向基础设施军备竞赛，将深刻影响算力成本、模型部署效率及生态格局。对于AI产品经理而言，这意味着未来AI服务可能更依赖云端规模化计算，同时需关注供应链风险与合作伙伴关系的变化。商业上，OpenAI正通过重资产投入构建护城河，可能挤压中小型AI厂商的生存空间。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "nvidia-dgx-spark-as-a-daily-driver",
+      "label": "Nvidia DGX Spark as a daily driver",
+      "summary": "Nvidia 推出 DGX Spark 作为日常主力计算设备，旨在将数据中心级 AI 性能带入个人工作站。该产品集成高性能 GPU 与专用 AI 加速器，支持本地运行大型语言模型、微调与推理，降低对云服务的依赖。其商业价值在于为 AI 产品经理提供低成本、低延迟的本地开发与部署环境，加速产品迭代。产品创新体现在将超级计算机级算力小型化、个人化，满足 AI 从业者「日常驾驶」需求，推动边缘 AI 与本地优先模式普及。",
+      "pm_score": 0.465,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48971128",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differentl",
+      "label": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do different",
+      "summary": "Anthropic收入增长惊人，截至5月营收运行率已达470亿美元，而2025年预估为90亿美元（注：原文数据可能存在歧义）。Menlo Ventures合伙人Matt Murphy表示，在他25年的投资生涯中从未见过如此增速。这一现象表明AI初创企业正面临前所未有的增长机遇，但同时也要求创始人在策略上做出重大调整，例如更注重资本效率、规模化速度以及差异化技术壁垒。对于AI产品经理而言，理解这种爆发式增长背后的技术驱动（如大模型能力跃升）和商业逻辑（如企业级订阅模式）至关重要。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+      "date": "2026-07-23"
+    },
+    {
       "id": "glow-emerges-from-stealth-at-12b-valuation-to-challenge-endpoint-security-in-the",
       "label": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in t",
       "summary": "Glow 以 12 亿美元估值从隐身模式中亮相，专注于解决企业快速采用 AI 代理和开发者工具所催生的新型端点安全风险。作为一家端点安全初创公司，Glow 瞄准了传统安全方案无法覆盖的 AI 工作流漏洞，例如 LLM 驱动的自动化工具、代码助手等引发的数据泄露和未授权访问。其核心商业价值在于为 AI 原生企业提供适配 Agent 行为的防护层，产品创新体现在对 AI 代理行为的实时监控与策略控制。对于 AI 产品经理而言，该案例提示在部署 AI 时需同步考虑安全架构，以保障 Agent 生态可控。",
@@ -34,6 +155,83 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthrop",
+      "label": "Treasury threatens sanctions after White House claims Moonshot distilled Anthrop",
+      "summary": "美国财政部部长贝森特警告可能制裁中国AI公司，起因是白宫官员指控月之暗面(Kimi)通过蒸馏技术剽窃Anthropic的Fable模型以开发Kimi K3。此事件凸显了模型蒸馏带来的知识产权风险与监管升级压力，对AI产品经理而言，需关注模型训练数据来源的合规性、跨国合作中的法律红线，以及地缘政治对产品出海的影响。蒸馏技术虽能低成本获取高性能，但可能触发制裁，需在创新与合规间平衡。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "mondaycom-lays-off-hundreds-to-focus-on-ai",
+      "label": "Monday.com lays off hundreds to focus on AI",
+      "summary": "Monday.com 宣布裁员约630人（占总员工20%），以优化运营结构并集中资源推进其AI工作平台。此举表明企业不再将AI视为附加功能，而是作为核心平台战略。对于AI产品经理而言，这反映了行业在资源重组和AI优先策略上的趋同趋势——通过收缩非核心业务，加速AI产品创新与商业化。Monday.com 的转型可能催生更智能化的工作流自动化、预测性调度等新能力，同时企业级AI平台的市场竞争将更加激烈。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "how-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+      "label": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "summary": "OpenAI在设置自称“高度隔离”的测试环境时出现人为配置错误，导致沙箱存在安全漏洞。网络安全专家指出，这一人为失误使得针对Hugging Face的AI驱动攻击成为可能。该事件凸显了AI基础设施中隔离机制的重要性，产品经理需警惕看似安全的环境可能因人为疏忽而失效，在构建AI产品时应加强安全审计与自动化合规检查，避免类似漏洞影响生态信任。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "travis-kalanick8217s-robotics-company-raises-17b-led-by-a16z",
+      "label": "Travis Kalanick&#8217;s robotics company raises $1.7B, led by a16z",
+      "summary": "Uber联合创始人Travis Kalanick旗下的机器人公司Atmos（原Atoms）完成17亿美元融资，由a16z领投，Uber也参与投资。该公司宣称利用工业AI推动世界现代化，但技术细节尚不明确。本轮巨额融资折射出资本对工业AI与机器人赛道的强烈信心，也为AI产品经理提供了观察‘创始人光环+前沿技术’组合的典型案例——如何将AI能力落地于重资产行业并规模化。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "can-a-mud-evaluate-llms-a-99-proof-of-concept",
+      "label": "Can a MUD evaluate LLMs? A $99 proof of concept",
+      "summary": "本文介绍了一个仅需99美元的概念验证项目，使用多用户地牢（MUD）游戏环境来评估大型语言模型（LLMs）。通过模拟游戏交互，测试LLM的逻辑推理、上下文理解和决策能力，提供了一种低成本、可复现的评估方法。该项目展示了游戏化评测在LLM能力验证中的潜力，有望为AI产品经理提供新的测试思路，降低模型选型和迭代成本。技术要点包括MUD环境的搭建、评测指标设计及结果分析，商业价值在于节省评估开销并提升模型可靠性。",
+      "pm_score": 0.43,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49008538",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "which-streaming-service-was-that-on-again",
+      "label": "Which streaming service was that on again?",
+      "summary": "该标题暗示用户常忘记某部影片或剧集属于哪个流媒体平台，反映了信息过载时代跨平台内容管理的痛点。AI可通过长期记忆模型、跨服务对话检索和上下文关联推荐，帮助用户快速定位历史观看内容。这种能力可提升用户留存，减少平台切换摩擦，并为订阅聚合服务提供产品创新机会。商业上可嵌入智能助手或浏览器插件，形成轻量级记忆层，增强多平台协同体验。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49007671",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "yope-raises-123m-to-build-a-private-social-network-without-algorithms-or-ads",
+      "label": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "summary": "Yope 是一款专注于私人群组社交的快速成长应用，近日获得 1230 万美元种子轮融资。与传统社交平台追逐创作者和算法推荐不同，Yope 强调无算法、无广告的私密社区体验，核心功能基于消息和照片分享，旨在回归亲友间的小圈子互动。该模式反映了社交领域去中心化、隐私优先的新趋势，通过减少信息噪音和商业干扰来提升用户粘性。对于 AI 产品经理，Yope 的案例提供了关于“后算法社交”的产品设计思路，但本身不涉及深度 AI 技术。",
+      "pm_score": 0.41,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
       "date": "2026-07-23"
     },
     {
@@ -46,10 +244,32 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
       "date": "2026-07-23"
+    },
+    {
+      "id": "launch-hn-unlayer-yc-w22-add-email-and-document-builders-to-your-app",
+      "label": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
+      "summary": "Unlayer (YC W22) 是一个可嵌入的邮件和文档构建器，允许开发者通过简单的 API/SDK 将拖拽式编辑器集成到自己的应用中。其技术核心在于提供高度可定制的 UI 组件、丰富的模板库和实时预览能力，帮助产品快速实现邮件营销、合同生成等场景。商业价值上，它省去了自研编辑器的成本，加速产品迭代，同时支持白色标签以保持品牌一致性。对于 AI 产品经理，这是一个典型的“能力封装”案例，即将通用功能模块化，通过标准化接口赋能其他产品。",
+      "pm_score": 0.38,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49008901",
+      "date": "2026-07-23"
+    },
+    {
+      "id": "show-hn-deepsql-a-self-hostable-dba-agent-for-postgres-and-mysql",
+      "label": "Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL",
+      "summary": "DeepSQL 是一款面向 PostgreSQL 和 MySQL 的自托管式 DBA 智能代理工具。它利用 AI 技术自动完成常见数据库管理任务（如性能分析、索引建议、查询优化等），用户可将其部署在自有服务器上，确保数据安全与隐私。该产品降低了企业对专业 DBA 团队的依赖，同时提升了数据库运维效率与稳定性，特别适合对数据主权有严格要求的金融、医疗等场景。其“自托管+AI Agent”模式代表了数据库管理从被动告警向主动智能运维的新方向。",
+      "pm_score": 0.38,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48980286",
+      "date": "2026-07-23"
     }
   ],
   "graph_totals": {
-    "real_nodes": 4937,
-    "edges": 5264
+    "real_nodes": 4991,
+    "edges": 5318
   }
 }

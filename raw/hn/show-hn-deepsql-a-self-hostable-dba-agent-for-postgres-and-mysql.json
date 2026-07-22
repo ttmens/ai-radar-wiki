@@ -1,0 +1,26 @@
+{
+  "title": "Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL",
+  "score": 39,
+  "comments": 20,
+  "url": "https://deepsql.ai/",
+  "hn_url": "https://news.ycombinator.com/item?id=48980286",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "DeepSQL 是一款面向 PostgreSQL 和 MySQL 的自托管式 DBA 智能代理工具。它利用 AI 技术自动完成常见数据库管理任务（如性能分析、索引建议、查询优化等），用户可将其部署在自有服务器上，确保数据安全与隐私。该产品降低了企业对专业 DBA 团队的依赖，同时提升了数据库运维效率与稳定性，特别适合对数据主权有严格要求的金融、医疗等场景。其“自托管+AI Agent”模式代表了数据库管理从被动告警向主动智能运维的新方向。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI Agent",
+    "Database Administration",
+    "Self-hosted"
+  ],
+  "entities": [
+    "DeepSQL"
+  ],
+  "patterns": [
+    "Agent Pattern",
+    "Self-hosted AI"
+  ]
+}

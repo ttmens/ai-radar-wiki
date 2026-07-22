@@ -3070,3 +3070,26 @@
 - create: passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us.md
 - create: glow-emerges-from-stealth-at-12b-valuation-to-challenge-endpoint-security-in-the.md
 - create: show-hn-bento-an-entire-powerpoint-in-one-html-file-editviewdatacollab.md
+
+## [2026-07-23 06:02] sync v3 | 21 new | pillars: {'capabilities': 13, 'ecosystem': 4, 'patterns': 2, 'business': 2}
+- create: terrence-taos-chatgpt-conversation-about-the-jacobian-conjecture-counterexample.md
+- create: gigatoken-1000x-faster-language-model-tokenization.md
+- create: are-ai-labs-pelicanmaxxing.md
+- create: launch-hn-unlayer-yc-w22-add-email-and-document-builders-to-your-app.md
+- create: nvidia-dgx-spark-as-a-daily-driver.md
+- create: can-a-mud-evaluate-llms-a-99-proof-of-concept.md
+- create: so-reddit-has-decided-that-plain-html-is-unsafe.md
+- create: back-to-kagi.md
+- create: which-streaming-service-was-that-on-again.md
+- create: show-hn-deepsql-a-self-hostable-dba-agent-for-postgres-and-mysql.md
+- create: passkeys-were-invented-by-engineers-with-zero-understanding-of-consumer-brain.md
+- create: treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthrop.md
+- create: how-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face.md
+- create: travis-kalanick8217s-robotics-company-raises-17b-led-by-a16z.md
+- create: yope-raises-123m-to-build-a-private-social-network-without-algorithms-or-ads.md
+- create: mondaycom-lays-off-hundreds-to-focus-on-ai.md
+- create: arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous.md
+- create: substack8217s-new-tool-tells-you-who8217s-been-writing-their-newsletters-with-ai.md
+- create: openai8217s-ai-spending-spree-has-ballooned-to-750b.md
+- create: menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differentl.md
+- create: show-hn-agent-in-9-lines-python.md

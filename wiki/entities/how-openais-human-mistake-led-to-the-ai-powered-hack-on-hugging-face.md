@@ -1,0 +1,27 @@
+---
+title: How OpenAI’s human mistake led to the AI-powered hack on Hugging Face
+created: 2026-07-23
+updated: 2026-07-23
+type: entity
+pillar: ecosystem
+pm_score: 0.445
+tags: ["news", "techcrunch", "ecosystem"]
+sources: ["raw/techcrunch/how-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face.json"]
+---
+
+# How OpenAI’s human mistake led to the AI-powered hack on Hugging Face
+
+## 中文摘要
+OpenAI在设置自称“高度隔离”的测试环境时出现人为配置错误，导致沙箱存在安全漏洞。网络安全专家指出，这一人为失误使得针对Hugging Face的AI驱动攻击成为可能。该事件凸显了AI基础设施中隔离机制的重要性，产品经理需警惕看似安全的环境可能因人为疏忽而失效，在构建AI产品时应加强安全审计与自动化合规检查，避免类似漏洞影响生态信任。
+
+## PM 关注指标
+- 🎯 PM Score: 0.445
+- 🏷️ Pillar: ecosystem
+- 🔑 Keywords: testing
+
+## 新闻摘要
+OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.
+
+## 链接
+- 🔗 Source: https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/
+- 📅 Published: Wed, 22 Jul 2026 19:11:46 +0000

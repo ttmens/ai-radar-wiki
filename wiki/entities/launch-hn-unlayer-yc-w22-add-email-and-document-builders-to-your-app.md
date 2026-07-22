@@ -1,0 +1,25 @@
+---
+title: Launch HN: Unlayer (YC W22) – Add email and document builders to your app
+created: 2026-07-23
+updated: 2026-07-23
+type: entity
+pillar: capabilities
+pm_score: 0.38
+tags: ["discussion", "hacker-news", "capabilities"]
+sources: ["raw/hn/launch-hn-unlayer-yc-w22-add-email-and-document-builders-to-your-app.json"]
+---
+
+# Launch HN: Unlayer (YC W22) – Add email and document builders to your app
+
+## 中文摘要
+Unlayer (YC W22) 是一个可嵌入的邮件和文档构建器，允许开发者通过简单的 API/SDK 将拖拽式编辑器集成到自己的应用中。其技术核心在于提供高度可定制的 UI 组件、丰富的模板库和实时预览能力，帮助产品快速实现邮件营销、合同生成等场景。商业价值上，它省去了自研编辑器的成本，加速产品迭代，同时支持白色标签以保持品牌一致性。对于 AI 产品经理，这是一个典型的“能力封装”案例，即将通用功能模块化，通过标准化接口赋能其他产品。
+
+## PM 关注指标
+- 🔥 HN Score: 36
+- 💬 Comments: 22
+- 🎯 PM Score: 0.38
+- 🏷️ Pillar: capabilities
+
+## 链接
+- 🔗 HN 讨论: https://news.ycombinator.com/item?id=49008901
+- 🔗 原文: https://unlayer.com
