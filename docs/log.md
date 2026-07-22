@@ -3063,3 +3063,10 @@
 ## [2026-07-22 18:01] sync v3 | 8 new | pillars: {'capabilities': 6, 'ecosystem': 1, 'patterns': 1}
 - create: show-hn-a-new-kind-of-fps-aim-trainer.md
 - create: synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching.md
+
+## [2026-07-23 00:02] sync v3 | 6 new | pillars: {'capabilities': 5, 'ecosystem': 1}
+- create: overpaid-fire-your-ceo-hire-the-future.md
+- create: businesses-with-ugly-ai-menu-redesigns.md
+- create: passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us.md
+- create: glow-emerges-from-stealth-at-12b-valuation-to-challenge-endpoint-security-in-the.md
+- create: show-hn-bento-an-entire-powerpoint-in-one-html-file-editviewdatacollab.md

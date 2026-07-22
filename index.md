@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-22 | Total pages: 2836
+> Last updated: 2026-07-23 | Total pages: 2841
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -160,6 +160,7 @@
 - [[building-a-real-time-ai-tutor-for-5-year-olds.md]] Building a real-time AI tutor for 5-year-olds `pillar:capabilities` `score:0.48`
 - [[building-food-metadata-with-llm-juries.md]] Building Food Metadata with LLM Juries `pillar:capabilities` `score:0.33`
 - [[bun-rust-rewrite-codebase-fails-basic-miri-checks-allows-for-ub-in-safe-rust.md]] Bun Rust rewrite: "codebase fails basic miri checks, allows for UB in safe rust" `pillar:capabilities` `score:0.595`
+- [[businesses-with-ugly-ai-menu-redesigns.md]] Businesses with ugly AI menu redesigns `pillar:capabilities` `score:0.53`
 - [[buy-a-train-bridge-or-tracks-from-the-swiss-railway.md]] Buy a train, bridge or tracks from the Swiss Railway `pillar:capabilities` `score:0.305`
 - [[c-details-of-asymmetric-fences.md]] C++ Details of Asymmetric Fences `pillar:capabilities` `score:0.24`
 - [[cagire-live-coding-in-forth.md]] Cagire: Live Coding in Forth `pillar:capabilities` `score:0.345`
@@ -608,6 +609,7 @@
 - [[orchestrating-ai-code-review-at-scale.md]] Orchestrating AI code review at scale `pillar:capabilities` `score:0.43`
 - [[orion-browser-by-kagi.md]] Orion Browser by Kagi `pillar:capabilities` `score:0.31`
 - [[outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs.md]] Outsourcing plus LocalAI will soon become more economical vs. Frontier labs `pillar:capabilities` `score:0.375`
+- [[overpaid-fire-your-ceo-hire-the-future.md]] OverpAId – Fire your CEO. Hire the future `pillar:capabilities` `score:0.645`
 - [[overseas-fakers-using-ai-videos-to-push-a-narrative-of-uk-decline-bbc-finds.md]] Overseas fakers using AI videos to push a narrative of UK decline, BBC finds `pillar:capabilities` `score:0.38`
 - [[owainlewisawesome-artificial-intelligence.md]] owainlewis/awesome-artificial-intelligence `pillar:capabilities` `score:0.58`
 - [[oxcaml-in-space.md]] O(x)Caml in Space `pillar:capabilities` `score:0.275`
@@ -701,6 +703,7 @@
 - [[show-hn-aislop-a-cli-for-catching-ai-generated-code-smells.md]] Show HN: AISlop, a CLI for catching AI generated code smells `pillar:capabilities` `score:0.48`
 - [[show-hn-appaca-ai-workspace-for-operators.md]] Show HN: Appaca – AI Workspace for Operators `pillar:capabilities` `score:0.295`
 - [[show-hn-bamboogrid-open-source-web-ui-for-power-grid-modeling-and-power-flow.md]] Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow `pillar:capabilities` `score:0.19`
+- [[show-hn-bento-an-entire-powerpoint-in-one-html-file-editviewdatacollab.md]] Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab) `pillar:capabilities` `score:0.295`
 - [[show-hn-boxesdev-ditch-localhost-run-claude-code-and-codex-in-the-cloud.md]] Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud `pillar:capabilities` `score:0.33`
 - [[show-hn-brain-frog-can-you-be-random-enough-for-11-lines-of-javascript.md]] Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript? `pillar:capabilities` `score:0.345`
 - [[show-hn-brightdeck-an-ooxml-compatible-ai-presentation-maker.md]] Show HN: Brightdeck – an OOXML-compatible AI presentation maker `pillar:capabilities` `score:0.33`
@@ -2112,6 +2115,7 @@
 - [[fsfe-intervenes-against-apple-before-eucj-for-the-second-time.md]] FSFE intervenes against Apple before EUCJ for the second time `pillar:ecosystem` `score:0.38`
 - [[gemini-code-assist-will-be-shut-down-on-july-17.md]] Gemini Code Assist will be shut down on July 17 `pillar:ecosystem` `score:0.345`
 - [[german-ruling-declares-google-liable-for-false-answers-in-ai-overviews.md]] German ruling declares Google liable for false answers in AI Overviews `pillar:ecosystem` `score:0.53`
+- [[glow-emerges-from-stealth-at-12b-valuation-to-challenge-endpoint-security-in-the.md]] Glow emerges from stealth at $1.2B valuation to challenge endpoint security in t `pillar:ecosystem` `score:0.445`
 - [[gmail-registration-now-requires-scanning-a-qr-code.md]] Gmail registration now requires scanning a QR code and sending a text message `pillar:ecosystem` `score:0.53`
 - [[godot-will-no-longer-accept-ai-authored-code-contributions.md]] Godot will no longer accept AI-authored code contributions `pillar:ecosystem` `score:0.495`
 - [[google-deepmindsonnet.md]] google-deepmind/sonnet `pillar:ecosystem` `score:0.495`
@@ -2666,6 +2670,7 @@
 - [[openhandsopenhands.md]] OpenHands/OpenHands `pillar:business` `score:0.405`
 - [[origin-lab-raises-8m-to-help-video-game-companies.md]] Origin Lab raises $8M to help video game companies sell data to world-model buil `pillar:business` `score:0.305`
 - [[palantir-loses-legal-challenge-against-swiss-investigative-magazine.md]] Palantir loses legal challenge against Swiss investigative magazine `pillar:business` `score:0.345`
+- [[passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us.md]] Passionfroot raises $15M to expand its B2B creator marketplace to the US `pillar:business` `score:0.41`
 - [[payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headc.md]] Payroll startup Remote says it grew revenue 50% per employee without adding head `pillar:business` `score:0.48`
 - [[photoprismphotoprism.md]] photoprism/photoprism `pillar:business` `score:0.405`
 - [[plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-no.md]] Plaud says its software business topped $100M in ARR after shipping over 2M AI n `pillar:business` `score:0.48`
