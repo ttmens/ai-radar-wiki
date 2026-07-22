@@ -3059,3 +3059,7 @@
 - create: google-releases-three-new-gemini-models-but-no-35-pro.md
 - create: show-hn-language-model-builder-an-app-to-learn-about-and-build-models.md
 - create: show-hn-oss-cross-harness-self-hosted-registry-and-analytics-for-ai-agents.md
+
+## [2026-07-22 18:01] sync v3 | 8 new | pillars: {'capabilities': 6, 'ecosystem': 1, 'patterns': 1}
+- create: show-hn-a-new-kind-of-fps-aim-trainer.md
+- create: synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching.md

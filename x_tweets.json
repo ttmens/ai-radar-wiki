@@ -1,8 +1,38 @@
 {
-  "fetched_at": "2026-07-21T21:01:28.261918",
+  "fetched_at": "2026-07-22T09:01:53.542053",
   "source": "twitter-cli",
   "data": {
     "sama": [
+      {
+        "id": "2079661132302995790",
+        "text": "we had a significant security incident during evaluation of our models. we are sharing what we have learned so far. thanks to @huggingface for the partnership on this.\n\nhttps://t.co/2o2VfR6PIa",
+        "author": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screenName": "sama",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 8854,
+          "retweets": 902,
+          "replies": 1051,
+          "quotes": 1079,
+          "views": 2512427,
+          "bookmarks": 3155
+        },
+        "createdAt": "Tue Jul 21 20:13:46 +0000 2026",
+        "createdAtLocal": "2026-07-22 04:13",
+        "createdAtISO": "2026-07-21T20:13:46+00:00",
+        "media": [],
+        "urls": [
+          "https://openai.com/index/hugging-face-model-evaluation-security-incident/"
+        ],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
       {
         "id": "2079258683884917013",
         "text": "it is good now!",
@@ -14,12 +44,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 3096,
-          "retweets": 142,
-          "replies": 499,
-          "quotes": 20,
-          "views": 609817,
-          "bookmarks": 239
+          "likes": 3365,
+          "retweets": 151,
+          "replies": 542,
+          "quotes": 22,
+          "views": 743031,
+          "bookmarks": 261
         },
         "createdAt": "Mon Jul 20 17:34:35 +0000 2026",
         "createdAtLocal": "2026-07-21 01:34",
@@ -50,12 +80,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 3264,
+          "likes": 3292,
           "retweets": 216,
-          "replies": 543,
-          "quotes": 70,
-          "views": 778395,
-          "bookmarks": 613
+          "replies": 544,
+          "quotes": 72,
+          "views": 794437,
+          "bookmarks": 618
         },
         "createdAt": "Fri Jul 17 22:23:34 +0000 2026",
         "createdAtLocal": "2026-07-18 06:23",
@@ -80,12 +110,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 14105,
-          "retweets": 420,
-          "replies": 1944,
-          "quotes": 252,
-          "views": 1071650,
-          "bookmarks": 635
+          "likes": 14119,
+          "retweets": 421,
+          "replies": 1951,
+          "quotes": 254,
+          "views": 1078631,
+          "bookmarks": 637
         },
         "createdAt": "Thu Jul 16 19:47:29 +0000 2026",
         "createdAtLocal": "2026-07-17 03:47",
@@ -108,12 +138,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 24628,
-          "retweets": 890,
-          "replies": 2272,
-          "quotes": 409,
-          "views": 2528181,
-          "bookmarks": 2124
+          "likes": 24638,
+          "retweets": 889,
+          "replies": 2278,
+          "quotes": 410,
+          "views": 2542389,
+          "bookmarks": 2126
         },
         "createdAt": "Thu Jul 16 18:06:05 +0000 2026",
         "createdAtLocal": "2026-07-17 02:06",
@@ -124,37 +154,37 @@
         "retweetedBy": null,
         "lang": "en",
         "score": null
-      },
-      {
-        "id": "2077630111499882637",
-        "text": "On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. \n\nWhat we have  found is that this most commonly occurs when:\n- Full access mode is enabled and codex is run without sandboxing protections, including without auto review being enabled\n- The model attempts  to override the $HOME env var to define a temporary directory.\n- The model makes an honest mistake and mistakenly deletes $HOME instead.\n\nThis is of course not how we want the system to behave, even when a user operates the model in full-access mode without the safeguards of our sandbox or without using auto review which checks for these kinds of high risk actions and rejects them. \n\nWe are taking steps to mitigate this risk including by updating the developer message, guiding more users towards safer permission modes, and adding additional harness safeguards. Even though this happens extremely rarely, we’ll share a detailed post-mortem in the coming days that goes into more details and what we are doing to minimize risks further.",
-        "author": {
-          "id": "1953337039510003712",
-          "name": "Tibo",
-          "screenName": "thsottiaux",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2075819673263001600/pj1vyX6I_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 8990,
-          "retweets": 433,
-          "replies": 721,
-          "quotes": 240,
-          "views": 1562667,
-          "bookmarks": 1669
-        },
-        "createdAt": "Thu Jul 16 05:43:13 +0000 2026",
-        "createdAtLocal": "2026-07-16 13:43",
-        "createdAtISO": "2026-07-16T05:43:13+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "sama",
-        "lang": "en",
-        "score": null
       }
     ],
     "karpathy": [
+      {
+        "id": "2079610838143623371",
+        "text": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10 minutes, total mess, anything goes, full stream of consciousness. Sometimes I declare it up top, something like \"switching to speech recognition sorry for any typos...\". Sometimes I turn it into a small interview of a few turns. But I find that the LLMs are somehow very good at reconstructing long incoherent rambles and often their echo of your own tangle of thoughts comes out quite a bit cleaner than what you started with. The result is that you improve the mind meld and have to correct things less from that point on.",
+        "author": {
+          "id": "33836629",
+          "name": "Andrej Karpathy",
+          "screenName": "karpathy",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 27093,
+          "retweets": 2136,
+          "replies": 1543,
+          "quotes": 690,
+          "views": 1338916,
+          "bookmarks": 7628
+        },
+        "createdAt": "Tue Jul 21 16:53:55 +0000 2026",
+        "createdAtLocal": "2026-07-22 00:53",
+        "createdAtISO": "2026-07-21T16:53:55+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
       {
         "id": "2074973674332123157",
         "text": "Rewriting Bun in Rust\n\nhttps://t.co/Rl8bcaxBFc",
@@ -166,12 +196,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8817,
-          "retweets": 1083,
-          "replies": 449,
+          "likes": 8834,
+          "retweets": 1087,
+          "replies": 452,
           "quotes": 576,
-          "views": 3644672,
-          "bookmarks": 5131
+          "views": 3652451,
+          "bookmarks": 5130
         },
         "createdAt": "Wed Jul 08 21:47:29 +0000 2026",
         "createdAtLocal": "2026-07-09 05:47",
@@ -196,12 +226,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1597,
-          "retweets": 154,
+          "likes": 1613,
+          "retweets": 156,
           "replies": 79,
           "quotes": 16,
-          "views": 492370,
-          "bookmarks": 2446
+          "views": 495835,
+          "bookmarks": 2456
         },
         "createdAt": "Fri Jul 03 14:12:03 +0000 2026",
         "createdAtLocal": "2026-07-03 22:12",
@@ -226,12 +256,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 9676,
-          "retweets": 932,
+          "likes": 9684,
+          "retweets": 934,
           "replies": 650,
-          "quotes": 601,
-          "views": 6293079,
-          "bookmarks": 3733
+          "quotes": 604,
+          "views": 6299096,
+          "bookmarks": 3734
         },
         "createdAt": "Tue Jun 30 15:00:09 +0000 2026",
         "createdAtLocal": "2026-06-30 23:00",
@@ -261,12 +291,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1928,
-          "retweets": 243,
+          "likes": 1933,
+          "retweets": 245,
           "replies": 182,
           "quotes": 160,
-          "views": 1872159,
-          "bookmarks": 1250
+          "views": 1874666,
+          "bookmarks": 1252
         },
         "createdAt": "Tue Jun 23 17:01:29 +0000 2026",
         "createdAtLocal": "2026-06-24 01:01",
@@ -280,42 +310,6 @@
         "lang": "zxx",
         "score": null,
         "articleTitle": "Introducing Engram: Scaling compute on your context"
-      },
-      {
-        "id": "2069547676849557725",
-        "text": "This is a new paradigm for interacting with Claude that is significantly more \"inline\" with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this \"just work\" (e.g. across tools, integrations, compute environments, memory, security, etc.), Claude basically joins the team in a seamless way - you can talk to it as you would talk to a person and it can help with a very large variety of workloads.\n\nImo this is the 3rd major redesign of LLM UIUX. The first paradigm was that the LLM is a website you go to, the second was that it is an app you download to your computer. This third one is that it is a self-contained, persistent, asynchronous entity with org-wide tools and context, working alongside teams of humans. It really takes a while to wrap your head around it, but it works and it is awesome.",
-        "author": {
-          "id": "33836629",
-          "name": "Andrej Karpathy",
-          "screenName": "karpathy",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 23103,
-          "retweets": 1905,
-          "replies": 1349,
-          "quotes": 696,
-          "views": 7928149,
-          "bookmarks": 13926
-        },
-        "createdAt": "Tue Jun 23 22:26:31 +0000 2026",
-        "createdAtLocal": "2026-06-24 06:26",
-        "createdAtISO": "2026-06-23T22:26:31+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2069468693017268244",
-          "text": "Introducing Claude Tag, a new way for teams to work with Claude.\n\nIn Slack, Claude joins as a team member with access to the channels and tools you choose. Tag Claude in and delegate tasks to it while you focus on other work. https://t.co/R2C6A5Kcye",
-          "author": {
-            "screenName": "claudeai",
-            "name": "Claude"
-          }
-        }
       }
     ],
     "AndrewYNg": [
@@ -330,12 +324,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1162,
-          "retweets": 115,
-          "replies": 86,
+          "likes": 1170,
+          "retweets": 120,
+          "replies": 90,
           "quotes": 11,
-          "views": 126809,
-          "bookmarks": 785
+          "views": 127963,
+          "bookmarks": 788
         },
         "createdAt": "Fri Jul 17 15:47:30 +0000 2026",
         "createdAtLocal": "2026-07-17 23:47",
@@ -365,12 +359,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 283,
+          "likes": 284,
           "retweets": 46,
-          "replies": 80,
+          "replies": 81,
           "quotes": 6,
-          "views": 98651,
-          "bookmarks": 57
+          "views": 99150,
+          "bookmarks": 58
         },
         "createdAt": "Thu Jul 09 17:31:17 +0000 2026",
         "createdAtLocal": "2026-07-10 01:31",
@@ -401,12 +395,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8451,
+          "likes": 8459,
           "retweets": 1632,
-          "replies": 395,
+          "replies": 396,
           "quotes": 179,
-          "views": 651345,
-          "bookmarks": 10268
+          "views": 652063,
+          "bookmarks": 10275
         },
         "createdAt": "Tue Jun 30 16:04:04 +0000 2026",
         "createdAtLocal": "2026-07-01 00:04",
@@ -436,11 +430,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1342,
+          "likes": 1339,
           "retweets": 288,
-          "replies": 175,
+          "replies": 176,
           "quotes": 61,
-          "views": 165802,
+          "views": 166078,
           "bookmarks": 401
         },
         "createdAt": "Fri Jun 19 18:34:23 +0000 2026",
@@ -475,8 +469,8 @@
           "retweets": 53,
           "replies": 56,
           "quotes": 10,
-          "views": 84088,
-          "bookmarks": 212
+          "views": 84245,
+          "bookmarks": 213
         },
         "createdAt": "Thu Jun 18 17:00:03 +0000 2026",
         "createdAtLocal": "2026-06-19 01:00",
@@ -508,12 +502,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 4960,
-          "retweets": 1640,
-          "replies": 201,
-          "quotes": 242,
-          "views": 515493,
-          "bookmarks": 2330
+          "likes": 6494,
+          "retweets": 2091,
+          "replies": 272,
+          "quotes": 338,
+          "views": 926233,
+          "bookmarks": 3187
         },
         "createdAt": "Mon Jul 20 22:38:00 +0000 2026",
         "createdAtLocal": "2026-07-21 06:38",
@@ -543,12 +537,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 3068,
-          "retweets": 365,
-          "replies": 196,
-          "quotes": 231,
-          "views": 2094921,
-          "bookmarks": 4969
+          "likes": 3101,
+          "retweets": 368,
+          "replies": 199,
+          "quotes": 232,
+          "views": 2118701,
+          "bookmarks": 4997
         },
         "createdAt": "Sat Jul 18 21:36:00 +0000 2026",
         "createdAtLocal": "2026-07-19 05:36",
@@ -574,12 +568,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 12795,
-          "retweets": 5696,
-          "replies": 1286,
-          "quotes": 366,
-          "views": 610731,
-          "bookmarks": 1209
+          "likes": 13744,
+          "retweets": 6163,
+          "replies": 1440,
+          "quotes": 414,
+          "views": 695226,
+          "bookmarks": 1301
         },
         "createdAt": "Mon Jul 20 14:15:56 +0000 2026",
         "createdAtLocal": "2026-07-20 22:15",
@@ -609,12 +603,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 3807,
-          "retweets": 434,
-          "replies": 76,
+          "likes": 3903,
+          "retweets": 442,
+          "replies": 78,
           "quotes": 27,
-          "views": 367479,
-          "bookmarks": 5322
+          "views": 380786,
+          "bookmarks": 5467
         },
         "createdAt": "Mon Jul 20 00:30:06 +0000 2026",
         "createdAtLocal": "2026-07-20 08:30",
@@ -645,10 +639,10 @@
         },
         "metrics": {
           "likes": 2939,
-          "retweets": 1502,
-          "replies": 122,
+          "retweets": 1500,
+          "replies": 123,
           "quotes": 73,
-          "views": 61683,
+          "views": 62956,
           "bookmarks": 144
         },
         "createdAt": "Sat Jul 18 19:05:41 +0000 2026",
@@ -671,40 +665,27 @@
     ],
     "elonmusk": [
       {
-        "id": "2079360764213874980",
-        "text": "𝕏Money with friends is fun &lt;3\n\nCongrats to all those that got access today! https://t.co/pNWAZy31EB",
+        "id": "2079615536963485815",
+        "text": "We've doubled usage limits for all individual and teams plans!\n\nThese limits apply to Grok, Composer, and any new Cursor models.",
         "author": {
-          "id": "229370002",
-          "name": "paranoidream ♡︎",
-          "screenName": "paranoidream",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2037953175379222528/FqbPgfwb_normal.jpg",
-          "verified": true
+          "id": "1695890961094909952",
+          "name": "Cursor",
+          "screenName": "cursor_ai",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1970182748146180096/dhZeXi_X_normal.jpg",
+          "verified": false
         },
         "metrics": {
-          "likes": 1383,
-          "retweets": 237,
-          "replies": 237,
-          "quotes": 19,
-          "views": 360799,
-          "bookmarks": 61
+          "likes": 8003,
+          "retweets": 584,
+          "replies": 548,
+          "quotes": 215,
+          "views": 591416,
+          "bookmarks": 460
         },
-        "createdAt": "Tue Jul 21 00:20:13 +0000 2026",
-        "createdAtLocal": "2026-07-21 08:20",
-        "createdAtISO": "2026-07-21T00:20:13+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HNtfmEDbUAAZwkG.jpg",
-            "width": 720,
-            "height": 1280
-          },
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HNtfmEEasAAV5CG.jpg",
-            "width": 1170,
-            "height": 1194
-          }
-        ],
+        "createdAt": "Tue Jul 21 17:12:36 +0000 2026",
+        "createdAtLocal": "2026-07-22 01:12",
+        "createdAtISO": "2026-07-21T17:12:36+00:00",
+        "media": [],
         "urls": [],
         "isRetweet": true,
         "retweetedBy": "elonmusk",
@@ -712,8 +693,36 @@
         "score": null
       },
       {
-        "id": "2079448786745631005",
-        "text": "It’s been this way for years",
+        "id": "2079639690567729647",
+        "text": "Enough with everyone trying to be an influencer. We need electricians and mechanics.",
+        "author": {
+          "id": "3429950987",
+          "name": "World of Engineering",
+          "screenName": "engineers_feed",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1509808420030844929/ifEhyqHM_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 6094,
+          "retweets": 932,
+          "replies": 455,
+          "quotes": 77,
+          "views": 392663,
+          "bookmarks": 186
+        },
+        "createdAt": "Tue Jul 21 18:48:34 +0000 2026",
+        "createdAtLocal": "2026-07-22 02:48",
+        "createdAtISO": "2026-07-21T18:48:34+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2079660702592086188",
+        "text": "Children are the future",
         "author": {
           "id": "44196397",
           "name": "Elon Musk",
@@ -722,16 +731,16 @@
           "verified": true
         },
         "metrics": {
-          "likes": 18402,
-          "retweets": 3808,
-          "replies": 910,
-          "quotes": 79,
-          "views": 1503773,
-          "bookmarks": 916
+          "likes": 8058,
+          "retweets": 1391,
+          "replies": 1864,
+          "quotes": 141,
+          "views": 2131878,
+          "bookmarks": 376
         },
-        "createdAt": "Tue Jul 21 06:09:59 +0000 2026",
-        "createdAtLocal": "2026-07-21 14:09",
-        "createdAtISO": "2026-07-21T06:09:59+00:00",
+        "createdAt": "Tue Jul 21 20:12:04 +0000 2026",
+        "createdAtLocal": "2026-07-22 04:12",
+        "createdAtISO": "2026-07-21T20:12:04+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -739,41 +748,69 @@
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2078946666967900573",
-          "text": "My jaw literally dropped checking this out\n\nIf you go to New Jersey inmates mugshots and filter by race “White” you’re mind is gong to be blown\n\nAlmost all mugshots are of minorities being booked as “White.” (Proof in video)\n\nTHIS IS INSANE. You should be furious. I go through all the inmates just on the first page and the people doing this need to go to prison \n\nJust imagine this nationwide….",
+          "id": "2079597573711495494",
+          "text": "the new State of Fertility Report for the US just came out and it’s a real blackpill \n\nthe main findings are basically:  \n- the current fertility decline is worse than any other \n- if this keeps going, US population will start declining in less than a generation, much sooner than most forecasts assumed \n- americans still want about 2.4 children, but are having fewer than 1.6 \n- culture matters A LOT. supportive friends, people around you and even celebrities affect how many children people want \n- if policymakers actually want to change this, it will require a lot of money and serious interventions  \n\npeople often say america was built by immigrants, but around 80% of all the people who have ever lived in america were born there and without american children there's no america left  \nyou can use immigration to support population growth for a while, but no country can survive indefinitely if the people already there stop having children",
           "author": {
-            "screenName": "WallStreetApes",
-            "name": "Wall Street Apes"
+            "screenName": "IterIntellectus",
+            "name": "vittorio"
           }
         }
       },
       {
-        "id": "2079411063603245287",
-        "text": "Grok Imagine ❣️ https://t.co/eJKdIPEjmj",
+        "id": "2079610838143623371",
+        "text": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10 minutes, total mess, anything goes, full stream of consciousness. Sometimes I declare it up top, something like \"switching to speech recognition sorry for any typos...\". Sometimes I turn it into a small interview of a few turns. But I find that the LLMs are somehow very good at reconstructing long incoherent rambles and often their echo of your own tangle of thoughts comes out quite a bit cleaner than what you started with. The result is that you improve the mind meld and have to correct things less from that point on.",
         "author": {
-          "id": "2178040394",
-          "name": "Déborah",
-          "screenName": "dvorahfr",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1605451924144373760/K27zpEfc_normal.jpg",
+          "id": "33836629",
+          "name": "Andrej Karpathy",
+          "screenName": "karpathy",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 1261,
-          "retweets": 236,
-          "replies": 169,
-          "quotes": 12,
-          "views": 312939,
-          "bookmarks": 56
+          "likes": 27093,
+          "retweets": 2136,
+          "replies": 1543,
+          "quotes": 690,
+          "views": 1338916,
+          "bookmarks": 7629
         },
-        "createdAt": "Tue Jul 21 03:40:05 +0000 2026",
-        "createdAtLocal": "2026-07-21 11:40",
-        "createdAtISO": "2026-07-21T03:40:05+00:00",
+        "createdAt": "Tue Jul 21 16:53:55 +0000 2026",
+        "createdAtLocal": "2026-07-22 00:53",
+        "createdAtISO": "2026-07-21T16:53:55+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2079208495094677511",
+        "text": "Backpropagation by hand ✍️ ~ 11 steps walkthrough below\n\nBackpropagation is the algorithm that actually trains a neural network, and it is where most people stop following along. It is not calculus you cannot do. It is matrix multiplication, working backward, one layer at a time.\n\nSo I drew and calculated one entirely by hand.\n\nGoal: push the loss gradient back through a 3-layer network and land on a new value for every weight and bias.\n\n= 1. Given =\n\nA 3-layer perceptron, an input X, predictions Ypred = [0.5, 0.5, 0], and the truth Ytarget = [0, 1, 0].\n\n= 2. Backprop gradient cells =\n\nLet us draw empty cells for every gradient we are about to compute. The shape of the answer comes first.\n\n= 3. Layer 3 softmax =\n\nWe get dL/dz3 straight from Ypred minus Ytarget = [0.5, -0.5, 0]. No chain rule needed, and that shortcut is the whole reason softmax and cross-entropy are paired.\n\n= 4. Layer 3 weights and biases =\n\nLet us multiply dL/dz3 by [a2 | 1]. One multiplication gives the gradient for W3 and b3 together.\n\n= 5. Layer 2 activations =\n\nWe multiply dL/dz3 by W3 to get dL/da2. The gradient moves back across a layer the same way the signal moved forward.\n\n= 6. Layer 2 ReLU =\n\nLet us pass it through the gate: keep the gradient where the activation was positive, zero it everywhere else.\n\n= 7. Layer 2 weights and biases =\n\nWe multiply dL/dz2 by [a1 | 1]. The same figure as step 4, one layer up.\n\n= 8. Layer 1 activations =\n\nLet us multiply dL/dz2 by W2.\n\n= 9. Layer 1 ReLU =\n\nWe apply the same gate again, now on a1.\n\n= 10. Layer 1 weights and biases =\n\nLet us multiply dL/dz1 by [x | 1], and every weight in the network now has a gradient.\n\n= 11. Update =\n\nWe subtract, and the network has learned. In practice a learning rate scales this step.\n\nThe gradients:\ndL/dz3 = [0.5, -0.5, 0]\ndL/da1 = [1, -2, 2, -1]\ndL/dz1 = [0, -2, 2, -1]\n\nThe takeaway: matrix multiplication is all you need. Just like the forward pass, backpropagation is matrix multiplications end to end. You can do every one by hand, slowly and imperfectly, which is exactly why a GPU's ability to do them fast mattered so much to deep learning.\n\n💾 Save this post!",
+        "author": {
+          "id": "78995338",
+          "name": "Tom Yeh",
+          "screenName": "ProfTomYeh",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1787660049868800000/PfMkSQNQ_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 2900,
+          "retweets": 482,
+          "replies": 166,
+          "quotes": 16,
+          "views": 583375,
+          "bookmarks": 3165
+        },
+        "createdAt": "Mon Jul 20 14:15:09 +0000 2026",
+        "createdAtLocal": "2026-07-20 22:15",
+        "createdAtISO": "2026-07-20T14:15:09+00:00",
         "media": [
           {
             "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2079411019961573376/vid/avc1/1080x1650/O9MbQKvw8jWNWAnk.mp4?tag=29",
+            "url": "https://video.twimg.com/ext_tw_video/2079208483669315584/pu/vid/avc1/720x720/_2gCLV-fHWMgWYls.mp4?tag=12",
             "width": 1080,
-            "height": 1650
+            "height": 1080
           }
         ],
         "urls": [],
@@ -781,78 +818,6 @@
         "retweetedBy": "elonmusk",
         "lang": "en",
         "score": null
-      },
-      {
-        "id": "2079448540900647179",
-        "text": "Grok is a solid workhorse",
-        "author": {
-          "id": "44196397",
-          "name": "Elon Musk",
-          "screenName": "elonmusk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 4895,
-          "retweets": 691,
-          "replies": 979,
-          "quotes": 60,
-          "views": 1941827,
-          "bookmarks": 135
-        },
-        "createdAt": "Tue Jul 21 06:09:01 +0000 2026",
-        "createdAtLocal": "2026-07-21 14:09",
-        "createdAtISO": "2026-07-21T06:09:01+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2079159804661043391",
-          "text": "Still haven’t found a real use case where Grok 4.5 fails at something I ask vs GPT-5.6 Sol, Fable 5, or Kimi K3.\n\nAll of them are excellent — but Grok 4.5 wins on price and speed by far.",
-          "author": {
-            "screenName": "MiaAI_lab",
-            "name": "Mia"
-          }
-        }
-      },
-      {
-        "id": "2079422033151029591",
-        "text": "X is where all the real voices matter. You could never do this on Instagram.",
-        "author": {
-          "id": "17050482",
-          "name": "Adam Lowisz X Meetup 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
-          "screenName": "AdamLowisz",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1978953232698290176/EdCIw3PO_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 1109,
-          "retweets": 184,
-          "replies": 117,
-          "quotes": 6,
-          "views": 432275,
-          "bookmarks": 23
-        },
-        "createdAt": "Tue Jul 21 04:23:41 +0000 2026",
-        "createdAtLocal": "2026-07-21 12:23",
-        "createdAtISO": "2026-07-21T04:23:41+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2079389241021501447",
-          "text": "The scientific community on X is very much alive. Can you get 20M+ views on Jacobian anywhere?",
-          "author": {
-            "screenName": "yunta_tsai",
-            "name": "Yun-Ta Tsai"
-          }
-        }
       }
     ],
     "DrJimFan": [
@@ -867,11 +832,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 28,
+          "likes": 31,
           "retweets": 3,
           "replies": 7,
           "quotes": 0,
-          "views": 13277,
+          "views": 13515,
           "bookmarks": 11
         },
         "createdAt": "Fri Jul 17 16:11:03 +0000 2026",
@@ -905,11 +870,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 474,
+          "likes": 475,
           "retweets": 43,
-          "replies": 39,
-          "quotes": 5,
-          "views": 58098,
+          "replies": 40,
+          "quotes": 6,
+          "views": 58493,
           "bookmarks": 125
         },
         "createdAt": "Fri Jul 17 16:09:12 +0000 2026",
@@ -940,11 +905,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 569,
+          "likes": 574,
           "retweets": 61,
-          "replies": 28,
+          "replies": 31,
           "quotes": 6,
-          "views": 97613,
+          "views": 98770,
           "bookmarks": 164
         },
         "createdAt": "Wed Jul 15 20:55:33 +0000 2026",
@@ -976,12 +941,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1263,
+          "likes": 1265,
           "retweets": 189,
-          "replies": 62,
+          "replies": 63,
           "quotes": 51,
-          "views": 274293,
-          "bookmarks": 762
+          "views": 276502,
+          "bookmarks": 765
         },
         "createdAt": "Wed Jul 15 15:25:02 +0000 2026",
         "createdAtLocal": "2026-07-15 23:25",
@@ -1015,7 +980,7 @@
           "retweets": 4,
           "replies": 3,
           "quotes": 1,
-          "views": 18411,
+          "views": 18516,
           "bookmarks": 28
         },
         "createdAt": "Wed Jul 15 15:25:03 +0000 2026",

@@ -1,0 +1,34 @@
+{
+  "title": "ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D",
+  "summary": "As AI agents begin to automate AI R&D, we need ways to assess whether their outputs are safe to deploy, even when the agents themselves may be untrusted. AI control offers one such approach: rather than trusting the agent, it treats it as a potential adversary and uses a monitor to detect covert sabotage before deployment. We evaluate AI control for automated AI R&D with ResearchArena, a framework spanning four long-horizon tasks: safety post-training, capabilities post-training, CUDA-kernel optimization, and inference-server optimization. Because the deliverable in AI R&D is an artifact that will be deployed and run, we pair each main task with two kinds of hidden side task: an embedded side task that sabotages the submitted model, adapter, kernel, or server itself, and an independent side task that takes a covert out-of-scope action in the sandbox while leaving the artifact honest. We evaluate frontier agents at both sabotage and monitoring, across four monitor types that vary along two axes: whether the monitor may execute and probe the produced artifact, and whether it sees the agent's chain-of-thought. We find that sabotage hidden in the training data is the hardest to catch, flagged fewer than half the time. Letting the monitor run experiments on the artifact, rather than only read the trajectory, helps, but it is not enough: monitors still miss embedded sabotage by inspecting only the surface, by noticing the anomaly but explaining it away, or by probing the artifact with the wrong test. We release ResearchArena as a modular framework for evaluating sabotage and control in automated AI R&D.",
+  "url": "http://arxiv.org/abs/2607.19321v1",
+  "authors": [
+    "Lena Libon",
+    "Ben Rank",
+    "Jehyeok Yeon",
+    "David Schmotz",
+    "Jeremy Qin"
+  ],
+  "published": "2026-07-21T17:41:12Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "training",
+    "optimization",
+    "post-training"
+  ],
+  "summary_cn": "ResearchArena 项目专注于评估自动化 AI 研发（R&D）过程中的安全风险，尤其是当 AI 代理本身不可信时。它提出了一种“AI 控制”方法：不信任代理本身，而是将其视为潜在对手，通过监控器检测隐蔽破坏行为。该研究为产品经理提供了可落地的安全评估框架，确保在自动化研发流程中部署 AI 代理时能防范恶意行为，对构建可信 AI 产品具有重要商业价值。",
+  "pm_relevance": 7,
+  "concepts": [
+    "AI安全性评估",
+    "自动化研发监控",
+    "对抗性AI控制"
+  ],
+  "entities": [
+    "ResearchArena"
+  ],
+  "patterns": [
+    "AI控制模式（Monitor Pattern）"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Associative Emotional Learning in Convolutional Neural Networks",
+  "summary": "Associative emotional learning enables organisms to adaptively link pleasant or unpleasant outcomes to the presence of predictive stimuli. Whereas computational models such as the Rescorla-Wagner model have shed light on this important function, the limitations of these models are also known, especially when they are applied to neural data. The advent of deep neural networks has opened another avenue for modeling associative emotional learning. In this work we proposed a deep neural network model of visual valence processing, consisting of a visual module that encodes complex natural scenes and a module that recognizes their emotional significance in terms of valence, a key dimension of emotion, and tested a novel Pavlovian learning paradigm on the model. The results showed that with learning, the model reproduced several observations from human associative learning studies, including association formation and generalization, and that the neural representations of the conditioned and the unconditioned stimuli became increasingly aligned both at the single unit and at the neural population level. Comparison between the model and human experimental data provided further validation of our approach. This study thus suggests that deep neural network models, when combined with appropriate learning algorithms, can be used to model behavioral and neural signatures of associative emotion/valence learning.",
+  "url": "http://arxiv.org/abs/2607.19327v1",
+  "authors": [
+    "Seowung Leem",
+    "Andreas Keil",
+    "Mingzhou Ding",
+    "Ruogu Fang"
+  ],
+  "published": "2026-07-21T17:49:19Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "neural network",
+    "gan"
+  ],
+  "summary_cn": "该论文研究卷积神经网络中的联想情绪学习，即生物体如何将愉快/不愉快结果与预测刺激建立关联。传统Rescorla-Wagner模型虽有洞见但存在局限。技术要点在于将情绪信号作为监督信息融入CNN训练，使模型具备情感联想能力。商业价值体现在情感计算、智能推荐和自适应人机交互等场景，可提升用户体验与产品粘性。产品创新方向包括情绪感知的对话系统、个性化内容推送和智能反馈机制。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Associative Emotional Learning",
+    "Convolutional Neural Networks",
+    "Emotion AI"
+  ],
+  "entities": [],
+  "patterns": []
+}

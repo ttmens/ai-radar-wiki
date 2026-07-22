@@ -1,33 +1,33 @@
 # X/Twitter AI KOL 动态
 
-抓取时间: 2026-07-21 21:01:28
+抓取时间: 2026-07-22 09:01:53
 
 
 ## @sama (5 条)
 
-1. **it is good now!**
+1. **we had a significant security incident during evaluation of our models. we are sharing what we have learned so far. thanks to @huggingface for the partnership on this.  https://t.co/2o2VfR6PIa**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **this is cool:  https://t.co/X4HEmFym68**
+2. **it is good now!**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **i talk to chatgpt more than i type to it at this point  new voice model really crossed a threshold**
+3. **this is cool:  https://t.co/X4HEmFym68**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
 ## @karpathy (5 条)
 
-1. **Rewriting Bun in Rust  https://t.co/Rl8bcaxBFc**
+1. **One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **I spent a LOT of time through the hardest 3D prompts at Fable, it is a 45 min video, but I have 60+ very cool demos for you. Also prompts in the next post.   https://t.co/QPS5ccWZox**
+2. **Rewriting Bun in Rust  https://t.co/Rl8bcaxBFc**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **We're coming out of stealth.  We've built our first racks after a successful A0 tapeout, $1B+ in customer contracts, and $800m raised.  Early customer tests show us achieving SOTA throughput, latency,**
+3. **I spent a LOT of time through the hardest 3D prompts at Fable, it is a 45 min video, but I have 60+ very cool demos for you. Also prompts in the next post.   https://t.co/QPS5ccWZox**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
@@ -61,15 +61,15 @@
 
 ## @elonmusk (5 条)
 
-1. **𝕏Money with friends is fun &lt;3  Congrats to all those that got access today! https://t.co/pNWAZy31EB**
+1. **We've doubled usage limits for all individual and teams plans!  These limits apply to Grok, Composer, and any new Cursor models.**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **It’s been this way for years**
+2. **Enough with everyone trying to be an influencer. We need electricians and mechanics.**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **Grok Imagine ❣️ https://t.co/eJKdIPEjmj**
+3. **Children are the future**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 

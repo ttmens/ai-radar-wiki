@@ -1,8 +1,92 @@
 {
   "date": "2026-07-22",
-  "generated_at": "2026-07-22T06:02:17.707969+08:00",
-  "item_count": 17,
+  "generated_at": "2026-07-22T18:01:43.683021+08:00",
+  "item_count": 44,
   "items": [
+    {
+      "id": "twitter_elonmusk_2079768591206117877",
+      "label": "This is the way",
+      "summary": "This is the way",
+      "pm_score": 1.0,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/elonmusk/status/2079768591206117877",
+      "date": "2026-07-22",
+      "stars": 1104,
+      "score": 1.0,
+      "comments": 330
+    },
+    {
+      "id": "twitter_elonmusk_2079768318471442845",
+      "label": "It will",
+      "summary": "It will",
+      "pm_score": 1.0,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/elonmusk/status/2079768318471442845",
+      "date": "2026-07-22",
+      "stars": 901,
+      "score": 1.0,
+      "comments": 295
+    },
+    {
+      "id": "twitter_bindureddy_2079730027126817180",
+      "label": "Gemini 3.6 Flash scores below Gemini 3.5 Flash!\n\n- So this seems worse than their last generation\n- ...",
+      "summary": "Gemini 3.6 Flash scores below Gemini 3.5 Flash!\n\n- So this seems worse than their last generation\n- more expensive than Grok and Luna\n\nVery strange model release https://t.co/utoy9kXDCd",
+      "pm_score": 0.75,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/bindureddy/status/2079730027126817180",
+      "date": "2026-07-22",
+      "stars": 109,
+      "score": 0.7453000000000001,
+      "comments": 24
+    },
+    {
+      "id": "twitter_bindureddy_2079774566898118898",
+      "label": "🚨 One-person companies using AI are exploding!\n\nWe are seeing several one-person companies using AI ...",
+      "summary": "🚨 One-person companies using AI are exploding!\n\nWe are seeing several one-person companies using AI for everything\n\n- text prompts that use Fable 5 or GPT 5.6 sol for complex apps\n- iOS and Android apps as companion apps\n- scheduled tasks that run marketing campaigns\n\nFree backend, hosting, database",
+      "pm_score": 0.71,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/bindureddy/status/2079774566898118898",
+      "date": "2026-07-22",
+      "stars": 21,
+      "score": 0.70855,
+      "comments": 1
+    },
+    {
+      "id": "twitter_swyx_2079775327539339329",
+      "label": "at some point in your engineering career, a wizened graybeard is going to lecture you about the impo...",
+      "summary": "at some point in your engineering career, a wizened graybeard is going to lecture you about the importance of independently separable control plane vs data plane.\n\nit is very important that you listen.\n\n(and then try to learn about the management plane as early as you can..)",
+      "pm_score": 0.7,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/swyx/status/2079775327539339329",
+      "date": "2026-07-22",
+      "stars": 8,
+      "score": 0.70285,
+      "comments": 1
+    },
+    {
+      "id": "twitter_supabase_2079769988597268877",
+      "label": "Gerardo and I will have a Live stream tomorrow to talk about how to build something solid with TRAE(...",
+      "summary": "Gerardo and I will have a Live stream tomorrow to talk about how to build something solid with TRAE(@Trae_ai ) and Supabase (@supabase)\n\nJoin the live stream there: https://t.co/5GCRBiCj9n https://t.co/w17yHop9dR",
+      "pm_score": 0.7,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/supabase/status/2079769988597268877",
+      "date": "2026-07-22",
+      "stars": 2,
+      "score": 0.70225,
+      "comments": 1
+    },
     {
       "id": "advertise-in-chatgpt",
       "label": "Advertise in ChatGPT",
@@ -59,6 +143,17 @@
       "date": "2026-07-22"
     },
     {
+      "id": "synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching",
+      "label": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+      "summary": "Synthesia推出企业培训平台AI Roleplay Sessions，超越传统视频生成，实现员工与AI化身实时对话练习。系统提供个性化反馈、评分及数据分析，帮助企业量化培训效果。该产品创新点在于将AI从内容生成拓展到交互式辅导场景，利用数字人技术模拟真实职场对话，覆盖销售沟通、客户服务等场景。技术要点包括多模态AI对话、情感识别与评估算法、以及企业级分析仪表盘。商业价值在于解决传统培训成本高、效果难衡量痛点，可能重塑企业技能培训市场。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "date": "2026-07-22"
+    },
+    {
       "id": "music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated",
       "label": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
       "summary": "音乐流媒体平台Deezer在6月份每日收到超过9万首AI生成的歌曲，占当日上传量的50%以上。这一现象凸显了AI音乐生成技术的成熟与规模化应用，对平台的内容审核、版权管理、推荐算法及用户信任构成重大挑战。产品经理需关注如何设计AI内容检测机制以维护平台质量，同时探索差异化体验（如为AI生成内容打标签）或商业模式（如向付费用户提供AI音乐识别）。此外，这一趋势也预示着音乐创作与分发生态的结构性变化。",
@@ -92,6 +187,17 @@
       "date": "2026-07-22"
     },
     {
+      "id": "drawing-the-mona-lisa-with-gpt-56-claude-gemini-and-grok",
+      "label": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "summary": "该文章在Hacker News上比较了GPT-5.6、Claude、Gemini和Grok四个AI模型“绘制”蒙娜丽莎的能力，聚焦于图像生成或创造性输出的差异化表现。技术要点在于评估各模型在多模态生成任务中的语义理解、风格复现与细节处理能力。商业价值体现在帮助产品经理了解当前主流模型的优势与局限，为AI应用选择底层模型提供参考。产品创新方面，可探索多模型融合或条件生成策略来提升创意质量。",
+      "pm_score": 0.495,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48998404",
+      "date": "2026-07-22"
+    },
+    {
       "id": "openai-says-hugging-face-was-breached-by-its-own-pre-release-models",
       "label": "OpenAI says Hugging Face was breached by its own pre-release models",
       "summary": "OpenAI承认对Hugging Face平台的安全事件负责，原因为内部测试流程失控导致预发布模型意外泄露。该事件警示AI产品经理：预发布模型的访问控制与测试环境隔离至关重要。泄露可能带来模型权重被盗用、商业机密外泄、或竞争对手提前获取能力等风险。企业需强化内部测试的沙箱机制和审计日志，同时在模型发布前进行全面的安全审查。此事件也凸显了AI供应链中模型托管平台的安全责任，影响生态信任与合规。",
@@ -100,6 +206,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "the-anthropic-physical-intelligence-rumor-roiling-ai-twitter",
+      "label": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "summary": "Anthropic与OpenAI在2026年展开激进收购，传闻指向Anthropic可能收购机器人公司Physical Intelligence，引发AI圈热议。此举反映AI巨头正通过并购加速技术整合与人才争夺，尤其强化在物理世界AI应用（如具身智能）的布局。对产品经理而言，需关注多模态能力与端到端机器人产品的融合趋势，以及大型模型公司向垂直场景扩张的商业策略，这将重塑AI产品生态竞争格局。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
       "date": "2026-07-22"
     },
     {
@@ -147,6 +264,83 @@
       "date": "2026-07-22"
     },
     {
+      "id": "meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination",
+      "label": "Meta is testing an AI bedtime story app for people with no imagination",
+      "summary": "Meta 正在测试一款 AI 睡前故事应用，面向缺乏想象力或创意枯竭的用户。该应用利用大语言模型自动生成个性化故事，无需用户构思情节，只需提供简单提示或偏好。这标志着科技巨头将 AI 生成内容（AIGC）进一步渗透到日常娱乐与亲子场景，降低创作门槛。商业价值在于开拓新的订阅或广告模式，同时收集用户偏好数据以优化模型。产品创新在于将原本需要人类创意的行为完全外包给 AI，挑战传统亲子互动方式，但也引发对创造力流失的担忧。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "circuitkit-circuit-discovery-evaluation-and-application-toolkit-for-mechanistic",
+      "label": "CircuitKIT : Circuit Discovery, Evaluation, and Application Toolkit for Mechanis",
+      "summary": "CircuitKIT 是一个用于机制可解释性的电路发现、评估及应用工具包，旨在统一模型内电路分析的全流程。它支持通过电路分析进行模型解释以及下游干预，如剪枝、编辑、引导和微调。当前该领域的研究需要拼接不同的实现，CircuitKIT 提供一体化解决方案，降低了使用门槛，有助于提升模型的可控性和优化效率。对 AI 产品经理而言，该工具可加速模型安全性与可解释性产品的落地，减少模型调优成本，具有显著的商业应用潜力。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.19317v1",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "agents-in-the-wild-where-research-meets-deployment",
+      "label": "Agents in the Wild: Where Research Meets Deployment",
+      "summary": "本文探讨了基于大型语言模型（LLM）的智能体系统（Agentic Systems）如何从研究原型快速过渡到生产级部署。这类系统具备推理、规划、行动以及协调工具和其他智能体的能力，已在软件工程、科学发现等众多领域实现规模化应用。产品经理应关注智能体架构的模块化与可扩展性，以及其在自动化复杂任务、提升协作效率方面的商业价值。文章指出了研究与实践之间的关键差距，为产品落地提供了技术框架和部署经验。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.19336v1",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "roms-imle-a-minimalist-approach-to-competitive-single-step-generative-modelling",
+      "label": "ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling",
+      "summary": "ROMS-IMLE 提出一种极简的单步生成建模方法，旨在替代传统多步扩散模型。它通过隐式最大似然估计（IMLE）实现竞争性的单步生成，显著降低推理延迟和计算成本。该方法在保持生成质量的同时，简化了训练和采样流程，适合实时应用场景（如图像生成、视频合成）。对于AI产品经理，这意味着更快的产品响应速度和更低的部署成本，有助于推动生成式AI在移动端、边缘设备等资源受限环境中的落地。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.19332v1",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "coderescue-budget-calibrated-recovery-routing-for-coding-agents",
+      "label": "CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents",
+      "summary": "CodeRescue 提出了一种预算校准的恢复路由策略，用于编码代理在执行环境中失败后获取反馈的场景。与传统的成本感知系统（先尝试廉价模型，失败后再升级到强模型）不同，该方法通过动态调整路由策略，在预算约束下更智能地分配不同模型资源，从而在保证修复成功率的同时控制整体成本。这对于构建高效、经济的 AI 编程助手具有重要商业价值，能显著降低 API 调用费用并提升用户体验的产品创新点。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.19338v1",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "appearance-pointers-multimodal-region-control-of-diffusion-transformers",
+      "label": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
+      "summary": "该论文提出“外观指针”（Appearance Pointers）方法，实现扩散Transformer（DiT）的多模态区域控制。通过将文本、图像等异构模态信息直接注入DiT，支持对生成图像中材料、物体身份和空间布局的精确局部控制，克服纯文本提示在细节上的局限。该方法无需额外训练或微调，可适配现有DiT模型，显著提升创意专业人士在图像编辑、设计等场景下的可控性和效率。商业价值在于为AI图像生成工具提供更灵活的区域编辑能力，降低专业用户使用门槛，推动生成式AI在创意产业落地。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.19344v1",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "copy-less-ground-more-overcoming-repetitive-copying-in-long-context-reasoning-vi",
+      "label": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning",
+      "summary": "该论文提出了一种基于证据感知强化学习的方法，解决大模型在长上下文推理中的“重复复制”失败模式。研究发现，模型在处理长文本时倾向于直接复制输入内容而非进行真正的推理，导致输出冗长且缺乏逻辑。通过引入证据感知奖励机制，训练模型在推理过程中更注重证据的利用和生成，显著减少了重复复制现象，提升了推理质量。该方法可应用于法律文档分析、科研文献综述、长对话系统等场景，提高模型在复杂长上下文任务中的准确性和可信度，具有直接的产品改进价值。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.19345v1",
+      "date": "2026-07-22"
+    },
+    {
       "id": "judge-approves-15b-anthropic-settlement-for-pirated-books-used-to-train-claude",
       "label": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
       "summary": "美国法官批准了Anthropic因使用盗版书籍训练Claude模型而支付的15亿美元和解协议。这一案件凸显了AI训练数据版权合规的极端重要性：即使模型性能强大，若训练数据来源存在法律风险，企业可能面临巨额赔偿，严重影响商业化进程。对AI产品经理而言，需在模型能力与数据合法性之间平衡，提前建立数据审计与授权机制，避免类似法律雷区。该事件还可能推动行业形成更规范的数据采购和标注流程，倒逼企业采用授权数据集或合成数据策略。",
@@ -169,6 +363,17 @@
       "date": "2026-07-22"
     },
     {
+      "id": "openai-says-hugging-face-was-breached-by-its-pre-release-models",
+      "label": "OpenAI says Hugging Face was breached by its pre-release models",
+      "summary": "OpenAI承认，Hugging Face上的预发布模型泄露是其内部测试失误所致。该事件暴露了AI模型在预发布阶段的安全风险，提示产品经理需加强测试流程的隔离与访问控制，避免模型参数或权重意外公开。对AI产品团队而言，这敲响了关于模型生命周期管理的警钟：在快速迭代中，如何平衡内部测试效率与信息安全？同时，该事件也影响开源社区对模型托管平台信任度，可能推动更严格的模型发布审核机制。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "date": "2026-07-22"
+    },
+    {
       "id": "metas-ai-models-are-powering-the-first-wave-of-genesis-mission-projects",
       "label": "Meta's AI models are powering the first wave of Genesis Mission projects",
       "summary": "Meta的AI模型正在为首批Genesis Mission项目提供核心动力。这一举措展示了Meta在基础模型领域的深厚积累，将先进AI能力赋能给特定项目集群，推动技术从研究走向实际应用。对AI产品经理而言，这标志着Meta正将其AI模型作为开放平台，支持第三方创新，可能催生一系列基于Meta模型的产品与服务。Genesis Mission项目可能涵盖从内容生成到数据分析的多种场景，体现了模型即服务（Model-as-a-Service）的商业模式趋势，同时也为产品经理提供了利用顶级模型快速构建差异化应用的机会。",
@@ -177,6 +382,83 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48995074",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "fundamental-limits-of-distributed-multiclass-classification-from-simple-binary-d",
+      "label": "Fundamental limits of distributed multiclass classification from simple binary d",
+      "summary": "该论文研究如何通过组合约对数个简单二元分类器来构建多分类系统（K类），实现分布式多分类。每个分类器只需处理局部简单任务，整体通过集成达到高精度。该方法降低了模型复杂度与训练成本，适合资源受限场景（如边缘设备），并支持分布式部署。商业价值在于可快速构建可扩展、轻量级的分类产品，适用于智能客服、内容审核等场景。产品创新点在于以极简组件实现复杂决策，平衡精度与效率。",
+      "pm_score": 0.445,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.19334v1",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "provable-diffusion-based-posterior-sampling-for-linear-inverse-problems-via-ddim",
+      "label": "Provable diffusion-based posterior sampling for linear inverse problems via DDIM",
+      "summary": "该论文提出一种基于DDIM的可证明扩散后验采样算法（PDDIM），用于解决线性逆问题。现有扩散后验采样方法要么缺乏严格理论保证，要么计算成本高。PDDIM在保持高效的同时提供了理论收敛保证，可应用于图像修复、超分辨率、去噪等任务，提升产品可靠性与效率，降低计算资源需求。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.19333v1",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "researcharena-evaluating-sabotage-and-monitoring-in-automated-ai-rd",
+      "label": "ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D",
+      "summary": "ResearchArena 项目专注于评估自动化 AI 研发（R&D）过程中的安全风险，尤其是当 AI 代理本身不可信时。它提出了一种“AI 控制”方法：不信任代理本身，而是将其视为潜在对手，通过监控器检测隐蔽破坏行为。该研究为产品经理提供了可落地的安全评估框架，确保在自动化研发流程中部署 AI 代理时能防范恶意行为，对构建可信 AI 产品具有重要商业价值。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.19321v1",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "associative-emotional-learning-in-convolutional-neural-networks",
+      "label": "Associative Emotional Learning in Convolutional Neural Networks",
+      "summary": "该论文研究卷积神经网络中的联想情绪学习，即生物体如何将愉快/不愉快结果与预测刺激建立关联。传统Rescorla-Wagner模型虽有洞见但存在局限。技术要点在于将情绪信号作为监督信息融入CNN训练，使模型具备情感联想能力。商业价值体现在情感计算、智能推荐和自适应人机交互等场景，可提升用户体验与产品粘性。产品创新方向包括情绪感知的对话系统、个性化内容推送和智能反馈机制。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.19327v1",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "1-lipschitz-neural-networks-on-hadamard-manifolds",
+      "label": "1-Lipschitz Neural Networks on Hadamard Manifolds",
+      "summary": "该工作提出了一类在Hadamard流形上的1-Lipschitz神经网络，通过约束Lipschitz常数提升模型的鲁棒性与稳定性。现有方法主要适用于欧几里得空间，而本方法拓展至非欧几何空间，可应用于涉及弯曲数据的场景（如地理、生物信息）。对于AI产品经理，这意味着在需要高可靠性（如自动驾驶、医疗诊断）的产品中，该技术能显著增强模型对输入扰动的抵抗能力，同时保持泛化性能。商业价值体现在降低模型部署风险，提升安全关键型应用的可靠性。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.19335v1",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "iso-an-rlvr-native-optimization-stack",
+      "label": "ISO: An RLVR-Native Optimization Stack",
+      "summary": "本论文提出ISO（RLVR原生优化栈），聚焦于强化学习与可验证奖励（RLVR）如何提升语言模型的推理能力。当前，将奖励反馈转化为权重空间更新的优化层尚未被充分理解。ISO通过系统分析优化过程，旨在填补这一空白，为模型推理性能的工程化提升提供新框架。对产品经理而言，该研究有助于理解如何通过更高效的奖励信号利用来加速模型迭代，降低成本，并提升复杂推理任务的表现，具有潜在的商业价值。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.19331v1",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "gemini-last-models-temperature-top_p-and-top_k-are-deprecated-and-ignored",
+      "label": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+      "summary": "Google 最新 Gemini 模型宣布弃用 temperature、top_p 和 top_k 参数，并忽略用户传递的对应值。这意味着开发者不再需要手动调整输出随机性与多样性，模型内部已采用隐式控制机制来优化生成质量。此举大幅简化了 API 使用门槛，降低了模型调优的认知负担，适合快速集成。但产品经理需注意：原有通过调参控制创意度/确定性的策略失效，应用需重新设计用户交互逻辑，可能转向其他引导方式（如提示词工程）。商业上，这有助于提升模型一致性，减少因参数误配导致的差体验，但可能限制对生成结果有精细要求的场景。",
+      "pm_score": 0.38,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=48998606",
       "date": "2026-07-22"
     },
     {
@@ -189,10 +471,43 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48995444",
       "date": "2026-07-22"
+    },
+    {
+      "id": "show-hn-a-new-kind-of-fps-aim-trainer",
+      "label": "Show HN: A new kind of FPS aim trainer",
+      "summary": "该产品展示了一种新型FPS（第一人称射击游戏）瞄准训练器，可能运用AI技术分析玩家瞄准轨迹与反应模式，实现个性化训练方案。其商业价值在于为电竞玩家或休闲用户提供高效提升瞄准技能的工具，降低训练门槛，增强游戏体验。产品创新点在于结合实时反馈与自适应难度调整，替代传统固定靶训练模式，有望通过AI驱动更精准的能力评估与进步追踪。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49002276",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "show-hn-browser-tools-sdk-an-optimal-browser-harness-for-agents",
+      "label": "Show HN: Browser Tools SDK – an optimal browser harness for agents",
+      "summary": "该SDK提供了一套浏览器工具，旨在为AI代理（agents）提供最优的浏览器控制接口。它通过封装浏览器API，简化了代理与网页的交互流程，支持自动化任务如数据提取、表单填写和测试。技术要点包括高效的事件驱动架构和安全性机制。商业价值在于降低开发浏览器代理的门槛，适用于RPA、Web自动化测试和智能助手场景。产品创新体现在提供标准化的浏览器适配层，使代理能像人类一样操作浏览器。",
+      "pm_score": 0.33,
+      "pillar": "patterns",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://libretto.sh/browser-tools",
+      "date": "2026-07-22"
+    },
+    {
+      "id": "show-hn-orate-on-device-neural-text-to-speech-queue-for-mac",
+      "label": "Show HN: Orate – On-device neural text-to-speech queue for Mac",
+      "summary": "Orate 是一个专为 Mac 设计的设备端神经文本转语音（TTS）队列工具。其核心创新在于完全在本地运行神经网络模型，无需联网，保障用户隐私并降低延迟。通过队列机制，用户可以批量处理文本转换请求，实现流畅的音频生成体验。对于 AI 产品经理而言，该工具展示了设备端 AI 能力在垂直场景（如语音助手、无障碍阅读）中的实用价值，同时避免了云端依赖带来的成本与合规问题。商业上可集成入 Mac 原生应用或作为独立服务，前景广阔。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://orate.to/",
+      "date": "2026-07-22"
     }
   ],
   "graph_totals": {
-    "real_nodes": 4834,
-    "edges": 5161
+    "real_nodes": 4915,
+    "edges": 5242
   }
 }

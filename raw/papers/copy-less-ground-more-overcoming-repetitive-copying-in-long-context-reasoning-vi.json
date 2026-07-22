@@ -1,0 +1,33 @@
+{
+  "title": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
+  "summary": "Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. However, we identify a critical failure mode in this regime: \\emph{repetitive copying}, where models extensively copy text from the input into their reasoning traces rather than productively solving the problem. We show that this behavior is pervasive across frontier long-context LLMs and intensifies with context length. By separating each prompt into task-relevant key evidence and irrelevant distractor context, we further show that the root cause is insufficient grounding: models copy from the prompt indiscriminately, and those that fail to focus on key evidence are far more likely to answer incorrectly. Motivated by this diagnosis, we propose GEAR (Grounding Evidence-Aware Reward), a reward shaping method that augments the accuracy signal with a grounding reward for overlap with key evidence and a distractor penalty for overlap with irrelevant context. To enable GEAR on natural-language data, we develop an automated pipeline that constructs evidence-annotated training data from arbitrary documents. We validate GEAR across multiple model scales and benchmarks, showing consistent improvements of up to +4.6 average points over standard RL with accuracy-based rewards, with larger gains at longer contexts, while also reducing repetitive copying and thinking length. Our findings suggest that, even as long-context evaluation shifts from simple retrieval toward complex reasoning, accurate grounding in relevant evidence remains an indispensable capability with substantial room for improvement.",
+  "url": "http://arxiv.org/abs/2607.19345v1",
+  "authors": [
+    "Lizhe Fang",
+    "Weizhou Shen",
+    "Tianyi Tang",
+    "Yisen Wang"
+  ],
+  "published": "2026-07-21T17:59:21Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "reasoning",
+    "training",
+    "accuracy",
+    "retrieval"
+  ],
+  "summary_cn": "该论文提出了一种基于证据感知强化学习的方法，解决大模型在长上下文推理中的“重复复制”失败模式。研究发现，模型在处理长文本时倾向于直接复制输入内容而非进行真正的推理，导致输出冗长且缺乏逻辑。通过引入证据感知奖励机制，训练模型在推理过程中更注重证据的利用和生成，显著减少了重复复制现象，提升了推理质量。该方法可应用于法律文档分析、科研文献综述、长对话系统等场景，提高模型在复杂长上下文任务中的准确性和可信度，具有直接的产品改进价值。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Long-Context Reasoning",
+    "Evidence-Aware RL",
+    "Repetitive Copying"
+  ],
+  "entities": [],
+  "patterns": [
+    "Grounded Reasoning",
+    "Reinforcement Learning from Feedback"
+  ]
+}

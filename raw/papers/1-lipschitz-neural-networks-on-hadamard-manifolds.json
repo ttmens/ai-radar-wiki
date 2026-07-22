@@ -1,0 +1,29 @@
+{
+  "title": "1-Lipschitz Neural Networks on Hadamard Manifolds",
+  "summary": "Controlling the Lipschitz constant of a neural network is a standard way to promote robustness and stability. Most existing constraining strategies are designed for Euclidean spaces. In this work, we construct and analyze a class of 1-Lipschitz neural networks on Hadamard manifolds. Our layers are of gradient-descent type, $1$-Lipschitz, and quasi-$α$-firmly nonexpansive. The core building blocks of the proposed architecture are Busemann functions, and we exploit the properties of Busemann gradient flows to design $1$-Lipschitz geometry-preserving layers. We provide explicit constructions and examples for hyperbolic manifolds and the manifold of symmetric positive definite (SPD) matrices. We test the proposed architecture in two numerical experiments: robust classification on the Poincaré disk and masked-Wishart covariance reconstruction. On the Poincaré disk, the proposed networks yield robust classifiers under hyperbolic perturbations. On the SPD manifold, we train SPD-valued denoisers and adopt them as a Plug-and-Play prior for a masked-Wishart covariance reconstruction problem. We show improved results from the nonexpansive denoiser over static, data-only, and Log-Euclidean denoising baselines, and empirically test its convergence properties.",
+  "url": "http://arxiv.org/abs/2607.19335v1",
+  "authors": [
+    "Davide Murari",
+    "Marta Ghirardelli",
+    "Ben Adcock",
+    "Elena Celledoni",
+    "Brynjulf Owren"
+  ],
+  "published": "2026-07-21T17:54:34Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "neural network",
+    "gradient"
+  ],
+  "summary_cn": "该工作提出了一类在Hadamard流形上的1-Lipschitz神经网络，通过约束Lipschitz常数提升模型的鲁棒性与稳定性。现有方法主要适用于欧几里得空间，而本方法拓展至非欧几何空间，可应用于涉及弯曲数据的场景（如地理、生物信息）。对于AI产品经理，这意味着在需要高可靠性（如自动驾驶、医疗诊断）的产品中，该技术能显著增强模型对输入扰动的抵抗能力，同时保持泛化性能。商业价值体现在降低模型部署风险，提升安全关键型应用的可靠性。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Lipschitz约束",
+    "鲁棒性提升",
+    "流形学习"
+  ],
+  "entities": [],
+  "patterns": []
+}

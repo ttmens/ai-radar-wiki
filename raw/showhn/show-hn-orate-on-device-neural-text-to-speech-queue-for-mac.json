@@ -1,0 +1,22 @@
+{
+  "title": "Show HN: Orate – On-device neural text-to-speech queue for Mac",
+  "score": 11,
+  "comments": 10,
+  "url": "https://orate.to/",
+  "hn_url": "https://news.ycombinator.com/item?id=48997941",
+  "tag": "ShowHN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Orate 是一个专为 Mac 设计的设备端神经文本转语音（TTS）队列工具。其核心创新在于完全在本地运行神经网络模型，无需联网，保障用户隐私并降低延迟。通过队列机制，用户可以批量处理文本转换请求，实现流畅的音频生成体验。对于 AI 产品经理而言，该工具展示了设备端 AI 能力在垂直场景（如语音助手、无障碍阅读）中的实用价值，同时避免了云端依赖带来的成本与合规问题。商业上可集成入 Mac 原生应用或作为独立服务，前景广阔。",
+  "pm_relevance": 8,
+  "concepts": [
+    "On-device TTS",
+    "Text-to-Speech Queue"
+  ],
+  "entities": [
+    "Orate"
+  ],
+  "patterns": [
+    "Local-First AI"
+  ]
+}
