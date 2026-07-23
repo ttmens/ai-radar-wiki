@@ -1,0 +1,28 @@
+{
+  "title": "Variance-reduced Domain Adaptation using Paired Sampling",
+  "summary": "Correlation alignment and the maximum mean discrepancy are two widely used distribution-matching frameworks for unsupervised domain adaptation (UDA). However, high variance in these losses has been shown to undermine their effectiveness in minibatch optimisation settings. Furthermore, the losses lack finite-sum structure, which renders them incompatible with classical stochastic variance reduction (SVR) methods. This paper proposes Paired Sampling for Domain Adaptation (PSDA), a novel SVR technique tailored to such objectives. PSDA pairs observations both within and across domains, to form quadruplets that are always sampled together during training. The pairings are designed to minimise expected gradient variance, and reduce to solving a set of linear assignment problems. Our simulations demonstrate reduced variance compared to related methods, and experiments on three domain shift datasets show improved target domain accuracy.",
+  "url": "http://arxiv.org/abs/2607.20367v1",
+  "authors": [
+    "Andrea Napoli"
+  ],
+  "published": "2026-07-22T16:58:45Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "accuracy",
+    "gradient",
+    "dataset"
+  ],
+  "summary_cn": "该论文针对无监督域适应（UDA）中常用的相关性对齐和最大均值差异损失函数在小批量优化时方差过高的问题，提出了一种基于配对采样的方差降低方法。通过精心设计采样策略，在保持分布匹配效果的同时显著降低了训练不稳定性，从而提升模型在目标域上的泛化能力。这一技术能有效降低对目标域标注数据的依赖，减少人工标注成本，对产品快速迁移到新场景（如跨领域图像识别、推荐系统冷启动）具有实用价值。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Domain Adaptation",
+    "Variance Reduction",
+    "Paired Sampling"
+  ],
+  "entities": [],
+  "patterns": [
+    "Unsupervised Domain Adaptation"
+  ]
+}

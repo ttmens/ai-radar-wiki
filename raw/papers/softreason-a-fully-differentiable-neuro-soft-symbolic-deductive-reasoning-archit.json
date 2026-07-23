@@ -1,0 +1,29 @@
+{
+  "title": "SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data",
+  "summary": "In many reasoning problems, the premises are not observed as discrete symbols, but must be inferred from high-dimensional inputs. Further, the predicate vocabulary, argument structure, and trusted evidence are supplied by a Knowledge Graph (KG), or rule definitions. Classical neuro-symbolic pipelines have a discrete interface between perception and deduction. We present a neuro-soft-symbolic architecture for differentiable deductive reasoning over latent perceptual facts and knowledge-provided predicates. SoftReason removes the gradient gap by representing the deductive state as a local soft interpretation tensor over candidate constants and predicates. Perception proposes probabilistic base facts, KG triples enter as high-confidence soft evidence, and every query anchor, predicate choice, and closure update remains differentiable. Our core innovation is a learned differentiable lift of the immediate-consequence operator. It uses predicate-definition embeddings and latent composition channels to form soft body-predicate mixtures, aggregate over all possible witnesses, propose query-conditioned head facts, and update the interpretation through a monotone probabilistic OR. We instantiate the framework on Knowledge-aware Visual Question Answering (KVQA), and demonstrates how SoftReason supports end-to-end perceptual grounding, KG evidence injection, and differentiable deductive closure in one trainable architecture.",
+  "url": "http://arxiv.org/abs/2607.20402v1",
+  "authors": [
+    "Wael AbdAlmageed"
+  ],
+  "published": "2026-07-22T17:38:39Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "reasoning",
+    "embedding",
+    "gradient",
+    "knowledge graph"
+  ],
+  "summary_cn": "该论文提出SoftReason，一种完全可微的神经软符号演绎推理架构，解决从高维感知数据中推理的问题。它将符号逻辑的演绎推理与神经网络的可微性结合，允许模型直接从图像等连续输入中学习推理规则，并利用知识图谱提供谓词和结构约束。技术要点：端到端可微、软符号表示、支持归纳与演绎。商业价值：提升AI系统在高维数据上的可解释性和可靠性，适用于需要逻辑推理的视觉问答、场景理解等产品。产品创新：无需离散符号转换，实现感知与推理的联合优化。",
+  "pm_relevance": 8,
+  "concepts": [
+    "神经符号推理",
+    "可微推理",
+    "知识图谱推理"
+  ],
+  "entities": [],
+  "patterns": [
+    "端到端可微推理",
+    "软符号推理"
+  ]
+}

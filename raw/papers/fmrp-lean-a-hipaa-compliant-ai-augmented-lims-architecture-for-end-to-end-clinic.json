@@ -1,0 +1,31 @@
+{
+  "title": "FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization",
+  "summary": "Clinical biomarker workflows in translational research settings often rely on spreadsheet-driven tracking, manual quality control (QC) reconciliation, and loosely integrated systems, resulting in limited state visibility, delayed reporting, and increased operational risk. These challenges are particularly pronounced in multi-day assays such as Luminex-based quantification of Fragile X Messenger Ribonucleoprotein (FMRP), where HIPAA-compliant data governance, deterministic workflow progression, and coordinated communication across laboratory and clinical teams are required. This paper presents FMRP-LEAN, a HIPAA-compliant, AI-augmented Laboratory Information Management System (LIMS) architecture that formalizes biospecimen lifecycle management through a finite-state workflow model with explicit transition guards and dwell-time observability. The system integrates a self-hosted Supabase/PostgreSQL stack deployed within hospital-controlled infrastructure, hybrid edge-internal isolation with encrypted tunneling and loopback-only services, and bi-directional REDCap synchronization. A unified MRN-UUIDv7 identifier framework with QR-based tracking ensures traceable clinical-research linkage under PHI residency constraints. FMRP-LEAN incorporates automated statistical QC pre-screening and a governance-constrained AI operations module that operates exclusively on aggregate projections, with deterministic fallback guarantees. Deployment demonstrates improved workflow observability, reduced QC latency, and enhanced cross-role transparency between laboratory technicians, research coordinators, and patient-facing teams. The architecture provides a reproducible model for secure, state-explicit, and AI-augmented clinical research workflows in regulated healthcare environments.",
+  "url": "http://arxiv.org/abs/2607.20382v1",
+  "authors": [
+    "Eva McCord",
+    "Ernest Pedapati",
+    "Zag ElSayed"
+  ],
+  "published": "2026-07-22T17:11:52Z",
+  "tag": "Paper",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "framework",
+    "observability",
+    "deployment",
+    "infrastructure"
+  ],
+  "summary_cn": "本文提出FMRP-LEAN架构，一种符合HIPAA规范的AI增强型实验室信息管理系统（LIMS），用于临床检测工作流的端到端优化。传统方法依赖电子表格追踪和手动质量控制对账，导致状态可见性差、报告延迟和操作风险增加。该架构通过集成AI实现自动化质量控制和数据协调，提升工作流透明度与效率，降低合规风险，适用于转化研究环境。产品经理应关注其如何利用AI解决临床实验室的集成痛点，并确保数据安全合规。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Clinical Workflow Automation",
+    "HIPAA-Compliant AI",
+    "LIMS Optimization"
+  ],
+  "entities": [],
+  "patterns": [
+    "AI-Augmented LIMS",
+    "End-to-End Workflow Automation"
+  ]
+}

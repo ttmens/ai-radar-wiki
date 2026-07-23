@@ -3093,3 +3093,9 @@
 - create: openai8217s-ai-spending-spree-has-ballooned-to-750b.md
 - create: menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differentl.md
 - create: show-hn-agent-in-9-lines-python.md
+
+## [2026-07-23 18:01] sync v3 | 9 new | pillars: {'patterns': 2, 'capabilities': 7}
+- create: calesthioopenmontage.md
+- create: protecting-our-floss-commons-from-llms.md
+- create: servicenow-bets-40-million-on-indian-banking-software-specialist-to-expand-its-f.md
+- create: show-hn-agentnest-self-hosted-sandboxes-for-ai-agents.md

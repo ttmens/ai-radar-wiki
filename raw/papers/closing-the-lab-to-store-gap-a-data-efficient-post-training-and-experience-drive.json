@@ -1,0 +1,34 @@
+{
+  "title": "Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids",
+  "summary": "Closing the gap between benchmark performance and reliable real-world operation remains a central challenge for Vision-Language-Action (VLA) humanoid robots, which must handle execution errors, distribution shifts, and environmental variability. This paper presents DEED (Data-Efficient Post-Training and Experience-Driven Learning), a systems-level approach evaluated on a supermarket chip-restocking task using a Unitree G1-Edu humanoid robot and the GR00T N1.6 foundation model. DEED comprises three key components: (1) a data-efficient post-training pipeline with control-frequency alignment, data curation, task-relevant visual highlighting, and reduced VLA dependence; (2) a real-world study of experience-driven refinement, adapted from RECAP via a text-based advantage prefix and a vision-language value function; and (3) a latent-space analysis tool for studying in- and out-of-distribution behavior. Our results suggest that bridging the lab-to-store gap is primarily a systems integration challenge rather than an architectural one: careful data design and targeted post-training can transform a policy that fails under naive fine-tuning into a competent real-world system using only a single GPU.",
+  "url": "http://arxiv.org/abs/2607.20345v1",
+  "authors": [
+    "Roger Sala Sisó",
+    "Tiago Silvério",
+    "Jakob Sand",
+    "Tran Nguyen Le"
+  ],
+  "published": "2026-07-22T16:30:51Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "vision",
+    "fine-tuning",
+    "training",
+    "post-training"
+  ],
+  "summary_cn": "DEED框架提出了一种数据高效的后训练与经验驱动学习方法，用于解决视觉-语言-动作（VLA）人形机器人在真实零售场景中的执行错误、分布偏移和环境变化问题。通过减少对大规模标注数据的依赖，DEED能够快速适应新任务，提升机器人的鲁棒性和可靠性，从而加速从实验室到商用的转化。这一创新为人形机器人在零售、物流等领域的规模化部署提供了可行的技术路径，具有显著商业价值。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Vision-Language-Action",
+    "Data-Efficient Post-Training",
+    "Experience-Driven Learning"
+  ],
+  "entities": [
+    "N/A"
+  ],
+  "patterns": [
+    "Experience-Driven Learning"
+  ]
+}

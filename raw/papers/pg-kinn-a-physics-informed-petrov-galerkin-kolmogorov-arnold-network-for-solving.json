@@ -1,0 +1,33 @@
+{
+  "title": "PG-KINN: A Physics-Informed Petrov-Galerkin Kolmogorov-Arnold Network for Solving Forward and Inverse PDEs",
+  "summary": "Physics-informed learning of partial differential equations (PDEs) has been dominated by multilayer perceptrons (MLPs), whose spectral bias and dense parameterization limit both accuracy and interpretability. Kolmogorov Arnold Networks (KANs) mitigate these limitations because their learnable spline activations are structurally aligned with the piecewise-polynomial bases of classical discretizations. However, the way a PDE is cast into a loss functional is as decisive as the choice of approximator: strong-form residual minimization requires high-order derivatives and heavily weighted losses, the energy (Bubnov-Galerkin) form is restricted to self-adjoint operators and, as we show, collapses to a trivial solution for parameter-identification problems, and boundary integral forms require a known fundamental solution. We propose PG-KINN, a physics-informed KAN built on a Petrov-Galerkin formulation in which the trial space is a KAN and the test space is an independent, compactly supported, piecewise-polynomial space evaluated with Gauss-Legendre quadrature. Integration by parts lowers the differentiation order while retaining applicability to general non-self-adjoint, nonlinear, and inverse problems; the localized test functions turn the global residual into a set of element-wise weak residuals with favorable conditioning. On a suite of benchmarks spanning crack singularities, stress concentration, Neo-Hookean hyperelasticity, inverse parameter identification in heterogeneous media, and complex geometries, PG-KINN consistently outperforms legacy MLP baselines and state-of-the-art KAN-based strong/energy/inverse formulations (PIKAN). These results position the Petrov-Galerkin coupling of KAN trial spaces and polynomial test spaces as a robust and accurate route for AI-based computational mechanics.",
+  "url": "http://arxiv.org/abs/2607.20378v1",
+  "authors": [
+    "Amirhossein Sadr",
+    "Nima Soltani",
+    "Vahideh Moghtadaiee",
+    "Aida Pakniyat",
+    "Dara Rahmati"
+  ],
+  "published": "2026-07-22T17:08:29Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "parameter",
+    "accuracy",
+    "loss function"
+  ],
+  "summary_cn": "该论文提出PG-KINN，一种基于物理信息的Petrov-Galerkin Kolmogorov-Arnold网络，用于求解正向和反向偏微分方程。传统MLP存在谱偏差和参数密集等问题，限制了精度与可解释性。KAN通过可学习的样条函数克服了这些局限，PG-KINN进一步结合Petrov-Galerkin方法提升求解效率与泛化能力。该技术有望在工程仿真、物理建模等科学计算领域实现更高精度与可解释性，降低对大规模标注数据的依赖，具备商业应用潜力。",
+  "pm_relevance": 6,
+  "concepts": [
+    "Physics-Informed Neural Networks",
+    "Kolmogorov-Arnold Networks",
+    "PDE Solving"
+  ],
+  "entities": [],
+  "patterns": [
+    "Scientific AI Pattern",
+    "Physics-Informed Learning Pattern"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Show HN: AgentNest, self-hosted sandboxes for AI agents",
+  "score": 10,
+  "comments": 2,
+  "url": "https://github.com/mihirahuja1/agentnestOSS",
+  "hn_url": "https://news.ycombinator.com/item?id=49015852",
+  "tag": "ShowHN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "AgentNest 是一个自托管的沙盒环境，专为 AI Agent 设计，提供隔离、安全的运行空间。其核心技术特点是支持本地部署，确保数据隐私和可定制性，同时降低依赖外部云服务的成本。对于 AI 产品经理而言，该工具可简化 Agent 的测试与部署流程，尤其适用于需要敏感数据处理或合规性要求高的场景。商业价值体现在增强企业用户对 AI Agent 的控制力，推动 agent 应用在企业级落地。产品创新在于将沙盒机制与自托管结合，平衡了安全性与灵活性。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI Agent 沙盒",
+    "自托管基础设施"
+  ],
+  "entities": [
+    "AgentNest"
+  ],
+  "patterns": [
+    "Self-hosted Sandbox",
+    "Agent Isolation"
+  ]
+}
