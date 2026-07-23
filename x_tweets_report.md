@@ -1,6 +1,6 @@
 # X/Twitter AI KOL 动态
 
-抓取时间: 2026-07-23 09:00:22
+抓取时间: 2026-07-23 21:00:21
 
 
 ## @sama (5 条)
@@ -47,29 +47,29 @@
 
 ## @ylecun (5 条)
 
-1. **Pretrained ViTs see the world in rich, dense detail. Most policies pool it to a single vector before acting, discarding most of it.  We introduce Patch Policy: a minimal architectural extension that e**
+1. **Manufacturing jobs grew under Biden to a peak of almost 13 million.  Under Trump, they’ve declined despite his promises to “bring jobs back home.”  My @Morning_Joe Chart https://t.co/2XGxpGPXAT**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **It's essential that defenders have the same capabilities as attackers.   This is a preview of the future where our ham-fisted safeguards and the doomsday and safety drumbeat make us decidely less safe**
+2. **News: Nearly 200 Silicon Valley companies, including Proton and Y-Combinator, are urging the Trump administration not to cut off access to Chinese open-weight AI models or risk crippling the next gene**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **Open-source is not the cause of the cybersecurity crisis, it's the solution! https://t.co/YpykmLGv7B https://t.co/x9wuHs4kvv**
+3. **Trump’s tariffs haven’t just hurt American business.  They’re about to be a growing drain on public finances as the government pays back tariffs ruled illegal by the Supreme Court.  My @Morning_Joe Ch**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
 ## @elonmusk (5 条)
 
-1. **Easy to make video games with Grok!**
+1. **I can't believe I'm still using Grok 4.5 (medium) as my daily. It's such a good default**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **Three fundamental integrals stand out for their elegant closed forms despite spanning infinite domains.   - The Gaussian ∫_{-∞}^{∞} e^{-x²} dx equals √π.  - The Lorentzian ∫_{-∞}^{∞} 1/(x² + 1) dx tot**
+2. **SpaceXAI has added New pages to Grok Build docs: Permissions, Plan Mode, Sandbox, Subagents https://t.co/aLqM1w01lc**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **Grok Build just got another powerful plugin: Exa  The new Exa plugin brings semantic web search, content extraction and multi-step research directly into Grok Build  With Exa, you can: • Search the we**
+3. **Using FSD is far safer than driving manually, as measured over 12 billion miles of its use. Safer by a margin of 2x the miles between collisions!  It can do so, because, FSD is trained on corner cases**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 

@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-23 | Total pages: 2886
+> Last updated: 2026-07-24 | Total pages: 2896
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -53,6 +53,7 @@
 - [[ai-built-a-nuke-and-still-lost.md]] AI Built a Nuke and Still Lost `pillar:capabilities` `score:0.395`
 - [[ai-cant-recreate-the-thrust-game-but-it-can-help-you-understand-it.md]] AI Can't Recreate the Thrust Game (But It Can Help You Understand It) `pillar:capabilities` `score:0.345`
 - [[ai-changes-the-economics-of-software-rewrites.md]] AI changes the economics of software rewrites `pillar:capabilities` `score:0.5`
+- [[ai-chip-startup-etched-defies-skeptics-hits-103b-valuation-from-big-name-investo.md]] AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name inve `pillar:capabilities` `score:0.445`
 - [[ai-coding-at-home-without-going-broke.md]] AI coding at home without going broke `pillar:capabilities` `score:0.55`
 - [[ai-compute-extensions-ace-specification.md]] AI Compute Extensions (ACE) Specification `pillar:capabilities` `score:0.26`
 - [[ai-datacenters-were-built-for-gpus-what-happens-when-you-remove-the-gpus.md]] AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs? `pillar:capabilities` `score:0.345`
@@ -284,6 +285,7 @@
 - [[espionage-against-the-european-parliament.md]] Espionage Against the European Parliament `pillar:capabilities` `score:0.395`
 - [[everyone-against-us-2023.md]] Everyone Against Us (2023) `pillar:capabilities` `score:0.225`
 - [[expertise-in-the-age-of-ai.md]] Expertise in the Age of AI `pillar:capabilities` `score:0.38`
+- [[experts-say-exploiting-anthropic8217s-fable-isn8217t-how-kimi-k3-got-so-good.md]] Experts say exploiting Anthropic&#8217;s Fable isn&#8217;t how Kimi K3 got so go `pillar:capabilities` `score:0.515`
 - [[exploit-brokers-pay-500k-for-wordpress-rces-i-found-one-with-gpt56-and-25.md]] Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25 `pillar:capabilities` `score:0.43`
 - [[explosionspacy.md]] explosion/spaCy `pillar:capabilities` `score:0.58`
 - [[fable-5-vs-gpt-56-sol-on-an-np-hard-problem-does-goal-help.md]] Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help? `pillar:capabilities` `score:0.48`
@@ -420,6 +422,7 @@
 - [[i-love-llms-i-hate-hype.md]] I love LLMs, I hate hype `pillar:capabilities` `score:0.635`
 - [[i-think-anthropic-and-openai-have-found-product-market-fit.md]] I think Anthropic and OpenAI have found product-market fit `pillar:capabilities` `score:0.665`
 - [[i-think-i-have-llm-burnout.md]] I Think I Have LLM Burnout `pillar:capabilities` `score:0.515`
+- [[i-think-you-might-be-fooling-yourself-with-ai.md]] I Think You Might Be Fooling Yourself with AI `pillar:capabilities` `score:0.43`
 - [[i-tricked-claude-into-leaking-your-deepest-darkest-secrets.md]] I tricked Claude into leaking your deepest, darkest secrets `pillar:capabilities` `score:0.6`
 - [[i-tried-amazon8217s-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out.md]] I tried Amazon&#8217;s Bee wearable and am both intrigued and slightly creeped o `pillar:capabilities` `score:0.48`
 - [[i-used-claude-code-to-get-a-second-opinion-on-my-mri.md]] I used Claude Code to get a second opinion on my MRI `pillar:capabilities` `score:0.63`
@@ -588,6 +591,7 @@
 - [[nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip.md]] Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip `pillar:capabilities` `score:0.445`
 - [[nvidia-dgx-spark-as-a-daily-driver.md]] Nvidia DGX Spark as a daily driver `pillar:capabilities` `score:0.465`
 - [[nvidia-is-a-victim-of-the-compute-marketplace-it-created.md]] Nvidia is a victim of the compute marketplace it created `pillar:capabilities` `score:0.305`
+- [[nvidia-is-sending-gpus-to-the-moon.md]] Nvidia is sending GPUs to the moon `pillar:capabilities` `score:0.48`
 - [[odysseus-self-hosted-ai-workspace.md]] Odysseus – self-hosted AI workspace `pillar:capabilities` `score:0.43`
 - [[ollama-all-aboard-open-models.md]] Ollama: All Aboard Open Models `pillar:capabilities` `score:0.33`
 - [[omen-ai8217s-plan-to-optimize-data-centers-is-all-wet.md]] Omen AI&#8217;s plan to optimize data centers is all wet `pillar:capabilities` `score:0.445`
@@ -1012,6 +1016,7 @@
 - [[working-with-ai-a-concrete-example.md]] Working With AI: A concrete example `pillar:capabilities` `score:0.38`
 - [[write-code-like-a-human-will-maintain-it.md]] Write code like a human will maintain it `pillar:capabilities` `score:0.515`
 - [[writeup-16-bytes-of-x86-that-turn-matrix-rain-into-sound.md]] WriteUp: 16 Bytes of x86 that turn Matrix rain into sound `pillar:capabilities` `score:0.34`
+- [[writing-by-hand-is-good-for-your-brain.md]] Writing by hand is good for your brain `pillar:capabilities` `score:0.495`
 - [[wwdc-2026-what-to-expect-from-siri8217s-highly-anticipated-revamp-to-apple-intel.md]] WWDC 2026: What to expect, from Siri&#8217;s highly anticipated revamp to Apple `pillar:capabilities` `score:0.48`
 - [[xorbitsaiinference.md]] xorbitsai/inference `pillar:capabilities` `score:0.565`
 - [[xreal-google8217s-smart-glasses-partner-thinks-it-has-finally-mastered-this-noto.md]] Xreal, Google&#8217;s smart glasses partner, thinks it has finally mastered this `pillar:capabilities` `score:0.43`
@@ -2077,6 +2082,7 @@
 - [[americans-dont-know-how-to-fight-ai-so-theyre-fighting-data-centers.md]] Americans don't know how to fight AI. So they're fighting data centers `pillar:ecosystem` `score:0.295`
 - [[an-oxcaml-book-that-runs.md]] An O(x)Caml book that runs `pillar:ecosystem` `score:0.155`
 - [[annas-archive-hit-with-195m-default-judgment-and-global-domain-takedown-order.md]] Anna's Archive Hit with $19.5M Default Judgment and Global Domain Takedown Order `pillar:ecosystem` `score:0.55`
+- [[ansi-escape-injection-in-mcp-servers-hidden-from-humans-visible-to-ai.md]] ANSI escape injection in MCP servers: Hidden from humans, visible to AI `pillar:ecosystem` `score:0.38`
 - [[anthropic-acquires-stainless.md]] Anthropic acquires Stainless `pillar:ecosystem` `score:0.6`
 - [[anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition.md]] Anthropic becomes first AI startup to join the Frontier carbon removal coalition `pillar:ecosystem` `score:0.445`
 - [[anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflar.md]] Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudfl `pillar:ecosystem` `score:0.48`
@@ -2327,6 +2333,7 @@
 - [[startup-battlefield-200-applications-close-in-days-apply-before-may-27.md]] Startup Battlefield 200 applications close in days: Apply before May 27 `pillar:ecosystem` `score:0.41`
 - [[startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-ap.md]] Startup Battlefield 200 applications close in one week: Window to nominate and a `pillar:ecosystem` `score:0.375`
 - [[startup-battlefield-200-applications-officially-close-in-3-days.md]] Startup Battlefield 200 applications officially close in 3 days `pillar:ecosystem` `score:0.235`
+- [[startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai.md]] Startup founders urge Trump not to shut off Chinese open weight AI `pillar:ecosystem` `score:0.585`
 - [[station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups.md]] Station F ramps up as a launchpad for Europe’s hottest AI startups `pillar:ecosystem` `score:0.41`
 - [[steven2358awesome-generative-ai.md]] steven2358/awesome-generative-ai `pillar:ecosystem` `score:0.58`
 - [[stop-killing-games-fails-to-secure-eu-law-despite-13m-signatures.md]] Stop Killing Games fails to secure EU law despite 1.3M signatures `pillar:ecosystem` `score:0.225`
@@ -2484,6 +2491,7 @@
 - [[ai-chip-maker-sambanova-raises-1b-at-11b-valuation-5-months-after-last-mega-roun.md]] AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega r `pillar:business` `score:0.445`
 - [[ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidia8217s-20b-not-acqui.md]] AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia&#8217;s $20B not- `pillar:business` `score:0.445`
 - [[ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation.md]] AI coding startup Cognition raises $1B at $25B pre-money valuation `pillar:business` `score:0.48`
+- [[ai-companies-are-trying-to-hide-a-staggering-amount-of-debt.md]] AI Companies Are Trying to Hide a Staggering Amount of Debt `pillar:business` `score:0.565`
 - [[ai-eats-the-world-spring-26-pdf.md]] AI eats the world (Spring 26) [pdf] `pillar:business` `score:0.53`
 - [[ai-inference-startup-baseten-reportedly-raising-15b-months-after-its-last-mega-r.md]] AI inference startup Baseten reportedly raising $1.5B months after its last mega `pillar:business` `score:0.48`
 - [[ai-pilled-firms-spend-7500-per-employee-each-month-on-ai.md]] ‘AI-pilled’ firms spend $7,500 per employee each month on AI `pillar:business` `score:0.48`
@@ -2496,6 +2504,7 @@
 - [[ais-affordability-crisis.md]] AI's Affordability Crisis `pillar:business` `score:0.63`
 - [[all-means-are-fair-except-solving-the-problem.md]] All means are fair except solving the problem `pillar:business` `score:0.465`
 - [[alphabet-plans-to-raise-80b-to-pay-for-ai-buildout.md]] Alphabet plans to raise $80B to pay for AI buildout `pillar:business` `score:0.48`
+- [[alphabets-cash-burn-raises-alarm-for-big-tech-as-ai-spending-climbs.md]] Alphabet's cash burn raises alarm for Big Tech as AI spending climbs `pillar:business` `score:0.63`
 - [[amazon-ceos-talks-with-us-officials-triggered-crackdown-on-anthropic-models.md]] Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models `pillar:business` `score:0.595`
 - [[amazon-drops-sam-altman-movie-after-announcing-openai-partnership.md]] Amazon drops Sam Altman movie after announcing OpenAI partnership `pillar:business` `score:0.41`
 - [[amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature.md]] Amazon faces class action lawsuit over Ring facial-recognition feature `pillar:business` `score:0.48`
@@ -2604,6 +2613,7 @@
 - [[google-says-criminal-hackers-used-ai-to-find-a-maj.md]] Google says criminal hackers used AI to find a major software flaw `pillar:business` `score:0.155`
 - [[google-to-pay-spacex-920m-a-month-for-compute-capacity-at-xai-data-centers.md]] Google to pay SpaceX $920M a month for compute capacity at xAI data centers `pillar:business` `score:0.48`
 - [[google8217s-8216create-my-widget8217-feat.md]] Google&#8217;s &#8216;Create My Widget&#8217; feature will let you vibe-code you `pillar:business` `score:0.305`
+- [[google8217s-gemini-nears-billion-user-milestone.md]] Google&#8217;s Gemini nears billion-user milestone `pillar:business` `score:0.48`
 - [[gpt-55-price-increase-what-it-costs.md]] GPT-5.5 Price Increase: What It Costs `pillar:business` `score:0.33`
 - [[haiku.md]] Haiku `pillar:business` `score:0.355`
 - [[hermes-agent-maker-nous-research-in-talks-for-new-funding-at-15b-valuation.md]] Hermes agent maker Nous Research in talks for new funding at $1.5B valuation `pillar:business` `score:0.48`

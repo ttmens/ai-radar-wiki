@@ -3099,3 +3099,15 @@
 - create: protecting-our-floss-commons-from-llms.md
 - create: servicenow-bets-40-million-on-indian-banking-software-specialist-to-expand-its-f.md
 - create: show-hn-agentnest-self-hosted-sandboxes-for-ai-agents.md
+
+## [2026-07-24 00:01] sync v3 | 11 new | pillars: {'capabilities': 10, 'ecosystem': 1}
+- create: writing-by-hand-is-good-for-your-brain.md
+- create: startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai.md
+- create: ai-companies-are-trying-to-hide-a-staggering-amount-of-debt.md
+- create: i-think-you-might-be-fooling-yourself-with-ai.md
+- create: alphabets-cash-burn-raises-alarm-for-big-tech-as-ai-spending-climbs.md
+- create: ansi-escape-injection-in-mcp-servers-hidden-from-humans-visible-to-ai.md
+- create: ai-chip-startup-etched-defies-skeptics-hits-103b-valuation-from-big-name-investo.md
+- create: nvidia-is-sending-gpus-to-the-moon.md
+- create: google8217s-gemini-nears-billion-user-milestone.md
+- create: experts-say-exploiting-anthropic8217s-fable-isn8217t-how-kimi-k3-got-so-good.md
