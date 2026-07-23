@@ -1,0 +1,25 @@
+{
+  "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+  "score": 133,
+  "comments": 61,
+  "url": "https://news.ycombinator.com/item?id=49026810",
+  "hn_url": "https://news.ycombinator.com/item?id=49026810",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Echo 项目通过使用开放权重模型（open-weight models），在保持与 Fable 系统相当性能的前提下，将推理成本降低至三分之一。这一突破对 AI 产品经理具有重要商业价值：通过选择开源或低成本模型替代专有高价方案，可大幅削减部署和运营成本，同时不牺牲模型能力。产品创新点在于高效利用开放权重架构实现高性价比，可能涉及模型量化、蒸馏或稀疏化技术。该方案适合对成本敏感且需要高性能 AI 能力的场景，如实时交互、大规模推理等。",
+  "pm_relevance": 9,
+  "concepts": [
+    "Open-weight Models",
+    "Cost Efficiency",
+    "Model Compression"
+  ],
+  "entities": [
+    "Echo",
+    "Fable"
+  ],
+  "patterns": [
+    "Open-Weight Model Pattern",
+    "Cost-Optimized AI Pattern"
+  ]
+}

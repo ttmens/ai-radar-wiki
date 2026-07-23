@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
-  "generated_at": "2026-07-24T00:01:22.492340+08:00",
-  "item_count": 10,
+  "generated_at": "2026-07-24T06:01:41.661966+08:00",
+  "item_count": 26,
   "items": [
     {
       "id": "alphabets-cash-burn-raises-alarm-for-big-tech-as-ai-spending-climbs",
@@ -26,6 +26,17 @@
       "date": "2026-07-24"
     },
     {
+      "id": "show-hn-echo-fable-level-results-at-13-the-cost-using-open-weight-models",
+      "label": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "summary": "Echo 项目通过使用开放权重模型（open-weight models），在保持与 Fable 系统相当性能的前提下，将推理成本降低至三分之一。这一突破对 AI 产品经理具有重要商业价值：通过选择开源或低成本模型替代专有高价方案，可大幅削减部署和运营成本，同时不牺牲模型能力。产品创新点在于高效利用开放权重架构实现高性价比，可能涉及模型量化、蒸馏或稀疏化技术。该方案适合对成本敏感且需要高性能 AI 能力的场景，如实时交互、大规模推理等。",
+      "pm_score": 0.565,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49026810",
+      "date": "2026-07-24"
+    },
+    {
       "id": "ai-companies-are-trying-to-hide-a-staggering-amount-of-debt",
       "label": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
       "summary": "AI公司正试图掩盖巨额债务，这暴露了行业在疯狂投资背后的财务脆弱性。对于AI产品经理，这意味着需关注模型训练和部署的高昂成本如何影响产品可持续性，以及投资泡沫可能带来的资金链断裂风险。商业上，谨慎评估ROI、探索更高效的架构（如小模型、边缘计算）成为必要。潜在的产品创新方向包括成本透明化工具或债务压力下的轻量化解决方案。",
@@ -34,6 +45,39 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49020999",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "darpa-us-air-force-fly-ai-controlled-f-16",
+      "label": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "summary": "DARPA与美国空军成功完成AI控制的F-16战斗机试飞，展示了AI在复杂空战环境中的自主决策与实时控制能力。该技术融合了深度强化学习与仿真训练，能够在高动态场景中执行战术动作，未来可能用于无人机僚机或有人-无人协同作战。产品经理可关注此类AI能力在航空航天、国防安全及高风险自动化领域的商业化潜力，如飞行控制软件授权、仿真训练平台等。",
+      "pm_score": 0.55,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49021597",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "why-software-factories-fail-or-harness-engineering-is-not-enough",
+      "label": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "summary": "本文探讨了软件工厂（自动化生成代码的平台）失败的原因，指出仅靠工程化（如 harness engineering）不足以成功。对于AI产品经理而言，关键启示是：软件工厂需要整合产品思维、用户体验设计和持续迭代，而不仅是技术堆叠。缺乏对业务场景的理解和灵活定制能力会导致产品脱离实际需求。商业价值在于平衡自动化与人工干预，产品创新应聚焦于降低开发门槛同时保留可控性。",
+      "pm_score": 0.55,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49023019",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "the-arguments-against-open-source-ai-are-bad",
+      "label": "The arguments against open source AI are bad",
+      "summary": "文章反驳了反对开源AI的论点，认为开放源代码对AI生态有益。技术要点上，开源AI能加速模型迭代、降低门槛，促进透明与安全。商业价值体现为避免供应商锁定、降低企业成本，并激发社区驱动的创新。产品创新方面，开源模式支持定制化与快速原型验证，尤其适合中小团队。文章暗示开源AI是未来主流，PM需关注其协作优势与潜在挑战。",
+      "pm_score": 0.55,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49024643",
       "date": "2026-07-24"
     },
     {
@@ -81,6 +125,61 @@
       "date": "2026-07-24"
     },
     {
+      "id": "anthropic-updates-claude-voice-mode-with-more-capable-models",
+      "label": "Anthropic updates Claude voice mode with more capable models",
+      "summary": "Anthropic 为 Claude 推出升级版语音模式，搭载更强大模型，支持用户通过语音指令完成会议重新安排、邮件起草等具体任务。该更新显著提升了语音交互的实用性和任务完成能力，将 AI 从对话工具拓展为生产力助手。技术要点在于模型在多轮对话与意图理解上的增强，商业价值体现在企业办公场景中提升效率，产品创新则是将语音交互与具体任务执行深度融合，降低用户操作门槛。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "openai-makes-chatgpt-health-available-to-all-us-users",
+      "label": "OpenAI makes ChatGPT Health available to all US users",
+      "summary": "OpenAI 向全美用户开放 ChatGPT Health 功能，允许用户整合 Apple Health、Function、MyFitnessPal 等个人健康数据。这一举措将 AI 对话能力与多源生理、运动、饮食数据结合，实现个性化健康分析与管理，拓展了 AI 助手在垂直健康场景的应用边界。对产品经理而言，关键在于数据集成技术（API/OAuth 授权）、隐私合规处理以及如何将健康洞察转化为用户可执行的建议，商业上可探索订阅或增值服务模式。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "runway-launches-ai-model-router-as-generative-media-gets-crowded",
+      "label": "Runway launches AI model router as generative media gets crowded",
+      "summary": "Runway 推出 AI 模型路由器 (Media Router)，旨在帮助开发者在日益拥挤的生成式媒体市场中自动选择最优的图像、视频或音频生成模型。该工具允许开发者根据对质量、速度或成本的优先级，自动路由请求到最合适的模型，从而降低人工试错成本，提升开发效率。这一产品创新解决了多模型碎片化带来的选择困难，为开发者提供弹性、高效的模型编排能力，同时潜在推动生成式媒体应用的平台化与标准化。对 AI 产品经理而言，这代表了从单一模型能力向智能路由与资源优化方向的演进。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spea",
+      "label": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven s",
+      "summary": "AegisAI 由前谷歌安全高管创立，获得3600万美元融资，专注防御AI驱动的鱼叉式网络钓鱼。其产品核心是开发出能像人类一样快速分析每条消息的AI代理，通过捕捉人类直觉可察觉的细微异常——即使最周密的检查清单也容易遗漏——来精准识别钓鱼攻击。该技术将AI agent应用于安全领域，提升了检测的准确率和实时性，为企业防范日益复杂的生成式AI钓鱼提供新手段，具有显著商业价值和产品创新。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system",
+      "label": "AMD takes on Nvidia with its Helios AI rack-scale system",
+      "summary": "AMD 发布 Helios AI 机架级系统，直接挑战英伟达在该领域的主导地位。该系统整合了 AMD 最新的 GPU 和计算架构，专为大规模 AI 训练和推理设计，预计今年晚些时候开始交付客户。对于 AI 产品经理而言，这标志着超大规模 AI 基础设施市场出现强劲竞争者，可能带来成本优化和供应多元化的机会，同时推动整体性能标准提升。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "date": "2026-07-24"
+    },
+    {
       "id": "ai-chip-startup-etched-defies-skeptics-hits-103b-valuation-from-big-name-investo",
       "label": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name inve",
       "summary": "AI 芯片初创公司 Etched 由三位哈佛辍学生创立，致力于开发新型芯片和内存组件，声称可在无需 GPU 的情况下加速任何 AI 模型的推理过程。该公司近期获得知名投资者青睐，估值飙升至 103 亿美元。这一技术突破有望降低 AI 推理的硬件依赖和成本，对产品经理而言，意味着更灵活、低成本的模型部署方案，可能推动边缘计算和实时 AI 应用的普及。",
@@ -89,6 +188,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "show-hn-onecli-oss-credential-gateway-that-keeps-secrets-out-of-ai-agents",
+      "label": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+      "summary": "OneCLI 是一个开源凭证网关，旨在防止AI代理泄露敏感秘密（如API密钥）。它通过统一的凭证管理接口，让AI代理在调用外部服务时无需直接接触凭证，而是由网关代为处理认证和授权。该模式解决了AI应用中的安全合规问题，降低了秘密泄露风险，适合企业级AI产品部署。作为开源项目，它提供了灵活的自托管方案，可集成到现有AI工作流中，提升系统安全性。",
+      "pm_score": 0.43,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49023427",
       "date": "2026-07-24"
     },
     {
@@ -103,6 +213,17 @@
       "date": "2026-07-24"
     },
     {
+      "id": "free-way-to-get-your-data-out-of-chatgpt-business-accounts",
+      "label": "Free way to get your data out of ChatGPT Business accounts",
+      "summary": "本文介绍了从 ChatGPT Business 账户中免费导出数据的方法。技术要点涉及利用 OpenAI 提供的 API 或内置导出功能，以结构化格式获取用户对话历史、配置等数据。商业价值在于满足企业客户对数据主权、隐私合规（如 GDPR）的需求，增强用户信任与产品差异化。产品创新点在于将数据可移植性作为企业级功能的核心组成部分，降低用户切换成本，提升生态开放性。",
+      "pm_score": 0.38,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49023486",
+      "date": "2026-07-24"
+    },
+    {
       "id": "ansi-escape-injection-in-mcp-servers-hidden-from-humans-visible-to-ai",
       "label": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
       "summary": "本内容揭露了MCP协议服务器中存在ANSI转义注入漏洞，该漏洞在人类用户视角下不可见，却能被AI模型解析执行，可能导致恶意指令注入、上下文污染或数据泄露。对于AI产品经理而言，此安全风险直接威胁到基于MCP的多智能体协作生态与用户体验。商业价值在于推动产品在设计阶段就引入输入过滤与沙箱机制，同时为用户提供透明可控的AI交互安全层。创新方向包括开发针对转义序列的专用检测模块，以及构建协议级别的安全校验标准。",
@@ -112,10 +233,65 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=48989006",
       "date": "2026-07-24"
+    },
+    {
+      "id": "launch-hn-screenpipe-yc-s26-record-how-you-work-and-turn-that-into-agents",
+      "label": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
+      "summary": "Screenpipe（YC S26）是一个记录用户工作过程并转化为智能体的工具。它通过持续捕获屏幕操作、应用交互等行为数据，利用AI分析模式，自动生成可复用的工作Agent，实现流程自动化。该产品创新性地将人类工作转化为可编程的AI agent，降低自动化门槛，提升个人及团队效率。对产品经理而言，其价值在于理解如何从用户行为数据中提取模式并构建智能自动化，探索AI与工作流深度融合的产品方向。",
+      "pm_score": 0.38,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49024620",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "show-hn-claude-thermos-keeps-your-claude-session-warm-for-you",
+      "label": "Show HN: Claude-thermos – keeps your Claude session warm for you",
+      "summary": "Claude-thermos 是一个面向 Claude 用户的实用工具，通过自动保持会话活跃来防止会话因长时间空闲而超时中断。对于依赖长对话或间歇性输入的 AI 产品场景（如写作辅助、代码调试等），该工具能显著提升用户体验，避免因超时丢失上下文带来的重复工作。其实现机制类似于 TCP 保活心跳，通过定期发送低开销请求维持与 Claude 后端的连接。这类会话管理优化对于构建连贯、高效的 AI 交互流程具有参考价值，尤其适合需要长上下文或高留存率的 AI 应用。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49024882",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "show-hn-palmier-pro-open-source-macos-video-editor-built-for-ai",
+      "label": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+      "summary": "Palmier Pro 是一款专为 AI 构建的开源 macOS 视频编辑器，旨在将 AI 能力深度集成到视频编辑工作流中。其技术要点包括利用机器学习模型实现智能剪辑、自动生成字幕、场景识别与内容增强等，大幅降低手动操作成本。商业价值上，开源模式吸引开发者社区参与定制，可针对垂直场景（如短视频、课程制作）快速迭代，同时为 AI 产品经理提供基于端侧 AI 的视频编辑参考架构。产品创新在于将 AI 视为核心编辑逻辑而非附加功能，可能支持本地模型推理以保护隐私。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49022911",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction",
+      "label": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "summary": "Meta 发布了一支号称展现 AI 乐观前景的广告，却选择了 David Bowie 的经典歌曲《Five Years》，该歌曲描述人类得知五年后世界末日的绝望情境。这一矛盾选择引发了对 AI 营销策略的讽刺性讨论，凸显品牌在利用流行文化提升科技产品情感共鸣时可能出现的文化误读风险。对于 AI 产品经理而言，该案例提示在 AI 商业化推广中，文化敏感性和叙事一致性同等重要，尤其是当 AI 尚未完全融入大众信任时，任何失当的文化引用都可能损害品牌形象。",
+      "pm_score": 0.34,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "hybrid-electric-aicraft-engine-targeting-30-fuel-efficiency",
+      "label": "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
+      "summary": "该技术聚焦混合电动飞机引擎，旨在实现30%燃油效率提升，属于航空动力系统创新。对于AI产品经理而言，其价值在于展示了硬件与算法协同优化（如能量管理）的潜力，可类比为AI推理中的能效优化模式。商业上可降低航空运营成本，推动可持续交通。产品创新点在于将传统燃油引擎与电动推进系统结合，形成混合动力模式。",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49021868",
+      "date": "2026-07-24"
     }
   ],
   "graph_totals": {
-    "real_nodes": 5091,
-    "edges": 5420
+    "real_nodes": 5130,
+    "edges": 5462
   }
 }

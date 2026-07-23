@@ -3111,3 +3111,22 @@
 - create: nvidia-is-sending-gpus-to-the-moon.md
 - create: google8217s-gemini-nears-billion-user-milestone.md
 - create: experts-say-exploiting-anthropic8217s-fable-isn8217t-how-kimi-k3-got-so-good.md
+
+## [2026-07-24 06:01] sync v3 | 17 new | pillars: {'capabilities': 13, 'patterns': 3, 'ecosystem': 1}
+- create: show-hn-echo-fable-level-results-at-13-the-cost-using-open-weight-models.md
+- create: show-hn-palmier-pro-open-source-macos-video-editor-built-for-ai.md
+- create: darpa-us-air-force-fly-ai-controlled-f-16.md
+- create: launch-hn-screenpipe-yc-s26-record-how-you-work-and-turn-that-into-agents.md
+- create: the-arguments-against-open-source-ai-are-bad.md
+- create: show-hn-claude-thermos-keeps-your-claude-session-warm-for-you.md
+- create: show-hn-onecli-oss-credential-gateway-that-keeps-secrets-out-of-ai-agents.md
+- create: hybrid-electric-aicraft-engine-targeting-30-fuel-efficiency.md
+- create: free-way-to-get-your-data-out-of-chatgpt-business-accounts.md
+- create: why-software-factories-fail-or-harness-engineering-is-not-enough.md
+- create: ai-bet-goes-awry-oracle-fires-21000-employees.md
+- create: amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system.md
+- create: anthropic-updates-claude-voice-mode-with-more-capable-models.md
+- create: aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spea.md
+- create: runway-launches-ai-model-router-as-generative-media-gets-crowded.md
+- create: openai-makes-chatgpt-health-available-to-all-us-users.md
+- create: meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction.md
