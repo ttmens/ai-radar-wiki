@@ -1,0 +1,26 @@
+{
+  "title": "Be skeptical of OpenAI's rogue hacker agent story",
+  "score": 340,
+  "comments": 180,
+  "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+  "hn_url": "https://news.ycombinator.com/item?id=49038060",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "文章对OpenAI近期宣称的'流氓黑客智能体'故事持怀疑态度，提醒AI产品经理不要轻信炒作。它质疑该智能体是否真的具备自主黑客能力，或仅为精心设计的演示。产品经理应关注实际技术局限、安全风险与模型对齐问题，避免过度依赖单一案例，同时警惕夸大宣传对产品路线图的误导。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI Agent",
+    "AI Safety",
+    "Rogue Behavior"
+  ],
+  "entities": [
+    "OpenAI"
+  ],
+  "patterns": [
+    "Agent Pattern",
+    "Safety-Critical AI"
+  ]
+}

@@ -3161,3 +3161,13 @@
 - create: blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool.md
 - create: midjourney-acquired-the-astrology-app-co-star.md
 - create: openai8217s-new-voice-mode-makes-it-to-the-chatgpt-desktop-app.md
+
+## [2026-07-25 06:01] sync v3 | 8 new | pillars: {'capabilities': 5, 'patterns': 3}
+- create: claude-opus-5.md
+- create: nvidia-microsoft-meta-warn-against-overregulating-open-weight-models.md
+- create: self-host-your-mail-server.md
+- create: be-skeptical-of-openais-rogue-hacker-agent-story.md
+- create: why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage.md
+- create: anthropic-launches-opus-5.md
+- create: ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street.md
+- create: show-hn-x402vps-docker-containers-for-ai-agents-paid-per-hour-with-usdc.md
