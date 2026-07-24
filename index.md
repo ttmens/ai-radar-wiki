@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-24 | Total pages: 2929
+> Last updated: 2026-07-25 | Total pages: 2943
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -98,6 +98,7 @@
 - [[amazon-will-stop-accepting-new-customers-for-mechanical-turk.md]] Amazon will stop accepting new customers for Mechanical Turk `pillar:capabilities` `score:0.48`
 - [[amd-ryzen-ai-halo-4k-ai-dev-kit.md]] AMD Ryzen AI Halo – $4k AI Dev Kit `pillar:capabilities` `score:0.345`
 - [[amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system.md]] AMD takes on Nvidia with its Helios AI rack-scale system `pillar:capabilities` `score:0.48`
+- [[amds-instinct-mi455x-aiming-for-the-sun.md]] AMD's Instinct MI455X: Aiming for the Sun `pillar:capabilities` `score:0.465`
 - [[american-ai-is-locked-down-and-proprietary-its-losing.md]] American AI is locked down and proprietary. It's losing `pillar:capabilities` `score:0.48`
 - [[an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry.md]] An OpenAI model has disproved a central conjecture in discrete geometry `pillar:capabilities` `score:0.63`
 - [[anatomy-of-a-failed-nation-state-attack.md]] Anatomy of a Failed (Nation-State?) Attack `pillar:capabilities` `score:0.345`
@@ -187,6 +188,7 @@
 - [[claude-code-is-steganographically-marking-requests.md]] Claude Code Is Steganographically Marking Requests `pillar:capabilities` `score:0.295`
 - [[claude-code-sends-33k-tokens-before-reading-the-prompt-opencode-sends-7k.md]] Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k `pillar:capabilities` `score:0.6`
 - [[claude-code-uses-bun-written-in-rust-now.md]] Claude Code uses Bun written in Rust now `pillar:capabilities` `score:0.58`
+- [[claude-cookbook.md]] Claude Cookbook `pillar:capabilities` `score:0.365`
 - [[claude-corps.md]] Claude Corps `pillar:capabilities` `score:0.355`
 - [[claude-cowork-expands-to-mobile-and-web.md]] Claude Cowork expands to mobile and web `pillar:capabilities` `score:0.515`
 - [[claude-design-system-prompt.md]] Claude Design System Prompt `pillar:capabilities` `score:0.48`
@@ -308,6 +310,7 @@
 - [[five-frontier-llms-disagree-on-67-of-1k-real-world-fact-check-claims.md]] Five frontier LLMs disagree on 67% of 1k real-world fact-check claims `pillar:capabilities` `score:0.63`
 - [[fixed-three-bugs-that-made-qwen35-122b-a-daily-driver-on-mac-studio.md]] Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio `pillar:capabilities` `score:0.43`
 - [[flash-msa-accelerating-million-token-training-with-sparse-attention-kernels.md]] Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels `pillar:capabilities` `score:0.33`
+- [[flux-3-x-mimic-the-next-generation-of-video-action-models.md]] Flux 3 X Mimic: The Next Generation of Video-Action Models `pillar:capabilities` `score:0.565`
 - [[ford-rehires-350-engineers-after-ai-fails-to-preserve-expertise-or-train-juniors.md]] Ford rehires 350 engineers after AI fails to preserve expertise or train juniors `pillar:capabilities` `score:0.55`
 - [[ford-rehires-gray-beard-engineers-after-ai-falls-short.md]] Ford rehires ‘gray beard’ engineers after AI falls short `pillar:capabilities` `score:0.48`
 - [[forever-young-how-one-molecule-can-lock-plants-in-a-youthful-state-2025.md]] Forever Young: how one molecule can lock plants in a youthful state (2025) `pillar:capabilities` `score:0.27`
@@ -387,12 +390,14 @@
 - [[hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data.md]] Hack suggests AI music generator Suno scraped YouTube for training data `pillar:capabilities` `score:0.48`
 - [[hacksiderdeep-live-cam.md]] hacksider/Deep-Live-Cam `pillar:capabilities` `score:0.58`
 - [[haiku-os-runs-on-m1-macs-now.md]] Haiku OS runs on M1 Macs now `pillar:capabilities` `score:0.475`
+- [[half-life-2-running-natively-on-haikuos.md]] Half-Life 2 running natively on HaikuOS `pillar:capabilities` `score:0.135`
 - [[handmade-hawaiian-islands-map.md]] Handmade Hawaiian Islands Map `pillar:capabilities` `score:0.26`
 - [[hands-on-with-the-amd-ryzen-ai-halo.md]] Hands-On with the AMD Ryzen AI Halo `pillar:capabilities` `score:0.38`
 - [[hark-raises-700m-series-a-for-its-secretive-8220universal8221-ai-interface.md]] Hark raises $700M Series A for its secretive &#8220;universal&#8221; AI interfac `pillar:capabilities` `score:0.515`
 - [[harvard-edgecs249r_book.md]] harvard-edge/cs249r_book `pillar:capabilities` `score:0.58`
 - [[has-ai-already-killed-self-help-nonfiction-books.md]] Has AI already killed self-help nonfiction books? `pillar:capabilities` `score:0.445`
 - [[has-the-hunt-for-ai-compute-uncovered-the-next-cerebras.md]] Has the hunt for AI compute uncovered the next Cerebras? `pillar:capabilities` `score:0.48`
+- [[hetzner-is-working-on-llm-inference.md]] Hetzner is working on LLM Inference `pillar:capabilities` `score:0.53`
 - [[hiyougallamafactory.md]] hiyouga/LlamaFactory `pillar:capabilities` `score:0.615`
 - [[homomorphically-encrypted-cifar-10-inference-in-200ms.md]] Homomorphically encrypted CIFAR-10 inference in 200ms `pillar:capabilities` `score:0.38`
 - [[hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-a.md]] Hot French startup ZML releases free product to speed inference across lots of A `pillar:capabilities` `score:0.515`
@@ -627,6 +632,7 @@
 - [[openai8217s-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-mo.md]] OpenAI&#8217;s first hardware device is reportedly a screenless speaker that can `pillar:capabilities` `score:0.515`
 - [[openai8217s-jalapeño-chip-is-big-tech8217s-spiciest-move-away-from-nvidia.md]] OpenAI&#8217;s Jalapeño chip is Big Tech&#8217;s spiciest move away from Nvidia `pillar:capabilities` `score:0.515`
 - [[openai8217s-new-flagship-model-deletes-files-on-its-own-people-keep-warning.md]] OpenAI&#8217;s new flagship model deletes files on its own, people keep warning `pillar:capabilities` `score:0.515`
+- [[openai8217s-new-voice-mode-makes-it-to-the-chatgpt-desktop-app.md]] OpenAI&#8217;s new voice mode makes it to the ChatGPT desktop app `pillar:capabilities` `score:0.515`
 - [[openais-accidental-attack-against-hugging-face-is-science-fiction-that-happened.md]] OpenAI’s accidental attack against Hugging Face is science fiction that happened `pillar:capabilities` `score:0.445`
 - [[orchestrating-ai-code-review-at-scale.md]] Orchestrating AI code review at scale `pillar:capabilities` `score:0.43`
 - [[orion-browser-by-kagi.md]] Orion Browser by Kagi `pillar:capabilities` `score:0.31`
@@ -1661,6 +1667,7 @@
 - [[autonomous-flying-umbrella-follows-and-shields-users-from-rain-and-sunlight.md]] Autonomous flying umbrella follows and shields users from rain and sunlight `pillar:patterns` `score:0.395`
 - [[best-brain-for-agents-is-just-versioned-folders-of-markdown-files.md]] Best "Brain" for Agents Is Just Versioned Folders of Markdown Files `pillar:patterns` `score:0.365`
 - [[better-models-worse-tools.md]] Better Models: Worse Tools `pillar:patterns` `score:0.48`
+- [[blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool.md]] Bluesky’s AI assistant Attie expands into an open social research tool `pillar:patterns` `score:0.48`
 - [[browser-usebrowser-use.md]] browser-use/browser-use `pillar:patterns` `score:0.615`
 - [[brume-is-a-24-voice-multi-timbral-desktop-synth-for-the-cm5.md]] Brume is a 24-voice multi-timbral desktop synth for the CM5 `pillar:patterns` `score:0.155`
 - [[build-a-basic-ai-agent-from-scratch-long-task-planning.md]] Build a Basic AI Agent from Scratch: Long Task Planning `pillar:patterns` `score:0.445`
@@ -1895,6 +1902,7 @@
 - [[show-hn-clawk-give-coding-agents-a-disposable-linux-vm-not-your-laptop.md]] Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop `pillar:patterns` `score:0.515`
 - [[show-hn-cli-that-helps-ai-agents-avoid-vulnerable-dependencies.md]] Show HN: CLI that helps AI agents avoid vulnerable dependencies `pillar:patterns` `score:0.33`
 - [[show-hn-coding-agent-that-compiles-intent-into-deterministic-dag-before-running.md]] Show HN: Coding agent that compiles intent into deterministic DAG before running `pillar:patterns` `score:0.33`
+- [[show-hn-connecting-my-dumb-garage-and-cars-homelink-buttons-to-home-assistant.md]] Show HN: Connecting my dumb garage and car's homelink buttons to Home Assistant `pillar:patterns` `score:0.26`
 - [[show-hn-continue-yn-a-60-second-game-about-ai-agent-permission-fatigue.md]] Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue `pillar:patterns` `score:0.295`
 - [[show-hn-costdev-yc-w21-making-agents-cost-aware-and-cheaper-to-call.md]] Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call `pillar:patterns` `score:0.33`
 - [[show-hn-crawlie-free-open-source-seo-audit-tool-for-humans-and-agents.md]] Show HN: Crawlie – Free open-source SEO audit tool for humans and agents `pillar:patterns` `score:0.295`
@@ -2132,6 +2140,7 @@
 - [[apple-touts-14-trillion-in-app-store-billings-and-sales-90-without-a-commission.md]] Apple touts $1.4 trillion in App Store billings and sales, 90% without a commiss `pillar:ecosystem` `score:0.375`
 - [[apple-vision-pro-exec-is-reportedly-leaving-for-openai.md]] Apple Vision Pro exec is reportedly leaving for OpenAI `pillar:ecosystem` `score:0.48`
 - [[arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous.md]] Arcee, a US open source AI lab, says Chinese models are not inherently dangerous `pillar:ecosystem` `score:0.48`
+- [[as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-res.md]] As US weighs response to Chinese AI, industry urges against broad open-weight re `pillar:ecosystem` `score:0.48`
 - [[asgeirtjsystem_prompts_leaks.md]] asgeirtj/system_prompts_leaks `pillar:ecosystem` `score:0.58`
 - [[ask-hn-why-is-the-hn-crowd-so-anti-ai.md]] Ask HN: Why is the HN crowd so anti-AI? `pillar:ecosystem` `score:0.545`
 - [[at-techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-dea.md]] At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI d `pillar:ecosystem` `score:0.48`
@@ -2212,6 +2221,7 @@
 - [[introducing-the-6-stages-at-techcrunch-disrupt-202.md]] Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher `pillar:ecosystem` `score:0.305`
 - [[invoke-aiinvokeai.md]] invoke-ai/InvokeAI `pillar:ecosystem` `score:0.58`
 - [[iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz.md]] Iran demands Big Tech pay fees for undersea Internet cables in Strait of Hormuz `pillar:ecosystem` `score:0.31`
+- [[irgc-claims-it-destroyed-amazons-bahrain-data-center.md]] IRGC Claims It Destroyed Amazon's Bahrain Data Center `pillar:ecosystem` `score:0.41`
 - [[is-this-sustainable.md]] Is This Sustainable? `pillar:ecosystem` `score:0.41`
 - [[it8217s-not-about-anthropic-vs-openai-anymore.md]] It&#8217;s not about Anthropic vs. OpenAI anymore `pillar:ecosystem` `score:0.445`
 - [[janhqjan.md]] janhq/jan `pillar:ecosystem` `score:0.405`
@@ -2246,6 +2256,7 @@
 - [[microsoftml-for-beginners.md]] microsoft/ML-For-Beginners `pillar:ecosystem` `score:0.545`
 - [[microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers.md]] Microsoft's open source tools were hacked to steal passwords of AI developers `pillar:ecosystem` `score:0.53`
 - [[microsoftsemantic-kernel.md]] microsoft/semantic-kernel `pillar:ecosystem` `score:0.615`
+- [[midjourney-acquired-the-astrology-app-co-star.md]] Midjourney acquired the astrology app Co-Star `pillar:ecosystem` `score:0.445`
 - [[midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage.md]] Midjourney wants Hollywood studios to reveal the details of their AI usage `pillar:ecosystem` `score:0.48`
 - [[mini-shai-hulud-strikes-again-314-npm-packages-compromised.md]] Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised `pillar:ecosystem` `score:0.395`
 - [[minimus-container-images-are-now-free.md]] Minimus container images are now free `pillar:ecosystem` `score:0.445`
@@ -2276,6 +2287,7 @@
 - [[open-source-ai-matters-more-than-ever-according-to-hugging-face8217s-clem-delang.md]] Open source AI matters more than ever, according to Hugging Face&#8217;s Clem De `pillar:ecosystem` `score:0.48`
 - [[open-source-ai-must-win.md]] Open source AI must win `pillar:ecosystem` `score:0.615`
 - [[open-webuiopen-webui.md]] open-webui/open-webui `pillar:ecosystem` `score:0.405`
+- [[open-weights-and-american-ai-leadership-pdf.md]] Open Weights and American AI Leadership [pdf] `pillar:ecosystem` `score:0.395`
 - [[openai-and-government-of-malta-partner-to-roll-out-chatgpt-plus-to-all-citizens.md]] OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens `pillar:ecosystem` `score:0.565`
 - [[openai-and-hugging-face-address-security-incident-during-model-evaluation.md]] OpenAI and Hugging Face address security incident during model evaluation `pillar:ecosystem` `score:0.595`
 - [[openai-faces-investigation-from-state-attorneys-general.md]] OpenAI faces investigation from state attorneys general `pillar:ecosystem` `score:0.445`
@@ -2753,6 +2765,7 @@
 - [[openais-webrtc-problem.md]] OpenAI's WebRTC problem `pillar:business` `score:0.305`
 - [[openclaw-creator-spent-13m-on-openai-tokens-in-30-days.md]] OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days `pillar:business` `score:0.55`
 - [[openhandsopenhands.md]] OpenHands/OpenHands `pillar:business` `score:0.405`
+- [[oracle-fires-21000-employees-to-fund-ai-spending.md]] Oracle fires 21,000 employees to fund AI spending `pillar:business` `score:0.345`
 - [[origin-lab-raises-8m-to-help-video-game-companies.md]] Origin Lab raises $8M to help video game companies sell data to world-model buil `pillar:business` `score:0.305`
 - [[palantir-loses-legal-challenge-against-swiss-investigative-magazine.md]] Palantir loses legal challenge against Swiss investigative magazine `pillar:business` `score:0.345`
 - [[passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us.md]] Passionfroot raises $15M to expand its B2B creator marketplace to the US `pillar:business` `score:0.41`
@@ -2872,6 +2885,7 @@
 - [[why-current-llm-costs-are-not-sustainable.md]] Why current LLM costs are not sustainable `pillar:business` `score:0.5`
 - [[why-is-openai-selling-a-chatgpt-basketball.md]] Why is OpenAI selling a ChatGPT basketball? `pillar:business` `score:0.305`
 - [[why-senior-developers-fail-to-communicate-their-ex.md]] Why senior developers fail to communicate their expertise `pillar:business` `score:0.425`
+- [[why-sony-cant-bring-back-its-classic-walkman-models.md]] Why Sony can't bring back its classic Walkman models `pillar:business` `score:0.48`
 - [[why-trust-is-a-big-question-at-the-elon-musk-openai-trial.md]] Why trust is a big question at the Elon Musk-OpenAI trial `pillar:business` `score:0.445`
 - [[why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia.md]] Why Wall Street thinks US memory maker Micron is the next Nvidia `pillar:business` `score:0.445`
 - [[why-you-can-never-get-your-doctor-to-call-you-back.md]] Why you can never get your doctor to call you back `pillar:business` `score:0.48`

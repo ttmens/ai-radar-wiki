@@ -3148,3 +3148,16 @@
 - create: meta-garbage-collection-using-ocamls-gc-to-gc-rust.md
 - create: escape-analysis-in-go-stack-vs-heap-allocations-explained.md
 - create: how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers.md
+
+## [2026-07-25 00:01] sync v3 | 13 new | pillars: {'capabilities': 11, 'patterns': 2}
+- create: flux-3-x-mimic-the-next-generation-of-video-action-models.md
+- create: half-life-2-running-natively-on-haikuos.md
+- create: irgc-claims-it-destroyed-amazons-bahrain-data-center.md
+- create: open-weights-and-american-ai-leadership-pdf.md
+- create: amds-instinct-mi455x-aiming-for-the-sun.md
+- create: hetzner-is-working-on-llm-inference.md
+- create: oracle-fires-21000-employees-to-fund-ai-spending.md
+- create: as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-res.md
+- create: blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool.md
+- create: midjourney-acquired-the-astrology-app-co-star.md
+- create: openai8217s-new-voice-mode-makes-it-to-the-chatgpt-desktop-app.md
