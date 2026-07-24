@@ -1,0 +1,36 @@
+{
+  "title": "MIRROR: Learning from the Other View for Multi-Modal Reasoning",
+  "summary": "Unlike large language models (LLMs) that exhibit strong reasoning capabilities, vision-language models (VLMs) struggle with visual reasoning, even on geometry problems that admit equivalent text, diagram, and combined diagram+text views. We show that these views often elicit different behaviors: a model may solve a problem from text but fail on the corresponding diagram, or succeed visually while failing textually. This inconsistency suggests that different views expose complementary reasoning paths and failure modes that standard multimodal post-training does not fully exploit. To study and exploit this phenomenon, we construct ODA-Data, a high-quality paired multimodal geometry dataset with text-dominant, image-dominant, and combined image+text views of the same problems, together with splits for training and evaluating modality-dependent reasoning behaviors. We then develop Modality-Informed Reciprocal Reasoning Optimization (MIRROR), a reinforcement learning approach for improving multimodal reasoning via self supervision. For each problem, MIRROR evaluates the model under all views, selects the best-performing view as a teacher, and trains other views with a reverse-KL objective towards the teacher. Across reasoning benchmarks that evaluate on geometry problems, MIRROR improves over standard RL and yields more accurate and consistent behavior across modalities",
+  "url": "http://arxiv.org/abs/2607.21552v1",
+  "authors": [
+    "Wen Ye",
+    "Yuxiao Qu",
+    "Aviral Kumar",
+    "Xuezhe Ma"
+  ],
+  "published": "2026-07-23T17:35:56Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "multimodal",
+    "vision",
+    "reasoning",
+    "training",
+    "optimization",
+    "dataset",
+    "post-training"
+  ],
+  "summary_cn": "本论文提出MIRROR方法，旨在提升视觉语言模型（VLM）在视觉推理任务上的表现。研究发现，在处理几何问题时，文本、图表以及图文结合等不同视图会引发模型不同的行为表现，说明模型未能有效整合多模态信息。MIRROR通过让模型从其他视角中学习，利用跨视图一致性训练，增强了VLM对图形、表格等视觉元素的推理能力。该技术可应用于教育AI（如自动解答几何题）、图表分析、辅助设计等场景，帮助产品实现更准确的视觉问答和跨模态理解。",
+  "pm_relevance": 8,
+  "concepts": [
+    "多模态推理",
+    "视觉语言模型",
+    "跨视角学习"
+  ],
+  "entities": [],
+  "patterns": [
+    "多模态学习",
+    "跨模态推理"
+  ]
+}

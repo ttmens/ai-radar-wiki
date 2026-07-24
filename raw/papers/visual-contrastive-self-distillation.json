@@ -1,0 +1,34 @@
+{
+  "title": "Visual Contrastive Self-Distillation",
+  "summary": "On-policy self-distillation (OPSD) is promising as it removes the external teacher required by on-policy distillation (OPD), yet it still needs asymmetric information between teacher and student to ensure that the self-teacher provides a stronger learning signal than the student. Existing methods create this asymmetry either through privileged answers or visual evidence. We ask whether both can be removed, yielding a simpler form of OPSD driven purely by input conditioning. For this purpose, we propose Visual Contrastive Self-Distillation, namely VCSD, which converts image-content removal into an on-policy self-distillation signal. At each student-generated response prefix, the EMA teacher produces two next-token distributions under the same prompt and prefix -- one conditioned on the original image and the other on a content-erased control. Their token-wise log-probability difference highlights candidates whose likelihood is specifically increased by the instance-level visual content. We use this contrast to sharpen the teacher's original-image distribution within its plausible support, and distill the resulting full-distribution target into the student. Using ViRL39K dataset, VCSD consistently outperforms matched OPSD across Qwen3-VL and Qwen3.5 models. For example, on Qwen3-VL, it improves the seven-benchmark aggregate from $62.27\\% \\rightarrow 67.04\\%$ at 2B, $71.30\\% \\rightarrow 73.16\\%$ at 4B, and $72.51\\% \\rightarrow 76.26\\%$ at 8B. Furthermore, VCSD requires no external teacher, privileged answers, visual evidence signals, reasoning traces, or additional inference-time cost.",
+  "url": "http://arxiv.org/abs/2607.21556v1",
+  "authors": [
+    "Yijun Liang",
+    "Yunjie Tian",
+    "Yijiang Li",
+    "Yuqi Jia",
+    "Furong Huang"
+  ],
+  "published": "2026-07-23T17:37:37Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "token",
+    "benchmark",
+    "reasoning",
+    "distillation",
+    "dataset"
+  ],
+  "summary_cn": "该论文提出视觉对比自蒸馏方法，针对在线策略自蒸馏（OPSD）中教师与学生之间信息不对称的问题进行优化。OPSD通过移除外部教师模型实现自监督学习，但需要确保自教师比学生提供更强的学习信号。论文通过引入对比学习机制，增强自教师与学生的差异，从而提升视觉模型的表征学习能力。这一技术可降低对大型预训练教师的依赖，减少训练成本，适用于图像识别、目标检测等视觉任务，具有提升模型效率与精度的商业价值。",
+  "pm_relevance": 6,
+  "concepts": [
+    "自蒸馏",
+    "对比学习",
+    "视觉模型训练"
+  ],
+  "entities": [],
+  "patterns": [
+    "自蒸馏模式"
+  ]
+}

@@ -1,19 +1,19 @@
 # X/Twitter AI KOL 动态
 
-抓取时间: 2026-07-23 21:00:21
+抓取时间: 2026-07-24 09:00:22
 
 
 ## @sama (5 条)
 
-1. **we had a significant security incident during evaluation of our models. we are sharing what we have learned so far. thanks to @huggingface for the partnership on this.  https://t.co/2o2VfR6PIa**
+1. **already in bed. couldn’t remember if my laptop was plugged in. asked codex. good night https://t.co/aFB56IHpkI**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **it is good now!**
+2. **We're rolling out Health in ChatGPT to all U.S. users. ♥️  More than 300 million people come to ChatGPT every week with health questions. Today, ChatGPT can bring together the health info you choose t**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **this is cool:  https://t.co/X4HEmFym68**
+3. **ChatGPT Voice is now in the desktop app.  Control your computer and direct multiple agents running  in ChatGPT Work or Codex, using just your voice.   It's powered by GPT-Live, so it can speak, listen**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
@@ -33,43 +33,43 @@
 
 ## @AndrewYNg (5 条)
 
-1. **New course: Build LLM applications that respond to user requests quickly by running on hardware designed for fast inference. This short course was built with  @Cerebras and taught by @zhennydez, @duer**
+1. **Announcing OpenWorker! An open-source agent that doesn't just chat with you, but delivers finished work -- like hand you a polished document, send a slack message, or update a calendar entry.  Ask it **
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **Adam Thierer had written the landmark book on "Permissionless Innovation." We get the best ideas when we don't have to ask the government in advance for permission to invent. Protecting open source AI**
+2. **New course: Build LLM applications that respond to user requests quickly by running on hardware designed for fast inference. This short course was built with  @Cerebras and taught by @zhennydez, @duer**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **“Loop engineering” is a hot buzzphrase after mentions of it by Boris Cherny (Claude Code’s creator) and Peter Steinberger (OpenClaw's creator) went viral on social media. Loops are now a key part of h**
+3. **Adam Thierer had written the landmark book on "Permissionless Innovation." We get the best ideas when we don't have to ask the government in advance for permission to invent. Protecting open source AI**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
 ## @ylecun (5 条)
 
-1. **Manufacturing jobs grew under Biden to a peak of almost 13 million.  Under Trump, they’ve declined despite his promises to “bring jobs back home.”  My @Morning_Joe Chart https://t.co/2XGxpGPXAT**
+1. **it’s just for your safety https://t.co/k7oL2g7h4J**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **News: Nearly 200 Silicon Valley companies, including Proton and Y-Combinator, are urging the Trump administration not to cut off access to Chinese open-weight AI models or risk crippling the next gene**
+2. **it's ironic that the first autonomous AI attack was done by a close weight model defended by an open weight model, where everyone was expecting the opposite**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **Trump’s tariffs haven’t just hurt American business.  They’re about to be a growing drain on public finances as the government pays back tariffs ruled illegal by the Supreme Court.  My @Morning_Joe Ch**
+3. **Open protocols won America the internet and the influence that came with it.  In a strange inversion, China is publishing open tools while America is giving in to authoritarian control impulses. Where**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
 ## @elonmusk (5 条)
 
-1. **I can't believe I'm still using Grok 4.5 (medium) as my daily. It's such a good default**
+1. **https://t.co/zyiFoqOal3**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **SpaceXAI has added New pages to Grok Build docs: Permissions, Plan Mode, Sandbox, Subagents https://t.co/aLqM1w01lc**
+2. **Zero**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **Using FSD is far safer than driving manually, as measured over 12 billion miles of its use. Safer by a margin of 2x the miles between collisions!  It can do so, because, FSD is trained on corner cases**
+3. **ELON MUSK: “I’m in favor of immigration. I’d be hypocritical if I wasn’t since I’m an immigrant to the United States. I’m in favor of immigration if the person immigrating is going to be a productive **
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 

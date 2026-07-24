@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
-  "generated_at": "2026-07-24T06:01:41.661966+08:00",
-  "item_count": 26,
+  "generated_at": "2026-07-24T12:01:39.250874+08:00",
+  "item_count": 39,
   "items": [
     {
       "id": "alphabets-cash-burn-raises-alarm-for-big-tech-as-ai-spending-climbs",
@@ -169,6 +169,17 @@
       "date": "2026-07-24"
     },
     {
+      "id": "how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers",
+      "label": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "summary": "本文探讨了OpenAI和Anthropic等公司设置的AI安全护栏如何限制进攻性网络安全研究员（红队）的工作。这些研究员专注于发现未知漏洞并开发利用工具，但护栏机制（如拒绝回答敏感请求、限制代码生成）阻碍了他们对模型薄弱环节的深入测试。研究人员认为，过度限制反而可能削弱AI系统的长期安全性，因为缺乏真实攻击视角的反馈会导致防御盲区。对产品经理而言，需平衡安全合规与红队测试自由，避免因护栏过度而牺牲模型鲁棒性，同时考虑引入受控的红队机制来提升AI产品的抗攻击能力。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "date": "2026-07-24"
+    },
+    {
       "id": "amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system",
       "label": "AMD takes on Nvidia with its Helios AI rack-scale system",
       "summary": "AMD 发布 Helios AI 机架级系统，直接挑战英伟达在该领域的主导地位。该系统整合了 AMD 最新的 GPU 和计算架构，专为大规模 AI 训练和推理设计，预计今年晚些时候开始交付客户。对于 AI 产品经理而言，这标志着超大规模 AI 基础设施市场出现强劲竞争者，可能带来成本优化和供应多元化的机会，同时推动整体性能标准提升。",
@@ -180,6 +191,83 @@
       "date": "2026-07-24"
     },
     {
+      "id": "expanding-flow-maps",
+      "label": "Expanding Flow Maps",
+      "summary": "Expanding Generative Flows (EFlows) 是一种新型生成模型，突破了传统基于流的模型在固定维度或固定序列长度上的限制。它支持动态调整输入输出尺寸与序列长度，从而增强了对多样数据形态（如变长文本、可变分辨率图像）的适应能力。该技术保留了流模型的快速采样和可控生成特性，有望用于需要灵活生成结构的场景，如动态内容创作、自适应多模态交互等。产品经理可关注其在降低模型定制成本、提升生成自由度方面的潜力，尤其适合需要处理非固定格式内容的产品创新。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.21585v1",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "3d-aware-vlms-with-implicit-and-explicit-geometries",
+      "label": "3D-Aware VLMs with Implicit and Explicit Geometries",
+      "summary": "本文提出VLM-IE3D框架，旨在解决现有视觉语言模型（VLM）在3D空间理解任务中的不足。通过结合隐式几何与显式几何表示，该框架增强了模型对三维场景的细粒度感知与推理能力。这一技术创新为产品经理提供了将多模态AI落地于AR/VR、机器人导航、自动驾驶等需要精确空间交互的领域的机会，有望提升产品在复杂环境中的智能化水平。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.21595v1",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning",
+      "label": "Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning",
+      "summary": "该论文研究了大型语言模型（LLM）在道德推理中的“奉承”现象（即一味迎合用户观点），并提出构建“社交校准”模型的方法。核心在于模型需学会区分何时采纳他人意见、何时坚持自身有根据的道德判断，而不仅仅是减少奉承行为。这为AI产品经理提供了设计更可靠、可信的AI助手的思路——通过结构化抵抗与顺从，使AI既能从用户反馈中学习，又不会被不良或错误观点带偏，从而提升产品在道德决策、个性化推荐等场景中的安全性和用户信任度。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.21558v1",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "beyond-sufficiency-time-series-explanation-with-counterfactual-necessity",
+      "label": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity",
+      "summary": "该论文提出了一种超越充分性的时间序列解释方法，强调识别对维持黑盒模型预测既充分又必要的子序列（反事实必要性）。现有方法只关注充分性，容易将重要性分配给虚假子序列，导致解释不可靠。该方法通过反事实推理，确保解释的子序列在移除时能改变模型输出，从而提升忠实度。对AI产品经理而言，该技术可应用于金融风控、医疗诊断、工业监控等对决策可信度要求高的场景，提升模型透明度和用户信任。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.21573v1",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "mirror-learning-from-the-other-view-for-multi-modal-reasoning",
+      "label": "MIRROR: Learning from the Other View for Multi-Modal Reasoning",
+      "summary": "本论文提出MIRROR方法，旨在提升视觉语言模型（VLM）在视觉推理任务上的表现。研究发现，在处理几何问题时，文本、图表以及图文结合等不同视图会引发模型不同的行为表现，说明模型未能有效整合多模态信息。MIRROR通过让模型从其他视角中学习，利用跨视图一致性训练，增强了VLM对图形、表格等视觉元素的推理能力。该技术可应用于教育AI（如自动解答几何题）、图表分析、辅助设计等场景，帮助产品实现更准确的视觉问答和跨模态理解。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.21552v1",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "openforgerl-train-harness-native-agents-in-any-environment",
+      "label": "OpenForgeRL: Train Harness-native Agents in Any Environment",
+      "summary": "OpenForgeRL 提出一种在任意环境中训练原生推理工具（harness）的AI代理的方法。当前先进的AI代理依赖复杂推理框架（如Claude Code、Codex、OpenClaw）实现多轮推理和工具调用，但这些框架使端到端训练变得困难。OpenForgeRL 通过强化学习（RL）和SFT（监督微调）流水线，实现了对代理的端到端训练，降低了训练门槛，提升了代理在不同环境中的适应性和工具使用能力。此技术对产品经理的价值在于：可以更高效地开发具备复杂推理和工具调用能力的AI代理，减少对闭源平台的依赖，加速产品迭代。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.21557v1",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "graphvid-interactive-graph-controllable-video-generation",
+      "label": "GraphVid: Interactive Graph-Controllable Video Generation",
+      "summary": "GraphVid 提出了一种基于图结构控制视频生成的新方法，允许用户通过交互式图来精确指定多对象之间的时空关系和运动轨迹，克服了文本提示模糊和传统轨迹控制需精确绘制的痛点。该技术可显著降低视频创作门槛，在内容生成、游戏动画、影视后期等场景具有商业价值，产品创新在于将图作为直观的控制接口，实现细粒度多目标交互生成。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.21580v1",
+      "date": "2026-07-24"
+    },
+    {
       "id": "ai-chip-startup-etched-defies-skeptics-hits-103b-valuation-from-big-name-investo",
       "label": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name inve",
       "summary": "AI 芯片初创公司 Etched 由三位哈佛辍学生创立，致力于开发新型芯片和内存组件，声称可在无需 GPU 的情况下加速任何 AI 模型的推理过程。该公司近期获得知名投资者青睐，估值飙升至 103 亿美元。这一技术突破有望降低 AI 推理的硬件依赖和成本，对产品经理而言，意味着更灵活、低成本的模型部署方案，可能推动边缘计算和实时 AI 应用的普及。",
@@ -188,6 +276,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "a-taxonomy-of-omnicidal-futures-involving-artificial-intelligence-2025",
+      "label": "A taxonomy of omnicidal futures involving artificial intelligence (2025)",
+      "summary": "该研究提出了一种关于人工智能可能引发全人类灭绝（omnicidal）未来的分类法，将不同风险路径系统化。对于AI产品经理而言，理解这些风险类别有助于在产品设计阶段引入安全机制、构建负责任的AI系统，并评估长期商业可持续性。分类法为风险监测和缓解策略提供了框架，间接指导产品创新方向，避免因能力失控导致灾难性后果。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49029133",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "synthetic-data-generation-framework-for-quality-control-automation-in-gravure-pr",
+      "label": "Synthetic data generation framework for quality control automation in gravure pr",
+      "summary": "该论文提出用于凹版印刷质量控制自动化的合成数据生成框架，解决深度学习缺陷检测中标注数据稀缺问题。通过模拟真实印刷缺陷生成多样化合成样本，降低对昂贵人工标注的依赖，实现高精度自动质检。商业价值在于显著提升检测效率、降低成本，推动印刷业智能化转型。产品创新体现在将合成数据技术与工业质检场景深度耦合。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.21577v1",
       "date": "2026-07-24"
     },
     {
@@ -210,6 +320,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49021843",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "graph-learning-on-ensembles-of-cyclic-peptides-an-investigation-of-molecular-ens",
+      "label": "Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular En",
+      "summary": "本文提出EnsembleEGNN，一种针对环肽构象集合的分子集成基础模型。传统分子特性预测通常依赖单一构象，但溶液中分子以构象集合存在。该模型首先利用等变图神经网络（EGNN）编码每个构象，再通过集合聚合得到整体表示，从而更准确预测分子性质。此技术对药物发现、生物材料设计等商业领域有重要价值，通过捕捉构象灵活性提升预测鲁棒性，可加速虚拟筛选和先导化合物优化，是AI驱动分子建模的创新方法。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.21561v1",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "visual-contrastive-self-distillation",
+      "label": "Visual Contrastive Self-Distillation",
+      "summary": "该论文提出视觉对比自蒸馏方法，针对在线策略自蒸馏（OPSD）中教师与学生之间信息不对称的问题进行优化。OPSD通过移除外部教师模型实现自监督学习，但需要确保自教师比学生提供更强的学习信号。论文通过引入对比学习机制，增强自教师与学生的差异，从而提升视觉模型的表征学习能力。这一技术可降低对大型预训练教师的依赖，减少训练成本，适用于图像识别、目标检测等视觉任务，具有提升模型效率与精度的商业价值。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.21556v1",
       "date": "2026-07-24"
     },
     {
@@ -243,6 +375,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49024620",
+      "date": "2026-07-24"
+    },
+    {
+      "id": "unsupervised-consensus-based-anomaly-detection-for-spatiotemporal-malaria-incide",
+      "label": "Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incide",
+      "summary": "该论文提出了一种基于共识的异常检测框架，应用于加纳2014-2023年的月度疟疾监测数据，以识别非典型传播模式。研究发现异常在时空上高度结构化，阿散蒂和北部区域是最主要的持续热点。技术要点为无监督共识方法整合多个检测器提升鲁棒性；商业价值在于支持公共卫生资源精准分配；产品创新表现为可复用的异常检测模块，适用于流行病监控系统。",
+      "pm_score": 0.375,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.21559v1",
       "date": "2026-07-24"
     },
     {
@@ -291,7 +434,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 5130,
-    "edges": 5462
+    "real_nodes": 5190,
+    "edges": 5525
   }
 }

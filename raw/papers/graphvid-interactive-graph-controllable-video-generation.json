@@ -1,0 +1,33 @@
+{
+  "title": "GraphVid: Interactive Graph-Controllable Video Generation",
+  "summary": "Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movement. In practice, trajectory-based control often requires users to draw accurate tracks for multiple objects, which scales poorly with scene complexity and becomes ambiguous under occlusion or overlap. To enable flexible yet precise multi-subject control, we introduce $\\textbf{GraphVid}$, a graph-conditioned image-to-video generation model that enables interactive control through structured interaction graphs. We further curate $\\textbf{GraphVid-Bench}$, a large-scale interaction-centric video dataset with structured relational annotations to enable training of interaction-aware video generation models. Despite using substantially less training data and fewer trainable parameters than prior motion-control methods, GraphVid delivers strong controllability and video quality. Compared with Motion-I2V, GraphVid reduces FID by up to 39.9% and FVD by 37.6%, while improving PSNR (9.87=>15.98) and SSIM (0.38=>0.61). Our results highlight the potential of structured semantic interfaces as a powerful paradigm for controllable video generation.",
+  "url": "http://arxiv.org/abs/2607.21580v1",
+  "authors": [
+    "Vedant Shah",
+    "Onkar Susladkar",
+    "Tushar Prakash",
+    "Kiet Nguyen",
+    "Tianjio Yu"
+  ],
+  "published": "2026-07-23T17:56:30Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "video generation",
+    "training",
+    "parameter",
+    "dataset"
+  ],
+  "summary_cn": "GraphVid 提出了一种基于图结构控制视频生成的新方法，允许用户通过交互式图来精确指定多对象之间的时空关系和运动轨迹，克服了文本提示模糊和传统轨迹控制需精确绘制的痛点。该技术可显著降低视频创作门槛，在内容生成、游戏动画、影视后期等场景具有商业价值，产品创新在于将图作为直观的控制接口，实现细粒度多目标交互生成。",
+  "pm_relevance": 8,
+  "concepts": [
+    "图控制视频生成",
+    "交互式控制",
+    "多对象时空关系"
+  ],
+  "entities": [],
+  "patterns": [
+    "图驱动生成",
+    "交互式控制模式"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$",
+  "summary": "Barzilai--Borwein (BB) method has shown strong practical performance in continuous optimization, yet its convergence dynamics remains poorly understood. In particular, a central unresolved question is whether BB converges superlinearly for almost every strictly convex quadratic problem and initialization. We provide a negative answer to this question. Specifically, for every finite dimension $n\\geq4$, we construct a nonempty open, hence positive-Lebesgue-measure, family of strictly convex quadratic problems and initial points for which the long Barzilai--Borwein method (BB1) converges but cannot converge root-superlinearly. More precisely, with the explicit constants $ρ_{\\min}=10^{-6},ρ_{\\max}=0.61$, every spectral component of the gradient is bounded above and below by the corresponding geometric sequence. Consequently, the gradient norm and the energy norm of the error satisfy two-sided geometric estimates with the same rates, while the objective gap satisfies the corresponding estimates with squared rates. In particular, all three quantities are bounded below by geometric sequences, ruling out superlinear convergence. The construction is highly nontrivial, based on a computer-assisted proof of a nonresonant, attracting seven-cycle of the projectivized BB dynamics in dimension four.",
+  "url": "http://arxiv.org/abs/2607.21579v1",
+  "authors": [
+    "Dawei Li",
+    "Xiaotian Jiang",
+    "Mingyi Hong"
+  ],
+  "published": "2026-07-23T17:56:05Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "gradient",
+    "optimization"
+  ],
+  "summary_cn": "该论文研究了Barzilai-Borwein（BB）方法在连续优化中的收敛性。BB方法虽在实际中表现优异，但其理论基础薄弱，尤其对于严格凸二次问题及初始化是否几乎总能实现超线性收敛这一核心问题，至今未解。论文证明：当维度n≥4时，存在一个开集的二次型函数集，使得BB方法无法实现超线性收敛。这一发现揭示了BB方法在高维优化中的局限性，对AI领域的优化算法设计具有理论指导意义，但短期内商业价值较低。",
+  "pm_relevance": 2,
+  "concepts": [
+    "Barzilai-Borwein方法",
+    "超线性收敛",
+    "二次优化"
+  ],
+  "entities": [],
+  "patterns": []
+}

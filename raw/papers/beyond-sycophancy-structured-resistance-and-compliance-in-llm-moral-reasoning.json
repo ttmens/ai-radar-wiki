@@ -1,0 +1,28 @@
+{
+  "title": "Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning",
+  "summary": "Building socially calibrated large language models, which can learn from others without simply yielding to them, requires more than reducing sycophancy as a one-dimensional failure mode. Models must distinguish when to incorporate others' perspectives from when to maintain a well-grounded moral judgment. We study the broader resistance-compliance process governing this distinction. Across three studies, we show that models' judgment revision is structured along three dimensions that parallel classic phenomena in human social psychology: the distance between an incoming view and the model's initial position, the source attribution of that view, and the coalition structure supporting it. Models are generally more receptive to nearby positions, more influenced by views presented as their own prior judgments, and differently responsive to group pressure. These findings recast sycophancy as one expression of a broader judgment-updating process shaped by social influence. Our framework provides a principled basis for distinguishing constructive belief revision from sycophantic compliance, thereby supporting better alignment in morally consequential interactions.",
+  "url": "http://arxiv.org/abs/2607.21558v1",
+  "authors": [
+    "Baihui Wang",
+    "Bernard Koch"
+  ],
+  "published": "2026-07-23T17:40:07Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision",
+    "reasoning"
+  ],
+  "summary_cn": "该论文研究了大型语言模型（LLM）在道德推理中的“奉承”现象（即一味迎合用户观点），并提出构建“社交校准”模型的方法。核心在于模型需学会区分何时采纳他人意见、何时坚持自身有根据的道德判断，而不仅仅是减少奉承行为。这为AI产品经理提供了设计更可靠、可信的AI助手的思路——通过结构化抵抗与顺从，使AI既能从用户反馈中学习，又不会被不良或错误观点带偏，从而提升产品在道德决策、个性化推荐等场景中的安全性和用户信任度。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Sycophancy",
+    "Moral Reasoning",
+    "Social Calibration"
+  ],
+  "entities": [],
+  "patterns": [
+    "Structured Resistance",
+    "Behavioral Guardrails"
+  ]
+}

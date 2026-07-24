@@ -3130,3 +3130,21 @@
 - create: runway-launches-ai-model-router-as-generative-media-gets-crowded.md
 - create: openai-makes-chatgpt-health-available-to-all-us-users.md
 - create: meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction.md
+
+## [2026-07-24 12:01] sync v3 | 16 new | pillars: {'capabilities': 15, 'ecosystem': 1}
+- create: 3d-aware-vlms-with-implicit-and-explicit-geometries.md
+- create: expanding-flow-maps.md
+- create: graphvid-interactive-graph-controllable-video-generation.md
+- create: barzilai-borwein-fails-superlinear-convergence-on-an-open-set-of-quadratics-for.md
+- create: synthetic-data-generation-framework-for-quality-control-automation-in-gravure-pr.md
+- create: beyond-sufficiency-time-series-explanation-with-counterfactual-necessity.md
+- create: graph-learning-on-ensembles-of-cyclic-peptides-an-investigation-of-molecular-ens.md
+- create: unsupervised-consensus-based-anomaly-detection-for-spatiotemporal-malaria-incide.md
+- create: beyond-sycophancy-structured-resistance-and-compliance-in-llm-moral-reasoning.md
+- create: openforgerl-train-harness-native-agents-in-any-environment.md
+- create: visual-contrastive-self-distillation.md
+- create: mirror-learning-from-the-other-view-for-multi-modal-reasoning.md
+- create: a-taxonomy-of-omnicidal-futures-involving-artificial-intelligence-2025.md
+- create: meta-garbage-collection-using-ocamls-gc-to-gc-rust.md
+- create: escape-analysis-in-go-stack-vs-heap-allocations-explained.md
+- create: how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers.md
