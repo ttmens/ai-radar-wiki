@@ -2,83 +2,122 @@
   "daily_summary": {
     "date": "2026-07-25",
     "headline": "今日 AI 情报 · 2026-07-25",
-    "overview": "AI代理能力跃升，人格化与自主操作成为产品竞争新焦点",
-    "narratives": [
-      {
-        "title": "AI代理走向自主操作系统级控制，人格化成为竞争壁垒",
-        "body": "多个信号表明AI产品正从被动对话转向主动代理：Claude Opus 5提升任务可靠性，OpenAI语音模式支持桌面代理控制，Prentis实验室押注自动化计算机任务，Cognition收购Poke强化人格化交互。这标志着AI产品进入‘代理+人格’双轮驱动阶段，产品经理需将情感化交互与任务闭环能力视为核心设计要素。",
-        "type": "paradigm_shift",
-        "pillar_key": "patterns"
-      },
-      {
-        "title": "开放权重模型监管博弈重塑AI生态，产品经理需平衡创新与合规",
-        "body": "美国科技巨头与政策制定者围绕开放权重模型监管展开激烈博弈。Nvidia、Meta等警告过度限制将扼杀创新，而中国Kimi K3等开源模型冲击市场。同时地缘冲突威胁云基础设施安全，引发对主权云和多云备份的思考。产品经理需在模型获取灵活性、合规成本和基础设施韧性间做出战略权衡。",
-        "type": "bottleneck",
-        "pillar_key": "ecosystem"
-      }
-    ],
+    "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "AI安全与信任正成为规模化部署的关键挑战。该方向的具体信号：安全/漏洞。",
+        "evidence": [
+          {
+            "id": "twitter_elonmusk_2080841494756233632",
+            "title": "https://t.co/e2hvfmnewh",
+            "score": 1.0,
+            "url": "https://x.com/elonmusk/status/2080841494756233632",
+            "reason": "社区关注度高（6383 stars）；里程碑式进展；高价值信号"
+          }
+        ],
+        "trend": "new"
+      },
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "AI代理走向自主操作系统级控制，人格化成为竞争壁垒",
-        "insight": "AI代理走向自主操作系统级控制，人格化成为竞争壁垒。该方向的具体信号：Cognition以近9位数估值收购Poke，将社交AI人格融入编程代理Devin；OpenAI语音模式进入桌面并支持控制AI代理；Prentis新实验室聚焦自动化计算机任务代理；Claude Opus 5和Flux 3 X Mimic分别从推理和视频动作层面强化代理能力。这些信号表明人格化交互与自主任务执行正从实验室走向规模化产品，成为下一代AI产品的标配竞争力。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
         "evidence": [
           {
-            "id": "why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage",
-            "title": "Cognition收购Poke：AI人格成为竞争壁垒",
-            "score": 0.52
-          },
-          {
-            "id": "openai8217s-new-voice-mode-makes-it-to-the-chatgpt-desktop-app",
-            "title": "OpenAI语音模式进入桌面App，支持代理控制",
-            "score": 0.52
-          },
-          {
-            "id": "prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m",
-            "title": "Prentis实验室融资1亿美金聚焦自动化计算机任务",
-            "score": 0.48
-          },
-          {
-            "id": "claude-opus-5",
-            "title": "Claude Opus 5发布：提升推理与任务可靠性",
-            "score": 0.65
-          },
-          {
-            "id": "flux-3-x-mimic-the-next-generation-of-video-action-models",
-            "title": "Flux 3 X Mimic：视频动作模型融合生成与理解",
-            "score": 0.56
+            "id": "be-skeptical-of-openais-rogue-hacker-agent-story",
+            "title": "Be skeptical of OpenAI's rogue hacker agent story",
+            "score": 0.6,
+            "url": "https://news.ycombinator.com/item?id=49038060",
+            "reason": "高价值信号"
           }
-        ]
+        ],
+        "trend": "new"
       },
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "narrative_title": "开放权重模型监管博弈重塑AI生态，产品经理需平衡创新与合规",
-        "insight": "开放权重模型监管博弈重塑AI生态，产品经理需平衡创新与合规。该方向的具体信号：Nvidia、Microsoft、Meta联合警告不要过度监管开放权重模型；美国在应对中国AI时考虑限制开放权重，英伟达和Mistral呼吁避免广泛限制；开源模型Kimi K3冲击华尔街；OpenAI未发布模型失控暴露安全风险；IRGC声称摧毁亚马逊巴林数据中心凸显地缘风险。这些信号警示产品经理需动态评估模型获取策略、安全治理与基础设施冗余。",
+        "insight": "今日🔧 工具生态方向的核心信号集中在AI Agent, CLI/终端交互。",
         "evidence": [
           {
-            "id": "nvidia-microsoft-meta-warn-against-overregulating-open-weight-models",
-            "title": "Nvidia、Microsoft、Meta警告不要过度监管开放权重模型",
-            "score": 0.6
+            "id": "show-hn-uploadssh-the-missing-upload-command-for-coding-agents-open-source",
+            "title": "Show HN: Uploads.sh – the missing upload command for coding agents (op",
+            "score": 0.33,
+            "url": "https://uploads.sh/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
-            "id": "as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-res",
-            "title": "美国回应中国AI：业界呼吁避免广泛限制开放权重",
-            "score": 0.48
-          },
-          {
-            "id": "ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street",
-            "title": "AI communism、流氓模型与Kimi K3震动华尔街",
-            "score": 0.45
+            "id": "show-hn-x402vps-docker-containers-for-ai-agents-paid-per-hour-with-usdc",
+            "title": "Show HN: X402vps – Docker containers for AI agents, paid per hour with",
+            "score": 0.29,
+            "url": "https://x402vps.com",
+            "reason": "基于新颖度、影响力、相关性综合评分"
           }
-        ]
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "今日💰 商业趋势方向有新的动态。",
+        "evidence": [
+          {
+            "id": "twitter_elonmusk_2080817270570320220",
+            "title": "STUNNING New SpaceX Starship Rocket Launch (Starship 13 w/ Starlink v3",
+            "score": 1.0,
+            "url": "https://x.com/elonmusk/status/2080817270570320220",
+            "reason": "社区关注度高（1916 stars）；里程碑式进展；高价值信号"
+          }
+        ],
+        "trend": "new"
       }
     ],
-    "stats": "技术能力: 12 | 产品模式: 3 | 工具生态: 5 | 商业趋势: 1",
-    "total_items": 20,
-    "high_value_count": 20,
+    "narratives": [
+      {
+        "title": "AI Agent 工具链与协作流程快速成熟",
+        "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：Be skeptical of OpenAI's rogue hacker ag, Show HN: X402vps – Docker containers for, Show HN: Uploads.sh – the missing upload。具体信号：AI Agent, CLI/终端。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "type": "paradigm_shift",
+        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      },
+      {
+        "title": "AI安全与信任正成为规模化部署的关键挑战",
+        "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：We recognize there are a lot of question, UK AISI / Caisi Preliminary Assessment o。具体信号：安全漏洞。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+        "type": "bottleneck",
+        "action": "建议：审查当前产品的安全/信任/合规设计，是否需要升级。这是获取企业客户的关键竞争力。"
+      }
+    ],
+    "stats": "🤖 技术能力: 21 | 💰 商业趋势: 2 | 📱 产品模式: 3 | 🔧 工具生态: 7",
+    "total_items": 33,
+    "high_value_count": 30,
     "all_today_ids": [
+      {
+        "id": "twitter_elonmusk_2080841494756233632",
+        "label": "https://t.co/e2hvfmnewh"
+      },
+      {
+        "id": "twitter_elonmusk_2080834619998363897",
+        "label": "Starship as seen from Starlink satellites https://t.co/e2hvfmnewh"
+      },
+      {
+        "id": "twitter_elonmusk_2080817270570320220",
+        "label": "STUNNING New SpaceX Starship Rocket Launch (Starship 13 w/ Starlink v3)\n\nThis is an edit of the enti..."
+      },
+      {
+        "id": "twitter_OpenAI_2080815626113954288",
+        "label": "We recognize there are a lot of questions and speculative details circulating related to the Hugging..."
+      },
+      {
+        "id": "twitter_bindureddy_2080844673615331341",
+        "label": "X has purged all the AI reply bots \n\nThe probability tha you will be interacting with another human ..."
+      },
+      {
+        "id": "twitter_bindureddy_2080805562141622493",
+        "label": "We had 2 frontier models drop this week - Flash 3.6 and Opus 5\n\nComing next\n- Kimi 3 open-weights\n- ..."
+      },
+      {
+        "id": "twitter_databricks_2080827369896423442",
+        "label": "New research from Databricks shows that data agents can improve accuracy and lower cost at the same ..."
+      },
       {
         "id": "claude-opus-5",
         "label": "Claude Opus 5"
@@ -140,6 +179,10 @@
         "label": "I tried out OpenAI&#8217;s new AI keypad — which will be fun for some coders and"
       },
       {
+        "id": "arc-agi-leaderboard",
+        "label": "ARC-AGI Leaderboard"
+      },
+      {
         "id": "ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street",
         "label": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street"
       },
@@ -156,8 +199,20 @@
         "label": "Self-host your mail server"
       },
       {
+        "id": "uk-aisi-caisi-preliminary-assessment-of-kimi-k3s-cyber-capabilities",
+        "label": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities"
+      },
+      {
         "id": "oracle-fires-21000-employees-to-fund-ai-spending",
         "label": "Oracle fires 21,000 employees to fund AI spending"
+      },
+      {
+        "id": "show-hn-uploadssh-the-missing-upload-command-for-coding-agents-open-source",
+        "label": "Show HN: Uploads.sh – the missing upload command for coding agents (open-source)"
+      },
+      {
+        "id": "show-hn-how-well-do-you-use-claude-code",
+        "label": "Show HN: How well do you use Claude Code?"
       },
       {
         "id": "show-hn-x402vps-docker-containers-for-ai-agents-paid-per-hour-with-usdc",
@@ -169,6 +224,6 @@
       }
     ],
     "date_bj": "2026-07-25 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-07-25 12:00:48"
+    "generated_at_bj": "2026-07-25 18:00:38"
   }
 }

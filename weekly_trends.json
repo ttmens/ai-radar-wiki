@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-07-25T12:01:16.630516+08:00",
-  "days_analyzed": 78,
+  "generated_at": "2026-07-26T00:01:39.441469+08:00",
+  "days_analyzed": 79,
   "pillar_trends": {
     "capabilities": {
-      "trend": "data_missing",
-      "delta": -4,
-      "current": 0,
-      "previous": 4,
-      "has_data": false
-    },
-    "patterns": {
-      "trend": "up",
-      "delta": 4,
-      "current": 5,
+      "trend": "stable",
+      "delta": 0,
+      "current": 1,
       "previous": 1,
       "has_data": true
     },
+    "patterns": {
+      "trend": "data_missing",
+      "delta": -1,
+      "current": 0,
+      "previous": 1,
+      "has_data": false
+    },
     "ecosystem": {
-      "trend": "up",
-      "delta": 3,
-      "current": 3,
-      "previous": 0,
+      "trend": "down",
+      "delta": -1,
+      "current": 1,
+      "previous": 2,
       "has_data": true
     },
     "business": {
@@ -47,7 +47,8 @@
         "2026-07-11",
         "2026-07-14",
         "2026-07-16",
-        "2026-07-17"
+        "2026-07-17",
+        "2026-07-25"
       ],
       "instances": [
         {
@@ -335,6 +336,22 @@
               "url": "https://x.com/elonmusk/status/2077917951957643693",
               "reason": "社区关注度高（6473 stars）；高价值信号",
               "pillar": "capabilities"
+            }
+          ]
+        },
+        {
+          "date": "2026-07-25",
+          "title": "AI Agent 工具链与协作流程快速成熟",
+          "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：Be skeptical of OpenAI's rogue hacker ag, Show HN: X402vps – Docker containers for, Show HN: Uploads.sh – the missing upload。具体信号：AI Agent, CLI/终端。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "type": "paradigm_shift",
+          "evidence": [
+            {
+              "id": "be-skeptical-of-openais-rogue-hacker-agent-story",
+              "title": "Be skeptical of OpenAI's rogue hacker agent story",
+              "score": 0.6,
+              "url": "https://news.ycombinator.com/item?id=49038060",
+              "reason": "高价值信号",
+              "pillar": "patterns"
             }
           ]
         }
@@ -834,7 +851,8 @@
         "2026-06-26",
         "2026-07-08",
         "2026-07-16",
-        "2026-07-17"
+        "2026-07-17",
+        "2026-07-25"
       ],
       "instances": [
         {
@@ -986,6 +1004,22 @@
               "url": "https://news.ycombinator.com/item?id=48931588",
               "reason": "高价值信号",
               "pillar": "ecosystem"
+            }
+          ]
+        },
+        {
+          "date": "2026-07-25",
+          "title": "AI安全与信任正成为规模化部署的关键挑战",
+          "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：We recognize there are a lot of question, UK AISI / Caisi Preliminary Assessment o。具体信号：安全漏洞。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+          "type": "bottleneck",
+          "evidence": [
+            {
+              "id": "twitter_elonmusk_2080841494756233632",
+              "title": "https://t.co/e2hvfmnewh",
+              "score": 1.0,
+              "url": "https://x.com/elonmusk/status/2080841494756233632",
+              "reason": "社区关注度高（6383 stars）；里程碑式进展；高价值信号",
+              "pillar": "capabilities"
             }
           ]
         }
@@ -1236,5 +1270,5 @@
   ],
   "contradictions": [],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-07-25**（78天），累计 **1828** 条情报。 焦点领域：**🤖 技术能力**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：📱 产品模式呈上升趋势；🔧 工具生态呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-07-26**（79天），累计 **1844** 条情报。 焦点领域：**🤖 技术能力**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。"
 }

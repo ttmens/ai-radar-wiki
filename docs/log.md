@@ -3176,3 +3176,8 @@
 - create: show-hn-i-simulated-closing-the-strait-of-hormuz-on-real-oil-trade-data.md
 - create: i-tried-out-openai8217s-new-ai-keypad-which-will-be-fun-for-some-coders-and-slig.md
 - create: prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m.md
+
+## [2026-07-26 00:01] sync v3 | 6 new | pillars: {'capabilities': 5, 'patterns': 1}
+- create: partialstring-a-finite-difference-time-domain-physical-modelling-synthesiser.md
+- create: librarians-are-hosting-viral-8216avoiding-ai8217-workshops-for-people-who-are-fe.md
+- create: one-fallen-power-line-exposed-a-growing-ai-data-center-problem-here8217s-how-to.md

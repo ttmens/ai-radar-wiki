@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-25 | Total pages: 2954
+> Last updated: 2026-07-26 | Total pages: 2961
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -133,6 +133,7 @@
 - [[apples-new-speechanalyzer-api-benchmarked-against-whisper-and-its-predecessor.md]] Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor `pillar:capabilities` `score:0.6`
 - [[apples-siri-revamp-could-include-auto-deleting-chats.md]] Apple’s Siri revamp could include auto-deleting chats `pillar:capabilities` `score:0.48`
 - [[applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire.md]] Applied Computing wants to give oil and gas operators an AI model for the entire `pillar:capabilities` `score:0.48`
+- [[arc-agi-leaderboard.md]] ARC-AGI Leaderboard `pillar:capabilities` `score:0.445`
 - [[are-ai-labs-pelicanmaxxing.md]] Are AI Labs Pelicanmaxxing? `pillar:capabilities` `score:0.565`
 - [[are-we-offloading-too-much-of-our-thinking-to-ai.md]] Are we offloading too much of our thinking to AI? `pillar:capabilities` `score:0.43`
 - [[arena-ai-model-elo-history.md]] Arena AI Model ELO History `pillar:capabilities` `score:0.465`
@@ -647,6 +648,7 @@
 - [[oxcaml-in-space.md]] O(x)Caml in Space `pillar:capabilities` `score:0.275`
 - [[paddlepaddlepaddle.md]] PaddlePaddle/Paddle `pillar:capabilities` `score:0.615`
 - [[painting-the-sides-of-railroad-rails-white-to-reduce-derailment.md]] Painting the sides of railroad rails white to reduce derailment `pillar:capabilities` `score:0.395`
+- [[partialstring-a-finite-difference-time-domain-physical-modelling-synthesiser.md]] PartialString – A finite-difference time-domain physical modelling synthesiser `pillar:capabilities` `score:0.26`
 - [[passkeys-were-invented-by-engineers-with-zero-understanding-of-consumer-brain.md]] Passkeys were invented by engineers with zero understanding of consumer brain `pillar:capabilities` `score:0.63`
 - [[petals-run-llms-at-home-bittorrent-style.md]] Petals: Run LLMs at home, BitTorrent-style `pillar:capabilities` `score:0.43`
 - [[pinterest-launches-an-experimental-ai-shopping-app-called-8216ask-pinterest8217.md]] Pinterest launches an experimental AI shopping app called &#8216;Ask Pinterest&# `pillar:capabilities` `score:0.48`
@@ -773,6 +775,7 @@
 - [[show-hn-hackers-for-granny-defense-against-industrialized-elder-fraud.md]] Show HN: Hackers for Granny (defense against industrialized elder fraud) `pillar:capabilities` `score:0.33`
 - [[show-hn-helios-what-plug-in-solar-could-generate-for-any-address-in-britain.md]] Show HN: Helios – what plug-in solar could generate for any address in Britain `pillar:capabilities` `score:0.345`
 - [[show-hn-high-res-neural-cellular-automata.md]] Show HN: High-Res Neural Cellular Automata `pillar:capabilities` `score:0.48`
+- [[show-hn-how-well-do-you-use-claude-code.md]] Show HN: How well do you use Claude Code? `pillar:capabilities` `score:0.295`
 - [[show-hn-i-built-184-free-browser-tools-pdf-image-dev-ai-tasks-no-upload.md]] Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload `pillar:capabilities` `score:0.31`
 - [[show-hn-i-built-a-hardware-quantum-rng-and-wired-it-into-a-magic-8-ball.md]] Show HN: I built a hardware quantum RNG and wired it into a Magic 8-Ball `pillar:capabilities` `score:0.26`
 - [[show-hn-i-built-a-tool-to-auto-accept-ai-slop-and-bigtech-devs-loves-it.md]] Show HN: I built a tool to auto-accept AI slop and bigtech devs loves it `pillar:capabilities` `score:0.295`
@@ -977,6 +980,7 @@
 - [[u-of-t-researchers-demonstrate-ai-worm-could-target-any-online-device.md]] U of T researchers demonstrate AI worm could target any online device `pillar:capabilities` `score:0.295`
 - [[ubisoft-co-founder-claude-guillemot-has-died-in-a-plane-crash.md]] Ubisoft co-founder Claude Guillemot has died in a plane crash `pillar:capabilities` `score:0.085`
 - [[uhf-x11-x11-built-for-visionos-and-apple-vision-pro.md]] UHF X11: X11 Built for VisionOS and Apple Vision Pro `pillar:capabilities` `score:0.36`
+- [[uk-aisi-caisi-preliminary-assessment-of-kimi-k3s-cyber-capabilities.md]] UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities `pillar:capabilities` `score:0.345`
 - [[uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases.md]] UK media fails to disclose defence sector links in nearly 60% of cases `pillar:capabilities` `score:0.36`
 - [[uk-sovereign-llm-inference.md]] UK sovereign LLM inference `pillar:capabilities` `score:0.445`
 - [[ultrafast-machine-learning-on-fpgas-via-kolmogorov-arnold-networks.md]] Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks `pillar:capabilities` `score:0.395`
@@ -2247,6 +2251,7 @@
 - [[langfuselangfuse.md]] langfuse/langfuse `pillar:ecosystem` `score:0.615`
 - [[launch-hn-traceforce-yc-s26-company-wide-security-monitoring-for-ai-apps.md]] Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps `pillar:ecosystem` `score:0.33`
 - [[learnings-from-100k-lines-of-rust-with-ai-2025.md]] Learnings from 100K lines of Rust with AI (2025) `pillar:ecosystem` `score:0.515`
+- [[librarians-are-hosting-viral-8216avoiding-ai8217-workshops-for-people-who-are-fe.md]] Librarians are hosting viral &#8216;Avoiding AI&#8217; workshops for people who `pillar:ecosystem` `score:0.445`
 - [[linux-security-mailing-list-almost-unmanageable.md]] Linux security mailing list 'almost unmanageable' `pillar:ecosystem` `score:0.495`
 - [[llmorphism-when-humans-come-to-see-themselves-as.md]] LLMorphism: When humans come to see themselves as language models `pillar:ecosystem` `score:0.43`
 - [[lorde-says-ai-glasses-are-8216not-sexy8217.md]] Lorde says AI glasses are &#8216;not sexy&#8217; `pillar:ecosystem` `score:0.445`
@@ -2291,6 +2296,7 @@
 - [[ocaml-onboarding-introduction-to-the-dune-build-system.md]] OCaml Onboarding: Introduction to the Dune build system `pillar:ecosystem` `score:0.255`
 - [[odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse.md]] ‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’ `pillar:ecosystem` `score:0.41`
 - [[ollamaollama.md]] ollama/ollama `pillar:ecosystem` `score:0.615`
+- [[one-fallen-power-line-exposed-a-growing-ai-data-center-problem-here8217s-how-to.md]] One fallen power line exposed a growing AI data center problem. Here&#8217;s how `pillar:ecosystem` `score:0.48`
 - [[only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-n.md]] Only 16 percent of Americans think AI will have a positive impact on society, a `pillar:ecosystem` `score:0.445`
 - [[onnxonnx.md]] onnx/onnx `pillar:ecosystem` `score:0.615`
 - [[open-repair-data-standard-open-repair-alliance.md]] Open Repair Data Standard – Open Repair Alliance `pillar:ecosystem` `score:0.345`
@@ -2369,6 +2375,7 @@
 - [[show-hn-script-to-bulk-delete-claude-chats-from-the-web-ui.md]] Show HN: Script to bulk delete Claude chats from the web UI `pillar:ecosystem` `score:0.295`
 - [[show-hn-sx-an-open-source-package-manager-for-ai-skills-mcps-and-commands.md]] Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands `pillar:ecosystem` `score:0.33`
 - [[show-hn-torrix-self-hosted-llm-observabilityn.md]] Show HN: Torrix, self hosted, LLM Observability,(no Postgres, no Redis) `pillar:ecosystem` `score:0.155`
+- [[show-hn-uploadssh-the-missing-upload-command-for-coding-agents-open-source.md]] Show HN: Uploads.sh – the missing upload command for coding agents (open-source) `pillar:ecosystem` `score:0.33`
 - [[show-hn-x402vps-docker-containers-for-ai-agents-paid-per-hour-with-usdc.md]] Show HN: X402vps – Docker containers for AI agents, paid per hour with USDC `pillar:ecosystem` `score:0.295`
 - [[silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-p.md]] Silicon Valley’s vacationland needs a new energy provider just as AI is driving `pillar:ecosystem` `score:0.445`
 - [[sixty-percent-of-us-consumers-say-8216ai8217-in-brand-messaging-is-a-turnoff-sur.md]] Sixty percent of US consumers say &#8216;AI&#8217; in brand messaging is a turno `pillar:ecosystem` `score:0.48`
