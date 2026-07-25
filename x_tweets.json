@@ -1,8 +1,116 @@
 {
-  "fetched_at": "2026-07-24T21:00:31.345031",
+  "fetched_at": "2026-07-25T09:07:22.562929",
   "source": "twitter-cli",
   "data": {
     "sama": [
+      {
+        "id": "2080354753473835461",
+        "text": "A billion users can now create and publish websites from their phones with ChatGPT Work. \n\nBut most people don’t really grasp the full extent of the capabilities here. From your phone, you also have access to:\n\n- Cloud computer (15 GB RAM)\n- Persistent workspace & files\n- Terminal and code execution\n- Remote browser\n- Connected plugins (Slack, Gmail, GitHub, etc.)\n- All your personal finances, transactions, bank statements\n- Scheduled tasks\n- Git clone & PR creation\n- Build & deploy websites\n- Create docs, sheets, and slides\n- Inbox/calendar summarization\n- Website monitoring & alerts\n\nAll at your fingertips, using a simple chat interface, no laptop required. \n\nAll you have to do is switch to the Work tab on your ChatGPT app.",
+        "author": {
+          "id": "3787342814",
+          "name": "pash",
+          "screenName": "pashmerepat",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2013776094382694400/nNX1AW2l_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 929,
+          "retweets": 89,
+          "replies": 54,
+          "quotes": 13,
+          "views": 231010,
+          "bookmarks": 806
+        },
+        "createdAt": "Thu Jul 23 18:09:59 +0000 2026",
+        "createdAtLocal": "2026-07-24 02:09",
+        "createdAtISO": "2026-07-23T18:09:59+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "sama",
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2080348892294721803",
+          "text": "https://t.co/NFas4ghgqD",
+          "author": {
+            "screenName": "nickbaumann_",
+            "name": "Nick"
+          }
+        }
+      },
+      {
+        "id": "2080683363174945065",
+        "text": "i want the US to win in AI both in open source and proprietary models, and i am glad to see this",
+        "author": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screenName": "sama",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 9873,
+          "retweets": 619,
+          "replies": 1568,
+          "quotes": 394,
+          "views": 1897977,
+          "bookmarks": 876
+        },
+        "createdAt": "Fri Jul 24 15:55:45 +0000 2026",
+        "createdAtLocal": "2026-07-24 23:55",
+        "createdAtISO": "2026-07-24T15:55:45+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2080643682408321103",
+          "text": "For my first post, I’m sharing a letter @NVIDIA signed on why open models matter.\n\nAI will transform every industry, power every company, and be built by every country.\n\nOpen models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty.\n\nThe world needs both frontier closed models and frontier open models.\n\nhttps://t.co/AUKzoQ5Ikb",
+          "author": {
+            "screenName": "JensenHuang",
+            "name": "Jensen Huang"
+          }
+        }
+      },
+      {
+        "id": "2080683119959757243",
+        "text": "let us know what you think of pro-ultra-superhard",
+        "author": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screenName": "sama",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 2791,
+          "retweets": 78,
+          "replies": 406,
+          "quotes": 37,
+          "views": 498836,
+          "bookmarks": 281
+        },
+        "createdAt": "Fri Jul 24 15:54:47 +0000 2026",
+        "createdAtLocal": "2026-07-24 23:54",
+        "createdAtISO": "2026-07-24T15:54:47+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2080515937803886872",
+          "text": "Agreed: GPT-5.6 Pro (which is only available via the chatbot) is the smartest model out there. GPT-5.6 Ultra (the best model in Codex) is not near as powerful on hard tasks.\n\nFor really hard problems: GPT-5.6 Sol Pro&gt;Fable 5 Ultracode &gt; GPT-5.6 Sol Ultra. (Yes, this is confusing)",
+          "author": {
+            "screenName": "emollick",
+            "name": "Ethan Mollick"
+          }
+        }
+      },
       {
         "id": "2080179310204461545",
         "text": "already in bed. couldn’t remember if my laptop was plugged in.\nasked codex.\ngood night https://t.co/aFB56IHpkI",
@@ -14,12 +122,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 5204,
-          "retweets": 74,
-          "replies": 148,
-          "quotes": 26,
-          "views": 714823,
-          "bookmarks": 455
+          "likes": 6404,
+          "retweets": 90,
+          "replies": 163,
+          "quotes": 35,
+          "views": 877127,
+          "bookmarks": 538
         },
         "createdAt": "Thu Jul 23 06:32:50 +0000 2026",
         "createdAtLocal": "2026-07-23 14:32",
@@ -49,12 +157,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 575,
-          "retweets": 44,
-          "replies": 76,
-          "quotes": 13,
-          "views": 111871,
-          "bookmarks": 101
+          "likes": 645,
+          "retweets": 52,
+          "replies": 81,
+          "quotes": 15,
+          "views": 133739,
+          "bookmarks": 116
         },
         "createdAt": "Thu Jul 23 17:24:29 +0000 2026",
         "createdAtLocal": "2026-07-24 01:24",
@@ -72,107 +180,6 @@
         "retweetedBy": "sama",
         "lang": "en",
         "score": null
-      },
-      {
-        "id": "2080378182469857576",
-        "text": "ChatGPT Voice is now in the desktop app.\n\nControl your computer and direct multiple agents running  in ChatGPT Work or Codex, using just your voice. \n\nIt's powered by GPT-Live, so it can speak, listen, and coordinate work in the app at the same time.\n\nRolling out globally today on macOS and Windows to Plus, Pro, Business, Edu, and Enterprise plans.",
-        "author": {
-          "id": "4398626122",
-          "name": "OpenAI",
-          "screenName": "OpenAI",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 11124,
-          "retweets": 1189,
-          "replies": 950,
-          "quotes": 1039,
-          "views": 2806699,
-          "bookmarks": 2896
-        },
-        "createdAt": "Thu Jul 23 19:43:04 +0000 2026",
-        "createdAtLocal": "2026-07-24 03:43",
-        "createdAtISO": "2026-07-23T19:43:04+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2080377021914656768/vid/avc1/3840x2160/u609w1IpkSAJQESD.mp4?tag=29",
-            "width": 3840,
-            "height": 2160
-          }
-        ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "sama",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2079661132302995790",
-        "text": "we had a significant security incident during evaluation of our models. we are sharing what we have learned so far. thanks to @huggingface for the partnership on this.\n\nhttps://t.co/2o2VfR6PIa",
-        "author": {
-          "id": "1605",
-          "name": "Sam Altman",
-          "screenName": "sama",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 17373,
-          "retweets": 2082,
-          "replies": 2142,
-          "quotes": 2194,
-          "views": 9841293,
-          "bookmarks": 6569
-        },
-        "createdAt": "Tue Jul 21 20:13:46 +0000 2026",
-        "createdAtLocal": "2026-07-22 04:13",
-        "createdAtISO": "2026-07-21T20:13:46+00:00",
-        "media": [],
-        "urls": [
-          "https://openai.com/index/hugging-face-model-evaluation-security-incident/"
-        ],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2079258683884917013",
-        "text": "it is good now!",
-        "author": {
-          "id": "1605",
-          "name": "Sam Altman",
-          "screenName": "sama",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 3495,
-          "retweets": 161,
-          "replies": 574,
-          "quotes": 24,
-          "views": 865862,
-          "bookmarks": 278
-        },
-        "createdAt": "Mon Jul 20 17:34:35 +0000 2026",
-        "createdAtLocal": "2026-07-21 01:34",
-        "createdAtISO": "2026-07-20T17:34:35+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2079199143868960823",
-          "text": "throughout june we rolled out major updates to chatgpt memory \n\nit can be hard to tell the difference initially  \n\nbut alot of folks are clearly feeling the improvements now https://t.co/KkzOE9rGIW",
-          "author": {
-            "screenName": "_samirism",
-            "name": "samir"
-          }
-        }
       }
     ],
     "karpathy": [
@@ -187,12 +194,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 47874,
-          "retweets": 3961,
-          "replies": 2290,
-          "quotes": 1380,
-          "views": 3654190,
-          "bookmarks": 14598
+          "likes": 47937,
+          "retweets": 3969,
+          "replies": 2299,
+          "quotes": 1384,
+          "views": 3682191,
+          "bookmarks": 14618
         },
         "createdAt": "Tue Jul 21 16:53:55 +0000 2026",
         "createdAtLocal": "2026-07-22 00:53",
@@ -215,12 +222,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8846,
-          "retweets": 1087,
+          "likes": 8849,
+          "retweets": 1089,
           "replies": 453,
           "quotes": 577,
-          "views": 3677569,
-          "bookmarks": 5120
+          "views": 3682833,
+          "bookmarks": 5117
         },
         "createdAt": "Wed Jul 08 21:47:29 +0000 2026",
         "createdAtLocal": "2026-07-09 05:47",
@@ -245,12 +252,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1628,
+          "likes": 1629,
           "retweets": 158,
           "replies": 80,
           "quotes": 18,
-          "views": 504862,
-          "bookmarks": 2472
+          "views": 506390,
+          "bookmarks": 2473
         },
         "createdAt": "Fri Jul 03 14:12:03 +0000 2026",
         "createdAtLocal": "2026-07-03 22:12",
@@ -275,12 +282,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 9748,
+          "likes": 9760,
           "retweets": 939,
           "replies": 650,
           "quotes": 604,
-          "views": 6437797,
-          "bookmarks": 3762
+          "views": 6458087,
+          "bookmarks": 3765
         },
         "createdAt": "Tue Jun 30 15:00:09 +0000 2026",
         "createdAtLocal": "2026-06-30 23:00",
@@ -310,11 +317,11 @@
           "verified": false
         },
         "metrics": {
-          "likes": 1938,
-          "retweets": 245,
+          "likes": 1937,
+          "retweets": 246,
           "replies": 183,
           "quotes": 160,
-          "views": 1882773,
+          "views": 1884259,
           "bookmarks": 1262
         },
         "createdAt": "Tue Jun 23 17:01:29 +0000 2026",
@@ -343,12 +350,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 7180,
-          "retweets": 1003,
-          "replies": 321,
-          "quotes": 132,
-          "views": 556418,
-          "bookmarks": 7547
+          "likes": 8396,
+          "retweets": 1193,
+          "replies": 377,
+          "quotes": 175,
+          "views": 747710,
+          "bookmarks": 8880
         },
         "createdAt": "Thu Jul 23 16:45:32 +0000 2026",
         "createdAtLocal": "2026-07-24 00:45",
@@ -378,12 +385,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1188,
-          "retweets": 122,
+          "likes": 1195,
+          "retweets": 123,
           "replies": 97,
           "quotes": 11,
-          "views": 133548,
-          "bookmarks": 796
+          "views": 134399,
+          "bookmarks": 799
         },
         "createdAt": "Fri Jul 17 15:47:30 +0000 2026",
         "createdAtLocal": "2026-07-17 23:47",
@@ -413,11 +420,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 288,
+          "likes": 289,
           "retweets": 46,
           "replies": 81,
           "quotes": 6,
-          "views": 102577,
+          "views": 103274,
           "bookmarks": 59
         },
         "createdAt": "Thu Jul 09 17:31:17 +0000 2026",
@@ -449,12 +456,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8471,
-          "retweets": 1632,
+          "likes": 8476,
+          "retweets": 1633,
           "replies": 397,
           "quotes": 179,
-          "views": 655636,
-          "bookmarks": 10286
+          "views": 656273,
+          "bookmarks": 10289
         },
         "createdAt": "Tue Jun 30 16:04:04 +0000 2026",
         "createdAtLocal": "2026-07-01 00:04",
@@ -488,7 +495,7 @@
           "retweets": 288,
           "replies": 177,
           "quotes": 61,
-          "views": 167631,
+          "views": 167892,
           "bookmarks": 401
         },
         "createdAt": "Fri Jun 19 18:34:23 +0000 2026",
@@ -521,12 +528,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 306,
-          "retweets": 13,
-          "replies": 24,
-          "quotes": 1,
-          "views": 44178,
-          "bookmarks": 28
+          "likes": 900,
+          "retweets": 35,
+          "replies": 58,
+          "quotes": 2,
+          "views": 106185,
+          "bookmarks": 48
         },
         "createdAt": "Fri Jul 24 09:37:29 +0000 2026",
         "createdAtLocal": "2026-07-24 17:37",
@@ -557,12 +564,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 427,
-          "retweets": 58,
-          "replies": 8,
-          "quotes": 1,
-          "views": 30836,
-          "bookmarks": 578
+          "likes": 612,
+          "retweets": 83,
+          "replies": 11,
+          "quotes": 2,
+          "views": 46349,
+          "bookmarks": 832
         },
         "createdAt": "Thu Jul 23 14:00:33 +0000 2026",
         "createdAtLocal": "2026-07-23 22:00",
@@ -592,12 +599,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 19768,
-          "retweets": 1637,
-          "replies": 145,
-          "quotes": 58,
-          "views": 866560,
-          "bookmarks": 1092
+          "likes": 23729,
+          "retweets": 1932,
+          "replies": 172,
+          "quotes": 74,
+          "views": 1091687,
+          "bookmarks": 1344
         },
         "createdAt": "Thu Jul 23 16:09:10 +0000 2026",
         "createdAtLocal": "2026-07-24 00:09",
@@ -635,12 +642,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 2222,
-          "retweets": 284,
-          "replies": 76,
-          "quotes": 23,
-          "views": 82250,
-          "bookmarks": 151
+          "likes": 3033,
+          "retweets": 364,
+          "replies": 99,
+          "quotes": 31,
+          "views": 111126,
+          "bookmarks": 205
         },
         "createdAt": "Thu Jul 23 17:26:41 +0000 2026",
         "createdAtLocal": "2026-07-24 01:26",
@@ -663,12 +670,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 67,
-          "retweets": 16,
-          "replies": 8,
-          "quotes": 6,
-          "views": 26849,
-          "bookmarks": 17
+          "likes": 96,
+          "retweets": 24,
+          "replies": 9,
+          "quotes": 7,
+          "views": 47628,
+          "bookmarks": 23
         },
         "createdAt": "Thu Jul 23 13:45:27 +0000 2026",
         "createdAtLocal": "2026-07-23 21:45",
@@ -685,87 +692,49 @@
     ],
     "elonmusk": [
       {
-        "id": "2080342038113890604",
-        "text": "CAISI’s latest report shows that Kimi K3 remains behind America’s leading frontier AI models.\n\nThe United States continues to lead in frontier AI because we’re home to the greatest innovators and technologists the world has ever seen.",
+        "id": "2080765208000155882",
+        "text": "Our view of Starbase from space!  Here's to a successful launch.  Send it! https://t.co/Yk0i9exLmZ",
         "author": {
-          "id": "1393335583834091521",
-          "name": "Howard Lutnick",
-          "screenName": "howardlutnick",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1896561637378658305/nMYi5wIf_normal.jpg",
+          "id": "1456357980216066048",
+          "name": "Anil Menon",
+          "screenName": "astro_anil",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2052785413719212034/9NTTJaza_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 2082,
-          "retweets": 286,
-          "replies": 289,
-          "quotes": 33,
-          "views": 1048203,
-          "bookmarks": 144
+          "likes": 2075,
+          "retweets": 215,
+          "replies": 77,
+          "quotes": 16,
+          "views": 59679,
+          "bookmarks": 85
         },
-        "createdAt": "Thu Jul 23 17:19:27 +0000 2026",
-        "createdAtLocal": "2026-07-24 01:19",
-        "createdAtISO": "2026-07-23T17:19:27+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2080341953086886387",
-          "text": "CAISI’s latest blog post evaluates Kimi K3 and its cyber capabilities.\n\nBased on a preliminary cyber-focused evaluation, Kimi K3 performed significantly below the leading U.S. frontier AI models.\n\nhttps://t.co/r9K3Pp0IiH",
-          "author": {
-            "screenName": "CommerceGov",
-            "name": "U.S. Department of Commerce"
-          }
-        }
-      },
-      {
-        "id": "2080507561447743915",
-        "text": "A guy followed a mother around with his camera while she tried to get away from him and told her to say “nigger” over and over, and when she finally does it that’s apparently a crime. Completely absurd and unacceptable. She must appeal and we must fund it. No magic word crimes. https://t.co/xjQttqxZSw",
-        "author": {
-          "id": "1805961360687415296",
-          "name": "Hunter Ash",
-          "screenName": "ArtemisConsort",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1988022644302823425/Pj3FlroP_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 6813,
-          "retweets": 823,
-          "replies": 191,
-          "quotes": 17,
-          "views": 522232,
-          "bookmarks": 196
-        },
-        "createdAt": "Fri Jul 24 04:17:11 +0000 2026",
-        "createdAtLocal": "2026-07-24 12:17",
-        "createdAtISO": "2026-07-24T04:17:11+00:00",
+        "createdAt": "Fri Jul 24 21:20:58 +0000 2026",
+        "createdAtLocal": "2026-07-25 05:20",
+        "createdAtISO": "2026-07-24T21:20:58+00:00",
         "media": [
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HN9ymg0bIAAQ2xI.jpg",
-            "width": 828,
-            "height": 534
+            "url": "https://pbs.twimg.com/media/HOBc6-XW0AA_82d.jpg",
+            "width": 2072,
+            "height": 1397
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HOBc6-eW8AAMYM6.jpg",
+            "width": 4096,
+            "height": 2731
           }
         ],
         "urls": [],
         "isRetweet": true,
         "retweetedBy": "elonmusk",
         "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2080504804439175606",
-          "text": "Shiloh verdict.\n\nDisorderly conduct \n\nCount 1 towards the child: not guilty \n\nCount 2 towards the videographer: guilty",
-          "author": {
-            "screenName": "Tomhennessey69",
-            "name": "Tom Hennessy"
-          }
-        }
+        "score": null
       },
       {
-        "id": "2080568307678085122",
-        "text": "Soon, this will happen to your town",
+        "id": "2080817350069084561",
+        "text": "Latest heat shield design looks great!",
         "author": {
           "id": "44196397",
           "name": "Elon Musk",
@@ -774,16 +743,16 @@
           "verified": true
         },
         "metrics": {
-          "likes": 10068,
-          "retweets": 1926,
-          "replies": 904,
-          "quotes": 48,
-          "views": 2728837,
-          "bookmarks": 339
+          "likes": 4472,
+          "retweets": 476,
+          "replies": 620,
+          "quotes": 28,
+          "views": 538544,
+          "bookmarks": 136
         },
-        "createdAt": "Fri Jul 24 08:18:34 +0000 2026",
-        "createdAtLocal": "2026-07-24 16:18",
-        "createdAtISO": "2026-07-24T08:18:34+00:00",
+        "createdAt": "Sat Jul 25 00:48:10 +0000 2026",
+        "createdAtLocal": "2026-07-25 08:48",
+        "createdAtISO": "2026-07-25T00:48:10+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -791,77 +760,129 @@
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2080547025696018905",
-          "text": "Residents of Piddington, a small English village of just 370 people, are pushing for a symbolic referendum on independence from the United Kingdom after the Labour government announced plans to house up to 1,250 male asylum seekers at a military base beside the community.\n\nThe proposed center at Bicester Garrison in Oxfordshire could hold more than three times Piddington’s population and may begin operating by the end of 2026. Residents say they were informed only after the plan was already largely decided and fear the impact on local security, infrastructure, and public services.\n\nOn July 4th, coinciding with the 250th anniversary of American independence, villagers held a preliminary vote on whether to organize an independence referendum. Of those who voted, 96% backed the proposal, with 175 votes in favor and seven against.\n\nBicester is one of three military sites selected to accommodate around 3,750 asylum seekers. The others are RAF Linton-on-Ouse in North Yorkshire and RAF Barnham in Suffolk, where residents have also protested.\n\nThe government also plans to expand existing centers at Wethersfield in Essex and Crowborough in Sussex, adding space for another 1,750 people as it seeks to reduce the use of asylum hotels before the end of the parliamentary term.",
+          "id": "2080807157247652151",
+          "text": "SpaceX Starship Heat Shield Comparison Between Flights 10-13. \n\nIt’s getting better every time. This is what progress looks like. 🦾 https://t.co/2BzANY9BoL",
           "author": {
-            "screenName": "visegrad24",
-            "name": "Visegrád 24"
+            "screenName": "niccruzpatane",
+            "name": "Nic Cruz Patane"
           }
         }
       },
       {
-        "id": "2080567916857004131",
-        "text": "My pronouns are …",
+        "id": "2080789134441144732",
+        "text": "Tesla Diner live-streaming Starship Test Flight 13 on their large screens! @SpaceX @tesla_na https://t.co/JRlORz7Jm3",
         "author": {
-          "id": "44196397",
-          "name": "Elon Musk",
-          "screenName": "elonmusk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "id": "988975103785365504",
+          "name": "Zack",
+          "screenName": "BLKMDL3",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1840505155483295744/mIaga0o3_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 13611,
-          "retweets": 1381,
-          "replies": 1138,
-          "quotes": 71,
-          "views": 2863949,
-          "bookmarks": 401
-        },
-        "createdAt": "Fri Jul 24 08:17:01 +0000 2026",
-        "createdAtLocal": "2026-07-24 16:17",
-        "createdAtISO": "2026-07-24T08:17:01+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2080399219693642238",
-          "text": "My committee combed through millions of COVID documents, and what did we find? \n\nAnthony Fauci destroyed records. He told others to delete emails. And then he told them to delete them from deleted files. \n\nHe and his allies privately doubted the \"implausible\" line on a lab leak while publicly attacking anyone who raised it. \n\nAnd he never took responsibility for funding dangerous research in China.\n\nNext week, Dr. Fauci goes under oath in front of my committee, and he’s going to answer for everything we’ve found.",
-          "author": {
-            "screenName": "RandPaul",
-            "name": "Rand Paul"
-          }
-        }
-      },
-      {
-        "id": "2080337698758242471",
-        "text": "I’ve arrived in Manchester. I’m out tomorrow with Restore Britain and their candidate Marlon West. \n\nBe great to see you all! @RestoreBritain https://t.co/8rQzlYWgPN",
-        "author": {
-          "id": "3433128945",
-          "name": "S A M M Y Woodhouse",
-          "screenName": "officialsammyuk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2056054890430922752/BIaPpkeY_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 6464,
-          "retweets": 906,
-          "replies": 198,
+          "likes": 3209,
+          "retweets": 299,
+          "replies": 156,
           "quotes": 15,
-          "views": 234363,
-          "bookmarks": 49
+          "views": 136277,
+          "bookmarks": 98
         },
-        "createdAt": "Thu Jul 23 17:02:12 +0000 2026",
-        "createdAtLocal": "2026-07-24 01:02",
-        "createdAtISO": "2026-07-23T17:02:12+00:00",
+        "createdAt": "Fri Jul 24 22:56:03 +0000 2026",
+        "createdAtLocal": "2026-07-25 06:56",
+        "createdAtISO": "2026-07-24T22:56:03+00:00",
         "media": [
           {
             "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2080337558500732929/vid/avc1/1080x1920/1zyp8oY6u3RE0sv_.mp4?tag=29",
-            "width": 1080,
-            "height": 1920
+            "url": "https://video.twimg.com/amplify_video/2080788972977229824/vid/avc1/3840x2160/oHSsSIRJ2kDIu80u.mp4?tag=29",
+            "width": 3840,
+            "height": 2160
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2080812111656050904",
+        "text": "https://t.co/Y8KiPR3mb5",
+        "author": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screenName": "elonmusk",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 6648,
+          "retweets": 942,
+          "replies": 818,
+          "quotes": 122,
+          "views": 552208,
+          "bookmarks": 291
+        },
+        "createdAt": "Sat Jul 25 00:27:21 +0000 2026",
+        "createdAtLocal": "2026-07-25 08:27",
+        "createdAtISO": "2026-07-25T00:27:21+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2080805972508016640/vid/avc1/3326x2160/5VVJZKrTamZ_PmXy.mp4?tag=29",
+            "width": 3326,
+            "height": 2160
+          }
+        ],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "zxx",
+        "score": null
+      },
+      {
+        "id": "2080806091256897857",
+        "text": "Unreal! Starship didn't blow up on upon landing in the ocean! It's still floating in the ocean and Starlink is still giving us live views haha https://t.co/NjSuRa5stJ",
+        "author": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screenName": "SawyerMerritt",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1837744842715082752/xH9vYixL_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 3738,
+          "retweets": 437,
+          "replies": 253,
+          "quotes": 31,
+          "views": 168735,
+          "bookmarks": 140
+        },
+        "createdAt": "Sat Jul 25 00:03:26 +0000 2026",
+        "createdAtLocal": "2026-07-25 08:03",
+        "createdAtISO": "2026-07-25T00:03:26+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HOCBtXrXMAAfRKu.jpg",
+            "width": 1666,
+            "height": 1084
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HOCBvVoWgAAHbjx.jpg",
+            "width": 2410,
+            "height": 1746
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HOCB6EVWIAEs_-_.jpg",
+            "width": 1580,
+            "height": 892
+          },
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HOCCAZcXQAAl6YX.jpg",
+            "width": 1836,
+            "height": 1246
           }
         ],
         "urls": [],
@@ -873,6 +894,120 @@
     ],
     "DrJimFan": [
       {
+        "id": "2080798306566045756",
+        "text": "Stay hungry, stay foolish. Absolute legend https://t.co/PMHyBdkxGT",
+        "author": {
+          "id": "1007413134",
+          "name": "Jim Fan",
+          "screenName": "DrJimFan",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 156,
+          "retweets": 6,
+          "replies": 7,
+          "quotes": 2,
+          "views": 16188,
+          "bookmarks": 10
+        },
+        "createdAt": "Fri Jul 24 23:32:30 +0000 2026",
+        "createdAtLocal": "2026-07-25 07:32",
+        "createdAtISO": "2026-07-24T23:32:30+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HOB7CAhbMAAKNIo.jpg",
+            "width": 1290,
+            "height": 579
+          }
+        ],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2080643682408321103",
+          "text": "For my first post, I’m sharing a letter @NVIDIA signed on why open models matter.\n\nAI will transform every industry, power every company, and be built by every country.\n\nOpen models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty.\n\nThe world needs both frontier closed models and frontier open models.\n\nhttps://t.co/AUKzoQ5Ikb",
+          "author": {
+            "screenName": "JensenHuang",
+            "name": "Jensen Huang"
+          }
+        }
+      },
+      {
+        "id": "2080660454184226908",
+        "text": "GOAT",
+        "author": {
+          "id": "1007413134",
+          "name": "Jim Fan",
+          "screenName": "DrJimFan",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 191,
+          "retweets": 4,
+          "replies": 9,
+          "quotes": 3,
+          "views": 29046,
+          "bookmarks": 23
+        },
+        "createdAt": "Fri Jul 24 14:24:43 +0000 2026",
+        "createdAtLocal": "2026-07-24 22:24",
+        "createdAtISO": "2026-07-24T14:24:43+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2080643682408321103",
+          "text": "For my first post, I’m sharing a letter @NVIDIA signed on why open models matter.\n\nAI will transform every industry, power every company, and be built by every country.\n\nOpen models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty.\n\nThe world needs both frontier closed models and frontier open models.\n\nhttps://t.co/AUKzoQ5Ikb",
+          "author": {
+            "screenName": "JensenHuang",
+            "name": "Jensen Huang"
+          }
+        }
+      },
+      {
+        "id": "2078150032575082616",
+        "text": "My morning ritual: coffee, then watch our robot assemble stuff. The model isn't fast, but it measures every grasp, obsesses over every alignment, and handles every piece like an heirloom. Watching is therapeutic, even meditative. Simple pleasure from the execution of a task well done.\n\nUncut, no speedup, end-to-end policy in one go.",
+        "author": {
+          "id": "1007413134",
+          "name": "Jim Fan",
+          "screenName": "DrJimFan",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 484,
+          "retweets": 44,
+          "replies": 44,
+          "quotes": 8,
+          "views": 61674,
+          "bookmarks": 127
+        },
+        "createdAt": "Fri Jul 17 16:09:12 +0000 2026",
+        "createdAtLocal": "2026-07-18 00:09",
+        "createdAtISO": "2026-07-17T16:09:12+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2078145436179980288/vid/avc1/3840x2160/rphy71DKwwWasqeg.mp4?tag=29",
+            "width": 3840,
+            "height": 2160
+          }
+        ],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
+      {
         "id": "2078150496683213151",
         "text": "How it's done:\n\nhttps://t.co/DanOfnw4xk",
         "author": {
@@ -883,11 +1018,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 34,
+          "likes": 35,
           "retweets": 3,
           "replies": 12,
           "quotes": 0,
-          "views": 14858,
+          "views": 15053,
           "bookmarks": 11
         },
         "createdAt": "Fri Jul 17 16:11:03 +0000 2026",
@@ -911,41 +1046,6 @@
         }
       },
       {
-        "id": "2078150032575082616",
-        "text": "My morning ritual: coffee, then watch our robot assemble stuff. The model isn't fast, but it measures every grasp, obsesses over every alignment, and handles every piece like an heirloom. Watching is therapeutic, even meditative. Simple pleasure from the execution of a task well done.\n\nUncut, no speedup, end-to-end policy in one go.",
-        "author": {
-          "id": "1007413134",
-          "name": "Jim Fan",
-          "screenName": "DrJimFan",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 481,
-          "retweets": 43,
-          "replies": 44,
-          "quotes": 8,
-          "views": 61209,
-          "bookmarks": 127
-        },
-        "createdAt": "Fri Jul 17 16:09:12 +0000 2026",
-        "createdAtLocal": "2026-07-18 00:09",
-        "createdAtISO": "2026-07-17T16:09:12+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2078145436179980288/vid/avc1/3840x2160/rphy71DKwwWasqeg.mp4?tag=29",
-            "width": 3840,
-            "height": 2160
-          }
-        ],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
-      },
-      {
         "id": "2077497317255737422",
         "text": "I’m very excited by this test time training work for robotic learning! It’s an awesome collaboration between @StanfordSVL and @NVIDIARobotics !",
         "author": {
@@ -956,11 +1056,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 578,
+          "likes": 581,
           "retweets": 65,
           "replies": 33,
           "quotes": 6,
-          "views": 102209,
+          "views": 102639,
           "bookmarks": 165
         },
         "createdAt": "Wed Jul 15 20:55:33 +0000 2026",
@@ -978,80 +1078,6 @@
           "author": {
             "screenName": "DrJimFan",
             "name": "Jim Fan"
-          }
-        }
-      },
-      {
-        "id": "2077414142340988962",
-        "text": "We scaled a robot model natively to 8,000 timesteps of context, 5 minutes worth of muscle memory, with constant inference cost. Robot policies used to live their lives a few frames at a time (< 0.1 sec), instantly forgetting what just happened. We pushed to 3 orders of magnitude beyond SOTA. \n\nIntroducing RoboTTT. Test-Time Training (“TTT”) carries a tiny model *inside* the model. Every incoming sensor reading triggers one gradient step on that tiny core, so the history keeps getting compressed into its weights. The hidden state has a fixed size (literally a small neural net), so the robot can “grok” arbitrarily long experience with little overhead. Learning continues indefinitely after deployment.\n\nWe can then put an entire video in context as prompt! RoboTTT enables one-shot in-context learning from human video: in circuit board assembly, a human demonstrates a never-seen configuration once, and the robot imitates it faithfully. \n\nHumans drop things all the time, but we pick them up so fast that we don’t even notice. That reflex to fix is half of our physical competence. RoboTTT shows self-improvement on the fly: the robot is skilled at recovering from its own errors mid-episode, and each fix enters its context to inform the next move. The TTT core distills a general-purpose, failure-to-correction mapping from the training data.\n\nOne more thing. What excites me the most is a new Context Scaling Curve: from 128 to 8K timesteps, closed-loop performance hill-climbs steadily with no sign of saturation. 8K-context pretraining beats 1K by 62%. What LLM enjoys, robotics should too. Soon, even 1M context is not a fantasy. \n\nDeep dive in thread:",
-        "author": {
-          "id": "1007413134",
-          "name": "Jim Fan",
-          "screenName": "DrJimFan",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 1275,
-          "retweets": 189,
-          "replies": 65,
-          "quotes": 51,
-          "views": 284059,
-          "bookmarks": 767
-        },
-        "createdAt": "Wed Jul 15 15:25:02 +0000 2026",
-        "createdAtLocal": "2026-07-15 23:25",
-        "createdAtISO": "2026-07-15T15:25:02+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2077412577681002496/vid/avc1/3840x2160/iDsECNcN65qZgRe5.mp4?tag=28",
-            "width": 3840,
-            "height": 2160
-          }
-        ],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2077414143901188195",
-        "text": "Blog and paper: https://t.co/WVMB9iibeW\nPresented to you from NVIDIA GEAR Lab. \n\nPlease check out Yunfan's technical deep dive! \n\nhttps://t.co/7UF1UPdhyq",
-        "author": {
-          "id": "1007413134",
-          "name": "Jim Fan",
-          "screenName": "DrJimFan",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 59,
-          "retweets": 4,
-          "replies": 3,
-          "quotes": 1,
-          "views": 19145,
-          "bookmarks": 28
-        },
-        "createdAt": "Wed Jul 15 15:25:03 +0000 2026",
-        "createdAtLocal": "2026-07-15 23:25",
-        "createdAtISO": "2026-07-15T15:25:03+00:00",
-        "media": [],
-        "urls": [
-          "https://research.nvidia.com/labs/gear/robottt/",
-          "https://x.com/YunfanJiang/status/2077400992149340552?s=20"
-        ],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2077400992149340552",
-          "text": "We scaled robot policies to 8K timesteps of visuomotor context, orders of magnitude beyond current SoTAs, at constant inference latency.\n\nIntroducing RoboTTT 🤖\n\nWith minutes of experience in context, our robots:\n🎥 one-shot imitate human video demos\n📈 improve themselves during deployment\n🛡️ recover from perturbations\n⚙️ complete a 5-minute, 10-stage assembly end to end\n🌐 https://t.co/4OoK0e9tKa\n\nDive in 🧵",
-          "author": {
-            "screenName": "YunfanJiang",
-            "name": "Yunfan Jiang"
           }
         }
       }

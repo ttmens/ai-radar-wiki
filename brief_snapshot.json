@@ -1,7 +1,7 @@
 {
   "date": "2026-07-25",
-  "generated_at": "2026-07-25T06:01:59.179402+08:00",
-  "item_count": 17,
+  "generated_at": "2026-07-25T12:01:16.873921+08:00",
+  "item_count": 20,
   "items": [
     {
       "id": "claude-opus-5",
@@ -81,6 +81,17 @@
       "date": "2026-07-25"
     },
     {
+      "id": "show-hn-i-simulated-closing-the-strait-of-hormuz-on-real-oil-trade-data",
+      "label": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+      "summary": "该项目基于真实石油贸易数据模拟霍尔木兹海峡关闭的地缘政治风险。技术亮点在于利用大规模贸易数据构建动态仿真模型，量化关键航道中断对全球能源供应链的冲击。产品创新体现在将AI模拟能力应用于地缘政治风险评估，为贸易、物流和能源领域的产品经理提供数据驱动的决策支持，例如优化航线、库存缓冲或应急预案。商业价值在于帮助相关企业提前识别脆弱环节，降低供应链中断损失。",
+      "pm_score": 0.495,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49020545",
+      "date": "2026-07-25"
+    },
+    {
       "id": "blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool",
       "label": "Bluesky’s AI assistant Attie expands into an open social research tool",
       "summary": "Bluesky 将其 AI 助手 Attie 升级为开放的社交研究工具，用户可基于 AT 协议查询 Bluesky 及其他应用上的新闻、趋势和对话。此举将 AI 能力与去中心化社交数据结合，为产品经理提供一种即用的社交洞察模式。商业价值在于低成本获取真实社交动态；产品创新体现在从单一助手转型为可扩展的开放研究平台。",
@@ -100,6 +111,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "date": "2026-07-25"
+    },
+    {
+      "id": "prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m",
+      "label": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $1",
+      "summary": "由LinkedIn联合创始人Reid Hoffman和Zynga创始人Mark Pincus共同创立的AI实验室Prentis正在洽谈融资1亿美元。该实验室的核心赌注是：自动化常规计算机任务将很快超越代码生成，成为AI最大的应用场景。这意味着Prentis可能专注于构建能够模拟人类操作计算机（如点击、填写表单、数据迁移等）的AI代理，而非传统的代码辅助。对产品经理而言，这预示着企业级自动化工具将从RPA走向更智能、更通用的AI原生平台，具备巨大的商业价值和产品创新空间。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
       "date": "2026-07-25"
     },
     {
@@ -133,6 +155,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+      "date": "2026-07-25"
+    },
+    {
+      "id": "i-tried-out-openai8217s-new-ai-keypad-which-will-be-fun-for-some-coders-and-slig",
+      "label": "I tried out OpenAI&#8217;s new AI keypad — which will be fun for some coders and",
+      "summary": "OpenAI 推出了一款新型 AI 键盘（keypad），主要面向程序员群体，通过物理硬件与 AI 模型结合，提供上下文感知的快捷操作（如代码补全、命令触发），能显著提升编码效率。该产品体现了 AI 从软件向硬件延伸的趋势，但普通用户可能因交互方式特殊而难以适应。对产品经理而言，这是探索 AI 与输入设备融合的创新尝试，商业价值在于吸引开发者生态，并可能拓展至更多垂直场景。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
       "date": "2026-07-25"
     },
     {
@@ -192,7 +225,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 5273,
-    "edges": 5611
+    "real_nodes": 5306,
+    "edges": 5644
   }
 }

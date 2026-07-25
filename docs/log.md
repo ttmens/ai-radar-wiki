@@ -3171,3 +3171,8 @@
 - create: anthropic-launches-opus-5.md
 - create: ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street.md
 - create: show-hn-x402vps-docker-containers-for-ai-agents-paid-per-hour-with-usdc.md
+
+## [2026-07-25 12:01] sync v3 | 3 new | pillars: {'capabilities': 3}
+- create: show-hn-i-simulated-closing-the-strait-of-hormuz-on-real-oil-trade-data.md
+- create: i-tried-out-openai8217s-new-ai-keypad-which-will-be-fun-for-some-coders-and-slig.md
+- create: prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m.md
