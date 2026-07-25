@@ -5,13 +5,37 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 25 Jul 2026 16:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 20:00:33 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>One fallen power line exposed a growing AI data center problem. Here&amp;#8217;s how</title>
+      <link>https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/</link>
+      <guid isPermaLink="false">one-fallen-power-line-exposed-a-growing-ai-data-center-problem-here8217s-how-to</guid>
+      <pubDate>2026-07-26T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>近期弗吉尼亚北部一次电缆意外事件揭示了AI数据中心在电网中断时的脆弱性，导致服务稳定性风险。该问题凸显了现有数据中心备用电源和电网协调机制的不足。技术要点包括：优化UPS（不间断电源）和备用发电机的响应速度，引入微电网或分布式能源管理，以及利用AI预测负载并动态调整电力消耗。商业价值在于避免因停电造成的巨额收入损失和客户信任下降。产品创新方向是开发智能电力调度系统，使数据中心能主动参与电网需求响应，提升整体韧性与可持续性。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Librarians are hosting viral &amp;#8216;Avoiding AI&amp;#8217; workshops for people who</title>
+      <link>https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/</link>
+      <guid isPermaLink="false">librarians-are-hosting-viral-8216avoiding-ai8217-workshops-for-people-who-are-fe</guid>
+      <pubDate>2026-07-26T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>美国各地图书馆举办的‘Avoiding AI’工作坊引发空前需求，反映出部分用户对大型科技公司及其AI技术的强烈抵触情绪。该现象对AI产品经理的启示：需关注用户信任与教育，设计更透明、可控制的交互方式；同时，线下社区模式可作为产品推广或用户反馈的新渠道。商业价值在于识别反AI群体中的潜在需求——例如开发低AI依赖或隐私优先的替代方案。产品创新方向可考虑‘可配置AI’或‘AI透明度仪表盘’，以缓解用户焦虑。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>PartialString – A finite-difference time-domain physical modelling synthesiser</title>
+      <link>https://news.ycombinator.com/item?id=48991945</link>
+      <guid isPermaLink="false">partialstring-a-finite-difference-time-domain-physical-modelling-synthesiser</guid>
+      <pubDate>2026-07-26T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>PartialString 是一个基于有限差分时域（FDTD）方法的物理建模合成器，用于模拟弦乐器等物理发声过程。通过数值求解波动方程，能够生成高真实感的数字音频。该技术为音乐制作和虚拟乐器开发提供新能力，无需采样或传统合成，直接物理仿真。尽管不直接涉及深度学习，但其参数优化可与 AI 结合，推动新一代智能音频生成工具。产品创新在于将计算声学算法实时化，降低物理建模合成门槛。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>https://t.co/e2hvfmnewh</title>
       <link>https://x.com/elonmusk/status/2080841494756233632</link>
@@ -64,6 +88,30 @@ Enjoy! https://t.co/4jhJG3hOkv</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>stories like this should be told more</title>
+      <link>https://x.com/sama/status/2080861203010568232</link>
+      <guid isPermaLink="false">twitter_sama_2080861203010568232</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>stories like this should be told more</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Very happy to support this on behalf of Google. We have long benefited from open source, are big con...</title>
+      <link>https://x.com/sundarpichai/status/2081026488158040181</link>
+      <guid isPermaLink="false">twitter_sundarpichai_2081026488158040181</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Very happy to support this on behalf of Google. We have long benefited from open source, are big contributors to open source and in fact have consistently made open weights models with Gemma available from @GoogleDeepMind @demishassabis . Onwards!</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Very happy to support this on behalf of Google. We have long benefited from open source, are big con...</title>
+      <link>https://x.com/_akhaliq/status/2081026488158040181</link>
+      <guid isPermaLink="false">twitter__akhaliq_2081026488158040181</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Very happy to support this on behalf of Google. We have long benefited from open source, are big contributors to open source and in fact have consistently made open weights models with Gemma available from @GoogleDeepMind @demishassabis . Onwards!</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
       <title>We recognize there are a lot of questions and speculative details circulating related to the Hugging...</title>
       <link>https://x.com/OpenAI/status/2080815626113954288</link>
       <guid isPermaLink="false">twitter_OpenAI_2080815626113954288</guid>
@@ -73,6 +121,14 @@ Enjoy! https://t.co/4jhJG3hOkv</p></description>
 This is an unprecedented incident, and we think it marks an important moment for AI safety. 
 
 We are still conducting a thorough review along with external advisors and with oversigh</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>A strong and secure open ecosystem is important for the world to benefit from AI. We’ve always suppo...</title>
+      <link>https://x.com/sundarpichai/status/2081039623422177765</link>
+      <guid isPermaLink="false">twitter_sundarpichai_2081039623422177765</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.8/10</p><p><strong>类型:</strong> tweet</p><hr/><p>A strong and secure open ecosystem is important for the world to benefit from AI. We’ve always supported and contributed heavily to open source and science from Jax to Transformers to AlphaFold to Gemma open models which have now been downloaded 300M+ times. And the standards framework we’ve propose</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -88,6 +144,17 @@ The probability tha you will be interacting with another human on here has gone 
 
 Say HELLO if you are a human 🔥</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>People don't realize that Anthropic literally trained Opus 5 on RL environments that resemble ARC-AG...</title>
+      <link>https://x.com/TheAIGRID/status/2080947253687001345</link>
+      <guid isPermaLink="false">twitter_TheAIGRID_2080947253687001345</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>People don't realize that Anthropic literally trained Opus 5 on RL environments that resemble ARC-AGI puzzles
+
+Anthropic pays human contractors to write down their chain of thought when solving these, and/or updates the weights based on rewards. The thing is, you don't know since it's closed-source
+</p></description>
+      <category>🔧 工具生态</category>
     </item>
     <item>
       <title>We had 2 frontier models drop this week - Flash 3.6 and Opus 5
@@ -191,6 +258,30 @@ https://t.co/5S9tQYV8ah</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>ByteDance researchers propose FlowMimic
+
+A mask-free framework that generates video editing data in ...</title>
+      <link>https://x.com/_akhaliq/status/2080937770776682512</link>
+      <guid isPermaLink="false">twitter__akhaliq_2080937770776682512</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>ByteDance researchers propose FlowMimic
+
+A mask-free framework that generates video editing data in real time from image edits alone, enabling a single 1.3B model to handle diverse video editing tasks without masks or extra modules. https://t.co/ATeA1Fryy7</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Apple-PI: Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence
+
+A diagnostic ...</title>
+      <link>https://x.com/_akhaliq/status/2080998200572522819</link>
+      <guid isPermaLink="false">twitter__akhaliq_2080998200572522819</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Apple-PI: Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence
+
+A diagnostic benchmark that anchors video-model evaluation in explicit physical laws. It uses a three-stage protocol (Perception, Formulation, Deduction) with chain-of-frames prompting. The best video model scores</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Nvidia, Microsoft, Meta warn against overregulating open-weight models</title>
       <link>https://news.ycombinator.com/item?id=49035303</link>
       <guid isPermaLink="false">nvidia-microsoft-meta-warn-against-overregulating-open-weight-models</guid>
@@ -205,6 +296,48 @@ https://t.co/5S9tQYV8ah</p></description>
       <pubDate>2026-07-25T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章对OpenAI近期宣称的'流氓黑客智能体'故事持怀疑态度，提醒AI产品经理不要轻信炒作。它质疑该智能体是否真的具备自主黑客能力，或仅为精心设计的演示。产品经理应关注实际技术局限、安全风险与模型对齐问题，避免过度依赖单一案例，同时警惕夸大宣传对产品路线图的误导。</p></description>
       <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>I'm not sure if I love this or hate it.</title>
+      <link>https://x.com/JohnNosta/status/2081019155122151779</link>
+      <guid isPermaLink="false">twitter_JohnNosta_2081019155122151779</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>I'm not sure if I love this or hate it.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>@LiannaAdams Intelligence as a commodity?
+
+https://t.co/WDskrZx8hC</title>
+      <link>https://x.com/JohnNosta/status/2081016991951798631</link>
+      <guid isPermaLink="false">twitter_JohnNosta_2081016991951798631</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>@LiannaAdams Intelligence as a commodity?
+
+https://t.co/WDskrZx8hC</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Tap and hold https://t.co/IlEwEHQE5A</title>
+      <link>https://x.com/supabase/status/2081020199642476713</link>
+      <guid isPermaLink="false">twitter_supabase_2081020199642476713</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Tap and hold https://t.co/IlEwEHQE5A</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>A new Claude Code skill wraps Gemini's Omni Flash model for turn-by-turn video edits.
+
+{ author: xbi...</title>
+      <link>https://x.com/ThePracticalDev/status/2081016763974586813</link>
+      <guid isPermaLink="false">twitter_ThePracticalDev_2081016763974586813</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>A new Claude Code skill wraps Gemini's Omni Flash model for turn-by-turn video edits.
+
+{ author: xbill + @GoogleDevExpert }
+
+https://t.co/1q44aEfJON</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Flux 3 X Mimic: The Next Generation of Video-Action Models</title>
@@ -357,136 +490,6 @@ https://t.co/5S9tQYV8ah</p></description>
       <pubDate>2026-07-25T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Oracle宣布裁员21,000人，以节省成本并重新分配资金用于AI领域的大规模投资。这一举措表明传统科技巨头正通过激进的组织调整加速AI转型，将人力成本转化为算力与模型研发投入。对于AI产品经理而言，这提示了企业在预算约束下优先布局AI基础设施（如云数据库、生成式AI服务）的策略，同时也反映出AI投资的高昂成本可能迫使公司牺牲现有业务线。Oracle的决策可能推动更多企业效仿，将AI视为核心战略而非辅助工具。</p></description>
       <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Show HN: Uploads.sh – the missing upload command for coding agents (open-source)</title>
-      <link>https://uploads.sh/</link>
-      <guid isPermaLink="false">show-hn-uploadssh-the-missing-upload-command-for-coding-agents-open-source</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Uploads.sh 是一个开源命令行工具，专为编码代理（如 AI 编程助手）设计，提供统一的上传命令，方便代理将文件上传到远端（如云存储、服务器）。它解决了现有代理缺乏标准上传接口的问题，通过简单的一行命令实现文件传输，支持多种目标并具有安全认证功能。该工具填补了 AI 编程工作流中的空白，提升开发者与代码代理协作效率，属于开发者生态中的基础设施创新。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Show HN: How well do you use Claude Code?</title>
-      <link>https://news.ycombinator.com/item?id=49042653</link>
-      <guid isPermaLink="false">show-hn-how-well-do-you-use-claude-code</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>这是一个关于Claude Code使用能力的互动测试（Show HN），旨在评估用户对Anthropic旗下AI编程工具Claude Code的熟练程度，包括代码生成、调试、会话管理等功能。面向AI产品经理，该测试有助于量化用户对AI编码工具的掌握水平，从而优化产品教程、提升开发者效率。其商业价值在于推动Claude Code的企业采用，并探索AI辅助开发的标准化能力评估方法。产品创新体现在将用户能力评估与工具推广相结合，形成闭环反馈。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: X402vps – Docker containers for AI agents, paid per hour with USDC</title>
-      <link>https://x402vps.com</link>
-      <guid isPermaLink="false">show-hn-x402vps-docker-containers-for-ai-agents-paid-per-hour-with-usdc</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>X402vps 是一个面向 AI 代理的 Docker 容器托管服务，按小时计费并支持 USDC（稳定币）支付。产品创新在于将容器化部署与灵活付费模式结合，降低 AI 代理的运行门槛。技术要点包括 Docker 容器隔离环境、按需计费、加密货币支付通道。商业价值体现在为开发者提供低成本、可扩展的 AI 代理基础设施，同时支持去中心化支付，适合全球化团队。该模式有望推动 AI 代理的商业化落地，尤其适合临时任务或高频迭代场景。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Half-Life 2 running natively on HaikuOS</title>
-      <link>https://news.ycombinator.com/item?id=49034868</link>
-      <guid isPermaLink="false">half-life-2-running-natively-on-haikuos</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.1/10</p><p><strong>类型:</strong> hn</p><hr/><p>该事件是经典游戏《半条命2》在HaikuOS操作系统上实现原生运行，而非直接涉及AI技术。对AI产品经理而言，这展示了操作系统生态的兼容性与移植能力，但缺乏AI相关的技术突破或商业价值。HaikuOS作为小众开源系统，其原生支持游戏可能暗示对底层系统能力的考验，但对AI产品创新参考意义有限。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Neuralink helping those who have lost their mind to body connection</title>
-      <link>https://x.com/elonmusk/status/2080496660598436146</link>
-      <guid isPermaLink="false">twitter_elonmusk_2080496660598436146</guid>
-      <pubDate>2026-07-24T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Neuralink helping those who have lost their mind to body connection</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>https://t.co/zyiFoqOal3</title>
-      <link>https://x.com/elonmusk/status/2080447123745919254</link>
-      <guid isPermaLink="false">twitter_elonmusk_2080447123745919254</guid>
-      <pubDate>2026-07-24T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>https://t.co/zyiFoqOal3</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Zero</title>
-      <link>https://x.com/elonmusk/status/2080446731628798309</link>
-      <guid isPermaLink="false">twitter_elonmusk_2080446731628798309</guid>
-      <pubDate>2026-07-24T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Zero</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Announcing Fugu-Ultra v1.1 🐡
-
-We’ve been thrilled by the reception to the Fugu model family. Thanks ...</title>
-      <link>https://x.com/hardmaru/status/2080448772778373586</link>
-      <guid isPermaLink="false">twitter_hardmaru_2080448772778373586</guid>
-      <pubDate>2026-07-24T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Announcing Fugu-Ultra v1.1 🐡
-
-We’ve been thrilled by the reception to the Fugu model family. Thanks to everyone who tried it, shared feedback, and trusted Fugu with real work.
-
-Today, we’re releasing Fugu-Ultra v1.1 → https://t.co/hhO6qTawgb
-
-Upgraded to incorporate the latest frontier models, resul</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>A guy followed a mother around with his camera while she tried to get away from him and told her to ...</title>
-      <link>https://x.com/elonmusk/status/2080507561447743915</link>
-      <guid isPermaLink="false">twitter_elonmusk_2080507561447743915</guid>
-      <pubDate>2026-07-24T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>A guy followed a mother around with his camera while she tried to get away from him and told her to say “nigger” over and over, and when she finally does it that’s apparently a crime. Completely absurd and unacceptable. She must appeal and we must fund it. No magic word crimes. https://t.co/xjQttqxZ</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Soon, this will happen to your town</title>
-      <link>https://x.com/elonmusk/status/2080568307678085122</link>
-      <guid isPermaLink="false">twitter_elonmusk_2080568307678085122</guid>
-      <pubDate>2026-07-24T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Soon, this will happen to your town</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>My pronouns are …</title>
-      <link>https://x.com/elonmusk/status/2080567916857004131</link>
-      <guid isPermaLink="false">twitter_elonmusk_2080567916857004131</guid>
-      <pubDate>2026-07-24T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>My pronouns are …</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Let's take a walk through the "American justice system," shall we?
-
-Sharmake Omar is the Somali man ...</title>
-      <link>https://x.com/elonmusk/status/2080646959736537115</link>
-      <guid isPermaLink="false">twitter_elonmusk_2080646959736537115</guid>
-      <pubDate>2026-07-24T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Let's take a walk through the "American justice system," shall we?
-
-Sharmake Omar is the Somali man who filmed Shiloh Hendrix on the playground in Minnesota that day in April 2025.
-
-In January 2022, he and another Somali man "allegedly" spent two days raping an underage foster care runaway in a trai</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>https://t.co/AdIQFheeiI</title>
-      <link>https://x.com/elonmusk/status/2080677388287918334</link>
-      <guid isPermaLink="false">twitter_elonmusk_2080677388287918334</guid>
-      <pubDate>2026-07-24T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>https://t.co/AdIQFheeiI</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>This has my full support. 
-
-Jensen is right.</title>
-      <link>https://x.com/elonmusk/status/2080672505660834163</link>
-      <guid isPermaLink="false">twitter_elonmusk_2080672505660834163</guid>
-      <pubDate>2026-07-24T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>This has my full support. 
-
-Jensen is right.</p></description>
-      <category>🤖 技术能力</category>
     </item>
   </channel>
 </rss>

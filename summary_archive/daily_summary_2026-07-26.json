@@ -2,47 +2,62 @@
   "daily_summary": {
     "date": "2026-07-26",
     "headline": "今日 AI 情报 · 2026-07-26",
-    "overview": "AI生态进入信任与韧性博弈期：基础设施脆弱与用户抵触并存",
+    "overview": "AI代理渗透操作系统层级，开放生态成熟与基础设施脆弱性并存",
     "narratives": [
       {
-        "title": "AI生态信任与韧性：从基础设施到用户心智的挑战",
-        "body": "今天的情报揭示AI行业发展进入新阶段：一方面数据中心面临电力中断的物理可靠性危机，另一方面用户对AI的抵触情绪催生反AI工作坊等线下运动。这标志着AI不再仅依赖技术突破，而是需要系统性地解决基础设施韧性和用户信任问题，产品经理需将“可解释性、可控制性、应急冗余”纳入核心设计。",
+        "title": "AI代理正在重塑操作系统界面与工作流",
+        "body": "从终端代理Yorishiro到Claude的上下文工程优化，AI正从对话式交互转向对操作系统和开发环境的直接控制。产品经理应关注本地优先、多代理协作的自动化场景，并设计高效的上下文管理策略以支撑长周期任务。",
         "type": "paradigm_shift",
+        "pillar_key": "patterns"
+      },
+      {
+        "title": "开放权重AI生态成熟伴随基础设施与社会双重脆弱性",
+        "body": "开放权重模型标准化（类似Kubernetes）降低依赖风险但暴露数据中心电力韧性不足；同时反AI情绪催生隐私优先的替代方案。产品经理需平衡开放生态红利与可靠性、用户信任之间的张力。",
+        "type": "maturation",
         "pillar_key": "ecosystem"
       }
     ],
     "insights": [
       {
-        "pillar": "🔧 工具生态",
-        "pillar_key": "ecosystem",
-        "narrative_title": "AI生态信任与韧性：从基础设施到用户心智的挑战",
-        "insight": "AI生态信任与韧性：从基础设施到用户心智的挑战。该方向的具体信号：弗吉尼亚北部电缆故障暴露数据中心电网依赖风险，而图书馆反AI工作坊表明用户对科技巨头的不信任正在组织化，两者共同指向AI产品必须同时解决物理可靠性和社会接受度问题。",
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI代理正在重塑操作系统界面与工作流",
+        "insight": "AI代理正在重塑操作系统界面与工作流。该方向的具体信号：Yorishiro将AI代理直接嵌入macOS终端，实现本地化多代理协作与任务自动化，降低了开发者使用门槛；同时Claude 5代上下文工程规则通过分层动态摘要提升了长对话可靠性，为代理持续运行提供了技术支撑。",
         "evidence": [
           {
-            "id": "one-fallen-power-line-exposed-a-growing-ai-data-center-problem-here8217s-how-to",
-            "title": "One fallen power line exposed a growing AI data center problem",
-            "score": 0.48
+            "id": "show-hn-yorishiro-a-macos-terminal-where-ai-agents-live",
+            "title": "Yorishiro – 让AI代理常驻macOS终端",
+            "score": 0.33
+          },
+          {
+            "id": "the-new-rules-of-context-engineering-for-claude-5-generation-models",
+            "title": "Claude 5代模型上下文工程新规则",
+            "score": 0.33
           }
         ]
       },
       {
-        "pillar": "🤖 技术能力",
-        "pillar_key": "capabilities",
-        "narrative_title": "AI生态信任与韧性：从基础设施到用户心智的挑战",
-        "insight": "AI生态信任与韧性：从基础设施到用户心智的挑战。该方向的具体信号：PartialString物理建模合成器采用传统数值模拟而非深度学习，反映出在AI信任危机背景下，非黑盒、可解释的技术路线可能成为差异化竞争选择，为产品经理提供低AI依赖的创新路径。",
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "开放权重AI生态成熟伴随基础设施与社会双重脆弱性",
+        "insight": "开放权重AI生态成熟伴随基础设施与社会双重脆弱性。该方向的具体信号：开放权重AI正经历Kubernetes式标准化，推动企业自建模型栈；但弗吉尼亚电网事故暴露数据中心电力韧性不足，易引发服务中断；同时图书馆反AI工作坊火爆显示部分用户对AI的不信任，需开发隐私优先的可配置方案。",
         "evidence": [
           {
-            "id": "partialstring-a-finite-difference-time-domain-physical-modelling-synthesiser",
-            "title": "PartialString – A finite-difference time-domain physical modelling synthesiser",
-            "score": 0.26
+            "id": "open-weight-ai-is-having-its-kubernetes-moment",
+            "title": "开放权重AI正经历Kubernetes时刻",
+            "score": 0.67
           }
         ]
       }
     ],
-    "stats": "技术能力: 1 | 产品模式: 0 | 工具生态: 2 | 商业趋势: 0",
-    "total_items": 3,
-    "high_value_count": 2,
+    "stats": "技术能力: 2 | 产品模式: 2 | 工具生态: 3 | 商业趋势: 0",
+    "total_items": 7,
+    "high_value_count": 4,
     "all_today_ids": [
+      {
+        "id": "open-weight-ai-is-having-its-kubernetes-moment",
+        "label": "Open-weight AI is having its Kubernetes moment"
+      },
       {
         "id": "one-fallen-power-line-exposed-a-growing-ai-data-center-problem-here8217s-how-to",
         "label": "One fallen power line exposed a growing AI data center problem. Here&#8217;s how"
@@ -52,11 +67,23 @@
         "label": "Librarians are hosting viral &#8216;Avoiding AI&#8217; workshops for people who"
       },
       {
+        "id": "show-hn-yorishiro-a-macos-terminal-where-ai-agents-live",
+        "label": "Show HN: Yorishiro – a macOS terminal where AI agents live"
+      },
+      {
+        "id": "the-new-rules-of-context-engineering-for-claude-5-generation-models",
+        "label": "The new rules of context engineering for Claude 5 generation models"
+      },
+      {
         "id": "partialstring-a-finite-difference-time-domain-physical-modelling-synthesiser",
         "label": "PartialString – A finite-difference time-domain physical modelling synthesiser"
+      },
+      {
+        "id": "show-hn-brolly-a-plain-text-weather-forecast-site",
+        "label": "Show HN: Brolly, a plain-text weather forecast site"
       }
     ],
     "date_bj": "2026-07-26 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-07-26 00:01:27"
+    "generated_at_bj": "2026-07-26 06:01:13"
   }
 }

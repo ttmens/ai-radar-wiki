@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-26 | Total pages: 2961
+> Last updated: 2026-07-26 | Total pages: 2965
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -931,6 +931,7 @@
 - [[the-milkv-jupiter-2spacemit-k3-risc-v-vector-compute.md]] The MilkV Jupiter 2/SpacemiT K3 (RISC-V vector compute) `pillar:capabilities` `score:0.295`
 - [[the-mysterious-hy3-llm-is-topping-openrouter-model-rankings-by-a-large-margin.md]] The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin `pillar:capabilities` `score:0.48`
 - [[the-new-http-query-method-explained.md]] The new HTTP QUERY method explained `pillar:capabilities` `score:0.495`
+- [[the-new-rules-of-context-engineering-for-claude-5-generation-models.md]] The new rules of context engineering for Claude 5 generation models `pillar:capabilities` `score:0.33`
 - [[the-one-step-trap-in-ai-research.md]] The One-Step Trap (In AI Research) `pillar:capabilities` `score:0.33`
 - [[the-only-ai-glossary-you8217ll-need-this-year.md]] The only AI glossary you&#8217;ll need this year `pillar:capabilities` `score:0.445`
 - [[the-origins-of-the-school-system-aimed-to-produce-independent-critical-thinkers.md]] The origins of the school system aimed to produce independent, critical thinkers `pillar:capabilities` `score:0.255`
@@ -1908,6 +1909,7 @@
 - [[show-hn-billai-bass-an-ai-powered-big-mouth-billy-bass-using-strands-agents.md]] Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents `pillar:patterns` `score:0.33`
 - [[show-hn-blitzgraph-supabase-for-graphs-built-for-llm-agents.md]] Show HN: BlitzGraph – Supabase for graphs, built for LLM agents `pillar:patterns` `score:0.33`
 - [[show-hn-blockbuzz-a-workspace-built-for-teams-of-humans-and-agents.md]] Show HN: Block/buzz: a workspace built for teams of humans and agents `pillar:patterns` `score:0.33`
+- [[show-hn-brolly-a-plain-text-weather-forecast-site.md]] Show HN: Brolly, a plain-text weather forecast site `pillar:patterns` `score:0.255`
 - [[show-hn-browser-tools-sdk-an-optimal-browser-harness-for-agents.md]] Show HN: Browser Tools SDK – an optimal browser harness for agents `pillar:patterns` `score:0.33`
 - [[show-hn-build-your-own-ai-agent-cli-in-150-lines.md]] Show HN: Build Your Own AI Agent CLI in 150 Lines `pillar:patterns` `score:0.26`
 - [[show-hn-capn-hook-for-coding-agents-dont-grep-the-same-mystery-twice.md]] Show HN: Capn-hook for coding agents – don't grep the same mystery twice `pillar:patterns` `score:0.33`
@@ -1975,6 +1977,7 @@
 - [[show-hn-voicedraw-talk-system-design-out-loud-the-diagrams-draw-themselves.md]] Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves `pillar:patterns` `score:0.33`
 - [[show-hn-vt-code-open-source-terminal-coding-agent-in-rust.md]] Show HN: VT Code – open-source terminal coding agent in Rust `pillar:patterns` `score:0.26`
 - [[show-hn-y-a-malleable-coding-agent-desktop-app-built-with-electron.md]] Show HN: Y – A malleable coding-agent desktop app built with Electron `pillar:patterns` `score:0.155`
+- [[show-hn-yorishiro-a-macos-terminal-where-ai-agents-live.md]] Show HN: Yorishiro – a macOS terminal where AI agents live `pillar:patterns` `score:0.33`
 - [[show-hn-zerofs-make-s3-your-primary-storage.md]] Show HN: ZeroFS – Make S3 your primary storage `pillar:patterns` `score:0.295`
 - [[show-hn-zot-yet-another-coding-agent-harness.md]] Show HN: Zot – Yet another coding agent harness `pillar:patterns` `score:0.36`
 - [[shunning-ai-is-the-human-choice.md]] Shunning AI is the human choice `pillar:patterns` `score:0.595`
@@ -2303,6 +2306,7 @@
 - [[open-source-ai-matters-more-than-ever-according-to-hugging-face8217s-clem-delang.md]] Open source AI matters more than ever, according to Hugging Face&#8217;s Clem De `pillar:ecosystem` `score:0.48`
 - [[open-source-ai-must-win.md]] Open source AI must win `pillar:ecosystem` `score:0.615`
 - [[open-webuiopen-webui.md]] open-webui/open-webui `pillar:ecosystem` `score:0.405`
+- [[open-weight-ai-is-having-its-kubernetes-moment.md]] Open-weight AI is having its Kubernetes moment `pillar:ecosystem` `score:0.665`
 - [[open-weights-and-american-ai-leadership-pdf.md]] Open Weights and American AI Leadership [pdf] `pillar:ecosystem` `score:0.395`
 - [[openai-and-government-of-malta-partner-to-roll-out-chatgpt-plus-to-all-citizens.md]] OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens `pillar:ecosystem` `score:0.565`
 - [[openai-and-hugging-face-address-security-incident-during-model-evaluation.md]] OpenAI and Hugging Face address security incident during model evaluation `pillar:ecosystem` `score:0.595`

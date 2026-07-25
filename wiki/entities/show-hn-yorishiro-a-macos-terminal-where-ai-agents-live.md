@@ -1,0 +1,25 @@
+---
+title: Show HN: Yorishiro – a macOS terminal where AI agents live
+created: 2026-07-26
+updated: 2026-07-26
+type: entity
+pillar: patterns
+pm_score: 0.33
+tags: ["show-hn", "product", "patterns"]
+sources: ["raw/showhn/show-hn-yorishiro-a-macos-terminal-where-ai-agents-live.json"]
+---
+
+# Show HN: Yorishiro – a macOS terminal where AI agents live
+
+## 中文摘要
+Yorishiro 是一款面向 macOS 的终端工具，允许 AI 代理（Agents）直接在其中运行。产品创新点在于将 AI 代理集成到开发者日常使用的命令行环境中，实现任务自动化、上下文感知及多代理协作。技术要点包括本地优先的 AI 执行、终端原生交互界面，以及对多种模型的支持。商业价值方面，它降低了 AI 代理的使用门槛，提升了开发效率，适合 DevOps、脚本编写、系统管理等场景。该工具展示了 AI 代理从聊天界面迁移到终端的新模式，有望成为 AI 原生开发工具链的关键组件。
+
+## PM 关注指标
+- 🔥 HN Score: 16
+- 💬 Comments: 2
+- 🎯 PM Score: 0.33
+- 🏷️ Pillar: patterns
+
+## 链接
+- 🔗 HN: https://news.ycombinator.com/item?id=49008434
+- 🔗 原文: https://github.com/sktkkoo/Yorishiro

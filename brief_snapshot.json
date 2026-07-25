@@ -1,8 +1,19 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26T00:01:39.705662+08:00",
-  "item_count": 2,
+  "generated_at": "2026-07-26T06:01:24.115697+08:00",
+  "item_count": 5,
   "items": [
+    {
+      "id": "open-weight-ai-is-having-its-kubernetes-moment",
+      "label": "Open-weight AI is having its Kubernetes moment",
+      "summary": "开放权重AI正经历类似Kubernetes的转折点：标准化与生态成熟使其成为AI基础设施的默认选择。对产品经理而言，这意味着开放模型（如Llama、Mistral）将主导定制化部署，降低依赖单一供应商的风险，并催生模型运维、微调平台等新商业机会。类比Kubernetes统一容器编排，开放权重AI正在统一模型分发与部署范式，推动企业从采购黑盒API转向自建可控的AI栈。",
+      "pm_score": 0.665,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49048034",
+      "date": "2026-07-26"
+    },
     {
       "id": "one-fallen-power-line-exposed-a-growing-ai-data-center-problem-here8217s-how-to",
       "label": "One fallen power line exposed a growing AI data center problem. Here&#8217;s how",
@@ -24,10 +35,32 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
       "date": "2026-07-26"
+    },
+    {
+      "id": "show-hn-yorishiro-a-macos-terminal-where-ai-agents-live",
+      "label": "Show HN: Yorishiro – a macOS terminal where AI agents live",
+      "summary": "Yorishiro 是一款面向 macOS 的终端工具，允许 AI 代理（Agents）直接在其中运行。产品创新点在于将 AI 代理集成到开发者日常使用的命令行环境中，实现任务自动化、上下文感知及多代理协作。技术要点包括本地优先的 AI 执行、终端原生交互界面，以及对多种模型的支持。商业价值方面，它降低了 AI 代理的使用门槛，提升了开发效率，适合 DevOps、脚本编写、系统管理等场景。该工具展示了 AI 代理从聊天界面迁移到终端的新模式，有望成为 AI 原生开发工具链的关键组件。",
+      "pm_score": 0.33,
+      "pillar": "patterns",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://github.com/sktkkoo/Yorishiro",
+      "date": "2026-07-26"
+    },
+    {
+      "id": "the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "label": "The new rules of context engineering for Claude 5 generation models",
+      "summary": "本文介绍了针对Claude 5代模型的新上下文工程规则，核心在于通过精细化设计上下文结构（如分层信息、动态摘要）来优化模型对长对话或复杂任务的处理能力，从而提升输出准确性和一致性。该技术对于构建高可靠性的AI产品（如客服、文档分析）具有直接商业价值，能有效降低幻觉、提高用户信任度。产品经理可借此规则设计更高效的上下文管理策略，减少token浪费并增强模型长期记忆表现。",
+      "pm_score": 0.33,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49051361",
+      "date": "2026-07-26"
     }
   ],
   "graph_totals": {
-    "real_nodes": 5348,
-    "edges": 5689
+    "real_nodes": 5365,
+    "edges": 5706
   }
 }

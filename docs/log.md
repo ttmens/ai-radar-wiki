@@ -3181,3 +3181,9 @@
 - create: partialstring-a-finite-difference-time-domain-physical-modelling-synthesiser.md
 - create: librarians-are-hosting-viral-8216avoiding-ai8217-workshops-for-people-who-are-fe.md
 - create: one-fallen-power-line-exposed-a-growing-ai-data-center-problem-here8217s-how-to.md
+
+## [2026-07-26 06:01] sync v3 | 4 new | pillars: {'capabilities': 3, 'patterns': 1}
+- create: the-new-rules-of-context-engineering-for-claude-5-generation-models.md
+- create: open-weight-ai-is-having-its-kubernetes-moment.md
+- create: show-hn-brolly-a-plain-text-weather-forecast-site.md
+- create: show-hn-yorishiro-a-macos-terminal-where-ai-agents-live.md
