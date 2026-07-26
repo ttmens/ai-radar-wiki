@@ -1,6 +1,6 @@
 # X/Twitter AI KOL 动态
 
-抓取时间: 2026-07-26 09:00:49
+抓取时间: 2026-07-26 21:01:39
 
 
 ## @sama (5 条)
@@ -47,29 +47,29 @@
 
 ## @ylecun (5 条)
 
-1. **America’s Quiet Exodus!  Neil deGrasse Tyson has been unusually blunt lately: he compared federal science cuts to an act of war, arguing that if a foreign rival gutted American research budgets this w**
+1. **Recent discussions about open-sourcing make me feel that I should go back and revisit these important open-source works in representation learning that pushed the field forward and eventually made vis**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **January: Trump’s account buys $1–5 million of Nvidia in a single trade.  April: He bans Nvidia from selling its chips to China. The stock craters, Nvidia takes a $4.5 billion write-down.  Through the **
+2. **America’s Quiet Exodus!  Neil deGrasse Tyson has been unusually blunt lately: he compared federal science cuts to an act of war, arguing that if a foreign rival gutted American research budgets this w**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **I still remember the days when it was basically us & a few other people pushing this topic (on the top of my head @allen_ai @ylecun @jeremyphoward @soumithchintala @BlancheMinerva @fchollet @Guillaume**
+3. **January: Trump’s account buys $1–5 million of Nvidia in a single trade.  April: He bans Nvidia from selling its chips to China. The stock craters, Nvidia takes a $4.5 billion write-down.  Through the **
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
 ## @elonmusk (5 条)
 
-1. **Download Grok Build and type /tutorial  https://t.co/lOJK57wDP5 https://t.co/XWmqoGZAVO**
+1. **Grok Build Web UI is live.  I built a local-first dashboard for Grok sessions. Open a fresh Grok CLI and it shows up live, then inspect activity, Git changes, session history, and control agents from **
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **https://t.co/nHCGQfRurA**
+2. **Grok Imagine https://t.co/wDMHRZYL0d**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **Yup https://t.co/pUzQTCjOrL**
+3. **https://t.co/iVejXuRUq1**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 

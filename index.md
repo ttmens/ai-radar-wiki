@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-26 | Total pages: 2977
+> Last updated: 2026-07-27 | Total pages: 2979
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -655,6 +655,7 @@
 - [[oxcaml-in-space.md]] O(x)Caml in Space `pillar:capabilities` `score:0.275`
 - [[paddlepaddlepaddle.md]] PaddlePaddle/Paddle `pillar:capabilities` `score:0.615`
 - [[painting-the-sides-of-railroad-rails-white-to-reduce-derailment.md]] Painting the sides of railroad rails white to reduce derailment `pillar:capabilities` `score:0.395`
+- [[park-by-robot-at-london-gatwick-airport.md]] Park by Robot at London Gatwick Airport `pillar:capabilities` `score:0.395`
 - [[partialstring-a-finite-difference-time-domain-physical-modelling-synthesiser.md]] PartialString – A finite-difference time-domain physical modelling synthesiser `pillar:capabilities` `score:0.26`
 - [[passkeys-were-invented-by-engineers-with-zero-understanding-of-consumer-brain.md]] Passkeys were invented by engineers with zero understanding of consumer brain `pillar:capabilities` `score:0.63`
 - [[petals-run-llms-at-home-bittorrent-style.md]] Petals: Run LLMs at home, BitTorrent-style `pillar:capabilities` `score:0.43`
@@ -842,6 +843,7 @@
 - [[show-hn-reame-a-cpu-inference-server-that-gets-faster-as-it-runs.md]] Show HN: Reame – a CPU inference server that gets faster as it runs `pillar:capabilities` `score:0.33`
 - [[show-hn-recall-local-project-memory-for-claude-code.md]] Show HN: Recall – Local project memory for Claude Code `pillar:capabilities` `score:0.53`
 - [[show-hn-replaya-self-hosted-browser-session-replay-with-live-tailing.md]] Show HN: RePlaya – self-hosted browser session replay with live tailing `pillar:capabilities` `score:0.365`
+- [[show-hn-reproducibility-benchmark-a-risk-quantitative-model.md]] Show HN: Reproducibility Benchmark a Risk Quantitative Model `pillar:capabilities` `score:0.33`
 - [[show-hn-reviving-my-2001-college-band-with-ai.md]] Show HN: Reviving my 2001 college band with AI `pillar:capabilities` `score:0.43`
 - [[show-hn-running-a-vision-model-on-every-screenshot-on-device.md]] Show HN: Running a vision model on every screenshot on-device `pillar:capabilities` `score:0.33`
 - [[show-hn-selector-forge-browser-extension-for-ai-generated-resilient-selectors.md]] Show HN: Selector Forge – browser extension for AI-generated resilient selectors `pillar:capabilities` `score:0.33`

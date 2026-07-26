@@ -3203,3 +3203,7 @@
 - create: rethinking-legal-education-in-the-ai-era.md
 - create: what-is-happening-to-jobs-separating-ai-hype-from-reality.md
 - create: becoming-a-research-engineer-at-a-big-llm-lab.md
+
+## [2026-07-27 00:01] sync v3 | 2 new | pillars: {'capabilities': 2}
+- create: park-by-robot-at-london-gatwick-airport.md
+- create: show-hn-reproducibility-benchmark-a-risk-quantitative-model.md
