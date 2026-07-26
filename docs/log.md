@@ -3197,3 +3197,9 @@
 - create: running-a-289m-parameter-llm-on-an-8-microcontroller.md
 - create: llm-usage-in-debian-three-proposals.md
 - create: mondaycom-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are-20-others.md
+
+## [2026-07-26 18:01] sync v3 | 4 new | pillars: {'capabilities': 4}
+- create: grapheneos-protections-against-data-extraction-from-locked-devices.md
+- create: rethinking-legal-education-in-the-ai-era.md
+- create: what-is-happening-to-jobs-separating-ai-hype-from-reality.md
+- create: becoming-a-research-engineer-at-a-big-llm-lab.md

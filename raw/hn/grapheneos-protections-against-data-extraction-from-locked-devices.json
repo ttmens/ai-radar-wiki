@@ -1,0 +1,24 @@
+{
+  "title": "GrapheneOS protections against data extraction from locked devices",
+  "score": 69,
+  "comments": 31,
+  "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+  "hn_url": "https://news.ycombinator.com/item?id=49055169",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "GrapheneOS 增强锁屏设备数据防提取能力，通过硬件级内存完整性校验和内核加固，防止冷启动攻击和USB调试滥用。其商业价值在于满足企业/医疗等高隐私场景对设备端AI数据安全的合规需求；产品创新体现为将操作系统层安全与AI应用数据隔离结合，实现即使设备丢失，本地AI模型和敏感数据也无法被暴力提取。",
+  "pm_relevance": 7,
+  "concepts": [
+    "硬件级数据隔离",
+    "防冷启动攻击",
+    "锁屏数据保护"
+  ],
+  "entities": [
+    "GrapheneOS"
+  ],
+  "patterns": [
+    "隐私优先架构",
+    "硬件背书安全"
+  ]
+}

@@ -1,8 +1,78 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26T12:01:33.391481+08:00",
-  "item_count": 13,
+  "generated_at": "2026-07-26T18:01:50.158549+08:00",
+  "item_count": 21,
   "items": [
+    {
+      "id": "twitter_elonmusk_2081219220415652110",
+      "label": "Grok Imagine https://t.co/wDMHRZYL0d",
+      "summary": "Grok Imagine https://t.co/wDMHRZYL0d",
+      "pm_score": 1.0,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/elonmusk/status/2081219220415652110",
+      "date": "2026-07-26",
+      "stars": 1729,
+      "score": 1.0,
+      "comments": 655
+    },
+    {
+      "id": "twitter_elonmusk_2081218380321714381",
+      "label": "https://t.co/iVejXuRUq1",
+      "summary": "https://t.co/iVejXuRUq1",
+      "pm_score": 1.0,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/elonmusk/status/2081218380321714381",
+      "date": "2026-07-26",
+      "stars": 1181,
+      "score": 1.0,
+      "comments": 276
+    },
+    {
+      "id": "twitter_elonmusk_2081217444186554672",
+      "label": "/dream",
+      "summary": "/dream",
+      "pm_score": 1.0,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/elonmusk/status/2081217444186554672",
+      "date": "2026-07-26",
+      "stars": 1039,
+      "score": 1.0,
+      "comments": 309
+    },
+    {
+      "id": "twitter_elonmusk_2081217033543286834",
+      "label": "https://t.co/6NsBfHxGzh",
+      "summary": "https://t.co/6NsBfHxGzh",
+      "pm_score": 1.0,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/elonmusk/status/2081217033543286834",
+      "date": "2026-07-26",
+      "stars": 12081,
+      "score": 1.0,
+      "comments": 1143
+    },
+    {
+      "id": "twitter_supabase_2081177454023217296",
+      "label": "Press and hold Select edition https://t.co/zS0LDEX51E",
+      "summary": "Press and hold Select edition https://t.co/zS0LDEX51E",
+      "pm_score": 0.72,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/supabase/status/2081177454023217296",
+      "date": "2026-07-26",
+      "stars": 55,
+      "score": 0.7198,
+      "comments": 2
+    },
     {
       "id": "open-weight-ai-is-having-its-kubernetes-moment",
       "label": "Open-weight AI is having its Kubernetes moment",
@@ -34,6 +104,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49050512",
+      "date": "2026-07-26"
+    },
+    {
+      "id": "what-is-happening-to-jobs-separating-ai-hype-from-reality",
+      "label": "What is happening to jobs? Separating AI hype from reality",
+      "summary": "本文探讨AI对就业的实际影响，区分炒作与现实。技术要点：当前AI在自动化重复性任务上有进展，但创造性、复杂决策及人际交互岗位仍安全。商业价值：企业应理性评估AI替代风险，聚焦于增强而非完全替代人力，从而优化成本与效率。产品创新：需设计人机协作工具，提升员工生产力而非简单裁员。核心观点是AI短期内不会大规模失业，但需重新定义工作角色与技能要求。",
+      "pm_score": 0.5,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49052570",
       "date": "2026-07-26"
     },
     {
@@ -103,6 +184,28 @@
       "date": "2026-07-26"
     },
     {
+      "id": "grapheneos-protections-against-data-extraction-from-locked-devices",
+      "label": "GrapheneOS protections against data extraction from locked devices",
+      "summary": "GrapheneOS 增强锁屏设备数据防提取能力，通过硬件级内存完整性校验和内核加固，防止冷启动攻击和USB调试滥用。其商业价值在于满足企业/医疗等高隐私场景对设备端AI数据安全的合规需求；产品创新体现为将操作系统层安全与AI应用数据隔离结合，实现即使设备丢失，本地AI模型和敏感数据也无法被暴力提取。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49055169",
+      "date": "2026-07-26"
+    },
+    {
+      "id": "rethinking-legal-education-in-the-ai-era",
+      "label": "Rethinking Legal Education in the AI Era",
+      "summary": "本文探讨了人工智能对法律教育的影响，强调AI工具（如自然语言处理和智能检索）正在重塑法律教学与研究。技术要点包括利用大模型进行案例分析和法律文书生成，商业价值体现在提高学习效率和降低培训成本，产品创新方向是开发个性化法律学习平台和模拟法庭系统。AI产品经理应关注如何将AI能力融入教育场景，优化用户体验并确保法律伦理合规。",
+      "pm_score": 0.36,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49024980",
+      "date": "2026-07-26"
+    },
+    {
       "id": "gm-backs-sodium-ion-batteries-for-us-grid-storage",
       "label": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
       "summary": "通用汽车（GM）宣布支持钠离子电池技术用于美国电网储能，这一举措旨在降低对锂资源的依赖并提升能源存储的经济性。钠离子电池相比锂电池成本更低、原料更丰富，适合大规模固定式储能场景，有助于平衡可再生能源的间歇性。对于AI产品经理而言，该技术虽非直接AI相关，但可能影响智能电网中的能源调度算法和预测模型，推动更高效的储能管理系统开发。GM的战略布局也体现了传统车企向清洁能源基础设施延伸的商业趋势。",
@@ -148,7 +251,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 5402,
-    "edges": 5743
+    "real_nodes": 5416,
+    "edges": 5757
   }
 }

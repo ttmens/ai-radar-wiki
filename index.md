@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-26 | Total pages: 2973
+> Last updated: 2026-07-26 | Total pages: 2977
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -153,6 +153,7 @@
 - [[automating-ai-away.md]] Automating AI Away `pillar:capabilities` `score:0.43`
 - [[autoregressive-next-token-prediction-and-kv-cache-in-transformers.md]] Autoregressive next token prediction and KV Cache in transformers `pillar:capabilities` `score:0.295`
 - [[back-to-kagi.md]] Back to Kagi `pillar:capabilities` `score:0.48`
+- [[becoming-a-research-engineer-at-a-big-llm-lab.md]] Becoming a Research Engineer at a Big LLM Lab `pillar:capabilities` `score:0.26`
 - [[bee-sanciphey.md]] bee-san/Ciphey `pillar:capabilities` `score:0.545`
 - [[behind-the-scenes-with-the-midjourney-scanner-video.md]] Behind the scenes with the Midjourney scanner [video] `pillar:capabilities` `score:0.43`
 - [[benchmarking-15-e-waste-gpus-with-modern-workloads.md]] Benchmarking 15 "E-Waste" GPUs with Modern Workloads `pillar:capabilities` `score:0.395`
@@ -388,6 +389,7 @@
 - [[gpt-56.md]] GPT-5.6 `pillar:capabilities` `score:0.68`
 - [[gptlive.md]] GPT‑Live `pillar:capabilities` `score:0.645`
 - [[gptnl-a-sovereign-language-model-for-the-netherlands.md]] GPT‑NL: a sovereign language model for the Netherlands `pillar:capabilities` `score:0.565`
+- [[grapheneos-protections-against-data-extraction-from-locked-devices.md]] GrapheneOS protections against data extraction from locked devices `pillar:capabilities` `score:0.395`
 - [[grapheneos-speech-services-version-2-released.md]] GrapheneOS Speech Services version 2 released `pillar:capabilities` `score:0.295`
 - [[gritt-exits-stealth-with-32-million-for-robots-to-build-solar-plants-then-everyt.md]] Gritt exits stealth with $32 million for robots to build solar plants — then, ev `pillar:capabilities` `score:0.48`
 - [[grok-uploaded-my-user-directory-to-xais-servers.md]] Grok uploaded my user directory to xAI's servers `pillar:capabilities` `score:0.6`
@@ -701,6 +703,7 @@
 - [[replies-to-comments-on-my-llms-are-eroding-my-career-post.md]] Replies to comments on my "LLMs are eroding my career" post `pillar:capabilities` `score:0.55`
 - [[researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai.md]] Researchers Wanted Preschool Teachers to Wear Cameras to Train AI `pillar:capabilities` `score:0.36`
 - [[response-to-ai-slop-is-from-robin-williams.md]] Response to AI slop is from Robin Williams `pillar:capabilities` `score:0.375`
+- [[rethinking-legal-education-in-the-ai-era.md]] Rethinking Legal Education in the AI Era `pillar:capabilities` `score:0.36`
 - [[rich-sutton-on-ai-creativity-and-discovery.md]] Rich Sutton on AI creativity and discovery `pillar:capabilities` `score:0.295`
 - [[rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls.md]] Rime picks up $24M Series A to help enterprises field customer calls `pillar:capabilities` `score:0.48`
 - [[rio-de-janeiros-city-government-model-rio35-beats-qwen37-in-recent-benchmarks.md]] Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks `pillar:capabilities` `score:0.345`
@@ -2907,6 +2910,7 @@
 - [[wayve-launches-85m-employee-tender-offer-at-85b-valuation.md]] Wayve launches $85M employee tender offer at $8.5B valuation `pillar:business` `score:0.41`
 - [[were-feeling-cynical-about-xais-big-deal-with-an.md]] We’re feeling cynical about xAI’s big deal with Anthropic `pillar:business` `score:0.305`
 - [[what-a-japanese-cooking-principle-taught-me-about.md]] What a Japanese cooking principle taught me about overcoming AI fatigue `pillar:business` `score:0.155`
+- [[what-is-happening-to-jobs-separating-ai-hype-from-reality.md]] What is happening to jobs? Separating AI hype from reality `pillar:business` `score:0.5`
 - [[what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman.md]] What the jury will actually decide in the case of Elon Musk vs. Sam Altman `pillar:business` `score:0.48`
 - [[whatsapp-adds-an-incognito-mode-in-meta-ai-chats.md]] WhatsApp adds an incognito mode in Meta AI chats `pillar:business` `score:0.305`
 - [[when-ai-costs-more-than-the-engineer.md]] When AI Costs More Than the Engineer `pillar:business` `score:0.515`
