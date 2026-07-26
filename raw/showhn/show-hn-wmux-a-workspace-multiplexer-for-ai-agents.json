@@ -1,0 +1,26 @@
+{
+  "title": "Show HN: Wmux – A workspace multiplexer for AI agents",
+  "score": 10,
+  "comments": 0,
+  "url": "https://github.com/openwong2kim/wmux",
+  "hn_url": "https://news.ycombinator.com/item?id=49056854",
+  "tag": "ShowHN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "Wmux 是一个面向 AI 代理的工作区多路复用器，灵感源自 tmux 但专为 AI Agent 设计。它允许开发者或系统同时管理多个独立的工作区，每个工作区可运行不同的代理实例或任务上下文。通过工作区切换和隔离，Wmux 解决了 AI 代理在复杂任务中需要维护多状态、多上下文的问题。该工具降低了开发多代理系统的门槛，提升了并行执行和上下文切换的灵活性，为构建更强大的 Agent 工作流提供了基础架构。",
+  "pm_relevance": 7,
+  "concepts": [
+    "AI Agent Workspace",
+    "Context Multiplexing",
+    "Multi-Agent Management"
+  ],
+  "entities": [
+    "Wmux"
+  ],
+  "patterns": [
+    "Workspace Multiplexer Pattern",
+    "Agent Orchestration Pattern"
+  ]
+}

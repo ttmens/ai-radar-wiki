@@ -3207,3 +3207,13 @@
 ## [2026-07-27 00:01] sync v3 | 2 new | pillars: {'capabilities': 2}
 - create: park-by-robot-at-london-gatwick-airport.md
 - create: show-hn-reproducibility-benchmark-a-risk-quantitative-model.md
+
+## [2026-07-27 06:01] sync v3 | 8 new | pillars: {'patterns': 3, 'capabilities': 5}
+- create: the-pocketpocketflow.md
+- create: its-not-empowering-to-hand-off-the-details.md
+- create: the-new-ai-superpowers-focus-and-followthrough.md
+- create: terence-tao-mathematics-in-the-age-of-ai-pdf.md
+- create: making-sense-of-the-panic-over-chinese-ai.md
+- create: hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack.md
+- create: show-hn-wmux-a-workspace-multiplexer-for-ai-agents.md
+- create: show-hn-managing-on-premise-servers-without-kubernetes.md

@@ -2,34 +2,87 @@
   "daily_summary": {
     "date": "2026-07-27",
     "headline": "今日 AI 情报 · 2026-07-27",
-    "overview": "AI落地进入可靠性优先阶段，从功能验证转向规模化稳定部署",
+    "overview": "自主代理能力跃迁，安全与可控性成为产品设计新边界",
     "narratives": [
       {
-        "title": "AI落地进入可靠性优先阶段",
-        "body": "两条情报共同指向一个趋势：AI产品正在从“炫技”转向“可信赖”。机器人停车系统需要SLAM和避障的稳定运行，金融风控模型需要可重复性基准。这意味着PM必须将可靠性作为核心设计指标，而非仅关注功能新颖性。后续发展可能是行业出现更多标准化可靠性测试框架，推动AI从实验室走向规模化生产。",
+        "title": "AI代理从实验走向系统级控制，安全与可解释性成核心瓶颈",
+        "body": "今日多条情报指向一个趋势：AI代理正从简单的对话任务转向自主构建、多工区管理、甚至发起网络攻击。这要求产品经理在设计时不仅追求能力提升，更要将安全、可重复性和用户掌控权作为核心设计原则。缺乏这些，体验将适得其反。",
+        "type": "paradigm_shift",
+        "pillar_key": "patterns"
+      },
+      {
+        "title": "长上下文与推理能力成为差异化竞争焦点",
+        "body": "中国AI初创公司推出超长上下文模型，同时数学推理、金融稳定性基准等情报显示，业界正在从规模竞赛转向深度能力提升——上下文长度、逻辑推理、专注力。这对PM意味着可探索文档分析、科学计算等垂直场景。",
         "type": "maturation",
         "pillar_key": "capabilities"
       }
     ],
     "insights": [
       {
-        "pillar": "🤖 技术能力",
-        "pillar_key": "capabilities",
-        "narrative_title": "AI落地进入可靠性优先阶段",
-        "insight": "AI落地进入可靠性优先阶段。该方向的具体信号：机器人停车系统通过SLAM、路径规划和避障技术的稳定组合实现规模化服务，而金融风险模型的可重复性基准则强调在不同环境下输出的一致性，两者均表明技术论证点已从“能做”转向“稳定可靠”。",
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI代理从实验走向系统级控制，安全与可解释性成核心瓶颈",
+        "insight": "AI代理从实验走向系统级控制，安全与可解释性成核心瓶颈。该方向的具体信号：PocketFlow实现代理构建代理的元级自动化；Wmux为多代理提供工作区隔离；同时Hugging Face CEO警示自主代理发起网络攻击，揭示安全新风险；反观设计上用户需要细节控制权防止被剥夺能力。",
         "evidence": [
           {
-            "id": "park-by-robot-at-london-gatwick-airport",
-            "title": "伦敦盖特威克机场部署AI自动泊车机器人，提升空间利用率30%",
-            "score": 0.4
+            "id": "the-pocketpocketflow",
+            "title": "PocketFlow超轻量多Agent框架",
+            "score": 0.58
+          },
+          {
+            "id": "show-hn-wmux-a-workspace-multiplexer-for-ai-agents",
+            "title": "Wmux多工作区多路复用器",
+            "score": 0.29
+          },
+          {
+            "id": "hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack",
+            "title": "Hugging Face呼吁透明度应对自主代理攻击",
+            "score": 0.48
+          }
+        ]
+      },
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "长上下文与推理能力成为差异化竞争焦点",
+        "insight": "长上下文与推理能力成为差异化竞争焦点。该方向的具体信号：Kimi超长上下文挑战OpenAI；Terence Tao讨论AI辅助数学证明；Reproducibility Benchmark强调金融模型稳定性；机器人停车实现SLAM落地；专注力与执行力成为新超级力量。",
+        "evidence": [
+          {
+            "id": "making-sense-of-the-panic-over-chinese-ai",
+            "title": "中国AI超长上下文引发恐慌",
+            "score": 0.48
           }
         ]
       }
     ],
-    "stats": "技术能力: 2 | 产品模式: 0 | 工具生态: 0 | 商业趋势: 0",
-    "total_items": 2,
-    "high_value_count": 2,
+    "stats": "技术能力: 7 | 产品模式: 3 | 工具生态: 0 | 商业趋势: 0",
+    "total_items": 10,
+    "high_value_count": 8,
     "all_today_ids": [
+      {
+        "id": "the-pocketpocketflow",
+        "label": "The-Pocket/PocketFlow"
+      },
+      {
+        "id": "its-not-empowering-to-hand-off-the-details",
+        "label": "It's not empowering to hand off the details"
+      },
+      {
+        "id": "hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack",
+        "label": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI h"
+      },
+      {
+        "id": "making-sense-of-the-panic-over-chinese-ai",
+        "label": "Making sense of the panic over Chinese AI"
+      },
+      {
+        "id": "the-new-ai-superpowers-focus-and-followthrough",
+        "label": "The New AI Superpowers: Focus and Followthrough"
+      },
+      {
+        "id": "terence-tao-mathematics-in-the-age-of-ai-pdf",
+        "label": "Terence Tao: Mathematics in the Age of AI [pdf]"
+      },
       {
         "id": "park-by-robot-at-london-gatwick-airport",
         "label": "Park by Robot at London Gatwick Airport"
@@ -37,9 +90,17 @@
       {
         "id": "show-hn-reproducibility-benchmark-a-risk-quantitative-model",
         "label": "Show HN: Reproducibility Benchmark a Risk Quantitative Model"
+      },
+      {
+        "id": "show-hn-managing-on-premise-servers-without-kubernetes",
+        "label": "Show HN: Managing on-premise servers without Kubernetes"
+      },
+      {
+        "id": "show-hn-wmux-a-workspace-multiplexer-for-ai-agents",
+        "label": "Show HN: Wmux – A workspace multiplexer for AI agents"
       }
     ],
     "date_bj": "2026-07-27 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-07-27 00:01:07"
+    "generated_at_bj": "2026-07-27 06:01:11"
   }
 }

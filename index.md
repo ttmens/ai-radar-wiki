@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-27 | Total pages: 2979
+> Last updated: 2026-07-27 | Total pages: 2987
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -478,6 +478,7 @@
 - [[is-silicon-valley-ready-to-put-robots-in-people8217s-homes-hello-robot-is.md]] Is Silicon Valley ready to put robots in people&#8217;s homes? Hello Robot is. `pillar:capabilities` `score:0.515`
 - [[is-the-us-government8217s-anthropic-ban-accidentally-helping-the-brand.md]] Is the US government&#8217;s Anthropic ban accidentally helping the brand? `pillar:capabilities` `score:0.48`
 - [[is-xai-a-neocloud-now.md]] Is xAI a neocloud now? `pillar:capabilities` `score:0.3`
+- [[its-not-empowering-to-hand-off-the-details.md]] It's not empowering to hand off the details `pillar:capabilities` `score:0.515`
 - [[ive-joined-anthropic.md]] I’ve joined Anthropic `pillar:capabilities` `score:0.53`
 - [[jamesobs-guide-to-running-sota-llms-locally.md]] Jamesob's guide to running SOTA LLMs locally `pillar:capabilities` `score:0.6`
 - [[jeff-bezos8217s-prometheus-raises-12b-to-build-an-8216artificial-general-enginee.md]] Jeff Bezos&#8217;s Prometheus raises $12B to build an &#8216;artificial general `pillar:capabilities` `score:0.515`
@@ -541,6 +542,7 @@
 - [[making-food-out-of-thin-air-2024.md]] Making 'food out of thin air' (2024) `pillar:capabilities` `score:0.295`
 - [[making-llm-training-faster-with-unsloth-and-nvidia.md]] Making LLM Training Faster with Unsloth and NVIDIA `pillar:capabilities` `score:0.155`
 - [[making-sense-of-the-debate-over-ai-psychosis.md]] Making sense of the debate over AI psychosis `pillar:capabilities` `score:0.445`
+- [[making-sense-of-the-panic-over-chinese-ai.md]] Making sense of the panic over Chinese AI `pillar:capabilities` `score:0.48`
 - [[marimo-teammarimo.md]] marimo-team/marimo `pillar:capabilities` `score:0.58`
 - [[markdy-like-mermaid-diagrams-but-for-motion.md]] Markdy: Like Mermaid Diagrams, but for Motion `pillar:capabilities` `score:0.345`
 - [[mesh-llm-distributed-ai-computing-on-iroh.md]] Mesh LLM: distributed AI computing on iroh `pillar:capabilities` `score:0.48`
@@ -812,6 +814,7 @@
 - [[show-hn-low-latency-local-llm-runner-via-openjdk-panama-ffm-java-22.md]] Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22) `pillar:capabilities` `score:0.33`
 - [[show-hn-lowfat-pluggable-cli-filter-that-saved-918-of-my-llm-tokens.md]] Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens `pillar:capabilities` `score:0.415`
 - [[show-hn-mail-memories-a-desktop-app-to-rescue-photos-from-gmail.md]] Show HN: Mail Memories – A desktop app to rescue photos from Gmail `pillar:capabilities` `score:0.295`
+- [[show-hn-managing-on-premise-servers-without-kubernetes.md]] Show HN: Managing on-premise servers without Kubernetes `pillar:capabilities` `score:0.295`
 - [[show-hn-memstitch-zero-copy-context-bridging-for-vllm-25x-ttft-speedup.md]] Show HN: MemStitch – Zero-copy context bridging for vLLM (25x TTFT speedup) `pillar:capabilities` `score:0.33`
 - [[show-hn-metaspec-the-dpans3r-common-lisp-spec-in-s-expr-and-html-format.md]] Show HN: Metaspec: The DpANS3R Common Lisp Spec in S-Expr and HTML Format `pillar:capabilities` `score:0.155`
 - [[show-hn-mira-open-source-and-self-hosted-ai-code-reviewer.md]] Show HN: Mira – Open-source and self-hosted AI code reviewer `pillar:capabilities` `score:0.33`
@@ -910,6 +913,7 @@
 - [[tectonic-a-modernized-complete-self-contained-texlatex-engine.md]] Tectonic: A modernized, complete, self-contained TeX/LaTeX engine `pillar:capabilities` `score:0.325`
 - [[tencentncnn.md]] Tencent/ncnn `pillar:capabilities` `score:0.58`
 - [[tensorflowtfjs.md]] tensorflow/tfjs `pillar:capabilities` `score:0.58`
+- [[terence-tao-mathematics-in-the-age-of-ai-pdf.md]] Terence Tao: Mathematics in the Age of AI [pdf] `pillar:capabilities` `score:0.395`
 - [[ternlight-7-mb-embedding-model-that-runs-in-browser-wasm.md]] Ternlight – 7 MB embedding model that runs in browser (WASM) `pillar:capabilities` `score:0.48`
 - [[terrence-taos-chatgpt-conversation-about-the-jacobian-conjecture-counterexample.md]] Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample `pillar:capabilities` `score:0.63`
 - [[the-90-year-old-idea-behind-jepa-models-canonical-correlation-analysis.md]] The 90-year-old idea behind JEPA models: Canonical Correlation Analysis `pillar:capabilities` `score:0.345`
@@ -941,6 +945,7 @@
 - [[the-main-thing-about-p2p-meth-is-that-theres-so-much-of-it-2021.md]] The main thing about P2P meth is that there's so much of it (2021) `pillar:capabilities` `score:0.305`
 - [[the-milkv-jupiter-2spacemit-k3-risc-v-vector-compute.md]] The MilkV Jupiter 2/SpacemiT K3 (RISC-V vector compute) `pillar:capabilities` `score:0.295`
 - [[the-mysterious-hy3-llm-is-topping-openrouter-model-rankings-by-a-large-margin.md]] The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin `pillar:capabilities` `score:0.48`
+- [[the-new-ai-superpowers-focus-and-followthrough.md]] The New AI Superpowers: Focus and Followthrough `pillar:capabilities` `score:0.48`
 - [[the-new-http-query-method-explained.md]] The new HTTP QUERY method explained `pillar:capabilities` `score:0.495`
 - [[the-new-rules-of-context-engineering-for-claude-5-generation-models.md]] The new rules of context engineering for Claude 5 generation models `pillar:capabilities` `score:0.33`
 - [[the-one-step-trap-in-ai-research.md]] The One-Step Trap (In AI Research) `pillar:capabilities` `score:0.33`
@@ -1787,6 +1792,7 @@
 - [[how-to-setup-a-local-coding-agent-on-macos.md]] How to setup a local coding agent on macOS `pillar:patterns` `score:0.53`
 - [[how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches.md]] How to use Google’s new AI agents to go beyond your standard searches `pillar:patterns` `score:0.48`
 - [[how-we-index-images-for-rag.md]] How we index images for RAG `pillar:patterns` `score:0.38`
+- [[hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack.md]] Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI h `pillar:patterns` `score:0.48`
 - [[i-put-google8217s-247-ai-assistant-gemini-spark-to-work-and-it8217s-actually-pre.md]] I put Google&#8217;s 24/7 AI assistant Gemini Spark to work, and it&#8217;s actu `pillar:patterns` `score:0.48`
 - [[india8217s-moengage-bets-that-the-future-of-marketing-is-millions-of-ai-agents.md]] India&#8217;s MoEngage bets that the future of marketing is millions of AI agent `pillar:patterns` `score:0.445`
 - [[infiniflowragflow.md]] infiniflow/ragflow `pillar:patterns` `score:0.615`
@@ -1987,6 +1993,7 @@
 - [[show-hn-visual-workspace-for-agents-based-on-unix.md]] Show HN: Visual Workspace for Agents Based on Unix `pillar:patterns` `score:0.295`
 - [[show-hn-voicedraw-talk-system-design-out-loud-the-diagrams-draw-themselves.md]] Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves `pillar:patterns` `score:0.33`
 - [[show-hn-vt-code-open-source-terminal-coding-agent-in-rust.md]] Show HN: VT Code – open-source terminal coding agent in Rust `pillar:patterns` `score:0.26`
+- [[show-hn-wmux-a-workspace-multiplexer-for-ai-agents.md]] Show HN: Wmux – A workspace multiplexer for AI agents `pillar:patterns` `score:0.295`
 - [[show-hn-y-a-malleable-coding-agent-desktop-app-built-with-electron.md]] Show HN: Y – A malleable coding-agent desktop app built with Electron `pillar:patterns` `score:0.155`
 - [[show-hn-yorishiro-a-macos-terminal-where-ai-agents-live.md]] Show HN: Yorishiro – a macOS terminal where AI agents live `pillar:patterns` `score:0.33`
 - [[show-hn-zerofs-make-s3-your-primary-storage.md]] Show HN: ZeroFS – Make S3 your primary storage `pillar:patterns` `score:0.295`
@@ -2015,6 +2022,7 @@
 - [[the-log-is-the-agent.md]] The Log Is the Agent `pillar:patterns` `score:0.33`
 - [[the-low-tech-ai-of-elden-ring.md]] The Low-Tech AI of Elden Ring `pillar:patterns` `score:0.395`
 - [[the-most-interesting-startups-right-now-want-to-get-you-off-your-phone.md]] The most interesting startups right now want to get you off your phone `pillar:patterns` `score:0.41`
+- [[the-pocketpocketflow.md]] The-Pocket/PocketFlow `pillar:patterns` `score:0.58`
 - [[the-short-leash-ai-coding-method-for-beating-fable.md]] The Short Leash AI Coding Method for Beating Fable `pillar:patterns` `score:0.295`
 - [[the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-att.md]] The slowtech revolution is here to kill your phone addiction and rescue your att `pillar:patterns` `score:0.48`
 - [[the-three-second-theft-why-ai-voice-fraud-outruns-every-defence.md]] The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence `pillar:patterns` `score:0.5`

@@ -1,8 +1,74 @@
 {
   "date": "2026-07-27",
-  "generated_at": "2026-07-27T00:01:15.315251+08:00",
-  "item_count": 2,
+  "generated_at": "2026-07-27T06:01:38.959101+08:00",
+  "item_count": 8,
   "items": [
+    {
+      "id": "the-pocketpocketflow",
+      "label": "The-Pocket/PocketFlow",
+      "summary": "Pocket Flow是一个仅需100行代码的超轻量级LLM框架，核心理念是让AI Agent自主构建和编排其他Agent，实现“代理构建代理”的元级自动化。该框架极简设计降低了AI应用开发门槛，便于产品经理快速验证多Agent协作场景，同时保持高可扩展性。其商业价值体现在加速原型迭代、减少依赖复杂基础设施，适合中小团队探索智能体生态。产品创新在于将Agent本身作为构建单元，推动从单一模型调用向自适应Agent网络演进。",
+      "pm_score": 0.58,
+      "pillar": "patterns",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/The-Pocket/PocketFlow",
+      "date": "2026-07-27"
+    },
+    {
+      "id": "its-not-empowering-to-hand-off-the-details",
+      "label": "It's not empowering to hand off the details",
+      "summary": "本文指出，AI产品如果剥夺用户对细节的掌控，反而削弱用户的能力。真正的赋能不是把决策细节完全交给AI黑箱，而是让用户理解关键信息并做出判断。对AI产品经理而言，设计时需要平衡自动化与可解释性，保留用户对关键环节的可见性和控制权，从而提升信任度和实际使用效果。商业价值在于构建更具粘性、用户主动参与的AI工具，而非一次性“交付结果”。",
+      "pm_score": 0.515,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49060592",
+      "date": "2026-07-27"
+    },
+    {
+      "id": "hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack",
+      "label": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI h",
+      "summary": "Hugging Face CEO声称OpenAI遭遇了首次自主智能体网络攻击，这一前所未有的安全事件需要前所未有的回应。他呼吁AI行业采取彻底透明的措施以应对自主智能体带来的新型威胁。对AI产品经理而言，这表明AI Agent在提升效率的同时也引入了全新的攻击面，必须将安全性作为核心设计原则，并建立透明的安全响应机制。",
+      "pm_score": 0.48,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "date": "2026-07-27"
+    },
+    {
+      "id": "making-sense-of-the-panic-over-chinese-ai",
+      "label": "Making sense of the panic over Chinese AI",
+      "summary": "本文探讨中国AI初创公司Moonshot AI推出的Kimi产品引发硅谷与华尔街恐慌的原因。Kimi的核心技术突破在于其超长上下文处理能力（支持200万汉字），显著提升了文档分析、对话连贯性和复杂任务处理效率。这一创新直接挑战了OpenAI等巨头在长上下文领域的领先地位，同时揭示了市场对高性价比、强产品力的中国AI的敏感反应。对AI产品经理而言，其商业模式（低价API+场景化应用）和用户增长策略值得关注，尤其凸显了长上下文能力在B端和C端场景的商业价值，以及全球AI竞争格局下中国企业的差异化突围路径。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "date": "2026-07-27"
+    },
+    {
+      "id": "the-new-ai-superpowers-focus-and-followthrough",
+      "label": "The New AI Superpowers: Focus and Followthrough",
+      "summary": "本文探讨AI领域的新能力：专注力与执行力成为AI超级力量。面向产品经理，指出AI代理需提升长期任务跟踪和聚焦能力，以解决当前模型易分心、缺乏后续行动的问题。技术要点包括改进记忆机制和任务分解，商业价值体现在提升自动化效率和可靠性，产品创新方向是设计能自主规划并坚持执行的AI助手。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49057877",
+      "date": "2026-07-27"
+    },
+    {
+      "id": "terence-tao-mathematics-in-the-age-of-ai-pdf",
+      "label": "Terence Tao: Mathematics in the Age of AI [pdf]",
+      "summary": "陶哲轩讨论AI时代数学的演进，认为AI工具正在改变数学研究方式，例如辅助证明验证、自动定理发现及符号计算。对产品经理而言，这意味着AI在复杂推理领域的突破可能催生新应用，如智能辅导系统、数学辅助软件或科学计算引擎。商业价值在于将AI从简单模式匹配提升至逻辑推理，打开医药、金融等需要严谨验证的行业。产品创新机会包括开发面向研究者的AI协作者，或整合形式化验证工具以降低错误率。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49056620",
+      "date": "2026-07-27"
+    },
     {
       "id": "park-by-robot-at-london-gatwick-airport",
       "label": "Park by Robot at London Gatwick Airport",
@@ -27,7 +93,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 5430,
-    "edges": 5771
+    "real_nodes": 5457,
+    "edges": 5798
   }
 }

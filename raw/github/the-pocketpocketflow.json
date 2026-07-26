@@ -1,0 +1,51 @@
+{
+  "name": "The-Pocket/PocketFlow",
+  "description": "Pocket Flow: 100-line LLM framework. Let Agents build Agents!",
+  "stars": 11043,
+  "language": "Python",
+  "topics": [
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-workflow",
+    "agents",
+    "ai-framework",
+    "ai-frameworks",
+    "aiagent",
+    "aiagents",
+    "artificial-intelligence",
+    "flow-based-programming",
+    "flow-engineering",
+    "large-language-model",
+    "large-language-models",
+    "llm-agent",
+    "llm-framework",
+    "pocket-flow",
+    "pocketflow",
+    "retrieval-augmented-generation",
+    "workflow",
+    "workflow-orchestration"
+  ],
+  "url": "https://github.com/The-Pocket/PocketFlow",
+  "created": "2024-12-24T02:43:30Z",
+  "tag": "GitHub",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent",
+    "workflow",
+    "retrieval-augmented"
+  ],
+  "summary_cn": "Pocket Flow是一个仅需100行代码的超轻量级LLM框架，核心理念是让AI Agent自主构建和编排其他Agent，实现“代理构建代理”的元级自动化。该框架极简设计降低了AI应用开发门槛，便于产品经理快速验证多Agent协作场景，同时保持高可扩展性。其商业价值体现在加速原型迭代、减少依赖复杂基础设施，适合中小团队探索智能体生态。产品创新在于将Agent本身作为构建单元，推动从单一模型调用向自适应Agent网络演进。",
+  "pm_relevance": 8,
+  "concepts": [
+    "轻量级LLM框架",
+    "代理构建代理",
+    "多Agent编排"
+  ],
+  "entities": [
+    "The-Pocket/PocketFlow"
+  ],
+  "patterns": [
+    "Agent元编程模式",
+    "极简框架模式"
+  ]
+}
