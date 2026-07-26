@@ -1,0 +1,24 @@
+{
+  "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+  "score": 106,
+  "comments": 23,
+  "url": "https://github.com/slvDev/esp32-ai",
+  "hn_url": "https://news.ycombinator.com/item?id=49050512",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "parameter"
+  ],
+  "summary_cn": "一项技术演示表明，可在仅8美元的微控制器（如ESP32-S3）上运行一个2890万参数的小型语言模型。这通过模型量化、权重压缩和高效推理框架实现，使得低成本、低功耗的边缘设备具备本地AI推理能力。对于AI产品经理，这意味着可以在智能家居、可穿戴设备、传感器节点等场景中嵌入轻量级LLM，无需云连接，从而降低成本、延迟并提升隐私。该突破将推动AI从云端走向边缘，开启物联网设备的智能交互新范式。",
+  "pm_relevance": 9,
+  "concepts": [
+    "边缘AI",
+    "模型压缩",
+    "微控制器推理"
+  ],
+  "entities": [],
+  "patterns": [
+    "Local-First AI",
+    "Edge Inference"
+  ]
+}

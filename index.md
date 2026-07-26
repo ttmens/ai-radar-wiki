@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-26 | Total pages: 2965
+> Last updated: 2026-07-26 | Total pages: 2973
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -210,6 +210,8 @@
 - [[claude-sonnet-5.md]] Claude Sonnet 5 `pillar:capabilities` `score:0.715`
 - [[claude-tag.md]] Claude Tag `pillar:capabilities` `score:0.565`
 - [[clever-hacker-fits-537000-domains-in-a-5-esp32-ad-blocking-dongle.md]] Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle `pillar:capabilities` `score:0.395`
+- [[clinical-failure-rates-over-the-decades-yikes.md]] Clinical failure rates over the decades: yikes `pillar:capabilities` `score:0.395`
+- [[cloudflares-new-ai-traffic-options-for-customers.md]] Cloudflare's new AI traffic options for customers `pillar:capabilities` `score:0.43`
 - [[clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral.md]] Clouted wants to take the guesswork out of making short videos go viral `pillar:capabilities` `score:0.48`
 - [[cmusatyalabopenface.md]] cmusatyalab/openface `pillar:capabilities` `score:0.545`
 - [[coalton-is-an-efficient-statically-typed-lisp-with-ideas-from-haskell-and-ocaml.md]] Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml `pillar:capabilities` `score:0.26`
@@ -246,6 +248,7 @@
 - [[deeplearning4jdeeplearning4j.md]] deeplearning4j/deeplearning4j `pillar:capabilities` `score:0.58`
 - [[deepseek-aims-to-make-its-own-ai-chip.md]] DeepSeek aims to make its own AI chip `pillar:capabilities` `score:0.33`
 - [[deepseek-open-sources-inference-optimizations-with-6085-faster-generation-pdf.md]] DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf `pillar:capabilities` `score:0.415`
+- [[deepseek-pause-fundraise-after-comments-on-compute-gap-to-us-leaked-transcript-p.md]] DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) `pillar:capabilities` `score:0.53`
 - [[deepseek-v4-flash-means-llm-steering-is-interesting-again.md]] DeepSeek-V4-Flash means LLM steering is interesting again `pillar:capabilities` `score:0.33`
 - [[deepseek-v4-pro-beats-gpt-55-pro-on-precision.md]] DeepSeek V4 Pro beats GPT-5.5 Pro on precision `pillar:capabilities` `score:0.515`
 - [[deepspeedaideepspeed.md]] deepspeedai/DeepSpeed `pillar:capabilities` `score:0.615`
@@ -457,6 +460,7 @@
 - [[inertia-1-an-open-exploration-to-a-unified-motion-foundation-model.md]] Inertia-1: An Open Exploration to a Unified Motion Foundation Model `pillar:capabilities` `score:0.295`
 - [[inference-cost-at-scale-with-napkin-math.md]] Inference cost at scale with napkin math `pillar:capabilities` `score:0.38`
 - [[inference-optimization-for-mimo-v25-pushing-hybrid-swa-efficiency-to-the-limit.md]] Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit `pillar:capabilities` `score:0.43`
+- [[inflect-micro-v2-complete-voice-in-936m-parameters.md]] Inflect-Micro-v2: complete voice in 9.36M parameters `pillar:capabilities` `score:0.33`
 - [[infomaniak-transitions-to-a-foundation-model-to-protect-user-data-privacy.md]] Infomaniak transitions to a foundation model to protect user data privacy `pillar:capabilities` `score:0.415`
 - [[inkling-our-open-weights-model.md]] Inkling: Our Open-Weights Model `pillar:capabilities` `score:0.565`
 - [[inside-faiss-billion-scale-similarity-search.md]] Inside FAISS: Billion-Scale Similarity Search `pillar:capabilities` `score:0.415`
@@ -515,6 +519,7 @@
 - [[liquid-ai-reveals-8b-a1b-moe-trained-on-38t.md]] Liquid AI reveals 8B-A1B MoE trained on 38T `pillar:capabilities` `score:0.515`
 - [[llm-networking-with-mikrotik.md]] LLM Networking with MikroTik `pillar:capabilities` `score:0.395`
 - [[llm-policy-for-rust-compiler.md]] LLM Policy for Rust Compiler `pillar:capabilities` `score:0.295`
+- [[llm-usage-in-debian-three-proposals.md]] LLM Usage in Debian: Three Proposals `pillar:capabilities` `score:0.46`
 - [[llms-are-complicated-now.md]] LLMs Are Complicated Now `pillar:capabilities` `score:0.48`
 - [[llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do.md]] LLMs are eroding my software engineering career and I don't know what to do `pillar:capabilities` `score:0.665`
 - [[local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro.md]] Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro `pillar:capabilities` `score:0.515`
@@ -709,6 +714,7 @@
 - [[rtk-airtk.md]] rtk-ai/rtk `pillar:capabilities` `score:0.58`
 - [[rtx-5090-and-m4-macbook-air-can-it-game.md]] RTX 5090 and M4 MacBook Air: Can It Game? `pillar:capabilities` `score:0.565`
 - [[rubin-tracks-skyscraper-size-asteroids-and-failed-supernovas.md]] Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas `pillar:capabilities` `score:0.31`
+- [[running-a-289m-parameter-llm-on-an-8-microcontroller.md]] Running a 28.9M parameter LLM on an $8 microcontroller `pillar:capabilities` `score:0.515`
 - [[running-local-models-is-good-now.md]] Running local models is good now `pillar:capabilities` `score:0.53`
 - [[runway-launches-ai-model-router-as-generative-media-gets-crowded.md]] Runway launches AI model router as generative media gets crowded `pillar:capabilities` `score:0.48`
 - [[runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai.md]] Runway started by helping filmmakers. Now it wants to beat Google at AI. `pillar:capabilities` `score:0.515`
@@ -2210,6 +2216,7 @@
 - [[gemini-code-assist-will-be-shut-down-on-july-17.md]] Gemini Code Assist will be shut down on July 17 `pillar:ecosystem` `score:0.345`
 - [[german-ruling-declares-google-liable-for-false-answers-in-ai-overviews.md]] German ruling declares Google liable for false answers in AI Overviews `pillar:ecosystem` `score:0.53`
 - [[glow-emerges-from-stealth-at-12b-valuation-to-challenge-endpoint-security-in-the.md]] Glow emerges from stealth at $1.2B valuation to challenge endpoint security in t `pillar:ecosystem` `score:0.445`
+- [[gm-backs-sodium-ion-batteries-for-us-grid-storage.md]] GM Backs Sodium Ion Batteries for U.S. Grid Storage `pillar:ecosystem` `score:0.355`
 - [[gmail-registration-now-requires-scanning-a-qr-code.md]] Gmail registration now requires scanning a QR code and sending a text message `pillar:ecosystem` `score:0.53`
 - [[godot-will-no-longer-accept-ai-authored-code-contributions.md]] Godot will no longer accept AI-authored code contributions `pillar:ecosystem` `score:0.495`
 - [[google-deepmindsonnet.md]] google-deepmind/sonnet `pillar:ecosystem` `score:0.495`
@@ -2751,6 +2758,7 @@
 - [[mistral-ai-acquires-emmi-ai-to-create-the-leading-ai-stack.md]] Mistral AI Acquires Emmi AI to Create the Leading AI Stack `pillar:business` `score:0.43`
 - [[mistral-is-rumored-to-be-raising-3b-at-20b-valuation.md]] Mistral is rumored to be raising €3B at €20B valuation `pillar:business` `score:0.445`
 - [[mitchellh-i-strongly-believe-there-are-entire-companies-now-under-ai-psychosis.md]] Mitchellh – I strongly believe there are entire companies now under AI psychosis `pillar:business` `score:0.565`
+- [[mondaycom-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are-20-others.md]] Monday.com is the latest tech company to blame AI for layoffs — here are 20 othe `pillar:business` `score:0.445`
 - [[mondaycom-lays-off-hundreds-to-focus-on-ai.md]] Monday.com lays off hundreds to focus on AI `pillar:business` `score:0.445`
 - [[moonshot-ai-suspends-new-subscriptions-due-to-kimi-k3-demand.md]] Moonshot AI suspends new subscriptions due to Kimi K3 demand `pillar:business` `score:0.53`
 - [[music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated.md]] Music streamer Deezer says more than 50% of daily uploads are AI-generated `pillar:business` `score:0.515`

@@ -2,69 +2,127 @@
   "daily_summary": {
     "date": "2026-07-26",
     "headline": "今日 AI 情报 · 2026-07-26",
-    "overview": "AI代理渗透操作系统层级，开放生态成熟与基础设施脆弱性并存",
+    "overview": "AI边缘化与开源标准化并行，重塑产品设计与基础设施",
     "narratives": [
       {
-        "title": "AI代理正在重塑操作系统界面与工作流",
-        "body": "从终端代理Yorishiro到Claude的上下文工程优化，AI正从对话式交互转向对操作系统和开发环境的直接控制。产品经理应关注本地优先、多代理协作的自动化场景，并设计高效的上下文管理策略以支撑长周期任务。",
+        "title": "AI从云端走向边缘，开源标准化成为基础设施",
+        "body": "多个信号表明，AI模型正快速向低成本边缘设备迁移（如8美元微控制器运行LLM、936万参数语音模型），同时开放权重模型通过标准化生态（类比Kubernetes）成为企业部署默认选项。这标志着AI从依赖集中式云API转向本地化、可定制的自主基础设施。对PM而言，产品设计需考虑离线能力、隐私保护与成本优化，并关注模型运维平台和边缘推理管理的新机会。",
         "type": "paradigm_shift",
-        "pillar_key": "patterns"
-      },
-      {
-        "title": "开放权重AI生态成熟伴随基础设施与社会双重脆弱性",
-        "body": "开放权重模型标准化（类似Kubernetes）降低依赖风险但暴露数据中心电力韧性不足；同时反AI情绪催生隐私优先的替代方案。产品经理需平衡开放生态红利与可靠性、用户信任之间的张力。",
-        "type": "maturation",
-        "pillar_key": "ecosystem"
+        "pillar_key": "capabilities"
       }
     ],
     "insights": [
       {
-        "pillar": "📱 产品模式",
-        "pillar_key": "patterns",
-        "narrative_title": "AI代理正在重塑操作系统界面与工作流",
-        "insight": "AI代理正在重塑操作系统界面与工作流。该方向的具体信号：Yorishiro将AI代理直接嵌入macOS终端，实现本地化多代理协作与任务自动化，降低了开发者使用门槛；同时Claude 5代上下文工程规则通过分层动态摘要提升了长对话可靠性，为代理持续运行提供了技术支撑。",
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI从云端走向边缘，开源标准化成为基础设施",
+        "insight": "AI从云端走向边缘，开源标准化成为基础设施。该方向的具体信号：在8美元微控制器上运行2890万参数LLM、936万参数完整语音模型实现边缘语音交互，以及Claude 5代上下文工程规则精细化设计，共同表明模型小型化与边缘部署已具商业可行性，同时DeepSeek因算力差距暂停融资则凸显了资源约束下边缘/开源路线的重要性。",
         "evidence": [
           {
-            "id": "show-hn-yorishiro-a-macos-terminal-where-ai-agents-live",
-            "title": "Yorishiro – 让AI代理常驻macOS终端",
+            "id": "running-a-289m-parameter-llm-on-an-8-microcontroller",
+            "title": "8美元微控制器运行2890万参数LLM",
+            "score": 0.52
+          },
+          {
+            "id": "inflect-micro-v2-complete-voice-in-936m-parameters",
+            "title": "936万参数语音模型Inflect-Micro-v2",
             "score": 0.33
           },
           {
             "id": "the-new-rules-of-context-engineering-for-claude-5-generation-models",
-            "title": "Claude 5代模型上下文工程新规则",
+            "title": "Claude 5代上下文工程新规则",
             "score": 0.33
+          }
+        ]
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "narrative_title": "AI从云端走向边缘，开源标准化成为基础设施",
+        "insight": "AI从云端走向边缘，开源标准化成为基础设施。该方向的具体信号：Yorishiro将AI代理嵌入macOS终端实现本地自动化，Brolly极简纯文本天气网站则展示了轻量产品模式，两者均体现本地/边缘优先的产品设计理念，与边缘AI模型部署趋势形成共振。",
+        "evidence": [
+          {
+            "id": "show-hn-yorishiro-a-macos-terminal-where-ai-agents-live",
+            "title": "Yorishiro – macOS终端AI代理",
+            "score": 0.33
+          },
+          {
+            "id": "show-hn-brolly-a-plain-text-weather-forecast-site",
+            "title": "Brolly纯文本天气预报网站",
+            "score": 0.26
           }
         ]
       },
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "narrative_title": "开放权重AI生态成熟伴随基础设施与社会双重脆弱性",
-        "insight": "开放权重AI生态成熟伴随基础设施与社会双重脆弱性。该方向的具体信号：开放权重AI正经历Kubernetes式标准化，推动企业自建模型栈；但弗吉尼亚电网事故暴露数据中心电力韧性不足，易引发服务中断；同时图书馆反AI工作坊火爆显示部分用户对AI的不信任，需开发隐私优先的可配置方案。",
+        "narrative_title": "AI从云端走向边缘，开源标准化成为基础设施",
+        "insight": "AI从云端走向边缘，开源标准化成为基础设施。该方向的具体信号：开放权重AI正经历类似Kubernetes的标准化时刻，成为企业自建AI栈的默认选择；同时，AI数据中心因电网脆弱性暴露基础设施瓶颈，而图书馆‘避开AI’工作坊反映出用户信任危机，这些生态挑战反过来加速了去中心化、本地化的产品策略。",
         "evidence": [
           {
             "id": "open-weight-ai-is-having-its-kubernetes-moment",
-            "title": "开放权重AI正经历Kubernetes时刻",
+            "title": "开放权重AI的Kubernetes时刻",
             "score": 0.67
+          }
+        ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "AI从云端走向边缘，开源标准化成为基础设施",
+        "insight": "AI从云端走向边缘，开源标准化成为基础设施。该方向的具体信号：Monday.com等多家公司以AI为由裁员，反映企业通过AI自动化重构人力结构，这与边缘/开源基础设施降低AI部署门槛、推动内部效率优化的商业逻辑一致，产品经理需将AI成本与人力替代纳入ROI评估。",
+        "evidence": [
+          {
+            "id": "mondaycom-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are-20-others",
+            "title": "Monday.com等公司以AI为由裁员",
+            "score": 0.45
           }
         ]
       }
     ],
-    "stats": "技术能力: 2 | 产品模式: 2 | 工具生态: 3 | 商业趋势: 0",
-    "total_items": 7,
-    "high_value_count": 4,
+    "stats": "技术能力: 11 | 产品模式: 2 | 工具生态: 4 | 商业趋势: 1",
+    "total_items": 15,
+    "high_value_count": 13,
     "all_today_ids": [
       {
         "id": "open-weight-ai-is-having-its-kubernetes-moment",
         "label": "Open-weight AI is having its Kubernetes moment"
       },
       {
+        "id": "deepseek-pause-fundraise-after-comments-on-compute-gap-to-us-leaked-transcript-p",
+        "label": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript)"
+      },
+      {
+        "id": "running-a-289m-parameter-llm-on-an-8-microcontroller",
+        "label": "Running a 28.9M parameter LLM on an $8 microcontroller"
+      },
+      {
         "id": "one-fallen-power-line-exposed-a-growing-ai-data-center-problem-here8217s-how-to",
         "label": "One fallen power line exposed a growing AI data center problem. Here&#8217;s how"
       },
       {
+        "id": "llm-usage-in-debian-three-proposals",
+        "label": "LLM Usage in Debian: Three Proposals"
+      },
+      {
         "id": "librarians-are-hosting-viral-8216avoiding-ai8217-workshops-for-people-who-are-fe",
         "label": "Librarians are hosting viral &#8216;Avoiding AI&#8217; workshops for people who"
+      },
+      {
+        "id": "mondaycom-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are-20-others",
+        "label": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 othe"
+      },
+      {
+        "id": "cloudflares-new-ai-traffic-options-for-customers",
+        "label": "Cloudflare's new AI traffic options for customers"
+      },
+      {
+        "id": "clinical-failure-rates-over-the-decades-yikes",
+        "label": "Clinical failure rates over the decades: yikes"
+      },
+      {
+        "id": "gm-backs-sodium-ion-batteries-for-us-grid-storage",
+        "label": "GM Backs Sodium Ion Batteries for U.S. Grid Storage"
       },
       {
         "id": "show-hn-yorishiro-a-macos-terminal-where-ai-agents-live",
@@ -73,6 +131,10 @@
       {
         "id": "the-new-rules-of-context-engineering-for-claude-5-generation-models",
         "label": "The new rules of context engineering for Claude 5 generation models"
+      },
+      {
+        "id": "inflect-micro-v2-complete-voice-in-936m-parameters",
+        "label": "Inflect-Micro-v2: complete voice in 9.36M parameters"
       },
       {
         "id": "partialstring-a-finite-difference-time-domain-physical-modelling-synthesiser",
@@ -84,6 +146,6 @@
       }
     ],
     "date_bj": "2026-07-26 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-07-26 06:01:13"
+    "generated_at_bj": "2026-07-26 12:01:07"
   }
 }

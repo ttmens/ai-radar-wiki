@@ -3187,3 +3187,13 @@
 - create: open-weight-ai-is-having-its-kubernetes-moment.md
 - create: show-hn-brolly-a-plain-text-weather-forecast-site.md
 - create: show-hn-yorishiro-a-macos-terminal-where-ai-agents-live.md
+
+## [2026-07-26 12:01] sync v3 | 8 new | pillars: {'capabilities': 6, 'patterns': 1, 'business': 1}
+- create: inflect-micro-v2-complete-voice-in-936m-parameters.md
+- create: clinical-failure-rates-over-the-decades-yikes.md
+- create: cloudflares-new-ai-traffic-options-for-customers.md
+- create: gm-backs-sodium-ion-batteries-for-us-grid-storage.md
+- create: deepseek-pause-fundraise-after-comments-on-compute-gap-to-us-leaked-transcript-p.md
+- create: running-a-289m-parameter-llm-on-an-8-microcontroller.md
+- create: llm-usage-in-debian-three-proposals.md
+- create: mondaycom-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are-20-others.md

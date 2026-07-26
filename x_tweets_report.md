@@ -1,19 +1,19 @@
 # X/Twitter AI KOL 动态
 
-抓取时间: 2026-07-25 21:00:56
+抓取时间: 2026-07-26 09:00:49
 
 
 ## @sama (5 条)
 
-1. **A billion users can now create and publish websites from their phones with ChatGPT Work.   But most people don’t really grasp the full extent of the capabilities here. From your phone, you also have a**
+1. **stories like this should be told more**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **i want the US to win in AI both in open source and proprietary models, and i am glad to see this**
+2. **A billion users can now create and publish websites from their phones with ChatGPT Work.   But most people don’t really grasp the full extent of the capabilities here. From your phone, you also have a**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **let us know what you think of pro-ultra-superhard**
+3. **i want the US to win in AI both in open source and proprietary models, and i am glad to see this**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
@@ -47,29 +47,29 @@
 
 ## @ylecun (5 条)
 
-1. **Wow.  NVIDIA just dropped the clearest, strongest letter yet on open-weight models — co-signed by Microsoft, Palantir, ServiceNow, Box, me and a growing list of real builders.  Read it. Internalize it**
+1. **America’s Quiet Exodus!  Neil deGrasse Tyson has been unusually blunt lately: he compared federal science cuts to an act of war, arguing that if a foreign rival gutted American research budgets this w**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **Open source is a positive and important force for both empowering people and preventing centralization. Proud to support this.**
+2. **January: Trump’s account buys $1–5 million of Nvidia in a single trade.  April: He bans Nvidia from selling its chips to China. The stock craters, Nvidia takes a $4.5 billion write-down.  Through the **
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry, we are outlining a path for open-weight models to strengthen American competitiveness and expand e**
+3. **I still remember the days when it was basically us & a few other people pushing this topic (on the top of my head @allen_ai @ylecun @jeremyphoward @soumithchintala @BlancheMinerva @fchollet @Guillaume**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
 ## @elonmusk (5 条)
 
-1. **Elon Musk on early days of SpaceX:  "When I started SpaceX, one of my friends got a compilation of rocket failures &amp; made me watch the whole thing. I knew the probability of SpaceX failing was hig**
+1. **Download Grok Build and type /tutorial  https://t.co/lOJK57wDP5 https://t.co/XWmqoGZAVO**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **JUST IN: Grok 4.5 overtakes GPT-5.6 Sol &amp; Fable 5 in OpenRouter token volume, cracking the top 10 closed models.**
+2. **https://t.co/nHCGQfRurA**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **Driving the chair with my mind was such an exhilarating feeling.   The most hope I have felt since my ALS diagnosis.  I am honored to be developing  this technology that will change the world and impr**
+3. **Yup https://t.co/pUzQTCjOrL**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 

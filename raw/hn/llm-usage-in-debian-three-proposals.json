@@ -1,0 +1,23 @@
+{
+  "title": "LLM Usage in Debian: Three Proposals",
+  "score": 105,
+  "comments": 97,
+  "url": "https://www.debian.org/vote/2026/vote_002",
+  "hn_url": "https://news.ycombinator.com/item?id=49050859",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Debian 社区提出三个关于在操作系统中集成大语言模型（LLM）的提案，探讨如何将 LLM 作为系统组件纳入 Debian。这些提案涉及 LLM 的安装、沙盒运行、与现有软件包的协作模式等，旨在为开源生态提供可复用的 LLM 集成范式。对 AI 产品经理而言，这展示了开源社区对 LLM 基础设施化的需求，可能催生新的产品化方向，如本地优先的 LLM 服务、包管理器驱动的 AI 能力分发，以及系统级安全隔离方案。",
+  "pm_relevance": 6,
+  "concepts": [
+    "开源 LLM 集成",
+    "系统级 AI 组件"
+  ],
+  "entities": [
+    "Debian"
+  ],
+  "patterns": [
+    "开源社区 LLM 采纳",
+    "本地优先 AI 基础设施"
+  ]
+}

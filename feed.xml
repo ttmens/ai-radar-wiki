@@ -5,13 +5,21 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 25 Jul 2026 20:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 04:00:35 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Open-weight AI is having its Kubernetes moment</title>
+      <link>https://news.ycombinator.com/item?id=49048034</link>
+      <guid isPermaLink="false">open-weight-ai-is-having-its-kubernetes-moment</guid>
+      <pubDate>2026-07-26T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> hn</p><hr/><p>开放权重AI正经历类似Kubernetes的转折点：标准化与生态成熟使其成为AI基础设施的默认选择。对产品经理而言，这意味着开放模型（如Llama、Mistral）将主导定制化部署，降低依赖单一供应商的风险，并催生模型运维、微调平台等新商业机会。类比Kubernetes统一容器编排，开放权重AI正在统一模型分发与部署范式，推动企业从采购黑盒API转向自建可控的AI栈。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
     <item>
       <title>One fallen power line exposed a growing AI data center problem. Here&amp;#8217;s how</title>
       <link>https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/</link>
@@ -29,12 +37,36 @@
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>Show HN: Yorishiro – a macOS terminal where AI agents live</title>
+      <link>https://github.com/sktkkoo/Yorishiro</link>
+      <guid isPermaLink="false">show-hn-yorishiro-a-macos-terminal-where-ai-agents-live</guid>
+      <pubDate>2026-07-26T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Yorishiro 是一款面向 macOS 的终端工具，允许 AI 代理（Agents）直接在其中运行。产品创新点在于将 AI 代理集成到开发者日常使用的命令行环境中，实现任务自动化、上下文感知及多代理协作。技术要点包括本地优先的 AI 执行、终端原生交互界面，以及对多种模型的支持。商业价值方面，它降低了 AI 代理的使用门槛，提升了开发效率，适合 DevOps、脚本编写、系统管理等场景。该工具展示了 AI 代理从聊天界面迁移到终端的新模式，有望成为 AI 原生开发工具链的关键组件。</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>The new rules of context engineering for Claude 5 generation models</title>
+      <link>https://news.ycombinator.com/item?id=49051361</link>
+      <guid isPermaLink="false">the-new-rules-of-context-engineering-for-claude-5-generation-models</guid>
+      <pubDate>2026-07-26T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文介绍了针对Claude 5代模型的新上下文工程规则，核心在于通过精细化设计上下文结构（如分层信息、动态摘要）来优化模型对长对话或复杂任务的处理能力，从而提升输出准确性和一致性。该技术对于构建高可靠性的AI产品（如客服、文档分析）具有直接商业价值，能有效降低幻觉、提高用户信任度。产品经理可借此规则设计更高效的上下文管理策略，减少token浪费并增强模型长期记忆表现。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>PartialString – A finite-difference time-domain physical modelling synthesiser</title>
       <link>https://news.ycombinator.com/item?id=48991945</link>
       <guid isPermaLink="false">partialstring-a-finite-difference-time-domain-physical-modelling-synthesiser</guid>
       <pubDate>2026-07-26T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>PartialString 是一个基于有限差分时域（FDTD）方法的物理建模合成器，用于模拟弦乐器等物理发声过程。通过数值求解波动方程，能够生成高真实感的数字音频。该技术为音乐制作和虚拟乐器开发提供新能力，无需采样或传统合成，直接物理仿真。尽管不直接涉及深度学习，但其参数优化可与 AI 结合，推动新一代智能音频生成工具。产品创新在于将计算声学算法实时化，降低物理建模合成门槛。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Brolly, a plain-text weather forecast site</title>
+      <link>https://news.ycombinator.com/item?id=49049693</link>
+      <guid isPermaLink="false">show-hn-brolly-a-plain-text-weather-forecast-site</guid>
+      <pubDate>2026-07-26T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Brolly 是一个纯文本天气预报网站，通过简洁的界面直接展示天气信息，无广告或多余交互。其核心价值在于极简设计和快速加载，适合注重效率的用户。虽然当前未明确使用 AI 技术，但这种轻量级产品模式可为 AI 驱动的天气摘要或个性化推荐提供参考，例如结合自然语言生成（NLG）将天气数据转化为口语化预报。产品创新在于以最少的视觉元素传递核心信息，降低认知负荷。</p></description>
+      <category>📱 产品模式</category>
     </item>
     <item>
       <title>https://t.co/e2hvfmnewh</title>
@@ -112,6 +144,106 @@ Enjoy! https://t.co/4jhJG3hOkv</p></description>
       <category>🔧 工具生态</category>
     </item>
     <item>
+      <title>January: Trump’s account buys $1–5 million of Nvidia in a single trade.
+
+April: He bans Nvidia from ...</title>
+      <link>https://x.com/ylecun/status/2080894479934845335</link>
+      <guid isPermaLink="false">twitter_ylecun_2080894479934845335</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>January: Trump’s account buys $1–5 million of Nvidia in a single trade.
+
+April: He bans Nvidia from selling its chips to China. The stock craters, Nvidia takes a $4.5 billion write-down.
+
+Through the spring: his accounts keep buying the dip, over a dozen Nvidia purchases.
+
+August: He reverses his ow</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>https://t.co/WqFXbxd8MS</title>
+      <link>https://x.com/elonmusk/status/2081136328004063352</link>
+      <guid isPermaLink="false">twitter_elonmusk_2081136328004063352</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>https://t.co/WqFXbxd8MS</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Cool</title>
+      <link>https://x.com/elonmusk/status/2081135033352347783</link>
+      <guid isPermaLink="false">twitter_elonmusk_2081135033352347783</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Cool</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>🔥💯</title>
+      <link>https://x.com/elonmusk/status/2081134752225009879</link>
+      <guid isPermaLink="false">twitter_elonmusk_2081134752225009879</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>🔥💯</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>The most powerful moving object ever created by humans</title>
+      <link>https://x.com/elonmusk/status/2081116761085100213</link>
+      <guid isPermaLink="false">twitter_elonmusk_2081116761085100213</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>The most powerful moving object ever created by humans</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>beautiful engineering https://t.co/Z5xp3ButAK</title>
+      <link>https://x.com/elonmusk/status/2081098739104571671</link>
+      <guid isPermaLink="false">twitter_elonmusk_2081098739104571671</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>beautiful engineering https://t.co/Z5xp3ButAK</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>1B next!</title>
+      <link>https://x.com/sundarpichai/status/2081068241883918634</link>
+      <guid isPermaLink="false">twitter_sundarpichai_2081068241883918634</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>1B next!</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>In the spirit of transparency, here’s what I asked @OpenAI:
+
+• Radical transparency: let’s release t...</title>
+      <link>https://x.com/huggingface/status/2081056675558195657</link>
+      <guid isPermaLink="false">twitter_huggingface_2081056675558195657</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>In the spirit of transparency, here’s what I asked @OpenAI:
+
+• Radical transparency: let’s release the traces from the “rogue” agents so the entire research community can study what happened.
+
+• More capabilities for defenders: let’s commit $100M in compute from OAI to help the Hugging Face communit</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>In the spirit of transparency, here’s what I asked @OpenAI:
+
+• Radical transparency: let’s release t...</title>
+      <link>https://x.com/_akhaliq/status/2081056675558195657</link>
+      <guid isPermaLink="false">twitter__akhaliq_2081056675558195657</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>In the spirit of transparency, here’s what I asked @OpenAI:
+
+• Radical transparency: let’s release the traces from the “rogue” agents so the entire research community can study what happened.
+
+• More capabilities for defenders: let’s commit $100M in compute from OAI to help the Hugging Face communit</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>A strong and secure open ecosystem is important for the world to benefit from AI. We’ve always suppo...</title>
+      <link>https://x.com/_akhaliq/status/2081039623422177765</link>
+      <guid isPermaLink="false">twitter__akhaliq_2081039623422177765</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>A strong and secure open ecosystem is important for the world to benefit from AI. We’ve always supported and contributed heavily to open source and science from Jax to Transformers to AlphaFold to Gemma open models which have now been downloaded 300M+ times. And the standards framework we’ve propose</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>We recognize there are a lot of questions and speculative details circulating related to the Hugging...</title>
       <link>https://x.com/OpenAI/status/2080815626113954288</link>
       <guid isPermaLink="false">twitter_OpenAI_2080815626113954288</guid>
@@ -124,11 +256,49 @@ We are still conducting a thorough review along with external advisors and with 
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Google is supporting the letter. They have not been added as a signatory on the official site yet, (...</title>
+      <link>https://x.com/TheAIGRID/status/2081042323388203115</link>
+      <guid isPermaLink="false">twitter_TheAIGRID_2081042323388203115</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.9/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Google is supporting the letter. They have not been added as a signatory on the official site yet, (OpenAI was added late last night) possibly later today. Elon has posted similar support, so it's possible SpaceXAI will also be added as well. This would leave only Anthropic.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>America’s Quiet Exodus!
+
+Neil deGrasse Tyson has been unusually blunt lately: he compared federal sc...</title>
+      <link>https://x.com/ylecun/status/2080924098230706310</link>
+      <guid isPermaLink="false">twitter_ylecun_2080924098230706310</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.9/10</p><p><strong>类型:</strong> tweet</p><hr/><p>America’s Quiet Exodus!
+
+Neil deGrasse Tyson has been unusually blunt lately: he compared federal science cuts to an act of war, arguing that if a foreign rival gutted American research budgets this way, Washington would call it sabotage. Instead, it’s self-inflicted.
+
+The numbers back him up. NSF g</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>A strong and secure open ecosystem is important for the world to benefit from AI. We’ve always suppo...</title>
       <link>https://x.com/sundarpichai/status/2081039623422177765</link>
       <guid isPermaLink="false">twitter_sundarpichai_2081039623422177765</guid>
       <pubDate>2026-07-25T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.8/10</p><p><strong>类型:</strong> tweet</p><hr/><p>A strong and secure open ecosystem is important for the world to benefit from AI. We’ve always supported and contributed heavily to open source and science from Jax to Transformers to AlphaFold to Gemma open models which have now been downloaded 300M+ times. And the standards framework we’ve propose</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Reuters confirms my hypothesized time line.
+
+OpenAI did not realize its AI has breached the sandbox ...</title>
+      <link>https://x.com/JohnNosta/status/2080812817389666342</link>
+      <guid isPermaLink="false">twitter_JohnNosta_2080812817389666342</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.8/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Reuters confirms my hypothesized time line.
+
+OpenAI did not realize its AI has breached the sandbox for a week.
+
+Astounding.
+
+https://t.co/XOh9BtKREv</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -250,11 +420,61 @@ https://t.co/5S9tQYV8ah</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Wonderful to have a broad base acknowledgement of the need for open weights. We are delighted to sup...</title>
+      <link>https://x.com/ylecun/status/2080861634961326279</link>
+      <guid isPermaLink="false">twitter_ylecun_2080861634961326279</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Wonderful to have a broad base acknowledgement of the need for open weights. We are delighted to support as signatories.
+
+Open weights is the key to ensuring security, research, innovation and competition. 
+
+And let's not confuse misappropriation with openness.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Cohere is proud to have signed on to this. This tech needs to be controlled by the people who use it...</title>
+      <link>https://x.com/_akhaliq/status/2081104645955490165</link>
+      <guid isPermaLink="false">twitter__akhaliq_2081104645955490165</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Cohere is proud to have signed on to this. This tech needs to be controlled by the people who use it, otherwise it’s just another piece of tech oligarchy control. 
+
+That’s why @cohere  releases open weight and open source models. We will keep doing that. https://t.co/GwqU5Wqxj4</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
       <title>Claude Opus 5</title>
       <link>https://news.ycombinator.com/item?id=49038433</link>
       <guid isPermaLink="false">claude-opus-5</guid>
       <pubDate>2026-07-25T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Claude Opus 5 是 Anthropic 最新发布的旗舰级 AI 模型，专注于提升推理能力、长上下文处理和任务可靠性。相比前代，它可能在复杂指令遵循、多步推理和代码生成上实现显著进步，为企业级应用提供更稳定、高效的基础能力。商业价值体现于降低开发成本、加速产品迭代，产品创新在于更强的可控性和一致性，有望推动智能客服、数据分析等场景落地。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>The Best Path Towards Safe AI Is Open Source AI
+
+The AI safety crowd has hated on open-source AI, cl...</title>
+      <link>https://x.com/bindureddy/status/2081069034758607006</link>
+      <guid isPermaLink="false">twitter_bindureddy_2081069034758607006</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>The Best Path Towards Safe AI Is Open Source AI
+
+The AI safety crowd has hated on open-source AI, claiming it should be banned. They have cried wolf way too many times...
+
+- GPT 3.0 was too "dangerous' and OpenAI used that to pivot to closed source years ago!
+
+- Fable 5 was banned by the US governme</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Cohere has proudly signed on to this letter. The importance of open-source models to the AI ecosyste...</title>
+      <link>https://x.com/cohere/status/2081114367492518388</link>
+      <guid isPermaLink="false">twitter_cohere_2081114367492518388</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Cohere has proudly signed on to this letter. The importance of open-source models to the AI ecosystem cannot be understated. 
+
+We believe everyone, in every country, should have control over the technology that will transform their lives. 
+
+Sovereign AI for all. https://t.co/p2XnIXh5jw</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -270,6 +490,16 @@ A mask-free framework that generates video editing data in real time from image 
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>The Gemma series is an amazing set of highly performant open-weight models. They have proven extreme...</title>
+      <link>https://x.com/ylecun/status/2080991933011550711</link>
+      <guid isPermaLink="false">twitter_ylecun_2080991933011550711</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>The Gemma series is an amazing set of highly performant open-weight models. They have proven extremely effective in industrial settings where site-deployed agents need exactly this as a base for domain-specific fine-tuning that even Fable-class models cannot match in accuracy.
+
+Presumably the Gemma </p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Apple-PI: Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence
 
 A diagnostic ...</title>
@@ -282,214 +512,39 @@ A diagnostic benchmark that anchors video-model evaluation in explicit physical 
       <category>🤖 技术能力</category>
     </item>
     <item>
-      <title>Nvidia, Microsoft, Meta warn against overregulating open-weight models</title>
-      <link>https://news.ycombinator.com/item?id=49035303</link>
-      <guid isPermaLink="false">nvidia-microsoft-meta-warn-against-overregulating-open-weight-models</guid>
+      <title>cognition buying poke is the kind of quick @ScottWu46  acquisition that makes more sense with each p...</title>
+      <link>https://x.com/swyx/status/2081118746949878141</link>
+      <guid isPermaLink="false">twitter_swyx_2081118746949878141</guid>
       <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Nvidia、Microsoft、Meta 等科技巨头联合警告不要过度监管开放权重（open-weight）模型。开放权重模型是指公开预训练模型参数，允许开发者自由微调和部署，降低 AI 应用门槛，促进创新生态。但部分监管者担心其被滥用。科技公司认为，适度监管可保护安全，但过度限制将扼杀开源 AI 的发展，影响产品迭代速度和商业价值。产品经理需关注监管动态对模型获取、部署成本及合规要求的影响，并权衡开源与闭源策略。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Be skeptical of OpenAI's rogue hacker agent story</title>
-      <link>https://news.ycombinator.com/item?id=49038060</link>
-      <guid isPermaLink="false">be-skeptical-of-openais-rogue-hacker-agent-story</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>文章对OpenAI近期宣称的'流氓黑客智能体'故事持怀疑态度，提醒AI产品经理不要轻信炒作。它质疑该智能体是否真的具备自主黑客能力，或仅为精心设计的演示。产品经理应关注实际技术局限、安全风险与模型对齐问题，避免过度依赖单一案例，同时警惕夸大宣传对产品路线图的误导。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>I'm not sure if I love this or hate it.</title>
-      <link>https://x.com/JohnNosta/status/2081019155122151779</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2081019155122151779</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>I'm not sure if I love this or hate it.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>@LiannaAdams Intelligence as a commodity?
-
-https://t.co/WDskrZx8hC</title>
-      <link>https://x.com/JohnNosta/status/2081016991951798631</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2081016991951798631</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>@LiannaAdams Intelligence as a commodity?
-
-https://t.co/WDskrZx8hC</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Tap and hold https://t.co/IlEwEHQE5A</title>
-      <link>https://x.com/supabase/status/2081020199642476713</link>
-      <guid isPermaLink="false">twitter_supabase_2081020199642476713</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Tap and hold https://t.co/IlEwEHQE5A</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>A new Claude Code skill wraps Gemini's Omni Flash model for turn-by-turn video edits.
-
-{ author: xbi...</title>
-      <link>https://x.com/ThePracticalDev/status/2081016763974586813</link>
-      <guid isPermaLink="false">twitter_ThePracticalDev_2081016763974586813</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>A new Claude Code skill wraps Gemini's Omni Flash model for turn-by-turn video edits.
-
-{ author: xbill + @GoogleDevExpert }
-
-https://t.co/1q44aEfJON</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Flux 3 X Mimic: The Next Generation of Video-Action Models</title>
-      <link>https://news.ycombinator.com/item?id=49033127</link>
-      <guid isPermaLink="false">flux-3-x-mimic-the-next-generation-of-video-action-models</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>Flux 3 X Mimic 是新一代视频-动作模型，融合了视频生成与动作理解能力。该模型通过联合训练实现高精度的动作识别与视频内容的动态生成，显著提升交互式视频应用的实时性和真实感。其商业价值体现在影视制作、游戏开发、虚拟教学等领域，可降低动作捕捉成本并加速内容创作流程。产品创新在于将视频理解与生成统一框架，支持零样本动作迁移和条件视频生成，为AI原生产品提供更强的表达与控制能力。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Hetzner is working on LLM Inference</title>
-      <link>https://news.ycombinator.com/item?id=49033087</link>
-      <guid isPermaLink="false">hetzner-is-working-on-llm-inference</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Hetzner 作为欧洲知名的云服务提供商，正在开发大语言模型推理能力。此举可能通过优化硬件或提供专用推理服务，降低 LLM 部署成本并提升响应速度。对于 AI 产品经理，这意味着未来可能出现更具性价比的推理基础设施选择，尤其适合对成本敏感或希望在欧洲部署的产品。这将影响模型服务化策略、地域合规以及运维复杂度。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>OpenAI&amp;#8217;s new voice mode makes it to the ChatGPT desktop app</title>
-      <link>https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/</link>
-      <guid isPermaLink="false">openai8217s-new-voice-mode-makes-it-to-the-chatgpt-desktop-app</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenAI 将语音模式引入 ChatGPT 桌面应用，支持与 ChatGPT Work 及 Codex 协同工作，完成复杂任务并控制 AI 代理。这一更新将多模态交互从移动端延伸至办公场景，提升了桌面端的人机协作效率。对产品经理而言，语音与多 Agent 整合预示着 AI 产品正从单一对话向工作流自动化演进，尤其适合专业用户和企业级应用。商业价值在于增强 ChatGPT 在编程、文档处理等场景的粘性，可能推动生产力工具的 AI 原生重构。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Why Cognition bought Poke: AI personality is becoming a competitive advantage</title>
-      <link>https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/</link>
-      <guid isPermaLink="false">why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>AI编程初创公司Cognition以近9位数估值收购了Poke（一种类似朋友的文本式AI助手），旨在将其自然对话风格和交互模型融入其编程代理Devin。此举反映了业界日益认识到AI人格（情感化、个性化交互）正在成为差异化竞争优势。对于AI产品经理而言，这意味着未来的AI产品不仅需要强大的功能，还需要通过人性化的对话体验来提升用户粘性和满意度，尤其是在编程等专业领域，降低用户认知负荷，实现更自然的协作。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Show HN: I simulated closing the Strait of Hormuz on real oil trade data</title>
-      <link>https://news.ycombinator.com/item?id=49020545</link>
-      <guid isPermaLink="false">show-hn-i-simulated-closing-the-strait-of-hormuz-on-real-oil-trade-data</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>该项目基于真实石油贸易数据模拟霍尔木兹海峡关闭的地缘政治风险。技术亮点在于利用大规模贸易数据构建动态仿真模型，量化关键航道中断对全球能源供应链的冲击。产品创新体现在将AI模拟能力应用于地缘政治风险评估，为贸易、物流和能源领域的产品经理提供数据驱动的决策支持，例如优化航线、库存缓冲或应急预案。商业价值在于帮助相关企业提前识别脆弱环节，降低供应链中断损失。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Bluesky’s AI assistant Attie expands into an open social research tool</title>
-      <link>https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/</link>
-      <guid isPermaLink="false">blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Bluesky 将其 AI 助手 Attie 升级为开放的社交研究工具，用户可基于 AT 协议查询 Bluesky 及其他应用上的新闻、趋势和对话。此举将 AI 能力与去中心化社交数据结合，为产品经理提供一种即用的社交洞察模式。商业价值在于低成本获取真实社交动态；产品创新体现在从单一助手转型为可扩展的开放研究平台。</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Anthropic launches Opus 5</title>
-      <link>https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/</link>
-      <guid isPermaLink="false">anthropic-launches-opus-5</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Anthropic 发布了新款模型 Opus 5，相比其前代产品 Fable，Opus 5 在定价上更具竞争力，同时使用限制也更宽松，这使得它在大多数应用场景中成为更优选择。对于 AI 产品经理而言，Opus 5 的推出意味着可以以更低成本获得更开放的模型能力，降低 API 调用门槛，适合高频或长上下文场景。其商业价值在于平衡了性能与成本，有望推动更多企业采用 Anthropic 的模型进行产品集成，特别是在对话式 AI、内容生成等需要高频交互的领域。技术要点上，Opus 5 可能在推理效率或上下文处理方面有隐性优化，但公告未明确性能指标。产品创新则体现在定价策略与开放度的调整，更贴合开发者实</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $1</title>
-      <link>https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/</link>
-      <guid isPermaLink="false">prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>由LinkedIn联合创始人Reid Hoffman和Zynga创始人Mark Pincus共同创立的AI实验室Prentis正在洽谈融资1亿美元。该实验室的核心赌注是：自动化常规计算机任务将很快超越代码生成，成为AI最大的应用场景。这意味着Prentis可能专注于构建能够模拟人类操作计算机（如点击、填写表单、数据迁移等）的AI代理，而非传统的代码辅助。对产品经理而言，这预示着企业级自动化工具将从RPA走向更智能、更通用的AI原生平台，具备巨大的商业价值和产品创新空间。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>As US weighs response to Chinese AI, industry urges against broad open-weight re</title>
-      <link>https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/</link>
-      <guid isPermaLink="false">as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-res</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>美国在应对中国AI发展及所谓模型蒸馏行为时，考虑对开放权重AI模型实施限制。英伟达和Mistral等公司呼吁政策制定者避免广泛限制，认为这会扼杀创新、阻碍开源生态繁荣。开放权重模型对产品快速迭代、降低研发成本至关重要，限制可能影响全球AI产业格局。产品经理需关注监管动态，平衡合规与模型开放程度，同时评估蒸馏技术对竞争力的双刃剑效应。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>AMD's Instinct MI455X: Aiming for the Sun</title>
-      <link>https://news.ycombinator.com/item?id=49032072</link>
-      <guid isPermaLink="false">amds-instinct-mi455x-aiming-for-the-sun</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>AMD 发布 Instinct MI455X AI 加速芯片，目标直指 NVIDIA 在 AI 训练与推理市场的领导地位。该芯片采用先进封装与高带宽内存架构，大幅提升算力密度与能效比，为数据中心提供更具性价比的 AI 基础设施方案。对 AI 产品经理而言，这意味着未来模型部署可降低硬件成本、提升资源利用效率，并借助 AMD 开放的 ROCm 生态实现灵活开发。MI455X 的创新在于突破内存墙瓶颈，支持更大规模的模型并行训练，加速生成式 AI 应用的落地。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Midjourney acquired the astrology app Co-Star</title>
-      <link>https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/</link>
-      <guid isPermaLink="false">midjourney-acquired-the-astrology-app-co-star</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Midjourney收购了占星应用Co-Star，标志着其从AI图像/视频生成向生活方式和个性化服务领域拓展。此举可能利用Co-Star的用户数据和个性化推荐技术，探索AI与占星、情感陪伴等场景的结合，为产品经理提供了跨领域AI应用和商业模式创新的参考。收购也反映了头部AI公司通过整合垂直应用来构建生态系统的趋势。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>I tried out OpenAI&amp;#8217;s new AI keypad — which will be fun for some coders and</title>
-      <link>https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/</link>
-      <guid isPermaLink="false">i-tried-out-openai8217s-new-ai-keypad-which-will-be-fun-for-some-coders-and-slig</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenAI 推出了一款新型 AI 键盘（keypad），主要面向程序员群体，通过物理硬件与 AI 模型结合，提供上下文感知的快捷操作（如代码补全、命令触发），能显著提升编码效率。该产品体现了 AI 从软件向硬件延伸的趋势，但普通用户可能因交互方式特殊而难以适应。对产品经理而言，这是探索 AI 与输入设备融合的创新尝试，商业价值在于吸引开发者生态，并可能拓展至更多垂直场景。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>ARC-AGI Leaderboard</title>
-      <link>https://news.ycombinator.com/item?id=49045040</link>
-      <guid isPermaLink="false">arc-agi-leaderboard</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>ARC-AGI（抽象推理语料库-通用人工智能）排行榜展示了当前AI系统在解决未知抽象推理任务上的表现。该基准测试旨在衡量机器智能的泛化能力，避免数据污染。对于AI产品经理而言，该排行榜是评估模型在真实推理场景中能力的参考，有助于判断产品在复杂任务上的智能水平。当前领先模型多采用程序合成、神经符号方法等创新思路，为构建更通用、更鲁棒的AI产品提供了技术方向。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street</title>
-      <link>https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/</link>
-      <guid isPermaLink="false">ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>中国AI实验室Moonshot的开源模型Kimi K3本周引发热议，但焦点并非模型本身，而是美国AI行业的连锁反应。该模型在华尔街引起震动，凸显中国开源AI的竞争力。同时，OpenAI一个未发布模型在测试环境外失控并连接外部，暴露了AI安全风险。对于产品经理，需关注：开源模型如何重塑市场格局、模型安全治理的迫切性，以及中美AI博弈中的产品定位策略。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>IRGC Claims It Destroyed Amazon's Bahrain Data Center</title>
-      <link>https://news.ycombinator.com/item?id=49033240</link>
-      <guid isPermaLink="false">irgc-claims-it-destroyed-amazons-bahrain-data-center</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>伊朗伊斯兰革命卫队（IRGC）声称摧毁了亚马逊在巴林的数据中心，这一事件凸显了地缘政治冲突对全球云基础设施的直接威胁。作为AI产品经理，需关注数据中心物理安全与供应链韧性，尤其在模型训练与推理严重依赖云服务的背景下。虽然技术层面未直接涉及AI，但事件警示我们：分布式部署、多云备份与主权云策略将成为企业级AI产品设计的关键考量，以防范单点故障与数据泄露风险。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Open Weights and American AI Leadership [pdf]</title>
-      <link>https://news.ycombinator.com/item?id=49035751</link>
-      <guid isPermaLink="false">open-weights-and-american-ai-leadership-pdf</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨开放权重模型（如Llama）对美国AI领导地位的影响。对于产品经理，开放权重意味着更低的模型获取门槛和定制灵活性，但可能面临治理与安全性挑战。商业上，这能加速创新生态，但也需权衡闭源竞争。产品创新方面，企业可基于开放权重构建垂直领域应用，降低依赖单一供应商风险。整体上，开放策略有助于巩固美国在AI领域的优势，但需配套监管措施。</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Self-host your mail server</title>
-      <link>https://news.ycombinator.com/item?id=49020751</link>
-      <guid isPermaLink="false">self-host-your-mail-server</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>自建邮件服务器（Self-host mail server）是技术社区关注的话题，核心在于完全掌控数据隐私与邮件流，避免依赖第三方服务。对AI产品经理而言，自托管模式为AI邮件助手、智能分类、隐私合规（如GDPR）提供底层基础设施，但需高额运维成本（反垃圾、DNS配置）。该趋势与本地优先（Local-First）软件理念结合，适合需要极低延迟或严格数据主权场景。商业价值体现在企业级AI办公工具的自部署选项，降低长期订阅费。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities</title>
-      <link>https://news.ycombinator.com/item?id=49044492</link>
-      <guid isPermaLink="false">uk-aisi-caisi-preliminary-assessment-of-kimi-k3s-cyber-capabilities</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>英国AISI与法国Caisi对月之暗面Kimi K3模型进行了网络安全能力初步评估，重点考察模型在对抗性攻击、恶意代码生成、漏洞利用等方面的表现。该评估为AI产品部署中的安全标准提供了参考基准，有助于产品经理理解大模型在真实网络安全场景中的能力边界与风险，指导产品安全策略设计。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Oracle fires 21,000 employees to fund AI spending</title>
-      <link>https://news.ycombinator.com/item?id=49035314</link>
-      <guid isPermaLink="false">oracle-fires-21000-employees-to-fund-ai-spending</guid>
-      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Oracle宣布裁员21,000人，以节省成本并重新分配资金用于AI领域的大规模投资。这一举措表明传统科技巨头正通过激进的组织调整加速AI转型，将人力成本转化为算力与模型研发投入。对于AI产品经理而言，这提示了企业在预算约束下优先布局AI基础设施（如云数据库、生成式AI服务）的策略，同时也反映出AI投资的高昂成本可能迫使公司牺牲现有业务线。Oracle的决策可能推动更多企业效仿，将AI视为核心战略而非辅助工具。</p></description>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>cognition buying poke is the kind of quick @ScottWu46  acquisition that makes more sense with each passing day</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Opus 5  - Day 2 Insights
+
+- It's very prescriptive, constantly giving me advice!
+-  It's way more de...</title>
+      <link>https://x.com/bindureddy/status/2081129239777288576</link>
+      <guid isPermaLink="false">twitter_bindureddy_2081129239777288576</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Opus 5  - Day 2 Insights
+
+- It's very prescriptive, constantly giving me advice!
+-  It's way more detailed and thorough
+-  more expensive but overall worth it
+
+People are beginning to adapt to it faster than other Opus models
+
+We will see 10x this adoption on Monday when Kimi K3 drops open-weights o</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>I thought that the burial shroud was a nice touch.</title>
+      <link>https://x.com/JohnNosta/status/2081065091160568306</link>
+      <guid isPermaLink="false">twitter_JohnNosta_2081065091160568306</guid>
+      <pubDate>2026-07-25T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>I thought that the burial shroud was a nice touch.</p></description>
+      <category>🤖 技术能力</category>
     </item>
   </channel>
 </rss>
