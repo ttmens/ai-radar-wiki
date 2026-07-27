@@ -1,0 +1,28 @@
+{
+  "title": "Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support",
+  "summary": "A central design principle in modern machine learning and artificial intelligence is to align a model's inductive bias with the structure of its input data. For matrix-valued inputs, relevant matrix-level relationships can be characterised through spectral values and spectral subspaces; however, common coordinate-wise rotation-gate data-encoding unitaries used in most quantum machine learning models do not explicitly construct such a matrix-level representation. We introduce Quantum Spectral Models (QSMs), in which we construct the generator of the data-encoding unitary directly from each input matrix. We study three QSM variants based on symmetric, global block, and non-overlapping patch-local block Hamiltonians. Their outputs admit truncated Fourier representations in which input-dependent spectral gaps supply candidate phase carriers, while spectral subspaces help determine their coefficients. We evaluate the QSMs and comparison quantum models on two matrix representations of Pendigits and two controlled synthetic tasks defined by spectral statistics. At the largest evaluated circuit depth, QSM variants lead the tested quantum models in mean test accuracy across all four benchmarks. The patch-local QSM leads on Pendigits, whereas the global block-Hamiltonian QSM leads on the controlled spectral tasks. Ablations show a task-dependent reversal: subspace-preserving controls perform better on Pendigits, whereas spectral-value-only controls lead among the tested ablations on the synthetic tasks. Together, these results shed new light on quantum machine-learning model design by showing how input-conditioned spectral representations can provide an analysable inductive bias, while offering a broader perspective on structure-aware model design in machine learning and artificial intelligence.",
+  "url": "http://arxiv.org/abs/2607.22516v1",
+  "authors": [
+    "Peiyong Wang",
+    "Udaya Parampalli",
+    "Casey R. Myers"
+  ],
+  "published": "2026-07-24T17:39:14Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "accuracy"
+  ],
+  "summary_cn": "该论文提出一种量子频谱模型，通过输入条件频率支持的数据重上传技术，使模型的归纳偏置与矩阵值输入数据的频谱结构（如特征值和特征子空间）对齐。方法有望提升推荐系统、图神经网络等矩阵密集型场景的特征提取效率，降低模型复杂度。商业价值在于为处理大规模结构化数据提供可解释且高效的量子-经典混合方案，尤其适合金融风控、社交网络分析等领域的产品创新。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Quantum Machine Learning",
+    "Spectral Methods",
+    "Data Reuploading"
+  ],
+  "entities": [],
+  "patterns": [
+    "Quantum-enhanced ML"
+  ]
+}

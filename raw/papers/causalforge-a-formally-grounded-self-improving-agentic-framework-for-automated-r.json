@@ -1,0 +1,33 @@
+{
+  "title": "CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference",
+  "summary": "Automating theoretical research is constrained not only by the generation of candidate results, but also by their reliable evaluation. A common approach is to close the research loop with a large language model (LLM) reviewer. However, such reviewers remain empirically unreliable: they may accept fabricated papers and detect them at rates close to chance (Bad Scientist, 2025). We present CausalForge, a framework for automated theoretical research in causal inference grounded in the Lean proof assistant. CausalForge combines Causalean, a foundational Lean library for causal inference containing 7,035 machine-checked declarations developed with language-model assistance under human design and review, with CausalSmith, a self-improving agentic pipeline that selects research topics, proposes results, formalizes statements, constructs proofs, and presents the resulting artifacts for human inspection. Because a machine-checked proof establishes only that a formal statement follows from its assumptions, not that the statement faithfully captures the intended scientific claim, the pipeline augments kernel verification with a statement audit that compares each formal theorem against the informal claim it is intended to express. We evaluate the system using artifacts produced by completed autonomous research runs. The source code, formal library, and run records are available at https://github.com/Jiyuan-Tan/CausalForge.",
+  "url": "http://arxiv.org/abs/2607.22511v1",
+  "authors": [
+    "Jiyuan Tan",
+    "Vasilis Syrgkanis"
+  ],
+  "published": "2026-07-24T17:32:35Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "framework",
+    "evaluation",
+    "eval",
+    "library",
+    "pipeline"
+  ],
+  "summary_cn": "CausalForge 是一个基于形式化理论的自改进代理框架，旨在自动化因果推断的理论研究。它通过结合候选结果生成与可靠评估机制，解决了传统 LLM 审稿人不可靠的问题。该框架能自动迭代优化研究假设，提升因果推断的严谨性和效率。对于产品经理，它有望降低因果分析的技术门槛，加速数据驱动决策，并可作为 AI 产品中的研究辅助模块，尤其在医疗、经济学等需要严谨因果验证的场景中具有商业潜力。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Causal Inference",
+    "Automated Research",
+    "Self-Improving Agent"
+  ],
+  "entities": [
+    "CausalForge"
+  ],
+  "patterns": [
+    "Agentic Framework",
+    "Self-Improving System"
+  ]
+}

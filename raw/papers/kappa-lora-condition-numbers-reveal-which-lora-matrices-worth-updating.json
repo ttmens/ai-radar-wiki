@@ -1,0 +1,35 @@
+{
+  "title": "\\k{appa}-LoRA: Condition Numbers Reveal Which LoRA Matrices Worth Updating",
+  "summary": "Low-Rank Adaptation (LoRA) has become a widely adopted technique for efficient neural network fine-tuning, decomposing model updates into low-rank matrices. However, LoRA remains computationally costly because it updates all matrices uniformly, regardless of their actual contribution to adaptation. This cost is especially prohibitive for large-scale models with billions of parameters and for resource-constrained settings such as edge deployment and on-device fine-tuning. We show for the first time that not all LoRA matrices are equally worth tuning: matrices with smaller condition numbers (the ratio of largest to smallest singular value) are already well-balanced across directions and contribute only marginally to adaptation, whereas matrices with larger condition numbers contain underdeveloped directions that span richer subspaces and drive most of the performance gains. This observation itself is a key contribution of our work, and it motivates a more selective approach to fine-tuning. Building on this insight, we propose \\k{appa}-LoRA, a method that optimizes LoRA by focusing updates on the matrices with the largest condition numbers, which capture the most informative directions of change. By restricting LoRA updates to the top 50% of weight matrices ranked by condition number, \\k{appa}-LoRA halves the trainable parameter count and correspondingly reduces compute and memory cost. Extensive experiments across multiple benchmarks show that this design cuts fine-tuning time by 16.2% on average while matching the accuracy of standard LoRA and reducing memory cost by 4.5%. Further analysis reveals that the condition numbers of the selected matrices consistently decrease over training, suggesting that \\k{appa}-LoRA's effectiveness stems from targeted spectral rebalancing rather than parameter selection alone.",
+  "url": "http://arxiv.org/abs/2607.22489v1",
+  "authors": [
+    "Jianghui Wang",
+    "Silong Yong",
+    "Francesco Orabona",
+    "Marco Canini",
+    "Katia P. Sycara"
+  ],
+  "published": "2026-07-24T17:00:40Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "fine-tuning",
+    "training",
+    "neural network",
+    "parameter",
+    "accuracy"
+  ],
+  "summary_cn": "该论文提出κ-LoRA方法，通过计算每个LoRA矩阵的条件数（condition number）来评估其重要性，从而在微调时只更新那些对模型适应贡献显著的矩阵，忽略冗余矩阵。这一创新显著降低了LoRA的计算成本，同时保持甚至提升了微调性能。对AI产品经理而言，这意味着更经济的模型定制方案，尤其适用于资源受限场景或需要频繁更新模型的在线服务。商业价值在于减少GPU开销、加快迭代速度，产品创新体现在将线性代数中的条件数概念引入微调优化，实现更智能的资源分配。",
+  "pm_relevance": 8,
+  "concepts": [
+    "LoRA",
+    "条件数",
+    "高效微调"
+  ],
+  "entities": [],
+  "patterns": [
+    "参数高效微调",
+    "稀疏更新"
+  ]
+}

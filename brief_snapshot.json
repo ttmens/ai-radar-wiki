@@ -1,8 +1,86 @@
 {
   "date": "2026-07-27",
-  "generated_at": "2026-07-27T06:01:38.959101+08:00",
-  "item_count": 8,
+  "generated_at": "2026-07-27T18:01:35.234069+08:00",
+  "item_count": 26,
   "items": [
+    {
+      "id": "twitter_hardmaru_2081565741317595425",
+      "label": "創業以来、オープンソースコミュニティから多くを学び、また研究成果の公開を通じてそこに貢献してきました。オープンなエコシステムが健全なAI産業と技術主権を支える重要な基盤の一つであると考えており、その発...",
+      "summary": "創業以来、オープンソースコミュニティから多くを学び、また研究成果の公開を通じてそこに貢献してきました。オープンなエコシステムが健全なAI産業と技術主権を支える重要な基盤の一つであると考えており、その発展を支持します。\n\nこのたび、Sakana AIは、オープンウェイトAIモデルに関する公開書簡 「Open Weights and American AI Leadership」に署名しました。\n\n書簡は、オープンウェイトモデルがAIへのアクセス拡大、競争の促進、ユーザーによるコントロール、そして安全性の向上に寄与することを訴えるものです。\n\nPDF：https://t.co/Etp6p12EFf",
+      "pm_score": 0.82,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/hardmaru/status/2081565741317595425",
+      "date": "2026-07-27",
+      "stars": 300,
+      "score": 0.8194,
+      "comments": 8
+    },
+    {
+      "id": "twitter_bindureddy_2081568344143261907",
+      "label": "Tomorrow is a big day - Kimi K3 open weights will drop \n\n- move sonnet and Terra workloads to K3\n- f...",
+      "summary": "Tomorrow is a big day - Kimi K3 open weights will drop \n\n- move sonnet and Terra workloads to K3\n- fine tune frontier models to create your custom model\n- open weights AI will truly be only a few points behind OpenAI and Anthropic \n\n🚀🚀",
+      "pm_score": 0.73,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/bindureddy/status/2081568344143261907",
+      "date": "2026-07-27",
+      "stars": 71,
+      "score": 0.7303,
+      "comments": 16
+    },
+    {
+      "id": "twitter_hardmaru_2081568141067579749",
+      "label": "Open ecosystems are the foundation of a healthy AI industry.\n\nWe have always believed that collectiv...",
+      "summary": "Open ecosystems are the foundation of a healthy AI industry.\n\nWe have always believed that collective intelligence is the future. Proud that @SakanaAILabs is standing alongside global tech leaders to sign the open-weights letter. 🐟 https://t.co/EMXWgEfONt",
+      "pm_score": 0.71,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/hardmaru/status/2081568141067579749",
+      "date": "2026-07-27",
+      "stars": 23,
+      "score": 0.70975,
+      "comments": 1
+    },
+    {
+      "id": "twitter_hardmaru_2081536146761552353",
+      "label": "Blog: https://t.co/QzzzUPeNzE https://t.co/nlQuvZgwDg",
+      "summary": "Blog: https://t.co/QzzzUPeNzE https://t.co/nlQuvZgwDg",
+      "pm_score": 0.7,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/hardmaru/status/2081536146761552353",
+      "date": "2026-07-27",
+      "stars": 1,
+      "score": 0.7003,
+      "comments": 0
+    },
+    {
+      "id": "kimi-k3-releases-on-huggingface-727",
+      "label": "Kimi-K3 Releases on HuggingFace 7/27",
+      "summary": "月之暗面（Moonshot AI）在HuggingFace上发布了Kimi-K3模型，这是其第三代旗舰大语言模型。该开源模型可能延续Kimi系列的长上下文优势，并进一步优化推理能力与多轮对话体验。对AI产品经理而言，K3的开放降低了集成前沿模型的门槛，可用于构建更智能的对话应用、文档分析工具等，同时开源策略可能推动社区生态和商业化落地。",
+      "pm_score": 0.635,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49065752",
+      "date": "2026-07-27"
+    },
+    {
+      "id": "us-citizen-charged-after-grapheneos-phone-wipes-during-airport-search",
+      "label": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "summary": "美国公民因在机场安检时其搭载GrapheneOS系统的手机被强制擦除而遭起诉，事件凸显设备端隐私保护与执法权限的冲突。对AI产品经理而言，该案例强调本地数据安全（如端侧AI模型和用户数据）在边境检查等场景中的脆弱性，或催生抗擦除的加密TEE（可信执行环境）方案，以及更强大的隐私设计（如无痕模式、自毁式加密）。商业上，此类事件可能推动企业级安全设备和合规方案需求增长。",
+      "pm_score": 0.595,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49063022",
+      "date": "2026-07-27"
+    },
     {
       "id": "the-pocketpocketflow",
       "label": "The-Pocket/PocketFlow",
@@ -59,6 +137,72 @@
       "date": "2026-07-27"
     },
     {
+      "id": "pinequalizer-full-funnel-content-exploration-and-debiasing-system-at-pinterest",
+      "label": "PinEqualizer: Full Funnel Content Exploration and Debiasing System at Pinterest",
+      "summary": "Pinterest提出PinEqualizer系统，解决工业级搜索与推荐中的内容冷启动问题。创新点在于覆盖多阶段漏斗（召回、排序等）进行统一的内容探索与去偏，且能泛化到不同场景。商业价值上，通过系统性降低新内容曝光偏差，提升新内容冷启动效率与用户体验，从而增加平台内容多样性与长期用户参与度。产品经理可借鉴其全漏斗统一策略，在推荐系统中平衡探索与利用。",
+      "pm_score": 0.465,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.22518v1",
+      "date": "2026-07-27"
+    },
+    {
+      "id": "are-brain-waves-the-next-unlock-for-physical-ai",
+      "label": "Are brain waves the next unlock for physical AI?",
+      "summary": "本文探讨了脑波数据作为物理AI训练的新前沿。与依赖YouTube视频的传统方法不同，前沿物理AI模型需要多摄像机视角、密集标注，并很快将加入脑波读数。脑波数据能提供更丰富的内在状态信息，有望显著提升物理AI对复杂环境的理解与交互能力，为机器人、自动驾驶等领域带来突破。对产品经理而言，这意味着多模态数据融合和新型传感器输入将成为产品创新的关键，可能催生更智能、更自然的物理AI应用。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "date": "2026-07-27"
+    },
+    {
+      "id": "interpretable-eeg-biomarkers-with-bag-of-waves-spatial-and-temporal-waveform-dic",
+      "label": "Interpretable EEG biomarkers with bag-of-waves: Spatial and temporal waveform di",
+      "summary": "该论文提出了一种名为'波形袋'的可解释脑电图（EEG）生物标志物方法，通过构建空间和时间波形字典，在低数据场景下实现高效分析。相比于预定义频谱特征（存在强偏差）和深度神经网络（依赖大量数据且可解释性弱），该方法能在数据稀缺时仍保持良好性能，同时提供清晰的可解释性，便于临床医生理解诊断依据。产品经理可关注其在医疗AI领域的应用，尤其是实现低数据依赖下的可靠诊断辅助，降低数据收集成本，增强用户信任。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.22508v1",
+      "date": "2026-07-27"
+    },
+    {
+      "id": "the-regression-tax-decomposing-why-skills-help-and-hurt-llm-agents",
+      "label": "The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents",
+      "summary": "该论文提出“技能回归税”概念，揭示给LLM agent添加程序化技能时，平均成功率提升背后隐藏着部分任务性能下降的风险。通过在近6000次运行中对比有无技能的agent，发现技能可能“帮倒忙”，导致特定场景表现恶化。对产品经理而言，这提醒在构建AI agent功能时需谨慎评估技能引入的副作用，避免一味堆砌技能；而应通过细分场景、动态调整或混合策略来平衡技能收益与损失。该研究为agent技能设计提供了重要的权衡视角，尤其适用于办公自动化等复杂任务场景。",
+      "pm_score": 0.43,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.22520v1",
+      "date": "2026-07-27"
+    },
+    {
+      "id": "opaque-epistemic-mediation-how-llm-deployment-configurations-shape-the-validatio",
+      "label": "Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validati",
+      "summary": "本文测试了四大商用LLM家族（Claude、Grok、GPT、Gemini）对民族国家主义伪科学的评价立场，发现模型在部署配置（如系统提示、温度参数）影响下，对争议科学声明的验证呈现不稳定且不透明的特点。产品经理需关注：LLM作为知识参考时，其输出可信度依赖部署配置，盲目使用可能传播伪科学。商业价值在于构建可审计的配置管理机制，确保科学验证场景下的一致性与透明度。产品创新点：引入配置影响评估和立场校准功能，提升用户信任。",
+      "pm_score": 0.43,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.22513v1",
+      "date": "2026-07-27"
+    },
+    {
+      "id": "kappa-lora-condition-numbers-reveal-which-lora-matrices-worth-updating",
+      "label": "\\k{appa}-LoRA: Condition Numbers Reveal Which LoRA Matrices Worth Updating",
+      "summary": "该论文提出κ-LoRA方法，通过计算每个LoRA矩阵的条件数（condition number）来评估其重要性，从而在微调时只更新那些对模型适应贡献显著的矩阵，忽略冗余矩阵。这一创新显著降低了LoRA的计算成本，同时保持甚至提升了微调性能。对AI产品经理而言，这意味着更经济的模型定制方案，尤其适用于资源受限场景或需要频繁更新模型的在线服务。商业价值在于减少GPU开销、加快迭代速度，产品创新体现在将线性代数中的条件数概念引入微调优化，实现更智能的资源分配。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.22489v1",
+      "date": "2026-07-27"
+    },
+    {
       "id": "terence-tao-mathematics-in-the-age-of-ai-pdf",
       "label": "Terence Tao: Mathematics in the Age of AI [pdf]",
       "summary": "陶哲轩讨论AI时代数学的演进，认为AI工具正在改变数学研究方式，例如辅助证明验证、自动定理发现及符号计算。对产品经理而言，这意味着AI在复杂推理领域的突破可能催生新应用，如智能辅导系统、数学辅助软件或科学计算引擎。商业价值在于将AI从简单模式匹配提升至逻辑推理，打开医药、金融等需要严谨验证的行业。产品创新机会包括开发面向研究者的AI协作者，或整合形式化验证工具以降低错误率。",
@@ -81,6 +225,72 @@
       "date": "2026-07-27"
     },
     {
+      "id": "sm4rt-learning-structured-motion-geometry-for-4d-reconstruction",
+      "label": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
+      "summary": "SM4RT 提出了一种结构化运动几何学习方法，解决现有几何基础模型（GFMs）在单目3D重建向4D动态理解扩展中的挑战。传统运动感知（如稀疏跟踪、密集光流）将运动视为独立点，忽略了运动结构。该方法通过学习运动几何结构，提升动态场景的4D重建精度和鲁棒性。技术要点包括结构化运动建模与几何约束。商业价值体现在自动驾驶、机器人导航、AR/VR等需要实时动态场景理解的领域。产品创新在于将传统独立点流提升为结构化的运动几何学习，有望实现更高效的4D重建。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.22534v1",
+      "date": "2026-07-27"
+    },
+    {
+      "id": "dysphagia-risk-stratification-in-head-and-neck-cancer-via-two-stage-pro-clinical",
+      "label": "Dysphagia Risk Stratification in Head and Neck Cancer via Two-Stage PRO-Clinical",
+      "summary": "该论文提出一种两阶段PRO-Clinical Stacking方法，用于头颈癌治疗后吞咽困难的风险分层。通过整合患者报告结果（PRO）和临床影像数据，构建集成学习模型，提高高危患者的识别准确性。该技术可实现主动干预，改善幸存者护理质量，降低医疗成本，具有临床决策支持产品的商业化潜力。产品创新在于多模态数据融合与风险分层结合，适用于肿瘤幸存者管理场景。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.22514v1",
+      "date": "2026-07-27"
+    },
+    {
+      "id": "quantum-spectral-model-data-reuploading-with-input-conditioned-frequency-support",
+      "label": "Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Suppor",
+      "summary": "该论文提出一种量子频谱模型，通过输入条件频率支持的数据重上传技术，使模型的归纳偏置与矩阵值输入数据的频谱结构（如特征值和特征子空间）对齐。方法有望提升推荐系统、图神经网络等矩阵密集型场景的特征提取效率，降低模型复杂度。商业价值在于为处理大规模结构化数据提供可解释且高效的量子-经典混合方案，尤其适合金融风控、社交网络分析等领域的产品创新。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.22516v1",
+      "date": "2026-07-27"
+    },
+    {
+      "id": "susceptible-reservoir-architectures-for-regime-conditional-volatility-forecastin",
+      "label": "Susceptible Reservoir Architectures for Regime-Conditional Volatility Forecastin",
+      "summary": "该论文提出 Susceptible Architectures (SUSA) 用于波动率预测，这是一种基于储层计算的设计原理，解决了传统模型在处理持续性和测量噪声时的局限性。SUSA 的两种具体实现基于复杂系统，能够在不同市场状态（regime）下自适应调整预测策略。对于产品经理，该技术可用于开发更精准的金融风险预测工具、量化交易策略或经济场景分析产品，提升对市场突发变化的响应能力。虽然处于早期研究阶段，但为 AI 在时序预测领域提供了新的计算范式，潜在商业价值高。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.22491v1",
+      "date": "2026-07-27"
+    },
+    {
+      "id": "causalforge-a-formally-grounded-self-improving-agentic-framework-for-automated-r",
+      "label": "CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated",
+      "summary": "CausalForge 是一个基于形式化理论的自改进代理框架，旨在自动化因果推断的理论研究。它通过结合候选结果生成与可靠评估机制，解决了传统 LLM 审稿人不可靠的问题。该框架能自动迭代优化研究假设，提升因果推断的严谨性和效率。对于产品经理，它有望降低因果分析的技术门槛，加速数据驱动决策，并可作为 AI 产品中的研究辅助模块，尤其在医疗、经济学等需要严谨因果验证的场景中具有商业潜力。",
+      "pm_score": 0.395,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.22511v1",
+      "date": "2026-07-27"
+    },
+    {
+      "id": "singular-value-soft-thresholding-via-the-polar-decomposition",
+      "label": "Singular value soft-thresholding via the polar decomposition",
+      "summary": "该论文提出利用极分解（Polar Decomposition）来替代传统的奇异值分解（SVD）计算奇异值软阈值，从而在GPU上获得显著加速。这一优化方法降低了矩阵分解的计算复杂度，特别适用于大规模矩阵运算场景，如推荐系统、图像去噪和低秩近似等AI任务。对于产品经理，这意味着可以提升涉及矩阵运算的模型训练或推理效率，降低计算成本，从而支持更大规模的实时应用或边缘部署。",
+      "pm_score": 0.36,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.22484v1",
+      "date": "2026-07-27"
+    },
+    {
       "id": "show-hn-reproducibility-benchmark-a-risk-quantitative-model",
       "label": "Show HN: Reproducibility Benchmark a Risk Quantitative Model",
       "summary": "该工具提供风险定量模型的可重复性基准，专注于确保模型在不同运行环境下输出一致，解决AI模型在金融风控等场景中的稳定性痛点。通过标准化测试流程，产品经理可快速验证模型可靠性，降低部署风险，提升合规性。创新点在于将可重复性作为核心度量，而非单纯追求精度，为模型治理提供新维度。",
@@ -93,7 +303,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 5457,
-    "edges": 5798
+    "real_nodes": 5504,
+    "edges": 5845
   }
 }

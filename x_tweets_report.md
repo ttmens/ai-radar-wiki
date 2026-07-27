@@ -1,19 +1,19 @@
 # X/Twitter AI KOL 动态
 
-抓取时间: 2026-07-26 21:01:39
+抓取时间: 2026-07-27 09:00:55
 
 
 ## @sama (5 条)
 
-1. **stories like this should be told more**
+1. **agreed feels big, i want a new kind of computer**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **A billion users can now create and publish websites from their phones with ChatGPT Work.   But most people don’t really grasp the full extent of the capabilities here. From your phone, you also have a**
+2. **chatgpt work is remarkable, and "work" undersells it.  from my phone i sent:  "use all my chat history to figure out ideas for a long weekend trip with 8 friends, plan the best three options, make a f**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **i want the US to win in AI both in open source and proprietary models, and i am glad to see this**
+3. **stories like this should be told more**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
@@ -47,29 +47,29 @@
 
 ## @ylecun (5 条)
 
-1. **Recent discussions about open-sourcing make me feel that I should go back and revisit these important open-source works in representation learning that pushed the field forward and eventually made vis**
+1. **.@realDonaldTrump still has absolutely no idea what he was trying to do, how he was going to do it, why he wasn't able to do it, or what he's going to do next to try to fix what he has no idea he brok**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **America’s Quiet Exodus!  Neil deGrasse Tyson has been unusually blunt lately: he compared federal science cuts to an act of war, arguing that if a foreign rival gutted American research budgets this w**
+2. **A federal appeals court rejects Trump's efforts to limit mail-in voting. Trump sees that Republicans are likely to lose big time in the midterms because of his abysmal rule, so he is trying to game th**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **January: Trump’s account buys $1–5 million of Nvidia in a single trade.  April: He bans Nvidia from selling its chips to China. The stock craters, Nvidia takes a $4.5 billion write-down.  Through the **
+3. **Trump’s Golden Age . . .  Measles epidemic   Explosive diarrhea   $4.11 gas ($3.15 yr. ago)  $5.30 diesel ($3.74 yr. ago)  $6.83 ground beef ($6.12 yr. ago)  149 days of war with Iran (18 U.S. Troops **
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
 ## @elonmusk (5 条)
 
-1. **Grok Build Web UI is live.  I built a local-first dashboard for Grok sessions. Open a fresh Grok CLI and it shows up live, then inspect activity, Git changes, session history, and control agents from **
+1. **Grok 4.5 is a solid workhorse**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **Grok Imagine https://t.co/wDMHRZYL0d**
+2. **Grok Build /deep-research**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **https://t.co/iVejXuRUq1**
+3. **The Matrix took its name from a 1984 novel written on a manual typewriter by a man who didn't own a computer. 42 years later, that novel finally gets its own screen.  William Gibson typed Neuromancer **
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 

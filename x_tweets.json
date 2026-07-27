@@ -1,8 +1,72 @@
 {
-  "fetched_at": "2026-07-26T21:01:39.008695",
+  "fetched_at": "2026-07-27T09:00:55.568772",
   "source": "twitter-cli",
   "data": {
     "sama": [
+      {
+        "id": "2081513071135346814",
+        "text": "agreed feels big, i want a new kind of computer",
+        "author": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screenName": "sama",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 2862,
+          "retweets": 125,
+          "replies": 322,
+          "quotes": 65,
+          "views": 559413,
+          "bookmarks": 685
+        },
+        "createdAt": "Sun Jul 26 22:52:43 +0000 2026",
+        "createdAtLocal": "2026-07-27 06:52",
+        "createdAtISO": "2026-07-26T22:52:43+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2081408374315602338",
+          "text": "I don’t think you understand what ChatGPT Voice unlocks\n\nI went on a 4 hour hike yesterday. Through the northern California redwoods.\n\nGot more work done in those 4 hours talking to Voice through my AirPods then I do in 8 hours at my desk\n\nWork can be done ANYWHERE now\n\n45 minute drive back using self driving? Now 45 minutes I can talk to Voice and work on side projects\n\n20 minutes in the cafe? I can sit and talk to Voice and when I get home I have drafts on my computer for my newsletter for the next month\n\nBeing able to just use your voice to talk to a super intelligence that controls your computer is unlike anything we’ve ever experienced before\n\nI don’t even care that the voice sounds human like, or you can interrupt it, or any of the wild advancements they made to the tech\n\nIt’s the fact that it can control my computer, meaning all I need to get incredible work done is talk through my AirPods anywhere in the world that is the major game changer for me\n\nI don’t think people truly understand the implications of this yet\n\nWhy even have a desk or monitor anymore. Work can be done ANYWHERE now\n\nThe key is your set up:\n\n1. Choose one device (preferably an always on desktop) as your main “headquarters” device all your work gets done on\n\n2. Get the ChatGPT app on all your other devices (iPhone, iPad, laptops, Mac Minis)\n\n3. Set up ‘connections’ in your settings so that all your ‘node’ devices can control your ‘headquarters’ device\n\n4. Go legit anywhere in the world. Turn on Voice. Ask it to brief you on your projects, give you a recommended next step, then spin up new threads to do work\n\nI really don’t think work looks the same moving forward.",
+          "author": {
+            "screenName": "AlexFinn",
+            "name": "Alex Finn"
+          }
+        }
+      },
+      {
+        "id": "2081396796174282900",
+        "text": "chatgpt work is remarkable, and \"work\" undersells it.\n\nfrom my phone i sent:\n\n\"use all my chat history to figure out ideas for a long weekend trip with 8 friends, plan the best three options, make a full-stack site where the 9 of us can coordinate on what we would want to do in each place and decide where to go, and then after we get to group agreement make reservations. draft an email in my gmail i can send out to my friends when the site is ready.\"\n\nit...just worked.",
+        "author": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screenName": "sama",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 12864,
+          "retweets": 406,
+          "replies": 1240,
+          "quotes": 256,
+          "views": 1683265,
+          "bookmarks": 4404
+        },
+        "createdAt": "Sun Jul 26 15:10:41 +0000 2026",
+        "createdAtLocal": "2026-07-26 23:10",
+        "createdAtISO": "2026-07-26T15:10:41+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
       {
         "id": "2080861203010568232",
         "text": "stories like this should be told more",
@@ -14,12 +78,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 3020,
-          "retweets": 155,
-          "replies": 161,
-          "quotes": 16,
-          "views": 381117,
-          "bookmarks": 212
+          "likes": 3239,
+          "retweets": 169,
+          "replies": 174,
+          "quotes": 19,
+          "views": 426445,
+          "bookmarks": 230
         },
         "createdAt": "Sat Jul 25 03:42:25 +0000 2026",
         "createdAtLocal": "2026-07-25 11:42",
@@ -50,12 +114,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1235,
-          "retweets": 114,
-          "replies": 85,
+          "likes": 1256,
+          "retweets": 115,
+          "replies": 87,
           "quotes": 17,
-          "views": 410735,
-          "bookmarks": 1157
+          "views": 428091,
+          "bookmarks": 1184
         },
         "createdAt": "Thu Jul 23 18:09:59 +0000 2026",
         "createdAtLocal": "2026-07-24 02:09",
@@ -86,12 +150,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 15049,
-          "retweets": 946,
-          "replies": 2066,
-          "quotes": 547,
-          "views": 3161038,
-          "bookmarks": 1452
+          "likes": 15294,
+          "retweets": 959,
+          "replies": 2087,
+          "quotes": 553,
+          "views": 3238597,
+          "bookmarks": 1491
         },
         "createdAt": "Fri Jul 24 15:55:45 +0000 2026",
         "createdAtLocal": "2026-07-24 23:55",
@@ -110,77 +174,6 @@
             "name": "Jensen Huang"
           }
         }
-      },
-      {
-        "id": "2080683119959757243",
-        "text": "let us know what you think of pro-ultra-superhard",
-        "author": {
-          "id": "1605",
-          "name": "Sam Altman",
-          "screenName": "sama",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 3904,
-          "retweets": 105,
-          "replies": 518,
-          "quotes": 49,
-          "views": 845392,
-          "bookmarks": 424
-        },
-        "createdAt": "Fri Jul 24 15:54:47 +0000 2026",
-        "createdAtLocal": "2026-07-24 23:54",
-        "createdAtISO": "2026-07-24T15:54:47+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2080515937803886872",
-          "text": "Agreed: GPT-5.6 Pro (which is only available via the chatbot) is the smartest model out there. GPT-5.6 Ultra (the best model in Codex) is not near as powerful on hard tasks.\n\nFor really hard problems: GPT-5.6 Sol Pro&gt;Fable 5 Ultracode &gt; GPT-5.6 Sol Ultra. (Yes, this is confusing)",
-          "author": {
-            "screenName": "emollick",
-            "name": "Ethan Mollick"
-          }
-        }
-      },
-      {
-        "id": "2080179310204461545",
-        "text": "already in bed. couldn’t remember if my laptop was plugged in.\nasked codex.\ngood night https://t.co/aFB56IHpkI",
-        "author": {
-          "id": "617152588",
-          "name": "corey.ching",
-          "screenName": "coreyching",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2019216147636449280/1zbg4SAT_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 6641,
-          "retweets": 94,
-          "replies": 174,
-          "quotes": 36,
-          "views": 955671,
-          "bookmarks": 560
-        },
-        "createdAt": "Thu Jul 23 06:32:50 +0000 2026",
-        "createdAtLocal": "2026-07-23 14:32",
-        "createdAtISO": "2026-07-23T06:32:50+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HN5IDsfbkAAc2Zj.jpg",
-            "width": 1206,
-            "height": 1050
-          }
-        ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "sama",
-        "lang": "en",
-        "score": null
       }
     ],
     "karpathy": [
@@ -195,12 +188,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 48324,
-          "retweets": 4016,
-          "replies": 2331,
-          "quotes": 1398,
-          "views": 3805037,
-          "bookmarks": 14745
+          "likes": 48413,
+          "retweets": 4029,
+          "replies": 2334,
+          "quotes": 1404,
+          "views": 3835403,
+          "bookmarks": 14771
         },
         "createdAt": "Tue Jul 21 16:53:55 +0000 2026",
         "createdAtLocal": "2026-07-22 00:53",
@@ -223,12 +216,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8867,
-          "retweets": 1090,
+          "likes": 8871,
+          "retweets": 1092,
           "replies": 454,
-          "quotes": 577,
-          "views": 3702748,
-          "bookmarks": 5120
+          "quotes": 576,
+          "views": 3707884,
+          "bookmarks": 5117
         },
         "createdAt": "Wed Jul 08 21:47:29 +0000 2026",
         "createdAtLocal": "2026-07-09 05:47",
@@ -253,12 +246,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1647,
-          "retweets": 159,
-          "replies": 81,
-          "quotes": 19,
-          "views": 517123,
-          "bookmarks": 2499
+          "likes": 1655,
+          "retweets": 163,
+          "replies": 84,
+          "quotes": 21,
+          "views": 521607,
+          "bookmarks": 2511
         },
         "createdAt": "Fri Jul 03 14:12:03 +0000 2026",
         "createdAtLocal": "2026-07-03 22:12",
@@ -283,12 +276,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 9781,
+          "likes": 9789,
           "retweets": 940,
-          "replies": 651,
+          "replies": 652,
           "quotes": 604,
-          "views": 6481049,
-          "bookmarks": 3772
+          "views": 6485608,
+          "bookmarks": 3771
         },
         "createdAt": "Tue Jun 30 15:00:09 +0000 2026",
         "createdAtLocal": "2026-06-30 23:00",
@@ -318,12 +311,12 @@
           "verified": false
         },
         "metrics": {
-          "likes": 1945,
-          "retweets": 247,
+          "likes": 1942,
+          "retweets": 248,
           "replies": 183,
           "quotes": 160,
-          "views": 1890792,
-          "bookmarks": 1269
+          "views": 1892779,
+          "bookmarks": 1272
         },
         "createdAt": "Tue Jun 23 17:01:29 +0000 2026",
         "createdAtLocal": "2026-06-24 01:01",
@@ -351,12 +344,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 9255,
-          "retweets": 1325,
-          "replies": 413,
-          "quotes": 190,
-          "views": 914376,
-          "bookmarks": 9746
+          "likes": 9374,
+          "retweets": 1351,
+          "replies": 420,
+          "quotes": 198,
+          "views": 955782,
+          "bookmarks": 9940
         },
         "createdAt": "Thu Jul 23 16:45:32 +0000 2026",
         "createdAtLocal": "2026-07-24 00:45",
@@ -386,12 +379,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1205,
+          "likes": 1212,
           "retweets": 127,
-          "replies": 97,
+          "replies": 98,
           "quotes": 12,
-          "views": 137504,
-          "bookmarks": 800
+          "views": 138606,
+          "bookmarks": 805
         },
         "createdAt": "Fri Jul 17 15:47:30 +0000 2026",
         "createdAtLocal": "2026-07-17 23:47",
@@ -421,12 +414,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 298,
+          "likes": 299,
           "retweets": 46,
           "replies": 81,
           "quotes": 6,
-          "views": 106067,
-          "bookmarks": 60
+          "views": 107080,
+          "bookmarks": 61
         },
         "createdAt": "Thu Jul 09 17:31:17 +0000 2026",
         "createdAtLocal": "2026-07-10 01:31",
@@ -457,12 +450,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8490,
+          "likes": 8488,
           "retweets": 1635,
           "replies": 398,
-          "quotes": 180,
-          "views": 658648,
-          "bookmarks": 10298
+          "quotes": 181,
+          "views": 659793,
+          "bookmarks": 10301
         },
         "createdAt": "Tue Jun 30 16:04:04 +0000 2026",
         "createdAtLocal": "2026-07-01 00:04",
@@ -492,11 +485,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1346,
+          "likes": 1347,
           "retweets": 288,
           "replies": 178,
           "quotes": 62,
-          "views": 168928,
+          "views": 169268,
           "bookmarks": 402
         },
         "createdAt": "Fri Jun 19 18:34:23 +0000 2026",
@@ -519,32 +512,98 @@
     ],
     "ylecun": [
       {
-        "id": "2081195134688116960",
-        "text": "Recent discussions about open-sourcing make me feel that I should go back and revisit these important open-source works in representation learning that pushed the field forward and eventually made vision foundation models so useful in applications.\n\nThese are the papers that come to mind. Feel free to correct my opinions and share any important papers that I may have missed.\n\nMoCo v1 (2019-11) – ResNet\nMethod: contrastive loss + a queue of samples from previous batches for negative pairing + EMA-based weight updates\n# of training branches: 2\nEffect: EMA-based weight updates became an important training paradigm in later representation learning algorithms, but this work used EMA only to produce stable embeddings for negative samples.\n\nSimCLR (2020-02) – ResNet\nMethod: contrastive loss + more augmentations + an MLP projector to capture the effects of augmentations\n# of training branches: 2\nEffect: An MLP projector became the gold standard in representation learning algorithms.\n\nBYOL (2020-06) – ResNet\nMethod: positive pairs only + an asymmetric architecture + stop-gradient + SimCLR augmentations + EMA\n# of training branches: 2\nEffect: Probably the first representation learning method without negative pairs. It inspired DINO and probably JEPA in terms of architectural design.\n\nSwAV (2020-06) – ResNet\nMethod: global/local views + SimCLR augmentations + class prototypes\n# of training branches: 2\nEffect: Its global/local-view training became the standard setting in later representation learning methods.\n\nSimSiam (2020-11) – ResNet\nMethod: BYOL without EMA + a constant learning rate for the predictor\n# of training branches: 2\n\nBarlow Twins (2021-03) – ResNet\nMethod: global views + SimCLR augmentations + batch-level covariance optimization\n# of training branches: 2\nEffect: The optimization target changed. Previous works used cosine similarity, but this work uses covariance, which explicitly regularizes the latent space.\n\nMoCo v3 (2021-04) – ViT\nMethod: MoCo v1 - memory bank + SimCLR augmentations and an MLP + a frozen first layer\n# of training branches: 2\nEffect: The first work to show that ViT can be used for representation learning.\n\nDINO (2021-04) – ViT\nMethod: BYOL - the predictor + global/local views + softmax distillation + centering + temperature sharpening\n# of training branches: 2\nEffect: Enabled the era of large-scale vision foundation models.\n\nVICReg (2021-05) – ViT\nMethod: Barlow Twins → branch-level covariance + variance + sample-level invariance\n# of training branches: 2 or 1\nEffect: The first representation learning method to support stable one-branch training without EMA, centering, layer freezing, temperature sharpening, or stop-gradient.\n\nMAE (2021-11) – ViT\nMethod: learning representations through pixel reconstruction\n# of training branches: 1\nEffect: A simple, simple, and simple training strategy that is widely used in medical imaging, from what I have heard.\n\nI-JEPA (2023-01) – ViT\nMethod: learning representations through latent prediction\n# of training branches: 2\nEffect: The first representation learning method in the spirit of JEPA. It is also the basis of V-JEPAs, VL-JEPA, and so on.\n\nDINOv2 (2023-04) – ViT\nMethod: DINO v1 + SK centering + KoLeo + LayerScale\n# of training branches: 2\nEffect: The first large vision foundation model to show superior performance across a wide range of downstream tasks.\n\nDINOv3 (2025-08) – ViT\nMethod: DINO v2 + Gram anchoring + flattened schedules\n# of training branches: 2\nEffect: The first large vision foundation model to show superior performance on fine-grained tasks, such as segmentation and depth estimation, and to achieve accuracy comparable to supervised learning methods on ImageNet-1K.\n\nLeJEPA (2025-11) – ViT + others\nMethod: VICReg → full-distribution regularization. It provides mathematical proofs of why an isotropic distribution is the ideal target for the latent space and proposes SIGReg, a method that is linear in the scaling factors.\n# of training branches: 1\nEffect: No heuristics are needed for training stability. It provides a simple solution for various tasks, including world models, such as the LeWM series; multimodal learning, such as LeVLJEPA; drone applications, such as SkyJEPA; and so on.\n\nVISReg (2026-06) – ViT\nMethod: SIGReg → a faster and stronger anti-collapse method that can form an isotropic Gaussian distribution more efficiently. It decomposes the regularization into center, variance, and shape losses, allowing the model to begin introducing isotropy at an early stage of training.\n# of training branches: 1\nEffect: It is too new to summarize concretely.",
+        "id": "2081355090959466793",
+        "text": ".@realDonaldTrump still has absolutely no idea what he was trying to do, how he was going to do it, why he wasn't able to do it, or what he's going to do next to try to fix what he has no idea he broke. \n\nHe's a delusional, crackbrained, and deranged moron.\n\nIt's just that simple.",
         "author": {
-          "id": "1512086648930148353",
-          "name": "Haiyu Wu",
-          "screenName": "HaiyuWu1",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1833875070005002241/xu88w6rH_normal.jpg",
+          "id": "471677441",
+          "name": "George Conway ⚖️🇺🇸",
+          "screenName": "gtconway3d",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2008481155712995328/cljFxR8Z_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 126,
-          "retweets": 11,
-          "replies": 8,
-          "quotes": 1,
-          "views": 17249,
-          "bookmarks": 118
+          "likes": 4060,
+          "retweets": 867,
+          "replies": 192,
+          "quotes": 26,
+          "views": 161583,
+          "bookmarks": 47
         },
-        "createdAt": "Sun Jul 26 01:49:21 +0000 2026",
-        "createdAtLocal": "2026-07-26 09:49",
-        "createdAtISO": "2026-07-26T01:49:21+00:00",
+        "createdAt": "Sun Jul 26 12:24:58 +0000 2026",
+        "createdAtLocal": "2026-07-26 20:24",
+        "createdAtISO": "2026-07-26T12:24:58+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2081148759296131512",
+          "text": "Breaking News: President Trump has set aside, at least for now, plans to sharply escalate the American military assault against Iran. https://t.co/qvWp4egLZd",
+          "author": {
+            "screenName": "nytimes",
+            "name": "The New York Times"
+          }
+        }
+      },
+      {
+        "id": "2081434036619112790",
+        "text": "A federal appeals court rejects Trump's efforts to limit mail-in voting. Trump sees that Republicans are likely to lose big time in the midterms because of his abysmal rule, so he is trying to game the election. https://t.co/xjT646gX6c",
+        "author": {
+          "id": "17839398",
+          "name": "Kenneth Roth",
+          "screenName": "KenRoth",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/759478721808068608/F5s3fgyl_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 63,
+          "retweets": 30,
+          "replies": 6,
+          "quotes": 1,
+          "views": 19426,
+          "bookmarks": 2
+        },
+        "createdAt": "Sun Jul 26 17:38:40 +0000 2026",
+        "createdAtLocal": "2026-07-27 01:38",
+        "createdAtISO": "2026-07-26T17:38:40+00:00",
+        "media": [],
+        "urls": [
+          "https://trib.al/8XfYZFX"
+        ],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2081373455392317765",
+        "text": "Trump’s Golden Age . . .\n\nMeasles epidemic \n\nExplosive diarrhea \n\n$4.11 gas ($3.15 yr. ago)\n\n$5.30 diesel ($3.74 yr. ago)\n\n$6.83 ground beef ($6.12 yr. ago)\n\n149 days of war with Iran (18 U.S. Troops killed)\n\n$39.67 trillion dollar national debt (up $3.57 trillion in 18 months since Trump retuned)\n\nChina viewed more favorably than the United States globally \n\n5 million Americans lost healthcare coverage since Trump returned\n\n$55 billion in handouts to farmers mostly due to Trump’s tariffs destroying their markets \n\n46% spike in farm bankruptcies \n\n21% spike in mortgage foreclosures \n\n11.9% increase in personal bankruptcies",
+        "author": {
+          "id": "489475164",
+          "name": "Moe Davis (U.S. Air Force, Retired)",
+          "screenName": "ColMoeDavis",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2069146865728159744/nUZ5WSB__normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 830,
+          "retweets": 474,
+          "replies": 50,
+          "quotes": 28,
+          "views": 18630,
+          "bookmarks": 80
+        },
+        "createdAt": "Sun Jul 26 13:37:56 +0000 2026",
+        "createdAtLocal": "2026-07-26 21:37",
+        "createdAtISO": "2026-07-26T13:37:56+00:00",
         "media": [
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HOHiy1Na4AAfPPq.jpg",
-            "width": 1672,
-            "height": 941
+            "url": "https://pbs.twimg.com/media/HOKGIJYXoAAs7Rh.jpg",
+            "width": 1206,
+            "height": 1190
           }
         ],
         "urls": [],
@@ -554,167 +613,83 @@
         "score": null
       },
       {
-        "id": "2080924098230706310",
-        "text": "America’s Quiet Exodus!\n\nNeil deGrasse Tyson has been unusually blunt lately: he compared federal science cuts to an act of war, arguing that if a foreign rival gutted American research budgets this way, Washington would call it sabotage. Instead, it’s self-inflicted.\n\nThe numbers back him up. NSF grant awards recently hit their slowest pace in decades, with physics funding down over 80 percent and biology nearly halved. A Nature poll found roughly three-quarters of US researchers now considering leaving the country entirely.\n\nThe beneficiaries are obvious. France, Canada, and Australia are actively recruiting displaced American talent, dangling stable funding and political neutrality. China, meanwhile, has overtaken the US in total research spending, a shift analysts warn could cost America a trillion dollars in lost competitiveness over time.\nTyson’s warning isn’t nostalgia. It’s a balance-sheet argument: brains, once they leave, rarely come back.\n\nhttps://t.co/3rS9iAjM8o",
+        "id": "2081402147434815884",
+        "text": "CBS/YouGov poll:\n\nTrump's policies are making you\n\nWorse off-58%\nBetter off-13% https://t.co/YTR3Ow1ILz",
         "author": {
-          "id": "1031519579770642432",
-          "name": "Gandalv",
-          "screenName": "Microinteracti1",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2070438914494529536/g3LiiP5a_normal.jpg",
+          "id": "1221462414744596483",
+          "name": "Republicans against Trump",
+          "screenName": "RpsAgainstTrump",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1552023520347099136/tIGoFfQt_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 796,
-          "retweets": 311,
-          "replies": 26,
+          "likes": 1186,
+          "retweets": 336,
+          "replies": 35,
           "quotes": 11,
-          "views": 34660,
-          "bookmarks": 61
+          "views": 53701,
+          "bookmarks": 24
         },
-        "createdAt": "Sat Jul 25 07:52:21 +0000 2026",
-        "createdAtLocal": "2026-07-25 15:52",
-        "createdAtISO": "2026-07-25T07:52:21+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2080894479934845335",
-        "text": "January: Trump’s account buys $1–5 million of Nvidia in a single trade.\n\nApril: He bans Nvidia from selling its chips to China. The stock craters, Nvidia takes a $4.5 billion write-down.\n\nThrough the spring: his accounts keep buying the dip, over a dozen Nvidia purchases.\n\nAugust: He reverses his own ban. Nvidia can sell to China again, if it pays the U.S. government 15% of the revenue. A deal he cut personally.\n\nAugust 18: his account buys $5–25 million of Nvidia, the single biggest stock purchase of his entire year.\n\nDecember: He greenlights the even more powerful H200 chips for China, now at a 25% cut.\n\nThe President banned the stock, bought the crash, un-banned the stock, then made his biggest purchase of the year.\n\nHe controls the switch. He owns the stock. He flips the switch.",
-        "author": {
-          "id": "2072284891278876672",
-          "name": "Donald Trump Portfolio Tracker",
-          "screenName": "TrumpsPortfolio",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2072285616058834944/_lDhjGNH_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 8063,
-          "retweets": 1953,
-          "replies": 105,
-          "quotes": 81,
-          "views": 272103,
-          "bookmarks": 696
-        },
-        "createdAt": "Sat Jul 25 05:54:39 +0000 2026",
-        "createdAtLocal": "2026-07-25 13:54",
-        "createdAtISO": "2026-07-25T05:54:39+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2080708625635614971",
-        "text": "I still remember the days when it was basically us & a few other people pushing this topic (on the top of my head @allen_ai @ylecun @jeremyphoward @soumithchintala @BlancheMinerva @fchollet @GuillaumeLample,…). We’ve gone a long way for it to be the ceo of the most valuable company in the world’s first tweet!",
-        "author": {
-          "id": "186420551",
-          "name": "clem 🤗",
-          "screenName": "ClementDelangue",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_normal.png",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 300,
-          "retweets": 11,
-          "replies": 7,
-          "quotes": 0,
-          "views": 44634,
-          "bookmarks": 29
-        },
-        "createdAt": "Fri Jul 24 17:36:08 +0000 2026",
-        "createdAtLocal": "2026-07-25 01:36",
-        "createdAtISO": "2026-07-24T17:36:08+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2080861634961326279",
-        "text": "Wonderful to have a broad base acknowledgement of the need for open weights. We are delighted to support as signatories.\n\nOpen weights is the key to ensuring security, research, innovation and competition. \n\nAnd let's not confuse misappropriation with openness.",
-        "author": {
-          "id": "16591288",
-          "name": "martin_casado",
-          "screenName": "martin_casado",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1556885485888237568/HH1iBQNp_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 194,
-          "retweets": 11,
-          "replies": 19,
-          "quotes": 1,
-          "views": 27300,
-          "bookmarks": 16
-        },
-        "createdAt": "Sat Jul 25 03:44:08 +0000 2026",
-        "createdAtLocal": "2026-07-25 11:44",
-        "createdAtISO": "2026-07-25T03:44:08+00:00",
-        "media": [],
+        "createdAt": "Sun Jul 26 15:31:57 +0000 2026",
+        "createdAtLocal": "2026-07-26 23:31",
+        "createdAtISO": "2026-07-26T15:31:57+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HOKgOL6WUAAuaXL.jpg",
+            "width": 1125,
+            "height": 1113
+          }
+        ],
         "urls": [],
         "isRetweet": true,
         "retweetedBy": "ylecun",
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2080643682408321103",
-          "text": "For my first post, I’m sharing a letter @NVIDIA signed on why open models matter.\n\nAI will transform every industry, power every company, and be built by every country.\n\nOpen models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty.\n\nThe world needs both frontier closed models and frontier open models.\n\nhttps://t.co/AUKzoQ5Ikb",
+          "id": "2081390438829670420",
+          "text": "NEW CBS News/YouGov poll:\n\n67% say the U.S. should end the war with Iran now, including 30% of Republicans.\n\n33% say the U.S. should keep fighting until Iran gives up more.",
           "author": {
-            "screenName": "JensenHuang",
-            "name": "Jensen Huang"
+            "screenName": "RpsAgainstTrump",
+            "name": "Republicans against Trump"
           }
         }
+      },
+      {
+        "id": "2081333194213757376",
+        "text": "Let me see if I have this right: The Qataris give the Defense Dept a 747. Our govt puts $400mm of upgrades into it. Trump gets to keep the plane where he leaves office.\n\nhttps://t.co/n18Spd6fLZ",
+        "author": {
+          "id": "401625957",
+          "name": "Steve Rattner",
+          "screenName": "SteveRattner",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1559587528109395969/HfLfInk2_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 1591,
+          "retweets": 613,
+          "replies": 188,
+          "quotes": 42,
+          "views": 108056,
+          "bookmarks": 72
+        },
+        "createdAt": "Sun Jul 26 10:57:57 +0000 2026",
+        "createdAtLocal": "2026-07-26 18:57",
+        "createdAtISO": "2026-07-26T10:57:57+00:00",
+        "media": [],
+        "urls": [
+          "https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html?smid=nytcore-ios-share"
+        ],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
       }
     ],
     "elonmusk": [
       {
-        "id": "2080925877919949097",
-        "text": "Grok Build Web UI is live.\n\nI built a local-first dashboard for Grok sessions. Open a fresh Grok CLI and it shows up live, then inspect activity, Git changes, session history, and control agents from one place.\n\nnpx --yes grok-ui\n\nhttps://t.co/7HiJqmUfC8 https://t.co/kuKVAdxNOy",
-        "author": {
-          "id": "889305080679346178",
-          "name": "Joey",
-          "screenName": "aijoey",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1644521879909150726/LQMqYnTx_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 1547,
-          "retweets": 243,
-          "replies": 297,
-          "quotes": 13,
-          "views": 484772,
-          "bookmarks": 544
-        },
-        "createdAt": "Sat Jul 25 07:59:25 +0000 2026",
-        "createdAtLocal": "2026-07-25 15:59",
-        "createdAtISO": "2026-07-25T07:59:25+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/ext_tw_video/2080925851751727104/pu/vid/avc1/1280x720/UYZH6byVJXGm4-4U.mp4?tag=12",
-            "width": 1920,
-            "height": 1080
-          }
-        ],
-        "urls": [
-          "https://github.com/joeynyc/Grok-UI"
-        ],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2081219220415652110",
-        "text": "Grok Imagine https://t.co/wDMHRZYL0d",
+        "id": "2081485024872796427",
+        "text": "Grok 4.5 is a solid workhorse",
         "author": {
           "id": "44196397",
           "name": "Elon Musk",
@@ -723,86 +698,16 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8461,
-          "retweets": 1359,
-          "replies": 2167,
-          "quotes": 227,
-          "views": 2502048,
-          "bookmarks": 726
+          "likes": 4262,
+          "retweets": 649,
+          "replies": 1064,
+          "quotes": 38,
+          "views": 2003441,
+          "bookmarks": 154
         },
-        "createdAt": "Sun Jul 26 03:25:03 +0000 2026",
-        "createdAtLocal": "2026-07-26 11:25",
-        "createdAtISO": "2026-07-26T03:25:03+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2021386326168195072/vid/avc1/1080x1530/8259YBqL9cbe-Qu8.mp4?tag=21",
-            "width": 1080,
-            "height": 1530
-          }
-        ],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2081218380321714381",
-        "text": "https://t.co/iVejXuRUq1",
-        "author": {
-          "id": "44196397",
-          "name": "Elon Musk",
-          "screenName": "elonmusk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 4135,
-          "retweets": 694,
-          "replies": 600,
-          "quotes": 33,
-          "views": 2838101,
-          "bookmarks": 402
-        },
-        "createdAt": "Sun Jul 26 03:21:43 +0000 2026",
-        "createdAtLocal": "2026-07-26 11:21",
-        "createdAtISO": "2026-07-26T03:21:43+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2079982135394631680/vid/avc1/1920x1080/qZ58vtQQnL08JZ9w.mp4?tag=29",
-            "width": 1920,
-            "height": 1080
-          }
-        ],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "zxx",
-        "score": null
-      },
-      {
-        "id": "2081217444186554672",
-        "text": "/dream",
-        "author": {
-          "id": "44196397",
-          "name": "Elon Musk",
-          "screenName": "elonmusk",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 3220,
-          "retweets": 489,
-          "replies": 556,
-          "quotes": 43,
-          "views": 2067498,
-          "bookmarks": 331
-        },
-        "createdAt": "Sun Jul 26 03:18:00 +0000 2026",
-        "createdAtLocal": "2026-07-26 11:18",
-        "createdAtISO": "2026-07-26T03:18:00+00:00",
+        "createdAt": "Sun Jul 26 21:01:16 +0000 2026",
+        "createdAtLocal": "2026-07-27 05:01",
+        "createdAtISO": "2026-07-26T21:01:16+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -810,17 +715,17 @@
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2081118419039203765",
-          "text": "I've been using Grok Build since the first 24-hours it was made available. It is still my favorite agentic coding cli, and there are so many little features I just love.\n\nSo I thought I'd put together a little thread on what makes Grok Build so special, and some features you should try if you haven't yet.\n\nLet's kick it off 🧵",
+          "id": "2081449972201922735",
+          "text": "Grok 4.5 is very good for vibe math in the field of Programming Language Theory. It's keeping up with Sol 5.6 and is way more fun to use than Fable/Opus 5 which love to spend hours creating superfluous documents (Claude code) or constantly nags me to \"Continue\" (web).",
           "author": {
-            "screenName": "morganlinton",
-            "name": "Morgan"
+            "screenName": "TimSweeneyEpic",
+            "name": "Tim Sweeney"
           }
         }
       },
       {
-        "id": "2081217033543286834",
-        "text": "https://t.co/6NsBfHxGzh",
+        "id": "2081449658363134075",
+        "text": "Grok Build /deep-research",
         "author": {
           "id": "44196397",
           "name": "Elon Musk",
@@ -829,22 +734,130 @@
           "verified": true
         },
         "metrics": {
-          "likes": 82289,
-          "retweets": 7467,
-          "replies": 3811,
-          "quotes": 594,
-          "views": 4784856,
-          "bookmarks": 3152
+          "likes": 3954,
+          "retweets": 799,
+          "replies": 902,
+          "quotes": 46,
+          "views": 1913564,
+          "bookmarks": 462
         },
-        "createdAt": "Sun Jul 26 03:16:22 +0000 2026",
-        "createdAtLocal": "2026-07-26 11:16",
-        "createdAtISO": "2026-07-26T03:16:22+00:00",
+        "createdAt": "Sun Jul 26 18:40:44 +0000 2026",
+        "createdAtLocal": "2026-07-27 02:40",
+        "createdAtISO": "2026-07-26T18:40:44+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2081405805644136678",
+          "text": "Grok Build has /deep-research command\n\nResearch with bounded parallel agents, cross-check evidence, and write a cited report https://t.co/IjnuWyIvNR",
+          "author": {
+            "screenName": "techdevnotes",
+            "name": "Tech Dev Notes"
+          }
+        }
+      },
+      {
+        "id": "2081225245286154631",
+        "text": "The Matrix took its name from a 1984 novel written on a manual typewriter by a man who didn't own a computer. 42 years later, that novel finally gets its own screen.\n\nWilliam Gibson typed Neuromancer on a 1927 Hermes portable. He coined \"cyberspace\" before he'd ever logged onto anything. The book swept the Hugo, the Nebula, and the Philip K. Dick award in the same year, the only novel ever to take all three.\n\nThen Hollywood spent four decades strip-mining it while calling it unfilmable. The Wachowskis lifted the matrix, the jacked-in hackers, the AI pulling strings behind a corporate veil. Every razor-girl assassin in sci-fi traces back to Molly. Johnny Mnemonic, an actual Gibson adaptation, flopped so hard in 1995 that studios treated his work as radioactive for a generation.\n\nAt least five directors attached and detached over the years. Chris Cunningham in 2000. Vincenzo Natali in 2010. Tim Miller at Fox in 2017. Each attempt died the same death. By the time the technology existed to film Neuromancer, audiences had watched its ideas in a dozen movies that borrowed them first.\n\nThe original became unfilmable because it looked like a copy of its own copies.\n\nNow the timing loops back on itself. A story about a rogue AI maneuvering to escape its corporate constraints, written before the web existed, lands in January 2027 as the least speculative thing on television.\n\nAnd one detail makes the whole arc perfect. When Neuromancer royalties came in, Gibson bought his first computer, an Apple IIc. Four decades later, Apple is the company putting his book on screen.",
+        "author": {
+          "id": "101805159",
+          "name": "Aakash Gupta",
+          "screenName": "aakashgupta",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2021355466216062976/8MDXp7vR_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 12385,
+          "retweets": 1721,
+          "replies": 349,
+          "quotes": 100,
+          "views": 1384611,
+          "bookmarks": 3781
+        },
+        "createdAt": "Sun Jul 26 03:49:00 +0000 2026",
+        "createdAtLocal": "2026-07-26 11:49",
+        "createdAtISO": "2026-07-26T03:49:00+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2081137420276535572",
+          "text": "See you on the other side, cowboy.\n\n#Neuromancer — January 22 https://t.co/btlZ48m48I",
+          "author": {
+            "screenName": "AppleTV",
+            "name": "Apple TV"
+          }
+        }
+      },
+      {
+        "id": "2081433297846935762",
+        "text": "Jensen is awesome",
+        "author": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screenName": "elonmusk",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 16088,
+          "retweets": 2021,
+          "replies": 1299,
+          "quotes": 118,
+          "views": 2852335,
+          "bookmarks": 915
+        },
+        "createdAt": "Sun Jul 26 17:35:44 +0000 2026",
+        "createdAtLocal": "2026-07-27 01:35",
+        "createdAtISO": "2026-07-26T17:35:44+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2081390162299564089",
+          "text": "NVIDIA CEO Jensen Huang gave one of the strongest endorsements of Elon Musk’s tech ecosystem\n\n“Every single one of them is revolutionary”\n\nHe called Grok, Tesla’s self-driving work and Optimus.  Every single one of them world-class projects....each with gigantic potential\n\nHe described Elon as an extraordinary engineer, highlighting NVIDIA’s work with Tesla and SpaceXAI(xAI) and saying they will build many more powerful computers together\n\nOn Optimus, he went even further:\nHumanoid robots could become the next multi-trillion-dollar industry, and Optimus has a real chance to achieve the volume and technological scale needed to move the entire field forward\n\nand said that it's “right around the corner”\n\nhttps://t.co/8YCnjrH1d4",
+          "author": {
+            "screenName": "XFreeze",
+            "name": "X Freeze"
+          }
+        }
+      },
+      {
+        "id": "2081428541585899753",
+        "text": "https://t.co/yMnPF5qb4t",
+        "author": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screenName": "elonmusk",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 36959,
+          "retweets": 4249,
+          "replies": 2579,
+          "quotes": 293,
+          "views": 4017120,
+          "bookmarks": 1008
+        },
+        "createdAt": "Sun Jul 26 17:16:50 +0000 2026",
+        "createdAtLocal": "2026-07-27 01:16",
+        "createdAtISO": "2026-07-26T17:16:50+00:00",
         "media": [
           {
             "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2080885823449280512/vid/avc1/720x1280/QA8KNYbGBzQJWZQx.mp4?tag=29",
+            "url": "https://video.twimg.com/amplify_video/2081123733159170048/vid/avc1/720x720/CEQQcVAGju8ZWtWZ.mp4?tag=29",
             "width": 720,
-            "height": 1280
+            "height": 720
           }
         ],
         "urls": [],
@@ -866,11 +879,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 627,
+          "likes": 645,
           "retweets": 26,
-          "replies": 23,
+          "replies": 25,
           "quotes": 5,
-          "views": 80409,
+          "views": 85442,
           "bookmarks": 33
         },
         "createdAt": "Fri Jul 24 23:32:30 +0000 2026",
@@ -909,11 +922,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 272,
+          "likes": 274,
           "retweets": 5,
           "replies": 12,
           "quotes": 3,
-          "views": 43924,
+          "views": 45235,
           "bookmarks": 31
         },
         "createdAt": "Fri Jul 24 14:24:43 +0000 2026",
@@ -945,11 +958,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 483,
-          "retweets": 45,
+          "likes": 485,
+          "retweets": 46,
           "replies": 45,
           "quotes": 8,
-          "views": 62254,
+          "views": 62425,
           "bookmarks": 126
         },
         "createdAt": "Fri Jul 17 16:09:12 +0000 2026",
@@ -984,7 +997,7 @@
           "retweets": 3,
           "replies": 12,
           "quotes": 0,
-          "views": 15448,
+          "views": 15574,
           "bookmarks": 11
         },
         "createdAt": "Fri Jul 17 16:11:03 +0000 2026",
@@ -1022,7 +1035,7 @@
           "retweets": 65,
           "replies": 33,
           "quotes": 6,
-          "views": 103698,
+          "views": 104034,
           "bookmarks": 165
         },
         "createdAt": "Wed Jul 15 20:55:33 +0000 2026",

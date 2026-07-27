@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-27 | Total pages: 2987
+> Last updated: 2026-07-27 | Total pages: 3002
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -135,6 +135,7 @@
 - [[applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire.md]] Applied Computing wants to give oil and gas operators an AI model for the entire `pillar:capabilities` `score:0.48`
 - [[arc-agi-leaderboard.md]] ARC-AGI Leaderboard `pillar:capabilities` `score:0.445`
 - [[are-ai-labs-pelicanmaxxing.md]] Are AI Labs Pelicanmaxxing? `pillar:capabilities` `score:0.565`
+- [[are-brain-waves-the-next-unlock-for-physical-ai.md]] Are brain waves the next unlock for physical AI? `pillar:capabilities` `score:0.445`
 - [[are-we-offloading-too-much-of-our-thinking-to-ai.md]] Are we offloading too much of our thinking to AI? `pillar:capabilities` `score:0.43`
 - [[arena-ai-model-elo-history.md]] Arena AI Model ELO History `pillar:capabilities` `score:0.465`
 - [[arithmetic-without-numbers-how-llms-do-math.md]] Arithmetic Without Numbers – How LLMs Do Math `pillar:capabilities` `score:0.43`
@@ -493,6 +494,7 @@
 - [[kimi-k27-code-open-source-coding-model-with-better-token-efficiency.md]] Kimi K2.7-Code: open-source coding model with better token efficiency `pillar:capabilities` `score:0.6`
 - [[kimi-k3-and-what-we-can-still-learn-from-the-pelican-benchmark.md]] Kimi K3, and what we can still learn from the pelican benchmark `pillar:capabilities` `score:0.565`
 - [[kimi-k3-qwen-38-and-anthropics-potential-unravelling.md]] Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling `pillar:capabilities` `score:0.345`
+- [[kimi-k3-releases-on-huggingface-727.md]] Kimi-K3 Releases on HuggingFace 7/27 `pillar:capabilities` `score:0.635`
 - [[kimi-threat-or-menace.md]] Kimi: Threat or menace? `pillar:capabilities` `score:0.515`
 - [[kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy.md]] Kiwibit’s AI-powered bird feeder is my new backyard buddy `pillar:capabilities` `score:0.445`
 - [[klondike-solitaire-game-for-curses-in-5k-of-c.md]] Klondike Solitaire game for curses in 5k of C `pillar:capabilities` `score:0.19`
@@ -1014,6 +1016,7 @@
 - [[us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says.md]] US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says `pillar:capabilities` `score:0.235`
 - [[us-allows-anthropic-to-release-mythos-ai-to-trusted-us-organizations.md]] U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations `pillar:capabilities` `score:0.63`
 - [[us-army-corps-of-engineers-bay-model.md]] U.S. Army Corps of Engineers Bay Model `pillar:capabilities` `score:0.375`
+- [[us-citizen-charged-after-grapheneos-phone-wipes-during-airport-search.md]] US citizen charged after GrapheneOS phone wipes during airport search `pillar:capabilities` `score:0.595`
 - [[usda-projects-smallest-us-wheat-harvest-since-1972-due-to-plains-drought.md]] USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought `pillar:capabilities` `score:0.305`
 - [[use-boring-languages-with-llms.md]] Use Boring Languages with LLMs `pillar:capabilities` `score:0.38`
 - [[using-ai-to-improve-a-challenging-reaction-in-medicinal-chemistry.md]] Using AI to improve a challenging reaction in medicinal chemistry `pillar:capabilities` `score:0.295`
@@ -1224,6 +1227,7 @@
 - [[dynaflip-rethinking-robotics-perception-via-tri-modal-dynamics-guided-representa.md]] DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Represent `pillar:capabilities` `score:0.445`
 - [[dynamic-resource-allocation-for-ensemble-determinization-mcts.md]] Dynamic Resource Allocation for Ensemble Determinization MCTS `pillar:capabilities` `score:0.305`
 - [[dynamics-level-watermarking-of-flow-matching-models-with-random-codes.md]] Dynamics-Level Watermarking of Flow Matching Models with Random Codes `pillar:capabilities` `score:0.395`
+- [[dysphagia-risk-stratification-in-head-and-neck-cancer-via-two-stage-pro-clinical.md]] Dysphagia Risk Stratification in Head and Neck Cancer via Two-Stage PRO-Clinical `pillar:capabilities` `score:0.395`
 - [[ecglight-compute-light-framework-for-paper-ecg-digitization-and-myocardial-infar.md]] ECGLight: Compute-Light Framework For Paper ECG Digitization and Myocardial Infa `pillar:capabilities` `score:0.445`
 - [[echo-memory-a-controlled-study-of-memory-in-action-world-models.md]] Echo-Memory: A Controlled Study of Memory in Action World Models `pillar:capabilities` `score:0.445`
 - [[edge-specific-signal-propagation-on-mature-chromophore-regio.md]] Edge-specific signal propagation on mature chromophore-region 3D mechanism graph `pillar:capabilities` `score:0.445`
@@ -1329,6 +1333,7 @@
 - [[inside-the-unfair-judge-a-mechanistic-interpretability-account-of-llm-as-judge-b.md]] Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge `pillar:capabilities` `score:0.48`
 - [[integrable-elasticity-via-neural-demand-potentials.md]] Integrable Elasticity via Neural Demand Potentials `pillar:capabilities` `score:0.48`
 - [[interpretable-computer-vision-for-defect-detection-in-x-ray-tomography-of-aerosp.md]] Interpretable Computer Vision for Defect Detection in X-ray Tomography of Aerosp `pillar:capabilities` `score:0.48`
+- [[interpretable-eeg-biomarkers-with-bag-of-waves-spatial-and-temporal-waveform-dic.md]] Interpretable EEG biomarkers with bag-of-waves: Spatial and temporal waveform di `pillar:capabilities` `score:0.43`
 - [[intrashuffler-a-privacy-preserving-framework-for-heterogeneous-dp-federated-lear.md]] IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Lea `pillar:capabilities` `score:0.48`
 - [[introspective-coupling-self-explanation-training-tracks-behavioral-change-despit.md]] Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despi `pillar:capabilities` `score:0.48`
 - [[invariant-learning-dynamics-of-transformers-in-inductive-reasoning-tasks.md]] Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks `pillar:capabilities` `score:0.41`
@@ -1338,6 +1343,7 @@
 - [[itô-maps-for-any-step-sdes.md]] Itô maps for any-step SDEs `pillar:capabilities` `score:0.445`
 - [[iv-cot-implicit-visual-chain-of-thought-for-structure-aware-text-to-image-genera.md]] IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Gener `pillar:capabilities` `score:0.48`
 - [[ivgt-implicit-visual-geometry-transformer-for-neural-scene-representation.md]] IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation `pillar:capabilities` `score:0.395`
+- [[kappa-lora-condition-numbers-reveal-which-lora-matrices-worth-updating.md]] \k{appa}-LoRA: Condition Numbers Reveal Which LoRA Matrices Worth Updating `pillar:capabilities` `score:0.43`
 - [[klip-localized-distribution-shift-detection-via-kl-divergence-with-diffusion-pri.md]] KLIP: localized distribution shift detection via KL-divergence with diffusion pr `pillar:capabilities` `score:0.43`
 - [[kv-fold-one-step-kv-cache-recurrence-for-long-context-infer.md]] KV-Fold: One-Step KV-Cache Recurrence for Long-Context Inference `pillar:capabilities` `score:0.305`
 - [[kveraser-learning-to-steer-kv-cache-for-efficient-localized-context-erasing.md]] KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing `pillar:capabilities` `score:0.48`
@@ -1461,6 +1467,7 @@
 - [[quantifying-hyperparameter-transfer-and-the-importance-of-embedding-layer-learni.md]] Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learni `pillar:capabilities` `score:0.48`
 - [[quantifying-sensitivity-for-tree-ensembles-a-symbolic-and-compositional-approach.md]] Quantifying Sensitivity for Tree Ensembles: A symbolic and compositional approac `pillar:capabilities` `score:0.445`
 - [[quantitative-video-world-model-evaluation-for-geometric-consistency.md]] Quantitative Video World Model Evaluation for Geometric-Consistency `pillar:capabilities` `score:0.445`
+- [[quantum-spectral-model-data-reuploading-with-input-conditioned-frequency-support.md]] Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Suppor `pillar:capabilities` `score:0.395`
 - [[qubric-co-designing-queries-and-rubrics-for-rl-beyond-verifiable-rewards.md]] QUBRIC: Co-Designing Queries and Rubrics for RL Beyond Verifiable Rewards `pillar:capabilities` `score:0.445`
 - [[qval-cheaply-evaluating-dense-supervision-signals-for-long-horizon-llm-agents.md]] QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents `pillar:capabilities` `score:0.48`
 - [[r-dmesh-video-guided-3d-animation-via-rectified-dynamic-mesh-flow.md]] R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow `pillar:capabilities` `score:0.48`
@@ -1518,11 +1525,13 @@
 - [[sign-rank-index-and-list-replicability-connections-and-separations.md]] Sign-Rank, Index, and List Replicability: Connections and Separations `pillar:capabilities` `score:0.305`
 - [[simple-domain-generalization-for-strong-pixel-level-image-tampering-detection-in.md]] Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in `pillar:capabilities` `score:0.48`
 - [[simsd-simple-speculative-decoding-in-diffusion-language-models.md]] SimSD: Simple Speculative Decoding in Diffusion Language Models `pillar:capabilities` `score:0.48`
+- [[singular-value-soft-thresholding-via-the-polar-decomposition.md]] Singular value soft-thresholding via the polar decomposition `pillar:capabilities` `score:0.36`
 - [[sirem-speech-informed-mri-reconstruction-with-learned-sampling.md]] SIREM: Speech-Informed MRI Reconstruction with Learned Sampling `pillar:capabilities` `score:0.445`
 - [[skill-conditioned-gated-self-distillation-for-llm-reasoning.md]] Skill-Conditioned Gated Self-Distillation for LLM Reasoning `pillar:capabilities` `score:0.445`
 - [[skillopt-executive-strategy-for-self-evolving-agent-skills.md]] SkillOpt: Executive Strategy for Self-Evolving Agent Skills `pillar:capabilities` `score:0.43`
 - [[skmteb-slovak-massive-text-embedding-benchmark-and-model-adaptation.md]] SkMTEB: Slovak Massive Text Embedding Benchmark and Model Adaptation `pillar:capabilities` `score:0.445`
 - [[slorr-simple-and-efficient-in-training-low-rank-regularization.md]] SLORR: Simple and Efficient In-Training Low-Rank Regularization `pillar:capabilities` `score:0.48`
+- [[sm4rt-learning-structured-motion-geometry-for-4d-reconstruction.md]] SM4RT: Learning Structured Motion Geometry for 4D Reconstruction `pillar:capabilities` `score:0.395`
 - [[softreason-a-fully-differentiable-neuro-soft-symbolic-deductive-reasoning-archit.md]] SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Archi `pillar:capabilities` `score:0.48`
 - [[spacenum-revisiting-spatial-numerical-understanding-in-vlms.md]] SPACENUM: Revisiting Spatial Numerical Understanding in VLMs `pillar:capabilities` `score:0.255`
 - [[sparse-subspace-to-expert-sharing-for-task-agnostic-continual-learning.md]] Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning `pillar:capabilities` `score:0.43`
@@ -1540,6 +1549,7 @@
 - [[supervision-versus-demonstration-based-in-context-learning-for-multiword-express.md]] Supervision versus Demonstration-Based In-Context Learning for Multiword Express `pillar:capabilities` `score:0.395`
 - [[surge-approximation-free-training-free-particle-filter-for-diffusion-surrogate.md]] SURGE: Approximation-free Training Free Particle Filter for Diffusion Surrogate `pillar:capabilities` `score:0.445`
 - [[surprises-in-proper-positive-only-learning.md]] Surprises in Proper Positive-Only Learning `pillar:capabilities` `score:0.29`
+- [[susceptible-reservoir-architectures-for-regime-conditional-volatility-forecastin.md]] Susceptible Reservoir Architectures for Regime-Conditional Volatility Forecastin `pillar:capabilities` `score:0.395`
 - [[synthetic-data-generation-framework-for-quality-control-automation-in-gravure-pr.md]] Synthetic data generation framework for quality control automation in gravure pr `pillar:capabilities` `score:0.445`
 - [[system-report-for-ccl25-eval-task-5-new-dataset-and-lora-fine-tuned-qwen25.md]] System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5 `pillar:capabilities` `score:0.305`
 - [[tabpack-efficient-hyperparameter-ensembles-for-tabular-deep-learning.md]] TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning `pillar:capabilities` `score:0.48`
@@ -2086,6 +2096,7 @@
 - [[eurekagent-agent-environment-engineering-is-all-you-need-for-autonomous-scientif.md]] EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scienti `pillar:patterns` `score:0.48`
 - [[evaluating-open-weight-llms-for-generating-structured-threat-information-for-aut.md]] Evaluating Open-Weight LLMs for Generating Structured Threat Information for Aut `pillar:patterns` `score:0.36`
 - [[evolvenav-proactive-preflection-and-self-evolving-memory-for-zero-shot-object-go.md]] EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object G `pillar:patterns` `score:0.445`
+- [[explainable-reinforcement-learning-for-assisting-air-traffic-controllers.md]] Explainable Reinforcement Learning for assisting Air Traffic Controllers `pillar:patterns` `score:0.255`
 - [[fase-fast-adaptive-semantic-entropy-for-code-quality.md]] FASE: Fast Adaptive Semantic Entropy for Code Quality `pillar:patterns` `score:0.445`
 - [[flood-and-harvest-the-provable-necessity-of-trivia-for-generating-valuable-mathe.md]] Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Math `pillar:patterns` `score:0.255`
 - [[fmrp-lean-a-hipaa-compliant-ai-augmented-lims-architecture-for-end-to-end-clinic.md]] FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clini `pillar:patterns` `score:0.48`
@@ -2110,6 +2121,7 @@
 - [[revisiting-policy-gradients-for-restricted-policy-classes-e.md]] Revisiting Policy Gradients for Restricted Policy Classes: Escaping Myopic Local `pillar:patterns` `score:0.305`
 - [[searchos-v1-towards-robust-open-domain-information-seeking-agent-collaboration.md]] SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration `pillar:patterns` `score:0.48`
 - [[semantic-browsing-controllable-diversity-for-image-generation.md]] Semantic Browsing: Controllable Diversity for Image Generation `pillar:patterns` `score:0.48`
+- [[the-regression-tax-decomposing-why-skills-help-and-hurt-llm-agents.md]] The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents `pillar:patterns` `score:0.43`
 - [[towards-direct-latent-space-synthesis-for-parallel-branches-in-llm-agent-workflo.md]] Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflo `pillar:patterns` `score:0.43`
 - [[uniintervene-agentic-intervention-for-efficient-real-world-reinforcement-learnin.md]] UniIntervene: Agentic Intervention for Efficient Real-World Reinforcement Learni `pillar:patterns` `score:0.48`
 - [[using-ai-based-learning-assistants-in-higher-education-a-large-scale-descriptive.md]] Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptiv `pillar:patterns` `score:0.48`
@@ -2502,6 +2514,7 @@
 - [[automated-reproducibility-assessments-in-the-social-and-behavioral-sciences-usin.md]] Automated reproducibility assessments in the social and behavioral sciences usin `pillar:ecosystem` `score:0.445`
 - [[breaking-database-lock-in-agentic-regeneration-of-high-performance-storage-reade.md]] Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Read `pillar:ecosystem` `score:0.48`
 - [[c2r-cross-sample-consistency-regularization-mitigates-feature-splitting-and-abso.md]] C$^{2}$R: Cross-sample Consistency Regularization Mitigates Feature Splitting an `pillar:ecosystem` `score:0.445`
+- [[causalforge-a-formally-grounded-self-improving-agentic-framework-for-automated-r.md]] CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated `pillar:ecosystem` `score:0.395`
 - [[circuitkit-circuit-discovery-evaluation-and-application-toolkit-for-mechanistic.md]] CircuitKIT : Circuit Discovery, Evaluation, and Application Toolkit for Mechanis `pillar:ecosystem` `score:0.48`
 - [[clinenv-an-interactive-multi-stage-long-horizon-ehr-environment-for-agents.md]] ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents `pillar:ecosystem` `score:0.305`
 - [[confidence-is-not-reliability-rethinking-mc-dropout-in-brain-tumour-segmentation.md]] Confidence is Not Reliability: Rethinking MC Dropout in Brain Tumour Segmentatio `pillar:ecosystem` `score:0.305`
@@ -2532,7 +2545,9 @@
 - [[mm-toolsandbox-a-unified-framework-for-evaluating-visual-tool-calling-agents.md]] MM-ToolSandBox: A Unified Framework for Evaluating Visual Tool-Calling Agents `pillar:ecosystem` `score:0.48`
 - [[mobilegym-a-verifiable-and-highly-parallel-simulation-platform-for-mobile-gui-ag.md]] MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI A `pillar:ecosystem` `score:0.445`
 - [[muse-autoskill-self-evolving-agents-via-skill-creation-memory-management-and-eva.md]] MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and `pillar:ecosystem` `score:0.48`
+- [[opaque-epistemic-mediation-how-llm-deployment-configurations-shape-the-validatio.md]] Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validati `pillar:ecosystem` `score:0.43`
 - [[opendeepthink-parallel-reasoning-via-bradley-terry-aggregation.md]] OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation `pillar:ecosystem` `score:0.305`
+- [[pinequalizer-full-funnel-content-exploration-and-debiasing-system-at-pinterest.md]] PinEqualizer: Full Funnel Content Exploration and Debiasing System at Pinterest `pillar:ecosystem` `score:0.465`
 - [[piper-content-based-table-search-via-profiling-and-llm-generated-pseudoqueries.md]] PIPER: Content-Based Table Search via profiling and LLM-Generated Pseudoqueries `pillar:ecosystem` `score:0.48`
 - [[position-behavioural-assurance-cannot-verify-the-safety-claims-governance-now-de.md]] Position: Behavioural Assurance Cannot Verify the Safety Claims Governance Now D `pillar:ecosystem` `score:0.48`
 - [[prisa-proactive-infrastructure-lidar-framework-for-intersection-safety-assessmen.md]] PRISA: Proactive Infrastructure LiDAR Framework for Intersection Safety Assessme `pillar:ecosystem` `score:0.43`

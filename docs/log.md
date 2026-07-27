@@ -3217,3 +3217,6 @@
 - create: hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack.md
 - create: show-hn-wmux-a-workspace-multiplexer-for-ai-agents.md
 - create: show-hn-managing-on-premise-servers-without-kubernetes.md
+
+## [2026-07-27 18:01] sync v3 | 2 new | pillars: {'capabilities': 2}
+- create: kimi-k3-releases-on-huggingface-727.md

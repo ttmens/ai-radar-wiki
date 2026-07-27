@@ -1,0 +1,35 @@
+{
+  "title": "Interpretable EEG biomarkers with bag-of-waves: Spatial and temporal waveform dictionaries for low-data regimes",
+  "summary": "Electroencephalography (EEG) is widely used to diagnose neurological conditions, but its analysis usually relies on either predefined spectral features or deep neural networks. Predefined features carry a strong bias, since they fix in advance what counts as informative, while deep neural networks and foundation models are hard to interpret and need large amounts of data and compute. We present bag-of-waves, an interpretable framework that learns a small dictionary of recurring EEG waveform templates, called atoms, using shift-invariant k-means without labels. The continuous EEG is then turned into a sequence of atom tokens, whose counts feed a simple downstream classifier or clustering step. We extend this representation in two ways: we add atom-to-atom transitions, which we call n- grams, to capture temporal structure, and we move from single-channel atoms to regional and cross-channel spatial atoms for the multichannel case. We test the method on three complementary datasets, each probing a different aspect: single-channel mouse genotype clustering with only sixteen animals (the low-data and temporal case), resting-state dementia classification (the spatial case), and the TUEV benchmark, a six-way classification of clinical EEG events (a high-data comparison against strong deep and foundation baselines). Across all three datasets, bag-of-waves achieves performance competitive with state-of-the-art deep and foundation models. Yet, it operates with a fraction of the parameter count and provides full interpretability: because every atom corresponds to an inspectable waveform, the method explicitly recovers known clinical morphologies that a neurophysiologist can directly validate. Its main advantage is that it works in the low-data regime where heavier models are a poor fit.",
+  "url": "http://arxiv.org/abs/2607.22508v1",
+  "authors": [
+    "Athanasios Papastathopoulos-Katsaros",
+    "Steven T. Lee",
+    "Lin Yao",
+    "Ajay Thomas",
+    "Junseok Park"
+  ],
+  "published": "2026-07-24T17:27:43Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "benchmark",
+    "neural network",
+    "parameter",
+    "dataset",
+    "clustering"
+  ],
+  "summary_cn": "该论文提出了一种名为'波形袋'的可解释脑电图（EEG）生物标志物方法，通过构建空间和时间波形字典，在低数据场景下实现高效分析。相比于预定义频谱特征（存在强偏差）和深度神经网络（依赖大量数据且可解释性弱），该方法能在数据稀缺时仍保持良好性能，同时提供清晰的可解释性，便于临床医生理解诊断依据。产品经理可关注其在医疗AI领域的应用，尤其是实现低数据依赖下的可靠诊断辅助，降低数据收集成本，增强用户信任。",
+  "pm_relevance": 8,
+  "concepts": [
+    "可解释AI",
+    "脑电图分析",
+    "低数据学习"
+  ],
+  "entities": [],
+  "patterns": [
+    "可解释AI模式",
+    "低数据学习模式"
+  ]
+}
