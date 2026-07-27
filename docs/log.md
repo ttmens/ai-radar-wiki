@@ -3220,3 +3220,17 @@
 
 ## [2026-07-27 18:01] sync v3 | 2 new | pillars: {'capabilities': 2}
 - create: kimi-k3-releases-on-huggingface-727.md
+
+## [2026-07-28 06:02] sync v3 | 16 new | pillars: {'capabilities': 13, 'ecosystem': 1, 'patterns': 2}
+- create: self-contained-highly-portable-python-distributions.md
+- create: exploiting-volvoeichers-fleet-platform-to-gain-control-over-all-usersvehicles.md
+- create: show-hn-feynobg-automatic-background-removal-model-and-training-library.md
+- create: mai-cyber-1-flash-inside-mdash.md
+- create: the-author-of-clean-code-no-longer-reviews-ai-generated-code.md
+- create: professors-invisible-prompt-trap-catches-3235-students-cheating-with-ai.md
+- create: satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive.md
+- create: psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google.md
+- create: microsoft-launches-its-first-cybersecurity-model-plus-a-new-agentic-cybersecurit.md
+- create: openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control.md
+- create: threads-users-can-now-chat-with-meta-ai-in-their-dms.md
+- create: show-hn-running-prismmls-bonsai-inside-dram-by-breaking-ddr4-timing-rules.md

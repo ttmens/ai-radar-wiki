@@ -1,0 +1,24 @@
+{
+  "title": "Show HN: Running PrismML's Bonsai inside DRAM by breaking DDR4 timing rules",
+  "score": 21,
+  "comments": 6,
+  "url": "https://news.ycombinator.com/item?id=49019271",
+  "hn_url": "https://news.ycombinator.com/item?id=49019271",
+  "tag": "ShowHN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "PrismML通过打破DDR4内存时序规则，将Bonsai模型直接运行在DRAM中，实现了极低延迟的推理性能。该技术绕过了传统内存与处理器间的数据搬运瓶颈，使得模型推理可完全在内存内完成，显著提升速度并降低功耗。对于实时AI应用（如语音助手、自动驾驶）具有革新意义，同时可能降低对昂贵加速硬件的依赖。产品经理需关注其硬件兼容性、稳定性及对现有推理框架的集成成本。",
+  "pm_relevance": 7,
+  "concepts": [
+    "AI推理优化",
+    "内存计算",
+    "低延迟推理"
+  ],
+  "entities": [
+    "PrismML"
+  ],
+  "patterns": [
+    "内存中心计算",
+    "边缘AI"
+  ]
+}

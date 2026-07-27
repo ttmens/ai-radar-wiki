@@ -1,0 +1,25 @@
+---
+title: Show HN: FeyNoBg – Automatic background removal model and training library
+created: 2026-07-28
+updated: 2026-07-28
+type: entity
+pillar: capabilities
+pm_score: 0.43
+tags: ["discussion", "hacker-news", "capabilities"]
+sources: ["raw/hn/show-hn-feynobg-automatic-background-removal-model-and-training-library.json"]
+---
+
+# Show HN: FeyNoBg – Automatic background removal model and training library
+
+## 中文摘要
+FeyNoBg 是一个自动背景移除模型和训练库，旨在帮助开发者快速集成背景擦除功能。技术要点包括提供预训练模型和可自定义的训练流程，支持针对特定场景（如电商商品图、人像、视频会议）进行微调优化。商业价值在于降低企业部署背景移除能力的门槛，减少对第三方API的依赖，节省成本并提升数据隐私。产品创新体现为将训练库与模型打包，让非研究团队也能轻松训练专属模型，实现差异化功能。
+
+## PM 关注指标
+- 🔥 HN Score: 70
+- 💬 Comments: 20
+- 🎯 PM Score: 0.43
+- 🏷️ Pillar: capabilities
+
+## 链接
+- 🔗 HN 讨论: https://news.ycombinator.com/item?id=49072462
+- 🔗 原文: https://usefeyn.com/blog/feynobg/

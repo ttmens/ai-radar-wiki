@@ -1,6 +1,6 @@
 # X/Twitter AI KOL 动态
 
-抓取时间: 2026-07-27 09:00:55
+抓取时间: 2026-07-27 21:01:12
 
 
 ## @sama (5 条)
@@ -61,15 +61,15 @@
 
 ## @elonmusk (5 条)
 
-1. **Grok 4.5 is a solid workhorse**
+1. **I will not forget about Mars**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **Grok Build /deep-research**
+2. **🚨BREAKING: Germany's Anti-Immigration party the AfD have topped a poll in liberal/left leaning BERLIN for the FIRST TIME EVER  This is unprecedented  Remigration is inevitable https://t.co/ix48FAZWdK**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **The Matrix took its name from a 1984 novel written on a manual typewriter by a man who didn't own a computer. 42 years later, that novel finally gets its own screen.  William Gibson typed Neuromancer **
+3. **Hating any group besides straight white men is racism, sexism, homophobia, transphobia, etc.  But hating straight white men?  Well, that's social justice, obviously.**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
