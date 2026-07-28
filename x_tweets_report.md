@@ -1,19 +1,19 @@
 # X/Twitter AI KOL 动态
 
-抓取时间: 2026-07-27 21:01:12
+抓取时间: 2026-07-28 09:01:08
 
 
 ## @sama (5 条)
 
-1. **agreed feels big, i want a new kind of computer**
+1. **wrong**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **chatgpt work is remarkable, and "work" undersells it.  from my phone i sent:  "use all my chat history to figure out ideas for a long weekend trip with 8 friends, plan the best three options, make a f**
+2. **agreed feels big, i want a new kind of computer**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **stories like this should be told more**
+3. **chatgpt work is remarkable, and "work" undersells it.  from my phone i sent:  "use all my chat history to figure out ideas for a long weekend trip with 8 friends, plan the best three options, make a f**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
@@ -33,43 +33,43 @@
 
 ## @AndrewYNg (5 条)
 
-1. **Announcing OpenWorker! An open-source agent that doesn't just chat with you, but delivers finished work -- like hand you a polished document, send a slack message, or update a calendar entry.  Ask it **
+1. **Good move by @JensenHuang. The Nvidia letter is well written and worth reading. As we saw with the OpenAI-Hugging Face hack, we need open models and harnesses for defense.   Lets stop believing the PR**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **New course: Build LLM applications that respond to user requests quickly by running on hardware designed for fast inference. This short course was built with  @Cerebras and taught by @zhennydez, @duer**
+2. **Announcing OpenWorker! An open-source agent that doesn't just chat with you, but delivers finished work -- like hand you a polished document, send a slack message, or update a calendar entry.  Ask it **
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **Adam Thierer had written the landmark book on "Permissionless Innovation." We get the best ideas when we don't have to ask the government in advance for permission to invent. Protecting open source AI**
+3. **New course: Build LLM applications that respond to user requests quickly by running on hardware designed for fast inference. This short course was built with  @Cerebras and taught by @zhennydez, @duer**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
 ## @ylecun (5 条)
 
-1. **.@realDonaldTrump still has absolutely no idea what he was trying to do, how he was going to do it, why he wasn't able to do it, or what he's going to do next to try to fix what he has no idea he brok**
+1. **Catalog of incorrect AI predictions.  Doomers from the rationalist cosplay community are left out, presumably because their predictions have a near 100% failure rate.  When people proudly proclaim tha**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **A federal appeals court rejects Trump's efforts to limit mail-in voting. Trump sees that Republicans are likely to lose big time in the midterms because of his abysmal rule, so he is trying to game th**
+2. **Music-JEPA: Learning a World Model of Sound from Action  "we propose to learn a world model of piano sound using JEPA by framing  music as an action-conditioned system: the audio is treated as the  st**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **Trump’s Golden Age . . .  Measles epidemic   Explosive diarrhea   $4.11 gas ($3.15 yr. ago)  $5.30 diesel ($3.74 yr. ago)  $6.83 ground beef ($6.12 yr. ago)  149 days of war with Iran (18 U.S. Troops **
+3. **Right now we are defending open source (or open weights) models' right to exist. The debate is not about forcing anyone to open-source their models, whatever some other Julian might imply. However, wh**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
 ## @elonmusk (5 条)
 
-1. **I will not forget about Mars**
+1. **The best way to communicate with the world is directly in your own words, not through the reality distortion nightmare mirror that is the legacy mainstream press**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **🚨BREAKING: Germany's Anti-Immigration party the AfD have topped a poll in liberal/left leaning BERLIN for the FIRST TIME EVER  This is unprecedented  Remigration is inevitable https://t.co/ix48FAZWdK**
+2. **Proud to join @nvidia as a founding member of the Open Secure AI Alliance. Defenders need open tools, collaboration, and transparency to secure AI agents and systems. And customers want the ability to**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **Hating any group besides straight white men is racism, sexism, homophobia, transphobia, etc.  But hating straight white men?  Well, that's social justice, obviously.**
+3. **Actual footage 😂**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 

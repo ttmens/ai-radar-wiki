@@ -1,0 +1,35 @@
+{
+  "title": "KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability",
+  "summary": "Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are increasingly paired with Vision-Language Models (VLMs) to generate natural-language explanations. However, these systems add linguistic fluency without addressing the underlying opacity of the visual model. With the emergence of Kolmogorov-Arnold Networks (KANs), whose spline-based components provide inherently interpretable functional units, we investigate whether this architectural transparency can be leveraged to produce more trustworthy textual explanations. We introduce KANEx, the first ever framework that leverages the symbolic transparency of KANs to ground VLM reasoning. This interpretability also made it possible to design KAN-Map, a novel heatmap generation method derived directly from KAN models rather than gradient approximations. We feed these grounded contexts into downstream VLMs for enhanced explainability. Benchmarked on the MIMIC-CXR dataset, we demonstrate that KAN-based architectures with ResNet/ViT baselines demonstrate improved semantic similarity while producing significantly more faithful saliency maps. KAN architectures improve visual localization and downstream reasoning quality by 10%. Our findings suggest that grounding linguistic explanations and visual attributions in mathematically interpretable units is a necessary step toward trustworthy medical AI.",
+  "url": "http://arxiv.org/abs/2607.24730v1",
+  "authors": [
+    "Krithi Shailya",
+    "Ananya Lakshmi Ravi",
+    "Venkatanathan K. V.",
+    "Sowmya S. Sundaram",
+    "Gokul S. Krishnan"
+  ],
+  "published": "2026-07-27T17:57:02Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "vision",
+    "reasoning",
+    "gradient",
+    "dataset",
+    "similarity"
+  ],
+  "summary_cn": "该论文提出KANEx框架，基于Kolmogorov-Arnold Networks (KAN) 的可解释性来提升医学影像模型的透明度。针对胸部X光分类器与视觉语言模型（VLM）结合时缺乏可解释性的痛点，KANEx通过将KAN的固有可解释性迁移到医学任务中，生成更可信的自然语言解释。技术核心是利用KAN的符号表示能力替代传统黑盒神经网络，在不牺牲性能的前提下增强模型可读性。商业价值在于降低临床医生对AI的信任门槛，加速医疗AI在诊断辅助场景的落地。产品创新体现为将前沿可解释架构与医学诊断流程深度整合，提供端到端可追溯的解释路径。",
+  "pm_relevance": 8,
+  "concepts": [
+    "可解释性",
+    "医学影像分析",
+    "Kolmogorov-Arnold Networks"
+  ],
+  "entities": [],
+  "patterns": [
+    "可解释AI模式",
+    "VLM+分类器协同模式"
+  ]
+}

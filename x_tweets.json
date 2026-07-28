@@ -1,8 +1,44 @@
 {
-  "fetched_at": "2026-07-27T21:01:12.396897",
+  "fetched_at": "2026-07-28T09:01:08.396231",
   "source": "twitter-cli",
   "data": {
     "sama": [
+      {
+        "id": "2081832600591892712",
+        "text": "wrong",
+        "author": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screenName": "sama",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 5921,
+          "retweets": 132,
+          "replies": 591,
+          "quotes": 57,
+          "views": 665231,
+          "bookmarks": 232
+        },
+        "createdAt": "Mon Jul 27 20:02:25 +0000 2026",
+        "createdAtLocal": "2026-07-28 04:02",
+        "createdAtISO": "2026-07-27T20:02:25+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2081707498919112925",
+          "text": "i just realized gpt-5.6 sol is literally all i need. openai could stop shipping new models tomorrow and i'd be completely fine",
+          "author": {
+            "screenName": "icanvardar",
+            "name": "Can Vardar"
+          }
+        }
+      },
       {
         "id": "2081513071135346814",
         "text": "agreed feels big, i want a new kind of computer",
@@ -14,12 +50,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 6379,
-          "retweets": 221,
-          "replies": 591,
-          "quotes": 101,
-          "views": 1649242,
-          "bookmarks": 1753
+          "likes": 7600,
+          "retweets": 271,
+          "replies": 689,
+          "quotes": 123,
+          "views": 2150499,
+          "bookmarks": 2133
         },
         "createdAt": "Sun Jul 26 22:52:43 +0000 2026",
         "createdAtLocal": "2026-07-27 06:52",
@@ -50,12 +86,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 15589,
-          "retweets": 513,
-          "replies": 1479,
-          "quotes": 315,
-          "views": 2456894,
-          "bookmarks": 5459
+          "likes": 16779,
+          "retweets": 548,
+          "replies": 1596,
+          "quotes": 362,
+          "views": 2922795,
+          "bookmarks": 5923
         },
         "createdAt": "Sun Jul 26 15:10:41 +0000 2026",
         "createdAtLocal": "2026-07-26 23:10",
@@ -78,12 +114,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 3302,
+          "likes": 3318,
           "retweets": 171,
-          "replies": 176,
+          "replies": 177,
           "quotes": 19,
-          "views": 448880,
-          "bookmarks": 233
+          "views": 457890,
+          "bookmarks": 236
         },
         "createdAt": "Sat Jul 25 03:42:25 +0000 2026",
         "createdAtLocal": "2026-07-25 11:42",
@@ -114,12 +150,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1263,
-          "retweets": 114,
-          "replies": 87,
+          "likes": 1274,
+          "retweets": 115,
+          "replies": 88,
           "quotes": 17,
-          "views": 433267,
-          "bookmarks": 1189
+          "views": 437791,
+          "bookmarks": 1191
         },
         "createdAt": "Thu Jul 23 18:09:59 +0000 2026",
         "createdAtLocal": "2026-07-24 02:09",
@@ -138,42 +174,6 @@
             "name": "Nick"
           }
         }
-      },
-      {
-        "id": "2080683363174945065",
-        "text": "i want the US to win in AI both in open source and proprietary models, and i am glad to see this",
-        "author": {
-          "id": "1605",
-          "name": "Sam Altman",
-          "screenName": "sama",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 15331,
-          "retweets": 960,
-          "replies": 2088,
-          "quotes": 554,
-          "views": 3265888,
-          "bookmarks": 1501
-        },
-        "createdAt": "Fri Jul 24 15:55:45 +0000 2026",
-        "createdAtLocal": "2026-07-24 23:55",
-        "createdAtISO": "2026-07-24T15:55:45+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2080643682408321103",
-          "text": "For my first post, I’m sharing a letter @NVIDIA signed on why open models matter.\n\nAI will transform every industry, power every company, and be built by every country.\n\nOpen models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty.\n\nThe world needs both frontier closed models and frontier open models.\n\nhttps://t.co/AUKzoQ5Ikb",
-          "author": {
-            "screenName": "JensenHuang",
-            "name": "Jensen Huang"
-          }
-        }
       }
     ],
     "karpathy": [
@@ -188,12 +188,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 48484,
-          "retweets": 4037,
-          "replies": 2338,
-          "quotes": 1406,
-          "views": 3857305,
-          "bookmarks": 14780
+          "likes": 48558,
+          "retweets": 4044,
+          "replies": 2343,
+          "quotes": 1412,
+          "views": 3871925,
+          "bookmarks": 14794
         },
         "createdAt": "Tue Jul 21 16:53:55 +0000 2026",
         "createdAtLocal": "2026-07-22 00:53",
@@ -216,12 +216,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8877,
-          "retweets": 1093,
+          "likes": 8880,
+          "retweets": 1094,
           "replies": 454,
           "quotes": 576,
-          "views": 3712295,
-          "bookmarks": 5118
+          "views": 3716775,
+          "bookmarks": 5113
         },
         "createdAt": "Wed Jul 08 21:47:29 +0000 2026",
         "createdAtLocal": "2026-07-09 05:47",
@@ -246,12 +246,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1658,
-          "retweets": 163,
-          "replies": 84,
-          "quotes": 21,
-          "views": 523771,
-          "bookmarks": 2514
+          "likes": 1662,
+          "retweets": 165,
+          "replies": 85,
+          "quotes": 23,
+          "views": 525624,
+          "bookmarks": 2519
         },
         "createdAt": "Fri Jul 03 14:12:03 +0000 2026",
         "createdAtLocal": "2026-07-03 22:12",
@@ -276,12 +276,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 9792,
-          "retweets": 942,
+          "likes": 9794,
+          "retweets": 943,
           "replies": 652,
           "quotes": 604,
-          "views": 6488857,
-          "bookmarks": 3773
+          "views": 6494171,
+          "bookmarks": 3772
         },
         "createdAt": "Tue Jun 30 15:00:09 +0000 2026",
         "createdAtLocal": "2026-06-30 23:00",
@@ -311,11 +311,11 @@
           "verified": false
         },
         "metrics": {
-          "likes": 1944,
+          "likes": 1946,
           "retweets": 248,
           "replies": 183,
           "quotes": 160,
-          "views": 1894452,
+          "views": 1898118,
           "bookmarks": 1273
         },
         "createdAt": "Tue Jun 23 17:01:29 +0000 2026",
@@ -334,6 +334,42 @@
     ],
     "AndrewYNg": [
       {
+        "id": "2081787106062746002",
+        "text": "Good move by @JensenHuang. The Nvidia letter is well written and worth reading. As we saw with the OpenAI-Hugging Face hack, we need open models and harnesses for defense. \n\nLets stop believing the PR that closed models are safer. - that's just regulatory capture.",
+        "author": {
+          "id": "216939636",
+          "name": "Andrew Ng",
+          "screenName": "AndrewYNg",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 2529,
+          "retweets": 249,
+          "replies": 101,
+          "quotes": 20,
+          "views": 153897,
+          "bookmarks": 234
+        },
+        "createdAt": "Mon Jul 27 17:01:38 +0000 2026",
+        "createdAtLocal": "2026-07-28 01:01",
+        "createdAtISO": "2026-07-27T17:01:38+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2081698060330250294",
+          "text": "Attackers have frontier AI. Defenders need a frontier AI ecosystem—the best open and closed models, force-multiplied by a global community.\n\nDuring the Hugging Face incident, closed AI blocked essential forensics. An open-weight frontier model helped contain the intrusion.\n\nThat’s why we created the Open Secure AI Alliance.",
+          "author": {
+            "screenName": "JensenHuang",
+            "name": "Jensen Huang"
+          }
+        }
+      },
+      {
         "id": "2080333504446108104",
         "text": "Announcing OpenWorker! An open-source agent that doesn't just chat with you, but delivers finished work -- like hand you a polished document, send a slack message, or update a calendar entry.\n\nAsk it to prepare a customer brief, untangle your calendar, draft a report, or triage a Slack alert. It works across your files and everyday tools, produces the deliverable, and checks in before doing anything consequential.\n\nOpenWorker runs on your Mac, with Windows support coming soon. It does not lock you into any one model. Bring your own API key and run it with GPT 5.6 Sol, Claude Fable, Gemini 3.6, an open weight model (like Kimi, GLM, DeepSeek, Inkling), or Ollama to keep your data local. Your data does not leave your machine except through an LLM provider and integrations that you choose.\n\n@rohitcprasad and I are building OpenWorker because AI coworkers are an important way to get work done, and we want there to be an open, privacy-preserving, model-independent option. Check it out and let us know what you think!\n\nTry it out: https://t.co/P0mGnI1o31 (requires your own API key)\nSource code: https://t.co/NYCiTD6hSq",
         "author": {
@@ -344,12 +380,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 9446,
-          "retweets": 1367,
-          "replies": 431,
-          "quotes": 201,
-          "views": 982158,
-          "bookmarks": 10003
+          "likes": 9484,
+          "retweets": 1377,
+          "replies": 436,
+          "quotes": 203,
+          "views": 995977,
+          "bookmarks": 10037
         },
         "createdAt": "Thu Jul 23 16:45:32 +0000 2026",
         "createdAtLocal": "2026-07-24 00:45",
@@ -379,12 +415,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1216,
+          "likes": 1218,
           "retweets": 129,
-          "replies": 98,
+          "replies": 99,
           "quotes": 12,
-          "views": 139385,
-          "bookmarks": 806
+          "views": 140066,
+          "bookmarks": 807
         },
         "createdAt": "Fri Jul 17 15:47:30 +0000 2026",
         "createdAtLocal": "2026-07-17 23:47",
@@ -414,11 +450,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 301,
+          "likes": 302,
           "retweets": 48,
-          "replies": 81,
+          "replies": 82,
           "quotes": 6,
-          "views": 107729,
+          "views": 108272,
           "bookmarks": 61
         },
         "createdAt": "Thu Jul 09 17:31:17 +0000 2026",
@@ -450,12 +486,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8498,
-          "retweets": 1637,
-          "replies": 398,
+          "likes": 8501,
+          "retweets": 1638,
+          "replies": 400,
           "quotes": 181,
-          "views": 660579,
-          "bookmarks": 10302
+          "views": 661150,
+          "bookmarks": 10301
         },
         "createdAt": "Tue Jun 30 16:04:04 +0000 2026",
         "createdAtLocal": "2026-07-01 00:04",
@@ -473,137 +509,64 @@
         "retweetedBy": null,
         "lang": "en",
         "score": null
-      },
-      {
-        "id": "2068039709126017356",
-        "text": "Over the last two weeks, both the U.S. Government and Anthropic took significant actions that demonstrated their power to control access to AI by restricting what others can do with frontier models. This has been one of those moments that, once seen, will be hard to unsee, and it is significantly accelerating many businesses’ and nation states’ efforts to ensure reliable access to AI that no one else can terminate.\n\nAnthropic first released Claude Fable 5, a version of its Mythos model with additional guardrails, including some restrictions that seem well justified on safety grounds (such as limitations on applying it to hacking, bioweapons, and so forth). However, it also restricted developers’ ability to use it to build competing LLM technology. This move was concerning, given that the whole AI community, including Anthropic, has benefitted tremendously from open research — indeed, the AI revolution was kicked off by my former team (Google Brain) freely publishing the Transformers paper!\n\nImagine if Microsoft’s terms of use barred anyone from using their tools to build competitive software, or if Google barred using it to search for information to work on competing search engines. Anthropic’s argument that it was unsafe for others to be able to make advances in AI also rang hollow. Initially, Anthropic silently degraded Fable 5’s performance for users detected to be working on LLM research through invisible interventions that weakened the model’s outputs without notifying the user. After significant backlash, it walked back this decision and decided to be transparent when it did this, but it still refuses to use its latest capabilities to help AI researchers.\n\nThis move represents a raw demonstration of power by Anthropic. It has used “safety” arguments to hinder potential competitors. Platforms succeed when they are viewed as stable, reliable partners that one can build on. The sudden rule changes by Anthropic (including a mandatory 30 day data retention policy for Fable usage) have made developers wonder about the stability of building on any one proprietary LLM provider, not just Anthropic.\n\nThe U.S. Government then shortly followed with an even greater demonstration of power. It used the Commerce Department’s authority to regulate technologies that may be national security threats to restrict exports of Mythos and Fable, requiring a license for use by any foreign national, whether inside or outside of the U.S., including employees of Anthropic. This led Anthropic to disable access to Fable to all users worldwide.\n\nSam Altman pointed out, referring to Anthropic, “It is clearly incredible marketing to say, ‘We have built a bomb, we are about to drop it on your head. We will sell you a bomb shelter for $100 million.’” But when one engages in this type of fear-based marketing, it increases the odds that the U.S. Government will agree with you and slap export controls on the bomb you say you have built.\n\nTo be clear, I don't think Anthropic has built anything like a bomb, and I don't think export controls on Fable are appropriate.\n\nHowever, following the U.S. Government making this move, many nations, including U.S. allies, saw how the U.S. can suddenly yank their access to AI models. In many capitals around the world, this has spurred discussions on AI sovereignty and how others can ensure uninterrupted access to this critical technology.\n\nFor decades, many nations were comfortable having many parts of their supply chain rely on the U.S., China, and other major producers. Once a nation issues a threat, or takes action, to limit other nations’ access, other nations will rationally try to secure alternatives. For decades, semiconductor manufacturing in China made slow progress; once the U.S. moved to limit China’s access, China’s efforts kicked into high gear. Similarly, once China threatened U.S. access to rare earth minerals, U.S. efforts to secure alternatives accelerated. Now that it has become crystal clear that private U.S. companies and the U.S. government can limit, in short order, other nations’ access to frontier AI models, the incentive of others to invest more in alternatives like open source grows significantly. Of course, training frontier models is not easy, so it remains to be seen how successful they are, but we have crossed the rubicon.\n\nSatya Nadella wrote an essay about the importance of building a healthy ecosystem on top of frontier AI technology. I heartily agree with him, and hope this week’s events will ultimately prove to be constructive steps toward this.\n\nI hope we can build a more free, more open world, where research is freely shared, and laws and societal norms shape a level playing field that allows everyone to make progress. A silver lining of the events of these past two weeks is now that everyone better realizes key points of instability of the current system, we can all work to create a more stable foundation.\n\n[Original text: The Batch newsletter]",
-        "author": {
-          "id": "216939636",
-          "name": "Andrew Ng",
-          "screenName": "AndrewYNg",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 1352,
-          "retweets": 290,
-          "replies": 178,
-          "quotes": 62,
-          "views": 169521,
-          "bookmarks": 404
-        },
-        "createdAt": "Fri Jun 19 18:34:23 +0000 2026",
-        "createdAtLocal": "2026-06-20 02:34",
-        "createdAtISO": "2026-06-19T18:34:23+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HLMm79dbgAApRoV.jpg",
-            "width": 1200,
-            "height": 676
-          }
-        ],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
       }
     ],
     "ylecun": [
       {
-        "id": "2081355090959466793",
-        "text": ".@realDonaldTrump still has absolutely no idea what he was trying to do, how he was going to do it, why he wasn't able to do it, or what he's going to do next to try to fix what he has no idea he broke. \n\nHe's a delusional, crackbrained, and deranged moron.\n\nIt's just that simple.",
+        "id": "2081764152192696804",
+        "text": "Catalog of incorrect AI predictions.\n\nDoomers from the rationalist cosplay community are left out, presumably because their predictions have a near 100% failure rate.\n\nWhen people proudly proclaim that we need to 'act now' or make laws because something is inevitable, point them at this list and tap it loudly because it ain't.\n\nhttps://t.co/VDVJeECxDr",
         "author": {
-          "id": "471677441",
-          "name": "George Conway ⚖️🇺🇸",
-          "screenName": "gtconway3d",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2008481155712995328/cljFxR8Z_normal.jpg",
+          "id": "633549366",
+          "name": "Daniel Jeffries",
+          "screenName": "Dan_Jeffries1",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1907351559689650176/xPWyoi5m_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 5634,
-          "retweets": 1234,
-          "replies": 225,
-          "quotes": 32,
-          "views": 209517,
-          "bookmarks": 82
+          "likes": 109,
+          "retweets": 28,
+          "replies": 17,
+          "quotes": 4,
+          "views": 18636,
+          "bookmarks": 63
         },
-        "createdAt": "Sun Jul 26 12:24:58 +0000 2026",
-        "createdAtLocal": "2026-07-26 20:24",
-        "createdAtISO": "2026-07-26T12:24:58+00:00",
+        "createdAt": "Mon Jul 27 15:30:25 +0000 2026",
+        "createdAtLocal": "2026-07-27 23:30",
+        "createdAtISO": "2026-07-27T15:30:25+00:00",
         "media": [],
         "urls": [],
         "isRetweet": true,
         "retweetedBy": "ylecun",
         "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2081148759296131512",
-          "text": "Breaking News: President Trump has set aside, at least for now, plans to sharply escalate the American military assault against Iran. https://t.co/qvWp4egLZd",
-          "author": {
-            "screenName": "nytimes",
-            "name": "The New York Times"
-          }
-        }
+        "score": null
       },
       {
-        "id": "2081434036619112790",
-        "text": "A federal appeals court rejects Trump's efforts to limit mail-in voting. Trump sees that Republicans are likely to lose big time in the midterms because of his abysmal rule, so he is trying to game the election. https://t.co/xjT646gX6c",
+        "id": "2081659005529964851",
+        "text": "Music-JEPA: Learning a World Model of Sound from Action\n\n\"we propose to learn a world model of piano sound using JEPA by framing  music as an action-conditioned system: the audio is treated as the  state, and the pianoroll as the instrument action.\"\n\n\"Experiments show that the learned model captures the relationships  between musical actions and their resulting sound. The resulting  representations support downstream tasks, including beat tracking,  composer identification, and key estimation, and enable piano  transcription via planning, by searching for actions that best explain a  target sound.\"",
         "author": {
-          "id": "17839398",
-          "name": "Kenneth Roth",
-          "screenName": "KenRoth",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/759478721808068608/F5s3fgyl_normal.jpg",
+          "id": "441465751",
+          "name": "Tanishq Mathew Abraham, Ph.D.",
+          "screenName": "iScienceLuvr",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2058414948255211520/8jVMerrR_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 85,
-          "retweets": 32,
+          "likes": 405,
+          "retweets": 55,
           "replies": 8,
-          "quotes": 2,
-          "views": 26294,
-          "bookmarks": 2
+          "quotes": 7,
+          "views": 30407,
+          "bookmarks": 266
         },
-        "createdAt": "Sun Jul 26 17:38:40 +0000 2026",
-        "createdAtLocal": "2026-07-27 01:38",
-        "createdAtISO": "2026-07-26T17:38:40+00:00",
-        "media": [],
-        "urls": [
-          "https://trib.al/8XfYZFX"
-        ],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2081373455392317765",
-        "text": "Trump’s Golden Age . . .\n\nMeasles epidemic \n\nExplosive diarrhea \n\n$4.11 gas ($3.15 yr. ago)\n\n$5.30 diesel ($3.74 yr. ago)\n\n$6.83 ground beef ($6.12 yr. ago)\n\n149 days of war with Iran (18 U.S. Troops killed)\n\n$39.67 trillion dollar national debt (up $3.57 trillion in 18 months since Trump retuned)\n\nChina viewed more favorably than the United States globally \n\n5 million Americans lost healthcare coverage since Trump returned\n\n$55 billion in handouts to farmers mostly due to Trump’s tariffs destroying their markets \n\n46% spike in farm bankruptcies \n\n21% spike in mortgage foreclosures \n\n11.9% increase in personal bankruptcies",
-        "author": {
-          "id": "489475164",
-          "name": "Moe Davis (U.S. Air Force, Retired)",
-          "screenName": "ColMoeDavis",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2069146865728159744/nUZ5WSB__normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 1131,
-          "retweets": 649,
-          "replies": 59,
-          "quotes": 44,
-          "views": 29073,
-          "bookmarks": 110
-        },
-        "createdAt": "Sun Jul 26 13:37:56 +0000 2026",
-        "createdAtLocal": "2026-07-26 21:37",
-        "createdAtISO": "2026-07-26T13:37:56+00:00",
+        "createdAt": "Mon Jul 27 08:32:36 +0000 2026",
+        "createdAtLocal": "2026-07-27 16:32",
+        "createdAtISO": "2026-07-27T08:32:36+00:00",
         "media": [
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HOKGIJYXoAAs7Rh.jpg",
-            "width": 1206,
-            "height": 1190
+            "url": "https://pbs.twimg.com/media/HOOJ1CCbQAAfrHG.jpg",
+            "width": 1345,
+            "height": 1862
           }
         ],
         "urls": [],
@@ -613,83 +576,117 @@
         "score": null
       },
       {
-        "id": "2081402147434815884",
-        "text": "CBS/YouGov poll:\n\nTrump's policies are making you\n\nWorse off-58%\nBetter off-13% https://t.co/YTR3Ow1ILz",
+        "id": "2081510897562898703",
+        "text": "Right now we are defending open source (or open weights) models' right to exist. The debate is not about forcing anyone to open-source their models, whatever some other Julian might imply. However, what if we did just that? Last year, I explored that scenario. https://t.co/R8oxnPJ9em",
         "author": {
-          "id": "1221462414744596483",
-          "name": "Republicans against Trump",
-          "screenName": "RpsAgainstTrump",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1552023520347099136/tIGoFfQt_normal.jpg",
+          "id": "19510090",
+          "name": "Julian Togelius",
+          "screenName": "togelius",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1863646728433352705/z0pWqOuX_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 1655,
-          "retweets": 490,
-          "replies": 37,
-          "quotes": 13,
-          "views": 67303,
-          "bookmarks": 30
+          "likes": 34,
+          "retweets": 5,
+          "replies": 3,
+          "quotes": 2,
+          "views": 9416,
+          "bookmarks": 4
         },
-        "createdAt": "Sun Jul 26 15:31:57 +0000 2026",
-        "createdAtLocal": "2026-07-26 23:31",
-        "createdAtISO": "2026-07-26T15:31:57+00:00",
+        "createdAt": "Sun Jul 26 22:44:05 +0000 2026",
+        "createdAtLocal": "2026-07-27 06:44",
+        "createdAtISO": "2026-07-26T22:44:05+00:00",
         "media": [
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HOKgOL6WUAAuaXL.jpg",
-            "width": 1125,
-            "height": 1113
+            "url": "https://pbs.twimg.com/media/HOMDA69XYAE16Lm.png",
+            "width": 918,
+            "height": 338
           }
         ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2081698060330250294",
+        "text": "Attackers have frontier AI. Defenders need a frontier AI ecosystem—the best open and closed models, force-multiplied by a global community.\n\nDuring the Hugging Face incident, closed AI blocked essential forensics. An open-weight frontier model helped contain the intrusion.\n\nThat’s why we created the Open Secure AI Alliance.",
+        "author": {
+          "id": "2070631956824698880",
+          "name": "Jensen Huang",
+          "screenName": "JensenHuang",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2080613261674962944/OMXX4RJ3_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 28622,
+          "retweets": 3319,
+          "replies": 1670,
+          "quotes": 699,
+          "views": 5815913,
+          "bookmarks": 2481
+        },
+        "createdAt": "Mon Jul 27 11:07:48 +0000 2026",
+        "createdAtLocal": "2026-07-27 19:07",
+        "createdAtISO": "2026-07-27T11:07:48+00:00",
+        "media": [],
         "urls": [],
         "isRetweet": true,
         "retweetedBy": "ylecun",
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2081390438829670420",
-          "text": "NEW CBS News/YouGov poll:\n\n67% say the U.S. should end the war with Iran now, including 30% of Republicans.\n\n33% say the U.S. should keep fighting until Iran gives up more.",
+          "id": "2081666629264449730",
+          "text": "AI security advances when the industry builds in the open, together.\n\nWe're introducing the Open Secure AI Alliance with industry leaders to develop new techniques and tools to safeguard software and agents.\n\nBy sharing models, tooling and research in the open, we can broaden the community of defenders.\n\nLearn more about the founding members’ contributions: https://t.co/A16oqxs5Ty",
           "author": {
-            "screenName": "RpsAgainstTrump",
-            "name": "Republicans against Trump"
+            "screenName": "nvidia",
+            "name": "NVIDIA"
           }
         }
       },
       {
-        "id": "2081333194213757376",
-        "text": "Let me see if I have this right: The Qataris give the Defense Dept a 747. Our govt puts $400mm of upgrades into it. Trump gets to keep the plane where he leaves office.\n\nhttps://t.co/n18Spd6fLZ",
+        "id": "2081706092585713914",
+        "text": "If multiple Mythos level models are out there in the hands of attackers, now or in a few years, then US builders and software developers need strong, open defenses. They cannot have gated, crippled defenses that refuse to help while attackers run roughshod.\n\nWe need to patch our systems not bury our heads in the sand and hope that nobody had powerful offensive AI. That's abusrd. \n\nThe answer is powerful AI patching our systems, not refusing the patch our systems.\n\nLet developers find issues and secure them at the source.\n\nAnd if you imagine that some kind of magical legislation in the US will somehow prevent the rest of the world, APTs and hackers fine tuning or training models or attacking closed models to use them in attack, then you are beyond delusional.\n\nWe must have power tools widely distributed and widely available to all, not central Soviet style controls and steering committees.",
         "author": {
-          "id": "401625957",
-          "name": "Steve Rattner",
-          "screenName": "SteveRattner",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1559587528109395969/HfLfInk2_normal.jpg",
+          "id": "633549366",
+          "name": "Daniel Jeffries",
+          "screenName": "Dan_Jeffries1",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1907351559689650176/xPWyoi5m_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 1759,
-          "retweets": 678,
-          "replies": 202,
-          "quotes": 48,
-          "views": 123173,
-          "bookmarks": 84
+          "likes": 170,
+          "retweets": 25,
+          "replies": 16,
+          "quotes": 2,
+          "views": 21059,
+          "bookmarks": 24
         },
-        "createdAt": "Sun Jul 26 10:57:57 +0000 2026",
-        "createdAtLocal": "2026-07-26 18:57",
-        "createdAtISO": "2026-07-26T10:57:57+00:00",
+        "createdAt": "Mon Jul 27 11:39:43 +0000 2026",
+        "createdAtLocal": "2026-07-27 19:39",
+        "createdAtISO": "2026-07-27T11:39:43+00:00",
         "media": [],
-        "urls": [
-          "https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html?smid=nytcore-ios-share"
-        ],
+        "urls": [],
         "isRetweet": true,
         "retweetedBy": "ylecun",
         "lang": "en",
-        "score": null
+        "score": null,
+        "quotedTweet": {
+          "id": "2081698060330250294",
+          "text": "Attackers have frontier AI. Defenders need a frontier AI ecosystem—the best open and closed models, force-multiplied by a global community.\n\nDuring the Hugging Face incident, closed AI blocked essential forensics. An open-weight frontier model helped contain the intrusion.\n\nThat’s why we created the Open Secure AI Alliance.",
+          "author": {
+            "screenName": "JensenHuang",
+            "name": "Jensen Huang"
+          }
+        }
       }
     ],
     "elonmusk": [
       {
-        "id": "2081627240777895998",
-        "text": "I will not forget about Mars",
+        "id": "2081803897883046220",
+        "text": "The best way to communicate with the world is directly in your own words, not through the reality distortion nightmare mirror that is the legacy mainstream press",
         "author": {
           "id": "44196397",
           "name": "Elon Musk",
@@ -698,16 +695,16 @@
           "verified": true
         },
         "metrics": {
-          "likes": 24360,
-          "retweets": 2072,
-          "replies": 3949,
-          "quotes": 300,
-          "views": 3754945,
-          "bookmarks": 608
+          "likes": 28214,
+          "retweets": 3505,
+          "replies": 2126,
+          "quotes": 227,
+          "views": 2644309,
+          "bookmarks": 894
         },
-        "createdAt": "Mon Jul 27 06:26:23 +0000 2026",
-        "createdAtLocal": "2026-07-27 14:26",
-        "createdAtISO": "2026-07-27T06:26:23+00:00",
+        "createdAt": "Mon Jul 27 18:08:21 +0000 2026",
+        "createdAtLocal": "2026-07-28 02:08",
+        "createdAtISO": "2026-07-27T18:08:21+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -715,41 +712,115 @@
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2081590539791827062",
-          "text": "This picture was taken on Mars yesterday. https://t.co/MDmQYNpBql",
+          "id": "2081648588342395258",
+          "text": "J’ai été très sensible aux nombreux messages que vous m’avez adressés à la suite de ma lettre ouverte au Monde.\n\nJe tenais à vous en remercier toutes et tous, directement et personnellement, ici, sur X.\n\nMerci!\nBernard Arnault https://t.co/hqYcHJj6sV",
           "author": {
-            "screenName": "cb_doge",
-            "name": "DogeDesigner"
+            "screenName": "BernardArnault",
+            "name": "Bernard Arnault"
           }
         }
       },
       {
-        "id": "2081608857256657382",
-        "text": "🚨BREAKING: Germany's Anti-Immigration party the AfD have topped a poll in liberal/left leaning BERLIN for the FIRST TIME EVER\n\nThis is unprecedented \nRemigration is inevitable https://t.co/ix48FAZWdK",
+        "id": "2081718431393402884",
+        "text": "Proud to join @nvidia as a founding member of the Open Secure AI Alliance. Defenders need open tools, collaboration, and transparency to secure AI agents and systems. And customers want the ability to choose the best open or closed models. \n\nhttps://t.co/xlDZKO0y89",
         "author": {
-          "id": "1722014154322575360",
-          "name": "Basil the Great",
-          "screenName": "BasilTheGreat",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1870853024798715904/f7G0cKa9_normal.jpg",
+          "id": "58560480",
+          "name": "Michael Dell 🇺🇸",
+          "screenName": "MichaelDell",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2065882493136306176/Zt75bHLP_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 13406,
-          "retweets": 1594,
-          "replies": 354,
-          "quotes": 59,
-          "views": 470060,
-          "bookmarks": 229
+          "likes": 4416,
+          "retweets": 516,
+          "replies": 256,
+          "quotes": 17,
+          "views": 653352,
+          "bookmarks": 177
         },
-        "createdAt": "Mon Jul 27 05:13:20 +0000 2026",
-        "createdAtLocal": "2026-07-27 13:13",
-        "createdAtISO": "2026-07-27T05:13:20+00:00",
+        "createdAt": "Mon Jul 27 12:28:45 +0000 2026",
+        "createdAtLocal": "2026-07-27 20:28",
+        "createdAtISO": "2026-07-27T12:28:45+00:00",
+        "media": [],
+        "urls": [
+          "https://x.com/nvidia/status/2081666629264449730"
+        ],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2081666629264449730",
+          "text": "AI security advances when the industry builds in the open, together.\n\nWe're introducing the Open Secure AI Alliance with industry leaders to develop new techniques and tools to safeguard software and agents.\n\nBy sharing models, tooling and research in the open, we can broaden the community of defenders.\n\nLearn more about the founding members’ contributions: https://t.co/A16oqxs5Ty",
+          "author": {
+            "screenName": "nvidia",
+            "name": "NVIDIA"
+          }
+        }
+      },
+      {
+        "id": "2081801843022111055",
+        "text": "Actual footage 😂",
+        "author": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screenName": "elonmusk",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 9043,
+          "retweets": 1123,
+          "replies": 1424,
+          "quotes": 79,
+          "views": 3026021,
+          "bookmarks": 238
+        },
+        "createdAt": "Mon Jul 27 18:00:12 +0000 2026",
+        "createdAtLocal": "2026-07-28 02:00",
+        "createdAtISO": "2026-07-27T18:00:12+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2081801295254458473",
+          "text": "@elonmusk Elon on his way to the office this morning: https://t.co/FLp3kqvrRw",
+          "author": {
+            "screenName": "ArchiveRedline",
+            "name": "Archive Redline"
+          }
+        }
+      },
+      {
+        "id": "2081736246041154005",
+        "text": "No results, NO RECESS.\n\nPass SAVE America NOW! https://t.co/RsG6RiceaF",
+        "author": {
+          "id": "131546062",
+          "name": "Rick Scott",
+          "screenName": "SenRickScott",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1082776530235916289/KVIfkvwW_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 14181,
+          "retweets": 2822,
+          "replies": 921,
+          "quotes": 99,
+          "views": 390071,
+          "bookmarks": 96
+        },
+        "createdAt": "Mon Jul 27 13:39:32 +0000 2026",
+        "createdAtLocal": "2026-07-27 21:39",
+        "createdAtISO": "2026-07-27T13:39:32+00:00",
         "media": [
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HONcMEtXIAAdjTg.jpg",
-            "width": 1023,
-            "height": 682
+            "url": "https://pbs.twimg.com/media/HOPQFUZXMAANnL4.jpg",
+            "width": 986,
+            "height": 1029
           }
         ],
         "urls": [],
@@ -759,44 +830,8 @@
         "score": null
       },
       {
-        "id": "2081493665738887290",
-        "text": "Hating any group besides straight white men is racism, sexism, homophobia, transphobia, etc.\n\nBut hating straight white men?\n\nWell, that's social justice, obviously.",
-        "author": {
-          "id": "1038726722",
-          "name": "Kevin Bass",
-          "screenName": "kevinnbass",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1947236538409988096/hZXVsMlX_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 2762,
-          "retweets": 338,
-          "replies": 136,
-          "quotes": 7,
-          "views": 514715,
-          "bookmarks": 78
-        },
-        "createdAt": "Sun Jul 26 21:35:36 +0000 2026",
-        "createdAtLocal": "2026-07-27 05:35",
-        "createdAtISO": "2026-07-26T21:35:36+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2081484494263955518",
-          "text": "@Inevitablewest @BillboardChris They are only allowed to hate straight, White men, so they do like dumb robots. \n\nThis is their programming, like NPCs in a video game.",
-          "author": {
-            "screenName": "elonmusk",
-            "name": "Elon Musk"
-          }
-        }
-      },
-      {
-        "id": "2081624723432124681",
-        "text": "I don’t pay the protection money to the media",
+        "id": "2081799342948524075",
+        "text": "This is so funny 🤣🤣",
         "author": {
           "id": "44196397",
           "name": "Elon Musk",
@@ -805,16 +840,16 @@
           "verified": true
         },
         "metrics": {
-          "likes": 16140,
-          "retweets": 1682,
-          "replies": 1165,
-          "quotes": 77,
-          "views": 3432624,
-          "bookmarks": 523
+          "likes": 14483,
+          "retweets": 1974,
+          "replies": 1068,
+          "quotes": 65,
+          "views": 3844762,
+          "bookmarks": 359
         },
-        "createdAt": "Mon Jul 27 06:16:23 +0000 2026",
-        "createdAtLocal": "2026-07-27 14:16",
-        "createdAtISO": "2026-07-27T06:16:23+00:00",
+        "createdAt": "Mon Jul 27 17:50:15 +0000 2026",
+        "createdAtLocal": "2026-07-28 01:50",
+        "createdAtISO": "2026-07-27T17:50:15+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -822,48 +857,13 @@
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2081398673439641990",
-          "text": "I sat on the syndicate desk of a global investment bank from the dot-com crash through the global financial crisis.\n\nWe had to do a lot of media work to promote deals. One day I asked our Global Head of Communications why the media was so gentle with us.\n\nHe laughed:\n“Because we’re one of their biggest advertisers.”\n\nThat explains a lot of the media’s treatment of Elon.\n\nTesla is so successful, its ad spend is effectively zero, or ~0.01% of the $40 billion global auto advertising market.\n\nNo ad dollars = no protection.\n\nNo one knows this better than Big Pharma.\n\nThey don't make confusing and enigmatic ads to sell you product; they make the ads to control the media.",
+          "id": "2081470271656185899",
+          "text": "Fauci's Diary Dec. 11, 2022:\n\n\"All of a sudden, @elonmusk has started to viciously attack me with tweets on Twitter:\"\n\nLOL https://t.co/8QMPu5bbrJ",
           "author": {
-            "screenName": "JohnLeFevre",
-            "name": "John LeFevre"
+            "screenName": "KanekoaTheGreat",
+            "name": "KanekoaTheGreat"
           }
         }
-      },
-      {
-        "id": "2081623049665663430",
-        "text": "These two photos were taken 22 years apart. https://t.co/wo12CLrbet",
-        "author": {
-          "id": "1389913567671975937",
-          "name": "DogeDesigner",
-          "screenName": "cb_doge",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1498070100393754625/C2V-fbll_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 5470,
-          "retweets": 589,
-          "replies": 410,
-          "quotes": 43,
-          "views": 351981,
-          "bookmarks": 132
-        },
-        "createdAt": "Mon Jul 27 06:09:44 +0000 2026",
-        "createdAtLocal": "2026-07-27 14:09",
-        "createdAtISO": "2026-07-27T06:09:44+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HONpFsEXcAAZQOa.jpg",
-            "width": 1834,
-            "height": 2048
-          }
-        ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null
       }
     ],
     "DrJimFan": [
@@ -878,11 +878,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 647,
-          "retweets": 27,
-          "replies": 25,
+          "likes": 648,
+          "retweets": 28,
+          "replies": 28,
           "quotes": 5,
-          "views": 86609,
+          "views": 87371,
           "bookmarks": 34
         },
         "createdAt": "Fri Jul 24 23:32:30 +0000 2026",
@@ -922,10 +922,10 @@
         },
         "metrics": {
           "likes": 276,
-          "retweets": 5,
-          "replies": 12,
+          "retweets": 6,
+          "replies": 13,
           "quotes": 3,
-          "views": 45760,
+          "views": 46231,
           "bookmarks": 31
         },
         "createdAt": "Fri Jul 24 14:24:43 +0000 2026",
@@ -957,11 +957,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 485,
-          "retweets": 48,
+          "likes": 484,
+          "retweets": 47,
           "replies": 45,
           "quotes": 8,
-          "views": 62622,
+          "views": 62784,
           "bookmarks": 127
         },
         "createdAt": "Fri Jul 17 16:09:12 +0000 2026",
@@ -996,7 +996,7 @@
           "retweets": 3,
           "replies": 11,
           "quotes": 0,
-          "views": 15711,
+          "views": 15840,
           "bookmarks": 11
         },
         "createdAt": "Fri Jul 17 16:11:03 +0000 2026",
@@ -1030,12 +1030,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 582,
-          "retweets": 65,
+          "likes": 584,
+          "retweets": 66,
           "replies": 33,
           "quotes": 6,
-          "views": 104364,
-          "bookmarks": 165
+          "views": 104720,
+          "bookmarks": 164
         },
         "createdAt": "Wed Jul 15 20:55:33 +0000 2026",
         "createdAtLocal": "2026-07-16 04:55",

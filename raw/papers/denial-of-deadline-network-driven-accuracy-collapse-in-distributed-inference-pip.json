@@ -1,0 +1,31 @@
+{
+  "title": "Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pipelines",
+  "summary": "Inference systems increasingly combine a fast path that returns predictions within the application's latency deadline together with a higher-accuracy slow path that runs higher-compute methods on stronger, remote hardware, so its results can be returned on time and combined with the fast path predictions. Across several application domains, we abstract this inference architecture as a fast path, a slow path, and a coordination layer with two functions: a router that invokes the slow path and a merger that decides whether to incorporate its returned predictions. In this work, we show that this new coordination layer exposes a new attack surface: shaped workload attacks, e.g., Yo-Yo bursts, can exploit contention at shared resources along the slow path to push benign users' slow-path predictions past their latency deadlines. The merger then discards those predictions, while the fast path continues to return timely outputs. We refer to the resulting loss of slow-path accuracy benefits as accuracy collapse.\n  We demonstrate accuracy collapse in a two-tier edge-cloud multi-object tracking pipeline in autonomous driving. In simulation, approximately 4,000 burst-shaped requests increase benign p99 latency from 92ms to 2s, nearly eliminating the benefit of the slow path's cloud inference, reducing object tracking quality by 7.0 HOTA points on average. We further find that accuracy degradation can significantly vary (2.0-18.7 HOTA points), depending on the video intervals that are targeted in the attack, and that certain rare classes (e.g., stop signs) lose nearly half of their pre-attack prediction accuracy. These results show that workload attacks can degrade prediction quality without needing either access to model weights or victim data, and motivate research on attacks and defenses for routing, merging, scheduling, and resource isolation in these emerging inference pipeline architectures.",
+  "url": "http://arxiv.org/abs/2607.24692v1",
+  "authors": [
+    "Jhonatan Tavori",
+    "Gur-Eyal Sela",
+    "Ion Stoica",
+    "Gil Zussman"
+  ],
+  "published": "2026-07-27T17:34:09Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "latency",
+    "inference",
+    "accuracy"
+  ],
+  "summary_cn": "该论文揭示了分布式推理管线中网络延迟导致精度崩溃的问题，即当推理系统采用快速路径（满足截止时间）与慢速路径（高精度远程计算）组合时，网络波动可能迫使系统频繁依赖快速路径，牺牲精度。对AI产品经理而言，这意味着在构建实时AI应用（如自动驾驶、在线推荐）时，必须设计鲁棒的延迟与精度权衡机制，例如自适应路径选择或边缘-云协同。商业价值在于避免因网络环境变化导致用户体验恶化，而产品创新方向包括动态截止时间管理和弹性推理架构。",
+  "pm_relevance": 7,
+  "concepts": [
+    "分布式推理",
+    "延迟截止时间",
+    "精度崩溃"
+  ],
+  "entities": [],
+  "patterns": [
+    "Fast-Slow Paths",
+    "Remote Inference"
+  ]
+}

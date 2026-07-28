@@ -2,95 +2,99 @@
   "daily_summary": {
     "date": "2026-07-28",
     "headline": "今日 AI 情报 · 2026-07-28",
-    "overview": "AI行业从模型竞赛转向平台化生态与合规治理，安全与稳定性成为产品瓶颈",
+    "overview": "AI从生成内容走向自主操作系统级控制，基础设施进入平台化与安全常态化。",
     "narratives": [
       {
-        "title": "AI生态走向平台化与模型多样性编排",
-        "body": "Google AI搜索成为默认入口、微软强调多模型策略、Meta将AI嵌入社交DMs——这些信号共同指向同一趋势：AI能力正从独立模型向平台级基础设施演化。产品经理需从“选择一个模型”转向“构建模型编排层”，关注成本、延迟、隐私与可靠性的动态平衡。",
+        "title": "AI从生成迈入自主操作系统级执行",
+        "body": "多项技术信号表明AI正从‘生成答案’转向‘执行任务’：StateAct提出通过程序状态（而非像素）实现长时计算机使用代理，Elon Musk直言‘前方无训练数据’，swyx指出成本衡量单位已从Token转向任务。这标志着AI产品经理的关注点应从模型生成能力转向任务完成率与自主操作可靠性，未来产品需内置代理编排、状态追踪和失败恢复等能力。",
         "type": "paradigm_shift",
-        "pillar_key": "ecosystem"
-      },
-      {
-        "title": "AI能力部署进入安全、合规与稳定性瓶颈期",
-        "body": "从Claude Opus 5错误率飙升、OpenAI对齐争议到代码质量信任危机，多个技术事件暴露当前AI产品在关键场景下仍不可靠。加上隐私泄露、作弊检测等新问题，产品经理必须将安全护栏与运行监控作为核心功能而非事后补救。",
-        "type": "bottleneck",
         "pillar_key": "capabilities"
       },
       {
-        "title": "AI商业化加速但泡沫与监管风险并存",
-        "body": "AI公司游说支出创新高、苹果等巨头谨慎观望、稀有书籍销毁引发数据伦理争议——这些商业信号表明行业正从野蛮生长转向受约束竞争。产品经理需提前布局合规能力，并警惕泡沫破裂时的市场洗牌。",
-        "type": "validation",
-        "pillar_key": "business"
+        "title": "AI基础设施走向平台化与安全常态化",
+        "body": "微软CEO纳德拉警告单一AI依赖风险，强调AI网关层重要性；Google AI搜索默认覆盖43%查询，正重塑流量分配；Claude共享聊天泄露与微软推出专业安全模型表明，安全已从附加功能升为核心基础设施。AI产品经理需将模型无关性、安全默认设计和生态兼容性纳入产品架构，避免被单一模型或平台锁定。",
+        "type": "maturation",
+        "pillar_key": "ecosystem"
       }
     ],
     "insights": [
       {
-        "pillar": "🔧 工具生态",
-        "pillar_key": "ecosystem",
-        "narrative_title": "AI生态走向平台化与模型多样性编排",
-        "insight": "AI生态走向平台化与模型多样性编排。该方向的具体信号：Google AI Overviews覆盖43%搜索查询，表明AI生成答案正重塑用户获取信息方式，传统SEO与流量分配面临颠覆；Satya Nadella警告依赖单一AI模型将威胁企业生存，推动AI网关层与多模型切换架构需求；Meta将AI聊天机器人嵌入Threads DMs，显示AI正从独立应用变为平台原生功能。",
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "narrative_title": "AI从生成迈入自主操作系统级执行",
+        "insight": "AI从生成迈入自主操作系统级执行。该方向的具体信号：StateAct通过编程状态替代像素实现长周期计算机使用代理，Elon Musk暗示AI发展已无训练数据依赖，swyx指出成本度量从Token转向任务，均指向AI能力的范式转移——从生成内容到自主执行复杂任务链。",
         "evidence": [
           {
+            "id": "twitter__akhaliq_2081921773910499494",
+            "title": "StateAct: Program State before Pixels for Long-Horizon Computer-Use Agents",
+            "score": 0.71
+          },
+          {
+            "id": "twitter_swyx_2081904230768816487",
+            "title": "$ per input/output tokens died as a relevant cost measure; use $/task",
+            "score": 0.72
+          }
+        ]
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "AI基础设施走向平台化与安全常态化",
+        "insight": "AI基础设施走向平台化与安全常态化。该方向的具体信号：Satya Nadella强调企业应部署AI网关以解耦模型依赖，Google AI概览覆盖43%搜索成为默认，Claude共享聊天泄露暴露分享功能安全缺陷，微软推出专用网络安全模型——这些事件共同勾勒出AI生态从单点模型向平台化、安全内建的结构性转变。",
+        "evidence": [
+          {
+            "id": "satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive",
+            "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+            "score": 0.48
+          },
+          {
             "id": "google8217s-ai-search-is-rapidly-becoming-the-default-new-data-shows",
-            "title": "Google AI search becomes default, covers 43% queries",
+            "title": "Google's AI search is rapidly becoming the default, new data shows",
             "score": 0.52
           },
           {
-            "id": "satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive",
-            "title": "Nadella: one-AI companies may not survive",
-            "score": 0.48
-          },
-          {
-            "id": "threads-users-can-now-chat-with-meta-ai-in-their-dms",
-            "title": "Threads users can chat with Meta AI in DMs",
-            "score": 0.45
-          }
-        ]
-      },
-      {
-        "pillar": "🤖 技术能力",
-        "pillar_key": "capabilities",
-        "narrative_title": "AI能力部署进入安全、合规与稳定性瓶颈期",
-        "insight": "AI能力部署进入安全、合规与稳定性瓶颈期。该方向的具体信号：Claude Opus 5错误率显著升高，提醒产品经理建立模型降级与实时监控机制；OpenAI Hugging Face泄露重燃对齐与控制辩论，要求产品设计内置行为审计与动态权限；Clean Code作者拒绝审查AI生成代码，凸显代码质量信任危机；隐形提示陷阱成功检测32/35学生作弊，展示提示注入技术可用于教育反作弊但需警惕滥用。",
-        "evidence": [
-          {
-            "id": "elevated-errors-on-claude-opus-5",
-            "title": "Elevated errors on Claude Opus 5",
-            "score": 0.48
-          },
-          {
-            "id": "openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control",
-            "title": "OpenAI Hugging Face breach reignites alignment debate",
-            "score": 0.45
-          },
-          {
-            "id": "the-author-of-clean-code-no-longer-reviews-ai-generated-code",
-            "title": "Clean Code author stops reviewing AI code",
-            "score": 0.38
-          }
-        ]
-      },
-      {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "narrative_title": "AI商业化加速但泡沫与监管风险并存",
-        "insight": "AI商业化加速但泡沫与监管风险并存。该方向的具体信号：AI公司华盛顿游说支出创纪录，预示政策监管将深度影响产品设计；苹果等巨头谨慎布局，泡沫破裂时可能“静观一切燃烧”并占据优势；稀有书籍被销毁引发数据采集伦理质疑，倒逼产品经理探索合成数据等合规替代方案。",
-        "evidence": [
-          {
-            "id": "ai-companies-are-shredding-rare-books",
-            "title": "AI companies shredding rare books for training data",
-            "score": 0.65
+            "id": "psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google",
+            "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+            "score": 0.52
           }
         ]
       }
     ],
-    "stats": "技术能力: 9 | 产品模式: 2 | 工具生态: 5 | 商业趋势: 4",
+    "stats": "技术能力: 12 | 产品模式: 1 | 工具生态: 5 | 商业趋势: 2",
     "total_items": 20,
     "high_value_count": 20,
     "all_today_ids": [
       {
+        "id": "twitter_elonmusk_2081936891184566514",
+        "label": "True"
+      },
+      {
+        "id": "twitter_elonmusk_2081936825313038348",
+        "label": "Where we are going there is no training data"
+      },
+      {
+        "id": "twitter_elonmusk_2081921143397572945",
+        "label": "Unfiltered reality"
+      },
+      {
+        "id": "twitter_elonmusk_2081920546355241321",
+        "label": "❤️🇺🇸"
+      },
+      {
+        "id": "twitter_swyx_2081904230768816487",
+        "label": "incidentally, $ per input/output tokens died as a relevant cost measure sometime last year\n\nif you h..."
+      },
+      {
+        "id": "twitter__akhaliq_2081921773910499494",
+        "label": "StateAct\n\nProgram State, before Pixels, for Long-Horizon Computer-Use Agents\n\npaper: https://t.co/zo..."
+      },
+      {
         "id": "ai-companies-are-shredding-rare-books",
         "label": "AI companies are shredding rare books"
+      },
+      {
+        "id": "our-position-on-open-weights-models",
+        "label": "Our position on open-weights models"
       },
       {
         "id": "mai-cyber-1-flash-inside-mdash",
@@ -129,8 +133,36 @@
         "label": "Elevated errors on Claude Opus 5"
       },
       {
+        "id": "benchmarking-opus-5-on-slopcodebench",
+        "label": "Benchmarking Opus 5 on SlopCodeBench"
+      },
+      {
+        "id": "rethinking-classifier-free-guidance-in-on-policy-diffusion-distillation",
+        "label": "Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation"
+      },
+      {
+        "id": "dataorchestra-learning-to-orchestrate-per-example-curation-of-pretraining-data",
+        "label": "DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data"
+      },
+      {
+        "id": "kanex-translating-kolmogorov-arnold-networks-interpretability-to-medical-explain",
+        "label": "KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Expla"
+      },
+      {
+        "id": "clinfusion-a-vision-centric-multimodal-llm-system-for-holistic-medical-understan",
+        "label": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understa"
+      },
+      {
         "id": "threads-users-can-now-chat-with-meta-ai-in-their-dms",
         "label": "Threads users can now chat with Meta AI in their DMs"
+      },
+      {
+        "id": "cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localiz",
+        "label": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localiz"
+      },
+      {
+        "id": "anthropic8217s-dario-amodei-responds-doesn8217t-oppose-open-weight-models-but-fe",
+        "label": "Anthropic&#8217;s Dario Amodei responds: doesn&#8217;t oppose open-weight models"
       },
       {
         "id": "ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-rese",
@@ -141,20 +173,64 @@
         "label": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control"
       },
       {
+        "id": "certified-parallel-in-time-sinkhorn-for-dynamic-entropic-optimal-transport",
+        "label": "Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport"
+      },
+      {
+        "id": "denial-of-deadline-network-driven-accuracy-collapse-in-distributed-inference-pip",
+        "label": "Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pi"
+      },
+      {
+        "id": "erunderstand-evaluating-vision-language-models-on-structured-er-diagrams",
+        "label": "ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams"
+      },
+      {
+        "id": "global-convergence-of-dgm-and-pinn-algorithms-for-solving-nonlinear-pdes",
+        "label": "Global Convergence of DGM and PINN Algorithms for Solving Nonlinear PDEs"
+      },
+      {
         "id": "show-hn-feynobg-automatic-background-removal-model-and-training-library",
         "label": "Show HN: FeyNoBg – Automatic background removal model and training library"
+      },
+      {
+        "id": "using-an-open-model-feels-surprisingly-good",
+        "label": "Using an open model feels surprisingly good"
+      },
+      {
+        "id": "netflix-employee-fired-for-sharing-personal-details-in-retreat-trust-exercise",
+        "label": "Netflix employee fired for sharing personal details in retreat trust exercise"
       },
       {
         "id": "this-9-key-physically-locks-your-most-addictive-apps",
         "label": "This $9 key physically locks your most addictive apps"
       },
       {
+        "id": "learning-distributions-from-multiple-data-providers",
+        "label": "Learning Distributions from Multiple Data Providers"
+      },
+      {
+        "id": "securing-services-with-rootless-containers",
+        "label": "Securing Services with Rootless Containers"
+      },
+      {
         "id": "modern-email-can-be-built-from-borrowed-parts",
         "label": "Modern email can be built from borrowed parts"
       },
       {
+        "id": "kimi-k3-now-available-via-telnyx-inference-api",
+        "label": "Kimi K3 Now Available via Telnyx Inference API"
+      },
+      {
         "id": "the-author-of-clean-code-no-longer-reviews-ai-generated-code",
         "label": "The Author of Clean Code No Longer Reviews AI-Generated Code"
+      },
+      {
+        "id": "dont-ask-an-llm-for-a-confidence-score",
+        "label": "Don't ask an LLM for a confidence score"
+      },
+      {
+        "id": "a-500-rl-fine-tune-of-a-9b-open-model-beat-frontier-models-on-catalog-review",
+        "label": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review"
       },
       {
         "id": "self-contained-highly-portable-python-distributions",
@@ -169,6 +245,10 @@
         "label": "Show HN: Watch 14-Byte AI \"brains\" attempt to solve a 2D maze (Its hard)"
       },
       {
+        "id": "show-hn-yap-oss-on-device-voice-dictation-for-macos-with-no-model-to-download",
+        "label": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download"
+      },
+      {
         "id": "enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume",
         "label": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume"
       },
@@ -177,11 +257,27 @@
         "label": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles"
       },
       {
+        "id": "beyond-scale-and-generation-understanding-language-model-based-entity-matching",
+        "label": "Beyond Scale and Generation: Understanding Language Model-based Entity Matching"
+      },
+      {
+        "id": "efficient-llm-generated-shuttling-compilers-for-complex-trapped-ion-architecture",
+        "label": "Efficient LLM-Generated Shuttling Compilers for Complex Trapped-Ion Architecture"
+      },
+      {
+        "id": "the-physics-of-multi-turn-long-horizon-planning-from-pre-training-to-post-traini",
+        "label": "The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-train"
+      },
+      {
         "id": "show-hn-running-prismmls-bonsai-inside-dram-by-breaking-ddr4-timing-rules",
         "label": "Show HN: Running PrismML's Bonsai inside DRAM by breaking DDR4 timing rules"
+      },
+      {
+        "id": "the-burau-representation-of-the-braid-group-is-faithful-for-n-4",
+        "label": "The Burau representation of the braid group is faithful for n = 4"
       }
     ],
     "date_bj": "2026-07-28 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-07-28 06:01:41"
+    "generated_at_bj": "2026-07-28 18:01:10"
   }
 }

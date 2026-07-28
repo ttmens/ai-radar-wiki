@@ -1,0 +1,28 @@
+{
+  "title": "Global Convergence of DGM and PINN Algorithms for Solving Nonlinear PDEs",
+  "summary": "The Deep Galerkin Method (DGM) and Physics Informed Neural Networks (PINNs) have become widely-used methods for solving partial differential equations (PDEs) in the rapidly growing field of scientific machine learning. In these methods, a neural network is trained to approximate the PDE solution by using (stochastic) gradient descent to minimize the PDE residual of the neural network. Due to the non-convexity of the PDE residual objective function, the trained neural network may, in principle, only converge to a local minimizer of the objective function (which would not be a solution of the PDE). Therefore, there is a longstanding question regarding the mathematical foundations of these algorithms, and it is highly valuable to establish that the trained neural network will converge to the PDE solution. For a class of semi-linear PDEs (nonlinear in the solution and its first derivative), we prove that neural networks trained with gradient descent to minimize the PDE residual objective function will converge to the PDE solution.",
+  "url": "http://arxiv.org/abs/2607.24726v1",
+  "authors": [
+    "Justin Sirignano",
+    "Konstantinos Spiliopoulos",
+    "Samuel Cohen"
+  ],
+  "published": "2026-07-27T17:56:37Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "neural network",
+    "gradient"
+  ],
+  "summary_cn": "该论文研究了深度伽辽金法(DGM)和物理信息神经网络(PINN)在求解非线性偏微分方程(PDE)时的全局收敛性，为这两类主流科学机器学习算法的数学可靠性提供了理论保证。对于AI产品经理，此成果意味着神经网络求解器在工程仿真、物理建模等场景中的预测稳定性与可解释性增强，有望降低AI+科学计算产品在工业落地中的调试成本。商业价值体现在提升数字孪生、药物发现等领域的自动化建模效率，产品创新点在于可将收敛性分析结果嵌入模型训练流程，实现更鲁棒的自动物理仿真。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Deep Galerkin Method",
+    "Physics Informed Neural Networks",
+    "Nonlinear PDEs"
+  ],
+  "entities": [],
+  "patterns": [
+    "Scientific Machine Learning"
+  ]
+}

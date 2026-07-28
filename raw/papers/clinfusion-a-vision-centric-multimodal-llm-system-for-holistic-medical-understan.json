@@ -1,0 +1,34 @@
+{
+  "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+  "summary": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D and 3D medical images, and evaluation protocols must align with radiologists' clinical practice and provide an accurate, fine-grained and factualness-driven assessment. In this paper, we introduce ClinFusion, a vision-centric MLLM designed for holistic medical understanding that systematically addresses these limitations. We propose a compositional and cascaded vision encoder architecture featuring a Cascade Spatial-Aware Locality Fusion operator that unifies diverse 2D and native 3D medical image understanding within a fused encoder. We further introduce a vision-grounded evaluation framework, including MedIF-Bench for instruction-following assessment and a region-of-interest-grounded method for clinically aligned and factualness-driven report generation evaluation. We show that ClinFusion sets a new state-of-the-art across a comprehensive suite of 2D and 3D multimodal medical benchmarks---spanning visual question answering, report generation, and instruction following---as well as textual medical tasks, outperforming leading open-source medical MLLMs (\\textit{e.g.}, Hulu-Med, Lingshu) on 20 out of 24 benchmarks and demonstrating multimodal capabilities better than powerful proprietary models such as GPT-5.2 and Gemini-3-Flash on 13 out of 16 benchmarks, and can be further augmented with agentic tool use for retrieval-augmented and tool-assisted clinical workflows. A blinded evaluation by board-certified radiologists confirms that ClinFusion produces the highest-ranked reports, and validates our RoI-grounded metric as achieving the strongest correlation with expert judgment among all automatic evaluation metrics examined.",
+  "url": "http://arxiv.org/abs/2607.24743v1",
+  "authors": [
+    "Hangjie Yuan",
+    "Yichen Qian",
+    "Zhiwei Tang",
+    "Xianzhe Xu",
+    "Lirong Wu"
+  ],
+  "published": "2026-07-27T17:59:49Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "multimodal",
+    "vision",
+    "retrieval"
+  ],
+  "summary_cn": "ClinFusion 提出一种以视觉为中心的多模态大语言模型系统，旨在解决医疗领域 AI 部署的视觉挑战：模型需要从异质的 2D 和 3D 医学图像中提取知识，并通过对齐的评估协议实现全面的临床理解。其技术价值在于深度融合视觉与语言能力，可提升影像诊断、病历分析等场景的准确性和效率；商业模式上可嵌入医院系统或远程医疗平台；产品创新体现在对复杂医学影像的端到端理解，为辅助诊断提供更可靠的 AI 支持。",
+  "pm_relevance": 8,
+  "concepts": [
+    "多模态大语言模型",
+    "医学影像理解",
+    "视觉-语言对齐"
+  ],
+  "entities": [
+    "ClinFusion"
+  ],
+  "patterns": [
+    "Vision-Centric LLM"
+  ]
+}

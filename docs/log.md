@@ -3234,3 +3234,9 @@
 - create: openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control.md
 - create: threads-users-can-now-chat-with-meta-ai-in-their-dms.md
 - create: show-hn-running-prismmls-bonsai-inside-dram-by-breaking-ddr4-timing-rules.md
+
+## [2026-07-28 18:01] sync v3 | 11 new | pillars: {'capabilities': 9, 'patterns': 1, 'business': 1}
+- create: kimi-k3-now-available-via-telnyx-inference-api.md
+- create: dont-ask-an-llm-for-a-confidence-score.md
+- create: the-burau-representation-of-the-braid-group-is-faithful-for-n-4.md
+- create: cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localiz.md

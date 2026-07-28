@@ -1,8 +1,92 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-07-28T06:02:15.887851+08:00",
-  "item_count": 22,
+  "generated_at": "2026-07-28T18:01:32.868812+08:00",
+  "item_count": 51,
   "items": [
+    {
+      "id": "twitter_elonmusk_2081936891184566514",
+      "label": "True",
+      "summary": "True",
+      "pm_score": 1.0,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/elonmusk/status/2081936891184566514",
+      "date": "2026-07-28",
+      "stars": 3815,
+      "score": 1.0,
+      "comments": 651
+    },
+    {
+      "id": "twitter_elonmusk_2081936825313038348",
+      "label": "Where we are going there is no training data",
+      "summary": "Where we are going there is no training data",
+      "pm_score": 1.0,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/elonmusk/status/2081936825313038348",
+      "date": "2026-07-28",
+      "stars": 3321,
+      "score": 1.0,
+      "comments": 594
+    },
+    {
+      "id": "twitter_elonmusk_2081921143397572945",
+      "label": "Unfiltered reality",
+      "summary": "Unfiltered reality",
+      "pm_score": 1.0,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/elonmusk/status/2081921143397572945",
+      "date": "2026-07-28",
+      "stars": 5883,
+      "score": 1.0,
+      "comments": 910
+    },
+    {
+      "id": "twitter_elonmusk_2081920546355241321",
+      "label": "❤️🇺🇸",
+      "summary": "❤️🇺🇸",
+      "pm_score": 1.0,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/elonmusk/status/2081920546355241321",
+      "date": "2026-07-28",
+      "stars": 5346,
+      "score": 1.0,
+      "comments": 529
+    },
+    {
+      "id": "twitter_swyx_2081904230768816487",
+      "label": "incidentally, $ per input/output tokens died as a relevant cost measure sometime last year\n\nif you h...",
+      "summary": "incidentally, $ per input/output tokens died as a relevant cost measure sometime last year\n\nif you haven’t updated your x axes to $/task per @ArtificialAnlys then idk if you can be taken seriously anymore these days",
+      "pm_score": 0.72,
+      "pillar": "ecosystem",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/swyx/status/2081904230768816487",
+      "date": "2026-07-28",
+      "stars": 31,
+      "score": 0.7181500000000001,
+      "comments": 17
+    },
+    {
+      "id": "twitter__akhaliq_2081921773910499494",
+      "label": "StateAct\n\nProgram State, before Pixels, for Long-Horizon Computer-Use Agents\n\npaper: https://t.co/zo...",
+      "summary": "StateAct\n\nProgram State, before Pixels, for Long-Horizon Computer-Use Agents\n\npaper: https://t.co/zoRp9WfYsq https://t.co/BBSSxFCX1e",
+      "pm_score": 0.71,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/_akhaliq/status/2081921773910499494",
+      "date": "2026-07-28",
+      "stars": 4,
+      "score": 0.7051000000000001,
+      "comments": 6
+    },
     {
       "id": "ai-companies-are-shredding-rare-books",
       "label": "AI companies are shredding rare books",
@@ -12,6 +96,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49068738",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "our-position-on-open-weights-models",
+      "label": "Our position on open-weights models",
+      "summary": "本文阐述了对开源权重模型的立场。技术要点在于开源权重模型允许开发者自由访问和修改模型参数，但可能带来安全与滥用风险。商业价值上，开源权重可降低AI部署门槛，促进社区创新，但企业需权衡开放性与合规性。产品创新方面，这类模型支持本地化部署、定制优化，适合隐私敏感场景。PM应关注模型选型策略、许可条款及社区生态。",
+      "pm_score": 0.645,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49076057",
       "date": "2026-07-28"
     },
     {
@@ -114,6 +209,61 @@
       "date": "2026-07-28"
     },
     {
+      "id": "benchmarking-opus-5-on-slopcodebench",
+      "label": "Benchmarking Opus 5 on SlopCodeBench",
+      "summary": "Opus 5 模型在 SlopCodeBench 基准测试中进行了评估，该测试可能专注于代码生成或理解能力。从产品经理视角，基准测试结果直接反映模型在复杂编码任务上的性能，影响技术选型与产品路线图。SlopCodeBench 作为新兴基准，其设计可能更贴近真实场景，为评估 AI 编程助手提供新维度。了解 Opus 5 的排名和优劣有助于判断其商业适用性，指导产品功能迭代。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49076391",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "rethinking-classifier-free-guidance-in-on-policy-diffusion-distillation",
+      "label": "Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation",
+      "summary": "该论文重新审视了在线策略扩散蒸馏（OPD）中无分类器引导（CFG）的作用。OPD通过沿当前学生模型生成的轨迹查询教师模型来适应扩散模型，但CFG作为现代扩散系统的默认组件，在OPD中的行为尚不明确。现有OPD方法自然集成CFG，但缺乏理论分析。论文旨在理解CFG对蒸馏过程的影响，为产品经理提供优化生成质量与效率的指导。商业价值在于提升扩散模型的应用性能，降低部署成本，适用于图像、视频等生成式AI产品。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.24731v1",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "dataorchestra-learning-to-orchestrate-per-example-curation-of-pretraining-data",
+      "label": "DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data",
+      "summary": "DataOrchestra 提出一种针对大语言模型预训练数据的逐样本（per-example）策展方法，区别于传统基于语料库或领域级别的固定处理策略。该技术为每个训练样本动态编排最优的数据清洗、筛选或增强流程，从而提升数据质量和模型下游性能。商业价值在于可更高效地利用训练数据，降低无效噪声，可能减少训练成本或提升模型效果。产品创新体现在将数据预处理从粗粒度规则升级为细粒度自适应策略，有望成为数据中心的AI开发新范式。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.24717v1",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "kanex-translating-kolmogorov-arnold-networks-interpretability-to-medical-explain",
+      "label": "KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Expla",
+      "summary": "该论文提出KANEx框架，基于Kolmogorov-Arnold Networks (KAN) 的可解释性来提升医学影像模型的透明度。针对胸部X光分类器与视觉语言模型（VLM）结合时缺乏可解释性的痛点，KANEx通过将KAN的固有可解释性迁移到医学任务中，生成更可信的自然语言解释。技术核心是利用KAN的符号表示能力替代传统黑盒神经网络，在不牺牲性能的前提下增强模型可读性。商业价值在于降低临床医生对AI的信任门槛，加速医疗AI在诊断辅助场景的落地。产品创新体现为将前沿可解释架构与医学诊断流程深度整合，提供端到端可追溯的解释路径。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.24730v1",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "clinfusion-a-vision-centric-multimodal-llm-system-for-holistic-medical-understan",
+      "label": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understa",
+      "summary": "ClinFusion 提出一种以视觉为中心的多模态大语言模型系统，旨在解决医疗领域 AI 部署的视觉挑战：模型需要从异质的 2D 和 3D 医学图像中提取知识，并通过对齐的评估协议实现全面的临床理解。其技术价值在于深度融合视觉与语言能力，可提升影像诊断、病历分析等场景的准确性和效率；商业模式上可嵌入医院系统或远程医疗平台；产品创新体现在对复杂医学影像的端到端理解，为辅助诊断提供更可靠的 AI 支持。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.24743v1",
+      "date": "2026-07-28"
+    },
+    {
       "id": "threads-users-can-now-chat-with-meta-ai-in-their-dms",
       "label": "Threads users can now chat with Meta AI in their DMs",
       "summary": "Meta 宣布在 Threads 的私信（DMs）中集成其 AI 聊天机器人 Meta AI，用户可直接与 AI 助手进行对话。这一举措将 AI 能力嵌入社交产品的核心通讯场景，旨在提升用户互动频率和平台粘性。对 AI 产品经理而言，这意味着 AI 助手从独立应用向平台原生功能演进，需要关注对话上下文管理、隐私保护以及与现有社交功能的无缝融合。商业上，Meta 可利用此入口收集用户偏好数据，并为未来广告或增值服务铺路，是 AI 与社交生态整合的典型案例。",
@@ -122,6 +272,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localiz",
+      "label": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localiz",
+      "summary": "AI 代码助手 Cursor 宣布在印度市场推出本地化定价，这是其迄今为止最大的印度市场拓展举措。印度已成为 Cursor 全球第三大市场，公司计划扩大本地招聘并加强企业销售团队。这一策略表明，Cursor 正通过价格适配与本地化运营，加速抢占新兴市场，为 AI 开发工具的大规模商业化铺路。对 AI 产品经理而言，此案例展示了全球化产品进入细分市场时，本地化定价与渠道建设的关键作用。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "anthropic8217s-dario-amodei-responds-doesn8217t-oppose-open-weight-models-but-fe",
+      "label": "Anthropic&#8217;s Dario Amodei responds: doesn&#8217;t oppose open-weight models",
+      "summary": "Anthropic CEO Dario Amodei明确表示不反对开源权重模型，但对中国AI的快速发展表示担忧。他认为开源在透明度和创新上有价值，但需警惕地缘政治风险，尤其是中国可能利用开放模型加速追赶。这反映出前沿AI公司在开源与安全平衡上的战略分歧，对产品经理而言，需要关注开源权重模型如何影响AI生态的竞争格局，以及中国AI崛起对全球AI产品市场准入和供应链的潜在冲击。",
+      "pm_score": 0.445,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
       "date": "2026-07-28"
     },
     {
@@ -147,6 +319,50 @@
       "date": "2026-07-28"
     },
     {
+      "id": "certified-parallel-in-time-sinkhorn-for-dynamic-entropic-optimal-transport",
+      "label": "Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport",
+      "summary": "该论文提出 TemporalSinkhorn，一种时间并行执行器，用于解决动态熵最优传输问题。传统分布式 Sinkhorn 算法顺序处理帧并每轮同步，效率较低。TemporalSinkhorn 通过并行化时间维度，在保持理论保证的同时显著加速动态最优传输计算。该技术可应用于最优传输流匹配（Flow Matching）等动态生成模型，降低实时推理与训练的延迟，对 AI 产品团队而言，能提升动态场景下生成与匹配的效率，推动更实时的多模态应用落地。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.24741v1",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "denial-of-deadline-network-driven-accuracy-collapse-in-distributed-inference-pip",
+      "label": "Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pi",
+      "summary": "该论文揭示了分布式推理管线中网络延迟导致精度崩溃的问题，即当推理系统采用快速路径（满足截止时间）与慢速路径（高精度远程计算）组合时，网络波动可能迫使系统频繁依赖快速路径，牺牲精度。对AI产品经理而言，这意味着在构建实时AI应用（如自动驾驶、在线推荐）时，必须设计鲁棒的延迟与精度权衡机制，例如自适应路径选择或边缘-云协同。商业价值在于避免因网络环境变化导致用户体验恶化，而产品创新方向包括动态截止时间管理和弹性推理架构。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.24692v1",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "erunderstand-evaluating-vision-language-models-on-structured-er-diagrams",
+      "label": "ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams",
+      "summary": "该论文提出了ERUnderstand，这是首个针对视觉语言模型在结构化实体关系图（ERD）理解能力上的大规模基准测试。ERD作为数据库概念设计的核心，通常以图像形式存在，难以被机器解析，限制了AI在数据库工程中的应用。ERUnderstand通过标准化评估，衡量模型从ERD图像中提取模式、关系和结构信息的能力。这一基准有助于推动AI辅助数据库逆向工程、自动模型生成与文档理解等产品创新，为开发者构建更智能的数据库设计工具提供了评估依据。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.24707v1",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "global-convergence-of-dgm-and-pinn-algorithms-for-solving-nonlinear-pdes",
+      "label": "Global Convergence of DGM and PINN Algorithms for Solving Nonlinear PDEs",
+      "summary": "该论文研究了深度伽辽金法(DGM)和物理信息神经网络(PINN)在求解非线性偏微分方程(PDE)时的全局收敛性，为这两类主流科学机器学习算法的数学可靠性提供了理论保证。对于AI产品经理，此成果意味着神经网络求解器在工程仿真、物理建模等场景中的预测稳定性与可解释性增强，有望降低AI+科学计算产品在工业落地中的调试成本。商业价值体现在提升数字孪生、药物发现等领域的自动化建模效率，产品创新点在于可将收敛性分析结果嵌入模型训练流程，实现更鲁棒的自动物理仿真。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.24726v1",
+      "date": "2026-07-28"
+    },
+    {
       "id": "show-hn-feynobg-automatic-background-removal-model-and-training-library",
       "label": "Show HN: FeyNoBg – Automatic background removal model and training library",
       "summary": "FeyNoBg 是一个自动背景移除模型和训练库，旨在帮助开发者快速集成背景擦除功能。技术要点包括提供预训练模型和可自定义的训练流程，支持针对特定场景（如电商商品图、人像、视频会议）进行微调优化。商业价值在于降低企业部署背景移除能力的门槛，减少对第三方API的依赖，节省成本并提升数据隐私。产品创新体现为将训练库与模型打包，让非研究团队也能轻松训练专属模型，实现差异化功能。",
@@ -155,6 +371,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49072462",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "using-an-open-model-feels-surprisingly-good",
+      "label": "Using an open model feels surprisingly good",
+      "summary": "本文探讨了使用开放模型（如开源大语言模型）带来的积极体验，强调了其在可定制性、透明度和成本控制方面的优势。对AI产品经理而言，开放模型允许灵活调整模型行为、数据隐私保障和避免供应商锁定，但需权衡部署复杂度和社区支持。这一趋势暗示着未来产品可能更倾向于混合采用开放与专有模型，以平衡性能与自主权。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49078583",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "netflix-employee-fired-for-sharing-personal-details-in-retreat-trust-exercise",
+      "label": "Netflix employee fired for sharing personal details in retreat trust exercise",
+      "summary": "Netflix一名员工在公司内部信任练习活动中分享同事个人信息，随后被解雇。该事件凸显企业在建设团队信任与隐私保护之间的平衡难题。对于AI产品经理而言，这警示在设计协作功能或情感计算产品时，必须严格界定个人数据边界与用户隐私权，避免因过度共享引发合规风险。事件也反映了企业文化中信任机制设计的缺陷，可类比为产品中用户数据使用权限的“过度授权”问题，值得在隐私保护策略制定时参考。",
+      "pm_score": 0.425,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49076923",
       "date": "2026-07-28"
     },
     {
@@ -169,6 +407,28 @@
       "date": "2026-07-28"
     },
     {
+      "id": "learning-distributions-from-multiple-data-providers",
+      "label": "Learning Distributions from Multiple Data Providers",
+      "summary": "本文研究从多个异构且可能重叠的数据提供者中学习未知分布的问题，提出一种受限条件样本下的分布学习模型。学习者可获得一组固定的可查询集合，通过条件采样高效估计目标分布。该工作为分布式数据分析、隐私保护下的多方数据合作提供了理论基础，适用于联邦学习、用户画像构建、推荐系统等场景，有助于产品经理理解如何在不暴露原始数据的情况下整合多源信息，提升数据利用效率与模型准确性。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.24732v1",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "securing-services-with-rootless-containers",
+      "label": "Securing Services with Rootless Containers",
+      "summary": "无根容器（Rootless Containers）是一种安全运行容器化服务的技术，无需赋予容器进程root权限，从而显著降低容器逃逸或权限提升攻击的风险。对AI产品经理而言，该技术能有效保护AI模型推理、训练等关键服务的基础设施安全，减少运维复杂性，并满足合规需求。它允许非特权用户运行容器，适用于多租户环境或敏感数据处理的AI应用场景，是提升AI系统整体安全性的重要实践，同时保持容器编排的灵活性和可移植性。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49021024",
+      "date": "2026-07-28"
+    },
+    {
       "id": "modern-email-can-be-built-from-borrowed-parts",
       "label": "Modern email can be built from borrowed parts",
       "summary": "本文探讨如何利用现有AI组件（如语言模型、自然语言处理）重构现代电子邮件体验，强调通过“借来的部件”快速集成智能回复、邮件摘要和自动化分类等功能，无需从零构建。产品创新点在于降低开发门槛，使初创公司也能快速推出AI增强邮件客户端，商业价值体现在提升用户效率和邮件处理满意度。技术要点在于模块化调用成熟API，实现上下文感知的邮件撰写与优先级排序。",
@@ -180,6 +440,17 @@
       "date": "2026-07-28"
     },
     {
+      "id": "kimi-k3-now-available-via-telnyx-inference-api",
+      "label": "Kimi K3 Now Available via Telnyx Inference API",
+      "summary": "Kimi K3 模型现可通过 Telnyx Inference API 调用，为 AI 产品经理提供了便捷的模型推理接口。此举降低了 Kimi K3 的部署门槛，开发者无需自行托管模型即可集成其能力。商业价值在于 Telnyx 的全球通信网络可加速 Kimi K3 的应用落地，适合需要低延迟、高可用性的场景。产品创新方面，K3 作为新一代模型可能在理解与生成能力上有所提升，且 API 化交付符合当下模型即服务的趋势。",
+      "pm_score": 0.395,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49076505",
+      "date": "2026-07-28"
+    },
+    {
       "id": "the-author-of-clean-code-no-longer-reviews-ai-generated-code",
       "label": "The Author of Clean Code No Longer Reviews AI-Generated Code",
       "summary": "《Clean Code》作者Robert C. Martin（Bob大叔）公开表示不再审查AI生成的代码，认为当前AI代码质量不可靠，存在逻辑错误和安全隐患。这一态度反映了开发者社区对AI编程助手能力边界的质疑，对依赖AI生成代码的产品团队构成信任挑战。产品经理需关注AI代码的可审性、质量评估标准以及如何建立人机协作的代码审查机制。事件提示AI编程工具应增强可解释性和可控性，减少黑箱输出，同时推动社区建立AI代码质量基准。",
@@ -188,6 +459,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49074693",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "dont-ask-an-llm-for-a-confidence-score",
+      "label": "Don't ask an LLM for a confidence score",
+      "summary": "该文章警告产品经理不要轻信LLM自报告的置信度分数，因为模型输出的概率往往未经过良好校准，可能具有误导性。对于需要风险控制的AI产品（如医疗诊断、法律咨询），依赖LLM自我评估将产生安全隐患。建议采用外部校准技术或拒绝模型提供的原始置信度，转而通过集成方法或不确定性量化来提升判断可靠性。此观点对AI产品设计中的透明度与用户信任构建具有关键指导意义。",
+      "pm_score": 0.365,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49077443",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "a-500-rl-fine-tune-of-a-9b-open-model-beat-frontier-models-on-catalog-review",
+      "label": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "summary": "一项研究表明，仅用500美元对9B参数的开源模型进行强化学习（RL）微调，即可在目录审查任务上超越包括GPT-4在内的前沿模型。这证明了低成本RL微调在垂直场景中的巨大潜力，降低了企业定制高性能AI的门槛。产品经理应关注此方法对模型选型和预算规划的影响，尤其是在数据标注和训练成本敏感的业务中。该结果也凸显了开源模型结合针对性优化策略的商业价值。",
+      "pm_score": 0.365,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49078454",
       "date": "2026-07-28"
     },
     {
@@ -224,6 +517,17 @@
       "date": "2026-07-28"
     },
     {
+      "id": "show-hn-yap-oss-on-device-voice-dictation-for-macos-with-no-model-to-download",
+      "label": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
+      "summary": "Yap 是一个针对 macOS 的开源设备端语音听写工具，无需下载任何模型即可实现本地实时语音转文字。它利用设备内置的机器学习能力，完全在本地运行，保护用户隐私，无需联网。对于 AI 产品经理而言，Yap 展示了本地优先（Local-First）AI 的落地可能性，可降低云端依赖、减少延迟和成本，并为隐私敏感场景提供解决方案。其开源特性便于开发者集成和定制，可应用于笔记、写作、无障碍辅助等产品。该产品创新在于“零下载”的无感体验，让设备端语音识别变得即开即用。",
+      "pm_score": 0.33,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49073834",
+      "date": "2026-07-28"
+    },
+    {
       "id": "enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume",
       "label": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
       "summary": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
@@ -244,10 +548,43 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49070756",
       "date": "2026-07-28"
+    },
+    {
+      "id": "beyond-scale-and-generation-understanding-language-model-based-entity-matching",
+      "label": "Beyond Scale and Generation: Understanding Language Model-based Entity Matching",
+      "summary": "Entity matching identifies records that refer to the same real-world entity. Language models can be adapted to this task through bi-encoder, cross-encoder, and generative matcher architectures. However, prior studies often conflate matcher architecture with differences in model backbone, model varia",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.24688v1",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "efficient-llm-generated-shuttling-compilers-for-complex-trapped-ion-architecture",
+      "label": "Efficient LLM-Generated Shuttling Compilers for Complex Trapped-Ion Architecture",
+      "summary": "Trapped-ion quantum computers rely on shuttling compilers, which cast an input algorithm into a sequence of ion-qubit movements within a given architecture. We present the first study in which a single frontier large language model (LLM), Claude Opus 4.7, generates and iteratively refines the full P",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.24714v1",
+      "date": "2026-07-28"
+    },
+    {
+      "id": "the-physics-of-multi-turn-long-horizon-planning-from-pre-training-to-post-traini",
+      "label": "The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-train",
+      "summary": "Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, making it difficult to identify how planning ability is acquired, shaped, and integrated. To address",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.24720v1",
+      "date": "2026-07-28"
     }
   ],
   "graph_totals": {
-    "real_nodes": 5568,
-    "edges": 5915
+    "real_nodes": 5642,
+    "edges": 5994
   }
 }
