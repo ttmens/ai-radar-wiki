@@ -1,0 +1,26 @@
+{
+  "title": "Show HN: BrowserAct: Browser Layer for Your AI Agent",
+  "score": 10,
+  "comments": 2,
+  "url": "https://github.com/browser-act/skills",
+  "hn_url": "https://news.ycombinator.com/item?id=49081241",
+  "tag": "ShowHN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "BrowserAct 是一个为 AI 代理提供浏览器层的开源项目，允许代理直接操作浏览器（如点击、输入、导航），从而突破传统 API 限制。这种模式使 AI 能够像人类一样与网页交互，显著提升自动化任务的灵活性与覆盖范围。对产品经理而言，它开启了 RPA、数据采集、测试自动化等场景的 AI 原生实现，降低了开发成本。技术价值在于将浏览器转化为 AI 可编程环境，商业潜力体现在替代部分低效的 API 集成工作，产品创新在于向‘AI 驱动的浏览器自动化’范式演进。",
+  "pm_relevance": 9,
+  "concepts": [
+    "Browser Agent",
+    "Web Automation",
+    "AI Agent Infrastructure"
+  ],
+  "entities": [
+    "BrowserAct"
+  ],
+  "patterns": [
+    "Browser Agent Pattern",
+    "Web Automation Pattern"
+  ]
+}

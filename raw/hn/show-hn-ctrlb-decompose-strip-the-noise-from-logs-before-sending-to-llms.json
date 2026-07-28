@@ -1,0 +1,22 @@
+{
+  "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+  "score": 45,
+  "comments": 6,
+  "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
+  "hn_url": "https://news.ycombinator.com/item?id=49083336",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Ctrlb-decompose 是一个开源工具，专注于在将日志数据发送给大语言模型（LLM）之前自动去除噪声信息。它通过智能过滤、压缩和结构化日志，显著减少 token 消耗，提升 LLM 推理效率与响应质量。对于 AI 产品经理，该工具可直接应用于日志分析、故障排查、RAG 系统的数据预处理等场景，降低运营成本并增强下游模型表现。其技术核心在于高效的数据清洗与格式转换，无需依赖特定 LLM 即可独立运行。作为底层能力组件，它有助于构建更稳定、经济的 AI 日志处理流水线。",
+  "pm_relevance": 8,
+  "concepts": [
+    "日志噪声过滤",
+    "Token 成本优化",
+    "数据预处理"
+  ],
+  "entities": [],
+  "patterns": [
+    "Log-to-LLM 管道",
+    "智能数据清洗"
+  ]
+}

@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-28 | Total pages: 3049
+> Last updated: 2026-07-29 | Total pages: 3063
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -275,11 +275,13 @@
 - [[discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images.md]] Discord admits AI moderation bug wrongfully banned users over harmless images `pillar:capabilities` `score:0.48`
 - [[dispersion-loss-counteracts-embedding-condensation-in-small-language-models.md]] Dispersion loss counteracts embedding condensation in small language models `pillar:capabilities` `score:0.295`
 - [[diy-bipedal-robot-used-pneumatic-air-muscles-instead-of-motors.md]] DIY Bipedal Robot Used Pneumatic "Air-Muscles" Instead of Motors `pillar:capabilities` `score:0.275`
+- [[dmarc-has-been-public-since-2012-684-of-domains-still-dont-enforce-it.md]] DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It `pillar:capabilities` `score:0.445`
 - [[do-transformers-need-three-projections-systematic-study-of-qkv-variants.md]] Do transformers need three projections? Systematic study of QKV variants `pillar:capabilities` `score:0.445`
 - [[do-you-hate-xml-2010.md]] Do you hate XML? (2010) `pillar:capabilities` `score:0.255`
 - [[docling-projectdocling.md]] docling-project/docling `pillar:capabilities` `score:0.615`
 - [[doctors-suspected-man-had-brain-cancer-he-had-worms.md]] Doctors suspected man had brain cancer. He had worms `pillar:capabilities` `score:0.43`
 - [[doing-a-masters-while-working-in-spain.md]] Doing a masters while working in Spain `pillar:capabilities` `score:0.17`
+- [[dolmenwood-fantasy-rpg-built-around-the-acclaimed-old-school-essentials-rules.md]] Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules `pillar:capabilities` `score:0.12`
 - [[dont-ask-an-llm-for-a-confidence-score.md]] Don't ask an LLM for a confidence score `pillar:capabilities` `score:0.365`
 - [[dont-discontinue-gemini-25-flash.md]] Don't discontinue Gemini 2.5 Flash `pillar:capabilities` `score:0.43`
 - [[dont-know-where-your-data-is-from-bayesian-modeling-for-unknown-coordinates.md]] Don't know where your data is from? Bayesian modeling for unknown coordinates `pillar:capabilities` `score:0.26`
@@ -320,6 +322,7 @@
 - [[firefox-153-available-with-support-for-vulkan-video-decoding-jpeg-xl.md]] Firefox 153 available with support for Vulkan video decoding, JPEG-XL `pillar:capabilities` `score:0.405`
 - [[firefox-containers-preview.md]] Firefox Containers Preview `pillar:capabilities` `score:0.445`
 - [[first-principles-of-model-routing.md]] First Principles of Model Routing `pillar:capabilities` `score:0.33`
+- [[fish-audio-raises-52m-seed-to-build-ai-voice-models-for-creators-and-enterprises.md]] Fish Audio raises $52M seed to build AI voice models for creators and enterprise `pillar:capabilities` `score:0.445`
 - [[five-frontier-llms-disagree-on-67-of-1k-real-world-fact-check-claims.md]] Five frontier LLMs disagree on 67% of 1k real-world fact-check claims `pillar:capabilities` `score:0.63`
 - [[fixed-three-bugs-that-made-qwen35-122b-a-daily-driver-on-mac-studio.md]] Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio `pillar:capabilities` `score:0.43`
 - [[flash-msa-accelerating-million-token-training-with-sparse-attention-kernels.md]] Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels `pillar:capabilities` `score:0.33`
@@ -712,6 +715,7 @@
 - [[record-breaking-solo-rower-kelsey-pfendler-arrives-in-hawaii.md]] Record-breaking solo rower Kelsey Pfendler arrives in Hawaii `pillar:capabilities` `score:0.085`
 - [[record-type-inference-for-dummies.md]] Record type inference for dummies `pillar:capabilities` `score:0.33`
 - [[recreating-the-math-behind-the-first-stealth-aircraft.md]] Recreating the math behind the first stealth aircraft `pillar:capabilities` `score:0.295`
+- [[recursive-superintelligence-signs-410-million-compute-deal-with-amazon.md]] Recursive Superintelligence signs $410 million compute deal with Amazon `pillar:capabilities` `score:0.445`
 - [[reducing-tick-density-along-recreational-trails-in-ottawa-canada.md]] Reducing tick density along recreational trails in Ottawa, Canada `pillar:capabilities` `score:0.46`
 - [[reelful8217s-ai-turns-your-camera-roll-into-short-form-videos-for-social-media.md]] Reelful&#8217;s AI turns your camera roll into short-form videos for social medi `pillar:capabilities` `score:0.48`
 - [[reflections-on-software-engineering-in-the-age-of-ai.md]] Reflections on software engineering in the age of AI `pillar:capabilities` `score:0.48`
@@ -784,6 +788,7 @@
 - [[show-hn-command-center-the-ai-coding-env-for-people-who-care-about-quality.md]] Show HN: Command Center, the AI coding env for people who care about quality `pillar:capabilities` `score:0.33`
 - [[show-hn-coretex-an-open-source-unix-like-biomimetic-flat-file-ai-harness.md]] Show HN: CoreTex – An Open-Source, Unix-like, biomimetic, flat-file AI Harness `pillar:capabilities` `score:0.155`
 - [[show-hn-crespo-tree-sitter-ast-blueprints-instead-of-raw-code-for-llms.md]] Show HN: Crespo – Tree-sitter AST blueprints instead of raw code for LLMs `pillar:capabilities` `score:0.365`
+- [[show-hn-ctrlb-decompose-strip-the-noise-from-logs-before-sending-to-llms.md]] Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs `pillar:capabilities` `score:0.33`
 - [[show-hn-davit-a-apple-containers-ui.md]] Show HN: Davit, a Apple Containers UI `pillar:capabilities` `score:0.325`
 - [[show-hn-demon-open-source-real-time-music-diffusion-engine-25hz-local-gpu.md]] Show HN: Demon – open-source real-time music diffusion engine, 25Hz local GPU `pillar:capabilities` `score:0.365`
 - [[show-hn-docx-cli-agents-readedit-word-docs-using-12-the-time-and-tokens.md]] Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens `pillar:capabilities` `score:0.33`
@@ -795,6 +800,7 @@
 - [[show-hn-follow-london-trains-in-3d.md]] Show HN: Follow London Trains in 3D `pillar:capabilities` `score:0.26`
 - [[show-hn-for-10-world-cups-my-models-2-favorites-had-the-champion-every-time.md]] Show HN: For 10 World Cups, my model's 2 favorites had the champion every time `pillar:capabilities` `score:0.31`
 - [[show-hn-foreman-a-self-hosted-llm-gateway-for-cost-aware-model-routing.md]] Show HN: Foreman, a self-hosted LLM gateway for cost aware model routing `pillar:capabilities` `score:0.33`
+- [[show-hn-formally-verified-3d-csg-trust-93-lines-spec-not-1000-lines-ai-code.md]] Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code `pillar:capabilities` `score:0.43`
 - [[show-hn-formally-verified-polygon-intersection-opus-48-oneshots-prev-failed.md]] Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed `pillar:capabilities` `score:0.26`
 - [[show-hn-free-mermaid-diagram-editor.md]] Show HN: Free Mermaid Diagram Editor `pillar:capabilities` `score:0.26`
 - [[show-hn-frugon-find-which-llm-calls-a-cheaper-model-could-handle-local-mit.md]] Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT) `pillar:capabilities` `score:0.33`
@@ -866,6 +872,7 @@
 - [[show-hn-reviving-my-2001-college-band-with-ai.md]] Show HN: Reviving my 2001 college band with AI `pillar:capabilities` `score:0.43`
 - [[show-hn-running-a-vision-model-on-every-screenshot-on-device.md]] Show HN: Running a vision model on every screenshot on-device `pillar:capabilities` `score:0.33`
 - [[show-hn-running-prismmls-bonsai-inside-dram-by-breaking-ddr4-timing-rules.md]] Show HN: Running PrismML's Bonsai inside DRAM by breaking DDR4 timing rules `pillar:capabilities` `score:0.295`
+- [[show-hn-segue-save-context-in-one-ai-load-it-in-another-by-a-short-handle.md]] Show HN: Segue – Save context in one AI, load it in another by a short handle `pillar:capabilities` `score:0.33`
 - [[show-hn-selector-forge-browser-extension-for-ai-generated-resilient-selectors.md]] Show HN: Selector Forge – browser extension for AI-generated resilient selectors `pillar:capabilities` `score:0.33`
 - [[show-hn-semble-code-search-for-agents-that-uses-98-fewer-tokens-than-grep.md]] Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep `pillar:capabilities` `score:0.43`
 - [[show-hn-shumai-open-source-frameio-alternative-for-creative-work.md]] Show HN: Shumai – open-source Frame.io alternative for creative work `pillar:capabilities` `score:0.26`
@@ -1057,6 +1064,7 @@
 - [[we-should-be-more-tired-than-the-model.md]] We should be more tired than the model `pillar:capabilities` `score:0.41`
 - [[were-extending-access-to-fable-5-on-all-paid-plans-through-july-12.md]] We're extending access to Fable 5 on all paid plans through July 12 `pillar:capabilities` `score:0.41`
 - [[weve-suspended-access-to-claude-mythos-5-and-claude-fable-5.md]] We've suspended access to Claude Mythos 5 and Claude Fable 5 `pillar:capabilities` `score:0.53`
+- [[what-ai-developers-could-learn-from-charles-bukowski.md]] What AI developers could learn from Charles Bukowski? `pillar:capabilities` `score:0.345`
 - [[what-happens-when-ai-starts-building-itself.md]] What happens when AI starts building itself? `pillar:capabilities` `score:0.55`
 - [[what-ozempic-does-to-the-gut-brain-axis.md]] What Ozempic does to the gut-brain axis `pillar:capabilities` `score:0.545`
 - [[what-to-expect-from-wwdc-2026-siri8217s-highly-anticipated-revamp-and-apple-inte.md]] What to expect from WWDC 2026: Siri&#8217;s highly anticipated revamp and Apple `pillar:capabilities` `score:0.515`
@@ -1893,6 +1901,7 @@
 - [[migrating-a-production-ai-agent-to-gpt-56-22x-faster-27-cheaper.md]] Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper `pillar:patterns` `score:0.415`
 - [[mindsdbminds.md]] mindsdb/minds `pillar:patterns` `score:0.58`
 - [[mindsdbmindsdb.md]] mindsdb/mindsdb `pillar:patterns` `score:0.615`
+- [[mondragon-corporation-a-federation-of-co-operatives.md]] Mondragon Corporation – a federation of co-operatives `pillar:patterns` `score:0.41`
 - [[my-agent-skill-for-test-driven-development.md]] My Agent Skill for Test-Driven Development `pillar:patterns` `score:0.43`
 - [[mythologizing-ai-makes-it-more-likely-that-well-fail-to-operate-it-well-2023.md]] Mythologizing AI makes it more likely that we’ll fail to operate it well (2023) `pillar:patterns` `score:0.445`
 - [[nasa-still-maintains-some-of-the-voyager-spacecraft-code-from-the-70s-era.md]] NASA still maintains some of the Voyager spacecraft code from the 70s era `pillar:patterns` `score:0.41`
@@ -1969,6 +1978,7 @@
 - [[show-hn-blockbuzz-a-workspace-built-for-teams-of-humans-and-agents.md]] Show HN: Block/buzz: a workspace built for teams of humans and agents `pillar:patterns` `score:0.33`
 - [[show-hn-brolly-a-plain-text-weather-forecast-site.md]] Show HN: Brolly, a plain-text weather forecast site `pillar:patterns` `score:0.255`
 - [[show-hn-browser-tools-sdk-an-optimal-browser-harness-for-agents.md]] Show HN: Browser Tools SDK – an optimal browser harness for agents `pillar:patterns` `score:0.33`
+- [[show-hn-browseract-browser-layer-for-your-ai-agent.md]] Show HN: BrowserAct: Browser Layer for Your AI Agent `pillar:patterns` `score:0.365`
 - [[show-hn-build-your-own-ai-agent-cli-in-150-lines.md]] Show HN: Build Your Own AI Agent CLI in 150 Lines `pillar:patterns` `score:0.26`
 - [[show-hn-capn-hook-for-coding-agents-dont-grep-the-same-mystery-twice.md]] Show HN: Capn-hook for coding agents – don't grep the same mystery twice `pillar:patterns` `score:0.33`
 - [[show-hn-clawk-give-coding-agents-a-disposable-linux-vm-not-your-laptop.md]] Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop `pillar:patterns` `score:0.515`
@@ -2012,6 +2022,7 @@
 - [[show-hn-onecli-oss-credential-gateway-that-keeps-secrets-out-of-ai-agents.md]] Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents `pillar:patterns` `score:0.43`
 - [[show-hn-open-envelope-an-open-schema-for-defining-ai-agent-teams.md]] Show HN: Open Envelope – an open schema for defining AI agent teams `pillar:patterns` `score:0.33`
 - [[show-hn-open-source-agentic-qa-harness-with-memory.md]] Show HN: Open-Source Agentic QA Harness with Memory `pillar:patterns` `score:0.33`
+- [[show-hn-open-source-cloudflare-deployed-agent-native-task-management-and-wiki.md]] Show HN: Open-source Cloudflare deployed agent native task management and wiki `pillar:patterns` `score:0.33`
 - [[show-hn-ouijit-an-open-source-task-and-terminal-manager-for-coding-agents.md]] Show HN: Ouijit, an open-source task and terminal manager for coding agents `pillar:patterns` `score:0.295`
 - [[show-hn-paseo-beautiful-open-source-coding-agent-interface.md]] Show HN: Paseo – Beautiful open-source coding agent interface `pillar:patterns` `score:0.38`
 - [[show-hn-peerd-ai-agent-harness-that-runs-entirely-in-your-browser.md]] Show HN: peerd – AI agent harness that runs entirely in your browser `pillar:patterns` `score:0.38`
@@ -2250,6 +2261,7 @@
 - [[d4vinciscrapling.md]] D4Vinci/Scrapling `pillar:ecosystem` `score:0.405`
 - [[danielmiesslerfabric.md]] danielmiessler/Fabric `pillar:ecosystem` `score:0.58`
 - [[danny-avilalibrechat.md]] danny-avila/LibreChat `pillar:ecosystem` `score:0.615`
+- [[data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-gr.md]] Data centers may face temporary power cuts to prevent blackouts on largest US gr `pillar:ecosystem` `score:0.515`
 - [[datawhalechinaself-llm.md]] datawhalechina/self-llm `pillar:ecosystem` `score:0.58`
 - [[decart8217s-new-world-model-can-simulate-hours-of-photorealistic-driving-with-so.md]] Decart&#8217;s new world model can simulate hours of photorealistic driving — wi `pillar:ecosystem` `score:0.515`
 - [[deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai.md]] DeepMind CEO calls for an independent standards body to regulate frontier AI `pillar:ecosystem` `score:0.48`
@@ -2739,6 +2751,7 @@
 - [[everybodys-weirded-out-by-aiexcept-the-people-who-foist-it-on-us.md]] Everybody's Weirded Out by AI–Except the People Who Foist It on Us `pillar:business` `score:0.38`
 - [[faa-lets-boeing-sign-off-on-737-max-787-airworthiness-certificates-again.md]] FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again `pillar:business` `score:0.39`
 - [[fake-building-claude-wrote-3k-lines-instead-of-im.md]] Fake building: Claude wrote 3k lines instead of import pywikibot `pillar:business` `score:0.155`
+- [[fast-remediation-is-the-new-trust-model-jfrog-and-openai-zero-day-findings.md]] Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings) `pillar:business` `score:0.38`
 - [[fidji-simo-steps-down-from-openai8217s-no-2-role.md]] Fidji Simo steps down from OpenAI&#8217;s no. 2 role `pillar:business` `score:0.48`
 - [[financing-the-ai-boom-from-cash-flows-to-debt-pdf.md]] Financing the AI boom: from cash flows to debt [pdf] `pillar:business` `score:0.46`
 - [[five-architects-of-the-ai-economy-explain-where-th.md]] Five architects of the AI economy explain where the wheels are coming off `pillar:business` `score:0.15`
@@ -2761,6 +2774,7 @@
 - [[google-to-pay-spacex-920m-a-month-for-compute-capacity-at-xai-data-centers.md]] Google to pay SpaceX $920M a month for compute capacity at xAI data centers `pillar:business` `score:0.48`
 - [[google8217s-8216create-my-widget8217-feat.md]] Google&#8217;s &#8216;Create My Widget&#8217; feature will let you vibe-code you `pillar:business` `score:0.305`
 - [[google8217s-gemini-nears-billion-user-milestone.md]] Google&#8217;s Gemini nears billion-user milestone `pillar:business` `score:0.48`
+- [[googles-beyond-zero-enterprise-security-for-the-ai-era.md]] Google's Beyond Zero: Enterprise Security for the AI Era `pillar:business` `score:0.48`
 - [[gpt-55-price-increase-what-it-costs.md]] GPT-5.5 Price Increase: What It Costs `pillar:business` `score:0.33`
 - [[haiku.md]] Haiku `pillar:business` `score:0.355`
 - [[hermes-agent-maker-nous-research-in-talks-for-new-funding-at-15b-valuation.md]] Hermes agent maker Nous Research in talks for new funding at $1.5B valuation `pillar:business` `score:0.48`

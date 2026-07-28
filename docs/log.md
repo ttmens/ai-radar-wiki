@@ -3240,3 +3240,19 @@
 - create: dont-ask-an-llm-for-a-confidence-score.md
 - create: the-burau-representation-of-the-braid-group-is-faithful-for-n-4.md
 - create: cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localiz.md
+
+## [2026-07-29 00:01] sync v3 | 14 new | pillars: {'capabilities': 11, 'patterns': 3}
+- create: show-hn-formally-verified-3d-csg-trust-93-lines-spec-not-1000-lines-ai-code.md
+- create: googles-beyond-zero-enterprise-security-for-the-ai-era.md
+- create: dmarc-has-been-public-since-2012-684-of-domains-still-dont-enforce-it.md
+- create: fast-remediation-is-the-new-trust-model-jfrog-and-openai-zero-day-findings.md
+- create: what-ai-developers-could-learn-from-charles-bukowski.md
+- create: show-hn-ctrlb-decompose-strip-the-noise-from-logs-before-sending-to-llms.md
+- create: dolmenwood-fantasy-rpg-built-around-the-acclaimed-old-school-essentials-rules.md
+- create: mondragon-corporation-a-federation-of-co-operatives.md
+- create: data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-gr.md
+- create: fish-audio-raises-52m-seed-to-build-ai-voice-models-for-creators-and-enterprises.md
+- create: recursive-superintelligence-signs-410-million-compute-deal-with-amazon.md
+- create: show-hn-segue-save-context-in-one-ai-load-it-in-another-by-a-short-handle.md
+- create: show-hn-browseract-browser-layer-for-your-ai-agent.md
+- create: show-hn-open-source-cloudflare-deployed-agent-native-task-management-and-wiki.md

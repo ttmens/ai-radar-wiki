@@ -1,6 +1,6 @@
 # X/Twitter AI KOL 动态
 
-抓取时间: 2026-07-28 09:01:08
+抓取时间: 2026-07-28 21:01:13
 
 
 ## @sama (5 条)
@@ -47,29 +47,29 @@
 
 ## @ylecun (5 条)
 
-1. **Catalog of incorrect AI predictions.  Doomers from the rationalist cosplay community are left out, presumably because their predictions have a near 100% failure rate.  When people proudly proclaim tha**
+1. **Go ahead and ask yourself, really ask yourself, if all these confident predictors are wrong about jobs and not training radiologists anymore and fast take offs, what else are they wrong about?  Then a**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **Music-JEPA: Learning a World Model of Sound from Action  "we propose to learn a world model of piano sound using JEPA by framing  music as an action-conditioned system: the audio is treated as the  st**
+2. **Catalog of incorrect AI predictions.  Doomers from the rationalist cosplay community are left out, presumably because their predictions have a near 100% failure rate.  When people proudly proclaim tha**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **Right now we are defending open source (or open weights) models' right to exist. The debate is not about forcing anyone to open-source their models, whatever some other Julian might imply. However, wh**
+3. **Music-JEPA: Learning a World Model of Sound from Action  "we propose to learn a world model of piano sound using JEPA by framing  music as an action-conditioned system: the audio is treated as the  st**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
 ## @elonmusk (5 条)
 
-1. **The best way to communicate with the world is directly in your own words, not through the reality distortion nightmare mirror that is the legacy mainstream press**
+1. **A throwback to Elon Musk walking through the engineering behind Falcon 9’s payload fairing  Explaining the massive carbon-composite structure… large enough to fit a full-size city bus inside  Early Sp**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **Proud to join @nvidia as a founding member of the Open Secure AI Alliance. Defenders need open tools, collaboration, and transparency to secure AI agents and systems. And customers want the ability to**
+2. **Common sense**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **Actual footage 😂**
+3. **2002-2004: Software guy thinks he can build rockets and cars  2016: Car guy thinks he can do brain surgery  2018: American guy thinks he can build factory in China  2022: Hardware guy thinks he can do**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 

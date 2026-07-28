@@ -1,0 +1,25 @@
+---
+title: Mondragon Corporation – a federation of co-operatives
+created: 2026-07-29
+updated: 2026-07-29
+type: entity
+pillar: patterns
+pm_score: 0.41
+tags: ["discussion", "hacker-news", "patterns"]
+sources: ["raw/hn/mondragon-corporation-a-federation-of-co-operatives.json"]
+---
+
+# Mondragon Corporation – a federation of co-operatives
+
+## 中文摘要
+蒙德拉贡联合公司是全球知名的工人合作社企业集团，其分布式所有权与民主治理模式为AI产品设计提供了去中心化协作的参照。在AI领域，这种组织形态可应用于数据共享、模型训练与产品开发，通过集体决策和利益共享机制降低集中化风险，促进开源生态与长期合作。该模式强调自主管理与社区导向，对构建可持续的AI产品生态具有商业价值。
+
+## PM 关注指标
+- 🔥 HN Score: 134
+- 💬 Comments: 23
+- 🎯 PM Score: 0.41
+- 🏷️ Pillar: patterns
+
+## 链接
+- 🔗 HN 讨论: https://news.ycombinator.com/item?id=49082695
+- 🔗 原文: https://en.wikipedia.org/wiki/Mondragon_Corporation
