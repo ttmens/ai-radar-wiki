@@ -1,8 +1,30 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T00:01:56.610369+08:00",
-  "item_count": 13,
+  "generated_at": "2026-07-29T06:01:48.210331+08:00",
+  "item_count": 21,
   "items": [
+    {
+      "id": "discovering-cryptographic-weaknesses-with-claude",
+      "label": "Discovering Cryptographic Weaknesses with Claude",
+      "summary": "本文探讨了使用Claude（Anthropic的AI模型）主动发现加密算法中潜在弱点的能力。通过系统性地分析密码学实现，Claude能够识别出人类专家可能忽略的漏洞模式，从而提升安全审计的效率与覆盖率。对AI产品经理而言，这展示了AI在专业安全领域的应用潜力，可加速安全评估流程、降低人力成本，并催生新型AI辅助安全工具。商业价值体现在减少安全事件损失、增强企业合规性，而产品创新方向包括打造自动化密码学审核助手。",
+      "pm_score": 0.53,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49087091",
+      "date": "2026-07-29"
+    },
+    {
+      "id": "now-is-the-time-to-give-llms-access-to-the-acm-digital-library",
+      "label": "Now Is the Time to Give LLMs Access to the ACM Digital Library",
+      "summary": "本文认为现在是让大语言模型（LLM）接入ACM数字图书馆的适当时机。ACM数字图书馆是全球计算机科学文献的核心资源，LLM通过检索该库中的高质量论文和会议记录，可显著提升生成内容的准确性和领域深度。这种集成方案能有效减少模型幻觉，增强对前沿技术问题的回答能力，尤其适合科研辅助、文献综述和代码生成等场景。对AI产品经理而言，这意味着可以构建更可信的学术型AI助手，利用权威知识源提升产品竞争力，并探索与学术出版机构的新型合作模式。",
+      "pm_score": 0.515,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49084987",
+      "date": "2026-07-29"
+    },
     {
       "id": "data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-gr",
       "label": "Data centers may face temporary power cuts to prevent blackouts on largest US gr",
@@ -23,6 +45,61 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49081644",
+      "date": "2026-07-29"
+    },
+    {
+      "id": "mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea",
+      "label": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "summary": "Runlayer是一家专注于MCP（模型上下文协议）网关产品的初创公司，在向Rippling展示其产品原型后，Rippling决定自行开发类似功能，而非合作或收购。Runlayer因此起诉Rippling窃取产品创意，凸显了AI生态中初创公司与大型平台合作时的知识产权风险。该事件提醒AI产品经理：在生态合作中需提前界定IP归属，评估大公司“评估后自建”的竞争威胁，并考虑通过专利、非公开协议（NDA）或快速迭代建立护城河。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "date": "2026-07-29"
+    },
+    {
+      "id": "sam-altman-is-ready-to-decelerate",
+      "label": "Sam Altman is ready to decelerate",
+      "summary": "Sam Altman 在经历一次深刻的安全事件后，表态将放缓 AI 发展节奏。这标志着 OpenAI 从高速扩张转向更审慎的部署策略，强调安全优先。对 AI 产品经理而言，这意味着未来产品迭代可能更注重稳定性和伦理合规，而非单纯追求能力突破。商业上，减速可能影响市场先发优势，但有助于建立用户信任，推动负责任的 AI 商业化。产品创新方向或转向可控性、对齐技术和差异化体验。",
+      "pm_score": 0.48,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "date": "2026-07-29"
+    },
+    {
+      "id": "bot-detection-startup-spur-nabs-200m-from-insight",
+      "label": "Bot-detection startup Spur nabs $200M from Insight",
+      "summary": "Spur Intelligence 获得 Insight Partners 2 亿美元融资，其核心技术是高效区分真实人类与机器流量（Bot Detection）。该技术可应用于反欺诈、广告验证、网络安全等领域，帮助平台过滤自动化攻击和虚假流量。此次大额融资反映了市场对精准流量识别能力的强烈需求，以及 AI 在网络安全防护中的商业价值。产品创新点在于实时分析用户行为模式，降低误判率，并支持大规模部署。对于 AI 产品经理，该案例展示了“能力型创业”的典型路径：聚焦单一但关键的底层技术，通过融资快速占领市场。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "date": "2026-07-29"
+    },
+    {
+      "id": "una-gps-smart-watch-repairable-usb-c-charging-developer-friendly",
+      "label": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
+      "summary": "Una GPS智能手表主打可修复设计、USB-C充电和开发者友好特性，突破传统智能硬件封闭生态。可修复性降低电子垃圾与用户更换成本，符合可持续消费趋势；USB-C接口统一充电标准提升便利性；开发者友好接口（如开放SDK/API）允许第三方定制功能，为AI模型在穿戴设备上的边缘部署、健康监测算法优化等提供灵活扩展空间。商业价值在于差异化竞争与长尾市场，产品创新聚焦用户自主权与社区共创，潜在推动AI可穿戴应用生态发展。",
+      "pm_score": 0.46,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49084813",
+      "date": "2026-07-29"
+    },
+    {
+      "id": "openai-just-open-sourced-codex-security",
+      "label": "OpenAI just open-sourced Codex Security",
+      "summary": "OpenAI 近日开源了 Codex 安全组件（Codex Security），此举旨在增强 AI 代码生成工具的安全性。Codex 是 OpenAI 推出的代码生成模型，其安全版本的开源意味着开发者可以直接使用、审查和定制这部分代码，从而在构建 AI 编程助手时更有效地防范安全漏洞、注入攻击等风险。对产品经理而言，这一动作降低了安全合规门槛，加速了企业级代码助手产品的落地；同时也体现了 OpenAI 以开放生态策略扩大技术影响力，推动行业安全标准。商业上，开源可吸引更多贡献者，提升 Codex 生态的活跃度与信任度，为后续商业化服务引流。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49089755",
       "date": "2026-07-29"
     },
     {
@@ -92,6 +169,17 @@
       "date": "2026-07-29"
     },
     {
+      "id": "harmony-explained-progress-towards-a-scientific-theory-of-music-2012",
+      "label": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
+      "summary": "本文探讨了音乐和谐性的科学理论进展，从物理学、数学和认知科学角度解释为何某些音程与和弦令人愉悦。尽管发表于2012年，其理论框架对现代AI音乐生成、情感计算和音频处理产品具有启发意义——理解音乐感知的底层规则可帮助设计更自然的AI作曲工具或智能伴奏系统。产品经理可关注如何将和谐理论模型化，用于生成式AI的旋律与和声约束，或提升音乐推荐算法的用户情感匹配度。",
+      "pm_score": 0.375,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49085280",
+      "date": "2026-07-29"
+    },
+    {
       "id": "show-hn-browseract-browser-layer-for-your-ai-agent",
       "label": "Show HN: BrowserAct: Browser Layer for Your AI Agent",
       "summary": "BrowserAct 是一个为 AI 代理提供浏览器层的开源项目，允许代理直接操作浏览器（如点击、输入、导航），从而突破传统 API 限制。这种模式使 AI 能够像人类一样与网页交互，显著提升自动化任务的灵活性与覆盖范围。对产品经理而言，它开启了 RPA、数据采集、测试自动化等场景的 AI 原生实现，降低了开发成本。技术价值在于将浏览器转化为 AI 可编程环境，商业潜力体现在替代部分低效的 API 集成工作，产品创新在于向‘AI 驱动的浏览器自动化’范式演进。",
@@ -148,7 +236,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 5667,
-    "edges": 6019
+    "real_nodes": 5699,
+    "edges": 6051
   }
 }

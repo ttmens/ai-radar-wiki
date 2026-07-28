@@ -3256,3 +3256,14 @@
 - create: show-hn-segue-save-context-in-one-ai-load-it-in-another-by-a-short-handle.md
 - create: show-hn-browseract-browser-layer-for-your-ai-agent.md
 - create: show-hn-open-source-cloudflare-deployed-agent-native-task-management-and-wiki.md
+
+## [2026-07-29 06:01] sync v3 | 9 new | pillars: {'capabilities': 5, 'ecosystem': 3, 'business': 1}
+- create: openai-just-open-sourced-codex-security.md
+- create: discovering-cryptographic-weaknesses-with-claude.md
+- create: harmony-explained-progress-towards-a-scientific-theory-of-music-2012.md
+- create: una-gps-smart-watch-repairable-usb-c-charging-developer-friendly.md
+- create: now-is-the-time-to-give-llms-access-to-the-acm-digital-library.md
+- create: bot-detection-startup-spur-nabs-200m-from-insight.md
+- create: mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea.md
+- create: sam-altman-is-ready-to-decelerate.md
+- create: show-hn-cynative-read-only-cli-in-go-that-explains-your-live-infrastructure.md

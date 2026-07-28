@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-29 | Total pages: 3063
+> Last updated: 2026-07-29 | Total pages: 3072
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -169,6 +169,7 @@
 - [[boffin-claims-microsofts-quantum-leap-is-invalid-due-to-basic-python-errors.md]] Boffin claims Microsoft’s “quantum leap” is invalid due to “basic Python errors” `pillar:capabilities` `score:0.53`
 - [[bonsai-27b-a-27b-class-model-that-runs-on-a-phone.md]] Bonsai 27B: A 27B-Class model that runs on a phone `pillar:capabilities` `score:0.615`
 - [[bootimus-a-self-contained-pxe-and-http-boot-server.md]] Bootimus – A Self-Contained PXE and HTTP Boot Server `pillar:capabilities` `score:0.24`
+- [[bot-detection-startup-spur-nabs-200m-from-insight.md]] Bot-detection startup Spur nabs $200M from Insight `pillar:capabilities` `score:0.48`
 - [[brainless-shadcn-components-that-look-like-claude-code-codex-and-grok.md]] Brainless: Shadcn components that look like Claude Code, Codex and Grok `pillar:capabilities` `score:0.38`
 - [[briar-is-in-maintenance-mode.md]] Briar Is in Maintenance Mode `pillar:capabilities` `score:0.375`
 - [[building-a-real-time-ai-tutor-for-5-year-olds.md]] Building a real-time AI tutor for 5-year-olds `pillar:capabilities` `score:0.48`
@@ -273,6 +274,7 @@
 - [[digital-printing-of-arabic-explaining-the-problem.md]] Digital Printing of Arabic: explaining the problem `pillar:capabilities` `score:0.33`
 - [[digital-sovereignty-becomes-an-imperative-as-the-us-reads-dutch-emails.md]] Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails `pillar:capabilities` `score:0.55`
 - [[discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images.md]] Discord admits AI moderation bug wrongfully banned users over harmless images `pillar:capabilities` `score:0.48`
+- [[discovering-cryptographic-weaknesses-with-claude.md]] Discovering Cryptographic Weaknesses with Claude `pillar:capabilities` `score:0.53`
 - [[dispersion-loss-counteracts-embedding-condensation-in-small-language-models.md]] Dispersion loss counteracts embedding condensation in small language models `pillar:capabilities` `score:0.295`
 - [[diy-bipedal-robot-used-pneumatic-air-muscles-instead-of-motors.md]] DIY Bipedal Robot Used Pneumatic "Air-Muscles" Instead of Motors `pillar:capabilities` `score:0.275`
 - [[dmarc-has-been-public-since-2012-684-of-domains-still-dont-enforce-it.md]] DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It `pillar:capabilities` `score:0.445`
@@ -411,6 +413,7 @@
 - [[handmade-hawaiian-islands-map.md]] Handmade Hawaiian Islands Map `pillar:capabilities` `score:0.26`
 - [[hands-on-with-the-amd-ryzen-ai-halo.md]] Hands-On with the AMD Ryzen AI Halo `pillar:capabilities` `score:0.38`
 - [[hark-raises-700m-series-a-for-its-secretive-8220universal8221-ai-interface.md]] Hark raises $700M Series A for its secretive &#8220;universal&#8221; AI interfac `pillar:capabilities` `score:0.515`
+- [[harmony-explained-progress-towards-a-scientific-theory-of-music-2012.md]] Harmony Explained: Progress Towards a Scientific Theory of Music (2012) `pillar:capabilities` `score:0.375`
 - [[harvard-edgecs249r_book.md]] harvard-edge/cs249r_book `pillar:capabilities` `score:0.58`
 - [[has-ai-already-killed-self-help-nonfiction-books.md]] Has AI already killed self-help nonfiction books? `pillar:capabilities` `score:0.445`
 - [[has-the-hunt-for-ai-compute-uncovered-the-next-cerebras.md]] Has the hunt for AI compute uncovered the next Cerebras? `pillar:capabilities` `score:0.48`
@@ -648,6 +651,7 @@
 - [[openai-is-connecting-chatgpt-to-bank-accounts-via-plaid.md]] OpenAI is connecting ChatGPT to bank accounts via Plaid `pillar:capabilities` `score:0.57`
 - [[openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models.md]] OpenAI is making it easier to check if an image was made by their models `pillar:capabilities` `score:0.48`
 - [[openai-is-still-working-on-that-super-app.md]] OpenAI is still working on that ‘super app’ `pillar:capabilities` `score:0.48`
+- [[openai-just-open-sourced-codex-security.md]] OpenAI just open-sourced Codex Security `pillar:capabilities` `score:0.445`
 - [[openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts.md]] OpenAI launches ChatGPT for personal finance, will let you connect bank accounts `pillar:capabilities` `score:0.48`
 - [[openai-launches-its-new-family-of-models-with-gpt-56.md]] OpenAI launches its new family of models with GPT-5.6 `pillar:capabilities` `score:0.48`
 - [[openai-limits-gpt-56-rollout-after-government-request-says-restrictions-shouldnt.md]] OpenAI limits GPT-5.6 rollout after government request, says restrictions should `pillar:capabilities` `score:0.48`
@@ -1031,6 +1035,7 @@
 - [[ultralytics-yolo26-unified-real-time-end-to-end-vision-models.md]] Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models `pillar:capabilities` `score:0.33`
 - [[ultralyticsyolov5.md]] ultralytics/yolov5 `pillar:capabilities` `score:0.615`
 - [[ultrasound-imaging-of-the-brain.md]] Ultrasound Imaging of the Brain `pillar:capabilities` `score:0.345`
+- [[una-gps-smart-watch-repairable-usb-c-charging-developer-friendly.md]] Una GPS smart watch – Repairable, USB-C charging, developer-friendly `pillar:capabilities` `score:0.46`
 - [[under-federal-rule-colleges-must-leave-grads-better-off-or-lose-financial-aid.md]] Under federal rule, colleges must leave grads better off or lose financial aid `pillar:capabilities` `score:0.325`
 - [[unified-controllable-and-faithful-text-to-cad-generation-with-llms.md]] Unified Controllable and Faithful Text-to-CAD Generation with LLMs `pillar:capabilities` `score:0.345`
 - [[united-airlines-767-returns-to-newark-after-bluetooth-name-sparks-alert.md]] United Airlines 767 returns to Newark after Bluetooth name sparks alert `pillar:capabilities` `score:0.455`
@@ -2343,6 +2348,7 @@
 - [[lutzroedernetron.md]] lutzroeder/netron `pillar:ecosystem` `score:0.58`
 - [[mathematicians-issue-warning-as-ai-rapidly-gains-ground.md]] Mathematicians issue warning as AI rapidly gains ground `pillar:ecosystem` `score:0.515`
 - [[mayor-mamdani-says-landlords-cant-use-ai-images-to-advertise.md]] Mayor Mamdani Says Landlords Can't Use AI Images to Advertise `pillar:ecosystem` `score:0.6`
+- [[mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea.md]] MCP startup Runlayer accuses Rippling of stealing its product idea `pillar:ecosystem` `score:0.48`
 - [[mempalacemempalace.md]] MemPalace/mempalace `pillar:ecosystem` `score:0.63`
 - [[meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers.md]] Meta Keeps Delaying the Release of Its New AI Model to Developers `pillar:ecosystem` `score:0.295`
 - [[meta-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-in.md]] Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come `pillar:ecosystem` `score:0.48`
@@ -2373,6 +2379,7 @@
 - [[new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions.md]] New Microsoft tool lets devs spin up AI behavior tests using text descriptions `pillar:ecosystem` `score:0.48`
 - [[norway-imposes-near-ban-on-ai-in-elementary-school.md]] Norway imposes near ban on AI in elementary school `pillar:ecosystem` `score:0.445`
 - [[notion-restores-access-to-anthropic-after-service-disruption.md]] Notion restores access to Anthropic after service disruption `pillar:ecosystem` `score:0.445`
+- [[now-is-the-time-to-give-llms-access-to-the-acm-digital-library.md]] Now Is the Time to Give LLMs Access to the ACM Digital Library `pillar:ecosystem` `score:0.515`
 - [[nsa-and-ietf-fairness.md]] NSA and IETF: Fairness `pillar:ecosystem` `score:0.495`
 - [[nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups.md]] Nvidia posts another record quarter, reveals $43 billion of holdings in startups `pillar:ecosystem` `score:0.48`
 - [[nvidia-wants-to-cut-data-center-water-use-but-that8217s-not-the-same-as-fixing-a.md]] Nvidia wants to cut data center water use, but that&#8217;s not the same as fixi `pillar:ecosystem` `score:0.445`
@@ -2442,6 +2449,7 @@
 - [[show-hn-bash4llm-a-lightweight-dependency-free-bash-wrapper-for-llm-apis.md]] Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs `pillar:ecosystem` `score:0.26`
 - [[show-hn-bastion-isolated-linux-vms-for-background-coding-agents.md]] Show HN: Bastion – isolated Linux VMs for background coding agents `pillar:ecosystem` `score:0.33`
 - [[show-hn-claw-patrol-a-security-firewall-for-agents.md]] Show HN: Claw Patrol, a security firewall for agents `pillar:ecosystem` `score:0.33`
+- [[show-hn-cynative-read-only-cli-in-go-that-explains-your-live-infrastructure.md]] Show HN: Cynative – Read-only CLI in Go that explains your live infrastructure `pillar:ecosystem` `score:0.26`
 - [[show-hn-explore-color-palettes-inspired-by-3000-m.md]] Show HN: Explore color palettes inspired by 3000 master painter artworks `pillar:ecosystem` `score:0.45`
 - [[show-hn-fortress-a-stealth-chromium-so-your-agents-stop-getting-blocked.md]] Show HN: Fortress – a stealth Chromium so your agents stop getting blocked `pillar:ecosystem` `score:0.38`
 - [[show-hn-freeport-a-p2p-ride-hailing-marketplace-i-built-on-nostr.md]] Show HN: Freeport – a P2P ride-hailing marketplace I built on Nostr `pillar:ecosystem` `score:0.295`
@@ -2903,6 +2911,7 @@
 - [[report-google-and-spacex-in-talks-to-put-data-cen.md]] Report: Google and SpaceX in talks to put data centers into orbit `pillar:business` `score:0.305`
 - [[riding-an-ai-rally-robinhood-preps-second-retail.md]] Riding an AI rally, Robinhood preps second retail venture IPO `pillar:business` `score:0.305`
 - [[robinhood8217s-note-on-10-layoffs-shows-blaming-ai-isn8217t-cutting-it.md]] Robinhood&#8217;s note on 10% layoffs shows blaming AI isn&#8217;t cutting it `pillar:business` `score:0.445`
+- [[sam-altman-is-ready-to-decelerate.md]] Sam Altman is ready to decelerate `pillar:business` `score:0.48`
 - [[sam-altmans-business-dealings-under-gop-scrutiny-ahead-of-openais-ipo.md]] Sam Altman's Business Dealings Under GOP Scrutiny Ahead of OpenAI's IPO `pillar:business` `score:0.495`
 - [[sam-bankman-fried-loses-bid-to-appeal-against-fraud-conviction-in-ftx-case.md]] Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case `pillar:business` `score:0.22`
 - [[samsung-chip-workers-will-get-an-average-340k-bonus-as-ai-profits-soar.md]] Samsung chip workers will get an average $340k bonus as AI profits soar `pillar:business` `score:0.395`
