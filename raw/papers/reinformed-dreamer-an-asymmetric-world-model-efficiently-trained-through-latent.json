@@ -1,0 +1,30 @@
+{
+  "title": "Reinformed Dreamer: An Asymmetric World Model Efficiently Trained through Latent Guidance",
+  "summary": "Much like humans benefit from guidance while learning, reinforcement learning algorithms may benefit from additional supervision beyond rewards. Leveraging additional information during training to learn better representations and behaviors has been the focus of asymmetric reinforcement learning. This learning paradigm has proven effective under partial observability when additional state information is available, but also under full observability when more refined state information is available. Focusing on model-based reinforcement learning, we study the effect of asymmetric learning on observation representations and on privileged information representations. First, we identify a limitation in the privileged information representations learned by an asymmetric model-based algorithm known as the Informed Dreamer. Then, we propose a novel asymmetric representation learning objective using latent guidance, resulting in a new algorithm called the Reinformed Dreamer. Experiments across several benchmarks show a more consistent improvement over Dreamer than previous asymmetric approaches.",
+  "url": "http://arxiv.org/abs/2607.26040v1",
+  "authors": [
+    "Gaspard Lambrechts",
+    "Adrien Bolland",
+    "Daniel Ebi",
+    "Damien Ernst"
+  ],
+  "published": "2026-07-28T17:49:29Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "vision",
+    "training"
+  ],
+  "summary_cn": "该论文提出一种名为 Reinformed Dreamer 的不对称世界模型训练方法，通过引入潜在指导（Latent Guidance）作为奖励之外的额外监督信号，高效地学习更好的状态表示和行为策略。该方法模仿人类学习过程中的引导机制，降低对纯奖励信号的依赖，提升样本效率和模型泛化能力。技术要点在于利用不对称架构在训练阶段注入先验知识，从而加速强化学习收敛。商业价值体现在可降低 AI 系统（如机器人、游戏、自动驾驶）的训练成本，缩短部署周期。产品创新方面，潜在指导机制为AI产品提供了更灵活的策略学习范式，尤其适用于复杂环境中的任务自适应。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Asymmetric Reinforcement Learning",
+    "World Model",
+    "Latent Guidance"
+  ],
+  "entities": [],
+  "patterns": [
+    "Model-based RL with Auxiliary Supervision"
+  ]
+}

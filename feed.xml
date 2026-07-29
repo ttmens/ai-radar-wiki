@@ -5,13 +5,29 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 28 Jul 2026 20:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 04:00:52 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Discovering Cryptographic Weaknesses with Claude</title>
+      <link>https://news.ycombinator.com/item?id=49087091</link>
+      <guid isPermaLink="false">discovering-cryptographic-weaknesses-with-claude</guid>
+      <pubDate>2026-07-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了使用Claude（Anthropic的AI模型）主动发现加密算法中潜在弱点的能力。通过系统性地分析密码学实现，Claude能够识别出人类专家可能忽略的漏洞模式，从而提升安全审计的效率与覆盖率。对AI产品经理而言，这展示了AI在专业安全领域的应用潜力，可加速安全评估流程、降低人力成本，并催生新型AI辅助安全工具。商业价值体现在减少安全事件损失、增强企业合规性，而产品创新方向包括打造自动化密码学审核助手。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Now Is the Time to Give LLMs Access to the ACM Digital Library</title>
+      <link>https://news.ycombinator.com/item?id=49084987</link>
+      <guid isPermaLink="false">now-is-the-time-to-give-llms-access-to-the-acm-digital-library</guid>
+      <pubDate>2026-07-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文认为现在是让大语言模型（LLM）接入ACM数字图书馆的适当时机。ACM数字图书馆是全球计算机科学文献的核心资源，LLM通过检索该库中的高质量论文和会议记录，可显著提升生成内容的准确性和领域深度。这种集成方案能有效减少模型幻觉，增强对前沿技术问题的回答能力，尤其适合科研辅助、文献综述和代码生成等场景。对AI产品经理而言，这意味着可以构建更可信的学术型AI助手，利用权威知识源提升产品竞争力，并探索与学术出版机构的新型合作模式。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
     <item>
       <title>Data centers may face temporary power cuts to prevent blackouts on largest US gr</title>
       <link>https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/</link>
@@ -27,6 +43,46 @@
       <pubDate>2026-07-29T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Google推出的Beyond Zero是企业级AI安全解决方案，专为应对AI时代的新型威胁设计。它整合了AI驱动的威胁检测、数据隐私保护和合规管理能力，帮助企业保护其AI工作负载和敏感数据。产品创新在于将零信任架构与AI模型生命周期管理相结合，支持实时监控和自适应策略调整，降低AI应用风险。商业价值体现在为企业提供一站式安全底座，加速AI部署，同时满足监管要求，提升客户信任度。</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>MCP startup Runlayer accuses Rippling of stealing its product idea</title>
+      <link>https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/</link>
+      <guid isPermaLink="false">mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea</guid>
+      <pubDate>2026-07-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Runlayer是一家专注于MCP（模型上下文协议）网关产品的初创公司，在向Rippling展示其产品原型后，Rippling决定自行开发类似功能，而非合作或收购。Runlayer因此起诉Rippling窃取产品创意，凸显了AI生态中初创公司与大型平台合作时的知识产权风险。该事件提醒AI产品经理：在生态合作中需提前界定IP归属，评估大公司“评估后自建”的竞争威胁，并考虑通过专利、非公开协议（NDA）或快速迭代建立护城河。</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Sam Altman is ready to decelerate</title>
+      <link>https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/</link>
+      <guid isPermaLink="false">sam-altman-is-ready-to-decelerate</guid>
+      <pubDate>2026-07-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Sam Altman 在经历一次深刻的安全事件后，表态将放缓 AI 发展节奏。这标志着 OpenAI 从高速扩张转向更审慎的部署策略，强调安全优先。对 AI 产品经理而言，这意味着未来产品迭代可能更注重稳定性和伦理合规，而非单纯追求能力突破。商业上，减速可能影响市场先发优势，但有助于建立用户信任，推动负责任的 AI 商业化。产品创新方向或转向可控性、对齐技术和差异化体验。</p></description>
+      <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Bot-detection startup Spur nabs $200M from Insight</title>
+      <link>https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/</link>
+      <guid isPermaLink="false">bot-detection-startup-spur-nabs-200m-from-insight</guid>
+      <pubDate>2026-07-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Spur Intelligence 获得 Insight Partners 2 亿美元融资，其核心技术是高效区分真实人类与机器流量（Bot Detection）。该技术可应用于反欺诈、广告验证、网络安全等领域，帮助平台过滤自动化攻击和虚假流量。此次大额融资反映了市场对精准流量识别能力的强烈需求，以及 AI 在网络安全防护中的商业价值。产品创新点在于实时分析用户行为模式，降低误判率，并支持大规模部署。对于 AI 产品经理，该案例展示了“能力型创业”的典型路径：聚焦单一但关键的底层技术，通过融资快速占领市场。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Una GPS smart watch – Repairable, USB-C charging, developer-friendly</title>
+      <link>https://news.ycombinator.com/item?id=49084813</link>
+      <guid isPermaLink="false">una-gps-smart-watch-repairable-usb-c-charging-developer-friendly</guid>
+      <pubDate>2026-07-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>Una GPS智能手表主打可修复设计、USB-C充电和开发者友好特性，突破传统智能硬件封闭生态。可修复性降低电子垃圾与用户更换成本，符合可持续消费趋势；USB-C接口统一充电标准提升便利性；开发者友好接口（如开放SDK/API）允许第三方定制功能，为AI模型在穿戴设备上的边缘部署、健康监测算法优化等提供灵活扩展空间。商业价值在于差异化竞争与长尾市场，产品创新聚焦用户自主权与社区共创，潜在推动AI可穿戴应用生态发展。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>OpenAI just open-sourced Codex Security</title>
+      <link>https://news.ycombinator.com/item?id=49089755</link>
+      <guid isPermaLink="false">openai-just-open-sourced-codex-security</guid>
+      <pubDate>2026-07-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>OpenAI 近日开源了 Codex 安全组件（Codex Security），此举旨在增强 AI 代码生成工具的安全性。Codex 是 OpenAI 推出的代码生成模型，其安全版本的开源意味着开发者可以直接使用、审查和定制这部分代码，从而在构建 AI 编程助手时更有效地防范安全漏洞、注入攻击等风险。对产品经理而言，这一动作降低了安全合规门槛，加速了企业级代码助手产品的落地；同时也体现了 OpenAI 以开放生态策略扩大技术影响力，推动行业安全标准。商业上，开源可吸引更多贡献者，提升 Codex 生态的活跃度与信任度，为后续商业化服务引流。</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Fish Audio raises $52M seed to build AI voice models for creators and enterprise</title>
@@ -77,6 +133,14 @@
       <category>💰 商业趋势</category>
     </item>
     <item>
+      <title>Harmony Explained: Progress Towards a Scientific Theory of Music (2012)</title>
+      <link>https://news.ycombinator.com/item?id=49085280</link>
+      <guid isPermaLink="false">harmony-explained-progress-towards-a-scientific-theory-of-music-2012</guid>
+      <pubDate>2026-07-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文探讨了音乐和谐性的科学理论进展，从物理学、数学和认知科学角度解释为何某些音程与和弦令人愉悦。尽管发表于2012年，其理论框架对现代AI音乐生成、情感计算和音频处理产品具有启发意义——理解音乐感知的底层规则可帮助设计更自然的AI作曲工具或智能伴奏系统。产品经理可关注如何将和谐理论模型化，用于生成式AI的旋律与和声约束，或提升音乐推荐算法的用户情感匹配度。</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Show HN: BrowserAct: Browser Layer for Your AI Agent</title>
       <link>https://github.com/browser-act/skills</link>
       <guid isPermaLink="false">show-hn-browseract-browser-layer-for-your-ai-agent</guid>
@@ -115,6 +179,14 @@
       <pubDate>2026-07-29T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>Ctrlb-decompose 是一个开源工具，专注于在将日志数据发送给大语言模型（LLM）之前自动去除噪声信息。它通过智能过滤、压缩和结构化日志，显著减少 token 消耗，提升 LLM 推理效率与响应质量。对于 AI 产品经理，该工具可直接应用于日志分析、故障排查、RAG 系统的数据预处理等场景，降低运营成本并增强下游模型表现。其技术核心在于高效的数据清洗与格式转换，无需依赖特定 LLM 即可独立运行。作为底层能力组件，它有助于构建更稳定、经济的 AI 日志处理流水线。</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Cynative – Read-only CLI in Go that explains your live infrastructure</title>
+      <link>https://github.com/cynative/cynative</link>
+      <guid isPermaLink="false">show-hn-cynative-read-only-cli-in-go-that-explains-your-live-infrastructure</guid>
+      <pubDate>2026-07-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> showhn</p><hr/><p>Cynative 是一个用 Go 编写的只读命令行工具，能够实时解析并解释用户的基础设施状态（如云资源、配置）。它提供了一种轻量级、无需写权限的方式来理解复杂的基础设施拓扑和配置细节，适合运维和开发团队快速排查问题或获取文档。该工具强调安全性与便捷性，通过 CLI 交互降低学习成本，可能集成了静态分析或模式匹配能力，但未明确提及 AI。其商业价值在于减少手动查阅文档的时间，提升基础设施的可解释性，尤其适用于微服务和多云环境。</p></description>
+      <category>🔧 工具生态</category>
     </item>
     <item>
       <title>Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules</title>
@@ -219,6 +291,100 @@ Grok 4.7 will be the 2.1T model released a few weeks later. This will be better 
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>Give it a read: https://t.co/Rq4O3xRHdL</title>
+      <link>https://x.com/ylecun/status/2082160278683213960</link>
+      <guid isPermaLink="false">twitter_ylecun_2082160278683213960</guid>
+      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Give it a read: https://t.co/Rq4O3xRHdL</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>I wrote about why we believe the future is for everyone. More coming about a positive vision for a w...</title>
+      <link>https://x.com/ylecun/status/2082160210399948869</link>
+      <guid isPermaLink="false">twitter_ylecun_2082160210399948869</guid>
+      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>I wrote about why we believe the future is for everyone. More coming about a positive vision for a world with superintelligence soon.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Fifteen years ago, @Coursera and online courses changed education. It worked better than almost anyo...</title>
+      <link>https://x.com/AndrewYNg/status/2082199333920027009</link>
+      <guid isPermaLink="false">twitter_AndrewYNg_2082199333920027009</guid>
+      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Fifteen years ago, @Coursera and online courses changed education. It worked better than almost anyone expected, expanding access by opening up where you can learn. But how you learn remains largely the same as it has for centuries: it is still one-size-fits-all, taught the same way to each person w</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>A good read from Mark. Establishing a frontier ecosystem that empowers people and orgs everywhere is...</title>
+      <link>https://x.com/satyanadella/status/2082177964675133931</link>
+      <guid isPermaLink="false">twitter_satyanadella_2082177964675133931</guid>
+      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>A good read from Mark. Establishing a frontier ecosystem that empowers people and orgs everywhere is what we collectively need to build together.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo...</title>
+      <link>https://x.com/OpenAI/status/2082208694142730340</link>
+      <guid isPermaLink="false">twitter_OpenAI_2082208694142730340</guid>
+      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>At the core of our mission is working through how to ensure increasingly powerful AI benefits everyone. 
+
+We believe that, at some point in the future, AI acceleration for frontier model development may be so high that the world will need to pace the rate of AI advancement. 
+
+We hope to contribute t</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Coding agents are helping scientists spend more time advancing research, taking on everything from r...</title>
+      <link>https://x.com/OpenAI/status/2082152074071228702</link>
+      <guid isPermaLink="false">twitter_OpenAI_2082152074071228702</guid>
+      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Coding agents are helping scientists spend more time advancing research, taking on everything from routine maintenance and targeted optimization to complete redesigns and new systems.
+
+While agents can reliably execute on ambitious projects, researchers must still define the scientific questions, ve</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>We're opening applications for the OpenAI Student Collective—a program for undergraduate Campus Lead...</title>
+      <link>https://x.com/OpenAI/status/2082146058017321257</link>
+      <guid isPermaLink="false">twitter_OpenAI_2082146058017321257</guid>
+      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>We're opening applications for the OpenAI Student Collective—a program for undergraduate Campus Leads bringing AI innovation to their campuses.
+
+Campus Leads will work directly with OpenAI and receive hands-on training, funding, credits, swag, and access to a global community of peers.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>New Anthropic research: Discovering cryptographic weaknesses with Claude.
+
+Claude Mythos Preview has...</title>
+      <link>https://x.com/AnthropicAI/status/2082153297670992134</link>
+      <guid isPermaLink="false">twitter_AnthropicAI_2082153297670992134</guid>
+      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>New Anthropic research: Discovering cryptographic weaknesses with Claude.
+
+Claude Mythos Preview has helped our researchers find weaknesses in cryptographic algorithms—the mathematical methods that are used to keep data private.
+
+Read more: https://t.co/TYKLjb3Q7V</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>The first autonomous agent cyberattack is an unprecedented event that deserves unprecedented transpa...</title>
+      <link>https://x.com/huggingface/status/2082201245813514613</link>
+      <guid isPermaLink="false">twitter_huggingface_2082201245813514613</guid>
+      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>The first autonomous agent cyberattack is an unprecedented event that deserves unprecedented transparency. Today we’re sharing everything we can: a full technical timeline, an interactive replay, and how we used an open model to defend ourselves, so defenders everywhere can learn from it and prepare</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>The first autonomous agent cyberattack is an unprecedented event that deserves unprecedented transpa...</title>
+      <link>https://x.com/_akhaliq/status/2082201245813514613</link>
+      <guid isPermaLink="false">twitter__akhaliq_2082201245813514613</guid>
+      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 1.0/10</p><p><strong>类型:</strong> tweet</p><hr/><p>The first autonomous agent cyberattack is an unprecedented event that deserves unprecedented transparency. Today we’re sharing everything we can: a full technical timeline, an interactive replay, and how we used an open model to defend ourselves, so defenders everywhere can learn from it and prepare</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Looking forward to more integration with X
 -Direct messages should have a quick send/request
 -Group ...</title>
@@ -270,6 +436,14 @@ Finally found a category where Gemini excels!</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>When SceniX joined World Labs, we said spatial intelligence was never only about perceiving and gene...</title>
+      <link>https://x.com/drfeifei/status/2082137335052075298</link>
+      <guid isPermaLink="false">twitter_drfeifei_2082137335052075298</guid>
+      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.8/10</p><p><strong>类型:</strong> tweet</p><hr/><p>When SceniX joined World Labs, we said spatial intelligence was never only about perceiving and generating virtual and physical worlds, but also interacting with them. Today, we’re sharing early results from that vision: building worlds that train robots. 🌎🤖↓ https://t.co/U0UKE5nmZN</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>incidentally, $ per input/output tokens died as a relevant cost measure sometime last year
 
 if you h...</title>
@@ -287,216 +461,6 @@ if you haven’t updated your x axes to $/task per @ArtificialAnlys then idk if 
       <guid isPermaLink="false">twitter__akhaliq_2082100165305835576</guid>
       <pubDate>2026-07-28T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>K3 already got in the top 5 most liked models of all time on Hugging Face, just 24 hours after being released! Ahead of Llama 3, Whisper and many other great models. Incredible! https://t.co/gAwIBLCxJt</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>StateAct
-
-Program State, before Pixels, for Long-Horizon Computer-Use Agents
-
-paper: https://t.co/zo...</title>
-      <link>https://x.com/_akhaliq/status/2081921773910499494</link>
-      <guid isPermaLink="false">twitter__akhaliq_2081921773910499494</guid>
-      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>StateAct
-
-Program State, before Pixels, for Long-Horizon Computer-Use Agents
-
-paper: https://t.co/zoRp9WfYsq https://t.co/BBSSxFCX1e</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Seedance 2.5 is coming soon to Runway. https://t.co/zJYCZQUFsq</title>
-      <link>https://x.com/runwayml/status/2082112674666529224</link>
-      <guid isPermaLink="false">twitter_runwayml_2082112674666529224</guid>
-      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Seedance 2.5 is coming soon to Runway. https://t.co/zJYCZQUFsq</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>@ArtificialAnlys i love you @Kimi_Moonshot https://t.co/4lLeh8OHbH</title>
-      <link>https://x.com/swyx/status/2081979163117052311</link>
-      <guid isPermaLink="false">twitter_swyx_2081979163117052311</guid>
-      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>@ArtificialAnlys i love you @Kimi_Moonshot https://t.co/4lLeh8OHbH</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Go ahead and ask yourself, really ask yourself, if all these confident predictors are wrong about jo...</title>
-      <link>https://x.com/ylecun/status/2082021921567187010</link>
-      <guid isPermaLink="false">twitter_ylecun_2082021921567187010</guid>
-      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.7/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Go ahead and ask yourself, really ask yourself, if all these confident predictors are wrong about jobs and not training radiologists anymore and fast take offs, what else are they wrong about?
-
-Then ask yourself: How is it that someone can be so smart in one area of life and/or know so much about AI</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>AI companies are shredding rare books</title>
-      <link>https://news.ycombinator.com/item?id=49068738</link>
-      <guid isPermaLink="false">ai-companies-are-shredding-rare-books</guid>
-      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>标题指出AI公司正在销毁稀有书籍，可能涉及为训练数据采集而销毁实体书籍（如扫描后物理销毁），或为规避版权诉讼而清除版权作品。这引发对训练数据合法性、伦理和稀缺性的关注：AI产品经理需平衡数据规模与合规风险，思考替代数据源（如公有领域内容、合成数据），并警惕法律纠纷对产品迭代的冲击。此事件也反映AI行业在数据采集上的激进策略，可能催生更严格的版权保护和数据溯源机制。</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Our position on open-weights models</title>
-      <link>https://news.ycombinator.com/item?id=49076057</link>
-      <guid isPermaLink="false">our-position-on-open-weights-models</guid>
-      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>本文阐述了对开源权重模型的立场。技术要点在于开源权重模型允许开发者自由访问和修改模型参数，但可能带来安全与滥用风险。商业价值上，开源权重可降低AI部署门槛，促进社区创新，但企业需权衡开放性与合规性。产品创新方面，这类模型支持本地化部署、定制优化，适合隐私敏感场景。PM应关注模型选型策略、许可条款及社区生态。</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Training Agents 3: Learn how to do train a local/ open weight agent with  reinforcement learning htt...</title>
-      <link>https://x.com/huggingface/status/2082122787880333596</link>
-      <guid isPermaLink="false">twitter_huggingface_2082122787880333596</guid>
-      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Training Agents 3: Learn how to do train a local/ open weight agent with  reinforcement learning https://t.co/HKpiDR7iXG</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Alibaba's Qwen Team's new paper. Skill Self-Play turns agent skills into a training-time curriculum ...</title>
-      <link>https://x.com/TheAIGRID/status/2081939149758890249</link>
-      <guid isPermaLink="false">twitter_TheAIGRID_2081939149758890249</guid>
-      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Alibaba's Qwen Team's new paper. Skill Self-Play turns agent skills into a training-time curriculum engine.
-
-Attacks a crucial problem: when an AI creates its own training tasks, it either stays inside narrow, easy-to-check environments or generates lots of bad and unreliable tasks.
-
-Their solution </p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Skip the transcript. Embed and retrieve the audio itself.
-
-This notebook shows you how to do it with...</title>
-      <link>https://x.com/weaviate_io/status/2082118911776948673</link>
-      <guid isPermaLink="false">twitter_weaviate_io_2082118911776948673</guid>
-      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Skip the transcript. Embed and retrieve the audio itself.
-
-This notebook shows you how to do it with Weaviate and @GoogleDeepMind's Gemini in a few simple steps:
-
-• Split raw audio into overlapping chunks
-• Create multimodal embeddings with Gemini Embedding 2
-• Store and search the audio in Weaviate</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>What's the oldest side project you still haven't shipped?</title>
-      <link>https://x.com/supabase/status/2082112592332411284</link>
-      <guid isPermaLink="false">twitter_supabase_2082112592332411284</guid>
-      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>What's the oldest side project you still haven't shipped?</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>who's working on an NVFP4 version of Kimi-K3?</title>
-      <link>https://x.com/_akhaliq/status/2082088729649316274</link>
-      <guid isPermaLink="false">twitter__akhaliq_2082088729649316274</guid>
-      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>who's working on an NVFP4 version of Kimi-K3?</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Microsoft just released Mage-VL on Hugging Face
-
-A codec-native, proactive-streaming multimodal foun...</title>
-      <link>https://x.com/_akhaliq/status/2082109427197383069</link>
-      <guid isPermaLink="false">twitter__akhaliq_2082109427197383069</guid>
-      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Microsoft just released Mage-VL on Hugging Face
-
-A codec-native, proactive-streaming multimodal foundation model for image and video understanding. https://t.co/aEYEkqL6AK</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Thank @_akhaliq for sharing our work! We believe code/program makes life easier for most of CUA task...</title>
-      <link>https://x.com/_akhaliq/status/2082086682543980690</link>
-      <guid isPermaLink="false">twitter__akhaliq_2082086682543980690</guid>
-      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Thank @_akhaliq for sharing our work! We believe code/program makes life easier for most of CUA tasks!</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>JarvisHub: Open Canvas-Native Multimodal Creative Agents
-
-Unlike one-shot prompt-based tools or chat...</title>
-      <link>https://x.com/_akhaliq/status/2082083451142885791</link>
-      <guid isPermaLink="false">twitter__akhaliq_2082083451142885791</guid>
-      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>JarvisHub: Open Canvas-Native Multimodal Creative Agents
-
-Unlike one-shot prompt-based tools or chatbot agents, JarvisHub turns an editable canvas into a shared project state where users and agents collaborate. Natively supports images, videos, websites, and presentations. https://t.co/4vFRaPOvs3</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>@latentspacepod @ProfCalNewport @tbpn @gruber @ricmac how the newsletter side is going https://t.co/...</title>
-      <link>https://x.com/swyx/status/2082131811715756099</link>
-      <guid isPermaLink="false">twitter_swyx_2082131811715756099</guid>
-      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>@latentspacepod @ProfCalNewport @tbpn @gruber @ricmac how the newsletter side is going https://t.co/fwv9DnVHgW</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>to argue against myself both @bcherny and @trq212 are consistently "unhobble the model, delete every...</title>
-      <link>https://x.com/swyx/status/2082104987875004713</link>
-      <guid isPermaLink="false">twitter_swyx_2082104987875004713</guid>
-      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>to argue against myself both @bcherny and @trq212 are consistently "unhobble the model, delete everything, let the model express itself" guys so perhaps this is actually quite consistent with how you are supposed to treat an agent harness
-
-https://t.co/wsT8aVQJlQ</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Who’s writing your story 
-in the age of AI? 
-
-@JohnNosta names the ghost.
-
-https://t.co/swC1VUKhwp h...</title>
-      <link>https://x.com/JohnNosta/status/2082133934100406724</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2082133934100406724</guid>
-      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Who’s writing your story 
-in the age of AI? 
-
-@JohnNosta names the ghost.
-
-https://t.co/swC1VUKhwp https://t.co/4VNIWaT45g</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>🚨What happens when we surrender the thought before we've even had it?
-
-👉 Ghost Thought—A Ghostwriter...</title>
-      <link>https://x.com/JohnNosta/status/2082123268396339684</link>
-      <guid isPermaLink="false">twitter_JohnNosta_2082123268396339684</guid>
-      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>🚨What happens when we surrender the thought before we've even had it?
-
-👉 Ghost Thought—A Ghostwriter for the Mind, Not the Page 
-
-https://t.co/pJNsr95j0v</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Feature logic often gets rebuilt across experimentation, training, and serving, creating duplicated ...</title>
-      <link>https://x.com/databricks/status/2082108591662588336</link>
-      <guid isPermaLink="false">twitter_databricks_2082108591662588336</guid>
-      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> tweet</p><hr/><p>Feature logic often gets rebuilt across experimentation, training, and serving, creating duplicated code, training-serving skew, and more infrastructure to operate.
-
-Feature Views give teams one managed definition for experimentation, training, batch inference, and real-time serving. Databricks gene</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>MAI-Cyber-1-Flash inside MDASH</title>
-      <link>https://news.ycombinator.com/item?id=49072361</link>
-      <guid isPermaLink="false">mai-cyber-1-flash-inside-mdash</guid>
-      <pubDate>2026-07-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.6/10</p><p><strong>类型:</strong> hn</p><hr/><p>MAI-Cyber-1-Flash 是一个新型AI能力模块，嵌入在MDASH框架内，主要提升模型在处理长序列或实时交互场景下的效率与响应速度。该技术通过优化注意力机制和内存管理，降低了计算成本，适合在边缘设备或资源受限环境中部署。对于AI产品经理而言，这意味着可以开发更流畅的对话助手或实时分析工具，同时减少基础设施投入。商业价值体现在降低延迟、扩大应用场景，尤其适合需要持续上下文理解的产品。</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>

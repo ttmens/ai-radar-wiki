@@ -1,0 +1,21 @@
+{
+  "title": "Truth is not a direction: a Tarski attack on LLM probes",
+  "score": 37,
+  "comments": 10,
+  "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
+  "hn_url": "https://news.ycombinator.com/item?id=49069033",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "本文提出对 LLM 探测方法（probes）的批判，基于塔尔斯基（Tarski）真值理论，指出当前探测技术无法准确提取模型中的真实知识。研究表明，探测方法往往只学到方向性映射而非实质真值，导致对模型内部表示的误解。这一发现对模型可解释性和可靠性评估具有重要影响，提示产品经理在采用探测技术进行模型诊断或内容审核时需谨慎，避免过度依赖当前方法。",
+  "pm_relevance": 7,
+  "concepts": [
+    "模型可解释性",
+    "探测方法",
+    "真值理论"
+  ],
+  "entities": [],
+  "patterns": [
+    "探测模式"
+  ]
+}

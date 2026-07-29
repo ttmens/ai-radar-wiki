@@ -1,0 +1,32 @@
+{
+  "title": "Spend Experts Where You Are Unsure: Confidence-Adaptive Routing for Mixture-of-Experts LoRA",
+  "summary": "Mixture-of-Experts (MoE) variants of Low-Rank Adaptation (LoRA) route every token to a fixed number of experts $k$. Tokens differ in how uncertain the model is about them, so a single k over-spends on easy tokens and under-serves hard ones. We observe that the router's output distribution is already a per-token uncertainty signal: peaked mass indicates confidence, while a flat distribution indicates ambiguity. We introduce CARE (Confidence-Adaptive Routing of Experts), which admits experts in a nucleus fashion. Experts are activated in decreasing router weight until their cumulative mass reaches a threshold, with a small extension when the admitted experts disagree. A budget thermostat calibrates the threshold so that the average number of active experts matches any target. CARE is a drop-in, single-forward-pass rule with no extra parameters. Across eight commonsense benchmarks on LLaMA-3.1-8B and Qwen2.5-7B, as well as math, code, and knowledge tasks, CARE improves over fixed top-k MoE-LoRA at matched compute and matches the fixed-k=4 baseline while activating fewer experts. The same confidence and disagreement signals also improve out-of-distribution detection over MSP, entropy, and multi-pass proxies. We support the design with nucleus fidelity, budget optimality, and an epistemic reading of disagreement, and we release code.",
+  "url": "http://arxiv.org/abs/2607.26052v1",
+  "authors": [
+    "Tom Saliencro",
+    "Rohan Desai",
+    "Priya Nair",
+    "Maya Lindqvist",
+    "Daniel Whitmore"
+  ],
+  "published": "2026-07-28T17:59:16Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "benchmark",
+    "parameter"
+  ],
+  "summary_cn": "该论文针对混合专家（MoE）与低秩适配（LoRA）模型中固定专家数量k的局限，提出自信自适应路由方法。传统方法对所有token分配相同专家数，导致简单token浪费计算资源，困难token服务不足。论文利用路由器输出分布中隐含的不确定性信息，动态调整每个token激活的专家数量。核心创新在于根据模型对token的自信程度自适应分配计算资源，提升效率与效果。商业价值在于降低推理成本，增强模型处理复杂任务的能力，适用于需要高效调优的大模型产品场景。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Mixture-of-Experts",
+    "Low-Rank Adaptation",
+    "自适应路由"
+  ],
+  "entities": [],
+  "patterns": [
+    "MoE优化",
+    "动态资源分配"
+  ]
+}

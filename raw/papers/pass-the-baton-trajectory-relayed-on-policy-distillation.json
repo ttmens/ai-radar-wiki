@@ -1,0 +1,35 @@
+{
+  "title": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
+  "summary": "On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreliable supervision and waste compute. We identify a teacher-student continuation asymmetry on failed prefixes, where the teacher tends to redirect while the student continues along the original direction, and convert it into a label-free handoff trigger in Relay On-Policy Distillation (Relay-OPD). During training, Relay-OPD constructs relay trajectories by letting the teacher briefly take over at detected trigger points to produce a teacher leg, after which the student resumes and is optimized on the resulting trajectory. A limited relay budget concentrates intervention on critical early positions while limiting departure from the student policy. With a Qwen3-4B-Instruct-2507 teacher and Qwen3-0.6B/1.7B-Non-Thinking students on eight mathematical reasoning benchmarks, Relay-OPD achieves the best or second-best results on every benchmark, outperforming standard OPD by +5.73% and the strongest baseline FastOPD by +1.49% on average for 1.7B, with consistent gains at 0.6B. Training trajectory length is reduced by over 50%.",
+  "url": "http://arxiv.org/abs/2607.26057v1",
+  "authors": [
+    "Haolei Xu",
+    "Xiaowen Xu",
+    "Haiwen Hong",
+    "Zixuan Ni",
+    "Hongxing Li"
+  ],
+  "published": "2026-07-28T17:59:46Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "benchmark",
+    "vision",
+    "reasoning",
+    "training",
+    "distillation"
+  ],
+  "summary_cn": "该论文提出了一种名为“轨迹中继在线策略蒸馏”的方法，旨在解决传统在线策略蒸馏中因学生模型推理方向错误导致后续生成偏离的问题。通过在中继阶段引入教师模型的正确轨迹引导，有效避免了前缀失败，提高了学生模型在推理任务中的准确性和可靠性。该技术对于提升小模型的推理能力、降低部署成本具有潜在商业价值，尤其适用于需要高效精确推理的场景。",
+  "pm_relevance": 6,
+  "concepts": [
+    "On-Policy Distillation",
+    "Trajectory Relaying",
+    "Prefix Failure Mitigation"
+  ],
+  "entities": [],
+  "patterns": [
+    "Knowledge Distillation",
+    "Self-Correcting Trajectory"
+  ]
+}

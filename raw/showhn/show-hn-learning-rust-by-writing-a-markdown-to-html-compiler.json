@@ -1,0 +1,20 @@
+{
+  "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
+  "score": 11,
+  "comments": 3,
+  "url": "https://andreadimatteo.com/md-to-html-compiler.html",
+  "hn_url": "https://news.ycombinator.com/item?id=49092151",
+  "tag": "ShowHN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该项目是一个用Rust语言编写的Markdown转HTML编译器，旨在通过实践学习Rust。虽然不直接涉及AI，但编译器设计模式（如词法分析、语法树构建）与AI中自然语言处理的解析技术有共通之处。对于AI产品经理而言，理解底层工具链（如Rust的高性能）有助于评估AI系统的部署效率，但产品创新和商业价值有限。",
+  "pm_relevance": 3,
+  "concepts": [
+    "Compiler Design",
+    "Rust Programming"
+  ],
+  "entities": [],
+  "patterns": [
+    "Learning by Building"
+  ]
+}

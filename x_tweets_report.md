@@ -1,6 +1,6 @@
 # X/Twitter AI KOL 动态
 
-抓取时间: 2026-07-28 21:01:13
+抓取时间: 2026-07-29 09:01:28
 
 
 ## @sama (5 条)
@@ -33,43 +33,43 @@
 
 ## @AndrewYNg (5 条)
 
-1. **Good move by @JensenHuang. The Nvidia letter is well written and worth reading. As we saw with the OpenAI-Hugging Face hack, we need open models and harnesses for defense.   Lets stop believing the PR**
+1. **Fifteen years ago, @Coursera and online courses changed education. It worked better than almost anyone expected, expanding access by opening up where you can learn. But how you learn remains largely t**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **Announcing OpenWorker! An open-source agent that doesn't just chat with you, but delivers finished work -- like hand you a polished document, send a slack message, or update a calendar entry.  Ask it **
+2. **Good move by @JensenHuang. The Nvidia letter is well written and worth reading. As we saw with the OpenAI-Hugging Face hack, we need open models and harnesses for defense.   Lets stop believing the PR**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **New course: Build LLM applications that respond to user requests quickly by running on hardware designed for fast inference. This short course was built with  @Cerebras and taught by @zhennydez, @duer**
+3. **Announcing OpenWorker! An open-source agent that doesn't just chat with you, but delivers finished work -- like hand you a polished document, send a slack message, or update a calendar entry.  Ask it **
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
 ## @ylecun (5 条)
 
-1. **Go ahead and ask yourself, really ask yourself, if all these confident predictors are wrong about jobs and not training radiologists anymore and fast take offs, what else are they wrong about?  Then a**
+1. **Give it a read: https://t.co/Rq4O3xRHdL**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **Catalog of incorrect AI predictions.  Doomers from the rationalist cosplay community are left out, presumably because their predictions have a near 100% failure rate.  When people proudly proclaim tha**
+2. **I wrote about why we believe the future is for everyone. More coming about a positive vision for a world with superintelligence soon.**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **Music-JEPA: Learning a World Model of Sound from Action  "we propose to learn a world model of piano sound using JEPA by framing  music as an action-conditioned system: the audio is treated as the  st**
+3. **Go ahead and ask yourself, really ask yourself, if all these confident predictors are wrong about jobs and not training radiologists anymore and fast take offs, what else are they wrong about?  Then a**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
 ## @elonmusk (5 条)
 
-1. **A throwback to Elon Musk walking through the engineering behind Falcon 9’s payload fairing  Explaining the massive carbon-composite structure… large enough to fit a full-size city bus inside  Early Sp**
+1. **We’re sending a ship out to recover Starship**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-2. **Common sense**
+2. **Landing videos of Starship**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 
-3. **2002-2004: Software guy thinks he can build rockets and cars  2016: Car guy thinks he can do brain surgery  2018: American guy thinks he can build factory in China  2022: Hardware guy thinks he can do**
+3. **Stayin’ Alive**
    - 👍 0 | 🔁 0 | 📅 
    - 🔗 
 

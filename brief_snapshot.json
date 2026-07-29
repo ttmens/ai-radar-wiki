@@ -1,7 +1,7 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T06:01:48.210331+08:00",
-  "item_count": 21,
+  "generated_at": "2026-07-29T12:02:18.268061+08:00",
+  "item_count": 36,
   "items": [
     {
       "id": "discovering-cryptographic-weaknesses-with-claude",
@@ -70,6 +70,17 @@
       "date": "2026-07-29"
     },
     {
+      "id": "cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agen",
+      "label": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI age",
+      "summary": "Cyera以10亿美元收购Oasis Security，这是其今年的第三笔收购。此举旨在加强AI代理（AI Agent）的安全防护，应对日益增长的AI代理部署带来的安全挑战。对于AI产品经理而言，该交易凸显了AI代理安全领域的巨大商业价值——随着企业大规模采用AI代理，数据访问控制、身份认证和权限管理等安全机制成为关键需求。Cyera通过整合Oasis的安全能力，可能推出面向AI代理的零信任安全解决方案，形成从数据安全到代理安全的产品矩阵，加速企业AI治理的落地。",
+      "pm_score": 0.48,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "date": "2026-07-29"
+    },
+    {
       "id": "bot-detection-startup-spur-nabs-200m-from-insight",
       "label": "Bot-detection startup Spur nabs $200M from Insight",
       "summary": "Spur Intelligence 获得 Insight Partners 2 亿美元融资，其核心技术是高效区分真实人类与机器流量（Bot Detection）。该技术可应用于反欺诈、广告验证、网络安全等领域，帮助平台过滤自动化攻击和虚假流量。此次大额融资反映了市场对精准流量识别能力的强烈需求，以及 AI 在网络安全防护中的商业价值。产品创新点在于实时分析用户行为模式，降低误判率，并支持大规模部署。对于 AI 产品经理，该案例展示了“能力型创业”的典型路径：聚焦单一但关键的底层技术，通过融资快速占领市场。",
@@ -78,6 +89,61 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "date": "2026-07-29"
+    },
+    {
+      "id": "πmathbfr2-reactive-real-time-flow-policies",
+      "label": "$π\\mathbf{R}^2$: Reactive Real-time Flow Policies",
+      "summary": "该论文提出一种反应式实时流策略（πR²），针对当前通用操作策略中基于大预训练模型的动作块流（action-chunking）在执行时无法响应中途感官输入、缺乏反应性的问题。通过更频繁的在线重规划，恢复策略对环境变化的实时响应能力，同时保持流式架构的高效性。这一创新可显著提升机器人操作任务（如抓取、装配）的鲁棒性与适应性，在工业自动化、服务机器人等需要高反应性的场景具有商业价值。产品层面可简化模型设计，降低对精确预测的依赖，使AI在动态环境中更可靠。核心技术包括动作块流与实时重规划的融合。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.26055v1",
+      "date": "2026-07-29"
+    },
+    {
+      "id": "spend-experts-where-you-are-unsure-confidence-adaptive-routing-for-mixture-of-ex",
+      "label": "Spend Experts Where You Are Unsure: Confidence-Adaptive Routing for Mixture-of-E",
+      "summary": "该论文针对混合专家（MoE）与低秩适配（LoRA）模型中固定专家数量k的局限，提出自信自适应路由方法。传统方法对所有token分配相同专家数，导致简单token浪费计算资源，困难token服务不足。论文利用路由器输出分布中隐含的不确定性信息，动态调整每个token激活的专家数量。核心创新在于根据模型对token的自信程度自适应分配计算资源，提升效率与效果。商业价值在于降低推理成本，增强模型处理复杂任务的能力，适用于需要高效调优的大模型产品场景。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.26052v1",
+      "date": "2026-07-29"
+    },
+    {
+      "id": "parallel-decoding-distillation-for-fast-image-and-video-generation",
+      "label": "Parallel Decoding Distillation for Fast Image and Video Generation",
+      "summary": "本论文提出一种并行解码蒸馏方法（Parallel Decoding Distillation），旨在加速图像和视频扩散/流模型的生成过程。传统方法依赖变分分数蒸馏（VSD）和对抗损失将扩散模型蒸馏为少步生成模型，但计算成本仍较高。该方法通过并行解码策略，显著减少迭代步数，从而降低推理时间和计算资源消耗。对于AI产品经理而言，这意味着可以更快地生成高质量图像和视频，支持实时或近实时应用（如视频编辑、动态内容生成），并降低云端或边缘部署的算力成本，提升用户体验和产品竞争力。该方法可能推动视频生成工具从离线批处理向在线交互式转变，具有明确的商业价值。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.26004v1",
+      "date": "2026-07-29"
+    },
+    {
+      "id": "charm-a-multimodal-graph-foundation-model-with-hierarchical-context-modeling-for",
+      "label": "CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling fo",
+      "summary": "CHARM 是一种多模态图基础模型，通过层次上下文建模实现图域和任务的零样本迁移。其技术核心在于将文本、图像等多模态节点信息与图结构深度融合，构建通用知识表征，从而无需微调即可适配新场景。商业价值在于降低企业构建图应用的标注与训练成本，加速知识图谱、推荐系统等场景的落地。产品创新体现在对复杂实体关系的跨模态理解能力，为多模态AI产品提供底层基础设施。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.26023v1",
+      "date": "2026-07-29"
+    },
+    {
+      "id": "re-thinking-mammography-transfer-learning-the-dataset-informed-transfer-learning",
+      "label": "Re-thinking Mammography Transfer Learning: The Dataset-Informed Transfer Learnin",
+      "summary": "本文提出数据集感知迁移学习（DITL）框架，针对乳腺摄影筛查和病变诊断中的迁移学习问题。传统方法忽略数据集特有分布，DITL通过自适应调整预训练策略，在小型标注集和大型临床队列上均能提升分类与检测性能。该框架降低了对大规模标注数据的依赖，有望为乳腺癌早期筛查提供更精准的AI辅助工具，具有显著的临床商业价值——减少漏诊、提高筛查效率，并推动医疗影像AI产品落地。",
+      "pm_score": 0.48,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.26043v1",
       "date": "2026-07-29"
     },
     {
@@ -136,6 +202,50 @@
       "date": "2026-07-29"
     },
     {
+      "id": "reinformed-dreamer-an-asymmetric-world-model-efficiently-trained-through-latent",
+      "label": "Reinformed Dreamer: An Asymmetric World Model Efficiently Trained through Latent",
+      "summary": "该论文提出一种名为 Reinformed Dreamer 的不对称世界模型训练方法，通过引入潜在指导（Latent Guidance）作为奖励之外的额外监督信号，高效地学习更好的状态表示和行为策略。该方法模仿人类学习过程中的引导机制，降低对纯奖励信号的依赖，提升样本效率和模型泛化能力。技术要点在于利用不对称架构在训练阶段注入先验知识，从而加速强化学习收敛。商业价值体现在可降低 AI 系统（如机器人、游戏、自动驾驶）的训练成本，缩短部署周期。产品创新方面，潜在指导机制为AI产品提供了更灵活的策略学习范式，尤其适用于复杂环境中的任务自适应。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.26040v1",
+      "date": "2026-07-29"
+    },
+    {
+      "id": "mdtransformer-a-hardware-software-co-design-of-mode-division-photonic-transforme",
+      "label": "MDTransformer: A Hardware-Software Co-Design of Mode-Division Photonic Transform",
+      "summary": "该论文提出MDTransformer，一种硬件-软件协同设计的光子Transformer加速器，采用模式分复用和反向设计相干交叉开关技术，克服了现有光子加速器依赖昂贵多波长光源和大型点积的局限。相比电子加速器，它显著提升了Transformer推理的速度和能效，有望降低大规模AI模型部署的功耗和成本，对边缘计算和云端推理场景具有商业价值。产品创新在于将光学计算与协同设计结合，为AI硬件提供新思路。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.26016v1",
+      "date": "2026-07-29"
+    },
+    {
+      "id": "pictura-perspective-view-self-play-at-scale-for-driving",
+      "label": "Pictura: Perspective-View Self-Play at Scale for Driving",
+      "summary": "Pictura提出在仿真环境中利用大规模自我对弈（self-play）生成鲁棒的驾驶策略。该方法使用特权向量化观测（如精确位姿和速度）进行训练，甚至能处理被遮挡的智能体，但假设感知问题已解决，因此存在与真实感知之间的表示差距。该技术有望提升自动驾驶策略的泛化能力和训练效率，但需进一步弥合仿真与真实世界的鸿沟，对产品经理而言，关注其规模化训练潜力和鲁棒性提升的商业价值。",
+      "pm_score": 0.445,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.26005v1",
+      "date": "2026-07-29"
+    },
+    {
+      "id": "falling-behind-drives-unsafe-development-in-an-idealised-ai-race-experiment",
+      "label": "Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment",
+      "summary": "该论文通过理想化的AI竞赛实验模型，揭示了技术竞赛中速度与安全之间的内在矛盾：在竞争压力下，参与者可能为了追赶对手而采取风险更高的开发策略，即使这会导致整体安全性下降。对于AI产品经理而言，这意味着在追求市场领先地位时，必须警惕因竞争而忽视安全考量的倾向。产品创新应设计平衡速度与安全的机制，例如引入安全基准测试或分阶段发布策略。商业价值在于理解市场动态对产品安全决策的影响，从而制定更可持续的竞争策略。",
+      "pm_score": 0.445,
+      "pillar": "business",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.26034v1",
+      "date": "2026-07-29"
+    },
+    {
       "id": "show-hn-formally-verified-3d-csg-trust-93-lines-spec-not-1000-lines-ai-code",
       "label": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
       "summary": "该内容展示了一个通过形式化验证实现3D CSG（构造实体几何）的成果，仅用93行规范（spec）即可替代原本需1000行AI生成的代码。技术要点在于利用形式化方法确保几何运算的正确性，从源头减少bug；商业价值体现在降低AI代码的不可控风险、节省大量测试与调试成本；产品创新在于将“信任”从黑盒AI代码转向可验证、可推理的规范，为高安全性场景（如CAD、工业设计）提供可靠替代方案。",
@@ -144,6 +254,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49083239",
+      "date": "2026-07-29"
+    },
+    {
+      "id": "learnvector-andrew-ngs-ai-company-building-onetoone-learning-experiences",
+      "label": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "summary": "LearnVector是吴恩达创立的AI公司，专注于通过大语言模型和自适应学习技术构建一对一教育体验。其核心创新在于动态生成个性化学习路径，利用AI导师实现实时互动与反馈，提升知识吸收效率。商业价值体现在降低个性化教育成本、规模化覆盖不同学习者需求，可能重塑在线教育行业。技术要点包括语义理解、知识图谱和用户行为建模。",
+      "pm_score": 0.43,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49092499",
       "date": "2026-07-29"
     },
     {
@@ -158,6 +279,17 @@
       "date": "2026-07-29"
     },
     {
+      "id": "pass-the-baton-trajectory-relayed-on-policy-distillation",
+      "label": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
+      "summary": "该论文提出了一种名为“轨迹中继在线策略蒸馏”的方法，旨在解决传统在线策略蒸馏中因学生模型推理方向错误导致后续生成偏离的问题。通过在中继阶段引入教师模型的正确轨迹引导，有效避免了前缀失败，提高了学生模型在推理任务中的准确性和可靠性。该技术对于提升小模型的推理能力、降低部署成本具有潜在商业价值，尤其适用于需要高效精确推理的场景。",
+      "pm_score": 0.41,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.26057v1",
+      "date": "2026-07-29"
+    },
+    {
       "id": "fast-remediation-is-the-new-trust-model-jfrog-and-openai-zero-day-findings",
       "label": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
       "summary": "JFrog与OpenAI联合报告的零日漏洞发现表明，快速修复（Fast Remediation）正成为AI产品建立用户信任的新基础。对AI产品经理而言，安全不再仅是合规要求，而是产品竞争力的核心——能快速响应并修复漏洞的平台更容易获得客户长期信赖。该模型强调将安全流程嵌入CI/CD，实现自动化的漏洞检测与修复，从而降低风险敞口，提升企业级部署信心。这为AI产品提供了差异化信任优势，并推动了“安全即服务”理念的落地。",
@@ -166,6 +298,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49082550",
+      "date": "2026-07-29"
+    },
+    {
+      "id": "hubble-open-source-notetaking-app-for-you-and-your-agents",
+      "label": "Hubble: Open-source notetaking app for you and your agents",
+      "summary": "Hubble 是一款开源笔记应用，专为人类用户及其 AI 代理设计。其核心创新在于将笔记数据同时作为人类知识和 AI 代理的上下文来源，实现人机协作编辑与记忆共享。通过开源模式降低企业定制成本，支持自托管，适合注重数据隐私的团队。产品可集成多种 AI 代理（如写作助手、分析助手），让代理直接读写笔记内容，形成持久化工作记忆。对于 AI 产品经理来说，这种‘代理-用户共用的知识基座’设计，为构建长期上下文、多代理协作场景提供了参考。",
+      "pm_score": 0.38,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49091730",
       "date": "2026-07-29"
     },
     {
@@ -233,10 +376,32 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49083336",
       "date": "2026-07-29"
+    },
+    {
+      "id": "vetclaw-an-edge-cloud-multimodal-agentic-system-for-veterinary-disease-screening",
+      "label": "VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screenin",
+      "summary": "We present VetClaw, an edge-cloud multimodal agentic system for early veterinary disease screening. VetClaw uses a camera module as an edge sensing device and sends captured images, together with optional symptom descriptions, to a server-hosted vision-language model for zero-shot disease classifica",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.26042v1",
+      "date": "2026-07-29"
+    },
+    {
+      "id": "desktop-delta-bench-do-computer-use-models-understand-desktop-gui-transitions",
+      "label": "Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?",
+      "summary": "Computer-use agents (CUAs) increasingly act through desktop GUIs to complete long-horizon tasks. Current benchmarks primarily measure end-task success or single-frame grounding. Neither isolates whether a model can reconstruct the causal, task-relevant transition produced by an action- crucial for r",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2607.26041v1",
+      "date": "2026-07-29"
     }
   ],
   "graph_totals": {
-    "real_nodes": 5699,
-    "edges": 6051
+    "real_nodes": 5751,
+    "edges": 6103
   }
 }

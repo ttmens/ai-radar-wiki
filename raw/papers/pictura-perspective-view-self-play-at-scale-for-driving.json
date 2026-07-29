@@ -1,0 +1,31 @@
+{
+  "title": "Pictura: Perspective-View Self-Play at Scale for Driving",
+  "summary": "Self-play in simulation produces robust driving policies at scale. Demonstrations of such behavior have been made using privileged vectorized observations such as exact poses and velocities, even for occluded agents. This assumes that perception is solved and introduces a representation gap with the partial observation of a deployed agent driving from the perspective view of egocentric cameras. A common fix, distilling the privileged policy into a camera-input student, leaves the student imitating decisions its own view cannot justify. Instead, we establish perspective-view self-play as a practical training regime. We introduce Pictura, a GPU-accelerated multi-agent driving simulator that renders each agent's egocentric view at every step, mitigating the representation gap at its source. Pictura sustains up to 500K agent-steps/s (2M images/s) on a single H100. Using Pictura, we train Alberti by self-play with plain PPO. It is the first large-scale driving self-play policy trained directly from perspective images, without privileged observations. Training spans 50B agent steps for ~35M km of driving. It approaches the driving performance of its privileged vectorized counterpart, and transfers zero-shot to Waymo Open Motion Dataset layouts re-rendered in Pictura, where it outperforms privileged vectorized agents. Project page: https://valeoai.github.io/Pictura/",
+  "url": "http://arxiv.org/abs/2607.26005v1",
+  "authors": [
+    "Yuan Yin",
+    "Elias Ramzi",
+    "Marc Lafon",
+    "Valentin Charraut",
+    "Victor Bares"
+  ],
+  "published": "2026-07-28T17:20:39Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "dataset"
+  ],
+  "summary_cn": "Pictura提出在仿真环境中利用大规模自我对弈（self-play）生成鲁棒的驾驶策略。该方法使用特权向量化观测（如精确位姿和速度）进行训练，甚至能处理被遮挡的智能体，但假设感知问题已解决，因此存在与真实感知之间的表示差距。该技术有望提升自动驾驶策略的泛化能力和训练效率，但需进一步弥合仿真与真实世界的鸿沟，对产品经理而言，关注其规模化训练潜力和鲁棒性提升的商业价值。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Self-Play",
+    "Driving Policy",
+    "Simulation-to-Real"
+  ],
+  "entities": [],
+  "patterns": [
+    "Self-Play Training",
+    "Sim-to-Real Transfer"
+  ]
+}

@@ -3267,3 +3267,22 @@
 - create: mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea.md
 - create: sam-altman-is-ready-to-decelerate.md
 - create: show-hn-cynative-read-only-cli-in-go-that-explains-your-live-infrastructure.md
+
+## [2026-07-29 12:02] sync v3 | 17 new | pillars: {'capabilities': 13, 'ecosystem': 1, 'patterns': 3}
+- create: pass-the-baton-trajectory-relayed-on-policy-distillation.md
+- create: πmathbfr2-reactive-real-time-flow-policies.md
+- create: spend-experts-where-you-are-unsure-confidence-adaptive-routing-for-mixture-of-ex.md
+- create: re-thinking-mammography-transfer-learning-the-dataset-informed-transfer-learning.md
+- create: vetclaw-an-edge-cloud-multimodal-agentic-system-for-veterinary-disease-screening.md
+- create: desktop-delta-bench-do-computer-use-models-understand-desktop-gui-transitions.md
+- create: reinformed-dreamer-an-asymmetric-world-model-efficiently-trained-through-latent.md
+- create: falling-behind-drives-unsafe-development-in-an-idealised-ai-race-experiment.md
+- create: charm-a-multimodal-graph-foundation-model-with-hierarchical-context-modeling-for.md
+- create: mdtransformer-a-hardware-software-co-design-of-mode-division-photonic-transforme.md
+- create: pictura-perspective-view-self-play-at-scale-for-driving.md
+- create: parallel-decoding-distillation-for-fast-image-and-video-generation.md
+- create: learnvector-andrew-ngs-ai-company-building-onetoone-learning-experiences.md
+- create: hubble-open-source-notetaking-app-for-you-and-your-agents.md
+- create: truth-is-not-a-direction-a-tarski-attack-on-llm-probes.md
+- create: cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agen.md
+- create: show-hn-learning-rust-by-writing-a-markdown-to-html-compiler.md
