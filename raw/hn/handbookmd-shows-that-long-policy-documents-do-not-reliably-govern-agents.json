@@ -1,0 +1,24 @@
+{
+  "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+  "score": 153,
+  "comments": 93,
+  "url": "https://arxiv.org/abs/2607.25398",
+  "hn_url": "https://news.ycombinator.com/item?id=49096969",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent"
+  ],
+  "summary_cn": "本研究揭示了使用长政策文档（如手册）来约束AI代理行为的不可靠性。对于AI产品经理而言，这意味着单纯依赖静态文本规则难以确保代理在不同场景下的合规与安全，需要更动态的治理机制，如实时监控、反馈循环或分层约束。该发现对构建可控、可信的企业级AI代理产品具有重要指导价值，推动从‘规则驱动’向‘对齐优先’的设计模式转变。",
+  "pm_relevance": 8,
+  "concepts": [
+    "AI Agent Governance",
+    "Policy Reliability",
+    "Long-term Context"
+  ],
+  "entities": [],
+  "patterns": [
+    "Agent Governance Pattern",
+    "Rule-Based Alignment"
+  ]
+}

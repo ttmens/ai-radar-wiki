@@ -3291,3 +3291,14 @@
 - create: more-tailscale-tricks-for-your-jailbroken-kindle.md
 - create: transformer-transformer-a-unified-model-for-motion-conditioned-robot-co-design.md
 - create: show-hn-lean4-datalog-dsl-based-on-google-zanzibar-for-ai-projects.md
+
+## [2026-07-30 00:01] sync v3 | 9 new | pillars: {'patterns': 5, 'capabilities': 4}
+- create: handbookmd-shows-that-long-policy-documents-do-not-reliably-govern-agents.md
+- create: hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago.md
+- create: document-borne-ai-worms-can-self-propagate-through-copilot-for-word.md
+- create: disrupting-supply-chain-attacks-on-npm-and-github-actions.md
+- create: tokentown-a-visual-way-to-understand-how-llms-work.md
+- create: hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-ho.md
+- create: encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls.md
+- create: as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it.md
+- create: show-hn-echologue-the-private-ai-voice-journal-i-built-for-myself.md

@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-29 | Total pages: 3092
+> Last updated: 2026-07-30 | Total pages: 3101
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -141,6 +141,7 @@
 - [[arena-ai-model-elo-history.md]] Arena AI Model ELO History `pillar:capabilities` `score:0.465`
 - [[arithmetic-without-numbers-how-llms-do-math.md]] Arithmetic Without Numbers – How LLMs Do Math `pillar:capabilities` `score:0.43`
 - [[artificial-intelligence-is-not-conscious-ted-chiang.md]] Artificial intelligence is not conscious – Ted Chiang `pillar:capabilities` `score:0.595`
+- [[as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it.md]] As AI content floods the internet, Pangram raises $9M to detect it `pillar:capabilities` `score:0.445`
 - [[as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future.md]] As Anthropic suspends access to new models, India debates its AI future `pillar:capabilities` `score:0.48`
 - [[as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safa.md]] As the browser wars heat up, here are the hottest alternatives to Chrome and Saf `pillar:capabilities` `score:0.305`
 - [[ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller.md]] Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller `pillar:capabilities` `score:0.305`
@@ -276,6 +277,7 @@
 - [[discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images.md]] Discord admits AI moderation bug wrongfully banned users over harmless images `pillar:capabilities` `score:0.48`
 - [[discovering-cryptographic-weaknesses-with-claude.md]] Discovering Cryptographic Weaknesses with Claude `pillar:capabilities` `score:0.53`
 - [[dispersion-loss-counteracts-embedding-condensation-in-small-language-models.md]] Dispersion loss counteracts embedding condensation in small language models `pillar:capabilities` `score:0.295`
+- [[disrupting-supply-chain-attacks-on-npm-and-github-actions.md]] Disrupting supply chain attacks on NPM and GitHub Actions `pillar:capabilities` `score:0.38`
 - [[diy-bipedal-robot-used-pneumatic-air-muscles-instead-of-motors.md]] DIY Bipedal Robot Used Pneumatic "Air-Muscles" Instead of Motors `pillar:capabilities` `score:0.275`
 - [[dmarc-has-been-public-since-2012-684-of-domains-still-dont-enforce-it.md]] DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It `pillar:capabilities` `score:0.445`
 - [[do-transformers-need-three-projections-systematic-study-of-qkv-variants.md]] Do transformers need three projections? Systematic study of QKV variants `pillar:capabilities` `score:0.445`
@@ -444,6 +446,7 @@
 - [[human-like-neural-nets-by-catapulting.md]] Human-Like Neural Nets by Catapulting `pillar:capabilities` `score:0.295`
 - [[humansignallabel-studio.md]] HumanSignal/label-studio `pillar:capabilities` `score:0.615`
 - [[humiliating-iis-servers-for-fun-and-jail-time.md]] Humiliating IIS servers for fun and jail time `pillar:capabilities` `score:0.41`
+- [[hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago.md]] Hunter-gatherers introduced fish to a mountain lake 7000 years ago `pillar:capabilities` `score:0.22`
 - [[hybrid-electric-aicraft-engine-targeting-30-fuel-efficiency.md]] Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency `pillar:capabilities` `score:0.305`
 - [[hyundai-buys-boston-dynamics.md]] Hyundai buys Boston Dynamics `pillar:capabilities` `score:0.645`
 - [[i-admire-fabrice-bellard-he-is-almost-certainly-a-better-overall-programmer.md]] I admire Fabrice Bellard. He is almost certainly a better overall programmer `pillar:capabilities` `score:0.54`
@@ -1019,6 +1022,7 @@
 - [[tiny-hackable-cuda-language-model-implementation.md]] Tiny hackable CUDA language model implementation `pillar:capabilities` `score:0.345`
 - [[tinywind-a-pixel-pirate-sailing-game-with-real-wind-physics-380k-kms-sailed.md]] TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed) `pillar:capabilities` `score:0.46`
 - [[tokenomics-quantifying-where-tokens-are-used-in-agentic-software-engineering.md]] Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering `pillar:capabilities` `score:0.295`
+- [[tokentown-a-visual-way-to-understand-how-llms-work.md]] TokenTown: A visual way to understand how LLMs work `pillar:capabilities` `score:0.38`
 - [[too-dangerous-or-just-too-expensive-the-real-reason-anthropic-is-hiding-mythos.md]] Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos `pillar:capabilities` `score:0.38`
 - [[train-sim-created-by-just-one-person-is-being-called-the-best-ever-made.md]] Train sim created by just one person is being called the best ever made `pillar:capabilities` `score:0.41`
 - [[training-an-llm-in-swift-part-1-taking-matrix-mu.md]] Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s `pillar:capabilities` `score:0.38`
@@ -1803,6 +1807,7 @@
 - [[deepset-aihaystack.md]] deepset-ai/haystack `pillar:patterns` `score:0.615`
 - [[designing-apis-for-agents.md]] Designing APIs for Agents `pillar:patterns` `score:0.43`
 - [[do-agentsmd-files-help-coding-agents.md]] Do agents.md files help coding agents? `pillar:patterns` `score:0.38`
+- [[document-borne-ai-worms-can-self-propagate-through-copilot-for-word.md]] Document-borne AI worms can self-propagate through Copilot for Word `pillar:patterns` `score:0.585`
 - [[does-code-cleanliness-affect-coding-agents-a-controlled-minimal-pair-study.md]] Does code cleanliness affect coding agents? A controlled minimal-pair study `pillar:patterns` `score:0.53`
 - [[does-code-cleanliness-affect-coding-agents.md]] Does Code Cleanliness Affect Coding Agents? `pillar:patterns` `score:0.43`
 - [[does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do.md]] Does your CEO have AI psychosis? Aaron Levie thinks most of them do. `pillar:patterns` `score:0.48`
@@ -1812,6 +1817,7 @@
 - [[dynamic-workflows-in-claude-code.md]] Dynamic Workflows in Claude Code `pillar:patterns` `score:0.55`
 - [[e2b-devawesome-ai-agents.md]] e2b-dev/awesome-ai-agents `pillar:patterns` `score:0.58`
 - [[elder-pliniuscl4r1t4s.md]] elder-plinius/CL4R1T4S `pillar:patterns` `score:0.58`
+- [[encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls.md]] Encore AI raises $30M to build AI agents that learn from customer calls `pillar:patterns` `score:0.48`
 - [[ethos-raises-2275m-from-a16z-for-its-expert-netw.md]] Ethos raises $22.75M from a16z for its expert network with voice onboarding `pillar:patterns` `score:0.3`
 - [[everything-google-announced-at-its-android-show-f.md]] Everything Google announced at its Android Show, from Googlebooks to vibe-coded `pillar:patterns` `score:0.305`
 - [[facebook-rolls-out-an-ai-companion-app-for-creators.md]] Facebook rolls out an AI companion app for creators `pillar:patterns` `score:0.48`
@@ -1841,6 +1847,7 @@
 - [[google8217s-new-universal-cart-wants-to-follow-your-entire-shopping-journey-acro.md]] Google&#8217;s new Universal Cart wants to follow your entire shopping journey a `pillar:patterns` `score:0.48`
 - [[graphify-labsgraphify.md]] Graphify-Labs/graphify `pillar:patterns` `score:0.615`
 - [[grit-rewriting-git-in-rust-with-agents.md]] Grit: Rewriting Git in Rust with agents `pillar:patterns` `score:0.5`
+- [[handbookmd-shows-that-long-policy-documents-do-not-reliably-govern-agents.md]] Handbook.md shows that long policy documents do not reliably govern agents `pillar:patterns` `score:0.53`
 - [[handsonllmhands-on-large-language-models.md]] HandsOnLLM/Hands-On-Large-Language-Models `pillar:patterns` `score:0.58`
 - [[hardening-firefox-with-claude-mythos-preview.md]] Hardening Firefox with Claude Mythos Preview `pillar:patterns` `score:0.53`
 - [[harness-engineering-leveraging-codex-in-an-agent-first-world.md]] Harness engineering: Leveraging Codex in an agent-first world `pillar:patterns` `score:0.53`
@@ -1850,6 +1857,7 @@
 - [[herdr-agent-multiplexer-that-lives-in-your-terminal.md]] Herdr: Agent multiplexer that lives in your terminal `pillar:patterns` `score:0.43`
 - [[hey-siri-here8217s-what-i-actually-want-from-ai.md]] Hey Siri, here&#8217;s what I actually want from AI `pillar:patterns` `score:0.515`
 - [[high-bandwidth-flash-offers-efficient-storage-for-model-weights.md]] High-Bandwidth Flash offers efficient storage for model weights `pillar:patterns` `score:0.365`
+- [[hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-ho.md]] Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for `pillar:patterns` `score:0.445`
 - [[hkudslightrag.md]] HKUDS/LightRAG `pillar:patterns` `score:0.615`
 - [[hkudsnanobot.md]] HKUDS/nanobot `pillar:patterns` `score:0.405`
 - [[hmbowncodewhale.md]] Hmbown/CodeWhale `pillar:patterns` `score:0.545`
@@ -2016,6 +2024,7 @@
 - [[show-hn-deepsql-a-self-hostable-dba-agent-for-postgres-and-mysql.md]] Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL `pillar:patterns` `score:0.38`
 - [[show-hn-displaydev-the-agent-agnostic-workspace-for-html-and-md-artifacts.md]] Show HN: Display.dev – the agent-agnostic workspace for HTML and .md artifacts `pillar:patterns` `score:0.33`
 - [[show-hn-e2a-open-source-email-gateway-for-ai-ag.md]] Show HN: E2a – Open-source email gateway for AI agents `pillar:patterns` `score:0.33`
+- [[show-hn-echologue-the-private-ai-voice-journal-i-built-for-myself.md]] Show HN: Echologue – the private AI voice journal I built for myself `pillar:patterns` `score:0.295`
 - [[show-hn-ego-lite-why-our-browser-agent-writes-javascript-not-cli-commands.md]] Show HN: Ego lite – why our browser agent writes JavaScript not CLI commands `pillar:patterns` `score:0.33`
 - [[show-hn-fablecut-a-browser-video-editor-ai-agents-can-drive-zero-deps.md]] Show HN: FableCut – A browser video editor AI agents can drive (zero deps) `pillar:patterns` `score:0.43`
 - [[show-hn-fata-spaced-repetition-to-fight-skill-rot-from-ai-coding.md]] Show HN: Fata – Spaced repetition to fight skill rot from AI coding `pillar:patterns` `score:0.43`
