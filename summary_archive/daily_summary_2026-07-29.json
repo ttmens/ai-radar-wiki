@@ -2,74 +2,125 @@
   "daily_summary": {
     "date": "2026-07-29",
     "headline": "今日 AI 情报 · 2026-07-29",
-    "overview": "AI安全与效率双主线深化，生态博弈加剧",
+    "overview": "安全工具生态爆发与企业价值导向取代能力竞赛成为双主线",
     "narratives": [
       {
-        "title": "AI系统安全与可信成为不可回避的产品壁垒",
-        "body": "从密码学漏洞发现、机器人检测、到开源安全组件，AI安全正从单一功能升级为产品核心能力。Altman减速表态和企业安全收购（Cyera/Oasis）表明，市场对可控、合规的AI需求已超越单纯性能竞赛，产品经理需将安全内建于架构而非附加功能。",
-        "type": "paradigm_shift",
-        "pillar_key": "capabilities"
-      },
-      {
-        "title": "AI模型效率突破加速实时应用与边缘落地",
-        "body": "Transformer推理光加速（MDTransformer）、并行解码蒸馏、自适应专家路由、机器人实时策略等多项技术同期推进，降低了延迟与算力成本。产品经理应关注这些创新如何使AI从云端“降维”到终端和实时场景，重新定义用户体验边界。",
+        "title": "AI安全与工具生态进入规模化部署阶段",
+        "body": "今天多项情报指向AI安全工具从实验走向规模化部署：OpenAI开源Codex Security CLI、Claude被发现能系统性地挖掘密码学弱点、Cyera以10亿美元收购Oasis Security填补AI代理安全空白，同时还有MCP初创Runlayer起诉Rippling窃取创意的IP纠纷。这些信号表明，AI的安全层正在快速产品化，成为基础设施标配。对AI产品经理而言，安全已经不是可选项，而是产品上市的必备条件，且需在早期就考虑知识产权保护和生态合作风险。",
         "type": "maturation",
-        "pillar_key": "capabilities"
+        "pillar_key": "ecosystem"
       },
       {
-        "title": "AI生态竞争加剧：大厂自研与初创风险并存",
-        "body": "MCP网关窃取案、数据中心断电威胁、Cyera收购Oasis等事件折射出生态两极：巨头可凭借资源自研绕开初创，而安全与基础设施新机会正吸引大额资本。产品经理需要平衡合作与防御，在绑定平台的同时锁定核心IP。",
-        "type": "bottleneck",
-        "pillar_key": "ecosystem"
+        "title": "企业AI价值导向取代能力竞赛成为行业主线",
+        "body": "Databricks高管明确提出从“token maxxing”转向“value maxxing”，Sam Altman因安全事件表态要减速，数据中心面临电力限制迫使企业重新评估部署策略。这标志着行业从无休止的参数军备竞赛转向追求实际业务回报和可持续性。AI产品经理需要把关注点从模型能力迁移到如何度量并交付可量化的商业价值，同时平衡安全合规与用户体验。",
+        "type": "paradigm_shift",
+        "pillar_key": "business"
       }
     ],
     "insights": [
       {
-        "pillar": "🤖 技术能力",
-        "pillar_key": "capabilities",
-        "narrative_title": "AI系统安全与可信成为不可回避的产品壁垒",
-        "insight": "AI系统安全与可信成为不可回避的产品壁垒。该方向的具体信号：Claude主动发现加密弱点（PM 0.53）、Spur Bot检测获2亿美元融资（PM 0.48）、OpenAI开源Codex安全组件（PM 0.45）、DMARC长期执行缺口凸显自动化需求（PM 0.45），以及Cyera以10亿美元收购Oasis强化AI代理安全（PM 0.48），共同指向安全能力正从选项变为必选项，产品经理需将其作为差异化核心而非后期补丁。",
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "AI安全与工具生态进入规模化部署阶段",
+        "insight": "AI安全与工具生态进入规模化部署阶段。该方向的具体信号：OpenAI低调发布Codex Security CLI（开源安全扫描工具），Anthropic的Claude被用于发现密码学弱点，Cyera以10亿美元收购Oasis Security强化AI代理安全，同时MCP初创Runlayer起诉Rippling窃取产品创意凸显IP保护风险。这些事件共同表明，AI安全已从辅助功能演变为独立产品品类，且市场正在快速整合。",
         "evidence": [
           {
+            "id": "twitter_OpenAI_2082263717916586117",
+            "title": "OpenAI开源Codex Security CLI，用于仓库安全扫描",
+            "score": 1.0
+          },
+          {
             "id": "discovering-cryptographic-weaknesses-with-claude",
-            "title": "Claude主动发现密码学弱点，展示AI安全审计潜力",
+            "title": "Claude能主动发现加密算法弱点，提升安全审计效率",
             "score": 0.53
           },
           {
-            "id": "bot-detection-startup-spur-nabs-200m-from-insight",
-            "title": "Bot检测公司Spur获2亿美元融资，需求旺盛",
-            "score": 0.48
-          },
-          {
-            "id": "openai-just-open-sourced-codex-security",
-            "title": "OpenAI开源Codex安全组件，降低合规门槛",
-            "score": 0.45
-          },
-          {
             "id": "cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agen",
-            "title": "Cyera收购Oasis Security，AI代理安全估值10亿美元",
+            "title": "Cyera以10亿美元收购Oasis Security，主攻AI代理安全",
             "score": 0.48
-          }
-        ]
-      },
-      {
-        "pillar": "🔧 工具生态",
-        "pillar_key": "ecosystem",
-        "narrative_title": "AI生态竞争加剧：大厂自研与初创风险并存",
-        "insight": "AI生态竞争加剧：大厂自研与初创风险并存。该方向的具体信号：Runlayer起诉Rippling窃取MCP网关创意（PM 0.48），凸显初创与巨头合作时的IP风险；数据中心面临临时断电威胁（PM 0.52），迫使厂商重新规划基础设施；Cyera收购Oasis（PM 0.48）和Spur获2亿美元（PM 0.48）显示安全领域资本集中；ACM数字图书馆接入建议（PM 0.52）则代表生态中知识壁垒的突破。产品经理必须建立知识产权防御机制，同时关注基础设施波动对业务连续性的影响。",
-        "evidence": [
+          },
           {
             "id": "mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea",
             "title": "MCP初创Runlayer起诉Rippling窃取产品创意",
             "score": 0.48
           }
         ]
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "narrative_title": "企业AI价值导向取代能力竞赛成为行业主线",
+        "insight": "企业AI价值导向取代能力竞赛成为行业主线。该方向的具体信号：Databricks联合创始人指出企业AI对话从token maxxing转向value maxxing；Sam Altman在安全事件后表态要减速，强调审慎部署；美国最大电网运营商计划对数据中心临时断电，迫使算力成本上升。这些信号指向同一个拐点：行业开始用ROI和可持续性衡量AI成功，而非单纯追求模型规模。",
+        "evidence": [
+          {
+            "id": "twitter_databricks_2082257276392427911",
+            "title": "Databricks: AI对话从token maxxing转向value maxxing",
+            "score": 0.71
+          },
+          {
+            "id": "sam-altman-is-ready-to-decelerate",
+            "title": "Sam Altman经历安全事件后表态减速，强调安全优先",
+            "score": 0.48
+          }
+        ]
       }
     ],
-    "stats": "技术能力: 12 | 产品模式: 0 | 工具生态: 6 | 商业趋势: 2",
+    "stats": "技术能力: 7 | 产品模式: 2 | 工具生态: 6 | 商业趋势: 5",
     "total_items": 20,
-    "high_value_count": 20,
+    "high_value_count": 7,
     "all_today_ids": [
+      {
+        "id": "twitter_OpenAI_2082263717916586117",
+        "label": "We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a cha..."
+      },
+      {
+        "id": "twitter_OpenAI_2082263719460094127",
+        "label": "Install the open-source Codex Security CLI,:\nnpm install @OpenAI/codex-security\n\nOr start with:\n\nnpx..."
+      },
+      {
+        "id": "twitter_bindureddy_2082266002604311003",
+        "label": "I am extremely terrified of the rapid pace of AI development \n\nSpecifically I am terrified that we w..."
+      },
+      {
+        "id": "twitter_OpenAI_2082263720777101505",
+        "label": "Source + docs: https://t.co/vdxdROAl9O"
+      },
+      {
+        "id": "twitter_hardmaru_2082265648609345823",
+        "label": "実業之日本フォーラムにて、Sakana AI防衛部門長・佐藤の取材記事が公開されました。\n\n脱・海外依存を目指す独自技術や防衛・安全保障への想いをお話ししています。\n\nぜひご一読くださいませ。\nhtt..."
+      },
+      {
+        "id": "twitter_midjourney_2082266264085623038",
+        "label": "We're doing a web engineering meetup this Tuesday (August 4th) in San Francisco! Come hear talks by ..."
+      },
+      {
+        "id": "twitter_databricks_2082257276392427911",
+        "label": "Arsalan Tavakoli, Databricks Co-Founder and SVP of Field Engineering, joined @Bloomberg The Close to..."
+      },
+      {
+        "id": "twitter_supabase_2082275650442821696",
+        "label": "Marketing"
+      },
+      {
+        "id": "twitter_supabase_2082270689248055494",
+        "label": "Full house for the @supabase x @claudeai meetup in Dublin tonight\n\nWe promise we'll add more capacit..."
+      },
+      {
+        "id": "twitter__akhaliq_2082283660628115926",
+        "label": "A.X K2 just dropped on Hugging Face\n\nLarge-Scale Sparse MoE (688B / 33B Active)\n\nhttps://t.co/nVr17D..."
+      },
+      {
+        "id": "twitter_swyx_2082287480687272053",
+        "label": "https://t.co/uwzHs4G1nt"
+      },
+      {
+        "id": "twitter_swyx_2082255848492183583",
+        "label": "i'm just reporting; many counter examples if you dislike this trend: https://t.co/YZ7z66bEVk\n\nsee Ed..."
+      },
+      {
+        "id": "twitter__akhaliq_2082301453952303490",
+        "label": "After three years, I’ve upgraded Inpaint-Anything!!\n\nI noticed the recent work EgoEngine (from Prof...."
+      },
       {
         "id": "discovering-cryptographic-weaknesses-with-claude",
         "label": "Discovering Cryptographic Weaknesses with Claude"
@@ -175,6 +226,10 @@
         "label": "Pass the Baton: Trajectory-Relayed On-Policy Distillation"
       },
       {
+        "id": "more-tailscale-tricks-for-your-jailbroken-kindle",
+        "label": "More Tailscale tricks for your jailbroken Kindle"
+      },
+      {
         "id": "fast-remediation-is-the-new-trust-model-jfrog-and-openai-zero-day-findings",
         "label": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)"
       },
@@ -189,6 +244,10 @@
       {
         "id": "show-hn-browseract-browser-layer-for-your-ai-agent",
         "label": "Show HN: BrowserAct: Browser Layer for Your AI Agent"
+      },
+      {
+        "id": "transformer-transformer-a-unified-model-for-motion-conditioned-robot-co-design",
+        "label": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design"
       },
       {
         "id": "what-ai-developers-could-learn-from-charles-bukowski",
@@ -215,6 +274,10 @@
         "label": "Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?"
       },
       {
+        "id": "show-hn-lean4-datalog-dsl-based-on-google-zanzibar-for-ai-projects",
+        "label": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects"
+      },
+      {
         "id": "truth-is-not-a-direction-a-tarski-attack-on-llm-probes",
         "label": "Truth is not a direction: a Tarski attack on LLM probes"
       },
@@ -232,6 +295,6 @@
       }
     ],
     "date_bj": "2026-07-29 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-07-29 12:01:57"
+    "generated_at_bj": "2026-07-29 18:01:46"
   }
 }

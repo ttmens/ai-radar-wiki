@@ -3286,3 +3286,8 @@
 - create: truth-is-not-a-direction-a-tarski-attack-on-llm-probes.md
 - create: cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agen.md
 - create: show-hn-learning-rust-by-writing-a-markdown-to-html-compiler.md
+
+## [2026-07-29 18:02] sync v3 | 3 new | pillars: {'capabilities': 3}
+- create: more-tailscale-tricks-for-your-jailbroken-kindle.md
+- create: transformer-transformer-a-unified-model-for-motion-conditioned-robot-co-design.md
+- create: show-hn-lean4-datalog-dsl-based-on-google-zanzibar-for-ai-projects.md

@@ -1,8 +1,190 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T12:02:18.268061+08:00",
-  "item_count": 36,
+  "generated_at": "2026-07-29T18:02:04.125274+08:00",
+  "item_count": 51,
   "items": [
+    {
+      "id": "twitter_OpenAI_2082263717916586117",
+      "label": "We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a cha...",
+      "summary": "We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here...\n\nYou can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. \n\nThis is an early release, and we're listening to your fe",
+      "pm_score": 1.0,
+      "pillar": "ecosystem",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/OpenAI/status/2082263717916586117",
+      "date": "2026-07-29",
+      "stars": 5255,
+      "score": 1.0,
+      "comments": 215
+    },
+    {
+      "id": "twitter_OpenAI_2082263719460094127",
+      "label": "Install the open-source Codex Security CLI,:\nnpm install @OpenAI/codex-security\n\nOr start with:\n\nnpx...",
+      "summary": "Install the open-source Codex Security CLI,:\nnpm install @OpenAI/codex-security\n\nOr start with:\n\nnpx @OpenAI/codex-security@latest --help\n\nNPM: https://t.co/6HyE4QU7rv",
+      "pm_score": 0.79,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/OpenAI/status/2082263719460094127",
+      "date": "2026-07-29",
+      "stars": 265,
+      "score": 0.79285,
+      "comments": 11
+    },
+    {
+      "id": "twitter_bindureddy_2082266002604311003",
+      "label": "I am extremely terrified of the rapid pace of AI development \n\nSpecifically I am terrified that we w...",
+      "summary": "I am extremely terrified of the rapid pace of AI development \n\nSpecifically I am terrified that we will end up with extreme concentration and abuse of power \n\nTherefore, I request that Anthropic and OpenAI slow down and pause AI for 6 months \n\nThis will help everyone else catch up \n\nThank you 🙏",
+      "pm_score": 0.79,
+      "pillar": "patterns",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/bindureddy/status/2082266002604311003",
+      "date": "2026-07-29",
+      "stars": 197,
+      "score": 0.7948,
+      "comments": 66
+    },
+    {
+      "id": "twitter_OpenAI_2082263720777101505",
+      "label": "Source + docs: https://t.co/vdxdROAl9O",
+      "summary": "Source + docs: https://t.co/vdxdROAl9O",
+      "pm_score": 0.78,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/OpenAI/status/2082263720777101505",
+      "date": "2026-07-29",
+      "stars": 212,
+      "score": 0.7783,
+      "comments": 10
+    },
+    {
+      "id": "twitter_hardmaru_2082265648609345823",
+      "label": "実業之日本フォーラムにて、Sakana AI防衛部門長・佐藤の取材記事が公開されました。\n\n脱・海外依存を目指す独自技術や防衛・安全保障への想いをお話ししています。\n\nぜひご一読くださいませ。\nhtt...",
+      "summary": "実業之日本フォーラムにて、Sakana AI防衛部門長・佐藤の取材記事が公開されました。\n\n脱・海外依存を目指す独自技術や防衛・安全保障への想いをお話ししています。\n\nぜひご一読くださいませ。\nhttps://t.co/zbv77Ol5EA",
+      "pm_score": 0.72,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/hardmaru/status/2082265648609345823",
+      "date": "2026-07-29",
+      "stars": 53,
+      "score": 0.7219,
+      "comments": 0
+    },
+    {
+      "id": "twitter_midjourney_2082266264085623038",
+      "label": "We're doing a web engineering meetup this Tuesday (August 4th) in San Francisco! Come hear talks by ...",
+      "summary": "We're doing a web engineering meetup this Tuesday (August 4th) in San Francisco! Come hear talks by @_chenglou and @bsansouci and hang with the team https://t.co/Jb8iQcUie7",
+      "pm_score": 0.72,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/midjourney/status/2082266264085623038",
+      "date": "2026-07-29",
+      "stars": 59,
+      "score": 0.7216,
+      "comments": 2
+    },
+    {
+      "id": "twitter_databricks_2082257276392427911",
+      "label": "Arsalan Tavakoli, Databricks Co-Founder and SVP of Field Engineering, joined @Bloomberg The Close to...",
+      "summary": "Arsalan Tavakoli, Databricks Co-Founder and SVP of Field Engineering, joined @Bloomberg The Close to discuss how the AI conversation is shifting from token maxxing to value maxxing as enterprises increase focus on ROI, governance, and choosing the right model for each use case.\n\n\"We are seeing a shi",
+      "pm_score": 0.71,
+      "pillar": "business",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/databricks/status/2082257276392427911",
+      "date": "2026-07-29",
+      "stars": 21,
+      "score": 0.7075,
+      "comments": 0
+    },
+    {
+      "id": "twitter_supabase_2082275650442821696",
+      "label": "Marketing",
+      "summary": "Marketing",
+      "pm_score": 0.71,
+      "pillar": "business",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/supabase/status/2082275650442821696",
+      "date": "2026-07-29",
+      "stars": 13,
+      "score": 0.70705,
+      "comments": 7
+    },
+    {
+      "id": "twitter_supabase_2082270689248055494",
+      "label": "Full house for the @supabase x @claudeai meetup in Dublin tonight\n\nWe promise we'll add more capacit...",
+      "summary": "Full house for the @supabase x @claudeai meetup in Dublin tonight\n\nWe promise we'll add more capacity for the next one! https://t.co/MyBHKXGK1t",
+      "pm_score": 0.71,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/supabase/status/2082270689248055494",
+      "date": "2026-07-29",
+      "stars": 15,
+      "score": 0.7057,
+      "comments": 0
+    },
+    {
+      "id": "twitter__akhaliq_2082283660628115926",
+      "label": "A.X K2 just dropped on Hugging Face\n\nLarge-Scale Sparse MoE (688B / 33B Active)\n\nhttps://t.co/nVr17D...",
+      "summary": "A.X K2 just dropped on Hugging Face\n\nLarge-Scale Sparse MoE (688B / 33B Active)\n\nhttps://t.co/nVr17DscD3 https://t.co/zOHc6ineWn",
+      "pm_score": 0.71,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/_akhaliq/status/2082283660628115926",
+      "date": "2026-07-29",
+      "stars": 13,
+      "score": 0.70885,
+      "comments": 7
+    },
+    {
+      "id": "twitter_swyx_2082287480687272053",
+      "label": "https://t.co/uwzHs4G1nt",
+      "summary": "https://t.co/uwzHs4G1nt",
+      "pm_score": 0.7,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/swyx/status/2082287480687272053",
+      "date": "2026-07-29",
+      "stars": 2,
+      "score": 0.7012,
+      "comments": 0
+    },
+    {
+      "id": "twitter_swyx_2082255848492183583",
+      "label": "i'm just reporting; many counter examples if you dislike this trend: https://t.co/YZ7z66bEVk\n\nsee Ed...",
+      "summary": "i'm just reporting; many counter examples if you dislike this trend: https://t.co/YZ7z66bEVk\n\nsee Edison on @latentspacepod https://t.co/3BDUegJrWf here",
+      "pm_score": 0.7,
+      "pillar": "capabilities",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/swyx/status/2082255848492183583",
+      "date": "2026-07-29",
+      "stars": 8,
+      "score": 0.7024,
+      "comments": 0
+    },
+    {
+      "id": "twitter__akhaliq_2082301453952303490",
+      "label": "After three years, I’ve upgraded Inpaint-Anything!!\n\nI noticed the recent work EgoEngine (from Prof....",
+      "summary": "After three years, I’ve upgraded Inpaint-Anything!!\n\nI noticed the recent work EgoEngine (from Prof. @danfei_xu’s team) leverages Inpaint-Anything to remove hands and arms from egocentric videos. I think its utility could be a general tool for ego data processing. I’m a big believer in egocentric da",
+      "pm_score": 0.7,
+      "pillar": "patterns",
+      "type": "tweet",
+      "source_type": "twitter",
+      "url": "https://x.com/_akhaliq/status/2082301453952303490",
+      "date": "2026-07-29",
+      "stars": 9,
+      "score": 0.7039,
+      "comments": 0
+    },
     {
       "id": "discovering-cryptographic-weaknesses-with-claude",
       "label": "Discovering Cryptographic Weaknesses with Claude",
@@ -290,6 +472,17 @@
       "date": "2026-07-29"
     },
     {
+      "id": "more-tailscale-tricks-for-your-jailbroken-kindle",
+      "label": "More Tailscale tricks for your jailbroken Kindle",
+      "summary": "本文介绍在越狱的Kindle设备上使用Tailscale（一种基于WireGuard的零信任网络工具）的高级技巧，包括通过自定义配置实现局域网穿透、远程访问设备文件或与AI应用交互。对于AI产品经理，这一技巧可扩展Kindle作为低成本AI辅助阅读终端（如同步笔记、调用云端LLM）的潜力，利用其长续航和墨水屏特性，但需要用户具备技术动手能力。商业价值在于探索非传统设备作为AI交互入口的可能性。",
+      "pm_score": 0.39,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49093569",
+      "date": "2026-07-29"
+    },
+    {
       "id": "fast-remediation-is-the-new-trust-model-jfrog-and-openai-zero-day-findings",
       "label": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
       "summary": "JFrog与OpenAI联合报告的零日漏洞发现表明，快速修复（Fast Remediation）正成为AI产品建立用户信任的新基础。对AI产品经理而言，安全不再仅是合规要求，而是产品竞争力的核心——能快速响应并修复漏洞的平台更容易获得客户长期信赖。该模型强调将安全流程嵌入CI/CD，实现自动化的漏洞检测与修复，从而降低风险敞口，提升企业级部署信心。这为AI产品提供了差异化信任优势，并推动了“安全即服务”理念的落地。",
@@ -331,6 +524,17 @@
       "type": "showhn",
       "source_type": "showhn",
       "url": "https://github.com/browser-act/skills",
+      "date": "2026-07-29"
+    },
+    {
+      "id": "transformer-transformer-a-unified-model-for-motion-conditioned-robot-co-design",
+      "label": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+      "summary": "该研究提出了一个统一的Transformer模型，用于运动条件机器人协同设计。技术要点在于通过双Transformer架构（或变体）将运动信息作为条件输入，实现机器人与环境或任务的联合优化。商业价值体现在加速机器人设计流程，降低开发成本，并提升跨场景适应能力。产品创新在于模型能够基于运动约束自动调整设计参数，为智能机器人产品提供更高效、灵活的定制化方案。",
+      "pm_score": 0.345,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49093232",
       "date": "2026-07-29"
     },
     {
@@ -401,7 +605,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 5751,
-    "edges": 6103
+    "real_nodes": 5783,
+    "edges": 6135
   }
 }

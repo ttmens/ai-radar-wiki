@@ -1,0 +1,25 @@
+{
+  "title": "More Tailscale tricks for your jailbroken Kindle",
+  "score": 180,
+  "comments": 63,
+  "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+  "hn_url": "https://news.ycombinator.com/item?id=49093569",
+  "tag": "HN",
+  "pillar": "patterns",
+  "pillar_keywords": [],
+  "summary_cn": "本文介绍在越狱的Kindle设备上使用Tailscale（一种基于WireGuard的零信任网络工具）的高级技巧，包括通过自定义配置实现局域网穿透、远程访问设备文件或与AI应用交互。对于AI产品经理，这一技巧可扩展Kindle作为低成本AI辅助阅读终端（如同步笔记、调用云端LLM）的潜力，利用其长续航和墨水屏特性，但需要用户具备技术动手能力。商业价值在于探索非传统设备作为AI交互入口的可能性。",
+  "pm_relevance": 4,
+  "concepts": [
+    "Kindle越狱",
+    "Tailscale网络",
+    "设备AI入口"
+  ],
+  "entities": [
+    "Tailscale",
+    "Amazon"
+  ],
+  "patterns": [
+    "零信任网络模式",
+    "越狱设备扩展"
+  ]
+}
