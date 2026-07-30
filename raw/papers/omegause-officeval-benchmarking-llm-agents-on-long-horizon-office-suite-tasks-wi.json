@@ -1,0 +1,35 @@
+{
+  "title": "OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding",
+  "summary": "Large language model (LLM) agents are increasingly expected to assist users in completing tasks. However, existing benchmarks provide limited support for evaluating whether agents can carry out office-suite workflows at a reasonable cost. We introduce OmegaUse-OfficeVal, a benchmark for evaluating LLM agents on long-horizon office-suite tasks with task-level economic grounding. The benchmark comprises 100 tasks derived from office-suite requests proposed by practitioners and adapted through a privacy-preserving process. On average, these tasks require 2.32 hours of human labor to complete. An important feature of the benchmark is that each task is paired with two economic signals: human labor time and task price proxy. These signals enable direct comparisons between human costs and LLM inference costs, as well as value-weighted evaluation. To support stable evaluation, we develop code-based verifiers from fine-grained rubrics. We evaluate several frontier LLMs together with a human baseline. Although all evaluated LLMs are substantially cheaper and faster than human workers, they have not yet approached human-level deliverable quality. The code and dataset are fully open-sourced, and more information is available on our project website: https://omegause-officeval.github.io.",
+  "url": "http://arxiv.org/abs/2607.27155v1",
+  "authors": [
+    "Jingbo Zhou",
+    "Yusai Zhao",
+    "Qi Bao",
+    "Jingjia Cao",
+    "Zhenghai Chen"
+  ],
+  "published": "2026-07-29T17:33:47Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "benchmark",
+    "dataset"
+  ],
+  "summary_cn": "OmegaUse-OfficeVal是一个用于评估大语言模型代理在长期办公套件任务中表现与经济成本的基准。它模拟真实办公场景下的多步骤工作流，考核代理完成任务的效率、准确性和资源消耗。该基准强调“经济接地”，即不仅关注任务完成度，还衡量推理成本与用户价值之间的平衡。对产品经理而言，该基准可帮助量化AI代理在实际部署中的性价比，指导产品定价与功能优化，推动低成本、高智能的办公自动化方案落地。",
+  "pm_relevance": 8,
+  "concepts": [
+    "长期任务基准",
+    "成本效益评估",
+    "办公自动化代理"
+  ],
+  "entities": [
+    "OmegaUse",
+    "OfficeVal"
+  ],
+  "patterns": [
+    "LLM Agent Benchmark",
+    "Cost-Aware Evaluation"
+  ]
+}

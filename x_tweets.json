@@ -1,8 +1,80 @@
 {
-  "fetched_at": "2026-07-29T21:01:30.603796",
+  "fetched_at": "2026-07-30T09:01:32.770693",
   "source": "twitter-cli",
   "data": {
     "sama": [
+      {
+        "id": "2082628413769003269",
+        "text": "so excited for this.\n\nvery close to models that will significantly accelerate scientific discovery; the best way to do this is for us to empower scientists, not to try to figure out everything ourselves.\n\nwe all deserve the benefits.",
+        "author": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screenName": "sama",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 411,
+          "retweets": 30,
+          "replies": 110,
+          "quotes": 7,
+          "views": 51837,
+          "bookmarks": 43
+        },
+        "createdAt": "Thu Jul 30 00:44:41 +0000 2026",
+        "createdAtLocal": "2026-07-30 08:44",
+        "createdAtISO": "2026-07-30T00:44:41+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2082516370949062989",
+          "text": "We’re giving scientists, mathematicians, and engineers free access to our frontier models—starting with 10,000 researchers and expanding to 100,000 through 2027.\n\nChatGPT for Academic Researchers is built to accelerate discovery across disciplines. https://t.co/nrHn1no0wQ",
+          "author": {
+            "screenName": "OpenAI",
+            "name": "OpenAI"
+          }
+        }
+      },
+      {
+        "id": "2082627724040884667",
+        "text": "goblin-level blog post",
+        "author": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screenName": "sama",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 382,
+          "retweets": 18,
+          "replies": 75,
+          "quotes": 9,
+          "views": 49547,
+          "bookmarks": 31
+        },
+        "createdAt": "Thu Jul 30 00:41:57 +0000 2026",
+        "createdAtLocal": "2026-07-30 08:41",
+        "createdAtISO": "2026-07-30T00:41:57+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "nl",
+        "score": null,
+        "quotedTweet": {
+          "id": "2082609662231502932",
+          "text": "Turns out GPT-5.6 Sol is actually SoTA on ARC-AGI-3. \n\nJust took two setting changes. You just have to allow it to reason and work over multiple context windows with the help of our canonical compaction implementation.\n\nhttps://t.co/wHjaNsvIv8",
+          "author": {
+            "screenName": "thsottiaux",
+            "name": "Tibo"
+          }
+        }
+      },
       {
         "id": "2081832600591892712",
         "text": "wrong",
@@ -14,12 +86,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 11392,
-          "retweets": 288,
-          "replies": 1048,
+          "likes": 11557,
+          "retweets": 289,
+          "replies": 1071,
           "quotes": 109,
-          "views": 2246265,
-          "bookmarks": 515
+          "views": 2326438,
+          "bookmarks": 525
         },
         "createdAt": "Mon Jul 27 20:02:25 +0000 2026",
         "createdAtLocal": "2026-07-28 04:02",
@@ -50,11 +122,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8143,
-          "retweets": 283,
-          "replies": 746,
-          "quotes": 128,
-          "views": 2405493,
+          "likes": 8171,
+          "retweets": 284,
+          "replies": 752,
+          "quotes": 129,
+          "views": 2420913,
           "bookmarks": 2287
         },
         "createdAt": "Sun Jul 26 22:52:43 +0000 2026",
@@ -86,12 +158,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 17427,
-          "retweets": 573,
-          "replies": 1706,
-          "quotes": 400,
-          "views": 3596926,
-          "bookmarks": 6210
+          "likes": 17452,
+          "retweets": 575,
+          "replies": 1712,
+          "quotes": 401,
+          "views": 3619715,
+          "bookmarks": 6214
         },
         "createdAt": "Sun Jul 26 15:10:41 +0000 2026",
         "createdAtLocal": "2026-07-26 23:10",
@@ -102,78 +174,6 @@
         "retweetedBy": null,
         "lang": "en",
         "score": null
-      },
-      {
-        "id": "2080861203010568232",
-        "text": "stories like this should be told more",
-        "author": {
-          "id": "162124540",
-          "name": "Greg Brockman",
-          "screenName": "gdb",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 3333,
-          "retweets": 170,
-          "replies": 178,
-          "quotes": 19,
-          "views": 467641,
-          "bookmarks": 237
-        },
-        "createdAt": "Sat Jul 25 03:42:25 +0000 2026",
-        "createdAtLocal": "2026-07-25 11:42",
-        "createdAtISO": "2026-07-25T03:42:25+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "sama",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2080759839513280770",
-          "text": "JUST IN: ChatGPT surfaces a crucial mutation in a woman’s old biopsy records, helping doctors determine her terminal glioblastoma diagnosis was incorrect.",
-          "author": {
-            "screenName": "Polymarket",
-            "name": "Polymarket"
-          }
-        }
-      },
-      {
-        "id": "2080354753473835461",
-        "text": "A billion users can now create and publish websites from their phones with ChatGPT Work. \n\nBut most people don’t really grasp the full extent of the capabilities here. From your phone, you also have access to:\n\n- Cloud computer (15 GB RAM)\n- Persistent workspace & files\n- Terminal and code execution\n- Remote browser\n- Connected plugins (Slack, Gmail, GitHub, etc.)\n- All your personal finances, transactions, bank statements\n- Scheduled tasks\n- Git clone & PR creation\n- Build & deploy websites\n- Create docs, sheets, and slides\n- Inbox/calendar summarization\n- Website monitoring & alerts\n\nAll at your fingertips, using a simple chat interface, no laptop required. \n\nAll you have to do is switch to the Work tab on your ChatGPT app.",
-        "author": {
-          "id": "3787342814",
-          "name": "pash",
-          "screenName": "pashmerepat",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2013776094382694400/nNX1AW2l_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 1277,
-          "retweets": 118,
-          "replies": 88,
-          "quotes": 17,
-          "views": 446049,
-          "bookmarks": 1196
-        },
-        "createdAt": "Thu Jul 23 18:09:59 +0000 2026",
-        "createdAtLocal": "2026-07-24 02:09",
-        "createdAtISO": "2026-07-23T18:09:59+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "sama",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2080348892294721803",
-          "text": "https://t.co/NFas4ghgqD",
-          "author": {
-            "screenName": "nickbaumann_",
-            "name": "Nick"
-          }
-        }
       }
     ],
     "karpathy": [
@@ -188,12 +188,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 48676,
-          "retweets": 4067,
-          "replies": 2356,
-          "quotes": 1420,
-          "views": 3903797,
-          "bookmarks": 14810
+          "likes": 48712,
+          "retweets": 4072,
+          "replies": 2357,
+          "quotes": 1421,
+          "views": 3912666,
+          "bookmarks": 14813
         },
         "createdAt": "Tue Jul 21 16:53:55 +0000 2026",
         "createdAtLocal": "2026-07-22 00:53",
@@ -216,11 +216,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8884,
+          "likes": 8891,
           "retweets": 1094,
-          "replies": 455,
-          "quotes": 576,
-          "views": 3725966,
+          "replies": 456,
+          "quotes": 579,
+          "views": 3733814,
           "bookmarks": 5106
         },
         "createdAt": "Wed Jul 08 21:47:29 +0000 2026",
@@ -246,12 +246,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1670,
-          "retweets": 166,
+          "likes": 1671,
+          "retweets": 167,
           "replies": 87,
           "quotes": 23,
-          "views": 529670,
-          "bookmarks": 2523
+          "views": 531491,
+          "bookmarks": 2524
         },
         "createdAt": "Fri Jul 03 14:12:03 +0000 2026",
         "createdAtLocal": "2026-07-03 22:12",
@@ -277,11 +277,11 @@
         },
         "metrics": {
           "likes": 9794,
-          "retweets": 943,
+          "retweets": 942,
           "replies": 653,
           "quotes": 604,
-          "views": 6502504,
-          "bookmarks": 3770
+          "views": 6505960,
+          "bookmarks": 3771
         },
         "createdAt": "Tue Jun 30 15:00:09 +0000 2026",
         "createdAtLocal": "2026-06-30 23:00",
@@ -311,12 +311,12 @@
           "verified": false
         },
         "metrics": {
-          "likes": 1951,
+          "likes": 1953,
           "retweets": 248,
           "replies": 183,
           "quotes": 160,
-          "views": 1903490,
-          "bookmarks": 1277
+          "views": 1905590,
+          "bookmarks": 1278
         },
         "createdAt": "Tue Jun 23 17:01:29 +0000 2026",
         "createdAtLocal": "2026-06-24 01:01",
@@ -344,12 +344,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 7982,
-          "retweets": 888,
-          "replies": 284,
-          "quotes": 128,
-          "views": 546586,
-          "bookmarks": 3804
+          "likes": 9925,
+          "retweets": 1096,
+          "replies": 333,
+          "quotes": 161,
+          "views": 742661,
+          "bookmarks": 4738
         },
         "createdAt": "Tue Jul 28 20:19:41 +0000 2026",
         "createdAtLocal": "2026-07-29 04:19",
@@ -372,12 +372,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 4336,
-          "retweets": 421,
-          "replies": 132,
-          "quotes": 28,
-          "views": 311369,
-          "bookmarks": 403
+          "likes": 4356,
+          "retweets": 426,
+          "replies": 133,
+          "quotes": 29,
+          "views": 318347,
+          "bookmarks": 405
         },
         "createdAt": "Mon Jul 27 17:01:38 +0000 2026",
         "createdAtLocal": "2026-07-28 01:01",
@@ -408,12 +408,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 9507,
-          "retweets": 1383,
-          "replies": 451,
+          "likes": 9519,
+          "retweets": 1388,
+          "replies": 452,
           "quotes": 208,
-          "views": 1009957,
-          "bookmarks": 10045
+          "views": 1013528,
+          "bookmarks": 10047
         },
         "createdAt": "Thu Jul 23 16:45:32 +0000 2026",
         "createdAtLocal": "2026-07-24 00:45",
@@ -443,12 +443,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 1222,
+          "likes": 1224,
           "retweets": 131,
           "replies": 99,
           "quotes": 12,
-          "views": 141701,
-          "bookmarks": 809
+          "views": 142124,
+          "bookmarks": 810
         },
         "createdAt": "Fri Jul 17 15:47:30 +0000 2026",
         "createdAtLocal": "2026-07-17 23:47",
@@ -482,7 +482,7 @@
           "retweets": 49,
           "replies": 82,
           "quotes": 6,
-          "views": 109636,
+          "views": 109942,
           "bookmarks": 61
         },
         "createdAt": "Thu Jul 09 17:31:17 +0000 2026",
@@ -506,6 +506,76 @@
     ],
     "ylecun": [
       {
+        "id": "2081748804706218337",
+        "text": "Elon’s missed promises 😳 https://t.co/DGfGVnl6d2",
+        "author": {
+          "id": "1336616210767642627",
+          "name": "EV Guy",
+          "screenName": "TeslaAndDoge",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2076245263463882752/-u3f5xf7_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 9710,
+          "retweets": 1316,
+          "replies": 372,
+          "quotes": 126,
+          "views": 596596,
+          "bookmarks": 1417
+        },
+        "createdAt": "Mon Jul 27 14:29:26 +0000 2026",
+        "createdAtLocal": "2026-07-27 22:29",
+        "createdAtISO": "2026-07-27T14:29:26+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HOPbgGYakAAnfPZ.jpg",
+            "width": 1164,
+            "height": 837
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2082210027826188404",
+        "text": "Laser focused on reducing the cost of living, from day one. https://t.co/TdzlbH0lOW",
+        "author": {
+          "id": "327577091",
+          "name": "Justin Wolfers",
+          "screenName": "JustinWolfers",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2080122094692536321/ZGJXB4CQ_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 899,
+          "retweets": 277,
+          "replies": 21,
+          "quotes": 10,
+          "views": 25561,
+          "bookmarks": 21
+        },
+        "createdAt": "Tue Jul 28 21:02:10 +0000 2026",
+        "createdAtLocal": "2026-07-29 05:02",
+        "createdAtISO": "2026-07-28T21:02:10+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HOV-_I5XoAAb33d.jpg",
+            "width": 989,
+            "height": 540
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
+      },
+      {
         "id": "2082386580417753494",
         "text": "\"The notion that AI is so dangerous that the only safe path is an extreme concentration of power seems dangerous. \n\n\"Historically, hoping that an absolute power will benevolently provide for humanity if sufficiently  enlightened hasn’t led to safe or positive outcomes.\"\n\nThere are no special people who can safely guide us and be trusted with supreme power. Absolute power corrupts absolutely. There are no enlightened autocrats. There are no people with a crystal ball who can plan the economy or pace it.\n\nI would rather see the entire industry crash and burn for a decade than see this reality come to pass.",
         "author": {
@@ -516,12 +586,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 68,
-          "retweets": 15,
-          "replies": 12,
-          "quotes": 1,
-          "views": 8222,
-          "bookmarks": 7
+          "likes": 175,
+          "retweets": 29,
+          "replies": 19,
+          "quotes": 3,
+          "views": 21416,
+          "bookmarks": 20
         },
         "createdAt": "Wed Jul 29 08:43:44 +0000 2026",
         "createdAtLocal": "2026-07-29 16:43",
@@ -552,12 +622,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 43,
-          "retweets": 6,
-          "replies": 10,
+          "likes": 59,
+          "retweets": 7,
+          "replies": 15,
           "quotes": 0,
-          "views": 14739,
-          "bookmarks": 12
+          "views": 25129,
+          "bookmarks": 16
         },
         "createdAt": "Wed Jul 29 02:50:32 +0000 2026",
         "createdAtLocal": "2026-07-29 10:50",
@@ -588,12 +658,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 5127,
-          "retweets": 575,
-          "replies": 447,
-          "quotes": 291,
-          "views": 786374,
-          "bookmarks": 3143
+          "likes": 5798,
+          "retweets": 651,
+          "replies": 507,
+          "quotes": 322,
+          "views": 954740,
+          "bookmarks": 3607
         },
         "createdAt": "Tue Jul 28 17:44:29 +0000 2026",
         "createdAtLocal": "2026-07-29 01:44",
@@ -606,225 +676,12 @@
         "retweetedBy": "ylecun",
         "lang": "en",
         "score": null
-      },
-      {
-        "id": "2082160210399948869",
-        "text": "I wrote about why we believe the future is for everyone. More coming about a positive vision for a world with superintelligence soon.",
-        "author": {
-          "id": "20749410",
-          "name": "Mark Zuckerberg",
-          "screenName": "finkd",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/77846223/profile_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 27342,
-          "retweets": 2002,
-          "replies": 3448,
-          "quotes": 967,
-          "views": 4490143,
-          "bookmarks": 3214
-        },
-        "createdAt": "Tue Jul 28 17:44:13 +0000 2026",
-        "createdAtLocal": "2026-07-29 01:44",
-        "createdAtISO": "2026-07-28T17:44:13+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2082021921567187010",
-        "text": "Go ahead and ask yourself, really ask yourself, if all these confident predictors are wrong about jobs and not training radiologists anymore and fast take offs, what else are they wrong about?\n\nThen ask yourself: How is it that someone can be so smart in one area of life and/or know so much about AI and/or be really successful in business and still get the future so wrong again and again?\n\nBecause predicting the future is a totally different skill. Most people absolutely suck at it but are delusional enough to think they're fantastic at it. \n\nWhat you know about a subject has exactly zero to do with how well you predict the future about that subject. \n\nIf you're a bridge engineer and know everything about building bridges, it doesn't mean you know anything about how bridges will effect society and it doesn't magically give you a crystal ball to predict the development of the car.",
-        "author": {
-          "id": "633549366",
-          "name": "Daniel Jeffries",
-          "screenName": "Dan_Jeffries1",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1907351559689650176/xPWyoi5m_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 397,
-          "retweets": 45,
-          "replies": 46,
-          "quotes": 8,
-          "views": 54211,
-          "bookmarks": 109
-        },
-        "createdAt": "Tue Jul 28 08:34:42 +0000 2026",
-        "createdAtLocal": "2026-07-28 16:34",
-        "createdAtISO": "2026-07-28T08:34:42+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2081805331798323296",
-          "text": "Narrative violation. WSJ today. https://t.co/4PA3ICOX5c",
-          "author": {
-            "screenName": "DavidSacks",
-            "name": "David Sacks"
-          }
-        }
       }
     ],
     "elonmusk": [
       {
-        "id": "2082346176922407060",
-        "text": "BREAKING: Grok 4.5 just claimed the top spot on the new HighWalk Benchmark.\n\nThe independent test measures how well AI models update real technical specifications from 46 Laravel commits — heavy on code analysis, abstraction, and precise writing.\n\nResults: • Grok 4.5 (high) → overall #1 (best quality + efficiency combo) \n• Claude Opus 5 (high) → highest raw quality, zero hard failures \n• GLM 5.2 → strongest open-weight model\n\nHigher reasoning effort didn’t always help. Full results just dropped.",
-        "author": {
-          "id": "1016059981907386368",
-          "name": "Tesla Owners Silicon Valley",
-          "screenName": "teslaownersSV",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2010961358326484993/kMQefquU_normal.jpg",
-          "verified": false
-        },
-        "metrics": {
-          "likes": 1461,
-          "retweets": 260,
-          "replies": 262,
-          "quotes": 8,
-          "views": 515242,
-          "bookmarks": 46
-        },
-        "createdAt": "Wed Jul 29 06:03:11 +0000 2026",
-        "createdAtLocal": "2026-07-29 14:03",
-        "createdAtISO": "2026-07-29T06:03:11+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HOX6z9DboAA4fno.jpg",
-            "width": 1152,
-            "height": 768
-          }
-        ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2081485024872796427",
-          "text": "Grok 4.5 is a solid workhorse",
-          "author": {
-            "screenName": "elonmusk",
-            "name": "Elon Musk"
-          }
-        }
-      },
-      {
-        "id": "2081977918000140362",
-        "text": "This is a fantastic article about @Tesla's FSD by The Detroit News:\n\n\"Determined to maintain their individual transportation independence, they are using Tesla’s hands-free FSD system as a driver assist. Though by no means exclusive to seniors in its ability to add another set of eyes to the road, FSD helps elderly drivers maintain a cocoon around their car as their confidence in reflexes and eyesight naturally deteriorate.\n\n92-year-old Leonard Kraus uses Tesla FSD (Supervised) for 87% of his miles. He recommended Tesla FSD to his 95-year-old brother-in-law. “I don't think I would be driving without it.”\n\n“It's as good a driver as I am,” said Dick Amacher, 78, a retired General Motors engineer from Rochester Hills who drives his Model Y and Model 3 on FSD 98% of the time. “Here's the thing, it will not go through a red light. It will not go through a stop sign. Every once in a while, I've driven through neighborhoods where stop signs were partially obscured by low hanging branches, for example. . . and (the Tesla) sees them before I do.”\n\nDriving into Detroit, FSD exited the expressway near Wayne State. “All of a sudden the Tesla pulls over to the curb. I'm like: ‘what is going on?’” said the 78-year old. “Turns out there was an emergency vehicle coming from behind. FSD saw that it was an emergency vehicle before I did. It has vision in every direction simultaneously. A human being cannot replicate that.”\n\nFull article: https://t.co/bn099dJ8li",
-        "author": {
-          "id": "243013409",
-          "name": "Sawyer Merritt",
-          "screenName": "SawyerMerritt",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1837744842715082752/xH9vYixL_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 6767,
-          "retweets": 1085,
-          "replies": 300,
-          "quotes": 84,
-          "views": 1978925,
-          "bookmarks": 571
-        },
-        "createdAt": "Tue Jul 28 05:39:51 +0000 2026",
-        "createdAtLocal": "2026-07-28 13:39",
-        "createdAtISO": "2026-07-28T05:39:51+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HOSrrufWEAAL6uX.jpg",
-            "width": 1456,
-            "height": 1448
-          }
-        ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2082126570852843529",
-        "text": "This has been my experience as well. I \"drive\" almost exclusively on FSD now, without incident, and it feels remarkable. I've told my soon-to-be 80-year-old father that his next car must have this technology for driving and navigation.",
-        "author": {
-          "id": "15726728",
-          "name": "Eric Berger",
-          "screenName": "SciGuySpace",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1819891202218418176/YRgX4Lf7_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 2464,
-          "retweets": 247,
-          "replies": 120,
-          "quotes": 9,
-          "views": 585054,
-          "bookmarks": 95
-        },
-        "createdAt": "Tue Jul 28 15:30:33 +0000 2026",
-        "createdAtLocal": "2026-07-28 23:30",
-        "createdAtISO": "2026-07-28T15:30:33+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2081977918000140362",
-          "text": "This is a fantastic article about @Tesla's FSD by The Detroit News:\n\n\"Determined to maintain their individual transportation independence, they are using Tesla’s hands-free FSD system as a driver assist. Though by no means exclusive to seniors in its ability to add another set of eyes to the road, FSD helps elderly drivers maintain a cocoon around their car as their confidence in reflexes and eyesight naturally deteriorate.\n\n92-year-old Leonard Kraus uses Tesla FSD (Supervised) for 87% of his miles. He recommended Tesla FSD to his 95-year-old brother-in-law. “I don't think I would be driving without it.”\n\n“It's as good a driver as I am,” said Dick Amacher, 78, a retired General Motors engineer from Rochester Hills who drives his Model Y and Model 3 on FSD 98% of the time. “Here's the thing, it will not go through a red light. It will not go through a stop sign. Every once in a while, I've driven through neighborhoods where stop signs were partially obscured by low hanging branches, for example. . . and (the Tesla) sees them before I do.”\n\nDriving into Detroit, FSD exited the expressway near Wayne State. “All of a sudden the Tesla pulls over to the curb. I'm like: ‘what is going on?’” said the 78-year old. “Turns out there was an emergency vehicle coming from behind. FSD saw that it was an emergency vehicle before I did. It has vision in every direction simultaneously. A human being cannot replicate that.”\n\nFull article: https://t.co/bn099dJ8li",
-          "author": {
-            "screenName": "SawyerMerritt",
-            "name": "Sawyer Merritt"
-          }
-        }
-      },
-      {
-        "id": "2082140310553931980",
-        "text": "Help build the AI that advances humanity.\n\nSpaceXAI is hiring exceptional engineers to work on @Grok. Explore all open roles through the @SpaceXAI profile and apply directly from 𝕏 https://t.co/dkjo4o3Wyk",
-        "author": {
-          "id": "1389913567671975937",
-          "name": "DogeDesigner",
-          "screenName": "cb_doge",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1498070100393754625/C2V-fbll_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 1133,
-          "retweets": 250,
-          "replies": 158,
-          "quotes": 8,
-          "views": 270557,
-          "bookmarks": 51
-        },
-        "createdAt": "Tue Jul 28 16:25:08 +0000 2026",
-        "createdAtLocal": "2026-07-29 00:25",
-        "createdAtISO": "2026-07-28T16:25:08+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2082140292614955008/vid/avc1/1080x1080/10jsKrqlJJcaXhka.mp4?tag=29",
-            "width": 1080,
-            "height": 1080
-          }
-        ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2082368400702226588",
-        "text": "Cool",
+        "id": "2082618654248861761",
+        "text": "Good analysis  https://t.co/LQXnKgwU3z",
         "author": {
           "id": "44196397",
           "name": "Elon Musk",
@@ -833,16 +690,116 @@
           "verified": true
         },
         "metrics": {
-          "likes": 21313,
-          "retweets": 1681,
-          "replies": 1016,
-          "quotes": 41,
-          "views": 2957528,
-          "bookmarks": 211
+          "likes": 3664,
+          "retweets": 712,
+          "replies": 695,
+          "quotes": 42,
+          "views": 675169,
+          "bookmarks": 663
         },
-        "createdAt": "Wed Jul 29 07:31:29 +0000 2026",
-        "createdAtLocal": "2026-07-29 15:31",
-        "createdAtISO": "2026-07-29T07:31:29+00:00",
+        "createdAt": "Thu Jul 30 00:05:55 +0000 2026",
+        "createdAtLocal": "2026-07-30 08:05",
+        "createdAtISO": "2026-07-30T00:05:55+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2082474649439322112/vid/avc1/1920x1080/BVd1lQvYY4y2al96.mp4?tag=29",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2082608226999169122",
+        "text": "\"Amnesty has moved so far away from their original mission... They are now acting like the types of authoritarian regimes that they have always sought to expose.” -- @iseult, granddaughter of Amnesty founder.\n\nhttps://t.co/5JTIrpb2AO",
+        "author": {
+          "id": "62513246",
+          "name": "J.K. Rowling",
+          "screenName": "jk_rowling",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2068423688500744192/mBmehEZf_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 4977,
+          "retweets": 818,
+          "replies": 194,
+          "quotes": 20,
+          "views": 223471,
+          "bookmarks": 173
+        },
+        "createdAt": "Wed Jul 29 23:24:28 +0000 2026",
+        "createdAtLocal": "2026-07-30 07:24",
+        "createdAtISO": "2026-07-29T23:24:28+00:00",
+        "media": [],
+        "urls": [
+          "https://www.thetimes.com/uk/scotland/article/amnesty-trans-jk-rowling-trans-anti-rights-2cmn6mhb0"
+        ],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2082469637216727234",
+        "text": "The Economist uploaded their full Elon interview to YouTube and left the comments on 🔥 😂 https://t.co/KZpp88HGRj",
+        "author": {
+          "id": "1118594454515003393",
+          "name": "Dirty Tesla",
+          "screenName": "DirtyTesLa",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1515173488008572931/VYTdzMib_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 5745,
+          "retweets": 456,
+          "replies": 329,
+          "quotes": 28,
+          "views": 480481,
+          "bookmarks": 229
+        },
+        "createdAt": "Wed Jul 29 14:13:46 +0000 2026",
+        "createdAtLocal": "2026-07-29 22:13",
+        "createdAtISO": "2026-07-29T14:13:46+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HOZrGRtWgAIwtpQ.jpg",
+            "width": 962,
+            "height": 4096
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2082559894264430870",
+        "text": "Grok Voice is now #1 in agentic performance",
+        "author": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screenName": "elonmusk",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 3434,
+          "retweets": 662,
+          "replies": 1074,
+          "quotes": 69,
+          "views": 1396490,
+          "bookmarks": 169
+        },
+        "createdAt": "Wed Jul 29 20:12:25 +0000 2026",
+        "createdAtLocal": "2026-07-30 04:12",
+        "createdAtISO": "2026-07-29T20:12:25+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -850,13 +807,41 @@
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2082140831205470560",
-          "text": "🚨NEWS: John Cleese has endorsed Rupert Lowe https://t.co/mumN0aCbTr",
+          "id": "2082528987272957960",
+          "text": "SpaceXAI has released Grok Voice Think Fast 2.0 today, with the High reasoning variant debuting at #2 on the Artificial Analysis Speech to Speech Index at 82.9%, and #1 on Tau Voice for Agentic Performance at 56.5% - among the fastest models at 0.70s Time to First Audio\n\nGrok Voice Think Fast 2.0 is SpaceXAI's successor to Grok Voice Think Fast 1.0 (75.7% on the Speech to Speech Index). It is the only model in the Index's top five with an average Time to First Audio under 1 second, achieving 0.70 seconds vs. 1.14 seconds for the next fastest, GPT-Realtime-2 High.\n\nKey takeaways:\n➤ Speech to Speech Index: Grok Voice Think Fast 2.0 High debuts at #2 at 82.9%, only behind Qwen Audio 3.0 Realtime Plus (84.1%) and ahead of GPT-Realtime-2.1 High (79.1%) and GPT-Realtime-2 High (77.2%). This is up 7.3 percentage points from Grok Voice Think Fast 1.0 (75.7%)\n➤ Speech to Speech Index by Benchmark: On Tau Voice, Grok Voice Think Fast 2.0 High is the new leader at 56.5%, just ahead of Qwen Audio 3.0 Realtime Plus at 54.6% and its predecessor Grok Voice Think Fast 1.0 at 52.1%. On Big Bench Audio, it achieves 97.2%, behind leader Qwen Audio 3.0 Realtime Plus at 99.2%. On our Full Duplex Bench subset, it scores 95.1%, up from 77.8% for Grok Voice Think Fast 1.0, the largest driver of its index gain, behind Qwen Audio 3.0 Realtime Plus at 98.4%\n➤ Speed: The model’s average Time to First Audio on Big Bench Audio is 0.70 seconds, faster than GPT-Realtime-2 High (1.14s), GPT-Realtime-2.1 High (1.21s), and Grok Voice Think Fast 1.0 (1.25s), and well ahead of Qwen Audio 3.0 Realtime Plus (4.02s)\n➤ Price: Grok Voice Think Fast 2.0 is priced at $4.80 per hour of input audio, up from $3.00 for Grok Voice Think Fast 1.0 and more expensive than Qwen Audio 3.0 Realtime Plus ($4.42) and GPT-Realtime-2 High ($4.14), but ~2.2x cheaper than GPT-Realtime-2.1 High ($10.75)\n\nCongratulations @SpaceXAI @elonmusk! See below for more detail ⬇️",
           "author": {
-            "screenName": "BasilTheGreat",
-            "name": "Basil the Great"
+            "screenName": "ArtificialAnlys",
+            "name": "Artificial Analysis"
           }
         }
+      },
+      {
+        "id": "2082451125601436106",
+        "text": "A joint statement from the WFA and X Corp.\n\nToday the World Federation of Advertisers (WFA) and X Corp. are putting the litigation involving the Global Alliance for Responsible Media (GARM) behind them. This resets the relationship between the two organizations.\n\nWFA reiterates its commitment to freedom of speech, a principle first included in WFA’s founding constitution back in 1953, and a principle it shares with X.\n\nOn August 9, 2024, WFA discontinued GARM. WFA will not form or restart GARM or a similar initiative.\n\nWFA and X are fully aligned in the view that brands, platforms and consumers will all benefit from brand-safety innovation.",
+        "author": {
+          "id": "121291606",
+          "name": "Business",
+          "screenName": "XBusiness",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1937148284465770496/C36iyzqg_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 1705,
+          "retweets": 187,
+          "replies": 111,
+          "quotes": 22,
+          "views": 332192,
+          "bookmarks": 117
+        },
+        "createdAt": "Wed Jul 29 13:00:13 +0000 2026",
+        "createdAtLocal": "2026-07-29 21:00",
+        "createdAtISO": "2026-07-29T13:00:13+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "elonmusk",
+        "lang": "en",
+        "score": null
       }
     ],
     "DrJimFan": [
@@ -871,11 +856,11 @@
           "verified": true
         },
         "metrics": {
-          "likes": 650,
+          "likes": 648,
           "retweets": 30,
           "replies": 30,
           "quotes": 5,
-          "views": 89074,
+          "views": 89500,
           "bookmarks": 32
         },
         "createdAt": "Fri Jul 24 23:32:30 +0000 2026",
@@ -918,7 +903,7 @@
           "retweets": 8,
           "replies": 13,
           "quotes": 3,
-          "views": 47206,
+          "views": 47460,
           "bookmarks": 31
         },
         "createdAt": "Fri Jul 24 14:24:43 +0000 2026",
@@ -951,11 +936,11 @@
         },
         "metrics": {
           "likes": 512,
-          "retweets": 47,
+          "retweets": 46,
           "replies": 45,
           "quotes": 8,
-          "views": 63306,
-          "bookmarks": 126
+          "views": 63463,
+          "bookmarks": 127
         },
         "createdAt": "Fri Jul 17 16:09:12 +0000 2026",
         "createdAtLocal": "2026-07-18 00:09",
@@ -986,10 +971,10 @@
         },
         "metrics": {
           "likes": 37,
-          "retweets": 4,
+          "retweets": 5,
           "replies": 11,
           "quotes": 0,
-          "views": 16239,
+          "views": 16368,
           "bookmarks": 11
         },
         "createdAt": "Fri Jul 17 16:11:03 +0000 2026",
@@ -1027,8 +1012,8 @@
           "retweets": 67,
           "replies": 33,
           "quotes": 6,
-          "views": 105889,
-          "bookmarks": 164
+          "views": 106209,
+          "bookmarks": 165
         },
         "createdAt": "Wed Jul 15 20:55:33 +0000 2026",
         "createdAtLocal": "2026-07-16 04:55",

@@ -1,0 +1,29 @@
+{
+  "title": "From Classification to Regression: Using a Fruitfly to Solve Equations",
+  "summary": "We present a novel approach to regression tasks using classification which is motivated by the mechanism used by fruitflies to sense their environment. Specifically, we formulate a general framework for learning nonlinear input-output relationships by replacing complex global surrogate models with a finite library of representative local patterns. Since scientific data often occupy limited and recurring regions of the input space, we generate predictions by measuring similarities between a query and stored patterns, then combining their associated responses through weighted reconstruction. We apply this approach to nonlinear dynamical systems, data-driven regression, and physics-informed learning using suitable embeddings and similarity measures. For dynamical systems, our offline-online workflow extracts patterns from data or governing equations during the offline phase, while online prediction requires only similarity evaluation and response aggregation. This structure helps us reduce computational and memory demands while providing explicit control over the trade-off among accuracy, storage, and inference cost.",
+  "url": "http://arxiv.org/abs/2607.27196v1",
+  "authors": [
+    "Shady E. Ahmed",
+    "Panos Stinis"
+  ],
+  "published": "2026-07-29T17:58:05Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "embedding",
+    "accuracy",
+    "similarity"
+  ],
+  "summary_cn": "该论文提出了一种受果蝇感知环境机制启发的创新方法，将分类任务转化为回归问题。通过构建一个通用框架，用局部分类器替代复杂的全局替代模型来学习非线性输入输出关系。这种方法简化了模型训练，可能降低计算成本，同时保持精度。对于AI产品经理，这意味着在产品中可借鉴生物启发式设计，实现更高效、轻量级的预测模型，尤其适用于资源受限场景。核心价值在于提供一种新的回归求解思路，有望推动边缘AI和实时决策应用的发展。",
+  "pm_relevance": 7,
+  "concepts": [
+    "分类转回归",
+    "生物启发AI",
+    "非线性映射"
+  ],
+  "entities": [],
+  "patterns": [
+    "启发式AI设计"
+  ]
+}

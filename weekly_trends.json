@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T00:01:59.712075+08:00",
+  "generated_at": "2026-07-30T12:02:38.819771+08:00",
   "days_analyzed": 83,
   "pillar_trends": {
     "capabilities": {
@@ -11,8 +11,8 @@
     },
     "patterns": {
       "trend": "up",
-      "delta": 4,
-      "current": 4,
+      "delta": 2,
+      "current": 2,
       "previous": 0,
       "has_data": true
     },
@@ -24,11 +24,11 @@
       "has_data": false
     },
     "business": {
-      "trend": "down",
-      "delta": -2,
-      "current": 0,
+      "trend": "up",
+      "delta": 1,
+      "current": 3,
       "previous": 2,
-      "has_data": false
+      "has_data": true
     }
   },
   "narrative_chains": [
@@ -1270,5 +1270,5 @@
   ],
   "contradictions": [],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-07-30**（83天），累计 **1930** 条情报。 焦点领域：**🤖 技术能力**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：🤖 技术能力呈上升趋势；📱 产品模式呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-07-30**（83天），累计 **1941** 条情报。 焦点领域：**🤖 技术能力**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：🤖 技术能力呈上升趋势；📱 产品模式呈上升趋势；💰 商业动态呈上升趋势"
 }

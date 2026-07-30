@@ -1,0 +1,33 @@
+{
+  "title": "Partner Capability Estimation for Task-Agnostic Adaptation in Ad-Hoc Teamwork",
+  "summary": "Effective collaboration with novel and diverse partners is a crucial skill for autonomous agents. Most current ad-hoc teamwork (AHT) approaches assume that agents will collaborate on a single, fixed task and that the partner's capabilities, their ability to successfully execute the desired action, are already known. In reality, a partner's true capabilities are often hidden, and human collaborators may act sub-optimally on tasks with multiple valid strategies. To address these limitations, we extend ad-hoc teamwork into a multi-task setting by re-framing it as a problem of joint planning with decentralised execution under hidden partner capabilities. We introduce CE-CM (Capability Estimation via Contextual Models), an approximate Bayesian method that infers task-invariant capability vectors. By using simulation-based sampling, the agent estimates capabilities and induces a contextual Multi-agent Markov Decision Processes for planning. This approach requires no population pre-training and refines its beliefs online from just a few tasks. To account for human unpredictability, we propose CE-CM-Div, an extension that evaluates capability hypotheses against diverse planner rollouts rather than a single optimal trajectory. Simulated experiments demonstrate that CE-CM rapidly recovers hidden capabilities, reduces infeasible action assignments, and adapts to changes over time. Furthermore, in an offline human study of 225 trajectories from 15 participants, CE-CM-Div substantially improved capability estimates over the baseline CE-CM method. Our results suggest capability-based modelling is a promising interpretable, task-agnostic representation in the studied settings, demonstrating that accounting for behavioural diversity is essential for robust human-AI teaming.",
+  "url": "http://arxiv.org/abs/2607.27177v1",
+  "authors": [
+    "Peter Tisnikar",
+    "Maja Swieczkowska",
+    "Benteng Ma",
+    "Gerard Canal",
+    "Matteo Leonetti"
+  ],
+  "published": "2026-07-29T17:50:39Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "agent",
+    "planning",
+    "multi-agent",
+    "autonomous"
+  ],
+  "summary_cn": "本文提出一种面向即兴团队合作（Ad-hoc Teamwork）的合作伙伴能力估计方法，使AI代理能在未知任务中与不同能力的新伙伴有效协作。传统方法假设固定任务和已知伙伴能力，而本方法通过在线估计对方执行动作的成功概率，实现任务无关的自适应协作。商业价值在于提升多智能体系统在动态环境中的灵活性，如机器人集群、智能助手协作等场景。产品创新体现为无需预定义任务即可实时调整协作策略，降低部署成本。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Ad-hoc Teamwork",
+    "Partner Capability Estimation",
+    "Task-Agnostic Adaptation"
+  ],
+  "entities": [],
+  "patterns": [
+    "Adaptive Collaboration Pattern",
+    "Task-Agnostic AI"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+  "score": 46,
+  "comments": 40,
+  "url": "https://usetokenless.com/",
+  "hn_url": "https://news.ycombinator.com/item?id=49099143",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token"
+  ],
+  "summary_cn": "Tokenless 是一家 YC S26 孵化的初创公司，核心创新在于自动模型切换技术。它能够根据用户输入的任务类型，动态选择最经济高效的 AI 模型，无需开发者手动配置。该方案在保证输出质量的前提下，显著降低 API 调用成本，尤其适合对成本敏感且需频繁调用大模型的 AI 产品。对于产品经理，这意味着可内嵌智能模型路由层，简化多模型管理，实现成本与性能的自动平衡，是典型的“成本优化型能力增强”。",
+  "pm_relevance": 8,
+  "concepts": [
+    "自动模型切换",
+    "成本优化",
+    "模型路由"
+  ],
+  "entities": [
+    "Tokenless",
+    "YC"
+  ],
+  "patterns": [
+    "Cost-Aware Routing"
+  ]
+}

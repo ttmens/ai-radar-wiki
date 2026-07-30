@@ -1,0 +1,31 @@
+{
+  "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
+  "summary": "Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is thin. Current evaluations either test agents on narrow, verifiable tasks, which excludes open-ended research, or submit AI-generated papers to blind peer review, which is overstretched, stochastic, and suffers from poor review quality. We introduce a third way to measure progress towards AI R\\&D automation. An agent takes on the central, open-ended research question of a high-quality unpublished paper, and the paper's original authors grade its output. We call these shadow evaluations. We ran shadow evaluations on two unpublished NeurIPS 2026 submissions, giving frontier agents six days and thousands of dollars of compute. The agents completed all of the engineering without human help, yet could not make substantial progress towards answering the research questions. As a result, both papers were unambiguously rejected by the authors. We identify five recurring failure modes: poor judgment about the bar for publishable research, uncreative responses to shortcomings in the research design, ineffective backtracking from dead ends, poor resource awareness, and instruction drift. A robustness check with a second model and scaffold reproduced these failures. We release the expert reviews, survey responses, agent repositories, and logs. Our results provide early evidence that today's agents can do the engineering of AI research, but struggle with critical parts of the research lifecycle.",
+  "url": "http://arxiv.org/abs/2607.27191v1",
+  "authors": [
+    "Peter Kirgis",
+    "Sayash Kapoor",
+    "Andrew Schwartz",
+    "Stephan Rabanser",
+    "David Africa"
+  ],
+  "published": "2026-07-29T17:57:19Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "evaluation",
+    "eval"
+  ],
+  "summary_cn": "本文通过两个案例研究，初步探讨AI智能体是否能够执行开放式AI研究。当前评估多聚焦于狭窄、可验证的任务，忽略了开放式研究，或将AI生成的论文交由盲审。该研究为产品经理提供了关键洞察：AI智能体在自动化研究方面的潜力可能加速AI进步，但现有评估方法存在局限。商业价值在于指导产品开发中如何设计更开放的AI研究工具。产品创新体现在对智能体能力的全新评估框架。",
+  "pm_relevance": 7,
+  "concepts": [
+    "AI Agents",
+    "Open-ended Research",
+    "Automated AI Research"
+  ],
+  "entities": [],
+  "patterns": [
+    "Agent Evaluation Pattern",
+    "Research Automation Pattern"
+  ]
+}

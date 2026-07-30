@@ -3302,3 +3302,29 @@
 - create: encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls.md
 - create: as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it.md
 - create: show-hn-echologue-the-private-ai-voice-journal-i-built-for-myself.md
+
+## [2026-07-30 12:02] sync v3 | 30 new | pillars: {'capabilities': 19, 'ecosystem': 2, 'patterns': 9}
+- create: do-you-really-need-to-pretrain-q-functions-for-online-rl-fine-tuning.md
+- create: from-classification-to-regression-using-a-fruitfly-to-solve-equations.md
+- create: can-ai-agents-conduct-open-ended-ai-research-early-evidence-from-two-case-studie.md
+- create: apex-accounting.md
+- create: inverse-learning-of-latent-risk-neutral-densities-from-irregular-option-quotes.md
+- create: the-social-cost-of-an-ai-teammate-how-an-artificial-teammate-reshapes-human-huma.md
+- create: partner-capability-estimation-for-task-agnostic-adaptation-in-ad-hoc-teamwork.md
+- create: improving-item-discoverability-in-e-commerce-search-via-related-intent-generatio.md
+- create: when-do-learned-diffusion-proposals-help-constraint-solving-a-controlled-study-o.md
+- create: omegause-officeval-benchmarking-llm-agents-on-long-horizon-office-suite-tasks-wi.md
+- create: anatomy-contextualized-adaption-of-ct-foundation-models.md
+- create: skillful-forecasting-of-offshore-winds-from-satellite-scatterometer-constellatio.md
+- create: ais-top-startups-are-barely-publishing-their-research.md
+- create: llm-honeypot.md
+- create: the-productivity-mirage.md
+- create: the-cold-email.md
+- create: refactoring-cuisine-how-an-iraqi-stew-sailed-to-singapore.md
+- create: how-much-can-you-delegate-to-agents.md
+- create: a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency.md
+- create: microsoft-is-openly-competing-with-openai-anthropic-more-than-ever.md
+- create: mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in.md
+- create: microsoft-logs-32b-from-anthropic-investment-but-openai-was-a-mixed-bag.md
+- create: zuckerberg-says-meta8217s-enterprise-ai-opportunity-extends-beyond-agents.md
+- create: show-hn-a-local-merge-queue-for-parallel-claude-code-agents.md
