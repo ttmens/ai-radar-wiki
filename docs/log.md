@@ -3346,3 +3346,25 @@
 - create: in-the-hugging-face-breach-openai8217s-hacker-was-noisy-and-fast-but-not-unstopp.md
 - create: techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tethe.md
 - create: dili-raises-217m-to-bring-ai-compliance-to-the-infrastructure-boom.md
+
+## [2026-07-31 06:01] sync v3 | 20 new | pillars: {'patterns': 7, 'capabilities': 11, 'ecosystem': 2}
+- create: agent-skill-to-force-docs-in-asd-ste100-simplified-technical-english.md
+- create: 2x-not-10x-coding-with-llms-in-2026.md
+- create: advancing-the-price-performance-frontier-with-gpt56.md
+- create: we-gave-gpt-56-sol-a-real-business-it-lied-spammed-and-lost-447.md
+- create: gcc-steering-committee-announces-ai-policy.md
+- create: show-hn-distilling-deepseek-into-gpt-oss-doesnt-transfer-censorship-try-it.md
+- create: show-hn-optimize-and-serve-models-with-fable-quality-at-half-the-cost.md
+- create: sdl_gpu-minimal-single-header-high-performance-2d-graphics-painting-library.md
+- create: paging-through-a-parquet-file-in-duckdb-file_row_number-or-offset.md
+- create: show-hn-claude-account-switch-claude-code-accounts-without-logging-in-again.md
+- create: openjdk-interim-policy-on-generative-ai.md
+- create: judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-labe.md
+- create: friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-t.md
+- create: google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thank.md
+- create: linkedin-adds-a-button-to-report-ai-generated-8216slop8217.md
+- create: okta-buys-ai-security-startup-permiso-source-says-for-about-200m.md
+- create: show-hn-supapool-a-supabase-per-coding-agent-in-400-ms.md
+- create: show-hn-noisegate-a-differential-privacy-gateway-for-untrusted-ai-agents.md
+- create: show-hn-ski-voice-coding-for-claude-code-codex-and-more-on-device-free.md
+- create: show-hn-zeroshot-agent-session-monitoring-to-make-your-team-go-faster.md

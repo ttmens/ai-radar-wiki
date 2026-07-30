@@ -1,0 +1,23 @@
+{
+  "title": "Paging Through a Parquet File in DuckDB: File_row_number or Offset?",
+  "score": 37,
+  "comments": 3,
+  "url": "https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/",
+  "hn_url": "https://news.ycombinator.com/item?id=49111006",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "本文探讨了在DuckDB中对Parquet文件进行分页查询的两种方法：使用file_row_number伪列与OFFSET/LIMIT。重点分析了各自性能差异与适用场景，file_row_number避免了全表扫描，更适合大文件随机分页；而Offset在连续翻页时更直观。对于AI产品经理，DuckDB常作为轻量级分析引擎嵌入AI数据管道，优化分页查询可提升数据预处理效率，降低延迟。",
+  "pm_relevance": 4,
+  "concepts": [
+    "Parquet文件",
+    "分页查询",
+    "DuckDB优化"
+  ],
+  "entities": [
+    "DuckDB"
+  ],
+  "patterns": [
+    "数据管道优化"
+  ]
+}
