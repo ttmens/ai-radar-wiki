@@ -3328,3 +3328,7 @@
 - create: microsoft-logs-32b-from-anthropic-investment-but-openai-was-a-mixed-bag.md
 - create: zuckerberg-says-meta8217s-enterprise-ai-opportunity-extends-beyond-agents.md
 - create: show-hn-a-local-merge-queue-for-parallel-claude-code-agents.md
+
+## [2026-07-30 18:01] sync v3 | 3 new | pillars: {'patterns': 1, 'capabilities': 2}
+- create: kuna-decompiler-development-in-the-age-of-coding-agents.md
+- create: angels-in-coptic-magic-i-introduction.md

@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-30 | Total pages: 3139
+> Last updated: 2026-07-30 | Total pages: 3141
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -106,6 +106,7 @@
 - [[anatomy-of-a-failed-nation-state-attack.md]] Anatomy of a Failed (Nation-State?) Attack `pillar:capabilities` `score:0.345`
 - [[ancient-genome-duplications-laid-the-foundations-of-complex-brains.md]] Ancient genome duplications laid the foundations of complex brains `pillar:capabilities` `score:0.225`
 - [[android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-feature.md]] Android 17 launches with new multitasking tools as Google expands Gemini feature `pillar:capabilities` `score:0.48`
+- [[angels-in-coptic-magic-i-introduction.md]] Angels in Coptic Magic I: Introduction `pillar:capabilities` `score:0.085`
 - [[anthropic-apologizes-for-invisible-claude-fable-guardrails.md]] Anthropic apologizes for invisible Claude Fable guardrails `pillar:capabilities` `score:0.63`
 - [[anthropic-is-expanding-to-colossus2-will-use-gb200.md]] Anthropic is expanding to Colossus2. Will use GB200 `pillar:capabilities` `score:0.48`
 - [[anthropic-launches-opus-5.md]] Anthropic launches Opus 5 `pillar:capabilities` `score:0.48`
@@ -1908,6 +1909,7 @@
 - [[kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-care-worse.md]] Kaiser nurses say AI, workplace surveillance are making their jobs, care worse `pillar:patterns` `score:0.63`
 - [[khoj-aikhoj.md]] khoj-ai/khoj `pillar:patterns` `score:0.615`
 - [[khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded.md]] Khosla Ventures is betting $10M on Ian Crosby, whose last startup, Bench, implod `pillar:patterns` `score:0.48`
+- [[kuna-decompiler-development-in-the-age-of-coding-agents.md]] Kuna: Decompiler Development in the Age of Coding Agents `pillar:patterns` `score:0.33`
 - [[kyegomezswarms.md]] kyegomez/swarms `pillar:patterns` `score:0.53`
 - [[labringfastgpt.md]] labring/FastGPT `pillar:patterns` `score:0.615`
 - [[langchain-ailangchain.md]] langchain-ai/langchain `pillar:patterns` `score:0.405`

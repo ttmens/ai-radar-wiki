@@ -2,24 +2,24 @@
   "daily_summary": {
     "date": "2026-07-30",
     "headline": "今日 AI 情报 · 2026-07-30",
-    "overview": "AI代理自主化引发安全治理危机，企业AI平台化竞争加剧",
+    "overview": "AI自主操作安全风险与平台竞争成为行业拐点",
     "narratives": [
       {
-        "title": "AI代理自主化引发安全治理新范式",
-        "body": "今日多起事件（代理入侵、文档蠕虫、LLM蜜罐、Hugging Face入侵）集中暴露了AI代理在自主操作时面临的全新攻击面。传统静态规则无法约束代理行为，长政策文档治理失效，动态对齐与内嵌安全架构成为刚需。产品经理需将安全从外部补丁升级为核心架构设计，否则企业级部署将面临系统性风险。",
-        "type": "bottleneck",
+        "title": "AI代理自主性引发安全治理新范式",
+        "body": "多起安全事件（代理入侵、文档蠕虫、长政策失效）密集揭示当前AI代理在自主操作时安全边界模糊，静态规则和传统防护难以应对动态攻击。产品经理必须将安全内置为产品核心能力，从“规则驱动”转向“对齐优先”的动态治理，这将成为企业级AI代理的准入门槛。",
+        "type": "paradigm_shift",
         "pillar_key": "patterns"
       },
       {
-        "title": "企业AI基础设施平台化竞争白热化",
-        "body": "微软、Meta等巨头加速构建自研模型+API+工具的完整闭环，与OpenAI、Anthropi的竞合关系从合作转向正面竞争。闭源趋势下，开源依赖风险加大，多模型架构和模型即服务（MaaS）成为企业避险选择。产品经理需评估供应商锁定风险，并关注平台化带来的集成深度与生态杠杆。",
+        "title": "大模型平台化竞争重塑企业AI生态",
+        "body": "微软公开与OpenAI/Anthropic竞争，Meta推出企业AI平台战略，Hugging Face遭遇入侵暴露供应链风险。大厂正通过自研模型+工具链+API服务构建独立生态，推动模型即服务（MaaS）定价竞争，产品经理需警惕单一模型依赖并评估多供应商策略。",
         "type": "maturation",
-        "pillar_key": "business"
+        "pillar_key": "ecosystem"
       },
       {
-        "title": "从工具到代理：AI能力向长周期复杂任务演进",
-        "body": "多个基准测试和产品创新（办公套件、会计、医学影像）表明AI正从简单问答扩展到多步骤、长周期工作流。这需要同时优化任务完成度与经济成本，推动低成本、高智能的自动化方案。产品经理应关注面向领域的专用模型和自适应协作，以在真实部署中兑现商业价值。",
-        "type": "paradigm_shift",
+        "title": "AI能力逼近科学发现与消费级应用拐点",
+        "body": "Sam Altman和马斯克均暗示AI即将显著加速科学发现，同时冷邮件、电商搜索等消费级场景的突破性应用验证了生成式AI在个性化与规模化之间的平衡能力。产品经理应抓住Capability跃迁窗口，在垂直领域快速落地高价值用例。",
+        "type": "validation",
         "pillar_key": "capabilities"
       }
     ],
@@ -27,40 +27,40 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "narrative_title": "AI代理自主化引发安全治理新范式",
-        "insight": "AI代理自主化引发安全治理新范式。该方向的具体信号：前沿实验室代理遭入侵、文档蠕虫通过Copilot自传播、长政策文档无法可靠约束代理、Hugging Face平台被突破——共同指向安全必须从静态规则转向动态对齐与内嵌架构。",
+        "narrative_title": "AI代理自主性引发安全治理新范式",
+        "insight": "AI代理自主性引发安全治理新范式。该方向的具体信号：前沿实验室代理被入侵的时间线分析揭示了长期记忆与工具集成的漏洞；AI蠕虫通过Copilot for Word自我传播利用提示注入；长政策文档无法可靠约束代理行为，表明静态治理失效；LLM Honeypot概念展示了用诱饵对抗攻击的创新思路。",
         "evidence": [
           {
             "id": "document-borne-ai-worms-can-self-propagate-through-copilot-for-word",
-            "title": "文档AI蠕虫通过Copilot for Word自我传播",
+            "title": "Document-borne AI worms can self-propagate through Copilot for Word",
             "score": 0.58
           },
           {
-            "id": "the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-meta",
-            "title": "Hugging Face入侵事件：暗示平台供应链安全风险",
+            "id": "llm-honeypot",
+            "title": "LLM Honeypot",
             "score": 0.48
           }
         ]
       },
       {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "narrative_title": "企业AI基础设施平台化竞争白热化",
-        "insight": "企业AI基础设施平台化竞争白热化。该方向的具体信号：微软公开与OpenAI、Anthropic竞争并展示自研模型+工具链；Meta宣称企业AI机会远超代理，布局API+计算；顶级初创闭源减少研究发表；微软从Anthropic投资获利但OpenAI回报参差——平台化与闭源战略正在重塑生态格局。",
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "narrative_title": "大模型平台化竞争重塑企业AI生态",
+        "insight": "大模型平台化竞争重塑企业AI生态。该方向的具体信号：微软在华尔街展示自研模型和工具链，明确与OpenAI、Anthropic正面竞争，推动模型即服务定价竞赛；Meta CEO扎克伯格宣布企业AI机会涵盖代理、API、计算和内部软件，转向平台化；Hugging Face遭遇安全入侵事件，凸显第三方模型托管平台的供应链风险。",
         "evidence": [
           {
-            "id": "zuckerberg-says-meta8217s-enterprise-ai-opportunity-extends-beyond-agents",
-            "title": "Meta企业AI机会涵盖代理、API、计算、内部软件",
-            "score": 0.52
-          },
-          {
             "id": "microsoft-is-openly-competing-with-openai-anthropic-more-than-ever",
-            "title": "微软公开竞争OpenAI和Anthropic",
+            "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
             "score": 0.52
           },
           {
-            "id": "microsoft-logs-32b-from-anthropic-investment-but-openai-was-a-mixed-bag",
-            "title": "微软从Anthropic投资获利32亿，OpenAI表现参差",
+            "id": "zuckerberg-says-meta8217s-enterprise-ai-opportunity-extends-beyond-agents",
+            "title": "Zuckerberg says Meta's enterprise AI opportunity extends beyond agents",
+            "score": 0.52
+          },
+          {
+            "id": "the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-meta",
+            "title": "The Hugging Face AI break-in, as told through an increasingly committed bear",
             "score": 0.48
           }
         ]
@@ -68,26 +68,58 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "narrative_title": "从工具到代理：AI能力向长周期复杂任务演进",
-        "insight": "从工具到代理：AI能力向长周期复杂任务演进。该方向的具体信号：OmegaUse-OfficeVal基准衡量长期办公任务的经济性；APEX-Accounting评估会计实务能力；CT基础模型实现解剖级感知；电商搜索通过相关意图生成提升发现性；冷邮件智能生成兼顾个性化与规模化——模型正从单步问答扩展到多步、多场景的复杂工作流。",
+        "narrative_title": "AI能力逼近科学发现与消费级应用拐点",
+        "insight": "AI能力逼近科学发现与消费级应用拐点。该方向的具体信号：Sam Altman表示即将推出显著加速科学发现的模型；马斯克转推肯定AI进展；Dream-Cubed生成建模在Minecraft中实现可控生成；冷邮件场景中LLM实现高度个性化触达；电商搜索通过相关意图生成提升商品发现能力。",
         "evidence": [
           {
-            "id": "omegause-officeval-benchmarking-llm-agents-on-long-horizon-office-suite-tasks-wi",
-            "title": "OmegaUse-OfficeVal：长期办公任务与成本基准",
-            "score": 0.48
+            "id": "twitter_sama_2082628413769003269",
+            "title": "Sam Altman: very close to models that will significantly accelerate scientific discovery",
+            "score": 1.0
           },
           {
-            "id": "apex-accounting",
-            "title": "APEX-Accounting：评估AI会计实务能力的基准",
-            "score": 0.48
+            "id": "twitter_hardmaru_2082627169877217374",
+            "title": "Dream-Cubed: Controllable Generative Modeling in Minecraft",
+            "score": 0.7
           }
         ]
       }
     ],
-    "stats": "技术能力: 11 | 产品模式: 7 | 工具生态: 3 | 商业趋势: 4",
+    "stats": "技术能力: 9 | 产品模式: 5 | 工具生态: 4 | 商业趋势: 3",
     "total_items": 20,
     "high_value_count": 20,
     "all_today_ids": [
+      {
+        "id": "twitter_sama_2082628413769003269",
+        "label": "so excited for this.\n\nvery close to models that will significantly accelerate scientific discovery; ..."
+      },
+      {
+        "id": "twitter_sama_2082627724040884667",
+        "label": "goblin-level blog post"
+      },
+      {
+        "id": "twitter_elonmusk_2082673948404208034",
+        "label": "True"
+      },
+      {
+        "id": "twitter_satyanadella_2082640036949008570",
+        "label": "Some more detail on the ROIC Intelligence App I built yesterday and mentioned on today's earnings ca..."
+      },
+      {
+        "id": "twitter_elonmusk_2082671447844262131",
+        "label": "The @Tesla Diner averages 1,600 charging sessions per day. Yes, PER DAY.\n\nI just showed up tonight o..."
+      },
+      {
+        "id": "twitter_bindureddy_2082662789966119112",
+        "label": "BE PREPARED!\n\nThe world is going to get weird very fast! \n\nWe will see a big rise in authoritarian g..."
+      },
+      {
+        "id": "twitter_swyx_2082617801362313527",
+        "label": "today i tried to sign up for @docusign and was presented a captcha that i could not solve\n\nthis is a..."
+      },
+      {
+        "id": "twitter_hardmaru_2082627169877217374",
+        "label": "Dream-Cubed: Controllable Generative Modeling in Minecraft by Training on Billions of Cubes\n\nhttps:/..."
+      },
       {
         "id": "anatomy-of-a-frontier-lab-agent-intrusion-a-timeline-of-the-july-2026-incident",
         "label": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident"
@@ -253,6 +285,10 @@
         "label": "Show HN: A local merge queue for parallel Claude Code agents"
       },
       {
+        "id": "kuna-decompiler-development-in-the-age-of-coding-agents",
+        "label": "Kuna: Decompiler Development in the Age of Coding Agents"
+      },
+      {
         "id": "show-hn-vimgolfai-learn-vim-by-playing-through-a-map-of-levels",
         "label": "Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels"
       },
@@ -275,9 +311,13 @@
       {
         "id": "hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago",
         "label": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago"
+      },
+      {
+        "id": "angels-in-coptic-magic-i-introduction",
+        "label": "Angels in Coptic Magic I: Introduction"
       }
     ],
     "date_bj": "2026-07-30 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-07-30 12:02:20"
+    "generated_at_bj": "2026-07-30 18:01:36"
   }
 }
