@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-07-30 | Total pages: 3141
+> Last updated: 2026-07-31 | Total pages: 3153
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -339,6 +339,7 @@
 - [[ford-rehires-gray-beard-engineers-after-ai-falls-short.md]] Ford rehires ‘gray beard’ engineers after AI falls short `pillar:capabilities` `score:0.48`
 - [[forever-young-how-one-molecule-can-lock-plants-in-a-youthful-state-2025.md]] Forever Young: how one molecule can lock plants in a youthful state (2025) `pillar:capabilities` `score:0.27`
 - [[formal-verification-gates-for-ai-coding-loops.md]] Formal Verification Gates for AI Coding Loops `pillar:capabilities` `score:0.43`
+- [[forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession.md]] Forward-deployed engineers are the AI industry’s latest talent obsession `pillar:capabilities` `score:0.48`
 - [[free-way-to-get-your-data-out-of-chatgpt-business-accounts.md]] Free way to get your data out of ChatGPT Business accounts `pillar:capabilities` `score:0.38`
 - [[frieve-vinyl-explained-microscopic-stylusgroove-physics-simulation.md]] Frieve Vinyl Explained – Microscopic stylus/groove physics simulation `pillar:capabilities` `score:0.24`
 - [[from-brain-waves-to-words-a-new-path-to-communication-without-surgery.md]] From brain waves to words: a new path to communication without surgery `pillar:capabilities` `score:0.565`
@@ -353,6 +354,7 @@
 - [[gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https.md]] Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS `pillar:capabilities` `score:0.36`
 - [[gemini-last-models-temperature-top_p-and-top_k-are-deprecated-and-ignored.md]] Gemini last models: temperature, top_p, and top_k are deprecated and ignored `pillar:capabilities` `score:0.38`
 - [[gemini-omni.md]] Gemini Omni `pillar:capabilities` `score:0.53`
+- [[gemini-robotics-2-brings-whole-body-intelligence-to-robots.md]] Gemini Robotics 2 brings whole body intelligence to robots `pillar:capabilities` `score:0.515`
 - [[gemma-4-12b-a-unified-encoder-free-multimodal-model.md]] Gemma 4 12B: A unified, encoder-free multimodal model `pillar:capabilities` `score:0.68`
 - [[gemma-4-qat-models-optimizing-compression-for-mobile-and-laptop-efficiency.md]] Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency `pillar:capabilities` `score:0.53`
 - [[general-intuition-in-talks-to-raise-300m-at-around-2b-valuation.md]] General Intuition in talks to raise $300M at around $2B valuation `pillar:capabilities` `score:0.48`
@@ -578,6 +580,7 @@
 - [[meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination.md]] Meta is testing an AI bedtime story app for people with no imagination `pillar:capabilities` `score:0.48`
 - [[meta-just-launched-a-new-ai-generator-muse-image-and-users-are-already-pushing-b.md]] Meta just launched a new AI generator, Muse Image, and users are already pushing `pillar:capabilities` `score:0.48`
 - [[meta-quietly-launches-vibe-coded-gaming-app-pocket.md]] Meta quietly launches vibe-coded gaming app Pocket `pillar:capabilities` `score:0.48`
+- [[meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming.md]] Meta says AI is making it easier to build new apps — and more are coming `pillar:capabilities` `score:0.515`
 - [[meta-signs-first-ai-data-center-deal-in-india-with-reliance.md]] Meta signs first AI data center deal in India with Reliance `pillar:capabilities` `score:0.445`
 - [[meta8217s-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms.md]] Meta&#8217;s new ‘AI Mode’ on Facebook pulls from public info across its platfor `pillar:capabilities` `score:0.445`
 - [[metas-ai-models-are-powering-the-first-wave-of-genesis-mission-projects.md]] Meta's AI models are powering the first wave of Genesis Mission projects `pillar:capabilities` `score:0.445`
@@ -1739,6 +1742,7 @@
 - [[affaan-mecc.md]] affaan-m/ECC `pillar:patterns` `score:0.58`
 - [[affaan-meverything-claude-code.md]] affaan-m/everything-claude-code `pillar:patterns` `score:0.58`
 - [[agent-harness-kit-scaffolding-for-multi-agent-work.md]] Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic) `pillar:patterns` `score:0.33`
+- [[agent-manager-a-tmux-tui-for-running-claude-code-codex-and-opencode.md]] Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode `pillar:patterns` `score:0.48`
 - [[agent-swarms-and-the-new-model-economics.md]] Agent swarms and the new model economics `pillar:patterns` `score:0.43`
 - [[agent-talk-enabling-coding-agents-to-work-together.md]] Agent-talk: Enabling coding agents to work together `pillar:patterns` `score:0.365`
 - [[agentic-coding-deserves-more-than-a-chat-box-bolted-onto-vs-code.md]] Agentic coding deserves more than a chat box bolted onto VS Code `pillar:patterns` `score:0.43`
@@ -2330,6 +2334,7 @@
 - [[deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai.md]] DeepMind CEO calls for an independent standards body to regulate frontier AI `pillar:ecosystem` `score:0.48`
 - [[defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-j.md]] Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on `pillar:ecosystem` `score:0.445`
 - [[diffusionbench-towards-holistic-evaluation-of-generative-diffusion-transformers.md]] DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers `pillar:ecosystem` `score:0.295`
+- [[dili-raises-217m-to-bring-ai-compliance-to-the-infrastructure-boom.md]] Dili raises $21.7M to bring AI compliance to the infrastructure boom `pillar:ecosystem` `score:0.41`
 - [[discover-what8217s-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap.md]] Discover what&#8217;s next for AI, from the SaaS reckoning to the agent security `pillar:ecosystem` `score:0.445`
 - [[dmlcxgboost.md]] dmlc/xgboost `pillar:ecosystem` `score:0.615`
 - [[doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-e.md]] DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, a `pillar:ecosystem` `score:0.445`
@@ -2354,6 +2359,7 @@
 - [[glow-emerges-from-stealth-at-12b-valuation-to-challenge-endpoint-security-in-the.md]] Glow emerges from stealth at $1.2B valuation to challenge endpoint security in t `pillar:ecosystem` `score:0.445`
 - [[gm-backs-sodium-ion-batteries-for-us-grid-storage.md]] GM Backs Sodium Ion Batteries for U.S. Grid Storage `pillar:ecosystem` `score:0.355`
 - [[gmail-registration-now-requires-scanning-a-qr-code.md]] Gmail registration now requires scanning a QR code and sending a text message `pillar:ecosystem` `score:0.53`
+- [[go-llm-sdk-for-streaming-tool-calling-ai-backends-plus-frontend-react-lib.md]] Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib) `pillar:ecosystem` `score:0.295`
 - [[godot-will-no-longer-accept-ai-authored-code-contributions.md]] Godot will no longer accept AI-authored code contributions `pillar:ecosystem` `score:0.495`
 - [[google-deepmindsonnet.md]] google-deepmind/sonnet `pillar:ecosystem` `score:0.495`
 - [[google-geminigemini-cli.md]] google-gemini/gemini-cli `pillar:ecosystem` `score:0.58`
@@ -2378,6 +2384,7 @@
 - [[hugging-face8217s-ceo-on-why-companies-are-done-renting-their-ai.md]] Hugging Face&#8217;s CEO on why companies are done renting their AI `pillar:ecosystem` `score:0.515`
 - [[if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai.md]] If you’re giving a commencement speech in 2026, maybe don’t mention AI `pillar:ecosystem` `score:0.515`
 - [[in-praise-of-memcached.md]] In praise of memcached `pillar:ecosystem` `score:0.445`
+- [[in-the-hugging-face-breach-openai8217s-hacker-was-noisy-and-fast-but-not-unstopp.md]] In the Hugging Face breach, OpenAI&#8217;s hacker was noisy and fast — but not u `pillar:ecosystem` `score:0.375`
 - [[in-toto-a-framework-to-secure-the-integrity-of-software-supply-chains.md]] In-toto: A framework to secure the integrity of software supply chains `pillar:ecosystem` `score:0.33`
 - [[introducing-the-6-stages-at-techcrunch-disrupt-202.md]] Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher `pillar:ecosystem` `score:0.305`
 - [[invoke-aiinvokeai.md]] invoke-ai/InvokeAI `pillar:ecosystem` `score:0.58`
@@ -2441,6 +2448,7 @@
 - [[notion-restores-access-to-anthropic-after-service-disruption.md]] Notion restores access to Anthropic after service disruption `pillar:ecosystem` `score:0.445`
 - [[now-is-the-time-to-give-llms-access-to-the-acm-digital-library.md]] Now Is the Time to Give LLMs Access to the ACM Digital Library `pillar:ecosystem` `score:0.515`
 - [[nsa-and-ietf-fairness.md]] NSA and IETF: Fairness `pillar:ecosystem` `score:0.495`
+- [[nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack.md]] Nscale buys Anyscale as it seeks to own more of the AI compute stack `pillar:ecosystem` `score:0.48`
 - [[nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups.md]] Nvidia posts another record quarter, reveals $43 billion of holdings in startups `pillar:ecosystem` `score:0.48`
 - [[nvidia-wants-to-cut-data-center-water-use-but-that8217s-not-the-same-as-fixing-a.md]] Nvidia wants to cut data center water use, but that&#8217;s not the same as fixi `pillar:ecosystem` `score:0.445`
 - [[nvidiatensorrt.md]] NVIDIA/TensorRT `pillar:ecosystem` `score:0.615`
@@ -2555,6 +2563,7 @@
 - [[stop-killing-games-fails-to-secure-eu-law-despite-13m-signatures.md]] Stop Killing Games fails to secure EU law despite 1.3M signatures `pillar:ecosystem` `score:0.225`
 - [[sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-google8217.md]] Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google&#8 `pillar:ecosystem` `score:0.445`
 - [[superhuman8217s-new-auto-draft-feature-almost-makes-me-like-ai-replies.md]] Superhuman&#8217;s new auto-draft feature almost makes me like AI replies `pillar:ecosystem` `score:0.48`
+- [[techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tethe.md]] TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Te `pillar:ecosystem` `score:0.34`
 - [[teen-hackers-who-live-streamed-cyber-attack-on-tfl-jailed.md]] Teen hackers who live streamed cyber-attack on TfL jailed `pillar:ecosystem` `score:0.305`
 - [[telegrams-tme-domain-has-been-suspended.md]] Telegram's t.me domain has been suspended `pillar:ecosystem` `score:0.495`
 - [[tenda-firmware-multiple-versions-contains-hidden-authentication-backdoor.md]] Tenda firmware (multiple versions) contains hidden authentication backdoor `pillar:ecosystem` `score:0.24`
@@ -2785,8 +2794,10 @@
 - [[can-the-stockmarket-swallow-anthropic-spacex-and-openai.md]] Can the stockmarket swallow Anthropic, SpaceX and OpenAI? `pillar:business` `score:0.58`
 - [[canadian-pension-giant-joins-race-to-fund-india8217s-ai-fueled-data-center-boom.md]] Canadian pension giant joins race to fund India&#8217;s AI-fueled data center bo `pillar:business` `score:0.375`
 - [[canvas-online-again-as-shinyhunters-threatens-to-l.md]] Canvas online again as ShinyHunters threatens to leak schools’ data `pillar:business` `score:0.505`
+- [[carolina-cloud-pays-sofr-on-unused-prepaid-credits.md]] Carolina Cloud pays SOFR on unused prepaid credits `pillar:business` `score:0.41`
 - [[cerebras-raises-55b-then-stock-pops-108-in-the-first-huge-tech-ipo-of-2026.md]] Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026 `pillar:business` `score:0.445`
 - [[cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misundersto.md]] Cerebras stock plunges after earnings as CEO says margin outlook was misundersto `pillar:business` `score:0.375`
+- [[chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms.md]] ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms `pillar:business` `score:0.43`
 - [[chatgpt8217s-market-share-slips-below-50-for-first-time.md]] ChatGPT&#8217;s market share slips below 50% for first time `pillar:business` `score:0.445`
 - [[chipotlai-max.md]] Chipotlai Max `pillar:business` `score:0.38`
 - [[cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-8216record-quarterly-rev.md]] Cisco cuts nearly 4,000 jobs to spend more on AI, reports &#8216;record quarterl `pillar:business` `score:0.445`
@@ -2929,6 +2940,7 @@
 - [[musk-mulled-handing-openai-to-his-children-altman.md]] Musk mulled handing OpenAI to his children, Altman testifies `pillar:business` `score:0.305`
 - [[musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-28b-more.md]] Musk’s xAI is being sued over its data center generators. Now, it’s buying $2.8B `pillar:business` `score:0.48`
 - [[musks-xai-is-running-nearly-50-gas-turbines-unche.md]] Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data c `pillar:business` `score:0.305`
+- [[my-lifes-screwed-korean-investors-stress-out-after-ai-bubble-bursts.md]] 'My life's screwed': Korean investors stress out after AI bubble bursts `pillar:business` `score:0.275`
 - [[nailing-jelly-to-a-wall-is-it-possible-2005.md]] Nailing jelly to a wall: is it possible? (2005) `pillar:business` `score:0.255`
 - [[nandan-nilekani-leaves-gp-role-at-fundamentum-as-it-launches-200m-third-fund.md]] Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund `pillar:business` `score:0.445`
 - [[nea8217s-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning.md]] NEA&#8217;s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning `pillar:business` `score:0.48`

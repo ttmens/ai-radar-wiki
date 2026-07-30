@@ -1,0 +1,24 @@
+{
+  "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+  "score": 34,
+  "comments": 13,
+  "url": "https://github.com/grafana/ai-sdk",
+  "hn_url": "https://news.ycombinator.com/item?id=49108778",
+  "tag": "HN",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "sdk"
+  ],
+  "summary_cn": "该内容介绍了一个面向Go语言的LLM SDK，支持流式输出和工具调用，并附带前端React库。技术要点包括：Go语言原生SDK，支持实时的流式响应处理，以及通过工具调用（tool-calling）扩展AI能力，可集成多种AI后端。商业价值上，该SDK简化了AI应用的后端开发，降低了集成门槛，同时提供React前端库实现前后端一体化开发，加速产品迭代。产品创新在于统一了流式交互和工具调用的开发体验，适合构建交互式AI助手或自动化工作流产品。",
+  "pm_relevance": 7,
+  "concepts": [
+    "LLM SDK",
+    "Streaming",
+    "Tool Calling"
+  ],
+  "entities": [],
+  "patterns": [
+    "Streaming Pattern",
+    "Tool Calling Pattern"
+  ]
+}

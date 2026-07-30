@@ -3332,3 +3332,17 @@
 ## [2026-07-30 18:01] sync v3 | 3 new | pillars: {'patterns': 1, 'capabilities': 2}
 - create: kuna-decompiler-development-in-the-age-of-coding-agents.md
 - create: angels-in-coptic-magic-i-introduction.md
+
+## [2026-07-31 00:02] sync v3 | 12 new | pillars: {'capabilities': 9, 'ecosystem': 2, 'patterns': 1}
+- create: gemini-robotics-2-brings-whole-body-intelligence-to-robots.md
+- create: go-llm-sdk-for-streaming-tool-calling-ai-backends-plus-frontend-react-lib.md
+- create: agent-manager-a-tmux-tui-for-running-claude-code-codex-and-opencode.md
+- create: chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms.md
+- create: my-lifes-screwed-korean-investors-stress-out-after-ai-bubble-bursts.md
+- create: carolina-cloud-pays-sofr-on-unused-prepaid-credits.md
+- create: meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming.md
+- create: nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack.md
+- create: forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession.md
+- create: in-the-hugging-face-breach-openai8217s-hacker-was-noisy-and-fast-but-not-unstopp.md
+- create: techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tethe.md
+- create: dili-raises-217m-to-bring-ai-compliance-to-the-infrastructure-boom.md
