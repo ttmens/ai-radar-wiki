@@ -125763,6 +125763,81 @@
       "retweets": 0,
       "views": 3441,
       "is_today": true
+    },
+    {
+      "id": "twitter_bindureddy_2083903923681886638",
+      "label": "Pick the best model based on task complexity \n\nVery easy - Deepseek Flash\nEasy - Grok 4.4\nMedium - K...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.64,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "bindureddy"
+      ],
+      "summary": "Pick the best model based on task complexity \n\nVery easy - Deepseek Flash\nEasy - Grok 4.4\nMedium - Kimi K3\nHard - GPT 5.6 Sol \nVery hard - Fable 5\n\nIf you use flash on a hard task, it will fail and a Fable 5 on an easy task will be 100x more expensive!",
+      "raw_content": "Pick the best model based on task complexity \n\nVery easy - Deepseek Flash\nEasy - Grok 4.4\nMedium - Kimi K3\nHard - GPT 5.6 Sol \nVery hard - Fable 5\n\nIf you use flash on a hard task, it will fail and a Fable 5 on an easy task will be 100x more expensive!",
+      "source_type": "twitter",
+      "date": "2026-08-02",
+      "url": "https://x.com/bindureddy/status/2083903923681886638",
+      "stars": 96,
+      "score": 0.6444,
+      "comments": 28,
+      "author": "Bindu Reddy",
+      "author_username": "bindureddy",
+      "retweets": 5,
+      "views": 6283,
+      "is_today": false
+    },
+    {
+      "id": "twitter_supabase_2083938380354634190",
+      "label": "What's the craziest thing you've seen on LinkedIn?? https://t.co/8XIxptGkTO",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.61,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "supabase"
+      ],
+      "summary": "What's the craziest thing you've seen on LinkedIn?? https://t.co/8XIxptGkTO",
+      "raw_content": "What's the craziest thing you've seen on LinkedIn?? https://t.co/8XIxptGkTO",
+      "source_type": "twitter",
+      "date": "2026-08-02",
+      "url": "https://x.com/supabase/status/2083938380354634190",
+      "stars": 15,
+      "score": 0.6054,
+      "comments": 2,
+      "author": "Supabase",
+      "author_username": "supabase",
+      "retweets": 0,
+      "views": 1495,
+      "is_today": false
+    },
+    {
+      "id": "twitter_ThePracticalDev_2083913711048097834",
+      "label": "Coding agents will confidently hand over code they call accessible, having learned from a web that l...",
+      "type": "tweet",
+      "pillar": "patterns",
+      "pm_score": 0.6,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ThePracticalDev"
+      ],
+      "summary": "Coding agents will confidently hand over code they call accessible, having learned from a web that largely is not. This dev refreshes a four-year-old starting guide with what the EAA changed, where WCAG stands now, and how to run a first audit.\n\n{ author: Josefine Schfr }\n\nhttps://t.co/gi30KxR505",
+      "raw_content": "Coding agents will confidently hand over code they call accessible, having learned from a web that largely is not. This dev refreshes a four-year-old starting guide with what the EAA changed, where WCAG stands now, and how to run a first audit.\n\n{ author: Josefine Schfr }\n\nhttps://t.co/gi30KxR505",
+      "source_type": "twitter",
+      "date": "2026-08-02",
+      "url": "https://x.com/ThePracticalDev/status/2083913711048097834",
+      "stars": 2,
+      "score": 0.6018,
+      "comments": 0,
+      "author": "DEV Community",
+      "author_username": "ThePracticalDev",
+      "retweets": 2,
+      "views": 1818,
+      "is_today": false
     }
   ],
   "edges": [
@@ -168966,16 +169041,34 @@
       "source": "twitter_ThePracticalDev_2083765989049618486",
       "target": "提示工程",
       "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_bindureddy_2083903923681886638_ai治理",
+      "source": "twitter_bindureddy_2083903923681886638",
+      "target": "ai治理",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_supabase_2083938380354634190_ai-ethics",
+      "source": "twitter_supabase_2083938380354634190",
+      "target": "ai-ethics",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_ThePracticalDev_2083913711048097834_capabilities",
+      "source": "twitter_ThePracticalDev_2083913711048097834",
+      "target": "capabilities",
+      "type": "RELATED_TO"
     }
   ],
   "generated_at": "2026-08-02T18:01:10.455427",
   "generator": "ai-radar-explorer-v3",
   "schema_version": "4-pillar-pm-focused",
   "metadata": {
-    "last_updated": "2026-08-02T18:02:19.666665",
+    "last_updated": "2026-08-03T00:02:30.975661",
     "pipeline_version": "v3.16",
-    "total_nodes": 6317,
-    "total_edges": 6624,
+    "total_nodes": 6320,
+    "total_edges": 6627,
     "today_nodes": 19,
     "sources": [
       "concept",
