@@ -133352,6 +133352,131 @@
       "retweets": 21,
       "views": 301376,
       "is_today": false
+    },
+    {
+      "id": "twitter_swyx_2085001943693549887",
+      "label": "Introducing celld: a self-hosted, distributed Durable Objects and Workers implementation\n\n- celld = ...",
+      "type": "tweet",
+      "pillar": "patterns",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "swyx"
+      ],
+      "summary": "Introducing celld: a self-hosted, distributed Durable Objects and Workers implementation\n\n- celld = V8 + S3 + SQLite + LTX+ Tokio\n- programmed with exactly the Cloudflare Workers/DO JavaScript APIs and config\n- order of magnitude cheaper at scale\n- writes are durable before they're acknowledged, RPO",
+      "raw_content": "Introducing celld: a self-hosted, distributed Durable Objects and Workers implementation\n\n- celld = V8 + S3 + SQLite + LTX+ Tokio\n- programmed with exactly the Cloudflare Workers/DO JavaScript APIs and config\n- order of magnitude cheaper at scale\n- writes are durable before they're acknowledged, RPO=0\n- only depends on an S3 compatible bucket - no other infrastructure\n- ~4 MB memory per cell instance overhead\n- hibernated cells cost ~nothing, just their S3 storage\n- open source, Apache 2 licensed",
+      "source_type": "twitter",
+      "date": "2026-08-05",
+      "url": "https://x.com/swyx/status/2085001943693549887",
+      "stars": 2133,
+      "score": 1.0,
+      "comments": 93,
+      "author": "Ryan Dahl",
+      "author_username": "swyx",
+      "retweets": 243,
+      "views": 128996,
+      "is_today": false
+    },
+    {
+      "id": "twitter_swyx_2085253030417461661",
+      "label": "a very primitive form of the near term multiagent agi future is setting up one thread to ping back o...",
+      "type": "tweet",
+      "pillar": "patterns",
+      "pm_score": 0.72,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "swyx"
+      ],
+      "summary": "a very primitive form of the near term multiagent agi future is setting up one thread to ping back once its done so you create an implicit kanban/waterfall graph of  dependent threads but each preserving their own work and agents\n\ni can't wait to setup a proper ui for this pattern but you can hack i",
+      "raw_content": "a very primitive form of the near term multiagent agi future is setting up one thread to ping back once its done so you create an implicit kanban/waterfall graph of  dependent threads but each preserving their own work and agents\n\ni can't wait to setup a proper ui for this pattern but you can hack it together in most koding agents of choice rn",
+      "source_type": "twitter",
+      "date": "2026-08-06",
+      "url": "https://x.com/swyx/status/2085253030417461661",
+      "stars": 20,
+      "score": 0.7150000000000001,
+      "comments": 16,
+      "author": "swyx",
+      "author_username": "swyx",
+      "retweets": 3,
+      "views": 4343,
+      "is_today": true
+    },
+    {
+      "id": "twitter_swyx_2085236400056877381",
+      "label": "TIL Paul Erdős prompted his fellow mathematicians with bribes like we did the early LLMs https://t.c...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.71,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "swyx"
+      ],
+      "summary": "TIL Paul Erdős prompted his fellow mathematicians with bribes like we did the early LLMs https://t.co/Bh8CFhGIn6",
+      "raw_content": "TIL Paul Erdős prompted his fellow mathematicians with bribes like we did the early LLMs https://t.co/Bh8CFhGIn6",
+      "source_type": "twitter",
+      "date": "2026-08-06",
+      "url": "https://x.com/swyx/status/2085236400056877381",
+      "stars": 15,
+      "score": 0.7078,
+      "comments": 6,
+      "author": "swyx",
+      "author_username": "swyx",
+      "retweets": 1,
+      "views": 3855,
+      "is_today": true
+    },
+    {
+      "id": "twitter_swyx_2085219563944452505",
+      "label": "your talent density: a bunch of 19 year old kids who did well in super contrived competitions\n\ntheir...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.7,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "swyx"
+      ],
+      "summary": "your talent density: a bunch of 19 year old kids who did well in super contrived competitions\n\ntheir talent density: https://t.co/Cx8ohp79Oi",
+      "raw_content": "your talent density: a bunch of 19 year old kids who did well in super contrived competitions\n\ntheir talent density: https://t.co/Cx8ohp79Oi",
+      "source_type": "twitter",
+      "date": "2026-08-06",
+      "url": "https://x.com/swyx/status/2085219563944452505",
+      "stars": 9,
+      "score": 0.7040500000000001,
+      "comments": 3,
+      "author": "swyx",
+      "author_username": "swyx",
+      "retweets": 0,
+      "views": 2353,
+      "is_today": true
+    },
+    {
+      "id": "twitter_bindureddy_2085304641928183838",
+      "label": "Working on combining Fable 5 and DeepSeek Flash \n\nFable 5 will direct Flash to just do things! \n\nBot...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.7,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "bindureddy"
+      ],
+      "summary": "Working on combining Fable 5 and DeepSeek Flash \n\nFable 5 will direct Flash to just do things! \n\nBoth models are exceptionally good in their class",
+      "raw_content": "Working on combining Fable 5 and DeepSeek Flash \n\nFable 5 will direct Flash to just do things! \n\nBoth models are exceptionally good in their class",
+      "source_type": "twitter",
+      "date": "2026-08-06",
+      "url": "https://x.com/bindureddy/status/2085304641928183838",
+      "stars": 0,
+      "score": 0.7,
+      "comments": 0,
+      "author": "Bindu Reddy",
+      "author_username": "bindureddy",
+      "retweets": 0,
+      "views": 503,
+      "is_today": true
     }
   ],
   "edges": [
@@ -178637,16 +178762,46 @@
       "source": "twitter__akhaliq_2085119219394625791",
       "target": "提示工程",
       "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_swyx_2085001943693549887_open-weight-models",
+      "source": "twitter_swyx_2085001943693549887",
+      "target": "open-weight-models",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_swyx_2085253030417461661_business",
+      "source": "twitter_swyx_2085253030417461661",
+      "target": "business",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_swyx_2085236400056877381_ai治理",
+      "source": "twitter_swyx_2085236400056877381",
+      "target": "ai治理",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_swyx_2085219563944452505_nlp",
+      "source": "twitter_swyx_2085219563944452505",
+      "target": "nlp",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_bindureddy_2085304641928183838_business",
+      "source": "twitter_bindureddy_2085304641928183838",
+      "target": "business",
+      "type": "RELATED_TO"
     }
   ],
   "generated_at": "2026-08-04T18:01:49.868753",
   "generator": "ai-radar-explorer-v3",
   "schema_version": "4-pillar-pm-focused",
   "metadata": {
-    "last_updated": "2026-08-06T12:02:29.750186",
+    "last_updated": "2026-08-06T18:02:46.728455",
     "pipeline_version": "v3.16",
-    "total_nodes": 6649,
-    "total_edges": 6960,
+    "total_nodes": 6654,
+    "total_edges": 6965,
     "today_nodes": 50,
     "sources": [
       "concept",
