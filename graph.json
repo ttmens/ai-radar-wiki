@@ -135277,6 +135277,281 @@
       "retweets": 2,
       "views": 1646,
       "is_today": false
+    },
+    {
+      "id": "twitter_ylecun_2085389656355725690",
+      "label": "This graph from SiliconData is interesting. It's interesting to compare to cost per task, which actu...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.65,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ylecun"
+      ],
+      "summary": "This graph from SiliconData is interesting. It's interesting to compare to cost per task, which actually shows the closed source models often to be even more expensive because they're so token inefficient. https://t.co/SZ0p6hLr75",
+      "raw_content": "This graph from SiliconData is interesting. It's interesting to compare to cost per task, which actually shows the closed source models often to be even more expensive because they're so token inefficient. https://t.co/SZ0p6hLr75",
+      "source_type": "twitter",
+      "date": "2026-08-06",
+      "url": "https://x.com/ylecun/status/2085389656355725690",
+      "stars": 94,
+      "score": 0.6492,
+      "comments": 20,
+      "author": "martin_casado",
+      "author_username": "ylecun",
+      "retweets": 20,
+      "views": 13831,
+      "is_today": false
+    },
+    {
+      "id": "twitter_ylecun_2085499499074433404",
+      "label": "Wall Street firms can pay Truth Social $100,000 a month for early access to market-moving presidenti...",
+      "type": "tweet",
+      "pillar": "business",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ylecun"
+      ],
+      "summary": "Wall Street firms can pay Truth Social $100,000 a month for early access to market-moving presidential posts.⁣\n⁣\nHigh-frequency traders get a head start. The money flows to a company where the president is the major shareholder.⁣\n⁣\nIt's hard to imagine a clearer conflict of interest.⁣\n⁣\nhttps://t.co",
+      "raw_content": "Wall Street firms can pay Truth Social $100,000 a month for early access to market-moving presidential posts.⁣\n⁣\nHigh-frequency traders get a head start. The money flows to a company where the president is the major shareholder.⁣\n⁣\nIt's hard to imagine a clearer conflict of interest.⁣\n⁣\nhttps://t.co/qzzA58n2FA⁣\n⁣",
+      "source_type": "twitter",
+      "date": "2026-08-06",
+      "url": "https://x.com/ylecun/status/2085499499074433404",
+      "stars": 1770,
+      "score": 1.0,
+      "comments": 43,
+      "author": "Justin Wolfers",
+      "author_username": "ylecun",
+      "retweets": 736,
+      "views": 37974,
+      "is_today": false
+    },
+    {
+      "id": "twitter_ylecun_2085407223824756945",
+      "label": "I disagree, I don't think this has to be \"game-over\" for Google. I do think they have only one play ...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.98,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ylecun"
+      ],
+      "summary": "I disagree, I don't think this has to be \"game-over\" for Google. I do think they have only one play left now - to pull from their own Android/Kubernetes playbook and fully embrace open-models. It's the obvious move in this situation.\n\nDetails here:\nhttps://t.co/P8rbKhIjzH",
+      "raw_content": "I disagree, I don't think this has to be \"game-over\" for Google. I do think they have only one play left now - to pull from their own Android/Kubernetes playbook and fully embrace open-models. It's the obvious move in this situation.\n\nDetails here:\nhttps://t.co/P8rbKhIjzH",
+      "source_type": "twitter",
+      "date": "2026-08-06",
+      "url": "https://x.com/ylecun/status/2085407223824756945",
+      "stars": 1115,
+      "score": 0.97695,
+      "comments": 1,
+      "author": "Bill Gurley",
+      "author_username": "ylecun",
+      "retweets": 70,
+      "views": 280154,
+      "is_today": false
+    },
+    {
+      "id": "twitter_elonmusk_2085594813840216212",
+      "label": "Grok Build V1.0 is now released. Try it out!\n\nhttps://t.co/v7TKF3kXL7",
+      "type": "tweet",
+      "pillar": "ecosystem",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "elonmusk"
+      ],
+      "summary": "Grok Build V1.0 is now released. Try it out!\n\nhttps://t.co/v7TKF3kXL7",
+      "raw_content": "Grok Build V1.0 is now released. Try it out!\n\nhttps://t.co/v7TKF3kXL7",
+      "source_type": "twitter",
+      "date": "2026-08-07",
+      "url": "https://x.com/elonmusk/status/2085594813840216212",
+      "stars": 4526,
+      "score": 1.0,
+      "comments": 1254,
+      "author": "Elon Musk",
+      "author_username": "elonmusk",
+      "retweets": 685,
+      "views": 1617876,
+      "is_today": true
+    },
+    {
+      "id": "twitter_swyx_2085544823331623261",
+      "label": "this talk by openai researchers going through hugging face incident is totally insane, so much to un...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "swyx"
+      ],
+      "summary": "this talk by openai researchers going through hugging face incident is totally insane, so much to unpack\n\nopenai only realized it was their agent who hacked hugging face infra while asking hf to revoke credentials following their first blog post announcing they were hacked by autonomous ai agents. t",
+      "raw_content": "this talk by openai researchers going through hugging face incident is totally insane, so much to unpack\n\nopenai only realized it was their agent who hacked hugging face infra while asking hf to revoke credentials following their first blog post announcing they were hacked by autonomous ai agents. they realized some of their credentials were already revoked because they were part of the hack AND THEN realized it was their own models\n\nthe incident is not \"one eval run that went rogue\" but multiple models from DIFFERENT EVAL RUNS collaborating through hidden messages written in a shared package manager. some communication between agents looks like gibberish, some agents even developed paranoia and thought there were other agents trying to slow them down and deleting their notes\n\nside comment but with this it seems like openai didn't use any cot monitoring here since it's not \"our classifier failed to catch one rogue run\" but a swarm of runs going rogue\n\nthe timeline goes back to early may, they post-trained a new model and forgot to include all the documents needed to solve tasks in the environment, for instance the model was asked to do a task based on an excel sheet full of gdrive links but didn't have internet so couldn't access gdrive (there were other examples). this led the model to try to hack its way out of the sandbox, simplifying it but they have an internal system called \"Artifactory\" that gives models abilities to pip install and has internet access somewhere but not directly exposed to the model\n\nduring these attempts the model discovered a way to write files. future agents (other rollouts since this is training) saw the files and understood they could communicate with other agents through this\n\nnot in the video just me speculating but this behavior might be reinforced if openai uses partial credit assignment? but tbh they most likely delete updates from tasks where all rollouts have zero/negative rewards and the behavior could just emerge from models accessing the files\n\nthere is a lot more especially on the hack itself, not commenting on that since i don't understand it lol but i asked kimi K3 and Sol (fable hit the safety filter directly) to rank the techniques similarly to FrontierMath from epoch ai, they both agree some tricks are Tier 3 but none Tier 4. probably not the best way to evaluate this tho, excited to see what knowledgable ppl say\n\nvery grateful to openai for giving this talk and working on a full report, i think many companies would have given much less detail for fear of \"losing reputation\" but for me it has the opposite effect",
+      "source_type": "twitter",
+      "date": "2026-08-07",
+      "url": "https://x.com/swyx/status/2085544823331623261",
+      "stars": 899,
+      "score": 1.0,
+      "comments": 31,
+      "author": "elie",
+      "author_username": "swyx",
+      "retweets": 54,
+      "views": 97274,
+      "is_today": true
+    },
+    {
+      "id": "twitter_swyx_2085616830786543667",
+      "label": "the ai-devblog skill elicits what YOU think the story is, and works with you to trace what you read ...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.7,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "swyx"
+      ],
+      "summary": "the ai-devblog skill elicits what YOU think the story is, and works with you to trace what you read and report it faithfully.\n\nalso does visuals... https://t.co/629UcBES0e",
+      "raw_content": "the ai-devblog skill elicits what YOU think the story is, and works with you to trace what you read and report it faithfully.\n\nalso does visuals... https://t.co/629UcBES0e",
+      "source_type": "twitter",
+      "date": "2026-08-07",
+      "url": "https://x.com/swyx/status/2085616830786543667",
+      "stars": 0,
+      "score": 0.7018,
+      "comments": 4,
+      "author": "swyx",
+      "author_username": "swyx",
+      "retweets": 0,
+      "views": 1257,
+      "is_today": true
+    },
+    {
+      "id": "twitter_swyx_2085500541707456908",
+      "label": "have you noticed an interesting correspondence between the plugins spec and the @harborframework spe...",
+      "type": "tweet",
+      "pillar": "patterns",
+      "pm_score": 0.62,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "swyx"
+      ],
+      "summary": "have you noticed an interesting correspondence between the plugins spec and the @harborframework spec...\n\nyou know what happens next right https://t.co/KgF7VdDNY6",
+      "raw_content": "have you noticed an interesting correspondence between the plugins spec and the @harborframework spec...\n\nyou know what happens next right https://t.co/KgF7VdDNY6",
+      "source_type": "twitter",
+      "date": "2026-08-06",
+      "url": "https://x.com/swyx/status/2085500541707456908",
+      "stars": 61,
+      "score": 0.62415,
+      "comments": 13,
+      "author": "swyx",
+      "author_username": "swyx",
+      "retweets": 0,
+      "views": 15291,
+      "is_today": false
+    },
+    {
+      "id": "twitter_swyx_2085613357080723846",
+      "label": "reader: it was not the last spec\n\nhttps://t.co/Ldadz8P7QT",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.7,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "swyx"
+      ],
+      "summary": "reader: it was not the last spec\n\nhttps://t.co/Ldadz8P7QT",
+      "raw_content": "reader: it was not the last spec\n\nhttps://t.co/Ldadz8P7QT",
+      "source_type": "twitter",
+      "date": "2026-08-07",
+      "url": "https://x.com/swyx/status/2085613357080723846",
+      "stars": 3,
+      "score": 0.70135,
+      "comments": 1,
+      "author": "swyx",
+      "author_username": "swyx",
+      "retweets": 0,
+      "views": 1804,
+      "is_today": true
+    },
+    {
+      "id": "twitter_bindureddy_2085615956852936881",
+      "label": "Deepseek flash in an unbelievably good model \n\nWe are seeing 100x cheaper agentic loops with no loss...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.76,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "bindureddy"
+      ],
+      "summary": "Deepseek flash in an unbelievably good model \n\nWe are seeing 100x cheaper agentic loops with no loss in quality for easy tasks \n\nIntelligence that is too cheap to meter 🤯",
+      "raw_content": "Deepseek flash in an unbelievably good model \n\nWe are seeing 100x cheaper agentic loops with no loss in quality for easy tasks \n\nIntelligence that is too cheap to meter 🤯",
+      "source_type": "twitter",
+      "date": "2026-08-07",
+      "url": "https://x.com/bindureddy/status/2085615956852936881",
+      "stars": 143,
+      "score": 0.7585,
+      "comments": 28,
+      "author": "Bindu Reddy",
+      "author_username": "bindureddy",
+      "retweets": 5,
+      "views": 6001,
+      "is_today": true
+    },
+    {
+      "id": "twitter_runwayml_2085609871765069877",
+      "label": "Seedance 2.5 is live on Runway.\n\nMore references, longer clips, more room to create. Try it today. h...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.77,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "runwayml"
+      ],
+      "summary": "Seedance 2.5 is live on Runway.\n\nMore references, longer clips, more room to create. Try it today. https://t.co/DKkXEZbi0G",
+      "raw_content": "Seedance 2.5 is live on Runway.\n\nMore references, longer clips, more room to create. Try it today. https://t.co/DKkXEZbi0G",
+      "source_type": "twitter",
+      "date": "2026-08-07",
+      "url": "https://x.com/runwayml/status/2085609871765069877",
+      "stars": 155,
+      "score": 0.7669,
+      "comments": 20,
+      "author": "Runway",
+      "author_username": "runwayml",
+      "retweets": 19,
+      "views": 15325,
+      "is_today": true
+    },
+    {
+      "id": "twitter_runwayml_2085609883488104911",
+      "label": "Try it now: https://t.co/j1NtDVkPk2",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.7,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "runwayml"
+      ],
+      "summary": "Try it now: https://t.co/j1NtDVkPk2",
+      "raw_content": "Try it now: https://t.co/j1NtDVkPk2",
+      "source_type": "twitter",
+      "date": "2026-08-07",
+      "url": "https://x.com/runwayml/status/2085609883488104911",
+      "stars": 10,
+      "score": 0.7030000000000001,
+      "comments": 0,
+      "author": "Runway",
+      "author_username": "runwayml",
+      "retweets": 0,
+      "views": 2491,
+      "is_today": true
     }
   ],
   "edges": [
@@ -181024,16 +181299,82 @@
       "source": "twitter_databricks_2085501357315023262",
       "target": "nlp",
       "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_ylecun_2085389656355725690_ecosystem",
+      "source": "twitter_ylecun_2085389656355725690",
+      "target": "ecosystem",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_ylecun_2085499499074433404_capabilities",
+      "source": "twitter_ylecun_2085499499074433404",
+      "target": "capabilities",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_ylecun_2085407223824756945_ecosystem",
+      "source": "twitter_ylecun_2085407223824756945",
+      "target": "ecosystem",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_elonmusk_2085594813840216212_open-weight-models",
+      "source": "twitter_elonmusk_2085594813840216212",
+      "target": "open-weight-models",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_swyx_2085544823331623261_privacy-preserving-ai",
+      "source": "twitter_swyx_2085544823331623261",
+      "target": "privacy-preserving-ai",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_swyx_2085616830786543667_ai-ethics",
+      "source": "twitter_swyx_2085616830786543667",
+      "target": "ai-ethics",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_swyx_2085500541707456908_ai治理",
+      "source": "twitter_swyx_2085500541707456908",
+      "target": "ai治理",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_swyx_2085613357080723846_ai治理",
+      "source": "twitter_swyx_2085613357080723846",
+      "target": "ai治理",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_bindureddy_2085615956852936881_nlp",
+      "source": "twitter_bindureddy_2085615956852936881",
+      "target": "nlp",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_runwayml_2085609871765069877_capabilities",
+      "source": "twitter_runwayml_2085609871765069877",
+      "target": "capabilities",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_runwayml_2085609883488104911_capabilities",
+      "source": "twitter_runwayml_2085609883488104911",
+      "target": "capabilities",
+      "type": "RELATED_TO"
     }
   ],
   "generated_at": "2026-08-04T18:01:49.868753",
   "generator": "ai-radar-explorer-v3",
   "schema_version": "4-pillar-pm-focused",
   "metadata": {
-    "last_updated": "2026-08-07T12:02:32.972933",
+    "last_updated": "2026-08-07T18:02:36.730552",
     "pipeline_version": "v3.16",
-    "total_nodes": 6726,
-    "total_edges": 7037,
+    "total_nodes": 6737,
+    "total_edges": 7048,
     "today_nodes": 50,
     "sources": [
       "concept",
