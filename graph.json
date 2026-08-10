@@ -139727,6 +139727,281 @@
       "retweets": 2,
       "views": 3750,
       "is_today": false
+    },
+    {
+      "id": "twitter_ylecun_2086470271251185705",
+      "label": "BEEEEEEP… boop… BEEEP… kshhhhh-SQUEEEEEE-chk-chk-kshhhhh…\n\nYour modem was actually characterizing th...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.63,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ylecun"
+      ],
+      "summary": "BEEEEEEP… boop… BEEEP… kshhhhh-SQUEEEEEE-chk-chk-kshhhhh…\n\nYour modem was actually characterizing the phone line before using it. It sent known signals and listened to what came back, learning which frequencies were distorted, how much noise was present, and how the signal was being smeared in time.",
+      "raw_content": "BEEEEEEP… boop… BEEEP… kshhhhh-SQUEEEEEE-chk-chk-kshhhhh…\n\nYour modem was actually characterizing the phone line before using it. It sent known signals and listened to what came back, learning which frequencies were distorted, how much noise was present, and how the signal was being smeared in time. From that little experiment, it could adapt its equalizer and choose how aggressively it could transmit data over that particular connection.\n\n@ylecun told me the history over lunch one day. If I recall correctly, the key idea behind this came from Robert “Bob” Lucky at Bell Labs. Adaptive equalization in the 1960s allowed receivers to learn the characteristics of a communication channel and compensate for its distortions. Decades later, dial-up modems had turned that idea into the wonderfully bizarre handshake in this video. So that nostalgic screech was actually the sound of real-time channel estimation, system identification, and adaptation.\n\nFor a technical glimpse under the hood, here’s a patent describing modem line probing and training:\nhttps://t.co/UzPWwqYRzT\n https://t.co/ju72W0aFjw",
+      "source_type": "twitter",
+      "date": "2026-08-09",
+      "url": "https://x.com/ylecun/status/2086470271251185705",
+      "stars": 66,
+      "score": 0.62625,
+      "comments": 1,
+      "author": "Kyle Cranmer",
+      "author_username": "ylecun",
+      "retweets": 10,
+      "views": 12257,
+      "is_today": false
+    },
+    {
+      "id": "twitter_elonmusk_2086504649251586538",
+      "label": "I tried pushing the video to test character consistency with Grok Imagine. I could have kept going f...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "elonmusk"
+      ],
+      "summary": "I tried pushing the video to test character consistency with Grok Imagine. I could have kept going for a long time.The consistency is perfect. https://t.co/LpyffoveTA",
+      "raw_content": "I tried pushing the video to test character consistency with Grok Imagine. I could have kept going for a long time.The consistency is perfect. https://t.co/LpyffoveTA",
+      "source_type": "twitter",
+      "date": "2026-08-09",
+      "url": "https://x.com/elonmusk/status/2086504649251586538",
+      "stars": 3004,
+      "score": 1.0,
+      "comments": 362,
+      "author": "Déborah",
+      "author_username": "elonmusk",
+      "retweets": 375,
+      "views": 441328,
+      "is_today": false
+    },
+    {
+      "id": "twitter_hardmaru_2086591509638590700",
+      "label": "ベースモデルに依存しないオーケストレーションに向けて\n\nブログ：https://t.co/nm9Pa0Th13\n\nSakana Fuguは、マルチエージェントのオーケストレーションを一つの基盤モデルと...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.66,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "hardmaru"
+      ],
+      "summary": "ベースモデルに依存しないオーケストレーションに向けて\n\nブログ：https://t.co/nm9Pa0Th13\n\nSakana Fuguは、マルチエージェントのオーケストレーションを一つの基盤モデルとして提供するプロダクトです。一つのエンドポイントにリクエストを送ると、Fugu自身が処理の仕方を判断しモデル群に適切に タスクを割り振り、単一モデルを超える性能やコスト性能を達成します。\n\nSakana Fuguは、実際の処理を担う「モデルプール」と、どのモデルにどう任せるかを判断する「指揮者モデル」の二層構造です。モデルプールは当初から入れ替え可能な設計になっています。今回、モデルプールだけでな",
+      "raw_content": "ベースモデルに依存しないオーケストレーションに向けて\n\nブログ：https://t.co/nm9Pa0Th13\n\nSakana Fuguは、マルチエージェントのオーケストレーションを一つの基盤モデルとして提供するプロダクトです。一つのエンドポイントにリクエストを送ると、Fugu自身が処理の仕方を判断しモデル群に適切に タスクを割り振り、単一モデルを超える性能やコスト性能を達成します。\n\nSakana Fuguは、実際の処理を担う「モデルプール」と、どのモデルにどう任せるかを判断する「指揮者モデル」の二層構造です。モデルプールは当初から入れ替え可能な設計になっています。今回、モデルプールだけでなく、指揮者モデルに関しても、新しくオープンモデルであるGemma 4をベースに訓練し、当社の評価セットで従来と遜色ない性能とコスト削減効果を確認しました。\n\n今後は自社開発モデルをベースとした指揮者モデルにも取り組み、求められるソブリン性の要件に応じてモデルオーケストレーションのポテンシャルをお届けできる体制を整えていきます。",
+      "source_type": "twitter",
+      "date": "2026-08-09",
+      "url": "https://x.com/hardmaru/status/2086591509638590700",
+      "stars": 151,
+      "score": 0.6579,
+      "comments": 8,
+      "author": "Sakana AI",
+      "author_username": "hardmaru",
+      "retweets": 15,
+      "views": 15615,
+      "is_today": false
+    },
+    {
+      "id": "twitter_swyx_2086551128754508120",
+      "label": "17 hours into building superstage for @swyx's \"help kill my saas\" hackathon.\n\nnot 17 hours straight,...",
+      "type": "tweet",
+      "pillar": "patterns",
+      "pm_score": 0.6,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "swyx"
+      ],
+      "summary": "17 hours into building superstage for @swyx's \"help kill my saas\" hackathon.\n\nnot 17 hours straight, i've taken breaks 😅\n\ni think the platform is basically feature complete now.\n\nno more new features. i'll deploy it, share the url for feedback, then iterate based on @swyx's feedback.\n\nlet's see if i",
+      "raw_content": "17 hours into building superstage for @swyx's \"help kill my saas\" hackathon.\n\nnot 17 hours straight, i've taken breaks 😅\n\ni think the platform is basically feature complete now.\n\nno more new features. i'll deploy it, share the url for feedback, then iterate based on @swyx's feedback.\n\nlet's see if i got it right 👀",
+      "source_type": "twitter",
+      "date": "2026-08-09",
+      "url": "https://x.com/swyx/status/2086551128754508120",
+      "stars": 8,
+      "score": 0.6043499999999999,
+      "comments": 3,
+      "author": "Ali Zaid",
+      "author_username": "swyx",
+      "retweets": 1,
+      "views": 2886,
+      "is_today": false
+    },
+    {
+      "id": "twitter_bindureddy_2086646278822477892",
+      "label": "The future will be dominated by two types of models \n\nULTRA SMART - large extremely intelligent 10T ...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.72,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "bindureddy"
+      ],
+      "summary": "The future will be dominated by two types of models \n\nULTRA SMART - large extremely intelligent 10T models that can do very complex work \n\nULTRA CHEAP - near free intelligence that can handle pretty much everything else \n\nToday’s equivalents are Fable and Luna / Deepseek Flash",
+      "raw_content": "The future will be dominated by two types of models \n\nULTRA SMART - large extremely intelligent 10T models that can do very complex work \n\nULTRA CHEAP - near free intelligence that can handle pretty much everything else \n\nToday’s equivalents are Fable and Luna / Deepseek Flash",
+      "source_type": "twitter",
+      "date": "2026-08-10",
+      "url": "https://x.com/bindureddy/status/2086646278822477892",
+      "stars": 61,
+      "score": 0.72475,
+      "comments": 13,
+      "author": "Bindu Reddy",
+      "author_username": "bindureddy",
+      "retweets": 1,
+      "views": 2720,
+      "is_today": true
+    },
+    {
+      "id": "twitter_bindureddy_2086602681733554627",
+      "label": "Lots of rumors about OpenAI's new model Astra and Fable 5.1 \n\n-  great at long running agentic loops...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.63,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "bindureddy"
+      ],
+      "summary": "Lots of rumors about OpenAI's new model Astra and Fable 5.1 \n\n-  great at long running agentic loops\n-  Astra is better than Fable 5\n-  Anthropic to release a Fable 5.1 to compete with it\n-  both models in safety testing\n-  will likely release after GLM 5.5",
+      "raw_content": "Lots of rumors about OpenAI's new model Astra and Fable 5.1 \n\n-  great at long running agentic loops\n-  Astra is better than Fable 5\n-  Anthropic to release a Fable 5.1 to compete with it\n-  both models in safety testing\n-  will likely release after GLM 5.5",
+      "source_type": "twitter",
+      "date": "2026-08-09",
+      "url": "https://x.com/bindureddy/status/2086602681733554627",
+      "stars": 90,
+      "score": 0.6348,
+      "comments": 16,
+      "author": "Bindu Reddy",
+      "author_username": "bindureddy",
+      "retweets": 1,
+      "views": 5872,
+      "is_today": false
+    },
+    {
+      "id": "twitter_JohnNosta_2086524602738442603",
+      "label": "1. She’s been with the same guy for years. There is no reason she couldn’t have had kids yet. \n\n2. S...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "JohnNosta"
+      ],
+      "summary": "1. She’s been with the same guy for years. There is no reason she couldn’t have had kids yet. \n\n2. She will now require IVF or surrogacy to have a baby, which will always come with ethical and health risks that the baby is forced to bear. \n\n3. It is very rare, even via egg freezing and IVF, that a w",
+      "raw_content": "1. She’s been with the same guy for years. There is no reason she couldn’t have had kids yet. \n\n2. She will now require IVF or surrogacy to have a baby, which will always come with ethical and health risks that the baby is forced to bear. \n\n3. It is very rare, even via egg freezing and IVF, that a woman is able get pregnant after 40. Most of the embryos she creates will never see the light of day.\n\n4. Purposely deferring motherhood into her 40s means removing the possibility of her kids knowing their grandparents, and probably removing the possibility of her grandkids knowing her. That is selfish. \n\n5. Freezing your eggs is horrible for your health \n\n6. She’s glamorizing the lie that women can have it all. You can’t. Biology is real and how you order your life makes or breaks your future",
+      "source_type": "twitter",
+      "date": "2026-08-09",
+      "url": "https://x.com/JohnNosta/status/2086524602738442603",
+      "stars": 9967,
+      "score": 1.0,
+      "comments": 991,
+      "author": "Allie Beth Stuckey",
+      "author_username": "JohnNosta",
+      "retweets": 707,
+      "views": 2028566,
+      "is_today": false
+    },
+    {
+      "id": "twitter_JohnNosta_2086502142798356862",
+      "label": "She’ll turn 37 in a couple months. If she got pregnant now, it would technically be a geriatric preg...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "JohnNosta"
+      ],
+      "summary": "She’ll turn 37 in a couple months. If she got pregnant now, it would technically be a geriatric pregnancy. Instead she’s freezing her eggs. This desire to start having children late in life is completely baffling to me. I’ll have kids in theirs 20s by the time I turn 50. AOC apparently wants to have",
+      "raw_content": "She’ll turn 37 in a couple months. If she got pregnant now, it would technically be a geriatric pregnancy. Instead she’s freezing her eggs. This desire to start having children late in life is completely baffling to me. I’ll have kids in theirs 20s by the time I turn 50. AOC apparently wants to have a toddler at that age. Totally backwards and ridiculous.",
+      "source_type": "twitter",
+      "date": "2026-08-09",
+      "url": "https://x.com/JohnNosta/status/2086502142798356862",
+      "stars": 29123,
+      "score": 1.0,
+      "comments": 4830,
+      "author": "Matt Walsh",
+      "author_username": "JohnNosta",
+      "retweets": 1075,
+      "views": 5353458,
+      "is_today": false
+    },
+    {
+      "id": "twitter_TheAIGRID_2086282184831197368",
+      "label": "chat jipiti",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "TheAIGRID"
+      ],
+      "summary": "chat jipiti",
+      "raw_content": "chat jipiti",
+      "source_type": "twitter",
+      "date": "2026-08-09",
+      "url": "https://x.com/TheAIGRID/status/2086282184831197368",
+      "stars": 95200,
+      "score": 1.0,
+      "comments": 176,
+      "author": "gumball",
+      "author_username": "TheAIGRID",
+      "retweets": 9050,
+      "views": 1255838,
+      "is_today": false
+    },
+    {
+      "id": "twitter_TheAIGRID_2086410914585325892",
+      "label": "The former NASA warp-drive lead just raised $12M to build a chip that allegedly pulls power from the...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "TheAIGRID"
+      ],
+      "summary": "The former NASA warp-drive lead just raised $12M to build a chip that allegedly pulls power from the quantum vacuum. \n\nShips 2028, they say. https://t.co/2Ohb3h73H8",
+      "raw_content": "The former NASA warp-drive lead just raised $12M to build a chip that allegedly pulls power from the quantum vacuum. \n\nShips 2028, they say. https://t.co/2Ohb3h73H8",
+      "source_type": "twitter",
+      "date": "2026-08-09",
+      "url": "https://x.com/TheAIGRID/status/2086410914585325892",
+      "stars": 1525,
+      "score": 1.0,
+      "comments": 60,
+      "author": "Zero Point Energy Disclosure",
+      "author_username": "TheAIGRID",
+      "retweets": 162,
+      "views": 52803,
+      "is_today": false
+    },
+    {
+      "id": "twitter_TheAIGRID_2086567854850384054",
+      "label": "A man in Australia asked his agent (Claude running on OpenClaw) to book him a spot in a popular gym ...",
+      "type": "tweet",
+      "pillar": "patterns",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "TheAIGRID"
+      ],
+      "summary": "A man in Australia asked his agent (Claude running on OpenClaw) to book him a spot in a popular gym class. The agent found a software vulnerability that let it book the class weeks further ahead than should have been possible. When the user then asked if it could move him up the waitlist, the agent ",
+      "raw_content": "A man in Australia asked his agent (Claude running on OpenClaw) to book him a spot in a popular gym class. The agent found a software vulnerability that let it book the class weeks further ahead than should have been possible. When the user then asked if it could move him up the waitlist, the agent discovered the API had no authorisation checks on cancelling other people’s reservations, so it cancelled the person in the first spot and moved him up the list.\n\nSome people will call this misalignment, but his agent was perfectly aligned to him - it was only trying to help its user get what he wanted. The most important thing about this story, in my opinion, is that it gives you a window into what is about to start happening on a massive scale once millions of people have an agent trying to get their beloved users the best seats, bookings, appointments or reservations through absolutely any means necessary.",
+      "source_type": "twitter",
+      "date": "2026-08-09",
+      "url": "https://x.com/TheAIGRID/status/2086567854850384054",
+      "stars": 10692,
+      "score": 1.0,
+      "comments": 362,
+      "author": "Andrew Curran",
+      "author_username": "TheAIGRID",
+      "retweets": 1129,
+      "views": 1005341,
+      "is_today": false
     }
   ],
   "edges": [
@@ -186542,16 +186817,82 @@
       "source": "twitter_ThePracticalDev_2086499248040763456",
       "target": "open-weight-models",
       "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_ylecun_2086470271251185705_capabilities",
+      "source": "twitter_ylecun_2086470271251185705",
+      "target": "capabilities",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_elonmusk_2086504649251586538_capabilities",
+      "source": "twitter_elonmusk_2086504649251586538",
+      "target": "capabilities",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_hardmaru_2086591509638590700_ecosystem",
+      "source": "twitter_hardmaru_2086591509638590700",
+      "target": "ecosystem",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_swyx_2086551128754508120_open-weight-models",
+      "source": "twitter_swyx_2086551128754508120",
+      "target": "open-weight-models",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_bindureddy_2086646278822477892_business",
+      "source": "twitter_bindureddy_2086646278822477892",
+      "target": "business",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_bindureddy_2086602681733554627_提示工程",
+      "source": "twitter_bindureddy_2086602681733554627",
+      "target": "提示工程",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_JohnNosta_2086524602738442603_提示工程",
+      "source": "twitter_JohnNosta_2086524602738442603",
+      "target": "提示工程",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_JohnNosta_2086502142798356862_open-weight-models",
+      "source": "twitter_JohnNosta_2086502142798356862",
+      "target": "open-weight-models",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_TheAIGRID_2086282184831197368_提示工程",
+      "source": "twitter_TheAIGRID_2086282184831197368",
+      "target": "提示工程",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_TheAIGRID_2086410914585325892_ecosystem",
+      "source": "twitter_TheAIGRID_2086410914585325892",
+      "target": "ecosystem",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_TheAIGRID_2086567854850384054_nlp",
+      "source": "twitter_TheAIGRID_2086567854850384054",
+      "target": "nlp",
+      "type": "RELATED_TO"
     }
   ],
   "generated_at": "2026-08-04T18:01:49.868753",
   "generator": "ai-radar-explorer-v3",
   "schema_version": "4-pillar-pm-focused",
   "metadata": {
-    "last_updated": "2026-08-10T06:02:50.000426",
+    "last_updated": "2026-08-10T12:03:00.197901",
     "pipeline_version": "v3.16",
-    "total_nodes": 6904,
-    "total_edges": 7215,
+    "total_nodes": 6915,
+    "total_edges": 7226,
     "today_nodes": 50,
     "sources": [
       "concept",
