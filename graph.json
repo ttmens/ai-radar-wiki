@@ -150552,6 +150552,256 @@
       "retweets": 2,
       "views": 3304,
       "is_today": true
+    },
+    {
+      "id": "twitter_elonmusk_2088613126614757429",
+      "label": "Posting my reply to @_sholtodouglas given that some of my comments about Anthropic on @theallinpod y...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.99,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "elonmusk"
+      ],
+      "summary": "Posting my reply to @_sholtodouglas given that some of my comments about Anthropic on @theallinpod yesterday have been widely discussed here on X and I think the topic is important.",
+      "raw_content": "Posting my reply to @_sholtodouglas given that some of my comments about Anthropic on @theallinpod yesterday have been widely discussed here on X and I think the topic is important.",
+      "source_type": "twitter",
+      "date": "2026-08-15",
+      "url": "https://x.com/elonmusk/status/2088613126614757429",
+      "stars": 986,
+      "score": 0.98865,
+      "comments": 69,
+      "author": "Gavin Baker",
+      "author_username": "elonmusk",
+      "retweets": 103,
+      "views": 422564,
+      "is_today": false
+    },
+    {
+      "id": "twitter_huggingface_2088270127435559124",
+      "label": "🤗 Novita now supports DeepSeek-V4-Pro-0813 on @huggingface.\n\n• 1M-token context window\n• Built for r...",
+      "type": "tweet",
+      "pillar": "patterns",
+      "pm_score": 0.61,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "huggingface"
+      ],
+      "summary": "🤗 Novita now supports DeepSeek-V4-Pro-0813 on @huggingface.\n\n• 1M-token context window\n• Built for reasoning, coding, and agentic workflows https://t.co/GxNe2BpI6f",
+      "raw_content": "🤗 Novita now supports DeepSeek-V4-Pro-0813 on @huggingface.\n\n• 1M-token context window\n• Built for reasoning, coding, and agentic workflows https://t.co/GxNe2BpI6f",
+      "source_type": "twitter",
+      "date": "2026-08-14",
+      "url": "https://x.com/huggingface/status/2088270127435559124",
+      "stars": 28,
+      "score": 0.6105,
+      "comments": 2,
+      "author": "Novita AI",
+      "author_username": "huggingface",
+      "retweets": 2,
+      "views": 6737,
+      "is_today": false
+    },
+    {
+      "id": "twitter_huggingface_2088404157627879559",
+      "label": "Happy to see @NVIDIAAI released their expert models for MOPD. Starting to make research there much m...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.65,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "huggingface"
+      ],
+      "summary": "Happy to see @NVIDIAAI released their expert models for MOPD. Starting to make research there much more accessible (tho these are big models for most researchers). https://t.co/LocLnse6HO",
+      "raw_content": "Happy to see @NVIDIAAI released their expert models for MOPD. Starting to make research there much more accessible (tho these are big models for most researchers). https://t.co/LocLnse6HO",
+      "source_type": "twitter",
+      "date": "2026-08-14",
+      "url": "https://x.com/huggingface/status/2088404157627879559",
+      "stars": 124,
+      "score": 0.6504,
+      "comments": 8,
+      "author": "Nathan Lambert",
+      "author_username": "huggingface",
+      "retweets": 16,
+      "views": 17715,
+      "is_today": false
+    },
+    {
+      "id": "twitter_huggingface_2088288009011527861",
+      "label": "wtf? Qwen3.8-27B is already the #4 most liked model on hugging face of ALL TIMES https://t.co/MgVyg4...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.86,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "huggingface"
+      ],
+      "summary": "wtf? Qwen3.8-27B is already the #4 most liked model on hugging face of ALL TIMES https://t.co/MgVyg4kODF",
+      "raw_content": "wtf? Qwen3.8-27B is already the #4 most liked model on hugging face of ALL TIMES https://t.co/MgVyg4kODF",
+      "source_type": "twitter",
+      "date": "2026-08-14",
+      "url": "https://x.com/huggingface/status/2088288009011527861",
+      "stars": 794,
+      "score": 0.8563500000000001,
+      "comments": 19,
+      "author": "apolinario (poli)",
+      "author_username": "huggingface",
+      "retweets": 16,
+      "views": 38191,
+      "is_today": false
+    },
+    {
+      "id": "twitter_huggingface_2088312667253391546",
+      "label": "simple:\n\nllama serve -hf ggml-org/Qwen3.8-27B-GGUF --spec-type draft-mtp",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "huggingface"
+      ],
+      "summary": "simple:\n\nllama serve -hf ggml-org/Qwen3.8-27B-GGUF --spec-type draft-mtp",
+      "raw_content": "simple:\n\nllama serve -hf ggml-org/Qwen3.8-27B-GGUF --spec-type draft-mtp",
+      "source_type": "twitter",
+      "date": "2026-08-14",
+      "url": "https://x.com/huggingface/status/2088312667253391546",
+      "stars": 1548,
+      "score": 1.0,
+      "comments": 20,
+      "author": "Georgi Gerganov",
+      "author_username": "huggingface",
+      "retweets": 105,
+      "views": 348237,
+      "is_today": false
+    },
+    {
+      "id": "twitter_JohnNosta_2088416981703651419",
+      "label": "Google proved it. Doctors are cooked.\n\nI thought AI would need a photorealistic avatar with perfect ...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.65,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "JohnNosta"
+      ],
+      "summary": "Google proved it. Doctors are cooked.\n\nI thought AI would need a photorealistic avatar with perfect microexpressions and conversational cadence before patients would prefer it over a telemedicine visit with a human.\n\nNope.\n\nAll the AI needed was a voice - no video avatar - and it was rated better th",
+      "raw_content": "Google proved it. Doctors are cooked.\n\nI thought AI would need a photorealistic avatar with perfect microexpressions and conversational cadence before patients would prefer it over a telemedicine visit with a human.\n\nNope.\n\nAll the AI needed was a voice - no video avatar - and it was rated better than doctors by professional patients on assessing them and explaining what was going on.\n\nAnd trained physician raters put it on par or better than docs across history-taking, diagnosis, management, and physical exam.\n\nAnd did I mention that the visits can be anytime, anywhere, as often as necessary, as long as necessary and at negligible cost?\n\nThat the patient can ask as many questions as they want for as long as they want?\n\nOr that it keeps their entire medical history in mind at all times and knows the entire literature?\n\nSo how do doctors adapt so we stay relevant?\n\nWe become the coach.\n\nThat’s the simplest analogy.\n\nFor the history of medicine, we’ve done it all - gathered the info (player), made the decisions (coach) and implemented the plan (player).\n\nNow there’s a better player. A new breed. We’re obsolete.\n\nBut maybe, just maybe, we can still add value in making the decisions.\n\nOr maybe it’s time to go to the broadcast booth.",
+      "source_type": "twitter",
+      "date": "2026-08-15",
+      "url": "https://x.com/JohnNosta/status/2088416981703651419",
+      "stars": 79,
+      "score": 0.6465000000000001,
+      "comments": 36,
+      "author": "Matthew Zirwas, MD",
+      "author_username": "JohnNosta",
+      "retweets": 11,
+      "views": 13867,
+      "is_today": false
+    },
+    {
+      "id": "twitter_JohnNosta_2088623409647284266",
+      "label": "Who else is getting all these \"vote for me\" DMs? https://t.co/rlGvuymheh",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.61,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "JohnNosta"
+      ],
+      "summary": "Who else is getting all these \"vote for me\" DMs? https://t.co/rlGvuymheh",
+      "raw_content": "Who else is getting all these \"vote for me\" DMs? https://t.co/rlGvuymheh",
+      "source_type": "twitter",
+      "date": "2026-08-15",
+      "url": "https://x.com/JohnNosta/status/2088623409647284266",
+      "stars": 9,
+      "score": 0.606,
+      "comments": 6,
+      "author": "John Nosta",
+      "author_username": "JohnNosta",
+      "retweets": 1,
+      "views": 695,
+      "is_today": false
+    },
+    {
+      "id": "twitter_databricks_2088652565026050093",
+      "label": "Getting started with Databricks Apps can be as simple as giving your coding agent the right prompt.\n...",
+      "type": "tweet",
+      "pillar": "patterns",
+      "pm_score": 0.6,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "databricks"
+      ],
+      "summary": "Getting started with Databricks Apps can be as simple as giving your coding agent the right prompt.\n\nDevHub prompts can help check your environment, set up what you need, scaffold an app, and deploy it to your Databricks workspace. Then, use templates to keep building without starting over.\n\nFor exa",
+      "raw_content": "Getting started with Databricks Apps can be as simple as giving your coding agent the right prompt.\n\nDevHub prompts can help check your environment, set up what you need, scaffold an app, and deploy it to your Databricks workspace. Then, use templates to keep building without starting over.\n\nFor example, the Genie Analytics app template adds a chat interface so users can query data in your Databricks workspace using natural language.\n\nExplore now: https://t.co/eMFQCJ4hAV",
+      "source_type": "twitter",
+      "date": "2026-08-15",
+      "url": "https://x.com/databricks/status/2088652565026050093",
+      "stars": 7,
+      "score": 0.6021,
+      "comments": 0,
+      "author": "Databricks",
+      "author_username": "databricks",
+      "retweets": 0,
+      "views": 662,
+      "is_today": false
+    },
+    {
+      "id": "twitter__akhaliq_2088616278470570400",
+      "label": "wtf, i asked Qwen3.8 27B to build me an FPS and now i'm in a Chinese courtyard shooting porcelain dr...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.68,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "_akhaliq"
+      ],
+      "summary": "wtf, i asked Qwen3.8 27B to build me an FPS and now i'm in a Chinese courtyard shooting porcelain drones 😭\nmouse lock, sprint, reload, hold Z for a tactical scope. fully local in the browser.\n\nQwen wrote the game pass. ChatGPT Image made the world + assets. ridiculous. https://t.co/K1JAU8M8VF",
+      "raw_content": "wtf, i asked Qwen3.8 27B to build me an FPS and now i'm in a Chinese courtyard shooting porcelain drones 😭\nmouse lock, sprint, reload, hold Z for a tactical scope. fully local in the browser.\n\nQwen wrote the game pass. ChatGPT Image made the world + assets. ridiculous. https://t.co/K1JAU8M8VF",
+      "source_type": "twitter",
+      "date": "2026-08-15",
+      "url": "https://x.com/_akhaliq/status/2088616278470570400",
+      "stars": 235,
+      "score": 0.68235,
+      "comments": 17,
+      "author": "Maziyar PANAHI",
+      "author_username": "_akhaliq",
+      "retweets": 7,
+      "views": 17751,
+      "is_today": false
+    },
+    {
+      "id": "twitter_ThePracticalDev_2088626920938201160",
+      "label": "The car drove beautifully at 165Hz and crawled everywhere else. Frame-rate-dependent physics needs t...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.6,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ThePracticalDev"
+      ],
+      "summary": "The car drove beautifully at 165Hz and crawled everywhere else. Frame-rate-dependent physics needs three fixes, not one. This dev covers linear, decay, and lerp.\n\nSubmitted for DEV's Summer Bug Smash powered by @Sentry\n\n{ author: @georgekobaidze }\n\nhttps://t.co/h0PSLgzMSf",
+      "raw_content": "The car drove beautifully at 165Hz and crawled everywhere else. Frame-rate-dependent physics needs three fixes, not one. This dev covers linear, decay, and lerp.\n\nSubmitted for DEV's Summer Bug Smash powered by @Sentry\n\n{ author: @georgekobaidze }\n\nhttps://t.co/h0PSLgzMSf",
+      "source_type": "twitter",
+      "date": "2026-08-15",
+      "url": "https://x.com/ThePracticalDev/status/2088626920938201160",
+      "stars": 3,
+      "score": 0.6009,
+      "comments": 0,
+      "author": "DEV Community",
+      "author_username": "ThePracticalDev",
+      "retweets": 0,
+      "views": 1663,
+      "is_today": false
     }
   ],
   "edges": [
@@ -199965,16 +200215,76 @@
       "source": "twitter_ThePracticalDev_2088478539196637597",
       "target": "ai治理",
       "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_elonmusk_2088613126614757429_ecosystem",
+      "source": "twitter_elonmusk_2088613126614757429",
+      "target": "ecosystem",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_huggingface_2088270127435559124_capabilities",
+      "source": "twitter_huggingface_2088270127435559124",
+      "target": "capabilities",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_huggingface_2088404157627879559_privacy-preserving-ai",
+      "source": "twitter_huggingface_2088404157627879559",
+      "target": "privacy-preserving-ai",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_huggingface_2088288009011527861_ai治理",
+      "source": "twitter_huggingface_2088288009011527861",
+      "target": "ai治理",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_huggingface_2088312667253391546_ai-ethics",
+      "source": "twitter_huggingface_2088312667253391546",
+      "target": "ai-ethics",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_JohnNosta_2088416981703651419_capabilities",
+      "source": "twitter_JohnNosta_2088416981703651419",
+      "target": "capabilities",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_JohnNosta_2088623409647284266_提示工程",
+      "source": "twitter_JohnNosta_2088623409647284266",
+      "target": "提示工程",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_databricks_2088652565026050093_business",
+      "source": "twitter_databricks_2088652565026050093",
+      "target": "business",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter__akhaliq_2088616278470570400_nlp",
+      "source": "twitter__akhaliq_2088616278470570400",
+      "target": "nlp",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_ThePracticalDev_2088626920938201160_提示工程",
+      "source": "twitter_ThePracticalDev_2088626920938201160",
+      "target": "提示工程",
+      "type": "RELATED_TO"
     }
   ],
   "generated_at": "2026-08-04T18:01:49.868753",
   "generator": "ai-radar-explorer-v3",
   "schema_version": "4-pillar-pm-focused",
   "metadata": {
-    "last_updated": "2026-08-15T18:02:18.548331",
+    "last_updated": "2026-08-16T00:02:30.799271",
     "pipeline_version": "v3.16",
-    "total_nodes": 7337,
-    "total_edges": 7648,
+    "total_nodes": 7347,
+    "total_edges": 7658,
     "today_nodes": 50,
     "sources": [
       "concept",
