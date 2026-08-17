@@ -152552,6 +152552,256 @@
       "retweets": 0,
       "views": 3840,
       "is_today": true
+    },
+    {
+      "id": "twitter_ylecun_2089045322811249117",
+      "label": "Physical AI evals are starting to become a real category.\n\nUntil recently, most VLA evaluation was b...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.65,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ylecun"
+      ],
+      "summary": "Physical AI evals are starting to become a real category.\n\nUntil recently, most VLA evaluation was basically:\nLIBERO → success rate → leaderboard.\nNow we're seeing a much broader stack emerge:\n\n• Allen AI — unified VLA eval across 18+ simulation benchmarks\n• LeRobot — one eval interface across multi",
+      "raw_content": "Physical AI evals are starting to become a real category.\n\nUntil recently, most VLA evaluation was basically:\nLIBERO → success rate → leaderboard.\nNow we're seeing a much broader stack emerge:\n\n• Allen AI — unified VLA eval across 18+ simulation benchmarks\n• LeRobot — one eval interface across multiple sim benchmarks\n• PhAIL — real robots + production metrics like throughput and failures\n• Robocurve — independent, real-world robot evaluation\n• RoboDojo — bringing sim + real-world evaluation together\n\nThe interesting part isn't just more benchmarks.\nIt's the move from:\n“Can the robot complete this task?”\nto:\n“How reliable, fast and general is this system in the physical world?”\n\nI think independent physical AI evals are going to become increasingly important as robot models start looking more and more similar on demos.",
+      "source_type": "twitter",
+      "date": "2026-08-16",
+      "url": "https://x.com/ylecun/status/2089045322811249117",
+      "stars": 144,
+      "score": 0.6528,
+      "comments": 4,
+      "author": "Shubham Agarwal",
+      "author_username": "ylecun",
+      "retweets": 13,
+      "views": 17558,
+      "is_today": false
+    },
+    {
+      "id": "twitter_ylecun_2089227290769080656",
+      "label": "Some thoughts on Dario’s post:\n\n1. Dario does not actually address Gavin Baker’s account of what he ...",
+      "type": "tweet",
+      "pillar": "business",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ylecun"
+      ],
+      "summary": "Some thoughts on Dario’s post:\n\n1. Dario does not actually address Gavin Baker’s account of what he said – something he could easily deny if it were inaccurate.\n\n2. Dario claims his critics live in a “bubble” where all regulation equals regulatory capture. He calls this an overly simplified view and",
+      "raw_content": "Some thoughts on Dario’s post:\n\n1. Dario does not actually address Gavin Baker’s account of what he said – something he could easily deny if it were inaccurate.\n\n2. Dario claims his critics live in a “bubble” where all regulation equals regulatory capture. He calls this an overly simplified view and notes that “Many people outside this bubble think of regulation as something that constrains corporate power and benefits ordinary people.” This argument is a straw man. Of course treating all regulation as capture would be overly simplified – but almost no one holds that view. I have repeatedly argued for strong antitrust enforcement to keep industries competitive, especially Big Tech. If Anthropic continues toward monopoly or duopoly status, I would be among the first to demand those rules apply.\n\n3. Regulatory capture is not vague or in the eye of the beholder. Nobel laureate George Stigler defined it as regulation acquired by an industry and designed and operated primarily for its benefit. Stigler challenged the traditional view that government regulation arises from a benevolent state protecting the public from market failures. Rather, industry groups have concentrated stakes and pour resources into influencing regulators, whereas the public’s stake is diffuse and unorganized. The revolving door between companies and the agencies that regulate them compounds the problem. Anthropic understands these dynamics: it has hired multiple senior Biden AI-policy officials and built a substantial government-affairs operation plus a network of aligned organizations to push its preferred frameworks at state and federal levels.\n\n4. Dario has consistently pushed for a new federal agency to review and approve frontier models prior to release – a proposal framed variously as an “FDA for AI,” an “FAA for AI,” and most recently a “FINRA for AI.” I call it a “DMV for AI” because a review process modeled on the FAA or FDA (which takes years) or FINRA (which issues rules for a staid industry widely seen as protecting incumbents) will create long queues as AI models wait for testing and approval. This process will only become more labyrinthine as rules accumulate to prevent theoretical harms. This would handicap the U.S. relative to China, which will not adopt the same constraints. It would also undermine Anthropic’s own business model, whose pricing power depends on remaining ahead of open models. Whatever Dario states today, it is difficult to believe the company would simply accept outcomes that erase that advantage.\n\n5. Anthropic is on track to become one of the most valuable companies in history, with the resources to navigate any approval process and shape the rules while competitors wait. Dario wants open models under heavier scrutiny – he has called them dangerous in Senate testimony, criticized them for not being centrally monitored or withdrawn, and linked them to IP theft. He says he has never sought a ban, but he could achieve a similar result by insisting that identical rules apply to both open and closed models. The U.S. risks becoming an island of costly closed models while the rest of the world races ahead with broader choice.\n\n6. Dario acknowledges that AI is structurally centralizing but attributes this mainly to chips and scaling laws. Access to compute matters, but the deeper risk is who decides which capabilities are available to whom. His preferred pre-deployment testing and FAA/FINRA-style oversight would place that gatekeeping power in a federal bureaucracy working hand-in-glove with a small number of frontier labs – reinforcing centralization rather than countering it.\n\n7. The second part of Dario’s post assumes we have amnesia about Anthropic’s well-orchestrated campaigns hyping AI fears. His May 2025 claim that AI would wipe out 50 percent of entry-level knowledge jobs within five years still lacks supporting evidence fifteen months later. Similarly Anthropic breathlessly promoted its heavily contrived “blackmail” study on 60 Minutes. Yet Dario blames public negativity on a long-standing loss of trust in institutions rather than his own messaging.\n\n8. These narratives have done more than anything to shape public fear. People are left asking the same question Mark Zuckerberg posed: why race to build a future you describe in such negative terms? Thomas Sowell’s \"The Vision of the Anointed\" captures the mindset – elite intellectuals convinced that only they are enlightened enough to control the outcome. As Zuckerberg notes, concentrating power in the hands of an enlightened few has rarely produced the promised results; the practitioners turn out to be less enlightened in practice than in self-conception.\n\n9. Gavin Baker summarized the disagreement cleanly on our pod: Dario believes frontier AI is too powerful to distribute; we believe it is too powerful to centralize. Dario appears to believe, sincerely, that safety and progress are best served by centralizing authority in a marriage of corporate and state power. The weight of human history gives us reason to fear that outcome.",
+      "source_type": "twitter",
+      "date": "2026-08-17",
+      "url": "https://x.com/ylecun/status/2089227290769080656",
+      "stars": 6025,
+      "score": 1.0,
+      "comments": 319,
+      "author": "David Sacks",
+      "author_username": "ylecun",
+      "retweets": 670,
+      "views": 769303,
+      "is_today": false
+    },
+    {
+      "id": "twitter_OpenAI_2089326994714763665",
+      "label": "defenders can see the future, and have a narrow window to uplevel their cybersecurity practices now....",
+      "type": "tweet",
+      "pillar": "patterns",
+      "pm_score": 0.86,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "OpenAI"
+      ],
+      "summary": "defenders can see the future, and have a narrow window to uplevel their cybersecurity practices now.\n\nkey is to uplevel fundamentals and apply the best AI tools.\n\nwhat we’re doing at OpenAI, and where other organizations can start: https://t.co/P3IMZkV234",
+      "raw_content": "defenders can see the future, and have a narrow window to uplevel their cybersecurity practices now.\n\nkey is to uplevel fundamentals and apply the best AI tools.\n\nwhat we’re doing at OpenAI, and where other organizations can start: https://t.co/P3IMZkV234",
+      "source_type": "twitter",
+      "date": "2026-08-17",
+      "url": "https://x.com/OpenAI/status/2089326994714763665",
+      "stars": 605,
+      "score": 0.8635499999999999,
+      "comments": 101,
+      "author": "Greg Brockman",
+      "author_username": "OpenAI",
+      "retweets": 61,
+      "views": 98929,
+      "is_today": false
+    },
+    {
+      "id": "twitter_swyx_2089371422174978159",
+      "label": "Last week, hundreds of founders and builders gathered for AGENT NIGHT.\n\nIf you weren't there, here's...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.61,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "swyx"
+      ],
+      "summary": "Last week, hundreds of founders and builders gathered for AGENT NIGHT.\n\nIf you weren't there, here's what you missed including the preview launch of WorkOS Airlock:\n\n01:25 Why agents need a new access control system \n18:00 Introducing Airlock: Intent-Based Access Control \n21:11 WorkOS Airlock live d",
+      "raw_content": "Last week, hundreds of founders and builders gathered for AGENT NIGHT.\n\nIf you weren't there, here's what you missed including the preview launch of WorkOS Airlock:\n\n01:25 Why agents need a new access control system \n18:00 Introducing Airlock: Intent-Based Access Control \n21:11 WorkOS Airlock live demo\n34:06 The Age of Personalized Software - @davidcrawshaw (@ssh_exe_dev)\n41:06 Get your product into agent retrieval and model training data - @inazarova (@evilmartians)\n47:26 Make moves with Mastra Factory - @abhiaiyer (@mastra)\n51:31 How to be the very best Self Healing Pokémon Master - @bdougieYO (@papercompute)\n57:33 Panel: The State of Agents with @JayaGup10, @Altimor, and @swyx",
+      "source_type": "twitter",
+      "date": "2026-08-17",
+      "url": "https://x.com/swyx/status/2089371422174978159",
+      "stars": 13,
+      "score": 0.60615,
+      "comments": 1,
+      "author": "Michael Grinich",
+      "author_username": "swyx",
+      "retweets": 3,
+      "views": 1087,
+      "is_today": false
+    },
+    {
+      "id": "twitter_JohnNosta_2089352982303256781",
+      "label": "Are we moving (precariously) past the era of the ghost writer...\n\n🚨Ghost Thought—A Ghostwriter for t...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.6,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "JohnNosta"
+      ],
+      "summary": "Are we moving (precariously) past the era of the ghost writer...\n\n🚨Ghost Thought—A Ghostwriter for the Mind, Not the Page\n\nhttps://t.co/pJNsr95j0v",
+      "raw_content": "Are we moving (precariously) past the era of the ghost writer...\n\n🚨Ghost Thought—A Ghostwriter for the Mind, Not the Page\n\nhttps://t.co/pJNsr95j0v",
+      "source_type": "twitter",
+      "date": "2026-08-17",
+      "url": "https://x.com/JohnNosta/status/2089352982303256781",
+      "stars": 4,
+      "score": 0.6024,
+      "comments": 0,
+      "author": "John Nosta",
+      "author_username": "JohnNosta",
+      "retweets": 2,
+      "views": 556,
+      "is_today": false
+    },
+    {
+      "id": "twitter_databricks_2089365270691234301",
+      "label": "“With coding agents, you’re putting this jetpack on and going 10,000 miles an hour, doing things you...",
+      "type": "tweet",
+      "pillar": "patterns",
+      "pm_score": 0.61,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "databricks"
+      ],
+      "summary": "“With coding agents, you’re putting this jetpack on and going 10,000 miles an hour, doing things you were never able to do before.”\n\nIn this conversation, @OpenAI’s @steipete and @thsottiaux join Databricks Co-founder @pwendell to unpack what comes next as agents move beyond code authoring into obse",
+      "raw_content": "“With coding agents, you’re putting this jetpack on and going 10,000 miles an hour, doing things you were never able to do before.”\n\nIn this conversation, @OpenAI’s @steipete and @thsottiaux join Databricks Co-founder @pwendell to unpack what comes next as agents move beyond code authoring into observability, operational work, and long-running responsibilities across software and data systems.\n\nWatch the full conversation: https://t.co/5j8A1W0ZnJ",
+      "source_type": "twitter",
+      "date": "2026-08-17",
+      "url": "https://x.com/databricks/status/2089365270691234301",
+      "stars": 19,
+      "score": 0.60795,
+      "comments": 1,
+      "author": "Databricks",
+      "author_username": "databricks",
+      "retweets": 3,
+      "views": 1308,
+      "is_today": false
+    },
+    {
+      "id": "twitter_supabase_2089380331417637372",
+      "label": "We added copyable AI prompts to our quick start guides https://t.co/elUOQ9QQFi",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.6,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "supabase"
+      ],
+      "summary": "We added copyable AI prompts to our quick start guides https://t.co/elUOQ9QQFi",
+      "raw_content": "We added copyable AI prompts to our quick start guides https://t.co/elUOQ9QQFi",
+      "source_type": "twitter",
+      "date": "2026-08-17",
+      "url": "https://x.com/supabase/status/2089380331417637372",
+      "stars": 10,
+      "score": 0.60345,
+      "comments": 1,
+      "author": "Supabase",
+      "author_username": "supabase",
+      "retweets": 0,
+      "views": 723,
+      "is_today": false
+    },
+    {
+      "id": "twitter_TheAIGRID_2089177550895673393",
+      "label": "Seedance 2.5 ranks 1st in Multi-Image to Video on Design Arena with an Elo of 1400. \n\nWith a signifi...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.62,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "TheAIGRID"
+      ],
+      "summary": "Seedance 2.5 ranks 1st in Multi-Image to Video on Design Arena with an Elo of 1400. \n\nWith a significant score gap from many other top models.\n\nThe benchmark gives video models multiple reference images and compares how well they combine them into a coherent video while preserving the subjects, visu",
+      "raw_content": "Seedance 2.5 ranks 1st in Multi-Image to Video on Design Arena with an Elo of 1400. \n\nWith a significant score gap from many other top models.\n\nThe benchmark gives video models multiple reference images and compares how well they combine them into a coherent video while preserving the subjects, visual style, and scene continuity.\n\nThis setup is actually closer to real production, where we already work from reference packs rather than one perfect source image. \n\nWhen the model preserves those inputs, artists spend fewer iterations repairing identity drift after generation.",
+      "source_type": "twitter",
+      "date": "2026-08-17",
+      "url": "https://x.com/TheAIGRID/status/2089177550895673393",
+      "stars": 48,
+      "score": 0.6231,
+      "comments": 6,
+      "author": "Rohan Paul",
+      "author_username": "TheAIGRID",
+      "retweets": 10,
+      "views": 6963,
+      "is_today": false
+    },
+    {
+      "id": "twitter__akhaliq_2089250698370462045",
+      "label": "Our Confucius4-TTS paper is now on arXiv — and the open-source model has just received a major upgra...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.6,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "_akhaliq"
+      ],
+      "summary": "Our Confucius4-TTS paper is now on arXiv — and the open-source model has just received a major upgrade. 🎙️\n\nConfucius4-TTS is built for multilingual, cross-lingual voice generation, with a focus on both model quality and real-world usability.\nhttps://t.co/I2sAgSSWeZ",
+      "raw_content": "Our Confucius4-TTS paper is now on arXiv — and the open-source model has just received a major upgrade. 🎙️\n\nConfucius4-TTS is built for multilingual, cross-lingual voice generation, with a focus on both model quality and real-world usability.\nhttps://t.co/I2sAgSSWeZ",
+      "source_type": "twitter",
+      "date": "2026-08-17",
+      "url": "https://x.com/_akhaliq/status/2089250698370462045",
+      "stars": 4,
+      "score": 0.60285,
+      "comments": 1,
+      "author": "NetEaseYouDao AI",
+      "author_username": "_akhaliq",
+      "retweets": 2,
+      "views": 1736,
+      "is_today": false
+    },
+    {
+      "id": "twitter_ThePracticalDev_2089345504513499210",
+      "label": "Onigiri, boba, gyoza and hot pot as blinking menu characters on a CRT screen, plus a kiosk that type...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.6,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ThePracticalDev"
+      ],
+      "summary": "Onigiri, boba, gyoza and hot pot as blinking menu characters on a CRT screen, plus a kiosk that types its prompt and prints a receipt. One shared rig underneath.\n\nSubmitted for the Frontend Challenge - Comfort Food Edition.\n\n{ author: Laura Norwood }\n\nhttps://t.co/luezgjjgr9",
+      "raw_content": "Onigiri, boba, gyoza and hot pot as blinking menu characters on a CRT screen, plus a kiosk that types its prompt and prints a receipt. One shared rig underneath.\n\nSubmitted for the Frontend Challenge - Comfort Food Edition.\n\n{ author: Laura Norwood }\n\nhttps://t.co/luezgjjgr9",
+      "source_type": "twitter",
+      "date": "2026-08-17",
+      "url": "https://x.com/ThePracticalDev/status/2089345504513499210",
+      "stars": 3,
+      "score": 0.60135,
+      "comments": 1,
+      "author": "DEV Community",
+      "author_username": "ThePracticalDev",
+      "retweets": 0,
+      "views": 2047,
+      "is_today": false
     }
   ],
   "edges": [
@@ -202445,16 +202695,76 @@
       "source": "twitter_ThePracticalDev_2089201806593204459",
       "target": "nlp",
       "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_ylecun_2089045322811249117_patterns",
+      "source": "twitter_ylecun_2089045322811249117",
+      "target": "patterns",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_ylecun_2089227290769080656_nlp",
+      "source": "twitter_ylecun_2089227290769080656",
+      "target": "nlp",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_OpenAI_2089326994714763665_ai-ethics",
+      "source": "twitter_OpenAI_2089326994714763665",
+      "target": "ai-ethics",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_swyx_2089371422174978159_capabilities",
+      "source": "twitter_swyx_2089371422174978159",
+      "target": "capabilities",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_JohnNosta_2089352982303256781_提示工程",
+      "source": "twitter_JohnNosta_2089352982303256781",
+      "target": "提示工程",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_databricks_2089365270691234301_open-weight-models",
+      "source": "twitter_databricks_2089365270691234301",
+      "target": "open-weight-models",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_supabase_2089380331417637372_business",
+      "source": "twitter_supabase_2089380331417637372",
+      "target": "business",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_TheAIGRID_2089177550895673393_ai治理",
+      "source": "twitter_TheAIGRID_2089177550895673393",
+      "target": "ai治理",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter__akhaliq_2089250698370462045_capabilities",
+      "source": "twitter__akhaliq_2089250698370462045",
+      "target": "capabilities",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_ThePracticalDev_2089345504513499210_privacy-preserving-ai",
+      "source": "twitter_ThePracticalDev_2089345504513499210",
+      "target": "privacy-preserving-ai",
+      "type": "RELATED_TO"
     }
   ],
   "generated_at": "2026-08-04T18:01:49.868753",
   "generator": "ai-radar-explorer-v3",
   "schema_version": "4-pillar-pm-focused",
   "metadata": {
-    "last_updated": "2026-08-17T18:02:48.135330",
+    "last_updated": "2026-08-18T00:03:35.529021",
     "pipeline_version": "v3.16",
-    "total_nodes": 7417,
-    "total_edges": 7728,
+    "total_nodes": 7427,
+    "total_edges": 7738,
     "today_nodes": 50,
     "sources": [
       "concept",
