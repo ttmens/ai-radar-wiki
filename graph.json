@@ -155602,6 +155602,281 @@
       "retweets": 7,
       "views": 10704,
       "is_today": false
+    },
+    {
+      "id": "twitter_ylecun_2089876520848515525",
+      "label": "what is happening here:\nclaude used existing open source tools and orchestrated them together to do ...",
+      "type": "tweet",
+      "pillar": "ecosystem",
+      "pm_score": 0.76,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ylecun"
+      ],
+      "summary": "what is happening here:\nclaude used existing open source tools and orchestrated them together to do a protein design campaign (with a big guide prompt!)\n\nthis is a win for claude because doing this orchestration requires a lot of biological judgement and knowledge\n\nhowever, the tools are doing A LOT",
+      "raw_content": "what is happening here:\nclaude used existing open source tools and orchestrated them together to do a protein design campaign (with a big guide prompt!)\n\nthis is a win for claude because doing this orchestration requires a lot of biological judgement and knowledge\n\nhowever, the tools are doing A LOT of the lifting here so it is just as important to give credit where it is due to the open source academic community. this is not just typing into claude \"hey give me a binder to X\" and have it spit out a protein sequence.\n\nthis also means that the limitations of these tools need to be thought about, and in particular we know that all of these tools fall down when faced with targets that are outside of the range of their training data (so we can't really design binders against most targets with them)\n\nso... this is cool but you really need to think about it in context",
+      "source_type": "twitter",
+      "date": "2026-08-19",
+      "url": "https://x.com/ylecun/status/2089876520848515525",
+      "stars": 154,
+      "score": 0.75925,
+      "comments": 9,
+      "author": "alex peysakhovich",
+      "author_username": "ylecun",
+      "retweets": 15,
+      "views": 23497,
+      "is_today": true
+    },
+    {
+      "id": "twitter_ylecun_2089937833272438800",
+      "label": "inspired by the anthropic post, i made a protein font!\n\nhow does it work? when you design by differe...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.71,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ylecun"
+      ],
+      "summary": "inspired by the anthropic post, i made a protein font!\n\nhow does it work? when you design by differentiating backward through a folding model like esm-fold2 you can ask that the distogram of the folded protein looks like something you want. \n\na little bit of help from @ChatGPT and now we have a prot",
+      "raw_content": "inspired by the anthropic post, i made a protein font!\n\nhow does it work? when you design by differentiating backward through a folding model like esm-fold2 you can ask that the distogram of the folded protein looks like something you want. \n\na little bit of help from @ChatGPT and now we have a protein font (fable, of course, didn't want to help me).\n\nthis was not fully automated, i had to dial in some details like the protein sizes etc, but jointly me and codex got it working.\n\ni put the whole pipeline on my github below so you can mess with it too. bring your own gpus, its kind of expensive.",
+      "source_type": "twitter",
+      "date": "2026-08-19",
+      "url": "https://x.com/ylecun/status/2089937833272438800",
+      "stars": 32,
+      "score": 0.7121500000000001,
+      "comments": 3,
+      "author": "alex peysakhovich",
+      "author_username": "ylecun",
+      "retweets": 2,
+      "views": 7140,
+      "is_today": true
+    },
+    {
+      "id": "twitter_ylecun_2089885713093325300",
+      "label": "That Trump officials ignored their own investigators showing elite universities did NOT violate the ...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.72,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ylecun"
+      ],
+      "summary": "That Trump officials ignored their own investigators showing elite universities did NOT violate the law shows the wisdom of Harvard's legal challenge to Trump and the mistake of Yale in rushing to try to make a deal that might compromise academic freedom. https://t.co/e3INfu4yD5",
+      "raw_content": "That Trump officials ignored their own investigators showing elite universities did NOT violate the law shows the wisdom of Harvard's legal challenge to Trump and the mistake of Yale in rushing to try to make a deal that might compromise academic freedom. https://t.co/e3INfu4yD5",
+      "source_type": "twitter",
+      "date": "2026-08-19",
+      "url": "https://x.com/ylecun/status/2089885713093325300",
+      "stars": 36,
+      "score": 0.71785,
+      "comments": 1,
+      "author": "Kenneth Roth",
+      "author_username": "ylecun",
+      "retweets": 11,
+      "views": 10807,
+      "is_today": true
+    },
+    {
+      "id": "twitter_ylecun_2089892737503944966",
+      "label": "How Anthropic's new results post would read without the PR:\n\nClaude orchestrated open-source protein...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ylecun"
+      ],
+      "summary": "How Anthropic's new results post would read without the PR:\n\nClaude orchestrated open-source protein design models,  PXDesign, RFdiffusion, Genie, BoltzGen, from a 30k-token expert prompt and 12,500 H100-hours of compute, and designed binders against 14 of 15 targets. Hit rates of 22–35% against a 1",
+      "raw_content": "How Anthropic's new results post would read without the PR:\n\nClaude orchestrated open-source protein design models,  PXDesign, RFdiffusion, Genie, BoltzGen, from a 30k-token expert prompt and 12,500 H100-hours of compute, and designed binders against 14 of 15 targets. Hit rates of 22–35% against a 10–15% baseline, where some of those tools already report similar numbers on their own.\n\nThe orchestration is genuinely impressive. But the open-source models did most of the lifting, and they came from the Baker lab, Columbia, MIT, ByteDance Seed, and most of them were already wet-lab validated before Claude touched them.\n\nWhich also sets the ceiling. All these generators share a single PDB-shaped training distribution, so calling four of them doesn't diversify away the blind spot, since they fail together. The targets that worked are the well-studied ones. \n\nSo the valid claim is that an agent can now drive this stack competently in the regime where the stack already works.\n\nInstead, we got this announcement:",
+      "source_type": "twitter",
+      "date": "2026-08-19",
+      "url": "https://x.com/ylecun/status/2089892737503944966",
+      "stars": 857,
+      "score": 1.0,
+      "comments": 42,
+      "author": "Ravid Shwartz Ziv",
+      "author_username": "ylecun",
+      "retweets": 98,
+      "views": 102990,
+      "is_today": true
+    },
+    {
+      "id": "twitter_elonmusk_2089913996711198870",
+      "label": "Grok Bot is the best AI agent right now and a full walkthrough just dropped covering setup, use case...",
+      "type": "tweet",
+      "pillar": "patterns",
+      "pm_score": 0.96,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "elonmusk"
+      ],
+      "summary": "Grok Bot is the best AI agent right now and a full walkthrough just dropped covering setup, use cases and plugins.\n\nAn army of agents working around the clock 24/7. Set it up correctly and the leverage is real.\n\nhttps://t.co/wMxEqIRuNr",
+      "raw_content": "Grok Bot is the best AI agent right now and a full walkthrough just dropped covering setup, use cases and plugins.\n\nAn army of agents working around the clock 24/7. Set it up correctly and the leverage is real.\n\nhttps://t.co/wMxEqIRuNr",
+      "source_type": "twitter",
+      "date": "2026-08-19",
+      "url": "https://x.com/elonmusk/status/2089913996711198870",
+      "stars": 559,
+      "score": 0.9560500000000001,
+      "comments": 71,
+      "author": "0xMarioNawfal",
+      "author_username": "elonmusk",
+      "retweets": 94,
+      "views": 174064,
+      "is_today": true
+    },
+    {
+      "id": "twitter_elonmusk_2089848391777808455",
+      "label": "I just built a brand-new landing page for my music and podcasts in only 10 minutes using Grok Build....",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.79,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "elonmusk"
+      ],
+      "summary": "I just built a brand-new landing page for my music and podcasts in only 10 minutes using Grok Build.\n\nIt’s live in my bio now. 🔥\n\nBye-bye, Linktree. Who needs it when you have Grok Build? https://t.co/dz4deit7Ot",
+      "raw_content": "I just built a brand-new landing page for my music and podcasts in only 10 minutes using Grok Build.\n\nIt’s live in my bio now. 🔥\n\nBye-bye, Linktree. Who needs it when you have Grok Build? https://t.co/dz4deit7Ot",
+      "source_type": "twitter",
+      "date": "2026-08-18",
+      "url": "https://x.com/elonmusk/status/2089848391777808455",
+      "stars": 427,
+      "score": 0.79095,
+      "comments": 49,
+      "author": "Lacey",
+      "author_username": "elonmusk",
+      "retweets": 68,
+      "views": 114578,
+      "is_today": false
+    },
+    {
+      "id": "twitter_elonmusk_2089998178456309976",
+      "label": "So many “historical” movies that are a pack of lies",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "elonmusk"
+      ],
+      "summary": "So many “historical” movies that are a pack of lies",
+      "raw_content": "So many “historical” movies that are a pack of lies",
+      "source_type": "twitter",
+      "date": "2026-08-19",
+      "url": "https://x.com/elonmusk/status/2089998178456309976",
+      "stars": 3952,
+      "score": 1.0,
+      "comments": 539,
+      "author": "Elon Musk",
+      "author_username": "elonmusk",
+      "retweets": 459,
+      "views": 744918,
+      "is_today": true
+    },
+    {
+      "id": "twitter_elonmusk_2089997238160502895",
+      "label": "100",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "elonmusk"
+      ],
+      "summary": "100",
+      "raw_content": "100",
+      "source_type": "twitter",
+      "date": "2026-08-19",
+      "url": "https://x.com/elonmusk/status/2089997238160502895",
+      "stars": 3015,
+      "score": 1.0,
+      "comments": 477,
+      "author": "Elon Musk",
+      "author_username": "elonmusk",
+      "retweets": 451,
+      "views": 670227,
+      "is_today": true
+    },
+    {
+      "id": "twitter_elonmusk_2089994188033306741",
+      "label": "Odyssey bloopers by Grok Imagine",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "elonmusk"
+      ],
+      "summary": "Odyssey bloopers by Grok Imagine",
+      "raw_content": "Odyssey bloopers by Grok Imagine",
+      "source_type": "twitter",
+      "date": "2026-08-19",
+      "url": "https://x.com/elonmusk/status/2089994188033306741",
+      "stars": 2087,
+      "score": 1.0,
+      "comments": 481,
+      "author": "Elon Musk",
+      "author_username": "elonmusk",
+      "retweets": 305,
+      "views": 834667,
+      "is_today": true
+    },
+    {
+      "id": "twitter_huggingface_2089739711296201162",
+      "label": "Sentence Transformers v6 has been released, and it is centered around Multi-Vector Embedding Models,...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.63,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "huggingface"
+      ],
+      "summary": "Sentence Transformers v6 has been released, and it is centered around Multi-Vector Embedding Models, what does that mean?\n\nUsually, when you build a semantic search or RAG-based system, you've probably used the @OpenAI embedding API or similar, as it allows to quickly index and search through a set ",
+      "raw_content": "Sentence Transformers v6 has been released, and it is centered around Multi-Vector Embedding Models, what does that mean?\n\nUsually, when you build a semantic search or RAG-based system, you've probably used the @OpenAI embedding API or similar, as it allows to quickly index and search through a set of documents. Such embedding models are called \"bi-encoders\", as they typically encode 2 things (\"bi\"): encode each document or chunk, encode the query, and then compute pairwise cosine similarity between each (document, query) pair to retrieve the top-k ones. This is known as vector search or semantic search, and typically achieves better results compared to traditional keyword search, which relies on the classic BM25 algorithm.\n\nIn 2020, researchers at @Stanford came up with something better than bi-encoders, called ColBERT. The idea is to create many vectors for each document, and many vectors for each query. One creates a vector for each token (a word or part of a word) of the query, and a vector for each token of each document. Next, to find the best matches, one computes the so-called MaxSim similarity. This is illustrated in the animation below.\n\nUnlike traditional vector similarity metrics that operate on pairs of single vectors, MaxSim computes similarity between sequences of vectors. The key insight here: each query token finds its best match in the document, then we sum. This enables fine-grained semantic matching and avoids averaging. \n\nThese \"multi-vector\" embedding models are also called \"late-interaction\" models, as they keep multiple vectors for each document and query, delaying the matching step until the very end.\n\nOver the last year, researchers at @LightOnIO trained some very impressive late interaction models, which they openly released on @huggingface. Today, the Sentence Transformers library, which is the go-to library for open-source embedding models, added first-class support for them, as well as for a variety of SOTA late interaction models trained by @mixedbreadai, @liquidai and more. This means that you can now also train or fine-tune your own late interaction models very easily.\n\nVarious vector databases like @elastic and @qdrant_engine already include support for multi-vector embedding models. This integration will definitely boost adoption of multi-vector embedding models by the industry.\n\nRead more here:\n- ColBERT paper: https://t.co/SZFidchFUX\n- Blog: https://t.co/UIzKZSWDgx",
+      "source_type": "twitter",
+      "date": "2026-08-18",
+      "url": "https://x.com/huggingface/status/2089739711296201162",
+      "stars": 68,
+      "score": 0.62835,
+      "comments": 3,
+      "author": "Niels Rogge",
+      "author_username": "huggingface",
+      "retweets": 11,
+      "views": 3288,
+      "is_today": false
+    },
+    {
+      "id": "twitter_supabase_2089917700822999275",
+      "label": "who made this masterpiece ? https://t.co/pUozogAmlB",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "supabase"
+      ],
+      "summary": "who made this masterpiece ? https://t.co/pUozogAmlB",
+      "raw_content": "who made this masterpiece ? https://t.co/pUozogAmlB",
+      "source_type": "twitter",
+      "date": "2026-08-19",
+      "url": "https://x.com/supabase/status/2089917700822999275",
+      "stars": 2681,
+      "score": 1.0,
+      "comments": 86,
+      "author": "Paul Copplestone - e/postgres",
+      "author_username": "supabase",
+      "retweets": 420,
+      "views": 279305,
+      "is_today": true
     }
   ],
   "edges": [
@@ -206227,16 +206502,82 @@
       "source": "twitter_TheAIGRID_2089507729509376478",
       "target": "提示工程",
       "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_ylecun_2089876520848515525_patterns",
+      "source": "twitter_ylecun_2089876520848515525",
+      "target": "patterns",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_ylecun_2089937833272438800_ai-ethics",
+      "source": "twitter_ylecun_2089937833272438800",
+      "target": "ai-ethics",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_ylecun_2089885713093325300_提示工程",
+      "source": "twitter_ylecun_2089885713093325300",
+      "target": "提示工程",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_ylecun_2089892737503944966_提示工程",
+      "source": "twitter_ylecun_2089892737503944966",
+      "target": "提示工程",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_elonmusk_2089913996711198870_privacy-preserving-ai",
+      "source": "twitter_elonmusk_2089913996711198870",
+      "target": "privacy-preserving-ai",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_elonmusk_2089848391777808455_open-weight-models",
+      "source": "twitter_elonmusk_2089848391777808455",
+      "target": "open-weight-models",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_elonmusk_2089998178456309976_ai-ethics",
+      "source": "twitter_elonmusk_2089998178456309976",
+      "target": "ai-ethics",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_elonmusk_2089997238160502895_ecosystem",
+      "source": "twitter_elonmusk_2089997238160502895",
+      "target": "ecosystem",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_elonmusk_2089994188033306741_privacy-preserving-ai",
+      "source": "twitter_elonmusk_2089994188033306741",
+      "target": "privacy-preserving-ai",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_huggingface_2089739711296201162_ai-ethics",
+      "source": "twitter_huggingface_2089739711296201162",
+      "target": "ai-ethics",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_supabase_2089917700822999275_open-weight-models",
+      "source": "twitter_supabase_2089917700822999275",
+      "target": "open-weight-models",
+      "type": "RELATED_TO"
     }
   ],
   "generated_at": "2026-08-04T18:01:49.868753",
   "generator": "ai-radar-explorer-v3",
   "schema_version": "4-pillar-pm-focused",
   "metadata": {
-    "last_updated": "2026-08-19T12:03:01.955072",
+    "last_updated": "2026-08-19T18:03:12.768560",
     "pipeline_version": "v3.16",
-    "total_nodes": 7539,
-    "total_edges": 7850,
+    "total_nodes": 7550,
+    "total_edges": 7861,
     "today_nodes": 50,
     "sources": [
       "concept",
