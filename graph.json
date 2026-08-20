@@ -157027,6 +157027,306 @@
       "retweets": 43,
       "views": 9996,
       "is_today": false
+    },
+    {
+      "id": "twitter_elonmusk_2090286832319955414",
+      "label": "Grok Build puts you in charge of your computer\n\nhttps://t.co/ppqui4IwBU",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.84,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "elonmusk"
+      ],
+      "summary": "Grok Build puts you in charge of your computer\n\nhttps://t.co/ppqui4IwBU",
+      "raw_content": "Grok Build puts you in charge of your computer\n\nhttps://t.co/ppqui4IwBU",
+      "source_type": "twitter",
+      "date": "2026-08-20",
+      "url": "https://x.com/elonmusk/status/2090286832319955414",
+      "stars": 251,
+      "score": 0.84175,
+      "comments": 89,
+      "author": "Elon Musk",
+      "author_username": "elonmusk",
+      "retweets": 44,
+      "views": 291173,
+      "is_today": true
+    },
+    {
+      "id": "twitter_elonmusk_2090266488666247275",
+      "label": "Much appreciated!",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "elonmusk"
+      ],
+      "summary": "Much appreciated!",
+      "raw_content": "Much appreciated!",
+      "source_type": "twitter",
+      "date": "2026-08-20",
+      "url": "https://x.com/elonmusk/status/2090266488666247275",
+      "stars": 2653,
+      "score": 1.0,
+      "comments": 408,
+      "author": "Elon Musk",
+      "author_username": "elonmusk",
+      "retweets": 326,
+      "views": 821723,
+      "is_today": true
+    },
+    {
+      "id": "twitter_elonmusk_2090213954744463691",
+      "label": "Grok Build just got a new update bringing a first-class workflows catalog, Always and Never allow on...",
+      "type": "tweet",
+      "pillar": "patterns",
+      "pm_score": 0.98,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "elonmusk"
+      ],
+      "summary": "Grok Build just got a new update bringing a first-class workflows catalog, Always and Never allow on permission prompts, a live status line that can refresh on a timer, and faster shutdown of looping tool calls\n\nRelease Notes: v1.0.7\n\nFeatures:\n• Users hitting startup timeouts can now raise the conn",
+      "raw_content": "Grok Build just got a new update bringing a first-class workflows catalog, Always and Never allow on permission prompts, a live status line that can refresh on a timer, and faster shutdown of looping tool calls\n\nRelease Notes: v1.0.7\n\nFeatures:\n• Users hitting startup timeouts can now raise the connect budget with the `GROK_CONNECT_UI_TIMEOUT_SECS` environment variable.\n• Permission prompts now show \"Always allow\" and \"Never allow\" options by default.\n• Users can now delete scheduled background loops directly from the tray.\n• Status line command scripts can now run on a timer via refresh_interval in config.toml.\n• Permission prompts now offer a 'Never allow' choice for MCP tools and web-fetch domains that persists per project.\n• Workflows tab added to the extensions modal (Ctrl+L or /plugins) listing installed workflows with name, source, and description.\n• New /workflows command opens the Workflows catalog tab; use /workflow runs to view live workflow runs.\n• Bare /workflow (or /workflow runs) now lists active and recent workflow runs with status and progress instead of usage help.\n• Workflows row added to the Ctrl+P command palette, opening the Workflows catalog tab.\n\nBug Fixes:\n• MCP server connections in non-interactive sessions no longer incorrectly require authentication for tokenless servers.\n• Fixed startup timeouts caused by concurrent auth refreshes across multiple sessions.\n• Tool call loops are interrupted earlier to avoid wasting time on repeated identical actions.\n• Subagents no longer receive the ask-user-question tool.\n• Bare email addresses are now turned into clickable mailto links in the pager.",
+      "source_type": "twitter",
+      "date": "2026-08-19",
+      "url": "https://x.com/elonmusk/status/2090213954744463691",
+      "stars": 883,
+      "score": 0.98295,
+      "comments": 89,
+      "author": "X Freeze",
+      "author_username": "elonmusk",
+      "retweets": 130,
+      "views": 514502,
+      "is_today": false
+    },
+    {
+      "id": "twitter_swyx_2090283975105564866",
+      "label": "in a world of cheap many:many, the rock-solid 1:1 is king",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.7,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "swyx"
+      ],
+      "summary": "in a world of cheap many:many, the rock-solid 1:1 is king",
+      "raw_content": "in a world of cheap many:many, the rock-solid 1:1 is king",
+      "source_type": "twitter",
+      "date": "2026-08-20",
+      "url": "https://x.com/swyx/status/2090283975105564866",
+      "stars": 7,
+      "score": 0.7039,
+      "comments": 4,
+      "author": "swyx",
+      "author_username": "swyx",
+      "retweets": 0,
+      "views": 969,
+      "is_today": true
+    },
+    {
+      "id": "twitter_swyx_2090259930662211615",
+      "label": "positive UBB take if you view openrouter in that lens\n\nhttps://t.co/rOtLC5UkC5",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.7,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "swyx"
+      ],
+      "summary": "positive UBB take if you view openrouter in that lens\n\nhttps://t.co/rOtLC5UkC5",
+      "raw_content": "positive UBB take if you view openrouter in that lens\n\nhttps://t.co/rOtLC5UkC5",
+      "source_type": "twitter",
+      "date": "2026-08-20",
+      "url": "https://x.com/swyx/status/2090259930662211615",
+      "stars": 1,
+      "score": 0.70075,
+      "comments": 1,
+      "author": "swyx",
+      "author_username": "swyx",
+      "retweets": 0,
+      "views": 1569,
+      "is_today": true
+    },
+    {
+      "id": "twitter_bindureddy_2090232320444055586",
+      "label": "The AI Model Hype Cycle Is Now 72 Hours\n\nDay 1:  \"This destroys GPT-5 and Fable combined!!\"\nDay 2:  ...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.73,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "bindureddy"
+      ],
+      "summary": "The AI Model Hype Cycle Is Now 72 Hours\n\nDay 1:  \"This destroys GPT-5 and Fable combined!!\"\nDay 2:  goes viral, everyone benchmarks it\nDay 3:  \"actually it hallucinates on basic math\"\nDay 4:  forgotten, next model drops\n\nWe are on Day 2 with GLM 5.3",
+      "raw_content": "The AI Model Hype Cycle Is Now 72 Hours\n\nDay 1:  \"This destroys GPT-5 and Fable combined!!\"\nDay 2:  goes viral, everyone benchmarks it\nDay 3:  \"actually it hallucinates on basic math\"\nDay 4:  forgotten, next model drops\n\nWe are on Day 2 with GLM 5.3",
+      "source_type": "twitter",
+      "date": "2026-08-20",
+      "url": "https://x.com/bindureddy/status/2090232320444055586",
+      "stars": 73,
+      "score": 0.7285,
+      "comments": 12,
+      "author": "Bindu Reddy",
+      "author_username": "bindureddy",
+      "retweets": 2,
+      "views": 38540,
+      "is_today": true
+    },
+    {
+      "id": "twitter_JohnNosta_2090212973919064467",
+      "label": "Even golf courses are estimated to use 3X as much water as U.S. data centers. \n\nData centers use 627...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.65,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "JohnNosta"
+      ],
+      "summary": "Even golf courses are estimated to use 3X as much water as U.S. data centers. \n\nData centers use 627 million gallons a day, vs 137 billion for cattle and 133 billion for power plants.\n\nSource: axios https://t.co/dwSSYRdZGK",
+      "raw_content": "Even golf courses are estimated to use 3X as much water as U.S. data centers. \n\nData centers use 627 million gallons a day, vs 137 billion for cattle and 133 billion for power plants.\n\nSource: axios https://t.co/dwSSYRdZGK",
+      "source_type": "twitter",
+      "date": "2026-08-19",
+      "url": "https://x.com/JohnNosta/status/2090212973919064467",
+      "stars": 126,
+      "score": 0.654,
+      "comments": 16,
+      "author": "Rohan Paul",
+      "author_username": "JohnNosta",
+      "retweets": 15,
+      "views": 6026,
+      "is_today": false
+    },
+    {
+      "id": "twitter_JohnNosta_2090144990286565768",
+      "label": "Absolutely insane stat: 15 U.S. colleges now cost more than $100,000 per year.\n\nThat’s $400,000+ for...",
+      "type": "tweet",
+      "pillar": "business",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "JohnNosta"
+      ],
+      "summary": "Absolutely insane stat: 15 U.S. colleges now cost more than $100,000 per year.\n\nThat’s $400,000+ for a four-year degree.\n\nStudents are not getting anywhere near $400,000 worth of value from these schools.\n\nHigher education is the most overpriced product in America. https://t.co/tsfvxYGrRM",
+      "raw_content": "Absolutely insane stat: 15 U.S. colleges now cost more than $100,000 per year.\n\nThat’s $400,000+ for a four-year degree.\n\nStudents are not getting anywhere near $400,000 worth of value from these schools.\n\nHigher education is the most overpriced product in America. https://t.co/tsfvxYGrRM",
+      "source_type": "twitter",
+      "date": "2026-08-19",
+      "url": "https://x.com/JohnNosta/status/2090144990286565768",
+      "stars": 4127,
+      "score": 1.0,
+      "comments": 590,
+      "author": "Charlie Bilello",
+      "author_username": "JohnNosta",
+      "retweets": 650,
+      "views": 735983,
+      "is_today": false
+    },
+    {
+      "id": "twitter_JohnNosta_2090209445104025605",
+      "label": "On Friday @ 11 AM PT, @DisrupTVShow interviews @briansolis, Head of Global Innovation, @ServiceNow &...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.6,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "JohnNosta"
+      ],
+      "summary": "On Friday @ 11 AM PT, @DisrupTVShow interviews @briansolis, Head of Global Innovation, @ServiceNow &amp; Co-author of Infinite, and @JohnNosta, Leading Innovation Theorist and author of The Borrowed Mind. Watch it here: https://t.co/NEmSEhoqTB @ValaAfshar @rwang0 #DisrupTV",
+      "raw_content": "On Friday @ 11 AM PT, @DisrupTVShow interviews @briansolis, Head of Global Innovation, @ServiceNow &amp; Co-author of Infinite, and @JohnNosta, Leading Innovation Theorist and author of The Borrowed Mind. Watch it here: https://t.co/NEmSEhoqTB @ValaAfshar @rwang0 #DisrupTV",
+      "source_type": "twitter",
+      "date": "2026-08-19",
+      "url": "https://x.com/JohnNosta/status/2090209445104025605",
+      "stars": 2,
+      "score": 0.6018,
+      "comments": 0,
+      "author": "Holger Müller #EnterpriseAcceleration",
+      "author_username": "JohnNosta",
+      "retweets": 2,
+      "views": 443,
+      "is_today": false
+    },
+    {
+      "id": "twitter_JohnNosta_2090213903997297082",
+      "label": "Unmasking AI: 10 myths fueling the silicon mirage.\n\nhttps://t.co/TF8QMaxoQH",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.6,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "JohnNosta"
+      ],
+      "summary": "Unmasking AI: 10 myths fueling the silicon mirage.\n\nhttps://t.co/TF8QMaxoQH",
+      "raw_content": "Unmasking AI: 10 myths fueling the silicon mirage.\n\nhttps://t.co/TF8QMaxoQH",
+      "source_type": "twitter",
+      "date": "2026-08-19",
+      "url": "https://x.com/JohnNosta/status/2090213903997297082",
+      "stars": 0,
+      "score": 0.6,
+      "comments": 0,
+      "author": "John Nosta",
+      "author_username": "JohnNosta",
+      "retweets": 0,
+      "views": 521,
+      "is_today": false
+    },
+    {
+      "id": "twitter_JohnNosta_2089731545053429958",
+      "label": "JUST IN: BlackRock recommends allocating 1-2% to Bitcoin in a portfolio",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "JohnNosta"
+      ],
+      "summary": "JUST IN: BlackRock recommends allocating 1-2% to Bitcoin in a portfolio",
+      "raw_content": "JUST IN: BlackRock recommends allocating 1-2% to Bitcoin in a portfolio",
+      "source_type": "twitter",
+      "date": "2026-08-18",
+      "url": "https://x.com/JohnNosta/status/2089731545053429958",
+      "stars": 1368,
+      "score": 1.0,
+      "comments": 102,
+      "author": "Kalshi",
+      "author_username": "JohnNosta",
+      "retweets": 103,
+      "views": 122636,
+      "is_today": false
+    },
+    {
+      "id": "twitter_databricks_2090248540371231080",
+      "label": "An extremely important functionality for agents is to simply extract fields out of PDFs. This turns ...",
+      "type": "tweet",
+      "pillar": "patterns",
+      "pm_score": 0.8,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "databricks"
+      ],
+      "summary": "An extremely important functionality for agents is to simply extract fields out of PDFs. This turns out to be harder than people think because LLMs are primarily trained on predicting the next tokens. This leads them to \"autocorrect\" things that they shouldn't autocorrect. We launched an AI Extract ",
+      "raw_content": "An extremely important functionality for agents is to simply extract fields out of PDFs. This turns out to be harder than people think because LLMs are primarily trained on predicting the next tokens. This leads them to \"autocorrect\" things that they shouldn't autocorrect. We launched an AI Extract capability that just excels at doing just this task with very high accuracy (95% vs 87% for others) and extremely low cost. Check out this blog on how we did it. The function can of course be called directly from SQL and be used throughout the platform.\n\nhttps://t.co/60XC2mIZ2E",
+      "source_type": "twitter",
+      "date": "2026-08-20",
+      "url": "https://x.com/databricks/status/2090248540371231080",
+      "stars": 213,
+      "score": 0.7967500000000001,
+      "comments": 9,
+      "author": "Ali Ghodsi",
+      "author_username": "databricks",
+      "retweets": 48,
+      "views": 14079,
+      "is_today": true
     }
   ],
   "edges": [
@@ -207994,16 +208294,88 @@
       "source": "twitter_ThePracticalDev_2090111590892765321",
       "target": "ai-ethics",
       "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_elonmusk_2090286832319955414_ecosystem",
+      "source": "twitter_elonmusk_2090286832319955414",
+      "target": "ecosystem",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_elonmusk_2090266488666247275_patterns",
+      "source": "twitter_elonmusk_2090266488666247275",
+      "target": "patterns",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_elonmusk_2090213954744463691_business",
+      "source": "twitter_elonmusk_2090213954744463691",
+      "target": "business",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_swyx_2090283975105564866_ai-ethics",
+      "source": "twitter_swyx_2090283975105564866",
+      "target": "ai-ethics",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_swyx_2090259930662211615_提示工程",
+      "source": "twitter_swyx_2090259930662211615",
+      "target": "提示工程",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_bindureddy_2090232320444055586_nlp",
+      "source": "twitter_bindureddy_2090232320444055586",
+      "target": "nlp",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_JohnNosta_2090212973919064467_提示工程",
+      "source": "twitter_JohnNosta_2090212973919064467",
+      "target": "提示工程",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_JohnNosta_2090144990286565768_open-weight-models",
+      "source": "twitter_JohnNosta_2090144990286565768",
+      "target": "open-weight-models",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_JohnNosta_2090209445104025605_business",
+      "source": "twitter_JohnNosta_2090209445104025605",
+      "target": "business",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_JohnNosta_2090213903997297082_ai治理",
+      "source": "twitter_JohnNosta_2090213903997297082",
+      "target": "ai治理",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_JohnNosta_2089731545053429958_ecosystem",
+      "source": "twitter_JohnNosta_2089731545053429958",
+      "target": "ecosystem",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_databricks_2090248540371231080_nlp",
+      "source": "twitter_databricks_2090248540371231080",
+      "target": "nlp",
+      "type": "RELATED_TO"
     }
   ],
   "generated_at": "2026-08-04T18:01:49.868753",
   "generator": "ai-radar-explorer-v3",
   "schema_version": "4-pillar-pm-focused",
   "metadata": {
-    "last_updated": "2026-08-20T06:02:59.412263",
+    "last_updated": "2026-08-20T12:02:00.304802",
     "pipeline_version": "v3.16",
-    "total_nodes": 7596,
-    "total_edges": 7907,
+    "total_nodes": 7608,
+    "total_edges": 7919,
     "today_nodes": 50,
     "sources": [
       "concept",
