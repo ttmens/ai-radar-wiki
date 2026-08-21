@@ -159277,6 +159277,181 @@
       "retweets": 1,
       "views": 2336,
       "is_today": false
+    },
+    {
+      "id": "twitter_ylecun_2090278404251693291",
+      "label": "Moderna/Merck just ran a 1,137-patient Phase 3 trial where every single dose was unique to that pati...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ylecun"
+      ],
+      "summary": "Moderna/Merck just ran a 1,137-patient Phase 3 trial where every single dose was unique to that patient's tumor. It worked.\n\nThe pipeline: surgical resection → whole exome + RNA sequencing → ML neoantigen ranking → mRNA encoding up to 34 patient-specific targets → manufactured and shipped in 8 weeks",
+      "raw_content": "Moderna/Merck just ran a 1,137-patient Phase 3 trial where every single dose was unique to that patient's tumor. It worked.\n\nThe pipeline: surgical resection → whole exome + RNA sequencing → ML neoantigen ranking → mRNA encoding up to 34 patient-specific targets → manufactured and shipped in 8 weeks. One drug, different sequence for every patient.\n\nThe ML step is worth to note: the algorithm ingests WES + RNA-seq to identify somatic mutations, then predicts which of those will actually be immunogenic, ie, displayed on tumor cell surface and trigger a T-cell response. It's designed to keep learning from accumulated clinical and immunogenicity data across patients, not just per-patient.\n\nINTerpath-001 (Stage IIB-IV resected melanoma, 2:1 randomized): combination with pembrolizumab beat Keytruda alone on both primary (RFS) and key secondary (DMFS) at interim. Phase 2b at ASCO 2026 showed 49% reduction in recurrence/death, 59% in distant metastasis/death at 5 years. Phase 3 confirmed both.\n\nWhat this validates:\n— tumor-specific neoantigen prediction by ML works in a blinded trial at scale\n— 8-week personalized mRNA manufacturing is operationally real\n— effect is additive on PD-1 blockade, not redundant\n\nThis is first positive Ph3 for individualized neoantigen therapy. First positive Ph3 for any mRNA cancer therapeutic. \n\nWhat a great time to live in!!  This is the best time for AI & biotech!",
+      "source_type": "twitter",
+      "date": "2026-08-20",
+      "url": "https://x.com/ylecun/status/2090278404251693291",
+      "stars": 1668,
+      "score": 1.0,
+      "comments": 61,
+      "author": "Bo Wang",
+      "author_username": "ylecun",
+      "retweets": 307,
+      "views": 225186,
+      "is_today": false
+    },
+    {
+      "id": "twitter_elonmusk_2090655236155384288",
+      "label": "Starship is so sci-fi https://t.co/G9IMCLmmiC",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "elonmusk"
+      ],
+      "summary": "Starship is so sci-fi https://t.co/G9IMCLmmiC",
+      "raw_content": "Starship is so sci-fi https://t.co/G9IMCLmmiC",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/elonmusk/status/2090655236155384288",
+      "stars": 26353,
+      "score": 1.0,
+      "comments": 1759,
+      "author": "Elon Musk",
+      "author_username": "elonmusk",
+      "retweets": 1944,
+      "views": 2470784,
+      "is_today": true
+    },
+    {
+      "id": "twitter_hardmaru_2090676201027510331",
+      "label": "スポンサーブース紹介!Sakana AIさんのブースでは、エンタープライズ向けプロダクトを開発するエンジニアと話せます🐟\n\nSponsor booth spotlight! Talk directly...",
+      "type": "tweet",
+      "pillar": "business",
+      "pm_score": 0.71,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "hardmaru"
+      ],
+      "summary": "スポンサーブース紹介!Sakana AIさんのブースでは、エンタープライズ向けプロダクトを開発するエンジニアと話せます🐟\n\nSponsor booth spotlight! Talk directly with the engineers building Sakana AI's enterprise products 🐟 Stop by!\n\nhttps://t.co/RmutV9Hqex\n#pyconjp2026 https://t.co/Ol5SAAErnU",
+      "raw_content": "スポンサーブース紹介!Sakana AIさんのブースでは、エンタープライズ向けプロダクトを開発するエンジニアと話せます🐟\n\nSponsor booth spotlight! Talk directly with the engineers building Sakana AI's enterprise products 🐟 Stop by!\n\nhttps://t.co/RmutV9Hqex\n#pyconjp2026 https://t.co/Ol5SAAErnU",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/hardmaru/status/2090676201027510331",
+      "stars": 21,
+      "score": 0.7099,
+      "comments": 0,
+      "author": "PyCon JP",
+      "author_username": "hardmaru",
+      "retweets": 6,
+      "views": 4924,
+      "is_today": true
+    },
+    {
+      "id": "twitter_swyx_2090678390575513991",
+      "label": "@vibhuuuus more in ainews  https://t.co/hZVnWQKuMX",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.7,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "swyx"
+      ],
+      "summary": "@vibhuuuus more in ainews  https://t.co/hZVnWQKuMX",
+      "raw_content": "@vibhuuuus more in ainews  https://t.co/hZVnWQKuMX",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/swyx/status/2090678390575513991",
+      "stars": 2,
+      "score": 0.7006,
+      "comments": 0,
+      "author": "swyx",
+      "author_username": "swyx",
+      "retweets": 0,
+      "views": 1634,
+      "is_today": true
+    },
+    {
+      "id": "twitter_bindureddy_2090666293691400328",
+      "label": "Try RouteLLM API - An API that routes to the best model based on your prompt\n\n- Handles caching\n- Su...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.74,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "bindureddy"
+      ],
+      "summary": "Try RouteLLM API - An API that routes to the best model based on your prompt\n\n- Handles caching\n- Supports 150+ AI models\n- Excellent speed and prices\n- Works in Claude or Codex\n\nRoute to open source models for simple turns and frontier models for complex long-running tasks https://t.co/YklftmKn3y",
+      "raw_content": "Try RouteLLM API - An API that routes to the best model based on your prompt\n\n- Handles caching\n- Supports 150+ AI models\n- Excellent speed and prices\n- Works in Claude or Codex\n\nRoute to open source models for simple turns and frontier models for complex long-running tasks https://t.co/YklftmKn3y",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/bindureddy/status/2090666293691400328",
+      "stars": 89,
+      "score": 0.7447,
+      "comments": 20,
+      "author": "Bindu Reddy",
+      "author_username": "bindureddy",
+      "retweets": 15,
+      "views": 785962,
+      "is_today": true
+    },
+    {
+      "id": "twitter_ThePracticalDev_2090716032646152231",
+      "label": "Looker hosts its own MCP server now, so a 292 MB local binary collapses into a URL and a headers hel...",
+      "type": "tweet",
+      "pillar": "patterns",
+      "pm_score": 0.7,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ThePracticalDev"
+      ],
+      "summary": "Looker hosts its own MCP server now, so a 292 MB local binary collapses into a URL and a headers helper. This dev walks the Claude Code setup and is clear-eyed about where the tool set stops.\n\n{ author: xbill + @GoogleDevExpert }\n\nhttps://t.co/J1AoDdh8Zj",
+      "raw_content": "Looker hosts its own MCP server now, so a 292 MB local binary collapses into a URL and a headers helper. This dev walks the Claude Code setup and is clear-eyed about where the tool set stops.\n\n{ author: xbill + @GoogleDevExpert }\n\nhttps://t.co/J1AoDdh8Zj",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/ThePracticalDev/status/2090716032646152231",
+      "stars": 7,
+      "score": 0.7021,
+      "comments": 0,
+      "author": "DEV Community",
+      "author_username": "ThePracticalDev",
+      "retweets": 0,
+      "views": 1289,
+      "is_today": true
+    },
+    {
+      "id": "twitter_ThePracticalDev_2090651357090844889",
+      "label": "Nobody reads a 2000 line diff carefully. GitHub now recognizes a chain of PRs stacked on each other ...",
+      "type": "tweet",
+      "pillar": "ecosystem",
+      "pm_score": 0.7,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ThePracticalDev"
+      ],
+      "summary": "Nobody reads a 2000 line diff carefully. GitHub now recognizes a chain of PRs stacked on each other automatically, no extension needed, and this dev walked a real repo through it to find out what actually changed.\n\n{ author: @athreyac4 }\n\nhttps://t.co/OnmcLBCMaA",
+      "raw_content": "Nobody reads a 2000 line diff carefully. GitHub now recognizes a chain of PRs stacked on each other automatically, no extension needed, and this dev walked a real repo through it to find out what actually changed.\n\n{ author: @athreyac4 }\n\nhttps://t.co/OnmcLBCMaA",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/ThePracticalDev/status/2090651357090844889",
+      "stars": 2,
+      "score": 0.70165,
+      "comments": 1,
+      "author": "DEV Community",
+      "author_username": "ThePracticalDev",
+      "retweets": 1,
+      "views": 2924,
+      "is_today": true
     }
   ],
   "edges": [
@@ -210784,16 +210959,58 @@
       "source": "twitter_databricks_2090569150280208474",
       "target": "capabilities",
       "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_ylecun_2090278404251693291_patterns",
+      "source": "twitter_ylecun_2090278404251693291",
+      "target": "patterns",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_elonmusk_2090655236155384288_提示工程",
+      "source": "twitter_elonmusk_2090655236155384288",
+      "target": "提示工程",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_hardmaru_2090676201027510331_ecosystem",
+      "source": "twitter_hardmaru_2090676201027510331",
+      "target": "ecosystem",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_swyx_2090678390575513991_patterns",
+      "source": "twitter_swyx_2090678390575513991",
+      "target": "patterns",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_bindureddy_2090666293691400328_提示工程",
+      "source": "twitter_bindureddy_2090666293691400328",
+      "target": "提示工程",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_ThePracticalDev_2090716032646152231_提示工程",
+      "source": "twitter_ThePracticalDev_2090716032646152231",
+      "target": "提示工程",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_ThePracticalDev_2090651357090844889_nlp",
+      "source": "twitter_ThePracticalDev_2090651357090844889",
+      "target": "nlp",
+      "type": "RELATED_TO"
     }
   ],
   "generated_at": "2026-08-04T18:01:49.868753",
   "generator": "ai-radar-explorer-v3",
   "schema_version": "4-pillar-pm-focused",
   "metadata": {
-    "last_updated": "2026-08-21T12:02:15.871567",
+    "last_updated": "2026-08-21T18:02:05.846878",
     "pipeline_version": "v3.16",
-    "total_nodes": 7686,
-    "total_edges": 7997,
+    "total_nodes": 7693,
+    "total_edges": 8004,
     "today_nodes": 50,
     "sources": [
       "concept",
