@@ -159452,6 +159452,456 @@
       "retweets": 1,
       "views": 2924,
       "is_today": true
+    },
+    {
+      "id": "twitter_elonmusk_2090792428512891182",
+      "label": "𝕏 has become the nervous system of the world\n\nWhen something happens in politics, technology, market...",
+      "type": "tweet",
+      "pillar": "patterns",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "elonmusk"
+      ],
+      "summary": "𝕏 has become the nervous system of the world\n\nWhen something happens in politics, technology, markets, science or culture, it hits 𝕏 first\n\nEverything here moves in real time\n\n𝕏 is now the fastest-growing social media platform on Earth\n\nAnd increasingly, the conversations that shape what happens nex",
+      "raw_content": "𝕏 has become the nervous system of the world\n\nWhen something happens in politics, technology, markets, science or culture, it hits 𝕏 first\n\nEverything here moves in real time\n\n𝕏 is now the fastest-growing social media platform on Earth\n\nAnd increasingly, the conversations that shape what happens next start here too\n\nCommunity Notes adds another powerful layer\nFalse or misleading claims can be challenged in public, with context visible to everyone\n\nPeople on other platforms watch 𝕏 to understand what the world is talking about",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/elonmusk/status/2090792428512891182",
+      "stars": 1589,
+      "score": 1.0,
+      "comments": 223,
+      "author": "X Freeze",
+      "author_username": "elonmusk",
+      "retweets": 242,
+      "views": 136317,
+      "is_today": false
+    },
+    {
+      "id": "twitter_GoogleDeepMind_2090772922818286080",
+      "label": "Games have been an important testbed for our AI research for over 15 years. 🎮\n\nFrom mastering Atari ...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.8,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "GoogleDeepMind"
+      ],
+      "summary": "Games have been an important testbed for our AI research for over 15 years. 🎮\n\nFrom mastering Atari to reaching Grandmaster in StarCraft II, they have driven some of our biggest AI breakthroughs.\n\nOur work with SIMA taught agents how to understand 3D worlds, but learning to navigate real human dynam",
+      "raw_content": "Games have been an important testbed for our AI research for over 15 years. 🎮\n\nFrom mastering Atari to reaching Grandmaster in StarCraft II, they have driven some of our biggest AI breakthroughs.\n\nOur work with SIMA taught agents how to understand 3D worlds, but learning to navigate real human dynamics takes a living, persistent universe.\n\nThrough our research partnership with @FenrisCreations, we’re exploring how to tackle open challenges in AI:\n\n🔵 Continual learning to acquire new skills without forgetting past knowledge.\n🔵 Deep memory systems that store and retrieve information far beyond today’s context windows.\n🔵 Long-horizon planning over weeks, months, or years.\n🔵 Multi-agent dynamics spanning cooperation, negotiation, economics, and emergent behaviors.\n\nOur long-term goal is to use AI to discover entirely new gameplay experiences in partnership with game developers – making games more accessible and personalized – while applying what we've learned to problems in the real world and scientific discovery.\n\nFind out more → https://t.co/fAbYdukA5A",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/GoogleDeepMind/status/2090772922818286080",
+      "stars": 470,
+      "score": 0.79875,
+      "comments": 63,
+      "author": "Google DeepMind",
+      "author_username": "GoogleDeepMind",
+      "retweets": 49,
+      "views": 37222,
+      "is_today": false
+    },
+    {
+      "id": "twitter_huggingface_2090636843897544968",
+      "label": "We released Diffusers 0.40.0 🔥\n\nMain highlights for me:\n\n> Graduating Modular Diffusers out of exper...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.62,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "huggingface"
+      ],
+      "summary": "We released Diffusers 0.40.0 🔥\n\nMain highlights for me:\n\n> Graduating Modular Diffusers out of experimental. \n\n> Bunch of new really cool models as always: LTX2.5, MiniMax H3, Music 3, Wan Animate 2, etc.\n\n> Tensor-parallel support for a select few models.\n\n> New quantization backends: SDNQ, Nunchak",
+      "raw_content": "We released Diffusers 0.40.0 🔥\n\nMain highlights for me:\n\n> Graduating Modular Diffusers out of experimental. \n\n> Bunch of new really cool models as always: LTX2.5, MiniMax H3, Music 3, Wan Animate 2, etc.\n\n> Tensor-parallel support for a select few models.\n\n> New quantization backends: SDNQ, Nunchaku-Lite. \n\n> MASSIVE redesign of our tests. It should now be leaner and better. Sometimes faster, too.\n\nCheck out the release notes here:\nhttps://t.co/MRPMYC4lXP",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/huggingface/status/2090636843897544968",
+      "stars": 49,
+      "score": 0.6213,
+      "comments": 4,
+      "author": "Sayak Paul",
+      "author_username": "huggingface",
+      "retweets": 8,
+      "views": 5109,
+      "is_today": false
+    },
+    {
+      "id": "twitter_huggingface_2090772832837877889",
+      "label": "SenseNova-U1.5-8B-MoT is HERE, it's a big deal! 🔥 open weights matching Nano Banana 2 on benchs 🍌\n\nn...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.64,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "huggingface"
+      ],
+      "summary": "SenseNova-U1.5-8B-MoT is HERE, it's a big deal! 🔥 open weights matching Nano Banana 2 on benchs 🍌\n\nno VAE, no text encoder, no DiT. a mixture of transformers: text and image tokens use different weights, attend to each other, denoise in pixel space\n\n▶️ https://t.co/MOSAfGaoCl https://t.co/7Y2C9lKIYD",
+      "raw_content": "SenseNova-U1.5-8B-MoT is HERE, it's a big deal! 🔥 open weights matching Nano Banana 2 on benchs 🍌\n\nno VAE, no text encoder, no DiT. a mixture of transformers: text and image tokens use different weights, attend to each other, denoise in pixel space\n\n▶️ https://t.co/MOSAfGaoCl https://t.co/7Y2C9lKIYD",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/huggingface/status/2090772832837877889",
+      "stars": 96,
+      "score": 0.63675,
+      "comments": 3,
+      "author": "Hugging Apps",
+      "author_username": "huggingface",
+      "retweets": 11,
+      "views": 9763,
+      "is_today": false
+    },
+    {
+      "id": "twitter_hardmaru_2090785386117373991",
+      "label": "【採用情報】Member of Technical Staff (LLM Development) の募集を開始しました🐟\n\nhttps://t.co/XmUoUaR3QY\n\nSakana Namaz...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.62,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "hardmaru"
+      ],
+      "summary": "【採用情報】Member of Technical Staff (LLM Development) の募集を開始しました🐟\n\nhttps://t.co/XmUoUaR3QY\n\nSakana Namazuを起点に拡大しているSakana AIのLLM開発を担うポジションです。下記のような挑戦が待っています。\n\n・事前学習から事後学習・評価まで、LLM開発の全工程に取り組むチーム に参加\n・LLM開発全体を見渡しながら、担当領域にオーナーシップを持ってリード\n・Sakana AIのプロダクト・ソリューションとRSI研究の基盤となるLLMを開発\n\nLLM開発の最前線で挑戦したい方、ぜひご応募ください",
+      "raw_content": "【採用情報】Member of Technical Staff (LLM Development) の募集を開始しました🐟\n\nhttps://t.co/XmUoUaR3QY\n\nSakana Namazuを起点に拡大しているSakana AIのLLM開発を担うポジションです。下記のような挑戦が待っています。\n\n・事前学習から事後学習・評価まで、LLM開発の全工程に取り組むチーム に参加\n・LLM開発全体を見渡しながら、担当領域にオーナーシップを持ってリード\n・Sakana AIのプロダクト・ソリューションとRSI研究の基盤となるLLMを開発\n\nLLM開発の最前線で挑戦したい方、ぜひご応募ください🚀",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/hardmaru/status/2090785386117373991",
+      "stars": 58,
+      "score": 0.6246,
+      "comments": 4,
+      "author": "Sakana AI",
+      "author_username": "hardmaru",
+      "retweets": 9,
+      "views": 9733,
+      "is_today": false
+    },
+    {
+      "id": "twitter_swyx_2090813719018176904",
+      "label": "it was a blast covering Build Fest this year - they didnt know this but I learned to code with Mongo...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.61,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "swyx"
+      ],
+      "summary": "it was a blast covering Build Fest this year - they didnt know this but I learned to code with MongoDB over 10 years ago (shoutout MERN stack) and now in the AI Engineering era seeing SF builders rediscover MDB was so gratifying - this was a *huge* step up from last year!",
+      "raw_content": "it was a blast covering Build Fest this year - they didnt know this but I learned to code with MongoDB over 10 years ago (shoutout MERN stack) and now in the AI Engineering era seeing SF builders rediscover MDB was so gratifying - this was a *huge* step up from last year!",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/swyx/status/2090813719018176904",
+      "stars": 16,
+      "score": 0.6075,
+      "comments": 6,
+      "author": "swyx",
+      "author_username": "swyx",
+      "retweets": 0,
+      "views": 3316,
+      "is_today": false
+    },
+    {
+      "id": "twitter_swyx_2090739788806496261",
+      "label": "This week I am cleaning up and improving the codebase of https://t.co/9NtBzZv41E a lot in order to b...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.6,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "swyx"
+      ],
+      "summary": "This week I am cleaning up and improving the codebase of https://t.co/9NtBzZv41E a lot in order to better serve the many channels which we support (web, mcp, Teams, Slack, etc.).\nAdding Telegram as the second channel after web should have been a big rewrite in the first place.\n\nI will try to fully i",
+      "raw_content": "This week I am cleaning up and improving the codebase of https://t.co/9NtBzZv41E a lot in order to better serve the many channels which we support (web, mcp, Teams, Slack, etc.).\nAdding Telegram as the second channel after web should have been a big rewrite in the first place.\n\nI will try to fully incorporate this idea \"support zero, one, or unlimited\" in the future.\n\nPretty cool article from @swyx about this topic (got it from @jacobmparis):\n\nhttps://t.co/3q3vSpulQ4",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/swyx/status/2090739788806496261",
+      "stars": 4,
+      "score": 0.60165,
+      "comments": 1,
+      "author": "Nico Schriever",
+      "author_username": "swyx",
+      "retweets": 0,
+      "views": 1790,
+      "is_today": false
+    },
+    {
+      "id": "twitter_bindureddy_2090828218995761469",
+      "label": "Ox Alpha (stealth model) is a free stealth model\n\nPros \n- free, 1M context, multi-modal\n\nCons \n- spi...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.6,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "bindureddy"
+      ],
+      "summary": "Ox Alpha (stealth model) is a free stealth model\n\nPros \n- free, 1M context, multi-modal\n\nCons \n- spins a lot, may not be that useful in the real wold\n\nIt's yet another chinese model",
+      "raw_content": "Ox Alpha (stealth model) is a free stealth model\n\nPros \n- free, 1M context, multi-modal\n\nCons \n- spins a lot, may not be that useful in the real wold\n\nIt's yet another chinese model",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/bindureddy/status/2090828218995761469",
+      "stars": 6,
+      "score": 0.60315,
+      "comments": 3,
+      "author": "Bindu Reddy",
+      "author_username": "bindureddy",
+      "retweets": 0,
+      "views": 1229,
+      "is_today": false
+    },
+    {
+      "id": "twitter_bindureddy_2090812811521970487",
+      "label": "Wow! DeepSeek Flash just got vision\n\nClosing one of its biggest flaws!\n\nNow it can handle a lot more...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.62,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "bindureddy"
+      ],
+      "summary": "Wow! DeepSeek Flash just got vision\n\nClosing one of its biggest flaws!\n\nNow it can handle a lot more tasks! Available unlimited on ChatLLM https://t.co/YTIB7n9Ylf",
+      "raw_content": "Wow! DeepSeek Flash just got vision\n\nClosing one of its biggest flaws!\n\nNow it can handle a lot more tasks! Available unlimited on ChatLLM https://t.co/YTIB7n9Ylf",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/bindureddy/status/2090812811521970487",
+      "stars": 37,
+      "score": 0.6174,
+      "comments": 10,
+      "author": "Bindu Reddy",
+      "author_username": "bindureddy",
+      "retweets": 3,
+      "views": 2452,
+      "is_today": false
+    },
+    {
+      "id": "twitter_JohnNosta_2090803876614254726",
+      "label": "JUST IN: Bitcoin 'Fear &amp; Greed Index' rises to 72, greed. https://t.co/ajRsVlk54F",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "JohnNosta"
+      ],
+      "summary": "JUST IN: Bitcoin 'Fear &amp; Greed Index' rises to 72, greed. https://t.co/ajRsVlk54F",
+      "raw_content": "JUST IN: Bitcoin 'Fear &amp; Greed Index' rises to 72, greed. https://t.co/ajRsVlk54F",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/JohnNosta/status/2090803876614254726",
+      "stars": 1830,
+      "score": 1.0,
+      "comments": 212,
+      "author": "Watcher.Guru",
+      "author_username": "JohnNosta",
+      "retweets": 227,
+      "views": 170889,
+      "is_today": false
+    },
+    {
+      "id": "twitter_JohnNosta_2090488040775184495",
+      "label": "🌩️I first read Gödel, Escher, Bach years ago and admired it. The second time, something hit me like ...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.61,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "JohnNosta"
+      ],
+      "summary": "🌩️I first read Gödel, Escher, Bach years ago and admired it. The second time, something hit me like a thunder strike.\n\n👉Hofstadter's \"strange loops\" were no longer elegant abstractions but have become the shape of thinking itself—especially once AI entered the exchange.\n\n👉The response reshapes the n",
+      "raw_content": "🌩️I first read Gödel, Escher, Bach years ago and admired it. The second time, something hit me like a thunder strike.\n\n👉Hofstadter's \"strange loops\" were no longer elegant abstractions but have become the shape of thinking itself—especially once AI entered the exchange.\n\n👉The response reshapes the next question. The system we are trying to understand is already inside the process of understanding it.\n\n\"Recursive participation.\"\n\nTo examine the loop, we may have to enter it.\n\nhttps://t.co/yyOI88KLw8 #AI",
+      "source_type": "twitter",
+      "date": "2026-08-20",
+      "url": "https://x.com/JohnNosta/status/2090488040775184495",
+      "stars": 19,
+      "score": 0.61125,
+      "comments": 3,
+      "author": "John Nosta",
+      "author_username": "JohnNosta",
+      "retweets": 7,
+      "views": 1789,
+      "is_today": false
+    },
+    {
+      "id": "twitter_JohnNosta_2090777990951047191",
+      "label": "Could Artificial General Intelligence Be a Myth? | Psychology Today \n\nhttps://t.co/jqx7TYHrDy",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.6,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "JohnNosta"
+      ],
+      "summary": "Could Artificial General Intelligence Be a Myth? | Psychology Today \n\nhttps://t.co/jqx7TYHrDy",
+      "raw_content": "Could Artificial General Intelligence Be a Myth? | Psychology Today \n\nhttps://t.co/jqx7TYHrDy",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/JohnNosta/status/2090777990951047191",
+      "stars": 7,
+      "score": 0.6039,
+      "comments": 0,
+      "author": "John Nosta",
+      "author_username": "JohnNosta",
+      "retweets": 3,
+      "views": 656,
+      "is_today": false
+    },
+    {
+      "id": "twitter_databricks_2090803134889074888",
+      "label": "Your AI is smart enough. The missing piece is context.\n\nJoin Databricks on September 23 to see how G...",
+      "type": "tweet",
+      "pillar": "patterns",
+      "pm_score": 0.61,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "databricks"
+      ],
+      "summary": "Your AI is smart enough. The missing piece is context.\n\nJoin Databricks on September 23 to see how Genie Ontology helps AI understand how your business actually works.\n\nYou’ll learn how to:\n• Build a living context graph across business terms, entities, and KPIs\n• Deliver trusted answers based on ea",
+      "raw_content": "Your AI is smart enough. The missing piece is context.\n\nJoin Databricks on September 23 to see how Genie Ontology helps AI understand how your business actually works.\n\nYou’ll learn how to:\n• Build a living context graph across business terms, entities, and KPIs\n• Deliver trusted answers based on each user’s access\n• Turn insights into autonomous actions, agents, and apps\n• Bring context-aware AI into Slack, Teams, mobile, and MCP-based experiences\n\nSave your seat: https://t.co/KtKXaw2ZNY",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/databricks/status/2090803134889074888",
+      "stars": 17,
+      "score": 0.6057,
+      "comments": 0,
+      "author": "Databricks",
+      "author_username": "databricks",
+      "retweets": 1,
+      "views": 1342,
+      "is_today": false
+    },
+    {
+      "id": "twitter_runwayml_2090807248402682101",
+      "label": "Introducing Runway Ruby.\n\nA new model that converts SDR video up to 16-bit HDR in ProRes and EXR seq...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.71,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "runwayml"
+      ],
+      "summary": "Introducing Runway Ruby.\n\nA new model that converts SDR video up to 16-bit HDR in ProRes and EXR sequences. Compatible with any existing uploaded video or generated output up to 30s. https://t.co/UME7flY2vb",
+      "raw_content": "Introducing Runway Ruby.\n\nA new model that converts SDR video up to 16-bit HDR in ProRes and EXR sequences. Compatible with any existing uploaded video or generated output up to 30s. https://t.co/UME7flY2vb",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/runwayml/status/2090807248402682101",
+      "stars": 230,
+      "score": 0.70575,
+      "comments": 31,
+      "author": "Runway",
+      "author_username": "runwayml",
+      "retweets": 38,
+      "views": 22980,
+      "is_today": false
+    },
+    {
+      "id": "twitter_runwayml_2090807260306112559",
+      "label": "Get started: https://t.co/j1NtDVkPk2",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.6,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "runwayml"
+      ],
+      "summary": "Get started: https://t.co/j1NtDVkPk2",
+      "raw_content": "Get started: https://t.co/j1NtDVkPk2",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/runwayml/status/2090807260306112559",
+      "stars": 7,
+      "score": 0.6027,
+      "comments": 0,
+      "author": "Runway",
+      "author_username": "runwayml",
+      "retweets": 1,
+      "views": 2112,
+      "is_today": false
+    },
+    {
+      "id": "twitter_TheAIGRID_2090713521579315535",
+      "label": "there's no solution to this\n\nliterally curing cancer and they still find reasons to complain https:/...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "TheAIGRID"
+      ],
+      "summary": "there's no solution to this\n\nliterally curing cancer and they still find reasons to complain https://t.co/8rWD6a0tOA",
+      "raw_content": "there's no solution to this\n\nliterally curing cancer and they still find reasons to complain https://t.co/8rWD6a0tOA",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/TheAIGRID/status/2090713521579315535",
+      "stars": 6137,
+      "score": 1.0,
+      "comments": 244,
+      "author": "vittorio",
+      "author_username": "TheAIGRID",
+      "retweets": 318,
+      "views": 175891,
+      "is_today": false
+    },
+    {
+      "id": "twitter__akhaliq_2090773411039457342",
+      "label": "SWE-bench Science\n\nA new benchmark for scientific software engineering: 119 tasks across 98 reposito...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.61,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "_akhaliq"
+      ],
+      "summary": "SWE-bench Science\n\nA new benchmark for scientific software engineering: 119 tasks across 98 repositories and 20 domains. Even the best agent, Claude Code with Opus-5, achieves under 50% pass@1. https://t.co/LtdNeJdwEh",
+      "raw_content": "SWE-bench Science\n\nA new benchmark for scientific software engineering: 119 tasks across 98 repositories and 20 domains. Even the best agent, Claude Code with Opus-5, achieves under 50% pass@1. https://t.co/LtdNeJdwEh",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/_akhaliq/status/2090773411039457342",
+      "stars": 31,
+      "score": 0.61365,
+      "comments": 3,
+      "author": "DailyPapers",
+      "author_username": "_akhaliq",
+      "retweets": 5,
+      "views": 3478,
+      "is_today": false
+    },
+    {
+      "id": "twitter_ThePracticalDev_2090792538521186448",
+      "label": "A missing await fixed the bug. Explaining why it worked was the part that failed. This dev turned th...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.6,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ThePracticalDev"
+      ],
+      "summary": "A missing await fixed the bug. Explaining why it worked was the part that failed. This dev turned that gap into a rule: think before opening the assistant, and ask what got missed rather than whether it is correct.\n\n{ author: @HarshSh54928171 }\n\nhttps://t.co/4wuPrdTaqE",
+      "raw_content": "A missing await fixed the bug. Explaining why it worked was the part that failed. This dev turned that gap into a rule: think before opening the assistant, and ask what got missed rather than whether it is correct.\n\n{ author: @HarshSh54928171 }\n\nhttps://t.co/4wuPrdTaqE",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/ThePracticalDev/status/2090792538521186448",
+      "stars": 1,
+      "score": 0.6021,
+      "comments": 0,
+      "author": "DEV Community",
+      "author_username": "ThePracticalDev",
+      "retweets": 3,
+      "views": 2177,
+      "is_today": false
     }
   ],
   "edges": [
@@ -211001,16 +211451,124 @@
       "source": "twitter_ThePracticalDev_2090651357090844889",
       "target": "nlp",
       "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_elonmusk_2090792428512891182_patterns",
+      "source": "twitter_elonmusk_2090792428512891182",
+      "target": "patterns",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_GoogleDeepMind_2090772922818286080_提示工程",
+      "source": "twitter_GoogleDeepMind_2090772922818286080",
+      "target": "提示工程",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_huggingface_2090636843897544968_ai-ethics",
+      "source": "twitter_huggingface_2090636843897544968",
+      "target": "ai-ethics",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_huggingface_2090772832837877889_open-weight-models",
+      "source": "twitter_huggingface_2090772832837877889",
+      "target": "open-weight-models",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_hardmaru_2090785386117373991_patterns",
+      "source": "twitter_hardmaru_2090785386117373991",
+      "target": "patterns",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_swyx_2090813719018176904_ai治理",
+      "source": "twitter_swyx_2090813719018176904",
+      "target": "ai治理",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_swyx_2090739788806496261_open-weight-models",
+      "source": "twitter_swyx_2090739788806496261",
+      "target": "open-weight-models",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_bindureddy_2090828218995761469_提示工程",
+      "source": "twitter_bindureddy_2090828218995761469",
+      "target": "提示工程",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_bindureddy_2090812811521970487_ecosystem",
+      "source": "twitter_bindureddy_2090812811521970487",
+      "target": "ecosystem",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_JohnNosta_2090803876614254726_capabilities",
+      "source": "twitter_JohnNosta_2090803876614254726",
+      "target": "capabilities",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_JohnNosta_2090488040775184495_business",
+      "source": "twitter_JohnNosta_2090488040775184495",
+      "target": "business",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_JohnNosta_2090777990951047191_ai-ethics",
+      "source": "twitter_JohnNosta_2090777990951047191",
+      "target": "ai-ethics",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_databricks_2090803134889074888_nlp",
+      "source": "twitter_databricks_2090803134889074888",
+      "target": "nlp",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_runwayml_2090807248402682101_nlp",
+      "source": "twitter_runwayml_2090807248402682101",
+      "target": "nlp",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_runwayml_2090807260306112559_ai治理",
+      "source": "twitter_runwayml_2090807260306112559",
+      "target": "ai治理",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_TheAIGRID_2090713521579315535_business",
+      "source": "twitter_TheAIGRID_2090713521579315535",
+      "target": "business",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter__akhaliq_2090773411039457342_ai治理",
+      "source": "twitter__akhaliq_2090773411039457342",
+      "target": "ai治理",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_ThePracticalDev_2090792538521186448_ecosystem",
+      "source": "twitter_ThePracticalDev_2090792538521186448",
+      "target": "ecosystem",
+      "type": "RELATED_TO"
     }
   ],
   "generated_at": "2026-08-04T18:01:49.868753",
   "generator": "ai-radar-explorer-v3",
   "schema_version": "4-pillar-pm-focused",
   "metadata": {
-    "last_updated": "2026-08-21T18:02:05.846878",
+    "last_updated": "2026-08-22T00:02:21.122562",
     "pipeline_version": "v3.16",
-    "total_nodes": 7693,
-    "total_edges": 8004,
+    "total_nodes": 7711,
+    "total_edges": 8022,
     "today_nodes": 50,
     "sources": [
       "concept",
