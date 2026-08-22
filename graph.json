@@ -160677,6 +160677,556 @@
       "retweets": 1,
       "views": 2637,
       "is_today": false
+    },
+    {
+      "id": "twitter_ylecun_2090866739240173613",
+      "label": "President Trump promised there'd be no cuts to Medicaid. \n\nThen he pushed through his One Big Beauti...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "ylecun"
+      ],
+      "summary": "President Trump promised there'd be no cuts to Medicaid. \n\nThen he pushed through his One Big Beautiful Bill, which cut Medicaid by nearly $1 trillion and has already caused over 5 million Americans to lose health insurance.\n\nRead my take in @nytopinion: https://t.co/aoWJDeQ1Kc https://t.co/DJeO2AkY",
+      "raw_content": "President Trump promised there'd be no cuts to Medicaid. \n\nThen he pushed through his One Big Beautiful Bill, which cut Medicaid by nearly $1 trillion and has already caused over 5 million Americans to lose health insurance.\n\nRead my take in @nytopinion: https://t.co/aoWJDeQ1Kc https://t.co/DJeO2AkY2F",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/ylecun/status/2090866739240173613",
+      "stars": 1358,
+      "score": 1.0,
+      "comments": 71,
+      "author": "Steve Rattner",
+      "author_username": "ylecun",
+      "retweets": 838,
+      "views": 37852,
+      "is_today": false
+    },
+    {
+      "id": "twitter_elonmusk_2090809510864498823",
+      "label": "Chandrasekhar died exactly 31 years ago today. At 19, on the boat from India to Cambridge in 1930, h...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "elonmusk"
+      ],
+      "summary": "Chandrasekhar died exactly 31 years ago today. At 19, on the boat from India to Cambridge in 1930, he worked out that a white dwarf above ~1.4 solar masses could not remain stable. Eddington publicly rejected the result. 53 years later, Chandrasekhar won the Nobel Prize for his work on stellar evolu",
+      "raw_content": "Chandrasekhar died exactly 31 years ago today. At 19, on the boat from India to Cambridge in 1930, he worked out that a white dwarf above ~1.4 solar masses could not remain stable. Eddington publicly rejected the result. 53 years later, Chandrasekhar won the Nobel Prize for his work on stellar evolution.",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/elonmusk/status/2090809510864498823",
+      "stars": 2253,
+      "score": 1.0,
+      "comments": 61,
+      "author": "Fermat's Library",
+      "author_username": "elonmusk",
+      "retweets": 346,
+      "views": 139979,
+      "is_today": false
+    },
+    {
+      "id": "twitter_elonmusk_2090689729461411951",
+      "label": "In 1948, a 32-year-old at Bell Labs published a paper nobody fully understood.\n\nEngineers found it t...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "elonmusk"
+      ],
+      "summary": "In 1948, a 32-year-old at Bell Labs published a paper nobody fully understood.\n\nEngineers found it too mathematical. Mathematicians found it too engineering-focused. One prominent mathematician reviewed it negatively.\n\nThat paper - \"A Mathematical Theory of Communication\", became the founding docume",
+      "raw_content": "In 1948, a 32-year-old at Bell Labs published a paper nobody fully understood.\n\nEngineers found it too mathematical. Mathematicians found it too engineering-focused. One prominent mathematician reviewed it negatively.\n\nThat paper - \"A Mathematical Theory of Communication\", became the founding document of the digital age.\n\nThe man was Claude Shannon. Father of Information Theory.\n\nAt 21, he wrote the most important master's thesis of the 20th century.\n\nWorking at MIT on an early mechanical computer, Shannon noticed its relay switches had exactly two states - open or closed. He had just taken a philosophy course introducing Boolean algebra, which also operated on two values: true and false.\n\nNobody had ever connected these two things.\n\nHis 1937 thesis proved that Boolean algebra and electrical circuits are mathematically identical, and that any logical operation could be built from simple switches.\n\nHoward Gardner called it \"possibly the most important, and also the most famous, master's thesis of the century.\"\n\nEvery digital computer ever built traces back to this insight.\n\nAt 29, he proved that perfect encryption exists.\n\nDuring WWII, Shannon worked on classified cryptography at Bell Labs. His work contributed to SIGSALY, the secure voice system used for confidential communications between Roosevelt and Churchill.\n\nIn a classified 1945 memorandum, he mathematically proved the one-time pad provides perfect secrecy, unbreakable not just computationally, but provably, permanently, against an adversary with infinite power.\n\nWhen declassified in 1949, it transformed cryptography from an art into a science. It laid the foundations for DES, AES, and every modern encryption standard.\n\nAt 32, he defined what information is.\n\nHis 1948 paper introduced one equation:\nH = −Σ p(x) log p(x)\n\nShannon entropy. The average uncertainty in a probability distribution. The minimum bits required to encode a message.\n\nThree things followed:\n\n> He defined the bit - the fundamental unit of all information. His colleague John Tukey coined the name.\n\n> He proved the channel capacity theorem, every communication channel has a maximum rate of reliable transmission. You can approach it. You can never exceed it.\n\n> He unified telegraph, telephone, and radio into a single mathematical framework for the first time.\n\nRobert Lucky of Bell Labs called it the greatest work \"in the annals of technological thought.\"\n\nWhere his equation lives in AI today:\n\nCross-entropy loss - the function training every classifier and language model, is derived directly from H. Decision tree splits use information gain, which is H applied to data. Perplexity, the standard LLM evaluation metric, is an exponentiation of cross-entropy.\n\nEvery time a neural network trains, Shannon's formula runs inside it.\n\nHe also built the first AI learning device.\n\nIn 1950, Shannon built Theseus, a mechanical mouse that navigated a maze through trial and error, learned the correct path, and repeated it perfectly. Mazin Gilbert of Bell Labs said: \"Theseus inspired the whole field of AI.\"\n\nThat same year he published the first paper on programming a computer to play chess. He co-organized the 1956 Dartmouth Workshop, the founding event of AI as a field.\n\nThe man:\nHe rode a unicycle through Bell Labs hallways while juggling. He built a flame-throwing trumpet, a rocket-powered Frisbee, and Styrofoam shoes to walk on the lake behind his house.\n\nHe called his home Entropy House.\n\nWhen asked what motivated him: \"I was motivated by curiosity. Never by the desire for financial gain. I just wondered how things were put together.\"\n\nIn 1985, he appeared unexpectedly at a conference in Brighton. The crowd mobbed him for autographs. Persuaded to speak at the banquet, he talked briefly, then pulled three balls from his pockets and juggled instead.\n\nOne engineer said: \"It was as if Newton had showed up at a physics conference.\"\n\nHe died in 2001 after a decade with Alzheimer's, the cruel irony of information slowly leaving the mind of the man who defined what information was.\n\nClaude, the AI model, is named after Claude Shannon, the mathematician who laid the foundation for the digital world we rely on today.",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/elonmusk/status/2090689729461411951",
+      "stars": 1117,
+      "score": 1.0,
+      "comments": 67,
+      "author": "Tech with Mak",
+      "author_username": "elonmusk",
+      "retweets": 246,
+      "views": 90779,
+      "is_today": false
+    },
+    {
+      "id": "twitter_elonmusk_2090924405195211147",
+      "label": "Grok 4.6 just took #1 on CursorBench.\n\nNot only the highest score. \n\nIt did it at a fraction of the ...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.74,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "elonmusk"
+      ],
+      "summary": "Grok 4.6 just took #1 on CursorBench.\n\nNot only the highest score. \n\nIt did it at a fraction of the cost of the models sitting right behind it.\n\nThat combination is the real signal. \n\nTop-tier results are one thing. \n\nTop-tier results that stay cheap enough to run for long agentic coding sessions ar",
+      "raw_content": "Grok 4.6 just took #1 on CursorBench.\n\nNot only the highest score. \n\nIt did it at a fraction of the cost of the models sitting right behind it.\n\nThat combination is the real signal. \n\nTop-tier results are one thing. \n\nTop-tier results that stay cheap enough to run for long agentic coding sessions are something else.\n\nI see this as the practical edge that matters for real work. \n\nBenchmarks are useful. \n\nSustained performance at low cost is what actually gets used.",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/elonmusk/status/2090924405195211147",
+      "stars": 305,
+      "score": 0.7422,
+      "comments": 30,
+      "author": "Joe Hansen",
+      "author_username": "elonmusk",
+      "retweets": 62,
+      "views": 111938,
+      "is_today": false
+    },
+    {
+      "id": "twitter_elonmusk_2091006071884451959",
+      "label": "It’s that easy to use Grok @Bot",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "elonmusk"
+      ],
+      "summary": "It’s that easy to use Grok @Bot",
+      "raw_content": "It’s that easy to use Grok @Bot",
+      "source_type": "twitter",
+      "date": "2026-08-22",
+      "url": "https://x.com/elonmusk/status/2091006071884451959",
+      "stars": 927,
+      "score": 1.0,
+      "comments": 254,
+      "author": "Elon Musk",
+      "author_username": "elonmusk",
+      "retweets": 158,
+      "views": 427023,
+      "is_today": true
+    },
+    {
+      "id": "twitter_elonmusk_2090313146183688433",
+      "label": "Grok Bot can recreate any viral video from the link 🤯\n\nHow it works: I send @bot a link to an AI cli...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.87,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "elonmusk"
+      ],
+      "summary": "Grok Bot can recreate any viral video from the link 🤯\n\nHow it works: I send @bot a link to an AI clip.\n\nIt watches the video and writes a prompt to recreate it (with any changes I want).\n\nThen it uses @imagine to generate the new video! I tried it on the subway trend 👇 https://t.co/PKzeu0VoeX",
+      "raw_content": "Grok Bot can recreate any viral video from the link 🤯\n\nHow it works: I send @bot a link to an AI clip.\n\nIt watches the video and writes a prompt to recreate it (with any changes I want).\n\nThen it uses @imagine to generate the new video! I tried it on the subway trend 👇 https://t.co/PKzeu0VoeX",
+      "source_type": "twitter",
+      "date": "2026-08-20",
+      "url": "https://x.com/elonmusk/status/2090313146183688433",
+      "stars": 661,
+      "score": 0.87075,
+      "comments": 53,
+      "author": "Justine Moore",
+      "author_username": "elonmusk",
+      "retweets": 81,
+      "views": 103216,
+      "is_today": false
+    },
+    {
+      "id": "twitter_satyanadella_2090929770779521310",
+      "label": "Delivery day at our Microsoft DCs as the first production Vera Rubins arrive. A huge thank you to ou...",
+      "type": "tweet",
+      "pillar": "business",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "satyanadella"
+      ],
+      "summary": "Delivery day at our Microsoft DCs as the first production Vera Rubins arrive. A huge thank you to our partners at @nvidia and our Azure hardware and datacenter teams for all the incredible work that brought us to this milestone! https://t.co/pBqKArGO1N",
+      "raw_content": "Delivery day at our Microsoft DCs as the first production Vera Rubins arrive. A huge thank you to our partners at @nvidia and our Azure hardware and datacenter teams for all the incredible work that brought us to this milestone! https://t.co/pBqKArGO1N",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/satyanadella/status/2090929770779521310",
+      "stars": 3242,
+      "score": 1.0,
+      "comments": 173,
+      "author": "Satya Nadella",
+      "author_username": "satyanadella",
+      "retweets": 280,
+      "views": 390766,
+      "is_today": false
+    },
+    {
+      "id": "twitter_sundarpichai_2090853908138676507",
+      "label": "Remote Control is here!\n\nTake Antigravity with you anywhere. Access your active sessions from any mo...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "sundarpichai"
+      ],
+      "summary": "Remote Control is here!\n\nTake Antigravity with you anywhere. Access your active sessions from any modern supported browser or mobile device across iOS and Android. Rolling out to all users starting today, beginning with Ultra subscribers. https://t.co/jFWesFCxrV",
+      "raw_content": "Remote Control is here!\n\nTake Antigravity with you anywhere. Access your active sessions from any modern supported browser or mobile device across iOS and Android. Rolling out to all users starting today, beginning with Ultra subscribers. https://t.co/jFWesFCxrV",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/sundarpichai/status/2090853908138676507",
+      "stars": 2870,
+      "score": 1.0,
+      "comments": 179,
+      "author": "Google Antigravity",
+      "author_username": "sundarpichai",
+      "retweets": 213,
+      "views": 223142,
+      "is_today": false
+    },
+    {
+      "id": "twitter_sundarpichai_2091006815295373717",
+      "label": "Gemini 3.7 Flash smashed previous Gemini growth records in its first week, making it our fastest gro...",
+      "type": "tweet",
+      "pillar": "ecosystem",
+      "pm_score": 0.8,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "sundarpichai"
+      ],
+      "summary": "Gemini 3.7 Flash smashed previous Gemini growth records in its first week, making it our fastest growing model yet. Great to see the huge excitement from our developer community! Now running in Search and @Geminiapp too.",
+      "raw_content": "Gemini 3.7 Flash smashed previous Gemini growth records in its first week, making it our fastest growing model yet. Great to see the huge excitement from our developer community! Now running in Search and @Geminiapp too.",
+      "source_type": "twitter",
+      "date": "2026-08-22",
+      "url": "https://x.com/sundarpichai/status/2091006815295373717",
+      "stars": 225,
+      "score": 0.7996000000000001,
+      "comments": 38,
+      "author": "Sundar Pichai",
+      "author_username": "sundarpichai",
+      "retweets": 25,
+      "views": 26284,
+      "is_today": true
+    },
+    {
+      "id": "twitter_OpenAI_2090943146683400555",
+      "label": "This week’s ChatGPT feature drop - Aug 21:\n\nAnother Friday, another roundup of what we shipped this ...",
+      "type": "tweet",
+      "pillar": "ecosystem",
+      "pm_score": 0.94,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "OpenAI"
+      ],
+      "summary": "This week’s ChatGPT feature drop - Aug 21:\n\nAnother Friday, another roundup of what we shipped this week:\n\n1/ Recent photos: Long press on + menu to quickly attach recents on iOS - this is a fun, power user feature. just beautiful design! also a handy shortcut.\n\n2/ Time: We made it so ChatGPT better",
+      "raw_content": "This week’s ChatGPT feature drop - Aug 21:\n\nAnother Friday, another roundup of what we shipped this week:\n\n1/ Recent photos: Long press on + menu to quickly attach recents on iOS - this is a fun, power user feature. just beautiful design! also a handy shortcut.\n\n2/ Time: We made it so ChatGPT better understands your current time. It was surprisingly bad at this before, for some interesting, complex reasons. Now it's better!\n\n3/ Long convo loading: Long conversations load and run faster on https://t.co/Hp1l59poJq. Less waiting = better.\n\n4/ 'No internet' errors: We show clearer updates in the UI when you’re waiting for an internet connection. It's so frustrating when ChatGPT times out. Now at least you'll know why, when it's the internet.\n\nthanks to the crew that keeps shipping every week and hope you all enjoy 🚀",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/OpenAI/status/2090943146683400555",
+      "stars": 884,
+      "score": 0.939,
+      "comments": 76,
+      "author": "Adam Fry",
+      "author_username": "OpenAI",
+      "retweets": 66,
+      "views": 99519,
+      "is_today": false
+    },
+    {
+      "id": "twitter_hardmaru_2090997513910460418",
+      "label": "“You want to know how I did it? This is how I did it, Anton: I never saved anything for the swim bac...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.7,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "hardmaru"
+      ],
+      "summary": "“You want to know how I did it? This is how I did it, Anton: I never saved anything for the swim back.”",
+      "raw_content": "“You want to know how I did it? This is how I did it, Anton: I never saved anything for the swim back.”",
+      "source_type": "twitter",
+      "date": "2026-08-22",
+      "url": "https://x.com/hardmaru/status/2090997513910460418",
+      "stars": 5,
+      "score": 0.7015,
+      "comments": 0,
+      "author": "hardmaru",
+      "author_username": "hardmaru",
+      "retweets": 0,
+      "views": 1491,
+      "is_today": true
+    },
+    {
+      "id": "twitter_hardmaru_2090977991098880289",
+      "label": "チームのLLM開発が本格化してきたので仲間を募集します！\n\n人数を必要以上に増やさず、一人ひとりが大きな役割を担うチームを作っています。高い基礎力と知的好奇心、そして違った強みを持つメンバーが集まって...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.75,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "hardmaru"
+      ],
+      "summary": "チームのLLM開発が本格化してきたので仲間を募集します！\n\n人数を必要以上に増やさず、一人ひとりが大きな役割を担うチームを作っています。高い基礎力と知的好奇心、そして違った強みを持つメンバーが集まって、全体の目的に向かって高い主体性を持って動いています。そんなチームの一員になれます。 僕自身もこのチームでメンバーと仕事することが何より楽しいです。\n\nLLM経験者はもちろん歓迎。未経験でも、しばらくLLMに人生をかけてみたいという気持ち、他分野での強みや実績、新しい領域を速く学べる基礎力がある人は是非と思ってます。",
+      "raw_content": "チームのLLM開発が本格化してきたので仲間を募集します！\n\n人数を必要以上に増やさず、一人ひとりが大きな役割を担うチームを作っています。高い基礎力と知的好奇心、そして違った強みを持つメンバーが集まって、全体の目的に向かって高い主体性を持って動いています。そんなチームの一員になれます。 僕自身もこのチームでメンバーと仕事することが何より楽しいです。\n\nLLM経験者はもちろん歓迎。未経験でも、しばらくLLMに人生をかけてみたいという気持ち、他分野での強みや実績、新しい領域を速く学べる基礎力がある人は是非と思ってます。",
+      "source_type": "twitter",
+      "date": "2026-08-22",
+      "url": "https://x.com/hardmaru/status/2090977991098880289",
+      "stars": 108,
+      "score": 0.74605,
+      "comments": 1,
+      "author": "Takuya Akiba",
+      "author_username": "hardmaru",
+      "retweets": 22,
+      "views": 17785,
+      "is_today": true
+    },
+    {
+      "id": "twitter_swyx_2091000431996473688",
+      "label": "🌍🔫👩‍🚀",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.7,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "swyx"
+      ],
+      "summary": "🌍🔫👩‍🚀",
+      "raw_content": "🌍🔫👩‍🚀",
+      "source_type": "twitter",
+      "date": "2026-08-22",
+      "url": "https://x.com/swyx/status/2091000431996473688",
+      "stars": 10,
+      "score": 0.7045,
+      "comments": 2,
+      "author": "swyx",
+      "author_username": "swyx",
+      "retweets": 1,
+      "views": 3159,
+      "is_today": true
+    },
+    {
+      "id": "twitter_swyx_2090948945753076141",
+      "label": "I think its easy to say \"Simulation is a new scaling law\" and treat it as marketing hyperbole, but m...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.62,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "swyx"
+      ],
+      "summary": "I think its easy to say \"Simulation is a new scaling law\" and treat it as marketing hyperbole, but midway along this interview you can hear me go from somewhat shitposting to very very serious. \n\nI am 2 years late to this but finally understand why @karpathy and @drfeifei backed @joon_s_pk @msbernst",
+      "raw_content": "I think its easy to say \"Simulation is a new scaling law\" and treat it as marketing hyperbole, but midway along this interview you can hear me go from somewhat shitposting to very very serious. \n\nI am 2 years late to this but finally understand why @karpathy and @drfeifei backed @joon_s_pk @msbernst @percyliang et al - Smallville at the time had zero commercial applications, but if you take RSI seriously, from models automating increasingly large parts of ML research and AI engineering, the last* barrier is simulating humans and human feedback, and Simile is obviously the team to do this and already finding PMF at Fortune 100s even at this early stage.\n\nI've never been so happy to be so wrong.\n\n*or second last ! :) more soon on the Science pod",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/swyx/status/2090948945753076141",
+      "stars": 60,
+      "score": 0.624,
+      "comments": 8,
+      "author": "swyx",
+      "author_username": "swyx",
+      "retweets": 4,
+      "views": 12431,
+      "is_today": false
+    },
+    {
+      "id": "twitter_bindureddy_2090949366165152213",
+      "label": "Ox-Alpha Underperforms And Is Worse Than Last Generation Models\n\nGiven all the hype we decided to ev...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.74,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "bindureddy"
+      ],
+      "summary": "Ox-Alpha Underperforms And Is Worse Than Last Generation Models\n\nGiven all the hype we decided to evaluate Ox-Alpha and it turned out to be quite bad\n\nIts scores alongside Kimi 2.6 which is 2 generations old\n\nHowever, it's pure marketing genius. Everyone is talking about it https://t.co/H5ywNqR947",
+      "raw_content": "Ox-Alpha Underperforms And Is Worse Than Last Generation Models\n\nGiven all the hype we decided to evaluate Ox-Alpha and it turned out to be quite bad\n\nIts scores alongside Kimi 2.6 which is 2 generations old\n\nHowever, it's pure marketing genius. Everyone is talking about it https://t.co/H5ywNqR947",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/bindureddy/status/2090949366165152213",
+      "stars": 322,
+      "score": 0.7398,
+      "comments": 72,
+      "author": "Bindu Reddy",
+      "author_username": "bindureddy",
+      "retweets": 18,
+      "views": 43591,
+      "is_today": false
+    },
+    {
+      "id": "twitter_JohnNosta_2090936788751921467",
+      "label": "Less than $5 a meal, the cost of the porcelain dish isn’t included, ok CNN? https://t.co/2YRitaLV8F",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "JohnNosta"
+      ],
+      "summary": "Less than $5 a meal, the cost of the porcelain dish isn’t included, ok CNN? https://t.co/2YRitaLV8F",
+      "raw_content": "Less than $5 a meal, the cost of the porcelain dish isn’t included, ok CNN? https://t.co/2YRitaLV8F",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/JohnNosta/status/2090936788751921467",
+      "stars": 4032,
+      "score": 1.0,
+      "comments": 163,
+      "author": "Chef Andrew Gruel",
+      "author_username": "JohnNosta",
+      "retweets": 487,
+      "views": 79507,
+      "is_today": false
+    },
+    {
+      "id": "twitter_JohnNosta_2090867030522048751",
+      "label": "TODAY @ 11 AM PT, @DisrupTVShow interviews @briansolis, Head of Global Innovation, @ServiceNow &amp;...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.6,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "JohnNosta"
+      ],
+      "summary": "TODAY @ 11 AM PT, @DisrupTVShow interviews @briansolis, Head of Global Innovation, @ServiceNow &amp; Co-author of Infinite, Dave Wright, Chief Innovation Officer @ServiceNow and @JohnNosta, author of The Borrowed Mind. Watch here: https://t.co/9OV3NzVqKo @ValaAfshar @rwang0 #DisrupTV",
+      "raw_content": "TODAY @ 11 AM PT, @DisrupTVShow interviews @briansolis, Head of Global Innovation, @ServiceNow &amp; Co-author of Infinite, Dave Wright, Chief Innovation Officer @ServiceNow and @JohnNosta, author of The Borrowed Mind. Watch here: https://t.co/9OV3NzVqKo @ValaAfshar @rwang0 #DisrupTV",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/JohnNosta/status/2090867030522048751",
+      "stars": 0,
+      "score": 0.6,
+      "comments": 0,
+      "author": "Holger Müller #EnterpriseAcceleration",
+      "author_username": "JohnNosta",
+      "retweets": 0,
+      "views": 653,
+      "is_today": false
+    },
+    {
+      "id": "twitter_JohnNosta_1498430741662912528",
+      "label": "What time is it?  #Bitcoin #cryptocurrencies ⁦@bitcoinarchive⁩ ⁦@BitcoinMagazine⁩ ⁦@saylor⁩ https://...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.95,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "JohnNosta"
+      ],
+      "summary": "What time is it?  #Bitcoin #cryptocurrencies ⁦@bitcoinarchive⁩ ⁦@BitcoinMagazine⁩ ⁦@saylor⁩ https://t.co/hffaMfV1ch",
+      "raw_content": "What time is it?  #Bitcoin #cryptocurrencies ⁦@bitcoinarchive⁩ ⁦@BitcoinMagazine⁩ ⁦@saylor⁩ https://t.co/hffaMfV1ch",
+      "source_type": "twitter",
+      "date": "2022-02-28",
+      "url": "https://x.com/JohnNosta/status/1498430741662912528",
+      "stars": 919,
+      "score": 0.94845,
+      "comments": 71,
+      "author": "John Nosta",
+      "author_username": "JohnNosta",
+      "retweets": 68,
+      "views": 0,
+      "is_today": false
+    },
+    {
+      "id": "twitter_JohnNosta_2090601429131989070",
+      "label": "Trump Derangement Syndrome has so debilitated @ErinBurnett that she has abandoned both common sense ...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "JohnNosta"
+      ],
+      "summary": "Trump Derangement Syndrome has so debilitated @ErinBurnett that she has abandoned both common sense and basic arithmetic.\n\nCNN wants us to incorporate the full package price of every ingredient, regardless of what is used in the recipe.\n\nIf you put a squirt of ketchup on your burger, would you be su",
+      "raw_content": "Trump Derangement Syndrome has so debilitated @ErinBurnett that she has abandoned both common sense and basic arithmetic.\n\nCNN wants us to incorporate the full package price of every ingredient, regardless of what is used in the recipe.\n\nIf you put a squirt of ketchup on your burger, would you be surprised if the restaurant charged you for the whole bottle?\n\nThe Real Food Show uses standard recipe costing: we count what the recipe actually uses. The rest stays in your kitchen for the next meal—and the meals after that.\n\nOur goal is simple: help Americans reclaim their kitchens, cook healthy food without breaking the bank, and stock their pantries with high-quality ingredients they can use again and again.\n\nThat’s how we Make America Healthy Again. 🇺🇸",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/JohnNosta/status/2090601429131989070",
+      "stars": 30591,
+      "score": 1.0,
+      "comments": 2299,
+      "author": "Secretary Kennedy",
+      "author_username": "JohnNosta",
+      "retweets": 4433,
+      "views": 1249114,
+      "is_today": false
+    },
+    {
+      "id": "twitter_TheAIGRID_2090823414554693731",
+      "label": "new term: “prompt surveillance”\n\ndon’t say you weren’t warned.",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.67,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "TheAIGRID"
+      ],
+      "summary": "new term: “prompt surveillance”\n\ndon’t say you weren’t warned.",
+      "raw_content": "new term: “prompt surveillance”\n\ndon’t say you weren’t warned.",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/TheAIGRID/status/2090823414554693731",
+      "stars": 130,
+      "score": 0.6696,
+      "comments": 12,
+      "author": "Gary Marcus",
+      "author_username": "TheAIGRID",
+      "retweets": 42,
+      "views": 7330,
+      "is_today": false
+    },
+    {
+      "id": "twitter_TheAIGRID_2089712492263997719",
+      "label": "NVIDIA ESTÁ PONIENDO $250.000 DE GPUs EN CASAS NORMALES\n\nY el dueño no paga ni un centavo por el har...",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 1.0,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "TheAIGRID"
+      ],
+      "summary": "NVIDIA ESTÁ PONIENDO $250.000 DE GPUs EN CASAS NORMALES\n\nY el dueño no paga ni un centavo por el hardware.\n\nEs una caja del tamaño de un aire acondicionado, refrigerada por líquido, sin ventiladores, montada en la pared exterior.\n\nDentro: 16 GPUs Nvidia Blackwell + 4 CPUs de servidor + 3TB de RAM.\n\n",
+      "raw_content": "NVIDIA ESTÁ PONIENDO $250.000 DE GPUs EN CASAS NORMALES\n\nY el dueño no paga ni un centavo por el hardware.\n\nEs una caja del tamaño de un aire acondicionado, refrigerada por líquido, sin ventiladores, montada en la pared exterior.\n\nDentro: 16 GPUs Nvidia Blackwell + 4 CPUs de servidor + 3TB de RAM.\n\nSpan + Nvidia + PulteGroup lo instalan gratis.\nA cambio:\n→ Te pagan la luz y el internet (o te cobran una tarifa plana baja)\n→ Usan la capacidad eléctrica que tu casa no está aprovechando (~60%)\n\nAhora mismo solo 100 casas nuevas.\nEl plan: 80.000 nodos y 1 gigavatio de compute para 2027.\n\nNo te pagan.\nTe borran la factura.\nY tu casa se convierte en un nodo de la infraestructura de IA.\n\nEsto ya no es ciencia ficción.",
+      "source_type": "twitter",
+      "date": "2026-08-18",
+      "url": "https://x.com/TheAIGRID/status/2089712492263997719",
+      "stars": 4612,
+      "score": 1.0,
+      "comments": 294,
+      "author": "Nix0n",
+      "author_username": "TheAIGRID",
+      "retweets": 797,
+      "views": 3697839,
+      "is_today": false
+    },
+    {
+      "id": "twitter_TheAIGRID_2090940722136469994",
+      "label": "3 million views and no credit on my video lol",
+      "type": "tweet",
+      "pillar": "capabilities",
+      "pm_score": 0.6,
+      "tags": [
+        "twitter",
+        "ai_kol",
+        "TheAIGRID"
+      ],
+      "summary": "3 million views and no credit on my video lol",
+      "raw_content": "3 million views and no credit on my video lol",
+      "source_type": "twitter",
+      "date": "2026-08-21",
+      "url": "https://x.com/TheAIGRID/status/2090940722136469994",
+      "stars": 1,
+      "score": 0.60075,
+      "comments": 1,
+      "author": "TheAIGRID",
+      "author_username": "TheAIGRID",
+      "retweets": 0,
+      "views": 298,
+      "is_today": false
     }
   ],
   "edges": [
@@ -212520,16 +213070,148 @@
       "source": "twitter_ThePracticalDev_2090869293097394375",
       "target": "privacy-preserving-ai",
       "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_ylecun_2090866739240173613_提示工程",
+      "source": "twitter_ylecun_2090866739240173613",
+      "target": "提示工程",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_elonmusk_2090809510864498823_提示工程",
+      "source": "twitter_elonmusk_2090809510864498823",
+      "target": "提示工程",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_elonmusk_2090689729461411951_privacy-preserving-ai",
+      "source": "twitter_elonmusk_2090689729461411951",
+      "target": "privacy-preserving-ai",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_elonmusk_2090924405195211147_capabilities",
+      "source": "twitter_elonmusk_2090924405195211147",
+      "target": "capabilities",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_elonmusk_2091006071884451959_patterns",
+      "source": "twitter_elonmusk_2091006071884451959",
+      "target": "patterns",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_elonmusk_2090313146183688433_privacy-preserving-ai",
+      "source": "twitter_elonmusk_2090313146183688433",
+      "target": "privacy-preserving-ai",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_satyanadella_2090929770779521310_capabilities",
+      "source": "twitter_satyanadella_2090929770779521310",
+      "target": "capabilities",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_sundarpichai_2090853908138676507_ai-ethics",
+      "source": "twitter_sundarpichai_2090853908138676507",
+      "target": "ai-ethics",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_sundarpichai_2091006815295373717_ai-ethics",
+      "source": "twitter_sundarpichai_2091006815295373717",
+      "target": "ai-ethics",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_OpenAI_2090943146683400555_patterns",
+      "source": "twitter_OpenAI_2090943146683400555",
+      "target": "patterns",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_hardmaru_2090997513910460418_ai-ethics",
+      "source": "twitter_hardmaru_2090997513910460418",
+      "target": "ai-ethics",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_hardmaru_2090977991098880289_open-weight-models",
+      "source": "twitter_hardmaru_2090977991098880289",
+      "target": "open-weight-models",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_swyx_2091000431996473688_提示工程",
+      "source": "twitter_swyx_2091000431996473688",
+      "target": "提示工程",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_swyx_2090948945753076141_patterns",
+      "source": "twitter_swyx_2090948945753076141",
+      "target": "patterns",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_bindureddy_2090949366165152213_ai治理",
+      "source": "twitter_bindureddy_2090949366165152213",
+      "target": "ai治理",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_JohnNosta_2090936788751921467_patterns",
+      "source": "twitter_JohnNosta_2090936788751921467",
+      "target": "patterns",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_JohnNosta_2090867030522048751_open-weight-models",
+      "source": "twitter_JohnNosta_2090867030522048751",
+      "target": "open-weight-models",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_JohnNosta_1498430741662912528_nlp",
+      "source": "twitter_JohnNosta_1498430741662912528",
+      "target": "nlp",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_JohnNosta_2090601429131989070_ai-ethics",
+      "source": "twitter_JohnNosta_2090601429131989070",
+      "target": "ai-ethics",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_TheAIGRID_2090823414554693731_patterns",
+      "source": "twitter_TheAIGRID_2090823414554693731",
+      "target": "patterns",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_TheAIGRID_2089712492263997719_ai-ethics",
+      "source": "twitter_TheAIGRID_2089712492263997719",
+      "target": "ai-ethics",
+      "type": "RELATED_TO"
+    },
+    {
+      "id": "edge_twitter_twitter_TheAIGRID_2090940722136469994_ai治理",
+      "source": "twitter_TheAIGRID_2090940722136469994",
+      "target": "ai治理",
+      "type": "RELATED_TO"
     }
   ],
   "generated_at": "2026-08-04T18:01:49.868753",
   "generator": "ai-radar-explorer-v3",
   "schema_version": "4-pillar-pm-focused",
   "metadata": {
-    "last_updated": "2026-08-22T06:02:24.258895",
+    "last_updated": "2026-08-22T12:05:50.557407",
     "pipeline_version": "v3.16",
-    "total_nodes": 7742,
-    "total_edges": 8053,
+    "total_nodes": 7764,
+    "total_edges": 8075,
     "today_nodes": 50,
     "sources": [
       "concept",
