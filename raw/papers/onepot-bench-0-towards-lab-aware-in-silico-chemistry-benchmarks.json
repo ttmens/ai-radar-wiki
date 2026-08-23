@@ -1,0 +1,32 @@
+{
+  "title": "onepot-Bench 0: towards lab-aware in silico chemistry benchmarks",
+  "summary": "Language models are playing an increasingly important role in laboratory science, performing tasks such as experiment planning, execution, and post-hoc analysis. However, precisely measuring their abilities is difficult, as scientific capabilities require a mixture of both problem-solving skills and domain-specific intuition. Existing evaluations rarely measure the capabilities required to make reliable decisions in a physical laboratory and often rely on public data that may have appeared in model training corpora.\n  We introduce onepot-Bench 0, a proprietary benchmark suite for evaluating language models on synthetic chemistry capabilities relevant to wet-lab execution. onepot-Bench 0 comprises three complementary evaluations: ChemAbacus measures tool-free cheminformatics literacy and numerical reasoning; SynthRefusal characterizes safety and refusal behavior across a variety of benign, controlled, and designer-drug targets; and SynthBench evaluates reaction-outcome prediction and catalyst selection using private experimental data generated in our laboratory. Together, these evaluations probe basic competency, reliability, and deeper knowledge, all skills which are required for reliable performance in the lab.",
+  "url": "http://arxiv.org/abs/2608.02595v1",
+  "authors": [
+    "Brandon Wang",
+    "Andrei S. Tyrin",
+    "Daniil A. Boiko"
+  ],
+  "published": "2026-08-03T17:58:27Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "reasoning",
+    "training",
+    "model training"
+  ],
+  "summary_cn": "该论文提出 onepot-Bench 0，旨在构建实验室感知（lab-aware）的计算机模拟化学基准，用于评估语言模型在实验规划、执行和后验分析中的能力。当前科学能力的测量难点在于问题求解与实际实验操作的混合需求，传统基准缺乏对实验室环境的细粒度感知。该框架可能推动 AI 在药物研发、材料合成等场景的自动化落地，为产品化提供可量化的评测标准，降低实验试错成本。",
+  "pm_relevance": 7,
+  "concepts": [
+    "实验室感知基准",
+    "AI化学推理",
+    "科学能力评测"
+  ],
+  "entities": [
+    "onepot-Bench"
+  ],
+  "patterns": [
+    "Agentic Benchmark Pattern"
+  ]
+}

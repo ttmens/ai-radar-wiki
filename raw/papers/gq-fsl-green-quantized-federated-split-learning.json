@@ -1,0 +1,33 @@
+{
+  "title": "GQ-FSL: Green Quantized Federated Split Learning",
+  "summary": "Deploying state-of-the-art deep neural networks (DNNs) at the wireless edge is severely bottlenecked by the strict energy and resource constraints of mobile devices. While federated split learning (FSL) mitigates on-device computation by offloading workloads to an edge server, this may introduce systemic overheads, while the continuous exchange of cut-layer data, and submodels still incurs significant energy consumption (EC). To address this, we propose a green quantized FSL (GQ-FSL) framework that incorporates stochastic quantization for both local collaborative training and wireless transmissions. Notably, GQ-FSL supports asymmetric precision levels for the client- and server-side submodels, effectively decoupling device energy constraints from global convergence degradation. To quantify these tradeoffs, we develop parameterized energy models for the split architecture and derive a theoretical convergence bound under statistically heterogeneous data. Building on that, we formulate a joint optimization problem to configure the DNN split point and precision levels, minimizing the total system EC while satisfying a strict target accuracy constraint. Ultimately, we demonstrate that GQ-FSL enables large-scale DNN deployment on resource-constrained devices, achieving superior energy efficiency compared to quantized federated learning and full-precision FSL.",
+  "url": "http://arxiv.org/abs/2607.29659v1",
+  "authors": [
+    "Idan Roth",
+    "Lutz Lampe"
+  ],
+  "published": "2026-07-31T17:40:27Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "quantization",
+    "training",
+    "neural network",
+    "parameter",
+    "accuracy",
+    "precision",
+    "optimization"
+  ],
+  "summary_cn": "该论文提出 GQ-FSL（绿色量化联邦分裂学习）框架，针对无线边缘设备部署深度神经网络时面临的严格能耗与资源瓶颈问题。通过将部分计算任务卸载至边缘服务器，结合模型量化和联邦学习机制，在降低设备端计算负担的同时提升通信效率与能效。核心创新在于融合分裂学习和联邦范式，实现协同训练与隐私保护，适合资源受限的移动端AI应用场景，具备显著的商业落地潜力和绿色AI价值。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Federated Split Learning",
+    "Model Quantization",
+    "Energy-efficient AI"
+  ],
+  "entities": [],
+  "patterns": [
+    "Split Learning",
+    "Federated Learning"
+  ]
+}

@@ -1,6 +1,7 @@
 ---
 title: Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance
 created: 2026-05-10
+deprecated: true
 updated: 2026-05-10
 type: entity
 pillar: ecosystem

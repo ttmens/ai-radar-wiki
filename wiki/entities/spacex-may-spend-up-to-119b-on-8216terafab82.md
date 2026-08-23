@@ -1,6 +1,7 @@
 ---
 title: SpaceX may spend up to $119B on &#8216;Terafab&#8217; chip factory in Texas
 created: 2026-05-07
+deprecated: true
 updated: 2026-05-07
 type: entity
 pillar: business

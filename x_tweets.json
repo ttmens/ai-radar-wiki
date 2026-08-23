@@ -1,11 +1,116 @@
 {
-  "fetched_at": "2026-07-30T21:01:18.991011",
+  "fetched_at": "2026-08-22T21:01:59.625995",
   "source": "twitter-cli",
   "data": {
     "sama": [
       {
-        "id": "2082628413769003269",
-        "text": "so excited for this.\n\nvery close to models that will significantly accelerate scientific discovery; the best way to do this is for us to empower scientists, not to try to figure out everything ourselves.\n\nwe all deserve the benefits.",
+        "id": "2090885187634905500",
+        "text": "As we continue to push the frontier of capabilities while improving efficiency, we're dropping API and credit pricing of GPT-5.6 Sol by over 20% for the next 3 months. https://t.co/UoTb3hcB2t",
+        "author": {
+          "id": "4398626122",
+          "name": "OpenAI",
+          "screenName": "OpenAI",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 11692,
+          "retweets": 692,
+          "replies": 520,
+          "quotes": 495,
+          "views": 2375233,
+          "bookmarks": 841
+        },
+        "createdAt": "Fri Aug 21 19:34:10 +0000 2026",
+        "createdAtLocal": "2026-08-22 03:34",
+        "createdAtISO": "2026-08-21T19:34:10+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2090884941819285504/vid/avc1/1536x864/9_LuUV_1fc2wFv6Y.mp4?tag=29",
+            "width": 1536,
+            "height": 864
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "sama",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2090343188393246973",
+        "text": "A milestone for our infrastructure: our first NVIDIA Vera Rubin racks are here and now running our training stack. This is an important step as we expand compute that powers OpenAI's next generation of frontier AI pre-training. https://t.co/HXk6DrfLav",
+        "author": {
+          "id": "2829177691",
+          "name": "Uday Ruddarraju",
+          "screenName": "udayruddarraju",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2078354245297061888/sVm7cdzn_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 1585,
+          "retweets": 104,
+          "replies": 70,
+          "quotes": 45,
+          "views": 445888,
+          "bookmarks": 150
+        },
+        "createdAt": "Thu Aug 20 07:40:27 +0000 2026",
+        "createdAtLocal": "2026-08-20 15:40",
+        "createdAtISO": "2026-08-20T07:40:27+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQJi1GIXMAAlSgf.jpg",
+            "width": 1342,
+            "height": 1792
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "sama",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2090076648276185555",
+        "text": "Replit Free Mode, powered by @OpenAI GPT-5.6 Luna. \n\nLet’s make intelligence accessible to everyone. https://t.co/UDcrYl5HZL",
+        "author": {
+          "id": "366289783",
+          "name": "Replit ⠕",
+          "screenName": "Replit",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2031733558952464384/ERrHv3jK_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 4397,
+          "retweets": 436,
+          "replies": 312,
+          "quotes": 319,
+          "views": 2067704,
+          "bookmarks": 1469
+        },
+        "createdAt": "Wed Aug 19 14:01:19 +0000 2026",
+        "createdAtLocal": "2026-08-19 22:01",
+        "createdAtISO": "2026-08-19T14:01:19+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/ext_tw_video/2090076604521209856/pu/vid/avc1/1280x720/JskGNATdFGVE0o-h.mp4?tag=12",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "sama",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2090163991234453611",
+        "text": "we support business privacy!\n\nhttps://t.co/SJ6w5DeYTY",
         "author": {
           "id": "1605",
           "name": "Sam Altman",
@@ -14,34 +119,28 @@
           "verified": true
         },
         "metrics": {
-          "likes": 4537,
-          "retweets": 286,
-          "replies": 575,
-          "quotes": 46,
-          "views": 551498,
-          "bookmarks": 435
+          "likes": 4395,
+          "retweets": 217,
+          "replies": 529,
+          "quotes": 113,
+          "views": 477467,
+          "bookmarks": 708
         },
-        "createdAt": "Thu Jul 30 00:44:41 +0000 2026",
-        "createdAtLocal": "2026-07-30 08:44",
-        "createdAtISO": "2026-07-30T00:44:41+00:00",
+        "createdAt": "Wed Aug 19 19:48:23 +0000 2026",
+        "createdAtLocal": "2026-08-20 03:48",
+        "createdAtISO": "2026-08-19T19:48:23+00:00",
         "media": [],
-        "urls": [],
+        "urls": [
+          "https://openai.com/index/offering-zero-data-retention-for-frontier-models/"
+        ],
         "isRetweet": false,
         "retweetedBy": null,
         "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2082516370949062989",
-          "text": "We’re giving scientists, mathematicians, and engineers free access to our frontier models—starting with 10,000 researchers and expanding to 100,000 through 2027.\n\nChatGPT for Academic Researchers is built to accelerate discovery across disciplines. https://t.co/nrHn1no0wQ",
-          "author": {
-            "screenName": "OpenAI",
-            "name": "OpenAI"
-          }
-        }
+        "score": null
       },
       {
-        "id": "2082627724040884667",
-        "text": "goblin-level blog post",
+        "id": "2089787807611195475",
+        "text": "We have paused some frontier RL training to ensure that we can meet the appropriate alignment, security and monitoring standards for the new level of capabilities in front of us. Model progress is now extremely rapid, and we always said we would take action if we felt that model capabilities were outstripping the pace of safety and alignment.\n\nWe care very deeply about AI safety. We believe the entire field will have to coordinate on shared safety standards, but will act unilaterally in the meantime.\n\nWe expect confidence in safety to increasingly set the pace of AI progress. We are optimistic about the alignment work we are doing, and we remain committed to making frontier capabilities widely available.\n\nhttps://t.co/51kvKfbfrO",
         "author": {
           "id": "1605",
           "name": "Sam Altman",
@@ -50,124 +149,16 @@
           "verified": true
         },
         "metrics": {
-          "likes": 3748,
-          "retweets": 108,
-          "replies": 208,
-          "quotes": 21,
-          "views": 476582,
-          "bookmarks": 434
+          "likes": 10063,
+          "retweets": 803,
+          "replies": 1652,
+          "quotes": 983,
+          "views": 3797143,
+          "bookmarks": 2070
         },
-        "createdAt": "Thu Jul 30 00:41:57 +0000 2026",
-        "createdAtLocal": "2026-07-30 08:41",
-        "createdAtISO": "2026-07-30T00:41:57+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "nl",
-        "score": null,
-        "quotedTweet": {
-          "id": "2082609662231502932",
-          "text": "Turns out GPT-5.6 Sol is actually SoTA on ARC-AGI-3. \n\nJust took two setting changes. You just have to allow it to reason and work over multiple context windows with the help of our canonical compaction implementation.\n\nhttps://t.co/wHjaNsvIv8",
-          "author": {
-            "screenName": "thsottiaux",
-            "name": "Tibo"
-          }
-        }
-      },
-      {
-        "id": "2081832600591892712",
-        "text": "wrong",
-        "author": {
-          "id": "1605",
-          "name": "Sam Altman",
-          "screenName": "sama",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 11581,
-          "retweets": 288,
-          "replies": 1072,
-          "quotes": 109,
-          "views": 2353574,
-          "bookmarks": 525
-        },
-        "createdAt": "Mon Jul 27 20:02:25 +0000 2026",
-        "createdAtLocal": "2026-07-28 04:02",
-        "createdAtISO": "2026-07-27T20:02:25+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2081707498919112925",
-          "text": "i just realized gpt-5.6 sol is literally all i need. openai could stop shipping new models tomorrow and i'd be completely fine",
-          "author": {
-            "screenName": "icanvardar",
-            "name": "Can Vardar"
-          }
-        }
-      },
-      {
-        "id": "2081513071135346814",
-        "text": "agreed feels big, i want a new kind of computer",
-        "author": {
-          "id": "1605",
-          "name": "Sam Altman",
-          "screenName": "sama",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 8180,
-          "retweets": 285,
-          "replies": 754,
-          "quotes": 129,
-          "views": 2429882,
-          "bookmarks": 2289
-        },
-        "createdAt": "Sun Jul 26 22:52:43 +0000 2026",
-        "createdAtLocal": "2026-07-27 06:52",
-        "createdAtISO": "2026-07-26T22:52:43+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2081408374315602338",
-          "text": "I don’t think you understand what ChatGPT Voice unlocks\n\nI went on a 4 hour hike yesterday. Through the northern California redwoods.\n\nGot more work done in those 4 hours talking to Voice through my AirPods then I do in 8 hours at my desk\n\nWork can be done ANYWHERE now\n\n45 minute drive back using self driving? Now 45 minutes I can talk to Voice and work on side projects\n\n20 minutes in the cafe? I can sit and talk to Voice and when I get home I have drafts on my computer for my newsletter for the next month\n\nBeing able to just use your voice to talk to a super intelligence that controls your computer is unlike anything we’ve ever experienced before\n\nI don’t even care that the voice sounds human like, or you can interrupt it, or any of the wild advancements they made to the tech\n\nIt’s the fact that it can control my computer, meaning all I need to get incredible work done is talk through my AirPods anywhere in the world that is the major game changer for me\n\nI don’t think people truly understand the implications of this yet\n\nWhy even have a desk or monitor anymore. Work can be done ANYWHERE now\n\nThe key is your set up:\n\n1. Choose one device (preferably an always on desktop) as your main “headquarters” device all your work gets done on\n\n2. Get the ChatGPT app on all your other devices (iPhone, iPad, laptops, Mac Minis)\n\n3. Set up ‘connections’ in your settings so that all your ‘node’ devices can control your ‘headquarters’ device\n\n4. Go legit anywhere in the world. Turn on Voice. Ask it to brief you on your projects, give you a recommended next step, then spin up new threads to do work\n\nI really don’t think work looks the same moving forward.",
-          "author": {
-            "screenName": "AlexFinn",
-            "name": "Alex Finn"
-          }
-        }
-      },
-      {
-        "id": "2081396796174282900",
-        "text": "chatgpt work is remarkable, and \"work\" undersells it.\n\nfrom my phone i sent:\n\n\"use all my chat history to figure out ideas for a long weekend trip with 8 friends, plan the best three options, make a full-stack site where the 9 of us can coordinate on what we would want to do in each place and decide where to go, and then after we get to group agreement make reservations. draft an email in my gmail i can send out to my friends when the site is ready.\"\n\nit...just worked.",
-        "author": {
-          "id": "1605",
-          "name": "Sam Altman",
-          "screenName": "sama",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 17460,
-          "retweets": 575,
-          "replies": 1714,
-          "quotes": 401,
-          "views": 3635830,
-          "bookmarks": 6214
-        },
-        "createdAt": "Sun Jul 26 15:10:41 +0000 2026",
-        "createdAtLocal": "2026-07-26 23:10",
-        "createdAtISO": "2026-07-26T15:10:41+00:00",
+        "createdAt": "Tue Aug 18 18:53:34 +0000 2026",
+        "createdAtLocal": "2026-08-19 02:53",
+        "createdAtISO": "2026-08-18T18:53:34+00:00",
         "media": [],
         "urls": [],
         "isRetweet": false,
@@ -177,6 +168,72 @@
       }
     ],
     "karpathy": [
+      {
+        "id": "2083749667410727319",
+        "text": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's kind of janky but fun. But it's a bit mindboggling that the LLM has to place and orchestrate various polygon assets in (x,y,z) coordinates and write code that animates it all, and that it even does anything at all.\n\nI also like this kind of examples because no one in their right mind would ever spend the time to write something this custom but LLMs have all the stamina and patience in the world, so it's an example where we go from \"no one would ever do this\" to \"sure, why not, it's ~free\". There might be a lot more. But I'm excited about creating hyper custom worlds that you can imagine dropping players into, e.g. here to participate in the LoTR story as a spectator NPC, or one of the characters, or etc. Something like an ephemeral GTA of X on demand.\n\nLast thought is that the domain of worlds/games exposes a weakness in LLMs: they can't easily audit their work because they aren't able to efficiently and natively perceive videos or play games within them. Here, Opus 5 had to very slowly and painstakingly take screenshots at different points, and it messed up a few times and created a bunch of jank. An example of raw capability (multimodal, gameplay) that I think is still quite lacking.",
+        "author": {
+          "id": "33836629",
+          "name": "Andrej Karpathy",
+          "screenName": "karpathy",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 28141,
+          "retweets": 2187,
+          "replies": 1532,
+          "quotes": 702,
+          "views": 4904300,
+          "bookmarks": 11588
+        },
+        "createdAt": "Sun Aug 02 03:00:09 +0000 2026",
+        "createdAtLocal": "2026-08-02 11:00",
+        "createdAtISO": "2026-08-02T03:00:09+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2083744791876292608/vid/avc1/1920x1080/9NW2QWX_Ejzzlpj5.mp4?tag=29",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2083948654377996480",
+        "text": "More on the pelican on the bicycle test from @simonw:\nhttps://t.co/OXmtODyTKj\n\nI uploaded the source here so it's playable in the browser, forkable etc.\nhttps://t.co/w3Nctc888d\n\nLook out for GTA Hobbiton dropping before GTA VI :)",
+        "author": {
+          "id": "33836629",
+          "name": "Andrej Karpathy",
+          "screenName": "karpathy",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 594,
+          "retweets": 35,
+          "replies": 69,
+          "quotes": 10,
+          "views": 189485,
+          "bookmarks": 160
+        },
+        "createdAt": "Sun Aug 02 16:10:51 +0000 2026",
+        "createdAtLocal": "2026-08-03 00:10",
+        "createdAtISO": "2026-08-02T16:10:51+00:00",
+        "media": [],
+        "urls": [
+          "https://simonwillison.net/2025/Jun/6/six-months-in-llms/",
+          "https://karpathy.ai/lotr-movie/"
+        ],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
       {
         "id": "2079610838143623371",
         "text": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10 minutes, total mess, anything goes, full stream of consciousness. Sometimes I declare it up top, something like \"switching to speech recognition sorry for any typos...\". Sometimes I turn it into a small interview of a few turns. But I find that the LLMs are somehow very good at reconstructing long incoherent rambles and often their echo of your own tangle of thoughts comes out quite a bit cleaner than what you started with. The result is that you improve the mind meld and have to correct things less from that point on.",
@@ -188,12 +245,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 48735,
-          "retweets": 4077,
-          "replies": 2361,
-          "quotes": 1421,
-          "views": 3919778,
-          "bookmarks": 14819
+          "likes": 49497,
+          "retweets": 4099,
+          "replies": 2427,
+          "quotes": 1468,
+          "views": 4120119,
+          "bookmarks": 15016
         },
         "createdAt": "Tue Jul 21 16:53:55 +0000 2026",
         "createdAtLocal": "2026-07-22 00:53",
@@ -216,12 +273,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 8901,
-          "retweets": 1095,
-          "replies": 456,
-          "quotes": 579,
-          "views": 3743202,
-          "bookmarks": 5108
+          "likes": 8950,
+          "retweets": 1104,
+          "replies": 454,
+          "quotes": 581,
+          "views": 3814438,
+          "bookmarks": 5085
         },
         "createdAt": "Wed Jul 08 21:47:29 +0000 2026",
         "createdAtLocal": "2026-07-09 05:47",
@@ -240,17 +297,17 @@
         "text": "I spent a LOT of time through the hardest 3D prompts at Fable, it is a 45 min video, but I have 60+ very cool demos for you. Also prompts in the next post.\n\n https://t.co/QPS5ccWZox",
         "author": {
           "id": "1934694242414215168",
-          "name": "Peter Gostev",
+          "name": "Peter Gostev (SF 24-28 August)",
           "screenName": "petergostev",
           "profileImageUrl": "https://pbs.twimg.com/profile_images/1934694573797670912/1gnGJwlr_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 1676,
-          "retweets": 168,
+          "likes": 1699,
+          "retweets": 171,
           "replies": 87,
-          "quotes": 23,
-          "views": 532997,
+          "quotes": 22,
+          "views": 559817,
           "bookmarks": 2526
         },
         "createdAt": "Fri Jul 03 14:12:03 +0000 2026",
@@ -264,75 +321,112 @@
         "retweetedBy": "karpathy",
         "lang": "en",
         "score": null
-      },
-      {
-        "id": "2071972062202343590",
-        "text": "We're coming out of stealth.\n\nWe've built our first racks after a successful A0 tapeout, $1B+ in customer contracts, and $800m raised.\n\nEarly customer tests show us achieving SOTA throughput, latency, and power efficiency on inference workloads.\n\nOur first racks ship this summer. https://t.co/FLccrkLTza",
-        "author": {
-          "id": "1781914021760991232",
-          "name": "Etched",
-          "screenName": "Etched",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1781917146752413696/KXVls07D_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 9799,
-          "retweets": 942,
-          "replies": 653,
-          "quotes": 605,
-          "views": 6508843,
-          "bookmarks": 3773
-        },
-        "createdAt": "Tue Jun 30 15:00:09 +0000 2026",
-        "createdAtLocal": "2026-06-30 23:00",
-        "createdAtISO": "2026-06-30T15:00:09+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HMEfnAMbAAAlKme.jpg",
-            "width": 1920,
-            "height": 1080
-          }
-        ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "karpathy",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2069465879696576844",
-        "text": "https://t.co/CGIef5lIBI",
-        "author": {
-          "id": "2048097880880349184",
-          "name": "Engram",
-          "screenName": "EngramLab",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2062224875016822784/33VKsaYZ_normal.jpg",
-          "verified": false
-        },
-        "metrics": {
-          "likes": 1954,
-          "retweets": 248,
-          "replies": 183,
-          "quotes": 160,
-          "views": 1907415,
-          "bookmarks": 1278
-        },
-        "createdAt": "Tue Jun 23 17:01:29 +0000 2026",
-        "createdAtLocal": "2026-06-24 01:01",
-        "createdAtISO": "2026-06-23T17:01:29+00:00",
-        "media": [],
-        "urls": [
-          "http://x.com/i/article/2069463677733142528"
-        ],
-        "isRetweet": true,
-        "retweetedBy": "karpathy",
-        "lang": "zxx",
-        "score": null,
-        "articleTitle": "Introducing Engram: Scaling compute on your context"
       }
     ],
     "AndrewYNg": [
+      {
+        "id": "2090840747738374568",
+        "text": "The most important skills in Building and Deploying AI Applications. https://t.co/IyWIKLIzeM",
+        "author": {
+          "id": "216939636",
+          "name": "Andrew Ng",
+          "screenName": "AndrewYNg",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 6237,
+          "retweets": 997,
+          "replies": 120,
+          "quotes": 71,
+          "views": 402589,
+          "bookmarks": 10404
+        },
+        "createdAt": "Fri Aug 21 16:37:34 +0000 2026",
+        "createdAtLocal": "2026-08-22 00:37",
+        "createdAtISO": "2026-08-21T16:37:34+00:00",
+        "media": [],
+        "urls": [
+          "http://x.com/i/article/2090836273036763142"
+        ],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "articleTitle": "AI Engineering Skills Map: Building and Deploying AI Applications"
+      },
+      {
+        "id": "2086845515665166398",
+        "text": "Thank you Mark, Alex and the whole Meta team for your contributions to open weight AI.",
+        "author": {
+          "id": "216939636",
+          "name": "Andrew Ng",
+          "screenName": "AndrewYNg",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 3871,
+          "retweets": 161,
+          "replies": 74,
+          "quotes": 6,
+          "views": 323658,
+          "bookmarks": 230
+        },
+        "createdAt": "Mon Aug 10 16:01:57 +0000 2026",
+        "createdAtLocal": "2026-08-11 00:01",
+        "createdAtISO": "2026-08-10T16:01:57+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2086755195535413696",
+          "text": "Today we're also opening the weights for Muse Glimmer, a great 30B parameter dense model that can run locally. Soon we'll also release the weights for Muse Spark 1.2, our latest foundation model. Meta is a strong supporter of open source and I'm proud of these releases. Congrats to @alexandr_wang and the MSL team for all your great work on these models.",
+          "author": {
+            "screenName": "finkd",
+            "name": "Mark Zuckerberg"
+          }
+        }
+      },
+      {
+        "id": "2085056542341271840",
+        "text": "Congratulations @JeffDean, @Sanjay_Ghemawat,\n@OriolVinyalsML and @quocleix! Knowing you guys, this will be amazing. Cheering you on and wishing you well on your important work!",
+        "author": {
+          "id": "216939636",
+          "name": "Andrew Ng",
+          "screenName": "AndrewYNg",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 2146,
+          "retweets": 92,
+          "replies": 52,
+          "quotes": 6,
+          "views": 313097,
+          "bookmarks": 250
+        },
+        "createdAt": "Wed Aug 05 17:33:12 +0000 2026",
+        "createdAtLocal": "2026-08-06 01:33",
+        "createdAtISO": "2026-08-05T17:33:12+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2085034604172603724",
+          "text": "Announcing Discovery Loop! \n\nI am very excited to announce that, along with my longtime friends and collaborators @Sanjay_Ghemawat, @OriolVinyalsML and @quocleix, we are founding Discovery Loop (@DiscoLoopAI), a Public Benefit Corporation whose mission is to automate machine learning, science, and engineering to accelerate discoveries and progress. The four of us have worked together for 14 to 30 years, and have helped build some of the world’s most used products, infrastructure and AI models, and we’re excited to turn our attention to this ambitious endeavor.\n\n♾\n\nLearn more at: https://t.co/Rv3LMdLluK",
+          "author": {
+            "screenName": "JeffDean",
+            "name": "Jeff Dean"
+          }
+        }
+      },
       {
         "id": "2082199333920027009",
         "text": "Fifteen years ago, @Coursera and online courses changed education. It worked better than almost anyone expected, expanding access by opening up where you can learn. But how you learn remains largely the same as it has for centuries: it is still one-size-fits-all, taught the same way to each person who shows up.\n\nWe now have an opportunity to change how learning happens. With advances in AI, we can now build a custom learning guide for each person. We will turn learning from one‑to‑many to one‑to‑one. I'm starting LearnVector to invent this next generation of learning. We are starting with a $100M investment from Coursera, and plan to collaborate closely with Coursera and Udemy.\n\nGood learning needs much more than just a chatbot. Research shows that chatbots without guardrails harm learning. They help complete tasks and enable students to do better on homework. But cognitive offloading to a chatbot results in them being less skilled. And, you cannot always trust what a chatbot tells you.\n\nIn contrast, LearnVector will plan a path with you, adapt to how you learn, and patiently stay with you until you’ve mastered new skills.\n\nOne thing has not changed in all this time. People want learning they can trust: material that is accurate, relevant, and worth the effort you put into it. Anything less wastes the most valuable thing a learner has: time. Coursera has a trusted library of materials from authoritative sources. LearnVector plans to work with Coursera to bring this trustworthy learning to everyone. I'm grateful to Greg Hart and the entire Coursera team for supporting LearnVector.\n\nI look forward to working with our talented team to change how we learn, and accelerate human development.\n\nhttps://t.co/TqFUDFd1hb",
@@ -344,12 +438,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 10465,
-          "retweets": 1152,
-          "replies": 349,
-          "quotes": 167,
-          "views": 802789,
-          "bookmarks": 4976
+          "likes": 10902,
+          "retweets": 1207,
+          "replies": 403,
+          "quotes": 183,
+          "views": 887371,
+          "bookmarks": 5086
         },
         "createdAt": "Tue Jul 28 20:19:41 +0000 2026",
         "createdAtLocal": "2026-07-29 04:19",
@@ -372,12 +466,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 4358,
-          "retweets": 428,
-          "replies": 133,
-          "quotes": 29,
-          "views": 321213,
-          "bookmarks": 406
+          "likes": 4391,
+          "retweets": 439,
+          "replies": 145,
+          "quotes": 30,
+          "views": 349602,
+          "bookmarks": 411
         },
         "createdAt": "Mon Jul 27 17:01:38 +0000 2026",
         "createdAtLocal": "2026-07-28 01:01",
@@ -396,154 +490,12 @@
             "name": "Jensen Huang"
           }
         }
-      },
-      {
-        "id": "2080333504446108104",
-        "text": "Announcing OpenWorker! An open-source agent that doesn't just chat with you, but delivers finished work -- like hand you a polished document, send a slack message, or update a calendar entry.\n\nAsk it to prepare a customer brief, untangle your calendar, draft a report, or triage a Slack alert. It works across your files and everyday tools, produces the deliverable, and checks in before doing anything consequential.\n\nOpenWorker runs on your Mac, with Windows support coming soon. It does not lock you into any one model. Bring your own API key and run it with GPT 5.6 Sol, Claude Fable, Gemini 3.6, an open weight model (like Kimi, GLM, DeepSeek, Inkling), or Ollama to keep your data local. Your data does not leave your machine except through an LLM provider and integrations that you choose.\n\n@rohitcprasad and I are building OpenWorker because AI coworkers are an important way to get work done, and we want there to be an open, privacy-preserving, model-independent option. Check it out and let us know what you think!\n\nTry it out: https://t.co/P0mGnI1o31 (requires your own API key)\nSource code: https://t.co/NYCiTD6hSq",
-        "author": {
-          "id": "216939636",
-          "name": "Andrew Ng",
-          "screenName": "AndrewYNg",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 9533,
-          "retweets": 1387,
-          "replies": 454,
-          "quotes": 208,
-          "views": 1017775,
-          "bookmarks": 10056
-        },
-        "createdAt": "Thu Jul 23 16:45:32 +0000 2026",
-        "createdAtLocal": "2026-07-24 00:45",
-        "createdAtISO": "2026-07-23T16:45:32+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2080332687571886080/vid/avc1/1800x1352/imcB7aI29Avi6On3.mp4?tag=29",
-            "width": 1800,
-            "height": 1352
-          }
-        ],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2078144569594761591",
-        "text": "New course: Build LLM applications that respond to user requests quickly by running on hardware designed for fast inference. This short course was built with  @Cerebras and taught by @zhennydez, @duerr_seb, and  @MilksandMatcha.\n\nWhen a model generates text, much of the time is spent moving its weights out of memory and into the compute units. Inference-optimized hardware minimizes that movement, making token generation several times faster than on a typical GPU setup. In this course, the hardware you'll use is Cerebras' Wafer-Scale Engine, which is designed for fast inference by keeping the model's weights close to the compute units.\n\nFast inference makes lengthy agentic workflows go faster, and also unlocks latency-sensitive, real-time applications like live translation and voice agents.\n\nSkills you'll gain:\n- Compare how GPUs, TPUs, and Cerebras' Wafer-Scale Engine each handle the memory-to-compute bottleneck\n- Build real-time applications powered by fast inference, including personalizing a webpage and running a multi-step workflow to analyze market signals\n- Adopt concrete habits for agentic coding with fast inference, keeping your sessions focused and steering the model more effectively\n\nMy teams use Cerebras for several applications that are latency sensitive. Join and build LLM applications that respond quickly:\nhttps://t.co/P8vchGAr22",
-        "author": {
-          "id": "216939636",
-          "name": "Andrew Ng",
-          "screenName": "AndrewYNg",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 1225,
-          "retweets": 132,
-          "replies": 100,
-          "quotes": 12,
-          "views": 142458,
-          "bookmarks": 810
-        },
-        "createdAt": "Fri Jul 17 15:47:30 +0000 2026",
-        "createdAtLocal": "2026-07-17 23:47",
-        "createdAtISO": "2026-07-17T15:47:30+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2078144281685233664/vid/avc1/1920x1080/-jrErZb3PYjGtzPj.mp4?tag=29",
-            "width": 1920,
-            "height": 1080
-          }
-        ],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2075271586400403567",
-        "text": "Adam Thierer had written the landmark book on \"Permissionless Innovation.\" We get the best ideas when we don't have to ask the government in advance for permission to invent. Protecting open source AI is now a critical part of ensuring this.",
-        "author": {
-          "id": "216939636",
-          "name": "Andrew Ng",
-          "screenName": "AndrewYNg",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 301,
-          "retweets": 50,
-          "replies": 82,
-          "quotes": 6,
-          "views": 110221,
-          "bookmarks": 61
-        },
-        "createdAt": "Thu Jul 09 17:31:17 +0000 2026",
-        "createdAtLocal": "2026-07-10 01:31",
-        "createdAtISO": "2026-07-09T17:31:17+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2075237102099251371",
-          "text": "We stand at a critical crossroads in the debate over AI governance in the United States, and it feels like we are inching closer to a very serious battle over whether or not open source models will even be allowed in an environment where a new de facto licensing regime has been taking shape.\n\nLacking formal congressional statutory frameworks or clear administration rules (like the diffusion rule revision), we appear to be left with a sporadic, arbitrary, non-transparent process for model review. The fiction of “voluntary” agreements hangs over this debate, and some large model developers are already showing an incredible willingness to bend over backwards to accommodate national security-related officials / orders that the rest of us are not privy to. It's a very opaque process. And those model developers are expected to play ball with those officials, or else their models get pulled from the market or held up for long periods. Or they will lose any government procurement contracts they have. There is nothing “voluntary” about it when that Sword of Damocles hangs in the room.\n\nAs this mess worsens, at some point the question of how to handle open source models will come into sharper focus because it will have to. I've even heard some rumors lately that something may be coming from the admin on this front to address this.\n\nNeedless to say, if this informal new AI model review regime expands and takes on more pre-vetting characteristics / requirements, it is hard to see how open source players could comply with such quasi-licensing of AI models. Specifically, if this ambiguous new regime is accompanied by a general presumption of ‘restrict-until-permitted,’ then that would spell doom for open source. That is a very dark path for our country.\n\nWorse yet, of course, would be a move by national security officials to more directly restrict open source models and capabilities. If that happens, then we would be right back in the thick of a Clipper Chip-like battle along the lines of what we saw in the late 1990s. That is a much darker path for America.\n\nMeanwhile, open source developers have no “golden shares” or other goodies to offer the government to make their problems go away.\n\nLet’s be clear: If our government takes the dark path, it will become the single most important battle over computational freedom of modern times. It is time for people to make a stand in defense of open source before it is too late.",
-          "author": {
-            "screenName": "AdamThierer",
-            "name": "Adam Thierer"
-          }
-        }
       }
     ],
     "ylecun": [
       {
-        "id": "2082530916119797965",
-        "text": "I cannot think of any group of people less qualified to overhaul this",
-        "author": {
-          "id": "51836807",
-          "name": "Neal Parikh",
-          "screenName": "npparikh",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1567573485458702336/krsoM2sA_normal.jpg",
-          "verified": false
-        },
-        "metrics": {
-          "likes": 72,
-          "retweets": 5,
-          "replies": 13,
-          "quotes": 0,
-          "views": 17432,
-          "bookmarks": 8
-        },
-        "createdAt": "Wed Jul 29 18:17:16 +0000 2026",
-        "createdAtLocal": "2026-07-30 02:17",
-        "createdAtISO": "2026-07-29T18:17:16+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2082461372764258501",
-          "text": "Today, roughly the same amount of basic research is done in industry as in academia. It’s time our doctoral training reflected that. \n\n@NSF is launching a first-of-its-kind 4-year PhD program at more than 30 universities. Students will spend a year+ embedded with industry partners doing research that informs their dissertation.",
-          "author": {
-            "screenName": "mkratsios47",
-            "name": "Director Michael Kratsios"
-          }
-        }
-      },
-      {
-        "id": "2082481018959733074",
-        "text": "Debt payments are rising not just because the debt is growing under Trump, but because the government has leaned on too much short-term borrowing.\n\nAs it comes due, Washington must now lock in the higher rates the inflationary Iran War has created.\n\nMy @Morning_Joe Chart https://t.co/R3oZUeTkAe",
+        "id": "2090866739240173613",
+        "text": "President Trump promised there'd be no cuts to Medicaid. \n\nThen he pushed through his One Big Beautiful Bill, which cut Medicaid by nearly $1 trillion and has already caused over 5 million Americans to lose health insurance.\n\nRead my take in @nytopinion: https://t.co/aoWJDeQ1Kc https://t.co/DJeO2AkY2F",
         "author": {
           "id": "401625957",
           "name": "Steve Rattner",
@@ -552,121 +504,53 @@
           "verified": true
         },
         "metrics": {
-          "likes": 452,
-          "retweets": 225,
-          "replies": 30,
-          "quotes": 10,
-          "views": 18729,
-          "bookmarks": 30
+          "likes": 1787,
+          "retweets": 1137,
+          "replies": 85,
+          "quotes": 68,
+          "views": 46966,
+          "bookmarks": 153
         },
-        "createdAt": "Wed Jul 29 14:59:00 +0000 2026",
-        "createdAtLocal": "2026-07-29 22:59",
-        "createdAtISO": "2026-07-29T14:59:00+00:00",
+        "createdAt": "Fri Aug 21 18:20:51 +0000 2026",
+        "createdAtLocal": "2026-08-22 02:20",
+        "createdAtISO": "2026-08-21T18:20:51+00:00",
         "media": [
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HOZ1ZrmXgAA41WB.png",
-            "width": 2228,
+            "url": "https://pbs.twimg.com/media/HQQ_o20WwAAx9MG.jpg",
+            "width": 2366,
             "height": 1534
           }
         ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2081748804706218337",
-        "text": "Elon’s missed promises 😳 https://t.co/DGfGVnl6d2",
-        "author": {
-          "id": "1336616210767642627",
-          "name": "EV Guy",
-          "screenName": "TeslaAndDoge",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2076245263463882752/-u3f5xf7_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 9852,
-          "retweets": 1333,
-          "replies": 379,
-          "quotes": 130,
-          "views": 616829,
-          "bookmarks": 1467
-        },
-        "createdAt": "Mon Jul 27 14:29:26 +0000 2026",
-        "createdAtLocal": "2026-07-27 22:29",
-        "createdAtISO": "2026-07-27T14:29:26+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HOPbgGYakAAnfPZ.jpg",
-            "width": 1164,
-            "height": 837
-          }
+        "urls": [
+          "http://nyti.ms/4xOJVR6"
         ],
-        "urls": [],
         "isRetweet": true,
         "retweetedBy": "ylecun",
         "lang": "en",
         "score": null
       },
       {
-        "id": "2082210027826188404",
-        "text": "Laser focused on reducing the cost of living, from day one. https://t.co/TdzlbH0lOW",
+        "id": "2090278404251693291",
+        "text": "Moderna/Merck just ran a 1,137-patient Phase 3 trial where every single dose was unique to that patient's tumor. It worked.\n\nThe pipeline: surgical resection → whole exome + RNA sequencing → ML neoantigen ranking → mRNA encoding up to 34 patient-specific targets → manufactured and shipped in 8 weeks. One drug, different sequence for every patient.\n\nThe ML step is worth to note: the algorithm ingests WES + RNA-seq to identify somatic mutations, then predicts which of those will actually be immunogenic, ie, displayed on tumor cell surface and trigger a T-cell response. It's designed to keep learning from accumulated clinical and immunogenicity data across patients, not just per-patient.\n\nINTerpath-001 (Stage IIB-IV resected melanoma, 2:1 randomized): combination with pembrolizumab beat Keytruda alone on both primary (RFS) and key secondary (DMFS) at interim. Phase 2b at ASCO 2026 showed 49% reduction in recurrence/death, 59% in distant metastasis/death at 5 years. Phase 3 confirmed both.\n\nWhat this validates:\n— tumor-specific neoantigen prediction by ML works in a blinded trial at scale\n— 8-week personalized mRNA manufacturing is operationally real\n— effect is additive on PD-1 blockade, not redundant\n\nThis is first positive Ph3 for individualized neoantigen therapy. First positive Ph3 for any mRNA cancer therapeutic. \n\nWhat a great time to live in!!  This is the best time for AI & biotech!",
         "author": {
-          "id": "327577091",
-          "name": "Justin Wolfers",
-          "screenName": "JustinWolfers",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2080122094692536321/ZGJXB4CQ_normal.jpg",
+          "id": "775759968221868032",
+          "name": "Bo Wang",
+          "screenName": "BoWang87",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1707747805341552640/EPsdigbV_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 908,
-          "retweets": 278,
-          "replies": 22,
-          "quotes": 10,
-          "views": 28479,
-          "bookmarks": 21
+          "likes": 1842,
+          "retweets": 338,
+          "replies": 64,
+          "quotes": 38,
+          "views": 263133,
+          "bookmarks": 584
         },
-        "createdAt": "Tue Jul 28 21:02:10 +0000 2026",
-        "createdAtLocal": "2026-07-29 05:02",
-        "createdAtISO": "2026-07-28T21:02:10+00:00",
-        "media": [
-          {
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HOV-_I5XoAAb33d.jpg",
-            "width": 989,
-            "height": 540
-          }
-        ],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "ylecun",
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2082386580417753494",
-        "text": "\"The notion that AI is so dangerous that the only safe path is an extreme concentration of power seems dangerous. \n\n\"Historically, hoping that an absolute power will benevolently provide for humanity if sufficiently  enlightened hasn’t led to safe or positive outcomes.\"\n\nThere are no special people who can safely guide us and be trusted with supreme power. Absolute power corrupts absolutely. There are no enlightened autocrats. There are no people with a crystal ball who can plan the economy or pace it.\n\nI would rather see the entire industry crash and burn for a decade than see this reality come to pass.",
-        "author": {
-          "id": "633549366",
-          "name": "Daniel Jeffries",
-          "screenName": "Dan_Jeffries1",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1907351559689650176/xPWyoi5m_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 210,
-          "retweets": 30,
-          "replies": 19,
-          "quotes": 3,
-          "views": 24468,
-          "bookmarks": 28
-        },
-        "createdAt": "Wed Jul 29 08:43:44 +0000 2026",
-        "createdAtLocal": "2026-07-29 16:43",
-        "createdAtISO": "2026-07-29T08:43:44+00:00",
+        "createdAt": "Thu Aug 20 03:23:01 +0000 2026",
+        "createdAtLocal": "2026-08-20 11:23",
+        "createdAtISO": "2026-08-20T03:23:01+00:00",
         "media": [],
         "urls": [],
         "isRetweet": true,
@@ -674,81 +558,149 @@
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2082201438810218520",
-          "text": "Zuckerberg throws a big punch at Dario’s fear marketing and moral high grounds. never thought I’d say this, but Zuck’s article is pretty based. 👏🏻👏🏻👏🏻 https://t.co/FwC2LlZixM",
+          "id": "2090029002735882492",
+          "text": "Moderna and @Merck today announced positive topline results from the Phase 3 INTerpath-001 trial evaluating adjuvant treatment with intismeran autogene, a novel investigational mRNA-based individualized neoantigen therapy jointly developed by Merck and Moderna, in combination with KEYTRUDA® (pembrolizumab), Merck's anti-PD-1 therapy, in patients with completely resected Stage IIB-IV melanoma.\nRead more:",
           "author": {
-            "screenName": "Hesamation",
-            "name": "ℏεsam"
+            "screenName": "moderna_tx",
+            "name": "Moderna"
           }
         }
+      },
+      {
+        "id": "2090478774714265740",
+        "text": "Musk predicted $2 trillion in savings from DOGE.\n\nThe real number ended up being less than $50 billion. \n\nThis year, the debt passed 100% of GDP and is on track to break its WWII-era record in the next few years.\n\n📸: @MSNOWNews @Morning_Joe https://t.co/MulV05frHX",
+        "author": {
+          "id": "401625957",
+          "name": "Steve Rattner",
+          "screenName": "SteveRattner",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1559587528109395969/HfLfInk2_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 772,
+          "retweets": 353,
+          "replies": 42,
+          "quotes": 24,
+          "views": 50990,
+          "bookmarks": 70
+        },
+        "createdAt": "Thu Aug 20 16:39:13 +0000 2026",
+        "createdAtLocal": "2026-08-21 00:39",
+        "createdAtISO": "2026-08-20T16:39:13+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2090478657231781888/vid/avc1/1080x1920/4PHFloFS2JWlY5J_.mp4?tag=29",
+            "width": 1080,
+            "height": 1920
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2090207670053613765",
+        "text": "There was no misuse: Covid mRNA vaccines saved 3.2 million American lives during the pandemic. Instead of 1.2 million Americans dying from Covid it would have been 4.4 million deaths. As it is 200,000-300,000 Americans died needlessly bc they refused Covid vaccines 2021-22. They were victims of a terrible disinformation campaign as detailed in our recent book #ScienceUnderSiege @MichaelEMann @PeterHotez",
+        "author": {
+          "id": "593289567",
+          "name": "Prof Peter Hotez MD PhD DSc(hon)",
+          "screenName": "PeterHotez",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2030039828855652353/fFDXPa0q_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 3503,
+          "retweets": 875,
+          "replies": 4,
+          "quotes": 49,
+          "views": 162566,
+          "bookmarks": 134
+        },
+        "createdAt": "Wed Aug 19 22:41:57 +0000 2026",
+        "createdAtLocal": "2026-08-20 06:41",
+        "createdAtISO": "2026-08-19T22:41:57+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2090143734407246018",
+          "text": "@EricTopol Despite its obvious misuse during Covid, mRNA has tremendous promise for curing diseases. \n\nArtificial RNA essentially makes curing diseases a software problem.",
+          "author": {
+            "screenName": "elonmusk",
+            "name": "Elon Musk"
+          }
+        }
+      },
+      {
+        "id": "2090332612376056298",
+        "text": "The newer generation cancer vaccines aren't like the HPV shot (that prevents a virus). These are therapeutic, they treat cancer you already have. And 2026 is the year they stopped being sci-fi. \n\nThe idea: after surgery, sequence your specific tumor, find the mutations unique to it, and build a custom mRNA vaccine that trains your immune system to hunt any cell carrying them. A wanted poster for your personal cancer.\nWhere we actually are:\n\nMelanoma: just like in immunotherapy 15 years ago the furthest along. The press release of positive Phase 3 made the headlines yesterday, the first ever for a personalized cancer vaccine. Earlier data: ~49% lower risk of recurrence. Heading to regulators.\n\nPancreatic cancer: arguably the most stunning. In an early trial, patients whose immune systems responded to the vaccine were far more likely to be alive 6 years later, in a cancer where 5-year survival is barely better than 10 %. Now in a larger trial.\n\nKidney, lung, bladder, brain: all in trials, mostly early phase.\nThe honest caveats: these work best after surgery to stop recurrence, not to melt large tumors. They're personalized, so they might cost $100–300k and take weeks to build per patient. And most are still early-phase. First approvals at best 2027.\n\nBut the direction is unmistakable. The mRNA platform some parts of the internet spent years calling poison - because they got fooled by bad actors making money on their lies - is turning into the most personalized cancer medicine ever made.\n\nThese are the main trials currently running:",
+        "author": {
+          "id": "2008854616411430912",
+          "name": "Yannick Buccella MD",
+          "screenName": "YannickBuccella",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2008856961786204160/Z0J1Yaea_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 3151,
+          "retweets": 845,
+          "replies": 119,
+          "quotes": 65,
+          "views": 284427,
+          "bookmarks": 698
+        },
+        "createdAt": "Thu Aug 20 06:58:25 +0000 2026",
+        "createdAtLocal": "2026-08-20 14:58",
+        "createdAtISO": "2026-08-20T06:58:25+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQJaROsWkAAKMal.jpg",
+            "width": 1386,
+            "height": 842
+          }
+        ],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "ylecun",
+        "lang": "en",
+        "score": null
       }
     ],
     "elonmusk": [
       {
-        "id": "2082494156987871642",
-        "text": "Gates-ism perfectly epitomized. https://t.co/sBKVK5lmma",
+        "id": "2090809510864498823",
+        "text": "Chandrasekhar died exactly 31 years ago today. At 19, on the boat from India to Cambridge in 1930, he worked out that a white dwarf above ~1.4 solar masses could not remain stable. Eddington publicly rejected the result. 53 years later, Chandrasekhar won the Nobel Prize for his work on stellar evolution.",
         "author": {
-          "id": "1709393467871461376",
-          "name": "Xenocosmography",
-          "screenName": "xenocosmography",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1709394184837451776/4xkaiTS7_normal.jpg",
+          "id": "3511430425",
+          "name": "Fermat's Library",
+          "screenName": "fermatslibrary",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/641822497457860608/zd6kUAag_normal.png",
           "verified": true
         },
         "metrics": {
-          "likes": 2268,
-          "retweets": 355,
-          "replies": 180,
-          "quotes": 15,
-          "views": 599310,
-          "bookmarks": 284
+          "likes": 5798,
+          "retweets": 802,
+          "replies": 170,
+          "quotes": 44,
+          "views": 547209,
+          "bookmarks": 505
         },
-        "createdAt": "Wed Jul 29 15:51:12 +0000 2026",
-        "createdAtLocal": "2026-07-29 23:51",
-        "createdAtISO": "2026-07-29T15:51:12+00:00",
-        "media": [],
-        "urls": [
-          "https://x.com/jayplemons/status/2082157699031302179?s=20"
-        ],
-        "isRetweet": true,
-        "retweetedBy": "elonmusk",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2082157699031302179",
-          "text": "Bill Gates “saved” Africa… by DESTROYING their food supply 🚨\n\nForrest Galante:  “I’m going to go on a f-ing rant here.\n\nThey gave millions of mosquito nets out to all these people to avoid malaria. Guess what the people who are starving to death did with their mosquito nets. They fished with them.\n\nMosquito net has a hole that is so small that a mosquito can’t get through. So guess what? These mosquito nets now indiscriminately catch tiny baby fish in areas like Cahora Bassa where the fish go to breed and reproduce and populate. So now all of a sudden you have thousands and thousands of people that have been handed nets that have been living one way for hundreds of thousands of years. They don’t give a shit about malaria.\n\nBill and Melinda Gates Foundation come in, hand out millions of mosquito nets, absolutely collapse the entire population of fish that feed millions of people because these people just take the nets and fish all the baby fish out so that those fish don’t grow up to make substantial protein sources. So now these wonderful philanthropists that have given out millions of nets have destroyed an ecosystem, crashed a fish population, and created widespread hunger for people that otherwise had plenty of resources. All because they were trying to help with their mosquito nets.\n\nThey’ve taken such a rich and important part of Africa, one of the most abundant freshwater fisheries in the world, and destroyed it because they’re ‘helping’ by handing out mosquito nets.\n\nAnd they’re still giving out mosquito nets, by the way. And you literally watch these guys line up, take a mosquito net, and it never goes in their house. It goes straight to catching fish for them to eat.”",
-          "author": {
-            "screenName": "jayplemons",
-            "name": "jay plemons"
-          }
-        }
-      },
-      {
-        "id": "2082546312608719207",
-        "text": "Grok Build now has a way to enable/disable MCP\n\ngrok mcp enable &lt;name&gt;\n\ngrok mcp disable &lt;name&gt; https://t.co/X3kKAn5vfK",
-        "author": {
-          "id": "1604863807574212611",
-          "name": "Tech Dev Notes",
-          "screenName": "techdevnotes",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1618185418234646529/f9-GqDq1_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 686,
-          "retweets": 113,
-          "replies": 70,
-          "quotes": 2,
-          "views": 312114,
-          "bookmarks": 62
-        },
-        "createdAt": "Wed Jul 29 19:18:27 +0000 2026",
-        "createdAtLocal": "2026-07-30 03:18",
-        "createdAtISO": "2026-07-29T19:18:27+00:00",
+        "createdAt": "Fri Aug 21 14:33:27 +0000 2026",
+        "createdAtLocal": "2026-08-21 22:33",
+        "createdAtISO": "2026-08-21T14:33:27+00:00",
         "media": [
           {
             "type": "photo",
-            "url": "https://pbs.twimg.com/media/HOawvKmWsAACNPz.jpg",
-            "width": 1364,
-            "height": 328
+            "url": "https://pbs.twimg.com/media/HQQMK7RXIAAmSO3.jpg",
+            "width": 1796,
+            "height": 1006
           }
         ],
         "urls": [],
@@ -758,98 +710,146 @@
         "score": null
       },
       {
-        "id": "2082722674732626193",
-        "text": "Watch Falcon 9 launch the @NRO_gov and @USSF_SSC’s NROL-95 mission from pad 40 in Florida  https://t.co/SHLMM2Oat4",
+        "id": "2090689729461411951",
+        "text": "In 1948, a 32-year-old at Bell Labs published a paper nobody fully understood.\n\nEngineers found it too mathematical. Mathematicians found it too engineering-focused. One prominent mathematician reviewed it negatively.\n\nThat paper - \"A Mathematical Theory of Communication\", became the founding document of the digital age.\n\nThe man was Claude Shannon. Father of Information Theory.\n\nAt 21, he wrote the most important master's thesis of the 20th century.\n\nWorking at MIT on an early mechanical computer, Shannon noticed its relay switches had exactly two states - open or closed. He had just taken a philosophy course introducing Boolean algebra, which also operated on two values: true and false.\n\nNobody had ever connected these two things.\n\nHis 1937 thesis proved that Boolean algebra and electrical circuits are mathematically identical, and that any logical operation could be built from simple switches.\n\nHoward Gardner called it \"possibly the most important, and also the most famous, master's thesis of the century.\"\n\nEvery digital computer ever built traces back to this insight.\n\nAt 29, he proved that perfect encryption exists.\n\nDuring WWII, Shannon worked on classified cryptography at Bell Labs. His work contributed to SIGSALY, the secure voice system used for confidential communications between Roosevelt and Churchill.\n\nIn a classified 1945 memorandum, he mathematically proved the one-time pad provides perfect secrecy, unbreakable not just computationally, but provably, permanently, against an adversary with infinite power.\n\nWhen declassified in 1949, it transformed cryptography from an art into a science. It laid the foundations for DES, AES, and every modern encryption standard.\n\nAt 32, he defined what information is.\n\nHis 1948 paper introduced one equation:\nH = −Σ p(x) log p(x)\n\nShannon entropy. The average uncertainty in a probability distribution. The minimum bits required to encode a message.\n\nThree things followed:\n\n> He defined the bit - the fundamental unit of all information. His colleague John Tukey coined the name.\n\n> He proved the channel capacity theorem, every communication channel has a maximum rate of reliable transmission. You can approach it. You can never exceed it.\n\n> He unified telegraph, telephone, and radio into a single mathematical framework for the first time.\n\nRobert Lucky of Bell Labs called it the greatest work \"in the annals of technological thought.\"\n\nWhere his equation lives in AI today:\n\nCross-entropy loss - the function training every classifier and language model, is derived directly from H. Decision tree splits use information gain, which is H applied to data. Perplexity, the standard LLM evaluation metric, is an exponentiation of cross-entropy.\n\nEvery time a neural network trains, Shannon's formula runs inside it.\n\nHe also built the first AI learning device.\n\nIn 1950, Shannon built Theseus, a mechanical mouse that navigated a maze through trial and error, learned the correct path, and repeated it perfectly. Mazin Gilbert of Bell Labs said: \"Theseus inspired the whole field of AI.\"\n\nThat same year he published the first paper on programming a computer to play chess. He co-organized the 1956 Dartmouth Workshop, the founding event of AI as a field.\n\nThe man:\nHe rode a unicycle through Bell Labs hallways while juggling. He built a flame-throwing trumpet, a rocket-powered Frisbee, and Styrofoam shoes to walk on the lake behind his house.\n\nHe called his home Entropy House.\n\nWhen asked what motivated him: \"I was motivated by curiosity. Never by the desire for financial gain. I just wondered how things were put together.\"\n\nIn 1985, he appeared unexpectedly at a conference in Brighton. The crowd mobbed him for autographs. Persuaded to speak at the banquet, he talked briefly, then pulled three balls from his pockets and juggled instead.\n\nOne engineer said: \"It was as if Newton had showed up at a physics conference.\"\n\nHe died in 2001 after a decade with Alzheimer's, the cruel irony of information slowly leaving the mind of the man who defined what information was.\n\nClaude, the AI model, is named after Claude Shannon, the mathematician who laid the foundation for the digital world we rely on today.",
         "author": {
-          "id": "34743251",
-          "name": "SpaceX",
-          "screenName": "SpaceX",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_normal.jpg",
+          "id": "1818381581897412608",
+          "name": "Tech with Mak",
+          "screenName": "techNmak",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1905858162839961600/K6Gfh6cZ_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 2809,
-          "retweets": 423,
-          "replies": 301,
-          "quotes": 45,
-          "views": 591594,
-          "bookmarks": 73
+          "likes": 6476,
+          "retweets": 1308,
+          "replies": 243,
+          "quotes": 139,
+          "views": 533564,
+          "bookmarks": 2281
         },
-        "createdAt": "Thu Jul 30 06:59:15 +0000 2026",
-        "createdAtLocal": "2026-07-30 14:59",
-        "createdAtISO": "2026-07-30T06:59:15+00:00",
-        "media": [],
-        "urls": [
-          "https://x.com/i/broadcasts/1DxLddLoqayxm"
+        "createdAt": "Fri Aug 21 06:37:29 +0000 2026",
+        "createdAtLocal": "2026-08-21 14:37",
+        "createdAtISO": "2026-08-21T06:37:29+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQOfHpdbAAA6A6z.jpg",
+            "width": 1826,
+            "height": 2133
+          }
         ],
+        "urls": [],
         "isRetweet": true,
         "retweetedBy": "elonmusk",
         "lang": "en",
         "score": null
       },
       {
-        "id": "2082715175795482909",
-        "text": "Congrats to all Tesla teams. Proud to be part of this amazing journey. And we’re just getting started.",
+        "id": "2090924405195211147",
+        "text": "Grok 4.6 just took #1 on CursorBench.\n\nNot only the highest score. \n\nIt did it at a fraction of the cost of the models sitting right behind it.\n\nThat combination is the real signal. \n\nTop-tier results are one thing. \n\nTop-tier results that stay cheap enough to run for long agentic coding sessions are something else.\n\nI see this as the practical edge that matters for real work. \n\nBenchmarks are useful. \n\nSustained performance at low cost is what actually gets used.",
         "author": {
-          "id": "231437494",
-          "name": "LaoZhu",
-          "screenName": "tomzhu_nz",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/2009270793340088320/dNnDDUA9_normal.jpg",
+          "id": "2598547074",
+          "name": "Joe Hansen",
+          "screenName": "joehansen",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2077848367766413313/VaD2Y0sf_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 2434,
-          "retweets": 270,
-          "replies": 196,
-          "quotes": 6,
-          "views": 440297,
-          "bookmarks": 43
+          "likes": 906,
+          "retweets": 129,
+          "replies": 65,
+          "quotes": 8,
+          "views": 526088,
+          "bookmarks": 29
         },
-        "createdAt": "Thu Jul 30 06:29:27 +0000 2026",
-        "createdAtLocal": "2026-07-30 14:29",
-        "createdAtISO": "2026-07-30T06:29:27+00:00",
-        "media": [],
+        "createdAt": "Fri Aug 21 22:10:00 +0000 2026",
+        "createdAtLocal": "2026-08-22 06:10",
+        "createdAtISO": "2026-08-21T22:10:00+00:00",
+        "media": [
+          {
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQRs6WcWoAAQwyX.jpg",
+            "width": 1200,
+            "height": 675
+          }
+        ],
         "urls": [],
         "isRetweet": true,
         "retweetedBy": "elonmusk",
         "lang": "en",
         "score": null,
         "quotedTweet": {
-          "id": "2082707648148099363",
-          "text": "Produced our 10 millionth Tesla globally at Fremont Factory this week!\n\nOnly 6 years ago, Fremont Factory made our 1 millionth vehicle https://t.co/ps4H6tFgUQ",
+          "id": "2090840497338425739",
+          "text": "Grok 4.6 on extra high thinking mode now achieves #1 score on CursorBench!",
           "author": {
-            "screenName": "Tesla",
-            "name": "Tesla"
+            "screenName": "elonmusk",
+            "name": "Elon Musk"
           }
         }
       },
       {
-        "id": "2082718093608944035",
-        "text": "NVIDIA CEO, Jensen Huang: I want to be involved in nearly everything Elon Musk does.\n\n\"For xAI, we're an investor already. The only regret I have is I didn't give him more money. Almost everything that @elonmusk is part of you really want to be part of as well, and and he gave us the opportunity to invest, I'm just delighted by that.\"",
+        "id": "2091006071884451959",
+        "text": "It’s that easy to use Grok @Bot",
         "author": {
-          "id": "1389913567671975937",
-          "name": "DogeDesigner",
-          "screenName": "cb_doge",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1498070100393754625/C2V-fbll_normal.jpg",
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screenName": "elonmusk",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
           "verified": true
         },
         "metrics": {
-          "likes": 4070,
-          "retweets": 562,
-          "replies": 315,
-          "quotes": 35,
-          "views": 409094,
-          "bookmarks": 217
+          "likes": 4294,
+          "retweets": 758,
+          "replies": 789,
+          "quotes": 47,
+          "views": 1999760,
+          "bookmarks": 992
         },
-        "createdAt": "Thu Jul 30 06:41:03 +0000 2026",
-        "createdAtLocal": "2026-07-30 14:41",
-        "createdAtISO": "2026-07-30T06:41:03+00:00",
+        "createdAt": "Sat Aug 22 03:34:31 +0000 2026",
+        "createdAtLocal": "2026-08-22 11:34",
+        "createdAtISO": "2026-08-22T03:34:31+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2090790015513051289",
+          "text": "I launched Grok Bot for 24 hours, gave it 3 jobs, and stopped treating AI like a chatbot.\n\nI had it scan live X + web data for emerging AI products, research what people were actually saying about them, filter the obvious engagement bait, compare sources and turn the strongest signals into a structured brief. \n\nAt the same time, I could have separate research paths looking at competitors, code or market opportunities instead of forcing everything through one conversation.\n\nThat’s the difference I underestimated. I don’t want to sit inside a chat writing another prompt every 5 minutes. I want to define the objective, give the agent access to the right tools and data, let it execute, then step back in when judgment or approval is actually needed.\n\nThe old workflow was prompt → answer → copy → repeat.\n\nThe workflow I’m moving toward is assign → execute → verify.\n\nOnce AI stops waiting for your next message, it stops feeling like software you use and starts feeling like work you delegated.",
+          "author": {
+            "screenName": "Lummox_eth",
+            "name": "Lummox"
+          }
+        }
+      },
+      {
+        "id": "2090313146183688433",
+        "text": "Grok Bot can recreate any viral video from the link 🤯\n\nHow it works: I send @bot a link to an AI clip.\n\nIt watches the video and writes a prompt to recreate it (with any changes I want).\n\nThen it uses @imagine to generate the new video! I tried it on the subway trend 👇 https://t.co/PKzeu0VoeX",
+        "author": {
+          "id": "922955517030408192",
+          "name": "Justine Moore",
+          "screenName": "venturetwins",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/2080756230893838336/q4VqZuw2_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 1092,
+          "retweets": 141,
+          "replies": 91,
+          "quotes": 12,
+          "views": 334659,
+          "bookmarks": 665
+        },
+        "createdAt": "Thu Aug 20 05:41:04 +0000 2026",
+        "createdAtLocal": "2026-08-20 13:41",
+        "createdAtISO": "2026-08-20T05:41:04+00:00",
         "media": [
           {
             "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2082718060473901056/vid/avc1/1894x1080/Hjmv124xIY1nlbO_.mp4?tag=29",
-            "width": 1894,
-            "height": 1080
+            "url": "https://video.twimg.com/amplify_video/2090313040319434753/vid/avc1/998x1846/XW6ySXm6ask0rhLO.mp4?tag=29",
+            "width": 998,
+            "height": 1846
           }
         ],
         "urls": [],
@@ -861,6 +861,145 @@
     ],
     "DrJimFan": [
       {
+        "id": "2090841735601823795",
+        "text": "\"Seeing is believing, but feeling's the truth.\"",
+        "author": {
+          "id": "1630236681633931265",
+          "name": "Jing Wang",
+          "screenName": "NickySGJingWang",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1930102797284061187/Xbw5IeRW_normal.jpg",
+          "verified": false
+        },
+        "metrics": {
+          "likes": 49,
+          "retweets": 4,
+          "replies": 1,
+          "quotes": 1,
+          "views": 14963,
+          "bookmarks": 7
+        },
+        "createdAt": "Fri Aug 21 16:41:30 +0000 2026",
+        "createdAtLocal": "2026-08-22 00:41",
+        "createdAtISO": "2026-08-21T16:41:30+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": true,
+        "retweetedBy": "DrJimFan",
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2090832821036470626",
+          "text": "The sense of touch is the most criminally under-explored modality in robotics. Imagine doing sleight of hand wearing thick oven mitts. That's exactly how a robot feels today if it were alive. A magnetic piece snapping into place, a paper cup peeling out of a stack, a USB negotiating its way into the port - all invisible to the camera.\n\nLearning how to feel must be a full-stack co-designed effort. We are open-sourcing a principled methodology called \"T-Rex\":\n\n1. Tactile as first-class citizen of the model. Our mixture-of-transformer runs two clocks asynchronously: a slow visuomotor expert plans the motion, and a fast tactile expert refines it in real time with high-frequency corrections at 4 \"touch ticks\" per vision tick. Forces change faster than frames arrive, so the architecture had to as well.\n\n2. Open data. The largest tactile dataset ever released to our knowledge: a 50-hour (~5,500 episodes) high-quality, carefully synchronized robot play corpus, collected on SOTA tactile hand hardware with 22 degrees of freedom. Available today on HuggingFace!\n\n3. Training recipe: T-Rex extends our prior work, EgoScale. Human egocentric videos for pretraining, a diverse dose of tactile robot play for mid-training. Our experiments show this bridges contact-free pretraining to contact-rich manipulation remarkably well.\n\nPixels are cheap and everywhere, but they run out of steam at the moment of contact. Tactile will carry the last mile. The next scaling curve will be measured in hours of touch.\n\nT-Rex is a great collaboration between NVIDIA and Berkeley: 🧵",
+          "author": {
+            "screenName": "DrJimFan",
+            "name": "Jim Fan"
+          }
+        }
+      },
+      {
+        "id": "2090832821036470626",
+        "text": "The sense of touch is the most criminally under-explored modality in robotics. Imagine doing sleight of hand wearing thick oven mitts. That's exactly how a robot feels today if it were alive. A magnetic piece snapping into place, a paper cup peeling out of a stack, a USB negotiating its way into the port - all invisible to the camera.\n\nLearning how to feel must be a full-stack co-designed effort. We are open-sourcing a principled methodology called \"T-Rex\":\n\n1. Tactile as first-class citizen of the model. Our mixture-of-transformer runs two clocks asynchronously: a slow visuomotor expert plans the motion, and a fast tactile expert refines it in real time with high-frequency corrections at 4 \"touch ticks\" per vision tick. Forces change faster than frames arrive, so the architecture had to as well.\n\n2. Open data. The largest tactile dataset ever released to our knowledge: a 50-hour (~5,500 episodes) high-quality, carefully synchronized robot play corpus, collected on SOTA tactile hand hardware with 22 degrees of freedom. Available today on HuggingFace!\n\n3. Training recipe: T-Rex extends our prior work, EgoScale. Human egocentric videos for pretraining, a diverse dose of tactile robot play for mid-training. Our experiments show this bridges contact-free pretraining to contact-rich manipulation remarkably well.\n\nPixels are cheap and everywhere, but they run out of steam at the moment of contact. Tactile will carry the last mile. The next scaling curve will be measured in hours of touch.\n\nT-Rex is a great collaboration between NVIDIA and Berkeley: 🧵",
+        "author": {
+          "id": "1007413134",
+          "name": "Jim Fan",
+          "screenName": "DrJimFan",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 613,
+          "retweets": 84,
+          "replies": 52,
+          "quotes": 24,
+          "views": 95862,
+          "bookmarks": 244
+        },
+        "createdAt": "Fri Aug 21 16:06:04 +0000 2026",
+        "createdAtLocal": "2026-08-22 00:06",
+        "createdAtISO": "2026-08-21T16:06:04+00:00",
+        "media": [
+          {
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2090815358697713664/vid/avc1/1920x1080/knqSn-TeFCgRoNOW.mp4?tag=29",
+            "width": 1920,
+            "height": 1080
+          }
+        ],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
+      {
+        "id": "2090832822525403481",
+        "text": "T-Rex: Tactile-Reactive Dexterous Manipulation\nWebsite: https://t.co/3irVptK79y\nOpen dataset: https://t.co/iKJrMVrfGm\nThis work is led by @Dantong_Niu and co-advised by @trevordarrell. Congrats to the team! \n\nhttps://t.co/i9fpN9XkPT",
+        "author": {
+          "id": "1007413134",
+          "name": "Jim Fan",
+          "screenName": "DrJimFan",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 41,
+          "retweets": 5,
+          "replies": 5,
+          "quotes": 0,
+          "views": 9747,
+          "bookmarks": 16
+        },
+        "createdAt": "Fri Aug 21 16:06:05 +0000 2026",
+        "createdAtLocal": "2026-08-22 00:06",
+        "createdAtISO": "2026-08-21T16:06:05+00:00",
+        "media": [],
+        "urls": [
+          "https://tactile-reactive-dexterous.github.io/",
+          "https://huggingface.co/datasets/zekaiwang/trex_dataset",
+          "https://x.com/Dantong_Niu/status/2068027692306550821?s=20"
+        ],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null,
+        "quotedTweet": {
+          "id": "2068027692306550821",
+          "text": "Excited to share T-Rex: Tactile-Reactive Dexterous Manipulation 🦖🤖\n\nTouch is fundamental to human dexterity, yet most Vision-Language-Action (VLA) models either ignore tactile feedback or lack the ability to react to high-frequency contact signals.\n\nIn this work, we tackle both the data and architectural challenges of tactile-reactive dexterous manipulation.\n\n🦖 A 100-hour tactile-synchronized dexterous manipulation dataset with 7,700+ trajectories, 22 motor primitives, and 200+ everyday objects.\n\n🦖 A tactile-reactive MoT architecture with spatial-temporal tactile encoding and asynchronous high-frequency tactile refinement.\n\n🦖 A scalable training recipe combining 22,889 hours of human egocentric pretraining with tactile-grounded robot mid-training.\n\nAcross 12 real-world contact-rich manipulation tasks, T-Rex achieves over 30% higher average success rate than the strongest baseline.\n\nWe are fully open-sourcing the dataset, models, teleoperation stack, training code, and inference pipeline.\n\n🌐 Project: https://t.co/AiHKRR8YXU\n📄 Paper: https://t.co/mXY2UNLlqc\n💻 Code: https://t.co/7skCxUtwKC\n🤗 Dataset: https://t.co/uNwW8dcRZL\n🧵 Thread ↓",
+          "author": {
+            "screenName": "Dantong_Niu",
+            "name": "Dantong Niu"
+          }
+        }
+      },
+      {
+        "id": "2090465981240086992",
+        "text": "Seeing a hype wave around GEN-1.5, and rightfully so. Lots of respect to Pete & Andy for executing so well. The secret is in the naturally repetitive motions in human-collected data. There're 2 main sources for such repetitions: \n\n(1) Symmetric patterns. Sorting, tidying, and assembling almost never finish in one motion. Open any assembly manual from IKEA, and you find most objects symmetrical. You drive one bolt, then its twin, then the next pair. Every {bolt A, bolt B} pair is a natural continuation in context, and the second instance is a free training signal that imitates the first (\"prompt\").\n\n(2) Recovery. Humans drop things all the time, but we pick them up so fast, we don’t even notice. That reflex to fix is half of our physical competence. The key insight is to keep the failed first half instead of trimming it away. If the model consumes the full arc, fumble, catch, continue, then recovery shows up organically at test time. It's funny that in-context improvement results from *NOT* over-sanitizing your data.\n\nThe other critical ingredient is UMI. I've been saying for a while that teleop will not last, and GEN-1.5 is driving the final nail in the coffin. UMI is essentially a human wearing the robot gripper to collect data directly (human → data). Teleop inserts a layer of separation: human → VR/skeletal device → robot → data, which bleeds out all the human \"physical intuition\". The subtle sleight of hand we perform constantly with objects, the micro-adjustments, the feel of a part snapping into place, is nearly impossible to capture when you can't feel the environment directly.\n\nOnce you have enough data, many behaviors can actually be zero-shot. For example, you don't even need finetuning to pick up a novel object. The model \"just knows\" what to do given a similar scene in the training distribution. Whether in-context learning truly works or not also depends on how far away the test is from training. Currently, the demos are still a bit too simple to conclude.\n\nI'm cautiously optimistic. Still, it's a great day in robotics.",
+        "author": {
+          "id": "1007413134",
+          "name": "Jim Fan",
+          "screenName": "DrJimFan",
+          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
+          "verified": true
+        },
+        "metrics": {
+          "likes": 1079,
+          "retweets": 123,
+          "replies": 40,
+          "quotes": 13,
+          "views": 68978,
+          "bookmarks": 474
+        },
+        "createdAt": "Thu Aug 20 15:48:23 +0000 2026",
+        "createdAtLocal": "2026-08-20 23:48",
+        "createdAtISO": "2026-08-20T15:48:23+00:00",
+        "media": [],
+        "urls": [],
+        "isRetweet": false,
+        "retweetedBy": null,
+        "lang": "en",
+        "score": null
+      },
+      {
         "id": "2080798306566045756",
         "text": "Stay hungry, stay foolish. Absolute legend https://t.co/PMHyBdkxGT",
         "author": {
@@ -871,12 +1010,12 @@
           "verified": true
         },
         "metrics": {
-          "likes": 649,
-          "retweets": 31,
-          "replies": 30,
-          "quotes": 5,
-          "views": 89935,
-          "bookmarks": 31
+          "likes": 670,
+          "retweets": 39,
+          "replies": 48,
+          "quotes": 6,
+          "views": 103036,
+          "bookmarks": 30
         },
         "createdAt": "Fri Jul 24 23:32:30 +0000 2026",
         "createdAtLocal": "2026-07-25 07:32",
@@ -900,151 +1039,6 @@
           "author": {
             "screenName": "JensenHuang",
             "name": "Jensen Huang"
-          }
-        }
-      },
-      {
-        "id": "2080660454184226908",
-        "text": "GOAT",
-        "author": {
-          "id": "1007413134",
-          "name": "Jim Fan",
-          "screenName": "DrJimFan",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 277,
-          "retweets": 10,
-          "replies": 13,
-          "quotes": 3,
-          "views": 47721,
-          "bookmarks": 31
-        },
-        "createdAt": "Fri Jul 24 14:24:43 +0000 2026",
-        "createdAtLocal": "2026-07-24 22:24",
-        "createdAtISO": "2026-07-24T14:24:43+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2080643682408321103",
-          "text": "For my first post, I’m sharing a letter @NVIDIA signed on why open models matter.\n\nAI will transform every industry, power every company, and be built by every country.\n\nOpen models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty.\n\nThe world needs both frontier closed models and frontier open models.\n\nhttps://t.co/AUKzoQ5Ikb",
-          "author": {
-            "screenName": "JensenHuang",
-            "name": "Jensen Huang"
-          }
-        }
-      },
-      {
-        "id": "2078150032575082616",
-        "text": "My morning ritual: coffee, then watch our robot assemble stuff. The model isn't fast, but it measures every grasp, obsesses over every alignment, and handles every piece like an heirloom. Watching is therapeutic, even meditative. Simple pleasure from the execution of a task well done.\n\nUncut, no speedup, end-to-end policy in one go.",
-        "author": {
-          "id": "1007413134",
-          "name": "Jim Fan",
-          "screenName": "DrJimFan",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 513,
-          "retweets": 48,
-          "replies": 45,
-          "quotes": 8,
-          "views": 63638,
-          "bookmarks": 126
-        },
-        "createdAt": "Fri Jul 17 16:09:12 +0000 2026",
-        "createdAtLocal": "2026-07-18 00:09",
-        "createdAtISO": "2026-07-17T16:09:12+00:00",
-        "media": [
-          {
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2078145436179980288/vid/avc1/3840x2160/rphy71DKwwWasqeg.mp4?tag=29",
-            "width": 3840,
-            "height": 2160
-          }
-        ],
-        "urls": [],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null
-      },
-      {
-        "id": "2078150496683213151",
-        "text": "How it's done:\n\nhttps://t.co/DanOfnw4xk",
-        "author": {
-          "id": "1007413134",
-          "name": "Jim Fan",
-          "screenName": "DrJimFan",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/1554922493101559808/SYSZhbcd_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 37,
-          "retweets": 5,
-          "replies": 11,
-          "quotes": 0,
-          "views": 16514,
-          "bookmarks": 11
-        },
-        "createdAt": "Fri Jul 17 16:11:03 +0000 2026",
-        "createdAtLocal": "2026-07-18 00:11",
-        "createdAtISO": "2026-07-17T16:11:03+00:00",
-        "media": [],
-        "urls": [
-          "https://x.com/DrJimFan/status/2077414142340988962?s=20"
-        ],
-        "isRetweet": false,
-        "retweetedBy": null,
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2077414142340988962",
-          "text": "We scaled a robot model natively to 8,000 timesteps of context, 5 minutes worth of muscle memory, with constant inference cost. Robot policies used to live their lives a few frames at a time (< 0.1 sec), instantly forgetting what just happened. We pushed to 3 orders of magnitude beyond SOTA. \n\nIntroducing RoboTTT. Test-Time Training (“TTT”) carries a tiny model *inside* the model. Every incoming sensor reading triggers one gradient step on that tiny core, so the history keeps getting compressed into its weights. The hidden state has a fixed size (literally a small neural net), so the robot can “grok” arbitrarily long experience with little overhead. Learning continues indefinitely after deployment.\n\nWe can then put an entire video in context as prompt! RoboTTT enables one-shot in-context learning from human video: in circuit board assembly, a human demonstrates a never-seen configuration once, and the robot imitates it faithfully. \n\nHumans drop things all the time, but we pick them up so fast that we don’t even notice. That reflex to fix is half of our physical competence. RoboTTT shows self-improvement on the fly: the robot is skilled at recovering from its own errors mid-episode, and each fix enters its context to inform the next move. The TTT core distills a general-purpose, failure-to-correction mapping from the training data.\n\nOne more thing. What excites me the most is a new Context Scaling Curve: from 128 to 8K timesteps, closed-loop performance hill-climbs steadily with no sign of saturation. 8K-context pretraining beats 1K by 62%. What LLM enjoys, robotics should too. Soon, even 1M context is not a fantasy. \n\nDeep dive in thread:",
-          "author": {
-            "screenName": "DrJimFan",
-            "name": "Jim Fan"
-          }
-        }
-      },
-      {
-        "id": "2077497317255737422",
-        "text": "I’m very excited by this test time training work for robotic learning! It’s an awesome collaboration between @StanfordSVL and @NVIDIARobotics !",
-        "author": {
-          "id": "130745589",
-          "name": "Fei-Fei Li",
-          "screenName": "drfeifei",
-          "profileImageUrl": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_normal.jpg",
-          "verified": true
-        },
-        "metrics": {
-          "likes": 585,
-          "retweets": 67,
-          "replies": 33,
-          "quotes": 6,
-          "views": 106483,
-          "bookmarks": 164
-        },
-        "createdAt": "Wed Jul 15 20:55:33 +0000 2026",
-        "createdAtLocal": "2026-07-16 04:55",
-        "createdAtISO": "2026-07-15T20:55:33+00:00",
-        "media": [],
-        "urls": [],
-        "isRetweet": true,
-        "retweetedBy": "DrJimFan",
-        "lang": "en",
-        "score": null,
-        "quotedTweet": {
-          "id": "2077414142340988962",
-          "text": "We scaled a robot model natively to 8,000 timesteps of context, 5 minutes worth of muscle memory, with constant inference cost. Robot policies used to live their lives a few frames at a time (< 0.1 sec), instantly forgetting what just happened. We pushed to 3 orders of magnitude beyond SOTA. \n\nIntroducing RoboTTT. Test-Time Training (“TTT”) carries a tiny model *inside* the model. Every incoming sensor reading triggers one gradient step on that tiny core, so the history keeps getting compressed into its weights. The hidden state has a fixed size (literally a small neural net), so the robot can “grok” arbitrarily long experience with little overhead. Learning continues indefinitely after deployment.\n\nWe can then put an entire video in context as prompt! RoboTTT enables one-shot in-context learning from human video: in circuit board assembly, a human demonstrates a never-seen configuration once, and the robot imitates it faithfully. \n\nHumans drop things all the time, but we pick them up so fast that we don’t even notice. That reflex to fix is half of our physical competence. RoboTTT shows self-improvement on the fly: the robot is skilled at recovering from its own errors mid-episode, and each fix enters its context to inform the next move. The TTT core distills a general-purpose, failure-to-correction mapping from the training data.\n\nOne more thing. What excites me the most is a new Context Scaling Curve: from 128 to 8K timesteps, closed-loop performance hill-climbs steadily with no sign of saturation. 8K-context pretraining beats 1K by 62%. What LLM enjoys, robotics should too. Soon, even 1M context is not a fantasy. \n\nDeep dive in thread:",
-          "author": {
-            "screenName": "DrJimFan",
-            "name": "Jim Fan"
           }
         }
       }

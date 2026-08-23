@@ -1,0 +1,29 @@
+{
+  "title": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering",
+  "summary": "Density modes provide a localized and interpretable summary of multimodal distributions, but their estimation under rigorous differential privacy constraints remains largely unexplored. We study differentially private recovery of density modes for multivariate distributions under local smoothness, curvature, and separation conditions. We propose DP-GRAMS, a mean-shift inspired method that performs noisy ascent on a differentially private score estimator. Assuming the density belongs locally to a Hölder class with smoothness parameter $β> 2$, our score estimator uses bias-reducing higher-order kernels, and then enforces privacy in the gradient ascent steps via gradient clipping and calibrated Gaussian noise. A private initialization scheme combines a density-aware utility with a suppression rule and, with $k\\asymp M\\log n$ draws over a public $h_{\\mathrm{DAP}}$-grid and suppression radius $ρ_{\\mathrm{init}}\\asymp (\\log n)^{-1/d}$, achieves high-probability coverage of the modal basins by successively suppressing selected local neighborhoods in competitive regions, while correlated noise across multiple starts enables joint release under a single $(\\varepsilon,δ)$-differential privacy guarantee. We prove that all population modes are recovered with high probability and establish asymptotic error rates of the form $O\\!\\left((\\tfrac{\\log n}{n})^{\\frac{2(β-1)}{d+2β}}\\right) + O\\!\\left((\\tfrac{\\mathrm{polylog}(n,δ)}{n^2\\varepsilon^2})^{\\frac{β-1}{d+β}}\\right)$. We also provide minimax lower bounds for private mode estimation, and show that our estimators are nearly optimal, up to a logarithmic factor in the MSE. We present two natural extensions: DP-PMS, a private modal-regression method, and DP-GRAMS-C, a clustering pipeline. Extensive experiments on synthetic and real data demonstrate favorable privacy-utility trade-offs relative to common baselines.",
+  "url": "http://arxiv.org/abs/2607.29675v1",
+  "authors": [
+    "Arkajyoti Bhattacharjee",
+    "Arnab Auddy"
+  ],
+  "published": "2026-07-31T17:55:02Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "multimodal",
+    "parameter",
+    "gradient",
+    "clustering"
+  ],
+  "summary_cn": "本文研究在严格差分隐私约束下，如何从多变量分布中恢复密度模态（即局部峰值），用于回归和聚类任务。该方法基于局部光滑性假设，提出非参数模态学习的隐私保护算法，兼顾统计效用与隐私保证。对AI产品经理而言，该技术可在用户数据敏感场景（如个性化推荐、健康分析）中实现可解释的分布洞察，同时满足合规要求，推动隐私增强型数据分析产品的落地。",
+  "pm_relevance": 6,
+  "concepts": [
+    "差分隐私",
+    "密度模态估计",
+    "非参数学习"
+  ],
+  "entities": [],
+  "patterns": [
+    "隐私保护机器学习"
+  ]
+}

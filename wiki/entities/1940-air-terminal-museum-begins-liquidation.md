@@ -1,6 +1,7 @@
 ---
 title: 1940 Air Terminal Museum Begins Liquidation
 created: 2026-05-23
+deprecated: true
 updated: 2026-05-23
 type: entity
 pillar: capabilities

@@ -1,0 +1,114 @@
+{
+  "daily_summary": {
+    "date": "2026-08-02",
+    "headline": "今日 AI 情报 · 2026-08-02",
+    "overview": "AI Agent 工具链与协作流程快速成熟",
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：模型能力, AI Agent, 桌面/本地化。",
+        "evidence": [
+          {
+            "id": "twitter_karpathy_2083749667410727319",
+            "title": "We're starting to leave the territory where you'd test an LLM by e.g. ",
+            "score": 1.0,
+            "url": "https://x.com/karpathy/status/2083749667410727319",
+            "reason": "社区关注度高（3420 stars）；高价值信号"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向有新的动态。",
+        "evidence": [
+          {
+            "id": "amarkgun",
+            "title": "amark/gun",
+            "score": 0.41,
+            "url": "https://github.com/amark/gun",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      }
+    ],
+    "narratives": [
+      {
+        "title": "AI Agent 工具链与协作流程快速成熟",
+        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Kaisel – Routes as Values. Dart 3 Native, Show HN: Minimal LLM Post-Training Exper。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "type": "paradigm_shift",
+        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      }
+    ],
+    "stats": "🤖 技术能力: 13 | 🔧 工具生态: 2",
+    "total_items": 15,
+    "high_value_count": 11,
+    "all_today_ids": [
+      {
+        "id": "twitter_karpathy_2083749667410727319",
+        "label": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a..."
+      },
+      {
+        "id": "twitter_elonmusk_2083709924236751300",
+        "label": "Made with Grok Imagine https://t.co/r0zG3rQNjb"
+      },
+      {
+        "id": "twitter_elonmusk_2083706250370449572",
+        "label": "Grok Imagine https://t.co/OVBEbvaMvl"
+      },
+      {
+        "id": "twitter_swyx_2083753582160191988",
+        "label": "one of my curses as organizer is i rarely get to attend the conference i run. so i basically 24/7 wa..."
+      },
+      {
+        "id": "lucidrainsdenoising-diffusion-pytorch",
+        "label": "lucidrains/denoising-diffusion-pytorch"
+      },
+      {
+        "id": "ai-financial-advice-is-surprisingly-good-especially-if-you-ask-right-questions",
+        "label": "AI financial advice is surprisingly good, especially if you ask right questions"
+      },
+      {
+        "id": "amarkgun",
+        "label": "amark/gun"
+      },
+      {
+        "id": "judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps",
+        "label": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps"
+      },
+      {
+        "id": "i-dont-recommend-tailwind-css",
+        "label": "I don't recommend Tailwind CSS"
+      },
+      {
+        "id": "sam-altman-is-still-making-the-case-for-parenting-via-chatgpt",
+        "label": "Sam Altman is still making the case for parenting via ChatGPT"
+      },
+      {
+        "id": "youtuber-hank-green-says-his-ai-usage-is-not-healthy",
+        "label": "YouTuber Hank Green says his AI usage is ‘not healthy’"
+      },
+      {
+        "id": "show-hn-minimal-llm-post-training-experiments-on-an-8gb-gpu-sft-dpo-grpo",
+        "label": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)"
+      },
+      {
+        "id": "explorative-modeling-train-on-the-best-of-k-guesses",
+        "label": "Explorative modeling: Train on the best of K guesses"
+      },
+      {
+        "id": "show-hn-costperprompt-live-ai-api-pricing-and-real-workload-cost-calculators",
+        "label": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators"
+      },
+      {
+        "id": "kaisel-routes-as-values-dart-3-native-router-for-flutter",
+        "label": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter"
+      }
+    ],
+    "date_bj": "2026-08-02 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-08-02 18:01:10"
+  }
+}

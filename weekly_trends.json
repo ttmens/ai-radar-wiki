@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-07-31T06:01:28.100631+08:00",
-  "days_analyzed": 84,
+  "generated_at": "2026-08-23T08:04:50.112206+08:00",
+  "days_analyzed": 89,
   "pillar_trends": {
     "capabilities": {
       "trend": "up",
       "delta": 2,
-      "current": 4,
-      "previous": 2,
+      "current": 3,
+      "previous": 1,
       "has_data": true
     },
     "patterns": {
-      "trend": "up",
-      "delta": 1,
-      "current": 3,
-      "previous": 2,
-      "has_data": true
-    },
-    "ecosystem": {
       "trend": "up",
       "delta": 1,
       "current": 4,
       "previous": 3,
       "has_data": true
     },
-    "business": {
-      "trend": "up",
-      "delta": 3,
-      "current": 3,
-      "previous": 0,
+    "ecosystem": {
+      "trend": "down",
+      "delta": -1,
+      "current": 1,
+      "previous": 2,
       "has_data": true
+    },
+    "business": {
+      "trend": "down",
+      "delta": -1,
+      "current": 0,
+      "previous": 1,
+      "has_data": false
     }
   },
   "narrative_chains": [
@@ -48,7 +48,13 @@
         "2026-07-14",
         "2026-07-16",
         "2026-07-17",
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-31",
+        "2026-08-01",
+        "2026-08-02",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-23"
       ],
       "instances": [
         {
@@ -354,6 +360,142 @@
               "pillar": "patterns"
             }
           ]
+        },
+        {
+          "date": "2026-07-31",
+          "title": "AI Agent 工具链与协作流程快速成熟",
+          "body": "今日6条情报涉及AI Agent及相关工具生态。典型项目包括：Anthropic says its own AI models breache, Show HN: What should the GUI for AI agen, Agent Skill to Force Docs in ASD-STE100 。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "type": "paradigm_shift",
+          "evidence": [
+            {
+              "id": "change2task-from-repository-changes-to-executable-coding-agent-tasks-and-environ",
+              "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks ",
+              "score": 0.45,
+              "url": "http://arxiv.org/abs/2607.28591v1",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            }
+          ]
+        },
+        {
+          "date": "2026-08-01",
+          "title": "AI Agent 工具链与协作流程快速成熟",
+          "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：DeepSeek Flash Is Absolutely Mind-Blowin, qm – Multiplayer agent harness for work。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "type": "paradigm_shift",
+          "evidence": [
+            {
+              "id": "qm-multiplayer-agent-harness-for-work",
+              "title": "qm – Multiplayer agent harness for work",
+              "score": 0.58,
+              "url": "https://news.ycombinator.com/item?id=49126604",
+              "reason": "高价值信号",
+              "pillar": "patterns"
+            },
+            {
+              "id": "openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok",
+              "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "13-models-and-4-agents-on-swe-tasks-go-java-python-rust-ts",
+              "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
+              "score": 0.15,
+              "url": "https://news.ycombinator.com/item?id=49124336",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "show-hn-how-to-build-and-self-host-a-code-review-agent",
+              "title": "Show HN: How to build and self-host a code review agent",
+              "score": 0.15,
+              "url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            }
+          ]
+        },
+        {
+          "date": "2026-08-02",
+          "title": "AI Agent 工具链与协作流程快速成熟",
+          "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Kaisel – Routes as Values. Dart 3 Native, Show HN: Minimal LLM Post-Training Exper。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "type": "paradigm_shift",
+          "evidence": [
+            {
+              "id": "twitter_karpathy_2083749667410727319",
+              "title": "We're starting to leave the territory where you'd test an LLM by e.g. ",
+              "score": 1.0,
+              "url": "https://x.com/karpathy/status/2083749667410727319",
+              "reason": "社区关注度高（3420 stars）；高价值信号",
+              "pillar": "capabilities"
+            }
+          ]
+        },
+        {
+          "date": "2026-08-03",
+          "title": "AI Agent 工具链与协作流程快速成熟",
+          "body": "今日5条情报涉及AI Agent及相关工具生态。典型项目包括：Sakana Namazu: An LLM API with Japanese-, AgentHPOBench: A Benchmark For Evaluatin, When Does On-Policy Interaction Help? Re。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "type": "paradigm_shift",
+          "evidence": [
+            {
+              "id": "agenthpobench-a-benchmark-for-evaluating-llm-agents-as-sequential-hyperparameter",
+              "title": "AgentHPOBench: A Benchmark For Evaluating LLM Agents as Sequential Hyp",
+              "score": 0.43,
+              "url": "http://arxiv.org/abs/2607.29626v1",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            }
+          ]
+        },
+        {
+          "date": "2026-08-04",
+          "title": "AI Agent 工具链与协作流程快速成熟",
+          "body": "今日6条情报涉及AI Agent及相关工具生态。典型项目包括：A Taxonomy of Cognitive Capability Gaps , AtumAI: A Principled Framework for Agent, Show HN: Nightcrawler – A local AI pente。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "type": "paradigm_shift",
+          "evidence": [
+            {
+              "id": "twitter_weights_biases_2084486842540536296",
+              "title": "my agent babysits my training runs so I don't have to. https://t.co/tt",
+              "score": 0.7,
+              "url": "https://x.com/weights_biases/status/2084486842540536296",
+              "reason": "高价值信号",
+              "pillar": "capabilities"
+            }
+          ]
+        },
+        {
+          "date": "2026-08-23",
+          "title": "AI Agent 工具链与协作流程快速成熟",
+          "body": "今日8条情报涉及AI Agent及相关工具生态。典型项目包括：holaboss-ai/holaOS, bojieli/ai-agent-book, Inherent, founded by DeepMind alumni, sa。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "type": "paradigm_shift",
+          "evidence": [
+            {
+              "id": "midtool-mid-training-data-synthesis-for-agentic-tool-use",
+              "title": "MidTool: Mid-training Data Synthesis for Agentic Tool Use",
+              "score": 0.26,
+              "url": "http://arxiv.org/abs/2608.20314v1",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "ai4ai-bench-benchmarking-llm-agents-in-algorithmic-design-for-recursive-self-imp",
+              "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursi",
+              "score": 0.26,
+              "url": "http://arxiv.org/abs/2608.20318v1",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "an-agentic-approach-for-active-data-collection-travel-behavior-modeling-and-weat",
+              "title": "An Agentic Approach for Active Data Collection, Travel Behavior Modeli",
+              "score": 0.26,
+              "url": "http://arxiv.org/abs/2608.20320v1",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            }
+          ]
         }
       ],
       "lifecycle": "declining"
@@ -371,7 +513,11 @@
         "2026-07-11",
         "2026-07-14",
         "2026-07-16",
-        "2026-07-17"
+        "2026-07-17",
+        "2026-07-31",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-23"
       ],
       "instances": [
         {
@@ -579,6 +725,69 @@
               "url": "https://x.com/elonmusk/status/2077906757641183445",
               "reason": "社区关注度高（13718 stars）；里程碑式进展；高价值信号",
               "pillar": "business"
+            }
+          ]
+        },
+        {
+          "date": "2026-07-31",
+          "title": "AI商业动态：资本与市场持续升温",
+          "body": "今日2条情报涉及AI商业动态。包括：Dili raises $21.7M to bring AI complianc, OSReward: Instituting Standardized Evalu。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+          "type": "validation",
+          "evidence": [
+            {
+              "id": "change2task-from-repository-changes-to-executable-coding-agent-tasks-and-environ",
+              "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks ",
+              "score": 0.45,
+              "url": "http://arxiv.org/abs/2607.28591v1",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            }
+          ]
+        },
+        {
+          "date": "2026-08-03",
+          "title": "AI商业动态：资本与市场持续升温",
+          "body": "今日1条情报涉及AI商业动态。包括：CENDRe: Concept Extraction with Natural 。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+          "type": "validation",
+          "evidence": []
+        },
+        {
+          "date": "2026-08-04",
+          "title": "AI商业动态：资本与市场持续升温",
+          "body": "今日2条情报涉及AI商业动态。包括：Design Arena creators raise $7.9 million, A Marc Benioff-backed startup thinks AI 。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+          "type": "validation",
+          "evidence": [
+            {
+              "id": "atumai-a-principled-framework-for-agentic-generation-of-datacenter-control-plane",
+              "title": "AtumAI: A Principled Framework for Agentic Generation of Datacenter Co",
+              "score": 0.45,
+              "url": "http://arxiv.org/abs/2608.02569v1",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
+            },
+            {
+              "id": "show-hn-product-analytics-and-evals-for-agent-sessions-on-your-mcp",
+              "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+              "score": 0.33,
+              "url": "https://news.ycombinator.com/item?id=49157807",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
+            }
+          ]
+        },
+        {
+          "date": "2026-08-23",
+          "title": "AI商业动态：资本与市场持续升温",
+          "body": "今日1条情报涉及AI商业动态。包括：The DOJ is investigating a16z. What does。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+          "type": "validation",
+          "evidence": [
+            {
+              "id": "semantica-agisemantica",
+              "title": "semantica-agi/semantica",
+              "score": 0.41,
+              "url": "https://github.com/semantica-agi/semantica",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
             }
           ]
         }
@@ -852,7 +1061,8 @@
         "2026-07-08",
         "2026-07-16",
         "2026-07-17",
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-31"
       ],
       "instances": [
         {
@@ -1022,9 +1232,25 @@
               "pillar": "capabilities"
             }
           ]
+        },
+        {
+          "date": "2026-07-31",
+          "title": "AI安全与信任正成为规模化部署的关键挑战",
+          "body": "今日4条情报涉及AI安全与信任议题。关键事件包括：Google says it fixed more Chrome bugs in, Okta buys AI security startup Permiso — , In the Hugging Face breach, OpenAI&#8217。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+          "type": "bottleneck",
+          "evidence": [
+            {
+              "id": "gcc-steering-committee-announces-ai-policy",
+              "title": "GCC steering committee announces AI policy",
+              "score": 0.56,
+              "url": "https://news.ycombinator.com/item?id=49108685",
+              "reason": "高价值信号",
+              "pillar": "ecosystem"
+            }
+          ]
         }
       ],
-      "lifecycle": "hot"
+      "lifecycle": "declining"
     },
     {
       "title": "AI从对话式向自主操作系统级控制演进",
@@ -1270,5 +1496,5 @@
   ],
   "contradictions": [],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-07-31**（84天），累计 **1961** 条情报。 焦点领域：**🤖 技术能力**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：🤖 技术能力呈上升趋势；📱 产品模式呈上升趋势；🔧 工具生态呈上升趋势；💰 商业动态呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-08-23**（89天），累计 **2180** 条情报。 焦点领域：**🤖 技术能力**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：🤖 技术能力呈上升趋势；📱 产品模式呈上升趋势"
 }

@@ -20,6 +20,13 @@
 
 ## 运行日志
 
+## [2026-08-23 08:04] Evolution Run
+- Deprecated: 5 nodes
+- Pillar distribution: {'capabilities': 1850, 'ecosystem': 498, 'patterns': 540, 'business': 398, 'unknown': 4}
+- Top tags: {'capabilities': 1777, 'discussion': 1344, 'hacker-news': 1344, 'research': 768, 'news': 724}
+  🗑️ Deprecated: 1940-air-terminal-museum-begins-liquidation.md (92d old, score=0.135)  🗑️ Deprecated: at-techcrunch-disrupt-2026-all-your-m038a-ques.md (108d old, score=0.1)  🗑️ Deprecated: aids-creeps-back-in-parts-of-zambia-a-year-after.md (105d old, score=0.12)  🗑️ Deprecated: magical-realism-northern-exposure-25-years-later-2015.md (97d old, score=0.085)  🗑️ Deprecated: spacex-may-spend-up-to-119b-on-8216terafab82.md (108d old, score=0.1)  📊 5 nodes deprecated (90d+ and score < 0.15)
+
+
 ## [2026-07-31 06:01] Evolution Run
 - Deprecated: 0 nodes
 - Pillar distribution: {'capabilities': 1733, 'ecosystem': 475, 'patterns': 513, 'business': 394, 'unknown': 4}

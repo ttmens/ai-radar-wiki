@@ -1,6 +1,7 @@
 ---
 title: Magical Realism: “Northern Exposure” 25 Years Later (2015)
 created: 2026-05-18
+deprecated: true
 updated: 2026-05-18
 type: entity
 pillar: capabilities

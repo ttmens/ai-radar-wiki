@@ -1,0 +1,41 @@
+{
+  "title": "GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning",
+  "summary": "Optimization-based latent reasoning improves large language model outputs by optimizing instance-specific continuous states at test time while keeping model parameters frozen. Existing methods, however, typically connect these states to the reasoning trajectory through decoded tokens, making sequence-level credit assignment indirect and obscuring how latent updates shape subsequent reasoning. We introduce GradCuit (gradient through circuit), which inserts optimizable latent states at a selected Transformer layer between the hidden representations of the prompt and the generated continuation. Causal self-attention provides every continuation-token log-probability with a differentiable path to every preceding latent state through the remaining Transformer blocks, enabling reward-weighted gradients from the entire continuation to be assigned directly to the latents. Across five instruction-tuned backbones, three reasoning benchmarks, and two answer formats, GradCuit achieves an average accuracy of 64.5%, outperforming chain-of-thought prompting by 6.6 percentage points and the strongest competing method by 2.4 points. GradCuit also demonstrates greater robustness: across seven learning-rate settings, it consistently outperforms LatentSeek while reducing the standard deviation of accuracy from 1.53 to 0.82, and even its random-walk variant remains competitive with LatentSeek. For interpretability, token-level gradient attribution reveals that latent influence concentrates on reasoning-connector tokens, while layer analysis identifies early-to-middle Transformer layers as the most effective optimization space. By directly optimizing internal reasoning from outcome feedback, GradCuit opens a new axis of robust and interpretable test-time scaling, where LLMs adapt how they reason rather than merely regenerate, sample, or rerank outputs.",
+  "url": "http://arxiv.org/abs/2608.02585v1",
+  "authors": [
+    "Zhaoxin Yu",
+    "Qi Shen",
+    "Hengli Li",
+    "Zhaowei Zhang",
+    "Song-Chun Zhu"
+  ],
+  "published": "2026-08-03T17:55:24Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "benchmark",
+    "reasoning",
+    "rerank",
+    "transformer",
+    "attention",
+    "parameter",
+    "accuracy",
+    "gradient",
+    "optimization"
+  ],
+  "summary_cn": "GradCuit 提出了一种基于信用分配的梯度流方法，用于测试时的潜在空间推理。与现有方法依赖解码 token 连接状态不同，它直接优化实例特定的连续状态，保持模型参数冻结，从而提升大模型输出的鲁棒性和可解释性。该技术无需微调即可增强模型推理能力，对产品经理而言，意味着更低的部署成本和更高的输出可控性，特别适用于需要稳定推理的生成式 AI 产品。其创新点在于通过梯度信用分配实现更高效的优化路径，并支持对推理过程的解释，为模型迭代提供了新方向。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Test-Time Optimization",
+    "Latent Reasoning",
+    "Gradient Credit Assignment"
+  ],
+  "entities": [
+    "GradCuit"
+  ],
+  "patterns": [
+    "Test-Time Adaptation",
+    "Optimization-Based Reasoning"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
+  "summary": "Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a result, scientists and AI agents need to locate relevant information, verify their provenance, and assemble cross-paper answers manually. We present AskChem, a claim-centered infrastructure for cross-paper chemistry search. AskChem changes the unit of retrieval from the paper to the provenance-carrying claim: each paper is converted into atomic, typed claims, each grounded by a source DOI and a verbatim quote or an explicit evidence locator. Over this shared claim store, AskChem exposes complementary structures for search and synthesis: a stabilized faceted taxonomy for hierarchical retrieval and browsing, an evidence graph linking claims through relations, and an exploratory living taxonomy that situates indexed papers under scientific principles. AskChem currently indexes 2.4M claims from 147K papers and provides a web interface, as well as REST, SDK, and MCP access for AI agents. On AskChem-Bench, grounding a GPT-5.5 reader in AskChem yields 100% resolvable DOIs, compared with 88.3% without retrieval, and the highest citation density among five tested systems. AskChem is live at https://askchem.org.",
+  "url": "http://arxiv.org/abs/2607.28618v1",
+  "authors": [
+    "Bing Yan",
+    "Gregory Wolfe",
+    "Stefano Martiniani",
+    "Kyunghyun Cho"
+  ],
+  "published": "2026-07-30T17:59:11Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "sdk",
+    "eval",
+    "mcp",
+    "infrastructure"
+  ],
+  "summary_cn": "AskChem 提出一种以声明为中心的基础设施，用于化学文献综述。传统文献检索仅返回文档列表，科学家和 AI 代理需自行定位分散的发现、验证来源并进行整合。该技术将文献拆解为可验证的声明单元，支持更精准的信息定位、来源追溯和综合生成，提升化学研究与 AI 辅助综述的效率与可信度。其产品创新在于将检索粒度从文档级降至声明级，并强化 provenance（溯源）机制，为科学文献知识管理提供新范式，兼具学术工具和 AI 数据基础设施的商业价值。",
+  "pm_relevance": 8,
+  "concepts": [
+    "Claim-Centered Retrieval",
+    "Provenance Verification",
+    "Literature Synthesis"
+  ],
+  "entities": [
+    "AskChem"
+  ],
+  "patterns": [
+    "Retrieval-Augmented Generation",
+    "Source-Verified AI"
+  ]
+}

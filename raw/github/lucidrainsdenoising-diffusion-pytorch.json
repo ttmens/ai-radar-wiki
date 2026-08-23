@@ -1,0 +1,32 @@
+{
+  "name": "lucidrains/denoising-diffusion-pytorch",
+  "description": "Implementation of Denoising Diffusion Probabilistic Model in Pytorch",
+  "stars": 10665,
+  "language": "Python",
+  "topics": [
+    "artificial-intelligence",
+    "deep-learning",
+    "generative-model",
+    "score-matching"
+  ],
+  "url": "https://github.com/lucidrains/denoising-diffusion-pytorch",
+  "created": "2020-08-26T02:22:10Z",
+  "tag": "GitHub",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "该项目是 Denoising Diffusion Probabilistic Model（去噪扩散概率模型）的 PyTorch 开源实现，由开发者 lucidrains 维护。它提供了简洁、模块化的训练与采样流程，支持多种扩散模型变体，便于快速复现和二次开发。对于 AI 产品经理而言，该库降低了生成式图像模型的技术门槛，可用于快速原型验证、定制化图像生成功能开发，以及探索扩散模型在创意工具、内容生成等场景的商业落地。其工程化封装和社区活跃度也使其成为产品技术选型和团队学习的重要参考。",
+  "pm_relevance": 6,
+  "concepts": [
+    "Denoising Diffusion Probabilistic Model",
+    "PyTorch",
+    "生成式AI"
+  ],
+  "entities": [
+    "lucidrains",
+    "denoising-diffusion-pytorch"
+  ],
+  "patterns": [
+    "开源模型实现",
+    "Diffusion Model"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "When Does On-Policy Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning",
+  "summary": "Imitation learning (IL)---training an agent to replicate expert behavior from demonstrations---underpins applications from robotics to language model training. Standard approaches such as Behavior Cloning (BC) are known to suffer from compounding errors and performance plateaus, particularly when the learner cannot perfectly represent the expert's policy (as is typical, e.g., in distillation). Two interventions are widely understood empirically to improve performance: querying the expert interactively along the learner's own trajectories, and using value function estimation en route to generating a policy rather than directly fitting the expert's full action distribution.\n  We investigate the nature of these improvements and their potentially surprising interplay. Our main finding is that expert interaction relaxes the representational demands on the learner: one only needs a model capable of realizing the expert's value function, bypassing the (often stricter) requirement of realizing the expert's policy itself. Concretely, we introduce OVI, an interactive on-policy IL algorithm that is statistically efficient whenever the learner can represent the expert's value function and computationally efficient given access to a linear maximization oracle. We complement this with a negative result showing that interaction is necessary. Namely, without stronger assumptions beyond expert-value realizability alone, any offline IL algorithm must scale with the complexity of the expert policy class. Our findings bear out empirically. OVI outperforms offline policy-based (BC), interactive policy-based (DAgger), and offline value-based IL methods, with the largest gains when the learner network is substantially less expressive than the expert's.",
+  "url": "http://arxiv.org/abs/2607.29617v1",
+  "authors": [
+    "Luca Viano",
+    "Antoine Moulin",
+    "Audrey Huang",
+    "Volkan Cevher",
+    "Philip Amortila"
+  ],
+  "published": "2026-07-31T16:52:47Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "distillation",
+    "model training"
+  ],
+  "summary_cn": "该论文研究模仿学习中“何时使用在线交互策略（on-policy interaction）能带来收益”的问题。标准行为克隆方法因泛化不足和复合误差导致性能瓶颈，论文通过价值学习方法分析表示权衡，揭示在特定条件下引入在线交互可以显著提升学习效率和鲁棒性。这对机器人技能获取和语言模型训练等场景具有直接指导意义，帮助产品团队判断何时值得增加交互成本以优化智能体行为。",
+  "pm_relevance": 7,
+  "concepts": [
+    "Imitation Learning",
+    "Behavior Cloning",
+    "Representational Tradeoffs"
+  ],
+  "entities": [],
+  "patterns": [
+    "On-Policy Interaction",
+    "Value-Based Learning"
+  ]
+}

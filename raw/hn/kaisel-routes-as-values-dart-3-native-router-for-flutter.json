@@ -1,0 +1,25 @@
+{
+  "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+  "score": 46,
+  "comments": 6,
+  "url": "https://kaisel.dev/",
+  "hn_url": "https://news.ycombinator.com/item?id=49135985",
+  "tag": "HN",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "Kaisel 是一个面向 Flutter 的 Dart 3 原生路由器，核心设计理念是“路由即值（Routes as Values）”，将导航配置抽象为可组合、可测试的值对象，而非传统命令式调用。该方案利用 Dart 3 的现代语言特性，提升类型安全和声明式导航体验，有助于简化复杂页面流转和状态管理。对于 AI 产品经理而言，此类基础设施虽非 AI 原生，但可为集成 AI 驱动的动态界面跳转（如对话式导航）提供更稳健的前端基础，同时降低维护成本，值得关注其在智能体交互场景中的潜在适配性。",
+  "pm_relevance": 3,
+  "concepts": [
+    "Route-as-Value",
+    "Declarative Navigation",
+    "Dart 3"
+  ],
+  "entities": [
+    "Kaisel",
+    "Flutter",
+    "Dart"
+  ],
+  "patterns": [
+    "Declarative Routing"
+  ]
+}

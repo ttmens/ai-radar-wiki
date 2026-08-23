@@ -1,6 +1,7 @@
 ---
 title: At TechCrunch Disrupt 2026, all your M&#038;A questions will be answered
 created: 2026-05-07
+deprecated: true
 updated: 2026-05-07
 type: entity
 pillar: business
