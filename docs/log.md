@@ -3421,3 +3421,7 @@
 - create: show-hn-check-if-any-of-the-656m-in-unclaimed-royalties-at-the-mlc-is-yours.md
 - create: show-hn-declarative-forms-await-an-object-the-way-prompt-awaits-a-string.md
 - create: show-hn-parqdb-vector-search-in-the-browser-from-parquet-over-http.md
+
+## [2026-08-23 12:01] sync v3 | 2 new | pillars: {'capabilities': 2}
+- create: nanogpt-speedrun-frontier.md
+- create: early-life-stress-leaves-a-scar-inside-brain-cells-in-mice.md

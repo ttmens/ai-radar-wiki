@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-08-23 | Total pages: 3353
+> Last updated: 2026-08-23 | Total pages: 3355
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -323,6 +323,7 @@
 - [[duckduckgo-search-saw-28-more-visits-after-google-said-people-love-ai-mode.md]] DuckDuckGo search saw 28% more visits after Google said people love AI mode `pillar:capabilities` `score:0.68`
 - [[eagle-31-collaboration-between-the-eagle-team-vllm-team-and-torchspec-team.md]] Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team `pillar:capabilities` `score:0.38`
 - [[ear-training-practice-exercises.md]] Ear Training Practice Exercises `pillar:capabilities` `score:0.445`
+- [[early-life-stress-leaves-a-scar-inside-brain-cells-in-mice.md]] Early-life stress leaves a 'scar' inside brain cells in mice `pillar:capabilities` `score:0.355`
 - [[eeg-shows-brain-can-simultaneous-encode-two-speech-streams.md]] EEG shows brain can simultaneous encode two speech streams `pillar:capabilities` `score:0.395`
 - [[efficient-and-training-free-single-image-diffusion-models.md]] Efficient and Training-Free Single-Image Diffusion Models `pillar:capabilities` `score:0.33`
 - [[elevated-error-rate-across-multiple-models.md]] Elevated error rate across multiple models `pillar:capabilities` `score:0.545`
@@ -669,6 +670,7 @@
 - [[my-two-year-old-taught-me-constraint-solving.md]] My two year old taught me constraint solving `pillar:capabilities` `score:0.295`
 - [[mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east.md]] Mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east? `pillar:capabilities` `score:0.26`
 - [[nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead.md]] NanoClaw creator turns down $20M buyout offer, raises $12M seed instead `pillar:capabilities` `score:0.305`
+- [[nanogpt-speedrun-frontier.md]] NanoGPT Speedrun Frontier `pillar:capabilities` `score:0.205`
 - [[nativ-run-frontier-open-models-locally-on-your-mac.md]] Nativ: Run frontier open models locally on your Mac `pillar:capabilities` `score:0.48`
 - [[navier-stokes-fluid-simulation-explained-with-godot-game-engine.md]] Navier-Stokes fluid simulation explained with Godot game engine `pillar:capabilities` `score:0.205`
 - [[neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi.md]] NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI `pillar:capabilities` `score:0.305`
