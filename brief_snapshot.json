@@ -1,297 +1,33 @@
 {
-  "date": "2026-08-23",
-  "generated_at": "2026-08-23T18:02:01.557035+08:00",
-  "item_count": 26,
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T00:02:05.224834+08:00",
+  "item_count": 2,
   "items": [
     {
-      "id": "show-hn-i-trained-a-125m-model-to-autocomplete-piano-on-device",
-      "label": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.475,
-      "pillar": "patterns",
-      "type": "showhn",
-      "source_type": "showhn",
-      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "ai-boosted-homework-scores-then-exam-scores-dropped-study",
-      "label": "AI boosted homework scores, then exam scores dropped: study",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.455,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49357530",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "show-hn-huzzah-a-novel-approach-to-coding-with-ai",
-      "label": "Show HN: Huzzah – a novel approach to coding with AI",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.455,
-      "pillar": "capabilities",
-      "type": "showhn",
-      "source_type": "showhn",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "munder-difflin-agent-harness-to-run-an-office-of-your-clones",
-      "label": "Munder Difflin – Agent harness to run an office of your clones",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.425,
-      "pillar": "patterns",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49398152",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "holaboss-aiholaos",
-      "label": "holaboss-ai/holaOS",
-      "summary": "Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Claude Code, Codex), any model, or BYOK. Set up in clicks, not months. Local-first: your data never leav",
-      "pm_score": 0.405,
-      "pillar": "patterns",
-      "type": "github",
-      "source_type": "github",
-      "url": "https://github.com/holaboss-ai/holaOS",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "esenginedeepseek-reasonix",
-      "label": "esengine/DeepSeek-Reasonix",
-      "summary": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "pm_score": 0.405,
-      "pillar": "patterns",
-      "type": "github",
-      "source_type": "github",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "wanshuiyinauto-claude-code-research-in-sleep",
-      "label": "wanshuiyin/Auto-claude-code-research-in-sleep",
-      "summary": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
-      "pm_score": 0.405,
-      "pillar": "patterns",
-      "type": "github",
-      "source_type": "github",
-      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "alexsjonesllmfit",
-      "label": "AlexsJones/llmfit",
-      "summary": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "pm_score": 0.405,
-      "pillar": "capabilities",
-      "type": "github",
-      "source_type": "github",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "bojieliai-agent-book",
-      "label": "bojieli/ai-agent-book",
-      "summary": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "pm_score": 0.405,
-      "pillar": "patterns",
-      "type": "github",
-      "source_type": "github",
-      "url": "https://github.com/bojieli/ai-agent-book",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "semantica-agisemantica",
-      "label": "semantica-agi/semantica",
-      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "pm_score": 0.405,
-      "pillar": "ecosystem",
-      "type": "github",
-      "source_type": "github",
-      "url": "https://github.com/semantica-agi/semantica",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "a-week-of-using-codex-more-than-claude",
-      "label": "A week of using Codex more than Claude",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.375,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49393051",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "anthropic-appears-to-be-ab-testing-reduced-effort-levels-in-claude-code",
-      "label": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.375,
-      "pillar": "ecosystem",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49401549",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "early-life-stress-leaves-a-scar-inside-brain-cells-in-mice",
-      "label": "Early-life stress leaves a 'scar' inside brain cells in mice",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.355,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49380303",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "openai-says-california-should-strengthen-its-ai-safety-bill",
-      "label": "OpenAI says California should strengthen its AI safety bill",
-      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "id": "is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated",
+      "label": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
       "pm_score": 0.305,
       "pillar": "capabilities",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "date": "2026-08-23"
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "date": "2026-08-24"
     },
     {
-      "id": "nvidia-partners-with-data-center-developer-cloverleaf",
-      "label": "Nvidia partners with data center developer Cloverleaf",
-      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+      "id": "flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash",
+      "label": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
       "pm_score": 0.305,
       "pillar": "capabilities",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "starcloud-raises-250-million-for-orbital-data-centers-as-launch-options-dry-up",
-      "label": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "There's about to be a big fight to secure access to space.",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "frontier-ai-labs-still-won8217t-say-how-they8217d-contain-a-rogue-model",
-      "label": "Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model",
-      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "inherent-founded-by-deepmind-alumni-says-its-ai-8216teammate8217-just-outperform",
-      "label": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just ou",
-      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-      "pm_score": 0.305,
-      "pillar": "patterns",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero",
-      "label": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital",
-      "label": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investiga",
-      "pm_score": 0.305,
-      "pillar": "ecosystem",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors",
-      "label": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "how-thailand-resisted-colonization",
-      "label": "How Thailand Resisted Colonization",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49392099",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "guess-which-of-these-llm-outputs-is-watermarked",
-      "label": "Guess which of these LLM outputs is watermarked",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49374729",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "autolith-a-programming-agent-with-a-live-runtime",
-      "label": "Autolith: A programming agent with a live runtime",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "patterns",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49376197",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "anthropics-opus-46-is-a-smut-machine",
-      "label": "Anthropic’s Opus 4.6 is a smut-machine",
-      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "date": "2026-08-23"
-    },
-    {
-      "id": "why-your-local-llm-feels-dumber-than-it-is",
-      "label": "Why your local LLM feels dumber than it is",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49402232",
-      "date": "2026-08-23"
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "date": "2026-08-24"
     }
   ],
   "graph_totals": {
-    "real_nodes": 7774,
-    "edges": 8153
+    "real_nodes": 7776,
+    "edges": 8155
   }
 }

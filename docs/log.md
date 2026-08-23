@@ -3428,3 +3428,7 @@
 
 ## [2026-08-23 18:02] sync v3 | 1 new | pillars: {'patterns': 1}
 - create: tragically-as-many-as-9625-out-of-every-10k-individuals-may-be-neurotypical.md
+
+## [2026-08-24 00:02] sync v3 | 2 new | pillars: {'capabilities': 2}
+- create: flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash.md
+- create: is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated.md

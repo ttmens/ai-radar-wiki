@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-08-23 | Total pages: 3356
+> Last updated: 2026-08-24 | Total pages: 3358
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -360,6 +360,7 @@
 - [[fixed-three-bugs-that-made-qwen35-122b-a-daily-driver-on-mac-studio.md]] Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio `pillar:capabilities` `score:0.43`
 - [[flash-msa-accelerating-million-token-training-with-sparse-attention-kernels.md]] Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels `pillar:capabilities` `score:0.33`
 - [[flint-a-visualization-language-for-the-ai-era.md]] Flint: A Visualization Language for the AI Era `pillar:capabilities` `score:0.305`
+- [[flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash.md]] Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash `pillar:capabilities` `score:0.305`
 - [[flock-chilling-effects-long-islands-emerging-open-air-prison.md]] Flock – Chilling Effects: Long Island's Emerging Open-Air Prison `pillar:capabilities` `score:0.085`
 - [[flux-3-x-mimic-the-next-generation-of-video-action-models.md]] Flux 3 X Mimic: The Next Generation of Video-Action Models `pillar:capabilities` `score:0.565`
 - [[ford-rehires-350-engineers-after-ai-fails-to-preserve-expertise-or-train-juniors.md]] Ford rehires 350 engineers after AI fails to preserve expertise or train juniors `pillar:capabilities` `score:0.55`
@@ -536,6 +537,7 @@
 - [[irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-ne.md]] IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you `pillar:capabilities` `score:0.48`
 - [[is-ai-causing-a-repeat-of-front-ends-lost-decade.md]] Is AI causing a repeat of Front end's Lost Decade? `pillar:capabilities` `score:0.515`
 - [[is-ai-reasoning-right-for-the-wrong-reasons.md]] Is AI reasoning right for the wrong reasons? `pillar:capabilities` `score:0.55`
+- [[is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated.md]] Is it legal to train AI models on copyrighted books? It’s complicated `pillar:capabilities` `score:0.305`
 - [[is-one-layer-enough-a-single-transformer-layer-matches-full-parameter-rl-train.md]] Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train `pillar:capabilities` `score:0.38`
 - [[is-silicon-valley-ready-to-put-robots-in-people8217s-homes-hello-robot-is.md]] Is Silicon Valley ready to put robots in people&#8217;s homes? Hello Robot is. `pillar:capabilities` `score:0.515`
 - [[is-the-us-government8217s-anthropic-ban-accidentally-helping-the-brand.md]] Is the US government&#8217;s Anthropic ban accidentally helping the brand? `pillar:capabilities` `score:0.48`
