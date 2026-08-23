@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-08-23 | Total pages: 3355
+> Last updated: 2026-08-23 | Total pages: 3356
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -2304,6 +2304,7 @@
 - [[there-will-come-soft-rains-1950-pdf.md]] There Will Come Soft Rains (1950) [pdf] `pillar:patterns` `score:0.495`
 - [[these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone.md]] These two founders left Goldman and Meta to build voice AI for markets everyone `pillar:patterns` `score:0.48`
 - [[this-9-key-physically-locks-your-most-addictive-apps.md]] This $9 key physically locks your most addictive apps `pillar:patterns` `score:0.41`
+- [[tragically-as-many-as-9625-out-of-every-10k-individuals-may-be-neurotypical.md]] Tragically, as many as 9625 out of every 10k individuals may be neurotypical `pillar:patterns` `score:0.205`
 - [[triple-dragon-fractal-2020.md]] Triple Dragon Fractal (2020) `pillar:patterns` `score:0.225`
 - [[turn-your-singing-voice-into-printable-notes-in-the-browser.md]] Turn your singing voice into printable notes (in the browser) `pillar:patterns` `score:0.33`
 - [[unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant.md]] Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't `pillar:patterns` `score:0.33`

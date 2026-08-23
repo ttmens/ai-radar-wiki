@@ -3425,3 +3425,6 @@
 ## [2026-08-23 12:01] sync v3 | 2 new | pillars: {'capabilities': 2}
 - create: nanogpt-speedrun-frontier.md
 - create: early-life-stress-leaves-a-scar-inside-brain-cells-in-mice.md
+
+## [2026-08-23 18:02] sync v3 | 1 new | pillars: {'patterns': 1}
+- create: tragically-as-many-as-9625-out-of-every-10k-individuals-may-be-neurotypical.md
