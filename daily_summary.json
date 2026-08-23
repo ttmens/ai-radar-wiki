@@ -2,7 +2,7 @@
   "daily_summary": {
     "date": "2026-08-24",
     "headline": "今日 AI 情报 · 2026-08-24",
-    "overview": "今日共采集 2 条情报",
+    "overview": "今日共采集 10 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -10,10 +10,25 @@
         "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated",
-            "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+            "id": "i-spent-266-and-four-ai-models-to-own-my-tablet-glm-53-finished-it-in-a-day",
+            "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it ",
+            "score": 0.51,
+            "url": "https://news.ycombinator.com/item?id=49409073",
+            "reason": "高价值信号"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日📱 产品模式方向有新的动态。",
+        "evidence": [
+          {
+            "id": "my-agentmd-to-improve-llm-assisted-code-quality",
+            "title": "My agent.md to improve LLM-assisted code quality",
+            "score": 0.26,
+            "url": "https://news.ycombinator.com/item?id=49410932",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -21,20 +36,52 @@
       }
     ],
     "narratives": [],
-    "stats": "🤖 技术能力: 2",
-    "total_items": 2,
-    "high_value_count": 2,
+    "stats": "🤖 技术能力: 9 | 📱 产品模式: 1",
+    "total_items": 10,
+    "high_value_count": 7,
     "all_today_ids": [
+      {
+        "id": "i-spent-266-and-four-ai-models-to-own-my-tablet-glm-53-finished-it-in-a-day",
+        "label": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day"
+      },
+      {
+        "id": "how-complex-systems-fail-1998",
+        "label": "How Complex Systems Fail (1998)"
+      },
       {
         "id": "is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated",
         "label": "Is it legal to train AI models on copyrighted books? It’s complicated"
       },
       {
+        "id": "anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-tools-thrive",
+        "label": "Anthropic's best AI model struggles to attract users as cheaper tools thrive"
+      },
+      {
         "id": "flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash",
         "label": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash"
+      },
+      {
+        "id": "who8217s-behind-the-new-stealth-model-ox-alpha",
+        "label": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?"
+      },
+      {
+        "id": "linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule",
+        "label": "Linkdaze’s smart calendar is built to run a household, not just track a schedule"
+      },
+      {
+        "id": "my-agentmd-to-improve-llm-assisted-code-quality",
+        "label": "My agent.md to improve LLM-assisted code quality"
+      },
+      {
+        "id": "explain-it-to-me-like-im-ten",
+        "label": "Explain it to me like I'm ten"
+      },
+      {
+        "id": "google-workspace-thinks-my-domain-is-an-email-provider",
+        "label": "Google Workspace thinks my domain is an email provider"
       }
     ],
     "date_bj": "2026-08-24 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-08-24 00:01:33"
+    "generated_at_bj": "2026-08-24 06:01:31"
   }
 }

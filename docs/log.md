@@ -3432,3 +3432,13 @@
 ## [2026-08-24 00:02] sync v3 | 2 new | pillars: {'capabilities': 2}
 - create: flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash.md
 - create: is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated.md
+
+## [2026-08-24 06:02] sync v3 | 8 new | pillars: {'capabilities': 7, 'patterns': 1}
+- create: how-complex-systems-fail-1998.md
+- create: my-agentmd-to-improve-llm-assisted-code-quality.md
+- create: google-workspace-thinks-my-domain-is-an-email-provider.md
+- create: explain-it-to-me-like-im-ten.md
+- create: i-spent-266-and-four-ai-models-to-own-my-tablet-glm-53-finished-it-in-a-day.md
+- create: anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-tools-thrive.md
+- create: who8217s-behind-the-new-stealth-model-ox-alpha.md
+- create: linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule.md

@@ -1,8 +1,30 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T00:02:05.224834+08:00",
-  "item_count": 2,
+  "generated_at": "2026-08-24T06:02:02.156444+08:00",
+  "item_count": 7,
   "items": [
+    {
+      "id": "i-spent-266-and-four-ai-models-to-own-my-tablet-glm-53-finished-it-in-a-day",
+      "label": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.505,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49409073",
+      "date": "2026-08-24"
+    },
+    {
+      "id": "how-complex-systems-fail-1998",
+      "label": "How Complex Systems Fail (1998)",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49409473",
+      "date": "2026-08-24"
+    },
     {
       "id": "is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated",
       "label": "Is it legal to train AI models on copyrighted books? It’s complicated",
@@ -15,6 +37,17 @@
       "date": "2026-08-24"
     },
     {
+      "id": "anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-tools-thrive",
+      "label": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49411102",
+      "date": "2026-08-24"
+    },
+    {
       "id": "flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash",
       "label": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
       "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
@@ -24,10 +57,32 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
       "date": "2026-08-24"
+    },
+    {
+      "id": "who8217s-behind-the-new-stealth-model-ox-alpha",
+      "label": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "date": "2026-08-24"
+    },
+    {
+      "id": "linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule",
+      "label": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "date": "2026-08-24"
     }
   ],
   "graph_totals": {
-    "real_nodes": 7776,
-    "edges": 8155
+    "real_nodes": 7784,
+    "edges": 8163
   }
 }
