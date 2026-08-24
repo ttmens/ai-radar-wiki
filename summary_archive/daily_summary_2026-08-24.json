@@ -2,7 +2,7 @@
   "daily_summary": {
     "date": "2026-08-24",
     "headline": "今日 AI 情报 · 2026-08-24",
-    "overview": "今日共采集 10 条情报",
+    "overview": "AI商业动态：资本与市场持续升温",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -33,20 +33,54 @@
           }
         ],
         "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "evidence": [
+          {
+            "id": "anthropic-claude-and-api-service-outages",
+            "title": "Anthropic Claude and API service outages",
+            "score": 0.3,
+            "url": "https://news.ycombinator.com/item?id=49415907",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
       }
     ],
-    "narratives": [],
-    "stats": "🤖 技术能力: 9 | 📱 产品模式: 1",
-    "total_items": 10,
-    "high_value_count": 7,
+    "narratives": [
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日2条情报涉及AI商业动态。包括：FDA clears blood test to aid evaluation , From Regulation to Implementation: A Cri。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
+      }
+    ],
+    "stats": "🤖 技术能力: 28 | 🔧 工具生态: 4 | 📱 产品模式: 1",
+    "total_items": 33,
+    "high_value_count": 11,
     "all_today_ids": [
       {
         "id": "i-spent-266-and-four-ai-models-to-own-my-tablet-glm-53-finished-it-in-a-day",
         "label": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day"
       },
       {
+        "id": "i-were-17-id-learn-how-to-build-llms-from-scratch",
+        "label": "I were 17, I'd learn how to build LLMs from scratch"
+      },
+      {
+        "id": "new-eu-wide-product-repair-rules-come-into-force",
+        "label": "New EU-wide product repair rules come into force"
+      },
+      {
         "id": "how-complex-systems-fail-1998",
         "label": "How Complex Systems Fail (1998)"
+      },
+      {
+        "id": "anthropic-claude-and-api-service-outages",
+        "label": "Anthropic Claude and API service outages"
       },
       {
         "id": "is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated",
@@ -69,12 +103,92 @@
         "label": "Linkdaze’s smart calendar is built to run a household, not just track a schedule"
       },
       {
+        "id": "i-built-a-low-latency-ai-companion-that-plays-skyrim-with-me",
+        "label": "I built a low-latency AI companion that plays Skyrim with me"
+      },
+      {
+        "id": "woman-stranded-in-spain-after-uks-evisa-system-mistakes-her-for-twin-sister",
+        "label": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister"
+      },
+      {
         "id": "my-agentmd-to-improve-llm-assisted-code-quality",
         "label": "My agent.md to improve LLM-assisted code quality"
       },
       {
+        "id": "ai-chip-architectures",
+        "label": "AI Chip Architectures"
+      },
+      {
+        "id": "fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease",
+        "label": "FDA clears blood test to aid evaluation for Alzheimer's disease"
+      },
+      {
+        "id": "unified-branch-and-bound-search-for-the-steiner-traveling-salesman-problem-on-gr",
+        "label": "Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Gr"
+      },
+      {
+        "id": "vials-a-benchmark-for-visual-interpretation-of-artifacts-in-the-life-sciences",
+        "label": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences"
+      },
+      {
+        "id": "time-aware-tranformer-based-prediction-model-for-aecopd",
+        "label": "Time-Aware Tranformer-Based Prediction Model for AECOPD"
+      },
+      {
+        "id": "asymmetric-capacity-allocation-in-self-refinement-pipelines",
+        "label": "Asymmetric Capacity Allocation in Self-Refinement Pipelines"
+      },
+      {
+        "id": "primal-acceleration-of-newtons-method",
+        "label": "Primal Acceleration of Newton's Method"
+      },
+      {
+        "id": "ai-with-authority-from-application-to-silicon",
+        "label": "AI with Authority, from Application to Silicon"
+      },
+      {
+        "id": "perturbrx-learning-treatment-conditioned-latent-transitions-for-patient-drug-res",
+        "label": "PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Re"
+      },
+      {
+        "id": "from-regulation-to-implementation-a-critical-evaluation-of-llm-assisted-regulato",
+        "label": "From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulat"
+      },
+      {
+        "id": "turbobias-20-streaming-context-biasing-for-production-efficient-asr-systems",
+        "label": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems"
+      },
+      {
+        "id": "across-design-uncertainty-in-short-pricing-panels-evidence-from-simulated-price",
+        "label": "Across-Design Uncertainty in Short Pricing Panels: Evidence from Simulated Price"
+      },
+      {
+        "id": "truthful-calibration-measures-for-sequential-prediction",
+        "label": "Truthful Calibration Measures for Sequential Prediction"
+      },
+      {
+        "id": "anatomy-informed-neural-networks-encoding-anatomic-priors-in-loss-and-architectu",
+        "label": "Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architect"
+      },
+      {
         "id": "explain-it-to-me-like-im-ten",
         "label": "Explain it to me like I'm ten"
+      },
+      {
+        "id": "why-is-anthropics-public-writing-style-so-unlike-claudes",
+        "label": "Why is Anthropic's public writing style so unlike Claude's?"
+      },
+      {
+        "id": "implementation-of-gpt-2-in-pure-cmake",
+        "label": "Implementation of GPT-2 in pure CMake"
+      },
+      {
+        "id": "ocr-it-pull-text-out-of-un-copyable-documents-for-your-llm",
+        "label": "OCR It – pull text out of un-copyable documents for your LLM"
+      },
+      {
+        "id": "elevated-errors-for-multiple-models",
+        "label": "Elevated Errors for Multiple Models"
       },
       {
         "id": "google-workspace-thinks-my-domain-is-an-email-provider",
@@ -82,6 +196,6 @@
       }
     ],
     "date_bj": "2026-08-24 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-08-24 06:01:31"
+    "generated_at_bj": "2026-08-24 20:03:40"
   }
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T06:02:02.156444+08:00",
-  "item_count": 7,
+  "generated_at": "2026-08-24T20:04:11.264045+08:00",
+  "item_count": 11,
   "items": [
     {
       "id": "i-spent-266-and-four-ai-models-to-own-my-tablet-glm-53-finished-it-in-a-day",
@@ -15,6 +15,28 @@
       "date": "2026-08-24"
     },
     {
+      "id": "i-were-17-id-learn-how-to-build-llms-from-scratch",
+      "label": "I were 17, I'd learn how to build LLMs from scratch",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49412396",
+      "date": "2026-08-24"
+    },
+    {
+      "id": "new-eu-wide-product-repair-rules-come-into-force",
+      "label": "New EU-wide product repair rules come into force",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49415621",
+      "date": "2026-08-24"
+    },
+    {
       "id": "how-complex-systems-fail-1998",
       "label": "How Complex Systems Fail (1998)",
       "summary": "暂无中文摘要",
@@ -23,6 +45,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49409473",
+      "date": "2026-08-24"
+    },
+    {
+      "id": "anthropic-claude-and-api-service-outages",
+      "label": "Anthropic Claude and API service outages",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49415907",
       "date": "2026-08-24"
     },
     {
@@ -79,10 +112,21 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
       "date": "2026-08-24"
+    },
+    {
+      "id": "i-built-a-low-latency-ai-companion-that-plays-skyrim-with-me",
+      "label": "I built a low-latency AI companion that plays Skyrim with me",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49413561",
+      "date": "2026-08-24"
     }
   ],
   "graph_totals": {
-    "real_nodes": 7784,
-    "edges": 8163
+    "real_nodes": 7807,
+    "edges": 8192
   }
 }

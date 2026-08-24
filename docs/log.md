@@ -3442,3 +3442,28 @@
 - create: anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-tools-thrive.md
 - create: who8217s-behind-the-new-stealth-model-ox-alpha.md
 - create: linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule.md
+
+## [2026-08-24 20:04] sync v3 | 23 new | pillars: {'capabilities': 19, 'ecosystem': 4}
+- create: primal-acceleration-of-newtons-method.md
+- create: vials-a-benchmark-for-visual-interpretation-of-artifacts-in-the-life-sciences.md
+- create: ai-with-authority-from-application-to-silicon.md
+- create: perturbrx-learning-treatment-conditioned-latent-transitions-for-patient-drug-res.md
+- create: truthful-calibration-measures-for-sequential-prediction.md
+- create: asymmetric-capacity-allocation-in-self-refinement-pipelines.md
+- create: turbobias-20-streaming-context-biasing-for-production-efficient-asr-systems.md
+- create: across-design-uncertainty-in-short-pricing-panels-evidence-from-simulated-price.md
+- create: anatomy-informed-neural-networks-encoding-anatomic-priors-in-loss-and-architectu.md
+- create: time-aware-tranformer-based-prediction-model-for-aecopd.md
+- create: unified-branch-and-bound-search-for-the-steiner-traveling-salesman-problem-on-gr.md
+- create: from-regulation-to-implementation-a-critical-evaluation-of-llm-assisted-regulato.md
+- create: i-were-17-id-learn-how-to-build-llms-from-scratch.md
+- create: fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease.md
+- create: ocr-it-pull-text-out-of-un-copyable-documents-for-your-llm.md
+- create: i-built-a-low-latency-ai-companion-that-plays-skyrim-with-me.md
+- create: woman-stranded-in-spain-after-uks-evisa-system-mistakes-her-for-twin-sister.md
+- create: new-eu-wide-product-repair-rules-come-into-force.md
+- create: why-is-anthropics-public-writing-style-so-unlike-claudes.md
+- create: ai-chip-architectures.md
+- create: elevated-errors-for-multiple-models.md
+- create: implementation-of-gpt-2-in-pure-cmake.md
+- create: anthropic-claude-and-api-service-outages.md
