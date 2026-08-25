@@ -3508,3 +3508,12 @@
 ## [2026-08-25 18:02] sync v3 | 2 new | pillars: {'patterns': 1, 'capabilities': 1}
 - create: headlong-a-microharness-for-persistent-agents.md
 - create: training-ai-to-paint-with-code.md
+
+## [2026-08-26 00:02] sync v3 | 7 new | pillars: {'capabilities': 5, 'patterns': 2}
+- create: apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute.md
+- create: how-much-of-hn-is-ai.md
+- create: openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users.md
+- create: gamma-acquires-accel-backed-design-startup-lica.md
+- create: openais-jalapeño-chip-is-built-for-fast-inference-at-scale-benchmarks-show.md
+- create: accel-backed-keenable-is-indexing-the-web-for-ai-agents.md
+- create: 8216the-world-seems-to-be-ready8217-an-interview-with-openai-head-of-product-thi.md
