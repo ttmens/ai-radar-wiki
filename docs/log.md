@@ -3517,3 +3517,10 @@
 - create: openais-jalapeño-chip-is-built-for-fast-inference-at-scale-benchmarks-show.md
 - create: accel-backed-keenable-is-indexing-the-web-for-ai-agents.md
 - create: 8216the-world-seems-to-be-ready8217-an-interview-with-openai-head-of-product-thi.md
+
+## [2026-08-26 06:02] sync v3 | 5 new | pillars: {'capabilities': 3, 'business': 1, 'patterns': 1}
+- create: openai-jalapeño-better-than-nvidia-blackwell.md
+- create: show-hn-i-made-a-raspberry-with-qwen-my-local-car-ai.md
+- create: warnock-harnessing-gpu-geometry-amplification-for-vector-graphics.md
+- create: stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fres.md
+- create: claude-cowork-finally-remembers-what-you-told-the-app-in-chat.md

@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-08-26 | Total pages: 3433
+> Last updated: 2026-08-26 | Total pages: 3438
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -741,6 +741,7 @@
 - [[openai-is-gaining-on-anthropic-with-business-users-new-data-indicates.md]] OpenAI is gaining on Anthropic with business users, new data indicates `pillar:capabilities` `score:0.255`
 - [[openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models.md]] OpenAI is making it easier to check if an image was made by their models `pillar:capabilities` `score:0.48`
 - [[openai-is-still-working-on-that-super-app.md]] OpenAI is still working on that ‘super app’ `pillar:capabilities` `score:0.48`
+- [[openai-jalapeño-better-than-nvidia-blackwell.md]] OpenAI Jalapeño: Better than Nvidia Blackwell `pillar:capabilities` `score:0.425`
 - [[openai-just-open-sourced-codex-security.md]] OpenAI just open-sourced Codex Security `pillar:capabilities` `score:0.445`
 - [[openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts.md]] OpenAI launches ChatGPT for personal finance, will let you connect bank accounts `pillar:capabilities` `score:0.48`
 - [[openai-launches-its-new-family-of-models-with-gpt-56.md]] OpenAI launches its new family of models with GPT-5.6 `pillar:capabilities` `score:0.48`
@@ -931,6 +932,7 @@
 - [[show-hn-i-built-an-open-source-alternative-to-claude-cowork.md]] Show HN: I built an open-source alternative to Claude Cowork `pillar:capabilities` `score:0.295`
 - [[show-hn-i-implemented-a-neural-network-in-sql.md]] Show HN: I implemented a neural network in SQL `pillar:capabilities` `score:0.225`
 - [[show-hn-i-made-a-claude-skill-for-spec-driven-development-sdd.md]] Show HN: I Made a Claude Skill for Spec-Driven Development (SDD) `pillar:capabilities` `score:0.295`
+- [[show-hn-i-made-a-raspberry-with-qwen-my-local-car-ai.md]] Show HN: I made a Raspberry with Qwen my local car AI `pillar:capabilities` `score:0.205`
 - [[show-hn-i-run-a-vision-model-on-every-screenshot-locally-on-a-4gb-gpu.md]] Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU `pillar:capabilities` `score:0.33`
 - [[show-hn-i-simulated-closing-the-strait-of-hormuz-on-real-oil-trade-data.md]] Show HN: I simulated closing the Strait of Hormuz on real oil trade data `pillar:capabilities` `score:0.495`
 - [[show-hn-i-wrote-a-c-ray-tracer-from-scratch-without-ai.md]] Show HN: I wrote a C++ ray tracer from scratch without AI `pillar:capabilities` `score:0.27`
@@ -1206,6 +1208,7 @@
 - [[voxel51fiftyone.md]] voxel51/fiftyone `pillar:capabilities` `score:0.58`
 - [[vulkan-is-now-available-on-netbsd.md]] Vulkan is now available on NetBSD `pillar:capabilities` `score:0.205`
 - [[walk-on-decomposed-subdomains.md]] Walk on Decomposed Subdomains `pillar:capabilities` `score:0.26`
+- [[warnock-harnessing-gpu-geometry-amplification-for-vector-graphics.md]] Warnock: Harnessing GPU geometry amplification for vector graphics `pillar:capabilities` `score:0.155`
 - [[wayfinder-router-deterministic-routing-of-queries-between-local-and-hosted-llm.md]] Wayfinder Router: deterministic routing of queries between local and hosted LLM `pillar:capabilities` `score:0.38`
 - [[waze-adds-new-ai-powered-features-and-customization-updates.md]] Waze adds new AI-powered features and customization updates `pillar:capabilities` `score:0.48`
 - [[we-gave-gpt-56-sol-a-real-business-it-lied-spammed-and-lost-447.md]] We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447 `pillar:capabilities` `score:0.635`
@@ -2005,6 +2008,7 @@
 - [[characterizing-agentic-flooding-of-government-services.md]] Characterizing Agentic Flooding of Government Services `pillar:patterns` `score:0.305`
 - [[chromes-ai-features-may-be-hogging-4gb-of-your-co.md]] Chrome's AI features may be hogging 4GB of your computer storage `pillar:patterns` `score:0.255`
 - [[claude-code-anatomy-of-a-misfeature.md]] Claude Code: Anatomy of a Misfeature `pillar:patterns` `score:0.465`
+- [[claude-cowork-finally-remembers-what-you-told-the-app-in-chat.md]] Claude Cowork finally remembers what you told the app in chat `pillar:patterns` `score:0.305`
 - [[cleaning-up-after-ai-rockstar-developers.md]] Cleaning up after AI rockstar developers `pillar:patterns` `score:0.6`
 - [[code-yeongyuoh-my-openagent.md]] code-yeongyu/oh-my-openagent `pillar:patterns` `score:0.405`
 - [[codex-starts-encrypting-sub-agent-prompts.md]] Codex starts encrypting sub-agent prompts `pillar:patterns` `score:0.63`
@@ -3295,6 +3299,7 @@
 - [[spain-has-become-one-of-europes-cheapest-power-ma.md]] Spain has become one of Europe’s cheapest power markets `pillar:business` `score:0.355`
 - [[spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes.md]] Spotify and Universal Music strike deal allowing fan-made AI covers and remixes `pillar:business` `score:0.48`
 - [[spotify8217s-ai-dj-now-supports-french-german.md]] Spotify&#8217;s AI DJ now supports French, German, Italian and Brazilian Portugu `pillar:business` `score:0.33`
+- [[stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fres.md]] Stability AI, maker of image generator Stable Diffusion, raises $76 million in f `pillar:business` `score:0.305`
 - [[startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-yo.md]] Startup Battlefield 200 applications close today: Nominate a founder or submit y `pillar:business` `score:0.375`
 - [[state-attorneys-general-are-investigating-openai.md]] State Attorneys General Are Investigating OpenAI `pillar:business` `score:0.31`
 - [[streamlitstreamlit.md]] streamlit/streamlit `pillar:business` `score:0.405`

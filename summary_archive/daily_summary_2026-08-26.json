@@ -33,6 +33,21 @@
           }
         ],
         "trend": "new"
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "今日💰 商业趋势方向有新的动态。",
+        "evidence": [
+          {
+            "id": "stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fres",
+            "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 mi",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+            "reason": "里程碑式进展"
+          }
+        ],
+        "trend": "new"
       }
     ],
     "narratives": [
@@ -43,13 +58,17 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 5 | 📱 产品模式: 2",
-    "total_items": 7,
-    "high_value_count": 6,
+    "stats": "🤖 技术能力: 8 | 📱 产品模式: 3 | 💰 商业趋势: 1",
+    "total_items": 12,
+    "high_value_count": 9,
     "all_today_ids": [
       {
         "id": "apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
         "label": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute"
+      },
+      {
+        "id": "openai-jalapeño-better-than-nvidia-blackwell",
+        "label": "OpenAI Jalapeño: Better than Nvidia Blackwell"
       },
       {
         "id": "8216the-world-seems-to-be-ready8217-an-interview-with-openai-head-of-product-thi",
@@ -64,6 +83,10 @@
         "label": "Accel-backed Keenable is indexing the web for AI agents"
       },
       {
+        "id": "stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fres",
+        "label": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in f"
+      },
+      {
         "id": "openais-jalapeño-chip-is-built-for-fast-inference-at-scale-benchmarks-show",
         "label": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show"
       },
@@ -72,11 +95,23 @@
         "label": "Gamma acquires Accel-backed design startup Lica"
       },
       {
+        "id": "claude-cowork-finally-remembers-what-you-told-the-app-in-chat",
+        "label": "Claude Cowork finally remembers what you told the app in chat"
+      },
+      {
         "id": "how-much-of-hn-is-ai",
         "label": "How much of HN is AI?"
+      },
+      {
+        "id": "show-hn-i-made-a-raspberry-with-qwen-my-local-car-ai",
+        "label": "Show HN: I made a Raspberry with Qwen my local car AI"
+      },
+      {
+        "id": "warnock-harnessing-gpu-geometry-amplification-for-vector-graphics",
+        "label": "Warnock: Harnessing GPU geometry amplification for vector graphics"
       }
     ],
     "date_bj": "2026-08-26 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-08-26 00:01:47"
+    "generated_at_bj": "2026-08-26 06:01:40"
   }
 }
