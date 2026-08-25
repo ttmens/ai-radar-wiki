@@ -53,6 +53,13 @@
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
+            "id": "headlong-a-microharness-for-persistent-agents",
+            "title": "Headlong: A Microharness for Persistent Agents",
+            "score": 0.26,
+            "url": "https://news.ycombinator.com/item?id=49428882",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
             "id": "agent-lightning-v10",
             "title": "Agent Lightning v1.0",
             "score": 0.15,
@@ -107,8 +114,8 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 22 | 💰 商业趋势: 2 | 📱 产品模式: 9 | 🔧 工具生态: 2",
-    "total_items": 35,
+    "stats": "🤖 技术能力: 23 | 💰 商业趋势: 2 | 📱 产品模式: 10 | 🔧 工具生态: 2",
+    "total_items": 37,
     "high_value_count": 27,
     "all_today_ids": [
       {
@@ -220,12 +227,20 @@
         "label": "ReWorld: An Interactive World Model with Long-Horizon Memory"
       },
       {
+        "id": "headlong-a-microharness-for-persistent-agents",
+        "label": "Headlong: A Microharness for Persistent Agents"
+      },
+      {
         "id": "show-hn-kern-container-and-resource-runtime-in-a-15-mb-binary-no-daemon",
         "label": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon"
       },
       {
         "id": "bookshelf-self-hosted-ebook-library-that-runs-on-object-storage",
         "label": "Bookshelf – Self-hosted eBook library that runs on object storage"
+      },
+      {
+        "id": "training-ai-to-paint-with-code",
+        "label": "Training AI to Paint with Code"
       },
       {
         "id": "vintage-artificial-intelligence-before-it-got-awkward",
@@ -253,6 +268,6 @@
       }
     ],
     "date_bj": "2026-08-25 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-08-25 12:04:32"
+    "generated_at_bj": "2026-08-25 18:01:40"
   }
 }

@@ -3504,3 +3504,7 @@
 - create: show-hn-i-built-a-lite-lpu-that-can-do-inference-on-karpathys-microgpt.md
 - create: show-hn-see-how-much-your-ai-knows-about-you.md
 - create: show-hn-a-modern-gui-library-for-ada-css-styling-xml-ui-sdl3.md
+
+## [2026-08-25 18:02] sync v3 | 2 new | pillars: {'patterns': 1, 'capabilities': 1}
+- create: headlong-a-microharness-for-persistent-agents.md
+- create: training-ai-to-paint-with-code.md
