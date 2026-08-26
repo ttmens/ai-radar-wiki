@@ -3524,3 +3524,26 @@
 - create: warnock-harnessing-gpu-geometry-amplification-for-vector-graphics.md
 - create: stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fres.md
 - create: claude-cowork-finally-remembers-what-you-told-the-app-in-chat.md
+
+## [2026-08-26 20:04] sync v3 | 21 new | pillars: {'ecosystem': 4, 'patterns': 5, 'capabilities': 11, 'business': 1}
+- create: what-fid-hides-detecting-ranking-and-diagnosing-deviations-in-generative-evaluat.md
+- create: recursive-experiential-working-memory-evolution-for-long-horizon-agent-harnesses.md
+- create: spo-stream-aligned-policy-optimization-for-asynchronous-agentic-rl.md
+- create: parameterized-complexity-of-l_p-lipschitz-constants-for-input-convex-neural-netw.md
+- create: improving-cross-problem-vehicle-routing-with-locally-augmented-preferences-and-r.md
+- create: bellman-calibration-for-marginalized-importance-weighting-in-offline-reinforceme.md
+- create: fedv-kgqa-multi-hop-question-answering-over-vertically-partitioned-knowledge-gra.md
+- create: laion-bvd-a-10-million-hour-open-video-dataset-for-multimodal-pre-training.md
+- create: reading-is-not-using-retrieval-judgment-and-the-design-of-ai-financial-research.md
+- create: a-dual-dimensional-llm-framework-for-automated-item-incidental-content-similarit.md
+- create: constrained-entity-selection-under-partial-knowledge-for-llm-based-knowledge-gra.md
+- create: biokern-biological-kernel-regularization-for-histology-to-transcriptomics-neighb.md
+- create: rag-is-simpler-than-you-think.md
+- create: zai-confirms-ox-alpha-is-a-new-glm-series-model-and-will-release-its-weights.md
+- create: maiao-gerrit-style-code-review-workflow-for-github-gitlab-gitea-others.md
+- create: agentic-context-management-memory-and-cost-as-architecture-problems.md
+- create: show-hn-texbrain-a-latex-editor-that-runs-pdftex-in-the-browser-via-wasm.md
+- create: runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-the.md
+- create: india8217s-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone.md
+- create: robotics-startup-generalist-reaches-3b-valuation-sources-say.md
+- create: openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continu.md

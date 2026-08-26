@@ -1,7 +1,7 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T06:02:11.176536+08:00",
-  "item_count": 9,
+  "generated_at": "2026-08-26T20:04:38.693290+08:00",
+  "item_count": 29,
   "items": [
     {
       "id": "apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
@@ -26,6 +26,39 @@
       "date": "2026-08-26"
     },
     {
+      "id": "rag-is-simpler-than-you-think",
+      "label": "RAG Is Simpler Than You Think",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49445727",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "india8217s-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone",
+      "label": "India&#8217;s Ringg gets backing from Peak XV as it pushes voice AI past the pho",
+      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "show-hn-texbrain-a-latex-editor-that-runs-pdftex-in-the-browser-via-wasm",
+      "label": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49441375",
+      "date": "2026-08-26"
+    },
+    {
       "id": "8216the-world-seems-to-be-ready8217-an-interview-with-openai-head-of-product-thi",
       "label": "&#8216;The world seems to be ready&#8217;: An interview with OpenAI head of prod",
       "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
@@ -34,6 +67,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "robotics-startup-generalist-reaches-3b-valuation-sources-say",
+      "label": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
       "date": "2026-08-26"
     },
     {
@@ -59,6 +103,28 @@
       "date": "2026-08-26"
     },
     {
+      "id": "maiao-gerrit-style-code-review-workflow-for-github-gitlab-gitea-others",
+      "label": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49441666",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-the",
+      "label": "Runable hits $21M to bet AI agents can go from building businesses to growing th",
+      "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+      "date": "2026-08-26"
+    },
+    {
       "id": "stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fres",
       "label": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in f",
       "summary": "The company's new fundraising total now stands at $232 million.",
@@ -67,6 +133,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continu",
+      "label": "OpenAI loses a top data center exec as stream of high-profile departures continu",
+      "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
       "date": "2026-08-26"
     },
     {
@@ -101,10 +178,153 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
       "date": "2026-08-26"
+    },
+    {
+      "id": "zai-confirms-ox-alpha-is-a-new-glm-series-model-and-will-release-its-weights",
+      "label": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49446422",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "a-dual-dimensional-llm-framework-for-automated-item-incidental-content-similarit",
+      "label": "A Dual-Dimensional LLM Framework for Automated Item Incidental Content Similarit",
+      "summary": "The rapid expansion of large-scale assessments and the growing adoption of automatic item generation have intensified concerns about incidental content redundancy, where construct-irrelevant elements such as wording or contextual framing become unintentionally repetitive across items. Traditional si",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2608.24825v1",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "bellman-calibration-for-marginalized-importance-weighting-in-offline-reinforceme",
+      "label": "Bellman Calibration for Marginalized Importance Weighting in Offline Reinforceme",
+      "summary": "Marginalized importance weighting evaluates a target policy by reweighting offline state-action samples with its discounted occupancy ratio, characterized by an adjoint Bellman equation. Existing minimax, primal-dual, and fitted fixed-point estimators can leave residual occupancy-balance violations",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2608.24858v1",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "constrained-entity-selection-under-partial-knowledge-for-llm-based-knowledge-gra",
+      "label": "Constrained Entity Selection under Partial Knowledge for LLM-Based Knowledge Gra",
+      "summary": "Large language models are increasingly used for knowledge graph question answering (KGQA), but can fail to correctly ground answers in the underlying graph. Current approaches to LLM-based KGQA either rely on full semantic parsing into executable queries such as SPARQL, which is brittle in practice",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2608.24824v1",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "spo-stream-aligned-policy-optimization-for-asynchronous-agentic-rl",
+      "label": "SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL",
+      "summary": "Group-relative reinforcement learning waits for sibling rollouts of the same prompt, which is costly for long and variable tool-use trajectories. Single-stream Policy Optimization (SPO) removes this dependency with a persistent prompt-level value estimate, but its recipe whitens one advantage per tr",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2608.24870v1",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "fedv-kgqa-multi-hop-question-answering-over-vertically-partitioned-knowledge-gra",
+      "label": "FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Gr",
+      "summary": "Real-world data for knowledge graph question answering is often distributed across different organizations due to governance and data sovereignty constraints. While centralized systems exist, they cannot answer multi-hop questions when the required facts are split across vertically partitioned silos",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2608.24846v1",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "recursive-experiential-working-memory-evolution-for-long-horizon-agent-harnesses",
+      "label": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+      "summary": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Working Memory architecture for long-horizon agent harnesses, in which Working Memory tracks task progress",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2608.24876v1",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "laion-bvd-a-10-million-hour-open-video-dataset-for-multimodal-pre-training",
+      "label": "LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training",
+      "summary": "We present LAION-BVD, a large-scale open video dataset for multimodal learning, which contains 1.3B platform-specific video URLs collected from CommonCrawl. From these, we download 80M videos with a total duration of 10 million hours. The dataset is designed for multimodal pre-training across the vi",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2608.24845v1",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "parameterized-complexity-of-l_p-lipschitz-constants-for-input-convex-neural-netw",
+      "label": "Parameterized Complexity of $L_p$-Lipschitz Constants for Input Convex Neural Ne",
+      "summary": "Lipschitz constants are a standard way to quantify the sensitivity of neural networks to small input perturbations, but computing them is difficult even for shallow ReLU networks. We study this problem for two-layer input-convex neural networks (ICNNs), a restricted architecture where nonnegative ou",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2608.24865v1",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "biokern-biological-kernel-regularization-for-histology-to-transcriptomics-neighb",
+      "label": "BioKERN: Biological Kernel Regularization for Histology-to-Transcriptomics Neigh",
+      "summary": "Spatially resolved biology requires representations that preserve biological neighborhood structure rather than only exact cross-modal correspondences. Existing histology--transcriptomics objectives can emphasize instance-level matching even when non-paired spots share molecular or spatial context.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2608.24823v1",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "improving-cross-problem-vehicle-routing-with-locally-augmented-preferences-and-r",
+      "label": "Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and R",
+      "summary": "Multi-task vehicle routing problem (VRP) solvers seek to handle multiple VRP variants within a single unified model, avoiding the need to train a separate model for every variant. In spite of recent progress, current approaches remain limited on two fronts. On the training side, reinforcement learni",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2608.24859v1",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "what-fid-hides-detecting-ranking-and-diagnosing-deviations-in-generative-evaluat",
+      "label": "What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Eval",
+      "summary": "Generative models are commonly ranked by Fréchet Inception Distance (FID) and Kernel Inception Distance (KID), yet FID's first-two-moment summary can miss distributional differences, and a reported scalar gap alone is not a calibrated test against sampling variation. FID's moment restriction has con",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2608.24881v1",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "reading-is-not-using-retrieval-judgment-and-the-design-of-ai-financial-research",
+      "label": "Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Resear",
+      "summary": "Large language models (LLMs) are increasingly deployed as AI analysts to process financial disclosures and support AI-assisted investment decisions. Yet such systems are usually evaluated by what they can retrieve, not whether retrieved information affects their judgments. We identify a retrieval-in",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2608.24842v1",
+      "date": "2026-08-26"
     }
   ],
   "graph_totals": {
-    "real_nodes": 7856,
-    "edges": 8253
+    "real_nodes": 7877,
+    "edges": 8293
   }
 }

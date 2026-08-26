@@ -1,0 +1,25 @@
+{
+  "title": "SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL",
+  "summary": "Group-relative reinforcement learning waits for sibling rollouts of the same prompt, which is costly for long and variable tool-use trajectories. Single-stream Policy Optimization (SPO) removes this dependency with a persistent prompt-level value estimate, but its recipe whitens one advantage per trajectory before optimizing a token-mean actor loss. We show that trajectory centering generally does not center the token-weighted quantity consumed by the actor, and fix the mismatch by standardizing terminal-outcome advantages under the action-token measure. We additionally organize prompt evidence by the policy event that generated it rather than learner receipt order. Across matched runs on ALFWorld at two model scales and on Math-TIR, SPO++ improves online learning efficiency over SPO. A paired ablation identifies action-token-measure normalization as the strongest tested component.",
+  "url": "http://arxiv.org/abs/2608.24870v1",
+  "authors": [
+    "Kai Ruan",
+    "Jinghao Lin",
+    "Qianshan Wei",
+    "Ziqi Zhou",
+    "Zihe Huang"
+  ],
+  "published": "2026-08-25T17:52:19Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "optimization",
+    "gan"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}
