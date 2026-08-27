@@ -1,6 +1,7 @@
 ---
 title: Justice Dept. Is Said to Open Criminal Inquiry of E. Jean Carroll
 created: 2026-05-28
+deprecated: true
 updated: 2026-05-28
 type: entity
 pillar: business

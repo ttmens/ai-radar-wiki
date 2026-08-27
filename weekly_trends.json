@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-26T20:04:38.383262+08:00",
-  "days_analyzed": 92,
+  "generated_at": "2026-08-27T12:05:19.531356+08:00",
+  "days_analyzed": 93,
   "pillar_trends": {
     "capabilities": {
-      "trend": "up",
-      "delta": 1,
+      "trend": "stable",
+      "delta": 0,
       "current": 2,
-      "previous": 1,
+      "previous": 2,
       "has_data": true
     },
     "patterns": {
-      "trend": "down",
-      "delta": -3,
+      "trend": "stable",
+      "delta": 0,
       "current": 3,
-      "previous": 6,
+      "previous": 3,
       "has_data": true
     },
     "ecosystem": {
@@ -56,7 +56,8 @@
         "2026-08-04",
         "2026-08-23",
         "2026-08-25",
-        "2026-08-26"
+        "2026-08-26",
+        "2026-08-27"
       ],
       "instances": [
         {
@@ -570,6 +571,30 @@
               "pillar": "capabilities"
             }
           ]
+        },
+        {
+          "date": "2026-08-27",
+          "title": "AI Agent 工具链与协作流程快速成熟",
+          "body": "今日5条情报涉及AI Agent及相关工具生态。典型项目包括：Serve Markdown to AI Agents with Accept , Radar makes podcasts searchable — and us, Arga Labs is building a better way to tr。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "type": "paradigm_shift",
+          "evidence": [
+            {
+              "id": "arga-labs-is-building-a-better-way-to-train-enterprise-ai-agents",
+              "title": "Arga Labs is building a better way to train enterprise AI agents",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "agentic-autoresearch-for-cell-edge-power-control-radically-redefining-the-resear",
+              "title": "Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining",
+              "score": 0.3,
+              "url": "http://arxiv.org/abs/2608.26093v1",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            }
+          ]
         }
       ],
       "lifecycle": "declining"
@@ -594,7 +619,8 @@
         "2026-08-23",
         "2026-08-24",
         "2026-08-25",
-        "2026-08-26"
+        "2026-08-26",
+        "2026-08-27"
       ],
       "instances": [
         {
@@ -931,6 +957,241 @@
               "pillar": "patterns"
             }
           ]
+        },
+        {
+          "date": "2026-08-27",
+          "title": "AI商业动态：资本与市场持续升温",
+          "body": "今日2条情报涉及AI商业动态。包括：Arga Labs is building a better way to tr, Viral AI startup Instinct has raised $35。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+          "type": "validation",
+          "evidence": [
+            {
+              "id": "amazon-just-tripled-its-order-of-nvidia-chips-over-8216surging-demand8217",
+              "title": "Amazon just tripled its order of Nvidia chips over &#8216;surging dema",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "business"
+            }
+          ]
+        }
+      ],
+      "lifecycle": "declining"
+    },
+    {
+      "title": "AI安全与信任正成为规模化部署的关键挑战",
+      "type": "bottleneck",
+      "latest_type": "bottleneck",
+      "days": [
+        "2026-05-12",
+        "2026-06-16",
+        "2026-06-26",
+        "2026-07-08",
+        "2026-07-16",
+        "2026-07-17",
+        "2026-07-25",
+        "2026-07-31",
+        "2026-08-27"
+      ],
+      "instances": [
+        {
+          "date": "2026-05-12",
+          "title": "AI安全与信任正成为规模化部署的关键挑战",
+          "body": "今日6条情报涉及AI安全与信任议题。关键事件包括：Postmortem: TanStack npm supply-chain co。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+          "type": "bottleneck",
+          "evidence": [
+            {
+              "id": "postmortem-tanstack-npm-supply-chain-compromise",
+              "title": "Postmortem: TanStack npm supply-chain compromise",
+              "score": 0.61,
+              "url": "https://news.ycombinator.com/item?id=48100706",
+              "reason": "里程碑式进展；高价值信号",
+              "pillar": "ecosystem"
+            },
+            {
+              "id": "gmail-registration-now-requires-scanning-a-qr-code",
+              "title": "Gmail registration now requires scanning a QR code and sending a text ",
+              "score": 0.53,
+              "url": "https://news.ycombinator.com/item?id=48092028",
+              "reason": "高价值信号",
+              "pillar": "ecosystem"
+            },
+            {
+              "id": "claude-platform-on-aws",
+              "title": "Claude Platform on AWS",
+              "score": 0.47,
+              "url": "https://news.ycombinator.com/item?id=48103042",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
+            },
+            {
+              "id": "engineering-robustness-into-personal-agents-with-the-ai-work",
+              "title": "Engineering Robustness into Personal Agents with the AI Workflow Store",
+              "score": 0.3,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
+            },
+            {
+              "id": "learning-when-to-stop-selective-imitation-learning-under-ar",
+              "title": "Learning When to Stop: Selective Imitation Learning Under Arbitrary Dy",
+              "score": 0.26,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
+            }
+          ]
+        },
+        {
+          "date": "2026-06-16",
+          "title": "AI安全与信任正成为规模化部署的关键挑战",
+          "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：Cybersecurity vets protest &#8216;danger, The US government&#8217;s Anthropic mode。具体信号：安全漏洞。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+          "type": "bottleneck",
+          "evidence": [
+            {
+              "id": "chopratejasheadroom",
+              "title": "chopratejas/headroom",
+              "score": 0.61,
+              "url": "https://github.com/chopratejas/headroom",
+              "reason": "高价值信号",
+              "pillar": "ecosystem"
+            }
+          ]
+        },
+        {
+          "date": "2026-06-26",
+          "title": "AI安全与信任正成为规模化部署的关键挑战",
+          "body": "今日4条情报涉及AI安全与信任议题。关键事件包括：What happened after 2k people tried to h, When are likely answers right? On Sequen, Anthropic&#8217;s Claude is winning over。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+          "type": "bottleneck",
+          "evidence": [
+            {
+              "id": "general-intuition8217s-23b-bet-that-video-games-can-train-ai-agents-for-the-real",
+              "title": "General Intuition&#8217;s $2.3B bet that video games can train AI agen",
+              "score": 0.52,
+              "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+              "reason": "高价值信号",
+              "pillar": "patterns"
+            },
+            {
+              "id": "show-hn-visual-workspace-for-agents-based-on-unix",
+              "title": "Show HN: Visual Workspace for Agents Based on Unix",
+              "score": 0.29,
+              "url": "https://www.prototyper.co",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            }
+          ]
+        },
+        {
+          "date": "2026-07-08",
+          "title": "AI安全与信任正成为规模化部署的关键挑战",
+          "body": "今日5条情报涉及AI安全与信任议题。关键事件包括：GitLost: We Tricked GitHub's AI Agent in, Discord admits AI moderation bug wrongfu, AI Meets Cryptography 1: What AI Found i。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+          "type": "bottleneck",
+          "evidence": [
+            {
+              "id": "twitter_bindureddy_2074700938930160079",
+              "title": "Make your own agent - combine Fable and GPT 5.6 sol\n\nPutting the final",
+              "score": 0.71,
+              "url": "https://x.com/bindureddy/status/2074700938930160079",
+              "reason": "里程碑式进展；高价值信号",
+              "pillar": "patterns"
+            },
+            {
+              "id": "gitlost-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+              "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+              "score": 0.53,
+              "url": "https://news.ycombinator.com/item?id=48827858",
+              "reason": "高价值信号",
+              "pillar": "patterns"
+            }
+          ]
+        },
+        {
+          "date": "2026-07-16",
+          "title": "AI安全与信任正成为规模化部署的关键挑战",
+          "body": "今日3条情报涉及AI安全与信任议题。关键事件包括：Microsoft patches record number of secur, DSLs Enable Reliable Use of LLMs, Show HN: Painterly – Turn pictures into 。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+          "type": "bottleneck",
+          "evidence": [
+            {
+              "id": "show-hn-aict-unix-coreutils-that-output-xmljson-built-for-ai-agents",
+              "title": "Show HN: Aict – Unix coreutils that output XML/JSON, built for AI agen",
+              "score": 0.33,
+              "url": "https://github.com/synseqack/aict",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
+            },
+            {
+              "id": "agentty-a-drop-in-alternative-to-claude-code-written-in-c26-110-mb-binary",
+              "title": "Agentty – A drop-in alternative to claude-code, written in C++26. 11.0",
+              "score": 0.26,
+              "url": "https://news.ycombinator.com/item?id=48928002",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
+            }
+          ]
+        },
+        {
+          "date": "2026-07-17",
+          "title": "AI安全与信任正成为规模化部署的关键挑战",
+          "body": "今日3条情报涉及AI安全与信任议题。关键事件包括：Beyond Success Rate: Cost-Aware Evaluati, The LLM Critics Are Right. I Use LLMs An, Generative AI Is an Engineering Disaster。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+          "type": "bottleneck",
+          "evidence": [
+            {
+              "id": "where-are-yc-founders-now-openai-and-anthropic-mostly",
+              "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+              "score": 0.56,
+              "url": "https://news.ycombinator.com/item?id=48931588",
+              "reason": "高价值信号",
+              "pillar": "ecosystem"
+            }
+          ]
+        },
+        {
+          "date": "2026-07-25",
+          "title": "AI安全与信任正成为规模化部署的关键挑战",
+          "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：We recognize there are a lot of question, UK AISI / Caisi Preliminary Assessment o。具体信号：安全漏洞。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+          "type": "bottleneck",
+          "evidence": [
+            {
+              "id": "twitter_elonmusk_2080841494756233632",
+              "title": "https://t.co/e2hvfmnewh",
+              "score": 1.0,
+              "url": "https://x.com/elonmusk/status/2080841494756233632",
+              "reason": "社区关注度高（6383 stars）；里程碑式进展；高价值信号",
+              "pillar": "capabilities"
+            }
+          ]
+        },
+        {
+          "date": "2026-07-31",
+          "title": "AI安全与信任正成为规模化部署的关键挑战",
+          "body": "今日4条情报涉及AI安全与信任议题。关键事件包括：Google says it fixed more Chrome bugs in, Okta buys AI security startup Permiso — , In the Hugging Face breach, OpenAI&#8217。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+          "type": "bottleneck",
+          "evidence": [
+            {
+              "id": "gcc-steering-committee-announces-ai-policy",
+              "title": "GCC steering committee announces AI policy",
+              "score": 0.56,
+              "url": "https://news.ycombinator.com/item?id=49108685",
+              "reason": "高价值信号",
+              "pillar": "ecosystem"
+            }
+          ]
+        },
+        {
+          "date": "2026-08-27",
+          "title": "AI安全与信任正成为规模化部署的关键挑战",
+          "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：ICON Decomposition: Multivariate Concept, Bill Gates wants to see a robot tax and 。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+          "type": "bottleneck",
+          "evidence": [
+            {
+              "id": "radar-makes-podcasts-searchable-and-usable-by-ai-agents",
+              "title": "Radar makes podcasts searchable — and usable by AI agents",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+              "reason": "里程碑式进展",
+              "pillar": "ecosystem"
+            }
+          ]
         }
       ],
       "lifecycle": "declining"
@@ -1192,208 +1453,6 @@
       "lifecycle": "declining"
     },
     {
-      "title": "AI安全与信任正成为规模化部署的关键挑战",
-      "type": "bottleneck",
-      "latest_type": "bottleneck",
-      "days": [
-        "2026-05-12",
-        "2026-06-16",
-        "2026-06-26",
-        "2026-07-08",
-        "2026-07-16",
-        "2026-07-17",
-        "2026-07-25",
-        "2026-07-31"
-      ],
-      "instances": [
-        {
-          "date": "2026-05-12",
-          "title": "AI安全与信任正成为规模化部署的关键挑战",
-          "body": "今日6条情报涉及AI安全与信任议题。关键事件包括：Postmortem: TanStack npm supply-chain co。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
-          "type": "bottleneck",
-          "evidence": [
-            {
-              "id": "postmortem-tanstack-npm-supply-chain-compromise",
-              "title": "Postmortem: TanStack npm supply-chain compromise",
-              "score": 0.61,
-              "url": "https://news.ycombinator.com/item?id=48100706",
-              "reason": "里程碑式进展；高价值信号",
-              "pillar": "ecosystem"
-            },
-            {
-              "id": "gmail-registration-now-requires-scanning-a-qr-code",
-              "title": "Gmail registration now requires scanning a QR code and sending a text ",
-              "score": 0.53,
-              "url": "https://news.ycombinator.com/item?id=48092028",
-              "reason": "高价值信号",
-              "pillar": "ecosystem"
-            },
-            {
-              "id": "claude-platform-on-aws",
-              "title": "Claude Platform on AWS",
-              "score": 0.47,
-              "url": "https://news.ycombinator.com/item?id=48103042",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "ecosystem"
-            },
-            {
-              "id": "engineering-robustness-into-personal-agents-with-the-ai-work",
-              "title": "Engineering Robustness into Personal Agents with the AI Workflow Store",
-              "score": 0.3,
-              "url": "",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "ecosystem"
-            },
-            {
-              "id": "learning-when-to-stop-selective-imitation-learning-under-ar",
-              "title": "Learning When to Stop: Selective Imitation Learning Under Arbitrary Dy",
-              "score": 0.26,
-              "url": "",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "ecosystem"
-            }
-          ]
-        },
-        {
-          "date": "2026-06-16",
-          "title": "AI安全与信任正成为规模化部署的关键挑战",
-          "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：Cybersecurity vets protest &#8216;danger, The US government&#8217;s Anthropic mode。具体信号：安全漏洞。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
-          "type": "bottleneck",
-          "evidence": [
-            {
-              "id": "chopratejasheadroom",
-              "title": "chopratejas/headroom",
-              "score": 0.61,
-              "url": "https://github.com/chopratejas/headroom",
-              "reason": "高价值信号",
-              "pillar": "ecosystem"
-            }
-          ]
-        },
-        {
-          "date": "2026-06-26",
-          "title": "AI安全与信任正成为规模化部署的关键挑战",
-          "body": "今日4条情报涉及AI安全与信任议题。关键事件包括：What happened after 2k people tried to h, When are likely answers right? On Sequen, Anthropic&#8217;s Claude is winning over。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
-          "type": "bottleneck",
-          "evidence": [
-            {
-              "id": "general-intuition8217s-23b-bet-that-video-games-can-train-ai-agents-for-the-real",
-              "title": "General Intuition&#8217;s $2.3B bet that video games can train AI agen",
-              "score": 0.52,
-              "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-              "reason": "高价值信号",
-              "pillar": "patterns"
-            },
-            {
-              "id": "show-hn-visual-workspace-for-agents-based-on-unix",
-              "title": "Show HN: Visual Workspace for Agents Based on Unix",
-              "score": 0.29,
-              "url": "https://www.prototyper.co",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
-            }
-          ]
-        },
-        {
-          "date": "2026-07-08",
-          "title": "AI安全与信任正成为规模化部署的关键挑战",
-          "body": "今日5条情报涉及AI安全与信任议题。关键事件包括：GitLost: We Tricked GitHub's AI Agent in, Discord admits AI moderation bug wrongfu, AI Meets Cryptography 1: What AI Found i。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
-          "type": "bottleneck",
-          "evidence": [
-            {
-              "id": "twitter_bindureddy_2074700938930160079",
-              "title": "Make your own agent - combine Fable and GPT 5.6 sol\n\nPutting the final",
-              "score": 0.71,
-              "url": "https://x.com/bindureddy/status/2074700938930160079",
-              "reason": "里程碑式进展；高价值信号",
-              "pillar": "patterns"
-            },
-            {
-              "id": "gitlost-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-              "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-              "score": 0.53,
-              "url": "https://news.ycombinator.com/item?id=48827858",
-              "reason": "高价值信号",
-              "pillar": "patterns"
-            }
-          ]
-        },
-        {
-          "date": "2026-07-16",
-          "title": "AI安全与信任正成为规模化部署的关键挑战",
-          "body": "今日3条情报涉及AI安全与信任议题。关键事件包括：Microsoft patches record number of secur, DSLs Enable Reliable Use of LLMs, Show HN: Painterly – Turn pictures into 。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
-          "type": "bottleneck",
-          "evidence": [
-            {
-              "id": "show-hn-aict-unix-coreutils-that-output-xmljson-built-for-ai-agents",
-              "title": "Show HN: Aict – Unix coreutils that output XML/JSON, built for AI agen",
-              "score": 0.33,
-              "url": "https://github.com/synseqack/aict",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "ecosystem"
-            },
-            {
-              "id": "agentty-a-drop-in-alternative-to-claude-code-written-in-c26-110-mb-binary",
-              "title": "Agentty – A drop-in alternative to claude-code, written in C++26. 11.0",
-              "score": 0.26,
-              "url": "https://news.ycombinator.com/item?id=48928002",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "ecosystem"
-            }
-          ]
-        },
-        {
-          "date": "2026-07-17",
-          "title": "AI安全与信任正成为规模化部署的关键挑战",
-          "body": "今日3条情报涉及AI安全与信任议题。关键事件包括：Beyond Success Rate: Cost-Aware Evaluati, The LLM Critics Are Right. I Use LLMs An, Generative AI Is an Engineering Disaster。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
-          "type": "bottleneck",
-          "evidence": [
-            {
-              "id": "where-are-yc-founders-now-openai-and-anthropic-mostly",
-              "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
-              "score": 0.56,
-              "url": "https://news.ycombinator.com/item?id=48931588",
-              "reason": "高价值信号",
-              "pillar": "ecosystem"
-            }
-          ]
-        },
-        {
-          "date": "2026-07-25",
-          "title": "AI安全与信任正成为规模化部署的关键挑战",
-          "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：We recognize there are a lot of question, UK AISI / Caisi Preliminary Assessment o。具体信号：安全漏洞。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
-          "type": "bottleneck",
-          "evidence": [
-            {
-              "id": "twitter_elonmusk_2080841494756233632",
-              "title": "https://t.co/e2hvfmnewh",
-              "score": 1.0,
-              "url": "https://x.com/elonmusk/status/2080841494756233632",
-              "reason": "社区关注度高（6383 stars）；里程碑式进展；高价值信号",
-              "pillar": "capabilities"
-            }
-          ]
-        },
-        {
-          "date": "2026-07-31",
-          "title": "AI安全与信任正成为规模化部署的关键挑战",
-          "body": "今日4条情报涉及AI安全与信任议题。关键事件包括：Google says it fixed more Chrome bugs in, Okta buys AI security startup Permiso — , In the Hugging Face breach, OpenAI&#8217。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
-          "type": "bottleneck",
-          "evidence": [
-            {
-              "id": "gcc-steering-committee-announces-ai-policy",
-              "title": "GCC steering committee announces AI policy",
-              "score": 0.56,
-              "url": "https://news.ycombinator.com/item?id=49108685",
-              "reason": "高价值信号",
-              "pillar": "ecosystem"
-            }
-          ]
-        }
-      ],
-      "lifecycle": "declining"
-    },
-    {
       "title": "AI从对话式向自主操作系统级控制演进",
       "type": "paradigm_shift",
       "latest_type": "paradigm_shift",
@@ -1635,7 +1694,13 @@
       "lifecycle": "emerging"
     }
   ],
-  "contradictions": [],
+  "contradictions": [
+    {
+      "date": "2026-08-27",
+      "type": "growth_vs_risk",
+      "description": "Growth validation detected alongside infrastructure/trust bottlenecks."
+    }
+  ],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-08-26**（92天），累计 **2286** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：🤖 技术能力呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-08-27**（93天），累计 **2322** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。"
 }

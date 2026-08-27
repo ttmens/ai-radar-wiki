@@ -20,6 +20,13 @@
 
 ## 运行日志
 
+## [2026-08-27 12:05] Evolution Run
+- Deprecated: 1 nodes
+- Pillar distribution: {'capabilities': 1946, 'ecosystem': 511, 'patterns': 566, 'business': 405, 'unknown': 4}
+- Top tags: {'capabilities': 1873, 'discussion': 1397, 'hacker-news': 1397, 'research': 816, 'news': 759}
+  🗑️ Deprecated: justice-dept-is-said-to-open-criminal-inquiry-of-e-jean-carroll.md (91d old, score=0.085)  📊 1 nodes deprecated (90d+ and score < 0.15)
+
+
 ## [2026-08-26 20:04] Evolution Run
 - Deprecated: 0 nodes
 - Pillar distribution: {'capabilities': 1922, 'ecosystem': 508, 'patterns': 560, 'business': 402, 'unknown': 4}
