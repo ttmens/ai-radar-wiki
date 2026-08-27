@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-27T12:05:19.531356+08:00",
-  "days_analyzed": 93,
+  "generated_at": "2026-08-28T04:04:19.150683+08:00",
+  "days_analyzed": 94,
   "pillar_trends": {
     "capabilities": {
-      "trend": "stable",
-      "delta": 0,
-      "current": 2,
+      "trend": "down",
+      "delta": -1,
+      "current": 1,
       "previous": 2,
       "has_data": true
     },
     "patterns": {
-      "trend": "stable",
-      "delta": 0,
-      "current": 3,
+      "trend": "down",
+      "delta": -2,
+      "current": 1,
       "previous": 3,
       "has_data": true
     },
@@ -620,7 +620,8 @@
         "2026-08-24",
         "2026-08-25",
         "2026-08-26",
-        "2026-08-27"
+        "2026-08-27",
+        "2026-08-28"
       ],
       "instances": [
         {
@@ -969,6 +970,22 @@
               "title": "Amazon just tripled its order of Nvidia chips over &#8216;surging dema",
               "score": 0.3,
               "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "business"
+            }
+          ]
+        },
+        {
+          "date": "2026-08-28",
+          "title": "AI商业动态：资本与市场持续升温",
+          "body": "今日1条情报涉及AI商业动态。包括：Viral AI startup Instinct has raised $35。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+          "type": "validation",
+          "evidence": [
+            {
+              "id": "viral-ai-startup-instinct-has-raised-350m-at-a-25b-valuation",
+              "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
               "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "business"
             }
@@ -1702,5 +1719,5 @@
     }
   ],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-08-27**（93天），累计 **2322** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-08-28**（94天），累计 **2343** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。"
 }

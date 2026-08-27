@@ -3585,3 +3585,26 @@
 - create: hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-h.md
 - create: show-hn-we-built-the-smallest-dual-band-aircraft-tracker.md
 - create: show-hn-how-much-of-hacker-news-is-about-ai.md
+
+## [2026-08-28 04:04] sync v3 | 24 new | pillars: {'capabilities': 17, 'patterns': 4, 'ecosystem': 2, 'business': 1}
+- create: small-models-have-arrived.md
+- create: nvidia-starts-pac-as-ai-chip-maker-builds-dc-influence-force.md
+- create: gemini-omni-11-flash.md
+- create: show-hn-the-load-bearing-vocabulary-of-claude.md
+- create: humanity-has-the-debate-about-ai-consciousness-backwards.md
+- create: two-german-airport-workers-die-of-malaria-after-mosquito-arrives-on-plane.md
+- create: mits-ad-hoc-committee-on-ai-use-in-teaching-learning-and-research-training.md
+- create: show-hn-my-claude-quota-ran-out-in-10-minutes-so-i-made-a-tool-to-find-out-why.md
+- create: peter-cullen-voice-of-optimus-prime-in-transformers-dies-at-85.md
+- create: needle-the-benchmark-your-search-engine-cant-memorize.md
+- create: barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-go.md
+- create: openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-agains.md
+- create: google8217s-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more.md
+- create: hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck.md
+- create: ai8217s-memory-crunch-is-coming-for-android-apps.md
+- create: heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies.md
+- create: plaud8217s-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents.md
+- create: openai-to-start-showing-ads-on-chatgpt8217s-free-and-go-tiers-in-india.md
+- create: nvidia-closes-in-on-hugging-face-acquisition.md
+- create: viral-ai-startup-instinct-has-raised-350m-at-a-25b-valuation.md
+- create: show-hn-a-lightweight-stateless-database-for-agent-memory.md
