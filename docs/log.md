@@ -3630,3 +3630,13 @@
 - create: stripe-said-to-abandon-50b-pursuit-of-paypal.md
 - create: anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026.md
 - create: show-hn-proval-self-hosted-code-review-agent-for-gitlab-forgejo-and-github.md
+
+## [2026-08-29 00:02] sync v3 | 8 new | pillars: {'capabilities': 8}
+- create: openai-migrating-to-httpx2.md
+- create: autisticiinventatis-main-org-domain-goes-dark-after-us-terrorism-designation.md
+- create: i-used-aws-cognito-for-a-startup-i-wouldnt-do-it-again.md
+- create: luanti-removed-from-google-play-due-to-baseless-ai-copyright-notice.md
+- create: pentagons-blacklisting-of-anthropic-was-unlawful-us-judge-rules.md
+- create: us-sanctions-against-the-ai-collective.md
+- create: anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label.md
+- create: meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutin.md

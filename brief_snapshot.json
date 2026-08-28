@@ -1,396 +1,88 @@
 {
-  "date": "2026-08-28",
-  "generated_at": "2026-08-28T20:05:28.725460+08:00",
-  "item_count": 35,
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T00:02:34.080222+08:00",
+  "item_count": 7,
   "items": [
     {
-      "id": "dietrichgebertponytail",
-      "label": "DietrichGebert/ponytail",
-      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "pm_score": 0.455,
-      "pillar": "patterns",
-      "type": "github",
-      "source_type": "github",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "small-models-have-arrived",
-      "label": "Small Models Have Arrived",
+      "id": "pentagons-blacklisting-of-anthropic-was-unlawful-us-judge-rules",
+      "label": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
       "summary": "暂无中文摘要",
       "pm_score": 0.425,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49466917",
-      "date": "2026-08-28"
+      "url": "https://news.ycombinator.com/item?id=49477055",
+      "date": "2026-08-29"
     },
     {
-      "id": "gemini-35-transcribe",
-      "label": "Gemini-3.5-Transcribe",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.425,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49468818",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "stripe-said-to-abandon-50b-pursuit-of-paypal",
-      "label": "Stripe said to abandon $50B pursuit of PayPal",
+      "id": "luanti-removed-from-google-play-due-to-baseless-ai-copyright-notice",
+      "label": "Luanti removed from Google Play due to baseless AI copyright notice",
       "summary": "暂无中文摘要",
       "pm_score": 0.405,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49473483",
-      "date": "2026-08-28"
+      "url": "https://news.ycombinator.com/item?id=49475079",
+      "date": "2026-08-29"
     },
     {
-      "id": "show-hn-the-load-bearing-vocabulary-of-claude",
-      "label": "Show HN: The load-bearing vocabulary of Claude",
+      "id": "us-sanctions-against-the-ai-collective",
+      "label": "U.S. Sanctions Against the a/I Collective",
       "summary": "暂无中文摘要",
-      "pm_score": 0.405,
+      "pm_score": 0.375,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49461817",
-      "date": "2026-08-28"
+      "url": "https://news.ycombinator.com/item?id=49477854",
+      "date": "2026-08-29"
     },
     {
-      "id": "two-german-airport-workers-die-of-malaria-after-mosquito-arrives-on-plane",
-      "label": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+      "id": "openai-migrating-to-httpx2",
+      "label": "OpenAI: Migrating to HTTPX2",
       "summary": "暂无中文摘要",
       "pm_score": 0.355,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49468315",
-      "date": "2026-08-28"
+      "url": "https://news.ycombinator.com/item?id=49477212",
+      "date": "2026-08-29"
     },
     {
-      "id": "humanity-has-the-debate-about-ai-consciousness-backwards",
-      "label": "Humanity has the debate about AI consciousness backwards",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.325,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49458875",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "terminal-bench-science-evaluating-ai-agents-on-scientific-research-workflows",
-      "label": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "patterns",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49472820",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "ai8217s-memory-crunch-is-coming-for-android-apps",
-      "label": "AI&#8217;s memory crunch is coming for Android apps",
-      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
-      "pm_score": 0.305,
-      "pillar": "patterns",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "show-hn-we-built-open-openrouter-that-turns-usage-into-a-better-model",
-      "label": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "id": "i-used-aws-cognito-for-a-startup-i-wouldnt-do-it-again",
+      "label": "I Used AWS Cognito for a Startup. I Wouldn't Do It Again",
       "summary": "暂无中文摘要",
       "pm_score": 0.305,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49471407",
-      "date": "2026-08-28"
+      "url": "https://news.ycombinator.com/item?id=49478091",
+      "date": "2026-08-29"
     },
     {
-      "id": "gemini-omni-11-flash",
-      "label": "Gemini Omni 1.1 Flash",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49467922",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026",
-      "label": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "id": "meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutin",
+      "label": "Meta executive leaves for OpenAI as the social media giant faces growing scrutin",
+      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
       "pm_score": 0.305,
       "pillar": "capabilities",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "date": "2026-08-28"
+      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "date": "2026-08-29"
     },
     {
-      "id": "previewing-the-model-hardware-standard",
-      "label": "Previewing the Model Hardware Standard",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49468834",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "google8217s-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more",
-      "label": "Google&#8217;s AI Mode can now track flight prices, help book hotels, and more",
-      "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
-      "pm_score": 0.305,
-      "pillar": "patterns",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies",
-      "label": "Here’s all the times AI has gone rogue and hacked other companies",
-      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+      "id": "anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
+      "label": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
       "pm_score": 0.305,
       "pillar": "capabilities",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "openai-to-start-showing-ads-on-chatgpt8217s-free-and-go-tiers-in-india",
-      "label": "OpenAI to start showing ads on ChatGPT&#8217;s free and Go tiers in India",
-      "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-go",
-      "label": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at",
-      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "mits-ad-hoc-committee-on-ai-use-in-teaching-learning-and-research-training",
-      "label": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49464314",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "plaud8217s-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents",
-      "label": "Plaud&#8217;s new earphones come with an eSIM-enabled case for talking to AI age",
-      "summary": "Plaud's new 'agentic' earbuds are priced at $249.",
-      "pm_score": 0.305,
-      "pillar": "patterns",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-agains",
-      "label": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend aga",
-      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "nvidia-closes-in-on-hugging-face-acquisition",
-      "label": "Nvidia closes in on Hugging Face acquisition",
-      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
-      "pm_score": 0.305,
-      "pillar": "ecosystem",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck",
-      "label": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
-      "pm_score": 0.305,
-      "pillar": "ecosystem",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "viral-ai-startup-instinct-has-raised-350m-at-a-25b-valuation",
-      "label": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
-      "pm_score": 0.305,
-      "pillar": "business",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "clap-cross-embodiment-video-world-models-are-zero-shot-physical-simulators",
-      "label": "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators",
-      "summary": "State-of-the-art action-conditioned video models are typically restricted to a single robot embodiment, preventing them from leveraging the vast corpus of heterogeneous video data that contains rich signals for learning generalizable physics. To bridge this gap, we introduce CLAP, a framework for cr",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2608.27406v1",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "wikiskill-compiling-agent-experience-into-persistent-knowledge-for-skill-evoluti",
-      "label": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolut",
-      "summary": "Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables agents to progressively adapt through interaction. However, the insights that guide skill developme",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2608.27454v1",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "how-language-models-organize-and-structure-moral-knowledge",
-      "label": "How Language Models Organize and Structure Moral Knowledge",
-      "summary": "How do large language models (LLMs) organize moral knowledge? Models detect moral content broadly, but detection is a low bar. We ask whether they go further, distinguishing moral foundations from one another and organizing the relationships between them geometrically.\n  We train six independent lin",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2608.27402v1",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "making-clinical-language-models-auditable-concept-guided-fine-tuning-for-robust",
-      "label": "Making Clinical Language Models Auditable: Concept-Guided Fine-Tuning for Robust",
-      "summary": "Clinical language models can achieve strong in-hospital accuracy yet fail under deployment shifts because they exploit note-specific artifacts (e.g., templates, separators, boilerplate) that do not reflect patient state. We propose CAST (Concept-guided Artifact Suppression Tuning), an SAE-based fram",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2608.27397v1",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "from-static-to-dynamic-benchmarking-real-world-code-review-with-mcr-bench",
-      "label": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench",
-      "summary": "In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming. Although recent work explores large language models (LLMs) for automated code review, most approaches",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2608.27442v1",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "scaling-graph-neural-networks-for-friend-recommendation-multi-hash-user-embeddin",
-      "label": "Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddi",
-      "summary": "Friend recommendation is inherently graph-structured: the relevance of a potential connection depends on multi-hop social context rather than user attributes alone. However, deploying message-passing GNNs on a production-scale social graph with hundreds of millions of users and tens of billions of e",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2608.27413v1",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "swe-prime-fewer-trajectories-better-performance",
-      "label": "SWE-Prime: Fewer Trajectories, Better Performance",
-      "summary": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT) on successful trajectories. However, task success does not guarantee high-quality supervision: suc",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2608.27449v1",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "redevoagent-automatic-red-teaming-agent-with-experience-driven-skill-evolution",
-      "label": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution",
-      "summary": "LLM-based agents are increasingly deployed in product-level execution harnesses, where jailbreaks can trigger harmful tool use and persistent state changes, creating greater risks than unsafe text generation alone. Existing automatic red-teaming methods often rely on fixed attacks, while recent agen",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2608.27439v1",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "persona-execution-separation-an-architecture-pattern-for-evolving-llm-agents-und",
-      "label": "Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents un",
-      "summary": "Large language model (LLM) agents in governed organizations must let the persona (instructions, tone, self-presentation) evolve freely, while keeping execution (stateful, audited work) traceable. A single trust domain does not satisfy both cheaply. We present Persona-Execution Separation (PES): pers",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2608.27427v1",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "mechanistic-reaction-prediction-via-discrete-flow-matching-on-graph-structured-e",
-      "label": "Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured E",
-      "summary": "Chemical reactions are fundamentally transformations in electron space, yet most machine learning approaches model them either through \\textit{de novo} generation of product molecules or through heuristic graph edits that operate directly on molecular topology.\n  We introduce MAELLE (\\textbf{M}ech\\t",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2608.27429v1",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "beyond-f1-evaluating-coverage-and-failure-recovery-in-ai-model-security-scanners",
-      "label": "Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanner",
-      "summary": "Static scanners are increasingly used to identify executable or otherwise unsafe content in machine- learning artifacts, yet conventional evaluation metrics characterize only cases where a scanner yields a usable security judgment. We evaluate ModelScan, ModelAudit, and Fickling using a controlled,",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2608.27424v1",
-      "date": "2026-08-28"
-    },
-    {
-      "id": "learning-a-continuous-sepsis-severity-score-without-hour-by-hour-supervision-a-t",
-      "label": "Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A",
-      "summary": "Currently used sepsis severity indices rely on fixed variables and weights established decades ago, which are coarsely discretized and calibrated to a cohort that no longer reflects contemporary critical care. No alternative learned directly from patient trajectories is in routine use. We conducted",
-      "pm_score": 0.305,
-      "pillar": "ecosystem",
-      "type": "papers",
-      "source_type": "papers",
-      "url": "http://arxiv.org/abs/2608.27421v1",
-      "date": "2026-08-28"
+      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "date": "2026-08-29"
     }
   ],
   "graph_totals": {
-    "real_nodes": 7954,
-    "edges": 8401
+    "real_nodes": 7962,
+    "edges": 8409
   }
 }
