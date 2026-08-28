@@ -3640,3 +3640,13 @@
 - create: us-sanctions-against-the-ai-collective.md
 - create: anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label.md
 - create: meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutin.md
+
+## [2026-08-29 06:02] sync v3 | 8 new | pillars: {'capabilities': 5, 'patterns': 1, 'ecosystem': 2}
+- create: stopping-the-smart-tv-from-being-used-against-you.md
+- create: autonomous-mathematical-discovery-in-an-open-world-multi-agent-environment.md
+- create: judge-rules-trump-administrations-blacklisting-of-anthropic-was-illegal.md
+- create: the-analytical-ai-handbook.md
+- create: neocloud-lambda-secures-1b-in-debt-to-buy-more-chips.md
+- create: an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai.md
+- create: open-weight-ai-companies-are-the-valley8217s-hottest-acquisition-targets.md
+- create: show-hn-conduct-open-source-guardrails-for-llm-and-mcp-tool-calls.md

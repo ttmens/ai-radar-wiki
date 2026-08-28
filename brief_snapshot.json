@@ -1,8 +1,19 @@
 {
   "date": "2026-08-29",
-  "generated_at": "2026-08-29T00:02:34.080222+08:00",
-  "item_count": 7,
+  "generated_at": "2026-08-29T06:02:23.182611+08:00",
+  "item_count": 11,
   "items": [
+    {
+      "id": "judge-rules-trump-administrations-blacklisting-of-anthropic-was-illegal",
+      "label": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49473522",
+      "date": "2026-08-29"
+    },
     {
       "id": "pentagons-blacklisting-of-anthropic-was-unlawful-us-judge-rules",
       "label": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
@@ -48,6 +59,17 @@
       "date": "2026-08-29"
     },
     {
+      "id": "an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
+      "label": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "date": "2026-08-29"
+    },
+    {
       "id": "i-used-aws-cognito-for-a-startup-i-wouldnt-do-it-again",
       "label": "I Used AWS Cognito for a Startup. I Wouldn't Do It Again",
       "summary": "暂无中文摘要",
@@ -70,6 +92,28 @@
       "date": "2026-08-29"
     },
     {
+      "id": "neocloud-lambda-secures-1b-in-debt-to-buy-more-chips",
+      "label": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "date": "2026-08-29"
+    },
+    {
+      "id": "open-weight-ai-companies-are-the-valley8217s-hottest-acquisition-targets",
+      "label": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
+      "summary": "There's a lot of capital pouring into the business of giving models away.",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "date": "2026-08-29"
+    },
+    {
       "id": "anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
       "label": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
       "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
@@ -82,7 +126,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 7962,
-    "edges": 8409
+    "real_nodes": 7970,
+    "edges": 8417
   }
 }

@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-08-29 | Total pages: 3544
+> Last updated: 2026-08-29 | Total pages: 3552
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -118,6 +118,7 @@
 - [[amds-instinct-mi455x-aiming-for-the-sun.md]] AMD's Instinct MI455X: Aiming for the Sun `pillar:capabilities` `score:0.465`
 - [[american-ai-is-locked-down-and-proprietary-its-losing.md]] American AI is locked down and proprietary. It's losing `pillar:capabilities` `score:0.48`
 - [[amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-d.md]] Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch `pillar:capabilities` `score:0.305`
+- [[an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai.md]] An Anthropic researcher just gave us a peek at self-improving AI `pillar:capabilities` `score:0.305`
 - [[an-openai-model-has-disproved-a-central-conjecture-in-discrete-geometry.md]] An OpenAI model has disproved a central conjecture in discrete geometry `pillar:capabilities` `score:0.63`
 - [[anatomy-of-a-failed-nation-state-attack.md]] Anatomy of a Failed (Nation-State?) Attack `pillar:capabilities` `score:0.345`
 - [[ancient-genome-duplications-laid-the-foundations-of-complex-brains.md]] Ancient genome duplications laid the foundations of complex brains `pillar:capabilities` `score:0.225`
@@ -583,6 +584,7 @@
 - [[jingyaogongminimind.md]] jingyaogong/minimind `pillar:capabilities` `score:0.545`
 - [[john-jumper-to-join-anthropic.md]] John Jumper to join Anthropic `pillar:capabilities` `score:0.48`
 - [[judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps.md]] Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps `pillar:capabilities` `score:0.305`
+- [[judge-rules-trump-administrations-blacklisting-of-anthropic-was-illegal.md]] Judge rules Trump administration’s blacklisting of Anthropic was illegal `pillar:capabilities` `score:0.455`
 - [[juliusbrusseecaveman.md]] JuliusBrussee/caveman `pillar:capabilities` `score:0.455`
 - [[jurassic-park-computers-in-excruciating-detail.md]] Jurassic Park computers in excruciating detail `pillar:capabilities` `score:0.26`
 - [[kagi-changelog-july-2-heads-tails-and-an-ai-toggle.md]] Kagi Changelog (July 2): Heads, tails, and an AI toggle `pillar:capabilities` `score:0.38`
@@ -715,6 +717,7 @@
 - [[navier-stokes-fluid-simulation-explained-with-godot-game-engine.md]] Navier-Stokes fluid simulation explained with Godot game engine `pillar:capabilities` `score:0.205`
 - [[neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi.md]] NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI `pillar:capabilities` `score:0.305`
 - [[needle-the-benchmark-your-search-engine-cant-memorize.md]] Needle: The benchmark your search engine can't memorize `pillar:capabilities` `score:0.155`
+- [[neocloud-lambda-secures-1b-in-debt-to-buy-more-chips.md]] Neocloud Lambda secures $1B in debt to buy more chips `pillar:capabilities` `score:0.305`
 - [[netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster.md]] Netris raises $15M Series A from a16z to help AI neoclouds go live faster `pillar:capabilities` `score:0.445`
 - [[neural-render-proxies-for-interactive-and-differentiable-lighting.md]] Neural Render Proxies for Interactive and Differentiable Lighting `pillar:capabilities` `score:0.295`
 - [[neutron-scattering-explains-why-gluten-free-pasta-falls-apart-2025.md]] Neutron scattering explains why gluten-free pasta falls apart (2025) `pillar:capabilities` `score:0.22`
@@ -1093,6 +1096,7 @@
 - [[stability-ai-releases-a-new-audio-model-that-can-create-six-minute-songs.md]] Stability AI releases a new audio model that can create six-minute songs `pillar:capabilities` `score:0.48`
 - [[starcloud-raises-250-million-for-orbital-data-centers-as-launch-options-dry-up.md]] Starcloud raises $250 million for orbital data centers as launch options dry up `pillar:capabilities` `score:0.305`
 - [[steve-wozniak-cheered-after-telling-students-they-have-ai-actual-intelligence.md]] Steve Wozniak cheered after telling students they have AI – actual intelligence `pillar:capabilities` `score:0.595`
+- [[stopping-the-smart-tv-from-being-used-against-you.md]] Stopping the smart TV from being used against you `pillar:capabilities` `score:0.255`
 - [[strace-ui-bonsai_term-and-the-tui-renaissance.md]] Strace-ui, Bonsai_term, and the TUI renaissance `pillar:capabilities` `score:0.345`
 - [[stress-disrupts-hippocampal-integration-of-overlapping-events-memory-inference.md]] Stress disrupts hippocampal integration of overlapping events, memory inference `pillar:capabilities` `score:0.345`
 - [[stripe-said-to-abandon-50b-pursuit-of-paypal.md]] Stripe said to abandon $50B pursuit of PayPal `pillar:capabilities` `score:0.405`
@@ -1123,6 +1127,7 @@
 - [[the-ai-productivity-gap.md]] The AI Productivity Gap `pillar:capabilities` `score:0.205`
 - [[the-ai-zombification-of-universities.md]] The AI Zombification of Universities `pillar:capabilities` `score:0.515`
 - [[the-airpods-effect.md]] The AirPods Effect `pillar:capabilities` `score:0.5`
+- [[the-analytical-ai-handbook.md]] The Analytical AI Handbook `pillar:capabilities` `score:0.155`
 - [[the-annotated-pytorch-training-loop.md]] The annotated PyTorch training loop `pillar:capabilities` `score:0.225`
 - [[the-art-of-hackingh4cker.md]] The-Art-of-Hacking/h4cker `pillar:capabilities` `score:0.58`
 - [[the-author-of-clean-code-no-longer-reviews-ai-generated-code.md]] The Author of Clean Code No Longer Reviews AI-Generated Code `pillar:capabilities` `score:0.38`
@@ -2061,6 +2066,7 @@
 - [[astrbotdevsastrbot.md]] AstrBotDevs/AstrBot `pillar:patterns` `score:0.58`
 - [[autolith-a-programming-agent-with-a-live-runtime.md]] Autolith: A programming agent with a live runtime `pillar:patterns` `score:0.305`
 - [[autonomous-flying-umbrella-follows-and-shields-users-from-rain-and-sunlight.md]] Autonomous flying umbrella follows and shields users from rain and sunlight `pillar:patterns` `score:0.395`
+- [[autonomous-mathematical-discovery-in-an-open-world-multi-agent-environment.md]] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment `pillar:patterns` `score:0.205`
 - [[be-skeptical-of-openais-rogue-hacker-agent-story.md]] Be skeptical of OpenAI's rogue hacker agent story `pillar:patterns` `score:0.6`
 - [[best-brain-for-agents-is-just-versioned-folders-of-markdown-files.md]] Best "Brain" for Agents Is Just Versioned Folders of Markdown Files `pillar:patterns` `score:0.365`
 - [[better-models-worse-tools.md]] Better Models: Worse Tools `pillar:patterns` `score:0.48`
@@ -2802,6 +2808,7 @@
 - [[open-source-ai-matters-more-than-ever-according-to-hugging-face8217s-clem-delang.md]] Open source AI matters more than ever, according to Hugging Face&#8217;s Clem De `pillar:ecosystem` `score:0.48`
 - [[open-source-ai-must-win.md]] Open source AI must win `pillar:ecosystem` `score:0.615`
 - [[open-webuiopen-webui.md]] open-webui/open-webui `pillar:ecosystem` `score:0.405`
+- [[open-weight-ai-companies-are-the-valley8217s-hottest-acquisition-targets.md]] Open-weight AI companies are the Valley&#8217;s hottest acquisition targets `pillar:ecosystem` `score:0.305`
 - [[open-weight-ai-is-having-its-kubernetes-moment.md]] Open-weight AI is having its Kubernetes moment `pillar:ecosystem` `score:0.665`
 - [[open-weights-and-american-ai-leadership-pdf.md]] Open Weights and American AI Leadership [pdf] `pillar:ecosystem` `score:0.395`
 - [[openai-and-government-of-malta-partner-to-roll-out-chatgpt-plus-to-all-citizens.md]] OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens `pillar:ecosystem` `score:0.565`
@@ -2863,6 +2870,7 @@
 - [[show-hn-bastion-isolated-linux-vms-for-background-coding-agents.md]] Show HN: Bastion – isolated Linux VMs for background coding agents `pillar:ecosystem` `score:0.33`
 - [[show-hn-claude-account-switch-claude-code-accounts-without-logging-in-again.md]] Show HN: Claude-account – switch Claude Code accounts without logging in again `pillar:ecosystem` `score:0.345`
 - [[show-hn-claw-patrol-a-security-firewall-for-agents.md]] Show HN: Claw Patrol, a security firewall for agents `pillar:ecosystem` `score:0.33`
+- [[show-hn-conduct-open-source-guardrails-for-llm-and-mcp-tool-calls.md]] Show HN: Conduct, open-source guardrails for LLM and MCP tool calls `pillar:ecosystem` `score:0.155`
 - [[show-hn-costperprompt-live-ai-api-pricing-and-real-workload-cost-calculators.md]] Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators `pillar:ecosystem` `score:0.155`
 - [[show-hn-cynative-read-only-cli-in-go-that-explains-your-live-infrastructure.md]] Show HN: Cynative – Read-only CLI in Go that explains your live infrastructure `pillar:ecosystem` `score:0.26`
 - [[show-hn-explore-color-palettes-inspired-by-3000-m.md]] Show HN: Explore color palettes inspired by 3000 master painter artworks `pillar:ecosystem` `score:0.45`

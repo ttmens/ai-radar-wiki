@@ -2,7 +2,7 @@
   "daily_summary": {
     "date": "2026-08-29",
     "headline": "今日 AI 情报 · 2026-08-29",
-    "overview": "今日共采集 8 条情报",
+    "overview": "今日共采集 16 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -10,10 +10,40 @@
         "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "pentagons-blacklisting-of-anthropic-was-unlawful-us-judge-rules",
-            "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
-            "score": 0.42,
-            "url": "https://news.ycombinator.com/item?id=49477055",
+            "id": "judge-rules-trump-administrations-blacklisting-of-anthropic-was-illegal",
+            "title": "Judge rules Trump administration’s blacklisting of Anthropic was illeg",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=49473522",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
+        "evidence": [
+          {
+            "id": "autonomous-mathematical-discovery-in-an-open-world-multi-agent-environment",
+            "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environ",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=49481455",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向有新的动态。",
+        "evidence": [
+          {
+            "id": "open-weight-ai-companies-are-the-valley8217s-hottest-acquisition-targets",
+            "title": "Open-weight AI companies are the Valley&#8217;s hottest acquisition ta",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -21,10 +51,14 @@
       }
     ],
     "narratives": [],
-    "stats": "🤖 技术能力: 8",
-    "total_items": 8,
-    "high_value_count": 7,
+    "stats": "🤖 技术能力: 13 | 🔧 工具生态: 2 | 📱 产品模式: 1",
+    "total_items": 16,
+    "high_value_count": 11,
     "all_today_ids": [
+      {
+        "id": "judge-rules-trump-administrations-blacklisting-of-anthropic-was-illegal",
+        "label": "Judge rules Trump administration’s blacklisting of Anthropic was illegal"
+      },
       {
         "id": "pentagons-blacklisting-of-anthropic-was-unlawful-us-judge-rules",
         "label": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules"
@@ -42,6 +76,10 @@
         "label": "OpenAI: Migrating to HTTPX2"
       },
       {
+        "id": "an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
+        "label": "An Anthropic researcher just gave us a peek at self-improving AI"
+      },
+      {
         "id": "i-used-aws-cognito-for-a-startup-i-wouldnt-do-it-again",
         "label": "I Used AWS Cognito for a Startup. I Wouldn't Do It Again"
       },
@@ -50,15 +88,39 @@
         "label": "Meta executive leaves for OpenAI as the social media giant faces growing scrutin"
       },
       {
+        "id": "neocloud-lambda-secures-1b-in-debt-to-buy-more-chips",
+        "label": "Neocloud Lambda secures $1B in debt to buy more chips"
+      },
+      {
+        "id": "open-weight-ai-companies-are-the-valley8217s-hottest-acquisition-targets",
+        "label": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets"
+      },
+      {
         "id": "anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
         "label": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label"
       },
       {
         "id": "autisticiinventatis-main-org-domain-goes-dark-after-us-terrorism-designation",
         "label": "Autistici/Inventati's main .org domain goes dark after US terrorism designation"
+      },
+      {
+        "id": "stopping-the-smart-tv-from-being-used-against-you",
+        "label": "Stopping the smart TV from being used against you"
+      },
+      {
+        "id": "autonomous-mathematical-discovery-in-an-open-world-multi-agent-environment",
+        "label": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment"
+      },
+      {
+        "id": "show-hn-conduct-open-source-guardrails-for-llm-and-mcp-tool-calls",
+        "label": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls"
+      },
+      {
+        "id": "the-analytical-ai-handbook",
+        "label": "The Analytical AI Handbook"
       }
     ],
     "date_bj": "2026-08-29 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-08-29 00:02:02"
+    "generated_at_bj": "2026-08-29 06:01:52"
   }
 }
