@@ -3608,3 +3608,25 @@
 - create: nvidia-closes-in-on-hugging-face-acquisition.md
 - create: viral-ai-startup-instinct-has-raised-350m-at-a-25b-valuation.md
 - create: show-hn-a-lightweight-stateless-database-for-agent-memory.md
+
+## [2026-08-28 20:05] sync v3 | 97 new | pillars: {'patterns': 33, 'ecosystem': 16, 'capabilities': 48}
+- create: dietrichgebertponytail.md
+- create: wikiskill-compiling-agent-experience-into-persistent-knowledge-for-skill-evoluti.md
+- create: swe-prime-fewer-trajectories-better-performance.md
+- create: from-static-to-dynamic-benchmarking-real-world-code-review-with-mcr-bench.md
+- create: redevoagent-automatic-red-teaming-agent-with-experience-driven-skill-evolution.md
+- create: mechanistic-reaction-prediction-via-discrete-flow-matching-on-graph-structured-e.md
+- create: persona-execution-separation-an-architecture-pattern-for-evolving-llm-agents-und.md
+- create: beyond-f1-evaluating-coverage-and-failure-recovery-in-ai-model-security-scanners.md
+- create: learning-a-continuous-sepsis-severity-score-without-hour-by-hour-supervision-a-t.md
+- create: scaling-graph-neural-networks-for-friend-recommendation-multi-hash-user-embeddin.md
+- create: clap-cross-embodiment-video-world-models-are-zero-shot-physical-simulators.md
+- create: how-language-models-organize-and-structure-moral-knowledge.md
+- create: making-clinical-language-models-auditable-concept-guided-fine-tuning-for-robust.md
+- create: gemini-35-transcribe.md
+- create: terminal-bench-science-evaluating-ai-agents-on-scientific-research-workflows.md
+- create: show-hn-we-built-open-openrouter-that-turns-usage-into-a-better-model.md
+- create: previewing-the-model-hardware-standard.md
+- create: stripe-said-to-abandon-50b-pursuit-of-paypal.md
+- create: anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026.md
+- create: show-hn-proval-self-hosted-code-review-agent-for-gitlab-forgejo-and-github.md

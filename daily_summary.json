@@ -2,18 +2,25 @@
   "daily_summary": {
     "date": "2026-08-28",
     "headline": "今日 AI 情报 · 2026-08-28",
-    "overview": "AI商业动态：资本与市场持续升温",
+    "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "今日🤖 技术能力方向有新的动态。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：安全/漏洞, 模型能力, AI Agent, 融资/投资。",
         "evidence": [
           {
-            "id": "small-models-have-arrived",
-            "title": "Small Models Have Arrived",
-            "score": 0.42,
-            "url": "https://news.ycombinator.com/item?id=49466917",
+            "id": "wikiskill-compiling-agent-experience-into-persistent-knowledge-for-skill-evoluti",
+            "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Sk",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2608.27454v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "redevoagent-automatic-red-teaming-agent-with-experience-driven-skill-evolution",
+            "title": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill ",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2608.27439v1",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -25,10 +32,24 @@
         "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
         "evidence": [
           {
+            "id": "terminal-bench-science-evaluating-ai-agents-on-scientific-research-workflows",
+            "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research wo",
+            "score": 0.3,
+            "url": "https://news.ycombinator.com/item?id=49472820",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
             "id": "show-hn-a-lightweight-stateless-database-for-agent-memory",
             "title": "Show HN: A lightweight, stateless database for agent memory",
             "score": 0.15,
             "url": "https://polign.com/blog-edge-agent-memory",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-proval-self-hosted-code-review-agent-for-gitlab-forgejo-and-github",
+            "title": "Show HN: Proval – Self-hosted code review agent for GitLab, Forgejo, a",
+            "score": 0.15,
+            "url": "https://github.com/seoes/proval",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -67,19 +88,43 @@
     ],
     "narratives": [
       {
+        "title": "AI Agent 工具链与协作流程快速成熟",
+        "body": "今日4条情报涉及AI Agent及相关工具生态。典型项目包括：DietrichGebert/ponytail, Terminal-Bench-Science: Evaluating AI ag, Plaud&#8217;s new earphones come with an。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "type": "paradigm_shift",
+        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      },
+      {
+        "title": "AI安全与信任正成为规模化部署的关键挑战",
+        "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：Making Clinical Language Models Auditabl, RedEvoAgent: Automatic Red-Teaming Agent。具体信号：安全漏洞。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+        "type": "bottleneck",
+        "action": "建议：审查当前产品的安全/信任/合规设计，是否需要升级。这是获取企业客户的关键竞争力。"
+      },
+      {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日1条情报涉及AI商业动态。包括：Viral AI startup Instinct has raised $35。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日2条情报涉及AI商业动态。包括：Viral AI startup Instinct has raised $35, Beyond F1: Evaluating Coverage and Failu。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 14 | 📱 产品模式: 4 | 🔧 工具生态: 2 | 💰 商业趋势: 1",
-    "total_items": 21,
-    "high_value_count": 16,
+    "stats": "📱 产品模式: 7 | 🤖 技术能力: 30 | 🔧 工具生态: 3 | 💰 商业趋势: 1",
+    "total_items": 41,
+    "high_value_count": 35,
     "all_today_ids": [
+      {
+        "id": "dietrichgebertponytail",
+        "label": "DietrichGebert/ponytail"
+      },
       {
         "id": "small-models-have-arrived",
         "label": "Small Models Have Arrived"
+      },
+      {
+        "id": "gemini-35-transcribe",
+        "label": "Gemini-3.5-Transcribe"
+      },
+      {
+        "id": "stripe-said-to-abandon-50b-pursuit-of-paypal",
+        "label": "Stripe said to abandon $50B pursuit of PayPal"
       },
       {
         "id": "show-hn-the-load-bearing-vocabulary-of-claude",
@@ -94,12 +139,28 @@
         "label": "Humanity has the debate about AI consciousness backwards"
       },
       {
+        "id": "terminal-bench-science-evaluating-ai-agents-on-scientific-research-workflows",
+        "label": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows"
+      },
+      {
         "id": "ai8217s-memory-crunch-is-coming-for-android-apps",
         "label": "AI&#8217;s memory crunch is coming for Android apps"
       },
       {
+        "id": "show-hn-we-built-open-openrouter-that-turns-usage-into-a-better-model",
+        "label": "Show HN: We built open OpenRouter that turns usage into a better model"
+      },
+      {
         "id": "gemini-omni-11-flash",
         "label": "Gemini Omni 1.1 Flash"
+      },
+      {
+        "id": "anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026",
+        "label": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026"
+      },
+      {
+        "id": "previewing-the-model-hardware-standard",
+        "label": "Previewing the Model Hardware Standard"
       },
       {
         "id": "google8217s-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more",
@@ -142,6 +203,54 @@
         "label": "Viral AI startup Instinct has raised $350M at a $2.5B valuation"
       },
       {
+        "id": "clap-cross-embodiment-video-world-models-are-zero-shot-physical-simulators",
+        "label": "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators"
+      },
+      {
+        "id": "wikiskill-compiling-agent-experience-into-persistent-knowledge-for-skill-evoluti",
+        "label": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolut"
+      },
+      {
+        "id": "how-language-models-organize-and-structure-moral-knowledge",
+        "label": "How Language Models Organize and Structure Moral Knowledge"
+      },
+      {
+        "id": "making-clinical-language-models-auditable-concept-guided-fine-tuning-for-robust",
+        "label": "Making Clinical Language Models Auditable: Concept-Guided Fine-Tuning for Robust"
+      },
+      {
+        "id": "from-static-to-dynamic-benchmarking-real-world-code-review-with-mcr-bench",
+        "label": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench"
+      },
+      {
+        "id": "scaling-graph-neural-networks-for-friend-recommendation-multi-hash-user-embeddin",
+        "label": "Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddi"
+      },
+      {
+        "id": "swe-prime-fewer-trajectories-better-performance",
+        "label": "SWE-Prime: Fewer Trajectories, Better Performance"
+      },
+      {
+        "id": "redevoagent-automatic-red-teaming-agent-with-experience-driven-skill-evolution",
+        "label": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution"
+      },
+      {
+        "id": "persona-execution-separation-an-architecture-pattern-for-evolving-llm-agents-und",
+        "label": "Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents un"
+      },
+      {
+        "id": "mechanistic-reaction-prediction-via-discrete-flow-matching-on-graph-structured-e",
+        "label": "Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured E"
+      },
+      {
+        "id": "beyond-f1-evaluating-coverage-and-failure-recovery-in-ai-model-security-scanners",
+        "label": "Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanner"
+      },
+      {
+        "id": "learning-a-continuous-sepsis-severity-score-without-hour-by-hour-supervision-a-t",
+        "label": "Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A"
+      },
+      {
         "id": "show-hn-my-claude-quota-ran-out-in-10-minutes-so-i-made-a-tool-to-find-out-why",
         "label": "Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why"
       },
@@ -154,6 +263,10 @@
         "label": "Show HN: A lightweight, stateless database for agent memory"
       },
       {
+        "id": "show-hn-proval-self-hosted-code-review-agent-for-gitlab-forgejo-and-github",
+        "label": "Show HN: Proval – Self-hosted code review agent for GitLab, Forgejo, and GitHub"
+      },
+      {
         "id": "needle-the-benchmark-your-search-engine-cant-memorize",
         "label": "Needle: The benchmark your search engine can't memorize"
       },
@@ -163,6 +276,6 @@
       }
     ],
     "date_bj": "2026-08-28 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-08-28 04:03:47"
+    "generated_at_bj": "2026-08-28 20:04:56"
   }
 }
