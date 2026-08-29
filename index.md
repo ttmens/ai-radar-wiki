@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-08-29 | Total pages: 3552
+> Last updated: 2026-08-29 | Total pages: 3555
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -540,6 +540,7 @@
 - [[i-wasnt-allowed-prompting-chatgpt-during-my-chalk-talk-this-is-discrimination-20.md]] I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination `pillar:capabilities` `score:0.495`
 - [[i-were-17-id-learn-how-to-build-llms-from-scratch.md]] I were 17, I'd learn how to build LLMs from scratch `pillar:capabilities` `score:0.455`
 - [[icloud-hide-my-email-addresses-will-remain-on-icloudcom.md]] iCloud+ Hide My Email addresses will remain on icloud.com `pillar:capabilities` `score:0.405`
+- [[identifying-fake-cosmetics-using-ai.md]] Identifying fake cosmetics using AI `pillar:capabilities` `score:0.155`
 - [[ieee-rolls-out-large-language-models-training-course.md]] IEEE Rolls Out Large Language Models Training Course `pillar:capabilities` `score:0.26`
 - [[if-claude-fable-stops-helping-you-youll-never-know.md]] If Claude Fable stops helping you, you'll never know `pillar:capabilities` `score:0.38`
 - [[if-llms-have-human-like-attributes-then-so-does-age-of-empires-ii.md]] If LLMs Have Human-Like Attributes, Then So Does Age of Empires II `pillar:capabilities` `score:0.38`
@@ -1095,6 +1096,7 @@
 - [[srbhrresume-matcher.md]] srbhr/Resume-Matcher `pillar:capabilities` `score:0.58`
 - [[stability-ai-releases-a-new-audio-model-that-can-create-six-minute-songs.md]] Stability AI releases a new audio model that can create six-minute songs `pillar:capabilities` `score:0.48`
 - [[starcloud-raises-250-million-for-orbital-data-centers-as-launch-options-dry-up.md]] Starcloud raises $250 million for orbital data centers as launch options dry up `pillar:capabilities` `score:0.305`
+- [[stemdeck-a-free-open-source-and-local-ai-stem-separator.md]] StemDeck, a free, open-source and local AI stem separator `pillar:capabilities` `score:0.155`
 - [[steve-wozniak-cheered-after-telling-students-they-have-ai-actual-intelligence.md]] Steve Wozniak cheered after telling students they have AI – actual intelligence `pillar:capabilities` `score:0.595`
 - [[stopping-the-smart-tv-from-being-used-against-you.md]] Stopping the smart TV from being used against you `pillar:capabilities` `score:0.255`
 - [[strace-ui-bonsai_term-and-the-tui-renaissance.md]] Strace-ui, Bonsai_term, and the TUI renaissance `pillar:capabilities` `score:0.345`
@@ -2184,6 +2186,7 @@
 - [[how-we-index-images-for-rag.md]] How we index images for RAG `pillar:patterns` `score:0.38`
 - [[hubble-open-source-notetaking-app-for-you-and-your-agents.md]] Hubble: Open-source notetaking app for you and your agents `pillar:patterns` `score:0.38`
 - [[hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack.md]] Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI h `pillar:patterns` `score:0.48`
+- [[i-accidentally-turned-llm-memory-into-program-analysis.md]] I accidentally turned LLM memory into program analysis `pillar:patterns` `score:0.205`
 - [[i-put-google8217s-247-ai-assistant-gemini-spark-to-work-and-it8217s-actually-pre.md]] I put Google&#8217;s 24/7 AI assistant Gemini Spark to work, and it&#8217;s actu `pillar:patterns` `score:0.48`
 - [[india8217s-moengage-bets-that-the-future-of-marketing-is-millions-of-ai-agents.md]] India&#8217;s MoEngage bets that the future of marketing is millions of AI agent `pillar:patterns` `score:0.445`
 - [[india8217s-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone.md]] India&#8217;s Ringg gets backing from Peak XV as it pushes voice AI past the pho `pillar:patterns` `score:0.305`

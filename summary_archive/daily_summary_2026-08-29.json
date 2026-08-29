@@ -2,7 +2,7 @@
   "daily_summary": {
     "date": "2026-08-29",
     "headline": "今日 AI 情报 · 2026-08-29",
-    "overview": "今日共采集 16 条情报",
+    "overview": "今日共采集 19 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -51,8 +51,8 @@
       }
     ],
     "narratives": [],
-    "stats": "🤖 技术能力: 13 | 🔧 工具生态: 2 | 📱 产品模式: 1",
-    "total_items": 16,
+    "stats": "🤖 技术能力: 15 | 🔧 工具生态: 2 | 📱 产品模式: 2",
+    "total_items": 19,
     "high_value_count": 11,
     "all_today_ids": [
       {
@@ -108,12 +108,24 @@
         "label": "Stopping the smart TV from being used against you"
       },
       {
+        "id": "i-accidentally-turned-llm-memory-into-program-analysis",
+        "label": "I accidentally turned LLM memory into program analysis"
+      },
+      {
         "id": "autonomous-mathematical-discovery-in-an-open-world-multi-agent-environment",
         "label": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment"
       },
       {
+        "id": "stemdeck-a-free-open-source-and-local-ai-stem-separator",
+        "label": "StemDeck, a free, open-source and local AI stem separator"
+      },
+      {
         "id": "show-hn-conduct-open-source-guardrails-for-llm-and-mcp-tool-calls",
         "label": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls"
+      },
+      {
+        "id": "identifying-fake-cosmetics-using-ai",
+        "label": "Identifying fake cosmetics using AI"
       },
       {
         "id": "the-analytical-ai-handbook",
@@ -121,6 +133,6 @@
       }
     ],
     "date_bj": "2026-08-29 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-08-29 06:01:52"
+    "generated_at_bj": "2026-08-29 12:01:57"
   }
 }

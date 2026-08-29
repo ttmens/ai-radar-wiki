@@ -3650,3 +3650,8 @@
 - create: an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai.md
 - create: open-weight-ai-companies-are-the-valley8217s-hottest-acquisition-targets.md
 - create: show-hn-conduct-open-source-guardrails-for-llm-and-mcp-tool-calls.md
+
+## [2026-08-29 12:02] sync v3 | 3 new | pillars: {'patterns': 1, 'capabilities': 2}
+- create: i-accidentally-turned-llm-memory-into-program-analysis.md
+- create: stemdeck-a-free-open-source-and-local-ai-stem-separator.md
+- create: identifying-fake-cosmetics-using-ai.md
