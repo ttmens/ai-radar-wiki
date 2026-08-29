@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 29 Aug 2026 04:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 08:00:40 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -117,6 +117,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>I accidentally turned LLM memory into program analysis</title>
+      <link>https://news.ycombinator.com/item?id=49485416</link>
+      <guid isPermaLink="false">i-accidentally-turned-llm-memory-into-program-analysis</guid>
+      <pubDate>2026-08-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment</title>
       <link>https://news.ycombinator.com/item?id=49481455</link>
       <guid isPermaLink="false">autonomous-mathematical-discovery-in-an-open-world-multi-agent-environment</guid>
@@ -125,12 +133,28 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>StemDeck, a free, open-source and local AI stem separator</title>
+      <link>https://news.ycombinator.com/item?id=49486081</link>
+      <guid isPermaLink="false">stemdeck-a-free-open-source-and-local-ai-stem-separator</guid>
+      <pubDate>2026-08-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Show HN: Conduct, open-source guardrails for LLM and MCP tool calls</title>
       <link>https://github.com/sseshachala/conductai</link>
       <guid isPermaLink="false">show-hn-conduct-open-source-guardrails-for-llm-and-mcp-tool-calls</guid>
       <pubDate>2026-08-29T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>暂无中文摘要</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Identifying fake cosmetics using AI</title>
+      <link>https://news.ycombinator.com/item?id=49484925</link>
+      <guid isPermaLink="false">identifying-fake-cosmetics-using-ai</guid>
+      <pubDate>2026-08-29T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>The Analytical AI Handbook</title>
@@ -387,31 +411,6 @@
       <guid isPermaLink="false">redevoagent-automatic-red-teaming-agent-with-experience-driven-skill-evolution</guid>
       <pubDate>2026-08-28T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>LLM-based agents are increasingly deployed in product-level execution harnesses, where jailbreaks can trigger harmful tool use and persistent state changes, creating greater risks than unsafe text generation alone. Existing automatic red-teaming methods often rely on fixed attacks, while recent agen</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents un</title>
-      <link>http://arxiv.org/abs/2608.27427v1</link>
-      <guid isPermaLink="false">persona-execution-separation-an-architecture-pattern-for-evolving-llm-agents-und</guid>
-      <pubDate>2026-08-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Large language model (LLM) agents in governed organizations must let the persona (instructions, tone, self-presentation) evolve freely, while keeping execution (stateful, audited work) traceable. A single trust domain does not satisfy both cheaply. We present Persona-Execution Separation (PES): pers</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured E</title>
-      <link>http://arxiv.org/abs/2608.27429v1</link>
-      <guid isPermaLink="false">mechanistic-reaction-prediction-via-discrete-flow-matching-on-graph-structured-e</guid>
-      <pubDate>2026-08-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Chemical reactions are fundamentally transformations in electron space, yet most machine learning approaches model them either through \textit{de novo} generation of product molecules or through heuristic graph edits that operate directly on molecular topology.
-  We introduce MAELLE (\textbf{M}ech\t</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanner</title>
-      <link>http://arxiv.org/abs/2608.27424v1</link>
-      <guid isPermaLink="false">beyond-f1-evaluating-coverage-and-failure-recovery-in-ai-model-security-scanners</guid>
-      <pubDate>2026-08-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Static scanners are increasingly used to identify executable or otherwise unsafe content in machine- learning artifacts, yet conventional evaluation metrics characterize only cases where a scanner yields a usable security judgment. We evaluate ModelScan, ModelAudit, and Fickling using a controlled,</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>

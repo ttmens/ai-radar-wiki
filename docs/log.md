@@ -3655,3 +3655,5 @@
 - create: i-accidentally-turned-llm-memory-into-program-analysis.md
 - create: stemdeck-a-free-open-source-and-local-ai-stem-separator.md
 - create: identifying-fake-cosmetics-using-ai.md
+
+## [2026-08-29 18:01] sync v3 | 0 new | pillars: {}
