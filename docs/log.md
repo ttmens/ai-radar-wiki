@@ -3661,3 +3661,11 @@
 ## [2026-08-30 00:02] sync v3 | 2 new | pillars: {'capabilities': 2}
 - create: debian-votes-to-allow-responsible-use-of-generative-ai.md
 - create: nvidias-ai-advantage-is-moving-beyond-the-gpu.md
+
+## [2026-08-30 06:02] sync v3 | 6 new | pillars: {'capabilities': 5, 'patterns': 1}
+- create: vllm-v0280.md
+- create: good-culture-is-the-biggest-productivity-hack-not-ai.md
+- create: llms-are-making-me-lose-my-savviness.md
+- create: warp-builds-self-improving-agents-on-claude.md
+- create: sony-music-warner-sue-anthropic-alleging-a-8220brazen-campaign8221-of-intellectu.md
+- create: 8220we8217re-not-doing-30-bets-a-year8221-vijay-pande-on-betting-small-after-run.md

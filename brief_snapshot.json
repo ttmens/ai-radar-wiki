@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
-  "generated_at": "2026-08-30T00:02:31.514676+08:00",
-  "item_count": 2,
+  "generated_at": "2026-08-30T06:02:39.568524+08:00",
+  "item_count": 5,
   "items": [
     {
       "id": "debian-votes-to-allow-responsible-use-of-generative-ai",
@@ -15,6 +15,17 @@
       "date": "2026-08-30"
     },
     {
+      "id": "sony-music-warner-sue-anthropic-alleging-a-8220brazen-campaign8221-of-intellectu",
+      "label": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of in",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "date": "2026-08-30"
+    },
+    {
       "id": "nvidias-ai-advantage-is-moving-beyond-the-gpu",
       "label": "Nvidia’s AI advantage is moving beyond the GPU",
       "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
@@ -24,10 +35,32 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
       "date": "2026-08-30"
+    },
+    {
+      "id": "good-culture-is-the-biggest-productivity-hack-not-ai",
+      "label": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49491568",
+      "date": "2026-08-30"
+    },
+    {
+      "id": "8220we8217re-not-doing-30-bets-a-year8221-vijay-pande-on-betting-small-after-run",
+      "label": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small",
+      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared dat",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "date": "2026-08-30"
     }
   ],
   "graph_totals": {
-    "real_nodes": 7975,
-    "edges": 8422
+    "real_nodes": 7981,
+    "edges": 8430
   }
 }

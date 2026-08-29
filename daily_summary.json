@@ -2,12 +2,12 @@
   "daily_summary": {
     "date": "2026-08-30",
     "headline": "今日 AI 情报 · 2026-08-30",
-    "overview": "今日共采集 2 条情报",
+    "overview": "AI工具链从通用走向垂直专业化",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "今日🤖 技术能力方向有新的动态。",
+        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：融资/投资, 基础设施。",
         "evidence": [
           {
             "id": "debian-votes-to-allow-responsible-use-of-generative-ai",
@@ -18,23 +18,75 @@
           }
         ],
         "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日📱 产品模式方向有新的动态。",
+        "evidence": [
+          {
+            "id": "warp-builds-self-improving-agents-on-claude",
+            "title": "Warp builds self-improving agents on Claude",
+            "score": 0.26,
+            "url": "https://news.ycombinator.com/item?id=49492432",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
       }
     ],
-    "narratives": [],
-    "stats": "🤖 技术能力: 2",
-    "total_items": 2,
-    "high_value_count": 2,
+    "narratives": [
+      {
+        "title": "AI工具链从通用走向垂直专业化",
+        "body": "今日1条情报涉及AI工具链与基础设施。包括：vLLM v0.28.0。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+        "type": "maturation",
+        "action": "建议：关注工具链发展，考虑引入专用工具或评估自研可行性。行业成熟意味着标准化窗口接近。"
+      },
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日1条情报涉及AI商业动态。包括：&#8220;We&#8217;re not doing 30 bets a y。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
+      }
+    ],
+    "stats": "🤖 技术能力: 7 | 📱 产品模式: 1",
+    "total_items": 8,
+    "high_value_count": 5,
     "all_today_ids": [
       {
         "id": "debian-votes-to-allow-responsible-use-of-generative-ai",
         "label": "Debian votes to allow \"responsible use of generative AI\""
       },
       {
+        "id": "sony-music-warner-sue-anthropic-alleging-a-8220brazen-campaign8221-of-intellectu",
+        "label": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of in"
+      },
+      {
         "id": "nvidias-ai-advantage-is-moving-beyond-the-gpu",
         "label": "Nvidia’s AI advantage is moving beyond the GPU"
+      },
+      {
+        "id": "good-culture-is-the-biggest-productivity-hack-not-ai",
+        "label": "Good Culture Is the Biggest Productivity Hack, Not AI"
+      },
+      {
+        "id": "8220we8217re-not-doing-30-bets-a-year8221-vijay-pande-on-betting-small-after-run",
+        "label": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small"
+      },
+      {
+        "id": "warp-builds-self-improving-agents-on-claude",
+        "label": "Warp builds self-improving agents on Claude"
+      },
+      {
+        "id": "llms-are-making-me-lose-my-savviness",
+        "label": "LLMs are making me lose my savviness"
+      },
+      {
+        "id": "vllm-v0280",
+        "label": "vLLM v0.28.0"
       }
     ],
     "date_bj": "2026-08-30 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-08-30 00:01:59"
+    "generated_at_bj": "2026-08-30 06:02:09"
   }
 }

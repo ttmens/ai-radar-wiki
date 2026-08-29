@@ -5,13 +5,29 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 29 Aug 2026 16:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 20:00:42 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Debian votes to allow "responsible use of generative AI"</title>
+      <link>https://news.ycombinator.com/item?id=49489982</link>
+      <guid isPermaLink="false">debian-votes-to-allow-responsible-use-of-generative-ai</guid>
+      <pubDate>2026-08-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Nvidia’s AI advantage is moving beyond the GPU</title>
+      <link>https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/</link>
+      <guid isPermaLink="false">nvidias-ai-advantage-is-moving-beyond-the-gpu</guid>
+      <pubDate>2026-08-30T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>Judge rules Trump administration’s blacklisting of Anthropic was illegal</title>
       <link>https://news.ycombinator.com/item?id=49473522</link>
@@ -395,22 +411,6 @@
       <guid isPermaLink="false">scaling-graph-neural-networks-for-friend-recommendation-multi-hash-user-embeddin</guid>
       <pubDate>2026-08-28T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Friend recommendation is inherently graph-structured: the relevance of a potential connection depends on multi-hop social context rather than user attributes alone. However, deploying message-passing GNNs on a production-scale social graph with hundreds of millions of users and tens of billions of e</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>SWE-Prime: Fewer Trajectories, Better Performance</title>
-      <link>http://arxiv.org/abs/2608.27449v1</link>
-      <guid isPermaLink="false">swe-prime-fewer-trajectories-better-performance</guid>
-      <pubDate>2026-08-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT) on successful trajectories. However, task success does not guarantee high-quality supervision: suc</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution</title>
-      <link>http://arxiv.org/abs/2608.27439v1</link>
-      <guid isPermaLink="false">redevoagent-automatic-red-teaming-agent-with-experience-driven-skill-evolution</guid>
-      <pubDate>2026-08-28T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>LLM-based agents are increasingly deployed in product-level execution harnesses, where jailbreaks can trigger harmful tool use and persistent state changes, creating greater risks than unsafe text generation alone. Existing automatic red-teaming methods often rely on fixed attacks, while recent agen</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
