@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-08-29 | Total pages: 3555
+> Last updated: 2026-08-30 | Total pages: 3557
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -286,6 +286,7 @@
 - [[databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x.md]] Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x `pillar:capabilities` `score:0.515`
 - [[datasette-apps-host-custom-html-applications-inside-datasette.md]] Datasette Apps: Host custom HTML applications inside Datasette `pillar:capabilities` `score:0.33`
 - [[daviskingdlib.md]] davisking/dlib `pillar:capabilities` `score:0.545`
+- [[debian-votes-to-allow-responsible-use-of-generative-ai.md]] Debian votes to allow "responsible use of generative AI" `pillar:capabilities` `score:0.425`
 - [[deepfakesfaceswap.md]] deepfakes/faceswap `pillar:capabilities` `score:0.58`
 - [[deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation.md]] DeepL acquires Mixhalo for live-event audio streaming and translation `pillar:capabilities` `score:0.48`
 - [[deeplearning4jdeeplearning4j.md]] deeplearning4j/deeplearning4j `pillar:capabilities` `score:0.58`
@@ -746,6 +747,7 @@
 - [[nvidia-microsoft-meta-warn-against-overregulating-open-weight-models.md]] Nvidia, Microsoft, Meta warn against overregulating open-weight models `pillar:capabilities` `score:0.6`
 - [[nvidia-partners-with-data-center-developer-cloverleaf.md]] Nvidia partners with data center developer Cloverleaf `pillar:capabilities` `score:0.305`
 - [[nvidia-starts-pac-as-ai-chip-maker-builds-dc-influence-force.md]] Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force `pillar:capabilities` `score:0.155`
+- [[nvidias-ai-advantage-is-moving-beyond-the-gpu.md]] Nvidia’s AI advantage is moving beyond the GPU `pillar:capabilities` `score:0.305`
 - [[ocr-it-pull-text-out-of-un-copyable-documents-for-your-llm.md]] OCR It – pull text out of un-copyable documents for your LLM `pillar:capabilities` `score:0.205`
 - [[octane-reacts-programming-model-compiled.md]] Octane – React’s programming model, compiled `pillar:capabilities` `score:0.305`
 - [[odysseus-self-hosted-ai-workspace.md]] Odysseus – self-hosted AI workspace `pillar:capabilities` `score:0.43`

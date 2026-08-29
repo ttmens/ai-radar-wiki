@@ -3657,3 +3657,7 @@
 - create: identifying-fake-cosmetics-using-ai.md
 
 ## [2026-08-29 18:01] sync v3 | 0 new | pillars: {}
+
+## [2026-08-30 00:02] sync v3 | 2 new | pillars: {'capabilities': 2}
+- create: debian-votes-to-allow-responsible-use-of-generative-ai.md
+- create: nvidias-ai-advantage-is-moving-beyond-the-gpu.md
