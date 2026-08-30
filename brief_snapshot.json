@@ -1,99 +1,77 @@
 {
-  "date": "2026-08-30",
-  "generated_at": "2026-08-30T18:02:33.033730+08:00",
-  "item_count": 8,
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T06:02:33.127491+08:00",
+  "item_count": 6,
   "items": [
     {
-      "id": "debian-votes-to-allow-responsible-use-of-generative-ai",
-      "label": "Debian votes to allow \"responsible use of generative AI\"",
+      "id": "haiku-r1beta6-has-been-released",
+      "label": "Haiku R1/beta6 has been released",
       "summary": "暂无中文摘要",
-      "pm_score": 0.425,
+      "pm_score": 0.405,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49489982",
-      "date": "2026-08-30"
+      "url": "https://news.ycombinator.com/item?id=49499867",
+      "date": "2026-08-31"
     },
     {
-      "id": "defrag98-windows-98-disk-defragmenter-simulator-online",
-      "label": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
+      "id": "metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+      "label": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.375,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49498787",
+      "date": "2026-08-31"
+    },
+    {
+      "id": "no-ai-fridays",
+      "label": "No AI Fridays",
       "summary": "暂无中文摘要",
       "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49498095",
+      "date": "2026-08-31"
+    },
+    {
+      "id": "claude-session-url-appended-to-commit-messages-and-pr-descriptions-by-default",
+      "label": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.325,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49498201",
+      "date": "2026-08-31"
+    },
+    {
+      "id": "caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
+      "label": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "pm_score": 0.305,
       "pillar": "patterns",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49494036",
-      "date": "2026-08-30"
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "date": "2026-08-31"
     },
     {
-      "id": "lawmakers-added-1-to-car-insurance-policies-that-money-paid-for-flock-cameras",
-      "label": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.355,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49494182",
-      "date": "2026-08-30"
-    },
-    {
-      "id": "the-rise-and-fall-of-agent-civilizations",
-      "label": "The Rise and Fall of Agent Civilizations",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.355,
-      "pillar": "patterns",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49494301",
-      "date": "2026-08-30"
-    },
-    {
-      "id": "sony-music-warner-sue-anthropic-alleging-a-8220brazen-campaign8221-of-intellectu",
-      "label": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of in",
-      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "id": "musk8217s-faster-path-to-more-gas-turbines-comes-with-pollution-problem",
+      "label": "Musk&#8217;s faster path to more gas turbines comes with pollution problem",
+      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
       "pm_score": 0.305,
       "pillar": "capabilities",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "date": "2026-08-30"
-    },
-    {
-      "id": "nvidias-ai-advantage-is-moving-beyond-the-gpu",
-      "label": "Nvidia’s AI advantage is moving beyond the GPU",
-      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "date": "2026-08-30"
-    },
-    {
-      "id": "good-culture-is-the-biggest-productivity-hack-not-ai",
-      "label": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49491568",
-      "date": "2026-08-30"
-    },
-    {
-      "id": "8220we8217re-not-doing-30-bets-a-year8221-vijay-pande-on-betting-small-after-run",
-      "label": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small",
-      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared dat",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "date": "2026-08-30"
+      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "date": "2026-08-31"
     }
   ],
   "graph_totals": {
-    "real_nodes": 7990,
-    "edges": 8442
+    "real_nodes": 8000,
+    "edges": 8452
   }
 }

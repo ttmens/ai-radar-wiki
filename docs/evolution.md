@@ -20,6 +20,13 @@
 
 ## 运行日志
 
+## [2026-08-31 06:02] Evolution Run
+- Deprecated: 1 nodes
+- Pillar distribution: {'capabilities': 2010, 'ecosystem': 517, 'patterns': 582, 'business': 406, 'unknown': 4}
+- Top tags: {'capabilities': 1937, 'discussion': 1445, 'hacker-news': 1445, 'research': 828, 'news': 780}
+  🗑️ Deprecated: the-history-of-prisencolinensinainciusol.md (91d old, score=0.12)  📊 1 nodes deprecated (90d+ and score < 0.15)
+
+
 ## [2026-08-30 18:02] Evolution Run
 - Deprecated: 0 nodes
 - Pillar distribution: {'capabilities': 2002, 'ecosystem': 517, 'patterns': 580, 'business': 406, 'unknown': 4}

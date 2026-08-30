@@ -3682,3 +3682,9 @@
 - create: benchmarking-pocket-scale-inference.md
 - create: the-rise-and-fall-of-agent-civilizations.md
 - create: open-oscar-server-open-source-server-compatible-with-aim-and-icq-clients.md
+
+## [2026-08-31 06:02] sync v3 | 7 new | pillars: {'capabilities': 6, 'patterns': 1}
+- create: haiku-r1beta6-has-been-released.md
+- create: metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack.md
+- create: electric-rain-can-eat-through-metal.md
+- create: musk8217s-faster-path-to-more-gas-turbines-comes-with-pollution-problem.md

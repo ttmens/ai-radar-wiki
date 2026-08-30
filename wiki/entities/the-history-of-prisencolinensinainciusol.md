@@ -1,6 +1,7 @@
 ---
 title: The History of "Prisencolinensinainciusol"
 created: 2026-06-01
+deprecated: true
 updated: 2026-06-01
 type: entity
 pillar: capabilities
