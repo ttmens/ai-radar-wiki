@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
-  "generated_at": "2026-08-30T12:02:32.844386+08:00",
-  "item_count": 7,
+  "generated_at": "2026-08-30T18:02:33.033730+08:00",
+  "item_count": 8,
   "items": [
     {
       "id": "debian-votes-to-allow-responsible-use-of-generative-ai",
@@ -34,6 +34,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49494182",
+      "date": "2026-08-30"
+    },
+    {
+      "id": "the-rise-and-fall-of-agent-civilizations",
+      "label": "The Rise and Fall of Agent Civilizations",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49494301",
       "date": "2026-08-30"
     },
     {
@@ -82,7 +93,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 7986,
-    "edges": 8438
+    "real_nodes": 7990,
+    "edges": 8442
   }
 }

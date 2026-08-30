@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-08-30 | Total pages: 3568
+> Last updated: 2026-08-30 | Total pages: 3572
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -194,6 +194,7 @@
 - [[benchmarking-15-e-waste-gpus-with-modern-workloads.md]] Benchmarking 15 "E-Waste" GPUs with Modern Workloads `pillar:capabilities` `score:0.395`
 - [[benchmarking-coding-agents-on-databricks-multi-million-line-codebase.md]] Benchmarking coding agents on Databricks' multi-million line codebase `pillar:capabilities` `score:0.465`
 - [[benchmarking-opus-5-on-slopcodebench.md]] Benchmarking Opus 5 on SlopCodeBench `pillar:capabilities` `score:0.48`
+- [[benchmarking-pocket-scale-inference.md]] Benchmarking Pocket-Scale Inference `pillar:capabilities` `score:0.155`
 - [[benchmarking-surrealdb-3x-vs-postgres-mongo-neo4j-and-redis-with-fsync.md]] Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync) `pillar:capabilities` `score:0.395`
 - [[benchmarks-in-leipzig.md]] Benchmarks in Leipzig `pillar:capabilities` `score:0.395`
 - [[bill-gates-wants-to-see-a-robot-tax-and-8216human-reserved8217-jobs-to-mitigate.md]] Bill Gates wants to see a robot tax and &#8216;Human Reserved&#8217; jobs to mit `pillar:capabilities` `score:0.305`
@@ -642,6 +643,7 @@
 - [[llms-reward-expertise.md]] LLMs reward expertise `pillar:capabilities` `score:0.305`
 - [[local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro.md]] Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro `pillar:capabilities` `score:0.515`
 - [[longcat-20-a-large-scale-moe-model-with-16t-total-and-48b-active.md]] LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active `pillar:capabilities` `score:0.38`
+- [[longest-straight-line-paths-on-water-or-land-on-the-earth-2018.md]] Longest Straight Line Paths on Water or Land on the Earth (2018) `pillar:capabilities` `score:0.155`
 - [[lovable-signs-multiyear-deal-with-google-cloud-to-up-usage-5x-source-says.md]] Lovable signs multiyear deal with Google Cloud to up usage 5x, source says `pillar:capabilities` `score:0.48`
 - [[luanti-removed-from-google-play-due-to-baseless-ai-copyright-notice.md]] Luanti removed from Google Play due to baseless AI copyright notice `pillar:capabilities` `score:0.405`
 - [[lucidrainsdenoising-diffusion-pytorch.md]] lucidrains/denoising-diffusion-pytorch `pillar:capabilities` `score:0.51`
@@ -760,6 +762,7 @@
 - [[omen-ai8217s-plan-to-optimize-data-centers-is-all-wet.md]] Omen AI&#8217;s plan to optimize data centers is all wet `pillar:capabilities` `score:0.445`
 - [[ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts.md]] Ontario auditors find doctors' AI note takers routinely blow basic facts `pillar:capabilities` `score:0.565`
 - [[open-code-review-an-ai-powered-code-review-cli-tool.md]] Open Code Review – An AI-powered code review CLI tool `pillar:capabilities` `score:0.345`
+- [[open-oscar-server-open-source-server-compatible-with-aim-and-icq-clients.md]] Open Oscar Server: open-source server compatible with AIM and ICQ clients `pillar:capabilities` `score:0.155`
 - [[openai-adopts-googles-synthid-watermark-for-ai-images-with-verification-tool.md]] OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool `pillar:capabilities` `score:0.465`
 - [[openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-agains.md]] OpenAI, Anthropic, Google, and 100 other companies call for action to defend aga `pillar:capabilities` `score:0.305`
 - [[openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time.md]] OpenAI claims it solved an 80-year-old math problem — for real this time `pillar:capabilities` `score:0.515`
@@ -2471,6 +2474,7 @@
 - [[the-most-interesting-startups-right-now-want-to-get-you-off-your-phone.md]] The most interesting startups right now want to get you off your phone `pillar:patterns` `score:0.41`
 - [[the-pocketpocketflow.md]] The-Pocket/PocketFlow `pillar:patterns` `score:0.58`
 - [[the-productivity-mirage.md]] The Productivity Mirage `pillar:patterns` `score:0.43`
+- [[the-rise-and-fall-of-agent-civilizations.md]] The Rise and Fall of Agent Civilizations `pillar:patterns` `score:0.355`
 - [[the-short-leash-ai-coding-method-for-beating-fable.md]] The Short Leash AI Coding Method for Beating Fable `pillar:patterns` `score:0.295`
 - [[the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-att.md]] The slowtech revolution is here to kill your phone addiction and rescue your att `pillar:patterns` `score:0.48`
 - [[the-three-second-theft-why-ai-voice-fraud-outruns-every-defence.md]] The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence `pillar:patterns` `score:0.5`

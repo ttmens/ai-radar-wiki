@@ -3676,3 +3676,9 @@
 - create: defrag98-windows-98-disk-defragmenter-simulator-online.md
 - create: show-hn-i-missed-the-moving-blocks-so-i-built-a-real-linux-disk-defragmenter.md
 - create: show-hn-hacker-news-client-with-claude-code-and-codex-integration.md
+
+## [2026-08-30 18:02] sync v3 | 4 new | pillars: {'capabilities': 3, 'patterns': 1}
+- create: longest-straight-line-paths-on-water-or-land-on-the-earth-2018.md
+- create: benchmarking-pocket-scale-inference.md
+- create: the-rise-and-fall-of-agent-civilizations.md
+- create: open-oscar-server-open-source-server-compatible-with-aim-and-icq-clients.md
