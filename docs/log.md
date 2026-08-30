@@ -3669,3 +3669,10 @@
 - create: warp-builds-self-improving-agents-on-claude.md
 - create: sony-music-warner-sue-anthropic-alleging-a-8220brazen-campaign8221-of-intellectu.md
 - create: 8220we8217re-not-doing-30-bets-a-year8221-vijay-pande-on-betting-small-after-run.md
+
+## [2026-08-30 12:02] sync v3 | 5 new | pillars: {'capabilities': 1, 'patterns': 3, 'ecosystem': 1}
+- create: lawmakers-added-1-to-car-insurance-policies-that-money-paid-for-flock-cameras.md
+- create: domain-driven-agents.md
+- create: defrag98-windows-98-disk-defragmenter-simulator-online.md
+- create: show-hn-i-missed-the-moving-blocks-so-i-built-a-real-linux-disk-defragmenter.md
+- create: show-hn-hacker-news-client-with-claude-code-and-codex-integration.md

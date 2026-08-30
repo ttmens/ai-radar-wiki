@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-08-30 | Total pages: 3563
+> Last updated: 2026-08-30 | Total pages: 3568
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -618,6 +618,7 @@
 - [[launch-hn-superset-yc-p26-ide-for-the-agents-era.md]] Launch HN: Superset (YC P26) – IDE for the agents era `pillar:capabilities` `score:0.445`
 - [[launch-hn-tokenless-yc-s26-automatic-model-switching-to-save-money.md]] Launch HN: Tokenless (YC S26) – Automatic model switching to save money `pillar:capabilities` `score:0.38`
 - [[launch-hn-unlayer-yc-w22-add-email-and-document-builders-to-your-app.md]] Launch HN: Unlayer (YC W22) – Add email and document builders to your app `pillar:capabilities` `score:0.38`
+- [[lawmakers-added-1-to-car-insurance-policies-that-money-paid-for-flock-cameras.md]] Lawmakers added $1 to car insurance policies. That money paid for Flock cameras `pillar:capabilities` `score:0.355`
 - [[lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak.md]] Lawmakers Demand Answers as CISA Tries to Contain Data Leak `pillar:capabilities` `score:0.31`
 - [[learnvector-andrew-ngs-ai-company-building-onetoone-learning-experiences.md]] LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences `pillar:capabilities` `score:0.43`
 - [[leiden-declaration-on-artificial-intelligence-and-mathematics.md]] Leiden Declaration on Artificial Intelligence and Mathematics `pillar:capabilities` `score:0.36`
@@ -2122,6 +2123,7 @@
 - [[dbeaverdbeaver.md]] dbeaver/dbeaver `pillar:patterns` `score:0.545`
 - [[deepseek-reasonix-deepseek-native-coding-agent-with-high-caching-and-low-cost.md]] DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost `pillar:patterns` `score:0.48`
 - [[deepset-aihaystack.md]] deepset-ai/haystack `pillar:patterns` `score:0.615`
+- [[defrag98-windows-98-disk-defragmenter-simulator-online.md]] Defrag98: Windows 98 Disk Defragmenter Simulator Online `pillar:patterns` `score:0.355`
 - [[designing-apis-for-agents.md]] Designing APIs for Agents `pillar:patterns` `score:0.43`
 - [[dietrichgebertponytail.md]] DietrichGebert/ponytail `pillar:patterns` `score:0.455`
 - [[do-agentsmd-files-help-coding-agents.md]] Do agents.md files help coding agents? `pillar:patterns` `score:0.38`
@@ -2130,6 +2132,7 @@
 - [[does-code-cleanliness-affect-coding-agents.md]] Does Code Cleanliness Affect Coding Agents? `pillar:patterns` `score:0.43`
 - [[does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do.md]] Does your CEO have AI psychosis? Aaron Levie thinks most of them do. `pillar:patterns` `score:0.48`
 - [[domain-camouflaged-injection-attacks-evade-detection-in-multi-agent-llm-systems.md]] Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems `pillar:patterns` `score:0.33`
+- [[domain-driven-agents.md]] Domain-Driven Agents `pillar:patterns` `score:0.205`
 - [[doordash8217s-new-ai-chatbot-lets-you-order-with-prompts-and-photos.md]] DoorDash&#8217;s new AI chatbot lets you order with prompts and photos `pillar:patterns` `score:0.48`
 - [[duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search.md]] DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Sea `pillar:patterns` `score:0.515`
 - [[dynamic-workflows-in-claude-code.md]] Dynamic Workflows in Claude Code `pillar:patterns` `score:0.55`
@@ -2379,6 +2382,7 @@
 - [[show-hn-helixdb-a-graph-database-built-on-object-storage.md]] Show HN: HelixDB – A graph database built on object storage `pillar:patterns` `score:0.43`
 - [[show-hn-how-to-build-and-self-host-a-code-review-agent.md]] Show HN: How to build and self-host a code review agent `pillar:patterns` `score:0.155`
 - [[show-hn-i-built-a-smart-proxy-so-your-coding-agent-can-run-loose.md]] Show HN: I built a smart proxy so your coding agent can run loose `pillar:patterns` `score:0.33`
+- [[show-hn-i-missed-the-moving-blocks-so-i-built-a-real-linux-disk-defragmenter.md]] Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter `pillar:patterns` `score:0.155`
 - [[show-hn-i-rl-trained-an-agent-that-trains-models-with-rl-for-13k.md]] Show HN: I RL-trained an agent that trains models with RL (for –$1.3k) `pillar:patterns` `score:0.43`
 - [[show-hn-i-trained-a-125m-model-to-autocomplete-piano-on-device.md]] Show HN: I trained a 125M model to autocomplete piano on-device `pillar:patterns` `score:0.475`
 - [[show-hn-kanban-cli-a-local-first-agent-first-task-manager-for-the-terminal.md]] Show HN: Kanban CLI (A local-first, agent-first task manager for the terminal) `pillar:patterns` `score:0.33`
@@ -2889,6 +2893,7 @@
 - [[show-hn-freeport-a-p2p-ride-hailing-marketplace-i-built-on-nostr.md]] Show HN: Freeport – a P2P ride-hailing marketplace I built on Nostr `pillar:ecosystem` `score:0.295`
 - [[show-hn-gentleos-a-pair-of-hobby-oses-for-vintage-32-bit-and-16-bit-pcs.md]] Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs `pillar:ecosystem` `score:0.27`
 - [[show-hn-gitdot-a-better-github-open-source-anti-ai-and-written-in-rust.md]] Show HN: Gitdot – a better GitHub. Open-source, anti-AI, and written in Rust `pillar:ecosystem` `score:0.305`
+- [[show-hn-hacker-news-client-with-claude-code-and-codex-integration.md]] Show HN: Hacker News Client with Claude Code and Codex Integration `pillar:ecosystem` `score:0.155`
 - [[show-hn-i-made-a-heatmap-of-3400-vcs-who-are-open-to-cold-emails.md]] Show HN: I made a heatmap of 3400 VCs who are open to cold emails `pillar:ecosystem` `score:0.345`
 - [[show-hn-insforge-open-source-heroku-for-coding-agents.md]] Show HN: InsForge – Open-source Heroku for coding agents `pillar:ecosystem` `score:0.295`
 - [[show-hn-loot-raiders-an-arc-raiders-inspired-inventory-game-in-svelte.md]] Show HN: Loot Raiders – an ARC Raiders-inspired inventory game in Svelte `pillar:ecosystem` `score:0.12`

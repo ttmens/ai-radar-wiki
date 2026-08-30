@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
-  "generated_at": "2026-08-30T06:02:39.568524+08:00",
-  "item_count": 5,
+  "generated_at": "2026-08-30T12:02:32.844386+08:00",
+  "item_count": 7,
   "items": [
     {
       "id": "debian-votes-to-allow-responsible-use-of-generative-ai",
@@ -12,6 +12,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49489982",
+      "date": "2026-08-30"
+    },
+    {
+      "id": "defrag98-windows-98-disk-defragmenter-simulator-online",
+      "label": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49494036",
+      "date": "2026-08-30"
+    },
+    {
+      "id": "lawmakers-added-1-to-car-insurance-policies-that-money-paid-for-flock-cameras",
+      "label": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49494182",
       "date": "2026-08-30"
     },
     {
@@ -60,7 +82,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 7981,
-    "edges": 8430
+    "real_nodes": 7986,
+    "edges": 8438
   }
 }
