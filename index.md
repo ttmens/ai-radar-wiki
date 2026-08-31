@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-08-31 | Total pages: 3603
+> Last updated: 2026-09-01 | Total pages: 3608
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -223,6 +223,7 @@
 - [[canada-plans-nuclear-renaissance-with-up-to-10-reactors-built-by-2040.md]] Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040 `pillar:capabilities` `score:0.525`
 - [[canada-says-bridge-tolls-wont-be-split-with-us-until-64b-of-debt-is-repaid.md]] Canada says bridge tolls won't be split with U.S. until $6.4B of debt is repaid `pillar:capabilities` `score:0.085`
 - [[characterai-enters-the-microdrama-arena-with-its-own-productions-but-there8217s.md]] Character.AI enters the microdrama arena with its own productions, but there&#82 `pillar:capabilities` `score:0.48`
+- [[chatgpt-work-tool-and-skill-reference.md]] ChatGPT Work Tool and Skill Reference `pillar:capabilities` `score:0.255`
 - [[chatgpt-work.md]] ChatGPT Work `pillar:capabilities` `score:0.6`
 - [[chatgpts-image-generator-can-be-manipulated-to-produce-violent-sexual-content.md]] ChatGPT's image generator can be manipulated to produce violent, sexual content `pillar:capabilities` `score:0.5`
 - [[cheaper-faster-and-culturally-aware-avataar8217s-video-ai-is-built-for-india8217.md]] Cheaper, faster, and culturally aware, Avataar&#8217;s video AI is built for Ind `pillar:capabilities` `score:0.445`
@@ -1125,6 +1126,7 @@
 - [[strace-ui-bonsai_term-and-the-tui-renaissance.md]] Strace-ui, Bonsai_term, and the TUI renaissance `pillar:capabilities` `score:0.345`
 - [[stress-disrupts-hippocampal-integration-of-overlapping-events-memory-inference.md]] Stress disrupts hippocampal integration of overlapping events, memory inference `pillar:capabilities` `score:0.345`
 - [[stripe-said-to-abandon-50b-pursuit-of-paypal.md]] Stripe said to abandon $50B pursuit of PayPal `pillar:capabilities` `score:0.405`
+- [[study-blue-light-impairs-the-eyes-ability-to-distinguish-fine-detail-most.md]] Study: Blue light impairs the eye's ability to distinguish fine detail most `pillar:capabilities` `score:0.255`
 - [[substack8217s-new-tool-tells-you-who8217s-been-writing-their-newsletters-with-ai.md]] Substack&#8217;s new tool tells you who&#8217;s been writing their newsletters w `pillar:capabilities` `score:0.48`
 - [[supabasesupabase.md]] supabase/supabase `pillar:capabilities` `score:0.58`
 - [[surprise-zai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model.md]] Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model `pillar:capabilities` `score:0.305`
@@ -2051,6 +2053,7 @@
 - [[agent-harness-kit-scaffolding-for-multi-agent-work.md]] Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic) `pillar:patterns` `score:0.33`
 - [[agent-lightning-v10.md]] Agent Lightning v1.0 `pillar:patterns` `score:0.155`
 - [[agent-manager-a-tmux-tui-for-running-claude-code-codex-and-opencode.md]] Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode `pillar:patterns` `score:0.48`
+- [[agent-memory-as-a-file-format.md]] Agent Memory as a File Format `pillar:patterns` `score:0.355`
 - [[agent-skill-to-force-docs-in-asd-ste100-simplified-technical-english.md]] Agent Skill to Force Docs in ASD-STE100 Simplified Technical English `pillar:patterns` `score:0.43`
 - [[agent-swarms-and-the-new-model-economics.md]] Agent swarms and the new model economics `pillar:patterns` `score:0.43`
 - [[agent-talk-enabling-coding-agents-to-work-together.md]] Agent-talk: Enabling coding agents to work together `pillar:patterns` `score:0.365`
@@ -2845,6 +2848,7 @@
 - [[nvidia-closes-in-on-hugging-face-acquisition.md]] Nvidia closes in on Hugging Face acquisition `pillar:ecosystem` `score:0.305`
 - [[nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups.md]] Nvidia posts another record quarter, reveals $43 billion of holdings in startups `pillar:ecosystem` `score:0.48`
 - [[nvidia-wants-to-cut-data-center-water-use-but-that8217s-not-the-same-as-fixing-a.md]] Nvidia wants to cut data center water use, but that&#8217;s not the same as fixi `pillar:ecosystem` `score:0.445`
+- [[nvidias-35b-mediatek-bet-reveals-its-plan-for-tackling-big-tech8217s-ai-chip-bui.md]] Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech&#8217;s AI ch `pillar:ecosystem` `score:0.305`
 - [[nvidiatensorrt.md]] NVIDIA/TensorRT `pillar:ecosystem` `score:0.615`
 - [[ocaml-onboarding-introduction-to-the-dune-build-system.md]] OCaml Onboarding: Introduction to the Dune build system `pillar:ecosystem` `score:0.255`
 - [[odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse.md]] ‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’ `pillar:ecosystem` `score:0.41`
@@ -3340,6 +3344,7 @@
 - [[maryland-citizens-hit-with-2b-power-grid-upgrade.md]] Maryland citizens hit with $2B power grid upgrade for out-of-state AI `pillar:business` `score:0.355`
 - [[mathfoundationrlbook-mathematical-foundation-of-reinforcement-learning.md]] MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning `pillar:business` `score:0.405`
 - [[medicares-new-payment-model-is-built-for-ai-most-of-the-tech-world-has-no-idea.md]] Medicare's new payment model is built for AI. Most of the tech world has no idea `pillar:business` `score:0.38`
+- [[meeting-note-taker-circleback-adds-a-free-tier-to-attract-more-customers.md]] Meeting note-taker Circleback adds a free tier to attract more customers `pillar:business` `score:0.305`
 - [[memory-has-grown-to-nearly-two-thirds-of-ai-chip-component-costs.md]] Memory has grown to nearly two-thirds of AI chip component costs `pillar:business` `score:0.63`
 - [[menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differentl.md]] Menlo Ventures’ Matt Murphy explains what AI startups founders must do different `pillar:business` `score:0.445`
 - [[mercors-brendan-foody-calls-out-sequoia-accusing-it-of-8216dual-pricing8217-valu.md]] Mercor’s Brendan Foody calls out Sequoia, accusing it of &#8216;dual-pricing&#82 `pillar:business` `score:0.305`

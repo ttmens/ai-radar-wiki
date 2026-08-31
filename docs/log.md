@@ -3711,3 +3711,10 @@
 - create: commercially-available-bike-generators-are-not-sustainable-2011.md
 - create: berlin-is-being-blackmailed-by-hackers.md
 - create: the-us-is-building-barriers-around-drones-and-robots-but-china-has-scale-to-get.md
+
+## [2026-09-01 00:02] sync v3 | 5 new | pillars: {'capabilities': 2, 'patterns': 1, 'ecosystem': 1, 'business': 1}
+- create: chatgpt-work-tool-and-skill-reference.md
+- create: study-blue-light-impairs-the-eyes-ability-to-distinguish-fine-detail-most.md
+- create: agent-memory-as-a-file-format.md
+- create: nvidias-35b-mediatek-bet-reveals-its-plan-for-tackling-big-tech8217s-ai-chip-bui.md
+- create: meeting-note-taker-circleback-adds-a-free-tier-to-attract-more-customers.md

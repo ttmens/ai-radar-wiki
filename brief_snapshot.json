@@ -1,132 +1,44 @@
 {
-  "date": "2026-08-31",
-  "generated_at": "2026-08-31T20:04:39.706997+08:00",
-  "item_count": 11,
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T00:02:37.303481+08:00",
+  "item_count": 3,
   "items": [
     {
-      "id": "understanding-chatgpt-work",
-      "label": "Understanding ChatGPT Work",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.425,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49504625",
-      "date": "2026-08-31"
-    },
-    {
-      "id": "haiku-r1beta6-has-been-released",
-      "label": "Haiku R1/beta6 has been released",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.405,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49499867",
-      "date": "2026-08-31"
-    },
-    {
-      "id": "metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
-      "label": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.375,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49498787",
-      "date": "2026-08-31"
-    },
-    {
-      "id": "p99-0-ms-autocomplete-for-240m-domain-names",
-      "label": "P99 0 ms* autocomplete for 240M domain names",
+      "id": "agent-memory-as-a-file-format",
+      "label": "Agent Memory as a File Format",
       "summary": "暂无中文摘要",
       "pm_score": 0.355,
       "pillar": "patterns",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49505219",
-      "date": "2026-08-31"
+      "url": "https://news.ycombinator.com/item?id=49508317",
+      "date": "2026-09-01"
     },
     {
-      "id": "no-ai-fridays",
-      "label": "No AI Fridays",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.355,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49498095",
-      "date": "2026-08-31"
-    },
-    {
-      "id": "claude-session-url-appended-to-commit-messages-and-pr-descriptions-by-default",
-      "label": "Claude Session URL appended to commit messages and PR descriptions by default",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.325,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49498201",
-      "date": "2026-08-31"
-    },
-    {
-      "id": "breaking-claude-code-opus-5-auto-mode",
-      "label": "Breaking Claude Code Opus 5 Auto Mode",
-      "summary": "暂无中文摘要",
+      "id": "meeting-note-taker-circleback-adds-a-free-tier-to-attract-more-customers",
+      "label": "Meeting note-taker Circleback adds a free tier to attract more customers",
+      "summary": "Circleback is also introducing new pricing plans starting from $14 per month.",
       "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49506819",
-      "date": "2026-08-31"
-    },
-    {
-      "id": "caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
-      "label": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-      "pm_score": 0.305,
-      "pillar": "patterns",
+      "pillar": "business",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-      "date": "2026-08-31"
+      "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+      "date": "2026-09-01"
     },
     {
-      "id": "the-us-is-building-barriers-around-drones-and-robots-but-china-has-scale-to-get",
-      "label": "The U.S. is building barriers around drones and robots, but China has scale to g",
-      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+      "id": "nvidias-35b-mediatek-bet-reveals-its-plan-for-tackling-big-tech8217s-ai-chip-bui",
+      "label": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech&#8217;s AI ch",
+      "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
       "pm_score": 0.305,
-      "pillar": "capabilities",
+      "pillar": "ecosystem",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-      "date": "2026-08-31"
-    },
-    {
-      "id": "musk8217s-faster-path-to-more-gas-turbines-comes-with-pollution-problem",
-      "label": "Musk&#8217;s faster path to more gas turbines comes with pollution problem",
-      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-      "date": "2026-08-31"
-    },
-    {
-      "id": "continuous-diffusion-language-models-cdlms",
-      "label": "Continuous Diffusion Language Models (CDLM's)",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49502611",
-      "date": "2026-08-31"
+      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "date": "2026-09-01"
     }
   ],
   "graph_totals": {
-    "real_nodes": 8021,
-    "edges": 8480
+    "real_nodes": 8026,
+    "edges": 8485
   }
 }
