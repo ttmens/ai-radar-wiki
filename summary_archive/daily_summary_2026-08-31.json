@@ -2,7 +2,7 @@
   "daily_summary": {
     "date": "2026-08-31",
     "headline": "今日 AI 情报 · 2026-08-31",
-    "overview": "今日共采集 10 条情报",
+    "overview": "今日共采集 31 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -10,10 +10,10 @@
         "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "haiku-r1beta6-has-been-released",
-            "title": "Haiku R1/beta6 has been released",
-            "score": 0.41,
-            "url": "https://news.ycombinator.com/item?id=49499867",
+            "id": "understanding-chatgpt-work",
+            "title": "Understanding ChatGPT Work",
+            "score": 0.42,
+            "url": "https://news.ycombinator.com/item?id=49504625",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -25,10 +25,25 @@
         "insight": "今日📱 产品模式方向有新的动态。",
         "evidence": [
           {
-            "id": "caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
-            "title": "Caterpillar is bringing to AI deployment what it learned from automati",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+            "id": "p99-0-ms-autocomplete-for-240m-domain-names",
+            "title": "P99 0 ms* autocomplete for 240M domain names",
+            "score": 0.35,
+            "url": "https://news.ycombinator.com/item?id=49505219",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向有新的动态。",
+        "evidence": [
+          {
+            "id": "on-two-proofs-of-d2-mixing-of-weighted-dikin-walks",
+            "title": "On two proofs of $d^2$ mixing of weighted Dikin walks",
+            "score": 0.26,
+            "url": "http://arxiv.org/abs/2608.28566v1",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -36,10 +51,14 @@
       }
     ],
     "narratives": [],
-    "stats": "🤖 技术能力: 8 | 📱 产品模式: 2",
-    "total_items": 10,
-    "high_value_count": 6,
+    "stats": "🤖 技术能力: 27 | 📱 产品模式: 3 | 🔧 工具生态: 1",
+    "total_items": 31,
+    "high_value_count": 11,
     "all_today_ids": [
+      {
+        "id": "understanding-chatgpt-work",
+        "label": "Understanding ChatGPT Work"
+      },
       {
         "id": "haiku-r1beta6-has-been-released",
         "label": "Haiku R1/beta6 has been released"
@@ -47,6 +66,10 @@
       {
         "id": "metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
         "label": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack"
+      },
+      {
+        "id": "p99-0-ms-autocomplete-for-240m-domain-names",
+        "label": "P99 0 ms* autocomplete for 240M domain names"
       },
       {
         "id": "no-ai-fridays",
@@ -57,12 +80,24 @@
         "label": "Claude Session URL appended to commit messages and PR descriptions by default"
       },
       {
+        "id": "breaking-claude-code-opus-5-auto-mode",
+        "label": "Breaking Claude Code Opus 5 Auto Mode"
+      },
+      {
         "id": "caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
         "label": "Caterpillar is bringing to AI deployment what it learned from automating mining"
       },
       {
+        "id": "the-us-is-building-barriers-around-drones-and-robots-but-china-has-scale-to-get",
+        "label": "The U.S. is building barriers around drones and robots, but China has scale to g"
+      },
+      {
         "id": "musk8217s-faster-path-to-more-gas-turbines-comes-with-pollution-problem",
         "label": "Musk&#8217;s faster path to more gas turbines comes with pollution problem"
+      },
+      {
+        "id": "continuous-diffusion-language-models-cdlms",
+        "label": "Continuous Diffusion Language Models (CDLM's)"
       },
       {
         "id": "what-my-dad-taught-me-about-ai-coding-in-the-90s",
@@ -73,15 +108,79 @@
         "label": "Fair Work Commission condemns 'plain wrong' AI legal advice"
       },
       {
+        "id": "how-to-build-a-diffusion-language-model",
+        "label": "How to build a diffusion language model"
+      },
+      {
+        "id": "on-two-proofs-of-d2-mixing-of-weighted-dikin-walks",
+        "label": "On two proofs of $d^2$ mixing of weighted Dikin walks"
+      },
+      {
+        "id": "advancing-interaction-sensitive-feature-selection-novel-relief-based-algorithms",
+        "label": "Advancing Interaction-Sensitive Feature Selection: Novel Relief-Based Algorithms"
+      },
+      {
+        "id": "learning-between-the-peaks-sharp-asymptotics-for-kernel-ridge-regression-under-p",
+        "label": "Learning between the peaks: sharp asymptotics for kernel ridge regression under"
+      },
+      {
+        "id": "darts-decoder-aware-representation-tuning-via-surgery-for-model-merging",
+        "label": "DARTS: Decoder-Aware Representation Tuning via Surgery for Model Merging"
+      },
+      {
+        "id": "instructmesh-selective-refinement-of-generative-3d-models-for-fabrication",
+        "label": "InstructMesh: Selective Refinement of Generative 3D Models for Fabrication"
+      },
+      {
+        "id": "an-enclosed-mode-is-a-gauge-choice-topology-relative-to-reach-in-certified-code",
+        "label": "An Enclosed Mode Is a Gauge Choice: Topology Relative to Reach in Certified Code"
+      },
+      {
+        "id": "aero-hand-open-a-simulation-ready-tendon-driven-hand-for-dexterous-manipulation",
+        "label": "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation"
+      },
+      {
+        "id": "blog-survey-of-optimizers",
+        "label": "Blog: Survey of Optimizers"
+      },
+      {
+        "id": "learning-a-size-weight-frontier-for-synthetic-augmented-inference",
+        "label": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference"
+      },
+      {
+        "id": "logos-an-agent-harness-on-a-cross-process-bus",
+        "label": "Logos: An Agent Harness on a Cross-Process Bus"
+      },
+      {
+        "id": "video-generative-models-as-geometry-learner",
+        "label": "Video Generative Models as Geometry Learner"
+      },
+      {
+        "id": "qgpinns-a-physics-informed-neural-network-framework-for-nonlocal-differential-eq",
+        "label": "QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential E"
+      },
+      {
+        "id": "berlin-is-being-blackmailed-by-hackers",
+        "label": "Berlin is being blackmailed by hackers"
+      },
+      {
         "id": "electric-rain-can-eat-through-metal",
         "label": "Electric rain can eat through metal"
       },
       {
+        "id": "commercially-available-bike-generators-are-not-sustainable-2011",
+        "label": "Commercially Available Bike Generators Are Not Sustainable (2011)"
+      },
+      {
         "id": "show-hn-bolnee-chat-self-hosted-chatbot-integration-in-your-business-website",
         "label": "Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website"
+      },
+      {
+        "id": "claude-code-reduces-its-weekly-limit-by-17-compared-to-today",
+        "label": "Claude Code reduces it's weekly limit by 17% – compared to today"
       }
     ],
     "date_bj": "2026-08-31 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-08-31 06:02:01"
+    "generated_at_bj": "2026-08-31 20:04:06"
   }
 }

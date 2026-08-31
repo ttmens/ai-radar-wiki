@@ -1,8 +1,19 @@
 {
   "date": "2026-08-31",
-  "generated_at": "2026-08-31T06:02:33.127491+08:00",
-  "item_count": 6,
+  "generated_at": "2026-08-31T20:04:39.706997+08:00",
+  "item_count": 11,
   "items": [
+    {
+      "id": "understanding-chatgpt-work",
+      "label": "Understanding ChatGPT Work",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49504625",
+      "date": "2026-08-31"
+    },
     {
       "id": "haiku-r1beta6-has-been-released",
       "label": "Haiku R1/beta6 has been released",
@@ -23,6 +34,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49498787",
+      "date": "2026-08-31"
+    },
+    {
+      "id": "p99-0-ms-autocomplete-for-240m-domain-names",
+      "label": "P99 0 ms* autocomplete for 240M domain names",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49505219",
       "date": "2026-08-31"
     },
     {
@@ -48,6 +70,17 @@
       "date": "2026-08-31"
     },
     {
+      "id": "breaking-claude-code-opus-5-auto-mode",
+      "label": "Breaking Claude Code Opus 5 Auto Mode",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49506819",
+      "date": "2026-08-31"
+    },
+    {
       "id": "caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining",
       "label": "Caterpillar is bringing to AI deployment what it learned from automating mining",
       "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
@@ -56,6 +89,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "date": "2026-08-31"
+    },
+    {
+      "id": "the-us-is-building-barriers-around-drones-and-robots-but-china-has-scale-to-get",
+      "label": "The U.S. is building barriers around drones and robots, but China has scale to g",
+      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
       "date": "2026-08-31"
     },
     {
@@ -68,10 +112,21 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
       "date": "2026-08-31"
+    },
+    {
+      "id": "continuous-diffusion-language-models-cdlms",
+      "label": "Continuous Diffusion Language Models (CDLM's)",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49502611",
+      "date": "2026-08-31"
     }
   ],
   "graph_totals": {
-    "real_nodes": 8000,
-    "edges": 8452
+    "real_nodes": 8021,
+    "edges": 8480
   }
 }

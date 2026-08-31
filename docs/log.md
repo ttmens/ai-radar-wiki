@@ -3688,3 +3688,26 @@
 - create: metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack.md
 - create: electric-rain-can-eat-through-metal.md
 - create: musk8217s-faster-path-to-more-gas-turbines-comes-with-pollution-problem.md
+
+## [2026-08-31 20:04] sync v3 | 21 new | pillars: {'capabilities': 19, 'ecosystem': 1, 'patterns': 1}
+- create: qgpinns-a-physics-informed-neural-network-framework-for-nonlocal-differential-eq.md
+- create: aero-hand-open-a-simulation-ready-tendon-driven-hand-for-dexterous-manipulation.md
+- create: learning-a-size-weight-frontier-for-synthetic-augmented-inference.md
+- create: on-two-proofs-of-d2-mixing-of-weighted-dikin-walks.md
+- create: learning-between-the-peaks-sharp-asymptotics-for-kernel-ridge-regression-under-p.md
+- create: blog-survey-of-optimizers.md
+- create: logos-an-agent-harness-on-a-cross-process-bus.md
+- create: advancing-interaction-sensitive-feature-selection-novel-relief-based-algorithms.md
+- create: video-generative-models-as-geometry-learner.md
+- create: darts-decoder-aware-representation-tuning-via-surgery-for-model-merging.md
+- create: an-enclosed-mode-is-a-gauge-choice-topology-relative-to-reach-in-certified-code.md
+- create: instructmesh-selective-refinement-of-generative-3d-models-for-fabrication.md
+- create: breaking-claude-code-opus-5-auto-mode.md
+- create: p99-0-ms-autocomplete-for-240m-domain-names.md
+- create: understanding-chatgpt-work.md
+- create: how-to-build-a-diffusion-language-model.md
+- create: continuous-diffusion-language-models-cdlms.md
+- create: claude-code-reduces-its-weekly-limit-by-17-compared-to-today.md
+- create: commercially-available-bike-generators-are-not-sustainable-2011.md
+- create: berlin-is-being-blackmailed-by-hackers.md
+- create: the-us-is-building-barriers-around-drones-and-robots-but-china-has-scale-to-get.md
