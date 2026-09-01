@@ -3718,3 +3718,33 @@
 - create: agent-memory-as-a-file-format.md
 - create: nvidias-35b-mediatek-bet-reveals-its-plan-for-tackling-big-tech8217s-ai-chip-bui.md
 - create: meeting-note-taker-circleback-adds-a-free-tier-to-attract-more-customers.md
+
+## [2026-09-01 16:05] sync v3 | 28 new | pillars: {'ecosystem': 2, 'patterns': 3, 'capabilities': 23}
+- create: the-vibe-companyquivr.md
+- create: constant-individual-regret-in-general-games.md
+- create: sun-persistent-programs-for-language-grounded-control-to-learning-to-real-polici.md
+- create: sharp-approximation-rates-for-neural-networks-with-affine-latent-parameterizatio.md
+- create: auditing-anonymous-ai-models-a-four-stage-protocol-for-black-box-identity-verifi.md
+- create: ontoaligner-ensemble-voting-based-fusion-across-heterogeneous-ontology-alignment.md
+- create: implementing-neural-network-mixed-effects-models-in-template-model-builder-tmb.md
+- create: on-the-complexity-of-the-compatibility-problem-for-succinctly-encoded-conditiona.md
+- create: when-does-bigger-help-a-controlled-study-of-llm-scale-for-ontology-learning.md
+- create: train-classical-deploy-quantum-requires-rethinking-generalization.md
+- create: stress-testing-efficient-responsible-ai-evaluation-when-compute-savings-change-b.md
+- create: bloom-wilt-logit-tilting-for-behaviour-elicitation-in-automated-llm-auditing.md
+- create: llm-post-training-as-brownfield-maintenance-an-industrial-perspective-on-datawar.md
+- create: a-walkable-ascii-cyberpunk-city-in-one-html-file-video.md
+- create: terence-tao-explains-6-essential-mathematical-concepts-video.md
+- create: dwarf-fortress-is-getting-the-mother-of-all-magic-updates.md
+- create: apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac-studio.md
+- create: smartphone-led-detects-hidden-cameras-with-ai.md
+- create: doltlite-a-sqlite-fork-with-git-style-version-control-built-with-2k-agent-prs.md
+- create: ai-can-make-you-suck-faster-too.md
+- create: launch-hn-almanac-yc-s26-ai-that-knows-your-company.md
+- create: the-safest-job-from-ai-may-be-writing.md
+- create: apple-shares-8216shocking-evidence8217-against-former-employee-accused-of-steali.md
+- create: the-pentagon-now-has-its-own-version-of-chatgpt-and-grok.md
+- create: instagram-puts-new-limits-on-undisclosed-ai-profiles.md
+- create: harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-8216harvey-for-police-of.md
+- create: clipto-uses-ai-to-search-terabytes-of-video-and-is-now-valued-at-250m.md
+- create: at-techbbq-europe8217s-ai-conversations-kept-coming-back-to-who8217s-actually-in.md

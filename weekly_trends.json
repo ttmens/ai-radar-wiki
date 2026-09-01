@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T00:02:36.993730+08:00",
+  "generated_at": "2026-09-01T16:05:54.141601+08:00",
   "days_analyzed": 98,
   "pillar_trends": {
     "capabilities": {
@@ -647,7 +647,8 @@
         "2026-08-26",
         "2026-08-27",
         "2026-08-28",
-        "2026-08-30"
+        "2026-08-30",
+        "2026-09-01"
       ],
       "instances": [
         {
@@ -1023,6 +1024,22 @@
           "body": "今日1条情报涉及AI商业动态。包括：&#8220;We&#8217;re not doing 30 bets a y。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
           "type": "validation",
           "evidence": []
+        },
+        {
+          "date": "2026-09-01",
+          "title": "AI商业动态：资本与市场持续升温",
+          "body": "今日3条情报涉及AI商业动态。包括：When Does Bigger Help? A Controlled Stud, BLOOM-WILT: Logit Tilting for Behaviour , Stress-Testing Efficient Responsible-AI 。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+          "type": "validation",
+          "evidence": [
+            {
+              "id": "apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac-studio",
+              "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+              "score": 0.46,
+              "url": "https://news.ycombinator.com/item?id=49508982",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            }
+          ]
         }
       ],
       "lifecycle": "declining"
@@ -1797,5 +1814,5 @@
   ],
   "contradictions": [],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-09-01**（98天），累计 **2435** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：💰 商业动态呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-09-01**（98天），累计 **2463** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：💰 商业动态呈上升趋势"
 }
