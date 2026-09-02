@@ -25,10 +25,10 @@
         "insight": "今日📱 产品模式方向有新的动态。",
         "evidence": [
           {
-            "id": "the-vibe-companyquivr",
-            "title": "The-Vibe-Company/Quivr",
+            "id": "tinyhumansaiopenhuman",
+            "title": "tinyhumansai/openhuman",
             "score": 0.41,
-            "url": "https://github.com/The-Vibe-Company/Quivr",
+            "url": "https://github.com/tinyhumansai/openhuman",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -37,13 +37,13 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：基础设施, 融资/投资。",
+        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：融资/投资, 基础设施。",
         "evidence": [
           {
-            "id": "nvidias-35b-mediatek-bet-reveals-its-plan-for-tackling-big-tech8217s-ai-chip-bui",
-            "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech&#82",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+            "id": "career-ops-hqcareer-ops",
+            "title": "career-ops-hq/career-ops",
+            "score": 0.41,
+            "url": "https://github.com/career-ops-hq/career-ops",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -79,9 +79,9 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 25 | 📱 产品模式: 5 | 💰 商业趋势: 1 | 🔧 工具生态: 2",
-    "total_items": 33,
-    "high_value_count": 28,
+    "stats": "🤖 技术能力: 26 | 📱 产品模式: 6 | 🔧 工具生态: 3 | 💰 商业趋势: 1",
+    "total_items": 36,
+    "high_value_count": 30,
     "all_today_ids": [
       {
         "id": "apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac-studio",
@@ -90,6 +90,14 @@
       {
         "id": "dwarf-fortress-is-getting-the-mother-of-all-magic-updates",
         "label": "Dwarf Fortress is getting the mother of all magic updates"
+      },
+      {
+        "id": "tinyhumansaiopenhuman",
+        "label": "tinyhumansai/openhuman"
+      },
+      {
+        "id": "career-ops-hqcareer-ops",
+        "label": "career-ops-hq/career-ops"
       },
       {
         "id": "terence-tao-explains-6-essential-mathematical-concepts-video",
@@ -212,11 +220,15 @@
         "label": "Launch HN: Almanac (YC S26) – AI that knows your company"
       },
       {
+        "id": "american-airlines-legendary-mechanic-passes-away-at-100-after-80-year-career",
+        "label": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career"
+      },
+      {
         "id": "doltlite-a-sqlite-fork-with-git-style-version-control-built-with-2k-agent-prs",
         "label": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs"
       }
     ],
     "date_bj": "2026-09-01 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-01 16:05:23"
+    "generated_at_bj": "2026-09-01 18:02:29"
   }
 }

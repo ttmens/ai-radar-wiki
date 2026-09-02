@@ -3748,3 +3748,36 @@
 - create: harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-8216harvey-for-police-of.md
 - create: clipto-uses-ai-to-search-terabytes-of-video-and-is-now-valued-at-250m.md
 - create: at-techbbq-europe8217s-ai-conversations-kept-coming-back-to-who8217s-actually-in.md
+
+## [2026-09-02 16:06] sync v3 | 31 new | pillars: {'ecosystem': 5, 'capabilities': 24, 'patterns': 2}
+- update: the-vibe-companyquivr.md
+- create: beyond-scores-understanding-llm-as-a-judge-mechanisms-in-summarization-evaluatio.md
+- create: efficient-swe-agent-benchmarking-via-trajectory-aware-evaluation.md
+- create: adaptive-critical-token-aware-retrieval-for-repository-level-code-generation.md
+- create: cordisbench-can-language-models-reason-about-component-lifecycles-in-dynamic-age.md
+- create: the-rise-of-verbal-reinforcement-learning.md
+- create: facet-0-a-robotic-foundation-model-for-contact-rich-precise-manipulation.md
+- create: mechanism-design-for-alignment-and-control.md
+- create: designing-proactive-thought-partners-for-writing.md
+- create: the-structure-of-quantization-damage-in-llms-why-the-next-bit-should-be-spent-gl.md
+- create: scaling-near-optimal-sft-rl-annotation-budget-allocation-from-small-to-large-llm.md
+- create: selective-agent-guidance-via-entropy-learning-autonomous-policies-from-imperfect.md
+- create: from-confusion-to-clarity-confusion-aware-retrieval-and-knowledge-injection-for.md
+- create: claude-fable-51-and-claude-mythos-51.md
+- create: the-emergent-symbolic-structure-of-artificial-neural-networks.md
+- create: how-accurate-have-ed-zitrons-ai-skeptic-predictions-been.md
+- create: my-local-model-setup-on-an-m4-pro-mac-mini.md
+- create: show-hn-weedout-safari-extension-that-hides-youtube-ai-labeled-videos.md
+- create: the-efficient-frontier-of-llm-inference.md
+- create: the-chatgptcodex-app-bundles-a-full-copy-of-libreoffice.md
+- create: atlas-a-world-model-for-spatial-intelligence.md
+- create: magic-eye-tube.md
+- create: i-trained-a-small-transformer-in-15hrs-and-it-beats-many-llms.md
+- create: apple-reveals-shocking-evidence-from-ex-employees-macbook-in-openai-suit.md
+- create: afterquery-reportedly-becomes-y-combinator8217s-fastest-ever-unicorn-now-valued.md
+- create: openai8217s-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-sy.md
+- create: google8217s-android-update-tackles-motion-sickness-accessibility-and-more.md
+- create: anthropic8217s-new-fable-release-is-cheaper-less-restrictive.md
+- create: google8217s-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design.md
+- create: chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data.md
+- create: sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happe.md

@@ -33,3 +33,8 @@ Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product ra
 
 ## 关系
 - 相关概念: TBD
+
+## 更新 2026-09-02
+- ⭐ Stars: 39453
+- 🎯 PM Score: 0.405
+- 🏷️ Pillar: patterns
