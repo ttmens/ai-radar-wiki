@@ -30,6 +30,13 @@
             "score": 0.3,
             "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
             "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-what-happens-when-you-give-your-ai-agents-a-voice-and-an-attitude",
+            "title": "Show HN: What Happens When You Give Your AI Agents a Voice and an Atti",
+            "score": 0.15,
+            "url": "https://fellowgeek.github.io/mcp-speak/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
         "trend": "new"
@@ -37,7 +44,7 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "今日🔧 工具生态方向的核心信号集中在融资/投资, AI Agent。",
+        "insight": "今日🔧 工具生态方向的核心信号集中在AI Agent, 融资/投资。",
         "evidence": [
           {
             "id": "efficient-swe-agent-benchmarking-via-trajectory-aware-evaluation",
@@ -53,7 +60,7 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：AIR raises $50M to help companies vet th, Mechanism Design for Alignment and Contr。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：AIR raises $50M to help companies vet th, Mechanism Design for Alignment and Contr, Show HN: What Happens When You Give Your。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
@@ -64,8 +71,8 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 29 | 📱 产品模式: 3 | 🔧 工具生态: 4",
-    "total_items": 36,
+    "stats": "🤖 技术能力: 30 | 📱 产品模式: 4 | 🔧 工具生态: 4",
+    "total_items": 38,
     "high_value_count": 33,
     "all_today_ids": [
       {
@@ -211,9 +218,17 @@
       {
         "id": "saab-enters-collaborative-combat-aircraft-race-with-high-end-concept",
         "label": "Saab Enters Collaborative Combat Aircraft Race with High-End Concept"
+      },
+      {
+        "id": "show-hn-claude-and-chatgpt-need-a-datacenter-this-runs-on-my-phone",
+        "label": "Show HN: Claude and ChatGPT need a datacenter. This runs on my phone"
+      },
+      {
+        "id": "show-hn-what-happens-when-you-give-your-ai-agents-a-voice-and-an-attitude",
+        "label": "Show HN: What Happens When You Give Your AI Agents a Voice and an Attitude"
       }
     ],
     "date_bj": "2026-09-02 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-02 16:05:29"
+    "generated_at_bj": "2026-09-02 18:02:25"
   }
 }

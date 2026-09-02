@@ -3781,3 +3781,7 @@
 - create: google8217s-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design.md
 - create: chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data.md
 - create: sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happe.md
+
+## [2026-09-02 18:02] sync v3 | 2 new | pillars: {'capabilities': 1, 'patterns': 1}
+- create: show-hn-claude-and-chatgpt-need-a-datacenter-this-runs-on-my-phone.md
+- create: show-hn-what-happens-when-you-give-your-ai-agents-a-voice-and-an-attitude.md

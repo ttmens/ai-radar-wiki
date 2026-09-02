@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-02 | Total pages: 3675
+> Last updated: 2026-09-02 | Total pages: 3677
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -975,6 +975,7 @@
 - [[show-hn-can-europe-train-a-frontier-ai-model-on-the-compute-it-owns.md]] Show HN: Can Europe train a frontier AI model on the compute it owns? `pillar:capabilities` `score:0.38`
 - [[show-hn-check-if-any-of-the-656m-in-unclaimed-royalties-at-the-mlc-is-yours.md]] Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours `pillar:capabilities` `score:0.255`
 - [[show-hn-classify-mechanical-faults-using-contrastive-language-audio-pretraining.md]] Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining `pillar:capabilities` `score:0.295`
+- [[show-hn-claude-and-chatgpt-need-a-datacenter-this-runs-on-my-phone.md]] Show HN: Claude and ChatGPT need a datacenter. This runs on my phone `pillar:capabilities` `score:0.155`
 - [[show-hn-claude-code-for-visual-studio-native-diff-with-acceptreject.md]] Show HN: Claude Code for Visual Studio (native diff with accept/reject) `pillar:capabilities` `score:0.33`
 - [[show-hn-claude-thermos-keeps-your-claude-session-warm-for-you.md]] Show HN: Claude-thermos – keeps your Claude session warm for you `pillar:capabilities` `score:0.345`
 - [[show-hn-claudoro-pomodoro-timer-embedded-in-the-claude-code-statusline.md]] Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline `pillar:capabilities` `score:0.295`
@@ -2528,6 +2529,7 @@
 - [[show-hn-visual-workspace-for-agents-based-on-unix.md]] Show HN: Visual Workspace for Agents Based on Unix `pillar:patterns` `score:0.295`
 - [[show-hn-voicedraw-talk-system-design-out-loud-the-diagrams-draw-themselves.md]] Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves `pillar:patterns` `score:0.33`
 - [[show-hn-vt-code-open-source-terminal-coding-agent-in-rust.md]] Show HN: VT Code – open-source terminal coding agent in Rust `pillar:patterns` `score:0.26`
+- [[show-hn-what-happens-when-you-give-your-ai-agents-a-voice-and-an-attitude.md]] Show HN: What Happens When You Give Your AI Agents a Voice and an Attitude `pillar:patterns` `score:0.155`
 - [[show-hn-what-should-the-gui-for-ai-agents-look-like.md]] Show HN: What should the GUI for AI agents look like? `pillar:patterns` `score:0.43`
 - [[show-hn-wmux-a-workspace-multiplexer-for-ai-agents.md]] Show HN: Wmux – A workspace multiplexer for AI agents `pillar:patterns` `score:0.295`
 - [[show-hn-y-a-malleable-coding-agent-desktop-app-built-with-electron.md]] Show HN: Y – A malleable coding-agent desktop app built with Electron `pillar:patterns` `score:0.155`
