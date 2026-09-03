@@ -3785,3 +3785,38 @@
 ## [2026-09-02 18:02] sync v3 | 2 new | pillars: {'capabilities': 1, 'patterns': 1}
 - create: show-hn-claude-and-chatgpt-need-a-datacenter-this-runs-on-my-phone.md
 - create: show-hn-what-happens-when-you-give-your-ai-agents-a-voice-and-an-attitude.md
+
+## [2026-09-03 08:04] sync v3 | 33 new | pillars: {'capabilities': 25, 'patterns': 4, 'business': 3, 'ecosystem': 1}
+- create: gemini-38-flash-and-38-flash-cyber.md
+- create: metr-report-on-openai-hugging-face-hacking-incident.md
+- create: fable-51-world-modeling.md
+- create: three-sites-made-215128-best-software-pages-for-ai-perplexity-cites-them.md
+- create: can-i-opt-out-of-my-input-or-output-data-being-used-for-training.md
+- create: altair-basic-interpreter-source-code-1975-pdf.md
+- create: qantas-airbus-a380-engine-failure-in-2010-2023.md
+- create: aging-brains-blend-memories-together-instead-of-just-forgetting-them.md
+- create: we-could-save-petabytes-of-cache-storage-with-zstandard-and-pingora.md
+- create: webllm-high-performance-in-browser-llm-inference-engine.md
+- create: quasar-438b-europes-leading-ai-model.md
+- create: paintnet-52-alpha-now-runs-on-linux.md
+- create: mamdani-bans-ai-in-nyc-schools.md
+- create: six-curl-cves-after-openai-and-anthropic-came-back-with-zero.md
+- create: llms-intelligence-vs-cost.md
+- create: the-race-to-engineer-new-knobs-for-the-human-brain.md
+- create: check-if-a-file-was-made-with-claude.md
+- create: the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunc.md
+- create: palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say.md
+- create: techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-exti.md
+- create: openais-new-reasoning-technique-alarms-ai-safety-experts.md
+- create: pangram8217s-max-spero-on-why-ai-detection-is-harder-than-8216real-or-fake8217.md
+- create: we8217re-dangerously-close-to-dead-internet-theory-says-pangram8217s-ceo.md
+- create: us-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-materia.md
+- create: wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months.md
+- create: india8217s-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs.md
+- create: hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments.md
+- create: psa-amazon8217s-shopping-ai-can-now-tell-you-if-that-message-is-a-scam.md
+- create: adobe-acquires-indian-market-intelligence-startup-rilo.md
+- create: openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting.md
+- create: show-hn-aura-a-rust-agent-that-investigates-and-fixes-production-incidents.md
+- create: show-hn-frontierharness-eval-9-harness-same-model-cost-per-pass-varies-17x.md
+- create: show-hn-i-have-been-clawed-index-of-coding-agent-incidents.md
