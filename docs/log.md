@@ -3820,3 +3820,24 @@
 - create: show-hn-aura-a-rust-agent-that-investigates-and-fixes-production-incidents.md
 - create: show-hn-frontierharness-eval-9-harness-same-model-cost-per-pass-varies-17x.md
 - create: show-hn-i-have-been-clawed-index-of-coding-agent-incidents.md
+
+## [2026-09-04 00:04] sync v3 | 20 new | pillars: {'ecosystem': 3, 'capabilities': 17}
+- create: heygen-comhyperframes.md
+- create: a-common-measure-of-communication-for-speech-brain-computer-interfaces.md
+- create: discriminative-world-models-for-web-agents.md
+- create: graph-machine-towards-better-pretraining-via-edges.md
+- create: gradsolve-fast-exact-gradients-for-ode-ensembles-on-gpus.md
+- create: towards-trustworthy-autonomous-robots-an-explainable-ai-based-decision-framework.md
+- create: improved-gradient-descent-lower-bounds-beyond-nesterov.md
+- create: the-implications-of-linguistic-illegibility-for-llm-security.md
+- create: post-training-language-models-for-gold-medal-performance-in-coding-competitions.md
+- create: ue5m3-fp4-block-scaling-for-stable-language-model-pretraining.md
+- create: learning-spectral-like-mesh-free-discretisations.md
+- create: ai-contextual-measurement-for-recovering-individual-and-group-level-effects-vali.md
+- create: cliff-learning-process-rewards-from-the-first-mistake.md
+- create: chatgpt-is-throwing-404.md
+- create: the-browsers-main-thread-is-expensive.md
+- create: ask-hn-why-are-openai-claude-and-grok-simultaneously-down-coincidence.md
+- create: a-dark-horse-enters-chinas-ai-race-startlux.md
+- create: google8217s-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella.md
+- create: nvidia-confirms-it-will-buy-hugging-face-for-129-billion.md
