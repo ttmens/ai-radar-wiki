@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-04 | Total pages: 3761
+> Last updated: 2026-09-05 | Total pages: 3768
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -459,11 +459,13 @@
 - [[glm-52-is-the-new-leading-open-weights-model-on-artificial-analysis.md]] GLM-5.2 is the new leading open weights model on Artificial Analysis `pillar:capabilities` `score:0.68`
 - [[glm-52-performance-benchmarks.md]] GLM 5.2 Performance Benchmarks `pillar:capabilities` `score:0.43`
 - [[gmail-thinks-im-stupid-so-i-left.md]] Gmail thinks I'm stupid, so I left `pillar:capabilities` `score:0.63`
+- [[gmails-custom-domain-send-as-discontinues-january-2027.md]] GMails custom domain "send as" discontinues January 2027 `pillar:capabilities` `score:0.305`
 - [[go-experiments-explained.md]] Go Experiments Explained `pillar:capabilities` `score:0.26`
 - [[go-grandmaster-shin-defeats-ai-katago-with-a-two-stone-handicap.md]] Go grandmaster Shin defeats AI KataGo with a two-stone handicap `pillar:capabilities` `score:0.405`
 - [[golang-proposal-container-generic-collection-types.md]] Golang proposal: container/: generic collection types `pillar:capabilities` `score:0.255`
 - [[good-culture-is-the-biggest-productivity-hack-not-ai.md]] Good Culture Is the Biggest Productivity Hack, Not AI `pillar:capabilities` `score:0.305`
 - [[google-ai-edgemediapipe.md]] google-ai-edge/mediapipe `pillar:capabilities` `score:0.615`
+- [[google-ai-mode-shows-same-products-216-more-expensive-than-traditional-search.md]] Google AI Mode shows same products 21.6% more expensive than traditional search `pillar:capabilities` `score:0.355`
 - [[google-faces-another-ai-training-lawsuit-from-major-publishers.md]] Google faces another AI training lawsuit from major publishers `pillar:capabilities` `score:0.48`
 - [[google-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai.md]] Google fixed more Chrome bugs in June than over the past two years, thanks to AI `pillar:capabilities` `score:0.305`
 - [[google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses.md]] Google gives publishers a new way to fight AI-driven traffic losses `pillar:capabilities` `score:0.255`
@@ -673,6 +675,7 @@
 - [[learnvector-andrew-ngs-ai-company-building-onetoone-learning-experiences.md]] LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences `pillar:capabilities` `score:0.43`
 - [[leiden-declaration-on-artificial-intelligence-and-mathematics.md]] Leiden Declaration on Artificial Intelligence and Mathematics `pillar:capabilities` `score:0.36`
 - [[lemario-training-a-jepa-world-model-on-super-mario-bros.md]] LeMario: Training a JEPA World Model on Super Mario Bros `pillar:capabilities` `score:0.345`
+- [[less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event.md]] Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event `pillar:capabilities` `score:0.305`
 - [[librepods-airpods-liberated.md]] Librepods: AirPods liberated `pillar:capabilities` `score:0.495`
 - [[lies-damn-lies-and-database-benchmarks.md]] Lies, Damn Lies and Database Benchmarks `pillar:capabilities` `score:0.33`
 - [[lies-we-tell-ourselves-about-email-addresses.md]] Lies we tell ourselves about email addresses `pillar:capabilities` `score:0.395`
@@ -779,6 +782,7 @@
 - [[nanogpt-speedrun-frontier.md]] NanoGPT Speedrun Frontier `pillar:capabilities` `score:0.205`
 - [[nativ-run-frontier-open-models-locally-on-your-mac.md]] Nativ: Run frontier open models locally on your Mac `pillar:capabilities` `score:0.48`
 - [[navier-stokes-fluid-simulation-explained-with-godot-game-engine.md]] Navier-Stokes fluid simulation explained with Godot game engine `pillar:capabilities` `score:0.205`
+- [[nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6.md]] Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+ `pillar:capabilities` `score:0.355`
 - [[neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi.md]] NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI `pillar:capabilities` `score:0.305`
 - [[needle-the-benchmark-your-search-engine-cant-memorize.md]] Needle: The benchmark your search engine can't memorize `pillar:capabilities` `score:0.155`
 - [[neocloud-lambda-secures-1b-in-debt-to-buy-more-chips.md]] Neocloud Lambda secures $1B in debt to buy more chips `pillar:capabilities` `score:0.305`
@@ -2279,6 +2283,7 @@
 - [[defrag98-windows-98-disk-defragmenter-simulator-online.md]] Defrag98: Windows 98 Disk Defragmenter Simulator Online `pillar:patterns` `score:0.355`
 - [[designing-apis-for-agents.md]] Designing APIs for Agents `pillar:patterns` `score:0.43`
 - [[dietrichgebertponytail.md]] DietrichGebert/ponytail `pillar:patterns` `score:0.455`
+- [[discovery-of-a-new-openai-agent-message-board.md]] Discovery of a new OpenAI agent message board `pillar:patterns` `score:0.505`
 - [[do-agentsmd-files-help-coding-agents.md]] Do agents.md files help coding agents? `pillar:patterns` `score:0.38`
 - [[document-borne-ai-worms-can-self-propagate-through-copilot-for-word.md]] Document-borne AI worms can self-propagate through Copilot for Word `pillar:patterns` `score:0.585`
 - [[does-code-cleanliness-affect-coding-agents-a-controlled-minimal-pair-study.md]] Does code cleanliness affect coding agents? A controlled minimal-pair study `pillar:patterns` `score:0.53`
@@ -2902,6 +2907,7 @@
 - [[google-limits-metas-use-of-its-gemini-ai-models.md]] Google limits Meta's use of its Gemini AI models `pillar:ecosystem` `score:0.395`
 - [[google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026.md]] Google updates its Gemini app to take on ChatGPT and Claude at IO 2026 `pillar:ecosystem` `score:0.515`
 - [[google8217s-ai-search-is-rapidly-becoming-the-default-new-data-shows.md]] Google&#8217;s AI search is rapidly becoming the default, new data shows `pillar:ecosystem` `score:0.515`
+- [[google8217s-gemini-spark-can-now-manage-your-google-photos-library.md]] Google&#8217;s Gemini Spark can now manage your Google Photos library `pillar:ecosystem` `score:0.305`
 - [[googlelangextract.md]] google/langextract `pillar:ecosystem` `score:0.405`
 - [[governments-companies-nonprofits-should-invest-in-free-open-source-ai-pdf.md]] Governments, companies, nonprofits should invest in free, open source AI [pdf] `pillar:ecosystem` `score:0.48`
 - [[gradio-appgradio.md]] gradio-app/gradio `pillar:ecosystem` `score:0.615`
@@ -3377,6 +3383,7 @@
 - [[can-the-stockmarket-swallow-anthropic-spacex-and-openai.md]] Can the stockmarket swallow Anthropic, SpaceX and OpenAI? `pillar:business` `score:0.58`
 - [[canadian-pension-giant-joins-race-to-fund-india8217s-ai-fueled-data-center-boom.md]] Canadian pension giant joins race to fund India&#8217;s AI-fueled data center bo `pillar:business` `score:0.375`
 - [[canvas-online-again-as-shinyhunters-threatens-to-l.md]] Canvas online again as ShinyHunters threatens to leak schools’ data `pillar:business` `score:0.505`
+- [[carbon-aware-electricity-pricing-measured-daily-on-38-grids.md]] Carbon-aware electricity pricing, measured daily on 38 grids `pillar:business` `score:0.305`
 - [[carolina-cloud-pays-sofr-on-unused-prepaid-credits.md]] Carolina Cloud pays SOFR on unused prepaid credits `pillar:business` `score:0.41`
 - [[cerebras-raises-55b-then-stock-pops-108-in-the-first-huge-tech-ipo-of-2026.md]] Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026 `pillar:business` `score:0.445`
 - [[cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misundersto.md]] Cerebras stock plunges after earnings as CEO says margin outlook was misundersto `pillar:business` `score:0.375`

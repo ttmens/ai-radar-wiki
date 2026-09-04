@@ -3877,3 +3877,12 @@
 - create: show-hn-real-time-ai-news-aggregator-with-daily-digest.md
 
 ## [2026-09-04 18:00] sync v3 | 0 new | pillars: {}
+
+## [2026-09-05 00:02] sync v3 | 7 new | pillars: {'capabilities': 4, 'patterns': 1, 'business': 1, 'ecosystem': 1}
+- create: google-ai-mode-shows-same-products-216-more-expensive-than-traditional-search.md
+- create: discovery-of-a-new-openai-agent-message-board.md
+- create: gmails-custom-domain-send-as-discontinues-january-2027.md
+- create: nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6.md
+- create: carbon-aware-electricity-pricing-measured-daily-on-38-grids.md
+- create: google8217s-gemini-spark-can-now-manage-your-google-photos-library.md
+- create: less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event.md
