@@ -1,8 +1,30 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-04T00:04:01.949284+08:00",
-  "item_count": 17,
+  "generated_at": "2026-09-04T16:04:53.394556+08:00",
+  "item_count": 46,
   "items": [
+    {
+      "id": "gpt-6-astra",
+      "label": "GPT-6 Astra",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.505,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49554643",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "qwen-38-27b-available-on-cerebras-at-1500-tokenss",
+      "label": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.475,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49554520",
+      "date": "2026-09-04"
+    },
     {
       "id": "chatgpt-is-throwing-404",
       "label": "ChatGPT Is Throwing 404",
@@ -12,6 +34,50 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49550614",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "the-largest-electric-aircraft-just-flew-video",
+      "label": "The largest electric aircraft just flew [video]",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49526453",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "openais-gpt-6-astra-on-arc-agi-3",
+      "label": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49555691",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "go-grandmaster-shin-defeats-ai-katago-with-a-two-stone-handicap",
+      "label": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49544762",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "porting-my-1993-amiga-game-to-godot-with-an-llm-reading-the-68000-assembly",
+      "label": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49550375",
       "date": "2026-09-04"
     },
     {
@@ -37,6 +103,50 @@
       "date": "2026-09-04"
     },
     {
+      "id": "paperless-ngxpaperless-ngx",
+      "label": "paperless-ngx/paperless-ngx",
+      "summary": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "k2-horizon-a-connected-fleet-of-six-open-models",
+      "label": "K2 Horizon: A connected fleet of six open models",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49551760",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "which-tools-do-claude-codex-and-cursor-choose-we-measured-17k-runs-to-find-out",
+      "label": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49557206",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+      "label": "Meta is paying to peek at how you use their latest AI model",
+      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "date": "2026-09-04"
+    },
+    {
       "id": "nvidia-confirms-it-will-buy-hugging-face-for-129-billion",
       "label": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
       "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
@@ -45,6 +155,61 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "ollie-is-betting-its-focus-on-privacy-can-help-it-win-the-ai-assistant-race",
+      "label": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "openai-launches-astra-its-powerful-and-controversial-new-model",
+      "label": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "xanadu-was-waiting-for-agents",
+      "label": "Xanadu was waiting for agents",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49526298",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuatio",
+      "label": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuat",
+      "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "the-sameness-problem-behind-those-unappetizing-ai-generated-menus",
+      "label": "The sameness problem behind those unappetizing AI-generated menus",
+      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
       "date": "2026-09-04"
     },
     {
@@ -59,6 +224,39 @@
       "date": "2026-09-04"
     },
     {
+      "id": "abliterationai-is-making-a-business-out-of-removing-ai-guardrails",
+      "label": "Abliteration.ai is making a business out of removing AI guardrails",
+      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "crusoe-reportedly-raises-3b-at-a-30b-valuation",
+      "label": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "rethinking-on-policy-distillation-of-large-language-models-ii-one-training-examp",
+      "label": "Rethinking On-Policy Distillation of Large Language Models II: One Training Exam",
+      "summary": "On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of training data unclear. We examine this role at the data-minimal limit by training on a single query. One-",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.04172v1",
+      "date": "2026-09-04"
+    },
+    {
       "id": "cliff-learning-process-rewards-from-the-first-mistake",
       "label": "Cliff: Learning Process Rewards from the First Mistake",
       "summary": "Reinforcement learning with verifiable rewards (RLVR) has emerged as a powerful paradigm for large language model (LLM) post-training, but its reliance on coarse outcome rewards leads to limited guidance on intermediate reasoning processes. Existing approaches such as process reward modeling and on-",
@@ -70,6 +268,17 @@
       "date": "2026-09-04"
     },
     {
+      "id": "clean-engineering-unstable-measurement-a-preregistered-reliability-failure-of-bl",
+      "label": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of",
+      "summary": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to the same model name, reads the same tomorrow. We audited that assumption in two preregistered campai",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.04198v1",
+      "date": "2026-09-04"
+    },
+    {
       "id": "improved-gradient-descent-lower-bounds-beyond-nesterov",
       "label": "Improved Gradient Descent Lower Bounds Beyond Nesterov",
       "summary": "We study how far gradient descent (GD) can be accelerated by predetermined stepsizes in smooth convex optimization. Going beyond the classical $Ω(n^{-2})$ first-order oracle lower bound of Nemirovsky and Yudin, we prove an $Ω(n^{-1.6342})$ non-anytime lower bound and an $Ω(n^{-1.2408})$ anytime lowe",
@@ -78,6 +287,17 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2609.02855v1",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "robust-pac-learning-of-concurrent-stochastic-games",
+      "label": "Robust PAC Learning of Concurrent Stochastic Games",
+      "summary": "We introduce the first Probably Approximately Correct (PAC) learning framework for general-sum concurrent stochastic games (CSGs) with transition uncertainty, while addressing the challenge of Nash equilibrium (NE) existence. Our algorithm maintains data-driven $L^1$ confidence sets over transition",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.04189v1",
       "date": "2026-09-04"
     },
     {
@@ -100,6 +320,17 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2609.02852v1",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "espo-error-structured-prompt-optimization-via-diagnose-diversify-and-stabilize",
+      "label": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabiliz",
+      "summary": "Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three deficiencies - incomplete error observation, limited search diversity, and unreliable selection - and",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.04197v1",
       "date": "2026-09-04"
     },
     {
@@ -136,6 +367,28 @@
       "date": "2026-09-04"
     },
     {
+      "id": "legibility-is-not-interpretability-comparing-judged-and-actual-importance-in-cha",
+      "label": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Ch",
+      "summary": "Reasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A growing body of work treats them as such, using LLM judges to diagnose errors, evaluate faithfulness, and provide step-level supervision via process reward models and generative c",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.04194v1",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "one-editor-many-edits-a-unified-training-free-framework-for-diverse-video-editin",
+      "label": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Edit",
+      "summary": "Video editing spans diverse editing paradigms, yet achieving high-quality instruction-guided and subject-guided editing within a single unified framework remains challenging. We introduce EditVid, a training-free framework combining sparse causal memory for local coherence, correspondence-based post",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.04190v1",
+      "date": "2026-09-04"
+    },
+    {
       "id": "post-training-language-models-for-gold-medal-performance-in-coding-competitions",
       "label": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
       "summary": "Competitive programming has become a key test of large language model reasoning, with international competitions such as IOI and ICPC representing its most challenging settings. We present an end-to-end specialization pipeline combining large-scale problem curation, synthetic reasoning traces, super",
@@ -144,6 +397,17 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2609.02849v1",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "seeing-before-synthesizing-vlm-guided-transition-event-discovery-for-weakly-supe",
+      "label": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Sup",
+      "summary": "Weakly-Supervised Dense Video Captioning aims to localize and describe multiple events in untrimmed videos given only an ordered set of event-level captions per video. Recent work synthesizes auxiliary transition captions via LLM to provide additional vision-language alignment, but these captions la",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.04183v1",
       "date": "2026-09-04"
     },
     {
@@ -158,6 +422,39 @@
       "date": "2026-09-04"
     },
     {
+      "id": "para-pipe-exploiting-hierarchical-operator-parallelism-of-ml-computational-graph",
+      "label": "Para-Pipe: Exploiting Hierarchical Operator Parallelism of ML Computational Grap",
+      "summary": "As edge-based deep learning applications become more complex, optimizing performance on heterogeneous System-on-Chips (SoCs) presents unique challenges. Traditional pipelining techniques distributing the computation across different on-chip processing units, while effective for throughput, do not ad",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.04168v1",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "compile-by-training-turning-natural-language-specifications-into-local-neural-fu",
+      "label": "Compile by Training: Turning Natural-Language Specifications into Local Neural F",
+      "summary": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a provider. We present compile by training, which turns a natural-language specification into a reusable n",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.04199v1",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "a-computationally-feasible-framework-for-causal-probabilistic-explanation",
+      "label": "A Computationally Feasible Framework for Causal Probabilistic Explanation",
+      "summary": "Explaining why a specific outcome occurred, and which inputs deserve the blame or credit, is central to philosophical, scientific, and policy analysis. Existing tools split into two camps. The theory of actual causality (AC) gives principled verdicts, but only for toy-sized models, because computing",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.04177v1",
+      "date": "2026-09-04"
+    },
+    {
       "id": "ai-contextual-measurement-for-recovering-individual-and-group-level-effects-vali",
       "label": "AI Contextual Measurement for Recovering Individual and Group-Level Effects: Val",
       "summary": "Researchers increasingly use artificial intelligence to construct measures of social, organizational, and occupational characteristics that are absent from conventional surveys. We propose AICOME, AI COntextual MEasurement, a framework for evaluating whether AI-derived respondent-level measures can",
@@ -169,6 +466,17 @@
       "date": "2026-09-04"
     },
     {
+      "id": "knowledge-acquisition-during-pre-training-large-language-models-learn-better-wit",
+      "label": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better Wi",
+      "summary": "Gaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-training. We posit that auxiliary views, reformulations of knowledge, are causally helpful for learning. We design controlled experiments to isolate this. First, we confirm that repetition is necessary",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.04180v1",
+      "date": "2026-09-04"
+    },
+    {
       "id": "ue5m3-fp4-block-scaling-for-stable-language-model-pretraining",
       "label": "UE5M3 FP4 Block Scaling for Stable Language Model Pretraining",
       "summary": "Stable 4-bit floating-point (FP4) pretraining is difficult because the E2M1 payload represents only a narrow range of magnitudes. NVIDIA's Transformer Engine \\nv{} recipe addresses this with current-tensor scaling, a randomized Hadamard transform (RHT), and bfloat16 (BF16) final layers, adding work",
@@ -177,6 +485,17 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2609.02846v1",
+      "date": "2026-09-04"
+    },
+    {
+      "id": "a-case-study-on-emergent-cheating-and-whistleblowing-in-autonomous-research-swar",
+      "label": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swar",
+      "summary": "Multi-agent AI science ecosystems rely on agents possessing tools that allow them to communicate, coordinate, and build on each other's work. Yet this shared infrastructure can also introduce vulnerabilities by creating a substrate for the contagious spread of unintended and undesirable behaviors. W",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.04170v1",
       "date": "2026-09-04"
     },
     {
@@ -192,7 +511,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 8147,
-    "edges": 8650
+    "real_nodes": 8179,
+    "edges": 8697
   }
 }

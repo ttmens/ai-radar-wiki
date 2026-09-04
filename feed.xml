@@ -5,13 +5,165 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 03 Sep 2026 16:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 08:00:06 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>ChatGPT Is Throwing 404</title>
+      <link>https://news.ycombinator.com/item?id=49550614</link>
+      <guid isPermaLink="false">chatgpt-is-throwing-404</guid>
+      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>heygen-com/hyperframes</title>
+      <link>https://github.com/heygen-com/hyperframes</link>
+      <guid isPermaLink="false">heygen-comhyperframes</guid>
+      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> github</p><hr/><p>Write HTML. Render video. Built for agents.</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>The Browser's Main Thread Is Expensive</title>
+      <link>https://news.ycombinator.com/item?id=49522137</link>
+      <guid isPermaLink="false">the-browsers-main-thread-is-expensive</guid>
+      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Nvidia confirms it will buy Hugging Face for $12.9 billion</title>
+      <link>https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/</link>
+      <guid isPermaLink="false">nvidia-confirms-it-will-buy-hugging-face-for-129-billion</guid>
+      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Google&amp;#8217;s latest AI weather model gives you no excuse to forget your umbrel</title>
+      <link>https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/</link>
+      <guid isPermaLink="false">google8217s-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella</guid>
+      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Cliff: Learning Process Rewards from the First Mistake</title>
+      <link>http://arxiv.org/abs/2609.02817v1</link>
+      <guid isPermaLink="false">cliff-learning-process-rewards-from-the-first-mistake</guid>
+      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Reinforcement learning with verifiable rewards (RLVR) has emerged as a powerful paradigm for large language model (LLM) post-training, but its reliance on coarse outcome rewards leads to limited guidance on intermediate reasoning processes. Existing approaches such as process reward modeling and on-</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Improved Gradient Descent Lower Bounds Beyond Nesterov</title>
+      <link>http://arxiv.org/abs/2609.02855v1</link>
+      <guid isPermaLink="false">improved-gradient-descent-lower-bounds-beyond-nesterov</guid>
+      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>We study how far gradient descent (GD) can be accelerated by predetermined stepsizes in smooth convex optimization. Going beyond the classical $Ω(n^{-2})$ first-order oracle lower bound of Nemirovsky and Yudin, we prove an $Ω(n^{-1.6342})$ non-anytime lower bound and an $Ω(n^{-1.2408})$ anytime lowe</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Learning Spectral-Like Mesh-Free Discretisations</title>
+      <link>http://arxiv.org/abs/2609.02833v1</link>
+      <guid isPermaLink="false">learning-spectral-like-mesh-free-discretisations</guid>
+      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Meshfree methods such as smoothed particle hydrodynamics (SPH) with kernel corrections, radial basis function-generated finite differences (RBF-FD), and the local anisotropic basis function method (LABFM) construct discrete differential operators by imposing polynomial consistency on a local stencil</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>The Implications of Linguistic Illegibility for LLM Security</title>
+      <link>http://arxiv.org/abs/2609.02852v1</link>
+      <guid isPermaLink="false">the-implications-of-linguistic-illegibility-for-llm-security</guid>
+      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>LLMs are trained to generate natural language. However, various strands of evidence indicate that an LLM's externalized linguistic outputs and mechanistically-extracted linguistic features can be an unreliable lens for understanding internal model computation. We introduce the term ``linguistic ille</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>A Common Measure of Communication for Speech Brain-Computer Interfaces</title>
+      <link>http://arxiv.org/abs/2609.02887v1</link>
+      <guid isPermaLink="false">a-common-measure-of-communication-for-speech-brain-computer-interfaces</guid>
+      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Speech brain-computer interfaces (speech BCIs) translate neural activity into language, offering a path towards restoring speech for people with paralysis and, more broadly, enabling new forms of natural human-computer interaction. Despite this promise, the field lacks a common measure of progress b</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Discriminative World Models for Web Agents</title>
+      <link>http://arxiv.org/abs/2609.02885v1</link>
+      <guid isPermaLink="false">discriminative-world-models-for-web-agents</guid>
+      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PRM). These world models are typically trained via supervised next-state prediction to generate fixed</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framewor</title>
+      <link>http://arxiv.org/abs/2609.02861v1</link>
+      <guid isPermaLink="false">towards-trustworthy-autonomous-robots-an-explainable-ai-based-decision-framework</guid>
+      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Autonomous robots powered by deep learning face a fundamental auditability challenge: when incidents occur, investigators cannot reconstruct why the system made specific decisions. This paper presents TRACE (Transparent Reasoning Architecture for Credible Execution), a decision framework that ensure</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Post-Training Language Models for Gold-Medal Performance in Coding Competitions</title>
+      <link>http://arxiv.org/abs/2609.02849v1</link>
+      <guid isPermaLink="false">post-training-language-models-for-gold-medal-performance-in-coding-competitions</guid>
+      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Competitive programming has become a key test of large language model reasoning, with international competitions such as IOI and ICPC representing its most challenging settings. We present an end-to-end specialization pipeline combining large-scale problem curation, synthetic reasoning traces, super</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Graph Machine: Towards Better Pretraining via Edges</title>
+      <link>http://arxiv.org/abs/2609.02881v1</link>
+      <guid isPermaLink="false">graph-machine-towards-better-pretraining-via-edges</guid>
+      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>We introduce the Graph Machine (GM), an architecture that maintains an $O(n)$-sized state and accesses it through sparse, dynamic routing. Unlike methods with fixed-size states or sparse but static routing, GM preserves $O(n)$ complexity in its sparse layers without restricting the potentially acces</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>AI Contextual Measurement for Recovering Individual and Group-Level Effects: Val</title>
+      <link>http://arxiv.org/abs/2609.02821v1</link>
+      <guid isPermaLink="false">ai-contextual-measurement-for-recovering-individual-and-group-level-effects-vali</guid>
+      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Researchers increasingly use artificial intelligence to construct measures of social, organizational, and occupational characteristics that are absent from conventional surveys. We propose AICOME, AI COntextual MEasurement, a framework for evaluating whether AI-derived respondent-level measures can</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>UE5M3 FP4 Block Scaling for Stable Language Model Pretraining</title>
+      <link>http://arxiv.org/abs/2609.02846v1</link>
+      <guid isPermaLink="false">ue5m3-fp4-block-scaling-for-stable-language-model-pretraining</guid>
+      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Stable 4-bit floating-point (FP4) pretraining is difficult because the E2M1 payload represents only a narrow range of magnitudes. NVIDIA's Transformer Engine \nv{} recipe addresses this with current-tensor scaling, a randomized Hadamard transform (RHT), and bfloat16 (BF16) final layers, adding work</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>GRADSOLVE: fast exact gradients for ODE ensembles on GPUs</title>
+      <link>http://arxiv.org/abs/2609.02876v1</link>
+      <guid isPermaLink="false">gradsolve-fast-exact-gradients-for-ode-ensembles-on-gpus</guid>
+      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Ordinary differential equations (ODEs) underlie models in science and engineering, and many applications need derivatives of their solutions with respect to parameters. Ensembles of independent trajectories suit graphics processing units (GPUs), but current GPU software forces a trade-off: the faste</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?</title>
+      <link>https://news.ycombinator.com/item?id=49551096</link>
+      <guid isPermaLink="false">ask-hn-why-are-openai-claude-and-grok-simultaneously-down-coincidence</guid>
+      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>A dark horse enters China's AI race: StartLux</title>
+      <link>https://news.ycombinator.com/item?id=49548530</link>
+      <guid isPermaLink="false">a-dark-horse-enters-chinas-ai-race-startlux</guid>
+      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>Gemini 3.8 Flash and 3.8 Flash Cyber</title>
       <link>https://news.ycombinator.com/item?id=49537553</link>
@@ -259,158 +411,6 @@ globally," the brief reads.</p></description>
       <guid isPermaLink="false">the-race-to-engineer-new-knobs-for-the-human-brain</guid>
       <pubDate>2026-09-03T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Aura – a Rust agent that investigates and fixes production incidents</title>
-      <link>https://github.com/mezmo/aura</link>
-      <guid isPermaLink="false">show-hn-aura-a-rust-agent-that-investigates-and-fixes-production-incidents</guid>
-      <pubDate>2026-09-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>暂无中文摘要</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Altair Basic Interpreter Source Code (1975) [pdf]</title>
-      <link>https://news.ycombinator.com/item?id=49541754</link>
-      <guid isPermaLink="false">altair-basic-interpreter-source-code-1975-pdf</guid>
-      <pubDate>2026-09-03T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Claude Fable 5.1 and Claude Mythos 5.1</title>
-      <link>https://news.ycombinator.com/item?id=49525378</link>
-      <guid isPermaLink="false">claude-fable-51-and-claude-mythos-51</guid>
-      <pubDate>2026-09-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>How accurate have Ed Zitron's AI skeptic predictions been?</title>
-      <link>https://news.ycombinator.com/item?id=49526069</link>
-      <guid isPermaLink="false">how-accurate-have-ed-zitrons-ai-skeptic-predictions-been</guid>
-      <pubDate>2026-09-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>I trained a small transformer in 1.5hrs and it beats many LLMs</title>
-      <link>https://news.ycombinator.com/item?id=49519939</link>
-      <guid isPermaLink="false">i-trained-a-small-transformer-in-15hrs-and-it-beats-many-llms</guid>
-      <pubDate>2026-09-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>The ChatGPT/Codex app bundles a full copy of LibreOffice</title>
-      <link>https://news.ycombinator.com/item?id=49527396</link>
-      <guid isPermaLink="false">the-chatgptcodex-app-bundles-a-full-copy-of-libreoffice</guid>
-      <pubDate>2026-09-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit</title>
-      <link>https://news.ycombinator.com/item?id=49527573</link>
-      <guid isPermaLink="false">apple-reveals-shocking-evidence-from-ex-employees-macbook-in-openai-suit</guid>
-      <pubDate>2026-09-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>44% on ARC-AGI-1 in 67 cents</title>
-      <link>https://news.ycombinator.com/item?id=49519939</link>
-      <guid isPermaLink="false">44-on-arc-agi-1-in-67-cents</guid>
-      <pubDate>2026-09-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>EFF to Courts: Don't Rewrite Copyright over AI Hype</title>
-      <link>https://news.ycombinator.com/item?id=49521315</link>
-      <guid isPermaLink="false">eff-to-courts-dont-rewrite-copyright-over-ai-hype</guid>
-      <pubDate>2026-09-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>My local model setup on an M4 Pro Mac Mini</title>
-      <link>https://news.ycombinator.com/item?id=49529132</link>
-      <guid isPermaLink="false">my-local-model-setup-on-an-m4-pro-mac-mini</guid>
-      <pubDate>2026-09-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Atlas: A World Model for Spatial Intelligence</title>
-      <link>https://news.ycombinator.com/item?id=49525160</link>
-      <guid isPermaLink="false">atlas-a-world-model-for-spatial-intelligence</guid>
-      <pubDate>2026-09-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos</title>
-      <link>https://news.ycombinator.com/item?id=49528895</link>
-      <guid isPermaLink="false">show-hn-weedout-safari-extension-that-hides-youtube-ai-labeled-videos</guid>
-      <pubDate>2026-09-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Google&amp;#8217;s Android update tackles motion sickness, accessibility, and more</title>
-      <link>https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/</link>
-      <guid isPermaLink="false">google8217s-android-update-tackles-motion-sickness-accessibility-and-more</guid>
-      <pubDate>2026-09-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>ChatGPT Health adds Epic integration for clinicians to import patient data</title>
-      <link>https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/</link>
-      <guid isPermaLink="false">chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data</guid>
-      <pubDate>2026-09-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>OpenAI said that the integration provides read-only access to health records for clinicians.</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>AfterQuery reportedly becomes Y Combinator&amp;#8217;s fastest-ever unicorn, now val</title>
-      <link>https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/</link>
-      <guid isPermaLink="false">afterquery-reportedly-becomes-y-combinator8217s-fastest-ever-unicorn-now-valued</guid>
-      <pubDate>2026-09-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>AIR raises $50M to help companies vet the skills and add-ons AI agents use</title>
-      <link>https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/</link>
-      <guid isPermaLink="false">air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use</guid>
-      <pubDate>2026-09-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Anthropic&amp;#8217;s new Fable release is cheaper, less restrictive</title>
-      <link>https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/</link>
-      <guid isPermaLink="false">anthropic8217s-new-fable-release-is-cheaper-less-restrictive</guid>
-      <pubDate>2026-09-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Fambot introduces an &amp;#8216;AI chief of staff&amp;#8217; for families</title>
-      <link>https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/</link>
-      <guid isPermaLink="false">fambot-introduces-an-8216ai-chief-of-staff8217-for-families</guid>
-      <pubDate>2026-09-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Google&amp;#8217;s answer to Canva is an AI tool where you prompt instead of design</title>
-      <link>https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/</link>
-      <guid isPermaLink="false">google8217s-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design</guid>
-      <pubDate>2026-09-02T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>

@@ -3841,3 +3841,37 @@
 - create: a-dark-horse-enters-chinas-ai-race-startlux.md
 - create: google8217s-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella.md
 - create: nvidia-confirms-it-will-buy-hugging-face-for-129-billion.md
+
+## [2026-09-04 16:04] sync v3 | 32 new | pillars: {'capabilities': 23, 'ecosystem': 3, 'patterns': 4, 'business': 2}
+- create: paperless-ngxpaperless-ngx.md
+- create: compile-by-training-turning-natural-language-specifications-into-local-neural-fu.md
+- create: clean-engineering-unstable-measurement-a-preregistered-reliability-failure-of-bl.md
+- create: espo-error-structured-prompt-optimization-via-diagnose-diversify-and-stabilize.md
+- create: legibility-is-not-interpretability-comparing-judged-and-actual-importance-in-cha.md
+- create: one-editor-many-edits-a-unified-training-free-framework-for-diverse-video-editin.md
+- create: robust-pac-learning-of-concurrent-stochastic-games.md
+- create: seeing-before-synthesizing-vlm-guided-transition-event-discovery-for-weakly-supe.md
+- create: knowledge-acquisition-during-pre-training-large-language-models-learn-better-wit.md
+- create: a-computationally-feasible-framework-for-causal-probabilistic-explanation.md
+- create: rethinking-on-policy-distillation-of-large-language-models-ii-one-training-examp.md
+- create: a-case-study-on-emergent-cheating-and-whistleblowing-in-autonomous-research-swar.md
+- create: para-pipe-exploiting-hierarchical-operator-parallelism-of-ml-computational-graph.md
+- create: gpt-6-astra.md
+- create: qwen-38-27b-available-on-cerebras-at-1500-tokenss.md
+- create: the-largest-electric-aircraft-just-flew-video.md
+- create: porting-my-1993-amiga-game-to-godot-with-an-llm-reading-the-68000-assembly.md
+- create: which-tools-do-claude-codex-and-cursor-choose-we-measured-17k-runs-to-find-out.md
+- create: go-grandmaster-shin-defeats-ai-katago-with-a-two-stone-handicap.md
+- create: k2-horizon-a-connected-fleet-of-six-open-models.md
+- create: xanadu-was-waiting-for-agents.md
+- create: how-to-get-a-free-arpa-domain.md
+- create: openais-gpt-6-astra-on-arc-agi-3.md
+- create: grep-beats-lsp-why-coding-agents-ignore-your-fancier-tools.md
+- create: the-sameness-problem-behind-those-unappetizing-ai-generated-menus.md
+- create: crusoe-reportedly-raises-3b-at-a-30b-valuation.md
+- create: accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuatio.md
+- create: abliterationai-is-making-a-business-out-of-removing-ai-guardrails.md
+- create: meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model.md
+- create: openai-launches-astra-its-powerful-and-controversial-new-model.md
+- create: ollie-is-betting-its-focus-on-privacy-can-help-it-win-the-ai-assistant-race.md
+- create: show-hn-real-time-ai-news-aggregator-with-daily-digest.md

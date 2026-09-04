@@ -2,19 +2,19 @@
   "daily_summary": {
     "date": "2026-09-04",
     "headline": "今日 AI 情报 · 2026-09-04",
-    "overview": "今日共采集 19 条情报",
+    "overview": "AI商业动态：资本与市场持续升温",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "今日🤖 技术能力方向有新的动态。",
+        "insight": "今日🤖 技术能力方向的核心信号集中在安全/漏洞。",
         "evidence": [
           {
-            "id": "chatgpt-is-throwing-404",
-            "title": "ChatGPT Is Throwing 404",
-            "score": 0.46,
-            "url": "https://news.ycombinator.com/item?id=49550614",
-            "reason": "基于新颖度、影响力、相关性综合评分"
+            "id": "gpt-6-astra",
+            "title": "GPT-6 Astra",
+            "score": 0.51,
+            "url": "https://news.ycombinator.com/item?id=49554643",
+            "reason": "高价值信号"
           }
         ],
         "trend": "new"
@@ -37,27 +37,73 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "今日🔧 工具生态方向有新的动态。",
+        "insight": "今日🔧 工具生态方向的核心信号集中在AI Agent。",
         "evidence": [
           {
-            "id": "the-implications-of-linguistic-illegibility-for-llm-security",
-            "title": "The Implications of Linguistic Illegibility for LLM Security",
+            "id": "clean-engineering-unstable-measurement-a-preregistered-reliability-failure-of-bl",
+            "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability F",
             "score": 0.3,
-            "url": "http://arxiv.org/abs/2609.02852v1",
+            "url": "http://arxiv.org/abs/2609.04198v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "evidence": [
+          {
+            "id": "accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuatio",
+            "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
         "trend": "new"
       }
     ],
-    "narratives": [],
-    "stats": "🤖 技术能力: 16 | 📱 产品模式: 1 | 🔧 工具生态: 2",
-    "total_items": 19,
-    "high_value_count": 17,
+    "narratives": [
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日1条情报涉及AI商业动态。包括：Crusoe reportedly raises $3B at a  $30B 。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
+      }
+    ],
+    "stats": "🤖 技术能力: 39 | 📱 产品模式: 5 | 💰 商业趋势: 2 | 🔧 工具生态: 5",
+    "total_items": 51,
+    "high_value_count": 46,
     "all_today_ids": [
+      {
+        "id": "gpt-6-astra",
+        "label": "GPT-6 Astra"
+      },
+      {
+        "id": "qwen-38-27b-available-on-cerebras-at-1500-tokenss",
+        "label": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s"
+      },
       {
         "id": "chatgpt-is-throwing-404",
         "label": "ChatGPT Is Throwing 404"
+      },
+      {
+        "id": "the-largest-electric-aircraft-just-flew-video",
+        "label": "The largest electric aircraft just flew [video]"
+      },
+      {
+        "id": "openais-gpt-6-astra-on-arc-agi-3",
+        "label": "OpenAI's GPT-6 Astra on ARC-AGI-3"
+      },
+      {
+        "id": "go-grandmaster-shin-defeats-ai-katago-with-a-two-stone-handicap",
+        "label": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap"
+      },
+      {
+        "id": "porting-my-1993-amiga-game-to-godot-with-an-llm-reading-the-68000-assembly",
+        "label": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly"
       },
       {
         "id": "heygen-comhyperframes",
@@ -68,20 +114,76 @@
         "label": "The Browser's Main Thread Is Expensive"
       },
       {
+        "id": "paperless-ngxpaperless-ngx",
+        "label": "paperless-ngx/paperless-ngx"
+      },
+      {
+        "id": "k2-horizon-a-connected-fleet-of-six-open-models",
+        "label": "K2 Horizon: A connected fleet of six open models"
+      },
+      {
+        "id": "which-tools-do-claude-codex-and-cursor-choose-we-measured-17k-runs-to-find-out",
+        "label": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out"
+      },
+      {
+        "id": "meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+        "label": "Meta is paying to peek at how you use their latest AI model"
+      },
+      {
         "id": "nvidia-confirms-it-will-buy-hugging-face-for-129-billion",
         "label": "Nvidia confirms it will buy Hugging Face for $12.9 billion"
+      },
+      {
+        "id": "ollie-is-betting-its-focus-on-privacy-can-help-it-win-the-ai-assistant-race",
+        "label": "Ollie is betting its focus on privacy can help it win the AI assistant race"
+      },
+      {
+        "id": "openai-launches-astra-its-powerful-and-controversial-new-model",
+        "label": "OpenAI launches Astra, its powerful (and controversial) new model"
+      },
+      {
+        "id": "xanadu-was-waiting-for-agents",
+        "label": "Xanadu was waiting for agents"
+      },
+      {
+        "id": "accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuatio",
+        "label": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuat"
+      },
+      {
+        "id": "the-sameness-problem-behind-those-unappetizing-ai-generated-menus",
+        "label": "The sameness problem behind those unappetizing AI-generated menus"
       },
       {
         "id": "google8217s-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella",
         "label": "Google&#8217;s latest AI weather model gives you no excuse to forget your umbrel"
       },
       {
+        "id": "abliterationai-is-making-a-business-out-of-removing-ai-guardrails",
+        "label": "Abliteration.ai is making a business out of removing AI guardrails"
+      },
+      {
+        "id": "crusoe-reportedly-raises-3b-at-a-30b-valuation",
+        "label": "Crusoe reportedly raises $3B at a  $30B valuation"
+      },
+      {
+        "id": "rethinking-on-policy-distillation-of-large-language-models-ii-one-training-examp",
+        "label": "Rethinking On-Policy Distillation of Large Language Models II: One Training Exam"
+      },
+      {
         "id": "cliff-learning-process-rewards-from-the-first-mistake",
         "label": "Cliff: Learning Process Rewards from the First Mistake"
       },
       {
+        "id": "clean-engineering-unstable-measurement-a-preregistered-reliability-failure-of-bl",
+        "label": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of"
+      },
+      {
         "id": "improved-gradient-descent-lower-bounds-beyond-nesterov",
         "label": "Improved Gradient Descent Lower Bounds Beyond Nesterov"
+      },
+      {
+        "id": "robust-pac-learning-of-concurrent-stochastic-games",
+        "label": "Robust PAC Learning of Concurrent Stochastic Games"
       },
       {
         "id": "learning-spectral-like-mesh-free-discretisations",
@@ -90,6 +192,10 @@
       {
         "id": "the-implications-of-linguistic-illegibility-for-llm-security",
         "label": "The Implications of Linguistic Illegibility for LLM Security"
+      },
+      {
+        "id": "espo-error-structured-prompt-optimization-via-diagnose-diversify-and-stabilize",
+        "label": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabiliz"
       },
       {
         "id": "a-common-measure-of-communication-for-speech-brain-computer-interfaces",
@@ -104,24 +210,64 @@
         "label": "Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framewor"
       },
       {
+        "id": "legibility-is-not-interpretability-comparing-judged-and-actual-importance-in-cha",
+        "label": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Ch"
+      },
+      {
+        "id": "one-editor-many-edits-a-unified-training-free-framework-for-diverse-video-editin",
+        "label": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Edit"
+      },
+      {
         "id": "post-training-language-models-for-gold-medal-performance-in-coding-competitions",
         "label": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions"
+      },
+      {
+        "id": "seeing-before-synthesizing-vlm-guided-transition-event-discovery-for-weakly-supe",
+        "label": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Sup"
       },
       {
         "id": "graph-machine-towards-better-pretraining-via-edges",
         "label": "Graph Machine: Towards Better Pretraining via Edges"
       },
       {
+        "id": "para-pipe-exploiting-hierarchical-operator-parallelism-of-ml-computational-graph",
+        "label": "Para-Pipe: Exploiting Hierarchical Operator Parallelism of ML Computational Grap"
+      },
+      {
+        "id": "compile-by-training-turning-natural-language-specifications-into-local-neural-fu",
+        "label": "Compile by Training: Turning Natural-Language Specifications into Local Neural F"
+      },
+      {
+        "id": "a-computationally-feasible-framework-for-causal-probabilistic-explanation",
+        "label": "A Computationally Feasible Framework for Causal Probabilistic Explanation"
+      },
+      {
         "id": "ai-contextual-measurement-for-recovering-individual-and-group-level-effects-vali",
         "label": "AI Contextual Measurement for Recovering Individual and Group-Level Effects: Val"
+      },
+      {
+        "id": "knowledge-acquisition-during-pre-training-large-language-models-learn-better-wit",
+        "label": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better Wi"
       },
       {
         "id": "ue5m3-fp4-block-scaling-for-stable-language-model-pretraining",
         "label": "UE5M3 FP4 Block Scaling for Stable Language Model Pretraining"
       },
       {
+        "id": "a-case-study-on-emergent-cheating-and-whistleblowing-in-autonomous-research-swar",
+        "label": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swar"
+      },
+      {
         "id": "gradsolve-fast-exact-gradients-for-ode-ensembles-on-gpus",
         "label": "GRADSOLVE: fast exact gradients for ODE ensembles on GPUs"
+      },
+      {
+        "id": "grep-beats-lsp-why-coding-agents-ignore-your-fancier-tools",
+        "label": "Grep beats LSP? Why coding agents ignore your fancier tools"
+      },
+      {
+        "id": "how-to-get-a-free-arpa-domain",
+        "label": "How to get a free .arpa domain"
       },
       {
         "id": "ask-hn-why-are-openai-claude-and-grok-simultaneously-down-coincidence",
@@ -130,9 +276,13 @@
       {
         "id": "a-dark-horse-enters-chinas-ai-race-startlux",
         "label": "A dark horse enters China's AI race: StartLux"
+      },
+      {
+        "id": "show-hn-real-time-ai-news-aggregator-with-daily-digest",
+        "label": "Show HN: Real-time AI news aggregator with daily digest"
       }
     ],
     "date_bj": "2026-09-04 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-04 00:03:29"
+    "generated_at_bj": "2026-09-04 16:04:21"
   }
 }
