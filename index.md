@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-06 | Total pages: 3786
+> Last updated: 2026-09-06 | Total pages: 3792
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -680,6 +680,7 @@
 - [[launch-hn-unlayer-yc-w22-add-email-and-document-builders-to-your-app.md]] Launch HN: Unlayer (YC W22) – Add email and document builders to your app `pillar:capabilities` `score:0.38`
 - [[lawmakers-added-1-to-car-insurance-policies-that-money-paid-for-flock-cameras.md]] Lawmakers added $1 to car insurance policies. That money paid for Flock cameras `pillar:capabilities` `score:0.355`
 - [[lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak.md]] Lawmakers Demand Answers as CISA Tries to Contain Data Leak `pillar:capabilities` `score:0.31`
+- [[learn-programming-with-ocaml.md]] Learn Programming with OCaml `pillar:capabilities` `score:0.355`
 - [[learnvector-andrew-ngs-ai-company-building-onetoone-learning-experiences.md]] LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences `pillar:capabilities` `score:0.43`
 - [[leiden-declaration-on-artificial-intelligence-and-mathematics.md]] Leiden Declaration on Artificial Intelligence and Mathematics `pillar:capabilities` `score:0.36`
 - [[lemario-training-a-jepa-world-model-on-super-mario-bros.md]] LeMario: Training a JEPA World Model on Super Mario Bros `pillar:capabilities` `score:0.345`
@@ -699,6 +700,7 @@
 - [[llms-are-complicated-now.md]] LLMs Are Complicated Now `pillar:capabilities` `score:0.48`
 - [[llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do.md]] LLMs are eroding my software engineering career and I don't know what to do `pillar:capabilities` `score:0.665`
 - [[llms-are-making-me-lose-my-savviness.md]] LLMs are making me lose my savviness `pillar:capabilities` `score:0.205`
+- [[llms-as-a-cognitive-virus.md]] LLMs as a Cognitive Virus `pillar:capabilities` `score:0.255`
 - [[llms-could-control-their-host-machines-by-exploiting-inference-engines.md]] LLMs could control their host machines by exploiting inference engines `pillar:capabilities` `score:0.355`
 - [[llms-intelligence-vs-cost.md]] LLMs: Intelligence vs. Cost `pillar:capabilities` `score:0.255`
 - [[llms-reward-expertise.md]] LLMs reward expertise `pillar:capabilities` `score:0.305`
@@ -2319,6 +2321,7 @@
 - [[figma-adds-an-ai-assistant-to-its-collaborative-canvas.md]] Figma adds an AI assistant to its collaborative canvas `pillar:patterns` `score:0.48`
 - [[fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-inter.md]] Fika Jobs raises $4M to build a video-first hiring platform where AI agents inte `pillar:patterns` `score:0.445`
 - [[fincept-corporationfinceptterminal.md]] Fincept-Corporation/FinceptTerminal `pillar:patterns` `score:0.58`
+- [[finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation-2014.md]] Finite time blowup for an averaged three-dimensional Navier-Stokes equation (201 `pillar:patterns` `score:0.155`
 - [[firecrawlfirecrawl.md]] firecrawl/firecrawl `pillar:patterns` `score:0.405`
 - [[fission-aiopenspec.md]] Fission-AI/OpenSpec `pillar:patterns` `score:0.405`
 - [[flowiseaiflowise.md]] FlowiseAI/Flowise `pillar:patterns` `score:0.615`
@@ -2358,6 +2361,7 @@
 - [[heygen-comhyperframes.md]] heygen-com/hyperframes `pillar:patterns` `score:0.405`
 - [[hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments.md]] HiddenLayer nabs $100M as enterprises rush to secure their AI deployments `pillar:patterns` `score:0.305`
 - [[high-bandwidth-flash-offers-efficient-storage-for-model-weights.md]] High-Bandwidth Flash offers efficient storage for model weights `pillar:patterns` `score:0.365`
+- [[hikers-rescued-after-using-google-gemini-for-planning.md]] Hikers rescued after using Google Gemini for planning `pillar:patterns` `score:0.305`
 - [[hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-ho.md]] Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for `pillar:patterns` `score:0.445`
 - [[hkudslightrag.md]] HKUDS/LightRAG `pillar:patterns` `score:0.615`
 - [[hkudsnanobot.md]] HKUDS/nanobot `pillar:patterns` `score:0.405`
@@ -2464,6 +2468,7 @@
 - [[onyx-dot-apponyx.md]] onyx-dot-app/onyx `pillar:patterns` `score:0.58`
 - [[open-source-kanban-desktop-app-that-runs-parallel-agents-on-every-card.md]] Open source Kanban desktop app that runs parallel agents on every card `pillar:patterns` `score:0.565`
 - [[open-source-memory-for-coding-agents-synced-over-ssh.md]] Open-source memory for coding agents, synced over SSH `pillar:patterns` `score:0.38`
+- [[openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosur.md]] OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more dis `pillar:patterns` `score:0.305`
 - [[openai-is-building-ai-agents-for-everything-will-everyone-use-them.md]] OpenAI is building AI agents for everything. Will everyone use them? `pillar:patterns` `score:0.305`
 - [[openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing.md]] OpenAI is shutting down Atlas, but its AI browser ambitions are still growing `pillar:patterns` `score:0.48`
 - [[openai-launches-new-codex-tools-for-white-collar-work.md]] OpenAI launches new Codex tools for white-collar work `pillar:patterns` `score:0.515`
@@ -2683,6 +2688,7 @@
 - [[vertu-wants-executives-to-pay-6880-for-an-ai-agent-here8217s-how-it-actually-per.md]] Vertu wants executives to pay $6,880 for an AI agent — here&#8217;s how it actua `pillar:patterns` `score:0.41`
 - [[vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet.md]] Vint Cerf is working on a plan to unleash AI agents on the open internet `pillar:patterns` `score:0.445`
 - [[visa-invests-in-replit-to-power-agentic-payments-for-developers.md]] Visa invests in Replit to power agentic payments for developers `pillar:patterns` `score:0.48`
+- [[visualizing-rusts-vtables-how-dyn-trait-works-in-memory.md]] Visualizing Rust's Vtables: How dyn Trait Works In Memory `pillar:patterns` `score:0.205`
 - [[vms-wont-contain-cyber-capable-agents.md]] VMs won't contain cyber-capable agents `pillar:patterns` `score:0.375`
 - [[voice-ai-in-india-is-hard-wispr-flow-is-betting-o.md]] Voice AI in India is hard. Wispr Flow is betting on it anyway. `pillar:patterns` `score:0.48`
 - [[voideditorvoid.md]] voideditor/void `pillar:patterns` `score:0.51`

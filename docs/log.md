@@ -3910,3 +3910,11 @@
 
 ## [2026-09-06 00:02] sync v3 | 1 new | pillars: {'capabilities': 1}
 - create: claudes-new-system-prompt-doesnt-want-to-reproduce-song-lyrics.md
+
+## [2026-09-06 06:01] sync v3 | 6 new | pillars: {'capabilities': 2, 'patterns': 4}
+- create: llms-as-a-cognitive-virus.md
+- create: finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation-2014.md
+- create: learn-programming-with-ocaml.md
+- create: visualizing-rusts-vtables-how-dyn-trait-works-in-memory.md
+- create: hikers-rescued-after-using-google-gemini-for-planning.md
+- create: openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosur.md

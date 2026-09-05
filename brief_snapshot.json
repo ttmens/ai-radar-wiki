@@ -1,10 +1,44 @@
 {
   "date": "2026-09-06",
-  "generated_at": "2026-09-06T00:02:05.284623+08:00",
-  "item_count": 0,
-  "items": [],
+  "generated_at": "2026-09-06T06:01:54.082280+08:00",
+  "item_count": 3,
+  "items": [
+    {
+      "id": "learn-programming-with-ocaml",
+      "label": "Learn Programming with OCaml",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49578280",
+      "date": "2026-09-06"
+    },
+    {
+      "id": "openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosur",
+      "label": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more dis",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "date": "2026-09-06"
+    },
+    {
+      "id": "hikers-rescued-after-using-google-gemini-for-planning",
+      "label": "Hikers rescued after using Google Gemini for planning",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "date": "2026-09-06"
+    }
+  ],
   "graph_totals": {
-    "real_nodes": 8204,
-    "edges": 8724
+    "real_nodes": 8210,
+    "edges": 8730
   }
 }
