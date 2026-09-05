@@ -3886,3 +3886,19 @@
 - create: carbon-aware-electricity-pricing-measured-daily-on-38-grids.md
 - create: google8217s-gemini-spark-can-now-manage-your-google-photos-library.md
 - create: less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event.md
+
+## [2026-09-05 16:03] sync v3 | 14 new | pillars: {'capabilities': 7, 'patterns': 4, 'ecosystem': 1, 'business': 2}
+- create: gpt-6-astra-on-openrouter.md
+- create: can-ai-design-circuit-boards-yet.md
+- create: portal-by-spotify-cut-my-claude-code-token-usage-by-90.md
+- create: government-rails-site-hit-hours-after-cve-patch.md
+- create: show-hn-termy-a-fast-terminal-assistant-that-does-not-use-llms.md
+- create: next-token-predictor-is-the-wrong-mental-model-for-llms.md
+- create: project-hydrafusion-frontier-quality-via-multi-model-orchestration.md
+- create: xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-12b-valuat.md
+- create: openai8217s-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-the.md
+- create: ai-compute-provider-nscale-is-looking-for-35b-in-pre-ipo-financing.md
+- create: what-will-apple8217s-john-ternus-era-look-like.md
+- create: another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-la.md
+- create: apple8217s-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack.md
+- create: show-hn-moadimio-a-scheduler-for-agents.md

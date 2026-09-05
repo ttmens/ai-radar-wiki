@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
-  "generated_at": "2026-09-05T00:02:03.210097+08:00",
-  "item_count": 7,
+  "generated_at": "2026-09-05T16:03:03.739500+08:00",
+  "item_count": 18,
   "items": [
     {
       "id": "discovery-of-a-new-openai-agent-message-board",
@@ -12,6 +12,39 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49563355",
+      "date": "2026-09-05"
+    },
+    {
+      "id": "gpt-6-astra-on-openrouter",
+      "label": "GPT-6 Astra on OpenRouter",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49570545",
+      "date": "2026-09-05"
+    },
+    {
+      "id": "can-ai-design-circuit-boards-yet",
+      "label": "Can AI design circuit boards yet?",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49569366",
+      "date": "2026-09-05"
+    },
+    {
+      "id": "next-token-predictor-is-the-wrong-mental-model-for-llms",
+      "label": "“Next-token predictor” is the wrong mental model for LLMs",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49567310",
       "date": "2026-09-05"
     },
     {
@@ -26,6 +59,17 @@
       "date": "2026-09-05"
     },
     {
+      "id": "portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "label": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49571465",
+      "date": "2026-09-05"
+    },
+    {
       "id": "google-ai-mode-shows-same-products-216-more-expensive-than-traditional-search",
       "label": "Google AI Mode shows same products 21.6% more expensive than traditional search",
       "summary": "暂无中文摘要",
@@ -37,6 +81,50 @@
       "date": "2026-09-05"
     },
     {
+      "id": "ai-compute-provider-nscale-is-looking-for-35b-in-pre-ipo-financing",
+      "label": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "date": "2026-09-05"
+    },
+    {
+      "id": "openai8217s-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-the",
+      "label": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate",
+      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "date": "2026-09-05"
+    },
+    {
+      "id": "apple8217s-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack",
+      "label": "Apple&#8217;s Ternus era begins as Nvidia bets on the whole AI stack",
+      "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+      "date": "2026-09-05"
+    },
+    {
+      "id": "another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-la",
+      "label": "Another swarm of OpenAI agents reached the open internet without the frontier la",
+      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "date": "2026-09-05"
+    },
+    {
       "id": "less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event",
       "label": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
       "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
@@ -45,6 +133,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+      "date": "2026-09-05"
+    },
+    {
+      "id": "what-will-apple8217s-john-ternus-era-look-like",
+      "label": "What will Apple&#8217;s John Ternus era look like?",
+      "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "date": "2026-09-05"
+    },
+    {
+      "id": "show-hn-termy-a-fast-terminal-assistant-that-does-not-use-llms",
+      "label": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49562219",
       "date": "2026-09-05"
     },
     {
@@ -79,10 +189,21 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49565693",
       "date": "2026-09-05"
+    },
+    {
+      "id": "xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-12b-valuat",
+      "label": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B va",
+      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "date": "2026-09-05"
     }
   ],
   "graph_totals": {
-    "real_nodes": 8186,
-    "edges": 8704
+    "real_nodes": 8200,
+    "edges": 8720
   }
 }
