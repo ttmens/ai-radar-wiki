@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-05 | Total pages: 3785
+> Last updated: 2026-09-06 | Total pages: 3786
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -281,6 +281,7 @@
 - [[claude-sonnet-5-benchmark-results.md]] Claude Sonnet 5 – benchmark results `pillar:capabilities` `score:0.365`
 - [[claude-sonnet-5.md]] Claude Sonnet 5 `pillar:capabilities` `score:0.715`
 - [[claude-tag.md]] Claude Tag `pillar:capabilities` `score:0.565`
+- [[claudes-new-system-prompt-doesnt-want-to-reproduce-song-lyrics.md]] Claude's new system prompt doesn't want to reproduce song lyrics `pillar:capabilities` `score:0.205`
 - [[clever-hacker-fits-537000-domains-in-a-5-esp32-ad-blocking-dongle.md]] Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle `pillar:capabilities` `score:0.395`
 - [[clinical-failure-rates-over-the-decades-yikes.md]] Clinical failure rates over the decades: yikes `pillar:capabilities` `score:0.395`
 - [[clipto-uses-ai-to-search-terabytes-of-video-and-is-now-valued-at-250m.md]] Clipto uses AI to search terabytes of video and is now valued at $250M `pillar:capabilities` `score:0.305`

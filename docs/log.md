@@ -3907,3 +3907,6 @@
 - create: ai-handles-incidents-engineers-lose-touch-with-their-systems.md
 - create: gpt-6-astra-in-code-review-gains-privacy-and-cost.md
 - create: corporate-america-is-getting-hooked-on-open-source-ai.md
+
+## [2026-09-06 00:02] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: claudes-new-system-prompt-doesnt-want-to-reproduce-song-lyrics.md
