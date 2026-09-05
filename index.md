@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-05 | Total pages: 3782
+> Last updated: 2026-09-05 | Total pages: 3785
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -82,6 +82,7 @@
 - [[ai-financial-advice-is-surprisingly-good-especially-if-you-ask-right-questions.md]] AI financial advice is surprisingly good, especially if you ask right questions `pillar:capabilities` `score:0.425`
 - [[ai-generated-videos-to-maximally-drive-a-target-brain-region.md]] AI-generated videos to maximally drive a target brain region `pillar:capabilities` `score:0.41`
 - [[ai-grifters-are-creating-fake-black-people-to-sell-shein-junk.md]] AI grifters are creating fake Black people to sell Shein junk `pillar:capabilities` `score:0.295`
+- [[ai-handles-incidents-engineers-lose-touch-with-their-systems.md]] AI handles incidents, engineers lose touch with their systems `pillar:capabilities` `score:0.305`
 - [[ai-has-a-multiplying-effect-on-existing-technical-skills.md]] AI has a multiplying effect on existing technical skills `pillar:capabilities` `score:0.55`
 - [[ai-humanity-and-dr-manhattan-syndrome-a-communications-intervention.md]] AI, "Humanity", and Dr. Manhattan Syndrome: A Communications Intervention `pillar:capabilities` `score:0.33`
 - [[ai-in-mathematics-is-forcing-big-questions.md]] AI in mathematics is forcing big questions `pillar:capabilities` `score:0.395`
@@ -300,6 +301,7 @@
 - [[continuous-diffusion-language-models-cdlms.md]] Continuous Diffusion Language Models (CDLM's) `pillar:capabilities` `score:0.305`
 - [[controlling-reasoning-effort-in-llms.md]] Controlling Reasoning Effort in LLMs `pillar:capabilities` `score:0.38`
 - [[copyfail-from-pod-to-host.md]] CopyFail: From Pod to Host `pillar:capabilities` `score:0.295`
+- [[corporate-america-is-getting-hooked-on-open-source-ai.md]] Corporate America is getting hooked on open-source AI `pillar:capabilities` `score:0.455`
 - [[crankgpt.md]] CrankGPT `pillar:capabilities` `score:0.565`
 - [[creatine-raises-brain-energy-levels-and-slows-cognitive-decline-study.md]] Creatine raises brain energy levels and slows cognitive decline: study `pillar:capabilities` `score:0.455`
 - [[crush-this-lady-how-ebay-harassment-campaign-led-to-56m-payout.md]] 'Crush this lady': how eBay harassment campaign led to $56M payout `pillar:capabilities` `score:0.255`
@@ -508,6 +510,7 @@
 - [[gpt-56-used-a-prompt-to-close-a-30-year-gap-in-convex-optimization.md]] GPT-5.6 used a prompt to close a 30-year gap in convex optimization `pillar:capabilities` `score:0.635`
 - [[gpt-56-vs-claude-fable-5-for-physical-ai-which-performs-best.md]] GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best? `pillar:capabilities` `score:0.415`
 - [[gpt-56.md]] GPT-5.6 `pillar:capabilities` `score:0.68`
+- [[gpt-6-astra-in-code-review-gains-privacy-and-cost.md]] GPT-6 Astra in code review: Gains, privacy, and cost `pillar:capabilities` `score:0.205`
 - [[gpt-6-astra-on-openrouter.md]] GPT-6 Astra on OpenRouter `pillar:capabilities` `score:0.425`
 - [[gpt-6-astra.md]] GPT-6 Astra `pillar:capabilities` `score:0.505`
 - [[gptlive.md]] GPT‑Live `pillar:capabilities` `score:0.645`

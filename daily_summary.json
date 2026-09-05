@@ -10,10 +10,10 @@
         "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "gpt-6-astra-on-openrouter",
-            "title": "GPT-6 Astra on OpenRouter",
-            "score": 0.42,
-            "url": "https://news.ycombinator.com/item?id=49570545",
+            "id": "corporate-america-is-getting-hooked-on-open-source-ai",
+            "title": "Corporate America is getting hooked on open-source AI",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=49566137",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -100,13 +100,17 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "📱 产品模式: 5 | 🤖 技术能力: 11 | 💰 商业趋势: 3 | 🔧 工具生态: 2",
-    "total_items": 21,
-    "high_value_count": 18,
+    "stats": "📱 产品模式: 5 | 🤖 技术能力: 14 | 💰 商业趋势: 3 | 🔧 工具生态: 2",
+    "total_items": 24,
+    "high_value_count": 20,
     "all_today_ids": [
       {
         "id": "discovery-of-a-new-openai-agent-message-board",
         "label": "Discovery of a new OpenAI agent message board"
+      },
+      {
+        "id": "corporate-america-is-getting-hooked-on-open-source-ai",
+        "label": "Corporate America is getting hooked on open-source AI"
       },
       {
         "id": "gpt-6-astra-on-openrouter",
@@ -143,6 +147,10 @@
       {
         "id": "apple8217s-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack",
         "label": "Apple&#8217;s Ternus era begins as Nvidia bets on the whole AI stack"
+      },
+      {
+        "id": "ai-handles-incidents-engineers-lose-touch-with-their-systems",
+        "label": "AI handles incidents, engineers lose touch with their systems"
       },
       {
         "id": "another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-la",
@@ -185,11 +193,15 @@
         "label": "Project HydraFusion: Frontier quality via multi-model orchestration"
       },
       {
+        "id": "gpt-6-astra-in-code-review-gains-privacy-and-cost",
+        "label": "GPT-6 Astra in code review: Gains, privacy, and cost"
+      },
+      {
         "id": "show-hn-moadimio-a-scheduler-for-agents",
         "label": "Show HN: Moadim.io – A scheduler for agents"
       }
     ],
     "date_bj": "2026-09-05 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-05 16:02:31"
+    "generated_at_bj": "2026-09-05 18:01:30"
   }
 }

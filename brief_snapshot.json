@@ -1,7 +1,7 @@
 {
   "date": "2026-09-05",
-  "generated_at": "2026-09-05T16:03:03.739500+08:00",
-  "item_count": 18,
+  "generated_at": "2026-09-05T18:02:02.026774+08:00",
+  "item_count": 20,
   "items": [
     {
       "id": "discovery-of-a-new-openai-agent-message-board",
@@ -12,6 +12,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49563355",
+      "date": "2026-09-05"
+    },
+    {
+      "id": "corporate-america-is-getting-hooked-on-open-source-ai",
+      "label": "Corporate America is getting hooked on open-source AI",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49566137",
       "date": "2026-09-05"
     },
     {
@@ -114,6 +125,17 @@
       "date": "2026-09-05"
     },
     {
+      "id": "ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "label": "AI handles incidents, engineers lose touch with their systems",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49574167",
+      "date": "2026-09-05"
+    },
+    {
       "id": "another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-la",
       "label": "Another swarm of OpenAI agents reached the open internet without the frontier la",
       "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
@@ -203,7 +225,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 8200,
-    "edges": 8720
+    "real_nodes": 8203,
+    "edges": 8723
   }
 }
