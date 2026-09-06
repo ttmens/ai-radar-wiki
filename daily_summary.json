@@ -2,7 +2,7 @@
   "daily_summary": {
     "date": "2026-09-06",
     "headline": "今日 AI 情报 · 2026-09-06",
-    "overview": "今日共采集 12 条情报",
+    "overview": "今日共采集 15 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -10,10 +10,10 @@
         "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "learn-programming-with-ocaml",
-            "title": "Learn Programming with OCaml",
-            "score": 0.35,
-            "url": "https://news.ycombinator.com/item?id=49578280",
+            "id": "ty4z2008qix",
+            "title": "ty4z2008/Qix",
+            "score": 0.41,
+            "url": "https://github.com/ty4z2008/Qix",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -24,6 +24,13 @@
         "pillar_key": "patterns",
         "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
         "evidence": [
+          {
+            "id": "show-hn-agent-to-agent-payment-your-agents-can-pay-each-other",
+            "title": "Show HN: Agent-to-agent payment. Your agents can pay each other",
+            "score": 0.15,
+            "url": "https://openspender.com/agent-to-agent",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
           {
             "id": "okf-agent-memory-git-native-persistent-memory-for-ai-coding-agents",
             "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
@@ -36,10 +43,14 @@
       }
     ],
     "narratives": [],
-    "stats": "🤖 技术能力: 7 | 📱 产品模式: 5",
-    "total_items": 12,
-    "high_value_count": 4,
+    "stats": "🤖 技术能力: 9 | 📱 产品模式: 6",
+    "total_items": 15,
+    "high_value_count": 5,
     "all_today_ids": [
+      {
+        "id": "ty4z2008qix",
+        "label": "ty4z2008/Qix"
+      },
       {
         "id": "learn-programming-with-ocaml",
         "label": "Learn Programming with OCaml"
@@ -69,6 +80,10 @@
         "label": "GPT-6 Astra on robot arms"
       },
       {
+        "id": "ai-tools-and-transformation",
+        "label": "AI, Tools and Transformation"
+      },
+      {
         "id": "claudes-new-system-prompt-doesnt-want-to-reproduce-song-lyrics",
         "label": "Claude's new system prompt doesn't want to reproduce song lyrics"
       },
@@ -85,11 +100,15 @@
         "label": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (201"
       },
       {
+        "id": "show-hn-agent-to-agent-payment-your-agents-can-pay-each-other",
+        "label": "Show HN: Agent-to-agent payment. Your agents can pay each other"
+      },
+      {
         "id": "okf-agent-memory-git-native-persistent-memory-for-ai-coding-agents",
         "label": "OKF Agent Memory – Git-native persistent memory for AI coding agents"
       }
     ],
     "date_bj": "2026-09-06 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-06 12:01:29"
+    "generated_at_bj": "2026-09-06 18:01:30"
   }
 }

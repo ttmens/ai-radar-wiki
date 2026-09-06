@@ -3925,3 +3925,8 @@
 - create: okf-agent-memory-git-native-persistent-memory-for-ai-coding-agents.md
 - create: seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsof.md
 - create: show-hn-hypercard-to-html-converter.md
+
+## [2026-09-06 18:02] sync v3 | 3 new | pillars: {'capabilities': 2, 'patterns': 1}
+- create: ty4z2008qix.md
+- create: ai-tools-and-transformation.md
+- create: show-hn-agent-to-agent-payment-your-agents-can-pay-each-other.md

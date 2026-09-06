@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-06 | Total pages: 3797
+> Last updated: 2026-09-06 | Total pages: 3800
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -101,6 +101,7 @@
 - [[ai-oss-tool-repo-goes-archived-over-night-after-raising-73m-seed.md]] AI OSS tool repo goes archived over night after raising $7.3M Seed `pillar:capabilities` `score:0.53`
 - [[ai-outperforms-law-professors-in-stanford-law-study.md]] AI outperforms law professors in Stanford Law study `pillar:capabilities` `score:0.55`
 - [[ai-search-startups-are-blowing-up.md]] AI search startups are blowing up `pillar:capabilities` `score:0.515`
+- [[ai-tools-and-transformation.md]] AI, Tools and Transformation `pillar:capabilities` `score:0.255`
 - [[ai-tools-are-only-as-good-as-your-judgment.md]] AI tools are only as good as your judgment `pillar:capabilities` `score:0.43`
 - [[ai-will-be-used-to-estimate-age-of-asylum-seekers-from-next-year.md]] AI will be used to estimate age of asylum seekers from next year `pillar:capabilities` `score:0.345`
 - [[airllm-70b-inference-with-single-4gb-gpu.md]] AirLLM 70B inference with single 4GB GPU `pillar:capabilities` `score:0.53`
@@ -1341,6 +1342,7 @@
 - [[twenty-five-years-ago-it-was-cryptography-today-its-model-weights.md]] Twenty-five years ago it was cryptography, today it's model weights `pillar:capabilities` `score:0.155`
 - [[two-ea-18-fighter-jets-collide-at-mountain-home-airshow-pilots-ejected-safely.md]] Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely `pillar:capabilities` `score:0.305`
 - [[two-german-airport-workers-die-of-malaria-after-mosquito-arrives-on-plane.md]] Two German airport workers die of malaria after 'mosquito arrives on plane' `pillar:capabilities` `score:0.355`
+- [[ty4z2008qix.md]] ty4z2008/Qix `pillar:capabilities` `score:0.405`
 - [[u-of-t-researchers-demonstrate-ai-worm-could-target-any-online-device.md]] U of T researchers demonstrate AI worm could target any online device `pillar:capabilities` `score:0.295`
 - [[ubisoft-co-founder-claude-guillemot-has-died-in-a-plane-crash.md]] Ubisoft co-founder Claude Guillemot has died in a plane crash `pillar:capabilities` `score:0.085`
 - [[uhf-x11-x11-built-for-visionos-and-apple-vision-pro.md]] UHF X11: X11 Built for VisionOS and Apple Vision Pro `pillar:capabilities` `score:0.36`
@@ -2530,6 +2532,7 @@
 - [[show-hn-agent-draw-an-agent-draws-while-you-talk-built-on-tldraw.md]] Show HN: Agent Draw: An agent draws while you talk, built on TLDraw `pillar:patterns` `score:0.365`
 - [[show-hn-agent-in-9-lines-python.md]] Show HN: Agent in 9 Lines Python `pillar:patterns` `score:0.295`
 - [[show-hn-agent-skills-eval-test-whether-agent-sk.md]] Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs `pillar:patterns` `score:0.155`
+- [[show-hn-agent-to-agent-payment-your-agents-can-pay-each-other.md]] Show HN: Agent-to-agent payment. Your agents can pay each other `pillar:patterns` `score:0.155`
 - [[show-hn-agentemail-sign-up-via-curl-claim-with-a-human-otp.md]] Show HN: Agent.email – sign up via curl, claim with a human OTP `pillar:patterns` `score:0.38`
 - [[show-hn-agentic-interface-for-mainframes-and-cobo.md]] Show HN: Agentic interface for mainframes and COBOL `pillar:patterns` `score:0.155`
 - [[show-hn-agentic-orchestrator-a-tui-for-long-running-coding-agents.md]] Show HN: Agentic Orchestrator, a TUI for long-running coding agents `pillar:patterns` `score:0.33`
