@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-06 | Total pages: 3800
+> Last updated: 2026-09-07 | Total pages: 3803
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -365,6 +365,7 @@
 - [[dont-ask-an-llm-for-a-confidence-score.md]] Don't ask an LLM for a confidence score `pillar:capabilities` `score:0.365`
 - [[dont-discontinue-gemini-25-flash.md]] Don't discontinue Gemini 2.5 Flash `pillar:capabilities` `score:0.43`
 - [[dont-know-where-your-data-is-from-bayesian-modeling-for-unknown-coordinates.md]] Don't know where your data is from? Bayesian modeling for unknown coordinates `pillar:capabilities` `score:0.26`
+- [[dont-use-a-gmailcom-address.md]] Don't Use a gmail.com Address `pillar:capabilities` `score:0.205`
 - [[dont-verify-email-addresses-by-sending-spam-to-them.md]] Don't verify email addresses by sending spam to them `pillar:capabilities` `score:0.38`
 - [[dont-you-just-upload-it-to-chatgpt.md]] "Don't You Just Upload It to ChatGPT?" `pillar:capabilities` `score:0.53`
 - [[drawing-the-mona-lisa-with-gpt-56-claude-gemini-and-grok.md]] "Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok `pillar:capabilities` `score:0.495`
@@ -586,6 +587,7 @@
 - [[i-design-with-claude-more-than-figma-now.md]] I design with Claude more than Figma now `pillar:capabilities` `score:0.585`
 - [[i-dont-recommend-tailwind-css.md]] I don't recommend Tailwind CSS `pillar:capabilities` `score:0.305`
 - [[i-dont-think-ai-will-make-your-processes-go-faster.md]] I don't think AI will make your processes go faster `pillar:capabilities` `score:0.6`
+- [[i-feel-about-ai.md]] I Feel about AI `pillar:capabilities` `score:0.305`
 - [[i-indexed-669-gb-of-my-gopro-videos-using-my-m1-max-computer-and-local-ml-models.md]] I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models `pillar:capabilities` `score:0.495`
 - [[i-learned-to-read-again.md]] I Learned to Read Again `pillar:capabilities` `score:0.345`
 - [[i-love-llms-i-hate-hype.md]] I love LLMs, I hate hype `pillar:capabilities` `score:0.635`
@@ -1284,6 +1286,7 @@
 - [[the-only-ai-glossary-you8217ll-need-this-year.md]] The only AI glossary you&#8217;ll need this year `pillar:capabilities` `score:0.445`
 - [[the-origins-of-the-school-system-aimed-to-produce-independent-critical-thinkers.md]] The origins of the school system aimed to produce independent, critical thinkers `pillar:capabilities` `score:0.255`
 - [[the-path-founded-by-tony-robbins-and-calm-alums-hopes-to-offer-safer-ai-therapy.md]] The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therap `pillar:capabilities` `score:0.48`
+- [[the-pencil-case-model-of-creativity.md]] The pencil case model of creativity `pillar:capabilities` `score:0.155`
 - [[the-pentagon-now-has-its-own-version-of-chatgpt-and-grok.md]] The Pentagon now has its own version of ChatGPT and Grok `pillar:capabilities` `score:0.305`
 - [[the-people-who-actually-want-ai-to-replace-humanity.md]] The people who actually want AI to replace humanity `pillar:capabilities` `score:0.41`
 - [[the-physicists-who-convinced-fermilab-to-send-brazils-emails.md]] The physicists who convinced Fermilab to send Brazil's emails `pillar:capabilities` `score:0.155`

@@ -5,13 +5,21 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 06 Sep 2026 08:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 16:00:16 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>ty4z2008/Qix</title>
+      <link>https://github.com/ty4z2008/Qix</link>
+      <guid isPermaLink="false">ty4z2008qix</guid>
+      <pubDate>2026-09-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> github</p><hr/><p>Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>Learn Programming with OCaml</title>
       <link>https://news.ycombinator.com/item?id=49578280</link>
@@ -69,6 +77,14 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>AI, Tools and Transformation</title>
+      <link>https://news.ycombinator.com/item?id=49582656</link>
+      <guid isPermaLink="false">ai-tools-and-transformation</guid>
+      <pubDate>2026-09-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Claude's new system prompt doesn't want to reproduce song lyrics</title>
       <link>https://news.ycombinator.com/item?id=49575143</link>
       <guid isPermaLink="false">claudes-new-system-prompt-doesnt-want-to-reproduce-song-lyrics</guid>
@@ -98,6 +114,14 @@
       <guid isPermaLink="false">finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation-2014</guid>
       <pubDate>2026-09-06T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Show HN: Agent-to-agent payment. Your agents can pay each other</title>
+      <link>https://openspender.com/agent-to-agent</link>
+      <guid isPermaLink="false">show-hn-agent-to-agent-payment-your-agents-can-pay-each-other</guid>
+      <pubDate>2026-09-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>暂无中文摘要</p></description>
       <category>📱 产品模式</category>
     </item>
     <item>
@@ -386,30 +410,6 @@
       <guid isPermaLink="false">k2-horizon-a-connected-fleet-of-six-open-models</guid>
       <pubDate>2026-09-04T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out</title>
-      <link>https://news.ycombinator.com/item?id=49557206</link>
-      <guid isPermaLink="false">which-tools-do-claude-codex-and-cursor-choose-we-measured-17k-runs-to-find-out</guid>
-      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Meta is paying to peek at how you use their latest AI model</title>
-      <link>https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/</link>
-      <guid isPermaLink="false">meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model</guid>
-      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who "contribute" to the development of future models by sharing their prompts and model outputs.</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Nvidia confirms it will buy Hugging Face for $12.9 billion</title>
-      <link>https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/</link>
-      <guid isPermaLink="false">nvidia-confirms-it-will-buy-hugging-face-for-129-billion</guid>
-      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
