@@ -2,7 +2,7 @@
   "daily_summary": {
     "date": "2026-09-07",
     "headline": "今日 AI 情报 · 2026-09-07",
-    "overview": "今日共采集 3 条情报",
+    "overview": "今日共采集 7 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -10,10 +10,25 @@
         "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "i-feel-about-ai",
-            "title": "I Feel about AI",
+            "id": "travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business",
+            "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
             "score": 0.3,
-            "url": "https://news.ycombinator.com/item?id=49587128",
+            "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日📱 产品模式方向有新的动态。",
+        "evidence": [
+          {
+            "id": "authors-push-back-as-publishers-and-agents-make-claims-on-anthropic-settlement",
+            "title": "Authors push back as publishers and agents make claims on Anthropic se",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -21,13 +36,29 @@
       }
     ],
     "narratives": [],
-    "stats": "🤖 技术能力: 3",
-    "total_items": 3,
-    "high_value_count": 1,
+    "stats": "🤖 技术能力: 6 | 📱 产品模式: 1",
+    "total_items": 7,
+    "high_value_count": 5,
     "all_today_ids": [
+      {
+        "id": "travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business",
+        "label": "Travis Kalanick’s Atoms might be getting into the robotaxi business"
+      },
+      {
+        "id": "recreating-minecraft-is-not-a-benchmark",
+        "label": "Recreating Minecraft Is Not a Benchmark"
+      },
       {
         "id": "i-feel-about-ai",
         "label": "I Feel about AI"
+      },
+      {
+        "id": "authors-push-back-as-publishers-and-agents-make-claims-on-anthropic-settlement",
+        "label": "Authors push back as publishers and agents make claims on Anthropic settlement"
+      },
+      {
+        "id": "research-acceleration-the-view-inside-openai",
+        "label": "Research acceleration: The view inside OpenAI"
       },
       {
         "id": "dont-use-a-gmailcom-address",
@@ -39,6 +70,6 @@
       }
     ],
     "date_bj": "2026-09-07 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-07 00:01:33"
+    "generated_at_bj": "2026-09-07 06:01:31"
   }
 }

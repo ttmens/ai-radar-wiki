@@ -1,8 +1,30 @@
 {
   "date": "2026-09-07",
-  "generated_at": "2026-09-07T00:02:04.192323+08:00",
-  "item_count": 1,
+  "generated_at": "2026-09-07T06:02:01.718022+08:00",
+  "item_count": 5,
   "items": [
+    {
+      "id": "travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business",
+      "label": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "date": "2026-09-07"
+    },
+    {
+      "id": "recreating-minecraft-is-not-a-benchmark",
+      "label": "Recreating Minecraft Is Not a Benchmark",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49587040",
+      "date": "2026-09-07"
+    },
     {
       "id": "i-feel-about-ai",
       "label": "I Feel about AI",
@@ -13,10 +35,32 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49587128",
       "date": "2026-09-07"
+    },
+    {
+      "id": "authors-push-back-as-publishers-and-agents-make-claims-on-anthropic-settlement",
+      "label": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "date": "2026-09-07"
+    },
+    {
+      "id": "research-acceleration-the-view-inside-openai",
+      "label": "Research acceleration: The view inside OpenAI",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49587217",
+      "date": "2026-09-07"
     }
   ],
   "graph_totals": {
-    "real_nodes": 8221,
-    "edges": 8741
+    "real_nodes": 8225,
+    "edges": 8745
   }
 }

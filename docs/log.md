@@ -3935,3 +3935,9 @@
 - create: i-feel-about-ai.md
 - create: the-pencil-case-model-of-creativity.md
 - create: dont-use-a-gmailcom-address.md
+
+## [2026-09-07 06:02] sync v3 | 4 new | pillars: {'capabilities': 3, 'patterns': 1}
+- create: research-acceleration-the-view-inside-openai.md
+- create: recreating-minecraft-is-not-a-benchmark.md
+- create: authors-push-back-as-publishers-and-agents-make-claims-on-anthropic-settlement.md
+- create: travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business.md

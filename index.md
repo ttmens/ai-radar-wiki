@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-07 | Total pages: 3803
+> Last updated: 2026-09-07 | Total pages: 3807
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -951,6 +951,7 @@
 - [[reality-has-a-surprising-amount-of-detail-2017.md]] Reality has a surprising amount of detail (2017) `pillar:capabilities` `score:0.53`
 - [[record-breaking-solo-rower-kelsey-pfendler-arrives-in-hawaii.md]] Record-breaking solo rower Kelsey Pfendler arrives in Hawaii `pillar:capabilities` `score:0.085`
 - [[record-type-inference-for-dummies.md]] Record type inference for dummies `pillar:capabilities` `score:0.33`
+- [[recreating-minecraft-is-not-a-benchmark.md]] Recreating Minecraft Is Not a Benchmark `pillar:capabilities` `score:0.305`
 - [[recreating-the-math-behind-the-first-stealth-aircraft.md]] Recreating the math behind the first stealth aircraft `pillar:capabilities` `score:0.295`
 - [[recursive-superintelligence-signs-410-million-compute-deal-with-amazon.md]] Recursive Superintelligence signs $410 million compute deal with Amazon `pillar:capabilities` `score:0.445`
 - [[reducing-tick-density-along-recreational-trails-in-ottawa-canada.md]] Reducing tick density along recreational trails in Ottawa, Canada `pillar:capabilities` `score:0.46`
@@ -959,6 +960,7 @@
 - [[reflections-on-software-engineering-in-the-age-of-ai.md]] Reflections on software engineering in the age of AI `pillar:capabilities` `score:0.48`
 - [[reinventing-the-renaissance.md]] Reinventing the Renaissance `pillar:capabilities` `score:0.295`
 - [[replies-to-comments-on-my-llms-are-eroding-my-career-post.md]] Replies to comments on my "LLMs are eroding my career" post `pillar:capabilities` `score:0.55`
+- [[research-acceleration-the-view-inside-openai.md]] Research acceleration: The view inside OpenAI `pillar:capabilities` `score:0.305`
 - [[researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai.md]] Researchers Wanted Preschool Teachers to Wear Cameras to Train AI `pillar:capabilities` `score:0.36`
 - [[response-to-ai-slop-is-from-robin-williams.md]] Response to AI slop is from Robin Williams `pillar:capabilities` `score:0.375`
 - [[rethinking-legal-education-in-the-ai-era.md]] Rethinking Legal Education in the AI Era `pillar:capabilities` `score:0.36`
@@ -1338,6 +1340,7 @@
 - [[training-our-own-ai-models.md]] Training our own AI models `pillar:capabilities` `score:0.55`
 - [[transformer-transformer-a-unified-model-for-motion-conditioned-robot-co-design.md]] Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design `pillar:capabilities` `score:0.345`
 - [[transformers-are-inherently-succinct.md]] Transformers Are Inherently Succinct `pillar:capabilities` `score:0.345`
+- [[travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business.md]] Travis Kalanick’s Atoms might be getting into the robotaxi business `pillar:capabilities` `score:0.305`
 - [[trees-to-flows-and-back-unifying-decision-trees-and-diffusion-models.md]] Trees to Flows and Back: Unifying Decision Trees and Diffusion Models `pillar:capabilities` `score:0.33`
 - [[trex-an-ai-code-reviewer-that-runs-your-code.md]] TREX: An AI code reviewer that runs your code `pillar:capabilities` `score:0.365`
 - [[truth-is-not-a-direction-a-tarski-attack-on-llm-probes.md]] Truth is not a direction: a Tarski attack on LLM probes `pillar:capabilities` `score:0.295`
@@ -2253,6 +2256,7 @@
 - [[ask-hn-what-are-tools-you-have-made-for-yourself-since-the-advent-of-ai.md]] Ask HN: What are tools you have made for yourself since the advent of AI? `pillar:patterns` `score:0.5`
 - [[ask-hn-what-is-your-ai-dev-tech-stack-workflow.md]] Ask HN: What is your (AI) dev tech stack / workflow? `pillar:patterns` `score:0.495`
 - [[astrbotdevsastrbot.md]] AstrBotDevs/AstrBot `pillar:patterns` `score:0.58`
+- [[authors-push-back-as-publishers-and-agents-make-claims-on-anthropic-settlement.md]] Authors push back as publishers and agents make claims on Anthropic settlement `pillar:patterns` `score:0.305`
 - [[autolith-a-programming-agent-with-a-live-runtime.md]] Autolith: A programming agent with a live runtime `pillar:patterns` `score:0.305`
 - [[autonomous-flying-umbrella-follows-and-shields-users-from-rain-and-sunlight.md]] Autonomous flying umbrella follows and shields users from rain and sunlight `pillar:patterns` `score:0.395`
 - [[autonomous-mathematical-discovery-in-an-open-world-multi-agent-environment.md]] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment `pillar:patterns` `score:0.205`
