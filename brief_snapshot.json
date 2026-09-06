@@ -1,7 +1,7 @@
 {
   "date": "2026-09-06",
-  "generated_at": "2026-09-06T06:01:54.082280+08:00",
-  "item_count": 3,
+  "generated_at": "2026-09-06T12:02:00.034834+08:00",
+  "item_count": 4,
   "items": [
     {
       "id": "learn-programming-with-ocaml",
@@ -35,10 +35,21 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
       "date": "2026-09-06"
+    },
+    {
+      "id": "seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsof",
+      "label": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsof",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "date": "2026-09-06"
     }
   ],
   "graph_totals": {
-    "real_nodes": 8210,
-    "edges": 8730
+    "real_nodes": 8215,
+    "edges": 8735
   }
 }

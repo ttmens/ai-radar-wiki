@@ -2,7 +2,7 @@
   "daily_summary": {
     "date": "2026-09-06",
     "headline": "今日 AI 情报 · 2026-09-06",
-    "overview": "今日共采集 7 条情报",
+    "overview": "今日共采集 12 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -25,10 +25,10 @@
         "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
         "evidence": [
           {
-            "id": "openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosur",
-            "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ fo",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+            "id": "okf-agent-memory-git-native-persistent-memory-for-ai-coding-agents",
+            "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=49581240",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -36,9 +36,9 @@
       }
     ],
     "narratives": [],
-    "stats": "🤖 技术能力: 3 | 📱 产品模式: 4",
-    "total_items": 7,
-    "high_value_count": 3,
+    "stats": "🤖 技术能力: 7 | 📱 产品模式: 5",
+    "total_items": 12,
+    "high_value_count": 4,
     "all_today_ids": [
       {
         "id": "learn-programming-with-ocaml",
@@ -53,8 +53,20 @@
         "label": "Hikers rescued after using Google Gemini for planning"
       },
       {
+        "id": "seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsof",
+        "label": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsof"
+      },
+      {
         "id": "llms-as-a-cognitive-virus",
         "label": "LLMs as a Cognitive Virus"
+      },
+      {
+        "id": "chrome-again-exempts-google-from-user-site-data-settings",
+        "label": "Chrome again exempts Google from user site data settings"
+      },
+      {
+        "id": "gpt-6-astra-on-robot-arms",
+        "label": "GPT-6 Astra on robot arms"
       },
       {
         "id": "claudes-new-system-prompt-doesnt-want-to-reproduce-song-lyrics",
@@ -65,11 +77,19 @@
         "label": "Visualizing Rust's Vtables: How dyn Trait Works In Memory"
       },
       {
+        "id": "show-hn-hypercard-to-html-converter",
+        "label": "Show HN: HyperCard to HTML Converter"
+      },
+      {
         "id": "finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation-2014",
         "label": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (201"
+      },
+      {
+        "id": "okf-agent-memory-git-native-persistent-memory-for-ai-coding-agents",
+        "label": "OKF Agent Memory – Git-native persistent memory for AI coding agents"
       }
     ],
     "date_bj": "2026-09-06 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-06 06:01:22"
+    "generated_at_bj": "2026-09-06 12:01:29"
   }
 }

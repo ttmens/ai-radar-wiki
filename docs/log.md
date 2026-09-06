@@ -3918,3 +3918,10 @@
 - create: visualizing-rusts-vtables-how-dyn-trait-works-in-memory.md
 - create: hikers-rescued-after-using-google-gemini-for-planning.md
 - create: openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosur.md
+
+## [2026-09-06 12:01] sync v3 | 5 new | pillars: {'capabilities': 4, 'patterns': 1}
+- create: gpt-6-astra-on-robot-arms.md
+- create: chrome-again-exempts-google-from-user-site-data-settings.md
+- create: okf-agent-memory-git-native-persistent-memory-for-ai-coding-agents.md
+- create: seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsof.md
+- create: show-hn-hypercard-to-html-converter.md

@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-06 | Total pages: 3792
+> Last updated: 2026-09-06 | Total pages: 3797
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -251,6 +251,7 @@
 - [[cheaper-faster-and-culturally-aware-avataar8217s-video-ai-is-built-for-india8217.md]] Cheaper, faster, and culturally aware, Avataar&#8217;s video AI is built for Ind `pillar:capabilities` `score:0.445`
 - [[check-if-a-file-was-made-with-claude.md]] Check if a file was made with Claude `pillar:capabilities` `score:0.375`
 - [[chinese-cybercrime-operation-that-used-ai-to-scam-8216hundreds-of-thousands-of-v.md]] Chinese cybercrime operation that used AI to scam &#8216;hundreds of thousands o `pillar:capabilities` `score:0.445`
+- [[chrome-again-exempts-google-from-user-site-data-settings.md]] Chrome again exempts Google from user site data settings `pillar:capabilities` `score:0.255`
 - [[claude-ai-recovers-an-11-yrs-old-btc-wallet-holding-400k-usd.md]] Claude AI recovers an 11 yrs old BTC wallet holding 400k USD `pillar:capabilities` `score:0.48`
 - [[claude-code-and-codex-can-have-real-time-conversation-via-git.md]] Claude Code and Codex Can Have Real-Time Conversation via Git `pillar:capabilities` `score:0.515`
 - [[claude-code-everything-you-can-configure-that-the-docs-dont-tell-you.md]] Claude Code – Everything You Can Configure That the Docs Don't Tell You `pillar:capabilities` `score:0.43`
@@ -513,6 +514,7 @@
 - [[gpt-56.md]] GPT-5.6 `pillar:capabilities` `score:0.68`
 - [[gpt-6-astra-in-code-review-gains-privacy-and-cost.md]] GPT-6 Astra in code review: Gains, privacy, and cost `pillar:capabilities` `score:0.205`
 - [[gpt-6-astra-on-openrouter.md]] GPT-6 Astra on OpenRouter `pillar:capabilities` `score:0.425`
+- [[gpt-6-astra-on-robot-arms.md]] GPT-6 Astra on robot arms `pillar:capabilities` `score:0.255`
 - [[gpt-6-astra.md]] GPT-6 Astra `pillar:capabilities` `score:0.505`
 - [[gptlive.md]] GPT‑Live `pillar:capabilities` `score:0.645`
 - [[gptnl-a-sovereign-language-model-for-the-netherlands.md]] GPT‑NL: a sovereign language model for the Netherlands `pillar:capabilities` `score:0.565`
@@ -993,6 +995,7 @@
 - [[schema-harness-achieves-99-on-arcagi3-public.md]] Schema Harness Achieves ~99% on Arc‑AGI‑3 Public `pillar:capabilities` `score:0.515`
 - [[screenpipescreenpipe.md]] screenpipe/screenpipe `pillar:capabilities` `score:0.615`
 - [[sealed-tomb-filled-with-paintings-and-inscriptions-discovered-in-egypt.md]] Sealed tomb filled with paintings and inscriptions discovered in Egypt `pillar:capabilities` `score:0.135`
+- [[seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsof.md]] Seattle Times and Newsday are the latest publications to sue OpenAI and Microsof `pillar:capabilities` `score:0.305`
 - [[securing-services-with-rootless-containers.md]] Securing Services with Rootless Containers `pillar:capabilities` `score:0.395`
 - [[self-a-new-top-level-domain-designed-to-support-self-hosting.md]] .self: A new top-level domain designed to support self-hosting `pillar:capabilities` `score:0.46`
 - [[self-contained-highly-portable-python-distributions.md]] Self-contained highly-portable Python distributions `pillar:capabilities` `score:0.345`
@@ -1059,6 +1062,7 @@
 - [[show-hn-how-much-of-hacker-news-is-about-ai.md]] Show HN: How much of Hacker News is about AI? `pillar:capabilities` `score:0.255`
 - [[show-hn-how-well-do-you-use-claude-code.md]] Show HN: How well do you use Claude Code? `pillar:capabilities` `score:0.295`
 - [[show-hn-huzzah-a-novel-approach-to-coding-with-ai.md]] Show HN: Huzzah – a novel approach to coding with AI `pillar:capabilities` `score:0.455`
+- [[show-hn-hypercard-to-html-converter.md]] Show HN: HyperCard to HTML Converter `pillar:capabilities` `score:0.155`
 - [[show-hn-i-built-184-free-browser-tools-pdf-image-dev-ai-tasks-no-upload.md]] Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload `pillar:capabilities` `score:0.31`
 - [[show-hn-i-built-a-hardware-quantum-rng-and-wired-it-into-a-magic-8-ball.md]] Show HN: I built a hardware quantum RNG and wired it into a Magic 8-Ball `pillar:capabilities` `score:0.26`
 - [[show-hn-i-built-a-lite-lpu-that-can-do-inference-on-karpathys-microgpt.md]] Show HN: I built a lite LPU that can do inference on Karpathy's MicroGPT `pillar:capabilities` `score:0.155`
@@ -2463,6 +2467,7 @@
 - [[nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp.md]] Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP `pillar:patterns` `score:0.515`
 - [[obrasuperpowers.md]] obra/superpowers `pillar:patterns` `score:0.615`
 - [[officecli-office-suite-for-ai-agents-to-read-and-edit-microsoft-office-files.md]] OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files `pillar:patterns` `score:0.43`
+- [[okf-agent-memory-git-native-persistent-memory-for-ai-coding-agents.md]] OKF Agent Memory – Git-native persistent memory for AI coding agents `pillar:patterns` `score:0.155`
 - [[old-and-new-apps-via-modern-coding-agents-by-terry-tao.md]] Old and new apps, via modern coding agents by Terry Tao `pillar:patterns` `score:0.545`
 - [[ollie-is-betting-its-focus-on-privacy-can-help-it-win-the-ai-assistant-race.md]] Ollie is betting its focus on privacy can help it win the AI assistant race `pillar:patterns` `score:0.305`
 - [[onyx-dot-apponyx.md]] onyx-dot-app/onyx `pillar:patterns` `score:0.58`
