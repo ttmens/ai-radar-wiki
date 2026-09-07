@@ -2,19 +2,19 @@
   "daily_summary": {
     "date": "2026-09-07",
     "headline": "今日 AI 情报 · 2026-09-07",
-    "overview": "今日共采集 7 条情报",
+    "overview": "AI工具链从通用走向垂直专业化",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "今日🤖 技术能力方向有新的动态。",
+        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：安全/漏洞, 融资/投资, 基础设施。",
         "evidence": [
           {
-            "id": "travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business",
-            "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
+            "id": "your-intellectual-fly-is-open-when-you-use-an-llm-to-author-a-post-2025",
+            "title": "Your intellectual fly is open when you use an LLM to author a post (20",
+            "score": 0.51,
+            "url": "https://news.ycombinator.com/item?id=49585644",
+            "reason": "高价值信号"
           }
         ],
         "trend": "new"
@@ -33,13 +33,45 @@
           }
         ],
         "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向的核心信号集中在AI Agent。",
+        "evidence": [
+          {
+            "id": "necessary-or-sufficient-evaluating-llm-explanations-with-behavioural-evidence",
+            "title": "Necessary or Sufficient? Evaluating LLM Explanations With Behavioural ",
+            "score": 0.26,
+            "url": "http://arxiv.org/abs/2609.05385v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
       }
     ],
-    "narratives": [],
-    "stats": "🤖 技术能力: 6 | 📱 产品模式: 1",
-    "total_items": 7,
-    "high_value_count": 5,
+    "narratives": [
+      {
+        "title": "AI工具链从通用走向垂直专业化",
+        "body": "今日1条情报涉及AI工具链与基础设施。包括：Speculative Decoding in vLLM on AMD GPUs。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+        "type": "maturation",
+        "action": "建议：关注工具链发展，考虑引入专用工具或评估自研可行性。行业成熟意味着标准化窗口接近。"
+      },
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日1条情报涉及AI商业动态。包括：A Deep Generative Model for Synthesizing。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
+      }
+    ],
+    "stats": "🤖 技术能力: 18 | 📱 产品模式: 3 | 🔧 工具生态: 3",
+    "total_items": 24,
+    "high_value_count": 6,
     "all_today_ids": [
+      {
+        "id": "your-intellectual-fly-is-open-when-you-use-an-llm-to-author-a-post-2025",
+        "label": "Your intellectual fly is open when you use an LLM to author a post (2025)"
+      },
       {
         "id": "travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business",
         "label": "Travis Kalanick’s Atoms might be getting into the robotaxi business"
@@ -61,15 +93,79 @@
         "label": "Research acceleration: The view inside OpenAI"
       },
       {
+        "id": "harnessing-the-universal-geometry-of-embeddings",
+        "label": "Harnessing the Universal Geometry of Embeddings"
+      },
+      {
+        "id": "unimate-one-unified-model-to-animate-diverse-skeletons",
+        "label": "UniMate: One Unified Model to Animate Diverse Skeletons"
+      },
+      {
+        "id": "cua-universe-a-scalable-and-dynamic-environment-for-hybrid-guicli-agents",
+        "label": "CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents"
+      },
+      {
+        "id": "a-deep-generative-model-for-synthesizing-labeled-wireless-signals",
+        "label": "A Deep Generative Model for Synthesizing Labeled Wireless Signals"
+      },
+      {
+        "id": "multi-step-tool-calling-over-korean-open-public-apis-a-benchmark-and-a-data-synt",
+        "label": "Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Syn"
+      },
+      {
+        "id": "regionfed-federated-learning-for-personalized-query-understanding-in-heterogeneo",
+        "label": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogene"
+      },
+      {
+        "id": "necessary-or-sufficient-evaluating-llm-explanations-with-behavioural-evidence",
+        "label": "Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence"
+      },
+      {
+        "id": "reflection-aware-generative-novel-view-synthesis",
+        "label": "Reflection-aware Generative Novel View Synthesis"
+      },
+      {
+        "id": "design-docs-are-all-you-need-an-ai-native-machine-learning-performance-tool",
+        "label": "Design Docs Are All You Need: An AI-native Machine-Learning Performance Tool"
+      },
+      {
+        "id": "what-matters-when-diagnosing-and-improving-conditional-visual-grounding-in-visuo",
+        "label": "What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Vis"
+      },
+      {
+        "id": "molecular-déjà-vu-digit-level-retrieval-of-published-values-in-frontier-language",
+        "label": "Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Languag"
+      },
+      {
+        "id": "when-llm-decompilers-recompile-more-and-preserve-less",
+        "label": "When LLM Decompilers Recompile More and Preserve Less"
+      },
+      {
+        "id": "diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction",
+        "label": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interacti"
+      },
+      {
         "id": "dont-use-a-gmailcom-address",
         "label": "Don't Use a gmail.com Address"
       },
       {
+        "id": "reverse-engineering-the-storage-format-for-an-undocumented-database",
+        "label": "Reverse engineering the storage format for an undocumented database"
+      },
+      {
         "id": "the-pencil-case-model-of-creativity",
         "label": "The pencil case model of creativity"
+      },
+      {
+        "id": "speculative-decoding-in-vllm-on-amd-gpus",
+        "label": "Speculative Decoding in vLLM on AMD GPUs"
+      },
+      {
+        "id": "show-hn-engrim-a-universal-local-first-sqlite-memory-engine-for-ai-clis",
+        "label": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs"
       }
     ],
     "date_bj": "2026-09-07 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-07 06:01:31"
+    "generated_at_bj": "2026-09-07 20:03:32"
   }
 }

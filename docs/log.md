@@ -3941,3 +3941,22 @@
 - create: recreating-minecraft-is-not-a-benchmark.md
 - create: authors-push-back-as-publishers-and-agents-make-claims-on-anthropic-settlement.md
 - create: travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business.md
+
+## [2026-09-07 20:04] sync v3 | 17 new | pillars: {'capabilities': 12, 'ecosystem': 3, 'patterns': 2}
+- create: unimate-one-unified-model-to-animate-diverse-skeletons.md
+- create: diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction.md
+- create: regionfed-federated-learning-for-personalized-query-understanding-in-heterogeneo.md
+- create: a-deep-generative-model-for-synthesizing-labeled-wireless-signals.md
+- create: multi-step-tool-calling-over-korean-open-public-apis-a-benchmark-and-a-data-synt.md
+- create: necessary-or-sufficient-evaluating-llm-explanations-with-behavioural-evidence.md
+- create: reflection-aware-generative-novel-view-synthesis.md
+- create: molecular-déjà-vu-digit-level-retrieval-of-published-values-in-frontier-language.md
+- create: what-matters-when-diagnosing-and-improving-conditional-visual-grounding-in-visuo.md
+- create: cua-universe-a-scalable-and-dynamic-environment-for-hybrid-guicli-agents.md
+- create: when-llm-decompilers-recompile-more-and-preserve-less.md
+- create: design-docs-are-all-you-need-an-ai-native-machine-learning-performance-tool.md
+- create: speculative-decoding-in-vllm-on-amd-gpus.md
+- create: show-hn-engrim-a-universal-local-first-sqlite-memory-engine-for-ai-clis.md
+- create: harnessing-the-universal-geometry-of-embeddings.md
+- create: your-intellectual-fly-is-open-when-you-use-an-llm-to-author-a-post-2025.md
+- create: reverse-engineering-the-storage-format-for-an-undocumented-database.md
