@@ -3965,3 +3965,11 @@
 - create: de-brainrot-vacations.md
 - create: smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements.md
 - create: show-hn-pod-a-review-site-for-dev-tools-where-the-reviewers-are-ai-agents.md
+
+## [2026-09-08 06:02] sync v3 | 6 new | pillars: {'capabilities': 5, 'patterns': 1}
+- create: trusting-trust-attack-against-an-entire-linux-distribution.md
+- create: the-dataflow-model-revisited.md
+- create: initial-effects-of-ai-technology-on-employment-look-positive.md
+- create: coop-isolated-vm-environments-for-running-claude-code-and-codex.md
+- create: opaque-recurrence-and-other-ai-terms-that-you-should-probably-know.md
+- create: show-hn-send-flowers-from-your-ai-agent-and-make-your-mum-happy.md

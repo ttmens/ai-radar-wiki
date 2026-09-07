@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-08 | Total pages: 3827
+> Last updated: 2026-09-08 | Total pages: 3833
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -303,6 +303,7 @@
 - [[computer-use-in-gemini-35-flash.md]] Computer use in Gemini 3.5 Flash `pillar:capabilities` `score:0.565`
 - [[continuous-diffusion-language-models-cdlms.md]] Continuous Diffusion Language Models (CDLM's) `pillar:capabilities` `score:0.305`
 - [[controlling-reasoning-effort-in-llms.md]] Controlling Reasoning Effort in LLMs `pillar:capabilities` `score:0.38`
+- [[coop-isolated-vm-environments-for-running-claude-code-and-codex.md]] Coop – Isolated VM Environments for Running Claude Code and Codex `pillar:capabilities` `score:0.155`
 - [[copyfail-from-pod-to-host.md]] CopyFail: From Pod to Host `pillar:capabilities` `score:0.295`
 - [[corporate-america-is-getting-hooked-on-open-source-ai.md]] Corporate America is getting hooked on open-source AI `pillar:capabilities` `score:0.455`
 - [[crankgpt.md]] CrankGPT `pillar:capabilities` `score:0.565`
@@ -625,6 +626,7 @@
 - [[inference-optimization-for-mimo-v25-pushing-hybrid-swa-efficiency-to-the-limit.md]] Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit `pillar:capabilities` `score:0.43`
 - [[inflect-micro-v2-complete-voice-in-936m-parameters.md]] Inflect-Micro-v2: complete voice in 9.36M parameters `pillar:capabilities` `score:0.33`
 - [[infomaniak-transitions-to-a-foundation-model-to-protect-user-data-privacy.md]] Infomaniak transitions to a foundation model to protect user data privacy `pillar:capabilities` `score:0.415`
+- [[initial-effects-of-ai-technology-on-employment-look-positive.md]] Initial effects of AI technology on employment look positive `pillar:capabilities` `score:0.305`
 - [[inkling-our-open-weights-model.md]] Inkling: Our Open-Weights Model `pillar:capabilities` `score:0.565`
 - [[inside-faiss-billion-scale-similarity-search.md]] Inside FAISS: Billion-Scale Similarity Search `pillar:capabilities` `score:0.415`
 - [[instagram-puts-new-limits-on-undisclosed-ai-profiles.md]] Instagram puts new limits on undisclosed AI profiles `pillar:capabilities` `score:0.305`
@@ -841,6 +843,7 @@
 - [[ollama-all-aboard-open-models.md]] Ollama: All Aboard Open Models `pillar:capabilities` `score:0.33`
 - [[omen-ai8217s-plan-to-optimize-data-centers-is-all-wet.md]] Omen AI&#8217;s plan to optimize data centers is all wet `pillar:capabilities` `score:0.445`
 - [[ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts.md]] Ontario auditors find doctors' AI note takers routinely blow basic facts `pillar:capabilities` `score:0.565`
+- [[opaque-recurrence-and-other-ai-terms-that-you-should-probably-know.md]] Opaque recurrence, and other AI terms that you should probably know `pillar:capabilities` `score:0.305`
 - [[open-code-review-an-ai-powered-code-review-cli-tool.md]] Open Code Review – An AI-powered code review CLI tool `pillar:capabilities` `score:0.345`
 - [[open-oscar-server-open-source-server-compatible-with-aim-and-icq-clients.md]] Open Oscar Server: open-source server compatible with AIM and ICQ clients `pillar:capabilities` `score:0.155`
 - [[openai-adopts-googles-synthid-watermark-for-ai-images-with-verification-tool.md]] OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool `pillar:capabilities` `score:0.465`
@@ -1262,6 +1265,7 @@
 - [[the-circuit-that-lets-your-brain-think-and-see.md]] The circuit that lets your brain think and see `pillar:capabilities` `score:0.345`
 - [[the-classifiers-anthropic-puts-in-front-of-fable-are-too-zealous.md]] The classifiers Anthropic puts in front of Fable are too zealous `pillar:capabilities` `score:0.55`
 - [[the-cold-email.md]] The Cold Email `pillar:capabilities` `score:0.53`
+- [[the-dataflow-model-revisited.md]] The Dataflow Model Revisited `pillar:capabilities` `score:0.205`
 - [[the-efficient-frontier-of-llm-inference.md]] The efficient frontier of LLM inference `pillar:capabilities` `score:0.305`
 - [[the-emergent-symbolic-structure-of-artificial-neural-networks.md]] The Emergent Symbolic Structure of Artificial Neural Networks `pillar:capabilities` `score:0.255`
 - [[the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure-2019.md]] The first transatlantic telegraph cable was a bold, beautiful failure (2019) `pillar:capabilities` `score:0.225`
@@ -1347,6 +1351,7 @@
 - [[travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business.md]] Travis Kalanick’s Atoms might be getting into the robotaxi business `pillar:capabilities` `score:0.305`
 - [[trees-to-flows-and-back-unifying-decision-trees-and-diffusion-models.md]] Trees to Flows and Back: Unifying Decision Trees and Diffusion Models `pillar:capabilities` `score:0.33`
 - [[trex-an-ai-code-reviewer-that-runs-your-code.md]] TREX: An AI code reviewer that runs your code `pillar:capabilities` `score:0.365`
+- [[trusting-trust-attack-against-an-entire-linux-distribution.md]] Trusting-Trust Attack against an Entire Linux Distribution `pillar:capabilities` `score:0.205`
 - [[truth-is-not-a-direction-a-tarski-attack-on-llm-probes.md]] Truth is not a direction: a Tarski attack on LLM probes `pillar:capabilities` `score:0.295`
 - [[ts-2026-009-insecure-argument-handling-in-tailscale-ssh-permitted-root-access.md]] TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access `pillar:capabilities` `score:0.43`
 - [[twenty-five-years-ago-it-was-cryptography-today-its-model-weights.md]] Twenty-five years ago it was cryptography, today it's model weights `pillar:capabilities` `score:0.155`
@@ -2643,6 +2648,7 @@
 - [[show-hn-run-agent-skills-with-mistralrs-v0810-v1skills-support-and-more.md]] Show HN: Run Agent Skills with mistral.rs v0.8.10: /v1/skills support and more `pillar:patterns` `score:0.33`
 - [[show-hn-scan-your-ai-agents-for-dangerous-capabilities.md]] Show HN: Scan your AI agents for dangerous capabilities `pillar:patterns` `score:0.365`
 - [[show-hn-self-hosted-voice-ai-agent-for-asteriskfreepbx.md]] Show HN: Self-hosted voice AI agent for Asterisk/FreePBX `pillar:patterns` `score:0.33`
+- [[show-hn-send-flowers-from-your-ai-agent-and-make-your-mum-happy.md]] Show HN: Send flowers from your AI agent and make your mum happy `pillar:patterns` `score:0.155`
 - [[show-hn-sentinel-open-source-qa-agent-that-reads-your-code-before-it-clicks.md]] Show HN: Sentinel – open-source QA agent that reads your code before it clicks `pillar:patterns` `score:0.295`
 - [[show-hn-ski-voice-coding-for-claude-code-codex-and-more-on-device-free.md]] Show HN: Ski – Voice Coding for Claude Code, Codex and More – On-Device – Free `pillar:patterns` `score:0.365`
 - [[show-hn-skill-for-your-agent-to-visualize-your-gbrain-and-obsidian.md]] Show HN: Skill for your agent to visualize your gbrain and Obsidian `pillar:patterns` `score:0.295`

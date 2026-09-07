@@ -1,7 +1,7 @@
 {
   "date": "2026-09-08",
-  "generated_at": "2026-09-08T00:02:15.681510+08:00",
-  "item_count": 2,
+  "generated_at": "2026-09-08T06:02:06.262108+08:00",
+  "item_count": 4,
   "items": [
     {
       "id": "de-brainrot-vacations",
@@ -24,10 +24,32 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49597189",
       "date": "2026-09-08"
+    },
+    {
+      "id": "opaque-recurrence-and-other-ai-terms-that-you-should-probably-know",
+      "label": "Opaque recurrence, and other AI terms that you should probably know",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "date": "2026-09-08"
+    },
+    {
+      "id": "initial-effects-of-ai-technology-on-employment-look-positive",
+      "label": "Initial effects of AI technology on employment look positive",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49596610",
+      "date": "2026-09-08"
     }
   ],
   "graph_totals": {
-    "real_nodes": 8245,
-    "edges": 8785
+    "real_nodes": 8251,
+    "edges": 8791
   }
 }
