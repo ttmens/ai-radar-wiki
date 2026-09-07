@@ -3960,3 +3960,8 @@
 - create: harnessing-the-universal-geometry-of-embeddings.md
 - create: your-intellectual-fly-is-open-when-you-use-an-llm-to-author-a-post-2025.md
 - create: reverse-engineering-the-storage-format-for-an-undocumented-database.md
+
+## [2026-09-08 00:02] sync v3 | 3 new | pillars: {'capabilities': 2, 'patterns': 1}
+- create: de-brainrot-vacations.md
+- create: smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements.md
+- create: show-hn-pod-a-review-site-for-dev-tools-where-the-reviewers-are-ai-agents.md

@@ -5,13 +5,21 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 07 Sep 2026 12:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 16:00:21 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Your intellectual fly is open when you use an LLM to author a post (2025)</title>
+      <link>https://news.ycombinator.com/item?id=49585644</link>
+      <guid isPermaLink="false">your-intellectual-fly-is-open-when-you-use-an-llm-to-author-a-post-2025</guid>
+      <pubDate>2026-09-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>Travis Kalanick’s Atoms might be getting into the robotaxi business</title>
       <link>https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/</link>
@@ -53,6 +61,110 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Harnessing the Universal Geometry of Embeddings</title>
+      <link>https://news.ycombinator.com/item?id=49590595</link>
+      <guid isPermaLink="false">harnessing-the-universal-geometry-of-embeddings</guid>
+      <pubDate>2026-09-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>UniMate: One Unified Model to Animate Diverse Skeletons</title>
+      <link>http://arxiv.org/abs/2609.05415v1</link>
+      <guid isPermaLink="false">unimate-one-unified-model-to-animate-diverse-skeletons</guid>
+      <pubDate>2026-09-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: they rely on category-specific templates or require per-skeleton fine-tuning and reference motions a</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents</title>
+      <link>http://arxiv.org/abs/2609.05374v1</link>
+      <guid isPermaLink="false">cua-universe-a-scalable-and-dynamic-environment-for-hybrid-guicli-agents</guid>
+      <pubDate>2026-09-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Computer-use agents have advanced on benchmarks like OSWorld and AndroidWorld, but still act mostly through the GUI, often producing inefficient trajectories. Real-world computer work is hybrid, combining visual-state inspection with precise, high-throughput command-line operations, so capable agent</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>A Deep Generative Model for Synthesizing Labeled Wireless Signals</title>
+      <link>http://arxiv.org/abs/2609.05396v1</link>
+      <guid isPermaLink="false">a-deep-generative-model-for-synthesizing-labeled-wireless-signals</guid>
+      <pubDate>2026-09-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Wireless signals with position-related labels are pivotal for both performance evaluation and model training in the realm of wireless sensing. However, acquiring real-world datasets is often challenged by significant measurement and labeling costs. Traditional methods for synthesizing labeled wirele</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Syn</title>
+      <link>http://arxiv.org/abs/2609.05395v1</link>
+      <guid isPermaLink="false">multi-step-tool-calling-over-korean-open-public-apis-a-benchmark-and-a-data-synt</guid>
+      <pubDate>2026-09-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Data-sovereignty regulations increasingly require public institutions to deploy open-source, on-premise LLM agents that chain multiple tool-calls across live government APIs. However, open-source models consistently underperform in this multi-step setting, and no existing benchmark measures the gap.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>RegionFed: Federated Learning for Personalized Query Understanding in Heterogene</title>
+      <link>http://arxiv.org/abs/2609.05403v1</link>
+      <guid isPermaLink="false">regionfed-federated-learning-for-personalized-query-understanding-in-heterogeneo</guid>
+      <pubDate>2026-09-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both privacy-preserving training and model personalization. Federated learning offers a natural solution for privacy, bu</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence</title>
+      <link>http://arxiv.org/abs/2609.05385v1</link>
+      <guid isPermaLink="false">necessary-or-sufficient-evaluating-llm-explanations-with-behavioural-evidence</guid>
+      <pubDate>2026-09-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>LLM decision components that can operate within agent workflows often produce action-relevant recommendations or judgements together with explanations. Operators may use the named factors to monitor a system, diagnose errors, or decide when to escalate an output. Such use assumes that the explanatio</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Reflection-aware Generative Novel View Synthesis</title>
+      <link>http://arxiv.org/abs/2609.05382v1</link>
+      <guid isPermaLink="false">reflection-aware-generative-novel-view-synthesis</guid>
+      <pubDate>2026-09-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>We propose Ref-GeNVS, a training-free, reflection-aware method for generative novel view synthesis (NVS) in mirror scenes. Existing multi-view diffusion models often fail to recognize the mirror in the scene and cannot exploit reflected content for scene generation. To fix this issue without additio</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Design Docs Are All You Need: An AI-native Machine-Learning Performance Tool</title>
+      <link>http://arxiv.org/abs/2609.05364v1</link>
+      <guid isPermaLink="false">design-docs-are-all-you-need-an-ai-native-machine-learning-performance-tool</guid>
+      <pubDate>2026-09-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Machine-learning performance modeling is a uniquely hostile terrain for long-lived software: the assumptions baked into today's abstractions are invalidated by tomorrow's models and systems, forcing perpetual refactoring of performance-modeling frameworks. Meanwhile, AI coding agents have become fas</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Vis</title>
+      <link>http://arxiv.org/abs/2609.05376v1</link>
+      <guid isPermaLink="false">what-matters-when-diagnosing-and-improving-conditional-visual-grounding-in-visuo</guid>
+      <pubDate>2026-09-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Visuomotor imitation policies can achieve high performance under in-distribution visual conditions yet fail when visually similar objects or receptacles are introduced. We study this behavior as a problem of conditional visual grounding: the visual target required for successful control changes with</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Languag</title>
+      <link>http://arxiv.org/abs/2609.05381v1</link>
+      <guid isPermaLink="false">molecular-déjà-vu-digit-level-retrieval-of-published-values-in-frontier-language</guid>
+      <pubDate>2026-09-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Large language models (LLMs) are increasingly evaluated on molecular property benchmarks, but accuracy cannot distinguish a model that predicts a property from one that retrieves a published number. We audit 22 frontier models on 12 regression benchmarks for verbatim retrieval and find that it is wi</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>When LLM Decompilers Recompile More and Preserve Less</title>
+      <link>http://arxiv.org/abs/2609.05370v1</link>
+      <guid isPermaLink="false">when-llm-decompilers-recompile-more-and-preserve-less</guid>
+      <pubDate>2026-09-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Decompilation recovers high-level source from compiled machine code and serves as a foundation for security tasks such as vulnerability detection and malware analysis. Traditional decompilers like Ghidra and Hex-Rays expose whatever they cannot resolve as visible placeholders and often emit pseudoco</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interacti</title>
+      <link>http://arxiv.org/abs/2609.05404v1</link>
+      <guid isPermaLink="false">diffusion-tv-experiencing-diffusion-models-through-tangible-embodied-interaction</guid>
+      <pubDate>2026-09-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Diffusion TV is an interactive AI art installation that offers a tangible and embodied experience of diffusion models through a modified CRT TV. By physically manipulating the TV's antenna, audiences control the clarity of AI-generated images and sounds, metaphorically enacting the denoising process</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Don't Use a gmail.com Address</title>
       <link>https://news.ycombinator.com/item?id=49585594</link>
       <guid isPermaLink="false">dont-use-a-gmailcom-address</guid>
@@ -61,12 +173,36 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Reverse engineering the storage format for an undocumented database</title>
+      <link>https://news.ycombinator.com/item?id=49561514</link>
+      <guid isPermaLink="false">reverse-engineering-the-storage-format-for-an-undocumented-database</guid>
+      <pubDate>2026-09-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
       <title>The pencil case model of creativity</title>
       <link>https://news.ycombinator.com/item?id=49585703</link>
       <guid isPermaLink="false">the-pencil-case-model-of-creativity</guid>
       <pubDate>2026-09-07T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Speculative Decoding in vLLM on AMD GPUs</title>
+      <link>https://news.ycombinator.com/item?id=49596054</link>
+      <guid isPermaLink="false">speculative-decoding-in-vllm-on-amd-gpus</guid>
+      <pubDate>2026-09-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs</title>
+      <link>https://news.ycombinator.com/item?id=49594008</link>
+      <guid isPermaLink="false">show-hn-engrim-a-universal-local-first-sqlite-memory-engine-for-ai-clis</guid>
+      <pubDate>2026-09-07T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>📱 产品模式</category>
     </item>
     <item>
       <title>ty4z2008/Qix</title>
@@ -274,142 +410,6 @@
       <guid isPermaLink="false">apple8217s-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack</guid>
       <pubDate>2026-09-05T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>It&amp;#8217;s&amp;#160;officially the Ternus era at Apple.&amp;#160;&amp;#160; Tim Cook stepped down&amp;#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&amp;#160;promised a “huge launch next week”&amp;#160;— timing that puts Apple&amp;#8217;s next iPhone event on his desk before&amp;#</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>AI handles incidents, engineers lose touch with their systems</title>
-      <link>https://news.ycombinator.com/item?id=49574167</link>
-      <guid isPermaLink="false">ai-handles-incidents-engineers-lose-touch-with-their-systems</guid>
-      <pubDate>2026-09-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Another swarm of OpenAI agents reached the open internet without the frontier la</title>
-      <link>https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/</link>
-      <guid isPermaLink="false">another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-la</guid>
-      <pubDate>2026-09-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>It's the latest failure of OpenAI's internal monitoring and security systems.</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event</title>
-      <link>https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/</link>
-      <guid isPermaLink="false">less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event</guid>
-      <pubDate>2026-09-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>What will Apple&amp;#8217;s John Ternus era look like?</title>
-      <link>https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/</link>
-      <guid isPermaLink="false">what-will-apple8217s-john-ternus-era-look-like</guid>
-      <pubDate>2026-09-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>It&amp;#8217;s&amp;#160;officially the Ternus era at Apple.&amp;#160;&amp;#160; Tim Cook stepped down&amp;#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&amp;#160;promised a “huge launch next week”&amp;#160;— timing that puts Apple&amp;#8217;s next iPhone event on his desk before&amp;#</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: TERMy – A fast terminal assistant that does not use LLMs</title>
-      <link>https://news.ycombinator.com/item?id=49562219</link>
-      <guid isPermaLink="false">show-hn-termy-a-fast-terminal-assistant-that-does-not-use-llms</guid>
-      <pubDate>2026-09-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Carbon-aware electricity pricing, measured daily on 38 grids</title>
-      <link>https://news.ycombinator.com/item?id=49561975</link>
-      <guid isPermaLink="false">carbon-aware-electricity-pricing-measured-daily-on-38-grids</guid>
-      <pubDate>2026-09-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Google&amp;#8217;s Gemini Spark can now manage your Google Photos library</title>
-      <link>https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/</link>
-      <guid isPermaLink="false">google8217s-gemini-spark-can-now-manage-your-google-photos-library</guid>
-      <pubDate>2026-09-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>GMails custom domain "send as" discontinues January 2027</title>
-      <link>https://news.ycombinator.com/item?id=49565693</link>
-      <guid isPermaLink="false">gmails-custom-domain-send-as-discontinues-january-2027</guid>
-      <pubDate>2026-09-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B va</title>
-      <link>https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/</link>
-      <guid isPermaLink="false">xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-12b-valuat</guid>
-      <pubDate>2026-09-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>The round is being raised just months after the robot data startup exited from stealth.</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Government Rails Site Hit Hours After CVE Patch</title>
-      <link>https://news.ycombinator.com/item?id=49568828</link>
-      <guid isPermaLink="false">government-rails-site-hit-hours-after-cve-patch</guid>
-      <pubDate>2026-09-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Project HydraFusion: Frontier quality via multi-model orchestration</title>
-      <link>https://news.ycombinator.com/item?id=49566788</link>
-      <guid isPermaLink="false">project-hydrafusion-frontier-quality-via-multi-model-orchestration</guid>
-      <pubDate>2026-09-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>GPT-6 Astra in code review: Gains, privacy, and cost</title>
-      <link>https://news.ycombinator.com/item?id=49572875</link>
-      <guid isPermaLink="false">gpt-6-astra-in-code-review-gains-privacy-and-cost</guid>
-      <pubDate>2026-09-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Moadim.io – A scheduler for agents</title>
-      <link>https://moadim.io/</link>
-      <guid isPermaLink="false">show-hn-moadimio-a-scheduler-for-agents</guid>
-      <pubDate>2026-09-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>暂无中文摘要</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>GPT-6 Astra</title>
-      <link>https://news.ycombinator.com/item?id=49554643</link>
-      <guid isPermaLink="false">gpt-6-astra</guid>
-      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Qwen 3.8 27B available on Cerebras at 1500 tokens/s</title>
-      <link>https://news.ycombinator.com/item?id=49554520</link>
-      <guid isPermaLink="false">qwen-38-27b-available-on-cerebras-at-1500-tokenss</guid>
-      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>ChatGPT Is Throwing 404</title>
-      <link>https://news.ycombinator.com/item?id=49550614</link>
-      <guid isPermaLink="false">chatgpt-is-throwing-404</guid>
-      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>The largest electric aircraft just flew [video]</title>
-      <link>https://news.ycombinator.com/item?id=49526453</link>
-      <guid isPermaLink="false">the-largest-electric-aircraft-just-flew-video</guid>
-      <pubDate>2026-09-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>

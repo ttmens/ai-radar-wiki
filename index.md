@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-07 | Total pages: 3824
+> Last updated: 2026-09-08 | Total pages: 3827
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -324,6 +324,7 @@
 - [[databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x.md]] Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x `pillar:capabilities` `score:0.515`
 - [[datasette-apps-host-custom-html-applications-inside-datasette.md]] Datasette Apps: Host custom HTML applications inside Datasette `pillar:capabilities` `score:0.33`
 - [[daviskingdlib.md]] davisking/dlib `pillar:capabilities` `score:0.545`
+- [[de-brainrot-vacations.md]] De-Brainrot Vacations `pillar:capabilities` `score:0.425`
 - [[debian-votes-to-allow-responsible-use-of-generative-ai.md]] Debian votes to allow "responsible use of generative AI" `pillar:capabilities` `score:0.425`
 - [[deepfakesfaceswap.md]] deepfakes/faceswap `pillar:capabilities` `score:0.58`
 - [[deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation.md]] DeepL acquires Mixhalo for live-event audio streaming and translation `pillar:capabilities` `score:0.48`
@@ -1183,6 +1184,7 @@
 - [[small-ai-models-gain-traction-in-places-with-unreliable-networks.md]] Small AI Models Gain Traction In places with unreliable networks `pillar:capabilities` `score:0.33`
 - [[small-models-have-arrived.md]] Small Models Have Arrived `pillar:capabilities` `score:0.425`
 - [[smartphone-led-detects-hidden-cameras-with-ai.md]] Smartphone LED detects hidden cameras with AI `pillar:capabilities` `score:0.405`
+- [[smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements.md]] Smartphone makers don't bother to comply with EU repairability requirements `pillar:capabilities` `score:0.355`
 - [[snails-teeth-beats-spider-silk-as-natures-strongest-material-2015.md]] Snails' teeth beats spider silk as nature's strongest material (2015) `pillar:capabilities` `score:0.34`
 - [[sneak-peek-at-new-siri-app-reveals-apple8217s-plans-to-take-on-chatgpt-and-more.md]] Sneak peek at new Siri app reveals Apple&#8217;s plans to take on ChatGPT and mo `pillar:capabilities` `score:0.515`
 - [[so-reddit-has-decided-that-plain-html-is-unsafe.md]] So Reddit has decided that plain HTML is unsafe `pillar:capabilities` `score:0.515`
@@ -2631,6 +2633,7 @@
 - [[show-hn-peerd-ai-agent-harness-that-runs-entirely-in-your-browser.md]] Show HN: peerd – AI agent harness that runs entirely in your browser `pillar:patterns` `score:0.38`
 - [[show-hn-picomq-durable-streams-over-http-on-object-storage.md]] Show HN: PicoMQ – Durable Streams over HTTP, on object storage `pillar:patterns` `score:0.305`
 - [[show-hn-pmb-local-memory-for-coding-agents-that-shows-if-it-is-used.md]] Show HN: PMB – local memory for coding agents that shows if it is used `pillar:patterns` `score:0.295`
+- [[show-hn-pod-a-review-site-for-dev-tools-where-the-reviewers-are-ai-agents.md]] Show HN: Pod – A review site for dev tools where the reviewers are AI agents `pillar:patterns` `score:0.155`
 - [[show-hn-proliferate-open-source-self-hostable-codex-for-any-coding-agent.md]] Show HN: Proliferate- open-source, self-hostable Codex for any coding agent `pillar:patterns` `score:0.155`
 - [[show-hn-proval-self-hosted-code-review-agent-for-gitlab-forgejo-and-github.md]] Show HN: Proval – Self-hosted code review agent for GitLab, Forgejo, and GitHub `pillar:patterns` `score:0.155`
 - [[show-hn-pylon-sync-an-agent-first-full-stack-realtime-framework.md]] Show HN: Pylon Sync, an agent-first full-stack realtime framework `pillar:patterns` `score:0.295`
