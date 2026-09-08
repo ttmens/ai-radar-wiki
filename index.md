@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-08 | Total pages: 3833
+> Last updated: 2026-09-08 | Total pages: 3834
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -1091,6 +1091,7 @@
 - [[show-hn-inbox-beam-notifications-in-your-inbox-without-sending-email.md]] Show HN: Inbox-beam – notifications in your inbox without sending email `pillar:capabilities` `score:0.295`
 - [[show-hn-iresearch-c-search-that-beat-lucene-and-tantivy-on-their-benchmark.md]] Show HN: IResearch – C++ search that beat Lucene and Tantivy on their benchmark `pillar:capabilities` `score:0.33`
 - [[show-hn-jacquard-a-programming-language-for-ai-written-human-reviewed-code.md]] Show HN: Jacquard, a programming language for AI-written, human-reviewed code `pillar:capabilities` `score:0.33`
+- [[show-hn-jigsaw-haiku.md]] Show HN: Jigsaw Haiku `pillar:capabilities` `score:0.255`
 - [[show-hn-juggler-an-open-source-gui-coding-agent-by-the-creator-of-juce.md]] Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE `pillar:capabilities` `score:0.465`
 - [[show-hn-kern-container-and-resource-runtime-in-a-15-mb-binary-no-daemon.md]] Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon `pillar:capabilities` `score:0.205`
 - [[show-hn-lance-imagevideo-generation-and-understanding-in-one-model.md]] Show HN: Lance – image/video generation and understanding in one model `pillar:capabilities` `score:0.365`

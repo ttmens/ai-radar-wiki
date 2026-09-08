@@ -3973,3 +3973,6 @@
 - create: coop-isolated-vm-environments-for-running-claude-code-and-codex.md
 - create: opaque-recurrence-and-other-ai-terms-that-you-should-probably-know.md
 - create: show-hn-send-flowers-from-your-ai-agent-and-make-your-mum-happy.md
+
+## [2026-09-08 12:02] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: show-hn-jigsaw-haiku.md
