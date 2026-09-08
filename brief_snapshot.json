@@ -1,8 +1,19 @@
 {
   "date": "2026-09-08",
-  "generated_at": "2026-09-08T12:02:10.822080+08:00",
-  "item_count": 4,
+  "generated_at": "2026-09-08T18:02:12.546066+08:00",
+  "item_count": 6,
   "items": [
+    {
+      "id": "mistral-raises-3b",
+      "label": "Mistral raises €3B",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49605767",
+      "date": "2026-09-08"
+    },
     {
       "id": "de-brainrot-vacations",
       "label": "De-Brainrot Vacations",
@@ -37,6 +48,17 @@
       "date": "2026-09-08"
     },
     {
+      "id": "theres-a-new-google-jail-for-independent-wikis",
+      "label": "There's a new \"Google Jail\" for independent wikis",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49604870",
+      "date": "2026-09-08"
+    },
+    {
       "id": "initial-effects-of-ai-technology-on-employment-look-positive",
       "label": "Initial effects of AI technology on employment look positive",
       "summary": "暂无中文摘要",
@@ -49,7 +71,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 8252,
-    "edges": 8792
+    "real_nodes": 8259,
+    "edges": 8799
   }
 }

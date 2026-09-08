@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-08 | Total pages: 3834
+> Last updated: 2026-09-08 | Total pages: 3841
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -184,6 +184,7 @@
 - [[arena-ai-model-elo-history.md]] Arena AI Model ELO History `pillar:capabilities` `score:0.465`
 - [[arga-labs-is-building-a-better-way-to-train-enterprise-ai-agents.md]] Arga Labs is building a better way to train enterprise AI agents `pillar:capabilities` `score:0.305`
 - [[arithmetic-without-numbers-how-llms-do-math.md]] Arithmetic Without Numbers – How LLMs Do Math `pillar:capabilities` `score:0.43`
+- [[arm-mali-g2-ultra-nx-gpu-desktop-class-mobile-gameplay-with-ai-native-graphics.md]] Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics `pillar:capabilities` `score:0.205`
 - [[artificial-intelligence-ars-notoria-and-the-promise-of-instant-knowledge.md]] Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge `pillar:capabilities` `score:0.43`
 - [[artificial-intelligence-is-not-conscious-ted-chiang.md]] Artificial intelligence is not conscious – Ted Chiang `pillar:capabilities` `score:0.595`
 - [[as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it.md]] As AI content floods the internet, Pangram raises $9M to detect it `pillar:capabilities` `score:0.445`
@@ -595,6 +596,7 @@
 - [[i-learned-to-read-again.md]] I Learned to Read Again `pillar:capabilities` `score:0.345`
 - [[i-love-llms-i-hate-hype.md]] I love LLMs, I hate hype `pillar:capabilities` `score:0.635`
 - [[i-spent-266-and-four-ai-models-to-own-my-tablet-glm-53-finished-it-in-a-day.md]] I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day `pillar:capabilities` `score:0.505`
+- [[i-tested-10-modelharness-combinations-on-the-same-threejs-task.md]] I tested 10 model/harness combinations on the same Three.js task `pillar:capabilities` `score:0.255`
 - [[i-think-anthropic-and-openai-have-found-product-market-fit.md]] I think Anthropic and OpenAI have found product-market fit `pillar:capabilities` `score:0.665`
 - [[i-think-i-have-llm-burnout.md]] I Think I Have LLM Burnout `pillar:capabilities` `score:0.515`
 - [[i-think-you-might-be-fooling-yourself-with-ai.md]] I Think You Might Be Fooling Yourself with AI `pillar:capabilities` `score:0.43`
@@ -763,6 +765,7 @@
 - [[mindsdbminds-platform.md]] mindsdb/minds-platform `pillar:capabilities` `score:0.405`
 - [[mira-multiplayer-interactive-world-models-trained-on-rocket-league.md]] MIRA: Multiplayer Interactive World Models Trained on Rocket League `pillar:capabilities` `score:0.33`
 - [[mistral-ocr-4.md]] Mistral OCR 4 `pillar:capabilities` `score:0.53`
+- [[mistral-raises-3b.md]] Mistral raises €3B `pillar:capabilities` `score:0.455`
 - [[mistrals-robostral-navigate-a-state-of-the-art-robotics-navigation-model.md]] Mistral's Robostral Navigate: a state of the art robotics navigation model `pillar:capabilities` `score:0.515`
 - [[mits-ad-hoc-committee-on-ai-use-in-teaching-learning-and-research-training.md]] MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training `pillar:capabilities` `score:0.305`
 - [[mlc-aiweb-llm.md]] mlc-ai/web-llm `pillar:capabilities` `score:0.615`
@@ -1327,6 +1330,7 @@
 - [[the-zoom-hack-that-says-8216don8217t-record-me8217.md]] The Zoom hack that says, &#8216;Don&#8217;t record me&#8217; `pillar:capabilities` `score:0.445`
 - [[theker-just-raised-85m-to-build-the-factory-robot-that-doesn8217t-specialize-in.md]] Theker just raised $85M to build the factory robot that doesn&#8217;t specialize `pillar:capabilities` `score:0.41`
 - [[there-is-life-before-main-in-rust.md]] There Is Life Before Main in Rust `pillar:capabilities` `score:0.17`
+- [[theres-a-new-google-jail-for-independent-wikis.md]] There's a new "Google Jail" for independent wikis `pillar:capabilities` `score:0.305`
 - [[they-take-you-out-of-life-out-of-time-a-journey-into-spains-cave-paintings.md]] 'They take you out of life, out of time': a journey into Spain's cave paintings `pillar:capabilities` `score:0.22`
 - [[this-ai-weather-startup-is-out-forecasting-government-agencies.md]] This AI weather startup is out-forecasting government agencies `pillar:capabilities` `score:0.48`
 - [[this-startup-is-betting-india8217s-gig-economy-can-train-the-world8217s-robots.md]] This startup is betting India&#8217;s gig economy can train the world&#8217;s ro `pillar:capabilities` `score:0.48`
@@ -2407,6 +2411,7 @@
 - [[how-to-setup-a-local-coding-agent-on-macos.md]] How to setup a local coding agent on macOS `pillar:patterns` `score:0.53`
 - [[how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches.md]] How to use Google’s new AI agents to go beyond your standard searches `pillar:patterns` `score:0.48`
 - [[how-we-index-images-for-rag.md]] How we index images for RAG `pillar:patterns` `score:0.38`
+- [[how-well-do-agents-use-testverification-techniques.md]] How well do agents use test/verification techniques? `pillar:patterns` `score:0.255`
 - [[hubble-open-source-notetaking-app-for-you-and-your-agents.md]] Hubble: Open-source notetaking app for you and your agents `pillar:patterns` `score:0.38`
 - [[hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack.md]] Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI h `pillar:patterns` `score:0.48`
 - [[i-accidentally-turned-llm-memory-into-program-analysis.md]] I accidentally turned LLM memory into program analysis `pillar:patterns` `score:0.205`
@@ -2481,6 +2486,7 @@
 - [[mindsdbmindsdb.md]] mindsdb/mindsdb `pillar:patterns` `score:0.615`
 - [[mondragon-corporation-a-federation-of-co-operatives.md]] Mondragon Corporation – a federation of co-operatives `pillar:patterns` `score:0.41`
 - [[more-tailscale-tricks-for-your-jailbroken-kindle.md]] More Tailscale tricks for your jailbroken Kindle `pillar:patterns` `score:0.39`
+- [[multi-agents-llm-financial-trading-framework.md]] Multi-Agents LLM Financial Trading Framework `pillar:patterns` `score:0.255`
 - [[munder-difflin-agent-harness-to-run-an-office-of-your-clones.md]] Munder Difflin – Agent harness to run an office of your clones `pillar:patterns` `score:0.425`
 - [[my-agent-skill-for-test-driven-development.md]] My Agent Skill for Test-Driven Development `pillar:patterns` `score:0.43`
 - [[my-agentmd-to-improve-llm-assisted-code-quality.md]] My agent.md to improve LLM-assisted code quality `pillar:patterns` `score:0.255`
@@ -2610,6 +2616,7 @@
 - [[show-hn-i-missed-the-moving-blocks-so-i-built-a-real-linux-disk-defragmenter.md]] Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter `pillar:patterns` `score:0.155`
 - [[show-hn-i-rl-trained-an-agent-that-trains-models-with-rl-for-13k.md]] Show HN: I RL-trained an agent that trains models with RL (for –$1.3k) `pillar:patterns` `score:0.43`
 - [[show-hn-i-trained-a-125m-model-to-autocomplete-piano-on-device.md]] Show HN: I trained a 125M model to autocomplete piano on-device `pillar:patterns` `score:0.475`
+- [[show-hn-isle-managed-application-environments-for-computer-use-agents.md]] Show HN: Isle – managed application environments for computer-use agents `pillar:patterns` `score:0.155`
 - [[show-hn-kanban-cli-a-local-first-agent-first-task-manager-for-the-terminal.md]] Show HN: Kanban CLI (A local-first, agent-first task manager for the terminal) `pillar:patterns` `score:0.33`
 - [[show-hn-kastor-terraform-style-specs-for-ai-agents.md]] Show HN: Kastor – Terraform-style specs for AI agents `pillar:patterns` `score:0.33`
 - [[show-hn-komi-learn-continuous-memory-and-self-improvement-for-coding-agents.md]] Show HN: Komi-learn – continuous memory and self-improvement for coding agents `pillar:patterns` `score:0.33`

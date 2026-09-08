@@ -10,10 +10,10 @@
         "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "de-brainrot-vacations",
-            "title": "De-Brainrot Vacations",
-            "score": 0.42,
-            "url": "https://news.ycombinator.com/item?id=49597907",
+            "id": "mistral-raises-3b",
+            "title": "Mistral raises €3B",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=49605767",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -25,10 +25,31 @@
         "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
         "evidence": [
           {
+            "id": "multi-agents-llm-financial-trading-framework",
+            "title": "Multi-Agents LLM Financial Trading Framework",
+            "score": 0.26,
+            "url": "https://news.ycombinator.com/item?id=49605822",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "how-well-do-agents-use-testverification-techniques",
+            "title": "How well do agents use test/verification techniques?",
+            "score": 0.26,
+            "url": "https://news.ycombinator.com/item?id=49605246",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
             "id": "show-hn-send-flowers-from-your-ai-agent-and-make-your-mum-happy",
             "title": "Show HN: Send flowers from your AI agent and make your mum happy",
             "score": 0.15,
             "url": "https://news.ycombinator.com/item?id=49599559",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-isle-managed-application-environments-for-computer-use-agents",
+            "title": "Show HN: Isle – managed application environments for computer-use agen",
+            "score": 0.15,
+            "url": "https://www.tryisle.com",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -38,15 +59,19 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Show HN: Pod – A review site for dev too, Show HN: Send flowers from your AI agent。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：Multi-Agents LLM Financial Trading Frame, Show HN: Pod – A review site for dev too, Show HN: Send flowers from your AI agent。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       }
     ],
-    "stats": "🤖 技术能力: 8 | 📱 产品模式: 2",
-    "total_items": 10,
-    "high_value_count": 4,
+    "stats": "🤖 技术能力: 12 | 📱 产品模式: 5",
+    "total_items": 17,
+    "high_value_count": 6,
     "all_today_ids": [
+      {
+        "id": "mistral-raises-3b",
+        "label": "Mistral raises €3B"
+      },
       {
         "id": "de-brainrot-vacations",
         "label": "De-Brainrot Vacations"
@@ -60,6 +85,10 @@
         "label": "Opaque recurrence, and other AI terms that you should probably know"
       },
       {
+        "id": "theres-a-new-google-jail-for-independent-wikis",
+        "label": "There's a new \"Google Jail\" for independent wikis"
+      },
+      {
         "id": "initial-effects-of-ai-technology-on-employment-look-positive",
         "label": "Initial effects of AI technology on employment look positive"
       },
@@ -68,8 +97,24 @@
         "label": "Show HN: Jigsaw Haiku"
       },
       {
+        "id": "multi-agents-llm-financial-trading-framework",
+        "label": "Multi-Agents LLM Financial Trading Framework"
+      },
+      {
+        "id": "i-tested-10-modelharness-combinations-on-the-same-threejs-task",
+        "label": "I tested 10 model/harness combinations on the same Three.js task"
+      },
+      {
+        "id": "how-well-do-agents-use-testverification-techniques",
+        "label": "How well do agents use test/verification techniques?"
+      },
+      {
         "id": "the-dataflow-model-revisited",
         "label": "The Dataflow Model Revisited"
+      },
+      {
+        "id": "arm-mali-g2-ultra-nx-gpu-desktop-class-mobile-gameplay-with-ai-native-graphics",
+        "label": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics"
       },
       {
         "id": "trusting-trust-attack-against-an-entire-linux-distribution",
@@ -86,9 +131,13 @@
       {
         "id": "show-hn-send-flowers-from-your-ai-agent-and-make-your-mum-happy",
         "label": "Show HN: Send flowers from your AI agent and make your mum happy"
+      },
+      {
+        "id": "show-hn-isle-managed-application-environments-for-computer-use-agents",
+        "label": "Show HN: Isle – managed application environments for computer-use agents"
       }
     ],
     "date_bj": "2026-09-08 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-08 12:01:40"
+    "generated_at_bj": "2026-09-08 18:01:42"
   }
 }
