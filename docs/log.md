@@ -4004,3 +4004,35 @@
 - create: google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal.md
 - create: chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscap.md
 - create: mistral-raises-3b-as-sovereign-ai-becomes-big-business.md
+
+## [2026-09-10 00:05] sync v3 | 30 new | pillars: {'capabilities': 24, 'ecosystem': 1, 'patterns': 5}
+- create: tango-humanoid-navigation-in-cluttered-environments-with-a-whole-body-vision-lan.md
+- create: learning-length-extrapolatable-recurrent-models.md
+- create: procedural-graphs-self-evolving-execution-structures-for-llm-agents.md
+- create: silver-rate-is-almost-optimal-for-gradient-descent-acceleration.md
+- create: noah-learning-the-full-patient-journey-a-longitudinal-multimodal-time-aware-mode.md
+- create: a-data-driven-framework-for-identifying-and-prioritizing-rpa-opportunities-in-he.md
+- create: entropy-regularized-rank-masked-policy-optimization-for-test-time-reinforcement.md
+- create: co-evolving-harnesses-and-models-on-policy-correction-helps-weaker-models-catch.md
+- create: execcritic-learn-to-test-test-to-improve-for-coding-agents.md
+- create: nearly-tight-rademacher-bounds-for-sparsely-activated-neural-networks.md
+- create: a-generalization-of-amaris-bayesian-duality.md
+- create: canonical-color-as-a-lens-into-concept-decodability-in-vision-encoders-and-vlms.md
+- create: tailwind-labs-is-joining-shopify.md
+- create: desert-ant-labs-local-fast-models-that-run-on-device.md
+- create: claude-change-the-add-to-cart-button-to-blue.md
+- create: how-gpt56-sol-helps-run-quantum-computing-experiments.md
+- create: tension-wood-a-muscle-that-can-both-bend-and-straighten-plants.md
+- create: how-an-ai-math-breakthrough-ignited-a-controversy.md
+- create: tweet-and-the-bird-logo-apparently-enter-the-public-domain.md
+- create: controlai8217s-connor-leahy-on-why-superintelligence-is-not-a-weapon-it8217s-an.md
+- create: viral-ai-assistant-instinct-now-has-its-own-email-address.md
+- create: 8216gambling-with-our-lives8217-anthropic-researcher-quits-warns-against-self-im.md
+- create: shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant.md
+- create: ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warnin.md
+- create: sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-ris.md
+- create: instacart-launches-an-ai-grocery-shopping-assistant-called-clementine.md
+- create: besxar-is-building-an-orbital-semiconductor-factory-one-spacex-rocket-at-a-time.md
+- create: suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyrigh.md
+- create: show-hn-geiger-see-every-ai-agent-on-your-machine-and-what-it-can-touch.md
+- create: show-hn-typecom-multiplayer-codexclaude-in-the-cloud-for-non-tech-use-cases.md
