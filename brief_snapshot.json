@@ -1,77 +1,154 @@
 {
-  "date": "2026-09-08",
-  "generated_at": "2026-09-08T18:02:12.546066+08:00",
-  "item_count": 6,
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T08:04:08.744599+08:00",
+  "item_count": 13,
   "items": [
     {
-      "id": "mistral-raises-3b",
-      "label": "Mistral raises €3B",
+      "id": "chatgpt-images-25",
+      "label": "ChatGPT Images 2.5",
       "summary": "暂无中文摘要",
       "pm_score": 0.455,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49605767",
-      "date": "2026-09-08"
+      "url": "https://news.ycombinator.com/item?id=49614720",
+      "date": "2026-09-09"
     },
     {
-      "id": "de-brainrot-vacations",
-      "label": "De-Brainrot Vacations",
+      "id": "muse-metas-personal-ai-agent-features-and-capabilities",
+      "label": "Muse: Meta's personal AI agent, features and capabilities",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49615537",
+      "date": "2026-09-09"
+    },
+    {
+      "id": "i-have-adhd-a-skill-to-stop-coding-agents-from-burying-the-answer",
+      "label": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49610631",
+      "date": "2026-09-09"
+    },
+    {
+      "id": "the-two-christian-saints-who-are-the-buddha",
+      "label": "The two Christian saints who are the Buddha",
       "summary": "暂无中文摘要",
       "pm_score": 0.425,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49597907",
-      "date": "2026-09-08"
+      "url": "https://news.ycombinator.com/item?id=49611051",
+      "date": "2026-09-09"
     },
     {
-      "id": "smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements",
-      "label": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "id": "benchmarking-qwen38-27b-quantizations-4-bit-holds-up-1-bit-collapses",
+      "label": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
       "summary": "暂无中文摘要",
-      "pm_score": 0.355,
+      "pm_score": 0.405,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49597189",
-      "date": "2026-09-08"
+      "url": "https://news.ycombinator.com/item?id=49611128",
+      "date": "2026-09-09"
     },
     {
-      "id": "opaque-recurrence-and-other-ai-terms-that-you-should-probably-know",
-      "label": "Opaque recurrence, and other AI terms that you should probably know",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "id": "antiquated-html-snippets-and-artefacts",
+      "label": "Antiquated HTML Snippets and Artefacts",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49607991",
+      "date": "2026-09-09"
+    },
+    {
+      "id": "cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a",
+      "label": "Cognition hits $48B valuation, signaling investors believe AI coding is far from",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "date": "2026-09-09"
+    },
+    {
+      "id": "mistral-raises-3b-as-sovereign-ai-becomes-big-business",
+      "label": "Mistral raises €3B as sovereign AI becomes big business",
+      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "date": "2026-09-09"
+    },
+    {
+      "id": "chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscap",
+      "label": "Chrome is now shipping updates every 2 weeks as AI changes the security landscap",
+      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
       "pm_score": 0.305,
       "pillar": "capabilities",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "date": "2026-09-08"
+      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "date": "2026-09-09"
     },
     {
-      "id": "theres-a-new-google-jail-for-independent-wikis",
-      "label": "There's a new \"Google Jail\" for independent wikis",
-      "summary": "暂无中文摘要",
+      "id": "openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+      "label": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
       "pm_score": 0.305,
       "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49604870",
-      "date": "2026-09-08"
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "date": "2026-09-09"
     },
     {
-      "id": "initial-effects-of-ai-technology-on-employment-look-positive",
-      "label": "Initial effects of AI technology on employment look positive",
-      "summary": "暂无中文摘要",
+      "id": "google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal",
+      "label": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "date": "2026-09-09"
+    },
+    {
+      "id": "hackers-are-stealing-claude-tokens-from-subscribers",
+      "label": "Hackers are stealing Claude tokens from subscribers",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
       "pm_score": 0.305,
       "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49596610",
-      "date": "2026-09-08"
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "date": "2026-09-09"
+    },
+    {
+      "id": "meta-debuts-its-muse-ai-agent-will-consumers-trust-it",
+      "label": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "date": "2026-09-09"
     }
   ],
   "graph_totals": {
-    "real_nodes": 8259,
-    "edges": 8799
+    "real_nodes": 8276,
+    "edges": 8818
   }
 }

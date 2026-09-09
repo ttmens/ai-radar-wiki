@@ -3985,3 +3985,22 @@
 - create: arm-mali-g2-ultra-nx-gpu-desktop-class-mobile-gameplay-with-ai-native-graphics.md
 - create: i-tested-10-modelharness-combinations-on-the-same-threejs-task.md
 - create: show-hn-isle-managed-application-environments-for-computer-use-agents.md
+
+## [2026-09-09 08:04] sync v3 | 17 new | pillars: {'capabilities': 11, 'patterns': 3, 'business': 2, 'ecosystem': 1}
+- create: large-language-models-develop-novel-social-biases-through-adaptive-exploration.md
+- create: tao-open-math-problems-being-non-renewably-mined-by-ai.md
+- create: benchmarking-qwen38-27b-quantizations-4-bit-holds-up-1-bit-collapses.md
+- create: i-have-adhd-a-skill-to-stop-coding-agents-from-burying-the-answer.md
+- create: show-hn-llm-attention-visualization.md
+- create: muse-metas-personal-ai-agent-features-and-capabilities.md
+- create: the-two-christian-saints-who-are-the-buddha.md
+- create: antiquated-html-snippets-and-artefacts.md
+- create: extracting-steering-vectors-from-j-space.md
+- create: chatgpt-images-25.md
+- create: hackers-are-stealing-claude-tokens-from-subscribers.md
+- create: cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a.md
+- create: meta-debuts-its-muse-ai-agent-will-consumers-trust-it.md
+- create: openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician.md
+- create: google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal.md
+- create: chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscap.md
+- create: mistral-raises-3b-as-sovereign-ai-becomes-big-business.md
