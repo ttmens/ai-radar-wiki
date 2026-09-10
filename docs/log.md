@@ -4071,3 +4071,5 @@
 - create: apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone.md
 - create: superintelligence-is-coming-should-we-let-it.md
 - create: show-hn-hydra-open-source-agentic-terminal-with-a-pty-daemon.md
+
+## [2026-09-10 18:01] sync v3 | 0 new | pillars: {}
