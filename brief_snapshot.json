@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10T00:05:33.743928+08:00",
-  "item_count": 28,
+  "generated_at": "2026-09-10T16:05:22.657779+08:00",
+  "item_count": 55,
   "items": [
     {
       "id": "claude-change-the-add-to-cart-button-to-blue",
@@ -15,6 +15,17 @@
       "date": "2026-09-10"
     },
     {
+      "id": "airpods-5",
+      "label": "AirPods 5",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49630253",
+      "date": "2026-09-10"
+    },
+    {
       "id": "tailwind-labs-is-joining-shopify",
       "label": "Tailwind Labs is joining Shopify",
       "summary": "暂无中文摘要",
@@ -23,6 +34,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49626190",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "gpt-6-astra-looped-transformers-and-hidden-reasoning",
+      "label": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49627370",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "qwen-38-follows-gpt-55-pro-reasoning-prefills",
+      "label": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49630026",
       "date": "2026-09-10"
     },
     {
@@ -59,6 +92,28 @@
       "date": "2026-09-10"
     },
     {
+      "id": "openai-might-have-stolen-another-major-proof",
+      "label": "OpenAI might have stolen another major proof",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49638353",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "understanding-the-recent-ddos-attack-against-read-the-docs",
+      "label": "Understanding the recent DDoS attack against Read the Docs",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49628614",
+      "date": "2026-09-10"
+    },
+    {
       "id": "how-gpt56-sol-helps-run-quantum-computing-experiments",
       "label": "How GPT‑5.6 Sol helps run quantum computing experiments",
       "summary": "暂无中文摘要",
@@ -67,6 +122,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49622561",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo",
+      "label": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Du",
+      "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
       "date": "2026-09-10"
     },
     {
@@ -114,6 +180,39 @@
       "date": "2026-09-10"
     },
     {
+      "id": "openai-adds-a-prominent-ai-doomer-to-its-board-of-directors",
+      "label": "OpenAI adds a prominent AI doomer to its board of directors",
+      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "massachusetts-hits-data-centers-with-new-clean-power-rules",
+      "label": "Massachusetts hits data centers with new clean power rules",
+      "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "superintelligence-is-coming-should-we-let-it",
+      "label": "Superintelligence is coming. Should we let it?",
+      "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;demonstrating&#160;the potential dangers of deploying AI systems that are more capable than&#160;humans",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+      "date": "2026-09-10"
+    },
+    {
       "id": "sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-ris",
       "label": "Sequoia doubles down on Cymphony as AI agents create new enterprise security ris",
       "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
@@ -122,6 +221,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "apple-watch8217s-new-ai-features-are-normalizing-the-idea-that-technology-is-alw",
+      "label": "Apple Watch&#8217;s new AI features are normalizing the idea that technology is",
+      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
       "date": "2026-09-10"
     },
     {
@@ -158,6 +268,17 @@
       "date": "2026-09-10"
     },
     {
+      "id": "the-hinge-for-apple8217s-new-foldable-phone-was-built-with-ai",
+      "label": "The hinge for Apple&#8217;s new foldable phone was built with AI",
+      "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+      "date": "2026-09-10"
+    },
+    {
       "id": "suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyrigh",
       "label": "Suno replaces its AI models with a new one trained on licensed music as copyrigh",
       "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
@@ -169,6 +290,17 @@
       "date": "2026-09-10"
     },
     {
+      "id": "ai-research-startup-listen-labs-scrubbed-a-15b-funding-round-for-salesforce-talk",
+      "label": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce ta",
+      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "date": "2026-09-10"
+    },
+    {
       "id": "viral-ai-assistant-instinct-now-has-its-own-email-address",
       "label": "Viral AI assistant Instinct now has its own email address",
       "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
@@ -177,6 +309,61 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "apple-has-a-new-way-to-prove-your-iphone-photos-arent-ai-slop",
+      "label": "Apple has a new way to prove your iPhone photos aren’t AI slop",
+      "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone",
+      "label": "Apple CEO John Ternus says the best AI device is still the iPhone",
+      "summary": "The company also argued that its on-device models offer consumers more privacy.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "apple8217s-revamped-health-app-will-calculate-your-8216health-age8217-and-readin",
+      "label": "Apple&#8217;s revamped Health app will calculate your &#8216;health age&#8217; a",
+      "summary": "The update uses Apple Intelligence to make better sense of your health data.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "cross-model-agreement-as-a-deployment-time-reliability-signal-for-automatic-poly",
+      "label": "Cross-Model Agreement as a Deployment-Time Reliability Signal for Automatic Poly",
+      "summary": "In real-time colonoscopy, ground-truth annotations are unavailable at inference, so polyp segmentation models can fail silently. We propose Referee-Based Quality Estimation (RBQE), a reference-free framework measuring agreement between a primary segmentation model and an independently trained refere",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.10495v1",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "nonmaximal-sums-of-maximally-monotone-operators-under-rockafellars-constraint-qu",
+      "label": "Nonmaximal sums of maximally monotone operators under Rockafellar's constraint q",
+      "summary": "We construct counterexamples to Rockafellar's sum conjecture in which two maximally monotone operators satisfy the interior-domain condition but their sum is not maximally monotone. We give one counterexample on $c_0$ and another on $\\ell^1$ with its usual norm. We establish a general construction t",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.10487v1",
       "date": "2026-09-10"
     },
     {
@@ -199,6 +386,17 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2609.09126v1",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "a-positive-resolution-of-the-gap-entropy-conjecture",
+      "label": "A positive resolution of the gap-entropy conjecture",
+      "summary": "We prove the gap-entropy conjecture for fixed-confidence best-arm identification with independent unit-variance Gaussian arms, means in $[0,1]$, and a unique optimal arm. For each suboptimal arm $i$, let $Δ_i=μ_*-μ_i$ be its gap from the optimal mean, and write $H=\\sum_{i\\ne *}Δ_i^{-2}$. Let $p_r$ b",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.10529v1",
       "date": "2026-09-10"
     },
     {
@@ -246,6 +444,17 @@
       "date": "2026-09-10"
     },
     {
+      "id": "learning-with-covariance-matrices-principal-component-analysis-meets-learning-wi",
+      "label": "Learning with Covariance Matrices: Principal Component Analysis Meets Learning w",
+      "summary": "This feature article provides an overview of the theoretical foundations for coVariance neural networks (VNNs), i.e., graph neural networks (GNNs) operating on covariance matrices as graphs. Covariance matrices are ubiquitous across domains, and hence, the deployment of GNNs often leverages graphs o",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.10490v1",
+      "date": "2026-09-10"
+    },
+    {
       "id": "a-data-driven-framework-for-identifying-and-prioritizing-rpa-opportunities-in-he",
       "label": "A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in He",
       "summary": "Robotic Process Automation (RPA) is widely used to reduce administrative burden in United States hospitals, yet an estimated 30-50% of RPA initiatives underperform because processes are selected informally, without a repeatable method to catalogue candidates, prioritize them, match each to an automa",
@@ -254,6 +463,50 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2609.09137v1",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "semigroup-jepa-latent-dynamics-consistency-for-zero-shot-physics-generalization",
+      "label": "Semigroup-JEPA: Latent Dynamics Consistency for Zero-Shot Physics Generalization",
+      "summary": "Joint-Embedding Predictive Architecture (JEPA) world models learn a compact latent representation of the world that supports prediction and planning, but their capability to learn physics and generate physically realistic dynamics remains hitherto untested. In this work, we introduce SemiGroup-JEPA",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.10464v1",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "show-harness-just-a-vlm-agent-can-play-robots",
+      "label": "Show-Harness: Just a VLM Agent Can Play Robots",
+      "summary": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to \"play\" robots through a compact semantic interface linking intent to action",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.10522v1",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "characterizing-language-generation-in-the-limit-finite-witnesses-and-a-separatio",
+      "label": "Characterizing Language Generation in the Limit: Finite Witnesses and a Separati",
+      "summary": "Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a countable universe. Generation is possible exactly when each target can be assigned a finite positive w",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.10525v1",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "deep-learning-based-detection-of-electrical-faults-and-power-quality-disturbance",
+      "label": "Deep Learning-Based Detection of Electrical Faults and Power Quality Disturbance",
+      "summary": "More Electric Aircraft require fast and reliable monitoring of high-frequency electrical networks, yet most power quality disturbance and fault diagnosis methods are developed for conventional 50 or 60 Hz grids. This work presents a hardware-aware deep learning framework for multiclass detection of",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.10479v1",
       "date": "2026-09-10"
     },
     {
@@ -279,6 +532,17 @@
       "date": "2026-09-10"
     },
     {
+      "id": "likelihood-free-inference-with-nuisance-parameters-through-normalizing-flows",
+      "label": "Likelihood-free inference with nuisance parameters through normalizing flows",
+      "summary": "We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sample generator from the distribution of interest. We show that the statistic is near-pivotal in the",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.10534v1",
+      "date": "2026-09-10"
+    },
+    {
       "id": "tango-humanoid-navigation-in-cluttered-environments-with-a-whole-body-vision-lan",
       "label": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-La",
       "summary": "We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered environments requires continuous geometry-aware whole-body adaptation, including coordinated arm pl",
@@ -287,6 +551,28 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2609.09158v1",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "optimal-low-rank-quantum-state-tomography-with-bounded-sample-joint-measurements",
+      "label": "Optimal Low-Rank Quantum State Tomography with Bounded-Sample Joint Measurements",
+      "summary": "We determine the optimal sample complexity of low-rank quantum state tomography when each measurement may act jointly on at most $t$ samples. For sufficiently small $\\varepsilon$, estimating an unknown state on $\\mathbb{C}^d$ of rank at most $r$ to trace norm error $\\varepsilon$ with constant succes",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.10514v1",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "ibib-a-protocol-for-measuring-enterprise-ai-systems-by-serving-route-not-model-i",
+      "label": "IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model",
+      "summary": "Enterprises deploy systems, not checkpoints. Usable capability depends jointly on weights, serving route, precision, output contract, and harness, yet all 18 audited benchmarks score advertised model identifiers. We treat this as measurement error and give a protocol that makes it reportable. It has",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.10494v1",
       "date": "2026-09-10"
     },
     {
@@ -310,10 +596,21 @@
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2609.09130v1",
       "date": "2026-09-10"
+    },
+    {
+      "id": "quantum-feature-engineering-for-credit-default-prediction-when-and-why-iqp-circu",
+      "label": "Quantum Feature Engineering for Credit Default Prediction: When and Why IQP Circ",
+      "summary": "Credit default prediction is a tabular classification problem in which modest gains in F1 translate directly into reduced financial exposure. We ask whether Instantaneous Quantum Polynomial-time (IQP) circuits can produce features that improve a classifier over both its raw classical baseline and Ke",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.10505v1",
+      "date": "2026-09-10"
     }
   ],
   "graph_totals": {
-    "real_nodes": 8306,
-    "edges": 8852
+    "real_nodes": 8339,
+    "edges": 8888
   }
 }

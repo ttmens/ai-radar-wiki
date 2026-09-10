@@ -7,7 +7,7 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 安全/漏洞。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：信任/合规, 桌面/本地化, 安全/漏洞, AI Agent。",
         "evidence": [
           {
             "id": "procedural-graphs-self-evolving-execution-structures-for-llm-agents",
@@ -21,6 +21,13 @@
             "title": "ExecCritic: Learn to Test, Test to Improve for Coding Agents",
             "score": 0.3,
             "url": "http://arxiv.org/abs/2609.09133v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-harness-just-a-vlm-agent-can-play-robots",
+            "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2609.10522v1",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -39,6 +46,20 @@
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
+            "id": "show-hn-self-hosted-company-os-claude-code-and-codex-agents-in-departments",
+            "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in depar",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=49630606",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-hydra-open-source-agentic-terminal-with-a-pty-daemon",
+            "title": "Show HN: Hydra – Open-source agentic terminal with a PTY daemon",
+            "score": 0.15,
+            "url": "https://github.com/hydraterm/hydra-local",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
             "id": "show-hn-geiger-see-every-ai-agent-on-your-machine-and-what-it-can-touch",
             "title": "Show HN: Geiger – See every AI agent on your machine and what it can t",
             "score": 0.15,
@@ -54,10 +75,25 @@
         "insight": "今日🔧 工具生态方向有新的动态。",
         "evidence": [
           {
-            "id": "a-data-driven-framework-for-identifying-and-prioritizing-rpa-opportunities-in-he",
-            "title": "A Data-Driven Framework for Identifying and Prioritizing RPA Opportuni",
+            "id": "cross-model-agreement-as-a-deployment-time-reliability-signal-for-automatic-poly",
+            "title": "Cross-Model Agreement as a Deployment-Time Reliability Signal for Auto",
             "score": 0.3,
-            "url": "http://arxiv.org/abs/2609.09137v1",
+            "url": "http://arxiv.org/abs/2609.10495v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "今日💰 商业趋势方向的核心信号集中在融资/投资。",
+        "evidence": [
+          {
+            "id": "ai-research-startup-listen-labs-scrubbed-a-15b-funding-round-for-salesforce-talk",
+            "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Sal",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -67,28 +103,46 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日4条情报涉及AI Agent及相关工具生态。典型项目包括：Sequoia doubles down on Cymphony as AI a, Viral AI assistant Instinct now has its , Co-Evolving Harnesses and Models: On-Pol。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日6条情报涉及AI Agent及相关工具生态。典型项目包括：Sequoia doubles down on Cymphony as AI a, Viral AI assistant Instinct now has its , Co-Evolving Harnesses and Models: On-Pol。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
       {
+        "title": "AI安全与信任正成为规模化部署的关键挑战",
+        "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：NOAH: Learning the Full Patient Journey., A Stupid Idea for AI Alignment We Came w。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+        "type": "bottleneck",
+        "action": "建议：审查当前产品的安全/信任/合规设计，是否需要升级。这是获取企业客户的关键竞争力。"
+      },
+      {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日1条情报涉及AI商业动态。包括：Sequoia doubles down on Cymphony as AI a。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日2条情报涉及AI商业动态。包括：Sequoia doubles down on Cymphony as AI a, AI research startup Listen Labs scrubbed。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 24 | 📱 产品模式: 5 | 🔧 工具生态: 1",
-    "total_items": 30,
-    "high_value_count": 28,
+    "stats": "🤖 技术能力: 51 | 📱 产品模式: 8 | 💰 商业趋势: 1 | 🔧 工具生态: 3",
+    "total_items": 63,
+    "high_value_count": 55,
     "all_today_ids": [
       {
         "id": "claude-change-the-add-to-cart-button-to-blue",
         "label": "Claude, change the \"Add to Cart\" button to blue"
       },
       {
+        "id": "airpods-5",
+        "label": "AirPods 5"
+      },
+      {
         "id": "tailwind-labs-is-joining-shopify",
         "label": "Tailwind Labs is joining Shopify"
+      },
+      {
+        "id": "gpt-6-astra-looped-transformers-and-hidden-reasoning",
+        "label": "GPT-6 Astra, looped transformers, and hidden reasoning"
+      },
+      {
+        "id": "qwen-38-follows-gpt-55-pro-reasoning-prefills",
+        "label": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills"
       },
       {
         "id": "desert-ant-labs-local-fast-models-that-run-on-device",
@@ -103,8 +157,20 @@
         "label": "“Tweet” and the bird logo apparently enter the public domain"
       },
       {
+        "id": "openai-might-have-stolen-another-major-proof",
+        "label": "OpenAI might have stolen another major proof"
+      },
+      {
+        "id": "understanding-the-recent-ddos-attack-against-read-the-docs",
+        "label": "Understanding the recent DDoS attack against Read the Docs"
+      },
+      {
         "id": "how-gpt56-sol-helps-run-quantum-computing-experiments",
         "label": "How GPT‑5.6 Sol helps run quantum computing experiments"
+      },
+      {
+        "id": "everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo",
+        "label": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Du"
       },
       {
         "id": "controlai8217s-connor-leahy-on-why-superintelligence-is-not-a-weapon-it8217s-an",
@@ -123,8 +189,24 @@
         "label": "Tension wood: A 'muscle' that can both bend and straighten plants"
       },
       {
+        "id": "openai-adds-a-prominent-ai-doomer-to-its-board-of-directors",
+        "label": "OpenAI adds a prominent AI doomer to its board of directors"
+      },
+      {
+        "id": "massachusetts-hits-data-centers-with-new-clean-power-rules",
+        "label": "Massachusetts hits data centers with new clean power rules"
+      },
+      {
+        "id": "superintelligence-is-coming-should-we-let-it",
+        "label": "Superintelligence is coming. Should we let it?"
+      },
+      {
         "id": "sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-ris",
         "label": "Sequoia doubles down on Cymphony as AI agents create new enterprise security ris"
+      },
+      {
+        "id": "apple-watch8217s-new-ai-features-are-normalizing-the-idea-that-technology-is-alw",
+        "label": "Apple Watch&#8217;s new AI features are normalizing the idea that technology is"
       },
       {
         "id": "shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant",
@@ -139,12 +221,40 @@
         "label": "Instacart launches an AI grocery shopping assistant called Clementine"
       },
       {
+        "id": "the-hinge-for-apple8217s-new-foldable-phone-was-built-with-ai",
+        "label": "The hinge for Apple&#8217;s new foldable phone was built with AI"
+      },
+      {
         "id": "suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyrigh",
         "label": "Suno replaces its AI models with a new one trained on licensed music as copyrigh"
       },
       {
+        "id": "ai-research-startup-listen-labs-scrubbed-a-15b-funding-round-for-salesforce-talk",
+        "label": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce ta"
+      },
+      {
         "id": "viral-ai-assistant-instinct-now-has-its-own-email-address",
         "label": "Viral AI assistant Instinct now has its own email address"
+      },
+      {
+        "id": "apple-has-a-new-way-to-prove-your-iphone-photos-arent-ai-slop",
+        "label": "Apple has a new way to prove your iPhone photos aren’t AI slop"
+      },
+      {
+        "id": "apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone",
+        "label": "Apple CEO John Ternus says the best AI device is still the iPhone"
+      },
+      {
+        "id": "apple8217s-revamped-health-app-will-calculate-your-8216health-age8217-and-readin",
+        "label": "Apple&#8217;s revamped Health app will calculate your &#8216;health age&#8217; a"
+      },
+      {
+        "id": "cross-model-agreement-as-a-deployment-time-reliability-signal-for-automatic-poly",
+        "label": "Cross-Model Agreement as a Deployment-Time Reliability Signal for Automatic Poly"
+      },
+      {
+        "id": "nonmaximal-sums-of-maximally-monotone-operators-under-rockafellars-constraint-qu",
+        "label": "Nonmaximal sums of maximally monotone operators under Rockafellar's constraint q"
       },
       {
         "id": "silver-rate-is-almost-optimal-for-gradient-descent-acceleration",
@@ -153,6 +263,10 @@
       {
         "id": "a-generalization-of-amaris-bayesian-duality",
         "label": "A Generalization of Amari's Bayesian Duality"
+      },
+      {
+        "id": "a-positive-resolution-of-the-gap-entropy-conjecture",
+        "label": "A positive resolution of the gap-entropy conjecture"
       },
       {
         "id": "entropy-regularized-rank-masked-policy-optimization-for-test-time-reinforcement",
@@ -171,8 +285,28 @@
         "label": "ExecCritic: Learn to Test, Test to Improve for Coding Agents"
       },
       {
+        "id": "learning-with-covariance-matrices-principal-component-analysis-meets-learning-wi",
+        "label": "Learning with Covariance Matrices: Principal Component Analysis Meets Learning w"
+      },
+      {
         "id": "a-data-driven-framework-for-identifying-and-prioritizing-rpa-opportunities-in-he",
         "label": "A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in He"
+      },
+      {
+        "id": "semigroup-jepa-latent-dynamics-consistency-for-zero-shot-physics-generalization",
+        "label": "Semigroup-JEPA: Latent Dynamics Consistency for Zero-Shot Physics Generalization"
+      },
+      {
+        "id": "show-harness-just-a-vlm-agent-can-play-robots",
+        "label": "Show-Harness: Just a VLM Agent Can Play Robots"
+      },
+      {
+        "id": "characterizing-language-generation-in-the-limit-finite-witnesses-and-a-separatio",
+        "label": "Characterizing Language Generation in the Limit: Finite Witnesses and a Separati"
+      },
+      {
+        "id": "deep-learning-based-detection-of-electrical-faults-and-power-quality-disturbance",
+        "label": "Deep Learning-Based Detection of Electrical Faults and Power Quality Disturbance"
       },
       {
         "id": "noah-learning-the-full-patient-journey-a-longitudinal-multimodal-time-aware-mode",
@@ -183,8 +317,20 @@
         "label": "Canonical Color as a Lens into Concept Decodability in Vision Encoders and VLMs"
       },
       {
+        "id": "likelihood-free-inference-with-nuisance-parameters-through-normalizing-flows",
+        "label": "Likelihood-free inference with nuisance parameters through normalizing flows"
+      },
+      {
         "id": "tango-humanoid-navigation-in-cluttered-environments-with-a-whole-body-vision-lan",
         "label": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-La"
+      },
+      {
+        "id": "optimal-low-rank-quantum-state-tomography-with-bounded-sample-joint-measurements",
+        "label": "Optimal Low-Rank Quantum State Tomography with Bounded-Sample Joint Measurements"
+      },
+      {
+        "id": "ibib-a-protocol-for-measuring-enterprise-ai-systems-by-serving-route-not-model-i",
+        "label": "IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model"
       },
       {
         "id": "co-evolving-harnesses-and-models-on-policy-correction-helps-weaker-models-catch",
@@ -195,8 +341,36 @@
         "label": "Nearly Tight Rademacher Bounds for Sparsely Activated Neural Networks"
       },
       {
+        "id": "quantum-feature-engineering-for-credit-default-prediction-when-and-why-iqp-circu",
+        "label": "Quantum Feature Engineering for Credit Default Prediction: When and Why IQP Circ"
+      },
+      {
+        "id": "a-stupid-idea-for-ai-alignment-we-came-with-by-looking-at-specification-gaming",
+        "label": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming"
+      },
+      {
+        "id": "microsoft-says-email-spammers-are-adopting-ascii-smuggling",
+        "label": "Microsoft says email spammers are adopting ASCII smuggling"
+      },
+      {
+        "id": "training-a-38b-llm-to-0384-core-for-998",
+        "label": "Training a 3.8B LLM to 0.384 CORE for $998"
+      },
+      {
+        "id": "show-hn-self-hosted-company-os-claude-code-and-codex-agents-in-departments",
+        "label": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments"
+      },
+      {
+        "id": "openai-have-no-mathematicians-capable-of-understanding-what-they-put-out",
+        "label": "OpenAI have no mathematicians capable of understanding what they put out"
+      },
+      {
         "id": "show-hn-typecom-multiplayer-codexclaude-in-the-cloud-for-non-tech-use-cases",
         "label": "Show HN: Type.com: Multiplayer Codex/Claude in the cloud for non-tech use cases"
+      },
+      {
+        "id": "show-hn-hydra-open-source-agentic-terminal-with-a-pty-daemon",
+        "label": "Show HN: Hydra – Open-source agentic terminal with a PTY daemon"
       },
       {
         "id": "show-hn-geiger-see-every-ai-agent-on-your-machine-and-what-it-can-touch",
@@ -204,6 +378,6 @@
       }
     ],
     "date_bj": "2026-09-10 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-10 00:05:00"
+    "generated_at_bj": "2026-09-10 16:04:49"
   }
 }
