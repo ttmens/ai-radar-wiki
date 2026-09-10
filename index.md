@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-10 | Total pages: 3921
+> Last updated: 2026-09-11 | Total pages: 3928
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -127,6 +127,7 @@
 - [[altair-basic-interpreter-source-code-1975-pdf.md]] Altair Basic Interpreter Source Code (1975) [pdf] `pillar:capabilities` `score:0.155`
 - [[amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop.md]] Amazon Alexa can now alert you when something new might tempt you to shop `pillar:capabilities` `score:0.305`
 - [[amazon-now-lets-you-design-custom-merch-using-ai.md]] Amazon now lets you design custom merch using AI `pillar:capabilities` `score:0.48`
+- [[amazon-pilots-ad-services-in-chatgpt.md]] Amazon pilots ad services in ChatGPT `pillar:capabilities` `score:0.305`
 - [[amazon-will-show-ai-product-images-when-you-search-for-some-reason.md]] Amazon will show AI product images when you search for some reason `pillar:capabilities` `score:0.515`
 - [[amazon-will-stop-accepting-new-customers-for-mechanical-turk.md]] Amazon will stop accepting new customers for Mechanical Turk `pillar:capabilities` `score:0.48`
 - [[amd-ryzen-ai-halo-4k-ai-dev-kit.md]] AMD Ryzen AI Halo – $4k AI Dev Kit `pillar:capabilities` `score:0.345`
@@ -141,6 +142,7 @@
 - [[ancient-genome-duplications-laid-the-foundations-of-complex-brains.md]] Ancient genome duplications laid the foundations of complex brains `pillar:capabilities` `score:0.225`
 - [[android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-feature.md]] Android 17 launches with new multitasking tools as Google expands Gemini feature `pillar:capabilities` `score:0.48`
 - [[angels-in-coptic-magic-i-introduction.md]] Angels in Coptic Magic I: Introduction `pillar:capabilities` `score:0.085`
+- [[another-researcher-says-openai-trained-on-conversations-then-claimed-breakthrou.md]] Another researcher says OpenAI trained on conversations, then claimed breakthrou `pillar:capabilities` `score:0.425`
 - [[anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026.md]] Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 `pillar:capabilities` `score:0.305`
 - [[anthropic-apologizes-for-invisible-claude-fable-guardrails.md]] Anthropic apologizes for invisible Claude Fable guardrails `pillar:capabilities` `score:0.63`
 - [[anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label.md]] Anthropic gets its first court win over the Pentagon’s supply-chain risk label `pillar:capabilities` `score:0.305`
@@ -1278,6 +1280,7 @@
 - [[techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-exti.md]] TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and e `pillar:capabilities` `score:0.305`
 - [[techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive.md]] TechCrunch Mobility: The AI skills arms race is coming for automotive `pillar:capabilities` `score:0.445`
 - [[tectonic-a-modernized-complete-self-contained-texlatex-engine.md]] Tectonic: A modernized, complete, self-contained TeX/LaTeX engine `pillar:capabilities` `score:0.325`
+- [[tell-hn-openai-keeps-re-enabling-the-allow-training-setting.md]] Tell HN: OpenAI keeps re-enabling the 'allow training' setting `pillar:capabilities` `score:0.425`
 - [[tencentncnn.md]] Tencent/ncnn `pillar:capabilities` `score:0.58`
 - [[tension-wood-a-muscle-that-can-both-bend-and-straighten-plants.md]] Tension wood: A 'muscle' that can both bend and straighten plants `pillar:capabilities` `score:0.305`
 - [[tensorflowtfjs.md]] tensorflow/tfjs `pillar:capabilities` `score:0.58`
@@ -2302,6 +2305,7 @@
 - [[ai-agent-guidelines-for-cs336-at-stanford.md]] AI Agent Guidelines for CS336 at Stanford `pillar:patterns` `score:0.58`
 - [[ai-agent-runs-amok-in-fedora-and-elsewhere.md]] AI agent runs amok in Fedora and elsewhere `pillar:patterns` `score:0.48`
 - [[ai-agent-trmnl.md]] AI Agent – TRMNL `pillar:patterns` `score:0.295`
+- [[ai-agents-are-flooding-public-services-with-new-requests.md]] AI agents are flooding public services with new requests `pillar:patterns` `score:0.305`
 - [[ai-demands-more-engineering-discipline-not-less.md]] AI demands more engineering discipline. Not less `pillar:patterns` `score:0.395`
 - [[ai-driven-memory-crunch-jolts-india8217s-smartphone-market.md]] AI-driven memory crunch jolts India&#8217;s smartphone market `pillar:patterns` `score:0.305`
 - [[ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-st.md]] AI hedge fund Situational Awareness may have sold its public portfolio, but it s `pillar:patterns` `score:0.305`
@@ -2566,6 +2570,7 @@
 - [[notion-just-turned-its-workspace-into-a-hub-for-ai.md]] Notion just turned its workspace into a hub for AI agents `pillar:patterns` `score:0.305`
 - [[nousresearchhermes-agent.md]] NousResearch/hermes-agent `pillar:patterns` `score:0.405`
 - [[nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp.md]] Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP `pillar:patterns` `score:0.515`
+- [[object-storage-is-all-you-need.md]] Object storage is all you need `pillar:patterns` `score:0.255`
 - [[obrasuperpowers.md]] obra/superpowers `pillar:patterns` `score:0.615`
 - [[officecli-office-suite-for-ai-agents-to-read-and-edit-microsoft-office-files.md]] OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files `pillar:patterns` `score:0.43`
 - [[okf-agent-memory-git-native-persistent-memory-for-ai-coding-agents.md]] OKF Agent Memory – Git-native persistent memory for AI coding agents `pillar:patterns` `score:0.155`
@@ -2618,6 +2623,7 @@
 - [[running-local-models-on-an-m4-with-24gb-memory.md]] Running local models on an M4 with 24GB memory `pillar:patterns` `score:0.355`
 - [[ryanair-dark-ux-patterns-summer-2026-refresher.md]] Ryanair dark UX patterns summer 2026 refresher `pillar:patterns` `score:0.55`
 - [[salesforce-acquires-ai-customer-service-platform-fin-for-36-billion.md]] Salesforce acquires AI customer service platform Fin for $3.6 billion `pillar:patterns` `score:0.305`
+- [[samsung-debuts-zhbm-prototype-stacking-memory-directly-on-ai-accelerators.md]] Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators `pillar:patterns` `score:0.155`
 - [[sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-ris.md]] Sequoia doubles down on Cymphony as AI agents create new enterprise security ris `pillar:patterns` `score:0.305`
 - [[serve-markdown-to-ai-agents-with-accept-headers.md]] Serve Markdown to AI Agents with Accept Headers `pillar:patterns` `score:0.355`
 - [[sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app.md]] Sesame, the conversational AI startup from Oculus founders, launches its iOS app `pillar:patterns` `score:0.48`
@@ -3094,6 +3100,7 @@
 - [[lukasmasuchbest-of-ml-python.md]] lukasmasuch/best-of-ml-python `pillar:ecosystem` `score:0.58`
 - [[lutzroedernetron.md]] lutzroeder/netron `pillar:ecosystem` `score:0.58`
 - [[mathematicians-issue-warning-as-ai-rapidly-gains-ground.md]] Mathematicians issue warning as AI rapidly gains ground `pillar:ecosystem` `score:0.515`
+- [[maven-robotics-wants-to-steal-your-robot-deployment-deal.md]] Maven Robotics wants to steal your robot deployment deal `pillar:ecosystem` `score:0.305`
 - [[mayor-mamdani-says-landlords-cant-use-ai-images-to-advertise.md]] Mayor Mamdani Says Landlords Can't Use AI Images to Advertise `pillar:ecosystem` `score:0.6`
 - [[mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea.md]] MCP startup Runlayer accuses Rippling of stealing its product idea `pillar:ecosystem` `score:0.48`
 - [[mempalacemempalace.md]] MemPalace/mempalace `pillar:ecosystem` `score:0.63`

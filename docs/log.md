@@ -4073,3 +4073,12 @@
 - create: show-hn-hydra-open-source-agentic-terminal-with-a-pty-daemon.md
 
 ## [2026-09-10 18:01] sync v3 | 0 new | pillars: {}
+
+## [2026-09-11 00:02] sync v3 | 7 new | pillars: {'capabilities': 3, 'patterns': 3, 'ecosystem': 1}
+- create: amazon-pilots-ad-services-in-chatgpt.md
+- create: another-researcher-says-openai-trained-on-conversations-then-claimed-breakthrou.md
+- create: tell-hn-openai-keeps-re-enabling-the-allow-training-setting.md
+- create: samsung-debuts-zhbm-prototype-stacking-memory-directly-on-ai-accelerators.md
+- create: object-storage-is-all-you-need.md
+- create: ai-agents-are-flooding-public-services-with-new-requests.md
+- create: maven-robotics-wants-to-steal-your-robot-deployment-deal.md
