@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-11 | Total pages: 3958
+> Last updated: 2026-09-11 | Total pages: 3959
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -1515,6 +1515,7 @@
 - [[words-are-a-byproduct-of-consciousness-for-llms-its-backwards.md]] Words Are a Byproduct of Consciousness. For LLMs, It's Backwards `pillar:capabilities` `score:0.5`
 - [[workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration.md]] Workers are spending over 6 hours a week botsitting AI, fueling job frustration `pillar:capabilities` `score:0.55`
 - [[working-with-ai-a-concrete-example.md]] Working With AI: A concrete example `pillar:capabilities` `score:0.38`
+- [[working-with-git-worktrees-in-magit.md]] Working with Git Worktrees in Magit `pillar:capabilities` `score:0.155`
 - [[write-code-like-a-human-will-maintain-it.md]] Write code like a human will maintain it `pillar:capabilities` `score:0.515`
 - [[writeup-16-bytes-of-x86-that-turn-matrix-rain-into-sound.md]] WriteUp: 16 Bytes of x86 that turn Matrix rain into sound `pillar:capabilities` `score:0.34`
 - [[writing-by-hand-is-good-for-your-brain.md]] Writing by hand is good for your brain `pillar:capabilities` `score:0.495`

@@ -4114,3 +4114,6 @@
 - create: india8217s-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-c.md
 - create: show-hn-multimatte-a-promptable-image-background-removal-model.md
 - create: show-hn-open-source-simulation-testing-infra-for-voice-agents.md
+
+## [2026-09-11 18:02] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: working-with-git-worktrees-in-magit.md
