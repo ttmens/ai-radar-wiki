@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-11 | Total pages: 3959
+> Last updated: 2026-09-12 | Total pages: 3964
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -292,6 +292,7 @@
 - [[claude-fable-is-relentlessly-proactive.md]] Claude Fable is relentlessly proactive `pillar:capabilities` `score:0.55`
 - [[claude-fable-produced-a-counterexample-to-the-jacobian-conjecture.md]] Claude Fable produced a counterexample to the Jacobian Conjecture `pillar:capabilities` `score:0.295`
 - [[claude-for-legal.md]] Claude for Legal `pillar:capabilities` `score:0.48`
+- [[claude-is-no-longer-available-for-minors.md]] Claude is no longer available for minors `pillar:capabilities` `score:0.455`
 - [[claude-is-not-a-compiler.md]] Claude Is Not a Compiler `pillar:capabilities` `score:0.48`
 - [[claude-is-not-your-architect-stop-letting-it-pretend.md]] Claude is not your architect. Stop letting it pretend `pillar:capabilities` `score:0.6`
 - [[claude-opus-48.md]] Claude Opus 4.8 `pillar:capabilities` `score:0.68`
@@ -605,6 +606,7 @@
 - [[hpcaitechcolossalai.md]] hpcaitech/ColossalAI `pillar:capabilities` `score:0.615`
 - [[html-in-canvas-demos.md]] HTML-in-Canvas Demos `pillar:capabilities` `score:0.225`
 - [[html-lists.md]] HTML Lists `pillar:capabilities` `score:0.475`
+- [[huggingface-securitytxt.md]] HuggingFace: Security.txt `pillar:capabilities` `score:0.205`
 - [[huggingfacedatasets.md]] huggingface/datasets `pillar:capabilities` `score:0.615`
 - [[huggingfacediffusers.md]] huggingface/diffusers `pillar:capabilities` `score:0.615`
 - [[huggingfacetransformers.md]] huggingface/transformers `pillar:capabilities` `score:0.405`
@@ -1027,6 +1029,7 @@
 - [[rotary-gpu-exploring-local-execution-for-large-moe-models-under-limited-vram.md]] Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM `pillar:capabilities` `score:0.33`
 - [[rsi-is-the-new-agi-and-it8217s-just-as-hard-to-pin-down.md]] RSI is the new AGI — and it&#8217;s just as hard to pin down `pillar:capabilities` `score:0.445`
 - [[rtk-airtk.md]] rtk-ai/rtk `pillar:capabilities` `score:0.58`
+- [[rtk-reports-token-savings-but-our-cost-benchmarks-disagree.md]] RTK reports token savings, but our cost benchmarks disagree `pillar:capabilities` `score:0.305`
 - [[rtx-5090-and-m4-macbook-air-can-it-game.md]] RTX 5090 and M4 MacBook Air: Can It Game? `pillar:capabilities` `score:0.565`
 - [[rubin-tracks-skyscraper-size-asteroids-and-failed-supernovas.md]] Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas `pillar:capabilities` `score:0.31`
 - [[runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-the.md]] Runable hits $21M to bet AI agents can go from building businesses to growing th `pillar:capabilities` `score:0.305`
@@ -1112,6 +1115,7 @@
 - [[show-hn-gerrymandle-daily-puzzle-game-where-you-redraw-electoral-districts.md]] Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts `pillar:capabilities` `score:0.425`
 - [[show-hn-glycemicgpt-open-source-ai-powered-diabetes-management.md]] Show HN: GlycemicGPT – Open-source AI-powered diabetes management `pillar:capabilities` `score:0.33`
 - [[show-hn-hacker-news-with-ai-stories-filtered-out.md]] Show HN: Hacker News with AI stories filtered out `pillar:capabilities` `score:0.155`
+- [[show-hn-hacker-news-without-ai.md]] Show HN: Hacker News, without AI `pillar:capabilities` `score:0.255`
 - [[show-hn-hackers-for-granny-defense-against-industrialized-elder-fraud.md]] Show HN: Hackers for Granny (defense against industrialized elder fraud) `pillar:capabilities` `score:0.33`
 - [[show-hn-helios-what-plug-in-solar-could-generate-for-any-address-in-britain.md]] Show HN: Helios – what plug-in solar could generate for any address in Britain `pillar:capabilities` `score:0.345`
 - [[show-hn-high-res-neural-cellular-automata.md]] Show HN: High-Res Neural Cellular Automata `pillar:capabilities` `score:0.48`
@@ -1379,6 +1383,7 @@
 - [[the-us-government8217s-anthropic-models-ban-was-never-about-an-ai-jailbreak.md]] The US government&#8217;s Anthropic models ban was never about an AI jailbreak `pillar:capabilities` `score:0.305`
 - [[the-us-is-building-barriers-around-drones-and-robots-but-china-has-scale-to-get.md]] The U.S. is building barriers around drones and robots, but China has scale to g `pillar:capabilities` `score:0.305`
 - [[the-usermedia-html-element.md]] The <Usermedia> HTML Element `pillar:capabilities` `score:0.395`
+- [[the-waymo-effect-how-ai-is-quietly-making-research-less-collaborative.md]] The Waymo effect: how AI is quietly making research less collaborative `pillar:capabilities` `score:0.455`
 - [[the-ways-we-contain-claude-across-products.md]] The ways we contain Claude across products `pillar:capabilities` `score:0.43`
 - [[the-wholesale-plagiarism-of-obscure-sorrows.md]] The Wholesale Plagiarism of Obscure Sorrows `pillar:capabilities` `score:0.495`
 - [[the-wonders-of-ai-we-are-retiring-our-bug-bounty-program.md]] The Wonders of AI: We Are Retiring Our Bug Bounty Program `pillar:capabilities` `score:0.255`

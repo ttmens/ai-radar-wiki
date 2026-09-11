@@ -4117,3 +4117,10 @@
 
 ## [2026-09-11 18:02] sync v3 | 1 new | pillars: {'capabilities': 1}
 - create: working-with-git-worktrees-in-magit.md
+
+## [2026-09-12 00:02] sync v3 | 5 new | pillars: {'capabilities': 5}
+- create: the-waymo-effect-how-ai-is-quietly-making-research-less-collaborative.md
+- create: huggingface-securitytxt.md
+- create: rtk-reports-token-savings-but-our-cost-benchmarks-disagree.md
+- create: show-hn-hacker-news-without-ai.md
+- create: claude-is-no-longer-available-for-minors.md
