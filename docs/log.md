@@ -4082,3 +4082,35 @@
 - create: object-storage-is-all-you-need.md
 - create: ai-agents-are-flooding-public-services-with-new-requests.md
 - create: maven-robotics-wants-to-steal-your-robot-deployment-deal.md
+
+## [2026-09-11 16:05] sync v3 | 30 new | pillars: {'ecosystem': 3, 'capabilities': 22, 'patterns': 5}
+- create: gpu-cfr-80x-faster-counterfactual-regret-minimization-by-compiling-the-game-to-s.md
+- create: general-quantification-of-covariate-and-concept-shifts.md
+- create: data-scarcity-and-model-sparsity-mixtures-of-experts-overfit-more-to-repeated-da.md
+- create: can-edge-deployable-vision-language-models-identify-species.md
+- create: generative-marketing-mix-modeling-a-causal-inference-framework-linking-geo-and-g.md
+- create: artificial-id-drive-and-persistent-alignment-in-agentic-ai.md
+- create: from-protocols-to-evidence-bounded-claims-for-ai-in-service-of-the-common-good.md
+- create: tart-a-modular-tool-for-technique-aware-audio-to-tablature-guitar-transcription.md
+- create: mindtopo-can-foundation-models-reason-in-topological-space.md
+- create: causalarena-benchmarking-causal-discovery-in-the-foundation-model-era.md
+- create: 3d-point-splatting-for-mmwave-radar-novel-view-synthesis.md
+- create: cora-nas-coarse-ranking-and-anchor-residual-refinement-for-neural-architecture-s.md
+- create: astra-for-coding-why-are-we-doing-this-again.md
+- create: the-gemini-app-is-now-available-for-windows.md
+- create: openai-agents-api.md
+- create: cognition-launches-new-swe-2-model-rivaling-fable-51-and-gpt-astra.md
+- create: thelio-mira-ai-linux-workstation-192-gb-gpu-memory.md
+- create: more-questions-about-whether-researchers-can-trust-openai-with-unpublished-math.md
+- create: detecting-and-countering-misuse-of-ai-september-2026.md
+- create: openais-navier-stokes-release-included-a-lean-4-formal-proof.md
+- create: compute-efficient-pretraining-and-scaling-to-trillion-parameter-models.md
+- create: ai-is-breaking-this-thing-we-call-trust.md
+- create: jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year.md
+- create: openai-puts-pro-subscriptions-on-hold-due-to-astra-demand.md
+- create: anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek.md
+- create: meta8217s-ai-agent-muse-is-now-the-no-2-app-in-the-us.md
+- create: anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you.md
+- create: india8217s-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-c.md
+- create: show-hn-multimatte-a-promptable-image-background-removal-model.md
+- create: show-hn-open-source-simulation-testing-infra-for-voice-agents.md

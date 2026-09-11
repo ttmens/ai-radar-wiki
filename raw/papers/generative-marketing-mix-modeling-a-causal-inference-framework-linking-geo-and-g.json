@@ -1,0 +1,22 @@
+{
+  "title": "Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact",
+  "summary": "Generative artificial intelligence changes how firms reach customers, but standard marketing data do not record how often users see and notice a firm's name in generated answers. We develop Generative Marketing Mix Modeling (GMMM) to estimate the causal effects of Generative Engine Optimization (GEO) and Generative Engine Marketing (GEM). For GEO, GMMM combines repeated generated answers with question counts, shares of use across generative systems, and notice probabilities. For GEM, it combines records of sponsored placements with notice probabilities. GMMM compares expected business responses under alternative treatment sequences and establishes sufficient conditions for identifying the resulting effects. We investigate the empirical performance of the proposed method using simulated answers to product recommendation in English and Japanese.",
+  "url": "http://arxiv.org/abs/2609.11915v1",
+  "authors": [
+    "Masahiro Kato",
+    "Daiki Honma",
+    "Taka Kato"
+  ],
+  "published": "2026-09-10T17:57:28Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "optimization"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

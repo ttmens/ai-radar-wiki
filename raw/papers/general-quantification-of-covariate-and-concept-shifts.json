@@ -1,0 +1,20 @@
+{
+  "title": "General Quantification of Covariate and Concept Shifts",
+  "summary": "Generalization under distribution shift remains a core challenge in modern machine learning, yet existing learning bound theory is limited to narrow, idealized settings and is non-estimable from samples. In this paper, we bridge the gap between theory and practical applications. We first show that existing definition of concept shift breaks when the source and target supports mismatch. Leveraging entropic optimal transport, we propose a key notion: $γ^{*}\\!$-concept shifts, and derive a general error bound unifying covariate and $γ^{*}\\!$-concept shifts, which applies to broad loss functions, label spaces, and stochastic labeling. We further develop estimators for these shifts with concentration guarantees, and the DataShifts algorithm, which can quantify distribution shifts and estimate the error bound in most applications - a rigorous and general tool for analyzing learning error under distribution shift.",
+  "url": "http://arxiv.org/abs/2609.11918v1",
+  "authors": [
+    "Hongbo Chen",
+    "Li Charlie Xia"
+  ],
+  "published": "2026-09-10T17:57:52Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "loss function"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

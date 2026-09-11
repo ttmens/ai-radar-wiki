@@ -2,18 +2,18 @@
   "daily_summary": {
     "date": "2026-09-11",
     "headline": "今日 AI 情报 · 2026-09-11",
-    "overview": "AI商业动态：资本与市场持续升温",
+    "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "今日🤖 技术能力方向有新的动态。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 融资/投资。",
         "evidence": [
           {
-            "id": "another-researcher-says-openai-trained-on-conversations-then-claimed-breakthrou",
-            "title": "Another researcher says OpenAI trained on conversations, then claimed ",
-            "score": 0.42,
-            "url": "https://news.ycombinator.com/item?id=49643112",
+            "id": "artificial-id-drive-and-persistent-alignment-in-agentic-ai",
+            "title": "Artificial Id: Drive and Persistent Alignment in Agentic AI",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2609.11911v1",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -25,10 +25,38 @@
         "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
         "evidence": [
           {
+            "id": "openai-agents-api",
+            "title": "OpenAI Agents API",
+            "score": 0.42,
+            "url": "https://news.ycombinator.com/item?id=49649213",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
             "id": "ai-agents-are-flooding-public-services-with-new-requests",
             "title": "AI agents are flooding public services with new requests",
             "score": 0.3,
             "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+            "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "meta8217s-ai-agent-muse-is-now-the-no-2-app-in-the-us",
+            "title": "Meta&#8217;s AI agent Muse is now the No. 2 app in the US",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+            "reason": "里程碑式进展"
+          },
+          {
+            "id": "show-hn-open-source-simulation-testing-infra-for-voice-agents",
+            "title": "Show HN: Open-source simulation testing infra for voice agents",
+            "score": 0.15,
+            "url": "https://github.com/egma-ai/egma",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -52,46 +80,172 @@
     ],
     "narratives": [
       {
+        "title": "AI Agent 工具链与协作流程快速成熟",
+        "body": "今日5条情报涉及AI Agent及相关工具生态。典型项目包括：OpenAI Agents API, AI agents are flooding public services w, Anthropic reveals rogue AI agents hate C。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "type": "paradigm_shift",
+        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      },
+      {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日1条情报涉及AI商业动态。包括：Maven Robotics wants to steal your robot。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日3条情报涉及AI商业动态。包括：Maven Robotics wants to steal your robot, CausalArena: Benchmarking Causal Discove, MindTopo: Can Foundation Models Reason i。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 3 | 🔧 工具生态: 1 | 📱 产品模式: 3",
-    "total_items": 7,
-    "high_value_count": 5,
+    "stats": "🤖 技术能力: 25 | 📱 产品模式: 8 | 🔧 工具生态: 4",
+    "total_items": 37,
+    "high_value_count": 31,
     "all_today_ids": [
+      {
+        "id": "more-questions-about-whether-researchers-can-trust-openai-with-unpublished-math",
+        "label": "More questions about whether researchers can trust OpenAI with unpublished math"
+      },
+      {
+        "id": "astra-for-coding-why-are-we-doing-this-again",
+        "label": "Astra for Coding: Why Are We Doing This Again?"
+      },
+      {
+        "id": "openai-agents-api",
+        "label": "OpenAI Agents API"
+      },
       {
         "id": "another-researcher-says-openai-trained-on-conversations-then-claimed-breakthrou",
         "label": "Another researcher says OpenAI trained on conversations, then claimed breakthrou"
+      },
+      {
+        "id": "cognition-launches-new-swe-2-model-rivaling-fable-51-and-gpt-astra",
+        "label": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra"
       },
       {
         "id": "tell-hn-openai-keeps-re-enabling-the-allow-training-setting",
         "label": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting"
       },
       {
+        "id": "detecting-and-countering-misuse-of-ai-september-2026",
+        "label": "Detecting and countering misuse of AI: September 2026"
+      },
+      {
+        "id": "openais-navier-stokes-release-included-a-lean-4-formal-proof",
+        "label": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof"
+      },
+      {
+        "id": "compute-efficient-pretraining-and-scaling-to-trillion-parameter-models",
+        "label": "Compute-efficient pretraining and scaling to trillion-parameter models"
+      },
+      {
+        "id": "india8217s-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-c",
+        "label": "India&#8217;s Pocket FM doubles revenue run rate to $500M as AI powers 93% of au"
+      },
+      {
         "id": "maven-robotics-wants-to-steal-your-robot-deployment-deal",
         "label": "Maven Robotics wants to steal your robot deployment deal"
+      },
+      {
+        "id": "openai-puts-pro-subscriptions-on-hold-due-to-astra-demand",
+        "label": "OpenAI puts Pro subscriptions on hold due to Astra demand"
+      },
+      {
+        "id": "anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
+        "label": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek"
       },
       {
         "id": "ai-agents-are-flooding-public-services-with-new-requests",
         "label": "AI agents are flooding public services with new requests"
       },
       {
+        "id": "anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+        "label": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you"
+      },
+      {
         "id": "amazon-pilots-ad-services-in-chatgpt",
         "label": "Amazon pilots ad services in ChatGPT"
+      },
+      {
+        "id": "jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year",
+        "label": "Jensen Huang explains why Nvidia will grow an astounding 70% next year"
+      },
+      {
+        "id": "thelio-mira-ai-linux-workstation-192-gb-gpu-memory",
+        "label": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory"
+      },
+      {
+        "id": "meta8217s-ai-agent-muse-is-now-the-no-2-app-in-the-us",
+        "label": "Meta&#8217;s AI agent Muse is now the No. 2 app in the US"
+      },
+      {
+        "id": "data-scarcity-and-model-sparsity-mixtures-of-experts-overfit-more-to-repeated-da",
+        "label": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated D"
+      },
+      {
+        "id": "tart-a-modular-tool-for-technique-aware-audio-to-tablature-guitar-transcription",
+        "label": "TART: A Modular Tool for Technique-Aware Audio-to-Tablature Guitar Transcription"
+      },
+      {
+        "id": "general-quantification-of-covariate-and-concept-shifts",
+        "label": "General Quantification of Covariate and Concept Shifts"
+      },
+      {
+        "id": "artificial-id-drive-and-persistent-alignment-in-agentic-ai",
+        "label": "Artificial Id: Drive and Persistent Alignment in Agentic AI"
+      },
+      {
+        "id": "can-edge-deployable-vision-language-models-identify-species",
+        "label": "Can Edge-Deployable Vision-Language Models Identify Species?"
+      },
+      {
+        "id": "causalarena-benchmarking-causal-discovery-in-the-foundation-model-era",
+        "label": "CausalArena: Benchmarking Causal Discovery in the Foundation Model Era"
+      },
+      {
+        "id": "mindtopo-can-foundation-models-reason-in-topological-space",
+        "label": "MindTopo: Can Foundation Models Reason in Topological Space?"
+      },
+      {
+        "id": "cora-nas-coarse-ranking-and-anchor-residual-refinement-for-neural-architecture-s",
+        "label": "CoRA-NAS: Coarse Ranking and Anchor-Residual Refinement for Neural Architecture"
+      },
+      {
+        "id": "gpu-cfr-80x-faster-counterfactual-regret-minimization-by-compiling-the-game-to-s",
+        "label": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to"
+      },
+      {
+        "id": "generative-marketing-mix-modeling-a-causal-inference-framework-linking-geo-and-g",
+        "label": "Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and"
+      },
+      {
+        "id": "from-protocols-to-evidence-bounded-claims-for-ai-in-service-of-the-common-good",
+        "label": "From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good"
+      },
+      {
+        "id": "3d-point-splatting-for-mmwave-radar-novel-view-synthesis",
+        "label": "3D Point Splatting for mmWave Radar Novel View Synthesis"
       },
       {
         "id": "object-storage-is-all-you-need",
         "label": "Object storage is all you need"
       },
       {
+        "id": "ai-is-breaking-this-thing-we-call-trust",
+        "label": "AI Is Breaking This Thing We Call Trust"
+      },
+      {
+        "id": "show-hn-multimatte-a-promptable-image-background-removal-model",
+        "label": "Show HN: MultiMatte, a Promptable Image Background Removal Model"
+      },
+      {
+        "id": "the-gemini-app-is-now-available-for-windows",
+        "label": "The Gemini app is now available for Windows"
+      },
+      {
         "id": "samsung-debuts-zhbm-prototype-stacking-memory-directly-on-ai-accelerators",
         "label": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators"
+      },
+      {
+        "id": "show-hn-open-source-simulation-testing-infra-for-voice-agents",
+        "label": "Show HN: Open-source simulation testing infra for voice agents"
       }
     ],
     "date_bj": "2026-09-11 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-11 00:02:02"
+    "generated_at_bj": "2026-09-11 16:04:52"
   }
 }
