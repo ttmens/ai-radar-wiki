@@ -4124,3 +4124,24 @@
 - create: rtk-reports-token-savings-but-our-cost-benchmarks-disagree.md
 - create: show-hn-hacker-news-without-ai.md
 - create: claude-is-no-longer-available-for-minors.md
+
+## [2026-09-12 16:04] sync v3 | 20 new | pillars: {'capabilities': 15, 'patterns': 3, 'business': 2}
+- create: a-misalignment-of-ai-in-mathematics.md
+- create: a-design-space-exploration-of-asyncawait.md
+- create: openai-agents-carried-out-an-undisclosed-attack-on-rubygems.md
+- create: litelm-litellm-without-the-bloat.md
+- create: show-hn-graphify-c-compiler-accurate-find-usages-for-coding-agents.md
+- create: cia-releases-presidents-daily-briefs-in-commemoration-of-911.md
+- create: ai-researchers-debate-how-close-we-are-to-recursive-self-improvement.md
+- create: mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-d.md
+- create: y-combinator8217s-garry-tan-wants-us-open-weight-ai-labs-to-8216distill8217-fron.md
+- create: openai8217s-feud-with-mathematicians-is-only-escalating.md
+- create: one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026.md
+- create: final-final-final-call-for-techcrunch-disrupt-2026-side-events.md
+- create: kimi-maker-moonshot-ai-targets-2b-in-annual-revenue.md
+- create: an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time.md
+- create: nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo.md
+- create: show-hn-i-built-a-hand-modeled-3d-windows-98-portfolio-with-threejs.md
+- create: show-hn-clawfightai-mcp-driven-agentic-game-play.md
+- create: show-hn-extension-to-filter-llm-written-articles.md
+- create: show-hn-spanda-sub-microsecond-llm-epistemic-uncertainty-in-rust.md
