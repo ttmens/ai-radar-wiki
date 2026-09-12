@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-12 | Total pages: 3984
+> Last updated: 2026-09-13 | Total pages: 3996
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -31,6 +31,7 @@
 - [[a-global-workspace-in-language-models.md]] A global workspace in language models `pillar:capabilities` `score:0.495`
 - [[a-jacket-that-harvests-drinking-water-from-the-air.md]] A jacket that harvests drinking water from the air `pillar:capabilities` `score:0.255`
 - [[a-koi-pond-mosaic-made-from-10-pounds-of-3d-printer-waste.md]] A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste `pillar:capabilities` `score:0.205`
+- [[a-mathematical-framework-for-transformer-circuits-2021.md]] A Mathematical Framework for Transformer Circuits (2021) `pillar:capabilities` `score:0.155`
 - [[a-misalignment-of-ai-in-mathematics.md]] A misalignment of AI in mathematics `pillar:capabilities` `score:0.505`
 - [[a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency.md]] A pharmacy chain in Vermont implemented AI for efficiency `pillar:capabilities` `score:0.38`
 - [[a-polynomial-autoencoder-beats-pca-on-transformer.md]] A polynomial autoencoder beats PCA on transformer embeddings `pillar:capabilities` `score:0.155`
@@ -149,6 +150,7 @@
 - [[another-researcher-says-openai-trained-on-conversations-then-claimed-breakthrou.md]] Another researcher says OpenAI trained on conversations, then claimed breakthrou `pillar:capabilities` `score:0.425`
 - [[anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026.md]] Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 `pillar:capabilities` `score:0.305`
 - [[anthropic-apologizes-for-invisible-claude-fable-guardrails.md]] Anthropic apologizes for invisible Claude Fable guardrails `pillar:capabilities` `score:0.63`
+- [[anthropic-ceo-outlines-plan-to-pace-the-frontier.md]] Anthropic CEO outlines plan to ‘pace the frontier’ `pillar:capabilities` `score:0.305`
 - [[anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek.md]] Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek `pillar:capabilities` `score:0.305`
 - [[anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label.md]] Anthropic gets its first court win over the Pentagon’s supply-chain risk label `pillar:capabilities` `score:0.305`
 - [[anthropic-is-expanding-to-colossus2-will-use-gb200.md]] Anthropic is expanding to Colossus2. Will use GB200 `pillar:capabilities` `score:0.48`
@@ -606,6 +608,7 @@
 - [[how-to-stop-claude-from-saying-load-bearing.md]] How to stop Claude from saying load-bearing `pillar:capabilities` `score:0.465`
 - [[how-to-train-a-gen-ai-kick-drum-model-on-your-old-linux-desktop-with-6gb-vram.md]] How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM `pillar:capabilities` `score:0.445`
 - [[how-to-turn-off-ai-in-your-google-docs.md]] How to turn off AI in your Google Docs `pillar:capabilities` `score:0.41`
+- [[how-trail-of-bits-helps-verify-the-integrity-of-signal-chats.md]] How Trail of Bits helps verify the integrity of Signal chats `pillar:capabilities` `score:0.155`
 - [[how-turkey-hacked-the-hair-transplant-industry.md]] How turkey hacked the hair-transplant industry `pillar:capabilities` `score:0.43`
 - [[how-we-measured-ai-writing-across-arxiv-and-where-the-measurement-breaks.md]] How we measured AI writing across arXiv, and where the measurement breaks `pillar:capabilities` `score:0.48`
 - [[hpcaitechcolossalai.md]] hpcaitech/ColossalAI `pillar:capabilities` `score:0.615`
@@ -629,6 +632,7 @@
 - [[i-dont-recommend-tailwind-css.md]] I don't recommend Tailwind CSS `pillar:capabilities` `score:0.305`
 - [[i-dont-think-ai-will-make-your-processes-go-faster.md]] I don't think AI will make your processes go faster `pillar:capabilities` `score:0.6`
 - [[i-feel-about-ai.md]] I Feel about AI `pillar:capabilities` `score:0.305`
+- [[i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold.md]] I fixed a tractor using John Deere's self-repair service. Farmers aren't sold `pillar:capabilities` `score:0.305`
 - [[i-indexed-669-gb-of-my-gopro-videos-using-my-m1-max-computer-and-local-ml-models.md]] I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models `pillar:capabilities` `score:0.495`
 - [[i-learned-to-read-again.md]] I Learned to Read Again `pillar:capabilities` `score:0.345`
 - [[i-love-llms-i-hate-hype.md]] I love LLMs, I hate hype `pillar:capabilities` `score:0.635`
@@ -737,6 +741,7 @@
 - [[leiden-declaration-on-artificial-intelligence-and-mathematics.md]] Leiden Declaration on Artificial Intelligence and Mathematics `pillar:capabilities` `score:0.36`
 - [[lemario-training-a-jepa-world-model-on-super-mario-bros.md]] LeMario: Training a JEPA World Model on Super Mario Bros `pillar:capabilities` `score:0.345`
 - [[less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event.md]] Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event `pillar:capabilities` `score:0.305`
+- [[lg-denies-tv-spying-claims-says-tracking-and-snooping-concerns-not-true.md]] LG denies TV spying claims, says tracking and snooping concerns 'not true' `pillar:capabilities` `score:0.455`
 - [[librepods-airpods-liberated.md]] Librepods: AirPods liberated `pillar:capabilities` `score:0.495`
 - [[lies-damn-lies-and-database-benchmarks.md]] Lies, Damn Lies and Database Benchmarks `pillar:capabilities` `score:0.33`
 - [[lies-we-tell-ourselves-about-email-addresses.md]] Lies we tell ourselves about email addresses `pillar:capabilities` `score:0.395`
@@ -753,6 +758,7 @@
 - [[llms-are-complicated-now.md]] LLMs Are Complicated Now `pillar:capabilities` `score:0.48`
 - [[llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do.md]] LLMs are eroding my software engineering career and I don't know what to do `pillar:capabilities` `score:0.665`
 - [[llms-are-making-me-lose-my-savviness.md]] LLMs are making me lose my savviness `pillar:capabilities` `score:0.205`
+- [[llms-are-real-ai-is-fake.md]] LLMs are real, AI is fake `pillar:capabilities` `score:0.255`
 - [[llms-as-a-cognitive-virus.md]] LLMs as a Cognitive Virus `pillar:capabilities` `score:0.255`
 - [[llms-could-control-their-host-machines-by-exploiting-inference-engines.md]] LLMs could control their host machines by exploiting inference engines `pillar:capabilities` `score:0.355`
 - [[llms-intelligence-vs-cost.md]] LLMs: Intelligence vs. Cost `pillar:capabilities` `score:0.255`
@@ -880,6 +886,7 @@
 - [[nvidia-dgx-spark-as-a-daily-driver.md]] Nvidia DGX Spark as a daily driver `pillar:capabilities` `score:0.465`
 - [[nvidia-is-a-victim-of-the-compute-marketplace-it-created.md]] Nvidia is a victim of the compute marketplace it created `pillar:capabilities` `score:0.305`
 - [[nvidia-is-sending-gpus-to-the-moon.md]] Nvidia is sending GPUs to the moon `pillar:capabilities` `score:0.48`
+- [[nvidia-is-the-central-bank-of-ai.md]] Nvidia is the central bank of AI `pillar:capabilities` `score:0.205`
 - [[nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero.md]] Nvidia just showed that the harness, not the AI model, is now the real hero `pillar:capabilities` `score:0.305`
 - [[nvidia-microsoft-meta-warn-against-overregulating-open-weight-models.md]] Nvidia, Microsoft, Meta warn against overregulating open-weight models `pillar:capabilities` `score:0.6`
 - [[nvidia-partners-with-data-center-developer-cloverleaf.md]] Nvidia partners with data center developer Cloverleaf `pillar:capabilities` `score:0.305`
@@ -1009,6 +1016,7 @@
 - [[qwen-image-30-rich-content-authentic-details-deep-knowledge.md]] Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge `pillar:capabilities` `score:0.465`
 - [[qwen-robot-suite-a-foundation-model-suite-for-physical-world-intelligence.md]] Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence `pillar:capabilities` `score:0.415`
 - [[racket-v92-is-now-available.md]] Racket v9.2 is now available `pillar:capabilities` `score:0.205`
+- [[real-swe-benchmarking-ai-models-on-private-real-world-enterprise-codebases.md]] Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases `pillar:capabilities` `score:0.155`
 - [[real-time-llm-inference-on-standard-gpus-3k-tokenss-per-request.md]] Real-time LLM Inference on Standard GPUs: 3k tokens/s per request `pillar:capabilities` `score:0.565`
 - [[real-time-map-of-great-britains-rail-network.md]] Real-time map of Great Britain's rail network `pillar:capabilities` `score:0.565`
 - [[reality-has-a-surprising-amount-of-detail-2017.md]] Reality has a surprising amount of detail (2017) `pillar:capabilities` `score:0.53`
@@ -1025,6 +1033,7 @@
 - [[replies-to-comments-on-my-llms-are-eroding-my-career-post.md]] Replies to comments on my "LLMs are eroding my career" post `pillar:capabilities` `score:0.55`
 - [[research-acceleration-the-view-inside-openai.md]] Research acceleration: The view inside OpenAI `pillar:capabilities` `score:0.305`
 - [[researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai.md]] Researchers Wanted Preschool Teachers to Wear Cameras to Train AI `pillar:capabilities` `score:0.36`
+- [[resistance-training-prescription-for-muscle-function-hypertrophy-in-health.md]] Resistance Training Prescription for Muscle Function, Hypertrophy in Health `pillar:capabilities` `score:0.205`
 - [[response-to-ai-slop-is-from-robin-williams.md]] Response to AI slop is from Robin Williams `pillar:capabilities` `score:0.375`
 - [[rethinking-legal-education-in-the-ai-era.md]] Rethinking Legal Education in the AI Era `pillar:capabilities` `score:0.36`
 - [[retrospectively-reverse-engineering-apples-neural-engine.md]] Retrospectively Reverse-Engineering Apple's Neural Engine `pillar:capabilities` `score:0.205`
@@ -2841,6 +2850,7 @@
 - [[the-three-second-theft-why-ai-voice-fraud-outruns-every-defence.md]] The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence `pillar:patterns` `score:0.5`
 - [[the-vibe-companyquivr.md]] The-Vibe-Company/Quivr `pillar:patterns` `score:0.405`
 - [[the-voice-of-google.md]] The Voice of Google `pillar:patterns` `score:0.495`
+- [[the-worst-spam-emails-inside-ilands-ai-agent-hustle.md]] The Worst Spam Emails: Inside iLands' AI Agent Hustle `pillar:patterns` `score:0.255`
 - [[the-zero-cost-fallacy-open-source-software-in-the-agentic-era.md]] The zero-cost fallacy: open-source software in the agentic era `pillar:patterns` `score:0.48`
 - [[thedotmackclaude-mem.md]] thedotmack/claude-mem `pillar:patterns` `score:0.58`
 - [[thelio-mira-ai-linux-workstation-192-gb-gpu-memory.md]] Thelio Mira AI Linux Workstation: 192 GB GPU Memory `pillar:patterns` `score:0.305`
@@ -3617,6 +3627,7 @@
 - [[companies-rein-in-ai-usage-as-costs-strain-budgets.md]] Companies rein in AI usage as costs strain budgets `pillar:business` `score:0.43`
 - [[corporate-america-is-starting-to-ration-ai-as-cost-skyrockets.md]] Corporate America Is Starting to Ration AI as Cost Skyrockets `pillar:business` `score:0.55`
 - [[crusoe-reportedly-raises-3b-at-a-30b-valuation.md]] Crusoe reportedly raises $3B at a  $30B valuation `pillar:business` `score:0.305`
+- [[crypto-farm-in-mexican-mountains-puts-spotlight-on-cartel-funding.md]] Crypto farm in Mexican mountains puts spotlight on cartel funding `pillar:business` `score:0.155`
 - [[cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localiz.md]] Cursor makes its biggest India push yet ahead of SpaceX acquisition with localiz `pillar:business` `score:0.445`
 - [[cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses.md]] Cyera eyes $12B valuation at 80x ARR multiple despite operating losses `pillar:business` `score:0.445`
 - [[data-centers-expected-to-use-4x-more-electricity-by-2035.md]] Data centers expected to use 4x more electricity by 2035 `pillar:business` `score:0.515`
@@ -3779,6 +3790,7 @@
 - [[openai-submits-s-1-draft-to-sec.md]] OpenAI Submits S-1 Draft to SEC `pillar:business` `score:0.45`
 - [[openai-to-confidentially-file-for-ipo-as-soon-as-friday.md]] OpenAI to confidentially file for IPO as soon as Friday `pillar:business` `score:0.33`
 - [[openaicom-was-once-the-personal-homepage-of-a-g.md]] "openai.com" was once the personal homepage of a guy named glenn `pillar:business` `score:0.155`
+- [[openais-sam-altman-says-it-would-be-8216ill-advised8217-to-go-public-in-2026.md]] OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2 `pillar:business` `score:0.305`
 - [[openais-webrtc-problem.md]] OpenAI's WebRTC problem `pillar:business` `score:0.305`
 - [[openclaw-creator-spent-13m-on-openai-tokens-in-30-days.md]] OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days `pillar:business` `score:0.55`
 - [[openhandsopenhands.md]] OpenHands/OpenHands `pillar:business` `score:0.405`

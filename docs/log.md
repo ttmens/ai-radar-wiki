@@ -4148,3 +4148,19 @@
 
 ## [2026-09-12 18:02] sync v3 | 1 new | pillars: {'capabilities': 1}
 - create: retrospectively-reverse-engineering-apples-neural-engine.md
+
+## [2026-09-13 00:02] sync v3 | 7 new | pillars: {'capabilities': 5, 'patterns': 1, 'business': 1}
+- create: nvidia-is-the-central-bank-of-ai.md
+- create: a-mathematical-framework-for-transformer-circuits-2021.md
+- create: the-worst-spam-emails-inside-ilands-ai-agent-hustle.md
+- create: resistance-training-prescription-for-muscle-function-hypertrophy-in-health.md
+- create: crypto-farm-in-mexican-mountains-puts-spotlight-on-cartel-funding.md
+- create: llms-are-real-ai-is-fake.md
+- create: anthropic-ceo-outlines-plan-to-pace-the-frontier.md
+
+## [2026-09-13 06:02] sync v3 | 5 new | pillars: {'capabilities': 4, 'business': 1}
+- create: real-swe-benchmarking-ai-models-on-private-real-world-enterprise-codebases.md
+- create: lg-denies-tv-spying-claims-says-tracking-and-snooping-concerns-not-true.md
+- create: how-trail-of-bits-helps-verify-the-integrity-of-signal-chats.md
+- create: i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold.md
+- create: openais-sam-altman-says-it-would-be-8216ill-advised8217-to-go-public-in-2026.md
