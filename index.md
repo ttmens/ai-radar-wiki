@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-12 | Total pages: 3983
+> Last updated: 2026-09-12 | Total pages: 3984
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -1027,6 +1027,7 @@
 - [[researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai.md]] Researchers Wanted Preschool Teachers to Wear Cameras to Train AI `pillar:capabilities` `score:0.36`
 - [[response-to-ai-slop-is-from-robin-williams.md]] Response to AI slop is from Robin Williams `pillar:capabilities` `score:0.375`
 - [[rethinking-legal-education-in-the-ai-era.md]] Rethinking Legal Education in the AI Era `pillar:capabilities` `score:0.36`
+- [[retrospectively-reverse-engineering-apples-neural-engine.md]] Retrospectively Reverse-Engineering Apple's Neural Engine `pillar:capabilities` `score:0.205`
 - [[rich-sutton-on-ai-creativity-and-discovery.md]] Rich Sutton on AI creativity and discovery `pillar:capabilities` `score:0.295`
 - [[rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls.md]] Rime picks up $24M Series A to help enterprises field customer calls `pillar:capabilities` `score:0.48`
 - [[rio-de-janeiros-city-government-model-rio35-beats-qwen37-in-recent-benchmarks.md]] Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks `pillar:capabilities` `score:0.345`

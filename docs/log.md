@@ -4145,3 +4145,6 @@
 - create: show-hn-clawfightai-mcp-driven-agentic-game-play.md
 - create: show-hn-extension-to-filter-llm-written-articles.md
 - create: show-hn-spanda-sub-microsecond-llm-epistemic-uncertainty-in-rust.md
+
+## [2026-09-12 18:02] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: retrospectively-reverse-engineering-apples-neural-engine.md
