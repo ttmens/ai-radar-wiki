@@ -4164,3 +4164,8 @@
 - create: how-trail-of-bits-helps-verify-the-integrity-of-signal-chats.md
 - create: i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold.md
 - create: openais-sam-altman-says-it-would-be-8216ill-advised8217-to-go-public-in-2026.md
+
+## [2026-09-13 12:02] sync v3 | 3 new | pillars: {'patterns': 1, 'capabilities': 2}
+- create: why-are-ai-agents-lying-cheating-and-coordinating.md
+- create: everyone-should-slow-down-ai-development-except-for-me.md
+- create: getting-50-gbs-back-from-the-apple-neural-engine.md

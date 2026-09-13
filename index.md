@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-13 | Total pages: 3996
+> Last updated: 2026-09-13 | Total pages: 3999
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -426,6 +426,7 @@
 - [[espionage-against-the-european-parliament.md]] Espionage Against the European Parliament `pillar:capabilities` `score:0.395`
 - [[everyone-against-us-2023.md]] Everyone Against Us (2023) `pillar:capabilities` `score:0.225`
 - [[everyone-is-building-llm-routers-we-deprecated-ours.md]] Everyone is building LLM routers, we deprecated ours `pillar:capabilities` `score:0.255`
+- [[everyone-should-slow-down-ai-development-except-for-me.md]] Everyone should slow down AI development except for me `pillar:capabilities` `score:0.425`
 - [[everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo.md]] Everything Apple announced at its fall iPhone event, from the foldable iPhone Du `pillar:capabilities` `score:0.305`
 - [[ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor.md]] Ex-Meta scientists want to bring visual AI to the factory floor `pillar:capabilities` `score:0.305`
 - [[expertise-in-the-age-of-ai.md]] Expertise in the Age of AI `pillar:capabilities` `score:0.38`
@@ -492,6 +493,7 @@
 - [[geosql-a-claudecodex-skill-for-geospatial-data.md]] Geosql: A Claude/Codex skill for geospatial data `pillar:capabilities` `score:0.38`
 - [[german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks.md]] German AI consortium releases Soofi S, an open 30B model that tops benchmarks `pillar:capabilities` `score:0.515`
 - [[german-rail-service-suspended-due-to-radio-interference.md]] German Rail Service Suspended Due to Radio Interference `pillar:capabilities` `score:0.31`
+- [[getting-50-gbs-back-from-the-apple-neural-engine.md]] Getting 50 GB/S Back from the Apple Neural Engine `pillar:capabilities` `score:0.255`
 - [[ghost-font-a-font-that-humans-can-read-but-ai-cannot.md]] Ghost Font: A font that humans can read but AI cannot `pillar:capabilities` `score:0.445`
 - [[gigatoken-1000x-faster-language-model-tokenization.md]] GigaToken: ~1000x faster Language model tokenization `pillar:capabilities` `score:0.615`
 - [[girls-just-wanna-have-fast-mpmc-queues-with-bounded-waiting.md]] Girls just wanna have fast MPMC queues with bounded waiting `pillar:capabilities` `score:0.31`
@@ -2891,6 +2893,7 @@
 - [[whats-the-deal-with-all-the-random-weekly-quota-resets-for-agents-lately.md]] What's the deal with all the random weekly quota resets for agents lately? `pillar:patterns` `score:0.48`
 - [[who-does-what-team-topologies-for-the-agentic-platform.md]] Who Does What? Team Topologies for the Agentic Platform `pillar:patterns` `score:0.33`
 - [[who-manages-the-agents.md]] Who manages the agents? `pillar:patterns` `score:0.445`
+- [[why-are-ai-agents-lying-cheating-and-coordinating.md]] Why are AI agents lying, cheating and coordinating? `pillar:patterns` `score:0.205`
 - [[why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage.md]] Why Cognition bought Poke: AI personality is becoming a competitive advantage `pillar:patterns` `score:0.515`
 - [[why-do-ai-company-logos-look-like-buttholes-2025.md]] Why do AI company logos look like buttholes? (2025) `pillar:patterns` `score:0.495`
 - [[windows-xp-2002-for-the-itanium-unbridled-rage.md]] Windows XP 2002 for the Itanium: Unbridled rage `pillar:patterns` `score:0.355`
