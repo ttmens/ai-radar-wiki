@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T12:02:37.050236+08:00",
+  "generated_at": "2026-09-13T18:02:36.342497+08:00",
   "days_analyzed": 110,
   "pillar_trends": {
     "capabilities": {
@@ -10,9 +10,9 @@
       "has_data": true
     },
     "patterns": {
-      "trend": "down",
-      "delta": -1,
-      "current": 2,
+      "trend": "stable",
+      "delta": 0,
+      "current": 3,
       "previous": 3,
       "has_data": true
     },
@@ -848,7 +848,7 @@
         {
           "date": "2026-09-13",
           "title": "AI Agent 工具链与协作流程快速成熟",
-          "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：The Worst Spam Emails: Inside iLands' AI, Why are AI agents lying, cheating and co。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：The Worst Spam Emails: Inside iLands' AI, AgentsDock: An IDE designed for agentic , Why are AI agents lying, cheating and co。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
           "type": "paradigm_shift",
           "evidence": [
             {
@@ -856,6 +856,14 @@
               "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
               "score": 0.26,
               "url": "https://news.ycombinator.com/item?id=49671159",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "agentsdock-an-ide-designed-for-agentic-ai-research",
+              "title": "AgentsDock: An IDE designed for agentic AI research",
+              "score": 0.26,
+              "url": "https://news.ycombinator.com/item?id=49678435",
               "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "patterns"
             },
@@ -2297,5 +2305,5 @@
   ],
   "contradictions": [],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-09-13**（110天），累计 **2826** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-09-13**（110天），累计 **2827** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。"
 }

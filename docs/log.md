@@ -4169,3 +4169,6 @@
 - create: why-are-ai-agents-lying-cheating-and-coordinating.md
 - create: everyone-should-slow-down-ai-development-except-for-me.md
 - create: getting-50-gbs-back-from-the-apple-neural-engine.md
+
+## [2026-09-13 18:02] sync v3 | 1 new | pillars: {'patterns': 1}
+- create: agentsdock-an-ide-designed-for-agentic-ai-research.md

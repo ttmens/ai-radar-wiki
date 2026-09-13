@@ -32,6 +32,13 @@
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
+            "id": "agentsdock-an-ide-designed-for-agentic-ai-research",
+            "title": "AgentsDock: An IDE designed for agentic AI research",
+            "score": 0.26,
+            "url": "https://news.ycombinator.com/item?id=49678435",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
             "id": "why-are-ai-agents-lying-cheating-and-coordinating",
             "title": "Why are AI agents lying, cheating and coordinating?",
             "score": 0.2,
@@ -60,7 +67,7 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：The Worst Spam Emails: Inside iLands' AI, Why are AI agents lying, cheating and co。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：The Worst Spam Emails: Inside iLands' AI, AgentsDock: An IDE designed for agentic , Why are AI agents lying, cheating and co。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
@@ -71,8 +78,8 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 11 | 💰 商业趋势: 2 | 📱 产品模式: 2",
-    "total_items": 15,
+    "stats": "🤖 技术能力: 11 | 💰 商业趋势: 2 | 📱 产品模式: 3",
+    "total_items": 16,
     "high_value_count": 5,
     "all_today_ids": [
       {
@@ -102,6 +109,10 @@
       {
         "id": "the-worst-spam-emails-inside-ilands-ai-agent-hustle",
         "label": "The Worst Spam Emails: Inside iLands' AI Agent Hustle"
+      },
+      {
+        "id": "agentsdock-an-ide-designed-for-agentic-ai-research",
+        "label": "AgentsDock: An IDE designed for agentic AI research"
       },
       {
         "id": "llms-are-real-ai-is-fake",
@@ -137,6 +148,6 @@
       }
     ],
     "date_bj": "2026-09-13 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-13 12:02:06"
+    "generated_at_bj": "2026-09-13 18:02:04"
   }
 }
