@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-13 | Total pages: 4000
+> Last updated: 2026-09-14 | Total pages: 4003
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -588,6 +588,7 @@
 - [[hiyougallamafactory.md]] hiyouga/LlamaFactory `pillar:capabilities` `score:0.615`
 - [[homomorphically-encrypted-cifar-10-inference-in-200ms.md]] Homomorphically encrypted CIFAR-10 inference in 200ms `pillar:capabilities` `score:0.38`
 - [[hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-a.md]] Hot French startup ZML releases free product to speed inference across lots of A `pillar:capabilities` `score:0.515`
+- [[houthis-used-claude-code-to-develop-missile-guidance-software-anthropic.md]] Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic `pillar:capabilities` `score:0.205`
 - [[how-a-new-dsl-may-survive-in-the-era-of-llms.md]] How a new DSL may survive in the era of LLMs `pillar:capabilities` `score:0.295`
 - [[how-a-texas-student-blew-the-whistle-on-a-rogue-ai-hacking-attempt.md]] How a Texas student blew the whistle on a rogue AI hacking attempt `pillar:capabilities` `score:0.255`
 - [[how-accurate-have-ed-zitrons-ai-skeptic-predictions-been.md]] How accurate have Ed Zitron's AI skeptic predictions been? `pillar:capabilities` `score:0.505`
@@ -1125,6 +1126,7 @@
 - [[show-hn-dom-docx-html-to-native-editable-word-docs-mit.md]] Show HN: DOM-docx – HTML to native, editable Word docs (MIT) `pillar:capabilities` `score:0.395`
 - [[show-hn-domaintasker-avoid-losing-domains-and-surprise-renewals.md]] Show HN: DomainTasker – avoid losing domains and surprise renewals `pillar:capabilities` `score:0.19`
 - [[show-hn-echo-fable-level-results-at-13-the-cost-using-open-weight-models.md]] Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models `pillar:capabilities` `score:0.565`
+- [[show-hn-everything-a-web-page-can-learn-about-you-in-plain-english.md]] Show HN: Everything a web page can learn about you, in plain English `pillar:capabilities` `score:0.155`
 - [[show-hn-extension-to-filter-llm-written-articles.md]] Show HN: Extension to filter LLM written articles `pillar:capabilities` `score:0.155`
 - [[show-hn-feynobg-automatic-background-removal-model-and-training-library.md]] Show HN: FeyNoBg – Automatic background removal model and training library `pillar:capabilities` `score:0.43`
 - [[show-hn-find-the-best-local-llm-for-your-hardware-ranked-by-benchmarks.md]] Show HN: Find the best local LLM for your hardware, ranked by benchmarks `pillar:capabilities` `score:0.33`
@@ -1312,6 +1314,7 @@
 - [[tabfm-a-zero-shot-foundation-model-for-tabular-data.md]] TabFM: A zero-shot foundation model for tabular data `pillar:capabilities` `score:0.38`
 - [[tailcat-like-netcat-but-over-tailscales-data-plane.md]] Tailcat – Like netcat, but over Tailscale’s data plane `pillar:capabilities` `score:0.455`
 - [[tailscale-didnt-stop-the-hugging-face-intrusion.md]] Tailscale didn't stop the Hugging Face intrusion `pillar:capabilities` `score:0.425`
+- [[tailtalk-a-modern-async-user-space-appletalk-stack-with-rust-and-tokio.md]] TailTalk: A modern async user space AppleTalk stack with Rust and Tokio `pillar:capabilities` `score:0.155`
 - [[tailwind-and-slop-apps.md]] Tailwind and slop apps `pillar:capabilities` `score:0.36`
 - [[tailwind-labs-is-joining-shopify.md]] Tailwind Labs is joining Shopify `pillar:capabilities` `score:0.425`
 - [[taking-ocaml-and-eio-for-a-spin.md]] Taking OCaml and Eio for a Spin `pillar:capabilities` `score:0.225`

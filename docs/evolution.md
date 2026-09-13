@@ -20,6 +20,13 @@
 
 ## 运行日志
 
+## [2026-09-14 00:02] Evolution Run
+- Deprecated: 1 nodes
+- Pillar distribution: {'capabilities': 2324, 'ecosystem': 544, 'patterns': 646, 'business': 422, 'unknown': 4}
+- Top tags: {'capabilities': 2249, 'discussion': 1631, 'hacker-news': 1631, 'research': 936, 'news': 879}
+  🗑️ Deprecated: a-short-history-of-cerro-torre-the-most-controversial-mountain-2012.md (91d old, score=0.085)  📊 1 nodes deprecated (90d+ and score < 0.15)
+
+
 ## [2026-09-13 18:02] Evolution Run
 - Deprecated: 0 nodes
 - Pillar distribution: {'capabilities': 2321, 'ecosystem': 544, 'patterns': 646, 'business': 422, 'unknown': 4}

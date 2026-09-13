@@ -4172,3 +4172,8 @@
 
 ## [2026-09-13 18:02] sync v3 | 1 new | pillars: {'patterns': 1}
 - create: agentsdock-an-ide-designed-for-agentic-ai-research.md
+
+## [2026-09-14 00:02] sync v3 | 3 new | pillars: {'capabilities': 3}
+- create: tailtalk-a-modern-async-user-space-appletalk-stack-with-rust-and-tokio.md
+- create: houthis-used-claude-code-to-develop-missile-guidance-software-anthropic.md
+- create: show-hn-everything-a-web-page-can-learn-about-you-in-plain-english.md

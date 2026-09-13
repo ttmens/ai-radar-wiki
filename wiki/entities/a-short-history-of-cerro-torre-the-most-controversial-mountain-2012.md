@@ -1,6 +1,7 @@
 ---
 title: A short history of Cerro Torre, the most controversial mountain (2012)
 created: 2026-06-15
+deprecated: true
 updated: 2026-06-15
 type: entity
 pillar: capabilities
