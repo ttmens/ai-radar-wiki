@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-14 | Total pages: 4013
+> Last updated: 2026-09-14 | Total pages: 4017
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -107,6 +107,7 @@
 - [[ai-oss-tool-repo-goes-archived-over-night-after-raising-73m-seed.md]] AI OSS tool repo goes archived over night after raising $7.3M Seed `pillar:capabilities` `score:0.53`
 - [[ai-outperforms-law-professors-in-stanford-law-study.md]] AI outperforms law professors in Stanford Law study `pillar:capabilities` `score:0.55`
 - [[ai-researchers-debate-how-close-we-are-to-recursive-self-improvement.md]] AI researchers debate how close we are to recursive self-improvement `pillar:capabilities` `score:0.305`
+- [[ai-robots-when-will-they-be-in-our-homes.md]] AI Robots – When will they be in our homes `pillar:capabilities` `score:0.205`
 - [[ai-search-startups-are-blowing-up.md]] AI search startups are blowing up `pillar:capabilities` `score:0.515`
 - [[ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warnin.md]] AI spend per employee slumped at top firms in August — summer doldrums or a warn `pillar:capabilities` `score:0.305`
 - [[ai-tools-and-transformation.md]] AI, Tools and Transformation `pillar:capabilities` `score:0.255`
@@ -444,6 +445,7 @@
 - [[fair-work-commission-condemns-plain-wrong-ai-legal-advice.md]] Fair Work Commission condemns 'plain wrong' AI legal advice `pillar:capabilities` `score:0.255`
 - [[fairphone-6-wide-camera-experimental-linux-support.md]] Fairphone 6 wide camera experimental Linux support `pillar:capabilities` `score:0.205`
 - [[fambot-introduces-an-8216ai-chief-of-staff8217-for-families.md]] Fambot introduces an &#8216;AI chief of staff&#8217; for families `pillar:capabilities` `score:0.305`
+- [[fastaifastbook.md]] fastai/fastbook `pillar:capabilities` `score:0.405`
 - [[feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak.md]] Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak `pillar:capabilities` `score:0.665`
 - [[female-us-rower-completes-historic-solo-journey-from-california-to-hawaii.md]] Female US rower completes historic solo journey from California to Hawaii `pillar:capabilities` `score:0.355`
 - [[fender-escalates-legal-campaign-against-s-style-guitars.md]] Fender escalates legal campaign against S-style guitars `pillar:capabilities` `score:0.235`
@@ -1163,6 +1165,7 @@
 - [[show-hn-i-implemented-a-neural-network-in-sql.md]] Show HN: I implemented a neural network in SQL `pillar:capabilities` `score:0.225`
 - [[show-hn-i-made-a-claude-skill-for-spec-driven-development-sdd.md]] Show HN: I Made a Claude Skill for Spec-Driven Development (SDD) `pillar:capabilities` `score:0.295`
 - [[show-hn-i-made-a-raspberry-with-qwen-my-local-car-ai.md]] Show HN: I made a Raspberry with Qwen my local car AI `pillar:capabilities` `score:0.205`
+- [[show-hn-i-made-an-automated-day-by-day-itinerary-organizer-for-my-trip-to-spain.md]] Show HN: I made an automated day-by-day itinerary organizer for my trip to Spain `pillar:capabilities` `score:0.155`
 - [[show-hn-i-run-a-vision-model-on-every-screenshot-locally-on-a-4gb-gpu.md]] Show HN: I run a vision model on every screenshot, locally, on a 4GB GPU `pillar:capabilities` `score:0.33`
 - [[show-hn-i-simulated-closing-the-strait-of-hormuz-on-real-oil-trade-data.md]] Show HN: I simulated closing the Strait of Hormuz on real oil trade data `pillar:capabilities` `score:0.495`
 - [[show-hn-i-wrote-a-c-ray-tracer-from-scratch-without-ai.md]] Show HN: I wrote a C++ ray tracer from scratch without AI `pillar:capabilities` `score:0.27`
@@ -1536,6 +1539,7 @@
 - [[where-is-the-ai-jobs-crisis.md]] Where is the AI jobs crisis? `pillar:capabilities` `score:0.55`
 - [[which-streaming-service-was-that-on-again.md]] Which streaming service was that on again? `pillar:capabilities` `score:0.43`
 - [[which-tools-do-claude-codex-and-cursor-choose-we-measured-17k-runs-to-find-out.md]] Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out `pillar:capabilities` `score:0.355`
+- [[who-gets-to-define-the-rules-for-ai.md]] Who gets to define the rules for AI? `pillar:capabilities` `score:0.205`
 - [[who8217s-behind-the-new-stealth-model-ox-alpha.md]] Who&#8217;s behind the new ‘stealth model’ Ox Alpha? `pillar:capabilities` `score:0.305`
 - [[whos-afraid-of-chinese-models.md]] Who's afraid of Chinese models? `pillar:capabilities` `score:0.63`
 - [[why-ai-hasnt-replaced-software-engineers-and-wont.md]] Why AI hasn't replaced software engineers, and won't `pillar:capabilities` `score:0.545`

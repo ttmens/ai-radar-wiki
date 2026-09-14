@@ -2,7 +2,7 @@
   "daily_summary": {
     "date": "2026-09-14",
     "headline": "今日 AI 情报 · 2026-09-14",
-    "overview": "今日共采集 13 条情报",
+    "overview": "今日共采集 17 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -36,9 +36,9 @@
       }
     ],
     "narratives": [],
-    "stats": "🤖 技术能力: 12 | 💰 商业趋势: 1",
-    "total_items": 13,
-    "high_value_count": 6,
+    "stats": "🤖 技术能力: 16 | 💰 商业趋势: 1",
+    "total_items": 17,
+    "high_value_count": 7,
     "all_today_ids": [
       {
         "id": "garry-tan-wants-us-open-weight-ai-labs-to-distill-frontier-models-too",
@@ -51,6 +51,10 @@
       {
         "id": "the-contagion-of-fear",
         "label": "The contagion of fear"
+      },
+      {
+        "id": "fastaifastbook",
+        "label": "fastai/fastbook"
       },
       {
         "id": "the-case-against-jpeg-xl",
@@ -69,6 +73,10 @@
         "label": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]"
       },
       {
+        "id": "ai-robots-when-will-they-be-in-our-homes",
+        "label": "AI Robots – When will they be in our homes"
+      },
+      {
         "id": "open-source-ai-and-open-models-reading-list",
         "label": "Open-source AI and open models reading list"
       },
@@ -85,8 +93,16 @@
         "label": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace"
       },
       {
+        "id": "who-gets-to-define-the-rules-for-ai",
+        "label": "Who gets to define the rules for AI?"
+      },
+      {
         "id": "tailtalk-a-modern-async-user-space-appletalk-stack-with-rust-and-tokio",
         "label": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio"
+      },
+      {
+        "id": "show-hn-i-made-an-automated-day-by-day-itinerary-organizer-for-my-trip-to-spain",
+        "label": "Show HN: I made an automated day-by-day itinerary organizer for my trip to Spain"
       },
       {
         "id": "show-hn-everything-a-web-page-can-learn-about-you-in-plain-english",
@@ -94,6 +110,6 @@
       }
     ],
     "date_bj": "2026-09-14 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-14 16:03:00"
+    "generated_at_bj": "2026-09-14 18:02:06"
   }
 }

@@ -4189,3 +4189,9 @@
 - create: the-contagion-of-fear.md
 - create: what8217s-behind-the-ai-industrys-latest-warnings-of-doom.md
 - create: obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards.md
+
+## [2026-09-14 18:02] sync v3 | 4 new | pillars: {'capabilities': 4}
+- create: fastaifastbook.md
+- create: ai-robots-when-will-they-be-in-our-homes.md
+- create: who-gets-to-define-the-rules-for-ai.md
+- create: show-hn-i-made-an-automated-day-by-day-itinerary-organizer-for-my-trip-to-spain.md

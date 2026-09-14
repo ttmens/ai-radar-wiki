@@ -1,7 +1,7 @@
 {
   "date": "2026-09-14",
-  "generated_at": "2026-09-14T16:03:33.069618+08:00",
-  "item_count": 6,
+  "generated_at": "2026-09-14T18:02:36.984349+08:00",
+  "item_count": 7,
   "items": [
     {
       "id": "garry-tan-wants-us-open-weight-ai-labs-to-distill-frontier-models-too",
@@ -34,6 +34,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49689460",
+      "date": "2026-09-14"
+    },
+    {
+      "id": "fastaifastbook",
+      "label": "fastai/fastbook",
+      "summary": "The fastai book, published as Jupyter Notebooks",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/fastai/fastbook",
       "date": "2026-09-14"
     },
     {
@@ -71,7 +82,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 8431,
-    "edges": 8991
+    "real_nodes": 8435,
+    "edges": 8995
   }
 }
