@@ -4177,3 +4177,15 @@
 - create: tailtalk-a-modern-async-user-space-appletalk-stack-with-rust-and-tokio.md
 - create: houthis-used-claude-code-to-develop-missile-guidance-software-anthropic.md
 - create: show-hn-everything-a-web-page-can-learn-about-you-in-plain-english.md
+
+## [2026-09-14 16:03] sync v3 | 10 new | pillars: {'capabilities': 9, 'business': 1}
+- create: the-case-against-jpeg-xl.md
+- create: the-malicious-use-of-artificial-intelligence.md
+- create: open-source-ai-and-open-models-reading-list.md
+- create: reverse-engineering-claude-webs-microvm-uncovering-anthropics-hidden-antspace.md
+- create: sean-carroll-explains-the-biggest-ideas-in-the-universe-full-interview-video-202.md
+- create: garry-tan-wants-us-open-weight-ai-labs-to-distill-frontier-models-too.md
+- create: david-sacks-openai-and-anthropic-dont-need-regulations-to-pace-frontier-models.md
+- create: the-contagion-of-fear.md
+- create: what8217s-behind-the-ai-industrys-latest-warnings-of-doom.md
+- create: obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards.md

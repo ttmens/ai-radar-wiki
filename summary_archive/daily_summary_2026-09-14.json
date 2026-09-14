@@ -2,7 +2,7 @@
   "daily_summary": {
     "date": "2026-09-14",
     "headline": "今日 AI 情报 · 2026-09-14",
-    "overview": "今日共采集 3 条情报",
+    "overview": "今日共采集 13 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -10,10 +10,25 @@
         "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "houthis-used-claude-code-to-develop-missile-guidance-software-anthropic",
-            "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthrop",
-            "score": 0.2,
-            "url": "https://news.ycombinator.com/item?id=49684266",
+            "id": "garry-tan-wants-us-open-weight-ai-labs-to-distill-frontier-models-too",
+            "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, t",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=49685253",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "今日💰 商业趋势方向有新的动态。",
+        "evidence": [
+          {
+            "id": "david-sacks-openai-and-anthropic-dont-need-regulations-to-pace-frontier-models",
+            "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Front",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=49685991",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -21,13 +36,53 @@
       }
     ],
     "narratives": [],
-    "stats": "🤖 技术能力: 3",
-    "total_items": 3,
-    "high_value_count": 0,
+    "stats": "🤖 技术能力: 12 | 💰 商业趋势: 1",
+    "total_items": 13,
+    "high_value_count": 6,
     "all_today_ids": [
+      {
+        "id": "garry-tan-wants-us-open-weight-ai-labs-to-distill-frontier-models-too",
+        "label": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too"
+      },
+      {
+        "id": "david-sacks-openai-and-anthropic-dont-need-regulations-to-pace-frontier-models",
+        "label": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models"
+      },
+      {
+        "id": "the-contagion-of-fear",
+        "label": "The contagion of fear"
+      },
+      {
+        "id": "the-case-against-jpeg-xl",
+        "label": "The case against JPEG XL"
+      },
+      {
+        "id": "what8217s-behind-the-ai-industrys-latest-warnings-of-doom",
+        "label": "What&#8217;s behind the AI industry’s latest warnings of doom?"
+      },
+      {
+        "id": "obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards",
+        "label": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards"
+      },
+      {
+        "id": "sean-carroll-explains-the-biggest-ideas-in-the-universe-full-interview-video-202",
+        "label": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]"
+      },
+      {
+        "id": "open-source-ai-and-open-models-reading-list",
+        "label": "Open-source AI and open models reading list"
+      },
+      {
+        "id": "the-malicious-use-of-artificial-intelligence",
+        "label": "The Malicious Use of Artificial Intelligence"
+      },
       {
         "id": "houthis-used-claude-code-to-develop-missile-guidance-software-anthropic",
         "label": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic"
+      },
+      {
+        "id": "reverse-engineering-claude-webs-microvm-uncovering-anthropics-hidden-antspace",
+        "label": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace"
       },
       {
         "id": "tailtalk-a-modern-async-user-space-appletalk-stack-with-rust-and-tokio",
@@ -39,6 +94,6 @@
       }
     ],
     "date_bj": "2026-09-14 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-14 00:02:14"
+    "generated_at_bj": "2026-09-14 16:03:00"
   }
 }
