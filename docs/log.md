@@ -4195,3 +4195,29 @@
 - create: ai-robots-when-will-they-be-in-our-homes.md
 - create: who-gets-to-define-the-rules-for-ai.md
 - create: show-hn-i-made-an-automated-day-by-day-itinerary-organizer-for-my-trip-to-spain.md
+
+## [2026-09-15 08:04] sync v3 | 24 new | pillars: {'patterns': 5, 'capabilities': 18, 'business': 1}
+- create: pion-an-agent-designed-to-run-any-company-autonomously.md
+- create: openai-bots-knew-about-the-rubygems-caching-vulnerability.md
+- create: why-dont-machine-learning-research-agents-overfit.md
+- create: gpt-56-luna-vs-gpt-6-astra-is-a-120-model-good-enough-for-code-review.md
+- create: notes-on-gotchas-while-migrating-35kb-preprompts-from-opus-to-self-hosted-ollama.md
+- create: largest-known-roman-mosaic-beneath-baths-of-trajan-opens-to-the-public.md
+- create: people-who-cant-picture-anything-are-rewriting-the-science-of-imagination.md
+- create: adversarial-fashion-makes-a-statement-on-ai-panopticon.md
+- create: trying-to-make-a-loop-auto-vectorize.md
+- create: show-hn-kinesis-control-your-mac-with-the-meta-neural-band.md
+- create: claude-is-a-contrarian.md
+- create: oracles-6am-layoff-emails-hit-staff-amid-new-wave-of-cuts.md
+- create: openarch-pytorch-implementations-of-modern-llm-architectures.md
+- create: nvidia-ceo-jensen-huang-tells-trump-8216we8217re-not-going-to-let-an-ai-slowdown.md
+- create: openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says.md
+- create: with-ios-27-i8217m-actually-using-siri-again.md
+- create: fashion-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-in-you.md
+- create: microsoft8217s-new-ai-8216code-of-conduct8217-tells-models-not-to-hack-systems-o.md
+- create: only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap.md
+- create: superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-fo.md
+- create: hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026.md
+- create: 5-days-left-to-exhibit-at-techcrunch-disrupt-2026.md
+- create: a-vinyl-bar-in-shibuya-is-a-startup-from-a-former-spotify-leader-for-making-musi.md
+- create: show-hn-i-built-otis-a-minimal-ai-agent-that-runs-local-models-out-of-the-box.md
