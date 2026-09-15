@@ -4221,3 +4221,11 @@
 - create: 5-days-left-to-exhibit-at-techcrunch-disrupt-2026.md
 - create: a-vinyl-bar-in-shibuya-is-a-startup-from-a-former-spotify-leader-for-making-musi.md
 - create: show-hn-i-built-otis-a-minimal-ai-agent-that-runs-local-models-out-of-the-box.md
+
+## [2026-09-15 12:02] sync v3 | 6 new | pillars: {'capabilities': 6}
+- create: dropping-ebpf-cpu-cost-by-about-90-with-memoization-not-ai-gen.md
+- create: ex-ftc-boss-khan-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent.md
+- create: anthropic-is-in-regulatory-capture-financial-loop.md
+- create: jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too.md
+- create: show-hn-redis-city-explore-how-redis-works-in-an-interactive-3d-model.md
+- create: show-hn-sunk-cost-how-long-until-a-local-llm-rig-pays-for-itself.md

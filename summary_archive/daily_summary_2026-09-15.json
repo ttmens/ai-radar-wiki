@@ -2,12 +2,12 @@
   "daily_summary": {
     "date": "2026-09-15",
     "headline": "今日 AI 情报 · 2026-09-15",
-    "overview": "今日共采集 24 条情报",
+    "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "今日🤖 技术能力方向的核心信号集中在安全/漏洞。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：桌面/本地化, 安全/漏洞。",
         "evidence": [
           {
             "id": "openai-bots-knew-about-the-rubygems-caching-vulnerability",
@@ -64,10 +64,17 @@
         "trend": "new"
       }
     ],
-    "narratives": [],
-    "stats": "📱 产品模式: 5 | 🤖 技术能力: 18 | 💰 商业趋势: 1",
-    "total_items": 24,
-    "high_value_count": 20,
+    "narratives": [
+      {
+        "title": "AI Agent 工具链与协作流程快速成熟",
+        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Show HN: I built Otis, a minimal AI agen, Show HN: Sunk Cost – How long until a lo。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "type": "paradigm_shift",
+        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      }
+    ],
+    "stats": "📱 产品模式: 5 | 🤖 技术能力: 24 | 💰 商业趋势: 1",
+    "total_items": 30,
+    "high_value_count": 21,
     "all_today_ids": [
       {
         "id": "pion-an-agent-designed-to-run-any-company-autonomously",
@@ -122,6 +129,10 @@
         "label": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026"
       },
       {
+        "id": "jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too",
+        "label": "Jensen Huang took a call from Trump, and showed off something else, too"
+      },
+      {
         "id": "fashion-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-in-you",
         "label": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in you"
       },
@@ -154,8 +165,20 @@
         "label": "Adversarial Fashion Makes a Statement on AI Panopticon"
       },
       {
+        "id": "ex-ftc-boss-khan-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent",
+        "label": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent"
+      },
+      {
+        "id": "show-hn-sunk-cost-how-long-until-a-local-llm-rig-pays-for-itself",
+        "label": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?"
+      },
+      {
         "id": "trying-to-make-a-loop-auto-vectorize",
         "label": "Trying to Make a Loop Auto-Vectorize"
+      },
+      {
+        "id": "dropping-ebpf-cpu-cost-by-about-90-with-memoization-not-ai-gen",
+        "label": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)"
       },
       {
         "id": "largest-known-roman-mosaic-beneath-baths-of-trajan-opens-to-the-public",
@@ -164,9 +187,17 @@
       {
         "id": "show-hn-i-built-otis-a-minimal-ai-agent-that-runs-local-models-out-of-the-box",
         "label": "Show HN: I built Otis, a minimal AI agent that runs local models out of the box"
+      },
+      {
+        "id": "show-hn-redis-city-explore-how-redis-works-in-an-interactive-3d-model",
+        "label": "Show HN: Redis City – Explore how Redis works in an interactive 3D model"
+      },
+      {
+        "id": "anthropic-is-in-regulatory-capture-financial-loop",
+        "label": "Anthropic is in regulatory-capture financial loop"
       }
     ],
     "date_bj": "2026-09-15 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-15 08:04:12"
+    "generated_at_bj": "2026-09-15 12:02:06"
   }
 }
