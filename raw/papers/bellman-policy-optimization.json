@@ -1,0 +1,25 @@
+{
+  "title": "Bellman Policy Optimization",
+  "summary": "Reinforcement learning with verifiable rewards (RLVR) improves the reasoning capabilities of large language models (LLMs). We introduce Bellman Policy Optimization (BPO), a critic-free method derived from Policy Mirror Descent (PMD). For autoregressive generation with terminal rewards, BPO uses the Bellman equations to reformulate PMD as a trajectory-level objective. The reformulation avoids estimating state values at intermediate states. We prove that it has the same unique optimal solution as the original PMD objective. We derive the practical BPO loss by approximating this objective. Its mismatch-correction weight is a smoothed ratio of complementary token probabilities. Experiments on mathematical reasoning benchmarks demonstrate the effectiveness of BPO.",
+  "url": "http://arxiv.org/abs/2609.15987v1",
+  "authors": [
+    "Zhuoqing Song",
+    "Haotian Xu",
+    "Xikun Zhang",
+    "Lidong Bing"
+  ],
+  "published": "2026-09-14T17:59:47Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "benchmark",
+    "reasoning",
+    "optimization"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

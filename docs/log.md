@@ -4231,3 +4231,44 @@
 - create: show-hn-sunk-cost-how-long-until-a-local-llm-rig-pays-for-itself.md
 
 ## [2026-09-15 18:02] sync v3 | 0 new | pillars: {}
+
+## [2026-09-16 08:05] sync v3 | 39 new | pillars: {'capabilities': 29, 'ecosystem': 4, 'patterns': 5, 'business': 1}
+- create: corrupt-plans-clean-traces-evading-chain-of-thought-monitoring-with-plan-injecti.md
+- create: bellman-policy-optimization.md
+- create: stellar-colosseum-a-many-agent-harness-for-long-horizon-research-in-mathematics.md
+- create: the-router-within-eliciting-native-skill-routing-from-a-frozen-llm.md
+- create: a-chosen-future-can-still-be-rewritten-causal-writability-in-video-models.md
+- create: disentangling-representation-evolution-in-transformers-through-directional-decom.md
+- create: mind2dialogue-training-human-aware-language-models-by-simulating-user-mental-sta.md
+- create: privacy-aligned-personalized-federated-learning-with-compact-adaptation-and-vari.md
+- create: vulnerability-localization-benchmark-measuring-agentic-security-analysis-at-repo.md
+- create: recurrent-graphneural-networkswithset-basedaggregation.md
+- create: pilot-early-commit-late-a-real-options-model-of-enterprise-ai-adoption-under-rap.md
+- create: safe-meta-reinforcement-learning-via-information-space-reachability.md
+- create: introducing-system-one-models-and-jev.md
+- create: gemini-38-live-and-38-live-extended-thinking.md
+- create: why-im-still-bearish-on-llms-after-navier-stokes.md
+- create: lets-make-quality-the-norm-again.md
+- create: suspected-sabotage-causes-major-netherlands-rail-disruption.md
+- create: a-single-firm-is-behind-openai-anthropic-and-meta-hacking-scandals.md
+- create: cartesian-ai-3d-modeling-for-design.md
+- create: the-inference-hardware-revolution-of-2026.md
+- create: how-much-of-f-droid-is-llm-generated.md
+- create: ai-kill-switch-may-need-to-be-mandatory-anthropic-co-founder-tells-bbc.md
+- create: the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry.md
+- create: meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup.md
+- create: the-ai-graveyard-a-running-list-of-projects-and-startups-that-didn8217t-make-it.md
+- create: us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-b.md
+- create: ai-agents-now-have-a-place-to-snitch.md
+- create: meta-expands-subscription-push-with-new-ai-focused-plans.md
+- create: openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks.md
+- create: aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after.md
+- create: former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-pho.md
+- create: discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-dis.md
+- create: 4-days-left-to-exhibit-at-techcrunch-disrupt-2026.md
+- create: early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents.md
+- create: salesforce-and-nvidia8217s-new-reasoning-model-is-everything-the-ai-labs-should.md
+- create: show-hn-pizza-bot-an-inbox-for-ai-agents-that-work-in-the-background.md
+- create: show-hn-panel-a-research-workspace-where-the-agent-can-build-its-own-panes.md
+- create: show-hn-ordewell-turn-one-goal-into-an-ordered-plan-of-coding-agent-tasks.md
+- create: show-hn-loss-a-tiny-satire-about-ai-progress.md
