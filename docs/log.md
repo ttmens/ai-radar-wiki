@@ -4272,3 +4272,35 @@
 - create: show-hn-panel-a-research-workspace-where-the-agent-can-build-its-own-panes.md
 - create: show-hn-ordewell-turn-one-goal-into-an-ordered-plan-of-coding-agent-tasks.md
 - create: show-hn-loss-a-tiny-satire-about-ai-progress.md
+
+## [2026-09-17 00:06] sync v3 | 30 new | pillars: {'patterns': 6, 'capabilities': 20, 'ecosystem': 3, 'business': 1}
+- create: agentic-societies-need-a-social-harness.md
+- create: sciencebuddy-recursive-in-recursive-self-improvement-for-interactive-scientific.md
+- create: physstream-streaming-physics-grounded-video-generation-with-structured-scene-mem.md
+- create: when-should-llms-abstain-chain-of-self-questioning-for-selective-risk-control.md
+- create: lace-layer-wise-compression-for-dynamic-frame-rate-codecs.md
+- create: encp-episode-normalized-conformal-prediction-for-vision-and-language-navigation.md
+- create: verifiable-social-reasoning-for-llm-assistants.md
+- create: freqspanet-frequency-and-spatial-learning-of-sfpf-for-physical-layer-hardware-in.md
+- create: limix-2-a-contextual-mechanism-network-towards-general-structured-data-intellige.md
+- create: bridging-the-gap-between-homogeneous-and-heterogeneous-asynchronous-optimization.md
+- create: det-lime-detector-aware-multi-instance-local-interpretable-model-agnostic-explan.md
+- create: bias-induced-crossover-in-absolute-capacity-of-dense-associative-memory.md
+- create: mistral-x-mozilla-private-multilingual-ai-browsing.md
+- create: ps5-linux-lead-quits-a-bunch-of-noobs-using-llms-that-they-dont-understand.md
+- create: microsoft-says-ai-rival-anthropic-could-have-disastrous-impact-on-humanity.md
+- create: deepseek-v41-flash-is-now-our-best-hacking-model.md
+- create: intelligence-per-watt-measuring-intelligence-efficiency-of-local-ai.md
+- create: learning-programming-in-an-age-of-llms.md
+- create: a-warning-about-model-welfare.md
+- create: learning-to-solve-hard-problems-in-rl-for-llms-by-never-giving-up.md
+- create: datamimic-dont-let-your-coding-agent-invent-its-own-test-world.md
+- create: robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techc.md
+- create: threads8217-new-features-let-podcasters-promote-shows-and-reach-listeners.md
+- create: next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrup.md
+- create: 3-days-left-to-exhibit-get-your-brand-in-front-of-vcs-and-high-value-leads-at-te.md
+- create: sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us.md
+- create: former-infosys-chief8217s-ai-startup-nabs-another-53m.md
+- create: amazon-launches-alexa-in-india-with-hindi-support.md
+- create: we-don8217t-need-ai-regulation-leave-safety-to-us-nvidia8217s-jensen-huang-says.md
+- create: show-hn-how-stale-is-your-ai-release-age-and-training-cutoff-for-20-models.md
