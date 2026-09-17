@@ -1,8 +1,19 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T00:06:23.198937+08:00",
-  "item_count": 25,
+  "generated_at": "2026-09-17T16:04:52.173156+08:00",
+  "item_count": 53,
   "items": [
+    {
+      "id": "training-a-4b-model-to-produce-81-faster-query-plans-than-postgres",
+      "label": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.475,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49731285",
+      "date": "2026-09-17"
+    },
     {
       "id": "ps5-linux-lead-quits-a-bunch-of-noobs-using-llms-that-they-dont-understand",
       "label": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
@@ -26,6 +37,28 @@
       "date": "2026-09-17"
     },
     {
+      "id": "xiaomi-mimo-26-live-post-training-dashboard",
+      "label": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49732270",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "bmad-code-orgbmad-method",
+      "label": "bmad-code-org/BMAD-METHOD",
+      "summary": "Breakthrough Method for Agile Ai Driven Development",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+      "date": "2026-09-17"
+    },
+    {
       "id": "learning-programming-in-an-age-of-llms",
       "label": "Learning Programming in an Age of LLMs",
       "summary": "暂无中文摘要",
@@ -37,6 +70,17 @@
       "date": "2026-09-17"
     },
     {
+      "id": "openspec-a-lightweight-and-configurable-ai-spec-framework",
+      "label": "OpenSpec – A lightweight and configurable AI spec framework",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49734264",
+      "date": "2026-09-17"
+    },
+    {
       "id": "a-warning-about-model-welfare",
       "label": "A warning about 'model welfare'",
       "summary": "暂无中文摘要",
@@ -45,6 +89,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49727580",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first",
+      "label": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
       "date": "2026-09-17"
     },
     {
@@ -70,6 +125,17 @@
       "date": "2026-09-17"
     },
     {
+      "id": "snap-tries-to-make-the-case-again-for-its-2200-smart-glasses",
+      "label": "Snap tries to make the case again for its $2,200 smart glasses",
+      "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "date": "2026-09-17"
+    },
+    {
       "id": "amazon-launches-alexa-in-india-with-hindi-support",
       "label": "Amazon launches Alexa+ in India with Hindi support",
       "summary": "Amazon is letting all customers use Alexa+ assistant in early access period.",
@@ -78,6 +144,39 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "vectorized-and-performance-portable-quicksort-2022",
+      "label": "Vectorized and performance-portable Quicksort (2022)",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49731054",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-indepen",
+      "label": "Anthropic and OpenAI want to embed safety evaluators. Will they really be indepe",
+      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "anthropic-merges-claude-chat-and-cowork-in-one-interface",
+      "label": "Anthropic merges Claude chat and Cowork in one interface",
+      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
       "date": "2026-09-17"
     },
     {
@@ -103,6 +202,17 @@
       "date": "2026-09-17"
     },
     {
+      "id": "your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-lela",
+      "label": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and",
+      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "date": "2026-09-17"
+    },
+    {
       "id": "we-don8217t-need-ai-regulation-leave-safety-to-us-nvidia8217s-jensen-huang-says",
       "label": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Hu",
       "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
@@ -111,6 +221,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "harnesstax-how-much-does-the-harness-matter-for-coding-agents",
+      "label": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49733726",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "after-accusations-of-selling-8216perv-glasses8217-meta-prepares-to-sell-a-pair-w",
+      "label": "After accusations of selling &#8216;perv glasses,&#8217; Meta prepares to sell a",
+      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
       "date": "2026-09-17"
     },
     {
@@ -147,6 +279,50 @@
       "date": "2026-09-17"
     },
     {
+      "id": "iceland-based-treble-raises-18-million-for-its-voice-simulation-platform",
+      "label": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "your-ai-agents-can-now-control-your-google-home-devices",
+      "label": "Your AI agents can now control your Google Home devices",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "breaking-the-158-bit-barrier-for-ternary-llms",
+      "label": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49732931",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "al-gore-says-the-real-ai-risk-isn8217t-data-centers",
+      "label": "Al Gore says the real AI risk isn&#8217;t data centers",
+      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "date": "2026-09-17"
+    },
+    {
       "id": "bridging-the-gap-between-homogeneous-and-heterogeneous-asynchronous-optimization",
       "label": "Bridging the Gap Between Homogeneous and Heterogeneous Asynchronous Optimization",
       "summary": "Modern large-scale machine learning tasks often require multiple workers, devices, CPUs, or GPUs to compute stochastic gradients in parallel and asynchronously to train model weights. Theoretical results typically distinguish between two settings: (i) the homogeneous setting, where all workers have",
@@ -155,6 +331,28 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2609.17483v1",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "prepared-or-unprepared-evaluating-healthcare-workforce-readiness-for-clinical-ad",
+      "label": "Prepared Or Unprepared? Evaluating Healthcare Workforce Readiness for Clinical A",
+      "summary": "Artificial intelligence (AI) is increasingly integrated into healthcare systems worldwide, yet its successful clinical adoption depends critically on workforce readiness, particularly in low- and middle-income countries (LMICs) where infrastructural and training gaps persist. This cross-sectional st",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.19096v1",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "how-model-growth-recursion-and-boundary-operators-influence-scaling-exponents",
+      "label": "How Model Growth, Recursion, and Boundary Operators Influence Scaling Exponents",
+      "summary": "Scaling laws predict how loss decreases with increases in computation. We show, contrary to conventional wisdom, that architectural interventions can modify scaling exponents in pre-training, leading to exponential improvements in performance with increases in computation. As an anchoring point, we",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.19107v1",
       "date": "2026-09-17"
     },
     {
@@ -180,6 +378,28 @@
       "date": "2026-09-17"
     },
     {
+      "id": "affora-a-design-system-for-agent-friendly-interfaces",
+      "label": "Affora: A Design System for Agent-Friendly Interfaces",
+      "summary": "Computer-use agents increasingly operate software designed for people, but interfaces often leave actions or task state unclear to machine readers. We present Affora, a design system that supports both readers while preserving visual freedom and familiar human workflows. Three controlled studies exa",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.19125v1",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "rmuscle-robotic-muscle-memory-for-efficient-vision-language-action-model-inferen",
+      "label": "rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Infere",
+      "summary": "Factory work is a promising early scenario for embodied AI: assigning repetitive manual jobs to robots has clear economic payoff, and a structured station keeps the jobs tractable for current policies. Vision-Language-Action (VLA) models now dominate as the policy paradigm for these robots. The infe",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.19104v1",
+      "date": "2026-09-17"
+    },
+    {
       "id": "lace-layer-wise-compression-for-dynamic-frame-rate-codecs",
       "label": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs",
       "summary": "Neural audio codecs are a key component in speech language modeling. However, their high frame rates lead to long sequence lengths, increasing computational costs. Dynamic frame rate codecs mitigate this by reducing the effective frame rate using a compression step to merge multiple frames together.",
@@ -202,6 +422,28 @@
       "date": "2026-09-17"
     },
     {
+      "id": "exponential-hardness-of-off-policy-evaluation-under-history-dependent-logging",
+      "label": "Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging",
+      "summary": "Can a logged dataset visit every hidden state frequently and still be exponentially uninformative about a target policy's value? We show that it can when the logger depends on history. For every horizon $H \\ge 3$, we construct two POMDPs with at most two latent states per stage, three actions, and a",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.19135v1",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "flag-game-a-toy-model-for-mechanistic-swarm-interpretability",
+      "label": "Flag Game: A Toy Model for Mechanistic Swarm Interpretability",
+      "summary": "Emergent coordinated behaviors of AI agents are starting to present critical safety risks. A key phenomenon driving these behaviors is the rapid formation and spread of beliefs about the world, and mechanistic understanding is crucial for collective alignment. To this end, we introduce the Flag Game",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.19124v1",
+      "date": "2026-09-17"
+    },
+    {
       "id": "limix-2-a-contextual-mechanism-network-towards-general-structured-data-intellige",
       "label": "LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intellig",
       "summary": "We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMNs) paradigm and is pretrained with Context-Conditional Masked Modeling (CCMM). CMNs shifts the organ",
@@ -221,6 +463,17 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2609.17479v1",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "cognitive-extensions-for-dual-process-language-agents-memory-and-self-reflection",
+      "label": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflectio",
+      "summary": "Language agents remain brittle in interactive environments, where success requires long-horizon state tracking, valid action execution, and recovery from failed steps. We extend SwiftSage, a dual-process agent that combines a fast action proposer with a slower planner, using two modular cognitive ex",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.19128v1",
       "date": "2026-09-17"
     },
     {
@@ -268,6 +521,28 @@
       "date": "2026-09-17"
     },
     {
+      "id": "a-zeroth-order-paradigm-for-llm-preference-alignment",
+      "label": "A Zeroth-Order Paradigm for LLM Preference Alignment",
+      "summary": "Direct preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement motivates alternative ways to extract information from preference pairs with small likelihood margin",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.19144v1",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "evidence-grounded-agentic-formulation-development-in-an-autonomous-laboratory",
+      "label": "Evidence-Grounded Agentic Formulation Development in an Autonomous Laboratory",
+      "summary": "Self-emulsifying drug delivery systems (SEDDS) can improve the oral bioavailability of poorly soluble drugs, but identifying high-performing formulations remains experimentally intensive. We present Andromeda 2, an agentic system that reasons over structured in-house experimental evidence and invoke",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.19099v1",
+      "date": "2026-09-17"
+    },
+    {
       "id": "sciencebuddy-recursive-in-recursive-self-improvement-for-interactive-scientific",
       "label": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific",
       "summary": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports researchers in carrying out scientific tasks while transforming their requests, feedback, and execution",
@@ -277,10 +552,43 @@
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2609.17523v1",
       "date": "2026-09-17"
+    },
+    {
+      "id": "objective-vs-search-decomposing-what-makes-a-good-tokeniser",
+      "label": "Objective vs. Search: Decomposing What Makes a Good Tokeniser",
+      "summary": "Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. log-likelihood) and their search procedure (bottom-up merging vs. top-down pruning). Existing compari",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.19145v1",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "dreaming-the-sound-of-contact-leveraging-video-and-audio-generation-for-zero-sho",
+      "label": "Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Sh",
+      "summary": "Recent advances in video generation allow robots to learn manipulation trajectories from generated videos. However, these approaches produce purely kinematic trajectories that lack force information, causing failures in contact-rich tasks where appropriate contact forces are essential for success. I",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.19137v1",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "monitoring-and-discovering-reward-hacking-with-internal-representations-during-l",
+      "label": "Monitoring and Discovering Reward Hacking with Internal Representations during L",
+      "summary": "As models scale, reward hacking becomes more frequent, more sophisticated, and more consequential. Does it leave a telltale signature in model representations? This work analyzes how reward hacking is represented internally in frontier open source LLMs, and how those representations can be used to u",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.19101v1",
+      "date": "2026-09-17"
     }
   ],
   "graph_totals": {
-    "real_nodes": 8534,
-    "edges": 9122
+    "real_nodes": 8571,
+    "edges": 9181
   }
 }
