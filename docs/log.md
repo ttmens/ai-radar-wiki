@@ -4343,3 +4343,6 @@
 - create: ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first.md
 - create: your-ai-agents-can-now-control-your-google-home-devices.md
 - create: anthropic-merges-claude-chat-and-cowork-in-one-interface.md
+
+## [2026-09-17 18:01] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: ai-safety-is-mostly-a-sex-cult.md

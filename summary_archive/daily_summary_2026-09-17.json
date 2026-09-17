@@ -7,7 +7,7 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 安全/漏洞。",
         "evidence": [
           {
             "id": "evidence-grounded-agentic-formulation-development-in-an-autonomous-laboratory",
@@ -101,7 +101,7 @@
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "insight": "今日💰 商业趋势方向的核心信号集中在信任/合规。",
+        "insight": "AI安全与信任正成为规模化部署的关键挑战。该方向的具体信号：信任/合规。",
         "evidence": [
           {
             "id": "we-don8217t-need-ai-regulation-leave-safety-to-us-nvidia8217s-jensen-huang-says",
@@ -122,14 +122,20 @@
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
       {
+        "title": "AI安全与信任正成为规模化部署的关键挑战",
+        "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：AI Safety Is Mostly a Sex Cult, We don&#8217;t need AI regulation — leav。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+        "type": "bottleneck",
+        "action": "建议：审查当前产品的安全/信任/合规设计，是否需要升级。这是获取企业客户的关键竞争力。"
+      },
+      {
         "title": "AI商业动态：资本与市场持续升温",
         "body": "今日1条情报涉及AI商业动态。包括：Exponential Hardness of Off-Policy Evalu。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 44 | 🔧 工具生态: 8 | 📱 产品模式: 14 | 💰 商业趋势: 1",
-    "total_items": 67,
+    "stats": "🤖 技术能力: 45 | 🔧 工具生态: 8 | 📱 产品模式: 14 | 💰 商业趋势: 1",
+    "total_items": 68,
     "high_value_count": 53,
     "all_today_ids": [
       {
@@ -349,6 +355,10 @@
         "label": "Learning to solve hard problems in RL for LLMs by never giving up"
       },
       {
+        "id": "ai-safety-is-mostly-a-sex-cult",
+        "label": "AI Safety Is Mostly a Sex Cult"
+      },
+      {
         "id": "reverse-engineered-jev-like-model",
         "label": "Reverse-engineered Jev-like model"
       },
@@ -402,6 +412,6 @@
       }
     ],
     "date_bj": "2026-09-17 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-17 16:04:22"
+    "generated_at_bj": "2026-09-17 18:01:18"
   }
 }
