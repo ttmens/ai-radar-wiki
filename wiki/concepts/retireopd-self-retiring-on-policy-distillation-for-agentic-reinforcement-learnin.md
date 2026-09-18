@@ -1,0 +1,38 @@
+---
+title: RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learni
+created: 2026-09-19
+updated: 2026-09-19
+type: concept
+pillar: capabilities
+pm_score: 0.305
+tags: ["research", "capabilities"]
+sources: ["raw/papers/retireopd-self-retiring-on-policy-distillation-for-agentic-reinforcement-learnin.json"]
+---
+
+# RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning
+
+## 中文摘要
+暂无中文摘要
+
+## PM 关注指标
+- 🎯 PM Score: 0.305
+- 🏷️ Pillar: capabilities
+- 🔑 Keywords: token, vision, training, distillation, accuracy
+
+## 作者
+Yan Yu, Zhengxi Lu, Yizhou Liu, Yichen Pan, Aozhe Wang
+
+## 摘要
+Multi-turn agents trained with reinforcement learning (RL) receive a single scalar reward per trajectory, which motivates self on-policy distillation (OPD) to supply dense token-level supervision from a self-teacher with privileged task skills, letting a skill-free student internalize them. This rec...
+
+## 中文摘要
+暂无中文摘要
+
+## 链接
+- 📄 arXiv: http://arxiv.org/abs/2609.20784v1
+
+## PM 视角解读
+> 由 Stage 2 LLM 分析后补充
+
+## 相关
+- 相关概念: TBD

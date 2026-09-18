@@ -4379,3 +4379,29 @@
 - create: show-hn-craigslist-for-agent-skills-curated-by-a-human.md
 - create: show-hn-aclif-agent-cli-framework-one-grammar-canonical-names-across-saas.md
 - create: show-hn-autobot-live-voice-control-for-long-running-ai-work.md
+
+## [2026-09-19 00:04] sync v3 | 24 new | pillars: {'capabilities': 17, 'patterns': 5, 'ecosystem': 2}
+- create: mleveryday100-days-of-ml-code.md
+- create: coding-agents-with-an-obstacle-aware-harness-for-safe-robot-manipulation.md
+- create: embedding-models-measure-in-peculiar-ways.md
+- create: workspace-models-lightweight-robotic-memory-via-saliency-driven-supervision.md
+- create: famos-feed-forward-3d-articulation-modeling-from-sparse-observations.md
+- create: paint-anything-unified-any-color-control-for-image-generation-and-editing.md
+- create: ercpmp-gx-endoscopic-image-and-video-dataset-for-morphological-histopathological.md
+- create: how-does-distribution-shift-shape-pretraining-gains-in-neural-pde-surrogates.md
+- create: quantifying-overclaiming-propensity-in-frontier-llm-agents.md
+- create: score-centering-stabilizes-off-policy-reinforcement-learning.md
+- create: an-empirical-study-of-harness-design-for-coding-agents.md
+- create: posteriorbench-from-point-estimates-to-posterior-matching-in-evaluating-generati.md
+- create: retireopd-self-retiring-on-policy-distillation-for-agentic-reinforcement-learnin.md
+- create: an-empirical-study-of-harness-design-for-coding-agents.md
+- create: warren-buffett-steps-down-as-berkshire-chairman-names-son-to-replace-him.md
+- create: zcode-the-glm-coding-agent-silently-uploads-your-git-history.md
+- create: microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history.md
+- create: a-heap-overflow-and-sso-misconfiguration-to-compromise-openai-internal-repos.md
+- create: diplodocus-long-thought-exclusively-american-turns-up-in-spain.md
+- create: open-or-closed-ai-nvidia8217s-nader-khalil-and-sydney-sykes-take-on-one-of-the-d.md
+- create: meta8217s-muse-hits-mac-letting-the-ai-take-actions-on-your-computer.md
+- create: robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techc.md
+- create: researchers-used-anthropic8217s-claude-to-hack-into-openai.md
+- create: the-clock-is-ticking-final-24-hours-to-exhibit-at-techcrunch-disrupt-2026.md

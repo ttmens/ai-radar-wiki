@@ -1,0 +1,24 @@
+{
+  "title": "How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?",
+  "summary": "Pretraining a neural PDE surrogate can reduce the amount of new CFD data needed when geometry or modeled physics changes. However, it remains unclear how different components of distribution shift affect this benefit. We pretrain a surrogate on 254,909 RANS solutions from one airfoil family and fine-tune it on a new family under two target settings with matched freestream ranges: the same Spalart-Allmaras (SA) modeling and SA with added $e^N$ transition modeling. At $N=1000$, the pretrained model matches the accuracy of a model trained from scratch on $3.25\\times$ as many samples for the same-SA target, but $2.58\\times$ as many for the transition-modeled target. By $N=5000$, this ordering reverses ($1.56\\times$ versus $1.86\\times$). At $N=1000$, sampling more distinct airfoils lowers error on both targets, but only for the same-SA target is the gain increase larger than the observed draw-to-draw variation ($3.3\\times$ to $4.0\\times$). These results show that pretraining value depends jointly on target-data budget, target-data coverage, and whether source and target differ in modeled physics.",
+  "url": "http://arxiv.org/abs/2609.20814v1",
+  "authors": [
+    "Pochinapeddi Sai Bhargav",
+    "Nithin Somasekharan",
+    "Rohit Sunil Kanchi",
+    "Sicheng He",
+    "Shaowu Pan"
+  ],
+  "published": "2026-09-17T17:59:24Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "accuracy"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}
