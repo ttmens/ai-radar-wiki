@@ -4346,3 +4346,36 @@
 
 ## [2026-09-17 18:01] sync v3 | 1 new | pillars: {'capabilities': 1}
 - create: ai-safety-is-mostly-a-sex-cult.md
+
+## [2026-09-18 08:04] sync v3 | 31 new | pillars: {'capabilities': 22, 'patterns': 8, 'ecosystem': 1}
+- create: bonsai-2-27b-near-lossless-compression-in-a-9x-smaller-footprint.md
+- create: bend-a-language-that-blocks-ai-mistakes-via-proof-on-cpu-and-gpu.md
+- create: how-to-write-with-an-llm.md
+- create: infinite-parameter-llms-generating-and-adapting-weights-from-live-data.md
+- create: how-glm-built-its-own-inference-infrastructure.md
+- create: the-american-religion-of-self-storage-facilities.md
+- create: tsmc-revealing-details-about-next-gen-a14-node.md
+- create: ccc-invites-all-model-citizens-to-40c3.md
+- create: sex-ai-and-the-apocalypse.md
+- create: launch-hn-skillsync-yc-w26-ai-chat-sessions-made-portable-across-agents.md
+- create: show-hn-share-your-ai-setup-learn-from-others.md
+- create: llm-classification-is-feature-engineering.md
+- create: canto-a-speech-model-built-for-the-real-world.md
+- create: crusoe-raises-39b-to-build-massive-data-centers-and-small-modular-8220ai-factori.md
+- create: google-deepmind-launches-institute-to-widen-the-agi-debate.md
+- create: prismml-hopes-its-tiny-llm-will-change-how-we-all-use-ai.md
+- create: the-faa8217s-plan-to-fix-air-traffic-875m-worth-of-ai.md
+- create: the-fix-for-rogue-ai-agents-could-be-more-ai.md
+- create: openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior.md
+- create: is-the-ai-safety-debate-about-safety-or-control.md
+- create: un-turns-to-google-to-make-its-global-data-ready-for-ai-agents.md
+- create: microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history821.md
+- create: even-the-king-of-england-has-his-hesitations-about-ai.md
+- create: base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-go.md
+- create: pinterest-teases-a-new-8216restyle8217-feature-that-lets-you-redesign-your-room.md
+- create: huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia.md
+- create: 2-days-left-to-exhibit-at-techcrunch-disrupt-2026.md
+- create: rival-ai-agents-instinct-and-meta8217s-muse-both-add-the-ability-to-make-calls.md
+- create: show-hn-craigslist-for-agent-skills-curated-by-a-human.md
+- create: show-hn-aclif-agent-cli-framework-one-grammar-canonical-names-across-saas.md
+- create: show-hn-autobot-live-voice-control-for-long-running-ai-work.md
