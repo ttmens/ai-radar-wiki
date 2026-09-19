@@ -1,8 +1,19 @@
 {
   "date": "2026-09-19",
-  "generated_at": "2026-09-19T00:04:14.320426+08:00",
-  "item_count": 23,
+  "generated_at": "2026-09-19T16:05:08.465234+08:00",
+  "item_count": 43,
   "items": [
+    {
+      "id": "claude-code-now-reads-agentsmd-if-there-is-no-claudemd",
+      "label": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.505,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49760187",
+      "date": "2026-09-19"
+    },
     {
       "id": "microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history",
       "label": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
@@ -37,6 +48,17 @@
       "date": "2026-09-19"
     },
     {
+      "id": "how-spacex-streamlined-the-raptor-engine",
+      "label": "How SpaceX streamlined the Raptor engine",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49746626",
+      "date": "2026-09-19"
+    },
+    {
       "id": "mleveryday100-days-of-ml-code",
       "label": "MLEveryday/100-Days-Of-ML-Code",
       "summary": "100-Days-Of-ML-Code中文版",
@@ -59,6 +81,50 @@
       "date": "2026-09-19"
     },
     {
+      "id": "how-openai-used-its-own-llms-to-design-its-jalapeño-chip",
+      "label": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49761432",
+      "date": "2026-09-19"
+    },
+    {
+      "id": "ai-chatbots-are-becoming-experts-at-changing-peoples-minds",
+      "label": "AI chatbots are becoming experts at changing people's minds",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49754250",
+      "date": "2026-09-19"
+    },
+    {
+      "id": "show-hn-cactus-needle-3-8-29mb-automation-models-can-match-deepseek-v4-flash",
+      "label": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49748553",
+      "date": "2026-09-19"
+    },
+    {
+      "id": "two-parallel-neural-ectoderm-progenitors-contribute-to-the-developing-brain",
+      "label": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49755533",
+      "date": "2026-09-19"
+    },
+    {
       "id": "researchers-used-anthropic8217s-claude-to-hack-into-openai",
       "label": "Researchers used Anthropic&#8217;s Claude to hack into OpenAI",
       "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
@@ -67,6 +133,28 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "date": "2026-09-19"
+    },
+    {
+      "id": "manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops",
+      "label": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+      "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+      "date": "2026-09-19"
+    },
+    {
+      "id": "dario-amodei-and-other-ai-leaders-want-to-8216pace-the-frontier8217-buthow",
+      "label": "Dario Amodei and other AI leaders want to &#8216;Pace the Frontier&#8217; but…ho",
+      "summary": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to “pace the frontier”&#160;of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countr",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
       "date": "2026-09-19"
     },
     {
@@ -81,6 +169,28 @@
       "date": "2026-09-19"
     },
     {
+      "id": "anthropic8217s-first-embedded-evaluator-is-accenture",
+      "label": "Anthropic&#8217;s first embedded evaluator is … Accenture?",
+      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "date": "2026-09-19"
+    },
+    {
+      "id": "a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+      "label": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "date": "2026-09-19"
+    },
+    {
       "id": "robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techc",
       "label": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at Tech",
       "summary": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
@@ -89,6 +199,50 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
+      "date": "2026-09-19"
+    },
+    {
+      "id": "ai-hallucination-nearly-triggers-us-military-operation",
+      "label": "AI hallucination nearly triggers US military operation",
+      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "date": "2026-09-19"
+    },
+    {
+      "id": "human-brain-is-two-separate-organs-stanford-medicine-led-research-finds",
+      "label": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49763697",
+      "date": "2026-09-19"
+    },
+    {
+      "id": "google8217s-new-8216cc8217-is-an-ai-agent-that-helps-families-run-their-househol",
+      "label": "Google&#8217;s new &#8216;CC&#8217; is an AI agent that helps families run their",
+      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "date": "2026-09-19"
+    },
+    {
+      "id": "india-forces-caller-id-apps-to-feed-spam-reports-to-telcos",
+      "label": "India forces caller-ID apps to feed spam reports to telcos",
+      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
       "date": "2026-09-19"
     },
     {
@@ -103,6 +257,39 @@
       "date": "2026-09-19"
     },
     {
+      "id": "world-model-companies-are-keeping-a-lot-of-secrets",
+      "label": "World model companies are keeping a lot of secrets",
+      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "date": "2026-09-19"
+    },
+    {
+      "id": "automattic8217s-33-hour-coup-and-can-ai-labs-police-themselves",
+      "label": "Automattic&#8217;s 33-Hour Coup, and can AI labs police themselves?",
+      "summary": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to “pace the frontier”&#160;of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countr",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+      "date": "2026-09-19"
+    },
+    {
+      "id": "a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
+      "label": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "date": "2026-09-19"
+    },
+    {
       "id": "an-empirical-study-of-harness-design-for-coding-agents",
       "label": "An Empirical Study of Harness Design for Coding Agents",
       "summary": "暂无中文摘要",
@@ -111,6 +298,39 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49753878",
+      "date": "2026-09-19"
+    },
+    {
+      "id": "anthropic-is-operating-a-lab-that-conducts-biology-experiments",
+      "label": "Anthropic is operating a lab that conducts biology experiments",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "date": "2026-09-19"
+    },
+    {
+      "id": "disney8217s-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-character",
+      "label": "Disney&#8217;s first CTO led an AI startup it once accused of copying its charac",
+      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "date": "2026-09-19"
+    },
+    {
+      "id": "tilly-norwood8217s-press-tour-is-going-about-as-well-as-you8217d-expect-for-an-a",
+      "label": "Tilly Norwood&#8217;s press tour is going about as well as you&#8217;d expect fo",
+      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
       "date": "2026-09-19"
     },
     {
@@ -258,7 +478,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 8626,
-    "edges": 9256
+    "real_nodes": 8653,
+    "edges": 9286
   }
 }

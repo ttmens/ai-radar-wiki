@@ -2,12 +2,12 @@
   "daily_summary": {
     "date": "2026-09-19",
     "headline": "今日 AI 情报 · 2026-09-19",
-    "overview": "AI商业动态：资本与市场持续升温",
+    "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：安全/漏洞, 融资/投资, AI Agent。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：融资/投资, 信任/合规, AI Agent, 安全/漏洞。",
         "evidence": [
           {
             "id": "retireopd-self-retiring-on-policy-distillation-for-agentic-reinforcement-learnin",
@@ -22,13 +22,55 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "今日📱 产品模式方向有新的动态。",
+        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
         "evidence": [
+          {
+            "id": "claude-code-now-reads-agentsmd-if-there-is-no-claudemd",
+            "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+            "score": 0.51,
+            "url": "https://news.ycombinator.com/item?id=49760187",
+            "reason": "高价值信号"
+          },
           {
             "id": "zcode-the-glm-coding-agent-silently-uploads-your-git-history",
             "title": "ZCode, the GLM coding agent, silently uploads your Git history",
             "score": 0.41,
             "url": "https://news.ycombinator.com/item?id=49752422",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "google8217s-new-8216cc8217-is-an-ai-agent-that-helps-families-run-their-househol",
+            "title": "Google&#8217;s new &#8216;CC&#8217; is an AI agent that helps families",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "an-empirical-study-of-harness-design-for-coding-agents",
+            "title": "An Empirical Study of Harness Design for Coding Agents",
+            "score": 0.3,
+            "url": "https://news.ycombinator.com/item?id=49753878",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "coding-agents-with-an-obstacle-aware-harness-for-safe-robot-manipulation",
+            "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulati",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2609.20822v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "quantifying-overclaiming-propensity-in-frontier-llm-agents",
+            "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2609.20812v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-ax-checkcom-can-agents-use-your-product",
+            "title": "Show HN: Ax-check.com – Can agents use your product?",
+            "score": 0.2,
+            "url": "https://www.ax-check.com/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -48,20 +90,51 @@
           }
         ],
         "trend": "new"
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "evidence": [
+          {
+            "id": "manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops",
+            "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes indepen",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
       }
     ],
     "narratives": [
       {
+        "title": "AI Agent 工具链与协作流程快速成熟",
+        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Google&#8217;s new &#8216;CC&#8217; is a, RetireOPD: Self-Retiring On-Policy Disti。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "type": "paradigm_shift",
+        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      },
+      {
+        "title": "AI安全与信任正成为规模化部署的关键挑战",
+        "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：Researchers used Anthropic&#8217;s Claud, AI hallucination nearly triggers US mili。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+        "type": "bottleneck",
+        "action": "建议：审查当前产品的安全/信任/合规设计，是否需要升级。这是获取企业客户的关键竞争力。"
+      },
+      {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日1条情报涉及AI商业动态。包括：PosteriorBench: From Point Estimates to 。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日2条情报涉及AI商业动态。包括：Manus seeks $4B valuation in new $500M f, PosteriorBench: From Point Estimates to 。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🔧 工具生态: 2 | 🤖 技术能力: 17 | 📱 产品模式: 4",
-    "total_items": 23,
-    "high_value_count": 23,
+    "stats": "📱 产品模式: 9 | 🔧 工具生态: 5 | 🤖 技术能力: 36 | 💰 商业趋势: 1",
+    "total_items": 51,
+    "high_value_count": 43,
     "all_today_ids": [
+      {
+        "id": "claude-code-now-reads-agentsmd-if-there-is-no-claudemd",
+        "label": "Claude Code now reads AGENTS.md if there is no Claude.md"
+      },
       {
         "id": "microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history",
         "label": "Microsoft exec called AI scraping 'the largest theft of labor in human history'"
@@ -75,6 +148,10 @@
         "label": "ZCode, the GLM coding agent, silently uploads your Git history"
       },
       {
+        "id": "how-spacex-streamlined-the-raptor-engine",
+        "label": "How SpaceX streamlined the Raptor engine"
+      },
+      {
         "id": "mleveryday100-days-of-ml-code",
         "label": "MLEveryday/100-Days-Of-ML-Code"
       },
@@ -83,24 +160,96 @@
         "label": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him"
       },
       {
+        "id": "how-openai-used-its-own-llms-to-design-its-jalapeño-chip",
+        "label": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip"
+      },
+      {
+        "id": "ai-chatbots-are-becoming-experts-at-changing-peoples-minds",
+        "label": "AI chatbots are becoming experts at changing people's minds"
+      },
+      {
+        "id": "show-hn-cactus-needle-3-8-29mb-automation-models-can-match-deepseek-v4-flash",
+        "label": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash"
+      },
+      {
+        "id": "two-parallel-neural-ectoderm-progenitors-contribute-to-the-developing-brain",
+        "label": "Two parallel neural ectoderm progenitors contribute to the developing brain"
+      },
+      {
         "id": "researchers-used-anthropic8217s-claude-to-hack-into-openai",
         "label": "Researchers used Anthropic&#8217;s Claude to hack into OpenAI"
+      },
+      {
+        "id": "manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops",
+        "label": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops"
+      },
+      {
+        "id": "dario-amodei-and-other-ai-leaders-want-to-8216pace-the-frontier8217-buthow",
+        "label": "Dario Amodei and other AI leaders want to &#8216;Pace the Frontier&#8217; but…ho"
       },
       {
         "id": "the-clock-is-ticking-final-24-hours-to-exhibit-at-techcrunch-disrupt-2026",
         "label": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026"
       },
       {
+        "id": "anthropic8217s-first-embedded-evaluator-is-accenture",
+        "label": "Anthropic&#8217;s first embedded evaluator is … Accenture?"
+      },
+      {
+        "id": "a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+        "label": "A startup that builds other startups raised $100M and is all-in on physical AI"
+      },
+      {
         "id": "robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techc",
         "label": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at Tech"
+      },
+      {
+        "id": "ai-hallucination-nearly-triggers-us-military-operation",
+        "label": "AI hallucination nearly triggers US military operation"
+      },
+      {
+        "id": "human-brain-is-two-separate-organs-stanford-medicine-led-research-finds",
+        "label": "Human brain is two separate organs, Stanford Medicine-led research finds"
+      },
+      {
+        "id": "google8217s-new-8216cc8217-is-an-ai-agent-that-helps-families-run-their-househol",
+        "label": "Google&#8217;s new &#8216;CC&#8217; is an AI agent that helps families run their"
+      },
+      {
+        "id": "india-forces-caller-id-apps-to-feed-spam-reports-to-telcos",
+        "label": "India forces caller-ID apps to feed spam reports to telcos"
       },
       {
         "id": "diplodocus-long-thought-exclusively-american-turns-up-in-spain",
         "label": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain"
       },
       {
+        "id": "world-model-companies-are-keeping-a-lot-of-secrets",
+        "label": "World model companies are keeping a lot of secrets"
+      },
+      {
+        "id": "automattic8217s-33-hour-coup-and-can-ai-labs-police-themselves",
+        "label": "Automattic&#8217;s 33-Hour Coup, and can AI labs police themselves?"
+      },
+      {
+        "id": "a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
+        "label": "A new kind of AI model from a ChatGPT inventor is thrilling developers"
+      },
+      {
         "id": "an-empirical-study-of-harness-design-for-coding-agents",
         "label": "An Empirical Study of Harness Design for Coding Agents"
+      },
+      {
+        "id": "anthropic-is-operating-a-lab-that-conducts-biology-experiments",
+        "label": "Anthropic is operating a lab that conducts biology experiments"
+      },
+      {
+        "id": "disney8217s-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-character",
+        "label": "Disney&#8217;s first CTO led an AI startup it once accused of copying its charac"
+      },
+      {
+        "id": "tilly-norwood8217s-press-tour-is-going-about-as-well-as-you8217d-expect-for-an-a",
+        "label": "Tilly Norwood&#8217;s press tour is going about as well as you&#8217;d expect fo"
       },
       {
         "id": "open-or-closed-ai-nvidia8217s-nader-khalil-and-sydney-sykes-take-on-one-of-the-d",
@@ -153,9 +302,41 @@
       {
         "id": "ercpmp-gx-endoscopic-image-and-video-dataset-for-morphological-histopathological",
         "label": "ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathologic"
+      },
+      {
+        "id": "the-implications-of-linguistic-illegibility-for-llm-security",
+        "label": "The Implications of Linguistic Illegibility for LLM Security"
+      },
+      {
+        "id": "alibaba-open-sources-ai-model-that-can-detect-cancer-and-nearly-150-conditions",
+        "label": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions"
+      },
+      {
+        "id": "a-search-and-inference-database-from-scratch-in-pure-zig",
+        "label": "A search-and-inference database from scratch in pure Zig"
+      },
+      {
+        "id": "mathematicians-build-long-awaited-graph-sandwich",
+        "label": "Mathematicians Build Long-Awaited Graph Sandwich"
+      },
+      {
+        "id": "cache-to-cache-direct-semantic-communication-between-llms-2025",
+        "label": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)"
+      },
+      {
+        "id": "show-hn-ax-checkcom-can-agents-use-your-product",
+        "label": "Show HN: Ax-check.com – Can agents use your product?"
+      },
+      {
+        "id": "gpt-6-astra-solves-a-wwi-german-radio-cipher",
+        "label": "GPT-6 Astra Solves a WWI German Radio Cipher"
+      },
+      {
+        "id": "you-can-run-git-on-object-storage-if-you-re-make-packfiles",
+        "label": "You can run Git on object storage if you re-make packfiles"
       }
     ],
     "date_bj": "2026-09-19 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-19 00:03:42"
+    "generated_at_bj": "2026-09-19 16:04:36"
   }
 }

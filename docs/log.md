@@ -4405,3 +4405,33 @@
 - create: robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techc.md
 - create: researchers-used-anthropic8217s-claude-to-hack-into-openai.md
 - create: the-clock-is-ticking-final-24-hours-to-exhibit-at-techcrunch-disrupt-2026.md
+
+## [2026-09-19 16:05] sync v3 | 28 new | pillars: {'capabilities': 19, 'patterns': 5, 'ecosystem': 3, 'business': 1}
+- create: human-brain-is-two-separate-organs-stanford-medicine-led-research-finds.md
+- create: gpt-6-astra-solves-a-wwi-german-radio-cipher.md
+- create: you-can-run-git-on-object-storage-if-you-re-make-packfiles.md
+- create: how-openai-used-its-own-llms-to-design-its-jalapeño-chip.md
+- create: show-hn-cactus-needle-3-8-29mb-automation-models-can-match-deepseek-v4-flash.md
+- create: cache-to-cache-direct-semantic-communication-between-llms-2025.md
+- create: claude-code-now-reads-agentsmd-if-there-is-no-claudemd.md
+- create: alibaba-open-sources-ai-model-that-can-detect-cancer-and-nearly-150-conditions.md
+- create: two-parallel-neural-ectoderm-progenitors-contribute-to-the-developing-brain.md
+- create: how-spacex-streamlined-the-raptor-engine.md
+- create: the-implications-of-linguistic-illegibility-for-llm-security.md
+- create: a-search-and-inference-database-from-scratch-in-pure-zig.md
+- create: mathematicians-build-long-awaited-graph-sandwich.md
+- create: ai-chatbots-are-becoming-experts-at-changing-peoples-minds.md
+- create: india-forces-caller-id-apps-to-feed-spam-reports-to-telcos.md
+- create: tilly-norwood8217s-press-tour-is-going-about-as-well-as-you8217d-expect-for-an-a.md
+- create: a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai.md
+- create: anthropic-is-operating-a-lab-that-conducts-biology-experiments.md
+- create: ai-hallucination-nearly-triggers-us-military-operation.md
+- create: anthropic8217s-first-embedded-evaluator-is-accenture.md
+- create: world-model-companies-are-keeping-a-lot-of-secrets.md
+- create: a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers.md
+- create: disney8217s-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-character.md
+- create: google8217s-new-8216cc8217-is-an-ai-agent-that-helps-families-run-their-househol.md
+- create: dario-amodei-and-other-ai-leaders-want-to-8216pace-the-frontier8217-buthow.md
+- create: automattic8217s-33-hour-coup-and-can-ai-labs-police-themselves.md
+- create: manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops.md
+- create: show-hn-ax-checkcom-can-agents-use-your-product.md
