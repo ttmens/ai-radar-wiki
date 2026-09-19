@@ -1,6 +1,7 @@
 ---
 title: Ubisoft co-founder Claude Guillemot has died in a plane crash
 created: 2026-06-21
+deprecated: true
 updated: 2026-06-21
 type: entity
 pillar: capabilities

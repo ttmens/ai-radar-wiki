@@ -4437,3 +4437,22 @@
 - create: show-hn-ax-checkcom-can-agents-use-your-product.md
 
 ## [2026-09-19 18:00] sync v3 | 0 new | pillars: {}
+
+## [2026-09-20 00:02] sync v3 | 7 new | pillars: {'capabilities': 5, 'ecosystem': 1, 'business': 1}
+- create: ai-generated-posters-dont-have-to-be-horrible.md
+- create: learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy.md
+- create: nasa-ibm-lunar-foundation-open-source-geospatial-ai-model.md
+- create: ai-safety-conversations-have-gotten-unbelievable.md
+- create: petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes.md
+- create: prices-go-up-in-7-days-get-your-disrupt-ticket-now.md
+- create: vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai.md
+
+## [2026-09-20 06:02] sync v3 | 8 new | pillars: {'capabilities': 7, 'ecosystem': 1}
+- create: i-built-non-autoregressive-decision-models-with-rl-a-year-ago.md
+- create: show-hn-cua-s1-a-system-one-model-for-computer-use.md
+- create: i-think-you-should-almost-never-use-ai-to-write.md
+- create: microsoft-director-ai-scraping-the-largest-theft-of-labor-in-human-history.md
+- create: btrfszfsbcachefs-under-workloads-classic-benchmarks-skip.md
+- create: flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts.md
+- create: trump-says-it8217s-time-to-rebrand-ai-with-a-new-name-and-he8217s-also-creating.md
+- create: googles-gemini-is-the-latest-ai-model-to-hack-other-companies.md

@@ -1,6 +1,7 @@
 ---
 title: A 1969 camera operators' strike created Upstairs Downstairs multiverse
 created: 2026-06-21
+deprecated: true
 updated: 2026-06-21
 type: entity
 pillar: capabilities

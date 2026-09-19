@@ -20,6 +20,20 @@
 
 ## 运行日志
 
+## [2026-09-20 06:02] Evolution Run
+- Deprecated: 0 nodes
+- Pillar distribution: {'capabilities': 2505, 'ecosystem': 564, 'patterns': 688, 'business': 428, 'unknown': 4}
+- Top tags: {'capabilities': 2427, 'discussion': 1733, 'hacker-news': 1733, 'research': 984, 'news': 962}
+- No actions needed
+
+
+## [2026-09-20 00:02] Evolution Run
+- Deprecated: 2 nodes
+- Pillar distribution: {'capabilities': 2498, 'ecosystem': 563, 'patterns': 688, 'business': 428, 'unknown': 4}
+- Top tags: {'capabilities': 2420, 'discussion': 1728, 'hacker-news': 1728, 'research': 984, 'news': 959}
+  🗑️ Deprecated: ubisoft-co-founder-claude-guillemot-has-died-in-a-plane-crash.md (91d old, score=0.085)  🗑️ Deprecated: a-1969-camera-operators-strike-created-upstairs-downstairs-multiverse.md (91d old, score=0.135)  📊 2 nodes deprecated (90d+ and score < 0.15)
+
+
 ## [2026-09-19 18:00] Evolution Run
 - Deprecated: 0 nodes
 - Pillar distribution: {'capabilities': 2493, 'ecosystem': 562, 'patterns': 688, 'business': 427, 'unknown': 4}
