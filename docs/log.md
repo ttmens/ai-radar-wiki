@@ -4462,3 +4462,8 @@
 
 ## [2026-09-20 18:02] sync v3 | 1 new | pillars: {'capabilities': 1}
 - create: spain-orders-blocks-on-archivetoday-and-its-mirrors.md
+
+## [2026-09-21 00:02] sync v3 | 3 new | pillars: {'capabilities': 2, 'business': 1}
+- create: a-model-for-winning-survivor.md
+- create: chat-based-large-language-models-replicate-the-mechanisms-of-a-psychics-con.md
+- create: 6-days-left-to-get-ahead-at-techcrunch-disrupt-2026.md

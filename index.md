@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-20 | Total pages: 4254
+> Last updated: 2026-09-21 | Total pages: 4257
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -38,6 +38,7 @@
 - [[a-koi-pond-mosaic-made-from-10-pounds-of-3d-printer-waste.md]] A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste `pillar:capabilities` `score:0.205`
 - [[a-mathematical-framework-for-transformer-circuits-2021.md]] A Mathematical Framework for Transformer Circuits (2021) `pillar:capabilities` `score:0.155`
 - [[a-misalignment-of-ai-in-mathematics.md]] A misalignment of AI in mathematics `pillar:capabilities` `score:0.505`
+- [[a-model-for-winning-survivor.md]] A Model for Winning Survivor `pillar:capabilities` `score:0.155`
 - [[a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers.md]] A new kind of AI model from a ChatGPT inventor is thrilling developers `pillar:capabilities` `score:0.305`
 - [[a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency.md]] A pharmacy chain in Vermont implemented AI for efficiency `pillar:capabilities` `score:0.38`
 - [[a-polynomial-autoencoder-beats-pca-on-transformer.md]] A polynomial autoencoder beats PCA on transformer embeddings `pillar:capabilities` `score:0.155`
@@ -303,6 +304,7 @@
 - [[cartesian-ai-3d-modeling-for-design.md]] Cartesian – AI 3D Modeling for Design `pillar:capabilities` `score:0.305`
 - [[ccc-invites-all-model-citizens-to-40c3.md]] CCC invites all model citizens to 40C3 `pillar:capabilities` `score:0.425`
 - [[characterai-enters-the-microdrama-arena-with-its-own-productions-but-there8217s.md]] Character.AI enters the microdrama arena with its own productions, but there&#82 `pillar:capabilities` `score:0.48`
+- [[chat-based-large-language-models-replicate-the-mechanisms-of-a-psychics-con.md]] Chat-based Large Language Models replicate the mechanisms of a psychic's con `pillar:capabilities` `score:0.375`
 - [[chatgpt-images-25.md]] ChatGPT Images 2.5 `pillar:capabilities` `score:0.455`
 - [[chatgpt-is-throwing-404.md]] ChatGPT Is Throwing 404 `pillar:capabilities` `score:0.455`
 - [[chatgpt-work-tool-and-skill-reference.md]] ChatGPT Work Tool and Skill Reference `pillar:capabilities` `score:0.255`
@@ -3773,6 +3775,7 @@
 ## 💰 Business (商业与趋势)
 > Funding, Moat, Growth, Ethics, Regulation
 - [[3-days-left-to-lock-in-50-off-a-second-ticket-to.md]] 3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026 `pillar:business` `score:0.15`
+- [[6-days-left-to-get-ahead-at-techcrunch-disrupt-2026.md]] 6 days left to get ahead at TechCrunch Disrupt 2026 `pillar:business` `score:0.305`
 - [[8216what-a-joke8217-github-copilot8217s-new-token-based-billing-spurs-consternat.md]] &#8216;What a joke&#8217;: Github Copilot&#8217;s new token-based billing spurs `pillar:business` `score:0.515`
 - [[accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuatio.md]] Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuat `pillar:business` `score:0.305`
 - [[adobe-acquires-indian-market-intelligence-startup-rilo.md]] Adobe acquires Indian market intelligence startup Rilo `pillar:business` `score:0.305`

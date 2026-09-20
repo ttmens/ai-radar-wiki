@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Sep 2026 08:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 16:00:17 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -32,6 +32,14 @@
       <title>I think you should almost never use AI to write</title>
       <link>https://news.ycombinator.com/item?id=49767937</link>
       <guid isPermaLink="false">i-think-you-should-almost-never-use-ai-to-write</guid>
+      <pubDate>2026-09-20T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Spain Orders Blocks on Archive.today and Its Mirrors</title>
+      <link>https://news.ycombinator.com/item?id=49772961</link>
+      <guid isPermaLink="false">spain-orders-blocks-on-archivetoday-and-its-mirrors</guid>
       <pubDate>2026-09-20T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
       <category>🤖 技术能力</category>
@@ -402,14 +410,6 @@
       <guid isPermaLink="false">score-centering-stabilizes-off-policy-reinforcement-learning</guid>
       <pubDate>2026-09-19T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Reinforcement learning (RL) of large language models is notoriously sensitive to small differences between training and inference engines, often referred to as the training-inference mismatch (TIM). However, completely eliminating TIM is impractical, as it would come at a major cost to rollout effic</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations</title>
-      <link>http://arxiv.org/abs/2609.20817v1</link>
-      <guid isPermaLink="false">famos-feed-forward-3d-articulation-modeling-from-sparse-observations</guid>
-      <pubDate>2026-09-19T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observation and therefore rely heavily on learned category-level shape priors. We present FAM</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
