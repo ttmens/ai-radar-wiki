@@ -4467,3 +4467,12 @@
 - create: a-model-for-winning-survivor.md
 - create: chat-based-large-language-models-replicate-the-mechanisms-of-a-psychics-con.md
 - create: 6-days-left-to-get-ahead-at-techcrunch-disrupt-2026.md
+
+## [2026-09-21 06:02] sync v3 | 8 new | pillars: {'capabilities': 7, 'patterns': 1}
+- create: chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector.md
+- create: pirate-face-rescues-llm-models-from-deletion.md
+- create: i-turned-jev-into-a-lousy-chatbot.md
+- create: laya-os-jev-on-mac-m4-coreml-offline-45-decisions-per-second.md
+- create: is-the-ai-industry-really-ready-to-slow-down.md
+- create: vocci8217s-ring-adds-a-new-form-factor-to-meeting-note-taking.md
+- create: scrolled-wants-to-turn-textbooks-into-tiktok.md

@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-21 | Total pages: 4257
+> Last updated: 2026-09-21 | Total pages: 4264
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -307,6 +307,7 @@
 - [[chat-based-large-language-models-replicate-the-mechanisms-of-a-psychics-con.md]] Chat-based Large Language Models replicate the mechanisms of a psychic's con `pillar:capabilities` `score:0.375`
 - [[chatgpt-images-25.md]] ChatGPT Images 2.5 `pillar:capabilities` `score:0.455`
 - [[chatgpt-is-throwing-404.md]] ChatGPT Is Throwing 404 `pillar:capabilities` `score:0.455`
+- [[chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector.md]] ChatGPT now knows what you do on other websites via ad collector `pillar:capabilities` `score:0.455`
 - [[chatgpt-work-tool-and-skill-reference.md]] ChatGPT Work Tool and Skill Reference `pillar:capabilities` `score:0.255`
 - [[chatgpt-work.md]] ChatGPT Work `pillar:capabilities` `score:0.6`
 - [[chatgpts-image-generator-can-be-manipulated-to-produce-violent-sexual-content.md]] ChatGPT's image generator can be manipulated to produce violent, sexual content `pillar:capabilities` `score:0.5`
@@ -763,6 +764,7 @@
 - [[is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated.md]] Is it legal to train AI models on copyrighted books? It’s complicated `pillar:capabilities` `score:0.305`
 - [[is-one-layer-enough-a-single-transformer-layer-matches-full-parameter-rl-train.md]] Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train `pillar:capabilities` `score:0.38`
 - [[is-silicon-valley-ready-to-put-robots-in-people8217s-homes-hello-robot-is.md]] Is Silicon Valley ready to put robots in people&#8217;s homes? Hello Robot is. `pillar:capabilities` `score:0.515`
+- [[is-the-ai-industry-really-ready-to-slow-down.md]] Is the AI industry really ready to slow down? `pillar:capabilities` `score:0.305`
 - [[is-the-ai-safety-debate-about-safety-or-control.md]] Is the AI safety debate about safety or control? `pillar:capabilities` `score:0.305`
 - [[is-the-us-government8217s-anthropic-ban-accidentally-helping-the-brand.md]] Is the US government&#8217;s Anthropic ban accidentally helping the brand? `pillar:capabilities` `score:0.48`
 - [[is-xai-a-neocloud-now.md]] Is xAI a neocloud now? `pillar:capabilities` `score:0.3`
@@ -815,6 +817,7 @@
 - [[launch-hn-unlayer-yc-w22-add-email-and-document-builders-to-your-app.md]] Launch HN: Unlayer (YC W22) – Add email and document builders to your app `pillar:capabilities` `score:0.38`
 - [[lawmakers-added-1-to-car-insurance-policies-that-money-paid-for-flock-cameras.md]] Lawmakers added $1 to car insurance policies. That money paid for Flock cameras `pillar:capabilities` `score:0.355`
 - [[lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak.md]] Lawmakers Demand Answers as CISA Tries to Contain Data Leak `pillar:capabilities` `score:0.31`
+- [[laya-os-jev-on-mac-m4-coreml-offline-45-decisions-per-second.md]] Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second) `pillar:capabilities` `score:0.305`
 - [[learn-programming-with-ocaml.md]] Learn Programming with OCaml `pillar:capabilities` `score:0.355`
 - [[learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy.md]] Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy `pillar:capabilities` `score:0.205`
 - [[learning-programming-in-an-age-of-llms.md]] Learning Programming in an Age of LLMs `pillar:capabilities` `score:0.375`
@@ -1080,6 +1083,7 @@
 - [[peter-cullen-voice-of-optimus-prime-in-transformers-dies-at-85.md]] Peter Cullen, Voice of Optimus Prime in 'Transformers,' Dies at 85 `pillar:capabilities` `score:0.205`
 - [[pgsimcity-an-explorable-3d-model-that-shows-how-postgres-works.md]] PGSimCity – an explorable 3D model that shows how Postgres works `pillar:capabilities` `score:0.225`
 - [[pinterest-launches-an-experimental-ai-shopping-app-called-8216ask-pinterest8217.md]] Pinterest launches an experimental AI shopping app called &#8216;Ask Pinterest&# `pillar:capabilities` `score:0.48`
+- [[pirate-face-rescues-llm-models-from-deletion.md]] Pirate Face Rescues LLM Models from Deletion `pillar:capabilities` `score:0.425`
 - [[pixi8217s-new-ios-app-turns-text-messages-into-interactive-ar-experiences.md]] Pixi&#8217;s new iOS app turns text messages into interactive AR experiences `pillar:capabilities` `score:0.445`
 - [[playing-with-vision-embeddings.md]] Playing with Vision Embeddings `pillar:capabilities` `score:0.345`
 - [[please-use-ai.md]] Please Use AI `pillar:capabilities` `score:0.645`
@@ -1187,6 +1191,7 @@
 - [[santifercareer-ops.md]] santifer/career-ops `pillar:capabilities` `score:0.405`
 - [[schema-harness-achieves-99-on-arcagi3-public.md]] Schema Harness Achieves ~99% on Arc‑AGI‑3 Public `pillar:capabilities` `score:0.515`
 - [[screenpipescreenpipe.md]] screenpipe/screenpipe `pillar:capabilities` `score:0.615`
+- [[scrolled-wants-to-turn-textbooks-into-tiktok.md]] ScrollEd wants to turn textbooks into TikTok `pillar:capabilities` `score:0.305`
 - [[sealed-tomb-filled-with-paintings-and-inscriptions-discovered-in-egypt.md]] Sealed tomb filled with paintings and inscriptions discovered in Egypt `pillar:capabilities` `score:0.135`
 - [[sean-carroll-explains-the-biggest-ideas-in-the-universe-full-interview-video-202.md]] Sean Carroll explains the biggest ideas in the universe – Full Interview [video] `pillar:capabilities` `score:0.255`
 - [[seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsof.md]] Seattle Times and Newsday are the latest publications to sue OpenAI and Microsof `pillar:capabilities` `score:0.305`
@@ -1642,6 +1647,7 @@
 - [[vintage-artificial-intelligence-before-it-got-awkward.md]] Vintage Artificial Intelligence: Before It Got Awkward `pillar:capabilities` `score:0.205`
 - [[vllm-projectvllm.md]] vllm-project/vllm `pillar:capabilities` `score:0.615`
 - [[vllm-v0280.md]] vLLM v0.28.0 `pillar:capabilities` `score:0.205`
+- [[vocci8217s-ring-adds-a-new-form-factor-to-meeting-note-taking.md]] Vocci&#8217;s ring adds a new form factor to meeting note-taking `pillar:capabilities` `score:0.305`
 - [[voice-ai-systems-are-vulnerable-to-hidden-audio-attacks.md]] Voice AI Systems Are Vulnerable to Hidden Audio Attacks `pillar:capabilities` `score:0.395`
 - [[voxel51fiftyone.md]] voxel51/fiftyone `pillar:capabilities` `score:0.58`
 - [[vulkan-is-now-available-on-netbsd.md]] Vulkan is now available on NetBSD `pillar:capabilities` `score:0.205`
@@ -2737,6 +2743,7 @@
 - [[i-accidentally-turned-llm-memory-into-program-analysis.md]] I accidentally turned LLM memory into program analysis `pillar:patterns` `score:0.205`
 - [[i-have-adhd-a-skill-to-stop-coding-agents-from-burying-the-answer.md]] I-have-ADHD: A skill to stop coding agents from burying the answer `pillar:patterns` `score:0.455`
 - [[i-put-google8217s-247-ai-assistant-gemini-spark-to-work-and-it8217s-actually-pre.md]] I put Google&#8217;s 24/7 AI assistant Gemini Spark to work, and it&#8217;s actu `pillar:patterns` `score:0.48`
+- [[i-turned-jev-into-a-lousy-chatbot.md]] I turned Jev into a (lousy) chatbot `pillar:patterns` `score:0.255`
 - [[iceland-based-treble-raises-18-million-for-its-voice-simulation-platform.md]] Iceland-based Treble raises $18 million for its voice simulation platform `pillar:patterns` `score:0.305`
 - [[india8217s-moengage-bets-that-the-future-of-marketing-is-millions-of-ai-agents.md]] India&#8217;s MoEngage bets that the future of marketing is millions of AI agent `pillar:patterns` `score:0.445`
 - [[india8217s-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone.md]] India&#8217;s Ringg gets backing from Peak XV as it pushes voice AI past the pho `pillar:patterns` `score:0.305`

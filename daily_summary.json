@@ -2,7 +2,7 @@
   "daily_summary": {
     "date": "2026-09-21",
     "headline": "今日 AI 情报 · 2026-09-21",
-    "overview": "今日共采集 3 条情报",
+    "overview": "今日共采集 10 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -10,10 +10,25 @@
         "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "chat-based-large-language-models-replicate-the-mechanisms-of-a-psychics-con",
-            "title": "Chat-based Large Language Models replicate the mechanisms of a psychic",
-            "score": 0.38,
-            "url": "https://news.ycombinator.com/item?id=49775104",
+            "id": "chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+            "title": "ChatGPT now knows what you do on other websites via ad collector",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=49776729",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日📱 产品模式方向有新的动态。",
+        "evidence": [
+          {
+            "id": "i-turned-jev-into-a-lousy-chatbot",
+            "title": "I turned Jev into a (lousy) chatbot",
+            "score": 0.26,
+            "url": "https://news.ycombinator.com/item?id=49778162",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -36,17 +51,45 @@
       }
     ],
     "narratives": [],
-    "stats": "🤖 技术能力: 2 | 💰 商业趋势: 1",
-    "total_items": 3,
-    "high_value_count": 2,
+    "stats": "🤖 技术能力: 8 | 💰 商业趋势: 1 | 📱 产品模式: 1",
+    "total_items": 10,
+    "high_value_count": 8,
     "all_today_ids": [
+      {
+        "id": "chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+        "label": "ChatGPT now knows what you do on other websites via ad collector"
+      },
+      {
+        "id": "pirate-face-rescues-llm-models-from-deletion",
+        "label": "Pirate Face Rescues LLM Models from Deletion"
+      },
       {
         "id": "chat-based-large-language-models-replicate-the-mechanisms-of-a-psychics-con",
         "label": "Chat-based Large Language Models replicate the mechanisms of a psychic's con"
       },
       {
+        "id": "laya-os-jev-on-mac-m4-coreml-offline-45-decisions-per-second",
+        "label": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)"
+      },
+      {
+        "id": "is-the-ai-industry-really-ready-to-slow-down",
+        "label": "Is the AI industry really ready to slow down?"
+      },
+      {
+        "id": "vocci8217s-ring-adds-a-new-form-factor-to-meeting-note-taking",
+        "label": "Vocci&#8217;s ring adds a new form factor to meeting note-taking"
+      },
+      {
         "id": "6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
         "label": "6 days left to get ahead at TechCrunch Disrupt 2026"
+      },
+      {
+        "id": "scrolled-wants-to-turn-textbooks-into-tiktok",
+        "label": "ScrollEd wants to turn textbooks into TikTok"
+      },
+      {
+        "id": "i-turned-jev-into-a-lousy-chatbot",
+        "label": "I turned Jev into a (lousy) chatbot"
       },
       {
         "id": "a-model-for-winning-survivor",
@@ -54,6 +97,6 @@
       }
     ],
     "date_bj": "2026-09-21 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-21 00:01:41"
+    "generated_at_bj": "2026-09-21 06:01:32"
   }
 }
