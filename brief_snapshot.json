@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
-  "generated_at": "2026-09-20T06:02:01.299317+08:00",
-  "item_count": 11,
+  "generated_at": "2026-09-20T12:02:03.423287+08:00",
+  "item_count": 12,
   "items": [
     {
       "id": "i-built-non-autoregressive-decision-models-with-rl-a-year-ago",
@@ -92,6 +92,17 @@
       "date": "2026-09-20"
     },
     {
+      "id": "can-you-tell-which-images-are-ai-generated",
+      "label": "Can you tell which images are AI-generated?",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49770847",
+      "date": "2026-09-20"
+    },
+    {
       "id": "trump-says-it8217s-time-to-rebrand-ai-with-a-new-name-and-he8217s-also-creating",
       "label": "Trump says it&#8217;s time to rebrand AI with a new name — and he&#8217;s also c",
       "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
@@ -126,7 +137,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 8668,
-    "edges": 9301
+    "real_nodes": 8669,
+    "edges": 9302
   }
 }

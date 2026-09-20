@@ -4456,3 +4456,6 @@
 - create: flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts.md
 - create: trump-says-it8217s-time-to-rebrand-ai-with-a-new-name-and-he8217s-also-creating.md
 - create: googles-gemini-is-the-latest-ai-model-to-hack-other-companies.md
+
+## [2026-09-20 12:02] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: can-you-tell-which-images-are-ai-generated.md
