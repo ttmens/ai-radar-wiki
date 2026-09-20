@@ -4459,3 +4459,6 @@
 
 ## [2026-09-20 12:02] sync v3 | 1 new | pillars: {'capabilities': 1}
 - create: can-you-tell-which-images-are-ai-generated.md
+
+## [2026-09-20 18:02] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: spain-orders-blocks-on-archivetoday-and-its-mirrors.md

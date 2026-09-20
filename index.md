@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-20 | Total pages: 4253
+> Last updated: 2026-09-20 | Total pages: 4254
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -1404,6 +1404,7 @@
 - [[south-korean-forums-will-need-to-scan-every-images-with-ai-censorship-tools.md]] South Korean Forums Will Need to Scan Every Images with AI Censorship Tools `pillar:capabilities` `score:0.345`
 - [[spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo.md]] SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO `pillar:capabilities` `score:0.305`
 - [[spacexai-releases-grok-45-which-elon-describes-as-an-8216opus-class-model8217.md]] SpaceXAI releases Grok 4.5, which Elon describes as an &#8216;Opus-class model&# `pillar:capabilities` `score:0.445`
+- [[spain-orders-blocks-on-archivetoday-and-its-mirrors.md]] Spain Orders Blocks on Archive.today and Its Mirrors `pillar:capabilities` `score:0.355`
 - [[speculations-concerning-the-first-ultraintelligent-machine-1965-pdf.md]] Speculations Concerning the First Ultraintelligent Machine (1965) [pdf] `pillar:capabilities` `score:0.24`
 - [[speculative-decoding-in-vllm-on-amd-gpus.md]] Speculative Decoding in vLLM on AMD GPUs `pillar:capabilities` `score:0.155`
 - [[speech-recognition-and-tts-in-less-than-500kb.md]] Speech Recognition and TTS in less than 500kb `pillar:capabilities` `score:0.43`

@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Sep 2026 04:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 08:00:15 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -75,6 +75,14 @@
       <pubDate>2026-09-20T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>Can you tell which images are AI-generated?</title>
+      <link>https://news.ycombinator.com/item?id=49770847</link>
+      <guid isPermaLink="false">can-you-tell-which-images-are-ai-generated</guid>
+      <pubDate>2026-09-20T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Trump says it&amp;#8217;s time to rebrand AI with a new name — and he&amp;#8217;s also c</title>
@@ -402,14 +410,6 @@
       <guid isPermaLink="false">famos-feed-forward-3d-articulation-modeling-from-sparse-observations</guid>
       <pubDate>2026-09-19T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observation and therefore rely heavily on learned category-level shape priors. We present FAM</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generat</title>
-      <link>http://arxiv.org/abs/2609.20794v1</link>
-      <guid isPermaLink="false">posteriorbench-from-point-estimates-to-posterior-matching-in-evaluating-generati</guid>
-      <pubDate>2026-09-19T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Generative models are increasingly used to solve scientific inverse problems, but existing evaluations still focus primarily on whether a method can produce a single plausible reconstruction. This is insufficient for ill-posed problems, where multiple solutions may be consistent with the same sparse</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
