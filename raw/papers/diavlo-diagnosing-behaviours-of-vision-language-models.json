@@ -1,0 +1,22 @@
+{
+  "title": "DiaVLo: Diagnosing Behaviours of Vision-Language Models",
+  "summary": "Vision-language models (VLMs) rely on storing and transferring appropriate information across their sub-components. Verifying that the VLMs exhibit desired behaviours, while avoiding harmful ones, is central to their reliable deployment. Yet, methods that identify VLM behaviours remain scarce. We present DiaVLo, a diagnostic framework that leverages human curation and VLMs' generation capabilities to construct specifications of desired and observed VLM behaviours, surfacing potential misalignments. Beyond this, DiaVLo also provides causal estimates to identify the most influential concepts steering VLM behaviours. We evaluate DiaVLo on several open-source VLMs under both classification and generation conditions. Our experiments show that DiaVLo produces behaviour labels that correlate with model performance and provide context for measured performance. DiaVLo surfaced behaviours that are clearly aligned and misaligned, alongside patterns in how VLMs perceive, organise, and prioritise concepts.",
+  "url": "http://arxiv.org/abs/2609.22008v1",
+  "authors": [
+    "Lorenzo Corti",
+    "Jie Yang"
+  ],
+  "published": "2026-09-18T17:06:44Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "framework",
+    "eval",
+    "deployment"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

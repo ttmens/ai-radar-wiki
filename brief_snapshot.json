@@ -1,8 +1,19 @@
 {
   "date": "2026-09-21",
-  "generated_at": "2026-09-21T06:02:03.565158+08:00",
-  "item_count": 8,
+  "generated_at": "2026-09-21T20:04:10.696695+08:00",
+  "item_count": 15,
   "items": [
+    {
+      "id": "ax-googles-open-agentic-orchestrator",
+      "label": "AX – Google’s Open Agentic Orchestrator",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.505,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49780797",
+      "date": "2026-09-21"
+    },
     {
       "id": "chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
       "label": "ChatGPT now knows what you do on other websites via ad collector",
@@ -26,6 +37,17 @@
       "date": "2026-09-21"
     },
     {
+      "id": "thealgorithmsc-plus-plus",
+      "label": "TheAlgorithms/C-Plus-Plus",
+      "summary": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+      "date": "2026-09-21"
+    },
+    {
       "id": "chat-based-large-language-models-replicate-the-mechanisms-of-a-psychics-con",
       "label": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
       "summary": "暂无中文摘要",
@@ -37,6 +59,39 @@
       "date": "2026-09-21"
     },
     {
+      "id": "ai-chatbots-give-wrong-answers-to-financial-queries-most-of-the-time",
+      "label": "AI chatbots give wrong answers to financial queries 'most of the time'",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49783062",
+      "date": "2026-09-21"
+    },
+    {
+      "id": "kev-tiny-jev-like-family-of-decision-models-built-on-top-of-qwen35",
+      "label": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49783999",
+      "date": "2026-09-21"
+    },
+    {
+      "id": "if-ai-coding-is-lowering-your-code-quality-youre-not-managing-quality-right",
+      "label": "If AI coding is lowering your code quality, you're not managing quality right",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.325,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49774795",
+      "date": "2026-09-21"
+    },
+    {
       "id": "laya-os-jev-on-mac-m4-coreml-offline-45-decisions-per-second",
       "label": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
       "summary": "暂无中文摘要",
@@ -45,6 +100,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49777106",
+      "date": "2026-09-21"
+    },
+    {
+      "id": "amiga-unix-again",
+      "label": "Amiga Unix, Again",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49781436",
       "date": "2026-09-21"
     },
     {
@@ -67,6 +133,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "date": "2026-09-21"
+    },
+    {
+      "id": "show-hn-mini-agi-dynamic-continual-learning-model-trained-on-8gb-vram",
+      "label": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49783133",
       "date": "2026-09-21"
     },
     {
@@ -93,7 +170,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 8680,
-    "edges": 9313
+    "real_nodes": 8702,
+    "edges": 9347
   }
 }

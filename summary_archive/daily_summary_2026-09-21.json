@@ -2,18 +2,18 @@
   "daily_summary": {
     "date": "2026-09-21",
     "headline": "今日 AI 情报 · 2026-09-21",
-    "overview": "今日共采集 10 条情报",
+    "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "今日🤖 技术能力方向有新的动态。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：安全/漏洞, AI Agent。",
         "evidence": [
           {
-            "id": "chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-            "title": "ChatGPT now knows what you do on other websites via ad collector",
-            "score": 0.46,
-            "url": "https://news.ycombinator.com/item?id=49776729",
+            "id": "codemidas-scaling-agentic-coding-rl-environments-from-code-itself",
+            "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+            "score": 0.26,
+            "url": "http://arxiv.org/abs/2609.22068v1",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -22,13 +22,42 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "今日📱 产品模式方向有新的动态。",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：AI Agent, 融资/投资。",
         "evidence": [
           {
-            "id": "i-turned-jev-into-a-lousy-chatbot",
-            "title": "I turned Jev into a (lousy) chatbot",
+            "id": "ax-googles-open-agentic-orchestrator",
+            "title": "AX – Google’s Open Agentic Orchestrator",
+            "score": 0.51,
+            "url": "https://news.ycombinator.com/item?id=49780797",
+            "reason": "高价值信号"
+          },
+          {
+            "id": "value-sensitive-delegation-in-everyday-ai-agent-use-evidence-from-openclaw",
+            "title": "Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from Ope",
             "score": 0.26,
-            "url": "https://news.ycombinator.com/item?id=49778162",
+            "url": "http://arxiv.org/abs/2609.22067v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "designer-rsi-evolving-procedural-memory-from-user-traffic-for-agentic-graphic-de",
+            "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic",
+            "score": 0.26,
+            "url": "http://arxiv.org/abs/2609.22086v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向有新的动态。",
+        "evidence": [
+          {
+            "id": "diavlo-diagnosing-behaviours-of-vision-language-models",
+            "title": "DiaVLo: Diagnosing Behaviours of Vision-Language Models",
+            "score": 0.26,
+            "url": "http://arxiv.org/abs/2609.22008v1",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -50,11 +79,28 @@
         "trend": "new"
       }
     ],
-    "narratives": [],
-    "stats": "🤖 技术能力: 8 | 💰 商业趋势: 1 | 📱 产品模式: 1",
-    "total_items": 10,
-    "high_value_count": 8,
+    "narratives": [
+      {
+        "title": "AI Agent 工具链与协作流程快速成熟",
+        "body": "今日4条情报涉及AI Agent及相关工具生态。典型项目包括：AX – Google’s Open Agentic Orchestrator, Value-Sensitive Delegation in Everyday A, CodeMidas: Scaling Agentic Coding RL Env。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "type": "paradigm_shift",
+        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      },
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日1条情报涉及AI商业动态。包括：Value-Sensitive Delegation in Everyday A。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
+      }
+    ],
+    "stats": "📱 产品模式: 6 | 🤖 技术能力: 23 | 💰 商业趋势: 1 | 🔧 工具生态: 2",
+    "total_items": 32,
+    "high_value_count": 15,
     "all_today_ids": [
+      {
+        "id": "ax-googles-open-agentic-orchestrator",
+        "label": "AX – Google’s Open Agentic Orchestrator"
+      },
       {
         "id": "chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
         "label": "ChatGPT now knows what you do on other websites via ad collector"
@@ -64,12 +110,32 @@
         "label": "Pirate Face Rescues LLM Models from Deletion"
       },
       {
+        "id": "thealgorithmsc-plus-plus",
+        "label": "TheAlgorithms/C-Plus-Plus"
+      },
+      {
         "id": "chat-based-large-language-models-replicate-the-mechanisms-of-a-psychics-con",
         "label": "Chat-based Large Language Models replicate the mechanisms of a psychic's con"
       },
       {
+        "id": "ai-chatbots-give-wrong-answers-to-financial-queries-most-of-the-time",
+        "label": "AI chatbots give wrong answers to financial queries 'most of the time'"
+      },
+      {
+        "id": "kev-tiny-jev-like-family-of-decision-models-built-on-top-of-qwen35",
+        "label": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5"
+      },
+      {
+        "id": "if-ai-coding-is-lowering-your-code-quality-youre-not-managing-quality-right",
+        "label": "If AI coding is lowering your code quality, you're not managing quality right"
+      },
+      {
         "id": "laya-os-jev-on-mac-m4-coreml-offline-45-decisions-per-second",
         "label": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)"
+      },
+      {
+        "id": "amiga-unix-again",
+        "label": "Amiga Unix, Again"
       },
       {
         "id": "is-the-ai-industry-really-ready-to-slow-down",
@@ -80,6 +146,10 @@
         "label": "Vocci&#8217;s ring adds a new form factor to meeting note-taking"
       },
       {
+        "id": "show-hn-mini-agi-dynamic-continual-learning-model-trained-on-8gb-vram",
+        "label": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM"
+      },
+      {
         "id": "6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
         "label": "6 days left to get ahead at TechCrunch Disrupt 2026"
       },
@@ -88,15 +158,75 @@
         "label": "ScrollEd wants to turn textbooks into TikTok"
       },
       {
+        "id": "show-hn-a-competition-for-small-neural-networks-that-play-strategy-games",
+        "label": "Show HN: A competition for small neural networks that play strategy games"
+      },
+      {
         "id": "i-turned-jev-into-a-lousy-chatbot",
         "label": "I turned Jev into a (lousy) chatbot"
       },
       {
+        "id": "particle-competition-and-cooperation-for-robust-graph-convolutional-network-lear",
+        "label": "Particle Competition and Cooperation for Robust Graph Convolutional Network Lear"
+      },
+      {
+        "id": "value-sensitive-delegation-in-everyday-ai-agent-use-evidence-from-openclaw",
+        "label": "Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw"
+      },
+      {
+        "id": "gricea-an-open-science-platform-for-conversational-ai-research",
+        "label": "Gricea: An Open Science Platform for Conversational AI Research"
+      },
+      {
+        "id": "complex-a-closed-form-certified-embedding-of-multiparameter-persistence-modules",
+        "label": "COMPLEX: A Closed-Form Certified Embedding of Multiparameter Persistence Modules"
+      },
+      {
+        "id": "available-guardrails-certifying-selective-prediction-across-ml-systems",
+        "label": "Available Guardrails: Certifying Selective Prediction across ML Systems"
+      },
+      {
+        "id": "brainwidebench-benchmarking-large-scale-pretraining-and-across-animal-transfer-i",
+        "label": "BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer"
+      },
+      {
+        "id": "codemidas-scaling-agentic-coding-rl-environments-from-code-itself",
+        "label": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself"
+      },
+      {
+        "id": "designer-rsi-evolving-procedural-memory-from-user-traffic-for-agentic-graphic-de",
+        "label": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic D"
+      },
+      {
+        "id": "benchmarking-world-models-for-continual-learning-on-compositional-tasks",
+        "label": "Benchmarking World Models for Continual Learning on Compositional Tasks"
+      },
+      {
+        "id": "predictable-failure-in-multi-hop-retrieval-score-distributional-confidence-scori",
+        "label": "Predictable Failure in Multi-Hop Retrieval: Score-Distributional Confidence Scor"
+      },
+      {
+        "id": "diavlo-diagnosing-behaviours-of-vision-language-models",
+        "label": "DiaVLo: Diagnosing Behaviours of Vision-Language Models"
+      },
+      {
+        "id": "λ-controlled-grpo-turning-flow-matching-ratio-instability-into-a-budgeted-resour",
+        "label": "$λ$-Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Res"
+      },
+      {
+        "id": "heretic-removes-restrictions-from-language-models",
+        "label": "Heretic removes restrictions from language models"
+      },
+      {
         "id": "a-model-for-winning-survivor",
         "label": "A Model for Winning Survivor"
+      },
+      {
+        "id": "show-hn-jevals-replacing-llm-judges-with-typed-jev-decisions",
+        "label": "Show HN: jevals – replacing LLM judges with typed Jev decisions"
       }
     ],
     "date_bj": "2026-09-21 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-21 06:01:32"
+    "generated_at_bj": "2026-09-21 20:03:39"
   }
 }

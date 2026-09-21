@@ -4476,3 +4476,27 @@
 - create: is-the-ai-industry-really-ready-to-slow-down.md
 - create: vocci8217s-ring-adds-a-new-form-factor-to-meeting-note-taking.md
 - create: scrolled-wants-to-turn-textbooks-into-tiktok.md
+
+## [2026-09-21 20:04] sync v3 | 22 new | pillars: {'capabilities': 15, 'patterns': 5, 'ecosystem': 2}
+- create: thealgorithmsc-plus-plus.md
+- create: designer-rsi-evolving-procedural-memory-from-user-traffic-for-agentic-graphic-de.md
+- create: codemidas-scaling-agentic-coding-rl-environments-from-code-itself.md
+- create: value-sensitive-delegation-in-everyday-ai-agent-use-evidence-from-openclaw.md
+- create: brainwidebench-benchmarking-large-scale-pretraining-and-across-animal-transfer-i.md
+- create: predictable-failure-in-multi-hop-retrieval-score-distributional-confidence-scori.md
+- create: benchmarking-world-models-for-continual-learning-on-compositional-tasks.md
+- create: particle-competition-and-cooperation-for-robust-graph-convolutional-network-lear.md
+- create: available-guardrails-certifying-selective-prediction-across-ml-systems.md
+- create: λ-controlled-grpo-turning-flow-matching-ratio-instability-into-a-budgeted-resour.md
+- create: gricea-an-open-science-platform-for-conversational-ai-research.md
+- create: complex-a-closed-form-certified-embedding-of-multiparameter-persistence-modules.md
+- create: diavlo-diagnosing-behaviours-of-vision-language-models.md
+- create: kev-tiny-jev-like-family-of-decision-models-built-on-top-of-qwen35.md
+- create: ax-googles-open-agentic-orchestrator.md
+- create: show-hn-mini-agi-dynamic-continual-learning-model-trained-on-8gb-vram.md
+- create: heretic-removes-restrictions-from-language-models.md
+- create: amiga-unix-again.md
+- create: show-hn-a-competition-for-small-neural-networks-that-play-strategy-games.md
+- create: ai-chatbots-give-wrong-answers-to-financial-queries-most-of-the-time.md
+- create: if-ai-coding-is-lowering-your-code-quality-youre-not-managing-quality-right.md
+- create: show-hn-jevals-replacing-llm-judges-with-typed-jev-decisions.md
