@@ -1,0 +1,20 @@
+{
+  "title": "On Emergent Capabilities and Model Merging",
+  "summary": "Fine-tuned checkpoints and adapters now fill public repositories, and the most common operation applied to these artifacts is model merging: arithmetic on their weights that assembles capabilities cheaply. We ask what this operation does to emergent capabilities: behaviors an artifact carries that were never an explicit training target. Studying two independent testbeds (activation oracles and emergent-misaligned models) across three model families, we find that the answer is threefold. First, merging preserves an emergent capability that both parents carry: merging two misaligned checkpoints retains most of their broad misalignment across the whole mixing range. Second, merging cannot create an emergent capability that is superadditive in its parents: no weighted merge of two single-task oracles reaches the jointly-trained oracle's auditing ability. Third, when only one parent carries the capability, merging dilutes it faster than the trained capability that accompanies it: the gap is significant in most settings. In short, emergent behaviors of an artifact do not compose the way its trained capability does.",
+  "url": "http://arxiv.org/abs/2609.24504v1",
+  "authors": [
+    "Luca Zhou",
+    "Emanuele Rodolà"
+  ],
+  "published": "2026-09-21T12:44:35Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

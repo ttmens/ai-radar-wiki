@@ -1,0 +1,29 @@
+{
+  "title": "VPRune: Efficient Training-free Pre-LLM Visual Token Pruning",
+  "summary": "Visual token pruning is a promising approach to reducing the inference cost of large vision-language models (LVLMs), yet aggressive token reduction often causes substantial performance degradation. We identify three key factors behind this degradation: text-guided selection bias, information loss from discarded tokens, and positional distortion caused by sequence compaction. Based on these observations, we propose \\textbf{VPRune}, a training-free pre-LLM pruning framework consisting of visual-only diversity selection, similarity-guided token recycling, and position-preserving restoration. Experiments on FastVLM-1.5B across multiple vision-language benchmarks demonstrate that VPRune achieves a favorable accuracy--compression trade-off, with particularly pronounced advantages under aggressive compression. Furthermore, evaluations on edge-device show that VPRune effectively reduces end-to-end inference latency while maintaining superior task performance, demonstrating its practicality for resource-constrained LVLM deployment.",
+  "url": "http://arxiv.org/abs/2609.24485v1",
+  "authors": [
+    "Guangchuan Lv",
+    "Dianxing Shi",
+    "Dingjie FU"
+  ],
+  "published": "2026-09-21T12:24:39Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "latency",
+    "inference",
+    "token",
+    "benchmark",
+    "vision",
+    "training",
+    "compression",
+    "accuracy",
+    "similarity"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

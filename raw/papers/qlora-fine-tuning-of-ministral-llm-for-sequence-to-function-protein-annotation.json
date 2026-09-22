@@ -1,0 +1,23 @@
+{
+  "title": "QLoRA Fine-Tuning of Ministral LLM for Sequence-to-Function Protein Annotation",
+  "summary": "Functional annotation of newly sequenced proteins remains a bottleneck in molecular biology: the number of sequences in public repositories grows far faster than the capacity for manual curation. Most computational approaches consider annotation as multi-label classification over a fixed ontology, which constrains predictions to a predefined label set. In this work we study the the protein annotation as a sequence-to-text generation problem. We fine-tune the 3B-parameter Ministral 3 base model with QLoRA (4-bit NF4 quantization with low-rank adapters) on sequence annotation pairs. We assess predictions with an LLM-as-expert protocol: a GPT model prompted as a senior molecular-biology curator scores organism identification as binary and function annotation quality. We conclude that QLoRA-fine-tuned compact LLMs can generate curator-style annotations with genuine biological value for a substantial subset of proteins. We also discuss future directions in data quality, model scaling, and evidence grounding that are needed to make the approach sufficiently reliable for practical use.",
+  "url": "http://arxiv.org/abs/2609.24538v1",
+  "authors": [
+    "Demian Pavlyshenko",
+    "Bohdan Pavlyshenko"
+  ],
+  "published": "2026-09-21T13:09:59Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "fine-tuning",
+    "quantization",
+    "parameter",
+    "gan"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

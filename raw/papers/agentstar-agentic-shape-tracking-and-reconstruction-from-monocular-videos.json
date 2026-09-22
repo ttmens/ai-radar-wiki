@@ -1,0 +1,24 @@
+{
+  "title": "AgentSTAR: Agentic Shape Tracking and Reconstruction from Monocular Videos",
+  "summary": "In this work, we present a method for shape reconstruction and tracking from video via agentic analysis-by-synthesis. Unlike prior methods which first estimate dense pixel correspondences and then recover object motion from them, our method infers a structured 3D object model, including its geometry and kinematic structure, and uses this model to optimise object track estimates over time. In our optimisation loop, a Vision-Language Model (VLM) agent iteratively refines shape or generalised pose through a render-and-compare loop, combining coarse visual reasoning with numerical pose optimisation for precise state estimation. This structured formulation enables our method to track through large motion, articulation, and severe occlusion without relying on pixel-matching objectives. Quantitatively, on ARCTIC, our method substantially outperforms state-of-the-art 3D point-tracking baselines for articulated objects, and on HOT3D it outperforms all evaluated rigid-object tracking baselines.",
+  "url": "http://arxiv.org/abs/2609.24487v1",
+  "authors": [
+    "Kirill Mazur",
+    "Nikita Karaev",
+    "Matthew Chang",
+    "Jitendra Malik",
+    "Nur Muhammad \"Mahi'' Shafiullah"
+  ],
+  "published": "2026-09-21T12:26:13Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision",
+    "reasoning"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

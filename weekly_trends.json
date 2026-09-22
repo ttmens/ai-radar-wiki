@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-21T20:04:10.305602+08:00",
-  "days_analyzed": 118,
+  "generated_at": "2026-09-22T12:05:25.675080+08:00",
+  "days_analyzed": 119,
   "pillar_trends": {
     "capabilities": {
-      "trend": "stable",
-      "delta": 0,
-      "current": 1,
+      "trend": "up",
+      "delta": 1,
+      "current": 2,
       "previous": 1,
       "has_data": true
     },
     "patterns": {
-      "trend": "up",
-      "delta": 3,
-      "current": 3,
-      "previous": 0,
+      "trend": "down",
+      "delta": -2,
+      "current": 1,
+      "previous": 3,
       "has_data": true
     },
     "ecosystem": {
@@ -24,11 +24,11 @@
       "has_data": true
     },
     "business": {
-      "trend": "stable",
-      "delta": 0,
-      "current": 1,
+      "trend": "down",
+      "delta": -1,
+      "current": 0,
       "previous": 1,
-      "has_data": true
+      "has_data": false
     }
   },
   "narrative_chains": [
@@ -72,7 +72,8 @@
         "2026-09-17",
         "2026-09-18",
         "2026-09-19",
-        "2026-09-21"
+        "2026-09-21",
+        "2026-09-22"
       ],
       "instances": [
         {
@@ -1034,6 +1035,30 @@
               "pillar": "capabilities"
             }
           ]
+        },
+        {
+          "date": "2026-09-22",
+          "title": "AI Agent 工具链与协作流程快速成熟",
+          "body": "今日4条情报涉及AI Agent及相关工具生态。典型项目包括：Meta&#8217;s Muse is outpacing ChatGPT’s, Meta&#8217;s AI agent has been blocked f, Beyond Predictable Paths: Redefining AI 。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "type": "paradigm_shift",
+          "evidence": [
+            {
+              "id": "meta8217s-ai-agent-has-been-blocked-from-using-amazoncom",
+              "title": "Meta&#8217;s AI agent has been blocked from using Amazon.com",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "agentstar-agentic-shape-tracking-and-reconstruction-from-monocular-videos",
+              "title": "AgentSTAR: Agentic Shape Tracking and Reconstruction from Monocular Vi",
+              "score": 0.3,
+              "url": "http://arxiv.org/abs/2609.24487v1",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            }
+          ]
         }
       ],
       "lifecycle": "declining"
@@ -1761,7 +1786,8 @@
         "2026-09-10",
         "2026-09-17",
         "2026-09-18",
-        "2026-09-19"
+        "2026-09-19",
+        "2026-09-22"
       ],
       "instances": [
         {
@@ -2057,6 +2083,22 @@
               "url": "http://arxiv.org/abs/2609.20784v1",
               "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "capabilities"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-22",
+          "title": "AI安全与信任正成为规模化部署的关键挑战",
+          "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：Not All Task Vectors Need Equal Rank: En, Beyond Predictable Paths: Redefining AI 。具体信号：安全漏洞。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+          "type": "bottleneck",
+          "evidence": [
+            {
+              "id": "beyond-predictable-paths-redefining-ai-security-incident-reporting-for-agents",
+              "title": "Beyond Predictable Paths: Redefining AI Security Incident Reporting fo",
+              "score": 0.3,
+              "url": "http://arxiv.org/abs/2609.24515v1",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
             }
           ]
         }
@@ -2612,13 +2654,7 @@
       "lifecycle": "emerging"
     }
   ],
-  "contradictions": [
-    {
-      "date": "2026-09-19",
-      "type": "growth_vs_risk",
-      "description": "Growth validation detected alongside infrastructure/trust bottlenecks."
-    }
-  ],
+  "contradictions": [],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-09-21**（118天），累计 **3112** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：📱 产品模式呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-09-22**（119天），累计 **3146** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：🤖 技术能力呈上升趋势"
 }
