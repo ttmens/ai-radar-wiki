@@ -7,7 +7,7 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：桌面/本地化, 安全/漏洞。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：融资/投资, 桌面/本地化, 安全/漏洞。",
         "evidence": [
           {
             "id": "harness-zero-harness-distillation-via-agent-as-harness",
@@ -102,14 +102,14 @@
       },
       {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日2条情报涉及AI商业动态。包括：Nscale’s IPO will test Wall Street&#8217, GameHorizon Suite: Multi-Horizon Data an。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日3条情报涉及AI商业动态。包括：Nscale’s IPO will test Wall Street&#8217, Snorkel AI triples valuation to $3.5B as, GameHorizon Suite: Multi-Horizon Data an。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 28 | 📱 产品模式: 7 | 💰 商业趋势: 1 | 🔧 工具生态: 3",
-    "total_items": 39,
-    "high_value_count": 32,
+    "stats": "🤖 技术能力: 34 | 📱 产品模式: 7 | 💰 商业趋势: 1 | 🔧 工具生态: 3",
+    "total_items": 45,
+    "high_value_count": 34,
     "all_today_ids": [
       {
         "id": "i-said-no-and-apple-said-yes",
@@ -188,8 +188,16 @@
         "label": "Nscale’s IPO will test Wall Street&#8217;s appetite for concentrated AI bets onc"
       },
       {
+        "id": "snorkel-ai-triples-valuation-to-35b-as-demand-for-ai-training-data-booms",
+        "label": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms"
+      },
+      {
         "id": "techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-ons",
         "label": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life o"
+      },
+      {
+        "id": "qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai",
+        "label": "Qualcomm launches two new smartphone chips with emphasis on AI"
       },
       {
         "id": "harness-zero-harness-distillation-via-agent-as-harness",
@@ -244,6 +252,10 @@
         "label": "Writing Rust code that's fast by asking agents to make the code faster"
       },
       {
+        "id": "did-openai-solve-the-wrong-navier-stokes-problem",
+        "label": "Did OpenAI solve the wrong Navier-Stokes problem?"
+      },
+      {
         "id": "vacate-a-drone-restriction-that-criminalized-recording-immigration-agents",
         "label": "Vacate a drone restriction that criminalized recording immigration agents"
       },
@@ -260,8 +272,20 @@
         "label": "Unreal Agent"
       },
       {
+        "id": "show-hn-training-a-model-to-identify-ai-web-content-from-structure-alone",
+        "label": "Show HN: Training a model to identify AI web content from structure alone"
+      },
+      {
+        "id": "show-hn-jevbench-a-reproducible-benchmark-for-typed-decision-models",
+        "label": "Show HN: JevBench, a reproducible benchmark for typed decision models"
+      },
+      {
         "id": "show-hn-aireterag-a-rete-rule-engine-decides-rag-explains-why",
         "label": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why"
+      },
+      {
+        "id": "llm-ass-bench",
+        "label": "LLM Ass Bench"
       },
       {
         "id": "show-hn-instinctflash-high-performance-serving-runtime-for-robotics-models",
@@ -269,6 +293,6 @@
       }
     ],
     "date_bj": "2026-09-23 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-23 04:04:32"
+    "generated_at_bj": "2026-09-23 06:01:41"
   }
 }

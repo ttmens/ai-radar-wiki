@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-23 | Total pages: 4359
+> Last updated: 2026-09-23 | Total pages: 4365
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -432,6 +432,7 @@
 - [[detecting-and-countering-misuse-of-ai-september-2026.md]] Detecting and countering misuse of AI: September 2026 `pillar:capabilities` `score:0.375`
 - [[detecting-llm-generated-texts-with-classical-machine-learning.md]] Detecting LLM-Generated Texts with “Classical” Machine Learning `pillar:capabilities` `score:0.53`
 - [[did-claude-increase-bugs-in-rsync.md]] Did Claude increase bugs in rsync? `pillar:capabilities` `score:0.63`
+- [[did-openai-solve-the-wrong-navier-stokes-problem.md]] Did OpenAI solve the wrong Navier-Stokes problem? `pillar:capabilities` `score:0.255`
 - [[diffusiongemma-4x-faster-text-generation.md]] DiffusionGemma: 4x Faster Text Generation `pillar:capabilities` `score:0.615`
 - [[digg-tries-again-this-time-as-an-ai-news-aggregat.md]] Digg tries again, this time as an AI news aggregator `pillar:capabilities` `score:0.305`
 - [[digital-printing-of-arabic-explaining-the-problem.md]] Digital Printing of Arabic: explaining the problem `pillar:capabilities` `score:0.33`
@@ -859,6 +860,7 @@
 - [[linkedin-adds-a-button-to-report-ai-generated-8216slop8217.md]] LinkedIn adds a button to report AI-generated &#8216;slop&#8217; `pillar:capabilities` `score:0.515`
 - [[liquid-ai-reveals-8b-a1b-moe-trained-on-38t.md]] Liquid AI reveals 8B-A1B MoE trained on 38T `pillar:capabilities` `score:0.515`
 - [[litelm-litellm-without-the-bloat.md]] Litelm: LiteLLM Without the Bloat `pillar:capabilities` `score:0.305`
+- [[llm-ass-bench.md]] LLM Ass Bench `pillar:capabilities` `score:0.155`
 - [[llm-classification-is-feature-engineering.md]] LLM Classification Is Feature Engineering `pillar:capabilities` `score:0.205`
 - [[llm-honeypot.md]] LLM Honeypot `pillar:capabilities` `score:0.48`
 - [[llm-networking-with-mikrotik.md]] LLM Networking with MikroTik `pillar:capabilities` `score:0.395`
@@ -1151,6 +1153,7 @@
 - [[python-workers-are-now-generally-available.md]] Python Workers are now generally available `pillar:capabilities` `score:0.305`
 - [[qantas-airbus-a380-engine-failure-in-2010-2023.md]] Qantas Airbus A380 engine failure in 2010 (2023) `pillar:capabilities` `score:0.255`
 - [[qdrantqdrant.md]] qdrant/qdrant `pillar:capabilities` `score:0.615`
+- [[qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai.md]] Qualcomm launches two new smartphone chips with emphasis on AI `pillar:capabilities` `score:0.305`
 - [[quality-non-fiction-books-are-the-antithesis-of-ai-slop.md]] Quality non-fiction books are the antithesis of AI slop `pillar:capabilities` `score:0.58`
 - [[quasar-438b-europes-leading-ai-model.md]] Quasar 438B: Europe's Leading AI Model `pillar:capabilities` `score:0.375`
 - [[qwen-38-27b-available-on-cerebras-at-1500-tokenss.md]] Qwen 3.8 27B available on Cerebras at 1500 tokens/s `pillar:capabilities` `score:0.475`
@@ -1321,6 +1324,7 @@
 - [[show-hn-inbox-beam-notifications-in-your-inbox-without-sending-email.md]] Show HN: Inbox-beam – notifications in your inbox without sending email `pillar:capabilities` `score:0.295`
 - [[show-hn-iresearch-c-search-that-beat-lucene-and-tantivy-on-their-benchmark.md]] Show HN: IResearch – C++ search that beat Lucene and Tantivy on their benchmark `pillar:capabilities` `score:0.33`
 - [[show-hn-jacquard-a-programming-language-for-ai-written-human-reviewed-code.md]] Show HN: Jacquard, a programming language for AI-written, human-reviewed code `pillar:capabilities` `score:0.33`
+- [[show-hn-jevbench-a-reproducible-benchmark-for-typed-decision-models.md]] Show HN: JevBench, a reproducible benchmark for typed decision models `pillar:capabilities` `score:0.155`
 - [[show-hn-jigsaw-haiku.md]] Show HN: Jigsaw Haiku `pillar:capabilities` `score:0.255`
 - [[show-hn-juggler-an-open-source-gui-coding-agent-by-the-creator-of-juce.md]] Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE `pillar:capabilities` `score:0.465`
 - [[show-hn-kern-container-and-resource-runtime-in-a-15-mb-binary-no-daemon.md]] Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon `pillar:capabilities` `score:0.205`
@@ -1403,6 +1407,7 @@
 - [[show-hn-the-cascade-graph-an-interactive-map-of-ai-and-energy-constraints.md]] Show HN: The Cascade Graph – An interactive map of AI and energy constraints `pillar:capabilities` `score:0.295`
 - [[show-hn-the-load-bearing-vocabulary-of-claude.md]] Show HN: The load-bearing vocabulary of Claude `pillar:capabilities` `score:0.405`
 - [[show-hn-tiny-vllm-high-performance-llm-inference-engine-in-c-and-cuda.md]] Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA `pillar:capabilities` `score:0.33`
+- [[show-hn-training-a-model-to-identify-ai-web-content-from-structure-alone.md]] Show HN: Training a model to identify AI web content from structure alone `pillar:capabilities` `score:0.155`
 - [[show-hn-typecom-multiplayer-codexclaude-in-the-cloud-for-non-tech-use-cases.md]] Show HN: Type.com: Multiplayer Codex/Claude in the cloud for non-tech use cases `pillar:capabilities` `score:0.155`
 - [[show-hn-uruky-eu-based-kagi-alternative-now-has-image-search-and-url-rewrites.md]] Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites `pillar:capabilities` `score:0.26`
 - [[show-hn-vet-turned-founder-ai-lawn-diagnosis.md]] Show HN: Vet turned founder, AI lawn diagnosis `pillar:capabilities` `score:0.295`
@@ -1432,6 +1437,7 @@
 - [[snails-teeth-beats-spider-silk-as-natures-strongest-material-2015.md]] Snails' teeth beats spider silk as nature's strongest material (2015) `pillar:capabilities` `score:0.34`
 - [[snap-tries-to-make-the-case-again-for-its-2200-smart-glasses.md]] Snap tries to make the case again for its $2,200 smart glasses `pillar:capabilities` `score:0.305`
 - [[sneak-peek-at-new-siri-app-reveals-apple8217s-plans-to-take-on-chatgpt-and-more.md]] Sneak peek at new Siri app reveals Apple&#8217;s plans to take on ChatGPT and mo `pillar:capabilities` `score:0.515`
+- [[snorkel-ai-triples-valuation-to-35b-as-demand-for-ai-training-data-booms.md]] Snorkel AI triples valuation to $3.5B as demand for AI training data booms `pillar:capabilities` `score:0.305`
 - [[so-reddit-has-decided-that-plain-html-is-unsafe.md]] So Reddit has decided that plain HTML is unsafe `pillar:capabilities` `score:0.515`
 - [[so-you8217ve-heard-these-ai-terms-and-nodded-along-let8217s-fix-that.md]] So you&#8217;ve heard these AI terms and nodded along; let&#8217;s fix that `pillar:capabilities` `score:0.445`
 - [[social-medias-next-evolution-user-controlled-algorithms.md]] Social media’s next evolution: user-controlled algorithms `pillar:capabilities` `score:0.48`

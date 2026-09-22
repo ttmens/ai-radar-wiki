@@ -1,7 +1,7 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T04:05:04.382573+08:00",
-  "item_count": 32,
+  "generated_at": "2026-09-23T06:02:12.319356+08:00",
+  "item_count": 34,
   "items": [
     {
       "id": "i-said-no-and-apple-said-yes",
@@ -213,6 +213,17 @@
       "date": "2026-09-23"
     },
     {
+      "id": "snorkel-ai-triples-valuation-to-35b-as-demand-for-ai-training-data-booms",
+      "label": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "date": "2026-09-23"
+    },
+    {
       "id": "techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-ons",
       "label": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life o",
       "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
@@ -221,6 +232,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "date": "2026-09-23"
+    },
+    {
+      "id": "qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai",
+      "label": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
       "date": "2026-09-23"
     },
     {
@@ -357,7 +379,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 8775,
-    "edges": 9451
+    "real_nodes": 8781,
+    "edges": 9457
   }
 }

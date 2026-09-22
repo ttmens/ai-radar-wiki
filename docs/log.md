@@ -4577,3 +4577,11 @@
 - create: nscales-ipo-will-test-wall-street8217s-appetite-for-concentrated-ai-bets-once-ag.md
 - create: show-hn-aireterag-a-rete-rule-engine-decides-rag-explains-why.md
 - create: show-hn-instinctflash-high-performance-serving-runtime-for-robotics-models.md
+
+## [2026-09-23 06:02] sync v3 | 6 new | pillars: {'capabilities': 6}
+- create: llm-ass-bench.md
+- create: show-hn-jevbench-a-reproducible-benchmark-for-typed-decision-models.md
+- create: did-openai-solve-the-wrong-navier-stokes-problem.md
+- create: snorkel-ai-triples-valuation-to-35b-as-demand-for-ai-training-data-booms.md
+- create: qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai.md
+- create: show-hn-training-a-model-to-identify-ai-web-content-from-structure-alone.md
