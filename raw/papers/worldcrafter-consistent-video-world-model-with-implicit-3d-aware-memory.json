@@ -1,0 +1,25 @@
+{
+  "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+  "summary": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose. The key insight is to let the requested viewpoint shape how multi-view evidence is compressed into the video generator's limited token budget. Trained jointly with the video generator, a memory encoder and pose-conditioned readout module integrate historical observations into a fixed set of target view-specific tokens before denoising, without explicit depth-based correspondences. By combining this memory with recent temporal context and few-step distillation, WorldCrafter enables streaming scene exploration from a single input image or text prompt. Experiments across static and dynamic scenes show substantial gains in long-horizon consistency and camera-control accuracy while preserving visual quality during minute-scale exploration.",
+  "url": "http://arxiv.org/abs/2609.24984v1",
+  "authors": [
+    "Wangbo Yu",
+    "Kunhao Liu",
+    "Wenbo Hu",
+    "Shenghai Yuan",
+    "Chaoran Feng"
+  ],
+  "published": "2026-09-21T17:57:06Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "distillation",
+    "accuracy"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

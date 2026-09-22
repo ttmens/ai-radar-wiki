@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-22T12:05:25.675080+08:00",
-  "days_analyzed": 119,
+  "generated_at": "2026-09-23T04:05:04.063747+08:00",
+  "days_analyzed": 120,
   "pillar_trends": {
     "capabilities": {
       "trend": "up",
       "delta": 1,
-      "current": 2,
-      "previous": 1,
+      "current": 3,
+      "previous": 2,
       "has_data": true
     },
     "patterns": {
-      "trend": "down",
-      "delta": -2,
-      "current": 1,
-      "previous": 3,
+      "trend": "up",
+      "delta": 2,
+      "current": 3,
+      "previous": 1,
       "has_data": true
     },
     "ecosystem": {
@@ -24,11 +24,11 @@
       "has_data": true
     },
     "business": {
-      "trend": "down",
-      "delta": -1,
-      "current": 0,
-      "previous": 1,
-      "has_data": false
+      "trend": "up",
+      "delta": 1,
+      "current": 1,
+      "previous": 0,
+      "has_data": true
     }
   },
   "narrative_chains": [
@@ -73,7 +73,8 @@
         "2026-09-18",
         "2026-09-19",
         "2026-09-21",
-        "2026-09-22"
+        "2026-09-22",
+        "2026-09-23"
       ],
       "instances": [
         {
@@ -1059,6 +1060,38 @@
               "pillar": "capabilities"
             }
           ]
+        },
+        {
+          "date": "2026-09-23",
+          "title": "AI Agent 工具链与协作流程快速成熟",
+          "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Emergent Collusion in Long-Horizon LLM A, LoRA-generating hypernetworks for effici。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "type": "paradigm_shift",
+          "evidence": [
+            {
+              "id": "harness-zero-harness-distillation-via-agent-as-harness",
+              "title": "Harness-Zero: Harness Distillation via Agent-as-Harness",
+              "score": 0.3,
+              "url": "http://arxiv.org/abs/2609.24974v1",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "dolphinbench-mapping-the-pareto-frontier-of-agent-memory",
+              "title": "DolphinBench: Mapping the Pareto Frontier of Agent Memory",
+              "score": 0.3,
+              "url": "http://arxiv.org/abs/2609.24971v1",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "rrsi-regularized-recursive-self-improvement-of-agent-harnesses",
+              "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+              "score": 0.3,
+              "url": "http://arxiv.org/abs/2609.24972v1",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            }
+          ]
         }
       ],
       "lifecycle": "declining"
@@ -1101,7 +1134,8 @@
         "2026-09-16",
         "2026-09-17",
         "2026-09-19",
-        "2026-09-21"
+        "2026-09-21",
+        "2026-09-23"
       ],
       "instances": [
         {
@@ -1762,6 +1796,22 @@
               "url": "http://arxiv.org/abs/2609.22086v1",
               "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "patterns"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-23",
+          "title": "AI商业动态：资本与市场持续升温",
+          "body": "今日2条情报涉及AI商业动态。包括：Nscale’s IPO will test Wall Street&#8217, GameHorizon Suite: Multi-Horizon Data an。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+          "type": "validation",
+          "evidence": [
+            {
+              "id": "jev-for-scientific-decisions-evaluating-semantic-choices-and-their-consequences",
+              "title": "Jev for Scientific Decisions: Evaluating Semantic Choices and Their Co",
+              "score": 0.3,
+              "url": "http://arxiv.org/abs/2609.24965v1",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
             }
           ]
         }
@@ -2656,5 +2706,5 @@
   ],
   "contradictions": [],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-09-22**（119天），累计 **3146** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：🤖 技术能力呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-09-23**（120天），累计 **3185** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：🤖 技术能力呈上升趋势；📱 产品模式呈上升趋势；💰 商业动态呈上升趋势"
 }
