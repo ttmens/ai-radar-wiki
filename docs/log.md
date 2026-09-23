@@ -4625,3 +4625,6 @@
 - create: spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-us-launch-of.md
 - create: ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services.md
 - create: 8216we8217re-already-fighting-yesterday8217s-battle8217-greece8217s-prime-minist.md
+
+## [2026-09-24 06:02] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: openai-breaches-medicare-albanese-reveals.md

@@ -7,7 +7,7 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：语音交互, 模型能力, 融资/投资, 桌面/本地化。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：桌面/本地化, 模型能力, 语音交互, 融资/投资。",
         "evidence": [
           {
             "id": "i-dont-want-the-details",
@@ -44,7 +44,7 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：基础设施, AI Agent。",
+        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：AI Agent, 基础设施。",
         "evidence": [
           {
             "id": "swe-serve-benchmarking-agentic-engineering-for-production-inference-serving",
@@ -99,8 +99,8 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "📱 产品模式: 2 | 🤖 技术能力: 24 | 🔧 工具生态: 5 | 💰 商业趋势: 1",
-    "total_items": 32,
+    "stats": "📱 产品模式: 2 | 🤖 技术能力: 25 | 🔧 工具生态: 5 | 💰 商业趋势: 1",
+    "total_items": 33,
     "high_value_count": 29,
     "all_today_ids": [
       {
@@ -228,11 +228,15 @@
         "label": "Community condemn Bedminster AI mural as 'insult' to artists"
       },
       {
+        "id": "openai-breaches-medicare-albanese-reveals",
+        "label": "OpenAI breaches Medicare, Albanese reveals"
+      },
+      {
         "id": "how-we-made-claudeai-3x-faster-in-two-weeks",
         "label": "How we made claude.ai 3x faster in two weeks"
       }
     ],
     "date_bj": "2026-09-24 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-24 04:04:41"
+    "generated_at_bj": "2026-09-24 06:01:47"
   }
 }
