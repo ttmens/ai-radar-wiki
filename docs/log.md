@@ -4591,3 +4591,37 @@
 - create: launch-hn-coverage-cat-yc-s22-umbrella-insurance-via-your-personal-agent.md
 - create: the-new-cc-an-ai-agent-built-for-families.md
 - create: techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insi.md
+
+## [2026-09-24 04:05] sync v3 | 32 new | pillars: {'ecosystem': 5, 'capabilities': 24, 'patterns': 2, 'business': 1}
+- create: a-decentralized-partially-observable-team-decision-methodology-with-delayed-info.md
+- create: speakermem-r1-speaker-centered-dual-track-memory-for-multi-party-dialogue.md
+- create: cliffcompaction-cost-efficient-compaction-for-long-horizon-coding-agents.md
+- create: swe-serve-benchmarking-agentic-engineering-for-production-inference-serving.md
+- create: a2m-trace-optimized-agent-hijacking-in-the-mcp-ecosystem.md
+- create: grow-the-harness-not-the-context-from-strategy-free-scaffolds-to-reusable-specia.md
+- create: type-safe-is-not-error-free-a-constrained-decision-head-follows-the-option-name.md
+- create: flexray-universal-clinical-x-ray-segmentation.md
+- create: equivsva-a-formally-verified-dataset-of-behavioral-assertions-across-equivalent.md
+- create: metrics-failure-in-llm-based-code-vulnerability-repair-an-empirical-study-and-a.md
+- create: automatic-depth-based-local-center-clustering-via-β-integrated-local-depth-and-a.md
+- create: diffusion-induced-spatial-attention-overlapping-community-detection.md
+- create: claude-discovers-a-novel-enzyme-system-with-crispr-like-repeats.md
+- create: how-we-made-claudeai-3x-faster-in-two-weeks.md
+- create: gemini-38-text-to-speech.md
+- create: claude-code-reads-agentsmd-only-when-telemetry-is-on-fixed.md
+- create: stripes-knowledge-ai-platform.md
+- create: i-dont-want-the-details.md
+- create: gpt-6-astra-has-gained-the-ability-to-drive-a-car.md
+- create: how-often-do-you-think-about-the-1893-worlds-fair.md
+- create: community-condemn-bedminster-ai-mural-as-insult-to-artists.md
+- create: enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials.md
+- create: chatgpt-mobile-app-gets-voice-based-agentic-features.md
+- create: even-americans-who-use-ai-every-day-are-worried-about-it.md
+- create: youtube-music-gets-more-conversational-with-new-ai-features.md
+- create: youtube-will-let-you-build-your-own-algorithm-with-ai.md
+- create: strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capit.md
+- create: youtube-releases-new-ai-features-for-creators-within-its-studio-app.md
+- create: 3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disru.md
+- create: spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-us-launch-of.md
+- create: ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services.md
+- create: 8216we8217re-already-fighting-yesterday8217s-battle8217-greece8217s-prime-minist.md
