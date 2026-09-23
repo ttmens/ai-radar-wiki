@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T06:02:11.975434+08:00",
+  "generated_at": "2026-09-23T12:02:16.021451+08:00",
   "days_analyzed": 120,
   "pillar_trends": {
     "capabilities": {
@@ -11,8 +11,8 @@
     },
     "patterns": {
       "trend": "up",
-      "delta": 2,
-      "current": 3,
+      "delta": 3,
+      "current": 4,
       "previous": 1,
       "has_data": true
     },
@@ -1064,7 +1064,7 @@
         {
           "date": "2026-09-23",
           "title": "AI Agent 工具链与协作流程快速成熟",
-          "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Emergent Collusion in Long-Horizon LLM A, LoRA-generating hypernetworks for effici。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：Emergent Collusion in Long-Horizon LLM A, The new CC, an AI agent built for famili, LoRA-generating hypernetworks for effici。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
           "type": "paradigm_shift",
           "evidence": [
             {
@@ -2706,5 +2706,5 @@
   ],
   "contradictions": [],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-09-23**（120天），累计 **3191** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：🤖 技术能力呈上升趋势；📱 产品模式呈上升趋势；💰 商业动态呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-09-23**（120天），累计 **3195** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：🤖 技术能力呈上升趋势；📱 产品模式呈上升趋势；💰 商业动态呈上升趋势"
 }

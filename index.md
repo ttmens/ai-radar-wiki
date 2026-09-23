@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-23 | Total pages: 4365
+> Last updated: 2026-09-23 | Total pages: 4369
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -1530,6 +1530,7 @@
 - [[the-clock-is-ticking-final-24-hours-to-exhibit-at-techcrunch-disrupt-2026.md]] The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026 `pillar:capabilities` `score:0.305`
 - [[the-cold-email.md]] The Cold Email `pillar:capabilities` `score:0.53`
 - [[the-contagion-of-fear.md]] The contagion of fear `pillar:capabilities` `score:0.425`
+- [[the-current-balance-of-power-in-open-models.md]] The current balance of power in open models `pillar:capabilities` `score:0.255`
 - [[the-dataflow-model-revisited.md]] The Dataflow Model Revisited `pillar:capabilities` `score:0.205`
 - [[the-economics-of-open-weight-inference.md]] The Economics of Open-Weight Inference `pillar:capabilities` `score:0.205`
 - [[the-efficient-frontier-of-llm-inference.md]] The efficient frontier of LLM inference `pillar:capabilities` `score:0.305`
@@ -2852,6 +2853,7 @@
 - [[launch-hn-agnost-ai-yc-s26-extract-user-feedback-from-agent-conversations.md]] Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations `pillar:patterns` `score:0.33`
 - [[launch-hn-bitboard-yc-p25-analytics-workspace-for-agents.md]] Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents `pillar:patterns` `score:0.295`
 - [[launch-hn-coasty-yc-s26-an-api-for-computer-use-agents.md]] Launch HN: Coasty (YC S26) – An API for computer-use agents `pillar:patterns` `score:0.365`
+- [[launch-hn-coverage-cat-yc-s22-umbrella-insurance-via-your-personal-agent.md]] Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent `pillar:patterns` `score:0.205`
 - [[launch-hn-hoplite-yc-s26-effortlessly-deploy-cloud-coding-agents.md]] Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents `pillar:patterns` `score:0.38`
 - [[launch-hn-hyper-yc-p26-company-brain-to-power-agentic-development.md]] Launch HN: Hyper (YC P26) – Company brain to power agentic development `pillar:patterns` `score:0.38`
 - [[launch-hn-risklytics-yc-s26-insurance-brokerage-for-frontier-tech-companies.md]] Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies `pillar:patterns` `score:0.155`
@@ -3153,6 +3155,7 @@
 - [[the-log-is-the-agent.md]] The Log Is the Agent `pillar:patterns` `score:0.33`
 - [[the-low-tech-ai-of-elden-ring.md]] The Low-Tech AI of Elden Ring `pillar:patterns` `score:0.395`
 - [[the-most-interesting-startups-right-now-want-to-get-you-off-your-phone.md]] The most interesting startups right now want to get you off your phone `pillar:patterns` `score:0.41`
+- [[the-new-cc-an-ai-agent-built-for-families.md]] The new CC, an AI agent built for families `pillar:patterns` `score:0.205`
 - [[the-pocketpocketflow.md]] The-Pocket/PocketFlow `pillar:patterns` `score:0.58`
 - [[the-productivity-mirage.md]] The Productivity Mirage `pillar:patterns` `score:0.43`
 - [[the-rise-and-fall-of-agent-civilizations.md]] The Rise and Fall of Agent Civilizations `pillar:patterns` `score:0.355`
@@ -4228,6 +4231,7 @@
 - [[task-paralysis-and-ai.md]] Task Paralysis and AI `pillar:business` `score:0.355`
 - [[teaching-claude-why.md]] Teaching Claude Why `pillar:business` `score:0.305`
 - [[tech-ceos-are-apparently-suffering-from-ai-psychosis.md]] Tech CEOs are apparently suffering from AI psychosis `pillar:business` `score:0.41`
+- [[techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insi.md]] TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI `pillar:business` `score:0.305`
 - [[tell-hn-dont-use-claude-design-lost-access-to-my-projects-after-unsubscribing.md]] Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing `pillar:business` `score:0.53`
 - [[tell-hn-openai-has-started-putting-ads-on-paid-programs.md]] Tell HN: OpenAI has started putting ads on paid programs `pillar:business` `score:0.43`
 - [[tesla-model-y-passes-nhtsas-new-advanced-driver.md]] Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests `pillar:business` `score:0.255`

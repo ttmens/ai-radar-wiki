@@ -4585,3 +4585,9 @@
 - create: snorkel-ai-triples-valuation-to-35b-as-demand-for-ai-training-data-booms.md
 - create: qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai.md
 - create: show-hn-training-a-model-to-identify-ai-web-content-from-structure-alone.md
+
+## [2026-09-23 12:02] sync v3 | 4 new | pillars: {'capabilities': 1, 'patterns': 2, 'business': 1}
+- create: the-current-balance-of-power-in-open-models.md
+- create: launch-hn-coverage-cat-yc-s22-umbrella-insurance-via-your-personal-agent.md
+- create: the-new-cc-an-ai-agent-built-for-families.md
+- create: techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insi.md

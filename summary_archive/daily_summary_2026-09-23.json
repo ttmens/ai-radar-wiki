@@ -7,7 +7,7 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：融资/投资, 桌面/本地化, 安全/漏洞。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：融资/投资, 安全/漏洞, 桌面/本地化。",
         "evidence": [
           {
             "id": "harness-zero-harness-distillation-via-agent-as-harness",
@@ -53,6 +53,13 @@
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
+            "id": "the-new-cc-an-ai-agent-built-for-families",
+            "title": "The new CC, an AI agent built for families",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=49809806",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
             "id": "unreal-agent",
             "title": "Unreal Agent",
             "score": 0.15,
@@ -83,10 +90,10 @@
         "insight": "今日💰 商业趋势方向的核心信号集中在融资/投资。",
         "evidence": [
           {
-            "id": "nscales-ipo-will-test-wall-street8217s-appetite-for-concentrated-ai-bets-once-ag",
-            "title": "Nscale’s IPO will test Wall Street&#8217;s appetite for concentrated A",
+            "id": "techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insi",
+            "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hirin",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+            "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -96,7 +103,7 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Emergent Collusion in Long-Horizon LLM A, LoRA-generating hypernetworks for effici。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：Emergent Collusion in Long-Horizon LLM A, The new CC, an AI agent built for famili, LoRA-generating hypernetworks for effici。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
@@ -107,9 +114,9 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 34 | 📱 产品模式: 7 | 💰 商业趋势: 1 | 🔧 工具生态: 3",
-    "total_items": 45,
-    "high_value_count": 34,
+    "stats": "🤖 技术能力: 35 | 📱 产品模式: 9 | 💰 商业趋势: 2 | 🔧 工具生态: 3",
+    "total_items": 49,
+    "high_value_count": 35,
     "all_today_ids": [
       {
         "id": "i-said-no-and-apple-said-yes",
@@ -180,6 +187,10 @@
         "label": "Everyone can find a reason to dislike data center construction"
       },
       {
+        "id": "techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insi",
+        "label": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI"
+      },
+      {
         "id": "solitaire-alone-together",
         "label": "Solitaire Alone Together"
       },
@@ -248,6 +259,10 @@
         "label": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses"
       },
       {
+        "id": "the-current-balance-of-power-in-open-models",
+        "label": "The current balance of power in open models"
+      },
+      {
         "id": "writing-rust-code-thats-fast-by-asking-agents-to-make-the-code-faster",
         "label": "Writing Rust code that's fast by asking agents to make the code faster"
       },
@@ -262,6 +277,14 @@
       {
         "id": "the-economics-of-open-weight-inference",
         "label": "The Economics of Open-Weight Inference"
+      },
+      {
+        "id": "the-new-cc-an-ai-agent-built-for-families",
+        "label": "The new CC, an AI agent built for families"
+      },
+      {
+        "id": "launch-hn-coverage-cat-yc-s22-umbrella-insurance-via-your-personal-agent",
+        "label": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent"
       },
       {
         "id": "saml-a-fractal-of-bad-design",
@@ -293,6 +316,6 @@
       }
     ],
     "date_bj": "2026-09-23 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-23 06:01:41"
+    "generated_at_bj": "2026-09-23 12:01:44"
   }
 }
