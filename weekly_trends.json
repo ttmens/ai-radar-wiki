@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T06:02:18.081619+08:00",
+  "generated_at": "2026-09-24T20:04:27.409001+08:00",
   "days_analyzed": 121,
   "pillar_trends": {
     "capabilities": {
@@ -10,9 +10,9 @@
       "has_data": true
     },
     "patterns": {
-      "trend": "down",
-      "delta": -2,
-      "current": 2,
+      "trend": "up",
+      "delta": 3,
+      "current": 7,
       "previous": 4,
       "has_data": true
     },
@@ -1097,14 +1097,14 @@
         {
           "date": "2026-09-24",
           "title": "AI Agent 工具链与协作流程快速成熟",
-          "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：ChatGPT mobile app gets voice-based agen, SWE-Serve: Benchmarking Agentic Engineer, Stripe's Knowledge AI Platform。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "body": "今日6条情报涉及AI Agent及相关工具生态。典型项目包括：Early rogue AI agent activity and attemp, Meta made a Tamagotchi-like wearable for, OpenAI agent hacked Australian governmen。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
           "type": "paradigm_shift",
           "evidence": [
             {
-              "id": "i-dont-want-the-details",
-              "title": "I don't want the details",
-              "score": 0.42,
-              "url": "https://news.ycombinator.com/item?id=49815466",
+              "id": "agent-editing-world-model-rethinking-world-modeling-for-llm-agents",
+              "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
+              "score": 0.3,
+              "url": "http://arxiv.org/abs/2609.28416v1",
               "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "capabilities"
             }
@@ -1836,16 +1836,48 @@
         {
           "date": "2026-09-24",
           "title": "AI商业动态：资本与市场持续升温",
-          "body": "今日1条情报涉及AI商业动态。包括：EquivSVA: A Formally Verified Dataset of。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+          "body": "今日3条情报涉及AI商业动态。包括：StudentBench: AI and human tutoring yiel, Can LLMs Reason About Runtime Behavior? , EquivSVA: A Formally Verified Dataset of。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
           "type": "validation",
           "evidence": [
             {
-              "id": "even-americans-who-use-ai-every-day-are-worried-about-it",
-              "title": "Even Americans who use AI every day are worried about it",
-              "score": 0.3,
-              "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+              "id": "claude-code-reads-agentsmd-only-when-telemetry-is-on-fixed",
+              "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+              "score": 0.46,
+              "url": "https://news.ycombinator.com/item?id=49814947",
               "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "business"
+              "pillar": "patterns"
+            },
+            {
+              "id": "vscodes-ssh-agent-is-bananas-2025",
+              "title": "VSCode's SSH Agent Is Bananas (2025)",
+              "score": 0.42,
+              "url": "https://news.ycombinator.com/item?id=49822555",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "early-rogue-ai-agent-activity-and-attempts-to-hack-found-on-urlquerynet",
+              "title": "Early rogue AI agent activity and attempts to hack found on urlquery.n",
+              "score": 0.38,
+              "url": "https://news.ycombinator.com/item?id=49826565",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "cloud-agents-are-inevitable-ai-prisons",
+              "title": "Cloud Agents Are Inevitable AI Prisons",
+              "score": 0.33,
+              "url": "https://news.ycombinator.com/item?id=49820267",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
+              "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
             }
           ]
         }
@@ -2765,5 +2797,5 @@
   ],
   "contradictions": [],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-09-24**（121天），累计 **3228** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：🔧 工具生态呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-09-24**（121天），累计 **3251** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：📱 产品模式呈上升趋势；🔧 工具生态呈上升趋势"
 }

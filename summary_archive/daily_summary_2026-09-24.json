@@ -7,13 +7,13 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：桌面/本地化, 模型能力, 语音交互, 融资/投资。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：语音交互, 模型能力, 融资/投资, 桌面/本地化。",
         "evidence": [
           {
-            "id": "i-dont-want-the-details",
-            "title": "I don't want the details",
-            "score": 0.42,
-            "url": "https://news.ycombinator.com/item?id=49815466",
+            "id": "agent-editing-world-model-rethinking-world-modeling-for-llm-agents",
+            "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2609.28416v1",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -22,13 +22,48 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资, AI Agent。",
         "evidence": [
           {
             "id": "claude-code-reads-agentsmd-only-when-telemetry-is-on-fixed",
             "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
             "score": 0.46,
             "url": "https://news.ycombinator.com/item?id=49814947",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "vscodes-ssh-agent-is-bananas-2025",
+            "title": "VSCode's SSH Agent Is Bananas (2025)",
+            "score": 0.42,
+            "url": "https://news.ycombinator.com/item?id=49822555",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "early-rogue-ai-agent-activity-and-attempts-to-hack-found-on-urlquerynet",
+            "title": "Early rogue AI agent activity and attempts to hack found on urlquery.n",
+            "score": 0.38,
+            "url": "https://news.ycombinator.com/item?id=49826565",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "cloud-agents-are-inevitable-ai-prisons",
+            "title": "Cloud Agents Are Inevitable AI Prisons",
+            "score": 0.33,
+            "url": "https://news.ycombinator.com/item?id=49820267",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
+            "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "openai-agent-hacked-australian-government-website-pm-says",
+            "title": "OpenAI agent hacked Australian government website, PM says",
+            "score": 0.3,
+            "url": "https://news.ycombinator.com/item?id=49825580",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
@@ -44,7 +79,7 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：AI Agent, 基础设施。",
+        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：基础设施, AI Agent。",
         "evidence": [
           {
             "id": "swe-serve-benchmarking-agentic-engineering-for-production-inference-serving",
@@ -82,7 +117,7 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：ChatGPT mobile app gets voice-based agen, SWE-Serve: Benchmarking Agentic Engineer, Stripe's Knowledge AI Platform。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日6条情报涉及AI Agent及相关工具生态。典型项目包括：Early rogue AI agent activity and attemp, Meta made a Tamagotchi-like wearable for, OpenAI agent hacked Australian governmen。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
@@ -94,38 +129,66 @@
       },
       {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日1条情报涉及AI商业动态。包括：EquivSVA: A Formally Verified Dataset of。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日3条情报涉及AI商业动态。包括：StudentBench: AI and human tutoring yiel, Can LLMs Reason About Runtime Behavior? , EquivSVA: A Formally Verified Dataset of。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "📱 产品模式: 2 | 🤖 技术能力: 25 | 🔧 工具生态: 5 | 💰 商业趋势: 1",
-    "total_items": 33,
-    "high_value_count": 29,
+    "stats": "📱 产品模式: 8 | 🤖 技术能力: 41 | 🔧 工具生态: 6 | 💰 商业趋势: 1",
+    "total_items": 56,
+    "high_value_count": 51,
     "all_today_ids": [
       {
         "id": "claude-code-reads-agentsmd-only-when-telemetry-is-on-fixed",
         "label": "Claude Code reads AGENTS.md only when telemetry is on [fixed]"
       },
       {
+        "id": "vscodes-ssh-agent-is-bananas-2025",
+        "label": "VSCode's SSH Agent Is Bananas (2025)"
+      },
+      {
         "id": "i-dont-want-the-details",
         "label": "I don't want the details"
+      },
+      {
+        "id": "meta-takes-down-a-critical-video-about-meta-ai-glasses-after-filming-at-meta",
+        "label": "Meta takes down a critical video about meta AI Glasses after filming at Meta"
       },
       {
         "id": "gpt-6-astra-has-gained-the-ability-to-drive-a-car",
         "label": "GPT-6 Astra has gained the ability to drive a car"
       },
       {
+        "id": "early-rogue-ai-agent-activity-and-attempts-to-hack-found-on-urlquerynet",
+        "label": "Early rogue AI agent activity and attempts to hack found on urlquery.net"
+      },
+      {
         "id": "claude-discovers-a-novel-enzyme-system-with-crispr-like-repeats",
         "label": "Claude discovers a novel enzyme system with CRISPR-like repeats"
+      },
+      {
+        "id": "mercury-25-llm-hits-770-tokens-per-second",
+        "label": "Mercury 2.5 LLM hits 770 tokens per second"
       },
       {
         "id": "stripes-knowledge-ai-platform",
         "label": "Stripe's Knowledge AI Platform"
       },
       {
+        "id": "making-tailscale-faster",
+        "label": "Making Tailscale Faster"
+      },
+      {
         "id": "gemini-38-text-to-speech",
         "label": "Gemini 3.8 text-to-speech"
+      },
+      {
+        "id": "cloud-agents-are-inevitable-ai-prisons",
+        "label": "Cloud Agents Are Inevitable AI Prisons"
+      },
+      {
+        "id": "meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
+        "label": "Meta made a Tamagotchi-like wearable for its Muse AI agent"
       },
       {
         "id": "3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disru",
@@ -140,6 +203,10 @@
         "label": "YouTube Music gets more conversational with new AI features"
       },
       {
+        "id": "meta-introduces-camera-free-ai-glasses",
+        "label": "Meta introduces camera-free AI glasses"
+      },
+      {
         "id": "youtube-releases-new-ai-features-for-creators-within-its-studio-app",
         "label": "YouTube releases new AI features for creators within its Studio app"
       },
@@ -150,6 +217,10 @@
       {
         "id": "spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-us-launch-of",
         "label": "Spotify is giving you the keys to its recommendation algorithm with US launch of"
+      },
+      {
+        "id": "openai-agent-hacked-australian-government-website-pm-says",
+        "label": "OpenAI agent hacked Australian government website, PM says"
       },
       {
         "id": "8216we8217re-already-fighting-yesterday8217s-battle8217-greece8217s-prime-minist",
@@ -172,8 +243,36 @@
         "label": "Ema raises $77M as AI starts eating into enterprise software and services"
       },
       {
+        "id": "anthropic-says-its-biology-lab-has-already-found-something-big",
+        "label": "Anthropic says its biology lab has already found something big"
+      },
+      {
+        "id": "studentbench-ai-and-human-tutoring-yield-equivalent-gre-learning-gains",
+        "label": "StudentBench: AI and human tutoring yield equivalent GRE learning gains"
+      },
+      {
+        "id": "even-sharper-bounds-for-transductive-learning-and-its-applications",
+        "label": "Even Sharper Bounds for Transductive Learning and Its Applications"
+      },
+      {
+        "id": "on-the-diffusibility-of-high-dimensional-latents",
+        "label": "On the Diffusibility of High-Dimensional Latents"
+      },
+      {
+        "id": "repairability-of-inexact-solvers-in-recursive-state-estimation-with-machine-lear",
+        "label": "Repairability of Inexact Solvers in Recursive State Estimation with Machine Lear"
+      },
+      {
+        "id": "contrastive-learning-for-authorship-verification",
+        "label": "Contrastive Learning for Authorship Verification"
+      },
+      {
         "id": "speakermem-r1-speaker-centered-dual-track-memory-for-multi-party-dialogue",
         "label": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue"
+      },
+      {
+        "id": "nonequilibrium-phases-of-repulsive-self-attention-chaos-attention-condensation-a",
+        "label": "Nonequilibrium Phases of Repulsive Self-Attention: Chaos, Attention Condensation"
       },
       {
         "id": "diffusion-induced-spatial-attention-overlapping-community-detection",
@@ -184,8 +283,20 @@
         "label": "Type-Safe Is Not Error-Free: A Constrained Decision Head Follows the Option Name"
       },
       {
+        "id": "can-llms-reason-about-runtime-behavior-a-repository-level-dynamic-benchmark",
+        "label": "Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark"
+      },
+      {
         "id": "automatic-depth-based-local-center-clustering-via-β-integrated-local-depth-and-a",
         "label": "Automatic depth-based local center clustering via $β$-integrated local depth and"
+      },
+      {
+        "id": "order-invariant-answers-order-sensitive-representations-in-mathematical-reasonin",
+        "label": "Order-Invariant Answers, Order-Sensitive Representations in Mathematical Reasoni"
+      },
+      {
+        "id": "minimal-norm-univariate-two-layer-relu-classification-exact-solutions-and-global",
+        "label": "Minimal-Norm Univariate Two-Layer ReLU Classification: Exact Solutions and Globa"
       },
       {
         "id": "equivsva-a-formally-verified-dataset-of-behavioral-assertions-across-equivalent",
@@ -208,6 +319,18 @@
         "label": "CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents"
       },
       {
+        "id": "where-should-i-join-robot-group-joining-via-language-guided-goal-prediction",
+        "label": "Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction"
+      },
+      {
+        "id": "context-continuous-preference-learning-for-exoskeleton-personalization",
+        "label": "Context-Continuous Preference Learning for Exoskeleton Personalization"
+      },
+      {
+        "id": "agent-editing-world-model-rethinking-world-modeling-for-llm-agents",
+        "label": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents"
+      },
+      {
         "id": "swe-serve-benchmarking-agentic-engineering-for-production-inference-serving",
         "label": "SWE-Serve: Benchmarking Agentic Engineering For Production Inference Serving"
       },
@@ -218,6 +341,10 @@
       {
         "id": "a2m-trace-optimized-agent-hijacking-in-the-mcp-ecosystem",
         "label": "A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem"
+      },
+      {
+        "id": "contrastive-language-models",
+        "label": "Contrastive Language Models"
       },
       {
         "id": "how-often-do-you-think-about-the-1893-worlds-fair",
@@ -237,6 +364,6 @@
       }
     ],
     "date_bj": "2026-09-24 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-24 06:01:47"
+    "generated_at_bj": "2026-09-24 20:03:54"
   }
 }

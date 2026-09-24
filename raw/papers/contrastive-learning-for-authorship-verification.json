@@ -1,0 +1,21 @@
+{
+  "title": "Contrastive Learning for Authorship Verification",
+  "summary": "Our results show that contrastive learning outperforms a classification-based approach to authorship verification under the tested settings. We identify loss function, batch size, training duration, pre-trained model, input context length, and random text span data augmentation as important factors of model performance. Based on these considerations, we develop a ModernBERT Bi-Encoder model that achieves 98.4% accuracy on the PAN21 authorship verification task.",
+  "url": "http://arxiv.org/abs/2609.28471v1",
+  "authors": [
+    "Peter Kirby"
+  ],
+  "published": "2026-09-23T17:59:08Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "accuracy",
+    "loss function"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

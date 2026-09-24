@@ -1,7 +1,7 @@
 {
   "date": "2026-09-24",
-  "generated_at": "2026-09-24T06:02:18.386480+08:00",
-  "item_count": 29,
+  "generated_at": "2026-09-24T20:04:27.719301+08:00",
+  "item_count": 51,
   "items": [
     {
       "id": "claude-code-reads-agentsmd-only-when-telemetry-is-on-fixed",
@@ -12,6 +12,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49814947",
+      "date": "2026-09-24"
+    },
+    {
+      "id": "vscodes-ssh-agent-is-bananas-2025",
+      "label": "VSCode's SSH Agent Is Bananas (2025)",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49822555",
       "date": "2026-09-24"
     },
     {
@@ -26,6 +37,17 @@
       "date": "2026-09-24"
     },
     {
+      "id": "meta-takes-down-a-critical-video-about-meta-ai-glasses-after-filming-at-meta",
+      "label": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49827794",
+      "date": "2026-09-24"
+    },
+    {
       "id": "gpt-6-astra-has-gained-the-ability-to-drive-a-car",
       "label": "GPT-6 Astra has gained the ability to drive a car",
       "summary": "暂无中文摘要",
@@ -34,6 +56,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49817404",
+      "date": "2026-09-24"
+    },
+    {
+      "id": "early-rogue-ai-agent-activity-and-attempts-to-hack-found-on-urlquerynet",
+      "label": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.375,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49826565",
       "date": "2026-09-24"
     },
     {
@@ -48,6 +81,17 @@
       "date": "2026-09-24"
     },
     {
+      "id": "mercury-25-llm-hits-770-tokens-per-second",
+      "label": "Mercury 2.5 LLM hits 770 tokens per second",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49823348",
+      "date": "2026-09-24"
+    },
+    {
       "id": "stripes-knowledge-ai-platform",
       "label": "Stripe's Knowledge AI Platform",
       "summary": "暂无中文摘要",
@@ -59,6 +103,17 @@
       "date": "2026-09-24"
     },
     {
+      "id": "making-tailscale-faster",
+      "label": "Making Tailscale Faster",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49819880",
+      "date": "2026-09-24"
+    },
+    {
       "id": "gemini-38-text-to-speech",
       "label": "Gemini 3.8 text-to-speech",
       "summary": "暂无中文摘要",
@@ -67,6 +122,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49817615",
+      "date": "2026-09-24"
+    },
+    {
+      "id": "cloud-agents-are-inevitable-ai-prisons",
+      "label": "Cloud Agents Are Inevitable AI Prisons",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.325,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49820267",
+      "date": "2026-09-24"
+    },
+    {
+      "id": "meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
+      "label": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "summary": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
       "date": "2026-09-24"
     },
     {
@@ -103,6 +180,17 @@
       "date": "2026-09-24"
     },
     {
+      "id": "meta-introduces-camera-free-ai-glasses",
+      "label": "Meta introduces camera-free AI glasses",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "date": "2026-09-24"
+    },
+    {
       "id": "youtube-releases-new-ai-features-for-creators-within-its-studio-app",
       "label": "YouTube releases new AI features for creators within its Studio app",
       "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
@@ -133,6 +221,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
+      "date": "2026-09-24"
+    },
+    {
+      "id": "openai-agent-hacked-australian-government-website-pm-says",
+      "label": "OpenAI agent hacked Australian government website, PM says",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49825580",
       "date": "2026-09-24"
     },
     {
@@ -191,6 +290,72 @@
       "date": "2026-09-24"
     },
     {
+      "id": "anthropic-says-its-biology-lab-has-already-found-something-big",
+      "label": "Anthropic says its biology lab has already found something big",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "date": "2026-09-24"
+    },
+    {
+      "id": "studentbench-ai-and-human-tutoring-yield-equivalent-gre-learning-gains",
+      "label": "StudentBench: AI and human tutoring yield equivalent GRE learning gains",
+      "summary": "Artificial intelligence offers an unprecedented opportunity to augment human capabilities, yet progress at the frontier has focused primarily on advancing model capabilities. We introduce StudentBench, a suite of AI teaching evaluations and a public platform that enables large-scale data collection",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.28470v1",
+      "date": "2026-09-24"
+    },
+    {
+      "id": "even-sharper-bounds-for-transductive-learning-and-its-applications",
+      "label": "Even Sharper Bounds for Transductive Learning and Its Applications",
+      "summary": "We introduce Sharper Transductive Local Complexity (STLC), a localized complexity method for transductive learning under uniform sampling without replacement. The construction starts from a Bernstein-type concentration inequality for the supremum of the test--train empirical process. Its proof uses",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.28459v1",
+      "date": "2026-09-24"
+    },
+    {
+      "id": "on-the-diffusibility-of-high-dimensional-latents",
+      "label": "On the Diffusibility of High-Dimensional Latents",
+      "summary": "Representation Autoencoders (RAEs) enable diffusion models to operate in the feature spaces of pretrained visual encoders. However, many off-the-shelf encoders are not optimized for faithful reconstruction, discarding fine-grained visual details. As expected, finetuning these encoders for image reco",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.28473v1",
+      "date": "2026-09-24"
+    },
+    {
+      "id": "repairability-of-inexact-solvers-in-recursive-state-estimation-with-machine-lear",
+      "label": "Repairability of Inexact Solvers in Recursive State Estimation with Machine Lear",
+      "summary": "Recursive state estimation often executes approximate numerical solutions inside a feedback loop, where highly accurate local steps do not guarantee better overall results. For a fixed linear Kalman model, we characterize when a correction within a prescribed subspace and norm budget can meet a loca",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.28425v1",
+      "date": "2026-09-24"
+    },
+    {
+      "id": "contrastive-learning-for-authorship-verification",
+      "label": "Contrastive Learning for Authorship Verification",
+      "summary": "Our results show that contrastive learning outperforms a classification-based approach to authorship verification under the tested settings. We identify loss function, batch size, training duration, pre-trained model, input context length, and random text span data augmentation as important factors",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.28471v1",
+      "date": "2026-09-24"
+    },
+    {
       "id": "speakermem-r1-speaker-centered-dual-track-memory-for-multi-party-dialogue",
       "label": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
       "summary": "Long-term conversational memory in multi-party settings requires more than retrieving relevant content from long-term conversations: it must distinguish who said what, whom each statement concerns, how individuals perceive one another, what information is shared by the group, and how states change o",
@@ -199,6 +364,17 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2609.26780v1",
+      "date": "2026-09-24"
+    },
+    {
+      "id": "nonequilibrium-phases-of-repulsive-self-attention-chaos-attention-condensation-a",
+      "label": "Nonequilibrium Phases of Repulsive Self-Attention: Chaos, Attention Condensation",
+      "summary": "We study the nonequilibrium dynamics of a minimal recurrent transformer with $N$ normalized tokens, $Q=K=I$, and a negative value map $V=-I$. Similarity-based attention selects nearby representations, while the negative value map drives tokens away from the selected field. This feedback can continua",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.28448v1",
       "date": "2026-09-24"
     },
     {
@@ -224,6 +400,17 @@
       "date": "2026-09-24"
     },
     {
+      "id": "can-llms-reason-about-runtime-behavior-a-repository-level-dynamic-benchmark",
+      "label": "Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark",
+      "summary": "Large language models (LLMs) are increasingly used in coding tasks, but their ability to reason about code execution remains unclear. Existing repository-level QA benchmarks mainly evaluate static code understanding and often rely on LLM-based evaluation, while execution-reasoning benchmarks are mos",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.28449v1",
+      "date": "2026-09-24"
+    },
+    {
       "id": "automatic-depth-based-local-center-clustering-via-β-integrated-local-depth-and-a",
       "label": "Automatic depth-based local center clustering via $β$-integrated local depth and",
       "summary": "Clustering is an unsupervised learning technique that partitions unlabeled data into groups. Most existing methods require user-specified parameters, such as the number of clusters or neighborhood size. Conversely, we propose automatic depth-based local center clustering (A-DLCC), a fully data-drive",
@@ -232,6 +419,28 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2609.26748v1",
+      "date": "2026-09-24"
+    },
+    {
+      "id": "order-invariant-answers-order-sensitive-representations-in-mathematical-reasonin",
+      "label": "Order-Invariant Answers, Order-Sensitive Representations in Mathematical Reasoni",
+      "summary": "Reordering a set of mathematical rules without changing its meaning should preserve the correct answer, but must a model's internal representations stay invariant too? We investigate this question using synthetic multi-step function-composition problems, each presented under multiple rule orderings",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.28442v1",
+      "date": "2026-09-24"
+    },
+    {
+      "id": "minimal-norm-univariate-two-layer-relu-classification-exact-solutions-and-global",
+      "label": "Minimal-Norm Univariate Two-Layer ReLU Classification: Exact Solutions and Globa",
+      "summary": "We study minimal-norm interpolation and $\\ell_2$-regularized logistic-loss minimization for binary classification by univariate two-layer ReLU networks. We give complete geometric characterizations of the optimal classifiers in function space, resolving how the solutions depend on whether hidden-lay",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.28438v1",
       "date": "2026-09-24"
     },
     {
@@ -290,6 +499,39 @@
       "date": "2026-09-24"
     },
     {
+      "id": "where-should-i-join-robot-group-joining-via-language-guided-goal-prediction",
+      "label": "Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction",
+      "summary": "Social navigation typically assumes a specified goal and focuses on reaching it while respecting social conventions, whereas robot group joining requires predicting where to join based on the group's real-time activity and formation. This is a highly semantic task, yet an important capability for ap",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.28467v1",
+      "date": "2026-09-24"
+    },
+    {
+      "id": "context-continuous-preference-learning-for-exoskeleton-personalization",
+      "label": "Context-Continuous Preference Learning for Exoskeleton Personalization",
+      "summary": "Personalizing exoskeleton assistance across operating conditions is constrained by the time and physical effort required to collect user feedback. We examined whether a user's preference landscape varies smoothly across operating conditions and when this continuity supports learning from limited fee",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.28427v1",
+      "date": "2026-09-24"
+    },
+    {
+      "id": "agent-editing-world-model-rethinking-world-modeling-for-llm-agents",
+      "label": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
+      "summary": "Recent advances in large language models (LLMs) have enabled agents to tackle long-horizon tasks across diverse environments. To further improve agent performance, existing language world models typically predict environment observations, yet reconstructing high-entropy, execution-dependent tool res",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2609.28416v1",
+      "date": "2026-09-24"
+    },
+    {
       "id": "swe-serve-benchmarking-agentic-engineering-for-production-inference-serving",
       "label": "SWE-Serve: Benchmarking Agentic Engineering For Production Inference Serving",
       "summary": "We introduce SWE-Serve, a benchmark for evaluating agents on production inference engineering tasks. Implementing an inference feature can require coordinating multiple changes across the serving stack, including model support, runtime execution, and public APIs. Existing benchmarks provide limited",
@@ -324,7 +566,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 8818,
-    "edges": 9499
+    "real_nodes": 8841,
+    "edges": 9534
   }
 }

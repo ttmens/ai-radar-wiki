@@ -4628,3 +4628,28 @@
 
 ## [2026-09-24 06:02] sync v3 | 1 new | pillars: {'capabilities': 1}
 - create: openai-breaches-medicare-albanese-reveals.md
+
+## [2026-09-24 20:04] sync v3 | 23 new | pillars: {'capabilities': 16, 'patterns': 6, 'ecosystem': 1}
+- create: on-the-diffusibility-of-high-dimensional-latents.md
+- create: contrastive-learning-for-authorship-verification.md
+- create: studentbench-ai-and-human-tutoring-yield-equivalent-gre-learning-gains.md
+- create: where-should-i-join-robot-group-joining-via-language-guided-goal-prediction.md
+- create: even-sharper-bounds-for-transductive-learning-and-its-applications.md
+- create: can-llms-reason-about-runtime-behavior-a-repository-level-dynamic-benchmark.md
+- create: nonequilibrium-phases-of-repulsive-self-attention-chaos-attention-condensation-a.md
+- create: order-invariant-answers-order-sensitive-representations-in-mathematical-reasonin.md
+- create: minimal-norm-univariate-two-layer-relu-classification-exact-solutions-and-global.md
+- create: context-continuous-preference-learning-for-exoskeleton-personalization.md
+- create: repairability-of-inexact-solvers-in-recursive-state-estimation-with-machine-lear.md
+- create: agent-editing-world-model-rethinking-world-modeling-for-llm-agents.md
+- create: meta-takes-down-a-critical-video-about-meta-ai-glasses-after-filming-at-meta.md
+- create: contrastive-language-models.md
+- create: vscodes-ssh-agent-is-bananas-2025.md
+- create: early-rogue-ai-agent-activity-and-attempts-to-hack-found-on-urlquerynet.md
+- create: openai-agent-hacked-australian-government-website-pm-says.md
+- create: mercury-25-llm-hits-770-tokens-per-second.md
+- create: making-tailscale-faster.md
+- create: cloud-agents-are-inevitable-ai-prisons.md
+- create: meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent.md
+- create: meta-introduces-camera-free-ai-glasses.md
+- create: anthropic-says-its-biology-lab-has-already-found-something-big.md
