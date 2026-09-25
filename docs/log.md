@@ -4716,3 +4716,7 @@
 - create: last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-atte.md
 - create: lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai.md
 - create: show-hn-agentic-cuda-kernel-optimizer.md
+
+## [2026-09-26 06:02] sync v3 | 2 new | pillars: {'capabilities': 2}
+- create: too-ai-didnt-read.md
+- create: meta-opens-early-access-program-for-new-muse-features.md

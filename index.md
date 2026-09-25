@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-26 | Total pages: 4484
+> Last updated: 2026-09-26 | Total pages: 4486
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -935,6 +935,7 @@
 - [[meta-is-reportedly-developing-an-ai-pendant.md]] Meta is reportedly developing an AI pendant `pillar:capabilities` `score:0.48`
 - [[meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination.md]] Meta is testing an AI bedtime story app for people with no imagination `pillar:capabilities` `score:0.48`
 - [[meta-just-launched-a-new-ai-generator-muse-image-and-users-are-already-pushing-b.md]] Meta just launched a new AI generator, Muse Image, and users are already pushing `pillar:capabilities` `score:0.48`
+- [[meta-opens-early-access-program-for-new-muse-features.md]] Meta opens early access program for new Muse features `pillar:capabilities` `score:0.305`
 - [[meta-quietly-launches-vibe-coded-gaming-app-pocket.md]] Meta quietly launches vibe-coded gaming app Pocket `pillar:capabilities` `score:0.48`
 - [[meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming.md]] Meta says AI is making it easier to build new apps — and more are coming `pillar:capabilities` `score:0.515`
 - [[meta-signs-first-ai-data-center-deal-in-india-with-reliance.md]] Meta signs first AI data center deal in India with Reliance `pillar:capabilities` `score:0.445`
@@ -1665,6 +1666,7 @@
 - [[tinywind-a-pixel-pirate-sailing-game-with-real-wind-physics-380k-kms-sailed.md]] TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed) `pillar:capabilities` `score:0.46`
 - [[tokenomics-quantifying-where-tokens-are-used-in-agentic-software-engineering.md]] Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering `pillar:capabilities` `score:0.295`
 - [[tokentown-a-visual-way-to-understand-how-llms-work.md]] TokenTown: A visual way to understand how LLMs work `pillar:capabilities` `score:0.38`
+- [[too-ai-didnt-read.md]] Too AI; Didn't Read `pillar:capabilities` `score:0.305`
 - [[too-dangerous-or-just-too-expensive-the-real-reason-anthropic-is-hiding-mythos.md]] Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos `pillar:capabilities` `score:0.38`
 - [[train-sim-created-by-just-one-person-is-being-called-the-best-ever-made.md]] Train sim created by just one person is being called the best ever made `pillar:capabilities` `score:0.41`
 - [[train-simulator-controller.md]] Train Simulator Controller `pillar:capabilities` `score:0.205`
