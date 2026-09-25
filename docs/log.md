@@ -4653,3 +4653,29 @@
 - create: meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent.md
 - create: meta-introduces-camera-free-ai-glasses.md
 - create: anthropic-says-its-biology-lab-has-already-found-something-big.md
+
+## [2026-09-25 12:05] sync v3 | 25 new | pillars: {'capabilities': 19, 'ecosystem': 2, 'patterns': 3, 'business': 1}
+- create: why-is-the-liver-so-weirdly-regenerative.md
+- create: rails-world-2026-opening-keynote-video.md
+- create: using-llms-to-trace-alchemical-knowledge-and-decode-17th-century-letters.md
+- create: googles-project-suncatcher-to-put-ml-infrastructure-in-space.md
+- create: show-hn-koirest-watch-some-fish-and-regain-your-balance.md
+- create: show-hn-air-gapped-file-encryption-as-self-decrypting-html-page.md
+- create: sourcehut-account-takeover-via-build-logs-xss-in-ansi2html.md
+- create: security-auditing-in-the-age-of-good-enough-ai.md
+- create: opus-55-is-good-at-explainer-videos.md
+- create: tutoring-company-tells-parents-to-save-their-money-and-use-ai-instead.md
+- create: show-hn-agentrun-dsl-to-turn-agents-into-workflows.md
+- create: thats-so-ai-what-gen-alphas-biggest-insult-tells-us.md
+- create: prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses.md
+- create: oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center.md
+- create: meta8217s-muse-charm-looks-like-a-tamagotchi-but-it8217s-tapping-into-a-much-new.md
+- create: google-photos-8216clueless8217-inspired-virtual-closet-is-now-available-on-andro.md
+- create: elevenlabs8217-ceo-on-margins-ipo-timing-and-telling-customers-they8217re-talkin.md
+- create: google-tests-letting-gemini-call-businesses-for-you.md
+- create: shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option.md
+- create: lovable8217s-annualized-revenue-crosses-600m-as-vibe-coding-takes-off.md
+- create: ando-wants-to-take-on-slack-with-a-team-messaging-app-that-lets-humans-and-agent.md
+- create: techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and.md
+- create: 2-days-left-to-save-up-to-200-on-a-techcrunch-disrupt-2026-pass-reason-4-of-5-to.md
+- create: australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-l.md

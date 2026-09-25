@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-24T20:04:27.409001+08:00",
-  "days_analyzed": 121,
+  "generated_at": "2026-09-25T12:05:13.423761+08:00",
+  "days_analyzed": 122,
   "pillar_trends": {
     "capabilities": {
-      "trend": "down",
-      "delta": -2,
+      "trend": "stable",
+      "delta": 0,
       "current": 1,
-      "previous": 3,
+      "previous": 1,
       "has_data": true
     },
     "patterns": {
-      "trend": "up",
-      "delta": 3,
-      "current": 7,
-      "previous": 4,
+      "trend": "down",
+      "delta": -6,
+      "current": 1,
+      "previous": 7,
       "has_data": true
     },
     "ecosystem": {
-      "trend": "up",
-      "delta": 1,
-      "current": 2,
-      "previous": 1,
+      "trend": "down",
+      "delta": -1,
+      "current": 1,
+      "previous": 2,
       "has_data": true
     },
     "business": {
@@ -1153,7 +1153,8 @@
         "2026-09-19",
         "2026-09-21",
         "2026-09-23",
-        "2026-09-24"
+        "2026-09-24",
+        "2026-09-25"
       ],
       "instances": [
         {
@@ -1876,6 +1877,22 @@
               "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
               "score": 0.3,
               "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-25",
+          "title": "AI商业动态：资本与市场持续升温",
+          "body": "今日1条情报涉及AI商业动态。包括：ElevenLabs&#8217; CEO on margins, IPO ti。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+          "type": "validation",
+          "evidence": [
+            {
+              "id": "elevenlabs8217-ceo-on-margins-ipo-timing-and-telling-customers-they8217re-talkin",
+              "title": "ElevenLabs&#8217; CEO on margins, IPO timing, and telling customers th",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
               "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "patterns"
             }
@@ -2797,5 +2814,5 @@
   ],
   "contradictions": [],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-09-24**（121天），累计 **3251** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：📱 产品模式呈上升趋势；🔧 工具生态呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-09-25**（122天），累计 **3275** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。"
 }
