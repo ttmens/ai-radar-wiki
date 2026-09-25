@@ -1,0 +1,22 @@
+{
+  "title": "Agentic Detection of Online Conspiracies",
+  "summary": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers. The same surface content may express endorsement, legitimate concerns, criticism, satire, or mockery. The main challenge is therefore not only recognizing conspiracy-related claims, but inferring the speaker's intent -- the utterance's illocutionary force. We argue that this can be achieved through the use of relevant social contexts and propose an agentic framework, equipped with a set of tools supporting social queries.\n  We demonstrate the benefits of our approach on a unique dataset of Hebrew tweets, covering 80\\%--90\\% of the public Hebrew tweets published over a four-year span (late 2018-- early 2023), encompassing several election cycles as well as the COVID pandemic years and related vaccination campaigns. This extensive coverage can be used in recovering different social contexts. Evaluating our framework on a manually-annotated adversarial dataset, we find that context-aware workflows consistently outperform text-only classification and that the agentic framework performs significantly better than other frameworks and settings, including a non-agentic model exposed to the same contexts available to the agent. We further provide an analysis of the results, the errors and efficiency (token economy) tradeoffs.\n  These findings support viewing the task of conspiracy detection as a socially embedded interpretation task, in which effective classification depends not only on access to contexts, but also on adaptive reasoning in which the agent uses tools on a per-case basis, asking only for evidence relevant to its current reasoning step.",
+  "url": "http://arxiv.org/abs/2609.30250v1",
+  "authors": [
+    "Lior Biton",
+    "Oren Tsur"
+  ],
+  "published": "2026-09-24T17:58:43Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "reasoning",
+    "dataset"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority",
+  "summary": "An acceptance protocol is developed for sensor-coordinate and polarity binding in mechatronic commissioning. Candidate generation is separated from release authority. Requirements unsupported by a deterministic parser are routed to a frozen local language model with four billion parameters. Plans are released only when both facts can be derived by an external gate under a sealed grammar. One canonical answer is requested from a gold-standard user when eligible. The protocol was evaluated once under a criterion fixed before benchmark construction, on 144 tasks written by isolated agent contexts without access to the gate, grammar, or experimental plan. Three contributions are established. First, candidate generation and release decisions were measured separately. Fabricated ready plans were committed on 21 of 22 routed unanswerable tasks, and all were rejected. The same 83 releases were reproduced without model calls. Second, no false release was observed among 83 releases. A one-sided 95% Clopper-Pearson upper bound of 0.0354 was obtained as a diagnostic under an independent-and-identically-distributed assumption, below the sealed 5% threshold. However, one false release was subsequently recorded among 146 releases outside the benchmark at seed 0. Third, protection against incorrect user answers was characterized. Both facts were bound from the original text on 13 of 96 answerable tasks. Incorrect answers were released in 169 of 431 pairings on the remaining tasks, including failures involving coordinate exclusion. A deployable questioning policy was not tested because eligibility was determined from the answer key. Gate sensitivity and real user behavior were not measured.",
+  "url": "http://arxiv.org/abs/2609.30219v1",
+  "authors": [
+    "Mehmet Iscan"
+  ],
+  "published": "2026-09-24T17:46:53Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "parameter"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}
