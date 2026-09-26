@@ -4736,3 +4736,9 @@
 - create: crusoe-abandons-125b-plan-to-use-boom-turbines-at-ai-data-centers.md
 - create: unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-lab821.md
 - create: show-hn-jevgpt-reinventing-the-wheel-with-another-wheel.md
+
+## [2026-09-27 00:02] sync v3 | 4 new | pillars: {'capabilities': 2, 'patterns': 2}
+- create: asml-currently-sells-no-chipmaking-machines-in-europe-executive-says.md
+- create: understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior.md
+- create: the-copilot-pc-brand-is-dead.md
+- create: i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it.md

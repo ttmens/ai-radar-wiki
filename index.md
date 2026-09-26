@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-26 | Total pages: 4500
+> Last updated: 2026-09-27 | Total pages: 4504
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -252,6 +252,7 @@
 - [[ask-hn-is-anyone-experimenting-with-different-ways-of-using-llms-for-coding.md]] Ask HN: Is anyone experimenting with different ways of using LLMs for coding? `pillar:capabilities` `score:0.5`
 - [[ask-hn-what-was-your-oh-shit-moment-with-genai.md]] Ask HN: What was your "oh shit" moment with GenAI? `pillar:capabilities` `score:0.495`
 - [[ask-hn-why-are-openai-claude-and-grok-simultaneously-down-coincidence.md]] Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence? `pillar:capabilities` `score:0.255`
+- [[asml-currently-sells-no-chipmaking-machines-in-europe-executive-says.md]] ASML currently sells no chipmaking machines in Europe, executive says `pillar:capabilities` `score:0.375`
 - [[astra-and-opus-just-passed-turing8217s-other-test.md]] Astra and Opus just passed Turing&#8217;s other test `pillar:capabilities` `score:0.305`
 - [[astra-for-coding-why-are-we-doing-this-again.md]] Astra for Coding: Why Are We Doing This Again? `pillar:capabilities` `score:0.425`
 - [[astroforge-is-putting-ai-in-command-of-its-next-spacecraft.md]] AstroForge is putting AI in command of its next spacecraft `pillar:capabilities` `score:0.305`
@@ -744,6 +745,7 @@
 - [[i-built-a-low-latency-ai-companion-that-plays-skyrim-with-me.md]] I built a low-latency AI companion that plays Skyrim with me `pillar:capabilities` `score:0.305`
 - [[i-built-a-vulnerable-app-and-spent-1500-seeing-if-llms-could-hack-it.md]] I built a vulnerable app and spent $1,500 seeing if LLMs could hack it `pillar:capabilities` `score:0.43`
 - [[i-built-non-autoregressive-decision-models-with-rl-a-year-ago.md]] I built non-autoregressive decision models with RL a year ago `pillar:capabilities` `score:0.505`
+- [[i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it.md]] I created an interactive digital avatar of myself — and you can talk to it `pillar:capabilities` `score:0.305`
 - [[i-design-with-claude-more-than-figma-now.md]] I design with Claude more than Figma now `pillar:capabilities` `score:0.585`
 - [[i-dont-recommend-tailwind-css.md]] I don't recommend Tailwind CSS `pillar:capabilities` `score:0.305`
 - [[i-dont-think-ai-will-make-your-processes-go-faster.md]] I don't think AI will make your processes go faster `pillar:capabilities` `score:0.6`
@@ -3258,6 +3260,7 @@
 - [[the-ai-world-is-getting-8216loopy8217.md]] The AI world is getting &#8216;loopy&#8217; `pillar:patterns` `score:0.48`
 - [[the-american-religion-of-self-storage-facilities.md]] The American Religion of Self-Storage Facilities `pillar:patterns` `score:0.405`
 - [[the-chinese-voice-actor-forced-to-prove-hes-human.md]] The Chinese Voice Actor Forced to Prove He's Human `pillar:patterns` `score:0.33`
+- [[the-copilot-pc-brand-is-dead.md]] The Copilot+ PC brand is dead `pillar:patterns` `score:0.255`
 - [[the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine.md]] The first American autonomous ground vehicles are fighting in Ukraine `pillar:patterns` `score:0.445`
 - [[the-fix-for-rogue-ai-agents-could-be-more-ai.md]] The fix for rogue AI agents could be more AI `pillar:patterns` `score:0.305`
 - [[the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone.md]] The founder of Hinge raised $18M to build a new AI dating service, Overtone `pillar:patterns` `score:0.515`
@@ -3287,6 +3290,7 @@
 - [[turn-your-singing-voice-into-printable-notes-in-the-browser.md]] Turn your singing voice into printable notes (in the browser) `pillar:patterns` `score:0.33`
 - [[un-turns-to-google-to-make-its-global-data-ready-for-ai-agents.md]] UN turns to Google to make its global data ready for AI agents `pillar:patterns` `score:0.305`
 - [[unclecodecrawl4ai.md]] unclecode/crawl4ai `pillar:patterns` `score:0.405`
+- [[understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior.md]] Understanding the Impact of LLM Watermarking on AI Agent Behavior `pillar:patterns` `score:0.305`
 - [[unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant.md]] Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't `pillar:patterns` `score:0.33`
 - [[universal-memory-protocol-a-shared-format-for-agent-memory.md]] Universal Memory Protocol – a shared format for agent memory `pillar:patterns` `score:0.33`
 - [[unreal-agent.md]] Unreal Agent `pillar:patterns` `score:0.155`
