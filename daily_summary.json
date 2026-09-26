@@ -32,10 +32,24 @@
         "insight": "今日📱 产品模式方向的核心信号集中在AI Agent, 安全/漏洞。",
         "evidence": [
           {
+            "id": "revealing-the-details-of-how-openai-agents-hacked-hugging-face",
+            "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+            "score": 0.51,
+            "url": "https://news.ycombinator.com/item?id=49849985",
+            "reason": "高价值信号"
+          },
+          {
             "id": "for-months-openai8217s-agent-swarms-have-been-attacking-online-databases-to-find",
             "title": "For months, OpenAI&#8217;s agent swarms have been attacking online dat",
             "score": 0.3,
             "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-lab821",
+            "title": "Unsecured OpenAI agents posted 53 user images on the internet without ",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
@@ -89,7 +103,7 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日7条情报涉及AI Agent及相关工具生态。典型项目包括：unclecode/crawl4ai, Meta is putting its muscle behind Muse a, Agentic Detection of Online Conspiracies。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日9条情报涉及AI Agent及相关工具生态。典型项目包括：Revealing the details of how OpenAI agen, unclecode/crawl4ai, Unsecured OpenAI agents posted 53 user i。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
@@ -100,10 +114,14 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 23 | 📱 产品模式: 8 | 💰 商业趋势: 3 | 🔧 工具生态: 3",
-    "total_items": 37,
-    "high_value_count": 34,
+    "stats": "📱 产品模式: 10 | 🤖 技术能力: 35 | 💰 商业趋势: 3 | 🔧 工具生态: 3",
+    "total_items": 51,
+    "high_value_count": 41,
     "all_today_ids": [
+      {
+        "id": "revealing-the-details-of-how-openai-agents-hacked-hugging-face",
+        "label": "Revealing the details of how OpenAI agents hacked Hugging Face"
+      },
       {
         "id": "us-appeals-court-upholds-designation-of-anthropic-as-supply-chain-risk",
         "label": "U.S. appeals court upholds designation of Anthropic as supply chain risk"
@@ -117,8 +135,20 @@
         "label": "unclecode/crawl4ai"
       },
       {
+        "id": "one-piece-of-flock-camera-data-put-this-innocent-woman-in-jail-for-13-days",
+        "label": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days"
+      },
+      {
+        "id": "ashishpatel26500-ai-machine-learning-deep-learning-computer-vision-nlp-projects",
+        "label": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects"
+      },
+      {
         "id": "classified-estimates-show-the-nsa-is-paying-billions-to-test-ai-models",
         "label": "Classified estimates show the NSA is paying billions to test AI models"
+      },
+      {
+        "id": "how-to-keep-enjoying-programming-in-a-world-of-llms",
+        "label": "How to keep enjoying programming in a world of LLMs"
       },
       {
         "id": "affected-by-layoffs-don8217t-miss-this-75-deal-for-your-techcrunch-disrupt-2026",
@@ -141,8 +171,16 @@
         "label": "Astra and Opus just passed Turing&#8217;s other test"
       },
       {
+        "id": "crusoe-abandons-125b-plan-to-use-boom-turbines-at-ai-data-centers",
+        "label": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers"
+      },
+      {
         "id": "techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhosein",
         "label": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhose"
+      },
+      {
+        "id": "unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-lab821",
+        "label": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8"
       },
       {
         "id": "meta-opens-early-access-program-for-new-muse-features",
@@ -183,6 +221,10 @@
       {
         "id": "last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-atte",
         "label": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to at"
+      },
+      {
+        "id": "at-meta-connect-the-company8217s-smart-glasses-were-everywhere",
+        "label": "At Meta Connect, the company&#8217;s smart glasses were everywhere"
       },
       {
         "id": "too-ai-didnt-read",
@@ -241,8 +283,28 @@
         "label": "LLM Agents Can Easily Tamper With Their Own Traces"
       },
       {
+        "id": "one-month-without-ai",
+        "label": "One Month Without AI"
+      },
+      {
+        "id": "a-single-function-jev-like-wrapper-for-llms-including-vision-models",
+        "label": "A single function Jev-like wrapper for LLMs, including vision models"
+      },
+      {
+        "id": "i-wrote-a-ray-tracer-in-brainfuck",
+        "label": "I wrote a ray tracer in Brainfuck"
+      },
+      {
         "id": "show-hn-doom-or-bloom-map-your-ai-worldview",
         "label": "Show HN: Doom or Bloom, map your AI worldview"
+      },
+      {
+        "id": "parsing-expression-grammar-vs-regexes-building-org-parser-in-lisp-export-html",
+        "label": "Parsing Expression Grammar vs. Regexes: Building Org Parser in Lisp, Export HTML"
+      },
+      {
+        "id": "fourier-analysis-drawing-llamas-with-circles",
+        "label": "Fourier Analysis: Drawing Llamas with Circles"
       },
       {
         "id": "show-hn-agentic-cuda-kernel-optimizer",
@@ -251,9 +313,17 @@
       {
         "id": "metas-muse-appears-to-use-an-openai-model-labeled-muse-special",
         "label": "Meta's Muse appears to use an OpenAI model labeled muse-special"
+      },
+      {
+        "id": "a-new-world-airport-and-its-baggage",
+        "label": "A new world airport and its baggage"
+      },
+      {
+        "id": "show-hn-jevgpt-reinventing-the-wheel-with-another-wheel",
+        "label": "Show HN: Jevgpt – reinventing the wheel with another wheel"
       }
     ],
     "date_bj": "2026-09-26 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-26 06:01:52"
+    "generated_at_bj": "2026-09-26 20:03:02"
   }
 }

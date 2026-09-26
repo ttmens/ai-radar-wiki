@@ -1,8 +1,19 @@
 {
   "date": "2026-09-26",
-  "generated_at": "2026-09-26T06:02:23.175731+08:00",
-  "item_count": 34,
+  "generated_at": "2026-09-26T20:03:34.422362+08:00",
+  "item_count": 41,
   "items": [
+    {
+      "id": "revealing-the-details-of-how-openai-agents-hacked-hugging-face",
+      "label": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.505,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49849985",
+      "date": "2026-09-26"
+    },
     {
       "id": "us-appeals-court-upholds-designation-of-anthropic-as-supply-chain-risk",
       "label": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
@@ -37,6 +48,28 @@
       "date": "2026-09-26"
     },
     {
+      "id": "one-piece-of-flock-camera-data-put-this-innocent-woman-in-jail-for-13-days",
+      "label": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49852065",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "ashishpatel26500-ai-machine-learning-deep-learning-computer-vision-nlp-projects",
+      "label": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects",
+      "summary": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+      "date": "2026-09-26"
+    },
+    {
       "id": "classified-estimates-show-the-nsa-is-paying-billions-to-test-ai-models",
       "label": "Classified estimates show the NSA is paying billions to test AI models",
       "summary": "暂无中文摘要",
@@ -45,6 +78,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49845952",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "how-to-keep-enjoying-programming-in-a-world-of-llms",
+      "label": "How to keep enjoying programming in a world of LLMs",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.325,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49854875",
       "date": "2026-09-26"
     },
     {
@@ -103,6 +147,17 @@
       "date": "2026-09-26"
     },
     {
+      "id": "crusoe-abandons-125b-plan-to-use-boom-turbines-at-ai-data-centers",
+      "label": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "date": "2026-09-26"
+    },
+    {
       "id": "techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhosein",
       "label": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhose",
       "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
@@ -111,6 +166,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-lab821",
+      "label": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8",
+      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
       "date": "2026-09-26"
     },
     {
@@ -221,6 +287,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "at-meta-connect-the-company8217s-smart-glasses-were-everywhere",
+      "label": "At Meta Connect, the company&#8217;s smart glasses were everywhere",
+      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
       "date": "2026-09-26"
     },
     {
@@ -379,7 +456,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 8902,
-    "edges": 9606
+    "real_nodes": 8916,
+    "edges": 9624
   }
 }

@@ -4720,3 +4720,19 @@
 ## [2026-09-26 06:02] sync v3 | 2 new | pillars: {'capabilities': 2}
 - create: too-ai-didnt-read.md
 - create: meta-opens-early-access-program-for-new-muse-features.md
+
+## [2026-09-26 20:03] sync v3 | 14 new | pillars: {'capabilities': 12, 'patterns': 2}
+- create: ashishpatel26500-ai-machine-learning-deep-learning-computer-vision-nlp-projects.md
+- create: one-month-without-ai.md
+- create: revealing-the-details-of-how-openai-agents-hacked-hugging-face.md
+- create: a-single-function-jev-like-wrapper-for-llms-including-vision-models.md
+- create: parsing-expression-grammar-vs-regexes-building-org-parser-in-lisp-export-html.md
+- create: fourier-analysis-drawing-llamas-with-circles.md
+- create: a-new-world-airport-and-its-baggage.md
+- create: one-piece-of-flock-camera-data-put-this-innocent-woman-in-jail-for-13-days.md
+- create: i-wrote-a-ray-tracer-in-brainfuck.md
+- create: how-to-keep-enjoying-programming-in-a-world-of-llms.md
+- create: at-meta-connect-the-company8217s-smart-glasses-were-everywhere.md
+- create: crusoe-abandons-125b-plan-to-use-boom-turbines-at-ai-data-centers.md
+- create: unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-lab821.md
+- create: show-hn-jevgpt-reinventing-the-wheel-with-another-wheel.md
