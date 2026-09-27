@@ -2,7 +2,7 @@
   "daily_summary": {
     "date": "2026-09-27",
     "headline": "今日 AI 情报 · 2026-09-27",
-    "overview": "今日共采集 4 条情报",
+    "overview": "今日共采集 16 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -10,10 +10,10 @@
         "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "asml-currently-sells-no-chipmaking-machines-in-europe-executive-says",
-            "title": "ASML currently sells no chipmaking machines in Europe, executive says",
-            "score": 0.38,
-            "url": "https://news.ycombinator.com/item?id=49823628",
+            "id": "asml-says-it-sold-absolutely-nothing-in-europe-in-2026",
+            "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=49844663",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -30,19 +30,68 @@
             "score": 0.3,
             "url": "https://news.ycombinator.com/item?id=49856149",
             "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "an-agent-used-dns-to-reach-an-external-chatbot",
+            "title": "An agent used DNS to reach an external chatbot",
+            "score": 0.3,
+            "url": "https://news.ycombinator.com/item?id=49853137",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "drawgent-coding-agent-on-a-live-excalidraw-canvas",
+            "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+            "score": 0.3,
+            "url": "https://news.ycombinator.com/item?id=49857729",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向有新的动态。",
+        "evidence": [
+          {
+            "id": "a-searchable-library-of-forgotten-public-domain-film-clips-from-1915-onward",
+            "title": "A searchable library of forgotten public-domain film clips from 1915 o",
+            "score": 0.3,
+            "url": "https://news.ycombinator.com/item?id=49832768",
+            "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
         "trend": "new"
       }
     ],
     "narratives": [],
-    "stats": "🤖 技术能力: 2 | 📱 产品模式: 2",
-    "total_items": 4,
-    "high_value_count": 3,
+    "stats": "🤖 技术能力: 11 | 🔧 工具生态: 1 | 📱 产品模式: 4",
+    "total_items": 16,
+    "high_value_count": 12,
     "all_today_ids": [
+      {
+        "id": "asml-says-it-sold-absolutely-nothing-in-europe-in-2026",
+        "label": "ASML says it sold 'absolutely nothing' in Europe in 2026"
+      },
       {
         "id": "asml-currently-sells-no-chipmaking-machines-in-europe-executive-says",
         "label": "ASML currently sells no chipmaking machines in Europe, executive says"
+      },
+      {
+        "id": "how-i-changed-teaching-after-ai-managed-to-do-all-my-homework-assignments",
+        "label": "How I changed teaching after AI managed to do all my homework assignments"
+      },
+      {
+        "id": "a-searchable-library-of-forgotten-public-domain-film-clips-from-1915-onward",
+        "label": "A searchable library of forgotten public-domain film clips from 1915 onward"
+      },
+      {
+        "id": "google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-in",
+        "label": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in In"
+      },
+      {
+        "id": "evolving-programming-languages-in-the-ai-era",
+        "label": "Evolving programming languages in the AI era"
       },
       {
         "id": "understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
@@ -53,11 +102,39 @@
         "label": "I created an interactive digital avatar of myself — and you can talk to it"
       },
       {
+        "id": "an-agent-used-dns-to-reach-an-external-chatbot",
+        "label": "An agent used DNS to reach an external chatbot"
+      },
+      {
+        "id": "drawgent-coding-agent-on-a-live-excalidraw-canvas",
+        "label": "Drawgent: Coding agent on a live Excalidraw canvas"
+      },
+      {
+        "id": "insurers-claim-ai-is-already-increasing-healthcare-costs",
+        "label": "Insurers claim AI is already increasing healthcare costs"
+      },
+      {
+        "id": "show-hn-a-claude-code-skill-to-analyze-your-chess-games",
+        "label": "Show HN: A Claude Code skill to analyze your chess games"
+      },
+      {
         "id": "the-copilot-pc-brand-is-dead",
         "label": "The Copilot+ PC brand is dead"
+      },
+      {
+        "id": "biology-might-not-be-quantum-but-its-math-is-quantumlike",
+        "label": "Biology might not be quantum, but its math is quantumlike"
+      },
+      {
+        "id": "turning-glm-53-flash-into-a-jev-like-decision-model",
+        "label": "Turning GLM-5.3-Flash into a Jev-like decision model"
+      },
+      {
+        "id": "generate-fonts-where-every-llm-token-is-the-same-width",
+        "label": "Generate fonts where every LLM token is the same width"
       }
     ],
     "date_bj": "2026-09-27 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-27 00:02:05"
+    "generated_at_bj": "2026-09-27 16:03:11"
   }
 }

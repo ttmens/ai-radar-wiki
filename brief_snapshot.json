@@ -1,8 +1,19 @@
 {
   "date": "2026-09-27",
-  "generated_at": "2026-09-27T00:02:36.835170+08:00",
-  "item_count": 3,
+  "generated_at": "2026-09-27T16:03:47.580658+08:00",
+  "item_count": 12,
   "items": [
+    {
+      "id": "asml-says-it-sold-absolutely-nothing-in-europe-in-2026",
+      "label": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49844663",
+      "date": "2026-09-27"
+    },
     {
       "id": "asml-currently-sells-no-chipmaking-machines-in-europe-executive-says",
       "label": "ASML currently sells no chipmaking machines in Europe, executive says",
@@ -12,6 +23,50 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49823628",
+      "date": "2026-09-27"
+    },
+    {
+      "id": "how-i-changed-teaching-after-ai-managed-to-do-all-my-homework-assignments",
+      "label": "How I changed teaching after AI managed to do all my homework assignments",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.375,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49836579",
+      "date": "2026-09-27"
+    },
+    {
+      "id": "a-searchable-library-of-forgotten-public-domain-film-clips-from-1915-onward",
+      "label": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49832768",
+      "date": "2026-09-27"
+    },
+    {
+      "id": "google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-in",
+      "label": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in In",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "date": "2026-09-27"
+    },
+    {
+      "id": "evolving-programming-languages-in-the-ai-era",
+      "label": "Evolving programming languages in the AI era",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49839567",
       "date": "2026-09-27"
     },
     {
@@ -35,10 +90,54 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
       "date": "2026-09-27"
+    },
+    {
+      "id": "an-agent-used-dns-to-reach-an-external-chatbot",
+      "label": "An agent used DNS to reach an external chatbot",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49853137",
+      "date": "2026-09-27"
+    },
+    {
+      "id": "drawgent-coding-agent-on-a-live-excalidraw-canvas",
+      "label": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49857729",
+      "date": "2026-09-27"
+    },
+    {
+      "id": "insurers-claim-ai-is-already-increasing-healthcare-costs",
+      "label": "Insurers claim AI is already increasing healthcare costs",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "date": "2026-09-27"
+    },
+    {
+      "id": "show-hn-a-claude-code-skill-to-analyze-your-chess-games",
+      "label": "Show HN: A Claude Code skill to analyze your chess games",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "showhn",
+      "source_type": "showhn",
+      "url": "https://github.com/brumar/chess-postmortem-skills",
+      "date": "2026-09-27"
     }
   ],
   "graph_totals": {
-    "real_nodes": 8920,
-    "edges": 9628
+    "real_nodes": 8932,
+    "edges": 9640
   }
 }

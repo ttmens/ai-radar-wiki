@@ -4742,3 +4742,17 @@
 - create: understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior.md
 - create: the-copilot-pc-brand-is-dead.md
 - create: i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it.md
+
+## [2026-09-27 16:03] sync v3 | 12 new | pillars: {'ecosystem': 1, 'capabilities': 9, 'patterns': 2}
+- create: a-searchable-library-of-forgotten-public-domain-film-clips-from-1915-onward.md
+- create: biology-might-not-be-quantum-but-its-math-is-quantumlike.md
+- create: asml-says-it-sold-absolutely-nothing-in-europe-in-2026.md
+- create: drawgent-coding-agent-on-a-live-excalidraw-canvas.md
+- create: an-agent-used-dns-to-reach-an-external-chatbot.md
+- create: turning-glm-53-flash-into-a-jev-like-decision-model.md
+- create: evolving-programming-languages-in-the-ai-era.md
+- create: how-i-changed-teaching-after-ai-managed-to-do-all-my-homework-assignments.md
+- create: generate-fonts-where-every-llm-token-is-the-same-width.md
+- create: google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-in.md
+- create: insurers-claim-ai-is-already-increasing-healthcare-costs.md
+- create: show-hn-a-claude-code-skill-to-analyze-your-chess-games.md
