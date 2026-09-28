@@ -2,7 +2,7 @@
   "daily_summary": {
     "date": "2026-09-27",
     "headline": "今日 AI 情报 · 2026-09-27",
-    "overview": "今日共采集 16 条情报",
+    "overview": "今日共采集 18 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -65,9 +65,9 @@
       }
     ],
     "narratives": [],
-    "stats": "🤖 技术能力: 11 | 🔧 工具生态: 1 | 📱 产品模式: 4",
-    "total_items": 16,
-    "high_value_count": 12,
+    "stats": "🤖 技术能力: 13 | 🔧 工具生态: 1 | 📱 产品模式: 4",
+    "total_items": 18,
+    "high_value_count": 13,
     "all_today_ids": [
       {
         "id": "asml-says-it-sold-absolutely-nothing-in-europe-in-2026",
@@ -80,6 +80,10 @@
       {
         "id": "how-i-changed-teaching-after-ai-managed-to-do-all-my-homework-assignments",
         "label": "How I changed teaching after AI managed to do all my homework assignments"
+      },
+      {
+        "id": "openai-feared-optics-of-what-might-appear-on-hacker-news",
+        "label": "OpenAI Feared \"Optics\" of what might appear on Hacker News"
       },
       {
         "id": "a-searchable-library-of-forgotten-public-domain-film-clips-from-1915-onward",
@@ -122,6 +126,10 @@
         "label": "The Copilot+ PC brand is dead"
       },
       {
+        "id": "meta-blocks-president-lulas-facebook-page-campaign-ads-2-weeks-from-election",
+        "label": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election"
+      },
+      {
         "id": "biology-might-not-be-quantum-but-its-math-is-quantumlike",
         "label": "Biology might not be quantum, but its math is quantumlike"
       },
@@ -135,6 +143,6 @@
       }
     ],
     "date_bj": "2026-09-27 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-27 16:03:11"
+    "generated_at_bj": "2026-09-27 18:02:21"
   }
 }

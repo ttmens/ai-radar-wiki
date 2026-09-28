@@ -1,0 +1,87 @@
+{
+  "daily_summary": {
+    "date": "2026-09-28",
+    "headline": "今日 AI 情报 · 2026-09-28",
+    "overview": "今日共采集 10 条情报",
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "今日🤖 技术能力方向有新的动态。",
+        "evidence": [
+          {
+            "id": "unsealed-briefs-in-authors-case-v-microsoftopenai",
+            "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+            "score": 0.51,
+            "url": "https://news.ycombinator.com/item?id=49863864",
+            "reason": "高价值信号"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
+        "evidence": [
+          {
+            "id": "show-hn-tinyaiarena-watch-ai-agents-battle-it-out",
+            "title": "Show HN: TinyAIArena watch AI agents battle it out",
+            "score": 0.3,
+            "url": "https://news.ycombinator.com/item?id=49867775",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      }
+    ],
+    "narratives": [],
+    "stats": "🤖 技术能力: 7 | 📱 产品模式: 3",
+    "total_items": 10,
+    "high_value_count": 8,
+    "all_today_ids": [
+      {
+        "id": "unsealed-briefs-in-authors-case-v-microsoftopenai",
+        "label": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI"
+      },
+      {
+        "id": "the-normalization-of-inexplicable-failures",
+        "label": "The Normalization of Inexplicable Failures"
+      },
+      {
+        "id": "mrdbourkepytorch-deep-learning",
+        "label": "mrdbourke/pytorch-deep-learning"
+      },
+      {
+        "id": "anthropics-ceo-is-about-to-have-dinner-with-president-trump",
+        "label": "Anthropic’s CEO is about to have dinner with President Trump"
+      },
+      {
+        "id": "show-hn-tinyaiarena-watch-ai-agents-battle-it-out",
+        "label": "Show HN: TinyAIArena watch AI agents battle it out"
+      },
+      {
+        "id": "can-muse-overcome-metas-trust-issues",
+        "label": "Can Muse overcome Meta’s trust issues?"
+      },
+      {
+        "id": "anthropic8217s-dario-amodei-gets-the-snl-treatment",
+        "label": "Anthropic&#8217;s Dario Amodei gets the SNL treatment"
+      },
+      {
+        "id": "as-a-language-model-chat-template-switches-llm-self-referential-voice",
+        "label": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice"
+      },
+      {
+        "id": "faster-prompt-lookup-drafting-in-llamacpp",
+        "label": "Faster prompt lookup drafting in llama.cpp"
+      },
+      {
+        "id": "fragment-of-oldest-known-peace-treaty-found-in-turkey",
+        "label": "Fragment of oldest known peace treaty found in Turkey"
+      }
+    ],
+    "date_bj": "2026-09-28 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-09-28 12:02:19"
+  }
+}
