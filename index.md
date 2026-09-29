@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-09-30 | Total pages: 4615
+> Last updated: 2026-09-30 | Total pages: 4617
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -1501,6 +1501,7 @@
 - [[show-hn-the-load-bearing-vocabulary-of-claude.md]] Show HN: The load-bearing vocabulary of Claude `pillar:capabilities` `score:0.405`
 - [[show-hn-tiny-vllm-high-performance-llm-inference-engine-in-c-and-cuda.md]] Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA `pillar:capabilities` `score:0.33`
 - [[show-hn-training-a-model-to-identify-ai-web-content-from-structure-alone.md]] Show HN: Training a model to identify AI web content from structure alone `pillar:capabilities` `score:0.155`
+- [[show-hn-turbogpt-train-22kib-transformer-in-13s.md]] Show HN: TurboGPT: train 22KiB transformer in 13s `pillar:capabilities` `score:0.155`
 - [[show-hn-typecom-multiplayer-codexclaude-in-the-cloud-for-non-tech-use-cases.md]] Show HN: Type.com: Multiplayer Codex/Claude in the cloud for non-tech use cases `pillar:capabilities` `score:0.155`
 - [[show-hn-uruky-eu-based-kagi-alternative-now-has-image-search-and-url-rewrites.md]] Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites `pillar:capabilities` `score:0.26`
 - [[show-hn-vet-turned-founder-ai-lawn-diagnosis.md]] Show HN: Vet turned founder, AI lawn diagnosis `pillar:capabilities` `score:0.295`
@@ -3139,6 +3140,7 @@
 - [[openai-launches-new-codex-tools-for-white-collar-work.md]] OpenAI launches new Codex tools for white-collar work `pillar:patterns` `score:0.515`
 - [[openai-releases-new-voice-models-for-more-natural-live-conversations.md]] OpenAI releases new voice models for more natural live conversations `pillar:patterns` `score:0.515`
 - [[openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok.md]] OpenAI reportedly finds evidence that more of its agents ran amok `pillar:patterns` `score:0.305`
+- [[openai8217s-latest-features-take-direct-aim-at-the-app-store-model.md]] OpenAI&#8217;s latest features take direct aim at the app store model `pillar:patterns` `score:0.305`
 - [[openai8217s-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-the.md]] OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate `pillar:patterns` `score:0.305`
 - [[openbb-financeopenbb.md]] OpenBB-finance/OpenBB `pillar:patterns` `score:0.58`
 - [[openclaw-is-finally-available-on-android-and-ios.md]] OpenClaw is finally available on Android and iOS `pillar:patterns` `score:0.445`

@@ -4844,3 +4844,7 @@
 - create: reco-raises-55m-as-ai-agent-security-startups-crowd-the-market.md
 - create: anthropic8217s-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-co.md
 - create: show-hn-pac-bench-how-well-can-models-one-shot-a-pac-man-game.md
+
+## [2026-09-30 06:02] sync v3 | 2 new | pillars: {'patterns': 1, 'capabilities': 1}
+- create: openai8217s-latest-features-take-direct-aim-at-the-app-store-model.md
+- create: show-hn-turbogpt-train-22kib-transformer-in-13s.md

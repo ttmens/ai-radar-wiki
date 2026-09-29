@@ -1,7 +1,7 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30T04:05:43.621855+08:00",
-  "item_count": 35,
+  "generated_at": "2026-09-30T06:02:50.769204+08:00",
+  "item_count": 36,
   "items": [
     {
       "id": "gpt-61-sol-near-astra-intelligence-for-a-fifth-of-the-price",
@@ -155,6 +155,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "date": "2026-09-30"
+    },
+    {
+      "id": "openai8217s-latest-features-take-direct-aim-at-the-app-store-model",
+      "label": "OpenAI&#8217;s latest features take direct aim at the app store model",
+      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
       "date": "2026-09-30"
     },
     {
@@ -390,7 +401,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 9031,
-    "edges": 9765
+    "real_nodes": 9033,
+    "edges": 9767
   }
 }
