@@ -7,7 +7,7 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "今日🤖 技术能力方向有新的动态。",
+        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：基础设施, 融资/投资。",
         "evidence": [
           {
             "id": "the-problem-is-not-ai-code-but-not-knowing-about-system-architecture-or-intent",
@@ -22,7 +22,7 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：融资/投资, AI Agent。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 融资/投资。",
         "evidence": [
           {
             "id": "shopify-opens-checkout-to-browser-based-ai-agents",
@@ -76,6 +76,21 @@
           }
         ],
         "trend": "new"
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "今日💰 商业趋势方向有新的动态。",
+        "evidence": [
+          {
+            "id": "amd-will-acquire-fei-fei-li8217s-world-labs-for-82-billion",
+            "title": "AMD will acquire Fei-Fei Li&#8217;s World Labs for $8.2 billion",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
       }
     ],
     "narratives": [
@@ -86,15 +101,21 @@
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
       {
+        "title": "AI工具链从通用走向垂直专业化",
+        "body": "今日1条情报涉及AI工具链与基础设施。包括：Source: Inference provider Modal Labs cl。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+        "type": "maturation",
+        "action": "建议：关注工具链发展，考虑引入专用工具或评估自研可行性。行业成熟意味着标准化窗口接近。"
+      },
+      {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日1条情报涉及AI商业动态。包括：Viral AI agent Instinct raises $1B Serie。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日2条情报涉及AI商业动态。包括：Source: Inference provider Modal Labs cl, Viral AI agent Instinct raises $1B Serie。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 19 | 📱 产品模式: 13 | 🔧 工具生态: 3",
-    "total_items": 35,
-    "high_value_count": 19,
+    "stats": "🤖 技术能力: 31 | 📱 产品模式: 13 | 🔧 工具生态: 3 | 💰 商业趋势: 1",
+    "total_items": 48,
+    "high_value_count": 25,
     "all_today_ids": [
       {
         "id": "the-problem-is-not-ai-code-but-not-knowing-about-system-architecture-or-intent",
@@ -117,6 +138,10 @@
         "label": "Thinking fast and slow in AI: The role of metacognition (2021)"
       },
       {
+        "id": "source-inference-provider-modal-labs-closing-in-on-750m-round-at-1575b-valuation",
+        "label": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valua"
+      },
+      {
         "id": "your-final-chance-to-grab-your-exhibit-table-at-techcrunch-disrupt-2026-is-octob",
         "label": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Octob"
       },
@@ -137,6 +162,10 @@
         "label": "Shopify opens checkout to browser-based AI agents"
       },
       {
+        "id": "peak-xv-ups-surge-seed-investment-ceiling-to-5m-unveils-18-startup-cohort",
+        "label": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort"
+      },
+      {
         "id": "modulate-raises-25m-for-its-voice-models-and-analysis-suite",
         "label": "Modulate raises $25M for its voice models and analysis suite"
       },
@@ -145,12 +174,28 @@
         "label": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy A"
       },
       {
+        "id": "openai-reportedly-ditches-model-over-safety-concerns",
+        "label": "OpenAI reportedly ditches model over safety concerns"
+      },
+      {
+        "id": "the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it",
+        "label": "The AI boom took over Climate Week and not everyone is happy about it"
+      },
+      {
         "id": "nvidia-launches-new-platform-for-reining-in-rogue-ai-agents",
         "label": "Nvidia launches new platform for reining in rogue AI agents"
       },
       {
+        "id": "amd-will-acquire-fei-fei-li8217s-world-labs-for-82-billion",
+        "label": "AMD will acquire Fei-Fei Li&#8217;s World Labs for $8.2 billion"
+      },
+      {
         "id": "openai-still-doesn8217t-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
         "label": "OpenAI still doesn&#8217;t seem to have a handle on all of its rogue AI activity"
+      },
+      {
+        "id": "its-time-to-investigate-the-ai-labs",
+        "label": "It's Time to Investigate the AI Labs"
       },
       {
         "id": "insurtech-outmarket-raises-345m-just-months-after-prior-round",
@@ -173,8 +218,16 @@
         "label": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative"
       },
       {
+        "id": "microllm-lab-try-7-tiny-llms-in-the-browser",
+        "label": "MicroLLM Lab – Try 7 tiny LLM's in the browser"
+      },
+      {
         "id": "nvidia-wants-to-put-a-watchdog-chip-next-to-every-ai-agent",
         "label": "Nvidia wants to put a watchdog chip next to every AI agent"
+      },
+      {
+        "id": "what-reversing-modernising-old-games-tells-us-about-the-economic-impact-of-ai",
+        "label": "What reversing, modernising old games tells us about the economic impact of AI"
       },
       {
         "id": "cf-the-agentic-cli-for-the-cloudflare-api",
@@ -233,11 +286,31 @@
         "label": "Statistical attribute alignment for black-box generative AI via output post-proc"
       },
       {
+        "id": "pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
+        "label": "Pacing the Frontier is not the actual goal for AI labs"
+      },
+      {
+        "id": "jeff-jev-compatible-08b-decision-models-trained-at-home-30-ms",
+        "label": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms"
+      },
+      {
+        "id": "esp32s3-cluster-running-158-bit-bitnet-language-model",
+        "label": "ESP32S3 cluster running 1.58-bit (BitNet) Language model"
+      },
+      {
+        "id": "12000-year-old-göbeklitepe-burials-explain-scattered-bones",
+        "label": "12,000-year-old Göbeklitepe burials explain scattered bones"
+      },
+      {
+        "id": "flock-wants-the-most-detailed-map-of-its-surveillance-cameras-taken-offline",
+        "label": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline"
+      },
+      {
         "id": "show-hn-openappa-open-source-deterministic-guardrails-that-dont-break-agents",
         "label": "Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents"
       }
     ],
     "date_bj": "2026-09-29 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-29 04:05:12"
+    "generated_at_bj": "2026-09-29 12:02:37"
   }
 }

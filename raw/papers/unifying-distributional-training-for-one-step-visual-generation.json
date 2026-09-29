@@ -1,0 +1,25 @@
+{
+  "title": "Unifying Distributional Training for One-Step Visual Generation",
+  "summary": "\\emph{Distributional training} provides collective supervision for one-step visual generation by matching real and generated features in frozen representation spaces. We introduce \\emph{a unified theoretical framework} that separates distribution modeling from matching discrepancy and connects global objectives to pointwise feature updates through Wasserstein gradient flow. Under this framework, FD-Loss and Gaussian-kernel Drifting are recovered through Gaussian optimal transport and kernel-density-based KL matching, respectively. The framework motivates \\textbf{MGFlow}, which models feature distributions with Gaussian mixtures at an adjustable granularity between global moments and sample-based representations. MGFlow supports both optimal transport and score-based matching, and couples mass-constrained sample assignment with paired component updates to address mode collapse that mixture expressivity alone does not resolve. On ImageNet $256\\times256$, MGFlow substantially surpasses the FD-Loss baseline, achieving state-of-the-art results with \\textbf{1.45} $\\mathrm{FDr}^6$ on pMF-H and \\textbf{1.64} on JiT-H. For text-to-image generation, MGFlow post-trains FLUX.2 [klein] 4B into a one-step generator that outperforms the original four-step model on both GenEval and PickScore. Project page: https://shihaoyang0423.github.io/MGFlow-website/",
+  "url": "http://arxiv.org/abs/2609.35763v1",
+  "authors": [
+    "Chi Zhang",
+    "Haoyang Shi",
+    "Yueyi Liu",
+    "Ruichuan An",
+    "Junkang Zhou"
+  ],
+  "published": "2026-09-28T17:59:14Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "vision",
+    "training",
+    "gradient"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

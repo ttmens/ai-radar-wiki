@@ -4793,3 +4793,54 @@
 - create: your-final-chance-to-grab-your-exhibit-table-at-techcrunch-disrupt-2026-is-octob.md
 - create: viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation.md
 - create: show-hn-openappa-open-source-deterministic-guardrails-that-dont-break-agents.md
+
+## [2026-09-29 06:02] sync v3 | 8 new | pillars: {'capabilities': 7, 'business': 1}
+- create: jeff-jev-compatible-08b-decision-models-trained-at-home-30-ms.md
+- create: microllm-lab-try-7-tiny-llms-in-the-browser.md
+- create: pacing-the-frontier-is-not-the-actual-goal-for-ai-labs.md
+- create: 12000-year-old-göbeklitepe-burials-explain-scattered-bones.md
+- create: its-time-to-investigate-the-ai-labs.md
+- create: flock-wants-the-most-detailed-map-of-its-surveillance-cameras-taken-offline.md
+- create: source-inference-provider-modal-labs-closing-in-on-750m-round-at-1575b-valuation.md
+- create: amd-will-acquire-fei-fei-li8217s-world-labs-for-82-billion.md
+
+## [2026-09-30 04:05] sync v3 | 40 new | pillars: {'patterns': 13, 'capabilities': 22, 'ecosystem': 2, 'business': 3}
+- create: debpalashvoicestudio.md
+- create: fure-efficient-instance-specific-3d-fur-reconstruction-without-animal-fur-datase.md
+- create: telescopic-language-models.md
+- create: pdmd-projected-distribution-matching-distillation-for-video-diffusion-models.md
+- create: learning-native-reflection-in-unified-models-with-interleaved-reinforcement-lear.md
+- create: unifying-distributional-training-for-one-step-visual-generation.md
+- create: tokencast-forecasting-token-consumption-during-llm-agent-execution.md
+- create: statistical-learning-of-contractive-dynamical-representations-for-composite-adap.md
+- create: neural-harmonic-measure-operator.md
+- create: how-to-loop-moe-flatten-the-experts-untie-the-attention.md
+- create: kv-streams-for-efficient-compaction-in-agentic-reinforcement-learning.md
+- create: improving-test-time-scaling-with-adaptive-looped-transformers.md
+- create: copy-the-same-distill-the-difference-initializing-linear-vision-transformers.md
+- create: gpt-61-sol-near-astra-intelligence-for-a-fifth-of-the-price.md
+- create: draftkings-is-using-ai-to-behaviorally-target-chronic-gamblers.md
+- create: dots-always-on-agents.md
+- create: a-privacy-analysis-of-web-and-mobile-conversational-ai-agents-pdf.md
+- create: ai-needs-6t-in-annual-revenue-to-justify-data-centre-boom.md
+- create: without-the-hot-air.md
+- create: jeeves-reasoning-improves-jev-like-decision-models.md
+- create: the-end-of-a-fair-price-dynamic-pricing-and-the-normalization-of-gouging.md
+- create: show-hn-jevstiller-distill-jev-into-a-local-model-with-a-disagreement-bound.md
+- create: chatgpt-pro-500.md
+- create: openai-repotedly-in-talks-to-raise-30b-round-at-14t-valuation.md
+- create: here8217s-why-openai-is-absent-from-nvidia8217s-industry-wide-effort-to-end-rogu.md
+- create: openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpt.md
+- create: ai-powered-app-maker-wabi-pivots-to-a-messaging-experience.md
+- create: openai-launches-dots-its-bubbly-agentic-avatar.md
+- create: openai-expands-chatgpt8217s-plugins-with-app-like-interfaces-and-automations.md
+- create: openai-launches-gpt-61-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less.md
+- create: openai-gives-codex-reusable-cloud-environments-that-work-across-devices.md
+- create: can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out.md
+- create: instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-re.md
+- create: with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than.md
+- create: meta-is-expanding-its-ai-agent-muse-to-small-businesses.md
+- create: openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites.md
+- create: reco-raises-55m-as-ai-agent-security-startups-crowd-the-market.md
+- create: anthropic8217s-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-co.md
+- create: show-hn-pac-bench-how-well-can-models-one-shot-a-pac-man-game.md
