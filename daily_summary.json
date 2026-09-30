@@ -7,7 +7,7 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 模型能力。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：模型能力, AI Agent。",
         "evidence": [
           {
             "id": "multi-agent-flow-matching-with-decoupled-generative-guidance",
@@ -74,21 +74,25 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日6条情报涉及AI Agent及相关工具生态。典型项目包括：Meta disputes claim that Muse read a use, DoorDash launches an AI agent you can te, Learning Meta-Skills for Agent Harness D。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日7条情报涉及AI Agent及相关工具生态。典型项目包括：Meta disputes claim that Muse read a use, Valor, Atreides, and Sequoia back AI sta, DoorDash launches an AI agent you can te。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
       {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日2条情报涉及AI商业动态。包括：AI voice startup ElevenLabs doubles valu, A Spectral Theory of Distortion in LLM G。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日3条情报涉及AI商业动态。包括：AI voice startup ElevenLabs doubles valu, Valor, Atreides, and Sequoia back AI sta, A Spectral Theory of Distortion in LLM G。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🔧 工具生态: 6 | 🤖 技术能力: 18 | 📱 产品模式: 7",
-    "total_items": 31,
-    "high_value_count": 26,
+    "stats": "🤖 技术能力: 23 | 🔧 工具生态: 6 | 📱 产品模式: 8",
+    "total_items": 37,
+    "high_value_count": 29,
     "all_today_ids": [
+      {
+        "id": "gemini-4-argon",
+        "label": "Gemini 4 Argon"
+      },
       {
         "id": "you-said-no-mcp",
         "label": "You said no MCP"
@@ -134,12 +138,20 @@
         "label": "Restate lands $20M as the need for durable infrastructure increases with AI agen"
       },
       {
+        "id": "valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation",
+        "label": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation"
+      },
+      {
         "id": "3-days-left-to-exhibit-turn-visibility-into-your-next-opportunity-at-techcrunch",
         "label": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch"
       },
       {
         "id": "instinct8217s-new-product-recommendations-are-giving-some-users-the-ick",
         "label": "Instinct&#8217;s new product recommendations are giving some users the ick"
+      },
+      {
+        "id": "responsible-release-of-ai-generated-mathematics",
+        "label": "Responsible Release of AI-Generated Mathematics"
       },
       {
         "id": "doordash-launches-an-ai-agent-you-can-text-to-order-food",
@@ -202,6 +214,14 @@
         "label": "Floppy Emu Hardware Failure Analysis Results"
       },
       {
+        "id": "surprisingly-complex-waves-reveal-the-brains-inner-workings",
+        "label": "Surprisingly complex waves reveal the brain's inner workings"
+      },
+      {
+        "id": "gemini-4-argon-high-intelligence-performance-and-price-analysis",
+        "label": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis"
+      },
+      {
         "id": "show-hn-strata-an-expressive-semantic-layer-that-can-say-no-to-your-llm",
         "label": "Show HN: Strata – an expressive semantic layer that can say no to your LLM"
       },
@@ -212,9 +232,13 @@
       {
         "id": "show-hn-i-built-a-free-burpcaido-alternative-but-zero-setup-api-testing",
         "label": "Show HN: I built a free Burp/Caido alternative but, zero setup - API Testing"
+      },
+      {
+        "id": "halfspace-experimental-ide-for-solid-modeling-with-distance-fields",
+        "label": "Halfspace experimental IDE for solid modeling with distance fields"
       }
     ],
     "date_bj": "2026-10-01 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-01 04:04:08"
+    "generated_at_bj": "2026-10-01 06:01:21"
   }
 }

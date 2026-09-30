@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-01 | Total pages: 4653
+> Last updated: 2026-10-01 | Total pages: 4659
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -591,6 +591,8 @@
 - [[gemini-38-flash-and-38-flash-cyber.md]] Gemini 3.8 Flash and 3.8 Flash Cyber `pillar:capabilities` `score:0.505`
 - [[gemini-38-live-and-38-live-extended-thinking.md]] Gemini 3.8 Live and 3.8 Live Extended Thinking `pillar:capabilities` `score:0.425`
 - [[gemini-38-text-to-speech.md]] Gemini 3.8 text-to-speech `pillar:capabilities` `score:0.355`
+- [[gemini-4-argon-high-intelligence-performance-and-price-analysis.md]] Gemini 4 Argon (High): Intelligence, Performance and Price Analysis `pillar:capabilities` `score:0.205`
+- [[gemini-4-argon.md]] Gemini 4 Argon `pillar:capabilities` `score:0.505`
 - [[gemini-api-file-search-is-now-multimodal.md]] Gemini API File Search is now multimodal `pillar:capabilities` `score:0.38`
 - [[gemini-cli-will-stop-working-from-june-18-2026.md]] Gemini CLI will stop working from June 18, 2026 `pillar:capabilities` `score:0.515`
 - [[gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https.md]] Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS `pillar:capabilities` `score:0.36`
@@ -697,6 +699,7 @@
 - [[haiku-os-runs-on-m1-macs-now.md]] Haiku OS runs on M1 Macs now `pillar:capabilities` `score:0.475`
 - [[haiku-r1beta6-has-been-released.md]] Haiku R1/beta6 has been released `pillar:capabilities` `score:0.405`
 - [[half-life-2-running-natively-on-haikuos.md]] Half-Life 2 running natively on HaikuOS `pillar:capabilities` `score:0.135`
+- [[halfspace-experimental-ide-for-solid-modeling-with-distance-fields.md]] Halfspace experimental IDE for solid modeling with distance fields `pillar:capabilities` `score:0.155`
 - [[handmade-hawaiian-islands-map.md]] Handmade Hawaiian Islands Map `pillar:capabilities` `score:0.26`
 - [[hands-on-with-the-amd-ryzen-ai-halo.md]] Hands-On with the AMD Ryzen AI Halo `pillar:capabilities` `score:0.38`
 - [[hark-raises-700m-series-a-for-its-secretive-8220universal8221-ai-interface.md]] Hark raises $700M Series A for its secretive &#8220;universal&#8221; AI interfac `pillar:capabilities` `score:0.515`
@@ -1273,6 +1276,7 @@
 - [[researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai.md]] Researchers Wanted Preschool Teachers to Wear Cameras to Train AI `pillar:capabilities` `score:0.36`
 - [[resistance-training-prescription-for-muscle-function-hypertrophy-in-health.md]] Resistance Training Prescription for Muscle Function, Hypertrophy in Health `pillar:capabilities` `score:0.205`
 - [[response-to-ai-slop-is-from-robin-williams.md]] Response to AI slop is from Robin Williams `pillar:capabilities` `score:0.375`
+- [[responsible-release-of-ai-generated-mathematics.md]] Responsible Release of AI-Generated Mathematics `pillar:capabilities` `score:0.305`
 - [[rethinking-legal-education-in-the-ai-era.md]] Rethinking Legal Education in the AI Era `pillar:capabilities` `score:0.36`
 - [[retrospectively-reverse-engineering-apples-neural-engine.md]] Retrospectively Reverse-Engineering Apple's Neural Engine `pillar:capabilities` `score:0.205`
 - [[reverse-engineered-jev-like-model.md]] Reverse-engineered Jev-like model `pillar:capabilities` `score:0.255`
@@ -1586,6 +1590,7 @@
 - [[supabasesupabase.md]] supabase/supabase `pillar:capabilities` `score:0.58`
 - [[superintelligence-is-coming-should-we-let-it.md]] Superintelligence is coming. Should we let it? `pillar:capabilities` `score:0.305`
 - [[surprise-zai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model.md]] Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model `pillar:capabilities` `score:0.305`
+- [[surprisingly-complex-waves-reveal-the-brains-inner-workings.md]] Surprisingly complex waves reveal the brain's inner workings `pillar:capabilities` `score:0.205`
 - [[suspected-sabotage-causes-major-netherlands-rail-disruption.md]] Suspected sabotage causes major Netherlands rail disruption `pillar:capabilities` `score:0.455`
 - [[swe-17-reach-near-gpt-55-and-opus-intelligence.md]] SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence `pillar:capabilities` `score:0.635`
 - [[synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching.md]] Synthesia’s AI training platform is moving beyond videos into live coaching `pillar:capabilities` `score:0.515`
@@ -3425,6 +3430,7 @@
 - [[unstructured-iounstructured.md]] Unstructured-IO/unstructured `pillar:patterns` `score:0.615`
 - [[usestrixstrix.md]] usestrix/strix `pillar:patterns` `score:0.58`
 - [[vacate-a-drone-restriction-that-criminalized-recording-immigration-agents.md]] Vacate a drone restriction that criminalized recording immigration agents `pillar:patterns` `score:0.205`
+- [[valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation.md]] Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation `pillar:patterns` `score:0.305`
 - [[valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-r.md]] Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into `pillar:patterns` `score:0.305`
 - [[vectifyaipageindex.md]] VectifyAI/PageIndex `pillar:patterns` `score:0.615`
 - [[vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents.md]] Vercel CEO Guillermo Rauch on the fight to split off models from agents `pillar:patterns` `score:0.515`

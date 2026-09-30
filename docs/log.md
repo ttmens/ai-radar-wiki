@@ -4881,3 +4881,11 @@
 - create: show-hn-corral-kill-every-command-your-agent-starts.md
 - create: show-hn-strata-an-expressive-semantic-layer-that-can-say-no-to-your-llm.md
 - create: show-hn-i-built-a-free-burpcaido-alternative-but-zero-setup-api-testing.md
+
+## [2026-10-01 06:01] sync v3 | 6 new | pillars: {'capabilities': 5, 'patterns': 1}
+- create: gemini-4-argon.md
+- create: surprisingly-complex-waves-reveal-the-brains-inner-workings.md
+- create: halfspace-experimental-ide-for-solid-modeling-with-distance-fields.md
+- create: gemini-4-argon-high-intelligence-performance-and-price-analysis.md
+- create: responsible-release-of-ai-generated-mathematics.md
+- create: valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation.md

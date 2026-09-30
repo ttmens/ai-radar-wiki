@@ -1,8 +1,19 @@
 {
   "date": "2026-10-01",
-  "generated_at": "2026-10-01T04:04:38.979255+08:00",
-  "item_count": 26,
+  "generated_at": "2026-10-01T06:01:53.141350+08:00",
+  "item_count": 29,
   "items": [
+    {
+      "id": "gemini-4-argon",
+      "label": "Gemini 4 Argon",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.505,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49913571",
+      "date": "2026-10-01"
+    },
     {
       "id": "you-said-no-mcp",
       "label": "You said no MCP",
@@ -125,6 +136,17 @@
       "date": "2026-10-01"
     },
     {
+      "id": "valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation",
+      "label": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "date": "2026-10-01"
+    },
+    {
       "id": "3-days-left-to-exhibit-turn-visibility-into-your-next-opportunity-at-techcrunch",
       "label": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch",
       "summary": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
@@ -144,6 +166,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+      "date": "2026-10-01"
+    },
+    {
+      "id": "responsible-release-of-ai-generated-mathematics",
+      "label": "Responsible Release of AI-Generated Mathematics",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49903713",
       "date": "2026-10-01"
     },
     {
@@ -291,7 +324,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 9069,
-    "edges": 9820
+    "real_nodes": 9075,
+    "edges": 9826
   }
 }
