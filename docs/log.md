@@ -4848,3 +4848,36 @@
 ## [2026-09-30 06:02] sync v3 | 2 new | pillars: {'patterns': 1, 'capabilities': 1}
 - create: openai8217s-latest-features-take-direct-aim-at-the-app-store-model.md
 - create: show-hn-turbogpt-train-22kib-transformer-in-13s.md
+
+## [2026-10-01 04:04] sync v3 | 33 new | pillars: {'capabilities': 20, 'ecosystem': 6, 'patterns': 7}
+- create: systranfaster-whisper.md
+- create: skill-space-shooting-for-autonomous-robot-policy-improvement.md
+- create: breakdown-of-local-denoising-as-semantic-speciation.md
+- create: stepquant-when-and-where-errors-matter-in-delta-rule-recurrent-state-quantizatio.md
+- create: leapquant-efficient-linear-attention-with-accurate-recurrent-state-quantization.md
+- create: cropland-patterns-parallel-dimensional-attention-networks-and-attention-to-datas.md
+- create: a-spectral-theory-of-distortion-in-llm-graph-reconstruction-sharp-bounds-and-emp.md
+- create: beyond-the-timeline-augmenting-long-video-memory-with-grounded-entity-biographie.md
+- create: thinking-before-thinking-scaling-agentic-inference-through-meta-reasoning.md
+- create: learning-meta-skills-for-agent-harness-design-in-test-time-ai4ai.md
+- create: advisd-learning-to-advise-frontier-llms-via-targeted-multi-turn-self-distillatio.md
+- create: breaking-the-uniformity-trap-scaling-video-diffusion-model-via-splitmoe.md
+- create: multi-agent-flow-matching-with-decoupled-generative-guidance.md
+- create: launch-hn-magnitude-yc-s25-self-optimizing-inference-engine-for-agents.md
+- create: you-said-no-mcp.md
+- create: floppy-emu-hardware-failure-analysis-results.md
+- create: openai8217s-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents.md
+- create: ai-voice-startup-elevenlabs-doubles-valuation-to-22b.md
+- create: reddit-is-killing-rss-feeds-and-ending-public-api-access-because-of-ai-bots.md
+- create: the-ugly-economics-of-consumer-ai.md
+- create: meta-disputes-claim-that-muse-read-a-user8217s-private-messages-without-permissi.md
+- create: doordash-launches-an-ai-agent-you-can-text-to-order-food.md
+- create: destro-ai8217s-secret-sauce-is-getting-robots-and-humans-on-the-same-page.md
+- create: instinct8217s-new-product-recommendations-are-giving-some-users-the-ick.md
+- create: cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-dis.md
+- create: restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agent.md
+- create: 3-days-left-to-exhibit-turn-visibility-into-your-next-opportunity-at-techcrunch.md
+- create: airbnb-adds-ai-search-more-social-features.md
+- create: show-hn-corral-kill-every-command-your-agent-starts.md
+- create: show-hn-strata-an-expressive-semantic-layer-that-can-say-no-to-your-llm.md
+- create: show-hn-i-built-a-free-burpcaido-alternative-but-zero-setup-api-testing.md

@@ -22,7 +22,7 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "今日📱 产品模式方向的核心信号集中在信任/合规, AI Agent。",
+        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent, 信任/合规。",
         "evidence": [
           {
             "id": "dots-always-on-agents",
@@ -110,20 +110,20 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日8条情报涉及AI Agent及相关工具生态。典型项目包括：A Privacy Analysis of Web and Mobile Con, OpenAI apologizes to Australia after its, AI-powered app maker Wabi pivots to a me。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日9条情报涉及AI Agent及相关工具生态。典型项目包括：A Privacy Analysis of Web and Mobile Con, OpenAI apologizes to Australia after its, AI-powered app maker Wabi pivots to a me。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
       {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日2条情报涉及AI商业动态。包括：OpenAI repotedly in talks to raise $30B , PDMD: Projected Distribution Matching Di。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日3条情报涉及AI商业动态。包括：OpenAI repotedly in talks to raise $30B , OpenAI reportedly in talks to raise $30B, PDMD: Projected Distribution Matching Di。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 23 | 📱 产品模式: 13 | 💰 商业趋势: 3 | 🔧 工具生态: 2",
-    "total_items": 41,
-    "high_value_count": 36,
+    "stats": "🤖 技术能力: 26 | 📱 产品模式: 14 | 💰 商业趋势: 4 | 🔧 工具生态: 2",
+    "total_items": 46,
+    "high_value_count": 39,
     "all_today_ids": [
       {
         "id": "gpt-61-sol-near-astra-intelligence-for-a-fifth-of-the-price",
@@ -190,6 +190,14 @@
         "label": "OpenAI gives Codex reusable cloud environments that work across devices"
       },
       {
+        "id": "the-internet-is-convinced-elon-musk8217s-xai-trolled-openai8217s-8216dots8217-la",
+        "label": "The internet is convinced Elon Musk&#8217;s xAI trolled OpenAI&#8217;s &#8216;Do"
+      },
+      {
+        "id": "americagov-gets-really-weird-when-you-ask-it-about-minecraft-but-it8217s-not-a-g",
+        "label": "America.gov gets really weird when you ask it about Minecraft, but it&#8217;s no"
+      },
+      {
         "id": "openai-launches-gpt-61-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
         "label": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less"
       },
@@ -220,6 +228,10 @@
       {
         "id": "meta-is-expanding-its-ai-agent-muse-to-small-businesses",
         "label": "Meta is expanding its AI agent Muse to small businesses"
+      },
+      {
+        "id": "openai-reportedly-in-talks-to-raise-30b-round-at-14t-valuation",
+        "label": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation"
       },
       {
         "id": "fure-efficient-instance-specific-3d-fur-reconstruction-without-animal-fur-datase",
@@ -278,8 +290,16 @@
         "label": "The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging"
       },
       {
+        "id": "language-models-for-text-classification-from-bag-of-words-to-jev",
+        "label": "Language models for text classification: From bag-of-words to Jev"
+      },
+      {
         "id": "show-hn-jevstiller-distill-jev-into-a-local-model-with-a-disagreement-bound",
         "label": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound"
+      },
+      {
+        "id": "show-hn-a-working-3d-model-of-an-enigma-machine",
+        "label": "Show HN: A working 3D model of an Enigma machine"
       },
       {
         "id": "show-hn-turbogpt-train-22kib-transformer-in-13s",
@@ -291,6 +311,6 @@
       }
     ],
     "date_bj": "2026-09-30 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-09-30 06:02:20"
+    "generated_at_bj": "2026-09-30 12:02:37"
   }
 }
