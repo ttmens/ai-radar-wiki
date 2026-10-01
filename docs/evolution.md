@@ -20,6 +20,13 @@
 
 ## 运行日志
 
+## [2026-10-02 04:04] Evolution Run
+- Deprecated: 1 nodes
+- Pillar distribution: {'capabilities': 2814, 'ecosystem': 597, 'business': 441, 'patterns': 778, 'unknown': 4}
+- Top tags: {'capabilities': 2730, 'discussion': 1898, 'hacker-news': 1898, 'research': 1104, 'news': 1099}
+  🗑️ Deprecated: show-hn-a-graph-paper-generator-that-renders-vector-pdfs-in-the-browser.md (91d old, score=0.12)  📊 1 nodes deprecated (90d+ and score < 0.15)
+
+
 ## [2026-10-01 06:01] Evolution Run
 - Deprecated: 0 nodes
 - Pillar distribution: {'capabilities': 2787, 'ecosystem': 593, 'business': 441, 'patterns': 771, 'unknown': 4}

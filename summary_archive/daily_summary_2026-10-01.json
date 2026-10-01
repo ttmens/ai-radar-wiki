@@ -74,7 +74,7 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日7条情报涉及AI Agent及相关工具生态。典型项目包括：Meta disputes claim that Muse read a use, Valor, Atreides, and Sequoia back AI sta, DoorDash launches an AI agent you can te。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日8条情报涉及AI Agent及相关工具生态。典型项目包括：openbq-org/OpenBB, Meta disputes claim that Muse read a use, Valor, Atreides, and Sequoia back AI sta。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
@@ -85,9 +85,9 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 23 | 🔧 工具生态: 6 | 📱 产品模式: 8",
-    "total_items": 37,
-    "high_value_count": 29,
+    "stats": "🤖 技术能力: 27 | 🔧 工具生态: 6 | 📱 产品模式: 9",
+    "total_items": 42,
+    "high_value_count": 31,
     "all_today_ids": [
       {
         "id": "gemini-4-argon",
@@ -98,12 +98,20 @@
         "label": "You said no MCP"
       },
       {
+        "id": "openbq-orgopenbb",
+        "label": "openbq-org/OpenBB"
+      },
+      {
         "id": "systranfaster-whisper",
         "label": "SYSTRAN/faster-whisper"
       },
       {
         "id": "meta-disputes-claim-that-muse-read-a-user8217s-private-messages-without-permissi",
         "label": "Meta disputes claim that Muse read a user&#8217;s private messages without permi"
+      },
+      {
+        "id": "google-releases-gemini-4-argon-called-its-most-powerful-model-yet",
+        "label": "Google releases Gemini 4 Argon, called its most powerful model yet"
       },
       {
         "id": "reddit-is-killing-rss-feeds-and-ending-public-api-access-because-of-ai-bots",
@@ -210,6 +218,10 @@
         "label": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents"
       },
       {
+        "id": "doing-a-machine-learning-phd-while-working-in-japan",
+        "label": "Doing a Machine Learning PhD While Working in Japan"
+      },
+      {
         "id": "floppy-emu-hardware-failure-analysis-results",
         "label": "Floppy Emu Hardware Failure Analysis Results"
       },
@@ -230,8 +242,16 @@
         "label": "Show HN: Corral – Kill every command your agent starts"
       },
       {
+        "id": "functional-ultrasound-imaging-fusi-from-scratch",
+        "label": "Functional Ultrasound Imaging (fUSI) from scratch"
+      },
+      {
         "id": "show-hn-i-built-a-free-burpcaido-alternative-but-zero-setup-api-testing",
         "label": "Show HN: I built a free Burp/Caido alternative but, zero setup - API Testing"
+      },
+      {
+        "id": "show-hn-lathoa-a-math-app-for-kids-where-the-ai-is-wrong-on-purpose",
+        "label": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose"
       },
       {
         "id": "halfspace-experimental-ide-for-solid-modeling-with-distance-fields",
@@ -239,6 +259,6 @@
       }
     ],
     "date_bj": "2026-10-01 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-01 06:01:21"
+    "generated_at_bj": "2026-10-01 12:01:43"
   }
 }

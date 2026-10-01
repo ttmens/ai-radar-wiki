@@ -1,6 +1,7 @@
 ---
 title: Show HN: A graph paper generator that renders vector PDFs in the browser
 created: 2026-07-03
+deprecated: true
 updated: 2026-07-03
 type: entity
 pillar: capabilities
