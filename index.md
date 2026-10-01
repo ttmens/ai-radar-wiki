@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-02 | Total pages: 4697
+> Last updated: 2026-10-02 | Total pages: 4700
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -1373,6 +1373,7 @@
 - [[show-hn-bento-an-entire-powerpoint-in-one-html-file-editviewdatacollab.md]] Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab) `pillar:capabilities` `score:0.295`
 - [[show-hn-boxesdev-ditch-localhost-run-claude-code-and-codex-in-the-cloud.md]] Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud `pillar:capabilities` `score:0.33`
 - [[show-hn-brain-frog-can-you-be-random-enough-for-11-lines-of-javascript.md]] Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript? `pillar:capabilities` `score:0.345`
+- [[show-hn-breadcrumb-record-everything-on-your-mac-context-manager-for-ai.md]] Show HN: Breadcrumb, record everything on your mac + context manager for AI `pillar:capabilities` `score:0.155`
 - [[show-hn-brightdeck-an-ooxml-compatible-ai-presentation-maker.md]] Show HN: Brightdeck – an OOXML-compatible AI presentation maker `pillar:capabilities` `score:0.33`
 - [[show-hn-btfy-a-blockchain-that-uses-weather-observations.md]] Show HN: Btfy – a blockchain that uses weather observations `pillar:capabilities` `score:0.155`
 - [[show-hn-cactus-needle-3-8-29mb-automation-models-can-match-deepseek-v4-flash.md]] Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash `pillar:capabilities` `score:0.355`
@@ -1442,6 +1443,7 @@
 - [[show-hn-inbox-beam-notifications-in-your-inbox-without-sending-email.md]] Show HN: Inbox-beam – notifications in your inbox without sending email `pillar:capabilities` `score:0.295`
 - [[show-hn-iresearch-c-search-that-beat-lucene-and-tantivy-on-their-benchmark.md]] Show HN: IResearch – C++ search that beat Lucene and Tantivy on their benchmark `pillar:capabilities` `score:0.33`
 - [[show-hn-jacquard-a-programming-language-for-ai-written-human-reviewed-code.md]] Show HN: Jacquard, a programming language for AI-written, human-reviewed code `pillar:capabilities` `score:0.33`
+- [[show-hn-janus-go-binary-that-runs-gguf-models-via-vulkan-on-amdintelnvidia.md]] Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia `pillar:capabilities` `score:0.155`
 - [[show-hn-jevbench-a-reproducible-benchmark-for-typed-decision-models.md]] Show HN: JevBench, a reproducible benchmark for typed decision models `pillar:capabilities` `score:0.155`
 - [[show-hn-jevgpt-reinventing-the-wheel-with-another-wheel.md]] Show HN: Jevgpt – reinventing the wheel with another wheel `pillar:capabilities` `score:0.155`
 - [[show-hn-jevstiller-distill-jev-into-a-local-model-with-a-disagreement-bound.md]] Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound `pillar:capabilities` `score:0.205`
@@ -3162,6 +3164,7 @@
 - [[multi-agents-llm-financial-trading-framework.md]] Multi-Agents LLM Financial Trading Framework `pillar:patterns` `score:0.255`
 - [[munder-difflin-agent-harness-to-run-an-office-of-your-clones.md]] Munder Difflin – Agent harness to run an office of your clones `pillar:patterns` `score:0.425`
 - [[muse-metas-personal-ai-agent-features-and-capabilities.md]] Muse: Meta's personal AI agent, features and capabilities `pillar:patterns` `score:0.455`
+- [[musk8217s-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuela8217s.md]] Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela&# `pillar:patterns` `score:0.305`
 - [[my-agent-skill-for-test-driven-development.md]] My Agent Skill for Test-Driven Development `pillar:patterns` `score:0.43`
 - [[my-agentmd-to-improve-llm-assisted-code-quality.md]] My agent.md to improve LLM-assisted code quality `pillar:patterns` `score:0.255`
 - [[mythologizing-ai-makes-it-more-likely-that-well-fail-to-operate-it-well-2023.md]] Mythologizing AI makes it more likely that we’ll fail to operate it well (2023) `pillar:patterns` `score:0.445`

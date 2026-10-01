@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
-  "generated_at": "2026-10-02T04:04:49.529995+08:00",
-  "item_count": 28,
+  "generated_at": "2026-10-02T06:01:51.831620+08:00",
+  "item_count": 29,
   "items": [
     {
       "id": "opendlss-a-vulkan-reimplementation-of-nvidias-dlss-5-neural-rendering-network",
@@ -111,6 +111,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "date": "2026-10-02"
+    },
+    {
+      "id": "musk8217s-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuela8217s",
+      "label": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela&#",
+      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
       "date": "2026-10-02"
     },
     {
@@ -313,7 +324,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 9113,
-    "edges": 9884
+    "real_nodes": 9116,
+    "edges": 9887
   }
 }

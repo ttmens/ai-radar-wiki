@@ -4924,3 +4924,8 @@
 - create: photon-held-a-funeral-for-mobile-apps-now-it-has-45m-to-help-replace-them-with-a.md
 - create: hearing-tech-startup-legato-launches-its-ai-hearing-glasses.md
 - create: satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai.md
+
+## [2026-10-02 06:01] sync v3 | 3 new | pillars: {'patterns': 1, 'capabilities': 2}
+- create: musk8217s-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuela8217s.md
+- create: show-hn-janus-go-binary-that-runs-gguf-models-via-vulkan-on-amdintelnvidia.md
+- create: show-hn-breadcrumb-record-everything-on-your-mac-context-manager-for-ai.md
