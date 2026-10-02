@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-02 | Total pages: 4700
+> Last updated: 2026-10-02 | Total pages: 4701
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -1844,6 +1844,7 @@
 - [[vllm-v0280.md]] vLLM v0.28.0 `pillar:capabilities` `score:0.205`
 - [[vocci8217s-ring-adds-a-new-form-factor-to-meeting-note-taking.md]] Vocci&#8217;s ring adds a new form factor to meeting note-taking `pillar:capabilities` `score:0.305`
 - [[voice-ai-systems-are-vulnerable-to-hidden-audio-attacks.md]] Voice AI Systems Are Vulnerable to Hidden Audio Attacks `pillar:capabilities` `score:0.395`
+- [[vote-on-which-of-hacker-news-challenges-for-ai-have-been-met.md]] Vote on which of Hacker News' challenges for AI have been met `pillar:capabilities` `score:0.375`
 - [[voxel51fiftyone.md]] voxel51/fiftyone `pillar:capabilities` `score:0.58`
 - [[vulkan-is-now-available-on-netbsd.md]] Vulkan is now available on NetBSD `pillar:capabilities` `score:0.205`
 - [[walk-on-decomposed-subdomains.md]] Walk on Decomposed Subdomains `pillar:capabilities` `score:0.26`

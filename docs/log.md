@@ -4929,3 +4929,6 @@
 - create: musk8217s-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuela8217s.md
 - create: show-hn-janus-go-binary-that-runs-gguf-models-via-vulkan-on-amdintelnvidia.md
 - create: show-hn-breadcrumb-record-everything-on-your-mac-context-manager-for-ai.md
+
+## [2026-10-02 12:01] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: vote-on-which-of-hacker-news-challenges-for-ai-have-been-met.md
