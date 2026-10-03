@@ -4936,3 +4936,37 @@
 ## [2026-10-02 18:01] sync v3 | 2 new | pillars: {'patterns': 1, 'capabilities': 1}
 - create: aweb-communication-for-ai-agents.md
 - create: show-hn-giving-opus-55-a-simulated-paint-canvas.md
+
+## [2026-10-03 08:04] sync v3 | 39 new | pillars: {'capabilities': 34, 'ecosystem': 2, 'business': 2, 'patterns': 1}
+- create: one-basis-to-animate-them-all-gaussian-blendshape-distillation-for-real-time-ava.md
+- create: kalibench-a-fine-grained-benchmark-for-cybersecurity-tool-use-on-kali-linux-with.md
+- create: reconstruct-practice-go-real-guided-self-improvement-for-embodied-agents.md
+- create: embedding-prediction-helps-image-generation.md
+- create: scholarcatalyst-a-benchmark-for-retrieving-papers-that-inspire-new-research.md
+- create: silsa-sliding-window-slice-latents-for-topology-preserving-high-resolution-3d-ge.md
+- create: vista-a-visual-harness-for-reasoning-in-an-interactive-world.md
+- create: taco-ternary-absolute-max-column-wise-one-sparse-optimizer-for-llm-fine-tuning.md
+- create: ferpo-forward-entropy-regularized-policy-optimization.md
+- create: cost-augmented-schrödinger-bridges-on-graphs-are-exactly-solvable-a-feynman-kac.md
+- create: hierarchical-continuous-diffusion-language-models.md
+- create: the-missing-primitive-diagnosing-and-repairing-mathematical-reasoning-in-large-l.md
+- create: with-most-information-hidden-the-game-stratego-had-stumped-ai-until-now.md
+- create: mike-tomlin-spent-12-years-building-a-minecraft-city.md
+- create: loss-of-cell-identity-drives-human-aging-two-new-papers.md
+- create: from-the-creator-of-redis-run-llm-locally-with-ds4.md
+- create: greg-kroah-hartman-security-in-the-llm-age-video.md
+- create: every-saas-business-will-become-a-harness-around-a-model.md
+- create: show-hn-made-an-open-source-lego-ai-generator.md
+- create: sites-in-chatgpt.md
+- create: venices-failed-war-against-constantinople-led-to-the-first-bond-market.md
+- create: crypto-capture-of-foreign-aid.md
+- create: product-hunt-暂不可用.md
+- create: sean-parker-is-rebuilding-stability-ai-around-music.md
+- create: apple-says-it8217s-tightening-macos-8216full-disk-access8217-controls-due-to-new.md
+- create: call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it.md
+- create: it8217s-not-ai-anymore-it8217s-super-intelligence-according-to-the-white-house.md
+- create: techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-o.md
+- create: circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you.md
+- create: pope-leo-xiv-is-not-a-fan-of-ai-generated-art.md
+- create: techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer.md
+- create: last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders.md
