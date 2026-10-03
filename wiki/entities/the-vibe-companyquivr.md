@@ -38,3 +38,8 @@ Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product ra
 - ⭐ Stars: 39453
 - 🎯 PM Score: 0.405
 - 🏷️ Pillar: patterns
+
+## 更新 2026-10-04
+- ⭐ Stars: 39579
+- 🎯 PM Score: 0.405
+- 🏷️ Pillar: patterns

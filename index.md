@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-03 | Total pages: 4735
+> Last updated: 2026-10-04 | Total pages: 4742
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -901,6 +901,8 @@
 - [[kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy.md]] Kiwibit’s AI-powered bird feeder is my new backyard buddy `pillar:capabilities` `score:0.445`
 - [[klondike-solitaire-game-for-curses-in-5k-of-c.md]] Klondike Solitaire game for curses in 5k of C `pillar:capabilities` `score:0.19`
 - [[knowledge-distillation-of-black-box-large-language-models-2024.md]] Knowledge Distillation of Black-Box Large Language Models (2024) `pillar:capabilities` `score:0.38`
+- [[kolibri-has-landed-a-sovereign-open-weight-model.md]] Kolibri Has Landed: A Sovereign Open-Weight Model `pillar:capabilities` `score:0.305`
+- [[kolibri-is-an-open-weight-llm-from-aleph-alpha-for-german-and-english.md]] Kolibri is an open-weight LLM from Aleph Alpha for German and English `pillar:capabilities` `score:0.425`
 - [[korniakornia.md]] kornia/kornia `pillar:capabilities` `score:0.58`
 - [[kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations.md]] KPMG pulls report on AI usage due to apparent hallucinations `pillar:capabilities` `score:0.48`
 - [[krea-2-sota-open-weights-12b-image-model.md]] Krea 2: SOTA open-weights 12B image model `pillar:capabilities` `score:0.495`
@@ -1008,6 +1010,7 @@
 - [[meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming.md]] Meta says AI is making it easier to build new apps — and more are coming `pillar:capabilities` `score:0.515`
 - [[meta-signs-first-ai-data-center-deal-in-india-with-reliance.md]] Meta signs first AI data center deal in India with Reliance `pillar:capabilities` `score:0.445`
 - [[meta-takes-down-a-critical-video-about-meta-ai-glasses-after-filming-at-meta.md]] Meta takes down a critical video about meta AI Glasses after filming at Meta `pillar:capabilities` `score:0.425`
+- [[meta-wants-your-next-gadget-to-be-muse-infused.md]] Meta wants your next gadget to be Muse-infused `pillar:capabilities` `score:0.305`
 - [[meta8217s-ai-agent-has-been-blocked-from-using-amazoncom.md]] Meta&#8217;s AI agent has been blocked from using Amazon.com `pillar:capabilities` `score:0.305`
 - [[meta8217s-muse-charm-looks-like-a-tamagotchi-but-it8217s-tapping-into-a-much-new.md]] Meta&#8217;s Muse Charm looks like a Tamagotchi, but it&#8217;s tapping into a m `pillar:capabilities` `score:0.305`
 - [[meta8217s-muse-hits-mac-letting-the-ai-take-actions-on-your-computer.md]] Meta&#8217;s Muse hits Mac, letting the AI take actions on your computer `pillar:capabilities` `score:0.305`
@@ -2907,6 +2910,7 @@
 - [[air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use.md]] AIR raises $50M to help companies vet the skills and add-ons AI agents use `pillar:patterns` `score:0.305`
 - [[alibabaspring-ai-alibaba.md]] alibaba/spring-ai-alibaba `pillar:patterns` `score:0.53`
 - [[all-my-clients-wanted-a-carousel-now-its-an-ai-c.md]] All my clients wanted a carousel, now it's an AI chatbot `pillar:patterns` `score:0.255`
+- [[all-the-ai-agents-that-can-live-in-your-text-messages.md]] All the AI agents that can live in your text messages `pillar:patterns` `score:0.305`
 - [[amazon-is-testing-alexa-in-india-with-hindi-support.md]] Amazon is testing Alexa+ in India with Hindi support `pillar:patterns` `score:0.445`
 - [[amazon-launches-alexa-in-india-with-hindi-support.md]] Amazon launches Alexa+ in India with Hindi support `pillar:patterns` `score:0.305`
 - [[amazon-launches-an-ai-shopping-assistant-for-the-s.md]] Amazon launches an AI shopping assistant for the search bar, powered by Alexa+ `pillar:patterns` `score:0.305`
@@ -3385,6 +3389,7 @@
 - [[show-hn-nanocorp-create-autonomous-companies-ru.md]] Show HN: NanoCorp – Create autonomous companies run by AI `pillar:patterns` `score:0.155`
 - [[show-hn-nightcrawler-a-local-ai-pentesting-agent-running-on-a-smartphone.md]] Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone `pillar:patterns` `score:0.43`
 - [[show-hn-noisegate-a-differential-privacy-gateway-for-untrusted-ai-agents.md]] Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents `pillar:patterns` `score:0.33`
+- [[show-hn-offrun-manage-every-coding-agent-from-one-workspace.md]] Show HN: Offrun – manage every coding agent from one workspace `pillar:patterns` `score:0.155`
 - [[show-hn-on-chain-bond-market-where-the-issuers-are-ai-agents.md]] Show HN: On-chain bond market where the issuers are AI agents `pillar:patterns` `score:0.33`
 - [[show-hn-onecli-oss-credential-gateway-that-keeps-secrets-out-of-ai-agents.md]] Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents `pillar:patterns` `score:0.43`
 - [[show-hn-open-envelope-an-open-schema-for-defining-ai-agent-teams.md]] Show HN: Open Envelope – an open schema for defining AI agent teams `pillar:patterns` `score:0.33`
@@ -3403,6 +3408,7 @@
 - [[show-hn-pizza-bot-an-inbox-for-ai-agents-that-work-in-the-background.md]] Show HN: Pizza Bot – An inbox for AI agents that work in the background `pillar:patterns` `score:0.155`
 - [[show-hn-pmb-local-memory-for-coding-agents-that-shows-if-it-is-used.md]] Show HN: PMB – local memory for coding agents that shows if it is used `pillar:patterns` `score:0.295`
 - [[show-hn-pod-a-review-site-for-dev-tools-where-the-reviewers-are-ai-agents.md]] Show HN: Pod – A review site for dev tools where the reviewers are AI agents `pillar:patterns` `score:0.155`
+- [[show-hn-premortem-ai-agents-that-red-team-your-startup-idea.md]] Show HN: Premortem – AI agents that red-team your startup idea `pillar:patterns` `score:0.155`
 - [[show-hn-proliferate-open-source-self-hostable-codex-for-any-coding-agent.md]] Show HN: Proliferate- open-source, self-hostable Codex for any coding agent `pillar:patterns` `score:0.155`
 - [[show-hn-proval-self-hosted-code-review-agent-for-gitlab-forgejo-and-github.md]] Show HN: Proval – Self-hosted code review agent for GitLab, Forgejo, and GitHub `pillar:patterns` `score:0.155`
 - [[show-hn-pylon-sync-an-agent-first-full-stack-realtime-framework.md]] Show HN: Pylon Sync, an agent-first full-stack realtime framework `pillar:patterns` `score:0.295`
@@ -4566,6 +4572,7 @@
 - [[show-hn-gigacatalyst-extend-your-saas-with-an-e.md]] Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder `pillar:business` `score:0.155`
 - [[show-hn-i-trained-a-chess-engine-to-play-like-hum.md]] Show HN: I trained a chess engine to play like humans `pillar:business` `score:0.155`
 - [[show-hn-needle-we-distilled-gemini-tool-calling.md]] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model `pillar:business` `score:0.355`
+- [[show-hn-rank-every-hn-who-is-hiring-post-against-your-resume-locally.md]] Show HN: Rank every HN "Who is hiring?" post against your resume, locally `pillar:business` `score:0.155`
 - [[sixty-percent-of-us-consumers-say-ai-in-brand-messaging-is-a-turnoff.md]] Sixty percent of US consumers say 'AI' in brand messaging is a turnoff `pillar:business` `score:0.68`
 - [[sk-hynix-raises-265b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build.md]] SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to bui `pillar:business` `score:0.515`
 - [[snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs.md]] Snap spins off AI video team into new company, Dotmo, due to costs `pillar:business` `score:0.445`

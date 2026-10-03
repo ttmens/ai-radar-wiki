@@ -4970,3 +4970,13 @@
 - create: pope-leo-xiv-is-not-a-fan-of-ai-generated-art.md
 - create: techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer.md
 - create: last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders.md
+
+## [2026-10-04 00:05] sync v3 | 83 new | pillars: {'patterns': 40, 'ecosystem': 13, 'capabilities': 29, 'business': 1}
+- update: the-vibe-companyquivr.md
+- create: kolibri-is-an-open-weight-llm-from-aleph-alpha-for-german-and-english.md
+- create: kolibri-has-landed-a-sovereign-open-weight-model.md
+- create: show-hn-offrun-manage-every-coding-agent-from-one-workspace.md
+- create: all-the-ai-agents-that-can-live-in-your-text-messages.md
+- create: meta-wants-your-next-gadget-to-be-muse-infused.md
+- create: show-hn-rank-every-hn-who-is-hiring-post-against-your-resume-locally.md
+- create: show-hn-premortem-ai-agents-that-red-team-your-startup-idea.md

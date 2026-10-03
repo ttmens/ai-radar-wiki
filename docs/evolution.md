@@ -20,6 +20,13 @@
 
 ## 运行日志
 
+## [2026-10-04 00:05] Evolution Run
+- Deprecated: 1 nodes
+- Pillar distribution: {'capabilities': 2851, 'ecosystem': 598, 'business': 442, 'patterns': 784, 'unknown': 4}
+- Top tags: {'capabilities': 2767, 'discussion': 1913, 'hacker-news': 1913, 'research': 1116, 'news': 1111}
+  🗑️ Deprecated: record-breaking-solo-rower-kelsey-pfendler-arrives-in-hawaii.md (91d old, score=0.085)  📊 1 nodes deprecated (90d+ and score < 0.15)
+
+
 ## [2026-10-03 08:04] Evolution Run
 - Deprecated: 0 nodes
 - Pillar distribution: {'capabilities': 2848, 'ecosystem': 598, 'business': 441, 'patterns': 781, 'unknown': 4}

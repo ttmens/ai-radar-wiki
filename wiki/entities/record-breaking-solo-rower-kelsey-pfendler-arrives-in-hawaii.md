@@ -1,6 +1,7 @@
 ---
 title: Record-breaking solo rower Kelsey Pfendler arrives in Hawaii
 created: 2026-07-05
+deprecated: true
 updated: 2026-07-05
 type: entity
 pillar: capabilities
