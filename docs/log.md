@@ -4990,3 +4990,8 @@
 - create: in-ukraine-distributed-renewables-foil-russias-assaults.md
 - create: i-quit-openai-because-its-culture-is-broken.md
 - create: three-ai-agents-two-countries-and-one-uneven-world-wide-web.md
+
+## [2026-10-05 00:02] sync v3 | 3 new | pillars: {'capabilities': 3}
+- create: show-hn-ai-search-for-every-photo-and-every-frame-of-video-on-macos.md
+- create: magic-switch-share-apple-magic-keyboardtrack-padmouse-between-two-macs.md
+- create: trump-unveils-his-new-super-intelligence-force.md

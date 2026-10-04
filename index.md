@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-04 | Total pages: 4757
+> Last updated: 2026-10-05 | Total pages: 4760
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -980,6 +980,7 @@
 - [[macbook-neo-deep-dive-benchmarks-wafer-economics.md]] MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble `pillar:capabilities` `score:0.53`
 - [[macos-container-machines.md]] macOS Container Machines `pillar:capabilities` `score:0.53`
 - [[magic-eye-tube.md]] Magic eye tube `pillar:capabilities` `score:0.255`
+- [[magic-switch-share-apple-magic-keyboardtrack-padmouse-between-two-macs.md]] Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs `pillar:capabilities` `score:0.155`
 - [[magical-realism-northern-exposure-25-years-later-2015.md]] Magical Realism: “Northern Exposure” 25 Years Later (2015) `pillar:capabilities` `score:0.085`
 - [[mai-code-1-flash.md]] MAI-Code-1-Flash `pillar:capabilities` `score:0.565`
 - [[mai-cyber-1-flash-inside-mdash.md]] MAI-Cyber-1-Flash inside MDASH `pillar:capabilities` `score:0.55`
@@ -1390,6 +1391,7 @@
 - [[show-hn-a-techno-machine-in-one-html-file-with-verifiable-renders.md]] Show HN: A techno machine in one HTML file, with verifiable renders `pillar:capabilities` `score:0.305`
 - [[show-hn-a-working-3d-model-of-an-enigma-machine.md]] Show HN: A working 3D model of an Enigma machine `pillar:capabilities` `score:0.155`
 - [[show-hn-ai-pair-programmer-for-emacs.md]] Show HN: AI Pair Programmer for Emacs `pillar:capabilities` `score:0.295`
+- [[show-hn-ai-search-for-every-photo-and-every-frame-of-video-on-macos.md]] Show HN: AI search for every photo and every frame of video on macOS `pillar:capabilities` `score:0.255`
 - [[show-hn-air-gapped-file-encryption-as-self-decrypting-html-page.md]] Show HN: Air-gapped file encryption as self-decrypting HTML page `pillar:capabilities` `score:0.155`
 - [[show-hn-aislop-a-cli-for-catching-ai-generated-code-smells.md]] Show HN: AISlop, a CLI for catching AI generated code smells `pillar:capabilities` `score:0.48`
 - [[show-hn-appaca-ai-workspace-for-operators.md]] Show HN: Appaca – AI Workspace for Operators `pillar:capabilities` `score:0.295`
@@ -1809,6 +1811,7 @@
 - [[trees-to-flows-and-back-unifying-decision-trees-and-diffusion-models.md]] Trees to Flows and Back: Unifying Decision Trees and Diffusion Models `pillar:capabilities` `score:0.33`
 - [[trex-an-ai-code-reviewer-that-runs-your-code.md]] TREX: An AI code reviewer that runs your code `pillar:capabilities` `score:0.365`
 - [[trump-says-it8217s-time-to-rebrand-ai-with-a-new-name-and-he8217s-also-creating.md]] Trump says it&#8217;s time to rebrand AI with a new name — and he&#8217;s also c `pillar:capabilities` `score:0.305`
+- [[trump-unveils-his-new-super-intelligence-force.md]] Trump unveils his new Super Intelligence Force `pillar:capabilities` `score:0.305`
 - [[trusting-trust-attack-against-an-entire-linux-distribution.md]] Trusting-Trust Attack against an Entire Linux Distribution `pillar:capabilities` `score:0.205`
 - [[truth-is-not-a-direction-a-tarski-attack-on-llm-probes.md]] Truth is not a direction: a Tarski attack on LLM probes `pillar:capabilities` `score:0.295`
 - [[trying-to-make-a-loop-auto-vectorize.md]] Trying to Make a Loop Auto-Vectorize `pillar:capabilities` `score:0.205`
