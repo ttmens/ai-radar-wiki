@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-05 | Total pages: 4760
+> Last updated: 2026-10-05 | Total pages: 4767
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -329,6 +329,7 @@
 - [[can-llms-beat-classical-hyperparameter-optimization-algorithms.md]] Can LLMs Beat Classical Hyperparameter Optimization Algorithms? `pillar:capabilities` `score:0.38`
 - [[can-llms-perform-deep-technical-comprehension-of-computer-architecture-papers.md]] Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers `pillar:capabilities` `score:0.38`
 - [[can-muse-overcome-metas-trust-issues.md]] Can Muse overcome Meta’s trust issues? `pillar:capabilities` `score:0.305`
+- [[can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem.md]] Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem? `pillar:capabilities` `score:0.305`
 - [[can-we-understand-how-large-language-models-reason.md]] Can we understand how large language models reason? `pillar:capabilities` `score:0.445`
 - [[can-you-tell-which-images-are-ai-generated.md]] Can you tell which images are AI-generated? `pillar:capabilities` `score:0.305`
 - [[canada-plans-nuclear-renaissance-with-up-to-10-reactors-built-by-2040.md]] Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040 `pillar:capabilities` `score:0.525`
@@ -733,6 +734,7 @@
 - [[heretic-removes-restrictions-from-language-models.md]] Heretic removes restrictions from language models `pillar:capabilities` `score:0.205`
 - [[hetzner-is-working-on-llm-inference.md]] Hetzner is working on LLM Inference `pillar:capabilities` `score:0.53`
 - [[hiyougallamafactory.md]] hiyouga/LlamaFactory `pillar:capabilities` `score:0.615`
+- [[homa-the-end-of-tcp-for-ai-clusters-video.md]] Homa: The end of TCP for AI clusters [video] `pillar:capabilities` `score:0.155`
 - [[homomorphically-encrypted-cifar-10-inference-in-200ms.md]] Homomorphically encrypted CIFAR-10 inference in 200ms `pillar:capabilities` `score:0.38`
 - [[hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-a.md]] Hot French startup ZML releases free product to speed inference across lots of A `pillar:capabilities` `score:0.515`
 - [[houthis-used-claude-code-to-develop-missile-guidance-software-anthropic.md]] Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic `pillar:capabilities` `score:0.205`
@@ -763,6 +765,7 @@
 - [[how-to-build-a-diffusion-language-model.md]] How to build a diffusion language model `pillar:capabilities` `score:0.255`
 - [[how-to-get-a-free-arpa-domain.md]] How to get a free .arpa domain `pillar:capabilities` `score:0.255`
 - [[how-to-keep-enjoying-programming-in-a-world-of-llms.md]] How to keep enjoying programming in a world of LLMs `pillar:capabilities` `score:0.325`
+- [[how-to-scale-intent-quality-and-artistry-with-ai-video.md]] How to scale intent, quality, and artistry with AI [video] `pillar:capabilities` `score:0.155`
 - [[how-to-set-up-spf-dkim-and-dmarc-for-your-sending-domain.md]] How to set up SPF, DKIM, and DMARC for your sending domain `pillar:capabilities` `score:0.155`
 - [[how-to-stop-claude-from-saying-load-bearing.md]] How to stop Claude from saying load-bearing `pillar:capabilities` `score:0.465`
 - [[how-to-train-a-gen-ai-kick-drum-model-on-your-old-linux-desktop-with-6gb-vram.md]] How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM `pillar:capabilities` `score:0.445`
@@ -1417,6 +1420,7 @@
 - [[show-hn-crespo-tree-sitter-ast-blueprints-instead-of-raw-code-for-llms.md]] Show HN: Crespo – Tree-sitter AST blueprints instead of raw code for LLMs `pillar:capabilities` `score:0.365`
 - [[show-hn-ctrlb-decompose-strip-the-noise-from-logs-before-sending-to-llms.md]] Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs `pillar:capabilities` `score:0.33`
 - [[show-hn-cua-s1-a-system-one-model-for-computer-use.md]] Show HN: CUA-S1 – A System One Model for Computer Use `pillar:capabilities` `score:0.155`
+- [[show-hn-dataviz-ranked-daily-from-github-npm-pypi-and-cran.md]] Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN `pillar:capabilities` `score:0.155`
 - [[show-hn-davit-a-apple-containers-ui.md]] Show HN: Davit, a Apple Containers UI `pillar:capabilities` `score:0.325`
 - [[show-hn-declarative-forms-await-an-object-the-way-prompt-awaits-a-string.md]] Show HN: Declarative-forms – await an object the way prompt() awaits a string `pillar:capabilities` `score:0.155`
 - [[show-hn-demon-open-source-real-time-music-diffusion-engine-25hz-local-gpu.md]] Show HN: Demon – open-source real-time music diffusion engine, 25Hz local GPU `pillar:capabilities` `score:0.365`
@@ -1909,6 +1913,7 @@
 - [[what8217s-behind-the-ai-industrys-latest-warnings-of-doom.md]] What&#8217;s behind the AI industry’s latest warnings of doom? `pillar:capabilities` `score:0.305`
 - [[whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations.md]] Whatnot acquires Shaped to power real-time live shopping recommendations `pillar:capabilities` `score:0.48`
 - [[whats-slowing-down-the-ai-buildout.md]] What's slowing down the AI buildout `pillar:capabilities` `score:0.5`
+- [[whats-the-future-for-pure-math-research-in-the-age-of-ai.md]] What's the future for pure math research in the age of AI? `pillar:capabilities` `score:0.255`
 - [[whats-the-largest-software-project-ai-can-complete-on-its-own.md]] What's the largest software project AI can complete on its own? `pillar:capabilities` `score:0.48`
 - [[when-ai-builds-itself-our-progress-toward-recursive-self-improvement.md]] When AI Builds Itself: Our progress toward recursive self-improvement `pillar:capabilities` `score:0.63`
 - [[when-ai-crosses-the-line-the-matplotlib-incident.md]] When AI Crosses the Line: The Matplotlib Incident `pillar:capabilities` `score:0.55`
@@ -2978,6 +2983,7 @@
 - [[browser-usebrowser-use.md]] browser-use/browser-use `pillar:patterns` `score:0.615`
 - [[brume-is-a-24-voice-multi-timbral-desktop-synth-for-the-cm5.md]] Brume is a 24-voice multi-timbral desktop synth for the CM5 `pillar:patterns` `score:0.155`
 - [[build-a-basic-ai-agent-from-scratch-long-task-planning.md]] Build a Basic AI Agent from Scratch: Long Task Planning `pillar:patterns` `score:0.445`
+- [[building-a-rag-pipeline-for-semantic-code-search.md]] Building a RAG pipeline for semantic code search `pillar:patterns` `score:0.155`
 - [[building-an-html-first-site-doubled-our-users-overnight.md]] Building an HTML-first site doubled our users overnight `pillar:patterns` `score:0.525`
 - [[bytedancedeer-flow.md]] bytedance/deer-flow `pillar:patterns` `score:0.405`
 - [[c-programmers-commit-fresh-crimes-against-readability.md]] C programmers commit fresh crimes against readability `pillar:patterns` `score:0.345`
@@ -3808,6 +3814,7 @@
 - [[godot-will-no-longer-accept-ai-authored-code-contributions.md]] Godot will no longer accept AI-authored code contributions `pillar:ecosystem` `score:0.495`
 - [[google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal.md]] Google Cloud races to catch up in the AI deployment wars with Accenture deal `pillar:ecosystem` `score:0.305`
 - [[google-deepmindsonnet.md]] google-deepmind/sonnet `pillar:ecosystem` `score:0.495`
+- [[google-froze-its-open-source-bug-bounty-program-due-to-a-8216significant-rise821.md]] Google froze its open source bug bounty program due to a &#8216;significant rise `pillar:ecosystem` `score:0.305`
 - [[google-geminigemini-cli.md]] google-gemini/gemini-cli `pillar:ecosystem` `score:0.58`
 - [[google-goes-for-the-glitter-with-disco-ball-icons-8216are-y8217all-sure-you-stil.md]] Google goes for the glitter with disco-ball icons: &#8216;Are y&#8217;all sure y `pillar:ecosystem` `score:0.235`
 - [[google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it.md]] Google is pitching an AI agent ecosystem to consumers who may not buy it `pillar:ecosystem` `score:0.48`

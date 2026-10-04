@@ -4995,3 +4995,12 @@
 - create: show-hn-ai-search-for-every-photo-and-every-frame-of-video-on-macos.md
 - create: magic-switch-share-apple-magic-keyboardtrack-padmouse-between-two-macs.md
 - create: trump-unveils-his-new-super-intelligence-force.md
+
+## [2026-10-05 06:02] sync v3 | 7 new | pillars: {'capabilities': 5, 'patterns': 1, 'ecosystem': 1}
+- create: homa-the-end-of-tcp-for-ai-clusters-video.md
+- create: how-to-scale-intent-quality-and-artistry-with-ai-video.md
+- create: building-a-rag-pipeline-for-semantic-code-search.md
+- create: whats-the-future-for-pure-math-research-in-the-age-of-ai.md
+- create: google-froze-its-open-source-bug-bounty-program-due-to-a-8216significant-rise821.md
+- create: can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem.md
+- create: show-hn-dataviz-ranked-daily-from-github-npm-pypi-and-cran.md

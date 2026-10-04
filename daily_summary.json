@@ -2,7 +2,7 @@
   "daily_summary": {
     "date": "2026-10-05",
     "headline": "今日 AI 情报 · 2026-10-05",
-    "overview": "今日共采集 3 条情报",
+    "overview": "今日共采集 10 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -18,27 +18,85 @@
           }
         ],
         "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日📱 产品模式方向有新的动态。",
+        "evidence": [
+          {
+            "id": "building-a-rag-pipeline-for-semantic-code-search",
+            "title": "Building a RAG pipeline for semantic code search",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=49956148",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向有新的动态。",
+        "evidence": [
+          {
+            "id": "google-froze-its-open-source-bug-bounty-program-due-to-a-8216significant-rise821",
+            "title": "Google froze its open source bug bounty program due to a &#8216;signif",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
       }
     ],
     "narratives": [],
-    "stats": "🤖 技术能力: 3",
-    "total_items": 3,
-    "high_value_count": 1,
+    "stats": "🤖 技术能力: 8 | 🔧 工具生态: 1 | 📱 产品模式: 1",
+    "total_items": 10,
+    "high_value_count": 3,
     "all_today_ids": [
       {
         "id": "trump-unveils-his-new-super-intelligence-force",
         "label": "Trump unveils his new Super Intelligence Force"
       },
       {
+        "id": "can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem",
+        "label": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?"
+      },
+      {
+        "id": "google-froze-its-open-source-bug-bounty-program-due-to-a-8216significant-rise821",
+        "label": "Google froze its open source bug bounty program due to a &#8216;significant rise"
+      },
+      {
         "id": "show-hn-ai-search-for-every-photo-and-every-frame-of-video-on-macos",
         "label": "Show HN: AI search for every photo and every frame of video on macOS"
       },
       {
+        "id": "whats-the-future-for-pure-math-research-in-the-age-of-ai",
+        "label": "What's the future for pure math research in the age of AI?"
+      },
+      {
+        "id": "building-a-rag-pipeline-for-semantic-code-search",
+        "label": "Building a RAG pipeline for semantic code search"
+      },
+      {
+        "id": "show-hn-dataviz-ranked-daily-from-github-npm-pypi-and-cran",
+        "label": "Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN"
+      },
+      {
+        "id": "homa-the-end-of-tcp-for-ai-clusters-video",
+        "label": "Homa: The end of TCP for AI clusters [video]"
+      },
+      {
         "id": "magic-switch-share-apple-magic-keyboardtrack-padmouse-between-two-macs",
         "label": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs"
+      },
+      {
+        "id": "how-to-scale-intent-quality-and-artistry-with-ai-video",
+        "label": "How to scale intent, quality, and artistry with AI [video]"
       }
     ],
     "date_bj": "2026-10-05 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-05 00:01:34"
+    "generated_at_bj": "2026-10-05 06:01:30"
   }
 }
