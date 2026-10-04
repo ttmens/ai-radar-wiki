@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-04 | Total pages: 4742
+> Last updated: 2026-10-04 | Total pages: 4757
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -166,6 +166,7 @@
 - [[amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop.md]] Amazon Alexa can now alert you when something new might tempt you to shop `pillar:capabilities` `score:0.305`
 - [[amazon-now-lets-you-design-custom-merch-using-ai.md]] Amazon now lets you design custom merch using AI `pillar:capabilities` `score:0.48`
 - [[amazon-pilots-ad-services-in-chatgpt.md]] Amazon pilots ad services in ChatGPT `pillar:capabilities` `score:0.305`
+- [[amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas.md]] Amazon responds to data center backlash, says it no longer uses NDAs `pillar:capabilities` `score:0.305`
 - [[amazon-will-show-ai-product-images-when-you-search-for-some-reason.md]] Amazon will show AI product images when you search for some reason `pillar:capabilities` `score:0.515`
 - [[amazon-will-stop-accepting-new-customers-for-mechanical-turk.md]] Amazon will stop accepting new customers for Mechanical Turk `pillar:capabilities` `score:0.48`
 - [[amd-ryzen-ai-halo-4k-ai-dev-kit.md]] AMD Ryzen AI Halo – $4k AI Dev Kit `pillar:capabilities` `score:0.345`
@@ -620,6 +621,7 @@
 - [[german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks.md]] German AI consortium releases Soofi S, an open 30B model that tops benchmarks `pillar:capabilities` `score:0.515`
 - [[german-rail-service-suspended-due-to-radio-interference.md]] German Rail Service Suspended Due to Radio Interference `pillar:capabilities` `score:0.31`
 - [[getting-50-gbs-back-from-the-apple-neural-engine.md]] Getting 50 GB/S Back from the Apple Neural Engine `pillar:capabilities` `score:0.255`
+- [[getting-the-most-out-of-opus-55-in-claude-and-claude-code.md]] Getting the most out of Opus 5.5 in Claude and Claude Code `pillar:capabilities` `score:0.255`
 - [[ghost-font-a-font-that-humans-can-read-but-ai-cannot.md]] Ghost Font: A font that humans can read but AI cannot `pillar:capabilities` `score:0.445`
 - [[gigatoken-1000x-faster-language-model-tokenization.md]] GigaToken: ~1000x faster Language model tokenization `pillar:capabilities` `score:0.615`
 - [[girls-just-wanna-have-fast-mpmc-queues-with-bounded-waiting.md]] Girls just wanna have fast MPMC queues with bounded waiting `pillar:capabilities` `score:0.31`
@@ -800,6 +802,7 @@
 - [[i-indexed-669-gb-of-my-gopro-videos-using-my-m1-max-computer-and-local-ml-models.md]] I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models `pillar:capabilities` `score:0.495`
 - [[i-learned-to-read-again.md]] I Learned to Read Again `pillar:capabilities` `score:0.345`
 - [[i-love-llms-i-hate-hype.md]] I love LLMs, I hate hype `pillar:capabilities` `score:0.635`
+- [[i-quit-openai-because-its-culture-is-broken.md]] I quit OpenAI because its culture is broken `pillar:capabilities` `score:0.455`
 - [[i-said-no-and-apple-said-yes.md]] I said no and Apple said yes `pillar:capabilities` `score:0.505`
 - [[i-spent-266-and-four-ai-models-to-own-my-tablet-glm-53-finished-it-in-a-day.md]] I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day `pillar:capabilities` `score:0.505`
 - [[i-tested-10-modelharness-combinations-on-the-same-threejs-task.md]] I tested 10 model/harness combinations on the same Three.js task `pillar:capabilities` `score:0.255`
@@ -828,6 +831,7 @@
 - [[implementation-of-gpt-2-in-pure-cmake.md]] Implementation of GPT-2 in pure CMake `pillar:capabilities` `score:0.205`
 - [[in-browser-container-builds.md]] In-Browser Container Builds `pillar:capabilities` `score:0.33`
 - [[in-the-weights-is-your-new-ai-centric-vanity-search.md]] In the Weights is your new AI-centric vanity search `pillar:capabilities` `score:0.41`
+- [[in-ukraine-distributed-renewables-foil-russias-assaults.md]] In Ukraine, distributed renewables foil Russia's assaults `pillar:capabilities` `score:0.355`
 - [[india-forces-caller-id-apps-to-feed-spam-reports-to-telcos.md]] India forces caller-ID apps to feed spam reports to telcos `pillar:capabilities` `score:0.305`
 - [[india-is-starting-to-pay-for-apps-not-just-download-them.md]] India is starting to pay for apps, not just download them `pillar:capabilities` `score:0.305`
 - [[india8217s-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-c.md]] India&#8217;s Pocket FM doubles revenue run rate to $500M as AI powers 93% of au `pillar:capabilities` `score:0.305`
@@ -933,6 +937,7 @@
 - [[learning-programming-in-an-age-of-llms.md]] Learning Programming in an Age of LLMs `pillar:capabilities` `score:0.375`
 - [[learning-to-solve-hard-problems-in-rl-for-llms-by-never-giving-up.md]] Learning to solve hard problems in RL for LLMs by never giving up `pillar:capabilities` `score:0.255`
 - [[learnvector-andrew-ngs-ai-company-building-onetoone-learning-experiences.md]] LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences `pillar:capabilities` `score:0.43`
+- [[lecun-has-zero-concerns-about-ai-wiping-out-humanity-recent-rogue-incidents.md]] LeCun has "zero concerns" about AI wiping out humanity, recent "rogue" incidents `pillar:capabilities` `score:0.405`
 - [[leiden-declaration-on-artificial-intelligence-and-mathematics.md]] Leiden Declaration on Artificial Intelligence and Mathematics `pillar:capabilities` `score:0.36`
 - [[lemario-training-a-jepa-world-model-on-super-mario-bros.md]] LeMario: Training a JEPA World Model on Super Mario Bros `pillar:capabilities` `score:0.345`
 - [[less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event.md]] Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event `pillar:capabilities` `score:0.305`
@@ -1180,6 +1185,7 @@
 - [[openai-releases-its-official-report-on-the-hugging-face-breach.md]] OpenAI releases its official report on the Hugging Face breach `pillar:capabilities` `score:0.305`
 - [[openai-reportedly-ditches-model-over-safety-concerns.md]] OpenAI reportedly ditches model over safety concerns `pillar:capabilities` `score:0.305`
 - [[openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users.md]] OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users `pillar:capabilities` `score:0.305`
+- [[openai-safety-employee-resigns-claiming-the-companys-culture-is-broken.md]] OpenAI safety employee resigns, claiming the company’s ‘culture is broken’ `pillar:capabilities` `score:0.305`
 - [[openai-says-california-should-strengthen-its-ai-safety-bill.md]] OpenAI says California should strengthen its AI safety bill `pillar:capabilities` `score:0.305`
 - [[openai-still-doesn8217t-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity.md]] OpenAI still doesn&#8217;t seem to have a handle on all of its rogue AI activity `pillar:capabilities` `score:0.305`
 - [[openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity.md]] OpenAI still doesn't seem to have a handle on all of its rogue AI activity `pillar:capabilities` `score:0.305`
@@ -1206,6 +1212,7 @@
 - [[oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center.md]] Oracle sends force majeure notice on its New Mexico Stargate data center `pillar:capabilities` `score:0.305`
 - [[orchestrating-ai-code-review-at-scale.md]] Orchestrating AI code review at scale `pillar:capabilities` `score:0.43`
 - [[orion-browser-by-kagi.md]] Orion Browser by Kagi `pillar:capabilities` `score:0.31`
+- [[our-ai-midwife.md]] Our AI Midwife `pillar:capabilities` `score:0.255`
 - [[our-position-on-open-weights-models.md]] Our position on open-weights models `pillar:capabilities` `score:0.645`
 - [[outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs.md]] Outsourcing plus LocalAI will soon become more economical vs. Frontier labs `pillar:capabilities` `score:0.375`
 - [[overpaid-fire-your-ceo-hire-the-future.md]] OverpAId – Fire your CEO. Hire the future `pillar:capabilities` `score:0.645`
@@ -1300,6 +1307,7 @@
 - [[refactoring-cuisine-how-an-iraqi-stew-sailed-to-singapore.md]] Refactoring cuisine: how an Iraqi stew sailed to Singapore `pillar:capabilities` `score:0.225`
 - [[reflections-on-software-engineering-in-the-age-of-ai.md]] Reflections on software engineering in the age of AI `pillar:capabilities` `score:0.48`
 - [[reinventing-the-renaissance.md]] Reinventing the Renaissance `pillar:capabilities` `score:0.295`
+- [[religious-scholars-met-with-anthropic.md]] Religious scholars met with Anthropic `pillar:capabilities` `score:0.355`
 - [[replies-to-comments-on-my-llms-are-eroding-my-career-post.md]] Replies to comments on my "LLMs are eroding my career" post `pillar:capabilities` `score:0.55`
 - [[research-acceleration-the-view-inside-openai.md]] Research acceleration: The view inside OpenAI `pillar:capabilities` `score:0.305`
 - [[researchers-used-anthropic8217s-claude-to-hack-into-openai.md]] Researchers used Anthropic&#8217;s Claude to hack into OpenAI `pillar:capabilities` `score:0.305`
@@ -1810,6 +1818,7 @@
 - [[tutoring-company-tells-parents-to-save-their-money-and-use-ai-instead.md]] Tutoring company tells parents to save their money and 'use AI instead' `pillar:capabilities` `score:0.325`
 - [[tweet-and-the-bird-logo-apparently-enter-the-public-domain.md]] “Tweet” and the bird logo apparently enter the public domain `pillar:capabilities` `score:0.375`
 - [[twenty-five-years-ago-it-was-cryptography-today-its-model-weights.md]] Twenty-five years ago it was cryptography, today it's model weights `pillar:capabilities` `score:0.155`
+- [[two-american-airlines-flights-end-up-with-the-same-flight-numbers.md]] Two American Airlines Flights End Up with the Same Flight Numbers `pillar:capabilities` `score:0.205`
 - [[two-ea-18-fighter-jets-collide-at-mountain-home-airshow-pilots-ejected-safely.md]] Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely `pillar:capabilities` `score:0.305`
 - [[two-german-airport-workers-die-of-malaria-after-mosquito-arrives-on-plane.md]] Two German airport workers die of malaria after 'mosquito arrives on plane' `pillar:capabilities` `score:0.355`
 - [[two-parallel-neural-ectoderm-progenitors-contribute-to-the-developing-brain.md]] Two parallel neural ectoderm progenitors contribute to the developing brain `pillar:capabilities` `score:0.355`
@@ -1859,6 +1868,7 @@
 - [[vector-graphics-in-lil.md]] Vector Graphics in Lil `pillar:capabilities` `score:0.26`
 - [[vectorized-and-performance-portable-quicksort-2022.md]] Vectorized and performance-portable Quicksort (2022) `pillar:capabilities` `score:0.305`
 - [[venices-failed-war-against-constantinople-led-to-the-first-bond-market.md]] Venice’s failed war against Constantinople led to the first bond market `pillar:capabilities` `score:0.205`
+- [[vghf-digital-archive-passes-5000-magazines-heres-whats-next.md]] VGHF Digital Archive passes 5000 magazines. Here's what's next `pillar:capabilities` `score:0.155`
 - [[vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility.md]] Vibe coding platform Base44 launches own model as AI startups seek defensibility `pillar:capabilities` `score:0.48`
 - [[vibethinker-3b-param-model-that-beats-opus-45-on-reasoning-with-novel-sftgrpo.md]] VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO `pillar:capabilities` `score:0.43`
 - [[vintage-artificial-intelligence-before-it-got-awkward.md]] Vintage Artificial Intelligence: Before It Got Awkward `pillar:capabilities` `score:0.205`
@@ -2885,6 +2895,7 @@
 - [[agentic-mfw.md]] Agentic Mfw `pillar:patterns` `score:0.295`
 - [[agentic-resource-discovery-specification.md]] Agentic Resource Discovery Specification `pillar:patterns` `score:0.365`
 - [[agentic-trading-with-safe-guardrails.md]] Agentic Trading with Safe Guardrails `pillar:patterns` `score:0.33`
+- [[agents-dont-need-memory-they-need-documentation.md]] Agents don't need memory, they need documentation `pillar:patterns` `score:0.425`
 - [[agentsdock-an-ide-designed-for-agentic-ai-research.md]] AgentsDock: An IDE designed for agentic AI research `pillar:patterns` `score:0.255`
 - [[agno-agiagno.md]] agno-agi/agno `pillar:patterns` `score:0.58`
 - [[agora-1-the-multi-agent-world-model.md]] Agora-1: The Multi-Agent World Model `pillar:patterns` `score:0.38`
@@ -3357,6 +3368,7 @@
 - [[show-hn-forge-guardrails-take-an-8b-model-from-53-to-99-on-agentic-tasks.md]] Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks `pillar:patterns` `score:0.305`
 - [[show-hn-geiger-see-every-ai-agent-on-your-machine-and-what-it-can-touch.md]] Show HN: Geiger – See every AI agent on your machine and what it can touch `pillar:patterns` `score:0.155`
 - [[show-hn-git-for-ai-agents.md]] Show HN: Git for AI Agents `pillar:patterns` `score:0.33`
+- [[show-hn-graphene-data-analysis-toolkit-for-your-coding-agent.md]] Show HN: Graphene – Data analysis toolkit for your coding agent `pillar:patterns` `score:0.155`
 - [[show-hn-graphify-c-compiler-accurate-find-usages-for-coding-agents.md]] Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents `pillar:patterns` `score:0.155`
 - [[show-hn-hacker-news-on-a-train-station-style-flip-board.md]] Show HN: Hacker News on a train station-style flip board `pillar:patterns` `score:0.155`
 - [[show-hn-halo-open-source-tamper-evident-runtime-evidence-for-ai-agents.md]] Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents `pillar:patterns` `score:0.365`
@@ -3404,6 +3416,7 @@
 - [[show-hn-panel-a-research-workspace-where-the-agent-can-build-its-own-panes.md]] Show HN: Panel – A research workspace where the agent can build its own panes `pillar:patterns` `score:0.155`
 - [[show-hn-paseo-beautiful-open-source-coding-agent-interface.md]] Show HN: Paseo – Beautiful open-source coding agent interface `pillar:patterns` `score:0.38`
 - [[show-hn-peerd-ai-agent-harness-that-runs-entirely-in-your-browser.md]] Show HN: peerd – AI agent harness that runs entirely in your browser `pillar:patterns` `score:0.38`
+- [[show-hn-pi-pod-run-your-pi-coding-agent-in-sandboxes-on-your-own-server.md]] Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server `pillar:patterns` `score:0.255`
 - [[show-hn-picomq-durable-streams-over-http-on-object-storage.md]] Show HN: PicoMQ – Durable Streams over HTTP, on object storage `pillar:patterns` `score:0.305`
 - [[show-hn-pizza-bot-an-inbox-for-ai-agents-that-work-in-the-background.md]] Show HN: Pizza Bot – An inbox for AI agents that work in the background `pillar:patterns` `score:0.155`
 - [[show-hn-pmb-local-memory-for-coding-agents-that-shows-if-it-is-used.md]] Show HN: PMB – local memory for coding agents that shows if it is used `pillar:patterns` `score:0.295`
@@ -3492,9 +3505,11 @@
 - [[there-will-come-soft-rains-1950-pdf.md]] There Will Come Soft Rains (1950) [pdf] `pillar:patterns` `score:0.495`
 - [[these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone.md]] These two founders left Goldman and Meta to build voice AI for markets everyone `pillar:patterns` `score:0.48`
 - [[this-9-key-physically-locks-your-most-addictive-apps.md]] This $9 key physically locks your most addictive apps `pillar:patterns` `score:0.41`
+- [[three-ai-agents-two-countries-and-one-uneven-world-wide-web.md]] Three AI agents, two countries, and one uneven world wide web `pillar:patterns` `score:0.155`
 - [[tinyhumansaiopenhuman.md]] tinyhumansai/openhuman `pillar:patterns` `score:0.405`
 - [[tragically-as-many-as-9625-out-of-every-10k-individuals-may-be-neurotypical.md]] Tragically, as many as 9625 out of every 10k individuals may be neurotypical `pillar:patterns` `score:0.205`
 - [[triple-dragon-fractal-2020.md]] Triple Dragon Fractal (2020) `pillar:patterns` `score:0.225`
+- [[tt-a1iarchify.md]] tt-a1i/archify `pillar:patterns` `score:0.405`
 - [[turn-your-singing-voice-into-printable-notes-in-the-browser.md]] Turn your singing voice into printable notes (in the browser) `pillar:patterns` `score:0.33`
 - [[un-turns-to-google-to-make-its-global-data-ready-for-ai-agents.md]] UN turns to Google to make its global data ready for AI agents `pillar:patterns` `score:0.305`
 - [[unclecodecrawl4ai.md]] unclecode/crawl4ai `pillar:patterns` `score:0.405`

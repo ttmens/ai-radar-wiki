@@ -7,13 +7,13 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "今日🤖 技术能力方向有新的动态。",
+        "insight": "今日🤖 技术能力方向的核心信号集中在安全/漏洞。",
         "evidence": [
           {
-            "id": "kolibri-is-an-open-weight-llm-from-aleph-alpha-for-german-and-english",
-            "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
-            "score": 0.42,
-            "url": "https://news.ycombinator.com/item?id=49943034",
+            "id": "i-quit-openai-because-its-culture-is-broken",
+            "title": "I quit OpenAI because its culture is broken",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=49944227",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -25,10 +25,24 @@
         "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
         "evidence": [
           {
+            "id": "agents-dont-need-memory-they-need-documentation",
+            "title": "Agents don't need memory, they need documentation",
+            "score": 0.42,
+            "url": "https://news.ycombinator.com/item?id=49945933",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
             "id": "all-the-ai-agents-that-can-live-in-your-text-messages",
             "title": "All the AI agents that can live in your text messages",
             "score": 0.3,
             "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-pi-pod-run-your-pi-coding-agent-in-sandboxes-on-your-own-server",
+            "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own se",
+            "score": 0.26,
+            "url": "https://news.ycombinator.com/item?id=49937304",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
@@ -43,6 +57,20 @@
             "title": "Show HN: Premortem – AI agents that red-team your startup idea",
             "score": 0.15,
             "url": "https://premortem.site",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "three-ai-agents-two-countries-and-one-uneven-world-wide-web",
+            "title": "Three AI agents, two countries, and one uneven world wide web",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=49938326",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-graphene-data-analysis-toolkit-for-your-coding-agent",
+            "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
+            "score": 0.15,
+            "url": "https://github.com/graphene-data/graphene",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -67,22 +95,54 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：All the AI agents that can live in your , Show HN: Premortem – AI agents that red-。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：All the AI agents that can live in your , Show HN: Premortem – AI agents that red-, Three AI agents, two countries, and one 。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       }
     ],
-    "stats": "🤖 技术能力: 3 | 📱 产品模式: 3 | 💰 商业趋势: 1",
-    "total_items": 7,
-    "high_value_count": 4,
+    "stats": "🤖 技术能力: 13 | 📱 产品模式: 8 | 💰 商业趋势: 1",
+    "total_items": 22,
+    "high_value_count": 12,
     "all_today_ids": [
+      {
+        "id": "i-quit-openai-because-its-culture-is-broken",
+        "label": "I quit OpenAI because its culture is broken"
+      },
       {
         "id": "kolibri-is-an-open-weight-llm-from-aleph-alpha-for-german-and-english",
         "label": "Kolibri is an open-weight LLM from Aleph Alpha for German and English"
       },
       {
+        "id": "agents-dont-need-memory-they-need-documentation",
+        "label": "Agents don't need memory, they need documentation"
+      },
+      {
+        "id": "lecun-has-zero-concerns-about-ai-wiping-out-humanity-recent-rogue-incidents",
+        "label": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents"
+      },
+      {
+        "id": "tt-a1iarchify",
+        "label": "tt-a1i/archify"
+      },
+      {
+        "id": "in-ukraine-distributed-renewables-foil-russias-assaults",
+        "label": "In Ukraine, distributed renewables foil Russia's assaults"
+      },
+      {
+        "id": "religious-scholars-met-with-anthropic",
+        "label": "Religious scholars met with Anthropic"
+      },
+      {
+        "id": "openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
+        "label": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’"
+      },
+      {
         "id": "all-the-ai-agents-that-can-live-in-your-text-messages",
         "label": "All the AI agents that can live in your text messages"
+      },
+      {
+        "id": "amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas",
+        "label": "Amazon responds to data center backlash, says it no longer uses NDAs"
       },
       {
         "id": "kolibri-has-landed-a-sovereign-open-weight-model",
@@ -93,8 +153,28 @@
         "label": "Meta wants your next gadget to be Muse-infused"
       },
       {
+        "id": "show-hn-pi-pod-run-your-pi-coding-agent-in-sandboxes-on-your-own-server",
+        "label": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server"
+      },
+      {
+        "id": "getting-the-most-out-of-opus-55-in-claude-and-claude-code",
+        "label": "Getting the most out of Opus 5.5 in Claude and Claude Code"
+      },
+      {
+        "id": "our-ai-midwife",
+        "label": "Our AI Midwife"
+      },
+      {
+        "id": "two-american-airlines-flights-end-up-with-the-same-flight-numbers",
+        "label": "Two American Airlines Flights End Up with the Same Flight Numbers"
+      },
+      {
         "id": "show-hn-rank-every-hn-who-is-hiring-post-against-your-resume-locally",
         "label": "Show HN: Rank every HN \"Who is hiring?\" post against your resume, locally"
+      },
+      {
+        "id": "vghf-digital-archive-passes-5000-magazines-heres-whats-next",
+        "label": "VGHF Digital Archive passes 5000 magazines. Here's what's next"
       },
       {
         "id": "show-hn-offrun-manage-every-coding-agent-from-one-workspace",
@@ -103,9 +183,17 @@
       {
         "id": "show-hn-premortem-ai-agents-that-red-team-your-startup-idea",
         "label": "Show HN: Premortem – AI agents that red-team your startup idea"
+      },
+      {
+        "id": "three-ai-agents-two-countries-and-one-uneven-world-wide-web",
+        "label": "Three AI agents, two countries, and one uneven world wide web"
+      },
+      {
+        "id": "show-hn-graphene-data-analysis-toolkit-for-your-coding-agent",
+        "label": "Show HN: Graphene – Data analysis toolkit for your coding agent"
       }
     ],
     "date_bj": "2026-10-04 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-04 00:04:45"
+    "generated_at_bj": "2026-10-04 20:03:43"
   }
 }

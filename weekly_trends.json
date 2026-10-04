@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T00:05:16.013387+08:00",
+  "generated_at": "2026-10-04T20:04:14.517826+08:00",
   "days_analyzed": 131,
   "pillar_trends": {
     "capabilities": {
@@ -11,8 +11,8 @@
     },
     "patterns": {
       "trend": "up",
-      "delta": 2,
-      "current": 3,
+      "delta": 6,
+      "current": 7,
       "previous": 1,
       "has_data": true
     },
@@ -1296,14 +1296,30 @@
         {
           "date": "2026-10-04",
           "title": "AI Agent 工具链与协作流程快速成熟",
-          "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：All the AI agents that can live in your , Show HN: Premortem – AI agents that red-。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：All the AI agents that can live in your , Show HN: Premortem – AI agents that red-, Three AI agents, two countries, and one 。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
           "type": "paradigm_shift",
           "evidence": [
+            {
+              "id": "agents-dont-need-memory-they-need-documentation",
+              "title": "Agents don't need memory, they need documentation",
+              "score": 0.42,
+              "url": "https://news.ycombinator.com/item?id=49945933",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
             {
               "id": "all-the-ai-agents-that-can-live-in-your-text-messages",
               "title": "All the AI agents that can live in your text messages",
               "score": 0.3,
               "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "show-hn-pi-pod-run-your-pi-coding-agent-in-sandboxes-on-your-own-server",
+              "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own se",
+              "score": 0.26,
+              "url": "https://news.ycombinator.com/item?id=49937304",
               "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "patterns"
             },
@@ -3193,5 +3209,5 @@
     }
   ],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-10-04**（131天），累计 **3568** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：📱 产品模式呈上升趋势；💰 商业动态呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-10-04**（131天），累计 **3583** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：📱 产品模式呈上升趋势；💰 商业动态呈上升趋势"
 }

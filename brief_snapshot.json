@@ -1,8 +1,19 @@
 {
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T00:05:16.358872+08:00",
-  "item_count": 4,
+  "generated_at": "2026-10-04T20:04:14.857103+08:00",
+  "item_count": 12,
   "items": [
+    {
+      "id": "i-quit-openai-because-its-culture-is-broken",
+      "label": "I quit OpenAI because its culture is broken",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49944227",
+      "date": "2026-10-04"
+    },
     {
       "id": "kolibri-is-an-open-weight-llm-from-aleph-alpha-for-german-and-english",
       "label": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
@@ -15,6 +26,72 @@
       "date": "2026-10-04"
     },
     {
+      "id": "agents-dont-need-memory-they-need-documentation",
+      "label": "Agents don't need memory, they need documentation",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49945933",
+      "date": "2026-10-04"
+    },
+    {
+      "id": "lecun-has-zero-concerns-about-ai-wiping-out-humanity-recent-rogue-incidents",
+      "label": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49946228",
+      "date": "2026-10-04"
+    },
+    {
+      "id": "tt-a1iarchify",
+      "label": "tt-a1i/archify",
+      "summary": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+      "pm_score": 0.405,
+      "pillar": "patterns",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/tt-a1i/archify",
+      "date": "2026-10-04"
+    },
+    {
+      "id": "in-ukraine-distributed-renewables-foil-russias-assaults",
+      "label": "In Ukraine, distributed renewables foil Russia's assaults",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49951881",
+      "date": "2026-10-04"
+    },
+    {
+      "id": "religious-scholars-met-with-anthropic",
+      "label": "Religious scholars met with Anthropic",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49950052",
+      "date": "2026-10-04"
+    },
+    {
+      "id": "openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
+      "label": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "date": "2026-10-04"
+    },
+    {
       "id": "all-the-ai-agents-that-can-live-in-your-text-messages",
       "label": "All the AI agents that can live in your text messages",
       "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
@@ -23,6 +100,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "date": "2026-10-04"
+    },
+    {
+      "id": "amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas",
+      "label": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
       "date": "2026-10-04"
     },
     {
@@ -49,7 +137,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 9158,
-    "edges": 9956
+    "real_nodes": 9173,
+    "edges": 9972
   }
 }
