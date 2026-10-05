@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-06 | Total pages: 4803
+> Last updated: 2026-10-06 | Total pages: 4805
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -1209,6 +1209,7 @@
 - [[openai-to-start-showing-ads-on-chatgpt8217s-free-and-go-tiers-in-india.md]] OpenAI to start showing ads on ChatGPT&#8217;s free and Go tiers in India `pillar:capabilities` `score:0.305`
 - [[openai-unveils-its-first-custom-chip-built-by-broadcom.md]] OpenAI unveils its first custom chip, built by Broadcom `pillar:capabilities` `score:0.515`
 - [[openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-att.md]] OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection att `pillar:capabilities` `score:0.48`
+- [[openai-will-start-watermarking-chatgpt8217s-text-in-the-eu.md]] OpenAI will start watermarking ChatGPT&#8217;s text in the EU `pillar:capabilities` `score:0.305`
 - [[openai8217s-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-sy.md]] OpenAI&#8217;s Astra model is on the way — and very good at breaking into comput `pillar:capabilities` `score:0.305`
 - [[openai8217s-feud-with-mathematicians-is-only-escalating.md]] OpenAI&#8217;s feud with mathematicians is only escalating `pillar:capabilities` `score:0.305`
 - [[openai8217s-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-mo.md]] OpenAI&#8217;s first hardware device is reportedly a screenless speaker that can `pillar:capabilities` `score:0.515`
@@ -3298,6 +3299,7 @@
 - [[openclaw-is-finally-available-on-android-and-ios.md]] OpenClaw is finally available on Android and iOS `pillar:patterns` `score:0.445`
 - [[openclawopenclaw.md]] openclaw/openclaw `pillar:patterns` `score:0.58`
 - [[openwiki-cli-that-writes-and-maintains-agent-documentation-for-your-codebase.md]] OpenWiki: CLI that writes and maintains agent documentation for your codebase `pillar:patterns` `score:0.33`
+- [[opus-55-agents-discover-two-room-temperature-magnetic-semiconductor-candidates.md]] Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates `pillar:patterns` `score:0.305`
 - [[ornith-10-self-improving-open-source-models-for-agentic-coding.md]] Ornith-1.0: self-improving open-source models for agentic coding `pillar:patterns` `score:0.48`
 - [[ornith-10-self-scaffolding-llms-for-agentic-coding.md]] Ornith-1.0: Self-scaffolding LLMs for agentic coding `pillar:patterns` `score:0.33`
 - [[osaurus-brings-both-local-and-cloud-ai-models-to-your-mac.md]] Osaurus brings both local and cloud AI models to your Mac `pillar:patterns` `score:0.515`

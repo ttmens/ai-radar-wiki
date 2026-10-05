@@ -5044,3 +5044,7 @@
 - create: the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywher.md
 - create: can-safeworld-convince-people-that-genai-robots-won8217t-hurt-them.md
 - create: show-hn-pumpkinssh-claim-carve-and-display-a-pumpkin-to-the-world.md
+
+## [2026-10-06 06:02] sync v3 | 2 new | pillars: {'patterns': 1, 'capabilities': 1}
+- create: opus-55-agents-discover-two-room-temperature-magnetic-semiconductor-candidates.md
+- create: openai-will-start-watermarking-chatgpt8217s-text-in-the-eu.md

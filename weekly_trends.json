@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T04:05:01.602927+08:00",
+  "generated_at": "2026-10-06T06:02:10.847775+08:00",
   "days_analyzed": 133,
   "pillar_trends": {
     "capabilities": {
@@ -11,8 +11,8 @@
     },
     "patterns": {
       "trend": "up",
-      "delta": 3,
-      "current": 4,
+      "delta": 4,
+      "current": 5,
       "previous": 1,
       "has_data": true
     },
@@ -1361,6 +1361,14 @@
               "title": "Researchers are tracking a Chinese AI &#8216;agent fleet&#8217;",
               "score": 0.3,
               "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "opus-55-agents-discover-two-room-temperature-magnetic-semiconductor-candidates",
+              "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor c",
+              "score": 0.3,
+              "url": "https://news.ycombinator.com/item?id=49970667",
               "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "patterns"
             },
@@ -3244,5 +3252,5 @@
   ],
   "contradictions": [],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-10-06**（133天），累计 **3629** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：📱 产品模式呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-10-06**（133天），累计 **3631** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：📱 产品模式呈上升趋势"
 }

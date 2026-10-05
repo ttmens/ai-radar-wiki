@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
-  "generated_at": "2026-10-06T04:05:01.927962+08:00",
-  "item_count": 15,
+  "generated_at": "2026-10-06T06:02:11.166922+08:00",
+  "item_count": 17,
   "items": [
     {
       "id": "anthropic-reported-diary-entry-to-police-woman-faces-felony-charge",
@@ -81,6 +81,17 @@
       "date": "2026-10-06"
     },
     {
+      "id": "opus-55-agents-discover-two-room-temperature-magnetic-semiconductor-candidates",
+      "label": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49970667",
+      "date": "2026-10-06"
+    },
+    {
       "id": "instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account",
       "label": "Instinct brings its AI agent to group chats, even for friends without an account",
       "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
@@ -100,6 +111,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "date": "2026-10-06"
+    },
+    {
+      "id": "openai-will-start-watermarking-chatgpt8217s-text-in-the-eu",
+      "label": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
       "date": "2026-10-06"
     },
     {
@@ -170,7 +192,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 9219,
-    "edges": 10020
+    "real_nodes": 9221,
+    "edges": 10022
   }
 }
