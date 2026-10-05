@@ -1,0 +1,27 @@
+{
+  "title": "LESSER: Post-Training Data Selection with Output-Layer Gradients",
+  "summary": "The choice of post-training data for large language models substantially affects downstream performance. Gradient-based data selection is a popular approach that ranks training data by how well their gradients align with those of a small validation set. However, ranking with full-parameter gradients requires an expensive backward pass on every sample, making computation intractable for large candidate pools. This raises a natural question: can we approximate full-gradient features at a fraction of the cost? Conveniently, we find that output-layer gradients suffice for effective data selection, yet require only the cheaper forward pass. We implement this as LESSER, a drop-in wrapper for selection methods that reduces the feature-extraction FLOP cost by $9.7\\times$ for SFT and $3.0\\times$ for RL benchmarks, while tracking full-gradient performance on downstream tasks. Empirically, we find that even when output-layer and full gradients rank individual samples differently, they select batches with aligned gradients.",
+  "url": "http://arxiv.org/abs/2610.03702v1",
+  "authors": [
+    "Lyuxin David Zhang",
+    "Eric Wong",
+    "Surbhi Goel",
+    "Anton Xue"
+  ],
+  "published": "2026-10-02T17:55:42Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "training",
+    "sft",
+    "parameter",
+    "gradient",
+    "post-training"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

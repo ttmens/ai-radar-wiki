@@ -1,0 +1,21 @@
+{
+  "title": "From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing",
+  "summary": "We study the minimization of sums of smooth strongly convex functions over undirected graphs, with each function held by one agent and communication restricted to neighbors in the graph. Existing decentralized methods, whether based on gossip or on routing over spanning trees, typically\n  use the network to mix or aggregate information to enable\n  {\\it prescribed} local optimization\n  updates. What this communication-centered viewpoint lacks is a general\n  framework that uses graph structure to {\\it jointly} design the\n  optimization subproblems and the cooperative computation and communication through which agents solve them\n  cooperatively.\n  We develop such a framework from first principles,\n  jointly designing the linear representation of agreement constraints, the blocks of\n  the resulting dual variables (jointly optimized), and connected cluster of agents that\n  cooperatively solve each block subproblem over the assigned subgraph. GATE (Graph-Tearing message passing) is a first instance of this framework: one variable per edge and tree blocks. At each iteration, agents update their assigned edge variables by\n  minimizing the sum of the two endpoint cost-to-go messages and\n  relaxing the result. The messages are updated through local minimizations following the tree recursion. To reduce per-iteration computational and communication costs, we develop GATE-S, a surrogate variant using tractable local models and lightweight message parametrizations. We establish linear convergence with a rate explicit in the interplay among function regularity, network topology, and the chosen partition, revealing the effects of graph decomposition. Numerical experiments are conducted to validate the theoretical results and evaluate the efficiency of our algorithms.",
+  "url": "http://arxiv.org/abs/2610.03709v1",
+  "authors": [
+    "Kuangyu Ding",
+    "Gesualdo Scutari"
+  ],
+  "published": "2026-10-02T17:57:50Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "dpo",
+    "optimization"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

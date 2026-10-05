@@ -5008,3 +5008,39 @@
 ## [2026-10-05 12:02] sync v3 | 3 new | pillars: {'patterns': 1, 'capabilities': 2}
 - create: powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch.md
 - create: quantitative-finance-with-ocaml.md
+
+## [2026-10-06 04:05] sync v3 | 34 new | pillars: {'ecosystem': 1, 'capabilities': 27, 'patterns': 6}
+- create: shadcn-uiui.md
+- create: fengdu78coursera-ml-andrewng-notes.md
+- create: less-decoder-is-more-encoder-geometric-representation-learning-from-novel-view-s.md
+- create: 4dcodebench-benchmarking-agents-on-inverse-graphics-of-dynamic-scenes.md
+- create: what-should-world-models-forget-stratified-retention-for-continual-adaptation.md
+- create: rnadyn-a-benchmark-for-generating-and-understanding-rna-dynamics.md
+- create: eyerobot-20-active-gaze-for-precise-manipulation-without-wrist-cameras.md
+- create: from-mixing-to-tearing-graph-decomposition-in-decentralized-optimization-via-mes.md
+- create: lesser-post-training-data-selection-with-output-layer-gradients.md
+- create: transcriptome-informed-multi-modal-ai-for-predicting-neoadjuvant-therapy-respons.md
+- create: simulation-free-learning-of-population-dynamics-with-wasserstein-lagrangian-resi.md
+- create: frugalevo-towards-cost-aware-llm-guided-program-evolution.md
+- create: planning-to-learn.md
+- create: pivot-sd-efficient-self-distillation-for-masked-diffusion-language-models.md
+- create: beam-reflections-501b-open-weight-model.md
+- create: why-plain-text-is-still-one-of-the-best-technologies-we-have.md
+- create: openai-rogue-agent-activities-found-on-wikimedia-projects.md
+- create: linux-containers-in-500-lines-of-code.md
+- create: anthropic-reported-diary-entry-to-police-woman-faces-felony-charge.md
+- create: martian-chaos-terrain.md
+- create: explaindb-a-database-system-built-for-understandability.md
+- create: the-philadelphia-inquirer-built-scrape-an-ai-tool-to-surface-hyperlocal-news.md
+- create: reflection-debuts-beam-an-open-weight-ai-model-to-rival-chinese-models-at-lower.md
+- create: instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account.md
+- create: tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout.md
+- create: hot-girl-hotline-is-like-8216dear-abby8217-for-the-ai-era.md
+- create: hackerrank8217s-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-b.md
+- create: openai-launches-visual-ads-that-appear-alongside-image-generation-results.md
+- create: open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disru.md
+- create: researchers-are-tracking-a-chinese-ai-8216agent-fleet8217.md
+- create: meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-di.md
+- create: the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywher.md
+- create: can-safeworld-convince-people-that-genai-robots-won8217t-hurt-them.md
+- create: show-hn-pumpkinssh-claim-carve-and-display-a-pumpkin-to-the-world.md
