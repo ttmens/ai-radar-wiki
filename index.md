@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-05 | Total pages: 4767
+> Last updated: 2026-10-05 | Total pages: 4769
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -1263,6 +1263,7 @@
 - [[porting-my-1993-amiga-game-to-godot-with-an-llm-reading-the-68000-assembly.md]] Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly `pillar:capabilities` `score:0.405`
 - [[postgres-data-stored-in-parquet-on-s3-ltap-architecture-explained.md]] Postgres data stored in Parquet on S3: LTAP architecture explained `pillar:capabilities` `score:0.305`
 - [[postgresbench-a-reproducible-benchmark-for-postgres-services.md]] PostgresBench: A Reproducible Benchmark for Postgres Services `pillar:capabilities` `score:0.26`
+- [[powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch.md]] Powerless F1 drivers frustrated by Bahrain F1 software glitch `pillar:capabilities` `score:0.305`
 - [[pr-spam-today-looks-like-email-spam-in-the-early-2000s.md]] PR spam today looks like email spam in the early 2000s `pillar:capabilities` `score:0.495`
 - [[pramaana-labs-raises-27m-seed-round-from-khosla-ventures-to-bring-formal-verific.md]] Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verifi `pillar:capabilities` `score:0.48`
 - [[predictive-speculative-kv-replication-for-bursty-llm-inference.md]] Predictive Speculative KV Replication for Bursty LLM Inference `pillar:capabilities` `score:0.155`
@@ -1290,6 +1291,7 @@
 - [[qdrantqdrant.md]] qdrant/qdrant `pillar:capabilities` `score:0.615`
 - [[qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai.md]] Qualcomm launches two new smartphone chips with emphasis on AI `pillar:capabilities` `score:0.305`
 - [[quality-non-fiction-books-are-the-antithesis-of-ai-slop.md]] Quality non-fiction books are the antithesis of AI slop `pillar:capabilities` `score:0.58`
+- [[quantitative-finance-with-ocaml.md]] Quantitative Finance with OCaml `pillar:capabilities` `score:0.155`
 - [[quasar-438b-europes-leading-ai-model.md]] Quasar 438B: Europe's Leading AI Model `pillar:capabilities` `score:0.375`
 - [[qwen-38-27b-available-on-cerebras-at-1500-tokenss.md]] Qwen 3.8 27B available on Cerebras at 1500 tokens/s `pillar:capabilities` `score:0.475`
 - [[qwen-38-follows-gpt-55-pro-reasoning-prefills.md]] Qwen 3.8 follows GPT-5.5 Pro reasoning prefills `pillar:capabilities` `score:0.405`

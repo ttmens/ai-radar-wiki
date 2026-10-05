@@ -2,7 +2,7 @@
   "daily_summary": {
     "date": "2026-10-05",
     "headline": "今日 AI 情报 · 2026-10-05",
-    "overview": "今日共采集 10 条情报",
+    "overview": "今日共采集 12 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -51,9 +51,9 @@
       }
     ],
     "narratives": [],
-    "stats": "🤖 技术能力: 8 | 🔧 工具生态: 1 | 📱 产品模式: 1",
-    "total_items": 10,
-    "high_value_count": 3,
+    "stats": "🤖 技术能力: 10 | 🔧 工具生态: 1 | 📱 产品模式: 1",
+    "total_items": 12,
+    "high_value_count": 4,
     "all_today_ids": [
       {
         "id": "trump-unveils-his-new-super-intelligence-force",
@@ -66,6 +66,10 @@
       {
         "id": "google-froze-its-open-source-bug-bounty-program-due-to-a-8216significant-rise821",
         "label": "Google froze its open source bug bounty program due to a &#8216;significant rise"
+      },
+      {
+        "id": "powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch",
+        "label": "Powerless F1 drivers frustrated by Bahrain F1 software glitch"
       },
       {
         "id": "show-hn-ai-search-for-every-photo-and-every-frame-of-video-on-macos",
@@ -94,9 +98,13 @@
       {
         "id": "how-to-scale-intent-quality-and-artistry-with-ai-video",
         "label": "How to scale intent, quality, and artistry with AI [video]"
+      },
+      {
+        "id": "quantitative-finance-with-ocaml",
+        "label": "Quantitative Finance with OCaml"
       }
     ],
     "date_bj": "2026-10-05 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-05 06:01:30"
+    "generated_at_bj": "2026-10-05 12:01:48"
   }
 }

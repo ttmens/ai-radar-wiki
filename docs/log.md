@@ -5004,3 +5004,7 @@
 - create: google-froze-its-open-source-bug-bounty-program-due-to-a-8216significant-rise821.md
 - create: can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem.md
 - create: show-hn-dataviz-ranked-daily-from-github-npm-pypi-and-cran.md
+
+## [2026-10-05 12:02] sync v3 | 3 new | pillars: {'patterns': 1, 'capabilities': 2}
+- create: powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch.md
+- create: quantitative-finance-with-ocaml.md
