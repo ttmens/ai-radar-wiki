@@ -1,0 +1,25 @@
+{
+  "title": "Deep Learning for Sleep Heart Rate Estimation from Accelerometers: Toward Population-Scale Cardiac Insight Without Optical Sensors",
+  "summary": "Large longitudinal cohorts often contain wrist accelerometry without optical heart-rate sensing, motivating recovery of cardiac information from motion signals already collected during sleep. We present SeqSmoother, a transformer-based temporal corrector for sleep heart rate (HR) estimation from wrist accelerometry. SeqSmoother combines spectral descriptors with an intermediate Nightbeat-derived frequency anchor and a physics-motivated sub-harmonic feature designed to identify harmonic frequency lock-on. All inference-time features are derived from wrist accelerometry, while ECG is used only to construct reference HR labels and training-label quality weights. We evaluate SeqSmoother using 13 participant-disjoint held-out folds and compare it with the official Nightbeat implementation under a matched 60-s window and 15-s step protocol. Across all out-of-fold predictions, SeqSmoother achieved a participant-macro MAE of 1.60 bpm. On Nightbeat-retained matched intervals, Nightbeat achieved lower absolute error than SeqSmoother (0.615 versus 1.091 bpm), while SeqSmoother provided estimates over a larger portion of the eligible recording; Nightbeat produced final estimates for 72.85% of the SeqSmoother-eligible out-of-fold grid. Separately, the proposed sub-harmonic ratio achieved an AUROC of 0.972 for identifying reference-defined harmonic lock-on candidates. These findings reveal an accuracy-availability trade-off between learned temporal modeling and quality-gated signal processing while providing empirical support for a physics-informed approach to identifying frequency-tracking failures in accelerometer-based sleep HR estimation.",
+  "url": "http://arxiv.org/abs/2610.06823v1",
+  "authors": [
+    "Tanbin Islam Rohan",
+    "Pranjol Sen Gupta",
+    "Tanusree Debi",
+    "Nazmus Sakib"
+  ],
+  "published": "2026-10-05T17:56:57Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "training",
+    "transformer",
+    "accuracy"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

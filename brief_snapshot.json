@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
-  "generated_at": "2026-10-06T06:02:11.166922+08:00",
-  "item_count": 17,
+  "generated_at": "2026-10-06T20:03:36.438105+08:00",
+  "item_count": 32,
   "items": [
     {
       "id": "anthropic-reported-diary-entry-to-police-woman-faces-felony-charge",
@@ -12,6 +12,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49961057",
+      "date": "2026-10-06"
+    },
+    {
+      "id": "chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
+      "label": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49971846",
+      "date": "2026-10-06"
+    },
+    {
+      "id": "dust-pretraining-transformers-without-backpropagation",
+      "label": "Dust: Pretraining Transformers Without Backpropagation",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49970871",
       "date": "2026-10-06"
     },
     {
@@ -189,10 +211,153 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
       "date": "2026-10-06"
+    },
+    {
+      "id": "an-algorithmic-failure-beneath-the-secret-ballot",
+      "label": "An algorithmic failure beneath the secret ballot",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49945588",
+      "date": "2026-10-06"
+    },
+    {
+      "id": "direct-intermediate-initialization-for-tilted-diffusion-samplers",
+      "label": "Direct Intermediate Initialization for Tilted Diffusion Samplers",
+      "summary": "Some diffusion posterior samplers construct Gaussian-tilted intermediate distributions along the reverse process. We observe that these targets can be pulled back to clean-space posteriors with weaker conditioning, with samples transported analytically to the corresponding noisy-space target through",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.06834v1",
+      "date": "2026-10-06"
+    },
+    {
+      "id": "clift-conformal-self-verification-for-web-agent-training-and-test-time-scaling",
+      "label": "CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling",
+      "summary": "Open-source web agents are now strong enough to execute realistic browser tasks, but training them with reinforcement learning still depends on weak supervision: binary task success is too sparse for credit assignment, while frontier-language-model judges are too expensive to call at every step and",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.06829v1",
+      "date": "2026-10-06"
+    },
+    {
+      "id": "mempilot-orchestrating-on-demand-multimodal-memory-curation-for-llm-agents",
+      "label": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
+      "summary": "Memory has become integral to the LLM agent ecosystem, supporting information retention and reuse across interactions. However, most existing agent memory systems construct memory in a query-agnostic manner, which can incur unnecessary preprocessing cost and discard details that later prove essentia",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.06830v1",
+      "date": "2026-10-06"
+    },
+    {
+      "id": "tasteval-measuring-the-experimental-research-taste-of-ai-systems-against-human-e",
+      "label": "TasteVal: Measuring the Experimental Research Taste of AI Systems Against Human",
+      "summary": "We introduce TasteVal, a benchmark to evaluate the experimental research taste of frontier models. We define research taste as the ability to pick interesting problems to solve, design experiments, and interpret experimental results. TasteVal measures the experimental component of research taste; gi",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.06824v1",
+      "date": "2026-10-06"
+    },
+    {
+      "id": "unislider-perceptually-uniform-sliders-for-continuous-image-editing",
+      "label": "UniSlider: Perceptually Uniform Sliders for Continuous Image Editing",
+      "summary": "Sliders provide an intuitive interface for continuous image editing. In current generative approaches, however, the slider is simply a rescaling of the method's strength parameter, such as an adapter coefficient, a prompt weight, or an interpolation factor. This strength relates poorly to perceptual",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.06831v1",
+      "date": "2026-10-06"
+    },
+    {
+      "id": "towards-looped-models-done-right-part-ii-rethinking-at-fixed-points",
+      "label": "Towards Looped Models Done Right, Part II: Rethinking at Fixed Points",
+      "summary": "Every recurrence of a looped language model adds cost in training, decoding, prefill, and reinforcement learning (RL). The closer recurrent states get to fixed points, the less the path to them matters. This enables truncated backpropagation in training; terminal key-value (KV) sharing for decoding",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.06833v1",
+      "date": "2026-10-06"
+    },
+    {
+      "id": "learning-to-read-the-contextual-tokens-in-diffusion-transformers",
+      "label": "Learning to Read the Contextual Tokens in Diffusion Transformers",
+      "summary": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, forming dynamic contextual tokens whose function is not well understood. In this work, we introduce a fra",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.06844v1",
+      "date": "2026-10-06"
+    },
+    {
+      "id": "deep-learning-for-sleep-heart-rate-estimation-from-accelerometers-toward-populat",
+      "label": "Deep Learning for Sleep Heart Rate Estimation from Accelerometers: Toward Popula",
+      "summary": "Large longitudinal cohorts often contain wrist accelerometry without optical heart-rate sensing, motivating recovery of cardiac information from motion signals already collected during sleep. We present SeqSmoother, a transformer-based temporal corrector for sleep heart rate (HR) estimation from wri",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.06823v1",
+      "date": "2026-10-06"
+    },
+    {
+      "id": "base-models-can-reason-by-taking-a-cue-from-training-data",
+      "label": "Base Models Can Reason By Taking a Cue From Training Data",
+      "summary": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing particular starting token cues makes a base model's performance competitive with that of its reinforcem",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.06851v1",
+      "date": "2026-10-06"
+    },
+    {
+      "id": "recursive-video-in-context-learning-for-agentic-robot",
+      "label": "Recursive Video In-Context Learning for Agentic Robot",
+      "summary": "LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, which records what the agent did but not how the task is done. A demonstration video shows it, but fits poorly into an agent's context. The full video slows every turn, fixed keyfram",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.06843v1",
+      "date": "2026-10-06"
+    },
+    {
+      "id": "one-figure-every-canvas-editable-flowchart-relayout-via-agentic-pipeline",
+      "label": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
+      "summary": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different aspect ratio on the same computational graph, where any silently broken connection misrepresents the",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.06852v1",
+      "date": "2026-10-06"
+    },
+    {
+      "id": "biasflow-geometric-monitoring-and-backbone-regularization-for-spurious-feature-r",
+      "label": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature",
+      "summary": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitoring class-attribute centroid alignment (IBMI), within-class centroid separation (W-IBMI), and feature-",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.06846v1",
+      "date": "2026-10-06"
     }
   ],
   "graph_totals": {
-    "real_nodes": 9221,
-    "edges": 10022
+    "real_nodes": 9237,
+    "edges": 10057
   }
 }

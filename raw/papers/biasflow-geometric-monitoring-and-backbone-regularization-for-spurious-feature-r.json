@@ -1,0 +1,23 @@
+{
+  "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
+  "summary": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitoring class-attribute centroid alignment (IBMI), within-class centroid separation (W-IBMI), and feature-projection sensitivity. IBMI is confounded by class-attribute correlation and is not a measure of causal feature reliance. We pair these diagnostics with BiasFlow Regularization (BFR), a supervised, composable class-conditional centroid-alignment penalty. W-IBMI verifies the quantity BFR optimizes; it is scale dependent and does not independently establish attribute removal. Across the reported small-scale benchmarks, adding BFR improves or preserves mean WGA, with gains up to +26.0 pp on UrbanCars. The principal independent stress test freezes CelebA-Std backbones and trains fresh heads on biased data: BFR+GroupDRO improves WGA from 40.7% to 64.1%, while Male probe accuracy decreases from 92.5% to 72.2%. Attribute information remains recoverable, and cross-task results are mixed. A controlled synthetic-watermark ImageNet experiment additionally improves watermark-shift accuracy by +23.0 pp under matched training. These results support evaluating centroid geometry and resistance to biased head retraining alongside WGA, within the tested protocols.",
+  "url": "http://arxiv.org/abs/2610.06846v1",
+  "authors": [
+    "Haojin Deng",
+    "Zhiping Lin",
+    "Yimin Yang"
+  ],
+  "published": "2026-10-05T17:59:28Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "training",
+    "accuracy"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

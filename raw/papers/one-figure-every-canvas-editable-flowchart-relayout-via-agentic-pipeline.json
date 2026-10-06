@@ -1,0 +1,24 @@
+{
+  "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
+  "summary": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different aspect ratio on the same computational graph, where any silently broken connection misrepresents the method. We formulate aspect-ratio-adaptive flowchart relayout as a distinct task: given a raster flowchart and a target ratio, produce a structurally faithful, hallucination-free, editable layout. Existing methods fail characteristically: image-to-image models stretch blocks and reject extreme ratios, text-to-image agentic systems hallucinate content, and parse-then-render systems mis-route edges. We propose an agentic pipeline factored into Parse, Style, and Layout stages, each pairing a main agent with a critic that combines deterministic constraint checks with VLM visual feedback so connectivity is explicitly checked and prevented from being silently broken. Outputs are draw.io-editable mxGraph XML. On a curated benchmark of 100 flowcharts at five aspect ratios, evaluated by Gemini 3.1 Pro and validated against human judgments, our method reaches 68.6% Content Fidelity versus 11.2-41.4% for prior work. Project page: https://onefigureeverycanvas.vercel.app/",
+  "url": "http://arxiv.org/abs/2610.06852v1",
+  "authors": [
+    "Shih-Chen Tseng",
+    "Chih-Hsuan Chen",
+    "Ryan Yang",
+    "Hsi-An Chen",
+    "Chun-Wei Tuan Mu"
+  ],
+  "published": "2026-10-05T17:59:54Z",
+  "tag": "Paper",
+  "pillar": "patterns",
+  "pillar_keywords": [
+    "agent",
+    "text-to-image"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

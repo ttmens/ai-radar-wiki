@@ -5048,3 +5048,21 @@
 ## [2026-10-06 06:02] sync v3 | 2 new | pillars: {'patterns': 1, 'capabilities': 1}
 - create: opus-55-agents-discover-two-room-temperature-magnetic-semiconductor-candidates.md
 - create: openai-will-start-watermarking-chatgpt8217s-text-in-the-eu.md
+
+## [2026-10-06 20:03] sync v3 | 16 new | pillars: {'patterns': 3, 'capabilities': 13}
+- create: one-figure-every-canvas-editable-flowchart-relayout-via-agentic-pipeline.md
+- create: base-models-can-reason-by-taking-a-cue-from-training-data.md
+- create: biasflow-geometric-monitoring-and-backbone-regularization-for-spurious-feature-r.md
+- create: learning-to-read-the-contextual-tokens-in-diffusion-transformers.md
+- create: recursive-video-in-context-learning-for-agentic-robot.md
+- create: direct-intermediate-initialization-for-tilted-diffusion-samplers.md
+- create: towards-looped-models-done-right-part-ii-rethinking-at-fixed-points.md
+- create: unislider-perceptually-uniform-sliders-for-continuous-image-editing.md
+- create: mempilot-orchestrating-on-demand-multimodal-memory-curation-for-llm-agents.md
+- create: clift-conformal-self-verification-for-web-agent-training-and-test-time-scaling.md
+- create: tasteval-measuring-the-experimental-research-taste-of-ai-systems-against-human-e.md
+- create: deep-learning-for-sleep-heart-rate-estimation-from-accelerometers-toward-populat.md
+- create: dust-pretraining-transformers-without-backpropagation.md
+- create: using-ai-and-machine-learning-to-decode-communication-of-sperm-whales.md
+- create: an-algorithmic-failure-beneath-the-secret-ballot.md
+- create: chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons.md

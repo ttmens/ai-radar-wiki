@@ -1,0 +1,19 @@
+{
+  "title": "Direct Intermediate Initialization for Tilted Diffusion Samplers",
+  "summary": "Some diffusion posterior samplers construct Gaussian-tilted intermediate distributions along the reverse process. We observe that these targets can be pulled back to clean-space posteriors with weaker conditioning, with samples transported analytically to the corresponding noisy-space target through a Gaussian bridge. For the sequential Monte Carlo (SMC) sampler MCGDiff, the effective observation variance of this pulled-back problem is up to twice the diffusion-noise variance. We exploit this structure to initialize MCGDiff directly at an intermediate time: an approximate solver samples the softened clean-space posterior, the Gaussian bridge maps these samples to the tilted target, and only the remaining SMC suffix is run. This trades asymptotic consistency for finite-particle performance. With moment-matching posterior sampling (MMPS) as the solver, the hybrid improves sliced Wasserstein distance by roughly $2\\times$ at matched particle count on a structured Gaussian-mixture inverse problem, and by more than an order of magnitude when the posterior-relevant mode is rare under the prior. A prior-initialization control, which retains the bridge but drops the clean-space conditioning, shows that on MCGDiff's standard Gaussian-mixture benchmark most of the improvement is insensitive to the conditioning. Conditioning the initialization gives a further consistent gain on the structured problem, and becomes decisive on a rare-mode problem, where resampling cannot repopulate a mode absent from the initial population.",
+  "url": "http://arxiv.org/abs/2610.06834v1",
+  "authors": [
+    "Gregory D. Bellchambers"
+  ],
+  "published": "2026-10-05T17:58:18Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

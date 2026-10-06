@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T06:02:10.847775+08:00",
+  "generated_at": "2026-10-06T20:03:36.083503+08:00",
   "days_analyzed": 133,
   "pillar_trends": {
     "capabilities": {
@@ -11,8 +11,8 @@
     },
     "patterns": {
       "trend": "up",
-      "delta": 4,
-      "current": 5,
+      "delta": 6,
+      "current": 7,
       "previous": 1,
       "has_data": true
     },
@@ -1345,7 +1345,7 @@
         {
           "date": "2026-10-06",
           "title": "AI Agent 工具链与协作流程快速成熟",
-          "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Instinct brings its AI agent to group ch, TikTok rolls out an AI shopping assistan。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "body": "今日4条情报涉及AI Agent及相关工具生态。典型项目包括：Instinct brings its AI agent to group ch, TikTok rolls out an AI shopping assistan, Recursive Video In-Context Learning for 。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
           "type": "paradigm_shift",
           "evidence": [
             {
@@ -1381,10 +1381,10 @@
               "pillar": "patterns"
             },
             {
-              "id": "4dcodebench-benchmarking-agents-on-inverse-graphics-of-dynamic-scenes",
-              "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
-              "score": 0.26,
-              "url": "http://arxiv.org/abs/2610.03715v1",
+              "id": "recursive-video-in-context-learning-for-agentic-robot",
+              "title": "Recursive Video In-Context Learning for Agentic Robot",
+              "score": 0.3,
+              "url": "http://arxiv.org/abs/2610.06843v1",
               "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "patterns"
             }
@@ -3252,5 +3252,5 @@
   ],
   "contradictions": [],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-10-06**（133天），累计 **3631** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：📱 产品模式呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-10-06**（133天），累计 **3647** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：📱 产品模式呈上升趋势"
 }
