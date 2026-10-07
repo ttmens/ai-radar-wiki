@@ -20,6 +20,13 @@
 
 ## 运行日志
 
+## [2026-10-07 12:05] Evolution Run
+- Deprecated: 1 nodes
+- Pillar distribution: {'capabilities': 2940, 'ecosystem': 602, 'business': 443, 'patterns': 805, 'unknown': 4}
+- Top tags: {'capabilities': 2855, 'discussion': 1957, 'hacker-news': 1957, 'research': 1152, 'news': 1139}
+  🗑️ Deprecated: mens-average-testosterone-levels-have-halved-in-last-50-years.md (91d old, score=0.12)  📊 1 nodes deprecated (90d+ and score < 0.15)
+
+
 ## [2026-10-06 20:03] Evolution Run
 - Deprecated: 0 nodes
 - Pillar distribution: {'capabilities': 2912, 'ecosystem': 600, 'business': 442, 'patterns': 800, 'unknown': 4}

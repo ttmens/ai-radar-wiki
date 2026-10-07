@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-06 | Total pages: 4821
+> Last updated: 2026-10-07 | Total pages: 4857
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -192,6 +192,7 @@
 - [[anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai.md]] Anthropic, Gamma, and Clay share what happens when enterprises actually deploy A `pillar:capabilities` `score:0.305`
 - [[anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label.md]] Anthropic gets its first court win over the Pentagon’s supply-chain risk label `pillar:capabilities` `score:0.305`
 - [[anthropic-is-expanding-to-colossus2-will-use-gb200.md]] Anthropic is expanding to Colossus2. Will use GB200 `pillar:capabilities` `score:0.48`
+- [[anthropic-is-giving-startups-a-free-year-of-claude-team-and-1000-in-credits.md]] Anthropic is giving startups a free year of Claude Team and $1,000 in credits `pillar:capabilities` `score:0.305`
 - [[anthropic-is-in-regulatory-capture-financial-loop.md]] Anthropic is in regulatory-capture financial loop `pillar:capabilities` `score:0.155`
 - [[anthropic-is-operating-a-lab-that-conducts-biology-experiments.md]] Anthropic is operating a lab that conducts biology experiments `pillar:capabilities` `score:0.305`
 - [[anthropic-launches-opus-5.md]] Anthropic launches Opus 5 `pillar:capabilities` `score:0.48`
@@ -288,6 +289,7 @@
 - [[becoming-a-research-engineer-at-a-big-llm-lab.md]] Becoming a Research Engineer at a Big LLM Lab `pillar:capabilities` `score:0.26`
 - [[bee-sanciphey.md]] bee-san/Ciphey `pillar:capabilities` `score:0.545`
 - [[behind-the-scenes-with-the-midjourney-scanner-video.md]] Behind the scenes with the Midjourney scanner [video] `pillar:capabilities` `score:0.43`
+- [[benchmark-in-milliseconds.md]] Benchmark in Milliseconds `pillar:capabilities` `score:0.305`
 - [[benchmarking-15-e-waste-gpus-with-modern-workloads.md]] Benchmarking 15 "E-Waste" GPUs with Modern Workloads `pillar:capabilities` `score:0.395`
 - [[benchmarking-coding-agents-on-databricks-multi-million-line-codebase.md]] Benchmarking coding agents on Databricks' multi-million line codebase `pillar:capabilities` `score:0.465`
 - [[benchmarking-opus-5-on-slopcodebench.md]] Benchmarking Opus 5 on SlopCodeBench `pillar:capabilities` `score:0.48`
@@ -367,6 +369,7 @@
 - [[claude-code-reduces-its-weekly-limit-by-17-compared-to-today.md]] Claude Code reduces it's weekly limit by 17% – compared to today `pillar:capabilities` `score:0.155`
 - [[claude-code-sends-33k-tokens-before-reading-the-prompt-opencode-sends-7k.md]] Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k `pillar:capabilities` `score:0.6`
 - [[claude-code-uses-bun-written-in-rust-now.md]] Claude Code uses Bun written in Rust now `pillar:capabilities` `score:0.58`
+- [[claude-codes-suggested-message-feature-i-think-the-real-customer-is-the-model.md]] Claude Code’s suggested message feature: I think the real customer is the model `pillar:capabilities` `score:0.355`
 - [[claude-cookbook.md]] Claude Cookbook `pillar:capabilities` `score:0.365`
 - [[claude-corps.md]] Claude Corps `pillar:capabilities` `score:0.355`
 - [[claude-cowork-expands-to-mobile-and-web.md]] Claude Cowork expands to mobile and web `pillar:capabilities` `score:0.515`
@@ -525,9 +528,11 @@
 - [[elevenlabs8217s-new-music-generation-model-can-switch-genres-mid-track.md]] ElevenLabs&#8217;s new music generation model can switch genres mid-track `pillar:capabilities` `score:0.48`
 - [[ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services.md]] Ema raises $77M as AI starts eating into enterprise software and services `pillar:capabilities` `score:0.305`
 - [[emacs-31-is-around-the-corner-the-changes-im-daily-driving.md]] Emacs 31 Is Around the Corner: The Changes I'm Daily Driving `pillar:capabilities` `score:0.565`
+- [[embeddinggemma-2-an-open-lightweight-multimodal-embedding-model.md]] EmbeddingGemma 2: An open, lightweight multimodal embedding model `pillar:capabilities` `score:0.355`
 - [[emily-bender-sets-the-record-straight-on-stochastic-parrots.md]] Emily Bender Sets the Record Straight on "Stochastic Parrots" `pillar:capabilities` `score:0.515`
 - [[encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesn82.md]] Encryption, spyware, and now Mythos: History shows why cyber export control does `pillar:capabilities` `score:0.445`
 - [[entanglement-builds-space-time-now-magic-gives-it-gravity.md]] Entanglement Builds Space-Time. Now "Magic" Gives It Gravity `pillar:capabilities` `score:0.34`
+- [[erdosproblemscom-succumbs-to-the-ai-onslaught.md]] Erdosproblems.com Succumbs to the AI Onslaught `pillar:capabilities` `score:0.255`
 - [[escape-analysis-in-go-stack-vs-heap-allocations-explained.md]] Escape Analysis in Go: Stack vs. Heap Allocations Explained `pillar:capabilities` `score:0.19`
 - [[esp32s3-cluster-running-158-bit-bitnet-language-model.md]] ESP32S3 cluster running 1.58-bit (BitNet) Language model `pillar:capabilities` `score:0.205`
 - [[espionage-against-the-european-parliament.md]] Espionage Against the European Parliament `pillar:capabilities` `score:0.395`
@@ -541,6 +546,7 @@
 - [[evolving-programming-languages-in-the-ai-era.md]] Evolving programming languages in the AI era `pillar:capabilities` `score:0.305`
 - [[ex-ftc-boss-khan-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent.md]] Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent `pillar:capabilities` `score:0.255`
 - [[ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor.md]] Ex-Meta scientists want to bring visual AI to the factory floor `pillar:capabilities` `score:0.305`
+- [[ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-prod.md]] Ex-Ramp engineers raise $20M for platform Melius after scrapping their first pro `pillar:capabilities` `score:0.305`
 - [[exhibit-tables-added-one-last-chance-to-showcase-your-startup-at-techcrunch-disr.md]] Exhibit tables added: One last chance to showcase your startup at TechCrunch Dis `pillar:capabilities` `score:0.305`
 - [[expertise-in-the-age-of-ai.md]] Expertise in the Age of AI `pillar:capabilities` `score:0.38`
 - [[experts-say-exploiting-anthropic8217s-fable-isn8217t-how-kimi-k3-got-so-good.md]] Experts say exploiting Anthropic&#8217;s Fable isn&#8217;t how Kimi K3 got so go `pillar:capabilities` `score:0.515`
@@ -629,6 +635,7 @@
 - [[geosql-a-claudecodex-skill-for-geospatial-data.md]] Geosql: A Claude/Codex skill for geospatial data `pillar:capabilities` `score:0.38`
 - [[german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks.md]] German AI consortium releases Soofi S, an open 30B model that tops benchmarks `pillar:capabilities` `score:0.515`
 - [[german-rail-service-suspended-due-to-radio-interference.md]] German Rail Service Suspended Due to Radio Interference `pillar:capabilities` `score:0.31`
+- [[get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-ses.md]] Get all your questions answered at TechCrunch Disrupt 2026: The full breakout se `pillar:capabilities` `score:0.305`
 - [[getting-50-gbs-back-from-the-apple-neural-engine.md]] Getting 50 GB/S Back from the Apple Neural Engine `pillar:capabilities` `score:0.255`
 - [[getting-the-most-out-of-opus-55-in-claude-and-claude-code.md]] Getting the most out of Opus 5.5 in Claude and Claude Code `pillar:capabilities` `score:0.255`
 - [[ghost-font-a-font-that-humans-can-read-but-ai-cannot.md]] Ghost Font: A font that humans can read but AI cannot `pillar:capabilities` `score:0.445`
@@ -751,6 +758,7 @@
 - [[how-a-new-dsl-may-survive-in-the-era-of-llms.md]] How a new DSL may survive in the era of LLMs `pillar:capabilities` `score:0.295`
 - [[how-a-texas-student-blew-the-whistle-on-a-rogue-ai-hacking-attempt.md]] How a Texas student blew the whistle on a rogue AI hacking attempt `pillar:capabilities` `score:0.255`
 - [[how-accurate-have-ed-zitrons-ai-skeptic-predictions-been.md]] How accurate have Ed Zitron's AI skeptic predictions been? `pillar:capabilities` `score:0.505`
+- [[how-ai-decision-models-could-change-content-moderation.md]] How AI decision models could change content moderation `pillar:capabilities` `score:0.305`
 - [[how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers.md]] How AI guardrails are impeding the work of offensive cybersecurity researchers `pillar:capabilities` `score:0.48`
 - [[how-an-ai-math-breakthrough-ignited-a-controversy.md]] How An AI math breakthrough ignited a controversy `pillar:capabilities` `score:0.405`
 - [[how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers.md]] How an e-scooter founder raised $5 million to build space data centers `pillar:capabilities` `score:0.41`
@@ -980,6 +988,7 @@
 - [[llms-as-a-cognitive-virus.md]] LLMs as a Cognitive Virus `pillar:capabilities` `score:0.255`
 - [[llms-could-control-their-host-machines-by-exploiting-inference-engines.md]] LLMs could control their host machines by exploiting inference engines `pillar:capabilities` `score:0.355`
 - [[llms-intelligence-vs-cost.md]] LLMs: Intelligence vs. Cost `pillar:capabilities` `score:0.255`
+- [[llms-may-have-helped-my-rsi.md]] LLMs may have helped my RSI `pillar:capabilities` `score:0.255`
 - [[llms-reward-expertise.md]] LLMs reward expertise `pillar:capabilities` `score:0.305`
 - [[local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro.md]] Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro `pillar:capabilities` `score:0.515`
 - [[longcat-20-a-large-scale-moe-model-with-16t-total-and-48b-active.md]] LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active `pillar:capabilities` `score:0.38`
@@ -1056,9 +1065,12 @@
 - [[mimo-v25-pro-ultraspeed-1t-model-with-1000-tokens-per-second.md]] MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second `pillar:capabilities` `score:0.45`
 - [[mindsdbminds-platform.md]] mindsdb/minds-platform `pillar:capabilities` `score:0.405`
 - [[mira-multiplayer-interactive-world-models-trained-on-rocket-league.md]] MIRA: Multiplayer Interactive World Models Trained on Rocket League `pillar:capabilities` `score:0.33`
+- [[mirror-particle-is-building-a-world-model-of-human-behavior.md]] Mirror Particle is building a ‘world model’ of human behavior `pillar:capabilities` `score:0.305`
+- [[mistral-large-4.md]] Mistral Large 4 `pillar:capabilities` `score:0.505`
 - [[mistral-ocr-4.md]] Mistral OCR 4 `pillar:capabilities` `score:0.53`
 - [[mistral-raises-3b.md]] Mistral raises €3B `pillar:capabilities` `score:0.455`
 - [[mistral-x-mozilla-private-multilingual-ai-browsing.md]] Mistral X Mozilla: Private, Multilingual AI Browsing `pillar:capabilities` `score:0.425`
+- [[mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals.md]] Mistral’s new 1T model aims to leapfrog closed and open rivals `pillar:capabilities` `score:0.305`
 - [[mistrals-robostral-navigate-a-state-of-the-art-robotics-navigation-model.md]] Mistral's Robostral Navigate: a state of the art robotics navigation model `pillar:capabilities` `score:0.515`
 - [[mits-ad-hoc-committee-on-ai-use-in-teaching-learning-and-research-training.md]] MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training `pillar:capabilities` `score:0.305`
 - [[mlc-aiweb-llm.md]] mlc-ai/web-llm `pillar:capabilities` `score:0.615`
@@ -1227,6 +1239,7 @@
 - [[openais-new-reasoning-technique-alarms-ai-safety-experts.md]] OpenAI’s new reasoning technique alarms AI safety experts `pillar:capabilities` `score:0.305`
 - [[openarch-pytorch-implementations-of-modern-llm-architectures.md]] OpenArch – PyTorch implementations of modern LLM architectures `pillar:capabilities` `score:0.305`
 - [[opendlss-a-vulkan-reimplementation-of-nvidias-dlss-5-neural-rendering-network.md]] OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network `pillar:capabilities` `score:0.425`
+- [[opentpu-an-open-source-ai-accelerator-developed-by-ai.md]] OpenTPU – An open-source AI accelerator, developed by AI `pillar:capabilities` `score:0.455`
 - [[opus-55-is-good-at-explainer-videos.md]] Opus 5.5 is good at explainer videos `pillar:capabilities` `score:0.355`
 - [[opus-55-loves-to-tell-you-8216this-matters8217-and-other-ai-writing-tells.md]] Opus 5.5 loves to tell you &#8216;this matters&#8217; (and other AI writing tell `pillar:capabilities` `score:0.305`
 - [[oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center.md]] Oracle sends force majeure notice on its New Mexico Stargate data center `pillar:capabilities` `score:0.305`
@@ -1255,12 +1268,14 @@
 - [[partialstring-a-finite-difference-time-domain-physical-modelling-synthesiser.md]] PartialString – A finite-difference time-domain physical modelling synthesiser `pillar:capabilities` `score:0.26`
 - [[passkeys-were-invented-by-engineers-with-zero-understanding-of-consumer-brain.md]] Passkeys were invented by engineers with zero understanding of consumer brain `pillar:capabilities` `score:0.63`
 - [[peak-xv-ups-surge-seed-investment-ceiling-to-5m-unveils-18-startup-cohort.md]] Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort `pillar:capabilities` `score:0.305`
+- [[penguin-mail-open-source-rust-email-client-for-linux-with-ai.md]] Penguin Mail – open-source Rust email client for Linux with AI `pillar:capabilities` `score:0.305`
 - [[pentagons-blacklisting-of-anthropic-was-unlawful-us-judge-rules.md]] Pentagon's blacklisting of Anthropic was unlawful, US judge rules `pillar:capabilities` `score:0.425`
 - [[people-who-cant-picture-anything-are-rewriting-the-science-of-imagination.md]] People who can't picture anything are rewriting the science of imagination `pillar:capabilities` `score:0.325`
 - [[petals-run-llms-at-home-bittorrent-style.md]] Petals: Run LLMs at home, BitTorrent-style `pillar:capabilities` `score:0.43`
 - [[peter-cullen-voice-of-optimus-prime-in-transformers-dies-at-85.md]] Peter Cullen, Voice of Optimus Prime in 'Transformers,' Dies at 85 `pillar:capabilities` `score:0.205`
 - [[pgsimcity-an-explorable-3d-model-that-shows-how-postgres-works.md]] PGSimCity – an explorable 3D model that shows how Postgres works `pillar:capabilities` `score:0.225`
 - [[pinterest-launches-an-experimental-ai-shopping-app-called-8216ask-pinterest8217.md]] Pinterest launches an experimental AI shopping app called &#8216;Ask Pinterest&# `pillar:capabilities` `score:0.48`
+- [[pinterest8217s-ai-now-turns-beauty-pins-into-action-plans.md]] Pinterest&#8217;s AI now turns beauty Pins into action plans `pillar:capabilities` `score:0.305`
 - [[pirate-face-rescues-llm-models-from-deletion.md]] Pirate Face Rescues LLM Models from Deletion `pillar:capabilities` `score:0.425`
 - [[pixi8217s-new-ios-app-turns-text-messages-into-interactive-ar-experiences.md]] Pixi&#8217;s new iOS app turns text messages into interactive AR experiences `pillar:capabilities` `score:0.445`
 - [[playing-with-vision-embeddings.md]] Playing with Vision Embeddings `pillar:capabilities` `score:0.345`
@@ -1401,6 +1416,7 @@
 - [[sgl-projectsglang.md]] sgl-project/sglang `pillar:capabilities` `score:0.615`
 - [[shall-we-play-a-game-llms-use-tactical-nukes-in-95-of-simulations.md]] Shall we play a game? – LLMs use tactical nukes in 95% of simulations `pillar:capabilities` `score:0.48`
 - [[shapshap.md]] shap/shap `pillar:capabilities` `score:0.615`
+- [[sharing-ai-progress-in-mathematics.md]] Sharing AI progress in mathematics `pillar:capabilities` `score:0.505`
 - [[shepherds-dog-a-game-by-the-most-dangerous-ai-model.md]] Shepherd's Dog: A Game by the Most Dangerous AI Model `pillar:capabilities` `score:0.445`
 - [[shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option.md]] Shield AI, Waabi, and General Motors on building AI when failure is not an optio `pillar:capabilities` `score:0.305`
 - [[shift-will-clean-homes-for-free-to-train-future-robots.md]] Shift will clean homes for free to train future robots `pillar:capabilities` `score:0.43`
@@ -1653,6 +1669,7 @@
 - [[steve-wozniak-cheered-after-telling-students-they-have-ai-actual-intelligence.md]] Steve Wozniak cheered after telling students they have AI – actual intelligence `pillar:capabilities` `score:0.595`
 - [[stopping-the-smart-tv-from-being-used-against-you.md]] Stopping the smart TV from being used against you `pillar:capabilities` `score:0.255`
 - [[strace-ui-bonsai_term-and-the-tui-renaissance.md]] Strace-ui, Bonsai_term, and the TUI renaissance `pillar:capabilities` `score:0.345`
+- [[strands-decider-2b-a-small-open-source-decision-model.md]] Strands Decider 2B: a small, open-source, decision model `pillar:capabilities` `score:0.205`
 - [[stress-disrupts-hippocampal-integration-of-overlapping-events-memory-inference.md]] Stress disrupts hippocampal integration of overlapping events, memory inference `pillar:capabilities` `score:0.345`
 - [[stripe-said-to-abandon-50b-pursuit-of-paypal.md]] Stripe said to abandon $50B pursuit of PayPal `pillar:capabilities` `score:0.405`
 - [[stripes-knowledge-ai-platform.md]] Stripe's Knowledge AI Platform `pillar:capabilities` `score:0.355`
@@ -1893,6 +1910,7 @@
 - [[using-kagi-search-with-low-vision.md]] Using Kagi Search with Low Vision `pillar:capabilities` `score:0.275`
 - [[using-llms-to-trace-alchemical-knowledge-and-decode-17th-century-letters.md]] Using LLMs to trace alchemical knowledge and decode 17th century letters `pillar:capabilities` `score:0.205`
 - [[using-the-railway-network-as-a-flatbed-scanner-video.md]] Using the railway network as a flatbed scanner [video] `pillar:capabilities` `score:0.155`
+- [[utah-to-let-ai-examine-patients-and-prescribe-medication-without-human-oversight.md]] Utah to let AI examine patients and prescribe medication without human oversight `pillar:capabilities` `score:0.325`
 - [[vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai.md]] Vals, backed by Andreessen Horowitz, is looking to become the gold standard for `pillar:capabilities` `score:0.305`
 - [[various-llm-smells.md]] Various LLM Smells `pillar:capabilities` `score:0.515`
 - [[vector-graphics-in-lil.md]] Vector Graphics in Lil `pillar:capabilities` `score:0.26`
@@ -2014,6 +2032,7 @@
 - [[2-aspq-programs-with-weak-constraints-complexity-and-efficient-implementation.md]] 2-ASP(Q) programs with weak constraints: Complexity and efficient implementation `pillar:capabilities` `score:0.375`
 - [[3d-aware-vlms-with-implicit-and-explicit-geometries.md]] 3D-Aware VLMs with Implicit and Explicit Geometries `pillar:capabilities` `score:0.48`
 - [[3d-point-splatting-for-mmwave-radar-novel-view-synthesis.md]] 3D Point Splatting for mmWave Radar Novel View Synthesis `pillar:capabilities` `score:0.305`
+- [[4d-hof-hand-object-flow-matching-for-feed-forward-4d-interaction-reconstruction.md]] 4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction `pillar:capabilities` `score:0.305`
 - [[4dr360-state-reasoning-for-joint-3d-detection-and-occupancy-prediction-in-4d-rad.md]] 4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Ra `pillar:capabilities` `score:0.395`
 - [[a-blueprint-for-equilibrium-based-differentiable-continuous-variable-thermodynam.md]] A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynam `pillar:capabilities` `score:0.43`
 - [[a-chosen-future-can-still-be-rewritten-causal-writability-in-video-models.md]] A Chosen Future Can Still Be Rewritten: Causal Writability in Video Models `pillar:capabilities` `score:0.305`
@@ -2049,9 +2068,11 @@
 - [[adaptive-volumetric-mechanical-property-fields-invariant-to-resolution.md]] Adaptive Volumetric Mechanical Property Fields Invariant to Resolution `pillar:capabilities` `score:0.48`
 - [[advancing-interaction-sensitive-feature-selection-novel-relief-based-algorithms.md]] Advancing Interaction-Sensitive Feature Selection: Novel Relief-Based Algorithms `pillar:capabilities` `score:0.255`
 - [[advisd-learning-to-advise-frontier-llms-via-targeted-multi-turn-self-distillatio.md]] AdviSD: Learning to Advise Frontier LLMs via Targeted Multi-Turn Self-Distillati `pillar:capabilities` `score:0.305`
+- [[advsim2real-training-web-agents-against-adaptive-prompt-injection-in-a-web-world.md]] AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web Wor `pillar:capabilities` `score:0.305`
 - [[aero-hand-open-a-simulation-ready-tendon-driven-hand-for-dexterous-manipulation.md]] Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation `pillar:capabilities` `score:0.255`
 - [[affective-music-recommendation-a-rollout-based-world-model-for-offline-preferenc.md]] Affective Music Recommendation: A Rollout-Based World Model for Offline Preferen `pillar:capabilities` `score:0.48`
 - [[agent-editing-world-model-rethinking-world-modeling-for-llm-agents.md]] Agent-Editing World Model: Rethinking World Modeling for LLM Agents `pillar:capabilities` `score:0.305`
+- [[agent-in-a-bottle-can-llm-agents-turn-their-capabilities-into-cheap-scalable-art.md]] Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable A `pillar:capabilities` `score:0.305`
 - [[agenthpobench-a-benchmark-for-evaluating-llm-agents-as-sequential-hyperparameter.md]] AgentHPOBench: A Benchmark For Evaluating LLM Agents as Sequential Hyperparamete `pillar:capabilities` `score:0.43`
 - [[agentic-autoresearch-for-cell-edge-power-control-radically-redefining-the-resear.md]] Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Resea `pillar:capabilities` `score:0.305`
 - [[agentic-chain-of-thought-steering-for-efficient-and-controllable-llm-reasoning.md]] Agentic Chain-of-Thought Steering for Efficient and Controllable LLM Reasoning `pillar:capabilities` `score:0.515`
@@ -2221,6 +2242,7 @@
 - [[denial-of-deadline-network-driven-accuracy-collapse-in-distributed-inference-pip.md]] Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pi `pillar:capabilities` `score:0.445`
 - [[dense-supervision-sparse-updates-on-the-sparsity-and-geometry-of-on-policy-disti.md]] Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Dis `pillar:capabilities` `score:0.445`
 - [[depthweave-kv-token-adaptive-cross-layer-residual-factorization-for-long-context.md]] DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Contex `pillar:capabilities` `score:0.48`
+- [[depthworld-3d-world-model-for-robot-manipulation.md]] DepthWorld: 3D World Model for Robot Manipulation `pillar:capabilities` `score:0.305`
 - [[dexcompose-reusing-dexterous-policies-for-multi-task-manipulation-with-a-single.md]] DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single `pillar:capabilities` `score:0.36`
 - [[dexholdem-playing-texas-holdem-with-dexterous-embodied-system.md]] DexHoldem: Playing Texas Hold'em with Dexterous Embodied System `pillar:capabilities` `score:0.445`
 - [[dextacwam-a-visuo-tactile-world-action-model-for-dexterous-manipulation.md]] DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation `pillar:capabilities` `score:0.305`
@@ -2396,6 +2418,7 @@
 - [[hump-kd-a-hybrid-uncertainty-aware-multi-stage-progressive-knowledge-distillatio.md]] HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillati `pillar:capabilities` `score:0.395`
 - [[ibib-a-protocol-for-measuring-enterprise-ai-systems-by-serving-route-not-model-i.md]] IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model `pillar:capabilities` `score:0.305`
 - [[icon-decomposition-multivariate-concept-level-explanations-of-deep-representatio.md]] ICON Decomposition: Multivariate Concept-Level Explanations of Deep Representati `pillar:capabilities` `score:0.305`
+- [[ideaanchor-teaching-llms-to-turn-literature-into-research-ideas.md]] IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas `pillar:capabilities` `score:0.305`
 - [[ideas-have-genomes-benchmarking-scientific-lineage-reasoning-and-lineage-grounde.md]] Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Ground `pillar:capabilities` `score:0.48`
 - [[identifying-representational-biases-in-datasets-using-pca-a-max-disparity-partit.md]] Identifying Representational Biases in Datasets Using PCA: A Max-Disparity Parti `pillar:capabilities` `score:0.305`
 - [[illumination-robust-camera-based-heart-rate-estimation-for-physiological-sensing.md]] Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological Sensing `pillar:capabilities` `score:0.445`
@@ -2531,6 +2554,7 @@
 - [[network-recovery-from-cascade-data-a-debiased-jacobian-based-machine-learning-ap.md]] Network Recovery from Cascade Data: A Debiased Jacobian-Based Machine Learning A `pillar:capabilities` `score:0.395`
 - [[neural-harmonic-measure-operator.md]] Neural Harmonic Measure Operator `pillar:capabilities` `score:0.305`
 - [[neural-operator-enabled-topology-informed-evolutionary-strategy-for-pde-constrai.md]] Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrai `pillar:capabilities` `score:0.445`
+- [[neural-petri-flows-for-chemical-reactions.md]] Neural Petri flows for chemical reactions `pillar:capabilities` `score:0.305`
 - [[neuron-populations-exhibit-divergent-selectivity-with-scale.md]] Neuron Populations Exhibit Divergent Selectivity with Scale `pillar:capabilities` `score:0.41`
 - [[neurosymbolic-auditing-of-natural-language-software-requirements.md]] Neurosymbolic Auditing of Natural-Language Software Requirements `pillar:capabilities` `score:0.48`
 - [[new-bounds-for-the-last-iterate-of-the-stochastic-subgradient-method.md]] New Bounds for the Last Iterate of the Stochastic subGradient Method `pillar:capabilities` `score:0.34`
@@ -2636,6 +2660,7 @@
 - [[pseudorandom-streams-within-diffusion-models-act-as-learnable-inputs-that-affect.md]] Pseudorandom Streams within Diffusion Models Act as Learnable Inputs That Affect `pillar:capabilities` `score:0.445`
 - [[ptl-diffusion-manifold-aware-diffusion-with-periodic-terminal-laws.md]] PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws `pillar:capabilities` `score:0.48`
 - [[qasp-query-adaptive-robust-vector-search-policy.md]] QASP: Query-Adaptive Robust Vector Search Policy `pillar:capabilities` `score:0.43`
+- [[qf3-fast-flow-rl-with-filtered-q-gradients.md]] QF3: Fast Flow RL with Filtered Q-Gradients `pillar:capabilities` `score:0.305`
 - [[qgpinns-a-physics-informed-neural-network-framework-for-nonlocal-differential-eq.md]] QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential E `pillar:capabilities` `score:0.255`
 - [[qlam-a-quantum-long-attention-memory-approach-to-long-sequence-token-modeling.md]] QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling `pillar:capabilities` `score:0.48`
 - [[qlora-fine-tuning-of-ministral-llm-for-sequence-to-function-protein-annotation.md]] QLoRA Fine-Tuning of Ministral LLM for Sequence-to-Function Protein Annotation `pillar:capabilities` `score:0.305`
@@ -2650,6 +2675,7 @@
 - [[qval-cheaply-evaluating-dense-supervision-signals-for-long-horizon-llm-agents.md]] QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents `pillar:capabilities` `score:0.48`
 - [[r-dmesh-video-guided-3d-animation-via-rectified-dynamic-mesh-flow.md]] R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow `pillar:capabilities` `score:0.48`
 - [[ranking-aware-prompt-optimization-for-multimodal-clinical-diagnosis.md]] Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis `pillar:capabilities` `score:0.305`
+- [[rapid-fredholm-stabilization-of-the-kuramoto-sivashinsky-equation-with-unrestric.md]] Rapid Fredholm stabilization of the Kuramoto--Sivashinsky equation with unrestri `pillar:capabilities` `score:0.305`
 - [[rapid-robot-agentic-programming-from-demonstrations.md]] RAPID: Robot Agentic Programming from Demonstrations `pillar:capabilities` `score:0.305`
 - [[rare-event-estimation-via-iterative-unalignment.md]] Rare Event Estimation via Iterative Unalignment `pillar:capabilities` `score:0.305`
 - [[re-thinking-mammography-transfer-learning-the-dataset-informed-transfer-learning.md]] Re-thinking Mammography Transfer Learning: The Dataset-Informed Transfer Learnin `pillar:capabilities` `score:0.48`
@@ -2867,6 +2893,7 @@
 - [[vector-policy-optimization-training-for-diversity-improves-test-time-search.md]] Vector Policy Optimization: Training for Diversity Improves Test-Time Search `pillar:capabilities` `score:0.445`
 - [[vector-search-as-nearest-neighbor-matching-rag-based-policy-learning-in-causal-i.md]] Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal `pillar:capabilities` `score:0.48`
 - [[velocityformer-broken-symmetry-matched-equivariant-graph-transformers-for-cosmol.md]] Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmo `pillar:capabilities` `score:0.34`
+- [[verifine-scaling-verification-for-self-improvement-in-embodied-reasoning.md]] VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning `pillar:capabilities` `score:0.305`
 - [[vgb-for-masked-diffusion-model-efficient-test-time-scaling-for-reward-satisfacti.md]] VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfact `pillar:capabilities` `score:0.43`
 - [[vggt-edit-feed-forward-native-3d-scene-editing-with-residual-field-prediction.md]] VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction `pillar:capabilities` `score:0.445`
 - [[vials-a-benchmark-for-visual-interpretation-of-artifacts-in-the-life-sciences.md]] VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences `pillar:capabilities` `score:0.255`
@@ -2910,6 +2937,7 @@
 - [[world-from-motion-generative-dynamic-gaussian-reconstruction-from-monocular-vide.md]] World from Motion: Generative Dynamic Gaussian Reconstruction from Monocular Vid `pillar:capabilities` `score:0.48`
 - [[worldauditbench-interactive-3d-world-auditing-with-multimodal-agents.md]] WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents `pillar:capabilities` `score:0.305`
 - [[worldcrafter-consistent-video-world-model-with-implicit-3d-aware-memory.md]] WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory `pillar:capabilities` `score:0.305`
+- [[worldsonus-bringing-sound-to-worlds.md]] WorldSonus: Bringing Sound to Worlds `pillar:capabilities` `score:0.305`
 - [[you-only-need-minimal-rlvr-training-extrapolating-llms-via-rank-1-trajectories.md]] You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories `pillar:capabilities` `score:0.48`
 - [[zero-shot-imagined-speech-decoding-via-imagined-to-listened.md]] Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping `pillar:capabilities` `score:0.255`
 - [[β-opsd-deriving-with-policy-optimization-training-with-self-distillation.md]] $β$-OPSD: Deriving with Policy Optimization, Training with Self-Distillation `pillar:capabilities` `score:0.445`
@@ -3138,6 +3166,7 @@
 - [[handbookmd-shows-that-long-policy-documents-do-not-reliably-govern-agents.md]] Handbook.md shows that long policy documents do not reliably govern agents `pillar:patterns` `score:0.53`
 - [[handsonllmhands-on-large-language-models.md]] HandsOnLLM/Hands-On-Large-Language-Models `pillar:patterns` `score:0.58`
 - [[hardening-firefox-with-claude-mythos-preview.md]] Hardening Firefox with Claude Mythos Preview `pillar:patterns` `score:0.53`
+- [[hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy.md]] Hark releases an AI personal assistant with a focus on privacy `pillar:patterns` `score:0.305`
 - [[harness-engineering-leveraging-codex-in-an-agent-first-world.md]] Harness engineering: Leveraging Codex in an agent-first world `pillar:patterns` `score:0.53`
 - [[harnesstax-how-much-does-the-harness-matter-for-coding-agents.md]] HarnessTax: How Much Does the Harness Matter for Coding Agents? `pillar:patterns` `score:0.305`
 - [[harry0703moneyprinterturbo.md]] harry0703/MoneyPrinterTurbo `pillar:patterns` `score:0.615`
@@ -3438,6 +3467,7 @@
 - [[show-hn-i-rl-trained-an-agent-that-trains-models-with-rl-for-13k.md]] Show HN: I RL-trained an agent that trains models with RL (for –$1.3k) `pillar:patterns` `score:0.43`
 - [[show-hn-i-trained-a-125m-model-to-autocomplete-piano-on-device.md]] Show HN: I trained a 125M model to autocomplete piano on-device `pillar:patterns` `score:0.475`
 - [[show-hn-isle-managed-application-environments-for-computer-use-agents.md]] Show HN: Isle – managed application environments for computer-use agents `pillar:patterns` `score:0.155`
+- [[show-hn-jotbus-a-shared-encrypted-scratchpad-for-coding-agents.md]] Show HN: Jotbus – a shared encrypted scratchpad for coding agents `pillar:patterns` `score:0.155`
 - [[show-hn-kanban-cli-a-local-first-agent-first-task-manager-for-the-terminal.md]] Show HN: Kanban CLI (A local-first, agent-first task manager for the terminal) `pillar:patterns` `score:0.33`
 - [[show-hn-kastor-terraform-style-specs-for-ai-agents.md]] Show HN: Kastor – Terraform-style specs for AI agents `pillar:patterns` `score:0.33`
 - [[show-hn-komi-learn-continuous-memory-and-self-improvement-for-coding-agents.md]] Show HN: Komi-learn – continuous memory and self-improvement for coding agents `pillar:patterns` `score:0.33`
@@ -3522,6 +3552,7 @@
 - [[sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us.md]] SK Hynix reportedly in talks with Intel to build memory chips in US `pillar:patterns` `score:0.305`
 - [[smallestai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human.md]] Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human `pillar:patterns` `score:0.305`
 - [[snap-says-its-400m-deal-with-perplexity-8216am.md]] Snap says its $400M deal with Perplexity &#8216;amicably ended&#8217; `pillar:patterns` `score:0.3`
+- [[south-korea-says-ai-agents-appear-to-have-been-used-to-hack-the-countrys-banks.md]] South Korea says AI agents appear to have been used to hack the country's banks `pillar:patterns` `score:0.205`
 - [[sqlite-is-a-library-of-congress-recommended-storag.md]] SQLite Is a Library of Congress Recommended Storage Format `pillar:patterns` `score:0.4`
 - [[stefan-jansenmachine-learning-for-trading.md]] stefan-jansen/machine-learning-for-trading `pillar:patterns` `score:0.51`
 - [[stop-telling-me-to-ask-an-llm.md]] Stop Telling Me to Ask an LLM `pillar:patterns` `score:0.6`
@@ -3546,6 +3577,7 @@
 - [[the-low-tech-ai-of-elden-ring.md]] The Low-Tech AI of Elden Ring `pillar:patterns` `score:0.395`
 - [[the-most-interesting-startups-right-now-want-to-get-you-off-your-phone.md]] The most interesting startups right now want to get you off your phone `pillar:patterns` `score:0.41`
 - [[the-new-cc-an-ai-agent-built-for-families.md]] The new CC, an AI agent built for families `pillar:patterns` `score:0.205`
+- [[the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in.md]] The next hurdle for AI agents: getting websites to let them in `pillar:patterns` `score:0.305`
 - [[the-pocketpocketflow.md]] The-Pocket/PocketFlow `pillar:patterns` `score:0.58`
 - [[the-productivity-mirage.md]] The Productivity Mirage `pillar:patterns` `score:0.43`
 - [[the-rise-and-fall-of-agent-civilizations.md]] The Rise and Fall of Agent Civilizations `pillar:patterns` `score:0.355`
@@ -3652,6 +3684,7 @@
 - [[coding-agents-with-an-obstacle-aware-harness-for-safe-robot-manipulation.md]] Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation `pillar:patterns` `score:0.305`
 - [[cogentic-multi-agent-orchestration-for-automated-proof-discovery.md]] Cogentic: Multi-Agent Orchestration for Automated Proof Discovery `pillar:patterns` `score:0.305`
 - [[cognitive-extensions-for-dual-process-language-agents-memory-and-self-reflection.md]] Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflectio `pillar:patterns` `score:0.305`
+- [[conformal-prediction-sets-quantify-information-gain-a-theoretical-perspective.md]] Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective `pillar:patterns` `score:0.305`
 - [[constant-individual-regret-in-general-games.md]] Constant Individual Regret in General Games `pillar:patterns` `score:0.305`
 - [[critical-state-rl-diagnosing-trainable-states-for-multi-turn-tool-use.md]] Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use `pillar:patterns` `score:0.305`
 - [[data-intelligence-agents-interpreting-modeling-and-querying-enterprise-data-via.md]] Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data v `pillar:patterns` `score:0.515`
@@ -3915,6 +3948,7 @@
 - [[launch-hn-traceforce-yc-s26-company-wide-security-monitoring-for-ai-apps.md]] Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps `pillar:ecosystem` `score:0.33`
 - [[learnings-from-100k-lines-of-rust-with-ai-2025.md]] Learnings from 100K lines of Rust with AI (2025) `pillar:ecosystem` `score:0.515`
 - [[librarians-are-hosting-viral-8216avoiding-ai8217-workshops-for-people-who-are-fe.md]] Librarians are hosting viral &#8216;Avoiding AI&#8217; workshops for people who `pillar:ecosystem` `score:0.445`
+- [[libreoffice-says-8216no-ai8217-is-now-a-software-feature.md]] LibreOffice says &#8216;no AI&#8217; is now a software feature `pillar:ecosystem` `score:0.305`
 - [[linux-security-mailing-list-almost-unmanageable.md]] Linux security mailing list 'almost unmanageable' `pillar:ecosystem` `score:0.495`
 - [[llmorphism-when-humans-come-to-see-themselves-as.md]] LLMorphism: When humans come to see themselves as language models `pillar:ecosystem` `score:0.43`
 - [[lorde-says-ai-glasses-are-8216not-sexy8217.md]] Lorde says AI glasses are &#8216;not sexy&#8217; `pillar:ecosystem` `score:0.445`
@@ -4287,6 +4321,7 @@
 - [[rolling-wam-world-action-models-with-rolling-imagination.md]] Rolling-WAM: World Action Models with Rolling Imagination `pillar:ecosystem` `score:0.305`
 - [[rubricstree-scalable-and-evolving-open-ended-evaluation-of-personal-health-agent.md]] RubricsTree: Scalable and Evolving Open-Ended Evaluation of Personal Health Agen `pillar:ecosystem` `score:0.445`
 - [[semantic-pareto-dqn-a-multi-objective-reinforcement-learning-framework-for-finan.md]] Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Fina `pillar:ecosystem` `score:0.255`
+- [[sherpa-teaching-llms-to-teach-adaptively.md]] Sherpa: Teaching LLMs to Teach Adaptively `pillar:ecosystem` `score:0.305`
 - [[skill-rm-unifying-heterogeneous-evaluation-criteria-via-agent-skill.md]] Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill `pillar:ecosystem` `score:0.305`
 - [[skillcenter-a-large-scale-source-grounded-skill-library-for-autonomous-ai-agents.md]] SkillCenter: A Large-Scale Source-Grounded Skill Library for Autonomous AI Agent `pillar:ecosystem` `score:0.48`
 - [[skillful-forecasting-of-offshore-winds-from-satellite-scatterometer-constellatio.md]] Skillful forecasting of offshore winds from satellite scatterometer constellatio `pillar:ecosystem` `score:0.305`
@@ -4347,6 +4382,7 @@
 - [[ai-companies-are-trying-to-hide-a-staggering-amount-of-debt.md]] AI Companies Are Trying to Hide a Staggering Amount of Debt `pillar:business` `score:0.565`
 - [[ai-companies-spend-record-sums-on-washington-lobbying.md]] AI companies spend record sums on Washington lobbying `pillar:business` `score:0.345`
 - [[ai-compute-provider-nscale-is-looking-for-35b-in-pre-ipo-financing.md]] AI compute provider Nscale is looking for $3.5B in pre-IPO financing `pillar:business` `score:0.305`
+- [[ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo.md]] AI computing startup Lambda to raise $4B ahead of planned IPO `pillar:business` `score:0.305`
 - [[ai-eats-the-world-spring-26-pdf.md]] AI eats the world (Spring 26) [pdf] `pillar:business` `score:0.53`
 - [[ai-inference-startup-baseten-reportedly-raising-15b-months-after-its-last-mega-r.md]] AI inference startup Baseten reportedly raising $1.5B months after its last mega `pillar:business` `score:0.48`
 - [[ai-needs-6t-in-annual-revenue-to-justify-data-centre-boom.md]] AI needs $6T in annual revenue to justify data centre boom `pillar:business` `score:0.155`

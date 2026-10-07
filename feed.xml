@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 06 Oct 2026 12:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 04:00:30 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -18,6 +18,22 @@
       <guid isPermaLink="false">anthropic-reported-diary-entry-to-police-woman-faces-felony-charge</guid>
       <pubDate>2026-10-06T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons</title>
+      <link>https://news.ycombinator.com/item?id=49971846</link>
+      <guid isPermaLink="false">chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons</guid>
+      <pubDate>2026-10-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Dust: Pretraining Transformers Without Backpropagation</title>
+      <link>https://news.ycombinator.com/item?id=49970871</link>
+      <guid isPermaLink="false">dust-pretraining-transformers-without-backpropagation</guid>
+      <pubDate>2026-10-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -146,6 +162,110 @@
       <guid isPermaLink="false">the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywher</guid>
       <pubDate>2026-10-06T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>An algorithmic failure beneath the secret ballot</title>
+      <link>https://news.ycombinator.com/item?id=49945588</link>
+      <guid isPermaLink="false">an-algorithmic-failure-beneath-the-secret-ballot</guid>
+      <pubDate>2026-10-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Direct Intermediate Initialization for Tilted Diffusion Samplers</title>
+      <link>http://arxiv.org/abs/2610.06834v1</link>
+      <guid isPermaLink="false">direct-intermediate-initialization-for-tilted-diffusion-samplers</guid>
+      <pubDate>2026-10-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Some diffusion posterior samplers construct Gaussian-tilted intermediate distributions along the reverse process. We observe that these targets can be pulled back to clean-space posteriors with weaker conditioning, with samples transported analytically to the corresponding noisy-space target through</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling</title>
+      <link>http://arxiv.org/abs/2610.06829v1</link>
+      <guid isPermaLink="false">clift-conformal-self-verification-for-web-agent-training-and-test-time-scaling</guid>
+      <pubDate>2026-10-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Open-source web agents are now strong enough to execute realistic browser tasks, but training them with reinforcement learning still depends on weak supervision: binary task success is too sparse for credit assignment, while frontier-language-model judges are too expensive to call at every step and</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents</title>
+      <link>http://arxiv.org/abs/2610.06830v1</link>
+      <guid isPermaLink="false">mempilot-orchestrating-on-demand-multimodal-memory-curation-for-llm-agents</guid>
+      <pubDate>2026-10-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Memory has become integral to the LLM agent ecosystem, supporting information retention and reuse across interactions. However, most existing agent memory systems construct memory in a query-agnostic manner, which can incur unnecessary preprocessing cost and discard details that later prove essentia</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>TasteVal: Measuring the Experimental Research Taste of AI Systems Against Human</title>
+      <link>http://arxiv.org/abs/2610.06824v1</link>
+      <guid isPermaLink="false">tasteval-measuring-the-experimental-research-taste-of-ai-systems-against-human-e</guid>
+      <pubDate>2026-10-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>We introduce TasteVal, a benchmark to evaluate the experimental research taste of frontier models. We define research taste as the ability to pick interesting problems to solve, design experiments, and interpret experimental results. TasteVal measures the experimental component of research taste; gi</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>UniSlider: Perceptually Uniform Sliders for Continuous Image Editing</title>
+      <link>http://arxiv.org/abs/2610.06831v1</link>
+      <guid isPermaLink="false">unislider-perceptually-uniform-sliders-for-continuous-image-editing</guid>
+      <pubDate>2026-10-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Sliders provide an intuitive interface for continuous image editing. In current generative approaches, however, the slider is simply a rescaling of the method's strength parameter, such as an adapter coefficient, a prompt weight, or an interpolation factor. This strength relates poorly to perceptual</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Towards Looped Models Done Right, Part II: Rethinking at Fixed Points</title>
+      <link>http://arxiv.org/abs/2610.06833v1</link>
+      <guid isPermaLink="false">towards-looped-models-done-right-part-ii-rethinking-at-fixed-points</guid>
+      <pubDate>2026-10-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Every recurrence of a looped language model adds cost in training, decoding, prefill, and reinforcement learning (RL). The closer recurrent states get to fixed points, the less the path to them matters. This enables truncated backpropagation in training; terminal key-value (KV) sharing for decoding</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Learning to Read the Contextual Tokens in Diffusion Transformers</title>
+      <link>http://arxiv.org/abs/2610.06844v1</link>
+      <guid isPermaLink="false">learning-to-read-the-contextual-tokens-in-diffusion-transformers</guid>
+      <pubDate>2026-10-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, forming dynamic contextual tokens whose function is not well understood. In this work, we introduce a fra</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Deep Learning for Sleep Heart Rate Estimation from Accelerometers: Toward Popula</title>
+      <link>http://arxiv.org/abs/2610.06823v1</link>
+      <guid isPermaLink="false">deep-learning-for-sleep-heart-rate-estimation-from-accelerometers-toward-populat</guid>
+      <pubDate>2026-10-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Large longitudinal cohorts often contain wrist accelerometry without optical heart-rate sensing, motivating recovery of cardiac information from motion signals already collected during sleep. We present SeqSmoother, a transformer-based temporal corrector for sleep heart rate (HR) estimation from wri</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Base Models Can Reason By Taking a Cue From Training Data</title>
+      <link>http://arxiv.org/abs/2610.06851v1</link>
+      <guid isPermaLink="false">base-models-can-reason-by-taking-a-cue-from-training-data</guid>
+      <pubDate>2026-10-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing particular starting token cues makes a base model's performance competitive with that of its reinforcem</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Recursive Video In-Context Learning for Agentic Robot</title>
+      <link>http://arxiv.org/abs/2610.06843v1</link>
+      <guid isPermaLink="false">recursive-video-in-context-learning-for-agentic-robot</guid>
+      <pubDate>2026-10-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, which records what the agent did but not how the task is done. A demonstration video shows it, but fits poorly into an agent's context. The full video slows every turn, fixed keyfram</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline</title>
+      <link>http://arxiv.org/abs/2610.06852v1</link>
+      <guid isPermaLink="false">one-figure-every-canvas-editable-flowchart-relayout-via-agentic-pipeline</guid>
+      <pubDate>2026-10-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different aspect ratio on the same computational graph, where any silently broken connection misrepresents the</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature</title>
+      <link>http://arxiv.org/abs/2610.06846v1</link>
+      <guid isPermaLink="false">biasflow-geometric-monitoring-and-backbone-regularization-for-spurious-feature-r</guid>
+      <pubDate>2026-10-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitoring class-attribute centroid alignment (IBMI), within-class centroid separation (W-IBMI), and feature-</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -278,139 +398,19 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Using A.I. and machine learning to decode communication of sperm whales</title>
+      <link>https://news.ycombinator.com/item?id=49952464</link>
+      <guid isPermaLink="false">using-ai-and-machine-learning-to-decode-communication-of-sperm-whales</guid>
+      <pubDate>2026-10-06T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>ExplainDB: A Database System Built for Understandability</title>
       <link>https://news.ycombinator.com/item?id=49924795</link>
       <guid isPermaLink="false">explaindb-a-database-system-built-for-understandability</guid>
       <pubDate>2026-10-06T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Why Plain Text Is Still One of the Best Technologies We Have</title>
-      <link>https://news.ycombinator.com/item?id=49968906</link>
-      <guid isPermaLink="false">why-plain-text-is-still-one-of-the-best-technologies-we-have</guid>
-      <pubDate>2026-10-06T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Pumpkins.sh – claim, carve, and display a pumpkin to the world</title>
-      <link>https://pumpkins.sh/</link>
-      <guid isPermaLink="false">show-hn-pumpkinssh-claim-carve-and-display-a-pumpkin-to-the-world</guid>
-      <pubDate>2026-10-06T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Trump unveils his new Super Intelligence Force</title>
-      <link>https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/</link>
-      <guid isPermaLink="false">trump-unveils-his-new-super-intelligence-force</guid>
-      <pubDate>2026-10-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>This new task force is Trump's latest response to the debate over AI safety.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?</title>
-      <link>https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/</link>
-      <guid isPermaLink="false">can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem</guid>
-      <pubDate>2026-10-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>On Equity, we discussed the Trump administration's attempts to rebrand AI.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Google froze its open source bug bounty program due to a &amp;#8216;significant rise</title>
-      <link>https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/</link>
-      <guid isPermaLink="false">google-froze-its-open-source-bug-bounty-program-due-to-a-8216significant-rise821</guid>
-      <pubDate>2026-10-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>AI slop seems to be overwhelming bug bounty programs.</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Powerless F1 drivers frustrated by Bahrain F1 software glitch</title>
-      <link>https://news.ycombinator.com/item?id=49959869</link>
-      <guid isPermaLink="false">powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch</guid>
-      <pubDate>2026-10-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: AI search for every photo and every frame of video on macOS</title>
-      <link>https://news.ycombinator.com/item?id=49952111</link>
-      <guid isPermaLink="false">show-hn-ai-search-for-every-photo-and-every-frame-of-video-on-macos</guid>
-      <pubDate>2026-10-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>What's the future for pure math research in the age of AI?</title>
-      <link>https://news.ycombinator.com/item?id=49951641</link>
-      <guid isPermaLink="false">whats-the-future-for-pure-math-research-in-the-age-of-ai</guid>
-      <pubDate>2026-10-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Building a RAG pipeline for semantic code search</title>
-      <link>https://news.ycombinator.com/item?id=49956148</link>
-      <guid isPermaLink="false">building-a-rag-pipeline-for-semantic-code-search</guid>
-      <pubDate>2026-10-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN</title>
-      <link>https://awesomedataviz.com/</link>
-      <guid isPermaLink="false">show-hn-dataviz-ranked-daily-from-github-npm-pypi-and-cran</guid>
-      <pubDate>2026-10-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Homa: The end of TCP for AI clusters [video]</title>
-      <link>https://news.ycombinator.com/item?id=49957117</link>
-      <guid isPermaLink="false">homa-the-end-of-tcp-for-ai-clusters-video</guid>
-      <pubDate>2026-10-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs</title>
-      <link>https://news.ycombinator.com/item?id=49935038</link>
-      <guid isPermaLink="false">magic-switch-share-apple-magic-keyboardtrack-padmouse-between-two-macs</guid>
-      <pubDate>2026-10-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>How to scale intent, quality, and artistry with AI [video]</title>
-      <link>https://news.ycombinator.com/item?id=49951891</link>
-      <guid isPermaLink="false">how-to-scale-intent-quality-and-artistry-with-ai-video</guid>
-      <pubDate>2026-10-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Quantitative Finance with OCaml</title>
-      <link>https://news.ycombinator.com/item?id=49930690</link>
-      <guid isPermaLink="false">quantitative-finance-with-ocaml</guid>
-      <pubDate>2026-10-05T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>I quit OpenAI because its culture is broken</title>
-      <link>https://news.ycombinator.com/item?id=49944227</link>
-      <guid isPermaLink="false">i-quit-openai-because-its-culture-is-broken</guid>
-      <pubDate>2026-10-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Kolibri is an open-weight LLM from Aleph Alpha for German and English</title>
-      <link>https://news.ycombinator.com/item?id=49943034</link>
-      <guid isPermaLink="false">kolibri-is-an-open-weight-llm-from-aleph-alpha-for-german-and-english</guid>
-      <pubDate>2026-10-04T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>

@@ -1,6 +1,7 @@
 ---
 title: Men's average testosterone levels have halved in last 50 years
 created: 2026-07-08
+deprecated: true
 updated: 2026-07-08
 type: entity
 pillar: patterns
