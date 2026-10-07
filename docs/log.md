@@ -5104,3 +5104,9 @@
 - create: pinterest8217s-ai-now-turns-beauty-pins-into-action-plans.md
 - create: get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-ses.md
 - create: show-hn-jotbus-a-shared-encrypted-scratchpad-for-coding-agents.md
+
+## [2026-10-07 18:02] sync v3 | 4 new | pillars: {'capabilities': 2, 'patterns': 2}
+- create: hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services.md
+- create: jev-driven-sre-diagnosis-what-worked-and-what-failed.md
+- create: show-hn-nanomuse-an-open-source-ai-agent-for-your-phone-and-computer.md
+- create: show-hn-an-ai-agent-runs-ten-web-errands-a-day-every-transcript-published.md

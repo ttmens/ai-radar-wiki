@@ -7,7 +7,7 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI安全与信任正成为规模化部署的关键挑战。该方向的具体信号：融资/投资, 安全/漏洞, 信任/合规。",
+        "insight": "AI安全与信任正成为规模化部署的关键挑战。该方向的具体信号：融资/投资, 信任/合规, 安全/漏洞。",
         "evidence": [
           {
             "id": "mistral-large-4",
@@ -43,6 +43,20 @@
             "title": "Show HN: Jotbus – a shared encrypted scratchpad for coding agents",
             "score": 0.15,
             "url": "https://jotbus.com/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-an-ai-agent-runs-ten-web-errands-a-day-every-transcript-published",
+            "title": "Show HN: An AI agent runs ten web errands a day, every transcript publ",
+            "score": 0.15,
+            "url": "https://agentability.org/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-nanomuse-an-open-source-ai-agent-for-your-phone-and-computer",
+            "title": "Show HN: NanoMuse – An open-source AI agent for your phone and compute",
+            "score": 0.15,
+            "url": "https://github.com/nano-muse/nanoMuse",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -82,7 +96,7 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：The next hurdle for AI agents: getting w, South Korea says AI agents appear to hav。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日4条情报涉及AI Agent及相关工具生态。典型项目包括：The next hurdle for AI agents: getting w, South Korea says AI agents appear to hav, Show HN: An AI agent runs ten web errand。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
@@ -99,8 +113,8 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 28 | 🔧 工具生态: 2 | 💰 商业趋势: 1 | 📱 产品模式: 5",
-    "total_items": 36,
+    "stats": "🤖 技术能力: 30 | 🔧 工具生态: 2 | 💰 商业趋势: 1 | 📱 产品模式: 7",
+    "total_items": 40,
     "high_value_count": 31,
     "all_today_ids": [
       {
@@ -236,6 +250,10 @@
         "label": "LLMs may have helped my RSI"
       },
       {
+        "id": "hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services",
+        "label": "Hackers obtain counterfeit TLS certificates for Google and other large services"
+      },
+      {
         "id": "strands-decider-2b-a-small-open-source-decision-model",
         "label": "Strands Decider 2B: a small, open-source, decision model"
       },
@@ -246,9 +264,21 @@
       {
         "id": "show-hn-jotbus-a-shared-encrypted-scratchpad-for-coding-agents",
         "label": "Show HN: Jotbus – a shared encrypted scratchpad for coding agents"
+      },
+      {
+        "id": "jev-driven-sre-diagnosis-what-worked-and-what-failed",
+        "label": "Jev-Driven SRE Diagnosis: What Worked and What Failed"
+      },
+      {
+        "id": "show-hn-an-ai-agent-runs-ten-web-errands-a-day-every-transcript-published",
+        "label": "Show HN: An AI agent runs ten web errands a day, every transcript published"
+      },
+      {
+        "id": "show-hn-nanomuse-an-open-source-ai-agent-for-your-phone-and-computer",
+        "label": "Show HN: NanoMuse – An open-source AI agent for your phone and computer"
       }
     ],
     "date_bj": "2026-10-07 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-07 12:04:52"
+    "generated_at_bj": "2026-10-07 18:01:49"
   }
 }

@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-07 | Total pages: 4857
+> Last updated: 2026-10-07 | Total pages: 4861
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -729,6 +729,7 @@
 - [[hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data.md]] Hack suggests AI music generator Suno scraped YouTube for training data `pillar:capabilities` `score:0.48`
 - [[hackerrank8217s-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-b.md]] HackerRank&#8217;s AI interviewer offers a glimpse into what job interviews coul `pillar:capabilities` `score:0.305`
 - [[hackers-are-stealing-claude-tokens-from-subscribers.md]] Hackers are stealing Claude tokens from subscribers `pillar:capabilities` `score:0.305`
+- [[hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services.md]] Hackers obtain counterfeit TLS certificates for Google and other large services `pillar:capabilities` `score:0.255`
 - [[hacksiderdeep-live-cam.md]] hacksider/Deep-Live-Cam `pillar:capabilities` `score:0.58`
 - [[haiku-os-runs-on-m1-macs-now.md]] Haiku OS runs on M1 Macs now `pillar:capabilities` `score:0.475`
 - [[haiku-r1beta6-has-been-released.md]] Haiku R1/beta6 has been released `pillar:capabilities` `score:0.405`
@@ -904,6 +905,7 @@
 - [[jelly-ui-soft-body-physics-for-native-html-form-controls.md]] Jelly UI: Soft-body physics for native HTML form controls `pillar:capabilities` `score:0.51`
 - [[jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year.md]] Jensen Huang explains why Nvidia will grow an astounding 70% next year `pillar:capabilities` `score:0.305`
 - [[jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too.md]] Jensen Huang took a call from Trump, and showed off something else, too `pillar:capabilities` `score:0.305`
+- [[jev-driven-sre-diagnosis-what-worked-and-what-failed.md]] Jev-Driven SRE Diagnosis: What Worked and What Failed `pillar:capabilities` `score:0.155`
 - [[jingyaogongminimind-v.md]] jingyaogong/minimind-v `pillar:capabilities` `score:0.53`
 - [[jingyaogongminimind.md]] jingyaogong/minimind `pillar:capabilities` `score:0.545`
 - [[john-jumper-to-join-anthropic.md]] John Jumper to join Anthropic `pillar:capabilities` `score:0.48`
@@ -3410,6 +3412,7 @@
 - [[show-hn-agentnest-self-hosted-sandboxes-for-ai-agents.md]] Show HN: AgentNest, self-hosted sandboxes for AI agents `pillar:patterns` `score:0.33`
 - [[show-hn-agentrun-dsl-to-turn-agents-into-workflows.md]] Show HN: AgentRun: DSL to turn agents into workflows `pillar:patterns` `score:0.155`
 - [[show-hn-aireterag-a-rete-rule-engine-decides-rag-explains-why.md]] Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why `pillar:patterns` `score:0.155`
+- [[show-hn-an-ai-agent-runs-ten-web-errands-a-day-every-transcript-published.md]] Show HN: An AI agent runs ten web errands a day, every transcript published `pillar:patterns` `score:0.155`
 - [[show-hn-aura-a-rust-agent-that-investigates-and-fixes-production-incidents.md]] Show HN: Aura – a Rust agent that investigates and fixes production incidents `pillar:patterns` `score:0.155`
 - [[show-hn-autobot-live-voice-control-for-long-running-ai-work.md]] Show HN: AutoBot – live voice control for long-running AI work `pillar:patterns` `score:0.155`
 - [[show-hn-ax-checkcom-can-agents-use-your-product.md]] Show HN: Ax-check.com – Can agents use your product? `pillar:patterns` `score:0.205`
@@ -3485,6 +3488,7 @@
 - [[show-hn-morph-reflexes-multi-head-classifiers-for-agent-traces.md]] Show HN: Morph Reflexes – Multi-head classifiers for agent traces `pillar:patterns` `score:0.295`
 - [[show-hn-mu-tools-for-agents.md]] Show HN: Mu – Tools for Agents `pillar:patterns` `score:0.295`
 - [[show-hn-nanocorp-create-autonomous-companies-ru.md]] Show HN: NanoCorp – Create autonomous companies run by AI `pillar:patterns` `score:0.155`
+- [[show-hn-nanomuse-an-open-source-ai-agent-for-your-phone-and-computer.md]] Show HN: NanoMuse – An open-source AI agent for your phone and computer `pillar:patterns` `score:0.155`
 - [[show-hn-nightcrawler-a-local-ai-pentesting-agent-running-on-a-smartphone.md]] Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone `pillar:patterns` `score:0.43`
 - [[show-hn-noisegate-a-differential-privacy-gateway-for-untrusted-ai-agents.md]] Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents `pillar:patterns` `score:0.33`
 - [[show-hn-offrun-manage-every-coding-agent-from-one-workspace.md]] Show HN: Offrun – manage every coding agent from one workspace `pillar:patterns` `score:0.155`
