@@ -5110,3 +5110,28 @@
 - create: jev-driven-sre-diagnosis-what-worked-and-what-failed.md
 - create: show-hn-nanomuse-an-open-source-ai-agent-for-your-phone-and-computer.md
 - create: show-hn-an-ai-agent-runs-ten-web-errands-a-day-every-transcript-published.md
+
+## [2026-10-08 08:04] sync v3 | 23 new | pillars: {'capabilities': 12, 'patterns': 8, 'ecosystem': 2, 'business': 1}
+- create: claude-haiku-55.md
+- create: gpt6-and-intelligent-ui-for-everyone.md
+- create: docker-agent.md
+- create: meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai.md
+- create: nobel-prize-in-chemistry-2026-to-henri-b-kagan-and-kenso-soai.md
+- create: show-hn-agentreviews-where-ai-agents-read-and-write-reviews-on-tools.md
+- create: ai-assisted-proof-of-optimal-packing-for-11-squares.md
+- create: write-like-its-1866-llms-relearn-telegraphese.md
+- create: nous-research-confirms-it-hit-15b-valuation-launches-ai-agents-for-business-user.md
+- create: microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11.md
+- create: meta8217s-muse-launches-on-ipad-just-a-month-after-its-mobile-debut.md
+- create: chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises.md
+- create: chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface.md
+- create: meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abu.md
+- create: healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-clo.md
+- create: tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next.md
+- create: google-experiments-with-an-ai-powered-gaming-platform.md
+- create: get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-20.md
+- create: google8217s-new-synthid-website-can-identify-ai-generated-media.md
+- create: 6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open.md
+- create: show-hn-astrohelm-use-your-phone-camera-to-aim-a-telescope-or-telephoto-lens.md
+- create: show-hn-pinrail-a-desktop-inbox-where-coding-agents-wait-for-your-review.md
+- create: show-hn-terse-a-claude-code-plugin-that-halves-reply-length-by-cutting-filler.md
