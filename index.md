@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-08 | Total pages: 4884
+> Last updated: 2026-10-08 | Total pages: 4885
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -2968,6 +2968,7 @@
 - [[8216the-world-seems-to-be-ready8217-an-interview-with-openai-head-of-product-thi.md]] &#8216;The world seems to be ready&#8217;: An interview with OpenAI head of prod `pillar:patterns` `score:0.305`
 - [[a-001-bank-transfer-could-compromise-a-banking-ai-agent.md]] A €0.01 bank transfer could compromise a banking AI agent `pillar:patterns` `score:0.465`
 - [[a-claude-code-and-codex-skill-for-deliberate-skill-development.md]] A Claude Code and Codex Skill for Deliberate Skill Development `pillar:patterns` `score:0.33`
+- [[a-new-write-and-space-optimized-storage-engine-for-mysql-is-here.md]] A new write and space optimized storage engine for MySQL is here `pillar:patterns` `score:0.155`
 - [[a-privacy-analysis-of-web-and-mobile-conversational-ai-agents-pdf.md]] A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf] `pillar:patterns` `score:0.425`
 - [[a-study-of-microsofts-early-2026-rollout-of-claude-code-and-github-copilot-cli.md]] A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI `pillar:patterns` `score:0.38`
 - [[accel-backed-keenable-is-indexing-the-web-for-ai-agents.md]] Accel-backed Keenable is indexing the web for AI agents `pillar:patterns` `score:0.305`

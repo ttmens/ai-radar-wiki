@@ -5135,3 +5135,6 @@
 - create: show-hn-astrohelm-use-your-phone-camera-to-aim-a-telescope-or-telephoto-lens.md
 - create: show-hn-pinrail-a-desktop-inbox-where-coding-agents-wait-for-your-review.md
 - create: show-hn-terse-a-claude-code-plugin-that-halves-reply-length-by-cutting-filler.md
+
+## [2026-10-08 12:02] sync v3 | 1 new | pillars: {'patterns': 1}
+- create: a-new-write-and-space-optimized-storage-engine-for-mysql-is-here.md
