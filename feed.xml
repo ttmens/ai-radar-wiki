@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 08 Oct 2026 04:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 20:00:37 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -194,6 +194,14 @@
       <guid isPermaLink="false">show-hn-pinrail-a-desktop-inbox-where-coding-agents-wait-for-your-review</guid>
       <pubDate>2026-10-08T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>暂无中文摘要</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>A new write and space optimized storage engine for MySQL is here</title>
+      <link>https://news.ycombinator.com/item?id=49963568</link>
+      <guid isPermaLink="false">a-new-write-and-space-optimized-storage-engine-for-mysql-is-here</guid>
+      <pubDate>2026-10-08T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
       <category>📱 产品模式</category>
     </item>
     <item>
@@ -402,14 +410,6 @@
       <guid isPermaLink="false">worldsonus-bringing-sound-to-worlds</guid>
       <pubDate>2026-10-07T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Recent advances in world models have enabled increasingly realistic visual synthesis. However, these generated environments remain largely silent. Bringing sound to world models poses three core challenges: real-time generation to keep pace with interactive video streams, interactive control to resp</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction</title>
-      <link>http://arxiv.org/abs/2610.08782v1</link>
-      <guid isPermaLink="false">4d-hof-hand-object-flow-matching-for-feed-forward-4d-interaction-reconstruction</guid>
-      <pubDate>2026-10-07T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to unstable interaction prediction. We introduce 4D-HOF, a feed-forward framework that reconstructs 4D ha</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>

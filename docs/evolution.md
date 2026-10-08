@@ -20,6 +20,13 @@
 
 ## 运行日志
 
+## [2026-10-09 04:05] Evolution Run
+- Deprecated: 1 nodes
+- Pillar distribution: {'capabilities': 2975, 'ecosystem': 607, 'business': 447, 'patterns': 823, 'unknown': 4}
+- Top tags: {'capabilities': 2890, 'discussion': 1975, 'hacker-news': 1975, 'news': 1164, 'techcrunch': 1164}
+  🗑️ Deprecated: syrias-solar-boom-is-redefining-middle-easts-energy-model.md (91d old, score=0.135)  📊 1 nodes deprecated (90d+ and score < 0.15)
+
+
 ## [2026-10-08 12:02] Evolution Run
 - Deprecated: 0 nodes
 - Pillar distribution: {'capabilities': 2954, 'ecosystem': 604, 'business': 444, 'patterns': 816, 'unknown': 4}

@@ -5138,3 +5138,39 @@
 
 ## [2026-10-08 12:02] sync v3 | 1 new | pillars: {'patterns': 1}
 - create: a-new-write-and-space-optimized-storage-engine-for-mysql-is-here.md
+
+## [2026-10-09 04:05] sync v3 | 34 new | pillars: {'capabilities': 21, 'patterns': 7, 'ecosystem': 3, 'business': 3}
+- create: never-look-back-understanding-persistence-in-3d-object-memory-from-egocentric-vi.md
+- create: decoupling-exploration-from-optimization-in-rlvr.md
+- create: long-wam-scaling-the-context-of-world-action-models.md
+- create: decentralized-sgd-under-heavy-tailed-noise-optimal-convergence-rates-and-the-rol.md
+- create: rephrase-before-you-act-characterizing-and-mitigating-language-sensitivity-in-vi.md
+- create: distilling-graph-geometry-knowledge-gap-from-gnns-to-mlps.md
+- create: why-forget-only-unlearning-needs-memorization.md
+- create: robojepa-scaling-robotic-latent-world-models.md
+- create: sciexam-for-enso-can-ai-agents-build-climate-models.md
+- create: recast-learning-to-compute-the-right-context-through-adaptive-evidence-routing.md
+- create: validity-without-ground-truth-what-stated-preference-economics-offers-the-evalua.md
+- create: oracle-efficient-and-parameter-free-agnostic-smoothed-online-learning.md
+- create: whistle-speech-to-text-in-169-mb.md
+- create: openai-annualised-revenues-20b-less-than-previously-signalled.md
+- create: 4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe.md
+- create: i-think-i-found-a-planet-nobody-knew-existed-i-used-claude-code-to-find-it.md
+- create: openai-withdraws-three-mathematical-results.md
+- create: sub-1-bit-llm-compression-via-latent-factorization.md
+- create: time-travel-in-braid-2015.md
+- create: ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed.md
+- create: popular-ai-leaderboard-arena-nearly-doubles-valuation-to-31b-valuation-in-10-mon.md
+- create: openai8217s-revenue-is-reportedly-20-billion-less-than-previously-projected.md
+- create: google-brings-agentic-ai-to-gemini-starting-with-businesses.md
+- create: anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference.md
+- create: openai8217s-math-solutions-aren8217t-meeting-the-field8217s-standards-yet.md
+- create: naturas-99-smart-ring-puts-ai-agents-on-your-finger.md
+- create: goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of.md
+- create: hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure.md
+- create: 5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door-for-your-pass.md
+- create: cal-ai8217s-19-year-old-founder-just-raised-10m-for-his-new-ai-startup.md
+- create: google-releases-a-new-local-first-granola-competitor.md
+- create: china8217s-manus-raises-over-500m-in-first-funding-round-since-split-with-meta.md
+- create: show-hn-i-put-an-ai-agent-on-a-nokia-110.md
+- create: show-hn-pacer-will-your-ai-coding-subscription-last-until-the-reset.md

@@ -1,6 +1,7 @@
 ---
 title: Syria's solar boom is redefining Middle East's energy model
 created: 2026-07-10
+deprecated: true
 updated: 2026-07-10
 type: entity
 pillar: capabilities

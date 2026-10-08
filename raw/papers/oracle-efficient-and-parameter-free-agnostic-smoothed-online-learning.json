@@ -1,0 +1,22 @@
+{
+  "title": "Oracle-Efficient and Parameter-Free Agnostic Smoothed Online Learning",
+  "summary": "Online learning is an attractive framework in many domains because it permits well-defined learning even when data are dependent or chosen adversarially. This generality, however, comes at a steep price, introducing significant statistical and computational barriers. Recently, smoothed online learning has emerged as a promising framework that interpolates between the fully adversarial and fully stochastic settings by assuming that the conditional law of each covariate has density at most $1/σ$ with respect to some fixed base measure $μ$, and it is known to match the statistical and computational guarantees of classical learning while still allowing for much of the flexibility of online learning. However, existing oracle-efficient algorithms require either (i) sampling access to the base measure $μ$ or (ii) labels that are perfectly predicted by a fixed hypothesis. Both assumptions limit the applicability of these algorithms, in contrast to statistical learning, where empirical risk minimization (ERM) learns efficiently in the agnostic setting without any knowledge of the data distribution. We show that neither assumption is necessary, giving the first oracle-efficient algorithm that achieves sublinear regret in the agnostic setting without knowledge of $μ$. Our algorithm, based on Gaussian Follow-The-Perturbed-Leader, is parameter-free: it requires no knowledge of $μ$, the smoothing parameter $σ$, or the horizon $T$, and it achieves regret $\\widetilde O(d\\sqrt{T/σ})$ for binary classes of VC dimension $d$ with a single call to an ERM oracle per round, which is optimal up to a $\\sqrt{d}$ factor. En route to establishing the regret bound, we introduce several new techniques that may be of independent interest.",
+  "url": "http://arxiv.org/abs/2610.10499v1",
+  "authors": [
+    "Sasha Voitovych",
+    "Adam Block",
+    "Alexander Rakhlin",
+    "Abhishek Shetty"
+  ],
+  "published": "2026-10-07T17:49:17Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "parameter"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}
