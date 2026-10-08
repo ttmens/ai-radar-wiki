@@ -5174,3 +5174,11 @@
 - create: china8217s-manus-raises-over-500m-in-first-funding-round-since-split-with-meta.md
 - create: show-hn-i-put-an-ai-agent-on-a-nokia-110.md
 - create: show-hn-pacer-will-your-ai-coding-subscription-last-until-the-reset.md
+
+## [2026-10-09 06:02] sync v3 | 6 new | pillars: {'ecosystem': 2, 'capabilities': 4}
+- create: vitalik-buterin-backs-crypto-bunker-mode-amid-rapid-ai-math-advances.md
+- create: the-deeply-impersonal-personalized-recruiter-mail.md
+- create: pretend-you8217re-sitting-at-elizabeth-holmes8217-desk-on-this-weirdly-detailed.md
+- create: fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effec.md
+- create: show-hn-free-open-source-adobe-lightroom-alternative-completely-local-with-ai.md
+- create: show-hn-terrainsr-fast-realistic-heightmap-upscaling-model.md

@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-09 | Total pages: 4919
+> Last updated: 2026-10-09 | Total pages: 4925
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -580,6 +580,7 @@
 - [[figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update.md]] Figma adds code layers, support for animations, more AI features in new update `pillar:capabilities` `score:0.445`
 - [[final-final-final-call-for-techcrunch-disrupt-2026-side-events.md]] Final, final, final call for TechCrunch Disrupt 2026 Side Events `pillar:capabilities` `score:0.305`
 - [[fine-tuning-an-llm-to-write-docs-like-its-1995.md]] Fine-tuning an LLM to write docs like it's 1995 `pillar:capabilities` `score:0.36`
+- [[fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effec.md]] Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effe `pillar:capabilities` `score:0.305`
 - [[firefox-153-available-with-support-for-vulkan-video-decoding-jpeg-xl.md]] Firefox 153 available with support for Vulkan video decoding, JPEG-XL `pillar:capabilities` `score:0.405`
 - [[firefox-containers-preview.md]] Firefox Containers Preview `pillar:capabilities` `score:0.445`
 - [[first-principles-of-model-routing.md]] First Principles of Model Routing `pillar:capabilities` `score:0.33`
@@ -1318,6 +1319,7 @@
 - [[pramaana-labs-raises-27m-seed-round-from-khosla-ventures-to-bring-formal-verific.md]] Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verifi `pillar:capabilities` `score:0.48`
 - [[predictive-speculative-kv-replication-for-bursty-llm-inference.md]] Predictive Speculative KV Replication for Bursty LLM Inference `pillar:capabilities` `score:0.155`
 - [[prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m.md]] Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $1 `pillar:capabilities` `score:0.48`
+- [[pretend-you8217re-sitting-at-elizabeth-holmes8217-desk-on-this-weirdly-detailed.md]] Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly det `pillar:capabilities` `score:0.305`
 - [[prevent-cognitive-debt-by-manually-retyping-llm-generated-code.md]] Prevent cognitive debt by manually retyping LLM-generated code `pillar:capabilities` `score:0.595`
 - [[previewing-gpt56-sol-a-next-generation-model.md]] Previewing GPT‑5.6 Sol: a next-generation model `pillar:capabilities` `score:0.715`
 - [[previewing-the-model-hardware-standard.md]] Previewing the Model Hardware Standard `pillar:capabilities` `score:0.305`
@@ -1618,6 +1620,7 @@
 - [[show-hn-sunk-cost-how-long-until-a-local-llm-rig-pays-for-itself.md]] Show HN: Sunk Cost – How long until a local LLM rig pays for itself? `pillar:capabilities` `score:0.255`
 - [[show-hn-sx-20-share-ai-skills-with-your-team-through-a-dropbox-folder.md]] Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder `pillar:capabilities` `score:0.38`
 - [[show-hn-takovm-isolated-model-and-tool-execution-used-by-enterprises.md]] Show HN: TakoVM – Isolated model and tool execution used by enterprises `pillar:capabilities` `score:0.33`
+- [[show-hn-terrainsr-fast-realistic-heightmap-upscaling-model.md]] Show HN: TerrainSR – fast, realistic heightmap upscaling model `pillar:capabilities` `score:0.155`
 - [[show-hn-texbrain-a-latex-editor-that-runs-pdftex-in-the-browser-via-wasm.md]] Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM `pillar:capabilities` `score:0.305`
 - [[show-hn-the-cascade-graph-an-interactive-map-of-ai-and-energy-constraints.md]] Show HN: The Cascade Graph – An interactive map of AI and energy constraints `pillar:capabilities` `score:0.295`
 - [[show-hn-the-load-bearing-vocabulary-of-claude.md]] Show HN: The load-bearing vocabulary of Claude `pillar:capabilities` `score:0.405`
@@ -1763,6 +1766,7 @@
 - [[the-contagion-of-fear.md]] The contagion of fear `pillar:capabilities` `score:0.425`
 - [[the-current-balance-of-power-in-open-models.md]] The current balance of power in open models `pillar:capabilities` `score:0.255`
 - [[the-dataflow-model-revisited.md]] The Dataflow Model Revisited `pillar:capabilities` `score:0.205`
+- [[the-deeply-impersonal-personalized-recruiter-mail.md]] The Deeply Impersonal Personalized Recruiter Mail `pillar:capabilities` `score:0.205`
 - [[the-economics-of-open-weight-inference.md]] The Economics of Open-Weight Inference `pillar:capabilities` `score:0.205`
 - [[the-efficient-frontier-of-llm-inference.md]] The efficient frontier of LLM inference `pillar:capabilities` `score:0.305`
 - [[the-emergent-symbolic-structure-of-artificial-neural-networks.md]] The Emergent Symbolic Structure of Artificial Neural Networks `pillar:capabilities` `score:0.255`
@@ -4146,6 +4150,7 @@
 - [[show-hn-cynative-read-only-cli-in-go-that-explains-your-live-infrastructure.md]] Show HN: Cynative – Read-only CLI in Go that explains your live infrastructure `pillar:ecosystem` `score:0.26`
 - [[show-hn-explore-color-palettes-inspired-by-3000-m.md]] Show HN: Explore color palettes inspired by 3000 master painter artworks `pillar:ecosystem` `score:0.45`
 - [[show-hn-fortress-a-stealth-chromium-so-your-agents-stop-getting-blocked.md]] Show HN: Fortress – a stealth Chromium so your agents stop getting blocked `pillar:ecosystem` `score:0.38`
+- [[show-hn-free-open-source-adobe-lightroom-alternative-completely-local-with-ai.md]] Show HN: Free open source Adobe Lightroom alternative, completely local with AI `pillar:ecosystem` `score:0.155`
 - [[show-hn-freeport-a-p2p-ride-hailing-marketplace-i-built-on-nostr.md]] Show HN: Freeport – a P2P ride-hailing marketplace I built on Nostr `pillar:ecosystem` `score:0.295`
 - [[show-hn-frontierharness-eval-9-harness-same-model-cost-per-pass-varies-17x.md]] Show HN: FrontierHarness Eval – 9 harness, same model, cost per pass varies 17x `pillar:ecosystem` `score:0.255`
 - [[show-hn-gentleos-a-pair-of-hobby-oses-for-vintage-32-bit-and-16-bit-pcs.md]] Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs `pillar:ecosystem` `score:0.27`
@@ -4253,6 +4258,7 @@
 - [[vercelai.md]] vercel/ai `pillar:ecosystem` `score:0.405`
 - [[victory-tennessee-man-jailed-37-days-for-trump-meme-wins-835000-settlement.md]] Victory: Tennessee man jailed 37 days for Trump meme wins $835,000 settlement `pillar:ecosystem` `score:0.32`
 - [[video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b.md]] Video-generation startup PixVerse raises $439M, valuation soars past $2B `pillar:ecosystem` `score:0.48`
+- [[vitalik-buterin-backs-crypto-bunker-mode-amid-rapid-ai-math-advances.md]] Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances `pillar:ecosystem` `score:0.255`
 - [[we-stopped-ai-bot-spam-in-our-github-repo-using-gits-author-flag.md]] We stopped AI bot spam in our GitHub repo using Git's –author flag `pillar:ecosystem` `score:0.345`
 - [[what-ai-did-to-stackoverflow-in-a-graph.md]] What AI did to stackoverflow in a graph `pillar:ecosystem` `score:0.58`
 - [[what-is-mistral-ai-everything-to-know-about-the-openai-competitor.md]] What is Mistral AI? Everything to know about the OpenAI competitor `pillar:ecosystem` `score:0.48`

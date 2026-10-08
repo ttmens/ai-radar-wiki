@@ -1,7 +1,7 @@
 {
   "date": "2026-10-09",
-  "generated_at": "2026-10-09T04:05:16.540684+08:00",
-  "item_count": 29,
+  "generated_at": "2026-10-09T06:02:23.190262+08:00",
+  "item_count": 31,
   "items": [
     {
       "id": "openai-withdraws-three-mathematical-results",
@@ -56,6 +56,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "date": "2026-10-09"
+    },
+    {
+      "id": "fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effec",
+      "label": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effe",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
       "date": "2026-10-09"
     },
     {
@@ -155,6 +166,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "date": "2026-10-09"
+    },
+    {
+      "id": "pretend-you8217re-sitting-at-elizabeth-holmes8217-desk-on-this-weirdly-detailed",
+      "label": "Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly det",
+      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
       "date": "2026-10-09"
     },
     {
@@ -324,7 +346,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 9335,
-    "edges": 10187
+    "real_nodes": 9341,
+    "edges": 10193
   }
 }

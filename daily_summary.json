@@ -58,7 +58,7 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：基础设施, 融资/投资。",
+        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：融资/投资, 基础设施。",
         "evidence": [
           {
             "id": "china8217s-manus-raises-over-500m-in-first-funding-round-since-split-with-meta",
@@ -94,6 +94,12 @@
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
       {
+        "title": "AI安全与信任正成为规模化部署的关键挑战",
+        "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：Fired OpenAI safety researchers dispute , Oracle-Efficient and Parameter-Free Agno。具体信号：安全漏洞。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+        "type": "bottleneck",
+        "action": "建议：审查当前产品的安全/信任/合规设计，是否需要升级。这是获取企业客户的关键竞争力。"
+      },
+      {
         "title": "AI工具链从通用走向垂直专业化",
         "body": "今日1条情报涉及AI工具链与基础设施。包括：Hear from Ambrosia Energy and Bloom Ener。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
         "type": "maturation",
@@ -106,9 +112,9 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 21 | 💰 商业趋势: 3 | 📱 产品模式: 7 | 🔧 工具生态: 3",
-    "total_items": 34,
-    "high_value_count": 29,
+    "stats": "🤖 技术能力: 25 | 💰 商业趋势: 3 | 📱 产品模式: 7 | 🔧 工具生态: 5",
+    "total_items": 40,
+    "high_value_count": 31,
     "all_today_ids": [
       {
         "id": "openai-withdraws-three-mathematical-results",
@@ -129,6 +135,10 @@
       {
         "id": "china8217s-manus-raises-over-500m-in-first-funding-round-since-split-with-meta",
         "label": "China&#8217;s Manus raises over $500M in first funding round since split with Me"
+      },
+      {
+        "id": "fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effec",
+        "label": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effe"
       },
       {
         "id": "ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed",
@@ -165,6 +175,10 @@
       {
         "id": "openai8217s-revenue-is-reportedly-20-billion-less-than-previously-projected",
         "label": "OpenAI&#8217;s revenue is reportedly $20 billion less than previously projected"
+      },
+      {
+        "id": "pretend-you8217re-sitting-at-elizabeth-holmes8217-desk-on-this-weirdly-detailed",
+        "label": "Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly det"
       },
       {
         "id": "popular-ai-leaderboard-arena-nearly-doubles-valuation-to-31b-valuation-in-10-mon",
@@ -227,12 +241,20 @@
         "label": "Why Forget-Only Unlearning Needs Memorization"
       },
       {
+        "id": "vitalik-buterin-backs-crypto-bunker-mode-amid-rapid-ai-math-advances",
+        "label": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances"
+      },
+      {
         "id": "time-travel-in-braid-2015",
         "label": "Time Travel in Braid (2015)"
       },
       {
         "id": "i-think-i-found-a-planet-nobody-knew-existed-i-used-claude-code-to-find-it",
         "label": "I think I found a planet nobody knew existed. I used Claude Code to find it"
+      },
+      {
+        "id": "the-deeply-impersonal-personalized-recruiter-mail",
+        "label": "The Deeply Impersonal Personalized Recruiter Mail"
       },
       {
         "id": "sub-1-bit-llm-compression-via-latent-factorization",
@@ -243,11 +265,19 @@
         "label": "Show HN: I Put an AI Agent on a Nokia 110"
       },
       {
+        "id": "show-hn-terrainsr-fast-realistic-heightmap-upscaling-model",
+        "label": "Show HN: TerrainSR – fast, realistic heightmap upscaling model"
+      },
+      {
+        "id": "show-hn-free-open-source-adobe-lightroom-alternative-completely-local-with-ai",
+        "label": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI"
+      },
+      {
         "id": "show-hn-pacer-will-your-ai-coding-subscription-last-until-the-reset",
         "label": "Show HN: Pacer – will your AI coding subscription last until the reset?"
       }
     ],
     "date_bj": "2026-10-09 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-09 04:04:45"
+    "generated_at_bj": "2026-10-09 06:01:52"
   }
 }

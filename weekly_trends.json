@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T04:05:16.206093+08:00",
+  "generated_at": "2026-10-09T06:02:22.862107+08:00",
   "days_analyzed": 136,
   "pillar_trends": {
     "capabilities": {
@@ -2484,7 +2484,8 @@
         "2026-09-19",
         "2026-09-22",
         "2026-10-03",
-        "2026-10-07"
+        "2026-10-07",
+        "2026-10-09"
       ],
       "instances": [
         {
@@ -2828,6 +2829,22 @@
               "url": "https://news.ycombinator.com/item?id=49977979",
               "reason": "高价值信号",
               "pillar": "capabilities"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-09",
+          "title": "AI安全与信任正成为规模化部署的关键挑战",
+          "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：Fired OpenAI safety researchers dispute , Oracle-Efficient and Parameter-Free Agno。具体信号：安全漏洞。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+          "type": "bottleneck",
+          "evidence": [
+            {
+              "id": "china8217s-manus-raises-over-500m-in-first-funding-round-since-split-with-meta",
+              "title": "China&#8217;s Manus raises over $500M in first funding round since spl",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
             }
           ]
         }
@@ -3447,8 +3464,13 @@
       "date": "2026-10-07",
       "type": "growth_vs_risk",
       "description": "Growth validation detected alongside infrastructure/trust bottlenecks."
+    },
+    {
+      "date": "2026-10-09",
+      "type": "growth_vs_risk",
+      "description": "Growth validation detected alongside infrastructure/trust bottlenecks."
     }
   ],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-10-09**（136天），累计 **3745** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-10-09**（136天），累计 **3751** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。"
 }
