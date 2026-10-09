@@ -1,7 +1,7 @@
 {
   "date": "2026-10-09",
-  "generated_at": "2026-10-09T06:02:23.190262+08:00",
-  "item_count": 31,
+  "generated_at": "2026-10-09T20:04:37.138835+08:00",
+  "item_count": 44,
   "items": [
     {
       "id": "openai-withdraws-three-mathematical-results",
@@ -23,6 +23,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=50008187",
+      "date": "2026-10-09"
+    },
+    {
+      "id": "openai-the-partition-principle-and-mathematics",
+      "label": "OpenAI, the Partition Principle, and Mathematics",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50013902",
       "date": "2026-10-09"
     },
     {
@@ -224,6 +235,28 @@
       "date": "2026-10-09"
     },
     {
+      "id": "rounding-in-preconditioner-space-redesigning-4-bit-adamw-optimizer-state-quantiz",
+      "label": "Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quanti",
+      "summary": "Quantizing AdamW's optimizer states reduces persistent storage, but quantization errors propagate through the moment recurrences and perturb subsequent adaptive updates. We redesign 4-bit optimizer-state quantization for AdamW from the perspective of \\emph{rounding space}: the coordinate in which a",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.12444v1",
+      "date": "2026-10-09"
+    },
+    {
+      "id": "on-the-estimation-and-validity-of-ai-time-horizons-a-statistical-look-at-the-met",
+      "label": "On the estimation and validity of AI time horizons---a statistical look at the M",
+      "summary": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we recompute the time horizons using splines and item-response theory to relax the assumpti",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.12466v1",
+      "date": "2026-10-09"
+    },
+    {
       "id": "rephrase-before-you-act-characterizing-and-mitigating-language-sensitivity-in-vi",
       "label": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in V",
       "summary": "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can move success by tens of points: $π_{0.5}$ turns on a LIBERO stove 100% of the time for \"switch on the",
@@ -243,6 +276,17 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2610.10520v1",
+      "date": "2026-10-09"
+    },
+    {
+      "id": "bi-fork-generative-modeling-of-high-dimensional-bifurcating-systems",
+      "label": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
+      "summary": "Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a single input admits multiple equally valid solutions, violating the one-to-one assumption underlying mos",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.12449v1",
       "date": "2026-10-09"
     },
     {
@@ -268,6 +312,17 @@
       "date": "2026-10-09"
     },
     {
+      "id": "a-balanced-data-diet-addressing-the-exploration-bottleneck-in-mega-scale-rl-for",
+      "label": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for",
+      "summary": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, current RL pipelines depend on engineering-heavy, per-task structural priors such as shaped rewards a",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.12465v1",
+      "date": "2026-10-09"
+    },
+    {
       "id": "validity-without-ground-truth-what-stated-preference-economics-offers-the-evalua",
       "label": "Validity Without Ground Truth: What Stated-Preference Economics Offers the Evalu",
       "summary": "Many of the questions now put to large language models have no correct answer to score against: what a policy is worth, which option a user should choose, how to weigh competing values. Stated-preference economics has faced this problem for decades. It judges survey responses without knowing the tru",
@@ -276,6 +331,28 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2610.10506v1",
+      "date": "2026-10-09"
+    },
+    {
+      "id": "one-block-multiple-depths-recurrent-vision-transformers-with-depth-programmed-ex",
+      "label": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed",
+      "summary": "In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillation. reViT restores depth-specific transformations by representing the FFN at each recurrent depth as",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.12448v1",
+      "date": "2026-10-09"
+    },
+    {
+      "id": "density-ratio-estimation-with-stein-displacement-fields",
+      "label": "Density Ratio Estimation with Stein Displacement Fields",
+      "summary": "Density ratios quantify distribution shift from a probability-mass point of view, whereas displacement fields describe, from a dynamical point of view, how one distribution is transported onto another. Although both offer complementary insights, they are usually estimated separately, and converting",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.12437v1",
       "date": "2026-10-09"
     },
     {
@@ -309,6 +386,72 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2610.10527v1",
+      "date": "2026-10-09"
+    },
+    {
+      "id": "csf-contextual-safety-filtering-for-motion-generators",
+      "label": "CSF: Contextual Safety Filtering for Motion Generators",
+      "summary": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either inspect the prompt, require labeled motion data, or enforce geometric constraints; therefore, they d",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.12467v1",
+      "date": "2026-10-09"
+    },
+    {
+      "id": "from-reactive-containment-to-proactive-assurance-lessons-from-openai-anthropic-a",
+      "label": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic",
+      "summary": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research infrastructure, coordinated across runs, and compromised parts of Hugging Face's production environme",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.12463v1",
+      "date": "2026-10-09"
+    },
+    {
+      "id": "viola-learning-generalist-humanoid-control-policies-from-human-data",
+      "label": "VioLA: Learning Generalist Humanoid Control Policies from Human Data",
+      "summary": "Teaching a humanoid to follow instructions with its whole body runs into two obstacles. Its action space is large and tightly coupled: legs, arms, and fingers must move together while the robot keeps its balance, which makes joint-level actions hard to learn. And humanoid demonstrations are scarce,",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.12435v1",
+      "date": "2026-10-09"
+    },
+    {
+      "id": "ecology-of-ai-agents-collaboration-creates-a-population-threshold-for-takeoff",
+      "label": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
+      "summary": "AI agents can now conduct real-world cyberattacks, scale up capabilities with the number of agents, and collectively pursue misaligned goals to obtain rewards. Together, these factors raise the risk of a population explosion of misaligned agents: agents could compromise computers and secretly deploy",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.12436v1",
+      "date": "2026-10-09"
+    },
+    {
+      "id": "caught-in-the-act-probes-effectively-detect-sabotage-and-catch-unverbalized-dece",
+      "label": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Dec",
+      "summary": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier monitoring settings by collecting the largest deception dataset to date for training probes and intro",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.12445v1",
+      "date": "2026-10-09"
+    },
+    {
+      "id": "brickbench-evaluating-agentic-brick-design",
+      "label": "BrickBench: Evaluating Agentic Brick Design",
+      "summary": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but that can also be physically built. To do so, it must select parts from a discrete library and reaso",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.12452v1",
       "date": "2026-10-09"
     },
     {
@@ -346,7 +489,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 9341,
-    "edges": 10193
+    "real_nodes": 9361,
+    "edges": 10223
   }
 }

@@ -7,7 +7,7 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：安全/漏洞, AI Agent, 桌面/本地化。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 桌面/本地化, 安全/漏洞。",
         "evidence": [
           {
             "id": "sciexam-for-enso-can-ai-agents-build-climate-models",
@@ -46,6 +46,27 @@
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
+            "id": "ecology-of-ai-agents-collaboration-creates-a-population-threshold-for-takeoff",
+            "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2610.12436v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "let-your-ai-agents-paint-big-arrows-boxes-and-text-on-your-screen",
+            "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=50018817",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-pocketty-iphone-ssh-terminal-that-pings-you-when-an-agent-is-blocked",
+            "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent i",
+            "score": 0.15,
+            "url": "https://pocketty.app/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
             "id": "show-hn-i-put-an-ai-agent-on-a-nokia-110",
             "title": "Show HN: I Put an AI Agent on a Nokia 110",
             "score": 0.15,
@@ -58,13 +79,13 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：融资/投资, 基础设施。",
+        "insight": "AI安全与信任正成为规模化部署的关键挑战。该方向的具体信号：安全/漏洞, 融资/投资, AI Agent, 基础设施。",
         "evidence": [
           {
-            "id": "china8217s-manus-raises-over-500m-in-first-funding-round-since-split-with-meta",
-            "title": "China&#8217;s Manus raises over $500M in first funding round since spl",
+            "id": "brickbench-evaluating-agentic-brick-design",
+            "title": "BrickBench: Evaluating Agentic Brick Design",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+            "url": "http://arxiv.org/abs/2610.12452v1",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -89,13 +110,13 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日8条情报涉及AI Agent及相关工具生态。典型项目包括：Natura’s $99 smart ring puts AI agents o, Goodfire says its new ‘inside-out’ monit, Google brings agentic AI to Gemini, star。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日12条情报涉及AI Agent及相关工具生态。典型项目包括：Natura’s $99 smart ring puts AI agents o, Goodfire says its new ‘inside-out’ monit, Google brings agentic AI to Gemini, star。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
       {
         "title": "AI安全与信任正成为规模化部署的关键挑战",
-        "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：Fired OpenAI safety researchers dispute , Oracle-Efficient and Parameter-Free Agno。具体信号：安全漏洞。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+        "body": "今日3条情报涉及AI安全与信任议题。关键事件包括：Fired OpenAI safety researchers dispute , Oracle-Efficient and Parameter-Free Agno, From Reactive Containment to Proactive A。具体信号：安全漏洞。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
         "type": "bottleneck",
         "action": "建议：审查当前产品的安全/信任/合规设计，是否需要升级。这是获取企业客户的关键竞争力。"
       },
@@ -107,14 +128,14 @@
       },
       {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日2条情报涉及AI商业动态。包括：China&#8217;s Manus raises over $500M in, Popular AI leaderboard Arena nearly doub。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日3条情报涉及AI商业动态。包括：China&#8217;s Manus raises over $500M in, Popular AI leaderboard Arena nearly doub, From Reactive Containment to Proactive A。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 25 | 💰 商业趋势: 3 | 📱 产品模式: 7 | 🔧 工具生态: 5",
-    "total_items": 40,
-    "high_value_count": 31,
+    "stats": "🤖 技术能力: 37 | 💰 商业趋势: 3 | 📱 产品模式: 10 | 🔧 工具生态: 10",
+    "total_items": 60,
+    "high_value_count": 44,
     "all_today_ids": [
       {
         "id": "openai-withdraws-three-mathematical-results",
@@ -123,6 +144,10 @@
       {
         "id": "openai-annualised-revenues-20b-less-than-previously-signalled",
         "label": "OpenAI annualised revenues $20B less than previously signalled"
+      },
+      {
+        "id": "openai-the-partition-principle-and-mathematics",
+        "label": "OpenAI, the Partition Principle, and Mathematics"
       },
       {
         "id": "whistle-speech-to-text-in-169-mb",
@@ -197,12 +222,24 @@
         "label": "Oracle-Efficient and Parameter-Free Agnostic Smoothed Online Learning"
       },
       {
+        "id": "rounding-in-preconditioner-space-redesigning-4-bit-adamw-optimizer-state-quantiz",
+        "label": "Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quanti"
+      },
+      {
+        "id": "on-the-estimation-and-validity-of-ai-time-horizons-a-statistical-look-at-the-met",
+        "label": "On the estimation and validity of AI time horizons---a statistical look at the M"
+      },
+      {
         "id": "rephrase-before-you-act-characterizing-and-mitigating-language-sensitivity-in-vi",
         "label": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in V"
       },
       {
         "id": "distilling-graph-geometry-knowledge-gap-from-gnns-to-mlps",
         "label": "Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs"
+      },
+      {
+        "id": "bi-fork-generative-modeling-of-high-dimensional-bifurcating-systems",
+        "label": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems"
       },
       {
         "id": "never-look-back-understanding-persistence-in-3d-object-memory-from-egocentric-vi",
@@ -213,8 +250,20 @@
         "label": "Long-WAM: Scaling the Context of World-Action Models"
       },
       {
+        "id": "a-balanced-data-diet-addressing-the-exploration-bottleneck-in-mega-scale-rl-for",
+        "label": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for"
+      },
+      {
         "id": "validity-without-ground-truth-what-stated-preference-economics-offers-the-evalua",
         "label": "Validity Without Ground Truth: What Stated-Preference Economics Offers the Evalu"
+      },
+      {
+        "id": "one-block-multiple-depths-recurrent-vision-transformers-with-depth-programmed-ex",
+        "label": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed"
+      },
+      {
+        "id": "density-ratio-estimation-with-stein-displacement-fields",
+        "label": "Density Ratio Estimation with Stein Displacement Fields"
       },
       {
         "id": "robojepa-scaling-robotic-latent-world-models",
@@ -229,6 +278,30 @@
         "label": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Ro"
       },
       {
+        "id": "csf-contextual-safety-filtering-for-motion-generators",
+        "label": "CSF: Contextual Safety Filtering for Motion Generators"
+      },
+      {
+        "id": "from-reactive-containment-to-proactive-assurance-lessons-from-openai-anthropic-a",
+        "label": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic"
+      },
+      {
+        "id": "viola-learning-generalist-humanoid-control-policies-from-human-data",
+        "label": "VioLA: Learning Generalist Humanoid Control Policies from Human Data"
+      },
+      {
+        "id": "ecology-of-ai-agents-collaboration-creates-a-population-threshold-for-takeoff",
+        "label": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff"
+      },
+      {
+        "id": "caught-in-the-act-probes-effectively-detect-sabotage-and-catch-unverbalized-dece",
+        "label": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Dec"
+      },
+      {
+        "id": "brickbench-evaluating-agentic-brick-design",
+        "label": "BrickBench: Evaluating Agentic Brick Design"
+      },
+      {
         "id": "decoupling-exploration-from-optimization-in-rlvr",
         "label": "Decoupling Exploration from Optimization in RLVR"
       },
@@ -239,6 +312,10 @@
       {
         "id": "why-forget-only-unlearning-needs-memorization",
         "label": "Why Forget-Only Unlearning Needs Memorization"
+      },
+      {
+        "id": "ai-ready-biological-data-18b-global-commitment",
+        "label": "AI-ready biological data: $1.8B global commitment"
       },
       {
         "id": "vitalik-buterin-backs-crypto-bunker-mode-amid-rapid-ai-math-advances",
@@ -253,6 +330,18 @@
         "label": "I think I found a planet nobody knew existed. I used Claude Code to find it"
       },
       {
+        "id": "let-your-ai-agents-paint-big-arrows-boxes-and-text-on-your-screen",
+        "label": "Let your AI agents paint big arrows, boxes and text on your screen"
+      },
+      {
+        "id": "show-hn-jevman-ai-decision-models-play-pac-man",
+        "label": "Show HN: Jevman – AI decision models play Pac-Man"
+      },
+      {
+        "id": "openai-fires-three-safety-researchers-for-mishandling-research-information",
+        "label": "OpenAI fires three safety researchers for \"mishandling research information\""
+      },
+      {
         "id": "the-deeply-impersonal-personalized-recruiter-mail",
         "label": "The Deeply Impersonal Personalized Recruiter Mail"
       },
@@ -261,8 +350,20 @@
         "label": "Sub-1-Bit LLM Compression via Latent Factorization"
       },
       {
+        "id": "show-hn-pocketty-iphone-ssh-terminal-that-pings-you-when-an-agent-is-blocked",
+        "label": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked"
+      },
+      {
         "id": "show-hn-i-put-an-ai-agent-on-a-nokia-110",
         "label": "Show HN: I Put an AI Agent on a Nokia 110"
+      },
+      {
+        "id": "scaling-and-benchmarking-a-critical-message-bus-using-a-new-indexing-strategy",
+        "label": "Scaling and benchmarking a critical message bus using a new indexing strategy"
+      },
+      {
+        "id": "show-hn-edi-life-os-self-hosted-life-dashboard-with-an-mcp-server-for-ai",
+        "label": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI"
       },
       {
         "id": "show-hn-terrainsr-fast-realistic-heightmap-upscaling-model",
@@ -278,6 +379,6 @@
       }
     ],
     "date_bj": "2026-10-09 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-09 06:01:52"
+    "generated_at_bj": "2026-10-09 20:04:03"
   }
 }

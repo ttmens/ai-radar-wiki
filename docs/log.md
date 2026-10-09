@@ -5182,3 +5182,25 @@
 - create: fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effec.md
 - create: show-hn-free-open-source-adobe-lightroom-alternative-completely-local-with-ai.md
 - create: show-hn-terrainsr-fast-realistic-heightmap-upscaling-model.md
+
+## [2026-10-09 20:04] sync v3 | 20 new | pillars: {'capabilities': 12, 'ecosystem': 5, 'patterns': 3}
+- create: csf-contextual-safety-filtering-for-motion-generators.md
+- create: on-the-estimation-and-validity-of-ai-time-horizons-a-statistical-look-at-the-met.md
+- create: a-balanced-data-diet-addressing-the-exploration-bottleneck-in-mega-scale-rl-for.md
+- create: from-reactive-containment-to-proactive-assurance-lessons-from-openai-anthropic-a.md
+- create: brickbench-evaluating-agentic-brick-design.md
+- create: one-block-multiple-depths-recurrent-vision-transformers-with-depth-programmed-ex.md
+- create: bi-fork-generative-modeling-of-high-dimensional-bifurcating-systems.md
+- create: caught-in-the-act-probes-effectively-detect-sabotage-and-catch-unverbalized-dece.md
+- create: rounding-in-preconditioner-space-redesigning-4-bit-adamw-optimizer-state-quantiz.md
+- create: density-ratio-estimation-with-stein-displacement-fields.md
+- create: ecology-of-ai-agents-collaboration-creates-a-population-threshold-for-takeoff.md
+- create: viola-learning-generalist-humanoid-control-policies-from-human-data.md
+- create: let-your-ai-agents-paint-big-arrows-boxes-and-text-on-your-screen.md
+- create: openai-fires-three-safety-researchers-for-mishandling-research-information.md
+- create: openai-the-partition-principle-and-mathematics.md
+- create: ai-ready-biological-data-18b-global-commitment.md
+- create: scaling-and-benchmarking-a-critical-message-bus-using-a-new-indexing-strategy.md
+- create: show-hn-jevman-ai-decision-models-play-pac-man.md
+- create: show-hn-edi-life-os-self-hosted-life-dashboard-with-an-mcp-server-for-ai.md
+- create: show-hn-pocketty-iphone-ssh-terminal-that-pings-you-when-an-agent-is-blocked.md
