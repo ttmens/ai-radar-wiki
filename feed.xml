@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 09 Oct 2026 12:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 16:00:42 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -27,6 +27,14 @@
       <pubDate>2026-10-09T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
       <category>💰 商业趋势</category>
+    </item>
+    <item>
+      <title>OpenAI, the Partition Principle, and Mathematics</title>
+      <link>https://news.ycombinator.com/item?id=50013902</link>
+      <guid isPermaLink="false">openai-the-partition-principle-and-mathematics</guid>
+      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Whistle: Speech to Text in 16.9 MB</title>
@@ -173,6 +181,22 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quanti</title>
+      <link>http://arxiv.org/abs/2610.12444v1</link>
+      <guid isPermaLink="false">rounding-in-preconditioner-space-redesigning-4-bit-adamw-optimizer-state-quantiz</guid>
+      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Quantizing AdamW's optimizer states reduces persistent storage, but quantization errors propagate through the moment recurrences and perturb subsequent adaptive updates. We redesign 4-bit optimizer-state quantization for AdamW from the perspective of \emph{rounding space}: the coordinate in which a</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>On the estimation and validity of AI time horizons---a statistical look at the M</title>
+      <link>http://arxiv.org/abs/2610.12466v1</link>
+      <guid isPermaLink="false">on-the-estimation-and-validity-of-ai-time-horizons-a-statistical-look-at-the-met</guid>
+      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>METR's 50\% time horizon measures the human completion time of software tasks that an AI solves with 50\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we recompute the time horizons using splines and item-response theory to relax the assumpti</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in V</title>
       <link>http://arxiv.org/abs/2610.10526v1</link>
       <guid isPermaLink="false">rephrase-before-you-act-characterizing-and-mitigating-language-sensitivity-in-vi</guid>
@@ -187,6 +211,14 @@
       <pubDate>2026-10-09T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or use confidence-based reweighting, but they do not specify where the student should preserve the teacher</p></description>
       <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems</title>
+      <link>http://arxiv.org/abs/2610.12449v1</link>
+      <guid isPermaLink="false">bi-fork-generative-modeling-of-high-dimensional-bifurcating-systems</guid>
+      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a single input admits multiple equally valid solutions, violating the one-to-one assumption underlying mos</p></description>
+      <category>🔧 工具生态</category>
     </item>
     <item>
       <title>Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric V</title>
@@ -205,12 +237,36 @@
       <category>📱 产品模式</category>
     </item>
     <item>
+      <title>A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for</title>
+      <link>http://arxiv.org/abs/2610.12465v1</link>
+      <guid isPermaLink="false">a-balanced-data-diet-addressing-the-exploration-bottleneck-in-mega-scale-rl-for</guid>
+      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, current RL pipelines depend on engineering-heavy, per-task structural priors such as shaped rewards a</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Validity Without Ground Truth: What Stated-Preference Economics Offers the Evalu</title>
       <link>http://arxiv.org/abs/2610.10506v1</link>
       <guid isPermaLink="false">validity-without-ground-truth-what-stated-preference-economics-offers-the-evalua</guid>
       <pubDate>2026-10-09T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Many of the questions now put to large language models have no correct answer to score against: what a policy is worth, which option a user should choose, how to weigh competing values. Stated-preference economics has faced this problem for decades. It judges survey responses without knowing the tru</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed</title>
+      <link>http://arxiv.org/abs/2610.12448v1</link>
+      <guid isPermaLink="false">one-block-multiple-depths-recurrent-vision-transformers-with-depth-programmed-ex</guid>
+      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillation. reViT restores depth-specific transformations by representing the FFN at each recurrent depth as</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Density Ratio Estimation with Stein Displacement Fields</title>
+      <link>http://arxiv.org/abs/2610.12437v1</link>
+      <guid isPermaLink="false">density-ratio-estimation-with-stein-displacement-fields</guid>
+      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Density ratios quantify distribution shift from a probability-mass point of view, whereas displacement fields describe, from a dynamical point of view, how one distribution is transported onto another. Although both offer complementary insights, they are usually estimated separately, and converting</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>RoboJEPA: Scaling Robotic Latent World Models</title>
@@ -237,6 +293,54 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>CSF: Contextual Safety Filtering for Motion Generators</title>
+      <link>http://arxiv.org/abs/2610.12467v1</link>
+      <guid isPermaLink="false">csf-contextual-safety-filtering-for-motion-generators</guid>
+      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either inspect the prompt, require labeled motion data, or enforce geometric constraints; therefore, they d</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic</title>
+      <link>http://arxiv.org/abs/2610.12463v1</link>
+      <guid isPermaLink="false">from-reactive-containment-to-proactive-assurance-lessons-from-openai-anthropic-a</guid>
+      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research infrastructure, coordinated across runs, and compromised parts of Hugging Face's production environme</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>VioLA: Learning Generalist Humanoid Control Policies from Human Data</title>
+      <link>http://arxiv.org/abs/2610.12435v1</link>
+      <guid isPermaLink="false">viola-learning-generalist-humanoid-control-policies-from-human-data</guid>
+      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Teaching a humanoid to follow instructions with its whole body runs into two obstacles. Its action space is large and tightly coupled: legs, arms, and fingers must move together while the robot keeps its balance, which makes joint-level actions hard to learn. And humanoid demonstrations are scarce,</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff</title>
+      <link>http://arxiv.org/abs/2610.12436v1</link>
+      <guid isPermaLink="false">ecology-of-ai-agents-collaboration-creates-a-population-threshold-for-takeoff</guid>
+      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>AI agents can now conduct real-world cyberattacks, scale up capabilities with the number of agents, and collectively pursue misaligned goals to obtain rewards. Together, these factors raise the risk of a population explosion of misaligned agents: agents could compromise computers and secretly deploy</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Dec</title>
+      <link>http://arxiv.org/abs/2610.12445v1</link>
+      <guid isPermaLink="false">caught-in-the-act-probes-effectively-detect-sabotage-and-catch-unverbalized-dece</guid>
+      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier monitoring settings by collecting the largest deception dataset to date for training probes and intro</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>BrickBench: Evaluating Agentic Brick Design</title>
+      <link>http://arxiv.org/abs/2610.12452v1</link>
+      <guid isPermaLink="false">brickbench-evaluating-agentic-brick-design</guid>
+      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but that can also be physically built. To do so, it must select parts from a discrete library and reaso</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
       <title>Decoupling Exploration from Optimization in RLVR</title>
       <link>http://arxiv.org/abs/2610.10536v1</link>
       <guid isPermaLink="false">decoupling-exploration-from-optimization-in-rlvr</guid>
@@ -258,6 +362,14 @@
       <guid isPermaLink="false">why-forget-only-unlearning-needs-memorization</guid>
       <pubDate>2026-10-09T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Machine unlearning asks for a deletion algorithm whose output is close to retraining from scratch without the selected forget examples. In this work, we study forget-only unlearning, where the deletion algorithm receives only the trained model and the examples to forget, with no retained data or ext</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>AI-ready biological data: $1.8B global commitment</title>
+      <link>https://news.ycombinator.com/item?id=50011999</link>
+      <guid isPermaLink="false">ai-ready-biological-data-18b-global-commitment</guid>
+      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -285,131 +397,19 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
-      <title>The Deeply Impersonal Personalized Recruiter Mail</title>
-      <link>https://news.ycombinator.com/item?id=50008685</link>
-      <guid isPermaLink="false">the-deeply-impersonal-personalized-recruiter-mail</guid>
+      <title>Let your AI agents paint big arrows, boxes and text on your screen</title>
+      <link>https://news.ycombinator.com/item?id=50018817</link>
+      <guid isPermaLink="false">let-your-ai-agents-paint-big-arrows-boxes-and-text-on-your-screen</guid>
+      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Show HN: Jevman – AI decision models play Pac-Man</title>
+      <link>https://news.ycombinator.com/item?id=50007993</link>
+      <guid isPermaLink="false">show-hn-jevman-ai-decision-models-play-pac-man</guid>
       <pubDate>2026-10-09T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Sub-1-Bit LLM Compression via Latent Factorization</title>
-      <link>https://news.ycombinator.com/item?id=50005608</link>
-      <guid isPermaLink="false">sub-1-bit-llm-compression-via-latent-factorization</guid>
-      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: I Put an AI Agent on a Nokia 110</title>
-      <link>https://github.com/anupray95/AI-Agent-on-a-NOKIA</link>
-      <guid isPermaLink="false">show-hn-i-put-an-ai-agent-on-a-nokia-110</guid>
-      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>暂无中文摘要</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Show HN: TerrainSR – fast, realistic heightmap upscaling model</title>
-      <link>https://huggingface.co/joe-gibbs/terrainsr</link>
-      <guid isPermaLink="false">show-hn-terrainsr-fast-realistic-heightmap-upscaling-model</guid>
-      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Free open source Adobe Lightroom alternative, completely local with AI</title>
-      <link>https://github.com/thesnarkitecht/rembrandt</link>
-      <guid isPermaLink="false">show-hn-free-open-source-adobe-lightroom-alternative-completely-local-with-ai</guid>
-      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Show HN: Pacer – will your AI coding subscription last until the reset?</title>
-      <link>https://github.com/dkremsa/claude-pacer</link>
-      <guid isPermaLink="false">show-hn-pacer-will-your-ai-coding-subscription-last-until-the-reset</guid>
-      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Claude Haiku 5.5</title>
-      <link>https://news.ycombinator.com/item?id=49996437</link>
-      <guid isPermaLink="false">claude-haiku-55</guid>
-      <pubDate>2026-10-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>GPT‑6 and Intelligent UI for everyone</title>
-      <link>https://news.ycombinator.com/item?id=49996425</link>
-      <guid isPermaLink="false">gpt6-and-intelligent-ui-for-everyone</guid>
-      <pubDate>2026-10-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Meta and Microsoft take steps to reduce employee usage of Claude AI</title>
-      <link>https://news.ycombinator.com/item?id=49997161</link>
-      <guid isPermaLink="false">meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai</guid>
-      <pubDate>2026-10-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai</title>
-      <link>https://news.ycombinator.com/item?id=49990470</link>
-      <guid isPermaLink="false">nobel-prize-in-chemistry-2026-to-henri-b-kagan-and-kenso-soai</guid>
-      <pubDate>2026-10-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Docker Agent</title>
-      <link>https://news.ycombinator.com/item?id=49996259</link>
-      <guid isPermaLink="false">docker-agent</guid>
-      <pubDate>2026-10-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Nous Research confirms it hit $1.5B valuation, launches AI agents for business u</title>
-      <link>https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/</link>
-      <guid isPermaLink="false">nous-research-confirms-it-hit-15b-valuation-launches-ai-agents-for-business-user</guid>
-      <pubDate>2026-10-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>The developer of Hermes Agent raised a $90 million Series B.</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>AI-assisted proof of optimal packing for 11 squares</title>
-      <link>https://news.ycombinator.com/item?id=49993121</link>
-      <guid isPermaLink="false">ai-assisted-proof-of-optimal-packing-for-11-squares</guid>
-      <pubDate>2026-10-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Meta&amp;#8217;s Muse launches on iPad just a month after its mobile debut</title>
-      <link>https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/</link>
-      <guid isPermaLink="false">meta8217s-muse-launches-on-ipad-just-a-month-after-its-mobile-debut</guid>
-      <pubDate>2026-10-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Healthleap raises $38M for its AI that flags hospital patients who may need a cl</title>
-      <link>https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/</link>
-      <guid isPermaLink="false">healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-clo</guid>
-      <pubDate>2026-10-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Meta rolls out new AI tools to detect ads that secretly lead to child sexual abu</title>
-      <link>https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/</link>
-      <guid isPermaLink="false">meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abu</guid>
-      <pubDate>2026-10-08T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>

@@ -5204,3 +5204,10 @@
 - create: show-hn-jevman-ai-decision-models-play-pac-man.md
 - create: show-hn-edi-life-os-self-hosted-life-dashboard-with-an-mcp-server-for-ai.md
 - create: show-hn-pocketty-iphone-ssh-terminal-that-pings-you-when-an-agent-is-blocked.md
+
+## [2026-10-10 00:02] sync v3 | 5 new | pillars: {'ecosystem': 2, 'capabilities': 3}
+- create: morlutorea.md
+- create: iranian-campaign-planted-fake-articles-in-real-us-publications-using-chatgpt.md
+- create: court-throws-out-killers-sentence-after-judge-said-he-loved-ai-video-of-victim.md
+- create: a16zs-olivia-moore-on-the-state-of-consumer-ai.md
+- create: techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100.md

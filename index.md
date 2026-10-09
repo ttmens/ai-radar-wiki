@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-09 | Total pages: 4945
+> Last updated: 2026-10-10 | Total pages: 4950
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -436,6 +436,7 @@
 - [[coop-isolated-vm-environments-for-running-claude-code-and-codex.md]] Coop – Isolated VM Environments for Running Claude Code and Codex `pillar:capabilities` `score:0.155`
 - [[copyfail-from-pod-to-host.md]] CopyFail: From Pod to Host `pillar:capabilities` `score:0.295`
 - [[corporate-america-is-getting-hooked-on-open-source-ai.md]] Corporate America is getting hooked on open-source AI `pillar:capabilities` `score:0.455`
+- [[court-throws-out-killers-sentence-after-judge-said-he-loved-ai-video-of-victim.md]] Court throws out killer's sentence after judge said he loved AI video of victim `pillar:capabilities` `score:0.305`
 - [[crankgpt.md]] CrankGPT `pillar:capabilities` `score:0.565`
 - [[creatine-raises-brain-energy-levels-and-slows-cognitive-decline-study.md]] Creatine raises brain energy levels and slows cognitive decline: study `pillar:capabilities` `score:0.455`
 - [[crush-this-lady-how-ebay-harassment-campaign-led-to-56m-payout.md]] 'Crush this lady': how eBay harassment campaign led to $56M payout `pillar:capabilities` `score:0.255`
@@ -897,6 +898,7 @@
 - [[investigating-how-prompt-politeness-affects-llm-accuracy-2025.md]] Investigating how prompt politeness affects LLM accuracy (2025) `pillar:capabilities` `score:0.48`
 - [[ipfs-maintainers-winding-down.md]] IPFS Maintainers Winding Down `pillar:capabilities` `score:0.425`
 - [[iran-starts-bitcoin-backed-ship-insurance-for-hormuz-strait.md]] Iran starts Bitcoin-backed ship insurance for Hormuz strait `pillar:capabilities` `score:0.405`
+- [[iranian-campaign-planted-fake-articles-in-real-us-publications-using-chatgpt.md]] Iranian campaign planted fake articles in real U.S. publications using ChatGPT `pillar:capabilities` `score:0.375`
 - [[irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-ne.md]] IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you `pillar:capabilities` `score:0.48`
 - [[is-ai-causing-a-repeat-of-front-ends-lost-decade.md]] Is AI causing a repeat of Front end's Lost Decade? `pillar:capabilities` `score:0.515`
 - [[is-ai-reasoning-right-for-the-wrong-reasons.md]] Is AI reasoning right for the wrong reasons? `pillar:capabilities` `score:0.55`
@@ -1729,6 +1731,7 @@
 - [[techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-o.md]] TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation `pillar:capabilities` `score:0.305`
 - [[techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer.md]] TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer `pillar:capabilities` `score:0.305`
 - [[techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhosein.md]] TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhose `pillar:capabilities` `score:0.305`
+- [[techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100.md]] TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $1 `pillar:capabilities` `score:0.305`
 - [[techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-exti.md]] TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and e `pillar:capabilities` `score:0.305`
 - [[techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive.md]] TechCrunch Mobility: The AI skills arms race is coming for automotive `pillar:capabilities` `score:0.445`
 - [[tectonic-a-modernized-complete-self-contained-texlatex-engine.md]] Tectonic: A modernized, complete, self-contained TeX/LaTeX engine `pillar:capabilities` `score:0.325`
@@ -3354,6 +3357,7 @@
 - [[modulate-raises-25m-for-its-voice-models-and-analysis-suite.md]] Modulate raises $25M for its voice models and analysis suite `pillar:patterns` `score:0.305`
 - [[mondragon-corporation-a-federation-of-co-operatives.md]] Mondragon Corporation – a federation of co-operatives `pillar:patterns` `score:0.41`
 - [[more-tailscale-tricks-for-your-jailbroken-kindle.md]] More Tailscale tricks for your jailbroken Kindle `pillar:patterns` `score:0.39`
+- [[morlutorea.md]] morluto/rea `pillar:patterns` `score:0.405`
 - [[multi-agents-llm-financial-trading-framework.md]] Multi-Agents LLM Financial Trading Framework `pillar:patterns` `score:0.255`
 - [[munder-difflin-agent-harness-to-run-an-office-of-your-clones.md]] Munder Difflin – Agent harness to run an office of your clones `pillar:patterns` `score:0.425`
 - [[muse-metas-personal-ai-agent-features-and-capabilities.md]] Muse: Meta's personal AI agent, features and capabilities `pillar:patterns` `score:0.455`
@@ -3835,6 +3839,7 @@
 - [[a-new-bill-takes-aim-at-government-pressure-to-silence-lawful-online-speech.md]] A new bill takes aim at government pressure to silence lawful online speech `pillar:ecosystem` `score:0.46`
 - [[a-searchable-library-of-forgotten-public-domain-film-clips-from-1915-onward.md]] A searchable library of forgotten public-domain film clips from 1915 onward `pillar:ecosystem` `score:0.305`
 - [[a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight.md]] A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight `pillar:ecosystem` `score:0.445`
+- [[a16zs-olivia-moore-on-the-state-of-consumer-ai.md]] A16z’s Olivia Moore on the state of consumer AI `pillar:ecosystem` `score:0.305`
 - [[aaif-goosegoose.md]] aaif-goose/goose `pillar:ecosystem` `score:0.58`
 - [[adafruit-receives-demand-letter-from-fenwick-legal-counsel-on-behalf-of-fluxai.md]] Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai `pillar:ecosystem` `score:0.565`
 - [[adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs.md]] Adobe acquires image and video enhancement tool maker Topaz Labs `pillar:ecosystem` `score:0.515`
