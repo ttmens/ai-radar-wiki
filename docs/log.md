@@ -5241,3 +5241,11 @@
 - create: mxc-microsoft-execution-containers-version-100.md
 - create: 3-days-to-techcrunch-disrupt-2026-meet-the-startups-before-they-hit-mainstream.md
 - create: here-are-the-top-ai-agents-that-can-live-in-your-text-messages.md
+
+## [2026-10-11 06:02] sync v3 | 6 new | pillars: {'capabilities': 6}
+- create: recent-ai-models-struggled-to-match-a-human-algorithmic-innovation.md
+- create: nvidia-in-talks-to-acquire-us-open-model-startup-reflection-ai.md
+- create: grieving-the-loss-of-details.md
+- create: openscad-the-programmers-solid-3d-cad-modeller.md
+- create: microsofts-satya-nadella-says-ai-models-need-an-emergency-brake.md
+- create: apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-sta.md

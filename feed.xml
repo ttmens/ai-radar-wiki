@@ -5,13 +5,53 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 10 Oct 2026 16:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 20:00:47 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Talorys – A self-hosted personal AI agent on Cloudflare's free tier</title>
+      <link>https://news.ycombinator.com/item?id=50031614</link>
+      <guid isPermaLink="false">talorys-a-self-hosted-personal-ai-agent-on-cloudflares-free-tier</guid>
+      <pubDate>2026-10-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Bitwarden Dual License Model</title>
+      <link>https://news.ycombinator.com/item?id=50033407</link>
+      <guid isPermaLink="false">bitwarden-dual-license-model</guid>
+      <pubDate>2026-10-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Here are the top AI agents that can live in your text messages</title>
+      <link>https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
+      <guid isPermaLink="false">here-are-the-top-ai-agents-that-can-live-in-your-text-messages</guid>
+      <pubDate>2026-10-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream</title>
+      <link>https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/</link>
+      <guid isPermaLink="false">3-days-to-techcrunch-disrupt-2026-meet-the-startups-before-they-hit-mainstream</guid>
+      <pubDate>2026-10-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Mxc: Microsoft Execution Containers version 1.0.0</title>
+      <link>https://news.ycombinator.com/item?id=50016956</link>
+      <guid isPermaLink="false">mxc-microsoft-execution-containers-version-100</guid>
+      <pubDate>2026-10-11T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>Typesafe AI raises $870M at $7.5B</title>
       <link>https://news.ycombinator.com/item?id=50023450</link>
@@ -371,46 +411,6 @@
       <pubDate>2026-10-09T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Online learning is an attractive framework in many domains because it permits well-defined learning even when data are dependent or chosen adversarially. This generality, however, comes at a steep price, introducing significant statistical and computational barriers. Recently, smoothed online learni</p></description>
       <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quanti</title>
-      <link>http://arxiv.org/abs/2610.12444v1</link>
-      <guid isPermaLink="false">rounding-in-preconditioner-space-redesigning-4-bit-adamw-optimizer-state-quantiz</guid>
-      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Quantizing AdamW's optimizer states reduces persistent storage, but quantization errors propagate through the moment recurrences and perturb subsequent adaptive updates. We redesign 4-bit optimizer-state quantization for AdamW from the perspective of \emph{rounding space}: the coordinate in which a</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>On the estimation and validity of AI time horizons---a statistical look at the M</title>
-      <link>http://arxiv.org/abs/2610.12466v1</link>
-      <guid isPermaLink="false">on-the-estimation-and-validity-of-ai-time-horizons-a-statistical-look-at-the-met</guid>
-      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>METR's 50\% time horizon measures the human completion time of software tasks that an AI solves with 50\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we recompute the time horizons using splines and item-response theory to relax the assumpti</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in V</title>
-      <link>http://arxiv.org/abs/2610.10526v1</link>
-      <guid isPermaLink="false">rephrase-before-you-act-characterizing-and-mitigating-language-sensitivity-in-vi</guid>
-      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can move success by tens of points: $π_{0.5}$ turns on a LIBERO stove 100% of the time for "switch on the</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs</title>
-      <link>http://arxiv.org/abs/2610.10520v1</link>
-      <guid isPermaLink="false">distilling-graph-geometry-knowledge-gap-from-gnns-to-mlps</guid>
-      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or use confidence-based reweighting, but they do not specify where the student should preserve the teacher</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems</title>
-      <link>http://arxiv.org/abs/2610.12449v1</link>
-      <guid isPermaLink="false">bi-fork-generative-modeling-of-high-dimensional-bifurcating-systems</guid>
-      <pubDate>2026-10-09T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a single input admits multiple equally valid solutions, violating the one-to-one assumption underlying mos</p></description>
-      <category>🔧 工具生态</category>
     </item>
   </channel>
 </rss>

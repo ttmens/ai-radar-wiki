@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-11 | Total pages: 4974
+> Last updated: 2026-10-11 | Total pages: 4980
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -228,6 +228,7 @@
 - [[any-text-to-sql-benchmark-should-address-difficulties-of-real-world-data-stores.md]] Any text-to-SQL benchmark should address difficulties of real-world data stores `pillar:capabilities` `score:0.33`
 - [[apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac-studio.md]] Apple caught off guard by AI demand for Mac Mini and Mac Studio `pillar:capabilities` `score:0.455`
 - [[apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone.md]] Apple CEO John Ternus says the best AI device is still the iPhone `pillar:capabilities` `score:0.305`
+- [[apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-sta.md]] Apple discloses deal to hire team and license tech from personalized podcast sta `pillar:capabilities` `score:0.305`
 - [[apple-foundation-models.md]] Apple Foundation Models `pillar:capabilities` `score:0.48`
 - [[apple-gives-siri-its-own-dedicated-app.md]] Apple gives Siri its own dedicated app `pillar:capabilities` `score:0.445`
 - [[apple-has-a-new-way-to-prove-your-iphone-photos-arent-ai-slop.md]] Apple has a new way to prove your iPhone photos aren’t AI slop `pillar:capabilities` `score:0.305`
@@ -742,6 +743,7 @@
 - [[grapheneos-protections-against-data-extraction-from-locked-devices.md]] GrapheneOS protections against data extraction from locked devices `pillar:capabilities` `score:0.395`
 - [[grapheneos-speech-services-version-2-released.md]] GrapheneOS Speech Services version 2 released `pillar:capabilities` `score:0.295`
 - [[greg-kroah-hartman-security-in-the-llm-age-video.md]] Greg Kroah-Hartman – Security in the LLM Age [video] `pillar:capabilities` `score:0.305`
+- [[grieving-the-loss-of-details.md]] Grieving the loss of details `pillar:capabilities` `score:0.455`
 - [[gritt-exits-stealth-with-32-million-for-robots-to-build-solar-plants-then-everyt.md]] Gritt exits stealth with $32 million for robots to build solar plants — then, ev `pillar:capabilities` `score:0.48`
 - [[grok-uploaded-my-user-directory-to-xais-servers.md]] Grok uploaded my user directory to xAI's servers `pillar:capabilities` `score:0.6`
 - [[growing-neural-cellular-automata.md]] Growing Neural Cellular Automata `pillar:capabilities` `score:0.295`
@@ -1087,6 +1089,7 @@
 - [[microsoft8217s-new-ai-8216code-of-conduct8217-tells-models-not-to-hack-systems-o.md]] Microsoft&#8217;s new AI &#8216;code of conduct&#8217; tells models not to hack `pillar:capabilities` `score:0.305`
 - [[microsoftairsim.md]] microsoft/AirSim `pillar:capabilities` `score:0.58`
 - [[microsoftonnxruntime.md]] microsoft/onnxruntime `pillar:capabilities` `score:0.615`
+- [[microsofts-satya-nadella-says-ai-models-need-an-emergency-brake.md]] Microsoft’s Satya Nadella says AI models need an ‘emergency brake’ `pillar:capabilities` `score:0.305`
 - [[midjourney-medical.md]] Midjourney Medical `pillar:capabilities` `score:0.595`
 - [[mike-tomlin-spent-12-years-building-a-minecraft-city.md]] Mike Tomlin spent 12 years building a Minecraft city `pillar:capabilities` `score:0.405`
 - [[milvus-iomilvus.md]] milvus-io/milvus `pillar:capabilities` `score:0.615`
@@ -1175,6 +1178,7 @@
 - [[nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip.md]] Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip `pillar:capabilities` `score:0.445`
 - [[nvidia-confirms-it-will-buy-hugging-face-for-129-billion.md]] Nvidia confirms it will buy Hugging Face for $12.9 billion `pillar:capabilities` `score:0.305`
 - [[nvidia-dgx-spark-as-a-daily-driver.md]] Nvidia DGX Spark as a daily driver `pillar:capabilities` `score:0.465`
+- [[nvidia-in-talks-to-acquire-us-open-model-startup-reflection-ai.md]] Nvidia in talks to acquire US 'open' model startup Reflection AI `pillar:capabilities` `score:0.305`
 - [[nvidia-is-a-victim-of-the-compute-marketplace-it-created.md]] Nvidia is a victim of the compute marketplace it created `pillar:capabilities` `score:0.305`
 - [[nvidia-is-sending-gpus-to-the-moon.md]] Nvidia is sending GPUs to the moon `pillar:capabilities` `score:0.48`
 - [[nvidia-is-the-central-bank-of-ai.md]] Nvidia is the central bank of AI `pillar:capabilities` `score:0.205`
@@ -1273,6 +1277,7 @@
 - [[openais-new-reasoning-technique-alarms-ai-safety-experts.md]] OpenAI’s new reasoning technique alarms AI safety experts `pillar:capabilities` `score:0.305`
 - [[openarch-pytorch-implementations-of-modern-llm-architectures.md]] OpenArch – PyTorch implementations of modern LLM architectures `pillar:capabilities` `score:0.305`
 - [[opendlss-a-vulkan-reimplementation-of-nvidias-dlss-5-neural-rendering-network.md]] OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network `pillar:capabilities` `score:0.425`
+- [[openscad-the-programmers-solid-3d-cad-modeller.md]] OpenSCAD the Programmers Solid 3D CAD Modeller `pillar:capabilities` `score:0.305`
 - [[opentpu-an-open-source-ai-accelerator-developed-by-ai.md]] OpenTPU – An open-source AI accelerator, developed by AI `pillar:capabilities` `score:0.455`
 - [[opus-55-is-good-at-explainer-videos.md]] Opus 5.5 is good at explainer videos `pillar:capabilities` `score:0.355`
 - [[opus-55-loves-to-tell-you-8216this-matters8217-and-other-ai-writing-tells.md]] Opus 5.5 loves to tell you &#8216;this matters&#8217; (and other AI writing tell `pillar:capabilities` `score:0.305`
@@ -1370,6 +1375,7 @@
 - [[real-time-llm-inference-on-standard-gpus-3k-tokenss-per-request.md]] Real-time LLM Inference on Standard GPUs: 3k tokens/s per request `pillar:capabilities` `score:0.565`
 - [[real-time-map-of-great-britains-rail-network.md]] Real-time map of Great Britain's rail network `pillar:capabilities` `score:0.565`
 - [[reality-has-a-surprising-amount-of-detail-2017.md]] Reality has a surprising amount of detail (2017) `pillar:capabilities` `score:0.53`
+- [[recent-ai-models-struggled-to-match-a-human-algorithmic-innovation.md]] Recent AI models struggled to match a human algorithmic innovation `pillar:capabilities` `score:0.255`
 - [[record-breaking-solo-rower-kelsey-pfendler-arrives-in-hawaii.md]] Record-breaking solo rower Kelsey Pfendler arrives in Hawaii `pillar:capabilities` `score:0.085`
 - [[record-type-inference-for-dummies.md]] Record type inference for dummies `pillar:capabilities` `score:0.33`
 - [[recreating-minecraft-is-not-a-benchmark.md]] Recreating Minecraft Is Not a Benchmark `pillar:capabilities` `score:0.305`

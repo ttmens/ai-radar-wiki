@@ -1,8 +1,19 @@
 {
   "date": "2026-10-11",
-  "generated_at": "2026-10-11T00:02:40.995161+08:00",
-  "item_count": 4,
+  "generated_at": "2026-10-11T06:02:34.925581+08:00",
+  "item_count": 9,
   "items": [
+    {
+      "id": "grieving-the-loss-of-details",
+      "label": "Grieving the loss of details",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49980880",
+      "date": "2026-10-11"
+    },
     {
       "id": "talorys-a-self-hosted-personal-ai-agent-on-cloudflares-free-tier",
       "label": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
@@ -26,6 +37,39 @@
       "date": "2026-10-11"
     },
     {
+      "id": "openscad-the-programmers-solid-3d-cad-modeller",
+      "label": "OpenSCAD the Programmers Solid 3D CAD Modeller",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=49984349",
+      "date": "2026-10-11"
+    },
+    {
+      "id": "nvidia-in-talks-to-acquire-us-open-model-startup-reflection-ai",
+      "label": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50035886",
+      "date": "2026-10-11"
+    },
+    {
+      "id": "microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
+      "label": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "date": "2026-10-11"
+    },
+    {
       "id": "here-are-the-top-ai-agents-that-can-live-in-your-text-messages",
       "label": "Here are the top AI agents that can live in your text messages",
       "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
@@ -34,6 +78,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "date": "2026-10-11"
+    },
+    {
+      "id": "apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-sta",
+      "label": "Apple discloses deal to hire team and license tech from personalized podcast sta",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
       "date": "2026-10-11"
     },
     {
@@ -49,7 +104,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 9390,
-    "edges": 10256
+    "real_nodes": 9396,
+    "edges": 10262
   }
 }

@@ -10,10 +10,10 @@
         "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "bitwarden-dual-license-model",
-            "title": "Bitwarden Dual License Model",
-            "score": 0.35,
-            "url": "https://news.ycombinator.com/item?id=50033407",
+            "id": "grieving-the-loss-of-details",
+            "title": "Grieving the loss of details",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=49980880",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -50,10 +50,14 @@
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       }
     ],
-    "stats": "📱 产品模式: 2 | 🤖 技术能力: 3",
-    "total_items": 5,
-    "high_value_count": 4,
+    "stats": "🤖 技术能力: 9 | 📱 产品模式: 2",
+    "total_items": 11,
+    "high_value_count": 9,
     "all_today_ids": [
+      {
+        "id": "grieving-the-loss-of-details",
+        "label": "Grieving the loss of details"
+      },
       {
         "id": "talorys-a-self-hosted-personal-ai-agent-on-cloudflares-free-tier",
         "label": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier"
@@ -63,12 +67,32 @@
         "label": "Bitwarden Dual License Model"
       },
       {
+        "id": "openscad-the-programmers-solid-3d-cad-modeller",
+        "label": "OpenSCAD the Programmers Solid 3D CAD Modeller"
+      },
+      {
+        "id": "nvidia-in-talks-to-acquire-us-open-model-startup-reflection-ai",
+        "label": "Nvidia in talks to acquire US 'open' model startup Reflection AI"
+      },
+      {
+        "id": "microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
+        "label": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’"
+      },
+      {
         "id": "here-are-the-top-ai-agents-that-can-live-in-your-text-messages",
         "label": "Here are the top AI agents that can live in your text messages"
       },
       {
+        "id": "apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-sta",
+        "label": "Apple discloses deal to hire team and license tech from personalized podcast sta"
+      },
+      {
         "id": "3-days-to-techcrunch-disrupt-2026-meet-the-startups-before-they-hit-mainstream",
         "label": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream"
+      },
+      {
+        "id": "recent-ai-models-struggled-to-match-a-human-algorithmic-innovation",
+        "label": "Recent AI models struggled to match a human algorithmic innovation"
       },
       {
         "id": "mxc-microsoft-execution-containers-version-100",
@@ -76,6 +100,6 @@
       }
     ],
     "date_bj": "2026-10-11 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-11 00:02:09"
+    "generated_at_bj": "2026-10-11 06:02:03"
   }
 }
