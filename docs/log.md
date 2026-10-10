@@ -5211,3 +5211,23 @@
 - create: court-throws-out-killers-sentence-after-judge-said-he-loved-ai-video-of-victim.md
 - create: a16zs-olivia-moore-on-the-state-of-consumer-ai.md
 - create: techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100.md
+
+## [2026-10-10 16:04] sync v3 | 18 new | pillars: {'capabilities': 12, 'patterns': 5, 'ecosystem': 1}
+- create: typesafe-ai-raises-870m-at-75b.md
+- create: can-you-use-autoregressive-diffusion-to-generate-market-data.md
+- create: pointing-ai-at-archives-found-a-forgotten-meteorite-lost-rhinos-and-more.md
+- create: what-mathematicians-should-know-about-the-lean-theorem-prover-reliability-ai.md
+- create: anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say.md
+- create: rewriting-prime-agent-in-rust.md
+- create: microsoft-decision-1-our-model-for-fast-decision-making.md
+- create: training-text-to-image-models-without-a-vae.md
+- create: why-are-coding-agents-so-dumb.md
+- create: anthropic-can8217t-reliably-control-its-ai-agents-it8217s-cutting-off-its-intern.md
+- create: the-maker-of-non-text-ai-model-jev-valued-at-75b-just-weeks-after-launch.md
+- create: an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police.md
+- create: amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-buil.md
+- create: amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card.md
+- create: danu-robotics8217-fight-to-build-a-better-recycling-robot.md
+- create: we-can8217t-help-treating-ai-like-it8217s-human-but-should-we.md
+- create: show-hn-a-simple-to-do-app-for-iphone-mac-and-your-agent.md
+- create: show-hn-babytalk-offline-speech-to-text-and-text-to-speech-on-esp32.md

@@ -1,8 +1,19 @@
 {
   "date": "2026-10-10",
-  "generated_at": "2026-10-10T00:02:39.582255+08:00",
-  "item_count": 5,
+  "generated_at": "2026-10-10T16:04:40.748313+08:00",
+  "item_count": 17,
   "items": [
+    {
+      "id": "typesafe-ai-raises-870m-at-75b",
+      "label": "Typesafe AI raises $870M at $7.5B",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50023450",
+      "date": "2026-10-10"
+    },
     {
       "id": "morlutorea",
       "label": "morluto/rea",
@@ -26,6 +37,39 @@
       "date": "2026-10-10"
     },
     {
+      "id": "anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say",
+      "label": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.375,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50027118",
+      "date": "2026-10-10"
+    },
+    {
+      "id": "microsoft-decision-1-our-model-for-fast-decision-making",
+      "label": "Microsoft-Decision-1, our model for fast decision-making",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50024913",
+      "date": "2026-10-10"
+    },
+    {
+      "id": "pointing-ai-at-archives-found-a-forgotten-meteorite-lost-rhinos-and-more",
+      "label": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50019056",
+      "date": "2026-10-10"
+    },
+    {
       "id": "court-throws-out-killers-sentence-after-judge-said-he-loved-ai-video-of-victim",
       "label": "Court throws out killer's sentence after judge said he loved AI video of victim",
       "summary": "暂无中文摘要",
@@ -37,6 +81,39 @@
       "date": "2026-10-10"
     },
     {
+      "id": "danu-robotics8217-fight-to-build-a-better-recycling-robot",
+      "label": "Danu Robotics&#8217; fight to build a better recycling robot",
+      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "date": "2026-10-10"
+    },
+    {
+      "id": "amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-buil",
+      "label": "Amazon and others are done keeping data center deals secret. Is it enough to bui",
+      "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;propose",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "date": "2026-10-10"
+    },
+    {
+      "id": "amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card",
+      "label": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;propose",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "date": "2026-10-10"
+    },
+    {
       "id": "techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100",
       "label": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $1",
       "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
@@ -45,6 +122,61 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+      "date": "2026-10-10"
+    },
+    {
+      "id": "an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+      "label": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "date": "2026-10-10"
+    },
+    {
+      "id": "the-maker-of-non-text-ai-model-jev-valued-at-75b-just-weeks-after-launch",
+      "label": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "date": "2026-10-10"
+    },
+    {
+      "id": "we-can8217t-help-treating-ai-like-it8217s-human-but-should-we",
+      "label": "We can&#8217;t help treating AI like it&#8217;s human. But should we?",
+      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "date": "2026-10-10"
+    },
+    {
+      "id": "why-are-coding-agents-so-dumb",
+      "label": "Why are coding agents so dumb?",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50020947",
+      "date": "2026-10-10"
+    },
+    {
+      "id": "anthropic-can8217t-reliably-control-its-ai-agents-it8217s-cutting-off-its-intern",
+      "label": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
       "date": "2026-10-10"
     },
     {
@@ -60,7 +192,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 9366,
-    "edges": 10228
+    "real_nodes": 9384,
+    "edges": 10248
   }
 }
