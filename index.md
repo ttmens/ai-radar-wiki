@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-10 | Total pages: 4969
+> Last updated: 2026-10-11 | Total pages: 4974
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -18,6 +18,7 @@
 - [[3-days-left-to-exhibit-get-your-brand-in-front-of-vcs-and-high-value-leads-at-te.md]] 3 days left to exhibit: Get your brand in front of VCs and high-value leads at T `pillar:capabilities` `score:0.305`
 - [[3-days-left-to-exhibit-turn-visibility-into-your-next-opportunity-at-techcrunch.md]] 3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch `pillar:capabilities` `score:0.305`
 - [[3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disru.md]] 3 days left to save up to $200 and make impactful connections at TechCrunch Disr `pillar:capabilities` `score:0.305`
+- [[3-days-to-techcrunch-disrupt-2026-meet-the-startups-before-they-hit-mainstream.md]] 3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream `pillar:capabilities` `score:0.305`
 - [[30paperscom-ilyas-30-essential-ml-papers-in-a-beginner-friendly-format.md]] 30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format `pillar:capabilities` `score:0.46`
 - [[32gb-of-ddr5-now-costs-375-ai-shortage-continues-to-squeeze-pc-building.md]] 32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building `pillar:capabilities` `score:0.515`
 - [[3d-printed-book-turns-its-own-g-code-into-raised-lettering.md]] 3D-printed book turns its own G-code into raised lettering `pillar:capabilities` `score:0.395`
@@ -312,6 +313,7 @@
 - [[billionaire-ambani-wants-ai-in-every-call-app-and-home.md]] Billionaire Ambani wants AI in every call, app, and home `pillar:capabilities` `score:0.515`
 - [[biohub-releases-a-world-model-of-protein-biology.md]] Biohub releases a world model of protein biology `pillar:capabilities` `score:0.415`
 - [[biology-might-not-be-quantum-but-its-math-is-quantumlike.md]] Biology might not be quantum, but its math is quantumlike `pillar:capabilities` `score:0.255`
+- [[bitwarden-dual-license-model.md]] Bitwarden Dual License Model `pillar:capabilities` `score:0.355`
 - [[blinkdlrwkv-lm.md]] BlinkDL/RWKV-LM `pillar:capabilities` `score:0.405`
 - [[bmad-code-orgbmad-method.md]] bmad-code-org/BMAD-METHOD `pillar:capabilities` `score:0.405`
 - [[boffin-claims-microsofts-quantum-leap-is-invalid-due-to-basic-python-errors.md]] Boffin claims Microsoft’s “quantum leap” is invalid due to “basic Python errors” `pillar:capabilities` `score:0.53`
@@ -1126,6 +1128,7 @@
 - [[munich-1991-the-roots-of-the-current-ai-boom.md]] Munich 1991: The Roots of the Current AI Boom `pillar:capabilities` `score:0.51`
 - [[museum-of-imaginary-musical-instruments.md]] Museum of Imaginary Musical Instruments `pillar:capabilities` `score:0.295`
 - [[musk8217s-faster-path-to-more-gas-turbines-comes-with-pollution-problem.md]] Musk&#8217;s faster path to more gas turbines comes with pollution problem `pillar:capabilities` `score:0.305`
+- [[mxc-microsoft-execution-containers-version-100.md]] Mxc: Microsoft Execution Containers version 1.0.0 `pillar:capabilities` `score:0.155`
 - [[my-dad-helped-build-north-americas-oat-supply-chain-can-it-be-remade.md]] My dad helped build North America's oat supply chain: Can it be remade? `pillar:capabilities` `score:0.36`
 - [[my-domain-got-abused-on-github-pages.md]] My domain got abused on GitHub Pages `pillar:capabilities` `score:0.26`
 - [[my-favorite-bugs-invalid-surrogate-pairs.md]] My Favorite Bugs: Invalid Surrogate Pairs `pillar:capabilities` `score:0.26`
@@ -3252,6 +3255,7 @@
 - [[headlong-a-microharness-for-persistent-agents.md]] Headlong: A Microharness for Persistent Agents `pillar:patterns` `score:0.255`
 - [[heavy-tv-watching-associated-with-smaller-brain-structures-study-finds.md]] Heavy TV watching associated with smaller brain structures, study finds `pillar:patterns` `score:0.29`
 - [[herdr-agent-multiplexer-that-lives-in-your-terminal.md]] Herdr: Agent multiplexer that lives in your terminal `pillar:patterns` `score:0.43`
+- [[here-are-the-top-ai-agents-that-can-live-in-your-text-messages.md]] Here are the top AI agents that can live in your text messages `pillar:patterns` `score:0.305`
 - [[here8217s-why-openai-is-absent-from-nvidia8217s-industry-wide-effort-to-end-rogu.md]] Here&#8217;s why OpenAI is absent from Nvidia&#8217;s industry-wide effort to en `pillar:patterns` `score:0.305`
 - [[hermes-radio-enables-voice-and-data-communication-over-vast-distances.md]] HERMES radio enables voice and data communication over vast distances `pillar:patterns` `score:0.305`
 - [[hey-siri-here8217s-what-i-actually-want-from-ai.md]] Hey Siri, here&#8217;s what I actually want from AI `pillar:patterns` `score:0.515`
@@ -3648,6 +3652,7 @@
 - [[stefan-jansenmachine-learning-for-trading.md]] stefan-jansen/machine-learning-for-trading `pillar:patterns` `score:0.51`
 - [[stop-telling-me-to-ask-an-llm.md]] Stop Telling Me to Ask an LLM `pillar:patterns` `score:0.6`
 - [[superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-fo.md]] Superhuman acquires YC-backed notetaker Fathom as productivity platforms push fo `pillar:patterns` `score:0.305`
+- [[talorys-a-self-hosted-personal-ai-agent-on-cloudflares-free-tier.md]] Talorys – A self-hosted personal AI agent on Cloudflare's free tier `pillar:patterns` `score:0.355`
 - [[tauricresearchtradingagents.md]] TauricResearch/TradingAgents `pillar:patterns` `score:0.58`
 - [[temporary-cloudflare-accounts-for-ai-agents.md]] Temporary Cloudflare Accounts for AI Agents `pillar:patterns` `score:0.33`
 - [[terminal-bench-science-evaluating-ai-agents-on-scientific-research-workflows.md]] Terminal-Bench-Science: Evaluating AI agents on scientific research workflows `pillar:patterns` `score:0.305`

@@ -5234,3 +5234,10 @@
 
 ## [2026-10-10 18:02] sync v3 | 1 new | pillars: {'capabilities': 1}
 - create: food-processing-influences-metabolism-and-brain-activity.md
+
+## [2026-10-11 00:02] sync v3 | 5 new | pillars: {'capabilities': 3, 'patterns': 2}
+- create: bitwarden-dual-license-model.md
+- create: talorys-a-self-hosted-personal-ai-agent-on-cloudflares-free-tier.md
+- create: mxc-microsoft-execution-containers-version-100.md
+- create: 3-days-to-techcrunch-disrupt-2026-meet-the-startups-before-they-hit-mainstream.md
+- create: here-are-the-top-ai-agents-that-can-live-in-your-text-messages.md
