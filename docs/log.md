@@ -5231,3 +5231,6 @@
 - create: we-can8217t-help-treating-ai-like-it8217s-human-but-should-we.md
 - create: show-hn-a-simple-to-do-app-for-iphone-mac-and-your-agent.md
 - create: show-hn-babytalk-offline-speech-to-text-and-text-to-speech-on-esp32.md
+
+## [2026-10-10 18:02] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: food-processing-influences-metabolism-and-brain-activity.md

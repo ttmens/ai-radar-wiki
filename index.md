@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-10 | Total pages: 4968
+> Last updated: 2026-10-10 | Total pages: 4969
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -602,6 +602,7 @@
 - [[flock-wants-the-most-detailed-map-of-its-surveillance-cameras-taken-offline.md]] Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline `pillar:capabilities` `score:0.155`
 - [[floppy-emu-hardware-failure-analysis-results.md]] Floppy Emu Hardware Failure Analysis Results `pillar:capabilities` `score:0.205`
 - [[flux-3-x-mimic-the-next-generation-of-video-action-models.md]] Flux 3 X Mimic: The Next Generation of Video-Action Models `pillar:capabilities` `score:0.565`
+- [[food-processing-influences-metabolism-and-brain-activity.md]] Food processing influences metabolism and brain activity `pillar:capabilities` `score:0.155`
 - [[ford-rehires-350-engineers-after-ai-fails-to-preserve-expertise-or-train-juniors.md]] Ford rehires 350 engineers after AI fails to preserve expertise or train juniors `pillar:capabilities` `score:0.55`
 - [[ford-rehires-gray-beard-engineers-after-ai-falls-short.md]] Ford rehires ‘gray beard’ engineers after AI falls short `pillar:capabilities` `score:0.48`
 - [[forever-young-how-one-molecule-can-lock-plants-in-a-youthful-state-2025.md]] Forever Young: how one molecule can lock plants in a youthful state (2025) `pillar:capabilities` `score:0.27`
