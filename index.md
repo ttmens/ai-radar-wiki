@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-11 | Total pages: 4980
+> Last updated: 2026-10-11 | Total pages: 4985
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -27,6 +27,7 @@
 - [[44-on-arc-agi-1-in-67-cents.md]] 44% on ARC-AGI-1 in 67 cents `pillar:capabilities` `score:0.405`
 - [[5-days-left-to-exhibit-at-techcrunch-disrupt-2026.md]] 5 days left to exhibit at TechCrunch Disrupt 2026 `pillar:capabilities` `score:0.305`
 - [[5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door-for-your-pass.md]] 5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass `pillar:capabilities` `score:0.305`
+- [[500b-tokens-later-letting-ai-agents-decompile-a-first-person-shooter.md]] 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter `pillar:capabilities` `score:0.255`
 - [[60-fable-cost-cut-by-converting-code-to-images-and-having-the-model-ocr-it.md]] 60% Fable cost cut by converting code to images and having the model OCR it `pillar:capabilities` `score:0.565`
 - [[8216gambling-with-our-lives8217-anthropic-researcher-quits-warns-against-self-im.md]] &#8216;Gambling with our lives&#8217;: Anthropic researcher quits, warns against `pillar:capabilities` `score:0.305`
 - [[8216queer-eye8217s8217-life-coach-karamo-brown-launches-kē-a-wellness-app-featur.md]] &#8216;Queer Eye&#8217;s&#8217; life coach Karamo Brown launches Kē, a wellness `pillar:capabilities` `score:0.48`
@@ -329,6 +330,7 @@
 - [[breaking-the-158-bit-barrier-for-ternary-llms.md]] Breaking the 1.58-bit Barrier for Ternary LLMs `pillar:capabilities` `score:0.305`
 - [[briar-is-in-maintenance-mode.md]] Briar Is in Maintenance Mode `pillar:capabilities` `score:0.375`
 - [[btrfszfsbcachefs-under-workloads-classic-benchmarks-skip.md]] Btrfs/ZFS/bcachefs under workloads classic benchmarks skip `pillar:capabilities` `score:0.305`
+- [[build-your-own-decision-model.md]] Build your own decision model `pillar:capabilities` `score:0.305`
 - [[building-a-real-time-ai-tutor-for-5-year-olds.md]] Building a real-time AI tutor for 5-year-olds `pillar:capabilities` `score:0.48`
 - [[building-food-metadata-with-llm-juries.md]] Building Food Metadata with LLM Juries `pillar:capabilities` `score:0.33`
 - [[bun-rust-rewrite-codebase-fails-basic-miri-checks-allows-for-ub-in-safe-rust.md]] Bun Rust rewrite: "codebase fails basic miri checks, allows for UB in safe rust" `pillar:capabilities` `score:0.595`
@@ -3220,6 +3222,7 @@
 - [[finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation-2014.md]] Finite time blowup for an averaged three-dimensional Navier-Stokes equation (201 `pillar:patterns` `score:0.155`
 - [[firecrawlfirecrawl.md]] firecrawl/firecrawl `pillar:patterns` `score:0.405`
 - [[fission-aiopenspec.md]] Fission-AI/OpenSpec `pillar:patterns` `score:0.405`
+- [[five-months-treating-bugs-like-patients-and-coding-agents-like-a-medical-team.md]] Five months treating bugs like patients and coding agents like a medical team `pillar:patterns` `score:0.255`
 - [[flowiseaiflowise.md]] FlowiseAI/Flowise `pillar:patterns` `score:0.615`
 - [[for-months-openai8217s-agent-swarms-have-been-attacking-online-databases-to-find.md]] For months, OpenAI&#8217;s agent swarms have been attacking online databases to `pillar:patterns` `score:0.305`
 - [[fragment-of-oldest-known-peace-treaty-found-in-turkey.md]] Fragment of oldest known peace treaty found in Turkey `pillar:patterns` `score:0.205`
@@ -3572,6 +3575,7 @@
 - [[show-hn-ktx-open-source-executable-context-layer-for-data-agents.md]] Show HN: Ktx – Open-source executable context layer for data agents `pillar:patterns` `score:0.295`
 - [[show-hn-let-agents-run-any-analysis-with-mixpanel-data-no-ui-required.md]] Show HN: Let agents run any analysis with Mixpanel data, no UI required `pillar:patterns` `score:0.33`
 - [[show-hn-libretto-pr-agents-automatically-fix-failing-playwright-scripts.md]] Show HN: Libretto PR agents – Automatically fix failing playwright scripts `pillar:patterns` `score:0.33`
+- [[show-hn-littleguys-claude-code-codex-and-openclaw-agents-in-your-menu-bar.md]] Show HN: Littleguys – Claude Code, Codex and OpenClaw agents in your menu bar `pillar:patterns` `score:0.155`
 - [[show-hn-loopgain-stop-agent-loops-with-control-theory-not-max_iterations.md]] Show HN: LoopGain – Stop agent loops with control theory, not max_iterations `pillar:patterns` `score:0.33`
 - [[show-hn-lossless-memory-a-personal-ai-memory-that-never-summarizes.md]] Show HN: Lossless-memory – a personal AI memory that never summarizes `pillar:patterns` `score:0.255`
 - [[show-hn-microcodex-coding-agent-openaicodex-reimplemented-in-c-1mb-binary.md]] Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary `pillar:patterns` `score:0.295`
@@ -3715,6 +3719,7 @@
 - [[valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation.md]] Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation `pillar:patterns` `score:0.305`
 - [[valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-r.md]] Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into `pillar:patterns` `score:0.305`
 - [[vectifyaipageindex.md]] VectifyAI/PageIndex `pillar:patterns` `score:0.615`
+- [[veda-the-first-agentic-hobby-operating-system.md]] Veda: The First Agentic Hobby Operating System `pillar:patterns` `score:0.155`
 - [[vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents.md]] Vercel CEO Guillermo Rauch on the fight to split off models from agents `pillar:patterns` `score:0.515`
 - [[vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880.md]] Vertu wants CEOs to run companies from an AI foldable starting at $6,880 `pillar:patterns` `score:0.445`
 - [[vertu-wants-executives-to-pay-6880-for-an-ai-agent-here8217s-how-it-actually-per.md]] Vertu wants executives to pay $6,880 for an AI agent — here&#8217;s how it actua `pillar:patterns` `score:0.41`

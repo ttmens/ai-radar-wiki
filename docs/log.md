@@ -5249,3 +5249,10 @@
 - create: openscad-the-programmers-solid-3d-cad-modeller.md
 - create: microsofts-satya-nadella-says-ai-models-need-an-emergency-brake.md
 - create: apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-sta.md
+
+## [2026-10-11 12:02] sync v3 | 5 new | pillars: {'capabilities': 2, 'patterns': 3}
+- create: build-your-own-decision-model.md
+- create: five-months-treating-bugs-like-patients-and-coding-agents-like-a-medical-team.md
+- create: veda-the-first-agentic-hobby-operating-system.md
+- create: 500b-tokens-later-letting-ai-agents-decompile-a-first-person-shooter.md
+- create: show-hn-littleguys-claude-code-codex-and-openclaw-agents-in-your-menu-bar.md

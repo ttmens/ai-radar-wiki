@@ -1,7 +1,7 @@
 {
   "date": "2026-10-11",
-  "generated_at": "2026-10-11T06:02:34.925581+08:00",
-  "item_count": 9,
+  "generated_at": "2026-10-11T12:02:38.283268+08:00",
+  "item_count": 10,
   "items": [
     {
       "id": "grieving-the-loss-of-details",
@@ -45,6 +45,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=49984349",
+      "date": "2026-10-11"
+    },
+    {
+      "id": "build-your-own-decision-model",
+      "label": "Build your own decision model",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50037949",
       "date": "2026-10-11"
     },
     {
@@ -104,7 +115,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 9396,
-    "edges": 10262
+    "real_nodes": 9401,
+    "edges": 10267
   }
 }
