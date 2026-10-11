@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-11 | Total pages: 4985
+> Last updated: 2026-10-11 | Total pages: 4987
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -1398,6 +1398,7 @@
 - [[response-to-ai-slop-is-from-robin-williams.md]] Response to AI slop is from Robin Williams `pillar:capabilities` `score:0.375`
 - [[responsible-release-of-ai-generated-mathematics.md]] Responsible Release of AI-Generated Mathematics `pillar:capabilities` `score:0.305`
 - [[rethinking-legal-education-in-the-ai-era.md]] Rethinking Legal Education in the AI Era `pillar:capabilities` `score:0.36`
+- [[retrofitting-language-models-to-operate-over-bytes.md]] Retrofitting language models to operate over bytes `pillar:capabilities` `score:0.205`
 - [[retrospectively-reverse-engineering-apples-neural-engine.md]] Retrospectively Reverse-Engineering Apple's Neural Engine `pillar:capabilities` `score:0.205`
 - [[reverse-engineered-jev-like-model.md]] Reverse-engineered Jev-like model `pillar:capabilities` `score:0.255`
 - [[reverse-engineering-claude-webs-microvm-uncovering-anthropics-hidden-antspace.md]] Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace `pillar:capabilities` `score:0.205`
@@ -3064,6 +3065,7 @@
 - [[ai-agent-runs-amok-in-fedora-and-elsewhere.md]] AI agent runs amok in Fedora and elsewhere `pillar:patterns` `score:0.48`
 - [[ai-agent-trmnl.md]] AI Agent – TRMNL `pillar:patterns` `score:0.295`
 - [[ai-agents-are-flooding-public-services-with-new-requests.md]] AI agents are flooding public services with new requests `pillar:patterns` `score:0.305`
+- [[ai-agents-in-a-stand-up-call.md]] AI agents in a stand-up call `pillar:patterns` `score:0.205`
 - [[ai-agents-now-have-a-place-to-snitch.md]] AI agents now have a place to snitch `pillar:patterns` `score:0.305`
 - [[ai-chatbots-are-becoming-experts-at-changing-peoples-minds.md]] AI chatbots are becoming experts at changing people's minds `pillar:patterns` `score:0.355`
 - [[ai-chatbots-give-wrong-answers-to-financial-queries-most-of-the-time.md]] AI chatbots give wrong answers to financial queries 'most of the time' `pillar:patterns` `score:0.355`

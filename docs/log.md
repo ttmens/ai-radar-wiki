@@ -5256,3 +5256,7 @@
 - create: veda-the-first-agentic-hobby-operating-system.md
 - create: 500b-tokens-later-letting-ai-agents-decompile-a-first-person-shooter.md
 - create: show-hn-littleguys-claude-code-codex-and-openclaw-agents-in-your-menu-bar.md
+
+## [2026-10-11 18:02] sync v3 | 2 new | pillars: {'capabilities': 1, 'patterns': 1}
+- create: retrofitting-language-models-to-operate-over-bytes.md
+- create: ai-agents-in-a-stand-up-call.md
