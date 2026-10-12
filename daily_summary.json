@@ -7,7 +7,7 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：安全/漏洞, AI Agent, 融资/投资。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 安全/漏洞, 融资/投资。",
         "evidence": [
           {
             "id": "rated-reliability-aware-ai-agent-tool-retrieval-via-execution-dynamics",
@@ -106,9 +106,9 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 17 | 📱 产品模式: 7 | 💰 商业趋势: 1 | 🔧 工具生态: 4",
-    "total_items": 29,
-    "high_value_count": 11,
+    "stats": "🤖 技术能力: 19 | 📱 产品模式: 7 | 💰 商业趋势: 1 | 🔧 工具生态: 4",
+    "total_items": 31,
+    "high_value_count": 12,
     "all_today_ids": [
       {
         "id": "qgis-no-ai-contributions-permitted",
@@ -147,6 +147,10 @@
         "label": "This AI startup says it can generate permit-ready blueprints in minutes"
       },
       {
+        "id": "ai-is-not-a-tool-by-rich-hickey",
+        "label": "'AI' Is Not a Tool by Rich Hickey"
+      },
+      {
         "id": "techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ti",
         "label": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100"
       },
@@ -157,6 +161,10 @@
       {
         "id": "launch-hn-agent37-yc-f26-low-cost-agent-sandboxes-for-running-agents",
         "label": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents"
+      },
+      {
+        "id": "epic-games-tells-employees-to-use-ai-to-get-disney-game-done",
+        "label": "Epic Games tells employees to use AI to get Disney game done"
       },
       {
         "id": "rated-reliability-aware-ai-agent-tool-retrieval-via-execution-dynamics",
@@ -228,6 +236,6 @@
       }
     ],
     "date_bj": "2026-10-13 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-13 04:05:10"
+    "generated_at_bj": "2026-10-13 06:02:22"
   }
 }

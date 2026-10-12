@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-13 | Total pages: 5028
+> Last updated: 2026-10-13 | Total pages: 5030
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -127,6 +127,7 @@
 - [[ai-is-code-and-cant-be-prompted-into-being-smarter.md]] AI is code – and can't be prompted into being smarter `pillar:capabilities` `score:0.53`
 - [[ai-is-just-unauthorised-plagiarism-at-a-bigger-scale.md]] AI is just unauthorised plagiarism at a bigger scale `pillar:capabilities` `score:0.63`
 - [[ai-is-making-me-dumb.md]] AI is making me dumb `pillar:capabilities` `score:0.63`
+- [[ai-is-not-a-tool-by-rich-hickey.md]] 'AI' Is Not a Tool by Rich Hickey `pillar:capabilities` `score:0.305`
 - [[ai-is-potentially-a-dunning-kruger-effect-amplifier.md]] AI is potentially a Dunning-Kruger effect amplifier `pillar:capabilities` `score:0.365`
 - [[ai-is-slowing-down.md]] AI is slowing down `pillar:capabilities` `score:0.63`
 - [[ai-kill-switch-may-need-to-be-mandatory-anthropic-co-founder-tells-bbc.md]] AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC `pillar:capabilities` `score:0.275`
@@ -551,6 +552,7 @@
 - [[emily-bender-sets-the-record-straight-on-stochastic-parrots.md]] Emily Bender Sets the Record Straight on "Stochastic Parrots" `pillar:capabilities` `score:0.515`
 - [[encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesn82.md]] Encryption, spyware, and now Mythos: History shows why cyber export control does `pillar:capabilities` `score:0.445`
 - [[entanglement-builds-space-time-now-magic-gives-it-gravity.md]] Entanglement Builds Space-Time. Now "Magic" Gives It Gravity `pillar:capabilities` `score:0.34`
+- [[epic-games-tells-employees-to-use-ai-to-get-disney-game-done.md]] Epic Games tells employees to use AI to get Disney game done `pillar:capabilities` `score:0.255`
 - [[erdosproblemscom-succumbs-to-the-ai-onslaught.md]] Erdosproblems.com Succumbs to the AI Onslaught `pillar:capabilities` `score:0.255`
 - [[escape-analysis-in-go-stack-vs-heap-allocations-explained.md]] Escape Analysis in Go: Stack vs. Heap Allocations Explained `pillar:capabilities` `score:0.19`
 - [[esp32s3-cluster-running-158-bit-bitnet-language-model.md]] ESP32S3 cluster running 1.58-bit (BitNet) Language model `pillar:capabilities` `score:0.205`

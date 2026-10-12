@@ -5291,3 +5291,7 @@
 - create: show-hn-atticus-hold-to-talk-voice-assistant-for-macos-that-runs-on-claude-p.md
 - create: show-hn-llmxray-an-open-source-observability-tool-for-llms.md
 - create: show-hn-skills-hub-a-desktop-app-for-managing-ai-agent-skills.md
+
+## [2026-10-13 06:02] sync v3 | 2 new | pillars: {'capabilities': 2}
+- create: ai-is-not-a-tool-by-rich-hickey.md
+- create: epic-games-tells-employees-to-use-ai-to-get-disney-game-done.md

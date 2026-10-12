@@ -1,7 +1,7 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-13T04:05:40.984282+08:00",
-  "item_count": 11,
+  "generated_at": "2026-10-13T06:02:53.396619+08:00",
+  "item_count": 12,
   "items": [
     {
       "id": "qgis-no-ai-contributions-permitted",
@@ -103,6 +103,17 @@
       "date": "2026-10-13"
     },
     {
+      "id": "ai-is-not-a-tool-by-rich-hickey",
+      "label": "'AI' Is Not a Tool by Rich Hickey",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50060269",
+      "date": "2026-10-13"
+    },
+    {
       "id": "techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ti",
       "label": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100",
       "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $10",
@@ -126,7 +137,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 9444,
-    "edges": 10325
+    "real_nodes": 9446,
+    "edges": 10327
   }
 }
