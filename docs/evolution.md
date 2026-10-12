@@ -20,6 +20,13 @@
 
 ## 运行日志
 
+## [2026-10-13 04:05] Evolution Run
+- Deprecated: 1 nodes
+- Pillar distribution: {'capabilities': 3046, 'ecosystem': 620, 'business': 448, 'patterns': 847, 'unknown': 4}
+- Top tags: {'capabilities': 2961, 'discussion': 2020, 'hacker-news': 2020, 'news': 1190, 'techcrunch': 1190}
+  🗑️ Deprecated: show-hn-loot-raiders-an-arc-raiders-inspired-inventory-game-in-svelte.md (91d old, score=0.12)  📊 1 nodes deprecated (90d+ and score < 0.15)
+
+
 ## [2026-10-11 18:02] Evolution Run
 - Deprecated: 0 nodes
 - Pillar distribution: {'capabilities': 3019, 'ecosystem': 616, 'business': 447, 'patterns': 838, 'unknown': 4}

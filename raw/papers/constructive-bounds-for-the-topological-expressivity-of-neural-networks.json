@@ -1,0 +1,19 @@
+{
+  "title": "Constructive Bounds for the Topological Expressivity of Neural Networks",
+  "summary": "The expressivity of a neural network $Φ$ describes the class of functions that a network can express. The term topological expressivity refers to a family of measures particularly suited to understand binary classification and is often formulated in terms of the Betti numbers of a decision boundary $β(Φ^{-1}(0))$. Despite its popularity, this measure is not as useful for regression and other problems that do not involve a decision boundary. Instead, we propose to study topological expressivity in terms of the Betti numbers of the output of a neural network $β(Φ(X))$. We formally prove that a ReLU network with architecture $(d,\\sum\\limits_{k=1}^{d\n  } β_k(3k+2),\\sum\\limits_{k=1}^{d}β_k(k+1))$ can express spaces homotopy equivalent to wedge sums of spheres with arbitrary Betti numbers. This gives upper bounds for any arbitrary connected ($β_0=1$) sequence of Betti numbers, but by constructing spaces homotopy equivalent to products of $N$ spheres of dimension $d_1,...,d_N$ we achieve much better bounds $(\\sum\\limits_{n=1} d_n, 3\\sum\\limits_{n=1}\\limits^N d_n + 2N, \\sum\\limits_{n=1}\\limits^N d_n + N) $ for Betti numbers given by $\\prod_n (1+x^{d_n})$. Finally we conjecture a much stronger tight bound which gives the architectural bound $(d,d+1,d+1)$ for a space homeomorphic to the sphere.",
+  "url": "http://arxiv.org/abs/2610.13931v1",
+  "authors": [
+    "Kosio Beshkov"
+  ],
+  "published": "2026-10-09T17:55:33Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "neural network"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

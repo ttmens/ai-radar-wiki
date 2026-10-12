@@ -1,6 +1,7 @@
 ---
 title: Show HN: Loot Raiders – an ARC Raiders-inspired inventory game in Svelte
 created: 2026-07-14
+deprecated: true
 updated: 2026-07-14
 type: entity
 pillar: ecosystem

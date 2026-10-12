@@ -5260,3 +5260,34 @@
 ## [2026-10-11 18:02] sync v3 | 2 new | pillars: {'capabilities': 1, 'patterns': 1}
 - create: retrofitting-language-models-to-operate-over-bytes.md
 - create: ai-agents-in-a-stand-up-call.md
+
+## [2026-10-13 04:05] sync v3 | 31 new | pillars: {'patterns': 7, 'capabilities': 19, 'ecosystem': 4, 'business': 1}
+- create: paperclipaipaperclip.md
+- create: can-language-models-play-the-wikipedia-game.md
+- create: hide-and-seek-hide-concepts-to-seek-explanations-for-black-box-models.md
+- create: constructive-bounds-for-the-topological-expressivity-of-neural-networks.md
+- create: ai-models-can-provably-hide-arbitrary-capabilities.md
+- create: kl-before-and-after-mixing-a-round-complexity-separation-in-parallel-sampling.md
+- create: goal-oriented-bundle-management-and-flow-control-for-deep-space-communications-v.md
+- create: dyssomniann-multi-scale-spiking-neural-modeling-of-human-sleep-disorders-and-per.md
+- create: designing-protein-structures-from-natural-language.md
+- create: revisiting-tabular-deep-regression-objectives-and-the-limits-of-global-early-sto.md
+- create: hitting-time-bounds-for-asynchronous-q-learning.md
+- create: task-context-shapes-component-roles-in-language-models.md
+- create: rated-reliability-aware-ai-agent-tool-retrieval-via-execution-dynamics.md
+- create: ai-coding-agents-generate-more-code-but-not-more-software.md
+- create: launch-hn-agent37-yc-f26-low-cost-agent-sandboxes-for-running-agents.md
+- create: kevin-kellys-2016-ai-predictions-10-years-later.md
+- create: type-safe-html-templating-in-zig.md
+- create: reverse-engineer-anything-with-agents-from-app-behavior-down-to-native-binaries.md
+- create: qgis-no-ai-contributions-permitted.md
+- create: meta-releases-its-first-frontier-model-muse-wonder.md
+- create: windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data.md
+- create: honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company.md
+- create: microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation.md
+- create: this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes.md
+- create: techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ti.md
+- create: former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background.md
+- create: show-hn-atticus-hold-to-talk-voice-assistant-for-macos-that-runs-on-claude-p.md
+- create: show-hn-llmxray-an-open-source-observability-tool-for-llms.md
+- create: show-hn-skills-hub-a-desktop-app-for-managing-ai-agent-skills.md

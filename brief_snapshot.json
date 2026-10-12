@@ -1,121 +1,132 @@
 {
-  "date": "2026-10-11",
-  "generated_at": "2026-10-11T18:02:39.342317+08:00",
-  "item_count": 10,
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T04:05:40.984282+08:00",
+  "item_count": 11,
   "items": [
     {
-      "id": "grieving-the-loss-of-details",
-      "label": "Grieving the loss of details",
+      "id": "qgis-no-ai-contributions-permitted",
+      "label": "QGIS: No AI contributions permitted",
       "summary": "暂无中文摘要",
       "pm_score": 0.455,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49980880",
-      "date": "2026-10-11"
+      "url": "https://news.ycombinator.com/item?id=50054751",
+      "date": "2026-10-13"
     },
     {
-      "id": "talorys-a-self-hosted-personal-ai-agent-on-cloudflares-free-tier",
-      "label": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "id": "type-safe-html-templating-in-zig",
+      "label": "Type-safe HTML templating in Zig",
       "summary": "暂无中文摘要",
-      "pm_score": 0.355,
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50051573",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "paperclipaipaperclip",
+      "label": "paperclipai/paperclip",
+      "summary": "The open-source app everyone uses to manage agents at work",
+      "pm_score": 0.405,
+      "pillar": "patterns",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/paperclipai/paperclip",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "ai-coding-agents-generate-more-code-but-not-more-software",
+      "label": "AI coding agents generate more code, but not more software",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.375,
       "pillar": "patterns",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50031614",
-      "date": "2026-10-11"
+      "url": "https://news.ycombinator.com/item?id=50059523",
+      "date": "2026-10-13"
     },
     {
-      "id": "bitwarden-dual-license-model",
-      "label": "Bitwarden Dual License Model",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.355,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50033407",
-      "date": "2026-10-11"
-    },
-    {
-      "id": "openscad-the-programmers-solid-3d-cad-modeller",
-      "label": "OpenSCAD the Programmers Solid 3D CAD Modeller",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=49984349",
-      "date": "2026-10-11"
-    },
-    {
-      "id": "build-your-own-decision-model",
-      "label": "Build your own decision model",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50037949",
-      "date": "2026-10-11"
-    },
-    {
-      "id": "nvidia-in-talks-to-acquire-us-open-model-startup-reflection-ai",
-      "label": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50035886",
-      "date": "2026-10-11"
-    },
-    {
-      "id": "microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
-      "label": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "id": "former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background",
+      "label": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather a",
       "pm_score": 0.305,
       "pillar": "capabilities",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "date": "2026-10-11"
+      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "date": "2026-10-13"
     },
     {
-      "id": "here-are-the-top-ai-agents-that-can-live-in-your-text-messages",
-      "label": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "id": "microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
+      "label": "Microsoft president says UK is best placed to drive AI regulation",
+      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
       "pm_score": 0.305,
-      "pillar": "patterns",
+      "pillar": "business",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "date": "2026-10-11"
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "date": "2026-10-13"
     },
     {
-      "id": "apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-sta",
-      "label": "Apple discloses deal to hire team and license tech from personalized podcast sta",
-      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "date": "2026-10-11"
-    },
-    {
-      "id": "3-days-to-techcrunch-disrupt-2026-meet-the-startups-before-they-hit-mainstream",
-      "label": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+      "id": "windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data",
+      "label": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
       "pm_score": 0.305,
       "pillar": "capabilities",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-      "date": "2026-10-11"
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company",
+      "label": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes",
+      "label": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ti",
+      "label": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100",
+      "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $10",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+      "date": "2026-10-13"
+    },
+    {
+      "id": "meta-releases-its-first-frontier-model-muse-wonder",
+      "label": "Meta releases its first frontier model, Muse Wonder",
+      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "date": "2026-10-13"
     }
   ],
   "graph_totals": {
-    "real_nodes": 9403,
-    "edges": 10269
+    "real_nodes": 9444,
+    "edges": 10325
   }
 }
