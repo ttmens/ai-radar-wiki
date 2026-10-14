@@ -5295,3 +5295,33 @@
 ## [2026-10-13 06:02] sync v3 | 2 new | pillars: {'capabilities': 2}
 - create: ai-is-not-a-tool-by-rich-hickey.md
 - create: epic-games-tells-employees-to-use-ai-to-get-disney-game-done.md
+
+## [2026-10-14 08:05] sync v3 | 31 new | pillars: {'capabilities': 26, 'patterns': 2, 'business': 1, 'ecosystem': 2}
+- create: redesigning-source-control-at-anthropic.md
+- create: openai-engineer-arrested-in-bugging-of-executive-conference-room.md
+- create: i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic.md
+- create: apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome.md
+- create: we-turned-embeddinggemma-2-into-a-speech-to-text-model.md
+- create: show-hn-parsimony-an-open-source-benchmark-for-how-much-code-ai-models-add.md
+- create: gemini-4-argon-for-robotics.md
+- create: how-to-engineer-an-ai-harness-for-game-development.md
+- create: characterai-has-initiated-voluntary-chapter-11-bankruptcy.md
+- create: launch-hn-consus-yc-f24-llm-gateway-for-companies-handling-sensitive-data.md
+- create: show-hn-use-your-openai-subscription-to-create-audiobooks.md
+- create: indra-ocr-a-1m-parameter-ocr-model-that-reads-49-pages-per-second-on-cpu.md
+- create: science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-di.md
+- create: cerebras-ceo-says-we8217re-nearing-a-future-where-everyone-has-a-personal-ai-ass.md
+- create: industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks.md
+- create: cerebras-ceo-pushes-back-on-ai-doomsday-warnings.md
+- create: judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case.md
+- create: flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and.md
+- create: facebook-is-giving-users-more-control-over-their-algorithm.md
+- create: laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the.md
+- create: pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache.md
+- create: google-play-now-lets-anyone-build-private-vibe-coded-apps-that-run-on-android.md
+- create: spacex-and-google-both-said-no-now-his-software-is-riding-a-spacex-rocket-next-t.md
+- create: techcrunch-disrupt-2026-day-1.md
+- create: spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription.md
+- create: amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purcha.md
+- create: show-hn-pulse-local-a-mac-budgeting-app-whose-ai-models-run-on-your-machine.md
+- create: show-hn-deslop-oxlint-rules-for-ai-generated-typescript.md

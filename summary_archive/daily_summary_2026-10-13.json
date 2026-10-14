@@ -7,7 +7,7 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 安全/漏洞, 融资/投资。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：安全/漏洞, AI Agent。",
         "evidence": [
           {
             "id": "rated-reliability-aware-ai-agent-tool-retrieval-via-execution-dynamics",
@@ -22,7 +22,7 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent, 语音交互。",
+        "insight": "今日📱 产品模式方向的核心信号集中在语音交互, AI Agent。",
         "evidence": [
           {
             "id": "ai-coding-agents-generate-more-code-but-not-more-software",
@@ -95,24 +95,26 @@
       },
       {
         "title": "AI安全与信任正成为规模化部署的关键挑战",
-        "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：AI Models Can Provably Hide Arbitrary Ca, Microsoft president says UK is best plac。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+        "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：OpenAI algorithm for the FFT is less a b, Microsoft president says UK is best plac。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
         "type": "bottleneck",
         "action": "建议：审查当前产品的安全/信任/合规设计，是否需要升级。这是获取企业客户的关键竞争力。"
-      },
-      {
-        "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日1条情报涉及AI商业动态。包括：AI Models Can Provably Hide Arbitrary Ca。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
-        "type": "validation",
-        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 19 | 📱 产品模式: 7 | 💰 商业趋势: 1 | 🔧 工具生态: 4",
-    "total_items": 31,
-    "high_value_count": 12,
+    "stats": "🤖 技术能力: 26 | 📱 产品模式: 8 | 💰 商业趋势: 1 | 🔧 工具生态: 4",
+    "total_items": 39,
+    "high_value_count": 17,
     "all_today_ids": [
+      {
+        "id": "ai-is-a-tool-and-using-it-well-takes-skill",
+        "label": "AI is a tool and using it well takes skill"
+      },
       {
         "id": "qgis-no-ai-contributions-permitted",
         "label": "QGIS: No AI contributions permitted"
+      },
+      {
+        "id": "ai-models-can-provably-hide-arbitrary-capabilities",
+        "label": "AI models can provably hide arbitrary capabilities"
       },
       {
         "id": "type-safe-html-templating-in-zig",
@@ -125,6 +127,14 @@
       {
         "id": "ai-coding-agents-generate-more-code-but-not-more-software",
         "label": "AI coding agents generate more code, but not more software"
+      },
+      {
+        "id": "i-turned-my-unused-kindle-into-a-photo-frame-with-gpt-6-astra",
+        "label": "I turned my unused Kindle into a photo frame with GPT-6 Astra"
+      },
+      {
+        "id": "a-look-at-the-math-that-openai-claims-computes-faster-fourier-transforms",
+        "label": "A look at the math that OpenAI claims computes faster Fourier transforms"
       },
       {
         "id": "former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background",
@@ -151,12 +161,20 @@
         "label": "'AI' Is Not a Tool by Rich Hickey"
       },
       {
+        "id": "intel-d270-gpu-ai-acceleratorup-to-480-gb-lpddr5x",
+        "label": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X"
+      },
+      {
         "id": "techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ti",
         "label": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100"
       },
       {
         "id": "meta-releases-its-first-frontier-model-muse-wonder",
         "label": "Meta releases its first frontier model, Muse Wonder"
+      },
+      {
+        "id": "janas-run-llms-larger-than-ram-by-streaming-experts-from-ssd",
+        "label": "Janas: Run LLMs larger than RAM by streaming experts from SSD"
       },
       {
         "id": "launch-hn-agent37-yc-f26-low-cost-agent-sandboxes-for-running-agents",
@@ -185,10 +203,6 @@
       {
         "id": "designing-protein-structures-from-natural-language",
         "label": "Designing Protein Structures from Natural Language"
-      },
-      {
-        "id": "ai-models-can-provably-hide-arbitrary-capabilities",
-        "label": "AI Models Can Provably Hide Arbitrary Capabilities"
       },
       {
         "id": "hide-and-seek-hide-concepts-to-seek-explanations-for-black-box-models",
@@ -223,6 +237,18 @@
         "label": "Reverse engineer anything with agents, from app behavior down to native binaries"
       },
       {
+        "id": "show-hn-brickbrag-a-multiplayer-brick-building-world-in-the-browser",
+        "label": "Show HN: Brickbrag – A multiplayer brick-building world in the browser"
+      },
+      {
+        "id": "openai-algorithm-for-the-fft-is-less-a-breakthrough-and-more-a-malicious-exploit",
+        "label": "OpenAI algorithm for the FFT is less a breakthrough and more a malicious exploit"
+      },
+      {
+        "id": "dishwasherbench-can-frontier-models-stack-a-dishwasher",
+        "label": "DishwasherBench – Can Frontier Models Stack a Dishwasher?"
+      },
+      {
         "id": "show-hn-skills-hub-a-desktop-app-for-managing-ai-agent-skills",
         "label": "Show HN: Skills Hub, a desktop app for managing AI agent skills"
       },
@@ -236,6 +262,6 @@
       }
     ],
     "date_bj": "2026-10-13 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-13 06:02:22"
+    "generated_at_bj": "2026-10-13 18:02:29"
   }
 }

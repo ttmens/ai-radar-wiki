@@ -1,19 +1,19 @@
 {
   "daily_summary": {
-    "date": "2026-10-13",
-    "headline": "今日 AI 情报 · 2026-10-13",
+    "date": "2026-10-14",
+    "headline": "今日 AI 情报 · 2026-10-14",
     "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 安全/漏洞, 融资/投资。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 语音交互。",
         "evidence": [
           {
-            "id": "rated-reliability-aware-ai-agent-tool-retrieval-via-execution-dynamics",
-            "title": "RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamic",
-            "score": 0.26,
-            "url": "http://arxiv.org/abs/2610.13889v1",
+            "id": "characterai-has-initiated-voluntary-chapter-11-bankruptcy",
+            "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=50068036",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -22,35 +22,14 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent, 语音交互。",
+        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
         "evidence": [
           {
-            "id": "ai-coding-agents-generate-more-code-but-not-more-software",
-            "title": "AI coding agents generate more code, but not more software",
-            "score": 0.38,
-            "url": "https://news.ycombinator.com/item?id=50059523",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "launch-hn-agent37-yc-f26-low-cost-agent-sandboxes-for-running-agents",
-            "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running age",
-            "score": 0.26,
-            "url": "https://news.ycombinator.com/item?id=50059096",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "reverse-engineer-anything-with-agents-from-app-behavior-down-to-native-binaries",
-            "title": "Reverse engineer anything with agents, from app behavior down to nativ",
-            "score": 0.15,
-            "url": "https://news.ycombinator.com/item?id=50058850",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "show-hn-skills-hub-a-desktop-app-for-managing-ai-agent-skills",
-            "title": "Show HN: Skills Hub, a desktop app for managing AI agent skills",
-            "score": 0.15,
-            "url": "https://github.com/qufei1993/skills-hub",
-            "reason": "基于新颖度、影响力、相关性综合评分"
+            "id": "amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purcha",
+            "title": "Amex introduces a framework to prevent AI agents from making unauthori",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+            "reason": "里程碑式进展"
           }
         ],
         "trend": "new"
@@ -61,10 +40,10 @@
         "insight": "今日🔧 工具生态方向有新的动态。",
         "evidence": [
           {
-            "id": "techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ti",
-            "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure u",
+            "id": "flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and",
+            "title": "Flox Intelligence is building AI to keep wildlife away from trains, ai",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+            "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -73,13 +52,13 @@
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "insight": "AI安全与信任正成为规模化部署的关键挑战。该方向的具体信号：信任/合规。",
+        "insight": "今日💰 商业趋势方向有新的动态。",
         "evidence": [
           {
-            "id": "microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
-            "title": "Microsoft president says UK is best placed to drive AI regulation",
+            "id": "judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case",
+            "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+            "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -89,153 +68,129 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：RATED: Reliability-Aware AI Agent Tool R, Show HN: Skills Hub, a desktop app for m。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Amex introduces a framework to prevent A, Laplace Intelligence red-teams robots an。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
-      },
-      {
-        "title": "AI安全与信任正成为规模化部署的关键挑战",
-        "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：AI Models Can Provably Hide Arbitrary Ca, Microsoft president says UK is best plac。具体信号：安全漏洞, 信任/合规。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
-        "type": "bottleneck",
-        "action": "建议：审查当前产品的安全/信任/合规设计，是否需要升级。这是获取企业客户的关键竞争力。"
-      },
-      {
-        "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日1条情报涉及AI商业动态。包括：AI Models Can Provably Hide Arbitrary Ca。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
-        "type": "validation",
-        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 19 | 📱 产品模式: 7 | 💰 商业趋势: 1 | 🔧 工具生态: 4",
-    "total_items": 31,
-    "high_value_count": 12,
+    "stats": "🤖 技术能力: 23 | 💰 商业趋势: 1 | 🔧 工具生态: 2 | 📱 产品模式: 2",
+    "total_items": 28,
+    "high_value_count": 23,
     "all_today_ids": [
       {
-        "id": "qgis-no-ai-contributions-permitted",
-        "label": "QGIS: No AI contributions permitted"
+        "id": "characterai-has-initiated-voluntary-chapter-11-bankruptcy",
+        "label": "Character.ai has initiated voluntary Chapter 11 bankruptcy"
       },
       {
-        "id": "type-safe-html-templating-in-zig",
-        "label": "Type-safe HTML templating in Zig"
+        "id": "redesigning-source-control-at-anthropic",
+        "label": "Redesigning source control at Anthropic"
       },
       {
-        "id": "paperclipaipaperclip",
-        "label": "paperclipai/paperclip"
+        "id": "openai-engineer-arrested-in-bugging-of-executive-conference-room",
+        "label": "OpenAI engineer arrested in bugging of executive conference room"
       },
       {
-        "id": "ai-coding-agents-generate-more-code-but-not-more-software",
-        "label": "AI coding agents generate more code, but not more software"
+        "id": "i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+        "label": "I posted to HN, and then my website was flooded with AI bot traffic"
       },
       {
-        "id": "former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background",
-        "label": "Former Plaud exec raises $26M for AI app that listens to you in the background"
+        "id": "apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome",
+        "label": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome"
       },
       {
-        "id": "microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
-        "label": "Microsoft president says UK is best placed to drive AI regulation"
+        "id": "we-turned-embeddinggemma-2-into-a-speech-to-text-model",
+        "label": "We turned EmbeddingGemma 2 into a speech-to-text model"
       },
       {
-        "id": "windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data",
-        "label": "WindBorne wins a hefty US Air Force contract for its balloon data"
+        "id": "how-to-engineer-an-ai-harness-for-game-development",
+        "label": "How to engineer an AI harness for game development"
       },
       {
-        "id": "honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company",
-        "label": "Honeyjar offers AI tools to improve PR and comms at every company"
+        "id": "show-hn-use-your-openai-subscription-to-create-audiobooks",
+        "label": "Show HN: Use your OpenAI subscription to create audiobooks"
       },
       {
-        "id": "this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes",
-        "label": "This AI startup says it can generate permit-ready blueprints in minutes"
+        "id": "judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case",
+        "label": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case"
       },
       {
-        "id": "ai-is-not-a-tool-by-rich-hickey",
-        "label": "'AI' Is Not a Tool by Rich Hickey"
+        "id": "facebook-is-giving-users-more-control-over-their-algorithm",
+        "label": "Facebook is giving users more control over their algorithm"
       },
       {
-        "id": "techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ti",
-        "label": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100"
+        "id": "google-play-now-lets-anyone-build-private-vibe-coded-apps-that-run-on-android",
+        "label": "Google Play now lets anyone build private, vibe-coded apps that run on Android"
       },
       {
-        "id": "meta-releases-its-first-frontier-model-muse-wonder",
-        "label": "Meta releases its first frontier model, Muse Wonder"
+        "id": "spacex-and-google-both-said-no-now-his-software-is-riding-a-spacex-rocket-next-t",
+        "label": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next"
       },
       {
-        "id": "launch-hn-agent37-yc-f26-low-cost-agent-sandboxes-for-running-agents",
-        "label": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents"
+        "id": "industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks",
+        "label": "Industrial Next wants factory robots to switch tasks in minutes, not weeks"
       },
       {
-        "id": "epic-games-tells-employees-to-use-ai-to-get-disney-game-done",
-        "label": "Epic Games tells employees to use AI to get Disney game done"
+        "id": "gemini-4-argon-for-robotics",
+        "label": "Gemini 4 Argon for Robotics"
       },
       {
-        "id": "rated-reliability-aware-ai-agent-tool-retrieval-via-execution-dynamics",
-        "label": "RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics"
+        "id": "flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and",
+        "label": "Flox Intelligence is building AI to keep wildlife away from trains, airports, an"
       },
       {
-        "id": "kl-before-and-after-mixing-a-round-complexity-separation-in-parallel-sampling",
-        "label": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling"
+        "id": "cerebras-ceo-says-we8217re-nearing-a-future-where-everyone-has-a-personal-ai-ass",
+        "label": "Cerebras CEO says we&#8217;re nearing a future where everyone has a personal AI"
       },
       {
-        "id": "revisiting-tabular-deep-regression-objectives-and-the-limits-of-global-early-sto",
-        "label": "Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early St"
+        "id": "cerebras-ceo-pushes-back-on-ai-doomsday-warnings",
+        "label": "Cerebras CEO pushes back on AI doomsday warnings"
       },
       {
-        "id": "goal-oriented-bundle-management-and-flow-control-for-deep-space-communications-v",
-        "label": "Goal-Oriented Bundle Management and Flow Control for Deep-Space Communications v"
+        "id": "pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache",
+        "label": "Pluto Security raises $42M as AI gives enterprise security teams a new headache"
       },
       {
-        "id": "designing-protein-structures-from-natural-language",
-        "label": "Designing Protein Structures from Natural Language"
+        "id": "amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purcha",
+        "label": "Amex introduces a framework to prevent AI agents from making unauthorized purcha"
       },
       {
-        "id": "ai-models-can-provably-hide-arbitrary-capabilities",
-        "label": "AI Models Can Provably Hide Arbitrary Capabilities"
+        "id": "laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the",
+        "label": "Laplace Intelligence red-teams robots and self-driving cars before they hit the"
       },
       {
-        "id": "hide-and-seek-hide-concepts-to-seek-explanations-for-black-box-models",
-        "label": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models"
+        "id": "science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-di",
+        "label": "Science Corporation implants its vision-restoring chip in its first Stargardt di"
       },
       {
-        "id": "constructive-bounds-for-the-topological-expressivity-of-neural-networks",
-        "label": "Constructive Bounds for the Topological Expressivity of Neural Networks"
+        "id": "spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription",
+        "label": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription"
       },
       {
-        "id": "can-language-models-play-the-wikipedia-game",
-        "label": "Can Language Models Play the Wikipedia Game?"
+        "id": "techcrunch-disrupt-2026-day-1",
+        "label": "TechCrunch Disrupt 2026: Day 1"
       },
       {
-        "id": "dyssomniann-multi-scale-spiking-neural-modeling-of-human-sleep-disorders-and-per",
-        "label": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Pe"
+        "id": "show-hn-pulse-local-a-mac-budgeting-app-whose-ai-models-run-on-your-machine",
+        "label": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine"
       },
       {
-        "id": "task-context-shapes-component-roles-in-language-models",
-        "label": "Task Context Shapes Component Roles in Language Models"
+        "id": "show-hn-deslop-oxlint-rules-for-ai-generated-typescript",
+        "label": "Show HN: Deslop – Oxlint rules for AI-generated TypeScript"
       },
       {
-        "id": "hitting-time-bounds-for-asynchronous-q-learning",
-        "label": "Hitting-Time Bounds for Asynchronous Q-Learning"
+        "id": "indra-ocr-a-1m-parameter-ocr-model-that-reads-49-pages-per-second-on-cpu",
+        "label": "Indra OCR: a 1M-parameter OCR model that reads 49 pages per second on CPU"
       },
       {
-        "id": "kevin-kellys-2016-ai-predictions-10-years-later",
-        "label": "Kevin Kelly's 2016 AI Predictions, 10 Years Later"
+        "id": "show-hn-parsimony-an-open-source-benchmark-for-how-much-code-ai-models-add",
+        "label": "Show HN: Parsimony – an open-source benchmark for how much code AI models add"
       },
       {
-        "id": "reverse-engineer-anything-with-agents-from-app-behavior-down-to-native-binaries",
-        "label": "Reverse engineer anything with agents, from app behavior down to native binaries"
-      },
-      {
-        "id": "show-hn-skills-hub-a-desktop-app-for-managing-ai-agent-skills",
-        "label": "Show HN: Skills Hub, a desktop app for managing AI agent skills"
-      },
-      {
-        "id": "show-hn-atticus-hold-to-talk-voice-assistant-for-macos-that-runs-on-claude-p",
-        "label": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p"
-      },
-      {
-        "id": "show-hn-llmxray-an-open-source-observability-tool-for-llms",
-        "label": "Show HN: LLMxRay an open-source observability tool for LLMs"
+        "id": "launch-hn-consus-yc-f24-llm-gateway-for-companies-handling-sensitive-data",
+        "label": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data"
       }
     ],
-    "date_bj": "2026-10-13 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-13 06:02:22"
+    "date_bj": "2026-10-14 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-10-14 08:04:39"
   }
 }
