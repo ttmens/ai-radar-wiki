@@ -5329,3 +5329,39 @@
 ## [2026-10-14 12:01] sync v3 | 2 new | pillars: {'capabilities': 1, 'ecosystem': 1}
 - create: i-built-a-tool-to-track-what-ai-leaders-say-and-how-their-views-change-on-video.md
 - create: physical-intelligence-api-beta-frontier-models-for-every-robot.md
+
+## [2026-10-15 04:04] sync v3 | 34 new | pillars: {'patterns': 10, 'capabilities': 23, 'business': 1}
+- create: pathwaycomserviette.md
+- create: chunkact-action-chunking-for-agentic-robotics.md
+- create: cepheid-decoupling-scale-from-structure-for-cross-family-motion-completion.md
+- create: what-matters-in-quality-aware-vla-pretraining-a-benchmark-and-empirical-study.md
+- create: tev-scaling-long-horizon-agentic-environments-with-dense-progress-rewards.md
+- create: data-free-training-of-diffusion-models-for-lattice-field-theories.md
+- create: doubtless-training-free-contrastive-decoding-for-efficient-reasoning.md
+- create: aescode-aesthetic-code-generation-with-decoupled-cross-modal-rewards.md
+- create: hybrid-reasoning-agents.md
+- create: exact-topological-compliance-generating-persistence-equivalent-graphs.md
+- create: two-clocks-why-larger-rollout-batches-learn-slower-but-fail-on-schedule-in-reinf.md
+- create: mfg-multi-turn-feedback-guided-molecular-optimization.md
+- create: libero-rig-a-hardware-setup-robustness-benchmark-for-vision-language-action-mode.md
+- create: ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.md
+- create: neckbeard-a-devopsplatformsre-plugin-for-your-agent.md
+- create: banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote.md
+- create: pg_vectorsearch-an-index-that-is-faster-than-pgvectors-ivfflat-and-hnsw.md
+- create: show-hn-i-wrote-an-email-app-that-accepts-only-one-sender-per-inbox.md
+- create: show-hn-graphicle-a-rust-port-of-graphify-with-memory-for-coding-agents.md
+- create: tv4-postpones-show-after-ai-agent-erases-edited-material.md
+- create: why-do-llm-pelicans-look-like-this.md
+- create: asmls-strong-orders-ease-fears-ai-spending-boom-is-running-out-of-steam.md
+- create: linus-torvaldss-first-llm-assisted-patch-series.md
+- create: youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platfor.md
+- create: apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelli.md
+- create: deezer-will-soon-let-you-filter-out-ai-generated-music.md
+- create: save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-2-days-in-san-f.md
+- create: zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workp.md
+- create: floqer8217s-ai-agents-research-sales-prospects-so-teams-don8217t-have-to.md
+- create: techcrunch-disrupt-2026-day-2.md
+- create: scimplify-raises-25m-to-challenge-china8217s-grip-on-critical-materials-with-ai.md
+- create: show-hn-axiomcode-graph-reducing-coding-agent-rework-with-formal-methods.md
+- create: show-hn-t0-we-trained-a-256m-sota-open-weights-time-series-forecasting-model.md
+- create: show-hn-jevcrawl-a-web-crawler-for-ai-agents-with-no-llm-in-the-crawl-loop.md
