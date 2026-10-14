@@ -7,7 +7,7 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 模型能力。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：模型能力, AI Agent。",
         "evidence": [
           {
             "id": "tev-scaling-long-horizon-agentic-environments-with-dense-progress-rewards",
@@ -50,6 +50,13 @@
             "title": "TV4 postpones show after AI agent erases edited material",
             "score": 0.35,
             "url": "https://news.ycombinator.com/item?id=50085323",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "what-agents-mean-for-rust-and-vice-versa",
+            "title": "What agents mean for Rust (and vice versa)",
+            "score": 0.3,
+            "url": "https://news.ycombinator.com/item?id=50084416",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
@@ -129,9 +136,9 @@
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       }
     ],
-    "stats": "📱 产品模式: 9 | 🔧 工具生态: 1 | 🤖 技术能力: 23 | 💰 商业趋势: 1",
-    "total_items": 34,
-    "high_value_count": 28,
+    "stats": "📱 产品模式: 10 | 🔧 工具生态: 1 | 🤖 技术能力: 27 | 💰 商业趋势: 1",
+    "total_items": 39,
+    "high_value_count": 32,
     "all_today_ids": [
       {
         "id": "ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics",
@@ -170,6 +177,10 @@
         "label": "Deezer will soon let you filter out AI-generated music"
       },
       {
+        "id": "what-agents-mean-for-rust-and-vice-versa",
+        "label": "What agents mean for Rust (and vice versa)"
+      },
+      {
         "id": "scimplify-raises-25m-to-challenge-china8217s-grip-on-critical-materials-with-ai",
         "label": "Scimplify raises $25M to challenge China&#8217;s grip on critical materials with"
       },
@@ -186,12 +197,24 @@
         "label": "Floqer&#8217;s AI agents research sales prospects so teams don&#8217;t have to"
       },
       {
+        "id": "anthropics-scion-is-heavily-inspired-by-mononoke",
+        "label": "Anthropic's Scion is heavily inspired by Mononoke"
+      },
+      {
         "id": "apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelli",
         "label": "Apate sends AI agents undercover to get scammed so they can gather fraud intelli"
       },
       {
+        "id": "flock-ceo-says-its-microphones-detect-8216just-gunshots8217-its-website-says-dif",
+        "label": "Flock CEO says its microphones detect &#8216;just gunshots&#8217; — its website"
+      },
+      {
         "id": "pg_vectorsearch-an-index-that-is-faster-than-pgvectors-ivfflat-and-hnsw",
         "label": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW"
+      },
+      {
+        "id": "i-let-an-ai-run-my-startup-for-a-week",
+        "label": "I let an AI run my startup for a week"
       },
       {
         "id": "techcrunch-disrupt-2026-day-2",
@@ -246,6 +269,10 @@
         "label": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning"
       },
       {
+        "id": "has-ai-tells",
+        "label": "Has AI tells"
+      },
+      {
         "id": "show-hn-i-wrote-an-email-app-that-accepts-only-one-sender-per-inbox",
         "label": "Show HN: I wrote an email app that accepts only one sender per inbox"
       },
@@ -271,6 +298,6 @@
       }
     ],
     "date_bj": "2026-10-15 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-15 04:04:20"
+    "generated_at_bj": "2026-10-15 06:01:28"
   }
 }

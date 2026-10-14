@@ -1,7 +1,7 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15T04:04:51.521107+08:00",
-  "item_count": 28,
+  "generated_at": "2026-10-15T06:01:59.206336+08:00",
+  "item_count": 32,
   "items": [
     {
       "id": "ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics",
@@ -103,6 +103,17 @@
       "date": "2026-10-15"
     },
     {
+      "id": "what-agents-mean-for-rust-and-vice-versa",
+      "label": "What agents mean for Rust (and vice versa)",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50084416",
+      "date": "2026-10-15"
+    },
+    {
       "id": "scimplify-raises-25m-to-challenge-china8217s-grip-on-critical-materials-with-ai",
       "label": "Scimplify raises $25M to challenge China&#8217;s grip on critical materials with",
       "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
@@ -147,6 +158,17 @@
       "date": "2026-10-15"
     },
     {
+      "id": "anthropics-scion-is-heavily-inspired-by-mononoke",
+      "label": "Anthropic's Scion is heavily inspired by Mononoke",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50094694",
+      "date": "2026-10-15"
+    },
+    {
       "id": "apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelli",
       "label": "Apate sends AI agents undercover to get scammed so they can gather fraud intelli",
       "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
@@ -158,6 +180,17 @@
       "date": "2026-10-15"
     },
     {
+      "id": "flock-ceo-says-its-microphones-detect-8216just-gunshots8217-its-website-says-dif",
+      "label": "Flock CEO says its microphones detect &#8216;just gunshots&#8217; — its website",
+      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "date": "2026-10-15"
+    },
+    {
       "id": "pg_vectorsearch-an-index-that-is-faster-than-pgvectors-ivfflat-and-hnsw",
       "label": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
       "summary": "暂无中文摘要",
@@ -166,6 +199,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=50086165",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "i-let-an-ai-run-my-startup-for-a-week",
+      "label": "I let an AI run my startup for a week",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50085296",
       "date": "2026-10-15"
     },
     {
@@ -313,7 +357,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 9518,
-    "edges": 10422
+    "real_nodes": 9523,
+    "edges": 10427
   }
 }

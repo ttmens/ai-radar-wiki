@@ -5365,3 +5365,10 @@
 - create: show-hn-axiomcode-graph-reducing-coding-agent-rework-with-formal-methods.md
 - create: show-hn-t0-we-trained-a-256m-sota-open-weights-time-series-forecasting-model.md
 - create: show-hn-jevcrawl-a-web-crawler-for-ai-agents-with-no-llm-in-the-crawl-loop.md
+
+## [2026-10-15 06:01] sync v3 | 5 new | pillars: {'capabilities': 4, 'patterns': 1}
+- create: anthropics-scion-is-heavily-inspired-by-mononoke.md
+- create: has-ai-tells.md
+- create: i-let-an-ai-run-my-startup-for-a-week.md
+- create: what-agents-mean-for-rust-and-vice-versa.md
+- create: flock-ceo-says-its-microphones-detect-8216just-gunshots8217-its-website-says-dif.md

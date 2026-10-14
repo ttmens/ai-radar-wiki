@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-15 | Total pages: 5103
+> Last updated: 2026-10-15 | Total pages: 5108
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -229,6 +229,7 @@
 - [[anthropics-model-naming-extrapolated.md]] Anthropic's Model Naming, Extrapolated `pillar:capabilities` `score:0.58`
 - [[anthropics-opus-46-is-a-smut-machine.md]] Anthropic’s Opus 4.6 is a smut-machine `pillar:capabilities` `score:0.305`
 - [[anthropics-safety-superpower.md]] Anthropic's Safety Superpower `pillar:capabilities` `score:0.55`
+- [[anthropics-scion-is-heavily-inspired-by-mononoke.md]] Anthropic's Scion is heavily inspired by Mononoke `pillar:capabilities` `score:0.305`
 - [[antigravity-20-tops-the-openscad-architectural-3d-llm-benchmark.md]] Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark `pillar:capabilities` `score:0.545`
 - [[antiquated-html-snippets-and-artefacts.md]] Antiquated HTML Snippets and Artefacts `pillar:capabilities` `score:0.405`
 - [[any-text-to-sql-benchmark-should-address-difficulties-of-real-world-data-stores.md]] Any text-to-SQL benchmark should address difficulties of real-world data stores `pillar:capabilities` `score:0.33`
@@ -617,6 +618,7 @@
 - [[flash-msa-accelerating-million-token-training-with-sparse-attention-kernels.md]] Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels `pillar:capabilities` `score:0.33`
 - [[flint-a-visualization-language-for-the-ai-era.md]] Flint: A Visualization Language for the AI Era `pillar:capabilities` `score:0.305`
 - [[flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash.md]] Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash `pillar:capabilities` `score:0.305`
+- [[flock-ceo-says-its-microphones-detect-8216just-gunshots8217-its-website-says-dif.md]] Flock CEO says its microphones detect &#8216;just gunshots&#8217; — its website `pillar:capabilities` `score:0.305`
 - [[flock-chilling-effects-long-islands-emerging-open-air-prison.md]] Flock – Chilling Effects: Long Island's Emerging Open-Air Prison `pillar:capabilities` `score:0.085`
 - [[flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts.md]] Flock reportedly tries to shrink workforce with employee buyouts `pillar:capabilities` `score:0.305`
 - [[flock-wants-the-most-detailed-map-of-its-surveillance-cameras-taken-offline.md]] Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline `pillar:capabilities` `score:0.155`
@@ -786,6 +788,7 @@
 - [[harvard-edgecs249r_book.md]] harvard-edge/cs249r_book `pillar:capabilities` `score:0.58`
 - [[harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors.md]] Harvard’s $699 startup bootcamp offers AI avatars of its instructors `pillar:capabilities` `score:0.305`
 - [[has-ai-already-killed-self-help-nonfiction-books.md]] Has AI already killed self-help nonfiction books? `pillar:capabilities` `score:0.445`
+- [[has-ai-tells.md]] Has AI tells `pillar:capabilities` `score:0.255`
 - [[has-the-hunt-for-ai-compute-uncovered-the-next-cerebras.md]] Has the hunt for AI compute uncovered the next Cerebras? `pillar:capabilities` `score:0.48`
 - [[hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026.md]] Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026 `pillar:capabilities` `score:0.305`
 - [[hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-h.md]] Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI `pillar:capabilities` `score:0.305`
@@ -869,6 +872,7 @@
 - [[i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold.md]] I fixed a tractor using John Deere's self-repair service. Farmers aren't sold `pillar:capabilities` `score:0.305`
 - [[i-indexed-669-gb-of-my-gopro-videos-using-my-m1-max-computer-and-local-ml-models.md]] I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models `pillar:capabilities` `score:0.495`
 - [[i-learned-to-read-again.md]] I Learned to Read Again `pillar:capabilities` `score:0.345`
+- [[i-let-an-ai-run-my-startup-for-a-week.md]] I let an AI run my startup for a week `pillar:capabilities` `score:0.305`
 - [[i-love-llms-i-hate-hype.md]] I love LLMs, I hate hype `pillar:capabilities` `score:0.635`
 - [[i-paid-people-to-try-and-follow-my-readme.md]] I paid people to try and follow my README `pillar:capabilities` `score:0.425`
 - [[i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic.md]] I posted to HN, and then my website was flooded with AI bot traffic `pillar:capabilities` `score:0.425`
@@ -3844,6 +3848,7 @@
 - [[we-could-save-petabytes-of-cache-storage-with-zstandard-and-pingora.md]] We could save petabytes of cache storage with Zstandard and Pingora `pillar:patterns` `score:0.255`
 - [[we-mould-trees-to-grow-into-the-shape-of-chairs.md]] 'We mould trees to grow into the shape of chairs' `pillar:patterns` `score:0.41`
 - [[we-tried-googles-ai-glasses-and-theyre-almost-there.md]] We tried Google’s AI glasses and they’re almost there `pillar:patterns` `score:0.48`
+- [[what-agents-mean-for-rust-and-vice-versa.md]] What agents mean for Rust (and vice versa) `pillar:patterns` `score:0.305`
 - [[what-clickup8217s-mass-layoff-tells-us-about-the-future-of-work.md]] What ClickUp&#8217;s mass layoff tells us about the future of work `pillar:patterns` `score:0.515`
 - [[what-happened-after-2k-people-tried-to-hack-my-ai-assistant.md]] What happened after 2k people tried to hack my AI assistant `pillar:patterns` `score:0.565`
 - [[what-happens-when-companies-become-too-ai-pilled.md]] What happens when companies become too AI-pilled? `pillar:patterns` `score:0.48`
