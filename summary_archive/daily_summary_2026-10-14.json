@@ -7,7 +7,7 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 语音交互。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：语音交互, AI Agent。",
         "evidence": [
           {
             "id": "characterai-has-initiated-voluntary-chapter-11-bankruptcy",
@@ -73,8 +73,8 @@
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       }
     ],
-    "stats": "🤖 技术能力: 23 | 💰 商业趋势: 1 | 🔧 工具生态: 2 | 📱 产品模式: 2",
-    "total_items": 28,
+    "stats": "🤖 技术能力: 24 | 💰 商业趋势: 1 | 🔧 工具生态: 3 | 📱 产品模式: 2",
+    "total_items": 30,
     "high_value_count": 23,
     "all_today_ids": [
       {
@@ -170,6 +170,10 @@
         "label": "TechCrunch Disrupt 2026: Day 1"
       },
       {
+        "id": "i-built-a-tool-to-track-what-ai-leaders-say-and-how-their-views-change-on-video",
+        "label": "I built a tool to track what AI leaders say and how their views change on video"
+      },
+      {
         "id": "show-hn-pulse-local-a-mac-budgeting-app-whose-ai-models-run-on-your-machine",
         "label": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine"
       },
@@ -182,6 +186,10 @@
         "label": "Indra OCR: a 1M-parameter OCR model that reads 49 pages per second on CPU"
       },
       {
+        "id": "physical-intelligence-api-beta-frontier-models-for-every-robot",
+        "label": "Physical Intelligence API Beta: Frontier Models for Every Robot"
+      },
+      {
         "id": "show-hn-parsimony-an-open-source-benchmark-for-how-much-code-ai-models-add",
         "label": "Show HN: Parsimony – an open-source benchmark for how much code AI models add"
       },
@@ -191,6 +199,6 @@
       }
     ],
     "date_bj": "2026-10-14 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-14 08:04:39"
+    "generated_at_bj": "2026-10-14 12:01:20"
   }
 }

@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-14 | Total pages: 5067
+> Last updated: 2026-10-14 | Total pages: 5069
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -854,6 +854,7 @@
 - [[hyundai-buys-boston-dynamics.md]] Hyundai buys Boston Dynamics `pillar:capabilities` `score:0.645`
 - [[i-admire-fabrice-bellard-he-is-almost-certainly-a-better-overall-programmer.md]] I admire Fabrice Bellard. He is almost certainly a better overall programmer `pillar:capabilities` `score:0.54`
 - [[i-built-a-low-latency-ai-companion-that-plays-skyrim-with-me.md]] I built a low-latency AI companion that plays Skyrim with me `pillar:capabilities` `score:0.305`
+- [[i-built-a-tool-to-track-what-ai-leaders-say-and-how-their-views-change-on-video.md]] I built a tool to track what AI leaders say and how their views change on video `pillar:capabilities` `score:0.205`
 - [[i-built-a-vulnerable-app-and-spent-1500-seeing-if-llms-could-hack-it.md]] I built a vulnerable app and spent $1,500 seeing if LLMs could hack it `pillar:capabilities` `score:0.43`
 - [[i-built-non-autoregressive-decision-models-with-rl-a-year-ago.md]] I built non-autoregressive decision models with RL a year ago `pillar:capabilities` `score:0.505`
 - [[i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it.md]] I created an interactive digital avatar of myself — and you can talk to it `pillar:capabilities` `score:0.305`
@@ -4228,6 +4229,7 @@
 - [[patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them.md]] Patreon stops asking AI bots not to scrape — and starts blocking them `pillar:ecosystem` `score:0.445`
 - [[pentagon-raised-threat-of-israeli-spying-on-us-to-highest-level-sources-say.md]] Pentagon raised threat of Israeli spying on U.S. to highest level, sources say `pillar:ecosystem` `score:0.355`
 - [[petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes.md]] Petlibro’s new AI-powered feeder is a game changer for multi-cat homes `pillar:ecosystem` `score:0.305`
+- [[physical-intelligence-api-beta-frontier-models-for-every-robot.md]] Physical Intelligence API Beta: Frontier Models for Every Robot `pillar:ecosystem` `score:0.155`
 - [[pinterest-teases-a-new-8216restyle8217-feature-that-lets-you-redesign-your-room.md]] Pinterest teases a new &#8216;Restyle&#8217; feature that lets you redesign your `pillar:ecosystem` `score:0.305`
 - [[pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache.md]] Pluto Security raises $42M as AI gives enterprise security teams a new headache `pillar:ecosystem` `score:0.305`
 - [[police-in-england-and-wales-told-to-halt-ai-use-in-court-statements.md]] Police in England and Wales told to halt AI use in court statements `pillar:ecosystem` `score:0.48`

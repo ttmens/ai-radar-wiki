@@ -5325,3 +5325,7 @@
 - create: amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purcha.md
 - create: show-hn-pulse-local-a-mac-budgeting-app-whose-ai-models-run-on-your-machine.md
 - create: show-hn-deslop-oxlint-rules-for-ai-generated-typescript.md
+
+## [2026-10-14 12:01] sync v3 | 2 new | pillars: {'capabilities': 1, 'ecosystem': 1}
+- create: i-built-a-tool-to-track-what-ai-leaders-say-and-how-their-views-change-on-video.md
+- create: physical-intelligence-api-beta-frontier-models-for-every-robot.md
