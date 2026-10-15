@@ -7,13 +7,27 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：模型能力, AI Agent。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：安全/漏洞, 模型能力, AI Agent。",
         "evidence": [
           {
             "id": "tev-scaling-long-horizon-agentic-environments-with-dense-progress-rewards",
             "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rew",
             "score": 0.3,
             "url": "http://arxiv.org/abs/2610.18868v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "co-evolving-acting-and-forecasting-for-language-agents",
+            "title": "Co-Evolving Acting and Forecasting for Language Agents",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2610.20597v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "price-of-anarchy-of-first-price-auctions-in-agentic-markets",
+            "title": "Price of Anarchy of First-Price Auctions in Agentic Markets",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2610.20587v1",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
@@ -36,7 +50,7 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
+        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent, 桌面/本地化。",
         "evidence": [
           {
             "id": "ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics",
@@ -44,6 +58,13 @@
             "score": 0.51,
             "url": "https://news.ycombinator.com/item?id=50091788",
             "reason": "高价值信号"
+          },
+          {
+            "id": "lfm25-24b-a2b-built-for-fast-on-device-agents",
+            "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+            "score": 0.41,
+            "url": "https://news.ycombinator.com/item?id=50097369",
+            "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
             "id": "tv4-postpones-show-after-ai-agent-erases-edited-material",
@@ -57,6 +78,13 @@
             "title": "What agents mean for Rust (and vice versa)",
             "score": 0.3,
             "url": "https://news.ycombinator.com/item?id=50084416",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "figma-announces-new-features-to-define-how-agents-work-on-its-platform",
+            "title": "Figma announces new features to define how agents work on its platform",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
@@ -100,13 +128,13 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "今日🔧 工具生态方向有新的动态。",
+        "insight": "今日🔧 工具生态方向的核心信号集中在AI Agent。",
         "evidence": [
           {
-            "id": "pathwaycomserviette",
-            "title": "pathwaycom/serviette",
-            "score": 0.41,
-            "url": "https://github.com/pathwaycom/serviette",
+            "id": "beyond-llm-judge-mechanical-verification-for-agentic-autoformalization",
+            "title": "Beyond LLM Judge: Mechanical Verification for Agentic Autoformalizatio",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2610.20573v1",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -131,18 +159,22 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日7条情报涉及AI Agent及相关工具生态。典型项目包括：AI agents aren't 'going rogue.' Frontier, TV4 postpones show after AI agent erases, Floqer&#8217;s AI agents research sales 。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日11条情报涉及AI Agent及相关工具生态。典型项目包括：AI agents aren't 'going rogue.' Frontier, TV4 postpones show after AI agent erases, Floqer&#8217;s AI agents research sales 。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       }
     ],
-    "stats": "📱 产品模式: 10 | 🔧 工具生态: 1 | 🤖 技术能力: 27 | 💰 商业趋势: 1",
-    "total_items": 39,
-    "high_value_count": 32,
+    "stats": "📱 产品模式: 13 | 🔧 工具生态: 2 | 🤖 技术能力: 42 | 💰 商业趋势: 1",
+    "total_items": 58,
+    "high_value_count": 49,
     "all_today_ids": [
       {
         "id": "ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics",
         "label": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics"
+      },
+      {
+        "id": "lfm25-24b-a2b-built-for-fast-on-device-agents",
+        "label": "LFM2.5-24B-A2B: Built for fast on-device agents"
       },
       {
         "id": "pathwaycomserviette",
@@ -173,6 +205,14 @@
         "label": "YouTube Music launches new labels as AI-generated music floods streaming platfor"
       },
       {
+        "id": "ask-hn-cad-for-wood-working-with-llm-support",
+        "label": "Ask HN: CAD for wood working with LLM support?"
+      },
+      {
+        "id": "gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they",
+        "label": "Gudea leverages AI to help organizations prevent social media crises before they"
+      },
+      {
         "id": "deezer-will-soon-let-you-filter-out-ai-generated-music",
         "label": "Deezer will soon let you filter out AI-generated music"
       },
@@ -185,8 +225,16 @@
         "label": "Scimplify raises $25M to challenge China&#8217;s grip on critical materials with"
       },
       {
+        "id": "figma-announces-new-features-to-define-how-agents-work-on-its-platform",
+        "label": "Figma announces new features to define how agents work on its platform"
+      },
+      {
         "id": "save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-2-days-in-san-f",
         "label": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San"
+      },
+      {
+        "id": "ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute",
+        "label": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute"
       },
       {
         "id": "zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workp",
@@ -221,16 +269,44 @@
         "label": "TechCrunch Disrupt 2026: Day 2"
       },
       {
+        "id": "modeling-and-understanding-neural-weights-of-humanoid-policies-with-diffusion",
+        "label": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion"
+      },
+      {
+        "id": "learnable-hodge-laplacian-driven-mixture-of-experts-for-steady-pde-surrogates-on",
+        "label": "Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on"
+      },
+      {
+        "id": "one-task-many-interfaces-simple-cross-interface-consistency-training-improves-ll",
+        "label": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves"
+      },
+      {
         "id": "cepheid-decoupling-scale-from-structure-for-cross-family-motion-completion",
         "label": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion"
+      },
+      {
+        "id": "latent-compaction-with-test-time-training",
+        "label": "Latent Compaction with Test-Time Training"
       },
       {
         "id": "two-clocks-why-larger-rollout-batches-learn-slower-but-fail-on-schedule-in-reinf",
         "label": "Two Clocks: Why Larger Rollout Batches Learn Slower but Fail on Schedule in Rein"
       },
       {
+        "id": "beyond-llm-judge-mechanical-verification-for-agentic-autoformalization",
+        "label": "Beyond LLM Judge: Mechanical Verification for Agentic Autoformalization"
+      },
+      {
         "id": "tev-scaling-long-horizon-agentic-environments-with-dense-progress-rewards",
         "label": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards"
+      },
+      {
+        "id": "co-evolving-acting-and-forecasting-for-language-agents",
+        "label": "Co-Evolving Acting and Forecasting for Language Agents"
+      },
+      {
+        "id": "price-of-anarchy-of-first-price-auctions-in-agentic-markets",
+        "label": "Price of Anarchy of First-Price Auctions in Agentic Markets"
       },
       {
         "id": "chunkact-action-chunking-for-agentic-robotics",
@@ -241,8 +317,16 @@
         "label": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study"
       },
       {
+        "id": "continuum-attention",
+        "label": "Continuum Attention"
+      },
+      {
         "id": "exact-topological-compliance-generating-persistence-equivalent-graphs",
         "label": "Exact Topological Compliance: Generating Persistence-Equivalent Graphs"
+      },
+      {
+        "id": "hierarchical-residual-policy-learning-for-real-world-mobile-manipulation-with-sp",
+        "label": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sp"
       },
       {
         "id": "aescode-aesthetic-code-generation-with-decoupled-cross-modal-rewards",
@@ -259,6 +343,18 @@
       {
         "id": "data-free-training-of-diffusion-models-for-lattice-field-theories",
         "label": "Data Free Training of Diffusion Models for Lattice Field Theories"
+      },
+      {
+        "id": "your-transformer-is-secretly-elastic",
+        "label": "Your Transformer Is Secretly Elastic"
+      },
+      {
+        "id": "player-1-learning-to-play-from-synthetic-experience",
+        "label": "Player-1: Learning to Play from Synthetic Experience"
+      },
+      {
+        "id": "recovering-reliable-supervision-via-critique-guided-on-policy-distillation",
+        "label": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation"
       },
       {
         "id": "mfg-multi-turn-feedback-guided-molecular-optimization",
@@ -281,8 +377,16 @@
         "label": "Neckbeard – a DevOps/platform/SRE plugin for your agent"
       },
       {
+        "id": "show-hn-ask-a-technical-question-get-an-animated-explainer-you-can-interrupt",
+        "label": "Show HN: Ask a technical question, get an animated explainer you can interrupt"
+      },
+      {
         "id": "show-hn-axiomcode-graph-reducing-coding-agent-rework-with-formal-methods",
         "label": "Show HN: AxiomCode Graph, Reducing coding agent rework with formal methods"
+      },
+      {
+        "id": "the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl",
+        "label": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl"
       },
       {
         "id": "show-hn-graphicle-a-rust-port-of-graphify-with-memory-for-coding-agents",
@@ -298,6 +402,6 @@
       }
     ],
     "date_bj": "2026-10-15 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-15 06:01:28"
+    "generated_at_bj": "2026-10-15 20:03:50"
   }
 }

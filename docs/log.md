@@ -5372,3 +5372,24 @@
 - create: i-let-an-ai-run-my-startup-for-a-week.md
 - create: what-agents-mean-for-rust-and-vice-versa.md
 - create: flock-ceo-says-its-microphones-detect-8216just-gunshots8217-its-website-says-dif.md
+
+## [2026-10-15 20:04] sync v3 | 19 new | pillars: {'capabilities': 15, 'ecosystem': 1, 'patterns': 3}
+- create: modeling-and-understanding-neural-weights-of-humanoid-policies-with-diffusion.md
+- create: hierarchical-residual-policy-learning-for-real-world-mobile-manipulation-with-sp.md
+- create: co-evolving-acting-and-forecasting-for-language-agents.md
+- create: your-transformer-is-secretly-elastic.md
+- create: price-of-anarchy-of-first-price-auctions-in-agentic-markets.md
+- create: continuum-attention.md
+- create: learnable-hodge-laplacian-driven-mixture-of-experts-for-steady-pde-surrogates-on.md
+- create: player-1-learning-to-play-from-synthetic-experience.md
+- create: latent-compaction-with-test-time-training.md
+- create: one-task-many-interfaces-simple-cross-interface-consistency-training-improves-ll.md
+- create: beyond-llm-judge-mechanical-verification-for-agentic-autoformalization.md
+- create: recovering-reliable-supervision-via-critique-guided-on-policy-distillation.md
+- create: lfm25-24b-a2b-built-for-fast-on-device-agents.md
+- create: the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl.md
+- create: ask-hn-cad-for-wood-working-with-llm-support.md
+- create: figma-announces-new-features-to-define-how-agents-work-on-its-platform.md
+- create: ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute.md
+- create: gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they.md
+- create: show-hn-ask-a-technical-question-get-an-animated-explainer-you-can-interrupt.md

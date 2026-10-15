@@ -1,7 +1,7 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-15T06:01:59.206336+08:00",
-  "item_count": 32,
+  "generated_at": "2026-10-15T20:04:23.564787+08:00",
+  "item_count": 49,
   "items": [
     {
       "id": "ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics",
@@ -12,6 +12,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=50091788",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "lfm25-24b-a2b-built-for-fast-on-device-agents",
+      "label": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.405,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50097369",
       "date": "2026-10-15"
     },
     {
@@ -92,6 +103,28 @@
       "date": "2026-10-15"
     },
     {
+      "id": "ask-hn-cad-for-wood-working-with-llm-support",
+      "label": "Ask HN: CAD for wood working with LLM support?",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50067325",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they",
+      "label": "Gudea leverages AI to help organizations prevent social media crises before they",
+      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "date": "2026-10-15"
+    },
+    {
       "id": "deezer-will-soon-let-you-filter-out-ai-generated-music",
       "label": "Deezer will soon let you filter out AI-generated music",
       "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
@@ -125,6 +158,17 @@
       "date": "2026-10-15"
     },
     {
+      "id": "figma-announces-new-features-to-define-how-agents-work-on-its-platform",
+      "label": "Figma announces new features to define how agents work on its platform",
+      "summary": "Figma is also releasing its code layers feature in open beta.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "date": "2026-10-15"
+    },
+    {
       "id": "save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-2-days-in-san-f",
       "label": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San",
       "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
@@ -133,6 +177,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute",
+      "label": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute",
+      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
       "date": "2026-10-15"
     },
     {
@@ -224,6 +279,39 @@
       "date": "2026-10-15"
     },
     {
+      "id": "modeling-and-understanding-neural-weights-of-humanoid-policies-with-diffusion",
+      "label": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+      "summary": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained through conventional training procedures, while comparatively little attention has been given to direct",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.20606v1",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "learnable-hodge-laplacian-driven-mixture-of-experts-for-steady-pde-surrogates-on",
+      "label": "Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on",
+      "summary": "Current approaches for steady partial differential equations surrogate models on unstructured meshes apply a single mixing mechanism to the whole solution. This paper proposes an architecture that partitions the solution among vanilla transformer experts, each focused on a different spectral scale.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.20585v1",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "one-task-many-interfaces-simple-cross-interface-consistency-training-improves-ll",
+      "label": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves",
+      "summary": "Post-training binds the competence of an LLM agent to the interface it was trained on. Semantics-preserving perturbations of that interface, such as renaming an action or changing the notation, leave the underlying task unchanged yet make the agent worse at it. Scoring each sample independently mean",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.20576v1",
+      "date": "2026-10-15"
+    },
+    {
       "id": "cepheid-decoupling-scale-from-structure-for-cross-family-motion-completion",
       "label": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion",
       "summary": "Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension off-family. Moreover, cross-family training meets a scaling barrier: residual amplitude varies by mo",
@@ -232,6 +320,17 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2610.18871v1",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "latent-compaction-with-test-time-training",
+      "label": "Latent Compaction with Test-Time Training",
+      "summary": "Long contexts enlarge key--value (KV) caches, increasing memory use and attention costs during generation. Compressing these caches must preserve information for unseen questions. We introduce **Latent Compaction**, which learns a compact document-specific cache through test-time training. We initia",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.20582v1",
       "date": "2026-10-15"
     },
     {
@@ -246,6 +345,17 @@
       "date": "2026-10-15"
     },
     {
+      "id": "beyond-llm-judge-mechanical-verification-for-agentic-autoformalization",
+      "label": "Beyond LLM Judge: Mechanical Verification for Agentic Autoformalization",
+      "summary": "We introduce a novel method for verifying Lean formalizations that goes beyond LLM-judged faithfulness. Unlike most verification methods, which rely on LLMs or trained models, our method combines LLM-based semantic review with mechanical numerical and vacuity checks, providing checkable feedback and",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.20573v1",
+      "date": "2026-10-15"
+    },
+    {
       "id": "tev-scaling-long-horizon-agentic-environments-with-dense-progress-rewards",
       "label": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
       "summary": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recursive self-improvement (RSI). Yet open-source models still struggle on long-horizon tasks, largely fo",
@@ -254,6 +364,28 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2610.18868v1",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "co-evolving-acting-and-forecasting-for-language-agents",
+      "label": "Co-Evolving Acting and Forecasting for Language Agents",
+      "summary": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision in intermediate steps largely unused. Prior work exploits this supervision through value targets tha",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.20597v1",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "price-of-anarchy-of-first-price-auctions-in-agentic-markets",
+      "label": "Price of Anarchy of First-Price Auctions in Agentic Markets",
+      "summary": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the reward for its response minus its inference costs. First-price auctions (FPAs), in which the highest b",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.20587v1",
       "date": "2026-10-15"
     },
     {
@@ -279,6 +411,17 @@
       "date": "2026-10-15"
     },
     {
+      "id": "continuum-attention",
+      "label": "Continuum Attention",
+      "summary": "We introduce Continuum Attention (CA), a causal Transformer attention operator that replaces discrete key and value lookup with integration over a continuous, piecewise linear memory curve. Each query induces an exponential relevance density along the curve. Integrating the density and interpolated",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.20586v1",
+      "date": "2026-10-15"
+    },
+    {
       "id": "exact-topological-compliance-generating-persistence-equivalent-graphs",
       "label": "Exact Topological Compliance: Generating Persistence-Equivalent Graphs",
       "summary": "Persistent homology summarizes the topological evolution of a graph as persistence diagrams (PDs). Generating graphs whose topology matches a target descriptor is increasingly important, yet existing topology-aware generative models rely on soft regularization, producing graphs whose PDs may only be",
@@ -287,6 +430,17 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2610.18856v1",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "hierarchical-residual-policy-learning-for-real-world-mobile-manipulation-with-sp",
+      "label": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sp",
+      "summary": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling between heterogeneous modules. In this paper, we propose HiRe-MoMa (Hierarchical Residual Mobile Manip",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.20607v1",
       "date": "2026-10-15"
     },
     {
@@ -334,6 +488,39 @@
       "date": "2026-10-15"
     },
     {
+      "id": "your-transformer-is-secretly-elastic",
+      "label": "Your Transformer Is Secretly Elastic",
+      "summary": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L), forcing users to commit to a model based on hardware and latency constraints. This rigidity is ofte",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.20588v1",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "player-1-learning-to-play-from-synthetic-experience",
+      "label": "Player-1: Learning to Play from Synthetic Experience",
+      "summary": "Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics, remain challenging and offer a demanding next step toward general digital control. Current game-agent lea",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.20584v1",
+      "date": "2026-10-15"
+    },
+    {
+      "id": "recovering-reliable-supervision-via-critique-guided-on-policy-distillation",
+      "label": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation",
+      "summary": "On-policy distillation (OPD) trains a student model on its own rollouts with token-level supervision from a teacher, assuming that the teacher can reach a correct answer from any prefix the student writes. We call this property the recoverability of the teacher and show it fails on incorrect rollout",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.20572v1",
+      "date": "2026-10-15"
+    },
+    {
       "id": "mfg-multi-turn-feedback-guided-molecular-optimization",
       "label": "MFG: Multi-turn Feedback Guided Molecular Optimization",
       "summary": "Multi-objective molecular optimization is a critical process in drug discovery that aims to modify a given molecule to simultaneously improve multiple properties while maintaining a similar overall structure. This process often requires iterative modifications guided by computational or experimental",
@@ -357,7 +544,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 9523,
-    "edges": 10427
+    "real_nodes": 9542,
+    "edges": 10465
   }
 }

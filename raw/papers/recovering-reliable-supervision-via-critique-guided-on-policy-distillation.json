@@ -1,0 +1,28 @@
+{
+  "title": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation",
+  "summary": "On-policy distillation (OPD) trains a student model on its own rollouts with token-level supervision from a teacher, assuming that the teacher can reach a correct answer from any prefix the student writes. We call this property the recoverability of the teacher and show it fails on incorrect rollouts: the teacher follows student errors, although it recognizes them. We propose CriticOPD, using error recognition to restore recoverability. The teacher critiques an incorrect rollout, allowing the student to rewrite its solution following the error. The resulting output, including the critique as privileged information, is scored by the teacher while the student uses the revision without the critique for training. On two Qwen3 students and six mathematical reasoning benchmarks, CriticOPD improves OPD, with the largest gains on competition problems.",
+  "url": "http://arxiv.org/abs/2610.20572v1",
+  "authors": [
+    "Kaixiang Zhao",
+    "Tianrun Yu",
+    "Shangzhe Li",
+    "Yuxiao Yang",
+    "Amanda Hughes"
+  ],
+  "published": "2026-10-14T17:54:34Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "benchmark",
+    "vision",
+    "reasoning",
+    "training",
+    "distillation"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}
