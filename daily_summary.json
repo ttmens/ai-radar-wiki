@@ -1,47 +1,19 @@
 {
   "daily_summary": {
-    "date": "2026-10-15",
-    "headline": "今日 AI 情报 · 2026-10-15",
+    "date": "2026-10-16",
+    "headline": "今日 AI 情报 · 2026-10-16",
     "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：安全/漏洞, 模型能力, AI Agent。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
         "evidence": [
           {
-            "id": "tev-scaling-long-horizon-agentic-environments-with-dense-progress-rewards",
-            "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rew",
+            "id": "mlexpert-towards-a-generalist-agentic-model-for-autonomous-machine-learning-engi",
+            "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Le",
             "score": 0.3,
-            "url": "http://arxiv.org/abs/2610.18868v1",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "co-evolving-acting-and-forecasting-for-language-agents",
-            "title": "Co-Evolving Acting and Forecasting for Language Agents",
-            "score": 0.3,
-            "url": "http://arxiv.org/abs/2610.20597v1",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "price-of-anarchy-of-first-price-auctions-in-agentic-markets",
-            "title": "Price of Anarchy of First-Price Auctions in Agentic Markets",
-            "score": 0.3,
-            "url": "http://arxiv.org/abs/2610.20587v1",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "chunkact-action-chunking-for-agentic-robotics",
-            "title": "ChunkAct: Action Chunking for Agentic Robotics",
-            "score": 0.3,
-            "url": "http://arxiv.org/abs/2610.18874v1",
-            "reason": "里程碑式进展"
-          },
-          {
-            "id": "hybrid-reasoning-agents",
-            "title": "Hybrid Reasoning Agents",
-            "score": 0.3,
-            "url": "http://arxiv.org/abs/2610.18861v1",
+            "url": "http://arxiv.org/abs/2610.22344v1",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -50,76 +22,13 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent, 桌面/本地化。",
+        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
         "evidence": [
           {
-            "id": "ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics",
-            "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security ba",
-            "score": 0.51,
-            "url": "https://news.ycombinator.com/item?id=50091788",
-            "reason": "高价值信号"
-          },
-          {
-            "id": "lfm25-24b-a2b-built-for-fast-on-device-agents",
-            "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-            "score": 0.41,
-            "url": "https://news.ycombinator.com/item?id=50097369",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "tv4-postpones-show-after-ai-agent-erases-edited-material",
-            "title": "TV4 postpones show after AI agent erases edited material",
-            "score": 0.35,
-            "url": "https://news.ycombinator.com/item?id=50085323",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "what-agents-mean-for-rust-and-vice-versa",
-            "title": "What agents mean for Rust (and vice versa)",
-            "score": 0.3,
-            "url": "https://news.ycombinator.com/item?id=50084416",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "figma-announces-new-features-to-define-how-agents-work-on-its-platform",
-            "title": "Figma announces new features to define how agents work on its platform",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "floqer8217s-ai-agents-research-sales-prospects-so-teams-don8217t-have-to",
-            "title": "Floqer&#8217;s AI agents research sales prospects so teams don&#8217;t",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelli",
-            "title": "Apate sends AI agents undercover to get scammed so they can gather fra",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "neckbeard-a-devopsplatformsre-plugin-for-your-agent",
-            "title": "Neckbeard – a DevOps/platform/SRE plugin for your agent",
+            "id": "show-hn-blastloop-a-structure-first-coding-method-for-ai-agents",
+            "title": "Show HN: BlastLoop, a structure-first coding method for AI agents",
             "score": 0.15,
-            "url": "https://news.ycombinator.com/item?id=50091794",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "show-hn-axiomcode-graph-reducing-coding-agent-rework-with-formal-methods",
-            "title": "Show HN: AxiomCode Graph, Reducing coding agent rework with formal met",
-            "score": 0.15,
-            "url": "https://github.com/AxiomCodeAI/axiomcodegraph",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "show-hn-jevcrawl-a-web-crawler-for-ai-agents-with-no-llm-in-the-crawl-loop",
-            "title": "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the cra",
-            "score": 0.15,
-            "url": "https://github.com/RayenMlayeh/jevcrawl",
+            "url": "https://github.com/rlshaw-ml/BlastLoop",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -128,13 +37,13 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "今日🔧 工具生态方向的核心信号集中在AI Agent。",
+        "insight": "今日🔧 工具生态方向的核心信号集中在模型能力。",
         "evidence": [
           {
-            "id": "beyond-llm-judge-mechanical-verification-for-agentic-autoformalization",
-            "title": "Beyond LLM Judge: Mechanical Verification for Agentic Autoformalizatio",
+            "id": "discovering-state-of-the-art-quantum-circuits-with-large-language-models",
+            "title": "Discovering state-of-the-art quantum circuits with large language mode",
             "score": 0.3,
-            "url": "http://arxiv.org/abs/2610.20573v1",
+            "url": "http://arxiv.org/abs/2610.22367v1",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -146,10 +55,10 @@
         "insight": "今日💰 商业趋势方向有新的动态。",
         "evidence": [
           {
-            "id": "scimplify-raises-25m-to-challenge-china8217s-grip-on-critical-materials-with-ai",
-            "title": "Scimplify raises $25M to challenge China&#8217;s grip on critical mate",
+            "id": "when-it-came-to-cal-ai8217s-viral-success-a-small-army-of-influencers-paid-off",
+            "title": "When it came to Cal AI&#8217;s viral success, a small army of influenc",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+            "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -159,249 +68,125 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日11条情报涉及AI Agent及相关工具生态。典型项目包括：AI agents aren't 'going rogue.' Frontier, TV4 postpones show after AI agent erases, Floqer&#8217;s AI agents research sales 。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：MLExpert: Towards a Generalist Agentic M, Show HN: BlastLoop, a structure-first co。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       }
     ],
-    "stats": "📱 产品模式: 13 | 🔧 工具生态: 2 | 🤖 技术能力: 42 | 💰 商业趋势: 1",
-    "total_items": 58,
-    "high_value_count": 49,
+    "stats": "🤖 技术能力: 22 | 💰 商业趋势: 2 | 🔧 工具生态: 2 | 📱 产品模式: 1",
+    "total_items": 27,
+    "high_value_count": 22,
     "all_today_ids": [
       {
-        "id": "ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics",
-        "label": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics"
+        "id": "neural-networks-are-clean",
+        "label": "Neural networks are clean"
       },
       {
-        "id": "lfm25-24b-a2b-built-for-fast-on-device-agents",
-        "label": "LFM2.5-24B-A2B: Built for fast on-device agents"
+        "id": "krea-3-an-image-model-built-for-editing-at-scale",
+        "label": "Krea 3 – An image model built for editing at scale"
       },
       {
-        "id": "pathwaycomserviette",
-        "label": "pathwaycom/serviette"
+        "id": "googles-universal-cart-shopping-tool-launches-in-the-us",
+        "label": "Google’s Universal Cart shopping tool launches in the US"
       },
       {
-        "id": "why-do-llm-pelicans-look-like-this",
-        "label": "Why do LLM pelicans look like this?"
+        "id": "last-chance-to-save-up-to-200-on-your-techcrunch-founder-summit-pass-early-booki",
+        "label": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early boo"
       },
       {
-        "id": "asmls-strong-orders-ease-fears-ai-spending-boom-is-running-out-of-steam",
-        "label": "ASML's strong orders ease fears AI spending boom is running out of steam"
+        "id": "anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-ac",
+        "label": "Anthropic is letting METR researchers look under the hood with employee-level ac"
       },
       {
-        "id": "tv4-postpones-show-after-ai-agent-erases-edited-material",
-        "label": "TV4 postpones show after AI agent erases edited material"
+        "id": "amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need",
+        "label": "Amazon devices chief Panos Panay sees a future where AI devices replace the need"
       },
       {
-        "id": "banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote",
-        "label": "Banks are now trying to offload the AI data center debt they just underwrote"
+        "id": "meta-launches-an-open-weight-ai-model-that-runs-on-macs",
+        "label": "Meta launches an open-weight AI model that runs on Macs"
       },
       {
-        "id": "linus-torvaldss-first-llm-assisted-patch-series",
-        "label": "Linus Torvalds's first LLM-assisted patch series"
+        "id": "when-it-came-to-cal-ai8217s-viral-success-a-small-army-of-influencers-paid-off",
+        "label": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid o"
       },
       {
-        "id": "youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platfor",
-        "label": "YouTube Music launches new labels as AI-generated music floods streaming platfor"
+        "id": "amazon8217s-bee-launches-two-new-personal-ai-devices-starting-at-75",
+        "label": "Amazon&#8217;s Bee launches two new personal AI devices, starting at $75"
       },
       {
-        "id": "ask-hn-cad-for-wood-working-with-llm-support",
-        "label": "Ask HN: CAD for wood working with LLM support?"
+        "id": "bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and",
+        "label": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, an"
       },
       {
-        "id": "gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they",
-        "label": "Gudea leverages AI to help organizations prevent social media crises before they"
+        "id": "mlexpert-towards-a-generalist-agentic-model-for-autonomous-machine-learning-engi",
+        "label": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Eng"
       },
       {
-        "id": "deezer-will-soon-let-you-filter-out-ai-generated-music",
-        "label": "Deezer will soon let you filter out AI-generated music"
+        "id": "geostate-learning-view-decoupled-geometry-states-for-3d-world-modeling",
+        "label": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling"
       },
       {
-        "id": "what-agents-mean-for-rust-and-vice-versa",
-        "label": "What agents mean for Rust (and vice versa)"
+        "id": "discovering-state-of-the-art-quantum-circuits-with-large-language-models",
+        "label": "Discovering state-of-the-art quantum circuits with large language models"
       },
       {
-        "id": "scimplify-raises-25m-to-challenge-china8217s-grip-on-critical-materials-with-ai",
-        "label": "Scimplify raises $25M to challenge China&#8217;s grip on critical materials with"
+        "id": "t2-z-test-time-optimization-of-environment-latents-for-robotic-world-models",
+        "label": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models"
       },
       {
-        "id": "figma-announces-new-features-to-define-how-agents-work-on-its-platform",
-        "label": "Figma announces new features to define how agents work on its platform"
+        "id": "fde-gym-the-last-mile-of-ai-delivery",
+        "label": "FDE-Gym: The Last Mile of AI Delivery"
       },
       {
-        "id": "save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-2-days-in-san-f",
-        "label": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San"
+        "id": "libero-perm-benchmarking-personalized-robotic-manipulation",
+        "label": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation"
       },
       {
-        "id": "ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute",
-        "label": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute"
+        "id": "pathfm-fast-generative-forecasting-of-multivariate-trajectories",
+        "label": "PathFM: Fast Generative Forecasting of Multivariate Trajectories"
       },
       {
-        "id": "zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workp",
-        "label": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the work"
+        "id": "3dcodeverse-exploring-3d-worlds-as-code",
+        "label": "3DCodeVerse: Exploring 3D Worlds as Code"
       },
       {
-        "id": "floqer8217s-ai-agents-research-sales-prospects-so-teams-don8217t-have-to",
-        "label": "Floqer&#8217;s AI agents research sales prospects so teams don&#8217;t have to"
+        "id": "lean-graph-search-for-formal-theorem-proving",
+        "label": "Lean Graph Search for Formal Theorem Proving"
       },
       {
-        "id": "anthropics-scion-is-heavily-inspired-by-mononoke",
-        "label": "Anthropic's Scion is heavily inspired by Mononoke"
+        "id": "dexterity-from-supervised-play",
+        "label": "Dexterity from Supervised Play"
       },
       {
-        "id": "apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelli",
-        "label": "Apate sends AI agents undercover to get scammed so they can gather fraud intelli"
+        "id": "rethinking-routing-exploration-in-modern-mixture-of-experts",
+        "label": "Rethinking Routing Exploration in Modern Mixture-of-Experts"
       },
       {
-        "id": "flock-ceo-says-its-microphones-detect-8216just-gunshots8217-its-website-says-dif",
-        "label": "Flock CEO says its microphones detect &#8216;just gunshots&#8217; — its website"
+        "id": "coda-co-evolution-of-data-engines-and-action-policies",
+        "label": "CoDA: Co-Evolution of Data Engines and Action Policies"
       },
       {
-        "id": "pg_vectorsearch-an-index-that-is-faster-than-pgvectors-ivfflat-and-hnsw",
-        "label": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW"
+        "id": "the-8-mile-hole-in-a-hawaii-national-park-that-no-one-can-explain",
+        "label": "The 8-mile hole in a Hawaii national park that no one can explain"
       },
       {
-        "id": "i-let-an-ai-run-my-startup-for-a-week",
-        "label": "I let an AI run my startup for a week"
+        "id": "simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era",
+        "label": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era"
       },
       {
-        "id": "techcrunch-disrupt-2026-day-2",
-        "label": "TechCrunch Disrupt 2026: Day 2"
+        "id": "bebox-is-a-haiku-application-that-emulates-be-incs-bebox",
+        "label": "BeBox is a Haiku application that emulates Be Inc.'s BeBox"
       },
       {
-        "id": "modeling-and-understanding-neural-weights-of-humanoid-policies-with-diffusion",
-        "label": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion"
+        "id": "using-ai-to-reverse-engineer-hardware",
+        "label": "Using AI to reverse engineer hardware"
       },
       {
-        "id": "learnable-hodge-laplacian-driven-mixture-of-experts-for-steady-pde-surrogates-on",
-        "label": "Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on"
-      },
-      {
-        "id": "one-task-many-interfaces-simple-cross-interface-consistency-training-improves-ll",
-        "label": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves"
-      },
-      {
-        "id": "cepheid-decoupling-scale-from-structure-for-cross-family-motion-completion",
-        "label": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion"
-      },
-      {
-        "id": "latent-compaction-with-test-time-training",
-        "label": "Latent Compaction with Test-Time Training"
-      },
-      {
-        "id": "two-clocks-why-larger-rollout-batches-learn-slower-but-fail-on-schedule-in-reinf",
-        "label": "Two Clocks: Why Larger Rollout Batches Learn Slower but Fail on Schedule in Rein"
-      },
-      {
-        "id": "beyond-llm-judge-mechanical-verification-for-agentic-autoformalization",
-        "label": "Beyond LLM Judge: Mechanical Verification for Agentic Autoformalization"
-      },
-      {
-        "id": "tev-scaling-long-horizon-agentic-environments-with-dense-progress-rewards",
-        "label": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards"
-      },
-      {
-        "id": "co-evolving-acting-and-forecasting-for-language-agents",
-        "label": "Co-Evolving Acting and Forecasting for Language Agents"
-      },
-      {
-        "id": "price-of-anarchy-of-first-price-auctions-in-agentic-markets",
-        "label": "Price of Anarchy of First-Price Auctions in Agentic Markets"
-      },
-      {
-        "id": "chunkact-action-chunking-for-agentic-robotics",
-        "label": "ChunkAct: Action Chunking for Agentic Robotics"
-      },
-      {
-        "id": "what-matters-in-quality-aware-vla-pretraining-a-benchmark-and-empirical-study",
-        "label": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study"
-      },
-      {
-        "id": "continuum-attention",
-        "label": "Continuum Attention"
-      },
-      {
-        "id": "exact-topological-compliance-generating-persistence-equivalent-graphs",
-        "label": "Exact Topological Compliance: Generating Persistence-Equivalent Graphs"
-      },
-      {
-        "id": "hierarchical-residual-policy-learning-for-real-world-mobile-manipulation-with-sp",
-        "label": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sp"
-      },
-      {
-        "id": "aescode-aesthetic-code-generation-with-decoupled-cross-modal-rewards",
-        "label": "AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards"
-      },
-      {
-        "id": "libero-rig-a-hardware-setup-robustness-benchmark-for-vision-language-action-mode",
-        "label": "LIBERO-RIG: A Hardware-Setup Robustness Benchmark for Vision-Language-Action Mod"
-      },
-      {
-        "id": "hybrid-reasoning-agents",
-        "label": "Hybrid Reasoning Agents"
-      },
-      {
-        "id": "data-free-training-of-diffusion-models-for-lattice-field-theories",
-        "label": "Data Free Training of Diffusion Models for Lattice Field Theories"
-      },
-      {
-        "id": "your-transformer-is-secretly-elastic",
-        "label": "Your Transformer Is Secretly Elastic"
-      },
-      {
-        "id": "player-1-learning-to-play-from-synthetic-experience",
-        "label": "Player-1: Learning to Play from Synthetic Experience"
-      },
-      {
-        "id": "recovering-reliable-supervision-via-critique-guided-on-policy-distillation",
-        "label": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation"
-      },
-      {
-        "id": "mfg-multi-turn-feedback-guided-molecular-optimization",
-        "label": "MFG: Multi-turn Feedback Guided Molecular Optimization"
-      },
-      {
-        "id": "doubtless-training-free-contrastive-decoding-for-efficient-reasoning",
-        "label": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning"
-      },
-      {
-        "id": "has-ai-tells",
-        "label": "Has AI tells"
-      },
-      {
-        "id": "show-hn-i-wrote-an-email-app-that-accepts-only-one-sender-per-inbox",
-        "label": "Show HN: I wrote an email app that accepts only one sender per inbox"
-      },
-      {
-        "id": "neckbeard-a-devopsplatformsre-plugin-for-your-agent",
-        "label": "Neckbeard – a DevOps/platform/SRE plugin for your agent"
-      },
-      {
-        "id": "show-hn-ask-a-technical-question-get-an-animated-explainer-you-can-interrupt",
-        "label": "Show HN: Ask a technical question, get an animated explainer you can interrupt"
-      },
-      {
-        "id": "show-hn-axiomcode-graph-reducing-coding-agent-rework-with-formal-methods",
-        "label": "Show HN: AxiomCode Graph, Reducing coding agent rework with formal methods"
-      },
-      {
-        "id": "the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl",
-        "label": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl"
-      },
-      {
-        "id": "show-hn-graphicle-a-rust-port-of-graphify-with-memory-for-coding-agents",
-        "label": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents"
-      },
-      {
-        "id": "show-hn-t0-we-trained-a-256m-sota-open-weights-time-series-forecasting-model",
-        "label": "Show HN: T0: We trained a 256M SOTA open-weights time-series forecasting model"
-      },
-      {
-        "id": "show-hn-jevcrawl-a-web-crawler-for-ai-agents-with-no-llm-in-the-crawl-loop",
-        "label": "Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop"
+        "id": "show-hn-blastloop-a-structure-first-coding-method-for-ai-agents",
+        "label": "Show HN: BlastLoop, a structure-first coding method for AI agents"
       }
     ],
-    "date_bj": "2026-10-15 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-15 20:03:50"
+    "date_bj": "2026-10-16 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-10-16 16:04:27"
   }
 }

@@ -20,6 +20,13 @@
 
 ## 运行日志
 
+## [2026-10-16 16:04] Evolution Run
+- Deprecated: 1 nodes
+- Pillar distribution: {'capabilities': 3144, 'ecosystem': 627, 'business': 452, 'patterns': 864, 'unknown': 4}
+- Top tags: {'capabilities': 3059, 'discussion': 2068, 'hacker-news': 2068, 'news': 1224, 'techcrunch': 1224}
+  🗑️ Deprecated: canada-says-bridge-tolls-wont-be-split-with-us-until-64b-of-debt-is-repaid.md (91d old, score=0.085)  📊 1 nodes deprecated (90d+ and score < 0.15)
+
+
 ## [2026-10-15 20:04] Evolution Run
 - Deprecated: 0 nodes
 - Pillar distribution: {'capabilities': 3122, 'ecosystem': 625, 'business': 450, 'patterns': 863, 'unknown': 4}

@@ -1,6 +1,7 @@
 ---
 title: Canada says bridge tolls won't be split with U.S. until $6.4B of debt is repaid
 created: 2026-07-17
+deprecated: true
 updated: 2026-07-17
 type: entity
 pillar: capabilities

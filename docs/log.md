@@ -5393,3 +5393,28 @@
 - create: ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute.md
 - create: gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they.md
 - create: show-hn-ask-a-technical-question-get-an-animated-explainer-you-can-interrupt.md
+
+## [2026-10-16 16:04] sync v3 | 25 new | pillars: {'capabilities': 21, 'ecosystem': 2, 'business': 1, 'patterns': 1}
+- create: libero-perm-benchmarking-personalized-robotic-manipulation.md
+- create: discovering-state-of-the-art-quantum-circuits-with-large-language-models.md
+- create: t2-z-test-time-optimization-of-environment-latents-for-robotic-world-models.md
+- create: coda-co-evolution-of-data-engines-and-action-policies.md
+- create: pathfm-fast-generative-forecasting-of-multivariate-trajectories.md
+- create: rethinking-routing-exploration-in-modern-mixture-of-experts.md
+- create: fde-gym-the-last-mile-of-ai-delivery.md
+- create: mlexpert-towards-a-generalist-agentic-model-for-autonomous-machine-learning-engi.md
+- create: geostate-learning-view-decoupled-geometry-states-for-3d-world-modeling.md
+- create: 3dcodeverse-exploring-3d-worlds-as-code.md
+- create: dexterity-from-supervised-play.md
+- create: lean-graph-search-for-formal-theorem-proving.md
+- create: neural-networks-are-clean.md
+- create: krea-3-an-image-model-built-for-editing-at-scale.md
+- create: bebox-is-a-haiku-application-that-emulates-be-incs-bebox.md
+- create: the-8-mile-hole-in-a-hawaii-national-park-that-no-one-can-explain.md
+- create: when-it-came-to-cal-ai8217s-viral-success-a-small-army-of-influencers-paid-off.md
+- create: meta-launches-an-open-weight-ai-model-that-runs-on-macs.md
+- create: amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need.md
+- create: anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-ac.md
+- create: bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and.md
+- create: last-chance-to-save-up-to-200-on-your-techcrunch-founder-summit-pass-early-booki.md
+- create: show-hn-blastloop-a-structure-first-coding-method-for-ai-agents.md
