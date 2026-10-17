@@ -5420,3 +5420,22 @@
 - create: show-hn-blastloop-a-structure-first-coding-method-for-ai-agents.md
 
 ## [2026-10-16 18:01] sync v3 | 0 new | pillars: {}
+
+## [2026-10-17 16:04] sync v3 | 20 new | pillars: {'ecosystem': 2, 'capabilities': 15, 'business': 1, 'patterns': 2}
+- create: show-hn-llmspeed-feel-how-fast-a-local-llm-runs-before-you-buy-the-hardware.md
+- create: llamacpp-on-a-jailbroken-ps5-run-any-gguf-model-natively-on-the-console.md
+- create: claude-reveals-ecdsa-curve-origins.md
+- create: you-could-have-invented-transformers-from-memory.md
+- create: designing-more-efficient-quantum-circuits-with-claude.md
+- create: 90-of-us-working-hours-are-spent-on-tasks-not-covered-well-by-ai-benchmarks.md
+- create: how-the-claude-code-team-does-code-review.md
+- create: nine-inch-snails.md
+- create: stolen-renoir-paintings-found-hidden-and-damaged-behind-cinder-block-wall.md
+- create: show-hn-wonderhop-a-daily-game-guess-what-most-people-say-or-what-none-do.md
+- create: anthropic-assigned-highest-junk-credit-rating-in-june.md
+- create: replit-is-no-longer-working-with-anthropic-ceo-says.md
+- create: india-becomes-the-latest-country-to-report-rogue-ai-agent-activity.md
+- create: an-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet.md
+- create: physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it.md
+- create: elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them.md
+- create: show-hn-rstation-a-shared-research-lab-for-your-ai-agents.md

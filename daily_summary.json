@@ -1,20 +1,20 @@
 {
   "daily_summary": {
-    "date": "2026-10-16",
-    "headline": "今日 AI 情报 · 2026-10-16",
+    "date": "2026-10-17",
+    "headline": "今日 AI 情报 · 2026-10-17",
     "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：桌面/本地化, AI Agent。",
         "evidence": [
           {
-            "id": "mlexpert-towards-a-generalist-agentic-model-for-autonomous-machine-learning-engi",
-            "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Le",
-            "score": 0.3,
-            "url": "http://arxiv.org/abs/2610.22344v1",
-            "reason": "基于新颖度、影响力、相关性综合评分"
+            "id": "claude-reveals-ecdsa-curve-origins",
+            "title": "Claude reveals ECDSA curve origins",
+            "score": 0.51,
+            "url": "https://news.ycombinator.com/item?id=50122800",
+            "reason": "高价值信号"
           }
         ],
         "trend": "new"
@@ -25,10 +25,17 @@
         "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
         "evidence": [
           {
-            "id": "show-hn-blastloop-a-structure-first-coding-method-for-ai-agents",
-            "title": "Show HN: BlastLoop, a structure-first coding method for AI agents",
-            "score": 0.15,
-            "url": "https://github.com/rlshaw-ml/BlastLoop",
+            "id": "india-becomes-the-latest-country-to-report-rogue-ai-agent-activity",
+            "title": "India becomes the latest country to report rogue AI agent activity",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-rstation-a-shared-research-lab-for-your-ai-agents",
+            "title": "Show HN: rStation – A shared research lab for your AI agents",
+            "score": 0.2,
+            "url": "https://rstation.ai/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -37,13 +44,13 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "今日🔧 工具生态方向的核心信号集中在模型能力。",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
         "evidence": [
           {
-            "id": "discovering-state-of-the-art-quantum-circuits-with-large-language-models",
-            "title": "Discovering state-of-the-art quantum circuits with large language mode",
+            "id": "jev-is-vercel8217s-fastest-adopted-ai-model-ever",
+            "title": "Jev is Vercel&#8217;s fastest-adopted AI model ever",
             "score": 0.3,
-            "url": "http://arxiv.org/abs/2610.22367v1",
+            "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -55,10 +62,10 @@
         "insight": "今日💰 商业趋势方向有新的动态。",
         "evidence": [
           {
-            "id": "when-it-came-to-cal-ai8217s-viral-success-a-small-army-of-influencers-paid-off",
-            "title": "When it came to Cal AI&#8217;s viral success, a small army of influenc",
+            "id": "replit-is-no-longer-working-with-anthropic-ceo-says",
+            "title": "Replit is no longer working with Anthropic, CEO says",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+            "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -68,125 +75,123 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：MLExpert: Towards a Generalist Agentic M, Show HN: BlastLoop, a structure-first co。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日4条情报涉及AI Agent及相关工具生态。典型项目包括：India becomes the latest country to repo, Replit&#8217;s CEO says the future of wo, Show HN: rStation – A shared research la。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      },
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日1条情报涉及AI商业动态。包括：Elorian’s first AI model wants to reason。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 22 | 💰 商业趋势: 2 | 🔧 工具生态: 2 | 📱 产品模式: 1",
-    "total_items": 27,
-    "high_value_count": 22,
+    "stats": "🤖 技术能力: 19 | 📱 产品模式: 3 | 🔧 工具生态: 2 | 💰 商业趋势: 1",
+    "total_items": 25,
+    "high_value_count": 18,
     "all_today_ids": [
       {
-        "id": "neural-networks-are-clean",
-        "label": "Neural networks are clean"
+        "id": "claude-reveals-ecdsa-curve-origins",
+        "label": "Claude reveals ECDSA curve origins"
       },
       {
-        "id": "krea-3-an-image-model-built-for-editing-at-scale",
-        "label": "Krea 3 – An image model built for editing at scale"
+        "id": "90-of-us-working-hours-are-spent-on-tasks-not-covered-well-by-ai-benchmarks",
+        "label": "90% of US working hours are spent on tasks not covered well by AI benchmarks"
       },
       {
-        "id": "googles-universal-cart-shopping-tool-launches-in-the-us",
-        "label": "Google’s Universal Cart shopping tool launches in the US"
+        "id": "how-the-claude-code-team-does-code-review",
+        "label": "How the Claude Code team does code review"
       },
       {
-        "id": "last-chance-to-save-up-to-200-on-your-techcrunch-founder-summit-pass-early-booki",
-        "label": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early boo"
+        "id": "llamacpp-on-a-jailbroken-ps5-run-any-gguf-model-natively-on-the-console",
+        "label": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console"
       },
       {
-        "id": "anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-ac",
-        "label": "Anthropic is letting METR researchers look under the hood with employee-level ac"
+        "id": "you-could-have-invented-transformers-from-memory",
+        "label": "You could have invented transformers from memory"
       },
       {
-        "id": "amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need",
-        "label": "Amazon devices chief Panos Panay sees a future where AI devices replace the need"
+        "id": "anthropic-assigned-highest-junk-credit-rating-in-june",
+        "label": "Anthropic assigned highest junk credit rating in June"
       },
       {
-        "id": "meta-launches-an-open-weight-ai-model-that-runs-on-macs",
-        "label": "Meta launches an open-weight AI model that runs on Macs"
+        "id": "stolen-renoir-paintings-found-hidden-and-damaged-behind-cinder-block-wall",
+        "label": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall"
       },
       {
-        "id": "when-it-came-to-cal-ai8217s-viral-success-a-small-army-of-influencers-paid-off",
-        "label": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid o"
+        "id": "physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it",
+        "label": "Physical AI is more than robots, says the Nvidia veteran now investing in it"
       },
       {
-        "id": "amazon8217s-bee-launches-two-new-personal-ai-devices-starting-at-75",
-        "label": "Amazon&#8217;s Bee launches two new personal AI devices, starting at $75"
+        "id": "india-becomes-the-latest-country-to-report-rogue-ai-agent-activity",
+        "label": "India becomes the latest country to report rogue AI agent activity"
       },
       {
-        "id": "bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and",
-        "label": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, an"
+        "id": "jev-is-vercel8217s-fastest-adopted-ai-model-ever",
+        "label": "Jev is Vercel&#8217;s fastest-adopted AI model ever"
       },
       {
-        "id": "mlexpert-towards-a-generalist-agentic-model-for-autonomous-machine-learning-engi",
-        "label": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Eng"
+        "id": "replit8217s-ceo-says-the-future-of-work-is-the-8216self-driving-company8217",
+        "label": "Replit&#8217;s CEO says the future of work is the &#8216;self-driving company&#8"
       },
       {
-        "id": "geostate-learning-view-decoupled-geometry-states-for-3d-world-modeling",
-        "label": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling"
+        "id": "designing-more-efficient-quantum-circuits-with-claude",
+        "label": "Designing more efficient quantum circuits with Claude"
       },
       {
-        "id": "discovering-state-of-the-art-quantum-circuits-with-large-language-models",
-        "label": "Discovering state-of-the-art quantum circuits with large language models"
+        "id": "veritas-expands-its-anti-counterfeit-chip-to-jewelry-trophies-and-fragrance-bott",
+        "label": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bo"
       },
       {
-        "id": "t2-z-test-time-optimization-of-environment-latents-for-robotic-world-models",
-        "label": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models"
+        "id": "mark-wahlberg-on-using-ai-in-film-8216the-right-way8217-and-being-open-to-an-ai",
+        "label": "Mark Wahlberg on using AI in film &#8216;the right way&#8217; and being open to"
       },
       {
-        "id": "fde-gym-the-last-mile-of-ai-delivery",
-        "label": "FDE-Gym: The Last Mile of AI Delivery"
+        "id": "an-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet",
+        "label": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet"
       },
       {
-        "id": "libero-perm-benchmarking-personalized-robotic-manipulation",
-        "label": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation"
+        "id": "show-hn-wonderhop-a-daily-game-guess-what-most-people-say-or-what-none-do",
+        "label": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do"
       },
       {
-        "id": "pathfm-fast-generative-forecasting-of-multivariate-trajectories",
-        "label": "PathFM: Fast Generative Forecasting of Multivariate Trajectories"
+        "id": "replit-is-no-longer-working-with-anthropic-ceo-says",
+        "label": "Replit is no longer working with Anthropic, CEO says"
       },
       {
-        "id": "3dcodeverse-exploring-3d-worlds-as-code",
-        "label": "3DCodeVerse: Exploring 3D Worlds as Code"
+        "id": "elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them",
+        "label": "Elorian’s first AI model wants to reason with images, not just about them"
       },
       {
-        "id": "lean-graph-search-for-formal-theorem-proving",
-        "label": "Lean Graph Search for Formal Theorem Proving"
+        "id": "ai-assisted-pcb-design-for-kicad-10",
+        "label": "AI-assisted PCB design for KiCad 10"
       },
       {
-        "id": "dexterity-from-supervised-play",
-        "label": "Dexterity from Supervised Play"
+        "id": "apple-ml-research-muse-spark-open-with-mlx-on-mac-studio",
+        "label": "Apple ML Research: Muse Spark Open with MLX on Mac Studio"
       },
       {
-        "id": "rethinking-routing-exploration-in-modern-mixture-of-experts",
-        "label": "Rethinking Routing Exploration in Modern Mixture-of-Experts"
+        "id": "nine-inch-snails",
+        "label": "Nine-Inch Snails"
       },
       {
-        "id": "coda-co-evolution-of-data-engines-and-action-policies",
-        "label": "CoDA: Co-Evolution of Data Engines and Action Policies"
+        "id": "show-hn-rstation-a-shared-research-lab-for-your-ai-agents",
+        "label": "Show HN: rStation – A shared research lab for your AI agents"
       },
       {
-        "id": "the-8-mile-hole-in-a-hawaii-national-park-that-no-one-can-explain",
-        "label": "The 8-mile hole in a Hawaii national park that no one can explain"
+        "id": "ms-paint-adds-freeform-rotation-2026",
+        "label": "MS Paint Adds Freeform Rotation (2026)"
       },
       {
-        "id": "simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era",
-        "label": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era"
+        "id": "show-hn-llmspeed-feel-how-fast-a-local-llm-runs-before-you-buy-the-hardware",
+        "label": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware"
       },
       {
-        "id": "bebox-is-a-haiku-application-that-emulates-be-incs-bebox",
-        "label": "BeBox is a Haiku application that emulates Be Inc.'s BeBox"
-      },
-      {
-        "id": "using-ai-to-reverse-engineer-hardware",
-        "label": "Using AI to reverse engineer hardware"
-      },
-      {
-        "id": "show-hn-blastloop-a-structure-first-coding-method-for-ai-agents",
-        "label": "Show HN: BlastLoop, a structure-first coding method for AI agents"
+        "id": "show-hn-gemini-4-argon-plays-starcraft",
+        "label": "Show HN: Gemini 4 Argon plays StarCraft"
       }
     ],
-    "date_bj": "2026-10-16 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-16 18:00:34"
+    "date_bj": "2026-10-17 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-10-17 16:03:43"
   }
 }
