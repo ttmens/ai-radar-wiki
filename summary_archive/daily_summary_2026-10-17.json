@@ -7,7 +7,7 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：桌面/本地化, AI Agent。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 桌面/本地化。",
         "evidence": [
           {
             "id": "claude-reveals-ecdsa-curve-origins",
@@ -86,8 +86,8 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 19 | 📱 产品模式: 3 | 🔧 工具生态: 2 | 💰 商业趋势: 1",
-    "total_items": 25,
+    "stats": "🤖 技术能力: 20 | 📱 产品模式: 3 | 🔧 工具生态: 2 | 💰 商业趋势: 1",
+    "total_items": 26,
     "high_value_count": 18,
     "all_today_ids": [
       {
@@ -183,6 +183,10 @@
         "label": "MS Paint Adds Freeform Rotation (2026)"
       },
       {
+        "id": "tell-hn-remember-to-migrate-away-from-name-domain",
+        "label": "Tell HN: Remember to migrate away from .name domain"
+      },
+      {
         "id": "show-hn-llmspeed-feel-how-fast-a-local-llm-runs-before-you-buy-the-hardware",
         "label": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware"
       },
@@ -192,6 +196,6 @@
       }
     ],
     "date_bj": "2026-10-17 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-17 16:03:43"
+    "generated_at_bj": "2026-10-17 18:01:40"
   }
 }

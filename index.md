@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-17 | Total pages: 5179
+> Last updated: 2026-10-17 | Total pages: 5180
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -1846,6 +1846,7 @@
 - [[techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive.md]] TechCrunch Mobility: The AI skills arms race is coming for automotive `pillar:capabilities` `score:0.445`
 - [[tectonic-a-modernized-complete-self-contained-texlatex-engine.md]] Tectonic: A modernized, complete, self-contained TeX/LaTeX engine `pillar:capabilities` `score:0.325`
 - [[tell-hn-openai-keeps-re-enabling-the-allow-training-setting.md]] Tell HN: OpenAI keeps re-enabling the 'allow training' setting `pillar:capabilities` `score:0.425`
+- [[tell-hn-remember-to-migrate-away-from-name-domain.md]] Tell HN: Remember to migrate away from .name domain `pillar:capabilities` `score:0.155`
 - [[tencentncnn.md]] Tencent/ncnn `pillar:capabilities` `score:0.58`
 - [[tension-wood-a-muscle-that-can-both-bend-and-straighten-plants.md]] Tension wood: A 'muscle' that can both bend and straighten plants `pillar:capabilities` `score:0.305`
 - [[tensorflowtfjs.md]] tensorflow/tfjs `pillar:capabilities` `score:0.58`

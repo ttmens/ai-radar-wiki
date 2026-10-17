@@ -5439,3 +5439,6 @@
 - create: physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it.md
 - create: elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them.md
 - create: show-hn-rstation-a-shared-research-lab-for-your-ai-agents.md
+
+## [2026-10-17 18:02] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: tell-hn-remember-to-migrate-away-from-name-domain.md
