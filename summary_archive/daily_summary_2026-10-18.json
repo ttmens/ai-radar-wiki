@@ -1,0 +1,55 @@
+{
+  "daily_summary": {
+    "date": "2026-10-18",
+    "headline": "今日 AI 情报 · 2026-10-18",
+    "overview": "今日共采集 2 条情报",
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "今日🤖 技术能力方向有新的动态。",
+        "evidence": [
+          {
+            "id": "show-hn-camera-controls-and-motion-for-ai-video-prompts",
+            "title": "Show HN: Camera Controls and Motion for AI Video Prompts",
+            "score": 0.15,
+            "url": "https://www.kapwing.com/ai/prompt-generator/camera",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向有新的动态。",
+        "evidence": [
+          {
+            "id": "madslorentzenai-job-search",
+            "title": "MadsLorentzen/ai-job-search",
+            "score": 0.41,
+            "url": "https://github.com/MadsLorentzen/ai-job-search",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      }
+    ],
+    "narratives": [],
+    "stats": "🔧 工具生态: 1 | 🤖 技术能力: 1",
+    "total_items": 2,
+    "high_value_count": 1,
+    "all_today_ids": [
+      {
+        "id": "madslorentzenai-job-search",
+        "label": "MadsLorentzen/ai-job-search"
+      },
+      {
+        "id": "show-hn-camera-controls-and-motion-for-ai-video-prompts",
+        "label": "Show HN: Camera Controls and Motion for AI Video Prompts"
+      }
+    ],
+    "date_bj": "2026-10-18 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-10-18 00:01:45"
+  }
+}

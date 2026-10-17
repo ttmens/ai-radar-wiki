@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-17 | Total pages: 5180
+> Last updated: 2026-10-18 | Total pages: 5182
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -1564,6 +1564,7 @@
 - [[show-hn-brightdeck-an-ooxml-compatible-ai-presentation-maker.md]] Show HN: Brightdeck – an OOXML-compatible AI presentation maker `pillar:capabilities` `score:0.33`
 - [[show-hn-btfy-a-blockchain-that-uses-weather-observations.md]] Show HN: Btfy – a blockchain that uses weather observations `pillar:capabilities` `score:0.155`
 - [[show-hn-cactus-needle-3-8-29mb-automation-models-can-match-deepseek-v4-flash.md]] Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash `pillar:capabilities` `score:0.355`
+- [[show-hn-camera-controls-and-motion-for-ai-video-prompts.md]] Show HN: Camera Controls and Motion for AI Video Prompts `pillar:capabilities` `score:0.155`
 - [[show-hn-can-europe-train-a-frontier-ai-model-on-the-compute-it-owns.md]] Show HN: Can Europe train a frontier AI model on the compute it owns? `pillar:capabilities` `score:0.38`
 - [[show-hn-check-if-any-of-the-656m-in-unclaimed-royalties-at-the-mlc-is-yours.md]] Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours `pillar:capabilities` `score:0.255`
 - [[show-hn-classify-mechanical-faults-using-contrastive-language-audio-pretraining.md]] Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining `pillar:capabilities` `score:0.295`
@@ -4249,6 +4250,7 @@
 - [[loupe-a-ios-app-that-raises-awareness-about-what-native-apps-can-see.md]] Loupe – A iOS app that raises awareness about what native apps can see `pillar:ecosystem` `score:0.445`
 - [[lukasmasuchbest-of-ml-python.md]] lukasmasuch/best-of-ml-python `pillar:ecosystem` `score:0.58`
 - [[lutzroedernetron.md]] lutzroeder/netron `pillar:ecosystem` `score:0.58`
+- [[madslorentzenai-job-search.md]] MadsLorentzen/ai-job-search `pillar:ecosystem` `score:0.405`
 - [[mathematicians-issue-warning-as-ai-rapidly-gains-ground.md]] Mathematicians issue warning as AI rapidly gains ground `pillar:ecosystem` `score:0.515`
 - [[maven-robotics-wants-to-steal-your-robot-deployment-deal.md]] Maven Robotics wants to steal your robot deployment deal `pillar:ecosystem` `score:0.305`
 - [[mayor-mamdani-says-landlords-cant-use-ai-images-to-advertise.md]] Mayor Mamdani Says Landlords Can't Use AI Images to Advertise `pillar:ecosystem` `score:0.6`

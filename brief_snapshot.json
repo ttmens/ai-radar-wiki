@@ -1,209 +1,22 @@
 {
-  "date": "2026-10-17",
-  "generated_at": "2026-10-17T18:02:15.778475+08:00",
-  "item_count": 18,
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T00:02:16.829492+08:00",
+  "item_count": 1,
   "items": [
     {
-      "id": "claude-reveals-ecdsa-curve-origins",
-      "label": "Claude reveals ECDSA curve origins",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.505,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50122800",
-      "date": "2026-10-17"
-    },
-    {
-      "id": "90-of-us-working-hours-are-spent-on-tasks-not-covered-well-by-ai-benchmarks",
-      "label": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.455,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50121179",
-      "date": "2026-10-17"
-    },
-    {
-      "id": "how-the-claude-code-team-does-code-review",
-      "label": "How the Claude Code team does code review",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.455,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50122951",
-      "date": "2026-10-17"
-    },
-    {
-      "id": "llamacpp-on-a-jailbroken-ps5-run-any-gguf-model-natively-on-the-console",
-      "label": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "summary": "暂无中文摘要",
+      "id": "madslorentzenai-job-search",
+      "label": "MadsLorentzen/ai-job-search",
+      "summary": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "pm_score": 0.405,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50122431",
-      "date": "2026-10-17"
-    },
-    {
-      "id": "you-could-have-invented-transformers-from-memory",
-      "label": "You could have invented transformers from memory",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.405,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50122878",
-      "date": "2026-10-17"
-    },
-    {
-      "id": "anthropic-assigned-highest-junk-credit-rating-in-june",
-      "label": "Anthropic assigned highest junk credit rating in June",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.405,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50122112",
-      "date": "2026-10-17"
-    },
-    {
-      "id": "stolen-renoir-paintings-found-hidden-and-damaged-behind-cinder-block-wall",
-      "label": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.355,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50074322",
-      "date": "2026-10-17"
-    },
-    {
-      "id": "physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it",
-      "label": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to tho",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "date": "2026-10-17"
-    },
-    {
-      "id": "india-becomes-the-latest-country-to-report-rogue-ai-agent-activity",
-      "label": "India becomes the latest country to report rogue AI agent activity",
-      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "pm_score": 0.305,
-      "pillar": "patterns",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "date": "2026-10-17"
-    },
-    {
-      "id": "jev-is-vercel8217s-fastest-adopted-ai-model-ever",
-      "label": "Jev is Vercel&#8217;s fastest-adopted AI model ever",
-      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-      "pm_score": 0.305,
       "pillar": "ecosystem",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "date": "2026-10-17"
-    },
-    {
-      "id": "replit8217s-ceo-says-the-future-of-work-is-the-8216self-driving-company8217",
-      "label": "Replit&#8217;s CEO says the future of work is the &#8216;self-driving company&#8",
-      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-      "date": "2026-10-17"
-    },
-    {
-      "id": "designing-more-efficient-quantum-circuits-with-claude",
-      "label": "Designing more efficient quantum circuits with Claude",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50121939",
-      "date": "2026-10-17"
-    },
-    {
-      "id": "veritas-expands-its-anti-counterfeit-chip-to-jewelry-trophies-and-fragrance-bott",
-      "label": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bo",
-      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-      "pm_score": 0.305,
-      "pillar": "patterns",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-      "date": "2026-10-17"
-    },
-    {
-      "id": "mark-wahlberg-on-using-ai-in-film-8216the-right-way8217-and-being-open-to-an-ai",
-      "label": "Mark Wahlberg on using AI in film &#8216;the right way&#8217; and being open to",
-      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "date": "2026-10-17"
-    },
-    {
-      "id": "an-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet",
-      "label": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to tho",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "date": "2026-10-17"
-    },
-    {
-      "id": "show-hn-wonderhop-a-daily-game-guess-what-most-people-say-or-what-none-do",
-      "label": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50080246",
-      "date": "2026-10-17"
-    },
-    {
-      "id": "replit-is-no-longer-working-with-anthropic-ceo-says",
-      "label": "Replit is no longer working with Anthropic, CEO says",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "pm_score": 0.305,
-      "pillar": "business",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "date": "2026-10-17"
-    },
-    {
-      "id": "elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them",
-      "label": "Elorian’s first AI model wants to reason with images, not just about them",
-      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-      "pm_score": 0.305,
-      "pillar": "ecosystem",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "date": "2026-10-17"
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "date": "2026-10-18"
     }
   ],
   "graph_totals": {
-    "real_nodes": 9595,
-    "edges": 10526
+    "real_nodes": 9597,
+    "edges": 10528
   }
 }

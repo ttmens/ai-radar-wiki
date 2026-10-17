@@ -5442,3 +5442,7 @@
 
 ## [2026-10-17 18:02] sync v3 | 1 new | pillars: {'capabilities': 1}
 - create: tell-hn-remember-to-migrate-away-from-name-domain.md
+
+## [2026-10-18 00:02] sync v3 | 2 new | pillars: {'ecosystem': 1, 'capabilities': 1}
+- create: madslorentzenai-job-search.md
+- create: show-hn-camera-controls-and-motion-for-ai-video-prompts.md
