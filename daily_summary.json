@@ -2,7 +2,7 @@
   "daily_summary": {
     "date": "2026-10-18",
     "headline": "今日 AI 情报 · 2026-10-18",
-    "overview": "今日共采集 2 条情报",
+    "overview": "今日共采集 8 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -10,10 +10,10 @@
         "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "show-hn-camera-controls-and-motion-for-ai-video-prompts",
-            "title": "Show HN: Camera Controls and Motion for AI Video Prompts",
-            "score": 0.15,
-            "url": "https://www.kapwing.com/ai/prompt-generator/camera",
+            "id": "glp-1-may-slow-biological-aging",
+            "title": "GLP-1 may slow biological aging",
+            "score": 0.38,
+            "url": "https://news.ycombinator.com/item?id=50132328",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -36,13 +36,37 @@
       }
     ],
     "narratives": [],
-    "stats": "🔧 工具生态: 1 | 🤖 技术能力: 1",
-    "total_items": 2,
-    "high_value_count": 1,
+    "stats": "🔧 工具生态: 1 | 🤖 技术能力: 7",
+    "total_items": 8,
+    "high_value_count": 5,
     "all_today_ids": [
       {
         "id": "madslorentzenai-job-search",
         "label": "MadsLorentzen/ai-job-search"
+      },
+      {
+        "id": "glp-1-may-slow-biological-aging",
+        "label": "GLP-1 may slow biological aging"
+      },
+      {
+        "id": "replit-makes-openai-its-default-over-anthropic-ceo-says",
+        "label": "Replit makes OpenAI its default over Anthropic, CEO says"
+      },
+      {
+        "id": "meta-removes-language-that-raised-scraping-and-ai-training-concerns",
+        "label": "Meta removes language that raised scraping and AI training concerns"
+      },
+      {
+        "id": "anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in",
+        "label": "Anthropic says its workforce has become less junior and is spending more time in"
+      },
+      {
+        "id": "pele-mermaid-diagrams-as-themeable-svg",
+        "label": "Pele – Mermaid diagrams as themeable SVG"
+      },
+      {
+        "id": "microsoft-and-cmu-team-up-to-train-early-career-software-engineers",
+        "label": "Microsoft and CMU Team Up to Train Early Career Software Engineers"
       },
       {
         "id": "show-hn-camera-controls-and-motion-for-ai-video-prompts",
@@ -50,6 +74,6 @@
       }
     ],
     "date_bj": "2026-10-18 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-18 00:01:45"
+    "generated_at_bj": "2026-10-18 06:01:36"
   }
 }

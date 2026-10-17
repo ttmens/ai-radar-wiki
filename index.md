@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-18 | Total pages: 5182
+> Last updated: 2026-10-18 | Total pages: 5188
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -223,6 +223,7 @@
 - [[anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities.md]] Anthropic says Alibaba illicitly extracted Claude AI model capabilities `pillar:capabilities` `score:0.63`
 - [[anthropic-says-its-biology-lab-has-already-found-something-big.md]] Anthropic says its biology lab has already found something big `pillar:capabilities` `score:0.305`
 - [[anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests.md]] Anthropic says its own AI models breached three companies during security tests `pillar:capabilities` `score:0.515`
+- [[anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in.md]] Anthropic says its workforce has become less junior and is spending more time in `pillar:capabilities` `score:0.305`
 - [[anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries.md]] Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries `pillar:capabilities` `score:0.515`
 - [[anthropic8217s-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today.md]] Anthropic&#8217;s Claude Fable 5 is a version of Mythos the public can access to `pillar:capabilities` `score:0.48`
 - [[anthropic8217s-dario-amodei-gets-the-snl-treatment.md]] Anthropic&#8217;s Dario Amodei gets the SNL treatment `pillar:capabilities` `score:0.305`
@@ -700,6 +701,7 @@
 - [[glm-52-is-a-step-change-for-open-agents.md]] GLM-5.2 is a step change for open agents `pillar:capabilities` `score:0.33`
 - [[glm-52-is-the-new-leading-open-weights-model-on-artificial-analysis.md]] GLM-5.2 is the new leading open weights model on Artificial Analysis `pillar:capabilities` `score:0.68`
 - [[glm-52-performance-benchmarks.md]] GLM 5.2 Performance Benchmarks `pillar:capabilities` `score:0.43`
+- [[glp-1-may-slow-biological-aging.md]] GLP-1 may slow biological aging `pillar:capabilities` `score:0.375`
 - [[gmail-thinks-im-stupid-so-i-left.md]] Gmail thinks I'm stupid, so I left `pillar:capabilities` `score:0.63`
 - [[gmails-custom-domain-send-as-discontinues-january-2027.md]] GMails custom domain "send as" discontinues January 2027 `pillar:capabilities` `score:0.305`
 - [[go-experiments-explained.md]] Go Experiments Explained `pillar:capabilities` `score:0.26`
@@ -1126,6 +1128,7 @@
 - [[meta-opens-early-access-program-for-new-muse-features.md]] Meta opens early access program for new Muse features `pillar:capabilities` `score:0.305`
 - [[meta-quietly-launches-vibe-coded-gaming-app-pocket.md]] Meta quietly launches vibe-coded gaming app Pocket `pillar:capabilities` `score:0.48`
 - [[meta-releases-its-first-frontier-model-muse-wonder.md]] Meta releases its first frontier model, Muse Wonder `pillar:capabilities` `score:0.305`
+- [[meta-removes-language-that-raised-scraping-and-ai-training-concerns.md]] Meta removes language that raised scraping and AI training concerns `pillar:capabilities` `score:0.305`
 - [[meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abu.md]] Meta rolls out new AI tools to detect ads that secretly lead to child sexual abu `pillar:capabilities` `score:0.305`
 - [[meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming.md]] Meta says AI is making it easier to build new apps — and more are coming `pillar:capabilities` `score:0.515`
 - [[meta-signs-first-ai-data-center-deal-in-india-with-reliance.md]] Meta signs first AI data center deal in India with Reliance `pillar:capabilities` `score:0.445`
@@ -1140,6 +1143,7 @@
 - [[metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack.md]] METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack `pillar:capabilities` `score:0.375`
 - [[metr-report-on-openai-hugging-face-hacking-incident.md]] METR Report on OpenAI / Hugging Face Hacking Incident `pillar:capabilities` `score:0.155`
 - [[microllm-lab-try-7-tiny-llms-in-the-browser.md]] MicroLLM Lab – Try 7 tiny LLM's in the browser `pillar:capabilities` `score:0.255`
+- [[microsoft-and-cmu-team-up-to-train-early-career-software-engineers.md]] Microsoft and CMU Team Up to Train Early Career Software Engineers `pillar:capabilities` `score:0.205`
 - [[microsoft-decision-1-our-model-for-fast-decision-making.md]] Microsoft-Decision-1, our model for fast decision-making `pillar:capabilities` `score:0.355`
 - [[microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history821.md]] Microsoft exec called AI scraping ‘the largest theft of labor in human history,& `pillar:capabilities` `score:0.305`
 - [[microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai.md]] Microsoft patches record number of security vulnerabilities, citing its use of A `pillar:capabilities` `score:0.48`
@@ -1373,6 +1377,7 @@
 - [[partialstring-a-finite-difference-time-domain-physical-modelling-synthesiser.md]] PartialString – A finite-difference time-domain physical modelling synthesiser `pillar:capabilities` `score:0.26`
 - [[passkeys-were-invented-by-engineers-with-zero-understanding-of-consumer-brain.md]] Passkeys were invented by engineers with zero understanding of consumer brain `pillar:capabilities` `score:0.63`
 - [[peak-xv-ups-surge-seed-investment-ceiling-to-5m-unveils-18-startup-cohort.md]] Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort `pillar:capabilities` `score:0.305`
+- [[pele-mermaid-diagrams-as-themeable-svg.md]] Pele – Mermaid diagrams as themeable SVG `pillar:capabilities` `score:0.255`
 - [[penguin-mail-open-source-rust-email-client-for-linux-with-ai.md]] Penguin Mail – open-source Rust email client for Linux with AI `pillar:capabilities` `score:0.305`
 - [[pentagons-blacklisting-of-anthropic-was-unlawful-us-judge-rules.md]] Pentagon's blacklisting of Anthropic was unlawful, US judge rules `pillar:capabilities` `score:0.425`
 - [[people-who-cant-picture-anything-are-rewriting-the-science-of-imagination.md]] People who can't picture anything are rewriting the science of imagination `pillar:capabilities` `score:0.325`
@@ -1460,6 +1465,7 @@
 - [[reinventing-the-renaissance.md]] Reinventing the Renaissance `pillar:capabilities` `score:0.295`
 - [[religious-scholars-met-with-anthropic.md]] Religious scholars met with Anthropic `pillar:capabilities` `score:0.355`
 - [[replies-to-comments-on-my-llms-are-eroding-my-career-post.md]] Replies to comments on my "LLMs are eroding my career" post `pillar:capabilities` `score:0.55`
+- [[replit-makes-openai-its-default-over-anthropic-ceo-says.md]] Replit makes OpenAI its default over Anthropic, CEO says `pillar:capabilities` `score:0.305`
 - [[replit8217s-ceo-says-the-future-of-work-is-the-8216self-driving-company8217.md]] Replit&#8217;s CEO says the future of work is the &#8216;self-driving company&#8 `pillar:capabilities` `score:0.305`
 - [[research-acceleration-the-view-inside-openai.md]] Research acceleration: The view inside OpenAI `pillar:capabilities` `score:0.305`
 - [[researchers-used-anthropic8217s-claude-to-hack-into-openai.md]] Researchers used Anthropic&#8217;s Claude to hack into OpenAI `pillar:capabilities` `score:0.305`

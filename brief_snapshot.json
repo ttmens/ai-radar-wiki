@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
-  "generated_at": "2026-10-18T00:02:16.829492+08:00",
-  "item_count": 1,
+  "generated_at": "2026-10-18T06:02:08.960445+08:00",
+  "item_count": 5,
   "items": [
     {
       "id": "madslorentzenai-job-search",
@@ -13,10 +13,54 @@
       "source_type": "github",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "date": "2026-10-18"
+    },
+    {
+      "id": "glp-1-may-slow-biological-aging",
+      "label": "GLP-1 may slow biological aging",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.375,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50132328",
+      "date": "2026-10-18"
+    },
+    {
+      "id": "replit-makes-openai-its-default-over-anthropic-ceo-says",
+      "label": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "date": "2026-10-18"
+    },
+    {
+      "id": "meta-removes-language-that-raised-scraping-and-ai-training-concerns",
+      "label": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "date": "2026-10-18"
+    },
+    {
+      "id": "anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in",
+      "label": "Anthropic says its workforce has become less junior and is spending more time in",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "date": "2026-10-18"
     }
   ],
   "graph_totals": {
-    "real_nodes": 9597,
-    "edges": 10528
+    "real_nodes": 9603,
+    "edges": 10534
   }
 }

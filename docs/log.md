@@ -5446,3 +5446,11 @@
 ## [2026-10-18 00:02] sync v3 | 2 new | pillars: {'ecosystem': 1, 'capabilities': 1}
 - create: madslorentzenai-job-search.md
 - create: show-hn-camera-controls-and-motion-for-ai-video-prompts.md
+
+## [2026-10-18 06:02] sync v3 | 6 new | pillars: {'capabilities': 6}
+- create: microsoft-and-cmu-team-up-to-train-early-career-software-engineers.md
+- create: pele-mermaid-diagrams-as-themeable-svg.md
+- create: glp-1-may-slow-biological-aging.md
+- create: meta-removes-language-that-raised-scraping-and-ai-training-concerns.md
+- create: anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in.md
+- create: replit-makes-openai-its-default-over-anthropic-ceo-says.md
