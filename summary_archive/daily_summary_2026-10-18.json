@@ -2,7 +2,7 @@
   "daily_summary": {
     "date": "2026-10-18",
     "headline": "今日 AI 情报 · 2026-10-18",
-    "overview": "今日共采集 8 条情报",
+    "overview": "今日共采集 10 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -36,9 +36,9 @@
       }
     ],
     "narratives": [],
-    "stats": "🔧 工具生态: 1 | 🤖 技术能力: 7",
-    "total_items": 8,
-    "high_value_count": 5,
+    "stats": "🔧 工具生态: 1 | 🤖 技术能力: 9",
+    "total_items": 10,
+    "high_value_count": 6,
     "all_today_ids": [
       {
         "id": "madslorentzenai-job-search",
@@ -47,6 +47,10 @@
       {
         "id": "glp-1-may-slow-biological-aging",
         "label": "GLP-1 may slow biological aging"
+      },
+      {
+        "id": "show-hn-sphinx-a-hook-that-quizzes-you-on-your-ais-code-before-shipping",
+        "label": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping"
       },
       {
         "id": "replit-makes-openai-its-default-over-anthropic-ceo-says",
@@ -69,11 +73,15 @@
         "label": "Microsoft and CMU Team Up to Train Early Career Software Engineers"
       },
       {
+        "id": "show-hn-500-clocks-in-one-63-mb-html-file-by-opus-55",
+        "label": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5"
+      },
+      {
         "id": "show-hn-camera-controls-and-motion-for-ai-video-prompts",
         "label": "Show HN: Camera Controls and Motion for AI Video Prompts"
       }
     ],
     "date_bj": "2026-10-18 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-18 12:00:41"
+    "generated_at_bj": "2026-10-18 18:01:42"
   }
 }

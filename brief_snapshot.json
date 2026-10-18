@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
-  "generated_at": "2026-10-18T12:01:14.082334+08:00",
-  "item_count": 5,
+  "generated_at": "2026-10-18T18:02:22.290267+08:00",
+  "item_count": 6,
   "items": [
     {
       "id": "madslorentzenai-job-search",
@@ -23,6 +23,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=50132328",
+      "date": "2026-10-18"
+    },
+    {
+      "id": "show-hn-sphinx-a-hook-that-quizzes-you-on-your-ais-code-before-shipping",
+      "label": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50137950",
       "date": "2026-10-18"
     },
     {
@@ -60,7 +71,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 9603,
-    "edges": 10534
+    "real_nodes": 9605,
+    "edges": 10536
   }
 }

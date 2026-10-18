@@ -5456,3 +5456,7 @@
 - create: replit-makes-openai-its-default-over-anthropic-ceo-says.md
 
 ## [2026-10-18 12:01] sync v3 | 0 new | pillars: {}
+
+## [2026-10-18 18:02] sync v3 | 2 new | pillars: {'capabilities': 2}
+- create: show-hn-sphinx-a-hook-that-quizzes-you-on-your-ais-code-before-shipping.md
+- create: show-hn-500-clocks-in-one-63-mb-html-file-by-opus-55.md

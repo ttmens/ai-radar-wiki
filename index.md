@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-18 | Total pages: 5188
+> Last updated: 2026-10-18 | Total pages: 5190
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -1546,6 +1546,7 @@
 - [[shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option.md]] Shield AI, Waabi, and General Motors on building AI when failure is not an optio `pillar:capabilities` `score:0.305`
 - [[shift-will-clean-homes-for-free-to-train-future-robots.md]] Shift will clean homes for free to train future robots `pillar:capabilities` `score:0.43`
 - [[show-hn-100cc-roll-your-own-claude-in-100-lines.md]] Show HN: 100cc - Roll your own Claude in 100 lines `pillar:capabilities` `score:0.33`
+- [[show-hn-500-clocks-in-one-63-mb-html-file-by-opus-55.md]] Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5 `pillar:capabilities` `score:0.205`
 - [[show-hn-a-claude-code-skill-to-analyze-your-chess-games.md]] Show HN: A Claude Code skill to analyze your chess games `pillar:capabilities` `score:0.305`
 - [[show-hn-a-competition-for-small-neural-networks-that-play-strategy-games.md]] Show HN: A competition for small neural networks that play strategy games `pillar:capabilities` `score:0.255`
 - [[show-hn-a-dark-cave-minimalistic-graphics-in-the-age-of-ai-slop.md]] Show HN: A Dark Cave – Minimalistic Graphics in the Age of AI Slop `pillar:capabilities` `score:0.295`
@@ -1729,6 +1730,7 @@
 - [[show-hn-slope-remade-in-html5-to-load-instantly-on-any-browser-any-device.md]] Show HN: Slope remade in HTML5 to load instantly on any browser, any device `pillar:capabilities` `score:0.155`
 - [[show-hn-smart-model-routing-directly-in-claude-codex-and-cursor.md]] Show HN: Smart model routing directly in Claude, Codex and Cursor `pillar:capabilities` `score:0.53`
 - [[show-hn-spanda-sub-microsecond-llm-epistemic-uncertainty-in-rust.md]] Show HN: Spanda – Sub-microsecond LLM epistemic uncertainty in Rust `pillar:capabilities` `score:0.155`
+- [[show-hn-sphinx-a-hook-that-quizzes-you-on-your-ais-code-before-shipping.md]] Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping `pillar:capabilities` `score:0.305`
 - [[show-hn-sqlsure-deterministic-semantic-checks-for-ai-generated-sql.md]] Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL `pillar:capabilities` `score:0.33`
 - [[show-hn-stacks-an-hourly-card-solitaire-about-building-four-gardens.md]] Show HN: Stacks – an hourly card solitaire about building four gardens `pillar:capabilities` `score:0.155`
 - [[show-hn-strata-an-expressive-semantic-layer-that-can-say-no-to-your-llm.md]] Show HN: Strata – an expressive semantic layer that can say no to your LLM `pillar:capabilities` `score:0.155`
