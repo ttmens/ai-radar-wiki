@@ -20,6 +20,13 @@
 
 ## 运行日志
 
+## [2026-10-19 00:02] Evolution Run
+- Deprecated: 1 nodes
+- Pillar distribution: {'capabilities': 3174, 'ecosystem': 630, 'business': 453, 'patterns': 868, 'unknown': 4}
+- Top tags: {'capabilities': 3089, 'discussion': 2090, 'hacker-news': 2090, 'news': 1236, 'techcrunch': 1236}
+  🗑️ Deprecated: sealed-tomb-filled-with-paintings-and-inscriptions-discovered-in-egypt.md (91d old, score=0.135)  📊 1 nodes deprecated (90d+ and score < 0.15)
+
+
 ## [2026-10-18 18:02] Evolution Run
 - Deprecated: 0 nodes
 - Pillar distribution: {'capabilities': 3173, 'ecosystem': 630, 'business': 453, 'patterns': 867, 'unknown': 4}

@@ -1,34 +1,34 @@
 {
   "daily_summary": {
-    "date": "2026-10-18",
-    "headline": "今日 AI 情报 · 2026-10-18",
-    "overview": "今日共采集 10 条情报",
+    "date": "2026-10-19",
+    "headline": "今日 AI 情报 · 2026-10-19",
+    "overview": "今日共采集 2 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "今日🤖 技术能力方向有新的动态。",
+        "insight": "今日🤖 技术能力方向的核心信号集中在安全/漏洞。",
         "evidence": [
           {
-            "id": "glp-1-may-slow-biological-aging",
-            "title": "GLP-1 may slow biological aging",
-            "score": 0.38,
-            "url": "https://news.ycombinator.com/item?id=50132328",
+            "id": "anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-1b-in-damages",
+            "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B ",
+            "score": 0.3,
+            "url": "https://news.ycombinator.com/item?id=50141429",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
         "trend": "new"
       },
       {
-        "pillar": "🔧 工具生态",
-        "pillar_key": "ecosystem",
-        "insight": "今日🔧 工具生态方向有新的动态。",
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
         "evidence": [
           {
-            "id": "madslorentzenai-job-search",
-            "title": "MadsLorentzen/ai-job-search",
-            "score": 0.41,
-            "url": "https://github.com/MadsLorentzen/ai-job-search",
+            "id": "websites-are-closing-their-doors-to-ai-agents",
+            "title": "Websites are closing their doors to AI agents",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=50141657",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -36,52 +36,20 @@
       }
     ],
     "narratives": [],
-    "stats": "🔧 工具生态: 1 | 🤖 技术能力: 9",
-    "total_items": 10,
-    "high_value_count": 6,
+    "stats": "🤖 技术能力: 1 | 📱 产品模式: 1",
+    "total_items": 2,
+    "high_value_count": 1,
     "all_today_ids": [
       {
-        "id": "madslorentzenai-job-search",
-        "label": "MadsLorentzen/ai-job-search"
+        "id": "anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-1b-in-damages",
+        "label": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages"
       },
       {
-        "id": "glp-1-may-slow-biological-aging",
-        "label": "GLP-1 may slow biological aging"
-      },
-      {
-        "id": "show-hn-sphinx-a-hook-that-quizzes-you-on-your-ais-code-before-shipping",
-        "label": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping"
-      },
-      {
-        "id": "replit-makes-openai-its-default-over-anthropic-ceo-says",
-        "label": "Replit makes OpenAI its default over Anthropic, CEO says"
-      },
-      {
-        "id": "meta-removes-language-that-raised-scraping-and-ai-training-concerns",
-        "label": "Meta removes language that raised scraping and AI training concerns"
-      },
-      {
-        "id": "anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in",
-        "label": "Anthropic says its workforce has become less junior and is spending more time in"
-      },
-      {
-        "id": "pele-mermaid-diagrams-as-themeable-svg",
-        "label": "Pele – Mermaid diagrams as themeable SVG"
-      },
-      {
-        "id": "microsoft-and-cmu-team-up-to-train-early-career-software-engineers",
-        "label": "Microsoft and CMU Team Up to Train Early Career Software Engineers"
-      },
-      {
-        "id": "show-hn-500-clocks-in-one-63-mb-html-file-by-opus-55",
-        "label": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5"
-      },
-      {
-        "id": "show-hn-camera-controls-and-motion-for-ai-video-prompts",
-        "label": "Show HN: Camera Controls and Motion for AI Video Prompts"
+        "id": "websites-are-closing-their-doors-to-ai-agents",
+        "label": "Websites are closing their doors to AI agents"
       }
     ],
-    "date_bj": "2026-10-18 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-18 18:01:42"
+    "date_bj": "2026-10-19 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-10-19 00:01:46"
   }
 }

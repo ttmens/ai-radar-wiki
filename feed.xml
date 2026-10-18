@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 18 Oct 2026 08:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 16:00:24 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -26,6 +26,14 @@
       <guid isPermaLink="false">glp-1-may-slow-biological-aging</guid>
       <pubDate>2026-10-18T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping</title>
+      <link>https://news.ycombinator.com/item?id=50137950</link>
+      <guid isPermaLink="false">show-hn-sphinx-a-hook-that-quizzes-you-on-your-ais-code-before-shipping</guid>
+      <pubDate>2026-10-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -66,6 +74,14 @@
       <guid isPermaLink="false">microsoft-and-cmu-team-up-to-train-early-career-software-engineers</guid>
       <pubDate>2026-10-18T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5</title>
+      <link>https://tkgally.github.io/500-clocks/</link>
+      <guid isPermaLink="false">show-hn-500-clocks-in-one-63-mb-html-file-by-opus-55</guid>
+      <pubDate>2026-10-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>暂无中文摘要</p></description>
       <category>🤖 技术能力</category>
     </item>
     <item>
@@ -394,22 +410,6 @@
       <guid isPermaLink="false">t2-z-test-time-optimization-of-environment-latents-for-robotic-world-models</guid>
       <pubDate>2026-10-16T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties such as friction and mass to human-defined environmental rules. We introduce T2-Z</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>FDE-Gym: The Last Mile of AI Delivery</title>
-      <link>http://arxiv.org/abs/2610.22350v1</link>
-      <guid isPermaLink="false">fde-gym-the-last-mile-of-ai-delivery</guid>
-      <pubDate>2026-10-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engineers (FDEs) must clarify ambiguous requirements, work in live systems, and uncover unstated constrai</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation</title>
-      <link>http://arxiv.org/abs/2610.22372v1</link>
-      <guid isPermaLink="false">libero-perm-benchmarking-personalized-robotic-manipulation</guid>
-      <pubDate>2026-10-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion from</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>

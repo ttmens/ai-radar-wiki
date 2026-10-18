@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-18 | Total pages: 5190
+> Last updated: 2026-10-19 | Total pages: 5192
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -235,6 +235,7 @@
 - [[anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time.md]] Anthropic’s Claude Tag is learning your company, one Slack message at a time `pillar:capabilities` `score:0.48`
 - [[anthropics-model-naming-extrapolated.md]] Anthropic's Model Naming, Extrapolated `pillar:capabilities` `score:0.58`
 - [[anthropics-opus-46-is-a-smut-machine.md]] Anthropic’s Opus 4.6 is a smut-machine `pillar:capabilities` `score:0.305`
+- [[anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-1b-in-damages.md]] Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages `pillar:capabilities` `score:0.305`
 - [[anthropics-safety-superpower.md]] Anthropic's Safety Superpower `pillar:capabilities` `score:0.55`
 - [[anthropics-scion-is-heavily-inspired-by-mononoke.md]] Anthropic's Scion is heavily inspired by Mononoke `pillar:capabilities` `score:0.305`
 - [[antigravity-20-tops-the-openscad-architectural-3d-llm-benchmark.md]] Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark `pillar:capabilities` `score:0.545`
@@ -3921,6 +3922,7 @@
 - [[we-could-save-petabytes-of-cache-storage-with-zstandard-and-pingora.md]] We could save petabytes of cache storage with Zstandard and Pingora `pillar:patterns` `score:0.255`
 - [[we-mould-trees-to-grow-into-the-shape-of-chairs.md]] 'We mould trees to grow into the shape of chairs' `pillar:patterns` `score:0.41`
 - [[we-tried-googles-ai-glasses-and-theyre-almost-there.md]] We tried Google’s AI glasses and they’re almost there `pillar:patterns` `score:0.48`
+- [[websites-are-closing-their-doors-to-ai-agents.md]] Websites are closing their doors to AI agents `pillar:patterns` `score:0.205`
 - [[what-agents-mean-for-rust-and-vice-versa.md]] What agents mean for Rust (and vice versa) `pillar:patterns` `score:0.305`
 - [[what-clickup8217s-mass-layoff-tells-us-about-the-future-of-work.md]] What ClickUp&#8217;s mass layoff tells us about the future of work `pillar:patterns` `score:0.515`
 - [[what-happened-after-2k-people-tried-to-hack-my-ai-assistant.md]] What happened after 2k people tried to hack my AI assistant `pillar:patterns` `score:0.565`

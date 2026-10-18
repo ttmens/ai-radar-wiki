@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T18:02:21.938794+08:00",
-  "days_analyzed": 145,
+  "generated_at": "2026-10-19T00:02:17.901244+08:00",
+  "days_analyzed": 146,
   "pillar_trends": {
     "capabilities": {
       "trend": "stable",
@@ -10,24 +10,24 @@
       "has_data": true
     },
     "patterns": {
-      "trend": "data_missing",
-      "delta": -2,
-      "current": 0,
-      "previous": 2,
-      "has_data": false
-    },
-    "ecosystem": {
-      "trend": "stable",
-      "delta": 0,
+      "trend": "up",
+      "delta": 1,
       "current": 1,
-      "previous": 1,
+      "previous": 0,
       "has_data": true
     },
-    "business": {
+    "ecosystem": {
       "trend": "data_missing",
       "delta": -1,
       "current": 0,
       "previous": 1,
+      "has_data": false
+    },
+    "business": {
+      "trend": "stable",
+      "delta": 0,
+      "current": 0,
+      "previous": 0,
       "has_data": false
     }
   },
@@ -3719,5 +3719,5 @@
   ],
   "contradictions": [],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-10-18**（145天），累计 **4015** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-10-19**（146天），累计 **4017** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：📱 产品模式呈上升趋势"
 }

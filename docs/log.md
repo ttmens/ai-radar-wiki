@@ -5460,3 +5460,7 @@
 ## [2026-10-18 18:02] sync v3 | 2 new | pillars: {'capabilities': 2}
 - create: show-hn-sphinx-a-hook-that-quizzes-you-on-your-ais-code-before-shipping.md
 - create: show-hn-500-clocks-in-one-63-mb-html-file-by-opus-55.md
+
+## [2026-10-19 00:02] sync v3 | 2 new | pillars: {'patterns': 1, 'capabilities': 1}
+- create: websites-are-closing-their-doors-to-ai-agents.md
+- create: anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-1b-in-damages.md

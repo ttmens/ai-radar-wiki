@@ -1,6 +1,7 @@
 ---
 title: Sealed tomb filled with paintings and inscriptions discovered in Egypt
 created: 2026-07-20
+deprecated: true
 updated: 2026-07-20
 type: entity
 pillar: capabilities

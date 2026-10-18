@@ -1,0 +1,55 @@
+{
+  "daily_summary": {
+    "date": "2026-10-19",
+    "headline": "今日 AI 情报 · 2026-10-19",
+    "overview": "今日共采集 2 条情报",
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "今日🤖 技术能力方向的核心信号集中在安全/漏洞。",
+        "evidence": [
+          {
+            "id": "anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-1b-in-damages",
+            "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B ",
+            "score": 0.3,
+            "url": "https://news.ycombinator.com/item?id=50141429",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
+        "evidence": [
+          {
+            "id": "websites-are-closing-their-doors-to-ai-agents",
+            "title": "Websites are closing their doors to AI agents",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=50141657",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      }
+    ],
+    "narratives": [],
+    "stats": "🤖 技术能力: 1 | 📱 产品模式: 1",
+    "total_items": 2,
+    "high_value_count": 1,
+    "all_today_ids": [
+      {
+        "id": "anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-1b-in-damages",
+        "label": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages"
+      },
+      {
+        "id": "websites-are-closing-their-doors-to-ai-agents",
+        "label": "Websites are closing their doors to AI agents"
+      }
+    ],
+    "date_bj": "2026-10-19 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-10-19 00:01:46"
+  }
+}
