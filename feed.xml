@@ -5,13 +5,29 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 18 Oct 2026 16:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 20:00:25 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages</title>
+      <link>https://news.ycombinator.com/item?id=50141429</link>
+      <guid isPermaLink="false">anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-1b-in-damages</guid>
+      <pubDate>2026-10-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Websites are closing their doors to AI agents</title>
+      <link>https://news.ycombinator.com/item?id=50141657</link>
+      <guid isPermaLink="false">websites-are-closing-their-doors-to-ai-agents</guid>
+      <pubDate>2026-10-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>📱 产品模式</category>
+    </item>
     <item>
       <title>MadsLorentzen/ai-job-search</title>
       <link>https://github.com/MadsLorentzen/ai-job-search</link>
@@ -394,22 +410,6 @@
       <guid isPermaLink="false">geostate-learning-view-decoupled-geometry-states-for-3d-world-modeling</guid>
       <pubDate>2026-10-16T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Recent 3D world models increasingly use features from geometry foundation models (GFMs) as predictive world states, benefiting from their rich geometric priors. However, the view dependence of these features entangles scene dynamics with camera-induced variation, making the resulting state evolution</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Discovering state-of-the-art quantum circuits with large language models</title>
-      <link>http://arxiv.org/abs/2610.22367v1</link>
-      <guid isPermaLink="false">discovering-state-of-the-art-quantum-circuits-with-large-language-models</guid>
-      <pubDate>2026-10-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum algorithms. While for many practical problems the dominant resource costs are associated</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>T2-z: Test-Time Optimization of Environment Latents for Robotic World Models</title>
-      <link>http://arxiv.org/abs/2610.22364v1</link>
-      <guid isPermaLink="false">t2-z-test-time-optimization-of-environment-latents-for-robotic-world-models</guid>
-      <pubDate>2026-10-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties such as friction and mass to human-defined environmental rules. We introduce T2-Z</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>

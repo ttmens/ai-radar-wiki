@@ -2,7 +2,7 @@
   "daily_summary": {
     "date": "2026-10-19",
     "headline": "今日 AI 情报 · 2026-10-19",
-    "overview": "今日共采集 2 条情报",
+    "overview": "今日共采集 7 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -10,10 +10,10 @@
         "insight": "今日🤖 技术能力方向的核心信号集中在安全/漏洞。",
         "evidence": [
           {
-            "id": "anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-1b-in-damages",
-            "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B ",
-            "score": 0.3,
-            "url": "https://news.ycombinator.com/item?id=50141429",
+            "id": "namecheap-just-seized-and-disabled-all-my-domains",
+            "title": "Namecheap just seized and disabled all my domains",
+            "score": 0.42,
+            "url": "https://news.ycombinator.com/item?id=50142866",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -36,13 +36,33 @@
       }
     ],
     "narratives": [],
-    "stats": "🤖 技术能力: 1 | 📱 产品模式: 1",
-    "total_items": 2,
-    "high_value_count": 1,
+    "stats": "🤖 技术能力: 6 | 📱 产品模式: 1",
+    "total_items": 7,
+    "high_value_count": 4,
     "all_today_ids": [
+      {
+        "id": "namecheap-just-seized-and-disabled-all-my-domains",
+        "label": "Namecheap just seized and disabled all my domains"
+      },
+      {
+        "id": "disney-agrees-to-hire-the-majority-of-characterais-workforce",
+        "label": "Disney agrees to hire the majority of Character.AI’s workforce"
+      },
+      {
+        "id": "anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund",
+        "label": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’"
+      },
       {
         "id": "anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-1b-in-damages",
         "label": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages"
+      },
+      {
+        "id": "hybrid-reasoning-agents-llm-agents-that-think-in-latent-space-act-through-text",
+        "label": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text"
+      },
+      {
+        "id": "the-brain-sandwich",
+        "label": "The Brain Sandwich"
       },
       {
         "id": "websites-are-closing-their-doors-to-ai-agents",
@@ -50,6 +70,6 @@
       }
     ],
     "date_bj": "2026-10-19 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-19 00:01:46"
+    "generated_at_bj": "2026-10-19 06:01:41"
   }
 }

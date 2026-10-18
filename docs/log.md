@@ -5464,3 +5464,10 @@
 ## [2026-10-19 00:02] sync v3 | 2 new | pillars: {'patterns': 1, 'capabilities': 1}
 - create: websites-are-closing-their-doors-to-ai-agents.md
 - create: anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-1b-in-damages.md
+
+## [2026-10-19 06:02] sync v3 | 5 new | pillars: {'capabilities': 5}
+- create: hybrid-reasoning-agents-llm-agents-that-think-in-latent-space-act-through-text.md
+- create: namecheap-just-seized-and-disabled-all-my-domains.md
+- create: the-brain-sandwich.md
+- create: anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund.md
+- create: disney-agrees-to-hire-the-majority-of-characterais-workforce.md

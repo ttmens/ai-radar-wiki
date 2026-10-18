@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-19 | Total pages: 5192
+> Last updated: 2026-10-19 | Total pages: 5197
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -222,6 +222,7 @@
 - [[anthropic-requires-30-day-data-retention-for-fable-and-mythos.md]] Anthropic requires 30 day data retention for Fable and Mythos `pillar:capabilities` `score:0.565`
 - [[anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities.md]] Anthropic says Alibaba illicitly extracted Claude AI model capabilities `pillar:capabilities` `score:0.63`
 - [[anthropic-says-its-biology-lab-has-already-found-something-big.md]] Anthropic says its biology lab has already found something big `pillar:capabilities` `score:0.305`
+- [[anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund.md]] Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’ `pillar:capabilities` `score:0.305`
 - [[anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests.md]] Anthropic says its own AI models breached three companies during security tests `pillar:capabilities` `score:0.515`
 - [[anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in.md]] Anthropic says its workforce has become less junior and is spending more time in `pillar:capabilities` `score:0.305`
 - [[anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries.md]] Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries `pillar:capabilities` `score:0.515`
@@ -534,6 +535,7 @@
 - [[discover-whats-next-5-days-left-to-save-up-to-200-on-your-techcrunch-disrupt-202.md]] Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt `pillar:capabilities` `score:0.305`
 - [[discovering-cryptographic-weaknesses-with-claude.md]] Discovering Cryptographic Weaknesses with Claude `pillar:capabilities` `score:0.53`
 - [[dishwasherbench-can-frontier-models-stack-a-dishwasher.md]] DishwasherBench – Can Frontier Models Stack a Dishwasher? `pillar:capabilities` `score:0.155`
+- [[disney-agrees-to-hire-the-majority-of-characterais-workforce.md]] Disney agrees to hire the majority of Character.AI’s workforce `pillar:capabilities` `score:0.305`
 - [[disney8217s-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-character.md]] Disney&#8217;s first CTO led an AI startup it once accused of copying its charac `pillar:capabilities` `score:0.305`
 - [[dispersion-loss-counteracts-embedding-condensation-in-small-language-models.md]] Dispersion loss counteracts embedding condensation in small language models `pillar:capabilities` `score:0.295`
 - [[disrupting-supply-chain-attacks-on-npm-and-github-actions.md]] Disrupting supply chain attacks on NPM and GitHub Actions `pillar:capabilities` `score:0.38`
@@ -875,6 +877,7 @@
 - [[humiliating-iis-servers-for-fun-and-jail-time.md]] Humiliating IIS servers for fun and jail time `pillar:capabilities` `score:0.41`
 - [[hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago.md]] Hunter-gatherers introduced fish to a mountain lake 7000 years ago `pillar:capabilities` `score:0.22`
 - [[hybrid-electric-aicraft-engine-targeting-30-fuel-efficiency.md]] Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency `pillar:capabilities` `score:0.305`
+- [[hybrid-reasoning-agents-llm-agents-that-think-in-latent-space-act-through-text.md]] Hybrid Reasoning Agents: LLM agents that think in latent space, act through text `pillar:capabilities` `score:0.255`
 - [[hyundai-buys-boston-dynamics.md]] Hyundai buys Boston Dynamics `pillar:capabilities` `score:0.645`
 - [[i-admire-fabrice-bellard-he-is-almost-certainly-a-better-overall-programmer.md]] I admire Fabrice Bellard. He is almost certainly a better overall programmer `pillar:capabilities` `score:0.54`
 - [[i-built-a-low-latency-ai-companion-that-plays-skyrim-with-me.md]] I built a low-latency AI companion that plays Skyrim with me `pillar:capabilities` `score:0.305`
@@ -1206,6 +1209,7 @@
 - [[my-personal-ai-benchmark-generate-an-svg-of-a-frog-with-a-habsburg-jaw.md]] My personal AI benchmark: "Generate an SVG of a frog with a Habsburg jaw." `pillar:capabilities` `score:0.255`
 - [[my-two-year-old-taught-me-constraint-solving.md]] My two year old taught me constraint solving `pillar:capabilities` `score:0.295`
 - [[mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east.md]] Mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east? `pillar:capabilities` `score:0.26`
+- [[namecheap-just-seized-and-disabled-all-my-domains.md]] Namecheap just seized and disabled all my domains `pillar:capabilities` `score:0.425`
 - [[nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead.md]] NanoClaw creator turns down $20M buyout offer, raises $12M seed instead `pillar:capabilities` `score:0.305`
 - [[nanogpt-speedrun-frontier.md]] NanoGPT Speedrun Frontier `pillar:capabilities` `score:0.205`
 - [[nasa-ibm-lunar-foundation-open-source-geospatial-ai-model.md]] NASA-IBM Lunar Foundation open-Source Geospatial AI Model `pillar:capabilities` `score:0.155`
@@ -1884,6 +1888,7 @@
 - [[the-back-cover-of-c-the-language-raises-questions-not-answered-by-front-cover.md]] The back cover of C++: The Language raises questions not answered by front cover `pillar:capabilities` `score:0.185`
 - [[the-best-response-to-ai-slop-and-online-noise-is-from-robin-williams.md]] The best response to AI slop and online noise is from Robin Williams `pillar:capabilities` `score:0.565`
 - [[the-bottleneck-might-be-the-air-in-the-room.md]] The bottleneck might be the air in the room `pillar:capabilities` `score:0.565`
+- [[the-brain-sandwich.md]] The Brain Sandwich `pillar:capabilities` `score:0.255`
 - [[the-browsers-main-thread-is-expensive.md]] The Browser's Main Thread Is Expensive `pillar:capabilities` `score:0.405`
 - [[the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunc.md]] The Builders Stage brings practical strategies for scaling startups to TechCrunc `pillar:capabilities` `score:0.305`
 - [[the-burau-representation-of-the-braid-group-is-faithful-for-n-4.md]] The Burau representation of the braid group is faithful for n = 4 `pillar:capabilities` `score:0.085`
