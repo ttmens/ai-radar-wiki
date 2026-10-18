@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 17 Oct 2026 20:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 04:00:22 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -19,6 +19,54 @@
       <pubDate>2026-10-18T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> github</p><hr/><p>The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.</p></description>
       <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>GLP-1 may slow biological aging</title>
+      <link>https://news.ycombinator.com/item?id=50132328</link>
+      <guid isPermaLink="false">glp-1-may-slow-biological-aging</guid>
+      <pubDate>2026-10-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Replit makes OpenAI its default over Anthropic, CEO says</title>
+      <link>https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/</link>
+      <guid isPermaLink="false">replit-makes-openai-its-default-over-anthropic-ceo-says</guid>
+      <pubDate>2026-10-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Meta removes language that raised scraping and AI training concerns</title>
+      <link>https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/</link>
+      <guid isPermaLink="false">meta-removes-language-that-raised-scraping-and-ai-training-concerns</guid>
+      <pubDate>2026-10-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Anthropic says its workforce has become less junior and is spending more time in</title>
+      <link>https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/</link>
+      <guid isPermaLink="false">anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in</guid>
+      <pubDate>2026-10-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Pele – Mermaid diagrams as themeable SVG</title>
+      <link>https://news.ycombinator.com/item?id=50132193</link>
+      <guid isPermaLink="false">pele-mermaid-diagrams-as-themeable-svg</guid>
+      <pubDate>2026-10-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Microsoft and CMU Team Up to Train Early Career Software Engineers</title>
+      <link>https://news.ycombinator.com/item?id=50133830</link>
+      <guid isPermaLink="false">microsoft-and-cmu-team-up-to-train-early-career-software-engineers</guid>
+      <pubDate>2026-10-18T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
     </item>
     <item>
       <title>Show HN: Camera Controls and Motion for AI Video Prompts</title>
@@ -362,54 +410,6 @@
       <guid isPermaLink="false">libero-perm-benchmarking-personalized-robotic-manipulation</guid>
       <pubDate>2026-10-16T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion from</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>PathFM: Fast Generative Forecasting of Multivariate Trajectories</title>
-      <link>http://arxiv.org/abs/2610.22358v1</link>
-      <guid isPermaLink="false">pathfm-fast-generative-forecasting-of-multivariate-trajectories</guid>
-      <pubDate>2026-10-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future trajectories unspecified. This distinction matters for trajectory-dependent quantities such as cumulati</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>3DCodeVerse: Exploring 3D Worlds as Code</title>
-      <link>http://arxiv.org/abs/2610.22341v1</link>
-      <guid isPermaLink="false">3dcodeverse-exploring-3d-worlds-as-code</guid>
-      <pubDate>2026-10-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>We introduce 3DCodeVerse, a research ecosystem that enables coding agents to create editable and verifiable 3D content at scale. 3DCodeVerse comprises large-scale, high-quality datasets of executable 3D code, a coding harness for spatial reasoning and automated verification, and practical guidance f</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Lean Graph Search for Formal Theorem Proving</title>
-      <link>http://arxiv.org/abs/2610.22339v1</link>
-      <guid isPermaLink="false">lean-graph-search-for-formal-theorem-proving</guid>
-      <pubDate>2026-10-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Retrieving relevant lemmas is crucial for formal theorem proving, enabling provers to build machine-checkable proofs from established mathematical results. Recent retrieval systems match library declarations to a target theorem or its intermediate proof steps, but make limited use of multi-hop depen</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Dexterity from Supervised Play</title>
-      <link>http://arxiv.org/abs/2610.22340v1</link>
-      <guid isPermaLink="false">dexterity-from-supervised-play</guid>
-      <pubDate>2026-10-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>How can robots autonomously collect the contact-rich experience needed to learn dexterous manipulation? We present DSP: Dexterity from supervised play, a framework in which a robot learns a play policy from minutes of human play through behavior cloning, then deploys it autonomously to collect hours</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>Rethinking Routing Exploration in Modern Mixture-of-Experts</title>
-      <link>http://arxiv.org/abs/2610.22353v1</link>
-      <guid isPermaLink="false">rethinking-routing-exploration-in-modern-mixture-of-experts</guid>
-      <pubDate>2026-10-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Mixture-of-experts (MoE) models have become an important approach for scaling model parameters. Modern MoE architectures increasingly combine two design choices: fine-grained expert segmentation and shared experts. The former increases expressiveness by enabling more expert combinations at a fixed a</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>CoDA: Co-Evolution of Data Engines and Action Policies</title>
-      <link>http://arxiv.org/abs/2610.22362v1</link>
-      <guid isPermaLink="false">coda-co-evolution-of-data-engines-and-action-policies</guid>
-      <pubDate>2026-10-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a policy's failures and supervision that helps it overcome them. We introduce CoDA, a framework in whic</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
