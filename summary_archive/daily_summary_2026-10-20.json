@@ -1,0 +1,81 @@
+{
+  "daily_summary": {
+    "date": "2026-10-20",
+    "headline": "今日 AI 情报 · 2026-10-20",
+    "overview": "AI Agent 工具链与协作流程快速成熟",
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "今日🤖 技术能力方向有新的动态。",
+        "evidence": [
+          {
+            "id": "show-hn-qwen3-4b-with-the-ai-writing-tics-trained-out",
+            "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+            "score": 0.3,
+            "url": "https://news.ycombinator.com/item?id=50151928",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：桌面/本地化, AI Agent。",
+        "evidence": [
+          {
+            "id": "nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
+            "title": "Nvidia launches new open models to run agents in the enterprise and on",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "harness2-by-google-research-recursive-agent-harnessing",
+            "title": "Harness2 by Google Research – Recursive Agent Harnessing",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=50151059",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      }
+    ],
+    "narratives": [
+      {
+        "title": "AI Agent 工具链与协作流程快速成熟",
+        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Nvidia launches new open models to run a。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "type": "paradigm_shift",
+        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      }
+    ],
+    "stats": "📱 产品模式: 3 | 🤖 技术能力: 2",
+    "total_items": 5,
+    "high_value_count": 3,
+    "all_today_ids": [
+      {
+        "id": "nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
+        "label": "Nvidia launches new open models to run agents in the enterprise and on PCs"
+      },
+      {
+        "id": "show-hn-qwen3-4b-with-the-ai-writing-tics-trained-out",
+        "label": "Show HN: Qwen3-4B with the AI writing tics trained out"
+      },
+      {
+        "id": "lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation",
+        "label": "Let's Encrypt is adding two additional remote perspectives for domain validation"
+      },
+      {
+        "id": "harness2-by-google-research-recursive-agent-harnessing",
+        "label": "Harness2 by Google Research – Recursive Agent Harnessing"
+      },
+      {
+        "id": "show-hn-kividb-a-faster-redis-compatible-memory-database-and-vector-cache",
+        "label": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache"
+      }
+    ],
+    "date_bj": "2026-10-20 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-10-20 00:01:54"
+  }
+}

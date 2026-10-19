@@ -5491,3 +5491,10 @@
 - create: tmux-and-claude-code-sessions-send-keys-and-the-ceiling.md
 - create: if-you-dont-run-your-own-llm-proxy-how-do-you-know-whats-going-on.md
 - create: i-built-a-programming-language-that-llms-cant-use.md
+
+## [2026-10-20 00:02] sync v3 | 5 new | pillars: {'capabilities': 2, 'patterns': 3}
+- create: lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation.md
+- create: show-hn-kividb-a-faster-redis-compatible-memory-database-and-vector-cache.md
+- create: show-hn-qwen3-4b-with-the-ai-writing-tics-trained-out.md
+- create: harness2-by-google-research-recursive-agent-harnessing.md
+- create: nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs.md

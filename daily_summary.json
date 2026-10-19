@@ -1,26 +1,19 @@
 {
   "daily_summary": {
-    "date": "2026-10-19",
-    "headline": "今日 AI 情报 · 2026-10-19",
+    "date": "2026-10-20",
+    "headline": "今日 AI 情报 · 2026-10-20",
     "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：安全/漏洞, AI Agent。",
+        "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "hybrid-reasoning-agents-llm-agents-that-think-in-latent-space-act-through-text",
-            "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act th",
-            "score": 0.26,
-            "url": "https://news.ycombinator.com/item?id=50145337",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "cocorna-collective-rna-design-with-cooperative-multi-agent-reinforcement-learnin",
-            "title": "CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcem",
-            "score": 0.26,
-            "url": "http://arxiv.org/abs/2610.23820v1",
+            "id": "show-hn-qwen3-4b-with-the-ai-writing-tics-trained-out",
+            "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+            "score": 0.3,
+            "url": "https://news.ycombinator.com/item?id=50151928",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -29,35 +22,20 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：桌面/本地化, AI Agent。",
         "evidence": [
           {
-            "id": "websites-are-closing-their-doors-to-ai-agents",
-            "title": "Websites are closing their doors to AI agents",
-            "score": 0.2,
-            "url": "https://news.ycombinator.com/item?id=50141657",
+            "id": "nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
+            "title": "Nvidia launches new open models to run agents in the enterprise and on",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
-            "id": "documents-police-officer-gave-her-flock-login-to-her-ice-agent-husband",
-            "title": "Documents: Police officer gave her Flock login to her ICE agent husban",
-            "score": 0.15,
-            "url": "https://news.ycombinator.com/item?id=50150750",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          }
-        ],
-        "trend": "new"
-      },
-      {
-        "pillar": "🔧 工具生态",
-        "pillar_key": "ecosystem",
-        "insight": "今日🔧 工具生态方向有新的动态。",
-        "evidence": [
-          {
-            "id": "ai-driven-reproducibility-and-analytical-robustness-in-scientific-discovery",
-            "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Disc",
-            "score": 0.26,
-            "url": "http://arxiv.org/abs/2610.23845v1",
+            "id": "harness2-by-google-research-recursive-agent-harnessing",
+            "title": "Harness2 by Google Research – Recursive Agent Harnessing",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=50151059",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -67,117 +45,37 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：CocoRNA: Collective RNA Design with Coop, Self-Building Labs, Websites are closing their doors to AI a。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Nvidia launches new open models to run a。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       }
     ],
-    "stats": "🤖 技术能力: 17 | 🔧 工具生态: 3 | 📱 产品模式: 5",
-    "total_items": 25,
-    "high_value_count": 6,
+    "stats": "📱 产品模式: 3 | 🤖 技术能力: 2",
+    "total_items": 5,
+    "high_value_count": 3,
     "all_today_ids": [
       {
-        "id": "namecheap-just-seized-and-disabled-all-my-domains",
-        "label": "Namecheap just seized and disabled all my domains"
+        "id": "nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
+        "label": "Nvidia launches new open models to run agents in the enterprise and on PCs"
       },
       {
-        "id": "i-built-a-programming-language-that-llms-cant-use",
-        "label": "I built a programming language that LLMs can't use"
+        "id": "show-hn-qwen3-4b-with-the-ai-writing-tics-trained-out",
+        "label": "Show HN: Qwen3-4B with the AI writing tics trained out"
       },
       {
-        "id": "if-you-dont-run-your-own-llm-proxy-how-do-you-know-whats-going-on",
-        "label": "If you don't run your own LLM proxy, how do you know whats going on?"
+        "id": "lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation",
+        "label": "Let's Encrypt is adding two additional remote perspectives for domain validation"
       },
       {
-        "id": "disney-agrees-to-hire-the-majority-of-characterais-workforce",
-        "label": "Disney agrees to hire the majority of Character.AI’s workforce"
+        "id": "harness2-by-google-research-recursive-agent-harnessing",
+        "label": "Harness2 by Google Research – Recursive Agent Harnessing"
       },
       {
-        "id": "anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund",
-        "label": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’"
-      },
-      {
-        "id": "anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-1b-in-damages",
-        "label": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages"
-      },
-      {
-        "id": "hybrid-reasoning-agents-llm-agents-that-think-in-latent-space-act-through-text",
-        "label": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text"
-      },
-      {
-        "id": "the-brain-sandwich",
-        "label": "The Brain Sandwich"
-      },
-      {
-        "id": "tmux-and-claude-code-sessions-send-keys-and-the-ceiling",
-        "label": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling"
-      },
-      {
-        "id": "rethinking-the-design-space-of-vanilla-pixel-diffusion-transformers",
-        "label": "Rethinking the design space of Vanilla Pixel Diffusion Transformers"
-      },
-      {
-        "id": "ai-driven-reproducibility-and-analytical-robustness-in-scientific-discovery",
-        "label": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery"
-      },
-      {
-        "id": "waiting-buys-exactly-two-moments-endogenous-identification-in-prediction-driven",
-        "label": "Waiting Buys Exactly Two Moments: Endogenous Identification in Prediction-Driven"
-      },
-      {
-        "id": "quality-of-transmission-estimation-in-quantum-networks-compute-simulate-or-learn",
-        "label": "Quality-of-Transmission Estimation in Quantum Networks: Compute, Simulate, or Le"
-      },
-      {
-        "id": "enfr-evidence-networks-with-flow-matched-references-for-amortized-simulation-bas",
-        "label": "ENFR: Evidence Networks with Flow-Matched References for Amortized Simulation-Ba"
-      },
-      {
-        "id": "learning-personalized-memory-gating-from-delayed-one-sided-feedback",
-        "label": "Learning Personalized Memory Gating from Delayed One-Sided Feedback"
-      },
-      {
-        "id": "learning-without-relearning-physical-symmetry-an-so3-equivariant-convolutional-n",
-        "label": "Learning without relearning physical symmetry: an SO(3)-equivariant convolutiona"
-      },
-      {
-        "id": "beyond-the-answer-student-conditioned-trace-construction-for-reasoning-distillat",
-        "label": "Beyond the Answer: Student-Conditioned Trace Construction for Reasoning Distilla"
-      },
-      {
-        "id": "task-aligned-spectral-inductive-biases-in-parameterized-quantum-circuits",
-        "label": "Task-aligned spectral inductive biases in parameterized quantum circuits"
-      },
-      {
-        "id": "cocorna-collective-rna-design-with-cooperative-multi-agent-reinforcement-learnin",
-        "label": "CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learni"
-      },
-      {
-        "id": "self-building-labs",
-        "label": "Self-Building Labs"
-      },
-      {
-        "id": "behavioral-couplings-from-formation-to-behavioral-emergence-in-language-models",
-        "label": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models"
-      },
-      {
-        "id": "websites-are-closing-their-doors-to-ai-agents",
-        "label": "Websites are closing their doors to AI agents"
-      },
-      {
-        "id": "how-to-train-your-robot",
-        "label": "How to Train Your Robot"
-      },
-      {
-        "id": "timestral-mistral-release-time-series-foundation-models",
-        "label": "Timestral: Mistral release time-series foundation models"
-      },
-      {
-        "id": "documents-police-officer-gave-her-flock-login-to-her-ice-agent-husband",
-        "label": "Documents: Police officer gave her Flock login to her ICE agent husband"
+        "id": "show-hn-kividb-a-faster-redis-compatible-memory-database-and-vector-cache",
+        "label": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache"
       }
     ],
-    "date_bj": "2026-10-19 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-19 20:04:01"
+    "date_bj": "2026-10-20 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-10-20 00:01:54"
   }
 }

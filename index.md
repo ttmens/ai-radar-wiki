@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-19 | Total pages: 5215
+> Last updated: 2026-10-20 | Total pages: 5220
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -1053,6 +1053,7 @@
 - [[leiden-declaration-on-artificial-intelligence-and-mathematics.md]] Leiden Declaration on Artificial Intelligence and Mathematics `pillar:capabilities` `score:0.36`
 - [[lemario-training-a-jepa-world-model-on-super-mario-bros.md]] LeMario: Training a JEPA World Model on Super Mario Bros `pillar:capabilities` `score:0.345`
 - [[less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event.md]] Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event `pillar:capabilities` `score:0.305`
+- [[lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation.md]] Let's Encrypt is adding two additional remote perspectives for domain validation `pillar:capabilities` `score:0.305`
 - [[lets-make-quality-the-norm-again.md]] Let's make quality the norm again `pillar:capabilities` `score:0.455`
 - [[lg-denies-tv-spying-claims-says-tracking-and-snooping-concerns-not-true.md]] LG denies TV spying claims, says tracking and snooping concerns 'not true' `pillar:capabilities` `score:0.455`
 - [[librepods-airpods-liberated.md]] Librepods: AirPods liberated `pillar:capabilities` `score:0.495`
@@ -1718,6 +1719,7 @@
 - [[show-hn-pumpkinssh-claim-carve-and-display-a-pumpkin-to-the-world.md]] Show HN: Pumpkins.sh – claim, carve, and display a pumpkin to the world `pillar:capabilities` `score:0.155`
 - [[show-hn-puttday-a-daily-mini-golf-game.md]] Show HN: Putt.day a daily mini golf game `pillar:capabilities` `score:0.34`
 - [[show-hn-quant-picker-which-gguf-file-fits-your-model-and-machine.md]] Show HN: Quant Picker – which GGUF file fits your model and machine `pillar:capabilities` `score:0.26`
+- [[show-hn-qwen3-4b-with-the-ai-writing-tics-trained-out.md]] Show HN: Qwen3-4B with the AI writing tics trained out `pillar:capabilities` `score:0.305`
 - [[show-hn-real-time-ai-news-aggregator-with-daily-digest.md]] Show HN: Real-time AI news aggregator with daily digest `pillar:capabilities` `score:0.155`
 - [[show-hn-reame-a-cpu-inference-server-that-gets-faster-as-it-runs.md]] Show HN: Reame – a CPU inference server that gets faster as it runs `pillar:capabilities` `score:0.33`
 - [[show-hn-recall-local-project-memory-for-claude-code.md]] Show HN: Recall – Local project memory for Claude Code `pillar:capabilities` `score:0.53`
@@ -3438,6 +3440,7 @@
 - [[hardening-firefox-with-claude-mythos-preview.md]] Hardening Firefox with Claude Mythos Preview `pillar:patterns` `score:0.53`
 - [[hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy.md]] Hark releases an AI personal assistant with a focus on privacy `pillar:patterns` `score:0.305`
 - [[harness-engineering-leveraging-codex-in-an-agent-first-world.md]] Harness engineering: Leveraging Codex in an agent-first world `pillar:patterns` `score:0.53`
+- [[harness2-by-google-research-recursive-agent-harnessing.md]] Harness2 by Google Research – Recursive Agent Harnessing `pillar:patterns` `score:0.205`
 - [[harnesstax-how-much-does-the-harness-matter-for-coding-agents.md]] HarnessTax: How Much Does the Harness Matter for Coding Agents? `pillar:patterns` `score:0.305`
 - [[harry0703moneyprinterturbo.md]] harry0703/MoneyPrinterTurbo `pillar:patterns` `score:0.615`
 - [[harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-8216harvey-for-police-of.md]] Harvard Law dropout raises $6M for Blue Voice to build a &#8216;Harvey for polic `pillar:patterns` `score:0.305`
@@ -3589,6 +3592,7 @@
 - [[nous-research-confirms-it-hit-15b-valuation-launches-ai-agents-for-business-user.md]] Nous Research confirms it hit $1.5B valuation, launches AI agents for business u `pillar:patterns` `score:0.305`
 - [[nousresearchhermes-agent.md]] NousResearch/hermes-agent `pillar:patterns` `score:0.405`
 - [[nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp.md]] Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP `pillar:patterns` `score:0.515`
+- [[nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs.md]] Nvidia launches new open models to run agents in the enterprise and on PCs `pillar:patterns` `score:0.305`
 - [[nvidia-launches-new-platform-for-reining-in-rogue-ai-agents.md]] Nvidia launches new platform for reining in rogue AI agents `pillar:patterns` `score:0.305`
 - [[nvidia-wants-to-put-a-watchdog-chip-next-to-every-ai-agent.md]] Nvidia wants to put a watchdog chip next to every AI agent `pillar:patterns` `score:0.255`
 - [[object-storage-is-all-you-need.md]] Object storage is all you need `pillar:patterns` `score:0.255`
@@ -3764,6 +3768,7 @@
 - [[show-hn-jotbus-a-shared-encrypted-scratchpad-for-coding-agents.md]] Show HN: Jotbus – a shared encrypted scratchpad for coding agents `pillar:patterns` `score:0.155`
 - [[show-hn-kanban-cli-a-local-first-agent-first-task-manager-for-the-terminal.md]] Show HN: Kanban CLI (A local-first, agent-first task manager for the terminal) `pillar:patterns` `score:0.33`
 - [[show-hn-kastor-terraform-style-specs-for-ai-agents.md]] Show HN: Kastor – Terraform-style specs for AI agents `pillar:patterns` `score:0.33`
+- [[show-hn-kividb-a-faster-redis-compatible-memory-database-and-vector-cache.md]] Show HN: KiviDB, a faster Redis-compatible memory database and vector cache `pillar:patterns` `score:0.155`
 - [[show-hn-komi-learn-continuous-memory-and-self-improvement-for-coding-agents.md]] Show HN: Komi-learn – continuous memory and self-improvement for coding agents `pillar:patterns` `score:0.33`
 - [[show-hn-ktx-open-source-executable-context-layer-for-data-agents.md]] Show HN: Ktx – Open-source executable context layer for data agents `pillar:patterns` `score:0.295`
 - [[show-hn-let-agents-run-any-analysis-with-mixpanel-data-no-ui-required.md]] Show HN: Let agents run any analysis with Mixpanel data, no UI required `pillar:patterns` `score:0.33`

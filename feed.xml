@@ -5,7 +5,7 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 19 Oct 2026 12:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 16:00:29 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
@@ -16,6 +16,22 @@
       <title>Namecheap just seized and disabled all my domains</title>
       <link>https://news.ycombinator.com/item?id=50142866</link>
       <guid isPermaLink="false">namecheap-just-seized-and-disabled-all-my-domains</guid>
+      <pubDate>2026-10-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>I built a programming language that LLMs can't use</title>
+      <link>https://news.ycombinator.com/item?id=50135762</link>
+      <guid isPermaLink="false">i-built-a-programming-language-that-llms-cant-use</guid>
+      <pubDate>2026-10-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>If you don't run your own LLM proxy, how do you know whats going on?</title>
+      <link>https://news.ycombinator.com/item?id=50145507</link>
+      <guid isPermaLink="false">if-you-dont-run-your-own-llm-proxy-how-do-you-know-whats-going-on</guid>
       <pubDate>2026-10-19T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
       <category>🤖 技术能力</category>
@@ -61,9 +77,137 @@
       <category>🤖 技术能力</category>
     </item>
     <item>
+      <title>Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling</title>
+      <link>https://news.ycombinator.com/item?id=50148855</link>
+      <guid isPermaLink="false">tmux-and-claude-code-sessions-send-keys-and-the-ceiling</guid>
+      <pubDate>2026-10-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Rethinking the design space of Vanilla Pixel Diffusion Transformers</title>
+      <link>http://arxiv.org/abs/2610.23854v1</link>
+      <guid isPermaLink="false">rethinking-the-design-space-of-vanilla-pixel-diffusion-transformers</guid>
+      <pubDate>2026-10-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla diffusion transformer can generate directly in pixel space by replacing the commonly used velocity</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery</title>
+      <link>http://arxiv.org/abs/2610.23845v1</link>
+      <guid isPermaLink="false">ai-driven-reproducibility-and-analytical-robustness-in-scientific-discovery</guid>
+      <pubDate>2026-10-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents can help automate reproduction and robustness analysis, using a medical case study grounded in the S</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>Waiting Buys Exactly Two Moments: Endogenous Identification in Prediction-Driven</title>
+      <link>http://arxiv.org/abs/2610.23830v1</link>
+      <guid isPermaLink="false">waiting-buys-exactly-two-moments-endogenous-identification-in-prediction-driven</guid>
+      <pubDate>2026-10-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>A planner with a fixed budget of preventive help must decide whom to help and when. Waiting reveals risk but removes intervention opportunities as higher-risk individuals leave first. We characterize this tradeoff under repeated noisy signals and risk-dependent attrition: in the canonical model, a l</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Quality-of-Transmission Estimation in Quantum Networks: Compute, Simulate, or Le</title>
+      <link>http://arxiv.org/abs/2610.23827v1</link>
+      <guid isPermaLink="false">quality-of-transmission-estimation-in-quantum-networks-compute-simulate-or-learn</guid>
+      <pubDate>2026-10-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Future quantum networks will rely on control-plane decisions such as routing, scheduling, entanglement provisioning, purification, and memory allocation. Each decision depends on a timely and reliable estimate of the quality of the entanglement that a candidate path can deliver, with end-to-end fide</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>ENFR: Evidence Networks with Flow-Matched References for Amortized Simulation-Ba</title>
+      <link>http://arxiv.org/abs/2610.23825v1</link>
+      <guid isPermaLink="false">enfr-evidence-networks-with-flow-matched-references-for-amortized-simulation-bas</guid>
+      <pubDate>2026-10-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>The evidence, $\mathcal{Z} = p(x | \mathcal{M})$, of a data-generating model $\mathcal{M}$ is a powerful tool in Bayesian frameworks: it enables model inference, model misspecification tests, and goodness-of-fit assessment as an alternative to standard discrepancy statistics, e.g. $χ^2$. While versa</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Learning Personalized Memory Gating from Delayed One-Sided Feedback</title>
+      <link>http://arxiv.org/abs/2610.23812v1</link>
+      <guid isPermaLink="false">learning-personalized-memory-gating-from-delayed-one-sided-feedback</guid>
+      <pubDate>2026-10-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Long-term memory enables language-model agents to personalize future interactions, but a finite memory bank cannot preserve every extracted fact. Existing memory gating policies are typically shared across users and therefore fail to account for user-specific patterns of future reuse. In this paper,</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Learning without relearning physical symmetry: an SO(3)-equivariant convolutiona</title>
+      <link>http://arxiv.org/abs/2610.23821v1</link>
+      <guid isPermaLink="false">learning-without-relearning-physical-symmetry-an-so3-equivariant-convolutional-n</guid>
+      <pubDate>2026-10-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Many of the most important datasets in the physical sciences live natively on the sphere, and these data often carry no preferred position or orientation. Using methods that do not reflect this symmetry leads to far higher simulation requirements, which can be catastrophic for scientific analyses (f</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Beyond the Answer: Student-Conditioned Trace Construction for Reasoning Distilla</title>
+      <link>http://arxiv.org/abs/2610.23831v1</link>
+      <guid isPermaLink="false">beyond-the-answer-student-conditioned-trace-construction-for-reasoning-distillat</guid>
+      <pubDate>2026-10-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>A reasoning trace can accompany a correct answer without providing effective supervision for a particular student. We study how to construct traces that improve learning beyond answer-only supervision by considering both their intermediate content and their accessibility to the target learner. We in</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Task-aligned spectral inductive biases in parameterized quantum circuits</title>
+      <link>http://arxiv.org/abs/2610.23834v1</link>
+      <guid isPermaLink="false">task-aligned-spectral-inductive-biases-in-parameterized-quantum-circuits</guid>
+      <pubDate>2026-10-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Parameterized quantum circuits are widely investigated in quantum machine learning, yet how their architecture can provide task-aligned inductive biases remains poorly understood. We study data reuploading quantum circuits with two distinct inputs: a signal that varies between samples and a fixed, t</p></description>
+      <category>🔧 工具生态</category>
+    </item>
+    <item>
+      <title>CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learni</title>
+      <link>http://arxiv.org/abs/2610.23820v1</link>
+      <guid isPermaLink="false">cocorna-collective-rna-design-with-cooperative-multi-agent-reinforcement-learnin</guid>
+      <pubDate>2026-10-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Designing RNA sequences that reliably fold into specific secondary structures is essential for understanding their biological functions but remains a challenging computational problem. We propose CocoRNA, a cooperative multi-agent reinforcement learning framework for RNA inverse design. CocoRNA simp</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Self-Building Labs</title>
+      <link>http://arxiv.org/abs/2610.23826v1</link>
+      <guid isPermaLink="false">self-building-labs</guid>
+      <pubDate>2026-10-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Self-driving laboratories (SDLs) accelerate scientific discovery by automating experimental execution and optimization. AI agents can increasingly propose new experiments, but existing SDLs can only run the procedures they were built for. Adapting them to a new experiment still takes extensive manua</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>Behavioral Couplings: From Formation to Behavioral Emergence in Language Models</title>
+      <link>http://arxiv.org/abs/2610.23847v1</link>
+      <guid isPermaLink="false">behavioral-couplings-from-formation-to-behavioral-emergence-in-language-models</guid>
+      <pubDate>2026-10-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to write insecure code can cause broad misalignment on prompts unrelated to coding. We refer to a relatio</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
       <title>Websites are closing their doors to AI agents</title>
       <link>https://news.ycombinator.com/item?id=50141657</link>
       <guid isPermaLink="false">websites-are-closing-their-doors-to-ai-agents</guid>
+      <pubDate>2026-10-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>📱 产品模式</category>
+    </item>
+    <item>
+      <title>How to Train Your Robot</title>
+      <link>https://news.ycombinator.com/item?id=50104874</link>
+      <guid isPermaLink="false">how-to-train-your-robot</guid>
+      <pubDate>2026-10-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Timestral: Mistral release time-series foundation models</title>
+      <link>https://news.ycombinator.com/item?id=50150434</link>
+      <guid isPermaLink="false">timestral-mistral-release-time-series-foundation-models</guid>
+      <pubDate>2026-10-19T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>Documents: Police officer gave her Flock login to her ICE agent husband</title>
+      <link>https://news.ycombinator.com/item?id=50150750</link>
+      <guid isPermaLink="false">documents-police-officer-gave-her-flock-login-to-her-ice-agent-husband</guid>
       <pubDate>2026-10-19T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
       <category>📱 产品模式</category>
@@ -266,150 +410,6 @@
       <guid isPermaLink="false">an-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet</guid>
       <pubDate>2026-10-17T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&amp;#160;rebuilt.&amp;#160; This view runs counter to tho</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Wonderhop – A daily game: guess what most people say, or what none do</title>
-      <link>https://news.ycombinator.com/item?id=50080246</link>
-      <guid isPermaLink="false">show-hn-wonderhop-a-daily-game-guess-what-most-people-say-or-what-none-do</guid>
-      <pubDate>2026-10-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Replit is no longer working with Anthropic, CEO says</title>
-      <link>https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/</link>
-      <guid isPermaLink="false">replit-is-no-longer-working-with-anthropic-ceo-says</guid>
-      <pubDate>2026-10-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 💰 商业趋势</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.</p></description>
-      <category>💰 商业趋势</category>
-    </item>
-    <item>
-      <title>Elorian’s first AI model wants to reason with images, not just about them</title>
-      <link>https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/</link>
-      <guid isPermaLink="false">elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them</guid>
-      <pubDate>2026-10-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🔧 工具生态</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.</p></description>
-      <category>🔧 工具生态</category>
-    </item>
-    <item>
-      <title>AI-assisted PCB design for KiCad 10</title>
-      <link>https://news.ycombinator.com/item?id=50085553</link>
-      <guid isPermaLink="false">ai-assisted-pcb-design-for-kicad-10</guid>
-      <pubDate>2026-10-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Apple ML Research: Muse Spark Open with MLX on Mac Studio</title>
-      <link>https://news.ycombinator.com/item?id=50118320</link>
-      <guid isPermaLink="false">apple-ml-research-muse-spark-open-with-mlx-on-mac-studio</guid>
-      <pubDate>2026-10-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Nine-Inch Snails</title>
-      <link>https://news.ycombinator.com/item?id=50125545</link>
-      <guid isPermaLink="false">nine-inch-snails</guid>
-      <pubDate>2026-10-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: rStation – A shared research lab for your AI agents</title>
-      <link>https://rstation.ai/</link>
-      <guid isPermaLink="false">show-hn-rstation-a-shared-research-lab-for-your-ai-agents</guid>
-      <pubDate>2026-10-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> showhn</p><hr/><p>暂无中文摘要</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>MS Paint Adds Freeform Rotation (2026)</title>
-      <link>https://news.ycombinator.com/item?id=50082554</link>
-      <guid isPermaLink="false">ms-paint-adds-freeform-rotation-2026</guid>
-      <pubDate>2026-10-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Tell HN: Remember to migrate away from .name domain</title>
-      <link>https://news.ycombinator.com/item?id=50089577</link>
-      <guid isPermaLink="false">tell-hn-remember-to-migrate-away-from-name-domain</guid>
-      <pubDate>2026-10-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware</title>
-      <link>https://news.ycombinator.com/item?id=50127979</link>
-      <guid isPermaLink="false">show-hn-llmspeed-feel-how-fast-a-local-llm-runs-before-you-buy-the-hardware</guid>
-      <pubDate>2026-10-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Show HN: Gemini 4 Argon plays StarCraft</title>
-      <link>https://news.ycombinator.com/item?id=50118688</link>
-      <guid isPermaLink="false">show-hn-gemini-4-argon-plays-starcraft</guid>
-      <pubDate>2026-10-17T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Neural networks are clean</title>
-      <link>https://news.ycombinator.com/item?id=50105647</link>
-      <guid isPermaLink="false">neural-networks-are-clean</guid>
-      <pubDate>2026-10-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.5/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Krea 3 – An image model built for editing at scale</title>
-      <link>https://news.ycombinator.com/item?id=50105648</link>
-      <guid isPermaLink="false">krea-3-an-image-model-built-for-editing-at-scale</guid>
-      <pubDate>2026-10-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.4/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Google’s Universal Cart shopping tool launches in the US</title>
-      <link>https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/</link>
-      <guid isPermaLink="false">googles-universal-cart-shopping-tool-launches-in-the-us</guid>
-      <pubDate>2026-10-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>The new shopping tool is available in the U.S. across Google Search and the Gemini app.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early boo</title>
-      <link>https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/</link>
-      <guid isPermaLink="false">last-chance-to-save-up-to-200-on-your-techcrunch-founder-summit-pass-early-booki</guid>
-      <pubDate>2026-10-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Anthropic is letting METR researchers look under the hood with employee-level ac</title>
-      <link>https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/</link>
-      <guid isPermaLink="false">anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-ac</guid>
-      <pubDate>2026-10-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Amazon devices chief Panos Panay sees a future where AI devices replace the need</title>
-      <link>https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/</link>
-      <guid isPermaLink="false">amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need</guid>
-      <pubDate>2026-10-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>Meta launches an open-weight AI model that runs on Macs</title>
-      <link>https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/</link>
-      <guid isPermaLink="false">meta-launches-an-open-weight-ai-model-that-runs-on-macs</guid>
-      <pubDate>2026-10-16T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
