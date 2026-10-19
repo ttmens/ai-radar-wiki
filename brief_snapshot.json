@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T06:02:12.803462+08:00",
-  "item_count": 4,
+  "generated_at": "2026-10-19T20:04:33.386141+08:00",
+  "item_count": 6,
   "items": [
     {
       "id": "namecheap-just-seized-and-disabled-all-my-domains",
@@ -12,6 +12,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=50142866",
+      "date": "2026-10-19"
+    },
+    {
+      "id": "i-built-a-programming-language-that-llms-cant-use",
+      "label": "I built a programming language that LLMs can't use",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50135762",
+      "date": "2026-10-19"
+    },
+    {
+      "id": "if-you-dont-run-your-own-llm-proxy-how-do-you-know-whats-going-on",
+      "label": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50145507",
       "date": "2026-10-19"
     },
     {
@@ -49,7 +71,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 9612,
-    "edges": 10543
+    "real_nodes": 9630,
+    "edges": 10569
   }
 }

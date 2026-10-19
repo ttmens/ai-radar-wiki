@@ -5471,3 +5471,23 @@
 - create: the-brain-sandwich.md
 - create: anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund.md
 - create: disney-agrees-to-hire-the-majority-of-characterais-workforce.md
+
+## [2026-10-19 20:04] sync v3 | 18 new | pillars: {'capabilities': 11, 'ecosystem': 3, 'patterns': 4}
+- create: rethinking-the-design-space-of-vanilla-pixel-diffusion-transformers.md
+- create: behavioral-couplings-from-formation-to-behavioral-emergence-in-language-models.md
+- create: ai-driven-reproducibility-and-analytical-robustness-in-scientific-discovery.md
+- create: task-aligned-spectral-inductive-biases-in-parameterized-quantum-circuits.md
+- create: beyond-the-answer-student-conditioned-trace-construction-for-reasoning-distillat.md
+- create: waiting-buys-exactly-two-moments-endogenous-identification-in-prediction-driven.md
+- create: quality-of-transmission-estimation-in-quantum-networks-compute-simulate-or-learn.md
+- create: self-building-labs.md
+- create: enfr-evidence-networks-with-flow-matched-references-for-amortized-simulation-bas.md
+- create: learning-without-relearning-physical-symmetry-an-so3-equivariant-convolutional-n.md
+- create: cocorna-collective-rna-design-with-cooperative-multi-agent-reinforcement-learnin.md
+- create: learning-personalized-memory-gating-from-delayed-one-sided-feedback.md
+- create: documents-police-officer-gave-her-flock-login-to-her-ice-agent-husband.md
+- create: timestral-mistral-release-time-series-foundation-models.md
+- create: how-to-train-your-robot.md
+- create: tmux-and-claude-code-sessions-send-keys-and-the-ceiling.md
+- create: if-you-dont-run-your-own-llm-proxy-how-do-you-know-whats-going-on.md
+- create: i-built-a-programming-language-that-llms-cant-use.md
