@@ -5538,3 +5538,8 @@
 - create: tenstorrent-hits-62b-valuation-to-scale-open-weight-ai-chips.md
 - create: people-are-using-ai-to-make-their-smart-tvs-dumb-again.md
 - create: show-hn-lights-on-software-factory-boilerplate-for-claude-code.md
+
+## [2026-10-20 18:02] sync v3 | 3 new | pillars: {'capabilities': 3}
+- create: afd-leak-what-421179-hacked-emails-show-about-the-german-far-right.md
+- create: deepseek-just-open-sourced-its-inference-engine.md
+- create: restoration-of-retinal-regenerative-potential.md

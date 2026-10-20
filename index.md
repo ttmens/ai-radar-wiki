@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-20 | Total pages: 5258
+> Last updated: 2026-10-20 | Total pages: 5261
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -85,6 +85,7 @@
 - [[advancing-the-price-performance-frontier-with-gpt56.md]] Advancing the price-performance frontier with GPT‑5.6 `pillar:capabilities` `score:0.63`
 - [[adversarial-fashion-makes-a-statement-on-ai-panopticon.md]] Adversarial Fashion Makes a Statement on AI Panopticon `pillar:capabilities` `score:0.255`
 - [[aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spea.md]] AegisAI, founded by former Google security execs, lands $36M to stop AI-driven s `pillar:capabilities` `score:0.48`
+- [[afd-leak-what-421179-hacked-emails-show-about-the-german-far-right.md]] AfD Leak: What 421,179 Hacked Emails Show about the German Far Right `pillar:capabilities` `score:0.205`
 - [[after-accusations-of-selling-8216perv-glasses8217-meta-prepares-to-sell-a-pair-w.md]] After accusations of selling &#8216;perv glasses,&#8217; Meta prepares to sell a `pillar:capabilities` `score:0.305`
 - [[after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-8216marxist8217.md]] After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist&#8 `pillar:capabilities` `score:0.305`
 - [[after-nvidia8217s-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650.md]] After Nvidia&#8217;s $20B not-acqui-hire, AI chip startup Groq reportedly raisin `pillar:capabilities` `score:0.48`
@@ -504,6 +505,7 @@
 - [[deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation.md]] DeepL acquires Mixhalo for live-event audio streaming and translation `pillar:capabilities` `score:0.48`
 - [[deeplearning4jdeeplearning4j.md]] deeplearning4j/deeplearning4j `pillar:capabilities` `score:0.58`
 - [[deepseek-aims-to-make-its-own-ai-chip.md]] DeepSeek aims to make its own AI chip `pillar:capabilities` `score:0.33`
+- [[deepseek-just-open-sourced-its-inference-engine.md]] DeepSeek just open-sourced its inference engine `pillar:capabilities` `score:0.155`
 - [[deepseek-open-sources-inference-optimizations-with-6085-faster-generation-pdf.md]] DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf `pillar:capabilities` `score:0.415`
 - [[deepseek-pause-fundraise-after-comments-on-compute-gap-to-us-leaked-transcript-p.md]] DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) `pillar:capabilities` `score:0.53`
 - [[deepseek-v4-flash-means-llm-steering-is-interesting-again.md]] DeepSeek-V4-Flash means LLM steering is interesting again `pillar:capabilities` `score:0.33`
@@ -1491,6 +1493,7 @@
 - [[resistance-training-prescription-for-muscle-function-hypertrophy-in-health.md]] Resistance Training Prescription for Muscle Function, Hypertrophy in Health `pillar:capabilities` `score:0.205`
 - [[response-to-ai-slop-is-from-robin-williams.md]] Response to AI slop is from Robin Williams `pillar:capabilities` `score:0.375`
 - [[responsible-release-of-ai-generated-mathematics.md]] Responsible Release of AI-Generated Mathematics `pillar:capabilities` `score:0.305`
+- [[restoration-of-retinal-regenerative-potential.md]] Restoration of Retinal Regenerative Potential `pillar:capabilities` `score:0.205`
 - [[rethinking-legal-education-in-the-ai-era.md]] Rethinking Legal Education in the AI Era `pillar:capabilities` `score:0.36`
 - [[retrofitting-language-models-to-operate-over-bytes.md]] Retrofitting language models to operate over bytes `pillar:capabilities` `score:0.205`
 - [[retrospectively-reverse-engineering-apples-neural-engine.md]] Retrospectively Reverse-Engineering Apple's Neural Engine `pillar:capabilities` `score:0.205`
