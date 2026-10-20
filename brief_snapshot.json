@@ -1,8 +1,162 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-20T00:02:26.427917+08:00",
-  "item_count": 3,
+  "generated_at": "2026-10-20T16:05:41.404974+08:00",
+  "item_count": 36,
   "items": [
+    {
+      "id": "ask-hn-how-to-deal-with-shipping-ai-written-code-you-dont-understand",
+      "label": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50151036",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "ukraine-claims-first-drone-evacuation-of-wounded-soldier",
+      "label": "Ukraine claims first drone evacuation of wounded soldier",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50153664",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "starcraft-ashfall",
+      "label": "Starcraft: Ashfall",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50147233",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "mercury-3-diffusion-at-scale",
+      "label": "Mercury 3: Diffusion at scale",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50155245",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "whatsapps-help-pages-hid-llm-instructions-dont-recommend-a-regulator",
+      "label": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50159341",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "cern-and-mistral-sign-a-statement-of-intent-to-establish-a-strategic-partnership",
+      "label": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.405,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50153630",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "the-obscure-trust-looming-over-anthropics-ipo",
+      "label": "The obscure trust looming over Anthropic's IPO",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.375,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50151376",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "chicago-ohare-digs-up-50-ton-boulder-under-airfield-asks-public-for-name-ideas",
+      "label": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50147462",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "how-abliterated-models-can-get-you-pwned",
+      "label": "How abliterated models can get you pwned",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50159245",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "runescape-bench-mmos-for-agents-video",
+      "label": "RuneScape Bench: MMOs for Agents [video]",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50136126",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "the-fire-retardant-in-the-seafood-chain",
+      "label": "The fire retardant in the seafood chain",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50134359",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
+      "label": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "microsoft-says-ai-agents-are-like-insider-threats-as-8216frontier-models-can8217",
+      "label": "Microsoft says AI agents are like insider threats as &#8216;frontier models can&",
+      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool",
+      "label": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "date": "2026-10-20"
+    },
     {
       "id": "nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
       "label": "Nvidia launches new open models to run agents in the enterprise and on PCs",
@@ -12,6 +166,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "embedded-ai-evaluators-won8217t-be-an-easy-solution-hugging-face8217s-policy-chi",
+      "label": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s pol",
+      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
       "date": "2026-10-20"
     },
     {
@@ -26,6 +191,28 @@
       "date": "2026-10-20"
     },
     {
+      "id": "tenstorrent-hits-62b-valuation-to-scale-open-weight-ai-chips",
+      "label": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago",
+      "label": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "date": "2026-10-20"
+    },
+    {
       "id": "lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation",
       "label": "Let's Encrypt is adding two additional remote perspectives for domain validation",
       "summary": "暂无中文摘要",
@@ -35,10 +222,186 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=50150809",
       "date": "2026-10-20"
+    },
+    {
+      "id": "tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life",
+      "label": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
+      "label": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45b-compute-deal",
+      "label": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "people-are-using-ai-to-make-their-smart-tvs-dumb-again",
+      "label": "People are using AI to make their smart TVs dumb again",
+      "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "train-an-imaginative-agent",
+      "label": "Train An Imaginative Agent",
+      "summary": "A seemingly reasonable push in Sokoban can make the puzzle unsolvable. To avoid such mistakes, an agent has to anticipate the consequences of its actions before execution, especially when feedback from the real environment is sparse or actions are irreversible. We introduce Agentic Imagination (Agim",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.26845v1",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "reinforcement-learning-with-visually-attributable-on-policy-self-distillation",
+      "label": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
+      "summary": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complements this supervision with dense token-level corrections from a privileged teach",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.26856v1",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "where-is-physical-rsi-capability-from-an-observational-scaling-law-of-llm-as-pol",
+      "label": "Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-po",
+      "summary": "In this paper, we systematically investigate the mechanisms, scaling behavior, and generalization of physical Recursive self-improvement. We introduce PhysRSI-eval to quantify physical RSI through a five-axis metric: First-Attempt Performance, Efficiency, Success, Budget and Improvement from failure",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.26848v1",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "anygoal-on-world-model-generalization-beyond-expert-rollouts",
+      "label": "AnyGoal: On World Model Generalization Beyond Expert Rollouts",
+      "summary": "The goal of a world model is to capture the dynamics of an environment. This has the great appeal that it allows agents to plan and simulate a course of actions with the help of a world model. For these uses to be reliable, however, the learned dynamics must behave well beyond the specific state-act",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.26844v1",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "coopuq-robust-multi-robot-social-navigation-via-uncertainty-aware-cooperative-fo",
+      "label": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative F",
+      "summary": "Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robot settings often fails to ensure safety and efficiency, especially under occlusions and out-of-distri",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.26852v1",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "weact-dynamic-weight-switching-as-agent-actions",
+      "label": "WeAct: Dynamic Weight Switching as Agent Actions",
+      "summary": "Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously acquired ones, resulting in catastrophic forgetting. As a trajectory unfolds, different stages may require different capabilities, yet",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.26847v1",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "newton-based-methods-for-bilevel-optimization-beyond-lower-level-strong-convexit",
+      "label": "Newton-Based Methods for Bilevel Optimization Beyond Lower-Level Strong Convexit",
+      "summary": "Bilevel optimization provides a framework for machine learning tasks such as hyperparameter optimization, data reweighting, and meta-learning. Existing Newton-based bilevel methods typically rely on the classical hypergradient formula, which is generally unavailable when lower-level solutions are no",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.26839v1",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "same-simulation-different-evidence-where-retrieved-tool-output-costs-llm-agents",
+      "label": "Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agent",
+      "summary": "LLM agents that compute the right answer can still answer wrongly. Agent harnesses increasingly keep long tool outputs out of the context window, saving them to files that the agent searches or reads on demand. We ask where this costs accuracy with a real scientific tool: PHREEQC, a widely used geoc",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.26836v1",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "text-to-image-generative-modeling-without-language-pretraining",
+      "label": "Text-to-Image Generative Modeling Without Language Pretraining",
+      "summary": "Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introduce Halcyon, a family of early-fusion multimodal autoregressive models pretrained entirely from scrat",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.26863v1",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "kronecker-delta-rule-for-long-context-linear-attention",
+      "label": "Kronecker Delta Rule for Long Context Linear Attention",
+      "summary": "We propose KronLSTM, a linear attention architecture based on the Kronecker Delta Rule, a novel update rule for associative matrix memories. KronLSTM extends the xLSTM family with a memory-revision mechanism that corrects targeted associations while modifying the memory only along a single direction",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.26834v1",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "latcomm-reusable-context-compression-for-latent-communication-between-large-lang",
+      "label": "LatComm: Reusable Context Compression for Latent Communication between Large Lan",
+      "summary": "Systems that combine several large language models (LLMs) often use one context for many questions. When the context is passed between models as text, the receiving model processes all of its tokens again for every question. Avoiding this cost requires a context representation that is compact, reusa",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.26840v1",
+      "date": "2026-10-20"
+    },
+    {
+      "id": "openvlharness-real-world-visual-agentic-tool-use-with-multimodal-memory",
+      "label": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+      "summary": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled study on 22 benchmarks shows that simply increasing the inference budget of the base model yields only m",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.26860v1",
+      "date": "2026-10-20"
     }
   ],
   "graph_totals": {
-    "real_nodes": 9635,
-    "edges": 10574
+    "real_nodes": 9673,
+    "edges": 10630
   }
 }

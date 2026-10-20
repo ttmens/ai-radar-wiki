@@ -7,13 +7,27 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "今日🤖 技术能力方向有新的动态。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 模型能力。",
         "evidence": [
           {
-            "id": "show-hn-qwen3-4b-with-the-ai-writing-tics-trained-out",
-            "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+            "id": "train-an-imaginative-agent",
+            "title": "Train An Imaginative Agent",
             "score": 0.3,
-            "url": "https://news.ycombinator.com/item?id=50151928",
+            "url": "http://arxiv.org/abs/2610.26845v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "weact-dynamic-weight-switching-as-agent-actions",
+            "title": "WeAct: Dynamic Weight Switching as Agent Actions",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2610.26847v1",
+            "reason": "里程碑式进展"
+          },
+          {
+            "id": "openvlharness-real-world-visual-agentic-tool-use-with-multimodal-memory",
+            "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memo",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2610.26860v1",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -22,8 +36,22 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：桌面/本地化, AI Agent。",
+        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent, 桌面/本地化。",
         "evidence": [
+          {
+            "id": "runescape-bench-mmos-for-agents-video",
+            "title": "RuneScape Bench: MMOs for Agents [video]",
+            "score": 0.35,
+            "url": "https://news.ycombinator.com/item?id=50136126",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "microsoft-says-ai-agents-are-like-insider-threats-as-8216frontier-models-can8217",
+            "title": "Microsoft says AI agents are like insider threats as &#8216;frontier m",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
           {
             "id": "nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
             "title": "Nvidia launches new open models to run agents in the enterprise and on",
@@ -37,6 +65,43 @@
             "score": 0.2,
             "url": "https://news.ycombinator.com/item?id=50151059",
             "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "agentic-monitoring",
+            "title": "Agentic Monitoring",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=50153225",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向有新的动态。",
+        "evidence": [
+          {
+            "id": "hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
+            "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI a",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "evidence": [
+          {
+            "id": "cern-and-mistral-sign-a-statement-of-intent-to-establish-a-strategic-partnership",
+            "title": "CERN and Mistral sign a statement of intent to establish a strategic p",
+            "score": 0.41,
+            "url": "https://news.ycombinator.com/item?id=50153630",
+            "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
         "trend": "new"
@@ -45,37 +110,195 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Nvidia launches new open models to run a。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日7条情报涉及AI Agent及相关工具生态。典型项目包括：Microsoft says AI agents are like inside, Nvidia launches new open models to run a, People are using AI to make their smart 。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      },
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日2条情报涉及AI商业动态。包括：The obscure trust looming over Anthropic, Tenstorrent hits $6.2B valuation to scal。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "📱 产品模式: 3 | 🤖 技术能力: 2",
-    "total_items": 5,
-    "high_value_count": 3,
+    "stats": "🤖 技术能力: 27 | 💰 商业趋势: 4 | 📱 产品模式: 10 | 🔧 工具生态: 2",
+    "total_items": 43,
+    "high_value_count": 36,
     "all_today_ids": [
+      {
+        "id": "ask-hn-how-to-deal-with-shipping-ai-written-code-you-dont-understand",
+        "label": "Ask HN: How to deal with shipping AI-written code you don't understand?"
+      },
+      {
+        "id": "ukraine-claims-first-drone-evacuation-of-wounded-soldier",
+        "label": "Ukraine claims first drone evacuation of wounded soldier"
+      },
+      {
+        "id": "starcraft-ashfall",
+        "label": "Starcraft: Ashfall"
+      },
+      {
+        "id": "mercury-3-diffusion-at-scale",
+        "label": "Mercury 3: Diffusion at scale"
+      },
+      {
+        "id": "whatsapps-help-pages-hid-llm-instructions-dont-recommend-a-regulator",
+        "label": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator"
+      },
+      {
+        "id": "cern-and-mistral-sign-a-statement-of-intent-to-establish-a-strategic-partnership",
+        "label": "CERN and Mistral sign a statement of intent to establish a strategic partnership"
+      },
+      {
+        "id": "the-obscure-trust-looming-over-anthropics-ipo",
+        "label": "The obscure trust looming over Anthropic's IPO"
+      },
+      {
+        "id": "chicago-ohare-digs-up-50-ton-boulder-under-airfield-asks-public-for-name-ideas",
+        "label": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas"
+      },
+      {
+        "id": "how-abliterated-models-can-get-you-pwned",
+        "label": "How abliterated models can get you pwned"
+      },
+      {
+        "id": "runescape-bench-mmos-for-agents-video",
+        "label": "RuneScape Bench: MMOs for Agents [video]"
+      },
+      {
+        "id": "the-fire-retardant-in-the-seafood-chain",
+        "label": "The fire retardant in the seafood chain"
+      },
+      {
+        "id": "hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
+        "label": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts"
+      },
+      {
+        "id": "microsoft-says-ai-agents-are-like-insider-threats-as-8216frontier-models-can8217",
+        "label": "Microsoft says AI agents are like insider threats as &#8216;frontier models can&"
+      },
+      {
+        "id": "amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool",
+        "label": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool"
+      },
       {
         "id": "nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
         "label": "Nvidia launches new open models to run agents in the enterprise and on PCs"
+      },
+      {
+        "id": "embedded-ai-evaluators-won8217t-be-an-easy-solution-hugging-face8217s-policy-chi",
+        "label": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s pol"
       },
       {
         "id": "show-hn-qwen3-4b-with-the-ai-writing-tics-trained-out",
         "label": "Show HN: Qwen3-4B with the AI writing tics trained out"
       },
       {
+        "id": "tenstorrent-hits-62b-valuation-to-scale-open-weight-ai-chips",
+        "label": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips"
+      },
+      {
+        "id": "replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago",
+        "label": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago"
+      },
+      {
         "id": "lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation",
         "label": "Let's Encrypt is adding two additional remote perspectives for domain validation"
+      },
+      {
+        "id": "tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life",
+        "label": "Tolan snags $30M for its AI companion that helps users navigate life"
+      },
+      {
+        "id": "mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
+        "label": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back"
+      },
+      {
+        "id": "nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45b-compute-deal",
+        "label": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal"
+      },
+      {
+        "id": "people-are-using-ai-to-make-their-smart-tvs-dumb-again",
+        "label": "People are using AI to make their smart TVs dumb again"
+      },
+      {
+        "id": "train-an-imaginative-agent",
+        "label": "Train An Imaginative Agent"
+      },
+      {
+        "id": "reinforcement-learning-with-visually-attributable-on-policy-self-distillation",
+        "label": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation"
+      },
+      {
+        "id": "where-is-physical-rsi-capability-from-an-observational-scaling-law-of-llm-as-pol",
+        "label": "Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-po"
+      },
+      {
+        "id": "anygoal-on-world-model-generalization-beyond-expert-rollouts",
+        "label": "AnyGoal: On World Model Generalization Beyond Expert Rollouts"
+      },
+      {
+        "id": "coopuq-robust-multi-robot-social-navigation-via-uncertainty-aware-cooperative-fo",
+        "label": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative F"
+      },
+      {
+        "id": "weact-dynamic-weight-switching-as-agent-actions",
+        "label": "WeAct: Dynamic Weight Switching as Agent Actions"
+      },
+      {
+        "id": "newton-based-methods-for-bilevel-optimization-beyond-lower-level-strong-convexit",
+        "label": "Newton-Based Methods for Bilevel Optimization Beyond Lower-Level Strong Convexit"
+      },
+      {
+        "id": "same-simulation-different-evidence-where-retrieved-tool-output-costs-llm-agents",
+        "label": "Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agent"
+      },
+      {
+        "id": "text-to-image-generative-modeling-without-language-pretraining",
+        "label": "Text-to-Image Generative Modeling Without Language Pretraining"
+      },
+      {
+        "id": "kronecker-delta-rule-for-long-context-linear-attention",
+        "label": "Kronecker Delta Rule for Long Context Linear Attention"
+      },
+      {
+        "id": "latcomm-reusable-context-compression-for-latent-communication-between-large-lang",
+        "label": "LatComm: Reusable Context Compression for Latent Communication between Large Lan"
+      },
+      {
+        "id": "openvlharness-real-world-visual-agentic-tool-use-with-multimodal-memory",
+        "label": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory"
+      },
+      {
+        "id": "maxwell-a-new-kind-of-model-that-sits-between-code-and-hardware",
+        "label": "Maxwell: A new kind of model that sits between code and hardware"
+      },
+      {
+        "id": "go-will-reject-certificate-chains-containing-eight-distrusted-spkis",
+        "label": "Go will reject certificate chains containing eight distrusted SPKIs"
+      },
+      {
+        "id": "launch-hn-laminar-yc-s24-rl-trained-model-that-finds-errors-in-agent-traces",
+        "label": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces"
       },
       {
         "id": "harness2-by-google-research-recursive-agent-harnessing",
         "label": "Harness2 by Google Research – Recursive Agent Harnessing"
       },
       {
+        "id": "agentic-monitoring",
+        "label": "Agentic Monitoring"
+      },
+      {
         "id": "show-hn-kividb-a-faster-redis-compatible-memory-database-and-vector-cache",
         "label": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache"
+      },
+      {
+        "id": "show-hn-lights-on-software-factory-boilerplate-for-claude-code",
+        "label": "Show HN: Lights-on software factory boilerplate for Claude Code"
       }
     ],
     "date_bj": "2026-10-20 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-20 00:01:54"
+    "generated_at_bj": "2026-10-20 16:05:07"
   }
 }
