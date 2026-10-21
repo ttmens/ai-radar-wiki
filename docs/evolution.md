@@ -20,6 +20,13 @@
 
 ## 运行日志
 
+## [2026-10-21 08:04] Evolution Run
+- Deprecated: 1 nodes
+- Pillar distribution: {'capabilities': 3238, 'ecosystem': 639, 'business': 458, 'patterns': 883, 'unknown': 4}
+- Top tags: {'capabilities': 3153, 'discussion': 2129, 'hacker-news': 2129, 'news': 1264, 'techcrunch': 1264}
+  🗑️ Deprecated: show-hn-anypost-transactional-and-broadcast-email-api-8-per-1k.md (91d old, score=0.12)  📊 1 nodes deprecated (90d+ and score < 0.15)
+
+
 ## [2026-10-20 18:02] Evolution Run
 - Deprecated: 0 nodes
 - Pillar distribution: {'capabilities': 3220, 'ecosystem': 635, 'business': 457, 'patterns': 882, 'unknown': 4}

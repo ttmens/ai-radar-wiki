@@ -1,0 +1,180 @@
+{
+  "daily_summary": {
+    "date": "2026-10-21",
+    "headline": "今日 AI 情报 · 2026-10-21",
+    "overview": "AI商业动态：资本与市场持续升温",
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "今日🤖 技术能力方向的核心信号集中在安全/漏洞。",
+        "evidence": [
+          {
+            "id": "facebook-pages-require-paid-subscription-to-post-more-than-two-links-per-month",
+            "title": "Facebook Pages require paid subscription to post more than two links p",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=50167536",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日📱 产品模式方向有新的动态。",
+        "evidence": [
+          {
+            "id": "chatgpt-now-lets-you-lock-your-chats",
+            "title": "ChatGPT now lets you lock your chats",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向有新的动态。",
+        "evidence": [
+          {
+            "id": "google-has-joined-amazon-in-attacking-nvidia8217s-stronghold-with-ai-app-develop",
+            "title": "Google has joined Amazon in attacking Nvidia&#8217;s stronghold with A",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "evidence": [
+          {
+            "id": "anthropics-cloud-partnerships-are-getting-messy",
+            "title": "Anthropic’s cloud partnerships are getting messy",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      }
+    ],
+    "narratives": [
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日1条情报涉及AI商业动态。包括：Anthropic’s cloud partnerships are getti。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
+      }
+    ],
+    "stats": "🤖 技术能力: 18 | 💰 商业趋势: 1 | 🔧 工具生态: 4 | 📱 产品模式: 1",
+    "total_items": 24,
+    "high_value_count": 20,
+    "all_today_ids": [
+      {
+        "id": "facebook-pages-require-paid-subscription-to-post-more-than-two-links-per-month",
+        "label": "Facebook Pages require paid subscription to post more than two links per month"
+      },
+      {
+        "id": "publish-fake-stats-get-cited-in-llms",
+        "label": "Publish fake stats, get cited in LLMs"
+      },
+      {
+        "id": "nixos-is-making-me-less-afraid",
+        "label": "NixOS is making me less afraid"
+      },
+      {
+        "id": "anthropics-cloud-partnerships-are-getting-messy",
+        "label": "Anthropic’s cloud partnerships are getting messy"
+      },
+      {
+        "id": "anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-ki",
+        "label": "Anthropic pitches AI safety bill that may block a model if 50+ people could be k"
+      },
+      {
+        "id": "plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher",
+        "label": "Plants can speak using electricity, so this startup built an AI model to deciphe"
+      },
+      {
+        "id": "openai-acquires-startup-orchestra-bio-to-beef-up-its-biotech-business",
+        "label": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business"
+      },
+      {
+        "id": "spacex8217s-ai-business-is-beating-expectations",
+        "label": "SpaceX&#8217;s AI business is beating expectations"
+      },
+      {
+        "id": "meta8217s-muse-hits-10m-us-downloads-in-40-days-a-milestone-reached-by-only-11-o",
+        "label": "Meta&#8217;s Muse hits 10M U.S. downloads in 40 days, a milestone reached by onl"
+      },
+      {
+        "id": "eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei",
+        "label": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei"
+      },
+      {
+        "id": "google-has-joined-amazon-in-attacking-nvidia8217s-stronghold-with-ai-app-develop",
+        "label": "Google has joined Amazon in attacking Nvidia&#8217;s stronghold with AI app deve"
+      },
+      {
+        "id": "eka-is-worth-145b-thanks-to-a-physical-ai-model-that-has-experts-raving",
+        "label": "Eka is worth $1.45B thanks to a physical AI model that has experts raving"
+      },
+      {
+        "id": "figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol",
+        "label": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol"
+      },
+      {
+        "id": "claude-designed-protein-binders-against-scorpion-neurotoxins",
+        "label": "Claude designed protein binders against scorpion neurotoxins"
+      },
+      {
+        "id": "otterai-raises-320-million-from-general-catalyst8217s-growth-fund-for-its-meetin",
+        "label": "Otter.ai raises $320 million from General Catalyst&#8217;s growth fund for its m"
+      },
+      {
+        "id": "making-a-88x31-button-book-using-imagemagick",
+        "label": "Making a 88x31 button book using ImageMagick"
+      },
+      {
+        "id": "hugging-face-ceo-warns-that-netflix8217s-openai-hack-documentary-isn8217t-accura",
+        "label": "Hugging Face CEO warns that Netflix&#8217;s OpenAI hack documentary isn&#8217;t"
+      },
+      {
+        "id": "chatgpt-now-lets-you-lock-your-chats",
+        "label": "ChatGPT now lets you lock your chats"
+      },
+      {
+        "id": "yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant",
+        "label": "Yelp can now call on your behalf to check wait times at a restaurant"
+      },
+      {
+        "id": "us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems",
+        "label": "US orders federal agencies to remove China’s DeepSeek AI from their systems"
+      },
+      {
+        "id": "anthropic-logged-net-loss-of-over-80b-in-first-half-of-2026",
+        "label": "Anthropic logged net loss of over $80B in first half of 2026"
+      },
+      {
+        "id": "show-hn-penmentor-claude-marks-up-your-handwritten-math-like-a-teacher",
+        "label": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher"
+      },
+      {
+        "id": "show-hn-flexchords-chords-for-any-youtube-song-from-a-model-i-trained",
+        "label": "Show HN: FlexChords – chords for any YouTube song, from a model I trained"
+      },
+      {
+        "id": "launch-hn-respan-yc-w24-open-source-rust-ai-gateway-built-around-plugins",
+        "label": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins"
+      }
+    ],
+    "date_bj": "2026-10-21 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-10-21 08:03:51"
+  }
+}

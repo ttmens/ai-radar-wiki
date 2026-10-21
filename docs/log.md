@@ -5543,3 +5543,29 @@
 - create: afd-leak-what-421179-hacked-emails-show-about-the-german-far-right.md
 - create: deepseek-just-open-sourced-its-inference-engine.md
 - create: restoration-of-retinal-regenerative-potential.md
+
+## [2026-10-21 08:04] sync v3 | 24 new | pillars: {'ecosystem': 4, 'capabilities': 18, 'business': 1, 'patterns': 1}
+- create: launch-hn-respan-yc-w24-open-source-rust-ai-gateway-built-around-plugins.md
+- create: claude-designed-protein-binders-against-scorpion-neurotoxins.md
+- create: facebook-pages-require-paid-subscription-to-post-more-than-two-links-per-month.md
+- create: publish-fake-stats-get-cited-in-llms.md
+- create: nixos-is-making-me-less-afraid.md
+- create: anthropic-logged-net-loss-of-over-80b-in-first-half-of-2026.md
+- create: show-hn-penmentor-claude-marks-up-your-handwritten-math-like-a-teacher.md
+- create: making-a-88x31-button-book-using-imagemagick.md
+- create: anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-ki.md
+- create: hugging-face-ceo-warns-that-netflix8217s-openai-hack-documentary-isn8217t-accura.md
+- create: anthropics-cloud-partnerships-are-getting-messy.md
+- create: spacex8217s-ai-business-is-beating-expectations.md
+- create: openai-acquires-startup-orchestra-bio-to-beef-up-its-biotech-business.md
+- create: google-has-joined-amazon-in-attacking-nvidia8217s-stronghold-with-ai-app-develop.md
+- create: chatgpt-now-lets-you-lock-your-chats.md
+- create: eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei.md
+- create: meta8217s-muse-hits-10m-us-downloads-in-40-days-a-milestone-reached-by-only-11-o.md
+- create: plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher.md
+- create: figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol.md
+- create: us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems.md
+- create: eka-is-worth-145b-thanks-to-a-physical-ai-model-that-has-experts-raving.md
+- create: yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant.md
+- create: otterai-raises-320-million-from-general-catalyst8217s-growth-fund-for-its-meetin.md
+- create: show-hn-flexchords-chords-for-any-youtube-song-from-a-model-i-trained.md

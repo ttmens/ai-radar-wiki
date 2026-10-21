@@ -1,33 +1,19 @@
 {
   "daily_summary": {
-    "date": "2026-10-20",
-    "headline": "今日 AI 情报 · 2026-10-20",
-    "overview": "AI Agent 工具链与协作流程快速成熟",
+    "date": "2026-10-21",
+    "headline": "今日 AI 情报 · 2026-10-21",
+    "overview": "AI商业动态：资本与市场持续升温",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 模型能力。",
+        "insight": "今日🤖 技术能力方向的核心信号集中在安全/漏洞。",
         "evidence": [
           {
-            "id": "train-an-imaginative-agent",
-            "title": "Train An Imaginative Agent",
-            "score": 0.3,
-            "url": "http://arxiv.org/abs/2610.26845v1",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "weact-dynamic-weight-switching-as-agent-actions",
-            "title": "WeAct: Dynamic Weight Switching as Agent Actions",
-            "score": 0.3,
-            "url": "http://arxiv.org/abs/2610.26847v1",
-            "reason": "里程碑式进展"
-          },
-          {
-            "id": "openvlharness-real-world-visual-agentic-tool-use-with-multimodal-memory",
-            "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memo",
-            "score": 0.3,
-            "url": "http://arxiv.org/abs/2610.26860v1",
+            "id": "facebook-pages-require-paid-subscription-to-post-more-than-two-links-per-month",
+            "title": "Facebook Pages require paid subscription to post more than two links p",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=50167536",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -36,41 +22,13 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent, 桌面/本地化。",
+        "insight": "今日📱 产品模式方向有新的动态。",
         "evidence": [
           {
-            "id": "runescape-bench-mmos-for-agents-video",
-            "title": "RuneScape Bench: MMOs for Agents [video]",
-            "score": 0.35,
-            "url": "https://news.ycombinator.com/item?id=50136126",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "microsoft-says-ai-agents-are-like-insider-threats-as-8216frontier-models-can8217",
-            "title": "Microsoft says AI agents are like insider threats as &#8216;frontier m",
+            "id": "chatgpt-now-lets-you-lock-your-chats",
+            "title": "ChatGPT now lets you lock your chats",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
-            "title": "Nvidia launches new open models to run agents in the enterprise and on",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "harness2-by-google-research-recursive-agent-harnessing",
-            "title": "Harness2 by Google Research – Recursive Agent Harnessing",
-            "score": 0.2,
-            "url": "https://news.ycombinator.com/item?id=50151059",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "agentic-monitoring",
-            "title": "Agentic Monitoring",
-            "score": 0.2,
-            "url": "https://news.ycombinator.com/item?id=50153225",
+            "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -82,10 +40,10 @@
         "insight": "今日🔧 工具生态方向有新的动态。",
         "evidence": [
           {
-            "id": "hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
-            "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI a",
+            "id": "google-has-joined-amazon-in-attacking-nvidia8217s-stronghold-with-ai-app-develop",
+            "title": "Google has joined Amazon in attacking Nvidia&#8217;s stronghold with A",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+            "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -97,10 +55,10 @@
         "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
         "evidence": [
           {
-            "id": "cern-and-mistral-sign-a-statement-of-intent-to-establish-a-strategic-partnership",
-            "title": "CERN and Mistral sign a statement of intent to establish a strategic p",
-            "score": 0.41,
-            "url": "https://news.ycombinator.com/item?id=50153630",
+            "id": "anthropics-cloud-partnerships-are-getting-messy",
+            "title": "Anthropic’s cloud partnerships are getting messy",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -109,208 +67,114 @@
     ],
     "narratives": [
       {
-        "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日7条情报涉及AI Agent及相关工具生态。典型项目包括：Microsoft says AI agents are like inside, Nvidia launches new open models to run a, People are using AI to make their smart 。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
-        "type": "paradigm_shift",
-        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
-      },
-      {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日2条情报涉及AI商业动态。包括：The obscure trust looming over Anthropic, Tenstorrent hits $6.2B valuation to scal。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日1条情报涉及AI商业动态。包括：Anthropic’s cloud partnerships are getti。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 30 | 💰 商业趋势: 4 | 📱 产品模式: 10 | 🔧 工具生态: 2",
-    "total_items": 46,
-    "high_value_count": 36,
+    "stats": "🤖 技术能力: 18 | 💰 商业趋势: 1 | 🔧 工具生态: 4 | 📱 产品模式: 1",
+    "total_items": 24,
+    "high_value_count": 20,
     "all_today_ids": [
       {
-        "id": "ask-hn-how-to-deal-with-shipping-ai-written-code-you-dont-understand",
-        "label": "Ask HN: How to deal with shipping AI-written code you don't understand?"
+        "id": "facebook-pages-require-paid-subscription-to-post-more-than-two-links-per-month",
+        "label": "Facebook Pages require paid subscription to post more than two links per month"
       },
       {
-        "id": "ukraine-claims-first-drone-evacuation-of-wounded-soldier",
-        "label": "Ukraine claims first drone evacuation of wounded soldier"
+        "id": "publish-fake-stats-get-cited-in-llms",
+        "label": "Publish fake stats, get cited in LLMs"
       },
       {
-        "id": "starcraft-ashfall",
-        "label": "Starcraft: Ashfall"
+        "id": "nixos-is-making-me-less-afraid",
+        "label": "NixOS is making me less afraid"
       },
       {
-        "id": "mercury-3-diffusion-at-scale",
-        "label": "Mercury 3: Diffusion at scale"
+        "id": "anthropics-cloud-partnerships-are-getting-messy",
+        "label": "Anthropic’s cloud partnerships are getting messy"
       },
       {
-        "id": "whatsapps-help-pages-hid-llm-instructions-dont-recommend-a-regulator",
-        "label": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator"
+        "id": "anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-ki",
+        "label": "Anthropic pitches AI safety bill that may block a model if 50+ people could be k"
       },
       {
-        "id": "cern-and-mistral-sign-a-statement-of-intent-to-establish-a-strategic-partnership",
-        "label": "CERN and Mistral sign a statement of intent to establish a strategic partnership"
+        "id": "plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher",
+        "label": "Plants can speak using electricity, so this startup built an AI model to deciphe"
       },
       {
-        "id": "the-obscure-trust-looming-over-anthropics-ipo",
-        "label": "The obscure trust looming over Anthropic's IPO"
+        "id": "openai-acquires-startup-orchestra-bio-to-beef-up-its-biotech-business",
+        "label": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business"
       },
       {
-        "id": "chicago-ohare-digs-up-50-ton-boulder-under-airfield-asks-public-for-name-ideas",
-        "label": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas"
+        "id": "spacex8217s-ai-business-is-beating-expectations",
+        "label": "SpaceX&#8217;s AI business is beating expectations"
       },
       {
-        "id": "how-abliterated-models-can-get-you-pwned",
-        "label": "How abliterated models can get you pwned"
+        "id": "meta8217s-muse-hits-10m-us-downloads-in-40-days-a-milestone-reached-by-only-11-o",
+        "label": "Meta&#8217;s Muse hits 10M U.S. downloads in 40 days, a milestone reached by onl"
       },
       {
-        "id": "runescape-bench-mmos-for-agents-video",
-        "label": "RuneScape Bench: MMOs for Agents [video]"
+        "id": "eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei",
+        "label": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei"
       },
       {
-        "id": "the-fire-retardant-in-the-seafood-chain",
-        "label": "The fire retardant in the seafood chain"
+        "id": "google-has-joined-amazon-in-attacking-nvidia8217s-stronghold-with-ai-app-develop",
+        "label": "Google has joined Amazon in attacking Nvidia&#8217;s stronghold with AI app deve"
       },
       {
-        "id": "hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
-        "label": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts"
+        "id": "eka-is-worth-145b-thanks-to-a-physical-ai-model-that-has-experts-raving",
+        "label": "Eka is worth $1.45B thanks to a physical AI model that has experts raving"
       },
       {
-        "id": "microsoft-says-ai-agents-are-like-insider-threats-as-8216frontier-models-can8217",
-        "label": "Microsoft says AI agents are like insider threats as &#8216;frontier models can&"
+        "id": "figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol",
+        "label": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol"
       },
       {
-        "id": "amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool",
-        "label": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool"
+        "id": "claude-designed-protein-binders-against-scorpion-neurotoxins",
+        "label": "Claude designed protein binders against scorpion neurotoxins"
       },
       {
-        "id": "nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
-        "label": "Nvidia launches new open models to run agents in the enterprise and on PCs"
+        "id": "otterai-raises-320-million-from-general-catalyst8217s-growth-fund-for-its-meetin",
+        "label": "Otter.ai raises $320 million from General Catalyst&#8217;s growth fund for its m"
       },
       {
-        "id": "embedded-ai-evaluators-won8217t-be-an-easy-solution-hugging-face8217s-policy-chi",
-        "label": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s pol"
+        "id": "making-a-88x31-button-book-using-imagemagick",
+        "label": "Making a 88x31 button book using ImageMagick"
       },
       {
-        "id": "show-hn-qwen3-4b-with-the-ai-writing-tics-trained-out",
-        "label": "Show HN: Qwen3-4B with the AI writing tics trained out"
+        "id": "hugging-face-ceo-warns-that-netflix8217s-openai-hack-documentary-isn8217t-accura",
+        "label": "Hugging Face CEO warns that Netflix&#8217;s OpenAI hack documentary isn&#8217;t"
       },
       {
-        "id": "tenstorrent-hits-62b-valuation-to-scale-open-weight-ai-chips",
-        "label": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips"
+        "id": "chatgpt-now-lets-you-lock-your-chats",
+        "label": "ChatGPT now lets you lock your chats"
       },
       {
-        "id": "replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago",
-        "label": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago"
+        "id": "yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant",
+        "label": "Yelp can now call on your behalf to check wait times at a restaurant"
       },
       {
-        "id": "lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation",
-        "label": "Let's Encrypt is adding two additional remote perspectives for domain validation"
+        "id": "us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems",
+        "label": "US orders federal agencies to remove China’s DeepSeek AI from their systems"
       },
       {
-        "id": "tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life",
-        "label": "Tolan snags $30M for its AI companion that helps users navigate life"
+        "id": "anthropic-logged-net-loss-of-over-80b-in-first-half-of-2026",
+        "label": "Anthropic logged net loss of over $80B in first half of 2026"
       },
       {
-        "id": "mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
-        "label": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back"
+        "id": "show-hn-penmentor-claude-marks-up-your-handwritten-math-like-a-teacher",
+        "label": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher"
       },
       {
-        "id": "nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45b-compute-deal",
-        "label": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal"
+        "id": "show-hn-flexchords-chords-for-any-youtube-song-from-a-model-i-trained",
+        "label": "Show HN: FlexChords – chords for any YouTube song, from a model I trained"
       },
       {
-        "id": "people-are-using-ai-to-make-their-smart-tvs-dumb-again",
-        "label": "People are using AI to make their smart TVs dumb again"
-      },
-      {
-        "id": "train-an-imaginative-agent",
-        "label": "Train An Imaginative Agent"
-      },
-      {
-        "id": "reinforcement-learning-with-visually-attributable-on-policy-self-distillation",
-        "label": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation"
-      },
-      {
-        "id": "where-is-physical-rsi-capability-from-an-observational-scaling-law-of-llm-as-pol",
-        "label": "Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-po"
-      },
-      {
-        "id": "anygoal-on-world-model-generalization-beyond-expert-rollouts",
-        "label": "AnyGoal: On World Model Generalization Beyond Expert Rollouts"
-      },
-      {
-        "id": "coopuq-robust-multi-robot-social-navigation-via-uncertainty-aware-cooperative-fo",
-        "label": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative F"
-      },
-      {
-        "id": "weact-dynamic-weight-switching-as-agent-actions",
-        "label": "WeAct: Dynamic Weight Switching as Agent Actions"
-      },
-      {
-        "id": "newton-based-methods-for-bilevel-optimization-beyond-lower-level-strong-convexit",
-        "label": "Newton-Based Methods for Bilevel Optimization Beyond Lower-Level Strong Convexit"
-      },
-      {
-        "id": "same-simulation-different-evidence-where-retrieved-tool-output-costs-llm-agents",
-        "label": "Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agent"
-      },
-      {
-        "id": "text-to-image-generative-modeling-without-language-pretraining",
-        "label": "Text-to-Image Generative Modeling Without Language Pretraining"
-      },
-      {
-        "id": "kronecker-delta-rule-for-long-context-linear-attention",
-        "label": "Kronecker Delta Rule for Long Context Linear Attention"
-      },
-      {
-        "id": "latcomm-reusable-context-compression-for-latent-communication-between-large-lang",
-        "label": "LatComm: Reusable Context Compression for Latent Communication between Large Lan"
-      },
-      {
-        "id": "openvlharness-real-world-visual-agentic-tool-use-with-multimodal-memory",
-        "label": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory"
-      },
-      {
-        "id": "maxwell-a-new-kind-of-model-that-sits-between-code-and-hardware",
-        "label": "Maxwell: A new kind of model that sits between code and hardware"
-      },
-      {
-        "id": "go-will-reject-certificate-chains-containing-eight-distrusted-spkis",
-        "label": "Go will reject certificate chains containing eight distrusted SPKIs"
-      },
-      {
-        "id": "launch-hn-laminar-yc-s24-rl-trained-model-that-finds-errors-in-agent-traces",
-        "label": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces"
-      },
-      {
-        "id": "afd-leak-what-421179-hacked-emails-show-about-the-german-far-right",
-        "label": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right"
-      },
-      {
-        "id": "harness2-by-google-research-recursive-agent-harnessing",
-        "label": "Harness2 by Google Research – Recursive Agent Harnessing"
-      },
-      {
-        "id": "restoration-of-retinal-regenerative-potential",
-        "label": "Restoration of Retinal Regenerative Potential"
-      },
-      {
-        "id": "agentic-monitoring",
-        "label": "Agentic Monitoring"
-      },
-      {
-        "id": "deepseek-just-open-sourced-its-inference-engine",
-        "label": "DeepSeek just open-sourced its inference engine"
-      },
-      {
-        "id": "show-hn-kividb-a-faster-redis-compatible-memory-database-and-vector-cache",
-        "label": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache"
-      },
-      {
-        "id": "show-hn-lights-on-software-factory-boilerplate-for-claude-code",
-        "label": "Show HN: Lights-on software factory boilerplate for Claude Code"
+        "id": "launch-hn-respan-yc-w24-open-source-rust-ai-gateway-built-around-plugins",
+        "label": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins"
       }
     ],
-    "date_bj": "2026-10-20 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-20 18:01:52"
+    "date_bj": "2026-10-21 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-10-21 08:03:51"
   }
 }

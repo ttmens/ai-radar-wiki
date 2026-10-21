@@ -1,6 +1,7 @@
 ---
 title: Show HN: Anypost – transactional and broadcast email API, 8¢ per 1k
 created: 2026-07-22
+deprecated: true
 updated: 2026-07-22
 type: entity
 pillar: ecosystem
