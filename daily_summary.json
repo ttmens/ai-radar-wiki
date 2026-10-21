@@ -1,8 +1,8 @@
 {
   "daily_summary": {
-    "date": "2026-10-21",
-    "headline": "今日 AI 情报 · 2026-10-21",
-    "overview": "AI商业动态：资本与市场持续升温",
+    "date": "2026-10-22",
+    "headline": "今日 AI 情报 · 2026-10-22",
+    "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -10,10 +10,10 @@
         "insight": "今日🤖 技术能力方向的核心信号集中在安全/漏洞。",
         "evidence": [
           {
-            "id": "facebook-pages-require-paid-subscription-to-post-more-than-two-links-per-month",
-            "title": "Facebook Pages require paid subscription to post more than two links p",
-            "score": 0.46,
-            "url": "https://news.ycombinator.com/item?id=50167536",
+            "id": "php2shell-ai-uncovers-critical-rce-in-php",
+            "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+            "score": 0.41,
+            "url": "https://news.ycombinator.com/item?id=50180836",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -22,13 +22,34 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "今日📱 产品模式方向有新的动态。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
         "evidence": [
           {
-            "id": "chatgpt-now-lets-you-lock-your-chats",
-            "title": "ChatGPT now lets you lock your chats",
+            "id": "patch-the-planet-global-response-coordination-as-agents-uncover-vulnerabilities",
+            "title": "Patch the Planet: global response coordination as agents uncover vulne",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+            "url": "https://news.ycombinator.com/item?id=50181175",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "gbclaw-an-agentic-ai-framework-for-atomistic-grain-boundary-research-and-mechani",
+            "title": "GBClaw: An agentic AI framework for atomistic grain boundary research ",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2610.28629v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "layerfs-the-filesystem-for-ai-coding-agents",
+            "title": "LayerFS: The filesystem for AI coding agents",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=50179857",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "using-thousands-of-ai-agents-to-uncover-new-leads-in-biological-data",
+            "title": "Using thousands of AI agents to uncover new leads in biological data",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=50180752",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -37,29 +58,14 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "今日🔧 工具生态方向有新的动态。",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：AI Agent, 融资/投资。",
         "evidence": [
           {
-            "id": "google-has-joined-amazon-in-attacking-nvidia8217s-stronghold-with-ai-app-develop",
-            "title": "Google has joined Amazon in attacking Nvidia&#8217;s stronghold with A",
+            "id": "ai-promises-productivity-but-for-managers-it8217s-mostly-a-headache-for-now",
+            "title": "AI promises productivity, but for managers, it&#8217;s mostly a headac",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          }
-        ],
-        "trend": "new"
-      },
-      {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
-        "evidence": [
-          {
-            "id": "anthropics-cloud-partnerships-are-getting-messy",
-            "title": "Anthropic’s cloud partnerships are getting messy",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
+            "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+            "reason": "里程碑式进展"
           }
         ],
         "trend": "new"
@@ -67,114 +73,116 @@
     ],
     "narratives": [
       {
+        "title": "AI Agent 工具链与协作流程快速成熟",
+        "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：GBClaw: An agentic AI framework for atom, Semantic Observability for Autonomous Sy, Using thousands of AI agents to uncover 。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "type": "paradigm_shift",
+        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      },
+      {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日1条情报涉及AI商业动态。包括：Anthropic’s cloud partnerships are getti。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日1条情报涉及AI商业动态。包括：Value-Rich, Differently Organized: Measu。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 18 | 💰 商业趋势: 1 | 🔧 工具生态: 4 | 📱 产品模式: 1",
-    "total_items": 24,
-    "high_value_count": 20,
+    "stats": "🤖 技术能力: 15 | 📱 产品模式: 4 | 🔧 工具生态: 4",
+    "total_items": 23,
+    "high_value_count": 19,
     "all_today_ids": [
       {
-        "id": "facebook-pages-require-paid-subscription-to-post-more-than-two-links-per-month",
-        "label": "Facebook Pages require paid subscription to post more than two links per month"
+        "id": "php2shell-ai-uncovers-critical-rce-in-php",
+        "label": "PHP2Shell: AI uncovers critical RCE in PHP"
       },
       {
-        "id": "publish-fake-stats-get-cited-in-llms",
-        "label": "Publish fake stats, get cited in LLMs"
+        "id": "using-claude-to-reduce-the-attack-surface-of-code",
+        "label": "Using Claude to reduce the attack surface of code"
       },
       {
-        "id": "nixos-is-making-me-less-afraid",
-        "label": "NixOS is making me less afraid"
+        "id": "in-hilbert-space-all-things-are-quantumly-possible",
+        "label": "In Hilbert space, all things are quantumly possible"
       },
       {
-        "id": "anthropics-cloud-partnerships-are-getting-messy",
-        "label": "Anthropic’s cloud partnerships are getting messy"
+        "id": "patch-the-planet-global-response-coordination-as-agents-uncover-vulnerabilities",
+        "label": "Patch the Planet: global response coordination as agents uncover vulnerabilities"
       },
       {
-        "id": "anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-ki",
-        "label": "Anthropic pitches AI safety bill that may block a model if 50+ people could be k"
+        "id": "ex-nvidia-turned-vc-amulya-vishwanath-8216physical-ai-is-in-its-lego-era8217",
+        "label": "Ex-Nvidia-turned-VC Amulya Vishwanath: &#8216;Physical AI is in its LEGO era&#82"
       },
       {
-        "id": "plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher",
-        "label": "Plants can speak using electricity, so this startup built an AI model to deciphe"
+        "id": "ai-promises-productivity-but-for-managers-it8217s-mostly-a-headache-for-now",
+        "label": "AI promises productivity, but for managers, it&#8217;s mostly a headache for now"
       },
       {
-        "id": "openai-acquires-startup-orchestra-bio-to-beef-up-its-biotech-business",
-        "label": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business"
+        "id": "show-hn-jev-cards-can-you-beat-a-vision-model-at-a-picture-quiz",
+        "label": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?"
       },
       {
-        "id": "spacex8217s-ai-business-is-beating-expectations",
-        "label": "SpaceX&#8217;s AI business is beating expectations"
+        "id": "efficient-edge-aware-attention-network-for-graph-generation",
+        "label": "Efficient Edge-aware Attention Network for Graph Generation"
       },
       {
-        "id": "meta8217s-muse-hits-10m-us-downloads-in-40-days-a-milestone-reached-by-only-11-o",
-        "label": "Meta&#8217;s Muse hits 10M U.S. downloads in 40 days, a milestone reached by onl"
+        "id": "value-rich-differently-organized-measuring-value-expression-and-organization-in",
+        "label": "Value-Rich, Differently Organized: Measuring Value Expression and Organization i"
       },
       {
-        "id": "eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei",
-        "label": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei"
+        "id": "gbclaw-an-agentic-ai-framework-for-atomistic-grain-boundary-research-and-mechani",
+        "label": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechan"
       },
       {
-        "id": "google-has-joined-amazon-in-attacking-nvidia8217s-stronghold-with-ai-app-develop",
-        "label": "Google has joined Amazon in attacking Nvidia&#8217;s stronghold with AI app deve"
+        "id": "learning-adaptable-dexterous-skills-via-hybrid-dexterous-mimicking",
+        "label": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking"
       },
       {
-        "id": "eka-is-worth-145b-thanks-to-a-physical-ai-model-that-has-experts-raving",
-        "label": "Eka is worth $1.45B thanks to a physical AI model that has experts raving"
+        "id": "adaptive-multi-token-prediction-how-far-should-we-go",
+        "label": "Adaptive Multi-Token Prediction: How far should we go?"
       },
       {
-        "id": "figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol",
-        "label": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol"
+        "id": "industrial-remembr-scaling-spatiotemporal-memory-to-robot-fleets",
+        "label": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets"
       },
       {
-        "id": "claude-designed-protein-binders-against-scorpion-neurotoxins",
-        "label": "Claude designed protein binders against scorpion neurotoxins"
+        "id": "mindview-benchmarking-generative-multi-view-spatial-intelligence",
+        "label": "MindView: Benchmarking Generative Multi-View Spatial Intelligence"
       },
       {
-        "id": "otterai-raises-320-million-from-general-catalyst8217s-growth-fund-for-its-meetin",
-        "label": "Otter.ai raises $320 million from General Catalyst&#8217;s growth fund for its m"
+        "id": "planning-under-noise-with-neural-operators",
+        "label": "Planning under Noise with Neural Operators"
       },
       {
-        "id": "making-a-88x31-button-book-using-imagemagick",
-        "label": "Making a 88x31 button book using ImageMagick"
+        "id": "benchmarking-arabic-dialects-for-math-problems",
+        "label": "Benchmarking Arabic Dialects for Math Problems"
       },
       {
-        "id": "hugging-face-ceo-warns-that-netflix8217s-openai-hack-documentary-isn8217t-accura",
-        "label": "Hugging Face CEO warns that Netflix&#8217;s OpenAI hack documentary isn&#8217;t"
+        "id": "uniwalm-unified-world-action-language-model-for-embodied-robot-control",
+        "label": "UniWALM: Unified World Action Language Model for Embodied Robot Control"
       },
       {
-        "id": "chatgpt-now-lets-you-lock-your-chats",
-        "label": "ChatGPT now lets you lock your chats"
+        "id": "semantic-observability-for-autonomous-systems-diagnostics",
+        "label": "Semantic Observability for Autonomous Systems Diagnostics"
       },
       {
-        "id": "yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant",
-        "label": "Yelp can now call on your behalf to check wait times at a restaurant"
+        "id": "joints-camera-action-co-generating-3d-motion-and-video-for-arbitrary-rigs",
+        "label": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs"
       },
       {
-        "id": "us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems",
-        "label": "US orders federal agencies to remove China’s DeepSeek AI from their systems"
+        "id": "compromised-litellm-11070-on-pypi-installs-a-credential-stealer-and-backdoor",
+        "label": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor"
       },
       {
-        "id": "anthropic-logged-net-loss-of-over-80b-in-first-half-of-2026",
-        "label": "Anthropic logged net loss of over $80B in first half of 2026"
+        "id": "good-type-against-all-odds",
+        "label": "Good type against all odds"
       },
       {
-        "id": "show-hn-penmentor-claude-marks-up-your-handwritten-math-like-a-teacher",
-        "label": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher"
+        "id": "layerfs-the-filesystem-for-ai-coding-agents",
+        "label": "LayerFS: The filesystem for AI coding agents"
       },
       {
-        "id": "show-hn-flexchords-chords-for-any-youtube-song-from-a-model-i-trained",
-        "label": "Show HN: FlexChords – chords for any YouTube song, from a model I trained"
-      },
-      {
-        "id": "launch-hn-respan-yc-w24-open-source-rust-ai-gateway-built-around-plugins",
-        "label": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins"
+        "id": "using-thousands-of-ai-agents-to-uncover-new-leads-in-biological-data",
+        "label": "Using thousands of AI agents to uncover new leads in biological data"
       }
     ],
-    "date_bj": "2026-10-21 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-21 08:03:51"
+    "date_bj": "2026-10-22 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-10-22 00:04:03"
   }
 }

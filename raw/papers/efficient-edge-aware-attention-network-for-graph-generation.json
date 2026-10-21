@@ -1,0 +1,26 @@
+{
+  "title": "Efficient Edge-aware Attention Network for Graph Generation",
+  "summary": "Graph generative models commonly use graph-specific Transformer architectures to jointly update node and edge features. However, these architectures do not directly benefit from recent hardware-aware attention implementations, limiting their scalability. The adaptation is, however, non-trivial: edge and graph-level features must be injected into pairwise attention scores, graph masks must be respected, and dynamic edge updates remain a major source of quadratic memory usage. We propose an edge-aware attention layer for graph generation that incorporates structural information through head-wise score modulation, while updating edge representations with a lightweight residual mechanism that retains attention-score dependent edge updates. This layer can be effectively implemented using PyTorch's FlexAttention. We achieve similar generation quality to our baseline while reducing peak GPU memory by around 65% and substantially improving training and sampling throughput. These results suggest that the proposed architecture is a practical step toward scalable graph foundation models.",
+  "url": "http://arxiv.org/abs/2610.28618v1",
+  "authors": [
+    "Vincent Jung",
+    "Alba Carballo-Castro",
+    "Yiming Qin",
+    "Lonneke van der Plas",
+    "Pascal Frossard"
+  ],
+  "published": "2026-10-20T17:56:05Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "throughput",
+    "training",
+    "transformer",
+    "attention"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

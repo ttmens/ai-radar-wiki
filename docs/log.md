@@ -5569,3 +5569,28 @@
 - create: yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant.md
 - create: otterai-raises-320-million-from-general-catalyst8217s-growth-fund-for-its-meetin.md
 - create: show-hn-flexchords-chords-for-any-youtube-song-from-a-model-i-trained.md
+
+## [2026-10-22 00:04] sync v3 | 23 new | pillars: {'capabilities': 15, 'patterns': 4, 'ecosystem': 4}
+- create: joints-camera-action-co-generating-3d-motion-and-video-for-arbitrary-rigs.md
+- create: gbclaw-an-agentic-ai-framework-for-atomistic-grain-boundary-research-and-mechani.md
+- create: learning-adaptable-dexterous-skills-via-hybrid-dexterous-mimicking.md
+- create: uniwalm-unified-world-action-language-model-for-embodied-robot-control.md
+- create: industrial-remembr-scaling-spatiotemporal-memory-to-robot-fleets.md
+- create: planning-under-noise-with-neural-operators.md
+- create: mindview-benchmarking-generative-multi-view-spatial-intelligence.md
+- create: adaptive-multi-token-prediction-how-far-should-we-go.md
+- create: efficient-edge-aware-attention-network-for-graph-generation.md
+- create: semantic-observability-for-autonomous-systems-diagnostics.md
+- create: benchmarking-arabic-dialects-for-math-problems.md
+- create: value-rich-differently-organized-measuring-value-expression-and-organization-in.md
+- create: php2shell-ai-uncovers-critical-rce-in-php.md
+- create: compromised-litellm-11070-on-pypi-installs-a-credential-stealer-and-backdoor.md
+- create: patch-the-planet-global-response-coordination-as-agents-uncover-vulnerabilities.md
+- create: using-thousands-of-ai-agents-to-uncover-new-leads-in-biological-data.md
+- create: layerfs-the-filesystem-for-ai-coding-agents.md
+- create: good-type-against-all-odds.md
+- create: in-hilbert-space-all-things-are-quantumly-possible.md
+- create: using-claude-to-reduce-the-attack-surface-of-code.md
+- create: ai-promises-productivity-but-for-managers-it8217s-mostly-a-headache-for-now.md
+- create: ex-nvidia-turned-vc-amulya-vishwanath-8216physical-ai-is-in-its-lego-era8217.md
+- create: show-hn-jev-cards-can-you-beat-a-vision-model-at-a-picture-quiz.md
