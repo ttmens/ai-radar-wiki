@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-22 | Total pages: 5340
+> Last updated: 2026-10-22 | Total pages: 5342
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -156,6 +156,7 @@
 - [[ai-tools-are-only-as-good-as-your-judgment.md]] AI tools are only as good as your judgment `pillar:capabilities` `score:0.43`
 - [[ai-will-be-used-to-estimate-age-of-asylum-seekers-from-next-year.md]] AI will be used to estimate age of asylum seekers from next year `pillar:capabilities` `score:0.345`
 - [[airbnb-adds-ai-search-more-social-features.md]] Airbnb adds AI search, more social features `pillar:capabilities` `score:0.305`
+- [[airbnb-bans-making-guests-do-dishes-and-take-out-the-trash.md]] Airbnb bans making guests do dishes and take out the trash `pillar:capabilities` `score:0.375`
 - [[airllm-70b-inference-with-single-4gb-gpu.md]] AirLLM 70B inference with single 4GB GPU `pillar:capabilities` `score:0.53`
 - [[airplane-boneyards-list-and-map.md]] Airplane Boneyards List and Map `pillar:capabilities` `score:0.17`
 - [[airpods-5.md]] AirPods 5 `pillar:capabilities` `score:0.455`
@@ -437,6 +438,7 @@
 - [[claude-is-no-longer-available-for-minors.md]] Claude is no longer available for minors `pillar:capabilities` `score:0.455`
 - [[claude-is-not-a-compiler.md]] Claude Is Not a Compiler `pillar:capabilities` `score:0.48`
 - [[claude-is-not-your-architect-stop-letting-it-pretend.md]] Claude is not your architect. Stop letting it pretend `pillar:capabilities` `score:0.6`
+- [[claude-now-works-with-google-docs-sheets-and-slides.md]] Claude Now Works with Google Docs, Sheets, and Slides `pillar:capabilities` `score:0.155`
 - [[claude-opus-48.md]] Claude Opus 4.8 `pillar:capabilities` `score:0.68`
 - [[claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machi.md]] Claude Opus 5 became downright ruthless when tasked with running a vending machi `pillar:capabilities` `score:0.445`
 - [[claude-opus-5.md]] Claude Opus 5 `pillar:capabilities` `score:0.645`

@@ -5628,3 +5628,7 @@
 - create: show-hn-ai-built-browser-games-collected-in-one-place.md
 - create: show-hn-i-built-a-markdown-and-raw-html-blog-platform-scoring-99-on-pagespeed.md
 - create: show-hn-computer-use-on-the-phone-itself-a-2b-model-that-operates-android-apps.md
+
+## [2026-10-22 18:02] sync v3 | 2 new | pillars: {'capabilities': 2}
+- create: airbnb-bans-making-guests-do-dishes-and-take-out-the-trash.md
+- create: claude-now-works-with-google-docs-sheets-and-slides.md

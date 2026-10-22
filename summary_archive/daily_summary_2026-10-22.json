@@ -86,7 +86,7 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资, AI Agent。",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：AI Agent, 融资/投资。",
         "evidence": [
           {
             "id": "multimodal-embodied-agents-a-unified-capability-centric-perspective-from-compute",
@@ -128,9 +128,9 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 37 | 🔧 工具生态: 8 | 💰 商业趋势: 2 | 📱 产品模式: 8",
-    "total_items": 55,
-    "high_value_count": 41,
+    "stats": "🤖 技术能力: 39 | 🔧 工具生态: 8 | 💰 商业趋势: 2 | 📱 产品模式: 8",
+    "total_items": 57,
+    "high_value_count": 42,
     "all_today_ids": [
       {
         "id": "claude-duet",
@@ -147,6 +147,10 @@
       {
         "id": "php2shell-ai-uncovers-critical-rce-in-php",
         "label": "PHP2Shell: AI uncovers critical RCE in PHP"
+      },
+      {
+        "id": "airbnb-bans-making-guests-do-dishes-and-take-out-the-trash",
+        "label": "Airbnb bans making guests do dishes and take out the trash"
       },
       {
         "id": "using-claude-to-reduce-the-attack-surface-of-code",
@@ -351,9 +355,13 @@
       {
         "id": "show-hn-computer-use-on-the-phone-itself-a-2b-model-that-operates-android-apps",
         "label": "Show HN: Computer use on the phone itself: a 2B model that operates Android apps"
+      },
+      {
+        "id": "claude-now-works-with-google-docs-sheets-and-slides",
+        "label": "Claude Now Works with Google Docs, Sheets, and Slides"
       }
     ],
     "date_bj": "2026-10-22 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-22 16:05:16"
+    "generated_at_bj": "2026-10-22 18:02:04"
   }
 }

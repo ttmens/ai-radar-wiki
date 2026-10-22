@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T16:05:54.100924+08:00",
-  "item_count": 41,
+  "generated_at": "2026-10-22T18:02:35.862270+08:00",
+  "item_count": 42,
   "items": [
     {
       "id": "claude-duet",
@@ -45,6 +45,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=50180836",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "airbnb-bans-making-guests-do-dishes-and-take-out-the-trash",
+      "label": "Airbnb bans making guests do dishes and take out the trash",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.375,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50189150",
       "date": "2026-10-22"
     },
     {
@@ -456,7 +467,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 9755,
-    "edges": 10733
+    "real_nodes": 9757,
+    "edges": 10735
   }
 }
