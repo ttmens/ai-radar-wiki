@@ -5594,3 +5594,37 @@
 - create: ai-promises-productivity-but-for-managers-it8217s-mostly-a-headache-for-now.md
 - create: ex-nvidia-turned-vc-amulya-vishwanath-8216physical-ai-is-in-its-lego-era8217.md
 - create: show-hn-jev-cards-can-you-beat-a-vision-model-at-a-picture-quiz.md
+
+## [2026-10-22 16:05] sync v3 | 33 new | pillars: {'ecosystem': 4, 'capabilities': 23, 'business': 2, 'patterns': 4}
+- create: dipakkrawesome-ai-engineering.md
+- create: ai-job-search-devai-job-search.md
+- create: longzero-enhancing-long-context-reasoning-in-llms-from-zero-data.md
+- create: think-harder-where-it-matters-item-level-adaptive-recursion-for-sequential-recom.md
+- create: physicalworld-in-context-physics-calibration-for-world-models.md
+- create: a-quasipolynomial-algorithm-for-ell_infty-contractions.md
+- create: self-normalized-bernstein-inequalities-for-regenerative-processes-and-applicatio.md
+- create: the-role-of-locality-and-weight-sharing-in-convolutional-neural-networks.md
+- create: environment-duels-a-microcosm-of-llm-co-evolution.md
+- create: the-end-of-consensus-research.md
+- create: quant-arena-benchmarking-llm-agents-for-quantitative-trading-research.md
+- create: minimax-optimality-of-the-npmle-for-gaussian-mixtures-in-hellinger-distance.md
+- create: multimodal-embodied-agents-a-unified-capability-centric-perspective-from-compute.md
+- create: velocity-ambiguity-profiles-time-resolved-bayes-risk-diagnostics-for-flow-matchi.md
+- create: openai-cli.md
+- create: worldtui-i-trained-a-360m-model-to-pretend-to-be-a-terminal.md
+- create: using-llm-for-confidence-scoring-is-a-bad-idea.md
+- create: show-hn-omnara-open-source-alternative-to-claude-managed-agents.md
+- create: chain-of-thought-for-humans.md
+- create: launch-hn-alter-yc-s25-access-control-for-multi-user-agents.md
+- create: cloudflare-deploys-protections-against-php2shell-vulnerability.md
+- create: claude-duet.md
+- create: the-bridge-to-agent-scale-git-infrastructure.md
+- create: blackstone8217s-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown.md
+- create: meta-says-muse-has-over-10m-users-with-shopping-a-top-activity.md
+- create: recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai.md
+- create: while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat.md
+- create: php-armageddon-openai-google8217s-wiz-find-ancient-holes-panicking-the-internet.md
+- create: blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c.md
+- create: show-hn-ai-built-browser-games-collected-in-one-place.md
+- create: show-hn-i-built-a-markdown-and-raw-html-blog-platform-scoring-99-on-pagespeed.md
+- create: show-hn-computer-use-on-the-phone-itself-a-2b-model-that-operates-android-apps.md

@@ -1,0 +1,20 @@
+{
+  "title": "A Quasipolynomial Algorithm for $\\ell_\\infty$ Contractions",
+  "summary": "We give an algorithm for computing an $\\eps$-approximate fixed point of any $d$-dimensional nonexpansion with respect to the $\\ell_\\infty$ norm in time $\\log(1/\\eps)^{O(\\log^2 d)}$. At its core, our method uses a boosting argument to geometrically shrink a search region. Among other consequences, our algorithm implies that simple stochastic games can be solved in quasipolynomial time.",
+  "url": "http://arxiv.org/abs/2610.30122v1",
+  "authors": [
+    "Ashkan Soleymani",
+    "Gabriele Farina"
+  ],
+  "published": "2026-10-21T17:57:19Z",
+  "tag": "Paper",
+  "pillar": "business",
+  "pillar_keywords": [
+    "ipo"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

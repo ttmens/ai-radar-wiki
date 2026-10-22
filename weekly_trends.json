@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T00:04:38.310558+08:00",
+  "generated_at": "2026-10-22T16:05:53.744051+08:00",
   "days_analyzed": 149,
   "pillar_trends": {
     "capabilities": {
@@ -11,8 +11,8 @@
     },
     "patterns": {
       "trend": "up",
-      "delta": 3,
-      "current": 4,
+      "delta": 7,
+      "current": 8,
       "previous": 1,
       "has_data": true
     },
@@ -24,11 +24,11 @@
       "has_data": true
     },
     "business": {
-      "trend": "down",
-      "delta": -1,
-      "current": 0,
+      "trend": "stable",
+      "delta": 0,
+      "current": 1,
       "previous": 1,
-      "has_data": false
+      "has_data": true
     }
   },
   "narrative_chains": [
@@ -1734,7 +1734,7 @@
         {
           "date": "2026-10-22",
           "title": "AI Agent 工具链与协作流程快速成熟",
-          "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：GBClaw: An agentic AI framework for atom, Semantic Observability for Autonomous Sy, Using thousands of AI agents to uncover 。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "body": "今日5条情报涉及AI Agent及相关工具生态。典型项目包括：dipakkr/awesome-ai-engineering, While Amazon blocks AI agents, Walmart r, GBClaw: An agentic AI framework for atom。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
           "type": "paradigm_shift",
           "evidence": [
             {
@@ -1746,6 +1746,14 @@
               "pillar": "patterns"
             },
             {
+              "id": "while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
+              "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+              "reason": "里程碑式进展",
+              "pillar": "patterns"
+            },
+            {
               "id": "gbclaw-an-agentic-ai-framework-for-atomistic-grain-boundary-research-and-mechani",
               "title": "GBClaw: An agentic AI framework for atomistic grain boundary research ",
               "score": 0.3,
@@ -1754,18 +1762,18 @@
               "pillar": "patterns"
             },
             {
-              "id": "layerfs-the-filesystem-for-ai-coding-agents",
-              "title": "LayerFS: The filesystem for AI coding agents",
-              "score": 0.2,
-              "url": "https://news.ycombinator.com/item?id=50179857",
+              "id": "show-hn-omnara-open-source-alternative-to-claude-managed-agents",
+              "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+              "score": 0.26,
+              "url": "https://news.ycombinator.com/item?id=50183892",
               "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "patterns"
             },
             {
-              "id": "using-thousands-of-ai-agents-to-uncover-new-leads-in-biological-data",
-              "title": "Using thousands of AI agents to uncover new leads in biological data",
-              "score": 0.15,
-              "url": "https://news.ycombinator.com/item?id=50180752",
+              "id": "launch-hn-alter-yc-s25-access-control-for-multi-user-agents",
+              "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+              "score": 0.26,
+              "url": "https://news.ycombinator.com/item?id=50176908",
               "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "patterns"
             }
@@ -2806,15 +2814,15 @@
         {
           "date": "2026-10-22",
           "title": "AI商业动态：资本与市场持续升温",
-          "body": "今日1条情报涉及AI商业动态。包括：Value-Rich, Differently Organized: Measu。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+          "body": "今日4条情报涉及AI商业动态。包括：dipakkr/awesome-ai-engineering, Blacksmith hits unicorn valuation after , Value-Rich, Differently Organized: Measu。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
           "type": "validation",
           "evidence": [
             {
-              "id": "ai-promises-productivity-but-for-managers-it8217s-mostly-a-headache-for-now",
-              "title": "AI promises productivity, but for managers, it&#8217;s mostly a headac",
+              "id": "multimodal-embodied-agents-a-unified-capability-centric-perspective-from-compute",
+              "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective f",
               "score": 0.3,
-              "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-              "reason": "里程碑式进展",
+              "url": "http://arxiv.org/abs/2610.30108v1",
+              "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "ecosystem"
             }
           ]
@@ -3869,5 +3877,5 @@
   ],
   "contradictions": [],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-10-22**（149天），累计 **4133** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：📱 产品模式呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-10-22**（149天），累计 **4165** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：📱 产品模式呈上升趋势"
 }

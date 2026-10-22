@@ -1,8 +1,41 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T00:04:38.663992+08:00",
-  "item_count": 19,
+  "generated_at": "2026-10-22T16:05:54.100924+08:00",
+  "item_count": 41,
   "items": [
+    {
+      "id": "claude-duet",
+      "label": "Claude Duet",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50186037",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "ai-job-search-devai-job-search",
+      "label": "ai-job-search-dev/ai-job-search",
+      "summary": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "pm_score": 0.405,
+      "pillar": "ecosystem",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/ai-job-search-dev/ai-job-search",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "dipakkrawesome-ai-engineering",
+      "label": "dipakkr/awesome-ai-engineering",
+      "summary": "🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.",
+      "pm_score": 0.405,
+      "pillar": "ecosystem",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/dipakkr/awesome-ai-engineering",
+      "date": "2026-10-22"
+    },
     {
       "id": "php2shell-ai-uncovers-critical-rce-in-php",
       "label": "PHP2Shell: AI uncovers critical RCE in PHP",
@@ -37,6 +70,28 @@
       "date": "2026-10-22"
     },
     {
+      "id": "blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c",
+      "label": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "php-armageddon-openai-google8217s-wiz-find-ancient-holes-panicking-the-internet",
+      "label": "PHP Armageddon: OpenAI, Google&#8217;s Wiz find ancient holes, panicking the int",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "date": "2026-10-22"
+    },
+    {
       "id": "patch-the-planet-global-response-coordination-as-agents-uncover-vulnerabilities",
       "label": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
       "summary": "暂无中文摘要",
@@ -45,6 +100,39 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=50181175",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "blackstone8217s-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown",
+      "label": "Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
+      "label": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "meta-says-muse-has-over-10m-users-with-shopping-a-top-activity",
+      "label": "Meta says Muse has over 10M users, with shopping a top activity",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
       "date": "2026-10-22"
     },
     {
@@ -59,6 +147,17 @@
       "date": "2026-10-22"
     },
     {
+      "id": "worldtui-i-trained-a-360m-model-to-pretend-to-be-a-terminal",
+      "label": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50190363",
+      "date": "2026-10-22"
+    },
+    {
       "id": "ai-promises-productivity-but-for-managers-it8217s-mostly-a-headache-for-now",
       "label": "AI promises productivity, but for managers, it&#8217;s mostly a headache for now",
       "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
@@ -67,6 +166,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
+      "label": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
       "date": "2026-10-22"
     },
     {
@@ -92,6 +202,61 @@
       "date": "2026-10-22"
     },
     {
+      "id": "longzero-enhancing-long-context-reasoning-in-llms-from-zero-data",
+      "label": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+      "summary": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable. Human annotation of such data is expensive, naturally occurring data are too scarce to sustain RL,",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.30132v1",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "quant-arena-benchmarking-llm-agents-for-quantitative-trading-research",
+      "label": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
+      "summary": "Quantitative research is an iterative loop: a researcher proposes a market hypothesis, implements it as an executable signal, tests it on historical data, and decides what to keep. Existing benchmarks score formulas, code, or individual trading decisions, leaving open whether large language models (",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.30113v1",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "the-role-of-locality-and-weight-sharing-in-convolutional-neural-networks",
+      "label": "The role of locality and weight sharing in convolutional neural networks",
+      "summary": "The success of convolutional neural networks is often attributed to locality and weight sharing. However, how these two properties separately shape learning, and how their effects depend on the spatial correlations of natural images, remain poorly understood. We address these questions in a teacher-",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.30118v1",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "velocity-ambiguity-profiles-time-resolved-bayes-risk-diagnostics-for-flow-matchi",
+      "label": "Velocity Ambiguity Profiles: Time-Resolved Bayes-Risk Diagnostics for Flow Match",
+      "summary": "Flow matching trains a continuum of velocity regression problems but usually reports a loss averaged over interpolation time, obscuring which regions are limited by intrinsic ambiguity and which remain data-limited. We introduce the Velocity Ambiguity Profile (VAP), $\\mathcal{A}_v(t)$, the time-loca",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.30107v1",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "environment-duels-a-microcosm-of-llm-co-evolution",
+      "label": "Environment Duels: A Microcosm of LLM Co-Evolution",
+      "summary": "Through a tangle of real-world interactions, from synthetic training pipelines to data shared on the open web, frontier LLMs absorb what their predecessors and competitors create. How well does each model play its role in this ecosystem, as a creator and as a solver? We introduce Environment Duels,",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.30116v1",
+      "date": "2026-10-22"
+    },
+    {
       "id": "value-rich-differently-organized-measuring-value-expression-and-organization-in",
       "label": "Value-Rich, Differently Organized: Measuring Value Expression and Organization i",
       "summary": "Current evaluation of LLM-generated debate largely focuses on argumentative quality, leaving the value structure of generated arguments underexamined. We introduce a diagnostic metric framework for comparing how values are expressed and organized in human-reference and AI-generated debates. The fram",
@@ -111,6 +276,28 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2610.28629v1",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "minimax-optimality-of-the-npmle-for-gaussian-mixtures-in-hellinger-distance",
+      "label": "Minimax Optimality of the NPMLE for Gaussian Mixtures in Hellinger Distance",
+      "summary": "We analyze the problem of estimating univariate Gaussian mixture densities using the nonparametric maximum likelihood estimator (NPMLE) based on $n$ independent and identically distributed samples. We show that the unconstrained NPMLE achieves the minimax optimal rate $\\log(n)/n$ in squared Hellinge",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.30109v1",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "a-quasipolynomial-algorithm-for-ell_infty-contractions",
+      "label": "A Quasipolynomial Algorithm for $\\ell_\\infty$ Contractions",
+      "summary": "We give an algorithm for computing an $\\eps$-approximate fixed point of any $d$-dimensional nonexpansion with respect to the $\\ell_\\infty$ norm in time $\\log(1/\\eps)^{O(\\log^2 d)}$. At its core, our method uses a boosting argument to geometrically shrink a search region. Among other consequences, ou",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.30122v1",
       "date": "2026-10-22"
     },
     {
@@ -147,6 +334,28 @@
       "date": "2026-10-22"
     },
     {
+      "id": "self-normalized-bernstein-inequalities-for-regenerative-processes-and-applicatio",
+      "label": "Self-normalized Bernstein Inequalities for Regenerative Processes and Applicatio",
+      "summary": "We prove a self-normalized Bernstein inequality for bounded functions of a regenerative process with independent, identically distributed marked cycles of finite mean length. The bound uses observed cycle lengths and retains explicit terms for truncation and the cycle ending after the observation ho",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.30119v1",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "think-harder-where-it-matters-item-level-adaptive-recursion-for-sequential-recom",
+      "label": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Reco",
+      "summary": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challenge this de facto design with two diagnostic findings. (1) Non-uniform computational need: items withi",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.30128v1",
+      "date": "2026-10-22"
+    },
+    {
       "id": "mindview-benchmarking-generative-multi-view-spatial-intelligence",
       "label": "MindView: Benchmarking Generative Multi-View Spatial Intelligence",
       "summary": "Spatial intelligence has recently been assessed through generative tasks such as spatially grounded image editing, yet language-guided generation of spatially consistent views from partial multi-view observations remains underexplored. We introduce MindView, a benchmark for generative multi-view spa",
@@ -177,6 +386,39 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2610.28607v1",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "multimodal-embodied-agents-a-unified-capability-centric-perspective-from-compute",
+      "label": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Comput",
+      "summary": "Multimodal agents (MMAs) sustain interaction through reasoning, memory, tools, and feedback, most visibly as computer-use agents, while robotic systems (RSs) couple sensing and actuation under physical dynamics. We define multimodal embodied agents (MMEAs) as goal-directed systems that couple multim",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.30108v1",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "physicalworld-in-context-physics-calibration-for-world-models",
+      "label": "PhysiCalWorld: In-Context Physics Calibration for World Models",
+      "summary": "Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dynamics, such as an object's mass distribution, joint damping, or surface friction. Without calibrati",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.30125v1",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "the-end-of-consensus-research",
+      "label": "The End of Consensus Research?",
+      "summary": "Consensus is a fundamental problem in distributed computing and at the core of state machine replication (SMR). Despite decades of active human research, discovering practical low-latency solutions to the problem is still open, as it requires combining protocol knowledge, correctness reasoning, impl",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.30114v1",
       "date": "2026-10-22"
     },
     {
@@ -214,7 +456,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 9723,
-    "edges": 10694
+    "real_nodes": 9755,
+    "edges": 10733
   }
 }
